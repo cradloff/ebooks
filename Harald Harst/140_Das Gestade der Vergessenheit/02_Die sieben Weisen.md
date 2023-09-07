@@ -1,4 +1,4 @@
-<h1>Die sieben Weisen</h1>
+<h1>Die sieben Weisen.</h1>
 
 <h2>1. Kapitel.</h2>
 <h3>Das chinesische Kästchen.</h3>
@@ -98,7 +98,7 @@ den Zahlen eine Unterschrift, die folgendermaßen lautete:
 
 Ich ahnte, daß die Zahlen eine Chiffreschrift seien, und
 abermals plagte ich mich jetzt wochenlang mit allerlei
-Lösungsversuchen … ohne Erfolg!
+Lösungsversuchen — ohne Erfolg!
 
 So legte ich denn schließlich das Kästchen mit den beiden
 Papieren wieder beiseite …
@@ -164,7 +164,7 @@ Sandor ein Stück in Tibet eingedrungen …«
 
 »So … so … — Tibet!« nickte Harst und reichte
 Claire den Teebecher. »Darf ich Ihnen dazu auch ein paar
-Keks reichen, Miß Margall? Bevor wir uns zum Schlafe
+Kekse reichen, Miß Margall? Bevor wir uns zum Schlafe
 niederlegen, müssen wir uns etwas stärken … — Ich übernehme
 die erste Wache … Es ist jetzt vier Uhr morgens.
 Um sieben mag Schraut mich ablösen …«
@@ -203,7 +203,7 @@ tat er so, als ob wir von Gefahren umlauert seien …!
 
 <@pagebreak/>
 Nun — trotzdem paßte ich gut auf. So lange ich hier
-den Eingang bewachte, sollte niemand uns belästigen …
+den Eingang bewachte, sollte niemand uns belästigen …!
 
 Aber — es passierte nichts — natürlich nicht! Eine
 Stunde später drehte der Wind, und strahlender Sonnenschein
@@ -212,14 +212,14 @@ zauberte neue Reize der Gebirgslandschaft hervor.
 Drüben am See hatten fünf Buddhistenmönche eine Anzahl
 Schafe ins Freie getrieben damit die Tiere einmal
 wieder frische Luft schöpften. Es war eine Freude, die Tiere
-im Schnee umhertollen zu sehen.
+im Schnee umhertollen zu sehen …
 
 Von Gefahr, von Feinden keine Spur!
 
 Und als gegen zehn dann unsere Gefährten sich erhoben,
 als Harald mich aufforderte, ihn hinab in die Höhle zu
 begleiten, da konnte ich nicht anders: ich machte eine ironische
-Bemerkung über den »Ernst der Lage.«
+Bemerkung über den … »Ernst der Lage.« …!!
 
 Wir hatten das Zinkboot bestiegen. Harald ruderte.
 Harald schaute mich an und erwiderte:
@@ -233,7 +233,7 @@ wußte, daß es Wert hatte. Er ist ein Lump ohnegleichen.«
 Nun — jetzt machte ich ein recht betretenes Gesicht. Diese
 Angaben hatten Hand und Fuß, zumal der Ingenieur ja
 Claire von dem Prozeß gegen die »sieben Weisen« erzählt
-hatte und dadurch Claire nur hatte aushorchen wollen.
+hatte und dadurch Claire nur hatte aushorchen wollen …
 
 Harald sprach schon weiter.
 
@@ -378,7 +378,7 @@ Ich mußte lachen. Harald und sich ausfragen lassen …!
 
 Natürlich erwiderte er nur:
 
-»All das hätte wenig Zweck. Wozu sollte ich Ihnen
+»All das hätte wenig Zweck … Wozu sollte ich Ihnen
 meine Vermutungen auftischen?! Warten Sie ab …! Und
 erwähnen Sie nie hiervon etwas in Lampas und Sapus
 <@pagebreak/>
@@ -400,13 +400,13 @@ elektrische Lämpchen glühten …
 Ringsum ein internationales Reisepublikum …
 
 Wir vier an einem winzigen Tischchen, umgeben von
-schnatternden Amerikanern, einer Horde, die das Coolsche
+schnatternden Amerikanern, einer Horde, die das Cooksche
 Reisebüro durch Indien führte …
 
 Kultur — Überkultur ringsum …
 
 Parfüm aller Arten in der Luft … Herren im
-Abenddreß … Damen in dekollorierten Roben wie zum
+Abenddreß … Damen in dekollortierten Roben wie zum
 großen Ball … Auf der Estrade eine ungarische Zigeunerkapelle,
 die einfach hinreißend spielte …
 
@@ -442,7 +442,7 @@ Gesellschaftskreise.
 
 Wieder beugte sich Harald zu mir hin.
 
-»Pellham und Smitson …!« flüsterte er …
+»Pellham und Smitson …!«<@refnote 6/> flüsterte er …
 
 Ich … fiel aus allen Wolken.
 
@@ -491,8 +491,8 @@ der Dampferlinien …
 »Ein für Sie passender Dampfer geht morgen vormittag
 <@pagebreak/>
 elf Uhr ab,« sagte er zu Claire und Lewis. »Über Singapore,
-Hongkong, Yekobama, Panama … In zwölf Tagen
-sind Sie daheim in Neuyork …« Und ganz leise: »Sie
+Hongkong, Yokohama, Panama … In zwölf Tagen
+sind Sie daheim in Neuyork …« — Und ganz leise: »Sie
 werden abreisen … Wir ebenfalls eine Stunde später
 nach Bombay … Aber wir kommen wieder …«
 
@@ -512,7 +512,7 @@ Wir verließen den Park durch eine Seitenpforte, zu der
 Harald vom Hoteldirektor in aller Stille den Schlüssel besorgt
 hatte.
 
-Wohin es gehen sollte? — Ich wußte es nicht …
+Wohin es gehen sollte? — Ich wußte es nicht …! —
 Wir kannten Kalkutta.
 
 Nördlich von dem ausgedehnten Maidan, dem Riesengarten
@@ -525,7 +525,7 @@ Der Pförtner wollte uns zurückweisen.
 
 »Harst,« sagte mein Freund.
 
-Das Zauberwort wirkte.
+Das Zauberwort wirkte …
 
 Der Pförtner dienerte: »Sahib, Sir Codanoor erwartet
 Euch …«
@@ -558,10 +558,10 @@ schnell entführte.«
 
 Sir Codanoor hüstelte:
 
-»Verzeihung, lieber Harst, was ist mit den beiden?«
+»Verzeihung, lieber Harst, was ist’s mit den beiden?«
 
 »Mörder sind’s, Verbrecher größten Stils … — Haben
-Sie schon einmal von dem Newyorker Verbrecherbund »Die
+Sie schon einmal von dem Neuyorker Verbrecherbund »Die
 sieben Weisen« gehört?«
 
 »Nein — bedauere …«
@@ -669,9 +669,9 @@ zuhört, glaubt man einen Roman zu lesen …«
 sehr traurigen. John Margall hat Colin Roß auf seine
 Tochter gehetzt … Das chinesische Kästchen sollte durch
 Roß verschwinden. Margall hatte es vergessen, als er seinen
-Tod inszenierte — seinen Tod in Alaska …!! Es sind
+Tod inszenierte — seinen Tod in Alaska …! Es sind
 Schurken größten Kalibers. Und wehe uns, wenn wir ihnen
-je in die Hände fallen sollten. Die kennen kein Erbarmen.
+je in die Hände fallen sollten. *Die* kennen kein Erbarmen.
 Die sind weise: Tote reden nicht mehr!« —
 
 Gleich darauf verabschiedeten wir uns …
@@ -803,7 +803,7 @@ Geheimagenten …
 Und als wir an der Kneipe vorüberhumpelten, flatterte
 uns plötzlich ein Stück Papier vor die Füße, das mit einem
 Steinchen beschwert und an dem mit einer Nadel ein indischer
-Geldschein beseitigt war …
+Geldschein befestigt war …
 
 Es wäre auffallend gewesen, wenn zwei Bettler diesen
 Geldschein unbeachtet gelassen hätten …
@@ -865,10 +865,10 @@ Knebel im Munde, verstaut worden war, von dannen …
 Ein Karren ratterte davon …
 
 Erst durch belebtere Straßen, dann durch Einsamkeit —
-Felder — Wälder — Holzbrücken … stundenlang …
+Felder — Wälder — Holzbrücken … — stundenlang …
 
 Und schließlich wurde mein Korb emporgehoben, wurde
-Treppen empor geschafft, wurde hart niedergestellt …
+Treppen emporgeschafft, wurde hart niedergestellt …
 
 Schritte entfernten sich …
 
@@ -930,7 +930,7 @@ Dach …
 
 Unter uns schimmerte der Hugli …
 
-Es war das Dach der Schifferkneipe.
+Es war das Dach der Schifferkneipe …
 
 <@pagebreak/>
 Harald ließ sich abwärts gleiten … Sechs Meter tiefer
@@ -980,7 +980,7 @@ Als ich mich bückte und mir die Schnüre von den zerrissenen
 Sandalen löste, fühlte ich, daß der Fußboden unter
 mir wippte …
 
-Das konnte mir eine Falltür sein … Ich bückte mich,
+Das konnte nur eine Falltür sein … Ich bückte mich,
 betastete die rissigen Dielen …
 
 »Harald!«
@@ -1027,7 +1027,7 @@ Schnüre meiner Sandalen …
 Und plötzlich …
 
 »Hallo — der Kerl hat ja unsere Pistolen in der
-Tasche … Wahrhaftig …!! — Mache doch nochmals
+Tasche …! Wahrhaftig …!! — Mache doch nochmals
 Licht …«
 
 Die Kerze flackerte wieder …
@@ -1149,7 +1149,7 @@ in dieser grünen Decke.
 Ich hatte die Kerze wieder angezündet. Harst trug
 <@pagebreak/>
 den noch immer bewußtlosen Pellham die Leiter empor …
-Ich folgte, löschte das Licht aus … Wir standen im dicken
+Ich folgte, löschte das Licht aus … Wir standen im dichten
 Gebüsch in der Ecke eines großen, von hoher Mauer umfriedeten
 Gartens mit sehr alten Bäumen …
 
@@ -1275,7 +1275,7 @@ Sind sie echt …?«
 
 »Ah so …! Angeklebt!! Welch ein Schurke …!!
 Welche Gemeinheit, gleichsam die Maske des Vaters seiner
-betrogenen Verlobten anzulegen …! — Schraut binden und
+betrogenen Verlobten anzulegen …! — Schraut, binden und
 knebeln …! Jeden an einen Baum … Zerschneiden wir
 ihre Kittel …«
 
@@ -1320,7 +1320,7 @@ heißen Quellen erwärmten Wasser gebadet?«
 
 »Ja, Master … Mehrmals … Und er tauchte dann
 stets … Master Sandor war vom Zinkboot aus ein Revolver
-ins Wasser gefallen.«
+ins Wasser gefallen …«
 
 »Also so entdeckte Margall das Geheimnis des diamantenhaltigen
 Tonlagers!« sagte Harald zu mir in deutscher
@@ -1379,11 +1379,11 @@ Polizei zu holen …!!«
 <h3>Der Tote auf dem Ameisenhügel.</h3>
 
 Es kam alles ganz anders, als wir uns das Ende dieses
-Kriminaldramas vielleicht ausgemalt hätten.
+Kriminaldramas vielleicht ausgemalt hätten …
 
 Ganz anders …! So unerwartet waren die folgenden
 Ereignisse, daß wir beim besten Willen nicht hindernd eingreifen
-konnten.
+konnten …
 
 Wir waren näher an die Villa herangeschlichen. Harst
 hatte die Absicht gehabt, zunächst einmal Claire Margall und
@@ -1406,10 +1406,10 @@ des Gartens ein und verschwanden unter den Bäumen.
 »Hm — ob sie etwa die Edelsteine und die den Mönchen
 geraubten Tempelgeräte unter dem Ameisenhügel gleichfalls
 verscharren wollen?!« meinte Harald. »Wir werden jedenfalls
-zunächst mal in die Vorhalle schleichen. Die Tür
+zunächst mal in die Vorhalle schleichen … Die Tür
 haben sie offen gelassen … Vorwärts!«
 
-In der Villa war es totenstill.
+In der Villa war es totenstill …
 
 Ein langer Flur lief nach vorn … Zwei elektrische
 Lampen brannten hier … Die Marmorfliesen, die kostbaren

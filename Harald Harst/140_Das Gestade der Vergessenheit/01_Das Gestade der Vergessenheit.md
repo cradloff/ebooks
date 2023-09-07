@@ -96,7 +96,7 @@ Nepalesen durch ihre Untat sich verschafft hatten.
 
 Wenn ich diese Einleitung zu unserem Abenteuer an den
 Gestaden der Vergessenheit in anderer Form als sonst gebracht
-habe, so geschabt es nur, um dem Leser von vornherein
+habe, so geschah es nur, um dem Leser von vornherein
 klar zu machen, welche Vorsichtsmaßregeln wir anwandten,
 um jede Fährte zu verwischen und um ja nicht den Verdacht
 aufkommen zu lassen, die beiden Holländer könnten vielleicht
@@ -108,7 +108,7 @@ Holländer sollten lieber für tot gelten und Mr. Thomas
 Longerpeek einige Aufregungen bereiten, als daß Harst und
 Schraut denen zum Opfer fielen, die am sogenannten Godwira-See
 in den Himalaja-Vorbergen abscheuliche Verbrechen
-begannen hatten und zusammen mit ihrem Anhang
+begangen hatten und zusammen mit ihrem Anhang
 nichts unterlassen würden, sich der strafenden Gerechtigkeit zu
 entziehen.
 
@@ -255,7 +255,7 @@ Die chiffrierte Depesche lautete in deutscher Übersetzung:
 ich für den Text der Depesche eine einfache Chiffreschrift
 gewählt, die Sie mühelos bewältigen werden. — Heute
 vor einem Jahr verließ mein Verlobter, der Ingenieur
-Colin Roß, Newyork, zusammen mit zwei anderen
+Colin Roß, Neuyork<@refnote/>, zusammen mit zwei anderen
 Mineningenieuren, die in Nepal am Godwira-See im
 <@pagebreak/>
 Auftrage einer Aktiengesellschaft nach Edelmetallen
@@ -291,8 +291,8 @@ würdig sind. — Ich warne Sie im übrigen, Mr. Harst,
 falls Sie wirklich die lange Reise hierher antreten
 sollten. Schon in den indischen Grenzdörfern stecken
 Spione, die mir seitdem kaum von den Fersen gewichen
-sind. Es muß sich hier um ganz große Dinge handeln,
-vielleicht um … — Doch nein, ich will mich nicht in
+sind. Es muß sich hier um ganz große Dinge handeln.
+Vielleicht um … — Doch nein, ich will mich nicht in
 Phantasien ergehen. Nun nochmals: die Schurken, die
 meinen Verlobten und all die anderen beseitigt haben,
 verfügen über ungeheure Hilfsmittel! — Ich grüße
@@ -364,7 +364,7 @@ Und da sagte Harst abermals:
 Ich wußte, was er meinte …
 
 Es gibt ein sehr bekanntes Bild, das fälschlich stets
-Böcklin zugeschrieben wird: »Das Gestade der Vergessenheit
+Böcklin<@refnote/> zugeschrieben wird: »Das Gestade der Vergessenheit
 …«
 
 Die düstere Melancholie dieses Gemäldes fand ich hier
@@ -464,7 +464,7 @@ Kerbholz haben …«
 »Gern geschehen … — Hat denn der Hund nie das
 Versteck dieser Leute dort am See auffinden können?«
 
-»Das ist’s ja eben, Mr. Harst …! Das ist’s ja eben …
+»Das ist’s ja eben, Mr. Harst …! Das ist’s ja eben …!
 Es gibt dort keine Fährten …! Die Schufte fliegen rein
 durch die Luft …!«
 
@@ -482,7 +482,7 @@ sollte jetzt jedoch mit einem Schlage sich wandeln …
 Der Marsch zu unserem neuen Quartier verlief allerdings
 ohne jede Störung und bot uns beim Lichte des inzwischen
 aufgegangenen Vollmondes wahrhaft entzückende
-Winterbilder dieser großartigen Bergeinsamkeit.
+Winterbilder dieser großartigen Bergeinsamkeit.<@refnote/>
 
 Nach knapp einunddreiviertel Stunden hatten wir die
 Höhle am Gestade der Vergessenheit erreicht. Jetzt im
@@ -515,7 +515,7 @@ in ein silbernes Viereck …
 
 Aber außerhalb dieses glänzenden Streifens gewahrte
 ich nun ebenfalls noch einen hellen Fleck … Es sah so aus,
-als ob auf dem Grunde des See sich eine Lichtquelle befände,
+als ob auf dem Grunde des Sees sich eine Lichtquelle befände,
 die bis nach oben hin das Wasser durchstrahlte. Daneben
 lagerten leichte Nebelgebilde, die fraglos auf die heißen
 Quellen zurückzuführen waren.
@@ -616,7 +616,7 @@ meine Lungen wieder beruhigt, als ich auch schon irgendwoher
 merkwürdige Töne vernahm …
 
 »Bitte — stecke den Kopf nur dort in das Felsloch,«
-flüsterte Harald. Und er deutete auf eine enge Spalte,
+flüsterte Harald … Und er deutete auf eine enge Spalte,
 die er nun mit der elektrischen Taschenlampe beleuchtete.
 Die Spalte setzte sich offenbar nach unten zu fort, und kaum
 hatte ich den Kopf hineingesteckt, als die seltsamen Töne
@@ -662,7 +662,7 @@ nicht kennen …«
 
 »Leben?!«
 
-»Ja — leben und arbeiten …!! Es ist doch klar, daß
+»Ja — leben und arbeiten …! Es ist doch klar, daß
 es sich hier wahrscheinlich um Goldfunde handelt. Nepal
 führt in allen Flüssen Goldkörner. Und Gold sollten Colin
 Roß und die Ingenieure suchen …«
@@ -697,7 +697,7 @@ Felsspalte aus den unbekannten Tiefen anderes zu …
 
 Der Gesang war verstummt …
 
-Eine überlaute scharfe Männerstimme brüllte drohende
+Eine überlaute scharfe Männerstimme brüllte drohend
 abgerissene Worte in nepalesischer Sprache … Und ebenso
 plötzlich änderte der Mann das Nepalesische in fließendes
 Englisch …
@@ -727,10 +727,10 @@ wieder abwärts …«
 
 Unten in unserer Höhle war noch alles in Ordnung.
 Ich eilte bis zu dem verrammelten Eingang. Die Barrikade
-war unversehrt. Harald brühte Tee auf. Wir setzten
+war unversehrt. Harald brühte Tee auf. Wir stärkten
 uns, rauchten und erörterten die Gefangennahme des Kollegen
 Halport und Claire Margalls … Harald war ein wenig
-bedrückt …
+bedrückt …<@refnote/>
 
 »Wir kämpfen hier gegen Gespenster,« meinte er und
 sog verdrossen an seiner Mirakulum. »Wagen wir uns am
@@ -754,7 +754,7 @@ Ein Tierkörper schnellt herein: Douglas!
 Und Hektor Richard Lewis’ Stimme:
 
 »Ich bin’s — Lewis!! Ich … ich habe Halport gefunden
-… Er ist tot … ermordet …!«
+… Er ist tot — — ermordet …!«
 
 Wir halfen ihm …
 
@@ -770,7 +770,7 @@ Dann berichtete er …
 <h2>4. Kapitel.</h2>
 <h3>Claire Margall.</h3>
 
-»Nachdem Sie mich allein gelassen hatten, überlegte ich
+»Nachdem Sie mich allein gelassen hatten<@refnote/>, überlegte ich
 mir, daß ich mir eine andere Unterkunft suchen müßte, da
 die Schufte ja meinen Lagerplatz kannten. Ihre Anwesenheit
 hier, Kollegen, hatte mir Mut gemacht und meinen
@@ -779,13 +779,13 @@ Ihnen beiden zurückstehen und mich näher an den See heranwagen.
 Ich packte unsere Sachen zusammen, stellte aus
 einem Stück Leinwand eine Art Schleife her und zog so
 das Gepäck bis zum Südufer des Sees — bis zu dem einzelnen
-langen Felsen, der von den Randbergen wie ein erster
+langen Felsen, der von den Randbergen wie ein spitzer
 Wall bis dicht ans Wasser reicht. Mein braver Douglas
 machte den Kundschafter und sicherte den Marsch. An jener
 <@pagebreak/>
 Stelle des Felsenwalles, wo auch von hier aus die Steintrümmer
 zu erkennen sein müssen, warnte mich des Hundes
-Knurren. Es schneite leicht. Ich konnte dabei kaum zehn
+Knurren. Es schneite leicht. Ich konnte daher kaum zehn
 Schritt weit sehen. Douglas heulte dann kurz auf. Das
 kannte ich: ein Toter! Und banger Ahnung voll schlich ich
 näher an die Stelle heran, wo Douglas jetzt kläglich winselte
@@ -807,7 +807,7 @@ er scheu und schuldbewußt …
 
 Aber Harald streckte ihm die Hand hin …
 
-»Reden Sie keinen Unsinn Lewis … — Wollten Sie
+»Reden Sie keinen Unsinn, Lewis … — Wollten Sie
 sich zerschmettern lassen?!«
 
 Er war erregt, und in seinen grauen Augen leuchtete
@@ -824,7 +824,7 @@ einen Zugang zu dem unterirdischen Kloster geben …«
 »Kloster?!« rief Lewis …
 
 »Ja — Hohlräume, von deren Ausdehnung wir nichts
-ahnen …!« Und er erzählte dem Newyorker Kollegen nun,
+ahnen …!« Und er erzählte dem Neuyorker Kollegen nun,
 wie wir den Gesang der Mönche belauscht hatten — von der
 <@pagebreak/>
 wütenden Männerstimme und dann auch von dem Lichtschein,
@@ -919,7 +919,7 @@ Blonde Bärte, ungepflegt … Der Nepalese, ein kleiner
 Kerl im Schafpelz …
 
 Und der sprang nun, als das Boot das Ufer erreicht
-hatte, auf einen hohen Stein, und von da auf den Wall …
+hatte, auf einen hohen Stein, von da auf den Wall …
 Hatte zwei Leinen in der Hand … Die Europäer folgten
 auf demselben Wege … Und mit Hilfe der Leinen rissen
 sie das Boot zu sich empor, trugen es oben auf der schmalen
@@ -1269,12 +1269,12 @@ Eine Höhle hier … vielleicht achtzehn Meter hoch …
 Mitten darin das seltsamste Tempelchen, das ich je geschaut
 habe … Erbaut aus farbigen Steinen, verziert durch
 Muscheln, Edelsteine … Beleuchtet durch etwa fünfzehn
-Öllampen primitivster Art. Umwogt von dem
+Öllampen primitivster Art … Umwogt von dem
 wohlriechenden Qualm dieser Lampen …
 
 Und dann nebenan ein kleinerer Höhlenraum: die Wohnung
-der frommen Vierzehn … Ein dritter Raum: der
-Schafstall, der auch Milchziegen enthielt. Ein vierter,
+der frommen Vierzehn … — Ein dritter Raum: der
+Schafstall, der auch Milchziegen enthielt. — Ein vierter,
 die Vorratskammer!
 
 Und überall als Beleuchtungsmittel dieselben flachen
@@ -1310,7 +1310,7 @@ Mönche betonten, Gold oder dergleichen gäbe es hier nicht.
 Was der Schwarzbärtige hier mit dem Taucheranzug begonnen,
 konnten sie in keiner Weise aufklären. — Über ihre
 Höhlenkolonie gaben sie an, daß sie vor zwanzig Jahren
-aus Lasa in Tibet als Abtrünnige vertrieben worden
+aus Lhasa in Tibet als Abtrünnige vertrieben worden
 waren, weil sie verschiedene religiöse Einrichtungen nicht
 anerkannten. Sie hatten dann hier in aller Stille sich niedergelassen
 und ihr Geheimnis bisher sorgsam gehütet. In
@@ -1383,7 +1383,7 @@ Sie erwiderte zögernd:
 
 <@pagebreak/>
 »Mein … mein Vater gehörte mit zu dieser merkwürdigen
-Vereinigung … ich will nichts verschweigen …!
+Vereinigung … Ich will nichts verschweigen …!
 Denn Colin Roß soll gerächt werden!«
 
 … Gerächt werden …?! — Nach Haralds Theorie
