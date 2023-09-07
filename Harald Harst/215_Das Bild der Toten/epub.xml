@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">d3aa038c-f14e-4062-b1ed-d92ac854aa15</entry>
+<entry key="title">Das Bild der Toten</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">215</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Das Bild der Toten.
+
+Die schönste Frau von Benares lachte ihr melodisches Lachen …
+
+»Sie sind ein köstlichen Plauderer, Herr Harst … Ich habe nie geahnt, daß ein Mann, der sich ganz der Sensation zugewandt hat wie Sie … — und Ihr Freund Schraut, so graziös Konversation zu führen weiß … Nur, Sie werden mir meine Offenheit verzeihen, ich hätte so gern bei Ihnen einen jener Geistesblitze aufleuchten sehen, die schon so vielen Rechtsbrechern verhängnisvoll geworden sind …« —
+
+»Mylady, dieses Ansinnen, mich gleichsam im intimsten Kreise als Kombinationsgenie« — er wählte absichtlich dieses scheinbar unrichtige Wortungetüm — »… zu produzieren, enthält zumeist für die, die es stellen, eine gewisse Gefahr, es sei denn, daß das Gewissen der Betreffenden absolut … sauber ist, und das dürfte bei den wenigsten Menschen der Fall sein, — auch bei mir nicht. Kleine moralische Defekte haben wir alle, Mylady …«
+
+Das Land der Toten.
+
+Jonny Weec sagte: »Es war selbstverständlich, daß ich Sie kennen lernen mußte, Mr. Harst. Mein Pa lädt Sie und Ihren Freund zu einer Jagd ein. Was kostet das?«
+
+»Eine Million Dollar,« erwiderte Harst äußerst zuvorkommend.
+
+Jonny grinste. »Sie scherzen …«
+
+»Nein. Aber Sie …! — Wenn Sie Führer für eine Jagdpartie brauchen, so wählen Sie billigere.«
+
+»Aber — wir könnten doch daheim in Chikago erzählen, daß …«
+
+»Dann muß Ihnen dies auch eine Million wert sein …«
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (215) Das Bild der Toten.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1928</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
