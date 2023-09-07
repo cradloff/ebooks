@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">0fd44c28-0122-41c5-a67d-af3dc81e6faa</entry>
+<entry key="title">Die Schildkröte des Yogi</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">214</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Die Schildkröte des Yogi.
+
+Die Nacht kam. Sie schlich herbei wie ein häßliches Pesthauch ausatmendes Ungetüm.
+
+Aus den sumpfigen Stellen, aus den Büschen und Dickichten krochen die Fieberschwaden hervor.
+
+Der Dschungel wehrte sich gegen die frechen, fremden Eindringlinge, und die Ruinenstadt Dawalla, einst Residenz des sagenhaften Königs Murwada, schien uns durch ihre gefährlichen Nebelgeister verscheuchen zu wollen.
+
+Aber wir hielten stand. Wir hatten Chinin wie Konfekt geschluckt, und trotz Nebel, Regen, Geheul wilder Bestien und der Aussicht, in unserem Zelt jede Minute den Besuch einiger Brillenschlangen abwehren zu müssen, befanden wir uns in glänzender Stimmung, die freilich zu neunzig Prozent auf das Konto dreier leerer Whiskyflaschen kam, die noch um halb neun voll gewesen.
+
+Die Frau mit dem Goldschleier.
+
+Wir hatten die vier Gräber nun, gedeckt durch ein paar Büsche und die Mauer, auf zehn Schritt vor uns.
+
+Was wir sahen, war seltsam genug. Und Harald mußte dieses Bild wohl vorausgeahnt haben.
+
+Da kniete vor dem Grabe Trina Gudunows eine verschleierte Inderin … Neben ihr lagen drei Kränze, prächtige Kränze aus dem Laub und den Blüten der Sasparia durabla, der unvergänglichen Sasparia …
+
+Da kniete zweitens vor dem Grabe Harry Hopkins ebenfalls eine Inderin, eine weit größere, kräftigere Gestalt als die andere … Neben ihr … vier Kränze …
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (214) Die Schildkröte des Yogi.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1928</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
