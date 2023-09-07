@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">780ec838-91ce-408d-940c-f8880a7efeaf</entry>
+<entry key="title">Der Film der Wunder</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">216</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Der Film der Wunder.
+
+Meines Wissens hat sich ein entfernt ähnlicher Kriminalfall wie dieser, den ich hier schildern will, bisher nur ein einziges Mal zugetragen. Mein Freund Harst meint dasselbe.  Also wird es stimmen. Sein Gedächtnis ist das beste Archiv auf Erden. —
+
+Das internationale Gaunertum, das früher als Arbeitsfeld die Luxushotels Europas und Amerikas bevorzugte, zeigt seit einiger Zeit eine ausgesprochene Vorliebe für die Heerstraße des Touristenverkehrs in Ostasien, Westindien, Australien und Niederländisch-Indien. Wo man früher dem jedem kundigen Auge leicht erkennbaren Typ des vornehm aufgemachten Glücksritters niemals oder selten begegnete: Jetzt trifft man ihn allerorten an! Eine Probe hiervon gab ich im »Grünen Leuchtstab«. Eine weitere folgt hier. —
+
+Schnitzeljagd.
+
+… Der Titel des zweiten Teiles mag eigenartig anmuten.
+
+Unter Schnitzeljagd versteht man bekanntlich, um dies ganz kurz zu streifen, die Verfolgung eines Reiters, der Papierschnitzel zur besseren Sichtbarmachung seiner Fährte ausstreut, durch andere Reiter: also ein Sportspiel!
+
+Auf hartem Geläuf, also auf festem Boden, bilden diese Schnitzel für die Verfolger die einzige Spur. —
+
+Für uns waren’s keine Papierschnitzel, die uns unser »Wild« schließlich finden ließen … Aber etwas Ähnliches.
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (216) Der Film der Wunder.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1928</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
