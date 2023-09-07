@@ -134,7 +134,7 @@ Mein Jeanettchen fuhr mich grimmig an:
 Weltkrieges war ein Gottesgericht … Ich spreche nie über
 Politik. Nur hier darf ich Ihnen wohl entgegnen: Dann
 war auch der Krieg 70/71 ein Gottesgericht. — Und nun
-reden wir besser von diesen Hühnchen, die der Geräuschlose
+reden wir besser von diesen Hühnchen, die der geräuschlose
 Diener soeben serviert. Kennen Sie die Geschichte von Frau
 Neureich, die sich auf ihrem Schloß auch einen Hühnerhof
 anlegen ließ?«
@@ -174,7 +174,7 @@ In diesen Worten lag ein feiner Doppelsinn …
 Bildes schmerzt Sie, geht Ihnen nahe.«
 
 Das konnte aber auch bedeuten »Das Bild hegt Böses
-gegen Sie, »attackiert« Sie, will Ihnen gefährlich werden …
+gegen Sie, »attackiert« Sie, will Ihnen gefährlich werden …«
 
 Worauf Mylady ein ganzes Glas hinuntergoß und unter
 einem tiefen Erröten erklärte:
@@ -220,7 +220,7 @@ heute erzählt, daß sie indische Schwalben sich halten, die
 die eßbaren indischen Schwalbennester herstellen, und einen
 indischen Koch haben sie auch schon, der die Dinger zubereiten
 wird, und da sind deine Koch in China-Hühner nur
-ein plebejischer Fraß!«
+ein plebejischer Fraß!««
 
 Mademoiselle lachte pflichtschuldigst. Eigentlich hätte sie
 pfeifen müssen.
@@ -345,7 +345,7 @@ Die Damen erhoben sich. Jeanettchen kicherte übermütig.
 
 »Ach — das war interessant!« meinte sie und klatschte
 in die Hände … »Endlich doch mal ein kleines Abenteuer,
-Mylady! Man versauert hier ja … »Nichts passiert …«
+Mylady! Man versauert hier ja … Nichts passiert …«
 
 Auch Alix Gundamoore nahm den Zwischenfall sehr
 leicht, sehr …
@@ -593,7 +593,7 @@ dem England schmeichelte, den es bei Laune erhalten wollte,
 der Hosenbandorden verliehen. —
 
 Die Lady rief jetzt: »… Sie sind an Deck … Da, sie
-haben die Großen Karbidlaternen mit. Auf Mah Sing ist
+haben die großen Karbidlaternen mit. Auf Mah Sing ist
 Verlaß … Sehen Sie, Herr Harst, — der Bucklige da im
 Laternenlicht, das ist der Händler Biku, ein Mischling …
 Sein Frachtschiff ankert immer an dieser Stelle … Ich habe
@@ -667,7 +667,7 @@ Theaterszene niedergeht …
 Von dem Frachtschiff war nichts mehr zu sehen, —
 alles weggewischt …
 
-»Sie … haben … ihn …"« sagte Lady Alix … »Er
+»Sie … haben … ihn …« sagte Lady Alix … »Er
 hatte etwas wie ein Gewehr in der Hand … Es ist der
 Attentäter …«
 
@@ -718,7 +718,7 @@ hinein …
 Weshalb sollen wir auch hier draußen naß werden?!
 
 In dem Dreckloch von Kajüte stinkt es wie in der Behausung
-eine Wasserpollacken. Eine Öllampe stinkt mit und
+eines Wasserpollacken. Eine Öllampe stinkt mit und
 sendet Qualm zur rußigen Decke empor und leuchtet wenig.
 
 Herr Biku entpuppt sich als bärtiger Alter, China und
@@ -775,7 +775,7 @@ So hatte der kurze Kampf geendet, der mir ein blaues
 Auge einbrachte und meinen Smoking für den Lumpensammler
 reif machte.
 
-Nur also saßen wir in diesem duftenden Kämmerlein,
+Nun also saßen wir in diesem duftenden Kämmerlein,
 in dem als einzige Dekoration wir selbst und vier krepierte
 Ratten vorhanden waren — vergiftet, denn solch ein Frachtschiff
 ist zumeist an Rattenbesatzung stärker als an menschlicher.
@@ -805,7 +805,7 @@ hättest, würde ich niemals den Salon verlassen haben …«
 »Erlaube mal …«
 
 »Es ist so …! — Aber du bist entschuldigt … Ich
-hätte nie geglaubt daß diese Schufte so schlau und frech
+hätte nie geglaubt, daß diese Schufte so schlau und frech
 sein würden, den Wolkenbruch derart auszunutzen …! Ich
 glaubte, Mah Sing würde uns den Burschen mit der
 Luftbüchse säuberlich vorführen. Unter diesen Umständen bist
@@ -834,7 +834,7 @@ hinten. Ruhe sanft! Denn er ist tot.«
 Hoheit und den fünfzig Frauen und dem Hosenbandorden:
 der einzige farbige Vasall Englands, der dieser Auszeichnung
 gewürdigt wurde, ein Mann, um den sich Märchen,
-Legenden, Romane gewoben haben, der Abgott seines Lande.«
+Legenden, Romane gewoben haben, der Abgott seines Landes.«
 
 Pause …
 
@@ -869,7 +869,7 @@ kamen die Strümpfe und Kleider, und dann die Dessous
 voller »Plüh«, und dann … und dann kam … sie!! —
 Sie, nämlich dein Bubikopfjeanettchen …!«
 
-»Wer?! Die keine Jeanette, die man auch Jean nennen
+»Wer?! Die kleine Jeanette, die man auch Jean nennen
 könnte?!«
 
 »Ja. Wir saßen oben an Deck, und sie spielte mit
@@ -1258,7 +1258,7 @@ Klappschere. Schneiden Sie sich den wüsten Bart herunter,
 kürzen Sie Ihren Haarwust und waschen Sie sich am Seeufer.
 Ich schieße, sobald Sie zu fliehen versuchen …«
 
-»Unbesorgt.« Nackt käme ich nicht weit, Herr Harst.«
+»Unbesorgt. Nackt käme ich nicht weit, Herr Harst.«
 
 Er warf seine Lumpen ab.
 
@@ -1345,5 +1345,3 @@ waren.
 
 Yogi Kaddami war nicht wieder erschienen. Nur seine
 Schildkröte — heimlich!
-
-
