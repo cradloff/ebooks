@@ -47,7 +47,7 @@ Berlin nebenan wohnte.
 Wir waren wie gesagt, nachdem wir am Ufer des
 wunderschönen klaren Sees im Chanari festgestellt, daß des
 Yogi Kaddami Wunderschildkröte die beiden Kulis losgeschnitten
-hatte — die Spuren waren unverkennbar! — In
+hatte — die Spuren waren unverkennbar! — in
 wenig froher Stimmung nach Benares zurückgekehrt, und
 nachdem wir bis neun Uhr früh geschlafen, dann gebadet
 und wieder in unsere Sportanzüge geschlüpft waren, saßen
@@ -199,7 +199,7 @@ wahrscheinlich aus den deutschen Alpen importiert sind, und
 die Hirsche, die ebendorther stammen dürften, sind Edelwild
 … Der Lord kennt sicherlich seine Leute ganz genau …«
 
-Zu dem letzten Satz machte Jonny ein ziemlich Dummes
+Zu dem letzten Satz machte Jonny ein ziemlich dummes
 Gesicht, da er auch den Doppelsinn nicht verstand.
 
 Ich als Zuhörer amüsierte mich köstlich. Und als der
@@ -260,7 +260,7 @@ anvertraute.
 »… Ich bin seit zwei Jahren hinter einem Gauner her,«
 erzählte er, nachdem er eine Zigarette dankend angenommen
 <@pagebreak/>
-"— einem Gauner, Mörder, Fälscher und Einbrecher: Tim
+»— einem Gauner, Mörder, Fälscher und Einbrecher: Tim
 Chariott!«
 
 Harst rief: »Chariott, der die Bank von England betrog!
@@ -443,14 +443,14 @@ Kurz: er rollte die ganzen Ereignisse nochmals in
 scharfen, klaren Bildern vor uns ab und schloß mit den
 Worten:
 
-»Es ist mithin sicher, das Biku oder besser Tim Chariott,
+»Es ist mithin sicher, daß Biku oder besser Tim Chariott,
 nachdem er über den See entkommen, sich mit dem Yogi
 Kaddami zusammengetan hat, denn des Yogis »Schildkröte«
 befreite ja die beiden Kulis des Onkel Tim. Weiter ist
 zweifellos, daß der Yogi durch irgend jemand im Chanari
 bestimmt wurde, gegen uns Partei zu nehmen! Dieser Einfluß,
 der ihn zu dem Wandel seiner Zustimmung brachte,
-muß außerordentlich stark gewesen sein; denn Kaddami schätzte
+muß außerordentlich stark gewesen sein, denn Kaddami schätzte
 uns sehr, war unser Lebensretter. — Woher dieser Einfluß?
 — Nun, dort in der Wildnis der ungeheuren Halbinsel,
 behaupte ich, gibt es eine Person, die sehr mächtig
@@ -464,7 +464,7 @@ Joe Cold riß den Mund vor Staunen weit auf.
 Idee?!« meinte er kopfschlackernd. »Weshalb sollte
 der Fürst sich dort wohl verbergen, und weshalb …?!«
 
-»Stopp …!« Harald konnte plötzlich ein ganz anderes
+»Stopp …!« Harald machte plötzlich ein ganz anderes
 Gesicht. »Ich kann Ihnen diese Fragen unschwer beantworten
 … Der Zwerg, den der Yogi als »Schildkröte«
 benutzt, stammt aus dem Quellgebiet des Mahanadi, und
@@ -502,7 +502,7 @@ soll einen dämonischen Einfluß auf die Frauen gehabt
 haben, und doch hat Lady Alix ihm widerstanden und ihn
 irgendwie aus Rache gleichfalls verschwinden lassen … —
 Wissen Sie, Cold, was Chanari in Wahrheit heißt: nicht
-»das Land der vielen Flüsse«, sondern »das Land der Toten"!
+»das Land der vielen Flüsse«, sondern »das Land der Toten«!
 — Bedenken Sie: Land der Toten! Man sagt, dort im
 Chanari hausen nur Tiere, in denen die von den Göttern
 neunmal verfluchten Seelen abtrünniger Hindus stecken. Man
@@ -625,7 +625,7 @@ Mylady die Hand und sagte:
 gingen in die Irre. Ich nahm an, Sie hielten den
 Fürsten im Chanari verborgen.«
 
-»Ich?! Alix Gundamoore schüttelte den Kopf. »Das
+»Ich?!« Alix Gundamoore schüttelte den Kopf. »Das
 ist eine merkwürdige Vermutung, Herr Harst … Allerdings,
 Sie konnten wohl auf diesen Verdacht kommen … Nur —
 nur …«
@@ -704,7 +704,7 @@ begreife ich nicht …«
 Harald nickte nur — schwieg …
 
 Die Stille, die nun eintrat, war erfüllt mit tausend
-unausgesprochener Fragen …
+unausgesprochenen Fragen …
 
 Dann sagte Joe Cold hart und streng:
 
@@ -778,7 +778,7 @@ Weec kam grollend wieder ins Zelt.
 
 Harald, der sich hier in allem völlig zurückhielt, kaute
 mit Behagen das Bruststück der Wildtaube und unterhielt sich
-mit Gladys Weec, die gar nicht so Übel war.
+mit Gladys Weec, die gar nicht so übel war.
 
 <@pagebreak/>
 Am nächsten Morgen sollte es nun dem ersten Tiger
@@ -808,7 +808,7 @@ Mahut Gisbra und Gladys das eine Tier bestiegen. —
 Es ist nun nicht meine Aufgabe hier, etwas zu schildern,
 was in hundert Jagdgeschichten steht.
 
-Mittags kam Jonny zu Schuß. Der Tiger flüchtete …
+Mittags kam Jonny zum Schuß. Der Tiger flüchtete …
 
 Unser Mahut, vorher heimlich bestochen, ließ den grauen
 Riesen vorwärtsstürmen … Gladys hatte schon vorher den
@@ -833,8 +833,8 @@ Harst nahm die Büchse zur Hand.
 
 Wir stießen plötzlich auf einen schmalen Pfad … Der
 Mahut Gisbra mußte seinen Platz auf dem Halse des
-Elefanten verlassen und sich in dem Tragkorb zusammen
-kauern …
+Elefanten verlassen und sich in dem Tragkorb zusammenkauern
+…
 
 »Du siehst und hörst nichts!« befahl Harald. —
 
@@ -1074,7 +1074,7 @@ Im Speisezimmer …
 Hier haben wir vor genau sechs Tagen gemütlich gesessen
 — zu vieren. Hier habe ich Austern vertilgt und
 Haute Sauterne getrunken und Jeanette, dem Satan,
-die Geschichte von den »Koch in China"-Hühnern erzählt …
+die Geschichte von den »Koch in China«-Hühnern erzählt …
 
 Hier …
 
@@ -1172,7 +1172,7 @@ einsamen Bungalow geschlichen war, wohin er seine »Schildkröte«
 vorausgeschickt hatte, wurde durch die »Toten« festgenommen
 und gezwungen, die beiden Kulis durch den
 Zwerg losschneiden zu lassen. An Schraut und mich wagte
-sich der Oberst mit seinen Gesindel nicht heran. Er wollte
+sich der Oberst mit seinem Gesindel nicht heran. Er wollte
 auf keinen Fall sein Versteck verraten, und der Ausgang
 eines Kampfes erschien ihm ungewiß. — Wir kehrten nach
 Benares zurück. Die inneren Zusammenhänge der Ereignisse
@@ -1200,7 +1200,7 @@ Lady Alix weinte wieder still in sich hinein.
 Harald und ich verließen das Speisezimmer, um uns
 nunmehr von Thomas L’Avons all das bestätigen zu lassen,
 was zum Teil lediglich auf Schlußfolgerungen beruhte, die
-freilich kaum umzustoßen waren. Als wir Jeanettes Zimmer
+freilich kaum umzustoßen waren. Als wir Jeanettes Zimmer,
 vor dem einer der treuen Diener der Lady Wache gehalten,
 betraten, fanden wir das gefährliche Weib … als Leiche
 vor. Sie hatte Gift genommen, aber ein Schreiben zurück
@@ -1220,7 +1220,7 @@ als Dank jedem eine sogenannte »Wasibatta«, eine goldene,
 mit Diamanten belegte Blüte des Batia-Strauches, was für
 Guspar etwa so viel wie ein hoher Orden bedeutete.
 
-L’Avons wurde später in London gehängt, — —
+L’Avons wurde später in London gehängt. — —
 
 Es ist und bleibt ein merkwürdig Ding um ein Frauenherz.
 Lady Alix war, wie Harald ihr geraten, nachmittags
