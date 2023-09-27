@@ -1171,12 +1171,12 @@ ich ohnedies geändert):
 die sich von den völlig verarmten Geschlechtern der
 Fürsten Ventidoglia und der Grafen Astarmalli adoptieren
 ließen. Die Inder hießen bis dahin Chamir Goffra und
-Barami. Es waren hochgebildete Leute, die mehrere Sprachen
+Varami. Es waren hochgebildete Leute, die mehrere Sprachen
 fließend beherrschten. Durch eine hohe Spende in die Kasse
 der italienischen Faschistenpartei beschleunigten sie die Adoptierung.
 
 2. Im März 1925 tauchte der Graf Guiseppe Astarmalli
-(Barami also) in Berlin auf. Durch Vermittlung eines Gütermaklers
+(Varami also) in Berlin auf. Durch Vermittlung eines Gütermaklers
 erwarb er Bebrastein nebst Vorwerk, verliebte sich in
 die Baronesse, heiratete sie 1925 im Herbst und sorgte aufs
 beste für seine Schwiegereltern, die ebenso wenig wie seine
@@ -1278,7 +1278,7 @@ dieses Wandervolk stamme unbedingt aus Indien, — und
 selbst der polizeiliche Bericht und Freund Becherts Besuch
 interessierten ihn wenig, wenn er auch so höflich war Bechert
 zu versichern, er würde »der Sache schon noch den richtigen
-Dreh geben«, wie er sich) ausdrückte.
+Dreh geben«, wie er sich ausdrückte.
 
 Das Wetter in diesen letzten Tagen hatte klaren Himmel
 und Frost gebracht, — etwas, das meines Freundes Gesamtstimmung
@@ -1294,7 +1294,7 @@ kaum vertragen. Freilich glich er diese Vergiftung dadurch
 wieder aus, daß er weite Spaziergänge in dem ihm eigenen
 Geschwindmarschtempo unternahm, ein zweifelhaftes Vergnügen,
 von dem er mich denn auch huldvollst dispensierte,
-weil der Streifschuß an meiner Bar leider eiterte und ich
+weil der Streifschuß an meiner Backe leider eiterte und ich
 daher einen Verband trug.
 
 Es war halb zehn.
@@ -1315,7 +1315,7 @@ er ohne jeden Zusammenhang mit dem eben Gesagten.
 Pferdehandel.«
 
 <@pagebreak/>
-»Zange Schlama — unbekannte Größe …! Woher kennst
+»Janos Schlama — unbekannte Größe …! Woher kennst
 du ihn?«
 
 »Durch meine Spaziergänge … Dir ist wohl bekannt,
@@ -1324,36 +1324,36 @@ war ich dreimal in den letzten Tagen.«
 
 »Aha — also das!«
 
-»X, — zum Vergnügen rannte ich mir wirklich nicht
-die ’Gummiabsäte schief.«
+»Ja, — zum Vergnügen rannte ich mir wirklich nicht
+die Gummiabsätze schief.«
 
 »Würdest du nicht ausnahmsweise so liebenswürdig sein
 und mir im Zusammenhang erklären, was du von Herrn
 Janos Schlama wünschst? Etwa nur Material für deinen
 wissenschaftlichen Aufsatz?«
 
-»Auch das. Hm übrigen hatte der Marchese Ventidoglia
-oder der Inder Haust Goffra, was dasselbe ist, in seiner
+»Auch das. Im übrigen hatte der Marchese Ventidoglia
+oder der Inder Chamir Goffra, was dasselbe ist, in seiner
 Brieftasche eine Quittung, wenn du dich entsinnst …«
 
-»Stimmt: Quittung über 890 Mark für einen ge
-kauften Gaul …
+»Stimmt: Quittung über 890 Mark für einen gekauften
+Gaul …«
 
-… Von Janos Schlama unterschrieben, was die Haarfarbe:
-ist. —« Da wir nun mal das Thema Ventidoglia
-zugefallen haben, möchte ich einige Fragen an die richten.
-»— Erstens: Woher hatten die beiden Inder das viele
+»… Von Janos Schlama unterschrieben, was die Hauptsache
+ist. — Da wir nun mal das Thema Ventidoglia
+angeschnitten haben, möchte ich einige Fragen an dich richten.
+— Erstens: Woher hatten die beiden Inder das viele
 Geld, um sich die Adelstitel in Florenz durch Adoption
-umtaufen zu können?«!
+kaufen zu können?«
 
 »Sie waren Gawir, also hatten sie es zusammengestohlen.«
 
 »Schön. — Sie müssen mindestens zwei Millionen
 nach deutschem Gelde besessen haben. Zwei Millionen zusammenstehlen
 — schwer! — Wo taten sie so erfolgreiche
-Griffe in fremde Beutel? Der Conte bezahlte für die Zerrt
-Schlucht Bebrastein allein 800&nbsp;000 Mark, seiner Frau kaufte
-er Brillanten für 60000 Mark — und so weiter. Der
+Griffe in fremde Beutel? Der Conte bezahlte für die Herrschaft
+Bebrastein allein 800&nbsp;000 Mark, seiner Frau kaufte
+er Brillanten für 60&nbsp;000 Mark — und so weiter. Der
 Marchese wieder hat in einer Nacht hier in Berlin im
 Klub 150&nbsp;000 Mark verjeut. Ganz nett. — Frage zwei: Weshalb
 <@pagebreak/>
@@ -1363,9 +1363,9 @@ so fern der Heimat?«
 Ich schwieg.
 
 »Dritte Frage: die beiden waren in Florenz ein Herz
-und eine Seele. Woher ihre spätere Todfeindschaft 2?«
+und eine Seele. Woher ihre spätere Todfeindschaft?«
 
-»Der Conte Häuschen den Marchese begaunert …«
+»Der Conte hatte eben den Marchese begaunert …«
 
 »Hm: der Marchese hat bei einer hiesigen Bank noch
 ein Guthaben von 325&nbsp;000 Mark — ganz nett für ein
@@ -1375,9 +1375,9 @@ andere Gründe haben. Welche?«
 Ich schwieg.
 
 »Vierte Frage … — Woher kannte der Conte den
-falschen Worte Garmer? Weshalb wagten die beiden nur
-aus die umständliche Art durch die beiden Sender ihre tiefsten
-Geheimnisse auszutauschen, wo sie doch jeden Tag als Burschen
+falschen Moritz Garmer? Weshalb wagten die beiden nur
+auf die umständliche Art durch die beiden Sender ihre tiefsten
+Geheimnisse auszutauschen, wo sie doch jeden Tag als Gutsherr
 und Inspektor zusammenkommen konnten?!«
 
 Ich schwieg.
@@ -1388,18 +1388,18 @@ des Conte, der seine Frau zunächst auf Händen trug, derart
 Tage und Nächte wegblieb und niemand wußte und weiß,
 wo er diese Zeit über war?!«
 
-»Liebe flaut ab, lieber Harald …
+»Liebe flaut ab, lieber Harald …«
 
-»So?! Du redest wie ein a von der famosen
+»So?! Du redest wie ein Müllkutscher von der famosen
 Relativitätstheorie — ein Stein des Anstoßes, mein Alter.
 Warst du je mit einer so reizvollen Frau wie die Gräfin
 es ist verheiratet?«
 
-»Leider nein … oder Gott sei Dank nicht. Ich bin Kistchen.«
+»Leider nein … oder Gott sei Dank nicht. Ich bin ehescheu.«
 
 »Schon faul …! — Sechstens …: weshalb steckte der
 Graf das Schloß und die Wirtschaftsgebäude in Brand?! Nur
-un scheinbar in den Flammen umzukommen?«
+um scheinbar in den Flammen umzukommen?«
 
 »Weil er Angst vor dir hatte …«
 
@@ -1407,42 +1407,42 @@ un scheinbar in den Flammen umzukommen?«
 »Bravo!! Und weshalb Angst? Weshalb diese plötzliche
 Angst?«
 
-54 schwieg.
+Ich schwieg.
 
-Harald sprang auf, rechte die Hand nach mir aus.
-»Sieh’ mal, das ist der Hauptgut: Woher die plötzliche
+Harald sprang auf, reckte die Hand nach mir aus.
+»Sieh’ mal, das ist der Hauptpunkt: Woher die plötzliche
 Angst?! — Antwort: Der Conte war auf dem Holzwege,
 nahm Unrichtiges an, deutete unser Erscheinen im Sanatorium
 falsch! Und mithin wußte er, daß wir dort eingetroffen
 waren, mithin hatte er uns … überwachen lassen. — Weitere
-Frage: Verstarb diese Überwachung, die bereits von ’izm
+Frage: Weshalb diese Überwachung, die bereits von ihm
 begonnen war, als noch der andere Fall spielte, das Tintenfaß
 aus Achat. Wie konnte er vermuten, wir würden
 irgendwie auf ihn aufmerksam werden?!«
 
-Jetzt begann aus mein Hirn mit Kolonie zu arbeiten.
+Jetzt begann auch mein Hirn mit Hochdruck zu arbeiten.
 
 »Da hast du allerdings recht, Harald … Wir müssen
 beobachtet worden sein …«
 
-Er lächelte triumphierend. Er kann so jungendhaft harmloS—beglü&t
-lächeln. Und er 3o0g aus der Tasche seiner Hausjoppe
+Er lächelte triumphierend. Er kann so jungendhaft harmlos-beglückt
+lächeln. Und er zog aus der Tasche seiner Hausjoppe
 ein paar Zeitungsausschnitte hervor, — sagte: »Ich
-habe sie mit Nummern versehen … Um 6. September
-des Vorjahres wurde bei dem Grafen Höhnte eingebrochen,
+habe sie mit Nummern versehen … Am 6. September
+des Vorjahres wurde bei dem Grafen Kößnitz eingebrochen,
 Beute: Wert siebzigtausend Mark. — Am 18. September
-Einbruch in das Äiwelengeschäft Matrose in Magdeburg.
-Beute: Wert 438&nbsp;000 Mark. — Am 3. Oktober, der dritte
+Einbruch in das Juwelengeschäft Kastner in Magdeburg.
+Beute: Wert 48&nbsp;000 Mark. — Am 3. Oktober, der *dritte*
 bisher unaufgeklärte Einbruch bei Professor Stein in Dahlem,
 Beute: Wert 32&nbsp;000 Mark. — Hier sind noch fünf weitere
-Zeitungsnotizen, alles Einbrüche, bald hier, bald dort … alte
+Zeitungsnotizen, alles Einbrüche, bald hier, bald dort … alle
 unaufgeklärt …«
 
 »Du … meinst?!«
 
 »Ich meine, daß der Conte und Garmer mancherlei hierüber
-wissen dürften. Der Conte ist tot, Worte Garmer
-flüchtig.« in
+wissen dürften. Der Conte ist tot, Moritz Garmer
+flüchtig.«
 
 »Himmel, wenn das stimmt!!«
 
@@ -1457,12 +1457,12 @@ Kennst du Zigeuner, lieber Leser?
 
 Wir kennen sie …
 
-Dieser Biedermann mit dem weißen Haarwust, beim
-weißen, rund geschnittenen Vollbart, dem frischen bräunlich
-gelben Gesicht und den dunklen, jungen, scheuen Augen —
+Dieser Biedermann mit dem weißen Haarwust, dem
+weißen, rund geschnittenen Vollbart, dem frischen bräunlich-gelben
+Gesicht und den dunklen, jungen, scheuen Augen —
 in Schmierstiefeln, Schafspelz und mit dem Duft der Exoten,
-den eine seine Nase bei allen Orientalen spürt, — diese?
-harmloS—sOHmunzelnde. Alte war Herr Janos Schlama aus
+den eine feine Nase bei allen Orientalen spürt, — dieser
+harmlos-schmunzelnde Alte war Herr Janos Schlama aus
 Weißensee, Pferdehändler … und so …
 
 »Legen Sie ab, Herr Schlama,« sagte ich im Flur und
@@ -1475,19 +1475,19 @@ Er dankte …
 
 »Natürlich.«
 
-»Gut. — Wo?« /-
+»Gut. — Wo?«
 
-Ich: stieß. die: Tür auf … »Bitte …«
+Ich stieß die Tür auf … »Bitte …«
 
-Harald, im Sessel liegend, nickte Janos zu. »Gerinnen.
+Harald, im Sessel liegend, nickte Janos zu. »Nehmen
 Sie Platz … dort … Na, haben Sie sich die Sache überlegt,
 Herr Schlama?«
 
-Janos knüllte sage Pelzkappe und blinzelte …
+Janos knüllte seine Pelzkappe und blinzelte …
 
-»3, Herr Harst … Wenn die Polizei aus dem Spiel
+»Ja, Herr Harst … Wenn die Polizei aus dem Spiel
 bleibt …« Er sprach ein sehr reines, tadelfreies Deutsch.
-»Gestern nachts ist … ist bei mir eingebrochen worden …«
+»Gestern nacht ist … ist bei mir eingebrochen worden …«
 
 »Bedauerlich,« meinte Harst.
 
@@ -1503,34 +1503,34 @@ Und er — er lächelte. »Anders waren Sie ja nicht
 klein zu kriegen, lieber Schlama …«
 
 Der Alte stieß einen grunzenden Ton der Wut aus.
-nahe konnten Sie wissen, daß ich … die Sachen hatte?«
+»Wie konnten Sie wissen, daß ich … die Sachen hatte?«
 
 »Oh, ich sagte Ihnen ja schon bei meinem ersten Besuch,
 daß die Quittung über den Pferdekauf mich auf Sie aufmerksam
 gemacht hatte …«
 
 »Aber daraus konnten Sie doch nicht schließen, daß
-Ich … auf Hehler bin und ausgerechnet mit dem Grafen
+Ich … auch Hehler bin und ausgerechnet mit dem Grafen
 und Garmer in Verbindung stand!« meinte Janos mit verblüffender
 Ehrlichkeit.
 
-»Nein, daraus nicht, Herr Schlama, — doch Ihre Strolche
+»Nein, daraus nicht, Herr Schlama, — doch Ihre Stirnlocke
 genügte mir. Sie strichen sie bei Ihren orientalisch lebhaften
 Gesten aus der Stirn, und da sah ich das
-Gawir …!!«
+*Gawir* …!!«
 
-Janos durfte sich wie unter einem Hieb zusammen.
+Janos duckte sich wie unter einem Hieb zusammen.
 
-»Ja … wir …« stammelte er …
+»Ga … wir …« stammelte er …
 
 »Ja, in den Zeitungsberichten über die Vorgänge in
 Bebrastein ist auf meine Veranlassung durch die Polizei die
-Enthalte unterdrüt worden, daß die beiden Inder zur
+Tatsache unterdrückt worden, daß die beiden Inder zur
 Gawir-Unterkaste gehörten — — wie Sie!!«
 
 Janos verfärbte sich …
 
-Ein unheimlich blanker Als traf Harst … Seine Stimme
+Ein unheimlich blanker Blick traf Harst … Seine Stimme
 klang gepreßt, als er unbesonnen hervorstieß: »Sie … wissen
 zu viel, Herr Harst!«
 
@@ -1549,19 +1549,20 @@ seine Mütze noch stärker …
 »Und — die Polizei?« fragte er bissig.
 
 »Bleibt aus dem Spiel, falls ich mit Ihnen zufrieden
-bin.« ö
+bin.«
+
 »Das … hieße, mich Ihnen auf Gnade und Ungnade
 ausliefern …«
 
 »Geliefert sind Sie schon …! Ich habe Sie in der Hand.
 Von Ihnen wird es abhängen, ob Sie dieses Haus mit einer
-Zelle am Ufer (Alexanderplatz Polizeipräsidium) oder mit
+Zelle am Alex (Alexanderplatz Polizeipräsidium) oder mit
 Ihrem eigenen Heim vertauschen werden. — Woher das
 Zeichen auf der Stirn?«
 
 »Das tragen seit Jahrhunderten alle Schlamas, alle
-Männer, die direkt von Schlama oder Drama Goffra ab stammen,
-dem Ruinieren der Zigeunerfamilie der Drama
+Männer, die direkt von Schlama oder Slama Goffra abstammen,
+dem Ahnherrn der Zigeunerfamilie der Slama
 Goffras, was so viel wie Herr der Berge bedeutet. —
 Sie sprachen ja bereits mit mir über die Herkunft meines
 Volkes. Eine uralte Sage zeigt uns unsere Urheimat in
@@ -1569,86 +1570,86 @@ einem bergigen Lande unter Palmen und bunten Riesenbäumen:
 Indien, denke ich, Herr Harst. — Aber was die
 <@pagebreak/>
 Tätowierung zu bedeuten, das wußten wir nicht mehr. Nur
-den Ausdruck Gawir kannte meine Familie. Und dann kam …
+den Ausdruck Gawir kannte meine Familie. Und dann kam
 ich eines Tages mit dem Fürsten Ventidoglia zufällig zusammen.
 Ich hielt ihn für einen Italiener. Bis er — wie
-Sie — mein Klingelten bemerkte. Er hat mir alles erklärt,
-er nannte mich »Berlin, Bruder« … Sein Blut war das
+Sie — mein Stirnzeichen bemerkte. Er hat mir alles erklärt,
+er nannte mich »Sefim, Bruder« … Sein Blut war das
 meine, wenn auch ungezählte Jahre dazwischen lagen …«
 
 Der alte Zigeuner hatte seine Mütze auf das Bärenfell
-fallen lassen und die Augen mit der Hand bedesF8t, Tiefe
+fallen lassen und die Augen mit der Hand bedeckt. Tiefe
 Melancholie war über seine scharfen Züge gebreitet. Seine
 Stimme schwang im selben wehmütigen Rhythmus … »Er
 war mein Bruder … Er kam aus den Bergen der fernen
 Heimat … — Sie kennen Indien … Sie kennen die Berge
-von Hochzog an der Westgrenze des Fürstentums Haidarabad.
-Dort war Haust Goffra geboren, dort auch der andere,
-der … Verräter, der … große Dieb …: Barami, der Conte
+von Heddara an der Westgrenze des Fürstentums Haidarabad.
+Dort war Chamir Goffra geboren, dort auch der andere,
+der … Verräter, der … große Dieb …: Varami, der Conte
 Astarmalli …« — Seine Gedanken sprangen wieder zu dem
 Leid seines verrufenen Volkes zurück … »Es liegt eine
-düstere ’Sragik über dem Gesicht der Meinen, Herr Harst,
-— wie über dem aller schmales gewordenen Völker …
+düstere Tragik über dem Geschick der Meinen, Herr Harst,
+— wie über dem aller heimatlos gewordenen Völker …
 Verachtet, gehetzt, — so werden sie zu Gaunern, Betrügern,
 Parasiten … Blutsaugern. Ein geheimer Haß schlummert
-in ihnen und gibt ihnen die Kraft zum Leichten, aber auch
+in ihnen und gibt ihnen die Kraft zum Schlechten, aber auch
 die Intelligenz der Bösen. Dieser Haß zerfrißt uns, peitscht
 uns auf … Wir bleiben Fremdlinge in der Fremde, und
-wenn Jahrtausende vergehen. Die Rassenmerkimale bleiben,
+wenn Jahrtausende vergehen. Die Rassenmerkmale bleiben,
 und wenn wir auch blonde Weiber freien … Unser Blut
 ist stärker … — So, wie Sie mich hier vor sich sehen,
 — Sie werden’s nicht glauben: Ich habe ein Gymnasium
-bis zur Prima besucht, ich habe ein paar Semester Tierarzmneikunde
-studiert, im lese Bücher, die zu den besten
+bis zur Prima besucht, ich habe ein paar Semester Tierarzneikunde
+studiert, ich lese Bücher, die zu den besten
 der Weltliteratur gehören … Und doch …!« Er schlug sich
 mit der Faust gegen den gewölbten Brustkasten … »Und
 <@pagebreak/>
-doch, Haß, Geldgier, Hang zum Betrügen, teuflische Luft,
-andere zu übervorteilen: Ich wurde wie mein Vater PferdesHaherer,
+doch, Haß, Geldgier, Hang zum Betrügen, teuflische Lust,
+andere zu übervorteilen: Ich wurde wie mein Vater Pferdeschacherer,
 Hehler, Stehler … — Da trat einer in mein
 Leben, der kam von drüben aus den heißen Bergen …
-ein Goffra, ein Gawir … Und er wette die schlummernde,
+ein Goffra, ein Gawir … Und er weckte die schlummernde,
 geheime Sehnsucht nach dem Sonnenlande, er war mein
-Bruder, durch ihn lernte ich den anderen kennen, Barami …
+Bruder, durch ihn lernte ich den anderen kennen, Varami …«
 
-Harald wurde etwas ungeduldig. Für des Akten Zigeitiers
-Klagelieder schien er nicht »viel übrig zu haben. Er meinte
+Harald wurde etwas ungeduldig. Für des alten Zigeuners
+Klagelieder schien er nicht viel übrig zu haben. Er meinte
 ablehnend: »Die Tragik Ihres und ähnlicher Völker liegt
 auf einem ganz anderen Gebiet … Sie haben das Arbeiten
-verlernt, sie haben im Laufe der Jahrhunderte g e lernt, daß
+verlernt, sie haben im Laufe der Jahrhunderte *ge*lernt, daß
 das Betrügen leichter, müheloser ist. Alles andere ist …
-fauler Zauber, Janos Schlama! Ich wäre der setzte, der
+fauler Zauber, Janos Schlama! Ich wäre der letzte, der
 jemandem Mitgefühl verwehrte. Aber — lassen wir das.
-— War der Fürst ebenfalls bei den Einbrüchen beseitigt?«
+— War der Fürst ebenfalls bei den Einbrüchen beteiligt?«
 
 »Ja. Doch nicht lange. Dann kam das Zerwürfnis mit
 Varami …«
 
-»Wohl wegen eines Teiles der Edelsteimfammklung aus
+»Wohl wegen eines Teiles der Edelsteinsammlung aus
 dem Museum in Kalkutta?«
 
 Ich … horchte auf. — Edelsteine?! Das war ja wieder
-etwas Neues«.!
+etwas Neues …!
 
-Der Alte warf Harald einen schiefen Blick zu. »Affe
+Der Alte warf Harald einen schiefen Blick zu. »Also
 auch das wissen Sie …?!«
 
 »Gewiß. Es stand ja 1925 im Januar in alten Zeitungen,
 und wenn mich damals nicht andere Dinge in Anspruch
 genommen hätten, würde ich den Tätern nachgespürt
-haben. Jetzt kenne ich sie: Haust Goffra und Varami!«
+haben. Jetzt kenne ich sie: Chamir Goffra und Varami!«
 
-»Und … ein dritter, Herr Harst: der angebliche Paris
+»Und … ein dritter, Herr Harst: der angebliche Moritz
 Garmer, in Wahrheit Sir Reginald Dolgerston, damals
 Sekretär bei der Museumsverwaltung.«
 
-»Sehr vernünftig, daß Sie so offen sind … — Uhr
+»Sehr vernünftig, daß Sie so offen sind … — Also
 <@pagebreak/>
-Varami betrog Haust und Sir Dolgerston um den Rest
+Varami betrog Chamir und Sir Dolgerston um den Rest
 der damaligen Beute?«
 
 »Nicht Dolgerston, Herr Harst … Die beiden waren
-ein Herz und eine Seele. Aber Haust war der Geschädigte.
+ein Herz und eine Seele. Aber Chamir war der Geschädigte.
 Daher die Feindschaft.«
 
 »Und die beiden Sender?«
@@ -1656,7 +1657,7 @@ Daher die Feindschaft.«
 Janos grinste plötzlich … »Das war vielleicht das
 schlaueste, Herr Harst. Ahnen Sie wirklich nicht, was es
 damit auf sich hatte? Nur Nachrichtenübermittlung schrieben
-die Zeitungen … Sie durchschauten die Sache wohl …«
+die Zeitungen … *Sie* durchschauten die Sache wohl …«
 
 »Nein, in keiner Weise.«
 
@@ -1666,71 +1667,70 @@ und wenn ich ins Zuchthaus käme. Mag Varami in seiner
 Art ein Schurke gewesen sein: Ich als Gawir verrate keinen
 Gawir! — Tun Sie, was Sie wollen, Herr Harst … Hier
 spielt mehr mit, als Sie ahnen, und wenn ich Ihnen einen
-guten Na! geben darf: Lassen Sie die ganze Sache Anhang
+guten Rat geben darf: Lassen Sie die ganze Sache ruhen!
 Sie fassen da in ein Wespennest!«
 
 »Setzen Sie sich wieder … Gegen Wespen gibt es
 Mittel. Ich möchte noch ein paar andere Fragen an Sie
 richten … — Setzen Sie sich!!«
 
-Der Alte blieb stehen. Sein Grinsen blieb. Seine Hals
-Zeitung hatte geradezu etwas Herausforderndes. »Ich kann auch
+Der Alte blieb stehen. Sein Grinsen blieb. Seine Haltung
+hatte geradezu etwas Herausforderndes. »Ich kann auch
 so antworten, — — wenn ich will, Herr Harst …!!«
 
 »Ich hoffe, Sie bleiben vernünftig, Mann!« warnte
 Harald mit erhobener Stimme. »Für Sie, der doch an
-Freiheit und eine gewisse Ungebundenheit gewöhnt ist, be
-deutet daß Gefängnis das Ende.«
+Freiheit und eine gewisse Ungebundenheit gewöhnt ist, bedeutet
+das Gefängnis das Ende.«
 
 »Und wenn schon …!« sagte Janos Schlama achselzuckend.
 »Zwei, drei Jahre … Ich bin unbestraft … Ich
 bekomme nachher Bewährungsfrist. Ich werde alles gestehen …«
-— Er sprach sehr ernst. »Herr Harst, ich kann von.
+— Er sprach sehr ernst. »Herr Harst, ich kann Ihnen, von
 <@pagebreak/>
-treuer Person ganz abgesehen, nur nochmals raten: Hamburg
-von alledem! — Ich kenne Sie … Sie sind keiner vom.
-denen, die die Ausgestoßener zu Tode hetzen … Gerade
+meiner Person ganz abgesehen, nur nochmals raten: Hand
+weg von alledem! — Ich kenne Sie … Sie sind keiner von
+denen, die die Ausgestoßenen zu Tode hetzen … Gerade
 deshalb gehe ich hier über meine Befugnisse hinaus und …
-warne — nicht in meinem Interesse …!« Wieder erschien.
-der melancholische Zug in seinem Gesicht. »Ich … ich bin,
+warne — nicht in meinem Interesse …!« Wieder erschien
+der melancholische Zug in seinem Gesicht. »Ich … ich bin
 ja nur ein Nichts, eine Null in einem großen Spiel …
 Sie aber würden mir aufrichtig leid tun …«
 
-Er Büsche zu Boden …
+Er blickte zu Boden …
 
 Harst beobachtete ihn unausgesetzt …
 
-»Schlama,« sagte er dann leise, »Sie … haben mich:
-Überlistet … Jetzt merke ich’s. Der Hauptanlaß, der SieHerführte,
-war die Feststellung, ob ich über die beiden:
+»Schlama,« sagte er dann leise, »Sie … haben mich
+Überlistet … Jetzt merke ich’s. Der Hauptanlaß, der Sie
+Herführte, war die Feststellung, ob ich über die beiden
 Sender … zu viel wüßte …«
 
-»Vielleicht, Herr Harst … vielleicht … Und nun Rakete
+»Vielleicht, Herr Harst … vielleicht … Und nun rufen
 Sie nur die Polizei herbei …«
 
-»Das werde ich nicht tun …! Der Schaden, der durch.
-die Einbrüche entstanden, wird durch; die Gräfin gedeckt:
+»Das werde ich nicht tun …! Der Schaden, der durch
+die Einbrüche entstanden, wird durch die Gräfin gedeckt
 werden. Die Geschädigten sind ja bekannt, und … das
 Andere, Schlama, die beiden Sender, da wird sich wohl
-auch eine Brücke zur Wahrheit Zimmern lassen, denke ich.
-mir …
+auch eine Brücke zur Wahrheit zimmern lassen, denke ich
+mir …«
 
-Der Alte schaute. auf, schüttelte leicht den Kopf …
+Der Alte schaute auf, schüttelte leicht den Kopf …
 »Niemals, Herr Harst … Dazu ist es zu spät … Zu
 einer Brücke brauchen Sie Material. Das ist … verbrannt.
 Und — — an der noch schwelenden Glut könnten Sie
-sich nur böse versengen. — Hm übrigen danke ich Ihnen …
+sich nur böse versengen. — Im übrigen danke ich Ihnen …
 Ich werde genau so anständig sein wie Sie … Ich werde
 Herausgeben, was ich als Hehler verdient habe, auf Heller
 und Pfennig. Ich lasse mich nicht von Ihnen beschämen …
 Morgen sende ich Ihnen das Geld und all das, was von
 dem gestohlenen Gut noch erreichbar. — Gute Nacht, meine
-Perlen … Es ist sch4ade, daß kein Mensch aus seiner
+Herren … Es ist schade, daß kein Mensch aus seiner
 <@pagebreak/>
-Haut herauskam. Die meine ist bräunlich) und vom Alter
-zerteilt, — es ist die eines Mannes, der vielleicht den
-
-Schlummernden Haß überwunden hätte, wenn …« — er
+Haut herauskann. Die meine ist bräunlich und vom Alter
+zerkerbt, — es ist die eines Mannes, der vielleicht den
+schlummernden Haß überwunden hätte, wenn …« — er
 machte eine trostlose Handbewegung — »… es ist zu spät
 dazu … Ich bin ein Fremder in der Fremde. — Gute
 Nacht.«
@@ -1740,13 +1740,13 @@ So ging er.
 Ich ließ ihn hinaus. Er sprach kein Wort mehr. Stramm
 und aufrecht schritt er in seinen schweren Schmierstiefeln
 davon … Ich blickte ihm nach. Mitleid beschlich mich: eine
-Seele, die in der Irre wanderte ich- durch der Umwelt
+Seele, die in der Irre wanderte — durch der Umwelt
 Schuld!
 
 Als ich in Haralds Arbeitszimmer zurückkehrte, war
 es leer. Auf dem Tische ein Zettel, flüchtige Zeilen:
 
-Auto nach Weißensee. Gute Verkleidung. Ecke Buchenstraße
+> Auto nach Weißensee. Gute Verkleidung. Ecke Buchenstraße
 in der Bauhütte.
 
 Harst war hinter Janos drein. Der Brückenbau hatte
@@ -1799,7 +1799,7 @@ um … die Wurst!! Also keine Patronen sparen, wenn.
 nötig … — So — laß dich anschaun … Sehr gut. Vorwärts
 also …«
 
-Und da war ich’s, der auf einen … RüdversicherungssHein
+Und da war ich’s, der auf einen … Rückversicherungsschein
 drang …
 
 Was ich darunter verstehe, wird der Leser schon nachweisen.
@@ -1867,14 +1867,14 @@ Fenster war erleuchtet gewesen. Janos Schlama und die
 Seinen (acht Menschen bewohnten das Haus) schliefen offenbar
 fest und ahnungslos.
 
-Die Kellertür, mit Blech benagelt, hatte zwei Vorhänges&lösser
+Die Kellertür, mit Blech benagelt, hatte zwei Vorhängeschlösser
 bester Konstruktion. Harst 30og zwei Schlüssel hervor.
 Sie paßten tadellos.
 
 Und dann kam die zweite Überraschung. — »So«
 flüsterte Harald, »nun müssen wir uns trennen. Du gehst
 in den Keller hinab. Hm Kartoffelkeller wirst du an der
-Seitenwand ein verstaubtes8 Regal mit alten Flaschen finden.
+Seitenwand ein verstaubtes Regal mit alten Flaschen finden.
 Rücke es von der Wand ab, und du wirst ein mit Mörtel
 belegtes Brett bemerken, eine Tür. Dann bist du in den
 alten Verließen. Sei vorsichtig. Schiebe das Regal wieder vor.
@@ -1956,7 +1956,7 @@ schon Schritte, zwei Stimmen. Eine Lichtflut fiel in Dr:
 <@pagebreak/>
 Kellerdom. Der Vorhang vor der Türöffnung hatte sich ge
 hoben. Ich sah zwei Personen: Janos Schlama und die
-junge, bildhübsche Zigeunerin, die jetzt einen hellroten, reichgestidten,
+junge, bildhübsche Zigeunerin, die jetzt einen hellroten, reichgestickten,
 dich wattierten Kimono übergeworfen hatte. Der
 alte Schlama trug eine Karbidlaterne, schritt auf einen verwitterten,
 plumpen Tisch zu, stellte die Laterne auf die fast
@@ -2239,7 +2239,7 @@ lediglich gute Freunde: Kriminalpolizei! — Ein Wächter
 hatte in der Baubude den Zettel, den wir dort zurückgelassen,
 vorzeitig gefunden und sofort nach Berlin telephontiert.
 
-Das war der … Rüdcversicherungssichein gewesen.
+Das war der … Rückversicherungsschein gewesen.
 
 Das Schlama-Nest wurde ausgehoben. Auch die hübsche
 Kimono-Fratze mußte mit gen Berlin in die Zelle.
@@ -2304,7 +2304,7 @@ ihm je wieder zu verbrecherischem Treiben zusammenzutun.
 
 Reginald Dolgerston wird in Berlin abgeurteilt werden,
 da gegen ihn Anklage wegen Mittäterschaft bei der Ermordung
-des Inders Haust Goffra erhoben worden ist.
+des Inders Chamir Goffra erhoben worden ist.
 
 Die hier aus dem Museum vor Jahren gestohlenen
 Edelsteine konnten zum Teil in Berlin wieder gesammelt
