@@ -1,6 +1,6 @@
 <@pagebreak 3/>
 
-<h1>Die Radiostation W. J. 10</h1>
+<h1>Die Radiostation W. J. 10.</h1>
 
 <h2>1. Kapitel.</h2>
 <h3>Schallplatten.</h3>
@@ -48,7 +48,7 @@ urplötzlich Musik: Jazz, ein Tango, ziemlich klar …
 auf Welle 464 … Geben Sie acht … Gleich kommt das
 Pausenzeichen … Boston gibt’s nach jedem Musikstück …«
 
-Harald lächelte diskret, — — nickte mir zu,
+Harald lächelte diskret, — — nickte mir zu.
 
 Es war ja ausgeschlossen, daß man mit einem einfachen
 Gerät (1 Hochfrequenz, 1 Audion, 2 mal Niederfrequenz)
@@ -63,7 +63,7 @@ Zahl 10.
 Dieses Zeichen wiederholte sich genau vierzehnmal. Aber
 es war etwas Besonderes dabei: die Morsesignale, Punkte
 <@pagebreak/>
-und Striche, gaben Zwar stets dasselbe W.&nbsp;J.&nbsp;10 wieder, jedoch
+und Striche, gaben zwar stets dasselbe W.&nbsp;J.&nbsp;10 wieder, jedoch
 wurden die einzelnen »Punkte« und »Striche« mit verschieden
 langen Zwischenräumen gefunkt, was unbedingt auffallen
 mußte und bei mir, neben allem anderen, sehr bald
@@ -135,7 +135,7 @@ Achtmal …
 »Haben Sie einen Detektorapparat?« fragte Harald hastig
 unseren gelehrten Herrn …
 
-»Ja.
+»Ja …«
 
 »Her damit … — einschalten … schnell …«
 
@@ -277,7 +277,7 @@ Vorbildung nicht entsprechenden Stellung?«
 verfrühte Heirat trieben mich in …«
 
 »Schon gut. — Es ist eine Feuersbrunst dort drüben.
-Und Zwar ein sehr umfangreicher Brand. Wir wollen hin.
+Und zwar ein sehr umfangreicher Brand. Wir wollen hin.
 — Kennen Sie den Conte Astarmalli?«
 
 »Gewiß, Herr Harst …« Das klang merklich gedehnt.
@@ -413,7 +413,7 @@ und Büschen. Dumpfes Brüllen von Rindern mischte sich
 in das schrille Heulen eines offenbar in Todesnot befindlichen
 Hundes, — da — zwischen das Krachen und Prasseln
 einstürzender Dachteile, die Pfiffe von Feuerwehrleuten, das
-taktmäßige Schlappen einer Motorspritze: wir hatten Das
+taktmäßige Schlappen einer Motorspritze: wir hatten das
 grausig-schöne Bild auf hundert Meter vor uns. Menschen
 bewegten sich hin und her: scharfe Konturen wie Silhouetten!
 — Eine Hammelherde wurde von Kindern den Hauptweg entlang getrieben
@@ -453,7 +453,7 @@ Er schritt leise auf die Frau zu.
 
 Sie erhebt sich jäh …
 
-Sie Schreckt zurück, will fliehen …
+Sie schreckt zurück, will fliehen …
 
 Harald packt ihr Handgelenk …
 
@@ -559,14 +559,14 @@ Drüben noch immer der rote Halbbogen über dem
 Walde … —
 
 Wirth und das Auto warten tausend Meter weiter
-Hinter einer Biegung der Chaussee.
+hinter einer Biegung der Chaussee.
 
 »Nun, Wirth?« fragt Harald den Kollegen.
 
 Der lehnt an einem Chausseebaum.
 
 »Es ist ein Italiener, sehr dunkelhäutig,« sagt Wirth
-Dumpf …
+dumpf …
 
 »Im Steinbruch?«
 
@@ -617,7 +617,7 @@ Vorhin, während der Fahrt nach dem Vorwerk mit
 der bewußtlosen Gräfin im Wagen, hatte Harald zu meinem
 Erstaunen dem »Kollegen« Wirth kurz befohlen: »Es muß
 hier in der Nähe eine Kiesgrube liegen. Suchen Sie dort
-nach einer Leiche. Rühren Sie Aber nichts an.« Nähere Erklärungen
+nach einer Leiche. Rühren Sie aber nichts an.« Nähere Erklärungen
 vermied er auch jetzt mir gegenüber, indem er
 meinte: »Wenn die Kriminalpolizei erscheint, muß ich ja
 doch alle Einzelheiten berichten, mein Alter.«
@@ -824,7 +824,7 @@ der beiden Sender entnommen hatte?
 W.&nbsp;J.&nbsp;10 …
 
 Und im Takt mit meinen eilenden Schritten murmelte
-Ich …: W. … J. … 10 …
+ich …: W. … J. … 10 …
 
 Darin lag das Geheimnis: W.&nbsp;J.&nbsp;10!
 
@@ -897,8 +897,8 @@ die dunklen Dinge eingedrungen ist?! Vielleicht …
 Und — da hat die bedauernswerte Frau dort vor
 mir plötzlich die Zwecklosen Versuche, die Leiche aus dem
 Wagenkasten zu heben, aufgegeben, — ist herumgefahren,
-— — da erst bemerke ich, und im kauere mich noch enger
-Hinter die kleine Lokomotive, einen zerlumpten Stromer,
+— — da erst bemerke ich, und ich kauere mich noch enger
+hinter die kleine Lokomotive, einen zerlumpten Stromer,
 einen alten, hageren, buckligen, graubärtigen Strolch, der
 langsam auf die Gräfin zuschlürft, indem er sich schwer
 auf einen knorrigen Stock stößt …
@@ -1037,7 +1037,7 @@ Vielleicht …
 Und er war tot … lag hinter den aufgestapelten
 Schienen, der Regen wusch Schminke und Farbe weg, und
 des Todes hehre Majestät benahm diesen Zügen alles
-Geisterhafte …
+Bestienhafte …
 
 Ich kehrte zu der Bewußtlosen zurück. Den »Stock«
 nahm ich mit … Der faustdicke Knüttel war eine schlau
@@ -1063,7 +1063,7 @@ Ein Seufzer … der Erlösung …
 
 Dann sinkt sie zurück …
 
-Aber die Augen haften an mir
+Aber die Augen haften an mir.
 
 »Wer … sind Sie?«
 
@@ -1397,7 +1397,7 @@ es ist verheiratet?«
 
 »Leider nein … oder Gott sei Dank nicht. Ich bin ehescheu.«
 
-»Schon faul …! — Sechstens …: weshalb steckte der
+»Schon faul …! — Sechstens …: Weshalb steckte der
 Graf das Schloß und die Wirtschaftsgebäude in Brand?! Nur
 um scheinbar in den Flammen umzukommen?«
 
@@ -1510,7 +1510,7 @@ daß die Quittung über den Pferdekauf mich auf Sie aufmerksam
 gemacht hatte …«
 
 »Aber daraus konnten Sie doch nicht schließen, daß
-Ich … auch Hehler bin und ausgerechnet mit dem Grafen
+ich … auch Hehler bin und ausgerechnet mit dem Grafen
 und Garmer in Verbindung stand!« meinte Janos mit verblüffender
 Ehrlichkeit.
 
@@ -1702,8 +1702,8 @@ Er blickte zu Boden …
 Harst beobachtete ihn unausgesetzt …
 
 »Schlama,« sagte er dann leise, »Sie … haben mich
-Überlistet … Jetzt merke ich’s. Der Hauptanlaß, der Sie
-Herführte, war die Feststellung, ob ich über die beiden
+überlistet … Jetzt merke ich’s. Der Hauptanlaß, der Sie
+herführte, war die Feststellung, ob ich über die beiden
 Sender … zu viel wüßte …«
 
 »Vielleicht, Herr Harst … vielleicht … Und nun rufen
@@ -1722,7 +1722,7 @@ einer Brücke brauchen Sie Material. Das ist … verbrannt.
 Und — — an der noch schwelenden Glut könnten Sie
 sich nur böse versengen. — Im übrigen danke ich Ihnen …
 Ich werde genau so anständig sein wie Sie … Ich werde
-Herausgeben, was ich als Hehler verdient habe, auf Heller
+herausgeben, was ich als Hehler verdient habe, auf Heller
 und Pfennig. Ich lasse mich nicht von Ihnen beschämen …
 Morgen sende ich Ihnen das Geld und all das, was von
 dem gestohlenen Gut noch erreichbar. — Gute Nacht, meine
@@ -1758,9 +1758,9 @@ begonnen.
 <h3>Särge.</h3>
 
 … Da lag noch der Schnee, da war Winter. Da
-glitzerten. die Sterne über mir am klaren Firmament, als ich
-endlich die Buchenstraße und das fahrbare Lauschigen der Kanalisationsarbeiter
-gefunden. Neue Rohre wurden hier gelegt.
+glitzerten die Sterne über mir am klaren Firmament, als ich
+endlich die Buchenstraße und das fahrbare Häuschen der
+Kanalisationsarbeiter gefunden. Neue Rohre wurden hier gelegt.
 
 … Da war eine Stille über Häusern und Feldern, die
 zur Andacht stimmte.
@@ -1776,7 +1776,7 @@ Ich schlüpfte hinein.
 Ein schmaler Lichtstrahl zuckte auf.
 
 Harst nahm mir den Rucksack ab. Seine Taschenlampe
-lag auf einem Zementsa&s, halb verdeckt,
+lag auf einem Zementsack, halb verdeckt.
 
 »Brav so …! Du hast alles mitgebracht … Nun schnell …
 Helfen wir uns gegenseitig. Schlama ist in seinem Hause. Ich
@@ -1785,9 +1785,9 @@ habe nicht bemerkt, daß ich selbst beobachtet wurde … — Ah
 Schneller … Halte mir den Spiegel … So … — Du
 wirst sehr interessante Dinge erleben … Schlamas Grundstück
 <@pagebreak/>
-ist sehenswert. Es hat hier mal vor langer Zeit ein«
-Burg der Wenden existiert, von der nichts mehr geblieben«
-nicht mal die Erinnerung, — nur ein paar Bemerkungen.
+ist sehenswert. Es hat hier mal vor langer Zeit eine
+Burg der Wenden existiert, von der nichts mehr geblieben,
+nicht mal die Erinnerung, — nur ein paar Bemerkungen
 in uralten Kirchenbüchern, die mir der Pfarrer zur Durchsicht
 überließ, und … die Keller, mein Alter — die Verließe
 … Schlama ist ein kluger Kopf. Er hat sein Haus drüben
@@ -1795,23 +1795,23 @@ auf dem sogenannten Buchenhügel ganz einsam errichtet.
 Prächtige Bäume gibt es dort noch … Vielleicht
 haben an den Seiten einst Kriegsgefangene das Baumeln
 gelernt … Na, du wirst ja sehen … Nur eins: Hier geht’s
-um … die Wurst!! Also keine Patronen sparen, wenn.
+um … die Wurst!! Also keine Patronen sparen, wenn
 nötig … — So — laß dich anschaun … Sehr gut. Vorwärts
 also …«
 
 Und da war ich’s, der auf einen … Rückversicherungsschein
 drang …
 
-Was ich darunter verstehe, wird der Leser schon nachweisen.
-— Es gab einen kleinen Aufenthalt. Als wir die
+Was ich darunter verstehe, wird der Leser schon noch
+merken.  — Es gab einen kleinen Aufenthalt. Als wir die
 Bauhütte verließen, war es halb ein Uhr morgens.
 
 Der Frieden der Winternacht umfing uns. Wir schritten,
 jeder ein Bündel wie echte Tippelbrüder auf dem Rücken,
-gemächlich einen Feldweg entlang. Ein paar Laubengrundstücks
+gemächlich einen Feldweg entlang. Ein paar Laubengrundstücke
 lagen zu beiden Seiten. Ein Hund bellte uns hinter
 einem Drahtzaun wütend an: Wächter für das in der Laube
-untergebrachte Hühnervolk, dessen Hahn sich. offenbar in
+untergebrachte Hühnervolk, dessen Hahn sich offenbar in
 der Zeit geirrt hatte und schon zu krähen begann.
 
 Vor uns erhob sich dann ein Wäldchen aus riesigen
@@ -1820,7 +1820,7 @@ Die jetzt winterlich kahle Baumkulisse verbarg ein schlichtes,
 langgestrecktes Haus mit gelbbraunem Anstrich. Dahinter
 stand ein Stall, der neueren Datums zu sein schien und
 dessen gepflegtes Aussehen und zahlreiche Türen auf Janos
-Schlamas Beruf als Pferdehändler hindeuteten. Auf dem:
+Schlamas Beruf als Pferdehändler hindeuteten. Auf dem
 Dache waren zwei Blitzableiter zu bemerken, — in Anbetracht
 <@pagebreak/>
 der Nähe der hohen Bäume ein ziemlich überflüssiger
@@ -1838,7 +1838,7 @@ Haltung wurde weniger bedrohlich, und nachdem sie Haralds
 Hand durch das Drahtgeflecht beschnuppert und er ihnen bedauernd
 erklärt hatte, daß er heute leider keine Leberwurst
 bei sich habe, kehrten sie wieder um und verschwanden nach
-dem Stalle zu. Er hatte sie also bei seinen ersten dreinschlichen
+dem Stalle zu. Er hatte sie also bei seinen ersten nächtlichen
 Besuchen bereits an sich gewöhnt.
 
 Was dann folgte, war so recht ein Bravourstück meines
@@ -1859,21 +1859,21 @@ wirkte.
 
 Dann ging’s auf unseren zerrissenen Stromerstiefeln, die
 jedoch weiche Gummisohlen hatten, eine Treppe hinab. Harald
-kannte die Stufen, die knarrten, genau, machte mich stet?
+kannte die Stufen, die knarrten, genau, machte mich stets
 <@pagebreak/>
 rechtzeitig darauf aufmerksam. Unten im Erdgeschoß lag
-rechts der Kellerhals. — Hm Hause war’s totenstill. Kein
+rechts der Kellerhals. — Im Hause war’s totenstill. Kein
 Fenster war erleuchtet gewesen. Janos Schlama und die
 Seinen (acht Menschen bewohnten das Haus) schliefen offenbar
 fest und ahnungslos.
 
 Die Kellertür, mit Blech benagelt, hatte zwei Vorhängeschlösser
-bester Konstruktion. Harst 30og zwei Schlüssel hervor.
+bester Konstruktion. Harst zog zwei Schlüssel hervor.
 Sie paßten tadellos.
 
 Und dann kam die zweite Überraschung. — »So«
 flüsterte Harald, »nun müssen wir uns trennen. Du gehst
-in den Keller hinab. Hm Kartoffelkeller wirst du an der
+in den Keller hinab. Im Kartoffelkeller wirst du an der
 Seitenwand ein verstaubtes Regal mit alten Flaschen finden.
 Rücke es von der Wand ab, und du wirst ein mit Mörtel
 belegtes Brett bemerken, eine Tür. Dann bist du in den
@@ -1899,11 +1899,11 @@ Ein Mensch atmete tief, regelmäßig …
 
 Er schlief …
 
-Zuweilen ein anderes Geräusch: der Mensch: Koffer unruhig,
+Zuweilen ein anderes Geräusch: der Mensch schlief unruhig,
 warf sich hin und her.
 
-Die dumpfe,!schwere, feuchte Luft legte sich mir beklemmend
-schuf die Brust.
+Die dumpfe, schwere, feuchte Luft legte sich mir beklemmend
+auf die Brust.
 
 <@pagebreak/>
 Es roch hier wie … wie in einer Gerberei, wie in
@@ -1921,14 +1921,14 @@ Das Zögern wurde jäh zur Tat …
 Hinter mir durch die Holztür Geräusche … Ein Scharren
 … Das Regal wurde gerückt.
 
-Ein Trug auf den Lampenknopf … Ein greller Lichts
+Ein Trug auf den Lampenknopf … Ein greller Lichtblitz
 …
 
 Rasch zur Seite huschend …
 
 Ich hatte gesehen …
 
-Ein eisernes Bett, eine Schläferin, den Kasten Arm
+Ein eisernes Bett, eine Schläferin, den nackten Arm
 unter dem Kopf, das schwarze Haar gelöst …
 
 Ein Zigeunermädchen …
@@ -1936,37 +1936,37 @@ Ein Zigeunermädchen …
 Und dort drüben: eine Pferdedecke als Vorhang …
 
 Ein Sprung — ich schlüpfte durch die verhängte Türöffnung
-… Die Decke fiel hinter mir zurück,
+… Die Decke fiel hinter mir zurück.
 
 Ich war in einem saalartigen Gewölbe …
 
 Licht aus …
 
-Ungern tat ich’s. Was der hastige Bis erspäht hatte,
+Ungern tat ich’s. Was der hastige Blick erspäht hatte,
 war ganz dazu angetan, die lauernde Finsternis noch mehr zu
 fürchten.
 
 Ich schlüpfte nach rechts — hinter morsche Kisten. —
-Kisten?! Nein: Särge waren es, kreuz und quer übereinander gestellt.
-Ich stieß mit dem Kopf gegen eine Kante.
+Kisten?! Nein: Särge waren es, kreuz und quer
+übereinandergestellt. Ich stieß mit dem Kopf gegen eine Kante.
 Das gab einen unangenehmen dumpfen hallenden Ton, von
 dem Schmerz in der Schläfe ganz abgesehen. Einen Moment
-war mir völlig wirr im Schädel. Dann hörte im zu«
-schon Schritte, zwei Stimmen. Eine Lichtflut fiel in Dr:
+war mir völlig wirr im Schädel. Dann hörte ich auch
+schon Schritte, zwei Stimmen. Eine Lichtflut fiel in den
 <@pagebreak/>
-Kellerdom. Der Vorhang vor der Türöffnung hatte sich ge
-hoben. Ich sah zwei Personen: Janos Schlama und die
-junge, bildhübsche Zigeunerin, die jetzt einen hellroten, reichgestickten,
-dich wattierten Kimono übergeworfen hatte. Der
+Kellerdom. Der Vorhang vor der Türöffnung hatte sich gehoben.
+Ich sah zwei Personen: Janos Schlama und die
+junge, bildhübsche Zigeunerin, die jetzt einen hellroten,
+reichgestickten, dick wattierten Kimono übergeworfen hatte. Der
 alte Schlama trug eine Karbidlaterne, schritt auf einen verwitterten,
 plumpen Tisch zu, stellte die Laterne auf die fast
-schwarze Platte (es mußte Eichenholz3 sein) und sprach mit halb
+schwarze Platte (es mußte Eichenholz sein) und sprach mit halb
 zurückgewandtem Kopf zu dem Mädchen ein paar unfreundliche
 harte Worte — ungarisch mochte es sein.
 
 Nun konnte ich den Raum genauer überblicken. Die mit
 weißen Schimmelpilzflecken übersäten Mauern troffen vor
-Nässe. Der lange Tisch stand so ziemlich in der Bitte.
+Nässe. Der lange Tisch stand so ziemlich in der Mitte.
 Links davon sah ich einen regelrechten niederen Fenstertisch
 mit Handwerkszeug, Lederstücken, Schusterkugel, Lampe, Schemel,
 — nebenbei fünf Modellpuppen, von denen drei Lederjacken
@@ -1977,11 +1977,11 @@ Leiche in der phantastischen Prunktracht der ungarischen
 Zigeuner: Schnürrock, helle Lederhosen, hohe Lackstiefel, Barett
 mit Hahnenfedern. — Mehr im Hintergrunde bemerkte ich
 Kisten aller Art, Fässer, ein paar eiserne alte Geldkisten
-und … zusammengerollte Teppiche, fraglos echte Orients
-Stücke. —
+und … zusammengerollte Teppiche, fraglos echte Orientstücke.
+—
 
 Die junge Zigeunerin hatte auf die schroffen Worte
-des Alten nur gleichmütig die Achseln graut. Nachher
+des Alten nur gleichmütig die Achseln gezuckt. Nachher
 erkannte ich, daß er ihr Vorwürfe ihrer mangelhaften Wachsamkeit
 wegen gemacht hatte.
 
@@ -1991,40 +1991,40 @@ Schlama drehte sich jetzt völlig um — mit dem Gesicht
 nach den morschen Särgen, meinem Versteck, hin …
 
 Sagte in seiner abgeklärten Art: »Herr Schraut, bitte
-kommen Sie hervor … Eis hat keinen Zweck mehr …«
+kommen Sie hervor … Es hat keinen Zweck mehr …«
 
 <@pagebreak/>
 
 <h2>4. Kapitel.</h2>
-<h3>Vermutet.</h3>
+<h3>Boxmatch.</h3>
 
 Daß dieser Anruf meine innere Ausgeglichenheit stark
-Deeinträchtigte, wird jeder verstehen. Zumal Schlama seine
+beeinträchtigte, wird jeder verstehen. Zumal Schlama seine
 Worte mit einer unmißverständlichen Handbewegung nach
-Heu Vorhang hin begleitete.
+dem Vorhang hin begleitete.
 
-5: Dort 54
+Dort …
 
 Ja, dort — — und mir stockte der Herzschlag — ,—
-Fand mein alter Harald, die Hände über der Brust zusammengeschnürt,
+stand mein alter Harald, die Hände über der Brust zusammengeschnürt,
 hinter ihm ein sehr schlanker Herr in Zylinder und
-»elegantem Pelz, weißen Wildlederhandschuhen, — — die ich
+elegantem Pelz, weißen Wildlederhandschuhen, — — die ich
 genau würdigen konnte, weil die rechte dieser hellen Hände
-»eine Pistole vorstreckte — nach mir hin.
+eine Pistole vorstreckte — nach mir hin.
 
 Harst machte ein recht mißvergnügtes Gesicht. »Gib die
-»Sache auf,« meinte er. »Wir sind eben beobachtet und abgefaßt
+Sache auf,« meinte er. »Wir sind eben beobachtet und abgefaßt
 worden. Sir Reginald Dolgerston, den ich dir hiermit vorzustellen
-erlaube — dir ist er unter dem Namen Mensch
+erlaube — dir ist er unter dem Namen Moritz
 Garmer besser bekannt —, wünscht mit uns zu verhandeln.«
 
-Man muß Harst kennen. Wenn er in so liebenö8würdigIchnoddrigem
-(Pardon) Tone spricht, sind die Aktien für die
-»Gegenpartei bereits im Sinken begriffen.
+Man muß Harst kennen. Wenn er in so liebenswürdig-schnoddrigem
+(pardon) Tone spricht, sind die Aktien für die
+Gegenpartei bereits im Sinken begriffen.
 
 <@pagebreak/>
-Ich wurde im Jugendlich wieder hundeschnäuzig wie
-selten, trat vor und machte Sir Dolgerston eine Art Vers
+Ich wurde im Augenblick wieder hundeschnäuzig wie
+selten, trat vor und machte Sir Dolgerston eine Art 
 Verbeugung …
 
 »Es ist mir ein Vergnügen, Sie endlich vor mir zu
@@ -2033,22 +2033,22 @@ sehen,« sagte ich dazu, Haralds Ton kopierend.
 Dolgerston, der vom Karbidlicht hell beschienen wurde,
 hatte ein bartloses typisch englisches Gesicht mit starr vorgebautem
 brutalem Unterkiefer. Diese intelligenten Züge und
-scheinbar blasiert-schläfrigen Augen wirkten als Ganze? genommen
+scheinbar blasiert-schläfrigen Augen wirkten als Ganzes genommen
 Sympathisch-Vornehm. Aber dem, der das Studium
 von Gesichtern berufsmäßig gelernt hat, konnte der Mund
 mit den grausamen dünnen Lippen eine ernste Warnung sein.
 
 Dolgerston nahm indes von mir kaum Notiz und rief
-dem Alten zu: »Binden Sie ihn … ck«
+dem Alten zu: »Binden Sie ihn …!«
 
-Schlama kam langsam näher, 3034 aus der Jackentasche
-eine dünne lange, durfte (geteertes Schnur hervor und meinte
-höflich: »Bitte die Arme nach vorn, Her? Schraut.«
+Schlama kam langsam näher, zog aus der Jackentasche
+eine dünne lange, dunkle (geteerte) Schnur hervor und meinte
+höflich: »Bitte die Arme nach vorn, Herr Schraut.«
 
-»Mit Vergnügen …!« Kiste ich …
+»Mit Vergnügen …!« nickte ich …
 
 Schlama war dicht vor mir … Und das war eine kapitale
-Dummheit. Wenn er mir auch an Groß? überlegen: im war
+Dummheit. Wenn er mir auch an Größe überlegen: ich war
 der Jüngere, Trainiertere. Ich war mit meinem Plane schon
 fertig, besonders da Harst mir heimlich zugezwinkert und
 das rechte Bein etwas gehoben hatte, was Dolgerston durchaus
@@ -2057,30 +2057,30 @@ entging.
 Ich hob die Arme …
 
 Und — der arme Schlama bekam so unversehends einen
-Fausthieb gegen das Kinn, der ihm drei Geldsorgen kniete.
+Fausthieb gegen das Kinn, der ihm drei Goldkronen kostete.
 Er schlug wie ein Mehlsack um.
 
-Gleichzeitig war Harsts rechter Stiefel in unzaxrteste
+Gleichzeitig war Harsts rechter Stiefel in unzarteste
 Berührung mit Dolgerstons linker Hüfte gekommen, und auch
 der edle Sir flog seitwärts auf den holprigen Steinfußboden.
 Es gab einen eigenartigen Krach … Ich habe mir selbst einmal
-auf dem Eile den linken Oberarm gebrochen. Dolgersivon
+auf dem Eise den linken Oberarm gebrochen. Dolgerston
 <@pagebreak/>
-blieb stöhnend liegen. Daß die schwarze Maße im Kimono jetzt
+blieb stöhnend liegen. Daß die schwarze Katze im Kimono jetzt
 auf mich losfuhr, änderte nicht viel. Ich bin allzeit ein
 Kavalier gewesen. Hier vergaß ich »Knigges Umgang mit
-Mengen« und ging gegen das Mädel geradezu unhöflich vor,
+Mengen« und ging gegen das Mädel geradezu unhöflich vor.
 Sie rollte zur Seite, kreischte wie besessen, ihr Kimono
 öffnete sich und zeigte einen Schlafanzug von zweifelhafter
 Sauberkeit.
 
 Ich schnitt Harsts Armschlingen durch, und Schlamas
 geteerte Schnur fand dann vorschriftswidrige Verwendung.
-Weil Stühle fehlten, öffnete Harald drei der Glaskasten, hob
+Weil Stühle fehlten, öffnete Harald drei der Glaskästen, hob
 die Mumien heraus und setzte unsere Gefangenen auf die
-Schemel, verriegelte »die Glastüren wieder und drückte mir
+Schemel, verriegelte die Glastüren wieder und drückte mir
 stumm die Hand. Er war zufrieden mit mir. Ich auch. Der
-Vormarsch war günstig ausgelaufen.
+Boxmatch war günstig ausgelaufen.
 
 Harald verschwand stumm hinter dem Vorhang, kehrte
 nach einiger Zeit und nach einigen Geräuschen zurück und
@@ -2089,44 +2089,44 @@ ich noch den anderen Eingang schließen, damit uns die übrige
 Gesellschaft nicht auf den Hals kommt. Begleite mich.«
 
 Die drei lebenden Mumien in ihren Glasbehältern
-schritten uns grimme Gesichter. Aber heraus konnten sie
-nicht. Das Glas war dick. Und Bestien würden sie auch
+schnitten uns grimme Gesichter. Aber heraus konnten sie
+nicht. Das Glas war dick. Und ersticken würden sie auch
 nicht so schnell.
 
-Wir gingen nach Westen, durchschritten das Diebez3lager
+Wir gingen nach Westen, durchschritten das Diebeslager
 und kamen in einen zweiten langgestreckten Raum, der jedoch
 teilweise eingestürzt war. In einem Winkel führte eine neue
 Holztreppe nach oben zu einer Falltür.
 
 »Diese mündet in Schlamas Gewächshaus,« erklärte Harald
 kurz. Er schob den schweren Eisenriegel vor. »So, nun
-sind wir sicher. Die beiden Zugänge zu den Verrieten sind
+sind wir sicher. Die beiden Zugänge zu den Verließen sind
 gesperrt. — Wie gefallen dir die einbalsamierten Zigeunerhäuptlinge?!
 Sie tragen alle das Gawirzeichen am Haaransatz
-der Stirn. Es sind Schlamas Ihnen. Man hat sie, da das
+der Stirn. Es sind Schlamas Ahnen. Man hat sie, da das
 <@pagebreak/>
 Gesetz es verlangt, erst beerdigen lassen, dann heimlich wieder
 ausgegraben samt den Särgen und in die Glaskästen einquartiert.
 Das muß irgendeine Bedeutung haben. Von den
 allergeheimsten Gebräuchen in einigen bevorzugten Zigeunerfamilien,
 die man als den Zigeuneruradel bezeichnen kann,
-Hat man noch wenig Kenntnis. Man ist da auf bloße Vermutungen
+hat man noch wenig Kenntnis. Man ist da auf bloße Vermutungen
 beschränkt, wie aus der Budapester Professor
-Schloß zugibt, und der hat sein ganzes Leben diesen dunklen
+Tolköß zugibt, und der hat sein ganzes Leben diesen dunklen
 Fragen gewidmet.« — Er steckte sich in aller Gemütsruhe eine
-Zigarette an, hielt auch, mir das Etui hin und fügte
-Hinzu: »Ich bin heute zum dritten Male hier unten …
+Zigarette an, hielt auch mir das Etui hin und fügte
+hinzu: »Ich bin heute zum dritten Male hier unten …
 Die Familie Schlama sind verblüffend geschäftstüchtige
 Leute. Der eine Sohn fertigt aus gestohlenem Leder Lederjacken
-und »Westen an, der zweite ist Goldarbeiter und
-verändert den gestohlenen Schnur, der dritte ist Teppichhändler,
+und Westen an, der zweite ist Goldarbeiter und
+verändert den gestohlenen Schmuck, der dritte ist Teppichhändler,
 natürlich auch mit gestohlenen Teppichen. Der Alte
 Pferdetäuscher, — mehr kann man nicht verlangen, wenn
 man noch die hübsche Enkelin mit einbezieht, die am Tage
 sehr abgerissen und sehr schmierig in Berlin WW aus der
 Hand wahrsagt … — So, nun wollen wir Sir Reginald
 Dolgerston ein wenig ausquetschen … Schalte deine Lampe
-Haus … Vielleicht brauchen wir die Batterie noch« sehr notwendig
+aus … Vielleicht brauchen wir die Batterie noch sehr notwendig
 … der Lichtschimmer aus der großen Halle genügt.«
 
 Wir kehrten zu unseren Gefangenen zurück. Harald bat
@@ -2137,25 +2137,25 @@ durch den Sturz auf den schmutzigen Boden schwer gelitten.
 Der Pelz war mit feuchter Erde bedeckt, der Zylinder lag
 drüben — nur noch für Schornsteinkehrer brauchbar.
 
-»Haben Sie große Schmerzen in dein gebrochenen Arm?«
-tagte Harald mitfühlend, indem er nun auch die beiden
-»oberen Türen öffnete.
+»Haben Sie große Schmerzen in dem gebrochenen Arm?«
+fragte Harald mitfühlend, indem er nun auch die beiden
+anderen Türen öffnete.
 
 <@pagebreak/>
 »Es geht,« erwiderte Dolgerston, verdutzt über den freundlichen
 Ton.
 
 »Lehnen Sie sich an den Tisch … So … Und nun
-werden Sie hoffentlich klug genug sein und ehrlich anstarrten
+werden Sie hoffentlich klug genug sein und ehrlich antworten
 … — Stören Sie die Mumien auf dem Tisch?«
 
 »Nein … — Aber antworten?! Von mir werden Sie
 nichts erfahren, Herr Harst …«
 
 Seine Augen blitzten auf … Das war Haß, tödlicher
-Haß 54
+Haß …
 
-»-… Sie wollen wissen, was es in Wahrheit mit den
+»… Sie wollen wissen, was es in Wahrheit mit den
 beiden Sendern auf sich hat … Bedauere … Unter keinen
 Umständen spreche ich darüber.«
 
@@ -2167,44 +2167,41 @@ gutes Wort ein … Also …?!«
 
 Harald nahm eine neue Zigarette …
 
-»Sehen Sie, Dolgerston, ich arbeite stets nachts meiner
+»Sehen Sie, Dolgerston, ich arbeite stets nach meiner
 besonderen Methode … Zuerst glaubte ich, die Sender sollten
 nur Ihnen und dem Conte dienen. Aber das war schließlich
 doch eine zu unbequeme Nachrichtenübermittlung. Besonders
-die MusikstüFfe — und so weiter … Ein teurer Spaß, zwei
-sollte Sendeanlagen … — weshalb hoben Sie soeben die
+die Musikstücke — und so weiter … Ein teurer Spaß, zwei
+solche Sendeanlagen … — Weshalb hoben Sie soeben die
 Augenlider, als ich die Musikstücke erwähnte …?! Ich
 glaube, das … saß! Das war ein neuer Pfeiler für die
-Brücke der Wahrheit …««
+Brücke der Wahrheit …«
 
-Dolgerston lächelte blasiert. »RedenZ3arten … Haben Sie
-nichts Geistreichere8 auf Vorrat?!«
+Dolgerston lächelte blasiert. »Redensarten … Haben Sie
+nichts Geistreicheres auf Vorrat?!«
 
 »Gewiß … Ich habe noch vieles auf Vorrat … Also
 die Musikstücke, Dolgerston … Nette Musik … Schallplatten
 … Man hat im Gutshause des Vorwerks davon
 <@pagebreak/>
-eine ganze Menge in Ihrer »Station« gefunden … — Wes2halb
+eine ganze Menge in Ihrer »Station« gefunden … — Weshalb
 werden Sie rot?!« — Er stand breitbeinig vor ihm,
 wiegte sich spielerisch auf den Fußspitzen hin und her …
 »Ja — rot, Dolgerston … Ich glaube ein weiterer Pfeiler
-
 für die Brücke ist fertig … — Meine Methode ist oft
-Bluff … Aufs Tür Freund Schlama ist darauf hereingefallen
-… Ich schwindelte manchmal ganz gern, und ich
+Bluff … Auch Ihr Freund Schlama ist darauf hereingefallen
+… Ich schwindele manchmal ganz gern, und ich
 schwindelte, als ich mit ehrlichstem Gesicht behauptete, ich
 kannte die wahre Bedeutung der Sender nicht … — Weshalb
-stammt ein Teil Ihrer Schallplatten aus Indien? Gut
+stammt ein Teil Ihrer Schallplatten aus Indien? Aus
 einer Fabrik in Kalkutta? — Man argwöhnt, daß die scharf
 verfolgte Gawir-Sekte in Kalkutta, wo Sie die Diamanten
-stehlen halfen, ihr Hauptquartier hat. — Hm — solch Bis,
-
+stehlen halfen, ihr Hauptquartier hat. — Hm — solch Blick,
 wie der eben, mein Lieber, ist vielsagend … Und — sehen
-Sie nur, wie der alte Schlama die Ohren spitz … Er ahnt …
+Sie nur, wie der alte Schlama die Ohren spitzt … Er ahnt …
 er ahnt, daß ich alles weiß … — Ja, als ich die Schallplatten
-
 mit der Fabrikmarke Kalkutta sah, da ging mir ein Lichtlein
-auf, auch; meinem Freunde Schraut …«
+auf, auch meinem Freunde Schraut …«
 
 Das war Hohn!! Gar kein Lichtlein war mir aufgegangen!!
 Daß Harald einen Teil der Schallplatten mit nach Hause
@@ -2212,9 +2209,9 @@ genommen, war mir als Laune erschienen.
 
 »Ja, Dolgerston, die Kalkuttaplatten, stellte ich fest, kamen
 für den Inspektor Garmer jede Woche postlagernd an … —
-Weshalb dieser Wutblick?! — Es ist wirklich) Zeit, daß
-man mit den Gawir-Herrschaften gründlich) Schluß macht …
-Meinen Sie nicht auch? Was? da auf dem Mittelstück der
+Weshalb dieser Wutblick?! — Es ist wirklich Zeit, daß
+man mit den Gawir-Herrschaften gründlich Schluß macht …
+Meinen Sie nicht auch? Was da auf dem Mittelstück der
 Platten rings um das Loch unter dem aufgeklebten Firmenschild
 eingekratzt war, hat mich fabelhaft interessiert … Die
 indische Polizei wird ihre Freude daran haben. — Mit einem
@@ -2224,20 +2221,20 @@ ein Grammophon hätte es auch getan … Aber die Sendeanlage
 verdeckte die Wahrheit besser … Ein reicher Radioamateur
 <@pagebreak/>
 wird sich vielleicht der Originalität halber Platten
-nicht indischen Volksgesängen, indischer Militärmusik und Das
-jaderengesängen schlichen lassen, — für ein bloßes Gramsmophon
+mit indischen Volksgesängen, indischer Militärmusik und 
+Bajaderengesängen schicken lassen, — für ein bloßes Grammophon
 kaum …«
 
 Er wandte den Kopf … »Oh — man donnert gegen die
 Falltür … Wer mag das sein …?! Schraut, wollen unsere
-Unterricht;e Festung verteidigen … Nimm die Karbidlampe
-… Bitte, Dolgerston, — wieder hinein im Ihren
-Glaskasten … IH9 werde die Türen wieder verriegeln …«
+unterirdische Festung verteidigen … Nimm die Karbidlampe
+… Bitte, Dolgerston, — wieder hinein in Ihren
+Glaskasten … Ich werde die Türen wieder verriegeln …«
 
 Aber — — Verteidigung erübrigte sich, denn es waren
 lediglich gute Freunde: Kriminalpolizei! — Ein Wächter
 hatte in der Baubude den Zettel, den wir dort zurückgelassen,
-vorzeitig gefunden und sofort nach Berlin telephontiert.
+vorzeitig gefunden und sofort nach Berlin telephoniert.
 
 Das war der … Rückversicherungsschein gewesen.
 
@@ -2249,58 +2246,58 @@ Kimono-Fratze mußte mit gen Berlin in die Zelle.
 <h2>5. Kapitel.</h2>
 <h3>Gawir-Ende.</h3>
 
-»Ich bringe hier zum Schluß einen Artikel aus der
-Kalkutta-Times vom 27. Februar, der mich der Mühe übers
-bebt, den Ausklang dieses unseres Abenteuers persönlich
+Ich bringe hier zum Schluß einen Artikel aus der
+Kalkutta-Times vom 27. Februar, der mich der Mühe überhebt,
+den Ausklang dieses unseres Abenteuers persönlich
 in glatten Sätzen zusammenfügen zu müssen.
 
 Der Artikel lautet wörtlich:
 
 »Die jahrzehntelangen Bemühungen unserer Behörden, die
-sogenannte Gawir-Sekte, einst ein Scheren Indiens und
+sogenannte Gawir-Sekte, einst ein Schrecken Indiens und
 noch bis in die jüngste Zeit eine ständige Beunruhigung
-des bestanden Teiles der Bevölkerung ist nun endgültig ausgetilgt.
-Der hier bei uns rühmlichst bekannte deutsche Betreffende
+des besitzenden Teiles der Bevölkerung ist nun endgültig ausgetilgt.
+Der hier bei uns rühmlichst bekannte deutsche Weltreisende
 Harald Harst, der es stets ablehnt, etwa Amateurdetektiv
-genannt zu werden, hat in seiner Heimat das Ober!
-Haupt der Gawir, den steckbrieflich verfolgten Sir Reginald
+genannt zu werden, hat in seiner Heimat das Oberhaupt
+der Gawir, den steckbrieflich verfolgten Sir Reginald
 Dolgerston, der Polizei in die Hände gespielt. Dolgerston,
 leider ein Engländer und leider ein hochintelligenter Kopf,
 hat mit den hiesigen Gawir eine eigenartige Art von Korrespondenz
-geführt, ließ sich auf Schallplatten der Firma Ballon
-1\. Krug. alles Wichtige erringen und benutzte diese Platten
+geführt, ließ sich auf Schallplatten der Firma Gabron
+u. Komp. alles Wichtige einritzen und benutzte diese Platten
 für einen Amateursender. Die Berichte, die die Gawir ihm so
 <@pagebreak/>
-zuschickten, genügten vollauf, ’das hiesige Hauptquartier und die
+zuschickten, genügten vollauf, das hiesige Hauptquartier und die
 Filialen der Gawir mit einem Schlage unschädlich zu machen.
 
 Nachdem Detektivinspektor Plumger von unserer Polizei
 den eingehenden Bericht der deutschen Behörde und Harsts
-in Händen hatte, schritt er zu der Einkreisung der Gawir …
-die in dem Dorfe Union bei Kalkutta in den sogenannten:
-Union-Bergen eine kleine Niederlassung gegründet hatten: eine
+in Händen hatte, schritt er zu der Einkreisung der Gawir,
+die in dem Dorfe Umra bei Kalkutta in den sogenannten
+Umra-Bergen eine kleine Niederlassung gegründet hatten: eine
 Kolonie von Dieben, Einbrechern, Gaunern!
 
-Akt die Polizei das Dorf umzingelt hatte, versuchte noch.
-im letzten Moment einer /der Gawir die primitive Hängebrücke,
-die nach einem einzeln stehenden Wellblech von enormer
+Als die Polizei das Dorf umzingelt hatte, versuchte noch
+im letzten Moment einer der Gawir die primitive Hängebrücke,
+die nach einem einzeln stehenden Felsblock von enormer
 Höhe hinüberführte, zu zerstören.
 
 Da Harst auf diese Brücke besonders hingewiesen hatte,
 weil sie auf den Schallplatten mehrfach erwähnt war, hatte
 Inspektor Plumger jedoch Vorkehrungen getroffen, die jeden
-Umschlag auf die Zelle vereitelten. Plumger selbst stieß den
+Anschlag auf die Brücke vereitelten. Plumger selbst stieß den
 Inder in die Tiefe, ebenso einen zweiten.
 
 In dem hohlen Felsen fand man denn tatsächlich das
 Diebeslager der Gawir: ungeheure Mengen gestohlener Dinge
-aller Art, deren Wert on zwei Millionen Rupien geschafft
+aller Art, deren Wert auf zwei Millionen Rupien geschätzt
 wird.
 
 Auch die Festnahme, der Mitglieder der Gawir-Filialen
 gelang vollständig. Etwa fünfhundert Inder sitzen nun hinter
 Schloß und Riegel und dürften kaum mehr Gelegenheit finden,
-ihm je wieder zu verbrecherischem Treiben zusammenzutun.
+sich je wieder zu verbrecherischem Treiben zusammenzutun.
 
 Reginald Dolgerston wird in Berlin abgeurteilt werden,
 da gegen ihn Anklage wegen Mittäterschaft bei der Ermordung
@@ -2308,7 +2305,7 @@ des Inders Chamir Goffra erhoben worden ist.
 
 Die hier aus dem Museum vor Jahren gestohlenen
 Edelsteine konnten zum Teil in Berlin wieder gesammelt
-werden, sie befanden sich im Besitz von Hehlern, die Ei«
+werden, sie befanden sich im Besitz von Hehlern, die die
 Steine nicht zu verkaufen wagten. Die Hauptmenge der
 <@pagebreak/>
 Diamanten ist von der Baronesse Bebra, einer Deutschen, der
@@ -2318,15 +2315,15 @@ Was bei alledem für den Forscher für das Spezialgebiet
 der Völkerkunde am interessantesten ist: Berliner Zigeuner
 trugen gleichfalls das Gawir-Zeichen!
 
-Harst hat unlängst hierüber eine wissenschaftlitze Abhandlung
+Harst hat unlängst hierüber eine wissenschaftliche Abhandlung
 veröffentlicht. Es unterliegt kaum mehr einem
-Zweifel, daß die Zigeuner, wie Fängst vermutet, aus Indien —
-stammen. —«
+Zweifel, daß die Zigeuner, wie längst vermutet, aus Indien
+stammen. —
 
 Unsere Regierung hat nun Harald Harst und seinem
-Freunde Schraut von den wiedtrgefundenen Edelsteinen je
+Freunde Schraut von den wiedergefundenen Edelsteinen je
 drei der schönsten als Dank überweisen lassen. Die beiden
-Freunde nahmen das Geschenk an, haben es aber sofort dem —
+Freunde nahmen das Geschenk an, haben es aber sofort dem 
 Hilfsverein für Auslandsdeutsche zugestellt, — von einem
 vielfachen Millionär wie Harst freilich nur eine selbstverständliche
 Opferfreudigkeit.«
@@ -2334,16 +2331,16 @@ Opferfreudigkeit.«
 — So weit die Kalkutta-Times.
 
 Ich glaube, ich brauche meinerseits nichts mehr hinzuzufügen,
-höchstens das eine: daß die Gräfin Astarmalli in- —
-zwischen eine neue, glücklichere Ehe geschlossen hat.
+höchstens das eine: daß die Gräfin Astarmalli inzwischen
+eine neue, glücklichere Ehe geschlossen hat.
 
-Es ist ein buntscheckigen Weg von jener Nacht im Ganz- —
-herum bei Professor L. bis zur Hängebrücke der Gawir …
+Es ist ein buntscheckiger Weg von jener Nacht im Sanatorium
+bei Professor L. bis zur Hängebrücke der Gawir …
 
 Harst hat die … Brücke der Wahrheit doch fertig gebaut.
 
-Nicht immer glühte »ihm dies. Hm nächsten Band will
+Nicht immer glückte ihm dies. Im nächsten Band will
 ich auch einmal einen gründlichen Fehlschlag von ihm den
 Lesern berichten — auf seinen eigenen Wunsch. Es ist die
-spannende Geschichte der »Weißen Zementboden«
+spannende Geschichte der »*Weißen Sonnenflecken*«.
 
