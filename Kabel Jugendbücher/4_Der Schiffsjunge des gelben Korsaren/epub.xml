@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">8fa795fe-c4c9-4efb-bd17-0ba1a3812a33</entry>
+<entry key="title">Der Schiffsjunge des gelben Korsaren</entry>
+<entry key="collection">Kabels Jugendbücher</entry>
+<entry key="group-position">4</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Der Schiffsjunge des gelben Korsaren.
+
+Der Dampfer trug zu beiden Seiten des Bugs in Metallbuchstaben den Namen Nassovia, war in Hamburg beheimatet und gleichzeitig für die Beförderung von Fracht und Fahrgästen eingerichtet. Er hatte schon eine stattliche Reihe von Jahren die Tour Hamburg, Neapel, Suez, Aden, Kolombo, Padang, Batavia und zurück für seine Reederei treu und ohne Unfall befahren, war jetzt schon etwas klapperig geworden und durfte keinen Anspruch mehr darauf erheben, verwöhnte Reisende zu beherbergen. Er mußte sich schon mit Leuten begnügen, deren Mittel für eines der modernen schwimmenden Riesen-Luxushotels nicht ausreichten.
+
+Zu diesen mit Glücksgütern bisher nicht gerade gesegneten Fahrgästen gehörte auch ein vierzehneinhalbjähriger Knabe, der sich nach dem plötzlichen Tode seiner Eltern jetzt auf dem Wege zu dem Bruder seines Vaters, einem Plantagenbesitzer auf der Insel Sumatra, befand, wo dieser seinem Neffen eine neue Heimat geben wollte. Obwohl der Kaffeepflanzer, der es in jahrelanger unermüdlicher Arbeit zu großem Wohlstand gebracht hatte, für das einzige Kind seiner einer Typhusepidemie zum Opfer gefallenen nächsten Verwandten eine recht reichliche Summe geschickt hatte, war der Vormund des Knaben doch ganz damit einverstanden gewesen, daß Olaf Kersten die Nassovia benutzte, mit deren zweitem Steuermann sich der Junge einmal sehr angefreundet hatte, als jener zum Besuch von Verwandten in Olafs Vaterstadt weilte. —
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="publisher">Verlag moderner Lektüre</entry>
+<entry key="subject">FICTION / Action &amp; Adventure</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1919</entry>
+<entry key="cover">Korsar-01.jpg</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>

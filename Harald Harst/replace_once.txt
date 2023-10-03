@@ -38,6 +38,7 @@
 \bHart\b	Harst
 \bIm\b	Hm
 \bis!\b	ist
+\bLarald\b	Harald
 \blebten	letzten
 \blett\b	jetzt
 \bLust\b	Luft
