@@ -163,7 +163,7 @@ gehen. —
 
 > Ich sitze noch immer hier. Die Weissagung des alten
 Weibes meldet sich in den tiefsten Gründen meines sogenannten
-Unterbewußtseins, nehme im an.
+Unterbewußtseins, nehme ich an.
 
 > Große Lebensgefahr …!
 
@@ -220,7 +220,7 @@ besitzt, daß sie eine silberne antike Dose in der sicheren
 Erwartung kaufen wird, bei einem Sammler einen höheren
 Preis zu erzielen?! Woher wußte das alte Weib, daß Ihr
 Bruder Sammler war? Weshalb drängte sie sich Ihrem
-Brüder noch als Wahrsagerin auf?! Weshalb verlangte sie,
+Bruder noch als Wahrsagerin auf?! Weshalb verlangte sie,
 er solle kein Geschenk oder dergleichen zurückweisen?! Weshalb
 gewann Ihr Bruder gleich darauf das Achattintenfaß?!
 Zufall?! — Nein!!«
@@ -706,13 +706,13 @@ hier schuldig …«
 
 »Allerdings, mein Herr,« erwiderte Harald ebenso höflich.
 »Oder besser: ich kann mir unschwer zusammenreimen, wie
-sie hier in die Villa gelangst sind …«
+sie hier in die Villa gelangt sind …«
 
 Der verschüchtert-bittende Gesichtsausdruck des jungen
 Menschen wandelte sich. Er war erstaunt …
 
 »Das können Sie sich kaum zusammenreimen,« sagte er
-zaudernd. »Der Man dort kletterte über das Gartengitter.
+zaudernd. »Der Mann dort kletterte über das Gartengitter.
 Ich kam gerade durch den Wald von einem Spaziergang.
 Der Wald grenzt ja der Villa gegenüber an die
 Kronprinzenallee …«
@@ -793,7 +793,7 @@ schalten wohl hinter uns das Licht aus.«
 So stiegen wir denn nun zu vieren die Marmortreppe
 hinab …
 
-Waren unten in des toten Tiefen Heinrich H’s Arbeitszimmer
+Waren unten in des toten Herrn Heinrich H.’s Arbeitszimmer
 …
 
 Und hier sollten sich Dinge abspielen, die so sonderbar,
@@ -969,7 +969,7 @@ als wollte er Gumprecht zwingen, daß dieser den Blick
 zu ihm wandte.
 
 Und das alles war wieder sehr merkwürdig, zumal
-Harsts-Harris nun ironisch meinte: »Haben Sie keine Angst,
+Harst-Harris nun ironisch meinte: »Haben Sie keine Angst,
 daß Ihrem Schützling etwas geschieht … Wirklich nicht …
 Ich werde aufs beste für ihn sorgen. Gestatten Sie auch,
 daß ich jetzt eine einfache Pflicht der Höflichkeit nachhole
@@ -1007,7 +1007,7 @@ Englisch:
 Sie, wenn Sie mir morgen erzählen, was … was Ihr
 Herr mit dem alten Manne … getan hat … Ich werde
 um neun Uhr früh drüben im Walde sein … Damit mich
-niemand erkannt, komme ich … als Dame verkleidet …
+niemand erkennt, komme ich … als Dame verkleidet …
 Wollen Sie?«
 
 »Hm — dreitausend … — gut, um neun. Gute Nacht,
@@ -1028,7 +1028,7 @@ Als ich das Arbeitszimmer wieder betrat, fand ich
 dieselbe Szene vor wie vorhin: Harst im Sessel, Gumprecht
 in der Sofaecke, stocksteif, Harald anschauend.
 
-»Setz’ dich. Nathan,« befahl mein Herr.
+»Setz’ dich, Nathan,« befahl mein Herr.
 
 Ich tat’s.
 
@@ -1154,7 +1154,7 @@ sperrt einen Teil meines Gedächtnisses ab … — merkwürdig,
 — wie bin ich nur hierher gelangt …«
 
 Er blickte zu Boden … Er tat mir unendlich leid, aber ich
-wollte ihm auch gern schleunigst loswerden, da ich mich
+wollte ihn auch gern schleunigst loswerden, da ich mich
 nach Harald zurücksehnte, der mir endlich erklären würde,
 was es mit …
 
@@ -1168,7 +1168,7 @@ geschehen …?! Ich … ich … kann doch unmöglich …« —
 er betastete wieder seinen Hals … — »unmöglich über den
 Zaun geklettert sein …!«
 
-»Es ist so … Um besten: denken Sie nicht mehr
+»Es ist so … Am besten: denken Sie nicht mehr
 daran! Wir schweigen, und Sie ebenfalls! — Gehen wir.«
 
 Dann schlich er bedrückt in die stille Nacht hinaus, die
@@ -1218,7 +1218,7 @@ wäre es ihm geglückt.«
 
 Harald lächelte mitleidig. »Mein lieber Alter, der Rumäne
 ist auch mit beteiligt, aber nicht in der Weise, wie
-du es annimmst. Reden wir zuerst über Gumprechts. — Der
+du es annimmst. Reden wir zuerst über Gumprecht. — Der
 Mörder hatte den zweiten Gasspeier bereits auf Vorrat,
 konnte ihn daher hier anbringen, aber das Uhrwerk war
 nur für ein paar Stunden berechnet. Deshalb befahl er

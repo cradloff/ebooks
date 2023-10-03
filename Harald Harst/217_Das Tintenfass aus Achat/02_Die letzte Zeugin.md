@@ -39,7 +39,7 @@ Literatur spendet. Da möchte ich hier denn auch, weil’s so
 etwas in diese Stelle hineinpaßt, der bewußten Dame aus
 jenem Vorort danken, wo »Gamderlans Menagerie« spielte
 — Birkenwalde taufte ich ihn. Die Dame schrieb mir, wie
-ihre Bekannten es zunächst unbegreiflich gefunden, das
+ihre Bekannten es zunächst unbegreiflich gefunden, daß
 sie, eine Bölsche-Verehrerin, eine begeisterte Leserin von
 Löns und anderen an Max Schraut Gefallen hätte.
 »… Dann lasen sie, und dann lasen sie immer mehr,
@@ -123,7 +123,7 @@ Sprachzentrum schien gelähmt.
 
 Und dieser eine Punkt der unheimlichen Vorgänge muß
 hier besonders hervorgehoben werden: Griseldis hatte sich,
-nachdem sie sich vom mir an der Gartenpforte verabschiedet
+nachdem sie sich von mir an der Gartenpforte verabschiedet
 und mir die hundert Mark in die Hand gedrückt,
 abermals in die Villa Solitüde eingeschlichen, offenbar um
 uns zu belauschen. — Ihr Interesse für Gumprecht, dem sie
@@ -137,7 +137,7 @@ das Licht erlischt, der Mörder feuert im Dunkeln
 auf sie, trifft nur die Stirn — Streifschuß, hat aber fraglos
 die Absicht gehabt, das Mädchen für alle Zeit stumm zu
 machen. Und dort im Flur hat sie ihn erkannt. Dieses
-Erkennen schleuderte die Ärmste im den Abgrund des
+Erkennen schleuderte die Ärmste in den Abgrund des
 Wahnsinns. Mithin mußte ihre Seele, ihr Herz bei diesem
 Erkennen des Täters so stark mitbeteiligt gewesen sein, daß
 ihre Nerven … rissen …: Irrsinn!! —
@@ -235,7 +235,7 @@ Briefmarkenprüfungen vom Abend vorher gesprochen. Auch
 auf dem Gebiet ist er Autorität. Viele Sammler brachten ihm
 zweifelhafte Stücke, damit er — selbst die geschicktesten —
 Fälschungen herausfinde. Er hatte seine eigenen Methoden
-dabei, die er genauer wenig verriet wie seine chemischen
+dabei, die er genauso wenig verriet wie seine chemischen
 Errungenschaften.
 
 Im Walde bog er nachher links ab, so daß wir nun
@@ -272,7 +272,7 @@ Hörst du? Was ist das?«
 <h2>2. Kapitel.</h2>
 <h3>Spielend einfach.</h3>
 
-»Was das ist?! Weinst du das Klopfen? Das ist ein
+»Was das ist?! Meinst du das Klopfen? Das ist ein
 Buntspecht … Dort oben sitzt er … An dem trockenen,
 abgebrochenen Ast … Er hämmert so lange, bis die Würmer
 im Holze nervös werden und nachschauen, wer der Störenfried
@@ -358,7 +358,7 @@ umspannt.
 Eichkater, — ein Scherz von Harst, — die Nüsse prasselten
 mir auf den Hut.
 
-Ich hatte diese Sachen, auch die Nüsse vorsichtig gesammelt
+Ich hatte diese Sachen, auch die Nüsse, vorsichtig gesammelt
 und unter Harsts Mantel gelegt. — Er kam herab …
 
 Er strahlte. Oh — er kann so kindlich vergnügt aussehen,
@@ -437,7 +437,7 @@ Mül-lers-ki!! Die Krause erkannte Herrn Müllerski sofort,
 und ihre fettige Stimme bedeutete mir mit reichlichem
 Kraftaufwand, Hundefutter gebe es nicht mehr … der gnädige
 Herr sei tot, die Villa leer und daher auch keine Abfälle …
-— Mit einem Wort Müllerski hat fraglos regelmäßig die
+— Mit einem Wort: Müllerski hat fraglos regelmäßig die
 Abfälle aus der Solitüde geholt, und dabei hat er sich mit
 Gumprecht angefreundet, oder er war gar ein Bekannter des
 Alten. Das werden wir sehr bald feststellen.«
@@ -493,7 +493,7 @@ der immer aus der Villa Solitüde die Küchenabfälle holte?«
 zumeist zu uns … Müllerski heißt er … Es ist der
 Stiefvater des Zahntechnikers Raupach, mit dem Gumprechts
 Nichte verlobt ist … Ein Geizhals, Herr Harst … Hundezüchter
-ist er … Wohnt mit seinem Stiefsohn zusammen
+ist er … Wohnt mit seinem Stiefsohn zusammen,
 dem Raupach. Zwergspitze züchtet er, schwarze, braune, und
 doch soll er Geld haben …«
 
