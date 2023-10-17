@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">b9d4dcf2-5322-11ee-b7a0-4bbc7f9b080f</entry>
+<entry key="title">Der große Adler der Arowaken</entry>
+<entry key="collection">Kabels Jugendbücher</entry>
+<entry key="group-position">1</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Der große Adler der Arowaken.
+
+Für Berlin galt es als ein besonderes Ereignis, als 1891 der französische Riesenzirkus Pelvoux in seiner Zeltstadt auf dem Tempelhofer Feld auch etwa sechzehn südamerikanische Indianer in allerlei Künsten zeigte, die, wie auf dem Programm zu lesen war, die letzten Überlebenden des Stammes der Abipones sein sollten, der ja tatsächlich schon damals infolge langjähriger Kämpfe mit den Nachbarstämmen und Krankheitsepidemien als ausgestorben galt.
+
+Ich, der infolge falscher Erziehung nichts Rechtes gelernt hatte, der als Kind und Jüngling im Reichtum groß geworden und dann nach dem plötzlichen Zusammenbruch des Geschäftes meines Vaters und dem kurz darauf erfolgten Tode meiner verbitterten Eltern ganz auf sich allein angewiesen war, der nunmehr den Kampf ums tägliche Brot in allen seinen kläglichen Formen ausgekostet, bald als Zeitungsverkäufer, bald als Kellner, Reporter, Landarbeiter und so weiter und so weiter fast alle einfacheren Berufe kennen gelernt hatte, — ich besann mich damals keinen Augenblick, als Statist in der großen Pantomime »Die Goldgräber des San Juan-Flusses« mitzuwirken, meldete mich auf dem Bureau des Zirkus, wurde, zumal ich von guter Figur war und auch reiten konnte, sofort angenommen und bis zum Eintreffen der Pelvoux’schen Wagenburg als Reklamemacher verwendet, das heißt, ich mußte den ganzen Tag über in der Friedrichstraße und Unter den Linden ein Riesenschild mit den verlockendsten Schilderungen der Sehenswürdigkeiten der Zirkusschau umhertragen.
+
+Als die Proben dann begannen — inzwischen war der Zirkus angelangt — lernte ich auch die angeblich »letzten« Abipones kennen. Nun — es waren natürlich keine Abipones, vielmehr eine zusammengewürfelte Gesellschaft aus allerlei Stämmen Südamerikas: Mochos, Kariben, Mundurukus, vier Chiquitos aus dem Nordteile des berüchtigten Gran Chako, wo sich rote und weiße Buschklepper ein Stelldichein geben, ferner Penchuelchen aus den argentinischen Steppen, zwei Feuerländer und schließlich ein einzelner Angehöriger des großen Volkes der Arowaken.
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="publisher">Verlag moderner Lektüre</entry>
+<entry key="subject">FICTION / Action &amp; Adventure</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1919</entry>
+<entry key="cover">Arowaken-01.jpg</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h2, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
