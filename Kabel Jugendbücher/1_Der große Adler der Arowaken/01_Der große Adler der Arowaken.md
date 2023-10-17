@@ -282,7 +282,7 @@ Unser Gespräch wandte sich anderen Dingen zu. Ich war natürlich taktvoll genug
 das vorherige Thema nicht wieder anzuschneiden.
 
 Um ein Uhr nachts wurde ich abgelöst. Madua hatte mir bis dahin Gesellschaft
-geleistet, da die Pferde nochi immer sehr unruhig waren. Dann forderte ich ihn
+geleistet, da die Pferde noch immer sehr unruhig waren. Dann forderte ich ihn
 auf, mich in meine Dachstube zu begleiten, die ich mir in einer der Straßen
 unweit des Tempelhofer Feldes gemietet hatte. Mein Wirt, ein Flickschuster,
 würde sicher nichts dagegen haben, wenn der Indianer mit mir den kleinen Raum
@@ -395,7 +395,7 @@ fleißigen deutschen Einwanderer, denen Brasilien so unendlich viel zu verdanken
 hat.
 
 Grunert betrieb nebenbei noch einen Kramladen, in dem es einfach alles gab.
-Sogar eine Lokomobileiii hatte er zum Verkauf auf dem Hofe stehen.
+Sogar eine Lokomobile hatte er zum Verkauf auf dem Hofe stehen.
 
 Bei dem dicken, behäbigen Ostpreußen wurde ich eingekleidet. Meinen bisherigen
 städtischen Anzug nahm er für den wildledernen Jagdanzug, das rote Flanellhemd,
@@ -457,7 +457,7 @@ Madua Waffen einzukaufen, da unsere Reisekasse bei der Ankunft in Para so
 ziemlich leer war. Meinem roten Freunde fehlten Gewehr und Revolver, leider
 damals schwer zu haben, da die Revolutionäre alles längst beschlagnahmt hatten.
 
-Da half der gutmütige August Grunert ans, dem wir unsere Erlebnisse in Berlin
+Da half der gutmütige August Grunert aus, dem wir unsere Erlebnisse in Berlin
 ruhig anvertraut hatten. Gegen einen Spottpreis überließ er Madua einen
 tadellosen Mauserkarabiner nebst zweihundert Patronen sowie zwei Revolver
 amerikanischen Fabrikats nebst ebenso viel Munition.
@@ -608,7 +608,7 @@ haben.
 Die Gelbgesichter fluchten erst, lachten dann höhnisch.
 
 »Was liegt an dem roten Hund,« meinte der Anführer, den die anderen sehr
-ehrerbietig mit Sennor Tarbatoiv anredeten, zu mir. »Willst Du nicht
+ehrerbietig mit Sennor Tarbato anredeten, zu mir. »Willst Du nicht
 nachspringen, Dutschman<@refnote/>?! Ein Greenhorn<@refnote/> wie Dich können wir ja bei dem
 Geschäft, das wir vorhaben, doch nicht recht brauchen.«
 
@@ -857,7 +857,7 @@ Dieser Mann schien schon recht bejahrt zu sein, hatte einen kurzen Vollbart und
 sehr wirres, tief in die Stirn hängendes Haar, das an den Schläfen ganz weiß
 schimmerte. Sein unbedeckter Kopf hing matt auf die Brust herab. Gekleidet war
 er in einen Anzug, dessen einzelne Teile ich bei dieser schwachen Beleuchtung
-nicht genügend zu erkennenvii vermochte.
+nicht genügend zu erkennen vermochte.
 
 Tarbato fuhr den Alten soeben in jenem Mischmasch von Portugiesisch, Englisch
 und Französisch, das für Brasilien eine Art Verkehrssprache bildet, grob an:
@@ -923,7 +923,7 @@ Ich gab mir jetzt die größte Mühe, irgendwie herauszufinden, was mein roter
 Freund plante, suchte mit den Augen jedes Gebüsch, jeden Grasstreifen ab.
 Zunächst entdeckte ich nichts. Dann kam es mir vor, als ob die angepflockten
 Pferde beim Weiden durch irgend etwas gestört würden. Sie hoben die Köpfe,
-wichen jetzt auch zur Seite. Nach einer Weile waren sie jedoch nieder ruhiger
+wichen jetzt auch zur Seite. Nach einer Weile waren sie jedoch wieder ruhiger
 und grasten weiter.
 
 Inzwischen hatten die Piraten ihre Bemühungen um den Alten aufgegeben. Sennor
@@ -1185,7 +1185,7 @@ Arm des langen Juans mit seinen Fußfesseln durch einen Strick lose verbunden.
 Madua erledigte dies und sagte dabei zu dem Mestizen:
 
 »Wir lassen Euch hier allein. Du kannst Deine Genossen nachher, wenn die Sonne
-aufgefangen ist, losbinden. Trotz der Wunde im Oberarm wirst Du dazu imstande
+aufgegangen ist, losbinden. Trotz der Wunde im Oberarm wirst Du dazu imstande
 sein, wenn auch nur langsam. Wagt einer von Euch uns zu folgen, erhält er eine
 Kugel.«
 
@@ -1195,7 +1195,7 @@ Zwei Stunden später erreichten wir eine jener verwahrlosten Landstraßen, die
 für die Kulturzustände Innerbrasiliens so kennzeichnend sind. Die
 Riesenrepublik besitzt moderne Wegebauten nur in den Küstengebieten am
 Atlantischen Ozean. Was sonst von Straßen vorhanden, sind nichts als breite,
-ausgefahrene Landwegeviii, auf denen die Ochsenkarren und Maultierkarawanen
+ausgefahrene Landwege, auf denen die Ochsenkarren und Maultierkarawanen
 dahinziehen. Solche Zufallstraßen gibt es jedoch nur in der Nähe größerer
 Ortschaften oder wichtigerer Flußhäfen des Amazonas und seiner Nebenströme. Man
 muß hierbei nie vergessen, daß dieser enorme Staat nur rund 16 Millionen
@@ -1226,7 +1226,7 @@ Schädeldaches. Um den langen, mageren Hals war ein wollener, langer, sehr
 zerrissener und einst grellbunt gemustert gewesener Schal geknotet, der über
 ein knallrotes, auf der Brust offenes Flanellhemd fiel. Darüber wieder schützte
 den Oberkörper noch der Rest eines jetzt bereits grünlich schillernden Fracks,
-denn die Schöße bis auf eine Handbreit abgeschnitten waren. So konnte man
+dem die Schöße bis auf eine Handbreit abgeschnitten waren. So konnte man
 bequem den gut zwanzig Zentimeter breiten Ledergurt bewundern, offenbar eine
 indianische Arbeit, an dem in Futteralen zwei Revolver, ein Messer und zwei
 Ledertäschchen baumelten. Derbe Lederhosen, die über indianische Schuhe ähnlich
@@ -1265,7 +1265,7 @@ nannte, alles andere als harmlos war, erkannte ich sehr bald.
 jedoch ebenso wie sein Reittier recht hochbeinige Füchse von einem Gliederbau,
 der sowohl auf große Ausdauer als auch Schnelligkeit schließen ließ. —
 
-Während wir auf Schusters Rappen nebeneinanderix die breite, staubige,
+Während wir auf Schusters Rappen nebeneinander die breite, staubige,
 geleiszerschnittene Landstraße in Richtung auf die Amazonas-Hafenstadt Santarem
 entlangschritten, begannen wir nun auch eine Unterhaltung, die bisher auf den
 schmalen Urwaldpfaden nicht gut möglich gewesen war.
@@ -1312,7 +1312,7 @@ von Weber mit die mächtige Fingerfixigkeit uf die Klaviaturtasten, — ne,
 sondern bedeutend besser noch Ihren allerwertesten Oheim! Ja — staunen Se nur!
 Det is keen fauler Schwindel, sondern de nackijste Wahrheit, wo’s nur jeben
 kann! Fünfmal war ick uf die kleine Hazienda bei Herbert Webern zu Jaste, und
-wir waren Freinde ieworden, bis er dann eben verschwand. — Madua, nu weiter im
+wir waren Freinde jeworden, bis er dann eben verschwand. — Madua, nu weiter im
 Text! Ick vabrenne for Neijier — also los mit den Sprechmechanismus!«
 
 Watzefleck und ich hatten einen festen Händedruck ausgetauscht. Dann fuhr Madua
@@ -1327,7 +1327,7 @@ breitem Streifen erstreckt, ein ausgedehntes, zum Teil felsiges Tal gefunden.
 Wenn man drei dort wachsende sehr alte und sehr hohe Palmen durch eine Linie
 verbindet und diese Strecke über die westlichste Palme hinaus um die Hälfte der
 Entfernung zwischen der östlichsten und der mittleren verlängert, gelangt man
-an einen starken Bach, der aus dem Erdinnern aus einem Felsenloche heranstritt.
+an einen starken Bach, der aus dem Erdinnern aus einem Felsenloche heraustritt.
 — Sollte mir bei dem neuen Jagdzuge in die Wildnis, den ich jetzt vorbereite,
 etwas zustoßen, so rate ich Dir, mein Bruder, mit Hilfe einiger Indianer des
 Ipurinen-Stammes, die mir stets Freunde waren, jenes Tal aufzusuchen und die
@@ -1412,8 +1412,8 @@ sich um ne Bonanza<@refnote/> oder ne Goldader! — zu finden. Und wenn dieser I
 der Faxenmacher sich uns irgendwie und -wo hindernd uff die Chaussee stellen
 sollten, dann Jnade ihnen der Heiland!«
 
-Gerade jetzt näherten wir uns Santaremxi. Der Verkehr auf der Straße wurde
-lebhafter. Von einem Hügel ans erblickten wir dann auch den Amazonas, glitzernd
+Gerade jetzt näherten wir uns Santarem. Der Verkehr auf der Straße wurde
+lebhafter. Von einem Hügel aus erblickten wir dann auch den Amazonas, glitzernd
 im Sonnenlicht des wolkenlosen Spätherbsttages.
 
 Santarem liegt in bergigem Gelände. Der Riesenstrom verschont die nähere
@@ -1591,7 +1591,7 @@ Angestellte sein, waren Mestizen und trugen die üblichen Leinenanzüge und
 breite Strohhüte.
 
 Der, den ich für einen Haziendabesitzer hielt, hatte mich mit: »He, — eine
-Frage!« angerufen und zwar in der sogenannten Lingoa geral brasilikaxvi, das
+Frage!« angerufen und zwar in der sogenannten Lingoa geral brasilika, das
 heißt in jenem bereits erwähnten Mischmasch.
 
 Er war reichlich stutzerhaft gekleidet, schneeweiß von oben bis unten, trug ein
@@ -1797,7 +1797,7 @@ Juwelen gehört habe, zutrifft, das Gestohlene sehr bald herbeischaffen. Nur mu�
 Don Alvaro, nachdem wir seine Hand gewaschen und verbunden haben, mir dann
 seine gesunde Linke reichen und mich durch das ganze Haus und auch durch den
 Park führen. Ihm wird selbst daran liegen, daß Ihr, Donna Klara, Euer Eigentum
-zurückerhaltet. Es ist dock so, Don Alvaro?«
+zurückerhaltet. Es ist doch so, Don Alvaro?«
 
 Der murmelte nur ein »Natürlich!« vor sich hin, fügte dann lauter hinzu: »Ich
 begreife nicht, Klara, daß Du auf diese lächerliche Komödie des Indianers
@@ -1850,7 +1850,7 @@ Aber wiederum befahl Madua jetzt: »Zurück, woher wir kamen!«
 
 Dann, als der Pavillon wieder erreicht war, sagte er leise: »Geradeaus nun!«
 
-Da erklärte Alvaro höhnisch, das ginge leider nichts sonst würde er gegen den
+Da erklärte Alvaro höhnisch, das ginge leider nicht, sonst würde er gegen den
 Pavillon anrennen.
 
 »In den Pavillon!« rief Madua etwas erregt, wie ich merkte.
@@ -1869,7 +1869,7 @@ Hand.
 Ich fürchtete, Donna Klara würde sich einmischen. Doch sie erklärte nur:
 
 »Merkwürdig, daß Du Dich mit einem Male weigerst, die Sache bis zu Ende
-durchzuführen Ich bin fast —«
+durchzuführen. Ich bin fast —«
 
 Da zerrte Alvaro schon den Arowaken um den Pavillon herum auf die Treppe zu,
 die mit zwölf Stufen zu dem zierlichen Holzhäuschen emporführte, das im Innern
@@ -2023,7 +2023,7 @@ Instinkte seiner Vorfahren kamen nur selten noch bei ihm zum Durchbruch. Nur in
 der höchsten Erregung, die er äußerlich jedoch nie zeigte, besonders im Kampf
 und im Zorn, wurde er ein anderer. Dann streifte er so ziemlich alles ab, was
 europäische Gesittung bei ihm gemildert oder verwischt hatte an brutalen
-Trieben. Nur eins war er nie: grausam! Und auch sein Blutrausch im Kamps und
+Trieben. Nur eins war er nie: grausam! Und auch sein Blutrausch im Kampf und
 die vorschnelle Art, von seinen Waffen Gebrauch zu machen, schwanden im Verkehr
 mit mir, nachdem ich ihn gleich beim ersten Mal, als er wie ein Trunkener mit
 Wurfkeule und Messer gewütet hatte, auf das seiner ganzen sonstigen
@@ -2285,7 +2285,7 @@ ein Geräusch an mein Ohr. So glaubte ich sehr bald lautes Rufen und
 Pferdegetrappel zu vernehmen. Nun war alles wieder still. Wie lange ich so
 gelegen, weiß ich nicht. Jedenfalls wurde ich dann nach einer Zeitspanne, die
 ich auf gut fünf Stunden schätzte (in Wirklichkeit waren es kaum anderthalb
-gewesen) auf ein Pferde gelegt, mußte die Füße in plumpe Steigbügel stecken und
+gewesen) auf ein Pferd gelegt, mußte die Füße in plumpe Steigbügel stecken und
 merkte dann auch an dem stoßenden Trab des Gaules, daß es leider nicht mein
 Knusper war.
 
@@ -2333,7 +2333,7 @@ Da — stieß der Wächter mich mit dem Gewehrkolben in die Seite, rief ärgerli
 »Kouch’ te subito!« (Leg’ Dich sofort nieder!)
 
 Diese nachdrückliche, schmerzhafte Aufforderung, in dem schrecklichen
-Sprachmischmasch vorgebrackt, genügte. Ich tat wie befohlen.
+Sprachmischmasch vorgebracht, genügte. Ich tat wie befohlen.
 
 Gleich darauf tauchte neben dem Wächter — ich traute meinen Augen nicht! —
 Ikorri auf!
@@ -3425,7 +3425,7 @@ Unser Kranker hatte nämlich bisher sich der Lingoa geral brasilika bedient,
 dieses »Gottfried Hoffnung« aber mit vollständig richtiger deutscher Betonung
 gesprochen.
 
-Watzefleck fragte daher mit Recht jetzt ebenfalls aus Deutsch, indem er sich
+Watzefleck fragte daher mit Recht jetzt ebenfalls auf Deutsch, indem er sich
 über den Verwundeten beugte:
 
 »Mann, ick jloobe jar, Sie sind ’n Landsmann von mir. Stimmt det etwa?«
@@ -3490,7 +3490,7 @@ Nach einer Viertelstunde ging dann vor mir ein Rudel Pampashirsche flüchtig
 auf. Ich schoß hinterdrein, opferte vier Kugeln scheinbar ohne Erfolg. In der
 Hoffnung, vielleicht doch einen der Hirsche getroffen zu haben, lief ich nun
 eine Strecke im Trab weiter. Die Tiere waren offenbar im Flußbett geblieben, da
-dessen hochansteigende Ränder schwer zu erklimmen.xxiii Jetzt machte dieser
+dessen hochansteigende Ränder schwer zu erklimmen. Jetzt machte dieser
 tiefe Bodeneinschnitt eine scharfe Biegung nach links. Gerade hier gab es viele
 hohe Felsstücke, die ich umgehen mußte. Ich hatte den Stutzen noch im Arm.
 
@@ -3661,7 +3661,7 @@ Erregung die Worte mühsam hervor:
 »Kind, ich alter Mann möchte Dich bitten, Deinen linken Oberarm zu entbleeßen.
 Tu’s — tu’s — ich beschwöre Dich, — een Wunder jibt’s doch amende valeicht —«
 
-Ohne Ziererei schab sie den Ärmel ihrer Jacke hoch. Dicht über dem
+Ohne Ziererei schob sie den Ärmel ihrer Jacke hoch. Dicht über dem
 Ellenbogengelenk wurde eine rote Narbe in Gestalt eines stehenden Kreuzes
 sichtbar.
 
@@ -3692,7 +3692,7 @@ Lagerfeuer, wo ein Vater mit seinen Kindern Wiedersehen feierte?!
 Madua schritt schweigend neben mir her. Erst nach einer geraumen Weile sagte er
 leise, indem er zum ausgestirnten Himmel empordeutete:
 
-»Ihr glaubt an einen Gott, der da hoch oben zwischen ben Sternen wohnt; wir an
+»Ihr glaubt an einen Gott, der da hoch oben zwischen den Sternen wohnt; wir an
 böse und gute Geister. Hier haben soeben Euer Gott oder unsere guten Geister
 geholfen, einem Vater seinen innigsten Wunsch zu erfüllen.«
 
@@ -3802,7 +3802,7 @@ zu lassen und in diesem Bestreben nach allen Richtungen hin umherstreifen.
 
 Die Führung durch das Mädchen half uns leider nicht viel. Nachdem wir zwei
 Stunden lang nach Osten zu durch den Sand und ein paar felsige Hügelketten
-geritten waren, mußte Maria selbst einsehen, daß sie die Dichtung verfehlt
+geritten waren, mußte Maria selbst einsehen, daß sie die Richtung verfehlt
 habe. Nun war guter Rat teuer. Wenn wir den ältesten Sohn Watzeflecks nicht
 noch in dieser Nacht befreiten, war fraglos die beste Gelegenheit dazu verpaßt,
 da wir bei der Übermacht und der guten Bewaffnung der Desperados<@refnote/> nicht
@@ -3815,7 +3815,7 @@ Sie hatte die Schlucht, in der die Bande offenbar seit langem hauste, insofern
 doch näher zu beschreiben vermocht, als sie auf der Höhe eines die Schlucht
 überragenden flachen Berges drei einzelne, abgestorbene Bäume bemerkt hatte,
 die ihrer Meinung nach weithin sichtbar sein müßten. Außerdem sollte jener enge
-Felsenkessel auch seinen Zugang direkt von der Steppe durch einigexxv riesige,
+Felsenkessel auch seinen Zugang direkt von der Steppe durch einige riesige,
 wild übereinander liegende Felsstücke haben, die aus einiger Entfernung wie ein
 schief stehender, enormer Lehnsessel aussehen sollten. Dies war das zweite
 Merkmal, das das Mädchen uns nennen konnte.
@@ -4004,7 +4004,7 @@ immer munterer werdend.
 »Nein — bis jetzt nicht. — Ich bin müde. Schlaft.«
 
 »He, habt Ihr noch etwas Rum, Don Alvaro? Mir ist die Kehle trocken wie
-Sertaos-Sandxxvi.«
+Sertaos-Sand.«
 
 »Ja — hier — nehmt —«
 
@@ -4062,7 +4062,7 @@ Er wollte weiter. Da erzählte ihm noch schnell einer der Mestizen, daß man
 soeben den Kapitano bewußtlos aufgefunden habe und daß der zweite Gefangene nun
 auch verschwunden sei.
 
-Der Mulatte fluchte wie ein irländischer Kohlentrimmen
+Der Mulatte fluchte wie ein irländischer Kohlentrimmer.
 
 Da gerade kam der lange Juan zu sich. Er war nicht mehr gefesselt, richtete
 sich nun taumelnd auf, stierte wild um sich.
@@ -4296,7 +4296,7 @@ wurde mit Jubel begrüßt. Sofort fragte er den Führer der Abteilung, die
 Pampashirsche gejagt hatte, nach Madua. Der Rote erklärte zu unserer frohen
 Überraschung, der große Adler sei, wie er von anderen Stammesangehörigen gehört
 habe, vor kurzem in dem Hauptdorfe jenseits der Stromschnellen des
-Purus-Flusses plötzlich ausgetaucht, sofort aber wieder mit zehn der besten
+Purus-Flusses plötzlich aufgetaucht, sofort aber wieder mit zehn der besten
 Krieger nach Nordwesten zu weitergeritten und habe befohlen, el Sekreto und
 seinem Bruder Starkhand mitzuteilen, daß er nach dem Jutahy unterwegs sei.
 
@@ -4356,7 +4356,7 @@ das Ufer eines runden Sees ein, den das Flüßchen speiste und in dem eine kahle
 zerklüftete Felseninsel sich befand. Eine Menge Kinder sprang uns entgegen;
 Weiber und ältere Knaben tauchten auf.
 
-[Sie]xxvii begrüßten el Sekreto freudig und warfen mir heimlich bewundernde
+Sie begrüßten el Sekreto freudig und warfen mir heimlich bewundernde
 Blicke zu. Auch hier hörte ich immer wieder den Namen Starkhand flüstern.
 
 Zu unserem Schreck erfuhren wir dann, daß sämtliche Männer des Dorfes zwei
@@ -4485,13 +4485,13 @@ nur?!
 Kaum drei Minuten später hing ein Toter oben im Laubdach eines riesigen
 Lorbeerbaumes, während derselbe Lasso neben der Leiche einen Bewußtlosen an den
 Stamm fesselte. — Nun mein Fuchs! Ich nahm ihn am Zügel und suchte nach einem
-Gebüsch, fand es auch, drückte die Zweige auseinander, lockte mein bravem Tier
+Gebüsch, fand es auch, drückte die Zweige auseinander, lockte mein braves Tier
 hinein, klopfte ihm den Hals und sprach leise ein paar zärtliche Worte, worauf
 er seine Schnauze an meiner Schulter rieb und ein kaum vernehmbares Wiehern
 ausstieß.
 
 Ich eilte jetzt zurück nach der Schlucht. Der Wald war wie in Feuer getaucht
-vom Widerschein der untergehenden Sonne Jedes Künstlerauge wäre entzückt
+vom Widerschein der untergehenden Sonne. Jedes Künstlerauge wäre entzückt
 gewesen über das Bild dieses tropischen Waldes bei dieser Beleuchtung. Ich
 durfte solchen Gedanken nicht nachhängen. Meiner harrte anderes, das mit
 Schönheit und Farbensinn nichts zu tun hatte.
@@ -4678,7 +4678,7 @@ mußten Don Alvaro, Brestol und der Kapitano einen solchen Vorsprung haben, daß
 bei den jetzt so häufigen Regenfällen ihre Spuren längst verschwunden sein
 mußten.
 
-Da es kurz darauf sehr heiß wurden nachdem die Wolkenschleier die Sonne
+Da es kurz darauf sehr heiß wurde, nachdem die Wolkenschleier die Sonne
 freigegeben hatten, beschlossen wir ein paar Stunden zu rasten. In dem nächsten
 Tale des hier sehr welligen Geländes fanden wir denn auch einen geschützten
 Platz hinter einem steinigen Hügel und wollten schon unsere Füchse absatteln,
@@ -4762,14 +4762,14 @@ gewesen sein mußte, den die drei Geschwister mit den Angreifern ausgefochten
 hatten. — Kaum war dann der Mond erschienen, als wir auch schon weitertrabten.
 Der Rum hatte etwas geholfen. Drei Stunden ging es abwechselnd in flottem
 Schritt oder Trab vorwärts. Die Fährte zeichnete sich als breiter Strich in dem
-Blumenteppich ab. Zweimal gab es deinen kurzen Aufenthalt, da wir die Spur auf
+Blumenteppich ab. Zweimal gab es einen kurzen Aufenthalt, da wir die Spur auf
 steinigem Boden verloren und die Fortsetzung jenseits dieses erst suchen
 mußten.
 
 Watzefleck achtete wenig auf den Weg, war in trübes Sinnen versunken. Ich hatte
 deshalb die Pflicht, recht scharf achtzugeben, daß wir nicht etwa unversehens
 mit dem Reitertrupp zusammenstießen, von dem wir bisher nicht wußten, was wir
-van ihm zu halten hatten. Umsonst hatte ich mir den Kopf zerbrochen, wer diese
+von ihm zu halten hatten. Umsonst hatte ich mir den Kopf zerbrochen, wer diese
 Leute sein könnten, die hier in dieser Einöde auffallenderweise genau die
 Richtung einhielten, die auch wir einschlagen mußten.
 
@@ -4815,7 +4815,7 @@ Krieger, die der große Adler der Arowaken mit nach der Bonanza genommen hatte.
 Daß sie aus dem Hinterhalt niedergeschossen worden waren, bewies schon der
 Umstand, daß nicht einer der achtzehn Mundurukus auch nur verwundet war! Später
 bestätigte mir Madua diese Vermutung auch. Er und die Seinen hatten hier
-belagert und waren von den Feinden dann vollständig umzingelt worden. Ihn hatte
+gelagert und waren von den Feinden dann vollständig umzingelt worden. Ihn hatte
 man absichtlich geschont. Ikorri hatte ihn eines anderen Todes sterben lassen
 wollen; er sollte von seinem eigenen Pferde in den Sertaos totgeschleift
 werden.
@@ -4846,17 +4846,17 @@ Der dicht vor Madua hockende Rote stand bisweilen auf und warf neues Holz auf
 die Feuer. Dies benutzte ich dazu, hinter den Baum zu kriechen und meines
 Freundes Fesseln zu durchschneiden, daß die Riemen nur gerade noch
 zusammenhielten. Gleichzeitig hatte ich Maduas Fuß leise berührt und ihn so auf
-mein Messer aufmerksam gemacht, das ich absichtlich vorxxviii ihn in das Gras
+mein Messer aufmerksam gemacht, das ich absichtlich vor ihn in das Gras
 legte.
 
 Der Munduruku schlenderte wieder herbei, setzte sich, sah das Messer, stutzte,
 beugte sich vor und griff danach. In demselben Moment hatte auch schon Madua
 seine Arme frei gemacht, packte zu; seine Hände umklammerten den Hals des
 wütend sich wehrenden Roten, bis Watzeflecks Messer diesem von der Seite in die
-Rippen führ. Die Leiche wurde schnell ins Gebüsch getragen. Dann kamen die drei
+Rippen fuhr. Die Leiche wurde schnell ins Gebüsch getragen. Dann kamen die drei
 nebeneinander ein wenig abseits schlafenden Desperados heran. Jeder von uns
 nahm sich einen von ihnen vor. Sie sollten leben bleiben, und daher schlug ich
-erst denn Kapitano die Faust gegen die Schläfe, dann den beiden anderen, die
+erst dem Kapitano die Faust gegen die Schläfe, dann den beiden anderen, die
 unter den würgenden Griffen Maduas und des Alten gleichfalls keinen Laut
 ausstoßen konnten.
 
@@ -4864,7 +4864,7 @@ Das, was dann geschah, will ich hier nicht mit all seinen grausigen
 Einzelheiten wiedergeben. Madua hatte den Mundurukus die Gewehre heimlich
 weggeholt, schreckte sie dann durch seinen Kriegsruf auf. Zwischen ihm und
 Ikorri kam es zum Kampf Mann gegen Mann. Er dauerte nicht lange. Madua
-schlenderte den Munduruku seine Keule mit solcher Wucht gegen die Brust, daß
+schleuderte dem Munduruku seine Keule mit solcher Wucht gegen die Brust, daß
 dieser hintenüber stürzte, stieß ihm dann das Messer ins Herz, schnellte empor
 und überrannte einen anderen Roten, der eben seinen Revolver auf mich anschlug.
 Nicht einer entkam. Der neue Tag mit seinen ersten Sonnenstrahlen beleuchtete
@@ -4956,7 +4956,7 @@ Nacht hinausgeritten waren, um den Schlupfwinkel der Buschklepper zu suchen. —
 Er hatte sich ständig in der Nähe von San Antonio aufgehalten, aber die Stadt
 selbst nichts zu betreten gewagt, da er von einigen Ipurinen gehört hatte, daß
 seine Anwesenheit hier bekannt geworden sei. Von denselben Ipurinen, die er als
-Spione benutzte und die ihm auch über mein Befinden auf dem Laufenden halten
+Spione benutzte und die ihn auch über mein Befinden auf dem Laufenden halten
 mußten, hörte er rechtzeitig genug von der Flucht der drei Desperados, um deren
 Verfolgung alsbald beginnen zu können. Hier in der Nähe der Bonanza war er dann
 nur deshalb später als die Mundurukus eingetroffen, weil er einen Umweg über
@@ -5008,7 +5008,7 @@ Mund geschoben, damit jener den beiden anderen nicht verraten könne, was Madua
 vorhatte.
 
 Dann wurde der Kapitano losgebunden, an einen Lasso gefesselt, den ich in der
-Hand hielt, und mußte nun, während der Arowake Tarbatos linkes Handgelenkxxix
+Hand hielt, und mußte nun, während der Arowake Tarbatos linkes Handgelenk
 fest umspannt hatte, auf diese Weise mit uns zunächst kreuz und quer den Wald
 durchstreifen, dann das Tal. Hier nun an der rechten Seite in der Nähe einer
 kleinen Gruppe von kahlen Felsen drängte der Kapitano plötzlich nach links,
@@ -5039,7 +5039,7 @@ zu finden. Auf den Knien rutschte er hierhin, dorthin. Dann seine
 triumphierende Stimme: »Ah — zwei kleine zerdrückte Steinchen! Hier wieder
 einer — noch einer!« Er hockte jetzt dicht vor einem Steinhaufen, über dem ein
 Dornengestrüpp wucherte. Als er in die Dornen vorsichtig hineinfaßte, konnte er
-den ganzen Strauch beiseite ziehen Er war nur lose auf die Steine gelegt
+den ganzen Strauch beiseite ziehen. Er war nur lose auf die Steine gelegt
 worden! Und jetzt flogen diese Steine einer nach dem andern abseits.
 
 Plötzlich brüllte Tarbato förmlich auf vor Angst, schrie: »Du — Du bist ein
@@ -5108,10 +5108,10 @@ bisher ansichtig geworden sind. Hervorheben will ich noch, daß es sich bei den
 europäischen Zwergen, die oft in Schaustellungen in Deutschland gezeigt werden,
 stets nur um einzelne Menschen handelt, die, von normalen Eltern abstammend, in
 ihrer körperlichen Entwicklung durch diese oder jene Einflüsse stark
-zurückgeblieben sind. Die Zwergvölker dagegen sind als ganz besondere
+zurückgeblieben sind. Die Zwerg*völker* dagegen sind als ganz besondere
 Menschenrassen anzusehen, die ihrer ganzen Körpergestaltung nach zumeist in
 keine der Rassen von normaler Größe hineinpassen. — Diese kurze
-wissenschaftliche Bemerkung fall mich von dem Verdacht befreien, in dieser
+wissenschaftliche Bemerkung soll mich von dem Verdacht befreien, in dieser
 Niederschrift meiner Reiseerlebnisse etwa der Phantasie einen zu weiten
 Spielraum gewährt zu haben. —
 
@@ -5234,7 +5234,7 @@ einen Weg in die Savanne darstellt,« meinte er.
 
 Dieser Marsch durch die Baumwipfel war zunächst recht interessant, dann aber
 bald eintönig und sogar überaus anstrengend, da wir ja beständig auf dünneren
-oder stärkeren Ästen entlangbalancieren mußten uno nur für die linke Hand das
+oder stärkeren Ästen entlangbalancieren mußten und nur für die linke Hand das
 Geländer als Stütze hatten. Nach vier Stunden taten mir die Fußgelenke bereits
 so weh, daß ich Madua bitten wollte, wir möchten irgendwo rasten. Er als Führer
 war stets etwa zehn Meter voraus. Als ich ihn jetzt leise anrief, antwortete er
