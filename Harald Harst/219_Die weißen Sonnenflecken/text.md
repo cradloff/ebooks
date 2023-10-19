@@ -583,7 +583,7 @@ die einem gleichsam noch immer wie frische Wunden
 in der Erinnerung brennen. Rührt man auch nur ein
 wenig daran, so flammt der Schmerz wütend auf … — und
 alles, was vor vielen Monaten geschah, erwachte aufs
-neue zu schreckhaften Leben …
+neue zu schreckhaftem Leben …
 
 Was ich hier schildere — und das deutete ich schon
 am Ende des vorigen Bandes an — ist die Geschichte
@@ -591,8 +591,8 @@ einer der wenigen Fehlschläge meines Freundes Harald
 Harst. Ein Fehlschlag, der um so gewichtiger, da Gernapp
 immer wieder gewarnt hatte. Der Rat, ein Mann mit einer
 weit verzweigteren Erfahrung, als sie uns zu Gebote steht,
-—» der Rat, dieser kühle, klare Kopf stand zwar selbst vor
-einem schier unhöflichen Rätsel, hatte die Dinge trotzdem
+— der Rat, dieser kühle, klare Kopf stand zwar selbst vor
+einem schier unlöslichen Rätsel, hatte die Dinge trotzdem
 besser durchschaut. Harst, der Mensch mit der überhitzten
 Phantasie, dichtete Romane und blieb nicht auf dem Boden
 <@pagebreak/>
@@ -600,105 +600,104 @@ der Tatsachen. Er verrannte sich in seine Theorie, und
 der Schluß war: Katzenjammer!
 
 Ich schreibe diese Geschichte nicht gern. Sie ist bisher
-nie, auch; nicht andeutungsweise, durch die Presse in die
-Wesentlichen gedrungen. Immerhin: sie ist wert, geschrieben
-zu werden. — …
+nie, auch nicht andeutungsweise, durch die Presse in die
+Öffentlichkeit gedrungen. Immerhin: sie ist wert, geschrieben
+zu werden. —
 
 Mein zweiter Trumpf …
 
 »Wer soll denn nun den Alten mit dem rostigen Beil
-ersmchlagen haben?« hatte Gernapp sinnend gefragt.
+erschlagen haben?« hatte Gernapp sinnend gefragt.
 
 Und da erwiderte ich:
 
-»Der Rohrleger August Krawuschke, Gartenstraße 13 wohnt
+»Der Rohrleger August Krawuschke, Gartenstraße 13 wohnhaft.«
 
-ist.«
-M6 Gernapp warf mir einen erstaunten Blick zu. »Wer
+Gernapp warf mir einen erstaunten Blick zu. »Wer
 ist denn das?«
 
 »Der Vorsitzende des Klubs Eisenfaust.«
 
-»Ah …! — Und?!« …
+»Ah …! — Und?!« 
 
-»Der Klub hat uns eingeladen … /.»’ Ich berichtete das
-Nötige. «— Auf der Einladungskarte hakte Krawuschke seinen
+»Der Klub hat uns eingeladen …« Ich berichtete das
+Nötige. »— Auf der Einladungskarte hatte Krawuschke seinen
 Stempel unabsichtlich niedergelegt: Daumenabdruck! Vorhin,
 als ich mir das Beil ansah, war da am Stiel ein breitgedrückter
 Stearinfleck …«
 
-»Allerdings … Und — das war etwa derselbe Daumenabdru
-1«
+»Allerdings … Und — das war etwa derselbe Daumenabdruck?!«
 
-»Zweifellos, Ein ungeheuer breiter Daumen mit vier
+»Zweifellos. Ein ungeheuer breiter Daumen mit vier
 Narben im Hautmuster, so unverkennbar wie eine scharfe
 Photographie!«
 
 Gernapp kniff die Augen klein. »Lieber Schraut, dieser
 Beweis ist mir … zu klar! Und sollte das Harst entgangen
-sein!«
+sein?!«
 
 »Sicher nicht. Er redet nur nicht darüber. Sie kennen
 ihn ja, Herr Rat. Er spielt gern Versteck, er behält das
 Beste für sich …«
 
-»Oder — er bewertet die Daumenabdrücke genau!so gering
+»Oder — er bewertet die Daumenabdrücke genau so gering
 <@pagebreak/>
-wie im! — Wissen Sie was: Wir fahren nach Gartenstraße
-13. Sofort. Wir nehmen das Beil mit. Krawuschke
+wie ich! — Wissen Sie was: Wir fahren nach Gartenstraße
+13ß. Sofort. Wir nehmen das Beil mit. Krawuschke
 wird dann wohl Farbe bekennen.«
 
 Wir fuhren. Zu vieren. Nummer drei war Kommissar
 Doktor Tegtmeier, Nummer vier Kriminalassistent Brommer,
 — Elf Uhr war’s, als wir August Krawuschke, der bei
-dem Flickschuster Küste in Schlafstelle wohnte, in einem übel
-duftenden Stübchen im! Hemde vor uns hatten.
+dem Flickschuster Kästke in Schlafstelle wohnte, in einem übel
+duftenden Stübchen im Hemde vor uns hatten.
 
-Ein Hüne, dieser Mensch … Ein verquetschles Gesicht,
-Feine Nase, die Lippen, bartlos: aber im tadellosen Nachtspuk,
-tadellos gepflegten Perlen.
+Ein Hüne, dieser Mensch … Ein verquetschtes Gesicht,
+kleine Nase, dicke Lippen, bartlos: aber im tadellosen Nachthemd,
+tadellos gepflegten Pfoten.
 
 Der Mann war hundeschnäuzig bis zum letzten. Ein
 schlechtes Gewissen konnte er unmöglich haben.
 
 Wir saßen ihm gegenüber auf armseligen Stühlen.
 
-Und im begann das Gefecht …
+Und ich begann das Gefecht …
 
 »Sie wissen doch, wer ich bin?«
 
-» »Tee — hab’ noch nich die Ehre jehabt.«
+»Nee — hab’ noch nich die Ehre jehabt.«
 
-»Ich hänge doch in Ihrem Klublokal! …«
+»Ich hänge doch in Ihrem Klublokal …«
 
 »Ach — wahrhaftig: Herr Schraut! Das freut mich!«
 
 »Mich auch … Ich danke Ihnen sehr für die
-freundliche € Einladung zum Karnevalfest, Herr Krawuschke.«
+freundliche Einladung zum Karnevalfest, Herr Krawuschke.«
 
-Er ob« hie mich verständnislos an.
+Er glotzte mich verständnislos an.
 
-»Einladung?! Als wie ich?! Nee, machen Sie seine
-Witze! Das hätte ich nie gewagt, Herr Schraut …
+»Einladung?! Als wie ich?! Nee, machen Sie keine
+Witze! Das hätte ich nie gewagt, Herr Schraut …«
 
 Jedenfalls: er bestritt aufs energischste, Harald und mir
-Karten geschickt zu haben … »Da hat ein stehen Lump
-mich veräppelt — und Sie auch, Herr Schraut …- Sehen
+Karten geschickt zu haben … »Da hat ein frecher Lump
+mich veräppelt — und Sie auch, Herr Schraut … Sehen
 Sie, hier dies is meine Handschrift … meine polizeiliche
-Anmeldung …
+Anmeldung …«
 
 Ich prüfte …
 
-wo Schrift hat mit der auf der Einladung Ähnlichkeit.
-— »Bei Gott, Herr Schraut,« versicherte er nochmals. »Ich
+»Die Schrift hat mit der auf der Einladung Ähnlichkeit.
+
+»Bei Gott, Herr Schraut,« versicherte er nochmals. »Ich
 <@pagebreak/>
-habe Ihnen beiden keine Karten Besitz … Über zu Ihnen
+habe Ihnen beiden keine Karten geschickt. … Aber zu Ihnen
 kommen wollte ich, zu Herrn Harst, — — wegen der Sonnenflecke
 …«
 
-Gernapp mischte« sich ein.
+Gernapp mischte sich ein.
 
-»Wir wollen nicht vom Thema. abweichen … Zeigen Sie
+»Wir wollen nicht vom Thema abweichen … Zeigen Sie
 uns mal die Innenseite Ihres linken Daumens, Krawuschke.«
 
 »Bitte sehr …«
@@ -714,71 +713,71 @@ Spuren der Untat urplötzlich zeigte.
 »Da — gehört das Ihnen?!«
 
 Der Mann nahm es … Drehte es hin und her, blickte
-auf und dem Rat gerade in die Augen. »Ich Deck, was Sie
-denken,« meinte er grollend. »Wenn ich noch wegen Schlägerei
-und Einbruch) Knast geschoben habe: mit so wat, wie da im
-Vorderhaus Zeit nachmittag jeschehen, befasse ich mir nich.
-Hier dies Beil is mein, der stimmt. Es hat immer dort
-auf ’n Schrank jelegen … Ich erkenne es am Stiel. Den
-hab’ ich selbst geschnitzt.« Er betrachtete aufmerksam den
-Stearinklex … »Hm — also der is’s!! Fingerabdruck!! Herr
-Rat, vorjestern hab’ ick& mit der Ding mochte im Keller
-Briketts klein jekloppt. Da war der Stearin arm am Stiel.
-Wie es hingekommen, weeß ich nich.«
+auf und dem Rat gerade in die Augen. »Ick weeß, was Sie
+denken,« meinte er grollend. »Wenn ick ooch wegen Schlägerei
+und Einbruch Knast geschoben habe: mit so wat, wie da im
+Vorderhaus heit nachmittag jeschehen, befasse ick mir nich.
+Hier dies Beil is mein, det stimmt. Es hat immer dort
+auf ’n Schrank jelegen … Ick erkenne es am Stiel. Den
+hab’ ick selbst geschnitzt.« Er betrachtete aufmerksam den
+Stearinklex … »Hm — also det is’s!! Fingerabdruck!! Herr
+Rat, vorjestern hab’ ick mit det Ding noch im Keller
+Briketts klein jekloppt. Da war der Stearin nich am Stiel.
+Wie es hingekommen, weeß ick nich.«
 
-Sein Gleichmut wirkte durchaus elf. Gernapp meinte
-denn auch: »Verkehren Sie mit Ihrem Klubfreund Knall
+Sein Gleichmut wirkte durchaus echt. Gernapp meinte
+denn auch: »Verkehren Sie mit Ihrem Klubfreund Karl
 Sommer, der den Spitznamen »der Hering« führt, intimer?
 War Sommer öfters bei Ihnen?«
 
 »Und ob! Er is Schriftführer bei uns, Herr Rat.« Seine
 <@pagebreak/>
 niedere kantige Stirn krauste sich. »Hat der Hering mir etwa
-zu Unrecht verpfiffen, Herr Rat?! — Zeit vormittag war
-er noch hier bei mir … Und ich besinne mir: er spendierte
-Jeld zu ’n Streng-Bier … und Zigarren … — Hat er
-mir verpfiffen? Er blieb hier in die Stube allein, als ich
-ermordet Vier holte. Wir haben dann über Plubanjelegenheiten
-jeredet. Ehrlich jesagt: Ich traue dem Sommer keene IJemetinheit
-wenig) zu, wenn er noch so ne besondere Nummer is …
-— Blonde nich, der er wirklich Sommer heeßt … Alle bei
-Kurs meinen, er is wat Besseres jewesen … Er is ja
+zu Unrecht verpfiffen, Herr Rat?! — Heit vormittag war
+er noch hier bei mir … Und ick besinne mir: er spendierte
+Jeld zu ’n Sisong-Bier … und Zigarren … — Hat er
+mir verpfiffen? Er blieb hier in die Stube allein, als ick
+det Bier holte. Wir haben dann über Klubanjelegenheiten
+jeredet. Ehrlich jesagt: Ick traue dem Sommer keene Jemeinheit
+nich zu, wenn er ooch so ne besondere Nummer is …
+Ich gloobe nich, det er wirklich Sommer heeßt … Alle bei
+uns meinen, er is wat Besseres jewesen … Er is ja
 auch erst drei Jahre in Berlin, der Sommer … Sie sollten
-Mai goß;, Herr Rat, wenn der so ’n Schreiben aufgesetzt: wie
-Pech!Sennor!!«
+mal sehn, Herr Rat, wenn der so ’n Schreiben aufsetzt: wie
+’n Rechtsanwalt!«
 
 Gernapp nickte. »Das werden wir alles nachprüfen …
--» Ziehen Sie sie; an, Krawuschke …«
+— Ziehen Sie sich an, Krawuschke …«
 
 »Wie — wollen Sie mir verhaften?«
 
-»Rein, nur mit zu Herrn Harst nehmen, damit wir
+»Nein, nur mit zu Herrn Harst nehmen, damit wir
 dort Ihre Handschrift mit der auf der Einladung vergleichen
 können. Dann wird sich das weitere finden.«
 
 Der Rohrleger, der sicherlich seit Wochen nicht gearbeitet
-dachte, wir seine gut gepflegten Pranken bewiesen, gehorchte
-Bartlos. Er nichts mancherlei auf dem Kerbholz haben, wovon
+hatte, wie seine gut gepflegten Pranken bewiesen, gehorchte
+wortlos. Er mochte mancherlei auf dem Kerbholz haben, wovon
 die Polizei nichts wußte, fühlte sich aber fraglos sehr sicher.
-sei Worden des Kaschemmenwirts Pallasch; war er auf
-seinen Fall. Dieser »Trumpf« meinerseits war eine blanke
-öffnete,
+Der Mörder des Kaschemmenwirts Pallasch war er auf
+keinen Fall. Dieser »Trumpf« meinerseits war eine blanke
+Niete.
 
 Gernapp und die beiden anderen Beamten durchsuchten
-indes die Stube. Oben auf dem Schrank lag dicker Staub!
-Ruck ich; sah dort noch die Umrisse eines Beiles in der
+indes die Stube. Oben auf dem Schrank lag dicker Staub.
+Auch ich sah dort noch die Umrisse eines Beiles in der
 Staubschicht. Daneben stand eine Flasche mit Salzsäure,
 deren Kork bereits völlig zerfressen war. Zweifellos hatte
 also die verdunstete Salzsäure auf dem Beil die starke Rostbildung
 hervorgerufen, wie Gernapp betonte.
 
 <@pagebreak/>
-Dieser Schlacke dann den Assessor Brommer mit einem
+Dieser schickte dann den Assessor Brommer mit einem
 besonderen Auftrag weg. Ich verstand von den geflüsterten
-Worte!?: immerhin so viel, daß Brommer den »Hering«
+Worten immerhin so viel, daß Brommer den »Hering«
 ebenfalls nach unserer Blücherstraße bringen solle. —
 
-August Krawuschke war fertig.«
+August Krawuschke war fertig.
 
 Ein Rohrleger?! In der Kluft?! Wir waren nicht
 besser gekleidet als er, und sein Pelz war tadellos.
@@ -786,15 +785,15 @@ besser gekleidet als er, und sein Pelz war tadellos.
 »Sie sind ja tadellos in Zeug,« meinte Gernapp schmunzelnd.
 »Sie haben wohl gut verdient?«
 
-»Ich beziehe Erwerbslosenunterstützung — selbstredend,
-aber meine Braut Flusses mir ein … Sie is Kap sein
+»Ick beziehe Erwerbslosenunterstützung — selbstredend,
+aber meine Braut kluftet mir ein … Sie is Schauspielerin.«
 
-»Is weiß …« nickte Gernapp. »Die Angst Pagotta …
+»Ich weiß …« nickte Gernapp. »Die Anni Pagotta …
 Sie spielt nachts, auf der Friedrichstraße Dauergängerin …
-Kommen Sie …
+Kommen Sie …«
 
 Das Auto draußen war nun um Krawuschke reicher
-geworden. Leider duftete der Riesenaugust derart nach einen
+geworden. Leider duftete der Riesenaugust derart nach einem
 abscheulichen Parfüm, daß die Fahrt keinen Genuß bedeutete.
 Bevor der Kraftwagen anruckte, schaute ich mir
 nochmals die Straßenfront von Nr. 13 an. Das Haus
@@ -802,22 +801,22 @@ hatte im Parterre zwei Läden, links Grünkram, rechts das
 »Restaurant« Pallasch, der Polizei seit langem bekannt.
 Es war baufällig, verwahrlost, eine überalterte Mietskaserne,
 
-Während der Fahrt wurde nicht ein. Wort gesprochen.
-August hatte I mit großer Umständlichkeit eine Binden«
-Zigarre verpaßt, rauchte und spielte den gänzlich Munter«-
-interessierten. Ich wußte nicht recht, was im aus diesem Hünen
-machen sollte. Aber so ganz »hosenrein« kam er mir Fisch
-vor. Er hatte sicherlich mehr Grips, als. er nach außen hin
+Während der Fahrt wurde nicht ein Wort gesprochen.
+August hatte sich mit großer Umständlichkeit eine Bindenzigarre
+verpaßt, rauchte und spielte den gänzlich Uninteressierten.
+Ich wußte nicht recht, was ich aus diesem Hünen
+machen sollte. Aber so ganz »hasenrein« kam er mir nicht
+vor. Er hatte sicherlich mehr Grips, als er nach außen hin
 bekundete,
 
-Dann hielt der Wagen. Is sah durch die obere Luftklappe
+Dann hielt der Wagen. Ich sah durch die obere Luftklappe
 der Fensterläden in Haralds Zimmer Licht. Er war also
 <@pagebreak/>
 daheim. Ich war gespannt, wie er seine Aufgabe, die verkleidete
-Maid im Auge 3. behalten, erledigt haben mochte.
+Maid im Auge zu behalten, erledigt haben mochte.
 
-Ich öffnete die Haustür mit dem Säynepper und dem
-Sierheitsschlüssel. Das GSicherheitssa)los war jedoch? nur
+Ich öffnete die Haustür mit dem Schnepper und dem
+Sicherheitsschlüssel. Das Sicherheitsschloß war jedoch nur
 zugeschnappt. Schon das beunruhigte mich. Wir pflegten
 stets den Sperriegel auszulösen.
 
@@ -827,189 +826,186 @@ genügte ein Blick …
 Mein Freund lag vor dem Kamin auf dem Bärenfell,
 Gesicht nach unten. Der kleine türkische Rauchtisch war
 umgestoßen. Über Haralds Rücken waren die Zigaretten
-aus dem Silberkasten ausgestreut und hoben ein? von dem
+aus dem Silberkasten ausgestreut und hoben sich von dem
 dunkelbraunen Stoff seiner Jacke wie weiße Striche ab.
 
 <@pagebreak/>
 
 <h2>3. Kapitel.</h2>
-<h3>Zigarettenspracha.</h3>
+<h3>Zigarettensprache.</h3>
 
-August Krawuschke drängte mich beiseite … »Ich werde
+August Krawuschke drängte mich beiseite … »Ick werde
 ihm aufheben …« — und das war bei ihm eine Äußerung
 echter mitfühlenden Hilfsbereitschaft.
 
-Gernapp rief scharf: »Hall! — Setzen Sie sich dorthin
-… Hier haben nur wir vom Sache zu handeln …«
+Gernapp rief scharf: »Halt! — Setzen Sie sich dorthin
+… Hier haben nur wir vom Fach zu handeln …«
 
-»Doch jut!« brummte der irrsinnige Riese … Aber
+»Ooch jut!« brummte der stirnackige Riese … Aber
 er blieb unter dem Kronleuchter stehen und beobachtete, wie
 wir jetzt zunächst das Gesamtbild prüften,
 
 Mit Ausnahme des umgestürzten Tischchens bot sich jedoch
-nichts Besonderes. Ich bückte mich s!schon, innerlich von
-toller Angst gequält, Harald könnte tot sein, um ihn aufs
-zurichten oder da) umzudrehen, als hinter uns Herren
-vom Fach Krawuschke mit seinem Bierbaß meinte; »Na, und
-ne Zinksärgen?! Sehen Sie spricht, daß die Dinger jelegt
-finde!«
+nichts Besonderes. Ich bückte mich schon, innerlich von
+toller Angst gequält, Harald könnte tot sein, um ihn aufzurichten
+oder doch umzudrehen, als hinter uns Herren
+vom Fach Krawuschke mit seinem Bierbaß meinte: »Na, und
+die Zindhölzer?! Sehen Sie janicht, daß die Dinger jelegt
+sind?!«
 
 <@pagebreak/>
 Gernapp bückte sich gleichfalls tiefer.
 
-Is — schämte mich …
+Ich — schämte mich …
 
 Da waren wir nun hier drei Herren, die ihr Lebelang
 eigentlich nichts anderes getan hatten, als ihre Augen auf
-das schnellte Erlassen auffälliger Kleinigkeiten zu drillen,
-Und Dom hatte uns hier ein Laie beschämt. — Freilich:
-als Rate war August Krawuschke zurecht nicht so ganz zu
-betrauten. Seine kriminalistischen Erfahrungen bezogen sich
+das schnelle Erfassen auffälliger Kleinigkeiten zu drillen.
+Und doch hatte uns hier ein Laie beschämt. — Freilich:
+als Laie war August Krawuschke auch nicht so ganz zu
+betrachten. Seine kriminalistischen Erfahrungen bezogen sich
 freilich auf ein anderes Gebiet, sozusagen auf die »negative«
 Seite …
+
 »Er hat recht,« meinte der Rat und nickte Krawuschke
 zu. »Sie haben Blick für so was, das muß man Ihnen lassen.
 Die Streichhölzer bilden tatsächlich drei kurze Wörter:
 
-Nur aus Not,
-das heißt also, man hat Harst nur gezwungencmasßen
+> Nur aus Not,
+
+das heißt also, man hat Harst nur gezwungenermaßen
 außer Gefecht gesetzt, und man entschuldigt sich gleichsam
 deswegen. — Heben wir ihn auf …«
 
 Er war bewußtlos. Die Augen geschlossen. Auf der
-Stirn perlte der Schweiß, und das Gesicht war vviikomnmnen
+Stirn perlte der Schweiß, und das Gesicht war vollkommen
 farblos.
 
-»Der Puls ist gut?,« sagte der Rat aufatmend. »Is vermute,
+»Der Puls ist gut,« sagte der Rat aufatmend. »Ich vermute,
 daß man ihn durch eine präparierte Zigarette betäubt
-hat. vollen Sie Riechsalz, Essig und eine Bürste, lieber
+hat. Holen Sie Riechsalz, Essig und eine Bürste, lieber
 Schraut.«
 
-Das kräftige Fürsten der nackten Fußsohlen zeigte auch
+Das kräftige Bürsten der nackten Fußsohlen zeigte auch
 hier eine rasche Wirkung, Harst erbrach sich, bekam Kognak
-und Satz nach einer Viertelstunde matt, aber klaren Verstandes
-um Sessel. Sein Blick irrte wie forschend umher, blieb
+und saß nach einer Viertelstunde matt, aber klaren Verstandes
+im Sessel. Sein Blick irrte wie forschend umher, blieb
 auf Krawuschke haften. Seine ersten Worte waren: »Das
-Mädel … ist … ein ganz … verteufelter Racker! Wich
-alten Praktikus!so hiuewmnzulegen!!«
+Mädel … ist … ein ganz … verteufelter Racker! Mich
+alten Praktikus so hineinzulegen!!«
 
 <@pagebreak/>
-Weitere zehn Minuten später »ab!e ihn eine Tasse
+Weitere zehn Minuten später hatte ihn eine Tasse
 Mokka vollends auf die Beine gebracht,
 
-Wir saßen um den Sofatisch Herr an. Krawuschke bekam
-ebenfalls sein Glas« Rotwein. Harald erstattete Bericht. »Ich
+Wir saßen um den Sofatisch Herum. Krawuschke bekam
+ebenfalls sein Glas Rotwein. Harald erstattete Bericht. »Ich
 will mich kurz fassen … Das Mädel benutzte die Stadtbahn,
 fuhr bis zur Station Zoo, stieg aus und bog nachher in die
-Kunststraße ein. Ich merkte bald,  ’ß sie mit Verfolgern
+Kantstraße ein. Ich merkte bald, daß sie mit Verfolgern
 rechnete. Sie blieb immer wieder stehen. Dann, am Savignyplatz,
-kam sie plökßlit) auf mich zu, was mich sehr Überreste.
+kam sie plötzlich auf mich zu, was mich sehr Überraschte.
 Sie sagte ruhig: »Herr Harst, das ist gegen die
-ch’bmadhung, das Ist eine perfide Diplomatie. — Ich weiß,
-daß ich Sie nicht abschütteln kann. Wenn es Ihnen reger
+Abmachung, das Ist eine perfide Diplomatie. — Ich weiß,
+daß ich Sie nicht abschütteln kann. Wenn es Ihnen recht
 ist, begeben wir uns in Ihr Heim. Ich werde Ihnen dort alles
 beichten.« … Das junge Ding imponierte mir. Wir nahmen
-ei! Auto, Hier bei mir gab sie sich; zwanglos, bat um eine
-»lautete, saß dort im zweiten Sessel neben dem Kamin. Ich
+ein Auto. Hier bei mir gab sie sich zwanglos, bat um eine
+Zigarette, saß dort im zweiten Sessel neben dem Kamin. Ich
 reichte ihr den Silberkasten. Wie sie es fertigbrachte, meine
-Spezialmarke — mindestens ein Dutzend Mireafulum
-als oberste Schicht in den Kasten hineinzuschmnagein, weiß
-ich noch jetzt nicht, Jedenfalls nahm auch ich eine Zigarette,
+Spezialmarke — mindestens ein Dutzend Mirakulum —
+als oberste Schicht in den Kasten hineinzuschmuggeln, weiß
+ich noch jetzt nicht. Jedenfalls nahm auch ich eine Zigarette,
 aber schon nach den ersten Zügen wurde mir urplötzlich
 so schwindelig, daß ich beim Aufspringen der Länge nach
-hinsc&chlug. Was weiter geschah?! Ich war eben erledigt.
+hinschlug. Was weiter geschah?! Ich war eben erledigt.
 Ein Mädel von kaum zweiundzwanzig Jahren hatte mich
 gründlich ausgeschaltet, hatte von ihrer »Beichte« gerade nur ein
 paar nichtssagende einleitende Sätze mit seltener Ruhe und
 Abgeklärtheit gezwitschert und — sich dann empfohlen.«
 
-»Pech!« meinte Gernapp lediglich aus Höfluhkeit. In
-Wahrheit mochte er es bitter bereuen, auf Harsts Abenteurerleben
+»Pech!« meinte Gernapp lediglich aus Höflichkeit. In
+Wahrheit mochte er es bitter bereuen, auf Harsts Abenteuerlichen
 Vorschlag, die Verhaftete laufen zu lassen, eingegangen
 zu sein.
 
 Aber Harald erwiderte zu unser aller Erstaunen mit
 <@pagebreak/>
-einem vielsagenden Lächeln: »Jede Entt6huschung birgt einen
-winzigen Unterhielt in sich. Wer diesen verauszuschälen weiß,
-
-wendet Pech zum Erfolg. Aber Gaben. später. — Ihr
-habe bereits gehört, was derweil. als ich hier vier überlisten
-ließ, geschoben. Sie ja »also Herr August Dritte
-
-Krawuschke,« wandte er sich an den Riesen, der mit theatralisäter
-Ungezwungenheit seinen Erfuhr betastete, »Gib doch mal die
+einem vielsagenden Lächeln: »Jede Enttäuschung birgt einen
+winzigen Nutzeffekt in sich. Wer diesen herauszuschälen weiß,
+wendet Pech zum Erfolg. — Aber davon später. — Ich
+habe bereits gehört, was derweil, als ich hier mich überlisten
+ließ, geschehen. — Sie sind also Herr August Krawuschke,«
+wandte er sich an den Riesen, der mit theatralischer
+Ungezwungenheit seinen Stuhl belastete. »Gib doch mal die
 Einladung des Klubs her, mein Alter … Sie steckt dort
-Unsinn Briefhalter auf meinem Schreibtisch.«
+im Briefhalter auf meinem Schreibtisch.«
 
-»Sie steckt?’!’« — — Nein, die Einladung und die beiden
-Freikarten waren mal in dem Briefhalter gewesen. Zelt
-waren sie nicht mehr da. Alles Suchen half nichts: Sie
-Maid mit dem pikanten Bubengesimcht hatte sie … mitgenommen.
+»Sie steckt?!« — — Nein, die Einladung und die beiden
+Freikarten waren mal in dem Briefhalter gewesen. Jetzt
+waren sie nicht mehr da. Alles Suchen half nichts: Die
+Maid mit dem pikanten Bubengesicht hatte sie … mitgenommen.
 
-Gernapps Stirn fürchte sich.
+Gernapps Stirn furchte sich.
 
 »Wieder ein Fehlschlag!« meinte er. »Nicht mal die
-Schriftvergleichung ihr möglich!«
+Schriftvergleichung ist möglich!«
 
 »Unnötig ist sie,« und Harald zwinkerte dem Rat
 heimlich zu. »Daß die Einladung — nicht Krawuschkes Werk,
-ist wohl gar. Weshalb sollte das Mädel die Arten sonst
-witgerwonmtuen haben?! Sie halte ein Interesse daran, sie
-verschwinden zu lassen. Vielleicht kam sich? nur hier mit zu mir,
-um diesen kleinen Diebstahl begehen zu!können, Ich denke,
-wir können ebenso als gewiß annehmen, das sowohl der Paris
-Daumenabdruck auf der Einladung wie der auf dem Beilstiel trank
-Sommers Werk sind. Derartige Abdrücke künstlich hyervorzurufen,
-ist Leine große Sache. Herr Krawuschke ist deshalb ’ ich:r
-und kaum mehr nötig, wenn er uns nur erst erzählt bat,
-was denn eigentlich da, im Klublokal in letzter Zeit passiert
-ist … Bechert sagte am Fernsprecher etwas von Branvöstistungen,
-und Sie, Über KrawusäHfke, redeten von Sonne
-stehen … Hängt das beides irgendwie zusammen?«
+ist wohl klar. Weshalb sollte das Mädel die Karten sonst
+mitgenommen haben?! Sie hatte ein Interesse daran, sie
+verschwinden zu lassen. Vielleicht kam sie nur hier mit zu mir,
+um diesen kleinen Diebstahl begehen zu können. Ich denke,
+wir können ebenso als gewiß annehmen, das sowohl der
+Daumenabdruck auf der Einladung wie der auf dem Beilstiel Karl
+Sommers Werk sind. Derartige Abdrücke künstlich hervorzurufen,
+ist keine große Sache. Herr Krawuschke ist deshalb hier
+auch kaum mehr nötig, wenn er uns nur erst erzählt hat,
+was denn eigentlich da im Klublokal in letzter Zeit passiert
+ist … Bechert sagte am Fernsprecher etwas von Brandstiftungen,
+und Sie, lieber Krawuschke, redeten von Sonnenflecken
+… Hängt das beides irgendwie zusammen?«
 
 <@pagebreak/>
-»Lieber Krawuschke …!!« Wie dar geklungen hatte!! —
-
-hin August strahlte denn auch über rein ganzes Vollmondgesicht,
+»Lieber Krawuschke …!!« Wie das geklungen hatte!! —
+Na — August strahlte denn auch über sein ganzes Vollmondgesicht,
 hustete halb verlegen und stieß hervor:
+
 »Nee, Herr Harst, — keene Spur von Zusammenhang …
-
-— ich meene zwischen die Jardinenbrände und die SonnensleTens
-… Die Friedliche is so. Unser Klublokal liegt in ’n
-vierten Stock in die Venussale, der heeßt in vergebliche Haus,
-Heerstraße 203, und Zwar janz vornehm nur« vorn raus …
-
-T…echt Räume sind’s meine Herren Een Trainiersaal, ein
-Gesellschaftszimmer und das Borstandsz3ztmmer, wat jleich«
-zeitig vom Bad is een Fisch)en primitiv, so mit ’n Holz
-
-Verschlag. Aber Kabel Angerichtet is offene … Wir haben
+— ick meene zwischen die Jardinenbrände und die Sonnenfleckens
+… Die Jeschichte is so. Unser Klublokal liegt in ’n
+vierten Stock in die Venussäle, det heeßt in detselbichte Haus,
+Ackerstraße 203, und Zwar janz vornehm nach vorn raus …
+Drei Räume sind’s meine Herren — Een Trainiersaal, ein
+Jesellschaftszimmer und das Vorstandszimmer, wat jleichzeitig
+noch Bad is — een bißchen primitiv, so mit ’n Holzverschlag.
+Aber nobel injerichtet is allens … Wir haben
 reiche Jönner …«
 
-»Ja — aus den Kreisen der »schweren Jungens,« nickte
-Rat Gernapp schmunzelnd.,
+»Ja — aus den Kreisen der »schweren Jungens,«« nickte
+Rat Gernapp schmunzelnd.
 
-»Herr Rat, Jeld stinkt nicht, verriet’s erst mal eener wird
-Licht hat,« griente Krawuschke »Oh eener den Staat bei
-Lieferungen Gestammel, Chmierjelder zahlt, wie Seite Absicht,
-vier ob eener ehrlich flaut der Letztere ich immer noch anständiger,
-weil’s gefährlicher is! Das so nebenbei, Herr Rat,
-und Fisch for ungut … — Also zuerst die Brände … Wir
-hatten da for der Borstand&szimmer seine Madragsgardinen,
-noble Wolkenstores und so weiter anspeschafft … Aber
-stellen Sie sich vor: der janze seine Plunder is uns Nu
-saßen viermal verbrannt, fünfmal erneuert, und keener weiß,
-woher der Amt Feuer jefangen hat … Immer am hellen
-lichten Tage is’s passiert … Denken Sie sich: der eene
-Mal war ich janz allein im Zimmer, und da flammte
-die Jeschichte ohne jede Unsinn: auf Wir haben’& dem
-Polizeirevier jemeldet, aber der hat Fisch genutzt …
-Nu bin ie bloß neigierig, wann die neuen Vorhänge wieder
-hoch; ihn werden … Lange wird’s nich dauern …«
+»Herr Rat, Jeld stinkt nicht, wenn’s erst mal eener wirklich
+hat,« griente Krawuschke. »Ob eener den Staat bei
+Lieferungen beschummelt, Schmierjelder zahlt, wie heite iblich,
+oder ob eener ehrlich klaut det Letztere is immer noch anständiger,
+weil’s jefährlicher is! Das so nebenbei, Herr Rat,
+und nischt for ungut … — Also zuerst die Brände … Wir
+hatten da for det Vorstandszimmer feine Madrasgardinen,
+noble Wolkenstores und so weiter anjeschafft … Aber
+stellen Sie sich vor: der janze feine Plunder is uns Nu
+schon viermal verbrannt, fünfmal erneuert, und keener weiß,
+woher der Zimt Feuer jefangen hat … Immer am hellen
+lichten Tage is’s passiert … Denken Sie sich: det eene
+Mal war ick janz allein im Zimmer, und da flammte
+die Jeschichte ohne jede Ursache auf … Wir haben’s dem
+Polizeirevier jemeldet, aber … det hat nischt jenutzt …
+Nu bin ick bloß neigierig, wann die neuen Vorhänge wieder
+hochjehen werden … Lange wird’s nich dauern …«
 
 <@pagebreak/>
-»Das ist ja außerordentlimg interessant, warf Harald
+»Das ist ja außerordentlimg interessant,« warf Harald
 ein. »Und die Sonnenflecke, was hat es damit auf sich?!«
 
 Krawuschke nahm sein Rotweinglas, trank es leer, stierte
@@ -1018,14 +1014,14 @@ Jeschichte, Herr Harst … Wenn man das einem
 erzählt, jloobt er’s nich …«
 
 »Legen Sie nur los! — Schraut, fülle Krawuschkes
-Glas … Der Rotwein scheint ihm zu Schweden …«
+Glas … Der Rotwein scheint ihm zu Schmecken …«
 
-»Unser Burgunder … im Klub is besser,« erklärte August
+»Unser Burgunder im Klub is besser,« erklärte August
 ehrlich. »Also jut — — die weißen Sonnenflecken … Nu
-Toten Sie zu, meine Herren …«
+hören Sie zu, meine Herren …«
 
 Und dann kam die Geschichte von dem Mann auf dem
-Das»…
+Dache …
 
 <@pagebreak/>
 
@@ -1063,7 +1059,7 @@ Wahrhaftig, der Fleck biß wie ’n Raubtier …«
 
 »Er brannte,« verbesserte Harald.
 
-»Der ich ja Nu delselbichte: Brennen — Beißen! Ulk ’n
+»Der ich ja Nu detselbichte: Brennen — Beißen! Ulk ’n
 Schmerz kommt’s an!! — Ich war also vor den Fleck ausgekniffen,
 und weil ich mir jleich dachte, der Olle mit seine
 Fernrohrlinse is dran schuld, riß ich der Fenster ruft und
@@ -1146,7 +1142,7 @@ Einlage … Der Trottete Grunde hat ’n anjefertigzt … Besser
 wie ’n Tresor … Mit ’ne Einig he von so ’n Zeugs, das
 explodiert, wenn er mit ’n Letzter etwa am Eichenholz
 erumknabbert In den Smaragd war noch die Kludlusje …
-—» Aufsucht! Charme Lernen, fahren wir …!! Ich muß
+—» Aufsucht! Statue Lernen, fahren wir …!! Ich muß
 hin …! Ich bin for der Feld verantwortlich, und«…«
 
 »viel!!« Haralds Augen funkelten. »Hatten nur Steinen
