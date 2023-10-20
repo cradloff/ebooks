@@ -621,7 +621,7 @@ ist denn das?«
 »Ah …! — Und?!« 
 
 »Der Klub hat uns eingeladen …« Ich berichtete das
-Nötige. »— Auf der Einladungskarte hatte Krawuschke seinen
+Nötige. «— Auf der Einladungskarte hatte Krawuschke seinen
 Stempel unabsichtlich niedergelegt: Daumenabdruck! Vorhin,
 als ich mir das Beil ansah, war da am Stiel ein breitgedrückter
 Stearinfleck …«
@@ -841,7 +841,7 @@ echter mitfühlenden Hilfsbereitschaft.
 Gernapp rief scharf: »Halt! — Setzen Sie sich dorthin
 … Hier haben nur wir vom Fach zu handeln …«
 
-»Ooch jut!« brummte der stirnackige Riese … Aber
+»Ooch jut!« brummte der stiernackige Riese … Aber
 er blieb unter dem Kronleuchter stehen und beobachtete, wie
 wir jetzt zunächst das Gesamtbild prüften,
 
@@ -1028,68 +1028,68 @@ Dache …
 <h2>8. Kapitel.</h2>
 <h3>Der Himmelskieker.</h3>
 
-»-… Schien Sie, mein Vorstandsschreibtisch, een jroßet
-moderner Ding, steht jrad vor das rechte Fenster ins Borkaund&zimmer
-… Ich habe doch Nu so bei mein Amt allerhand
-zu erledigen … Und ich sitze oft an dem seinen Tisch im
-Schreibsessel. Ich komme mir dann vor wie ’n Intimster …
-ur een Unterschied is: Ich habe wirklich zu arbeeten uns
-kniete keen Gehabt, und een Minister läßt — andre for sich
-arbeeten und spielt Gehabt. — Also so vor drei Wochen
-war’s … Da sah ich den Kerl auf ’in Dach von’s Haus
-jejenüber zum ersten Mal. Der Dach is flach, und die Uferstraße
-is nich allzu breit, und meine Bogen sind jut …
-88 war ’n oller Knabe mit ’n Frauen Bart und matt ’n
-Schafpelz an und ’ne olle Pudelmütze … So ’ne richk’je verwaltete
-olle Ecyießbudenfijur … so ’n Stück Jelehrter soll
-er sein, hab’ ich rausjehorcht. Oben in der Haus wohnt er
-bei ’ne Witwe, und Doktor is er, aber nie ’n Doktor for
+»… Sehen Sie, mein Vorstandsschreibtisch, een jroßet
+modernet Ding, steht jrad vor das rechte Fenster ins Vorstandszimmer
+… Ick habe doch nu so bei mein Amt allerhand
+zu erledijen … Und ick sitze oft an dem feinen Tisch im
+Schreibsessel. Ick komme mir dann vor wie ’n Minister …
+Nur een Unterschied is: Ick habe wirklich zu arbeeten und
+krieje keen Jehalt, und een Minister läßt andre for sich
+arbeeten und kriejt Jehalt. — Also so vor drei Wochen
+war’s … Da sah ick den Kerl auf ’m Dach von’s Haus
+jejenüber zum ersten Mal. Det Dach is flach, und die Ackerstraße
+is nich allzu breit, und meine Oogen sind jut …
+Es war ’n oller Knabe mit ’n jrauen Bart und mit ’n
+Schafpelz an und ’ne olle Pudelmütze … So ’ne richt’je vermasselte
+olle Schießbudenfijur … so ’n Stück Jelehrter soll
+er sein, hab’ ick rausjehorcht. Oben in det Haus wohnt er
+bei ’ne Witwe, und Doktor is er, aber nich ’n Doktor for
 Menschen, sondern so ’n … Astro Astronohme … — richtig,
 <@pagebreak/>
-Ustronohme heeßen diese Himmelüfkieker … Der Olle hatte ’n
-Stativ mit und Gefurcht traf und jlotzte die Wolken
-an … bald da, bald da … Manchmal schien Co die
-Sonne, und dann drehte der Tue immer an die Schrauben
+Astronohme heeßen diese Himmelskieker … Der Olle hatte ’n
+Stativ mit und Fernrohr druf und jlotzte die Wolken
+an … bald da, bald da … Manchmal schien ooch die
+Sonne, und dann drehte der olle immer an die Schrauben
 von sein kurzes dies Fernrohr rum, und — mit eenem
-Mal Pro) da so wat langsam über ’n Schreibtisch hin: een
+Mal kroch da so wat langsam über ’n Schreibtisch hin: een
 weißer Fleck, wie ’n Ei, — — aber es war keen Ei, es
-war nur een Sonnenfleck … Er hm weiter, und als er mir
-über die Hand jlitt, da fuhr ich hoch … Der Gas;biß!!
+war nur een Sonnenfleck … Er kroch weiter, und als er mir
+über die Hand jlitt, da fuhr ich hoch … Det Aas biß!!
 Wahrhaftig, der Fleck biß wie ’n Raubtier …«
 
 »Er brannte,« verbesserte Harald.
 
-»Der ich ja Nu detselbichte: Brennen — Beißen! Ulk ’n
-Schmerz kommt’s an!! — Ich war also vor den Fleck ausgekniffen,
-und weil ich mir jleich dachte, der Olle mit seine
-Fernrohrlinse is dran schuld, riß ich der Fenster ruft und
-bebrillte ihm zu, er solle mit seinen Himmelskieker vorsicht’jer
+»Det is ja nu detselbichte: Brennen — Beißen! Uff ’n
+Schmerz kommt’s an!! — Ick war also vor den Fleck ausjekniffen,
+und weil ick mir jleich dachte, der Olle mit seine
+Fernrohrlinse is dran schuld, riß ick det Fenster uff und
+brillte ihm zu, er solle mit seinen Himmelskieker vorsicht’jer
 sind. Und da … hat der olle Knabe höflich jejrüßt und sich
-so quasi durch ’n Bückling entschuldigt. Ich machte der
+so quasi durch ’n Bückling entschuldigt. Ick machte det
 Fenster also wieder zu und ließ den Wolkenstore runter
-und setzte mir. — Na — und :- was soll ich sagen —
-die Geschickte passierte rote ’n paarmal, und schließlich gewohnte
-Blick mir an den ollen Narren, wenn noch die Biester
-von Sonnenufle&Xen manchmal sehr unanjenehm waren …«
+und setzte mir. — Na — und :- was soll ick sagen —
+die Jeschichte passierte noch ’n paarmal, und schließlich jeweehnte
+ick mir an den ollen Narren, wenn ooch die Biester
+von Sonnenflecken manchmal sehr unanjenehm waren …«
 
 »Ist das alles, Krawuschke?« fragte Harald gespannt.
 
 »Wie man’s nimmt, Herr Harst … « Er grinste verlegen.
-»Sehen Sie, ungetreuer hat ja noch bloß ’n Jeduldfaden
-wie jeder andere Mensch … Na — die Jeschichte ward
-mir, ehrlich jesagt, schließlich Dom ’n bißchen voll, als eenmal
-Bluff ’n Schreibtisch eene ganze Schachtel Zinksärgen durch so
-nen voinnenfleck aufflammte Da rate mir die Wut …
-Das war vor drei Tagen … Und da bin Sack denn, was hatte,
-was längste, rieber Aber die Straße und drüben die Treppen
-ruft … Und wenn ich den ollen Knaben da erwischt hätt’, —
+»Sehen Sie, unsereener hat ja ooch bloß ’n Jeduldsfaden
+wie jeder andere Mensch … Na — die Jeschichte wurd’
+mir, ehrlich jesagt, schließlich doch ’n bißchen doll, als eenmal
+uff ’n Schreibtisch eene janze Schachtel Zindhölzer durch so
+nen Sonnenfleck aufflammte. — Da packte mir die Wut …
+Das war vor drei Tagen … Und da bin ick denn, was haste,
+was kannste, rieber iber die Straße und drüben die Treppen
+ruff … Und wenn ick den ollen Knaben da erwischt hätt’, —
 <@pagebreak/>
 na, — — besser so, — — er war futsch, total verschwunden
 samt seinen Himmelskieker, und von da is er nich mehr
-zu die Frau Rosenstein, so heeßt die Witwe, zuräücdjekehrt …
-Nee — er is weh, Anhaftet, hat seinen Plunder dagelassen
-ich keen Mensch€ weeß, wo er ein verkrochen hat … —
-Deutsch, nie!«
+zu die Frau Rosenstein, so heeßt die Witwe, zurückjekehrt …
+Nee — er is wej, vaduftet, hat seinen Plunder dagelassen
+und keen Mensch weeß, wo er sich verkrochen hat … —
+Komisch, nich?!«
 
 »Sehr komisch,« nickte Harald. »Ist Ihnen denn nie
 der Gedanke gekommen, daß das Fernrohr des Alten vielleicht
@@ -1097,64 +1097,64 @@ auch die Gardinen angebrannt hat?«
 
 Krawuschke riß die Augen auf,
 
-»Nanu, — der is doch ausjeschlossen! Mit ’n Fernrohr
-kann man da) keene Lappen anbrennen?!«
+»Nanu, — det is doch ausjeschlossen! Mit ’n Fernrohr
+kann man doch keene Lappen anbrennen?!«
 
 »Wenn der Sonnenfleck Zündhölzer aufflammen ließ?!
-Überlegen Sie sich?) das mal, lieber Krawuschke …! Des
-war eben kein Fernrohr, sondern ein System von Vrensgglasern,
+Überlegen Sie sich das mal, lieber Krawuschke …! Das
+war eben kein Fernrohr, sondern ein System von Brenngläsern,
 die bei richtiger Einstellung imstande waren, auf
 weite Entfernung Gegenstände zu entzünden, falls die Sonne
-erschien!
+schien!
 
-»Donnerwetter!! Der leichte! mir ein …
+»Donnerwetter!! Det leichtet mir ein …!«
 
-»Liegt auch klar auf he? Hand, ( Goa! der Rat jetzt
+»Liegt auch klar auf der Hand,« bestätigte der Rat jetzt
 eifrig. »Der Alte wollte eben Ihre Klubräume einäschern …
-Daher die häufigen Gardinenbrände. Hätte er es nicht unsereiner
-auf Ihre Räume abgesehen gehabt, wäre es ist
-vielleicht gewesen, aus an anderen Fenstern des Laufen die
-Beißzange zu entzünden. Aber es kam ihm Ehen nur auf
-»2 Vorstandszimmer an. Mithin muß er dort irgend etwas
-1\.«ich den Brand haben beseitigen wollen, Was aber? Was
-übernachten Sie dort auf, Krawuschke?«
+Daher die häufigen Gardinenbrände. Hätte er es nicht ausgerechnet
+auf Ihre Räume abgesehen gehabt, wäre es ihm
+leicht gewesen, auch an anderen Fenstern des Hauses die
+Vorhänge zu entzünden. Aber es kam ihm eben nur auf
+das Vorstandszimmer an. Mithin muß er dort irgend etwas
+durch den Brand haben beseitigen wollen. Was aber? Was
+bewahren Sie dort auf, Krawuschke?«
 
-»rollt, doch nur die Stutzten … und anderen Amt,
-Kolomboer keinen Wert hat … — Herr Rat, nee, da missen Sie
-1: el … Die Jeschichte muß ’n anderen Haken haben!
-Deck der Olle mit seinen Apparat Feueranzünder spielte;
+»Jott, doch nur die Klubakten … und anderen Zimt,
+der keinen Wert hat … — Herr Rat, nee, da missen Sie
+irren … Die Jeschichte muß ’n anderen Haken haben!
+Det der Olle mit seinen Apparat Feueranzünder spielte:
 <@pagebreak/>
-stimmt, — der is klar! Aber wat mit verbrennen lassen ,-
+stimmt, — det is klar! Aber wat mit verbrennen lassen —
 — bei uns ins Vorstandszimmer?! Nee! Wenn die Herren
-wollen, kann ich Sie rinnführen … Jahren wir doch hin …
-Ich habe ja die Schlüssel« von das Klublokal hier … Zier
-is mein Schlüsselbund,/ und hier …«
+wollen, kann ick Sie rinnführen … Fahren wir doch hin …
+Ick habe ja die Schlüssel von das Klublokal hier … Hier
+is mein Schlüsselbund, und hier …«
 
 Er stockte …
 
-»Postamt — da fehlen ja grade die drei Schlosse!!«
-brüllte er … »Wade der Luft Flursicyeryettsscwug, von!
+»Vaflucht — da fehlen ja jrade die drei Schlüssel!«
+brüllte er … »Jrade der vom Flursicherheitsschloß, von
+die Haustür und von’s Eichenspinde … So ’ne Schweinerei!
+Wer hat mir denn die jeklaut?! Besonders den von’s
+Spinde! Det is nämlich een Schrank mit Eisenplatteneinlage
+… Der Kollege Gruske hat ’n anjefertigt … Besser
+wie ’n Tresor … Mit ’ne Einlage von so ’n Zeugs, das
+explodiert, wenn er mit ’n Bohrer etwa am Eichenholz
+rumknabbert … In den Schrank war ooch die Klubkasse …
+— Vaflucht! Meine Herren, fahren wir …!! Ick muß
+hin …! Ick bin for det Jeld verantwortlich, und …«
 
-die aunchtür und von’s Streit Tode … Co ’ne Ciinveinerei!l
-Wer hat mir denn die fertiger!! « Besonders bei v-i8
-Spinde? Der 15 nämlich een Edqranf mit Ehrenplatz. so
-Einlage … Der Trottete Grunde hat ’n anjefertigzt … Besser
-wie ’n Tresor … Mit ’ne Einig he von so ’n Zeugs, das
-explodiert, wenn er mit ’n Letzter etwa am Eichenholz
-erumknabbert In den Smaragd war noch die Kludlusje …
-—» Aufsucht! Statue Lernen, fahren wir …!! Ich muß
-hin …! Ich bin for der Feld verantwortlich, und«…«
+»Halt …!« Haralds Augen funkelten. »Hatten nur Sie
+einen Schlüssel zu dem Schrank?«
 
-»viel!!« Haralds Augen funkelten. »Hatten nur Steinen
-Schlüssel zu dem Stearin«
+»Nur icke — stimmt! Ick bin im Klub die Vertrauensperson …«
 
-»Nur ihr — stimmt! Ich bin un Klub die Vertrauensperson.«
-
-»Jahren wir!« rief Gernapp. »Die Geschichte wird
+»Fahren wir!« rief Gernapp. »Die Geschichte wird
 spannend …«
 
-<@pagebreak/>
-Fastnachtsball,
+<@pagebreak 35/>
+
+<h1>Fastnachtsball.</h1>
 
 <@pagebreak/>
 
@@ -1164,38 +1164,38 @@ Fastnachtsball,
 <h3>… Lachen hinter mir …</h3>
 
 Was ich hier vorstehend berichtet habe, geschah am
-v. Februar.
+9\. Februar.
 
-Heute war der 17 Februar, der Lag, an dem die
+Heute war der 17. Februar, der Tag, an dem die
 Eisenfaust ihren großen Ball gab.
 
 Ein trüber, warmer Tag. Trübe wie die Tage vorher
 …
+
 Für mich doppelt trübe …
 
 Harald litt.
 
 Er litt an den Fehlschlägen. Er litt unter Gernapps
-Verärgerung, unter dem eigenen Unvermögen, die … sei!-
-gefahrene Karre wieder aus dem zähen Schlamm ungelöster
+Verärgerung, unter dem eigenen Unvermögen, die … festgefahrene
+Karre wieder aus dem zähen Schlamm ungelöster
 Rätsel und Widersprüche hervorzuziehen.
 
 Schlimme Zeiten für mich. Er war gereizt, überreizt.
-Es war wie damals, als die Presse aus Anlaß einen
-»oberen Falles über ihn ihre Kübel mit Sensation8lauge
-ent8geqossen und nur die ehrliche Kameradschaft er Freunde
-vom Lilexanderplatz diesem Treiben ein Ende 4. ’««t hatte.
-
+Es war wie damals, als die Presse aus Anlaß eines
+anderen Falles über ihn ihre Kübel mit Sensationslauge
+ausgegossen und nur die ehrliche Kameradschaft der Freunde
+vom Alexanderplatz diesem Treiben ein Ende gemacht hatte.
 <@pagebreak/>
-— Diesmal schwieg der Kleider Druckerschwärze, denn Gernapp
-hatte lediglich verbreiten lassen, daß die erste Berlyjastung
-von seiten der Polizei ein Fensters gewesen und daß
-zum der wahre Mörder in der Genossen Karl Sommers,
-des Herings, gefaßt sei. Das war alles, was die Wesentlichen
+— Diesmal schwieg der Moloch Druckerschwärze, denn Gernapp
+hatte lediglich verbreiten lassen, daß die erste Verhaftung
+von seiten der Polizei ein Fehlgriff gewesen und daß
+nun der wahre Mörder in der Person Karl Sommers,
+des Herings, gefaßt sei. Das war alles, was die Öffentlichkeit
 erfuhr. Der Mord »Pallasch« wurde denn auch in
-kurzem vergessen, Das Hirn einer Millionenstadt hält sich
+kurzem vergessen. Das Hirn einer Millionenstadt hält sich
 nicht lange mit einem Kaschemmenwirt auf. Es vergißt, da
-ihn viel nette Eindrücke täglich und gründlich verarbeitet
+allzu viel neue Eindrücke täglich und stündlich verarbeitet
 werden müssen.
 
 Die Weltstadt vergißt.
@@ -1203,48 +1203,48 @@ Die Weltstadt vergißt.
 Der, auf dessen Betreiben das pikante schlaue Mädel
 freigelassen worden, konnte diese Niederlage nicht verwinden.
 
-Ha will hier kurz nachholen, was diese Tage uns
-brauchten, wie Harald den Fall »Pallasch« beurteilte und
-via der schwer und mit Recht verärgerte Gernapp sein Zu
-2«jedem stellte.
+Ich will hier kurz nachholen, was diese Tage uns
+brachten, wie Harald den Fall »Pallasch« beurteilte und
+wie der schwer und mit Recht verärgerte Gernapp sich Zu
+alledem stellte.
 
 Die Besichtigung des Klublokals der Eisenfaust ergab
-fölgentdeg: der Cidjenschranf war geplündert. Die Halse
-weit 3228 Mark Inhalt fehlte. Die Schlüssel, die man Hindusekte
-gestohlen, lagen auf dem GSkhreibtisc. Die Flurtür
-zur auf eingeklinkt. (Harald ersetzte diese 3228 Mark dem
-735 noch am gleichen Tage.) — Der Eichenschrank mit der
+folgendes: der Eisenschrank war geplündert. Die Kasse
+mit 3228 Mark Inhalt fehlte. Die Schlüssel, die man Krawuschke
+gestohlen, lagen auf dem Schreibtisch. Die Flurtür
+war nur eingeklinkt. (Harald ersetzte diese 3228 Mark dem
+Klub noch am gleichen Tage.) — Der Eichenschrank mit der
 Stahlplatten- und Explosionssicherung mußte auf Gernapps
-Skelett sofort entfernt werden. Krawuschke und der Klub
+Befehl sofort entfernt werden. Krawuschke und der Klub
 verpflichteten sich zur Verschwiegenheit.
 
-Harst, der doch so selbstsicher erklärt hatte, jede Gut«-
-t3uschung enthalte auch einen winzigen Ausgesetzt, gab Gernapp
+Harst, der doch so selbstsicher erklärt hatte, jede Enttäuschung
+enthalte auch einen winzigen Nutzeffekt, gab Gernapp
 gegenüber hierzu folgende Erklärung: »Wir werden
-Heuerbas Mädel finden. Ein solches Gesicht, eine solche Parks,
-Aufsetze Figur muß, sich aufstöbern lassen. Ich kann über das
-»Nadel noch angeben, daß es am retten Fuß einen fest stark
+das Mädel finden. Ein solches Gesicht, eine solche ranke,
+schmissige Figur muß sich aufstöbern lassen. Ich kann über das
+Mädel noch angeben, daß es am rechten Fuß einen sehr stark
 <@pagebreak/>
 vortretenden Ballen hat, wodurch dieser eine Fuß in dem
 zierlichen Schuh unschön wirkt.«
 
 Der ganze Riesenapparat der Polizei wurde also aufgeboten.
-Kein noch so kleines Fremdenheim, keine Zimmer«-
-Vermieterin in Berlin und Umgegend blieb verschont. Harst
-behauptete, das Mädel sei vor auswärts nach Berlin ge
-kommen. Ihr Dialekt, kaum merklich in der Aussprache,
+Kein noch so kleines Fremdenheim, keine Zimmervermieterin
+in Berlin und Umgegend blieb verschont. Harst
+behauptete, das Mädel sei von auswärts nach Berlin gekommen.
+Ihr Dialekt, kaum merklich in der Aussprache,
 weise auf Ostpreußen hin.
 
 Wie prompt die Polizei jemand zu finden weiß, ist
 auch dem Laien bekannt. In diesem Falle war das Ergebnis
 negativ,
 
-Genau so negativ wie die Ermittlungen Ulk« den A?! es
-Gnom Doktor Fiedler, der bei der Witwe Kostspielig Tü 6-9
-Seestraße gewohnt ’hatte, angeblich aus Hamburg Star:
-und nur vorübergehend »studienhalber« gemeldet war. Bei:
-Doktor war genau wie das pikante Mädel vom Erdloche:
-verschluckt worden. In Hamburg gab’s keinen Doktor Fischer,
+Genau so negativ wie die Ermittlungen über den Astronom
+Doktor Fiedler, der bei der Witwe Rosenstein in der
+Ackerstraße gewohnt hatte, angeblich aus Hamburg stammte
+und nur vorübergehend »studienhalber« gemeldet war. Dieser
+Doktor war genau wie das pikante Mädel vom Erdboden
+verschluckt worden. In Hamburg gab’s keinen Doktor Fiedler,
 und auch die Frau Rosenstein konnte über ihn so gut wie
 nichts aussagen. Sehr zurückhaltend, selten daheim, pünktlicher
 Zahler. — Damit war nichts anzufangen.
@@ -1253,60 +1253,60 @@ Und dann der Verhaftete, der scheinbar schwer belastete
 Karl Sommer, der Hering: Er blieb bei seiner Aussage.
 Er habe den von ihm genau beschriebenen Herrn zufällig
 kennengelernt, 1000 Mark Anzahlung erhalten und sich dafür
-der Polizei gestellt, Das Handbeil und die Schlüssel dem
+der Polizei gestellt. Das Handbeil und die Schlüssel dem
 Krawuschke entwendet zu haben, bestritt er. Für die kritische
-Zeit, in der Pallasch; ermordet worden, konnte er ein eilt
-einwandfreies Alibi nachweisen. — — Ihm war nicht beizukommen.
+Zeit, in der Pallasch ermordet worden, konnte er ein 
+einwandfreies Alibi nachweisen. — Ihm war nicht beizukommen.
 
 Krawuschkes Andeutungen, Sommer müsse besserer Herkunft
 sein und anders heißen, wurden nachgeprüft. Sommer
 war vor drei Jahren aus Südafrika, wo er Minenarbeiter
 gewesen sein wollte, nach Berlin gekommen. Seine
 <@pagebreak/>
-Papiere waren in Ordnung, Ob sie ihm gehörten, blieb
+Papiere waren in Ordnung. Ob sie ihm gehörten, blieb
 fraglich. Nach seiner Behauptung hieß er Sommer und
 war ein uneheliches Kind, war mit Wanderzirkussen in
 seiner Jugend umhergezogen — und so weiter. Er sprach
-l(sichtlich englisch; und beherrsche auch etwas den Kaffern«-
-Dialekt aus dem Kimberlay»-Distrikt. — Der Klub hatte für
-ihn sofort einen Verteidigen, einen berühmten Strafrechtler,
-gewonnen, aber dessen Haftentlassungsanträge wurden abgeehnt.
+leidlich englisch und beherrsche auch etwas den Kafferndialekt
+aus dem Kimberlay-Distrikt. — Der Klub hatte für
+ihn sofort einen Verteidiger, einen berühmten Strafrechtler,
+gewonnen, aber dessen Haftentlassungsanträge wurden abgelehnt.
 
-Kurz. der Hering war eine Niete! Genau wie das
-Mädel und der Astronom und der geheimnisvolle Freude,
-der Sommer 1000) Mark gegeben und weitere 1099 versprochen
+Kurz, der Hering war eine Niete! Genau wie das
+Mädel und der Astronom und der geheimnisvolle Fremde,
+der Sommer 1000 Mark gegeben und weitere 1000 versprochen
 hatte. — Übrigens verriet Sommer auch, wo er die
-tausend Mark Fenster hatte. Sie wurden gefunden und
+tausend Mark versteckt hatte. Sie wurden gefunden und
 beschlagnahmt.
 
-Bier Tage nachts jenem denkwürdigen Abend, an dem
-wir die Klubeinladung erhalten, die Krawuschke nicht abgeht
-: hatte, eben!« wenig auch Sommer, fand bot uns eine
-Vosprechjung mit Gernapp statt Der Tut war sehr fuhr uuförmlich.
-Er hatte sicherlich eine »dienstliche Nase voran;all’
-bekommen, weil er Paris Vorschlag der lj! hatte,
+Vier Tage nach jenem denkwürdigen Abend, an dem
+wir die Klubeinladung erhalten, die Krawuschke nicht abgeschickt
+hatte, ebenso wenig auch Sommer, fand bei uns eine
+Besprechung mit Gernapp statt. Der Rat war sehr kühl und
+förmlich. Er hatte sicherlich eine »dienstliche Nase verpaßt<<
+bekommen, weil er Harsts Vorschlag befolgt hatte,
 
-Schon an diesem Tage war Bargeld äußerst still und
-melancholisch Jene geistige Spannkraft hatte nachgelassen
-Es stand eigentlich noch schlimmer mit ihm wie kam 9-5
-vor einem Jahr Eine so überaus sorgfältige Natur wie
-er, ein äußerst sein abgestimmtes Nervenbündel »die
-Nerven«, mochte auch durch die anhaltenden Regenrinne:e,
-den Sturm und die jähen. Temperaturschwankungen die!
-Tage beeinflußt werden Ich Bin erhalten in dieser Bettelns.
-Ich liebe das L)sollen. Pfeifen und Garten des Windes
-in! Kamm und das Klappert der Towt’rläden und da!
-Trommeln der Hagelschauer Dolch eine Abendstunde
-war’s, als Rat Gernapp mit Harald Sachlich den Fall
+Schon an diesem Tage war Harald äußerst still und
+melancholisch. Seine geistige Spannkraft hatte nachgelassen.
+Es stand eigentlich noch schlimmer mit ihm wie damals
+vor einem Jahr. Eine so überaus feinfühlige Natur wie
+er, ein äußerst fein abgestimmtes Nervenbündel »ohne
+Nerven«, mochte auch durch die anhaltenden Regengüsse,
+den Sturm und die jähen Temperaturschwankungen dieser
+Tage beeinflußt werden. Ich Bin robuster in dieser Beziehung.
+Ich liebe das Heulen, Pfeifen und Fauchen des Windes
+im Kamm und das Klappern der Fensterläden und das
+Trommeln der Hagelschauer … Solch eine Abendstunde
+war’s, als Rat Gernapp mit Harald endgültig den Fall
 <@pagebreak/>
 Pallasch erörterte. »Vielleicht finden wir in neuem gemeinsamen
-MeinungsLaustausc einen Fingerzeig, meinte elf
-»Is bleibe dabei, daß das Alibi Karl Sommers lediglich
-sein konstruiert ist, daß der Fremde, der die tausend Mark
+Meinungsaustausch einen Fingerzeig, meinte er.
+»Ich bleibe dabei, daß das Alibi Karl Sommers lediglich
+fein konstruiert ist, daß der Fremde, der die tausend Mark
 spendete und im Auto davonfuhr, gar nicht existiert und daß
 Sommer trotz allem der Mörder ist und das Mädchen seine
-Verbündete.« — Diese Theorie hatte Gernapp bis!hier stets mit
-Eifer berichten und ich — — pflichtete ihm bei.
+Verbündete.« — Diese Theorie hatte Gernapp bisher stets mit
+Eifer verfochten und ich — — pflichtete ihm bei.
 
 Harald zuckte die Achseln. Er saß müde im Sessel, hatte
 die Hände gefaltet und sagte gleichgültig: »Wir werden nie,
@@ -1321,10 +1321,10 @@ gebe ich zu, daß ich für diese meine Auffassung keine
 klaren, sondern lediglich gefühlsmäßige Beweise habe, daß
 die inneren Zusammenhänge mir völlig dunkel sind und
 ich die Möglichkeiten Klarheit zu schaffen, erschöpft sehe.
-Die schlaflosen letzten Nächte haben mir mehr Gehärnsubstanz
-gekostet als ein Dutzend anderer schwieriger Fälle. Is bin
+Die schlaflosen letzten Nächte haben mir mehr Gehirnsubstanz
+gekostet als ein Dutzend anderer schwieriger Fälle. Ich bin
 mit meiner Kunst zu Ende, und ich bedauere sehr, Ihnen
-Herr Rat, damals vorgeschlagen zu haben; das Mädel laufen.
+Herr Rat, damals vorgeschlagen zu haben, das Mädel laufen
 zu lassen.«
 
 »Wir suchen sie weiter …«
@@ -1332,95 +1332,100 @@ zu lassen.«
 »Man kann sie nur mit den Gedanken suchen, Herr
 Rat … In dem Moment, wo mir die Erleuchtung käme,
 wo ich die verbindenden Fäden der einzelnen Vorgänge
-geistig in der Hand hielte, hätte ich aue& den Fremden und
-… sie, das Müde!, das meine Spezialmarke mir präpariert
+geistig in der Hand hielte, hätte ich auch den Fremden und
+… sie, das Mädel, das meine Spezialmarke mir präpariert
 unterschob.« —
 
 <@pagebreak/>
 Gernapp verabschiedete sich denn bald. Als er gegangen,
-blieb ein Eisesauch im Zimmer zurück.
+blieb ein Eiseshauch im Zimmer zurück.
 
-Harst saß mit geschlossenen Augen da, meinte leite: »Um
-Gernapps Freundschaft tut es mir leid … Er ist ein Treue
+Harst saß mit geschlossenen Augen da, meinte leise: »Um
+Gernapps Freundschaft tut es mir leid … Er ist ein Genie
 und ein Ehrenmann.«
 
 Und unvermittelt. »Mein Alter, denke an meine Worte:
 Der Mord ist Nebensache. Die Hauptsache sind die Brände
 und Fiedler. Ich möchte darauf schwören: das Mädel war
-Sein Mädel, sondern des »Fremden« Frau. Sie betrat
-Vater Pallasc&;s 8Kueipe in bestimmter Absicht, fand den
-Alten tot vor und — — ja, Loggia!Ertappte sie das Gehen
+kein Mädel, sondern des »Fremden« Frau. Sie betrat
+Vater Pallaschs Kneipe in bestimmter Absicht, fand den
+Alten tot vor und — — ja, weshalb stopfte sie das Geld
 aus der Kasse, aus der Schieblade in die Taschen — —
-weshalb?! Westen!lb —?1 Daran scheitert alles. Ich grüble
-und grüble und größte: Weghaldbe! Die Schieblade des
-Gdjanttisches lag neben dem Erschlagenen … Und das
-Geld und ein paar Wohnungen hatte das Weib eingesteckt
+weshalb?! Weshalb … —?! Daran scheitert alles. Ich grüble
+und grüble und grüble: Weshalb?! … Die Schieblade des
+Schanktisches lag neben dem Erschlagenen … Und das
+Geld und ein paar Rechnungen hatte das Weib eingesteckt!
 Warum?!«
 
-So endete der Abend …
+So endete *der* Abend …
 
 Und wieder kamen neue Tage, wo ich es Harald ansah,
-daß er die Jagd nach »ir« in Gedanken noch Schweiz
-betrieb. Stundenlang ging er im durchweichten. Gemüsegarten
-hin und her grübelnd, verschlossen, suchend …
+daß er die Jagd nach »ihr« in Gedanken noch immer
+betrieb. Stundenlang ging er im durchweichten Gemüsegarten
+hin und her … grübelnd, verschlossen, suchend …
 
-Er magerte ab, Wie! zuzugeben Hut er überhaupt nicht.
-Körperlich wohl. Aber seelisch nicht. Er ist zu Berliner.
+Er magerte ab, Viel zuzusetzen hat er überhaupt nicht.
+Körperlich wohl. Aber seelisch nicht. Er ist zu sensibel.
 
-Und ich hatte viel zu trösten und aufzurichten im
+Und ich hatte viel zu trösten und aufzurichten in
 diesen Tagen. Es kam so weit, daß er einmal erklärte: »Ich
-faule mir ein Gut droben in Pommern an der zuraste und
-baue Füßen! Ich lege meinen Namen ab … Ich bin all
+kaufe mir ein Gut droben in Pommern an der Küste und
+baue Rüben! Ich lege meinen Namen ab … Ich bin alt
 geworden.«
 
 — — Heute nun der 17. Februar, der Tag, an dem der
-Klub den Ball gab: Idee: Ein Fall bei Seremysimu!
+Klub den Ball gab: Idee: Ein Fall bei Serenissimus!
 
-Zeche;s Uhr « Draußen der Sturm … Hier bei uns
-Her Lautsprecher — letzte Musikklänge, dann die Seitenfach …
+Sechs Uhr … Draußen der Sturm … Hier bei uns
+der Lautsprecher — letzte Musikklänge, dann die Zeitansage …
 
 <@pagebreak/>
 Harst in seinem Sessel, Füße auf dem Kamingitter,
-rauchend, schweigend … orübelnck …
-Ich am ECahreiblitich) … Rücken! noch Harald hin, —
-schreibend — an die Punkte junge Dame in Südende …
+rauchend, schweigend … grübelnd …
 
-Der Brief war lange hastig.
+Ich am Schreibtisch … Rücken nach Harald hin, —
+schreibend — an die bewußte junge Dame in Südende …
+
+Der Brief war lange fällig.
+
 Mit einem Male hinter mir ein seltsamer Ton …
-Ich fahre betrat
 
-Harald … kam … weh. an! «+.
-Sagt: »Du, das Brett is!! weg?!«
-»Bretts«
+Ich fahre herum …
+
+Harald … lacht … mich … an …
+
+Sagt: »Du, das Brett ist weg!!«
+
+»Brett?«
 
 »Ja … Unser Mathematiklehrer in Untersekunda, der
 mit mir seine liebe Not hatte, meinte immer: »Harst, Sie
-haben für mein »Fach ein Brett vor den! Edelster …!«
+haben für mein Fach ein Brett vor dem Schädel …!!«
 Er hatte recht. Ich machte das Abitur mit Note Fünf in
-Mathematik. — Vieles Brett war jetzt wieder aufgetaucht,
-Nu! habe ich es doch bezwungen … Ich habe es zermürbt
+Mathematik. — Dieses Brett war jetzt wieder aufgetaucht.
+Nun habe ich es doch bezwungen … Ich habe es zermürbt
 … Meine Gedanken waren die Holzwürmer … Es
 ist nicht mehr da.«
 
 »Was heißt das?«
 
-»Daß du sofort von dem Mad&kenverleiher Salomon
-zwei Kostüme schien lassen wirst … Telephoniere … Zwei
-Kostüme: Kavaliere aus der Kopiert … viel Boden, sehr
-viel Orden … — los doch4! Was starrst du mich an?!
+»Daß du sofort von dem Maskenverleiher Salomon
+zwei Kostüme schicken lassen wirst … Telephoniere … Zwei
+Kostüme: Kavaliere aus der Zopfzeit … viel Orden, sehr
+viel Orden … — los doch! Was starrst du mich an?!
 Es gibt nur eine Möglichkeit, die Geschichte einzurenken,
-wie mir nun klar geworden. Auf dem Verhallt! Wir sei;en
+wie mir nun klar geworden. Auf dem Boxball! Wir gehen
 hin! Und wenn du jetzt Fragen stellst, dann werde ich
 saugrob.«
 
-»Gott sei Dank!« rief ich aus tiefsten Herzensgrunde.,
+»Gott sei Dank!« rief ich aus tiefsten Herzensgrunde.
 
 Und dann telephonierte ich.
 
 <@pagebreak/>
 
 <h2>2. Kapitel.</h2>
-<h3>NRaffceflatsch.</h3>
+<h3>Kaffeeklatsch.</h3>
 
 Als ich telephoniert hatte, mußte ich bei der Dielen
 Mathilde Abendbrot bestellen. Haralds Mutter war noch ans
@@ -2163,8 +2168,8 @@ Frau Hella schluchzte leise …
 »In … Er war so leichtsinnig …! Er hakte … genossen
 … IQ) war damals noch nicht achtzehn … Und
 he;malt hatte der alte Palast) noch eine Pfandleihe …
-Ick& versetzte den Schmuck meiner Mutter, benutzte dabei
-die Papier? unseres damaligen Dieners August Krawuschke …
+Icke versetzte den Schmuck meiner Mutter, benutzte dabei
+die Papiere unseres damaligen Dieners August Krawuschke …
 Ich hatte mich … mich … verkleidet … als junger Herr …
 I? war ja nur von dem einen Wunsch besucht, die Stunde
 vor uns abzuwenden … Karl hakte einem!Leinen Juwelier
