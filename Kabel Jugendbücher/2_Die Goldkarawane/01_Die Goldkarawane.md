@@ -109,7 +109,7 @@ bietende Schiff zu benutzen.
 
 Nein — dieser Zuitenbrook (natürlich auch ein falscher Name!) wanderte sehr
 wahrscheinlich auf faulen Pfaden, war vielleicht gar ein Kassenräuber,
-Defraudanti oder dergleichen.
+Defraudant oder dergleichen.
 
 Jetzt waren bei mir alle moralischen Bedenken gegen die Benutzung des Astloches
 geschwunden. In meiner Phantasie tauchten schon verheißungsvolle Luftschlösser
@@ -909,9 +909,9 @@ Er hielt meine Rechte in seinen Händen. »Sidi — Du lebst!«
 
 Er wußte nicht, was er alles tun sollte, nur um mir zu zeigen, wie glücklich er
 war, gerade mich gerettet zu haben, der ihm das Augenlicht zurückgegeben. Seine
-Dankbarkeit hatte ja schon vordem sich in allerhand Beteuerungeniv über seine
+Dankbarkeit hatte ja schon vordem sich in allerhand Beteuerungen über seine
 Lippen gedrängt, — täglich, wenn wir gemeinsam durch die Straßen Algiers
-schlenderten, er noch mit der grauen Brillev vor den Augen, aber doch bereits
+schlenderten, er noch mit der grauen Brille vor den Augen, aber doch bereits
 alles ringsum erkennend. Da war sein übervolles Herz so und so oft
 übergeflossen, da hatte er so und so oft nach meiner Hand getastet und
 geflüstert:
@@ -992,7 +992,7 @@ anzubinden, zumal meine Augen mir alles ringsum doch noch recht undeutlich
 zeigen und häufig tränen. — Ich duckte mich also ganz tief in das Gestrüpp
 hinter dem Steinhaufen, sah nun, wie er das verfallene Haus durch jene Tür dort
 betrat. Denke Dir, Sidi, als er sehr bald wieder auf dem Hof erschien, da — war
-er nicht mehr der Bettler, sondern ein ferner Sidi im Leinenanzug mit glattem
+er nicht mehr der Bettler, sondern ein feiner Sidi im Leinenanzug mit glattem
 Gesicht. In der Hand hatte er einen kleinen Lederkoffer. Er schaute nochmals
 lauschend nach dem Brunnen hin, dann ging er davon der Straße zu. Kaum hatte er
 aber das Gehöft verlassen, als ich einen dumpfen Schrei vernahm, der aus dem
@@ -1030,7 +1030,7 @@ Immerhin konnte ich zufrieden sein, wenigstens diesen größten Teil meiner
 Sachen wiedererhalten zu haben. Das Wertvollste fehlte zwar. Doch ich mußte
 mich trösten — vorläufig! Im Stillen gab ich die Hoffnung nicht auf, dem
 Mynheer Zuitenbrook nochmals zu begegnen und ihn dann zu zwingen, den Stutzen
-mir wieder zu überlassenvi.
+mir wieder zu überlassen.
 
 Als wir, meinen Koffer schleppend, bei Spameitat erschienen, entstand ein
 förmlicher Aufruhr im Hause. Auch der wackere Ostpreuße hatte zwei seiner
@@ -1086,7 +1086,7 @@ Weideplätze zu schaffen versucht habe.
 
 Unser Zug mußte vier volle Tage auf offener Strecke halten, während vor uns der
 durch eine lange Trockenheitsperiode ausgedörrte Wald in hellen Flammen stand.
-Hätte uns die Feuersbrunst mitten in dem Waldgebiet überrascht, waren wir
+Hätte uns die Feuersbrunst mitten in dem Waldgebiet überrascht, wären wir
 verloren gewesen. So aber hatten wir noch mit Volldampf dem Unheil nach
 rückwärts entrinnen können.
 
@@ -1205,7 +1205,7 @@ Ich tat dies so geschickt, daß sie nicht ahnten, weshalb ich mich jetzt eines
 anderen besonnen hätte, und in kurzem waren wir denn auch handelseinig, das
 heißt, sie hatten mich für ein Vierteljahr zusammen mit Ibrahim als
 Reisemarschall »engagiert«. Ich erklärte jedoch gleich, daß ich mein Gehalt
-postnumerandoviii gezahlt haben wollte.
+postnumerando gezahlt haben wollte.
 
 Nach unserem Eintreffen in Ain Sefra begann meine Tätigkeit als Reisemarschall.
 Ich mußte für die Vervollständigung unserer Ausrüstung und für Pferde sorgen.
@@ -1235,7 +1235,7 @@ Absichtlich hatte ich für Ibrahim und mich Falben, das heißt Pferde von
 gelbgrauer Farbe gewählt. Sie passen sich der Bodenfärbung am besten an. Die
 drei »Edelleute« ritten einen Schimmel und zwei Rappen.
 
-Ritten?! — Nun, man merkte, daß ihre Reitkünste aus einem Tattersallix
+Ritten?! — Nun, man merkte, daß ihre Reitkünste aus einem Tattersall
 herstammten. Gewiß, auch ich hatte noch kein algerisches Pferd unter mir
 gehabt, aber ich war vor zwei Jahren Hauslehrer auf einem großen Gute in
 Pommern gewesen, wo der Besitzer mir höchselbst die Geheimnisse der Reitkunst
@@ -1253,7 +1253,7 @@ breitkrempigen Filzhut auf dem Kopf. Dieses halbe Indianerkostüm erregte in den
 von Weißen besiedelten Orten überall Aufsehen. An Stelle des Stutzens benutzte
 ich jetzt einen Remington-Karabiner. Auch für Ibrahim hatte ich einen solchen
 gekauft. Dann steckten in unseren Gürteln weiter je zwei Revolver, je ein
-Messer, und ich trug noch dazu meines Freunde Webers indianisches Wurfbeil mit
+Messer, und ich trug noch dazu meines Freundes Webers indianisches Wurfbeil mit
 gebogenem kurzen Stiel und seinen Lederlasso. Ibrahim war seiner Beduinentracht
 treu geblieben.
 
@@ -1721,7 +1721,7 @@ müssen ohnehin bald lagern. Die Sonne geht unter! Die Nacht schleicht herbei.
 Sie ist bekanntlich keines Menschen Freund, besonders hier in der Hammada
 nicht, wo noch unlängst eine Gesellschaft Touristen, die die Steinwüste kennen
 lernen wollten, überfallen worden ist. Maskierte Briganten sollen’s gewesen
-sei. Sie haben von den Gefangenen, besonders einem schwedischen Grafen, ein
+sein. Sie haben von den Gefangenen, besonders einem schwedischen Grafen, ein
 hohes Lösegeld erpreßt. Eine Abteilung Fremdenlegionäre, die die Briganten
 aufstöbern sollte, kehrte nach Verlust von zehn Pferden infolge Hufentzündung
 unverrichteter Sache zurück.«
@@ -1732,7 +1732,7 @@ Das klang ja recht vielversprechend.
 
 »Gibt es eine Gegend, die mehr Schlupfwinkel für kühne Banditen bietet?! — Wir
 müssen Augen und Ohren gut offenhalten, sonst geraten wir aus der Scylla in die
-Charybdisxi, das heißt, wir entgehen den racheschnaubenden Berbern und sinken
+Charybdis, das heißt, wir entgehen den racheschnaubenden Berbern und sinken
 den Briganten in die erpresserischen Greifwerkzeuge alias Arme.«
 
 Inzwischen waren auch die drei Edlen und Ibrahim herangekommen, hatten das
@@ -2164,7 +2164,7 @@ Augustus in einen ganz behaglichen Schritt über, holte schnaufend Atem, meinte:
 rette ich Sie nicht zum zweiten Male, darauf können Sie Gift nehmen! Im
 übrigen: Den Dank, Dame, begehre ich nicht. Schenken Sie sich jeden Applaus,
 jeden! Denn diese ganze Sache war bei der verblüffenden Unerfahrenheit dieser
-Rinaldo Rinaldinisxii so lächerlich einfach wie die Rolle des Appels, der dem
+Rinaldo Rinaldinis so lächerlich einfach wie die Rolle des Appels, der dem
 Knaben Tell vom Kopfe geschossen wird.«
 
 Ich drückte ihm auch nur schweigend die Hand, zumal er sofort, hinter dem
@@ -2743,7 +2743,7 @@ Jetzt blieben die drei stehen. Der, der keine Geierflügel trug, zündete sich
 mit Hilfe eines Feuerzeugs eine — Zigarette an.
 
 Oft sind es winzige Kleinigkeiten, die, wenn man sie nur zu beachten weiß, die
-größte Bedeutung annehmen können. So auch hier. Ich wäre den dreien sicher sich
+größte Bedeutung annehmen können. So auch hier. Ich wäre den dreien sicherlich
 nicht gefolgt, eben weil ich mir davon nichts Besonderes versprochen hätte,
 wenn ich mich nicht in diesem Augenblick darauf besonnen haben würde, daß
 Augustus, als er mir seinen früheren Brotherrn Ulmed Rischa genauer schilderte,
@@ -3042,12 +3042,12 @@ die in ein breites Tal mündete und befanden uns gleich darauf in der kleinen
 Oase, unter deren schlanken Dattelpalmen im Halbkreis einige zwanzig
 Beduinenzelte standen, während drei große Feuer dieses phantastische Bild mit
 flackerndem Schein beleuchteten. Nachher erkannte ich dann auch mehr außerhalb
-der Oase eine Reiche von Reisighütten, die darauf hindeuteten, daß es sich um
+der Oase eine Reihe von Reisighütten, die darauf hindeuteten, daß es sich um
 ein für längere Zeit bestimmtes Lager handelte.
 
 Wir wurden hinter den Zelten an die Bäume gebunden und feierten hier ein recht
 trübes Wiedersehen mit Augustus Wruke und — den drei edlen Löwenjägern! Auch
-diese vier standen aufrecht gefesselt an denxvii hohen Dattelpalmen, aber zu
+diese vier standen aufrecht gefesselt an den hohen Dattelpalmen, aber zu
 zweien an einem Baum, während Ibrahim und ich den Vorzug hatten, jeder für sich
 einen Palmenstamm schmücken zu dürfen. Die Channeks hatten also inzwischen
 wirklich die drei Edlen überwältigt und sicherlich auf dieselbe Art, wie Ulmed
@@ -3360,7 +3360,7 @@ ein Viertel eines Hammels. Aber — es duftete denn doch zu stark.
 Bald hatte ich geradezu Magenschmerzen vor Hunger. — Ob ich’s nicht wagen
 sollte, mich an die Oase heranzuschleichen? Dort gab’s ja Datteln in Menge.
 
-Ich zauberte eine Weile. Dann schlich ich mit größter Vorsicht denselben Weg
+Ich zauderte eine Weile. Dann schlich ich mit größter Vorsicht denselben Weg
 zurück, auf dem ich gestern schließlich — zu meinem Glück — auf der Hyäne
 gelandet war, deren Zähne meinem Arm dank dem Leder meines Rockes nichts
 geschadet hatten.
@@ -3524,7 +3524,7 @@ Flußbett entlang geflüchtet, wo der harte Lehmboden keinerlei Spuren annehmen
 konnte. Hier in den Felsen fand er sowohl für sich als auch für die Tiere ein
 gutes Versteck, pirschte sich dann aber doch wieder an die Oase heran, um zu
 versuchen, unser Sattelzeug und auch seine Kinderflinte zu holen, denn Flora
-und mein Falber hattenxix natürlich ungesattelt auf dem Weideplatze gegrast. So
+und mein Falber hatten natürlich ungesattelt auf dem Weideplatze gegrast. So
 wurde er Zeuge, wie meine Verfolger die brennenden Grasbüschel in die Fanggrube
 hinabwarfen, ahnte nicht im entferntesten, daß ich gleichfalls in dem Loche
 steckte, und wollte mir dies jetzt zuerst gar nicht glauben. Es war ihm dann
@@ -3642,7 +3642,7 @@ gern beichte. Sie werden mich nicht verdammen, sich nicht voller Abscheu von
 mir abwenden. — Hören Sie also. — Ich habe bereits früher erzählt, daß mich das
 Schicksal als Fußball seiner Launen benutzt hat. Meine schauspielerische
 Begabung war gleich Null, und ich mußte Gott danken, daß ich nach der
-Riesenpleite des Hoftheaters in Plinz, Perunzxx, Glinzelstein ein Engagement
+Riesenpleite des Hoftheaters in Plinz, Perunz, Glinzelstein ein Engagement
 bei einer Varieteetruppe fand, die die Hafenstädte Westafrikas abklappern
 wollte. So bin ich in den dunklen Erdteil gelangt und hier auch kleben
 geblieben. Zumeist ging es mir herzlich schlecht. Eines Tages vor nunmehr
@@ -4087,7 +4087,7 @@ Der Channek, der uns hier bewachte, war ein sehr großer, starker Bursche mit
 finsteren, drohenden Augen. Er hockte vor unseren Köpfen am Boden und hatte
 seine Büchse — es war eine doppelläufige Vorderladerflinte — im Schoße liegen.
 Als Augustus nun abermals zu stöhnen und allerlei Klagelaute auszustoßen
-begann, beugte er sich über ihn und fragte sichtlich besorgt, ob der Ferengixxi
+begann, beugte er sich über ihn und fragte sichtlich besorgt, ob der Ferengi
 (Fremde, Europäer) große Schmerzen hätte.
 
 Ich ahnte jetzt bereits, was der Kleine vorhatte, gab sehr genau auf alles acht
@@ -4911,7 +4911,7 @@ sehr bald insofern, als Ulmed Rischa, der mit Rastra, einem älteren Channek und
 zwei Tuareg an einem der Feuer gesessen hatte, sich jetzt erhob, Rastra
 zuwinkte und mit ihm dann langsam dem runden Tale zuschritt, über dem das
 Plateau als dünne Felsenkanzel sich noch gut acht Meter weit fortsetzte. Von
-dieser Felsenkanzel hatte damals der schwerverwundetexxiii Spanier die
+dieser Felsenkanzel hatte damals der schwerverwundete Spanier die
 Goldkisten in den See hinabgestürzt. Und hier blieben nun auch der Berber und
 Rastra dicht am Rande in lebhafter Unterhaltung stehen, die jedoch sehr schnell
 in einen heftigen Wortwechsel ausartete, wie wir besonders an Rastras erregten
@@ -5038,7 +5038,7 @@ erstarrt da. Dann löste sich der Haufen auf, wollte nach den Zelten stürmen, w
 sie ihre Büchsen hatten liegen lassen.
 
 Wollte! Die vordersten prallten zurück. Wildes Geschrei ertönte. In langer
-Linie waren plötzlich die Tireks aus dem Plateau erschienen, mitten unter ihnen
+Linie waren plötzlich die Tireks auf dem Plateau erschienen, mitten unter ihnen
 auch Ibrahim, Wexel und Dunnleit.
 
 Ibrahim gab den Befehl zum Feuern. Die Salve riß die Hälfte der Anstürmenden zu
@@ -5071,7 +5071,7 @@ Stirn abschoß, daß ich noch heute die schwarzen Pulverkörnchen in der
 Schläfenhaut stecken habe. Meine Revolverkugel traf besser.
 
 Dann — dann suchte mir ein Tuareg seine Lanze in den Leib zu rennen. Es war
-derselbe Kerl, der vorhin Rastras Perücke dem Zuge vorangetragenxxiv hatte,
+derselbe Kerl, der vorhin Rastras Perücke dem Zuge vorangetragen hatte,
 eine kleine, sehnige Figur, dem die Augen vor Mordgier funkelten.
 
 
@@ -5416,7 +5416,7 @@ Sees nicht zu schaffen. Aber — es gibt einen natürlichen, eine Höhle, die mi
 ihrer tiefsten Stelle bis dicht unter den Boden des Sees reicht. Ich habe sie
 damals durch einen Zufall entdeckt. Sie wird es schon wenigen Menschen leicht
 machen, den See zu entleeren!« Er erklärte uns nun genau, wo der Eingang zu
-dieser Höhle zu finden sei. Wir mußten ihm beloben, dies wertvolle Geheimnis
+dieser Höhle zu finden sei. Wir mußten ihm geloben, dies wertvolle Geheimnis
 nur den Eigentümern des Goldes mitzuteilen, die dann die nötigen Schritte tun
 könnten, es sich wieder zu verschaffen.
 
