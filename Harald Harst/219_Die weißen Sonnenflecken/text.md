@@ -1283,7 +1283,7 @@ Vier Tage nach jenem denkwürdigen Abend, an dem
 wir die Klubeinladung erhalten, die Krawuschke nicht abgeschickt
 hatte, ebenso wenig auch Sommer, fand bei uns eine
 Besprechung mit Gernapp statt. Der Rat war sehr kühl und
-förmlich. Er hatte sicherlich eine »dienstliche Nase verpaßt<<
+förmlich. Er hatte sicherlich eine »dienstliche Nase verpaßt«
 bekommen, weil er Harsts Vorschlag befolgt hatte,
 
 Schon an diesem Tage war Harald äußerst still und
@@ -1427,106 +1427,106 @@ Und dann telephonierte ich.
 <h2>2. Kapitel.</h2>
 <h3>Kaffeeklatsch.</h3>
 
-Als ich telephoniert hatte, mußte ich bei der Dielen
-Mathilde Abendbrot bestellen. Haralds Mutter war noch ans
-einem ihrer beliebten DFDamentassees, bei Venen sie so viel
-Schmargendorfer Neuigkeiten einheimste, daß sie stets Trost
+Als ich telephoniert hatte, mußte ich bei der dicken
+Mathilde Abendbrot bestellen. Haralds Mutter war noch auf
+einem ihrer beliebten Damenkaffees, bei denen sie so viel
+Schmargendorfer Neuigkeiten einheimste, daß sie stets Stoff
 für drei Tage hatte.
 
-InNathilde war platt, all ich Kaviar, Hummer, Gänseleisch
-in Sülze, und Kortofseivisfseor verlangte. Sie bitte
-Zelte mich mißtrauisch ans kleinen Schweingäuzglein an, in
-denen doch) immer so viel Anteilnahme an den Gestickten
-des Hauses Harst Schlummer!ich. »Machen Sie auch nich Witze,
+Mathilde war platt, all ich Kaviar, Hummer, Gänsefleisch
+in Sülze, und Kartoffelpuffer verlangte. Sie blinzelte
+mich mißtrauisch aus kleinen Schweinsäuglein an, in
+denen doch immer so viel Anteilnahme an den Geschicken
+des Hauses Harst schlummert. »Machen Sie auch nich Witze,
 Herr Schraut?! Herr Harald — all seine Leibgerichte, —
-in die Stimmung!!«
+in *die* Stimmung!!«
 
-»Die Trauung ist futsch, Schilderten … Und bitte,
+»*Die* Stimmung ist futsch, Thildeken … Und bitte,
 in die Kartoffelpuffer keine Zwiebeln …!!«
 
 »Na, es war auch Zeit!« knurrte sie … — Aber die
 Kartoffelpuffer freuten sie. Niemand stellte diese so tadellos
-der wie sie — … —ck
+her wie sie … —
 
 <@pagebreak/>
 Als wir um halb acht, bereits in Maskenkostümen, bei
-Sich saßen, lehrte Haralds Mutter zurück. Mathilde hatte
-un 918 verraten, und als die alte Dome nun das GSpeiseziatmer
-betrat!, blieb sie bei unserem phantastischen Anblick
-wie gebannt steten.«
+Tisch saßen, kehrte Haralds Mutter zurück. Mathilde hatte
+nichts verraten, und als die alte Dame nun das Speisezimmer
+betrat, blieb sie bei unserem phantastischen Anblick
+wie gebannt stehen.«
 
-Allerdings wir in weißen Kopfperücken, angeklebten
-Leinen schwarzen Ednurrbärten und Schönheitspflästerchen,
-in qgoldgestidten Kammerherrnfräcken, schwarzseidenen Holzbuden,
-klirrenden Wieherten: das Harstsche Eßzimmer hakte
-solche -Wüste noch nicht beherbergt!
+Allerdings — wir in weißen Kopfperücken, angeklebten
+kleinen schwarzen Schnurrbärten und Schönheitspflästerchen,
+in goldgestickten Kammerherrnfräcken, schwarzseidenen Halsbinden,
+klirrenden Blechorden: das Harstsche Eßzimmer hatte
+solche Gäste noch nicht beherbergt!
 
-Dann stieß sie die!russischen Worte aus: »Kinder, seid
+Dann stieß sie die klassischen Worte aus: »Kinder, seid
 ihr übergeschnappt!«
 
-Gleich aber kam ihr die richtige Erleuchtung. Steine
-auf Palast zu …
+Gleich aber kam ihr die richtige Erleuchtung. Sie eilte
+auf Harald zu …
 
-»Mein lieber großer Junge, hast du’s überwundn«
+»Mein lieber großer Junge, hast du’s überwunden?«
 
-Er strahlte sie an. »Ja, Mutter, — überwunden! shyu’:e
-diese Depression noch einen Tag geh Herz würde ich morgen
-PDressentin gekauft haben, das Gut bei Glölpmaäinbe, das
-mir der Makler anbot … Jetzt werde im mir den Mörder
-trafen!! Gewiß, auch August Krawuschke ha! ja ein Stücke
-loses Alibi für die kritisch)e Zeit bei der Hand, als« mzwischeirt
-ist mir eben eine dicke Kirchenterze aufgegangen« Co!! Ei-))
-nur, Mutter … Du siehst, ich habe sogar den Eloßabzig
-1854 ]I heraufholen lassen … Er geht mir zu sehr ins Flur,
-vor; Schraut und ich brauchen ja Fastnachtsstimmung zu«
-den Fall der Eisenfäuste. So ganz zahm wird es der:
-nicht hergehen, glaube ich … Der s!Schlaue August — mehr!
-fliegt man nur dumme Auguste im Zirkus zu sehen!
-wird heute oder nie zur Strecke gebrachmt. — Geh’ dich,
+Er strahlte sie an. »Ja, Mutter, — überwunden! Hätte
+diese Depression noch einen Tag gedauert, würde ich morgen
+Pressentin gekauft haben, das Gut bei Stoplmunde, das
+mir der Makler anbot … Jetzt werde ich mir den Mörder
+kaufen!! Gewiß, auch August Krawuschke hat ja ein tadelloses
+Alibi für die kritische Zeit bei der Hand, aber inzwischen
+ist mir eben eine dicke Kirchenkerze aufgegangen! Setz’ dich
+nur, Mutter … Du siehst, ich habe sogar den Schloßabzug
+1854 heraufholen lassen … Er geht mir zu sehr ins Blut,
+doch Schraut und ich brauchen ja Fastnachtsstimmung für
+den Fall der Eisenfäuste. So ganz zahm wird es dort
+nicht hergehen, glaube ich … Der schlaue August — meist
+kriegt man nur dumme Auguste im Zirkus zu sehen! —
+wird heute oder nie zur Strecke gebracht. — Setz’ dich,
 Mutter … Kaviar gefällig? Wie war’s denn auf dem
-Damenkaffee bei der Frau Walther?«
+Damenkaffee bei der Frau Pastor?«
 
-»Laß mich nur erst zu Willen kommen … Ich freue
-mich ja!so … Ich wußte, ich hoffte, daß du dich doch
+»Laß mich nur erst zu Atem kommen … Ich freue
+mich ja so … Ich wußte, ich hoffte, daß du dich doch
 <@pagebreak/>
-durchringen würden, mein Junge. Nur … nun tu’ mir einen
-Zufallen: sei vorsichtig? — Und Sie, liebe« Schraut, Sie
-ziehen mir dafür ein, daß auf diesem Becbrezerball meiner«
-Harald nichts zustößt …
+durchringen würdest, mein Junge. Nur … nun tu’ mir einen
+Gefallen: sei vorsichtig! — Und Sie, lieber Schraut, Sie
+stehen mir dafür ein, daß auf diesem Verbrecherball meinem
+Harald nichts zustößt …«
 
-Ich lächelte … »Ich stecke zwei! Pistolen ein, außerdem
-haben wir ja unsere Kavalierdeqgen! … habe bei Salomon
-extra zwei gute Degen weil! ich, nur er hat tadellose
-Finger Gesicht … Mithin sind wir wie die Räuber beswafinet
+Ich lächelte … »Ich stecke zwei Pistolen ein, außerdem
+haben wir ja unsere Kavalierdegen! Ich habe bei Salomon
+extra zwei gute Degen bestellt, und er hat tadellose
+Klingen geschickt … Mithin sind wir wie die Räuber bewaffnet
+…«
 
-Über meine billigen Witze waren nicht dazu angetan, ein
+Aber meine billigen Witze waren nicht dazu angetan, ein
 Besorgtes Mutterherz zu beruhigen.
 
-»-… Hauch bei der Frau Pastor wurde heute über’
-den Mord Pallasch gesprochen,« meinte Frau. Harst seufzenmnd.
-»I9 habe natürlich in keiner Weise aus der Schule geplaudert
+»… auch bei der Frau Pastor wurde heute über
+den Mord Pallasch gesprochen,« meinte Frau Harst seufzend.
+»Ich habe natürlich in keiner Weise aus der Schule geplaudert
 …«
 
 »Ein etwas gruseliges Thema für einen Damenklatsch,«
-scherzte Harald und füllte die Weingläser aus neue.
+scherzte Harald und füllte die Weingläser aufs neue.
 
 »Von mir wurde es wahrlich nicht angeschnitten, mein
-Zunge,« beteuerte die ehrwürdige Matrone sehr Nachdruck«
-li. »Aber die junge Welt liebt die Sensation, und du
-kannst ja Frau Pastors Nichte, Harald … So junge Fragen,
-und ohne eigentliche Tätigkeit, suchen geradezu das Flur:
-Sarge,«
+Junge,« beteuerte die ehrwürdige Matrone sehr Nachdrücklich.
+»Aber die junge Welt liebt die Sensation, und du
+kennst ja Frau Pastors Nichte, Harald … So junge Frauen,
+und ohne eigentliche Tätigkeit, suchen geradezu das Abwegige.«
 
 »Ein Irrtum, Mutter,« erklärte Harst nachdenklich. »Frau
-heller kenne ich … Die Nichte jedoch), — wer ist das
+Pastor kenne ich … Die Nichte jedoch, — wer ist das
 denn?!«
 
-»Aber Harald!! Frau von Sechs!! Ich bitte dich … Ich
-Male doch oft genug von ihr erzählt. Die Frau des Kutter«
-Gutsbesitzers von Selbst aus Ovalen bei Königsberg! Die
-hier in der Kaiserallee jeden Winter großes Haus mattem«
+»Aber Harald!! Frau von Zerbst!! Ich bitte dich … Ich
+habe doch oft genug von ihr erzählt. Die Frau des Rittergutsbesitzers
+von Zerbst aus Pogallen bei Königsberg! Die
+hier in der Kaiserallee jeden Winter großes Haus machen!«
 
-»ah — die …!!« Harald lachte. »Das war ja die
+»ach — die …!!« Harald lachte. »Das war ja die
 wilde Krabbe, die erst zum Film wollte — richtig! Ist sie denn
 nun in der Ehe zahmer geworden?«
 
@@ -1534,143 +1534,141 @@ nun in der Ehe zahmer geworden?«
 »Es geht … In der letzten Zeit kränkelte sie etwas …
 Heute sprühte sie wieder vor Übermut.«
 
-»bin … Ovalen …« brummte Harald und nahm
+»Hm … Pogallen …« brummte Harald und nahm
 Mathilde die erste Ladung Kartoffelpuffer ab. »Ihren Mann
-kenne ich) persönlich, — du auch, mein Alter. Der Selbst
+kenne ich persönlich, — du auch, mein Alter. Der Zerbst
 war mal vor Monaten bei uns, tat sehr geheimnisvoll,
 schien nachher aber doch nicht den Mut zu finden sich
 uns anzuvertrauen, entschuldigte sich und ging wieder …
-Ein patenter netter Kerl …« Er sorgen merkwürdig geistesabwesend
+Ein patenter netter Kerl …« Er sprach merkwürdig geistesabwesend
 … »Sag’ mal, Mutter, du hattest doch mal ein
-Bild von eurem Damenkränzdäjen … War da die Krabbe
+Bild von eurem Damenkränzchen … War da die Krabbe
 nicht mit oben?«
 
-»Gewiß, gewiß … Du fandest sie auch geradezu sich: …
-Heute trägt sie leider »Bubikopf und sieht wie ein Winter
-junger Studio aus
+»Gewiß, gewiß … Du fandest sie auch geradezu süß …
+Heute trägt sie leider Bubikopf und sieht wie ein flotter
+junger Studio aus …«
 
-»Tadellos, Ausbilden lobte Harald kauend, denn die
-treue dicke Köchin stand von abwartend hinter seinem
-Stuhl. »Vorzüglich, Schildchen … Ich werde mir noch den
-Magen verderben.«!
+»Tadellos, Mathilde!!« lobte Harald kauend, denn die
+treue dicke Köchin stand noch abwartend hinter seinem
+Stuhl. »Vorzüglich, Thildeken … Ich werde mir noch den
+Magen verderben.«
 
 »um Jotteswillen nich, — — essen Sie langsamer, Herr
-Harald … Die Dinger sind schwer …»’
+Harald … Die Dinger sind schwer …«
 
-»weine Sorge … Holen Sie doch mal den Photo«-
-graphienkasten aus dem Salon, Schildchen … Den Lederkasten,
+»Keine Sorge … Holen Sie doch mal den Photographienkasten
+aus dem Salon, Thildeken … Den Lederkasten,
 den großen … Da wird ja wohl das Kränzchen drin
 sein, Mutter …«
 
 Minuten später hatte Harald die Photographie in der
-und.
+Hand.
 
-»Wirklich — süß …! Die Krabbe — wie heißt sie da
+»Wirklich — süß …! Die Krabbe — wie heißt sie doch
 mit Vornamen, Mutter? Den Vatersnamen weiß ich noch:
-Gesagt. Der Vater war Regierungsrat.«
+Segall. Der Vater war Regierungsrat.«
 
-»Ölig!«
+»Hella!«
 
-»Gab — hallo — — Hella! Schau’ an, leichter Name.
+»Ah — hallo — — Hella! Schau’ an, fescher Name.
 — Da, Schraut, wie gefällt sie dir?«
 
 <@pagebreak/>
-Ich fühlte meine Brille zurecht. Der Hummer galt mir
-mehr als alle Schlag. Und die Trüffelbutter war lockender
-als weichste Lippen. Was soll im alter Draußen mit Hella
+Ich rückte meine Brille zurecht. Der Hummer galt mir
+mehr als alle Hellas. Und die Trüffelbutter war lockender
+als weichste Lippen. Was soll ich alter Krauter mit Hella
 anfangen?!
 
 Ich blickte flüchtig auf das Bild … Matronengesichter …
 Zwei junge Mädels mitten drin …
 
--Mit einem Male aber ging’s mir wie der oft zitierte
+Mit einem Male aber ging’s mir wie der oft zitierte
 elektrische Schlag durch den Kadaver …
 
-eben mir hüstelte Harald warnend, und ich quetschte
+Neben mir hüstelte Harald warnend, und ich quetschte
 daher lediglich ein begeistertes »Entzückend« hervor. — Das
 Bild wanderte in den Lederkasten zurück. —
 
 Als wir beide dann gegen halb neun in unserem
-Mummens&ckanz uns von Frau Harst verabschiedeten und
-Kanal?s Arbeitszimmer wieder betreten hatten, kriegte ich
-bat sofort beim Zopf zu packen …
+Mummenschanz uns von Frau Harst verabschiedeten und
+Haralds Arbeitszimmer wieder betreten hatten, kriegte ich
+ihn sofort beim Zopf zu packen …
 
-»23 Schwindler, du Heuchler …! Also deshalb hast
-Advokat haust mittag deiner Mutter so sehr zugeredet, den
-Zamenfafsee trotz ihrer gedrückten Stimmung Zu besuchen!!
+»Du Schwindler, du Heuchler …! Also deshalb hast
+du heute mittag deiner Mutter so sehr zugeredet, den
+Damenkaffe trotz ihrer gedrückten Stimmung Zu besuchen!!
 Sie sollte hingehen, und zwar der Krabbe wegen!!«
 
-»Faß mal erst meinen Zopf los … So, und nun:
-du! hast recht, lieber Alter! Als im) damals in Gernapps
-Sixnstzüumzer zum ersten Male das Mädel im Herrenhabit
-Pfad, kam sie mir sofort merkwürdig bekannt vor. Aber
-ist: gab nicht’s darauf. Es konnte eine Ähnlichkeit mit
-starres gestand sein. Leute, die ich) persönlich kenne, vergesse
-ich ja nie mehr, und mögen sie auch die schrecklichsten »Platte
-geschickter haben. Dennoch ließ mir später der Gedanke
-keine Rauhe, dieses Mädel müßte mir doch schon mal irgendwie
-über den Weg gelaufen sein. Is dachte auch daran, daß
-sie sich da) meine Mirafulums-Zigarette, die nur für mich
+»Laß mal erst meinen Zopf los … So, und nun:
+du hast recht, lieber Alter! Als ich damals in Gernapps
+Dienstzimmer zum ersten Male das Mädel im Herrenhabit
+sah, kam sie mir sofort merkwürdig bekannt vor. Aber
+ich gab nicht’s darauf. Es konnte eine Ähnlichkeit mit
+irgend jemand sein. Leute, die ich persönlich kenne, vergesse
+ich ja nie mehr, und mögen sie auch die schrecklichsten
+Alltagsgesichter haben. Dennoch ließ mir später der Gedanke
+keine Ruhe, dieses Mädel müßte mir doch schon mal irgendwie
+über den Weg gelaufen sein. Ich dachte auch daran, daß
+sie sich doch meine Mirakulum-Zigarette, die nur für mich
 hergestellt werden, irgendwo verschafft haben müßte, bevor
 sie sie mit dem Teufelszeug präparieren konnte. Von der
-»Fabrik konnte sie sie nicht erhalten haben. Woher sonst?
+Fabrik konnte sie sie nicht erhalten haben. Woher sonst?
 <@pagebreak/>
-Etwa hier bei mir … gemerkt?! — Und da fiel Allein,
+Etwa hier bei mir … gemopst?! — Und da fiel mir ein,
 daß Mutter ja am fünften einen Damenkaffee gegeben, daß
 wir beide wie dann stetes nachmittags ausgekniffen waren
 und daß die Möglichkeit bestand, eine der Damen könnte
-hier … genauer haben. — Wer?! — — Soll ich dir den
+hier … gemaust haben. — Wer?! — — Soll ich dir den
 Lauf der Dinge noch weiter schildern? Wohl nicht nötig …
 Jedenfalls: Mutter sollte heute um jeden Preis zur Frau
-Pastor — Hella von Selbst wegen! Und so erfuhren wir,
-laß sie kränklich war, daß sie jetzt wieder obenauf is!! Wir
-Tennen nun also »das Mädel«, wir dürfen folgern, das
+Pastor — Hella von Zerbst wegen! Und so erfuhren wir,
+daß sie kränklich war, daß sie jetzt wieder obenauf ist! Wir
+kennen nun also »das Mädel«, wir dürfen folgern, daß
 der »Fremde«, der dem Karl Sommer die tausend Mark
-spendete, Herr von Selbst war, daß derselbe Herr von Her!!
-den Doktor und Sternkicker würgte, daß er damals 320:
-Monaten, als er bei uns war, bereits mit deäuseiben Saß,::
+spendete, Herr von Zerbst war, daß derselbe Herr von Zerbst
+den Doktor und Sternkieker mimte, daß er damals vor
+Monaten, als er bei uns war, bereits mit denselben Sorgen
 belastet gewesen, die nachher zur Katastrophe führten,
-das Ehepaar mit der Möglichkeit meiner Einmischung jene:
-und daß die verteufelte Krabbe sich rechtzeitig mit meine!
-Zigaretten versah, um nötigenfalls uns lahmzulegen, As
+das Ehepaar mit der Möglichkeit meiner Einmischung rechnete
+und daß die verteufelte Krabbe sich rechtzeitig mit meinen
+Zigaretten versah, um nötigenfalls uns lahmzulegen, was
 ja auch mit mir geschehen ist.«
 
-Oh — jetzt war er wieder in allem mein alter Harald
+Oh — jetzt war er wieder in allem mein alter Harald!
 Sein hageres Gesicht war belebt, seine grauen, ruhigen
 Augen hatten in den Tiefen das Feuer geistiger Überregsamkeit
 …
 
-»Und der Ball heute?« platzte ich heraus, »Geht:es
+»Und der Ball heute?« platzte ich heraus, »Geht es
 nur um Krawuschke, oder …«
 
-»Frage nich!! Ein Kostümfest soll Überraschungen
-bringen … Um halb zehn fahren wir zu den Beruhigten,
+»Frage nicht! Ein Kostümfest soll Überraschungen
+bringen … Um halb zehn fahren wir zu den Venussälen,
 lassen Krawuschke herausbitten, da wir keine Einladungskarten
 haben, — er wird uns einlassen … und ich werde
-von vornherein ehrlich? sein … — Jetzt telephoniere ich an
+von vornherein ehrlich sein … — Jetzt telephoniere ich an
 Gernapp … Du kannst zuhören …«
 
--.«»Falle — hier Harst … Abend, Herr Rat … Ich
+»… Hallo — hier Harst … Abend, Herr Rat … Ich
 wollte Sie bitten, ganz unauffällig die Venussäle heute in
 <@pagebreak/>
 genügender Stärke einzukreisen. Ich werde mir Ihre mir
-so überaus Werte Freundschaft zurückgewinnen, indem ich
+so überaus werte Freundschaft zurückgewinnen, indem ich
 Ihnen heute den Mörder Pallaschs ausliefere, in die Hände
-spiele … — Wie meinen Sie? Sie sind persönlich? da? —
-Wie? — — Sie … haben Karl Sommer entlastet, er ist
-frei? — — Tag überrascht mich außerordentlich … —
+spiele … — Wie meinen Sie? Sie sind persönlich da? —
+Wie? — — Sie … haben Karl Sommer enthaftet, er ist
+frei? — — Das überrascht mich außerordentlich … —
 Danke, mir geht es leidlich … Wiedersehen also.«
 
 Er legt den Hörer weg … Blickt sich nach mir um,
 blickt mich an …
 
-von, das verstehe ein anderer! Sollte Gernapp etwa
-
+»Du, das verstehe ein anderer! Sollte Gernapp etwa
 doch …« — er führt den Satz nicht zu Ende, — wie
 zu sich selbst dann: »Es wird einen Kampf nach drei
-Seiten geben … Unangenehm, aber interessant …! — Ich
-
-was: Ich werde gewinnen!«
+Seiten geben … Unangenehm, aber interessant …! — Ach
+was: Ich *werde* gewinnen!«
 
 <@pagebreak/>
 
@@ -1983,7 +1981,7 @@ Und der zweite Akt der Tragödie begann»…
 Ab Draht die Musik mit einer schrillen, die Nerven
 peinigenden Dissonanz …
 
-Der wutgepeittschte, rauhe Schrei, der auch uns für
+Der wutgepeitschte, rauhe Schrei, der auch uns für
 einen Moment an dieselbe Stelle fesselte, ließ den Kapellmeister
 der Jazzband die Geige absetzen,
 
@@ -2259,7 +2257,7 @@ weißen »Flecken
 
 Schreibe ein neues Anbruch:
 
-—! DornauSszieher,
+—! Dornauszieher,
 
 Darüber nächste«.:2…
 
