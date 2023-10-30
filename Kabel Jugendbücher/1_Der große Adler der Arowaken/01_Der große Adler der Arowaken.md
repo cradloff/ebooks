@@ -4354,10 +4354,9 @@ Hauptniederlassung der Ipurinen in einem breiten, von einem Flüßchen
 durchströmten Tale vor uns. Etwa zweihundert Zelte und rohe Baumhütten säumten
 das Ufer eines runden Sees ein, den das Flüßchen speiste und in dem eine kahle,
 zerklüftete Felseninsel sich befand. Eine Menge Kinder sprang uns entgegen;
-Weiber und ältere Knaben tauchten auf.
-
-Sie begrüßten el Sekreto freudig und warfen mir heimlich bewundernde
-Blicke zu. Auch hier hörte ich immer wieder den Namen Starkhand flüstern.
+Weiber und ältere Knaben tauchten auf, begrüßten el Sekreto freudig und warfen
+mir heimlich bewundernde Blicke zu. Auch hier hörte ich immer wieder den Namen
+Starkhand flüstern.
 
 Zu unserem Schreck erfuhren wir dann, daß sämtliche Männer des Dorfes zwei
 Tagemärsche nordwärts im Urwalde sich befanden, um einige Jaguare einzukreisen
