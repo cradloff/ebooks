@@ -1005,7 +1005,7 @@ Nu bin ick bloß neigierig, wann die neuen Vorhänge wieder
 hochjehen werden … Lange wird’s nich dauern …«
 
 <@pagebreak/>
-»Das ist ja außerordentlimg interessant,« warf Harald
+»Das ist ja außerordentlich interessant,« warf Harald
 ein. »Und die Sonnenflecke, was hat es damit auf sich?!«
 
 Krawuschke nahm sein Rotweinglas, trank es leer, stierte
@@ -1675,22 +1675,22 @@ was: Ich *werde* gewinnen!«
 <h2>3. Kapitel.</h2>
 <h3>Eifersucht.</h3>
 
-Die Verblichene Scheinpracht der alten Venussäle war
-durch) moderne Künstlerhand in eine wilde Farbenorgie vorn
-wandelt worden. Das merkte man schon im Treppenhaus.
+Die verblichene Scheinpracht der alten Venussäle war
+durch moderne Künstlerhand in eine wilde Farbenorgie verwandelt
+worden. Das merkte man schon im Treppenhaus.
 
 Unten im Vestibül zwei Diener in Livree … In der
-Herrengarderobe ein Nieser »reich Kanvaltere aller Schulter
-eingedrungen … Alle so mit einem gewissen Etwas in Augen
+Herrengarderobe ein Riesenbetrieb. Kavaliere aller Schattierungen
+… Alle so mit einem gewissen Etwas in Augen
 und Mienen: Verbrechermerkmale, unverkennbar … für den
 Kundigen. Der Uneingeweihte läßt sich leicht täuschen.
 
 Wir steigen die breite Treppe hinan … Oben wieder
 zwei Diener,
 
-»Die Eintrittskarten bitte.«…«
+»Die Eintrittskarten bitte …«
 
-»Sollen Sie den Herrn Verstanden des Klubs,« sagt
+»Holen Sie den Herrn Vorsitzenden des Klubs,« sagt
 Harald zu dem graubärtigen Diener. »Wir haben noch
 keine Karten … Aber Herr Krawuschke wird …«
 
@@ -1700,84 +1700,84 @@ meint der Livrierte hochnäsig.
 Andere Gäste umdrängen uns …
 
 Die Saaltüren klappen auf — klappen zu … Musik
-Damals heraus.
+quillt heraus.
 
 <@pagebreak/>
 Man wird auf uns aufmerksam … Die Situation wird
 peinlich. Der Diener läßt uns nicht aus den Augen. Seine
-Säuferuwase, der Shnapgvgodem: er paßt hierher! Ein schallsicher
-Kerl … Und sein Zoologe ist nicht besser.
+Säufernase, der Schnapsodem: er paßt hierher! Ein scheußlicher
+Kerl … Und sein Kollege ist nicht besser.
 
-— Ein Gent, als »Serenissimus« im echten Kaninchenhermelinumhang
-mit einer Messer 27 Tone auf dem Schädel
-und einem tellergroßen Zotillonorven um den Hals, dazu
-»unten« im Reitstiefeln und Stallmeisterhosen, faucht Harald
-a.
+Ein Gent, als »Serenissimus« im echten Kaninchenhermelinumhang
+mit einer riesigen Majestätskrone auf dem Schädel
+und einem tellergroßen Kotillonorden um den Hals, dazu
+»unten« in Reitstiefeln und Stallmeisterhosen, faucht Harald
+an …
 
-»Kaninchen, vertrieben Je sich schleimige!! Hier is strenge
-Kontrolle?’
+»Männeken, verdricken Se sich schleinigst! Hier is strenge
+Kontrolle!«
 
 Harald beugt sich vor, flüstert dem Kaninchen-König
-ins Ohr: »Is bin Harald Harst! Holen Sie Krawuschke!
-Er bot u:8 persönlich eingeladen …«
+ins Ohr: »Ich bin Harald Harst! Holen Sie Krawuschke!
+Er hat uns persönlich eingeladen …«
 
-Seine Hoheit nicht dem Orden vom abgestochenen Ziel
-fest zusammen, Ein Bis auf Haralds Hakennase …
+Seine Hoheit mit dem Orden vom abgestochenen Zickel
+fährt zusammen. Ein Blick auf Haralds Hakennase …
 
-»Sofort, Herr Harst …« —
+»Sofort, Herr Harst …«
 
 und August kam … Und wie kam er …! Donnerwetter!
-Orte Kaftan!! Da war der Kaninchenhermelinumhang des
-Kutters vom abgestochenen Ziel nur ein kläglicher BadeiIcur;!
+Das Kostüm!! Da war der Kaninchenhermelinumhang des
+Ritters vom abgestochenen Zickel nur ein kläglicher Badeschurz!
 
-ZwK Pagen trugen August die Hermelinschleppe nach …
-Pagen reiferen Alters, oder sehr füllig, Schenkel wie Dreieinigen,
-— fraglos Damen der Frauenriege des Vorstadt!
-Wild die Lürassteruntform!! Und die Orden!! Und das
-strahlende Gesicht …!! MauzestätischGe Aufgeblasenheit eines
+Zwei Pagen trugen August die Hermelinschleppe nach …
+Pagen reiferen Alters, oben sehr füllig, Schenkel wie Preisringer,
+— fraglos Damen der Frauenriege des Boxklubs!
+Und *die* Kürassieruniform!! Und *die* Orden!! Und *das*
+strahlende Gesicht …!! Majestätische Aufgeblasenheit eines
 Ahnungslosen!
 
 »Oh — sehr nett von Ihnen beiden,« begrüßte er uns
-und preßte uns die Haube. »Kommen Sie man rin … Ich
-nehmt Sie natürlich mit an den Vorstandstisch … Prima
-Hätte … Keener davon ich’s Album … (Er meinte das
-Perbrechtralbum).
+und preßte uns die Hände. »Kommen Sie man rin … Ick
+nehm’ Sie natürlich mit an den Vorstandstisch … Prima
+Jäste … Keener davon in’s Album … (Er meinte das
+Verbrecheralbum)".
 
-»Einen Augenblick …« Harald deutete auf eine Neben für
+»Einen Augenblick …« Harald deutete auf eine Nebentür
 <@pagebreak/>
 … »Dort ist’s jetzt wohl leer … Ich hätte vorher noch
 etwas nicht Ihnen zu besprechen, Krawuschke …«
 
-Aber der horte nicht …
+Aber der hörte nicht …
 
-… Der starrte nur den versoffenen alten Lohndiener von
-der Seite an, und so: 106 Pausbacken verloren dabei all«
-gewarnt die Farbe. So’n drehte er sich sah um.
+Der starrte nur den versoffenen alten Lohndiener von
+der Seite an, und seine Pausbacken verloren dabei allgemach
+die Farbe. Dann drehte er sich jäh um.
 
-Eine Augen flammten. Seine Unterlippe zitterte …
+Seine Augen flammten. Seine Unterlippe zitterte …
 
-»Schert sich wej! — und das galt den beiden Pagen.
+»Schert eich wej!« — und das galt den beiden Pagen.
 
-Dann schritt er auf die Tür zu, hinter ihm her setzte
-der alte Thyceaterkrönungsmantel das blanke Parkett.
+Dann schritt er auf die Tür zu, hinter ihm her fegte
+der alte Theaterkrönungsmantel das blanke Parkett.
 
-Sir traten ein. Das Zimmer war einer der GesellsHostaräume
+Wir traten ein. Das Zimmer war einer der Gesellschaftsräume
 …
 
-Krawuschke stand und größte uns an … Grelle Röte
+Krawuschke stand und glotzte uns an … Grelle Röte
 schoß ihm in die Wangen.
 
-Was — wollen Sie von mir, Herr Harst?«
+»Was — wollen Sie von mir, Herr Harst?«
 
 »Ehrlich spielen will ich … Krawuschke, Sie sind der
 Mörder des Pallasch, nur Sie! Und heute werde ich Ihnen
-dicken beweisen. Um es gleich zu sagen: Flucht ist umschlug!«
+dies beweisen. Um es gleich zu sagen: Flucht ist unmöglich!«
 
-»Der — weeß is …! Der Herr Rat steht ja da draußen
-als Lohnbviener … Diese vafluchte Polente!! Haben Sie uns
-ermordet mitgebracht, Herr Harst?«
+»Det — weeß ick …! Der Herr Rat steht ja da draußen
+als Lohndiener … Diese vafluchte Polente!! Haben Sie uns
+det innjebrockt, Herr Harst?«
 
-»Sein. Ich wollte es zwar. Aber Gernapp hatte bereits
+»Nein. Ich wollte es zwar. Aber Gernapp hatte bereits
 alles angeordnet.«
 
 Gernapp — — der Lohndiener?! Sollte der Verbrecher
@@ -1787,58 +1787,59 @@ es war der Rat!
 
 Krawuschke lachte plötzlich schrill auf …
 
-»Hat der Verschob Worte …!! Als wie ich der Werden?!
+»Hat der Mensch Worte …!! Als wie ick der Merder?!
 Ich — mit das Alibi?! Nee — nee, Sie scherzen man,
 Herr Harst …«
 
-»Is starrte nicht, Vielleicht war es auch nur Totschlag …
+»Ich scherze nicht. Vielleicht war es auch nur Totschlag …
 <@pagebreak/>
-Ich) will Sie nicht zu einem ehrlichen Geständnis überreden.
-Sie würden ja, doch leugnen, und doch — Sie waren’s! Ich
+Ich will Sie nicht zu einem ehrlichen Geständnis überreden.
+Sie würden ja doch leugnen, und doch — Sie waren’s! Ich
 kenne auch das Motiv, Krawuschke … Das ging nicht
 um Geld, das ging um das Auslöschen eines, der etwas
 verraten könnte!«
 
 August in seinem lächerlichen Aufputz war wieder leichenfahl
-geworden … Schweißperlen traten ihn auf die Stirn …
+geworden … Schweißperlen traten ihm auf die Stirn …
 Er japste … Sein mächtiger Brustkorb hob sich ruckweise …
 Der Atem flog.
 
 Dann biß er sich in die Unterlippe … Ein paar Bluttropfen
-quollen hervor, liegen über das Kinn hinab …
+quollen hervor, liefen über das Kinn hinab …
 
 Ein gräßlicher Anblick …
 
-Über: August hatte eine ungeheure Energie …
+Aber: August hatte eine ungeheure Energie …
 
-»Herr Harst, Nu is’s jenug mit’s Witzemachen,« quälte
-er hervor, »Nu wollen wir wirklich vajniegt sein … Rin
-den Laden — — und saufen … und tanzen … und
-der Herbei hole die dämliche Polizei … Ich bin unschuldig,
-10 das werde ich beweisen … Sie haben mir warrkaftig so ’n
-dicken auf’s Konzept jebracht … Also jehen wir … Und
+»Herr Harst, nu is’s jenug mit’s Witzemachen,« quälte
+er hervor. »Nu wollen wir wirklich vajniegt sein … Rin
+in den Laden — — und saufen … und tanzen … und
+der Deibel hole die dämliche Polizei … Ick bin unschuldig,
+und das werde ick beweisen … Sie haben mir warraftig so ’n
+bißken aus’s Konzept jebracht … Also jehen wir … Und
 der Herr Rat, der kann mir …«
 
-Nach dieser unflätigen RedenL2art hatte er sich völlig
-wic&dergrfunden. Er rauschte in den Flur, winkte den beiden
+Nach dieser unflätigen Redensart hatte er sich völlig
+wiedergefunden. Er rauschte in den Flur, winkte den beiden
 Pagen-Jungfrauen, und hoch erhobenen Hauptes schritt er
-23! Gernapp vorüber. Wir beide bildeten sein Gefolge. —
+an Gernapp vorüber. Wir beide bildeten sein Gefolge. —
 
-Die drei Säle waren überfällt. Allee, was Berlin N.
+Die drei Säle waren überfüllt. Allee, was Berlin N.
 an zweifelhaften Existenzen »besserer Art« aufzuweisen hatte,
 gab sich heute hier ein Stelldichein.
 
-— Um dies eine zu betonen: Vorläufig benahmen sich all
+Um dies eine zu betonen: Vorläufig benahmen sich all
 diese Kavaliere und Damen in ihren zum Teil glänzenden
 Kostümen durchaus »anständig«, — um das Ding beim
-preßten Namen zu nennen. Hätte man einen gebildeten
+rechten Namen zu nennen. Hätte man einen gebildeten
 Provinzler in diese Gesellschaft geführt, hätte er nur das
-Gesamtbild auf sich wirken lassen: er hätte Kamm einen
+Gesamtbild auf sich wirken lassen: er hätte kaum einen
 <@pagebreak/>
 Unterschied zu den Kostümfesten seiner Kreise festgestellt.
-erschien« kann mich hier auf Detailschilderungen nicht einlassen
 
-Hm Sogenannter Blauen Saal war die Tombola»-Tafel
+Ich kann mich hier auf Detailschilderungen nicht einlassen.
+
+Im Sogenannter Blauen Saal war die Tombola-Tafel
 aufgebaut, bewacht durch sechs handfeste »Ritter«.
 
 Dem Orchester gegenüber stand der Vorstandstisch
@@ -1848,24 +1849,24 @@ Krawuschke stellte uns vor …
 Vierzig Personen erhoben sich, starrten uns an …
 
 Allerhand Namen klangen an unsere Ohren … Dann
-kam ein hagerer Gent, als Von Juan maskiert, auf L:’18
-… Streckte uns die Hand hin … Es war Karl Sommer.
-Sein Monokel saß wie eingemauert … Sein verlebte Gift
-schmunzelte. — »Große Ehre, meine Kehrten … Alt
+kam ein hagerer Gent, als Don Juan maskiert, auf uns
+zu … Streckte uns die Hand hin … Es war Karl Sommer.
+Sein Monokel saß wie eingemauert … Sein verlebtes Gesicht
+schmunzelte. — »Große Ehre, meine Herren … —
 Wenn Sie dort bitte Platz nehmen wollen … So …
 Hier übersehen Sie den Saal am besten … Jestatten: dies
-hier ich Fräulein Pagotta, Krawuschkes Braut … In die
-Mitte zurecht;en die Ehrengäste, Anni!! So, — Nu hat
-die Sache Geschickt!! — Sekt jefällig? Es is ’ne jute Marke.«
+hier is Fräulein Pagotta, Krawuschkes Braut … In die
+Mitte zwischen die Ehrengäste, Anni!! So, — Nu hat
+die Sache Schick!! — Sekt jefällig? Es is ’ne jute Marke.«
 
-Nun saßen wir also wirklich) an der Ehrentafel … Vor
-uns das Getriebe, Geschiebe der Tanzenden … Rechte die
-Keine Bühne für die späteren Vorführungen, um uns
+Nun saßen wir also wirklich an der Ehrentafel … Vor
+uns das Getriebe, Geschiebe der Tanzenden … Rechts die
+kleine Bühne für die späteren Vorführungen, um uns
 her aber die anderen Ehrengäste mit unbehaglichen Gesichtern,
-verlegen … Rechts von Harst auf goldenem Prunkstuyl
+verlegen … Rechts von Harst auf goldenem Prunkstuhl
 August Krawuschke, würdevoll, kaltschnäuzig … Oder —
-»schlief es nur so?! Er trank beängstigend … Dann, als ich
-mit Fräulein Anni Pagotta bereits einen Tor erledigt
+schien es nur so?! Er trank beängstigend … Dann, als ich
+mit Fräulein Anni Pagotta bereits einen Fox erledigt
 hatte, als Harst gleichfalls tanzte, — — dann kam der
 erste Zwischenfall …
 
@@ -1876,32 +1877,32 @@ zurück …
 Da drängte sich eine äußerst elegante »Madame Pompadour«
 mit einer Halbmaske vor dem Gesicht an Krawuschkes
 <@pagebreak/>
-Thron heran und flüsterte Hm etwas zu …
+Thron heran und flüsterte ihm etwas zu …
 
-Diese Pompadour war Tempel. Da konnte Annichen mit
-ihrem Rokokofähndxen nicht mithalten …
+Diese Pompadour war pompös. Da konnte Annichen mit
+ihrem Rokokofähnchen nicht mithalten …
 
-August warf den Krönungsniantkel ab und folgte der
-Madskierten.
+August warf den Krönungsmantel ab und folgte der
+Maskierten.
 
 Annichen sank neben mir auf ihren Stuhl. »Wer ist
-das?!«!stieß sie hervor.! …
+das?!« stieß sie hervor.
 
 Man kennt ja nun die flammende Eifersucht dieser
-Dirnen. Abgründe der Seele Omen sich dem Kundigen auf,
+Dirnen. Abgründe der Seele tuen sich dem Kundigen auf,
 in deren Tiefen doch ein klarer rosiger Funke besserer
-Gefühle leuchtet Man kennt diese Dirnen, wie sie aus
+Gefühle leuchtet. Man kennt diese Dirnen, wie sie aus
 toller Eifersucht ihre Liebhaber verraten, an den Galgen
 bringen.
 
-Tragödien bereiteten sich hier vor. Rechts nie hatte ich,
+Tragödien bereiteten sich hier vor. Noch nie hatte ich,
 eingehüllt in ein derartiges Kostüm, ein derartiges Fest
-mitgemacht … Nase nie hatte ich das geradezu Grauenvolle
+mitgemacht … Noch nie hatte ich das geradezu Grauenvolle
 einer sollen Scheinwelt, unter deren lachender Fratze
 das Verbrechen, das Zuchthaus, der Tod lauern, so bedrückend
 empfunden … Jedes Aufheulen der Jazzmusik tat mir
-weh … Is trank … trank … Ich sah Angst Augen
-dem tanzenden Paare folgen … Is hörte Harald flüstern:
+weh … Ich trank … trank … Ich sah Annis Augen
+dem tanzenden Paare folgen … Ich hörte Harald flüstern:
 
 »Wer das ist?! Oh — eine alte Bekannte Krawuschkes!«
 
@@ -1920,98 +1921,99 @@ Anni stand auf.
 »Bleiben Sie!« befahl Harald leise,
 
 Er nahm ihre Hand. Er hielt sie fest. »Setzen Sie
-sich wieder …! Setzen Ei. sich!! Seien Sie vernünftig!«
+sich wieder …! Setzen Sie sich!! Seien Sie vernünftig!«
 
 Sie riß sich los …
 
-»Mut keene Zicken!« knurrte der Hering warnend.
+»Mach keene Zicken!« knurrte der Hering warnend.
 
 <@pagebreak/>
 »Anni, kalt Blut …!! Warum soll der August nich mit ’ne
-andre sitzen! Hab« dir nich so dämlich!« Er vertrat ihr den
-Weg
+andre tanzen! Hab’ dir nich so dämlich!« Er vertrat ihr den
+Weg …
 
-Aber sie, jeht blaß und mit wilden Augen, rief schrill;
-»Sag’ — das is die seine Kanaille, — — das muß sie
-sein …!! Laß mir durch, Karte …« Sie stieß ihn beiseite …
-Und ehe im mich’s versah, hatte sie mir hinleitet
-den Degen aus der Scheibe gerissen …
+Aber sie, jetzt blaß und mit wilden Augen, rief schrill:
+»Das — das is die feine Kanaille, — — das muß sie
+sein …! Laß mir durch, Karle …« Sie stieß ihn beiseite …
 
-Sie Übel um den Tisch herum — hinein in das?
+Und ehe ich mich’s versah, hatte sie mir blitzschnell
+den Degen aus der Scheide gerissen …
+
+Sie lief um den Tisch herum — hinein in das
 Gewühl der Tanzenden …
 
-Wir hinterdrein … —
+Wir hinterdrein …
 
 Und doch war dies alles kaum beachtet worden. Innerhalb
-einer Stunde hatte sich hier durch raschen Ülkohbolgenuß
-das Bild vollkommen verändert. Firma wahre See!
-von diesem Berlin N, kam zum Vorschein …
+einer Stunde hatte sich hier durch raschen Alkoholgenuß
+das Bild vollkommen verändert. Die wahre Seele
+von *diesem* Berlin N. kam zum Vorschein …
 
-Das war die Lebensügier zügelloser Naturen, »die sämtlich
+Das war die Lebensgier zügelloser Naturen, die sämtlich
 am Rande der gebahnten Wege der menschlichen Gesellschaft
 dahinschlichen — wie Raubtiere, immer in der
 Furcht vor Fallen und Kugeln … Das waren primitive,
 verderbte Gemüter, Genießer des Augenblickes … Das waren
-Ausgestoßene, Gemiedene, in denen nur ein Wille noch
-keimte: Lebensziel, Genußsucht, Betäubung!!
+Ausgestoßene, Gemiedene, in denen nur *ein* Wille noch
+keimte: Lebensgier, Genußsucht, Betäubung!!
 
-Vorhanden waren’s … Gefolgschaft der Eros, Jünger
+Bachanten waren’s … Gefolgschaft der Eros, Jünger
 der Finsternis …
 
-Und gerade jetzt die Musik das süße, weiche Paganinilied
+Und gerade jetzt die Musik das süße, weiche Paganini-Lied
 von Lehar:
 
-Gern … hab’ ich die Frau’n geküßt …
+<p class="centered">Gern … hab’ ich die Frau’n geküßt …</p>
 
 Wie wehmütiges Locken kann’s über Weiberlippen … —
 
 Alles sang mit …
 
-Sektkorken Knall!ten …
+Sektkorken Knallten …
 
 Dann — — jäh brach die Musik ab …
 
-Und der zweite Akt der Tragödie begann»…
+Und der zweite Akt der Tragödie begann …
 
 <@pagebreak/>
 
-<h2>3. Kapitel.</h2>
+<h2>4. Kapitel.</h2>
 <h3>Bruder Leichtfuß.</h3>
 
-Ab Draht die Musik mit einer schrillen, die Nerven
+Ab brach die Musik mit einer schrillen, die Nerven
 peinigenden Dissonanz …
 
 Der wutgepeitschte, rauhe Schrei, der auch uns für
 einen Moment an dieselbe Stelle fesselte, ließ den Kapellmeister
 der Jazzband die Geige absetzen,
 
-Eine Menschenmauer, ein bunter, glitzernden Wall
-alberner Maschen stemmte sich uns entgegen … Schredver«-
-zerrte Gaunervisagen, von Neugier enge ’pannte Schminkgesichter
+Eine Menschenmauer, ein bunter, glitzernder Wall
+alberner Masken stemmte sich uns entgegen … Schreckverzerrte
+Gaunervisagen, von Neugier angespannte Schminkgesichter
 starrten auf den leeren Raum inmitten der in Parfümwolken
-gehüllten Wunder.
+gehüllten Mauer.
 
-Rücksichtslos stiegen wir diese kläglich aus tollem Rausch
+Rücksichtslos stießen wir diese kläglich aus tollem Rausch
 Erwachten beiseite
 
-Grell beschienen von der Lichtflut unzähligen Glühlampen
-lag da auf den! Rücken August Krawuschke — —
+Grell beschienen von der Lichtflut unzähliger Glühlampen
+lag da auf dem Rücken August Krawuschke — —
 bereits fahl und verfallen das breite, kühne Gesicht, die
 Augen geschlossen … Der Adel des Todes war über seine
 <@pagebreak/>
-Frage gebreitet, die ledig!ich etwas wie ein schreckvolles
-Meinigen auszudrpcfken schneller, Zu seinen Füßen stand Karl
-Sommer, der v)eifrig … hielt in Spinnen Meinen die kecke
-»um, — Anni, farblos, halb ohmnmehtig, in der schlaff
-verabhängenven Rechten noch meinen Degen …
+Züge gebreitet, die lediglich etwas wie ein schreckvolles
+Grauen auszudrücken schienen. Zu seinen Füßen stand Karl
+Sommer, der Hering … hielt in seinen Armen die kecke
+Anni, — Anni, farblos, halb ohnmächtig, in der schlaff
+herabhängenden Rechten noch meinen Degen …
 
-Bevor ich noch reich begriff, daß ringsum das dumpfe
-Gemurmel zu immer lau erst, gellender Anklage sich erhob …
-»—. Sie alt ihn erstochen …«
+Bevor ich noch recht begriff, daß ringsum das dumpfe
+Gemurmel zu immer lauterer, gellender Anklage sich erhob …
 
-— — bevor noch Harst sich irgendwie einziehen konnte, tauchte
+<p class="centered">»… Sie hat ihn erstochen …«</p>
 
-Gewann auf der rotnasige Lohndiener!
+— bevor noch Harst sich irgendwie einmischen konnte, tauchte
+Gernapp auf, der rotnasige Lohndiener!
 
 »Platz — — Kriminalpolizei!!«
 
@@ -2024,41 +2026,41 @@ Da zog Harst mich plötzlich zurück …
 
 Hinter uns schloß sich die Mauer wieder … Niemand
 achtete auf uns. Wir eilten dem Ausgang zu … Auch
-der kein Hindernis Die Treppe hinab Unten die Ankernden
-… Hm Nu hatten wir unsere Mäntel, wollte …
+hier kein Hindernis. Die Treppe hinab … Unten die Garderoben
+… Im Nu hatten wir unsere Mäntel, Hüte …
 Hinaus in den Regen … Leer gefegt die düstere Straße …
-Regenschauer … Sturmstöße … Rechts ein paar Anlehnten.
-Links eine große dunkle elegante Limousine Kaum haben
+Regenschauer … Sturmstöße … Rechts ein paar Autotaxen.
+Links eine große dunkle elegante Limousine … Kaum haben
 wir sie erreicht — hinter uns flüchtiges Tapp-tapp …
 
 Eine Frau … Langer Pelzmantel, großer spanischer
 Schleier … Der Mantel wölbt sich unten, klafft … Bunte
 Seide schimmert … Stöckelschuhchen treten in Regenpfützen …
 
-Madonna Pompadour, Krawuschkes Tänzerin …!
+Madama Pompadour, Krawuschkes Tänzerin …!
 
 Und: dritter Akt!
 
 Harst tritt vor …
 
-»Einen Augenblick, Frau von Selbst … Is nehme
+»Einen Augenblick, Frau von Zerbst … Ich nehme
 an, Ihr Gatte sitzt am Steuer … Wollen Sie veranlassen,
-daß er Raum Blücherstraße zehn fährt. Wir begleiten Sie.
+daß er nach Blücherstraße zehn fährt. Wir begleiten Sie.
 Wir haben ganz dringend etwas zu besprechen.«
 
 <@pagebreak/>
-Die Frau schlägt 1« kam den Schleier hoch …
+Die Frau schlägt langsam den Schleier hoch …
 
 Ein totenblasses Gesicht starrt uns an … —
 
 »Harst …!« Es klingt wie ein Hauch, der über die
-Lippen einer Entscheidenden weht …
+Lippen einer Verscheidenden weht …
 
-Sie schwankt … Ein Pastor Laternenpfahl stößt sie …
+Sie schwankt … Ein nasser Laternenpfahl stützt sie …
 Sie bewegt die Lippen … Ein herzzerreißendes Lächeln
 umspielt den vollen Mund …
 
-»Flucht — — zu Ende!« erklingt’s nochmals.
+»Harst — — zu Ende!« erklingt’s nochmals.
 
 »Vielleicht doch nicht, gnädige Frau,« sagt Harald hastig.
 »Nehmen Sie sich bitte zusammen … Wir dürfen hier
@@ -2067,71 +2069,71 @@ kein Aufsehen erregen …«
 Der Chauffeur schwingt sich vom Sitz, reißt die große
 Brille herab …
 
-»Was soll das?!« — eine herrliche Stimme, und doch
-frivol verstecken Angst. »Lassen Sie die Dame gefälligst unbesetzt
-1«
+»Was soll das?!« — eine herrische Stimme, und doch
+voll versteckter Angst. »Lassen Sie die Dame gefälligst
+unbelästigt!«
 
 Da — zum dritten …
 
 »Harst!« flüstert der pikante Kindermund, und der Mann
 prallt zurück …
 
-»Herr von Selbst, wenn überhaupt noch etwas zu
-
-reiten ist: Jahren Sie zu mir — sofort! mahnt Harald
-wieder. »Sie verstehen: Ich sage — zu retten ist, — Steigen
+»Herr von Zerbst, wenn überhaupt noch etwas zu
+retten ist: Fahren Sie zu mir — sofort!« mahnt Harald
+wieder. »Sie verstehen: Ich sage — zu retten ist. — Steigen
 Sie ein, gnädige Frau — schnell!«
 
 Und sie gehorcht …
 
 Der Wagen gleitet davon.
 
-Harst sitzt neben Hella von Selbst, die gebrochen in »er
-Ecke lehnt. Er hat ganz zart ihre Hand genommen, sich alt
+Harst sitzt neben Hella von Zerbst, die gebrochen in der
+Ecke lehnt. Er hat ganz zart ihre Hand genommen, sich zu
 ihr gebeugt … Was er spricht, verstehe ich nicht … Aber
 — jetzt überläßt sie ihm willig den buntseidenen großen Pompadour,
-diesen schillernden Teufel, aus den!, durch den
-Stoff gebohrt, etwas Blankes hindurchgefaßt …
-Rhein schreckliches Grinsen: blanker Stahl — eine Dolchspitze!
+diesen schillernden Beutel, aus dem, durch den
+Stoff gebohrt, etwas Blankes hindurchgrinst …
+
+ein schreckliches Grinsen: blanker Stahl — eine Dolchspitze!
 —
 
 <@pagebreak/>
 Sie weint jetzt, weint wie ein hilfloses, unreifes, kleines
 Wesen, das bei einer groben Ungehörigkeit ertappt worden ist.
 
-Das Auto rast — durch Regen, Sturm, Buche; den windgepeitschten
-Tiergarten … Sdcattenlzxaft huschen an den
-verseuchten Fenstern andere flinke Ungetüme auf lautlosen
+Das Auto rast — durch Regen, Sturm, durch den windgepeitschten
+Tiergarten … Schattenhaft huschen an den
+feuchten Fenstern andere flinke Ungetüme auf lautlosen
 runden Gummifüßen vorüber …
 
-Hohenzollerndamm … Die Brücke. Einen Moment
-setze ich das ruhelose Dietrichs des Witlebenturmes.
+Hohenzollerndamm … Die Brücke … Einen Moment
+sehe ich das ruhelose Drehlicht des Witzlebenturmes.
 
-Der Wagen hält Frau Hella trocknet die Augen, läßt
+Der Wagen hält. Frau Hella trocknet die Augen, läßt
 den Schleier wieder fallen. Harald hilft ihr hinaus. Herr
-von Selbst stiert den Wagen, schreitet dann neben mir
+von Zerbst sichert den Wagen, schreitet dann neben mir
 durch den Vorgarten.
 
 Und: vierter Akt! …
 
 Szene: Harsts Arbeitszimmer, am Kamin in den tiefen
 Sesseln mit zermürbten Gesichtern ein gehetztes Paar. Wir
-beide auf Lockern vor ihnen, — Harst läßt den schweren
-tiefroten Burgunder in die alten siamesischen Gläser fließen.
+beide auf Hockern vor ihnen. — Harst läßt den schweren
+tiefroten Burgunder in die alten französischen Gläser fließen.
 
-»Trinken Sie bitte! Bätracßten Sie sich durchaus
-als meine Gäste.«
+»Trinken Sie — bitte! Betrachten Sie sich durchaus
+als meine Gäste …«
 
-Herrn von Selbst gefurchte Stirn glättet sich ein wenig,
-und ein stiller, streihßelnder Blick trifft seine Frau …
+Herrn von Zerbst gefurchte Stirn glättet sich ein wenig,
+und ein stiller, streichelnder Blick trifft seine Frau …
 
-Sie trinken wir auch …
+Sie trinken … wir auch …
 
 Hellas schmale Hände zittern noch leicht. Sie leert das
 Glas … und ihr rotes Zünglein gleitet über feuchte Lippen,
 verschwindet wieder,
 
-»Zigarre — Zigarette …?« — und Harald, spielt wieder
+»Zigarre — Zigarette …?« — und Harald spielt wieder
 den liebenswürdigen Gastgeber … Das Zigarrenlämpchen
 macht die Runde … Der Rauchverzehrer glüht: eine Eule mit
 feurigen Augen und weit geöffnetem Schnabel.
@@ -2139,81 +2141,80 @@ feurigen Augen und weit geöffnetem Schnabel.
 Zögernd nimmt Frau Hella eine Mirakulum …
 
 »Diesmal eine harmlose …« meint Harald nachsichtig
-lächelnd, »Oh — Sie brauchen nicht rot zu werden, gnädige
+lächelnd. »Oh — Sie brauchen nicht rot zu werden, gnädige
 Frau … Ich verarge Ihnen nichts. Krawuschke war eine jener
-
 <@pagebreak/>
-Westen, die mein Deck steinhart machen. Witzjesihl Ware war
-Unfug … Der Mengen verdiente sein Hinab, im Grüne
-ist er vor) billig weggekommen … Und ein Flur, gute
-Frau, daß ich Krawuschke vorbereiten konnte, daß in mir
-auch sagte, Sie würden diesen Ball zu erneut … letzten
-Versuch benutzen, völlig … frei zu wer « Sie merken,
-daß ich jetzt endlich das Dunkel durchaus Lange genug
-habe im mich quälen müssen … Es Uhren böse Tage
-für nich. — Wodurch halte Klammerte Sie in der Hand,
-güüdige Frau? Sprechen Sie ganz offen … Was hier
+Bestien, die mein Herz steinhart machen. Mitgefühl wäre da
+Unfug … Der Mensch verdiente sein Schicksal, im Grunde
+ist er noch billig weggekommen … Und — ein Glück, gnädige
+Frau, daß ich Krawuschke vorbereiten konnte, daß ich mir
+auch sagte, Sie würden diesen Ball zu einem … letzten
+Versuch benutzen, völlig … frei zu werden … Sie merken,
+daß ich jetzt endlich das Dunkel durchschaue. Lange genug
+habe ich mich quälen müssen … Es waren böse Tage
+für mich. — Wodurch hatte Krawuschke Sie in der Hand,
+gnädige Frau? Sprechen Sie ganz offen … Was hier
 erörtert wird, dringt erst dann über die Grenzen dieses
-Zümtmer&s hinaus, wenn für Sie beide keine Gefahr mehr
+Zimmers hinaus, wenn für Sie beide keine Gefahr mehr
 besteht.«
 
 Frau Hella schluchzte leise …
 
-»-.- Ich tat’s für … meinen Bruder«…«
+»… Ich tat’s für … meinen Bruder …«
 
-»he für Karl Sommer …«
+»Also für Karl Sommer …«
 
-»In … Er war so leichtsinnig …! Er hakte … genossen
-… IQ) war damals noch nicht achtzehn … Und
-he;malt hatte der alte Palast) noch eine Pfandleihe …
-Icke versetzte den Schmuck meiner Mutter, benutzte dabei
+»Ja … Er war so leichtsinnig …! Er hatte … gestohlen
+… Ich war damals noch nicht achtzehn … Und
+damals hatte der alte Pallasch noch eine Pfandleihe …
+Ich versetzte den Schmuck meiner Mutter, benutzte dabei
 die Papiere unseres damaligen Dieners August Krawuschke …
 Ich hatte mich … mich … verkleidet … als junger Herr …
-I? war ja nur von dem einen Wunsch besucht, die Stunde
-vor uns abzuwenden … Karl hakte einem!Leinen Juwelier
-zwei Ringe gestohlen … Ich unterschrieb bei dem Plauderten
-eine Erklärung, das …«
+Ich war ja nur von dem einen Wunsch beseelt, die Schande
+von uns abzuwenden … Karl hatte einem kleinen Juwelier
+zwei Ringe gestohlen … Ich unterschrieb bei dem Pfandleiher
+eine Erklärung, daß …«
 
 Sie konnte nicht mehr weitersprechen …
 
-»Regen Sie sich doch; nicht so auf,« begütigte Harald
-welch. »Und dieses Papier, diese gefälschte Erklärung brachte
+»Regen Sie sich doch nicht so auf,« begütigte Harald
+weich. »Und dieses Papier, diese gefälschte Erklärung brachte
 Krawuschke an sich und … verübte andauernd daraufhin
-Erpressungen. — Bern« — Sie sich da) … Was Sie
-bekam haben, mag dem D::. traben des Gesetzes nach strafbar
+Erpressungen. — Beruhigen Sie sich doch … Was Sie
+getan haben, mag dem Buchstaben des Gesetzes nach strafbar
 sein … Jeder Vernünftige wird sie freisprechen. — Wollen
 <@pagebreak/>
-wir also diese Laut für Sie schnell beenden … Sie und
-In Ga’le, dem Sie sich) anvertraut hatten, suchten schließlich
-mit jeden. Preis das verderbliche Papier zu vernichten. Ihr
-Watte spielte den Doktor Fiedler. Sie vermuteten die Urkunde
+wir also diese Qual für Sie schnell beenden … Sie und
+Ihr Gatte, dem Sie sich anvertraut hatten, suchten schließlich
+um jeden Preis das verderbliche Papier zu vernichten. Ihr
+Gatte spielte den Doktor Fiedler. Sie vermuteten die Urkunde
 in dem Schrank des Klubs. Der Schrank sollte in
 Flammen aufgehen. Es gelang nicht. Da haben Sie denn den
 alten Pallasch, der alles wußte, für sich gewinnen wollen …
 Sie gingen zu ihm, fanden ihn erschlagen auf … Eine
-halbirre Idee, das Papier könnte vielleicht in der Wollenes)
-Schieblade liegen, veranlaßte sie, das Geld in Ihre Taschen
+halbirre Idee, das Papier könnte vielleicht in der Kassenschieblade
+liegen, veranlaßte sie, das Geld in Ihre Taschen
 zu stopfen. Ihr Gatte — inzwischen hatten Sie die Beziehungen
-zu Ihrem reuigen Bruder wieder ah:fgenommen
-— Überredete diesen, ist) für Sie zu opfern … So knarren
-Sie wieder aus dem Polizeipalast hinaus … — Übergebekr
+zu Ihrem reuigen Bruder wieder aufgenommen
+— überredete diesen, sich für Sie zu opfern … So kamen
+Sie wieder aus dem Polizeipalast hinaus … — Übergehen
 wir alles Überflüssige. Das Papier war noch immer in
-zerawuschkes Besitz. Aber Pallasch, der zweite Mitwisser,
+Krawuschkes Besitz. Aber Pallasch, der zweite Mitwisser,
 war für alle Zeit stumm. Da kamen Sie auf den Gedanken,
-Unsinn auf andere Weise zur Herausgabe der Fälschung zu
-zwingen. Sie ahnten, daß er den alten Pallasc& ermordet
+ihn auf andere Weise zur Herausgabe der Fälschung zu
+zwingen. Sie ahnten, daß er den alten Pallasch ermordet
 hatte, weil dieser ihm als Mensch, der käuflich war, gefährlich
-dünkte. Sie besuchten den Ball … Sie mögen zum Axcußersten
+dünkte. Sie besuchten den Ball … Sie mögen zum Äußersten
 entschlossen gewesen sein, zum Glück war Krawuschke durch
-wirr bereits dahin unterrichtet worden, daß Flucht aus
-den Sälen unmöglich. Is bin überzeugt: Er wollte sterben, er
-hätte selbst Hand an sich gelegt, wenn nicht von meinen
+mich bereits dahin unterrichtet worden, daß Flucht aus
+den Sälen unmöglich. Ich bin überzeugt: Er wollte sterben, er
+hätte selbst Hand an sich gelegt, wenn nicht von meiner
 Seite, freilich mit innerem Widerstreben, den Dingen eine
 andere Wendung gegeben worden wäre. Anni Pagotta stach
-Krawuschke nieder … Sie flohen … Der Dol4 in Ihrem
+Krawuschke nieder … Sie flohen … Der Dolch in Ihrem
 Pompadour, gnädige Frau, war unnötig gewesen … —
-Und jetzt, wo Ihrerseits kaum noch« etwas hinzuzufügen
-ist, muß im; Sie bitten, in Ihrem Interesse in Ihre Wohnung
+Und jetzt, wo Ihrerseits kaum noch etwas hinzuzufügen
+ist, muß ich Sie bitten, in Ihrem Interesse in Ihre Wohnung
 heimzukehren, da ich erwarte, daß hier bei mir sehr
 bald jemand erscheinen wird, der Sie … nicht sehen soll …«
 
@@ -2224,42 +2225,42 @@ Das Auto rollte davon … — —
 
 Zehn Minuten später …
 
-Da saß wirklich) Rat Gernapp in demselben Sessel,
+Da saß wirklich Rat Gernapp in demselben Sessel,
 den Frau Hella vorher innegehabt hatte …
 
-Trank Burgunder, langte eine Importe und meinte mit
-
+Trank Burgunder, rauchte eine Importe und meinte mit
 unmerklichem Lächeln:
+
 »So … so, — also Sie haben keine Ahnung, mein
-lieber Harst, wer die Madonna Pompadour gewesen ist …
-Schade! Ich) auch nicht … Unter diesen Umständen werden
+lieber Harst, wer die Madama Pompadour gewesen ist …
+Schade! Ich auch nicht … Unter diesen Umständen werden
 wir sie auch wohl kaum finden … Und damit ist das Aktenstück
-Pallasch-Krawuschke geschlossen … — Dreifuß«
+Pallasch-Krawuschke geschlossen … — Prosit!«
 
-Er … wählte alles …
+Er … wußte alles …
 
-Über in seiner Brust schlug das Herz eines Menschen …
-Und Vorsicht sein heißt menshliczJe Schwächen nachsichtig
+Aber in seiner Brust schlug das Herz eines Menschen …
+Und Mensch sein heißt menschliche Schwächen nachsichtig
 beurteilen. — —
 
 Am Tage drauf schrieben gewisse Blätter, daß Harald
-Harst »wieder einmal« Arzt daneben gehorcht habe … »Ein
+Harst »wieder einmal« arg daneben gehauen habe … »Ein
 Fehlschlag erster Güte …!! Und das sollte Herrn Harst
 nun endlich ein wenig vorsichtiger machen. Er hielt Karl
 Sommer für den Täter, er … « — — und so weiter … —
 
-Heute lüfte ich den schweren Vorhang …
+Heute lüfte *ich* den schweren Vorhang …
 
-So sah) Harsts Besitz;ztaq aus …
+*So* sah Harsts Fehlschlag aus …
 
-Und hiermit schließe aus ich das Aktenstück der …
-weißen »Flecken
+Und hiermit schließe auch ich das Aktenstück der …
+weißen Flecken …
 
-Schreibe ein neues Anbruch:
+Schreibe ein neues Rubrum:
 
-—! Dornauszieher,
+<p class="centered em">Der Dornauszieher.</p>
 
-Darüber nächste«.:2…
+Darüber nächstens.
 
 Gute Nacht …
 
