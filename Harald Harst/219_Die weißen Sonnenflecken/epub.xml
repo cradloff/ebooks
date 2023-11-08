@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">d157bba1-b9b2-47de-8074-90205db63039</entry>
+<entry key="title">Die weißen Sonnenflecken</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">219</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Die weißen Sonnenflecken.
+
+Es handelt sich hier nicht, um dies vorauszuschicken, um jene chemischen Vorgänge auf der Sonne, die die Wissenschaft mit »Sonnenfleckenbildung« bezeichnet, also nicht um jene gewaltigen Explosionen auf dem Tagesgestirn, deren elektrische Auswirkungen wir bis zur Erde spüren.
+
+Es handelt sich um etwas ganz harmloses, man könnte sagen, um eine kindliche Spielerei, die jeder echte Lausbub mal gerissen hat. Es gehört dazu nur ein Spiegel und Sonnenschein.
+
+Fastnachtsball.
+
+Harald litt.
+
+Er litt an den Fehlschlägen. Er litt unter Gernapps Verärgerung, unter dem eigenen Unvermögen, die … festgefahrene Karre wieder aus dem zähen Schlamm ungelöster Rätsel und Widersprüche hervorzuziehen.
+
+Schlimme Zeiten für mich. Er war gereizt, überreizt.  Es war wie damals, als die Presse aus Anlaß eines anderen Falles über ihn ihre Kübel mit Sensationslauge ausgegossen und nur die ehrliche Kameradschaft der Freunde vom Alexanderplatz diesem Treiben ein Ende gemacht hatte.
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (219) Die weißen Sonnenflecken.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1928</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
