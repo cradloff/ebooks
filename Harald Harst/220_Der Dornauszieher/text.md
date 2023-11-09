@@ -10,7 +10,7 @@ mal besuchen, können Sie ihn sich ansehen. Er ist genau
 32 Zentimeter hoch, mit Sockel, aus weißem Marmor, den der
 Zahn der Zeit oder der Tabakrauch leicht gelblich verfärbt
 hat. Es ist ein Knabe, der auf einem Baumstumpf in holder
-Nacktheit sitzt, den linken Fuß auf den rechten Senkel
+Nacktheit sitzt, den linken Fuß auf den rechten Schenkel
 gelegt hat und sich einen eingetretenen Dorn auszieht.
 
 Es ist also die bekannte Marmorfigur … Bei Wertheim
@@ -19,10 +19,10 @@ weiß es nicht, denn ich habe den Dornauszieher nicht gekauft,
 sondern gestohlen. Regelrecht gestohlen.
 
 Wenn Sie zu mir kommen, werde ich Sie darauf aufmerksam
-machen, daß der Sockel aus Zwei Platten besteht,
+machen, daß der Sockel aus zwei Platten besteht,
 <@pagebreak/>
 die ich, als sie sich voneinander gelöst hatten, sehr prosaisch
-mit Studenten wieder zusammengekleistert habe.
+mit Syndetikon wieder zusammengekleistert habe.
 
 Kommen Sie aber bitte erst im übernächsten Monat
 zu mir, denn dies hier schreibe ich 2100 Meter über dem
@@ -30,11 +30,11 @@ Meeresspiegel in Telemarken in Norwegen auf dem Haukeli-Plateau
 in der Haukeli-Hütte. —
 
 »Es ist lange, lange her …« sagte Harald, als wir in
-Stirn in Norwegen den Zug verließen. »Wir sind vor
+Skien in Norwegen den Zug verließen. »Wir sind vor
 vier Jahren zum letzten Mal hier gewesen, und das war
 im Sommer. Jetzt im Januar werden wir kaum den Dampfer
 bis Dahlen benutzen können und in den Schleusen schwitzen
-— acht nein!«
+— ach nein!«
 
 Und er belachte seinen billigen Witz und deutete auf die
 Schneemauern ringsum. —
@@ -43,14 +43,14 @@ Norwegen im Winter …
 
 Klein-Sibirien …
 
-Klein—Grönland …
+Klein-Grönland …
 
 So ähnlich …
 
 Der Mann, der uns dann zwei Tage später mit seinem
 Schlitten und zwei ruppigen Pferden auf der einsamen
-Straße von Dahlen nach Längs spät abends bis zur
-Dahinrasen Schlucht brachte, hielt uns sicherlich für übergeschnappt.
+Straße von Dahlen nach Laargös spät abends bis zur
+Dahlingker Schlucht brachte, hielt uns sicherlich für übergeschnappt.
 
 Zwanzig Grad Kälte …
 
@@ -63,13 +63,13 @@ ihren beiden Rucksäcken und Koffern aus, stellten diese
 in den Schnee, und Harald sagte nochmals zu dem alten,
 verwitterten Bauer:
 
-1… Sie wissen Bescheid … Sie haben uns bis Shengrußk
+»… Sie wissen Bescheid … Sie haben uns bis Shengrußk
 <@pagebreak/>
 gebracht … Wenn Sie verschwiegen sind, bekommen Sie nachher
 noch hundert Kronen.«
 
 Hundert Kronen sind für einen so armen Teufel, dessen
-elendes Gehöft oben an der Steilwand über dem Balkentor
+elendes Gehöft oben an der Steilwand über dem Dahlen-See
 wie ein Schwalbennest klebt, ein Vermögen.
 
 Der Mann stotterte etwas von »Schwur leisten …« und
@@ -80,104 +80,102 @@ wollten wir.
 
 Es war jetzt elf Uhr abends. Der dritte Januar. Zwanzig
 Grad Kälte. Eisiger Wind, der unsere kalten Knochen
-noch mehr durchführte. Und wie gesagt: Schneetreiben!
+noch mehr durchkühlte. Und wie gesagt: Schneetreiben!
 
 Zunächst holte Harald die Kognakflasche aus der Reisetasche
-he:vor.
+hervor.
 
-»Lauf’, das Schlimmste kommt los
+»Sauf’, das Schlimmste kommt noch …«
 
-Mancdchmal drückt er sich sehr hie aus.
+Manchmal drückt er sich sehr plebejisch aus.
 
 Ich soff.
 
-»Faß mir auch noch was drin!« schnauzte er.
+»Laß mir auch noch was drin!« schnauzte er.
 
-»Dann hättest du sagen müssen: »Trinkt«! — Saufen
+»Dann hättest du sagen müssen: »Trink«! — Saufen
 und trinken ist ein Unterschied …«
 
 Er trank.
 
-Es war nicht mehr viel in der geräumigen Bücher …
+Es war nicht mehr viel in der geräumigen Buddel …
 
 »Frechheit!« knurrte er, und dann schmiß er sie in eine
-Schneewehe. »Zur Strafe bleibst du hier und bewacht
+Schneewehe. »Zur Strafe bleibst du hier und bewachst
 die Koffer und Rucksäcke. Ich will erst mal sehen, ob die
 Luft rein ist.«
 
-Und er stampfte davon … in die Schlucht kroch …
-Das heißt: Von der Schlucht war nichts zu sehen. Es
-war überhaupt nichts zu sehen. Nur Schneeflocken, so pro
+Und er stampfte davon … in die Schlucht hinab …
+Das heißt: Von der Schlucht war *nichts* zu sehen. Es
+war überhaupt nichts zu sehen. Nur Schneeflocken, so groß
 wie Talerstücke. Unsere Koffer und Rucksäcke waren nur
 noch weiße Hügelchen.
 
 Und trotzdem herrschte eine ganz seltsame Beleuchtung,
 <@pagebreak/>
 die schon so mancher Reisende im winterlichen Nordland
-b2obachtet hat. Den Eingeborenen ist diese Erscheinung nichts
-Neues. Unser Schlittenbauer nannte sie »Unordentlich«, —
-meinte damit Nachricht in seinem Kauderwelschdialekt, —
+beobachtet hat. Den Eingeborenen ist diese Erscheinung nichts
+Neues. Unser Schlittenbauer nannte sie »Noordenslick«, —
+meinte damit Nordlicht in seinem Kauderwelschdialekt, —
 natürlich Unsinn, denn Nordlichter sind in Telemarken äußerst
 selten.
 
-Der Osloer Professor Färbt hat dieses »Schneelicht« auf
+Der Osloer Professor Jörby hat dieses »Schneelicht« auf
 elektrische Wirkungen des Flockenfalls zurückgeführt. Möglich,
 daß es stimmt. Jedenfalls war’s dunkel und doch nicht
-darüber. Eine geisterhafte bleibe Dämmerung schien dort,
+dunkel. Eine geisterhafte bleiche Dämmerung schien dort,
 wo der Wind Luftlöcher in das Schneetreiben stieß, diese
 »Löcher« auszufüllen.
 
-Ich hatte »nun nicht die geringste Luft, hier zum Eisblock
+Ich hatte nun nicht die geringste Lust, hier zum Eisblock
 zu gefrieren. Der Viertel Liter Kognak — es wird
 wohl etwas mehr gewesen sein — hatte meine Unternehmungslust
-ins kUngemessene gesteigert.
+ins Ungemessene gesteigert.
 
-Es war ja ein Unsinn von Harald: Wer sollte. jetzt
+Es war ja ein Unsinn von Harald: Wer sollte jetzt
 wohl in dem alten Steinkasten weilen?! Wozu da erst
-Da) groß refogno8zieren?! Der fragwürdige Lord Sheldon
+noch groß rekognoszieren?! Der fragwürdige Lord Sheldon
 war erst vor zwei Wochen wieder hier gewesen, und vor
 einem Monat war er nach allem, was uns über seine
 Geschäfte bekannt, nicht zu erwarten.
 
 Ich schleppte den einen Koffer also bis zum Abhang,
-nahm denn einen Ausguck — und leicht sauste ich in die
-Schlucht hinab — — tadellos, wie auf einem Nadel.
+nahm denn einen Rucksack — und heidi sauste ich in die
+Schlucht hinab — — tadellos, wie auf einem Rodel.
 
 Betrunkene haben immer Glück.
 
 Darauf krabbelte ich wieder empor. Auf dem Hartschnee
 lag etwa zehn Zentimeter »Neuer«, und mit Hilfe meines
-Bergstocks erreichte ich den Weg, unternahm die Unterpartie
+Bergstocks erreichte ich den Weg, unternahm die Rodelpartie
 zum zweiten Male und rutschte Harald bis vor
 die Beine …
 
-»Teufel, bist du denn Menü!!« er spie Gift und Galle …
+»Teufel, bist du denn verrückt!!« er spie Gift und Galle …
 »Wenn du in eine Spalte gesegelt wärest, hätte das …«
 
 <@pagebreak/>
 »ich bin aber nicht gesegelt. Schimpf nicht … Da
+sind die Koffer, die Rucksäcke, ich selbst: in prima Zustand!«
 
-Prinzessin d die Koffer, die Kajüte, ich selbst: in prima Zustand!«
-
-»Ich danke!! Dein Zustand ist mehr alkoholischy wie
-
+»Ich danke!! Dein Zustand ist mehr alkoholisch wie
 prima.« Er lachte schon wieder. »Gut denn … Tragen wir
 die Sachen hin. Die Bude ist leer …«
 
-… Die Bude war Lord Edward Sheldons Sommerhaus, sein
+Die Bude war Lord Edward Sheldons Sommerhaus, sein
 Anglerheim. Ein reicher Junggeselle wie er konnte sich das
 schon des Forellenbaches wegen leisten, der im Sommer
-hier Furcht die Schlucht koste und schäumte.
+hier durch die Schlucht toste und schäumte.
 
-Die Bude, ein einstöckigen Bau aus Steinblöcken und
+Die Bude, ein einstöckiger Bau aus Steinblöcken und
 dicken Baumstämmen, war derart eingeschneit, daß Harald
-durchs die Dachluke hatte eindringen können. Sie war gut
+durch die Dachluke hatte eindringen können. Sie war gut
 verschlossen gewesen, aber Schlösser sind kein Hindernis für
 uns,
 
 Nun waren wir also in der Blockhütte, die fünf Räume
-besaß: Wohnstube, Schlafstube, Kühe nebst Bad, und Toilette.
-Alles sehr schritt und praktisch.
+besaß: Wohnstube, Schlafstube, Küche nebst Bad, und Toilette.
+Alles sehr schlicht und praktisch.
 
 Während wir nun rasch den Ofen in der Wohnstube
 mit Holz und Preßkohlen heizten, wurden wir wieder mehr zu
@@ -187,24 +185,25 @@ Alkohol wirkte bei mir noch intensiver,
 »Verrückte Idee,« meinte ich. »Zu dieser Jahreszeit hier
 für Wochen Robinson spielen zu wollen …!! Und weswegen?!
 Weil ein alter norwegischer Dorfarzt ein Phantast ist und dir
-einen blöden Brief geschrieben ha!! Der Mann verdient
+einen blöden Brief geschrieben hat! Der Mann verdient
 Prügel — und wir auch!! Nichts werden wir hier finden.
 Totfrieren werden wir … Stumpfsinnig werden wir werden …
 Unerhört ist dieser Unsinn …!«
 
-»Leg’ Ei bitte dort auf den Diwan und Schlaf dich
-erst mal aus.« Der Blick dazu!!
+»Leg’ dich bitte dort auf den Diwan und schlaf dich
+erst mal aus.« *Der* Blick dazu!!
 
 Ich kuschte …
 
 <@pagebreak/>
 »Sei nur nicht gleich grob … — Harald, wo gehst
 du hin?«
+
 »Suchen …«
 
 »Ich komme mit …«
 
-Er sagte die Achseln. »Also doch neugierig!!«
+Er zuckte die Achseln. »Also doch neugierig!!«
 
 Dann suchten wir.
 
@@ -220,14 +219,14 @@ Kellerräume.
 
 Hier war nichts zu finden. Wenn Harald auch mit
 einem Hammer den Fels überall abklopfte, — wenn er
-auch4 mit einer Ausschauen, die mir schließlich lästig wurde,
+auch mit einer Ausdauer, die mir schließlich lästig wurde,
 sogar die Steinwände untersuchte und den Mörtel aus
 einzelnen Fugen herausbrach, — wenn er auch nachher
 oben im Hause ebenso machte: der Erfolg blieb derselbe.
 
-I4 hatte übergenug davon. Ich braute Tee, kochte
+Ich hatte übergenug davon. Ich braute Tee, kochte
 eine Suppe, deckte den Tisch, sah das Thermometer klettern,
-— — Harald rumorte rosa immer herum.
+— — Harald rumorte noch immer herum.
 
 Blödsinn?
 
@@ -237,25 +236,34 @@ Der Tee war gut. Der Rum noch besser. Die warmen
 Filzschuhe am allerbesten.
 
 Oh — diese Wohnstube Seiner Lordschaft war ganz
-gemütlich. Vor dem Fenster stand ein Vererbte; aus
+gemütlich. Vor dem Fenster stand ein Schreibtisch aus
 gebeiztem Kiefernholz, die Platte grün bezogen. Neben dem
 einfachen Schreibzeug eine Marmorfigur …
 
 <@pagebreak/>
 Merkwürdig!
-Weshalb hatte dieser englische Angelten hier ausgerechnet
+
+Weshalb hatte dieser englische Angelfex hier ausgerechnet
 den Dornauszieher mit in die Einsamkeit geschleppt?!
 Mit der qualmenden Zigarre im Munde, Hände in den
-Sorgenfalten beschaute ich mir diese kleine Statue …
+Joppentaschen beschaute ich mir diese kleine Statue …
+
 Komisch wirkte sie hier inmitten dieser Umgebung. Sie
 war das einzige Stück in diesem Raum, das zwecklos erschien.
+
 Harald polterte soeben die Kellertreppe empor …
-In diesem Drohung war jeder Schritt zu hören.
+
+In diesem Blockhaus war jeder Schritt zu hören.
+
 Nun stieß er die Tür auf …
+
 Ich drehte mich grinsend um …
-»Na, ist dein Biereifer nun antrifft abgekühlt, und.
-ME6E
+
+»Na, ist dein Biereifer nun endlich abgekühlt, und
+hat …«
+
 Ich verstummte …
+
 Harsts Gesicht war farblos wie Kalk …
 
 <@pagebreak/>
@@ -268,33 +276,35 @@ Harsts Gesicht war farblos wie Kalk …
 Er kam schwerfällig bis zu dem Lehnstuhl am Ofen, sank
 hinein …
 
-»Zog … naß!« bat er mal …
+»Kog … nak!« bat er matt …
 
 Er … soff …
 
 »Was fehlt dir, Harald?«
 
-»Ich … ich … habe sie gefunden«…«
+»Ich … ich … habe sie gefunden …«
 
-»Wen 2«
-»Die aht4:«
-»Was — — was, acht — — alt?!«
+»Wen?«
+
+»Die acht …«
+
+»Was — — was, acht — — acht?!«
 
 »Ja … die acht, die in den Kisten kamen … Sie …
 leben …«
 
 Er wischte sich über die Stirn … Und die war feucht …
 
-»Mein Alter, ich habe noch nie einen sollen Schreck
+»Mein Alter, ich habe noch nie einen solchen Schreck
 bekommen wie soeben … Gib mir noch ein Glas Kognak …
-So, danke … Ich beneide dich … Wäre ich halb betrunken —
+So, danke … Ich beneide dich … Wäre ich halb betrunken
 <@pagebreak/>
 wie du gewesen, hätte mir die Sache nichts ausgemacht. So
-aber »11«
+aber …!!«
 
 Er fröstelte …
 
-»Tatsächlich: sie leben! Daran läßt sich nicht Zweifeln.
+»Tatsächlich: sie leben! Daran läßt sich nicht zweifeln.
 Und der Doktor hat ganz recht gehabt: der Lord treibt
 hier ungeheuerliche Dinge!«
 
@@ -308,18 +318,18 @@ Katzen … — wer, was!«
 
 Ich war mit einem Schlage nüchtern.
 
-»Wie — — Menschen?! Hier?! Wo?!t«
+»Wie — — Menschen?! Hier?! Wo?!«
 
 »Unten — ganz unten …! — Oh der Schurke!! Wenn
 ich nicht so viel Ausdauer gehabt hätte! Und nicht so viel
-Erfahrung besäße!! Der … Schuf!! Wenn wir die Ärmsten
+Erfahrung besäße!! Der … Schuft! Wenn wir die Ärmsten
 nur wach bekämen!«
 
 »Was?! — Schlafen sie denn?«
 
 »Ich weiß es nicht … — Gib mir eine Zigarette … —
-Danke. — Das tut wohl … — Nein, bekam in nur
-einen Schrei Ich glaubte, es seien Mumien … Aber als
+Danke. — Das tut wohl … — Nein, bekam ich nur
+einen Schreck! Ich glaubte, es seien Mumien … Aber als
 ich der blonden Frau am Puls fühlte, spürte ich ganz schwach
 den Herzschlag … Da bin ich ausgerissen … Das war zu
 viel — auch für meine Nerven!«
@@ -330,7 +340,7 @@ Sprach lebhafter: »Du sahst doch auch den großen Kurbelsschlüssel
 auf den Kartoffeln liegen … Wir beachteten ihn
 nicht. Nachher, als ich allein war, sagte ich mir, daß
 das Ding doch eine Bedeutung haben müsse, einen Zweck.
-Hat es auch. In dem einen Pfosten unten, dem dichten, ist
+Hat es auch. In dem einen Pfosten unten, dem dicksten, ist
 ein Astloch. Ich tastete es mit den Fingern ab und fand
 da drinnen einen Zapfen für die Kurbel, setzte diese auf,
 drehte mit aller Kraft, — — und da hob sich ein Stück des
@@ -338,25 +348,25 @@ drehte mit aller Kraft, — — und da hob sich ein Stück des
 Felsbodens, klappte auf, ganz langsam … — — Doch,
 gehen wir wieder hinab. Ich bin nun wieder ich selbst.
 Nimm die Lampe mit. Die Felstür steht noch offen …
-Die Kurbel kleines auf dem Zapfen.«
+Die Kurbel steckt noch auf dem Zapfen.«
 
 Er erhob sich elastisch.
 
 Ich meinte: »Einen Augenblick … Nehmen wir Kognak
-Mit
+Mit …«
 
 Wir gingen in die Küche. In den Dielen war hier eine
 Falltür, der Zugang zur Kellertreppe. Die Falltür war hochgeklappt.
-Harald stieg abwärts, die Petroleumlampe in he?
+Harald stieg abwärts, die Petroleumlampe in der
 Linken.
 
-Ich nahm heimlich einen langen Schirm … Besser ist
-besser, dachte im … Und daran war was Wahres, denn
+Ich nahm heimlich einen langen Schluck … Besser ist
+besser, dachte ich … Und daran war was Wahres, denn
 als mein berühmter Freund, dessen Schatten an der breiten
-Treppenwange eigentlich nur aus Hakennase bestand, sei!
+Treppenwange eigentlich nur aus Hakennase bestand, jetzt
 vor mir den Mittelgang des Kellers erreicht hatte, rief
 er in einem Tone, als ob er den leibhaftigen Gottseibeiuns
-redlichste:
+erblickte:
 
 »Die Felsplatte ist zugeklappt!! Wie ist das möglich?!«
 
@@ -364,10 +374,10 @@ Ich trat schnell neben ihn.
 
 Ich … sah gar nichts … Da war der Mittelgang
 zwischen den durch Bretterwände abgeteilten Verschlägen …
-Da war links der dies Pfosten, auch ein Getrost. Ade
+Da war links der dicke Pfosten, auch ein Astloch. Aber
 sonst?! Nichts — gar nichts!!
 
-»Wo war denn das Loch?« fragte im unglaublich erstaunt.
+»Wo war denn das Loch?« fragte ich unglaublich erstaunt.
 
 Harald antwortete zerstreut:
 
@@ -375,19 +385,19 @@ Harald antwortete zerstreut:
 deutete, sich bückend, die Umrisse der beweglichen Platte an.
 Infolge der unebenen Oberfläche des Felsens, der Überall
 auch kleine Risse, Buckel, Vertiefungen und Spalten aufwies,
-war von irgendeiner bestimmten Grenzlinie nichts 3!!
+war von irgendeiner bestimmten Grenzlinie nichts zu
 erkennen.
 
 Er richtete sich wieder auf. »Unbegreiflich!! Es ist ausgeschlossen,
 <@pagebreak/>
-daß diese halb Meter die Platte wieder von
+daß diese halb Meter dicke Platte wieder von
 selbst zugefallen ist. Ich hatte ja mit der Kurbel versucht:
 sie senkte sich nur, wenn man die Kurbel nach links drehte.
 Und nun ist auch die Kurbel verschwunden. Da ist das
-Getrost, in dem der Zapfen steckt. — Halt, -- was soll
-das … 2?!«
+Astloch, in dem der Zapfen steckt. — Halt, — was soll
+das …?!«
 
-E? Kniff- zu 5 55
+Er griff zu …
 
 Mit einer Stecknadel war da an dem linken Pfosten
 ein Zettel befestigt gewesen, eine aus einem Notizbuch herausgerissene
@@ -395,35 +405,37 @@ Seite.
 
 Auf dem Blatt Papier stand mit kindlich unbeholfenen
 lateinischen Buchstaben in schlechtem Englisch:
-»Sie sind hier widerrechtlich eingedrungen. Verpflichten
+
+> »Sie sind hier widerrechtlich eingedrungen. Verpflichten
 Sie sich schriftlich auf Ehrenwort, nichts davon zu verraten,
 was Sie hier sahen, und Sie dürfen das Haus
 lebend verlassen. Legen Sie die Urkunde am Fuße des
 dicken Pfostens nieder bis acht Uhr morgens. Tun Sie
 dies nicht, so wird Ihnen verboten, sich wieder zu entfernen.
 Versuchen Sie es trotzdem, so tun Sie es auf
-»eigene Gefahr hin.
-Der Hausmeister.«
+eigene Gefahr hin.
+
+<p class="right">Der Hausmeister.«</p>
 
 Dies war der erste Befehl, den wir während dieser
 Winterrobinsonade in Lord Sheldons Anglerheim erhielten.
 
 Daß der Wisch mit seinen Sprachfehlern auf uns keinen
 überwältigenden Eindruck machte, ist selbstverständlich. Er
-verriet uns, daß es hier außer uns und den acht Lebendig Toten
-doch noch« ein menschliches Wesen gab: den Herrn
+verriet uns, daß es hier außer uns und den acht Lebendig-Toten
+doch noch ein menschliches Wesen gab: den Herrn
 Hausmeister des Lords!
 
 Immerhin war die Sache insofern unangenehm, als
-Etuis keinerlei Mittel. zur Verfügung standen, diesen Hausmeister,
+uns keinerlei Mittel zur Verfügung standen, diesen Hausmeister,
 <@pagebreak/>
-der ja fraglos unten in der Höhle bei den;acht
-Unglülichen steckte, unsere innigere persönliche Bekanntschaft
+der ja fraglos unten in der Höhle bei den acht
+Unglücklichen steckte, unsere innigere persönliche Bekanntschaft
 aufzuzwingen. Wir hätten denn gerade Dynamit oder Steinmeißel
 und Hämmer besitzen müssen, um den Zugang nach
 unten zu erzwingen, und derartige Dinge gab es hier nicht.
 
-Harald steckte den List in die Tasche. »Gehen wir wieder
+Harald steckte den Wisch in die Tasche. »Gehen wir wieder
 nach oben, mein Alter … Wozu sollen wir uns hier einen
 Schnupfen holen?!«
 
@@ -431,19 +443,19 @@ Oben in der Wohnstube war das Thermometer auf
 dreizehn Grad geklettert. Der Ofen fauchte. Wir setzten uns
 vor die offene Ofentür, nachdem wir für alle Fälle die
 Stubentür abgeschlossen hatten. Die Stube hatte nur die
-eine Tür. Sie war aus Eichenholz, sehr Ei, innen mit
+eine Tür. Sie war aus Eichenholz, sehr dick, innen mit
 braun gestrichenen Eisenplatten belegt, die vernietet waren.
 
 Ich möchte hier gleich einfügen, daß sämtliche Türen von
 derselben Beschaffenheit waren. Die Haustür war sogar noch
 fester und hatte drei Sicherheitsschlösser, verdeckte Angeln
-und hätte sich Suche nur mit Dynamit sprengen lassen. Die
+und hätte sich auch nur mit Dynamit sprengen lassen. Die
 Fensterläden wieder bestanden aus dicken Eisenplatten. —
 All dies hatten wir schon vorhin bei der Durchsuchung
-festgestellt. Es gab eben nur den einen Zugang und Au6sgang
+festgestellt. Es gab eben nur den einen Zugang und Ausgang
 für uns: durch das weniger sorgfältig geschützte Dachfenster.
 — Dies möchte ich betonen. Unsere Lage wird dem
-Leser dadurch leichter verständlich, zumal noch hervorzuholen
+Leser dadurch leichter verständlich, zumal noch hervorzuheben
 ist, daß wir keinerlei Handwerkszeug gefunden hatten.
 
 Wir saßen nun also an dem warmen Ofen. Harst tat
@@ -453,29 +465,29 @@ verwinden,« meinte er.
 
 Ich qualmte meine Zigarre und besichtigte den Zettel
 des Herrn Hausmeisters. Auf der Rückseite waren fettige
-Fingerspuren sichtbar. Ich roh daran: Petroleumfinger!
+Fingerspuren sichtbar. Ich roch daran: Petroleumfinger!
 
 Dann nahm ich aus unserem Garderobenkoffer den
 <@pagebreak/>
 Brief des Doktor Hilmar Sörensen aus Shengrußk heraus
-
 und las ihn zum xten Male, jetzt mit anderen Augen.
-»Shengrußk, Norwegen, Telemarken,
 
-Post Dahlen. 24: 12. 192.55
+<p class="right">»Shengrußk, Norwegen, Telemarken,</p>
 
-Sehr geehrter Herr Harst,
+<p class="right">Post Dahlen. 24. 12. 192…</p>
 
-ob Sie sich meiner noch erinnern werden, bezweifle ich.
+<p class="centered">Sehr geehrter Herr Harst,</p>
+
+> ob Sie sich meiner noch erinnern werden, bezweifle ich.
 Vier Jahre sind es her. Da brannte das Hotel Dahlen
-nieder, da waren. Sie mit Ihrem Freunde dort hinter
-einem Verbrecher her. Es gab Verwundete. Ich — wurde
+nieder, da waren Sie mit Ihrem Freunde dort hinter
+einem Verbrecher her. Es gab Verwundete. Ich wurde
 gerufen, und nachher speisten wir zusammen. Es waren die
 interessantesten Stunden meines stillen Dorfarztdaseins.
 
-Heute am Weihnachtsabend, wo ich alter Junggeselle
+> Heute am Weihnachtsabend, wo ich alter Junggeselle
 einsam am Schreibtisch saß und über seltsame Beobachtungen,
-die im in letzter Zeit machen konnte, nachgrübelte,
+die ich in letzter Zeit machen konnte, nachgrübelte,
 fielen Sie mir ein. Mich mit meinem Verdacht
 an die Behörden zu wenden, wäre Zwecklos, weil alles in
 der Luft schwebt, weil ich nichts Positives weiß. Der,
@@ -483,30 +495,31 @@ gegen den mein ganz unbestimmter Argwohn, hier in der
 Nähe könnte vielleicht Ungeheuerliches in der Weltabgeschiedenheit
 unserer Gegend sich abspielen, — dieser reiche
 Engländer gilt hier oben als Wohltäter. Er spendet große
-Summen für Schuft- und Kirchenbauten, für Wegeverbesserungen,
+Summen für Schul- und Kirchenbauten, für Wegeverbesserungen,
 für die Armen. Der Name Lord Edward Sheldon
 wird hier in der armen Bevölkerung zugleich mit dem
 Gottes ausgesprochen.
 
-Also Lord Sheldon heißt der vielleicht fünfzigjährige
-Sonderling, der vor einem Jahr die Dahinrasen Schlucht
+> Also Lord Sheldon heißt der vielleicht fünfzigjährige
+Sonderling, der vor einem Jahr die Dahlinker Schlucht
 kaufte, sich dort ein Blockhaus errichten ließ und den
 ganzen Sommer über Forellen angelte. Ich lernte ihn
-Hm vorigen Juni kennen. Er hatte sich angeblich beim
+im vorigen Juni kennen. Er hatte sich angeblich beim
 Reinigen seiner automatischen Pistole eine Kugel in die
 Schulter gejagt … Als ich zu ihm kam — er haust ganz
 allein in seiner Hütte —, empfing er mich äußerst wortkarg.
 <@pagebreak/>
 Er zeigte sich mir als ein vornehmer Herr mit
-verschlossenen, hochmütigem, bartlosem Gesicht …«
+verschlossenem, hochmütigem, bartlosem Gesicht …«
+
 — Ich sehe, daß Doktor Sörensens Brief mir hier zu viel
-»Raum beansprucht. Der gute Doktor hatte vierzehn Seiten
+Raum beansprucht. Der gute Doktor hatte vierzehn Seiten
 geschrieben. Ich will doch nur den Extrakt wiedergeben, das
-Mittags.
+Wichtige.
 
 Sörensen erkannte sofort, daß die Kugel niemals durch
 Unvorsichtigkeit und durch des Lords eigene Hand diesen
-Weg genommen haben konnte. Der Einschuß saß hinten
+Weg genommen haben konnte. Der Einschuß saß *hinten*
 an der linken Schulter. Die Kugel, Kleinkaliber, hatte das
 Schlüsselbein gestreift und war im Bogen wieder fast zur
 Einschußstelle zurückgekehrt, lag dicht unter der Haut. Der
@@ -986,7 +999,7 @@ ein halbflügges Spatzenjunges gefunden, zog es groß und
 Überwand durch die Liebe zu dem armseligen Sperling den
 Selbstmordtrieb.
 
-Hier war es eine Feldmaus8, eine graubräunliche Atem
+Hier war es eine Feldmaus, eine graubräunliche Atem
 Muslim große Maus, die ich zuerst für eine Ratte gehalten. Sie
 hockte am Rande des Filzteppichs unweit der Screibtische3e
 auf dem dunklen Linoleumbelag der Dielen, und nur ihre
