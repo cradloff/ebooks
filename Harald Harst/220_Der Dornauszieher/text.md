@@ -549,24 +549,24 @@ erzählt.
 <h2>3. Kapitel.</h2>
 <h3>Scharfe Schüsse.</h3>
 
-»Leg’ doch den Brief da weg,« jagte Harald da. »Wir
+»Leg’ doch den Brief da weg,« sagte Harald da. »Wir
 wollen ihn überhaupt verbrennen. Her damit … So … da
-gebt er in Flammen auf … — Besprechen wir den Fall
-nunmehr auf unsere Weise. Rufe aber erst mit deinem
-Sessel näher heran. Wir wissen nicht, ob wir nicht. des
-lauscht werden …« Er rieb ein Zündholz an, und seine
+geht er in Flammen auf … — Besprechen wir den Fall
+nunmehr auf unsere Weise. Rücke aber erst mit deinem
+Sessel näher heran. Wir wissen nicht, ob wir nicht belauscht
+werden …« Er rieb ein Zündholz an, und seine
 Mirakulum und seine Lippen zauberten ein paar jener
 tadellosen Rauchringe hervor, die, langsam nach oben schwebend
-und sich dehnend, noch; immer meine Bewunderung
+und sich dehnend, noch immer meine Bewunderung
 hervorrufen. Ich selbst habe es in dieser Kunst nie sehr
-weit gebracht. Ich Wüste den Rauchringen nach… Mit
-einem Male, dicht unter der niederen, braun. gefirnißten
+weit gebracht. Ich blickte den Rauchringen nach … Mit
+einem Male, dicht unter der niederen, braun gefirnißten
 Holzdecke des Zimmers, kam merkliche Unruhe in die zarten
 Gebilde. Sie zerflossen — wie Nebel durch einen Windstoß.
 
 Windstoß …
 
-… Ja — durch die lange Schlucht stieß, der Wintersturm
+Ja — durch die lange Schlucht stieß der Wintersturm
 mit seinem Schneetreiben in wütenden Stößen hindurch,
 <@pagebreak/>
 säuselte, fauchte, kreischte im Schornstein, heulte um den
@@ -574,75 +574,75 @@ flachen Giebel, verstummte, erhob aufs neue seine Stimme …
 
 Urgemütlich wär’s hier in diesem Stübchen mit altnorwegischen
 Bauernmöbeln, dem echt norwegischen grellbunten
-Ziegenhaarfilzteppich und dem Beruhigen Licht der
+Ziegenhaarfilzteppich und dem geruhigen Licht der
 großen Petroleumlampe gewesen — urgemütlich, wenn nicht
-das Außergewöhnliche in schreFfhafter Form uns umlauert.
+das Außergewöhnliche in schreckhafter Form uns umlauert
 hätte und wenn wir nicht halb und halb Gefangene gewesen
 wären.
 
-Harald formte neue Rauchringe. Auch die zerflatterten.
+Harald formte neue Rauchringe. Auch die zerflatterten
 oben. Dann sagte er ganz leise: »Der Hauptpunkt aus des
 Doktors Brief sind die acht Kisten, die der Lord heimlich
 nachts per Auto in größeren Abständen empfing — heimlich!
-Der Zollbeamte aus dem Dorfe hielt einen sollen Transport
+Der Zollbeamte aus dem Dorfe hielt einen solchen Transport
 auf. Der Lord steuerte das Auto selbst. Neben ihm saß
 nur noch eine kleine, tief vermummte Gestalt. So erzählte
 es die Frau des Beamten aus Gewissensbedenken dem
 Doktor, weil eben ihr Mann sich durch dreitausend Kronen
-von Sheldon hatte bestehen lassen, nachdem der Engländer
+von Sheldon hatte bestechen lassen, nachdem der Engländer
 zunächst dem unbequemen Zöllner eine Pistole vor das
 Gesicht gehalten hatte. Jedenfalls: Acht Kisten kamen irgendwoher
 mit einem unbekannten Inhalt, die letzte Ende Oktober,
 als hier schon alles unter Eis und Schnee begraben.
 Der Doktor schloß aus dem Benehmen des Lords dem Zollbeamten
 gegenüber, daß die Kisten außerordentlich gefährliche
-Dinge — gefährlich für Sheldon — enthalten haben:
+Dinge — gefährlich für Sheldon — enthalten haben
 müßten. Er hatte das Glück, den vorletzten Transport hier
 in der Schlucht beobachten zu können. Er verbarg sich
 unweit der Haustür hinter Erlengestrüpp. Als die Riesenkiste
-aus dem offenen Auto ausgehoben wurde, wobei wieder
+aus dem offenen Auto ausgeladen wurde, wobei wieder
 die vermummte Gestalt half, hörte er deutlich aus der Kiste
-dumpfe, aus schrille Laute, entweder von einem Tier oder
+dumpfe, auch schrille Laute, entweder von einem Tier oder
 einem Menschen. — Er ging der Sache nicht weiter nach,
 <@pagebreak/>
 bis er erfuhr, daß der Lord sowohl am 18. November als
 auch am 18. Dezember in aller Heimlichkeit sein Blockhaus
-für drei Tage besucht habe, und zwar verkleide!! Als
+für drei Tage besucht habe, und zwar verkleidet!! Als
 Geschäftsreisender, als Hausierer. Trotzdem hatte ein Bauer
 ihn erkannt. Da schrieb der Arzt an uns, und trotz deines
 Widerspruchs, mein Alter, reisten wir hierher. Zum Glück.
 Die Fahrt hat sich gelohnt. Wir stecken mitten in einem
 der seltsamsten Abenteuer, das sich uns je darbot. — Erörtern
 wir das hier Erlebte. Wir durchsuchen das Blockhaus,
-stellen fest, daß es bis auf das eine Dachfenster, das jeder]by)
+stellen fest, daß es bis auf das eine Dachfenster, das jedoch
 ebenfalls durch ein starkes Patentschloß und einen Eisenladen
-gestützt war, einer kleinen Festung gleicht. Wir sind, abgesehen
+geschützt war, einer kleinen Festung gleicht. Wir sind, abgesehen
 von diesem Bodenfenster, hier eingesperrt. Wir finden
 im Keller die acht leeren Kisten. Sie tragen die Zeichen
 überseeischen Transportes. Der Lord soll eine eigene Jacht
 besitzen und in London sein Palais haben. Die Kisten
 mögen aus London gekommen sein. Sie enthielten fraglos
-die fünf Männer und die drei Frauen, die icm unten in
+die fünf Männer und die drei Frauen, die ich unten in
 der natürlichen, warmen Höhle unter dem Keller auf acht
-schmalen Holzkisten sah und vor denen ich — ich schäme
+schmalen Holztischen sah und vor denen ich — ich schäme
 mich — jämmerlich auskniff. Wir glaubten uns hier allein,
 es ist jedoch noch der »Hausmeister« da, und das wird die
 vermummte Gestalt aus Sörensens Brief sein. Dieser Wächter
 steckt unten in der für uns unzugänglichen Grotte. Er
-verlangt von uns sofortige Räumung des Hauses und Beimessen,
+verlangt von uns sofortige Räumung des Hauses und Schweigen,
 also völlig Unannehmbares. Wir werden jetzt, inzwischen
 bin ich nämlich zu einem bestimmten Entschluß gelangt,
 diesem Burschen den Ausgang aus der Grotte versperren,
-indem wir die Kisten über der Falltür bis zur See so
-festkeilen, das die Steinplatte sich nicht mehr heben läßt.
+indem wir die Kisten über der Falltür bis zur Decke so
+festkeilen, daß die Steinplatte sich nicht mehr heben läßt.
 Dann werden wir bis zum 18. Januar hier ausharren, an
 welchem Tage Seine Lordschaft wieder erscheinen dürfte,
 und ihn feierlich in Empfang nehmen. — Komm’ …! Aber
 <@pagebreak/>
-nimm erst unsere Pistolen aus dem »Koffer heraus, Für alle
-Fälle. Und die Taschenlampen …
+nimm erst unsere Pistolen aus dem Koffer heraus. Für alle
+Fälle. Und die Taschenlampen …«
 
-Ich kniete, suchte, wühlte im »offen,
+Ich kniete, suchte, wühlte im Koffer,
 
 Dagegen war nichts zu machen: unsere Pistolen waren
 weg! Der Herr Hausmeister hatte sie geholt, als wir im
@@ -652,7 +652,7 @@ zu gelangen.
 
 Haralds Stirn glich einem zerknitterten Blatt.
 
-»Verdammten Schlingel!« sagte er. »Mit der Kistenbarrikade
+»Verdammter Schlingel!« sagte er. »Mit der Kistenbarrikade
 ist es also nichts. Und das Schlimmste: Wir sind
 ohne Waffen. Unter diesen Umständen müssen wir leider
 das Feld räumen — morgen, wenn wir ausgeschlafen haben.
@@ -663,78 +663,78 @@ unsere Lage für außerordentlich ernst ansah. Ich hatte ebenfalls
 wenig Hoffnung, daß der Hausmeister uns ohne
 Ehrenwort, ohne ein Schweigeversprechen, hinauslassen würde.
 
-… schwieg. Legte mich nieder. Was sollten wir auch
+Ich schwieg. Legte mich nieder. Was sollten wir auch
 tun?!
 
 Während ich noch trotz oder wegen Übermüdung nicht
 einschlafen konnte, schnarchte Harald bereits in allen Tonarten
 
-Die Lampe stand auf dem Tisch. vor dem Diwan. Ihr
-Bassin hatten wir gefüllt, und sie würde mochte viele Stunden
-brennen. — …
+Die Lampe stand auf dem Tisch vor dem Diwan. Ihr
+Bassin hatten wir gefüllt, und sie würde noch viele Stunden
+brennen. —
 
-— Jemand rüttelte mich …
+Jemand rüttelte mich …
 
-Ich fuhr hob, völlig schlaftrunken …
+Ich fuhr hoch, völlig schlaftrunken …
 
 »Wir müssen den Kerl täuschen,« sagte Harst. »Wir
 werden den Ofen heizen, Tee kochen, frühstücken und dann
-handeln, Es ist sieben Uhr morgens. Bis acht sollte unsere
+handeln. Es ist sieben Uhr morgens. Bis acht sollte unsere
 Antwort unten im Keller sein.«
 
 »Hat denn Mathilde noch immer … Grippe?« fragte ich
 <@pagebreak/>
-benebelt. »Warum kocht sie »Dicht den Tee? Sie war doch
-gestern ganz munter und …
+benebelt. »Warum kocht sie nicht den Tee? Sie war doch
+gestern ganz munter und …«
 
 »Ich werde ihr telephonieren, daß sie sich umgehend
-aus ihrem Kücenreich aus Berlin durch Lord Sheldon hin
-einer Kiste verpackt hierher schien lassen soll — in die?
-Dahinrasen Schlucht …«
+aus ihrem Küchenreich aus Berlin durch Lord Sheldon in
+einer Kiste verpackt hierher schicken lassen soll — in die
+Dahlingker Schlucht …«
 
-Da war ich wach — ganz! Dahinrasen Schlucht, Anglerheim,
+Da war ich wach — ganz! Dahlingker Schlucht, Anglerheim,
 der Hausmeister, der Zettel, acht Menschen unten …
 
 »Gib mir einen Kognak, Harald …«
 
 »Nein. Jetzt nicht. Jetzt werde ich Preßkohlen aus dem
-Keller holen. Du Faust den Spirituskocher auf. Dann fehl!
+Keller holen. Du baust den Spirituskocher auf. Dann fehlt
 uns natürlich Wasser zum Teekochen … Ich gehe mit
-einer Schüssel nach9 oben und fülle die Schüssel auf dem
+einer Schüssel nach oben und fülle die Schüssel auf dem
 Dache mit Schnee. Dann erkläre ich ganz laut auf englisch,
-daß das Schneemassen nicht genügt, und daß auch du mit
+daß das Schneewasser nicht genügt, und daß auch du mit
 einer Schüssel mitkommen sollst … Und dann entweichen
 wir durch das Dachfenster …«
 
 »In der Jacke? Ohne Pelze?«
 
 »In der Jacke, natürlich! Wir laufen bis Dahlen … Da
-wird uns warm. Nur es ist der Kerl zu täuschen. Vorher
+wird uns warm. Nur so ist der Kerl zu täuschen. Vorher
 knabbern wir ein paar Zwiebacke, die Kognakflasche habe
-ich schon unter der Jacke«…«
+ich schon unter der Jacke …«
 
-Die Idee war gut. — ]
+Die Idee war gut.
 
-Wir begannen die Morgenkomödie. IH&4 half Preßkohlen
-schleppen. Hm Keller war alles harmlos und still.
-Hm Ofen knallten bald die Holzscheite, und ich stoppte Briketts
+Wir begannen die Morgenkomödie. Ich half Preßkohlen
+schleppen. Im Keller war alles harmlos und still.
+Im Ofen knallten bald die Holzscheite, und ich stoppte Briketts
 hinein, daß meine Hände einem Schornsteinfeger alle Ehre
 gemacht hätten.
 
-Dann setzte Harald sich) an bei Schreibtisch, auf dem die
-Figur des Dornausziehers stand — unbozachtet jetzt, nahen
-nur im ihr einige Aufmerksamkeit in der Nacht geschont;
+Dann setzte Harald sich an den Schreibtisch, auf dem die
+Figur des Dornausziehers stand — unbeachtet jetzt, nachdem
+nur ich ihr einige Aufmerksamkeit in der Nacht geschenkt
 hatte.
 
 Harald schrieb.
 
 <@pagebreak/>
-Dies war eine Erweiterung unseres Planes, Er schrieb
-auf einen Zettel die Antwort und zwar in deutlichsten
+Dies war eine Erweiterung unseres Planes. Er schrieb
+auf einen Zettel die Antwort und zwar in *deutscher*
 Schrift, die bekanntlich den wenigsten Ausländern geläufig
 ist. — Der Text lautete:
 
-»Wir bedauern, auf Ihre Vorschläge nicht eingehen zu
+> »Wir bedauern, auf Ihre Vorschläge nicht eingehen zu
 können.«
 
 Das war alles.
@@ -747,7 +747,7 @@ er wieder nach oben kam, sagte er — in englischer Sprache:
 Wasser oder Wasserleitung gibt es hier nicht.«
 
 Er holte aus der Küche eine Schüssel. Ich hörte, wie
-er die Bodentreppe hinaufstieg. Scheck war außerordentlich
+er die Bodentreppe hinaufstieg. Ich war außerordentlich
 gespannt, wie dieser erste Versuch ablaufen würde.
 
 Nichts geschah. Er kam zurück und meinte: »Das ist
@@ -755,13 +755,13 @@ zu wenig … Wir wollen auch Waschwasser. Wir wollen
 jeder zwei Schüsseln oder dergleichen oben füllen. Komm’
 mit.« Auch dies englisch …
 
-Unsere wollenen Mützen hatten wir schon vorher heimlich;
+Unsere wollenen Mützen hatten wir schon vorher heimlich
 unter die Jacken gestopft. Nun mußte es sich ja zeigen,
 ob wir Glück haben würden.
 
 Der Bodenraum war dunkel und sehr niedrig. Ich
 stellte die eingeschaltete Taschenlampe auf einen Querbalken.
-Zum offenen- Dachfenster führte eine Leiter empor. Ich
+Zum offenen Dachfenster führte eine Leiter empor. Ich
 kletterte voran … Draußen war es noch dunkel. Immerhin
 sah ich, als ich nun mit einigem Herzklopfen den Kopf
 ins Freie steckte, daß ungeheure Mengen Schnee in der
@@ -771,25 +771,27 @@ Ich stieg vollends auf das ziemlich flache Dach.
 
 »Schneller!« flüsterte Harst …
 
-Wir blieb der Atem weg, so eisig war die Kälte hier
+Mir blieb der Atem weg, so eisig war die Kälte hier
 draußen …
 
 <@pagebreak/>
 Ich warf die Blechschüssel und den kleinen Eimer,
 die den Schnee hatten aufnehmen sollen, jetzt einfach weg …
-Harald, Wenn’s noch immer nicht schnell genug ging,
+
+Harald, dem’s noch immer nicht schnell genug ging,
 stieß mich beiseite. Er war erst mit dem Kopf über den
 Fensterrand hinweg.
-Da — — von unten — — vom Boden her … in
-Schuß … noch einer … noch einer.
 
-Ein glühendes Eisen fuhr mir durch den nie den
-arm …
+Da — — von unten — — vom Boden her … ein
+Schuß … noch einer … noch einer …
 
-Hinter mir ein schwacher Schrei, ein Poltern … « 3 fuhr
+Ein glühendes Eisen fuhr mir durch den linken
+Oberarm …
+
+Hinter mir ein schwacher Schrei, ein Poltern … Ich fuhr
 Herum …
 
-Die Leiter war leer …!
+Die Leiter war leer …
 
 Harald war hinabgestürzt — vielleicht tot — erschossen …
 
@@ -798,8 +800,8 @@ Unter mir grinste die Finsternis …
 Unter mir eine schrille Stimme, drohend, höhnend, —
 — englisch:
 
-»Vielleicht werden Sie jetzt auf meine Vorschläge ein
-gehen!! Und wagen Sie das nicht nochmals! Ein Toter ist
+»Vielleicht werden Sie jetzt auf meine Vorschläge eingehen!!
+Und wagen Sie das nicht nochmals! Ein Toter ist
 genug, denke ich!«
 
 Ich war derart benommen, daß ich kaum weiß, was ich
@@ -810,20 +812,22 @@ fand, wie der Lichtkegel dann vor der Leiter eine große
 Blutlache, aber keinen Harst beschien …
 
 Harald war verschwunden … Der Boden leer …
+
 Ich stolperte die Treppe abwärts … Ich war wehrlos,
-verzweifelt, unfähig, einen klaren Mann zu fassen …
-Ich stieß die Stubentür auf
+verzweifelt, unfähig, einen klaren Gedanken zu fassen …
+
+Ich stieß die Stubentür auf …
 
 Auch hier kein Harst …
 
-Die Lampe brannte auf dem Schreibtisch … Hm Ofen
+Die Lampe brannte auf dem Schreibtisch … Im Ofen
 polterten die gierigen Flammen …
 
 Und mitten auf der Schreibtischplatte ein Zettel:
 
 <@pagebreak/>
 
-»Sie wissen nun, daß mit mir nicht zu spaßen ist.
+> »Sie wissen nun, daß mit mir nicht zu spaßen ist.
 Sie bleiben im Hause. Wasser finden Sie jeden Morgen in
 der Küche. Von neun Uhr abends bis acht Uhr früh
 dürfen Sie die Stube nicht verlassen. — Der Hausmeister.«
@@ -835,14 +839,14 @@ Ich saß da, die Augen geschlossen …
 Erst das rinnende Blut mahnte mich daran, daß ich
 mich verbinden müsse.
 
-Ich sah eine harmlose Fleischwunde, einen glatten Duft«-
-Schuß, den im mit Jodoformwatte umwickelte, dann Binden
+Ich sah eine harmlose Fleischwunde, einen glatten Durchschuß,
+den ich mit Jodoformwatte umwickelte, dann Binden
 darüber. Die Blutung stand.
 
-Stumpfsinnig hockte ich wieder im Lehnstuhl … Wein
+Stumpfsinnig hockte ich wieder im Lehnstuhl … Mein
 Hirn war leer … Ein Gedanke kreiste darin, ein einziger
 Gedanke: War Harald wirklich tot, oder hatte diese Bestie
-von Hausmeister ihn nur mit sich nach. unten genommen?
+von Hausmeister ihn nur mit sich nach unten genommen?
 Nur schwerverwundet?!
 
 Mein Gott, — nur Gewißheit haben!! Nur nicht diese
@@ -850,9 +854,9 @@ folternden Zweifel …!!
 
 Ich sprang auf …
 
-Alkohol …!! Sicht betäuben …!! Die Lebensgeister anfeuern!
+Alkohol …!! Sich betäuben …!! Die Lebensgeister anfeuern!
 
-Ich durchwühlte den zweiten Koffer. Da war der Proviant.
+Ich durchwühlte den zweiten Koffer. Da war der Proviant
 drin … Da waren noch drei Flaschen Kognak, zwei Flaschen
 Rum … Wir hatten sie durchgeschmuggelt … Das »trockene«
 Norwegen drückt gern ein Auge zu — auch zwei.
@@ -862,10 +866,10 @@ der hier wehrloser Gefangener in einem starken Kerker,
 in winterlicher Einöde war, — ich, der zum Dulden, Gehorchen
 gezwungen, dem die Trauer, Schmerz, Ungewißheit
 die Seele zusammenpreßten: Ich ward ein anderer
-nach dem zweiten. Becher des Werft … Alkohols!
+nach dem zweiten Becher des verfl… Alkohols!
 
 Mochte der Schuft mich niederknallen: Ich mußte Gewißheit
-haben!! …
+haben!!
 
 <@pagebreak/>
 
@@ -884,7 +888,7 @@ Gewißheit?!
 
 Nein …!
 
-Dasselbe Langen und Bangen … Und ohnmächtig, wehrlos,
+Dasselbe Hangen und Bangen … Und ohnmächtig, wehrlos,
 eingesperrt!! Eingesperrt, bis dieser Teufel von Sheldon,
 der hier in der telemarkischen Einöde vielleicht scheußliche
 Experimente an bedauernswerten Geschöpfen vornahm, eintreffen
@@ -905,7 +909,7 @@ ihm, falls er nur verwundet, zu Hilfe zu kommen?!
 Wie hilfesuchend irrte mein trüber Blick durch das
 Zimmer.
 
-Blieb starr auf einem Gute haften …
+Blieb starr auf einem Punkte haften …
 
 Starr — wie gebannt …
 
@@ -913,20 +917,20 @@ Was war das da oben an der Außenwand dicht unter
 der Decke?!
 
 Und — urplötzlich fielen mir da Harsts Rauchringe
-Ein 5 55
+Ein …
 
 Wie sie emporgeschnellt, mit einem Male zerflattert
 waren, durch einen Luftzug, durch einen Luftstrom, der —
 — woher gekommen — — woher?! — Nun wußte ich
-Es)
+Es …
 
 Dort oben war ein Stück der Wandverschalung, der
 gefirnißten Bretter verschwunden …
 
 Dort, wo das blanke Braun des Anstrichs eine glatte
 Fläche bilden sollte, gähnte ein schwarzes, viereckiges, längliches
-Los: ein Stück Brett war nach unten hinabgeklappt
-oder mag der Seite, fehlte jedenfalls.
+Loch: ein Stück Brett war nach unten hinabgeklappt
+oder nach der Seite, fehlte jedenfalls.
 
 Ein Loch …
 
@@ -935,14 +939,14 @@ von dort war die Luft hereingeströmt …
 
 Also: war die verschalte Balkenwand hohl! —
 
-Eine heiße Blutwelle stieg. mir in die Wangen …
+Eine heiße Blutwelle stieg mir in die Wangen …
 
 Das war vielleicht eine neue Möglichkeit. Vielleicht …
 
 Freilich, fürs erste wollte ich gar nichts tun, wollte
 den Hausmeister in Sicherheit wiegen … Mein Arm mußte
 ja auch erst heilen. Das mußte in ein paar Tagen geschehen
-sein »Wahl bedeutete schließlich auch die Schramme?! Nichts?!
+sein. Was bedeutete schließlich auch *die* Schramme?! Nichts?!
 Gar nichts!!
 
 Eine köstliche Ruhe überkam mich. Wer ein Ziel vor
@@ -951,38 +955,38 @@ sich sieht, wem auch nur die geringste Aussicht winkt,
 dieses Ziel zu erreichen, der erlebt selbst in der verzweifeltsten
 Lage eine innere Wiedergeburt, fühlt neue Kräfte,
 neuen Mut aus dem wirren Chaos von Empfindungen aufsteigen
-und Gestank in der Finsternis seines lähmenden
-Seelendru&äs einen tröstenden Lichtstrahl.
+und erschaut in der Finsternis seines lähmenden
+Seelendrucks einen tröstenden Lichtstrahl.
 
 Mein Plan war fertig. Ich schenkte der Klappe dort
 oben keinerlei Beachtung mehr. Ich mußte so tun, als hätte
 ich sie nicht bemerkt. — Mein Magen meldete sich: Das beste
 Zeichen, daß Körper und Geist wieder in abgestimmtem
-Vhythmus arbeiteten. Ich begann aus unseren und
+Rhythmus arbeiteten. Ich begann aus unseren und
 den in der Küche befindlichen Vorräten ein fast üppiges
 Frühstück herzustellen. Mein Arm hinderte mich im ganzen
-wenig. Die Wunde brannte etwas. Machte sie. — Ich aß und
+wenig. Die Wunde brannte etwas. Mochte sie. — Ich aß und
 trank. Eins störte mich: die unheimliche Stille im Hause.
 Auch nicht das leiseste Geräusch war außer dem Fauchen
 der Glut im Ofen vernehmbar. Das kleine Bauwerk aus Stein
 und dicken Rundhölzern lag ja bis zum Dache im Schnee
-begraben. Es war. eine Insel« in einem Ozean: von Schnee,
+begraben. Es war eine Insel in einem Ozean: von Schnee,
 eine Eskimohütte, — ein Gefängnis.
 
 Ich saß neben dem Ofen, und rechts von mir geisterte
-Furche das milde Licht der Petroleumlampe die weißgelbe,
+durch das milde Licht der Petroleumlampe die weißgelbe,
 gebückte kleine Figur des schlanken Dornausziehers.
 
-Flüchtig schaute ich wiederholt hin…- flüchtig »ging mir
-wieder die Frage durchs den Kopf, weshalb Lord Sheldon
+Flüchtig schaute ich wiederholt hin, flüchtig ging mir
+wieder die Frage durch den Kopf, weshalb Lord Sheldon
 in diese Einsamkeit und gerade in dieses Haus, in dem doch
 alles auf nüchternste Regeln praktischer Einrichtung eingestellt
-war, ausgerechnet« diese Marmorfigur mitgenommen
+war, ausgerechnet diese Marmorfigur mitgenommen
 habe.
 
 Sie war mir unleidlich, diese Statue, dieser helle Fleck
-inmitten all dieser matten Farbe. Sie solche die Augen
-wie der Halsausschnitt einer Haarwald, sie gehörte einfach
+inmitten all dieser matten Farbe. Sie lockte die Augen
+wie der Halsausschnitt einer Barmaid, sie gehörte einfach
 nicht hierher.
 
 Ich wollte aufstehen und sie in den Schrank stellen.
@@ -991,39 +995,39 @@ Ich wollte aufstehen und sie in den Schrank stellen.
 Da entdeckte ich, daß ich nicht allein war.
 
 Seltsam: ein Tierchen genügt uns, das Gefühl bitteren
-Alleinseins zu, überwinden. Zuchthäusler haben Spinnen
+Alleinseins zu überwinden. Zuchthäusler haben Spinnen
 und Fliegen dressiert, haben Wespen und Bienen angelockt
 und die Tierchen an sich gewöhnt. Der aus einem Riesensensationsprozeß
-weltbekannt gewordene Advokat H. fragte
+weltbekannt gewordene Advokat H. hatte
 ein halbflügges Spatzenjunges gefunden, zog es groß und
 Überwand durch die Liebe zu dem armseligen Sperling den
 Selbstmordtrieb.
 
-Hier war es eine Feldmaus, eine graubräunliche Atem
-Muslim große Maus, die ich zuerst für eine Ratte gehalten. Sie
-hockte am Rande des Filzteppichs unweit der Screibtische3e
+Hier war es eine Feldmaus, eine graubräunliche ziemlich
+große Maus, die ich zuerst für eine Ratte gehalten. Sie
+hockte am Rande des Filzteppichs unweit der Schreibtisches
 auf dem dunklen Linoleumbelag der Dielen, und nur ihre
 glitzernden Perläuglein hatten mich auf sie aufmerksam gemacht.
-Sie mochte wißt und meine Bewegungen wohl schon
+Sie mochte mich und meine Bewegungen wohl schon
 eine ganze Weile beobachtet haben, denn als ich ihr ein paar
-Droben Zwieback hinwarf, zeigte sie sich gar nicht mehr
-scheu, biß in das eine Kutscher hinein und verschwand damit
-— husch Busch — hinter dem Schreibtisch.
+Brocken Zwieback hinwarf, zeigte sie sich gar nicht mehr
+scheu, biß in das eine Stückchen hinein und verschwand damit
+— husch husch — hinter dem Schreibtisch.
 
 Schade, ich hätte sie so gern weiter beobachtet … Es
 war doch ein lebendes Wesen, und nur Ratten sind mir
 widerwärtig.
 
 Ich wartete. Sie würde ja bestimmt zurückkehren. Das
-Tischchen war sicherlich sehr ausgehungert.
+Tierchen war sicherlich sehr ausgehungert.
 
 Und es kamen: drei — nein, vier …
 
 Vier kamen anmarschiert, eine hinter der andern …
 Die vorderste und kühnste war sicherlich meine Freundin von
-vorhin. Sie rate ein zweites Stückchen Zwieback — und
+vorhin. Sie packte ein zweites Stückchen Zwieback — und
 weg war sie. Ihre Gefolgschaft zeigte sich mißtrauischer. Aber
-die erste Scheu. verging, und eine volle Stunde lockte ich die
+die erste Scheu verging, und eine volle Stunde lockte ich die
 vier Mäuse durch winzige Brocken immer näher zu mir
 heran, wobei ich jedesmal beim Werfen eines der Zwiebackstückchen
 einen leisen Pfiff ausstieß. Nach dieser Stunde blieben
@@ -1031,21 +1035,21 @@ einen leisen Pfiff ausstieß. Nach dieser Stunde blieben
 sie bereits dicht an meinem Fuße sitzen, auch wenn ich
 mich regte.
 
-Bier Mäuse …! Ich war nicht mehr allein. Ich hatte
+Vier Mäuse …! Ich war nicht mehr allein. Ich hatte
 die Möglichkeit, sie immer mehr an mich zu gewöhnen …
 Ich freute mich.
 
 Dann stand ich auf. Der Dornauszieher sollte nun
 wirklich in der Tiefe des Schrankes eingesargt werden.
-Da huschten die vier davon, und ich hielt die Statue »in
+Da huschten die vier davon, und ich hielt die Statue in
 der Hand. Unwillkürlich besichtigte ich sie genauer. Es war
 Dutzendware. Kein künstlerischer Wert … Wozu hatte Sheldon
 sie hierher gebracht?!
 
 Ich drehte sie, so daß der Unterteil des Sockels vom
-Lampenlicht bestiegen wurde. Und da sah ich auf der
-grob geglätteten Marmorfläche Striche, Punkte, »Bogen
-!ihren: 54
+Lampenlicht beschienen wurde. Und da sah ich auf der
+grob geglätteten Marmorfläche Striche, Punkte, Bogenlinien
+…
 
 Es war etwas wie ein Grundriß der Blockhütte. Und
 doch mehr! Es war zugleich fraglos ein Besonderes dabei,
@@ -1077,55 +1081,55 @@ Aber — auch das würde ein Ende haben!!
 
 Ein Tag kann endlos sein. Ein Tag eines Kranken
 kann zur Ewigkeit werden. Ein Tag wie damals in Sheldons
-Haus in der Dahinrasen Schlucht bei Petroleumlicht kam:
+Haus in der Dahlingker Schlucht bei Petroleumlicht kann
 zum Wahnsinn treiben, wenn die lauernde Ungewißheit
 hinter einem dreinschleicht.
 
 Ich hatte, um mir Bewegung zu machen, Preßkohlen
-aus dem »Keller in den kleinen Flur geschleppt und hier
-aufgeschichtet. Jedesmal, wenn ich dabei die Kellertreppe!
+aus dem Keller in den kleinen Flur geschleppt und hier
+aufgeschichtet. Jedesmal, wenn ich dabei die Kellertreppe
 hinabschritt, flackerte die lächerliche Hoffnung wieder auf,
-Harald könnte mir hatten frisch und munter entgegentreten.
+Harald könnte mir unten frisch und munter entgegentreten.
 
-Dann rate ich unsere Koffer aus. Wieder schlug ich
-so eine Stunde mühsam tot. Tod sah nach der Uhr … Es
-war erst zwölf: Mittags!
+Dann packte ich unsere Koffer aus. Wieder schlug ich
+so eine Stunde mühsam tot. Ich sah nach der Uhr … Es
+war erst zwölf: Mittag!
 
-Erst zwölf?!
+Erst zwölf!!
 
 Da suchte ich mir aus Sheldons kleinem Bücherschrank
 ein Buch heraus. Ich studierte die Titel …
 
-Merkwürdiger literarischen Geschhma&X: Center, Die
+Merkwürdiger literarischer Geschmack: Donder, Die
 <@pagebreak/>
-Schlangengifte. — Gondel, Die Giftlianen Borneos. — Van
-Wracks, Die Pfeilgifte der Naturvölker. — Oh. Befreit,
-Starrkrampfstudien während des Weltkrieges. — Oh. Alltag,
-Die Gifte der Mehrere — und so weiter. — Dann
-nächstes Sah: Nur Abenteuerromane, so etliche Werke
-Edgar Alltag Poes — und so weiter. — Unterste Reihe:
+Schlangengifte. — Carvell, Die Giftlianen Borneos. — Van
+Proocks, Die Pfeilgifte der Naturvölker. — Th. Bellert,
+Starrkrampfstudien während des Weltkrieges. — Ch. Allian,
+Die Gifte der Mediceer — und so weiter. — Dann
+nächstes Fach: Nur Abenteuerromane, so etliche Werke
+Edgar Allan Poes — und so weiter. — Unterste Reihe:
 Erstens ein dickes rotgebundenes Buch. Ich schlage auf,
-Stube: Wir leuchtet mein eigener Name entgegen: Harald
+stutze: Mir leuchtet mein eigener Name entgegen: Harald
 Harst, Aus meinem Leben. Von … —
 
 Wahrhaftig, Seine Lordschaft hatte in diesem Band
 vierzehn unserer Abenteuer vereinigt. Und — daneben standen
 drei ähnliche rote Bände: Auch meine Geistesprodukte!
 
-Nun war ich nur gespannt, welche Nummern der Buchtseite
+Nun war ich nur gespannt, welche Nummern der Harstserie
 Sheldon bevorzugt hatte. Ich nahm also die vier
-dicken roten Bücher mit zum Ofenplatz, nächste die Lampe
+dicken roten Bücher mit zum Ofenplatz, rückte die Lampe
 näher und blätterte … blätterte …
 
 Seltsame Auslese: Der Lord hatte, so schien’s mir anfänglich,
 wahllos diese und jene Nummer herausgegriffen!
-Doch nein, es war doch System in der Sache. Er »hatte
-alles herausgesucht, was über Giftmorde, Giftattentate und
+Doch nein, es war doch System in der Sache. Er hatte
+*alles* herausgesucht, was über Giftmorde, Giftattentate und
 Ähnliches handelte.
 
 Also wieder: Gift!!
 
-Und dann: es waren gewisse Seiten eingeknickt!! —
+Und dann: es waren gewisse Seiten eingeknifft! —
 Ich prüfte: diese Seiten gaben Aufschluß über die Verkleidungen,
 die wir zu wählen pflegten, über kleine Kunstgriffe,
 das Äußere zu verändern, über Farbstoffe, Schminken
@@ -1140,7 +1144,7 @@ wie maskiert wir aufzutreten pflegten?!
 Und dieser Gedanke gebar einen neuen: Ob der Hausmeister
 hier etwa von vornherein gewußt, mit wem er
 <@pagebreak/>
-es zu tun hatte, wer wir waren?! Sollte er uns »erkannt
+es zu tun hatte, wer wir waren?! Sollte er uns erkannt
 haben? Gab es hier vielleicht gar Bilder von uns?
 
 Ich trug die vier Bände zum Schrank zurück und durchsuchte
@@ -1154,16 +1158,16 @@ und ich.
 Also doch!!
 
 Meine Vermutung, der Hausmeister habe sofort gewußt,
-wer die beiden Eindringlinge waren, gewann immer weh?
+wer die beiden Eindringlinge waren, gewann immer mehr
 an Wahrscheinlichkeit. Haralds unmaskiertes Gesicht war
 ja unverkennbar, und meine Bierphilisterzüge desgleichen.
 
 Ich legte das Album weg und nahm mir einen Band
-Edgar Alltag Poe mit zum Bauernsessel. Es war die
+Edgar Allan Poe mit zum Bauernsessel. Es war die
 Geschichte von den Schafzüchtern, die in der elenden Strandhütte
 beginnt. Poes meisterhafte Schilderung, die ewig jung
 und modern bleiben wird, fesselte mich derart, daß ich
-erst aufschaute, als sich; etwas auf meinem Filzschuh bewegte
+erst aufschaute, als sich etwas auf meinem Filzschuh bewegte
 …
 
 Eine Maus …
@@ -1172,26 +1176,26 @@ Und dort — war das denn möglich?! Dort standen,
 hockten mindestens zwei Dutzend der kleinen Nager am
 Rande des Teppichs …
 
-Und die eine, die so froh die winzigen Krümel von
-meinem Schub naschte, das war meine Freundin …
+Und die eine, die so frech die winzigen Krümel von
+meinem Schuh naschte, das war meine Freundin …
 
-Sicherlich — Aber ihr Gefolge diesmal, das war
+Sicherlich! — Aber ihr Gefolge diesmal, das war
 denn doch etwas reichlich! Wenn das so weiterging, waren’s
 morgen tausend, die ich speisen sollte!
 
 Zunächst … Da stand in Griffweite das Fläschchen
-7öte Tinte, von mir bereits zu diesem Zweck entkorkt. Ich
+rote Tinte, von mir bereits zu diesem Zweck entkorkt. Ich
 <@pagebreak/>
 wollte meine »Freundin« eben zeichnen, denn eine Maus
 sieht schließlich wie die andere aus, und diese eine wollte
-ich) herauskennen …
+ich herauskennen …
 
 Ich träufelte rote Tinte herab …
 
 Ein Tropfen traf sie … Fünf Tropfen den Filzschuh.
 
 Da floh sie entsetzt … Die Nässe war ihr sicherlich
-unangenehm. Aber als ich Zwiebastück&chen streute und dazu
+unangenehm. Aber als ich Zwiebackstückchen streute und dazu
 pfiff, war sie im Nu wieder da … Auch das Gefolge rückte
 näher. Nun hatte ich Zeitvertreib, bis mein Magen sich
 meldete und ich mir das Mittagessen bereitete.
@@ -1204,14 +1208,14 @@ Wo war Harald? Lebte er?
 
 Aber — weg mit alledem!! Taten, nicht Grübeleien!!
 Vergeltung!! Warte, Herr Hausmeister, wir rechnen noch
-ab!! Die Kugel durch; den Arm hätte auch weniger edle
+ab!! Die Kugel durch den Arm hätte auch weniger edle
 Teile, zum Beispiel meinen Schädel treffen können!! Und
 dann würde ich jetzt nicht hier sitzen und Bratkartoffeln (die
-sehr süß, erfroren schwebten) und Büchsenfleisch mit Tomatentunke
+sehr süß, erfroren schmeckten) und Büchsenfleisch mit Tomatentunke
 essen!
 
 Die Mäuse waren auch wieder da. Die Rotbetupfte saß
-Bandit neben mir. Die anderen — genau 25 waren’s —
+dicht neben mir. Die anderen — genau 25 waren’s —
 wurden kühner und kühner …
 
 Ich freute mich …
@@ -1231,7 +1235,7 @@ Die Lampe erlosch …
 
 Aber ich hatte die Taschenlampe im Bett …
 
-Und nachher sollte ganz kenntlich unter der Decke der
+Und nachher sollte ganz heimlich unter der Decke der
 Dornauszieher untersucht werden.
 
 Die Lampe erlosch …
@@ -1256,8 +1260,9 @@ Dann fiel die Tür zu …
 
 Ich fror plötzlich.
 
-<@pagebreak/>
-Tetanin.
+<@pagebreak 35/>
+
+<h1>Tetanin.</h1>
 
 <h2>1. Kapitel.</h2>
 
