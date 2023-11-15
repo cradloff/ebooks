@@ -1266,6 +1266,8 @@ Ich fror plötzlich.
 
 <h2>1. Kapitel.</h2>
 
+<h3>Das H.</h3>
+
 Die Tür fiel zu … Und ich saß aufrecht auf dem
 Diwan und fror … Die Zähne wollten klappern … Die
 Nerven meldeten sich.
@@ -1280,12 +1282,11 @@ Totenstille im Hause …
 Entsetzlich all das!!
 
 Einschlafen?! — Unmöglich!! — Ich lag da und zermarterte
-mir das Hirn, ob ihm nicht trotz allem einen Weg
+mir das Hirn, ob ich nicht trotz allem einen Weg
 fände, der mich diesem Schuft von Hausmeister überraschend
 gegenüberführte! Dann würde ich ihm an die Kehle fahren
 <@pagebreak/>
-wie ein Panther, dann würde ich den Kerl schon unter
-kriegen!!
+wie ein Panther, dann würde ich den Kerl schon unterkriegen!!
 
 Ich dachte an das Loch oben in der Verschalung …
 Und dachte an die Tür, die soeben geknarrt hatte. Das konnte
@@ -1296,13 +1297,13 @@ Also?!
 Also — es mußte dicht neben der Tür in der Bretterverschalung
 noch eine geben!!
 
-Ich; kroF9 lautlos vom Diwan herab. Ich vermied jedes
+Ich kroch lautlos vom Diwan herab. Ich vermied jedes
 Geräusch. Ich hielt den Atem an — — lauschte …
 
 Kroch auf allen Vieren zur Tür, betastete die Wand
-rechts und links. Litt zu machen wagte ich nicht …
+rechts und links. Licht zu machen wagte ich nicht …
 
-Meine Fingerspitzen glitten. über das Holz hin … immer
+Meine Fingerspitzen glitten über das Holz hin … immer
 wieder … immer wieder … Ich hatte ja Zeit … Ich durfte
 dies nur nachts wagen …
 
@@ -1310,26 +1311,26 @@ Ich betastete jede Unebenheit, fuhr mit dem Fingernagel
 in Rissen und Spalten entlang. —
 
 Unlängst las ich in einem Kriminalroman, dessen unsägliche
-Nüchternheit die Berühmtheit des Verfassers vorbereite,
-folgenden Hat … »… In diesem Hause gab es natürlich
+Nüchternheit die Berühmtheit des Verfassers verbriefte,
+folgenden Satz … »… In diesem Hause gab es natürlich
 keine Geheimtüren, keine Falltüren oder dergleichen, was
-fv zum Rüstzeug schlechter Schriftsteller gehört …« — Und
-da dachte ich, als ich’s las, an die Diebstählen der Londoner,
-Pariser, Berliner und exotischen Elendsquartiere. — Keine
+so zum Rüstzeug schlechter Schriftsteller gehört …« — Und
+da dachte ich, als ich’s las, an die Diebshöhlen der Londoner,
+Pariser, Berliner und exotischer Elendsquartiere. — Keine
 Geheimtüren?! Wenn der Herr Kollege sich vielleicht einmal
-nach Dja Town in Bombay bemühen wollte … Dort
-unweit der Pawida-Moschee liegt eine chZzinesisme Teestube.
-Vor drei Monaten wurden dort acht Verließen verhaftet.
+nach Black Town in Bombay bemühen wollte … Dort
+unweit der Pawida-Moschee liegt eine chinesische Teestube.
+Vor drei Monaten wurden dort acht Verbrecher verhaftet.
 Das Haus besaß viele Geheimtüren, doppelte Wände und
 einen unterirdischen Gang bis zum verwilderten Garten
 der Moschee. In Neuyork könnte ich demselben Herrn drei
-heimliche Opiumkneipen zeigen, die noch) »besser« eingerichtet
+heimliche Opiumkneipen zeigen, die noch »besser« eingerichtet
 sind — und so fort. —
 
 <@pagebreak/>
 Wenn ein Lord Sheldon hier in der entlegenen norwegischen
 Bergschlucht sich ein Haus für ganz bestimmte, von uns
-naher restlos geklärte Zwecke, bauen ließ, wenn diese Zwecke
+nachher restlos geklärte Zwecke, bauen ließ, wenn diese Zwecke
 strengste Geheimhaltung erforderten, wenn er mithin zu seiner
 eigenen Sicherheit hier einen Fuchsbau schuf: War das den
 Umständen nach nicht ganz natürlich und vernünftig?!
@@ -1341,17 +1342,17 @@ und — — weshalb?!
 
 Er wollte sich sichern!
 
-Daß einmal doch Zwei hier erscheinen könnten, die
-mit sollen Dingen Bescheid wußten: Er fürchtete es! Und
+Daß einmal doch zwei hier erscheinen könnten, die
+mit solchen Dingen Bescheid wußten: Er fürchtete es! Und
 deshalb schuf er Türen und anderes, die sorgfältiger gearbeitet
 waren wie die bekannten chinesischen Zauberkästchen,
 die keinen Verschluß, sondern nur einen »Trick« haben.
 
-Trick …! Wo war dieser hier im Wandgetäfel 31
+Trick …! Wo war dieser hier im Wandgetäfel zu
 suchen?! Wo?! Eine Geheimtür geringen Umfanges mußte
 vorhanden sein. bisher waren meine Bemühungen umsonst
 geblieben. Ich mußte also die Sache anders anpacken. Eine
-Stunde mochte vergangen sein, eine fruchtlose Stunde, Was
+Stunde mochte vergangen sein, eine fruchtlose Stunde. Was
 bedeutete dieser geringe Zeitraum, was bedeutete es, daß
 ich fror, daß die Fußbodenkälte mir die Beine absterben
 ließ. Draußen waren sicherlich wieder zwanzig Grad Frost.
@@ -1365,15 +1366,15 @@ war mir verschlossen.
 
 … So Irrten meine Gedanken ab …
 
-Aber die tastenden Finger arbeiteten … Müssen sich,
+Aber die tastenden Finger arbeiteten … Mühten sich,
 <@pagebreak/>
 suchten den »Trick« … Ich befühlte die Scheuerleiste der
-Dielen, ie befühlte die Türfüllung, drückte, schob, — ob nicht
-irgendwo etwas nein
+Dielen, ich befühlte die Türfüllung, drückte, schob, — ob nicht
+irgendwo etwas nachgab.
 
 Nichts gab nach …
 
-Nur ich — gab die Sache zwei Häuschen später auf.
+Nur ich — gab die Sache zwei Stunden später auf.
 Ich hatte Eisbeine … Die Temperatur in der Stube war
 unheimlich schnell gesunken. Ich schätzte auf acht Grad, ich
 hätte den Ofen heizen sollen …
@@ -1385,7 +1386,7 @@ Ich stand aufrecht da — im Dunkeln. Eine Dunkelheit,
 die absolut war.
 
 Ob ich es nicht doch wagte und den Dornauszieher mit
-unter die See des Diwans nahm?
+unter die Decke des Diwans nahm?
 
 Und da — fiel mir etwas ein.
 
@@ -1408,11 +1409,10 @@ Hause?
 
 Ich … wagte es.
 
-Ich schlich zum Schreibtisch … stierte die Hand aus …
+Ich schlich zum Schreibtisch … streckte die Hand aus …
 <@pagebreak/>
 Da war das Schreibzeug … Da mußte der Dornauszieher
-
-je 5-
+sein …
 
 Mußte …
 
@@ -1431,7 +1431,7 @@ Winzige Anlässe geben unserem erschlafften Wollen
 neuen Anstoß.
 
 Ich fühlte etwas über meinen Filzschuh huschen — wiederkehren
-— traten …
+— kratzen …
 
 Ein Mäuslein …
 
@@ -1441,19 +1441,19 @@ weshalb sollte ich die Lampe nicht anzünden?! Niemand
 hatte es mir verboten …
 
 Ich nahm das Feuerzeug … Fünkchen sprühten. Dann
-qualmte der Docht, ich brüllte den Zylinder in die Laden,
+qualmte der Docht, ich drückte den Zylinder in die Zacken,
 setzte die Glocke auf. Mildes Licht …
 
 Mein Mäuslein war geflüchtet.
 
 Ein Blick über die Schreibtischplatte …
 
-Ein leichter Ruf durch den Körper …
+Ein leichter Ruck durch den Körper …
 
 Da stand der Dornauszieher …
 
 Und da erst korrigierte ich mein Gedächtnis: Er hatte
-ja rechts neben dem Schreibzeug seinen Platz, Licht links.
+ja rechts neben dem Schreibzeug seinen Platz, nicht links.
 
 Ich saß … starrte die Statue an …
 
@@ -1476,15 +1476,15 @@ Aber — ich sah noch mehr …
 Bückte mich …
 
 Da war neben dem roten, verlaufenen Fleck auf dem
-Rücken noc& etwas anderes …
+Rücken noch etwas anderes …
 
-Ich Büste mich noch tiefer … Das Tierchen suchte
-ein Krümchen Zwischen Sohle und Stoff hervorzustoßen …
+Ich bückte mich noch tiefer … Das Tierchen suchte
+ein Krümchen Zwischen Sohle und Stoff hervorzukratzen …
 war so eifrig beschäftigt, daß es mein nahes Gesicht nicht
 beachtete.
 
 Ich erkannte das Neue auf dem graubräunlichen Fell:
-ein Heißen — — schwarz — — Tinte vielleicht …
+ein Zeichen — — schwarz — — Tinte vielleicht …
 
 Kein Zeichen?!
 
@@ -1492,7 +1492,7 @@ Das Blut schoß mir bis zur Stirn …
 
 Es war ein Buchstabe, ein
 
-H
+<p class="centered">H</p>
 
 Harald, — mein erster Gedanke!
 
@@ -1507,7 +1507,7 @@ er sich vielleicht als Gefangener befand?!
 Wie?! —
 
 Erinnerungen da …! Mäusejagd im Harstschen Familienhause!
-Daheim in Berlin?.
+Daheim in Berlin!
 
 <@pagebreak/>
 
@@ -1519,33 +1519,33 @@ durch einen Gedanken im Hirn zu flüchtigem Leben erweckt
 wird. Sie sind ein unerschöpflicher Brunnen, in den nur
 zuweilen, sei es absichtlich, sei es zufällig, der am Hebebalken
 hängende Eimer hinabtaucht und einen Teil des
-fühlen, geklärten Wassers der Vergangenheit emporbefördert
+kühlen, geklärten Wassers der Vergangenheit emporbefördert
 zum Tageslicht — über die Schwelle unsres Bewußtseins.
 
 So jetzt … — In einem so alten Bau wie dem Harstschen
 Familienhause sammelt sich zur Winterszeit allerhand Getier:
-Mäuse, Ratten, Fledermäuse, Eulen, Häuschen, —
+Mäuse, Ratten, Fledermäuse, Eulen, Käuzchen, —
 sogar Igel hatten wir in den weiten Kellern schon Gefunden.
 Vor zwei Jahren war da ein Vernichtungskrieg
-gegen die Mäuse unbedingt erforderlich. Den aussetzten:;en
+gegen die Mäuse unbedingt erforderlich. Den ausgestreuten
 Giftweizen ließen die kleinen Nager sehr bald liegen. Wir
-stellten Fallen auf. Und in einer der doppeltürigen Rattenkasten,
+stellten Fallen auf. Und in einer der doppeltürigen Kastenfallen,
 <@pagebreak/>
 die zumeist mehrere arme Mäuslein hinter den
 Glasfenstern festhielten, fanden wir eine Maus von merkwürdig
 rostbrauner Farbe ohne Schwanz, fraglos ein Zufallsspiel
 der Natur, dieses seltsame Tierchen. Die wurde
-gestört — als einzige. Die anderen starben stets einen
-schmerzlosen Tastet. Ein paar Tage drauf steckte die Braune
+geschont — als einzige. Die anderen starben stets einen
+schmerzlosen Gastod. Ein paar Tage drauf steckte die Braune
 wieder in einer Falle. Während wir sie aber das erste
 Mal im Keller erwischt hatten, war sie jetzt auf dem
-Boden vom Ersah ereilt worden. Wir zweifelten erst,
-ob es dieselbe sei, denn man denke: das Haus hat »zwei
-Stockwerke, und daß unsere »Braune« die wir doch im —
+Boden vom Schicksal ereilt worden. Wir zweifelten erst,
+ob es dieselbe sei, denn man denke: das Haus hat zwei
+Stockwerke, und daß unsere »Braune« die wir doch im
 Keller freigelassen hatten, durch die Mauern auf Schleichwegen
 nach oben gelangt sein sollte, erschien ausgeschlossen,
 da die Treppen kaum als Weg in Betracht kamen. — Wir
-schritten ihr abermals das Leben. Acht Tage drauf: Sie
+schenkten ihr abermals das Leben. Acht Tage drauf: Sie
 saß im Keller in einer Falle!! War also wieder vom
 Boden nach unten gewandert. Daß es tatsächlich dieselbe
 war, erkannten wir an den Beinchen: das linke hintere
@@ -1562,38 +1562,38 @@ Region der Stube zurückgekehrt war. Vielleicht war’s eben
 eine Mäusemama, die drunten in der natürlichen Grotte
 ihr Nest mit Jungen hatte! Konnte man wissen? — Die
 Tatsache blieb bestehen: dieses H war mit Tinte auf das
-Rückenteil gemalt, und wer sollte dies wohl getan haben?!
-Boy nur Harst, der an dem roten Tintenfleck gemerkt
-haben mußte (der Fleck mochte noch: feucht gewesen sein),
+Rückenfell gemalt, und wer sollte dies wohl getan haben?!
+Doch nur Harst, der an dem roten Tintenfleck gemerkt
+haben mußte (der Fleck mochte noch feucht gewesen sein),
 <@pagebreak/>
-das ich das Tierchen dergestalt »markiert« hatte. — Ich
-kann hier gleich einfügen: Meine Vermutung stimmte? Harald
-hatte meine zahme Freundin erwischt und mit … —
+daß ich das Tierchen dergestalt »markiert« hatte. — Ich
+kann hier gleich einfügen: Meine Vermutung stimmte! Harald
+hatte meine zahme Freundin erwischt und mit …, —
 doch nein, das Übrige später! —
 
 Harst lebte! Das war mir die Hauptsache. Er hatte mir
 ein Lebenszeichen ungewöhnlicher Art gegeben, hatte all
 meine Energie dadurch aufgepulvert und mich zum kleinen
-Helden gemacht, — so drückte er sie nachher aus.
+Helden gemacht, — so drückte er sich nachher aus.
 
-Je! — — der Dornauszieher! Ich greife zu … ich
+Jetzt — — der Dornauszieher! Ich greife zu … ich
 halte ihn in der Hand?!
 
 Würde ein Schuß knallen?!
 
 Nichts …
 
-Da drehte ihm die Statue um, betrachtete die Zeichnung
+Da drehte ich die Statue um, betrachtete die Zeichnung
 auf dem Unterteil des Sockels. Ich rückte die Lampe näher.
 Ich nahm mein Taschenmesser … Die schmale untere Sockelplatte,
-sah ich, war nur durch zwei Schränkchen befestigt.
+sah ich, war nur durch zwei Schräubchen befestigt.
 Ich lockerte die Schrauben. Eine ungewisse Vermutung, eine
 Art Vorahnung trieb mich zu diesem Tun. Dann hielt ich
 die Platte in der Hand. Die bisher verdeckte Seite zeigte
 gleichfalls eine Skizze, aus der jedoch ebensowenig klug zu
 werden war wie aus der anderen. Gewiß, die untere Zeichnung
 schien ein Grundriß des Blockhauses zu sein — schien
-nur! Anders war’s mit der zweiten. Rote Tinte hatte
+nur! Anders war’s mit der zweiten. *Rote* Tinte hatte
 man dazu benutzt. Die Striche und Bogen und punktierten
 Linien schwebten jedoch gleichsam in der Luft. Sie bildeten kein
 Ganzes. Es machte den Eindruck, als ob sie willkürlich
@@ -1601,15 +1601,15 @@ hingemalt waren, ohne Sinn und Zweck.
 
 Wenn man nun wie ich so viele Jahre mit Harst
 bereits zusammenarbeitet, gerade mit einem Harst, dann —
-wird man Hellseher — sozusagen. Dann hört man da?
+wird man Hellseher — sozusagen. Dann hört man das
 Gras wachsen, übrigens eine Redensart, die durchaus nicht
 <@pagebreak/>
 widersinnig ist, denn in Zentralindien in den feuchten Dschungeln
-von Banditen gibt es ein unserem Schachtelhalm ähnlich
+von Bawlira gibt es ein unserem Schachtelhalm ähnlich
 Gras, das etwa wie eine geradegerichtete Schnur grüngelber
-Perlen aussieht: Kräften an Knötchen haben diese
+Perlen aussieht: Knötchen an Knötchen haben diese
 Halme, und wenn sie nach kühlerer Nacht im Sonnenschein
-ihr ungewöhnlich rasches Wachstum wieder aufnehmen, platt
+ihr ungewöhnlich rasches Wachstum wieder aufnehmen, platzt
 das oberste Knötchen mit leisem Knall, gebiert ein neues,
 schließt sich nachher wieder, — das neue Knötchen stößt ein
 drittes ab — und so fort. Liegt man inmitten dieses Surragrases,
@@ -1619,10 +1619,10 @@ hört man also wirklich »Gras wachsen«.
 Hellseher wird man als Haralds Freund.
 
 Eine einfache Ideenkombination sagte mir, daß beide
-Zeitungen auf der dünnen Unterplatte wohl einander
+Zeichnungen auf der dünnen Unterplatte wohl einander
 ergänzten. Ich hielt die Marmorplatte gegen das Licht,
-und bei scharfer Prüfung erkannte ich trotz der recht Vers
-jHwommenen Linien, daß die bisher verdeckte Zeichnung sämtliche
+und bei scharfer Prüfung erkannte ich trotz der recht Verschwommenen
+Linien, daß die bisher verdeckte Zeichnung sämtliche
 Geheimnisse des Hauses preisgab. — Näher darauf
 einzugehen, würde Zeit und Zeilen kosten. Jedenfalls: Jetzt
 fand ich nicht nur die Geheimtür rechts neben der Stubentür,
@@ -1631,10 +1631,11 @@ eine Leiter gebaut, den »Spion« droben unter der Decke
 in der Verschalung, der inzwischen geschlossen worden, insofern
 »erweitern«, als zu dem »Loch« eine ganze schmale
 Tür gehörte, die mich in einen Schacht zwischen Verschalung
-und Balken führte — auf eine kleine Leiter — auf ’eine
-zweite, dritte Leiter, durch; einen engen Felsengang schlichte
+und Balken führte — auf eine kleine Leiter — auf eine
+zweite, dritte Leiter, durch einen engen Felsengang schließlich
+…
 
-Und dann — rollte ich vor mir einen hellen Schimmer.
+Und dann — erblickte ich vor mir einen hellen Schimmer.
 
 Einen Vorhang … Licht grinste hindurch …
 
@@ -1649,10 +1650,10 @@ Harald gefunden.
 Tische dort … Auf den Tischen die reglosen Gestalten,
 angekleidet … Fünf Männer, drei Frauen.
 
-Hm Hintergrund ein Tisch, eine große Petroleumlampe,
+Im Hintergrund ein Tisch, eine große Petroleumlampe,
 eine Bank. Dort saß Harst und las. Um den Kopf hatte er
 einen Verband, in der Linken eine brennende Zigarette.
-Er war so vertieft in das die Buch, daß er ganz ’mehanisch
+Er war so vertieft in das die Buch, daß er ganz mechanisch
 die Zigarette zum Munde führte. Auf dem schlichten Holztisch
 bemerkte ich neben der Lampe ein halb gefülltes
 Rotweinglas, auf einem Teller ein paar Zwieback und einen
@@ -1663,16 +1664,16 @@ Vorhänge (es waren wollene, gemusterte Schlafdecken)
 schienen die Zugänge zu Nebengrotten zu verhüllen.
 
 Ich ließ mir Zeit, dieses Gesamtbild in all seinen Einzelheiten
-zu studieren. Um meisten interessierten Miß doch die
+zu studieren. Am meisten interessierten mich doch die
 regungslosen Gestalten auf den schmalen Tischen. Über
-jedem dieser Tisch;e hingen an Haken, die in den Fels
+jedem dieser Tische hingen an Haken, die in den Fels
 festgeschraubt waren, allerlei Drähte und je eine ovale
 große Lampe — offenbar künstliche Höhensonnen. Zwei der
 Drähte liefen zu den Füßen, zwei zu den Köpfen der Opfer
 Lord Sheldons. — Ob der Lord etwa dauernd galvanische
-Ströme Durchsicht; die Körper gehen ließ? — Es schien so.
+Ströme durch die Körper gehen ließ? — Es schien so.
 Denn unter den Kopfpolstern der acht sah ich gewölbte
-Kupferplatten, die mit den Drähten durch Klemmschhrauben
+Kupferplatten, die mit den Drähten durch Klemmschrauben
 verbunden waren. Wahrscheinlich befanden sich in den Schuhen
 der acht ebenfalls Kupferstreifen.
 
@@ -1682,54 +1683,54 @@ Der Kleidung und den Gesichtszügen nach gehörten sie
 wohlhabenderen Kreisen an. Eine Frau und zwei Männer
 <@pagebreak/>
 waren grauhaarig, mindestens fünfzig alt, die anderen weit
-jünger. Wir am nächsten stand der Tisch mit der »Blonden«,
+jünger. Mir am nächsten stand der Tisch mit der »Blonden«,
 die Harald bereits erwähnt hatte.
 
 Ja — Harald!!
 
 Es war mir unbegreiflich, weshalb er, der doch dort am
-Tische ganz gemütlich saß und las, nicht den Versuch 32-
-macht hatte, zu mir nach oben zu kommen. Denn der Schurke
-von Hausmeister war ja zweifellos abwesend. Meine Berg
+Tische ganz gemütlich saß und las, nicht den Versuch gemacht
+hatte, zu mir nach oben zu kommen. Denn der Schurke
+von Hausmeister war ja zweifellos abwesend. Meine 
 Vermutung, er sei jetzt unterwegs zu einem Telegraphenamt, mußte
-wohl stimmen. Aus weitem Grunde verhielt sich Harald
+wohl stimmen. Aus welchem Grunde verhielt sich Harald
 also so tatenlos?! Körperlich fehlte ihm doch nichts! Er las,
 rauchte, und sein Gesicht verriet den Gleichmut eines Menschen,
 der irgendwie die Zeit totschlagen möchte.
 
 Plötzlich regte er sich, blinzelte in das Lampenlicht
-und gähnte herzhaft. Dann blickte er auf seine Armbandsuhr.
+und gähnte herzhaft. Dann blickte er auf seine Armbanduhr.
 — Ich ließ den Vorhang etwas sinken … Aber er
 schaute gar nicht hin. Er erhob sich …
 
 Ich horchte auf …
 
-Was? war das?!
+Was war das?!
 
 Ketten rasselten … schwere Ketten …
 
-Und wie langsam Harald vorwärts schlurfte … Die Ketten
+Und wie langsam Harald vorwärtsschlurfte … Die Ketten
 rasselten … klirrten.
 
-Nur, war das Rätsel gelöst: Harald war mit Ketten an
+Nun war das Rätsel gelöst: Harald war mit Ketten an
 die Felswand gefesselt — an den Füßen! Das hatte ich
 Übersehen.
 
 Er schlurfte zu dem nächsten Tisch, beugte sich über
-den Mann, e9 war der Grauhaarige, — es gab einen
+den Mann, es war der Grauhaarige, — es gab einen
 Knack … Das violette Licht der Höhensonne strahlte auf.
 
 So schlich er schwerfällig, kettenrasselnd von Tisch zu
 Tisch … Die Lampen erfüllten die Grotte mit jenem unangenehmen
 <@pagebreak/>
 Leichenlicht, das selbst die strahlendste Schönheit
-zu Totenfratze verwandelt.
+in Totenfratze verwandelt.
 
 Als er zuletzt auch die »Blonde« derart beleuchtete, konnte
-nicht länger schweigen. Harald war nun ganz in
+ich nicht länger schweigen. Harald war nun ganz in
 Meiner Nähe …
 
-»Tatort,« rief ich leise …
+»Harald,« rief ich leise …
 
 Und an seinem jähen Herumfahren merkte ich, daß er
 erschrak …
@@ -1787,7 +1788,7 @@ der Kehle. Ein Fausthieb tat das übrige. Ich nahm ihn auf
 den Rücken, fand im Keller die Felsplatte offen und … spielte
 nachher dir gegenüber Hausmeister, freilich in der Überzeugung,
 daß du so handeln würdest, wie du gehandelt hast …
-— So lache doch!! Mach’ doch. nicht ein so grie8sgrämiges
+— So lache doch!! Mach’ doch. nicht ein so griesgrämiges
 Besitz!! Man muß doch einen Spaß verstehen, besonders
 wenn man sich so glänzend aus der Affäre gezogen hat
 wie du!! Meine Anerkennung!! Ich »habe dich beobachtet.
