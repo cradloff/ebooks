@@ -155,7 +155,7 @@ die Beine …
 »Wenn du in eine Spalte gesegelt wärest, hätte das …«
 
 <@pagebreak/>
-»ich bin aber nicht gesegelt. Schimpf nicht … Da
+»Ich bin aber nicht gesegelt. Schimpf nicht … Da
 sind die Koffer, die Rucksäcke, ich selbst: in prima Zustand!«
 
 »Ich danke!! Dein Zustand ist mehr alkoholisch wie
@@ -171,7 +171,7 @@ Die Bude, ein einstöckiger Bau aus Steinblöcken und
 dicken Baumstämmen, war derart eingeschneit, daß Harald
 durch die Dachluke hatte eindringen können. Sie war gut
 verschlossen gewesen, aber Schlösser sind kein Hindernis für
-uns,
+uns.
 
 Nun waren wir also in der Blockhütte, die fünf Räume
 besaß: Wohnstube, Schlafstube, Küche nebst Bad, und Toilette.
@@ -180,7 +180,7 @@ Alles sehr schlicht und praktisch.
 Während wir nun rasch den Ofen in der Wohnstube
 mit Holz und Preßkohlen heizten, wurden wir wieder mehr zu
 Menschen. Unser erstarrtes Knochengerüst taute auf, und der
-Alkohol wirkte bei mir noch intensiver,
+Alkohol wirkte bei mir noch intensiver.
 
 »Verrückte Idee,« meinte ich. »Zu dieser Jahreszeit hier
 für Wochen Robinson spielen zu wollen …!! Und weswegen?!
@@ -353,7 +353,7 @@ Die Kurbel steckt noch auf dem Zapfen.«
 Er erhob sich elastisch.
 
 Ich meinte: »Einen Augenblick … Nehmen wir Kognak
-Mit …«
+mit …«
 
 Wir gingen in die Küche. In den Dielen war hier eine
 Falltür, der Zugang zur Kellertreppe. Die Falltür war hochgeklappt.
@@ -489,7 +489,7 @@ interessantesten Stunden meines stillen Dorfarztdaseins.
 einsam am Schreibtisch saß und über seltsame Beobachtungen,
 die ich in letzter Zeit machen konnte, nachgrübelte,
 fielen Sie mir ein. Mich mit meinem Verdacht
-an die Behörden zu wenden, wäre Zwecklos, weil alles in
+an die Behörden zu wenden, wäre zwecklos, weil alles in
 der Luft schwebt, weil ich nichts Positives weiß. Der,
 gegen den mein ganz unbestimmter Argwohn, hier in der
 Nähe könnte vielleicht Ungeheuerliches in der Weltabgeschiedenheit
@@ -529,7 +529,7 @@ Verband an. Sheldon gab ihm für seine Bemühungen dreihundert
 Kronen und sagte beim Abschied, er brauche nicht
 wiederzukommen, die Geschichte würde schon von allein heilen.
 — So wurde der alte Arzt auf Sheldons Geheimnisse
-Zuerst aufmerksam. Es war klar, daß der Lord von fremder
+zuerst aufmerksam. Es war klar, daß der Lord von fremder
 Hand verwundet worden, dies aber verheimlichen wollte. —
 Sörensen stellte nun vorsichtig Ermittlungen über des Engländers
 Tun und Treiben an. Er erfuhr allerlei. Sheldon
@@ -642,7 +642,7 @@ und ihn feierlich in Empfang nehmen. — Komm’ …! Aber
 nimm erst unsere Pistolen aus dem Koffer heraus. Für alle
 Fälle. Und die Taschenlampen …«
 
-Ich kniete, suchte, wühlte im Koffer,
+Ich kniete, suchte, wühlte im Koffer.
 
 Dagegen war nichts zu machen: unsere Pistolen waren
 weg! Der Herr Hausmeister hatte sie geholt, als wir im
@@ -667,7 +667,7 @@ Ich schwieg. Legte mich nieder. Was sollten wir auch
 tun?!
 
 Während ich noch trotz oder wegen Übermüdung nicht
-einschlafen konnte, schnarchte Harald bereits in allen Tonarten
+einschlafen konnte, schnarchte Harald bereits in allen Tonarten.
 
 Die Lampe stand auf dem Tisch vor dem Diwan. Ihr
 Bassin hatten wir gefüllt, und sie würde noch viele Stunden
@@ -789,7 +789,7 @@ Ein glühendes Eisen fuhr mir durch den linken
 Oberarm …
 
 Hinter mir ein schwacher Schrei, ein Poltern … Ich fuhr
-Herum …
+herum …
 
 Die Leiter war leer …
 
@@ -807,7 +807,7 @@ genug, denke ich!«
 Ich war derart benommen, daß ich kaum weiß, was ich
 damals tat, wie ich damals mit meinem halb gelähmten Arm,
 an dem mir das Blut zum Ärmel hinauslief, die Leiter
-Hinabgekommen bin, wie ich die ausgeschaltete Taschenlampe
+hinabgekommen bin, wie ich die ausgeschaltete Taschenlampe
 fand, wie der Lichtkegel dann vor der Leiter eine große
 Blutlache, aber keinen Harst beschien …
 
@@ -917,12 +917,12 @@ Was war das da oben an der Außenwand dicht unter
 der Decke?!
 
 Und — urplötzlich fielen mir da Harsts Rauchringe
-Ein …
+ein …
 
 Wie sie emporgeschnellt, mit einem Male zerflattert
 waren, durch einen Luftzug, durch einen Luftstrom, der —
 — woher gekommen — — woher?! — Nun wußte ich
-Es …
+es …
 
 Dort oben war ein Stück der Wandverschalung, der
 gefirnißten Bretter verschwunden …
@@ -1000,7 +1000,7 @@ und Fliegen dressiert, haben Wespen und Bienen angelockt
 und die Tierchen an sich gewöhnt. Der aus einem Riesensensationsprozeß
 weltbekannt gewordene Advokat H. hatte
 ein halbflügges Spatzenjunges gefunden, zog es groß und
-Überwand durch die Liebe zu dem armseligen Sperling den
+überwand durch die Liebe zu dem armseligen Sperling den
 Selbstmordtrieb.
 
 Hier war es eine Feldmaus, eine graubräunliche ziemlich
@@ -1350,7 +1350,7 @@ die keinen Verschluß, sondern nur einen »Trick« haben.
 
 Trick …! Wo war dieser hier im Wandgetäfel zu
 suchen?! Wo?! Eine Geheimtür geringen Umfanges mußte
-vorhanden sein. bisher waren meine Bemühungen umsonst
+vorhanden sein. Bisher waren meine Bemühungen umsonst
 geblieben. Ich mußte also die Sache anders anpacken. Eine
 Stunde mochte vergangen sein, eine fruchtlose Stunde. Was
 bedeutete dieser geringe Zeitraum, was bedeutete es, daß
@@ -1364,7 +1364,7 @@ mußte das Winterpanorama draußen sein, die weißen Berge,
 die Schlucht, die glatte Fläche des Dahlen-Sees! All das
 war mir verschlossen.
 
-… So Irrten meine Gedanken ab …
+… So irrten meine Gedanken ab …
 
 Aber die tastenden Finger arbeiteten … Mühten sich,
 <@pagebreak/>
@@ -1437,7 +1437,7 @@ Ein Mäuslein …
 
 Ob es meine getupfte Freundin war?!
 
-weshalb sollte ich die Lampe nicht anzünden?! Niemand
+Weshalb sollte ich die Lampe nicht anzünden?! Niemand
 hatte es mir verboten …
 
 Ich nahm das Feuerzeug … Fünkchen sprühten. Dann
@@ -1464,7 +1464,7 @@ Würde die Quittung eine Kugel sein?
 Oh — welch’ nervenkitzelnde Versuchung war das!
 
 <@pagebreak/>
-Knallte kein Schuß, so war tausend gegen eins Zu
+Knallte kein Schuß, so war tausend gegen eins zu
 wetten, daß der Kerl tatsächlich nicht im Hause …!
 
 Ich hob den Arm … Ließ ihn sinken, weil das Mäuslein
@@ -1479,7 +1479,7 @@ Da war neben dem roten, verlaufenen Fleck auf dem
 Rücken noch etwas anderes …
 
 Ich bückte mich noch tiefer … Das Tierchen suchte
-ein Krümchen Zwischen Sohle und Stoff hervorzukratzen …
+ein Krümchen zwischen Sohle und Stoff hervorzukratzen …
 war so eifrig beschäftigt, daß es mein nahes Gesicht nicht
 beachtete.
 
@@ -1525,7 +1525,7 @@ zum Tageslicht — über die Schwelle unsres Bewußtseins.
 So jetzt … — In einem so alten Bau wie dem Harstschen
 Familienhause sammelt sich zur Winterszeit allerhand Getier:
 Mäuse, Ratten, Fledermäuse, Eulen, Käuzchen, —
-sogar Igel hatten wir in den weiten Kellern schon Gefunden.
+sogar Igel hatten wir in den weiten Kellern schon gefunden.
 Vor zwei Jahren war da ein Vernichtungskrieg
 gegen die Mäuse unbedingt erforderlich. Den ausgestreuten
 Giftweizen ließen die kleinen Nager sehr bald liegen. Wir
@@ -1621,7 +1621,7 @@ Hellseher wird man als Haralds Freund.
 Eine einfache Ideenkombination sagte mir, daß beide
 Zeichnungen auf der dünnen Unterplatte wohl einander
 ergänzten. Ich hielt die Marmorplatte gegen das Licht,
-und bei scharfer Prüfung erkannte ich trotz der recht Verschwommenen
+und bei scharfer Prüfung erkannte ich trotz der recht verschwommenen
 Linien, daß die bisher verdeckte Zeichnung sämtliche
 Geheimnisse des Hauses preisgab. — Näher darauf
 einzugehen, würde Zeit und Zeilen kosten. Jedenfalls: Jetzt
@@ -1714,7 +1714,7 @@ rasselten … klirrten.
 
 Nun war das Rätsel gelöst: Harald war mit Ketten an
 die Felswand gefesselt — an den Füßen! Das hatte ich
-Übersehen.
+übersehen.
 
 Er schlurfte zu dem nächsten Tisch, beugte sich über
 den Mann, es war der Grauhaarige, — es gab einen
@@ -1761,96 +1761,95 @@ war so sehr in Angst deinetwegen!« Meine Stimme muß
 wohl sehr gerührt geklungen haben, denn Harst murmelte
 seltsam rauh:
 
-»Sah … war«. ja ganz überflüssig …«
+»Das … war ja ganz überflüssig …«
 
-Machte Horde 654! Von
+Er machte sich frei …
 
-»8« 32. sich 8 verdiene das »Gar, nicht, mein Alter
+»Ich … ich … verdiene das Gar nicht, mein Alter …
 <@pagebreak/>
-Ah … im … habe eigentlich schändlich an dir Gehandelt
-… Hm habe … im habe dich gebracht!!«
+Ich … ich … habe eigentlich schändlich an dir gehandelt
+… Ich habe … ich habe dich geblufft!«
 
-»Was?! Wie?! Je … blufft?«
+»Was?! Wie?! Ge…blufft?«
 
 »Ja … der Herr Hausmeister Mr. Mikky Goorn liegt
 dort hinter jenem Vorhang gefesselt und geknebelt …«
 
-Mein Gesicht muß den jähen Leser meiner Empfindungen
+Mein Gesicht muß den jähen Wechsel meiner Empfindungen
 deutlich wiedergespiegelt haben …
 
-»Nun Schnauze mich nur nicht an!« rief Harald halb
+»Nun schnauze mich nur nicht an!« rief Harald halb
 lachend. »Es war ja doch nur ein Spaß … vielleicht ein
 schlechter … Aber die Verführung war zu groß. Als der Kerl
 auf uns feuerte und mir seine Kugel ein Stück Schläfenhaar
-wegriß und eine Arterie öffnete, ließ im mich von
+wegriß und eine Arterie öffnete, ließ ich mich von
 der Leiter fallen, rollte weiter und bekam den Burschen bei
 der Kehle. Ein Fausthieb tat das übrige. Ich nahm ihn auf
 den Rücken, fand im Keller die Felsplatte offen und … spielte
 nachher dir gegenüber Hausmeister, freilich in der Überzeugung,
 daß du so handeln würdest, wie du gehandelt hast …
-— So lache doch!! Mach’ doch. nicht ein so griesgrämiges
-Besitz!! Man muß doch einen Spaß verstehen, besonders
+— So lache doch!! Mach’ doch nicht ein so griesgrämiges
+Gesicht! Man muß doch einen Spaß verstehen, besonders
 wenn man sich so glänzend aus der Affäre gezogen hat
-wie du!! Meine Anerkennung!! Ich »habe dich beobachtet.
+wie du!! Meine Anerkennung!! Ich habe dich beobachtet.
 Ich sah dich den Mäuserücken mit dem H studieren, — übrigens
 habe ich die Maus rot betupft, das H gemalt und
 sie dann in die Stube gesetzt … Es war nicht dein Mäuslein,
-meist Alter … Es war nur eine Doppelgängerin! — So Wade
-
+mein Alter … Es war nur eine Doppelgängerin! — So lache
 doch …!! — Und dann die Geschichte mit dem Dornauszieher
 — auch großartig! Damit hast du den Vogel
 abgeschossen … Ich wäre darauf nicht gekommen! — Mit
-
 einem Wort: Mein Bluff war dein Sieg! Und deshalb —
 Hand her, und nicht mehr maulen!!«
 
 Seine Augen lächelten, baten …
-ich, das war ja wieder mal so recht mein alter Harst!!
+
+Ach, das war ja wieder mal so recht mein alter Harst!!
 <@pagebreak/>
-Ihm böse sein — unmöglich! Gewiß — — eine Frechheit:
-blieb’s — ja, daß er mich derart hatte Angst schwitzen lassen,
-aber anderseits: Ich war Sieger! Sie auf die letzten Konturen,
-wo ich das Kettenrasseln für Ernst genommen …! Da.
-hatte ich mich blamiert, da hätte ich mir gleich sagen müssen…
-daß diese mittelalterliche -Szene aus Hinausließen Theater«
+Ihm böse sein — unmöglich! Gewiß — — eine Frechheit
+blieb’s ja, daß er mich derart hatte Angst schwitzen lassen,
+aber anderseits: Ich war Sieger! Bis auf die letzten Minuten,
+wo ich das Kettenrasseln für Ernst genommen …! Da
+hatte ich mich blamiert, da hätte ich mir gleich sagen müssen,
+daß diese mittelalterliche Szene aus Burgverließen Theater
 war!!
 
-Ich schmunzelte »… Ein Händedruck, und alles war«
+Ich schmunzelte … Ein Händedruck, und alles war
 wieder im Lot.
 
 Nur nicht für Mr. Mikky Goorn …
 
-»Wo. ist der Kerl?« fragte ich begierig. »Und wenn da.
-ihm auch eins ausgewischt hast, die Tatsache bleibt bestehen::
+»Wo ist der Kerl?« fragte ich begierig. »Und wenn du
+ihm auch eins ausgewischt hast, die Tatsache bleibt bestehen:
 Er hat auf uns geschossen!«
 
 »Allerdings … Geschossen hat er — und nachher geschwiegen.
-Weinst du er will i’gendwie irgendwas gestehen?
-Er denkt gar nicht dran! Er funkelte mich mit seinen hellen.
+Meinst du er will irgendwie irgendwas gestehen?
+Er denkt gar nicht dran! Er funkelte mich mit seinen hellen
 Fischaugen an, als ob er sich über mich lustig machte …
 Und … das behagt mir nicht. Ich weiß nicht, dieser hartgesottene
-Messerschnitt macht mir Sorgen. — Doch komm’ …
-Erst will ich meinte Ketten ablegen. Nimm die Lampe —
+Riesenschuft macht mir Sorgen. — Doch komm’ …
+Erst will ich meine Ketten ablegen. Nimm die Lampe —
 bitte dorthin … Geh’ nur voran …«
 
 Seine Ketten klirrten …
 
-Scheu Wüste ich auf die Gestalten auf den Tischen …
-Ich nahm die Lampe, ging, schlug jene See zur Seite …
+Scheu blickte ich auf die Gestalten auf den Tischen …
+Ich nahm die Lampe, ging, schlug jene Decke zur Seite …
 
-Da war eine winzige Einbuchtung der Grotte … Da:
-war ein Holzstuhl … Da saß gefesselt und geknebelt ein;
-3zwergenhaftes Geschöpf … mit einem Eimerschädel, einer
-eingedrückten Nase, einem faltigen, Südspanien Gesicht, Hänge Unterlippe
-…
+Da war eine winzige Einbuchtung der Grotte … Da
+war ein Holzstuhl … Da saß gefesselt und geknebelt ein
+zwergenhaftes Geschöpf … mit einem Eimerschädel, einer
+eingedrückten Nase, einem faltigen, kittgrauen Gesicht,
+Hängeunterlippe …
 
 Ein kleines Scheusal …
 
 <@pagebreak/>
-Und wie der Bursche höhnisch; mit seinen Schellfischaugen
+Und wie der Bursche höhnisch mit seinen Schellfischaugen
 uns anfunkelte!! Er grinste breit …
 
-Er grinste so unverschämt, daß im am liebsten zugeschlagen
+Er grinste so unverschämt, daß ich am liebsten zugeschlagen
 hätte …
 
 Harald erschien neben mir. »Du bist überrascht, mein
@@ -1859,34 +1858,34 @@ Er könnte etwas größer geraten sein. Das einzig Große
 an ihm ist sein Schädel und seine Schießkunst …«
 
 Als Harst dieses letzte Wort mit besonderer Betonung
-aussprach, veränderten riß die Züge des kleinen Scheusals
+aussprach, veränderten sich die Züge des kleinen Scheusals
 geradezu blitzartig … Ein lauernder Anschlag trat in sein
-welkes Gesicht, sogar etwas wie Verlegenheit … Er Grotte
-dämlich — nur noch; dämlich, und seine Augen hochschätzen
+welkes Gesicht, sogar etwas wie Verlegenheit … Er grinste
+dämlich — nur noch dämlich, und seine Augen bedeckten
 sich mit den Lidern, als scheue er Haralds durchdringenden
 Blick.
 
-warst jedoch jagte rauh: »Tragen wir ihn in die
+Harst jedoch sagte rauh: »Tragen wir ihn in die
 Grotte … Und dann soll er etwas erleben!! Er wird
-federt«
+reden!!«
 
-Wir Paten zu … Der Knirps wog nicht viel. Wir
-stellten den Stuhl dicht vor den Tisch; und setzten uns auf
+Wir packten zu … Der Knirps wog nicht viel. Wir
+stellten den Stuhl dicht vor den Tisch und setzten uns auf
 die Bank nebeneinander.
 
-»—. Unsere Pistolen habe ich natürlich auch wieder,«
+»… Unsere Pistolen habe ich natürlich auch wieder,«
 begann Harald und faßte in die Tasche …
 
-Mikky Goorn Grotte entgeistert in die auf ihn gerichtete
+Mikky Goorn glotzte entgeistert in die auf ihn gerichtete
 Pistolenmündung …
 
 »— Also los, Mr. Goorn! Sie haben auf uns geschossen
-»… Ich schieße auchM4 Schraut, nimm ihm den
-Knebel ab, binde ihn los«…«
+… Ich schieße auch!! Schraut, nimm ihm den
+Knebel ab, binde ihn los …«
 
 Goorn grinste dämlich …
 
-Er Wetzsteine Handgelenke … Er machte dauerte Mundbewegungen,
+Er rieb seine Handgelenke … Er machte kauende Mundbewegungen,
 <@pagebreak/>
 der Knebel schien ihm doch sehr unbequem gewesen
 zu sein.
@@ -1894,11 +1893,11 @@ zu sein.
 Harald griff nochmals in die Tasche … Zog die zweite
 Pistole hervor und meinte: »Mr. Goorn, Sie werden jetzt
 ein Geständnis ablegen. — Sitzen Sie still … Weigern
-Sie sich. so sind Sie erledigt, so wahr ich Harst heiße …«
+Sie sich, so sind Sie erledigt, so wahr ich Harst heiße …«
 
 Mikky krümmte sich wie ein Wurm … Er hatte Angst,
 offenbar gräßliche Angst. Es war ein elender Feigling …
-Er stöhnte … Er flehte, winselte … — exkelhaf!!
+Er stöhnte … Er flehte, winselte … — ekelhaft!!
 
 »Reden Sie!!«
 
@@ -1925,49 +1924,49 @@ Wer sorgfältig gelesen hat, wer nicht lediglich die Seiten
 dem muß bereits bei meiner genialen Einfalt, was den Dornauszieher
 betrifft, etwas aufgefallen sein.
 
-Würden Sie eine Statue, die ein derartiges Erkenntnis
+Würden Sie eine Statue, die ein derartiges Geheimnis
 birgt, so offen und geradezu aufdringlich auf den Schreibtisch
 gestellt haben?
 
-Würden Sie wie Harst so merkwürdig scharf die Schieß
-Fertigkeit des Mikky betont haben?! Würden Sie Trab so
+Würden Sie wie Harst so merkwürdig scharf die Schießfertigkeit
+des Mikky betont haben?! Würden Sie drob so
 verlegen wie Mikky geworden sein?!
 
 <@pagebreak/>
-Denken Sie nach! Vieles Abenteuer ist nicht es, wie
-es scheint!! Wie es ist, darauf werden Sie kaum kommen.
+Denken Sie nach! Dieses Abenteuer ist nicht so, wie
+es scheint!! *Wie* es ist, darauf werden Sie kaum kommen.
 Wir beide haben nur ein einziges Mal derartiges erlebt.
 Tatsächlich. Einen solchen Kriminalfall gibt es nie wieder.
 
 Also — hören Sie weiter …
 
-»Fragen Sie!« hatte Wissen gewinselt.
+»Fragen Sie!« hatte Mikky gewinselt.
 
 Harst fragte, indem er mit beiden Pistolen genau auf
 Mikkys Schellfischaugen zielte …: »Wer sind die Leute da,
-die Lord Sheldon hierher in Kisten vervfrachtete und mit
-Tetanin, dem Starrkrampfgift der brasilianischen GgguschemIndianer
+die Lord Sheldon hierher in Kisten verfrachtete und mit
+Tetanin, dem Starrkrampfgift der brasilianischen Egguschem-Indianer
 zu Scheintoten gemacht hat? Ich habe nämlich
 hier in der Schieblade des Tisches noch eine Flasche mit
 dem syrupartigen Tetanin gefunden, dessen Herstellung die
-Exotischen-Indianer streng geheimhalten, wie in diesem Buche
+Egguschem-Indianer streng geheimhalten, wie in diesem Buche
 über Südamerika zu lesen ist, zwischen dessen Blätter Seine
 Lordschaft einen sehr verräterischen Zettel gelegt hat.«
 
 Mikky heulte … heulte …
 
-»Ich darf nicht reden … t’«
+»Ich darf nicht reden …!!«
 
-»Ich schieße!! Eins … 26e!,
+»Ich schieße!! Eins … zwei …«
 
-»Verbrecher sind’s, Herr Dd
+»Verbrecher sind’s, Herr Harst!«
 
 »Ah — Verbrecher?! Sie lügen!«
 
-»Beim heiligen Paris — es sind Verbrecher, Herr
+»Beim heiligen Patrick — es sind Verbrecher, Herr
 Harst … Seine Lordschaft waren verlobt … Da raubte
 eine internationale Verbrecherbande von acht Personen Miß
-Ellinor F. Fall und verlangte vom Mylord eine Million
+Ellinor F. Fulb und verlangte vom Mylord eine Million
 Lösegeld …«
 
 »Mensch — das ist ja ein Kapitel aus einem Schauerroman!
@@ -1975,75 +1974,75 @@ Ich schieße!!«
 
 »Um Gottes willen — — es ist die Wahrheit … Miß
 Ellinor war auf ein Schiff verschleppt worden … Dort
-errötete sie sich … stark an Lungenentzündung … Die
+erkältete sie sich … starb an Lungenentzündung … Die
 Verbrecher entkamen … Sechs Jahre hat Seine Lordschaft
 diese Schurken gesucht. Endlich entdeckte er sie — in Grönland,
 <@pagebreak/>
 wo sie in dem kultivierten Teile der Westküste als
-Fischer letzten. Er hat sie dann in aller Stille hierher
+Fischer lebten. Er hat sie dann in aller Stille hierher
 gebracht, hat sie … bestraft. Sie leben … Sie erwachen
 jeden Monat drei Tage — drei Tage entsetzlichster Angst
-vor dem neuen Scheintot … — Das … ist alles …«
+vor dem neuen Scheintod … — Das … ist alles …«
 
 Ich — ich fühlte, wie sich mir die Haare sträubten …
 
 War so etwas auszudenken!! Konnte ein Mann von
 Lord Sheldons Namen, einer aus dem reichsten, ältesten
 Geschlecht Englands, sich derart von einem unbezähmten
--Rachegefühl hinreißen lassen, daß er mit sollen Raffinement
-derartige Scheußlichkeiten beging?! Hatte nicht Fuchs Harald,
-als er noch Gerichtgs8assessor und bei der Staatsanwaltschaft
-Beschäftigt war, die Braut sogar durH4 Mörderhand verloren?!
-Und seine Nahe damals: er spürte den Täter
-auf, er fand ihn, und das Gesetz urteilte den elenden Raubs
-gesellen ab! Niemals war es uns auch nur im entferntesten
-»Eingefallen, etwa persönlich strafende Justiz zu spielen!
+Rachegefühl hinreißen lassen, daß er mit solchem Raffinement
+derartige Scheußlichkeiten beging?! Hatte nicht auch Harald,
+als er noch Gerichtsassessor und bei der Staatsanwaltschaft
+beschäftigt war, die Braut sogar durch Mörderhand verloren?!
+Und seine Rache damals: er spürte den Täter
+auf, er fand ihn, und das Gesetz urteilte den elenden Raubgesellen
+ab! Niemals war es uns auch nur im entferntesten
+eingefallen, etwa persönlich strafende Justiz zu spielen!
 
-Welt unglaubliche Verirrung von Sheldon!! Welche
+Welch unglaubliche Verirrung von Sheldon!! Welche
 Torheit außerdem! Denn jetzt durften wir nicht schweigen,
 jetzt mußten wir Anzeige erstatten, und das Ende?! Der
-Lord würde, mochte er auf noch so. milde Richter finden,
+Lord würde, mochte er auch noch so milde Richter finden,
 auf jeden Fall zu Gefängnis verurteilt werden!
 
-… Etwas unnennbar Teuflisches lag ja in dieser Art sich
-zu rächen! Man stelle sich vor: Ah! Menschen wurden hier
-Zeit Monaten künstlich am Leben erhalten, wurden in jedem
+Etwas unnennbar Teuflisches lag ja in dieser Art sich
+zu rächen! Man stelle sich vor: Acht Menschen wurden hier
+seit Monaten künstlich am Leben erhalten, wurden in jedem
 Monat für kurze Zeit ins Bewußtsein zurückgerufen, nur
 damit sie während dieser Tage die entsetzliche Folter der
-Angst vor der neuen Periode des Starrkrampf durchazuachten.
+Angst vor der neuen Periode des Starrkrampf durchmachten.
 
-Wir graute …!
+Mir graute …!
 
-Und auch Harst stieß jetzt heiser Hervor:
+Und auch Harst stieß jetzt heiser hervor:
 
-»Eigentlich müßte im Sie wie einen tollen Hund nieder-.
-knallen, da Sie dem Lord zu diesen Scheußlichkeiten Beihilfe.
+»Eigentlich müßte ich Sie wie einen tollen Hund niederknallen,
+da Sie dem Lord zu diesen Scheußlichkeiten Beihilfe
 <@pagebreak/>
-geleistet haben! — Schraut, binde ihn wieder!! Und geh —
-nicht sanft mit ihm um?!«
+geleistet haben! — Schraut, binde ihn wieder!! Und geh’
+nicht sanft mit ihm um!!«
 
-Da erschien in Mikky Goorns Zügen abermals dies —
+Da erschien in Mikky Goorns Zügen abermals dies
 fatale Grinsen … Grinsend hielt er mir die Hände hin …
 
 »Wer sind Sie nun, Sie … Bestie?« fuhr Harald ihn
 an, als ich ihm gerade den Knebel wieder zwischen die
-Zähne schieben wollte. »Wer sind Sie?! Ich muß Sie von —
-früher her kennen …! Ich sehe Sie hier nicht zum ersten —
+Zähne schieben wollte. »Wer sind Sie?! Ich muß Sie von 
+früher her kennen …! Ich sehe Sie hier nicht zum ersten 
 Male.«
 
 »Ein Jagdaufseher des Lords,« erwiderte Mikky frech.
 
-»Also ein guter Schüsse …!«
+»Also ein guter Schütze …!«
 
-hie 63 Ff
+»Ja …!«
 
-daß — nun weiß ich Bescheid — — Süße! Traten
+»Ah — nun weiß ich Bescheid — — Schütze! Traten
 Sie nicht mal im Zirkus Sarrasani als Kunstschütze auf?«
 
 »Und ob! Aber das liegt Jahre zurück. Berühmt war
-ich! Von mir hat Direktor Strich-Sarrasani erst das Schießen
-gelernt? Nachher versuchte er selbst sich in dieser Kunst
-Ad 50
+ich! Von mir hat Direktor Stosch-Sarrasani erst das Schießen
+gelernt! Nachher versuchte er selbst sich in dieser Kunst
+und …«
 
 »Genug!! — Wie kann man die acht dort erwecken? Es
 gibt doch ein Mittel, die Wirkung des Tetanin aufzuheben.
@@ -2051,44 +2050,44 @@ Leider hat der Lord in seinen Aufzeichnungen hier in der
 Tischschieblade nichts darüber erwähnt.«
 
 Mikky erwiderte ernst — und sein Grinsen schwand:
-»3H weiß es nicht, Mr. Harst! Wüßte ich’s, so würde ich’s
+»Ich weiß es nicht, Mr. Harst! Wüßte ich’s, so würde ich’s
 nicht verschweigen, schon deshalb nicht, damit ich nicht zu
 hart bestraft werde.«
 
 »Wann kommt der Lord wieder hierher?«
 
-»Am 2868ten …«
+»Am 28ten …«
 
 »Und wo weilt er jetzt?«
 
 »In London in seinem Palais.«
 
-»Sann müssen wir hier warten, bis er erscheint. —
+»Dann müssen wir hier warten, bis er erscheint. —
 Hören Sie genau hin, Mikky Goorn … Sie sollen in uns
 Fürsprecher vor Gericht finden, wenn Sie später am 28ten
 <@pagebreak/>
-nach meinen Anweisungen Stunde In. Da zu befürchten ist, das
+nach meinen Anweisungen handeln. Da zu befürchten ist, daß
 der Lord, falls ich ihn jetzt in London verhaften ließe, das
 Geheimnis nicht verrät, wie diese acht Menschen da wieder
 ins Leben zurückgerufen werden können, sondern sie lieber
-sterben läßt, muß er sie hier am 28ten erst ernsten, bevor
+sterben läßt, muß er sie hier am 28ten erst erwecken, bevor
 wir uns seiner bemächtigen. Wir beide, Schraut und ich,
 werden uns also verborgen halten. Verraten Sie, daß wir
-hier sind, so würde Ihnen das nichts Füßen, — Sie würden
+hier sind, so würde Ihnen das nichts nützen, — Sie würden
 eine Kugel im Schädel haben, bevor Sie noch … — Sie
 verstehen!! — Jetzt nehmen wir Sie mit nach oben und
 binden Sie dort auf dem Sofa fest, damit wir ruhig schlafen
 können. — Vorwärts …! Ich bin müde … Wir haben den
 Schlaf verdient, mein Alter.«
 
-Ich heizte rosa den Ofen. Es war vier Uhr morgens,
-als wir uns niederlegten. Wir hatten des Lords Bett! für
-
+Ich heizte noch den Ofen. Es war vier Uhr morgens,
+als wir uns niederlegten. Wir hatten des Lords Bett für
 Harald in das Wohnzimmer getragen.
-Ob ich sehr bald einschlief?
-Ja — — sofort!! Auch Harald pustete und schnarchte,
 
-kaum daß er die See bis zum Kinn emporgezogen hatte.
+Ob ich sehr bald einschlief?
+
+Ja — — sofort!! Auch Harald pustete und schnarchte,
+kaum daß er die Decke bis zum Kinn emporgezogen hatte.
 
 Immerhin: Während des Auskleidens hatte ich noch
 Gelegenheit, mit Harst ein paar leise Sätze zu wechseln. Und
@@ -2096,7 +2095,7 @@ da sagte er zu mir:
 
 »Mein lieber Alter, ich glaube, Seine Lordschaft wird
 weit früher erscheinen! Warten wir ab, ob ich nicht recht
-behaltet«
+behalte!«
 
 Diese Worte fielen mir notwendig sogleich wieder ein,
 als das Abenteuer im Anglerheim nach vier Stunden eine
@@ -2104,16 +2103,16 @@ für uns bedenkliche Wendung nahm …
 
 Ich erwachte jäh …
 
-Ich erwachte … und« über meinem Gesicht lag eine
+Ich erwachte … und über meinem Gesicht lag eine
 Decke, während derbe Fäuste mich festhielten wie in Eisenklammern
 …
 
-Hm Nu war ich gefesselt …
+Im Nu war ich gefesselt …
 
 <@pagebreak/>
 Ein wehrloses Bündel, — — so wurde ich davongetragen
-… Die Kellertreppe hinab, wie ich merkte … hin
-ein in die Grotte zu den Scheintoten, hier auf einen
+… Die Kellertreppe hinab, wie ich merkte … hinein
+in die Grotte zu den Scheintoten, hier auf einen
 Stuhl gedrückt, wieder gefesselt, nur — — die Arme gab
 man mir frei …
 
@@ -2129,7 +2128,7 @@ acht Unglücklichen … Harald rechts von mir, auch auf
 einem Holzstuhl festgebunden …
 
 Uns gegenüber lehnte an dem Tische des Graubarts,
-des Getreten der acht, mit über der Brust gekreuzten Armen
+des Ältesten der acht, mit über der Brust gekreuzten Armen
 Seine Lordschaft, während links Mikky stand, in jeder Hand
 eine Pistole …
 
@@ -2138,50 +2137,42 @@ eine Pistole …
 <h2>5. Kapitel.</h2>
 <h3>Wer ahnte es?.</h3>
 
-Lieber Leser, du kennst sicherlich Rasch Londons Erzählungen.
+Lieber Leser, du kennst sicherlich Jack Londons Erzählungen.
 Spät erst sind sie dem deutschen Publikum zugänglich
-gemacht worden. Es gibt keinen zweiten Sensationsschrift-
-361zn1q 41d4zuwvinvaQ 242214434 23 21m qualmgaeg all 129 (1311311
+gemacht worden. Es gibt keinen zweiten Sensationsschriftsteller,
+der so verblüffend wie er vertierte Grausamkeit, blutige
 Tragödien mit einem Schuß jenes halb ironischen Humors
 zu würzen weiß, der auch seines Landsmanns Mark Twain
 starke Seite ist. Der phantasievollere, vielseitigere, witzigere
-von beiden ist Tag London. Mark Twains Ruhm beruht
+von beiden ist Jack London. Mark Twains Ruhm beruht
 zur Hälfte auf echt amerikanischer Verlegerreklame. — Weshalb
 ich dies hier anführe? — Nun, weil außer diesen
-beiden vor ein Nichtschriftsteller Seiten der den beiden
+beiden noch ein *Nicht*schriftsteller existiert, der den beiden
 an Erfindungsgabe über ist. — Wen ich meine? — —
 Du wirst es sofort erfahren. Jedenfalls nicht etwa mich.
 So unverfroren bin ich denn doch nicht, mich mit London oder
 Twain in einem Atem zu nennen. —
 
 <@pagebreak/>
-Edward Sheldon musterte un« kühl. Sein markanten
+Edward Sheldon musterte uns kühl. Sein markanter
 Charakterkopf zeigte den leicht blasierten, hochmütigen Ausdruck
 des englischen Vollblutgentleman.
 
 Dann sagte er zu Harald — ohne jede Erregung, kalt
-
-— sachlich: »Sie zu fragen, wer Sie beide auf meine »Fährte
-
-gelebt hat, wäre zwecklos. Sie würden nicht antworten.
-
-Wahrscheinlich habe ich diese Ihre Einmischung in Ohne,
-
+— sachlich: »Sie zu fragen, wer Sie beide auf meine Fährte
+gehetzt hat, wäre zwecklos. Sie würden nicht antworten.
+Wahrscheinlich habe ich diese Ihre Einmischung in Dinge,
 die Sie nichts angehen, Doktor Sörensen zu danken. Auch er
 wird also verschwinden. — Der Selbsterhaltungstrieb zwingt
-
 mich, Sie und Ihren Freund genau wie die da …« er
 wies auf die acht Opfer — »mit Tetanin zu behandeln. Ich
-
 werde Sie beide nicht töten, nur vorläufig unschädlich machen,
-— bis ich meine neue Heimat erreicht habe. Die Welt wird
+bis ich meine neue Heimat erreicht habe. Die Welt wird
 mich nie wiedersehen, und mein letztes Lebenszeichen wird
-
-ein schriftliches Geständnis dessen, was ich aus Rache getan, —
+ein schriftliches Geständnis dessen, was ich aus Rache getan, 
 an die Londoner Polizei sein. In diesem Schreiben werde
-
 ich auch die sehr einfache Methode angeben, wie das Tetanin
-»ugenblidlich unwirksam gemacht werden kann, so daß Sie
+augenblicklich unwirksam gemacht werden kann, so daß Sie
 beide, Doktor Sörensen und auch diese acht Verbrecher
 dort, die bereits genügend gestraft sind, unbeschädigt aus
 diesem etwas aufregenden Abenteuer hervorgehen werden. —
@@ -2191,14 +2182,14 @@ mir, Sie beide zu … zwingen, Gewalt anzuwenden.
 Ich gebe Ihnen mein Wort, daß Sie am Leben bleiben
 werden. — Wie stellen Sie sich dazu, Herr Harst?«
 
-Harald blickte scharf naH4 Mikky Goorn hinüber. »Ah —
-er hat unsere Clementpistolen!« meinte er lächelnd …&r
+Harald blickte scharf nach Mikky Goorn hinüber. »Ah —
+er hat unsere Clementpistolen!« meinte er lächelnd. »Er
 glaubt wohl, sie schießen besser … Vielleicht hat er recht.«
 Und zu Sheldon gewandt: »Ihr Wort genügt mir, Mylord.
-Ich würde freiwillig das Tetanin schlafen. Nur … nur …
+Ich würde freiwillig das Tetanin schlucken. Nur … nur …
 — wie denkst du darüber, mein Alter?«
 
-»39h?! Freiwillig?! Niemals!!« Meine Stimme schnappte
+»Ich?! Freiwillig?! Niemals!!« Meine Stimme schnappte
 <@pagebreak/>
 vor Erregung über. »Niemals!! Ihr Wort in Ehren, Mylord,
 — aber Sie können sterben, bevor Sie Ihre Niederschrift
@@ -2216,10 +2207,10 @@ bescheiden sein, Mylord, man muß nie glauben, daß alles,
 was man wünscht, auch in Erfüllung geht. Ich wette, auch
 Sie werden bescheidener werden, Mylord …«
 
-Diese letzten Säße verstand im? nicht. Furcht Sheldon
+Diese letzten Sätze verstand ich nicht. Auch Sheldon
 fragte merklich zögernd:
 
-»Was soll daß?! Bescheidener werden?! Wie habe ich …«
+»Was soll das?! Bescheidener werden?! Wie habe ich …«
 
 »Oh — ich liebe keine langen Erörterungen. Was sein
 muß, muß sein … Also her mit dem Tetanin! Schraut mag
@@ -2230,15 +2221,15 @@ wie damals …
 
 Sheldon trat an den Tisch, füllte einen silbernen Teelöffel
 aus einer Flasche mit einer dicken braunen Flüssigkeit,
-und … ich ließ kein Auge von ihm. Auch Mikk9 schaute
-interessiert zu, wie der Spur in den Teelöffel floß. Der
-Lord stand so, daß er Harsts Gestalt tote, daß Mikky Harst
+und … ich ließ kein Auge von ihm. Auch Mikky schaute
+interessiert zu, wie der Syrup in den Teelöffel floß. Der
+Lord stand so, daß er Harsts Gestalt deckte, daß Mikky Harst
 jetzt also nicht beobachten konnte.
 
 Da merkte ich plötzlich, daß Harald ein paar rasche
 Bewegungen machte. Ich schielte hin … Sein Taschenmesser
-glitt geöffnet aus seinem Formel, und mit schnellen Schnitten
-Falte er sein? Stricke zertrennt.
+glitt geöffnet aus seinem Ärmel, und mit schnellen Schnitten
+hatte er seine Stricke zertrennt.
 
 Als der Lord sich ihm nun zuwandte, saß er still da …
 nahm den Löffel …
@@ -2256,11 +2247,11 @@ Der Lord sank zusammen …
 
 Mikky brüllte vor Wut …
 
-Mikky brüllte ab …
+Mikky drückte ab …
 
 Ich sah es …
 
-Über die Pistolen versagten …
+Aber die Pistolen versagten …
 
 Da hatte Harst ihn schon beim Genick …
 
@@ -2271,19 +2262,19 @@ Sheldon erhob sich mühsam …
 Und in demselben Moment …
 
 Ja — in demselben Moment … — nun rate, lieber
-Leser 555
+Leser …
 
 Was geschah?
 
 Die acht Opfer … sprangen von den Tischen herab …
 
-Ein blonder schlanker Wann rief Sheldon zu:
+Ein blonder schlanker Mann rief Sheldon zu:
 
-»Es stimmt: das Spiel ist aus?«
+»Es stimmt: das Spiel ist aus!«
 
 »Ja,« sagte Harald schmunzelnd, »Mylord hat seine
 Wette, Harald Harst hineinzulegen, glatt verloren! Ich gratuliere
-Ihnen, Lord Pendercroft! Sie haben gewonnen!!«
+Ihnen, Lord Pendercroft! *Sie* haben gewonnen!!«
 
 Pendercroft half Sheldon auf die Beine.
 
@@ -2293,40 +2284,41 @@ vermochte.«
 
 Und — — ich?
 
-Ein Lichtlein ging mir auf — nein, eine die Flackerte!!
+Ein Lichtlein ging mir auf — nein, eine dicke Altarkerze!!
 …
 
-Also das wär’?s!!
+Also *das* war’s!!
 
 Das!!
 
 Alles hier Erlebte nur ein trügerisches Spiel …!!
-Eine Wette! —
-<@pagebreak/>
-»Sir Du benahm riß tadellos, Er reihte Harald die
+Eine Wette!! —
 
-Er Wales Mr. Harst, Sie haben besser denn je bewiesen,
-daß Sie unüberwindtiH sind. Sie würden mich sehr
+<@pagebreak/>
+Sheldon benahm sich tadellos. Er reichte Harald die
+Hand …
+
+»Verehrter Mr. Harst, Sie haben besser denn je bewiesen,
+daß Sie unüberwindlich sind. Sie würden mich sehr
 verpflichten, wenn Sie mir erklären wollten: Woran merkten
 Sie, daß dies nur … Bluff und eine Wette war —
 übrigens eine Wette, die mich über eine Million mit
 den Nebenausgaben kostet, was ich nicht bedauere, da ich
-nun nie wieder wie im März des Vorjahres im TravellerKlub
-mich Zweifelnd über Sie äußern und dadurch jemand
+nun nie wieder wie im März des Vorjahres im Traveller-Klub
+mich zweifelnd über Sie äußern und dadurch jemand
 zu einer Wette reizen werde. Denn so kam diese zustande:
 Mein Freund Pendercroft trat warm für Sie ein, und
-schließlich erbot ich wißt, Sie … hineinzulegen, traf meine
+schließlich erbot ich mich, Sie … hineinzulegen, traf meine
 umständlichen Vorbereitungen, bedrohte den Zollbeamten absichtlich
 mit der Pistole, ließ mir sogar eine Kugel in die
 Schulter jagen, ließ den Doktor gegen die Kisten Verdacht
 schöpfen, engagierte Mikky, den Kunstschützen, damit er sie
-
-nur leicht verwunde, — und so weiter. Ich liebes an
+nur leicht verwunde, — und so weiter. Ich ließ es an
 nichts fehlen, — — und doch, Sie hatten mich durchschaut.
 Wann?«
 
-»Sehr bald,« erklärte Harald achselzuckend, »Sie hatten
-Zu schwere Regiefehler begangen. Der erste war, daß die
+»Sehr bald,« erklärte Harald achselzuckend. »Sie hatten
+zu schwere Regiefehler begangen. Der erste war, daß die
 Kurbel auf den Kartoffeln lag, daß ich also in die Grotte
 leicht hinabkonnte und Ihre acht Bekannten sah, denen die
 Schlafmittel sicher nichts geschadet haben. Unter diesen acht
@@ -2334,9 +2326,9 @@ war mir Lord Pendercroft von Ansehen nicht fremd. — Dann
 der Dornauszieher, Mylord … also die Zeichnung. Ich
 bemerkte sie sehr schnell, als Schraut im Keller war. Da
 war ich bereits im Bilde, ging aber zum Schein auf das Spiel
-ein, um zum Schluß … Sieger 3zu bleiben.«
+ein, um zum Schluß … Sieger zu bleiben.«
 
-Sheldon nickte. »Es »stimmt, das waren Fehler … —
+Sheldon nickte. »Es stimmt, das waren Fehler … —
 Und — Sie tragen mir dies Abenteuer nicht nach?«
 
 »Durchaus nicht … Nur mein lieber alter Freund
@@ -2350,12 +2342,12 @@ Ich lächelte säuerlich.
 
 Und Harst lachte sogar wieder …
 
-»»—. Das Schönste waren der Name Ihrer »Braut«,
-Mylord, Miß F. Fall — also: Bluff, und der Name des
-Indianerstammes »Exotischen« gleich Meschugge …!!«
+»… Das Schönste waren der Name Ihrer »Braut«,
+Mylord, Miß F. Fulb — also: Bluff, und der Name des
+Indianerstammes »Egguschem« gleich Meschugge …!!«
 
-Eine halbe Stunde drauf saßen wir alle beim Fruchtbar
-2:4
+Eine halbe Stunde drauf saßen wir alle beim Frühstück
+…
 
 Es gab Sekt, Sekt, Sekt …
 
@@ -2365,42 +2357,12 @@ Dann weiß ich nicht mehr recht, was weiter geschah …
 
 Das interessiert hier auch nicht. —
 
-Und nun, lieber Leser: Hast du den Ausgang geahnt?
+Und nun, lieber Leser: Hast du *den* Ausgang geahnt?
 
 Wenn du »Ja« sagst, schwindelst du ein wenig!!
 
-und da wir gerade von Schwindeln reden: Nächstens
+Und da wir gerade von Schwindeln reden: Nächstens
 erzähle ich die Geschichte des großen Schwindlerkonzerns!
 
 Womit ich mich für jetzt verabschiede.
 
-<@pagebreak/>
-der Ablenkung, Entspannung und
-Erholung nach des Tages ewig gleicher
-Fronarbeit sollen die Harstbändchen
-bringen — nicht mehr. Der aufmerksame
-Leser wird trotz der Anspruchlosigkeit
-dieser Erzählungen dennoch auch
-Belehrung und Anregung darin finden.
-Die lebenswahre Schilderung von Land
-und Leuten, die!scharfumrissene Gestaltung
-der Charaktere und die gesunde
-Spannung der eigenartigen Stoffe sind
-uns aus den verschiedensten Kreisen der
-Leser immer wieder bestätigt worden.
-Seit acht Jahren haben Harsts Abenteuer-Erzählungen
-nur Freude und
-Unterhaltung gebracht. Schon dies sowie
-die vielen günstigen Beurteilungen selbst
-aus literarisch anspruchsvollen Kreisen
-beweisen, daß jeder Harstfreund mit
-Recht die Bändchen seinen Bekannten
-empfehlen kann. — Jede Buch- und
-Schreibwaren — Handlung hält die
-HarfiErzählungen zum Preise von
-0,20 Im. am Lager. Wo sie nicht zu
-haben sein sollten, bestelle man sie beim
-
-Verlag moderner Lektüre
-
-Berlin so 16, Michaelkirchstraße 232.
