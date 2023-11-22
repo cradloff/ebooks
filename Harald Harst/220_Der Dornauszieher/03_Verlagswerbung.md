@@ -26,7 +26,7 @@ Schreibwaren-Handlung hält die
 0,20 Rm. am Lager. Wo sie nicht zu
 haben sein sollten, bestelle man sie beim
 
-<div class="title2 strong">Verlag moderner Lektüre</div>
-<div class="title2 strong">G. m. b. H.</div>
-<div class="title2">Berlin SO 16, Michaelkirchstraße 23a.</div>
+<div class="title3 strong">Verlag moderner Lektüre</div>
+<div class="title3 strong">G. m. b. H.</div>
+<div class="title3">Berlin SO 16, Michaelkirchstraße 23a.</div>
 
