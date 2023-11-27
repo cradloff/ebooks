@@ -1439,44 +1439,45 @@ Leser denken …
 irgendwo in einer seiner Novellen.
 
 Hier kann von Unsinn keine Rede sein. Hier hat
-auch dieser Titel Hand und Fuß.!
+auch dieser Titel Hand und Fuß.
 
 Also: Fortsetzung …! — Und dann …?!
 
 Ja — dann lag ich da irgendwo und zerbrach mir den
 Kopf, wo ich wohl liegen mochte. Dieser Kopf hatte seine
-Tücken … Es war kein gewöhnlicher Ware-Schraut-Kopf.
+Tücken … Es war kein gewöhnlicher Max-Schraut-Kopf.
 Es war ein Ausnahme-Kopf, ein Riesenkürbis, mindestens
 dreißig Pfund Gewicht, innen hohl und eine Schmiedewerkstatt
-darin … Is hörte den Blasebalg fauchen. Das
-war mein Ohrensausen. Is spürte das Hämmern in den
+darin … Ich hörte den Blasebalg fauchen. Das
+war mein Ohrensausen. Ich spürte das Hämmern in den
 Schläfen …
 
 All das, wie mir langsam klar wurde, die Folge der
 Betäubung im Salon der Radiria.
 
 <@pagebreak/>
-Aber — das hier war N? nicht mehr die Radiria …
-Wo lag ich eigentlich …
+Aber — das hier war doch nicht mehr die Radiria …
 
-Da war über mir in So Dämmerung eine Art
+Wo lag ich eigentlich …?!
+
+Da war über mir in grauer Dämmerung eine Art
 Riesentüte …
 
-Hm — »Riesentüte un
+Hm — Riesentüte …?!
 
 Mein Kürbis begann sich allgemach in den Schrautschen
-Normalkopf zurü&Fzuverwandeln
+Normalkopf zurückzuverwandeln …
 
-Es … roch4 hier auch so gar nicht nach der Radiria.
+Es … roch hier auch so gar nicht nach der Radiria.
 
-Hm Salon der Jacht hatte der Duft der aus birmesischem
+Im Salon der Jacht hatte der Duft der aus birmesischem
 Swandaholz gearbeiteten Möbel vorgeherrscht. Dieses
-Swandaholz ist in Deutschland so gut wie unbekannt, (da
+Swandaholz ist in Deutschland so gut wie unbekannt, da
 die Ausfuhr verboten. Nur für den König von Birma
 darf das Swanda benutzt werden. Amerikanische Nabobs
-freilich haben schon oft die außerordentlich langsam wach
-senden Bäume heimlich zu Möbelstücken verwendet. Das
-Holz riecht ganz zart nach Nelken und Zeichen, behält
+freilich haben schon oft die außerordentlich langsam nachwachsenden
+Bäume heimlich zu Möbelstücken verwendet. Das
+Holz riecht ganz zart nach Nelken und Veilchen, behält
 den Duft unbegrenzt bei und darf nur nicht mit Lack oder
 Politur behandelt werden. Die braunrote Farbe mit hellgelber
 Maserung tritt am besten durch Blankreiben mit
@@ -1485,41 +1486,41 @@ voller Absicht. Inwiefern es später wichtig wird, ersieht
 der Leser aus dem weiteren Verlauf unseres gewiß nicht
 alltäglichen Abenteuers.
 
-Ha — es rot hier nach … nach Wald und Feld
+Ja — es roch hier nach … nach Wald und Feld
 und feuchter, muffiger Leinwand …
 
-Leinwand!! Riesentüte!! Das Indianer—Kinderzeit auf
-Ei unbebauten Grundstück in der Wäldchenstraße in Gellender!!
+Leinwand!! Riesentüte!! Das Indianer-Kinderzeit auf
+dem unbebauten Grundstück in der Wäldchenstraße in Zehlendorf!!
 
 Meine Nase hatte gesiegt. Ich wußte, wo ich lag …
 
-In dem elenden Zelt unter wollenen Teer …
+In dem elenden Zelt unter wollenen Decken …
 
-Und da neben mir — ich hatte nicht mit einem Ruck
+Und da neben mir — ich hatte mich mit einem Ruck
 aufgerichtet — da saß einer und lachte mich an … blies
-an den süßlichen Duft seiner Mirakulum ins Gesicht und
+mir den süßlichen Duft seiner Mirakulum ins Gesicht und
 sagte:
 
-»2G9H begrüße dich in der Heimat, mein Alter«
+»Ich begrüße dich in der Heimat, mein Alter!«
 
 <@pagebreak/>
 Mein Kürbis war jetzt gänzlich wieder Schraut-Kopf
 (bitte — nicht Krautkopf!) geworden.
 
-Immerhin: Hm Oberstübchen wehten noch die Dämpfe der
-verruchten Chemischen Gemenge und trübten die Erinnerung.
+Immerhin: Im Oberstübchen wehten noch die Dämpfe der
+verruchten chemischen Gemenge und trübten die Erinnerung.
 
 Heimat?!
 
 Das hatte aus Harsts Mund so ironisch geklungen …
 
 Und da fügte er schon hinzu: »Du hast nämlich im
-Tiefschlaf so allerhand geredet … Helles Zeug! Von einen
+Tiefschlaf so allerhand geredet … Tolles Zeug! Von einer
 Jacht, einem buckligen Kapitän Jasper Moop und von einer
 Insel und einem Schatz, — weiß Gott, — deine Phantasie
 war rege!«
 
-Ich größte ihn unsicher an …
+Ich glotzte ihn unsicher an …
 
 Sollte ich etwa all das nur geträumt haben?!
 
@@ -1528,29 +1529,29 @@ All das …
 Von der Radiria, von dem Kopfe des Kommerzienrats,
 von dem Schriftstück, das wir …
 
-»Tatort, — du weißt nichts von der Radiria 2« rief ich
+»Harald, — du weißt nichts von der Radiria?« rief ich
 zweifelnd.
 
-»Oh, du hast übergenug davon zusammengesperrt …
+»Oh, du hast übergenug davon zusammengefaselt …«
 
-»So sind wir also gar nicht … auf See gewesen?!
+»So sind wir also gar nicht … auf See gewesen?!«
 
-»Früher oft genug …
+»Früher oft genug …«
 
-und — wir sind hier auf dem Nachbargrundstück der
-
+»und — wir sind hier auf dem Nachbargrundstück der
 Villa Gorre betäubt worden und auch hier geblieben?«
 
 »Du siehst es … Dies ist das Indianerzelt … Man
-Hat uns sorgsam in Decken gerät, und hier haben wir
+Hat uns sorgsam in Decken gepackt, und hier haben wir
 die Betäubung verschlafen …«
 
-Ich Wüste ihn forschend an. »Du — du verulkst mich!!
+Ich blickte ihn forschend an. »Du — du verulkst mich!!
 Es ist ja unmöglich, daß ein Mensch so lebhaft und logisch
-Van kann, wie ich es deiner Behauptung nach gesagt
+träumen kann, wie ich es deiner Behauptung nach getan
+habe …«
 
-»34 weit diese Logik geht, entzieht sich meiner Beurteilung,
-lieber Alter. Über wenn du zweifelst, — wir
+»Wie weit diese Logik geht, entzieht sich meiner Beurteilung,
+lieber Alter. Aber wenn du zweifelst, — wir
 können ja mal den Beweis antreten … Ich helfe dir auf
 die Beine. Ich bin schon eine volle Stunde wach und wieder
 gut bei Kräften. Dann wollen wir der Villa Gorre einen
@@ -1559,14 +1560,14 @@ Morgenbesuch abstatten … Es ist jetzt nämlich genau sieben
 Uhr morgens, neblig und unfreundlich: Aschermittwoch!«
 
 Er erhob sich, — er zog mich mit empor … Er schlug
-den Lappen des Zelteingangs hoch … Is sah die diesige
+den Lappen des Zelteingangs hoch … Ich sah die diesige
 Luft, das fahle Licht der Dämmerung, die Striche der
 Kiefernstämme — — und dort den Haufen Äste und
 Gestrüpp, unser Versteck!
 
-Hatte ich … wirklich) geträumt?!
+Hatte ich … wirklich geträumt?!
 
-Is atmete die würzige Luft in langen, langen Zügen …
+Ich atmete die würzige Luft in langen, langen Zügen …
 
 Radiria?!
 
@@ -1574,19 +1575,19 @@ Gab es überhaupt eine Jacht dieses Namens …?! —
 
 Harald schob seinen Arm in den meinen …
 
-»Du schwankst von? etwas … So, jetzt wollen wir
-hinüber … Du besinnst dich voll noch auf die letzten
-Vorgänge, auf Abriß von Gorres Erscheinen und wie ich
-ihn wieder wegschiste … Dann wurden wir hinterrücks
+»Du schwankst noch etwas … So, jetzt wollen wir
+hinüber … Du besinnst dich doch noch auf die letzten
+Vorgänge, auf Ulrich von Gorres Erscheinen und wie ich
+ihn wieder wegschickte … Dann wurden wir hinterrücks
 betäubt und in das Zelt gelegt … Besinnst du dich?«
 
-»36 … Aber … aber wir waren auf der Radiria!«
+»Ja … Aber … aber wir waren auf der Radiria!«
 behauptete ich hartnäckig.
 
-»Streiten wir nicht …! — Erinnere dich, daß ein ge
-Seiner Gang vom Zelt aus nach der Garage jenseits des
+»Streiten wir nicht …! — Erinnere dich, daß ein geheimen
+Gang vom Zelt aus nach der Garage jenseits des
 Zaunes führen muß … — Atme tief … Atme … damit
-Du Kraft gewinnst … Is werde im Zelt die Decken wegräumen
+Du Kraft gewinnst … Ich werde im Zelt die Decken wegräumen
 … Ich habe bereits mit der Hand gefühlt … Es
 sind Bretter da unter einer dünnen Erdschicht … Unsere
 Taschenlampen haben wir noch, auch unsere Pistolen …
@@ -1620,7 +1621,7 @@ Was wir dort fanden?!
 
 Zunächst die Haustür nur eingeklinkt …
 
-Hm kleinen Damensalon auf dem Diwan lag Dorothy.
+Im kleinen Damensalon auf dem Diwan lag Dorothy
 von Gorre … und schlief im rotseidenen Morgenrock den
 tiefen Schlaf der Betäubung.
 
@@ -1628,21 +1629,21 @@ Weiter wanderten wir … Fanden Ulrich von Gorre
 im Herrenzimmer in einem Klubsessel: schlafend — betäubt!
 
 Als Harst die Verbindungstür zum Salon aufstieß: In
-den Bratkartoffeln drei bekannte Gestalten — die drei Männer,
+den Brokatsesseln drei bekannte Gestalten — die drei Männer,
 die nacheinander in ihrer völlig gleichen Kostümierung im
 Indianerzelt verschwunden waren, nachdem sie sich mit
-Frau Dorothy Furche die Käuzchenrufe verständigt hatten.
+Frau Dorothy durch die Käuzchenrufe verständigt hatten.
 
 In der Küchenregion ähnliche Bilder: die Zofe, der
 Diener, die Köchin, — auch betäubt … auch blaß wie die
 Leintücher, krankhaft farblos.
 
-So sah’s in der Villa aus …
+*So* sah’s in der Villa aus …
 
 Alles schlief …
 
 Alles war der Tücke der Amsterdamer Schwindler erlegen
-— wie wir! …
+— wie wir! 
 
 Und doch: Ungezählte ungeklärte Fragen rief dies Dornröschenschloß
 wach! Fragen, die ich stellte, die Harst mit
@@ -1650,49 +1651,50 @@ einem Achselzucken beantwortete. Nur so.
 
 »Bin ich allwissend!« meinte er schließlich etwas gereizt,
 als wir in den Salon zurückgekehrt waren und hier die drei
-»Radmäntel« mit den Schlapphüten und den Brillen und,
+»Radmäntel« mit den Schlapphüten und den Brillen und
 falschen Bärten näher in Augenschein nahmen.
 
 Wir entfernten Hüte, Bärte, Brillen und hatten so
 <@pagebreak/>
-drei Herren vor uns, von denen wir keinen kannten,
+drei Herren vor uns, von denen wir *keinen* kannten,
 Aber sie besaßen Brieftaschen, und so stellten wir fest:
 
-Kommerzienrat Max Wedler,
-Berlin W., Losbinden Sir. 12.
+<p class="centered">Kommerzienrat Max Wedler,</p>
+<p class="right">Berlin W., Insbrucker Str. 12.</p>
 
-Oberingenieur Thomas Mensch,
-Berlin W., Augustastr. 5.
+<p class="centered">Oberingenieur Thomas Mansch,</p>
+<p class="right">Berlin W., Augustastr. 5.</p>
 
-Dr. weh. Alfred Bau!,
-Wannsee, Uferstr. 18.
+<p class="centered">Dr. weh. Alfred Baul,</p>
+<p class="right">Wannsee, Uferstr. 18.</p>
 
-Dieser Wedler hier hatte mit dem Wedler, dessen
+*Dieser* Wedler hier hatte mit *dem* Wedler, dessen
 Kopf wir gesehen, keinerlei Ähnlichkeit.
-ei Das heißt: dessen Kopf ich im Traume gesehen haben
+
+Das heißt: dessen Kopf *ich* im Traume gesehen haben
 wollte!
 
-»Nun?!« fragte Harald mit rätselvollem Bis. »Nun,
-mein Alter, — ist dies dein toter Wedler?«
+»Nun?!« fragte Harald mit rätselvollem Blick. »Nun,
+mein Alter, — ist dies *dein* toter Wedler?«
 
 »Nein …!«
 
 Inzwischen hatten die letzten Nebel mein Hirn wieder
 freigegeben. — Traum?! All das nur Traum?! — Niemals!!
 
-»Is kenne die Gründe nicht, weshalb du mich täusche
-willst,« meinte ich ernst. »Is habe nicht geträumt. Wir
+»Ich kenne die Gründe nicht, weshalb du mich täusche
+willst,« meinte ich ernst. »Ich habe nicht geträumt. Wir
 waren auf der Radiria, auf der Insel … Wir können das
 sehr einfach feststellen. Es ist ja ausgeschlossen, daß wir volle
-drei Tage bewußtlos in dem Zelt gelegen haben …! Draußen.
+drei Tage bewußtlos in dem Zelt gelegen haben …! Draußen
 im Briefkasten sah ich eine Zeitung stecken. Sie trug das
 Datum des 24. Februar, — Sonnabend morgen 24. Februar.
 In der Nacht vom 20. zum 21. wurden wir in dem Gestrüpp
 betäubt. Mithin: drei Tage!! — Und drei Tage im Zelt
 — — niemals!«
 
-Harald erwiderte unsicher: »Allerdings, wenn heute wird
-Muslim der 24. ist, dann …«
+Harald erwiderte unsicher: »Allerdings, wenn heute wirklich
+der 24. ist, dann …«
 
 … Und schwieg …
 
@@ -1700,7 +1702,7 @@ Muslim der 24. ist, dann …«
 In der Salontür war eine bleiche, übernächtigte Gestalt
 erschienen …
 
-Ulrich Von lag
+Ulrich Von Gorre …
 
 Er lehnte an der Türfüllung …
 
@@ -1714,9 +1716,9 @@ war:
 
 »Wo … sind … die … Schurken?! Haben Sie sie?«
 
-Da erst fiel sein Als auf die drei Herren …
+Da erst fiel sein Blick auf die drei Herren …
 
-Eine Blutwelle schoß ihm in die Wangen »… Und die
+Eine Blutwelle schoß ihm in die Wangen … Und die
 waren dicht mit Bartstoppeln besät …
 
 »Das sind sie!!« rief er schrill. »Herr Harst, ich danke
@@ -1737,22 +1739,22 @@ würden.
 
 Wir saßen in Gorres Herrenzimmer. Er erzählte …
 
-»»… Is lernte Dorothy vor drei Jahren in Nizza
-Tennen. Ihr Widerspruchsvolles Wesen zog mich an …
-Nr nie war ich einer reifen, klugen, jungen Dame begegnet,
+»… Ich lernte Dorothy vor drei Jahren in Nizza
+kennen. Ihr Widerspruchsvolles Wesen zog mich an …
+Noch nie war ich einer reifen, klugen, jungen Dame begegnet,
 die mit so verblüffender Unausgeglichenheit sich gab. Sprudelnde
 Laune, Schwermut, Weltschmerz, tollste Ausgelassenheit,
-LebenSs8gier, Niedergeschlagenheit, unerklärliche Angstanfälle
-… — das wechselte wie Wegen und Sonnenschein.
+Lebensgier, Niedergeschlagenheit, unerklärliche Angstanfälle
+… — das wechselte wie Regen und Sonnenschein.
 Das wirkte auf mich, den Übersättigten, von Frauen Verwöhnten
 wie ein neuartiger prickelnder Trank … — Ich
 hatte in Monte mein letztes Geld verjeut. Was mir geblieben,
 reichte für ein klägliches Spießerdasein. Als ich um
-»Dorothy anhielt, schenkte ich ihr auch in dieser Beziehung
+Dorothy anhielt, schenkte ich ihr auch in dieser Beziehung
 völlig reinen Wein ein. Bevor wir uns verlobten, erklärte
 sie ihrerseits, daß sie eigentlich an mir ein Verbrechen beginge,
 wenn sie mich erhörte. Sie weinte dabei herzzerbrechend.
-Meine Fragen, weshalb sie sich meiner für unwürldig
+Meine Fragen, weshalb sie sich meiner für unwürdig
 <@pagebreak/>
 hielte, beantwortete sie mit unklaren Andeutungen. Es gebe
 da in ihrem Leben ein Geheimnis, daß sie unter keinen
@@ -1760,7 +1762,7 @@ Umständen verraten dürfe … Und diese ihre Vergangenheit
 könnte vielleicht wieder als Schreckgespenst von neuem
 erstehen. Wenn ich mich mit diesen Tatsachen abfände: sie
 liebe mich!! — Und — — wir heirateten bald. Dorothy
-war in der Ehe eine andere. Is habe es nie bereut, ihr
+war in der Ehe eine andere. Ich habe es nie bereut, ihr
 den uralten Namen von Gorre gegeben zu haben. Und
 doch: Nur den Namen, wo mich die Gedanken an ihre
 unverständlichen Andeutungen peinigen wollten — peinigten
@@ -1771,97 +1773,95 @@ meinem Arbeitszimmer … Dort saß Dorothy. Ich sagte
 ihr auf den Kopf zu, daß sie über diese »Glücksadresse« mehr
 wüßte, als sie eingestehen wollte. — Sie … weinte …
 Sie … fiel vor mir in die Knie … Sie flehte mich an,
-sofort mit ihr heimlich. zu verreisen — — irgendwohin …
+sofort mit ihr heimlich zu verreisen — — irgendwohin …
 Morgens … wenn es noch dunkel wäre — irgendwohin.
 Sie glich einer Irren … Sie hatte … Angst, entsetzliche
 Angst … Wovor?! Ich erfuhr es nicht. — Wir gingen
 entfremdet auseinander. Ich hatte volle Offenheit verlangt.
-Sie beschwor mich: Fluch!! — Und dann habe ich sie
-belauert … Zum Sein zog ich mich in mein Schlafs
+Sie beschwor mich: Flucht! — Und dann habe ich sie
+belauert … Zum Schein zog ich mich in mein Schlaf-
 Zimmer zurück. Wir haben getrennte Schlafräume. Das hatte
-
 sie von vornherein verlangt. — Ich beobachtete alles, was
-vorging … Zug sah Je beide … Is stand mit einem
+vorging … Ich sah Sie beide … Ich stand mit einem
 Fernglas hier im Dunkeln am Fenster. Ich sah die drei.
-Männer in den Radmänteln ich — in dem Indianerzelt
-
-versäumten, das mein Chauffeur für ein paar Knaben
-nebenan auf dem unbebauten, mir gehörigen. Grundstück
+Männer in den Radmänteln -- — in dem Indianerzelt
+verschwinden, das mein Chauffeur für ein paar Knaben
+nebenan auf dem unbebauten, mir gehörigen Grundstück
 errichtet hatte. Und dann suchte ich drüben — die drei …
-Sie sprachen mich an, Heer Harst. Ich sollte schweigen …
+Sie sprachen mich an, Herr Harst. Ich sollte schweigen …
 Ich Kehrte um, schlich hierher zurück — — im Dunkeln …
-Hm Dunkeln trat ich hier ein … Und — — sank bewußtlos
+Im Dunkeln trat ich hier ein … Und — — sank bewußtlos
 <@pagebreak/>
-… habe hier bewußtlos gelegen … nach Ihrer Angabe
+um … habe hier bewußtlos gelegen … nach Ihrer Angabe
 drei Tage, und — meinen Bartstoppeln nach tatsächlich drei
 volle Tage! — das … ist … alles … Und jetzt — —
 reden Sie!«
 
-Sein übermüdetes, ’fahle8 Gesicht, die eingefallenen
+Sein übermüdetes, fahles Gesicht, die eingefallenen
 Wangen, das nervöse Flattern der schmalen Hände: Ulrich
-von Gorre war nur noch ein schwacher Rest jenes über eleganten,
+von Gorre war nur noch ein schwacher Rest jenes übereleganten,
 vornehmen Lebemannes, wie ich ihn im Harstschen
 Salon gesehen!
 
-Harald zuckte unmerklich die Achseln. »Is — — reden?!
+Harald zuckte unmerklich die Achseln. »Ich — — reden?!
 — Zuerst muß jetzt Ihre Gattin die Schleier lüften …
 Und sie wird sprechen! Wollen einmal nach ihr sehen.
-Vielleicht ist sie bereits erwacht …
+Vielleicht ist sie bereits erwacht …"
 
-Und wieder eine halbe Stunde drauf saßen wir 1.
+Und wieder eine halbe Stunde drauf saßen wir jetzt
 zu sieben in dem stilvollen Herrenzimmer.
 
 Sieben … Auch die drei Herren waren zu sich gekommen.
-Der Oberingenieur Thomas Mensch war der
-frischeste. Alle drei standen bereits in gesessen Alter.
+Der Oberingenieur Thomas Mansch war der
+frischeste. Alle drei standen bereits in gesetztem Alter.
 
 Frau von Gorre, in die Sofaecke geschmiegt, bat ihn,
 daß er sprechen solle, — — falls er es wage, wie sie zögernd
 betonte.
 
-Thomas Mensch hageres Sportgesicht umwölkte sich.
+Thomas Manschs hageres Sportgesicht umwölkte sich.
 
-»Damit die Verantwortung auf mich fällt« stieß er
+»Damit die Verantwortung auf mich fällt!« stieß er
 unliebenswürdig hervor.
 
-Wedler sagte mildernd: »Sie sind ’der Hauptschuldige
-Mensch … Vergessen Sie das nicht …«
+Wedler sagte mildernd: »Sie sind der Hauptschuldige
+Mansch … Vergessen Sie das nicht …«
 
 Der Oberingenieur, ein Herr mit intelligenten Zügen,
-aber merklich theatralisch; versonnen — mit durchgeistigtem
+aber merklich theatralisch versonnen — mit durchgeistigtem
 Blick, lachte ironisch: »Wenn man hier überhaupt von
 Schuld sprechen kann!« warf er gereizt hin. »Nun gut …
 Ich werde Herrn Harst das Nötigste mitteilen. — Es sind
 jetzt fünf Jahre her. Da trafen im Hotel Prinz Oranje in
 Amsterdam vier Personen, die einander bis dahin nicht
-kannten, zusammen. Hm Speisesaal, wo an einzelnen Tischen
+kannten, zusammen. Im Speisesaal, wo an einzelnen Tischen
 gespeist wurde, hatte der Oberkellner uns vier und zwei
 <@pagebreak/>
 Holländer zusammengesetzt. Es war der einzige größere
 Tisch. Er stand abseits. Wir kamen ins Gespräch. Miß
 Dorothy Lannerson, jetzt Frau von Gorre, war als einzige
 zum Vergnügen in Amsterdam. Wir anderen hatten dort
-Geschäfte zu erledigen, Fuchs die beiden Holländer, die in
+Geschäfte zu erledigen, auch die beiden Holländer, die in
 Java heimische waren, — Plantagenbesitzer, wie sie sagten.
 Unser Kreis wechselte, wie dies bei Zufallsbekanntschaften oft
-geschickt, sehr häufig das Gesprächsthema. Mit der Zeit
+geschieht, sehr häufig das Gesprächsthema. Mit der Zeit
 tauten auch die zurückhaltenden Holländer mehr auf, und als
 wir uns abends wieder zusammenfanden, fragte der eine,
 nachdem er sich unserer Verschwiegenheit versichert hatte, ob
 wir geneigt seien, an einem sehr gewinnbringenden, wenn
-auch4 abenteuerlichen Geschäft uns zu beteiligen. Ich war’s,
-der lachend Palaste. »Warum nicht, — wenn die Geschichte
+auch abenteuerlichen Geschäft uns zu beteiligen. Ich war’s,
+der lachend bejahte. »Warum nicht, — wenn die Geschichte
 lohnt!!« — Sie lohnte … Freilich hatte sie einen Haken …
 Es handelte sich um einen Schatz …«
 
 Als der Oberingenieur dieses ominöse Wort Schatz ausgesprochen
-hatte, wäre ich beinahe heraus8geplatt: »Der Schatz
-der Santa Anna!« Über ein warnender Blick Harsts zügelte
-meine Beteiligten. Is schwieg.
+hatte, wäre ich beinahe herausgeplatzt: »Der Schatz
+der Santa Anna!« Aber ein warnender Blick Harsts zügelte
+meine Voreiligkeit. Ich schwieg.
 
-Thomas Mensch (der mir im übrigen immer weniger
-gefiel, da er zweifellos in seinem Gehabe etwas vom Tot
-Hochstapler an sie; hattet fuhr fort: »Die Holländer Decken nun,
+Thomas Mansch (der mir im übrigen immer weniger
+gefiel, da er zweifellos in seinem Gehabe etwas vom 
+Hochstapler an sich hatte) fuhr fort: »Die Holländer deckten nun,
 nachdem besonders Wedler und Miß Lannerson ihre Zahlungsfähigkeit
 erhärtet hatten, ihre Karten völlig auf. Sie
 waren nicht Plantagenbesitzer, sondern Seeleute, wie sie
@@ -1870,20 +1870,20 @@ von einem gescheiterten spanischen Goldschiff Santa Anna,
 dessen Wrack sie gefunden haben wollten …«
 
 Jetzt war es Ulrich von Gorre, der höhnisch auflachte.
-»Herr Mensch, mit solchen Ammenmärchen, die Sie mit
+»Herr Mansch, mit solchen Ammenmärchen, die Sie mit
 dem trügerischen Kleide der Wahrheit zu umhüllen suchen,
 etwa wie man einen kahlen Berg durch ein paar elende
-Büsche und Blumen als lieblich bewaldeten Hügel zu ums zaubern
+Büsche und Blumen als lieblich bewaldeten Hügel zu umzaubern
 sucht, — mit sollen Gewäsch müssen Sie doch
 <@pagebreak/>
 nicht uns kommen!! Nicht einem Harst, einem Schraut und
 mir selbst!« Er warf seiner Frau einen empörten Blick zu.
 »Dorothy, widerrufe diesen Unsinn, an den ich nie glauben
-werde! Dorothy, bei unserer Liebe — — von »einst: gib der
+werde! Dorothy, bei unserer Liebe — — von einst: gib der
 Wahrheit die Ehre!«
 
 Die blasse Frau dort in der Sofaecke brach in Tränen
-ins. »Ulk — höre erst das Ende …!! Anmarsch lügt nicht!«
+aus. »Ulli — höre erst das Ende …!! Mansch lügt nicht!«
 
 Sie war verzweifelt … Sie war wie niedergebrochen …
 Ihr Tränenstrom wollte gar nicht versiegen.
@@ -1891,23 +1891,23 @@ Ihr Tränenstrom wollte gar nicht versiegen.
 Und ich — — und wohl auch Harald?!
 
 Saßen wir beide nicht, die wir an die Radiria, an
-meinen »Traum« denken mußten! — an das von Seetang
-und Algen bedeckte Weg, — saßen wir nicht wie die Narren.
+meinen »Traum« denken mußten — an das von Seetang
+und Algen bedeckte Wrack, — saßen wir nicht wie die Narren
 hier?! Narren in einem undurchsichtigen Narrenspiel! War’s
 möglich, daß etwa diese drei Herren da und diese schwerreiche,
 früh verwaiste Engländerin vielleicht zu denselben
-Zwecken vor drei Jahren mißbraucht wären wie. wir beide
+Zwecken vor drei Jahren mißbraucht wären wie wir beide
 jetzt?! Konnte das sein?! Sollten wir hier nicht lediglich
 von einer schlauen kleinen Bande von Betrügern hinters
 Licht geführt werden?!
 
-Und — — Thomas Mensch, dieser aalglatte Herr mit
+Und — — Thomas Mansch, dieser aalglatte Herr mit
 dem genialen Augenpaar und dem frechen Ziel, uns die
-Dergestalt eines Seen Schwindels als sanfte Bürde vorzugaukeln,
+Bergeslast eines kecken Schwindels als sanfte Bürde vorzugaukeln,
 — — er sprach weiter … Er sprach gereizt,
 beleidigt, gekränkt …
 
-»Herr von Gorre, Sie sollten mit ihrem Urteil wirkliHM
+»Herr von Gorre, Sie sollten mit ihrem Urteil wirklich
 vorsichtiger sein!! Die Holländer waren Schwindler …
 Sagten uns, sie besäßen nicht die Mittel, ein Schiff auszurüsten
 … Wir gaben das Geld … Wir fuhren nach
@@ -1927,46 +1927,46 @@ eine Viertel Million …! Das schlimmste: wir
 konnten gegen die Betrüger nicht vorgehen, da wir gewußt
 hatten, daß die französische Regierung gesetzlich Anspruch
 auf die Hälfte des Goldes gehabt hätte, — am allerschlimmsten
-aber, da diese Hochstapler uns in einem Schraken das Tollste
+aber, da diese Hochstapler uns in einem Schreiben das Tollste
 vom Tollen höhnisch mitteilten: das Gold stammte aus
 Altmexiko, gewiß, gehörte aber seit Jahrhunderten dem
 Völkermuseum in London, welches zuweilen gründlich repariert
-wird — so damals!!? Und da hatten die Schurken das
-Gold Zur für ihren Schwindel »entliehen«, — — entfliehen,
+wird — so damals!! Und da hatten die Schurken das
+Gold nur für ihren Schwindel »entliehen«, — — entliehen,
 Herr Harst, verstehen Sie!! Für fünf Tage Heimlich nach
-Traumere gebrach!! Dann wieder abgeliefert, Herr Harst.
+Traumere gebracht!! Dann wieder abgeliefert, Herr Harst.
 — natürlich mit Wissen eines der Museumsbeamten! Runde
 Zwei Millionen haben die Schufte dabei verdient — ohne
 jede Gefahr, und — — die Geleimten waren wir vier, —
 geleimt und mitschuldig, zum Schweigen verdammt, fortan
 ewig in der Angst lebend, daß dieses Pack uns … erpressen
-könnte, wie sie uns Schnur angedroht hatten! Eines Oase
-würden sie uns durch: eine «Glüd&S2adresse» erfreuen, stand
+könnte, wie sie uns schon angedroht hatten! Eines Tages
+würden sie uns durch eine «Glücksadresse» erfreuen, stand
 mit auf dem Wisch!! Drei Jahre schwiegen sie, — bis
 sie nun wohl das Geld von damals verpulvert hatten!
 Dann am Fastnachtsabend die bekannten Aluminiumplättchen
-— bei Ihnen, bei Wedler, wo auch ich und der Donner
+— bei Ihnen, bei Wedler, wo auch ich und der Doktor
 als Gäste weilten … Inzwischen hatte Frau Dorothy längst
 mit uns vereinbart, daß, falls einmal die Schurken sich
 melden würden, wir uns heimlich hier zusammenfinden und
 beraten sollten. Frau Dorothy hatte durch den Chauffeur,
 der ihr treu ergeben, den Gang herstellen lassen … Wir
 besaßen noch die Verkleidung, die wir damals auf dem
-Dampfer während der abenteuerlichen Exkursion nach9 Traumere
+Dampfer während der abenteuerlichen Exkursion nach Traumere
 <@pagebreak/>
 getragen: Radmäntel — und so weiter. So erschienen
 wir hier … Und waren kaum in Frau Dorothys Damensalon
 beieinander, als wir auch bereits bewußtlos umsanken
 — wie einst …! Sie fanden uns, Herr Harst …! Und
-es bleibt uns nur noch eins: festzustellen, wieviel Schrecks und
+es bleibt uns nur noch eins: festzustellen, wieviel Schecks und
 in welcher Höhe gefälscht und einkassiert worden sind!«
 
-Was Thomas Mensch zuletzt in wilder Erregung hervorgestoßen
-hatte: Mich überrieselte all das wie ein Gen
+Was Thomas Mansch zuletzt in wilder Erregung hervorgestoßen
+hatte: Mich überrieselte all das wie ein eisiger
 Wassersturz!
 
-Eine einfache, blitzschnelle geistige Prüfung des Gehörte:
-Mensch konnte nicht gelogen haben! Unmöglich!! —
+Eine einfache, blitzschnelle geistige Prüfung des Gehörten:
+Mansch konnte nicht gelogen haben! Unmöglich!! —
 
 Und — mein Traum: Wirklichkeit!!
 
@@ -2051,7 +2051,7 @@ wie Biscopp durchs Radiodepesche der Pariser Polizei meldete …
 (Das Sargassomeer bildet im nordwestlichen Atlantik eine«
 ungeheure Tangwiese.)
 
-— Is habe diese neun Punkte hier absichtlich in aller
+— Ich habe diese neun Punkte hier absichtlich in aller
 Kürze erledigt. Zu erwähnen wäre noch, daß Ulrich vom.
 <@pagebreak/>
 Gorre sich mit seiner Gattin völlig ausgesöhnt hatte und
@@ -2126,7 +2126,7 @@ Harst zog ein Telegrammformular aus der Tasche …
 
 »Bitte … Ein Entwurf … Die pp ging über
 die Station Nordteil an die Radiria … vorgestern abend.
-Is wollte Schrauts Behaglichkeit nicht stören und schwieg
+Ich wollte Schrauts Behaglichkeit nicht stören und schwieg
 Vorüber …«
 
 »Frechheit,« brummte ich …
@@ -2156,7 +2156,7 @@ melden das alle amerikanischen Zeitungen, und die Berliner
 bringen zumindest kurze Notizen darüber … Es war wirklich
 kein Kunststück.«
 
-»Is wußte es nicht, meinte Bechert etwas gereizt.
+»Ich wußte es nicht, meinte Bechert etwas gereizt.
 
 »Ihre Schuld! Es gibt Leute, die ihr Hellblau stundenlang
 Zeile für Zeile lesen und nachher doch nichts von dem
@@ -2173,12 +2173,12 @@ Mark in bar, und — abends findet der Agent die Villa
 fast völlig ausgeräumt vor. Auf dem Küchentisch liegt ein
 Zettel:
 
-Das Grundstücks kann weiterveräußert werden. Is
+Das Grundstücks kann weiterveräußert werden. Ich
 verzichte auf den Besitz. — Josua Amt.
 
 Die Einrichtung des Hauses stammte von dem gestrandeten
 
-englischen Passagierdampfer Clyde. — Is schätze, diese Möbel
+englischen Passagierdampfer Clyde. — Ich schätze, diese Möbel
 wird man auf der Radiria wiedersehen.«
 
 Bechert sprang auf. »Harst, weiß Gott, Sie entdecken
@@ -2281,7 +2281,7 @@ er die vier Millionen durch einen Scheck auf die Amstersdamer
 Bank zu zahlen habe …
 
 »All das roh keineswegs nach Schwindel, Mr. Harst,-«
-erklärte der Yankee weiter. »Is war trotzdem vorsichtig
+erklärte der Yankee weiter. »Ich war trotzdem vorsichtig
 Als ich meine Radiria dann dem Lump von Moop zur!
 Boarfügung stellte, blieb ich an Bord, war nachher im Kutter,
 las Ihre Bescheinigungen, sah den Satz, stellte den Ecke —
@@ -2325,13 +2325,13 @@ wälzte.
 Harsts weit abgeklärtere, verfeinerte Züge wirkten dagegen
 wie die eines stillen, versonnenen Gelehrten. Ein kleines,
 irenisches Lächeln lag um meines Freundes Mund, als
-er nun entgegnete: »Is nehme Ihren Auftrag an, Mr. Biscopp.
+er nun entgegnete: »Ich nehme Ihren Auftrag an, Mr. Biscopp.
 Nur sollen die hunderttausend Dollar nicht mir, sondern
 dem Berliner? Verein für Ferienkolonien zugute kommen. —
 Wissen Sie etwas darüber, wer he? Tote gewesen, dessen
 Kopf man Erfand und mir als den des Kommerzienrats
 <@pagebreak/>
-Wedler zeigte? Is vermute, es handelte sich bei diesem
+Wedler zeigte? Ich vermute, es handelte sich bei diesem
 Toten um ein Mitglied des Schwindlerkonzerns, das durch
 Unfall das Leben verlor und dann brutal zu unserer Einschüchterung
 benutzt wurde, also … eine Zufallsgelegenheit
@@ -2449,7 +2449,7 @@ tadellosen Mondhellen und seine blendende Erscheinung.
 Dann nahmen wir Platz. Hm Salon … Auch sehr
 feudal. John Biscopp hatte gegrinst, als ich Frau Dorothys
 Händchen an die Lippen geführt hatte. Plebejer-Milliardär.
-Is gönnte es ihm, daß die Gorres von ihm keinerlei
+Ich gönnte es ihm, daß die Gorres von ihm keinerlei
 Aufhebens machten. Hm Gegenteil, Herr von Gorres seine
 <@pagebreak/>
 Ironie, mit der er Biscopps Reinfall durch die plombierten
