@@ -1779,12 +1779,12 @@ Sie glich einer Irren … Sie hatte … Angst, entsetzliche
 Angst … Wovor?! Ich erfuhr es nicht. — Wir gingen
 entfremdet auseinander. Ich hatte volle Offenheit verlangt.
 Sie beschwor mich: Flucht! — Und dann habe ich sie
-belauert … Zum Schein zog ich mich in mein Schlaf-
-Zimmer zurück. Wir haben getrennte Schlafräume. Das hatte
+belauert … Zum Schein zog ich mich in mein Schlafzimmer
+zurück. Wir haben getrennte Schlafräume. Das hatte
 sie von vornherein verlangt. — Ich beobachtete alles, was
 vorging … Ich sah Sie beide … Ich stand mit einem
 Fernglas hier im Dunkeln am Fenster. Ich sah die drei.
-Männer in den Radmänteln -- — in dem Indianerzelt
+Männer in den Radmänteln — — in dem Indianerzelt
 verschwinden, das mein Chauffeur für ein paar Knaben
 nebenan auf dem unbebauten, mir gehörigen Grundstück
 errichtet hatte. Und dann suchte ich drüben — die drei …
@@ -1806,7 +1806,7 @@ Salon gesehen!
 Harald zuckte unmerklich die Achseln. »Ich — — reden?!
 — Zuerst muß jetzt Ihre Gattin die Schleier lüften …
 Und sie wird sprechen! Wollen einmal nach ihr sehen.
-Vielleicht ist sie bereits erwacht …"
+Vielleicht ist sie bereits erwacht …«
 
 Und wieder eine halbe Stunde drauf saßen wir jetzt
 zu sieben in dem stilvollen Herrenzimmer.
@@ -1941,7 +1941,7 @@ jede Gefahr, und — — die Geleimten waren wir vier, —
 geleimt und mitschuldig, zum Schweigen verdammt, fortan
 ewig in der Angst lebend, daß dieses Pack uns … erpressen
 könnte, wie sie uns schon angedroht hatten! Eines Tages
-würden sie uns durch eine «Glücksadresse» erfreuen, stand
+würden sie uns durch eine »Glücksadresse« erfreuen, stand
 mit auf dem Wisch!! Drei Jahre schwiegen sie, — bis
 sie nun wohl das Geld von damals verpulvert hatten!
 Dann am Fastnachtsabend die bekannten Aluminiumplättchen
@@ -1998,69 +1998,69 @@ Traumere ward durchsucht: keine Spur von der Santa Anna!
 Blieben ergebnislos. Immerhin wurde im Verlauf von drei
 Tagen folgendes einwandfrei festgestellt:
 
-1\. Die Angaben des Kommerzienrats Wedler und der
-Brei anderen durch den Schwindlerkonzern Geschädigten über
-Hie Vorgänge vor drei Jahren stimmten Zweifellos, In Amsterdam
+1. Die Angaben des Kommerzienrats Wedler und der
+drei anderen durch den Schwindlerkonzern Geschädigten über
+die Vorgänge vor drei Jahren stimmten Zweifellos. In Amsterdam
 im Hotel Prinz Oranje besann man sich noch genau
-»auf das tagelange Verschwinden der Gäste.
+auf das tagelange Verschwinden der Gäste.
 
-2\. Zu derselben Zeit hatten im Londoner Museum falschen
+2. Zu derselben Zeit hatten im Londoner Museum tatsächlich
 Renovierungsarbeiten stattgefunden, und es war
-Keineswegs ausgeschlossen, daß die Azteken-Stäbe damals
+Keineswegs ausgeschlossen, daß die Azteken-Schätze damals
 für den Schwindel zeitweilig aus London entfernt worden
 waren.
 
-3\. Der englische Chauffeur Frau von Gorres war seit
+3. Der englische Chauffeur Frau von Gorres war seit
 <@pagebreak/>
 jener Fastnacht, in der wir beide sowie die Insassen der
 Villa betäubt wurden, spurlos verschwunden.
 
-4\. Zwei Tage vor Fastnacht waren in dem Londoner
-Museum abermals Reparaturen ausgeführt worden, machte
-goldenen Geräte hatte man daher wie schon früher
-in Kisten verpackt und in einen Keller eines Nebengebäude.
+4. Zwei Tage vor Fastnacht waren in dem Londoner
+Museum abermals Reparaturen ausgeführt worden, und
+die goldenen Geräte hatte man daher wie schon früher
+in Kisten verpackt und in einen Keller eines Nebengebäudes
 geschafft. Zeugen fanden sich, die bekundeten, daß in der
-Nacht vor Aschermittwoch« ein Lastauto Kisten an eigene
-Nebeneingang des Museums aufgenommen hatte. Wohin.
-die Ladung gebracht, blieb Vermutung: Wieder nach einer«
-Insel, &ben nach jener Insel, die uns so gut bekannt.
+Nacht vor Aschermittwoch ein Lastauto Kisten an einem
+Nebeneingang des Museums aufgenommen hatte. Wohin
+die Ladung gebracht, blieb Vermutung: Wieder nach einer
+Insel, eben nach jener Insel, die uns so gut bekannt.
 
-5\. Die Goldgeräte waren wieder vollzählig vorhanden …
-— Wer von den Museumsbeamten mit«»den Schwindlern im.
+5. Die Goldgeräte waren wieder vollzählig vorhanden …
+— Wer von den Museumsbeamten mit den Schwindlern im
 Bunde sein könnte, war nicht zu ermitteln.
 
-6\. Wer und wieviel Personen diesmal durch die
-Schwindler mit Hilfe der von uns ausgestellten Urkunde:
+6. Wer und wieviel Personen diesmal durch die
+Schwindler mit Hilfe der von uns ausgestellten Urkunde
 geschädigt, konnte ebensowenig festgestellt werden. Es meldete
-sich niemand, obwohl die Zeitungen die Angelegenheit mit.
+sich niemand, obwohl die Zeitungen die Angelegenheit mit
 allen Einzelheiten veröffentlichten.
 
-7\. Nachts alledem unterlag es keinem Zweifel, daß wir
+7. Nach alledem unterlag es keinem Zweifel, daß wir
 beide wirklich von dem Gauner-Konzern aufs frechste für
 ihre dunklen Zwecke ausgenutzt wurden.
 
-8\. Eine Jacht Radiria hatte sich in der fraglichen Zeit
-in europäischen Gewässern nicht aufgehalten. — Wir hatten.
-auch4 nur von dem rätselhaften Jasper Moop den Namen.
-Radiria gehört. Ob jene Jacht so ließ, wußten wir nicht …
+8. Eine Jacht Radiria hatte sich in der fraglichen Zeit
+in europäischen Gewässern nicht aufgehalten. — Wir hatten
+auch nur von dem rätselhaften Jasper Moop den Namen
+Radiria gehört. Ob jene Jacht so hieß, wußten wir nicht.
 
-9\. Es gab nur eine Jacht Radiria, und die gehörte dem
-Neuyorker Kriegsgewinnler-Milliardär John Biscopp. Sie:
-hatte um die Fastnachtstage das Sargassomeer durchforscht …
-wie Biscopp durchs Radiodepesche der Pariser Polizei meldete …
-(Das Sargassomeer bildet im nordwestlichen Atlantik eine«
+9. Es gab nur eine Jacht Radiria, und die gehörte dem
+Neuyorker Kriegsgewinnler-Milliardär John Biscopp. Sie
+hatte um die Fastnachtstage das Sargassomeer durchforscht,
+wie Biscopp durchs Radiodepesche der Pariser Polizei meldete.
+(Das Sargassomeer bildet im nordwestlichen Atlantik eine
 ungeheure Tangwiese.)
 
 — Ich habe diese neun Punkte hier absichtlich in aller
-Kürze erledigt. Zu erwähnen wäre noch, daß Ulrich vom.
+Kürze erledigt. Zu erwähnen wäre noch, daß Ulrich von
 <@pagebreak/>
 Gorre sich mit seiner Gattin völlig ausgesöhnt hatte und
-lebhafter Anteil an dem Verlauf der Ermittlungen nahm.
+lebhaften Anteil an dem Verlauf der Ermittlungen nahm.
 
 So standen die Dinge am Donnerstag, also eine Woche
 nach jener denkwürdigen Fastnacht. (Über die Hersteller der
 Pfannkuchen mit den Aluminiumplättchen war auch nichts
-zu erfahren, sie blieben genau so im Dunkeln wie »der ganze
+zu erfahren, sie blieben genau so im Dunkeln wie der ganze
 große geniale Schwindlerkonzern.)
 
 Donnerstag also …
@@ -2069,11 +2069,11 @@ Morgens zehn Uhr, kurz nach dem Frühstück … Bei
 uns … Haralds Arbeitszimmer als Schauplatz.
 
 Personen der Handlung: Unser Freund Kriminalkommissar
-Fritz Bechert und. wir beide. Bechert war soeben
+Fritz Bechert und wir beide. Bechert war soeben
 bei uns eingetroffen. Als Abgesandter des Chefs der Kriminalpolizei,
 der uns mitteilen ließ, daß die Jacht Radiria
 jetzt im Hafen von Swinemünde läge. Ob wir nicht mal hinfahren
-und prüfen wollten, wie die Radiria innen aufschaue.
+und prüfen wollten, wie die Radiria innen ausschaue.
 Der Chef wurde eben den Verdacht nicht los, daß
 John Biscopp »der Geleimte« sei.
 
@@ -2087,17 +2087,17 @@ So, als ob all das ihm nichts Neues.
 »Weshalb lachen Sie, Harst?« fragte Bechert etwas
 gereizt.
 
-»ob — ich lächle ja nur … — Glauben Sie, mein
+»Oh — ich lächle ja nur … — Glauben Sie, mein
 lieber Bechert, daß John Biscopp, falls er der Hereingefallene
 sein sollte, seine Radiria wirklich in demselben
 Zustande belassen haben wird wie damals, als er sie den
-Gaunern zur Verfügung stellte?! — Ein Besucht in Swinemünde
+Gaunern zur Verfügung stellte?! — Ein Besuch in Swinemünde
 wäre also Zwecklos. So kommen wir nie hinter
 die Wahrheit … Oder besser: So geben wir der Geschichte
 niemals den Ausklang, den sie haben müßte, den sie verdient,
-— drang einzigartig bleibt sie unter allen Umständen. Ich
+— denn einzigartig bleibt sie unter allen Umständen. Ich
 rate Ihnen, ermitteln zu lassen, wo die Radiria vorher noch
-Häfen angelaufen hat, und ob nicht dort irgendwoher Herr
+Häfen angelaufen hat, und ob nicht dort irgendwo der Herr
 <@pagebreak/>
 Milliardär vielleicht in aller Stille die kostbare Innenausstattung
 vertauschen ließ.«
@@ -2114,31 +2114,31 @@ wechseln?!«
 »Sie scheinen mithin doch John Biscopp für das Opfer
 der Schwindler …«
 
-5:55,00 ist’s …« sagte Harald mit demselben leichten
-
+»… er ist’s …« sagte Harald mit demselben leichten
 Schmunzeln wie vorhin. »Er ist’s bestimmt … Und er
-wird bestimmt hier nach -Berlin kommen. Dann beginnt der
-Schlußakt …
+wird bestimmt hier nach Berlin kommen. Dann beginnt der
+Schlußakt …«
 
 »Bestimmt?! Woher wissen Sie das?«
 
 Harst zog ein Telegrammformular aus der Tasche …
 
-»Bitte … Ein Entwurf … Die pp ging über
-die Station Nordteil an die Radiria … vorgestern abend.
+»Bitte … Ein Entwurf … Die Depesche ging über
+die Station Norddeich an die Radiria … vorgestern abend.
 Ich wollte Schrauts Behaglichkeit nicht stören und schwieg
-Vorüber …«
+darüber …«
 
 »Frechheit,« brummte ich …
 
-»Die Depesche wurde von der Radiria auch wirklich aufs
-gefangen … — Lesen Sie den Entwurf nur, Bechert, aber
+»Die Depesche wurde von der Radiria auch wirklich aufgefangen
+… — Lesen Sie den Entwurf nur, Bechert, aber
 laut … Schraut brennt vor Neugier …«
 
 Und Bechert las
 
-Jacht Radiria, John Biscopp.
-Bitte dringend um Besuch hier in Berlin. Angelegenheit
+> Jacht Radiria, John Biscopp.
+
+> Bitte dringend um Besuch hier in Berlin. Angelegenheit
 wird bedrohlich. — Harald Harst.
 
 Bechert schaute Harald merkwürdig an …
@@ -2149,50 +2149,49 @@ Bechert schaute Harald merkwürdig an …
 Also wußten Sie bereits vorgestern, daß die Radiria …«
 
 »Jeder wußte es, der Zeitungen liest … Wenn ein
-Mann wie BiSs8copp, ein Milliardär, ein Finanzgenie, ein
+Mann wie Biscopp, ein Milliardär, ein Finanzgenie, ein
 <@pagebreak/>
 Politiker besonderer Art, das Sargassomeer durchforscht,
 melden das alle amerikanischen Zeitungen, und die Berliner
 bringen zumindest kurze Notizen darüber … Es war wirklich
 kein Kunststück.«
 
-»Ich wußte es nicht, meinte Bechert etwas gereizt.
+»Ich wußte es nicht,« meinte Bechert etwas gereizt.
 
-»Ihre Schuld! Es gibt Leute, die ihr Hellblau stundenlang
+»Ihre Schuld! Es gibt Leute, die ihr Leibblatt stundenlang
 Zeile für Zeile lesen und nachher doch nichts von dem
 anscheinend Nebensächlichen behalten haben. Es gibt ja überhaupt
 nichts »Nebensächliches«. Jede Zeitungsnotiz ist darin
-der Person nach abzuschlagen. Was dem einen gleichgültig,
+der Person nach abzuschätzen. Was dem einen gleichgültig,
 ist dem anderen Offenbarung. — Haben Sie zum Beispiel
 gestern abend in der Nachtzeitung den Artikel über den
 geheimnisvollen Villenkauf in Kiel gelesen? — Da war eine
 Villa weit draußen, ganz einsam am Strande gelegen, samt
 Mobiliar zu veräußern. Ein Fremder kommt zu dem betreffenden
-GrundstüFs8agenten, bezahlt die verlangten 400&nbsp;000
+Grundstücksagenten, bezahlt die verlangten 400&nbsp;000
 Mark in bar, und — abends findet der Agent die Villa
 fast völlig ausgeräumt vor. Auf dem Küchentisch liegt ein
 Zettel:
 
-Das Grundstücks kann weiterveräußert werden. Ich
-verzichte auf den Besitz. — Josua Amt.
+> Das Grundstück kann weiterveräußert werden. Ich
+verzichte auf den Besitz. — Josua Smitz.
 
 Die Einrichtung des Hauses stammte von dem gestrandeten
-
 englischen Passagierdampfer Clyde. — Ich schätze, diese Möbel
 wird man auf der Radiria wiedersehen.«
 
 Bechert sprang auf. »Harst, weiß Gott, Sie entdecken
-doch immer verbindende Fäden, wo andere nur … Neben
-köstliches vermuten! — Die Radiria war in Kiel. Josua
-Gute wird ein Beauftragter Biscopps gewesen sein. Natürlich?
+doch immer verbindende Fäden, wo andere nur … Nebensächliches
+vermuten! — Die Radiria war in Kiel. Josua
+Smitz wird ein Beauftragter Biscopps gewesen sein. Natürlich
 hat der Milliardär die Inneneinrichtung seiner Jacht
-vertauscht …
+vertauscht …«
 
 »Setzen Sie sie doch wieder … Was regen Sie sich auf?!
-Die kostbare ursprüngliche Einrichtung seiner Radiria wird.
-Biscopp … — ab … ein Aufs vor dem Hause … Es
-hält … Bechert, Sie haben Glut …: Seine Dollarmajestät
-John Biscopp!t«
+Die kostbare ursprüngliche Einrichtung seiner Radiria wird
+Biscopp … — ah … ein Auto vor dem Hause … Es
+hält … Bechert, Sie haben Glück …: Seine Dollarmajestät
+John Biscopp!!«
 
 <@pagebreak/>
 Wir waren ans Fenster geeilt.
@@ -2215,7 +2214,7 @@ wenig entzückt.
 
 »Berliner Kriminalkommissar …«
 
-Worauf Biscopps graue, harte, klare Augen sich unmerksliHM
+Worauf Biscopps graue, harte, klare Augen sich unmerklich
 verkleinerten …
 
 »Ein Freund von Ihnen, Mr. Harst?«
@@ -2229,16 +2228,16 @@ Das war Sturmangriff.
 Biscopp preßte die Lippen schmal. »Was reden Sie
 da?! — Ich — — versenkt?! Bin ich verrückt?!«
 
-»Hm Gegenteil, Sie sind smart. Also haben Sie die
+»Im Gegenteil, Sie sind smart. Also haben Sie die
 Jachtmöbel irgendwo untergestellt. In Kiel wurde ein alter
 Dreimaster von einem Ausländer gechartert und bemannt.
 Ich glaube, Ihre Möbel befinden sich in dem Dreimaster,
-und die aus der Villa, welche von Josua Einst bezahlt und
-wieder aufgegeben wurde, sind jetzt auf der Patina. Sie
+und die aus der Villa, welche von Josua Smitz bezahlt und
+wieder aufgegeben wurde, sind jetzt auf der Radiria. Sie
 hätten sich diese Unkosten sparen können, Mr. Biscopp. An
-der Tatsache, daß Sie den Amsterdamer Gaunern ins Ne!
-gegangen sind, ist doch nichts mehr zu gute:n. Der famose
-Käpten Jasper Moop hat eine Dummheit Heimat. Er hätte
+der Tatsache, daß Sie den Amsterdamer Gaunern ins Netz
+gegangen sind, ist doch nichts mehr zu ändern. Der famose
+Käpten Jasper Moop hat eine Dummheit gemacht. Er hätte
 den Namen Radiria nicht nennen sollen.«
 
 <@pagebreak/>
@@ -2256,17 +2255,18 @@ Daß die Sachen Museumsstücke und nur … entliehen waren?«
 Biscopp schwieg.
 
 »Was hat Ihnen der … Scherz gekostet?« meinte Harald
-an demselben liebenswürdigen Plauderton.
+in demselben liebenswürdigen Plauderton.
 
 Da schaute der Milliardär auf.
 
-»Nun gut …« sagte er schroff. »Der Satan Hofe diese
-Schufte …! Ja, ich, »habe M) hineinlegen lassen … Der
-Spaß begann so …
+»Nun gut …« sagte er schroff. »Der Satan Hole diese
+Schufte …! Ja, ich, »habe mich hineinlegen lassen … Der
+Spaß begann so …«
 
 <@pagebreak/>
-z. Kapitel.
-Um vier Millionen.
+
+<h2>4. Kapitel.</h2>
+<h3>Um vier Millionen.</h3>
 
 Was er erzählte, brachte im ganzen wenig Neues. —
 Vor drei Monaten hatte er einen Brief von Käpten Jasper,
@@ -2291,7 +2291,7 @@ ahnten nichts von dem, was ich vorgehabt. Wir fuhren —
 ohne die goldenen Geräte — nach Hamburg. Der Scheck
 war längst kassiert. Die Schurken hatten ein Flugzeug
 bereit, — und im war zum ersten Male in meinem Leben
-der eklig Geleimte. Ich r e Bescheinigungen und Fingerabdrücke
+der eklig Geleimte. *Ihre* Bescheinigungen und Fingerabdrücke
 <@pagebreak/>
 hatten mich zu sicher gemacht. — Hm übrigen stimmt der
 Rest: die Villa in Kiel gab die neuen Möbel für die Jacht
