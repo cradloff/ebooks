@@ -384,7 +384,7 @@ etwas Neues …!
 Der Alte warf Harald einen schiefen Blick zu. »Also
 auch das wissen Sie …?!«
 
-»Gewiß. Es stand ja 1925 im Januar in alten Zeitungen,
+»Gewiß. Es stand ja 1925 im Januar in allen Zeitungen,
 und wenn mich damals nicht andere Dinge in Anspruch
 genommen hätten, würde ich den Tätern nachgespürt
 haben. Jetzt kenne ich sie: Chamir Goffra und Varami!«
@@ -664,14 +664,14 @@ Der Schläfer konnte kaum fünf Schritt vor mir in einem
 Bett mit Sprungfedern liegen. Die Metallfedern klirrten
 ganz leise, wenn er sich stärker bewegte.
 
-Ob im es wagen durfte, meine Taschenlampe einzuschalten?
+Ob ich es wagen durfte, meine Taschenlampe einzuschalten?
 
 Das Zögern wurde jäh zur Tat …
 
 Hinter mir durch die Holztür Geräusche … Ein Scharren
 … Das Regal wurde gerückt.
 
-Ein Trug auf den Lampenknopf … Ein greller Lichtblitz
+Ein Druck auf den Lampenknopf … Ein greller Lichtblitz
 …
 
 Rasch zur Seite huschend …
@@ -819,7 +819,7 @@ auf dem Eise den linken Oberarm gebrochen. Dolgerston
 blieb stöhnend liegen. Daß die schwarze Katze im Kimono jetzt
 auf mich losfuhr, änderte nicht viel. Ich bin allzeit ein
 Kavalier gewesen. Hier vergaß ich »Knigges Umgang mit
-Mengen« und ging gegen das Mädel geradezu unhöflich vor.
+Menschen« und ging gegen das Mädel geradezu unhöflich vor.
 Sie rollte zur Seite, kreischte wie besessen, ihr Kimono
 öffnete sich und zeigte einen Schlafanzug von zweifelhafter
 Sauberkeit.
@@ -861,7 +861,7 @@ Das muß irgendeine Bedeutung haben. Von den
 allergeheimsten Gebräuchen in einigen bevorzugten Zigeunerfamilien,
 die man als den Zigeuneruradel bezeichnen kann,
 hat man noch wenig Kenntnis. Man ist da auf bloße Vermutungen
-beschränkt, wie aus der Budapester Professor
+beschränkt, wie auch der Budapester Professor
 Tolköß zugibt, und der hat sein ganzes Leben diesen dunklen
 Fragen gewidmet.« — Er steckte sich in aller Gemütsruhe eine
 Zigarette an, hielt auch mir das Etui hin und fügte
@@ -1006,7 +1006,7 @@ Der Artikel lautet wörtlich:
 »Die jahrzehntelangen Bemühungen unserer Behörden, die
 sogenannte Gawir-Sekte, einst ein Schrecken Indiens und
 noch bis in die jüngste Zeit eine ständige Beunruhigung
-des besitzenden Teiles der Bevölkerung ist nun endgültig ausgetilgt.
+des besitzenden Teiles der Bevölkerung, ist nun endgültig ausgetilgt.
 Der hier bei uns rühmlichst bekannte deutsche Weltreisende
 Harald Harst, der es stets ablehnt, etwa Amateurdetektiv
 genannt zu werden, hat in seiner Heimat das Oberhaupt

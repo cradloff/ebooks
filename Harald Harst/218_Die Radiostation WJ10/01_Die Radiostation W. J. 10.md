@@ -159,7 +159,7 @@ eindringlichem Tone:
 gegen jedermann zu schweigen. Sie haben uns da auf die
 Spur eines höchst seltsamen Geheimnisses gebracht, das fraglos
 seine kriminelle Seite hat und das mit allem, was
-bisher an »Radio—Verbrechen« bekannt geworden, nicht die
+bisher an »Radio-Verbrechen« bekannt geworden, nicht die
 geringste Ähnlichkeit besitzt. — Herr Professor, dieser Sender
 W.&nbsp;J.&nbsp;10 steht weder in Boston noch überhaupt in Amerika,
 sondern hier in der Nähe. Ganz abgesehen davon, daß
@@ -295,7 +295,7 @@ Doch das erzählen Sie mir unterwegs. Ich setze mich zwischen
 Sie und dem dicken Schraut, und dann haben wir es
 warm … — Hoppla, mein Alter, rein mit dir in die
 Benzinkutsche … Herr Rippa heißt eigentlich Wirth, ohne
-mit Politik etwas zu tun zu haben, — er beschäftigt sich
+mit Politik etwas zu tun zu haben<@refnote 1/>, — er beschäftigt sich
 neuerdings mit Kriminalfällen, nachdem ihm der Kontorschemel
 zu unbequem geworden. — So, Kollege Wirth, —
 vorwärts … Ich habe Sehnsucht, mir diesen Riesenbrand
@@ -419,7 +419,7 @@ bewegten sich hin und her: scharfe Konturen wie Silhouetten!
 — Eine Hammelherde wurde von Kindern den Hauptweg entlang getrieben
 … Für die Dorfjugend war’s so etwas wie
 eine Faschingsnacht … Sie lachten, lärmten, schwangen ihre
-Stecken, riefen uns zu, daß der Graf, mit verbrannt sei …
+Stecken, riefen uns zu, daß der Graf mit verbrannt sei …
 
 <@pagebreak/>
 Dann bog Harst links in einen Seitenweg ein, der uns
@@ -752,7 +752,7 @@ Dann stoppte Harst. Im Nu hatten wir Wirth verbunden,
 und nun rannten wir am Waldrande die Strecke zurück …
 
 Die Stelle, wo der Wagen in den Chausseegraben geraten,
-war schon von weitem zu erkennen. Hier drangen,
+war schon von weitem zu erkennen. Hier drangen
 wir schräg in den Wald ein, mit zwanzig Schritt Abstand
 — als ob es Wilddieben galt, als ob jede Sekunde hinter
 einem Baume hervor ein Schuß aufblitzen könnte. Unsere
@@ -895,13 +895,13 @@ Ob es falsch?! Ob Haralds schärferer Geist tiefer in
 die dunklen Dinge eingedrungen ist?! Vielleicht …
 
 Und — da hat die bedauernswerte Frau dort vor
-mir plötzlich die Zwecklosen Versuche, die Leiche aus dem
+mir plötzlich die zwecklosen Versuche, die Leiche aus dem
 Wagenkasten zu heben, aufgegeben, — ist herumgefahren,
 — — da erst bemerke ich, und ich kauere mich noch enger
 hinter die kleine Lokomotive, einen zerlumpten Stromer,
 einen alten, hageren, buckligen, graubärtigen Strolch, der
 langsam auf die Gräfin zuschlürft, indem er sich schwer
-auf einen knorrigen Stock stößt …
+auf einen knorrigen Stock stützt …
 
 Das blaurote Gesicht des Vagabunden zeigt einen stupiden,
 unterwürfigen Ausdruck. Das linke Bein schleppt er
@@ -1125,7 +1125,7 @@ Harald tat ein paar Züge aus seiner geliebten Mirakulum
 …
 
 »Herr Rat, einiges wissen Sie schon … Der Professor
-mit seinem Amerika—Empfang war arg im Irrtum. Es
+mit seinem Amerika-Empfang war arg im Irrtum. Es
 arbeiteten, wie ich bald merkte, zwei Sender mit geringer
 Energie in der Nähe — abwechselnd … beide auf derselben
 Welle. Das »Pausenzeichen« bildete die Verständigung
@@ -1224,8 +1224,8 @@ der Kiesgrube in der Notwehr niederschoß.
 Goffra) ließ sich lediglich ermitteln, daß er am Kurfürstendamm
 vier elegant möblierte Zimmer bewohnte und in der
 Lebewelt Berlins eine bekannte Erscheinung geworden.
-
 <@pagebreak/>
+
 5. Der Gutsinspektor Moritz Garmer, zweifellos der
 Vertraute des Grafen, ist verschwunden. Seine Ausweispapiere
 sind falsch und gehören einem bereits verstorbenen
