@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">c9f053b5-3974-418c-88b4-181d09bc7fe3</entry>
+<entry key="title">Der große Schwindlerkonzern</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">221</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Der große Schwindlerkonzern.
+
+Mancher Leser wird bei dem Titel »Schwindlerkonzern« denken: »Na, davon haben wir in Deutschland übergenug Prachtexemplare erlebt!«
+
+Gewiß. Aber unser großer Schwindlerkonzern war eben etwas Besonderes. Wenn ich »unser« sage, so will ich damit andeuten, daß wir daran beteiligt waren, freilich in einer nicht alltäglichen Art. —
+
+Ein Milliardär auf Reisen.
+
+Merkwürdiger Titel für den zweiten Teil — nicht wahr?!
+
+»Milliardär auf Reisen?! Was soll das?!« wird mancher Leser denken …
+
+— Alles hat Sinn, selbst der größte Unsinn, sagt Wedekind irgendwo in einer seiner Novellen.
+
+Hier kann von Unsinn keine Rede sein. Hier hat auch dieser Titel Hand und Fuß.
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (221) Der große Schwindlerkonzern.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1928</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
