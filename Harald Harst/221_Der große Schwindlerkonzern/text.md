@@ -2260,7 +2260,7 @@ in demselben liebenswürdigen Plauderton.
 Da schaute der Milliardär auf.
 
 »Nun gut …« sagte er schroff. »Der Satan Hole diese
-Schufte …! Ja, ich, »habe mich hineinlegen lassen … Der
+Schufte …! Ja, ich habe mich hineinlegen lassen … Der
 Spaß begann so …«
 
 <@pagebreak/>
@@ -2269,35 +2269,35 @@ Spaß begann so …«
 <h3>Um vier Millionen.</h3>
 
 Was er erzählte, brachte im ganzen wenig Neues. —
-Vor drei Monaten hatte er einen Brief von Käpten Jasper,
+Vor drei Monaten hatte er einen Brief von Käpten Jasper
 Moop aus Amsterdam erhalten, worin der biedere Moop
-von den aztekischen Tempelschätzen der gesunkenen Santa:
+von den aztekischen Tempelschätzen der gesunkenen Santa
 Anna und den Ansprüchen der französischen Regierung
-auf die Goldmillionen sprach, weshalb auch die He durchaus
+auf die Goldmillionen sprach, weshalb auch die Sache durchaus
 geheim gehalten werden müsse. Ein Risiko gehe Mr. Biscopp
 nicht ein, da er von dem bekannten Herrn Harst eine
-Bestätigung der Existenz des Schlosses vorgelegt bekäme, bevor
+Bestätigung der Existenz des Schatzes vorgelegt bekäme, bevor
 er die vier Millionen durch einen Scheck auf die Amstersdamer
 Bank zu zahlen habe …
 
-»All das roh keineswegs nach Schwindel, Mr. Harst,-«
-erklärte der Yankee weiter. »Ich war trotzdem vorsichtig
-Als ich meine Radiria dann dem Lump von Moop zur!
-Boarfügung stellte, blieb ich an Bord, war nachher im Kutter,
-las Ihre Bescheinigungen, sah den Satz, stellte den Ecke —
+»All das roch keineswegs nach Schwindel, Mr. Harst,«
+erklärte der Yankee weiter. »Ich war trotzdem vorsichtig.
+Als ich meine Radiria dann dem Lump von Moop zur
+Verfügung stellte, blieb ich an Bord, war nachher im Kutter,
+las Ihre Bescheinigungen, sah den Satz, stellte den Scheck
 aus und wurde von den Halunken … betäubt. Als ich
-erwachte, war ich wieder auf der Radiria. Meine Leute.
+erwachte, war ich wieder auf der Radiria. Meine Leute
 ahnten nichts von dem, was ich vorgehabt. Wir fuhren —
 ohne die goldenen Geräte — nach Hamburg. Der Scheck
 war längst kassiert. Die Schurken hatten ein Flugzeug
-bereit, — und im war zum ersten Male in meinem Leben
+bereit, — und ich war zum ersten Male in meinem Leben
 der eklig Geleimte. *Ihre* Bescheinigungen und Fingerabdrücke
 <@pagebreak/>
-hatten mich zu sicher gemacht. — Hm übrigen stimmt der
+hatten mich zu sicher gemacht. — Im übrigen stimmt der
 Rest: die Villa in Kiel gab die neuen Möbel für die Jacht
 her, und die alte Einrichtung liegt in dem Dreimaster. Aber
 auch ohne Ihre Depesche wäre ich zu Ihnen gekommen, denn
-John Biscopp ist nicht der Mann, der sich so einfach; um
+John Biscopp ist nicht der Mann, der sich so einfach um
 vier Millionen betrügen läßt. Vor der französischen Regierung
 fürchte ich mich nicht. Gut, ich habe sie übervorteilen
 wollen. Zum mindesten war ich damit einverstanden, daß
@@ -2319,17 +2319,17 @@ Jetzt war John Biscopp nicht mehr der Mann, der etwas
 zu verschweigen hatte. Wer ihm jetzt ins Gesicht schaute,
 glaubte ohne weiteres, daß dieser kleine zähe Kerl eine
 ungeheure Energie in sich aufgespeichert hatte, daß hinter
-dieser kantigen Stirn ein allumfassender Geist seine Wilslionenpläne
+dieser kantigen Stirn ein allumfassender Geist seine Millionenpläne
 wälzte.
 
 Harsts weit abgeklärtere, verfeinerte Züge wirkten dagegen
 wie die eines stillen, versonnenen Gelehrten. Ein kleines,
-irenisches Lächeln lag um meines Freundes Mund, als
+ironisches Lächeln lag um meines Freundes Mund, als
 er nun entgegnete: »Ich nehme Ihren Auftrag an, Mr. Biscopp.
 Nur sollen die hunderttausend Dollar nicht mir, sondern
-dem Berliner? Verein für Ferienkolonien zugute kommen. —
-Wissen Sie etwas darüber, wer he? Tote gewesen, dessen
-Kopf man Erfand und mir als den des Kommerzienrats
+dem Berliner Verein für Ferienkolonien zugute kommen. —
+Wissen Sie etwas darüber, wer der Tote gewesen, dessen
+Kopf man Schraut und mir als den des Kommerzienrats
 <@pagebreak/>
 Wedler zeigte? Ich vermute, es handelte sich bei diesem
 Toten um ein Mitglied des Schwindlerkonzerns, das durch
@@ -2350,27 +2350,27 @@ des Präsidiums das Lichtbild des Chauffeurs zeigen,
 lieber Bechert. Schon da wußte ich, wem der abgeschnittene
 Kopf gehört hatte. Es lag ja auch, wie schon betont, auf
 der Hand, daß dieser Engländer mit von der Partie war …
-Ich kann Ihnen noch eröffnen, daß sein eigentlichen Name
-James Klare lautete und daß sein Vater Oberaufseher am
-Londoner Völkermuseum ist, also der Mann, der die alt mexikanischen
+Ich kann Ihnen noch eröffnen, daß sein eigentlicher Name
+James Draie lautete und daß sein Vater Oberaufseher am
+Londoner Völkermuseum ist, also der Mann, der die altmexikanischen
 Kostbarkeiten für den Schwindel den Gaunern
 zugänglich machte.«
 
 Selbst der kaltschnäuzige Biscopp stieß jetzt einen Pfiff
-aus. »Mr. Harst, allerhand Achtung!! Sie haben gut vorgearbeitce!!«
+aus. »Mr. Harst, allerhand Achtung!! Sie haben gut vorgearbeitet!!«
 
 »Und wie stets alles verschwiegen!« rief Bechert kopfschüttelnd.
 »Harst, Harst, eigentlich sollte man Ihnen die
-
 Freundschaft kündigen!! — Was wissen Sie denn noch,
 Sie … Sie … großer Schweiger?!«
+
 »Alles!«
 
 »Alles?!« Bechert beugte sich vor. »Was heißt das?!
 Kennen Sie die Gauner?«
 
 »Ja. Jeden einzelnen, — den ganzen Konzern! Was
-auch sein Kunststück war, Verehrtester. wirklich nicht!«
+auch kein Kunststück war, Verehrtester, wirklich nicht!«
 
 <@pagebreak/>
 »Danke!! Diese Behauptung stellt uns von der Kriminalpolizei
@@ -2382,83 +2382,83 @@ Radiria gewesen wären und mit Jasper Moop gesprochen
 hätten. Die ganze Geschichte war so glänzend eingefädelt,
 daß nur ein besonderes Pech die Schwindler zu entlarven
 vermochte. Dabei mußte man zugegen sein. Und den Vorzug
-hatten Schraut und ich, wobei mein lieber Schraut freilich;
+hatten Schraut und ich, wobei mein lieber Schraut freilich
 wieder wie so oft seine Augen nur für Nebensächliches
 benutzte und die Hauptsache außer acht ließ … Und
-»diese Hauptsache war Jasper Moops Butter.«
+diese Hauptsache war Jasper Moops Buckel.«
 
-»Maden Sie keine faulen Witze!« grollte Bechert. »Ein
-Bude! kann …«
+»Machen Sie keine faulen Witze!« grollte Bechert. »Ein
+Buckel kann …«
 
 »Kann sehr vielsagend sein,« — und Harald erhob
 sich. »Bitte, — ich habe keinen Buddel. Hätte ich einen,
 so würde ich meinem Schneider Anweisung geben, meine
-Jacke dem Bude! anzupassen. Die Jacke, die Jasper Moop
+Jacke dem Buckel anzupassen. Die Jacke, die Jasper Moop
 trug, wippte hinten, das heißt sie war für einen Mann ohne
-Bude! gearbeitet, und auch die andere Jacke, die Jasper nachts
-bei Scheinwerferlicht trug, war »kinderlos« zugeschnitten.
+Buckel gearbeitet, und auch die andere Jacke, die Jasper nachts
+bei Scheinwerferlicht trug, war »buckellos« zugeschnitten.
 Meine Zweifel, ob der Buckel überhaupt echt, erhielten dadurch
 neue Nahrung, zumal Herr Jasper noch mehr fragwürdige
 Eigentümlichkeiten: heisere Sprache, Bart, Haar, Säufernase
 — und so weiter hatte! Mit einem Wort: dieser Moop
-war ein Tochter Moop, obgleich glänzend maskiert, so
+war ein unechter Moop, obgleich glänzend maskiert, so
 glänzend, wie’s ihm kein Schauspieler nachmacht …«
 
 »Wer … war’s?« platzte Biscopp ungeduldig heraus.
 »weshalb spannen Sie uns auf die Folter, Mr. Harst?!
-Ihr Freund Schraut macht schon ein ganz wütendes Gerade
-529
+Ihr Freund Schraut macht schon ein ganz wütendes Gesicht
+…«
 
 »Meine Herren,« erwiderte Harald sehr förmlich, »wir
 wollen, bevor ich meine Karten völlig aufdecke, noch Herrn
 und Frau von Gorre befragen, ob nicht auch sie an Jasper
 Moop dieselben Eigenarten bemerkt haben wie ich. Ich will
 <@pagebreak/>
-mich auf mein Urteil allein nicht verlassen. Jahren wir zu
+mich auf mein Urteil allein nicht verlassen. Fahren wir zu
 Gorres. Zur Sicherheit kann ich ja erst einmal anrufen, ob
 sie daheim sind … Einen Augenblick …«
 
 Er bekam sofort Verbindung. Gorres waren daheim.
 
-»—. Ja, denken Sie, gnädige Frau, der bekannte Milliardär
-Mr. John BiSs8copp ist hier bei uns … Er ist der
+»… Ja, denken Sie, gnädige Frau, der bekannte Milliardär
+Mr. John Biscopp ist hier bei uns … Er ist der
 arme Geleimte … Ich darf ihn doch mitbringen … Wiedersehen
 also, gnädige Frau … Empfehlung an Ihren
 Gatten …«
 
 Wir fuhren gen Zehlendorf.
 
-Hm Auto warf ich Harald einen Bis zu — — einen
+Im Auto warf ich Harald einen Blick zu — — einen
 Blick!! — Er hatte wieder einmal unglaublich an mir gehandelt!!
-Ich, Max Schraut, — ahnungslos wie ein Häuptling!!
+Ich, Max Schraut, — ahnungslos wie ein Säugling!!
 Ein Skandal war’s!!
 
 <h2>5. Kapitel.</h2>
 <h3>Wie er Jasper fing …</h3>
 
-Ja — wie er Jasper fing?!
+Ja — wie er Jasper fing!!
 
-» Ich weiß ja nicht, ob der Leser klüger ist als ich, ob
-er bereits — pardon — den richtigen Riecher ha!! Ich hatte
+Ich weiß ja nicht, ob der Leser klüger ist als ich, ob
+er bereits — pardon — den richtigen Riecher hat! *Ich* hatte
 ihn nicht …
 
 Ich küßte Frau Dorothy von Gorre die Hand, drückte
 Ulrich von Gorres feudale schmale Pfote, bewunderte seinen
-tadellosen Mondhellen und seine blendende Erscheinung.
+tadellosen Monokelsitz und seine blendende Erscheinung.
 
-Dann nahmen wir Platz. Hm Salon … Auch sehr
+Dann nahmen wir Platz. Im Salon … Auch sehr
 feudal. John Biscopp hatte gegrinst, als ich Frau Dorothys
 Händchen an die Lippen geführt hatte. Plebejer-Milliardär.
 Ich gönnte es ihm, daß die Gorres von ihm keinerlei
-Aufhebens machten. Hm Gegenteil, Herr von Gorres seine
+Aufhebens machten. Im Gegenteil, Herr von Gorres feine
 <@pagebreak/>
 Ironie, mit der er Biscopps Reinfall durch die plombierten
-Zähne zog, tat mir wohl. 487;
+Zähne zog, tat mir wohl.
 
-Wir saßen also … Brokatsessel … Alles ganz Zwang
-!o8. Harmloser Besuch, Aussprache … Nur John aus Na.
-benahm sich 3 u zwanglos. Wir sind nun mal in Deutschland
-noch immer an gewisse Anstandsregeln gebunden — —
+Wir saßen also … Brokatsessel … Alles ganz Zwanglos.
+Harmloser Besuch, Aussprache … Nur John aus U.S.A.
+benahm sich *zu* zwanglos. Wir sind nun mal in Deutschland
+noch immer an gewisse Anstandsregeln gebunden —
 zum Glück, und ein Mann, der in Gegenwart einer Dame
 beide Fäuste in die Hosentaschen steckt, bleibt ein — na
 sagen wir Fliegenfänger.
@@ -2470,20 +2470,20 @@ miserable Sitz der Seemannsjacke Jaspers aufgefallen. Freilich
 vor drei Jahren anspielend — nichts damals bemerkt …
 Frau Dorothy wieder konnte sich auf gar nichts besinnen.
 
-Dann wurde der Chauffeur des näheren beleuchtet. Frau.
-von Gorre hatte ihn auf Empfehlung einer Trockenen
+Dann wurde der Chauffeur des näheren beleuchtet. Frau
+von Gorre hatte ihn auf Empfehlung einer Londoner
 Freundin engagiert. Seine Führung war stets tadellos
-Wesen, betonte das Ehepaar.
+gewesen, betonte das Ehepaar.
 
 John Biscopp schien sich bei der Erörterung dieser Dinge
 sträflich zu langweilen und gähnte wiederholt, streckte die
 Beine weit von sich, hatte die Augen zusammengekniffen und
-musterte fortgesetzt Herrn von Gorre mit einer denen
+musterte fortgesetzt Herrn von Gorre mit einer peinlichen
 Zudringlichkeit.
 
-Dann, als die Aussprache einmal stockte, holte er Sir
-meiner grenzenlosen Verblüffung und Empörung eine Cold
-Pistole hervor, schob die Sicherung zurück und … zielte auf
+Dann, als die Aussprache einmal stockte, holte er zu
+meiner grenzenlosen Verblüffung und Empörung eine Coldpistole
+hervor, schob die Sicherung zurück und … zielte auf
 Gorres Kopf …
 
 »Sind Sie verrückt!« brauste ich auf.
@@ -2500,45 +2500,45 @@ Gorre war bleich geworden …
 <@pagebreak/>
 Und ein Blick zu Frau Dorothy … Sie lehnte wie
 ohnmächtig im Sessel …
+
 Was ging hier vor?!
 
 Was?!
 
 Und dann — — mit einem Male, noch bevor John
-aus U. So. ein Wort gesprochen — — dann die Erbrach-.
-Zeitung …
+aus U.S.A. ein Wort gesprochen — — dann die Erleuchtung
+…
 
 Himmel: hatte ich nur ein Brett vor dem Kopfe
 gehabt!!
 
-Da — — sprach John aus Na. — … Und seine
+Da — — sprach John aus U.S.A. — … Und seine
 Pistole behielt die Richtung bei:
 
-»Also Sie sind Jasper Moop!! Sie — — Oberlump!t
-
-Jetzt habe im Sie erkannt, nachdem Mr. Harst mir so einige
+»Also Sie sind Jasper Moop!! Sie — — Oberlump!!
+Jetzt habe ich Sie erkannt, nachdem Mr. Harst mir so einige
 Fingerzeige gegeben. Sie müssen es sein! Denn dies ganze
 Gerede war doch nur Spiegelfechterei …!«
 
 Und da — — Harst: »Woran haben Sie ihn erkannt,
 Mr. Biscopp?«
 
-»An den Händen … an den schmalen seinen Händen …
+»An den Händen … an den schmalen feinen Händen …
 Die fielen mir an Jasper Moop gleich auf, freilich auch
 durch ihren Schmutz … Aber das waren niemals die Hände
 einer alten Seeratte … Das waren …«
 
 »Schon gut,« unterbrach Harald ihn. »Ich denke, Jasper
 Moop wird uns nun freiwillig erzählen, wie die Geschichte
-zusammenhängt … Und denn wird Bechert die Haupt rede
+zusammenhängt … Und dann wird Bechert die Hauptrede
 halten, die nur weniger Worte bedarf … — Also,
-Herr von Gorre, wie steht’s?! Wenn Sie in einen Spiegel,
-Ellen, wenn. Sie Ihre Frau sich ansehen, dann: Bilder
+Herr von Gorre, wie steht’s?! Wenn Sie in einen Spiegel
+blicken, wenn Sie Ihre Frau sich ansehen, dann: Bilder
 schlechten Gewissens! — Los also … Gestehen Sie!«
 
 Gorre war immer fahler geworden … Seine schweißfeuchte
 Stirn, seine zitternden Hände, die blöden Augen.
-Noch nie sah ich einen Menschen derart schnell zusammenflicken!
+Noch nie sah ich einen Menschen derart schnell zusammenbrechen!
 
 Er bewegte die Lippen …
 
@@ -2548,17 +2548,17 @@ Er zuckte wiederholt wie im Krampf zusammen …
 
 <@pagebreak/>
 Und Dorothy?! Der ich vorhin noch die Hand geküßt!!
-Worüber John aus U. So. so höhnisch gegrinst!!
+Worüber John aus U.S.A. so höhnisch gegrinst!!
 
 Dorothy … weinte … heulte …
 
 Dorothy winselte … Sie zog alle Register weiblicher
 Erweichungskünste auf … Sie gestand … Sie versprach
-alles Mögliche: Aufgabe der Millionen … Stiftung für
+alles Mögliche: Rückgabe der Millionen … Stiftung für
 wohltätige Zwecke …
 
 Und John steckte nun seine Pistole wieder ein und sagte
-zu Bechert: —
+zu Bechert:
 
 »Jetzt kommen Sie heran!«
 
@@ -2569,30 +2569,30 @@ Gorre stöhnte …
 
 Frau Gorre beichtete …
 
-Ihr Vater war der Museumsaufseher Klare … Sie
+Ihr Vater war der Museumsaufseher Draie … Sie
 war Witwe gewesen, als sie Gorre heiratete, der längst als
 gewerbsmäßiger Spieler moralisch abgerutscht war. Ihr Bruder
 James wieder war der Chauffeur gewesen. Und die anderen
 Mitglieder des Schwindlerkonzerns: alles halb gescheiterte
 Existenzen, Zufallsbekanntschaften von Monte Carlo her,
-wo zum Beispiel Wedler sein Vermögen eingebüßt und dann.
-schnell den Lösungen Gorres erlegen war.
+wo zum Beispiel Wedler sein Vermögen eingebüßt und dann
+schnell den Lockungen Gorres erlegen war.
 
 Ulrich von Gorre war der Vater des genialen Gedankens,
-mit Hilfe des alten Klare und der Museumsstücke und irgendeines
+mit Hilfe des alten Draie und der Museumsstücke und irgendeines
 Wracks ein paar Dumme gründlich zu erleichtern.
 Vor drei Jahren war’s der Bande zum erstenmal geglückt.
-Die Betrogenen waren damals zwei Reihe Holländer, und
+Die Betrogenen waren damals zwei reiche Holländer, und
 dieses »erste Geschäft« hatte rund zwei Millionen gebracht.
 Jetzt das zweite sollte noch einträglicher werden, hoffte man.
-Und man traf große Vorbereitungen dazu: Pfannkuchen.
-— — und so weiter locken Harald und auch mich in die
+Und man traf große Vorbereitungen dazu: Pfannkuchen
+— — und so weiter lockten Harald und auch mich in die
 Falle … und so weiter,
 
 Das alles kann der Leser sich selbst unschwer ergänzen.
 
-Der Fall Gorre hat seinerzeit in den Zeitungen vergangen
-Welt die ihm gebührende Würdigung gefunden. Bedenkt
+Der Fall Gorre hat seinerzeit in den Zeitungen der
+ganzen Welt die ihm gebührende Würdigung gefunden. Bedenkt
 <@pagebreak/>
 man, welche Mittel benutzt wurden, um durch ein
 fraglos geniales Betrugsmanöver Millionen zu ergaunern, so
@@ -2600,7 +2600,7 @@ kann man es mir nicht verargen, wenn ich hier den Titel,
 »Der große Schwindlerkonzern« gewählt habe. Nicht nur
 die Eigenart der Vorbereitungen, sondern insbesondere bei
 dem zweiten Geschäft der blendende Gedanke, einen Harald
-Harst als Zeugen für die Existenz des Schlosse ins Treffen
+Harst als Zeugen für die Existenz des Schatzes ins Treffen
 zu führen, hebt dieses Hochstaplerstückchen hoch aus dem
 Kranze anderer großzügiger Gaunereien heraus.
 
@@ -2608,7 +2608,7 @@ Daß John Biscopp sein Geld zurückerhielt, daß Leute mit
 bisher hochgeachteten Namen wie Wedler und Genossen
 nunmehr im Gefängnis über den ernsten Satz »Ehrlichkeit
 währt am längsten« nachgrübeln können, ist von minderer
-Bedeutung. Schade is’s um einen Mensch;en wie Ulrich
+Bedeutung. Schade ist’s um einen Menschen wie Ulrich
 von Gorre. An richtiger Stelle hätte er zweifellos für die
 Allgemeinheit viel Gutes leisten können.
 
@@ -2616,45 +2616,14 @@ Hiermit schließe ich die Geschichte von den echt antiken
 mexikanischen Goldgeräten. Zur Abwechslung bringe ich das
 nächste Mal ein Abenteuer, das der Öffentlichkeit bisher
 vorenthalten geblieben — selbst in seinen großen, verschwommenen
-Zügen: »Bedingt begnadigt« will ich es
-nennen. Es? ist die Geschichte jenes Harald Lupe, der zum
+Zügen: »*Bedingt begnadigt*« will ich es
+nennen. Es ist die Geschichte jenes Harold Lync, der zum
 Tode verurteilt war und den die Weisheit einer skrupellosen
-Regierung in einen anderen Tod Schicken, wollte, —
-zugleich die Geschichte einer fast sagenhaften kleinen Zug!
+Regierung in einen anderen Tod Schicken wollte, —
+zugleich die Geschichte einer fast sagenhaften kleinen Insel
 im Stillen Ozean.
 
-Wie wir beide mit Harald Lupe bekannt wurden, das
+Wie wir beide mit Harold Lync bekannt wurden, das
 ist vielleicht noch seltsamer als der ungewöhnliche Trick mit
-den Fastnachtspfannkucen.
+den Fastnachtspfannkuchen.
 
-<@pagebreak/>
-der Ablenkung, Entspannung und
-Erholung nach des Tages ewig gleicher
-Fronarbeit sollen die Harstbändchen
-bringen — nicht mehr. Der aufmerksame
-Leser wird trotz der Anspruchlosigkeit
-dieser Erzählungen dennoch auch
-Belehrung und Anregung darin finden.
-Die lebenswahre Schilderung von Land
-und Leuten, die!scharfumrissene Gestaltung
-der Charaktere und die gesunde
-Spannung der eigenartigen Stoffe sind
-uns aus den verschiedensten Kreisen der
-Leser immer wieder bestätigt worden.
-Seit acht Jahren haben Harsts Abenteuer Erzählungen
-nur Freude und
-Unterhaltung gebracht. Schon dies sowie
-die vielen günstigen Beurteilungen selbe
-aus literarisch anspruchsvollen Kreisen
-beweisen, daß jeder Harstfreund mit
-Recht die Bändchen seinen Bekannten
-empfehlen kann. — Jede Buch- und
-Schreibwaren- Handlung hält die
-Harst-Erzählungen zum Preise von
-0,20 Im. am Lager. Wo sie nicht zu
-
-haben sein sollten, bestelle man sie beim
-
-Verlag moderner Lektüre
-
-Berlin so 16, Michaelkirchstraße so.
