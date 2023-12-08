@@ -141,7 +141,7 @@ Nerven«, mochte auch durch die anhaltenden Regengüsse,
 den Sturm und die jähen Temperaturschwankungen dieser
 Tage beeinflußt werden. Ich bin robuster in dieser Beziehung.
 Ich liebe das Heulen, Pfeifen und Fauchen des Windes
-im Kamm und das Klappern der Fensterläden und das
+im Kamin und das Klappern der Fensterläden und das
 Trommeln der Hagelschauer … Solch eine Abendstunde
 war’s, als Rat Gernapp mit Harald endgültig den Fall
 <@pagebreak/>
@@ -279,7 +279,7 @@ einem ihrer beliebten Damenkaffees, bei denen sie so viel
 Schmargendorfer Neuigkeiten einheimste, daß sie stets Stoff
 für drei Tage hatte.
 
-Mathilde war platt, all ich Kaviar, Hummer, Gänsefleisch
+Mathilde war platt, als ich Kaviar, Hummer, Gänsefleisch
 in Sülze, und Kartoffelpuffer verlangte. Sie blinzelte
 mich mißtrauisch aus kleinen Schweinsäuglein an, in
 denen doch immer so viel Anteilnahme an den Geschicken
@@ -325,7 +325,7 @@ ist mir eben eine dicke Kirchenkerze aufgegangen! Setz’ dich
 nur, Mutter … Du siehst, ich habe sogar den Schloßabzug
 1854 heraufholen lassen … Er geht mir zu sehr ins Blut,
 doch Schraut und ich brauchen ja Fastnachtsstimmung für
-den Fall der Eisenfäuste. So ganz zahm wird es dort
+den Ball der Eisenfäuste. So ganz zahm wird es dort
 nicht hergehen, glaube ich … Der schlaue August — meist
 kriegt man nur dumme Auguste im Zirkus zu sehen! —
 wird heute oder nie zur Strecke gebracht. — Setz’ dich,
@@ -347,7 +347,7 @@ Klingen geschickt … Mithin sind wir wie die Räuber bewaffnet
 …«
 
 Aber meine billigen Witze waren nicht dazu angetan, ein
-Besorgtes Mutterherz zu beruhigen.
+besorgtes Mutterherz zu beruhigen.
 
 »… Auch bei der Frau Pastor wurde heute über
 den Mord Pallasch gesprochen,« meinte Frau Harst seufzend.
@@ -670,7 +670,7 @@ wiedergefunden. Er rauschte in den Flur, winkte den beiden
 Pagen-Jungfrauen, und hoch erhobenen Hauptes schritt er
 an Gernapp vorüber. Wir beide bildeten sein Gefolge. —
 
-Die drei Säle waren überfüllt. Allee, was Berlin N.
+Die drei Säle waren überfüllt. Alles, was Berlin N.
 an zweifelhaften Existenzen »besserer Art« aufzuweisen hatte,
 gab sich heute hier ein Stelldichein.
 
@@ -744,7 +744,7 @@ bringen.
 Tragödien bereiteten sich hier vor. Noch nie hatte ich,
 eingehüllt in ein derartiges Kostüm, ein derartiges Fest
 mitgemacht … Noch nie hatte ich das geradezu Grauenvolle
-einer sollen Scheinwelt, unter deren lachender Fratze
+einer solchen Scheinwelt, unter deren lachender Fratze
 das Verbrechen, das Zuchthaus, der Tod lauern, so bedrückend
 empfunden … Jedes Aufheulen der Jazzmusik tat mir
 weh … Ich trank … trank … Ich sah Annis Augen
@@ -811,7 +811,7 @@ von Lehar:
 
 <p class="centered">Gern … hab’ ich die Frau’n geküßt …</p>
 
-Wie wehmütiges Locken kann’s über Weiberlippen … —
+Wie wehmütiges Locken kam’s über Weiberlippen …
 
 Alles sang mit …
 

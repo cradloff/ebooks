@@ -77,7 +77,7 @@ mehr als mulmig sind, wie der Berliner sich ausquetscht.
 
 <p class="centered pre">Mit allerforziglichster Hochachtung
 August <em>Krawuschke</em>,
-1\. Vorsitzender, Inhaber der internationalen
+1. Vorsitzender, Inhaber der internationalen
 Meisterschaft
 für Schwergewicht,
 Rohrleger.</p>
@@ -188,7 +188,7 @@ aschblonder Scheitel durch Pomade fest angeklebt war.
 das Lokal gebracht haben, dann muß Ihre Jacke Rostflecke
 aufweisen … Bitte …«
 
-Der schickte Bengel zuckte die Achseln …
+Der schicke Bengel zuckte die Achseln …
 
 »Man glaubt mir ja nicht!« sagte er … Seine Stimme
 war heiser und schwankend. »Hier — — meine blaue Jacke …
@@ -493,7 +493,7 @@ Was tat der Gent?«
 »Und Sie wollten hinterdrein …?«
 
 »Natierlich … Und ob? Ich hätt doch jern jewußt,
-wohin er abbaut … Aber da stand in die Jartenstraße
+wohin er abhaut … Aber da stand in die Jartenstraße
 een feinet Auto … Er rin … und heidi — weg war er!
 Und ich hatte das Nachsehen umsonst!«
 
@@ -643,7 +643,7 @@ Beste für sich …«
 »Oder — er bewertet die Daumenabdrücke genau so gering
 <@pagebreak/>
 wie ich! — Wissen Sie was: Wir fahren nach Gartenstraße
-13ß. Sofort. Wir nehmen das Beil mit. Krawuschke
+13\. Sofort. Wir nehmen das Beil mit. Krawuschke
 wird dann wohl Farbe bekennen.«
 
 Wir fuhren. Zu vieren. Nummer drei war Kommissar
@@ -790,7 +790,7 @@ besser gekleidet als er, und sein Pelz war tadellos.
 aber meine Braut kluftet mir ein … Sie is Schauspielerin.«
 
 »Ich weiß …« nickte Gernapp. »Die Anni Pagotta …
-Sie spielt nachts, auf der Friedrichstraße Dauergängerin …
+Sie spielt nachts auf der Friedrichstraße Dauergängerin …
 Kommen Sie …«
 
 Das Auto draußen war nun um Krawuschke reicher
@@ -837,7 +837,7 @@ dunkelbraunen Stoff seiner Jacke wie weiße Striche ab.
 
 August Krawuschke drängte mich beiseite … »Ick werde
 ihm aufheben …« — und das war bei ihm eine Äußerung
-echter mitfühlenden Hilfsbereitschaft.
+echter mitfühlender Hilfsbereitschaft.
 
 Gernapp rief scharf: »Halt! — Setzen Sie sich dorthin
 … Hier haben nur wir vom Fach zu handeln …«
@@ -888,7 +888,7 @@ hat. Holen Sie Riechsalz, Essig und eine Bürste, lieber
 Schraut.«
 
 Das kräftige Bürsten der nackten Fußsohlen zeigte auch
-hier eine rasche Wirkung, Harst erbrach sich, bekam Kognak
+hier eine rasche Wirkung. Harst erbrach sich, bekam Kognak
 und saß nach einer Viertelstunde matt, aber klaren Verstandes
 im Sessel. Sein Blick irrte wie forschend umher, blieb
 auf Krawuschke haften. Seine ersten Worte waren: »Das
@@ -907,7 +907,7 @@ Kantstraße ein. Ich merkte bald, daß sie mit Verfolgern
 rechnete. Sie blieb immer wieder stehen. Dann, am Savignyplatz,
 kam sie plötzlich auf mich zu, was mich sehr überraschte.
 Sie sagte ruhig: »Herr Harst, das ist gegen die
-Abmachung, das Ist eine perfide Diplomatie. — Ich weiß,
+Abmachung, das ist eine perfide Diplomatie. — Ich weiß,
 daß ich Sie nicht abschütteln kann. Wenn es Ihnen recht
 ist, begeben wir uns in Ihr Heim. Ich werde Ihnen dort alles
 beichten.« … Das junge Ding imponierte mir. Wir nahmen
@@ -953,7 +953,7 @@ Gernapps Stirn furchte sich.
 Schriftvergleichung ist möglich!«
 
 »Unnötig ist sie,« und Harald zwinkerte dem Rat
-heimlich zu. »Daß die Einladung — nicht Krawuschkes Werk,
+heimlich zu. »Daß die Einladung nicht Krawuschkes Werk,
 ist wohl klar. Weshalb sollte das Mädel die Karten sonst
 mitgenommen haben?! Sie hatte ein Interesse daran, sie
 verschwinden zu lassen. Vielleicht kam sie nur hier mit zu mir,
@@ -990,7 +990,7 @@ Rat Gernapp schmunzelnd.
 »Herr Rat, Jeld stinkt nicht, wenn’s erst mal eener wirklich
 hat,« griente Krawuschke. »Ob eener den Staat bei
 Lieferungen beschummelt, Schmierjelder zahlt, wie heite iblich,
-oder ob eener ehrlich klaut det Letztere is immer noch anständiger,
+oder ob eener ehrlich klaut, det Letztere is immer noch anständiger,
 weil’s jefährlicher is! Das so nebenbei, Herr Rat,
 und nischt for ungut … — Also zuerst die Brände … Wir
 hatten da for det Vorstandszimmer feine Madrasgardinen,
@@ -1026,7 +1026,7 @@ Dache …
 
 <@pagebreak/>
 
-<h2>8. Kapitel.</h2>
+<h2>5. Kapitel.</h2>
 <h3>Der Himmelskieker.</h3>
 
 »… Sehen Sie, mein Vorstandsschreibtisch, een jroßet
@@ -1068,14 +1068,14 @@ brillte ihm zu, er solle mit seinen Himmelskieker vorsicht’jer
 sind. Und da … hat der olle Knabe höflich jejrüßt und sich
 so quasi durch ’n Bückling entschuldigt. Ick machte det
 Fenster also wieder zu und ließ den Wolkenstore runter
-und setzte mir. — Na — und :- was soll ick sagen —
+und setzte mir. — Na — und — wat soll ick sagen —
 die Jeschichte passierte noch ’n paarmal, und schließlich jeweehnte
 ick mir an den ollen Narren, wenn ooch die Biester
 von Sonnenflecken manchmal sehr unanjenehm waren …«
 
 »Ist das alles, Krawuschke?« fragte Harald gespannt.
 
-»Wie man’s nimmt, Herr Harst … « Er grinste verlegen.
+»Wie man’s nimmt, Herr Harst …« Er grinste verlegen.
 »Sehen Sie, unsereener hat ja ooch bloß ’n Jeduldsfaden
 wie jeder andere Mensch … Na — die Jeschichte wurd’
 mir, ehrlich jesagt, schließlich doch ’n bißchen doll, als eenmal
