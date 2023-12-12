@@ -5,10 +5,10 @@
 <h2>1. Kapitel.</h2>
 <h3>Der Paddler.</h3>
 
-Am 22. März 192 … stand auch in hiesigen Blättern
+Am 22. März 192… stand auch in hiesigen Blättern
 zu lesen:
 
-Der Mordprozeß Harold Lync fand gestern seinen Abschluß.
+> Der Mordprozeß Harold Lync fand gestern seinen Abschluß.
 Lync ist trotz des recht fadenscheinigen Indizienbeweises
 zum Tode verurteilt worden. Den ganzen Umständen
 nach dürften weder eine Revision noch ein Gnadengesuch
@@ -32,7 +32,7 @@ bis sechs Pfund gebracht, wenn nicht ein Zwischenfall eingetreten
 wäre, der unsere Gedanken in völlig andere Richtung
 lenkte.
 
-Der Fluß war wenig belebt. Ein paar Schleppzügs
+Der Fluß war wenig belebt. Ein paar Schleppzüge
 kamen vorüber, ein Dampfer mit Musik und bunten Wimpeln:
 irgendein Vereinsausflug.
 
@@ -50,7 +50,7 @@ freundlich.
 
 Der Mann benahm sich seltsam. Ohne sich um uns,
 die wir nur drei Meter entfernt waren, Zu kümmern, stieg
-er ins Wasser, das ihm bis zu den Hüften reichte, versenkte
+er ins Wasser, das ihm bis zu den Hüften reichte, *versenkte*
 das kleine Boot und das Doppelpaddel, richtete die
 niedergedrückten Schilfstengel wieder auf und schaute dann
 wie mißmutig über die weite Wasserfläche nach dem Vorort
@@ -59,10 +59,10 @@ Wannsee mit seinen in Grün versteckten Villen hinüber.
 Inzwischen hatte ich mir diesen merkwürdigen Paddler
 genauer angesehen. Er trug einen grauen Sportanzug und
 graue Mütze, hatte ein sehr mageres, energisches Gesicht,
-dicke Augenbrauen und einen sein gezeichneten Mund. Die
+dicke Augenbrauen und einen fein gezeichneten Mund. Die
 Kinnpartie war stark entwickelt, die Nase schmal, groß
 und leicht gekrümmt: Kein Alltagsgesicht jedenfalls. Unschwer
-konnte man eine ganz entfernte Heimlichkeit: mit Harst
+konnte man eine ganz entfernte Ähnlichkeit mit Harst
 herausfinden.
 
 Dieser Fremde schien — für sein Verhalten gab es nur
@@ -76,29 +76,29 @@ führte, duckte der Fremde sich hinter unserem Boot zusammen
 und sagte in ziemlich fließendem Deutsch: »Herr
 Harst, im bin nicht zufällig hierher gekommen. Ich wußte,
 daß Sie beide hier angelten. Bitte verbergen Sie mich in
-Allem Boot unter Ihren Mänteln und Rucksäcken. Ich
+Ihrem Boot unter Ihren Mänteln und Rucksäcken. Ich
 muß die Leute dort in dem Motorboot von meiner Spur
 abbringen. Helfen Sie einem Manne, der Ihnen eine der
 merkwürdigsten Geschichten vortragen kann, die jemals ein
 Staat zur Erreichung dunkler Ziele …«
 
 Harald hatte seine Angel bereits weggelegt und unterbrach
-den Mann mit einem kurzen »Kleidern Sie ins Boot,
+den Mann mit einem kurzen »Klettern Sie ins Boot,
 Mr. Lync … Ich werde Ihnen helfen.«
 
 Lync?! Lync hatte er gesagt?! Hatte ich richtig gehört?!
 
 Kaum war der Fremde sehr geschickt mit Hilfe unserer
 Sachen unsichtbar geworden, als auch schon das Motorboot
-herumschoß. Die drei Insassen waren zweifellos Ausländer
-und hatten trotz ihrer Einleitung etwas Militärisches
+heranschoß. Die drei Insassen waren zweifellos Ausländer
+und hatten trotz ihrer Zivilkleidung etwas Militärisches
 an sich.
 
-Harst flüsterte« mir zu: »Drücke Ufer Kahn mehr nach
+Harst flüsterte mir zu: »Drücke unseren Kahn mehr nach
 rechts … Ich werde mit den Leuten reden … Das Paddelboot
 Harold Lyncs muß durch den Schatten unseres Nachens
 völlig verschwinden … Rühre auch das Wasser etwas
-auf … Da sind die Burschen schon …
+auf … Da sind die Burschen schon …«
 
 Das Motorboot schob seine Spitze in das Röhricht
 und stoppte. Vorn stand ein kleiner, gedrungen gebauter
@@ -106,14 +106,14 @@ Mensch mit verwittertem, faltigen Schauspielergesicht.
 
 »Hallo!« rief er … »Haben Sie vielleicht ein Paddelboot
 gesehen mit einem einzelnen Herrn? Es muß hier in der
-Nähe in das Schiff geschlüpft sein …«
+Nähe in das Schilf geschlüpft sein …«
 
 <@pagebreak/>
 Harst rieb ein Zündholz an, steckte seine Pfeife in
 Brand und deutete dann weit nach rechts, wo das Röhricht
 in scharfer Krümmung einen freien Uferstreifen begrenzte.
 
-»Las Boot war hier … stimmt! Bett ist es dort
+»Das Boot war hier … stimmt! Jetzt ist es dort
 drüben … Da — der Mann landet eben … hebt sein Boot
 auf die Schulter, läuft auf die Büsche zu …«
 
@@ -142,25 +142,25 @@ der Leute liefen den Büschen zu …
 Harst lachte …
 
 »Mr. Lync, die Gefahr ist vorüber … Sie dürfen
-immerhin den Kopf hervortreten … Ihr Freund hat Sie
+immerhin den Kopf hervorstecken … Ihr Freund hat Sie
 gerettet. Die drei werden das Nachsehen haben.«
 
-Unter den Gummimänteln kam Lyncs Kopf zum Dort
+Unter den Gummimänteln kam Lyncs Kopf zum Vorschein.
 
-Schein.
 »Ein Freund, Herr Harst?!« sagte er ungläubig. »Das
-kann nicht stimmen … I4 habe niemand, der für mich
-
+kann nicht stimmen … Ich habe niemand, der für mich
 eintritt. Meine einzige Hoffnung waren Sie beide …«
+
 »Und doch stimmt es, Mr. Lync … Der Mann dort
 drüben war genau so gekleidet wie Sie, hatte ebenfalls ein
-grün gestrichenes Paddelboot … — WezShalb verleugnen Sie
+grün gestrichenes Paddelboot … — Weshalb verleugnen Sie
 diesen Helfer?«
+
 Lync rief im Tone vollster Aufrichtigkeit: »Wie sollte
 <@pagebreak/>
 ich Sie wohl belügen wollen, Herr Harst, — gerade Sie!!
 Nein, ich habe keinen Freund! Keinen! Sie Kennen ja
-fraglos die Geschichte meines Prozesses … Noch) nie alt
+fraglos die Geschichte meines Prozesses … Noch nie ist
 man mit einem Manne, der doch in der Sportwelt einen
 Namen hatte, so widerwärtig umgesprungen wie mit mir, —
 noch nie hat ein Mensch die Unzuverlässigkeit sogenannter
@@ -174,42 +174,40 @@ festgesetzt … Sie müssen doch …«
 
 Harold Lync lachte ironisch. »Oh — man Hat mich in
 aller Stille begnadigt, Herr Harst! Aber — — wie!!« Seine
-Stimme zitterte vor Empörung. »Sehe werde Ihnen das
+Stimme zitterte vor Empörung. »Ich werde Ihnen das
 alles später im Zusammenhang erzählen. Jetzt nur eins:
 Ich gebe Ihnen mein Wort, daß ich den Mord nie begangen
-habe, das; man in geradezu satanisch schlauer Weise allerhand
+habe, daß man in geradezu satanisch schlauer Weise allerhand
 Indizien zusammengetragen hat, die …«
 
 »Erregen Sie sich nicht! Daß Sie schuldlos sind, weiß
-749 … Ich habe sehr bald aus den Berichten der amerikanischen
+ich … Ich habe sehr bald aus den Berichten der amerikanischen
 Blätter mir mein eigenes Urteil gebildet, und das
 geht dahin: Sie haben übermächtige Feinde in der Regierung
 jenes Landes, das Sie zu Ihrem neuen Vaterland erwählt
-traten …!«
+hatten …!«
 
 »Feinde?!« Lync stieß ein schreckliches Lachen aus.
 »Feinde — — nein!! Aber die Regierung jener durch den
 Weltkrieg zur Großmacht gewordenen Republik brauchte mich!
 Mißbrauchte mich!! — Oh — Sie werden das alles später
-
 begreifen … — Jetzt, — — ob ich in Sicherheit bin?! Denken
 Sie nicht, daß ich etwa diese drei Verfolger als Polizei
-fürchte … Das nicht! Es sind keine Polizeibeamten, seine
+fürchte … Das nicht! Es sind keine Polizeibeamten, keine
 Detektive … Es sind Geheimagenten der Abteilung 5 des
-
 Auswärtigen Amtes jener Regierung … Ich bin nicht
 <@pagebreak/>
-entflohen … Ich bin frei — aber unter (Aufsicht. Man
-will verhüten, daß ich mich heimlich … drücke (…
+entflohen … Ich bin frei — aber unter Aufsicht. Man
+will verhüten, daß ich mich heimlich … drücke …«
 
 Harald befestigte einen neuen Wurm am Haken seiner
 Angel und schaute dann nach dem Motorboot aus.
 
-Au ich sah, daß dessen Insassen wieder am Ufer vereinigt
+Auch ich sah, daß dessen Insassen wieder am Ufer vereinigt
 waren und eifrig miteinander redeten. Lyncs Doppelgänger
 war ihnen also entwischt. Dann klang das Knattern des
 Motorbootes bis zu uns hinüber, — das Boot schoß davon.
-Um uns harmlose Angler kümmerten sich Sennor Gramvolle
+Um uns harmlose Angler kümmerten sich Sennor Granville
 und Genossen nicht mehr. Der kleine Benzinstänker
 verschwand nach Wannsee zu.
 
@@ -222,48 +220,48 @@ auch sein Paddelkahn hatte dieselbe Farbe. Der Mann hatte
 fraglos ein Auto drüben auf der Chaussee bereitstehen.
 Anders wäre er kaum entwischt. — Setzten Sie sich nur
 dorthin, Mr. Lync … Die liebe Sonne wird Ihre Unterpartie
-schon tragen. Und falls Sie etwas essen oder trinken
+schon trocknen. Und falls Sie etwas essen oder trinken
 oder rauchen wollen: wir sind gut versehen! Es ist jetzt auch
-unsere gewöhnliche FrühstüFs8zeit. Schraut mag den Auto
-Ausgaben.«
+unsere gewöhnliche Frühstückszeit. Schraut mag den Rucksack
+auspacken.«
 
 Wir frühstückten.
 
 Harold Lync erzählte …
 
-Ein sanfter Wind strich) über den Wannsee Hin. Die
+Ein sanfter Wind strich über den Wannsee Hin. Die
 Röhrichtstengel schwankten … Die Blattläuse waren noch
-genau so fre9g …
+genau so frech …
 
 <@pagebreak/>
 
 <h2>2. Kapitel.</h2>
 <h3>Die Sträflingsinsel.</h3>
 
-»daß ich geborener Amerikaner bin, waschechter Neu
-voller, wissen Sie wohl … Meine Eltern habe ich nie
-gekannt. Ich bin ein Findelkind. Die Frau eines Hafen-
-Schleppkapitäns zog mich auf. Ich wurde Harold Lync getauft,
+»… daß ich geborener Amerikaner bin, waschechter Neuyorker,
+wissen Sie wohl … Meine Eltern habe ich nie
+gekannt. Ich bin ein Findelkind. Die Frau eines Hafenschleppkapitäns
+zog mich auf. Ich wurde Harold Lync getauft,
 weil der Schleppdampfer meines Adoptivvaters diesen Namen
 führte — nach jenem Harold Lync, der in den amerikanischen
 Freiheitskriegen eine so bedeutende Rolle spielte. Mein
 Lebenslauf war bis zum vierzehnten Jahre der eines richtigen,
 halbverwilderten Lausbuben, der auf einem schmierigen
-Leinen Dampfer in engsten Kajüträumen und draußen auf
+kleinen Dampfer in engsten Kajüträumen und draußen auf
 dem Flusse aufwächst. Dann kam ich als Schiffsjunge auf
 eine Brigg, die zumeist nach kubanischen Häfen Fracht
-nahm. So sehr ich jedoch aus das Meer liebte: schon nach
-zwei Jahren: war in mir ein solcher Bildungsdrang erwacht,
-daß ich auf eigene Faust als Screiberlehrling in die Kanzlei
-des namhaften Neuyorker Advokaten Max eintrat, wo
+nahm. So sehr ich jedoch auch das Meer liebte: schon nach
+zwei Jahren war in mir ein solcher Bildungsdrang erwacht,
+daß ich auf eigene Faust als Schreiberlehrling in die Kanzlei
+des namhaften Neuyorker Advokaten Maac eintrat, wo
 ich mich durch Selbststudien für die Universität vorbereitete.
 Mit fünfundzwanzig war ich Advokat und Doktor der Rechte,
 aber auch eine Sportgröße, um die jeder Klub sich geradezu
-riß. Da bot mir ein südamerikanisches Syndikat die Generaldirektor stelle
-in B. an, — und mit siebenundzwanzig hatte ich
+riß. Da bot mir ein südamerikanisches Syndikat die Generaldirektorstelle
+in V. an, — und mit siebenundzwanzig hatte ich
 mich dort naturalisieren lassen, besaß ein großes Vermögen,
 <@pagebreak/>
-ungeheuren Einfluß und den Nahm des besten südamerikanischen
+ungeheuren Einfluß und den Ruhm des besten südamerikanischen
 Leichtathleten. Wieder zwei Jahre drauf, und das
 war im Januar dieses Jahres, kam ich eines Nachts in
 meine außerhalb der Stadt gelegene Villa zurück und fand
@@ -273,11 +271,11 @@ eine Schußwunde in der Stirn. Neben ihm lag eine meiner
 Pistolen. — Was weiter wurde: alle Welt kennt diesen
 Sensationsprozeß! Verschiedene eigentümliche Umstände ließen
 mich immer stärker in Verdacht geraten, jenen Costa bei
-einer Unterredung, zu der im den Anlaß gegeben, einfach
+einer Unterredung, zu der ich den Anlaß gegeben, einfach
 niedergeknallt zu haben. Mehr noch: die Indizien deuteten
-auf kühl überlegten Mord hin! Ich galt in Bob. als ein
+auf kühl überlegten Mord hin! Ich galt in V. als ein
 Mensch von rücksichtsloser Energie, kalter Berechnung und
-maßlosem Ehrgeiz. Die Sympathien, die anfänglich, noch für
+maßlosem Ehrgeiz. Die Sympathien, die anfänglich noch für
 mich gewesen, wandelten sich in das Gegenteil. Eine zweifellos
 bestochene Presse hetzte die ganze Republik gegen mich
 auf. Alle fielen von mir ab. Sogar meine wahren Landsleute,
@@ -286,17 +284,17 @@ Ich wurde zum Tode durch den Strang verurteilt. Acht
 Tage nach diesem allseits mit Genugtuung aufgenommenen
 Urteil erschien in meiner Zelle ein Vertreter des Ministers
 des Auswärtigen und legte mir nahe, auf seine Bedingungen
-einzugehen, dann würde ich zum Sein zu lebenslänglichem
+einzugehen, dann würde ich zum Schein zu lebenslänglichem
 Zuchthaus begnadigt werden. Diese Bedingungen waren
-folgende. Es gibt da im Stillen Ozean eine einsame, bleibe
+folgende. Es gibt da im Stillen Ozean eine einsame, kleine
 Insel, die der Republik gehört. Sie wurde als Strafkolonie
 für Schwerverbrecher benutzt. Nun waren die dort untergebrachten
-zweihundert Verbrecher im Oktober des Vors
-Jahres samt dem ganzen Wöächterpersonal von der
+zweihundert Verbrecher im Oktober des Vorjahres
+samt dem ganzen Wächterpersonal von der
 Insel spurlos verschwunden. Als der fällige Tourdampfer
 am 20. Oktober vor der Insel erschien, fand er sie leer.
-Keine lebende Seele war weh? in den Gebäuden, in den
-Wäldern … Alle Versuchte, den Verbleib dieser insgesamt
+Keine lebende Seele war mehr in den Gebäuden, in den
+Wäldern … Alle Versuche, den Verbleib dieser insgesamt
 <@pagebreak/>
 250 Menschen irgendwie aufzuklären, blieben ergebnislos.
 Die Republik hielt die Angelegenheit streng geheim. Den
@@ -312,18 +310,18 @@ Baracken und Wohnhäusern war alles in tadelloser Ordnung,
 in den Küchen stand das Mittagessen fertig auf den Herden:
 es war nicht mehr gegessen worden! — Kurz, der Vorfall
 war ein Rätsel. Der Kreuzer kehrte am 15. November
-nach Ob. zurück, beließ auf der Insel einen Offizier, zwanzig
+nach V. zurück, beließ auf der Insel einen Offizier, zwanzig
 Matrosen und einen Detektiv als neues Stationskommando,
-— — und am 2. Dezember … fand der von By. wiederum
+— — und am 2. Dezember … fand der von V. wiederum
 fällige Tourdampfer die Insel abermals leer. Auch diese
-22 Wann waren abhanden gekommen. — Nochmals große
+22 Mann waren abhanden gekommen. — Nochmals große
 Untersuchung, nochmals verschwindet Januar ein neues Stationskommando
 von drei Offizieren, fünfzig Mann und vier
 Detektiven. Trotzdem hüllt die Regierung sich in Schweigen,
 sieht nun aber ein, nachdem im Februar wiederum fünfzig
 Mann zwecklos geopfert sind, daß diesem dunklen Geheimnis
-mit so!;en Massenaufgeboten nicht beizukommen ist. Die
-Insel bleibt sich selbst überlassen. Wir jedoch, dem Manne,
+mit solchen Massenaufgeboten nicht beizukommen ist. Die
+Insel bleibt sich selbst überlassen. Mir jedoch, dem Manne,
 dem man alles zutraut, macht der Ministerialbeamte nun
 den Vorschlag, mein Leben für die Republik einzusetzen
 und das Geheimnis aufzuklären!«
@@ -331,14 +329,14 @@ und das Geheimnis aufzuklären!«
 Bisher hatte Harold Lync vollkommen leidenschaftslos
 berichtet …
 
-Hatte zwischen drein mit Appetit gefrühstückt, hatte sich
+Hatte zwischendrein mit Appetit gefrühstückt, hatte sich
 eine Zigarre angezündet …
 
 Nun lachte er ironisch auf: »Denken Sie, meine Herren,
 <@pagebreak/>
 ich, der Mörder, sollte mein Ehrenwort verpfänden, daß
 ich alles tun würde, was in meiner Macht stände, dieses
-Rätsel zu lösen! Dann sollte ich frei sein! -- Ich gab mein
+Rätsel zu lösen! Dann sollte ich frei sein! — Ich gab mein
 Wort … Und vier Tage darauf war ich bereits mit tadellosem
 Paß und Reisegeld zunächst nach Panama unterwegs,
 wo ich meine Vorbereitungen zur Fahrt nach Astadura
@@ -350,16 +348,16 @@ ist mir völlig fremd …«
 »Glaube ich gern … Die Insel liegt so abseits aller
 Schiffsrouten, daß nicht mal England für sie Interesse
 hatte. Zu holen ist dort eben nichts. Immerhin ist sie auf
-besseren Seekarten vermerkt. — Also Astadura -«.! — Nun,
-in Panama handelte ich nach meinem Gutdünken. Jacht
+besseren Seekarten vermerkt. — Also Astadura …! — Nun,
+in Panama handelte ich nach meinem Gutdünken. Ich
 hatte von Ihnen beiden längst gehört. Ich wußte, daß dieses
 Inselgeheimnis Sie beide reizen würde. Nur Sie, Herr
 Harst, so sagte ich mir, würden dort etwas ausrichten. Ich …
-reiste also mag Hamburg weiter. Aber — — hagerer wurde
-im gewahr, daß ich drei ständige Aufpasser hinter mir
-hatte. Ich entging ihnen, ich traf vorgestern »hier ein, beobachtete
+reiste also nach Hamburg weiter. Aber — — da erst wurde
+ich gewahr, daß ich drei ständige Aufpasser hinter mir
+hatte. Ich entging ihnen, ich traf vorgestern hier ein, beobachtete
 Ihr Haus, wagte mich jedoch nicht hinein, weil
-im den drei Agenten der Republik nicht verraten wollte,
+ich den drei Agenten der Republik nicht verraten wollte,
 was ich eigentlich plante. — So, das wäre alles …«
 
 Harold Lync lächelte. »Also — — alles, Herr Harst.
@@ -368,7 +366,7 @@ Genügt es Ihnen?«
 »Durchaus!« nickte mein Freund. »Durchaus! Ich bin
 Ihnen sogar dankbar, daß Sie gerade an Schraut und mich
 gedacht haben. — Hatten Sie zugesagt, die Insel allein zu
-besuchen 2«
+besuchen?«
 
 »Nein. Ich hatte die Bedingung gestellt, mindestens
 Zwei Begleiter mitnehmen zu dürfen. Man ließ mir auch
@@ -379,7 +377,7 @@ Allerdings sollte ich wenn möglich Farbige minderer Intelligenz
 wählen. Jetzt — habe ich mir ausgerechnet die beiden
 Männer gewählt, die den Herren vom Auswärtigen Amt
 am peinlichsten sein dürften. Schadet nichts. Ich bin bedingt
-begnadigt, und die Bedingungen zu meinem Vorteil auszusmünzen,
+begnadigt, und die Bedingungen zu meinem Vorteil auszunützen,
 — wer will mir’s verargen?!« Er lachte übermütig.
 Er war jetzt ein völlig anderer. Seine prächtigen Zähne
 leuchteten, seine grauen Augen blitzten. Oh — das war
@@ -402,7 +400,7 @@ in aller Heimlichkeit stattfinden könnte!!
 
 Weiß Gott: selten hatte ich so schnell meine vollste
 Sympathie einem Menschen zugewandt wie Harold Lync!
-Selten brannte ich so darauf, die Weiterentwilung der
+Selten brannte ich so darauf, die Weiterentwicklung der
 Dinge zu fördern!
 
 Und gerade deshalb begriff ich Harald nicht recht,
@@ -412,7 +410,7 @@ gänzlich schwieg …
 
 Kein Wunder also, daß Lync allmählich eine Miene
 aufsetzte, die seine innersten Gedanken offen widerspiegelte.
-Und die besagten: »Sollte der berühmte Harst. sich die Sache
+Und die besagten: »Sollte der berühmte Harst sich die Sache
 schon wieder anders überlegt haben? Erscheint ihm das
 Abenteuer doch zu riskant?«
 
@@ -425,12 +423,12 @@ Bisher hatte er sinnend vor sich hin in das wogende
 Röhricht gestarrt. Jetzt wandte er den Kopf, schaute Lync
 voll an und erklärte: »Bevor wir unsere ferneren Schritte
 beraten, müssen wir unbedingt erst diesen geheimnisvollen
-Fremden, der Ihr? Verfolger so schlau hinter sich her lockte,
+Fremden, der Ihre Verfolger so schlau hinter sich her lockte,
 gründlichst auf den Zahn fühlen. Alle Erörterungen über
 die Sache selbst, die ja doch in blasser Theorie stecken bleiben
 würden, da der Fall wohl absichtlich von jener Regierung
 auch Ihnen entstellt mitgeteilt worden ist, wären maßlos,
-wenn wir nicht zuvor hier in Berlin sowohl mit Ihren drei,
+wenn wir nicht zuvor hier in Berlin sowohl mit Ihren drei
 Aufpassern als auch besonders mit diesem vierten Manne
 sozusagen endgültig aufräumen wollten. — Ein paar Fragen,
 Mr. Lync … Sie haben also auch nicht die leiseste Ahnung,
@@ -441,12 +439,12 @@ da. Meine Pflegeeltern sind tot. Meine Freunde ließen
 mich im Stich.«
 
 »Und — wie steht es mit … Frauen?! Ein Mann
-wie Sie dürfte Dom von den Frauen ziehe verwöhnt
+wie Sie dürfte doch von den Frauen ziemlich verwöhnt
 worden sein …«
 
 Harold Lyncs starke Brauen, unter denen die klaren,
-benachbarten Augen wie in tiefen, gegangen Höhlen lagen, zogen
-sich finster zusammen. Ein verächtlicher Zug schuf tiefe Lautenden
+harten Augen wie in tiefen, granitnen Höhlen lagen, zogen
+sich finster zusammen. Ein verächtlicher Zug schuf tiefe Hautkerben
 um seinen Mund. »Frauen?!« sagte er bitter. »Das
 ist ein Kapitel von einst … In meinem Leben hat nur eine
 Frau eine Rolle gespielt. Sie heiratete einen anderen. In
@@ -457,11 +455,11 @@ meinte Harald in seiner zarten Art … »Aber — hat jene
 Frau, Ihre große Liebe, nie wieder etwas von sich hören
 lassen? Haben Sie nicht während Ihres Prozesses gespürt,
 <@pagebreak/>
-daß dochM4 insgeheim jemand zu Ihren Gunsten tätig war?
+daß doch insgeheim jemand zu Ihren Gunsten tätig war?
 Könnte jene Frau nicht vielleicht den anderen Ihnen aus
 Zwang vorgezogen haben und …«
 
-Eines unwillige, schroffe Handbewegung ließ Harald
+Lyncs unwillige, schroffe Handbewegung ließ Harald
 verstummen. »Margrit Sellerhoop täte man zu viel Ehre
 an, wenn man vermutete, sie könnte aus Reue jetzt mit
 ihren Millionen für mich einspringen! Ausgeschlossen! Eine
@@ -474,14 +472,14 @@ Ob sie nicht doch ahnen, daß Sie zu mir wollten?«
 
 »Unmöglich! Sie hatten meine Spur hier in Berlin
 verloren. Erst heute in aller Frühe müssen sie mich wieder
-aufgestöbert haben. Ich; hatte Sie beide wie schon erwähnt
+aufgestöbert haben. Ich hatte Sie beide wie schon erwähnt
 beobachtet. Ich kannte Ihre Angelstelle. Ich hielt es für
 am sichersten, Sie hier aufzusuchen, lieh das Paddelboot
 drüben in Wannsee, hinterlegte Sicherheit und …«
 
 »Ah — also Sie haben es nicht gekauft?«
 
-Mr: 50
+»Nein …«
 
 »Wo liehen Sie es?«
 
@@ -491,7 +489,7 @@ Mr: 50
 muß gleichfalls ein Paddelboot von derselben Farbe geliehen
 haben … Wir werden dort am Schwedischen Pavillon den
 Fall also aufzurollen beginnen. — Heben wir jetzt Ihr
-»Paddelboot … — Sie sehen sich hinein und bleiben hier
+Paddelboot … — Sie setzen sich hinein und bleiben hier
 im Röhricht. Schraut und ich segeln rasch nach Wannsee
 hinüber. In zwei Stunden sind wir bestimmt wieder zurück …«
 
