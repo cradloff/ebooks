@@ -502,7 +502,7 @@ So geschah’s …
 
 Für meine Leser, die Berlins wundervolle Umgebung
 nicht kennen, würde ich hier gern ein poetisches Loblied auf
-die vornehme Schönheit Wannsees, des hochgelegenen Schalter-Restaurants
+die vornehme Schönheit Wannsees, des hochgelegenen Schultheiß-Restaurants
 mit seiner entzückenden Aussicht und auf
 die schattige Anmut der großen Gaststätte des Schwedischen
 Pavillons singen …
@@ -510,68 +510,68 @@ Pavillons singen …
 Aber: Ein Abenteuer wie das der Sträflingsinsel auf
 eine knappe Buchseitenzahl zusammenzuschmelzen, ist an sich
 schon ein Kunststück, zumal wenn man auch wenigstens etwas
-literarisch« den. überreichen Stoff verarbeiten will. —
+literarisch den überreichen Stoff verarbeiten will. —
 
-Unter Angelkahn hatte eine Art Notmast und ein lateinisches
+Unser Angelkahn hatte eine Art Notmast und ein lateinisches
 Segel, so etwas wie einen Treiber. Der Wind genügte.
-Wir kamen recht flott vorwärts. Sehr vornehm — sah unsern
-»Sacht« nicht aus, und ein paar echte -Privatjachten mit
+Wir kamen recht flott vorwärts. Sehr vornehm sah unsere
+»Jacht« nicht aus, und ein paar echte Privatjachten mit
 Sportladys und wohlgenährten männlichen Anhängseln fuhren
 stolz an uns vorüber, ahnten nicht, daß die beiden Angler
 dort am Heck des Bretterkahns ein Leben führten, wie es
 herrlicher nicht gedacht werden konnte. — Wir hatten ja
 wieder »einen Fall«! Und was für einen!! Nach einer Woche
 Nichtstun jetzt abermals das, was genau wie eine geregelte
-Tätigkeit eines Daseins Inhalt ausmachen kann. Das Abeau«-
+Tätigkeit eines Daseins Inhalt ausmachen kann. Das Abenteuer
 <@pagebreak/>
-Leiter in seiner gemeinnützigen Form, in seiner nächtlichen
-»Spielart, halb Kriminalrätsel, halb Sensation. —
+in seiner gemeinnützigen Form, in seiner nützlichen
+Spielart, halb Kriminalrätsel, halb Sensation. —
 
 Meine erste Frage an den lässig am primitiven Steuer
-Standen Freund galt seiner Bemerkung, die Regierung der
-»Republik habe Harold Lync die Ereignisse entstellt mitgeteilt.
+sitzenden Freund galt seiner Bemerkung, die Regierung der
+Republik habe Harold Lync die Ereignisse entstellt mitgeteilt.
 »Wie meintest du das,« ermunterte ich ihn zu einer
 eingehenderen Aussprache.
 
 Seine Antwort lautete: »Glaubst du wirklich, mein
-»Alter, daß das Verschwinden so zahlreicher Marineleute und
-WGeheimpolizisten der Öffentlichkeit vorenthalten werden kann?
+Alter, daß das Verschwinden so zahlreicher Marineleute und
+Geheimpolizisten der Öffentlichkeit vorenthalten werden kann?
 — Dies wäre nur möglich, wenn die Regierung für die
-Längere Abwesenheit der Betreffenden eine plausible Erklärung
-»gefunden hätte, die die Ungehörigen und Freunde vorläufig
+längere Abwesenheit der Betreffenden eine plausible Erklärung
+gefunden hätte, die die Angehörigen und Freunde vorläufig
 Beruhigt.«
 
-»Hm: — du scheinst an dem … Verlust dieser insgesamt
+»Hm — du scheinst an dem … Verlust dieser insgesamt
 etwa 200 Mann, die Sträflinge abgerechnet, zu zweifeln?!«
 
 »Ja … Ich behaupte, diese Seeleute und Kriminalbeamten
-sind anderweit »eingesetzt« worden, wie der mittags
-Tische Ausdruck lautet.«
+sind anderweit »eingesetzt« worden, wie der militärische
+Ausdruck lautet.«
 
 »Und — — der ganze Fall mithin?« suchte ich ihn zu
 weiteren Äußerungen zu veranlassen.
 
 »Der ganze Fall?!« Ein merkwürdiger Glanz erschien
 In Harsts grauen Augen. »Vielleicht wird’s weniger, als
-wir erwarten … Vielleicht wird’s ein Problem von des
-rauschender Großzügigkeit … Warten wir ab … — Da
-3jt übrigens schon die Bootsbrücke des Schwedischen Pavillons.
-Und der rotnasige Alte dort mit dem traumseligen Schuaps8glanz
+wir erwarten … Vielleicht wird’s ein Problem von
+berauschender Großzügigkeit … Warten wir ab … — Da
+ist übrigens schon die Bootsbrücke des Schwedischen Pavillons.
+Und der rotnasige Alte dort mit dem traumseligen Schnapsglanz
 auf den verwitterten Zügen, — — der ist Herr all der
-Leiboote … — — Hallo, mein Alter, würden Sie. uns
-»armen Anglern mal einen Gefallen tun? Wir brauchen
-unbedingt eine Buddel Kognak … Hier sind. zwanzig Mark.
-Sollen Sie uns lieber gleich zwei aus dem Pavillon, und
-die eine und den Rest- »des Geldes können Sie. als Enge
+Leihboote … — — Hallo, mein Alter, würden Sie uns
+armen Anglern mal einen Gefallen tun? Wir brauchen
+unbedingt eine Buddel Kognak … Hier sind zwanzig Mark.
+Holen Sie uns lieber gleich zwei aus dem Pavillon, und
+die eine und den Rest des Geldes können Sie als Entlohnung
 Behalten …«
 
 <@pagebreak/>
-»Männchen, der nenn’ ich anständig … Tut, ich renne —
-— ich lose — — ich eile … ich schiebe die Iichtpedale vor …«
+»Männeken, det nenn’ ick anständig … Jut, ick renne —
+— ick loofe — — ick eile … ick schiebe die Jichtpedale vor …«
 
 Er rannte … Was er so rennen nannte … Und als er
-uns dann die eine Buddel ins Boot reichte, da … hatte,
-er die andere bereits, aufkorken lassen und … probiert …
+uns dann die eine Buddel ins Boot reichte, da … hatte
+er die andere bereits aufkorken lassen und … probiert …
 
 »Sagen Sie mal,« begann Harald nach diesen feuchten
 Vorbereitungen das Verhör … »Sagen Sie mal, Alterchen,
@@ -581,24 +581,24 @@ der auch so ’n Paddelding haben wollte … Stimmt doch,
 nicht wahr?«
 
 Der Olle nahm ’n langen Zug aus der Gratisbuddel …
-»Und ob!! Und ob!! Und wenn’s ich so alle Tage jene
-seinen Jeschäfte mache wie Seite, wert ich in kurzem Gen
-amerikanischen Wanderbild — oder so ähnlich Brett doch
-der Sprecher reiche Knapp … Nämlich vorhin waren noch
-drei Männchens in so ’n Benzinstänker hier und — fragten
-genau dasselbije wie Sie und gaben mir luftig Schurken,
-als ich ihnen auseinanderpolkte, daß so eure Schentlemenus
-von gleiche Anzüge so eure Paddel geliehen hätten … Da
+»Und ob!! Und ob!! Und wenn’s ick so alle Tage sone
+feinen Jeschäfte mache wie heite, werd’ ick in kurzem een
+amerikan’scher Wanderbild — oder so ähnlich heeßt doch
+der Jujorker reiche Knopp … Nämlich vorhin waren noch
+drei Männekens in so ’n Benzinstänker hier und fragten
+jenau dasselbije wie Sie und jaben mir füfzig Emmchen,
+als ick ihnen auseinanderpolkte, daß so zwee Schentlemenns
+von jleiche Anzüge so zwee Paddel jeliehen hätten … Da
 stänkerten sie wieder davon … und wie!! Schweinsjalopp
-ist gar nischt dagegen …«
+is jar nischt dajejen …«
 
 »Und — wo fuhren sie hin?« fragte Harald mit recht
-vekniffenem Gesicht.
+bekniffenem Gesicht.
 
-… Nr, die Befreite müssen sie doch noch gesehen haben, —
+»No, die Herrens müssen sie doch noch gesehen haben, —
 — so im Bogen nach Kladow zu …«
 
-Harst warf mir einen Blick zu, der Bände sprach -…
+Harst warf mir einen Blick zu, der Bände sprach …
 
 Dann stieß er vom Bootsstege ab …
 
@@ -619,23 +619,23 @@ einem Doppelgänger gefolgt waren und die sicherlich unsere
 Angelstelle wieder aufsuchen würden, die sich selbst sagen
 würden, daß wir sie belogen hatten …
 
-Wir ruderten wie die Sportfexe … Wir schnitten …
+Wir ruderten wie die Sportfexe … Wir schwitzten …
 Wir keuchten … Wir wollten wenigstens nicht allzu spät
 an Ort und Stelle sein … Vielleicht ließ sich noch etwas
 retten … Vielleicht hatte Lync gut aufgepaßt und das
 Motorboot rechtzeitig bemerkt … Vielleicht würden die drei
-Agenten ihm ins nichts weiter anhaben …
+Agenten ihm auch nichts weiter anhaben …
 
 Vielleicht …
 
-Hoffnungen, »eablägtelten
+Hoffnungen, Möglichkeiten …
 
-— — doch: Nur das Paddelboot lag nach im
-Mr
+Und — — doch: Nur das Paddelboot lag noch im
+Röhricht …
 
 Nur …
 
-Leer
+Leer …
 
 Kein Motorboot mehr zu sehen …
 
@@ -644,34 +644,34 @@ uns höhnisch an …
 
 Daran, daß Sennor Granville und Genossen ebenso
 schlau wie wir sein könnten, hatten wir nicht gedacht. Die
-Kerle waren leider schließlich doch auf den Gedanken Beklommen,
-sie könnten durch; eine zweite Person genarrt
+Kerle waren leider schließlich doch auf den Gedanken gekommen,
+sie könnten durch eine zweite Person genarrt
 worden sein. —
 
 Harald nahm diese Schlappe nicht etwa mit dem niederdrückenden
 Bewußtsein eigener Unzulänglichkeit hin …
 
 Nein! Sie wirkte auf ihn wie eine Spitze Morphium
-auf einen Morphinist … Er rief: »Nach Berlin!! Wir
+auf einen Morphinist … Er rief: »Nach Berlin!!! Wir
 brauchen Hilfe!«
 
 In solchen Fällen, wo es gilt, schleunigst herauszubekommen,
-welches Auto einen Wann mit einem Paddelboot
+welches Auto einen Mann mit einem Paddelboot
 aufgenommen hat, ist nur eine Instanz da: die Freunde
 vom Alex!
 
 <@pagebreak/>
-Dem Nichtberliner ist dieser Ausdruck »Alter« ein Fremdwort.
+Dem Nichtberliner ist dieser Ausdruck »Alex« ein Fremdwort.
 Meine Leser kennen ihn längst.
 
-Alex — See nie — Berlin, Polizeipräsidium, Kriminalpolizei!
+Alex — Alexanderplatz — Berlin, Polizeipräsidium, Kriminalpolizei!
 
-Kriminalpolizei — — ungeheure Pflege 1 … Tausend
-seine Räder, gut geölt, spielend Trichter Gang …
+Kriminalpolizei — — ungeheure Maschine … Tausend
+feine Räder, gut geölt, spielend leichter Gang …
 
-Und wir ’gondelten zum Alex.
+Und wir gondelten zum Alex.
 
-Platten in Freund Fürs Dienstzimmer hinein, Hochstaplerdezernat
+Platten in Freund Lückes Dienstzimmer hinein, Hochstaplerdezernat
 …
 
 »Lücke, Sie müssen uns beistehen!«
@@ -690,13 +690,13 @@ Und so weiter …
 
 Sprach genau sechzig Worte …
 
-Und dreißig Wann, Elite vom Alex, Spürhunde edelster
+Und dreißig Mann, Elite vom Alex, Spürhunde edelster
 Rasse, legten sich auf die Fährte … —
 
 Wir kehrten heim. Lücke würde uns telephonisch Nachricht
 geben.
 
-Als wir heimkehrten, fanden wir Miß Kanal Gulbranoor
+Als wir heimkehrten, fanden wir Miß Sarrah Gulbranoor
 vor …
 
 Als Klientin …
@@ -706,12 +706,12 @@ Als Klientin …
 <h2>4. Kapitel.</h2>
 <h3>Ihre wahre Liebe.</h3>
 
-Kanal Gulbranoor, Malerin, Neuyork.
+Sarrah Gulbranoor, Malerin, Neuyork.
 
 So stand auf ihrer Karte zu lesen, die uns Mathildes
 dicke Finger im Flur überreichten … Wozu Thildchen
-flüsterte: »’ne echte Hättet …!! Acht Zigaretten hat sie
-schon geraucht … Hm Herrenzimmer sitzt sie … Ich hab’
+flüsterte: »’ne echte Lädieh …!! Acht Zigaretten hat sie
+schon geraucht … Im Herrenzimmer sitzt sie … Ich hab’
 aufgepaßt …«
 
 Das Aufpassen ist bei uns nötig. Zuweilen haben
@@ -720,7 +720,7 @@ und denen man dann erst durch einen sanften Wink mit
 der Clementpistole »Knigges Umgang mit Menschen« oder
 »Wie benehme ich mich« in Erinnerung bringen mußte.
 
-Kanal rauchte also …
+Sarrah rauchte also …
 
 Mirakulum — aus dem Silberkasten …
 
@@ -729,12 +729,12 @@ Entschuldigte sich lachend …
 »Herr Harst, ohne Zigarette bin ich ein halber Mensch …
 Und mein Etui habe ich im Eden-Hotel vergessen …«
 
-Schlank, rank, rassig, des, — — so stand sie vor uns …
+Schlank, rank, rassig, keck, — — so stand sie vor uns …
 
 Moderne Lebedame, Sportlady, Künstlerin … — alles
-in seiner Mischung …
+in feiner Mischung …
 
-Aber!7 55 Dame, .; —
+Aber … Dame … —
 
 Wir setzten uns …
 
@@ -743,16 +743,16 @@ Wir setzten uns …
 uns weltkundig, »Herr Harst, mir ist im Eden mein ganzer
 Schmuck gestohlen worden …«
 
-Ob, — — wie unendlich banal war das!
+Oh, — — wie unendlich banal war das!
 
 Schmuck!
 
 Regenschirm! — Das steht bei uns so ziemlich in einer
 Rubrik.
 
-»Schuhe — bedauerlich,« meinte Harald höflich-gelangweilt.
+»Schade — bedauerlich,« meinte Harald höflich-gelangweilt.
 
-»Schmuck für anderthalb Millionen,« fügte Miß Kanal
+»Schmuck für anderthalb Millionen,« fügte Miß Sarrah
 hinzu.
 
 Harald lächelte sanft. »Wer führt auf Reisen derartiges
@@ -763,8 +763,8 @@ Herr Harst.«
 
 »Und Sie sind Malerin, Miß Gulbranoor?«
 
-»Ja. Und Witwe. Aber ich führe wieder meinen den
-Namen … Und auf die Malerin bin ich besonders stolz …
+»Ja. Und Witwe. Aber ich führe wieder meinen Mädchennamen
+… Und auf die Malerin bin ich besonders stolz …
 Drei Bilder von mir hängen im Neuyorker Museum …
 Wollen Sie meinen Brillanten nachjagen?«
 
@@ -772,23 +772,24 @@ Wollen Sie meinen Brillanten nachjagen?«
 
 »So dringend?«
 
-Ihr 6:36:87
+»Ja …«
 
 »Und nebenbei könnten Sie meinen Fall nicht erledigen?«
 
 »Das schafft unsere Polizei schneller und besser.«
 
-Sie wippte mit dem Höherer, »Ball; — — Polizei!!
+Sie wippte mit dem Füßchen. »Bah — — Polizei!!
 Kann ich nicht brauchen, Herr Harst. Ich habe einen der
 Diebe fest.«
 
 Harald kniff die Augen klein. »Fest? Was heißt das?!«
 
-»Er liegt gefesselt und geknebelt in meinem großen Vohrpplattenkoffer.«
+»Er liegt gefesselt und geknebelt in meinem großen
+Rohrplattenkoffer.«
 
-»Balkon, scherzen Sie?«
+»Pardon, scherzen Sie?«
 
-»2 habe keine Ursache dazu. — Ich kehrte vor einer
+»Ich habe keine Ursache dazu. — Ich kehrte vor einer
 <@pagebreak/>
 Stunde in meine Hotelzimmer zurück. Ich öffnete den Salon
 — ich habe drei Räume im ersten Stock —, da stieß mich
@@ -801,22 +802,22 @@ aus dem meine Kassette verschwunden. Die hatte der erste
 mitgenommen. Dann fuhr ich hierher …«
 
 »Sie gefallen mir, Miß Gulbranoor. Gut, ich bin bereit.
-— Wein Freund Schraut begleitet Sie. — Weshalb meiden
+— Mein Freund Schraut begleitet Sie. — Weshalb meiden
 Sie die Polizei?«
 
 »Weil ich Sie beide kennenlernen wollte … längst …
 Ich wäre auch ohne den Diamantenraub zu Ihnen gekommen.
-Ich habe so viel über Sie beide gelesen, daß ich …
+Ich habe so viel über Sie beide gelesen, daß ich …«
 
 »Sehr schmeichelhaft. Aber wir wollen den Mann im
-Koffer nicht allzu lange allein lassen. — Schraut, befördere
-dich) etwas …«
+Koffer nicht allzu lange allein lassen. — Schraut, verändere
+dich etwas …«
 
 Ich verschwand im Ankleidezimmer. Ich war stolz, daß
 ich einmal wieder allein auf den Plan treten konnte.
 
-Und als eleganter blondbärtiger Herr vom Typ »Yankee Gent«
-fuhr ich mit der entzückenden Kanal, deren Kinnhaken
+Und als eleganter blondbärtiger Herr vom Typ »Yankee-Gent«
+fuhr ich mit der entzückenden Sarrah, deren Kinnhaken
 stets gut sitzen, zum Zoo.
 
 Zoo …
@@ -834,9 +835,9 @@ Salon … Oh: fürstlich!! — Pardon: Künstlich — das
 war mal ein Begriff. Heute muß man sagen: Wie bei
 einem Staatspräsidenten mit Geschmack!
 
-Kanal schloß hinter uns ab.
+Sarrah schloß hinter uns ab.
 
-Dann. betrat ich ein Schlafzimmer …
+Dann betrat ich ein Schlafzimmer …
 
 <@pagebreak/>
 Schlafzimmer?! Pardon … Ein Traum aus Seide, Holz,
@@ -853,15 +854,15 @@ Sollte …
 
 Lag nicht mehr …
 
-Nur noch zerschnittene Handtücher, die Miß Kanal) als
+Nur noch zerschnittene Handtücher, die Miß Sarrah als
 Stricke benutzt hatte …
 
-Woraufhin Miß Kanal sehr nachdrülih … flucht«,
+Woraufhin Miß Sarrah sehr nachdrücklich … fluchte,
 — — was sehr komisch klang.
 
 »Was machen wir nun, Herr Schraut?!«
 
-» Ich sagte in dem famos—hundeschnäuzischen Ton (Marke:
+Ich sagte in dem famos-hundeschnäuzischen Ton (Marke
 Harst):
 
 »Wir benachrichtigen die Polizei.«
@@ -876,24 +877,24 @@ Harst):
 
 »Abneigung gegen alle Behörden.
 
-»Das mag drüben bei Ihnen berechtigt sein, wo alle
-Leute bestechlich sind. Hier bei uns sind’s nur ein Viertel,
+»Das mag drüben bei Ihnen berechtigt sein, wo *alle*
+Leute bestechlich sind. Hier bei uns sind’s nur *ein Viertel*,
 und von der Polizei wohl nur ein Prozent — vielleicht
-nicht mal das. — Doch — wie Sie wollen …! — Dahlem
+nicht mal das. — Doch — wie Sie wollen …! — Fahren
 wir wieder zu uns zurück. Harst soll entscheiden.«
 
-»Sehr gut. Jahren wir.« —
+»Sehr gut. Fahren wir.« —
 
-Als wir Blücherstraße 10 anlangten, war Harald hinten:
+Als wir Blücherstraße 10 anlangten, war Harald hinten
 im Gemüsegarten.
 
 »Nun?« fragte er.
 
 »Zerschnittene Handtücher,« sagte ich.
 
-Er lächelte und Zwinkerte Miß Gulbranoor zu … »Sie:
-werden doch einen Harst nicht hineinlegen wollen, Miß.
-Gulbranoor!t«
+Er lächelte und Zwinkerte Miß Gulbranoor zu … »Sie
+werden doch einen Harst nicht hineinlegen wollen, Miß
+Gulbranoor!«
 
 <@pagebreak/>
 Bei Gott — sie wurde rot.
@@ -903,50 +904,50 @@ Bei Gott — sie wurde rot.
 »Ich meine, daß Sie Ihre Brillanten daheim haben …
 — Während Sie und Schraut weg waren, rief ich den
 Direktor des Eden-Hotels an. Er erklärte mir, Sie hießen
-eigentlich Margrit Sellerhoop. Diesen — Namen habe ich
+eigentlich Margrit Sellerhoop. Diesen Namen habe ich
 heute schon einmal unter merkwürdigen Umständen gehört …
 — Kennen Sie Harold Lync?«
 
-Sie schaute zu Boden. »Ja … — wo? ist’s mit Lync?«
+Sie schaute zu Boden. »Ja … — was ist’s mit Lync?«
 
 »Sollten Sie das nicht wissen?«
 
 »Nein, bedauere …« Sie blickte auf. »Lync existiert
 für mich nicht mehr,«
 
-»So so … — Und Sie bleiben dabei, daß Ihnen
-Ihre Juwelen gestohlen wurden 2«
+»So … so … — Und Sie bleiben dabei, daß Ihnen
+Ihre Juwelen gestohlen wurden?«
 
-»Ich«
+»Ja!«
 
 »Dann … werde ich Ihnen das Gegenteil beweisen. —
-Schraut, was für ein Koffer war’82«
+Schraut, was für ein Koffer war’s?«
 
 Ich erwiderte etwas bedrückt: »Ein ganz moderner großer
-Schiffsleiter, Patent Lindmery, Shwimmkoffer mit Gummi leisten.«
+Schiffskoffer, Patent Lindmery, Schwimmkoffer mit Gummileisten.«
 
-»Und Miß Margrit-Kanal hatte den betäubten Gauner
+»Und Miß Margrit-Sarrah hatte den betäubten Gauner
 dort eingeschlossen?«
 
 »Ja.«
 
-»Der Koffer war also luftdicht versperrt. Der Mann.
+»Der Koffer war also luftdicht versperrt. Der Mann
 Hat mindestens eine Stunde darin gelegen. Da wäre er
-Besitz, auch in kürzerer Zeit. — Waren die Schlösser unverletzt?«
+erstickt, auch in kürzerer Zeit. — Waren die Schlösser unverletzt?«
 
 »Ja, Miß Margrit schloß erst auf.«
 
-Harst lachte jetzt. »Oh — Sie sind doch nachts zu sehAnfängerin
-in solchen Abenteuern, Miß …! — Eine andere
-Frage … Wo waren Sie so gegen zehn wvormittags«
+Harst lachte jetzt. »Oh — Sie sind doch noch zu sehr
+Anfängerin in solchen Abenteuern, Miß …! — Eine andere
+Frage … Wo waren Sie so gegen zehn vormittags?«
 
 Da wurde sie wieder rot …
 
-Arm 4 1 40 55 — War. im Tiergarten: 258
+»Ich … ich … war im Tiergarten …«
 
 <@pagebreak/>
-»Balkon, Sie meinen … Wannsee, Miß …! Sie waren
-in Wannsee«
+»Pardon, Sie meinen … Wannsee, Miß …! Sie waren
+in Wannsee!«
 
 Sie starrte Harst lange an. »Wie kommen Sie auf
 Wannsee?!« meinte sie verwirrt.
@@ -954,36 +955,36 @@ Wannsee?!« meinte sie verwirrt.
 Eine nachsichtige Handbewegung Haralds …
 
 »Wenn man sich eine Perücke überstreift, Miß Sellerhoop,
-muß man daran denken, daß auf« Perücken … Haaren, einzelne
-Haare verlieren … Und so wenig aus von Ihrem
+muß man daran denken, daß auch Perücken … haaren, einzelne
+Haare verlieren … Und so wenig auch von Ihrem
 linken Ohr unter dem modernen reizenden Frühjahrshütchen
 zu sehen ist: das blonde Perückenhaar sehe ich! — Nicht
-wahr, nun Boden wir besser gegenseitig unsere Karten auf …
+wahr, nun decken wir besser gegenseitig unsere Karten auf …
 Sie wollten Lync schützen … Sie wollten ihm eine Zusammenkunft
 mit uns ermöglichen. Sie trugen Sportanzug,
 Männertracht. Sie waren der Mann im zweiten Paddel,
 Miß Sellerhoop.«
 
-Jetzt schlug sie den Bis nicht zu Boden.
+Jetzt schlug sie den Blick nicht zu Boden.
 
-»Ich, ich war’s, Herr Harst …«
+»Ja, ich war’s, Herr Harst …«
 
-»Sie lieben Lync noch immer … Wir scheint, Sie
+»Sie lieben Lync noch immer … Mir scheint, Sie
 haben dort in der Hauptstadt der Republik Ihre Millionen
-spielen lassen. Sie sind’s gewesen, die Lyncs sogenannte
+spielen lassen. *Sie* sind’s gewesen, die Lyncs sogenannte
 Begnadigung zustande brachte. Was kostete dies Ihnen?«
 
 »Zwei Millionen, Herr Harst, eine für den Justizminister,
-eine für den Minister des Auswärtigen. Mehr darf im
-gedacht nicht verraten. Ich habe vielleicht schon jetzt mein
+eine für den Minister des Auswärtigen. Mehr darf ich
+jedoch nicht verraten. Ich habe vielleicht schon jetzt mein
 Wort gebrochen.«
 
-»ob — hier liegen die Dinge hohe wohl so, daß man
+»Oh — hier liegen die Dinge doch wohl so, daß man
 diesen Herrschaften dort in V. gegenüber nicht allzu korrekt
 zu sein braucht. Der Prozeß gegen Lync war ein übles Spiel.
 Man wollte Lync beseitigen, behaupte ich. Und wenn jetzt,
 wie er uns erzählte, seine Freilassung unter ebenso anrüchigen
-Bedingungen erfolgt ist, drängt sie mir immer mehr die
+Bedingungen erfolgt ist, drängt sich mir immer mehr die
 Überzeugung auf, daß diese ganze famose Mestizenrepublik
 nicht einen einzigen wirklichen Mann besitzt, der fähig
 wäre, das zu vollenden, wozu Lync sich verpflichtet hat …«
@@ -996,21 +997,21 @@ Lync mich schwer vergangen … Wir waren heimlich verlobt
 … Ich war noch so jung … Der übergroße Reichtum
 des anderen blendete mich, und den Ausschlag gab Harold
 schließlich. Sein zügelloser Ehrgeiz ließ ihn jede Frau,
-selbst mich, als Hindernis auf dem Wege zu seinen hochgestreckten
+selbst mich, als Hindernis auf dem Wege zu seinen hochgesteckten
 Zielen betrachten, er wollte sich erst dann öffentlich
 und fest an mich binden, wenn er die ersten Millionen beisammen
 hatte. So … heiratete ich Gulbranoor, einen stillen,
 klugen Mann, der mir nun vor einem Jahr durch den Tod
 entrissen wurde. Unsere Ehe entbehrte freilich jenes tiefen
 Gemeinschaftsgefühls, das erst einer so engen Verbindung
-Zynischen Mann und Weib die rechte Weihe gibt. Gulbranoor
-war mir mehr Freund. Meine Nu « Liebe blieb Harold.«
+zwischen Mann und Weib die rechte Weihe gibt. Gulbranoor
+war mir mehr Freund. Meine wahre Liebe blieb Harold.«
 
-»Ihre Aufrichtigkeit freut mich,«, »e Harst sehr herzlich.
+»Ihre Aufrichtigkeit freut mich,« sagte Harst sehr herzlich.
 »Sie wissen also nichts von Astadura?«
 
 »Astadura? Wer ist das? Das klingt wie ein Südseename
-…
+…«
 
 »Eine Insel ist’s … Eigentum der Republik … Sträflingskolonie
 …«
@@ -1027,12 +1028,12 @@ gestützt.
 »Das alles klingt sehr phantastisch,« meinte sie nachdenklich.
 »Aber — es dürfte wahr sein … Als ich mit
 dem Justizminister wegen Harolds Freilassung verhandelte,
-lag auf seinem Schreibtisch; ein Geheimbericht. Ich konnte
+lag auf seinem Schreibtisch ein Geheimbericht. Ich konnte
 ihn flüchtig durchblättern, da der Minister einmal aus dem
 Zimmer gerufen wurde. Ich besinne mich jetzt, daß von
 <@pagebreak/>
 einer Insel A. die Rede war und daß in dem Bericht auch
-eine Ausstellung von Summen enthalten war, die an die
+eine Aufstellung von Summen enthalten war, die an die
 Angehörigen von Offizieren, Matrosen und Agenten gezahlt
 worden …«
 
@@ -1040,7 +1041,7 @@ Harst schien überrascht. »Wie, sollte ich mich doch irren?!«
 — und er dachte kurze Zeit nach und fügte dann hinzu: »Ich
 glaubte, all diese angeblich auf so rätselhafte Art verschwundenen
 Leute seien von der Republik zu einer geheimen,
-längere Zeit erfordernden Wissen verwendet worden … Die
+längere Zeit erfordernden Mission verwendet worden … Die
 Sache gewinnt nun ein ganz anderes Aussehen. Zumal
 Lync leider den drei Agenten in die Hände gefallen ist, Miß
 Sellerhoop …«
@@ -1058,7 +1059,7 @@ Kennen Sie seine drei Aufpasser, Miß Sellerhoop?«
 Panama … Meine Jacht liegt jetzt in Hamburg … Herr
 Harst, wollen wir nicht gemeinsam …«
 
-»»—. Astadura aufsuchen, — natürlich! Nur — nichts
+»… Astadura aufsuchen, — natürlich! Nur — nichts
 überstürzen! Ich wette, daß auch Sie beobachtet werden,
 wette weiter, daß einer der drei Geheimagenten hierher kommen
 wird, um zu spionieren. Wenn irgend möglich, müssen wir
@@ -1069,7 +1070,7 @@ den Feldweg führe, während Schraut bereits Toilette macht.
 Ich schlage die Maske Zwei vor, mein Alter … In Damenrollen
 hast du stets Erfolg gehabt.«
 
-Die liebreizende Margrit, die nahe so viel unberührt
+Die liebreizende Margrit, die noch so viel unberührt
 Mädchenhaftes an sich hatte, verabschiedete sich. Sie war
 <@pagebreak/>
 eine Frau, die jede Phrase haßte. Ihre Dankesworte waren
@@ -1078,7 +1079,7 @@ kurz und herzlich.
 Kaum hatten die beiden dann meines Freundes Arbeitszimmer
 verlassen, als ich mich in unser »Boudoir« begab,
 dessen großes Fenster nach dem Hofe hinausgeht. Ich sah
-die Miß, die ihren Mädchennamen so energisMm dem anderen
+die Miß, die ihren Mädchennamen so energisch dem anderen
 vorzog, mit Harst zwischen den Bäumen verschwinden. Ich
 sah noch mehr …
 
@@ -1087,7 +1088,7 @@ die bereits in vollem Blütenschmuck prangende Krone überragt
 all unsere Obstbäume. In dieser Krone gewahrte ich
 einen dunklen Fleck …
 
-In! Nu eilte ich da den beiden nach. Aber ich kam zu
+Im Nu eilte ich da den beiden nach. Aber ich kam zu
 spät. Margrit schritt den Feldweg bereits entlang, und Harald
 hatte aus dem kleinen Gewächshaus die Kleinkaliberbüchse
 Hervorgeholt, mit der wir frechen Katzen zuweilen eins auf
@@ -1106,7 +1107,7 @@ Nichts …
 Nur eine dunkle Reisemütze flatterte wie eine angeschossene
 Krähe aus der Krone der Linde herab …
 
-Immerhin: den Schuß hätte ich nicht gewagt!
+Immerhin: *den* Schuß hätte ich nicht gewagt!
 
 <@pagebreak/>
 
@@ -1124,19 +1125,19 @@ im Blattgrün verschwand, da ereignete sich etwas, das uns
 Untenstehende schleunigst auseinanderspritzen ließ.
 
 Ein menschlicher Körper kam mit Lärm herabgestoßen,
-klatschte auf Vater Barsutzkis Radie8hHenbeet auf und …
-entpuppte riß bei näherem Hinsehen als ein ausgestopfter
+klatschte auf Vater Barfutzkis Radieschenbeet auf und …
+entpuppte sich bei näherem Hinsehen als ein ausgestopfter
 Gentleman mit Sportanzug, Wachshänden und scheußlichen
-Wacsschädel. Letzterem war der Sturz in die Tiefe ziemlich
+Wachsschädel. Letzterem war der Sturz in die Tiefe ziemlich
 zum Verhängnis geworden. Er war in drei Teile zerplatzt
 und zeigte das, was man bei lebenden Gents nur vermuten
-kann: Hier ward es offenbar — ein Hohlkopf war’s!
+kann: Hier ward es offenbar — ein *Hohl*kopf war’s!
 
 Kaum hatte sie das Gelächter unserer Laubenfreunde beruhigt,
-als Vater Barfuß?!, der von seiner Zigarre ebenso
+als Vater Barfutzki, der von seiner Zigarre ebenso
 <@pagebreak/>
-unzertrennlich)H war, wie von einem uralten zerlöcherten
-Leinenmantel, den e stolz sein Gärtnerhabit nannte, — — als
+unzertrennlich war, wie von einem uralten zerlöcherten
+Leinenmantel, den er stolz sein Gärtnerhabit nannte, — — als
 also dieser alte, stille Herr die Frage aufwarf, wozu man
 wohl die Puppe in dem guten Anzug — das alles müsse
 doch Geld gekostet haben — nach oben in die Lindenkrone
@@ -1146,71 +1147,71 @@ Schwere Frage das …
 
 Ich hätte ihm über den Sportanzug, den der ausgestopfte
 Gentleman trug, die eine Auskunft geben können: es war
-genau soll ein Anzug, wie Harold Lync ihn vormittags
+genau solch ein Anzug, wie Harold Lync ihn vormittags
 getragen hatte — also auch Margrit Sellerhoop, als sie
 die Verfolger von dem Geliebten ablenkte und hiermit zunächst
 auch Erfolg hatte.
 
-Dies hätte im unseren Freunden sagen können. Ich
-Hütet mich. Ich lachte mit ihnen, besichtigte nun die von
-Harald5SKugel durchlöcherte und zu dem Anzug genau passende
-Sportmütze und … zerbrach9; mir ganz im stillen den Kopf
+Dies hätte ich unseren Freunden sagen können. Ich
+Hütete mich. Ich lachte mit ihnen, besichtigte nun die von
+Haralds Kugel durchlöcherte und zu dem Anzug genau passende
+Sportmütze und … zerbrach mir ganz im stillen den Kopf
 darüber, was in aller Welt diese Puppe in der Baumkrone
-sollte, die Dom Zweifellos nur von den drei Agenten in der
+sollte, die doch Zweifellos nur von den drei Agenten in der
 verflossenen Nacht dort hinausgeschafft sein konnte.
 
-Harald war noch immer oder. Was tat er dort?! Hatte
+Harald war noch immer oben. Was tat er dort?! Hatte
 er den Gentleman absichtlich hinabgeworfen? Hatte er dort
-im Wipfel noch9 mehr gefunden?
+im Wipfel noch mehr gefunden?
 
-Endlich kam er herab. Vater Barfuß?! hielt die Leiter,
+Endlich kam er herab. Vater Barfutzki hielt die Leiter,
 die bis zu den ersten Ästen reichte, rief ihm zu: »Herr
 Harst, das ist wieder mal so was für Sie … Was soll die
-Puppe?! Kein vernünftiger Mensch wird doch Zweige einen
+Puppe?! Kein vernünftiger Mensch wird doch zwecklos einen
 Anzug opfern und einen Wachskopf und Wachshände dazu!!«
 
 Harald stand inmitten der bunt zusammengewürfelten
 Schar der Kleinsiedler. Alle Berufe waren hier vertreten.
-Vater Barsutzki war Briefträger gewesen, der kleine redselige,
-stets sanft nach Alkohol duftende Fenster war Nachtportier,
+Vater Barfutzki war Briefträger gewesen, der kleine redselige,
+stets sanft nach Alkohol duftende Wengler war Nachtportier,
 <@pagebreak/>
-der die Schüler Zeitungsverkäufer, der hagere
-Mast dagegen Rechnungsrat a. D. — und so fort. — Alle
+der dicke Schöller Zeitungsverkäufer, der hagere
+Matz dagegen Rechnungsrat a.&nbsp;D. — und so fort. — Alle
 blickten erwartungsvoll auf Harald. Der lächelte … meinte
 achselzuckend:
 
-»Fortschaffen, verlangt nicht so viel von mir … Ich
+»Herrschaften, verlangt nicht so viel von mir … Ich
 muß mir die Geschichte erst mal überlegen. Also — auf
 Wiedersehen. Vater Barsutzki mag die Puppe in Verwahrung
 nehmen.«
 
 Enttäuschte Gesichter ringsum …
 
-— Wirr schritten über den Feldweg, waren wieder in
+Wir schritten über den Feldweg, waren wieder in
 unserem Gemüsegarten. Am alten Birnbaum lehnte die
-Kleinkaliberbüchse. Harald verstehe sie im Gewächshaus …
+Kleinkaliberbüchse. Harald versteckte sie im Gewächshaus …
 Als er wieder zu mir trat, sagte er nur:
 
-»Die Sache ist weit ernster als wir dachten …
+»Die Sache ist weit ernster als wir dachten …«
 
 »Du hast etwas in der Baumkrone gefunden?«
 
 »Ja … Das war sehr seltsam da oben, mein Alter.
-Komm? ins Haus. Ich muß meinen Kaminplatz und meine
+Komm’ ins Haus. Ich muß meinen Kaminplatz und meine
 Mirakulum haben … Ich muß scharf überlegen, abwägen.
 Hier ist mit einfachen Mitteln nichts zu erreichen. Uns
 droht Gefahr. Die Leute, die Harold Lync nach der Insel
-schlichen wollen, werden uns auslöschen wie … elende
+schicken wollen, werden uns auslöschen wie … elende
 Stummelkerzen. Es ist ein Kampf gegen einen … Staat,
 Max Schraut. Und wenn’s auch nur eine Republik von
 Indianern, Mulatten und Mestizen ist: es bleibt ein Staatswesen,
 eine nicht zu verachtende Macht.«
 
 Wir betraten sein Arbeitszimmer. Er reichte mir einen
-Brief, der stark zerknittert war … Der Umschlag hattbraungrüne
-Flecke …
+Brief, der stark zerknittert war … Der Umschlag hatte
+braungrüne Flecke …
 
-»Lies — — und verhalte dich stillt«
+»Lies — — und verhalte dich still!«
 
 Ich las.
 
@@ -1218,12 +1219,12 @@ Maschinenschrift. Deutsch. Aber mangelhaft. —
 
 Der Umschlag trug keinerlei Aufschrift, möchte ich noch
 <@pagebreak/>
-bemerken. Das Briefpapier war sogenannt’8 »überseeisches«
+bemerken. Das Briefpapier war sogenanntes »überseeisches«
 — ein großer dünner Bogen.
 
-Herrn Harst und Schraut.
+<p class="centered">Herrn Harst und Schraut.</p>
 
-Sollte der, der Ihr Heim umschleicht, Ihnen gewisse
+> Sollte der, der Ihr Heim umschleicht, Ihnen gewisse
 Dinge mitteilen, die Sie nichts angehen, so seien Sie bei
 der Beurteilung dieser Angaben recht vorsichtig und mißtrauisch.
 Lassen Sie Ihre Hände von alledem am besten
@@ -1234,42 +1235,42 @@ den Sie noch nicht kennengelernt haben. — Sie sind
 gewarnt. Verlassen Sie etwa Berlin, und besteht auch nur
 der geringste Verdacht, daß Sie dorthin wollen, wo Sie
 nichts zu suchen haben, so werden Sie unbedingt ausgelöscht
-werden. Nicht nur daß!! Nehmen Sie Aussicht
+werden. Nicht nur das!! Nehmen Sie Rücksicht
 auf Ihre Mutter, Ihr Haus! Eine Ekrasitbombe genügt,
 das Harstsche Familienhaus in einen Schutthaufen zu
-verwandeln. — Wir sind nicht ledig! ich ein paar Vertreter
+verwandeln. — Wir sind nicht lediglich ein paar Vertreter
 jenes Machtfaktors hier in Berlin. Nein, — wenn
-Sie es wünschen, beweisen« wir Ihnen, daß 8 wir hier in
+Sie es wünschen, beweisen wir Ihnen, daß wir hier in
 Berlin ein kleines Heer darstellen.«
 
 Nun — das war immerhin deutlich …
 
 Ich schaute zu Harald hinüber … Er merkte es, sprach
-mitten aus seinen hastenden Gedanken heraus: »Ich: denke
+mitten aus seinen hastenden Gedanken heraus: »Ich denke
 an die frühere russische politische Polizei … Da hatte jeder
-Geheimagent seinen Aufpasser, jeder Höbhergestellte seinen
+Geheimagent seinen Aufpasser, jeder Höhergestellte seinen
 Spion … Einer bespitzelte den andern … Es war ein
-System, das scheinbar vor Verräterei und Untreue Schüsse
-— scheinbar … — Stier scheint’s dasselbe zu Sein: die
+System, das scheinbar vor Verräterei und Untreue schützte
+— scheinbar … — Hier scheint’s dasselbe zu sein: die
 drei, die wir kennen, werden wieder von anderen überwacht,
 und diese anderen wieder von dritten. — Ja, mein Alter,
 <@pagebreak/>
 schon aus diesen Vorsichtsmaßregeln erhellt zur Genüge,
 daß die gegen uns gerichteten Drohungen nicht leere Worte
 sind … Die Machthaber der Republik, und zweifellos sind
-sämtliche Minister und der Staatspräsident mit eingeweiht.
-müssen außerordentlich gefährdet sein, falls die Fährte::
+sämtliche Minister und der Staatspräsident mit eingeweiht,
+müssen außerordentlich gefährdet sein, falls die Wahrheit
 über die Vorgänge auf der Insel an den Tag kommt … —
-— Hallo …« — und er sprang auf — »da hält ein Musik
+— Hallo …« — und er sprang auf — »da hält ein Auto
 vor dem Hause … Ah — das ist der kleine Granville mit
-dem Totengesicht … Also stimmt’s … Er stattet uns seine:
-Bein ab … Geh’, öffne … Sennor Granville wird hier
+dem Totengesicht … Also stimmt’s … Er stattet uns seinen
+Besuch ab … Geh’, öffne … Sennor Granville wird hier
 bei uns keinen leichten Stand haben …«
 
-Und er nahm den Drohbrief und legte ihn, den Umschlag —
+Und er nahm den Drohbrief und legte ihn, den Umschlag
 daneben, auf den Sofatisch … — —
 
-Granville saß in der Seiner …
+Granville saß in der Sofaecke …
 
 Seine verkniffenen Augen glitten achtlos über den Brief
 Hinweg …
