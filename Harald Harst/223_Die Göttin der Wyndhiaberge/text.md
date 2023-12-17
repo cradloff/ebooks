@@ -1,473 +1,424 @@
-<@pagebreak/>
+<@pagebreak 3/>
 
-<@pagebreak/>
-Haro!d Harst
-aus meinem Leben
-Band: 223
-Die Göttin der
-(Urnafiaberge
-Erzählt von
-(ax Schraut
-
-Verlag moderner Lektüre G, in. b. H.
-Berlin SO 16, Michaelkirchstraße 23a
-<@pagebreak/>
-Nahdbruck verboten, — Alle Rechke, eimschlicetzlich d13
-Versilmungvrecht, vorbehoiten. Copyright 19:33 by
-Verlag moderner Lektüre G. in. b. H, Berlin SV. 16.
-
-Druck: P. Lehmann, G. in. b, H … Berlin SO. 16,
-<@pagebreak/>
-ve wem - —:
-
-… D20020002090206020000 .»…».22.2.00229
-
-— zen mem re mee re a dum zm ve egen «umme 4000 dune 0 enltmden mm mrn 400&nbsp;5075 2 chref wre in — in — 7 eden ats: warens — 07 WE
-
-DD0EI9DD0DID0ODdSD0dDI0 DI-D 00000
-
-»to rmree— we a IEE Dos - 2. Wire
+<h1>Die Göttin der Wyndhiaberge.</h1>
 
 <h2>1. Kapitel.</h2>
 <h3>Doktor Marbucles Theorie.</h3>
 
-Die Schreibweise des Wortes Wyndhia ist nicht gleich-
-maßiq, die Übersetzung noch verworrener, Manche Atlanten
-neunen den Gebirg8zug Bindhya. Einige Geographen Über-
-seen Wyndhjia oder Vindhya mit »Stein oder Fels«, was
-insofern zutrisft, als diese Zentralindien von West nach Ost
+Die Schreibweise des Wortes Wyndhia ist nicht gleichmäßig,
+die Übersetzung noch verworrener. Manche Atlanten
+nennen den Gebirgszug Wyndhia. Einige Geographen übersetzen
+Wyndhia oder Wyndhia mit »Stein oder Fels«, was
+insofern zutrifft, als diese Zentralindien von West nach Ost
 durchziehenden Berge aus Sandstein und Schiefer bestehen.
-Andere Gelehrte aber, so besonders der Inder Doktor Tas
-mudra, führen das Wort auf die uralten, aber verstümmelten
-Wortstämme Byni und Dschia zurüsk: nasser Boden, Sumpf,
-— Und auh dies würde sig mit der widerspruchsvollen,
+Andere Gelehrte aber, so besonders der Inder Doktor las
+wurden, führen das Wort auf die uralten, aber verstümmelten
+Wortstämme Etui und Berlin zuruft: nasser Boden, Sumpf,
+— Und auch dies würde sich mit der widerspruchsvollen,
 Natur dieses Gebirges decken, dessen Südseite in weite,
-nie erforschte Dsczungel übergeht, deren Wahrzeichen einzelne
-table hohe Felspartien bilden, die mitten aug Morast und
+nie erforschte Dschungel übergeht, deren Wahrzeichen einzelne
+unrentable hohe Felspartien bilden, die mitten aus Morast und
 Dornen und Buschwerk hervorragen,
 
-223\.
 <@pagebreak/>
-DSSSSSSSSSSS 4 SSSSSSSSSSSSD
-
 Dies zur Einleitung.
 
-Und unn ein Eprung ostwärts …
+Und nun ein Sprung ostwärts …
 
 Kalkutta
 
-Auf dem Hugli-«Fluß mit jemen lehmigen Fluten, die
-nach jedem Negen eine no) seltsuameie grünbraunmne Farbung)
-annehmen, ankert gegenüber dem Zolltyause eine elequute
-große Prwatjaht, die jtolz das Cternenbanner am Ye
-und am Bug wm vergoldeten Buctzitaben den Namen »Ohio«
+Auf dem Hugli-Fluß mit jenen lehmigen Fluten, die
+nach jedem Regen eine noch seltsuameie grünbraunmne Färbung
+annehmen, ankert gegenüber dem Zollhause eine elegante
+große Prwatjaht, die stolz das Sternenbanner am He
+und am Bug am vergoldeten Buchstaben den Namen »Ohio«
 zeigt
 
 Unter dem Sonnensegel auf dem Achterdeck ist der Früh«
-stüdstisch zierlich gedeXt Ein Steward in blendend weißem
-Leinenanzug füllt die Teetajjen, und ein zweiter ricdlet
+stüdstisch zierlich gedeckt Ein Steward in blendend weißem
+Leinenanzug füllt die Gestalten, und ein zweiter richtet
 auf einem Nebentisch) die Nojstbrotdyen her.
 
-Frau Margrit Lync, Besitzerin dieser säwimmenden herr-
-tiyleit. sieht hente merkwürdig blaß aus. Die Kallutta«Luft
-wi berüchtigt. und jetzt im Iunt pfleg! alles an Europäern. wos
-nur irgend abkömmlich, in die kühlen Borberge des Himalaya
+Frau Margrit Lync, Besitzerin dieser schwimmenden Herrlichkeit
+sieht heute merkwürdig blaß aus. Die Kalkutta-Luft
+wi berüchtigt. und jetzt im Und pflegt alles an Europäern. was
+nur irgend abkömmlich, in die kühlen Vorberge des Himalaya
 zu flüchten
 
-Harit beobachtet Frau Margrit Auf ihren ausdrücklichen
-Wunsch ist die Vhjio aus den batlsamijchen Gesilden der
-paztnikischen Inselgruppen hter nach Indien gedampft Wee
-balb - wu wissen es nicht Uu Darold Lync, ihr Gatte,
-weiß es n!! Cine Frau, die rund 120 Millionen mit in
-die Gh: gebiaht hat. darf schon kleine Launen haben —
+Harst beobachtet Frau Margrit Auf ihren ausdrücklichen
+Wunsch ist die Ohio aus den vulkanischen Gefilden der
+paztnikischen Inselgruppen hier nach Indien gedampft Tee
+halb — Du wissen es nicht Nu Furcht Lync, ihr Gatte,
+weiß es n!! Eine Frau, die rund 120 Millionen mit in
+die Oh: gebracht hat. darf schon kleine Launen haben —
 »Ich keine Indien nicht.« hatte sie gesagt. »Und ich möchte
-es unter Ihrer Führung kennenlernen, Ulteber Herr Harfst.«
+es unter Ihrer Führung kennenlernen, Urheber Herr Harst.«
 
-Worauf mem Freund Pjarald erwidert hatte, der Iunit
-set niht gerade die günttigste Neisezeit für Indien. Weiter
-ntchts
+Worauf Mem Freund Pjarald erwidert hatte, der Juni
+sei nicht gerade die günstigste Reisezeit für Indien. Weiter
+nichts
 
-Gestern abend wwaron wir mit der Ohio in Kalkutta
+Gestern abend waren wir mit der Ohio in Kalkutta
 eingetroffen Heute sollte nun die Stadt besichtigt werden,
-Zunächst aber frühstüdten wir
+Zunächst aber frühstückten wir
 
 Kapitän Thomas Gulgy, der Erste Offizier Hendersen, der
-Edyiff8sarzt Doktor Marbucle ergänzten die FrühstüdIrunde.
-<@pagebreak/>
-SES DSSVESELXEqOTI- 5 CTS SPSSSSSSESD
+Schiffsarzt Doktor Marbucle ergänzten die FrühstüdIrunde.
 
-Das GespräH drehte sid um Fakirkünste. Marbucle hatte
-dis Thema angeschnitten. Er war ein nos junger Mann mit
-geistvoll»häßlichem: GesiHt und einer geringen Rückgratver-
-krümmung, sehr langen Armen und einem kürzeren Fuß: ein
-von der Natur bitter gezeichnetes Wesen, bei deim jedoch die
-Intelligenz dreifacch vorhanden. Marbucle wußte einfa) alles,
-Er war Vücherwurm aus unersättlicher Wißbegier. Als wir
+<@pagebreak/>
+Das Gespräch drehte sich um Fakirkünste. Marbucle hatte
+die Thema angeschnitten. Er war ein uns junger Mann mit
+geistvoll häßlichem: Gesicht und einer geringen Rückgratverkrümmung,
+sehr langen Armen und einem kürzeren Fuß: ein
+von der Natur bitter gezeichnetes Wesen, bei beim jedoch die
+Intelligenz dreifach vorhanden. Marbucle wußte einfach) alles,
+Er war Bücherwurm aus unersättlicher Wißbegier. Als wir
 ihn vor sieben Wochen in Hamburg kennen gelernt hatten
-uimeine Freunde und Leser werden sich besinnen, daß 1ich
-von ihm im vorigen Band nicht viel Yufpedens gamacht
-habch, beachteten wir ihn kaum. Erst mit der Zeit lerr.ten
-wir ihu schätzen. Wargrit Lync, geborene Sellerhosy, tr«
-witwele Gulbranoor, nannte ihn stets scherzend das wurdchl: de
+annehme Freunde und Leser werden sich besinnen, daß lieh
+von ihm im vorigen Band nicht viel Yufpedens angeht
+Kabel, beachteten wir ihn kaum. Erst mit der Zeit lernten
+wir ihn schätzen. Margrit Lync, geborene Seltenheit, Dr«
+atmete Gulbranoor, nannte ihn stets scherzend das Furcht: he
 Lexikon.
 
-Edward MWarbucle sprach also über die indishe2 Toa
-oder Fakire mit einer Sachkenntnis, die uns verbiziifte.
-Harst und ich sind auf diesem immer noch reichlig) du:«1en
-Gebiet gewiß gut bewandert, Der buFlige Doktor als r&rner
+Edward Marbucle sprach also über die indische? Ton
+oder Fakire mit einer Sachkenntnis, die uns verbrauchte.
+Harst und ich sind auf diesem immer noch reichlich) du:«ran
+Gebiet gewiß gut bewandert, Der bucklige Doktor als ferner
 Theoretiker (er hatte Indien noch nie gesehen) brachte Dinge
-vor, die selbst uns vollig fremd …
+vor, die selbst uns völlig fremd …
 
-Harold Lync, ein ebenso fühler, klarer, kluger Xopf
+Harold Lync, ein ebenso Fühler, klarer, kluger Topf
 wie leidenschaftlicher Verehrer seiner schönen Gattin, läche’!te
-zweifelud, als Marbucle nun behauptete… jeder e4hzte Donat,
-das heizt jeder wahre Zugehörige der Yogi-Kuaste, sei ein
-vollendeter Hypnotiseur, dessen Einfluß sie keine sceusidte
+zweifelnd, als Marbucle nun behauptete… jeder e4hzte Kennt,
+das heizt jeder wahre Zugehörige der Yogi-Künste, sei ein
+vollendeter Hypnotiseur, dessen Einfluß sie keine geweihte
 Natur entziehen könne.
 
-Mein Freund niäte zustimmend,
+Mein Freund Kiste zustimmend,
 
-»Sie sollten nict so überlegen lächeln, Lync,« meinte
-er mit einem verlorenen« Blik nach dem nahen Kai, wo
-braune Ctauer lärmend große Ballen Häute im Schlund
-eines stinkenden Schonersg verschwinden ließen. »Ich gehöre
-zu den sensibien Naturen, freilich nicht zu denen, die einem
-Yogi unterliegen. Iwmerhin reagieren meine seinsten NetvewU-
-stränge auf vieles, was «aqudere nicht spüren. Weun Sie
+»Sie sollten nicht so überlegen lächeln, Lync,« meinte
+er mit einem verlorenen« Blick nach dem nahen Kai, wo
+braune Stauer lärmend große Ballen Häute im Schlund
+eines stinkenden Schoners verschwinden ließen. »Ich gehöre
+zu den Brasilien Naturen, freilich nicht zu denen, die einem
+Yogi unterliegen. Immerhin reagieren meine feinsten NetvewUstränge
+auf vieles, was »zaudere nicht spüren. Neun Sie
 <@pagebreak/>
 bitte mal zum Bollwerk hinüberschauen wollen, Lync …
-Sehen Sie den zerluinpten alten Kerl mit dem Ledersack über
+Sehen Sie den zerlumpten alten Kerl mit dem Ledersack über
 dem Rücken und dem knallgelben Fleck zwischen den Augen
 — den dort neben dem Bretterstapel? Der Kerl steht
-dort seit sehs Uhr morgens, unbeweglich, Skatuc, — hat
+dort seit sechs Uhr morgens, unbeweglich, Statue, — hat
 kein Glied gerührt, hat die Augen geschlossen … Er scheint
 zu schlafen … Scheint nur …«
-Margrit Lync blikte wie wir alle scharf hinüber. Sie
-wurde jäh noch bleicher als bigher. 3ch bemerkte es nur,
-weil Harald mir vielsagend und heimlicd zublinzelte.
+Margrit Lync blickte wie wir alle scharf hinüber. Sie
+wurde jäh noch bleicher als bisher. 3ch bemerkte es nur,
+weil Harald mir vielsagend und heimlich zublinzelte.
 
-Frau Margrit öffnete dann die Lippen … Ein tieser
+Frau Margrit öffnete dann die Lippen … Ein tiefer
 Seufzer …
 
-»Mein Gott,« stieß sie hervor, »das ist ja der Mensd,
-den ich in dieser Nacht immer wieder im Traume fab …
+»Mein Gott,« stieß sie hervor, »das ist ja der Mensch,
+den ich in dieser Nacht immer wieder im Traume sah …
 Es war geradezu unheimlich … Immer aufs neue erwachte
-ich … Immer wieder sal) ich diesen … Fakir — genau
-so, wie er jetzt dort steht, den hellen Holzstapel als Hinter-
-grund …!« Und nach kurzer Pause zu ihrem Manne: »Harold,
-das … das war so unendlich grauenvoll, und jezt — -
-ist’s noFg+ grauenvoller …«
+ich … Immer wieder sah) ich diesen … Fakir — genau
+so, wie er jetzt dort steht, den hellen Holzstapel als Hintergrund
+…!« Und nach kurzer Pause zu ihrem Manne: »Harold,
+das … das war so unendlich grauenvoll, und jetzt — —
+ist’s Folge grauenvoller …«
 
-Eine seltsame Gtimmung lag plöotzliH über unserer
+Eine seltsame Stimmung lag plötzlich über unserer
 kleinen Tafelrunde. Wir alle fühlten unklar, daß das indische
-RViesenrei), auch heute noch das Land der Geheimnisse, uns
+Vielerlei), auch heute noch das Land der Geheimnisse, uns
 mit seinem Zauberodem uralter Kultur, uralter Geheim,
-künste anhauchte.
+Künste anhauchte.
 
-Margrit hatke wie schutzsuchend ihres Gatten Hand
-ergriffen. Doktor Marbucle beugte sih zur Sejte und
+Margrit hatte wie schutzsuchend ihres Gatten Hand
+ergriffen. Doktor Marbucle beugte sich zur Seite und
 flüsterte uns beiden zu: »Der Yogi stand bereits gestern
-abend dort … Hier bereitet sich irgend etwas vor … Manu
+abend dort … Hier bereitet sich irgend etwas vor … Mann
 müßte den alten Burschen mal gründlich auf den Zahn
-sühlen …«
+fühlen …«
 
-Lync sagte da, uindem er ärgerlich die Achseln zue:
+Lync sagte da, Linden er ärgerlich die Achseln zur:
 »Wir hätten eben niemals hierher fahren sollen … Diese?
-Land ist nichts für di, Margrit … Eine Yatur, die bel
-
+Land ist nichts für Ei, Margrit … Eine Gattin, die bei
 <@pagebreak/>
-022000E020E520800 7- 000800800202&nbsp;222
-
-aller freudigen Lebensbejahung doH so sehr zum Grübeln
-neigk wie du und. äußeren Stimmungsveinflüssen derart leicht
-zugänglich ist, gehört lediglich in das moderne Weltstadt-
-getriebe hinein …« Er milderte dann zartfühlend seine
-Clinme: »Wenn es dir redzt ist, bleiben wir nur ein paar
-Sage hier und kehren dann nac« Neuyork zurück …«
+aller freudigen Lebensbejahung doch so sehr zum Grübeln
+neigt wie du und. äußeren Stimmungsveinflüssen derart leicht
+zugänglich ist, gehört lediglich in das moderne Weltstadtgetriebe
+hinein …« Er milderte dann zartfühlend seine
+Stimme: »Wenn es dir redet ist, bleiben wir nur ein paar
+Sage hier und kehren dann nach« Neuyork zurück …«
 
 Eine Blutwelle übergoß Margrits Gesicht …
 
-»Nein, nein!« rief sie fast heitig. »Ick muß mich eben
-nter zusammennehmen … Diese unerflärlichen Träume haben
-nich übernervos gemacht …« Und zu Harald: »Herr Harst,
+»Nein, nein!« rief sie fast heftig. »Ich muß mich eben
+hinter zusammennehmen … Diese unerklärlichen Träume haben
+Kranich übernervös gemacht …« Und zu Harald: »Herr Harst,
 wie denken Sie über diese seltsame Tatsache, daß ich immer
-wieder diesen Yogi sah, der mir dody völlig fremd, den id
-soeben erst. lebend gesehen, im Traum erblikte — genau so,
-wie er dort drüben am Kai in seiner staluenhaften Ruhe
-verharrt: Sie müssen doh irgendeine Erklärung finden,
+wieder diesen Yogi sah, der mir doch völlig fremd, den ich
+soeben erst. lebend gesehen, im Traum erblickte — genau so,
+wie er dort drüben am Kai in seiner statuenhaften Ruhe
+verharrt: Sie müssen doch irgendeine Erklärung finden,
 gerade Sie …! Ihnen sind doch bereits weit rätselhaftere
 Dinge begeqanet …!«
 
-»Fag wWvii «. nD erwiderte Harald sichtlich zerstreut. »Nur
-hatten diese Dinge daun stets einen gewissen kriminellen
-Zusammenhanq mit onderen, während hier doHck Ihre Träume
+»Lag Wadi «. ad erwiderte Harald sichtlich zerstreut. »Nur
+hatten diese Dinge dann stets einen gewissen kriminellen
+Zusammenhang mit anderen, während hier Dolch Ihre Träume
 sozusagen haltlos in der Luft schweben, Frau Lync.«
 
-Da war’s der bulige junge Doktor (ich szätzte ihn auf
-höchstens dreißig. Über sein Alter spracß er nich, der sich
+Da war’s der bullige junge Doktor (ich stützte ihn auf
+höchstens dreißig. Über sein Alter sprach er mich, der sich
 mit einer stark betonten Überlegenheit einmischte. »Zu«
 samtmenhänge sind nicht immer sofort erkennbar, verehrtester
 Herr Harst… Ich erzählte Ihnen ja bereits vorhin, daß der
-alie Fakir schon gestern abend kurz nach unsrer Ankunft mir
-eussiel. Als ich sclafen ging, und das war gegen elf Uhr,
-bemerkte ich ihn abermals — oder noch4 immer, wie man’s
-nehmen will. Vielleicht hat er die ganze Nacdyt dort gestanden.
-Cvllte alss dahzinter keine Absicht stecken?! Sollte nicht
+Lappalie Fakir schon gestern abend kurz nach unsrer Ankunft mir
+enthielt. Als ich schlafen ging, und das war gegen elf Uhr,
+bemerkte ich ihn abermals — oder noch immer, wie man’s
+nehmen will. Vielleicht hat er die ganze Nachts dort gestanden.
+Rollte als haltloser keine Absicht stecken?! Sollte nicht
 vielleicyzt ein … Ferneinfluß hier vorliegen, was Frau
-OQyncs Träume betrifft?! Sollte der Fakir nicht »gewolit«
-haben, daß Frau Lync ihn im Traum sdmute?! — Und —
+Ganges Träume betrifft?! Sollte der Fakir nicht »gewollt«
+haben, daß Frau Lync ihn im Traum konnte?! — Und —
 <@pagebreak/>
-DdSSDSSSSSSODSS 3&nbsp;202085200000 BEDESD
-
-— wenn ja, — was bezw?ckt der Yogi damit?! Ich für
-Mmeinc Person bin fest davon überzeugk, daß der Alte irgend
-etwas im SHilde führt. Diese Theorie eines Schreibtisch-
-gelehrten wie ich es bin, mag Ihnen, dem Praktiker, ans
-maßcnd erscheinen … Aber …«
+— wenn ja, — was brav?oft der Yogi damit?! Ich für
+Kneipe Person bin fest davon überzeugt, daß der Alte irgend
+etwas im Bilde führt. Diese Theorie eines Schreibtisch gelehrten
+wie ich es bin, mag Ihnen, dem Praktiker, ans
+watend erscheinen … Aber …«
 
 Ein Ausruf Kapitän Gulgys ließ ihn verstummen …
 
 »Der Kerl ist verschwunden!!
 
 Wir hatten in den letzten Minuten den Fakir nicht
-weiter im Unge behalten.
+weiter im Tage behalten.
 
-Vnrseee Köpfe flogen herum …
+Papiere Köpfe flogen herum …
 
 Per Alte war nicht mehr da …
 
-»Wir hätten ihn rechkzeitig an Bord holen und ausfragen
+»Wir hätten ihn rechtzeitig an Bord holen und ausfragen
 sollen,« murmelte der Doktor in das beklommene Schweigen
-hincin … &s war wie ein Vorwurf für Harald,
+hinein … &s war wie ein Vorwurf für Harald,
 
 Der meinte kühl »Wenn Ihre Theorie stimmt, sehen
-wir iv icon wieder, Doktor. Und — Ihre Theorie stimm!!
-Dex Mann führt etwas im Scilde Trotzdem wollen wir
-un? dadurch nicht stören lassen. So lange Sdzrau1, id und
-unser Doktor als TIhceoretiker über die Jaht und deren
-Infaisen wachen, wird nichts geschehen.« —
+wir in schon wieder, Doktor. Und — Ihre Theorie stimmt!
+Der Mann führt etwas im Schilde Trotzdem wollen wir
+un? dadurch nicht stören lassen. So lange Schraut, ich und
+unser Doktor als Theoretiker über die Jacht und deren
+Insassen wachen, wird nichts geschehen.« —
 
-Deei Stunden später jedoH war Frau Margrit Lync,
-verwitwete Gtlbranoor, spurlos versHwunden und dies unter
-fs eigensämtlicyen Umständen, daß ich) mich mit dieser Szene
-des Wor!piels zu dem großen Droma der Göttin der Wyndhia-
-Berge eiwas länger aushalten muß.
+Drei Stunden später jedoch war Frau Margrit Lync,
+verwitwete Gulbranoor, spurlos verschwunden und dies unter
+As eigentümlichen Umständen, daß ich mich mit dieser Szene
+des Beispiele zu dem großen Drama der Göttin der Wyndhiaberge
+etwas länger aufhalten muß.
+
 <@pagebreak/>
-HL2Z02202SES0ED00BDS 1) DEDE20SS0SIS0EA020Sck
 
 <h2>2. Kapitel.</h2>
 <h3>Die Birma-Pagode.</h3>
 
 Wenn Cook seine Schafherden von Touristenrudeln durch
-Kalkuttä treibt, beginnt das Programm stets mit dem Riesen-
-park, dem Maidam, der im Norden von dem Palast des
-VBizekönigs, von dem architektonisch etwgs nüchternen Rat-
-haus und dem weit garoßartigeren Gebäude der Bank voit
+Kalkutta treibt, beginnt das Programm stets mit dem Riesenpark,
+dem Maidan, der im Norden von dem Palast des
+Vizekönigs, von dem architektonisch etwas nüchternen Rathaus
+und dem weit garoßartigeren Gebäude der Bank von
 Bengalen begrenzt wird.
 
 Nun, hier kannten wir so ziemlich jeden Meter Boden,
 hier Hatten wir beruflich wiederholt zu tun gehabt. — Wir
-ahnten niht, daß hier abermals an meines Freundes Intel-
-ligenz die höchsten Anforderungen gestellt werden sollten.
+ahnten nicht, daß hier abermals an meines Freundes Intelligenz
+die höchsten Anforderungen gestellt werden sollten.
 
-Lync hatte zwei Autos zu unserer Rundfalyrt durch
+Lync hatte zwei Autos zu unserer Entfaltet durch
 die Stadt bestellt. Hm ersten saßen das Ehepaar Lync und
 wir beide, im zweiten Doktor Marbucle, Kapitän Gulgy
 und der Erste Offizier Hendersen. Harald hatte vorgeschlagen,
-zunächst die wenigen Überreste des ursprünglihen Kali Ghat
-(hieraus entstand später der Näme Kalkutta) zu besichtigen,
-dann die Vorstädte zu besuchen und nachher erst die eigent-
-liche moderne Gtadt.
+zunächst die wenigen Überreste des ursprünglichen Kali Glas
+(hieraus entstand später der Name Kalkutta) zu besichtigen,
+dann die Vorstädte zu besuchen und nachher erst die eigentliche
+moderne Stadt.
 
-Alles wickelte sich programmäßig ab. Alles verlief tadel.«
-sos. Die Wolken von Margrit Lyncs schöner Stirn waren
-verschwunden. Ihre Yugen strahlten, ihre Wangen blühten
+Alles wickelte sich programmäßig ab. Alles verlief Tadel.«
+los. Die Wolken von Margrit Lyncs schöner Stirn waren
+verschwunden. Ihre Augen strahlten, ihre Wangen blühten
 <@pagebreak/>
-PDPSOESEDISSSESSS 1) D9008S02D0IT-TG0&GC.02EO
+in köstlichster Weise. Der Fakir, die Träume waren vergessen.
 
-tn köstlichster Weise. Der Fakir, die Träume waren ver-
-zessen.
-
-? Und au8gerechncet auf dem zauberhaftesten Fleddzen Erde
-des großen Kalkutta, in dem herrlicen Garten Cden, two
-das eindrucks8volle Denkmal des Marschail2 Wellington ant
-einstige Wafsenbrüderschaft zwischen Deutscrtand und Engs
-land erinnert, — aus8gerechnet in der berühmten birmanischen
+? Und ausgerechnet auf dem zauberhaftesten Flechten Erde
+des großen Kalkutta, in dem herrlichen Garten Eden, wo
+das eindrucks8volle Denkmal des Marschall? Wellington an!
+einstige Waffenbrüderschaft zwischen Deutschland und England
+erinnert, — ausgerechnet in der berühmten birmanischen
 Pagode, die man 1851 von Birma mit ungeheuren Kosten
-vlertie« geschafft und in all ihrer bizarren Eddyönheit wieder
-«wfgeitellt hat, geschah das Unglaubliche: Margrit Lync
-trennte siH nur für Minuten von uns, blieb vor einer
-Göotzenstkatue im Nebensaal stehen, — wir gingen weiter, —
+vierte« geschafft und in all ihrer bizarren Eddyönheit wieder
+»Tigerfell hat, geschah das Unglaubliche: Margrit Lync
+trennte sich nur für Minuten von uns, blieb vor einer
+Götzenstatue im Nebensaal stehen, — wir gingen weiter, —
 wir kehr’ien um …: sie war nicht mehr zu finden!
 
-Umsonst waren alle Nachforschungen, alle Fragen. Nice
+Umsonst waren alle Nachforschungen, alle Fragen. Nie
 
-nnd hatte sie gesehen, kein einziger der vor der Pagode
-herumlungernden Bettler, Ricschaleute, Fremdenführer — -
-agtand!
+und hatte sie gesehen, kein einziger der vor der Pagode
+herumlungernden Bettler, Ricschaleute, Fremdenführer — —
+Island!
 
 Und doch mußte Margrit jedem auffallen. Sie hakte ein
-teictes loses Kostum aus Bastseide getragen, dazu einen
-Zutk aus Mangarohr mit vorgewölbter Krempe und gebs
-lier Seidenschleife …
+leichtes loses Kostüm aus Halsseite getragen, dazu einen
+Gut aus Mangarohr mit vorgewölbter Krempe und gebe
+Atelier Seidenschleife …
 
 Wem fiel diese bezaubernde Frau nicht auf! — Jedem!
 
-Troßdem: Keiner hatte ste die Pagode veriassen schen …
-mate ganz den Eindruck, als ob sie im Innern irgend-
-wie. irgendwohin verschwunden …
+Trotzdem: Keiner hatte sie die Pagode verlassen sehen …
+machte ganz den Eindruck, als ob sie im Innern irgendwie.
+irgendwohin verschwunden …
 
-Pie, wo … 9?!
+Nie, wo … 9?!
 
-Harold Lync wurde immer erregter, fassungsloser. Viel-
-leiht geschalys zum erstenmal in seinem Leben, daß er den
+Harold Lync wurde immer erregter, fassungsloser. Vielleicht
+Geschäfte zum erstenmal in seinem Leben, daß er den
 Kopf völlig verlor, daß er wie ein Sinnloser maherranunte
-und die Berwirrung noch erhöhte.
+und die Verwirrung noch erhöhte.
 
-Eine Stunde verging. Harald erklärte schlieslid, es hätte
-keinen Zwe, hier no« weiter das schadenfsrohe versteckte
-Grinsen brauner Fanatiker, die uns ja doch nur aniügen
+Eine Stunde verging. Harald erklärte schließlich, es hätte
+keinen Zweck, hier noch« weiter das schadensfrohe versteckte
+Grinsen brauner Fanatiker, die uns ja doch nur anlügen
 würden, hinnehmen zu müssen. — Ich sage Fanatiker, denn
 <@pagebreak/>
-DSEE020200202080028 11&nbsp;20002002202022202
-
-nirgends in Indien ist der heimlidze Haß gegen die Fremd-
-herri:haft so groß wie hier in Kalkutta, der Hauptstadt des
-»Katserreiches« Indien … Nirgends unterhält England eine
-sole MilitärmachFt wie hier. Nirgends liegt ein kanonen«
-gespiktes Fort mit 30000 Mann Elitetruppea !so mitten
+nirgends in Indien ist der heimliche Haß gegen die Besuchern:
+hast so groß wie hier in Kalkutta, der Hauptstadt des
+»Faltenreiches« Indien … Nirgends unterhält England eine
+solle MilitärmachFt wie hier. Nirgends liegt ein Kanonen«
+gekostet Fort mit 30000 Mann Elitetruppea!so mitten
 im Herzen einer Stadt wie das Fort William im Südwesten
 des Maidan dicht am Hugli.
 
-Nein — es war wirkli zweklos. Keiner dieser Rickscha-
-fulis, keiner dieser Bettler, Hausierer, Taschenspieler würde
-einen Landsmann verraten, der etwa die Willionärin eni-
-führt hätte, um ein Lösegeld zu erpressen.
+Nein — es war wirklich zwecklos. Keiner dieser Rikschakulis,
+keiner dieser Bettler, Hausierer, Taschenspieler würde
+einen Landsmann verraten, der etwa die Millionärin entführt
+hätte, um ein Lösegeld zu erpressen.
 
-ES kostete uns genug Mühe, Lync zu bestimmen, an Bord
+Es kostete uns genug Mühe, Lync zu bestimmen, an Bord
 zurückzukehren und der Polizei und uns das Weitere 3x
 überlassen.
 
-Die Polizei war längst verständigt worden. Der Garte
+Die Polizei war längst verständigt worden. Der Gatte
 war abgesperrt, niemand kam heraus oder herein.
 
 Ein uns fremder Detektivinspektor traf ein, stellte sich
 uns vor, erklärte, daß während der eigentlichen Reisezeit.
 in diesem Jahre bereits zwei reiche Amerikanerinnen, eine
-Zranzösin, und eine Italienerin verschleppt und nur gegen
+Französin, und eine Italienerin verschleppt und nur gegen
 Lösegeld freigegeben worden seien, ohne daß man die gut
-organisierte Bande hätte fassen können. Freilich, hier iu
+organisierte Bande hätte fassen können. Freilich, hier in
 der Pagode hätte sie derartiges noch nie ereignet.
 
 Wir standen mit dem Inspektor in demselben Nebenraum,
 der die bronzenen birmanischen Götzen beherbergte, Lync und
 die anderen waren davongefahren.
 
-Harald pflitete dem Inspektor für meinen Geschmack
-allzu eifrig bei, daß sicherlih eine sehr schlau vorbereitete
-Cntführung vorläge. Er sdjien den redseligen Herrn, der ihn
-sd etwas als Detektivdilettanten zu behzandeln beliebte, gern
-löswerven zu wollen. Aber Herr Pemberton hatte offenbar
-Tie Absicht, dem berühmten Harst zu beweisen, daß diesec
-»Tall« nur von der Polizei mit einiger Aussicht auf Erfolg
+Harald pflichtete dem Inspektor für meinen Geschmack
+allzu eifrig bei, daß sicherlich eine sehr schlau vorbereitete
+Entführung vorläge. Er schien den redseligen Herrn, der ihn
+so etwas als Detektivdilettanten zu Felsnadeln beliebte, gern
+loswerden zu wollen. Aber Herr Pemberton hatte offenbar
+Die Absicht, dem berühmten Harst zu beweisen, daß dieser
+»Tal!« nur von der Polizei mit einiger Aussicht auf Erfolg
 erledigt werden könne. Er blieb …
+
 <@pagebreak/>
-2220200202220202202 19&nbsp;200200082002020222ck
-
-»Es ist klar,« meinte er mit lächerliher Wichtigtuerei,
+»Es ist klar,« meinte er mit lächerlicher Wichtigtuerei,
 »daß man die Dame hier rasch betäubt, im das lange Gewand
-einer Inderin gehüllt und in einem Wagen weggesdzasft hat.«
+einer Inderin gehüllt und in einem Wagen weggeschafft hat.«
 
-»Natürlich,« nickte Harald … »Natürli.hy ist es so.
-Die Mohammedaneriunen gehen hier zumeist noch tief
-verschleiert, und nur so kann Frau Lyuc unbemerkt hinaus-
-getragen worden sein. Nur will mir eing nicht ganz eins
-leuchten: daß Frau Lync so gar niht um Hilfe gerufen
-sjaben sollte! Der Überfall auf sie spielte .sich in drei
+»Natürlich,« nickte Harald … »Natürlihy ist es so.
+Die Mohammedanerinnen gehen hier zumeist noch tief
+verschleiert, und nur so kann Frau Lync unbemerkt hinausgetragen
+worden sein. Nur will mir eins nicht ganz eins
+leuchten: daß Frau Lync so gar nicht um Hilfe gerufen
+saßen sollte! Der Überfall auf sie spielte sich in drei
 Minuten ab …
 
-Der Inspektor sHchaute Harst verständnislos an. - »Wie
+Der Inspektor schaute Harst verständnislos an. — »Wie
 meinen Sie das, Herr Harst?«
 
 »Nun, ein blitzartig wirkendes Betäubungsmittel gibt
-es niht, und die Dame Ast keine von jenen überzarten
-Yaturen, die vor Cchred die Sprache verlieren, im Gegen
-teil …! Damit Sie es wissen, Herr Vertberton: Es ill
-diese be Fran Lyne, von der die Zetlüntgeit. ds
-Welt unlängjt berichteten …«
+es nicht, und die Dame Ast keine von jenen überzarten
+Nahmen, die vor Schreck die Sprache verlieren, im Gegen
+teil …! Damit Sie es wissen, Herr Beorderten: Es ist
+diese Herren Lync, von der die Zetlüntgeit. da
+Welt unlängst berichteten …«
 
-»Ah, die GeschiHhte mit der Goldiusel …!« rief der In«-
-spektor fast begeistert. »Allerdings, diese Frau dürfle sich)
-kaum so ohne weiteres verschleppen lassen, Herr Hartjt.«
+»Ah, die Geschichte mit der Halbinsel …!« rief der Inspektor
+fast begeistert. »Allerdings, diese Frau dürfte sich)
+kaum so ohne weiteres verschleppen lassen, Herr Harsts.«
 
-»Immerhin, sie ist sehr widerspruchsvoll,« sazte Harald
-und trat hinter eine der Statuen, bückte sich und … hop
-den Hut Frau Margrits auf«…
+»Immerhin, sie ist sehr widerspruchsvoll,« sagte Harald
+und trat hinter eine der Statuen, bückte sich und … her
+den Hut Frau Margrits auf»…
 
-»Ia, — ihr thut …!«
+»Ja, — ihr Flut …!«
 
-»Also eine Bestätigung meiner Theorie!« meinte Pember-
-ton eilsertig. »Die Entführer kounuten den Hat nicht gul
-mitnehmen. Er ließ sich unter den Schleiern einer Mohamme-
-danerin nimt gut verbergen.«
+»Also eine Bestätigung meiner Theorie!« meinte Pemberton
+eilfertig. »Die Entführer konnten den Hat nicht gut
+mitnehmen. Er ließ sich unter den Schleiern einer Mohammedanerin
+nicht gut verbergen.«
 
-»Ganz rehHt, Inspektor … Nur: der Hut liegt no& nicht
-lange hier. Wir haben vorhin, als Lync noc unsere Arbeit
+»Ganz recht, Inspektor … Nur: der Hut liegt noch nicht
+lange hier. Wir haben vorhin, als Lync noch unsere Arbeit
 durch seine Übernervosität störte, ebenfalls hinter jede Statue
-geschaut … Kein Winkeichen vlieb unbeachtet … Staub
-
-«
-b
-
-ganze
+geschaut … Kein Winkeichen blieb unbeachtet … Staub
 <@pagebreak/>
-SSSSSOTCSEEDSS 13&nbsp;000000000020
-
 genug fanden wir … Einen Hut nicht. Jetzt erst, und —
-vas isi dot) sehr merkwürdig.«
+das ist tot) sehr merkwürdig.«
 
-Pembertons Gesimt verriet deutlich, wie sebr er sich
-jeht den Kopf zermarterte, diesen verspäteten Fund irgend
-wie mit seinen Theorien in Einklang zu bringen, Mit ge-
-trauster Stirn starrte er auf das so überaus zartc Geflecht
-von Mangarohr, dessen seine äußere Baststreifen nur die
-ceduldigen, geschickten Hände kleiner brauner Mädelchen in
-Gingapore herzustellen wissen. — In der berühmten Hafen«
-siadt hatte Frau Margrit, während die Jacht Trinko:jjcx
-nahfüllte, dieses duftige Gebilde in einem der Luxustäde:
-fär einen phantastischen Preis erstanden. Ganz al!ein bautiz
-sie damals vor fünf Tagen verschiedene Geschäfte beiuht, 2:5
+Pembertons Gesicht verriet deutlich, wie sehr er sich
+jetzt den Kopf zermarterte, diesen verspäteten Fund irgend
+wie mit seinen Theorien in Einklang zu bringen, Mit gekrauster
+Stirn starrte er auf das so überaus zarte Geflecht
+von Mangarohr, dessen seine äußere Waldstreifen nur die
+Schuldigen, geschickten Hände kleiner brauner Mädelchen in
+Singapore herzustellen wissen. — In der berühmten Hafen«
+Stadt hatte Frau Margrit, während die Jacht Trinke:jjcx
+ausfüllte, dieses duftige Gebilde in einem der Luxustäde:
+für einen phantastischen Preis erstanden. Ganz allein baute
+sie damals vor fünf Tagen verschiedene Geschäfte besucht, 2:5
 nachher waren auf der Ohio eine Unmenge Kartons ;:««
 Größe eingetroffen.
 
-Und dieser Hut, dessen Seidenschleife nun so brüt.ai
-3erdrü8t mar, hatte sid, während die Pagode dereits scharf
-von der Polizei, von uns und einigen Touristen üderwach:
-wurde, wie durc; Zauberhand hinter dem Götzen ein Ver-
-steck ausgesuecht — allerdings sehr merkwürdig!!!
+Und dieser Hut, dessen Seidenschleife nun so brutal
+3erdrü8t war, hatte sich, während die Pagode bereits scharf
+von der Polizei, von uns und einigen Touristen überwacht:
+wurde, wie durch; Zauberhand hinter dem Götzen ein Versteck
+aufgesucht — allerdings sehr merkwürdig!!
 
-Pembertons ratlose Miene entlockte Harald ein nach-
-sichtiges Lächeln. »Sie sehen, Inspektor, so ganz einfac
-liegt der Fall doMg nicht,« meinte er. »Zuerst war kein
-dut zu sinden, jezt ist der Hut da. Wer hat ihn hierher
+Pembertons ratlose Miene entlockte Harald ein Kurzsichtiges
+Lächeln. »Sie sehen, Inspektor, so ganz einfach
+liegt der Fall trug nicht,« meinte er. »Zuerst war kein
+du! zu finden, jetzt ist der Hut da. Wer hat ihn hierher
 gelegt? Und — wozu?«
 
-Pemberton nikte widerwillig. »Sie haben ganz recht …:
+Pemberton nickte widerwillig. »Sie haben ganz recht …:
 Wozu?!« Er suchte sich wieder mehr äußere Haltung zu
-geben, aber seine Nolle als Polizeigenle war ausgespielt.
+geben, aber seine Rolle als Polizeigenie war ausgespielt.
 
 »Bielleicmt …« erklärte Harald langsam, — »vielleicht
-svll der Hut uns irreführen. Ihre Theorie, Inspektor, soll
-durch den Hut vielleicht unterstüßt werden: Berschleppung
-zwecks Lösegelderpresjung! — Wovon natürlich keine Rede ist.«
+soll der Hut uns irreführen. Ihre Theorie, Inspektor, soll
+durch den Hut vielleicht unterstützt werden: Verschleppung
+zwecks Lösegelderpressung! — Wovon natürlich keine Rede ist.«
 
 »Sondern … 9« fragte Pemberton gespannt, — Und auch
-ich lauerte mit derselben Erwartung auf Harsis Antwort
-<@pagebreak/>
-DSSSSSSSSSSS 14 DSSSSSSSSSSS
+ich lauerte mit derselben Erwartung auf Harsts Antwort
 
-»Hm Bertrauen, Inspektor … also unter strengster Di83«-
-kretion: Frau Margrit Lync ist … freiwi:lig verschwunden!«
+<@pagebreak/>
+»Hm Vertrauen, Inspektor … also unter strengster Bis«-
+Diskretion: Frau Margrit Lync ist … Steins:bis verschwunden!«
 
 Wir erging es genauso wie Pemberton: Ich glaubte mich
 verhört zu haben!
@@ -475,631 +426,609 @@ verhört zu haben!
 »Freiwillig …?!« murmelte der Inspektor kopfschüttelnd.
 »Glauben Sie das wirklich?«
 
-»IH babe Beweise, möchte jedoH im Interesse des
-Ehegatten der Dame vorläufig noH die Annahme aufrecht
+»Ich habe Beweise, möchte jedoch im Interesse des
+Ehegatten der Dame vorläufig noch die Annahme aufrecht
 erhalten wissen, daß Entführung vorliegt. Und dabei müssen
-Sie mir helfen. — Geben Sie mir Ihre Hand, Pember«s
-ton: Sie werden unbedingt schweigen!
+Sie mir helfen. — Geben Sie mir Ihre Hand, Bruders
+Ton: Sie werden unbedingt schweigen!
 
 »Unbedingt, Herr Harst. Ich bin ganz der Ihre …«
 
-»Schön. — Dann bitte ich Sie, die Jaht durch Ihre
+»Schön. — Dann bitte ich Sie, die Jacht durch Ihre
 Leute unauffällig bewachen zu lassen, besonders aber Doktor
 Marbucle, den Sie ja bereits kennengelernt haben. Es war
-der schlanke jüngere Herr mit dem durchgeistigten Gelehrten-
-gesicht.«
+der schlanke jüngere Herr mit dem durchgeistigten Gelehrtengesicht.«
 
-»Ich weiß … — Wedphalb gerade den?«
+»Ich weiß … — Mehrzahl gerade den?«
 
-»Immer im Bertrauen auf Ihre Divkretion: Weil er
-mit eiuem Fakir unter einer Decke stekt, der gegen Frau
-Lync mit dem sogenannten Changala gearbeitet hat, wie die
-Yogikaste die »Ferubeeinflussung einer Person nennt. Das
-Shangala, eigentlich müßte es Shana Gala, Weiter Wille,
+»Immer im Vertrauen auf Ihre Diskretion: Weil er
+mit einem Fakir unter einer Decke steckt, der gegen Frau
+Lync mit dem sogenannten Shangala gearbeitet hat, wie die
+Yogikaste die »Fernbeeinflussung einer Person nennt. Das
+Shangala, eigentlich müßte es Klang Gala, Weiter Wille,
 beißen, ist eines der am meisten angezweifelten Phänomen
-aus dem dunklen Gebiet der Hypnos2. Europäische Gelelyrte
+aus dem dunklen Gebiet der Signal?. Europäische Geleitete
 lehnen ziemlich einstimmig das Shangala als unmöglich
-ab. Kenner hiesiger Berhaltnisse dagegen gehen in ihreur
+ab. Kenner hiesiger Verhältnisse dagegen gehen in ihrem
 ablehnenden Standpunkt nicht ganz so weit, räumen ein,
-daß einige verbürgte Fälle vorgekommen siad. — Wenn
-ic vorhin sagte, Frau Lync sei freiwillig verschwunden,
+daß einige verbürgte Fälle vorgekommen sind. — Wenn
+ich vorhin sagte, Frau Lync sei freiwillig verschwunden,
 so muß das also meinerseits dahin korrigiert werden, das
 die Dame nur scheinbar freiwillig sich verborgen hält 115
 unter fremdem, ihr selbst unbewußtem Zwang handelte,«
 Harald berichtete Pemberton nun von den Vorgängen während
 <@pagebreak/>
-DO00208E022228S ! 22020080S8020020220
-
 der FrühstüFsütafel, von Margrits Träumen und Marbucles
-iraalos beabsichtigtem Beginn eines Gesprächs über Fakir
-funtite.
+fraglos beabsichtigtem Beginn eines Gesprächs über Fakir
+Punkte.
 
-»and dies rief Ihren Berdaht gegen ihn wach?«
+»und dies rief Ihren Verdacht gegen ihn wach?«
 meinte der Inspektor enttäuscht.
 
-»Nein … Mein Berdaht datiert von unserem Aufs
-enil;alt in Singapore her. DoMs — davon später …’
+»Nein … Mein Verdacht datiert von unserem Aufs
+erst;alt in Singapore her. Dame — davon später …’
 
-»Sie vermuten also, daß die Dame in der Berkleidung
+»Sie vermuten also, daß die Dame in der Verkleidung
 als Inderin die Pagode unerkannt verlassen hat?«
 
-»Ia …«
+»Ja …«
 
 »Und wer gab ihr hier die Gewänder und den Schleier?«
 
 »Marbucle …«
 
-»Ah — der Sciffsarzt also?!
+»Ah — der Schiffsarzt also?!
 
-»Zweifellos. — Was er plant, bleibt ungewiß. Jeden-
-falls keine Erpressung. E8 muß sich hier um zwei Geheim-
-nisse handeln, die nebeneinander hHerliefen, und erst hier
-die erste Berührungsstelle hatten. — Id sche noMg« nicht
-Far genug, um mich hierüber weiter äußern zu können.
-Es bleibt also bel unseren Abmachungen, Pemberton:
+»Zweifellos. — Was er plant, bleibt ungewiß. Jedenfalls
+keine Erpressung. Es muß sich hier um zwei Geheimnisse
+handeln, die nebeneinander herfielen, und erst hier
+die erste Berührungsstelle hatten. — Ich sehe peng« nicht
+Bar genug, um mich hierüber weiter äußern zu können.
+Es bleibt also bei unseren Abmachungen, Pemberton:
 Schweigen und — — für die Zeitungen die Meldung, daß
-die Millionärin entführt ist. Jeltzt bitte im Sie, dafür sorgen
-zu wollen, daß dieser Nebenraum der Pagode streng ab-
-aejperrt wtrd, Dort an den Eingängen drängen sich die
-Reugierigen … Die müssen weg. Niemand soll Schraut
+die Millionärin entführt ist. Setzt bitte im Sie, dafür sorgen
+zu wollen, daß dieser Nebenraum der Pagode streng abgesperrt
+wird, Dort an den Eingängen drängen sich die
+Neugierigen … Die müssen weg. Niemand soll Schraut
 und mich stören, während wir hier die Staubspuren hinter
-den Stakuen prüfen. Bei solHher Arbeit bin ich gern mit
+den Statuen prüfen. Bei solcher Arbeit bin ich gern mit
 meinem Freunde allein und unbeobachtet.«
 
-Nac wenigen Minuten war niemand mehr in der
-Nähe, der uns belauschen oder unser Jun und Treiben
+Nach wenigen Minuten war niemand mehr in der
+Nähe, der uns belauschen oder unser Tun und Treiben
 belauern konnte.
 
-Harald lehnte an dem Gölzenbilde, hinter dem der Hut
+Harald lehnte an dem Götzenbilde, hinter dem der Hut
 gelegen hatte. Er hatte mir sein Etui hingehalten … Wir
-ranchhten … Es war dies hier streng verboten. Für uns
+rauchten … Es war dies hier streng verboten. Für uns
 nicht … Wir waren allein. Und Harst sagte gedämpft:
-<@pagebreak/>
-HPAÄSISIELIdSOIOIE (!) 2020202005200&nbsp;20208
 
+<@pagebreak/>
 »Willst du Frau Margrits bastseidenes Kostüm sehen?«
 
 Ich blickte ihn unsicher an …
 
-Er ging hinter den Gökenbildnissen an der vollkommen
-von grellbuntem Steinmosaik bedeXten Wand entlang und
-madcte in der westlihen Ecke halt.
+Er ging hinter den Götzenbildnissen an der vollkommen
+von grellbuntem Steinmosaik bedeckten Wand entlang und
+machte in der westlichen Ecke halt.
 
-»Öier habe ich absichtlich vorhin die Spuren im Staube
+»Gier habe ich absichtlich vorhin die Spuren im Staube
 verwischt, mein Alter … Hier — — bitte!«
 
-Er bücdte sich …
+Er bückte sich …
 
-Da war im Mosaik ein Buddhabildni8s mit Augen aus
+Da war im Mosaik ein Buddhabildnis mit Augen aus
 Batzensteinen, Er spreizte Daumen und Zeigefinger der
-Nechten jo weit, daß er beide Steine berühren konnte …
+Rechten so weit, daß er beide Steine berühren konnte …
 
-Er drüste …
+Er brüllte …
 
-Gagl?: »Wenn eine Dame neue weiße Wildlederhand«-
-fHuhe t:ägt, wenn die Handschuhe eng sind und mit Talkum
-eingeitcupt werden, wenn Fingerspien mit Talkum Katen-
-üeine berühren, bleiben auf den Steinen weißliche Fleke
-rüd …- Wenn: man selbst gute »Augen hat, sieht man
+Sagt?: »Wenn eine Dame neue weiße Wildlederhand«-
+flache t:sagt, wenn die Handschuhe eng sind und mit Talkum
+eingeitcupt werden, wenn Eingelegten mit Talkum Katenüeine
+berühren, bleiben auf den Steinen weißliche Flecke
+lud …- Wenn: man selbst gute »Augen hat, sieht man
 Dr: und kombiniert … — Bitte …
 
-&r hatte noh stärfer gedrüdt …
+&r hatte noch stärker gedrückt …
 
-Ein ViereF der Wand bewegte sich nach innen …
+Ein Diener der Wand bewegte sich nach innen …
 
-Dadhinter lag ein schmaler Naum …
+Buchhalter lag ein schmaler Raum …
 
-Darty lagen: ein bastseidenes Kostüm, ein Paar gelbliche
+Darin lagen: ein bastseidenes Kostüm, ein Paar gelbliche
 PDuanenleinenschuhe, ein Paar weiße Wildlederhandschuhe und
-4:33 Gonnenschirm …
+4:33 Sonnenschirm …
+
 <@pagebreak/>
-… 02009002002820280 !; 0020000000005
 
 <h2>3. Kapitel.</h2>
-<h3>Ein Chinese,einFakirund MißBurns.</h3>
+<h3>Ein ChineseeinFakirund Mißmut.</h3>
 
 Harst trat gebückt ein.
 
-Der Naum war höchstens einundeinviertel Meter breit,
-zog sid nach redts, in tiesste Dunkelheit gehüllt, weiter
-und enthielt außer diesen Kleidungsstücken Frau Lyncs schein-
-bar nichts.
+Der Raum war höchstens einundeinviertel Meter breit,
+zog sich nach rechts, in tiefste Dunkelheit gehüllt, weiter
+und enthielt außer diesen Kleidungsstücken Frau Lyncs scheinbar
+nichts.
 
 Ecdhyeinbar,
 
 Es war von uns fraglos überaus leichtfertig, hier
-giücht sofort die Taschenlampen einzuschalten.
+glüht sofort die Taschenlampen einzuschalten.
 
-Und als ich es tat, als der Lichtkegel in die Finsternts
-wie ein greller Pfeil hineinschoß, als ic die kleine Lampa
+Und als ich es tat, als der Lichtkegel in die Finsternis
+wie ein greller Pfeil hineinschoß, als ich die kleine Lampa
 Dann auch aufwärts richtete, war’s zu, spät
 
-IH sah nur noch über uns eine schmale Galerie aus
+Ich sah nur noch über uns eine schmale Galerie aus
 Dunklen Balken und unklare Umrisse einiger Gesichter.
 
-Daun kam’s von oben wie ein grauer Strich herab-
-gesaust: eine Stange — — ein Hieb, der meine Stirn traf …
-Ich flog zu Boden … Horte noch+ etwas wie einen Schuß. —
+Dann kam’s von oben wie ein grauer Strich herabgesaust:
+eine Stange — — ein Hieb, der meine Stirn traf …
+Ich flog zu Boden … Horde noch etwas wie einen Schuß. —
 
-— — Doktor Marbucle beugte sich über meinen be-
-pflasterten Echädel …
+— — Doktor Marbucle beugte sich über meinen bepflastertem
+Schädel …
 
-»Iu drei Tagen sind Sie wieder fris; und munter,«
+»Au drei Tagen sind Sie wieder ins; und munter,«
 Meinte er … »Sie haben Glück- gehabt, Herr Schraut …
 Der CFIropenhelm hielt die Hauptkraft des Hiebes ab … Die
 <@pagebreak/>
-PSPFSSSSSDWDSDSSS 78 DSSSSSSSSSSS
-
-Stangen, mit denen die Shurken Sie beide niederschlugen,
-vatien Eisenbeschlag unten … — Bitte, verhalten Sie
-sich ganz ruhig «… Mit einer Gehirnerschükterung ist nicht
-zu spaßen … — Ihrem Freunde geht es gleichsalls leid-
-lich. Er hat einen von dem braunen Pa& noch auSsgelöscht …
+Stangen, mit denen die Schurken Sie beide niederschlugen,
+Lassen Eisenbeschlag unten … — Bitte, verhalten Sie
+sich ganz ruhig »… Mit einer Gehirnerschütterung ist nicht
+zu spaßen … — Ihrem Freunde geht es gleichfalls leidlich.
+Er hat einen von dem braunen Dach noch ausgelöscht …
 Weiß Gott, schießen und treffen kann er … — Und nun
-wollen Sie noH gern hören, wie tnan Sie beide auffand.:
-Nomberton merkte ’ sehr bald, daß nun auch Sie beide vor-
-Fmpnden waren … Inzwischen hatte sim) der Direktor
-der siädtisc;en Gartenanlagen in der Pagode eingestellt. Er
-kannte den Zugang zu dem engen Sang 3wischen den Pa-
-godenwänden … Die Tür dort war ja weiter kein Geheimnis,
-wenn ouch nicht gerade der Deffentlickeit zugänglich. Er
+wollen Sie noch gern hören, wie man Sie beide auffand.:
+Pemberton merkte ’ sehr bald, daß nun auch Sie beide verschnitten
+waren … Inzwischen hatte ein) der Direktor
+der städtisch;en Gartenanlagen in der Pagode eingestellt. Er
+kannte den Zugang zu dem engen Sang Zwischen den Pagodenwänden
+… Die Tür dort war ja weiter kein Geheimnis,
+wenn auch nicht gerade der Öffentlichkeit zugänglich. Er
 
-vermutete glei, Sie würden dort stecken … — Man
-jan iste Ste dann wieder hier auf die Ohio … — Jett ist’s
+vermutete gleich, Sie würden dort stecken … — Man
+Jan ihre Sie dann wieder hier auf die Ohio … — Jetzt ist’s
 
-übeiios zehn Uhr, Sie haben neun Stunden bewußtlos
-aelegen. Herr Harst kam schon wieder um sieben Uhr zu
-sich. Er ;sjt leider ein schr ungeduldiger Patient …
+übrige zehn Uhr, Sie haben neun Stunden bewußtlos
+gelegen. Herr Harst kam schon wieder um sieben Uhr zu
+sich. Er;ist leider ein sehr ungeduldiger Patient …
 
-»IHG auch!« brummte ih mühsam. »Wegen dieses Klapses
-au? den Schädel bleibe iH weder drei Tage im Bett noch
-halie ich auH nur einen Tag das M … den Mund,
-pardo1t … — Wo ist Frau Lync?«
+»Ich auch!« brummte ich mühsam. »Wegen dieses Klapses
+zu? den Schädel bleibe ich weder drei Tage im Bett noch
+halte ich aus nur einen Tag das M … den Mund,
+Parkett … — Wo ist Frau Lync?«
 
 Marbucle wurde ärgerlich. »Sie dürfen nicht sprechen!
-Und sich erst rechßt nicht aufregen!«
+Und sich erst recht nicht aufregen!«
 
-»Mit einent Eisbeutel auf vem Sdzädel bleibt man
+»Mit einen! Eisbeutel auf dem Schädel bleibt man
 Hundeschnäuzig, Doktor …!« Und im stillen dachte Ich:
-»Fump du!!! Wenn’s vielleicht nach dir gegangen wäre,
-shwämmen wir jetzt den Hugli hinab — Fraß für die
+»Fang du!! Wenn’s vielleicht nach dir gegangen wäre,
+schwammen wir jetzt den Hugli hinab — Fraß für die
 Fische.«
 
-Er zuckte die AhHseln. »Sie setzen Ihr Leben aufs
-Spiel …! Ihre Sache! Vekommen Sie Fieber, so …«
+Er zuckte die Achseln. »Sie setzen Ihr Leben aufs
+Spiel …! Ihre Sache! Bekommen Sie Fieber, so …«
 
-»X bekomme kein Fieber. Meine Hirnsdzale ist Patent-
-stahl. —«- Wo ist Frau Lync?«
+»X bekomme kein Fieber. Meine Hirnschale ist Patent stahl.
+—«- Wo ist Frau Lync?«
 
 »Verschwunden …«
+
 <@pagebreak/>
-2222222222003 19&nbsp;0200000002002
-
 »Waren denn die braunen Burschen mit ihr schon
-entfloven?«
+entrinnen?«
 
-»oa — leider … Von der Galerie in dem engen Gelaß
+»da — leider … Von der Galerie in dem engen Gelaß
 führte eine Leiter zum dritten Stockwerk der Pagode empor,
-und von da haben die Kerle sich irgendwie hinab» und
+und von da haben die Kerle sich irgendwie hinab« und
 Hinauegeschlicdzen.«
 
 »Weiß Harst das bereits?«
 
-»Leider … Er bestand darauf, sofort aufsteben zu
-wollen … Da ist er shon …« —
+»Leider … Er bestand darauf, sofort aufstehen zu
+wollen … Da ist er schon …« —
 
-Die Berbindungstür unserer Kabinen hatte sich geöffnei.
-Harald erschien im Bademantel, mit triefenden Huaren, mit
-einer blaugrünen, teils auch blutigen Riesenbeiile an
-Stiru. Er hatte geduscht.
+Die Verbindungstür unserer Kabinen hatte sich geöffnet.
+Harald erschien im Bademantel, mit triefenden Haaren, mit
+einer blaugrünen, teils auch blutigen Riesenbeule an
+Stirn. Er hatte geduscht.
 
-»Na, wie fühlst du dich, mein Ulter? — Will auch b’:d
+»Na, wie fühlst du dich, mein Alter? — Will auch b’:d
 der Doktor hier drei Tage ans Bett nageln?! — Lieber
 Marbucle, Sie werden mit Ihren Säuglingskuren auch bei
-Chraut wenig GlüF haben. Das Bad hat mir gut getan,
-Mag der Sdhädel getrost brummen »…’« Er rückte einen Kord-
-sessel näher und nahm Plaz.
+Schraut wenig Glück haben. Das Bad hat mir gut getan,
+Mag der Schädel getrost brummen »…’« Er rückte einen Korbsessel
+näher und nahm Platz.
 
-Marbucle kreuzte bie Arme über der Vrust und lehnte
-sim an die Wand, Es war eine etwas theatralische Haltung,
-durch4 die er seinen Protest gegen unsere Ungebühr als
-Patienten au3drüFen wollte.
+Marbucle kreuzte die Arme über der Brust und lehnte
+ein an die Wand, Es war eine etwas theatralische Haltung,
+durch4 die er seinen Protest gegen unsere Tagebuche als
+Patienten ausdrücken wollte.
 
 In der Kabine war es trotz der surrenden Ventilatoren
 entsetzlich heiß. Die Fenster standen »offen. Der faulige
-Flußgerueh des Hugli drang herein, dazu die Düfte des
-Seglers, der noch4 immer Häute als Fracht übernahm. Als
-weiterer Bestaudteil dieses Tropenozons sind noch IJodo«
-form und Marbucles etwas aufdringlihes Parfüm zu
-nennen, Nerzte pflegen kaum Wohlgerüche zu benutzen. Mars
-bucle tat’s. CE? war überhauvt sehr eitel.
+Blutgeruch des Hugli drang herein, dazu die Düfte des
+Seglers, der noch immer Häute als Fracht übernahm. Als
+weiterer Bestandteil dieses Tropenozons sind noch John«
+Form und Marbucles etwas aufdringliches Parfüm zu
+nennen, Merkte pflegen kaum Wohlgerüche zu benutzen. Marbucle
+tat’s. Co? war überhaupt sehr eitel.
 
-Harst holte aus der Tasche seines Bademantels sein Zi-
-garettenetui hervor, rieb ein Zündyolz an und rauchte
-Warbucle brummte deutlich.
+Harst holte aus der Tasche seines Bademantels sein Zigarettenetui
+hervor, rieb ein Zündholz an und rauchte
+Marbucle brummte deutlich.
+
 <@pagebreak/>
-EBEDESDDSSSSSS 5) 0080200200020&nbsp;0202
-
 »Ich hätte Sie einiges zu fragen,« begann Harald dann.
 »Soeben wurde mir von einem Boote aus durch mein
-Kabinenfenster dieser Zettel hereingereicht, der merkwürvize
-Dinge enthält. Ich mödte vorlesen, Doktor …«
+Kabinenfenster dieser Zettel hereingereicht, der merkwürdige
+Dinge enthält. Ich möchte vorlesen, Doktor …«
 
 »Es wäre besser, Sie gingen ins Bett,« knurrte Marbucle.
 
-»Also im? lese … Geben Sie acht, Doktor. Man hot
-mir da eigentümlichße Beobachtungen mitgeteilt …«
+»Also im? lese … Geben Sie acht, Doktor. Man hat
+mir da eigentümliche Beobachtungen mitgeteilt …«
 
 In der geräumigen, eleganten Kabine war es sehr hll.
 Die Deenbeleuchtung und die Mittellampe brannten. Ich
 hatte den Kopf zur Seite gedreht und sah, daß der Doktor
 die Augen kniff und um seinen Mund ein Zucken ging.
 
-»-… IH lese:
+»-… Ich lese:
 
-1\. Heute um vier Uhr nachmittags verließ Doktor Mar«
-bucle die Jaht und begab sich nach der Industrievorstadt
+1\. Heute um vier Uhr nachmittags verließ Doktor Marbucle
+die Jacht und begab sich nach der Industrievorstadt
 Howrah hinüber, wo er die Teestube eines Chinesen im
 ältesten Teile des Ortes aufsuchte und offenbar von dem
-Fakir Rinadingri, der bei Ma Litu zu wohnen pflegt, erwartet
+Fakir Rinadingri, der bei Ma Litt zu wohnen pflegt, erwartet
 wurde. «
 
-2\. Vinadingri und ein Inder, in dem unschwer der ver-
-tleidete Doktor zu erkennen, fuhren in einem Boot stroms
-abwärts bis zur dritten kleinen Schlamminsel des Huzgli,
-deren uralter Baumwuchs einem Fischer gejtattet hat, in den
+2\. Vinadingri und ein Inder, in dem unschwer der verkleidete
+Doktor zu erkennen, fuhren in einem Boot stromabwärts
+bis zur dritten kleinen Schlamminsel des Zugab,
+deren uralter Baumwuchs einem Fischer gestattet hat, in den
 »Baumkronen sie ein Haus zu errichten. Beide erkletterten
-die Leitern zu des Fischer8 Wohnung und blieben zehn
+die Leitern zu des Fischers Wohnung und blieben zehn
 -Minuten dort oben.
 
 3\. Sie ruderten hierauf wieder nach Howrah zurück. Der
-Doktor legte bei Ma Litu die Berkleidung ab und begab sich
-nunmehr allein, stet8 starke Borsidzt bekundend, nas der
-Wellingtonstreet 28, einem Grundstüs, das aus einem vers
-wilderten Park und einem früheren kleinen ’ Buddhatempel
-besteht, der jezt an eine reicze Engländerin vermietet ist,
-die jedoHz zumeist auf Reisen sie befindet. Diese Miß Lydia
-Burns unterhält eine sehr zahlreiche Dienersdzaft, verkohrt
-jevoM mit niemandem aus der Europäerkolonie, obwohl
+Doktor legte bei Ma Litt die Verkleidung ab und begab sich
+nunmehr allein, stets starke Vorsicht bekundend, naß der
+Wellingtonstreet 28, einem Syndikus, das aus einem verwilderten
+Park und einem früheren kleinen ’ Buddhatempel
+besteht, der jetzt an eine reichte Engländerin vermietet ist,
+die geholt zumeist auf Reisen sie befindet. Diese Miß Lydia
+Burns unterhält eine sehr zahlreiche Dienerschaft, verkehrt
+jedoch mit niemandem aus der Europäerkolonie, obwohl
 <@pagebreak/>
-2222222202022 9!! 00020SSSSS0DDD
-
 sie jung und hübsch ist. Sie soll Malerin sein, nebenbei
-aber auch botanische und chHemische Studien treiben. Genaues
-weiß man über sie niht. — Der Doktor wurde fraglos aud
-in dent Hause der Burns erwartet, das sonst jedem Besucher
+aber auch botanische und chemische Studien treiben. Genaues
+weiß man über sie nicht. — Der Doktor wurde fraglos auch
+in den! Hause der Burns erwartet, das sonst jedem Besucher
 verschlossen bleibt. Er läutete an der Parkpforte in besonderer
 Weise, wurde sofort eingelassen und blieb fünfzehn Minuten
 in dem zum Bungalow umgebauten alten Tempel. Dann
 kehrte er gegen sieben Uhr an Bord der Ohio zurück.«
 
 Marbucle hatte ruhig zugehört. Er verriet lediglich
-das Interesse eines Menschen, der erstaunt ist, weil mar:
+das Interesse eines Menschen, der erstaunt ist, weil war:
 seinen Wegen so genau nachgespürt hat.
 
-Uls Harald nun schwieg, fragte er kühl: »Was sol!
-das?! Haben Sie mich etwa beopachten lassen, Horr Har;’«’
+Als Harald nun schwieg, fragte er kühl: »Was soll
+das?! Haben Sie mich etwa bedrohten lassen, Herr Haar;«
 
-»Ia.«
+»Ja.«
 
 Der Doktor ließ die Arme sinken. Auf seiner Gi’vx
-ershienen drei senkrechte scharfe Falten.
+erschienen drei senkrechte scharfe Falten.
 
-»Das … das ist denn doch ein starkes Stück!» sagte
+»Das … das ist denn doch ein starkes Stück!« sagte
 er mühsam beherrscht. »Was veranlaßte Sie dazu?«
 
 Harald schaute ihm voll an. »Weshalb hatten Sie den
-Fakir Rinadingri nach Singapore bestell!! Weshalb folgten
+Fakir Rinadingri nach Singapore bestellt! Weshalb folgten
 Sie Frau Lync bei deren Einkäufen dort? Weshalb blieb
 der Fakir Frau Lync ebenso auf den Fersen?«
 
 Der Hieb saß.
 
-Marbucle biß siH auf die Lippen … Sein Blick Irrte
+Marbucle biß sich auf die Lippen … Sein Blick Irrte
 haltlos umher.
 
-»Antwor!!« mahnte Harald …
+»Antwort!« mahnte Harald …
 
 Der Doktor schüttelte den Kopf. Er hatte sich sehr rasch
 wieder gefaßt. »Bedauere, Herr Harst … Selbst Ihnen
-verweigere ich Einblik in meine persönlihen Angelegen-
-heiten … — Wie kamen Sie übrigens auf den Gedanken,
-mir schon in Singapore nachzuschleihen, wovon nimt mal
+verweigere ich Einblick in meine persönlichen Angelegenheiten
+… — Wie kamen Sie übrigens auf den Gedanken,
+mir schon in Singapore nachzuschleichen, wovon nicht mal
 Ihr Freund Schraut eine Ahnung hatte. Angeblich waren
-Sie dort iim Museum …«
+Sie dort im Museum …«
 
-Harald nahin eine zweite Zigarette …
+Harald nahm eine zweite Zigarette …
+
 <@pagebreak/>
-020202020D20E202020202 99&nbsp;020020202802&nbsp;2222D
-
 »Sie sind ein wandelndes Rätsel, Doktor … Ich weiß
-nicht reHt, was ich von Ihuen halten soll. — Während
+nicht recht, was ich von Ihnen halten soll. — Während
 wir den Pazifik durchquerten, fiel mir Ihr Interesse für
-das JunkerhäuschHen oben auf der Brüe auf. Sie schwun«
-zelten dort abends3 stets heimlich herum, und zweimal stellte
+das Funkerhäuschen oben auf der Zelle auf. Sie schlau«
+Zelten dort abends stets heimlich herum, und zweimal stellte
 ich fest, daß Sie Depeschen absandten, als unser Bord
-funker anderweit beschäftigt war. Sie sind also auch funk-
-tehnisch verblüffend gut bewandert, nur insofern noh eiwas
+Funker anderweit beschäftigt war. Sie sind also auch funktechnisch
+verblüffend gut bewandert, nur insofern noch etwas
 Anfänger auf dem Gebiet leichterer oder schwererer Intrige,
-als Sie Ihre Depeschenentwürfe in Ihrer Kabine versteten,
+als Sie Ihre Depeschenentwürfe in Ihrer Kabine verstehen,
 anstatt sie zu verbrennen. Beide Telegramme gingen an
-denselben Chinesen Ma Litu, bei dem Sie heute waren,
-und das erste lautete kurz: »Rinad sofort nach Singapore«,
-während das z3weite den Text hatte: »Nachrich Rinad,
-daß es bei Bereinbarung bleibt«. — Wollen Sie mir freund-
-list erklären, Doktor, woher Sie Ninadingri und Ma
-Litu so gut kennen, wo Sie doch stet8 behaupteten, noh nie
+denselben Chinesen Ma Litt, bei dem Sie heute waren,
+und das erste lautete kurz: »Mund sofort nach Singapore«,
+während das zweite den Text hatte: »Nachricht Mund,
+daß es bei Vereinbarung bleibt«. — Wollen Sie mir freundlichst
+erklären, Doktor, woher Sie Ninadingri und Ma
+Litt so gut kennen, wo Sie doch stets behaupteten, noch nie
 im Indien gewesen zu sein?!«
 
-Die Falten auf Marbucles Stirn vertieften sich noh.
-»IH wiederhole,« sagte er schr laut, »Sie gehen meine
-Privatangelegenheiten gar nichts an, Herr Harlst … gar
+Die Falten auf Marbucles Stirn vertieften sich noch.
+»Ich wiederhole,« sagte er sehr laut, »Sie gehen meine
+Privatangelegenheiten gar nichts an, Herr Harsts … gar
 nichts!
 
 Harald stand langsam auf.
 
-Warbucle, entweder Sie geben der Wahrheit die Chre
-oder … Sie werden wegen Unstijtung zur Entführung Frau
-Lyncs8 verhaftet. Keine Ausflüchte, Mann …! Die Beweise
+Marbucle, entweder Sie geben der Wahrheit die Ehre
+oder … Sie werden wegen Ausführung zur Entführung Frau
+Lyncs verhaftet. Keine Ausflüchte, Mann …! Die Beweise
 gegen Sie genügen überreich. Und — ob Sie Arzt sind, muß
-auch noch nachgeprüft werden. Frau Lvync hat Sie vor
-seHs Wonaten als Schiffsarzt engagiert, wahrscheinlich ohne
+auch noch nachgeprüft werden. Frau Tonne hat Sie vor
+seit Monaten als Schiffsarzt engagiert, wahrscheinlich ohne
 Ihre Papiere sorgfältig durchzusehen … — Reden Sie?!«
 
-Marbucie lächelte plötzlich … kreuzte wieder die Arme
-über der Brust und enlgeqnete mit überraschender Ruhe:
-»Lassen Sie mic verhaften! — Ich war im Übrigen daraus
-vovbereitet. Trotzdem, Herr Harst: Ich möchte Cie jeit
+Marbucle lächelte plötzlich … kreuzte wieder die Arme
+über der Brust und entgegnete mit überraschender Ruhe:
+»Lassen Sie mich verhaften! — Ich war im Übrigen daraus
+vorbereitet. Trotzdem, Herr Harst: Ich möchte Sie seit
 <@pagebreak/>
-- 202000005532 S vi 5020202020230&nbsp;202020
-
-sozusagen im l!ekten Moment vor einer schwerwiegenden
-Entscheidung eindringlicch warnen … Das, was hier vor-
-gegangen ist, wird erst durch Ihre Einmischung eine trübe
-Wendung nehmen … — So, und uun tun Sie, was
+sozusagen im l!eklen Moment vor einer schwerwiegenden
+Entscheidung eindringlich warnen … Das, was hier vorgegangen
+ist, wird erst durch Ihre Einmischung eine trübe
+Wendung nehmen … — So, und nun tun Sie, was
 Sie für richtig halten.«
 
-garald musterte ihn durhdringend.
+Harald musterte ihn durchdringend.
 
-Dann sagte er mit einer unverständlichen, fast versöhn«-
-lihen Handbewegung:
+Dann sagte er mit einer unverständlichen, fast Felsig«-
+sicher Handbewegung:
 
-»Gut, pa&en wir die Sache anders an … Zumal die
+»Gut, Nachen wir die Sache anders an … Zumal die
 Polizei zurzeit sowohl die Fischerhütte in den Baumöästen
-als aue« Frau Lydia Burng’ Haus und die Epclunke
-des Chinesen durhßsucht und Frau Margrit wohl finden
+als aus« Frau Lydia Burns’ Haus und die Spelunke
+des Chinesen durchsucht und Frau Margrit wohl finden
 wird … — Also … später, Marbucle …! Wir komme!!
-auf diese Dinge noH zurück. Sie sind mir ja sicher. Inspek-
-tor Pemberton ilt auf dem Posten.«
+auf diese Dinge noch zurück. Sie sind mir ja sicher. Inspektor
+Pemberton ist auf dem Posten.«
 
-Marbucle verbeugte siH leicht … »Dann darf ich also
+Marbucle verbeugte sich leicht … »Dann darf ich also
 gehen … 7?«
 
 »Ja … Sie … geben mir viel zu raten auf … Ader
-soldze Nätsel reizen ich.«
+solche Rätsel reizen ich.«
 
-Der Doktor verließ die Kabine. -
+Der Doktor verließ die Kabine. —
 
-Und ic?!
+Und ich?!
 
-IH sah mich inmitten von dunklen Geschehnissen, für
+Ich sah mich inmitten von dunklen Geschehnissen, für
 die ich keine Erklärung fand.
 
 Harald schaltete das Licht aus …
 
-Sagte: »Bersucßhe zu schlafen, mein Alter … Morgen
-werden wir frischer sein. Heute war der Kampf gegen Mar«
-bucle aussichtölos8. Nur eins für dic; al3 Beruhigunqsmititel:
+Sagte: »Versuchte zu schlafen, mein Alter … Morgen
+werden wir frischer sein. Heute war der Kampf gegen Marbucle
+aussichtslos. Nur eins für die; als Beruhigungsmittel:
 Der Doktor ist nicht das, was er zu sein vorgibt. Sein
-Budel ist unechHt. Sein Künstlerschopf desSgleichen. Ich weiß
+Bude! ist unecht. Sein Künstlerschopf desgleichen. Ich weiß
 dies längst … — Gute Nacht.«
 
 Das nennt Harst Beruhigungsmittel …!!
 
 Gewiß, ich schlief ein … Aber erst nach Mitternacht …
-Und der brummende Schadel brannte mir vom fruchtloseun
+Und der brummende Schade! brannte mir vom fruchtlosen
 Grübeln …«
-<@pagebreak/>
-EE DTTTTTTED TT WWW ODEDDEBEGNSEPPM
 
-zk. Kapitel.
-Kleine »Enthüllungen«,
+<@pagebreak/>
+
+<h2>zk. Kapitel.</h2>
+<h3>Kleine »Enthüllungen«,</h3>
 
 Acht Uhr …
 
-Dichkes Gewöll über Kalkutta, aber kein Tropfen Reger.
-fohlen, unnatürlihem Licht liegt die Stadt da … Cine
-drüdende Schwüle treibt uns, die wir, heute ohne Jrau
-Inargrit, beim Frühstück sizen, den Schweiß aus allen Poren.
+Dickes Gewölk über Kalkutta, aber kein Tropfen Reger.
+befohlen, unnatürlichen Licht liegt die Stadt da … Eine
+drückende Schwüle treibt uns, die wir, heute ohne Frau
+Morgen, beim Frühstück sitzen, den Schweiß aus allen Poren.
 
-Harold Lync sicht grau und verfallen aus …
+Harold Lync sieht grau und verfallen aus …
 
-Marbvuele spielt den Harmlosen. Die Stimmung ist
-geprüdt.
+Mordsache spielt den Harmlosen. Die Stimmung ist
+geglückt.
 
 Uns beiden geht es gut. Harst hat soeben Lync gegenüber
-zetont, vaß der heutige Tag zweifellos eine Klärung der
-Angelegenheit bringen werde, -
+Betont, daß der heutige Tag zweifellos eine Klärung der
+Angelegenheit bringen werde, —
 
 Worauf Lync niedergeschlagen meint, die Haussuchungen:
-der Polizei seien doch ergebnislos verlausen, und er wüßte
-nicht, was siHh an der Sachlage ändern solle, falls die
-Entführer seiner Gattin sie nicht meldeten und ihre Forde-
-rungen für deren Freilassung ihm mitteilten.
+der Polizei seien doch ergebnislos verlaufen, und er wüßte
+nicht, was sich an der Sachlage ändern solle, falls die
+Entführer seiner Gattin sie nicht meldeten und ihre Forderungen
+für deren Freilassung ihm mitteilten.
 
-Er war immer nod des Glaubens, daß hier kediglick
-eine Bershleppung durch eine Erpresserbande vorläge, —
+Er war immer noch des Glaubens, daß hier lediglich
+eine Verschleppung durch eine Erpresserbande vorläge, —
 er ahnte nichts von Marbucles Teilhaberschaft an dem
-Geschchehenen. Pemberton hatte tadellos diskret gearbeitet.
-<@pagebreak/>
-HDOSSSSSSSSSS 25 SSSSSSSSSSSS
+Geschehenen. Pemberton hatte tadellos diskret gearbeitet.
 
+<@pagebreak/>
 Harst erwiderte nur: »Warten Sie ab … Gleich nach dem
-Frühftückf nehmen Edraut und ich die Ermittlungen auf,
+Frühstück nehmen Schraut und ich die Ermittlungen auf,
 und unser Doktor will uns freundlichst begleiten …«
 
-»Allerdings,« nite Marbucle und schaute zum Kai
-hinüber, wo beständig vker Geheimpolizisten s!chcinbar als
-müßige Gafser umherstanden.
+»Allerdings,« nickte Marbucle und schaute zum Kai
+hinüber, wo beständig über Geheimpolizisten s!Scheinbar als
+müßige Garten umherstanden.
 
 Um neun Uhr fuhren wir drei zum Polizeipalast. Der
 Doktor sprach kein Wort.
 
-Pemberton und der Cyyef der Kriminalpolizei empfingen
-uns in einem Berhörzimmer, wo bereitä der Fakir Ninadingri,
-der die Chinese Ma Litu und der indische Hausgmeister Miß
-Burns’ sowie der Fisc;er von der Flußinsel ebeitfalls ans
-wesend waren.
+Pemberton und der Spiel der Kriminalpolizei empfingen
+uns in einem Verhörzimmer, wo bereits der Fakir Ninadingri,
+der die Chinese Ma Litt und der indische Hausmeister Miß
+Burns’ sowie der Fisch;er von der Flußinsel ebenfalls ans
+geistesabwesend waren.
 
-Ich funn mich kurz fassen. Der Yogi, der ’Chinese und
+Ich kann mich kurz fassen. Der Yogi, der ’Chinese und
 der Fischer verweigerten jede Auskunft darüber, was sie mit
-Marbucle zu tun hätten. Der HauSsmeijter Miß Burnso’
-wieder erklärte, seine Herrin sei zumeist: auf Neisen und
+Marbucle zu tun hätten. Der Hausmeister Miß Burnso’
+wieder erklärte, seine Herrin sei zumeist: auf Reisen und
 auch jetzt seit zwei Monaten abwesend. Sie hätte ihm nur
-den Vesehl erteilt, Doktor Marbucle einen versieqe.,ien
+den Befehl erteilt, Doktor Marbucle einen verkrochen
 Brief zu übergeben, was gestern geschehen sei. Den Brief
 habe der Doktor verbrannt.
 
-Mit einem Wort: Bei dem Verhör kam ni hts. heraus.
+Mit einem Wort: Bei dem Verhör kam nicht bis. heraus.
 
-Tie gegen Marbucle vorliegenden Beweise genügten nicht,
+Die gegen Marbucle vorliegenden Beweise genügten nicht,
 ihn zu verhaften, und gegen den »Fakir, den Chinesen und
 den Hjausmeister ließ sich erst recht nicht vorgehen.
 
 Der Doktor hatte im übrigen seine Papiere mitgebracht.
 Sie waren zweifelsfrei. Er war Arzt. Und was seine
-Perüäe betraf: er hatte durch; Typhus das Kopfhaar voll-
-ständig verloren, wie er uns zeigte. — Und der Budely!
+Genüge betraf: er hatte durch; Typhus das Kopfhaar vollständig
+verloren, wie er uns zeigte. — Und der Fackeln!
 Das war gleichfalls ein Reinfall Haralds …
 
 Der Doktor trug allerdings gepolsterte Westen. Aber
 — — einen Buckel hatte er, und die Polsterung sollte die
-Nücgratverkrümmung lediglich) etwas auggleichen.
+Rückgratverkrümmung lediglich) etwas ausgleichen.
 
-Pemberton, der Chef und ich bliten nach alledem ziem-
+Pemberton, der Chef und ich bitten nach alledem ziemliche
 <@pagebreak/>
-HwckSSSSDDSESESODIVE 95 DSSODSSSSSEDDS
-
-lie ratlv8 drein. Marbucle saß mit gleichgültigster Miene
-ba. Der die Chinese grinjte dämlich. Der alte E«hmierfink
-von stinkendem Yogy und der noch übler. duftende Fischer
-jowie: der Herr Hausmeister taten so, als vb »wir iynen
+ratlos drein. Marbucle saß mit gleichgültigster Miene
+da. Der die Chinese grinste dämlich. Der alte Schmierfink
+von stinkendem Yogi und der noch übler. duftende Fischer
+sowie: der Herr Hausmeister taten so, als ob »wir ihnen
 den … Buckel runterrutschen könnten.
 
-Es war einfac; eine Blamage für unsf. ’Dabei »hatte
-Harald seinerseits wirflich alles getan, wog nur irgend
-nmögich… wm die Sache irgendwie von dem. tpten Gleis
-veranusnitschieben; Er hatte:jeden der saxybige.n Schäfte einzeln
+Es war einfach; eine Blamage für uns. ’Dabei »hatte
+Harald seinerseits wirklich alles getan, wog nur irgend
+umschloß… am die Sache irgendwie von dem. toten Gleis
+veranusnitschieben; Er hatte:jeden der sachlichen Schäfte einzeln
 ins: Gebet »genommen, »hatte Held versprochen, Straffreiheit,
-hatte mit: tausend Lijten. operiert «…«,
+hatte mit: tausend Bitten. operiert «…«,
 
 Umsonst.
 
-- Gegen afiatische BerschlaJenheit ist nichts, ausz zurichten.
+— Gegen asiatische Verschlagenheit ist nichts, aufs zurichten.
 
-Nun hodäten die Herrschaften wieder auf ihren »Stühlen
-unv schauten stumpf vor sich hin … Mn
+Nun höchsten die Herrschaften wieder auf ihren »Stühlen
+und schauten stumpf vor sich hin … Nun
 
-Varald lehnte ihnen gegenüber … am Tisch … Pemberton
-fiand um Fenster, Ich lehnte neben der Tür,
+Palast lehnte ihnen gegenüber … am Tisch … Pemberton
+stand um Fenster, Ich lehnte neben der Tür,
 
 Schweigen.
 
 Blamage …
 
-Marbucle betradtete seine polierten, Fingernägel.
+Marbucle betrachtete seine polierten, Fingernägel.
 
-Wid: cineain Male machte Harst vier rasche Schritte
+Dich: einsam Male machte Harst vier rasche Schritte
 vorwärts: —
 
-»Gin. Hrisff.
+»Gin. Griff.
 
 Ein Schrei …
 
-»Er:-hielt des Fakirs Turban. samt ener Zotteiperüe
-in dey Hand, und unter dieser Perüe. war ein blondeo
-dünner europäischer … Sceitel. zum Vorschein dekömmen. Den
+»Er:hielt des Fakirs Turban. samt euer Zotteiperüe
+in der Hand, und unter dieser Brille. war ein blonden
+dünner europäischer … Scheitel. zum Vorschein bekommen. Den
 Schrei; hatte … Marbucle ausgestoßen. »Es. konnte »auch ein
-balblauter Fluch gewesen. sein …- -
+halblauten Fluch gewesen. sein …- —
 
-»Harst »lachte …-, Fn
+»Harst »lachte …-, In
 
-» Also; … sind. wir »doch einen Schritt. welter ’Serr Nina-
-dingri, der auch erst yor kurzem hier in Kalfülta aufgetaucht
-Ut… etwa, gleichzeitig. mit. »Miß Vurns, eintpupp! fich als
-änecht … — Trotzdem — meine Hochachtung, Herr Rina-
-
-«2,
+» Also; … sind. wir »doch einen Schritt. weiter ’Serr Ninadingri,
+der auch erst vor kurzem hier in Kalkutta aufgetaucht
+Ut… etwa, gleichzeitig. mit. »Miß Burns, eindrang! sich als
+sucht … — Trotzdem — meine Hochachtung, Herr Rinadingri:
 <@pagebreak/>
-2200020020 00D 27 VSV DSESSSSSS
-
-dingri: Ihre Maske war erstklassig, und wenn Sie »nicht
-vergessen hätten; sicy in dieser halben Stunde hier wenigstens
-einmal den Kopf zu kratzen — jeder eHhte Yogi hak Läuse —,
-würde ic& Ihnen ’wohl niemals hinter Ihre Schliche ges
-kommen sein. DIetzt haben« wir einen Grund, .Sie -einzulochen.
-Und das wird geschehen, -es sei denn, daß Sie angeben,
+Ihre Maske war erstklassig, und wenn Sie »nicht
+vergessen hätten; sich in dieser halben Stunde hier wenigstens
+einmal den Kopf zu kratzen — jeder echte Yogi hat Läuse —,
+würde ic& Ihnen ’wohl niemals hinter Ihre Schliche gekommen
+sein. Bett haben« wir einen Grund, Sie einzusehen.
+Und das wird geschehen, es sei denn, daß Sie angeben,
 wer Sie sind.«
 
 Der perüenlose Blonde zuckt die Achseln …
 
-»Ih habe keine Luft, Kerkerluft zu schlucken,« erklärt
-er in ejuem Englisch, das unfehlbar: Neuyorker Akzent bat.
-»Meine Aufgabe hier ist im übrigen deendet. Weun Ste
-aus meinem Surban meinen Ausweis verausnehmen wollten,
+»Ich habe keine Luft, Kerkerluft zu schlucken,« erklärt
+er in einem Englisch, das unfehlbar: Neuyorker Akzent bat.
+»Meine Aufgabe hier ist im übrigen beendet. Neun Sie
+aus meinem Turban meinen Ausweis verausnehmen wollten,
 Herr Harst …«
 
 Harald tat’s …
 
-Stutt …
+Stadt …
 
-… Sgqat: »Also Sie sind Agent der Detektet Pinkerton,
-Neutvyorrk, heißen Allan. Drebb und sind Amerikaner …«
+… Sagt: »Also Sie sind Agent der Detektei Pinkerton,
+Neutvyorrk, heißen Alltag. Drebb und sind Amerikaner …«
 
 »Qo ist’s … freier Amerikaner, den. niemand zwingen
-kann, 3u verraten, was er hzier für seine Firma zu erledigen
+kann, Zu verraten, was er Geier für seine Firma zu erledigen
 hatte.«
 
-Das. galt dem Kriminalchef, der nun den Augweis
-prüste.
+Das. galt dem Kriminalchef, der nun den Ausweis
+prüfte.
 
-IH sah) es Harst, an, daß diese Wendung der Dinge
+Ich sah) es Harst, an, daß diese Wendung der Dinge
 ihm völlig überraschend gekommen war.
 
-Marbucle , jedo)… warf Üllan Drebb einen Blick zuu,
+Marbucle, jede)… warf Alltag Drebb einen Blick zum,
 der keineswegs freundlich war. Aber — er schwieg.«
 
-Der Chef reichte Drebb den Ausgweis.
+Der Chef reichte Drebb den Ausweis.
 
-»Id werde :au. Pinkerton telegraphieren, Mr. Drebb …
+»Ich werde:zu. Pinkerton telegraphieren, Mr. Drebb …
 
-»Nidyt nötig,« — »nd der- Agent deutete auf Marbucle.
-»Mr. ’Marbucle,/» fügte er höflich hinzu, »ich denke, wir
-«ndern die Taktik. Weehalb sollen wir uns einsperren
+»Nichts nötig,« — »und der- Agent deutete auf Marbucle.
+»Mr. ’Marbucle,/« fügte er höflich hinzu, »ich denke, wir
+»Adern die Taktik. Weshalb sollen wir uns einsperren
 lassen!«
 
 Der Doktor nickte widerwillig, knöpfte die Jacke auf
 <@pagebreak/>
-DSSSSSSSSSSS 298 SSSSSSSSSSSD
-
-und, holte aus dem Futter … ebenfalls einen Auswcis
+und, holte aus dem Futter … ebenfalls einen Ausweis
 Hervor …! …
 
-»Nun gut …« sagte er zu Harst. »Hier … Icho din
-Doktor Mardvucle, Arzt, Doktor der Medizin, Sohn von
+»Nun gut …« sagte er zu Harst. »Hier … Ihr bin
+Doktor Mordsache, Arzt, Doktor der Medizin, Sohn von
 Jones Marbucle, Mitinhaber der Detektei Pinkerton. —
 Bitte …« —«
 
 Es … stimmte …
 
-Ih beobachtete ’Sarald … IH sah, wie seine grauen
+Ich beobachtete ’Sarald … Ich sah, wie seine grauen
 Augen sich einen Moment weiteten, wieder zusammenzogen …
 
-Dann erklärte Marbucle scon in demselben gleichmütigen
-Ion:
+Dann erklärte Marbucle schon in demselben gleichmütigen
+Ton:
 
 »Daß wir Frau Lync nicht entführt haben, brauchen wir
-wohl nicht noFHmals zu versißern. Wag wir hier zu tun
+wohl nicht vorschob zu versichern. Mag wir hier zu tun
 haben, ist Geschäftsgeheimnis. — Hiermit ist die Sache wohl
 erledigt …«
 
@@ -1107,63 +1036,58 @@ Der Kriminalchef warf Harst einen fragenden Blick zu.
 
 Mein Freund hob die Schultern …
 
-»SD habe kein Interesse mehr an diese Herren,« meinte
-er nur. »Schraut, verabschiedeit wir uns … Jett …« —
-Pause — »jezt werden wir … den Kautpf gegen Pinkerton
-und Komp. aufnehmen, Dostor … Und — wir werden
+»So habe kein Interesse mehr an diese Herren,« meinte
+er nur. »Schraut, verabschiedet wir uns … Jetzt …« —
+Pause — »jetzt werden wir … den Lautlos gegen Pinkerton
+und Konto. aufnehmen, Doktor … Und — wir werden
 siegen, Doktor, wir …!«
 
-»,-.-Wwas ih bezweifle, Herr Harst ».!!!«
+»,-.-Was ich bezweifle, Herr Harst «.!!!«
 
 —»- So endete das Verhör.
 
 Eine Stunde drauf hatte Marbucle die Jacht verlassen.
-Harold Lync, dem wir jezt alles erzählt, hatte ihn …
+Harold Lync, dem wir jetzt alles erzählt, hatte ihn …
 hinauskomplimentiert.
 
-Und hiermit müßte eigentli schon der z3weite Teil
-dieses Abenteuers beginnen. Yber meine Leser sind nun
+Und hiermit müßte eigentlich schon der zweite Teil
+dieses Abenteuers beginnen. Ader meine Leser sind nun
 einmal daran gewöhnt, daß jeder Harstband säuberlich nach
-Seitenzahl in zwei gleiche Teile zersällt …
+Seitenzahl in zwei gleiche Teile zerfällt …
 
-Ulso …
+Also …
 
-— - - — we € — — quenets
 <@pagebreak/>
-DSSSSHSSDISISSS 539 DSSSSSSSSSSS
 
 <h2>5. Kapitel.</h2>
 <h3>Große »Enthüllungen.</h3>
 
 Lieber Harold,
-sorge Dich nicht um mich. :Man behandelt mich gut.
-Wan verlangte von mir eine Million Lösegeld. War
-werden sie zahlen. Du erhältst noFm nähere Anweisunge:«
-von mir. Werde nit ungseduldiz, Zur Beunruhigung
+sorge Dich nicht um mich.:Man behandelt mich gut.
+Man verlangte von mir eine Million Lösegeld. War
+werden sie zahlen. Du erhältst Form nähere Mauerfuge:«
+von mir. Werde nicht unschuldig, Zur Beunruhigung
 liegt keinerlei Grund vor. — In treuer Liebe …
 Deine Margrit.
 Dieser Brief wurde eine Stunde nach Marbucles Abzug
-im Salon auf der Anrichte von dem Steward Sompson
+im Salon auf der Anrichte von dem Steward Konnten
 gefunden.
-Wie der Brief dorthin gelangt, blieb ein Rätsel — vor-
-läufig
+Wie der Brief dorthin gelangt, blieb ein Rätsel — vorläufig
 Aber diese zweifellos von Frau Lyncs Hand stammenden
 Zeilen klärten die Lage.
 »Also doch Erpressung!« sagte Harold Lync strahlend,
 als er uns den Brief ins Lesezimmer brachte …
-»und ob!« niäte sein halber Namensgsvetter Harald. »Gra
-tullere, lieber Lync ., ! Bon Herzen sogar, Die eine Million
+»und ob!« Kiste sein halber Namensgsvetter Harald. »Goa
+düstere, lieber Lync .,! Von Herzen sogar, Die eine Million
 werden Sie verschmerzen.«
 »Mit Freuden!«
-Und wieder eine Stunde drauf kam von Pemberton di«
+Und wieder eine Stunde drauf kam von Pemberton Ei«
 Nachricht, daß Marbucle und Drebb sich auf dem Danny::er
 <@pagebreak/>
-2200200000280 SD0OS 30&nbsp;200208 25E0202020
-
-»Nelson«, der alle fünf Tage nach Singapore abgeht, ein-
-geschifft hätten — samt ihren Koffern, begleitet von Wa Liiu,
-der sich herzlichst an der Anlegebrüke von ihnen verab-
-sHiedet und ihnen noch nachg«winki hätte …
+»Nelson«, der alle fünf Tage nach Singapore abgeht, eingeschifft
+hätten — samt ihren Koffern, begleitet von Na Hin,
+der sich herzlichst an der Anlegebrücke von ihnen verabschiedet
+und ihnen noch nachgwin?! hätte …
 
 Diese Nachricht übermittelte uns ein brauner Detektiv,
 ein junger schlanker Mensch, den Harst dann fragte, wann
@@ -1172,15 +1096,15 @@ der Nelson abgefahren sei.
 »Soeben …« erklärte Mahmud Sindra, »Soeben, Sahib
 Harst …
 
-»Dann — im Vertrauen, Sindra — nimm ein Motora
-boot und folge .dem. Nelson  unauffäliig …
+»Dann — im Vertrauen, Sindra — nimm ein Morgen
+Boot und falschen. Nelson  unauffällig …
 
 Der Inder schmunzelte …
 
 »Gib, die beiden werden bald ’den Nelson verlassen?«
 
-- —» Noch vor der Huglimündung … ».Beeile dich …
-Hier »past. du. Geld … Und sei klug.«
+— —« Noch vor der Huglimündung … ».Beeile dich …
+Hier »paßt. du. Geld … Und sei klug.«
 
 Der Kampf: gegen Pinkerton hatte begonnen.
 
@@ -1188,118 +1112,115 @@ Sindra verschwand,
 
 Wir hatten ihn in ’ Haralds Kabine empfangen. Wie
 hatten in Liegestühlen gefaulenzt … Harst hatte ungezählte
-Miräkulum ’verqualmt, und. ich … hatte gesch wißt und ge
-stöhnt und »mich über ihn greulich« geärgert, :weil … er absolut
+Mirakulum ’verqualmt, und. ich … hatte Gesicht wißt und ge
+stöhnt und »mich über ihn greulich« geärgert,:weil … er absolut
 nicht zum Reden zu bringen war.
 
-»Jeßt allerdings — jetzt war im nicht mehr abzutrösten.
+»Jetzt allerdings — jetzt war im nicht mehr abzustützen.
 
-z- agfaralbde -
+z- agfaralbde —
 
-»Dein Ulter 25 8«
+»Dein Alter 25 8«
 
-Fd
+Ad
 
-jagen, wie die Dinge liegen ee«
-»Gern … ki
-»vAlso« bilte …
-»gore zu … »Tehran Lync hatte den Brief; .den jetzt
-der Steward fand, !Hon hier an Vord geschrieben.«-
-3Y. fuhr hoh …
+jagen, wie die Dinge liegen er«
+»Gern … Ei
+»volle« bitte …
+»Tore zu … »Kehren Lync hatte den Brief;.den jetzt
+der Steward fand,!Goa hier an Lord geschrieben.«-
+3Y. fuhr hoch …
 
-»ECdchon — hier — —« an Bord?«
+»Schon — hier — —« an Bord?«
+
 <@pagebreak/>
-2222220000200 31&nbsp;2000000000000
-
-»Ia. IH war auf den eie vorbereitet. Ich weiß sogar,
+»Ja. Ich war auf den sie vorbereitet. Ich weiß sogar,
 wie der nächste lauten wird …
 
-»Berulkst du mich?!«
+»Veraltet du mich?!«
 
-»Feine&öwegs. »IHG habe mir erlaubt, »Frau. ! Mergrits
-kleinen Damensalon zu vesichtigen. Dort steht. »befanntlich
+»Feine&öwegs. »Ich habe mir erlaubt, »Frau.! Morgens
+kleinen Damensalon zu besichtigen. Dort steht. »bekanntlich
 ein kleiner »Schreibtisch …
 
 »Ja … Und — willst du mir etwa erzählen; »daß. du
-nach alter billiger Methode phantasieloser Kriminalschrift-
-steller dort auf der Löschblattunterlage in Spiegelschrift die
-Abdrüe der Briefe fandest?«
+nach alter billiger Methode phantasieloser Kriminalschriftsteller
+dort auf der Löschblattunterlage in Spiegelschrift die
+Akteur der Briefe fandest?«
 
-Nein, lieber Max Edraut, »das will ich: keineswegs.
-So leiht hat mir Frau Margrit die Sache doh nid
-gemtamt. Zunächst hat der Screibtisch eine Warmorplatite,
+Nein, lieber Max Schraut, »das will ich: keineswegs.
+So leicht hat mir Frau Margrit die Sache doch nicht
+gewinnt. Zunächst hat der Schreibtisch eine Marmorplatte,
 Beine Unterlage darauf, nur ein silberner Löscher. Und
 dann — die kleine niedliche ’Frau ist viel zu gerissen, um
-so grobe Fehler zu machen. — Die - Geschichte ist so …
-Der Schreibtisch ist altfranzösische echke Urbeit, Rokoko …
+so grobe Fehler zu machen. — Die — Geschichte ist so …
+Der Schreibtisch ist altfranzösische echte Arbeit, Rokoko …
 Und damals war es Brauch, in so kostbare geschnitzte Möbel
 Geheimfächer aller Art einzubauen, Spielereien geistreichster
-Erfindungsgabe. Ich bin auf solHe Dinge geeicht. Die
-Marmorplatte, scheinbar fest eingelassen, ließ sim drehen.
-Wie ich den Kniff herausfand, ist gleichgültig. In dem Ver-
-steck !lagen drei ’Briefentwürfe, vier ’: Briefe, etime Photo«
-graphie und … ein Poesiealbum. — Wenn … du … deine
+Erfindungsgabe. Ich bin auf sollte Dinge geeicht. Die
+Marmorplatte, scheinbar fest eingelassen, ließ ein drehen.
+Wie ich den Kniff herausfand, ist gleichgültig. In dem Versteck
+!lagen drei ’Briefentwürfe, vier ’: Briefe, Stiche Photographie
+und … ein Poesiealbum. — Wenn … du … deine
 müden Knochen freundlichst zu deiner Entfettung in jene
-EFe zu meinem Koffer bemühen willst … Hier ist der
-Patentschlüssel … In dem Geheimfach an der GSeite- liegt
-alles, was jch aus dem Screibtisch heute früh € an: ck: mich nahm.
-Du wirst deine Freude- däran haden … Me mi
+Sie zu meinem Koffer bemühen willst … Hier ist der
+Patentschlüssel … In dem Geheimfach an der Seite- liegt
+alles, was ich aus dem Schreibtisch heute früh € an: ck: mich nahm.
+Du wirst deine Freude- daran haben … Mr mich
 
 Freude?! wie «: 1:8.
 
-Also: drei Briefentwürse …
+Also: drei Briefentwürfe …
 
--Den ersten kennt der Leser schon. Er !eitet dieses »Ka-
-pilel on. no oo«
+-Den ersten kennt der Leser schon. Er!eitel dieses »Kapitel
+on. noch Co«
+
 <@pagebreak/>
-»DSEDISSSESDS 39 SS 00080 ESD0E00EG
-
 Der zweite:
 
 Lieber, guter Harold,
-die Leute, bei denen iH mehr Gast als Gefangene bin,
-wollen durcjaus, daß die Million an sie in Bombay
+die Leute, bei denen ich mehr Gast als Gefangene bin,
+wollen Durchgang, daß die Million an sie in Bombay
 bezahlt wird. Schweige der Polizei gegenüber. — Jahre
-mit der Ohio getrost naM BVombay. Dort weiteres, —
-IH küsse Dich innig. — — Deine Margrit.
+mit der Ohio getrost nach Bombay. Dort weiteres, —
+Ich küsse Dich innig. — — Deine Margrit.
 
 Der dritte:
 Mein lieber Harold,
-deschaffe die Million in englischen Banknoten und händige
-sie dem Manne aus, der Dir auf der Straße einen alt-
-indischen DolH& zum Kauf anbieten wird. Auf keinen
+beschaffe die Million in englischen Banknoten und händige
+sie dem Manne aus, der Dir auf der Straße einen altindischen
+Holte zum Kauf anbieten wird. Auf keinen
 Fall zeige Harst dieses Schreiben. Er würde uns nur
-wSngelegcitheiten bereiten. — Wir geyt es glänzend. Id
-jeune mich unaussprechlilh nach Dir. Bald hast Du midy
+wSngelegcitheiten bereiten. — Wir geht es glänzend. Ich
+jene mich unaussprechlich nach Dir. Bald hast Du mich
 wieder, — Deine kleine verliebte Margrit.
 
 — Was an diesen Entwürfen bemerkenswert war: Frau Lync
-boe!!2 sie mit Bleistift geschrieben, aber eine Männerhand
-bette den Text geändert.
+vor!!2 sie mit Bleistift geschrieben, aber eine Männerhand
+Bette den Text geändert.
 
 Und — diese Männerhandschrift war die Doktor
-Warbucles!!
+Marbucles!!
 
 … Ich konnte dazu nur den Kopf schütteln …
 
-Wohl mit Necht …
+Wohl mit Recht …
 
-»Darald, was bedeutet das?! Marbucle?!«
+»Harald, was bedeutet das?! Marbucle?!«
 
-»Ia, natürlich … Die Pinkerton-Herren sind doH von
-Matgrit engagiert worden …«
+»Ja, natürlich … Die Pinkerton-Herren sind doch von
+Margrit engagiert worden …«
 
-IH behielt den Mund offen …
+Ich behielt den Mund offen …
 
-»Flapp’ zu — es zieh!! — Siely dir jezt die Photo-
-graphie an …«
+»Flapp’ zu — es zieht! — Hielt dir jetzt die Photographie
+an …«
+
 <@pagebreak/>
-GEBODSSDISEBESIGESDESS 33. DESS00DSES0SDLDDI
+Nun — das Bild stellte Margrit dar … wohl als ganz
 
-Nun — das Bild stellte Margrit dar … wodl als ganz
-
-uus Mädchen.
-- »MWargri!!« sagte ich …
+aus Mädchen.
+— »Marsch!!« sagte ich …
 
 sagte: «
 
@@ -1310,28 +1231,26 @@ Ich tat’s … Und las …
 Las …
 
 Meiner inniggeliebten
-» Zwillingsschwester Margri!!
-Neuyork, 18. YUpril 1922.
+» Zwillingsschwester Margrit!
+Neuyork, 18. April 1922.
 Lydia Sellerhoop-Burns.
 
-»Lydia … Vurns …« stammelte ich …
+»Lydia … Burns …« stammelte ich …
 
-»Natürlih! Und nun lies die vier Briefe … Lang
+»Natürlich! Und nun lies die vier Briefe … Lang
 sind sie nicht.«
 
-— Mit diesen Briefen beginne ih, hoffentlim zur Freude
+— Mit diesen Briefen beginne ich, hoffentlich zur Freude
 meiner Leser, den zweiten Teil …
 
-223\.
 <@pagebreak/>
-B20000000202000&nbsp;341 0000000800220
 
-Joe Burns’ Verbrechen.
+<h1>Joe Burns’ Verbrechen.</h1>
 
 <h2>1. Kapitel.</h2>
-<h3>Nüdblid.</h3>
+<h3>Rubrik.</h3>
 
-… Daß Leben dichtet hundertfaH phantastischere Romane
+… Daß Leben dichtet hundertfach phantastischere Romane
 als ein Grribifax am Schreibtisch …
 
 Die morphiumverseuchte Phantasie eines Franzosen (und
@@ -1339,67 +1258,63 @@ man muß es ihnen lassen, sie haben Phantasich reicht nicht
 on die Wirklichkeit heran.
 
 Aus dem Moabiter Kriminalgebäude Berlin wird ein
-politischer Häftling befreit: aus dem Zimmer des Unter-
-suchungsrichters!
+politischer Häftling befreit: aus dem Zimmer des Untersuchungsrichters!
 
-Würde ich hier derartiges als Selbsterlebtes niederge-
-schrieben haben, heulte der Chor der kritischen Nörgler frag-
+Würde ich hier derartiges als Selbsterlebtes niedergeschrieben
+haben, heulte der Chor der kritischen Nörgler fragt
 !o8: »Blödsinn!?!« —
 
 Bitte, verehrte Freunde, Sie ersehen schon aus diesen
 einen Beispiel, daß man mit dem Urteil gegenüber schlichten
 Berichterstattern eigenartiger Erlebnisse (und das will ich
 <@pagebreak/>
-222222020220220 33&nbsp;0020202002002020202
+nur sein) sehr vorsichtig sein muß. Was sich vielleicht wie
+das »icodukt eines kranken Hirns liest, kann immer Wahren
+bei! sein.
 
-nur sein) sehr vorsichtig sein muß. Was jich vielleicht wie
-das »icodukt eines kranken Hirns liest, kann immer Wahrso
-beit sein.
-
-- Id schide diese Borbemerkung nicht deshalb hier voraus,
-um mir den Rüden zu deen. Nein, ic tue es au nicht
-deshalb, weil im jenen Gewalltstreich irgendwie verteidigen
+— Ich schicke diese Vorbemerkung nicht deshalb hier voraus,
+um mir den Rücken zu Seen. Nein, ich tue es zu nicht
+deshalb, weil im jenen Gewaltstreich irgendwie verteidigen
 will. Ein Richterstaat muß auf strengste Ordnung halten.
-Aber anderseits: Hat dieser GewaltstreiH nicht auch seine …
-humoristische Seite?! — Wildwest in Moadi!!! Dennoch
-etwas, das genau wie einst der Geniestreich des Haupt-
-manns von Köpenick bei jedem immerhin schOmunzelnde Bs-
-wunderung hervorrufen wird. — Eine bodenlose Frechheit,
-Verwegenheit … Aber — — eine Warnung, das pas Zeit«
-alter einer ke&Xen Romantik noh lange nicht vorüber, daß ix
-Schilderungen eines Curt Harst von den Zuständen in kalissor-
-nischen Minenstädten sich sehr leicht ins Moderne Übertragen
+Aber anderseits: Hat dieser Gewaltstreich nicht auch seine …
+humoristische Seite?! — Wildwest in Krach!! Dennoch
+etwas, das genau wie einst der Geniestreich des Hauptmanns
+von Köpenick bei jedem immerhin schOmunzelnde Bewunderung
+hervorrufen wird. — Eine bodenlose Frechheit,
+Verwegenheit … Aber — — eine Warnung, das aus Zeitalter
+einer leeren Romantik noch lange nicht vorüber, daß ix
+Schilderungen eines Gurt Harst von den Zuständen in kalissornischen
+Minenstädten sich sehr leicht ins Moderne Übertragen
 lassen … —«
 
-Der Leser wird sofort merken, — — webhalb — warum.
+Der Leser wird sofort merken, — — Weltall — warum.
 Erster Brief,
 
 Meine über alles geliebte Margrit,
 
-jezt, wo wir in Sicherheit, kann ich Dir endlic kurz
+jetzt, wo wir in Sicherheit, kann ich Dir endlich kurz
 Nachricht geben …
 
-Wargrit, iH bin ja so namenlos stolz! Margrit
+Margrit, ich bin ja so namenlos stolz! Margrit
 — — ich war’s, ich, die kleine zarte Lydia! Und niemand
-abnt es!
+ahnt es!
 
 Uns geht es gut. Wehr zu schreiben, verbietet die
 Vorsicht.
 
-Ich4 küsse Dich innigst.
+Ich küsse Dich innigst.
 
-Deine .L.
+Keiner.
 
 Zweiter Brief, ebenfalls sehr schlechtes Papier und nur
 mit Bleistift geschrieben:
-<@pagebreak/>
-SSSSSDSDSSSPSSS 36 DSSSOSSSSSSSIOD
 
+<@pagebreak/>
 Meine heißgeliebte Schwester,
 
-ein volles Jahr ist seit meinem ersten Screiben vers
-gangen. Wir haben jetzt unseren Aufenthalt3ort gewechselt.
-Wir sind sehr glüFXlich. Wenn ich Dir Näheres mitteilen
+ein volles Jahr ist seit meinem ersten Schreiben vergangen.
+Wir haben jetzt unseren Aufenthaltsort gewechselt.
+Wir sind sehr glücklich. Wenn ich Dir Näheres mitteilen
 könnte, würdest Du staunen.
 
 Wird nun bald aus Harold Lync und Dir ein Paar
@@ -1412,212 +1327,202 @@ Deine L.
 Dritter: besseres Papier, Tinte:
 
 Liebstes Schwesterlein,
-in der’ Zeitung !as ich, daß Du Dich mit einem Mr. Gul
-branoor, einem weit älteren, seh« reidzen Kaufmann vers
-mählt hast. —« Und Harold Lync?! Ich stehe vor einem
+in hol’ Zeitung!As ich, daß Du Dich mit einem Mr. Gulbranoor,
+einem weit älteren, sei« reichen Kaufmann vermählt
+hast. —« Und Harold Lync?! Ich stehe vor einem
 Rätsel!
 
-Uns geht es nach wie vor gut. Aus Borsicht wird
-auc dieses Schreiben von Paris aus weiterbesördert.
-Könnte ic Dir nur Etnzelheiten berichten! Wie gern täle
-ich es. Aber der Steckdrief —ch — Du weiß!!! — Unsep
-Leben ist so romantisch, daß sid daraus eim ganzer
-Noman dichten ließe. Wenn ic von unserem Heim über
-das Borgelände bliFe, grüßen mich Palmen … Flinke freie
-Affen kreismen in den Baumkronen …
+Uns geht es nach wie vor gut. Aus Vorsicht wird
+auch dieses Schreiben von Paris aus weiterbefördert.
+Könnte ich Dir nur Einzelheiten berichten! Wie gern täte
+ich es. Aber der Steckbrief -- — Du weißt! — Unser
+Leben ist so romantisch, daß sich daraus ein ganzer
+Roman dichten ließe. Wenn ich von unserem Heim über
+das Vorgelände blicke, grüßen mich Palmen … Flinke freie
+Affen kreischen in den Baumkronen …
 
-Mag Gott Did glüdlich machen.
+Mag Gott Eid glücklich machen.
 
-Deine L., die si zu Tode nachH Dir sehnt.
+Deine L., die sich zu Tode nach Dir sehnt.
 
-Bierter Brief: dasselbe« überseeische Papier, lila Tinte …
+Hierher Brief: dasselbe« überseeische Papier, lila Tinte …
 
 Margrit, Teil meines Herzens!
 
 Soeben finde ich in einer Neuyorker Zeitung die
-Todcsnachriht Deines Mannes. Du bist frei … Margrit,
-jezt mußt Du uns besuhen … muß!!! Du bist reich,
-hast Deine eigene Jacht, und bei den notigen Borsichts-
+Todesnachricht Deines Mannes. Du bist frei … Margrit,
+jetzt mußt Du uns besuchen … muß!! Du bist reich,
+hast Deine eigene Jacht, und bei den vorigen Vorsichtsmaßregeln
 <@pagebreak/>
-222020220202&nbsp;2205E6 37 SLEESOSDSDSSOSG
-
-maßregeln werden wir ein frohes Wiederschen feiern. —
+werden wir ein frohes Wiedersehen feiern. —
 Der, der Dir diesen Brief persönlich überbringt, hat genaue
-Bergaltungsmaßregeln bekommen. Bon ihm erfährst Du
-Natzeres.
+Bergaltungsmaßregeln bekommen. Von ihm erfährst Du
+Unseres.
 
-Margrit, Schwesterherz, iH sehne miH! Es hat doch
+Margrit, Schwesterherz, ich sehne mich! Es hat doch
 etwas damit auf sich, daß Zwillingsschwestern durch weit
-eintgere seelisCQye Bande miteinander verknüpft sind!
+stolpere seelisCQye Bande miteinander verknüpft sind!
 
-Ich sehne mich … Koumel!l!
+Ich sehne mich … Kammer!l!
 
 Deine L.
 
-IH hatte gelesen …
+Ich hatte gelesen …
 
-Ganz langsam … dann nomals. Aber — klug wurde ic
-aus diesen Briefen nicht ret.
+Ganz langsam … dann Kanals. Aber — klug wurde ich
+aus diesen Briefen nicht recht.
 
-Harald winkte … »JIeßt das Poesiealbum … Blättere
-durch4 … Ulles überschhwänglihe Gedichte, die jene Löt …
-für Margrit, an Wargrit verfaßt, gedichtet hat, — Gedidie,
+Harald winkte … »Fest das Poesiealbum … Blättere
+durch4 … Alles überschhwänglihe Gedichte, die jene Lot …
+für Margrit, an Margrit verfaßt, gedichtet hat, — Gedichte,
 die eine rührende Liebe beweisen … Diese Geschwisterliebe,
-wohl doch selten in diesen Waße, in diesem Ausmnaß, bes
-deutet für uns gleichzeitig die Lösung eines seltsamen Näutsels.’
+wohl doch selten in diesen Maße, in diesem Pitschnaß, bedeutet
+für uns gleichzeitig die Lösung eines seltsamen Näutsels’
 
-Ich blätterte, las hier und dort: Vacfischseligkeit, Backs
-fisHträume, — und do auch in alledem eine besondere Note,
-die Harst entgangen zu sein sdien.
+Ich blätterte, las hier und dort: Vacfischseligkeit, Backe
+fisHträume, — und da auch in alledem eine besondere Note,
+die Harst entgangen zu sein schien.
 
 Harst sprach indessen weiter, was mich nicht abhielt, die
-Lektüre fortzusezen. Wer sich daran gewöhnt, zu lesen und
+Lektüre fortzusetzen. Wer sich daran gewöhnt, zu lesen und
 zu hören, trainiert seinen Geist sehr bald derart, daß er
 fähig wird, zwei völlig verschiedene Themen zur gleichen
 Zeit zu verarbeiten.
 
 »… Frau Margrit beschließt auf den letzten Brief
-Lydias und auf die Berhaltungsmaßregeln des Briefüber«s
-mittlerg hin, ihre Schwester zu besuchen. — Veschäftigen
-wir uns ersk ein wenig mit dieser Schwester, von der Margrit
+Lydias und auf die Verhaltungsmaßregeln des Brief übers
+Kutters hin, ihre Schwester zu besuchen. — Beschäftigen
+wir uns erst ein wenig mit dieser Schwester, von der Margrit
 nie spricht und über die Harold Lync gelegentlich nur die
 Bemerkung machte, sie habe sich selbst den Tod gegeben.
-Mithin gilt Lydia für die Öffentlichkeit als nich! mehr
+Mithin gilt Lydia für die Öffentlichkeit als nicht mehr
 <@pagebreak/>
-DSSSSSSSSSSS 238 SSSSSSDSSSSSS
-
 vorhanden. Welches Drama nun war’s, das ihrem Leben
-eine so abenteuerlihe Richtung gab?f — Nachdem ich
+eine so abenteuerliche Richtung gab?f — Nachdem ich
 unter dem Bilde dort die Unterschrift Sellerhoop.«Burns
-gefunden, stöberte iH in der zuverlässigsten Chronik sensa«-
-tioneller Zeitungsartikel umher, in meinem Gedäudztnis. Und
+gefunden, stöberte ich in der zuverlässigsten Chronik sensationeller
+Zeitungsartikel umher, in meinem Gedäudztnis. Und
 nachdem ich erst einmal eine Spur gefunden, tauchten auch
 die vollkommenen Erinnerungsbilder sehr bald auf, obwohl
 ein halbes Jahrzehnt jene Geschehnisse von der Gegenwart
-trennt. — Allan Joe Burns war Angestellter in einer
-Neuyorker Firma, ein bildhübscher Bursche, aber ein Pcchs-
-vogel. Er erwirbt ein Vermögen durd Spekulation, verliert
+trennt. — Alltag Joe Burns war Angestellter in einer
+Neuyorker Firma, ein bildhübscher Bursche, aber ein Pechvogel.
+Er erwirbt ein Vermögen durch Spekulation, verliert
 es wieder, wird von neuem reich, lebt auf großem Fuße,
 bis eines Tages die Polizei sein elegantes Heim auf Coney
 Island umstellt und ihn verhaftet: er soll das Haupt einer
-Einbreherbande sein, soll in den dunkelsten Bierteln, stets
+Einbrecherbande sein, soll in den dunkelsten Vierzehn, stets
 in guter Maske, ebenso vertraut gewesen sein wie in den
-vornehmen Gaststätten, Ihcatern und soustigen Bergnügungs-
-lokalen. Er leugnet energisch. Man stellt ihm eine Menge
-gewerbösmäßiger Berbreczer gegenüber. Sie kennen ihn nicht
-oder wollen ihn niht kennen. — Um diesen Mann, der
-ein Doppelleben geführt haben soll, entbrennt in den Zei«-
-tungen ein heißer Streit. Das ijt so Mode in Amerika.
+vornehmen Gaststätten, Strudeln und sonstigen Vergnügungslokalen.
+Er leugnet energisch. Man stellt ihm eine Menge
+gewerbsmäßiger Verbrecher gegenüber. Sie kennen ihn nicht
+oder wollen ihn nicht kennen. — Um diesen Mann, der
+ein Doppelleben geführt haben soll, entbrennt in den Zeitungen
+ein heißer Streit. Das ist so Mode in Amerika.
 Die holde Weiblichkeit ist für ihn, zumal er ja nur auf
-die Denunziation eines Weibes hzin festzenommen ist, die
+die Denunziation eines Weibes sein festgenommen ist, die
 einmal kurze Zeit seine Geliebte gewesen und der er den
-Lauspaß gegeben, weil er die kaum siebzehnjährige Lydia
-Sellerlyoop, eine unbemittelte Waise, kennen und lieben ge-
-lernt hat, weil er sich mit ihr verlobte und nur noch4 Lydia
+Laufpaß gegeben, weil er die kaum siebzehnjährige Lydia
+Sellerlyoop, eine unbemittelte Waise, kennen und lieben gelernt
+hat, weil er sich mit ihr verlobte und nur noch Lydia
 für ihn existierte, nur … — Aber die Polizei prüft die
-Angaben über die Herkunft seine3 Bermögens sehr genau
-nach, findet Unklarheiten, Unstimmigkeiten. Er bleibt in Hjaft,
-zumal auf sein Konto auh ein paar Morde gesetzt werden:
-Niederknallen von Beamten und Verfolgern! — Der Zei-
-tungskampf um seine geheimnispolle Persönlichkeit nimmt
+Angaben über die Herkunft seines Vermögens sehr genau
+nach, findet Unklarheiten, Unstimmigkeiten. Er bleibt in Kraft,
+zumal auf sein Konto auch ein paar Morde gesetzt werden:
+Niederknallen von Beamten und Verfolgern! — Der Zeitungskampf
+um seine geheimnisvolle Persönlichkeit nimmt
 <@pagebreak/>
-DSSDSISDSSSSSS 5) SS0SSSSISDSSSS
-
-immer krassere Formen an. Ein Blatt veranstaltet eine Samm»-
-lung für ihn, damit einer der besten Berterdiger für ihn
+immer krassere Formen an. Ein Blatt veranstaltet eine Sammlung
+für ihn, damit einer der besten Verteidigen für ihn
 gewonnen würde. Die Sammlung ergibt weit über 150&nbsp;000
-Dollar. — Der Prozeß beginnt. Der Ankläger operiert ledig-
-liH mit Indizienbeweisen? Allan Ioe Burns leugnet alles.
-Unter den Leumundszeugen befindet sich aucß seine kleine,
-zarte Vraut. Weinend entwirft sie vor Gerit ein Bild
-von dem trefflihen Charakter des Geliebten. Sie glaubt
+Dollar. — Der Prozeß beginnt. Der Ankläger operiert lediglich
+mit Indizienbeweisen? Alltag See Burns leugnet alles.
+Unter den Leumundszeugen befindet sich auch seine kleine,
+zarte Braut. Weinend entwirft sie vor Seit ein Bild
+von dem trefflichen Charakter des Geliebten. Sie glaubt
 an ihn. Tagelang währt der Prozeß. Es geht um Leben
-oder Tod. Sech&s Morde soll Burns verübt haben. Die
+oder Tod. Deckel Morde soll Burns verübt haben. Die
 Geshworenenbank ist für ihn sehr ungünstig zuUsammens
-geseht. Man wittert Verurteilung. Ein paar Hehler wollen
-zumindest seine Stimme wied’rerkennen. In semem Garten.
-bat man in einem hohlen B- ume falsche Bärte, Perücken,
+gesetzt. Man wittert Verurteilung. Ein paar Hehler wollen
+zumindest seine Stimme wied’rerkennen. In seinem Garten.
+bat man in einem hohlen B- ums falsche Bärte, Perücken,
 Schminken gefunden. Der Verteidiger behauptet, diese seien
 erst na; Burns’ Verhaftung von seinen Feinden dorthin
-gesHafft worden. Burns« Sache steht schleHt. Gerade, als
-vie Geschworenen si? dann zur Urteilsjindung zurückziehen
-und der Angeklagte in einen Nebenraum gebracht wird, ges
-sHieht das UnglaubliHe — selbst für anterikanische Ber-
-bältnisse: Fünf Leute in Polizeiuniform befreien den Ge«
-sangenen gewaltsam! Er verschwindet mit seinen Besfreiern
+geschafft worden. Burns« Sache steht schlecht. Gerade, als
+die Geschworenen sich? dann zur Unterbindung zurückziehen
+und der Angeklagte in einen Nebenraum gebracht wird, geh
+flieht das Unglaubliche — selbst für amerikanische Verhältnisse:
+Fünf Leute in Polizeiuniform befreien den Je«
+längeren gewaltsam! Er verschwindet mit seinen Festessen
 spurlos. Zur selben Stunde beobachtet ein Leuhtturmwärter
 an der Hudsonmündung, wie ein Weib sich in den Fluß
 stürzt und nicht wieder auftaucht. Ihr Mantel, ihr Hut und
 ein Brief liegen am Ufer: Lydia Sellerhoop hat sich ertränkt
-aug Berzweislung darüber, daß ihr Verlobter verurteilt
-werden wird! — — Wir, mein Alter, wissen es jetzt besjer:
-vydia hatte die Leute gedungen, die den kühnen Streich
+aus Verzweiflung darüber, daß ihr Verlobter verurteilt
+werden wird! — — Wir, mein Alter, wissen es jetzt besser:
+Lydia hatte die Leute gedungen, die den kühnen Streich
 ausführten, — Lydia Sellerhoop täuschte den Selbstmord nur
-vor. Sie entfloh mit Burns in die Fremde — fie entkamen …
-— Übersiehst du jetzt die Zusammenhänge? Berstehst du
-jeht die vier Briefe? Cs sind Lebenszeichen einer angeblich
+vor. Sie entfloh mit Burns in die Fremde — sie entkamen …
+— Übersiehst du jetzt die Zusammenhänge? Verstehst du
+jetzt die vier Briefe? Es sind Lebenszeichen einer angeblich
 Toten, sehr vorsichtige Lebenszeichen. Sie enthalten das
 <@pagebreak/>
-DSSDSSISSDSDEEBDSDSHOHS 10 20dS0HDSS0SODSSSSSS
+Geständnis, daß Lydia die Befreiung Burns’ inszenierte.
+Frauen, die lieben, sind zu allem lästig …«
 
-Geständnis, daß Lydia die Vesreiung Burus’ inszenierte.
-Frauen, die lieben, sind zu allem fähyig …«
-
-IH hatte derweil das Poesicalbum beiseite gelegt. Ich
+Ich hatte derweil das Poesiealbum beiseite gelegt. Ich
 war gespannt, wie Harald nun Frau Margrit und die
-beiden Pinkerton-Herren in die neuesten Geschehnisse eit
+beiden Pinkerton-Herren in die neuesten Geschehnisse eilt
 reihen würde.
 
-… Frau Margrit bereitet alles zu der RNeise nach
+… Frau Margrit bereitet alles zu der Reise nach
 Indien vor. Sie weiß, daß Lydia in Kalkutta lebt oder doch
-wenigstens in Kallutta ein Heim hat. Der Name Burns ist
-sv weitverbreitet, daß Lydia hier getrost siH so nennen konnte,
-vhne die Gefahr einer EntdeFung heraufzubeschwören. —
+wenigstens in Kalkutta ein Heim hat. Der Name Burns ist
+so weitverbreitet, daß Lydia hier getrost sich so nennen konnte,
+ohne die Gefahr einer Entdeckung heraufzubeschwören. —
 Margrit ist Witwe geworden, ist sehr reich, besitzt ihre eigene
-Jacht. Fraglos hat der Bertraute Lydias ihr geraten, zunächst
-hier nach Kalkutta zu reisen, obwohl — gib aht — Lydia
-und Burvps hier bestimmt nichFzt ihren festen Wohnsitz haben,
-nur ein zweites Hein, — Mitten in die Neisevorbereitungen
-haute platt die Kunde, daß Margrits Iugendgeliebter Harold
+Jacht. Fraglos hat der Vertraute Lydias ihr geraten, zunächst
+hier nach Kalkutta zu reisen, obwohl — gib acht — Lydia
+und Burns hier bestimmt richtet ihren festen Wohnsitz haben,
+nur ein zweites Sein, — Mitten in die Reisevorbereitungen
+haute platt die Kunde, daß Margrits Jugendgeliebter Harold
 Lync in Südamerika, in V., wegen Mordes unter Anklage
-gestellt ist. Eigenartig dieses ähnliche Geshick der Zwillings-
-schwestern: jede von ihnen sieht den Geliebten por Gerich!! —
+gestellt ist. Eigenartig dieses ähnliche Geschick der Zwillingsschwestern:
+jede von ihnen sieht den Geliebten vor Gericht! —
 Margrit verschiebt die Reise. Die Liebe zu Lync treibt sie
-ned Güdamerika. Sie setzt siH mit der Detektei Pinkerton
-in Verbindung, und zwei der besten Pferde aus diesem Elite-
-vall sollen ihr helfen, Lync8 Echuldlosigkeit zu beweisen,
+geh Südamerika. Sie setzt sich mit der Detektei Pinkerton
+in Verbindung, und zwei der besten Pferde aus diesem Auswahl
+sollen ihr helfen, Lyncs Schuldlosigkeit zu beweisen,
 260 ie die Affäre Lync verlief, haben wir miterlebt. Du hast
-iur dieses unser Abenteuer in deinem Manuskript, wie
+für dieses unser Abenteuer in deinem Manuskript, wie
 ich letztens sah, den Titel »Bedingt begnadigt« gewählt. »Die
 Sträflingsinsel« wäre vielleicht zutreffender gewesen. Nun,
-das ist Geshmadkssache. — Wir lernen jedenfalls Margrit
-und Lyrnc kennen, wir klären das Berschwinden der Eträf»-
-linge und der Wahtkommandos auf … Wir befinden uns auf
+das ist Geschmackssache. — Wir lernen jedenfalls Margrit
+und Linie kennen, wir klären das Verschwinden der Errät«-
+Flüchtlinge und der Wachkommandos auf … Wir befinden uns auf
 der Ohio, und da … will Margrit plötzlich durchaus Indien
-besuchen. Eine Laune sHeinbar. Jetzt wissen wir: Keine
+besuchen. Eine Laune scheinbar. Jetzt wissen wir: Keine
 Laune, nur die Ausführung dessen, was sie sich längst
 <@pagebreak/>
-DSDSSSSSSSSS (( DSSSSSSSSSSS
-
 vorgenommen hatte. Sie ist Lyncs Gattin, ist galück’lich.
-Aber die Sehnsucht nac der Schwester zehrt »an ihr. Sie
-darf anderseits sich ihrem Gatten uicht anvertrauen. Lydia
+Aber die Sehnsucht nach der Schwester zehrt »an ihr. Sie
+darf anderseits sich ihrem Gatten nicht anvertrauen. Lydia
 ist ja tot … Und aus diesem Zwiespalt heraus entwirft
-sie neue abenteuerlichd Pläne, bei denen die Pinkerton
+sie neue abenteuerlich Pläne, bei denen die Pinkerton
 ihr helfen sollen. Sie muß für einige Zeit verschwinden,
 um mit der Schwester ungestört vereint zu sein. Sie trifft
 mit den … Pinkertons allerlei Vorbereitungen: Eine Ente
-führung soll vorgetäuscht werden! Der Detektiv Allan Drebb
+Führung soll vorgetäuscht werden! Der Detektiv Alltag Drebb
 spielt hier den Fakir … Das weißt du alles. Margrit
 verschwindet in der Pagode … Ihre Helfershelfer können
-uns beide, die wir allzu schnell in den geheimen Raun
+uns beide, die wir allzu schnell in den geheimen Raum
 eindringen, nur niederschlagen, falls nicht alles mißglücken
-soll. Es … glück!! Harold Lync glaubt, es liegt lediglich
+soll. Es … glückt! Harold Lync glaubt, es liegt lediglich
 Lösegelderpressung vor. Wir — glauben es nicht. Wir kennen
 die Briefe, die Lync noch erhalten wird: die Ohio soll nach
 Bombay dampfen! Dort soll die Million bezahlt werden.
-Dort in der Nälhze, behaupte ich, leben Burns und Lydia, dort-
-bin ist Margrit mit der Eisenbahn längst unterwegs. —
+Dort in der Nötige, behaupte ich, leben Burns und Lydia, dorthin
+ist Margrit mit der Eisenbahn längst unterwegs. —
 So, wünschst du noch nähere Erklärungen?«
 
 »Nein … — Und wie stellst du dir den Ausgang,
@@ -1632,97 +1537,93 @@ einzumischen. Wir werden Zuschauer spielen, und — — ich
 werde mich noch lange darüber freuen, wie sein Frau
 Margrit ihre »Entführung« eingefädelt hat.«
 
-Er irrte siHM diesmal, der gute Harald! Sogar gründ-
-lim. — Zuschauer spielen?!
+Er irrte sich diesmal, der gute Harald! Sogar gründlich.
+— Zuschauer spielen?!
 
 Es kam alles ganz anders …
+
 <@pagebreak/>
-EFTSHOSBADSSSSSSSS 19 /»DSDDSESESDESETS
 
 <h2>2. Kapitel.</h2>
-<h3>AußerhalbdesProgramm8 ….</h3>
+<h3>AußerhalbdesProgramm8 …</h3>
 
 Elf Tage später.
 
-Scauplaß: Bombay! — Die Jacht Ohio lag unweit
-ves BVBiktoria-Docks vor Anker. Gestern abend waren wir
-Hier angelangt, nachdem Margrits Brief Nummer zwel
-ti« Rallutia wiederum auf rätselhafte Urt an Bord im Salon
+Schauplatz: Bombay! — Die Jacht Ohio lag unweit
+des BVBiktoria-Docks vor Anker. Gestern abend waren wir
+Hier angelangt, nachdem Margrits Brief Nummer zwei
+Ei« Kalkutta wiederum auf rätselhafte Art an Bord im Salon
 niedergelegt worden.
 
-Gdhon in Kalkutta hatte es sich herausgestellt, daß
-Baralds Kombinationen diesmal nicht zutrafen, nicht ganz,
-bun erstens hatten die beiden Pinkerton»—Leute die Weiter-
-rchtie nach Singapore nicht unterbroßhen und zweitens: da
-älso keiner von den beiden den zweiten Brief hatte ein-
-jäannuggein können, — wer hatte ihn im Salon deponiert?!
-Frau Margrit mußte noh einen Mitwisser an Bord haben!
-»7 — Wen?! Und da half alles Beobadzten und Raten
+Schon in Kalkutta hatte es sich herausgestellt, daß
+Haralds Kombinationen diesmal nicht zutrafen, nicht ganz,
+van erstens hatten die beiden Pinkerton»—Leute die Weiterlebte
+nach Singapore nicht unterbroßhen und zweitens: da
+also keiner von den beiden den zweiten Brief hatte einjäannuggein
+können, — wer hatte ihn im Salon deponiert?!
+Frau Margrit mußte noch einen Mitwisser an Bord haben!
+»7 — Wen?! Und da half alles Beobachten und Raten
 nichts,
 
-RANun waren wir in Bombay. Nun würde wohl sehr
+Raum waren wir in Bombay. Nun würde wohl sehr
 bald der dritte Brief auftauchen — — glaubten wir! —
 
 Harold Lync war guter Dinge. Beim Frühstück entwarfen
-wir ein TJagesprogramm. Wir wollten Lync die Stadt zeigen
+wir ein Tagesprogramm. Wir wollten Lync die Stadt zeigen
 —»- auf unsere Weise.
 
 Gegen zehn Uhr vormittags brachte uns die Pinasse
 an Land. Es war stürmisches, unfreundliches Wetter, sehr
 <@pagebreak/>
-2DSSSSISESSSSSS 493 DSSSSSSSSSSTD
-
-heiß … Einzelne Negenshauer erhöhten noFH das Unbee
-hag! Hhe dieses düsteren Jages.
+heiß … Einzelne Regenschauer erhöhten noch das Anker
+lag! Sie dieses düsteren Tages.
 
 Von der Anlegebrücke gingen wir zu Fuß bis zur
-nächsten Autohaltestelle. Am Hafen war ein NRiesenverkehr.
+nächsten Autohaltestelle. Am Hafen war ein Riesenvorteil.
 Lync- meinte mit Recht, Kalkutta wirke als Berkehrömetro«-
-pole weit weniger großartig. Bombay sei moderner, euro-
-päischer, grotzügiger. — UYls wir eine der engen Gassen,
+Metropole weit weniger großartig. Bombay sei moderner, europäischer,
+großzügiger. — Null wir eine der engen Gassen,
 deren Riesenspeicher, Hafenbahngeleise und Elevatoren so
-sehr an London erinuern, durchschritten und hin und wieder
-stehen blieben, um Lastautos vorüberzulassen, wandte jc
-Harald plözlid um und pate einen braunen, scmizerigea
-Kuli beim Ärmel, 30g ihm in eine Speichereinfahrt uub
+sehr an London erinnern, durchschritten und hin und wieder
+stehen blieben, um Lastautos vorüberzulassen, wandte je
+Harald plötzlich um und rate einen braunen, scmizerigea
+Kuli beim Ärmel, zog ihm in eine Speichereinfahrt und
 sagte lachend:
 
-»FreundHhen, wir sollten uns kennen …? Nißt u-:+
+»Freundchen, wir sollten uns kennen …? Gibt u-:+
 von gestern abend, wo du bereits im Boot um unsere Ju53’
-herumvudertest, auch nict von heute früh, wo du gegenüdet
+herumrudertest, auch nicht von heute früh, wo du gegenüber
 der Ohio auf dem Bollwerk saßest …! Nein, deine Visage
-erinnert mich verflixt an einen von Inspektor NVollitwgs
-Leuten. — Wie geht es Rolling, deinem Vorgesekzten?«
+erinnert mich verflixt an einen von Inspektor Rollings
+Leuten. — Wie geht es Rolling, deinem Vorgesetzten?«
 
 Der Hafenkuli erklärte jedoch, Harst müsse sich irren … 6 …
 
-»Gahib, iH bin Stauer …»’ Dabei blied er …
+»Sahib, ich bin Stauer …»’ Dabei blieb er …
 
 »Mag sein …! — Immerhin könntest du Detektivinspektor
 Rolling von Schraut und mir grüßen … Und richte ihm
-aus, daß es .wirklih keinen Zwe bat, uns bier nach-
-zuspionieren …’
+aus, daß eswirklih keinen Zweck bat, uns hier nachzuspionieren
+…’
 
 Dann ließ er den Inder los, winkte uns, und wir
-sezten unseren Weg fort.
+setzten unseren Weg fort.
 
 »Lync,« meinte er nach einer Weile, »damit Sie es
 wissen: Pemberton in Kalkutta hat sich natürlich mit Ihrer
-Erklärung, daß Sie die Suche nach Ihrer Frau für aussichts-
-los hielten, niemals zufrieden gegeben und uns hier in
-Bombay bei seinem Kollegen Rolling telegraph)isch ange-
-meldet. Der Kuli war ein Polizeibeamter. Sie werden die
-schr vorsichtig sein müssen. Die Behörden  sahnden zach
+Erklärung, daß Sie die Suche nach Ihrer Frau für aussichtslos
+hielten, niemals zufrieden gegeben und uns hier in
+Bombay bei seinem Kollegen Rolling Telegraph)sich angemeldet.
+Der Kuli war ein Polizeibeamter. Sie werden die
+sehr vorsichtig sein müssen. Die Behörden  fahnden Bach
 <@pagebreak/>
-2D2SSSSSSSSSSOSDO 1.1 SEDEBDSEGSOLSDOD
-
-den Erpressern und hoffen, die Vande jetzt hier erwischen
+den Erpressern und hoffen, die Bande jetzt hier erwischen
 zu können. Ich) rate Ihnen dringend, es uns mitzuteilen,
-sobald ein weiterer Brief Ihrer Frau eintrifft. Zicheu Sie
-uns auch dann ins Bertrauen, wenn Ihre Gattin verlangt,
-daß wir ndht erfahren sollen; wie und wann die Million
-ausgcehändigt wied. Id mochte Ihnen in Ihrem Interesse
-dies dringend ans Herz legen. Cs besteht die Gefahr, daß
+sobald ein weiterer Brief Ihrer Frau eintrifft. Ziehen Sie
+uns auch dann ins Vertrauen, wenn Ihre Gattin verlangt,
+daß wir acht erfahren sollen; wie und wann die Million
+ausgehändigt wird. Ich mochte Ihnen in Ihrem Interesse
+dies dringend ans Herz legen. Es besteht die Gefahr, daß
 Sie sonst Weiterungen heraufbeschwören, die für gewisse
 Personen sehr unangenehm werden könnten,«
 
@@ -1730,78 +1631,75 @@ Lync war hellhörig, wurde stutzig.
 
 »Wie meinen Sie das, Harst?«
 
-»So, wie ich es sage, lieber Lync: die Polizei muß auss-
-geschaltet werden, Schraut und ih … eingeschalte!! Sie
+»So, wie ich es sage, lieber Lync: die Polizei muß ausgeschaltet
+werden, Schraut und ich … eingeschalte!! Sie
 verstehen«
 
 Lyncs energisches Gesicht, dessen Ausdruck im ganzen«
-wenig zu wecdseln pflegte, verriet ein steigendes Mißtrauen.
+wenig zu wechseln pflegte, verriet ein steigendes Mißtrauen.
 
-»Darst, Sie verschweigen mir irgend etwas …!« Und
-er blieb stehen und job den regeitseuhten, breitrandigen
-Glanzstrohhut aus der Stirn, Seine Augen suchten Harulos
+»Harst, Sie verschweigen mir irgend etwas …!« Und
+er blieb stehen und schob den regenfeuchten, breitrandigen
+Glanzstrohhut aus der Stirn, Seine Augen suchten Haralds
 Blick festzuhalten. »Schon letztens, als wir über Margrit
 sprachen und dabei auch Lydia, die arme kleine tote Ld
-erwähnten, wurden Sie sv sehr sticl. Und — — jetzt haben
-Sie wieder e!kwas im Blick, das ich als »Ausweidzenwollen«
+erwähnten, wurden Sie so sehr Stich. Und — — jetzt haben
+Sie wieder e!kurze im Blick, das ich als »Ausweidzenwollen«
 bezeichnen möchte … — Stimmt bei dieser Entführung irgend
-etwas nicht ?1«
+etwas nicht?!«
 
-Um uns her brandete der Verkfehr des größten See-
-Hafens zwisczen Suez und Kalkutta … Es war kein Ort,
-derartige Gespräche zu erledigen. Bioher hatte Lync niemals
-irgend welche Zweifel gehegt. Bighyer war er in der Ges
-wißheit, daß es seiner Frau gut ginge und keine Gefahr
-vorhanden, vollkommen gefaßt gewesen. Iezt drangen offen-
-bar immer neue Zweifel auf ihn ein. Er mocte sich auf
-so mande Einzelheit besinnen, die seine Zuversicht erschüte-
-tern konute, — er forderte Wahrheit.
+Um uns her brandete der Verkehr des größten Geschorene
+zwischen Suez und Kalkutta … Es war kein Ort,
+derartige Gespräche zu erledigen. Dieser hatte Lync niemals
+irgend welche Zweifel gehegt. Dichter war er in der Gewißheit,
+daß es seiner Frau gut ginge und keine Gefahr
+vorhanden, vollkommen gefaßt gewesen. Jetzt drangen offenbar
+immer neue Zweifel auf ihn ein. Er mochte sich auf
+so manche Einzelheit besinnen, die seine Zuversicht erschütetern
+konnte, — er forderte Wahrheit.
+
 <@pagebreak/>
-DSSITIESSSSSSS0ES 415 SOPVSBSESSISSSSSS
-
 Harald mußte lügen. Es ging hier nicht lediglich um
-ti2 Sicherheit Lydias und deg Mannes, den sie dem Gesetz
-«ntzogen hatie. Es gin3 hier auch um das Cheglüuk Lyncs.
-Wie Harold Lync es hinuehnien würde, daß Margrit dieses
-Gbentceuerliche Spiel gewagt, -nur um Lydia wiederzusehen,
-— daß Margrit ihn belugen, geängstigt hatte, niemand konnte
-vies voraussagen. Lync war seine Durchschnittönatur, kein
-Wiann, der auf Gedethy und Berderb dem holden Sinnenrausch
+Ei? Sicherheit Lydias und des Mannes, den sie dem Gesetz
+»manchen hatte. Es ohne hier auch um das Eheglück Lyncs.
+Wie Harold Lync es hinnehmen würde, daß Margrit dieses
+Abenteuerliche Spiel gewagt, nur um Lydia wiederzusehen,
+— daß Margrit ihn belügen, geängstigt hatte, niemand konnte
+dies voraussagen. Lync war seine Durchschnittsnatur, kein
+Drang, der auf Gehetzt und Verdeck dem holden Sinnenrausch
 der Liebe unterlag.
 
-Harald erwiderte ohne besondere Vetonuiig: »Nichd
+Harald erwiderte ohne besondere Betonung: »Mich
 stimmen, Lync? Insofern mag hierbei etwas nicht stimmen
-können, als duch die indischen Gesetze den sogenaunten Be
-günstigungsparagraphen kennen, das heißt: Sie wären eizeni-
-li verpflichtet, der Polizei jeden Vrief der &rpresser 3:2
+können, als durch die indischen Gesetze den sogenannten He
+günstigungsparagraphen kennen, das heißt: Sie wären eigentlich
+verpflichtet, der Polizei jeden Brief der &rpresser 3:2
 zeigen. Sie haben schon den zweiten unterschlagen. Und
 das ahnt Inspektor Pemberton. Deshalb hat er Rolling hier
-denachrichtigt. Rolling ist nicht Pemberton, Rolling ist ein
-Eisenscech;äadel mit viel gut sortierter Gehirnmasse. Mit ihm
-baben wir kein leichtes Spicl. Also — verschweigen Sie
+benachrichtigt. Rolling ist nicht Pemberton, Rolling ist ein
+Eisenscech;aber mit viel gut sortierter Gehirnmasse. Mit ihm
+haben wir kein leichtes Spiel. Also — verschweigen Sie
 uns beiden nichts!«
 
-Da wurde Lync plötliH verlegen. Zauderte … Sagte:
-»Kehren wir um … Veute früh kam ein dritter Brief
+Da wurde Lync plötzlich verlegen. Zauderte … Sagte:
+»Kehren wir um … Leute früh kam ein dritter Brief
 von Margrit … Sie müssen ihn selbst lesen.«
 
-»Ah!« Harald legte Lync die Hand auf die Sdzulter.
-»Also sch4on …!! — Und — wie kam der Bries?y Wurde
+»Ah!« Harald legte Lync die Hand auf die Schulter.
+»Also sch4on …!! — Und — wie kam der Brief?y Wurde
 er wieder im Salon gefunden?«
 
-»Nein … Er flog durch das Fenster in meine Schlafs-
-kabine … Es war noch4 halb dunkel, etwa fünf Uhr morgens,
+»Nein … Er flog durch das Fenster in meine Schlafkabine
+… Es war noch halb dunkel, etwa fünf Uhr morgens,
 Der Brief war mit einem merkwürdigen Stein beschwert …
-— Kommen Sie … CEZ3 ist mit einem Male eine Unruhe
-in mir, die ih nicht begreife. Ich weiß nict, iH habe
-vas Gefühl, als drohte Margrit Gesahr, obwohl gerade
-ver heutige Brief … — doch Sie werden ja lesen …
-Cie müssen lesen … Eigentlich zeigt kein Ehemann einen
+— Kommen Sie … Ehe ist mit einem Male eine Unruhe
+in mir, die ich nicht begreife. Ich weiß nicht, ich habe
+das Gefühl, als drohte Margrit Gefahr, obwohl gerade
+der heutige Brief … — doch Sie werden ja lesen …
+Sie müssen lesen … Eigentlich zeigt kein Ehemann einen
 <@pagebreak/>
-2DSSODSSSDSSSSS 46 DSSDSSSSSSSSSD
-
-solHen Brief einem dritten. Hier liegen die Dinge anders,
-IchH bin jetzt eben so … so unsicher geworden …«
+sollen Brief einem dritten. Hier liegen die Dinge anders,
+Ich bin jetzt eben so … so unsicher geworden …«
 
 Wir kehrten um.
 
@@ -1812,39 +1710,39 @@ Am Fallreep der Jacht lag eine … Polizeibarkasse.
 Harst sagte leise:
 
 »Rolling!! — Wo haben Sie den Brief Ihrer Gattin
-verstedt ?’’
+versteckt?«
 
 Lync wurde sehr rot. »Unter meinem Kopfkissen … Die
-Kabine habe ich abgeschlossen. — IH bin Amerikaner, und
-ich möchte den sehen, der auf einer amerikanischen Jaht …«
+Kabine habe ich abgeschlossen. — Ich bin Amerikaner, und
+ich möchte den sehen, der auf einer amerikanischen Jacht …«
 
 Oben an der Reling war George Rollings gedrungene
 Gestalt erschienen. Neben ihm … der Kuli von vorhin.
 
-Die Dinge spitzten sid zu. Wie würde das alles nun
+Die Dinge spitzten sich zu. Wie würde das alles nun
 enden?!
 
 »Bitte — wollen die Herren nur emporkommen,« rief der
-Inspektor sehr dienstli). »Bitte — —!! Idh bin mit auß-
-drüeliher Genehmizung des amerikanisäden Generalkonsuls
-hier au Bord.«
+Inspektor sehr dienstlich). »Bitte — —!! Ich bin mit ausdrückten
+Genehmigung des amerikanisäden Generalkonsuls
+hier zu Bord.«
+
 <@pagebreak/>
-F202020208020200800 1, 2020220802050 00
 
 <h2>3. Kapitel.</h2>
 <h3>Zwei Millionen.</h3>
 
 Hm Salon …
 
-Wie streng dienstlichg der sonst reHht gemütliche Nolling
+Wie streng dienstlichg der sonst recht gemütliche Nolling
 die Sache nahm, ging schon daraus hervor, daß er uns
 nicht mal die Hand reichte.
 
 »Mr. Lync,« sagte er kurz, »es ist beobachtet worden,
-daß ein Inder heute in aller Frühe durch ein Kadbinene
-fenster einen Brief, der an einen Stein desestigt, in Ihre
-Kabine hineinwarf, Da der Berdacht besteht, der Brief
-bänge mit der Entführung Ihrer Gattin zusammen, da
+daß ein Inder heute in aller Frühe durch ein Kabinetts
+Fenster einen Brief, der an einen Stein befestigt, in Ihre
+Kabine hineinwarf, Da der Verdacht besteht, der Brief
+Gänge mit der Entführung Ihrer Gattin zusammen, da
 Sie ferner offenbar die Absicht haben, den Behörden die
 Festnahme der Erpresser zu erschweren, indem Sie deren
 weitere Nachrichten oder die Ihrer Gattin unterschlagen, hat
@@ -1852,384 +1750,370 @@ die Polizei sich gezwungen gesehen, nach diesem Brief hier
 an Bord zu suchen. Ich habe das Schreiben gefunden, gelesen
 und wieder unter das Kopfkissen gelegt. Der Inder, der
 es Ihnen zuwarf, ist verhaftet worden, verweigert jedoch
-jede Ausfage, »In dem Briefe steht unter anderem, daß
-die Erpresser jekt zwei Millionen fordern und daß das
+jede Aussage, »In dem Briefe steht unter anderem, daß
+die Erpresser jetzt zwei Millionen fordern und daß das
 Geld von Ihnen nach fünf Tagen bereit gehalten werden
-soll. Dann würde Ihnen mitgeteilt werden, wem es aus-
-zuhändigen sei. IM erwarte bestimmt, daß Sie diese Mit-
+soll. Dann würde Ihnen mitgeteilt werden, wem es auszuhändigen
+sei. Ich erwarte bestimmt, daß Sie diese Mitteilung
 <@pagebreak/>
-GESDSSDISODES 18&nbsp;0000EE02002B0D&
-
-teilung sofort an die Polizei gelangen lassen. Weiter habe
-ich Ihnen vorläufig uicht8s zu sagen, weise nur auf dis
+sofort an die Polizei gelangen lassen. Weiter habe
+ich Ihnen vorläufig nichts zu sagen, weise nur auf die
 Strafbestimmungen wegen Begünstigung hin.«
 
-Eine sehr knappc Berbeugung, und er wollte den Salon
+Eine sehr knappe Verbeugung, und er wollte den Salon
 verlassen.
 
-»Noch einen Nugenblick, Nolling,« bat Harald da. »Die
-Dinge hier liegen leider nicht gan3 so einsach, wie Gt?
-denken, hoben jebt sogar durch die voreilige Berhaftung
-ves Boten eine no) ungünstigere Wendung genommen.
+»Noch einen Augenblick, Nolling,« bat Harald da. »Die
+Dinge hier liegen leider nicht ganz so einfach, wie Gt?
+denken, hoben jetzt sogar durch die voreilige Verhaftung
+des Boten eine noch) ungünstigere Wendung genommen.
 Zugegeben, daß Sie verpflichtet sind, die Kerle um jeden
-Prois zu ermitteln. Aber — wollen Sie wirkli) die unge-
-heure Berantwortung auf fißH laden, daß Frau Lync von der
+Preis zu ermitteln. Aber — wollen Sie wirklich) die ungeheure
+Verantwortung auf litt laden, daß Frau Lync von der
 Bande … getötet wird?!«
 
-- »Die Verantwortung Übernehme ic,« erklärte der Ins-
-spoktor gemessen. »Schon deshalb, weil die Gauner Frau
-Lyne bivher in keiner Weise gedrohßt haben. Gerade in
-baut beutigen Briefe Fran Lyncs ist wieder betont, wie
+— »Die Verantwortung Übernehme ich,« erklärte der Inspektor
+gemessen. »Schon deshalb, weil die Gauner Frau
+Lync bisher in keiner Weise getrotzt haben. Gerade in
+baut heutigen Briefe Frau Lyncs ist wieder betont, wie
 anständig die Erpresser sich in jeder Beziehung zeigen.
 Man gewinnt aus den Zeilen sogar den Eindruck, daß Frau
 Lync sich in den Händen dieser Banditen reckt wohl fühlt.«
 
-Harst nidte flüchtig. »Das kann Zwang sein, lieber
-Rollina «… Die Kerle diktieren, und Frau Margrit muß
-shreiben, — Könnte im den Brief einmal sehen? Bielleicht
+Harst nickte flüchtig. »Das kann Zwang sein, lieber
+Rolling »… Die Kerle diktieren, und Frau Margrit muß
+schreiben, — Könnte im den Brief einmal sehen? Vielleicht
 holen Sie ihn, Lync, — vielleicht enthält der Brief zwischen
 den Zeilen anderes …«
 
 »Sofort …« — und Harold Lync eilte hinaus.
 
-Varald trat schnell auf den Inspektor zu. »Rolling, iH
-bitte Sie als alten Bekannten: Lassen Sie die Hände vont
-dieser Gescmhichte weg! E? geht hier wirklih um Menschen-
-leben. Nicht einmal Lync ahnt dies. Ich bin leider nicht
+Palast trat schnell auf den Inspektor zu. »Rolling, ich
+bitte Sie als alten Bekannten: Lassen Sie die Hände von!
+dieser Gescmhichte weg! E? geht hier wirklich um Menschenleben.
+Nicht einmal Lync ahnt dies. Ich bin leider nicht
 befugt, Ihnen näheren Aufschluß hierüber zu geben, aber
-ich betone nochmnals: die Polizet wird hier nur Unheil
-stiften — bestimm!! Sie kennen mich, Volling! Ich mache
-seine RedenSarten.«
+ich betone nochmnals: die Polizei wird hier nur Unheil
+stiften — bestimmt! Sie kennen mich, Berlins! Ich mache
+seine Redensarten.«
+
 <@pagebreak/>
-DODSSSSSDSSSS 4) SS0HS0SDSL0SS3DSSSES0ESD
+Der Inspektor hob bedauernd die Schultern. »Mein
+Lieber Harst, — ich kann nicht anders handeln. Sie wissen
+»vielleicht nicht, daß vor drei Monaten in Kalkutta eine
+Richte des Vizekönigs von Indien von derselben Bande
+Geschnappt wurde. Mast konnte die Kerle nicht fassen, und
+Her Scherz kostete dem Vizekönig runde 20.000 Pfund Ehering.
+Wir können also auf nichts Rücksicht nehmen, die
+»Schufte müssen endlich unschädlich gemacht werden.«
 
-Der Inspektor hob bedauernd die Edultern. »Mein
-Jieber Harst, — ic kann nicht anders handeln. Sie wissen
-»vleleimt nicht, daß vor drei Monaten in Kalkutta eine
-Richte des Bizekönigs von Indien von derselben Bande
-Jescnappt wurde. Mast konnte die Kerle nicht fassen, und
-Ier Scherz kostete dem Bizekönig runde 20.000 Pfund Ster-
-Ing. Wir können also auf nichts Rücksict uehmen, die
-»Scyuste müssen endlich unschädlich gemacht werden.«
-
-»aud dann verhaften Sie heute den Boten, Nollingy!
-»IH begreife Sie nicht. Das war doch …«
+»auch dann verhaften Sie heute den Boten, Gelingt!
+»Ich begreife Sie nicht. Das war doch …«
 
 »Gestatten Sie: der Lump ist einer der berüchtiasten
-«Sinbrecher Vombays! Wir haben ihn monatelang gesucht.«
+»Einbrecher Bombays! Wir haben ihn monatelang gesucht.«
 
 Lync trat wieder ein …
 
 »Bitte, hier ist der Brief, — und hier der Stein …«
 
 Harst trat mit beidem an eins der Fenster, prüfte erst
-das Edreiben, dann das zackige Gteinstück …
+das Schreiben, dann das zackige Steinstück …
 
-Wandte siH uns zu … erklärte: »Dieser Brief ist
-eine Fälschung. Den hat Frau Lync nicht persönlich ges
-qprieben.«
+Wandte sich uns zu … erklärte: »Dieser Brief ist
+eine Fälschung. Den hat Frau Lync nicht persönlich geh
+Darlehen.«
 
 Lync riß ihm das Schreiben fast aus der Hand …
 
-Nrinutenlang starrte er auf die Schrift. Dann:
+Minutenlang starrte er auf die Schrift. Dann:
 
-»Sie haben rechgt, Harst — das ist eine Fälschung,
-venn auchh eine sehr geschickte …! Ich werde andere Schrift
-itükfe von Margrit8 Hand zum Vergleichen holen …«
+»Sie haben leicht, Harst — das ist eine Fälschung,
+denn auch eine sehr geschickte …! Ich werde andere Schrift
+stützte von Margrits Hand zum Vergleichen holen …«
 
-3Zehn Minuten drauf mußte auc NVolling zugeben, daß
-Zier ein gefalscter Brief vorliege. Er blickte Harald etwas
-catlos an und meinte: »Was halten Sie davon, Harst?’
+3Zehn Minuten drauf mußte auch Berlins zugeben, daß
+Zier ein gefalteter Brief vorliege. Er blickte Harald etwas
+ratlos an und meinte: »Was halten Sie davon, Harst?’
 
 Und Harald, dem e32 nur darauf ankam, die Polizei
-on uns abzulenken, entgegnete: »Ih glaube, ein zweites
-»Gaunerkonsortium macht dem ersten Konkurrenz. Frau Lyncs2
-«ntführung stand in allen Zeitungen. Mithin hatte die Bande
+on uns abzulenken, entgegnete: »Ich glaube, ein zweites
+»Gaunerkonsortium macht dem ersten Konkurrenz. Frau Lyncs?
+»ntführung stand in allen Zeitungen. Mithin hatte die Bande
 Nummer zwei nur nötig, sich ein Schreiben Frau Margrits
 zu besorgen, und konnte so leicht diesen Brief anfertigen
 weisen …« …
-<@pagebreak/>
-DSSSSDTSDSSSSLS 5) 000022202020&nbsp;2020
 
-Rolling lächelte ungläubig. »Entschuldigen Sie !Hon,
-ader diese Theorie ist unhaltbar, bester Harst. Ich könnte
-sie spielend leiHt widerlegen. — Doc — mir ist da soeben
+<@pagebreak/>
+Rolling lächelte ungläubig. »Entschuldigen Sie!Goa,
+Ader diese Theorie ist unhaltbar, bester Harst. Ich könnte
+sie spielend leicht widerlegen. — Dock — mir ist da soeben
 ein besonderer Gedanke gekommen. Lassen Sie mich nur
 machen …«
 
-Er verabschiedete siH mit auffälliger Hast.
+Er verabschiedete sich mit auffälliger Hast.
 
-- Harald schaute naHdenklich hinter ihm drein. »Der gute
-Volling wird mir unbequem …« murmelte er mehr fün
-lich. Dann zu Lync: »Ic möchte die ganze Besatzung mal
-vIen an Deck sprechen … VielleiHt … ist auch mir ein
+— Harald schaute nachdenklich hinter ihm drein. »Der gute
+Berlins wird mir unbequem …« murmelte er mehr für
+lich. Dann zu Lync: »Ich möchte die ganze Besatzung mal
+vier an Deck sprechen … Vielleicht … ist auch mir ein
 besonderer Gedanke gekommen … Ordnen Sie bitte das
-NVotige a1:, lieber Lync …« —
+Nötige a1:, lieber Lync …« —
 
 Wir waren im Salon allein …
 
-»Mein Alter,« flüsterte Harald, »iH muß unbedingt den
-mann herausfinden, der hier an Bord Frau Margrit?
-Vertrauter isi. Bigher habe iH keine Ahnung, wer dies
-sein fönnte … Ich wette, der Betrefsende kennt den Aufs
-enthalizort Lydias und Burns’. Und — mir ist da sveben
-kaisächtich eine ganz seltsame Möglichkeit wie ein noh
-unliares Bild durchg den Kopf gegangen … — Komm’ mit
-8:3 Ded …«
+»Mein Alter,« flüsterte Harald, »ich muß unbedingt den
+Mann herausfinden, der hier an Bord Frau Margrit?
+Vertrauter ist. Bisher habe ich keine Ahnung, wer dies
+sein könnte … Ich wette, der Betreffende kennt den Aufs
+enthalizort Lydias und Burns’. Und — mir ist da soeben
+tatsächlich eine ganz seltsame Möglichkeit wie ein noch
+unklares Bild durchs den Kopf gegangen … — Komm’ mit
+8:3 Deck …«
+
 <@pagebreak/>
-2202SS0S0SES0E0EELLDS 31 S0SSSSSSSSSS
 
-z. RapitelL
-Mandar, der Perser,
+<h2>z. Kapitel</h2>
+<h3>Mandar, der Perser,</h3>
 
-Die Besatzung stand in drei Nethen vor uns. KLrt«
-derichtete mit wenigen Worten, daß heute ein Brief d+«:
-Erpresser in Lync8s Kabine geworfen worden sei …
+Die Besatzung stand in drei Fetzen vor uns. Art«
+berichtete mit wenigen Worten, daß heute ein Brief da«:
+Erpresser in Lyncs Kabine geworfen worden sei …
 
-»Dieses Schreiben hat siH als eine Fälschung heraus&-
-gestellt …« — seine Uugen wanderten unausgejezt über
-die gebräunten Gesichter hin … »IcH möchte Sie alle daher
-bitten, in den nächsten Tagen besonders scharf guszupassen,
+»Dieses Schreiben hat sich als eine Fälschung heraus&gestellt
+…« — seine Augen wanderten unausgesetzt über
+die gebräunten Gesichter hin … »ich möchte Sie alle daher
+bitten, in den nächsten Tagen besonders scharf aufzupassen,
 da ich nur mit Ihrer Hilfe … Klarheit gewinnen kann …
-—» Ih danke Ihnen.«
+—» Ich danke Ihnen.«
 
-Die Leute zerstreuten siH wieder, .Sie mochten mehr
-erwartet haben. Wenn sie auch alle an ährer Herrin mit
-sast rührender Treue hingen, so hatten sie doc« anderseits
-der ganzen Angelegenheit !chon deöshalb gleichgültiger gegen-
-übergestanden, weil, Frau Lyncs Leben in keiner Weise
+Die Leute zerstreuten sich wieder. Sie mochten mehr
+erwartet haben. Wenn sie auch alle an älter Herrin mit
+fast rührender Treue hingen, so hatten sie doch« anderseits
+der ganzen Angelegenheit!Chor deshalb gleichgültiger gegenübergestanden,
+weil, Frau Lyncs Leben in keiner Weise
 bedroht war. Sie mochten jetzt auf eine ernstere Wendung
 der Dinge gerechnet haben: ein gefälschter Brief ließ sie
-kal!!
+kalt!
 
 Auch Harold Lync fragte Harst ein wenig erstaunt: »War
-das altezY! Die Leute legen ja schon phnedies dauernd .auf
+das glotzt! Die Leute legen ja schon ohnedies Bauernhaus
 der Lauer …«
+
 <@pagebreak/>
-DSSESEDSISESEDES 539 DSSSESISDDEEHLESD
+»Es war genug,« nicke Harald. »Jetzt entschuldigen Sie
+uns mal … Ich Haube noch etwas vor … — Braut,
 
-»Cs war genug,« nike Harald. »Jetzt entschuldigen Sie
-uns mal … IH haube noch etwas vor … — Srautl,
+Co …
 
-CC …
+Und er schlug die Richtung nach dem Vorschiff ein, stieg
+die Treppe zur Kombüse hinab und klopfte kräftig gegen
+die Tür der Kabine des ersten Kochs Jack Malaiische.
 
-Und er schlug die Richtung nad dem Vorschiff ein, stieJ
-die Treppe zur Kombüse hinab und kiopste kräflig gegen
-die Tür der Kabine des ersten Koch3 .IZack Murphisohr.
-
-Murphison öfsnete. Er war ein älterer, hagerer, stiller
-Mensch, ein Künstler in seinem Fach, aber noch nicht lango
+Murphison öffnete. Er war ein älterer, hagerer, stiller
+Mensch, ein Künstler in seinem Fach, aber noch nicht lange
 auf See.
 
-»Sagen Sie mal, Murphison,« begann Harst und drückie
-die Tür wieder zu … »weshalb gaben Sie cigentlicd vor
+»Sagen Sie mal, Murphison,« begann Harst und drückte
+die Tür wieder zu … »weshalb gaben Sie eigentlich vor
 einem Jahr Ihren Posten im Astor-Hotel in Neuyork auf?
-Eie waren doc früher nie auf Schiffen, inmer Landrat:e.
-Kannten Sie vielleiht Frau Lync schon als Mädchen«
+Sie waren doch früher nie auf Schiffen, immer Landrat:e.
+Kannten Sie vielleicht Frau Lync schon als Mädchen«
 
-Jads faltiges Gesicht drüFte ein starkes Unbehagen aus.
+Jude faltiges Gesicht drückte ein starkes Unbehagen aus.
 
-»Nun ja,« meinte er widerwillig, »das Chepaar Seller-
-boop, also Frau Lyncs Eltern, und ich waren jahrelang
-Flurnochbarn … Und als nun Frau Margrit so reich
-geworden, wollte fie mir eine leichtere und besser bezahlte
+»Nun ja,« meinte er widerwillig, »das Ehepaar Sellerhoop,
+also Frau Lyncs Eltern, und ich waren jahrelang
+Flurnachbarn … Und als nun Frau Margrit so reich
+geworden, wollte sie mir eine leichtere und besser bezahlte
 Stellung geben, und so kam ich auf die Jacht …«
 
-»Mithin stehen Ste mit Frau Lync auf vertrauterent
+»Mithin stehen Sie mit Frau Lync auf vertrauteren!
 Fuße … Merkwürdig, daß Frau Lync Sie nie beachtet
-hat … Sie hat nie von Ihnen als altem Bekannten ge-
-sprochen …
+hat … Sie hat nie von Ihnen als altem Bekannten gesprochen
+…
 
 Murphison blickte zu Boden …
 
-»Das nag … Zufall sein, Herr Harst …«
+»Das mag … Zufall sein, Herr Harst …«
 
-»Sufall?! — Rein, mein Lieber, das war Absicht.
-VBorhin bei meiner Unspracße an die Besatzung bekamen
-Sie als einziger d&inen mächtig roten Kopf — sv, als ob
-dieser gefälscezte Brief gerade Sie schwer ärgerte …«
+»Zufall?! — Rein, mein Lieber, das war Absicht.
+Vorhin bei meiner Ansprache an die Besatzung bekamen
+Sie als einziger deinen mächtig roten Kopf — so, als ob
+dieser gefälschte Brief gerade Sie schwer ärgerte …«
 
-Der Koh lachte gezwungen … »Ist das ein Wunver,
-Herr Hars!!! Wo ich die kleine Margrit doch oft genug au?
+Der Koch lachte gezwungen … »Ist das ein Wunder,
+Herr Harst!! Wo ich die kleine Margrit doch oft genug zu?
 den Knien geschaufelt habe! Da geht mir doch alles, was
 sie betrifft, weit näher als den Kameraden …«
+
 <@pagebreak/>
-D4020200209L2002 13 S0SS0TSSGESESSDD
+»Stimmt Zumal Sie die beiden ersten Briefe so brav
+zur rechten Zeit … finden ließen!t«
 
-»Stimmt Zumal Sie die beiden ersten Briese so brav
-zur recyten Zeit … finden ließen!t«
+Murphison prallte zurück …
 
-Murphison prailte zurück …
+»Herr … Wurst, das … das …«
 
-»Derr … Larst, das … das …«
-
-»Zicht lügen!! Ich weiß Bescheid, Murphison — und
-Sie ailch. Frau Margrit ist bei ihrer Schweijter Lydia!«
+»Licht lügen!! Ich weiß Bescheid, Murphison — und
+Sie Milch. Frau Margrit ist bei ihrer Schwester Lydia!«
 
 Das saß…
 
 Murphison erbleichte …
 
-»and Lydia Burns-Sellerhoop stellt sozusagen die Ere
-presserbande dar …« fuhr Harald leise fort. »Frau Margrit
-aber ließ Ihnen die Briefe hier … Als nun beute von
-dem gesälschten die Rede war, überlegten Sie, was Sie
+»und Lydia Burns-Sellerhoop stellt sozusagen die Erpresserbande
+dar …« fuhr Harald leise fort. »Frau Margrit
+aber ließ Ihnen die Briefe hier … Als nun heute von
+dem gefälschten die Rede war, überlegten Sie, was Sie
 unter diesen Umständen tun sollten … Und die Rote Ihres
-Gesichts verriet mir Frau Margrits Bertrauten. — Murphi«
-son, ehrlich …! Wo befinden sich Lydia und Burns? Sie
+Gesichts verriet mir Frau Margrits Vertrauten. — Murphison,
+ehrlich …! Wo befinden sich Lydia und Burns? Sie
 wissen es … Und Sie müssen es mir mitteilen, damit ich
-weiteres Unheil verhuäüten kann. Die Polizei war hier. Solb
-Lydia Burns etwa verhaftet werden?! — Many, heraus
+weiteres Unheil verhuäüten kann. Die Polizei war hier. Soll
+Lydia Burns etwa verhaftet werden?! — Mann, heraus
 mit der Wahrheit …! Schraut und ich werden schweigen,
 wollen nur im Interesse der Schwestern wirken … Zaudern
 Sie nicht. Der Inspektor Nolling ist ein heller Kopf …«
 
-Der Ko) nidkte … »Ja, ja … Sie mögen schon recht
-haben, Herr Harst … Ich& muuß reden … Ich vertraue
-Ihnen … Also … Lydia wohnt in den Wyndhia-«-Bergen,
+Der So) nickte … »Ja, ja … Sie mögen schon recht
+haben, Herr Harst … Sehe Maus reden … Ich vertraue
+Ihnen … Also … Lydia wohnt in den Wyndhia—Bergen,
 besser in dem Dschungel, südlich des Bergdorfes Garini, das
 zu dem Fürstentum Bhogal gehört … — Das ist alles,
-was ih IZhnen sagen kann. Herr Harst. Margrit erklärte mir,
+was ich Ihnen sagen kann. Herr Harst. Margrit erklärte mir,
 bevor sie in Kalkutta freiwillig verschwand, ich solle, falls
 hier an Bord Besonderes vorfällt, nach Garini depeschieren,
-wo sich eine Station der Eisenbahnlinie Bhogal—Itursi des
-findet, und zwar solle ich die Depesche an einen dort an-
-sässigen Perser Mandar richten.«
+wo sich eine Station der Eisenbahnlinie Bhogal—Flurs des
+findet, und zwar solle ich die Depesche an einen dort ansässigen
+Perser Mandar richten.«
 
-»Brav, diese Ehrlichleit …! — Wiepiel Briefe haben
-Sie nochm bereit?«
+»Brav, diese Ehrlichkeit …! — Viertel Briefe haben
+Sie nahm bereit?«
+
 <@pagebreak/>
-02BD0SSSSESSSS 31 SSSSSSOSSSSS
+»wer.«
 
-»wei.«
+»Dann werden Sie vorläufig gar nichts tun. Schraut
+und ich reisen sofort nach; Garini. Wir können meiner Des
+Rechnung nach morgen mittag dort sein. — Also nochmals,
+Murphison, warten Sie ab! Ich muß Frau Margrit persönlich
+sprechen. Lync würde ihr diese Komödie kaum verzeihen.
+Es muß alles geheim bleiben.«
 
-»Dann werden Sie vorläufig gar nichts tun. Shraut
-und ich reisen sofort nam; Garini. Wir können meiner Ves
-rehnung nach morgen mittag dort sein. — Also nochmals,
-Murphison, warten Sie ab! IH muß Frau Margrit per-
-sönlich sprechen. Lync würde ihr diese Komödie kaum ver-
-zeihen. C8 muß alles geheim bleiben.«
-
-»3, das muß es, Herr Harst, — und ih danke Ihmen
-von Herzen, daß Sie so energisch für meine beiden Lieb-
-linge eintreten, denn das sind die Geschwister mir noch
-beute … Beide nennen mich nach wie vor Onkel Jack wie
-einst, und … und damals, als Allan Joe Burns befreit
-wurde, da … ’da habe ih … aud mitgeholfen, Herr
+»3, das muß es, Herr Harst, — und ich danke Ihnen
+von Herzen, daß Sie so energisch für meine beiden Lieblinge
+eintreten, denn das sind die Geschwister mir noch
+heute … Beide nennen mich nach wie vor Onkel Jack wie
+einst, und … und damals, als Alltag Joe Burns befreit
+wurde, da … ’da habe ich … auch mitgeholfen, Herr
 Harst …
 
 Harald drückte ihm kräftig die Hand. »Sie können auf
-Uns rehnen, was auch kommen mag … — Wiedersehen,
+Uns rechnen, was auch kommen mag … — Wiedersehen,
 lieber Murphison …« —
 
-Lync war schr überrascht, als Harst hm mitteilte, daß
+Lync war sehr überrascht, als Harst hm mitteilte, daß
 wir beide für einige Tage auf eigene Faust Nachforschungen
 nach den Erpressern anstellen wollten. Aber er ließ uns
-gern ziehen … Hoffte er doch, wir würden Frau Margriy
+gern ziehen … Hoffte er doch, wir würden Frau Margrit
 vielleicht recht bald befreien und die Bande von Gaunern
-der Polizei überliesern, — worin Harald Ihn nog bes
+der Polizei überliefern, — worin Harald Ihn noch des
 Märkte. —
 
-Die Pinasse der Jacht brahte uns eine halbe Stunde
+Die Pinasse der Jacht brachte uns eine halbe Stunde
 später mit unserem Koffer (das übrige Gepäck ließen wir
-auf der Ohio) nac der AnlegebrüFe unweit des Haupts
-bahnhofs.
+auf der Ohio) nach der Anlegebrücke unweit des Haupts
+Bahnhofs.
 
 Der Verkehr von Bombay nach Norden, Süden und
-Westen des Niesenreiczes ist überaus lebhaft. Wir fuhren
-zunächst mit einem Bummelzug bis Calgan, bekamen hier
-Anschluß nach Manwad, stiegen in den Benares-Expreß
+Westen des Riesenreiches ist überaus lebhaft. Wir fuhren
+zunächst mit einem Bummelzug bis Galgen, bekamen hier
+Anschluß nach Kognak, stiegen in den Benares-Expreß
 um und waren morgens in Bhogal, hatten zwei Stunden
-Aufenthalt und dampften nad Itursi weiter. Die Linie
+Aufenthalt und dampften nach Flurs weiter. Die Linie
 <@pagebreak/>
-202222002800 20SSSD 7,5&nbsp;0228020&nbsp;2020202020200
-
-Uhogal.- Itursi durchschueidet das Wyndhia«-(Hebirge, dessen
-dzarakterijtische Hüugeikuypen mit den pehschwarzen Schiefere
+Abgab.- Flurs durchschneidet das Wyndhia«-(Gebirge, dessen
+charakteristische Hügelkuppen mit den pechschwarzen Schiefere
 abhängen uns traulich seit vielen Jahren wieder begrüßten.
 Um ein Uhr hielt der Zug in der kleinen Station desxDorfes
-Garini. Wir waren an« Vrt und Stelle, erkundigten uns bei
-dem indischen Bahnbhbofsvorstand nac dem Perser Mandar
-und sahen dessen großes Wohnhaus, das nac« Landesgsitte
-vollständig mit versdziedensarbenen Scchiesferplatten benagelt
-war, weit drunten im Tale dicht am Rande der Dschungol-
-wildnis liegen.
+Garini. Wir waren an« Art und Stelle, erkundigten uns bei
+dem indischen Bahnbhbofsvorstand nach dem Perser Mandar
+und sahen dessen großes Wohnhaus, das nach« Landessitte
+vollständig mit versdziedensarbenen Schieferplatten benagelt
+war, weit drunten im Tale dicht am Rande der Dschungelwildnis
+liegen.
 
-Der Bahnhof des Dorfes, ziemlich boch gelegen, war in-
-sofern bemerkenswert, als er einen Wasserturm besaß, dessen
-Plattform eine noch bessere Fernsicht bieten mußte. Wes-
-halb Harald nun den Vorsteher bat, uns dort hinaufzu-
-führen, begriff iG nicht ret. Ich hielt es für Zeitver«-
-scwendung. — Unseren Kofsser deponierten wir im Bahn«-
-büro, und dann Lraxelten wir die eisernen, außen angebrachten
+Der Bahnhof des Dorfes, ziemlich doch gelegen, war insofern
+bemerkenswert, als er einen Wasserturm besaß, dessen
+Plattform eine noch bessere Fernsicht bieten mußte. Weshalb
+Harald nun den Vorsteher bat, uns dort hinauf zuführen,
+begriff ich nicht recht. Ich hielt es für Seiner«-
+Bemerkung. — Unseren Koffer deponierten wir im Bahn«-
+Büro, und dann Zigaretten wir die eisernen, außen angebrachten
 Wendeltreppen des Turmes empor. Harst hatte das große
 Fernglas mitgenommen, und mit einem Eifer, der mir noch
-weniger verständlich, suchte er nun mit dem Glase das end-
-lose Sumpfgebiet mit den eingestreuten Felvparlien gründlichst
-ab, wahrend ich den Nundblik genoß — und das war wirk«
-lim? ein Genuß! NacFH Südwest zu führte die doppelgleisige
-Bahnstrefe über eine prächtige eiserue Brücke, die eine
-tiefe ShluHt überspannte. Die graziöse Leichtigkeit der
-Brücenkonstruktion paßte siH wunderbar den zartlinigen,
+weniger verständlich, suchte er nun mit dem Glase das endlose
+Sumpfgebiet mit den eingestreuten Felspartien gründlichst
+ab, während ich den Anblick genoß — und das war wird«
+Muslim? ein Genuß! Nachts Südwest zu führte die doppelgleisige
+Bahnstrecke über eine prächtige eiserne Brücke, die eine
+tiefe Schlucht überspannte. Die graziöse Leichtigkeit der
+Brückenkonstruktion paßte sich wunderbar den zartlinigen,
 vereinzelten Palmenhainen an, und die Gehöfte, eingestreut
-in das kontrastreiche Landschhaftsbild, überraschten dur ihre
-AchnlicXeit mit den sauberen Heimen der Kleinbauern des
-Isar» und Riesengebirges. Überall Scieferplatten als
-billigste Delage der Hoizwände und Dädcer.
+in das kontrastreiche Landschaftsbild, überraschten durch ihre
+Ahnherrn mit den sauberen Heimen der Kleinbauern des
+Thar« und Riesengebirges. Überall Schieferplatten als
+billigste Berge der Holzwände und Dächer.
 
-Der Vorsteher sprach fliekend: enzlisch und war früher
+Der Vorsteher sprach fließend: englisch und war früher
 Korporal in einem Kamelreiterkorps gewesen. Er freute sich
-siHtich, daß eiumal Europäer diese einsame Gegend des
+schlich, daß einmal Europäer diese einsame Gegend des
 <@pagebreak/>
-SSSSSSSSSCSSS 36 SSDODSSDSSSSDTDE-ck
+suchten, und er glaubte uns ohne weiteres, daß wir harmlose
+Naturforscher seien, war sehr redselig und kramte sofort
+allerlei LokalklatsM aus — in Ermangelung besseren Gesprächsstoffes.
 
-suchten, und er glaubte uns ohne weiteres, daß wir harn-
-lose Naturforscher seien, war sehr redselig und kramte sofort
-allerlei LokalklatsM aus — in Ermangelung besseren Ge-
-sprächSsstoffes.
+Was aber suchte Harald mit dem Fernglas? Wegbaltbegaben
+wir uns nicht sofort zu des Persers Gehöft hinab …??
 
-Was aber suchte Harald mit dem Fernglas? Wegbalt-
-begaben wir uns nicht sofort zu des Persers Gehöft hinab …? ?
-
-»… Sahib, der Dschungel ist gefsägrlich …« hörte ich-
-wieder genauer auf des Inders WortsHhwall hin. Er deatete
+»… Sahib, der Dschungel ist gefsägrlich …« hörte schmieden
+genauer auf des Inders Wortschwall hin. Er deutete
 in die Ferne, wo düstere Wälder in unabsehbarer Weite den:
 Horizont begrenzten. »Es sind schlechte Nachbarn, die Daki …
 Ihr werdet von ihnen schon gelesen haben, Sahib … Cck
-find wilde Tiere, diese »Zwerge … ES gibt in Indien viele
+sind wilde Tiere, diese »Zwerge … Es gibt in Indien viele
 Zwergvölker, Sahib …
 
-Ich horchte auf … — Richtig - — die Daki!! Hier
-derum hausten sie ja.
+Ich horchte auf … — Richtig — — die Daki!! Hier
+wiederum hausten sie ja.
 
-»Sie glauben an böse Geister, und sie stehlen und raubem
-und schießen mit vergifteten Pfeilen, Sahib … Mandar, de:«
-Berser, treibt mit ihnen Handel …« Er sagte dies in be
-fonderem Tone. Und — daß Harst jedes Wort mit angehört.
-zeigte sich jetzt: er drehte sich um, fragte den Vorsteher: »Inr.
-Vombay Necorder las ic gestern etwas über eine weiße:
+»Sie glauben an böse Geister, und sie stehlen und rauben
+und schießen mit vergifteten Pfeilen, Sahib … Mandar, he:«
+Leiser, treibt mit ihnen Handel …« Er sagte dies in be
+landeten Tone. Und — daß Harst jedes Wort mit angehört.
+zeigte sich jetzt: er drehte sich um, fragte den Vorsteher: »Tor.
+Bombay Recorder las ich gestern etwas über eine weiße:
 Göttin der Wyndhia-Berge … Was ist’s damit? Hat das
-jeine Richtigkeit?«
+seine Richtigkeit?«
 
 Der Inder hob die Schultern. »Sahib, man erzählt
-viel …« Auchß über den Perser«…«
+viel …« Auch über den Perser«…«
 
-eien schien nicht recht mit der Sprache heraus8rücken
+seien schien nicht recht mit der Sprache herausrücken
 wollen.
 
-Harsts »indische« Methode, Zungen geshmeidig zu machen …
-bewährte sichHch wieder. Kaum hatte der Vorsteher die fünfzig.
-Nupien in der Tasche seines schmierig-weißen Dienstrocke&
+Harsts »indische« Methode, Zungen geschmeidig zu machen …
+bewährte schlich wieder. Kaum hatte der Vorsteher die fünfzig.
+Rupien in der Tasche seines schmierig-weißen Dienstrocke&
 verschwinden lassen, als er geheimnisvoll zu flüstern begann:
 »Ihr tut besser; Sahib, nicht etwa bei Mandar abzusteigen.
-zu wohnen … Der Perser verkehrt hier mit nieinandem …
+zu wohnen … Der Perser verkehrt hier mit niemandem …
 Er bat ein großes Auto, schnell wie der Wind, hat ei
 <@pagebreak/>
-DSSSSSSSSSSS 57 SSSSSSSSSSSSD
-
-Motorbook, mit dem er dur die engen Kanäle der Sümpse
-saust, hat sein Haus mit hoher Steinmauer umgeben uno
-hält sich fünf sclinme Hunde … — Sahib, wer hat Eu
+Motorboot, mit dem er durch die engen Kanäle der Sümpfe
+saust, hat sein Haus mit hoher Steinmauer umgeben und
+hält sich fünf seltsame Hunde … — Sahib, wer hat Du
 gerade an Mandar gewiesen?«
 
 Harald überhörte die Frage. »Wie lange wohnt der
@@ -2237,250 +2121,239 @@ Perser hier?«
 
 »Bier Jahre können’s sein«…«
 
-»Und mit den noFH voilig unzivilijsierten Daki steht
-cr vertraute«
+»Und mit den noch völlig unzivilisierter Daki steht
+er vertraute«
 
-»Leiter …« — Desg Borstehers faltiges GesiHt mit dem
-grauen Bart und den kiareii, dantlen großen UNugen ver-
-riet Haß. »Leider …! !! Die Regierung hat uus letztens wieder
-acht Gewehre überwiesen, Sahib … Zweintal haben die
-Daki die Brüde nachts gesperrt gehabt, als ein Zug mit
-Gold aus den Minen von Bawapur hier durchkam. Ader —
-ve Schuft ist nie nachzuweisen, daß. er die Anschläge
+»Leiter …« — Des Versichert faltiges Gesicht mit dem
+grauen Bart und den klaren, dunklen großen Augen verriet
+Haß. »Leider …!! Die Regierung hat aus letztens wieder
+acht Gewehre überwiesen, Sahib … Zweimal haben die
+Daki die Brücke nachts gesperrt gehabt, als ein Zug mit
+Gold aus den Minen von Bauzaun hier durchkam. Ader —
+ne Schuft ist nie nachzuweisen, daß. er die Anschläge
 
-tete …«
+deutete …«
 
-»und — — die sogenannte weiße Göttin? Hm Necorder
+»und — — die sogenannte weiße Göttin? Hm Recorder
 wurde behauptet, sie hause auf einem der Felsen im
 Dschungel.«
 
 »Man sagt’s, Sahib … Wer kommt in den Dschungel
 Hinein?! Nur Mandar«…«
 
-»vat er Familie?«
+»hat er Familie?«
 
-»Aur acht Diener, davon zwei Chinesen, freche stinkende
-Zwiebelsresser … Zumeist ist er unterwegs, Sahib. Er handelt
-mit allem … Er soll auch in Bombay in der Eingeborenen-
-stadt einen Speicher haben … Er ist ein großer Herr.!.«
+»Nur acht Diener, davon zwei Chinesen, freche stinkende
+Zwiebelfresser … Zumeist ist er unterwegs, Sahib. Er handelt
+mit allem … Er soll auch in Bombay in der Eingeborenenstadt
+einen Speicher haben … Er ist ein großer Herr.!.«
 
 »und — ob er jetzt daheim ist?«
 
 »Wer weiß es, Sahib?! Er ist wie der Falke — bald
-bier, balD dort …« Der Borsteher schaute hinab zu dem
+hier, bald dort …« Der Vorsteher schaute hinab zu dem
 fernen, ummauerten großen Gehöft. »Nein, Sahib, — er ist
-nicht da … Ich weiß es … Wenn die Hunde frei umher-
-Laufen wie jetzt, ist er stets mit dem Auto unterwegs … —
+nicht da … Ich weiß es … Wenn die Hunde frei umherlaufen
+wie jetzt, ist er stets mit dem Auto unterwegs … —
 Wollt Ihr etwa die … die Göttin besuchen, Sahib? Man
 <@pagebreak/>
-22SDSDSESDSSSSSES 38 DSSSSSSSSSSS
-
-tedet hier so viel davon … Die Leute sind so abergläubisc,
-Sahib. Letztens waren scHon aus Bombay drei Herren von
-der Zeitung hier … Zwei liegen jetzt krank … Die Dali
-haben Gisftpfeile, Sahib … Es sind räudige Hunde …«
+redet hier so viel davon … Die Leute sind so abergläubisch,
+Sahib. Letztens waren schon aus Bombay drei Herren von
+der Zeitung hier … Zwei liegen jetzt krank … Die Fall
+haben Giftpfeile, Sahib … Es sind räudige Hunde …«
 
 Eine halbe Stunde später hatte der Inder uns in seiner
-Wohnung im Bahngebäude ein Stüb:hen mit der Uussicht
-ia Mandars Gehöft hin eingeräumt.
+Wohnung im Bahngebäude ein Klub:her mit der Aussicht
+ja Mandars Gehöft hin eingeräumt.
 
 <h2>5. Kapitel.</h2>
 <h3>Betrogene Liebe.</h3>
 
 Es war ein Zufall gewesen, daß unsere Ankunft in
-vein. Dorje Garini gänzlich unbeachtet geblieben. Wir waren
-»box zufällig in einen der vielen Hindufeiertage hinein-
-eaten, und ganz Garini befand sie im Tempel, der genau
-wig das Dorf !inks vom Bahndamm in einem Tale lag,
-das tach Süden durch die überbrückte Schluchht begrenzt
-wude, Selbst von den sonstigen Bahnbeamten hatte uns
-aur ein Weichensteller bemerkt, der auch unseren Koffer trug
+sein. Dorfe Garini gänzlich unbeachtet geblieben. Wir waren
+»bog zufällig in einen der vielen Hindufeiertage hineineaten,
+und ganz Garini befand sie im Tempel, der genau
+ewig das Dorf!nickt vom Bahndamm in einem Tale lag,
+das Dach Süden durch die überbrückte Schlucht begrenzt
+wurde, Selbst von den sonstigen Bahnbeamten hatte uns
+Giaur ein Weichensteller bemerkt, der auch unseren Koffer trug
 1828 dem durch zwanzig Rupien der Mund versiegelt wurde.
-Sch fönute hier manches über die rührende Gastfreundlichkeit
-Ging Mattas, des Korporals a. D., berichten. Dieser alte
-Haudegen, der nod die erbitterten Kämpfe gegen die Afghanen
-mitgemacht hatte (heute wird König Aman Ullah mit der
-Staatskarosse in London feierlich eingehol!!), war gleichzeitig
-Vorfältester, Polizeigewaltiger, Steuererheber und als solcher
+Ich könnte hier manches über die rührende Gastfreundlichkeit
+Ging Madras, des Korporals a. D., berichten. Dieser alte
+Haudegen, der noch die erbitterten Kämpfe gegen die Afghanen
+mitgemacht hatte (heute wird König Amen Allah mit der
+Staatskarosse in London feierlich eingeholt!), war gleichzeitig
+Dorfältesten, Polizeigewaltiger, Steuererheber und als solcher
 Beamter der Fürstin von B5ogal, denn das Dorf gehört
-zu Bbogal, nicht zu den zentralindishen Provinzen, —
-Ih könnte hier au& noH manches andere Interessante bes
+zu Bhogal, nicht zu den zentralindischen Provinzen, —
+Ich könnte hier auch noch manches andere Interessante berichten,
 <@pagebreak/>
-2222200202020&nbsp;200 55&nbsp;0020S00S00202d2
-
-richten, aber — — Plaßmangel!! Plazmangel!! (Hm übrigen
-scHrei«2 ich dies in meiner Kabine der Ohio uf Briefpapier
-bei 38 Grad Hize im Sclafanzug — und auch der ist
-nod zu. viel!) —
+aber — — Platzmangel!! Platzmangel!! (Hm übrigen
+Bohrers ich dies in meiner Kabine der Ohio uf Briefpapier
+bei 38 Grad Hitze im Schlafanzug — und auch der ist
+noch zu. viel!) —
 
 Gegen neun Uhr abends, wir hatten bis acht geschlafen,
-fanmt ein Gewitter aus, das hier in den Bergen tie unans
-genehme Gewohnheit hat zu pendeln, d. bh. iumer wieder
-zurücdzukehren. — Es goß, war finster, sehr schwül, und
+formt ein Gewitter aus, das hier in den Bergen die unangenehme
+Gewohnheit hat zu pendeln, d. by. immer wieder
+zurückzukehren. — Es goß, war finster, sehr schwül, und
 gelegentliche kleine Wirbelstürme drehten die Kronen der
-Palmen wie Haarschöpfe nach oben zusammen, zeiten auc,
+Palmen wie Haarschöpfe nach oben zusammen, Zeiten auch,
 daß in dieser Gegend die üblichen Bauerndähßer aus Schilf,
-Maisstroh oder Moos jeden dritten Tag d«vngeslozer:
+Maisstroh oder Moos jeden dritten Tag dvngeslozer:
 wären. Eieferplatten hohnlachten. dem Sturm.
 
-Einflechten mödte - ich, daß Harald bisher mir gegen?232:
-von Margrit, Lydia, Burns und !so weiter nich! viel 4:4
-rochen hatte. Er redete mehr mit seinem Bruder Inte:
-lich, wie sein geiste8gabwesender Gesiht8ausdruck schon währen-
-der Eisenbahnfahrt bewiesen hatte. Als ich vorhin beiin
-Abendessen (halb neun) äußerte, vielleicht sei gar Lydla dis
+Einflechten möchte — ich, daß Harald bisher mir gegen?232:
+von Margrit, Lydia, Burns und!so weiter nicht viel 4:4
+rochen hatte. Er redete mehr mit seinem Bruder Tote:
+lich, wie sein geistesabwesenden Gesichtsausdruck schon währenden
+Eisenbahnfahrt bewiesen hatte. Als ich vorhin kein
+Abendessen (halb neun) äußerte, vielleicht sei gar Lydia die
 »Göttin« der Daki-Zwerge, hatte er erwidert; »Wir werden
-ja schen …«
+ja sehen …«
 
-»Sehen …!!!« Was sichH hinter dieser billigen Nedensart
-alles verbarg, konnte ich nicht ahnen. Vielleiht war es
-gut so. Bielleißt hatte ich diesntal wiklich .Grund, deny
-Freunde dankbar zu sein, daß er seine übliche Geheimnis-
-frümerei auch jezt wieder fast bis ins Extrem durchgeführt
-hatte. Cr ließ mic in dem Wahn, daß der »besondere
+»Sehen …!!« Was sich hinter dieser billigen Redensart
+alles verbarg, konnte ich nicht ahnen. Vielleicht war es
+gut so. Vielleicht hatte ich diesmal wiklichGrund, denn
+Freunde dankbar zu sein, daß er seine übliche Geheimniskrämerei
+auch jetzt wieder fast bis ins Extrem durchgeführt
+hatte. Er ließ mich in dem Wahn, daß der »besondere
 Gedanke«, der ihm in Bombay gekommen, nichts mit Margrit
-Lync zu kun habe, Er … saß uun am Tisch bei einer etwas
-stinkenden Karbidlampe und reinizte unsere durch die feuchte
-STropenluft stark angezJriffenen kleinen Clementpistolen. Cr
-tat es mit peinlichster Sorgfalt, ölte auF die Federn der.
-Patronenrahmen und pfiff dazu ein melancholishes indisches
+Lync zu tun habe, Er … saß nun am Tisch bei einer etwas
+stinkenden Karbidlampe und reinigte unsere durch die feuchte
+Sorgenlast stark angezJriffenen kleinen Clementpistolen. Er
+tat es mit peinlichster Sorgfalt, ölte auf die Federn der.
+Patronenrahmen und pfiff dazu ein melancholisches indisches
 Liebeslied, das uns Freund Korporal mittags dreimal auf
 <@pagebreak/>
-DSSSSSSSSSDS 60 DSSDSSBIESSDEG2D-Sck
+seiner fünfsaitigen Bravo, dem Nationalinstrument der Bug«-
+großen, vorgespielt hatte. Draußen tobte das Unwetter, las
+ganze kleine Bahngebäude Zitterte unter dem Krachen des
+Donners, der sich in den Bergen Berlins und in vielfältigem
+Echo zurückgeworfen wurde.
 
-seiner fünfsaitigen Druba, dem Nationalinstrument der Byo»-
-galesen, vorgespielt hatte. Draußen tobte das Unwetter, Tas
-ganze kleine Bahngebäude Zitterte unter dem Krachen ves
-Donners, der sich in den Bergen verfinz und in vielfältigem
-CchHo zurückgeworfen wurde.
-
-Harst probierte die Pistolen … ließ leere Hülsen herauch»e
+Harst probierte die Pistolen … ließ leere Hülsen beinahe
 schnellen … »So, fertig …!« meinte er. »Wir nehmen jeder
-drei Rahmen mit, jeder drei Ersatzbatterien für die Tasche u-
-lampen, die Gummiumhänge, eine Strickleiter, die Tasche
-uit den Feilen und Vohrern und die Veste unjere8 Abend-
-ejseng. Packe den einen Nukjak … Bevor wir aufbredzen,
-schluden wir je ein halbe Gramm Chinin …« —
+drei Rahmen mit, jeder drei Ersatzbatterien für die Tasche Ahnungen,
+die Gummiumhänge, eine Strickleiter, die Tasche
+mit den Feilen und Bohrern und die Beste unseres Abendejseng.
+Packe den einen Aussah … Bevor wir aufbrechen,
+schaden wir je ein halbe Gramm Chinin …« —
 
-Zehn Uödr …
+Zehn Tode …
 
 Das Gewitter kehrte gerade von Westen her zurück. Wir
-standen int rauschenden Regen auf dem kleinen Bootssteg, der
-zu des Perserg Gehöft gehörte. Harst kniet nieder. Die Kette,
-die das Motorboot hält, knirscht unter der Feile. Ich beob-
-a4Gte nad dem nahen Hause zu. Ich sehe nichts, höre wur
+standen in! rauschenden Regen auf dem kleinen Bootssteg, der
+zu des Persers Gehöft gehörte. Harst kniet nieder. Die Kette,
+die das Motorboot hält, knirscht unter der Feile. Ich beoba4Gte
+nach dem nahen Hause zu. Ich sehe nichts, höre war
 die Hunde toben. Sie haben uns gewittert, und wenn sie
-etwa hinausgelassen werden, soll ich schießen. — Etwas Jagde
-fieber klopft mir in den Adern, Wenn nur meine verteusfelte
-Brille niHt immer trotz des tief herabgezogenen Müen»-
-sHirmes Spritzer abbekäme! — — Plößlich fährt ein ganzes
+etwa hinausgelassen werden, soll ich schießen. — Etwas Jagdfieber
+klopft mir in den Adern, Wenn nur meine verteufelte
+Brille nicht immer trotz des tief herabgezogenen Allen«-
+hinweg Spritzer abbekäme! — — Gräßlich fährt ein ganzes
 Bündel von Blitzen herab … Sekundenlang unklare Helle …
-Wie durch einen rollenden grauen dünnen Borhang erkenne
+Wie durch einen rollenden grauen dünnen Vorhang erkenne
 ich drei Schritt vor mir eine dürre Gestalt, eine gelbliche
-Satanösfratze … gefletschte Zähne, Schlitzaugen …
+Basarstraße … gefletschte Zähne, Schlitzaugen …
 
-Der Eduft springt mi? an. Nun — es bekam ihm
-ntiserabel … Mit dem Bauch gegen einen vorgestreckten
-GChnürschuh anzurennen, benimmt den Atem. Des Persers
-Chinese sclug nach hinten über, und ehe er no den Leid
+Der Schuft springt mich? an. Nun — es bekam ihm
+miserabel … Mit dem Bauch gegen einen vorgestreckten
+Schnürschuh anzurennen, benimmt den Atem. Des Persers
+Chinese schlug nach hinten über, und ehe er noch den Leid
 massieren konnte, war er gebunden und geknebelt.
 
 Die Persenning des offenen Motorbootes schlugen wir
 nur halb zurück. Benzin war vorhanden, dazu zwei Ruder,
 <@pagebreak/>
-DSSSSSSSSSSS (!! DSSSSSSSSSSS
-
-zweit Bootshaken, zwei Stoßstangen mit BretiHhen am unteren
-Ende: des Sumpfbodens wegen. Harald beugte si über
+zweit Bootshaken, zwei Stoßstangen mit Brettchen am unteren
+Ende: des Sumpfbodens wegen. Harald beugte sich über
 Bord, und befühlte Steuer und Schraube. Diese war durch
-Zintgitter gegen Wasserpflanzen geschjützt. — Wir stoßen
+Anhalter gegen Wasserpflanzen geschjützt. — Wir stoßen
 ab … Der Chinese liegt im Boot — nur ein wehrloses
 Bündel. Die Köter drüben haben sie beruhigt. Wir bringen
-das Boot langsam in den Kanal hinein, der von hier, zus
-nächst noch beiderseit3 durch Pfädle begrenzt, in den Dschungel
-hineinläuft. Wir arbeiten ganz nacH dem Gefühl … Schen
+das Boot langsam in den Kanal hinein, der von hier, zunächst
+noch beiderseits durch Pfähle begrenzt, in den Dschungel
+hineinläuft. Wir arbeiten ganz nach dem Gefühl … Schien
 kann man kaum die Hand vor Augen. Ich begreife nicht,
-wie wir bei der Finsternis dieje Wildnis durdzqueren sollten.
+wie wir bei der Finsternis diese Wildnis durchqueren sollten.
 
-Aber eine Stunde drauf blinfen üver uns die Sterne …
+Aber eine Stunde drauf blinken über uns die Sterne …
 Die Tropennacht dämmert mit zauberhaftem Halbdunkel …
-Sdzärme großer Leuchttäfer schießen wie Vaketen hin uud
-der, gejagt von hutgroßen Niesenfledermäusen, deren laut-
-loses Saweben Staunen erregt. — Wir befinden uns ins
-mitien eines morastigen kleinen Sees. Entwurzelte Bäume
+Ecktürme großer Leuchtkäfer schießen wie Wateten hin und
+der, gejagt von hinhorchen Riesenfledermäusen, deren lautloses
+Juwelen Staunen erregt. — Wir befinden uns ins
+mitten eines morastigen kleinen Sees. Entwurzelte Bäume
 faulen im Schilf, Wildenten schießen hoch, Kraniche stehen
-wie Soldaten auf abgestorbeuen dicken Yesten und drehen
-die Hälse rucartig hin und her … Der Chinese sitzt auf
-der Bauk vor dem Heplatz, und Harald hält ihm die Clement
-einveutig vor die Stirn, zeigt hm mit der Linken als
-mildernden Gegensaß Banknoten … Der dürre lange Kerl
+wie Soldaten auf abgestorbenen dicken Seiten und drehen
+die Hälse ruckartig hin und her … Der Chinese sitzt auf
+der Bank vor dem Geplatzt, und Harald hält ihm die Clement
+eindeutig vor die Stirn, zeigt hm mit der Linken als
+mildernden Gegensatz Banknoten … Der dürre lange Kerl
 bat die Wahl: Entweder — — oder «!! Und Harsts Stimme
 beweist, daß des Gelben Stirnhaut ernstlich bedroht ist.
 
 »Euer Geschäft fliegt bestimmt auf, mein Sohn,« sagt
-Harald. »Euer Herr ist in Bombay, und iH habe für
-Suspektor Rolling ein Brieschen zurückgelassen, das der Koh
-Murphison ihm aushändigen wird.« (Bon diesem Brieschen
-weiß ic nichts. BVielleit ist8 nur Bluff.)
+Harald. »Euer Herr ist in Bombay, und ich habe für
+Inspektor Rolling ein Briefchen zurückgelassen, das der Koch
+Murphison ihm aushändigen wird.« (Von diesem Briefchen
+weiß ich nichts. Freiheit ist8 nur Bluff.)
 
-Der Chinamaun beginnt weiß zu werden … blubbert
-zwischen den Zahnlücken hervor: »Gut, gut … Ih) Weg
-zeigen, Sahib Harst … Aber sehr gefährlih Weg, Sahib
+Der Chinamann beginnt weiß zu werden … blubbert
+zwischen den Zahnlücken hervor: »Gut, gut … Ich) Weg
+zeigen, Sahib Harst … Aber sehr gefährlich Weg, Sahib
 Harst … Sein da Baumdorf von Daki ganz nahe …«
-<@pagebreak/>
-SDSSSSSSSSSS 62 DSSSSSSSSSSSD
 
-»Dann steuere … du bekommst noch& fünfhundert Ru-
-pien … Über du bekommst auch ebenso sicher eine Kugel,
+<@pagebreak/>
+»Dann steuere … du bekommst mochte fünfhundert Rupien
+… Über du bekommst auch ebenso sicher eine Kugel,
 wenn du Dummheiten machst.«
 
 Herr Tschangli macht keine Dummheiten. Er steuert …
 Der alte Motor knattert, knallt, spuckt und faucht … Das
-Ding ist kaum noch als Ulteisen verwendbar. Setzt aus …
-erholt sim …
+Ding ist kaum noch als Mitteilen verwendbar. Setzt aus …
+erholt ein …
 
-Aber wir kommen vorwärts. Herr Ischangli führt uns zu
-dem größten der Feldgebilde. Dort soll die weiße Götlin
+Aber wir kommen vorwärts. Herr Tschangli führt uns zu
+dem größten der Feldgebilde. Dort soll die weiße Göttin
 inmitten der Steilwand vor einem Höhleneingang thronen.
 
-NaH z3wei Stunden brabbelt der Chinese; »Ruder
+Rat zwei Stunden brabbelt der Chinese; »Ruder
 nehmen … Dorf nahe … Ganz leise rudern …«
 
 Ganz leise …
 
-Hm Osten zeigt sim bereits der erste fahle Schimmer
+Hm Osten zeigt ein bereits der erste fahle Schimmer
 des neuen Tages. Wir sehen rechts vor uns über welligen
 Baumkronen, die der Morgenwind erschauern läßt, eine dunkle
 hohe Masse, einen Sandsteinfelsen, wie eine einzelne Mauer
-eines Gigantenpalastes … Wir schleiHen dur) grünliches
-Wasser, Schilf, Biusen, Lianenvorhänge … Das Gekreisch
+eines Gigantenpalastes … Wir schreiben durch) grünliches
+Wasser, Schilf, Blusen, Lianenvorhänge … Das Gekreisch
 der Wasservögel begleitet uns. Dann landen wir, Herr
-Tschangli erklettert eine Palme, in deren Stamm duke
-Pflöde hineingetrieben sind … Von Baum zu Baum tappen
-wir über schwankende primitive Brüken aus zähem Bast
-und Bambus … Big wir durch Blattgrün und Astgewirr
-sHräg über uns die Felswand sehen …
+Tschangli erklettert eine Palme, in deren Stamm ducke
+Pflöcke hineingetrieben sind … Von Baum zu Baum tappen
+wir über schwankende primitive Drüben aus zähem Bast
+und Bambus … Bis wir durch Blattgrün und Astgewirr
+schräg über uns die Felswand sehen …
 
 Wir sehen …: die weiße Göttin sehen wir nicht … Aber
-droben auf der schhmalen Terrasse vor der Höhle steht
-ein alter, köstlich-geshnitzter Elfenbeinthron …
+droben auf der schmalen Terrasse vor der Höhle steht
+ein alter, köstlich-geschnitzter Elfenbeinthron …
 
 Leer …
 
-Die Felswand ist stei:, aber rissig, hat Vorsprünge, hat
+Die Felswand ist frei:, aber rissig, hat Vorsprünge, hat
 Handgriffe aus Eisen — wie eine Leiter, und der Ast, auf
-dem wir stehen, preßt sein äußerstes, gekrümmteg Ende
-gegen den Sundstein. — »Warte hier,« besiehlt Harst dem
+dem wir stehen, preßt sein äußerstes, gekrümmtes Ende
+gegen den Sandstein. — »Warte hier,« bestellt Harst dem
 <@pagebreak/>
-DSSSSSSSSSSS (3 D0S0SHEBSSSSSSSSS
-
-Chinesen. »Damit du aber nicht auskneifst, mein Sohn,
-werden wir diH …«
+Chinesen. »Damit du aber nicht auskneift, mein Sohn,
+werden wir bis …«
 
 Überflüssig all das … Aus dem Dickicht der Kronen
-hinter uns ein bleßernes Peng … — Die Daki haben
-nicht nur Gistpseile, unzd Tschchangli braucht keine Rupien
-mehr … Wie ein plumper Sad fallt er prasselnd in die
+hinter uns ein blechernes Peng … — Die Daki haben
+nicht nur Giftpfeile, nach Tschangli braucht keine Rupien
+mehr … Wie ein plumper Sack fallt er prasselnd in die
 Tiefe …
 
 Peng … peng peng … peng …
@@ -2490,179 +2363,64 @@ uns hinter den Stamm … Die Lage ist brenzlich … Die
 einen braunschwarzen Teufel schießen von unten, von den
 Seiten … von oben, Aber sie schießen schlecht …
 
-Urplötzlich Stille … Unheimlich … Keim Schuß mehr …
-IH schiele rückwärts — aufwärts …
+Urplötzlich Stille … Unheimlich … Beim Schuß mehr …
+Ich schiele rückwärts — aufwärts …
 
 Sehe …
 
 Jetzt ist der Thron besetzt … Blonde Lieblichkeit im hellen
-Hewand, eine harmlose, grünbraune junge Boa um Hals
-und Nacen, droht mit zarter Hand dem Feinde.
+Gewand, eine harmlose, grünbraune junge Boa um Hals
+und Nachen, droht mit zarter Hand dem Feinde.
 
 »Schnell!«
 
-Ih folge … Wir kletter.: …
+Ich folge … Wir kletter.: …
 
-Srotzbem: Wieder ein paar Schüsse … Gestein sprikt …
+Trotzdem: Wieder ein paar Schüsse … Gestein trifft …
 
-Cine Stimme schrillt von oben … drohend, befehlend. —
+Eine Stimme schrillt von oben … drohend, befehlend. —
 
 Damals hätten die Daki uns ausgelöscht, wenn Lydia
-Sellerhoop, die weiße Göttin, uns nicht beschüßt haben würde
-— nicht aus eigenem Antrieb. Aber neben ihr ist ein bl.iich ’s,
-schHred«verzerrtes, bekanntes zweites Frauenantlitz erschienen …
+Sellerhoop, die weiße Göttin, uns nicht beschützt haben würde
+— nicht aus eigenem Antrieb. Aber neben ihr ist ein Strich ’s,
+schHredverzerrtes, bekanntes zweites Frauenantlitz erschienen …
 
 Margrit Lync sinkt Harst weinend in die Arme …
 
 Ich sehe … Kalt überläuft’s mich … Ich sehe das leere
-LäcHeln: in Lydias Antlitz, den leeren Blick des Wahnsinns,
-— iF höre das leere Geplapper der AYermsten, die über
-der entsezlihen Erkenntnis, einen Mörder in Neuyork befreit
+lächeln: in Lydias Antlitz, den leeren Blick des Wahnsinns,
+— ich höre das leere Geplapper der Ärmsten, die über
+der entsetzlichen Erkenntnis, einen Mörder in Neuyork befreit
 » sich ihm hingegeben zu haben, den Verstand verloren
 
-Der Vombay Necorder schrieb zwei Jage später:
+Der Bombay Recorder schrieb zwei Jage später:
+
 <@pagebreak/>
-DOISSSSHOGSIS0ELS (41 DSDS SSDESEDOD
-
-»Cs ist eine sHmahlicqe Blantage für unsere Polizei, dak
-erst der Deulscme Harald Harjt der Erpresserbande des
-Persers Mandar oder besser des steckbricslich verfolgten
-Mörders Ioe Burns’ das Handwerk legen mußte. Burus
-ij’t hier durch Inspektor Volling verheftei wor?! Harst
-yat Frau Margrit Lync, die im Wyndhia-DsGunqel ge
+»Es ist eine sHmahlicqe Plantage für unsere Polizei, daß
+erst der Berufene Harald Harst der Erpresserbande des
+Persers Mandar oder besser des steckbrieflich verfolgten
+Mörders See Burns’ das Handwerk legen mußte. Burns
+ij’t hier durch Inspektor Berlins verleitet war?! Harst
+hat Frau Margrit Lync, die im Wyndhia-Dschungel ge
 sangen gehalten wurde, befreit und auch deren Edqywester
-glücklil) hierher gebrach4t. — Burns’ Bande hatte Helfergs
-belfer in allen großen Städten. Näteres bringen wir in der
-Abendaus8qabe. Zurzeit wird Burng noch verhört.« — —
+glückt) hierher gebrach4t. — Burns’ Bande hatte Helfers
+Helfer in allen großen Städten. Näheres bringen wir in der
+Abendausgabe. Zurzeit wird Burg noch verhört.« — —
 
-Id glaube, daß der Leser nun weiß, worin Harsts »be-
-sonderer Gedanke« bestand.
+Ich glaube, daß der Leser nun weiß, worin Harsts »besonderer
+Gedanke« bestand.
 
-Ide Burns wurde später gehängt … Lydia Sellerhvop,
-sein bedauern8wertes Werkzeug, sieczt in einem Sanatorium
+Ihr Burns wurde später gehängt … Lydia Sellerhoop,
+sein bedauernswertes Werkzeug, steckt in einem Sanatorium
 langsam dahin … Der Gisthaur der Dschungel hat ihr Blut
-vergiftet, Sie leidet niHt … Sie welkt wie eine Pflanze,
+vergiftet, Sie leidet nicht … Sie weit wie eine Pflanze,
 und eines Tages wird« sie saust hinüberschlummern. —
 
-Es ift ql«hend heiß hier in meiner Kabine … Das Papier
-feucht … Die Schrift verläuft … Die Mokoren der Ohio
-arbeiten, und der Cdiffskörper vibriert leicht. Wir sind
-ag) Colombo unterwegs. In Colombo werde ich dieses
+Es ist Orient heiß hier in meiner Kabine … Das Papier
+feucht … Die Schrift verläuft … Die Motoren der Ohio
+arbeiten, und der Schiffskörper vibriert leicht. Wir sind
+ach) Colombo unterwegs. In Colombo werde ich dieses
 Manuskript zur Post geben. Bis dahin habe ich vielleicht
 auch »Die Träume der Maharhani« fertig … Sie
-hilden gleichsam den letzten Ausklang zu dem tragischen Go-
-ild der armen, schönen Lydia GSellerhoop.
-<@pagebreak/>
-Weitere AÄusgaben
-
-unzserer Harst- Abenteuer
-
-gebeimnizvolle Fenzter.
-Armands Verhängnis.
-100\. Abdenteuer.
-Piraten der Havelseen.
-
-Fz
-
-Paket im
-KE uh Jer MIS Dolling
-er
-Motoryacht ohne Namen.
-Kampi gegen Lionel
-Geheimnis der Tokkara-Fille.
-Gau des Boaporua.
-eheimnis des
-1\.ch Der Ma mit den »Dlagauge.
-nan em
-113\. Der Kopf des Maharadecha.
-116\. Die Tre des Todes.
-117\. Doktor
-118& Das Geisterzchiff.
-119\. Der Tennisschläger der Rank
-120\. Der Mann im Monde.
-121\. Tama Barru, der Verrückte.
-122\. Das Piratendorf.
-123\. Die Hexenküche.
-124\. Das Geheimnis von H. O. IM.
-123\. Die Oräfin mit den Kormoranen.
-126\. Der Bouillonkeller Nr. 113.
-127\. Der tote Tümmler.
-128\. !Das Erde des Verschollenen. -
-139\. Das Geheimnis der Drabu-Fülle.
-130\. Die Faktorei auf der Toteninzel
-131\. Das gestohlene Auto.
-1332\. Das Rätzel der Spielkarten.
-133\. Die Diamanten des Bettlers.
-134\. Die Photographien d. Sennor Trimaldo.
-133\. Der Kokain - Klub.
-136\. Harald Harsts zweite Liebe.
-
-Freer
-
-137\. Baron Tisganders Schaukel.
-
-138\. Das Erddegräbnis.
-
-139\. Das Gestade der Vergezzenbeit
-140\. Die Wachspuppe des Trödlers.
-141\. Der Maskendall der Toten.
-
-142\. Die Villa mit den vier Scnornsteinel
-143\. Das Gespenst von Jan Mayen.
-144\. Das geheimnisvolle Floß.
-
-145\. Die Familientruhe der Darlingtons,
-146\. Die drei Finger Ben Bensons.
-
-147\. Die Fürstin der Qwala - Berge.
-148\. Der Fakir ohne Arme.
-
-149\. Joe Billwakers Verbrechen.
-
-150\. Das Geheimnis des Perlentauchers,
-151\. Burg Totenhall.
-4152\. Das Untergrundbahngespenst.
-
-153\. Der Geisterberg Schara Schaka,
-134\. Die rote Rakete.
-
-155\. Der Trium der Lady Gulbranor.
-156\. Der Geheimbund der zwölf Schifgeel.
-157\. Das Geheimnis des Sanatoriums
-
-Waldesruh.
-
-138\. Die Inzel der Verstorbenen.
-
-139\. Miß Wells Seitzames Abenteuer.
-160\. Das Haupt der Shinta.
-
-161\. Ver Spinitistenklub.
-
-162\. Der Mann aus Eien.
-
-163\. Das Geheimnis der Pagode.
-
-164\. Der Gentleman - Pirat.
-
-163\. Das Rätzel der drei Schiüszel,
-166\. Mi0 Grandells letzte Nacht.
-
-167\. Das Geheimnis des Inszelforts.
-
-168\. Das Wespennest von Potanur.
-
-169 Die Blinde vom Engelsriff.
-
-170\. Der tote Radscha.
-
-171\. Ein Selts3mes Hochzeitzgeschenk.
-172\. Der Adreißkalender des Kapitäns,
-173\. Der rätgelhaste Gat.
-
-174\. Die grün -rote Schnur.
-
-Erhältlich in jeder Budcbhandlung oder direkt beim
-
-VERLAG MODERNER LEKTÜRE
-Berlin SO16 / Michaelkirchstraße 23a
+bilden gleichsam den letzten Ausklang zu dem tragischen Gold
+der armen, schönen Lydia Sellerhoop.
