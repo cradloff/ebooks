@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">93aeae5f-9bfa-4ae2-b051-00001928b9a5</entry>
+<entry key="title">Der Dornauszieher</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">220</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Der Dornauszieher.
+
+… Er steht auf meinem Schreibtisch. Wenn Sie mich mal besuchen, können Sie ihn sich ansehen. Er ist genau 32 Zentimeter hoch, mit Sockel, aus weißem Marmor, den der Zahn der Zeit oder der Tabakrauch leicht gelblich verfärbt hat. Es ist ein Knabe, der auf einem Baumstumpf in holder Nacktheit sitzt, den linken Fuß auf den rechten Schenkel gelegt hat und sich einen eingetretenen Dorn auszieht.
+
+Es ist also die bekannte Marmorfigur … Bei Wertheim kostet sie vielleicht dreißig Mark, vielleicht auch weniger. Ich weiß es nicht, denn ich habe den Dornauszieher nicht gekauft, sondern gestohlen. Regelrecht gestohlen.
+
+Tetanin.
+
+Die Tür fiel zu … Und ich saß aufrecht auf dem Diwan und fror … Die Zähne wollten klappern … Die Nerven meldeten sich.
+
+Dieser Hausmeister war ein Teufel. Würde es mir je gelingen, ihn zu überlisten?!
+
+Wehrlosigkeit … Finsternis …
+
+Totenstille im Hause …
+
+Entsetzlich all das!!
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (220) Der Dornauszieher.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1928</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
