@@ -970,7 +970,7 @@ trank. Eins störte mich: die unheimliche Stille im Hause.
 Auch nicht das leiseste Geräusch war außer dem Fauchen
 der Glut im Ofen vernehmbar. Das kleine Bauwerk aus Stein
 und dicken Rundhölzern lag ja bis zum Dache im Schnee
-begraben. Es war eine Insel in einem Ozean: von Schnee,
+begraben. Es war eine Insel in einem Ozean von Schnee,
 eine Eskimohütte, — ein Gefängnis.
 
 Ich saß neben dem Ofen, und rechts von mir geisterte
@@ -1005,7 +1005,7 @@ Selbstmordtrieb.
 
 Hier war es eine Feldmaus, eine graubräunliche ziemlich
 große Maus, die ich zuerst für eine Ratte gehalten. Sie
-hockte am Rande des Filzteppichs unweit der Schreibtisches
+hockte am Rande des Filzteppichs unweit der Schreibtischecke
 auf dem dunklen Linoleumbelag der Dielen, und nur ihre
 glitzernden Perläuglein hatten mich auf sie aufmerksam gemacht.
 Sie mochte mich und meine Bewegungen wohl schon
