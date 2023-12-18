@@ -32,7 +32,7 @@ hinnehmen, mag kommen, was da will.
 Dieser Herr Ulrich von Gorre machte im übrigen äußerlich
 tadellos Figur. Eigentlich ein viel zu hübscher Kerl. Vornehm
 bis in die Fingerspitzen, blaublütig bis auf das randlose,
-fadenlose Monokel, Arbeitsscheu wie ein Berufsparlamentarier
+fadenlose Monokel, arbeitsscheu wie ein Berufsparlamentarier
 und ironisch-schlagfertig wie Bismarcks Erben.
 
 Wir hatten dieses Edelgewächs nebst standesamtlichem
@@ -385,7 +385,7 @@ ich vorsichtig.
 
 »Natürlich, mein Alter. Um eine Kleinigkeit handelt
 es sich hier sicherlich nicht. Die ganze umständliche und
-originelle Art, diese Blätter aus Aluminium wirken zu
+originelle Art, diese Plättchen aus Aluminium wirken zu
 lassen, deutet auf höchst gefährliche Dinge hin, bei denen
 ganz fraglos ein gelernter Bäcker oder Konditor beteiligt
 ist. Nun findet man gerade in diesen eng verwandten
@@ -718,7 +718,7 @@ doch noch recht schwindlig … Nun, das geht vorüber …!«
 Er stand neben seinem Liegestuhl und reckte sich.
 »Erhebe dich nur bitte gleichfalls … Wir müssen dieser
 Geschichte hier so oder so ein Ende machen … Es wäre ja
-noch besser, mit Harald Hast eine derartige Komödie aufzuführen!
+noch besser, mit Harald Harst eine derartige Komödie aufzuführen!
 Und Max Schraut läßt sich dergleichen doch erst
 recht nicht gefallen, so weit ich ihn kenne! — Befragen
 <@pagebreak/>

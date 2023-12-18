@@ -160,7 +160,7 @@ betäubt und in das Zelt gelegt … Besinnst du dich?«
 »Ja … Aber … aber wir waren auf der Radiria!«
 behauptete ich hartnäckig.
 
-»Streiten wir nicht …! — Erinnere dich, daß ein geheimen
+»Streiten wir nicht …! — Erinnere dich, daß ein geheimer
 Gang vom Zelt aus nach der Garage jenseits des
 Zaunes führen muß … — Atme tief … Atme … damit
 Du Kraft gewinnst … Ich werde im Zelt die Decken wegräumen
@@ -258,7 +258,7 @@ mein Alter, — ist dies *dein* toter Wedler?«
 Inzwischen hatten die letzten Nebel mein Hirn wieder
 freigegeben. — Traum?! All das nur Traum?! — Niemals!!
 
-»Ich kenne die Gründe nicht, weshalb du mich täusche
+»Ich kenne die Gründe nicht, weshalb du mich täuschen
 willst,« meinte ich ernst. »Ich habe nicht geträumt. Wir
 waren auf der Radiria, auf der Insel … Wir können das
 sehr einfach feststellen. Es ist ja ausgeschlossen, daß wir volle
@@ -344,7 +344,7 @@ doch: Nur den Namen, wo mich die Gedanken an ihre
 unverständlichen Andeutungen peinigen wollten — peinigten
 … — Und es kam jener Abend bei Ihnen, Herr
 Harst. Sie wissen: die Pfannkuchen, der Ohnmachtsanfall
-Meiner Frau … Wir fuhren heim. Wir waren hier in
+meiner Frau … Wir fuhren heim. Wir waren hier in
 meinem Arbeitszimmer … Dort saß Dorothy. Ich sagte
 ihr auf den Kopf zu, daß sie über diese »Glücksadresse« mehr
 wüßte, als sie eingestehen wollte. — Sie … weinte …
@@ -359,7 +359,7 @@ belauert … Zum Schein zog ich mich in mein Schlafzimmer
 zurück. Wir haben getrennte Schlafräume. Das hatte
 sie von vornherein verlangt. — Ich beobachtete alles, was
 vorging … Ich sah Sie beide … Ich stand mit einem
-Fernglas hier im Dunkeln am Fenster. Ich sah die drei.
+Fernglas hier im Dunkeln am Fenster. Ich sah die drei
 Männer in den Radmänteln — — in dem Indianerzelt
 verschwinden, das mein Chauffeur für ein paar Knaben
 nebenan auf dem unbebauten, mir gehörigen Grundstück
@@ -418,7 +418,7 @@ Tisch. Er stand abseits. Wir kamen ins Gespräch. Miß
 Dorothy Lannerson, jetzt Frau von Gorre, war als einzige
 zum Vergnügen in Amsterdam. Wir anderen hatten dort
 Geschäfte zu erledigen, auch die beiden Holländer, die in
-Java heimische waren, — Plantagenbesitzer, wie sie sagten.
+Java heimisch waren, — Plantagenbesitzer, wie sie sagten.
 Unser Kreis wechselte, wie dies bei Zufallsbekanntschaften oft
 geschieht, sehr häufig das Gesprächsthema. Mit der Zeit
 tauten auch die zurückhaltenden Holländer mehr auf, und als
@@ -450,7 +450,7 @@ Jetzt war es Ulrich von Gorre, der höhnisch auflachte.
 dem trügerischen Kleide der Wahrheit zu umhüllen suchen,
 etwa wie man einen kahlen Berg durch ein paar elende
 Büsche und Blumen als lieblich bewaldeten Hügel zu umzaubern
-sucht, — mit sollen Gewäsch müssen Sie doch
+sucht, — mit solchem Gewäsch müssen Sie doch
 <@pagebreak/>
 nicht uns kommen!! Nicht einem Harst, einem Schraut und
 mir selbst!« Er warf seiner Frau einen empörten Blick zu.
@@ -623,7 +623,7 @@ Radiria gehört. Ob jene Jacht so hieß, wußten wir nicht.
 9. Es gab nur eine Jacht Radiria, und die gehörte dem
 Neuyorker Kriegsgewinnler-Milliardär John Biscopp. Sie
 hatte um die Fastnachtstage das Sargassomeer durchforscht,
-wie Biscopp durchs Radiodepesche der Pariser Polizei meldete.
+wie Biscopp durch Radiodepesche der Pariser Polizei meldete.
 (Das Sargassomeer bildet im nordwestlichen Atlantik eine
 ungeheure Tangwiese.)
 
@@ -967,7 +967,7 @@ diese Hauptsache war Jasper Moops Buckel.«
 Buckel kann …«
 
 »… kann sehr vielsagend sein,« — und Harald erhob
-sich. »Bitte, — ich habe keinen Buddel. Hätte ich einen,
+sich. »Bitte, — ich habe keinen Buckel. Hätte ich einen,
 so würde ich meinem Schneider Anweisung geben, meine
 Jacke dem Buckel anzupassen. Die Jacke, die Jasper Moop
 trug, wippte hinten, das heißt sie war für einen Mann ohne
@@ -1172,7 +1172,7 @@ ganzen Welt die ihm gebührende Würdigung gefunden. Bedenkt
 <@pagebreak/>
 man, welche Mittel benutzt wurden, um durch ein
 fraglos geniales Betrugsmanöver Millionen zu ergaunern, so
-kann man es mir nicht verargen, wenn ich hier den Titel,
+kann man es mir nicht verargen, wenn ich hier den Titel
 »Der große Schwindlerkonzern« gewählt habe. Nicht nur
 die Eigenart der Vorbereitungen, sondern insbesondere bei
 dem zweiten Geschäft der blendende Gedanke, einen Harald
