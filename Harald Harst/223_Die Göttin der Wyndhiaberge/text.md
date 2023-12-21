@@ -551,80 +551,78 @@ zog sich nach rechts, in tiefste Dunkelheit gehüllt, weiter
 und enthielt außer diesen Kleidungsstücken Frau Lyncs scheinbar
 nichts.
 
-Ecdhyeinbar,
+Scheinbar,
 
 Es war von uns fraglos überaus leichtfertig, hier
-glüht sofort die Taschenlampen einzuschalten.
+nicht sofort die Taschenlampen einzuschalten.
 
 Und als ich es tat, als der Lichtkegel in die Finsternis
-wie ein greller Pfeil hineinschoß, als ich die kleine Lampa
-Dann auch aufwärts richtete, war’s zu, spät
+wie ein greller Pfeil hineinschoß, als ich die kleine Lampe
+Dann auch aufwärts richtete, war’s zu, spät …
 
 Ich sah nur noch über uns eine schmale Galerie aus
 Dunklen Balken und unklare Umrisse einiger Gesichter.
 
 Dann kam’s von oben wie ein grauer Strich herabgesaust:
 eine Stange — — ein Hieb, der meine Stirn traf …
-Ich flog zu Boden … Horde noch etwas wie einen Schuß. —
+Ich flog zu Boden … Hörte noch etwas wie einen Schuß. —
 
-— — Doktor Marbucle beugte sich über meinen bepflastertem
+— — Doktor Marbucle beugte sich über meinen bepflasterten
 Schädel …
 
-»Au drei Tagen sind Sie wieder ins; und munter,«
-Meinte er … »Sie haben Glück- gehabt, Herr Schraut …
-Der CFIropenhelm hielt die Hauptkraft des Hiebes ab … Die
+»In drei Tagen sind Sie wieder frisch und munter,«
+Meinte er … »Sie haben Glück gehabt, Herr Schraut …
+Der Tropenhelm hielt die Hauptkraft des Hiebes ab … Die
 <@pagebreak/>
 Stangen, mit denen die Schurken Sie beide niederschlugen,
-Lassen Eisenbeschlag unten … — Bitte, verhalten Sie
-sich ganz ruhig »… Mit einer Gehirnerschütterung ist nicht
+hatten Eisenbeschlag unten … — Bitte, verhalten Sie
+sich ganz ruhig … Mit einer Gehirnerschütterung ist nicht
 zu spaßen … — Ihrem Freunde geht es gleichfalls leidlich.
-Er hat einen von dem braunen Dach noch ausgelöscht …
+Er hat einen von dem braunen Pack noch ausgelöscht …
 Weiß Gott, schießen und treffen kann er … — Und nun
-wollen Sie noch gern hören, wie man Sie beide auffand.:
-Pemberton merkte ’ sehr bald, daß nun auch Sie beide verschnitten
-waren … Inzwischen hatte ein) der Direktor
-der städtisch;en Gartenanlagen in der Pagode eingestellt. Er
-kannte den Zugang zu dem engen Sang Zwischen den Pagodenwänden
+wollen Sie noch gern hören, wie man Sie beide auffand:
+Pemberton merkte sehr bald, daß nun auch Sie beide verschwunden
+waren … Inzwischen hatte sich der Direktor
+der städtischen Gartenanlagen in der Pagode eingestellt. Er
+kannte den Zugang zu dem engen Gang Zwischen den Pagodenwänden
 … Die Tür dort war ja weiter kein Geheimnis,
 wenn auch nicht gerade der Öffentlichkeit zugänglich. Er
-
 vermutete gleich, Sie würden dort stecken … — Man
-Jan ihre Sie dann wieder hier auf die Ohio … — Jetzt ist’s
-
-übrige zehn Uhr, Sie haben neun Stunden bewußtlos
+schaffte ihre Sie dann wieder hier auf die Ohio … — Jetzt ist’s
+abend zehn Uhr. Sie haben neun Stunden bewußtlos
 gelegen. Herr Harst kam schon wieder um sieben Uhr zu
-sich. Er;ist leider ein sehr ungeduldiger Patient …
+sich. Er ist leider ein sehr ungeduldiger Patient …«
 
 »Ich auch!« brummte ich mühsam. »Wegen dieses Klapses
-zu? den Schädel bleibe ich weder drei Tage im Bett noch
-halte ich aus nur einen Tag das M … den Mund,
-Parkett … — Wo ist Frau Lync?«
+auf den Schädel bleibe ich weder drei Tage im Bett noch
+halte ich auch nur einen Tag das M…, den Mund,
+pardon … — Wo ist Frau Lync?«
 
 Marbucle wurde ärgerlich. »Sie dürfen nicht sprechen!
 Und sich erst recht nicht aufregen!«
 
-»Mit einen! Eisbeutel auf dem Schädel bleibt man
-Hundeschnäuzig, Doktor …!« Und im stillen dachte Ich:
-»Fang du!! Wenn’s vielleicht nach dir gegangen wäre,
-schwammen wir jetzt den Hugli hinab — Fraß für die
+»Mit einem Eisbeutel auf dem Schädel bleibt man
+hundeschnäuzig, Doktor …!« Und im stillen dachte Ich:
+»Lump du!! Wenn’s vielleicht nach dir gegangen wäre,
+schwämmen wir jetzt den Hugli hinab — Fraß für die
 Fische.«
 
 Er zuckte die Achseln. »Sie setzen Ihr Leben aufs
 Spiel …! Ihre Sache! Bekommen Sie Fieber, so …«
 
-»X bekomme kein Fieber. Meine Hirnschale ist Patent stahl.
-—«- Wo ist Frau Lync?«
+»Ich bekomme kein Fieber. Meine Hirnschale ist Patentstahl.
+— Wo ist Frau Lync?«
 
 »Verschwunden …«
 
 <@pagebreak/>
 »Waren denn die braunen Burschen mit ihr schon
-entrinnen?«
+entflohen?«
 
-»da — leider … Von der Galerie in dem engen Gelaß
+»Ja — leider … Von der Galerie in dem engen Gelaß
 führte eine Leiter zum dritten Stockwerk der Pagode empor,
-und von da haben die Kerle sich irgendwie hinab« und
-Hinauegeschlicdzen.«
+und von da haben die Kerle sich irgendwie hinab- und
+hinausgeschlichen.«
 
 »Weiß Harst das bereits?«
 
@@ -633,32 +631,32 @@ wollen … Da ist er schon …« —
 
 Die Verbindungstür unserer Kabinen hatte sich geöffnet.
 Harald erschien im Bademantel, mit triefenden Haaren, mit
-einer blaugrünen, teils auch blutigen Riesenbeule an
+einer blaugrünen, teils auch blutigen Riesenbeule an der
 Stirn. Er hatte geduscht.
 
-»Na, wie fühlst du dich, mein Alter? — Will auch b’:d
+»Na, wie fühlst du dich, mein Alter? — Will auch dich
 der Doktor hier drei Tage ans Bett nageln?! — Lieber
 Marbucle, Sie werden mit Ihren Säuglingskuren auch bei
 Schraut wenig Glück haben. Das Bad hat mir gut getan,
-Mag der Schädel getrost brummen »…’« Er rückte einen Korbsessel
+Mag der Schädel getrost brummen …« Er rückte einen Korbsessel
 näher und nahm Platz.
 
 Marbucle kreuzte die Arme über der Brust und lehnte
-ein an die Wand, Es war eine etwas theatralische Haltung,
-durch4 die er seinen Protest gegen unsere Tagebuche als
+sich an die Wand. Es war eine etwas theatralische Haltung,
+durch die er seinen Protest gegen unsere Ungebühr als
 Patienten ausdrücken wollte.
 
 In der Kabine war es trotz der surrenden Ventilatoren
-entsetzlich heiß. Die Fenster standen »offen. Der faulige
-Blutgeruch des Hugli drang herein, dazu die Düfte des
+entsetzlich heiß. Die Fenster standen offen. Der faulige
+Flußgeruch des Hugli drang herein, dazu die Düfte des
 Seglers, der noch immer Häute als Fracht übernahm. Als
-weiterer Bestandteil dieses Tropenozons sind noch John«
-Form und Marbucles etwas aufdringliches Parfüm zu
-nennen, Merkte pflegen kaum Wohlgerüche zu benutzen. Marbucle
-tat’s. Co? war überhaupt sehr eitel.
+weiterer Bestandteil dieses Tropenozons sind noch Jodoform
+und Marbucles etwas aufdringliches Parfüm zu
+nennen. Ärzte pflegen kaum Wohlgerüche zu benutzen. Marbucle
+tat’s. Er war überhaupt sehr eitel.
 
 Harst holte aus der Tasche seines Bademantels sein Zigarettenetui
-hervor, rieb ein Zündholz an und rauchte
+hervor, rieb ein Zündholz an und rauchte.
 Marbucle brummte deutlich.
 
 <@pagebreak/>
@@ -669,66 +667,66 @@ Dinge enthält. Ich möchte vorlesen, Doktor …«
 
 »Es wäre besser, Sie gingen ins Bett,« knurrte Marbucle.
 
-»Also im? lese … Geben Sie acht, Doktor. Man hat
+»Also ich lese … Geben Sie acht, Doktor. Man hat
 mir da eigentümliche Beobachtungen mitgeteilt …«
 
-In der geräumigen, eleganten Kabine war es sehr hll.
-Die Deenbeleuchtung und die Mittellampe brannten. Ich
+In der geräumigen, eleganten Kabine war es sehr hell.
+Die Deckenbeleuchtung und die Mittellampe brannten. Ich
 hatte den Kopf zur Seite gedreht und sah, daß der Doktor
 die Augen kniff und um seinen Mund ein Zucken ging.
 
-»-… Ich lese:
+»… Ich lese:
 
-1\. Heute um vier Uhr nachmittags verließ Doktor Marbucle
+1. Heute um vier Uhr nachmittags verließ Doktor Marbucle
 die Jacht und begab sich nach der Industrievorstadt
 Howrah hinüber, wo er die Teestube eines Chinesen im
 ältesten Teile des Ortes aufsuchte und offenbar von dem
-Fakir Rinadingri, der bei Ma Litt zu wohnen pflegt, erwartet
-wurde. «
+Fakir Rinadingri, der bei Ma Litu zu wohnen pflegt, erwartet
+wurde.
 
-2\. Vinadingri und ein Inder, in dem unschwer der verkleidete
+2. Rinadingri und ein Inder, in dem unschwer der verkleidete
 Doktor zu erkennen, fuhren in einem Boot stromabwärts
-bis zur dritten kleinen Schlamminsel des Zugab,
+bis zur dritten kleinen Schlamminsel des Hugli,
 deren uralter Baumwuchs einem Fischer gestattet hat, in den
-»Baumkronen sie ein Haus zu errichten. Beide erkletterten
+Baumkronen sich ein Haus zu errichten. Beide erkletterten
 die Leitern zu des Fischers Wohnung und blieben zehn
--Minuten dort oben.
+Minuten dort oben.
 
-3\. Sie ruderten hierauf wieder nach Howrah zurück. Der
-Doktor legte bei Ma Litt die Verkleidung ab und begab sich
-nunmehr allein, stets starke Vorsicht bekundend, naß der
-Wellingtonstreet 28, einem Syndikus, das aus einem verwilderten
-Park und einem früheren kleinen ’ Buddhatempel
+3. Sie ruderten hierauf wieder nach Howrah zurück. Der
+Doktor legte bei Ma Litu die Verkleidung ab und begab sich
+nunmehr allein, stets starke Vorsicht bekundend, nach der
+Wellingtonstreet 28, einem Grundstück, das aus einem verwilderten
+Park und einem früheren kleinen Buddhatempel
 besteht, der jetzt an eine reichte Engländerin vermietet ist,
-die geholt zumeist auf Reisen sie befindet. Diese Miß Lydia
+die jedoch zumeist auf Reisen sich befindet. Diese Miß Lydia
 Burns unterhält eine sehr zahlreiche Dienerschaft, verkehrt
 jedoch mit niemandem aus der Europäerkolonie, obwohl
 <@pagebreak/>
 sie jung und hübsch ist. Sie soll Malerin sein, nebenbei
 aber auch botanische und chemische Studien treiben. Genaues
 weiß man über sie nicht. — Der Doktor wurde fraglos auch
-in den! Hause der Burns erwartet, das sonst jedem Besucher
+in dem Hause der Burns erwartet, das sonst jedem Besucher
 verschlossen bleibt. Er läutete an der Parkpforte in besonderer
 Weise, wurde sofort eingelassen und blieb fünfzehn Minuten
 in dem zum Bungalow umgebauten alten Tempel. Dann
 kehrte er gegen sieben Uhr an Bord der Ohio zurück.«
 
 Marbucle hatte ruhig zugehört. Er verriet lediglich
-das Interesse eines Menschen, der erstaunt ist, weil war:
+das Interesse eines Menschen, der erstaunt ist, weil man
 seinen Wegen so genau nachgespürt hat.
 
 Als Harald nun schwieg, fragte er kühl: »Was soll
-das?! Haben Sie mich etwa bedrohten lassen, Herr Haar;«
+das?! Haben Sie mich etwa beobachten lassen, Herr Harst?«
 
 »Ja.«
 
-Der Doktor ließ die Arme sinken. Auf seiner Gi’vx
+Der Doktor ließ die Arme sinken. Auf seiner Stirn
 erschienen drei senkrechte scharfe Falten.
 
 »Das … das ist denn doch ein starkes Stück!« sagte
 er mühsam beherrscht. »Was veranlaßte Sie dazu?«
 
-Harald schaute ihm voll an. »Weshalb hatten Sie den
+Harald schaute ihn voll an. »Weshalb hatten Sie den
 Fakir Rinadingri nach Singapore bestellt! Weshalb folgten
 Sie Frau Lync bei deren Einkäufen dort? Weshalb blieb
 der Fakir Frau Lync ebenso auf den Fersen?«
@@ -754,43 +752,43 @@ Harald nahm eine zweite Zigarette …
 »Sie sind ein wandelndes Rätsel, Doktor … Ich weiß
 nicht recht, was ich von Ihnen halten soll. — Während
 wir den Pazifik durchquerten, fiel mir Ihr Interesse für
-das Funkerhäuschen oben auf der Zelle auf. Sie schlau«
-Zelten dort abends stets heimlich herum, und zweimal stellte
-ich fest, daß Sie Depeschen absandten, als unser Bord
-Funker anderweit beschäftigt war. Sie sind also auch funktechnisch
+das Funkerhäuschen oben auf der Brücke auf. Sie schwänzelten
+dort abends stets heimlich herum, und zweimal stellte
+ich fest, daß Sie Depeschen absandten, als unser Bordfunker
+anderweit beschäftigt war. Sie sind also auch funktechnisch
 verblüffend gut bewandert, nur insofern noch etwas
 Anfänger auf dem Gebiet leichterer oder schwererer Intrige,
-als Sie Ihre Depeschenentwürfe in Ihrer Kabine verstehen,
+als Sie Ihre Depeschenentwürfe in Ihrer Kabine versteckten,
 anstatt sie zu verbrennen. Beide Telegramme gingen an
-denselben Chinesen Ma Litt, bei dem Sie heute waren,
-und das erste lautete kurz: »Mund sofort nach Singapore«,
-während das zweite den Text hatte: »Nachricht Mund,
+denselben Chinesen Ma Litu, bei dem Sie heute waren,
+und das erste lautete kurz: »Rinad sofort nach Singapore«,
+während das zweite den Text hatte: »Nachricht Rinad,
 daß es bei Vereinbarung bleibt«. — Wollen Sie mir freundlichst
-erklären, Doktor, woher Sie Ninadingri und Ma
-Litt so gut kennen, wo Sie doch stets behaupteten, noch nie
-im Indien gewesen zu sein?!«
+erklären, Doktor, woher Sie *Rinad*ingri und Ma
+Litu so gut kennen, wo Sie doch stets behaupteten, noch nie
+in Indien gewesen zu sein?!«
 
 Die Falten auf Marbucles Stirn vertieften sich noch.
-»Ich wiederhole,« sagte er sehr laut, »Sie gehen meine
-Privatangelegenheiten gar nichts an, Herr Harsts … gar
-nichts!
+»Ich wiederhole,« sagte er sehr laut, »*Sie* gehen meine
+Privatangelegenheiten gar nichts an, Herr Harst … gar
+nichts!«
 
 Harald stand langsam auf.
 
-Marbucle, entweder Sie geben der Wahrheit die Ehre
-oder … Sie werden wegen Ausführung zur Entführung Frau
+»Marbucle, entweder Sie geben der Wahrheit die Ehre
+oder … Sie werden wegen Anstiftung zur Entführung Frau
 Lyncs verhaftet. Keine Ausflüchte, Mann …! Die Beweise
 gegen Sie genügen überreich. Und — ob Sie Arzt sind, muß
-auch noch nachgeprüft werden. Frau Tonne hat Sie vor
-seit Monaten als Schiffsarzt engagiert, wahrscheinlich ohne
-Ihre Papiere sorgfältig durchzusehen … — Reden Sie?!«
+auch noch nachgeprüft werden. Frau Lync hat Sie vor
+sechs Monaten als Schiffsarzt engagiert, wahrscheinlich ohne
+Ihre Papiere sorgfältig durchzusehen … — Reden Sie!!«
 
 Marbucle lächelte plötzlich … kreuzte wieder die Arme
 über der Brust und entgegnete mit überraschender Ruhe:
 »Lassen Sie mich verhaften! — Ich war im Übrigen daraus
-vorbereitet. Trotzdem, Herr Harst: Ich möchte Sie seit
+vorbereitet. Trotzdem, Herr Harst: Ich möchte Sie jetzt
 <@pagebreak/>
-sozusagen im l!eklen Moment vor einer schwerwiegenden
+sozusagen im letzten Moment vor einer schwerwiegenden
 Entscheidung eindringlich warnen … Das, was hier vorgegangen
 ist, wird erst durch Ihre Einmischung eine trübe
 Wendung nehmen … — So, und nun tun Sie, was
@@ -798,22 +796,22 @@ Sie für richtig halten.«
 
 Harald musterte ihn durchdringend.
 
-Dann sagte er mit einer unverständlichen, fast Felsig«-
-sicher Handbewegung:
+Dann sagte er mit einer unverständlichen, fast versöhnlichen
+Handbewegung:
 
-»Gut, Nachen wir die Sache anders an … Zumal die
-Polizei zurzeit sowohl die Fischerhütte in den Baumöästen
-als aus« Frau Lydia Burns’ Haus und die Spelunke
+»Gut, packen wir die Sache anders an … Zumal die
+Polizei zurzeit sowohl die Fischerhütte in den Baumästen
+als auch Frau Lydia Burns’ Haus und die Spelunke
 des Chinesen durchsucht und Frau Margrit wohl finden
-wird … — Also … später, Marbucle …! Wir komme!!
+wird … — Also … später, Marbucle …! Wir kommen
 auf diese Dinge noch zurück. Sie sind mir ja sicher. Inspektor
 Pemberton ist auf dem Posten.«
 
 Marbucle verbeugte sich leicht … »Dann darf ich also
-gehen … 7?«
+gehen …?«
 
-»Ja … Sie … geben mir viel zu raten auf … Ader
-solche Rätsel reizen ich.«
+»Ja … Sie … geben mir viel zu raten auf … Aber
+solche Rätsel reizen mich.«
 
 Der Doktor verließ die Kabine. —
 
@@ -824,44 +822,44 @@ die ich keine Erklärung fand.
 
 Harald schaltete das Licht aus …
 
-Sagte: »Versuchte zu schlafen, mein Alter … Morgen
+Sagte: »Versuche zu schlafen, mein Alter … Morgen
 werden wir frischer sein. Heute war der Kampf gegen Marbucle
-aussichtslos. Nur eins für die; als Beruhigungsmittel:
+aussichtslos. Nur eins für dich als Beruhigungsmittel:
 Der Doktor ist nicht das, was er zu sein vorgibt. Sein
-Bude! ist unecht. Sein Künstlerschopf desgleichen. Ich weiß
+Buckel ist unecht. Sein Künstlerschopf desgleichen. Ich weiß
 dies längst … — Gute Nacht.«
 
-Das nennt Harst Beruhigungsmittel …!!
+*Das* nennt Harst Beruhigungsmittel …!!
 
 Gewiß, ich schlief ein … Aber erst nach Mitternacht …
-Und der brummende Schade! brannte mir vom fruchtlosen
-Grübeln …«
+Und der brummende Schädel brannte mir vom fruchtlosen
+Grübeln …
 
 <@pagebreak/>
 
-<h2>zk. Kapitel.</h2>
+<h2>4. Kapitel.</h2>
 <h3>Kleine »Enthüllungen«,</h3>
 
 Acht Uhr …
 
-Dickes Gewölk über Kalkutta, aber kein Tropfen Reger.
-befohlen, unnatürlichen Licht liegt die Stadt da … Eine
+Dichtes Gewölk über Kalkutta, aber kein Tropfen Regen.
+In fahlem, unnatürlichem Licht liegt die Stadt da … Eine
 drückende Schwüle treibt uns, die wir, heute ohne Frau
-Morgen, beim Frühstück sitzen, den Schweiß aus allen Poren.
+Margrit, beim Frühstück sitzen, den Schweiß aus allen Poren.
 
 Harold Lync sieht grau und verfallen aus …
 
-Mordsache spielt den Harmlosen. Die Stimmung ist
-geglückt.
+Marbucle spielt den Harmlosen. Die Stimmung ist
+gedrückt.
 
 Uns beiden geht es gut. Harst hat soeben Lync gegenüber
 Betont, daß der heutige Tag zweifellos eine Klärung der
-Angelegenheit bringen werde, —
+Angelegenheit bringen werde, 
 
-Worauf Lync niedergeschlagen meint, die Haussuchungen:
+Worauf Lync niedergeschlagen meint, die Haussuchungen
 der Polizei seien doch ergebnislos verlaufen, und er wüßte
 nicht, was sich an der Sachlage ändern solle, falls die
-Entführer seiner Gattin sie nicht meldeten und ihre Forderungen
+Entführer seiner Gattin sich nicht meldeten und ihre Forderungen
 für deren Freilassung ihm mitteilten.
 
 Er war immer noch des Glaubens, daß hier lediglich
@@ -875,159 +873,159 @@ Frühstück nehmen Schraut und ich die Ermittlungen auf,
 und unser Doktor will uns freundlichst begleiten …«
 
 »Allerdings,« nickte Marbucle und schaute zum Kai
-hinüber, wo beständig über Geheimpolizisten s!Scheinbar als
-müßige Garten umherstanden.
+hinüber, wo beständig vier Geheimpolizisten scheinbar als
+müßige Gaffer umherstanden.
 
 Um neun Uhr fuhren wir drei zum Polizeipalast. Der
 Doktor sprach kein Wort.
 
-Pemberton und der Spiel der Kriminalpolizei empfingen
-uns in einem Verhörzimmer, wo bereits der Fakir Ninadingri,
-der die Chinese Ma Litt und der indische Hausmeister Miß
-Burns’ sowie der Fisch;er von der Flußinsel ebenfalls ans
-geistesabwesend waren.
+Pemberton und der Chef der Kriminalpolizei empfingen
+uns in einem Verhörzimmer, wo bereits der Fakir Rinadingri,
+der die Chinese Ma Litu und der indische Hausmeister Miß
+Burns’ sowie der Fischer von der Flußinsel ebenfalls anwesend
+waren.
 
-Ich kann mich kurz fassen. Der Yogi, der ’Chinese und
+Ich kann mich kurz fassen. Der Yogi, der Chinese und
 der Fischer verweigerten jede Auskunft darüber, was sie mit
-Marbucle zu tun hätten. Der Hausmeister Miß Burnso’
-wieder erklärte, seine Herrin sei zumeist: auf Reisen und
+Marbucle zu tun hätten. Der Hausmeister Miß Burns’
+wieder erklärte, seine Herrin sei zumeist auf Reisen und
 auch jetzt seit zwei Monaten abwesend. Sie hätte ihm nur
-den Befehl erteilt, Doktor Marbucle einen verkrochen
+den Befehl erteilt, Doktor Marbucle einen versiegelten
 Brief zu übergeben, was gestern geschehen sei. Den Brief
 habe der Doktor verbrannt.
 
-Mit einem Wort: Bei dem Verhör kam nicht bis. heraus.
+Mit einem Wort: Bei dem Verhör kam *nichts* heraus.
 
 Die gegen Marbucle vorliegenden Beweise genügten nicht,
-ihn zu verhaften, und gegen den »Fakir, den Chinesen und
-den Hjausmeister ließ sich erst recht nicht vorgehen.
+ihn zu verhaften, und gegen den Fakir, den Chinesen und
+den Hausmeister ließ sich erst recht nicht vorgehen.
 
 Der Doktor hatte im übrigen seine Papiere mitgebracht.
 Sie waren zweifelsfrei. Er war Arzt. Und was seine
-Genüge betraf: er hatte durch; Typhus das Kopfhaar vollständig
-verloren, wie er uns zeigte. — Und der Fackeln!
+Perücke betraf: er hatte durch Typhus das Kopfhaar vollständig
+verloren, wie er uns zeigte. — Und der Buckel?!
 Das war gleichfalls ein Reinfall Haralds …
 
 Der Doktor trug allerdings gepolsterte Westen. Aber
 — — einen Buckel hatte er, und die Polsterung sollte die
-Rückgratverkrümmung lediglich) etwas ausgleichen.
+Rückgratverkrümmung lediglich etwas ausgleichen.
 
-Pemberton, der Chef und ich bitten nach alledem ziemliche
+Pemberton, der Chef und ich blickten nach alledem ziemlich
 <@pagebreak/>
 ratlos drein. Marbucle saß mit gleichgültigster Miene
-da. Der die Chinese grinste dämlich. Der alte Schmierfink
-von stinkendem Yogi und der noch übler. duftende Fischer
-sowie: der Herr Hausmeister taten so, als ob »wir ihnen
+da. Der dicke Chinese grinste dämlich. Der alte Schmierfink
+von stinkendem Yogi und der noch übler duftende Fischer
+sowie der Herr Hausmeister taten so, als ob wir ihnen
 den … Buckel runterrutschen könnten.
 
-Es war einfach; eine Blamage für uns. ’Dabei »hatte
-Harald seinerseits wirklich alles getan, wog nur irgend
-umschloß… am die Sache irgendwie von dem. toten Gleis
-veranusnitschieben; Er hatte:jeden der sachlichen Schäfte einzeln
-ins: Gebet »genommen, »hatte Held versprochen, Straffreiheit,
-hatte mit: tausend Bitten. operiert «…«,
+Es war einfach eine Blamage für uns! Dabei hatte
+Harald seinerseits wirklich alles getan, was nur irgend
+möglich, um die Sache irgendwie von dem toten Gleis
+herauszuschieben. Er hatte jeden der farbigen Schufte einzeln
+ins Gebet genommen, hatte Geld versprochen, Straffreiheit,
+hatte mit tausend Listen operiert …
 
 Umsonst.
 
-— Gegen asiatische Verschlagenheit ist nichts, aufs zurichten.
+Gegen asiatische Verschlagenheit ist nichts auszurichten.
 
-Nun höchsten die Herrschaften wieder auf ihren »Stühlen
-und schauten stumpf vor sich hin … Nun
+Nun hockten die Herrschaften wieder auf ihren Stühlen
+und schauten stumpf vor sich hin.
 
-Palast lehnte ihnen gegenüber … am Tisch … Pemberton
-stand um Fenster, Ich lehnte neben der Tür,
+Harald lehnte ihnen gegenüber am Tisch. Pemberton
+stand am Fenster. Ich lehnte neben der Tür,
 
 Schweigen.
 
 Blamage …
 
-Marbucle betrachtete seine polierten, Fingernägel.
+Marbucle betrachtete seine polierten Fingernägel.
 
-Dich: einsam Male machte Harst vier rasche Schritte
-vorwärts: —
+Mit einsam Male machte Harst vier rasche Schritte
+vorwärts. —
 
-»Gin. Griff.
+Ein Griff …
 
 Ein Schrei …
 
-»Er:hielt des Fakirs Turban. samt euer Zotteiperüe
-in der Hand, und unter dieser Brille. war ein blonden
-dünner europäischer … Scheitel. zum Vorschein bekommen. Den
-Schrei; hatte … Marbucle ausgestoßen. »Es. konnte »auch ein
-halblauten Fluch gewesen. sein …- —
+Er hielt des Fakirs Turban samt einer Zottelperücke
+in der Hand, und unter dieser Brille war ein blonder
+dünner europäischer Scheitel zum Vorschein gekommen. Den
+Schrei hatte Marbucle ausgestoßen. Es konnte auch ein
+halblauter Fluch gewesen sein.
 
-»Harst »lachte …-, In
+Harst lachte …
 
-» Also; … sind. wir »doch einen Schritt. weiter ’Serr Ninadingri,
+»Also sind wir doch einen Schritt weiter … Herr Rinadingri,
 der auch erst vor kurzem hier in Kalkutta aufgetaucht
-Ut… etwa, gleichzeitig. mit. »Miß Burns, eindrang! sich als
-sucht … — Trotzdem — meine Hochachtung, Herr Rinadingri:
+ist, etwa gleichzeitig mit Miß Burns, entpuppt sich als
+unecht … — Trotzdem — meine Hochachtung, Herr Rinadingri:
 <@pagebreak/>
-Ihre Maske war erstklassig, und wenn Sie »nicht
-vergessen hätten; sich in dieser halben Stunde hier wenigstens
+Ihre Maske war erstklassig, und wenn Sie nicht
+vergessen hätten, sich in dieser halben Stunde hier wenigstens
 einmal den Kopf zu kratzen — jeder echte Yogi hat Läuse —,
-würde ic& Ihnen ’wohl niemals hinter Ihre Schliche gekommen
-sein. Bett haben« wir einen Grund, Sie einzusehen.
+würde ich Ihnen wohl niemals hinter Ihre Schliche gekommen
+sein. Jetzt haben wir einen Grund, Sie einzulochen.
 Und das wird geschehen, es sei denn, daß Sie angeben,
 wer Sie sind.«
 
-Der perüenlose Blonde zuckt die Achseln …
+Der perückenlose Blonde zuckt die Achseln …
 
-»Ich habe keine Luft, Kerkerluft zu schlucken,« erklärt
-er in einem Englisch, das unfehlbar: Neuyorker Akzent bat.
-»Meine Aufgabe hier ist im übrigen beendet. Neun Sie
-aus meinem Turban meinen Ausweis verausnehmen wollten,
+»Ich habe keine Lust, Kerkerluft zu schlucken,« erklärt
+er in einem Englisch, das unfehlbar Neuyorker Akzent hat.
+»Meine Aufgabe hier ist im übrigen beendet. Wenn Sie
+aus meinem Turban meinen Ausweis herausnehmen wollten,
 Herr Harst …«
 
 Harald tat’s …
 
-Stadt …
+Stutzt …
 
-… Sagt: »Also Sie sind Agent der Detektei Pinkerton,
-Neutvyorrk, heißen Alltag. Drebb und sind Amerikaner …«
+Sagt: »Also Sie sind Agent der Detektei Pinkerton,
+Neuyork, heißen Allan Drebb und sind Amerikaner …«
 
-»Qo ist’s … freier Amerikaner, den. niemand zwingen
-kann, Zu verraten, was er Geier für seine Firma zu erledigen
+»So ist’s … freier Amerikaner, den niemand zwingen
+kann, Zu verraten, was er hier für seine Firma zu erledigen
 hatte.«
 
-Das. galt dem Kriminalchef, der nun den Ausweis
+Das galt dem Kriminalchef, der nun den Ausweis
 prüfte.
 
-Ich sah) es Harst, an, daß diese Wendung der Dinge
+Ich sah es Harst an, daß diese Wendung der Dinge
 ihm völlig überraschend gekommen war.
 
-Marbucle, jede)… warf Alltag Drebb einen Blick zum,
-der keineswegs freundlich war. Aber — er schwieg.«
+Marbucle, jedoch warf Allan Drebb einen Blick zu,
+der keineswegs freundlich war. Aber — er schwieg.
 
 Der Chef reichte Drebb den Ausweis.
 
-»Ich werde:zu. Pinkerton telegraphieren, Mr. Drebb …
+»Ich werde an Pinkerton telegraphieren, Mr. Drebb …«
 
-»Nichts nötig,« — »und der- Agent deutete auf Marbucle.
-»Mr. ’Marbucle,/« fügte er höflich hinzu, »ich denke, wir
-»Adern die Taktik. Weshalb sollen wir uns einsperren
+»Nicht nötig,« — und der Agent deutete auf Marbucle.
+»Mr. Marbucle,« fügte er höflich hinzu, »ich denke, wir
+ändern die Taktik. Weshalb sollen wir uns einsperren
 lassen!«
 
 Der Doktor nickte widerwillig, knöpfte die Jacke auf
 <@pagebreak/>
-und, holte aus dem Futter … ebenfalls einen Ausweis
+und holte aus dem Futter … ebenfalls einen Ausweis
 Hervor …! …
 
-»Nun gut …« sagte er zu Harst. »Hier … Ihr bin
-Doktor Mordsache, Arzt, Doktor der Medizin, Sohn von
+»Nun gut …« sagte er zu Harst. »Hier … Ich bin
+Doktor Marbucle, Arzt, Doktor der Medizin, Sohn von
 Jones Marbucle, Mitinhaber der Detektei Pinkerton. —
-Bitte …« —«
+Bitte …«
 
 Es … stimmte …
 
-Ich beobachtete ’Sarald … Ich sah, wie seine grauen
+Ich beobachtete Harald … Ich sah, wie seine grauen
 Augen sich einen Moment weiteten, wieder zusammenzogen …
 
 Dann erklärte Marbucle schon in demselben gleichmütigen
 Ton:
 
 »Daß wir Frau Lync nicht entführt haben, brauchen wir
-wohl nicht vorschob zu versichern. Mag wir hier zu tun
+wohl nicht nochmals zu versichern. Was wir hier zu tun
 haben, ist Geschäftsgeheimnis. — Hiermit ist die Sache wohl
 erledigt …«
 
@@ -1035,22 +1033,22 @@ Der Kriminalchef warf Harst einen fragenden Blick zu.
 
 Mein Freund hob die Schultern …
 
-»So habe kein Interesse mehr an diese Herren,« meinte
+»Ich habe kein Interesse mehr an diese Herren,« meinte
 er nur. »Schraut, verabschiedet wir uns … Jetzt …« —
-Pause — »jetzt werden wir … den Lautlos gegen Pinkerton
-und Konto. aufnehmen, Doktor … Und — wir werden
+Pause — »jetzt werden wir … den Kampf gegen Pinkerton
+und Komp. aufnehmen, Doktor … Und — *wir* werden
 siegen, Doktor, wir …!«
 
-»,-.-Was ich bezweifle, Herr Harst «.!!!«
+»… was ich bezweifle, Herr Harst …!!«
 
-—»- So endete das Verhör.
+— So endete das Verhör.
 
 Eine Stunde drauf hatte Marbucle die Jacht verlassen.
-Harold Lync, dem wir jetzt alles erzählt, hatte ihn …
+Harold Lync, dem wir jetzt *alles* erzählt, hatte ihn …
 hinauskomplimentiert.
 
 Und hiermit müßte eigentlich schon der zweite Teil
-dieses Abenteuers beginnen. Ader meine Leser sind nun
+dieses Abenteuers beginnen. Aber meine Leser sind nun
 einmal daran gewöhnt, daß jeder Harstband säuberlich nach
 Seitenzahl in zwei gleiche Teile zerfällt …
 
@@ -1061,13 +1059,16 @@ Also …
 <h2>5. Kapitel.</h2>
 <h3>Große »Enthüllungen.</h3>
 
-Lieber Harold,
-sorge Dich nicht um mich.:Man behandelt mich gut.
-Man verlangte von mir eine Million Lösegeld. War
-werden sie zahlen. Du erhältst Form nähere Mauerfuge:«
-von mir. Werde nicht unschuldig, Zur Beunruhigung
-liegt keinerlei Grund vor. — In treuer Liebe …
-Deine Margrit.
+<p class="centered">Lieber Harold,</p>
+
+> sorge Dich nicht um mich. Man behandelt mich gut.
+Man verlangte von mir eine Million Lösegeld. Wir
+werden sie zahlen. Du erhältst noch nähere Anweisungen
+von mir. Werde nicht ungeduldig. Zur Beunruhigung
+liegt keinerlei Grund vor. — In treuer Liebe
+
+<p class="right">Deine Margrit.</p>
+
 Dieser Brief wurde eine Stunde nach Marbucles Abzug
 im Salon auf der Anrichte von dem Steward Konnten
 gefunden.
@@ -1441,7 +1442,7 @@ zarte Braut. Weinend entwirft sie vor Seit ein Bild
 von dem trefflichen Charakter des Geliebten. Sie glaubt
 an ihn. Tagelang währt der Prozeß. Es geht um Leben
 oder Tod. Deckel Morde soll Burns verübt haben. Die
-Geshworenenbank ist für ihn sehr ungünstig zuUsammens
+Geschworenenbank ist für ihn sehr ungünstig zuUsammens
 gesetzt. Man wittert Verurteilung. Ein paar Hehler wollen
 zumindest seine Stimme wied’rerkennen. In seinem Garten.
 bat man in einem hohlen B- ums falsche Bärte, Perücken,
@@ -1768,7 +1769,7 @@ denken, hoben jetzt sogar durch die voreilige Verhaftung
 des Boten eine noch) ungünstigere Wendung genommen.
 Zugegeben, daß Sie verpflichtet sind, die Kerle um jeden
 Preis zu ermitteln. Aber — wollen Sie wirklich) die ungeheure
-Verantwortung auf litt laden, daß Frau Lync von der
+Verantwortung auf Litu laden, daß Frau Lync von der
 Bande … getötet wird?!«
 
 — »Die Verantwortung Übernehme ich,« erklärte der Inspektor
