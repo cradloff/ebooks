@@ -156,7 +156,7 @@ brauche ich hier nicht zu erwähnen.
 
 Jedenfalls war er fest davon überzeugt, daß die Vorgänge
 auf der Sträflingsinsel tatsächlich so sich abgespielt hätten,
-wie er es von seinen Vorgesetzten, dem Marineminister,
+wie er es von seinem Vorgesetzten, dem Marineminister,
 erfahren.
 
 Was Harald davon hielt: Wir hörten es erst weit
@@ -173,7 +173,7 @@ Frau Gulbranoor, deren Zofe und Diener nach Hamburg.
 Um neun Uhr abends gingen wir an Bord der »Ohio«.
 — Wir kennen die verschiedensten Luxusjachten. Die Ohio
 übertraf an raffinierter Aufmachung alle anderen. Man
-stelle sich ein hochmodernes Motorschiff von siebzig Meer
+stelle sich ein hochmodernes Motorschiff von siebzig Meter
 Länge, 21 Knoten Höchstgeschwindigkeit und zauberhaften
 Salons vor … Man stelle sich Miß »Margrit« vor (in
 Wahrheit war sie nur eine politische Agentin namens Angela
@@ -229,7 +229,7 @@ Ich blickte Angela Rossi an … Sie grinste höhnisch …
 Und da ging die Zunge mit mir durch. Auch ein Mensch
 mit einem Spitzbauch hat zuweilen Temperament.
 
-»Bilden Sie sie nicht ein, daß wir Sie nicht längst
+»Bilden Sie sich nicht ein, daß wir Sie nicht längst
 richtig eingeschätzt haben!« fuhr ich sie grimmig an … »Sie
 sind Agentin, nicht aber … eine Dame!«
 
@@ -267,7 +267,7 @@ Aber dazu kam es nicht.
 Wir hatten bisher geglaubt, in der Kapitänskajüte
 allein zu sein.
 
-Ein. Irrtum …!!
+Ein Irrtum …!!
 
 Wir waren allein …
 
@@ -372,6 +372,8 @@ Da schaute er mich von der Seite an, lächelte.
 
 »Und du — — weißt, wer es ist?«
 
+»Ja.«
+
 »Also … wer?!«
 
 »Der Mann ist’s, der einzig und allein … es sein
@@ -380,7 +382,7 @@ kann.«
 »Danke!! Das ist mir zu orakelhaft.«
 
 Er zog sein goldenes Etui hervor … »Bediene dich …
-Und und ein ander Gesicht. Wenn ich dir jetzt den Namen
+Und mach’ ein ander Gesicht. Wenn ich dir jetzt den Namen
 nennen würde, würde ich dich um die … tollste aller je
 erlebten Überraschungen bringen.«
 
@@ -453,7 +455,7 @@ Satan mag wissen, welcher Name Ihnen gebührt. Und tun
 Sie doch nicht so, als ob Sie den Mann, der den minderwertigen
 Scherz mit dem Lautsprecher sich leistet, nicht kennen!
 Sie müssen uns beiden doch nicht mit derartigen Faxen
-Kommen!«
+kommen!«
 
 Mr. Thomas Gulgy verbeugte sich kalt. »Ich verarge
 Ihnen Ihre Erregung nicht weiter, Mr. Schraut, bemerke
@@ -589,8 +591,8 @@ weiter mitmachen will, kann mir niemand verargen. — Also
 um zwölf, mein Alter … In meiner Kabine mündet der
 große Ventilator. Ich werde das Schutzgitter losschrauben.
 Das Ventilatorrohr hat sicherlich innen Steigwinkel. So
-Kommen wir ganz unsichtbar an Deck. Aus dem Rohr
-Können wir unschwer auf die Motorpinasse klettern. Dort
+kommen wir ganz unsichtbar an Deck. Aus dem Rohr
+können wir unschwer auf die Motorpinasse klettern. Dort
 sind wir sicher, von dort können wir weiter. — Auf Wiedersehen
 …«
 
@@ -640,6 +642,8 @@ die Clement und einen Leuchtstab steckte ich noch zu mir …
 Dann schlüpfte auch Harald schon herein.
 
 »Fertig?«
+
+»Ja …«
 
 »Alles mit?«
 
@@ -811,7 +815,7 @@ und diese Stelle mußte auf Astadura liegen. Sieh’ hier die
 Karten, die der Matrose herstellte … — Hier ist der Hafen V.,
 hier auf der andern ein Inselchen, nördlich davon ein zweites.
 Legst du die Karten so aneinander, wie ich es jetzt tue, dann
-Bemerkst du, daß dieser feine Strich, der scheinbar ein Breitengrad
+bemerkst du, daß dieser feine Strich, der scheinbar ein Breitengrad
 ist, genau von V. nach der zweiten Insel läuft.«
 
 »Bravo!!« Und das kam bei mir aus ehrlichem Herzen.
@@ -872,7 +876,7 @@ auf die Jacht zurück.
 Zwei Uhr fünfzehn Minuten: Essen im Salon! Wie
 stets … Und doch anders. Ich schwärmte von der Insel …
 Alles, was die Tropen an Herrlichkeiten bieten, war hier
-ja vereint. — Harst aber: still, insichgekehrt … Sie er plötzlich
+ja vereint. — Harst aber: still, insichgekehrt … Bis er plötzlich
 zu Gulgy sagte: »Kapitän, es wird Zeit, daß ich mit dem
 Kommandanten spreche. Ich möchte dies in Gegenwart der
 Sennorita Rossi tun. Wann könnten wir vor dem Lautsprecher
@@ -1049,7 +1053,7 @@ unheimlich einsam, unfruchtbar, öde, eine Stätte trübster
 Verlassenheit.
 
 Wir kehrten schweigend zum Strande zurück. Lync war
-ehrlich genug zu erklären, daß es wohl ein Zweckloses Beginnen
+ehrlich genug zu erklären, daß es wohl ein zweckloses Beginnen
 sein würde, hier nach der Goldfundstelle zu suchen.
 Als wir den Buschstreifen durchquerten, blieb Harald in
 einer kleinen Lichtung stehen und meinte zu Lync: »Ich schlage
@@ -1061,7 +1065,7 @@ Daß die letzte Bemerkung allseits mit höchstem Erstaunen
 aufgenommen wurde — kein Wunder! Und daß
 Harst sich auf weitere Erklärungen nicht einließ, ist ebenso
 selbstverständlich. Er vertröstete die Neugierigen auf morgen.
-— Gleich darauf lagen wir beide allein im warmem Sande
+— Gleich darauf lagen wir beide allein im warmen Sande
 der Lichtung auf weichen Graslagern, verzehrten als Abendimbiß
 ein paar Kokosnüsse und hüteten uns, das Gebüsch
 zu verlassen. Harald hatte mir erklärt, daß er auf dem Wege

@@ -74,7 +74,7 @@ nahm die Richtung auf uns zu, und als jetzt einer der
 drei Männer sich erhob und ein Fernglas an die Augen
 führte, duckte der Fremde sich hinter unserem Boot zusammen
 und sagte in ziemlich fließendem Deutsch: »Herr
-Harst, im bin nicht zufällig hierher gekommen. Ich wußte,
+Harst, ich bin nicht zufällig hierher gekommen. Ich wußte,
 daß Sie beide hier angelten. Bitte verbergen Sie mich in
 Ihrem Boot unter Ihren Mänteln und Rucksäcken. Ich
 muß die Leute dort in dem Motorboot von meiner Spur
@@ -218,7 +218,7 @@ verdanken, der ohne Zweifel nach wohlvorbereitetem Plane
 handelte, denn er war ja genau es gekleidet wie Sie und
 auch sein Paddelkahn hatte dieselbe Farbe. Der Mann hatte
 fraglos ein Auto drüben auf der Chaussee bereitstehen.
-Anders wäre er kaum entwischt. — Setzten Sie sich nur
+Anders wäre er kaum entwischt. — Setzen Sie sich nur
 dorthin, Mr. Lync … Die liebe Sonne wird Ihre Unterpartie
 schon trocknen. Und falls Sie etwas essen oder trinken
 oder rauchen wollen: wir sind gut versehen! Es ist jetzt auch
@@ -427,7 +427,7 @@ Fremden, der Ihre Verfolger so schlau hinter sich her lockte,
 gründlichst auf den Zahn fühlen. Alle Erörterungen über
 die Sache selbst, die ja doch in blasser Theorie stecken bleiben
 würden, da der Fall wohl absichtlich von jener Regierung
-auch Ihnen entstellt mitgeteilt worden ist, wären maßlos,
+auch Ihnen entstellt mitgeteilt worden ist, wären nutzlos,
 wenn wir nicht zuvor hier in Berlin sowohl mit Ihren drei
 Aufpassern als auch besonders mit diesem vierten Manne
 sozusagen endgültig aufräumen wollten. — Ein paar Fragen,
@@ -671,7 +671,7 @@ feine Räder, gut geölt, spielend leichter Gang …
 
 Und wir gondelten zum Alex.
 
-Platten in Freund Lückes Dienstzimmer hinein, Hochstaplerdezernat
+Platzten in Freund Lückes Dienstzimmer hinein, Hochstaplerdezernat
 …
 
 »Lücke, Sie müssen uns beistehen!«
@@ -831,7 +831,7 @@ vor den schicken 120 Millionen an meiner Seite.
 
 Lift — — nach oben …
 
-Salon … Oh: fürstlich!! — Pardon: Künstlich — das
+Salon … Oh: fürstlich!! — Pardon: Fürstlich — das
 war mal ein Begriff. Heute muß man sagen: Wie bei
 einem Staatspräsidenten mit Geschmack!
 
@@ -1133,7 +1133,7 @@ zum Verhängnis geworden. Er war in drei Teile zerplatzt
 und zeigte das, was man bei lebenden Gents nur vermuten
 kann: Hier ward es offenbar — ein *Hohl*kopf war’s!
 
-Kaum hatte sie das Gelächter unserer Laubenfreunde beruhigt,
+Kaum hatte sich das Gelächter unserer Laubenfreunde beruhigt,
 als Vater Barfutzki, der von seiner Zigarre ebenso
 <@pagebreak/>
 unzertrennlich war, wie von einem uralten zerlöcherten
