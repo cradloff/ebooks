@@ -1057,7 +1057,7 @@ Also …
 <@pagebreak/>
 
 <h2>5. Kapitel.</h2>
-<h3>Große »Enthüllungen.</h3>
+<h3>Große »Enthüllungen«.</h3>
 
 <p class="centered">Lieber Harold,</p>
 
@@ -1070,139 +1070,151 @@ liegt keinerlei Grund vor. — In treuer Liebe
 <p class="right">Deine Margrit.</p>
 
 Dieser Brief wurde eine Stunde nach Marbucles Abzug
-im Salon auf der Anrichte von dem Steward Konnten
+im Salon auf der Anrichte von dem Steward Tompson
 gefunden.
+
 Wie der Brief dorthin gelangt, blieb ein Rätsel — vorläufig
+
 Aber diese zweifellos von Frau Lyncs Hand stammenden
 Zeilen klärten die Lage.
+
 »Also doch Erpressung!« sagte Harold Lync strahlend,
 als er uns den Brief ins Lesezimmer brachte …
-»und ob!« Kiste sein halber Namensgsvetter Harald. »Goa
-düstere, lieber Lync .,! Von Herzen sogar, Die eine Million
+
+»und ob!« nickte sein halber Namensvetter Harald. »Gratuliere,
+lieber Lync ...! Von Herzen sogar. Die eine Million
 werden Sie verschmerzen.«
+
 »Mit Freuden!«
-Und wieder eine Stunde drauf kam von Pemberton Ei«
-Nachricht, daß Marbucle und Drebb sich auf dem Danny::er
+
+Und wieder eine Stunde drauf kam von Pemberton die
+Nachricht, daß Marbucle und Drebb sich auf dem Dampfer
 <@pagebreak/>
 »Nelson«, der alle fünf Tage nach Singapore abgeht, eingeschifft
-hätten — samt ihren Koffern, begleitet von Na Hin,
+hätten — samt ihren Koffern, begleitet von Ma Litu,
 der sich herzlichst an der Anlegebrücke von ihnen verabschiedet
-und ihnen noch nachgwin?! hätte …
+und ihnen noch nachgewinkt hätte …
 
 Diese Nachricht übermittelte uns ein brauner Detektiv,
 ein junger schlanker Mensch, den Harst dann fragte, wann
 der Nelson abgefahren sei.
 
 »Soeben …« erklärte Mahmud Sindra, »Soeben, Sahib
-Harst …
+Harst …"
 
-»Dann — im Vertrauen, Sindra — nimm ein Morgen
-Boot und falschen. Nelson  unauffällig …
+»Dann — im Vertrauen, Sindra — nimm ein Motor-
+Boot und folge dem Nelson  unauffällig …"
 
 Der Inder schmunzelte …
 
-»Gib, die beiden werden bald ’den Nelson verlassen?«
+»Sahib, die beiden werden bald den Nelson verlassen?«
 
-— —« Noch vor der Huglimündung … ».Beeile dich …
-Hier »paßt. du. Geld … Und sei klug.«
+"Ja ... Noch vor der Huglimündung … Beeile dich …
+Hier hast du Geld … Und sei klug.«
 
-Der Kampf: gegen Pinkerton hatte begonnen.
+Der Kampf gegen Pinkerton hatte begonnen.
 
 Sindra verschwand,
 
-Wir hatten ihn in ’ Haralds Kabine empfangen. Wie
+Wir hatten ihn in Haralds Kabine empfangen. Wir
 hatten in Liegestühlen gefaulenzt … Harst hatte ungezählte
-Mirakulum ’verqualmt, und. ich … hatte Gesicht wißt und ge
-stöhnt und »mich über ihn greulich« geärgert,:weil … er absolut
+Mirakulum verqualmt, und ich … hatte geschwitzt und ge-
+stöhnt und mich über ihn greulich geärgert, weil er absolut
 nicht zum Reden zu bringen war.
 
-»Jetzt allerdings — jetzt war im nicht mehr abzustützen.
+Jetzt allerdings — jetzt war im nicht mehr abzutrösten.
 
-z- agfaralbde —
+"Harald!!"
 
-»Dein Alter 25 8«
+»Mein Alter ...?«
 
-Ad
+"Möchtest du nun endlich so freundlich sein und mir
+sagen, wie die Dinge liegen?«
 
-jagen, wie die Dinge liegen er«
-»Gern … Ei
-»volle« bitte …
-»Tore zu … »Kehren Lync hatte den Brief;.den jetzt
-der Steward fand,!Goa hier an Lord geschrieben.«-
-3Y. fuhr hoch …
+»Gern …"
 
-»Schon — hier — —« an Bord?«
+»Also bitte …"
+
+»Höre zu … Frau Lync hatte den Brief, den jetzt
+der Steward fand, schon hier an Bord geschrieben.«
+
+Ich fuhr hoch …
+
+»Schon — hier — — an Bord?«
 
 <@pagebreak/>
-»Ja. Ich war auf den sie vorbereitet. Ich weiß sogar,
-wie der nächste lauten wird …
+»Ja. Ich war auf den Brief vorbereitet. Ich weiß sogar,
+wie der nächste lauten wird …"
 
-»Veraltet du mich?!«
+»Verulkst du mich?!«
 
-»Feine&öwegs. »Ich habe mir erlaubt, »Frau.! Morgens
-kleinen Damensalon zu besichtigen. Dort steht. »bekanntlich
-ein kleiner »Schreibtisch …
+»Keineswegs. Ich habe mir erlaubt, Frau Margrits
+kleinen Damensalon zu besichtigen. Dort steht bekanntlich
+ein kleiner Schreibtisch …"
 
-»Ja … Und — willst du mir etwa erzählen; »daß. du
+»Ja … Und — willst du mir etwa erzählen, daß du
 nach alter billiger Methode phantasieloser Kriminalschriftsteller
 dort auf der Löschblattunterlage in Spiegelschrift die
-Akteur der Briefe fandest?«
+Abdrücke der Briefe fandest?«
 
-Nein, lieber Max Schraut, »das will ich: keineswegs.
+"Nein, lieber Max Schraut, das will ich keineswegs.
 So leicht hat mir Frau Margrit die Sache doch nicht
-gewinnt. Zunächst hat der Schreibtisch eine Marmorplatte,
-Beine Unterlage darauf, nur ein silberner Löscher. Und
-dann — die kleine niedliche ’Frau ist viel zu gerissen, um
-so grobe Fehler zu machen. — Die — Geschichte ist so …
+gemacht. Zunächst hat der Schreibtisch eine Marmorplatte,
+keine Unterlage darauf, nur ein silberner Löscher. Und
+dann — die kleine niedliche Frau ist viel zu gerissen, um
+so grobe Fehler zu machen. — Die Geschichte ist so …
 Der Schreibtisch ist altfranzösische echte Arbeit, Rokoko …
 Und damals war es Brauch, in so kostbare geschnitzte Möbel
 Geheimfächer aller Art einzubauen, Spielereien geistreichster
-Erfindungsgabe. Ich bin auf sollte Dinge geeicht. Die
-Marmorplatte, scheinbar fest eingelassen, ließ ein drehen.
+Erfindungsgabe. Ich bin auf solche Dinge geeicht. Die
+Marmorplatte, scheinbar fest eingelassen, ließ sich drehen.
 Wie ich den Kniff herausfand, ist gleichgültig. In dem Versteck
-!lagen drei ’Briefentwürfe, vier ’: Briefe, Stiche Photographie
-und … ein Poesiealbum. — Wenn … du … deine
+lagen drei Briefentwürfe, vier Briefe, eine Photographie
+und … ein Poesiealbum. — Wenn du deine
 müden Knochen freundlichst zu deiner Entfettung in jene
-Sie zu meinem Koffer bemühen willst … Hier ist der
-Patentschlüssel … In dem Geheimfach an der Seite- liegt
-alles, was ich aus dem Schreibtisch heute früh € an: ck: mich nahm.
-Du wirst deine Freude- daran haben … Mr mich
+Ecke zu meinem Koffer bemühen willst … Hier ist der
+Patentschlüssel … In dem Geheimfach an der Seite liegt
+alles, was ich aus dem Schreibtisch heute früh an mich nahm.
+Du wirst deine Freude daran haben …"
 
-Freude?! wie «: 1:8.
+Freude?!
 
 Also: drei Briefentwürfe …
 
--Den ersten kennt der Leser schon. Er!eitel dieses »Kapitel
-on. noch Co«
+Den ersten kennt der Leser schon. Er leitet dieses Kapitel
+ein.
 
 <@pagebreak/>
 Der zweite:
 
-Lieber, guter Harold,
-die Leute, bei denen ich mehr Gast als Gefangene bin,
-wollen Durchgang, daß die Million an sie in Bombay
-bezahlt wird. Schweige der Polizei gegenüber. — Jahre
-mit der Ohio getrost nach Bombay. Dort weiteres, —
+<p class="centered">Lieber, guter Harold,</p>
+
+> die Leute, bei denen ich mehr Gast als Gefangene bin,
+wollen durchaus, daß die Million an sie in Bombay
+bezahlt wird. Schweige der Polizei gegenüber. — Fahre
+mit der Ohio getrost nach Bombay. Dort weiteres. —
 Ich küsse Dich innig. — — Deine Margrit.
 
 Der dritte:
-Mein lieber Harold,
-beschaffe die Million in englischen Banknoten und händige
+
+<p class="centered">Mein lieber Harold,</p>
+
+> beschaffe die Million in englischen Banknoten und händige
 sie dem Manne aus, der Dir auf der Straße einen altindischen
-Holte zum Kauf anbieten wird. Auf keinen
+Dolch zum Kauf anbieten wird. Auf keinen
 Fall zeige Harst dieses Schreiben. Er würde uns nur
-wSngelegcitheiten bereiten. — Wir geht es glänzend. Ich
-jene mich unaussprechlich nach Dir. Bald hast Du mich
-wieder, — Deine kleine verliebte Margrit.
+Ungelegenheiten bereiten. — Mir geht es glänzend. Ich
+sehne mich unaussprechlich nach Dir. Bald hast Du mich
+wieder. — Deine kleine verliebte &nbsp; &nbsp; Margrit.
 
 — Was an diesen Entwürfen bemerkenswert war: Frau Lync
-vor!!2 sie mit Bleistift geschrieben, aber eine Männerhand
-Bette den Text geändert.
+hatte sie mit Bleistift geschrieben, aber eine Männerhand
+hatte den Text geändert.
 
-Und — diese Männerhandschrift war die Doktor
-Marbucles!!
+Und — diese Männerhandschrift war *die Doktor
+Marbucles!!*
 
-… Ich konnte dazu nur den Kopf schütteln …
+Ich konnte dazu nur den Kopf schütteln …
 
 Wohl mit Recht …
 
@@ -1213,27 +1225,28 @@ Margrit engagiert worden …«
 
 Ich behielt den Mund offen …
 
-»Flapp’ zu — es zieht! — Hielt dir jetzt die Photographie
+»Klapp’ zu — es zieht! — Sieh’ dir jetzt die Photographie
 an …«
 
 <@pagebreak/>
 Nun — das Bild stellte Margrit dar … wohl als ganz
+junges Mädchen.
 
-aus Mädchen.
-— »Marsch!!« sagte ich …
+»Margrit!« sagte *ich* …
 
-sagte: «
+*Er* sagte:
 
-»Dreh’s um!’
+»Dreh’s um!"
 
 Ich tat’s … Und las …
 
 Las …
 
-Meiner inniggeliebten
-» Zwillingsschwester Margrit!
-Neuyork, 18. April 1922.
-Lydia Sellerhoop-Burns.
+<p class="centered pre">Meiner inniggeliebten
+Zwillingsschwester Margrit!</p>
+
+<p class="right pre">Neuyork, 18. April 1922.
+Lydia Sellerhoop-Burns.</p>
 
 »Lydia … Burns …« stammelte ich …
 
@@ -1243,12 +1256,12 @@ sind sie nicht.«
 — Mit diesen Briefen beginne ich, hoffentlich zur Freude
 meiner Leser, den zweiten Teil …
 
-<@pagebreak/>
+<@pagebreak 34/>
 
 <h1>Joe Burns’ Verbrechen.</h1>
 
 <h2>1. Kapitel.</h2>
-<h3>Rubrik.</h3>
+<h3>Rückblick.</h3>
 
 … Daß Leben dichtet hundertfach phantastischere Romane
 als ein Grribifax am Schreibtisch …
