@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">fa56b500-a6df-4dcd-b0de-51334918e180</entry>
+<entry key="title">Bedingt begnadigt</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">222</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Bedingt begnadigt.
+
+Am 22. März 192… stand auch in hiesigen Blättern zu lesen:
+
+Der Mordprozeß Harold Lync fand gestern seinen Abschluß.  Lync ist trotz des recht fadenscheinigen Indizienbeweises zum Tode verurteilt worden. Den ganzen Umständen nach dürften weder eine Revision noch ein Gnadengesuch Erfolg haben.
+
+— Am 22. Mai desselben Jahres saßen wir beide, mein Freund Harst und ich, in unserem Angelkahn unweit von Kladow mitten im Schilf und angelten Rotfedern, bekanntlich eine Art Plötze, die gern im Röhricht sich aufhalten und besonders gut auf Teig als Köder beißen.
+
+Die Insel.
+
+Es ist eine gute Taktik bei einer wichtigen und zugleich peinlichen Unterredung, den anderen Teil »auf Wartegeld zu setzen«, d. h. nicht selbst die Aussprache zu beginnen.  Ich kann diese Taktik besonders solchen Leuten empfehlen, die wenig schlagfertig sind. — Harst war und ist stets Anhänger dieser Methode, den Gegner durch eisiges Schweigen nervös zu machen.
+
+Sennor Granville schien zunächst dieselbe Methode anwenden zu wollen. Aber als Harst und ich ihm stumm wie die Ölgötzen gegenübersaßen und Minute um Minute verrann, ohne daß wir dem kleinen Kerl den Gefallen taten, irgend etwas zu fragen oder zu sagen, platzte er schließlich heraus:
+
+»Die Herren ahnen wohl, weshalb ich komme …«
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (222) Bedingt begnadigt.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1928</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
