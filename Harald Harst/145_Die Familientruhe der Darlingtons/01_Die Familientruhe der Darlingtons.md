@@ -20,7 +20,7 @@ so vollständig in Dunkel gehüllt wie dieses, das ich hier
 nun schildern will. —
 
 Meine Freunde und Leser haben uns im vorigen Band
-nach den Fär-Oer-Inseln begleitet gehabt, wo eine uralte
+nach den Fär-Öer-Inseln begleitet gehabt, wo eine uralte
 Sage vom Wikingerkönig Frithjof neues modernes Leben
 gewann, wo »Das geheimnisvolle Floß« sich als nichts anderes
 entpuppte wie Harald dies vermutet: großzügiger Raub,
@@ -32,7 +32,7 @@ Schotten, von dem wir den großen Motorkutter gemietet
 hatten.
 
 <@pagebreak/>
-Als wir nun die Fär-Oer-Inseln wieder verließen und
+Als wir nun die Fär-Öer-Inseln wieder verließen und
 nach Edinbourgh zurückkehrten, erzählte uns Learat die Geschichte
 des Darlington-Stammschlosses, uns dreien … Der
 dritte war der Landsmann Winfried von Rutar, Kollege von
@@ -49,9 +49,9 @@ einem burgähnlichen Schloß, das im nördlichen Schottland
 mitten im Braby-Hochmoor auf einem einzelnen Felsrücken
 sich erhebt.
 
-Im Jahre 1928 hatte Learat diesen Onkel dort besucht,
+Im Jahre 1924 hatte Learat diesen Onkel dort besucht,
 weil er sich nach einer schweren Lungenentzündung einige
-Wochen in anderer Luft erholen sollte …
+Wochen in anderer Luft erholen sollte.
 
 Seinen Oheim hatte er seit fünf Jahren nicht gesehen.
 Der empfing ihn wortkarg und fast unfreundlich, erklärte
@@ -88,7 +88,7 @@ Tage seiner Anwesenheit wagte er den finsteren Alten zu
 fragen, weshalb die Tiere die Nacht im Schlosse zubringen
 müßten. John erwiderte kurz, das gehe den Neffen gar
 nichts an … Er solle sich nicht um Dinge kümmern, die
-»traurig genug seien,« — so drückte er sich wörtlich aus. —
+»traurig genug seien«, — so drückte er sich wörtlich aus. —
 
 Unser Kutterbesitzer pflegte nun bei offenen Fenstern zu
 schlafen. Die beiden Fenster seines Zimmers im Gästehaus
@@ -276,7 +276,7 @@ Rucksäcke, über die noch je eine Klappstaffelei und ein
 Zeichenbrett geschnallt waren.
 
 Man sah es den beiden auch sonst schon von weitem
-an, daß sie zur Zunft der Maler gehörten … jener Maler, die
+an, daß sie zur Zunft der Maler gehörten … Jener Maler, die
 selbst in England noch das Haar genial lang wachsen lassen,
 wehende Krawatten und weiche Kragen lieben und zumeist an
 einem Überfluß an Mangel an Geld leiden …
@@ -294,8 +294,8 @@ in Braby noch mitgeteilt hatte, daß die Männer und die
 meisten Weiber und Kinder des Stammes jetzt wie stets
 auf der Sommerwanderung begriffen seien.
 
-Aus der offenen, aber mit einem Zeugfetzen verborgenen
-Tür der elenden Stallhütte trat jetzt Manuela hervor …
+Aus der offenen, aber mit einem Zeugfetzen verhangenen
+Tür der elenden Torfhütte trat jetzt Manuela hervor …
 
 Wir staunten …
 
@@ -362,7 +362,7 @@ Das erfuhren wir nun, als die junge Zigeunerin der
 Alten zurief:
 
 »Wenn die Herren Maler sind, — — man könnte es
-wohl tun …« …
+wohl tun …«
 
 Das bedeutete doch nur: »Maler sind harmlos …
 Mit denen darf man eine Ausnahme machen …«
@@ -432,17 +432,17 @@ platzte heraus:
 Vater mal gekauft hat …«
 
 »So … so …,« nickte Harald. »Und nun könnten Sie
-uns unser Quartier zeigen, Manuelita …« Er lächelte
+uns unser Quartier zeigen, Manuelita …« — Er lächelte
 sie an …
 
 Weiß der Teufel: er ist eben in allen Sätteln fest, auch
 als Liebhaber, als Don Juan … Und dabei hat es doch
 nur ein einziges Mädchen in seinem Leben gegeben, die sein
 kühles Herz je mit der zarten Wärme wahrer Liebe erfüllte:
-seine Braut, die ihm durch Mörderhand entrissen wurde!
+seine Braut, die ihm durch Mörderhand entrissen wurde! —
 Harsts Freunde und Verehrer, die vielleicht den Anlaß zu
 seinem Berufswechsel nicht kennen, mache ich auf den ersten
-Band »Zwei Taschentücher« hiermit aufmerksam.
+Band »Zwei Taschentücher« hiermit aufmerksam. —
 
 Harald lächelte … Und Manuela wurde wieder sicherer
 und kecker, erhob sich, erwiderte das Lächeln und meinte:
@@ -481,7 +481,7 @@ Harst rieb sich die Hände …
 Bitte — bringen Sie uns einen Besen und einen Scheuerlappen
 …«
 
-»Oh — die Großmutter wird hier aufräumen … wenn
+»Oh — die Großmutter wird hier aufräumen, … wenn
 die Herren ihr eine Kleinigkeit zahlen …«
 
 Die holde Manuela verschwand.
@@ -534,6 +534,7 @@ Und im gleichen Augenblick von ferne Manuelas gellende
 Stimme …
 
 Die Frau machte hastig kehrt, lief am Fenster vorüber.
+
 Leider waren die Fensterscheiben derart schmutzig, daß
 man unmöglich hindurchschauen konnte …
 
@@ -672,8 +673,7 @@ wenn wir erst festgestellt haben werden, ob die Frau mit
 dem Federhut und dem Stecken in der Hand häufiger in
 das Schloß eindringt und die Hunde förmlich zur Raserei
 bringt, ohne daß sie ihr etwas antun können, — nur dann
-werde ich behaupten: die Frau *sucht* dort etwas im Schlosse!
-
+werde ich behaupten: die Frau *sucht* dort etwas im Schlosse! —
 Jetzt aber wollen wir uns hier in den Büschen mal
 einen Strauchbesen herstellen und dann die Säuberung unseres
 Ziegenstalles beginnen. Die süße Manuelita hat die
@@ -724,13 +724,13 @@ liebe Manuelita? Auch aus der Truhe …?!«
 ereiferte sie sich. »Ich kann’s beschwören, Herr …!«
 
 »Das muß ja eine mächtige Truhe gewesen sein,
-Manuelita … besitzt Ihr Vater sie noch? … Ich möchte sie
+Manuelita … Besitzt Ihr Vater sie noch …? Ich möchte sie
 mir gern ansehen … Wir Maler haben für Kunstwerke
 jeder Art Interesse …«
 
 Manuela wandte den Kopf vom Lichte weg …
 
-»Nein, der Vater hat sie wieder verkauft …« meinte sie
+»Nein, der Vater hat sie wieder verkauft …,« meinte sie
 achselzuckend … »Sie war sehr reich geschnitzt und …«
 
 »An wen verkauft? Vielleicht an Lord Percy Darlington?«
@@ -744,7 +744,7 @@ Naturkind, sie war einem Harst in keiner Weise gewachsen
 zu beherrschen, vorschnell mit der Zunge.
 
 <@pagebreak/>
-»Sie … Sie waren im Schloß, Herr …« stieß sie
+»Sie … Sie waren im Schloß, Herr …?« stieß sie
 hervor …
 
 Harald nickte … »Ja, Manuelita … Aber natürlich
@@ -874,7 +874,7 @@ nach einer Ausrede suchte …
 half Harald ihr geschickt … »Gehört er vielleicht der Händlerin
 aus dem Dorfe …?!«
 
-»Ja — … gewiß, Herr, — der Händlerin …!«
+»Ja — ja … gewiß, Herr, — der Händlerin …!«
 
 Sie war froh, dies bestätigen zu können … Wenn sie
 »gewiß« sagte, log sie stets …
@@ -921,7 +921,7 @@ können wir vielleicht mancherlei erfahren …«
 »Hm — etwas gefährlich …!«
 
 »Bitte — die drei Hunde sind ja nachts im Schlosse
-eingesperrt … Und — wir zwei und der alte Mann …!«
+eingesperrt … Und — wir zwei und der alte Mann …?!«
 
 »Allerdings …« — Und doch war mir nicht ganz
 wohl bei dem Gedanken an diesen Ausflug … —
@@ -986,7 +986,7 @@ und Ziegen … Ein Feuer brannte … Zwei der alten
 Zigeunerweiber und Manuela hockten an diesem Feuer …
 
 Harst und ich beschauten das Bild vom Fenster aus …
-Harald flüsterte: »Du — das ist Absicht …!! Das ist …
+Harald flüsterte: »Du — das ist Absicht …! Das ist …
 Bewachung!! Merkst Du: man traut uns nicht! Wir
 haben Manuela doch unterschätzt …! Oder — die Frau hat
 dies veranlaßt, die Frau, die hier bei den Zigeunern heimlich
@@ -1046,9 +1046,9 @@ hervor …
 — — Spitzen!! Das trägt keine einfache Frau …!
 <@pagebreak/>
 Das ist eine Dame — — die »Frau« … — Dame! —
-Und hier — — ein Stückchen Polierstein für Fingernägel!
+Und hier — — ein Stückchen Polierstein für Fingernägel!! —
 Schraut, Schraut, — »die Frau« gibt uns mancherlei
-zu raten auf …«
+zu raten auf …!«
 
 »Ja — und wir bleiben eingesperrt — leider!« nickte
 ich …
@@ -1212,7 +1212,7 @@ beginnt …
 Hält ihn mit aller Kraft der Fingerspitzen …
 
 Immer wieder ruckt es an der Leitung … Aber Harald
-siegt … Die Glas schlägt nicht an …
+siegt … Die Glocke schlägt nicht an …
 
 Dann rührt der Draht sich nicht mehr …
 
@@ -1233,7 +1233,7 @@ Die Hunde toben — bellen, heulen … Ein Höllenlärm …
 
 <h2>5. Kapitel.</h2>
 
-<h3>Der Schornstein…</h3>
+<h3>Der Schornstein …</h3>
 
 Im Schatten der rauschenden, knarrenden Eichen warten
 wir … Köpfe zurückgebogen … Augen starr auf die hellen
@@ -1274,7 +1274,7 @@ Harst raunt mir zu …
 Schlosses und die Vorderfront, Du die andere Seite und
 die Rückfront … Stelle Dich an der Westecke auf … Der
 <@pagebreak/>
-Efeu ist dicht … Drücke Dich hinein … — Siehst Du etwas,
+Efeu ist dicht … Drücke Dich hinein … Siehst Du etwas,
 so ahme das Krächzen einer Krähe nach …«
 
 Ich eile davon … Wir haben insofern Glück, als rund
@@ -1324,7 +1324,7 @@ An einer der Eichen ein Schatten …
 Harald winkt …
 
 »Dort — — ein Mann …! Er kam aus dem Kellerfenster
-… Ihm nach …!«
+… — Ihm nach …!«
 
 Ich sehe den dunklen gleitenden Schatten weit voraus.
 
@@ -1419,8 +1419,8 @@ Böcken …
 Die Tür aus Eichenholz hat ein uraltes Schloß. Der
 Schloßriegel liegt vor. Der Dietrich hilft …
 
-Die Tür quietscht leise in den rostigen Angeln …
-dann ein Kellergang — breit, Fliesenboden, gewölbte Decke,
+Die Tür quietscht leise in den rostigen Angeln … —
+Dann ein Kellergang — breit, Fliesenboden, gewölbte Decke,
 endlos lang, ein Dutzend Türen …
 
 Wir verharren lautlos, hören … Wagen uns weiter
@@ -1437,7 +1437,7 @@ Die Phantasie täuscht mir glühende Augenpaare vor.
 
 Ich begreife nicht recht, wie Harald den Hunden ausweichen
 will … Die Tiere treiben sich doch fraglos frei in
-allen Stockwerken, allen Räumen umher.
+allen Stockwerken, allen Räumen umher …
 
 <@pagebreak/>
 Dann knipst er die Lampe an … Der Lichtkegel kreist

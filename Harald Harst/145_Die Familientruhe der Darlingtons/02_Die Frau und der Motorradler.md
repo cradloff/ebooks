@@ -44,6 +44,7 @@ Gesichtszüge …
 <@pagebreak/>
 
 Dann sagt er: »Was soll nun werden, meine Herren?!«
+
 Merkwürdig genug, diese Einleitung …
 
 Learat seufzt …
@@ -61,8 +62,7 @@ Sie sind … Ich habe Ihre Brieftaschen durchgesehen, Ihre
 Ausweise gefunden … — Harst und Schraut … Gerade
 Sie beide …!«
 
-Er steht da, die Fäuste in den Joppentaschen, vornüber
-gebeugt …
+Er steht da, die Fäuste in den Joppentaschen, vornübergebeugt …
 
 Pause …
 
@@ -79,7 +79,7 @@ aus den zerfurchten Zügen …
 
 »Nur einer ist’s, der etwas verraten haben kann,« grollt
 er mit verbissener Wut. »Oh — ich lese Zeitungen, Herr
-Harst … Mein Neffe war mit Ihnen auf den Fär-Oer-Inseln
+Harst … Mein Neffe war mit Ihnen auf den Fär-Öer-Inseln
 …!!«
 
 Harald erwidert kühl: »Ihr Neffe hat uns das Versprechen
@@ -119,7 +119,7 @@ Kopfschütteln …
 
 Sein Entschluß ist gefaßt …
 
-»Sie bleiben hier als meine Gefangenen …« sagt er
+»Sie bleiben hier als meine Gefangenen …,« sagt er
 rauh … »Ich habe geschworen … Meinen Eid halte ich …!
 Von Ihnen, meine Herren, hängt es einzig und allein ab,
 ob Sie wie … Zuchthäusler im Turme des Schlosses hausen
@@ -138,7 +138,7 @@ Der Kastellan lächelt müde …
 »Feind — Feind?! Ich bin keines Menschen Feind …
 Nur … nur …«
 
-»… der Feind der Frau mit dem Federhut …«
+»… der Feind der Frau mit dem Federhut …,«
 ergänzt Harald. »Diese Frau fürchten Sie … Dieser Frau
 stellen Sie nach … Dieser Frau wegen haben Sie die
 Klingelleitung nach dem Schloß gelegt …«
@@ -148,7 +148,7 @@ Learat stützt sich schwer auf den Tisch … In seinen
 Augen lauert die Angst … Er starrt Harald an …
 
 »Sie … Sie waren also auch hier im Gästehaus …?!«
-sagt er mit schweren Zunge … »Sie scheinen … noch mehr
+sagt er mit schwerer Zunge … »Sie scheinen … noch mehr
 zu wissen … Oh — — mein Gott …!!« Ein verzweifelter
 Schrei ist’s … »Was … was soll ich tun …?! Fünfzig
 Jahre diene ich den Darlingtons … Und jetzt … jetzt
@@ -157,7 +157,7 @@ soll ich …«
 Schwieg … merkte wohl, daß er nahe daran gewesen,
 zu viel zu verraten …
 
-Ich beobachtete ihn unausgesetzt! …
+Ich beobachtete ihn unausgesetzt …
 
 Daß dieser Greis niemals selbst eine Blutschuld sich
 aufgeladen, war mir gewiß …
@@ -197,7 +197,7 @@ Falls — falls sie eben ein Wesen von Fleisch und Blut.«
 mir …! Meinen Eid halte ich …! Nur — nur von dem
 <@pagebreak/>
 Weibe will ich Ihnen erzählen, was ich … zu erzählen
-habe … viel ist es nicht …«
+habe … Viel ist es nicht …«
 
 »Gut denn …! — John Learat, wir werden Sie von
 dieser Frau befreien … Und deshalb nehmen Sie uns
@@ -219,25 +219,25 @@ auch uns, denen er sich von einer so brutalen Seite gezeigt
 hatte, wie dies seiner Charakterveranlagung so gar nicht
 entsprach. — Daher auch die Unsicherheit in seinem Benehmen,
 daher auch jetzt seine Eilfertigkeit, mit der er
-Erfrischungen hervorbrachte und immer wieder betonte, wir
+Erfrischungen herbeibrachte und immer wieder betonte, wir
 sollten ihm den Angriff auf uns verzeihen …
 
 Wir saßen jetzt in denselben Sesseln, tranken Tee, aßen
 ein köstliches derbes Landbrot mit goldgelber Butter und
 vergaßen darüber die Schmerzen und das Stechen und
-Brennen in den Augen.
+Brennen in den Augen …
 
 Der greise Kastellan erzählte …
 
 Nur von der Frau mit dem Federhut … Alles übrige
 blieb unberührt …
 
-»Fünf Jahre sind es her …« begann er mit müder
+»Fünf Jahre sind es her …,« begann er mit müder
 Stimme … »Da hörte ich in einer stürmischen Novembernacht
 die Hunde im Schlosse zum ersten Male lärmen und
 toben … Es waren nicht dieselben Hunde wie heute, waren
 auch nur … Ich schaffte später andere Tiere an … Die
-beiden von damals waren mir nicht scharf genug …
+beiden von damals waren mir nicht scharf genug … —
 In jener Nacht sah ich den Schatten der Frau zum ersten
 Male auf den Fenstervorhängen des grünen Salons … Dieser
 <@pagebreak/>
@@ -245,14 +245,14 @@ Raum über dem Altan hat drei Fenster. Daneben liegt
 das Arbeitszimmer Lord …«
 
 Er stockte … hüstelte — verbesserte sich: »Daneben
-legt ein zweifenstriges Zimmer … auch das war erleuchtet.
+legt ein zweifenstriges Zimmer … Auch das war erleuchtet.
 — Ich betrat das Schloß durch den Seiteneingang
 … Und — — fand nichts — nichts … Nur die beiden
-Hunde … mit … blutenden Mäulern … noch tagelang
+Hunde … mit … blutenden Mäulern … Noch tagelang
 waren den Tieren die Gaumen und Zungen derart verschwollen,
 daß sie nicht fressen konnten. — Wie gesagt,
 Herr Harst: ich fand nichts …! Ich durchsuchte das Schloß
-… alle Räume waren dunkel …«
+… Alle Räume waren dunkel …«
 
 Er machte eine halb verzweifelte Handbewegung …
 
@@ -261,7 +261,7 @@ Er machte eine halb verzweifelte Handbewegung …
 … Sie war stets in den beiden Zimmern … Sie erschien
 jede Woche einmal … Zuweilen vergingen auch vierzehn
 Tage … Ich habe mich im Schloß auf die Lauer gelegt
-— nächtelang … — Dann geschah nichts … Und so stiegen denn
+— nächtelang … Dann geschah nichts … Und so stiegen denn
 in mir langsam allerlei Zweifel auf, ob es sich auch wirklich
 um ein Wesen von Fleisch und Blut handelte … Wir
 Schotten neigen zum Aberglauben. Die einsame Moorlandschaft
@@ -315,7 +315,7 @@ Seltsam: der Alte zuckte zusammen …
 darauf, Herr Harst …?!«
 
 »Oh — ich … dachte es mir … Der Teppich hat am
-Rande einen schwärzlichen Fleck … ich glaube, es ist
+Rande einen schwärzlichen Fleck … Ich glaube, es ist
 eingetrocknetes Blut …«
 
 Learat senkte die Lider über die erschrockenen Augen …
@@ -337,7 +337,7 @@ flüsterte er scheu …
 
 <@pagebreak/>
 »Vielleicht … Sie sagen uns ja auch nicht alles …
-jedenfalls ist der Teppich gestohlen worden … Die Diebe
+Jedenfalls ist der Teppich gestohlen worden … Die Diebe
 fühlen sich sehr sicher und benutzen ihn … Über die Bedeutung
 des schwarzen Fleckes wissen sie nichts … Selbst
 mein Freund Schraut hat den Fleck nicht beachtet …«
@@ -392,7 +392,7 @@ und winkten dann Manuela herbei, die sich bereits draußen
 vor der Hütte umhertrieb, heute in schlichterem Gewande,
 heute nicht mehr Zigeunerprinzeßchen in Brokat …
 
-»Morgen, liebe Manuelita …« begrüßte Harald sie
+»Morgen, liebe Manuelita …,« begrüßte Harald sie
 harmlos-vergnügt … »Wir haben sehr lange geschlafen,
 nicht wahr …? — Wie steht’s mit Hühnereiern … Wir
 haben Hunger …«
@@ -436,7 +436,7 @@ Sie dürfen nicht länger bei uns wohnen … Wir … wir
 … haben Nachricht erhalten, daß die Männer abends zurückkehren,
 auch mein Vater … bestimmt zurückkehren …
 Er würde mich schlagen, wenn er Sie beide hier vorfände
-… Herr … Sie müssen fort — gleich, gleich … Da —
+… Herr … Sie müssen fort — gleich, gleich …! Da —
 nehmen Sie Ihr Geld … Auch die Großmutter läßt Sie
 bitten, uns nicht Ungelegenheiten zu bereiten, Herr …
 Sie können anderswo im Moor wohnen … Es gibt dort
@@ -510,13 +510,13 @@ attackiert …
 
 Der Schläfer setzte sich mit einem Ruck aufrecht …
 
-Und jetzt erlebte ich wieder einmal eine jener Überraschungen,
+Und jetzt erlebte *ich* wieder einmal eine jener Überraschungen,
 die Harald so sehr liebt …
 
 <@pagebreak/>
 Er grüßte — sagte zu dem blonden Radler:
 
-»Sir Edward Darlington, wenn ich ich mich nicht sehr
+»Sir Edward Darlington, wenn ich mich nicht sehr
 irre …«
 
 Das frische Gesicht drüben nahm einen Ausdruck an,
@@ -573,7 +573,7 @@ junger Mensch, bei dem nur eins immer stärker
 hervortrat: eine gewisse Schwermut, ein für seine Jahre
 allzu nachdenklicher Ernst, gepaart mit einer geistigen Reife,
 wie sie Kindern zumeist eigen, die in einer traurigen Umgebung
-aufwachsen.
+aufwachsen. —
 
 Nachdem wir drei uns dergestalt so etwas angefreundet
 hatten, machten wir uns auch gemeinsam an die Arbeit,
@@ -621,7 +621,7 @@ noch etwas Bewegung machen — ein Stück wandern
 — zu Fuß … sein Rad und seinen Hund, den er über alles
 liebe, wüßte er nun ja in bester Obhut.
 
-»Und wir gehen schlafen …« meinte Harald und warf
+»Und wir gehen schlafen …,« meinte Harald und warf
 den Zigarettenrest zwischen die Steine. »Morgen in aller
 Frühe beginnen wir zu malen — Aquarellskizzen … —
 Gute Nacht also, Sir Edward …«
@@ -656,7 +656,7 @@ verborgen …
 Harald flüsterte mir nach einer Weile zu:
 
 »Er erwartet hier jemand … Er ist hierher bestellt
-— worden … — Da — er schaut zum dritten Male nach
+worden … — Da — er schaut zum dritten Male nach
 der Uhr … Er wird ungeduldig … springt auf, wandert
 hin und her …«
 
@@ -689,10 +689,10 @@ Leichtfüßig, aufrecht kam sie daher … Mein Fernglas
 zeigte mir ein bräunliches, faltiges Gesicht … Etwas Stolzes
 lag über der Erscheinung dieses Weibes …
 
-»Die … Frau verkleidet!« flüsterte Harst hastig
+»Die … Frau — verkleidet!« flüsterte Harst hastig
 … »Sie ist’s …! Es ist die »Händlerin« …«
 
-»Ja — bestimmt …!« — auch ich hatte sie nun erkannt …
+»Ja — bestimmt …!« — Auch ich hatte sie nun erkannt …
 
 Sie stieg jetzt in die Mulde hinab. Sir Edward hatte sich
 an eine der drei Birken gelehnt … Seine Haltung war
@@ -895,6 +895,7 @@ Ich fuhr herum … Das geisterbleiche Gesicht John
 Learats leuchtete mir förmlich entgegen …
 
 Mit schwerer Zunge fragte der Greis stammelnd:
+
 »Wer — — wer war der … Begleiter des Weibes,
 Herr Schraut …?«
 
@@ -910,7 +911,7 @@ Geheimnisse hergeben …!«
 <h3>Die roten Zungen …</h3>
 
 Der alte Mann hatte da nach Haralds Hand getastet …
-flehend klang jetzt die brüchige Stimme …
+Flehend klang jetzt die brüchige Stimme …
 
 »Herr Harst, wer … wer war der Begleiter der Frau?!
 Um Christi Barmherzigkeit: Sagen Sie mir die Wahrheit!«
@@ -1121,7 +1122,7 @@ Schreibsessel hin. Er sank hinein …
 
 Harald kam zurück …
 
-»Die Schüsse wurden vom Altan aus abgegeben …«
+»Die Schüsse wurden vom Altan aus abgegeben …,«
 sagte er nur … Stürmte weiter — in den Flur … Ließ
 den Alten und mich hier zurück — mit all dem Unheimlichen,
 Ungeklärten, das uns wie unsichtbare Schrecknisse
@@ -1144,7 +1145,7 @@ Die Altantüren waren offen geblieben …
 Meine Taschenlampe beleuchtete das Zimmer — die
 drei Hunde — — und warf eine Lichtbahn hinaus in die
 Finsternis der wolkigen Nacht, auf die im Winde schwankenden
-Zweige der Eichen … deren feierliches Rauschen
+Zweige der Eichen … Deren feierliches Rauschen
 drang zu uns herein, war wie das nervenberuhigende Brausen
 eines fernen Meeres …
 
@@ -1284,7 +1285,7 @@ Aber — ich hätte nie abgedrückt … Learat fiel mir in
 den Arm, wollte mir die Waffe entwinden. Sie entlud
 sich … Daniel sank mit Kopfschuß vornüber auf den Teppich.«
 
-»Ja — den Afghan-Teppich …« warf Harald ein …
+»Ja — den Afghan-Teppich …,« warf Harald ein …
 
 Lord Percy achtete nicht darauf …
 
@@ -1387,7 +1388,7 @@ der Hütte …
 
 Lord Percy erklärte feierlich:
 
-»Ich habe eingesehen, das Selbstmord Feigheit wäre …
+»Ich habe eingesehen, daß Selbstmord Feigheit wäre …
 Ich werde mich den Gerichten stellen … Denn — ich habe
 mein Kind nicht verloren! Edward hat mir verziehen …
 Edward wird das alte Geschlecht wieder zu Ansehen bringen.«
@@ -1402,4 +1403,7 @@ Was ich darüber noch zu sagen wüßte, ist belanglos.
 
 Nächster Band:
 
-__Die drei Finger Ben Bensons.__
+<#import "*/harst.ftl" as harst>
+
+<@harst.naechsterband band="Die drei Finger Ben Bensons."/>
+
