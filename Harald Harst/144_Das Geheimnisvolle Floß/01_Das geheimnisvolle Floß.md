@@ -25,7 +25,7 @@ tat absolut nichts. Er schlief, las ein wenig, rauchte kaum
 fünf Zigaretten am Tage (ein schlechtes Zeichen!) und ließ
 alle Besucher abweisen. Die alte Köchin Mathilde hatte die
 strenge Instruktion erhalten: wir sind nicht daheim, sondern
-noch in Norwegen! …
+noch in Norwegen!
 
 So gingen fünf Tage hin. Am Morgen des sechsten
 Tages nach unserer Rückkehr (es war der 14. Juni) saßen
@@ -65,7 +65,7 @@ Bevor er jedoch noch etwas erwidern konnte, geschah etwas
 Seltsames …
 
 Ich muß noch anführen, daß der Hofraum von dem Gemüsegarten
-durch eine Unzahl alter Linden und Kastanien
+durch eine Anzahl alter Linden und Kastanien
 sowie Haselnußsträucher abgeschlossen ist.
 
 Plötzlich hörten wir hinter den Büschen hervor eine
@@ -135,7 +135,7 @@ Harald schüttelte den Kopf …
 Haustür …!!«
 
 »Ja — und dann war’s natürlich auch kein Kriminalbeamter
-…!!«
+…!«
 
 <@pagebreak/>
 Ich warf die Haustür zu und riegelte ab …
@@ -151,7 +151,7 @@ Unsere Köchin war sehr kleinlaut geworden … »Und fügte
 gleich hinzu, er sei Beamter und käme vom Polizeipräsidium
 … Ob Sie vielleicht Besuch hätten … Dann würde er später
 wiederkommen … Und da sagte ich, denn ich hatte ja vom
-Küchenfenster den Herrn beobachtet, der denn wieder weglief…
+Küchenfenster den Herrn beobachtet, der denn wieder weglief,
 — da sagte ich, nein, Herr Harst hat keinen Besuch. Es
 war jemand da, der ist aber mit ’n Mal wieder umgekehrt,
 ohne Sie recht gesprochen zu haben …«
@@ -210,7 +210,7 @@ abgestattet und verschiedene Kostbarkeiten gestohlen. Näheres
 über den Einbruch war nicht zu erfahren. Die
 Polizei hüllt sich in Schweigen.
 
-Vom 10. Juni:
+vom 10. Juni:
 
 > *Abermaliger Einbruch in eine Wannsee-Villa.*
 — Der Großindustrielle Kommerzienrat Justus
@@ -299,7 +299,7 @@ bei Ihrem Herrn gelesen und habe mich daher über
 die Insassen der Villa unter der Hand erkundigt …«
 
 Der Schofför Otto Schmiedeck hatte sich dann kaum
-gesetzt, als draußen eine wahre Sintflut niederging … Es
+gesetzt, als draußen eine wahre Sintflut niederging. Es
 wurde so dunkel, daß Harst die Fenstervorhänge zuzog und
 das elektrische Licht einschaltete.
 
@@ -479,7 +479,7 @@ von dem ich die Papiere gekauft habe, besucht hatte …«
 »Und wo befindet sich dieser Schmiedeck jetzt?«
 
 »In Amerika, Herr Harst … Ich gab ihm …« —
-Er stockte … fügte hinzu: »Nein, ich will Sie nicht belügen:
+Er stockte …, fügte hinzu: »Nein, ich will Sie nicht belügen:
 ich gab ihm fünfzehntausend Mark für die Papiere … Mit
 dieser Summe konnte er sich drüben eine kleine Farm kaufen.«
 
@@ -590,7 +590,7 @@ stärker herein …
 
 »Sie kennen diesen Geruch?« fragte Harald dann …
 
-Unser Gast nickte. … »Ja, Herr Harst … Es ist das
+Unser Gast nickte. »Ja, Herr Harst … Es ist das
 Parfüm, das von Fräulein Felizitas Falk benutzt wird …
 Ein Parfüm aus Mexiko im übrigen … Chuala heißt es
 … Fräulein Felizitas erhielt es vor zwei Jahren von einem
@@ -604,7 +604,7 @@ Schmiedeck?«
 Der Mann, der nicht Schmiedeck hieß, wurde verlegen
 …
 
-»Hm … — ersparen Sie mir besser die Antwort …«
+»Hm … — ersparen Sie mir besser die Antwort …,«
 sagte er dann, und sein Gesicht veränderte sich mit jedem
 Wort immer mehr ins Tragische … Es war, als ob eine
 Wolke über sein frisches Antlitz hinzog …
@@ -682,7 +682,7 @@ Und als wir den Bahnsteig dann genau um drei Viertel
 elf betraten und am D-Zuge entlanggingen, bemerkte Harald
 die Gesuchten in einem Abteil erster Klasse …
 
-Wir betraten den Wagen …
+Wir betraten den D-Wagen …
 
 Falks waren allein in dem Abteil … Als Harst die
 Schiebetür öffnete, als der Kommerzienrat ihn erkannte,
@@ -722,7 +722,7 @@ der Sache hören, Herr Harst …! Die Kriminalpolizei wird
 die Einbrecher schon ermitteln, und …«
 
 »Gnädige Frau haben Verwandte hier in Berlin?!« fiel
-Harst ihr unhöflich ins Wort … Es war keine Frage
+Harst ihr unhöflich ins Wort … Es war keine Frage,
 sondern mehr eine Behauptung …
 
 Siehe da: Juana Falk verfärbte sich …
@@ -803,7 +803,7 @@ Ich hatte im Abteil nebenan noch einen Platz erwischt,
 <@pagebreak/>
 war also dem Chinamann dicht auf … der Pelle, wie der
 Berliner sagt … Und ich ließ ihn nicht aus den Augen …
-sehr bald merkte ich: der Gelbe kannte mich nicht einmal
+Sehr bald merkte ich: der Gelbe kannte mich nicht einmal
 von Ansehen! Ich war nun noch kühner … Ich wollte den
 anderen Burschen suchen, den Mexikaner … Ob der etwa
 in Berlin zurückgeblieben war?! Wohl kaum anzunehmen …
@@ -814,7 +814,7 @@ Da versperrte mir ein Fahrkartenrevisor den Weg …
 Ein Mann mit Dienstmütze, Rotweinnase, Klemmer und
 struppigem Schnurrbart …
 
-»Geh in den Gepäckwagen …« flüsterte der Beamte …
+»Geh in den Gepäckwagen …,« flüsterte der Beamte …
 
 Ich riß den Mund vor Staunen auf, klappte ihn aber
 schnell wieder zu …
@@ -924,7 +924,7 @@ Er las … zerriß das Papier …
 
 Meinte leise: »Der alte Herr?! — Grüße ihn von
 mir … Es ist ein Kollege … Es ist der Gast, es ist der
-Mann, der angeblich Schmiedecks — Papiere kaufte …«
+Mann, der angeblich Schmiedecks Papiere kaufte …«
 
 Donnerwetter — eine nette Überraschung! Der Schofför
 ein Detektiv!! Nun — ich zweifelte kaum mehr, daß es so
@@ -943,10 +943,9 @@ Maske lüften. Leider — — er war spurlos verduftet …
 Spurlos … Zweimal durchsuchte ich den Zug … Traf zweimal
 Harald, der jedoch keinerlei Notiz von mir nahm, sah
 den Chinamann, sah nun auch den Mexikaner im Speisewagen
-sitzen … — tadellos angezogen … mit schwarzem Spitzbart
+sitzen … — tadellos angezogen … mit schwarzem Spitzbart,
 Bronzegesicht, Brille, — sehr harmlos … Und zweimal
 kam ich auch an der grauhaarigen Verschleierten vorüber.
-
 <@pagebreak/>
 Sie trug einen langen Seidenmantel, war schlank, fast zierlich
 … beachtete mich scheinbar nicht …
@@ -1038,7 +1037,7 @@ ja mein Inkognito noch nicht gelüftet haben … Bin Angestellter
 der Pinkerton-Filiale in Mexiko … Wollte mir durch
 diesen Fall die goldenen Sporen verdienen …«
 
-»Landsmann sind Sie doch, Deutscher!« —
+»Landsmann sind Sie doch, Deutscher!«
 
 »Und ob — abgesägter Offizier … Tolle Geschichte, das
 alles … Werde nicht klug daraus … Sie etwa?!«
@@ -1053,14 +1052,14 @@ Ich starre ihn an …
 »Nanu?! Keinen Schimmer?! Sie haben doch auf
 dem Zettel …«
 
-»Stimmt, — aber: ich weiß zu wenig … Ist verflucht
+»Stimmt, — aber ich weiß zu wenig … Ist verflucht
 verzwickt, die Chose, Herr Schraut …«
 
 »Und die grauhaarige Verschleierte?! Etwa Kollegin?!«
 
 »Nein — niemals! Weiß nicht, wer es ist … —
 <@pagebreak/>
-Aha — — dort hält Harsts Auto … Da — — er winkt …
+Aha — — dort hält Harsts Auto … Da — — er winkt …!
 — Schofför, ran zu den Wagen da vor uns …!«
 
 Wir drei stehen auf dem Bürgersteig … Harst sagt
@@ -1068,7 +1067,7 @@ leise: »Einer muß zu Fuß weiter …! Ich! Wartet hier.«
 
 Und geht hastig davon …
 
-Wir sind in einer breiten Straße … Ich kenne Bamberg,
+Wir sind in einer breiten Straße … Ich kenne Bamberg
 nicht … Der Kollege meint:
 
 »Übrigens heiße ich Winfried von Rutar, Herr Schraut
@@ -1131,19 +1130,18 @@ die beiden Asiaten, die mit allen Bewohnern der Wannsee-Villa
 heimlich sich am Gittertor trafen, mit einer Ausnahme:
 Felizitas Falk!
 
-Das war’s, was der Landsmann und Kollege uns erzählte
-…
+Das war’s, was der Landsmann und Kollege uns erzählte.
 
 Der Leser sieht: die ganzen Dinge hingen sozusagen
 noch in der Luft. Die drei Einbrüche und alles andere
-hatten gleichsam … weder Anfang noch Ende. Nirgends war
+hatten gleichsam weder Anfang noch Ende. Nirgends war
 von einem der Vorgänge zum andern eine Brücke zu schlagen.
 
 Hierüber unterhielten wir drei uns jetzt zum so und so
 vielten Male, als wir Frau Juana Falk nachgeschlichen
-waren, die sich heute vormittag zum erster Male am Hafenkai
+waren, die sich heute vormittag zum ersten Male am Hafenkai
 in Bremen mit ihrem Bruder und dem Chinesen ein Stelldichein
-gegeben hatte …
+gegeben hatte.
 
 Mitten zwischen Stapeln von Kisten und Fässern begrüßten
 sie sich …
@@ -1168,7 +1166,7 @@ umspannte …
 »Ich … ich bin blind gewesen bisher!« sagte er mit
 rauher Stimme. »Erzählten Sie nicht, Rutar, daß Falk und
 Tochter persönlich in Mexiko waren, daß Falk dort mit
-Baldwin … die Lieferungsverträge abschloß und daß er dort
+Baldwin die Lieferungsverträge abschloß und daß er dort
 auch Juana Dardero kennenlernte …?! — Ja, so war’s …!
 Und — — wir tun jetzt einer Ärmsten bitter unrecht …!
 Wir raten hin und her, suchen nach den Verbindungsgliedern
@@ -1242,7 +1240,7 @@ mein Mann zu Ihnen gefahren war … Ich hatte ihn begleitet.
 Als er das Auto verlassen hatte — es hielt in
 Ihrer Straße weit vor Ihrem Hause, da — glaubte ich
 meinen Bruder in der Ferne zu erkennen, und da bin ich
-Justus — nachgeeilt, habe ihn zurückgerufen …«
+Justus nachgeeilt, habe ihn zurückgerufen …«
 
 Harst nickte … »Danke, gnädige Frau … Das wäre
 geklärt … — Und im D-Zuge sahen Sie Gustavo dann
@@ -1315,7 +1313,7 @@ Zeitung …:
 
 > Der seit fünf Tagen überfällige Dampfer Hektor der
 Reederei Bremensia ist heute hier mit schwerer Havarie
-eingelaufen. Unweit der Fär-Oer-Inseln rannte der Dampfer
+eingelaufen. Unweit der Fär-Öer-Inseln rannte der Dampfer
 im dichten Nebel gegen ein Floß von Rundhölzern und
 drückte sich den Bug ein. Die Behauptung einiger Matrosen
 des Hektor, die auf dem Floß Löwen bemerkt haben
@@ -1334,7 +1332,7 @@ mitbringt …«
 
 Und — er schwieg sich nunmehr völlig aus … Ich konnte
 anfangen, was ich wollte: es war nichts mehr aus ihm
-herauszupressen …
+herauszupressen.
 
 Im Hotel schrieb er an Falk. Ein Dienstmann brachte
 den Brief Frau Juana. Die reiste abends ab. Wir sahen
@@ -1464,7 +1462,7 @@ und Hirn …
 Ein Kriminalkommissar sitzt neben unseren Betten …
 
 Und als er nun endlich unsere Namen hört (wir hatten
-keinerlei Papiere bei uns gehabt, … und man hatte uns für
+keinerlei Papiere bei uns gehabt, und man hatte uns für
 ganz gefährliche Gauner gehalten!), da — — verlangt Harald
 … nochmals Kognak …
 

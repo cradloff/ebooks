@@ -87,7 +87,7 @@ in Bremen zwecklos sei.
 Um ein Viertel eins betraten wir das Deck des nach
 Edinbourgh bestimmten Dampfers Hekuba, denn von Edinbourgh
 hatten wir die beste Verbindung nach den öden
-einsamen Fär-Oer-Inseln … Dort in der Nähe war das
+einsamen Fär-Öer-Inseln … Dort in der Nähe war das
 geheimnisvolle Floß gesichtet worden. Inzwischen hatte Harald
 noch einen längeren Brief an Kommerzienrat Falk geschrieben
 und ihn auf die Verfehlungen seines Adoptivkindes
@@ -99,8 +99,8 @@ Ich möchte hier nun einen Zeitraum von acht Tagen
 
 Es war eine neblige, kalte Nacht, als ein sehr großer
 Motorkutter, der mit halber Kraft die Riffe der kleinen
-Fär-Oer-Insel Göstöla passierte, von der Spitze eines mächtigen,
-im Nebel wie ein kratzendes Gespenst sich hochreckenden
+Fär-Öer-Insel Göstöla passierte, von der Spitze eines mächtigen,
+im Nebel wie ein drohendes Gespenst sich hochreckenden
 Felsblockes angerufen wurde …
 
 An Deck des Kutters befanden sich zwei Herren mit
@@ -141,7 +141,7 @@ war, sagte er zu dem Herrn am Steuer:
 »Mr. Harst, ich wußte es ja … Die Einfahrt in diese
 Bucht ist ganz ungefährlich …«
 
-Harald nickte dem alten Fär-Oer-Fischer nur zu …
+Harald nickte dem alten Fär-Öer-Fischer nur zu …
 
 Ich wußte, woran er ausschließlich dachte …
 
@@ -163,7 +163,7 @@ Mr. Harst … Das sagte ich Ihnen schon gestern, als Sie
 mich in meinem Häuschen besuchten … Von jeher wurde
 gerade Göstöla … stets gemieden. Wunderliche Dinge erzählt
 man sich von diesem Haufen schroffer Felsen … Gewiß, wir
-Insulaner der Fär-Oer sind alle etwas abergläubisch. Wir
+Insulaner der Fär-Öer sind alle etwas abergläubisch. Wir
 haben unsere alten Sagen … Wir halten daran fest, genau
 wie an unseren althergebrachten Sitten … Mein Schwiegersohn
 Darb bleibt dabei, er habe zweimal oben auf den
@@ -189,7 +189,7 @@ weit zerstreuten Inselgruppe, Erkundigungen eingezogen hatten,
 nichts von unseren wahren Absichten mitgeteilt, hatten so
 getan, als ob wir nach Schiffbrüchigen suchten. Und da
 hatte der alte Fischer gemeint, wenn sich irgendwo auf den
-Fär-Oer wirklich Schiffbrüchige befinden sollten, dann könnte
+Fär-Öer wirklich Schiffbrüchige befinden sollten, dann könnte
 es nur auf Göstöla sein, weil diese Insel unbewohnt und
 auch meilenweit von der übrigen Gruppe entfernt sei. —
 So waren wir denn spät abends von Thorshavn abgefahren,
@@ -198,11 +198,11 @@ nebligen Wetter diese einzige größere Bucht der unwirtlichen
 Insel angelaufen. —
 
 Der Leser ist nun wieder im Bilde … Wird auch wissen,
-daß die Fär-Oer-Inseln gleichsam die Fortsetzung der Orkney\-
+daß die Fär-Öer-Inseln gleichsam die Fortsetzung der Orkney\-
 und Shetland-Inseln hoch im Norden Englands bilden und
-den größten Teil des Jahres, in undurchdringliche Nebel
+den größten Teil des Jahres in undurchdringliche Nebel
 gehüllt sind, falls nicht wütende Stürme ungeheure Wogenberge
-gegen die schroffen Felsgestade treiben …
+gegen die schroffen Felsgestade treiben.
 
 Unser Kutter lag jetzt also in der großen Bucht vertäut
 … Es war ein Uhr morgens, als Harald Sollerby und
@@ -283,7 +283,7 @@ dunkleren Schatten … turmhoch — ein zackiger Steinwürfel
 
 Harald beugte sich vor, flüsterte:
 
-»Wir sind angelangt … Umrunde die Klippe … — Vorsicht
+»Wir sind angelangt … Umrunde die Klippe … Vorsicht
 …«
 
 Und wir kreisten zweimal um den Würfel, suchten nach
@@ -399,7 +399,7 @@ Eine große Grotte, Mr. Harst, mit Wasser gefüllt … Und
 in dieser Grotte soll der Wikingerkönig Frithjof bei einem
 Orkan Zuflucht gesucht haben, soll dort gefangene Feinde
 ertränkt haben … Eine Sage, Mr. Harst … Jedes Kind
-der Fär-Oer kennt sie … Man hat sie ausgeschmückt …
+der Fär-Öer kennt sie … Man hat sie ausgeschmückt …
 Die Jahrhunderte haben allerlei hinzugedichtet …«
 
 Um uns her ist’s wie das Wehen einer sagenreichen Vergangenheit
@@ -478,7 +478,7 @@ Maschine. Seine eisernen Muskeln spotten der Anstrengungen
 … Er ist körperlich und geistig wieder ganz auf
 der Höhe. Was wir auf Jan Mayen erlebten, liegt als
 überwunden hinter uns … — Und hier nun: wieder eine
-Insel. Aber ein anderes Motiv! Dort auf Jan Mayen
+Insel …!! Aber ein anderes Motiv! Dort auf Jan Mayen
 feige Morde, hier andere Verbrechen, andere Verbrecher
 … — Und ich habe Zeit zum Grübeln … Gebe trotzdem
 auf alles acht … — Verbrechen hier — — welche?! Hatte
@@ -494,7 +494,7 @@ die Wasserwege schmaler, zuweilen wieder so breit, daß man
 auf offener See zu sein glaubt …
 
 Aber das Meer, das freie Meer liegt dort drüben, wo
-die Brandung leise rauscht. — … heute so leise und bescheiden
+die Brandung leise rauscht — heute so leise und bescheiden
 … Heute nur …
 
 Harald sagt abermals: — »Mein Alter, näher an die
@@ -503,7 +503,7 @@ hindurch …«
 
 Ich drücke das Steuer herum …
 
-Wir gleiten an Ufermauern dahin — … Wir sehen vor
+Wir gleiten an Ufermauern dahin … Wir sehen vor
 uns einen Wald von Klippen … Finden einen schmalen
 Durchschlupf …
 
@@ -541,7 +541,7 @@ Und ringsum Nebel … Stille …
 Aus der Höhe zuweilen ein Vogelschrei … Ganz fern
 die Brandung …
 
-Und hier: Baumstämme, — durch Ketten verbunden …!
+Und hier: Baumstämme, durch Ketten verbunden …!
 — Sperre, vermutet Harald …
 
 Ich … denke wieder ganz unwillkürlich an die Sage
@@ -580,7 +580,7 @@ Das Boot schaukelt leicht … Wir stehen aufrecht …
 <@pagebreak/>
 Aber — — die Geräusche sind jäh verstummt …
 
-Bleiben tot … als ob … als ob die Leute gewarnt
+Bleiben tot … Als ob … als ob die Leute gewarnt
 worden wären, die den Motor und die Säge bedienen …
 
 »Die Sperre!!« raunt Harald mir zu und greift zur
@@ -618,7 +618,7 @@ Und behielt doch die Clement schußbereit …
 
 »Fräulein Falk?« fragte er leise …
 
-»Felizitas Falk …« erwiderte das Mädchen ebenso leise.
+»Felizitas Falk …,« erwiderte das Mädchen ebenso leise.
 »Wer sind Sie? — Deutsche — das höre ich …! Fliehen
 Sie …! Was wollen Sie hier?! — Wie sind Sie hierher
 gelangt?!«
@@ -660,7 +660,7 @@ sich zu unserer Gefangenen hinunter … Flüsterte drohend:
 … Ich kenne Sie zur Genüge … Sie waren als Spionin
 bei mir, Sie haben in der Villa Ihres Adoptivvaters nächtlich
 Maskenscherze getrieben … Und Ihr Hohnlachen im
-Pensionat in Bremen vergesse ich ebenfalls nicht …
+Pensionat in Bremen vergesse ich ebenfalls nicht … —
 Sie wissen jetzt, woran Sie sind …« — Er wollte noch
 mehr hinzufügen …
 
@@ -680,7 +680,7 @@ Harst blieb in seiner gebückten Haltung …
 bisher von Ihnen erfahren, läßt die Wahrscheinlichkeit vollendeter
 <@pagebreak/>
 Heuchelei zur Gewißheit werden …! Sparen Sie
-sich die Komödie …!!«
+sich die Komödie …!«
 
 Und noch schärfer: »Stehen Sie auf!«
 
@@ -696,7 +696,7 @@ von einem dunklen Schleier umschlungenen Lederhut …
 
 Felizitas Falk widersetzte sich nicht. Ich sah ihr Gesicht
 aus nächster Nähe … Und doch war’s zu dunkel. Die
-Züge verschwammen … —
+Züge verschwammen …
 
 Ich hielt ihre Handgelenke … Als Harst den Mantel über
 dem Arm hatte, knotete ich den Strick wieder zusammen.
@@ -720,7 +720,7 @@ Der neue Tag brach an …
 
 Ein Windhauch strich über die Insel und die Randhöhen
 dieser Bucht hin … In die grauen Vorhänge kam
-Bewegung … Leben … — Lange Nebelstreifen täuschten Rauchsäulen
+Bewegung … Leben … Lange Nebelstreifen täuschten Rauchsäulen
 vor … Und mit einem Male erschien da schräg über
 mir wie ein blasser Opal die Sonne, die mit aller Macht
 die feuchten Schleier bekämpfte …
@@ -823,7 +823,7 @@ So stellte er fest, daß die Sperre den tiefsten Winkel
 der Bucht gleichsam abgrenzte …
 
 Und ruderte abermals herbei, meinte mit einer kurzen
-Handbewegung: »es war ein Irrtum … Die Balkensperre
+Handbewegung: »Es war ein Irrtum … Die Balkensperre
 hat keinerlei Einrichtung, die Warnungssignale geben könnte.«
 
 Ich begriff ihn nicht recht …
@@ -879,7 +879,6 @@ Ich ahnte, was kommen würde …
 
 Wir krochen wie Karl Mays berühmte Westmänner …
 Jede Deckung benutzten wir … Wir machten Umwege …
-
 <@pagebreak/>
 Liefen, wenn wir in einer Mulde waren … Krochen dann
 abermals …
@@ -907,7 +906,7 @@ zu … Ihr Kopf bewegte sich dauernd, ruckte nach hinten.
 Sie … winkte mit dem Kopfe …
 
 Wir beide, durch enge Spalten lugend, waren sicher,
-hier nicht entdeckt zu werden … Warteten … Es mußte
+hier nicht bemerkt zu werden … Warteten … Es mußte
 etwas geschehen … sich ereignen, etwas Ungeahntes — von
 mir Ungeahntes …
 
@@ -962,6 +961,7 @@ einen gewissen Reiz nicht entbehrte.
 Und doch war mir anderes weit interessanter. Harst
 hatte von einem Tor gesprochen, unter dem der Chinamann
 hinweggeschwommen sein sollte …
+
 Von einem Tor …!!
 
 Wo in aller Welt war hier ein Tor — hier inmitten
@@ -1004,7 +1004,7 @@ Der Seelenverkäufer hatte die Steilwand erreicht …
 
 Zweierlei geschah …
 
-Ein stärkerer Donner dröhnte anhaltend über die öde
+Ein stärkerer Donner dröhnte nachhallend über die öde
 Insel hin … Der Blitz, der ihn hervorrief, flammte über
 die finstere Wolkenwand wie ein grell leuchtendes verschlungenes
 Tau …
@@ -1186,7 +1186,7 @@ neben den drei prachtvollen Bestien …
 
 Hat jetzt eine Flinte in der Hand …
 
-Sollerby stoppt den Motor.
+Sollerby stoppt den Motor …
 
 Immer toller wird der Orkan …
 
@@ -1329,7 +1329,7 @@ zunächst gut …«
 »Befanden sich Dardero und der Chinese unter der Besatzung?«
 warf Harald ein.
 
-»Ja … Dardero als Steward, Singlu als Koch …
+»Ja … Dardero als Steward, Singlu als Koch … —
 Wie gesagt, — wir hatten prächtiges Wetter … Das Floß
 besaß zwei Masten und zwei Segel. Bei günstigem Wind
 halfen die Segel, erleichterten die Arbeit des Schleppers.
@@ -1389,7 +1389,7 @@ Frau, die dann das Kind an Falks abgab, hat den Kommerzienrat
 belogen, hat diese Herkunft des Mädchens verschwiegen
 …«
 
-»Was ich vermutet habe …« meinte Harald ernst. »Man
+»Was ich vermutet habe …,« meinte Harald ernst. »Man
 sieht an diesem Beispiel wieder einmal, daß die allersorgfältigste
 Erziehung das ererbte Blut, die vererbten Charaktereigenschaften
 niemals ändern kann. Felizitas stammte aus
@@ -1399,12 +1399,12 @@ Ich blickte scheu zu Winfried von Rutar hinüber …
 
 Er hatte Felizitas geliebt … ehrlich geliebt …
 
-Und … jetzt lag er dort auf dem Bett mit gebrochenen
+Und jetzt lag er dort auf dem Bett mit gebrochenen
 Gliedern … hatte den Kopf der Wand zugekehrt …
 
 Armer Landsmann …! —
 
-Der Bändiger sprach weiter.
+Der Bändiger sprach weiter:
 
 »Dardero hat große Mengen Holz mit Hilfe des Dampfers
 nach England verkauft … Teilweise wurde das Grubenholz
@@ -1439,7 +1439,7 @@ Grubenhölzern …
 Ein Vermögen lagerte hier noch. Ein zweites Vermögen
 stellte das gerettete Floß dar … —
 
-Unser alter Fär-Oer-Fischer war einfach sprachlos …
+Unser alter Fär-Öer-Fischer war einfach sprachlos …
 Er hatte nie im entferntesten vermutet, daß die Sage von
 der Frithjof-Höhle einen tatsächlichen Hintergrund haben
 könnte … —
@@ -1459,7 +1459,7 @@ entdeckt habe … trotz des Nebels …«
 <@pagebreak/>
 »Allerdings …«
 
-Nun — die Felswände der Bucht waren überall ziemlich
+»Nun — die Felswände der Bucht waren überall ziemlich
 glatt … Nur an der einen Stelle sah man die Risse
 … Als ich mit dem Nachen, als Felizitas zur Not verkleidet,
 dort entlang ruderte, kratzte ich mit dem Fingernagel
@@ -1467,7 +1467,7 @@ in einer der Ritzen entlang und … spürte Holz, das
 mit Ölfarbe gestrichen war … Die Farbschicht ließ sich
 wegkratzen … Nachher besah ich mir das, was noch unter
 dem Fingernagel haften geblieben: dunkle trockene Ölfarbe!
-Da wußte ich Bescheid …
+Da wußte ich Bescheid …«
 
 Learat nickte …
 
@@ -1494,7 +1494,7 @@ Das eine dieser Telegramme lautete:
 
 Das zweite an die Firma Baldwin:
 
-> Drittes Floß geborgen … Wird nach Thorshavn, Fär-Oer,
+> Drittes Floß geborgen. Wird nach Thorshavn, Fär-Öer,
 geschleppt. Dispositionen dorthin an Fischer Sollerby.
 — Harald Harst.
 
@@ -1520,4 +1520,7 @@ Wir haben diese Reise nicht bedauert …
 Und meine Freunde und Leser werden im folgenden
 Bande die Geschichte hören von der
 
-__Familientruhe der Darlingtons__
+<#import "*/harst.ftl" as harst>
+
+<@harst.naechsterband band="Familientruhe der Darlingtons"/>
+
