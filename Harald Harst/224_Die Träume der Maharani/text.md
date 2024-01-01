@@ -1,6 +1,6 @@
 <@pagebreak 3/>
 
-Die Träume der Maharhani.
+<h1>Die Träume der Maharhani.</h1>
 
 <h2>1. Kapitel.</h2>
 <h3>Pater Angelus.</h3>
@@ -14,23 +14,22 @@ Sonnen- und Palmeninsel Colombo.
 Die bedauernswerte Lydia Burns-Sellerlyoop, deren Geist
 durch die entsetzliche Entdeckung, daß ihr Geliebter ein gemeiner
 Verbrecher war, schon vor Jahren tief umnachtet
-worden, saß während der Seereise zumeist unter dem Grauens
+worden, saß während der Seereise zumeist unter dem sonnen-
 Segel auf dem Achterdeck der Ohio im Liegestuhl und starrte
 mit weltfremden Blick über die klare, leicht bewegte See in
 endlose Fernen. Es war ein Glück für die Ärmste, die
-da im Wyndhia-Dschungel für die entarteten Daki— Zwerge
+da im Wyndhia-Dschungel für die entarteten Daki-Zwerge
 die Göttin gespielt Hatte, daß ihr Verstand die letzten Vorgänge
 nicht mehr in ihrer vollen Bedeutung gefaßt hatte. Niemals
 fragte Sie nach Burns, dem Anführer der Erpresserbande. Er
-schien aus ihrem Gedächtnis ausgelöscht. Ihrenganzg Graute
-haste Liebe und Zäartlizleit vereinigte sich ’Ausihre Zu!!s
+schien aus ihrem Gedächtnis ausgelöscht. Ihre ganze krank-
+haste Liebe und Zärtlichkeit vereinigte sich auf ihre
 Zwillingsschwester Margrit und auf ihren zahmen kleinen Affen
-Koko. Beide durften nie sag’ ihrer Seite weichen. Turnte
-
-Sollte einmal droben im Takelwerk umher, so brach die Kranke
+Koko. Beide durften nie von ihrer Seite weichen. Turnte
+Koko einmal droben im Takelwerk umher, so brach die Kranke
 <@pagebreak/>
-s« fort in bittere Tränen aus, und notwendig mußte Koko
-dann wieder jschleunigst eingefangen werden,
+sofort in bittere Tränen aus, und notwendig mußte Koko
+dann wieder schleunigst eingefangen werden,
 
 Am dritten Reisetage vormittags gegen elf hatten wir
 im Kielwasser der Jacht die schwarzen, dreieckigen Rückenflossen
@@ -40,172 +39,177 @@ Pazifik anzutreffen.
 
 Für die Matrosen gab dies eine aufregende Abwechslung.
 Steuermann Johnson wollte die Bestien erschießen. Aber
-der Oberbootüömann Rolfs, ein früherer Harpunier eines
+der Oberbootsmann Rolfs, ein früherer Harpunier eines
 Walfänger, war mehr fürs Harpunieren, meinte, so ein
-HaifisHmagen enthielte allerlei seltsame Dinge, und das
-Gebiß sei Dom zu ein wunderschönes Andenken, wenn es auch
-gleicht gerade als Zahnersatz, nicht mal für Patt O’Lonning, Zu
+Haifischmagen enthielte allerlei seltsame Dinge, und das
+Gebiß sei doch auch ein wunderschönes Andenken, wenn es auch
+nicht gerade als Zahnersatz, nicht mal für Patt O’Lonning, Zu
 gebrauchen wäre. Patt war Irländer, hatte einen Mund
-von Ohr zu Ohr und nur noch Zahnräder und Zahnstummel
-in angenehmer Reihenfolge. Sonst besaß er noch« PoGuennarben
-und einen knallroten Bart und Kannst. Aber cl3
-Matrose war er eine erste Kraft, und als Mensch ein Holzbild
-für die Hause Besatzung.
+von Ohr zu Ohr und nur noch Zahnlücken und Zahnstummel
+in angenehmer Reihenfolge. Sonst besaß er noch Pockennarben
+und einen knallroten Bart und Haarwust. Aber als
+Matrose war er eine erste Kraft, und als Mensch ein Vorbild
+für die ganze Besatzung.
 
-Die Gastierte soll!en also harpuniert werden, Eine Harpune
-gab es an Bord mich)!, doch4 Rolfs fertigte zwei tadällose
-Sarpunenspitzen in einer Stunde an, und um ein Uhr Attacke
-wurden die vorsichtigen Bestien durchs leckere Lappen näher
-derangelodt.
+Die Haifische sollten also harpuniert werden. Eine Harpune
+gab es an Bord nicht, doch Rolfs fertigte zwei tadellose
+Harpunenspitzen in einer Stunde an, und um ein Uhr mittags
+wurden die vorsichtigen Bestien durchs leckere Happen näher
+herangelockt.
 
-Harald Lync und wir beide standen als Zuschauer am
+Harold Lync und wir beide standen als Zuschauer am
 Heck. Rolfs warf die erste Harpune, und als sie im Rücken
-des einen Hatte sich vergrub, feuerte Kapitän Einlaß) aus
-seiner Remingtonbüchse dem Untier rast drei Kugeln durch
+des einen Hais sich vergrub, feuerte Kapitän Gulgy aus
+seiner Remingtonbüchse dem Untier rasch drei Kugeln durch
 den Schädel. Bald lag der Hai denn auch auf den hellen
-TDeäplanken. Es war ein Bursche von fast vier Meter
-Länge, der größte, mit einem Fußspuren G20i3 unregeimai1trg
-gekrümmter Zähne. Die Bitte, die jetzt die Leute mit
-Bat! O’Lonning rissen, verstummten erst, als der maulfaule,
-qmrfmütige Ire, der seit Kinvea2beinen auf aller Herren
+Deckplanken. Es war ein Bursche von fast vier Meter
+Länge, der größte, mit einem furchtbaren Gebiß unregelmäßig
+gekrümmter Zähne. Die Witze, die jetzt die Leute mit
+Patt O’Lonning rissen, verstummten erst, als der maulfaule,
+gutmütige Ire, der seit Kindesbeinen auf aller Herren
 <@pagebreak/>
-Meere sich umhertrieb, mit der getränkten Kürze seiner NUs5drudsweise
-jagte;
+Meere sich umhertrieb, mit der gedrängten Kürze seiner Ausdrucksweise
+sagte:
 
-»Uhr könnt mich alle …!’ (v?ruhelose Es von BerlichZingen!!!)
-Blinde Waulwürfde leid ihr!! Da — hier hat
-der Hai auf dem Rücken eine lange Narbe. Ihr sehnt. noch
+»Ihr könnt mich alle …!! (vergleiche Götz von Berlichingen!!!)
+Blinde Maulwürfe seid ihr!! Da — hier hat
+der Hai auf dem Rücken eine lange Narbe. Ihr sehnt noch
 die Fäden der genähten Wunde, — Katzendarm ist’s.
-Je mal die Narbe auf, Roli5’«’
+Schneidet mal die Narbe auf, Rolfs!«
 
-hatte recht. Keiner hatte die mindestens vierzig Berlin
-
-Eiter lange, gewellte, mit Katzendarm genähte Narbe bemerkt.
-Auch Harst nicht. Und als Rolfs nun mit Scharfen
-Messer die Narbe ausschnitt, kam dicht unter der Haut ein
+Er hatte recht. Keiner hatte die mindestens vierzig Zentimeter
+lange, gewellte, mit Katzendarm genähte Narbe bemerkt.
+Auch Harst nicht. Und als Rolfs nun mit Scharfem
+Messer die Narbe aufschnitt, kam dicht unter der Haut ein
 länglicher Zylinder aus Aluminiumrohr zum Vorschein, der
-an Feinden Enden flach 3ujammengehämmert war. —
-Das Alumiviuaroir wurde Marsch:is ausgesagt. Es enthielt
-ein viereaizes Stück Baumrinde, offenbar von der
-birkcnäbniichen Cergoovia, die nur auf einzelnen Inselgruppen
+an beiden Enden flach zusammengehämmert war. —
+
+Das Aluminiumrohr wurde vorsichtig ausgesägt. Es enthielt
+ein viereckiges Stück Baumrinde, offenbar von der
+birkenähnlichen Sergovia, die nur auf einzelnen Inselgruppen
 der Südsee vorkommt. Diese glatte helle Rinde war als
-So verkappter benutzt worden. Als Tinte war ein brauner
-Saft, fraglos EneFenblut, verwendet worden. Die Schrift
+Schreibpapier benutzt worden. Als Tinte war ein brauner
+Saft, fraglos Schneckenblut, verwendet worden. Die Schrift
 jedoch und hier mußte nun Harald helfen — waren
 lateinische Worte, sinnlos aneinandergefügt.
-Glück darauf saßen wir beide in unserer Wohnkabine und
+
+Gleich darauf saßen wir beide in unserer Wohnkabine und
 versuchten das Geheimnis dieses auf so merkwürdige Art
-Mienen Rindenstüäcs zu enträtseln.
+gefundenen Rindenstücks zu enträtseln.
+
 Die Geheimschrift lautete:
-is Skat Insula plures in mons Turris Beerdigt Pisces —
-auf Tieres neue est Sumatra habet. übt Insulae Crux
-Zaun, hing Insula Crucis cum Diva et Rangun«. Is
-Villa Angelus:
+
+> Is sekat Insula plures in mons Turris Hereditas Pisces
+qui Heres meus est Sumatra habet. ubi Insulae Crux
+faziunt, ultima Insula Crucis cum Silvea et antiquus. Ibi
+est -- Pater Angelus
 
 Harst brauchte drei Minuten, dann hatte er die Worte
-lin Revolver.
+richtig geordnet.
 
-Is. quit Tieres Schuft, Leeres neue est. Insula Sumatra
-Alphabet. übt plures Insulae Crux Januar, in ultima Insula
+> Is quit Pisces sekat. Heres meus est. Insula Sumatra
+habet. ubi plures Insulae Crux faziunt, in ultima Insula
 <@pagebreak/>
-Crucis Mons cum Diva et Turris anstaunt. Ihr est Berechtigt.
+Crucis Mons cum Silva et Turris antiquus. Ibi est Hereditas.
 — Pater Angelus.
-By! deutsch:
-Derjenige, der den Fisch schneidet (also die Röhre
+
+Auf deutsch:
+
+> Derjenige, der den Fisch schneidet (also die Röhre
 findet), ist mein Erbe. Die Insel Sumatra hat dort, wo
 mehrere Inseln ein Kreuz bilden, auf der letzten Insel
-des Kreuzes einen Berg mit ’Wa … und einschalten
+des Kreuzes einen Berg mit Wall und einem alten
 Turm. Dort befindet sich die Erbschaft. — Pater Angelus.
 
-—» Als wir Lync und dem »Erben«, und das wär’ ohne
+— Als wir Lync und dem »Erben«, und das war ohne
 Zweifel Patt O’Lonning, den Inhalt der Urkunde mitteilten,
-meinte Lync achselzuend:
+meinte Lync achselzuckend:
 
-»Falles Berge-Phantasien! Ein schlechter Scherz eines
+»Jules Verne-Phantasien! Ein schlechter Scherz eines
 Witzboldes!«
 
-Patt jedoch traute nachdenklich seinen Feuerbart und
-Blitze Harald nachdenklich an. Der nickte ihm zu. »Wenn es
+Patt jedoch kraute nachdenklich seinen Feuerbart und
+blickte Harald nachdenklich an. Der nickte ihm zu. »Wenn es
 Ihnen recht ist, Patt, untersuchen wir drei die Geschichte
 näher.«
 
 Patts Gesicht strahlte. Und bedächtig sagte er, und bewies
-dadur4F eine nicht geringe Beritandessjärfe:
+dadurch eine nicht geringe Verstandesschärfe:
 
 »Haifische werden sehr alt. Man glaubt über hundert
 Jahre. Wenn ein Pater, vielleicht ein Missionar, irgendwo
-einen Glas entdeckt hat, mag er keine Gelegenheit mehr
+einen Schatz entdeckt hat, mag er keine Gelegenheit mehr
 gehabt haben, ihn zu verwerten. Hierfür spricht, daß er sich
 die Mühe machte, einen Hai, der vielleicht aufs Trockene
-geraten und sehr matt war, die Röhre einzuüben. Ja, ich
+geraten und sehr matt war, die Röhre einzunähen. Ja, ich
 möchte die Insel wohl suchen. Wo soll man sie aber
 finden?«
 
 Besser hätte auch Harald die Annahme Lyncs, es handele
-sie hier um einen besseren Bierulk, kaum widerlegen können.
+sich hier um einen besseren Bierulk, kaum widerlegen können.
 
-Harst reichte den braven Patt die Hand. »Wir werden
-die Insel finden …! Mann Mr. Lync uns mit der Jacht
+Harst reichte dem braven Patt die Hand. »Wir werden
+die Insel finden …! Wenn Mr. Lync uns mit der Jacht
 nach einem der Häfen von Sumatra bringt, nachdem wir
-Colombo besucht haben, werden wir drei eine kleine Erbrecht
-Expedition auf eigene Faust unternehmen, Über den Wortlaut
+Colombo besucht haben, werden wir drei eine kleine Expedition
+auf eigene Faust unternehmen. Über den Wortlaut
 der Urkunde wollen wir besser schweigen. Man kann nie
 <@pagebreak/>
-wissen, ob nicht dieser oder lange der Besatzung Luft verspürte,
-ebenfalls die »Erbschaft zu suchen.
+wissen, ob nicht dieser oder jener der Besatzung Lust
+verspürte, ebenfalls die »Erbschaft" zu suchen.
 
-Patt O’Lonnings Kiefern … und verzog sie zu einem
+Patt O’Lonnings Kiefern … und verzog sich zu einem
 breiten Grinsen … »Na, die könnten lange suchen, Mr. Harst.
-Wenn Sie die Erbschaft nicht finden … — ein anderer
-sicherlich mit!! Da bin ich, was meine ’unwerte Person betrifft,
-ganz ruhig … Überhaupt, Mr. Harst, — was ich von
-Schloß vorhin redete, das war man so mehr ’n Spaß…
-Schatz hab’ im mal gehabt … Das ist lange her …
-Das war, als ich noch; ’n junger, schmucken Kerl war,
-so … mit alle Zähne und mit ’ne Hautfarbe ohne Nun«
-einzeln … Jetzt hab’ ich man bloß daheim in meinem Heimat
-dort ein! alte Mutter … Die hat die Gicht … Und der
-sHid’ ich, was ich so von meine Heuer ablaufen kann …
+Wenn *Sie* die Erbschaft nicht finden … — ein anderer
+sicherlich nicht! Da bin ich, was meine unwerte Person
+betrifft, ganz ruhig … Überhaupt, Mr. Harst, — was ich von
+'n Schatz vorhin redete, das war man so mehr ’n Spaß…
+'n Schatz hab’ ich mal gehabt … Das ist lange her …
+Das war, als ich noch ’n junger, schmucker Kerl war,
+so … mit alle Zähne und mit ’ne Hautfarbe ohne Runzeln
+… Jetzt hab’ ich man bloß daheim in meinem Heimat-
+dorf eine alte Mutter … Die hat die Gicht … Und der
+schick' ich, was ich so von meine Heuer absparen kann …
 Viel ist das nicht … — Also, — wie gesagt, Mr. Harst,
-— die Erbschaft, das is doch alles blauer Dunst … Pech,
+— die Erbschaft, das is doch alles blauer Dunst … Nee,
 Patt O’Lonning fährt Nu schon drei Jahre hier auf der
-Ohio, und so ’ne gute Stellung geh’ ich mich für ’n Stück
-Rinde und lateinisch;Co Wörter auf, Mr. Harst …
+Ohio, und so ’ne gute Stellung geb’ ich nich für ’n Stück
+Rinde und lateinische Wörter auf, Mr. Harst …"
 
 »Die Stellung bleibt Ihnen,« sagte Lync freundlich.
-»Wenn Herr Harst die Sache nicht für blauen Dunst Auftakt,
-dürfen Sie Ihr Glück nicht aus den Händen geben. Gewiß:
+»Wenn Herr Harst die Sache nicht für blauen Dunst auffaßt,
+dürfen Sie Ihr Glück nicht aus den Händen geben. Gewiß
 — eine Lotterie bleibt’s auf alle Fälle. Aber jede Lotterie
-Advokat zu Gewinnlosc. — Sie haben ja auch vorläufig noch
-Zeit, sie die Geschichte zu bestrafen, Lieder Patt …
-34) rate Ihnen jedoch nahdrücdtiemst: E35 her Sie von
-dem Habhaft der Urkunde nichts im Vorschiff!«
+hat auch Gewinnlose. — Sie haben ja auch vorläufig noch
+Zeit, sich die Geschichte zu beschlafen, lieber Patt …
+Ich rate Ihnen jedoch nachdrücklichst: Erzählen Sie von
+dem Inhalt der Urkunde nichts im Vorschiff!«
 
 Patt nickte gleichgültig, machte seinen Kratzfuß und
-schob ab. — —
+schob ab. —
 
-Darauf ahnte keiner von uns, daß das Vermächtnis
+Damals ahnte keiner von uns, daß das Vermächtnis
 des Pater Angelus sich zu einem Kriminalfall seltsamster
-Beschaffenheit aufwachsen sollte.
+Beschaffenheit auswachsen sollte.
 
-Ich) übergebe hier die nächsten drei Tage und beginne
-im zweiten Kapitel mit einem »Ereignis, das jetzt meinem
+Ich übergehe hier die nächsten drei Tage und beginne
+im zweiten Kapitel mit einem Ereignis, das selbst meinem
 Freunde vollständig rätselhaft blieb — vorläufig …
 
 <@pagebreak/>
 
 <h2>2. Kapitel.</h2>
-<h3>Einer der Burns—Bande?.</h3>
+<h3>Einer der Burns—Bande?</h3>
 
 Ich habe Ceylon hier so häufig geschildert, nicht nur
 Colombo und seine Umgebung, sondern auch verschiedene
-Küstenstrichs und Teile des Inneren, daß meine Leser und
-Fremde kaum Wert darauf legen dürften, daß ich den
-Ganz der Ereignisse durch eine Beschreibung der einzigartigen
-Reize des Hauvpthasens der großen Insel unterbreche.
+Küstenstriche und Teile des Inneren, daß meine Leser und
+Freunde kaum Wert darauf legen dürften, daß ich den
+Gang der Ereignisse durch eine Beschreibung der einzigartigen
+Reize des Haupthafens der großen Insel unterbreche.
 
-Die Oslo ankerte unweit der Speicheranlagen der amerikanisch;
-en Firma Arbeitern. Mr. Samuel NobertsonZ hiesigen
+Die Ohio ankerte unweit der Speicheranlagen der amerikanischen
+Firma Robertson. Mr. Samuel NobertsonZ hiesigen
 Vertreter war ein Duzfreund Harold Lyncs. Sein weißer,
 arge:Tiger Bungalow lag abseits am Rande jenes Urwaldstreifens,
 der sich nach Süden zu bis zu den zerklüfteten,
