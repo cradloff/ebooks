@@ -19,7 +19,7 @@ auf dem Achterdeck der Ohio im Liegestuhl und starrte
 mit weltfremden Blick über die klare, leicht bewegte See in
 endlose Fernen. Es war ein Glück für die Ärmste, die
 da im Wyndhia-Dschungel für die entarteten Daki-Zwerge
-die Göttin gespielt Hatte, daß ihr Verstand die letzten Vorgänge
+die Göttin gespielt hatte, daß ihr Verstand die letzten Vorgänge
 nicht mehr in ihrer vollen Bedeutung gefaßt hatte. Niemals
 fragte Sie nach Burns, dem Anführer der Erpresserbande. Er
 schien aus ihrem Gedächtnis ausgelöscht. Ihre ganze krankhafte
@@ -29,7 +29,7 @@ Koko. Beide durften nie von ihrer Seite weichen. Turnte
 Koko einmal droben im Takelwerk umher, so brach die Kranke
 <@pagebreak/>
 sofort in bittere Tränen aus, und notwendig mußte Koko
-dann wieder schleunigst eingefangen werden,
+dann wieder schleunigst eingefangen werden.
 
 Am dritten Reisetage vormittags gegen elf hatten wir
 im Kielwasser der Jacht die schwarzen, dreieckigen Rückenflossen
@@ -43,7 +43,7 @@ der Oberbootsmann Rolfs, ein früherer Harpunier eines
 Walfänger, war mehr fürs Harpunieren, meinte, so ein
 Haifischmagen enthielte allerlei seltsame Dinge, und das
 Gebiß sei doch auch ein wunderschönes Andenken, wenn es auch
-nicht gerade als Zahnersatz, nicht mal für Patt O’Lonning, Zu
+nicht gerade als Zahnersatz, nicht mal für Patt O’Lonning, zu
 gebrauchen wäre. Patt war Irländer, hatte einen Mund
 von Ohr zu Ohr und nur noch Zahnlücken und Zahnstummel
 in angenehmer Reihenfolge. Sonst besaß er noch Pockennarben
@@ -79,7 +79,7 @@ Schneidet mal die Narbe auf, Rolfs!«
 
 Er hatte recht. Keiner hatte die mindestens vierzig Zentimeter
 lange, gewellte, mit Katzendarm genähte Narbe bemerkt.
-Auch Harst nicht. Und als Rolfs nun mit Scharfem
+Auch Harst nicht. Und als Rolfs nun mit scharfem
 Messer die Narbe aufschnitt, kam dicht unter der Haut ein
 länglicher Zylinder aus Aluminiumrohr zum Vorschein, der
 an beiden Enden flach zusammengehämmert war. —
@@ -156,7 +156,7 @@ auf eigene Faust unternehmen. Über den Wortlaut
 der Urkunde wollen wir besser schweigen. Man kann nie
 <@pagebreak/>
 wissen, ob nicht dieser oder jener der Besatzung Lust
-verspürte, ebenfalls die »Erbschaft« zu suchen.
+verspürte, ebenfalls die »Erbschaft« zu suchen.«
 
 Patt O’Lonnings Kiefern … und verzog sich zu einem
 breiten Grinsen … »Na, die könnten lange suchen, Mr. Harst.
@@ -224,8 +224,8 @@ verbeulte braune Feldflaschen hängen, Arekapalmen, die merkwürdige
 Rasamala — viele andere noch.
 
 In diesem idyllischen Heim und wunderschönen Parke
-sollte sich die kranke Lila Sellerhoop erholen, bevor ihre
-Schwester mit ihr die weite Reise nach Neuyork antrat
+sollte sich die kranke Lydia Sellerhoop erholen, bevor ihre
+Schwester mit ihr die weite Reise nach Neuyork antrat.
 
 <@pagebreak/>
 Es war abends neun Uhr …
@@ -314,7 +314,7 @@ verwünschte, der die Stämme noch ärger schüttelte!
 
 Und Harst?!
 
-Der hatte jetzt die Rechte in die Jackentasche versenkt,
+Der hatte jetzt die Rechte in die Jackentasche versenkt.
 
 Der hatte in der Linken einen Spiegel, seinen runden
 Taschenspiegel …
@@ -389,7 +389,7 @@ einfach alles: Kochen, Bügeln, Schuhe säubern, — — sogar
 photographische Platten konnte er entwickeln.
 
 Mitou besaß die Gewandtheit eines Affen. Im Nu
-Hatte er sich emporgearbeitet, hatte dem Toten die mitgenommene
+hatte er sich emporgearbeitet, hatte dem Toten die mitgenommene
 Leine um die Brust geschlungen und ließ den
 Körper nun langsam herab.
 
@@ -407,7 +407,7 @@ das Polizeiauto hielt und drei Europäer ausstiegen
 benachrichtigen lassen), sagte er zu mir in deutscher Sprache:
 <@pagebreak/>
 »Die Herren werden hoffentlich einsehen, daß ich schießen
-Mußte …
+mußte …«
 
 Dann erschienen auch schon Mr. Ralfson, Polizeidirektor,
 nebst Begleitern auf dem Dachgarten.
@@ -437,11 +437,11 @@ auf jenem Polster des einen Rohrsessels.«
 
 Ralfsons Benehmen änderte sich mit einem Schlage.
 Er zog den Glasstöpsel aus dem bräunlichen Fläschchen heraus,
-roch daran uns meinte Kopfschüttelnd: »Das muß irgendein
+roch daran und meinte kopfschüttelnd: »Das muß irgendein
 Teufelszeug von Gift sein, das nur den Indern bekannt.
 Es riecht wie … wie Perubalsam …«
 
-»und es ist das berüchtigste Pflanzengift der Daki-Zwerge,«
+»Und es ist das berüchtigste Pflanzengift der Daki-Zwerge,«
 fügte Harst sehr sachlich hinzu. »Die Daki gewinnen
 er aus den Wurzeln der nur in sumpfigen Dschungeln
 gedeihenden Kuskaliane, benutzen es zum Vergiften ihrer
@@ -450,7 +450,7 @@ es absolut tödlich.«
 
 Ralfson blickte Harst fragend an.
 
-Ich kenne zwar Miß Sellerhoops tragisches Geschick nur
+»Ich kenne zwar Miß Sellerhoops tragisches Geschick nur
 <@pagebreak/>
 aus den Zeitungen,« sagte er mit grüblerischem Gesichtsausdruck.
 »Immerhin weiß ich, daß sie von dem Verbrecher Burns
@@ -570,7 +570,7 @@ kreischten und pufften, die schwarzen, braunen und hellbraunen
 Stauer sangen und brüllten und pfiffen, und diese Sinfonie
 modernsten Lebens wurde übertönt von dem Aufheulen der
 Sirenen eines englischen schlanken Kreuzers, der in elegantestem
-Bogen seinen Ankerplatz suchte
+Bogen seinen Ankerplatz suchte.
 
 <@pagebreak/>
 
@@ -639,7 +639,7 @@ so hat das seinen Grund darin, daß es immerhin
 unbedeutende Probleme oder Abenteuer waren, bei denen
 er uns geholfen hatte.
 
-»… vielleicht, mein lieber Piet … — Kennen Sie Ma
+»… Vielleicht, mein lieber Piet … — Kennen Sie Ma
 Hong?«
 
 Das schwammige Gesicht des Niederländers bekam tiefe
@@ -669,7 +669,7 @@ Geschmack«.
 Als er in kurzem den Stallverschlag in Begleitung eines
 zierlichen blonden Mädchens von etwa zwanzig Jahren wieder
 betrat, als er ihr einen Korbsessel hingeschoben und fast
-zärtlich gesagt hatte: «Setz’ dich, Anni …« da ahnten wir
+zärtlich gesagt hatte: »Setz’ dich, Anni …« da ahnten wir
 schon, daß es eine Landsmännin von uns sei.
 
 Anni Wendner hieß sie. War Waise gewesen, hatte mit
@@ -685,12 +685,12 @@ allgemein als vielfacher Millionär.
 
 Anni war uns gegenüber keineswegs befangen. Sie
 hatte unter das Gewesene einen dicken Schlußstrich gezogen,
-und Heute war sie Ein liebes, sanftes Geschöpf mit traurigen
+und heute war sie ein liebes, sanftes Geschöpf mit traurigen
 ernsten Braunaugen.
 
 »Erzählte von der Insel …« sagte Piet milde. »Die
 <@pagebreak/>
-Herren kennst du ja dem Namen nach … Wenn Irgendwer
+Herren kennst du ja dem Namen nach … Wenn irgendwer
 die Insel findet: die beiden sicherlich!«
 
 Anni trank einen Schluck und begann … — Ich will
@@ -699,7 +699,7 @@ chinesischen Ehemann Batavia erreicht hatten (der Ostasienfahrer
 legte dort an), wurde sie auf einem Spaziergang am
 Strande überfallen, ihr Gatte scheinbar niedergeschlagen und
 sie selbst im Boot auf ein Schiff gebracht, nachdem man ihr
-eine Decke über den Kopf geworfen hatte. Das Schiff Hatte
+eine Decke über den Kopf geworfen hatte. Das Schiff hatte
 Motoren. Mehr wußte Anni nicht. Es landete nach fünf
 Tagen in der Bucht einer kleinen Insel, von der Anni auch
 nur abends einmal zufällig einige Einzelheiten zu sehen
@@ -710,7 +710,7 @@ entstanden …
 »… Die Ufer der Bucht waren zerklüftet … Dickicht
 und Wald zogen sich am steilen Berg hinan, der von
 einem turmähnlichen Felsen gekrönt war. Was mir besonders
-trotz des schwachen Lichtes auffiel, Herr Harst, waren Zwei
+trotz des schwachen Lichtes auffiel, Herr Harst, waren zwei
 Tiger, die am Strande frei umherliefen …«
 
 Harald fragte hastig: »War es nicht doch vielleicht ein
@@ -719,7 +719,7 @@ wirklicher Turm, Fräulein Wendner?«
 Ich wußte, daß er sofort an Pater Angelus’ Urkunde
 gedacht hatte, in der ja auch ein Turm erwähnt war. Aber
 ein solches Spiel des Zufalls, wie Harald es hier erwartete,
-Hätte doch eine zu seltene, seltsame Verkettung von
+hätte doch eine zu seltene, seltsame Verkettung von
 Ereignissen gebildet. Anni schüttelte auch sehr bestimmt den Kopf.
 »Nein, es war ein schlanker Felsen, ein Steinwürfel, vielleicht
 vierseitig. Gewiß, der Felsen glich wohl einem Turme,
@@ -784,7 +784,7 @@ Afghanen Spionendienste geleistet haben — soll! Was daran
 wahr, weiß vielleicht nur einer: König Aman Ullah! —
 In dem Werke des angloindischen Obersten Sir Roger Dalling
 über diesen letzten, so erfolgreichen Freiheitskampf der
-Afghanen wird auf Seite 48, 49 ein »Spion »erwähnt,
+Afghanen wird auf Seite 48, 49 ein »Spion« erwähnt,
 Europäer. Man sagt, dies sei Shing Batru gewesen. —
 
 Harald wandte sich jetzt wieder an Anni Wendner.
@@ -792,7 +792,7 @@ Harald wandte sich jetzt wieder an Anni Wendner.
 Tiger, als das Boot landete?«
 
 »Ja, das war alles sehr merkwürdig, Herr Harst,« meinte
-sie sinnend, »Mit einem Male trat aus den Büschen eine
+sie sinnend. »Mit einem Male trat aus den Büschen eine
 Inderin, die sehr reich gekleidet war. Sie rief die Tiger
 an, und die Bestien gehorchten ihr. Dann kam leider mein
 Wärter und brachte mir das Abendessen. Nachher war’s
@@ -817,7 +817,7 @@ Die Vermutung, jene Insel mit dem bewaldeten Berg und
 Felswürfel könnte die Insel des Pater Angelus sein,
 schien er noch immer nicht aufgegeben zu haben, obwohl doch
 so gut wie nichts dafür sprach. Fräulein Wendner konnte
-jedoch nichts Wesentliches mehr berichten, Nur die Inderin
+jedoch nichts Wesentliches mehr berichten, nur die Inderin
 schilderte sie uns recht genau.
 
 Piet schickte sie darauf wieder in die Küchenregionen
@@ -845,7 +845,7 @@ Burns Freundschaft gehalten, — und wenn Sie jetzt den
 Kerl auf den Pelz rücken, wird auch Batru gerächt werden.
 Ein Leichtsinn war’s ja überhaupt von ihm, sich als Maschinist
 an Bord der Dschunke zu wagen. Und daß diese Kühnheit
-übel Endet …«
+übel endet …«
 
 Es hatte geklopft. In der Glastür erschien Piets Hausmeister,
 ein alter würdiger Tamile … Er entschuldigte sich,
@@ -876,7 +876,7 @@ und dann trat der kleine Schurke von Ma Hong mit
 freundlichem Grinsen ein.
 
 Die Diwandecke hatte sich inzwischen zwei Schnitte gefallen
-lassen müssen. Wir sahen alles
+lassen müssen. Wir sahen alles.
 
 Piet drehte sich halb nach der Tür nun.
 
@@ -906,7 +906,7 @@ genau so höflich. »Ich wollte nur fragen, ob Sie, der Sie
 doch mit allem handeln, vielleicht Bedarf für …«
 
 »Raus!!« brüllte Piet da. »Raus! Mit Ihnen mache
-ich keine Geschäfte …!’
+ich keine Geschäfte …!«
 
 »Ich glaube doch … Lassen Sie mich erst einmal die Tür
 schließen und Platz nehmen, denn das, was ich Ihnen
@@ -945,7 +945,7 @@ blieb er ruhig sitzen, lächelte nur das dünne, freundliche
 Lächeln der Asiaten, der Chinesen, die erst die Wärme des
 Richtschwerts mit den Lippen prüfen und sich dann den Kopf
 abschlagen lassen mit der stoischen Ruhe seltsamer Charaktere,
-Denen der Tod nur Übergang zu neuer Wesensform.
+denen der Tod nur Übergang zu neuer Wesensform.
 
 Ma Hong sagte nur: »Es wäre eine Feigheit, Sir …!!«
 Und darin lag eine abgrundtiefe Verachtung physischer Kräfte.
@@ -968,7 +968,7 @@ unter dem Diwan liegen, — von Ihnen gedungen,
 mir den Hals zu brechen jenes blonden Mädchens wegen,
 das aus dem vierten Glase trank und von mir erzählte, der
 <@pagebreak/>
-ich mit lebendem Fleisch handeln soll, und von einer »Insel
+ich mit lebendem Fleisch handeln soll, und von einer Insel
 mit Tigern und — — ähnlichen Unsinn …«
 
 So sprach Herr Ma Hong, Besitzer der Dschunke Seeschwalbe
@@ -998,7 +998,7 @@ verstörter Miene stummer Zeuge blieb:
 »Wollen Sie sich von Ma Hong vorwerfen lassen, Seeräuber
 gewesen zu sein? — Zwanzig Jahre genügen, auch
 das Schlimmste auszutilgen aus dem Schuldbuch der Menschheit,
-Zumal wenn diese zwanzig Jahre moralisch so erfreulich
+zumal wenn diese zwanzig Jahre moralisch so erfreulich
 aufwärtsführten wie bei Ihren. Wer wie Sie, lieber Piet,
 ein Herz für die Opfer schurkischer Mädchenhändler hat, wer
 wie Sie im stillen so viel Gutes tut, kann jedem fest ins
@@ -1041,7 +1041,7 @@ das Mord bedeutete.
 
 <h2>5. Kapitel.</h2>
 
-<h3>Die Seekarte</h3>
+<h3>Die Seekarte.</h3>
 
 Piet läutete, und der Hausmeister brachte den kleinen
 Chinesen hinaus.
@@ -1051,7 +1051,7 @@ Er starrte zu Boden, rutschte auf dem Schreibsessel hin und
 her, daß der nur so knarrte, und schnaufte und japste und
 schnitt Grimassen. Dann platzte er heraus: »Verdammt —
 bin ich ein ehebrüchiges Weib, daß ich mich scheue, die
-Wahrheit Zu gestehen?! Zwischen uns muß reiner Tisch
+Wahrheit zu gestehen?! Zwischen uns muß reiner Tisch
 sein, Kinder …!« Er streckte Harald die linke und mir
 die rechte Riesenflosse hin. »Ich danke euch …« brummte er
 gerührt. »Ihr habt mich herausgehauen … Das vergesse
@@ -1064,7 +1064,7 @@ der ersten Fahrt von Singapore nach Batavia wurde ich
 von malaiischen und chinesischen Piraten überfallen. Es
 waren vier Dschunken, die uns überraschend bei strömendem
 Regen nachts enterten. Die Schufte machten alles nieder.
-Ich Kämpfte wie ein Wüterich und als ich wie ein angeschossener
+Ich kämpfte wie ein Wüterich und als ich wie ein angeschossener
 Eber schweißte und doch nichts mehr zu retten
 war, sprang ich mit einem Rettungsgürtel, meinem Revolver
 und einem Dolchmesser in die See. Acht Stunden drauf fischte
@@ -1120,7 +1120,7 @@ Erinnerungen …
 
 Harald warf mir einen Langen Blick zu …
 
-Ich verstand,
+Ich verstand.
 
 Piet kannte den Pater.
 
@@ -1128,7 +1128,7 @@ Und nun würde sich ja zeigen, wie er sich uns gegenüber
 weiter verhalten würde, ob er den Mut haben würde,
 auch jetzt der Wahrheit die Ehre zu geben.
 
-Er … reichte Harald den Zettel zurück,
+Er … reichte Harald den Zettel zurück.
 
 Ein tiefer, schwerer Atemzug …
 
@@ -1150,7 +1150,7 @@ ich mein Wort freiwillig … Hier kann ich mit irgend welchen
 Spitzfindigkeiten niemals um den Selbstvorwurf eines Wortbruchs
 herumkommen, und deshalb … — — es tut mir
 leid: Mein Mund bleibt verschlossen. Fragen Sie nichts
-weiter, Harst … Es Wäre zwecklos.«
+weiter, Harst … Es wäre zwecklos.«
 
 »Ich werde nicht fragen. Aber Seekarten besitzen Sie
 vielleicht …«
@@ -1213,7 +1213,7 @@ Ein Fluch …
 
 Halb Schrei …
 
-Und Piet Kolderleeven, der Riese, sank krachend hintenüber,
+Und Piet Kolderleeven, der Riese, sank krachend hintenüber.
 
 <@pagebreak 33/>
 
@@ -1251,7 +1251,7 @@ Colombo gekommen, weil er für die Firma Snider Frachtgut
 nach Singapore zu bringen habe … »Bitte — die Frachtbriefe
 …« Er zeigte sie …
 
-Inzwischen Hatte man die Seeschwalbe durchsucht … nichts
+Inzwischen hatte man die Seeschwalbe durchsucht … nichts
 Verdächtiges gefunden.
 
 Der Polizeidirektor schaute Harst hilflos an.
@@ -1265,7 +1265,7 @@ Harald lehnte in dem kleinen Privatkontor an dem
 modernen Tresor. Durch die Fenster drang bereits die trübe
 Helle des neuen Tages …
 
-Eine Nacht voller explosiver Ereignisse war’s gewesen,
+Eine Nacht voller explosiver Ereignisse war’s gewesen.
 
 Und nun — mußte man Ma Hong doch laufen lassen …
 
@@ -1279,7 +1279,7 @@ Da wandte Harald sich dem Chinesen zu …
 
 »Bitte …«
 
-»Ihre Liste der Besatzung der Dschunke weist Zwanzig
+»Ihre Liste der Besatzung der Dschunke weist zwanzig
 Mann auf, davon acht Chinesen, zehn Malaien, zwei Inder.
 Vernommen sind nur neunzehn Leute. Der Maschinist Mansur
 fehlt.«
@@ -1338,7 +1338,7 @@ Stücke auf die Jacht des Millionärs umgeladen werden. Die
 Firma Snider hatte den Abbruch des Tempels und den
 Transport bis Singapore übernommen. Der Inhaber der
 Firma hatte mittlerweile mit zwei Kulis insgeheim verhandelt
-… Die Kulis waren wir gewesen,
+… Die Kulis waren wir gewesen.
 
 <@pagebreak/>
 Jetzt — waren wir aus Colombo verschwunden. So
@@ -1376,7 +1376,7 @@ ich roch ihn, obwohl ich nur Gelegenheit hatte, das
 Deck der Seeschwalbe flüchtig zu mustern. Ein Verschwundener,
 der so gut »aufgehoben« war wie ich, hat nicht lange Zeit,
 die Umwelt kritisch zu prüfen, bevor er in die Finsternis
-Hinabtaucht.
+hinabtaucht.
 
 Ich weiß nicht, ob meine lieben Leser und Freunde
 nun bereits ahnen, wohin wir verschwunden waren. Wenn
@@ -1409,7 +1409,7 @@ Es roch unbedingt nach geräuchertem Fleisch, nach Brot
 und anderen leckeren Dingen. Aber — es war noch etwas
 anderes dabei, ein Duft, der dem Vieh nicht recht behagte.
 Trotzdem: da war ein Astloch, und die scharfen Zähne begannen
-zu arbeiten,
+zu arbeiten.
 
 Auch die dicht daneben stehende Kiste hatte einen Liebhaber
 gefunden, einen jungen Rattenherrn, der mit dem
@@ -1434,7 +1434,7 @@ zu …
 Die Ratte war flinker …
 
 Im Nu zwängte sie sich durch das Loch in die Kiste
-Hinein …
+hinein …
 
 Herr Mungo dachte: »Dann der andere!« Und um den
 Rattenjüngling war’s geschehen … Ein Quieken — — und
@@ -1504,7 +1504,7 @@ daß eine so verblichene Photographie, die aus Piets tollen
 Zeiten stammt, also mindestens zwanzig Jahre alt ist, niemals
 eine *junge* liebreizende Inderin darstellen kann, die
 von Anni vor etwa drei Jahren flüchtig gesehen wurde.
-Es liegen mithin Zwischen den Ereignissen, die mit Piets
+Es liegen mithin zwischen den Ereignissen, die mit Piets
 Inderin und dem Pater etwas zu tun haben, mindestens
 siebzehn Jahre, — ein Zeitraum, der bei dem raschen Verblühen
 der hiesigen Frauen genügt, aus einem holden
@@ -1544,7 +1544,7 @@ zentimeterbreite Öffnung in die Wand fraß.
 
 Unendlich behutsam zog Harald nun den Bohrer heraus.
 Ein dünner Lichtstrahl kam durch das Loch … Vieles Loch
-— und Harald hatte die einzig Passende Stelle tadellos getroffen
+— und Harald hatte die einzig passende Stelle tadellos getroffen
 — saß zwischen zwei Wandschränkchen, wo es unmöglich
 auffallen konnte, wenn wir nachher gekautes und gefärbtes
 Brot hineindrückten.
@@ -1595,7 +1595,7 @@ Da war ein Korbsessel mit dem größten Schuft aller
 Zeiten als »Besitzer«, denn Ma Hong saß dort …
 
 Da war eine strahlend helle elektrische Lampe über einem
-ovalen Tisch, der reich gedeckt war,
+ovalen Tisch, der reich gedeckt war.
 
 Spuk …
 
@@ -1644,7 +1644,7 @@ dort im grellen Lampenlicht.
 
 Ich sah, daß Ma Hong die Lippen bewegte.
 
-Er sprach sehr Eindrücklich zu der Kranken. Zu verstehen
+Er sprach sehr eindrücklich zu der Kranken. Zu verstehen
 war nichts, selbst dann nicht, als ich das Ohr an
 das Loch preßte.
 
@@ -1663,7 +1663,7 @@ Und jetzt, nachdem er noch die Spitze des Trichters
 mit dem kleinen Finger fest an die Wandung des Loches
 gedrückt hatte, vernahm ich einzelne Worte …
 
-»… Sie wissen es bestimmt!« rief Na Hong sichtlich
+»… Sie wissen es bestimmt!« rief Ma Hong sichtlich
 gereizt …
 
 Ein Murmeln und ein blödes Lachen folgten …: Lydias
@@ -1762,7 +1762,7 @@ Kisten mehr zur Seite … Aber spart die Taschenlampen …
 Wenig Licht … Obwohl die Schufte erst die Luken öffnen
 müßten, wollten sie Zuschauer spielen … Und über die
 Achtertreppe können sie nicht zu uns. Ich habe die Segelkammertür
-verschlossen und verriegelt,« —
+verschlossen und verriegelt.« —
 
 Unsere Festung …
 
@@ -1822,7 +1822,7 @@ Er mochte daran gewöhnt sein.
 
 Nun das Gefährliche: Wir mußten an Deck … Wir
 mußten die Tür der Kammer nach außen öffnen … Auch
-Nicht eine einzige Ritze konnte uns darüber Aufschluß geben,
+nicht eine einzige Ritze konnte uns darüber Aufschluß geben,
 ob etwa auf auf dem Achterdeck eine Wache stand. Im
 übrigen war ja anzunehmen, das die Besatzung mit Ausnahme
 des Rudergasts und der Wachen nach den anstrengenden
@@ -1927,9 +1927,9 @@ Deck wurde es lebhafter. Immer mehr Piraten erschienen,
 wuschen sich auf dem Vorschiff, lungerten herum, mieden aber
 das Achterdeck. Dann kam ein langer dürrer Kerl, der uns
 als Ma Hongs Vertrauter, als Steuermann der Dschunke
-Bereits von Colombo her bekannt war, sehr ahnungslos und
-Sehr gemächlich nach achtern, um hier im »vornehmen Viertel«
-Seine Zigarre zu rauchen.
+bereits von Colombo her bekannt war, sehr ahnungslos und
+sehr gemächlich nach achtern, um hier im »vornehmen Viertel«
+seine Zigarre zu rauchen.
 
 Ich war gerade jetzt allein hier oben. Harst hatte sich
 in die Festung hinabbegeben, um zwei Stunden zu schlafen.
@@ -1938,8 +1938,8 @@ uns die kritische Zeit beginnen. Aber — sie begann früher,
 sie war schon da …
 
 Der lange Chinese mit der konfiszierten Gaunervisage
-Stutzte … Er stand fünf Schritt vor der Kajütentür, —
-er Hatte die Schießscharten entdeckt,
+stutzte … Er stand fünf Schritt vor der Kajütentür, —
+er hatte die Schießscharten entdeckt.
 
 <@pagebreak/>
 Wie eine Statue stand er.
@@ -2032,7 +2032,7 @@ Die Kerle hatten die Vorderluke geöffnet …
 
 Die Kerle feuerten … brüllten …
 
-Die Hölle war los,
+Die Hölle war los.
 
 So hatte ich mir den Beginn der Feindseligkeiten
 doch nicht vorgestellt.
@@ -2238,7 +2238,7 @@ Da — schlug Harst es mir aus der Hand … Beugte sich
 über Ma Hongs Gesicht, das im Bereich der brennenden
 Laterne war.
 
-»Zu früh triumphiert, Ma Hong!! Zu schlecht die Augen.
+»Zu früh triumphiert, Ma Hong!! Zu schlecht die Augen
 behütet!! Das Aufblitzen grausamer Genugtuung kam zu
 früh …!«
 
@@ -2329,7 +2329,7 @@ Antwort zwanzig Kugeln …
 Es war … das Ende …
 
 Irgend etwas flog hinter uns gegen die Bordwand,
-zerbrach, polterte Herab … Eine Wolke Gestank umgab
+zerbrach, polterte herab … Eine Wolke Gestank umgab
 uns … Die Augen tränten … Schwindel packte uns …
 
 Stinktöpfe …
@@ -2378,7 +2378,7 @@ Rest von dreißig und etlichen. Die Haifische hatten einmal
 fette Tage.
 
 Nun war der Morgen da. Neben der Seeschwalbe lag
-Die Ohio. Wir waren nachts absichtlich nicht an Land
+die Ohio. Wir waren nachts absichtlich nicht an Land
 gegangen. Wir hatten im Sternenlicht Tierleiber durch die
 Uferbüsche schleichen sehen, und Harst hatte nicht gewollt,
 daß wir die Bestien erschossen. Tiger waren’s …
@@ -2542,11 +2542,11 @@ gesammelt hatte. —
 
 Patt O’Lonning wurde also doch ein reicher Mann …
 Das Testament des Paters ermöglichte es ihm, in die Heimat
-Zurückzukehren — zu seiner alten Mutter, an der dieser
+zurückzukehren — zu seiner alten Mutter, an der dieser
 rauhe Bursche mit rührender Liebe hing. — —
 
 … Das wäre die Geschichte der Träume der Maharhani
-Ich habe nichts mehr hinzuzufügen. Vielleicht nur das eine,
+ich habe nichts mehr hinzuzufügen. Vielleicht nur das eine,
 <@pagebreak/>
 daß Ma Hongs weitverbreitete Mädchenhändlerorganisation
 durch das spätere Geständnis unserer Gefangenen gesprengt
