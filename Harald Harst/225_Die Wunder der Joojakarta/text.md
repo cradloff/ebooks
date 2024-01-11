@@ -579,123 +579,122 @@ war ungehindert entkommen,
 <h2>3. Kapitel.</h2>
 <h3>Hinter dem roten General.</h3>
 
-Am Abend das dritten Tages saßen wir in recht mitgenommenen
+Am Abend das dritten Tages saßen wir in recht mitgenommenem
 Zustand in Haralds Arbeitszimmer. Zum ersten
 Male waren wir probeweise außer Bett. Soeben hatte
 sich der Sanitätsrat zur Krankenvisite eingefunden.
 
-»-… Ich begreife nicht, daß Sie die Hilfe der Polizei
-nicht in Anspruch nehmen, lieber Sollt’« meinte er mit energischem
-Kopfschütteln. »Sehe begreife überhaupt nichts von
-alledem. Sie werden von einem Brille, die nicht Frau
-Anselmurk war, heimtüisH& durch ein Gasgemenge betäubt,
-das zum Glück keine ernstere Gesundheitssemädigung hervorrief.
+»… Ich begreife nicht, daß Sie die Hilfe der Polizei
+nicht in Anspruch nehmen, lieber Harst,« meinte er mit energischem
+Kopfschütteln. »Ich begreife überhaupt nichts von
+alledem. Sie werden von einem Weibe, die *nicht* Frau
+Anselmurk war, heimtückisch durch ein Gasgemenge betäubt,
+das zum Glück keine ernstere Gesundheitsschädigung hervorrief.
 Sie verlangen von mir strengste Verschwiegenheit und
-schien mich unter einem Vorwand zu der echten Anselmurk,
+schicken mich unter einem Vorwand zu der echten Anselmurk,
 einer beleibten, gemütlichen Frau einwandfreisten Rufes.
 Sie stellen fest, daß die unechte Anselmurk, die Attentäterin,
 Ihnen den Brief gestohlen hat, den sie Ihnen
-damals morgens huschte. Wollen Sie nun die Sache
+damals morgens zuschickte. Wollen Sie nun die Sache
 auf sich beruhen lassen?«
 
 »Natürlich, bester Sanitätsrat … Sehen Sie, die Dinge
-Agra so: die mietfreien Mieter des Hauses Parodkgalstraße
+liegen so: die mietfreien Mieter des Hauses Parochialstraße
 brauchten noch ein paar Tage, um irgend etwas zu
-vollenden, was durch mein Eingreifen nicht hätte so?!«-
-endet werden können. Dieses (Eingreifen fürchteten sie, nachdem
+vollenden, was durch mein Eingreifen nicht hätte voll-
+endet werden können. Dieses Eingreifen fürchteten sie, nachdem
 in der Zeitung jener Artikel erschienen. Ich würde
-Hm lesen, nahmen sie an, und würde sie stören, weil
+ihn lesen, nahmen sie an, und würde sie stören, weil
 mich das Geheimnis reizen konnte, was auch der Fall
-gewesen wäre. Technik gingen sie ihrerseits zum Angriff
+gewesen wäre. Deshalb gingen *sie* ihrerseits zum Angriff
 <@pagebreak/>
 über. Sie gewannen Zeit und sind nun … verduftet, nachdem
 ihr Plan ausgeführt. — Welcher Plan?! Ich weiß
-es nicht … Ich werde es auch nie erfahren. Hm gestrigen
-Morgenblatt stand ja »das Ende« des Erlebnisses …
-Hier ist der neue Artikel
+es nicht … Ich werde es auch nie erfahren. Im gestrigen
+Morgenblatt stand ja »das Ende« des Geheimnisses …
+Hier ist der neue Artikel ..."
 
-Das alte, ganz und gar baufällöge Haus Parochialstraße
-222, dessen Schlaf in den letzten Jagen infolge der
+> Das alte, ganz und gar baufällige Haus Parochialstraße
+222, dessen Schicksal in den letzten Tagen infolge der
 Räumungsaufforderung »an die unbekannten Bewohner
-dieses Hauses« von den Berlinern mit Indveresse verfolgt
-wurde, ist heute ausgebrochen worden. Gegen 2/;11 Uhr vormittags
+dieses Hauses« von den Berlinern mit Interesse verfolgt
+wurde, ist heute aufgebrochen worden. Gegen 1/2 11 Uhr vormittags
 erschien ein Beauftragter der Hausbesitzerin, ein
-Beamter der GrundstürkLsabteilung des Bezirksamts Mitte
-mit Schlossergehilfen. Die an der Haustür anqschlage:e
-Aufforderung he? Bezirkamts wurde abgerissen und die
-Tür dann gewaltsam geöffnet. Eine zwangsweise Rämmu3
+Beamter der Grundstücksabteilung des Bezirksamts Mitte
+mit Schlossergehilfen. Die an der Haustür anqschlagene
+Aufforderung des Bezirkamts wurde abgerissen und die
+Tür dann gewaltsam geöffnet. Eine zwangsweise Räumung
 des Hauses war aber, wie man dies kaum anders erwartete,
-nicht mehr nötig, denn die Scwarzmieter hatten längst
-mehr Quartier verlassen.
+nicht mehr nötig, denn die Schwarzmieter hatten längst
+ihr Quartier verlassen.
 
-Eine Rührte wird ihnen nur schwer möglich werden.
+> Eine Rückkehr wird ihnen nur schwer möglich werden.
 Die vollkommene Sicherung wird nämlich mit »eisernen
 Mitteln« durchgeführt, denn Magistratsbeamte und Schlosser
 haben ein großes schmiedeeisernes Gitter vor dem breiten
 Parterrefenster angebracht,
 
-Hm Innern des Hauses steht es wüst aus. Tritt man
+> Im Innern des Hauses sieht es wüst aus. Tritt man
 auf morschen Dielen in den Flur, so wird dem Besucher
-schon nach wenigen Schritten ein Weiterkommen unmöglich)
-gemacht. Hoch türmen sich Matrosen, alte Bettstellen,
+schon nach wenigen Schritten ein Weiterkommen unmöglich
+gemacht. Hoch türmen sich Matratzen, alte Bettstellen,
 ausrangierte Sessel, Kisten und Kasten. Über eine
 schmale Diele gelangt man ins erste Stockwerk, und erst
 jetzt sieht man, daß das ganze Haus in jedem Geschoß
 nur zwei Räume hat, ein Vorderzimmer und eine nach
 dem Hof gelegene Stube. Das angrenzende Haus Parochialstraße
-221 ist nämlich in das abbruchreife Gebäude Einschuß
-ermittelt. Beide Häuser sollen zusammen nur eine Mauer
-Haben, und das ist wohl auch der Grund, weswegen Varomalstraße
+221 ist nämlich in das abbruchreife Gebäude eingeschachtelt.
+Beide Häuser sollen zusammen nur eine Mauer
+Haben, und das ist wohl auch der Grund, weswegen Parochialstraße
 <@pagebreak/>
-222 vorläufig mochte nicht abgerissen werden
-dann.
+222 vorläufig noch nicht abgerissen werden
+kann.
 
-Hm ersten Stockwerk scheinen die Besitzer der Produktenanstalt
+> Im ersten Stockwerk scheinen die Besitzer der Produktenanstalt
 geschlafen zu haben. Ein furchtbar verstaubtes
 Sofa ist zu einer dürftigen Lagerstätte hergerichtet, neben
-der ein zerbrochener Sessel den Nachttisch ersetzt. Hm aus
-
-— grenzenden Raume lagern Kisten mit hunderten kleiner
+der ein zerbrochener Sessel den Nachttisch ersetzt. Im
+angrenzenden Raume lagern Kisten mit hunderten kleiner
 Pappkartons, zerbrochene Kommoden und Bettstellen, und
 die einzige Zierde dieses chaotischen Durcheinanders ist
 ein alter Blumentopf mit einer vollständig vertrockneten
-Pflanze. Hm Zimmer darüber bietet sich dem Eintretenden
-noch eine Überraschung. An der Wand lehnt ein die zur
+Pflanze. Im Zimmer darüber bietet sich dem Eintretenden
+noch eine Überraschung. An der Wand lehnt ein bis zur
 Decke reichendes Bild, auf dem man unter Staub und
-Wissen noch deutlichen einen General in roter Husarenunifor:1
+Rissen noch deutlich einen General in roter Husarenuniform
 erkennt.
 
-Auf der Straße sind die Arbeiter damit beschäftigt,
+> Auf der Straße sind die Arbeiter damit beschäftigt,
 die auf den Bürgersteig mündenden Kellertüren zu sichern.
-Der Eingang des Hauses wird noch) durch eine eiserne
-Tür versperrt werden, die schon an der Schlosserwerkstatt
-der Abholung harrt. Die geheimnisvollen Kasten dürften
+Der Eingang des Hauses wird noch durch eine eiserne
+Tür versperrt werden, die schon in der Schlosserwerkstatt
+der Abholung harrt. Die geheimnisvollen Mieter dürften
 Hiermit für immer verscheucht sein.
 
-Als wir vor zwei Tagen unseren ersten Artikel über
-das geheimnisvolle Haus Parokialstraße gebracht hatten,
+> Als wir vor zwei Tagen unseren ersten Artikel über
+das geheimnisvolle Haus Parochialstraße gebracht hatten,
 Hat sich das seltsame Paar nebst Hund und Wagen nicht
 mehr gezeigt, obwohl man hinter den Fenstern nachts
-vor noch Licht wahrgenommen haben will. Die Polizei
+doch noch Licht wahrgenommen haben will. Die Polizei
 Mischte sich nicht ein. Sie ist ohnedies überlastet genug.
 
-Jedenfalls dürfte das Geheimnis dieser beiden »Mieter«,
+> Jedenfalls dürfte das Geheimnis dieser beiden »Mieter«,
 die da lange Zeit ihr Doppelleben führten, niemals aufgeklärt
 werden. Vielleicht hätte sich Harald Harst noch rechtzeitig
 der Sache angenommen, wenn er nicht so schwer an
 Grippe erkrankt wäre. Jetzt ist es zu spät — leider. Es
-wäre ja immerhin ganz tükeressant gewesen, in diese
-dunkle Geschichte etwas eingehender hineinzufallen.
+wäre ja immerhin ganz interessant gewesen, in diese
+dunkle Geschichte etwas eingehender hineinzutasten.
 
 »Das habe ich natürlich schon gelesen gehabt,« nickte
 <@pagebreak/>
-der Sanität&rat und deutete ein Achselzucken an. »Zu spät
+der Sanitätsrat und deutete ein Achselzucken an. »Zu spät
 — — leider, leider!!«
 
 »Ja — leider!«, — und Harald langte nach einer Mirakulum,
 legte sie aber wieder in den Silberkasten zurück und
 meinte: »Ich will lieber verzichten. Ich fühle mich doch noch
-zu elend …
+zu elend …"
 
 Der Sanitätsrat verabschiedete sich, und gleich darauf
 löffelten wir in Gesellschaft von Haralds Mutter unser
@@ -708,11 +707,11 @@ Mußten …
 Gegen Frau Harst und Mathilde ist nicht aufzukommen.
 
 Dabei ging es uns ganz leidlich, und als ich in meinem
-Schlafkammer allein war, leistete ich mir sogar seit Tagen
+Schlafzimmer allein war, leistete ich mir sogar seit Tagen
 wieder die erste Zigarre. Es ist eine leidige Angewohnheit,
-im Bett zu rauchen und zu lesen. Ich Harke einen neuen
-Roman vor, und der geistvoller-Plauderer, dessen graziöse Art,
-die Handlung fortzukommen, mich geradezu entzückte, Hielt
+im Bett zu rauchen und zu lesen. Ich hatte einen neuen
+Roman vor, und der geistvolle Plauderer, dessen graziöse Art,
+die Handlung fortzuspinnen, mich geradezu entzückte, Hielt
 mich bis elf Uhr munter. Dann wollte ich die Nachttischlampe
 ausschalten …
 
@@ -726,23 +725,23 @@ Völlig angekleidet, Mirakulum im Mundwinkel …
 
 Lächelnd …
 
-Die grauen Augen voller Glanz und Unternehmungsust
+Die grauen Augen voller Glanz und Unternehmungslust
 …
 
 »Aufstehen, lieber Alter …! Hast deine Bude ja gehörig
 vollgequalmt … Ich auch … Das sollte Mutter wissen …«
 
-Er Sekte sich in den Korbsessel ans Fenster …
+Er setzte sich in den Korbsessel ans Fenster …
 
-»Aufstieg!! Wir wollen 222 besuchen.«
+»Aufstehen!! Wir wollen 222 besuchen.«
 
-Das. war Lebenselixier,
+Das war Lebenselixier,
 
-222’
+222!
 
 Ich suchte die Unterhöschen …
 
-Ich war ist vier Minuten abmarschbereit.
+Ich war in vier Minuten abmarschbereit.
 
 <@pagebreak/>
 Wir nahmen noch allerlei mit, und schlichen dann durch
@@ -750,56 +749,57 @@ die Vordertür hinaus in das wildeste Schneetreiben, das
 es in diesem Winter gegeben.
 
 Es war mäßig kalt. Der Flockenwirbel erfrischte. Man
-sah kaum die Hand vor Augen. Ein Einstreiser brachte uns
+sah kaum die Hand vor Augen. Ein Einstreifer brachte uns
 zur Parochialstraße.
 
-Und man standen wir — halb zwölf war’s — in der
-Förmlich? von 221. Au eine armselige alte Bude. Es schneite
-breiter. Harald öffnete das klapperige Türschloß, wir stiegen
+Und nun standen wir — halb zwölf war’s — in der
+Türnische von 221. Auch eine armselige alte Bude. Es schneite
+weiter. Harald öffnete das klapperige Türschloß, wir stiegen
 die Treppen auf unseren Gummisohlen hinan, gelangten
-auf das Das und von da auf das von 222.
+auf das Dach und von da auf das von 222.
 
 Eine Kleinigkeit: Wir waren im ersten Stock in dem
 bewußten Zimmer mit dem verstaubten Sofa.
 
-… Wir blendeten unsere Taschenlampen vorsichtig ab …
-Und …; sahen auf dem Fensterbrett etwas … glühen …
+Wir blendeten unsere Taschenlampen vorsichtig ab …
 
-Stühlen, leuchten … rund, gelblichgrün …
+Und … sahen auf dem Fensterbrett etwas … glühen …
 
-Etwa?«…
+Glühen, leuchten … rund, gelblichgrün …
 
-Der Berichterstatter hatte Biß hier doch nur angetan
+Etwas …
+
+Der Berichterstatter hatte sich hier doch nur ungenau
 umgeschaut.
 
-Da stand kein Blumentopf mit einer vertrodäneten
-»Pflanze.
+Da stand kein Blumentopf mit einer vertrockneten
+Pflanze.
 
 Nein, da stand ein Töpfchen mit einem Leuchtkaktus …
 
 »Aha!« flüsterte Harald. »Das ist eine Lampe, die gerade
-genug Licht gibt, um sie hier notdürftig zurechtfinden zu
-können, Oder — der weibliche Bart dieser Produklenhyändlerjirma
-liebt tatsächlich Kakteen. Das wäre immerhin eine
-Spur « … — Jetzt wollen wir uns jedoch ein Versteck schaffen,
-mein Alter … Dort das Reiescaubild an der Wand elf
+genug Licht gibt, um sich hier notdürftig zurechtfinden zu
+können. Oder — der weibliche Part dieser Produktenhändlerfirma
+liebt tatsächlich Kakteen. Das wäre immerhin *eine*
+Spur … — Jetzt wollen wir uns jedoch ein Versteck schaffen,
+mein Alter … Dort das Riesenbild an der Wand steht
 so schräg, daß dahinter bestimmt für uns beide Platz ist.
 Und diese Klappstühlchen nehmen wir mit. Ich habe nicht
-Luft, stundenlang zu stehen …
+Lust, stundenlang zu stehen …"
 
-Unser Verließ hinter dem RViesengemälde des Husarengeüerals
-bot außer der bequemen Sitzgelegenheit vor den
+Unser Versteck hinter dem Riesengemälde des Husarengenerals
+bot außer der bequemen Sitzgelegenheit noch den
 großen Vorteil, daß einige Löcher in der Leinwand uns
 eine Übersicht über den ganzen Raum gestatteten.
 
 <@pagebreak/>
 So saßen wir denn in rabenschwarzer Finsternis in unseren
-Sportpelzen wohl eine Stunde, Es war hinter empfindlich kalt,
+Sportpelzen wohl eine Stunde. Es war hier empfindlich kalt,
 und die lautlose Stille ringsum, nur unterbrochen durch
 das Rascheln von Mäusen und das leise Klirren einer
-Insekt verkitteten Fensterscheibe, ferner das Knacken und
+schlecht verkitteten Fensterscheibe, ferner das Knacken und
 Knistern im Gebälk das alten Hauses, — — all das ließ bei
-mir keine Müdigkeit auskommen.
+mir keine Müdigkeit aufkommen.
 
 Eine volle Stunde …
 
@@ -808,27 +808,27 @@ Leuchtzifferblatt —, als Harald mich sanft rüttelte.
 
 Es war unnötig.
 
-Au ich hatte draußen an Treppenflur dasselbe Knarren
+Auch ich hatte draußen im Treppenflur dasselbe Knarren
 der morschen Stufen gehört, das mir vorhin, als wir vom
-Dache her abwärtösstiegen, so stark an die Nerven gegangen
+Dache her abwärtsstiegen, so stark an die Nerven gegangen
 war,
 
 Es kam Jemand.
 
-Schräg links lag die Flurtür, Rechts die Verbindungstür
-nach dem Nebenraum. Diese hing nur noch Bruders)ist in
+Schräg links lag die Flurtür. Rechts die Verbindungstür
+nach dem Nebenraum. Diese hing nur noch windschief in
 den Angeln. Auch die Flurtür kreischte scheußlich, und das
 tat sie jetzt — — in kurzen Pausen …
 
 Ein Lichtschein blitzte auf …
 
-Dann erschien eine gebückte Männertzestalt in einem
+Dann erschien eine gebückte Männergestalt in einem
 Schlafrock, auf dem Kopf ein Seidenkäppchen. Aus einem
 wirren grauen Bart sprang eine rote Hakennase vor …
 
 Das war alles, was ich von dem Manne erkannte,
 
-Er hielt in der Rechten eine Karbidradlerlaterne Welt
+Er hielt in der Rechten eine Karbidradlerlaterne Weit
 vorgestreckt. Er stand noch immer in der Tür, drehte den Kopf
 hin und her …
 
@@ -839,10 +839,10 @@ Schritt für Schritt nur wagte er sich vorwärts …
 Nahm nun das Käppchen von dem blanken Schädel
 und deckte es über die Laterne …
 
-Matte vor einem anderthalb Meter hohen Haufen geläuterter
+Machte vor einem anderthalb Meter hohen Haufen gebundelter
 Zeitungen, die neben dem Bilde an der Wand
 <@pagebreak/>
-aufgelkürmkt waren, halt und stellte die Laterne auf den Inselchen:
+aufgetürmt waren, halt und stellte die Laterne auf den Fußboden:
 —
 
 Wer war’s?
@@ -852,55 +852,55 @@ Etwa der … Hausierer?!
 Hatten er und die bildhübsche Gefährtin dort unter der
 Zeitungsbarrikade etwas versteckt?! Wozu begann er jetzt
 die Zeitungsbündel zur Seite zu stellen?! Weshalb tat er
-Ei:6 mit rätselhafter Eile?!
+dies mit rattenhafter Eile?!
 
 Pech für uns: Er baute den Zeitungsturm so, daß uns
-be Aussicht versperrt wurde!
+die Aussicht versperrt wurde!
 
 Selbst als ich mich vorsichtig erhob, konnte ich nichts
 sehen … nichts. Nur sein kahler Schädel und seine Hände
-Frauchen »Ameisen auf.
+tauchten zuweilen auf.
 
 Er hatte hagere lange Hände mit Gichtknoten, schmutzige,
-frailenar!!e Finger, Aber … Kraft! Mit den schweren Gattin
+krallenartige Finger. Aber … Kraft! Mit den schweren Bündeln
 Hantierte er wie mit leeren Pappkartons.
 
-Dann hatte er das Käppchen wieder ausgesetzt … Für
-Gefunden wurde es sehr hell … Nun ein Knarren, Knistern,
+Dann hatte er das Käppchen wieder aufgesetzt … Für
+Sekunden wurde es sehr hell … Nun ein Knarren, Knistern,
 Knacken …
 
 Der Lichtschein verschwand …
 
-Dunyolhßbeit»…
+Dunkelheit …
 
-Stelle …
+Stille …
 
-Tüinutenlang.
+Minutenlang.
 
 Jetzt wieder das Licht, das Knarren, Knistern, Knacken …
 
-Fest wieder der blanke Kalhlfopf, die Gichlyäandve: der
-Kerl feststelle die Bündel dort wieder auf, wie sie gelegen
-hatten — noch rascher wie zuvor, …
+Jetzt wieder der blanke Kahlkopf, die Gichthände: der
+Kerl schichtete die Bündel dort wieder auf, wie sie gelegen
+hatten — noch rascher wie zuvor.
 
 Und — als er fertig, als er uns in voller Figur wieder
 sichtbar, da … hatte er die Hände zu Fäusten geballt, drohte
-in ohnmächtiger Wut mit verzerrtem Gesicht einem rundes
-konnten Todfeinde …
+in ohnmächtiger Wut mit verzerrtem Gesicht einem unbekannten
+Todfeinde …
 
 Geifernd, zischend sprudelte er irgend etwas hervor, schüttelte
 die Fäuste und — — huschte zur Flurtür — — so
-hastig,!« plötzlich, daß ich« Harald zu spät in die Rippen
+hastig, so plötzlich, daß ich Harald zu spät in die Rippen
 stieß …
 
 <@pagebreak/>
-Der Kerl war!Chor auf der Treppe …
+Der Kerl war schon auf der Treppe …
 
-Sie!narrte …
+Sie knarrte …
 
-»am nach!« flüsterte ich …
+»Ihm nach!« flüsterte ich …
 
-»Nein …!!« meinte Harald, »Wir bekommen ihn schon
+»Nein …!« meinte Harald. »Wir bekommen ihn schon
 noch, mein Alter. Den haben wir jetzt sicher …«
 
 »Sicher?«
@@ -908,18 +908,18 @@ noch, mein Alter. Den haben wir jetzt sicher …«
 »Natürlich!«
 
 »Aber er war doch zweifellos verkleidet, und er wird
-als »Gentleman« so völlig anders aussehen, daß wir …’«
+als »Gentleman« so völlig anders aussehen, daß wir …«
 
-»Oh — keine Sorge! Den erkenne ich unter Hundert«
+»Oh — keine Sorge! Den erkenne ich unter Hundert-
 tausenden wieder …«
 
 »Hm … Ich Zweifle daran …«
 
-»T’s nur. Ich zweifle nich!!«
+»Tu’s nur. Ich zweifle nicht!«
 
-»Oh er denn un Schlafrock hergekommen ihr?k«
+»Ob er denn im Schlafrock hergekommen ist?«
 
-»Leinen Mantel oder Pelz wird er schon 1 der Tube
+»Seinen Mantel oder Pelz wird er schon in der Nähe
 haben …«
 
 »Auf dem Boden vielleicht …«
@@ -927,7 +927,7 @@ haben …«
 »Verstandest du übrigens, was der da so wütend murmelte?«
 
 »Nein … Nur ein Wort erinnerte mich an Indien …
-Es klang wie Joojakarta.«
+Es klang wie Jorjakarta.«
 
 »Irrtum. Er sagte Joojakarta.«
 
@@ -935,37 +935,37 @@ Es klang wie Joojakarta.«
 Ohren …«
 
 »Durchaus nicht. Ich reimte mir das Wort halb und
-halb zusammen. Joojakarta in Indien kennen wir. So o Jakarta
+halb zusammen. Jorjakarta in Indien kennen wir. Jo o jakarta
 ist ein Künstlername …«
 
-»So!!«
+»So?!«
 
-»Ja. Hm November und Dezember des soeben verflossenen
+»Ja. Im November und Dezember des soeben verflossenen
 Jahres war für die Skala der Raubtierdresseur Joojakarta.
-
 engagiert — verblüffende Pantherdressuren, fünf schwarze
-Panther, der Pantherkönig Zoo Jakarta, wie’s in den Anzeigen
-Sich.«
+Panther, der Pantherkönig Joo Jakarta, wie’s in den Anzeigen
+hieß.«
 
-»Land du meinst der Hausierer haßt diesen Dresseur«
-»Chef umgekehrt …«
+»Und du meinst der Hausierer haßt diesen Dresseur?«
+
+»Oder umgekehrt …«
 
 <@pagebreak/>
-hab »Was mag der Hausierer hinter den Zeitungen gesucht
-eng«
+»Was mag der Hausierer hinter den Zeitungen gesucht
+haben?«
 
-»Eid selbst, mein Alter, — sich selbst«
+»Sich selbst, mein Alter, — sich selbst!«
 
-»hin sprichst in Rätseln …«
+»Du sprichst in Rätseln …«
 
 »Scheinbar nur … — wir wollen noch zehn Minuten
 warten, dann brechen wir auf. Ich weiß jetzt so ziemlich
 alles, was ich für den Anfang brauche.«
 
 »Nicht möglich?! Bist du in der Tat so fest davon überzeugt,
-daß du …’
+daß du …"
 
-»Still … — die Treppe! Es gebt weiter!«
+»Still … — die Treppe! Es geht weiter!«
 
 Die Treppe knarrte …
 
@@ -978,17 +978,17 @@ beschneiten Pelz, in dunklem Langhaarfilzhut …
 
 Ein Monokel blinkte unter der Hutkrempe …
 
-Ie8zt nahm der Gentleman den Hut ab, schüttelte in.
+Jetzt nahm der Gentleman den Hut ab, schüttelte ihn ...
 
-Da32 Licht seiner Taschenlampe glitt über sein Gesicht,
+Das Licht seiner Taschenlampe glitt über sein Gesicht,
 
 Beinahe hätte ich vor Überraschung aufgeschrien …
 
 <@pagebreak/>
-4x. Kapitel.
-Eis
-Die Toten stehen auf.
-4« … »ich « Hof
+
+<h2>4. Kapitel.</h2>
+
+<h3>Die Toten stehen auf.</h3>
 
 Beinahe hätte ich …! Treppen!
 
