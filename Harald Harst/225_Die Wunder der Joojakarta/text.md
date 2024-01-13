@@ -1444,74 +1444,73 @@ Harald lehnte am Schreibtisch.
 <h2>1. Kapitel.</h2>
 <h3>Er und wir.</h3>
 
-Jetzt, wo ich Willen in allernächster Nähe vor mir hatte,
+Jetzt, wo ich Miller in allernächster Nähe vor mir hatte,
 wo noch Habgier, Wut, Angst seine widerlichen Züge verzerrten,
 erschien mir dieses Gesicht derart abstoßend, daß
 ich nicht anders konnte: Ich rief diesem alten elenden Wicht zu:
 
-»Ja — erzählen Sie! Aber lügen Sie nich!! In Ihrem
-Blick allzeit die Güte eines routinierten Schwindlers!
+»Ja — erzählen Sie! Aber lügen Sie nicht! In Ihrem
+Blick glitzert die Tücke eines routinierten Schwindlers!
 
 »Laß das, mein Alter!« sagte Harald ohne besonderen
-Energieaufwand. »Herr Willen ist noch ein wenig verwirrt
+Energieaufwand. »Herr Miller ist noch ein wenig verwirrt
 …«
 
 Miller schielte mich von unten so recht unverschämt an.
 
 »Ich … bin kein Schwindler,« meinte er trotzdem sehr
-fromm. »Ich bin ein bescheidener Weniger, nichts weiter, —
+fromm. »Ich bin ein bescheidener Rentner, nichts weiter, —
 ein bedauernswerter Witwer, der hier allein in seiner kleinen
-Wohnung haust und …
+Wohnung haust und …"
 
-»…-… nie die Zimmer säubern laß!!« grobste ich ihn an.
-»Pfui Teufel, wie stinkt es Geier, wie staubig ist es alles
+»… nie die Zimmer säubern läßt!« grobste ich ihn an.
+»Pfui Teufel, wie stinkt es hier, wie staubig ist es alles
 und wie …«
 
 »Erzählen Sie, Herr Miller,« fiel mir Harald ins Wort.
 »Schraut hat heute seinen schlechten Tag … Er war nicht
-dreht damit einverstanden, daß wir in dieser bösen Winternacht
+recht damit einverstanden, daß wir in dieser bösen Winternacht
 das Haus Parochialstraße 222 besuchten, wo es doch sehr
 geheimnisvoll hergegangen sein soll …«
 
 <@pagebreak/>
-Miller schien erst jetzt so recht wieder zu sich zu kommen,
-Nummer 22?! Das gab ihm einen förmlichen elektrischen
+Miller schien erst jetzt so recht wieder zu sich zu kommen.
+Nummer 222!! Das gab ihm einen förmlichen elektrischen
 Schlag. Seine Augen wurden riesengroß.
 
 Aber Harald lächelte harmlos …
 
-»Wir fanden dort alles so, wie es in den Geringe
+»Wir fanden dort alles so, wie es in den Zeitungen
 gestanden hatte: Ein Loch in der Mauer, und durch dieses
-So) kamen wir hier zu Ihnen, Herr Willen. Haben Sie
+Loch kamen wir hier zu Ihnen, Herr Miller. Haben Sie
 diese Öffnung hergestellt?«
 
 Ferdinand Miller war ein ganz Gerissener.
 
-»39,« erwiderte er mit beneidenswerter Frechheit. »Leider
-tat ich) es, leider. Ich wollte den Produktenhändler Herde
+»Ja,« erwiderte er mit beneidenswerter Frechheit. »Leider
+tat ich es, leider. Ich wollte den Produktenhändler beob-
 achten.«
 
 »Feine Arbeit für harmlose Rentner, Herr Miller!! —
-Und dieses Loch wurde Ihnen verhängniszvoll?y«
+Und dieses Loch wurde Ihnen verhängniszvoll?«
 
-»Ja … Heute. Soeben erst. Ich) saß hier an morgens
-Er hreibtischh, Herr Harst … ahnungslos … Mit einem Male
+»Ja … Heute. Soeben erst. Ich saß hier an meinem
+Schreibtisch, Herr Harst … ahnungslos … Mit einem Male
 erschien von der Schlafstube her ein maskierter Kerl, ein
-richtiger Ganove aus der Gegend des Schlesischen Bahnen
+richtiger Ganove aus der Gegend des Schlesischen 
 Bahnhofs. Er hielt mir eine Pistole unter die Nase und zwang
 mich, ihm meine geringen Ersparnisse auszuhändigen …«
 
-Donnerwetter!! Konnte Ferdinand Willen lügen!! Ein
+Donnerwetter!! Konnte Ferdinand Miller lügen!! Ein
 Ganove!! Und maskiert!! Und geringe Ersparnisse! Nicht
-schlecht gesagt!«
+schlecht gesagt!
 
 Er hatte also keine Ahnung, daß wir ihn und Saalborg
 belauscht hatten.
 
-»Wie sah der Bursche denn aus?« fragte Harald teilte
-nahm Groll.
+»Wie sah der Bursche denn aus?« fragte Harald teilnahmsvoll.
 
-»Sdczäubiger brauner Ulster, dunkler Totschlags, dunkle
+»Schäbiger brauner Ulster, dunkler Wollschal, dunkle
 Schlappmütze,« log Herr Ferdinand weiter.
 
 »Mit der Beschreibung ist nicht viel anzufangen …«
@@ -1520,46 +1519,46 @@ Schlappmütze,« log Herr Ferdinand weiter.
 
 »Und wieviel erpreßte er von Ihnen?«
 
-»Etwa … zweitausend Mark … r- für mich ein Vermögen,
+»Etwa … zweitausend Mark … -- für mich ein Vermögen,
 Herr Harst.«
 
 »für andere auch, Herr Miller. — Selbstverständlich
 <@pagebreak/>
-will ins Ihnen helfen … Vielleicht wird auch die Polizei …«
+will ich Ihnen helfen … Vielleicht wird auch die Polizei …«
 
-… Polizei?! Die soll aus dem Spiel hierüber!! Ganz
+"… Polizei?! Die soll aus dem Spiel bleiben!! Ganz
 und gar! Wie stehe ich da, Herr Harst, wenn ich aussagen
 muß, daß ich das Mauerloch …«
 
-»-… Ganz recht, — also ohne Polizei. — Meinen
+»… Ganz recht, — also ohne Polizei. — Meinen
 Sie, daß etwa der jetzt verduftete Produktenhändler den
-Burschen hierher geschickt hatte«
+Burschen hierher geschickt hat?«
 
-»Wahrscheinlich …
+»Wahrscheinlich …"
 
-»4ud was wissen Sie über diesen geheimnisvollen Mann
-von drüben?
+»Und was wissen Sie über diesen geheimnisvollen Mann
+von drüben?"
 
 »Wenig … wenig, Herr Harst …«
 
 »Aber Sie hatten doch das Mauerloch zur Verfügung!«
 
-»Ganz recht … S4 war Dozent jedoch: erst vor vier
+»Ganz recht … Ich war damit jedoch erst vor vier
 Tagen fertig geworden, und das Pärchen machte sich dünne,
 nachdem die Hausbesitzerin sich eingemischt hatte … Ich habe
 nur gesehen, daß der angebliche Produktenhändler damals
 nachts vor vier Tagen sich in einen vornehmen Herrn im
-Getrost, Monokel, Haarfilzhut und Lackstiefeln verwandelt
-hatte …
+Gehpelz, Monokel, Haarfilzhut und Lackstiefeln verwandelt
+hatte …"
 
-»Und die Frau, Herr Willen? Es war doch noch eine
+»Und die Frau, Herr Miller? Es war doch noch eine
 Frau dabei.«
 
-»Die … sah ich nicht, — oder besser, im? sah sie
+»Die … sah ich nicht, — oder besser, ich sah sie
 nur in ihren Lumpen und ihrer grauen Perücke …«
 
-»Schade, unendlich) schade!! — Können Sie uns denn
-nicht wenigstens eine Kleinigkeit angeben, die es uns viel
+»Schade, unendlich schade!! — Können Sie uns denn
+nicht wenigstens eine Kleinigkeit angeben, die es uns viel-
 leicht ermöglicht, dieses seltsame Paar wieder aufzustöbern?«
 
 Miller gab sich den Anschein, als ob er sehr angestrengt
@@ -1567,68 +1566,69 @@ nachdachte.
 
 Dann rief er:
 
-»Tod — doch, — ich hörte, wie der Mann das Weib
-mit Zoo anredete …«
+»Doch — doch, — ich hörte, wie der Mann das Weib
+mit Joo anredete …«
 
 »Immerhin etwas … — Besinnen Sie sich man noch
-genauer … VWBielleicht fällt Ihnen noch etwas ein …«
+genauer … Vielleicht fällt Ihnen noch etwas ein …«
 
-» Miller rieb sich mit seiner Gichtpfote die Stirn …
+Miller rieb sich mit seiner Gichtpfote die Stirn …
 
-»Hm — — noch etwas — — noch etwas?! — — galt,
+»Hm — — noch etwas — — noch etwas?! — — Halt,
 <@pagebreak/>
-ja … ja … ich weiß noch etwas … Er sagte zu Ihr in
-einer fremden Sprache einen Satz, in dem das Wort Jovejakarta
-vorkam …« …
+ja … ja … ich weiß noch etwas … Er sagte zu ihr in
+einer fremden Sprache einen Satz, in dem das Wort Joojakarta
+vorkam …«
 
 »Famos!! Joojakarta, das ist ja ein Varieteekünstler, ein
 Raubtierdresseur …«
-elf Ferdinandchen, der alte Gichtgreis, feixte plötzlich ganz
-mühselig … —
 
-»Herrgott, das hätte ich beinahe vergessen »… Erst der
-»Dresseur« brachte mich darauf … der Hund, Herr Harst»…
-der Hund, — — das war ja gar’ kein Hund, Herr Hältst,
+Ferdinandchen, der alte Gichtgreis, feixte plötzlich ganz
+selig …
+
+»Herrgott, das hätte ich beinahe vergessen … Erst der
+»Dresseur« brachte mich darauf … der Hund, Herr Harst …
+der Hund, — — das war ja gar kein Hund, Herr Harst,
 das war … ein schwarzer Panther, den die beiden als
-Wächter und Pferd benutzten. Als Pferd knöpften sie. ihn
-in ein Hundefell ein …: Tatsache!! Ich«) hab’s gekehrt«.«
+Wächter *und* Pferd benutzten. Als Pferd knöpften sie ihn
+in ein Hundefell ein …: Tatsache!! Ich hab’s gesehen ...!«
 
-»Na, na, das klingt sehr nach Jägerlatein, Lieder Herr
-Miller …’, Ein Panther läßt sich doch nicht ohne weiteres
+»Na, na, das klingt sehr nach Jägerlatein, lieber Herr
+Miller … Ein Panther läßt sich doch nicht ohne weiteres
 in ein Fell hineinzwängen!«
 
 »Oh, die Bestie war lammfromm, Herr Harst … —
 ihrem Herrn gegenüber … Ich sah’s ja mehrmals, wie der
-Kerl mit dem Panther spielte …»’
+Kerl mit dem Panther spielte …»
 
 »In der einen Nacht?«
 
 Miller wurde verlegen …
 
-»Natürlich, natürlich, — in der einen Nacht … Nennt
+»Natürlich, natürlich, — in der einen Nacht … Wann
 sonst?!«
 
 »Allerdings … — Nun, dann unterliegt es wohl keinem
 Zweifel mehr, daß der Produktenhändler der Dresseur Joojakarta
-war. Merkwürdig bleibt nur, wesohalb er in 222
+war. Merkwürdig bleibt nur, weshalb er in 222
 nebenan Quartier bezogen hatte — sehr merkwürdig. Aber
 das wird sich ja aufklären lassen, hoffe ich. Wir wollen
-nun nicht länger stören, Herr Miller … Bemühen Sie sieh
-nicht weiter, uns etwa hier zum Hause herauszulassen… Wir
+nun nicht länger stören, Herr Miller … Bemühen Sie sich
+nicht weiter, uns etwa hier zum Hause herauszulassen. Wir
 benutzen denselben Weg — durch das Loch, durch 222,
 über das Dach … Und die Zeitungsbündel werden wir
-ebenfalls an Ort und Stelle wieder auftürmen, — Sie hören
+ebenfalls an Ort und Stelle wieder auftürmen. — Sie hören
 noch von uns … Gute Nacht …«
 
-Stalle Berge Harst 21 Kanon bin, Sie wurde übersehen.
+Miller streckte Harald die Hand hin. Sie wurde übersehen.
 <@pagebreak/>
 Harald hatte es glänzend heraus, Händedrücke zu
-verwehten.
+vermeiden.
 
 Wir betraten also wieder das bewußte Zimmer, nein,
 die elende Rumpelkammer.
 
-Ich war’s, der durchs das Mauerloch voran kroch. Ich hielt
+Ich war’s, der durch das Mauerloch voran kroch. Ich hielt
 die eingeschaltete Taschenlampe in der Linken. Als ich mich
 aufrichtete, glitt der Lichtkegel zufällig über die Ruine von
 Sofa hin. Ich stand reglos. Da saß Vincent Saalborg, rauchte
@@ -1636,35 +1636,35 @@ eine Zigarette, lächelte mich an, nickte mir zu und hielt
 kann den Zeigefinger an die Lippen.
 
 »Vorwärts doch!« brummte Harald hinter mir und gab
-wir einen gelinden Stoß gegen die Sitzgelegenheit, Ich versperrte
+mir einen gelinden Stoß gegen die Sitzgelegenheit. Ich versperrte
 ihm den Weg, machte nun zwei Schritte vorwärts
-grub starrte noch immer Saalborg an.
+und starrte noch immer Saalborg an.
 
-Harald drängte mich etwas zur Seite. Auch er halte
-den »großen?« Saalborg bemerkt. Aber er nahm zunächst
-»eine Notiz von ihm, klappte das Stück Tapete herab und
+Harald drängte mich etwas zur Seite. Auch er hatte
+den »großen« Saalborg bemerkt. Aber er nahm zunächst
+keine Notiz von ihm, klappte das Stück Tapete herab und
 begann die Zeitungen umzuschichten.
 
-3ch Half. Es ging sehr schnell. Mit welchen Gedanken
-ich diese Arbeit erledigte, wird jeder sich selbst unschwer versuchen
+Ich Half. Es ging sehr schnell. Mit welchen Gedanken
+ich diese Arbeit erledigte, wird jeder sich selbst unschwer vorstellen
 können.
 
 Nun waren wir fertig. Harst schleppte noch ein paar
 Kisten und ein paar Bastmatten herbei und verstärkte die
-wöurrzitave.
+Barrikade.
 
-Herzogin und wieder hatte ich nach dem Sofa hinübergesczielt.
-Unter Dient lehnte da wie ein völlig Unbeteiligter, sah
+Hin und wieder hatte ich nach dem Sofa hinübergeschielt.
+Unser Vincent lehnte da wie ein völlig Unbeteiligter, sah
 zu und … rauchte.
 
-Harald ging zu ihm, reihte ihm die Hand.
+Harald ging zu ihm, reichte ihm die Hand.
 
-»Saalborg,? meinte er leise … »Sie leben wirklich
+»Saalborg," meinte er leise … »Sie leben wirklich
 noch?!« In seiner Stimme war ein warmer Unterton. Er
 sprach gedämpft, er behielt Saalborgs Hand in der seinen.
 »Sie sind sehr leichtsinnig,« fügte er hinzu. »Sie kennen
-mich … So sehr im auch Ihre besondere Besorge? milde
-zu beurteilen bereit bin: Wir sind auch hier Gegner«
+mich … So sehr ich auch Ihre besondere Wesensart milde
+zu beurteilen bereit bin: Wir sind auch hier Gegner!«
 
 Saalborg hatte sich erhoben.
 
@@ -1672,91 +1672,91 @@ Saalborg hatte sich erhoben.
 In seinen Zügen war ein frohes Leuchten.
 
 »Jahre sind’s her … Vier Jahre, Herr Harst … Und
-ich! — dieses Wiedersehen! Ich freue mich?«
+jetzt — dieses Wiedersehen! Ich freue mich!«
 
-Harst gab seine Hand frei Und Saalborg schüttelte die
+Harst gab seine Hand frei. Und Saalborg schüttelte die
 meine. »Herr Schraut, — eine überraschende Begegnung auf
-dem Felde der … Unehre oder der Ehre, wie man’s nimm!!
-Sie haben sich gar nich! verändert. Von mir kann man das
+dem Felde der … Unehre oder der Ehre, wie man’s nimmt!
+Sie haben sich gar nicht verändert. Von mir kann man das
 leider nicht sagen … — Ich habe viel durchgemacht. Doch —
 davon später …!«
 
 Harst hatte bereits in dem schäbigen Sessel Platz genommen,
 
-»Oh diese Bude sich gerade für eine Aussprache eign::.
-bleibt zweifelhaft,« meinte er ernst. »Miller kam. wie vorhin
-über das Dach hierher kommen, und … ich wollte Ab
+»Ob diese Bude sich gerade für eine Aussprache eignet,
+bleibt zweifelhaft,« meinte er ernst. »Miller kann wie vorhin
+über das Dach hierher kommen, und … ich halte ihn
 für gefährlich. Der Mensch hat …«
 
-—.je Ursache, der Polizeiamt dem Wege zu gehen,
-Herr Harst … Er würde außerdem das Bad besetzt Finder …
-Es war schon besetzt, als Sie beide kamen. Hm Staube hinter
-dem roten vereint fand ich Ihre Fußspuren. Sie haben meiner
+"... alle Ursache, der Polizei aus dem Wege zu gehen,
+Herr Harst … Er würde außerdem das Dach besetzt Finden …
+Es war schon besetzt, als Sie beide kamen. Im Staube hinter
+dem roten General fand ich Ihre Fußspuren. Sie haben meiner
 Unterredung mit Miller beigewohnt, und wir können uns
 deshalb ganz kurz fassen. — Bitte, nehmen Sie doch
-neben mir Platz, Herr Schraut … So … Mädchen wir es
-uns gemütliches … Sie gestatten …:«
+neben mir Platz, Herr Schraut … So … Machen wir es
+uns gemütlich … Sie gestatten …«
 
 Er hielt uns sein goldenes Zigarettenetui hin …
 
-»Feine Sorge, meine Herren: die Zigaretten sind kein
+»Keine Sorge, meine Herren: die Zigaretten sind kein
 Pappkarton mit Kakteen, wirklich nicht … Es ging ja überhaupt
 sehr gegen meine Prinzipien, Ihnen beiden diesen
 an sich infamen Streich zu spielen. Aber die Verhältnisse
-zwangen nich dazu. Hm brauchte unbedingt noch zwei Tage
+zwangen mich dazu. Ich brauchte unbedingt noch zwei Tage
 Zeit. Sie beide aber hätten auf jene Zeitungsnotiz hin
 ebenso sicher angebissen und mich hier gestört. Das von mir
 verwendete Gas konnte anderseits Ihre Gesundheit ernstlich
-nicht gefahren. Das wußte ich. Entschuldigen Sie bitte, daß
+nicht gefährden. Das wußte ich. Entschuldigen Sie bitte, daß
 ich zu einem so verwerflichen Mittel griff, Sie von hier
-fernzuhalten. Es ging Wirklich nimmt anders … Ich mußte
+fernzuhalten. Es ging Wirklich nicht anders … Ich mußte
 <@pagebreak/>
 Zeit gewinnen, wenn nicht die Arbeit von Monaten Zwecklos
 werden sollte.«
 
-Er sagte das alles in so liebenöwürdiq-aufrichtiger Art,
-daß Harald lediglich erwiderte — und eine Tiger!!e nahm.
+Er sagte das alles in so liebenswürdig-aufrichtiger Art,
+daß Harald lediglich erwiderte — und eine Zigarette nahm.
 
-»Ich hätte mich gefreut, Sie ach in der Hinsicht verwandelt
+»Ich hätte mich gefreut, Sie auch in der Hinsicht verwandelt
 wiederzusehen, daß Sie Ihren einstigen … Beruf
 aufgegeben haben, Saalborg.«
 
 »Das habe ich!« erklärte unser Gegner mit derselben
-Offenheit, Seine klugen, kühlen Augen hielten Haralds prüfend-cerstauntem
-Blick ohne Scheu und Hinterhältigkeit stand.
-»M bin nicht mehr der Gentlemans-Dieb von einst … Ihr
-habe die Welt von mir selbst befreit, Daß ich jetzt scheinbar
-wieder … abgenutzter bin, scheinbar, daran bin nicht ich,
-sondern eine Frau schuld, wenn man überhaupt von »Schuld
+Offenheit. Seine klugen, kühlen Augen hielten Haralds
+prüfend-erstauntem Blick ohne Scheu und Hinterhältigkeit stand.
+»Ich bin nicht mehr der Gentleman-Dieb von einst … Ich
+habe die Welt von mir selbst befreit. Daß ich jetzt scheinbar
+wieder … abgerutscht bin, scheinbar, daran bin nicht ich,
+sondern eine Frau schuld, wenn man überhaupt von »Schuld"
 hier sprechen kann, Zu meinem Bedauern darf ich Ihnen
 aus sehr schwerwiegenden Gründen meinen Kampf gegen
-Mutter nicht eingehender begründen. Sie kennen mich aber,
+Miller nicht eingehender begründen. Sie kennen mich aber.
 Es gibt Verhältnisse, die eben mächtiger sind als wir selbst,
-Sie kennen mich als in! Grunde anständigen … Gauner.
+Sie kennen mich als im Grunde anständigen … Gauner.
 Was ich mit Miller zu erledigen hatte, war Pflicht, genau
-wie Sie Heide es stets für ihre Aufgabe hielten, das Unrecht
+wie Sie beide es stets für ihre Aufgabe hielten, das Unrecht
 Zu bekämpfen.«
 
 Auch ich hatte mir eine Zigarette genommen.
 
-Es war ein mehr als seltsames Monstrum hier in dem
-Stunden Zimmer: drei gut gekleidete Männer im ungeheizten
-Raume zwischen Gerümpel … Und draußen setzte der Wintersturm
+Es war ein mehr als seltsames Konsilium hier in dem
+elenden Zimmer: drei gut gekleidete Männer im ungeheizten
+Raume zwischen Gerümpel … Und draußen fegte der Wintersturm
 durch die Straßen … Nebenan in 221 aber hockte
-vielleicht noch: immer im Sreibsessel der Bestohlene, — der
+vielleicht noch immer im Schreibsessel der Bestohlene, — der
 Mann, der mir geradezu widerlich und der doch unsere
 Hilfe beanspruchen durfte: Ein durch Saalborg Geschädigter!
 
 Harald hatte diese letzten Äußerungen meines Sofanachbarn
-widerspruchölos mit angehört. Aber sein etwas
-voerfnissener Mund und ein kaum Werk liebes Netze/euer:.1
-zeigten mir, daß er diesen Vergleich) zwischen Saalborg ur
+widerspruchslos mit angehört. Aber sein etwas
+verkniffener Mund und ein kaum merkliches Achselzucken
+zeigten mir, daß er diesen Vergleich zwischen Saalborg und
 uns keineswegs billigte.
 
 <@pagebreak/>
 Eine kurze Pause entstand. Dann entgegnete er:
 
-»Sie schlanken bei diesem Kampf gegen das Unrecht ganz
+»Sie haben bei diesem Kampf gegen das Unrecht ganz
 nett verdient!«
 
 Saalborg schien auf diesen Einwurf vorbereitet.
@@ -1764,27 +1764,27 @@ Saalborg schien auf diesen Einwurf vorbereitet.
 »Sie irren, Herr Harst … Bei diesen Kampf mußte
 der Schuldige bestraft werden. Armut ist eine Strafe … Miller
 führte das Leben eines echten Parasiten. Nach außen hin
-war er der armselige Kleinrentner, insgeheim … scheuchte
+war er der armselige Kleinrentner, insgeheim … schlemmte
 er, und sein Freundinnenkreis war ein Harem.«
 
-»Tod kein Grund, ihn zu bestehlen,« meinte Bald
+»Doch kein Grund, ihn zu bestehlen,« meinte Harald
 scharfen Tones,
 
 Saalborg lächelte nachsichtig. »Ich nannte ihn einen
-Parasit, Herr Harst … Er war eine Zecke, ein Vorsorge,
+Parasit, Herr Harst … Er war eine Zecke, ein Holzbock,
 bekanntlich kleine flache Milben, die im Walde vorkommen,
-sich an Hunden, Mensch4en, Vieh festsaugen und zu einer
-grauweißen Kugel sich auftauchen. — Mehr über Mister
+sich an Hunden, Menschen, Vieh festsaugen und zu einer
+grauweißen Kugel sich aufsaugen. — Mehr über Miller
 darf ich nicht verraten.«
 
-»Skat Dr alles gut und schön,« erklärte Harst kurz,
-»Trotzdem: Sie werden Ihren Raub wieder herauvgcbein!!t
-Ich kann mich unmöglich mit Ihnen auf einen Schnur darüber
+»Das ist alles gut und schön,« erklärte Harst kurz.
+»Trotzdem: Sie werden Ihren Raub wieder herausgeben!
+Ich kann mich unmöglich mit Ihnen auf einen Desput darüber
 einlassen, ob …«
 
 Und — — schwieg …
 
-Huschte …
+Lauschte …
 
 Flüsterte: »Die … Treppe!!«
 
@@ -1795,13 +1795,13 @@ von oben herabkamen.
 
 Saalborg war aufgestanden. Wie ein Schatten verschwand
 er im Nebenraum, in dem Stübchen, dessen Fenster nach
-dem Hose h)Anzuschlagen.
+dem Hofe hinausgingen.
 
 Indem flog die Tür auch schon kreischend auf.
 
 Auf der Schwelle standen vier Leute …: Ferdinand
 Miller, hinter ihm drei waschechte Gentlemen aus der
-Gegend des Brieflichen Bahnhofs …; Verbrechertypen niederster
+Gegend des Schlesischen Bahnhofs …: Verbrechertypen niederster
 Sorte!
 
 <@pagebreak/>
@@ -1810,19 +1810,19 @@ Sorte!
 <h3>Der alte Saalborg …</h3>
 
 Miller hatte ein infames Grinsen um den Mund. Seine
-Leibgarde aber hatte anderes, was schweren wog: die drei
+Leibgarde aber hatte anderes, was schwerer wog: die drei
 Kerle — es waren Leute unbestimmbaren Alters, verlebt,
-versichert, verkommen — hatten Pistolen.
+verliedert, verkommen — hatten Pistolen.
 
 Die Geschichte wurde also ernst,
 
 Miller kam näher,
 
-Die Frackschößen behielten uns im Auge.
+Die Scharfschützen behielten uns im Auge.
 
 Zielten …
 
-»Wo ist der Lump?! fragte Miller sieh.
+»Wo ist der Lump?!" fragte Miller frech.
 
 »In nächster Nähe,« — und Harald hob die Hand
 und deutete auf … Miller selbst.
@@ -1830,16 +1830,16 @@ und deutete auf … Miller selbst.
 Der wurde grüngelb.
 
 »Herr Harst,« zischte die Zecke, »die Partie muß anders
-gespielt werden! Jetzt habe ich die Alte und die Bauern …
+gespielt werden! Jetzt habe ich die Asse und die Bauern …
 Der Skat hat sich geändert.«
 
 »Durchaus nicht, mein verehrtester Herr Miller … Nichts
-Hat sie, geändert … Wir suchten Seiner Durchlaucht dem
-Fürsten Aasgeiern den Raub abzujagen. Wenn Sie nicht ist
+Hat sich geändert … Wir suchten Seiner Durchlaucht dem
+Fürsten Iwenstern den Raub abzujagen. Wenn Sie nicht mit
 Ihren drei »Bauern« so laut die Treppe herabgepoltert wären,
 würde Seine Durchlaucht zweifellos alles herausgegeben
 Haben. Nun ist er dorthin entwichen und sicherlich längst über
-alle Berge — oder Dädzer’«
+alle Berge — oder Dächer.«
 
 Miller stieß schon die Verbindungstür auf. Sie kreischte
 ekelhaft. Er hatte eine große Radlerlaterne mit, leuchtete
@@ -1851,130 +1851,128 @@ Dann zu einem der drei:
 »Suche!!«
 
 Das klang fast wie der Befehl an einen Hund …
-»Euch, Pirat!!«
+»Such, Tyras!«
 
-Mund der Kerl schob sich in das Stübchen, kehrte das
+und der Kerl schob sich in das Stübchen, kehrte das
+Unterste zu oberst,
 
-Unterste zu Oberst,
-Seine Durchlaucht wurde nicht gefunden! Auch im Hofe
+Seine Durchlaucht wurde *nicht* gefunden! Auch im Hofe
 nicht.
 
-Willen schäumte …
+Miller schäumte …
 
 Zumal Harald seine Mirakulum mit der ganzen Seelenruhe
 eines gänzlich Unbeteiligten qualmte.
 
-»Herr Harst, Sie kennen den Schuf!!t«
+»Herr Harst, Sie kennen den Schuft!!«
 
 »Sie doch auch!«
 
 »Nein …! Leider nein!«
 
 »So?! Und vorhin in Ihrem Wohnzimmer erzählten Sie
-uns, daß Sie den Produktenhändler auch als Gentleman ge
+uns, daß Sie den Produktenhändler auch als Gentleman ge-
 sehen haben …«
 
-»Ah) — also es ist derselbe1s’ —
+»Ah — also es ist derselbe!!"
 
 »Natürlich — genau so natürlich, wie Sie uns belogen
 haben. Das Loch dort in der Mauer ist das Werk Seiner
-Durchaus. Sie selbst ahnten nicht, daß der Produktenhändler
+Durchlaucht. Sie selbst ahnten nicht, daß der Produktenhändler
 es auf Sie abgesehen hatte. Erst nachdem er Sie vor
 drei Tagen zum ersten Mal bestohlen hatte, ging Ihnen
 das bekannte Licht auf. Er stahl die Aktien damals ebenfalls.
 Sie waren für ihn wertlos. Er bot sie Ihnen an. Sie sollten
-das Gelb holen und er — schlüpfte durch die Wandöffnung zu
-
+das Geld holen und er — schlüpfte durch die Wandöffnung zu
 Ihnen hinein, war bereits zur Stelle, bevor Sie noch daheim
 — über das Dach — anlangten. Er paßte gut auf, wo Sie
 Ihre Barbestände versteckt hielten, die er beim ersten Mal nicht
-gefunden hatte, Er beobachtete Sie also heimlich und — nahm
+gefunden hatte. Er beobachtete Sie also heimlich und — nahm
 alles mit, alles … Nun sind Sie arm, bettelarm, Herr
-Master … Durchlaucht hat Sie gänzlich ausgepowert, Ich
-behaupte, Sie können nicht einmal Ihre Garde mehr be
-sollten …« Und er nickte den drei Scharfschützen gemütlich
+Miller … Durchlaucht hat Sie gänzlich ausgepowert. Ich
+behaupte, Sie können nicht einmal Ihre Garde mehr besolden
+…« Und er nickte den drei Scharfschützen gemütlich
 Zu.
 
-Die hatten ausgehorcht.
+Die hatten aufgehorcht.
 
 <@pagebreak/>
-Der eine meinte in bedeckten Verfinstert:
+Der eine meinte in leckerstem Berlinsch:
 
-»Wenn die Geschickte so Stein 11:;, Herr Miller: Abschaum
+»Wenn die Jeschichte so stehn tut, Herr Miller: alsdann
+-- nich ’n kleenen Finger rühr’n wa for Ihnen! Erst nu
+mal raus mit die dreihundert Märker!«
 
-nich ’n kleenen Finger rühr’n. wo vor Ihnen! Erst Nu
-mal raus mit die dreihundert Märker«
-
-Miller ward grün … nicht nur grüngelb. Er Eure
+Miller ward grün … nicht nur grüngelb. Er durch-
 schaute Harsts bescheidenen Trick.
 
-»0r sollt jeder zweihundert haben — — morgen,«
-Kreischte er mit einer Fistelstimme, die durchzog Mark und Bein
+»Ihr sollt jeder zweihundert haben — — morgen,«
+Kreischte *er* mit einer Fistelstimme, die durch Mark und Bein
 ging.
 
-»Ach4 nee: Seite, Seite, mit morjen,« meinte der Kerl
+»Ach nee: heite, heite, nich morjen,« meinte der Kerl
 nur der Zuhältervisage … »Raus mit die Kröten, Herr
-Mister … Scharnieren Sie sich nich …!«
+Miller … Schanieren Sie sich nich …!«
 
-Mister zitterte …
+Miller zitterte …
 
 Aber zahlte nicht.
 
 Er besaß nichts mehr,
 
-»Abhang,« sagte der Sprecher, »Abschaum — gute Nacht,
-Keller Schwindler! So ’ne Bretter!! Lockt der A … uns
-hierher, und hat noch« nich mal ’n Signor ins Verließ, —
-&ntsuldijen Sie, Herr Harst … Wir türmen!«
+»Alsdann,« sagte der Sprecher, »Alsdann — jute Nacht,
+oller Schwindler! So ’ne Freichheit!! Lockt det A … uns
+hierher, und hat noch nich mal ’n Knopp ins Portföh, —
+Entschuldijen Sie, Herr Harst … Wir türmen!«
 
 Ferdinand Miller hatte sich mit beiden Fäusten auf
-eine Kiste geglückt.
+eine Kiste gestützt.
 
-»Zt … werdet … mich schon noch brauchen …« sagte
-er zu den dreien mit untersuchen Stimme. »Zu) … komme wieder
-hohes!! Ich bin … noch lange nicht erledigt — lange
-nich!!« …
+»Ihr … werdet … mich schon noch brauchen …« sagte
+er zu den dreien mit wuterstickter Stimme. »Ich … komme
+wieder hoch!! Ich bin … noch lange nicht erledigt — lange
+nicht!«
 
 Hohngelächter von der Tür her …
 
-Die Tür fiel krachend und klappernd ins Grab- Dann
-das z2narren der Treppenstufen …
+Die Tür fiel krachend und klappernd ins Schloß. Dann
+das Knarren der Treppenstufen …
 
-Stille …- ck
+Stille … --
 
 Harald nahm eine neue Mirakulum.
-»Ich, wieder in die Sofaecke geschmiegt, erwartete voller Spannung
+
+Ich, wieder in die Sofaecke geschmiegt, erwartete voller Spannung
 den Fortgang der Dinge.
 
 Miller beruhigte sich,
 
-Arm kam erst jetzt zum Vewerßftsein, daß er sich uns
-gegenüber soeben eine schwere BiV352. gar Gehen hatte. Sein
+Ihm kam erst jetzt zum Bewußtsein, daß er sich uns
+gegenüber soeben eine schwere Blöße gegeben hatte. Sein
 <@pagebreak/>
-Eingeständnis; in Verbindung mit Verbrechern zu stehen, lernte
-mobil, Ein scheuer Blick stier;te Harald … Dann meinte er:
+Eingeständnis, in Verbindung mit Verbrechern zu stehen, reute
+ihn. Ein scheuer Blick streifte Harald … Dann meinte er:
 
-»Diese Kerle belästigen mich immer wieder. Ich) war
-Seufzer Rechtskonsulkent, Herr Harst … Noch jetzt habe ich
-l!einer eine bissige, mir peinliche Klientel …
+»Diese Kerle belästigen mich immer wieder. Ich war
+früher Rechtskonsulent, Herr Harst … Noch jetzt habe ich
+leider eine kleine, mir peinliche Klientel …"
 
-Harald schwieg, Über seine starren, harten grauen Augen
-brachten den Lügner zum Eilten…
+Harald schwieg. Aber seine starren, harten grauen Augen
+brachten den Lügner zum Erröten.
 
 Miller setzte sich verlegen auf die Kiste und zog den schmierigen
 Schlafrock enger um die mageren Glieder. Er überlegte,
 wie er wohl die Dinge wieder für sich günstiger gestalten
-könnte und erklärte schließlich mit der ganzen Unverfryorenheit
+könnte und erklärte schließlich mit der ganzen Unverfrorenheit
 eines hartgesottenen Hehlers, denn das war er
 ja fraglos:
 
-»Werden Sie diesen Gut, der mich bestahl, finden,
-Herr Harst? — Ich … in es … Ihnen ist nichts unnütze
-sich).«
+»Werden Sie diesen Schuft, der mich bestahl, finden,
+Herr Harst? — Ich … hoffe es … Ihnen ist nichts unmöglich."
 
 Auf diese plumpe Schmeichelei entgegnete Harald eisig:
 
-»Ihnen ist auch nichts unmöglich, scheint mir …—
+»Ihnen ist auch nichts unmöglich, scheint mir … —
 Was wollten Sie eigentlich hier mit diesen drei bewaffneten
 Zuhältern?«
 
@@ -1988,69 +1986,72 @@ Miller hüstelte … In seine Augen trat ein Flimmern …
 
 »Also kennen Sie den Namen des Produktenhändlers …«
 
-»Vincent Saalborg!!« rief Willen triumphierend.
+»Vincent Saalborg!!« rief Miller triumphierend.
 
 »und Sie glauben, damit etwas ausrichten zu können?«
 
-»Vielleicht …!!« Ein niederträchtiges Grinsen unterstrich
+»Vielleicht …!« Ein niederträchtiges Grinsen unterstrich
 dieses eine Wort.
 
 Harald warf ihm einen prüfenden Blick zu.
 
 »Herr Miller, zunächst das eine: Von uns haben Sie
 nichts mehr zu hoffen. Dann das andere: Ich warne Sie!!
-Echo eindringlich!! So! scheinen da irgendwie Dummheiten
-riechen zu wollen, Lassen Sie das! Ich würde Sie nichts
-Dokument«
+Sehr eindringlich!! Sie scheinen da irgendwie Dummheiten
+machen zu wollen. Lassen Sie das! Ich würde Sie nicht
+schonen!«
 
 <@pagebreak/>
-»Oh — Sie würden es!!? Schlimm!! Ich, warne Sie
+»Oh — Sie würden es!! Bestimmt!! Ich warne Sie
 ebenfalls: Entweder Sie jagen Saalborg den Raub wieder
-ab, oder es passiert etwas, das Ihnen … das Gen! blickt::!«
+ab, oder es passiert etwas, das Ihnen … das Genick bricht!"
 
-Das war eine so ungeheure Unverschämtheit, daß 1)
+Das war eine so ungeheure Unverschämtheit, daß ich
 mich nicht länger beherrschen konnte …
 
 »Frecher Kerl, Sie …!! Sie … drohen uns, — da hört
 sich doch alles auf!!’
 
-Er!hauchte mich an … Seine Augen sprühten Haß und
-Schirm::2E0,
+Er schaute mich an … Seine Augen sprühten Haß und
+Heimtücke.
 
 »Da … hört gar nichts auf, Herr Schraut … Da fängt
-vielleicht erst etwas an …! — Weg — wollen Sie?«
+vielleicht erst etwas an …! — Also — wollen Sie?«
 
 Das galt Harald.
 
 »Ein interessanter Typ,« meinte Harst zu mir, als ob
-»Mitten gar nicht vorhanden wäre, »Ein Hehler von der
-5i2ffender Unverfrorenheit … — Gehen wir. Ich bekomme
-»alte Güte …
+Miller gar nicht vorhanden wäre. »Ein Hehler von
+verblüffender Unverfrorenheit … — Gehen wir. Ich bekomme
+kalte Füße ..."
 
-ät stand auf und schritt zur Tür,
-3H an …
-… »Herr Harst 111«
+Er stand auf und schritt zur Tür,
 
-». ’ Harald Schlosse die Für …
+Ich auch ...
 
-Stiller existierte für ihn nicht mehr,
+»Herr Harst!!!«
 
-— Meer Harst, Sie werden es bereuen!!« keifte das richtige
+Harald öffnete die Tür …
+
+Miller existierte für ihn nicht mehr,
+
+"Herr Harst, Sie werden es bereuen!!« keifte das nichtige
 Scheusal hinter uns … —
 
-»dir erreichten die stille Straße. Das Schneetreiben hatte
-nach: Kissen, Ein Duftreichen brachte uns heim. Während
-Gleich den Chauffeur bezahlte, bemerkte ich zu meinem
+Wir erreichten die stille Straße. Das Schneetreiben hatte
+nachgelassen. Ein Einstreifer brachte uns heim. Während
+Harald den Chauffeur bezahlte, bemerkte ich zu meinem
 Erstaunen, daß in Haralds Arbeitszimmer Licht brannte. Die
-Laden waren geschlossen, ’aber oben war doch ein schmaler
+Laden waren geschlossen, aber oben war doch ein schmaler
 heller Strich zu erkennen,
-ja »Harald — — Licht bei dir!«
 
-»Wundert die das?!. Es wird Saalborg sein …
+»Harald — — Licht bei dir!«
 
-— Es war Saalborg …
+»Wundert dich das?! Es wird Saalborg sein …"
 
-Es war da der alte Vincent Saalborg von früher)
+Es war Saalborg …
+
+Es war doch der alte Vincent Saalborg von früher,
 für den es keine Sicherheitsschlösser gab …
 
 <@pagebreak/>
@@ -2061,56 +2062,56 @@ für den es keine Sicherheitsschlösser gab …
 Er saß am Kamin im Klubsessel. Sein Pelz lag über
 der Sofalehne.
 
-Bei unserem Eintritt legte er die Zigarette weg +:
+Bei unserem Eintritt legte er die Zigarette weg und
 erhob sich.
 
-»Sie kleinen mit Willen doch noch Weiterungen 646559
-zu haben, meine Herren …« Er lächelte liebenswürdig; …
-»Oder besser: Sie haben sie gehabt … Ich war Alte
-wieder im Nebenraum «., LH wollte Sie doch nicht in; der
-Patsche stecken lassen. Hätten Sie, Herr Harst, Milier9.
-Garde nicht so sein entwaffnet, dann würde es mein Cassius:
+»Sie scheinen mit Miller doch noch Weiterungen gehabt
+zu haben, meine Herren …« Er lächelte liebenswürdig …
+»Oder besser: Sie haben sie gehabt … Ich war nachher
+wieder im Nebenraum ... Ich wollte Sie doch nicht in der
+Patsche stecken lassen. Hätten Sie, Herr Harst, Millers
+Garde nicht so fein entwaffnet, dann würde es mein Cassius
 getan haben, der zahmste und kräftigste meiner Panther.
-Wir hatten ihn mit auf das Dach genommen — im Hundes
+Wir hatten ihn mit auf das Dach genommen — im Hunde-
 Kostüm —, wo meine Frau wartete und Posten stand.
 Cassius hätte die drei Burschen schnell bekehrt.«
 
 Harald schüttelte leicht den Kopf.
 
-»Sie haben sich doch nicht geändert, Saalborg! — Nehmer
+»Sie haben sich doch nicht geändert, Saalborg! — Nehmen
 Sie wieder Platz. Und reden wir offen … — Haben Sie
 Ihre Gaunerlaufbahn aufgegeben?«
 
 »Ja …«
 
-Saalborg lehnte 3zwangloS-elegant am Kamin. Er trug
+Saalborg lehnte zwanglos-elegant am Kamin. Er trug
 einen dunklen Einknopfanzug, der seine schlanke, schnittige
 Figur wirkungsvoll in jeder Linie hervorhob.
 
-»Und — Ihr Geschäft mit Millers«
+»Und — Ihr Geschäft mit Miller?«
 
 Harald setzte sich in den anderen Klubsessel. Ich schob
-zwei Buchenscheite in den Kamin auf die glühenden Gestohlen.
+zwei Buchenscheite in den Kamin auf die glühenden Preßkohlen.
 
 <@pagebreak/>
-»Bedauere unendlich: Ich bin diskret,« erwiderte Kalibers
-verbindlich, »Ich habe Rücksichten zu nehmen. Herr
+»Bedauere unendlich: Ich bin diskret,« erwiderte Saalborg
+verbindlich. »Ich habe Rücksichten zu nehmen. Herr
 Harst, hier — — bitte …«
 
 Er reichte ihm ein Formular …
 
-» -«. Sie sehen, im habe vor einer Viertelstunde in der
-Giaur nachts geöffneten Wechselstube der Gebrüder Schlesinger
-für den Berliner Kinderhort eingezahlt — als Fürst Legenden
-Aasgeiern, als angeblichen Spielgewinn dieser Nacht:
-»genau Hundertahtundfünfzigtausend Mark. — Das ist die
+»... Sie sehen, ich habe vor einer Viertelstunde in der
+auch nachts geöffneten Wechselstube der Gebrüder Schlesinger
+für den Berliner Kinderhort eingezahlt — als Fürst Alexander
+Iwenstern, als angeblichen Spielgewinn dieser Nacht:
+genau hundertachtundfünfzigtausend Mark. — Das ist die
 Barsumme, die ich von Miller als Strafe erhob. Ferner
-habe im Gottesackers Diamanten im ungefähren Wert von
-fünfzigtausend Mark zu gleichen Zweck übergeben — für arme
-Kinder. Und Ihnen überreiche im hiermit das Paket Aktien …
+habe ich Schlesinger Diamanten im ungefähren Wert von
+fünfzigtausend Mark zu gleichem Zweck übergeben — für arme
+Kinder. Und Ihnen überreiche ich hiermit das Paket Aktien …
 bitte …«
 
-Er nahm es vom Tunesische …
+Er nahm es vom Rauchtische …
 
 »Bitte — Millers Aktien … Tun Sie damit, was Sie
 wollen … Ich kann sie leider nicht verwenden. Ich betone
@@ -2121,15 +2122,15 @@ Harald überflog das Formular …
 Er schaute auf.
 
 »Saalborg, — Sie haben gut Wohltäter gespielt … Aber
-— — ins! Soll im das so hingehen lassen?! Wie denken
-Sie sich …
+— — ich?! Soll ich das so hingehen lassen?! Wie denken
+Sie sich …"
 
 Er verstummte …
 
 Es war niemand mehr da — außer mir …
 
-Freund Vincent hatte blikzshHhnell Pelz und Hut ergriffen,
-war in Harsts Schlafzimmer geschlüpft»…
+Freund Vincent hatte blitzschnell Pelz und Hut ergriffen,
+war in Harsts Schlafzimmer geschlüpft …
 
 Das Schloß knackte.
 
@@ -2139,29 +2140,29 @@ Als ich auf den Hof kam, stand der eine Fensterflügel
 offen. An der Mauer lehnte unsere Leiter. Saalborg war verschwunden,
 
 Ich kletterte in das Schlafzimmer hinein, schloß die Tür
-auf und betrat das Arbeitgzimmier.
+auf und betrat das Arbeitszimmer.
 
-Harald saß ruhig am Kamin und warnte sich die Füße
+Harald saß ruhig am Kamin und wärmte sich die Füße
 
 <@pagebreak/>
 »Er stiehlt jetzt für andere, mein Alter,« empfing er
 mich … »Aus Saalborg wird man nie klug werden …
 Wir halten ihn jahrelang für tot … Er taucht als Dresseur
 wieder auf, bewohnt ein baufälliges Haus, ruiniert einen alten
-Hehler und … tut Gutes. Ein Rätsel, dieser Mensch … je«
+Hehler und … tut Gutes. Ein Rätsel, dieser Mensch … !«
 
 Er gab mir das Formular …
 
 »Da — er hat tatsächlich das Geld eingezahlt und die
 Steine zum Verkauf übergeben … — Wirst du daraus
-schlau, lieber Alter?! Ich nicht …! Miller ist, Hehler. Weise
+schlau, lieber Alter?! Ich nicht …! Miller ist Hehler. Wes-
 halb schädigte Saalborg ihn derart?! Persönliche Rache?!
-Nein, nein, — darüber ist ein Saalborg erhaben .:. Was
+Nein, nein, — darüber ist ein Saalborg erhaben ... Was
 also sonst?«
 
 Wir rieten hin und her,
 
-Erst um vier Uhr morgens gingen wir zu Bei! — eins
+Erst um vier Uhr morgens gingen wir zu Bett — um
 nichts klüger.
 
 Das Geheimnis von Parochialstraße 222 war nun ja
@@ -2172,48 +2173,54 @@ Elf Uhr vormittags …
 Wir hatten gerade gefrühstückt. Wir hatten in der Veranda
 den warmen Sonnenschein des klaren Wintertages
 genossen … Haralds Mutter hatte sich alles erzählen lassen.
-Au sie stand vor einem Rätsel. Und sie war doch eine so
+Auch sie stand vor einem Rätsel. Und sie war doch eine so
 kluge, kühl-kritische, aber warmherzige Natur, hatte uns
-sieben so und so oft durch treffende Kombinationen überrascht.
+schon so und so oft durch treffende Kombinationen überrascht.
 
 Am Fenster in Sonnenlicht standen die Kakteen …
 
-Wen ich mir so recht überlege, was alles seit dem
+Wenn ich mir so recht überlege, was alles seit dem
 Vormittag geschehen, als die angebliche Frau Anselmurk
-mit ihren Kakteen uns hineingelegt hatte — — ins Wollt’?
+mit *ihren* Kakteen uns hineingelegt hatte — — ins Bett!!
 — — was alles: Wochen hätten diese Ereignisse ausfüllen
-Tonnen! — …
+können! —
 
-Mathilde schwebte herein … ww
+Mathilde schwebte herein …
 
 Ihr Pausbackengesicht war blaurot …
 
-»Örr Harald …« — sie schnappte nach Luft — »Herr
-Harald, — — so was von Klijentin ist noch nie dagewesen …
+»Herr Harald …« — sie schnappte nach Luft — »Herr
+Harald, — — so was von Klijentin is noch nie dajewesen …
 <@pagebreak/>
-ne Dame … im Zobelpelz … Und ’n Parföng, Herr
-Harald, — — so zart … Und Händchen wie ’n Kind …;«
+'ne Dame … im Zobelpelz … Und ’n Parföng, Herr
+Harald, — — so zart … Und Händchen wie ’n Kind …«
 
 Sie holte tief Atem …
 
-»Und … schön — — schön wie die Lahore Hammiltong,
-was doch die Flamme vom Admiral Felsens war und bei
-uns im Salons hängt …«
+»Und … schön — — schön wie die Läddie Hammiltong,
+was doch die Flamme vom Admiral Nelsong war und bei
+uns im Salong hängt …«
 
-»Hamilton, liebe Mathilde …’
+»Hamilton, liebe Mathilde …"
 
-»Sagte ich ja: Hammiltong …! Und hier ist ihre Karte…
+»Sagte ich ja: Hammiltong …! Und hier ist ihre Karte …
+Bitte ..."
+
 »Der Lady Hamilton Karte?! Unmöglich! Die ist längst
-tot …’
-… platt, Sie missen doch immer Ihre Witzen machen …«
-Auf der schlichten Karte aus feinstem Büttenpapier
-Frau Helene Olbrich,
-geh. Komtesse by. Vorhaben.
-Berlin W., 112.
-Rüzziusstraße 2.
+tot …"
 
-Und unsere dicke Mathilde, die neidlos die fremde Schön
-bei!, anerkannte, hatte nicht übertrieben.
+"Jott, Sie missen doch immer Ihre Witzen machen …«
+
+Auf der schlichten Karte aus feinstem Büttenpapier
+stand:
+
+<p class="centered em">Frau Helene Olbrich,</p>
+<p class="centered">geb. Komtesse v. Arnbaben.</p>
+<p class="right">Berlin W. 112.</p>
+<p class="right">Rizziusstraße 2.</p>
+
+Und unsere dicke Mathilde, die neidlos die fremde Schön-
+beit, anerkannte, hatte nicht übertrieben.
 
 Frau Olbrich war blendend schön und rührend jung.
 
@@ -2226,14 +2233,14 @@ wieder aufrichtete.
 »Gnädige Frau, — nur ehrlich sein, — ehrlich wie zu
 einem Beichtvater,« ermahnte er zum Schluß …
 
-Sie betupfte die Braunguglein, nickte … begann …
+Sie betupfte die Braunäuglein, nickte … begann …
 
 »Mein Mann ist der Generaldirektor Olbrich von der
-Agra-A,-G. Wir sind erst ein Jahr verheiratet. Ernst ist
+Rafa-A.-G. Wir sind erst ein Jahr verheiratet. Ernst ist
 bedeutend älter als ich, und … und er hat wenig Zeit
 für mich …«
 
-»Das alte Lied …»’ dachte ich. »Die kleine Frau hat
+»Das alte Lied …» dachte ich. »Die kleine Frau hat
 Dummheiten gemacht.«
 
 <@pagebreak/>
@@ -2241,15 +2248,16 @@ Ich irrte mich. Es kam anders …
 
 Frau Helene entnahm ihrem Handtäschchen einen Brief,
 
-»Herr Harst, heute mit der ersten Post erhielt! ich tiefe
+»Herr Harst, heute mit der ersten Post erhielt ich diese
 Karte für das Varietee Blaue Maus und diesen mit Maschine
 geschriebenen Brief …«
 
-Die Karte war Orchestersessel Nummer 12 rechts, Der
-… Brief:
+Die Karte war Orchestersessel Nummer 12 rechts. Der
+Brief:
 
-— Draußen Sie auf jeden Fall beiliegende Karte. Es
-Wird ein Wunder geschehen. Denken Sie an Warnemünde,
+> Benutzen Sie auf jeden Fall beiliegende Karte. Es
+Wird ein Wunder geschehen. Denken Sie an Warnemünde.
+
 Das war alles.
 
 Harald fragte: »Was war in Warnemünde?«
@@ -2258,8 +2266,7 @@ Frau Olbrich errötete …
 
 »Das … das ist mir eben völlig unbegreiflich, Herr
 Harst … Ich habe nur einmal vier Wochen mit meinen
-Eltern in »Warnemünde gewohnt — kurz vor meiner Berg
-Verlobung …
+Eltern in Warnemünde gewohnt — kurz vor meiner Verlobung …"
 
 Sie … schwindelte …
 
@@ -2270,43 +2277,43 @@ war in Warnemünde?«
 
 Tränenstrom …
 
-»Ich … ich … hatte … dort einen Verehrer.« …
+»Ich … ich … hatte … dort einen Verehrer.«
 
-»So, — und unterhalten Sie vor« immer Beziehungen
+»So, — und unterhalten Sie noch immer Beziehungen
 zu ihm?«
 
-»Nein — bei Gott nich!!«
+»Nein — bei Gott nicht!«
 
 Sie log nicht.
 
 »Dann will der Betreffende Sie vielleicht wiedersehen —
-der Blauen Maus …
+in der Blauen Maus …
 
 »Unmöglich, Herr Harst. Er ist ja vor acht Monaten nach
-Japan gegangen, ist nachts immer dort — bestimmt.«
+Japan gegangen, ist noch immer dort — bestimmt.«
 
 »Und Sie haben auch keine Ahnung, gnädige Frau,
 worauf sich die Andeutung »Es wird ein Wunder geschehen«
-bezieht?
+bezieht?"
 
 »Nein.«
 
-Auch das war keine Laune.
+Auch das war keine Lüge.
 
 <@pagebreak/>
-»Wegßhalb sind Sie denn derart verstört, gnädige Frau?«
+»Weshalb sind Sie denn derart verstört, gnädige Frau?«
 
-»Durch die Anspielung auf Warnemünde, v)ein Harst…
-—» Ich könnte ja das Varietee besuchen … Kein Mann ist
-geschäftlich in Stockholm … Ader … ich suchte mich …
+»Durch die Anspielung auf Warnemünde, Herr Harst …
+— Ich könnte ja das Varietee besuchen … Mein Mann ist
+geschäftlich in Stockholm … Aber … ich fürchte mich …
 Ich wollte Sie bitten, vielleicht hinter mir Plätze zu nehmen
 und mich zu beschützen, falls … — ich war eben noch nie
-allein in einem Varietee, und die Blaue Maus dort an
-Alexanderplatz ist doch) nur … zweiter Gute …« —
+allein in einem Varietee, und die Blaue Maus dort am
+Alexanderplatz ist doch nur … zweiter Güte …« —
 
-Es war von ihr nicht mehr zu erfahren, Harald versprach,
+Es war von ihr nicht mehr zu erfahren. Harald versprach,
 daß wir maskiert erscheinen würden, und glückstrahlend
-verabschiedete sie Lady Hamilton, —
+verabschiedete sich Lady Hamilton. —
 
 »Nun, mein Alter?«
 
@@ -2315,33 +2322,49 @@ Ich erwiderte achselzuckend:
 »Was soll man davon halten?! — Jedenfalls hat sie
 uns nicht alles eingestanden.«
 
-»Sept auch nicht mehr nötig …
+»War auch nicht mehr nötig …"
+
+"So?!"
 
 »Nein.«
+
 »Du in meinst, ihr verflossener Verehrer ist doch hier?«
-ein,«
+
+"Nein,«
+
 »Was also dann?«
-da Gar dir den kurzen Brief genau an … Sie lich
-er,«
+
+"Sieh' dir den kurzen Brief genau an … Sie ließ
+ihn hier,«
+
 Ich las nochmals die getippten Zeilen, ich drehte den
 Briefbogen um, prüfte den Umschlag …
-»Bedauere …!!«
+
+»Bedauere …!«
+
 Harald klopfte mir leicht auf die Schulter …
+
 »Genau sehen, lieber Alter! Immer sorgfältig sein! —
-Wo ist der Brief abgestempelt y« —
-fraß hebe As ist ja das Postamt, zu dem die Parochialgehör«
+Wo ist der Brief abgestempelt?«
+
+"Ah -- das ist ja das Postamt, zu dem die Parochialstraße
+gehört!!"
+
 »Allerdings!
+
 »Etwa … Saalborg der Absender?!«
+
 »Vielleicht …«
+
 »Aber der Zweck?«
 
 <@pagebreak/>
-blinzelte mich an …
+Er blinzelte mich an …
 
-Oder Zweck? Du wirst es miterleben … Vielleicht
-stimmt meine Vermutung, Besorge jedenfalls sofort Karten
-zur Blauen Maus und möglichst dich! hinter Sessel Mr, 12,
-Breite dich. nimm ein Auto … Aber: Vorsicht!! Jahre nicht
+"der Zweck? -- Du wirst es miterleben … Vielleicht
+stimmt meine Vermutung. Besorge jedenfalls sofort Karten
+zur Blauen Maus und möglichst dicht hinter Sessel Nr. 12.
+Beeile dich, nimm ein Auto … Aber: Vorsicht!! Fahre nicht
 direkt hin. Denke an Ferdinand!! Der Mensch führt etwas
 im Schilde.«
 
@@ -2349,93 +2372,93 @@ im Schilde.«
 Du weißt: Bei deiner Geheimniskrämerei kam selten etwas
 Gutes heraus.«
 
-»Manchmal ja … diesmal: Ein seines Problem, mein.
-Alter. Trifft das zu, was ich nun annehme,!so ist Saalborg
+»Manchmal ja … diesmal: Ein feines Problem, mein
+Alter. Trifft das zu, was ich nun annehme, so ist Saalborg
 zu verstehen …«
 
-»Orakelhaft11’
+»Orakelhaft!!"
 
-Ich fuhr zur Blauen, Maus, bekam auch Orchestersessel
-27, 28, und kehrte auf, Umwegen heim, ohne Verfolger
+Ich fuhr zur Blauen Maus, bekam auch Orchestersessel
+27, 28, und kehrte auf Umwegen heim, ohne Verfolger
 zu spüren.
 
-Hm Auto hatte ich genügend Zeit, mir die Dinge zu
+Im Auto hatte ich genügend Zeit, mir die Dinge zu
 überlegen … Aber — ich fand keine Lösung.
 
-Als ich Blücherstraße 10, Hinterfront, durch) den Gemüsegarten
+Als ich Blücherstraße 10, Hinterfront, durch den Gemüsegarten
 das alte mollige Harstsche Familienhaus betrat, stand
 Mathilde im Flur und bürstete meine Sporthosen, Garnitur 3.
 
-»Herr Harald ist weg, erklärte sie …; »Als Postbote …
-Von hinten … Sie sollen nicht auf ihm warten, Herr Schrauta
-da;en …«
+»Herr Harald is weg, erklärte sie … »Als Postbote …
+Von hinten … Sie sollen nicht auf ihm warten, Herr Schrautchen
+…«
 
-»So … so … Sie sind ja so guter Laune, Märkischen.«
+»So … so … Sie sind ja so guter Laune, Mathildchen.«
 
-»Ja … Heut’ haben wir nur Dauert,!Anhöhe Dauert…
-Hm Arbeitszimmer sitzt eine … seit fünf Minuten …«
+»Ja … Heut’ haben wir nur Damens, hübsche Damens.
+Im Arbeitszimmer sitzt eine … seit fünf Minuten …«
 
 Sie gab mir eine Karte …
 
-Frau Lydia ’v. ’Settenstein,
-geborene Markus.
-Berlin-Grunewald,
-Bismarckallee 14.
+<p class="centered em">Frau Lydia v. Settenstein,</p>
+<p class="centered">geborene Markus.</p>
+<p class="right">Berlin-Grunewald,</p>
+<p class="right">Bismarckallee 14.</p>
 
-— ob die etwa auch in Züge Blaue Maus kommen
-
+— Ob die etwa auch in die Blaue Maus kommen
 sollte?!
 
 <@pagebreak/>
-z. Kapitel,
-Die Zauberin,
+
+<h2>4. Kapitel.</h2>
+<h3>Die Zauberin.</h3>
 
 Die geborene Markus war südländischer Typ: — elegant,
-rassig, vornehm, aber … genau so verstört wie Frau Betone
+rassig, vornehm, aber … genau so verstört wie Frau Helene
 Olbrich.
 
-Zunächst hatte im einige Mühe, sie zum Reden zu
-Dingen. Sie wollte durchaus Harald sprechen.
+Zunächst hatte ich einige Mühe, sie zum Reden zu
+bringen. Sie wollte durchaus Harald sprechen.
 
-ab dann: Wahrhaftig genau dasselbe seltsame Spiel:
+Und dann: Wahrhaftig genau dasselbe seltsame Spiel:
 
-Eine Karte für heute abend zur Blauen Maus, Orädäesterjessel
-12 lin?8s.
+Eine Karte für heute abend zur Blauen Maus, Orchestersellel
+12 *links*.
 
-Benutzen Sie auf jeden Fall beiliegende Karte. Es
-wird eilt Wunder geschehen. Denken Sie an das Nordkap.
+> Benutzen Sie auf jeden Fall beiliegende Karte. Es
+wird ein Wunder geschehen. Denken Sie an das Nordkap.
 
-Bitter also nicht Warnemünde, hier Nordkap’!
+Hier also nicht Warnemünde, hier Nordkap!!
 
-un, ich war ja bereits reichlich im Bilde.
+Nun, ich war ja bereits reichlich im Bilde.
 
 »Gnädige Frau, Sie gestatten, daß ich ganz offen spreche.
-€ haben einmal bei einer Ballonfahrt jemand kennen Eiern,
-der Ihnen näherstand und …
+Sie haben einmal bei einer Nordkapfahrt jemand kennengelernt,
+der Ihnen näherstand und …"
 
-Trännstrom …
+Tränenstrom …
 
 Lügen …
 
 Ausflüchte …
 
-Schließlich derselbe Berg: Wir möchten doch auf jeden
-Fall ihr helfen und auf« die Blaue Maus heute besuchen …
+Schließlich derselbe Vers: Wir möchten doch auf jeden
+Fall ihr helfen und auch die Blaue Maus heute besuchen …
 
-— »Ich bin noch nie in einem solchen niederen Varietee
+»... Ich bin noch nie in einem solchen niederen Varietee
 gewesen … Mein Mann ist auf unserem Gut in Pommern
-… «+
+…«
 
 Merkwürdig, diese Übereinstimmung der Umstände!
 
-»»…-. Herr Harst ist doch« so hilfsbereit und so Sitzbrett,
-und Sie auch, lieber Herr Schraut«…«
+»… Herr Harst ist doch so hilfsbereit und so diskret,
+und Sie auch, lieber Herr Schraut …«
 
 <@pagebreak/>
-Ich auch … Ich linke immer nach. Ich bin immer nur
-Anhängsel. —
+Ich auch … Ich hinke immer nach. Ich bin immer nur
+Anhängsel.
 
-»Wi« werden zur Stelle sein, gnädige Frau »…’
+»Wir werden zur Stelle sein, gnädige Frau …»
 
 Sie strahlte … —
 
@@ -2448,124 +2471,125 @@ dem gleichen Postamt abgestempelt!!
 
 Saalborg?!
 
-Was hatte er mit diesen reichen jungen Frauen z31
+Was hatte er mit diesen reichen jungen Frauen zu
 tun?!
 
-Frau Lydia hatte lediglich zugegeben, daß sie als Traurig
-Markus vor zwei Jahren in Norwegen gewesen und: 264
-sie dort einen Herrn etwas bevorzugt sage, der nun lang;t
+Frau Lydia hatte lediglich zugegeben, daß sie als Fräulein
+Markus vor zwei Jahren in Norwegen gewesen und daß
+sie dort einen Herrn etwas bevorzugt habe, der nun längst
 selbst verheiratet,
 
-Daraus sollte sich ein anderer einen Berg machen! Ich
+Daraus sollte sich ein anderer einen Vers machen! Ich
 konnte es nicht.
 
 Ich fuhr nochmals zur Blauen Maus und besorgte
-eine Karte Orchestersessel links Nummer 23.
+eine Karte Orchestersessel *links* Nummer 23.
 
 Heimgekehrt, glaubte ich Dame Nummer drei vorzufinden,
 
 Täuschung.
 
-Der Anstrich eleganter Frauen schien beendet.
+Der Auftrieb eleganter Frauen schien beendet.
 
 Harst erschien erst um fünf Uhr nach Eintritt der
 Dunkelheit. Aber er sagte nicht, wo er gewesen …
 
-»Abwarten, mein Alter … Feine Sachell’ — —
+»Abwarten, mein Alter … Feine Sache!" — —
 
 Um halb neun saß ich Orchestersessel 23 links in der
-Blauen Maus — ’ich, biederer Spießer. Harald saß hinter
-Frau Ansehens Olbrich neben seiner Mutter, die durchaus mit
-von der Partie hatte sein wollten.
+Blauen Maus — ich, biederer Spießer. Harald saß hinter
+Frau Helene Olbrich neben seiner Mutter, die durchaus mit
+von der Partie hatte sein wollen.
 
 Leider kann ich hier wegen Raummangels keine zünftige
 Schilderung einer Varieteevorstellung genial hinschmettern …
 
-Jedenfalls: Schritt war das Programm nicht. — Nach
+Jedenfalls: Schlecht war das Programm nicht. — Nach
 der großen Pause kam die Sensation:
 
 <@pagebreak/>
-Miß Atraka Tor,
-moderne Wunder.
+
+<p class="centered em">Miß Atraka Joi,</p>
+<p class="centered">moderne Wunder.</p>
 
 Der Vorhang ging hoch … Tusch … — die Bühne
 ein Gartenlokal … Vorn ein Tisch, ganz aus Glas, sehr
 groß … etwas schräg, so daß man die Platte bequem
 übersehen konnte.
 
-Ein alter Kellner mit Franz-Sagenhaft erscheint und
-säubert die Tische. Dann kommt ein Gast, eine elegant
-Dame mit Autobrille, Ledermantel … Lederkuppe, lehnt ihr
-Motorrad an einen Baum (aus Pappe un Leisten).
+Ein alter Kellner mit Franz-Joseph-Bart erscheint und
+säubert die Tische. Dann kommt ein Gast, eine elegante
+Dame mit Autobrille, Ledermantel … Lederkappe, lehnt ihr
+Motorrad an einen Baum (aus Pappe und Leisten).
 
 Moderne Wunder!!
 
-Jetzt paßte ich noch« mehr auf als bisher.
+Jetzt paßte ich noch mehr auf als bisher.
 
 Die Dame auf der Bühne geht zum Glastisch und
-bestellt Kaffee und ein Schinkenbrötchen. Der Kellner Dieners,
-kehrt seine übertriebenen Grafenmanieren nahe) mehr hervor,
+bestellt Kaffee und ein Schinkenbrötchen. Der Kellner dienert,
+kehrt seine übertriebenen Grafenmanieren noch mehr hervor,
 verschwindet, bringt das Gewünschte, stellt alles auf die
 Glasplatte des Tisches und füllt das Mokkatäßchen …
 
 Die Platte ist durchsichtig. Das Publikum ist also in
 der Lage, genau zu kontrollieren, daß nicht etwa der Tisch
-verborgene Sätzen enthält.
+verborgene Fächer enthält.
 
 Der ehrwürdige Kellner prallt mit einem Male entsetzt
 zurück. Aus dem Kännchen, dessen Deckel zur Seite
 geflogen, züngelt eine fast armdicke Schlange hervor … Und
-aus dem Flaschen flattert ein Kanarienvogel hoch, setzt
+aus dem Täßchen flattert ein Kanarienvogel hoch, setzt
 sich der Zauberkünstlerin, die im Sessel neben dem Tischchen
-Platz genommen hat, auf die Hand und beginnt zu gingen.
-Dann kriecht aus der Aufenthalte bedächtig eine weiße Matte
+Platz genommen hat, auf die Hand und beginnt zu singen.
+Dann kriecht aus der Zuckerschale bedächtig eine weiße Ratte
 heraus, aus dem Sahnenkännchen eine weiße Maus, und
 das Schinkenbrötchen verwandelt sich in einen mittelgroße
 Papagei …
 
 All das wirkt ebenso lustig wie verblüffend.
 
-Dann eine Handbewegung Miß Wie, und der ganze Tiers
-Spur verschwindet. Die Miß trinkt ihren Kaffee, ist das
-Würstchen, — der Kellner schleicht neugierig näher und
-räumt das Geschirr weg … acht durch die Tischreihen; und
+Dann eine Handbewegung Miß Jois, und der ganze Tier-
+Spuk verschwindet. Die Miß trinkt ihren Kaffee, ißt das
+Brötchen, — der Kellner schleicht neugierig näher und
+räumt das Geschirr weg … geht durch die Tischreihen, und
 <@pagebreak/>
-abermals erscheinen da die Tiere auf dem Ererbten … Er
-rennt erwischt zurück, wirst das Tablett auf den Glastisch …
+abermals erscheinen da die Tiere auf dem Teebrett … Er
+rennt entsetzt zurück, wirft das Tablett auf den Glastisch …
 Klirren, Splittern, — — eine neue Handbewegung der Miß,
 und alles ist wie weggewischt. Dafür sitzt auf dem Tische
 ein reizender schwarzer Zwergpudel, der im Maule fünf
-Büchschen hält …
+Päckchen hält …
 
-Rasender Beifall — — Huscht!!
+Rasender Beifall — — Tusch!!
 
 Und dann … tritt die Miß dicht an die Rampe …
 
-Kneipe Damen und Herren, unter Ihnen befinden
-Sinn mehrere, die großen Wert auf gewisse Dinge legen,
+"Meine Damen und Herren, unter Ihnen befinden
+sich mehrere, die großen Wert auf gewisse Dinge legen,
 die ihnen verloren gingen …«
 
 Der Pudel folgt der Zauberin in den Zuschauerraum:
 Macht vor Orchestersessel 12 rechts halt … Miß Atraka
 überreicht Frau Helene Olbrich das eine Päckchen …
 
-Und — — als dritte Dame kommt dann Lydia den
-Settenstein an die Reihe. Ich Seebade)te genau …
+Und — — als dritte Dame kommt dann Lydia von
+Settenstein an die Reihe. Ich beobachte genau …
 
 Sie nimmt das Päckchen, zögert, öffnet es, wird blaß
 und rot …
 
 Briefe sind darin …
 
-Briefe, die sie schleunigst in ihr HandtäscichMen schiebt …
+Briefe, die sie schleunigst in ihr Handtäschchen schiebt …
 
 Das Publikum reckt die Hälse …
 
-Eine vierte, fünfte Dame wird auf diese Weise Zeichen!!
+Eine vierte, fünfte Dame wird auf diese Weise beschenkt
 …
 
 Aber die allgemeine Aufmerksamkeit wendet sich bereits
-wieder dem Pudel zu, der auf den Glastisch) gesprungen ist.
+wieder dem Pudel zu, der auf den Glastisch gesprungen ist.
 
 Seine Herrin streichelt ihn …
 
@@ -2574,21 +2598,21 @@ nunmehr das Teebrett mit dem unversehrten Geschirr.
 
 Tusch … Beifall …
 
-Ich beuge nich vor, flüstere Frau Lydia zu:
+Ich beuge mich vor, flüstere Frau Lydia zu:
 
 »Gnädige Frau, — Briefe des Herrn vom Nordkap?«
 
 Sie wendet den Kopf:
 
-»Ja … ja; — — ernstlich!! — Oh, es ist ein Wunder!k
-Endliudy’!«
+»Ja … ja, — — endlich!! — Oh, es ist ein Wunder!!
+Endlich!!«
 
-Und sie erhebt sich. verläßt schnell den Saal … —
+Und sie erhebt sich, verläßt schnell den Saal … —
 
 <@pagebreak/>
-Die Nummer Miß Reis geht weiter …
+Die Nummer Miß Jois geht weiter …
 
-Oh blicke zu Harald hinüber … Er winkt … Auch;
+Ich blicke zu Harald hinüber … Er winkt … Auch
 Frau Helene ist verschwunden.
 
 Wir treffen uns im Foyer.
@@ -2600,7 +2624,7 @@ Harald bittet seine Mutter, allein nach Hause zu fahren.
 »Was bedeutete das, Harald?«« fragte Frau Harst noch
 ganz verwirrt …
 
-Er lächelte sein …
+Er lächelte fein …
 
 »Das bedeutet die Bestätigung meiner Vermutung, liebe
 Mutter …«
@@ -2608,37 +2632,37 @@ Mutter …«
 »Es waren Briefe in dem Päckchen …«
 
 »Ja … Ich erkläre dir das alles nachher … Auf
-Wiedersehen …’
+Wiedersehen …"
 
-Er nimmt mich unter den Arm … Wir suchen den Ein«
+Er nimmt mich unter den Arm … Wir suchen den Ein-
 Gang zur Bühne. Man macht uns erst Schwierigkeiten, und
 als wir dann die Garderoben der Künstler erreichen, ist Miß
-Tor mit ihrem Partner auf und davon … —
+Joi mit ihrem Partner auf und davon … —
 
 Wir holen unsere Pelze. Harald ist ein wenig verstummt.
-Ich begreife nicht redet wes&hallb, denn letzten Endes kann
+Ich begreife nicht recht weshalb, denn letzten Endes kann
 er doch mit dem Ergebnis dieses Abends zufrieden sein.
 Seine Kombinationen waren richtig, wie er seiner Mutter
-gegenüber äußerte. Warum also diese sichtliche Mißstimmung!
+gegenüber äußerte. Warum also diese sichtliche Mißstimmung?!
 
 Als wir draußen auf der Straße stehen und die kalte
-Winterluft uns angenehm die Gesichter kühlt, als Tür
-dann den »um diese Stunde noch sehr belebten Alexanderplatz
+Winterluft uns angenehm die Gesichter kühlt, als wir
+dann den um diese Stunde noch sehr belebten Alexanderplatz
 erreichen, bleibt Harald plötzlich zurück … flüstert mir
 hastig Zu …: »Da ist er wieder …! Er war schon im
-Foyer am Büfett … Nehmen wir ihn in die Mitte …’
+Foyer am Büfett … Nehmen wir ihn in die Mitte …"
 
-Da erst setze ich die hagere Gestalt im Lungen dunkeln
+Da erst sehe ich die hagere Gestalt im langen dunkeln
 Pelz, sehr flüchtig einen grauen Bart, ein Paar Augen,
-die man nicht so leicht vergißt: »Ferdinand Winter! Er sucht
-zwischen den Nachtscewärmern zu verschwinden … Er war
+die man nicht so leicht vergißt: Ferdinand Miller! Er sucht
+zwischen den Nachtschwärmern zu verschwinden … Er war
 <@pagebreak/>
 ebenfalls in der Blauen Maus. Also hat er uns doch mit
 Erfolg nachspioniert.
 
-»Ich bin neben ihm, vor ihn …
+Ich bin neben ihm, vor ihn …
 
-»N’Abend, Herr Miller;…«
+»N’Abend, Herr Miller …«
 
 Ein Blick trifft mich: Haß!!
 
@@ -2646,48 +2670,48 @@ Ein Blick trifft mich: Haß!!
 
 Harst ist schon zur Stelle, winkt ein leeres Auto heran.
 
-»Steigen Sie mit ein!!’
+»Steigen Sie mit ein!!"
 
 Miller zaudert …
 
-Harald sagt hart; »Das Polizeipräsidium ist nahe!! Und
-Zellen sind sicherlich frei!!
+Harald sagt hart: »Das Polizeipräsidium ist nahe!! Und
+Zellen sind sicherlich frei!!"
 
-Miller steigt ein, Harald flüstert dem Fahrer eine Adresse
-zu … —. Ich verstehe nur »Parochialstraße …« .—
+Miller steigt ein. Harald flüstert dem Fahrer eine Adresse
+zu … Ich verstehe nur »Parochialstraße …« ...
 
 <@pagebreak/>
 
 <h2>5. Kapitel.</h2>
 <h3>Millers Kundschaft.</h3>
 
-Hm Auto wurde kein Wort gesprochen. Harald hält die
+Im Auto wurde kein Wort gesprochen. Harald hält die
 Rechte mit der entsicherten Clement auf dem Schenkel. Man
-muß Herrn Willen gegenüber auf der Hut sein.
+muß Herrn Miller gegenüber auf der Hut sein.
 
 Der Kraftwagen hielt vor Nummer 223 — ein neueres
-Haus, unten ein Schild: Fremdenheim Ateliers«.
+Haus, unten ein Schild: "Fremdenheim Ahlert«.
 
 Ich bezahle den Chauffeur. Miller und Harald stehen
-in der Türnische, Ich höre, wie mein Freund sagt: »vier
+in der Türnische. Ich höre, wie mein Freund sagt: »Hier
 war ich heute nachmittag als Postbote … Daß Saalborg
 sich in nächster Nähe von 222 einquartiert hatte, erschien
-mir gewiß. Eis stimmte …«
+mir gewiß. Es stimmte …«
 
-Er öffnete dann die Haustür mit dem Dietrich]).
+Er öffnete dann die Haustür mit dem Dietrich.
 
-»Bitte«…«
+»Bitte …«
 
 Drei mit Linoleum beschlagene Treppen … Oben eine
-— Für neben einer größeren — eine geschriebene Karte:
+Tür neben einer größeren — eine geschriebene Karte:
 
-Atraka Tor,
+<p class="centered em">Atraka Joi.</p>
 
 Harst klopft …
 
-Drinnen Stimmen … Jemand fragt: »Wer ist den da?«
+Drinnen Stimmen … Jemand fragt: »Wer ist denn da?«
 
-»Ein Freund — Harst!’
+»Ein Freund — Harst!"
 
 Wieder Stimmen …
 
@@ -2695,131 +2719,131 @@ Ein Schloßriegel knackt … Miller lacht höhnisch …
 In der Tür steht Vincent Saalborg, — Monokel, Schnürjacke
 … — Wir treten ein …
 
-Ein möbliertes Zimmer, mäßig elegant … Zigaretten
-Rand … Neben dem Asien eine schwante blonde Frau im roten
-Kimvwynv: Miß Platz Tor!
+Ein möbliertes Zimmer, mäßig elegant … Zigarettenrauch
+… Neben dem Ofen eine schlanke blonde Frau im roten
+Kimono: Miß Atraka Joi!
 
-Dito da erst wird’s mir hell im her,
+Und da erst wird’s mir hell im Hirn.
 
 <@pagebreak/>
-Straßen Ziel …!! Also Iovojakarta!! Joo Jakarta! Ein
+Atraka Joi …!! Also Joojakarta!! Joo Jakarta! Ein
 Spiel mit Buchstaben …!
 
-Saalborg hat die Tür hinter uns verriegelt. Willen hat
-von munter va82 ekle Grinsen um den dortigen Mund, Dir
+Saalborg hat die Tür hinter uns verriegelt. Miller hat
+noch immer das ekle Grinsen um den bärtigen Mund. Ist
 mir der Mensch nur widerlich!
 
 Saalborg deutet auf das Klubsofa … »Bitte, Herr
 Harst …«
 
 Harald winkt ab. »Danke, lieber Saalborg. Wir wollen
-nicht lange stören.« Er reimt ihm die Hand, »Sie waren als
-Kellner auf der Bühne erstitassig … Und die Dame gleichfalls
-…
+nicht lange stören.« Er reicht ihm die Hand. »Sie waren als
+Kellner auf der Bühne erstklassig … Und die Dame gleichfalls
+…"
 
 »Meine Frau …« erklärt Saalborg schlicht. »Wir leben
-noch in den Flitterwodjen … Seit drei Monaten …« Er
-lächelt auftritt »Tritt nur näher, nimmt … Harst und
+noch in den Flitterwochen … Seit drei Monaten …« Er
+lächelt zärtlich. »Tritt nur näher, Anni … Harst und
 Schraut scheinen noch ihrerseits mit Herrn Miller abrechnen
 zu wollen. Dabei darfst du nicht fehlen …«
 
-»Abrechnen ist zu!!« Eilfracht der alte Kerl. »Ich werde
-abrechnen, ich, den Sie bestohlen haben! Ich/!!«
+»Abrechnen ist gut!« hohnlacht der alte Kerl. »*Ich* werde
+abrechnen, ich, den Sie bestohlen haben! Ich!!«
 
-Rani Caalborgy elf dicht vor ihm. »Sie … elender
-Erpresser, Sie …!! Denen Sie Kirche!«
+Anni Saalborg steht dicht vor ihm. »Sie … elender
+Erpresser, Sie …!! Kennen Sie mich?!«
 
-Setzt, wo Anni Saalborg ohne Autobrille Miller gegenübersitzt,
-wo sie aus dem Halbschatten der Vierecke im hellen
-Liegt der elektrischen Krone ihre Züge enthüllt, weicht der
-jummerliche Schurke erbleichend zurück.
+Jetzt, wo Anni Saalborg ohne Autobrille Miller gegenübersitzt,
+wo sie aus dem Halbschatten der Ofenecke im hellen
+Licht der elektrischen Krone ihre Züge enthüllt, weicht der
+jämmerliche Schurke erbleichend zurück.
 
-»-… Kennen Sie mich »’ wiederholt sie noch eisiger,
-»Sie haben mich gelebt, gemartert, Sie haben mir Heimat
+»… Kennen Sie mich?!" wiederholt sie noch eisiger.
+»Sie haben mich gehetzt, gemartert. Sie haben mir Heimat
 und Elternhaus geraubt! Ich war ein halbes Kind, als ich
 einem gewissenlosen Verführer zum Opfer fiel. Und das haben
-Sie dann ausgenutzt, haben nich gefoltert, geneigter …! Bis
+Sie dann ausgenutzt, haben mich gefoltert, gepeinigt …! Bis
 ich in meiner Angst … den eigenen Vater bestahl, um Ihre
-mmmersatte Habgier zu befriedigen! Man jagte mich auf
+nimmersatte Habgier zu befriedigen! Man jagte mich auf
 die Straße … Ein Zufall war’s, daß ich in meinem größten
-Elend meinem jetzigen Gatten begegnete … Wir entworfen den
-Plan, Sie zu bestrafen, Ihnen die Fortsetzung Alters scheußlichen
+Elend meinem jetzigen Gatten begegnete … Wir entwarfen den
+Plan, Sie zu bestrafen, Ihnen die Fortsetzung Ihres scheußlichen
 Gewerbes unmöglich zu machen …! Wir nahmen Ihnen
 <@pagebreak/>
 die Mittel, nahmen Ihnen alles, was Ihnen noch irgendwie
-hakte …
+hätte …"
 
-Willens grelles, hämisches Kichern schnitt ihr das
+Millers grelles, hämisches Kichern schnitt ihr das
 Wort ab:
 
-»Ein seines Pärchen …!’« höhnte er …
+»Ein feines Pärchen …!« höhnte er …
 
 Wie er diese Frechheit aufbrachte, ich begriff es nicht.
 
-Ein seines Pärchen …!!« Er geriet urplötzlich in
-einen förmlichen Paroxysmus von Wut, rate Anni Saalborgs
-LGandgeleuzt, »Gut —.arm habt ihr mich gemacht, bettelarm
-…! Über auch ihr beide sollt mit mir hinab in dem
-Känguruh! Die Polizei wird auch ., ’« — — und
-x, als er Anni Saalborg roh zurückließ, geschabt) das
-Oröiztica, Unerwartete …
+"Ein feines Pärchen …!!« Er geriet urplötzlich in
+einen förmlichen Paroxysmus von Wut, packte Anni Saalborgs
+Handgelenk. »Gut — arm habt ihr mich gemacht, bettelarm
+…! Aber auch ihr beide sollt mit mir hinab in den
+Abgrund! Die Polizei wird auch ... -- --«, — — und
+da, als er Anni Saalborg roh zurückstieß, geschah das
+Gräßliche, Unerwartete …
 
-Wie hatten nicht geahnt, daß Saalborg hier in diesen
-zu Grauem des Fremdenheims seinen Lieblingspanther
-3,4!/aus mit untergebracht hatte. Die Tür zum Schlag«
-Nehmen war nur angelehnt gewesen.
+Wir hatten nicht geahnt, daß Saalborg hier in diesen
+zwei Zimmern des Fremdenheims seinen Lieblingspanther
+Cassius mit untergebracht hatte. Die Tür zum Schlafzimmer
+war nur angelehnt gewesen.
 
 Wie ein dunkler Schatten schnellte jählings ein schlanker
-Yäwprurzer Tierkörper durch die Luft — — in riesigem, unwiderstehlichen
+schwarzer Tierkörper durch die Luft — — in riesigem, unwiderstehlichem
 Sprunge …
 
-Scnellte’ Miller an die « Rechte …
+Schnellte Miller an die Kehle …
 
-Tür gellender Schrei …
+Ein gellender Schrei …
 
 Noch einer …
 
-Am Boden ’wälzien Gleich Mensch und Tier … Das
-Vier kroch. dann, als Saalborg es am Lederhalsband Kurfürst,
-vorkam in eine Ecke.
+Am Boden wälzten sich Mensch und Tier … Das
+Tier kroch dann, als Saalborg es am Lederhalsband zurückriß,
+gehorsam in eine Ecke.
 
 Miller war tot. Das ganze Haus war alarmiert …
-Irgend jemand hakte eine Polizeipatrouille nach oben He
-rufen. Zu verheimlichen gab es hier nichts mehr … Saalvborg
+Irgend jemand hatte eine Polizeipatrouille nach oben ge-
+rufen. Zu verheimlichen gab es hier nichts mehr … Saalborg
 erklärte den Beamten, daß Miller seine Frau bei einem
 heftigen Wortwechsel roh berührt habe, daß der Panther
 deshalb zugesprungen sei … Die Schuld an dem Unfall
 trage der Tote ganz allein, —
 
-Wir alle mußten damals mit zur Revserwoache. Zuwinkte
-Name genügte, Seine Bestätigung der Knaben Saalborgs
+Wir alle mußten damals mit zur Revierwache. Haralds
+Name genügte. Seine Bestätigung der Angaben Saalborgs
 <@pagebreak/>
 verschaffte uns die Freiheit um so schneller, als Ferdinand
 Miller der Polizei seit langem als höchst anrüchige Existenz
-befand war. — Bei alledem fiel über das Haus Paroialstraße
-222 kein Wort, Und als wir beide dann nach flüchtigem
+bekannt war. — Bei alledem fiel über das Haus Parochialstraße
+222 kein Wort. Und als wir beide dann nach flüchtigem
 Abschied von dem Ehepaar, das wir am nächsten Tage
 wiederzusehen hofften, unser Heim in Schmargendorf erreicht
-hatten und noch in Haralds Arbeitäszimmer bei einer Falle
-Mokka eingehend das Geschehene besprachen, »löste Harald mir
+hatten und noch in Haralds Arbeitszimmer bei einer Tasse
+Mokka eingehend das Geschehene besprachen, löste Harald mir
 auch noch den Rest der ungeklärten Fragen.
 
-Während er versonnen in seinem Täßchen den Inder
-Herrührte, meinte er schlicht:
+Während er versonnen in seinem Täßchen den Zucker
+zerrührte, meinte er schlicht:
 
-»Die Sachlage wurde mir sehr bald klar, mein Eilten,
-Miller stand als Winkelkonsulent und Hehler mit »sei«
-Brechern in engsten Beziehungen. Von Einbrechern der) €
-er Briefe auf, die ihnen bei ihren Beutezügen mit in Ei:
-Hände gefallen waren, — Briefe, die er zu Erpressuitge«
-unmodern gebrauchen konnte, Saalborg quartierte sie; in
+»Die Sachlage wurde mir sehr bald klar, mein Alter.
+Miller stand als Winkelkonsulent und Hehler mit Ver-
+Brechern in engsten Beziehungen. Von Einbrechern kaufte
+er Briefe auf, die ihnen bei ihren Beutezügen mit in die
+Hände gefallen waren. — Briefe, die er zu Erpressungsmanövern
+gebrauchen konnte. Saalborg quartierte sich in
 Nr. 222 ein, um Miller längere Zeit beobachten und belauschen
 zu können. So erfuhr er, wer die Unglücklichen
-waren, die von diesem Sczjeusal zur Zeit noch … auSqequelscht
+waren, die von diesem Scheusal zur Zeit noch … ausgequetscht
 wurden, so konnte er ihm nicht nur die belastenden
 Briefe, sondern auch die erpreßten Summen und alles
 andere Wertvolle abnehmen. — Unser Saalborg als Beschützer
-von Verfolgten: Finger neue Seite seines komplizierten Charakters!
+von Verfolgten: eine neue Seite seines komplizierten Charakters!
 Neu auch die Art, wie er den fünf Frauen,
 die er heute in das Varietee bestellt hatte, die Briefe als
 »Wunder« der Zauberin wieder einhändigte! — Es war
@@ -2830,26 +2854,27 @@ da wir ihn für tot hielten, erlebt hat …« — —
 
 Nun, diese Neugier wurde nicht so bald befriedigt. Als
 wir am folgenden Tage das Ehepaar mittags besuchen wollten,
-spannen wir da? Nest leer. Die Inhaberin des Pensionats übergab
-Leopard einen Brief, in dem »Saalborg lediglich sich Tone
+fanden wir das Nest leer. Die Inhaberin des Pensionats übergab
+Harald einen Brief, in dem Saalborg lediglich sich von
 <@pagebreak/>
 uns verabschiedete … »… Ich habe mich gefreut, Sie beide
 wiederzusehen. Anni und ich werden fortan für die Welt
-verschollen bleiben. Wir haben uns längst eine kleine behagte
+verschollen bleiben. Wir haben uns längst eine kleine behagliche
 Zufluchtsstätte vorbereitet, wo wir fortan nur uns
-Keller leben werden. — Ihr dankbarer Vincent Saalborg.«
+selber leben werden. — Ihr dankbarer Vincent Saalborg.«
 
-Wir wollte es gar nicht in den Kinn, daß wir diesem
+Mir wollte es gar nicht in den Sinn, daß wir diesem
 liebenswerten Menschen nie mehr begegnen sollten.
 
 Wir … begegneten ihm noch.
 
 Das ist eine andere Geschichte. ich will sie im Anschluß
-an »die Wunder der Joojakarta« erzählen, obwohl geirrt)
+an »die Wunder der Joojakarta« erzählen, obwohl zeitlich
 sechs volle Monate dazwischenliegen und mithin viele andere
-»Fälle«, die hier noch veröffentlicht werden sollen. »Dämon
-Chanawutu« soll diese Fortsetzung Heißen: Ein Stück
-Menschenleid, Kinn Blick in das Unzulänglice menschlicher
+»Fälle«, die hier noch veröffentlicht werden sollen. »*Dämon
+Chanawutu*« soll diese Fortsetzung Heißen: Ein Stück
+Menschenleid, ein Blick in das Unzulängliche menschlicher
 Seelen!
-sein diesen Andeutungen mag für heute genug gesagt
-ein …
+
+Mit diesen Andeutungen mag für heute genug gesagt
+sein …
