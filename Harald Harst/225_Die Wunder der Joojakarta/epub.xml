@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">05e0fc67-e0de-49a9-bd32-a14ff8b39a8b</entry>
+<entry key="title">Die Wunder der Joojakarta</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">225</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Die Wunder der Joojakarta.
+
+Die Zahl 13 erfreut sich keiner sonderlichen Beliebtheit.  Ich war früher nie abergläubisch. Ich saß getrost als dreizehnter mit am Tisch, ich aß getrost dreizehn Austern, wenn ich zwölf bestellt und man sich in der Hotelküche zu meinem Gunsten verzählt hatte, ich habe oft genug nur ganze dreizehn Pfennige in der Börse gehabt. Es hat mir nichts geschadet.
+
+Aber seit *diesem* schwarzen Tage fürchte ich die dreizehn.
+
+Joo Jakarta.
+
+Jetzt, wo ich Miller in allernächster Nähe vor mir hatte, wo noch Habgier, Wut, Angst seine widerlichen Züge verzerrten, erschien mir dieses Gesicht derart abstoßend, daß ich nicht anders konnte: Ich rief diesem alten elenden Wicht zu:
+
+»Ja — erzählen Sie! Aber lügen Sie nicht! In Ihrem Blick glitzert die Tücke eines routinierten Schwindlers!«
+
+»Laß das, mein Alter!« sagte Harald ohne besonderen Energieaufwand. »Herr Miller ist noch ein wenig verwirrt …«
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (225) Die Wunder der Joojakarta.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1928</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
