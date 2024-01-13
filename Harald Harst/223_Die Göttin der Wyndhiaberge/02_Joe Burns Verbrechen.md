@@ -380,7 +380,7 @@ zu können. Ich rate Ihnen dringend, es uns mitzuteilen,
 sobald ein weiterer Brief Ihrer Frau eintrifft. Ziehen Sie
 uns auch dann ins Vertrauen, wenn Ihre Gattin verlangt,
 daß wir nicht erfahren sollen, wie und wann die Million
-ausgehändigt wird. Ich mochte Ihnen in Ihrem Interesse
+ausgehändigt wird. Ich möchte Ihnen in Ihrem Interesse
 dies dringend ans Herz legen. Es besteht die Gefahr, daß
 Sie sonst Weiterungen heraufbeschwören, die für gewisse
 Personen sehr unangenehm werden könnten.«
@@ -431,7 +431,7 @@ Harald erwiderte ohne besondere Betonung: »Nicht
 stimmen, Lync? Insofern mag hierbei etwas nicht stimmen
 können, als durch die indischen Gesetze den sogenannten
 Begünstigungsparagraphen kennen, das heißt: Sie wären eigentlich
-verpflichtet, der Polizei jeden Brief der Erpresser zu
+verpflichtet, der Polizei *jeden* Brief der Erpresser zu
 zeigen. Sie haben schon den zweiten unterschlagen. Und
 das ahnt Inspektor Pemberton. Deshalb hat er Rolling hier
 benachrichtigt. Rolling ist nicht Pemberton. Rolling ist ein
@@ -630,7 +630,7 @@ an Deck …«
 
 <@pagebreak/>
 
-<h2>4. Kapitel</h2>
+<h2>4. Kapitel.</h2>
 <h3>Mandar, der Perser.</h3>
 
 Die Besatzung stand in drei Reihen vor uns. Harst
@@ -654,7 +654,7 @@ der Dinge gerechnet haben: ein gefälschter Brief ließ sie
 kalt!
 
 Auch Harold Lync fragte Harst ein wenig erstaunt: »War
-das alles?! Die Leute legen ja schon ohnedies dauernd auf
+das alles?! Die Leute liegen ja schon ohnedies dauernd auf
 der Lauer …«
 
 <@pagebreak/>
@@ -810,7 +810,7 @@ Fernglas mitgenommen, und mit einem Eifer, der mir noch
 weniger verständlich, suchte er nun mit dem Glase das endlose
 Sumpfgebiet mit den eingestreuten Felspartien gründlichst
 ab, während ich den Anblick genoß — und das war wirklich
-ein Genuß! Nachts Südwest zu führte die doppelgleisige
+ein Genuß! Nach Südwest zu führte die doppelgleisige
 Bahnstrecke über eine prächtige eiserne Brücke, die eine
 tiefe Schlucht überspannte. Die graziöse Leichtigkeit der
 Brückenkonstruktion paßte sich wunderbar den zartlinigen,
@@ -852,13 +852,13 @@ Göttin der Wyndhia-Berge … Was ist’s damit? Hat das
 seine Richtigkeit?«
 
 Der Inder hob die Schultern. »Sahib, man erzählt
-viel … Auch über den Perser«…«
+viel … Auch über den Perser …«
 
 Es schien nicht recht mit der Sprache herausrücken zu
 wollen.
 
 Harsts »indische« Methode, Zungen geschmeidig zu machen,
-bewährte sich wieder. Kaum hatte der Vorsteher die fünfzig.
+bewährte sich wieder. Kaum hatte der Vorsteher die fünfzig
 Rupien in der Tasche seines schmierig-weißen Dienstrockes
 verschwinden lassen, als er geheimnisvoll zu flüstern begann:
 »Ihr tut besser, Sahib, nicht etwa bei Mandar abzusteigen,
@@ -956,7 +956,7 @@ daß in dieser Gegend die üblichen Bauerndächer aus Schilf,
 Maisstroh oder Moos jeden dritten Tag davongeflogen
 wären. Schieferplatten hohnlachten dem Sturm.
 
-Einflechten möchte — ich, daß Harald bisher mir gegenüber
+Einflechten möchte ich, daß Harald bisher mir gegenüber
 von Margrit, Lydia, Burns und so weiter nicht viel gesprochen
 hatte. Er redete mehr mit seinem Bruder Innerlich,
 wie sein geistesabwesender Gesichtsausdruck schon während
@@ -1019,7 +1019,7 @@ massieren konnte, war er gebunden und geknebelt.
 Die Persenning des offenen Motorbootes schlugen wir
 nur halb zurück. Benzin war vorhanden, dazu zwei Ruder,
 <@pagebreak/>
-zweit Bootshaken, zwei Stoßstangen mit Brettchen am unteren
+zwei Bootshaken, zwei Stoßstangen mit Brettchen am unteren
 Ende: des Sumpfbodens wegen. Harald beugte sich über
 Bord, und befühlte Steuer und Schraube. Diese war durch
 Zinkgitter gegen Wasserpflanzen geschützt. — Wir stoßen
@@ -1100,7 +1100,7 @@ Handgriffe aus Eisen — wie eine Leiter, und der Ast, auf
 dem wir stehen, preßt sein äußerstes, gekrümmtes Ende
 gegen den Sandstein. — »Warte hier,« befiehlt Harst dem
 <@pagebreak/>
-Chinesen. »Damit du aber nicht auskneift, mein Sohn,
+Chinesen. »Damit du aber nicht auskneifst, mein Sohn,
 werden wir dich …«
 
 Überflüssig all das … Aus dem Dickicht der Kronen

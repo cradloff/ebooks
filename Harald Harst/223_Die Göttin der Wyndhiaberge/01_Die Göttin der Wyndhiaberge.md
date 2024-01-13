@@ -453,7 +453,7 @@ ab. Kenner hiesiger Verhältnisse dagegen gehen in ihrem
 ablehnenden Standpunkt nicht ganz so weit, räumen ein,
 daß einige verbürgte Fälle vorgekommen sind. — Wenn
 ich vorhin sagte, Frau Lync sei freiwillig verschwunden,
-so muß das also meinerseits dahin korrigiert werden, das
+so muß das also meinerseits dahin korrigiert werden, daß
 die Dame nur scheinbar freiwillig sich verborgen hält und
 unter fremdem, ihr selbst unbewußtem Zwang handelte.«
 Harald berichtete Pemberton nun von den Vorgängen während
@@ -558,7 +558,7 @@ nicht sofort die Taschenlampen einzuschalten.
 
 Und als ich es tat, als der Lichtkegel in die Finsternis
 wie ein greller Pfeil hineinschoß, als ich die kleine Lampe
-dann auch aufwärts richtete, war’s zu, spät …
+dann auch aufwärts richtete, war’s zu spät …
 
 Ich sah nur noch über uns eine schmale Galerie aus
 dunklen Balken und unklare Umrisse einiger Gesichter.
@@ -697,7 +697,7 @@ Doktor legte bei Ma Litu die Verkleidung ab und begab sich
 nunmehr allein, stets starke Vorsicht bekundend, nach der
 Wellingtonstreet 28, einem Grundstück, das aus einem verwilderten
 Park und einem früheren kleinen Buddhatempel
-besteht, der jetzt an eine reichte Engländerin vermietet ist,
+besteht, der jetzt an eine reiche Engländerin vermietet ist,
 die jedoch zumeist auf Reisen sich befindet. Diese Miß Lydia
 Burns unterhält eine sehr zahlreiche Dienerschaft, verkehrt
 jedoch mit niemandem aus der Europäerkolonie, obwohl
@@ -731,7 +731,7 @@ Fakir Rinadingri nach Singapore bestellt! Weshalb folgten
 Sie Frau Lync bei deren Einkäufen dort? Weshalb blieb
 der Fakir Frau Lync ebenso auf den Fersen?«
 
-Der Hieb saß.
+*Der* Hieb saß.
 
 Marbucle biß sich auf die Lippen … Sein Blick irrte
 haltlos umher.
@@ -785,7 +785,7 @@ Ihre Papiere sorgfältig durchzusehen … — Reden Sie!!«
 
 Marbucle lächelte plötzlich … kreuzte wieder die Arme
 über der Brust und entgegnete mit überraschender Ruhe:
-»Lassen Sie mich verhaften! — Ich war im Übrigen daraus
+»Lassen Sie mich verhaften! — Ich war im übrigen darauf
 vorbereitet. Trotzdem, Herr Harst: Ich möchte Sie jetzt
 <@pagebreak/>
 sozusagen im letzten Moment vor einer schwerwiegenden
@@ -838,7 +838,7 @@ Grübeln …
 <@pagebreak/>
 
 <h2>4. Kapitel.</h2>
-<h3>Kleine »Enthüllungen«,</h3>
+<h3>Kleine »Enthüllungen«.</h3>
 
 Acht Uhr …
 
@@ -854,7 +854,7 @@ gedrückt.
 
 Uns beiden geht es gut. Harst hat soeben Lync gegenüber
 betont, daß der heutige Tag zweifellos eine Klärung der
-Angelegenheit bringen werde, 
+Angelegenheit bringen werde. 
 
 Worauf Lync niedergeschlagen meint, die Haussuchungen
 der Polizei seien doch ergebnislos verlaufen, und er wüßte
@@ -994,7 +994,7 @@ prüfte.
 Ich sah es Harst an, daß diese Wendung der Dinge
 ihm völlig überraschend gekommen war.
 
-Marbucle, jedoch warf Allan Drebb einen Blick zu,
+Marbucle jedoch warf Allan Drebb einen Blick zu,
 der keineswegs freundlich war. Aber — er schwieg.
 
 Der Chef reichte Drebb den Ausweis.
@@ -1099,7 +1099,7 @@ Diese Nachricht übermittelte uns ein brauner Detektiv,
 ein junger schlanker Mensch, den Harst dann fragte, wann
 der Nelson abgefahren sei.
 
-»Soeben …« erklärte Mahmud Sindra, »Soeben, Sahib
+»Soeben …« erklärte Mahmud Sindra. »Soeben, Sahib
 Harst …«
 
 »Dann — im Vertrauen, Sindra — nimm ein Motorboot
@@ -1122,7 +1122,7 @@ Mirakulum verqualmt, und ich … hatte geschwitzt und gestöhnt
 und mich über ihn greulich geärgert, weil er absolut
 nicht zum Reden zu bringen war.
 
-Jetzt allerdings — jetzt war im nicht mehr abzutrösten.
+Jetzt allerdings — jetzt war ich nicht mehr abzutrösten.
 
 »Harald!!«
 
