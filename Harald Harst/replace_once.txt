@@ -36,10 +36,12 @@
 \bgesunden	gefunden
 \bha!\b	hat
 \bHart\b	Harst
-\bIm\b	Hm
+\biH\b	ich
+\bIH\b	Ich
 \bis!\b	ist
 \bLarald\b	Harald
 \blebten	letzten
+\bniht\B	nicht
 \blett\b	jetzt
 \bLust\b	Luft
 \bm\b	in
