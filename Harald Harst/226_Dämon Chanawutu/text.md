@@ -7,7 +7,7 @@
 
 Wir hatten in diesem verregneten Frühjahr, das dem
 flauen Winter und dem einzigen wertvolleren Erlebnis
--- mit Vincent Saalborg — folgte, kaum mehr an Saalborg
+— mit Vincent Saalborg — folgte, kaum mehr an Saalborg
 und seine Gattin gedacht, die nach der Erledigung des Geheimnisses
 von Parochialstraße 222 für uns wieder für
 alle Zeit verschollen zu sein schienen.
@@ -100,8 +100,8 @@ rasch Vertrauen zu mir.)
 noch eine zweite Burgruine, die auf dem bewaldeten,
 weit niederen Haubenberg liegt und seit etwa zwei Jahren
 einem alten Sonderling gehört, einem früheren Arzte
-Doktor Petersen, der den Haubenberg durch Stacheldraht-
-Zäune und anderes zur Festung umgewandelt haben soll
+Doktor Petersen, der den Haubenberg durch Stacheldrahtzäune
+und anderes zur Festung umgewandelt haben soll
 und dort in der jämmerlichen Turmruine als Einsiedler
 seine Tage verbringt. Nur einmal in jeder Woche kommt
 er mit einem Rucksack nach Greifenberg, kauft ein, holt
@@ -141,8 +141,8 @@ Tier?«
 > Der Monteur betonte mir gegenüber, daß der Stromer
 auf ihn einen unheimlichen Eindruck gemacht habe und
 daß er nur deshalb sehr kurz und ablehnend geantwortet
-habe: »Für einen Schafbock!« Worauf der bärtige, sonnen-
-verbrannte Kerl mit einem frechen Lachen erwiderte: »Selbst
+habe: »Für einen Schafbock!« Worauf der bärtige, sonnenverbrannte
+Kerl mit einem frechen Lachen erwiderte: »Selbst
 Schafbock …!!« und in der Dunkelheit wieder verschwand.
 
 > Reimert hatte jedoch gegen den Stromer einen ungewissen
@@ -177,7 +177,7 @@ Motorrad spielend leicht über den Sturzacker zum Feldweg,
 verriet hierbei ungeahnte Kraft, schwang sich mit jugendlicher
 Elastizität auf seine Maschine und fuhr in die
 regnerische Nacht hinaus: Ein matt leuchtender Fleck,
-der immer kleiner wurde und schließlich vollends zerfloß." —
+der immer kleiner wurde und schließlich vollends zerfloß.« —
 
 > Lieber Freund, mehr konnte der Monteur Hans
 Reimert mir nicht angeben. Vielleicht findet Ihr Freund
@@ -211,8 +211,8 @@ nach dem nahen Trinkbad Flinsberg. Er käme von Görlitz,
 und die hiesige Gegend sei ihm völlig fremd, — alles Lügen,
 wie unser Oberschweizer ihm darauf ohne Rücksicht vorhielt.
 Die Antwort war … ein Stoß gegen die Brust, der
-den Hünen in ein nahes Dicht beförderte. Der Geister-
-Radler aber jagte davon … —"
+den Hünen in ein nahes Dicht beförderte. Der Geisterradler
+aber jagte davon … —«
 
 Was Frau Otti noch weiter an mich schrieb, betraf das
 Rittergut Sagan, das verwahrloste alte Schloß und Privatdinge
@@ -258,7 +258,7 @@ und behält trotzdem jede Einzelheit.
 — das erinnert an den Hund von Bascerville von Sherlock
 Holmes.«
 
-»Hm — deine Ironie enttäuscht mich," — und ich
+»Hm — deine Ironie enttäuscht mich,« — und ich
 füllte ihm den Glasteller mit eingezuckerten Erdbeeren eigener
 Ernte …
 
@@ -271,12 +271,12 @@ so merkwürdige Eigentümlichkeiten besitzt, ist nie harmlos. —
 Ich denke, der D-Zug nach Breslau geht um zehn Uhr
 fünfundzwanzig vom Görlitzer Bahnhof ab. Vielleicht findet
 sich eine unserer Brieftauben bis morgen vormittag wieder
-ein."
+ein.«
 
 »Du willst also wieder hin?«
 
 »Welche Frage!! — Die Erdbeeren sind in diesem Jahre
-ziemlich geschmacklos."
+ziemlich geschmacklos.«
 
 »Du versprichst dir also etwas von dem Geisterradler?«
 
@@ -289,7 +289,7 @@ eingezäunte Haubenberg und der Sonderling Doktor Petersen,
 Drittens: das Tier mit den glühenden Augen hinter dem
 Zaun. Viertens: die Frauenstimme, die das Tier wegruft.
 Fünftens: der Oberschweizer, der viermal nachts dem Geisterradler
-begegnet ist."
+begegnet ist.«
 
 Harald nickte. »Sehr gut. Besonders Punkt fünf. Ich
 glaubte, mein Alter, du würdest das übersehen.«
@@ -302,16 +302,16 @@ läßt, erscheint mir auffällig.«
 Wilhelm Tähl — der Name erinnert an Wilhelm Tell —
 zuerst aufs Korn nehmen. — Mahlzeit …« Er reichte mir
 die Hand … »Im übrigen, mein Alter …« — er erhob
-sich -- »hast du doch etwas übersehen: Punkt sechs nämlich."
+sich — »hast du doch etwas übersehen: Punkt sechs nämlich.«
 
-"So?!"
+»So?!«
 
 »Ja … Wenn ich dir nun zum Beispiel erkläre, daß
 ich bereits zu wissen glaube, wer dieser »Geisterradler«
 ist und daß ich sogar seinen Namen zu kennen glaube,
 dann …«
 
-»… staune ich allerdings!"
+»… staune ich allerdings!«
 
 »Staunen?! Mein lieber Max Schraut, zu unserem Handwerk
 gehört eben mehr als nur Hechte braten können …
@@ -321,13 +321,13 @@ Es ist noch etwas darin geblieben. Man könnte sagen:
 die Gallenblase! Insofern Gallenblase, als gerade das, was
 du übersehen, dem Geisterradler das Genick brechen dürfte.«
 
-»Da bin ich gespannt!"
+»Da bin ich gespannt!«
 
 »Dann … spanne nur wieder aus,« lächelte er …
 <@pagebreak/>
 »Oder besser: ließ Frau Ottis Brief nochmals. Unsere verehrte
 Freundin stößt uns da unbewußt auf die Fährte des
-leuchtenden Motorradlers …"
+leuchtenden Motorradlers …«
 
 »uns?! Dich vielleicht … Mich nicht! — Also: Punkt
 sechs, Harald? Sei mal recht nett zu mir …: Rede!«
@@ -359,7 +359,7 @@ Ich wickelte es auf … Es enthielt ein Zettelchen …
 Ich las:
 
 > »Herr Harst, in Greifenberg, Schlesien, gibt es etwas
-zu greifen!!"
+zu greifen!!«
 
 Das war alles …
 
@@ -371,7 +371,7 @@ Ein Blick zu Harald hinüber. Sein Lächeln genügte.
 Gebratene Tauben fliegen umher.«
 
 Daß er das Röllchen für mich hineinpraktiziert hatte:
-Er liebt Solch' kleine Scherze!
+Er liebt solch’ kleine Scherze!
 
 <@pagebreak/>
 »Wer mag der Taubendieb, also der Absender sein?«-
@@ -423,9 +423,9 @@ hier wieder den so häufigen Fall der Duplizität der Ereignisse.
 <@pagebreak/>
 Frau Ottis Brief und diese Taubenpost sind voneinander
 unabhängig und betreffen doch dieselbe Sache. — Was mir
-zu denken gibt, ist das »Vorsicht" mit den drei Ausrufungszeichen.
+zu denken gibt, ist das »Vorsicht» mit den drei Ausrufungszeichen.
 Beachten wir es. Ich werde an Freund Bechert
-telephonieren und Stellvertreter bestellen."
+telephonieren und Stellvertreter bestellen.«
 
 Harst Telegrammstil besagte, daß er unsere Abreise, unser
 Fernsein von Hause dadurch verheimlichen wollte, daß er
@@ -452,7 +452,7 @@ Intelligenzbrillen mit Schwarzer Hornfassung.
 Schon am Bahnhof fragten wir nach dem Monteur
 Hans Reimert.
 
-"... Ein kleines neues Geschäft in der Bahnstraße,»
+»… Ein kleines neues Geschäft in der Bahnstraße,«
 erklärte der Herr Vorsteher gefällig.
 
 »Wir möchten ein paar Taschenlampenbatterien kaufen,«
@@ -476,7 +476,7 @@ Würde.
 verschwand.
 
 Sein Heimatgefühl als Greifenberger war offenbar schwer
-verletzt durch das »rückständig<<.
+verletzt durch das »rückständig«.
 
 Wir gingen ins Städtli. Vom Bahnhof führt eine lange
 Straße mit vielen Gärten in den gemütlichen Ort. Monteur
@@ -494,7 +494,7 @@ Frau mit Puppenkopfgesicht.
 Ob Herr Reimert daheim sei? — Nein, ihr Mann habe
 auf einem Rittergut in der Nähe zu tun. — Dann könnten
 wir wohl sechs gute Taschenlampenbatterien bekommen … —
-»Gewiß, — bitte …"
+»Gewiß, — bitte …«
 
 Harald schien sich Frau Reimert gegenüber doch nicht
 gern demaskieren zu wollen. Auf mich machte sie einen recht
@@ -523,14 +523,14 @@ Frau Reimert, immerhin geschäftstüchtig, begann einen
 Kofferempfänger zu loben, der nebenbei auf einem Regal
 stand.
 
-"… Mein Mann hat ihn selbst gebaut … Es sind
+»… Mein Mann hat ihn selbst gebaut … Es sind
 Doppelgitterröhren, auch Heizung, und Anodenbatterie mit
 eingebaut … Preis nur 150 Mark … — Sehr billig … Garantiert
-Fernempfang mit Kopfhörer …"
+Fernempfang mit Kopfhörer …«
 
 Aber Harald biß nicht an. »Wir bleiben nahe zwei
 Tage hier … Ich will’s mir überlegen. Billig ist’s allerdings
-…"
+…«
 
 Dann verabschiedeten wir uns.
 
@@ -539,8 +539,8 @@ Was sollte die Komödie?! Er markierte eine schwere Sehnenzerrung
 links, humpelte in den Laden zurück und sank in
 einen Stuhl.
 
-»Nun kann ich acht Tage lang den Fuß kühlen …"
-jammerte er. »Hör’ mal, Schrimke, geh' doch mal nach
+»Nun kann ich acht Tage lang den Fuß kühlen …«
+jammerte er. »Hör’ mal, Schrimke, geh’ doch mal nach
 oben … Hier im Hause ist oben im ersten Stock ein Zimmer
 zu vermieten. Wenn wir’s billig bekommen, greife zu.
 Im Hotel wird’s zu teuer …
@@ -643,9 +643,9 @@ ging weiter, nachdem er bis auf die Mitte des Fahrdamms
 gekommen war und die Ladentür und das Schaufenster unten
 arglos gemustert Hatte.
 
-Im Nu Hatten wir die Strickleiter wie vorbereitet ein-
+Im Nu Hatten wir die Strickleiter wie vorbereitet eingehakt.
 <@pagebreak/>
-gehakt. Im Nu waren wir unten, zogen sie mit Hilfe der
+Im Nu waren wir unten, zogen sie mit Hilfe der
 dünnen schwarzseidenen Schnur wieder hoch und befestigten
 die Schnur am Vorgartenzaun.
 
@@ -696,11 +696,11 @@ unterstrichen.
 
 »Weshalb?«
 
-»Du wirst Chanawutu kennenlernen …"
+»Du wirst Chanawutu kennenlernen …«
 
-»Der Geisterradler ist Chanawutu?"
+»Der Geisterradler ist Chanawutu?«
 
-»Ja, mein Alter …"
+»Ja, mein Alter …«
 
 »Wie kamst du darauf?«
 
@@ -711,11 +711,11 @@ zumindest drückend! Schon in Berlin erklärst du mir, du
 wüßtest den Namen des Geisterradlers. Jetzt nennst du ihn:
 Chanawutu! Und mich läßt du im Dunkeln umhertappen …
 Ich kann mir nun den Kopf zerbrechen, wie du aus Frau
-Otti Lefelds Brief auf diesen Namen, …"
+Otti Lefelds Brief auf diesen Namen, …«
 
 Er hörte gar nicht hin. Er hatte aus einer Ecke eine
 große hölzerne Harke hervorgeholt … »Hiermit, tilgt Chanawutu
-die Spuren seines Motorrades aus …"
+die Spuren seines Motorrades aus …«
 
 Gleich darauf verließen wir die Höhle, nachdem Harald
 noch den Boden, damit wir keine Fährten zurückließen, mit
@@ -742,7 +742,7 @@ Jagdkostüm.
 
 »Nicht möglich …: Herr Harst!«
 
-»... Und Schraut, allerdings!"
+»… Und Schraut, allerdings!«
 
 Händeschütteln … Fragen … Antworten, von Haralds
 Seite Verhaltungsmaßregeln. Frau Lefeld war schon gestern
@@ -766,9 +766,9 @@ ich schlief sehr fest. Als ich erwachte, war’s halb neun. Das
 Bett drüben an der Wand war leer. Auf dem Kopfkissen ein
 Zettel:
 
-> »Erwarte dich heute abend halb zwölf Nordseite Hauben-
-Berg. — Instruiere die Rätin: Ich bin bettlägerig und will
-nicht gestört sein. -- H.«
+> »Erwarte dich heute abend halb zwölf Nordseite Haubenberg.
+— Instruiere die Rätin: Ich bin bettlägerig und will
+nicht gestört sein. — H.«
 
 … Alte Geschichte: Er hatte mich ausschlafen lassen und
 war nun wohl hinter Doktor Petersen, dem Einsiedler
@@ -826,13 +826,13 @@ Göbbel macht ein sehr erstauntes Gesicht.
 Prüft den Ausweis, lächelt, wird sehr liebenswürdig.
 
 »Freut mich, Sie kennenzulernen, Herr Schraut … Sie
-beide sind wohl des Geisterradlers wegen hierher gekommen."
+beide sind wohl des Geisterradlers wegen hierher gekommen.«
 
 »Ja, Frau Rittergutsbesitzer Lefeld schrieb uns einiges
 <@pagebreak/>
-über diesen Mann, und deshalb …"
+über diesen Mann, und deshalb …«
 
-»Danke … — und Herr Harst?"
+»Danke … — und Herr Harst?«
 
 In zeige Ihm Haralds Zettel, frage: »Wie ist der
 Tote gekleidet?«
@@ -843,7 +843,7 @@ Göbbel und sein Assistent setzen sich.
 
 »Herr Schraut, vorhin brachte uns ein Junge einen
 Brief,« erklärt der Kommissar. »Der Junge kannte den
-Herrn nicht, der ihm den Brief gab. Hier ist die Denunziation."
+Herrn nicht, der ihm den Brief gab. Hier ist die Denunziation.«
 
 Ich lese:
 
@@ -857,15 +857,15 @@ schlechteste Sorte.
 »Deshalb kam ich hierher,« meint Göbbel achselzuckend.
 »Natürlich werden wir Ihr Inkognito hüten, Herr Schraut.
 Nur wäre es mir sehr lieb, wenn ich Ihren Freund Harst
-sprechen könnte."
+sprechen könnte.«
 
 »Dann wollen wir nachts zusammen zum Haubenberg,
-Herr Kommissar."
+Herr Kommissar.«
 
 »Gern … sehr gern. — Dieser Mord hat im übrigen
 sehr merkwürdige Begleitumstände, Herr Schraut.«
 
-"erzählen Sie …«
+»erzählen Sie …«
 
 Wir rauchen …
 
@@ -876,68 +876,66 @@ Was ich höre, weckt Erinnerungen an so manches.
 <h2>4. Kapitel.</h2>
 <h3>Ruine Haubenberg.</h3>
 
-»... Ein Landarbeiter fand den Toten. Die Stelle war
+»… Ein Landarbeiter fand den Toten. Die Stelle war
 insofern für uns günstig, als der aufgeweichte Boden jede
-Fährte genau erkennen ließ. Das sogenannte Tuch im Westen
-des Haubenberges ist t’Ht mit Erlen bestanden, aber nur
+Fährte genau erkennen ließ. Das sogenannte Luch im Westen
+des Haubenberges ist dicht mit Erlen bestanden, aber nur
 von geringem Umfang. Der Arbeiter war klug genug, lediglich
 dem Gericht den Fund zu melden. ich wurde telephonisch
-von Görlitz hergerufen. Mein Gebietend und icmch kamen
+von Görlitz hergerufen. Mein Assistent und ich kamen
 im Auto. Der hiesige Richter hatte die Stelle absperren lassen.
-Der Kreisarzt erklärte, ’dvder Mann sei durch Stiche in
-den Hals ermordet worden. Das Mordinstrument muß Kinn
+Der Kreisarzt erklärte, der Mann sei durch Stiche in
+den Hals ermordet worden. Das Mordinstrument muß ein
 krummes kleines Messer gewesen sein. Der Tod mag gegen
 fünf Uhr morgens eingetreten sein, als der nächtliche Regen
 bereits aufgehört hatte. Der Tote ist völlig unkenntlich. Das
-Gesicht ist durch; Schnitte zerfleischt. — Und nun die seltsamen
+Gesicht ist durch Schnitte zerfleischt. — Und nun die seltsamen
 Umstände. Aus den Spuren ersah ich, daß der Mann
 allein gekommen war. An einer freien Stelle zwischen Birken
 und Unkraut wurde er überfallen. — Von wem?! Ja —
-da ist zuckt nicht eine einzige andere Spur — nur die
-seine, Und doch muß ein grimmer Kampf stattgefunden haben.
-In betone: Keine Zweite Spur, Herr Scrautt’
+da ist auch nicht eine einzige andere Spur — nur die
+seine. Und doch muß ein grimmer Kampf stattgefunden haben.
+Ich betone: Keine Zweite Spur, Herr Schraut!«
 
 »Haben Sie daran gedacht, daß Leute, die im Moor
-Gras mähen, ein oft Brettstücke unter die Füße binden,
+Gras mähen, sich oft Brettstücke unter die Füße binden,
 <@pagebreak/>
-um nicht einzusinken? Sollte Brett ergeben kaum deutliche
+um nicht einzusinken? Solche Brett ergeben kaum deutliche
 Eindrücke.«
 
 »Ich habe auch daran gedacht. — Die Fährte des Toten
 ist die einzige. Der Landarbeiter war am Rande der Lichtung
-stehen geblieben in der Bitte der Lichtung. Er liegt noch
-dort, da der Photograph von nicht zur Stelle ist. — Von
+stehen geblieben in der Mitte der Lichtung. Er liegt noch
+dort, da der Photograph noch nicht zur Stelle ist. — Von
 Selbstmord kann keine Rede sein. Und dann: Der Tote,
-
-der gut gekleidet ist — Sportanzug, Lodenmantel, seine
-Wäsche — trug in seinen Taschen nichts bei ein — nichts!
-—» Das wäre das zweite besondere Moment. — Drittens:
-
-Neben der Leiche lag und liegt ein der Spazierstock mit
+der gut gekleidet ist — Sportanzug, Lodenmantel, feine
+Wäsche — trug in seinen Taschen nichts bei sich — nichts!
+— Das wäre das zweite besondere Moment. — Drittens:
+Neben der Leiche lag und liegt ein dicker Spazierstock mit
 Naturkrücke, Malagarohr. Als ich ihn aufhob, machte mich
 das Gewicht stutzig.«
 
 »Also ein Stockgewehr«
 
-»Ja, und ein glänzend »ionstrulertes »… Offenbar von
+»Ja, und ein glänzend konstruiertes … Offenbar von
 einem Feinmechaniker hergestellt. Ich sah noch nie eine
-so tadellose Stockwerke. — Das wären die drei besonderen
+so tadellose Stockwaffe. — Das wären die drei besonderen
 Punkte, Herr Schraut: Keine zweite Spur, leere Taschen,
 Stockgewehr, — abgesehen von den gräßlichen Wunden.«
 
-In machte mir über die Wunden meine besonderen Gedanken.
+Ich machte mir über die Wunden meine besonderen Gedanken.
 Aber ich schwieg.
 
-In hielt von die anonyme Anzeige gegen uns in der
-Hand. Wer mochte der Denunziant: gewesen sein?! Hatte
-es Zweck, unser Inkognito nachts länger zu wahren? Hatte man
-uns nicht doch erkannt?1t Aber — — wer?!«
+Ich hielt noch die anonyme Anzeige gegen uns in der
+Hand. Wer mochte der Denunziant gewesen sein?! Hatte
+es Zweck, unser Inkognito noch länger zu wahren? Hatte man
+uns nicht doch erkannt?! Aber — — wer?!
 
-Göbbel und ich besprachen von kurz den geheimnisvollen
+Göbbel und ich besprachen noch kurz den geheimnisvollen
 Mord. Schließlich einigten wir uns dahin, daß Göbbel mich
-scheinbar als Verdächtigten mit zum Tatort nebenan solle.
-Harst sollte weiter als bettlägerig gelten, und d2Shalfb sollte
-der Kriminalassistent hier im Zimmer bleiben und ihr
+scheinbar als Verdächtigten mit zum Tatort nehmen solle.
+Harst sollte weiter als bettlägerig gelten, und deshalb sollte
+der Kriminalassistent hier im Zimmer bleiben und ihn
 bewachen — ihn, der gar nicht da war. Die Rätin aber
 mußte dafür sorgen, daß unsere halbe Verhaftung in der
 Stadt bekannt wurde — auch der anonyme Brief.
@@ -947,40 +945,40 @@ Die Sache war also ganz geschickt eingefädelt.
 <@pagebreak/>
 Und am Tatort ging die Komödie weiter. Die Neugierigen,
 durch drei Landjäger zurückgehalten, konnten keinerlei
-Verdacht schöpfen, daß in nicht Herr Schrimke aus Berlin,
-Tourist und Kanzleiinspektor a. D., sei. Und innerhalb der
+Verdacht schöpfen, daß ich nicht Herr Schrimke aus Berlin,
+Tourist und Kanzleiinspektor a.&nbsp;D., sei. Und innerhalb der
 Birkengruppe und des hohen Gestrüpps waren wir nicht
 zu sehen.
 
-In lernte den Untersuchungsrichter, den Kreisarzt und
+Ich lernte den Untersuchungsrichter, den Kreisarzt und
 den zweiten Kriminalassistent kennen. Der Photograph war
 gerade bei der Arbeit.
 
-Die Herren zeigten sich äußerst. höflich. Die Spuren des
-Toten waren durch) hellen Sand ausgefüllt worden. Ich
+Die Herren zeigten sich äußerst höflich. Die Spuren des
+Toten waren durch hellen Sand ausgefüllt worden. Ich
 trat an die Leiche heran.
 
-In vermeide es hier stets, Einzelheiten zu bringen, die
-gesHmalo8 und überflüssig sind. Der Anblick war tat
-sachlich gräßlich. Es handelte riß um einen Wann von
+Ich vermeide es hier stets, Einzelheiten zu bringen, die
+geschmacklos und überflüssig sind. Der Anblick war tatsächlich
+gräßlich. Es handelte sich um einen Wann von
 vielleicht dreißig Jahren, bartlos, blond, mittelgroß, kleiner
 als Harst. Die Hände waren gepflegt, aber zerkratzt — tiefe
-Risse. Der Sportanzug, braungrün, stammte aus einer:
+Risse. Der Sportanzug, braungrün, stammte aus einem
 Geschäft aus Berlin: Von der Stange! Der Lodenmantel war
 sehr mitgenommen, auf der Brust zerfetzt. Ebenso Leinenkragen
 und Selbstbinder, dazu völlig blutgetränkt.
 
 Ich durchsuchte die Taschen, befühlte überall den Stoff:
-nichts:
+nichts!
 
 Dann nahm ich den Gewehrstock vor. Es war eine
-Repetierbüchse für fünf Schuß. Bier Patronen waren noch
-vorhanden. « Ich prüfte den Lauf mit einem Stückchen und
-meinem Taschentuch. Zweifell9o8 war vor kurzem ein Schuß
-abgefeuert worden. Das Taschentuch wurde schwärzlid.
+Repetierbüchse für fünf Schuß. Vier Patronen waren noch
+vorhanden. Ich prüfte den Lauf mit einem Stöckchen und
+meinem Taschentuch. Zweifellos war vor kurzem ein Schuß
+abgefeuert worden. Das Taschentuch wurde schwärzlich.
 
-Die Kommission ließ nichts lustig gewähren. Ich arbeitete
-ganz nachts Haralds Methode.
+Die Kommission ließ mich ruhig gewähren. Ich arbeitete
+ganz nach Haralds Methode.
 
 Ich begann nun den Boden der Lichtung zu untersuchen.
 An einer Stelle fand ich die Bestätigung für meine Theorie,
@@ -990,69 +988,69 @@ Fährte, freilich nur als Fährte zu erkennen, wenn man Frau
 Otti Lefelds Brief gelesen hatte.
 
 Göbbel paßte genau auf, was ich tat. ich mußte vorsichtig
-sein. Diese Fährte lies, wie ins unschwer sah, auf
+sein. Diese Fährte lief, wie ich unschwer sah, auf
 den nahen Haubenberg zu.
 
 Dann fing in die Arbeit von neuem an — zum zweiten
 Mal, wie Harald dies stets macht: Beim ersten Mal kann
 man doch etwas übersehen.
 
-In lernte mir Karg den Spuren folgendes zusammen:
-Der Wann war im Morgengrauen hierher geschlichen. und
+Ich reimte mir nach den Spuren folgendes zusammen:
+Der Mann war im Morgengrauen hierher geschlichen und
 hatte sich mit seiner Waffe dort aufgestellt, wo er dem
 Haubenberg am nächsten war. Er hatte hier am Rande der
 Lichtung gut gedeckt eine ganze Weile gestanden, hatte dann
 auf jemand geschossen, — daher fehlte eine Patrone. Die
-Hülse hatte ich: mit der Fußspitze tiefer in den weichen
+Hülse hatte ich mit der Fußspitze tiefer in den weichen
 Boden getreten. Dann war auf den Schuß hin der Mörder
-herbeigeeilt und hatte mit dem heimtüishen Schützen furchtbare
+herbeigeeilt und hatte mit dem heimtückischen Schützen furchtbare
 Abrechnung gehalten, war wieder davongeeilt, — seine
-Fährten bewiesen es, freilich keine Fährten, die man »ohne
-weiteres als sollte zu erkennen vermochte.
+Fährten bewiesen es, freilich keine Fährten, die man ohne
+weiteres als solche zu erkennen vermochte.
 
-In wußte genug.
+Ich wußte genug.
 
-Achselzuckend trat in zu den Herren der Kommission.
+Achselzuckend trat ich zu den Herren der Kommission.
 
-»Ich bin mit meiner Kunst zu Ende’’ sagte in nur, und
+»Ich bin mit meiner Kunst zu Ende,« sagte ich nur, und
 das konnte allerlei heißen, wurde aber so gewertet, wie
 ich es erhofft hatte.
 
-»Göbbel meinte liebenswürdig:
+Göbbel meinte liebenswürdig:
 
-»Hier ist auch nichts Neues zu finden, Herr Schraut …
+»Hier ist auch nichts Neues zu finden, Herr Schraut …«
 
 »Bitte … Schrimke!«
 
 Der Untersuchungsrichter lächelte diskret. Er mochte
-denken: »Ein Versager — auch dieser Berliner?!«
+denken: »Ein Versager — auch dieser Berliner!!«
 
-Ich Skelette das Lächeln getrost ein, denn ja) hätte
-den Herren mit wenigen Sätzen erklären können, was der
+Ich steckte das Lächeln getrost ein, denn ich hätte
+den Herren mit wenigen Sätzen erklären können, was hier
 vorgegangen.
 
 So wurde ich denn, ich der Denunzierte, entlassen und
 <@pagebreak/>
 wanderte allein stadtwärts. Die Menge der Neugierigen
 musterte mich wenig freundlich. Die Kunde von dem anonymen
-Brief hatte sich schon herumgesprochen »… In hörte bissige
+Brief hatte sich schon herumgesprochen … Ich hörte bissige
 Bemerkungen …
 
-In wanderte weiter den Zaun des Haubenberges nach
+Ich wanderte weiter den Zaun des Haubenberges nach
 rechts, ging sehr langsam, musterte Zaun und bewaldeten
 Berg: eine Wildnis, in der von der Ruine Doktor Petersens
 nichts zu sehen war,
 
-So kam ichg dorthin, wo der Feldweg dicht am Zaune
-abbiegt. Ich!haute mich um. Niemand war in der Nähe —
-niemand. So blieb in denn stehen. Eine innere Stimme
-sagte mir, daß im beobachtet wurde, oder besser: meine
-allerfeinsten Nerven sagten ’es mir …
+So kam ich dorthin, wo der Feldweg dicht am Zaune
+abbiegt. Ich schaute mich um. Niemand war in der Nähe —
+niemand. So blieb ich denn stehen. Eine innere Stimme
+sagte mir, daß ich beobachtet wurde, oder besser: meine
+allerfeinsten Nerven sagten es mir …
 
 Wirklich: Dort oben hinter dem Zaun eine uralte
-Buche … In dem Blätterdach ein Rascheln .-
+Buche … In dem Blätterdach ein Rascheln …
 
-Ein Kopf»…
+Ein Kopf …
 
 Harst!!
 
@@ -1063,17 +1061,17 @@ wieder Hinter dem Blättervorhang.
 <@pagebreak/>
 
 <h2>5. Kapitel.</h2>
-<h3>Die Frau mit dem Freier.</h3>
+<h3>Die Frau mit dem Schleier.</h3>
 
 Ich schritt weiter.
 
 Es war ein köstlicher Sommertag, fast zu heiß. Selige
 Schmetterlinge taumelten durch die Luft. Eine Linde am
-Wege als einem Bienenkorb: das Summen der kleinen
-Insekten als) einem ununterbrochenen leisen Rauschen.
+Wege glich einem Bienenkorb: das Summen der kleinen
+Insekten glich einem ununterbrochenen leisen Rauschen.
 
 Der Feldweg lief hier eine Strecke parallel mit dem
-seiten, dichten Stacheldrahtzaun.
+festen, dichten Stacheldrahtzaun.
 
 Mit einem Male eine Stimme …
 
@@ -1081,16 +1079,16 @@ Ganz leise …
 
 »Herr Schraut!!«
 
-In fuhr herum …
+Ich fuhr herum …
 
-Da stand hinter dem Zaune zwischen Haselstauden eine:
-Frau in schwarzen Kleide, einen schwarzen Schleier mehrfach
+Da stand hinter dem Zaune zwischen Haselstauden eine
+Frau in schwarzem Kleide, einen schwarzen Schleier mehrfach
 um das Gesicht gewunden.
 
-»Herr Schraut, kommen Sie auf keinen Fall hierher 11«
+»Herr Schraut, kommen Sie auf keinen Fall hierher!!«
 rief die gedämpfte Stimme weiter.
 
-In mußte mich von dieser Überraschung erst erholen.
+Ich mußte mich von dieser Überraschung erst erholen.
 
 Dann:
 
@@ -1101,29 +1099,29 @@ benutzt?«
 Und — entlarven Sie den Geisterradler, ohne uns zu belästigen.«
 
 <@pagebreak/>
-Es lag!so viel Angst und Sorge in dieser melodischen
-Stimme, daß in unwillkürlich nickte.
+Es lag so viel Angst und Sorge in dieser melodischen
+Stimme, daß ich unwillkürlich nickte.
 
-Rasch zog sich die Verschleierte zurück. In hörte noch
+Rasch zog sich die Verschleierte zurück. Ich hörte noch
 das Rauschen von Blättern …
 
 Nichts mehr …
 
-… Gedankenvoll ging in der Stadt zu. Kein Zweifel: Das
+Gedankenvoll ging ich der Stadt zu. Kein Zweifel: Das
 mußte die Frau sein, die nach Frau Ottis Brief damals
 nachts, als Reimert hier dem Geisterradler begegnete, das
 Tier vom Zaun weggerufen hatte.
 
 Wer war die Frau, die in Berlin Brieftauben uns
-gestohlen und wieder hatte stiegen lassen — mit vier unklaren
+gestohlen und wieder hatte fliegen lassen — mit vier unklaren
 Zetteln. Wer war’s?! In der Ruine des Haubenberges sollte
 doch Doktor Petersen ganz allein hausen! Und dann …: »Es
-soll nicht von mehr Unheil entstehen« …?! Bildete öffnende
-sich ein, daß wir den Geisterradler fangen und das?
+soll nicht noch mehr Unheil entstehen« …?! Bildete die
+Fremde sich ein, daß wir den Geisterradler fangen und das
 halbe Geheimnis ungeklärt lassen würden?! —
 
 Vor dem Hause, der Rätin ein Häuflein Gaffer …
-Wieder bekam in einige Liebenswürdigkeiten zu hören.
+Wieder bekam ich einige Liebenswürdigkeiten zu hören.
 
 In der Ladentür stand Frau Reimert, hübsch und leicht
 kokett …
@@ -1132,32 +1130,32 @@ kokett …
 
 Ich rief wütend: »Nicht mal harmlose Touristen läßt
 man in Ruhe …! Was haben wir mit dem Mord zu tun!
-Wenn in den Kerl wüßte, der uns da denunziert hat …!!’
-In drohte mit meinem Stock.
+Wenn ich den Kerl wüßte, der uns da denunziert hat …!!«
+Ich drohte mit meinem Stock.
 
 Frau Reimert lächelte freundlich. »Ärgern Sie sich
 doch nicht …! Da — der Lautsprecher gibt Ihnen die einzig
 richtige Weisung — Schallplattenmusik aus Berlin: »Trink,
 Brüderlein, Trink, laß doch die Sorgen zu Haus!«
 
-… »Sie haben recht, Frau Reimert …! Und ein gutes
-Gewissen — weichstes Ruhekissen! Wiedersehen!’«
+»Sie haben recht, Frau Reimert …! Und ein gutes
+Gewissen — weichstes Ruhekissen! Wiedersehen!«
 
-In betrat das Haus.
+Ich betrat das Haus.
 
-Oben in unserem Zimmer hatte der Wächter des noch«
-aufregenden bektläigeriacn Harst bereits meine dritte Viehs
+Oben in unserem Zimmer hatte der Wächter des nicht
+anwesenden bettlägerigen Harst bereits meine dritte Zigarre
 <@pagebreak/>
 vor und auch schon ergiebig gefrühstückt.
 
-»Sollen Dienst läßt man sich gefallen, Herr Schraut!«
+»Solchen Dienst läßt man sich gefallen, Herr Schraut!«
 
-»Sagen Sie nur »den Gaffern da unten, daß wir schuldlos
-sind …
+»Sagen Sie nur den Gaffern da unten, daß wir schuldlos
+sind …«
 
-»Mache in! Wiedersehen, Herr Schraut …«
+»Mache ich! Wiedersehen, Herr Schraut …«
 
-»Schminken«
+»Schrimke!!«
 
 »Pardon, Herr Schrimke …!«
 
@@ -1169,180 +1167,187 @@ Warf mich in den Plüschsessel … Überdachte die letzte
 Stunde … Hatte ich richtig gehandelt, der Kommission die
 Wahrheit zu verschweigen?!
 
-In kannte die Wahrheit. Meine Kombinationen stimmten.
-Die Verschleierte hatte mir das Letzte bestätigt: Der Geister,
-Radler hatte e?« auf die Bewohner des Haubenberges abgesehen!
+Ich kannte die Wahrheit. Meine Kombinationen stimmten.
+Die Verschleierte hatte mir das Letzte bestätigt: Der Geisterradler
+hatte es auf die Bewohner des Haubenberges abgesehen!
 Chanawutu, der indische Fakir, war der gefürchtete
-Damen, der auf Zettel 4 erwähnt war!
+Dämon, der auf Zettel 4 erwähnt war!
 
 Wer war Chanawutu?! —
 
-Frau Na! brachte mir Zitronenwasser und belegte Brote
-Heu. Eine Seele von Frau. Sie setzte ein zu mir, und ich
+Frau Rat brachte mir Zitronenwasser und belegte Brötchen.
+Eine Seele von Frau. Sie setzte sich zu mir, und ich
 erzählte — mit Vorbehalt.
 
-»Schade, daß Sie nichts Neues gefunden haben …
+»Schade, daß Sie nichts Neues gefunden haben …«
 meinte sie enttäuscht. »Was wird nun mit dem Toten?«
 
-»Weggeschafft — zur Beerdigung freigegeben …
+»Weggeschafft — zur Beerdigung freigegeben …«
 
 »Also ein Unbekannter auf unserem Friedhof …! —
 Greifenberg ist in heller Aufregung … Sogar vom nahen
-Friedeberg sind schon Neugierige mit ’der Bimmelbahn gekommen
-…
+Friedeberg sind schon Neugierige mit der Bimmelbahn gekommen
+…«
 
-»Frau Na! —. im Vertrauen: Kennen Sie Doktor Petersen?’
+»Frau Rat — im Vertrauen: Kennen Sie Doktor Petersen?«
 
 »Vom Sehen ja. Ein alter, aber rüstiger hagerer Herr,
 Vorhin war er wieder hier in der Stadt mit seinem Rucksack
-
-und kaufte ein … Auch drüben bei Schnitt — Kolonialwaren.«
--
+und kaufte ein … Auch drüben bei Schmidt — Kolonialwaren.«
 
 <@pagebreak/>
 »So — er war hier …«
 
-»Jede Woche kommt er einmal …»’
+»Jede Woche kommt er einmal …«
 
-»Das weiß ich schon …’
+»Das weiß ich schon …«
+
 »Und dann hängt er stets eine Papptafel an seine
 Gitterpforte: »In zwei Stunden zurück. — Eintritt verboten.«
-— Ein Sonderling, sehr Menschenknochen, aber ein
+— Ein Sonderling, sehr menschenscheu, aber ein
 vorzüglicher Arzt …«
 
 »So?! Woher können Sie das beurteilen, Frau Rat?«
 
 »Weil er auf den Dörfern ringsum mitunter zu Kranken
 gerufen wird. Er geht aber nur in besonders schweren Fällen
-hin …« …
+hin …«
 
-»Das ist mir ja ganz neu …’
+»Das ist mir ja ganz neu …«
 
 »Er nimmt Honorar, überweist es aber stets der hiesigen
-Armenkasse’
+Armenkasse»
 
 »Ein Wohltäter also …«
 
-»Zweifellos ein außer Mensch …«
+»Zweifellos ein guter Mensch …«
 
-Auf dem Tische!ach von der anonyme Brief. Ich zeigte ihn
+Auf dem Tische lag noch der anonyme Brief. Ich zeigte ihn
 der Rätin.
 
 »Die Handschrift ist zwar verstellt, aber vielleicht kennen
-Sie sie doch …
+Sie sie doch …«
 
 Sie holte ihre Brille hervor. »… Ich weiß nicht recht,
-jemandes an diesen Buchstaben kommt mir doch bekannt vor.«
+manches an diesen Buchstaben kommt mir doch bekannt vor.«
 
 Es läutete draußen …
+
 Die Rätin ging öffnen, kehrte sofort zurück.
 
 »Ein Brief für Sie, Herr Schraut … »Ein Mädchen gab
-ihn »ab. Sie wollte nicht sagen, wer sie sei. In kenne sie
+ihn ab. Sie wollte nicht sagen, wer sie sei. Ich kenne sie
 nicht …«
 
-Auf dem Umschlag eine kitzliche verstellte Schrift:
+Auf dem Umschlag eine kritzliche verstellte Schrift:
+
 Herrn Schrimke.
+
 Nur: Herrn Schrimke!
+
 Papier tadellos, leichter zarter Duft …
+
 … Rote Tulpen blühen dort in gelber Schale auf
 <@pagebreak/>
-der Schreibtische … Tulpen von der Farbe des Blutes …
-—» So schrieb ich einst —« für Frau Otti …
+der Schreibtischecke … Tulpen von der Farbe des Blutes …
+— So schrieb ich einst — für Frau Otti …
 
 Von Frau Otti war der Brief.
 
 Ich las:
 
-Lieber Freund,
+<p class="centered">Lieber Freund,</p>
 
-aus Vorsicht habe in auf dem Umschlag meine Handschrift
-verstellt, — In aller Eile folgendes. Der Mann aus der
+> aus Vorsicht habe ich auf dem Umschlag meine Handschrift
+verstellt. — In aller Eile folgendes. Der Mann aus der
 Lehmgrube (Sie wissen Bescheid!) hat sein Quartier dort
-vernichtet. Unser Entsichere kam heute morgen vier Uhr
-dort vorüber: — Liebesfahr!! Er hörte einen dumpfen
+vernichtet. Unser Gutseleve kam heute morgen vier Uhr
+dort vorüber: — Liebesfahrt! Er hörte einen dumpfen
 Knall. Die ganze Nordwand ist eingestürzt, fraglos durch
 beabsichtigte Explosion. Ich war dort, habe graben lassen.
 Die Koffer sind verschwunden, ebenso die Benzinkannen.
-— Sehen Sie: Hatte in nicht recht, als ich nach:8 Harst riet,
+— Sehen Sie: Hatte ich nicht recht, als ich nachts Harst riet,
 dem Geisterradler aufzulauern! Nun ist er uns entwischt.
-Was nun?! — Können Sie nicht heute zu uns kommen? In
-werde mit dem Auto um zwei! Uhr auf der Chaussee bei
-dem großen Steine warten. — Gruß — — Ihre 9, L’ /-
+Was nun?! — Können Sie nicht heute zu uns kommen? Ich
+werde mit dem Auto um zwei Uhr auf der Chaussee bei
+dem großen Steine warten. — Gruß — — Ihre O. L.«
 
-er Inhalt ließ mich kalt …
+*Der* Inhalt ließ mich kalt …
 
-Aber nicht der Umschlag …
+Aber nicht *der* Umschlag …
 
 Ich verglich …
 
-Die Frau Na! war hinausgegangen.
+Die Frau Rat war hinausgegangen.
 
 In verglich zwei Umschläge …
 
 War’s möglich?! War’s denkbar?!
 
-»Frau Otti sollte uns denunziert haben?!
+Frau Otti sollte uns denunziert haben?!
 
-»Ich prüfte nochmals …
+Ich prüfte nochmals …
 
-Ja — diese verstellte »Schrift klagte an!!
+Ja — diese verstellte Schrift klagte an!!
 
 Ich rief die Rätin …
 
-»Bitte, dergleichen Sie ».!’ …
+»Bitte, vergleichen Sie …!«
 
 Die alte Dame prüfte … prüfte …
 
 »Diese beiden Umschläge hat dieselbe Person geschrieben,«
 entschied sie.
 
-Das war ein harten Schlag.
+Das war ein harter Schlag.
 
 <@pagebreak/>
-»Ich danke Ihnen, Frau Rat … In möchte allein
-ein …
+»Ich danke Ihnen, Frau Rat … Ich möchte allein
+sein …«
+
 Also — neues Rätsel: Was in aller Welt konnte Frau
 Otti dazu bewogen haben, uns zu denunzieren?! In schlechter
 Absicht war das sicherlich nicht geschehen. Hatte sie uns
 nur zwingen wollen, die Masken zu lüften und energischer
--’-« nach« ihrer Ansicht — gegen den Geisterradler vorzugehen?!
-Anderseits: In ihrem Briefe. war von dem Worte nichts
+— nach ihrer Ansicht — gegen den Geisterradler vorzugehen?!
+
+Anderseits: In ihrem Briefe war von dem Morde nichts
 erwähnt. Wußte sie überhaupt schon davon? Rittergut Sagan
-lag immerhin anderthalb Weilen entfernt.
+lag immerhin anderthalb Meilen entfernt.
 
 Und doch: die verstellte Schrift glich auf den beiden
 Umschlägen einander verblüffend! —
 
 Nun möchte ich hier meine Leser und Freunde wieder
 einmal aus ihrer beschaulichen Ruhe beim Lesen herausreißen.
-— Wahl spricht gegen meinen Argwohn, daß Frau
-Otti die Denunziation erstattet hat? — Bitte — — was?!k
+— Was spricht gegen meinen Argwohn, daß Frau
+Otti die Denunziation erstattet hat? — Bitte — — was?!
 
-Sehr Gulasch: Eine Frau von ihrer geistigen Regsamkeit
+Sehr einfach: Eine Frau von ihrer geistigen Regsamkeit
 hätte nie den Fehler begangen, auf beiden Umschlägen
-so ähnliche Schriftentstellungen zu benutzen! Das
+so ähnliche Schriftentstellungen zu benutzen! *Das*
 mußte ja auffallen!!
 
-Also: Jemand anders hatte Frau Ostsee Schrift nachgeahmt,
-hatte auf- dem ersten Umschlag die Charakteristischen
+Also: Jemand anders hatte Frau Ottis Schrift nachgeahmt,
+hatte auf dem ersten Umschlag die Charakteristischen
 Merkmale ihrer Schrift mit eingemogelt.
 
 Ein anderer: Wer?!
 
 Ja — — wer?!
 
-Das Rätsel »Geisterradler’’ schwoll immer mehr an … Denn
+Das Rätsel »Geisterradler» schwoll immer mehr an … Denn
 daß Chanawutu mit seiner Denunziation etwas zu tun hatte:
-In war überzeugt davon!
+Ich war überzeugt davon!
 
 Wie kam der Mann zu einer Schriftprobe Frau Ottis?!
-Hoch — wollte um zwei auf der Chaussee am großen
+
+Ich — wollte um zwei auf der Chaussee am großen
 Steine sein.
 
-<@pagebreak/>
+<@pagebreak 36/>
 
-Wer?!
+<h1>Wer?!</h1>
 
 <h2>1. Kapitel.</h2>
 <h3>Der chinesische Pokal.</h3>
@@ -1354,7 +1359,7 @@ Freunde Hirt Krankenpfleger (am leeren Bett) spielen!
 Herr Schrimke war bereits für die Greifenberger eine
 Persönlichkeit geworden. Besonders die Greifenberger Lausbuben,
 die das Haus Reimert umlagert hatten, gaben ihm
-das Ebrengeleit bis zur Stadtgrenze. Die Katzenmusik, die
+das Ehrengeleit bis zur Stadtgrenze. Die Katzenmusik, die
 sie todernst Blechtöpfen, Dschungeln, Kindertrommel,
 Schnarren und ähnlichen Dingen veranstalteten, war nicht
 schlechter als manche abgespielte Jazzschallplatte des Wellenberg
@@ -2572,7 +2577,7 @@ internationale Hoteldieb, der zumeist als Graf Mattrosa auftrat.
 Sie spielten hier den Geisterradler, weil Sie leidenschaftlicher
 Wilddieb sind — so nebenbei noch. — Von Görlitz
 aus erkundigte in mich in Hamburg nach Ihrem Vorleben.
-Sie wurden in Kalkutta als Sohn eines deutschen Konfulatsunierbeamten
+Sie wurden in Kalkutta als Sohn eines deutschen Konsulatsunterbeamten
 geboten. Sie heirateten später Anni, geborene
 Winter, eine berüchtigte Taschendiebin, wie sich man herausgestellt
 hat. Der von dem Panther Cassius Zerrissene ist
