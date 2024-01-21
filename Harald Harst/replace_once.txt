@@ -11,6 +11,7 @@
 \bAeste\b	Äste
 \bAhnen\b	Ihnen
 \baud\)\b	auch
+\bauß\)\b	auch
 \bau!	auf
 \bBann\b	Dann
 \b[bdh]in\s[nu][nu]d\s[bdh]er\b	hin und her
@@ -63,7 +64,11 @@
 \bSchrau!	Schraut
 \bSeht\b	Jetzt
 \bsic\b	sie
+\bsih\b	sich
+\bsiH\b	sich
 \bSiek\b	Sie?
+\bsim\b	sich
+\bsiM\b	sich
 \bsteFt	steckt
 \bstete\b	steckte
 \bTeich!\b	leicht
