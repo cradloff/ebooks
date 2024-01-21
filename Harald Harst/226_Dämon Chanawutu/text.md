@@ -32,7 +32,7 @@ So hausten wir beide denn im Harst-Palais, das meinen
 Freunden und Lesern so vertraut ist, ganz allein. Nur vormittags
 kam eine treue Aufwärterin und erledigte die notwendigsten
 Arbeiten. Im übrigen besorgten wir alles allein.
-Ich kochte, Harald hielt den Garten Instand, — — und so
+Ich kochte, Harald hielt den Garten instand, — — und so
 war’s auch am 9. Juli um die Mittagszeit.
 
 Während ich in der Küche bei offenen Fenstern sechs
@@ -89,14 +89,14 @@ mich mit dem Elektromonteur, den wir aus Greifenberg
 bestellt hatten — ein junger, intelligenter Mensch. So im
 Laufe des Gesprächs erzählte er mir, daß er unlängst hier,
 wo doch nie etwas Besonderes passiere, ein Erlebnis gehabt
-habe, das er sich einfach nicht Erklären könne. (Sie
+habe, das er sich einfach nicht erklären könne. (Sie
 kennen mich, lieber Freund, — ich weiß die Leute zu
 nehmen, ich komme mit jedem aus und jeder gewinnt
 rasch Vertrauen zu mir.)
 
 > Also er erzählt …
 
-> Es gibt Hier südlich der bekannten Ruine Greifenstein
+> Es gibt hier südlich der bekannten Ruine Greifenstein
 noch eine zweite Burgruine, die auf dem bewaldeten,
 weit niederen Haubenberg liegt und seit etwa zwei Jahren
 einem alten Sonderling gehört, einem früheren Arzte
@@ -183,7 +183,7 @@ der immer kleiner wurde und schließlich vollends zerfloß.« —
 Reimert mir nicht angeben. Vielleicht findet Ihr Freund
 Harst aus diesem Abenteuer eines intelligenten, durchaus
 nicht phantastisch veranlagten Menschen einige Punkte
-Heraus, die ihm beachtenswert erscheinen.
+heraus, die ihm beachtenswert erscheinen.
 
 > Ich möchte nun meinerseits noch hinzufügen, daß ich
 bei unseren Leuten hier auf dem Gute Nachfrage gehalten
@@ -218,7 +218,7 @@ Was Frau Otti noch weiter an mich schrieb, betraf das
 Rittergut Sagan, das verwahrloste alte Schloß und Privatdinge
 …
 
-Ich Hatte die Lektüre dieses Schreibens wiederholt unterbrochen,
+Ich hatte die Lektüre dieses Schreibens wiederholt unterbrochen,
 da ich mich um den Brathecht kümmern mußte.
 Als ich mit beidem, Brief und Hecht, fertig war, betrat
 Harald die Küche, sagte mit der ihm eigenen besonderen
@@ -264,7 +264,7 @@ Ernte …
 
 »Meine Ironie betrifft die Harmlosigkeit der Bewohner
 von Greifenberg und Umgegend, mein Alter … — Übrigens
-war der Hecht tadellos. Nur die Blumenkohlsuppe Hättest
+war der Hecht tadellos. Nur die Blumenkohlsuppe hättest
 du weniger salzen können … — Dieser Geisterradler müßte
 längst hinter Schloß und Riegel sitzen. Ein Mensch, der
 so merkwürdige Eigentümlichkeiten besitzt, ist nie harmlos. —
@@ -329,7 +329,7 @@ du übersehen, dem Geisterradler das Genick brechen dürfte.«
 Freundin stößt uns da unbewußt auf die Fährte des
 leuchtenden Motorradlers …«
 
-»uns?! Dich vielleicht … Mich nicht! — Also: Punkt
+»Uns?! Dich vielleicht … Mich nicht! — Also: Punkt
 sechs, Harald? Sei mal recht nett zu mir …: Rede!«
 
 »Schmeichelkater alter!! Wie du bitten kannst! In diesem
@@ -349,7 +349,7 @@ Harald hatte eingekauft: aus der Stadtküche — für
 jeden eine kalte gebratene Taube, gefüllte Tomaten, Bierkäse
 und Pumpernickel.
 
-Als ich mich über mein braunes leckeres Täubchen Hermachte,
+Als ich mich über mein braunes leckeres Täubchen hermachte,
 fand ich im hohlen Innern ein hauchdünnes Staniolröllchen.
 
 »Harald!! Hier …!!«
@@ -402,7 +402,7 @@ drei Nachrichten, nehme ich an. Ich hole sie.«
 
 Ich beobachtete. Er ging in den Stall, dann klappte
 der Verschluß des Flugloches empor, die Tauben schlüpften
-Hinein und der Verschluß klappte wieder zu.
+hinein und der Verschluß klappte wieder zu.
 
 Harald kam und legte drei Staniolröllchen auf den
 Tisch.
@@ -447,7 +447,7 @@ aus und schickten den Wagen zurück. Bis zehn Uhr schliefen
 wir unter unserem kleinen Zelt, veränderten uns dann
 gründlich und betraten die Stadt als sehr schlichte biedere
 Touristen mit bunten Sporthemden, noch biederen Bärten und
-Intelligenzbrillen mit Schwarzer Hornfassung.
+Intelligenzbrillen mit schwarzer Hornfassung.
 
 Schon am Bahnhof fragten wir nach dem Monteur
 Hans Reimert.
@@ -515,7 +515,7 @@ Nachdem der Einkauf erledigt, kam Harald auf Rundfunk
 zu sprechen. Ich hatte derweil bereits auf einem Seitentisch
 einen Vierröhrenempfänger mit Vier-Volt-Akku und
 Anodenbatterie bemerkt, ein bekanntes billiges Fabrikat mit
-Zwei Schwenkspulenpaaren. Aus der Stellung der Kondensatorskalenscheiben
+zwei Schwenkspulenpaaren. Aus der Stellung der Kondensatorskalenscheiben
 ersah ich, daß der Apparat zurzeit für
 eine kürzere Welle, etwa 230, eingestellt war.
 
@@ -641,9 +641,9 @@ dunkel.
 Ein lauer Regen begann herabzurieseln. Der Mann
 ging weiter, nachdem er bis auf die Mitte des Fahrdamms
 gekommen war und die Ladentür und das Schaufenster unten
-arglos gemustert Hatte.
+arglos gemustert hatte.
 
-Im Nu Hatten wir die Strickleiter wie vorbereitet eingehakt.
+Im Nu hatten wir die Strickleiter wie vorbereitet eingehakt.
 <@pagebreak/>
 Im Nu waren wir unten, zogen sie mit Hilfe der
 dünnen schwarzseidenen Schnur wieder hoch und befestigten
@@ -719,7 +719,7 @@ die Spuren seines Motorrades aus …«
 
 Gleich darauf verließen wir die Höhle, nachdem Harald
 noch den Boden, damit wir keine Fährten zurückließen, mit
-einem Lappen gepeitscht hatte. Die Dielenbretter waren Ungehobelt
+einem Lappen gepeitscht hatte. Die Dielenbretter waren ungehobelt
 und sehr erdig.
 
 Draußen träufelte es noch immer ganz sacht …
@@ -761,7 +761,7 @@ Wir wanderten der Stadt zu. Unbemerkt erreichten wir
 unsere Zimmer, gingen schlafen. In der nächsten Nacht wollte
 Harald den Haubenberg besuchen.
 
-Ich Schlief auf dem Diwan, da ich der kürzere bin. Und
+Ich schlief auf dem Diwan, da ich der kürzere bin. Und
 ich schlief sehr fest. Als ich erwachte, war’s halb neun. Das
 Bett drüben an der Wand war leer. Auf dem Kopfkissen ein
 Zettel:
@@ -778,7 +778,7 @@ Konservenbüchsen.
 Um neun brachte mir die Frau Rat das Frühstück. Sie
 brachte noch etwas: die Nachricht, daß man in aller Frühe
 heute in sogenannten Luch, einem kleinen Moorstück unweit
-des Haubenberges, eine männliche Leiche mit völlig Zerfetztem
+des Haubenberges, eine männliche Leiche mit völlig zerfetztem
 Gesicht gefunden habe. Der Tote sei vollkommen ausgeplündert
 <@pagebreak/>
 worden, und die Gerichtskommission weile bereits
@@ -805,7 +805,7 @@ zehn Minuten konnte ich am Haubenberg sein.
 
 Ich hatte es nicht nötig mich dieserhalb anzustrengen. Im
 Flur läutete es. Ich hörte die Rätin mit jemandem sprechen.
-Dann klopfte es kurz, energisch
+Dann klopfte es kurz, energisch.
 
 »Herein …«
 
@@ -834,7 +834,7 @@ beide sind wohl des Geisterradlers wegen hierher gekommen.«
 
 »Danke … — und Herr Harst?«
 
-In zeige Ihm Haralds Zettel, frage: »Wie ist der
+Ich zeige ihm Haralds Zettel, frage: »Wie ist der
 Tote gekleidet?«
 
 Seine Antwort nimmt mir jede Sorge.
@@ -865,7 +865,7 @@ Herr Kommissar.«
 »Gern … sehr gern. — Dieser Mord hat im übrigen
 sehr merkwürdige Begleitumstände, Herr Schraut.«
 
-»erzählen Sie …«
+»Erzählen Sie …«
 
 Wir rauchen …
 
@@ -881,7 +881,7 @@ insofern für uns günstig, als der aufgeweichte Boden jede
 Fährte genau erkennen ließ. Das sogenannte Luch im Westen
 des Haubenberges ist dicht mit Erlen bestanden, aber nur
 von geringem Umfang. Der Arbeiter war klug genug, lediglich
-dem Gericht den Fund zu melden. ich wurde telephonisch
+dem Gericht den Fund zu melden. Ich wurde telephonisch
 von Görlitz hergerufen. Mein Assistent und ich kamen
 im Auto. Der hiesige Richter hatte die Stelle absperren lassen.
 Der Kreisarzt erklärte, der Mann sei durch Stiche in
@@ -895,7 +895,7 @@ allein gekommen war. An einer freien Stelle zwischen Birken
 und Unkraut wurde er überfallen. — Von wem?! Ja —
 da ist auch nicht eine einzige andere Spur — nur die
 seine. Und doch muß ein grimmer Kampf stattgefunden haben.
-Ich betone: Keine Zweite Spur, Herr Schraut!«
+Ich betone: Keine zweite Spur, Herr Schraut!«
 
 »Haben Sie daran gedacht, daß Leute, die im Moor
 Gras mähen, sich oft Brettstücke unter die Füße binden,
@@ -915,7 +915,7 @@ Neben der Leiche lag und liegt ein dicker Spazierstock mit
 Naturkrücke, Malagarohr. Als ich ihn aufhob, machte mich
 das Gewicht stutzig.«
 
-»Also ein Stockgewehr«
+»Also ein Stockgewehr.«
 
 »Ja, und ein glänzend konstruiertes … Offenbar von
 einem Feinmechaniker hergestellt. Ich sah noch nie eine
@@ -960,7 +960,7 @@ trat an die Leiche heran.
 
 Ich vermeide es hier stets, Einzelheiten zu bringen, die
 geschmacklos und überflüssig sind. Der Anblick war tatsächlich
-gräßlich. Es handelte sich um einen Wann von
+gräßlich. Es handelte sich um einen Mann von
 vielleicht dreißig Jahren, bartlos, blond, mittelgroß, kleiner
 als Harst. Die Hände waren gepflegt, aber zerkratzt — tiefe
 Risse. Der Sportanzug, braungrün, stammte aus einem
@@ -987,7 +987,7 @@ die ich vorläufig für mich behalten wollte: Eine besondere
 Fährte, freilich nur als Fährte zu erkennen, wenn man Frau
 Otti Lefelds Brief gelesen hatte.
 
-Göbbel paßte genau auf, was ich tat. ich mußte vorsichtig
+Göbbel paßte genau auf, was ich tat. Ich mußte vorsichtig
 sein. Diese Fährte lief, wie ich unschwer sah, auf
 den nahen Haubenberg zu.
 
@@ -1039,7 +1039,7 @@ Bemerkungen …
 Ich wanderte weiter den Zaun des Haubenberges nach
 rechts, ging sehr langsam, musterte Zaun und bewaldeten
 Berg: eine Wildnis, in der von der Ruine Doktor Petersens
-nichts zu sehen war,
+nichts zu sehen war.
 
 So kam ich dorthin, wo der Feldweg dicht am Zaune
 abbiegt. Ich schaute mich um. Niemand war in der Nähe —
@@ -1056,7 +1056,7 @@ Harst!!
 
 Auf einem Ast saß er, Zigarette im Munde, winkte, legte
 dann den Zeigefinger auf die Lippen, deutete stadtwärts, verschwand
-wieder Hinter dem Blättervorhang.
+wieder hinter dem Blättervorhang.
 
 <@pagebreak/>
 
@@ -1192,7 +1192,7 @@ Friedeberg sind schon Neugierige mit der Bimmelbahn gekommen
 »Frau Rat — im Vertrauen: Kennen Sie Doktor Petersen?«
 
 »Vom Sehen ja. Ein alter, aber rüstiger hagerer Herr,
-Vorhin war er wieder hier in der Stadt mit seinem Rucksack
+vorhin war er wieder hier in der Stadt mit seinem Rucksack
 und kaufte ein … Auch drüben bei Schmidt — Kolonialwaren.«
 
 <@pagebreak/>
@@ -1216,7 +1216,7 @@ hin …«
 »Das ist mir ja ganz neu …«
 
 »Er nimmt Honorar, überweist es aber stets der hiesigen
-Armenkasse«
+Armenkasse.«
 
 »Ein Wohltäter also …«
 
@@ -1376,7 +1376,7 @@ Hitze …
 Ich wanderte auf der Schattenseite und schnappte nach
 Luft wie ein Karpfen, den ich im übrigen noch nie geangelt
 <@pagebreak/>
-habe. Es soll Leute geben, die solch’ Glück haben. ich
+habe. Es soll Leute geben, die solch’ Glück haben. Ich
 nicht.
 
 Schon von weitem sah ich das offene gelbe Auto Frau
@@ -1390,7 +1390,7 @@ ist, die nebenbei so viel ausgesprochene Eigenart besitzt,
 ganz abgesehen von ihren körperlichen Vorzügen, darf sich
 Telegrammstil erlauben.
 
-Dann glitt der Wagen still dahin. Hm? saß vorn neben
+Dann glitt der Wagen still dahin. Ich saß vorn neben
 Frau Otti.
 
 Wir sprachen über die Lehmgrube.
@@ -1452,7 +1452,7 @@ Varieteeprogramm aus Frankfurt am Main, von Nummer 5:
 
 <p class="centered">Indischer Fakir.</p>
 
-und von Haralds hartnäckiger Zugeknöpftheit.
+Und von Haralds hartnäckiger Zugeknöpftheit.
 
 Frau Otti legte mir die Linke leicht auf den Arm. Sie
 durfte es. Sie zähmte den großen Wagen auch mit einer
@@ -1508,7 +1508,7 @@ Raum aus.
 
 In den weichen Sesseln, bequem und doch formenschön,
 eigenartig und doch kein aufgeblähter Kitsch, saß es sich wie
-im Schoße einer Liebsten,
+im Schoße einer Liebsten.
 
 Wir schalteten alles Kriminelle aus. Wir sprachen über
 Dinge, die in den verborgensten Winkeln der Seele schlummern
@@ -1754,16 +1754,16 @@ sagte er mir heute früh.«
 
 Ein Handkuß, ein freundliches Lächeln … ein Winken …
 
-Ich beeile mich. ich hole Reimert dicht vor der Chaussee
+Ich beeile mich. Ich hole Reimert dicht vor der Chaussee
 ein. Er geht sehr langsam, schleppt seinen Rucksack, hinkt
 etwas.
 
 <@pagebreak/>
 Dann bin ich neben ihm.
 
-»N’Tag, Herr Reimert, — Gestatten: Schrimke …
+»N’Tag, Herr Reimert … — Gestatten: Schrimke …
 Ich wohne oben bei der Frau Rat … Von Ansehen kenne
-ich Sie bereits … Wir Haben den gleichen Weg … Ich
+ich Sie bereits … Wir haben den gleichen Weg … Ich
 hatte einen Spaziergang gemacht und mich etwas verlaufen.«
 
 Er entpuppt sich als der intelligente, offene, freundliche
@@ -1865,13 +1865,13 @@ Er verteidigte seine Annahme, der Tote sei vielleicht
 der Geisterradler, mit Hartnäckigkeit. Ich konnte ihm doch
 nicht sagen, daß der Geisterradler um dieselbe Zeit, als
 der Mord stattfand, in der Lehmgrube sein Quartier gesprengt
-Hatte. Ich war gezwungen, weiter den Ahnungslosen zu spielen …
+hatte. Ich war gezwungen, weiter den Ahnungslosen zu spielen …
 Keine angenehme Aufgabe, da ich jedes meiner Worte genau
 prüfen mußte, um mich nicht zu verraten.
 
 Das Gewitter kam derweil langsam herauf. Als wir
 die Nordseite des Haubenberges und den Feldweg erreicht
-Hatten, zuckte der erste Blitz hernieder.
+hatten, zuckte der erste Blitz hernieder.
 
 Ein alter buckliger Mann, der schwer an einem mit
 Gras beladenen Handwagen zog, keuchte vorüber und murmelte
@@ -1898,7 +1898,7 @@ zog über die Stadt hinweg. Es wurde halb eins,
 eins, und wir saßen noch immer und warteten.
 
 Ich kenne Harst wie mich selbst. Eine solche Verabredung
-Hält er unter allen Umständen ein. Irgend etwas mußte ihm
+hält er unter allen Umständen ein. Irgend etwas mußte ihm
 zugestoßen sein — mußte! Göbbel teilte meine Besorgnis.
 Um halb zwei, als der Nachthimmel längst wieder klar
 und die müde Helle des Sommers um uns her alles
@@ -1972,7 +1972,7 @@ mit Ihnen …«
 Sie schloß auf …
 
 Dann erst sah sie, daß mein Begleiter nicht Harald
-war,
+war.
 
 Sie schlug die Gittertür wieder zu.
 
@@ -1990,7 +1990,7 @@ flüsterte sie völlig verzweifelt.
 
 Und da gehorchte sie … seufzend und stumm.
 
-Wir standen innerhalb des Zaunes des Haubenberges,
+Wir standen innerhalb des Zaunes des Haubenberges.
 
 <@pagebreak/>
 
@@ -2003,7 +2003,7 @@ Der trübe Lichtschein huschte hierhin, dorthin. Der Weg war
 durch Baumstämme, die halb in der Erde lagen, zu langen
 Stufen aufgeschüttet. — Ich fühlte einiges Mitleid mit dieser
 tapferen Frau, die bereits vor Monaten in Berlin bewiesen
-Hatte, daß sie eine starke Seele besaß. Was mochte hier wohl
+hatte, daß sie eine starke Seele besaß. Was mochte hier wohl
 geschehen sein, daß sie jetzt so völlig niedergedrückt dahinschlich?!
 
 Ich trat neben sie. »Frau Saalborg, Sie brauchen wirklich
@@ -2039,7 +2039,7 @@ Göbbel mischte sich ein. »Geben Sie zu, daß einer Ihrer
 Panther den Unbekannten zerfleischt hat?«
 
 »Ja, — aber nachdem der Mann auf mich geschossen
-Hatte, Herr Kommissar …«
+hatte, Herr Kommissar …«
 
 »Oh, dann ist die Sache nicht weiter schlimm. Hetzten
 Sie den Panther?«
@@ -2057,7 +2057,7 @@ Stacheldrahtzaun?«
 Bitte, gehen wir, meine Herren … Onkel und Vincent
 werden unruhig werden …«
 
-Dann Standen wir vor dem alten Gemäuer mit den
+Dann standen wir vor dem alten Gemäuer mit den
 kleinen Fenstern, dem dicken Efeubehang und der schweren
 Eichentür, die nur angelehnt war. Der Lichtschein der Laterne
 traf einen runden, schwarzen Kopf, der durch die Türspalte
@@ -2082,7 +2082,7 @@ Feldbett, in einem schwarzseidenen Schlafanzug, das blonde
 Haar tadellos gescheitelt, das Monokel im Auge.
 
 »N’Abend, Herr Schraut …« — Ein scharfer Blick
-Zu Göbbel hin … — Ich stellte vor: »Herr Kriminalkommissar
+zu Göbbel hin … — Ich stellte vor: »Herr Kriminalkommissar
 Göbbel … Herr Saalborg …«
 
 Um Vincents Lippen wetterleuchtete es. »Hohe Ehre, Herr
@@ -2098,7 +2098,7 @@ von diesem braunen Halunken belagern und beschießen lassen.
 — Wo steckt Harst?« fragte er in gänzlich verändertem Tone.
 Dabei schaute er mich forschend an. Gerade er, der einst
 als wahrer Gentleman-Gauner die ganze Welt verblüfft
-Hatte, war ja ein überaus feinfühliger Menschenkenner …
+hatte, war ja ein überaus feinfühliger Menschenkenner …
 »Ist Harst etwas zugestoßen?« Er richtete sich in seinem Bette
 auf und zog die Knie unter der leichten Steppdecke hoch,
 stützte die Ellbogen darauf und bekam über der Stirn drei
@@ -2154,7 +2154,7 @@ Wetter. Wir entdeckten die Prau in wrackem Zustand
 <@pagebreak/>
 auf den Riffen von Chatala. Sie gab Notsignale,
 hielt uns für ungefährlich. Die Mannschaft zu retten war
-Keine Kleinigkeit. Chanawutu merkte erst, daß er in eine
+keine Kleinigkeit. Chanawutu merkte erst, daß er in eine
 Falle geraten, als er mich erkannte. Wir nahmen ihm
 den ganzen Raub ab. Der Kerl war tapfer genug, nachher
 ins Meer zu springen, schwamm zu den Riffen und entkam
@@ -2166,7 +2166,7 @@ dann, daß Chanawutu mich ausfindig gemacht hatte. Ich
 ließ durch Annis Onkel den Haubenberg kaufen, und wir
 begaben uns hierher, ich in der Hoffnung, daß der Inder
 meine Fährte nun endgültig verloren habe. Vor vier Wochen,
-als ich Hier unten am Drahtzaun etwas ausbesserte, traf
+als ich hier unten am Drahtzaun etwas ausbesserte, traf
 mich eine Kugel. An diesem Lungenschuß habe ich Chanawutus
 Anwesenheit gespürt. Aber Sie wissen ja, lieber Herr
 Schraut: Ich habe eine starke Abneigung gegen alles Amtliche.
@@ -2177,7 +2177,7 @@ hat Anni mir gestanden, daß Sie in Berlin, wo Sie für
 mich Geldsachen zu erledigen hatte, Ihnen durch die Brieftauben
 vier Zettel schickte. Ich war sehr böse darüber, und
 erklärte Anni, daß ich jede Einmischung Ihrerseits ablehnen
-würde. ich war ein wenig hart zu meinem Frauchen …
+würde. Ich war ein wenig hart zu meinem Frauchen …
 Nun, ich bin bekehrt worden …«
 
 Sie saß bei ihm auf dem Bettrand, und er streichelte
@@ -2189,7 +2189,7 @@ der Geisterradler mag ein Helfershelfer des Inders sein.
 Chanawutu ist Inder, nicht Europäer. Er wird zweifellos bereits
 <@pagebreak/>
 unsere Gegend verlassen haben, und ob Sie ihn noch
-Irgendwie aufspüren können, bezweifle ich.«
+irgendwie aufspüren können, bezweifle ich.«
 
 Das lange Sprechen hatte ihn sichtlich erschöpft. Außerdem
 gab uns auch Doktor Petersen einen verstohlenen Wink,
@@ -2235,7 +2235,7 @@ entwischt!
 Der langgestreckte Garten, der zu dem Hause gehörte
 — halb Hof, halb Garten, war von dem einsamen Feldweg
 durch einen morschen Lattenzaun getrennt. Die Zaunpforte
-Hing schief in den Angeln und wurde offenbar nie
+hing schief in den Angeln und wurde offenbar nie
 geschlossen.
 
 Bedrückt, sehr langsam näherte ich mich dieser Zauntür.
@@ -2328,10 +2328,10 @@ Sie setzte sich auf einen Stuhl. »Mein Gott …!!«
 
 »Bitte, lassen Sie sich Reimerts gegenüber nichts anmerken.
 Es ist ein bloßer Verdacht bisher. — Recht starken
-Kaffee jetzt. Dann gehe ich zur hiesigen Polizei. ich will
+Kaffee jetzt. Dann gehe ich zur hiesigen Polizei. Ich will
 Reimerts polizeiliche Abmeldung aus Hamburg sehen.« —
 
-Um Halb neun telegraphierte ich nach Hamburg. Es
+Um halb neun telegraphierte ich nach Hamburg. Es
 war der erste Fehlschlag. Um zwei traf die Antwort ein —
 an Göbbel: Hans Reimert, Elektromonteur, völlig einwandfrei.
 
@@ -2384,7 +2384,7 @@ Raffinement — — Harmlosigkeit?! —
 
 Um halb zehn kam Göbbel. Wir wollten das Haus
 beobachten, Göbbel vom Balkon, ich vom Küchenfenster. Göbbel
-Hielt nichts von meinem Verdacht gegen Reimert.
+hielt nichts von meinem Verdacht gegen Reimert.
 
 Um halb elf kam Frau Reimert zurück. Um elf aber …
 huschte sie zur Hintertür hinaus — mit ihrem Damenfahrrad.
@@ -2393,7 +2393,7 @@ ein sehr schickes Hütchen. Fraglos wollte sie noch zum
 Richtfest … Vielleicht war sie eifersüchtig, vielleicht wollte
 sie ihrem Hans Bericht erstatten.
 
-Ich Holte Göbbel.
+Ich holte Göbbel.
 
 »Durchsuchen wir Wohnung, Keller und Stall …!« schlug
 ich vor.
@@ -2460,7 +2460,7 @@ Lefelds waren gestern abend ebenfalls zum Richtfest auf
 dem Vorwerk gewesen. Um vier Uhr morgens kehrten sie
 heim. Frau Otti ging noch in ihren Salon. Hier fand sie
 die Hunde betäubt vor. Der chinesische Pokal war leer …
-Der Dieb Hatte keinerlei sonstige Spuren zurückgelassen. Er
+Der Dieb hatte keinerlei sonstige Spuren zurückgelassen. Er
 mußte mit Nachschlüsseln eingedrungen sein.
 
 Reimert kam hier nicht in Frage. Er war der eifrigste
@@ -2559,7 +2559,7 @@ hoch … »Harald, woher kommst du?«
 »Oh — aus Görlitz, vom Haubenberg, von den Förstereien
 der Umgegend … Ich war hinter Chanawutu her …«
 
-»und — deine Mütze?«
+»Und — deine Mütze?«
 
 »Die hatte ich zweckentsprechend präpariert und dort hingelegt,
 wo du sie wohl gefunden haben wirst, mein Alter …«
