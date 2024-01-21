@@ -211,7 +211,7 @@ nach dem nahen Trinkbad Flinsberg. Er käme von Görlitz,
 und die hiesige Gegend sei ihm völlig fremd, — alles Lügen,
 wie unser Oberschweizer ihm darauf ohne Rücksicht vorhielt.
 Die Antwort war … ein Stoß gegen die Brust, der
-den Hünen in ein nahes Dicht beförderte. Der Geisterradler
+den Hünen in ein nahes Dickicht beförderte. Der Geisterradler
 aber jagte davon … —«
 
 Was Frau Otti noch weiter an mich schrieb, betraf das
@@ -543,7 +543,7 @@ einen Stuhl.
 jammerte er. »Hör’ mal, Schrimke, geh’ doch mal nach
 oben … Hier im Hause ist oben im ersten Stock ein Zimmer
 zu vermieten. Wenn wir’s billig bekommen, greife zu.
-Im Hotel wird’s zu teuer …
+Im Hotel wird’s zu teuer …«
 
 <@pagebreak/>
 Da begriff ich.
@@ -1235,7 +1235,7 @@ Es läutete draußen …
 
 Die Rätin ging öffnen, kehrte sofort zurück.
 
-»Ein Brief für Sie, Herr Schraut … »Ein Mädchen gab
+»Ein Brief für Sie, Herr Schraut … Ein Mädchen gab
 ihn ab. Sie wollte nicht sagen, wer sie sei. Ich kenne sie
 nicht …«
 
@@ -1997,22 +1997,22 @@ Wir standen innerhalb des Zaunes des Haubenberges,
 <h2>3. Kapitel.</h2>
 <h3>Ein Wiedersehen.</h3>
 
-Frau Saalborg schritt müde voran. In ihrer irgendein
-Linken gondelte die einfachMme Stallaterne schlaff hin und her.
+Frau Saalborg schritt müde voran. In ihrer hängenden
+Linken gondelte die einfache Stallaterne schlaff hin und her.
 Der trübe Lichtschein huschte hierhin, dorthin. Der Weg war
-durch Baumstämme, die halb in der Erde lagen, zu langen.
-Stufen aufgeschüttet. — In fühlte einiges Mitleid mit dieser:
-kopieren Frau, die bereits vor Monaten in Berlin bewiesen
-Hatte, daß sie eine starke Seele besaß. Was mochte hier wohl.
+durch Baumstämme, die halb in der Erde lagen, zu langen
+Stufen aufgeschüttet. — Ich fühlte einiges Mitleid mit dieser
+tapferen Frau, die bereits vor Monaten in Berlin bewiesen
+Hatte, daß sie eine starke Seele besaß. Was mochte hier wohl
 geschehen sein, daß sie jetzt so völlig niedergedrückt dahinschlich?!
 
-Ich trat neben, sie. »Frau Saalborg, Sie brauchen wirklich
-nicht so verzweifelt zu sein’’ meinte ich herzlich. »Was in
+Ich trat neben sie. »Frau Saalborg, Sie brauchen wirklich
+nicht so verzweifelt zu sein,« meinte ich herzlich. »Was in
 meiner Macht steht, Ihnen Ungelegenheiten fernzuhalten,
 wird geschehen … Leider bin ich jedoch so gut wie auf mich
 allein angewiesen, denn Harst ist in dieser Nacht etwas zugestoßen.
 Man hat ihn offenbar niedergeschlagen und verschleppt
-— man: der Geisterradler, Chanawutu’«
+— man: der Geisterradler, Chanawutu!«
 
 Sie blieb mit einem leisen Aufschrei stehen.
 
@@ -2021,9 +2021,9 @@ Sie blieb mit einem leisen Aufschrei stehen.
 »Nicht alles, nicht alles … Nur daß Chanawutu den
 Bewohnern des Haubenberges nachstellt.«
 
-Sie Kiste. »Ja — er ist ein! Teufel, ist nicht zu fassen …
+Sie nickte. »Ja — er ist ein Teufel, ist nicht zu fassen …
 Er hätte Vincent beinahe erschossen … Vincents Lungenschuß
-heilt zum Glü sehr gut. Aber … Sie müssen ihn
+heilt zum Glück sehr gut. Aber … Sie müssen ihn
 schonen, dürfen ihn nicht aufregen. Onkel Arthurs Kunst hat
 ihn gerettet …«
 
@@ -2032,67 +2032,66 @@ ihn gerettet …«
 <@pagebreak/>
 »Ja — mütterlicherseits. Durch ihn ließ Vincent den
 Haubenberg kaufen. Hierher flüchteten wir vor Chanawutu.
-Er bat Vincent Thron lange verfolgt, hatte ihn aber aus den
-Augen verloren …
+Er hat Vincent schon lange verfolgt, hatte ihn aber aus den
+Augen verloren …«
 
-Göbbel mischte ein ein. »Geben Sie zu, daß einer Ihrer
+Göbbel mischte sich ein. »Geben Sie zu, daß einer Ihrer
 Panther den Unbekannten zerfleischt hat?«
 
 »Ja, — aber nachdem der Mann auf mich geschossen
 Hatte, Herr Kommissar …«
 
-»Oh, dann ist die Sache nicht weiter schlimm. Besten
+»Oh, dann ist die Sache nicht weiter schlimm. Hetzten
 Sie den Panther?«
 
 »Nein, nein … Ich konnte es ja gar nicht … Die
-Kugel streifte meine Stirn und in sank halb ohnmächtig
-um. Hier ist der Verband — hier …« — Sie s!schob den
+Kugel streifte meine Stirn und ich sank halb ohnmächtig
+um. Hier ist der Verband — hier …« — Sie schob den
 Schleier empor … Die linke Schläfe trug ein großes Pflaster.
 
 »Um so besser, Frau Saalborg …!« meinte Göbbel
 liebenswürdig. »Wie kam aber die Bestie über den hohen
-Stacheldrahtzaun?«’
+Stacheldrahtzaun?«
 
 »Mit Hilfe eines überhängenden Buchenastes … —
-Bitte, gehen wir, meine Herren … Onkel und -Vincent
-werden unruhig werden …
+Bitte, gehen wir, meine Herren … Onkel und Vincent
+werden unruhig werden …«
 
 Dann Standen wir vor dem alten Gemäuer mit den
 kleinen Fenstern, dem dicken Efeubehang und der schweren
 Eichentür, die nur angelehnt war. Der Lichtschein der Laterne
 traf einen runden, schwarzen Kopf, der durch die Türspalte
-sagte.
+lugte.
 
 »Zurück, Cassius!« befahl Frau Saalborg dem Panther,
-—» einem der vier Tiere, die ihr Gatte, früher als Dresseur
+— einem der vier Tiere, die ihr Gatte, früher als Dresseur
 vorgeführt hatte. Sie stieß die Tür auf. Eine kleine Halle
-—» ein paar Schränke, zwei Türen und im Hintergrunde eine
+— ein paar Schränke, zwei Türen und im Hintergrunde eine
 Holztreppe.
 
-Die Tür rechts öffnete sie. Doktor Petersen trat heraus,
-musterte uns kühl und meinte ruhig: »Saalborg« erwarcct
-die Herren … Ihm geht es recht gut. Nur allzu bis:
+Die Tür rechts öffnete sich. Doktor Petersen trat heraus,
+musterte uns kühl und meinte ruhig: »Saalborg erwartet
+die Herren … Ihm geht es recht gut. Nur allzu viel
 sprechen darf er nicht.« —
 
 <@pagebreak/>
 Wiedersehen mit Vincent …
 
-Rasch Monaten — Da lag er in einem schlichten eisernen
+Nach Monaten — Da lag er in einem schlichten eisernen
 Feldbett, in einem schwarzseidenen Schlafanzug, das blonde
 Haar tadellos gescheitelt, das Monokel im Auge.
 
-»In Abend, Herr Schraut … — Ein scharfer Blick
-Zu Söldner hin … — In stellte vor: »Herr Kriminalkommissar
+»N’Abend, Herr Schraut …« — Ein scharfer Blick
+Zu Göbbel hin … — Ich stellte vor: »Herr Kriminalkommissar
 Göbbel … Herr Saalborg …«
 
 Um Vincents Lippen wetterleuchtete es. »Hohe Ehre, Herr
 Göbbel … Es gab mal eine Zeit, wo ich die Polizei meiden
-mußte. — Nehmen die Herren Platz … — Rani, reiche
-Zigarren, Zigaretten … Der Onkel. naht bereits mit Ferngläsern.
-Mein gastlich Haus feiert heute einen Streifschuß
-
-Er nickte seiner Gattin zärtlich zu. »Brauchst: keine Nest
-zu haben, Anni … Der Onkel hat mich. soeben ’ überredet,
+mußte. — Nehmen die Herren Platz … — Anni, reiche
+Zigarren, Zigaretten … Der Onkel naht bereits mit Weingläsern.
+Mein gastlich Haus feiert heute einen Streifschuß …«
+Er nickte seiner Gattin zärtlich zu. »Brauchst keine Angst
+zu haben, Anni … Der Onkel hat mich soeben überredet,
 meine Geheimnisse preiszugeben … Diese Geschichte hier
 muß ein Ende haben. Wir können uns doch nicht länger
 von diesem braunen Halunken belagern und beschießen lassen.
@@ -2100,108 +2099,108 @@ von diesem braunen Halunken belagern und beschießen lassen.
 Dabei schaute er mich forschend an. Gerade er, der einst
 als wahrer Gentleman-Gauner die ganze Welt verblüfft
 Hatte, war ja ein überaus feinfühliger Menschenkenner …
-»Ist Harst etwas zugestoßen?« Er richtete ein in seinem Bette
+»Ist Harst etwas zugestoßen?« Er richtete sich in seinem Bette
 auf und zog die Knie unter der leichten Steppdecke hoch,
 stützte die Ellbogen darauf und bekam über der Stirn drei
-senkrechte Falten, die ihm eine gewisse Heimlichkeit mit
+senkrechte Falten, die ihm eine gewisse Ähnlichkeit mit
 Harald verliehen.
 
-Ich erzählte, in zeigte die Mütze, erwähnte den Mann
+Ich erzählte, ich zeigte die Mütze, erwähnte den Mann
 mit dem Handwagen und streifte auch kurz die anderen Ereignisse.
 
 Saalborg erklärte daraufhin sehr offen:
 
-»Chanawutu hat. hier Helfershelfer. Er ist mein Todfeind.
-In traue ihm alles zu, auf daß er Harst zumindest vorläufig
+»Chanawutu hat hier Helfershelfer. Er ist mein Todfeind.
+Ich traue ihm alles zu, auch daß er Harst zumindest vorläufig
 beseitigt hat. Aber — Chanawutu ist nicht der
 sogenannte Geisterradler, Herr Schraut. Chanawutu ist Inder.
-
 <@pagebreak/>
-In deutete schon vor Monaten in Berlin Ihnen und
-Harst gegenüber an, daß im in den Jahren, da ich für verschollen
+Ich deutete schon vor Monaten in Berlin Ihnen und
+Harst gegenüber an, daß ich in den Jahren, da ich für verschollen
 galt, mancherlei erlebt habe. Das Haupterlebnis
 dieser Zeit war meine Begegnung mit Chanawutu. — Ich
-will mich ganz kurz lassen. In Kalkutta war in Herbst 1925
-im Hotel Imperial abgestiegen. Vor dem Hotel zeigte Lag
+will mich ganz kurz fassen. In Kalkutta war ich Herbst 1925
+im Hotel Imperial abgestiegen. Vor dem Hotel zeigte Tag
 für Tag ein jüngerer Fakir mit glänzend schwarzem Vollbart
-seine Fünfte. Damals war Kalkutta gerade von reichen
+seine Künste. Damals war Kalkutta gerade von reichen
 Amerikanern überschwemmt, darunter vielen Kriegsgewinnlern
-mit juwelenbeladenen Frauen. und Töchtern. Das — Hotel
-hatte ’besondere Vorsichtsmaßnahmen. getroffen …
+mit juwelenbeladenen Frauen und Töchtern. Das — Hotel
+hatte besondere Vorsichtsmaßnahmen getroffen …«
 
 Ein halb ironisches Lächeln begleitete seine folgenden
-Säße …
+Sätze …
 
-»In war als Hoteldetektiv- engagiert worden. Meinem
-einstigen Beruf hatte in ja endgültig entsagt. Man hatte
-»also einen früheren Boy zum Gärtner gemacht, und man
-»fuhr gut dabei. — Eines Nachts — wir waren dort fünf
+»Ich war als Hoteldetektiv engagiert worden. Meinem
+einstigen Beruf hatte ich ja endgültig entsagt. Man hatte
+also einen früheren Bock zum Gärtner gemacht, und man
+fuhr gut dabei. — Eines Nachts — wir waren dort fünf
 Hoteldetektive — hatte man uns alle fünf durch raffinierte
 Mittel betäubt: vergiftete Getränke. In dieser Nacht wurden
-acht Irrenhaus;e Familien gründlichst bestohlen. Als ich
-morgens zu mir kam, war ich noch halbtot. Aber die Greisin
+acht amerikanische Familien gründlichst bestohlen. Als ich
+morgens zu mir kam, war ich noch halbtot. Aber die Energie
 siegte. Chanawutu war mir längst verdächtig vorgekommen,
-da er strich stets dazu gedrängt hatte, in den Zimmern
+da er sich stets dazu gedrängt hatte, in den Zimmern
 der Gäste Privatvorstellungen zu geben. An diesem Vormittag
-erschien er nicht vor dem Hotel. Das genügte mir.
-In kannte sein Quartier. Ich4g setzte mich mit dran Polizei
-in Verbindung. Ab ermittelte, daß er mit einer malaiischen
+erschien er *nicht* vor dem Hotel. Das genügte mir.
+Ich kannte sein Quartier. Ich setzte mich mit der Polizei
+in Verbindung. Ich ermittelte, daß er mit einer malaiischen
 Prau, mit deren Kapitän er häufiger zusammen gewesen,
-den Hugli-Fluß abwärts gefahren war. In riet der Polizei,
-eine PrivaijaM zur Verfolgung zu benutzen, da zu he
-fürchten stand, daß der Fakir seinen ungeheuren Raub ins
+den Hugli-Fluß abwärts gefahren war. Ich riet der Polizei,
+eine Privatjacht zur Verfolgung zu benutzen, da zu befürchten
+stand, daß der Fakir seinen ungeheuren Raub ins
 Meer werfen würde, falls er Polizeikutter hinter sich erkannte.
-Als die Jacht die See erreicht hatte, herrschte sehr grün«
-unseres Wetter, Wir entdeckten die Prau in wrackem Zu-.
+Als die Jacht die See erreicht hatte, herrschte sehr stürmisches
+Wetter. Wir entdeckten die Prau in wrackem Zustand
 <@pagebreak/>
-Stunde auf den Kisten von Einsatz. Sie gab Nodtlignale,
+auf den Riffen von Chatala. Sie gab Notsignale,
 hielt uns für ungefährlich. Die Mannschaft zu retten war
-Keime Kleinigkeit. Chanawutu merkte erst, daß er in eine
-alle geraten, als er mich erkannte. Wir nahmen ihm
-ganzen Raub ab. Der Kerl war tapfer genug, nachher
+Keine Kleinigkeit. Chanawutu merkte erst, daß er in eine
+Falle geraten, als er mich erkannte. Wir nahmen ihm
+den ganzen Raub ab. Der Kerl war tapfer genug, nachher
 ins Meer zu springen, schwamm zu den Riffen und entkam
-auf das Festland. — Die Belohnung, die in damals erhielt,
+auf das Festland. — Die Belohnung, die ich damals erhielt,
 gestattete mir den Ankauf von vier Panthern. Ich wurde
-Dresseur, nachdem im Kalkutta sofort verlassen, und jede
-Spur hinter mir verwishHht hatte. In Berlin merkte ich
+Dresseur, nachdem ich Kalkutta sofort verlassen, und jede
+Spur hinter mir verwischt hatte. In Berlin merkte ich
 dann, daß Chanawutu mich ausfindig gemacht hatte. Ich
-ließ durch;« Annis Onkel den Haubenberg kaufen, und wir
-begaben uns hierher, in in der Hoffnung, daß der Inder
+ließ durch Annis Onkel den Haubenberg kaufen, und wir
+begaben uns hierher, ich in der Hoffnung, daß der Inder
 meine Fährte nun endgültig verloren habe. Vor vier Wochen,
-als im Hier unten am Drahtzaun etwas ausbesserte, traf
+als ich Hier unten am Drahtzaun etwas ausbesserte, traf
 mich eine Kugel. An diesem Lungenschuß habe ich Chanawutus
 Anwesenheit gespürt. Aber Sie wissen ja, lieber Herr
 Schraut: Ich habe eine starke Abneigung gegen alles Amtliche.
-In verbot Amt sogar, etwa Harst und Sie herbeizurufen.
-In wollte mit den Leuten allein fertig werden.
+Ich verbot Anni sogar, etwa Harst und Sie herbeizurufen.
+Ich wollte mit den Leuten allein fertig werden.
 Heute, nachdem Cassius einen der Burschen zerfleischt hatte,
 hat Anni mir gestanden, daß Sie in Berlin, wo Sie für
 mich Geldsachen zu erledigen hatte, Ihnen durch die Brieftauben
-vier Zettel sie. Ich war sehr böse darüber, und
+vier Zettel schickte. Ich war sehr böse darüber, und
 erklärte Anni, daß ich jede Einmischung Ihrerseits ablehnen
 würde. ich war ein wenig hart zu meinem Frauchen …
-Nun, in bin bekehrt worden …«
+Nun, ich bin bekehrt worden …«
 
 Sie saß bei ihm auf dem Bettrand, und er streichelte
 ihre Hände und lächelte sie zärtlich an.
 
-»-… Sie wissen nun alles, meine Herren’’ fuhr er zu
-Göbbel gewandt fort. »In kann nur nochmals betonen;
+»… Sie wissen nun alles, meine Herren,« fuhr er zu
+Göbbel gewandt fort. »Ich kann nur nochmals betonen:
 der Geisterradler mag ein Helfershelfer des Inders sein.
-Canawutu ist Inder, nicht Europäer. Er wird zweifellos des
+Chanawutu ist Inder, nicht Europäer. Er wird zweifellos bereits
 <@pagebreak/>
-echte unsere Gegend verlassen haben, und ob Sie ihn noch
-Irgendwie aufspüremw können, bezweifle seh’
-— Das lange Sprechen hatte ihn sichtlich erschöpft. Außerdem
-gab uns aus Doktor Petersen einen verstohlenen Wink,
+unsere Gegend verlassen haben, und ob Sie ihn noch
+Irgendwie aufspüren können, bezweifle ich.«
+
+Das lange Sprechen hatte ihn sichtlich erschöpft. Außerdem
+gab uns auch Doktor Petersen einen verstohlenen Wink,
 wir möchten uns verabschieden.
 
 Bevor wir aufbrachen, sagte ich noch:
 
 »Meine Pflicht ist es, Harst zu suchen. Und wenn ich
-wochenlang hier bleiben mußte, — in werde ihn finden!«
+wochenlang hier bleiben mußte, — ich werde ihn finden!«
 
-Saalborg drückte mir fest die Hand. »In wünschte,
+Saalborg drückte mir fest die Hand. »Ich wünschte,
 ich wäre gesund, lieber Herr Schraut … Ich hülfe Ihnen!«
 
 -
@@ -2210,48 +2209,48 @@ ich wäre gesund, lieber Herr Schraut … Ich hülfe Ihnen!«
 <h3>Frau Ottis Juwelen.</h3>
 
 Der Morgen graute bereits, als Frau Saalborg hinter
-uns die Zaunpforte verschloß und uns von ein »Fuß
-Wiedersehen!«. nachrief. Neben ihr stand der zahme Panther
+uns die Zaunpforte verschloß und uns von ein »Auf
+Wiedersehen!« nachrief. Neben ihr stand der zahme Panther
 Cassius, der Mörder des Unbekannten, des meuchlerischen
 Schützen.
 
-Göbbel und in wandten uns der Stelle zu, wo wir
+Göbbel und ich wandten uns der Stelle zu, wo wir
 Haralds Mütze gefunden hatten. Wir entdeckten hier selbst
 bei Tageslicht nichts Neues. Göbbel wollte sofort telephonisch
 aus Görlitz einen Polizeihund herbeordern, der Vielleicht
 die Fährte des Alten mit dem Handwagen aufnehmen würde
-— vielleicht. In versprach mir nicht viel davon. In war
+— vielleicht. Ich versprach mir nicht viel davon. Ich war
 überhaupt sehr niedergeschlagen. Saalborg würde wohl recht
-behalten: Chanawukt war entwischt und mit ihm auch
+behalten: Chanawutu war entwischt und mit ihm auch
 der Geisterradler. Die Sprengung der Lehmhöhle sagte genug.
 Die Schurken waren abgezogen.
 
 <@pagebreak/>
-Vor der Stadt trennte sich Göbbel von mir. Ich wollt«,
+Vor der Stadt trennte sich Göbbel von mir. Ich wollte
 durch den Garten ins Haus. Eine ganz, ganz leise Hoffnung
 war mir noch geblieben: Vielleicht fand ich Harald
 doch in unserem Balkonzimmer vor! Vielleicht war er inzwischen
 entwischt!
 
-Der langgestrete Garten, der zu dem Hause gehörte
+Der langgestreckte Garten, der zu dem Hause gehörte
 — halb Hof, halb Garten, war von dem einsamen Feldweg
 durch einen morschen Lattenzaun getrennt. Die Zaunpforte
 Hing schief in den Angeln und wurde offenbar nie
 geschlossen.
 
-Gebrüll, sehr langsam näherte ich mich dieser Zauntür.
+Bedrückt, sehr langsam näherte ich mich dieser Zauntür.
 Meine überreizten Nerven hatten mich geistig in jenen
-Zustand von Neberempfindlichkeit versetzt, in dem man zu
+Zustand von Überempfindlichkeit versetzt, in dem man zu
 Höchstleistungen fähig ist, in dem alle Sinne doppelt stark
 arbeiten.
 
 Das Gewitter hatte seine Regenmassen hier über dem
 Städtchen entladen. Auf dem lehmigen Wege standen große
-Grüßen.
+Pfützen.
 
-Mit einem Male »machte ich halt. Meine Augen fraßen
-ein fest an einen grünen, welken Schopf Gras, der über
-dem rostigen Brüder der offenen Zaunpforte hing.
+Mit einem Male machte ich halt. Meine Augen fraßen
+sich fest an einen grünen, welken Schopf Gras, der über
+dem rostigen Drücker der offenen Zaunpforte hing.
 
 Gras … Eine Handvoll … Nur Gras … Es hing feucht
 herab wie nasses Haar.
@@ -2261,43 +2260,43 @@ Aber — es war Gras …
 Und da — links vom Pfosten der Pforte, wo ein Nagel
 hervorstand, ein zweiter Grasschopf …
 
-Wenn jemand mit einem gra3beladenen Handwagen diese
-Pforte passierte, mußte notwendig am Brüder und Nagel
+Wenn jemand mit einem grasbeladenen Handwagen diese
+Pforte passierte, mußte notwendig am Drücker und Nagel
 Gras hängen bleiben.
 
-Wir schoß das Blut zu Kopfe. Meine Gedanken jagten.
+Mir schoß das Blut zu Kopfe. Meine Gedanken jagten.
 
-Das Gras war weiß, aber doch nicht so weiß, daß es hier
+Das Gras war welk, aber doch nicht so welk, daß es hier
 an diesen beiden Stellen bereits der Sonne des Tages hatte
-au2Lgescht gewesen sein können.
+ausgesetzt gewesen sein können.
 
 Meine Blicke irrten ringsum. Von Fußspuren war
 <@pagebreak/>
-nichts zu bemerken. Aber dort im Garten an dem Stachelbeerstrauch:
-Ein dritter Grasschopf!
+nichts zu bemerken. Aber dort im Garten an dem
+Stachelbeerstrauch: Ein dritter Grasschopf!
 
 Mein Herz hämmerte … — Ruhe — nur Ruhe! Und
-systematisch; arbeiten, nichts überstürzen!
+systematisch arbeiten, nichts überstürzen!
 
-— 34 ging zwischen den Beerensträuchern entlang dem
-Hause zu. -Links das Stallgebäude. Dort hatte Reimert seine
+Ich ging zwischen den Beerensträuchern entlang dem
+Hause zu. Links das Stallgebäude. Dort hatte Reimert seine
 Werkstatt, dort hielt er zwei Ziegen, zwei Schweine.
 
-Leise ehrlich ist die Hintertreppe empor. In unserem
-Zimmer kein Harst — aber im im Sessel, an einer Zigarre
+Leise schlich ich die Hintertreppe empor. In unserem
+Zimmer kein Harst — aber ich im Sessel, an einer Zigarre
 saugend, überlegend, prüfend.
 
 Hans Reimert war Objekt spürender Gedanken. Gewiß,
 mein Mißtrauen gegen ihn war nur locker begründet — nur
-durch ein paar Glasierte. — Ich rief mir alles ins Gedächtnis
-zurück, was im über ihm wußte. In Frau Ottis
+durch ein paar Grasschöpfe. — Ich rief mir alles ins Gedächtnis
+zurück, was ich über ihn wußte. In Frau Ottis
 Brief hatte er die Hauptrolle gespielt. Der Inhalt dieses
 Briefes war mir mit allen Einzelheiten noch gegenwärtig.
 Reimert hatte am Haubenberg den Geisterradler getroffen,
 war ihm nachgeschlichen, hatte beobachtet, wie der Mann
 Perücke und Bart entfernte und das Motorrad aus dem Gestrüpp
 zog. — Ich stutzte plötzlich … Harald hatte damals
-mir »den sechsten Punkt’’ verschwiegen, hatte damals schon
+mir »den sechsten Punkt« verschwiegen, hatte damals schon
 behauptet, er kenne den Namen des Geisterradlers — schon
 in Berlin, als uns Chanawutu noch gänzlich unbekannt.
 Mithin konnte Harst doch nur Reimert gemeint haben. Die
@@ -2306,30 +2305,30 @@ einen Verdacht aus. Reimert war erst im April hier nach
 Greifenberg verzogen — aus Hamburg angeblich! Um dieselbe
 Zeit etwa tauchte der Geisterradler auf. —
 
-In hörte die Rätin in der Küche mit Geschirr klappern.
+Ich hörte die Rätin in der Küche mit Geschirr klappern.
 Ein Blick auf die Uhr: Sieben! — Also fast drei Stunden
-hatte im hier gesessen und gegrübelt.
+hatte ich hier gesessen und gegrübelt.
 
-In ging« zu ihr. »Morgen, liebe Frau Rat … Eine
+Ich ging zu ihr. »Morgen, liebe Frau Rat … Eine
 Frage: Besitzt Reimert einen Handwagen?«
 
-— »Gewiß …
+»Gewiß …«
 
 <@pagebreak/>
-»gut er vielleicht in der Nähe des Haubenberges ein
+»Hat er vielleicht in der Nähe des Haubenberges ein
 Stück Wiese gepachtet?«
 
-»Ja …
+»Ja …«
 
 Ich teilte ihr alles mit: Harsts Verschwinden, — von dem
 Alten mit dem Handwagen, der Mütze mit den geringen Blutspuren
 und den Haaren …
 
-Sie setzte ein auf einen Stuhl. »Mein Gott …!!«
+Sie setzte sich auf einen Stuhl. »Mein Gott …!!«
 
 »Bitte, lassen Sie sich Reimerts gegenüber nichts anmerken.
-Es ist ein bloßer Verdacht Biester, — Recht starken
-Kaffee jetzt. Dann gehe in zur hiesigen Polizei. ich will
+Es ist ein bloßer Verdacht bisher. — Recht starken
+Kaffee jetzt. Dann gehe ich zur hiesigen Polizei. ich will
 Reimerts polizeiliche Abmeldung aus Hamburg sehen.« —
 
 Um Halb neun telegraphierte ich nach Hamburg. Es
@@ -2344,41 +2343,39 @@ verschwunden. Nur den Mann mit dem Handwagen hielten
 wir geheim. — Ein Polizeihund war auch zur Stelle —
 und richtete nichts aus.
 
-Als ich? um drei nachmittags heimkehrte (ohne Bart
-und Geführt, lehnte Frau Reimert in der Ladentür. Ich
-grüßte, rief he zu: »Sie erkennen mich wohl nicht?’!«
+Als ich um drei nachmittags heimkehrte (ohne Bart
+und Perücke), lehnte Frau Reimert in der Ladentür. Ich
+grüßte, rief ihr zu: »Sie erkennen mich wohl nicht?!«
 
-… »Doch, Herr Schraut, doch … Mein Mann hat nie an
+»Doch, Herr Schraut, doch … Mein Mann hat nie an
 Schrimke und Hirt geglaubt … Er wollte Sie nur nicht
 enttäuschen, deshalb tat er so, als hielte er Sie für einen
 harmlosen Kanzleisekretär …«
 
 Sie lächelte ihr seelenloses Lächeln … »Hans hat gleich
-übermüdet, Frau Lefeld würde sich des Geisterradlers wegen
-
+vermutet, Frau Lefeld würde sich des Geisterradlers wegen
 an Sie wenden. Sie hatte ihm erzählt, daß sie befreundet
-seien 86 …
+seien …«
 
 <@pagebreak/>
-— War das Dummheit, war das Raffinement, diese Ehe
-hättest?!
+War das Dummheit, war das Raffinement, diese Ehrlichkeit?!
 
-Aber das Puppengesicht des blonden Spaniers war
+Aber das Puppengesicht des blonden Frauchens war
 denn doch zu harmlos. Sollte Reimert wirklich eine völlige
-Briefe werden
+Niete werden?!
 
-ging in mein Zimmer hinauf und legte mich schlafen,
+Ich ging in mein Zimmer hinauf und legte mich schlafen,
 schlief bis neun Uhr, aß auf dem Balkon Abendbrot und
 unterhielt mich mit Frau Reimert, die unten im Vorgarten
-saß. Sie war falscher Laune. Auf dem Vorwerk wurde heute
-eine neue Scheune gerichtet, und ihr Wann war zum Richtfest
-draußen geblieben … »Er hat vorhin angerufen … In
-finde das sehr rücksichtslos von ihm. In habe doch wahrlich;
-Arbeit genug … Jetzt muß in noch für die Ziegen
-Futter holen, Grasginähen … Das ist doch nicht Jrauenarbei!!«
+saß. Sie war schlechter Laune. Auf dem Vorwerk wurde heute
+eine neue Scheune gerichtet, und ihr Mann war zum Richtfest
+draußen geblieben … »Er hat vorhin angerufen … Ich
+finde das sehr rücksichtslos von ihm. Ich habe doch wahrlich
+Arbeit genug … Jetzt muß ich noch für die Ziegen
+Futter holen, Grasmähen … Das ist doch nicht Frauenarbeit!«
 
 Sie verschwand im Laden. Die Rolljalousie glitt rasselnd
-herab. In ging schnell in wie Küche, von wo ich den Hof
+herab. Ich ging schnell in die Küche, von wo ich den Hof
 übersehen konnte. Sie erschien in einfachem Kleide — mit
 einer Sichel, zog den Handwagen aus dem Stall und verließ
 den Garten …
@@ -2386,39 +2383,39 @@ den Garten …
 Raffinement — — Harmlosigkeit?! —
 
 Um halb zehn kam Göbbel. Wir wollten das Haus
-beobachten, Göbbel vom Balkon, in vom Küchenfenster, Göbbel
+beobachten, Göbbel vom Balkon, ich vom Küchenfenster. Göbbel
 Hielt nichts von meinem Verdacht gegen Reimert.
 
 Um halb elf kam Frau Reimert zurück. Um elf aber …
 huschte sie zur Hintertür hinaus — mit ihrem Damenfahrrad.
 Sie trug ein helles Kleid unter dem Staubmantel und
-ein sehr schF4;jedes Zukehren. Fraglos wollte sie noch zum
+ein sehr schickes Hütchen. Fraglos wollte sie noch zum
 Richtfest … Vielleicht war sie eifersüchtig, vielleicht wollte
-sie treu Haus Bericht erstatten.
+sie ihrem Hans Bericht erstatten.
 
 Ich Holte Göbbel.
-»Zweifachen wir Wohnung, Keller und Stall … t’’ schlug
-im vor.
 
-»Meinetwegen
+»Durchsuchen wir Wohnung, Keller und Stall …!« schlug
+ich vor.
+
+»Meinetwegen.«
 
 <@pagebreak/>
 Wir fanden nichts. Göbbel zeigte aus wenig Interesse.
 
-Zuletzt betraten wir noch den Laden. In einer Ehe hingen
-zwei blaue lange Urbeitökittel …
+Zuletzt betraten wir noch den Laden. In einer Ecke hingen
+zwei blaue lange Arbeitskittel …
 
-In war trotz Göbbels Gleichgültigkeit sorgfältig wie immer.
+Ich war trotz Göbbels Gleichgültigkeit sorgfältig wie immer.
+Ich nahm die Kittel vom Haken, um die Taschen zu
+befühlen.
 
-In nahm die Kittel vom Halten, um die Taschen zu
-befühlen. —
+Unter den Kitteln hing noch eine Lederjacke.
 
-Unter den Kitteln hing noch eine Lederjae.
+Göbbel meinte ungeduldig: »Lassen Sie doch den Kram!!
+Es kommt ja doch nichts dabei heraus.«
 
-Gelber meinte ungeduldig: »Lassen Sie doch den Kram!h1
-Es kommt ja doch nichts dabei heraus’
-
-In hatte die Tage schon ausgebreitet. Es war ein
+Ich hatte die Jacke schon ausgebreitet. Es war ein
 Ledermantel mit Gurt, der Unterteil war nach oben festgehakt,
 so daß er einer Jacke glich.
 
@@ -2431,39 +2428,39 @@ Ein mattes Leuchten strahlte auf.
 
 »Donnerwetter!« rief Göbbel.
 
-In hängte die Patentjacke wieder an den Haken zurück,
+Ich hängte die Patentjacke wieder an den Haken zurück,
 ebenso die Kittel darüber …
 
 »Den Geisterradler hätten wir, Göbbel. — Gehen wir …
 Morgen werden wir Harst finden!« —
 
-Um zwei! lag ich im Bett. Und da kamen die Sorgen,
-die Gedanken — um Harst. In konnte nicht einschlafen. Es
+Um zwei lag ich im Bett. Und da kamen die Sorgen,
+die Gedanken — um Harst. Ich konnte nicht einschlafen. Es
 wurde hell … Ich versank in einen unruhigen Schlummer.
-Die Rätin wer mich: Neun Uhr!
+Die Rätin weckt mich: Neun Uhr!
 
-»Ein Bote »vom Autotour Sagan mit einem Brief …
-Es eilt sehr …
+»Ein Bote vom Rittergut Sagan mit einem Brief …
+Es eilt sehr …«
 
 Frau Otti schrieb:
 
-»Lieber Freund, kommen Sie sofort. Weine Juwelen
+»Lieber Freund, kommen Sie sofort. Meine Juwelen
 sind gestohlen worden. Ich schicke Ihnen das Auto.«
 
 <@pagebreak/>
 
 <h2>5. Kapitel.</h2>
-<h3>Und Harst!?.</h3>
+<h3>Und Harst?</h3>
 
 Der Kraftwagen jagte nach Schloß Sagan … hielt. Herr
 und Frau Lefeld kamen mir schon entgegengeeilt. Eine
-Flut von Neuigkeiten ergoß ein über mein Haupt.
+Flut von Neuigkeiten ergoß sich über mein Haupt.
 
-Lefelds waren gestern abend ebenfalls zum. Richtfest auf
-dem: Vorwerk gewesen. Um vier Uhr morgens kehrten sie
-Heim. Frau Otti ging noch in ihren Salon. Hier fand sie
+Lefelds waren gestern abend ebenfalls zum Richtfest auf
+dem Vorwerk gewesen. Um vier Uhr morgens kehrten sie
+heim. Frau Otti ging noch in ihren Salon. Hier fand sie
 die Hunde betäubt vor. Der chinesische Pokal war leer …
-Der Dieb Hatte keinerlei sonstiges Spuren zurückgelassen. Er
+Der Dieb Hatte keinerlei sonstige Spuren zurückgelassen. Er
 mußte mit Nachschlüsseln eingedrungen sein.
 
 Reimert kam hier nicht in Frage. Er war der eifrigste
@@ -2471,32 +2468,32 @@ Tänzer auf dem ländlichen Fest gewesen.
 
 Und wer sonst?!
 
-In dachte sofort an seine blonde Frau.
+Ich dachte sofort an seine blonde Frau.
 
-»Wann erschien Frau Reimert?«’ fragte ich Lefeld.
+»Wann erschien Frau Reimert?« fragte ich Lefeld.
 
 »Es mag halb zwei morgens gewesen sein.«
 
 »Wie lange braucht eine Radlerin von Greifenberg bis
 zum Vorwerk?«
 
-»Vielleicht vierzig Minuten …
+»Vielleicht vierzig Minuten …«
 
-»Dann werde ich Göbbel anrufen …
+»Dann werde ich Göbbel anrufen …«
 
-In bekam sofort Anschluß.
+Ich bekam sofort Anschluß.
 
-… Verhaften Sie die Frau auf meine Verantwortung,
-»erklärte ich.
+»… Verhaften Sie die Frau auf meine Verantwortung,«
+erklärte ich.
 
-Göbbel weigerte ein zunächst. Aber ckdls im ihm den
+Göbbel weigerte sich zunächst. Aber als ich ihm den
 Ledermantel zart unter die Nase rieb und daran erinnerte,
 <@pagebreak/>
-daß die Koffer in der Lehmhöhle Einbrecherwerkzeug ’ent?
-halten hatten, war er einverstanden.
+daß die Koffer in der Lehmhöhle Einbrecherwerkzeug enthalten
+hatten, war er einverstanden.
 
-Bereits und im fuhren zum Vorwerk. Reimert legte gerade
-in der neuen Scheune auf der Kenne die Lichtdrähte.
+Lefelds und ich fuhren zum Vorwerk. Reimert legte gerade
+in der neuen Scheune auf der Tenne die Lichtdrähte.
 
 Als er uns kommen sah, stieg er von seiner Leiter
 herab, grüßte höflich und fragte nach Lefelds Wünschen.
@@ -2504,14 +2501,14 @@ herab, grüßte höflich und fragte nach Lefelds Wünschen.
 »Die mag Herr Schraut Ihnen vortragen,« meinte Lefeld
 kurz.
 
-»Herr Schrimke — Schraut …! — I habe es gewußt,
+»Herr Schrimke — Schraut …! — Ich habe es gewußt,
 Herr Schraut …«
 
-»Glaube in gern …« I fixierte Reimert scharf. Er
+»Glaube ich gern …« Ich fixierte Reimert scharf. Er
 hatte keine Mütze auf. Sein dunkelblondes Haar hatte einen
 stumpfen Schimmer. Seine Bartstoppeln waren schwarz.
 
-»Sie färben riß Ihr Haar, Reimert …« sagte ich heimlich.
+»Sie färben sich Ihr Haar, Reimert …« sagte ich heimlich.
 
 Ein Blinken trat in seine Augen.
 
@@ -2519,22 +2516,22 @@ Ein Blinken trat in seine Augen.
 
 Er war bereits blitzschnell drüben im Auto …
 
-Ein Du auf den Schaltknopf …
+Ein Druck auf den Schaltknopf …
 
-Der Wagen, der uns hergebracht hatte, ernste an …
+Der Wagen, der uns hergebracht hatte, ruckte an …
 
 Heribert Lefeld zog seelenruhig eine Armeepistole hervor
 …
 
 Ein Schuß … noch einer …
 
-Aus dem Vorderteil des Wagen? schoß eine Flammensäule
-so …
+Aus dem Vorderteil des Wagens schoß eine Flammensäule
+hoch …
 
-Arbeiter liefen herbei!. Hm Nu war Reimert gefesselt.
+Arbeiter liefen herbei. Im Nu war Reimert gefesselt.
 Das Auto freilich war nicht mehr zu retten.
 
-Hm Wohnzimmer des Verwalters des Vorwerks saß
+Im Wohnzimmer des Verwalters des Vorwerks saß
 Hans Reimert uns gegenüber. Ein niederträchtiges Grinsen
 war seine einzige Antwort auf alle Fragen.
 
@@ -2549,55 +2546,56 @@ war seine einzige Antwort auf alle Fragen.
 <@pagebreak/>
 Nichts — kein Wort aus ihm herauszubringen.
 
-»hie Frau ist verhaftet worden … Sie tun klug, alles
-einzugestehen. Nie
-Nichts … —.
+»Ihre Frau ist verhaftet worden … Sie tun klug, alles
+einzugestehen.«
+
+Nichts … —
 
 Es klopfte …
 
-Ein alter, abgerissener Landstreicher trat ein. In schnellte
+Ein alter, abgerissener Landstreicher trat ein. Ich schnellte
 hoch … »Harald, woher kommst du?«
 
-… »Oh — aus Görlitz, vom Haubenberg, von den Förstereien
-der Umgegend … In war hinter Chanawutu her …
-»und — deine Müßte?«
+»Oh — aus Görlitz, vom Haubenberg, von den Förstereien
+der Umgegend … Ich war hinter Chanawutu her …«
 
-»Die hatte ich zwedentspreend präpariert und dort hingelegt,
+»und — deine Mütze?«
+
+»Die hatte ich zweckentsprechend präpariert und dort hingelegt,
 wo du sie wohl gefunden haben wirst, mein Alter …«
 
 Er verbeugte sich vor Lefelds … »Wir wollen die Sache
-kurz abmachen … — Gnädige Frau, hier sind Ihre Juwelier,
-Frau Reimert hatte sie nach dem. Diebstahl in dem Hinterhalt
-des Erbbegräbnisses in Wien Park versteckt. In hatte
-den Diebstahl verhindern. können, aber — man soll Frauen.
+kurz abmachen … — Gnädige Frau, hier sind Ihre Juwelen.
+Frau Reimert hatte sie nach dem Diebstahl in dem Kindersarg
+des Erbbegräbnisses in Ihrem Park versteckt. Ich hätte
+den Diebstahl verhindern können, aber — man soll Frauen
 eine kleine Freude gönnen.«
 
-Er reichte Frau Otti ein Päckchen und drehte ein Hans
+Er reichte Frau Otti ein Päckchen und drehte sich Hans
 Reimert zu.
 
-»Nun, »Chanawutu, — wollen Sie rote immer leugnen?
-In habe ein wenig hier an der Tür gelauscht. Mein lieber
+»Nun, Chanawutu, — wollen Sie noch immer leugnen?
+Ich habe ein wenig hier an der Tür gelauscht. Mein lieber
 Freund Schraut hat viel geleistet. Der Knalleffekt entging ihm.
-Sie sind Chanawutu. Sie sind der seit Jahren gesuchte
-internationale Hoteldieb, der zumeist als Graf Mattrosa auftrat.
+*Sie* sind Chanawutu. *Sie* sind der seit Jahren gesuchte
+internationale Hoteldieb, der zumeist als Graf Mallrosa auftrat.
 Sie spielten hier den Geisterradler, weil Sie leidenschaftlicher
 Wilddieb sind — so nebenbei noch. — Von Görlitz
-aus erkundigte in mich in Hamburg nach Ihrem Vorleben.
+aus erkundigte ich mich in Hamburg nach Ihrem Vorleben.
 Sie wurden in Kalkutta als Sohn eines deutschen Konsulatsunterbeamten
-geboten. Sie heirateten später Anni, geborene
-Winter, eine berüchtigte Taschendiebin, wie sich man herausgestellt
+geboren. Sie heirateten später Anni, geborene
+Winter, eine berüchtigte Taschendiebin, wie sich nun herausgestellt
 hat. Der von dem Panther Cassius Zerrissene ist
-Ihr Schwager Hugo Winter, Artist fünfter Güte, vielfach so«
-bestraft. In Hamburg Falten Sie Ihre Dauerwohnung c?
+Ihr Schwager Hugo Winter, Artist fünfter Güte, vielfach vorbestraft.
+In Hamburg hatten Sie Ihre Dauerwohnung als
 <@pagebreak/>
 biederer Monteur, der immer auswärts beschäftigt war — in
-Hotels — — als Dieb … — Sie sehen, das Spiel ist aus,
+Hotels — — als Dieb … — Sie sehen, das Spiel ist aus.
 Das Zuchthaus winkt Ihnen und Ihrer Frau. Verdient haben
-Sie es reichlich. Als Sie vorgestern naht in Ihrer Verkleidung
+Sie es reichlich. Als Sie vorgestern nacht in Ihrer Verkleidung
 mit Ihrem Handwagen an mir vorüberzogen, folgte
-ich Ihnen. Ihre Lehmhöhle haben Sie vernichtet. Ihr Motor
-
-Rad liegt nun in einem Heuhaufen auf Ihrer Wiese: — auch
+ich Ihnen. Ihre Lehmhöhle haben Sie vernichtet. Ihr Motorrad
+liegt nun in einem Heuhaufen auf Ihrer Wiese — auch
 die beiden Koffer.«
 
 Reimert war sehr bleich.
@@ -2607,18 +2605,18 @@ Ja — das Spiel war aus …
 Draußen fuhr schon ein Auto mit Kommissar Göbbel vor.
 
 Noch einmal habe ich dann Frau Reimert, die blonde
-Heuchlerin, wiedergesehen: Nachmittags vor dem Untersu’
+Heuchlerin, wiedergesehen: Nachmittags vor dem
 Untersuchungsrichter in Greifenberg.
 
-Ei« weinte viel …
+Sie weinte viel …
 
 Komödie — wie alles an ihr … —
 
-Und abends saßen wir dann auf der Gartenterrasse vorn
-Schloß Sagan bei einer Bowle gemütlich verwundet, saßen
+Und abends saßen wir dann auf der Gartenterrasse von
+Schloß Sagan bei einer Bowle gemütlich beieinander, saßen
 bis zwei Uhr morgens, und ich hatte einen leichten Schwips,
 als wir dann in unsere Gastzimmer nach oben gingen …
-Eine Herrliche Woche folgte … In. Berlin zerflossen die
+Eine Herrliche Woche folgte … In Berlin zerflossen die
 Leute vor Hitze. Wir hatten es besser … In den kühlen
 Räumen des alten Edelsitzes ruhten wir aus von der Jagd
 nach Chanawutu.
@@ -2626,9 +2624,9 @@ nach Chanawutu.
 Frau Otti hat für ihre Juwelen jetzt ein besseres Versteck
 gefunden. Und das habe ich ihr vorgeschlagen. —
 
-Auch die Ferien gingen vorüber. Leider. Denn auch
-Saalborg hatte uns eingeladen. Wir knebelten nach) dem
-Haubenberg über, wo die witzige Geschichte mit der Rahe
+Auch *die* Ferien gingen vorüber. Leider. Denn auch
+Saalborg hatte uns eingeladen. Wir siedelten nach dem
+Haubenberg über, wo die witzige Geschichte mit der Katze
 der Miß Wendnoor begann …
 
 Darüber das nächste Mal.
