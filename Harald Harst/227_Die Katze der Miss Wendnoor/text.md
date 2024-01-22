@@ -18,43 +18,42 @@ Petersen, und wir beide links von ihm.
 Es war neun Uhr. Wir hatten soeben das Abendbrot
 hinter uns. Draußen rauschte der Regen, tobte ein böses Juligewitter.
 
-»Da — das war Cassius!!« sagte Saalborg wieder. »Ich
+»Da — das war Cassius!« sagte Saalborg wieder. »Ich
 kenne sein kurzes Aufheulen. Die Tiere sind gereizt … Möglich,
-daß wieder ein Tages vor dem Zwinger auf Froschjagd
+daß wieder ein Igel vor dem Zwinger auf Froschjagd
 geht.«
 
 »Erzählen Sie lieber weiter,« meinte Harst. »Die Panther
-werden sich ich;on beruhigen. Ire Geschichte ist. spannend —
+werden sich schon beruhigen. Ihre Geschichte ist spannend —
 wie alles, was Sie erlebt haben.«
 
 <@pagebreak/>
-Saalborg Blitze noch immer nach dem Fenster hin.
+Saalborg blickte noch immer nach dem Fenster hin.
 
-»Gestern um dieselbe Zeit rumorten sie gute dauernd
+»Gestern um dieselbe Zeit rumorten sie auch dauernd
 umher …« murmelte er sichtlich zerstreut. »Ich werde doch
-besser einmal hinabgehen … — Keine Sorge, Anni,« Panthern
-sich an seine Gattin, die ein? abwehrende Handbewegung
+besser einmal hinabgehen … — Keine Sorge, Anni,« wandte
+er sich an seine Gattin, die eine abwehrende Handbewegung
 gemacht hatte. »Ich nehme den Lodenumhang … Ich fühle
-mich durchaus gesund. Die Sonnenbäder der letzten Sage
+mich durchaus gesund. Die Sonnenbäder der letzten Tage
 haben meine Lunge glänzend kuriert.«
 
 In der Tat: Er sah frisch und gebräunt aus, und daß
 er vor fünf Wochen einen schweren Lungenschuß erhalten,
 merkte niemand mehr. — Meine Leser und Freunde kennen
 die näheren Umstände von Saalborgs Verwundung, kennen
-ihn auch. selbst, den Wiedererstandenen, den ehemaligen elegantesten,
+ihn auch selbst, den Wiedererstandenen, den ehemaligen elegantesten,
 witzigsten Gentlemangauner aller Zeiten. —
 
-Ich erhob mich. »Ich begleite Sie, lieber Saalborg …
+Ich erhob mich. »Ich begleite Sie, lieber Saalborg …«
 
-»Sehr nett von Ihnen, bester Schraut. Anni glaubt, 35
-
-bin kurzsichtig. Ich sah; sehr wohl, wie sie Ihnen verstohlen
+»Sehr nett von Ihnen, bester Schraut. Anni glaubt, ich
+bin kurzsichtig. Ich sah sehr wohl, wie sie Ihnen verstohlen
 zuwinkte.«
 
 Wir lachten alle …
 
-In dieses Lachen mischte sich ein neues, üÜberlaute3s,
+In dieses Lachen mischte sich ein neues, überlautes,
 kreischendes Aufheulen eines der Panther. Dann folgte ein
 Donnerschlag, daß der alte Turm erbebte und die Fenster
 klirrten. Sogar das Geschirr auf dem Tisch stimmte mit
@@ -62,37 +61,39 @@ ein in diesen nervenaufpeitschenden Lärm.
 
 »Das hat ganz in der Nähe eingeschlagen,« sagte Doktor
 Petersen ernst, und sein faltiges, mageres, kluges Gesicht
-beugte sich der schritten Petroleumlampe näher zu. Er stopfte
+beugte sich der schlichten Petroleumlampe näher zu. Er stopfte
 umständlich seine Pfeife, während Saalborg und ich in den
-Treppenflur hinaustraten und die Tür des SJurmzimmer8
+Treppenflur hinaustraten und die Tür des Turmzimmers
 hinter uns zuzogen.
 
 Saalborg half mir in den Gummimantel.
-»Schraut, hier!rinnt etwas nicht …« jagte er nachdenklich.
+
+»Schraut, hier stimmt etwas nicht …« sagte er nachdenklich.
 
 »Sie sehen Gespenster, Bester …!« Ich schüttelte energisch
-den Kopf. »Sie sind neun lange nicht der Vincent von
+den Kopf. »Sie sind noch lange nicht der Vincent von
 <@pagebreak/>
 einst … Ihr Humor ist eingerostet … Sie sind etwas Spießer
-geworben.«
+geworden.«
 
-Er blickte mich mertkwürdiaq an. Sein Monokel glitzerte
-matt im Schein der kleinen Blutspur?
-»Ja, Sie haben recht: Eingelegte!!« Und leiser: »Ich
+Er blickte mich merkwürdig an. Sein Monokel glitzerte
+matt im Schein der kleinen Flurlampe.
+
+»Ja, Sie haben recht: Eingerostet!« Und leiser: »Ich
 hätte nie heiraten sollen, Schraut. Das Abenteurerblut in mir
-kommt nicht zur Ruine. Ich … welke dahin. 5SH brauche
+kommt nicht zur Ruine. Ich … welke dahin. Ich brauche
 Freiheit, Ungebundenheit. So sehr ich Anni auch liebe: Ich …
 fürchte die Zukunft!«
 
-Er senkte den Kopf, gute aufseufzend die Achseln und
+Er senkte den Kopf, zuckte aufseufzend die Achseln und
 schritt dann die Wendeltreppe hinab, indem er ein Zündholz
 anrieb und eine mittelgroße Karbidlaterne entzündete.
 
-Wir war’s plötzlich seltsam schwer zumute. Ich verstand
+Mir war’s plötzlich seltsam schwer zumute. Ich verstand
 Saalborg vollkommen. Es wäre ja genau dasselbe gewesen,
 wenn man etwa Harald und mich zu einem ruhigen, geordneten
-Leben gezwungen hätte. auf wir waren Abenteurer, Globetrotter,
-Sensationslust. Saalborg besaß diesen besonderen
+Leben gezwungen hätte. Auch wir waren Abenteurer, Globetrotter,
+Sensationssucher. Saalborg besaß diesen besonderen
 Zusatz im Blut vielleicht noch in stärkerem Maße.
 
 Wir kamen unten in die kleine Vorhalle. Der Turm der
@@ -106,15 +107,15 @@ Saalborg öffnete die Tür. Regen peitschte uns entgegen.
 Ich warf die Tür ins Schloß und tappte hinter Saalborg
 drein. Der Lichtkegel tanzte weit vor uns her.
 
-Als wir un die Weitere bogen, sahen wir, daß eine
-mächtige abgestorbene Dieser im Parke wie eine Wesensart
-brannte — trat des Regen.
+Als wir um die Westecke bogen, sahen wir, daß eine
+mächtige abgestorbene Kiefer im Parke wie eine Riesenfackel
+brannte — trotz des Regens.
 
 »Der Blitz vorhin!« rief Saalborg mit zurückgewandtem
-Kap
+Kopf.
 
-Die Kiefer überragte die Buchen uns Eichen; die die
-flachen Hänge des Berges bedeckten, mindestens sechs« Meter.
+Die Kiefer überragte die Buchen und Eichen, die die
+flachen Hänge des Berges bedeckten, mindestens sechs Meter.
 Da eine Gefahr, daß der Brand sich ausdehnen könne,
 <@pagebreak/>
 nicht bestand, brauchten wir uns um die himmelhohe, schmale
@@ -128,48 +129,47 @@ geraten.
 Doch nicht!
 
 Kaum standen wir vor dem Zwinger, als wir auch schon
-vor dem Armenischer, in den die Gitterstäbe zum Teil eingelassen
-waren, ein nasses, dunkeihaarigzes Kätzchen erblickten,
-
-das von loben Händen hier mit einer derben Schnur festgebunden
+vor dem Zementsockel, in den die Gitterstäbe zum Teil eingelassen
+waren, ein nasses, dunkelhaariges Kätzchen erblickten,
+das von rohen Händen hier mit einer derben Schnur festgebunden
 war.
 
-Kein Wunder, daß das Tischchen halbtot vor Angst war!
-Betrachten doch die Panther immer wieder mit den Pranken
+Kein Wunder, daß das Tierchen halbtot vor Angst war!
+Versuchten doch die Panther immer wieder mit den Pranken
 durch die Stäbe hindurzulangen.
 
-»Unglaublich!!« rief Saalborg empört und hob das Hätten
+»Unglaublich!!« rief Saalborg empört und hob das Kätzchen
 empor, während ich den Strick löste. Gerade ihn, der
 ein so großer Tierfreund war, mußte dieser gemeine Bubenstreich
-aufs höchste Splittern.
+aufs höchste erbittern.
 
-Aber — hiermit nicht genug. Saalborg halt wie ich, daß
-das Tiefsten um den Hals ein nasses blaues Bändchen trug,
+Aber — hiermit nicht genug. Saalborg sah wie ich, daß
+das Tierchen um den Hals ein nasses blaues Bändchen trug,
 an dem etwas Goldiges blinkte. Es war ein Ring in
-Schlangenform, Zwei ineinander verschlungene Brillen
-entgangen, deren aufgeblähte Sauber durch zwei fast Erbsengröße
+Schlangenform, *zwei* ineinander verschlungene Brillenschlangen,
+deren aufgeblähte Hauben durch zwei fast Erbsengroße
 Brillanten dargestellt waren, ein ebenso kostbarer wie
 eigenartiger Ring.
 
-Ich hielt die Laterne, als Saalborg den Ring dDetractete.
-Plötzlich begann er wie trunken zu schwanken, ließ die Habe
+Ich hielt die Laterne, als Saalborg den Ring betrachtete.
+Plötzlich begann er wie trunken zu schwanken, ließ die Katze
 fallen, die sofort mit ein paar Sätzen in den Büschen verschwand,
-und ich konnte gerade von Angaben, um ihn vor
-dem Auffinden zu Schützen. Schwer und schloß ruhte er in
+und ich konnte gerade noch zupacken, um ihn vor
+dem Umsinken zu Schützen. Schwer und schlaff ruhte er in
 meinen Armen. Sein fahles Gesicht bewies klar den Schwächeanfall.
 
-Ich schleppte ihn rast in die Vorhalle, legte ihn hier
+Ich schleppte ihn rasch in die Vorhalle, legte ihn hier
 <@pagebreak/>
 in einen der beiden Korbsessel und stürmte die Treppe empor,
-riß die Tür des Steinmole auf …
+riß die Tür des Eßzimmers auf …
 
-»Duell — — Kognak oder ein Glas Wein … Er
-ist ohnmächtig geworden!
+»Schnell — — Kognak oder ein Glas Wein … Er
+ist ohnmächtig geworden!«
 
 Anni Saalborg stieß mich beiseite, flog die Stufen
 hinab …
 
-— Harst mit der Kognakflasche hinterdrein, dann Doktor
+Harst mit der Kognakflasche hinterdrein, dann Doktor
 Petersen, Annis Oheim, und ich.
 
 Unten standen wir vier vor dem leeren Korbsessel. Saalborg
@@ -178,68 +178,68 @@ suchten … Die Eingangstür hatte weit offen gestanden.
 Er mußte draußen sein, denn ich hatte sie zugezogen gehabt.
 
 Harald und ich waren in das Gebüsch eingedrungen —
-dort, wo das Fäßchen verschwunden. Die Kiefer brannte noch.
+dort, wo das Kätzchen verschwunden. Die Kiefer brannte noch.
 Wir kamen in die Nähe der Riesenfackel. Sie stand allein,
-um sie her war ein freier Platz mit ein paar bemoosten]
+um sie her war ein freier Platz mit ein paar bemoosten
 Felsblöcken.
 
-— Und hier saß Vincent Saalborg auf einem der Steine,
+Und hier saß Vincent Saalborg auf einem der Steine,
 den Kopf in die Linke gestützt, ohne sich zu regen, stierte
-geradeaus … Floß des gelegentlichen Grollen des Donners
+geradeaus … Trotz des gelegentlichen Grollen des Donners
 mußte er die angstvollen Rufe seiner Frau unbedingt hören
-—» und achtete doch nicht darauf.
+— und achtete doch nicht darauf.
 
-Harald hielt Miß am Arm gepackt, flüsterte:
+Harald hielt mich am Arm gepackt, flüsterte:
 
 »Warten wir …!«
 
 Saalborg erhob sich nach einigen Minuten und wandte
 sich schwerfällig der Ruine zu, ging sehr langsam — wie
 einer, dem die Gedanken die Füße lähmen, Gedanken, die die
-Seele bis ins Tiefste aufwühßlen.
+Seele bis ins Tiefste aufwühlen.
 
 Wir folgten ihm mehr seitwärts und erreichten mit ihm
 zusammen den Turmeingang. Anni hielt ihm umschlungen.
 
 »Wo warst du?!«
 
-… »Ich suchte das arme Tierchen,« — und er lächelte
-Anni zu … »Es hat ja noch den Strick um den Hals.
+»Ich suchte das arme Tierchen,« — und er lächelte
+Anni zu … »Es hat ja noch den Strick um den Hals …
 und wenn es irgendwo hängen bleibt, muß es verhungern.
 Es tat mir so sehr leid …!«
 
 <@pagebreak/>
 Harald gab ihm mit einem Scherzwort die Kognakflasche.
-»Da — trinken Sie nur …! Wir finden das Hätten
-schon …
+»Da — trinken Sie nur …! Wir finden das Kätzchen
+schon …«
 
-Ein ins zu mir …- Ich verstand, wir eilten zu der
-brennenden Kiefer zurück …
+Ein Wink zu mir … Ich verstand, wir eilten zu der
+brennenden Kiefer zurück.
 
 Harst meinte da: »Was du mir über den Schlangenring
 erzähltest und über Saalborgs Schwächeanfall, erscheint mir
 sehr bedenklich.«
 
 Von der Kiefer fielen ein paar glühende Äste herab …
-Unten gab’s einen Funkenregen …— Es hatte aufgehört
-zu regnen. Klarer, ausgestirnten Nachthimmel zeigte!ich
+Unten gab’s einen Funkenregen … — Es hatte aufgehört
+zu regnen. Klarer, ausgestirnter Nachthimmel zeigte sich
 zwischen dem ziehenden Gewölk in großen Flächen.
 
-»Saalborg kannte den Ging,« fuhr Harald ebenso gedämpft
-fort. »Der Schreck ließ ihn umsinken. Der, der die Maße
+»Saalborg kannte den Ring,« fuhr Harald ebenso gedämpft
+fort. »Der Schreck ließ ihn umsinken. Der, der die Katze
 vor dem Zwinger festband, wollte, daß Saalborg den Ring
-fände. Ich behaupte ferner, daß dieser Unbekannte nachts mit
-Absicht eine Katze wählte, der er den Ring Anzug. Ding
-und Katze müssen dereinst in Saalborgs reichbewegten Berg
+fände. Ich behaupte ferner, daß dieser Unbekannte auch mit
+Absicht eine Katze wählte, der er den Ring umhing. Ring
+und Katze müssen dereinst in Saalborgs reichbewegter
 Vergangenheit gleichzeitig eine besondere Rolle gespielt haben …
 Leute wie er, die überall zu Hause waren, die mit ihrer
-faSzinierenden Persönlichkeit, mit diesem dunklen Beigeschmack
-zweifelhafter Existenzen die Weiber anzogen wie der Anstatt
+faszinierenden Persönlichkeit, mit diesem dunklen Beigeschmack
+zweifelhafter Existenzen die Weiber anzogen wie der Aasduft
 der fleischfressenden Pflanzen die Insekten, — solche Männer
 Haben ihre schlimmsten Feinde unter enttäuschten, verlassenen
-Geliebten. Dieser Trick mit der Katze und dem Ding, behaupte
+Geliebten. Dieser Trick mit der Katze und dem Ring, behaupte
 ich weiter, ist Frauenarbeit. Weiber, die lichtscheue Pfade
-wandeln, erwidern eine verblüffende Phantasie. Ich fürchte,
+wandeln, entwickeln eine verblüffende Phantasie. Ich fürchte,
 Frau Annis Eheglück ist ernsthaft bedroht, und was in
 meiner Macht steht, Saalborg und Anni zu schützen, wird geschehen.«
 
@@ -257,8 +257,8 @@ Frau bei deren Zauberkunststücken Ablenkung und Anregung
 Hatte, schwieg dieses kranke, unbändige Blut. Jetzt hier in
 der Weltabgeschiedenheit dieses kleinen ländlichen Besitzes
 wird er … rückfällig werden. Ich habe nie so recht an seine
-endgültige »moralische Umstellung geglaubt. Wir werden hier
-vielleicht noch trübe Tage erleben, mein Alter. — Guten wkr
+endgültige moralische Umstellung geglaubt. Wir werden hier
+vielleicht noch trübe Tage erleben, mein Alter. — Suchen wir
 jetzt nach Spuren … Die Frau mit der Katze muß irgendwo
 über den hohen Drahtzaun geklettert sein. Es wäre merkwürdig,
 wenn der Stacheldraht sie nicht festgehalten hätte.
@@ -271,7 +271,7 @@ Was wir fanden, darüber später. —
 
 So begann in dieser schwülen Julinacht eines der verwickeltsten
 Dramen, die uns je Gelegenheit gaben, das zu
-tun, was Menschenpflicht ist: Nachts besten Kräften Vorsehung
+tun, was Menschenpflicht ist: Nach besten Kräften Vorsehung
 zu spielen!
 
 <@pagebreak/>
@@ -282,22 +282,22 @@ zu spielen!
 Wir kletterten den Haubenberg wieder empor. Oben vor
 dem Pantherzwinger stand Vincent Saalborg — allein.
 
-»Wir geht es wieder tadellos …« begrüßte er uns mit
+»Mir geht es wieder tadellos …« begrüßte er uns mit
 stark betonter Frische. »Haben Sie das Kätzchen gefunden,
 meine Herren?«
 
 »Leider nein,« meinte Harst und betrachtete Saalborgs
 schlecht beherrschtes Gesicht mit dem warmen Mitgefühl eines
-Menschen, der bis in- die verborgensten Winkel der Seelen
+Menschen, der bis in die verborgensten Winkel der Seelen
 hinabgeleuchtet hat.
 
-Saalborg hob die reichte Hand.
+Saalborg hob die rechte Hand.
 
 »Da — bitte! Ich habe mehr Glück gehabt! Hier ist der
-Ring. Das Kätzchen ließ »ich laufen. Es findet schon von
-selbst wieder heimwärts …
+Ring. Das Kätzchen ließ ich laufen. Es findet schon von
+selbst wieder heimwärts …«
 
-Eis war der Schlangenring. Ich erkannte ihn sofort
+Es war der Schlangenring. Ich erkannte ihn sofort
 wieder,
 
 Harst nahm ihn, beleuchtete ihn mit der Taschenlampe.
@@ -307,190 +307,191 @@ dieser merkwürdigen Geschichte?«
 
 Saalborg setzte das trügerische Spiel fort.
 
-»Ja, wenn man das ahnen könnte! Cm keiner Scherz
-eigentlich … Und ein roher Scherz! — Wie denken … Sie
+»Ja, wenn man das ahnen könnte! Ein teurer Scherz
+eigentlich … Und ein roher Scherz! — Wie denken Sie
 darüber, Harst?«
 
 »Ich denke, Sie werden wohl notwendig vielleicht durch
 eine Anzeige in der Zeitung den Besitzer des Ringes ermitteln
 <@pagebreak/>
-müssen, schon um Ungelegenheiten zu? kam Wege zu gehen.«
+müssen, schon um Ungelegenheiten aus dem Wege zu gehen.«
 
 Saalborg schüttelte energisch den Kopf. »Wer die Katze
-vorbrachte, wird auch den Ring wiederholen … Ich kümmere
+herbrachte, wird auch den Ring wiederholen … Ich kümmere
 mich darum nicht weiter, und ich bitte Sie beide, weder vor
-Anni noch vor Onkel Petersen den Ging zu erwähnen. Die
-beiden würden der Habe nur noch größere Bedeutung leises
+Anni noch vor Onkel Petersen den Ring zu erwähnen. Die
+beiden würden der Katze nur noch größere Bedeutung beilegen,
 als sie es ohnedies tun. Ich darf wohl auf Ihre Verschwiegenheit
-feinen.«
+rechnen.«
 
-»Zufällig,« nickte Harald. »Nur gebe im zu biledendpen,
-daß dieser … »Oberst« mit der Ring Igeschmüdten Katze doch
+»Natürlich,« nickte Harald. »Nur gebe ich zu bedenken,
+daß dieser »Scherz« mit der ringgeschmückten Katze doch
 einen Zweck gehabt haben muß. Welchen — ich weiß es nicht.
-Ich bin aber überzeugt, daß niemand sich hier mit einen
+Ich bin aber überzeugt, daß niemand sich hier mit einer
 Katze einschleichen und diese am Zwinger festbinden wird, wenn
 er nicht die Absicht hatte, Sie dadurch irgendwie zu treffen,
-lieber Saalborg. Ich dränge mich ja in ntemandes Vertrauen
+lieber Saalborg. Ich dränge mich ja in niemandes Vertrauen
 ein, doch in diesem Falle wäre es besser, mit offenen Karten
 die Partie zu beginnen, die … leicht verloren gehen kann!«
 
-Saalborg war selbst durch diesen Wink nicht umzusimmen.
+Saalborg war selbst durch diesen Wink nicht umzustimmen.
 Im Gegenteil. Ein scharfer Blick traf Harald …
-»Ahnen Sie etwa an, daß ich den Zusammenhang ahne?«
-fragte er halb ironisch. Aus der Ton. gelang ihm nicht.
+»Nehmen Sie etwa an, daß ich den Zusammenhang ahne?«
+fragte er halb ironisch. Auch der Ton gelang ihm nicht.
 
 Harst erwiderte nur: »Gehen wir hinein … Sie sollten
 sich niederlegen. Sie Sehen recht angegriffen aus. Schließlich
-sind Sie doch noch immer Vekonvale3zent …«
+sind Sie doch noch immer Rekonvaleszent …«
 
 Vincent fühlte sehr wohl die Mißstimmung, die zwischen
 uns entstanden war. Er mußte wissen, daß wir den Vorfall
 mit dem Ringe und der Katze so deuteten, wie er ihn
-Wohnt gedeutet haben wollte. Wenn er nun trotz allem seine
+*nicht* gedeutet haben wollte. Wenn er nun trotz allem seine
 Unaufrichtigkeit fortsetzte, so war dies ein erdrückenden Beweis
-für Haralds Weh Mündung, daß mit diesem Ginge ein Abschnitt
+für Haralds Behauptung, daß mit diesem Ringe ein Abschnitt
 aus Saalborgs Vergangenheit lebendig geworden war und
-d:.ß er selbst die schwerwiegendsten Gründe herben mußte, uns
-zu diesen Sorgen, die seine Züge so stark beeinflußt, nicht teilnehmen
+daß er selbst die schwerwiegendsten Gründe haben mußte, uns
+an diesen Sorgen, die seine Züge so stark beeinflußt, nicht teilnehmen
 zu lassen.
 
-Zögernd schritt er voran, bog um die TurmeckXe. Das Gewittergewölk
+Zögernd schritt er voran, bog um die Turmecke. Das Gewittergewölk
 <@pagebreak/>
-war völlig versEwminden. Der Vollmond Tand
-als rot goldene Scheibe am klaren Sommerhimmel. « ie.«
+war völlig verschwunden. Der Vollmond stand
+als rotgoldene Scheibe am klaren Sommerhimmel.
 
-Saalborg wandte sich) plötzlich um …
+Saalborg wandte sich plötzlich um.
 
-Sein halb verstörter, halb trauriger Blick streifte unsere:
-Gesichter …
+Sein halb verstörter, halb trauriger Blick streifte unsere
+Gesichter.
 
-»Ganz leise sagte er: »Meine Herren, — ich. darf Sie wir
-liebe Freunde anreden: Verargen Sie es mir nicht; daß ich.
-Heimlichkeiten vor Ihnen habe, diese -… Sache muß ich allein
-durchlebten.«
+Ganz leise sagte er: »Meine Herren, — ich darf Sie wohl
+liebe Freunde anreden: Verargen Sie es mir nicht, daß ich
+Heimlichkeiten vor Ihnen habe, diese … Sache muß ich allein
+durchfechten.«
 
-Seine Rechte streckte sich Harald unsicher entgegen. »Her
-umschloß sie fest mit seinen Lanzen, fast zierlichen und doch
-so muskulösen Fingern und meinte eindringlich: —
+Seine Rechte streckte sich Harald unsicher entgegen. Der
+umschloß sie fest mit seinen langen, fast zierlichen und doch
+so muskulösen Fingern und meinte eindringlich:
 
 »Saalborg, hoffentlich bereuen Sie diese Heimlichkeiten
 nie! Denken Sie an Frau Anni.«
 
 Ein gequälter Zug erschien um des einstigen Gentlemangauners
-schön geschwungene Lippen. 7: …
+schön geschwungene Lippen.
 
-»Ja, vielleicht werde im es bereuen … Aber — — « He
-beide, niemand soll von mir mit an ’den Rand … »eines
-Abgrundes gezerrt werden, den ich seit Jahren für … »Vers
-swäüttet Hielt.« In Seite
+»Ja, vielleicht werde ich es bereuen … Aber — — Sie
+beide, niemand soll von mir mit an den Rand eines
+Abgrundes gezerrt werden, den ich seit Jahren für … verschüttet
+Hielt.«
 
-Dann drückte er aus mir die Hand und »betrat: die
-Vorhalle. ;.
+Dann drückte er auch mir die Hand und betrat die
+Vorhalle.
 
 Oben im Eßzimmer empfing uns Frau Anni mit bitteren
 Vorwürfen. »Vincent wollte Sie beide nicht allein suchen
-— fallen … Er meinte, er könne doch nicht seine Gäste in den
-Gewitterregen hinausragen und sich selbst sHonenct …
+lassen … Er meinte, er könne doch nicht seine Gäste in den
+Gewitterregen hinausjagen und sich selbst schonen …«
 
-Saalborg hielt ihr lachend den Ring sind. 3 …
+Saalborg hielt ihr lachend den Ring hin.
 
-»Ja — ich fand die Katze! Da ist der Ging! Das Fäßchen
-entschlüpfte mir.« …
+»Ja — ich fand die Katze! Da ist der Ring! Das Kätzchen
+entschlüpfte mir.«
 
 Wir beide waren verblüfft über den jähen Wechsel seines
 Entschlusses. Soeben noch hatte er uns gebeten, den Ring
-nicht zu erwähnen. Nun tat er es gelöst. Weshalb?!
+nicht zu erwähnen. Nun tat er es selbst. Weshalb?!
 
 »Ein … Ring?!« rief Frau Anni mehr bestürzt als
-erstaunt. »Und — ein so kostbarer Eine?1’«
+erstaunt. »Und — ein so kostbarer Ring?!«
 
 »Ja — die Katze trug ihn an einem blauen Bändchen um
 <@pagebreak/>
 den Hals. Schraut und ich hatten ihn zuerst gar nicht
 bemerkt … Die Katze fiel mir ja auch aus der Hand, als
-mir Flöte! ich so elend zumute wurde.«
+mir plötzlich so elend zumute wurde.«
 
-… Doktor Petersen saß zurückgelehnt am Tische — ein stille!,
-kluger Beobachter, ein Wann, dem das Leben böse mitgespielt
-hatte, ein vorzüglicher Operateur, dem trotzdem das Miß«
-selbst zugestoßen war, einen schweren Fehlgriff bei einer
+Doktor Petersen saß zurückgelehnt am Tische — ein stiller,
+kluger Beobachter, ein Mann, dem das Leben böse mitgespielt
+hatte, ein vorzüglicher Operateur, dem trotzdem das Mißgeschick
+zugestoßen war, einen schweren Fehlgriff bei einer
 Diagnose zu tun. Da hatte er, mit sich und der Welt zerfallen,
 für Saalborg hier die Ruine Haubenberg erworben,
 hatte hier zunächst als Einsiedler gelebt, bis seine einzige
-Lichte Anni und deren Gatte gleichfalls von der Weltbühne
+Nichte Anni und deren Gatte gleichfalls von der Weltbühne
 verschwinden wollten und ebenfalls sich hier niederließen.
 
 In seinen klugen, beherrschten Zügen bemerkte ich einen
 Ausdruck von Gereiztheit und Gram.
 
 »Sehr merkwürdig, daß ihr den Ring nicht gleich gesehen
-hab!!« warf er ziemlich scharfen Tones ein.
+habt!« warf er ziemlich scharfen Tones ein.
 
 Ich kam Saalborg zu Hilfe. »Bedenken Sie die Dunkelheit,
-Herr. Doktor, und unsere Aufregung … Das blaue Bändchen
+Herr Doktor, und unsere Aufregung … Das blaue Bändchen
 muß auch sehr fest um den Hals geschnürt gewesen sein.«
 
 Er zuckte die Achseln, — eine Geste des Zweifels …
 
 »Wer wird einer Katze einen Brillantring um den Hals
-binden?!« —
+binden?!«
 
 Saalborg krauste die Stirn.
 
-»Onkel Petersen, —« die Katze trug einen Ring! Genügt
+»Onkel Petersen, — die Katze trug einen Ring! Genügt
 dir das?!«
 
 Die Blicke der beiden Männer kreuzten sich … Viel
 Zuneigung war in diesen Blicken nicht.
 
 Wir beide kannten die Geschichte von Saalborgs Ehe.
-Anni Petersen hatte im Hause ihres Onkels gelebt, war dann.
-einem gemeinen Erpresser in die Hände geraten, der eine harmlose.
+Anni Petersen hatte im Hause ihres Onkels gelebt, war dann
+einem gemeinen Erpresser in die Hände geraten, der eine harmlose
 Liebelei und einen etwas überschwänglichen Briefwechsel
 schamlos ausnutzte. Saalborg befreite Anni von diesem geldgierigen
 Ungeheuer, und trotz Petersens anfänglichem Widerspruch
-wurde aus beiden ein bisher plötzliches Paar. Daß
+wurde aus beiden ein bisher glückliches Paar. Daß
 der Doktor gegen diese Heirat gewesen, konnte ihm niemand
 <@pagebreak/>
-verdenken. Mochte Saalborg auf unter seine verbrecherische
-Vergangenheit einen feinen Strich gezogen haben: Er bli2b
-der einstige Hochstapler, der seinerzeit; die ganze Welt in
+verdenken. Mochte Saalborg auch unter seine verbrecherische
+Vergangenheit einen festen Strich gezogen haben: Er blieb
+der einstige Hochstapler, der seinerzeit die ganze Welt in
 Atem gehalten hatte, — die ganze Welt hatte sich über
-seine genialen Streiche Amulett, aber — er blieb trennten der
-berüchtigte Vincent Saalborg! —
+seine genialen Streiche amüsiert, aber — er blieb trotzdem der
+berüchtigte Vincent Saalborg!
 
-Petersen lenkte ein. »Gewiß, Genusses mir, Vincent …
+Petersen lenkte ein. »Gewiß genügt es mir, Vincent …
 Nur gewinnt dieses Ereignis durch den Ring eine ungewöhnliche
 Bedeutung.«
 
 Saalborg verbeugte sich lächelnd … »Durchaus nicht,
-Onkel … durchaus nicht, denn in dem blauen Bändchen.
+Onkel … durchaus nicht, denn in dem blauen Bändchen
 steckte noch dieser eng zusammengekniffte Zettel aus Pergamentpapier
-… Bäte … die Schrift ist dur4 den Gegen etwas
+… Bitte … die Schrift ist durch den Regen etwas
 verlaufen: Tintenstift!! — Hier steht:
 
-Herrn Harst von einigen Verehrern!
-Mithin handelt es sich um ein distrete8 Geschenk für Harst,
-und die Spenderin dürfte Frau Rittergutsbe her Otti Lefeld
+<p class="centered">Herrn Harst von einigen Verehrern!</p>
+
+Mithin handelt es sich um ein diskretes Geschenk für Harst,
+und die Spenderin dürfte Frau Rittergutsbesitzer Otti Lefeld
 sein, die auf diese Weise ihren Dank für die Wiederherbeischaffung
-ihrer Juwelen abstatte!!« (Berg!. hierzu »Dämon
+ihrer Juwelen abstattet!« (Vergl. hierzu »Dämon
 Chanawutu«.)
 
 Wenn Harald und ich soeben schon über Saalborgs
-» Sinnce8IäInderung maßlos überrascht gewesen waren, — diese
-Freiheit, dieser schlaue Trick mit dem Zettel, den er in
+Sinnesänderung maßlos überrascht gewesen waren, — diese
+Frechheit, dieser schlaue Trick mit dem Zettel, den er in
 aller Eile vorbereitet hatte, machte uns für Sekunden zu
 Bildsäulen.
 
 Das war der alte Saalborg — leider! Das war das
 Genie von einst — leider! Er hatte sich doch völlig wiedergefunden
 — sich selbst, seine einstige kecke, geistvolle Unverfrorenheit
-— leider! —
+— leider!
 
 Auch äußerlich …
 
-Sein Gesicht war belebt … Sein lieben8würdig-schHelmismHes,
-Gepudertes Lächeln, das Feuer seiner Augen, die
+Sein Gesicht war belebt … Sein liebenswürdig-schelmisches,
+berückendes Lächeln, das Feuer seiner Augen, die
 lässige Vornehmheit seiner Bewegungen: Das war der alte
 Saalborg!
 
@@ -501,26 +502,26 @@ seinem lieblichen aschblonden Frauchen …
 Und Anni lachte befreit, glückselig …
 
 »Da, Herr Harst … da, nehmen Sie ihn, lassen Sie ihn
-sich von mir an den Finger stehen …!! Oh — wie tadellos
-er paßt — — auf den kleinen Finger … ’ Und wie. die
-Brillanten sprühen … x«
+sich von mir an den Finger stecken …! Oh — wie tadellos
+er paßt — — auf den kleinen Finger … Und wie die
+Brillanten sprühen …!«
 
-Ich stand rote immer reglos. — sicher mit wenig geistvollem
+Ich stand noch immer reglos, — sicher mit wenig geistvollem
 Gesicht.
 
 Saalborg hatte ja stets seine Hauptstärke darin bewiesen,
 andere zu verblüffen. Fraglos war’s auch hier lediglich die
-Sucht gewesen, uns beide in starkes Staunen zu versehen,
+Sucht gewesen, uns beide in starkes Staunen zu versetzen,
 als er erst uns den Ring zu verschweigen bat und dann denselben
 Ring und den Zettel mit dem schlauen Hinweis auf
-Frau Orte Lefeld vorzeigte.
+Frau Otto Lefeld vorzeigte.
 
 Und Harst?!
 
 Er küßte Frau Anni galant die Hand …
 
-»Genie will im den Ring tragen … Sonst trage 1H& ja
-nie Schnur. Frau Otti hat mich geradezu beschämt …«
+»Heute will ich den Ring tragen … Sonst trage ich ja
+nie Schmuck. Frau Otti hat mich geradezu beschämt …«
 
 Doktor Petersen, gleichfalls vollkommen getäuscht, meinte
 scherzend:
@@ -528,18 +529,18 @@ scherzend:
 »Sie wird es Ihnen sehr verargen, wenn Sie ihre Gabe
 in den Tresor legen, lieber Harst …!«
 
-»Tut mir leid, Herr Doktor. Aber Ringe — —!!ich?!
+»Tut mir leid, Herr Doktor. Aber Ringe — — ich?!
 Im Sommer sind Ringe sehr verräterisch. Die Haut darunter
 bleibt weiß. Ich habe einmal einen Heiratsschwindler nur
 dadurch entlarvt, daß ich an seinem Ringfinger den weißen
-Streifen. des Eheringes vermißte. Er trug ihn nur dann, wenn
+Streifen des Eheringes vermißte. Er trug ihn nur dann, wenn
 er mit seiner »echten« Frau zusammen war.«
 
 Wir nahmen wieder am Tische Platz. Saalborg holte zwei
 Flaschen Mosel aus dem Keller. Wir blieben noch gemütlich
 bis Mitternacht zusammen. Dann wurde Anni so müde, daß
 Saalborg sie eine Treppe höher in ihr gemeinsames Schlafzimmer
-bringen mußte …-
+bringen mußte.
 
 <@pagebreak/>
 
@@ -609,7 +610,7 @@ gehängt, aber sicher ist sicher …«
 
 Ich tat’s, setzte mich neben ihn auf das billige Plüschsofa.
 
-»Gravierungen …« meinte er und reichte mir die Ginge.
+»Gravierungen …« meinte er und reichte mir die Ringe.
 »Der, den Saalborg besaß, zeigt die Buchstaben G. W. und
 d28 Datum 6. 6. 23. — Der Ring der Katze dagegen V. S.
 und 8. 6. 23. — also Vincent Saalborg. Wenn wir noch
@@ -728,7 +729,7 @@ Wer sind Sie? Was wollen Sie?«
 
 »Spielen Sie nicht den Unschuldsengel!« warnte Harald.
 »Sie sind Ausländerin … Ihr Deutsch Fing! englisch. Wer
-macht? so tadellos verkleidet hier herumschweist, hat …«
+macht? so tadellos verkleidet hier herumschweift, hat …«
 
 »Wer sind Sie?!« das klang schon milder. Die Frau
 r:witterte uns eingehend. Der Mond beschien uns, und unsere
@@ -1322,7 +1323,7 @@ Ich hielt den Atem an …
 wollte: er?«
 
 <@pagebreak/>
-»Er bat mich, ich solle ihm eine Maße und einen Ging
+»Er bat mich, ich solle ihm eine Maße und einen Ring
 beschaffen.«
 
 »Na … a … As?!«
@@ -1330,7 +1331,7 @@ beschaffen.«
 »Klasse und Ein, 3 — tatsächlich! Fragen Sie Schraut, er
 wird es Ihnen bestätigen.«
 
-»Allerdings!« Kiste ich. »Katze und Ging.«
+»Allerdings!« Kiste ich. »Katze und Ring.«
 
 »Ja — aber was heißt daß?!«
 
@@ -1449,7 +1450,7 @@ Seiles vorbehalten.
 
 Es ist ja immer schwer, für diese Teile und für die
 einzelnen Kapitel treffende Titel zu finden. »Das Phantom
-und der Panther« schien mir am geeigneijien.
+und der Panther« schien mir am geeignetsten.
 
 Phantom ist eine feinere Bezeichnung für Gespenst, für
 ein Geschöpf, das nicht der Erkennst entstammt. Ich begegnete
@@ -1632,7 +1633,7 @@ der Wendeltreppe, mein Teebrett vorsichtig balanzierend,
 erreicht hatte, — war es mir, als ob links auf der anderen
 Treppe etwas raschelte — wie Seidenröcke — nur dumpfer.
 Ich blickte hin … Ich sah in diesem Dreivierteldunkel das
-Phantom, das dort drüben die Stufen abwärtsscritt.
+Phantom, das dort drüben die Stufen abwärtsschritt.
 
 Ich gebe zu, daß ich diesmal: erschrak. Es wäre doch
 von einem Mengen, der hier lediglich »Geist« spielte, eine
@@ -1898,7 +1899,7 @@ und ließ so recht niemand anders zu Worte kommen.
 Vielleicht hatte der Leichtsinn ihres Vaters — Brown galt
 als einer der reichsten Männer Londons, der nur von aus
 Neigung bei seinem Berufe nach äußerst gewinnbringenden.
-Kriegsgeschäften geblieben, ihr diese unleidlihe Überhebung
+Kriegsgeschäften geblieben, ihr diese unleidliche Überhebung
 eingetragen.
 
 Sie war ein richtiges kleines unscheinbares Ekel
