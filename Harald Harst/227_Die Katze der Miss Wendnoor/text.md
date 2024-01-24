@@ -550,72 +550,72 @@ bringen mußte.
 Unser Zimmer lag ebenfalls im zweiten Turmgeschoß.
 Die beiden kleinen Fenster gingen nach Süden hinaus.
 Nachdem wir auch Petersen gute Nacht gesagt hatten, schritten
-wi? die Wendeltreppe empor. Harald verriegelte hinter uns
+wir die Wendeltreppe empor. Harald verriegelte hinter uns
 die Zimmertür und ging in die Ecke, wo unsere Koffer
-standen. Wortlos holte er die seidene Strickleiter hervor, öffnete.
-Es Linke Fenster, hakte die Eisenhaken ein, schwang sich
-l:ii:eins und kletterte hinab. Meine Fragen überhörte er — wie
-Anblick.
+standen. Wortlos holte er die seidene Strickleiter hervor, öffnete
+das linke Fenster, hakte die Eisenhaken ein, schwang sich
+hinaus und kletterte hinab. Meine Fragen überhörte er — wie
+üblich.
 
 Zu meiner Überraschung kehrte er jedoch nach wenigen
 Minuten wieder zurück, im Arm eine braunschwarze Katze …
 
 Er gab sie mir. »Halte sie!«
 
-Sie hatte noc&ß den Strick um den Leib.
+Sie hatte noch den Strick um den Leib.
 
-Und — ich war wie vom Donner gerührt, als ich:
-an ihrem Halse antun noch« das blaue Bändchen und den
-Co plangenring bemerkte.
+Und — ich war wie vom Donner gerührt, als ich
+an ihrem Halse auch noch das blaue Bändchen und den
+Schlangenring bemerkte.
 
 Harst schloß das Fenster, drehte sich um, zeigte mir seine
 linke Hand: Am kleinen Finger trug er das Ebenbild des
-hlangenringes der Maße! Tun
+Schlangenringes der Katze!
 
 »Du begreifst, mein Alter …« sagte er leise …
 
 <@pagebreak/>
-»Nicht ganz. — Wo hast du die Maße her?«
+»Nicht ganz. — Wo hast du die Katze her?«
 
 »oh — sie war in eine hohle Buche geflüchtet. Der
 Strick hing aus dem Baumloche heraus. Dir entging das.«
 
-»und — — die Ringe?« …
+»und — — die Ringe?«
 
-»Es sind genau dieselben Ringe. Den, den ich (jetzt trage,
-besaß Saalborg … den, den die Maße trägt, besaß eine
-Frau, die eins! Saalborg nahestand, wie ich schon einmal
-betonte. S2alborg8 Ungar, Anni und Petersens Verdacht zu
+»Es sind genau dieselben Ringe. Den, den ich jetzt trage,
+besaß Saalborg … den, den die Katze trägt, besaß eine
+Frau, die einst Saalborg nahestand, wie ich schon einmal
+betonte. Saalborgs Trick, Anni und Petersens Verdacht zu
 zerstreuen, war glänzend.«
 
 Die Katze war noch ganz feucht. Sie zitterte. Die Angst
 vor den Panthern steckte ihr noch in den zarten Gliedern.
 Sie hatte ein eigenartig-ansprechendes Gesicht, dieses kleine
 Tier, und sie war überaus zutraulich, als ich ihr nun den
-Strick und das blaue? Band mit dem Ringe abnahm, ihr
-Hell traten rieb und sie dann auf dem Diwan in eine Decke
-hüllte. Sie knurrte behaglich, und Tore ernsten, schwermütigen
+Strick und das blaue Band mit dem Ringe abnahm, ihr
+Fell trocken rieb und sie dann auf dem Diwan in eine Decke
+hüllte. Sie knurrte behaglich, und ihre ernsten, schwermütigen
 Augen, in denen nichts von Falsch war, schlossen sich langsam.
 Sie schlief vor Erschöpfung ein.
 
 Harst saß am Sofatisch mit einer Lupe und prüfte die
-Ringe beim Sein der Petroleumlampe. Elektrisches Licht
+Ringe beim Schein der Petroleumlampe. Elektrisches Licht
 gab es hier nicht. Die Ruine war noch vor sieben Monaten
 unbewohnt gewesen. Erst Petersen hatte sie renovieren lassen
 und sie bescheiden möbliert.
 
-»Stehe den Frie8vorhang vor die Tür …« sagte er gedämpft.
-»Ich habe zwar meine Müßte über das Schlüsselloch
+»Ziehe den Friesvorhang vor die Tür …« sagte er gedämpft.
+»Ich habe zwar meine Mütze über das Schlüsselloch
 gehängt, aber sicher ist sicher …«
 
 Ich tat’s, setzte mich neben ihn auf das billige Plüschsofa.
 
 »Gravierungen …« meinte er und reichte mir die Ringe.
 »Der, den Saalborg besaß, zeigt die Buchstaben G. W. und
-d28 Datum 6. 6. 23. — Der Ring der Katze dagegen V. S.
-und 8. 6. 23. — also Vincent Saalborg. Wenn wir noch
-die Spuren der schmalen, kleinen Glaube mit hohen Absätzen
-als Beweig&mittel hinzufügen — jene Spuren unten am
+das Datum 6.&nbsp;6.&nbsp;23. — Der Ring der Katze dagegen V. S.
+und 6.&nbsp;6.&nbsp;23. — also Vincent Saalborg. Wenn wir noch
+die Spuren der schmalen, kleinen Schuhe mit hohen Absätzen
+als Beweismittel hinzufügen — jene Spuren unten am
 Stacheldrahtzaun, ferner noch diesen Fetzen eines bastseidenen
 <@pagebreak/>
 Rockes aus der Spitze des obersten Drahtes, so sind alle
@@ -623,66 +623,66 @@ Zweifel behoben: Ein Weib, das Saalborg einst geliebt,
 ist hier in der Gegend aufgetaucht und versucht, den Ungetreuen
 für sich zurückzugewinnen. — Arme Anni!«
 
-— »Ja — arme Anni …! — Und wir, Harald, — sollen
+»Ja — arme Anni …! — Und wir, Harald, — sollen
 wir nicht sofort ans Werk gehen und diese »G. W.«, diese
 uns noch Unbekannte, aus dem Felde schlagen?«
 
 Er schob die Ringe unter den Aschbecher.
 
-»Wir sind schon am Werke … Ich habe die StriFleiteram
-Fenster belassen. Saalborg wird den Turm verlassen und wir.
-auch. Er hat Und in den Mosel ein Lächelten getan. Daher
+»Wir sind schon am Werke … Ich habe die Strickleiter am
+Fenster belassen. Saalborg wird den Turm verlassen und wir
+auch. Er hat Anni in den Mosel ein Kügelchen getan. Daher
 ihre Müdigkeit. Sie soll ganz fest schlafen, damit er sich entfernen
 kann.«
 
-»Du hast gute Augen …
+»Du hast gute Augen …«
 
-»Ich rechnete mit dem Zügelten. Er ließ es sehr geschah
+»Ich rechnete mit dem Kügelchen. Er ließ es sehr geschickt
 in Annis Glas fallen — leider. Er ist mir zu sehr wieder
-aufgewacht. Diese Monate ländlichen Einsamkeit hier haben
+aufgewacht. Diese Monate ländlicher Einsamkeit hier haben
 sein Blut vergiftet. Die Liebe zu seiner Frau siegt vorläufig
-noch, aber G. W. wird alles verderben, wenn. wir nicht
+noch, aber G. W. wird alles verderben, wenn wir nicht
 eingreifen.«
 
 Er löschte die Lampe.
 
-»Fische die Schuhe mit Gummisohlen an …« befahl er.
-Der Vollmond warf breite Lichtbahnen durch das Fenster
-Wir bewegten uns lautlos hin und her. Lautlos »Kletterten.
-wir herab in den Park. Die dunkle Trittleiter war am
-
+»Ziehe die Schuhe mit Gummisohlen an …« befahl er.
+Der Vollmond warf breite Lichtbahnen durch das Fenster.
+Wir bewegten uns lautlos hin und her. Lautlos Kletterten
+wir herab in den Park. Die dunkle Strickleiter war am
 verwitterten Mauerwerk kaum zu sehen.
 
-Dann beobachteten wir die beiden westlichen Fenster im —
-zweite! Sie: das Schlafzimmer. Dort brannte nachts Licht.
+Dann beobachteten wir die beiden westlichen Fenster im
+zweiten Stock: das Schlafzimmer. Dort brannte noch Licht.
 Nicht lange. Es erlosch. Das eine Fenster ging auf, ein Tau
 rollte herab, und Saalborg glitt daran abwärts.
 
 Wir folgten ihm. Er ging zur Zaunpforte.
 
 Es war jetzt halb eins.
-Er schloß die Pforte »uf und lehnte sich an den rechten
+
+Er schloß die Pforte auf und lehnte sich an den rechten
 <@pagebreak/>
 Pfeiler, rauchte eine Zigarette und starrte in die dämmerige
+Ferne — dorthin, wo sich die Iserberge aus der Ebene hochtürmten.
 
-Ferne — dorthin, wo sich die Iserberge aus der Glanz Hob.
-türmten.
-
-» Harald rannte mir zu: »Wir trennen Unruhe … Ich nach
-reichte, du nachts links … Wir müssen G. W. vorher abfassen
+Harald rannte mir zu: »Wir trennen uns … Ich nach
+rechts, du nach links … Wir müssen G. W. vorher abfassen
 und eine Zusammenkunft vermeiden.«
 
-… S4 schlüpfte nach links, überkletterte den hohen Zaun
+Ich schlüpfte nach links, überkletterte den hohen Zaun
 und schritt eilends nach Osten zu um den Berg herum, stets die
-
 Umgebung musternd und mich selbst im Schatten der Bäume
 haltend.
 
-… Da war der helle, sandige Feldweg, der vor zehn
+Da war der helle, sandige Feldweg, der vor zehn
 Tagen hier eine so große Rolle gespielt hatte, als wir
-Chanawutu entlarvten …
-Ich duckte mit).
+Chanawutu entlarvten.
+
+Ich duckte mich.
+
 Jemand kam den Weg entlang.
+
 Kam näher …
 
 Es war jedoch nur ein zerlumpter Stromer mit Knotenstock,
@@ -692,30 +692,30 @@ schüttelte den Sand aus seinem Halbschuh und ging weiter.
 Jetzt war er mit mir in einer Höhe. Er war im Mondlicht,
 ich hinter Buschwerk. Nochmals beäugte ich ihn scharf …
 G. W. konnte ja verkleidet sein. Doch nein: das abgerissene,
-bullige Subjekt dort — — echt, zweifellos.
+bucklige Subjekt dort — — echt, zweifellos.
 
-Deines näherte sich dem Zaune. Ich wartete. Der Landstreicher
+Der Weg näherte sich dem Zaune. Ich wartete. Der Landstreicher
 war vorüber. Mit einem Male tauchte Harst vor
 mir auf, sprang weiter in langen Sätzen — — lautlos —
-
-panthergleiH … bekam den Stromer bei der Gurgel, riß
+panthergleich … bekam den Stromer bei der Gurgel, riß
 ihn nieder.
 
-Ich, war schon neben ihm. Der Her! lag auf dem Rücken,
-Harst halb über ihm, Frühe ihm die Kehle zu.
+Ich war schon neben ihm. Der Kerl lag auf dem Rücken,
+Harst halb über ihm, drückte ihm die Kehle zu.
+
 »Einen Knebel!« keuchte er.
 
 Dann schleppten wir den Menschen in die Büsche. Er
 <@pagebreak/>
-wehrte sich nicht. Er saß vor uns im Kasten Grase, und
+wehrte sich nicht. Er saß vor uns im nassen Grase, und
 als Harst ihm Perücke und verwilderten Bart abriß, kam ein
-Bubikopf, dunkles Haar, Herrenschnitt, zum Fackeln.
+Bubikopf, dunkles Haar, Herrenschnitt, zum Vorschein.
 
 Das geschminkte Gesicht mit den künstlichen Falten, die
 künstlich verdickte Nase, die grauen struppigen Augenbrauen:
 Es war trotz allem ein Frauenantlitz.
 
-»Weiter« meinte Harst.
+»Weiter!« meinte Harst.
 
 G. W. mußte mit …
 
@@ -728,38 +728,38 @@ Die Frau, des Knebels ledig, fuhr uns wütend an:
 Wer sind Sie? Was wollen Sie?«
 
 »Spielen Sie nicht den Unschuldsengel!« warnte Harald.
-»Sie sind Ausländerin … Ihr Deutsch Fing! englisch. Wer
-macht? so tadellos verkleidet hier herumschweift, hat …«
+»Sie sind Ausländerin … Ihr Deutsch klingt englisch. Wer
+nachts so tadellos verkleidet hier herumschweift, hat …«
 
 »Wer sind Sie?!« das klang schon milder. Die Frau
-r:witterte uns eingehend. Der Mond beschien uns, und unsere
+musterte uns eingehend. Der Mond beschien uns, und unsere
 Gesichter sind — leider — nur allzu bekannt.
 
-»Akt — wär’s möglich,« rief sie jetzt, und ihre Überraschung
+»Ah — wär’s möglich,« rief sie jetzt, und ihre Überraschung
 war halb Freude. »Sie sind doch Harald Harst —
-— natürlich! Die Nase, die Augen …!! — Herr Harst,
+— natürlich! *Die* Nase, die Augen …!! — Herr Harst,
 Sie haben soeben einen bösen Schnitzer gemacht … Sie
-Menschen doch mit der Detektei Brown & Co., London, dauernd
+stehen doch mit der Detektei Brown & Co., London, dauernd
 in Verbindung. Kennen Sie den Namen Dora Brown?« Sie
-lachte dringend und strich ihr Haar zurück, zog den linken
-Schuh aus, nahm eine Filzsohle’ und unter dieser ein Papier
+lachte klingend und strich ihr Haar zurück, zog den linken
+Schuh aus, nahm eine Filzsohle und unter dieser ein Papier
 heraus.
 
 »Bitte …«
 
 Es war ein Ausweis für die Detektivin Dora Brown,
-Ihn Browns Tochter, von der wir schon übergenug gehört
+John Browns Tochter, von der wir schon übergenug gehört
 hatten.
 
 <@pagebreak/>
-Harald entschuldigte. sich. Das gestempelte Lichtbild des
+Harald entschuldigte sich. Das gestempelte Lichtbild des
 Ausweises genügte ja.
 
-»Das konnten wir leider nicht ahnen, Miß Drang …
+»Das konnten wir leider nicht ahnen, Miß Brown …
 Was tun Sie hier?«
 
-»Ich bin hinter der Hoteldiebin Gussy Wendnoor der,
-die im Baron in London vor sechs Wochen dem Milliardär
+»Ich bin hinter der Hoteldiebin Gussy Wendnoor her,
+die im Savoy in London vor sechs Wochen dem Milliardär
 King 5000 Pfund Sterling stahl, den Spielgewinn einer
 Nacht. Sie werden davon gelesen haben.«
 
@@ -767,20 +767,21 @@ Nacht. Sie werden davon gelesen haben.«
 
 »Diese Gussy Wendnoor, Herr Harst, verfolgte ich zusammen
 mit zwei Angestellten meines Vaters bis Görlitz.
-Dort ging die Spur verloren. Dort las im aber auch in
+Dort ging die Spur verloren. Dort las ich aber auch in
 der Zeitung, daß Saalborg hier auf dem Haubenberg wohnt.
 Da nun die Wendnoor vor Jahren Saalborgs Geliebte und
 Helfershelferin war, haben wir diese Nacht zum ersten Mal
 den Haubenberg beobachtet. Meine beiden Leute liegen übrigens
 drüben hinter dem Heuhaufen … Da sind sie schon …
--» Malcolm, hierher … Ich habe hier Harst und Schraut
+— Malcolm, hierher … Ich habe hier Harst und Schraut
 getroffen …«
 
-Zwei kleine breitshchmultrige Leute in Touristenanzügen
+Zwei kleine breitschultrige Leute in Touristenanzügen
 verbeugten sich vor uns.
 
 »Malcolm und Setter …« stellte Dora Brown vor.
 »Mr. Harst hielt mich für einen echten Landstreicher, und …«
+
 Sie lachte heiter … lachte allzu heiter — und mit
 Recht.
 
@@ -788,108 +789,109 @@ Malcolm und Setter hatten nämlich mit Gummiknütteln
 blitzschnell zugeschlagen, was uns beiden schlecht bekam.
 
 Doras Lachen war der letzte Laut, der mir zum Bewußtsein
-kam, bevor ich Auftritte. — —
+kam, bevor ich umknickte. — —
 
-Wohl selten hat in einem Abenteuer einer Reihe runde
-reßenbarer Zufälle unsere Absichten so stark zu Anfang durchkreuzt
-wie diesmal. Das Ersah verschwor- sich gegen uns
-und Saalborg. Eine Teufelin von kaltblütigster Bereisung,
+Wohl selten hat in einem Abenteuer einer Reihe unberechenbarer
+Zufälle unsere Absichten so stark zu Anfang durchkreuzt
+wie diesmal. Das Schicksal verschwor sich gegen uns
+und Saalborg. Eine Teufelin von kaltblütigster Berechnung,
 <@pagebreak/>
 eine jener Abenteuerinnen ganz großen Stils, wie die neuere
-Z2zit sie nur in wenigen Exemplaren hervorgebracht hat, hatte
-uns den Fehdehandschuh hingeworfen, hatte, gestützt aus
+Zeit sie nur in wenigen Exemplaren hervorgebracht hat, hatte
+uns den Fehdehandschuh hingeworfen, hatte, gestützt auf
 Kenntnisse, die in der Vergangenheit vergraben lagen, den
 Untergang Saalborgs beschlossen und … — doch ich will nicht
-vergreifen.
+vorgreifen.
 
-Sie Sonne brannte siedend heiß in die flache kahle Sandgrube
+Die Sonne brannte siedend heiß in die flache kahle Sandgrube
 hinab.
+
 Als ich zu mir kam, war es genau zwölf Uhr mittags.
-35H fühlte sofort, daß nicht lediglich der Hieb mit dem
-Gummiknüttel mich außer Gefecht gesetzt hatte. Diele Übelkeit
-und Gegenteil in! Halse waren die Folgen von Chloroform.
+Ich fühlte sofort, daß nicht lediglich der Hieb mit dem
+Gummiknüttel mich außer Gefecht gesetzt hatte. Diese Übelkeit
+und Trockenheit im Halse waren die Folgen von Chloroform.
 
 Harst lag drei Schritt weiter, den Kopf auf einem zerrissenen
-Bastkorb, das Gesicht durch; einen einsamenWeidenbusch
+Bastkorb, das Gesicht durch einen einsamen Weidenbusch
 vor der Sonne geschützt.
 
-Als ich genauer krallte, sah ich, daß er die Augen
-offen hatte. Wir war sehr, sehr schlecht und schwindelig.
+Als ich genauer hinblickte, sah ich, daß er die Augen
+offen hatte. Mir war sehr, sehr schlecht und schwindelig.
 
-»Harald …!« …
+»Harald …!«
 
 »Ja, du wünschest?«—«
 
-»Bild du schon lange bei Bewußtsein?«
-»Zwei Stunden.«
-»Deine Laune scheint der Hitze angepaßt,« und ich kroch
+»Bist du schon lange bei Bewußtsein?«
 
-zu ihm hinter den Strauch, was meinen Magen abermals um
-krempelte.
+»Zwei Stunden.«
+
+»Deine Laune scheint der Hitze angepaßt,« und ich kroch
+zu ihm hinter den Strauch, was meinen Magen abermals umkrempelte.
 
 »Meine Laune ist dem angepaßt, was auf dem Haubenberg
 vorgeht, mein Alter, ganz abgesehen von der Blamage, daß
 Gussy Wendnoor uns böse hineingelegt hat. Der übergroße
 Schuß Menschenliebe in unserem Blut läßt uns immer wieder
-böse Nadenjäjläge erhalten. Wir trauen den Menschen und
+böse Nackenschläge erhalten. Wir trauen den Menschen und
 gestempelten Ausweisen noch immer zu sehr.«
 
-»Was gebt denn in der Ruine vor?«
+»Was geht denn in der Ruine vor?«
 
 »Das Polizeiauto mit dem uns bereits bekannten Kommissar
 Göbbel, dem Untersuchungsrichter und drei Beamten
 <@pagebreak/>
 fuhr vor zehn Minuten vor der Pforte vor. Ich hätte hier
 nur noch fünf Minuten auf dein Erwachen gewartet, dann
-hätte ich dich auf. den Rücken genommen und wäre hinübergegangen.«
+hätte ich dich auf den Rücken genommen und wäre hinübergegangen.«
 
-Wir war noch) immer sehr schlecht.
+Mir war noch immer sehr schlecht.
 
 »Polizeiauto?« fragte ich …
 
-»Ja — dasselbe, das im Fall Chanawutu Göbbel anpochte
+»Ja — dasselbe, das im Fall Chanawutu Göbbel aus
 herüberbrachte.«
 
 »Aber — was will die Polizei bei Saalborg …?!«
 
-»I9 »fürchte, das Unheil ist schon hereingebrothen, mein
-Alter …
+»Ich fürchte, das Unheil ist schon hereingebrochen, mein
+Alter …«
 
 »Du meinst, Saalborg könnte … schon rückfällig geworden
-sein?!« rief im ganz entsetzt.
+sein?!« rief ich ganz entsetzt.
 
-»Ja. Ich fürchte. Wir »werden ja sehr bald Bescheid wissen.
-Komm’, recht stütze dich …
+»Ja. Ich fürchte. Wir werden ja sehr bald Bescheid wissen.
+Komm’, ich stütze dich …«
 
-Aber ich Hatte keine Hilfe mehr nötig. Der Ihre war
+Aber ich Hatte keine Hilfe mehr nötig. Der Schreck war
 mir so tief in die Glieder gefahren, daß Magen und Kopf
-sich auf ihre reguläre Pflicht besannen. Nur. die Beine
-zitterten mir anfänglihß noch ganz wenig. Wir erreichten
+sich auf ihre reguläre Pflicht besannen. Nur die Beine
+zitterten mir anfänglich noch ganz wenig. Wir erreichten
 die Zaunpforte. Das Auto war leer. An der Pforte lehnte
 ein fremdes Gesicht, musterte uns mit kalten Polizeiaugen
 und fragte grob:
 
 »Wer sind Sie?« — Es gibt leider gerade unter dem
-jungen BeamtennaHhwuch8 immer noch vereinzeltes Unkraut.
+jungen Beamtennachwuchs immer noch vereinzeltes Unkraut.
 Dieser anmaßende Kriminalassistent kam hier an den Richtigen.
 Wahrscheinlich hat er nie wieder in seinem Leben eine so
 wirkungsvolle Anstandsstunde durchgemacht wie damals. Harst
-als ’Anstands8lchrer … — na, der junge Herr wurde blaß,
+als Anstandslehrer … — na, der junge Herr wurde blaß,
 wurde rot. Und dabei sprach mein guter Harald mit ausgesuchter
 Höflichkeit, allerdings derart durchtränkt mit Ironie
 und derart herablassend, daß dieser Jüngling sich nicht nur
-wortreich) entschuldigte, sondern in verlegenem Redeschwall
+wortreich entschuldigte, sondern in verlegenem Redeschwall
 sofort alles uns mitteilte, was uns zu wissen nottat.
 
-In der verflossenen Nacht war im nahen Trinkbade Flink«
-Berg am Isergebirge in der Villa des Grafen Unscharf, dem bekanntlich
+In der verflossenen Nacht war im nahen Trinkbade Flinsberg
+am Isergebirge in der Villa des Grafen Rasezock, dem bekanntlich
 <@pagebreak/>
-große Teile des Riesengebirges gesäten, eingebrochen
+große Teile des Riesengebirges gehören, eingebrochen
 worden. Die Diebe hatten aus einem geheimen Wandtresor
 nicht nur eine erhebliche Summe Bargeld, sondern auch verschiedene
-alte Schmucksachen geraubt. Der Einbruch war.
+alte Schmucksachen geraubt. Der Einbruch war
 morgens um sieben von dem Hauswart bemerkt worden.
-Der Graf hatte sofort nach Görlitz der Polizei telephoniter?…
+Der Graf hatte sofort nach Görlitz der Polizei telephoniert,
 und kurz nach diesem Anruf war ein zweiter erfolgt durch
 einen englischen Detektiv Malcolm, der dem Kriminalkommissar
 Göbbel wichtige Angaben über nächtliche Beobachtungen
@@ -900,58 +902,58 @@ Malcolm war jetzt mit oben im Turme.
 
 Wir eilten den Berg hinan; Harst sagte nur:
 
-»Das ist natürlich Unsinn! Saalborg bat den Diebstahl
+»Das ist natürlich Unsinn! Saalborg hat den Diebstahl
 nie begangen. Wir werden die Herren unschwer davon
-überzeugen. Wichtiger … all 8 dies erscheint mir, daß
-Valparaiso in der Tat John Browns Leute aus London hier in.
+überzeugen. Wichtiger als dies erscheint mir, daß
+also in der Tat John Browns Leute aus London hier in
 der Gegend an der Arbeit sind.«
 
 Vor dem Turme war niemand zu sehen. Wir bogen links
-ab. Unsere Stillster hing von genau so aus dem Fenster
+ab. Unsere Strickleiter hing noch genau so aus dem Fenster
 bis unten wie nachts. Wir turnten empor. In unserem Zimmer
-schien auf den ersten Bis ebenfalls alles in Ordnung. Mir
-»uf den ersten Blick. Die Tür war noch verschlossen, der
-Vorhang zugezogen. Aber — — die Katze fehlte, chemisch
+schien auf den ersten Blick ebenfalls alles in Ordnung. Nur
+auf den ersten Blick. Die Tür war noch verschlossen, der
+Vorhang zugezogen. Aber — — die Katze fehlte, ebenso
 die beiden Ringe.
 
 Harald äußerte sich dazu nicht. Zu meinem Erstaunen
-holte er sein Rasierzeug vor …
+holte *er* sein Rasierzeug vor …
 
-»Mache gleichfalls Toilette … Beeile dich …
+»Mache gleichfalls Toilette … Beeile dich …«
 
 In fünf Minuten waren wir rasiert, gewaschen und hatten
 unsere leichten graubraunen Flanellanzüge an.
 
-»Glaubst du, daß man annimmt wir schlafen noch?’«
+»Glaubst du, daß man annimmt wir schlafen noch?«
 meinte ich.
 
-»Wir werden ja sehen … Wollen »abwarten, mein Alter.«
+»Wir werden ja sehen … Wollen abwarten, mein Alter.«
 
 Es klopfte schon — sehr kräftig …
 
 <@pagebreak/>
-»Hallo — — Harst!t«
+»Hallo — — Harst!!«
 
-Das war Doktor Petersen. -.
+Das war Doktor Petersen.
 
 Ich öffnete. Der alte Herr trat ein, blaß, verstört …
 
-— »Ich … ich … soll Sie … hinabbitten,« ade er »matt.
-»Ein großes Unglück, meine lieben Freunde …
+»Ich … ich … soll Sie … hinabbitten,« sagte er matt.
+»Ein großes Unglück, meine lieben Freunde …«
 
-Er. Schuhe, hüstelte …
+Er Schluckte, hüstelte …
 
 »Saalborg, der … der Elende, hat in der verflossenen
 Nacht in Flinsberg einen … einen Einbruch verübt …
 Meine arme Anni liegt unten im Weinkrampf …«
 
-Harst drückte hm die Hand. »Saalborg ist unschuldig,
-Herr Doktor! Bestimmt«
+Harst drückte ihm die Hand. »Saalborg ist unschuldig,
+Herr Doktor! Bestimmt!«
 
 Der alte Herr schüttelte trübe den Kopf.
 
-… »Leider ist er … schuldig! Er hat den Diebstahl bereits
-eingestanden.« …
+»Leider ist er … schuldig! Er hat den Diebstahl bereits
+eingestanden.«
 
 Harald — selbst Harst war sprachlos.
 
@@ -959,11 +961,12 @@ Harald — selbst Harst war sprachlos.
 Herr Doktor … Und beruhigen Sie Frau Anni … Sagen
 Sie ihr, ich stehe dafür ein, daß Vincent schuldlos ist und
 daß hier nur besondere Umstände mitspielen, die ihn zu
-einen! unrichtigen Geständnis verleiteten.«
+einem unrichtigen Geständnis verleiteten.«
 
 <@pagebreak/>
-zk. Kapitel.
-Verworrene Fäden.
+
+<h2>4. Kapitel.</h2>
+<h3>Verworrene Fäden.</h3>
 
 In Petersens großer Studierstube im Erdgeschoß tagte das
 Tribunal.
@@ -1113,12 +1116,12 @@ meinte: »Sie beide haben doch by? jetzt geschlafen … Ihre
 Bekundungen können sich also nur auf den gestrigen Abend
 beziehen …«
 
-Ich merkte nun: die Trittleiter war niemandem auf«
-»Gefallen!
+Ich merkte nun: die Trittleiter war niemandem auf-
+Gefallen!
 — Ein Blick zu Saalborgy hin …
 
 Der schaute Harst fest an. In seinen Augen lag ein
-eindrud3volle8 Warnen, ein halber Befehl, fast Drohung. Sieg
+eindrucksvolles Warnen, ein halber Befehl, fast Drohung. Sieg
 bunte nur der Katze und den Ringen gelten, die dieser gar
 nicht erwähnt worden waren.
 
@@ -1513,7 +1516,7 @@ Er verließ das Zimmer. Als ich noch einen langen Blick
 auf den bewußten Mauerpfeiler warf, winkte er mir von
 der Vorhalle aus ungeduldig zu. Ich folgte ihm. — Die Boys
 Falle hatte rechts und links eine Tür. Im Hintergrund lag
-die Treppe, die zunächst gerade emporaing und sich dann als
+die Treppe, die zunächst gerade emporging und sich dann als
 Wendeltreppe nach beiden Seiten teilte. Sie war aus sehr
 starkem Eichenholz hergestellt — mit dicken CiZenstätzzen
 voll kunstvoller Schnitzerei. Ein billiger dunkelroter Kokos«
@@ -1598,11 +1601,11 @@ Sprünge bis zur Treppe nicht in Anspruch genommen.
 Anderseits konnte die Frau, falls sie plötzlich ihren Rückzug
 beschleunigt hatte, niemals in dieser knappen Zeitspanne die
 Stopp? schon vollends erstiegen haben, außerdem hatte ich im
-VBorwärtsspringen auch nachts ihren schillernden dunklen Brokatrock
+Vorwärtsspringen auch nachts ihren schillernden dunklen Brokatrock
 trotz der Dämmerung im Bereich) der Treppe gesehen —
 — gesehen, und dennoch ins Leere gegriffen. —
 
-Wo, wie gab’s eine Erklärung hierfür? — Eine Sinnes«-
+Wo, wie gab’s eine Erklärung hierfür? — Eine Sinnes-
 Täuschung? — Niemals!! Ich leide nicht an Halluzinationen.
 Ich habe sehr gute Nerven, und auf mein Hirn ist gesund.
 
@@ -2008,7 +2011,7 @@ Dora Brown wandte sich an Göbbeol.
 sind dafür anständig. Weiter überreiche ich Ihnen hier eine
 von mir angefertigte Photographie der Radspuren an der
 Linde. Chausseearbeiter sind dort mit der Ausbesserung des
-Eommerweges8 beschäftigt. Ich wollte die Spuren auf diese
+Sommerweges beschäftigt. Ich wollte die Spuren auf diese
 Weise im Bilde erhalten.«
 
 Der gute Göbbel war sehr verlegen. Er hatte genau wie
@@ -2411,7 +2414,7 @@ durch ihn etwas, das noch stärker wog als der Zettel: Zwei
 Schlangenringe, die ich in einem Koffer mit Doppelboden entdeckte,
 weil — —!ich dann suchte …«
 
-Echt verschmittes Lächeln, mit dem er mich nun anschaute,
+Echt verschmitztes Lächeln, mit dem er mich nun anschaute,
 Zwang mich zu der gereizten Bemerkung:
 
 <@pagebreak/>
@@ -2443,7 +2446,7 @@ Speckeierkuchen einrührte, wiederholt dorthin blickte, wo das
 Phantom mir zum ersten Male erschienen: eine begreifliche
 Einöde!l
 
-Gerade als ich mein Eiergediht auf der Pfanne hatte,
+Gerade als ich mein Eiergedicht auf der Pfanne hatte,
 kam Frau Anni …
 
 »Guten Abend, lieber Herr Schraut …
