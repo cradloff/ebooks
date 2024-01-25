@@ -884,7 +884,7 @@ wortreich entschuldigte, sondern in verlegenem Redeschwall
 sofort alles uns mitteilte, was uns zu wissen nottat.
 
 In der verflossenen Nacht war im nahen Trinkbade Flinsberg
-am Isergebirge in der Villa des Grafen Rasezock, dem bekanntlich
+am Isergebirge in der Villa des Grafen Rasczock, dem bekanntlich
 <@pagebreak/>
 große Teile des Riesengebirges gehören, eingebrochen
 worden. Die Diebe hatten aus einem geheimen Wandtresor
@@ -972,9 +972,9 @@ In Petersens großer Studierstube im Erdgeschoß tagte das
 Tribunal.
 
 Der Angeschuldigte saß am Mittelfenster in des Doktors
-hochlehnigen Klubsessel, ein indesinierbare3 Lächeln um die
+hochlehnigem Klubsessel, ein indefinierbares Lächeln um die
 Lippen, völlig kaltschnäuzig, sogar etwas anmaßend in dieser
-nachlässigen Haltung mit übereinander geschlagenen Beinen …
+nachlässigen Haltung mit übereinander geschlagenen Beinen.
 
 Schräg vor ihm ein Tisch, hinter dem der Untersuchungsrichter
 und Göbbel Platz genommen hatten. Auf dem Sofa
@@ -983,34 +983,35 @@ ein stämmiger Herr mit typisch englischem Bulldoggengesicht:
 Mr. Malcolm.
 
 Als wir eingetreten waren, wies der Amtsrichter, übrigens
-ein sehr gewandter Jurist, nach kurzer Begrüßung auf.
-zwei Stühle neben dem Tisch. —
+ein sehr gewandter Jurist, nach kurzer Begrüßung auf
+zwei Stühle neben dem Tisch.
 
 Harald ging jedoch auf Saalborg zu, reichte ihm die
 Hand und meinte warm:
 
-»Was machen Sie da für Dummheiten, Verehrtester …
-Sie sollen etwas eingestanden haben, das …
+»Was machen Sie da für Dummheiten, Verehrtester …!
+Sie sollen etwas eingestanden haben, das …«
 
-»Herr Harst!! Der Amtsrichter wurde dienstlich. »Ich
+»Herr Harst!!« Der Amtsrichter wurde dienstlich. »Ich
 muß Sie und Ihren Freund dringend ersuchen, sich hier lediglich
 als Zeugen zu betrachten …« Wieder deutete er auf die
 Stühle.
 
 <@pagebreak/>
-»Alter Freund, mir werden Sie doch nichts vormachen
-vollen!«
+»Alter Freund, *mir* werden Sie doch nichts vormachen
+wollen!«
 
 Dann setzten wir uns.
 
-Der Amtsrichter spielte etwas nervös mit seinem Bleistift.«
+Der Amtsrichter spielte etwas nervös mit seinem Bleistift.
 Vor ihm lagen ein paar Bogen Kanzleipapier.
 
 »Herr Harst, Doktor Petersen hat Ihnen wohl bereits …«
+
 »Ja, wir sind im Bilde. Einzelheiten fehlen uns. Und
 auf die kommt es an.«
 
-» »Sie sind Zeuge, Herr Harst … Im Falle Chanawutu
+»Sie sind Zeuge, Herr Harst … Im Falle Chanawutu
 haben Sie sehr eigenmächtig nach Ihrer Methode gearbeitet.
 Ich möchte die Behörde nicht ein zweites Mal beiseiteschieben
 lassen.«
@@ -1024,54 +1025,53 @@ lassen.«
 »Allerdings, vollkommen klar. — Ich werde Ihnen Saalborgs
 Geständnis vorlesen:
 
-Ich gebe zu, daß mir dieses beschauliche Leben hier
+> Ich gebe zu, daß mir dieses beschauliche Leben hier
 seit langem nicht mehr behagte. Ich bin an starke Erregungen
 gewöhnt. Diese fehlten mir hier. Als Onkel Petersen, meine
 Frau und ich letztens zweimal in Flinsberg waren — wir
 fuhren im Mietauto hinüber, besichtigten wir zu die
-Häßliche Villa des Grafen Unscharf. Der Hauswart führte
-uns herum. Es gibt tot eine Menge Raritäten, die den
-Fremden zugänglich gemacht werden sollen. Im Schlafs.
-Zimmer der Gräfin — die Möbel stammen aus einem
-Schlosse Wallensteins — bemerkte icm hinter einem schief
+stattliche Villa des Grafen Rasczock. Der Hauswart führte
+uns herum. Es gibt dort eine Menge Raritäten, die den
+Fremden zugänglich gemacht werden sollen. Im Schlafzimmer
+der Gräfin — die Möbel stammen aus einem
+Schlosse Wallensteins — bemerkte ich hinter einem schief
 Hängenden Porträt die seine Umrißlinie einer Tresortür
 in der gepreßten Ledertapete. Dies wurde mir verhängnisvoll.
 In der verflossenen Nacht gegen ein Uhr —
 meiner Frau hatte ich ein Schlafmittel in den abendlichen
 Moselwein gemischt — radelte ich mit dem Rade
 meines Onkels in schnellstem Tempo nach Flinsberg, wo
-gerade in den Bergen ein Gewitter sie« verfangen hatte.
-Die gräfliche Familie befand sich rosa« im Kurhaus bei
+gerade in den Bergen ein Gewitter sich verfangen hatte.
+Die gräfliche Familie befand sich noch im Kurhaus bei
 <@pagebreak/>
 einem Wohltätigkeitsfest. Der Einbruch gelang mühelos mit
 Hilfe einer Leiter. Die Beute habe ich versteckt. Ich
 weigere mich, sie herauszugeben.«
 
-Der Amtsrichter Wüste uns triumphierend an und nahm
+Der Amtsrichter blickte uns triumphierend an und nahm
 einen zweiten Bogen zur Hand.
 
-»Aussage des Londoner Detektw3 Harry Malcolm, Angestellter
+»Aussage des Londoner Detektivs Harry Malcolm, Angestellter
 des Mr. John Brown, London.
 
-Mr. Brown hatte seine Tochter Dora, meinen Kollegen
-Bretter und mich beauftragt, die internationale Hoteldiebin
-Gussy Wendnoor, die im Baron in London vor drei Wochen
+> Mr. Brown hatte seine Tochter Dora, meinen Kollegen
+Setter und mich beauftragt, die internationale Hoteldiebin
+Gussy Wendnoor, die im Savoy in London vor drei Wochen
 Mr. King aus Neuyork bestohlen, zu verfolgen. Wir
 blieben ihr bis Görlitz auf der Spur. Da wir dort erfuhren,
-daß Vincent Saalborg, ihr früherer Gesichter, jetzt hier auf
-dem Haubenberg wohnte, haben wir uns in dem Glättete:t
-
+daß Vincent Saalborg, ihr früherer Geliebter, jetzt hier auf
+dem Haubenberg wohnte, haben wir uns in dem Städtchen
 Friedeberg einquartiert und den Haubenberg nachts beobachtet,
 da wir erwarteten, die Wendnoor würde sich mit
 Saalborg ein Stelldichein geben. In der verflossenen Nacht
-gegen 15,2 morgens sah ich Saalborg mit einem Rade auf
-dem Radweg, der zur Chaussee führt. Er fuhr sehr!Groll
-Ich konnte ihm nicht folgen, blieb aber auf der Schnur.:e
-Kurz nach ¼ morgens kehrte er aus der Richtung Trick.-c«
-Berg—Flinsberg zurück. Ich selbst begab mich dann 1:’ch)
-Friedeberg. Morgens alt Uhr erzählte mir meine dortige
-Wirtin von dem Einbruch in Flinsberg, den ihr der Not!-
-Bote mitgeteilt hatte. Ich telephonierte daraufhin nach Görlitz
+gegen ¼2 morgens sah ich Saalborg mit einem Rade auf
+dem Radweg, der zur Chaussee führt. Er fuhr sehr schnell.
+Ich konnte ihm nicht folgen, blieb aber auf der Chaussee.
+Kurz nach ¼4 morgens kehrte er aus der Richtung Friedeberg—Flinsberg
+zurück. Ich selbst begab mich dann nach
+Friedeberg. Morgens acht Uhr erzählte mir meine dortige
+Wirtin von dem Einbruch in Flinsberg, den ihr der Postbote
+mitgeteilt hatte. Ich telephonierte daraufhin nach Görlitz
 an Kommissar Göbbel, mit dem wir bereits bekannt geworden
 waren.«
 
@@ -1081,57 +1081,57 @@ war. Harald hat sich durch seine Eigenmächtigkeit
 schon so manchen zum Feinde gemacht, und nicht alle Behörden
 sind so großzügig wie das Berliner Präsidium. —
 
-… Er nahm Bogen Nee …
+Er nahm Bogen Nr. 3 …
 
-»Aussage des Doktor Petersen
+»Aussage des Doktor Petersen …
 
-».». Wir fiel auf, daß meine Nichte gestern abend
+> »… Mir fiel auf, daß meine Nichte gestern abend
 <@pagebreak/>
 plötzlich sehr müde wurde. Wir haben im Speisezimmer mit
-unseren Gästen Harst und Tischrand Weoselwein getrunken.
+unseren Gästen Harst und Schraut Moselwein getrunken.
 Es ist sehr wahrscheinlich, daß Saalborg meiner Nichte etwas
 In den Wein getan hat. Im übrigen habe ich nachts nichts
-Auffällige? mehr bemerkt.«
+Auffälliges mehr bemerkt.«
 
 »Von einer Vernehmung Frau Anni Saalborgs habe ich
 vorläufig absehen müssen, da sie durch die Vorgänge hier
-einen völligen Nervenzusammenbruch erlitt,« fügte der Aufgerichtet
+einen völligen Nervenzusammenbruch erlitt,« fügte der Amtsrichter
 hinzu. »Es ist nun an Ihnen, Herr Harst, etwaige
-Wahrneßiungen zu Protokoll zu geben.«
+Wahrnehmungen zu Protokoll zu geben.«
 
 »Oh, das würde ein stundenlanges Diktieren werden, Herr
 Amtsrichter. Ich denke, wir ersparen uns das.«
 
 »Stundenlang?! Haben Sie denn so viel auszusagen?«
-fragte der Richter jetzt genau so verbindlich, wie Harst gesprocx«
-en hatte.
+fragte der Richter jetzt genau so verbindlich, wie Harst gesprochen
+hatte.
 
 »Ja — stundenlang, da ich Dinge mit anführen müßte,
-die im Protokoll nur Welt bei größter Genauigkeit haben.«
+die im Protokoll nur Wert bei größter Genauigkeit haben.«
 
 »Das ist ja außerordentlich interessant …«
 
-Auch Göbbel, ein sehr seiner »Kopf, beugte sich vor und
-meinte: »Sie beide haben doch by? jetzt geschlafen … Ihre
+Auch Göbbel, ein sehr feiner Kopf, beugte sich vor und
+meinte: »Sie beide haben doch bis jetzt geschlafen … Ihre
 Bekundungen können sich also nur auf den gestrigen Abend
 beziehen …«
 
-Ich merkte nun: die Trittleiter war niemandem auf-
-Gefallen!
-— Ein Blick zu Saalborgy hin …
+Ich merkte nun: die Trittleiter war niemandem aufgefallen!
+
+Ein Blick zu Saalborg hin …
 
 Der schaute Harst fest an. In seinen Augen lag ein
-eindrucksvolles Warnen, ein halber Befehl, fast Drohung. Sieg
-bunte nur der Katze und den Ringen gelten, die dieser gar
+eindrucksvolles Warnen, ein halber Befehl, fast Drohung. Dies
+konnte nur der Katze und den Ringen gelten, die bisher gar
 nicht erwähnt worden waren.
 
-Harald Kiste Saalborg leicht zu und wandte sich wieder
-»cm den Richter.
+Harald nickte Saalborg leicht zu und wandte sich wieder
+an den Richter.
 
 »Würden Sie Schraut und mir eine kurze Unterredung
-nun Saalborg gestatten? Ich hoffe, daß Saalborg hiernach
-gen Geständnis zum Teil zurücknehme, zum Teil ergänzen
-mit.«
+mit Saalborg gestatten? Ich hoffe, daß Saalborg hiernach
+sein Geständnis zum Teil zurücknehmen, zum Teil ergänzen
+wird.«
 
 <@pagebreak/>
 Der Amtsrichter zauderte. Göbbel flüsterte ihm schnell
@@ -1141,95 +1141,95 @@ etwas zu.
 »Sie garantieren mir aber dafür, daß Saalborg keinen Fluchtversuch
 macht.«
 
-Aus des Angeschuldigten Sessel erklang ein belastetes
-Lachen. »Wenn ich hatte fliehen wollen, wäre im ritt mehr
-»hier … — He weigere mich im übrigen, Herrn Harst Rede
-und Antwort zu sicher.«
+Aus des Angeschuldigten Sessel erklang ein belustigtes
+Lachen. »Wenn ich hätte fliehen wollen, wäre ich nicht mehr
+hier … — Ich weigere mich im übrigen, Herrn Harst Rede
+und Antwort zu stehen.«
 
-Harald flüsterte den Kap]. »Saalborg — und Ihra
-Traue!«
+Harald schüttelte den Kopf. »Saalborg — und Ihre
+Frau?!«
 
-Kniende ironisches Gelassen verschwand sah. Er preßte
+Vincents ironisches Grinsen verschwand jäh. Er preßte
 die Lippen fest zusammen, schloß einen Moment die Augen
 und holte tief Atem.
 
 Dann erwiderte er leise: »Es ist nun ja doch alles aus!
-Alles …!!« …
+Alles …!!«
 
 Und das war ein Ton, der ans Herz griff … Die
-ganze Zerrisjenheit seiner Seele offenbarte sich in diesem einen
-Satz …
+ganze Zerrissenheit seiner Seele offenbarte sich in diesem einen
+Satz.
 
 »Saalborg …« — und Harst ging zu ihm, beugte sich
-über ihn … Du
+über ihn …
 
 Da rief der Amtsrichter gereizt: »Bitte, keine leisen
 Gespräche!! Saalborg lehnt Ihre Einmischung ab. Nehmen
 Sie wieder Platz, Herr Harst …«
 
-»Gern …« Harald richtete Sir) auf. Um seine Mundwinkel
-sagte es. »Herr Amtsrichter, — also dann das Protokoll
-… Das verlangt nun mal Sankt Büurokratismus?
+»Gern …« Harald richtete sich auf. Um seine Mundwinkel
+zuckte es. »Herr Amtsrichter, — also dann das Protokoll
+… Das verlangt nun mal Sankt Bürokratismus!
 Darf ich diktieren …«
 
 Göbbel griff zur Feder.
 
 Harst begann:
 
-»Harald Harst, geboren 8. 8. 88 in Berlin als Sohn des
-Zimmer« und Maurermeister Seemann Harst, Gerichtsassessor
-a. D., Doktor beider Rechte, wohnhaft Berlins
-
-Schmargendorf, Vlücersjtrage 10, nicht. vorbestraft, bekunde
+»Harald Harst, geboren 8.&nbsp;8.&nbsp;88 in Berlin als Sohn des
+Zimmer- und Maurermeister Hermann Harst, Gerichtsassessor
+a.&nbsp;D., Doktor beider Rechte, wohnhaft Berlin-Schmargendorf,
+Blücherstraße 10, nicht vorbestraft, bekunde
 zur Sache:
 
 <@pagebreak/>
-1\. Saalborg ist nicht der Radler gewesen, den Mitte?
-… Harry Wäldern beobachtete.«
 
-Malcolm sprang auf. »Er war’s! Er war’s so bei
+1\. Saalborg ist nicht der Radler gewesen, den Mister
+Harry Malcolm beobachtete.«
 
-stimmt, daß ich’s jederzeit beeiden könnte …
+Malcolm sprang auf. »Er war’s! Er war’s so bestimmt,
+daß ich’s jederzeit beeiden könnte …«
+
 Wir alle schauten den Engländer an.
 
 Niemand achtete auf Saalborg …
 
 Dann schrie Malcolm noch lauter:
 
-»Er — — ist weg?! Der Sessel ist leer!!? Ihm nach …! Er
+»Er — — ist weg!! Der Sessel ist leer!! Ihm nach …! Er
 wird durch das linke offene Fenster hinausgesprungen sein …!«
 
 Und er war mit einem Satz draußen — ihm folgten
 Göbbel und der Assistent.
 
-Der Amtsrichter zwar blaurot geworden.
+Der Amtsrichter war blaurot geworden.
 
-»Herr Harst, daran sind Sie schuld — Sie ablehnt«
+»Herr Harst, daran sind Sie schuld — Sie allein!!«
 
-— « »Möglich. Aber — sollte ich? das Protokoll anderes als
-mit einer unumstößlichen Tatsache beginnen?!« …
+»Möglich. Aber — sollte ich das Protokoll anderes als
+mit einer unumstößlichen Tatsache beginnen?!«
 
-… Er ging zum Fenster und lehnte sich hinaus, wandte sich
-wieder ins Zimmer zurück und sagte achselzuckend: »Her«
+Er ging zum Fenster und lehnte sich hinaus, wandte sich
+wieder ins Zimmer zurück und sagte achselzuckend: »Herr
 Amtsrichter, Sie werden aus diesem Fall viel lernen. Hinter
 mir liegen Zwölf Jahre wechselvollster Kriminalerfahrungen.
 Diese Geschichte hier begreife ich auch nicht.«
 
-»Na zog meinte der junge Richter kühl »Ich begreife
-sie …
+»Na also!!« meinte der junge Richter kühl. »*Ich* begreife
+sie …«
 
-»So?! So?! — Wir wollen nach Flinsberg fahren,
-Dort im Schlafzimmer der Frau Gräfin liefere ins Ihnen
-die Beweise, daß Gussy9. Wendnoor oder einer ihrer Kumpane
+»So?! So?! — Wir wollen nach Flinsberg fahren.
+Dort im Schlafzimmer der Frau Gräfin liefere ich Ihnen
+die Beweise, daß Gussy Wendnoor oder einer ihrer Kumpane
 den Diebstahl begingen.«
 
 »Bedauere … Erst muß Saalborg ergriffen werden,«
 rief der Richter noch gereizter.
 
-»Saoclborg?! Den werden Sie nie finden — nie!«
+»Saalborg?! Den werden Sie nie finden — nie!«
 
 Und er setzte sich wieder und steckte sich eine Mirakulum
-an, bot aus mir eine an.
+an, bot auch mir eine an.
 
 Der Amtsrichter verließ das Zimmer.
 
@@ -1241,40 +1241,39 @@ Der Amtsrichter verließ das Zimmer.
 Ich habe meine Gedanken und Empfindungen bei diesen
 vorausgegangenen Szenen absichtlich nicht einmal angedeutet.
 Sie waren auch zu kompliziert, um sie mit ein paar Worten
-abzutun. Harst war mir im Grunde Oman so unverständlich
-wie Saalborg, am unverständlichsten aber Saalborgs gespenskergleiche8
+abzutun. Harst war mir im Grunde genau so unverständlich
+wie Saalborg, am unverständlichsten aber Saalborgs gespenstergleiches
 Verschwinden. Niemals war er durch das Fenster
 entwichen. Das war schon deshalb unmöglich, weil sich
-zwischen den drei Fenstern des Zimmers dir?, vorspringende
-Mauerpfeiler befanden. Saalborg hätte sich allein umdonnert
-aus dem Sessel erheben, um den einen Bretter herumz3e2ben
+zwischen den drei Fenstern des Zimmers dicke, vorspringende
+Mauerpfeiler befanden. Saalborg hätte sich also unbemerkt
+aus dem Sessel erheben, um den einen Pfeiler herumgehen
 und zum Fenster hinausspringen müssen — — ausgeschlossen!
 Bei diesem grellen Tageslicht hier im Zimmer konnte niemand
-jene Schritte tun, ohne aufzufallen. Wo war er also geblieben
-?!
+sechs Schritte tun, ohne aufzufallen. Wo war er also geblieben?!
 
-Harald. neben mir auf dem schlichten Rohrstuhl blies
-ein paar Rauchringe. »Es ist drück&enck heiß,« sagte er dann,
+Harald neben mir auf dem schlichten Rohrstuhl blies
+ein paar Rauchringe. »Es ist drückend heiß,« sagte er dann.
 »Das entschuldigt viel. Die Herren sind nervös, überreizt und
 erschöpft. Saalborg war ganz frisch. Glaubst du, daß er
 mit seiner kaum geheilten Lunge bis Flinsberg bergauf
 radeln kann?«
 
-»Rein …!«
+»Nein …!«
 
 »Nun also. Das wäre das eine. Dann das andere: Glaubst
-du, er, der Meister der Verkleidung, wäre unmaskiert nach,
-Flinsberg zu sollen Unternehmen geradelt?«
+du, er, der Meister der Verkleidung, wäre unmaskiert nach
+Flinsberg zu solchen Unternehmen geradelt?«
 
 »Nein …!«
 
 »Nun also. — Und doch: Weshalb sein Geständnis?!
 Dies könnten wir erst beurteilen, wenn wir genau den Hergang
 <@pagebreak/>
-seiner!!Vernehmung wüßten. — Wedshalb floh er? — Genau
-so dunkel …
+seiner Vernehmung wüßten. — Weshalb floh er? — Genau
+so dunkel …«
 
-»Dunkler von: Wie floh er?«
+»Dunkler noch: Wie floh er?«
 
 Er schaute mich von der Seite an. »Scherzest du?«
 
@@ -1282,65 +1281,66 @@ Er schaute mich von der Seite an. »Scherzest du?«
 
 »Du weißt nicht, wie er verschwand?«
 
-»Mein.«-
+»Nein.«
 
-»Nun, er ist von da — noch immer …« Und er
-deutete auf den leeren Sessel …
+»Nun, er ist noch da — noch immer …« Und er
+deutete auf den leeren Sessel.
 
 Dann rief er halblaut, indem er sich vorbeugte: »Wir
-werden Sie nicht verraten … Wünschen Sie mochte etwas
+werden Sie nicht verraten … Wünschen Sie noch etwas
 Besonderes? Können wir jetzt gleich etwas für Sie tun?«
+
 Ich war sprachlos, Was sollte dies?!
 
 Ich wurde noch sprachloser. — Das Zimmer war neu
-tapeziert worden. Die Tapete war eine Paneelimitatior und
+tapeziert worden. Die Tapete war eine Paneelimitation und
 reichte etwa zwei Meter hoch. Darüber war alles nur weiß
 getüncht.
 
-Gräßlich schob sich neben, dem Sessel ein Kur Tapete
+Plötzlich schob sich neben dem Sessel ein Stück Tapete
 nach außen, — ein Türchen.
 
 Vincent Saalborgs Kopf erschien aus dem Hohlraum
 des dicken Pfeilers. Er flüsterte hastig:
 
-» »Besorgen Sie mir die schwarzbraune Katze mit dem
+»Besorgen Sie mir die schwarzbraune Katze mit dem
 Ring … Kommen Sie abends hierher — um neun, und
-halten Sie jeden, anderen fern.«
+halten Sie jeden anderen fern.«
 
 Die Tür schloß sich wieder.
 
 Im selben Moment trat der Amtsrichter ein. Er schaute
 sich forschend um.
 
-»Mir: wem sprachen Sie, Herr Harst?«
+»Mit wem sprachen Sie, Herr Harst?«
 
-»Mit Kalibers …«
+»Mit Saalborg …«
 
 Ich hielt den Atem an …
 
-… «-.- Mit … Saalborg?!«
+»… Mit … Saalborg?!«
 
-»I …«
+»Ja …«
 
-»Also war er am Fenster — welche Fischer!! — Was
-wollte: er?«
+»Also war er am Fenster — welche Frechheit!! — Was
+wollte er?«
 
 <@pagebreak/>
-»Er bat mich, ich solle ihm eine Maße und einen Ring
+»Er bat mich, ich solle ihm eine Katze und einen Ring
 beschaffen.«
 
-»Na … a … As?!«
+»Wa … a … as?!«
 
-»Klasse und Ein, 3 — tatsächlich! Fragen Sie Schraut, er
+»Katze und Ring — tatsächlich! Fragen Sie Schraut, er
 wird es Ihnen bestätigen.«
 
-»Allerdings!« Kiste ich. »Katze und Ring.«
+»Allerdings!« nickte ich. »Katze und Ring.«
 
 »Ja — aber was heißt daß?!«
 
-»Das Heißt, daß es besser gewesen wäre, Sie hätten.
+»Das Heißt, daß es besser gewesen wäre, Sie hätten
 mich hier nach meinem Belieben schalten lassen … — Ich
-weiß verschiedenes über diese Katze und den Ring, und ich:
+weiß verschiedenes über diese Katze und den Ring, und ich
 hätte Saalborgs Schuldlosigkeit durch beides beweisen können.«
 
 Der arme Amtsrichter stützte sich schwer auf den Tisch.
@@ -1349,19 +1349,19 @@ Seine Stirn bedeckte sich immer stärker mit Schweißperlen.
 Er stöhnte …
 
 »Herrgott, ist das eine Last … Daß auch gerade ich
-das Bach haben muß, diese Geschichte erledigen zu müssen!
-Wir ist schon ganz wirr im Kopf …
+das Pech haben muß, diese Geschichte erledigen zu müssen!
+Mir ist schon ganz wirr im Kopf …«
 
 Dann schaute er Harald an. »Wozu raten Sie mir, Herr
 Harst?«
 
-»Naß Hause zu fahren … Denn Saalborg ist nie zu
+»Nach Hause zu fahren … Denn Saalborg ist nie zu
 fangen. Ich verspreche Ihnen aber, diese Sache in spätestens
-acgtundvierzig Stunden restlos zu klären.«
+achtundvierzig Stunden restlos zu klären.«
 
-»Ihr nett von Ihnen … Aber ich bin Beamter. Ich
-habe Vorgesetzte … Ich muß Aussichten nehmen … — Was
-verstehen Sie unter »Klären’’?« —
+»Sehr nett von Ihnen … Aber ich bin Beamter. Ich
+habe Vorgesetzte … Ich muß Rücksichten nehmen … — Was
+verstehen Sie unter »Klären«?« —
 
 »Den wahren Dieb ermitteln …«
 
@@ -1369,68 +1369,67 @@ Der arme Amtsrichter stöhnte wieder …
 
 »Saalborg hat doch gestanden!!«
 
-»Gelogen hat er?! — Wenn Sie vor fünf Wochen
+»Gelogen hat er! — Wenn Sie vor fünf Wochen
 einen Lungenschuß mit vierzig Grad Fieber gehabt hätten,
-würden Sie dann von hier bis Flinsberg in etwa einer
+würden *Sie* dann von hier bis Flinsberg in etwa einer
 Stunde radeln, einbrechen und wieder zurückradeln können?«
 
 Der Amtsrichter wischte sich den Schweiß von der Stirn …
-»Nein, ich würde das nicht können …«
+»Nein, *ich* würde das nicht können …«
 
 <@pagebreak/>
-»Und würden Sie unmaskiert die Chaussee im monödhceller
-Nacht zu einem sollen Unterfangen entlangfahren?!«
+»Und würden Sie unmaskiert die Chaussee im mondheller
+Nacht zu einem solchen Unterfangen entlangfahren?!«
 
-»Ich … nicht …
+»Ich … nicht …«
 
-»Saalborg schon 9an3 gewiß nicht. ’— Gut, was Liclcolm
+»Saalborg schon ganz gewiß nicht. — Gut, mag Malcolm
 ihn erkannt haben: Saalborg war nie gestern in Flinsberg!
-Ausgeschlossen! Wo er war, — das hängt mit der Katze.
+Ausgeschlossen! Wo er war, — das hängt mit der Katze
 und dem Ring zusammen.«
 
-»an! Himmels willen — nur nicht noch die Kastell« rief
-der Umtgsricgter kläglich. »Bei 28 Grad im Schatten vertrage
-ich heute keine ’Kazzen rieb:! — Was ist’s mit diesem Viel?«
+»Um Himmels willen — nur nicht noch die Katze!!« rief
+der Amtsrichter kläglich. »Bei 28 Grad im Schatten vertrage
+ich heute keine Katzen mehr! — Was ist’s mit diesem Vieh?«
 
 »Es ist verschwunden …«
 
 »Hier verschwindet alles …«
 
-»Leider — aus der Ring!«
+»Leider — auch der Ring!«
 
-»Möchten Sie mir das alles nicht im Zusammenbruch erklären,
+»Möchten Sie mir das alles nicht im Zusammenhang erklären,
 Herr Harst?«
 
 »Nur, wenn Sie mir völlig freie Hand lassen …«
 
-»In Gottes Namen denn!! Gut — ich) kusch2e!! Ich werde
-eine Nase »von oben« leisten — mir egal!«
+»In Gottes Namen denn!! Gut — ich kusche!! Ich werde
+eine Nase »von oben« kriegen — mir egal!«
 
-»Eine Belcobigung werden Sie bekommen. — Jahren Sie
+»Eine Belobigung werden Sie bekommen. — Fahren Sie
 jetzt mit Ihrer Garde heim …«
 
-»Aber — die Geschichte der! Rate?«
+»Aber — die Geschichte der Katze?«
 
-»Ihre erzähle ich Ihnen gelegentlich Jetzt wollen Schraut
-und ich endlich frühstücken …
+»Die erzähle ich Ihnen gelegentlich. Jetzt wollen Schraut
+und ich endlich frühstücken …«
 
-»Ihre haben recht …«
+»Sie haben recht …«
 
 Und er drückte uns die Hände, nahm Hut, Mantel, Stock
 und schritt davon — den Berg hinab.
 
-Zehn Minuten drauf war nur noch Kommissar G5bbei
-auf dem Haubenberg und frühstückte mit uns im Ckhzimmer.
+Zehn Minuten drauf war nur noch Kommissar Göbbel
+auf dem Haubenberg und frühstückte mit uns im Eßzimmer.
 
-Auswischen hatte Harsts Frau Anni gesprochen — unter
+Inzwischen hatte Harst Frau Anni gesprochen — unter
 vier Augen.
 
-Die. Leine tapfere Frau und Onkel Petersen kamen und
+Die kleine tapfere Frau und Onkel Petersen kamen und
+leisteten uns Gesellschaft. Über Saalborg fiel nicht ein
+Wort …
 
-leisteten uns Gesellschaft. Weber Saalborg fiel nicht ein
-Gott
-
-<@pagebreak/>
+<@pagebreak 36/>
 
 <h1>Das Phantom und der Panther.</h1>
 
@@ -1605,8 +1604,8 @@ Vorwärtsspringen auch nachts ihren schillernden dunklen Brokatrock
 trotz der Dämmerung im Bereich) der Treppe gesehen —
 — gesehen, und dennoch ins Leere gegriffen. —
 
-Wo, wie gab’s eine Erklärung hierfür? — Eine Sinnes-
-Täuschung? — Niemals!! Ich leide nicht an Halluzinationen.
+Wo, wie gab’s eine Erklärung hierfür? — Eine Sinnestäuschung?
+— Niemals!! Ich leide nicht an Halluzinationen.
 Ich habe sehr gute Nerven, und auf mein Hirn ist gesund.
 
 Ich Hatte also etwas vor mir gehabt — ein Lesen »uns
