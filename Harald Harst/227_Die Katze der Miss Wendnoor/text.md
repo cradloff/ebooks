@@ -1436,109 +1436,110 @@ Wort …
 <h2>1. Kapitel.</h2>
 <h3>Die Dame im Reiherhut.</h3>
 
-Ich muß hier notwendig Suche die Gründe angeben, die
-»uns bewogen hatten, wenigstens Göbbel auf dem Haubenberg
-zu behalten …
+Ich muß hier notwendig auch die Gründe angeben, die
+uns bewogen hatten, wenigstens Göbbel auf dem Haubenberg
+zu behalten.
 
 Ich erwähnte zum Schluß des ersten Teiles, daß »zehn
-Minuten drauf nur von Kommissar Göbbel auf dem Saubere
-Berg war«.
+Minuten drauf nur noch Kommissar Göbbel auf dem Haubenberg
+war«.
 
-Dicke zehn Minuten waren nun weit inhaltsreichen als
+Diese zehn Minuten waren nun weit inhaltsreicher als
 ebenso viele Stunden. Ich deutete an, daß Harald mit Frau
 Anni eine Aussprache gehabt hatte. Die Hauptereignisse dieser
 kurzen Zeitspanne habe ich mir für den Beginn des zweiten
-Seiles vorbehalten.
+Teiles vorbehalten.
 
 Es ist ja immer schwer, für diese Teile und für die
 einzelnen Kapitel treffende Titel zu finden. »Das Phantom
 und der Panther« schien mir am geeignetsten.
 
 Phantom ist eine feinere Bezeichnung für Gespenst, für
-ein Geschöpf, das nicht der Erkennst entstammt. Ich begegnete
+ein Geschöpf, das nicht der Erdenwelt entstammt. *Ich* begegnete
 <@pagebreak/>
 diesem Phantom der Ruine Haubenberg als erster.
-Es wird Not] sein, hier wenigstens in einigen Sätzen auf
+
+Es wird nötig sein, hier wenigstens in einigen Sätzen auf
 die Ruine und ihre Herkunft, ihre besondere Geschichte und
 ihren Sagenkreis einzugehen. Der Haubenberg, schon als Berg
-weit niedriger als der berühmtere ’Greiffenstein, der jedem
+weit niedriger als der berühmtere Greiffenstein, der jedem
 Flinsberg-Reisenden sofort ins Auge fällt, ist der ursprüngliche
-Harsts der freiherrlichen Familie von ’R. Diese Burg, von
-der nur noch »unser« Turm erhalten, soll in den Jahren 1382-
+Burgsitz der freiherrlichen Familie von R. Diese Burg, von
+der nur noch »unser« Turm erhalten, soll in den Jahren 1382
 bis 1390 erbaut worden sein. Das Urkundenmaterial hierüber,
-das teils in den Nerven besagter Adelsfamilie, teils in der
-Stadtbibliothek des Städtchens Friedeberg am Kurs aufbewahrt
-wird, ist dürftig. Sicher ist nur, daß die Burg vom
-den Zweiten erstürmt und zerstört wurde. Damals soll noch
+das teils in den Archiven besagter Adelsfamilie, teils in der
+Stadtbibliothek des Städtchens Friedeberg am Auriß aufbewahrt
+wird, ist dürftig. Sicher ist nur, daß die Burg von
+den Hussiten erstürmt und zerstört wurde. Damals soll noch
 das Felsgestein, das heute im Bergpark der »Haube« nur noch
 an wenigen Stellen zutage tritt, in steilen Abhängen vorhanden
-gewesen sein. Die Urkunden erwähnen nun eben
-falls, daß seit der Vernichtung der Burg in dem erhalten
+gewesen sein. Die Urkunden erwähnen nun ebenfalls,
+daß seit der Vernichtung der Burg in dem erhalten
 gebliebenen Hauptturme ein »Geist« mitunter sich zeigte und
 stets verhinderte, daß das Gemäuer für Wohnzwekcke benutzt
 wurde. Leute, die es wagten, sich dort niederzulassen oder als
 ungeladene Gäste dort zu hausen, wurden regelmäßig nach
-kurzer Zeit versHcheuIHt. Glücklich sprach man allgemein in
-der Umgegend von beim »Phantom des Haubenberges« — noch
+kurzer Zeit verscheucht. Schließlich sprach man allgemein in
+der Umgegend von dem »Phantom des Haubenberges« — noch
 heute. Man beschrieb es als eine Frau in mittelalterlicher
-Fracht mit einem Totenkopf unter einem übergroßen, mit
+Tracht mit einem Totenkopf unter einem übergroßen, mit
 Reiherfedern geschmückten Hute. Als Doktor Petersen für
 Saalborg die Ruine kaufte, an der niemand ein Interesse
 hatte, wurde er im Hotel in Friedeberg von verschiedenen
 Leuten vor diesem Phantom gewarnt. Er lächelte nachsichtig,
 ließ den Turm renovieren, wohnte dort monatelang allein:
-das Gespenst verhielt sich ruhig. — Vieles Phantom sollte
-genug die damals bei der Erstürmung der Burg mit ums
+das Gespenst verhielt sich ruhig. — Dieses Phantom sollte
+nun die damals bei der Erstürmung der Burg mit ums
 Leben gekommene Geliebte des Burgherrn sein, und zwar
-eine ungarische Zigeunerin, die sich mit schwarzen Fünften,
-Totenbeschwörung, Vielßbehexrung und ähnlichem abgegeben
+eine ungarische Zigeunerin, die sich mit schwarzen Künsten,
+Totenbeschwörung, Viehbehexung und ähnlichem abgegeben
 <@pagebreak/>
 hatte und daher verdammt war, auf ewig in dem Gemäuer
-umherzugetjtern.
+umherzugeistern.
 
 Nach diesen knappen Angaben zu mir selbst zurück.
 
-Nachdem der UmjtsSrichie? sich von aus Liebenswürdigst
-verabischicdet hatte, erklärte Begräbt, es sei doch wohl besser,
+Nachdem der Amtsrichter sich von uns Liebenswürdigst
+verabschiedet hatte, erklärte Harald, es sei doch wohl besser,
 wenn Göbbel hierbliebe. »Mit Göbbel läßt sich reden, mein
 Alter … Er ist ein frischer, netter Kerl … Er kann uns
-von -Nutzen sein. Seine Assistenten soll er in Greifenberg
+von Nutzen sein. Seine Assistenten soll er in Greifenberg
 unterbringen. Ich werde schnell zur Zaunpforte hinabgehen.
-Ich will aus Malcolm noch fragen, wo Mr Dora Brown zu
-riesigen ist, die bisher nicht ahnt, daß Gussy Wendnoor
+Ich will auch Malcolm noch fragen, wo Miß Dora Brown zu
+erreichen ist, die bisher nicht ahnt, daß Gussy Wendnoor
 uns beide mit Hilfe eines gefälschten Ausweises hineingelegt
-bat. Du kannst derweil unten in der Küche das Frühstück
+hat. Du kannst derweil unten in der Küche das Frühstück
 vorbereiten, denn Frau Anni dürfte dazu kaum imstande
 sein.«
 
 Er verließ das Zimmer. Als ich noch einen langen Blick
 auf den bewußten Mauerpfeiler warf, winkte er mir von
-der Vorhalle aus ungeduldig zu. Ich folgte ihm. — Die Boys
-Falle hatte rechts und links eine Tür. Im Hintergrund lag
+der Vorhalle aus ungeduldig zu. Ich folgte ihm. — Die Vorhalle
+hatte rechts und links eine Tür. Im Hintergrund lag
 die Treppe, die zunächst gerade emporging und sich dann als
 Wendeltreppe nach beiden Seiten teilte. Sie war aus sehr
-starkem Eichenholz hergestellt — mit dicken CiZenstätzzen
-voll kunstvoller Schnitzerei. Ein billiger dunkelroter Kokos«
-länger bedeckte die breiten, ausgetretenen Stufen. Diese
+starkem Eichenholz hergestellt — mit dicken Eichenstützen
+voll kunstvoller Schnitzerei. Ein billiger dunkelroter Kokosläufer
+bedeckte die breiten, ausgetretenen Stufen. Diese
 Treppe und die ebenso uralten Eichenpaneele in den oberen
 Räumen waren das Wertvollste und Schönste des mächtigen
-Turmes. Hinter der Treppe im Hervorschoß gab es noch
-bequeme kleine Eichentür, die den Zugang zu einer schmalen
+Turmes. Hinter der Treppe im Erdgeschoß gab es noch
+eine kleine Eichentür, die den Zugang zu einer schmalen
 Kammer bildete. Diese empfing nur wenig Licht durch eine
-schmale SchäeßsHarte. In ihrer Mitte, in den Steinplatten des
-Bodens gähnte eine viereckige Öffnung, von einem Holzgeländer
+schmale Schießscharte. In ihrer Mitte, in den Steinplatten des
+Bodens, gähnte eine viereckige Öffnung, von einem Holzgeländer
 mit Pendeltür umfriedet. Durch dieses Loch gelangte
 man auf die Steintreppe, die in die Küche, die Speisekammer
 und den Baderaum hinablief, — drei Räume, die erst
-Doktor Petersen durch Nabitzwände hatte abteilen lassen. Von
+Doktor Petersen durch Rabitzwände hatte abteilen lassen. Von
 <@pagebreak/>
-der Steintreppe kam man geroadcav38 ohne Zwischenruf in die
-Küche. Rechts lag die Speisekammer, Links zweigte ein kurzer
+der Steintreppe kam man geradeaus ohne Zwischentür in die
+Küche. Rechts lag die Speisekammer. Links zweigte ein kurzer
 Gang ab, als Vorraum für das Bad. Das Licht erhielten diese
 neuen Räume durch vergitterte Kellerfenster, über denen noch
 in moderner Art Reflexspiegel zur Verstärkung der Tageshelle
-’ angebracht waren. Diese Einrichtung bewährte sich
-sehr gut Bis zur Steintreppe genügte diese Beleuchtung am
+angebracht waren. Diese Einrichtung bewährte sich
+sehr gut. Bis zur Steintreppe genügte diese Beleuchtung am
 Tage.
 
 Ich habe diese Einzelheiten hier erwähnen müssen. Sie
@@ -1548,41 +1549,41 @@ Ich befand mich nun also in der Küche. Auf dem weißlackierten
 eisernen Herd, der zumeist mit Briketts geheizt
 wurde, stand rechts stets ein Spirituskocher mit zwei Brennern.
 Auf diesem wollte ich den Kaffee für Harald und mich wärmen.
-Die große Nickelbügel, die zur Aufnahme des Spiritus bestimmt
-ist, war jedoch leer. 34 ging rechts in die große Speisekammer,
+Die große Nickelkugel, die zur Aufnahme des Spiritus bestimmt
+ist, war jedoch leer. Ich ging rechts in die große Speisekammer,
 um die Spiritusflasche zu holen. Als ich mit ihr
 in die Küche zurückkehrte, sah ich am Fuße der Steintreppe
 eine weibliche Gestalt stehen. Ich glaubte, es sei Frau Saalborg,
 wunderte mich allerdings, daß sie nach der schweren
-Nervenkrise von ’ vorhin bereits wieder ihrer Hausfrauenpflichten
+Nervenkrise von vorhin bereits wieder ihrer Hausfrauenpflichten
 gedachte. Ich schaute stärker hin. Die Gestalt schälte
-sie; nun für meine kritischen Augen schärfer aus der Dämmerung
+sich nun für meine kritischen Augen schärfer aus der Dämmerung
 heraus.
 
 Es war nicht Frau Saalborg. Es war eine Frau in der
-Fracht des Anfangs des vierzehnten Jahrhunderts mit einem
-großen Hut mit Reiherfedern, unter dem ein entschlief G6-
-!ich mich anstarrte.
+Tracht des Anfangs des vierzehnten Jahrhunderts mit einem
+großen Hut mit Reiherfedern, unter dem ein entsetzliches Gesicht
+mich anstarrte.
 
 Es war kein Gesicht, es war ein gelblicher Totenschädel:
-Schwarze Augenlöcher, ein! nur angedeutete Nase,!Liebliche
+Schwarze Augenlöcher, eine nur angedeutete Nase, schreckliche
 weiße vorstehende Zähne …
 
 Es war das Phantom des Haubenbergs.
 
 Meine Empfindungen bei dieser ersten Begegnung mit
-dem Phantom sind schwer zu beschreiben. Ich weiß eigentliche
-selbst nicht mehr, was ich dachte, wollte, knurrte. Ich weiß nur;
+dem Phantom sind schwer zu beschreiben. Ich weiß eigentlich
+selbst nicht mehr, was ich dachte, wollte, konnte. Ich weiß nur,
 <@pagebreak/>
 daß ich genauso regungslos dastand und im stillen hoffte, das
 Trugbild würde in nichts zerfließen.
 
 Anderes geschah.
 
-Das Phantom raffte den Schleppers hoch, drehte sich 1 um
+Das Phantom raffte den Schlepprock hoch, drehte sich um
 und stieg langsam die Treppe hinan.
 
-Dieser Alltag gab mir die Besinnung wieder. Ich war
+Dieser Rückzug gab mir die Besinnung wieder. Ich war
 mit drei Sprüngen vor der Treppe, streckte die Hand aus …
 Ich mußte das Phantom packen — noch packen können …
 
@@ -1599,36 +1600,36 @@ einer oder zwei Sekunden, denn mehr Zeit hatten meine
 Sprünge bis zur Treppe nicht in Anspruch genommen.
 Anderseits konnte die Frau, falls sie plötzlich ihren Rückzug
 beschleunigt hatte, niemals in dieser knappen Zeitspanne die
-Stopp? schon vollends erstiegen haben, außerdem hatte ich im
-Vorwärtsspringen auch nachts ihren schillernden dunklen Brokatrock
-trotz der Dämmerung im Bereich) der Treppe gesehen —
+Treppe schon vollends erstiegen haben, außerdem hatte ich im
+Vorwärtsspringen auch noch ihren schillernden dunklen Brokatrock
+trotz der Dämmerung im Bereich der Treppe gesehen —
 — gesehen, und dennoch ins Leere gegriffen. —
 
 Wo, wie gab’s eine Erklärung hierfür? — Eine Sinnestäuschung?
 — Niemals!! Ich leide nicht an Halluzinationen.
-Ich habe sehr gute Nerven, und auf mein Hirn ist gesund.
+Ich habe sehr gute Nerven, und auch mein Hirn ist gesund.
 
-Ich Hatte also etwas vor mir gehabt — ein Lesen »uns
-Fleisch; und Blut natürlich, eine Person, die mich lediglich
-erschrocken wollte.
+Ich Hatte also etwas vor mir gehabt — ein Wesen aus
+Fleisch und Blut natürlich, eine Person, die mich lediglich
+erschrecken wollte.
 
 Und ihr Verschwinden? — Die Treppe mußte bewegliche
 Stufen haben — gleich einer Falltür. Das Phantom war
 in einer Versenkung verschwunden, die sich sofort wieder geschlossen
 hatte. —
 
-Ich hatte jetzt keine Zeit, die Treppe zu untersuchhert. Ich
-wärmte den Kaffee und trug ihn samt Brot, Butter, Ausschnitt,
+Ich hatte jetzt keine Zeit, die Treppe zu untersuchen. Ich
+wärmte den Kaffee und trug ihn samt Brot, Butter, Aufschnitt,
 Tellern und so weiter hinauf in den ersten Stock
-ins Eßzimmer. Das Tablett, auf das ist all dies gruppiert
+ins Eßzimmer. Das Tablett, auf das ich all dies gruppiert
 <@pagebreak/>
 hatte, war recht groß. Ich stieg damit die Eichentreppe und
-dann rechts die. Wendeltreppe empor. (Ich erwähnte schon, daß
-von den! unteren Teil der breiten Eichentreppe rechts? und
+dann rechts die Wendeltreppe empor. (Ich erwähnte schon, daß
+von dem unteren Teil der breiten Eichentreppe rechts und
 links Wendeltreppen abzweigten.)
 
-— Stier im Treppenhaus brannten auch am Tage jene kleinen
-Petroleumlämpchen, die kaum den Haushalt durch; Brennstoffverbrauch
+Hier im Treppenhaus brannten auch am Tage jene kleinen
+Petroleumlämpchen, die kaum den Haushalt durch Brennstoffverbrauch
 belasten, allerdings auch kaum leuchten. Sie genügten
 gerade, daß man sich zurechtfand. — Als ich die Mitte
 der Wendeltreppe, mein Teebrett vorsichtig balanzierend,
@@ -1637,41 +1638,41 @@ Treppe etwas raschelte — wie Seidenröcke — nur dumpfer.
 Ich blickte hin … Ich sah in diesem Dreivierteldunkel das
 Phantom, das dort drüben die Stufen abwärtsschritt.
 
-Ich gebe zu, daß ich diesmal: erschrak. Es wäre doch
-von einem Mengen, der hier lediglich »Geist« spielte, eine
+Ich gebe zu, daß ich diesmal erschrak. Es wäre doch
+von einem Menschen, der hier lediglich »Geist« spielte, eine
 ungeheure Frechheit gewesen, abermals mir in den Weg zu
-treten. Einen Moment wollte meine Aufgeklärtheit sich zurücverlieren
+treten. Einen Moment wollte meine Aufgeklärtheit sich zurückverlieren
 in Kindheitstage mit ihrem schlichten Glauben an den
-Weihnachtsmann, an Seen und Kobolde und dergleichen.
+Weihnachtsmann, an Feen und Kobolde und dergleichen.
 
 Ich rief das Phantom an, denn ich konnte das Teebrett
-nicht aus der Hand sehen, da es breiter als die Wendeltreppe
+nicht aus der Hand setzen, da es breiter als die Wendeltreppe
 war, und hinwerfen wollte ich es nicht, da das Splittern und
 Krachen der Teller und Tassen sicherlich Frau Anni droben
-In zweiten Stock sehr erschreckt hätte.
+im zweiten Stock sehr erschreckt hätte.
 
 Ich rief: »Wer sind Sie, was treiben Sie hier?«
 
 Das war unendlich lächerlich von mir.
 
-Das Phantom nahm denn zu keinerlei Notiz davon,
+Das Phantom nahm denn auch keinerlei Notiz davon,
 gelangte zum Hauptteil der Treppe und schritt auch diese
 Stufen mit gerafftem Rock hinab, bog nach rechts ab, — —
 und im selben Augenblick hörte ich die schwere Haustür
-Greisen. Es mußte Harald sein, der von der Pforte des
+kreischen. Es mußte Harald sein, der von der Pforte des
 Parkes mit Göbbel zurückkehrte. Göbbel sagte laut: »Ich füge
 mich gern …«
 
 Da schrie ich hinab, freilich gedämpft:
 
-»Achtung — es ist ein Fremder kg der Vorhalle!«
+»Achtung — es ist ein Fremder in der Vorhalle!«
 
 <@pagebreak/>
 Harst und Göbbel hätten das Phantom, das mir eben erst
-»ins den Augen gekommen, bemerken müssen, denn durch
+aus den Augen gekommen, bemerken müssen, denn durch
 die geöffnete Haupttür strömte eine solche Tagesfülle herein,
 daß ich deutlich eine Papierserviette, die mir vom Tablett
-geglitten, am Fuße der Treppe liegen sah — mit Führern
+geglitten, am Fuße der Treppe liegen sah — mit ihrem
 großen Blumenmuster.
 
 Harst erschien unten, rief mir zu:
@@ -1679,13 +1680,13 @@ Harst erschien unten, rief mir zu:
 »Ein Fremder — wo?«
 
 Ich kam die Wendeltreppe hinab und deutete auf die
-seine Tür hinter der Haupttreppe …
+kleine Tür hinter der Haupttreppe …
 
 »Dorthin ist es entwichen — wahrscheinlich!«
 
 »Was denn — wer denn?!
 
-Ah berichtete kurz das Erlebte.
+Ich berichtete kurz das Erlebte.
 
 Harald stieß die kleine Tür auf und eilte über die Steintreppe
 in die Küche — ebenso Göbbel
@@ -1693,49 +1694,51 @@ in die Küche — ebenso Göbbel
 Sie fanden natürlich nichts.
 
 Ich stand noch mit meinem Teebrett am Anfang der
-rechten Wendeltreppe, als sie zu mir emporkamen.«
+rechten Wendeltreppe, als sie zu mir emporkamen.
 
 »Wir haben nichts bemerkt,« sagte Harald mir. »Gehen
-wer ins Speisezimmer.«
+wir ins Speisezimmer.«
 
 Göbbel lief zur Haupttür und drückte sie ins Schloß.
 Dann stiegen wir — ich voran — die rechte Wendeltreppe
-(bot.
+hoch.
 
-Das Treppenh? ’U8 des viereckigen, mächtigen Turmes geht
-bis oben zum Dachgebälk — ein sechseckiger, gleichmäßigen
+Das Treppenhaus des viereckigen, mächtigen Turmes geht
+bis oben zum Dachgebälk — ein sechseckiger, gleichmäßiger
 Schacht. Schaut man nach oben, so sieht man hoch droben
 die beiden Klappfenster im Dache, die wenig Licht spenden,
-und Tresor helle Punkten: die Lampen!
+und kleine helle Pünktchen: die Lampen!
 
 Diesmal war es Göbbel, der, durch meine Begegnungen
 mit dem Phantom mißtrauisch geworden, den Kopf gehoben
 und emporgeblickt hatte.
 
-… Ganz heiser klang seine Stimme, als er überraschend herVvorsticß:«
+Ganz heiser klang seine Stimme, als er überraschend hervorstieß:
+
 »Da — — über dem Geländer im dritten Stock …!!«
+
 Wir sahen — — sahen das Phantom, wie es sich über das
 <@pagebreak/>
-Geländer beugte, wie es, durchs die Dachfenster klar beleuchtet,
+Geländer beugte, wie es, durch die Dachfenster klar beleuchtet,
 sich langsam wieder zurückbog, zurücktrat und verschwand.
 
-Harst jagte die Treppen hinauf. Göbbel überholte ha
+Harst jagte die Treppen hinauf. Göbbel überholte ihn
 trotzdem …
 
 Im dritten Stock, der direkt unter dem Dache liegt,
-gibt es nur drei leere Räume. Die Türen sind alt u1.d
+gibt es nur drei leere Räume. Die Türen sind alt und
 morsch und stets verschlossen. Die altertümlichen Schlüssel
-frechen freilich von außen in den Schlössern.
+steckten freilich von außen in den Schlössern.
 
 Das Phantom konnte nur durch eine dieser Türen
 weitergeflüchtet sein. Aber Harald und Göbbel fanden die
-drei Türen von außen versperrt … Die Schlüssel steten.
-Dorthin mußte das Phantom sich anders wohin gewandt
+drei Türen *von außen* versperrt … Die Schlüssel steckten.
+Mithin mußte das Phantom sich anders wohin gewandt
 haben.
 
-Wohin aber?! Außer den Türen gab es nur die,
+Wohin aber?! Außer den Türen gab es nur dicke,
 verwitterte Mauern, und die Leiter, die am Dachgebälk lehnte.
-Hatte das Phantom die Leiter erstiegen, so hätte ich es gesehen
+Hätte das Phantom die Leiter erstiegen, so hätte ich es gesehen
 haben müssen. —
 
 Nun endlich waren wir drei im Speisezimmer, — schauten
@@ -1744,7 +1747,7 @@ uns an, zuckten die Achseln …
 Das hieß »Das begreife ein anderer!«
 
 Harald meinte nur noch: »Später!! — Jetzt will ich Frau
-Juni sprechen.« Er ging wieder hinaus.
+Anni sprechen.« Er ging wieder hinaus.
 
 Göbbel warf sich in einen Korbsessel.
 
@@ -1752,13 +1755,13 @@ Göbbel warf sich in einen Korbsessel.
 zum Verrücktwerden, — jetzt ist sie in das Stadium des
 Übersinnlichen geraten, und nun ist’s ganz aus!«
 
-Oh — wir fangen die Dame schon!« meinte ich allzu
+»Oh — wir fangen die Dame schon!« meinte ich allzu
 selbstsicher. »Gespenster haben zum Schluß meist eine Tracht
 Prügel bezogen!«
 
-Göbbel zarte abermals die Achseln.
+Göbbel zuckte abermals die Achseln.
 
-Ich begann den Tisch zu Seen, und dann erschien Harald
+Ich begann den Tisch zu decken, und dann erschien Harald
 und gleich darauf Doktor Petersen und Frau Anni
 
 <@pagebreak/>
