@@ -188,8 +188,8 @@ Oben auf dem Gipfel hob sich scharf gegen den Nachthimmel
 eine Tempelruine ab …
 
 <@pagebreak/>
-Wir landeten abermals, das Boot drückte sich in öde
-mannshohe Schilfstengel hinein … Ein besseres Versteck
+Wir landeten abermals, das Boot drückte sich in übermannshohe
+Schilfstengel hinein … Ein besseres Versteck
 konnte es kaum geben.
 
 Dann ging Harald zu dem Bootsbesitzer und dessen
@@ -295,6 +295,7 @@ Ich werde das Gefühl nicht los … Ich muß Ihnen schon
 einmal begegnet sein …«
 
 »Ausgeschlossen!« Und ich lachte ganz harmlos … —
+
 So begannen Harst und ich unsere Rollen als Hochstaplerehepaar
 John Bennitt und Frau.
 
@@ -409,7 +410,7 @@ dumm!«
 Harald setzte sich aufrecht …
 
 »Und doch sind Sie dumm, John Patterson …! Wer
-hat denn den Inder in Suez betäubt?! Sie etwa?«
+hat denn den Inder in Suez betäubt?! Sie etwa?!«
 
 Patterson-Robertson-Benson wurde etwas stutzig …
 
@@ -418,8 +419,7 @@ betrachtete, rief leise:
 
 »John, Du kannst Dich doch auch irren …! Weshalb
 hat denn Herr Harst uns von der Otranto mit an Bord
-des Polizeidampfers genommen?! Weshalb uns hierher
-geführt?!«
+des Polizeidampfers genommen?! Weshalb uns hierhergeführt?!«
 
 John machte eine Handbewegung, die geradezu verächtlich
 war …
@@ -443,7 +443,7 @@ Pfund …«
 
 »War ich auch, Herr Schraut … Sie haben Herz …«
 
-»Harald noch mehr als ich, Irina …« nickte ich trübe.
+»Harald noch mehr als ich, Irina …,« nickte ich trübe.
 »Und er hat ganz recht: Sie beide sind ungeheuer undankbar!
 Wir wollten Sie vor dem Inder schützen — mein
 Ehrenwort darauf …!«
@@ -512,7 +512,7 @@ Harald zuckte nur die Achseln.
 
 Patterson fuhr zögernd fort: »Wir, Doris und ich …«
 
-»Ja — Ihre Gattin und Sie …« warf Harald ein …
+»Ja — Ihre Gattin und Sie …,« warf Harald ein …
 
 Das Pärchen stierte ihn an …
 
@@ -632,8 +632,8 @@ halb von Zeugfetzen bedeckt — etwa vier Meter über dem
 Boden …
 
 <@pagebreak/>
-»Ein Inder …« sagte Harst. »Ob der sich hier wohl
-eigenhändig aufgeknüpft hat?! — Kaum …!! Eine Tragödie,
+»Ein Inder …,« sagte Harst. »Ob der sich hier wohl
+eigenhändig aufgeknüpft hat?! — Kaum …! Eine Tragödie,
 die uns nichts angeht …«
 
 Und gleichmütig ließ er den Kessel in den Brunnen
@@ -684,7 +684,7 @@ feinste indische Arbeit … —
 Dann kehrten wir in unseren Hallenwinkel zurück …
 Ring und Stein hatte ich in der Hand …
 
-Während nun das Wasser im Sessel über dem Spiritusflämmchen
+Während nun das Wasser im Kessel über dem Spiritusflämmchen
 leise sang und sich zum Kochen anschickte, legten
 <@pagebreak/>
 wir beide unsere Kostüme ab, wuschen uns und schlüpften
@@ -758,7 +758,7 @@ seine Nase in fremder Leute Angelegenheiten zu stecken —
 nämlich auf eine jener Inselchen zwischen Australien und
 den Sunda-Inseln, die nie ein Schiff zu sehen bekommen.«
 
-So sprach er … Mit unendlichen Hohn … Und
+So sprach er … Mit unendlichem Hohn … Und
 verriet durch seine ganze Ausdrucksweise, daß er alles andere
 nur kein echter Inder war — genau wie sein Englisch all
 die Merkmale des Londoner Dialektes trug …
@@ -786,7 +786,7 @@ Schwapp … klatsch …
 
 Diese verdächtige Bewegung war schon erfolgt …
 
-Harald hatte mit einem kurzen Ruck der Hand den beißenden
+Harald hatte mit einem kurzen Ruck der Hand den beizenden
 Inhalt des Glases, das scharfe Mundwasser, den
 beiden Herrschaften in die Gesichter und Augen geschleudert.
 
@@ -1140,7 +1140,7 @@ war …
 Diese Kuppel strahlte ein mildes Licht aus, ließ jede
 Einzelheit des großen Raumes erkennen …
 
-Aus einem diesen Klubsessel erhob sich ein kahlköpfiger
+Aus einem tiefen Klubsessel erhob sich ein kahlköpfiger
 Europäer in weißem Leinenanzug … Ein hageres, bartloses
 Gesicht mit merkwürdig glanzlosen Augen, — Augen,
 die wie zu trüben Eisstücken erstarrt zu sein schienen …
@@ -1239,7 +1239,7 @@ das alle Abgründe enthüllt …
 
 Jetzt begann Balland zu sprechen …
 
-»John Pattersons drei Finger …« sagte er, und ein
+»John Pattersons drei Finger …,« sagte er, und ein
 Haß zitterte in seiner Stimme, als müßte er an diesem
 Haß ersticken …
 
@@ -1264,7 +1264,7 @@ Sie in der Tat die Zusammenhänge richtig durchschaut haben,
 so will ich Sie beide freigeben, mein Wort darauf …«
 
 <@pagebreak/>
-»Danke …« meinte Harst kühl. »Sie werden sowohl
+»Danke …,« meinte Harst kühl. »Sie werden sowohl
 uns als auch das Ehepaar Patterson freigeben müssen —
 auch ohne mein Zutun … Ich pflege mir stets den Rücken
 zu decken, Lewis Balland … Ich tappe nicht so ohne
@@ -1297,7 +1297,7 @@ bitte weiter …!«
 Geschäft war aber auch Doris Gwendoll als jüngste Korrespondentin
 erst kurze Zeit tätig. Sie hatten sich in Doris,
 die aus sehr guter, aber völlig verarmter Familie stammte,
-verliebt … Doris wies Ihre Anträge zurück. Ihr Herz
+verliebt. … Doris wies Ihre Anträge zurück. Ihr Herz
 gehörte John Patterson … Und deshalb haben Sie bei
 guter Gelegenheit Patterson verstümmelt, hieben ihm die
 drei Finger ab, hatten es wahrscheinlich auf die ganze Hand
@@ -1317,7 +1317,7 @@ Doris Gwendoll war die große Leidenschaft Ihres Lebens
 es, der dann den Juwelendieb Ben Benson erfand … Es
 hat nie einen Ben Benson gegeben … Nur einen Einbrecher,
 der noch zu ermitteln ist und der Ihr Werkzeug war,
-den Sie bestochen, der überall »Ben Bensons Wappen«
+den Sie bestachen, der überall »Ben Bensons Wappen«
 zurücklassen mußte, wo er eingebrochen war … Eine teuflische
 Schlauheit lag in diesem Ihren Racheplan … Sie
 wußten, daß es John Patterson schlecht ging … daß auch
@@ -1364,7 +1364,7 @@ Frau notariell geschenkt hatte, beschlagnahmen lassen …
 Da kam die Herzogin und Doris Gwendoll, die Jugendfreundinnen
 waren, auf den Gedanken, den Schmuck stehlen
 zu lassen. John Patterson gab sich dazu her, Einbrecher
-zu spielen … Aber als er mit der Beute kaum den Palast
+zu spielen … Aber als er mit der Beute kaum den Park
 verlassen hatte, wurde er von Ihrem Diener Abdullah,
 Ihrem Spion, niedergeschlagen und beraubt … Abdullah
 denunzierte ihn dann der Polizei … Patterson wird verhaftet:
@@ -1377,7 +1377,7 @@ Bombay, um Ihnen den Familienschmuck wieder abzunehmen
 Autos, das uns vor einer Stunde hier nach den Malabar
 Hills brachte, einen Zettel für Inspektor Perkins zugleich
 mit einem reichlichen Trinkgeld in die Hand gedrückt …
-— Bitte — horchen Sie Lewis Balland … Sie hören wohl
+— Bitte — horchen Sie, Lewis Balland … Sie hören wohl
 ebenso wie ich draußen im Park das heisere Schreien der
 indischen Nebelkrähe: ein Signal von Perkins …! — Geben
 Sie den Schmuck heraus — geben Sie uns und die Pattersons

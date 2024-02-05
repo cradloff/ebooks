@@ -127,7 +127,7 @@ Harald hatte aus einem Gummiband, dessen Enden er
 um Daumen- und Zeigefingerspitze gebunden, eine Schleuder,
 ein Katapult, hergestellt … Mit Hilfe dieser Schleuder schoß
 <@pagebreak/>
-er einen eng gefalteten und pfeilspitzenähnlich gekniffenen
+er einen eng gefalteten und pfeilspitzenähnlich geknifften
 Papierstreifen über die Straße hinweg in meinen Salon …
 
 Dann verschwand er.
@@ -161,8 +161,8 @@ der Wirtin besorgen lassen, befolgte Haralds Rat,
 legte mich zu Bett und studierte den bewußten Artikel, den
 ich unschwer infolge der in die Augen fallenden Überschrift
 
-»*Der internationale Juwelendieb Ben Benson
-entsprungen*«
+<p class="centered em">»Der internationale Juwelendieb Ben Benson
+entsprungen«</p>
 
 im Beiblatt entdeckte.
 
@@ -172,7 +172,7 @@ mit gleichgültigen Einzelheiten aufgeputzt und verwässert.
 Harald hatte ja bereits betont, daß der Hauptpunkt
 Bensons energisches Ableugnen seiner Identität mit dem
 »wahren« Ben Benson sei, der selbst für die Polizei insofern
-eine fast mystische Persönlichkeit darstellte, als man von
+eine fast mythische Persönlichkeit darstellte, als man von
 ihm nur wußte, daß ihm an der rechten Hand drei Finger
 fehlten. Im übrigen war Ben Benson stets in anderer Gestalt
 aufgetaucht, hatte sich lediglich stets den Hehlern gegenüber
@@ -310,7 +310,7 @@ So kam ich denn nach Nummer siebzehn …
 Und zehn Minuten später nach … Nummer neunzehn
 — in Harsts Zimmer. Die Tür war unverschlossen. Das
 Licht brannte wie vordem, als ich die Hand beobachtet hatte
-… Die dreiarmige Bronzekrone erleuchtete den mittelgroßen
+… Die dreiarmige Broncekrone erleuchtete den mittelgroßen
 Raum bis in die Winkel und Ecken …
 
 Keine lebende Seele hier … Die Vorhänge jenes Fensters
@@ -378,8 +378,8 @@ Unsereiner lernt Geräusche unterscheiden …
 Ein feiner Bohrer arbeitete dort … Es war wie das
 leise Nagen einer Maus an trockenem Holz …
 
-Der, der dort sich derart betätigte, der hier zu mir herein
-wollte, war kein Neuling in solchen nächtlichen Abenteuern.
+Der, der dort sich derart betätigte, der hier zu mir hereinwollte,
+war kein Neuling in solchen nächtlichen Abenteuern.
 
 Ich erhob mich lautlos — im Dunkeln … Nahm die
 Taschenlampe vom Nachttischchen, die Clement und die dünne
@@ -443,11 +443,11 @@ Und — ich drücke die Tür mit dem Rücken ins Schloß.
 Greller Lichtkegel trifft die Schlanke … Sie fährt herum.
 
 Ich sage kühl: »Ich schieße, wenn Sie sich bewegen …!
-Setzen Sie sich ganz artig dort in den Sessel …«
+— Setzen Sie sich ganz artig dort in den Sessel …«
 
 Ihre Geistesgegenwart verblüfft mich …
 
-»Sie werden Gentleman sein, mein Herr …« erwidert
+»Sie werden Gentleman sein, mein Herr …,« erwidert
 <@pagebreak/>
 sie bittend … »Was hätten Sie davon, wenn Sie mich
 der Polizei auslieferten?! Doch nur Scherereien …«
@@ -484,11 +484,11 @@ das für mich Betriebskapital gewesen sein … In so kleinen
 Hotels ist nicht viel zu holen … Unsereiner muß jetzt in
 ein Seebad gehen …«
 
-Unglaublich, diese Offenherzigkeit …
+Unglaublich, diese Offenherzigkeit …!
 
 »Wie alt sind Sie eigentlich?« frage ich kopfschüttelnd.
 
-»Älter, als Sie meinen: neunzehn Jahre …!! — Bitte
+»Älter, als Sie meinen: neunzehn Jahre …! — Bitte
 lassen Sie mich laufen, mein Herr … Ich werde die Löcher
 in der Tür verkitten … Niemand wird mir etwas anhaben,
 wenn Sie mich schonen …«
@@ -500,14 +500,14 @@ ich nicht … Patterson-Benson ist wichtiger als diese in ihrer
 Art einzig dastehende Hoteldiebin …
 
 <@pagebreak/>
-»Ich bin kein Unmensch, Miß …« nicke ich ernst. »Ich
+»Ich bin kein Unmensch, Miß …,« nicke ich ernst. »Ich
 möchte Ihnen aber dringend raten, dieses Gewerbe aufzugeben
 … Sonst enden Sie doch im Zuchthaus …«
 
 »Oh — Sie irren, mein Herr … Ich werde niemals
 verhaftet werden … Ich stamme aus guter, aber völlig
 verarmter Familie … Mein Vater hat sich das Trinken
-angewöhnt, meine Mutter ist aus Verzweiflung Morphistin
+angewöhnt, meine Mutter ist aus Verzweiflung Morphinistin
 geworden. Die Meinen — ich bin das einzige Kind
 — glauben mich als Reisende für eine Keksfabrik unterwegs
 … Dieser alte Ring, mein Herr, enthält unter der Monogrammplatte
@@ -569,7 +569,7 @@ und ein Zettelchen:
 
 <p class="centered">»Dank — — Irina …!«</p>
 
-Irina …! Eine Name wie Musik …
+Irina …! Ein Name wie Musik …
 
 Und die beiden Worte auf dem Zettel kraftvoll hingehauen
 — eine überaus energische, schmucklose Schrift …
@@ -581,7 +581,7 @@ dem, was sie mir … vielleicht über ihre Eltern und sich
 vorgelogen hat … Sie lügen ja alle, diese Gescheiterten,
 haben alle ein rührendes Märchen bereit … —
 
-Während ich frühstücke, grübele ich über Irina nach …
+Während *ich* frühstücke, grübele ich über Irina nach …
 
 Wer mag’s gewesen sein?! Wirklich eine ganz Raffinierte,
 ganz Verderbte …?!
@@ -733,7 +733,7 @@ zu finden hoffen …«
 »Bin ich ein Idiot?!« Und Harald schüttelt in einer
 Art den Kopf, als ob er *mich* für einen Idioten hält …
 
-Ehrlich: im komme mir halb wie ein solcher vor!
+Ehrlich: ich komme mir halb wie ein solcher vor!
 
 Frage schüchtern:
 
@@ -841,7 +841,7 @@ Sehfeld …
 Die Kabine war hell erleuchtet … Mit einem Male
 erschien jemand im Bereich des Guckloches — — eine
 Dame … hellblond, hohe Frisur … — kein Bubikopf
-— — und doch: Irina — meine Irina …!
+— — und doch: Irina — meine Irina …!!
 
 Ich rieb mir die Augen …
 
@@ -903,7 +903,7 @@ Raube der Familienjuwelen »ausbaldowert« hatte … Und
 jetzt floh das Pärchen nach Indien, um dort in Ruhe
 die Beute zu verwerten …
 
-So beurteilte ich den Fall …
+*So* beurteilte ich den Fall …
 
 Und wie grundfalsch diese Kombinationen waren, sah
 ich dann sehr bald ein …
@@ -930,7 +930,7 @@ Neben ihm meine Irina … Reizend, frisch, vergnügt …
 Kanaille — kleine Kanaille …!! —
 
 Inzwischen wissen wir durch unseren Steward: die beiden
-Herrschaften aus Kabine Nr. 8 und 5 sind die Geschwister
+Herrschaften aus Kabine Nr. 4 und 5 sind die Geschwister
 Robertson …
 
 Ausgerechnet Robertson — — und Geschwister!! Beneidenswerter
@@ -996,12 +996,12 @@ Die schwarzen Augen in dem kaffeebraunen Gesicht sind
 weniger harmlos … Unter gesenkten Lidern schießen eigentümliche
 Blicke zu Robertson und Schwester hin …
 
-Und dann — wahrhaftig, keine Täuschung! — dann
-hat der Inder die beiden geknipst — ganz heimlich.
+Und dann — — wahrhaftig, keine Täuschung! — dann
+hat der Inder die beiden geknipst — ganz heimlich …
 
 Eine Weile vergeht …
 
-Doris wendet den Kopf.
+Doris wendet den Kopf …
 
 <@pagebreak/>
 Da läßt der Inder zum zweiten Male den Momentverschluß
@@ -1025,7 +1025,7 @@ Verfügung stehenden Dunkelkammer sofort seine Rollfilms
 entwickelt hat und nun in seiner Kabine Nr. 12a (die
 Nummer 13 fehlte auf der Otranto — — Aberglaube!) weilt.
 
-Wir essen in unserer Kabine … auch die Robertsons
+Wir essen in unserer Kabine … Auch die Robertsons
 verzichten auf die gemeinsame Tafel im Speisesaal … Sie
 lassen sich das Diner in Doris Gwendolls Kabine servieren.
 — Unser Guckloch bewährt sich wieder …
@@ -1090,7 +1090,7 @@ recht … Mein Hirn ist jetzt zu sehr auf Ben Benson eingestellt
 …
 
 Der Inder — — und das Pärchen fährt nach Indien
-… — Wo ist da Anfang und Ende?! Ist meine Theorie etwa
+… Wo ist da Anfang und Ende?! Ist meine Theorie etwa
 falsch?! Haben die Robertsons die Riesenbeute gar nicht
 bei sich?! Sollte Harald etwa die Dinge ebenfalls ganz
 anders beurteilen?!
@@ -1105,7 +1105,7 @@ Ich beuge mich zu meinem Herrn Gemahl hinüber …
 »Ich heiße Sven … Sprich gefälligst dänisch … Wir
 sind Dänen …«
 
-»Entschuldige, Sven … in wollte nur etwas fragen
+»Entschuldige, Sven … Ich wollte nur etwas fragen
 … Teilst Du meine Ansicht, daß die Robertsons die Familienjuwelen
 bei sich haben?«
 
@@ -1133,7 +1133,7 @@ Person, wird verurteilt, entflieht …
 So gehe ich die Ereignisse von Anfang an nochmals
 durch …
 
-Meine Arbeit, Jan Mayen, muß sehr zurückstehen …
+Meine Arbeit, Jan Mayen, muß jetzt zurückstehen …
 Haralds »Blödsinn!« hat mich schwer geärgert … Ich bin
 doch schließlich auch nicht gerade auf den Kopf gefallen …!
 Es müßte doch mit dem Teufel zugehen, wenn ich nicht das
@@ -1192,7 +1192,7 @@ im Munde, nickt mir zu …
 
 »Erledigt …!!«
 
-»Nun — — und!«
+»Nun — — und?!«
 
 »Die Bilder sind fertig … Vier verschiedene Aufnahmen
 der beiden … Und dann fand ich noch ein Schreiben an
@@ -1201,7 +1201,7 @@ Anzeige, daß sich auf der Otranto der entsprungene Zuchthäusler
 Ben Benson befinde, Kabine Nr. 4 … Die beiliegenden
 Photographien seien der beste Beweis, zeigten
 <@pagebreak/>
-Bensons verbundenen rechten Arm … — also dazu hat
+Bensons verbundenen rechten Arm … — Also dazu hat
 der Kerl das Pärchen geknipst … dazu! Er will, daß sie
 verhaftet werden … Und es wird ihm natürlich gelingen …
 — Ich habe Hunger … Wir wollen soupieren …«
@@ -1321,7 +1321,7 @@ Deshalb kamen die Beamten nicht — deshalb …!!
 
 Ich flüstere ihm wütend zu:
 
-»Das hättest Du mir auch früher sagen können …!!«
+»Das hättest Du mir auch früher sagen können …!«
 
 Und er:
 
@@ -1332,7 +1332,7 @@ hübsch ausmalen können, wie Dein halb verliebtes Herze um
 Irina sich sorgte … Und Deine Leserinnen werden diese
 bangen Minuten mitfühlend mit erleben …! — Jetzt müssen
 wir in Suez aufpassen, ob der Bursche es dort nochmals
-versucht …«
+versucht …« —
 
 Und Schama Semli versuchte es …
 
@@ -1467,7 +1467,7 @@ die Koffer … Harald war noch an Deck …
 Es nahte also für die »Geschwister« Robertson abermals
 eine Entscheidungsstunde. Harst hatte sich in keiner Weise
 darüber geäußert, wie er das Pärchen diesmal vor dem
-Inder zu schützen gedachte. Hier in Bombay war dies weit
+Inder zu schützen gedächte. Hier in Bombay war dies weit
 schwieriger als anderswo, da die Otranto einen vollen Tag
 im Hafen blieb, bevor sie ihren Weg nach Ostasien fortsetzte.
 Außerdem hatten wir sowohl als die Robertsons und Schama
