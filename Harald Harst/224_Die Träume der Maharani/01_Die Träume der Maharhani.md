@@ -84,7 +84,7 @@ Messer die Narbe aufschnitt, kam dicht unter der Haut ein
 länglicher Zylinder aus Aluminiumrohr zum Vorschein, der
 an beiden Enden flach zusammengehämmert war. —
 
-Das Aluminiumrohr wurde vorsichtig ausgesägt. Es enthielt
+Das Aluminiumrohr wurde vorsichtig aufgesägt. Es enthielt
 ein viereckiges Stück Baumrinde, offenbar von der
 birkenähnlichen Sergovia, die nur auf einzelnen Inselgruppen
 der Südsee vorkommt. Diese glatte helle Rinde war als
@@ -107,7 +107,7 @@ est — Pater Angelus
 Harst brauchte drei Minuten, dann hatte er die Worte
 richtig geordnet.
 
-> Is quit Pisces sekat. Heres meus est. Insula Sumatra
+> Is qui Pisces sekat. Heres meus est. Insula Sumatra
 habet. ubi plures Insulae Crux faziunt, in ultima Insula
 <@pagebreak/>
 Crucis Mons cum Silva et Turris antiquus. Ibi est Hereditas.
@@ -172,7 +172,7 @@ eine alte Mutter … Die hat die Gicht … Und der
 schick’ ich, was ich so von meine Heuer absparen kann …
 Viel ist das nicht … — Also, — wie gesagt, Mr. Harst,
 — die Erbschaft, das is doch alles blauer Dunst … Nee,
-Patt O’Lonning fährt Nu schon drei Jahre hier auf der
+Patt O’Lonning fährt nu schon drei Jahre hier auf der
 Ohio, und so ’ne gute Stellung geb’ ich nich für ’n Stück
 Rinde und lateinische Wörter auf, Mr. Harst …«
 
@@ -199,7 +199,7 @@ Freunde vollständig rätselhaft blieb — vorläufig …
 <@pagebreak/>
 
 <h2>2. Kapitel.</h2>
-<h3>Einer der Burns—Bande?</h3>
+<h3>Einer der Burns-Bande?</h3>
 
 Ich habe Ceylon hier so häufig geschildert, nicht nur
 Colombo und seine Umgebung, sondern auch verschiedene
@@ -219,7 +219,7 @@ Mr. Albert Rycmars Heim war nicht lediglich von Palmen
 überschattet, sondern besaß in nächster Nähe all jene wunderbare
 Baumarten, von denen der Europäer sich kaum eine
 Vorstellung machen kann. Riesenbambus, wilde Feigenbäume,
-Brotfruchtbäume, zu deren Stamm die seltsamsten Früchte wie
+Brotfruchtbäume, an deren Stamm die seltsamsten Früchte wie
 verbeulte braune Feldflaschen hängen, Arekapalmen, die merkwürdige
 Rasamala — viele andere noch.
 
@@ -394,9 +394,9 @@ Leine um die Brust geschlungen und ließ den
 Körper nun langsam herab.
 
 Der Mann war ein Inder mit dunklem Bart, gekleidet
-in einer gelbbraunen, schmierigen Leinenanzug. Die
+in einen gelbbraunen, schmierigen Leinenanzug. Die
 Nickelmantelkugel war ihm schräg durch den Hinterkopf gegangen.
-Seine Taschen enthielten nichts — auch nicht die geringste
+Seine Taschen enthielten *nichts* — auch nicht die geringste
 Kleinigkeit. Sogar aus dem Leinenanzug war das Firmenläppchen
 unter dem Jackenkragen herausgetrennt.
 
@@ -425,7 +425,7 @@ Mr. Ralfson.«
 »Allerdings …«
 
 »Der Leinenstoff ist arg verbrannt, — da … er zerfällt.
-Die Flecke rühren als von einer sehr scharfen Flüssigkeit
+Die Flecke rühren also von einer sehr scharfen Flüssigkeit
 her. Der Inder suchte von oben aus einem Tropfglas Miß
 Sellerhoops Mund zu treffen. Die Ärmste hält ihn ja stets
 halb offen. Sie lag fast ausgestreckt da, und hätte ein
@@ -473,7 +473,7 @@ uns unterzeichnet, die Leiche weggeschafft, und die Sache war
 so weit erledigt.
 
 Inzwischen hatte die Nacht sich über die zauberhaften
-Schönheiten Colombos herabgezerrt.
+Schönheiten Colombos herabgesenkt.
 
 Wir waren mit unserem Diener Mitou, nachdem die
 Beamten sich verabschiedet hatten, in den Parkpavillon
@@ -510,7 +510,7 @@ Zehn Uhr …
 
 Eine Rikscha bringt uns zum Hafen. Das große Gebäude
 des Hafenamtes mit seinen Antennen- und seinen Signalbällen
-auf dem Dache kennt keine Feierstunde. Ein Oberseite
+auf dem Dache kennt keine Feierstunde. Ein Oberlotse
 zeigt uns die Schiffsliste. Es ist ein christlicher Singhalese
 mit grauem Bart, Fuselgeruch und ziemlich anmaßendem
 Benehmen. Merkwürdig, daß man im Orient immer wieder
@@ -582,10 +582,10 @@ Hafengetriebes gefangen, immer wieder entdecke
 ich in solchen Nachtgemälden mit ihren grellen Lichtfluten,
 ihrem geheimnisvollen Halbdunkel, ihrem Gewirr von Geräuschen
 und ihrer Schönheit halbnackter, schweißiger, muskelstrotzender
-Leiber den unnennbaren Zauber Asien, was man
+Leiber den unnennbaren Zauber dessen, was man
 als Poesie des Alltags bezeichnet.
 
-Harst hatte sie eine Mirakulum angezündet. »Wir werden
+Harst hatte sich eine Mirakulum angezündet. »Wir werden
 des Herrn Oberlotsen Phantasien über diesen Ma Hong
 anderswo klären müssen,« meinte er halblaut. »Wenn der
 Chinese etwa mit zu Burns gehörte, tun wir gut, unsere werte
@@ -664,7 +664,7 @@ beide damals oder inzwischen hier gewesen wäret, würde
 ich euch längst auf diesen Burschen gehetzt haben. — Prosit,
 Kinder … Trinkt aus … Ich hole frischen Stoff und bringe
 noch was dazu, was euch gefallen wird. Ich kenne ja euren
-Geschmack«.
+Geschmack.«
 
 Als er in kurzem den Stallverschlag in Begleitung eines
 zierlichen blonden Mädchens von etwa zwanzig Jahren wieder
@@ -680,7 +680,7 @@ Schlepper gewesen, und nur dem Zufall, daß Piet in Schantung
 im vorigen Mai Seide aufgekauft und dabei Anni
 entdeckt hatte, verdankte sie ihre Befreiung, ihre moralische
 Rettung. Jetzt war sie bei Piet Kochmamsell. Er hatte sie
-einfach losgekauft. Er: konnte sich das leisten. Piet galt
+einfach losgekauft. Er konnte sich das leisten. Piet galt
 allgemein als vielfacher Millionär.
 
 Anni war uns gegenüber keineswegs befangen. Sie
@@ -688,7 +688,7 @@ hatte unter das Gewesene einen dicken Schlußstrich gezogen,
 und heute war sie ein liebes, sanftes Geschöpf mit traurigen
 ernsten Braunaugen.
 
-»Erzählte von der Insel …« sagte Piet milde. »Die
+»Erzähle von der Insel …« sagte Piet milde. »Die
 <@pagebreak/>
 Herren kennst du ja dem Namen nach … Wenn irgendwer
 die Insel findet: die beiden sicherlich!«
@@ -762,7 +762,7 @@ aus Bombay, daß er jetzt wohl bald genügend Material
 gegen Ma Hong gesammelt haben würde, der ja stets unter
 der Maske eines harmlosen Frachtfahrers segelt. — Batru
 mußte längst hier bei mir gewesen sein, wenn er noch
-lebte. Armen Kerl!!« —
+lebte. Armer Kerl!!« —
 
 Ein paar Worte über diesen Mischling, der früher
 Hafenpolizist in Bombay gewesen. Die Eurasier sind zumeist
@@ -841,7 +841,7 @@ Blick gemustert hatte, als ob er mir für alle Zeit Todfeindschaft
 zuschwöre. Na — Piet macht sich den Dreck was
 daraus! Und wenn jetzt die Seeschwalbe hier wieder mal
 ankert, und wenn Sie beide annehmen, Ma Hong habe mit
-Burns Freundschaft gehalten, — und wenn Sie jetzt den
+Burns Freundschaft gehalten, — und wenn Sie jetzt dem
 Kerl auf den Pelz rücken, wird auch Batru gerächt werden.
 Ein Leichtsinn war’s ja überhaupt von ihm, sich als Maschinist
 an Bord der Dschunke zu wagen. Und daß diese Kühnheit
@@ -885,7 +885,7 @@ er den Chinesen.
 
 <@pagebreak/>
 Ma Hong war ein winziger alter Bursche, schmal, bartlos,
-verwittert, aber tadellos anzeigen, fast geckenhaft. Um die
+verwittert, aber tadellos angezogen, fast geckenhaft. Um die
 Ärmel seiner weißen Bordjacke trug er drei protzige goldene
 Streifen. In seiner weißgetupften blauen Seidenkrawatte
 funkelte ein erbsengroßer Diamant. Seine Hände und Füße
@@ -989,7 +989,7 @@ Es war zunächst ein schwacher Trost, daß Harald die
 äußere Würde wahrte und ehrlich sagte:
 
 »Ihr Kopf in Ehren, Ma Hong … Aber jede überreife
-Frucht fällt vom Zweige, das Ihr Kopf wird diesen Weg
+Frucht fällt vom Zweige, und Ihr Kopf wird diesen Weg
 gehen, ahne ich dunkel …«
 
 Dann setzte er sich und fragte Piet, der mit seltsam
@@ -999,7 +999,7 @@ verstörter Miene stummer Zeuge blieb:
 gewesen zu sein? — Zwanzig Jahre genügen, auch
 das Schlimmste auszutilgen aus dem Schuldbuch der Menschheit,
 zumal wenn diese zwanzig Jahre moralisch so erfreulich
-aufwärtsführten wie bei Ihren. Wer wie Sie, lieber Piet,
+aufwärtsführten wie bei Ihnen. Wer wie Sie, lieber Piet,
 ein Herz für die Opfer schurkischer Mädchenhändler hat, wer
 wie Sie im stillen so viel Gutes tut, kann jedem fest ins
 Auge blicken. Daß Sie jemals, mögen Sie sich auch gegen
@@ -1018,7 +1018,7 @@ Sie versagen. Da irren Sie sich. Ich werde Sie zur Strecke
 bringen. Zwischen uns ist Kampf — bis aufs Messer! Jetzt
 wissen Sie Bescheid. Hüten Sie sich. Der Inder, den ich
 heute erschoß, ist mit Ihrer Seeschwalbe hierher gekommen.
-Mithin waren Sie ein Verbündeten jenes Burns, dem nun
+Mithin waren Sie ein Verbündeter jenes Burns, dem nun
 der Strang sicher ist. Ihre Kalkulation war völlig verfehlt.
 Ich könnte von hier aus die Polizei anrufen und Ihre
 Dschunke durchsuchen und Sie und Ihre Leute verhaften
@@ -1118,7 +1118,7 @@ Erinnerungen …
 
 »… Pater Angelus … Angelus … Angelus …«
 
-Harald warf mir einen Langen Blick zu …
+Harald warf mir einen langen Blick zu …
 
 Ich verstand.
 

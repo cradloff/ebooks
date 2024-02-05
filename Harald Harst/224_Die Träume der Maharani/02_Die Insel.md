@@ -92,7 +92,7 @@ Der Polizeidirektor, die Beamten entfernten sich.
 
 Wir blieben bei der weinenden Anni Wendner …
 
-Wir trösteten … — Und später stellte ein heraus, daß
+Wir trösteten … — Und später stellte sich heraus, daß
 Piet Kolderleeven Anni zu seiner Alleinerbin eingesetzt
 hatte. Anni war nicht heimatlos geworden. Sie heiratete
 vier Monate später einen deutschen Steuermann und kehrte
@@ -326,7 +326,7 @@ und Klatschen der Wogen und das Stampfen der Motoren
 zentimeterbreite Öffnung in die Wand fraß.
 
 Unendlich behutsam zog Harald nun den Bohrer heraus.
-Ein dünner Lichtstrahl kam durch das Loch … Vieles Loch
+Ein dünner Lichtstrahl kam durch das Loch … Dieses Loch
 — und Harald hatte die einzig passende Stelle tadellos getroffen
 — saß zwischen zwei Wandschränkchen, wo es unmöglich
 auffallen konnte, wenn wir nachher gekautes und gefärbtes
@@ -472,7 +472,7 @@ Wieder eine Woge …
 Wieder Ma Hongs schrille Stimme:
 
 »… Burns versteckt, ich weiß es … Er war dort …
-Sie auch! Sie auch!! Beginnen Sie sich!!«
+Sie auch! Sie auch!! Besinnen Sie sich!!«
 
 Abermals eine Woge …
 
@@ -607,12 +607,12 @@ Nun das Gefährliche: Wir mußten an Deck … Wir
 mußten die Tür der Kammer nach außen öffnen … Auch
 nicht eine einzige Ritze konnte uns darüber Aufschluß geben,
 ob etwa auf auf dem Achterdeck eine Wache stand. Im
-übrigen war ja anzunehmen, das die Besatzung mit Ausnahme
+übrigen war ja anzunehmen, daß die Besatzung mit Ausnahme
 des Rudergasts und der Wachen nach den anstrengenden
 Nachtstunden des böigen Gewitters, wo alle Hände
 hatten bereit sein müssen, zur Koje gegangen war.
 
-Die Tür zog Harst man behutsam Zentimeter für Zentimeter
+Die Tür zog Harst nun behutsam Zentimeter für Zentimeter
 auf. — Das Achterdeck war leer. Mittschiffs lehnte
 ein Mann an der Reling, und auf der niederen Brücke
 mit ihrem modernen Funkhäuschen stand der Rudergast. Der
@@ -890,7 +890,7 @@ Ein ewiges Auf-der-Lauer-liegen …
 Ein ständiges Horchen, Lauschen …
 
 Ein immerwährendes Achten auf jede Kleinigkeit, um uns
-vor asiatischen Heimtücke zu schützen …
+vor asiatischer Heimtücke zu schützen …
 
 Gewiß: wir hatten mit dem zweiten Steuermann, einen
 Malaien, eine Art Waffenstillstand geschlossen …
@@ -971,11 +971,11 @@ in die das Schiff langsam hineinglitt …
 Ließ uns drüben einen düsteren Berg sehen, dessen
 Spitze durch ein turmähnliches Gebilde gekrönt war.
 
-Wir waren angelangt. Und Hast und ich starrten in das
+Wir waren angelangt. Und Harst und ich starrten in das
 Dämmerlicht der Tropennacht hinaus, die Hände um die
 Remingtonbüchsen gekrallt, — — mit entzündeten, übernächtigten
 Augen, mit vibrierenden Nerven, die geradezu
-nach Alkohol lechzten … letzten, — die aufgepeitscht sein
+nach Alkohol lechzten … lechzten, — die aufgepeitscht sein
 wollten für die Entscheidung … —
 
 Der Buganker rasselte in die Tiefe … Huschende Gestalten
@@ -1087,7 +1087,7 @@ Hatten nicht einmal Waffen mit …
 Schuß um Schuß …
 
 Aber wie durch Zauberspruch schien die Masse der
-braunen, gelben Leiter sich zu verdoppeln … Von der
+braunen, gelben Leiber sich zu verdoppeln … Von der
 Insel her mußten sie Zuzug erhalten … Mit einem Male
 pfiffen auch uns die Kugeln um die Ohren …
 
@@ -1130,7 +1130,7 @@ blutigen, nervenpeitschenden Geschehens.
 
 Der Morgen war da … Der Morgen nach der höllischen
 <@pagebreak/>
-nacht, die wir nur deshalb überlebten, weil Harald in
+Nacht, die wir nur deshalb überlebten, weil Harald in
 Colombo unserem rothaarigen, zahnlosen Freunde Patt
 O’Lonning (wie ich jetzt erst erfuhr) genau die Insel bezeichnet
 hatte, — nach Piet Kolderleevens tintenbeklexter
@@ -1245,7 +1245,7 @@ Der Wald hörte auf. Vor uns lag ein Abgrund mit
 steilen Wänden, gut zwölf Meter breit — von einer Tiefe,
 die drunten alles in Finsternis ließ. Dieser Abgrund, sahen
 wir später, umzog die Spitze des Berges wie ein Wallgraben
-und sperrte sich gegen die übrige Insel vollkommen ab.
+und sperrte sie gegen die übrige Insel vollkommen ab.
 
 Der Inder wandte sich nach Osten zu, holte sodann aus
 einem Dornengestrüpp ein Tau hervor, warf es mit bewundernswerter
@@ -1337,10 +1337,10 @@ wurde und ein Dutzend dieser Schurken für viele Jahre ins
 Zuchthaus wanderten.
 
 Mancherlei ließe sich wohl auch noch über die Insel
-sagen … Wer dies genau nachlesen will, verschaffen sich
+sagen … Wer dies genau nachlesen will, verschaffe sich
 die Nummer der Kalkutta-Times vom 14. Oktober 1927.
 Dort habe ich einen längeren Artikel veröffentlicht, der
-Freilich nur die Flora und Fauna der Insel, die Bauart
+freilich nur die Flora und Fauna der Insel, die Bauart
 des Turmes und das Einfangen der auf der Insel befindlichen
 Tiger behandelt, die der Fürst dorthin hatte
 schaffen lassen — als Wächter der Verbannten.
