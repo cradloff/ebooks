@@ -193,7 +193,7 @@ die eingeschaltete Taschenlampe in der Linken. Als ich mich
 aufrichtete, glitt der Lichtkegel zufällig über die Ruine von
 Sofa hin. Ich stand reglos. Da saß Vincent Saalborg, rauchte
 eine Zigarette, lächelte mich an, nickte mir zu und hielt
-kann den Zeigefinger an die Lippen.
+dann den Zeigefinger an die Lippen.
 
 »Vorwärts doch!« brummte Harald hinter mir und gab
 mir einen gelinden Stoß gegen die Sitzgelegenheit. Ich versperrte
@@ -471,7 +471,7 @@ kreischte *er* mit einer Fistelstimme, die durch Mark und Bein
 ging.
 
 »Ach nee: heite, heite, nich morjen,« meinte der Kerl
-nur der Zuhältervisage … »Raus mit die Kröten, Herr
+mit der Zuhältervisage … »Raus mit die Kröten, Herr
 Miller … Schanieren Sie sich nich …!«
 
 Miller zitterte …
@@ -482,7 +482,7 @@ Er besaß nichts mehr.
 
 »Alsdann,« sagte der Sprecher, »alsdann — jute Nacht,
 oller Schwindler! So ’ne Frechheit!! Lockt det A … uns
-hierher, und hat noch nich mal ’n Knopp ins Portföh, —
+hierher, und hat noch nich mal ’n Knopp ins Portföh. —
 Entschuldijen Sie, Herr Harst … Wir türmen!«
 
 Ferdinand Miller hatte sich mit beiden Fäusten auf
@@ -779,7 +779,7 @@ stand:
 <p class="right">Berlin W. 112.</p>
 <p class="right">Rizziusstraße 2.</p>
 
-Und unsere dicke Mathilde, die neidlos die fremde Schönheit,
+Und unsere dicke Mathilde, die neidlos die fremde Schönheit
 anerkannte, hatte nicht übertrieben.
 
 Frau Olbrich war blendend schön und rührend jung.
@@ -888,7 +888,7 @@ uns nicht alles eingestanden.«
 
 »Nein.«
 
-»Du in meinst, ihr verflossener Verehrer ist doch hier?«
+»Du meinst, ihr verflossener Verehrer ist doch hier?«
 
 »Nein.«
 
@@ -1104,7 +1104,7 @@ sich der Zauberkünstlerin, die im Sessel neben dem Tischchen
 Platz genommen hat, auf die Hand und beginnt zu singen.
 Dann kriecht aus der Zuckerschale bedächtig eine weiße Ratte
 heraus, aus dem Sahnenkännchen eine weiße Maus, und
-das Schinkenbrötchen verwandelt sich in einen mittelgroße
+das Schinkenbrötchen verwandelt sich in einen mittelgroßen
 Papagei …
 
 All das wirkt ebenso lustig wie verblüffend.
@@ -1220,7 +1220,7 @@ zwischen den Nachtschwärmern zu verschwinden … Er war
 ebenfalls in der Blauen Maus. Also hat er uns doch mit
 Erfolg nachspioniert.
 
-Ich bin neben ihm, vor ihn …
+Ich bin neben ihm, vor ihm …
 
 »N’Abend, Herr Miller …«
 
@@ -1345,7 +1345,7 @@ einen förmlichen Paroxysmus von Wut, packte Anni Saalborgs
 Handgelenk. »Gut — arm habt ihr mich gemacht, bettelarm
 …! Aber auch ihr beide sollt mit mir hinab in den
 Abgrund! Die Polizei wird auch … — —«, — — und
-da, als er Anni Saalborg roh zurückließ, geschah das
+da, als er Anni Saalborg roh zurückstieß, geschah das
 Gräßliche, Unerwartete …
 
 Wir hatten nicht geahnt, daß Saalborg hier in diesen

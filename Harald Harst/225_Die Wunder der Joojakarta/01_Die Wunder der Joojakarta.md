@@ -161,7 +161,7 @@ Ich wog den einen Eilbrief zögernd in der Hand. Ich
 — in den Ofen damit!
 
 Ich überflog die Anschrift des Umschlags. Links unten der
-Absenden vermerkt:
+Absender vermerkt:
 
 > Oberingenieur v. P. H. …
 
@@ -201,14 +201,14 @@ Und das ist der Ton warmer behaglicher Freundschaft,
 gepflegten Familienlebens, der da wie ein Leitmotiv durch
 alle Ihre Bändchen geht … Der Haken, mit dem Sie
 unsereinen halten: Man sitzt sozusagen ein bißchen im Klubsessel
-in Haralds vornehmen Arbeitszimmer und fühlt sich
+in Haralds vornehmem Arbeitszimmer und fühlt sich
 dazugehörig zu zwei klugen und anständigen Menschen … —
 Sie haben da zwei Menschen geschaffen, die so *warm*
 sind, wie ihr Milieu warm ist … Und in diesem Sinne
 leisten Sie tatsächlich etwas, das abseits von der illegitimen
 Kolportage liegt … Glauben Sie mir, *die zahlreichen
 Menschen*, die sonst gewöhnt sind »Literatur« zu lesen,
-die *liebem Ihre Bändchen* um des feinen seelischen
+die *lieben Ihre Bändchen* um des feinen seelischen
 Parfüms, das Sie den beiden Männern geben, um des
 Milieus, in welches Sie sie hineingesetzt haben, und das in
 seiner Schilderung Literatur *ist* …«
@@ -409,7 +409,7 @@ Potsdamer Str. 83 c.
 einen Artikel über mein Haus Parochialstraße 222. Ich
 gestatte mir, Sie auf diesen sensationell aufgeputzten Artikel
 aufmerksam zu machen, den ich beifüge. Ich schreibe gleichzeitig
-an das Polizeirevier, daß im das Haus durch geeignete
+an das Polizeirevier, daß ich das Haus durch geeignete
 Sicherungen sperren lassen werde, nachdem die
 Räumungsaufforderung an die unbekannten Mieter
 fruchtlos geblieben. Es wäre mir interessant zu erfahren,
@@ -1045,7 +1045,7 @@ Und: er war da — er war hier in Nummer 222 …
 Kakteendame auf uns gehetzt, *er* hatte uns … ausgeschaltet!
 
 Also — war er nun der Hausierer oder war’s der Mann
-im Schlafrock! Hatte er etwa vorhin nur maskiert diese
+im Schlafrock?! Hatte er etwa vorhin nur maskiert diese
 Zeitungsbündel angestarrt?! Es mußte wohl so sein …
 
 Ihm war ja alles möglich. Was hatten wir mit diesem
@@ -1138,7 +1138,7 @@ durchaus ernst. »Wollen wir nicht ein wenig Platz nehmen
 und plaudern, Herr Schmidt? Bitte — benutzen Sie den alten
 Sessel da, und ich setze mich in die Sofaecke …«
 
-Schmidt wurde mißtrauisch, »Plaudern?! Es ist hier so
+Schmidt wurde mißtrauisch. »Plaudern?! Es ist hier so
 hundekalt, Durchlaucht …«
 
 Seine Durchlaucht trat näher an den Alten heran und
@@ -1152,12 +1152,12 @@ setzen wir uns …!« Das klang schon schärfer.
 Schmidt wurde nervös. »Ich … ich friere, Durchlaucht …
 ich möchte lieber …«
 
-»Ein paar Minuten werden Sie es schon noch aufhalten
+»Ein paar Minuten werden Sie es schon noch aushalten
 … Bitte …!!«
 
 Der Alte gehorchte …
 
-Seine Durchlaucht schlug in höchstihrer, Sofaecke, zwanglos
+Seine Durchlaucht schlug in höchstihrer Sofaecke, zwanglos
 ein Bein über das andere und legte die Pistole in den
 Schoß. Die Taschenlampe placierte er auf der Sofalehne, so
 daß Schmidt von dem Strahlenkegel voll getroffen wurde.
@@ -1211,7 +1211,7 @@ Wie ein Geier packe Herr Ferdinand Miller das Paket …
 
 Prallte zurück …
 
-Die Pistole in Saalborgs Hand ließ tun mit einem
+Die Pistole in Saalborgs Hand ließ ihn mit einem
 ächzenden Laut in den Sessel zurücksinken.
 
 <@pagebreak/>
@@ -1272,7 +1272,7 @@ Saalborg richtete sich empört auf.
 
 Saalborg lächelte plötzlich. »Spielen wir mit offenen
 Karten! Sie haben dieses Vermögen nicht versteuert. Es wirft
-mindestens fünfzehntausend Mark Zinsen ob. Ich gehöre
+mindestens fünfzehntausend Mark Zinsen ab. Ich gehöre
 nicht zu den Leuten, die andere absichtlich ins Unglück
 stürzen. — Haben Sie das Vermögen verheimlicht?«
 
@@ -1416,7 +1416,7 @@ Langsam raffte er sich auf …
 
 »Wer … sind Sie?«
 
-»Mein Name ist Harald Hast, und dies hier ist mein
+»Mein Name ist Harald Harst, und dies hier ist mein
 lieber Freund Max Schraut …«
 
 Miller fuhr hoch.
@@ -1428,7 +1428,7 @@ mit Ihnen wenig zu tun haben, eher schon die Hölle!«
 
 Miller fiel in den Stuhl zurück …
 
-»Sie … Sie … müssen mir Helfen … Ich bin bestohlen
+»Sie … Sie … müssen mir helfen … Ich bin bestohlen
 worden … Ich …«
 
 »So?! — Erzählen Sie bitte …«
