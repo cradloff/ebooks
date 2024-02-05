@@ -2485,45 +2485,46 @@ noch vorbereitet worden. Um halb zwölf gingen wir zu
 Bett.
 
 <h2>5. Kapitel.</h2>
-<h3>»Und nun das Ganze …</h3>
+<h3>Und nun das Ganze …</h3>
 
-Wir gingen ganz richtig zu Bett — in unseren sHwarzeseidenen
-Schlafanzügen. Gegen ]Fall zehn hatte sich der bis
+Wir gingen ganz richtig zu Bett — in unseren schwarzseidenen
+Schlafanzügen. Gegen halb zehn hatte sich der bis
 dahin klare Himmel bewölkt. Es regnete sacht, so ein richtiger
 Landregen, der eintönig, gleichmäßig gegen die Fenster
 plätscherte.
 
 Schlafen?!
 
-Nest: — das nicht! Über schnarchen —« schön elf Durchmachen
+Nein — das nicht! Aber schnarchen — schön echt schnarchen
 — das ja!
 
-Eis war ganz dunkel im Zimmer … Fünf lebende Wesen
-waren darin, die Fliegen, Spuren und sonstiges Kleinviely
-abgerechnet, denn die Katze rechne im nicht zum Kleinvieh,
+Es war ganz dunkel im Zimmer … Fünf lebende Wesen
+waren darin, die Fliegen, Spinnen und sonstiges Kleinvieh
+abgerechnet, denn die Katze rechne ich nicht zum Kleinvieh,
 erst recht nicht den … — doch nein, davon später.
 
 In unserem Zimmer herrschte, bis auf mein Schnarchkonzert,
 Grabesstille.
 
-Unten in des Doktors Studie:Zimmer schlug die Standuhr
+Unten in des Doktors Studierzimmer schlug die Standuhr
 <@pagebreak/>
-zwölf. Man hörte es bis hier oben. Es war die reineTurne«
+zwölf. Man hörte es bis hier oben. Es war die reine Turm-
 Uhr — ein Erbstück.
+
 Zwölf …
 
 Geisterstunde …
 
 Ich Hatte die Augen offen … Ich wußte, es würde etwas
-gesehen. Auf dem Diwan lag unser Maschinen — im Korbe!
-Ohne Mord wäre das Tierchen in den äußersten Winkel ge
-flohen. Saßen haben tadellose Lassen. Bessere als Menschen
+geschehen. Auf dem Diwan lag unser Kätzchen — im Korbe!
+Ohne Korb wäre das Tierchen in den äußersten Winkel ge-
+flohen. Katzen haben tadellose Nasen. Bessere als Menschen
 und als das Phantom, sonst hätte dieses sich gehütet, unserem
 Schlaf zu trauen …
 
 Minuten verstrichen noch.
 
-— Ich, ließ eine Pause im Konzert eintreten. Dafür atmete
+Ich ließ eine Pause im Konzert eintreten. Dafür atmete
 Harald desto tiefer.
 
 Und da … hörte ich etwas …
@@ -2531,36 +2532,36 @@ Und da … hörte ich etwas …
 Etwas, das sehr leise war, sehr gering, — nur ein
 kurzes Knarren …
 
-Dann leuchtete in der Bitte des Zimmers etwas auf …
+Dann leuchtete in der Mitte des Zimmers etwas auf …
 Auch nur ein schwaches Glühen: eine Taschenlampe, deren
 Linse man mit gelbem Seidenpapier eingehüllt hatte. Das
 wirkte gespenstisch.
 
 Hinter diesem gelben Fleck gewahrte ich in Kopfhöhe eines
-stechenden Menschen einen zweiten helleren Fleck: das Gesicht
+stehenden Menschen einen zweiten helleren Fleck: das Gesicht
 des Phantoms! Die Umrisse der Gestalt waren kaum wahrnehmbar.
 
-Herde Flecke bewegten sich? lautlos vorwärts — zum
+Beide Flecke bewegten sich lautlos vorwärts — zum
 Diwan. Der kleinere streckte sich vor … Da wurde der
 Henkelkorb sichtbar, in dem das Kätzchen lag.
 
 Jetzt geschah dreierlei.
 
-Tue Karbidlaterne sandte urplötzlich ihre grelle Lichtbahn
-auf das Phantom … Die Lichtbahn »sprang unter
+Eine Karbidlaterne sandte urplötzlich ihre grelle Lichtbahn
+auf das Phantom … Die Lichtbahn sprang unter
 Harsts Steppdecke hervor.
 
 Aus dem Kleiderschrank aber sprang etwas anderes: der
 Panther Cassius, dem die Tatzen mit Leder umwickelt waren.
 Er warf das Phantom in kraftvollem Anprall hintenüber,
 <@pagebreak/>
-schnappte jedoch nicht zu, denn er hatte einen sehr Seiten
+schnappte jedoch nicht zu, denn er hatte einen sehr festen
 Maulkorb um.
 
-Drittens: Das Phantom und der Panther, der den »Sei:«
-umklammerte, schwebten naß oben — sehr schnell. Gleichzeitig
-rief Harald ich« laut: »Lassen Sie die Schnüre fall2u,
-Malcolm und Setter!! Es hat keinen Zweck welch’«
+Drittens: Das Phantom und der Panther, der den »Geist«
+umklammerte, schwebten nach oben — sehr schnell. Gleichzeitig
+rief Harald sehr laut: »Lassen Sie die Schnüre fallen,
+Malcolm und Setter!! Es hat keinen Zweck mehr!«
 
 Voraus Phantom und Panther wieder auf den Teppich
 glitten.
@@ -2568,40 +2569,40 @@ glitten.
 Oben in der Holzdecke des Zimmers erschienen nun zwei
 Gesichter. Malcolm, der einem der Kerle, die uns niedergeschlagen
 hatten, sehr ähnlich sah, meinte aus dem Schacht
-zwischen den Dielen heraus: »Die Habe mußte schlief gehen!
-Ich ahnte e31« — Der Mann regte sich offenbar nicht allzu
-sehr über diesen Mißerfolg aus.
+zwischen den Dielen heraus: »Die Sache mußte schief gehen!
+Ich ahnte es!« — Der Mann regte sich offenbar nicht allzu
+sehr über diesen Mißerfolg auf.
 
 Aus dem Schranke stieg Saalborg, nahm Cassius beim
 Halsband und sperrte ihn in den Schrank ein. Harald half dem
 Phantom auf die Beine … »Miß Brown, Sie haben sich
-wesentlich nicht weh getan,« meinte er höflich und geleitete
+hoffentlich nicht weh getan,« meinte er höflich und geleitete
 sie zum Sofa.
 
 Dora Brown in ihrem scheußlichen Aufzug saß steif da.
-nun auch Doktor Petersen und Anni eintraten, als auch
-Malcolm und Setter durchs die Deeanöffnung an einem
-dünnen Strich herunterkamen und sich bescheiden an die Wand
+Als nun auch Doktor Petersen und Anni eintraten, als auch
+Malcolm und Setter durch die Deckenöffnung an einem
+dünnen Strick herunterkamen und sich bescheiden an die Wand
 stellten, begann Harst zu sprechen …
 
 »Dem Milliardär King wurden 5000 Pfund gestohlen.
 Dora Brown ermittelte, daß als Diebin nur Gussy Wendnoor
 im Betracht käme. Sie konnte jedoch lediglich den
 Koffer der Wendnoor beschlagnahmen, in dem sie einen
-Schlangenring und einstige Briefe Saalborgs an Gujs9
+Schlangenring und einstige Briefe Saalborgs an Gussy
 fand. Die Spur der Wendnoor war dagegen so glänzend verwischt,
 daß Dora Brown mit ihren beiden Helfern einsehen
-mußte, jede weitere Jagd sei Zweige. Da las sie in der
-Zeitung von den Vorgängen hier in Greissenberg, von
+mußte, jede weitere Jagd sei zwecklos. Da las sie in der
+Zeitung von den Vorgängen hier in Greifenberg, von
 Saalborgs Aufenthalt hier auf dem Haubenberg, von Chanawutu
 … — Sie, der nur darum zu tun war, den Weltruf
 <@pagebreak/>
 der Firma Brown zu festigen, entwarf einen niederträchtigen
 Plan, scheinbar einen Teilerfolg herbeizuführen. Sie schrieb
-ihrem Vater, entwickelte ich- diesen Plan, und Brown antwortete
-kurz: »Der Ruf unseres Instituts verlangt eilten
-Erfolg.« Das hieß: Brown blickte dieses abscheuliche Vorhaben.
-— Dora leitete die Habe derart ein, daß sie die
+ihrem Vater, entwickelte ihm diesen Plan, und Brown antwortete
+kurz: »Der Ruf unseres Instituts verlangt einen
+Erfolg.« Das hieß: Brown billigte dieses abscheuliche Vorhaben.
+— Dora leitete die Sache derart ein, daß sie die
 Katze mit dem Ring Saalborg finden ließ, der nun annahm,
 Gussy Wendnoor sei wieder aufgetaucht. Er wartete an der
 Zaunpforte auf Gussy, und derweil ließ Dora uns beide
@@ -2613,7 +2614,7 @@ Inzwischen hatte Setter den Einbruch bei dem Grafen in
 Flinsberg erledigt. — Die ungeheuerliche Gemeinheit ging
 weiter. Dora Brown durchstöberte in Friedeberg schon vorher
 die Urkunden über den Haubenberg und fand ein bisher
-übergossenes Blatt mit einer Skizze der geheimen Gänge«, die?
+übersehenes Blatt mit einer Skizze der geheimen Gänge, die
 zumeist in den Zimmerdecken angebracht waren. Sie verschaffte
 sich ein entsprechendes Kostüm aus Görlitz und spielte hier
 das Phantom, belauschte uns alle und richtete sich danach.
@@ -2621,35 +2622,35 @@ das Phantom, belauschte uns alle und richtete sich danach.
 Schraut hat richtig erkannt, daß die Hinterreifen nicht
 stimmten. Die zweite Dummheit war, daß sie die Ringe im
 Doppelboden ihres Koffers verwahrte. Mein ungewisser Verdacht
-wurde zur Gewißheit. Ich nahm die Maße mit. Dora
+wurde zur Gewißheit. Ich nahm die Katze mit. Dora
 glaubte, sie sei entlaufen und vielleicht hierher gekommen.
 
-Mein Plan klappte: Das Spiel ist aus! Die Firma
+*Mein* Plan klappte: Das Spiel ist aus! Die Firma
 Brown wollte 5000 Pfund opfern, um vor der Welt groß
 da zu stehen, — die Firma Brown hatte das Grafen Juwelen
 »wiedergefunden« und Saalborg als Dieb »entlarvt« — und
-alle wäre böse ausgelaufen, wenn nicht« die Photographie
-den Anstoß zu meiner Radeltour zur alten Schnitt gegeben
+alles wäre böse ausgelaufen, wenn nicht die Photographie
+den Anstoß zu meiner Radeltour zur alten Schmidt gegeben
 Hätte.«
 
 Er wandte sich an die Schuldige.
 
 <@pagebreak/>
-»Miß Brown, in Deutschland hat man für solche Geschäftsbriefe
+»Miß Brown, in Deutschland hat man für solche Geschäftskniffe
 kein Verständnis! Sie und Malcolm und Setter
 werden eingesperrt werden, und Brown-London ist erledigt.«
 
 Zu unser aller Erstaunen sagte Dora da:
 
-»Oh — wir sind so reich, daß uns knirschte schadet,
-Herr Harst. Aber — daß: im einmal mit Ihnen abrechnen
-werde, darauf können Sie sich verlassen)!« — —
+»Oh — wir sind so reich, daß uns das nichts schadet,
+Herr Harst. Aber — daß ich einmal mit Ihnen abrechnen
+werde, darauf können Sie sich verlassen!!« — —
 
-Kürzer und eindruF&svoller als Harald hier hat wohl nie
+Kürzer und eindrucksvoller als Harald hier hat wohl nie
 ein Ankläger gesprochen.
 
 Und glücklicher als Saalborg und Anni sind wohl
-selten ein Ehepaar gewesen, als sie Gussy Wendnoors Brücke
+selten ein Ehepaar gewesen, als sie Gussy Wendnoors Briefe
 verbrannten und die beiden Ringe der Armenverwaltung
 in Friedeberg überwiesen.
 
@@ -2658,8 +2659,8 @@ abenteuerlichen Leben verspürt. Er war geheilt — für
 immer …
 
 Über Dora Brown hätte ich noch einiges zu berichten
-ich nichts angenehmes. Ihre Drohung gegen Harald. war
-kein leeres Gerede. Ein Weib von schlafen verbrecherischen
+-- nichts angenehmes. Ihre Drohung gegen Harald war
+kein leeres Gerede. Ein Weib von ihrer verbrecherischen
 Phantasie konnte sehr wohl einen Tennisball zu einer noch
 größeren Gemeinheit benutzen, als sie’s mit der Katze getan.
-»Orita Meiers Tennisball« gibt hierüber Ausschluß.
+»*Grita Meiers Tennisball*« gibt hierüber Aufschluß.
