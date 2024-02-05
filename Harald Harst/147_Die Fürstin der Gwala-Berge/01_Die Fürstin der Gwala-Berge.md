@@ -16,7 +16,7 @@ Tempelruine des Bergkegels erlebten, hing mit Ben Bensons
 drei Fingern zusammen. Der Leser kennt diese Geschehnisse
 aus dem vorigen Band, weiß, daß wir dort im Hofe der
 Tempelruine einen uralten Ziehbrunnen fanden, an dessen
-morschen Balken an einem ebenso morschen Tau die zur
+morschem Balken an einem ebenso morschen Tau die zur
 Mumie eingetrocknete Leiche eines Inders und unterhalb
 dieser im Grase einen haselnußgroßen Diamanten von vorzüglichem
 Schliff sowie den dazu gehörigen breiten Goldreif,
@@ -72,7 +72,7 @@ an, daß Lewis Balland, dem wir hier den Familienschmuck
 der Herzöge von Lancire abgejagt haben, ein so harmloses
 Tierchen ist, daß er sich nicht zu rächen versuchen wird?!
 Bist Du töricht genug, hier im Lesesaal keine Spione
-Englands zu vermuten?!« — Er sprach immer leiser …
+Ballands zu vermuten?!« — Er sprach immer leiser …
 »Nein, mein Alter, Balland ist bereits kräftig an der Arbeit
 … drüben in der anderen Ecke sitzt seit zwei Stunden eine
 Europäerin, die scheinbar einen Roman verschlingt. In
@@ -368,12 +368,12 @@ Nun zurück in den kleinen Hof des verfallenen Hindutempels
 
 Zurück zu uns beiden Lauschern, die wir hier soeben
 Zeugen eines unheimlichen Vorgangs geworden: das Bündel
-Lappen, Knochen und scheinbar mumienhaft vertrockneten
+Lumpen, Knochen und scheinbar mumienhaft vertrockneten
 Fleisches dort oben am Brunnenbalken hatte Leben bekommen!!
 
 Etwas Unerhörtes war geschehen …
 
-Und noch mehr geschah.
+Und noch mehr geschah …
 
 <@pagebreak/>
 
@@ -397,7 +397,7 @@ die der dunkelhaarigen Zirkassierinnen …
 Jedenfalls trotz des ärmlichen Überwurfes eine
 schlanke, prachtvolle Figur — geschmeidig wie eine Tigerin,
 ebenso kräftig und graziös … Denn die gestreiften gelben
-Bestien der indischen Dschungel besitzen eine natürliche lässige
+Bestien der indischen Dschungel besitzen eine natürliche, lässige
 Grazie … Das wird jeder bestätigen, der die Riesenkatzen
 einmal in Freiheit beobachtet hat …
 
@@ -746,7 +746,7 @@ Dort in einer Dschungellichtung haben fünf Pferde und
 drei Kamele längere Zeit gestanden, also die Reittiere der
 vier Leute und ihrer Begleiter …«
 
-Er warf die Gace weg, wusch sich in unserer Gummischüssel
+Er warf die Gaze weg, wusch sich in unserer Gummischüssel
 die Hände und sagte:
 
 »Frühstücken wir … Dann Aufbruch nach Nordost —
@@ -938,7 +938,7 @@ Antwort der Miß klang bereits ein wenig gezwungen …
 »So … so … — halbe Stunde …!! Und der Schrotlauf
 der Büchse riecht absolut nicht mehr nach Pulver — —
 merkwürdig!! Und die Enten da — auch sehr merkwürdig!
-— Die sind bereits von drei Stunden geschossen — mindestens
+— Die sind bereits vor drei Stunden geschossen — mindestens
 … Man … riecht es ja … In dieser Hitze stinkt Geflügel
 schon nach zwei Stunden …! — Miß Baacer, Sie müssen
 es wirklich schon ein wenig schlauer anfangen, wenn Sie
@@ -1179,9 +1179,8 @@ Peng — peng … — Harald hatte zwei Schüsse abgegeben
 Luft …
 
 Die Gwali hüpften ins Wasser — sehr zögernd …
-Das Badebedürfnis ist bei diesem Bergvolk nicht allzu groß.
-
-Die Kerle stanken bis zu uns hin.
+Das Badebedürfnis ist bei diesem Bergvolk nicht allzu groß …
+Die Kerle stanken bis zu uns hin …
 
 <@pagebreak/>
 Wateten zu dem Baumstamm … Schoben ihn aus
@@ -1248,7 +1247,7 @@ den Felsen, kehrte sehr bald zurück …
 »Oben gibt es eine Vertiefung — einen bequemen
 Lagerplatz, mein Alter … Dort werden wir über den nächtlichen
 Fiebernebeln ruhen können … Trotzdem nehmen wir
-jetzt eine Dosis Chinin …«
+jeder eine Dosis Chinin …«
 
 Bisher hatte er zu der Rani nicht mehr gesprochen …
 
@@ -1287,7 +1286,7 @@ Rucksäcke und einige Baumäste.
 So wurde aus diesem Segel, den Bootshaken und Ästen
 <@pagebreak/>
 in dem tiefsten Winkel der Einbuchtung für die Fürstin ein
-Zelt errichtet, Decken hineingelegt … —
+Zelt errichtet, Decken hineingelegt …
 
 Die Dunkelheit kam … Und die Nebelschleier wallten
 unten über der Lagune in immer dichteren Schwaden …
@@ -1376,7 +1375,7 @@ steinernes Antlitz …
 Es kostete die Fürstin offenbar ungeheure Überwindung,
 zu antworten …
 
-»Fragen Sie …!!« — herrisch klang es … Sie schaute
+»Fragen Sie …!!« — Herrisch klang es … Sie schaute
 nicht auf …
 
 »Weshalb kamen Sie heimlich und verkleidet nach
@@ -1535,7 +1534,7 @@ hatte …
 »Unbegreiflich, mein Alter …! Sie kann doch unmöglich
 in die Tiefe hinabgesprungen sein …! Höchstens — — man
 hat hier etwa einen entästeten Baum gegen den Felsen
-gelehnt … Sie könnte so hinabgeklettert sein … doch —
+gelehnt … Sie könnte so hinabgeklettert sein … Doch —
 ich sehe nichts von einem Baum … Und in den wenigen
 <@pagebreak/>
 Sekunden wird sie wohl kaum bis unten gelangt …«
@@ -1595,7 +1594,7 @@ soeben sich erhoben, wo noch die Decken lagen, aus denen
 die Rani Raßmalar mit untergeschlagenen Beinen als
 Statue gesessen, ein Geräusch …
 
-Wir starrten hin … die Decken bewegen sich, werden
+Wir starrten hin … Die Decken bewegen sich, werden
 emporgehoben … Eine Steinplatte fällt zur Seite …
 
 Ein Kopf erscheint aus einer uns unbekannten Spalte.
