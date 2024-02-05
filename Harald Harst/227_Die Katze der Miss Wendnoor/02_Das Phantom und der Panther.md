@@ -253,7 +253,7 @@ kleine Tür hinter der Haupttreppe …
 
 »Dorthin ist es entwichen — wahrscheinlich!«
 
-»Was denn — wer denn?!
+»Was denn — wer denn?!«
 
 Ich berichtete kurz das Erlebte.
 
@@ -868,7 +868,7 @@ Er faßte in die Tasche …
 »Bitte, was ist das?«
 
 Er hielt mir einen zusammengeknüllten Brief hin. —
-Lies!«
+»Lies!«
 
 Es war ein Schreiben John Browns an seine Tochter
 Dora. Aus dem Schreiben ging klar hervor, daß meine

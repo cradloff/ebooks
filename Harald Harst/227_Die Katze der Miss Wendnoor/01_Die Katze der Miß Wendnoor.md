@@ -263,7 +263,7 @@ jetzt nach Spuren … Die Frau mit der Katze muß irgendwo
 über den hohen Drahtzaun geklettert sein. Es wäre merkwürdig,
 wenn der Stacheldraht sie nicht festgehalten hätte.
 Zumindest müßten dort Schuheindrücke zu finden sein, die selbst
-der Regen nicht weggewaschen hat.
+der Regen nicht weggewaschen hat.«
 
 Wenn ein Harst sucht, findet er auch.
 
@@ -1085,7 +1085,7 @@ Er nahm Bogen Nr. 3 …
 
 »Aussage des Doktor Petersen …
 
-> »… Mir fiel auf, daß meine Nichte gestern abend
+> … Mir fiel auf, daß meine Nichte gestern abend
 <@pagebreak/>
 plötzlich sehr müde wurde. Wir haben im Speisezimmer mit
 unseren Gästen Harst und Schraut Moselwein getrunken.
