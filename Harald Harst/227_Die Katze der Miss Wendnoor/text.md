@@ -136,7 +136,7 @@ war.
 
 Kein Wunder, daß das Tierchen halbtot vor Angst war!
 Versuchten doch die Panther immer wieder mit den Pranken
-durch die Stäbe hindurzulangen.
+durch die Stäbe hindurchzulangen.
 
 »Unglaublich!!« rief Saalborg empört und hob das Kätzchen
 empor, während ich den Strick löste. Gerade ihn, der
@@ -147,7 +147,7 @@ Aber — hiermit nicht genug. Saalborg sah wie ich, daß
 das Tierchen um den Hals ein nasses blaues Bändchen trug,
 an dem etwas Goldiges blinkte. Es war ein Ring in
 Schlangenform, *zwei* ineinander verschlungene Brillenschlangen,
-deren aufgeblähte Hauben durch zwei fast Erbsengroße
+deren aufgeblähte Hauben durch zwei fast erbsengroße
 Brillanten dargestellt waren, ein ebenso kostbarer wie
 eigenartiger Ring.
 
@@ -236,7 +236,7 @@ Leute wie er, die überall zu Hause waren, die mit ihrer
 faszinierenden Persönlichkeit, mit diesem dunklen Beigeschmack
 zweifelhafter Existenzen die Weiber anzogen wie der Aasduft
 der fleischfressenden Pflanzen die Insekten, — solche Männer
-Haben ihre schlimmsten Feinde unter enttäuschten, verlassenen
+haben ihre schlimmsten Feinde unter enttäuschten, verlassenen
 Geliebten. Dieser Trick mit der Katze und dem Ring, behaupte
 ich weiter, ist Frauenarbeit. Weiber, die lichtscheue Pfade
 wandeln, entwickeln eine verblüffende Phantasie. Ich fürchte,
@@ -254,7 +254,7 @@ wieder melde. Er sagte geradezu, er hätte nie heiraten sollen.«
 Harst nickte. »Auch das habe ich kommen sehen … So
 lange er beim Varietee als Dresseur und als Gehilfe seiner
 Frau bei deren Zauberkunststücken Ablenkung und Anregung
-Hatte, schwieg dieses kranke, unbändige Blut. Jetzt hier in
+hatte, schwieg dieses kranke, unbändige Blut. Jetzt hier in
 der Weltabgeschiedenheit dieses kleinen ländlichen Besitzes
 wird er … rückfällig werden. Ich habe nie so recht an seine
 endgültige moralische Umstellung geglaubt. Wir werden hier
@@ -298,7 +298,7 @@ Ring. Das Kätzchen ließ ich laufen. Es findet schon von
 selbst wieder heimwärts …«
 
 Es war der Schlangenring. Ich erkannte ihn sofort
-wieder,
+wieder.
 
 Harst nahm ihn, beleuchtete ihn mit der Taschenlampe.
 »Da haben Sie allerdings Glück gehabt, Saalborg, großes
@@ -382,7 +382,7 @@ schön geschwungene Lippen.
 »Ja, vielleicht werde ich es bereuen … Aber — — Sie
 beide, niemand soll von mir mit an den Rand eines
 Abgrundes gezerrt werden, den ich seit Jahren für … verschüttet
-Hielt.«
+hielt.«
 
 Dann drückte er auch mir die Hand und betrat die
 Vorhalle.
@@ -577,10 +577,10 @@ Schlangenringes der Katze!
 <@pagebreak/>
 »Nicht ganz. — Wo hast du die Katze her?«
 
-»oh — sie war in eine hohle Buche geflüchtet. Der
+»Oh — sie war in eine hohle Buche geflüchtet. Der
 Strick hing aus dem Baumloche heraus. Dir entging das.«
 
-»und — — die Ringe?«
+»Und — — die Ringe?«
 
 »Es sind genau dieselben Ringe. Den, den ich jetzt trage,
 besaß Saalborg … den, den die Katze trägt, besaß eine
@@ -648,7 +648,7 @@ Er löschte die Lampe.
 
 »Ziehe die Schuhe mit Gummisohlen an …« befahl er.
 Der Vollmond warf breite Lichtbahnen durch das Fenster.
-Wir bewegten uns lautlos hin und her. Lautlos Kletterten
+Wir bewegten uns lautlos hin und her. Lautlos kletterten
 wir herab in den Park. Die dunkle Strickleiter war am
 verwitterten Mauerwerk kaum zu sehen.
 
@@ -863,7 +863,7 @@ sein?!« rief ich ganz entsetzt.
 »Ja. Ich fürchte. Wir werden ja sehr bald Bescheid wissen.
 Komm’, ich stütze dich …«
 
-Aber ich Hatte keine Hilfe mehr nötig. Der Schreck war
+Aber ich hatte keine Hilfe mehr nötig. Der Schreck war
 mir so tief in die Glieder gefahren, daß Magen und Kopf
 sich auf ihre reguläre Pflicht besannen. Nur die Beine
 zitterten mir anfänglich noch ganz wenig. Wir erreichten
@@ -941,7 +941,7 @@ Ich öffnete. Der alte Herr trat ein, blaß, verstört …
 »Ich … ich … soll Sie … hinabbitten,« sagte er matt.
 »Ein großes Unglück, meine lieben Freunde …«
 
-Er Schluckte, hüstelte …
+Er schluckte, hüstelte …
 
 »Saalborg, der … der Elende, hat in der verflossenen
 Nacht in Flinsberg einen … einen Einbruch verübt …
@@ -1035,7 +1035,7 @@ uns herum. Es gibt dort eine Menge Raritäten, die den
 Fremden zugänglich gemacht werden sollen. Im Schlafzimmer
 der Gräfin — die Möbel stammen aus einem
 Schlosse Wallensteins — bemerkte ich hinter einem schief
-Hängenden Porträt die seine Umrißlinie einer Tresortür
+hängenden Porträt die seine Umrißlinie einer Tresortür
 in der gepreßten Ledertapete. Dies wurde mir verhängnisvoll.
 In der verflossenen Nacht gegen ein Uhr —
 meiner Frau hatte ich ein Schlafmittel in den abendlichen
@@ -1212,7 +1212,7 @@ mit einer unumstößlichen Tatsache beginnen?!«
 Er ging zum Fenster und lehnte sich hinaus, wandte sich
 wieder ins Zimmer zurück und sagte achselzuckend: »Herr
 Amtsrichter, Sie werden aus diesem Fall viel lernen. Hinter
-mir liegen Zwölf Jahre wechselvollster Kriminalerfahrungen.
+mir liegen zwölf Jahre wechselvollster Kriminalerfahrungen.
 Diese Geschichte hier begreife ich auch nicht.«
 
 »Na also!!« meinte der junge Richter kühl. »*Ich* begreife
@@ -1290,7 +1290,7 @@ Dann rief er halblaut, indem er sich vorbeugte: »Wir
 werden Sie nicht verraten … Wünschen Sie noch etwas
 Besonderes? Können wir jetzt gleich etwas für Sie tun?«
 
-Ich war sprachlos, Was sollte dies?!
+Ich war sprachlos. Was sollte dies?!
 
 Ich wurde noch sprachloser. — Das Zimmer war neu
 tapeziert worden. Die Tapete war eine Paneelimitation und
@@ -1476,7 +1476,7 @@ an wenigen Stellen zutage tritt, in steilen Abhängen vorhanden
 gewesen sein. Die Urkunden erwähnen nun ebenfalls,
 daß seit der Vernichtung der Burg in dem erhalten
 gebliebenen Hauptturme ein »Geist« mitunter sich zeigte und
-stets verhinderte, daß das Gemäuer für Wohnzwekcke benutzt
+stets verhinderte, daß das Gemäuer für Wohnzwecke benutzt
 wurde. Leute, die es wagten, sich dort niederzulassen oder als
 ungeladene Gäste dort zu hausen, wurden regelmäßig nach
 kurzer Zeit verscheucht. Schließlich sprach man allgemein in
@@ -1499,7 +1499,7 @@ umherzugeistern.
 
 Nach diesen knappen Angaben zu mir selbst zurück.
 
-Nachdem der Amtsrichter sich von uns Liebenswürdigst
+Nachdem der Amtsrichter sich von uns liebenswürdigst
 verabschiedet hatte, erklärte Harald, es sei doch wohl besser,
 wenn Göbbel hierbliebe. »Mit Göbbel läßt sich reden, mein
 Alter … Er ist ein frischer, netter Kerl … Er kann uns
@@ -1609,7 +1609,7 @@ Wo, wie gab’s eine Erklärung hierfür? — Eine Sinnestäuschung?
 — Niemals!! Ich leide nicht an Halluzinationen.
 Ich habe sehr gute Nerven, und auch mein Hirn ist gesund.
 
-Ich Hatte also etwas vor mir gehabt — ein Wesen aus
+Ich hatte also etwas vor mir gehabt — ein Wesen aus
 Fleisch und Blut natürlich, eine Person, die mich lediglich
 erschrecken wollte.
 
@@ -1689,7 +1689,7 @@ kleine Tür hinter der Haupttreppe …
 Ich berichtete kurz das Erlebte.
 
 Harald stieß die kleine Tür auf und eilte über die Steintreppe
-in die Küche — ebenso Göbbel
+in die Küche — ebenso Göbbel.
 
 Sie fanden natürlich nichts.
 
@@ -1762,7 +1762,7 @@ Prügel bezogen!«
 Göbbel zuckte abermals die Achseln.
 
 Ich begann den Tisch zu decken, und dann erschien Harald
-und gleich darauf Doktor Petersen und Frau Anni
+und gleich darauf Doktor Petersen und Frau Anni.
 
 <@pagebreak/>
 
@@ -1771,7 +1771,7 @@ und gleich darauf Doktor Petersen und Frau Anni
 
 All dies spielte sich in etwa zehn Minuten ab.
 
-zehn Minuten, die ich nie vergessen werde. Das Phantom
+Zehn Minuten, die ich nie vergessen werde. Das Phantom
 mit seinem grauenhaften Totengesicht wird mir stets in
 Erinnerung bleiben. —
 
@@ -1818,8 +1818,8 @@ Sage von dem Turmgeist. Ich freute mich, daß ihre Frage
 leicht ironisch klang. Frau Anni war durchaus nicht feige.
 Im Gegenteil: Wer sie auch nur ein einziges Mal im
 Pantherzwinger beobachtet hatte, wie sie mit den freilich
-Sehr zahmen Bestien umsprang, mußte vor ihr Respekt
-Bekommen.
+sehr zahmen Bestien umsprang, mußte vor ihr Respekt
+bekommen.
 
 Petersen erwiderte ernst: »Ja. Ich bin dem Phantom
 in den letzten Wochen zweimal begegnet. Ich habe darüber
@@ -1912,7 +1912,7 @@ Neigung bei seinem Berufe nach äußerst gewinnbringenden
 Kriegsgeschäften geblieben, ihr diese unleidliche Überhebung
 eingetragen.
 
-Sie war ein richtiges kleines unscheinbares Ekel
+Sie war ein richtiges kleines unscheinbares Ekel.
 
 Ich wunderte mich, daß Harald sie so liebenswürdig behandelte.
 
@@ -2093,7 +2093,7 @@ Einen Moment hatte ich vorhin geargwöhnt, Dora Brown
 könnte gar nicht Dora Brown, sondern die Wendnoor sein.
 Aber das war Unsinn. Dora hatte sich schon in Görlitz als
 Tochter ihres Vaters genügend ausgewiesen, und die Ausweise
-Malcolms und Setters mit Lichtbildern waren zweifelsfrei
+Malcolms und Setters mit Lichtbildern waren zweifelsfrei.
 
 Und dann … das Phantom!!
 
@@ -2117,7 +2117,7 @@ Ich fand mich in alledem nicht zurecht. Ich hoffte auf
 Harald … —
 
 Göbbel hat mir auf Harsts Bitte die Photographie der
-Radspuren und der Linde überlassen. — «Sieh’ sie dir gut
+Radspuren und der Linde überlassen. — »Sieh’ sie dir gut
 an,« hatte Harst vorhin beim Abschied gesagt.
 
 Ich hatte Unsere Lupe zu mir gesteckt. Ich prüfte das
@@ -2127,10 +2127,10 @@ außerordentlich klar zu erkennen.
 
 Ich wußte nun genau, daß der Hinterreifen des Rades
 Doktor Petersens ganz neu war und keine Riffelung, sondern
-kleine Höcker Hat.
+kleine Höcker hat.
 
 Die Lupe zeigte mir aber an zwei Stellen des Bildes
-Eindrücke eines Hinterrades mit völlig glatten Mantel
+Eindrücke eines Hinterrades mit völlig glatten Mantel.
 
 Das war merkwürdig. Das erregte mich geradezu. Es
 unterlag keinem Zweifel: Das Rad, das hier auf der Photographie
@@ -2192,7 +2192,7 @@ Hatten nicht auch in der Sandgrube *zwei* Kerle uns
 niedergeschlagen, hatte nicht auch »Dora« zwei Detektive bei
 sich, Malcolm und Setter, — angeblich Malcolm und Setter?!
 
-Ich Fieberte noch mehr …
+Ich fieberte noch mehr …
 
 <@pagebreak/>
 Wenn nur Harald erst zurück wäre!!
@@ -2252,7 +2252,7 @@ Hob den Korbdeckel ein wenig …
 
 In dem Korbe saß die Katze.
 
-»du warst in dem Häuschen, Harald?«
+»Du warst in dem Häuschen, Harald?«
 
 »Ja …«
 
@@ -2273,7 +2273,7 @@ Er zog die Augenbrauen hoch.
 »Ja, denn ich wollte Gewißheit haben. Dora sitzt vielleicht
 in London. Die hiesige Dora ist Gussy Wendnoor.«
 
-»hm — möglich …« und er ging mit dem Korbe zur
+»Hm — möglich …« und er ging mit dem Korbe zur
 Treppe. »Komm’ mit, mein Alter … Oder besser: Rufe
 das Amtsgericht Greifenberg an und teile Göbbel mit, daß …
 die bewußte Katze sich hier bei uns eingefunden habe … Er
@@ -2337,9 +2337,9 @@ zur alten Schmidt.«
 
 »Möchtest du mir nun nicht »deine Punkte« nennen?«
 
-»Aber die nannte ich ja bereits, mein Alter«
+»Aber die nannte ich ja bereits, mein Alter.«
 
-Es hatte geklopft. Doktor Petersen trat ein,
+Es hatte geklopft. Doktor Petersen trat ein.
 
 »Guten Abend, meine Herren … Ich störe doch hoffentlich
 nicht …«
@@ -2366,7 +2366,7 @@ Ich werde besser die Tür schließen …« — Sie tat’s, — was
 mir gar nicht lieb war, denn ich wollte mich doch ganz
 genau nach Ihren Anordnungen richten, Herr Harst …«
 
-»und dann hörten Sie nichts mehr?«
+»Und dann hörten Sie nichts mehr?«
 
 »Nein … Allerdings, meine Ohren sind nicht die besten
 mehr. — Nun ist Anni ganz frisch und munter und hat
@@ -2472,7 +2472,7 @@ Sie errötete. »Hat Harst … geplaudert?«
 <@pagebreak/>
 »Ein Drittel …!«
 
-»ach — auch wir wissen ja nicht alles. Er hat nur
+»Ach — auch wir wissen ja nicht alles. Er hat nur
 Vincent erklärt, der Fall würde eine verblüffende Wendung
 nehmen.«
 
@@ -2508,17 +2508,17 @@ Grabesstille.
 
 Unten in des Doktors Studierzimmer schlug die Standuhr
 <@pagebreak/>
-zwölf. Man hörte es bis hier oben. Es war die reine Turm-
-Uhr — ein Erbstück.
+zwölf. Man hörte es bis hier oben. Es war die reine Turmuhr
+— ein Erbstück.
 
 Zwölf …
 
 Geisterstunde …
 
-Ich Hatte die Augen offen … Ich wußte, es würde etwas
+Ich hatte die Augen offen … Ich wußte, es würde etwas
 geschehen. Auf dem Diwan lag unser Kätzchen — im Korbe!
-Ohne Korb wäre das Tierchen in den äußersten Winkel ge-
-flohen. Katzen haben tadellose Nasen. Bessere als Menschen
+Ohne Korb wäre das Tierchen in den äußersten Winkel geflohen.
+Katzen haben tadellose Nasen. Bessere als Menschen
 und als das Phantom, sonst hätte dieses sich gehütet, unserem
 Schlaf zu trauen …
 
@@ -2593,7 +2593,7 @@ Schlangenring und einstige Briefe Saalborgs an Gussy
 fand. Die Spur der Wendnoor war dagegen so glänzend verwischt,
 daß Dora Brown mit ihren beiden Helfern einsehen
 mußte, jede weitere Jagd sei zwecklos. Da las sie in der
-Zeitung von den Vorgängen hier in Greifenberg, von
+Zeitung von den Vorgängen hier in Greiffenberg, von
 Saalborgs Aufenthalt hier auf dem Haubenberg, von Chanawutu
 … — Sie, der nur darum zu tun war, den Weltruf
 <@pagebreak/>
@@ -2631,7 +2631,7 @@ da zu stehen, — die Firma Brown hatte das Grafen Juwelen
 »wiedergefunden« und Saalborg als Dieb »entlarvt« — und
 alles wäre böse ausgelaufen, wenn nicht die Photographie
 den Anstoß zu meiner Radeltour zur alten Schmidt gegeben
-Hätte.«
+hätte.«
 
 Er wandte sich an die Schuldige.
 
@@ -2659,7 +2659,7 @@ abenteuerlichen Leben verspürt. Er war geheilt — für
 immer …
 
 Über Dora Brown hätte ich noch einiges zu berichten
--- nichts angenehmes. Ihre Drohung gegen Harald war
+— nichts angenehmes. Ihre Drohung gegen Harald war
 kein leeres Gerede. Ein Weib von ihrer verbrecherischen
 Phantasie konnte sehr wohl einen Tennisball zu einer noch
 größeren Gemeinheit benutzen, als sie’s mit der Katze getan.
