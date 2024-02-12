@@ -427,7 +427,7 @@ Und dann begann er nach dem ersten kalten Bratkotelett
 und einer Portion Kartoffelsalat:
 
 »Lieber Alter, schließen wir Frieden … Reden wir über
-die Geschichte … Viel zu reden gibt’s da nicht. Der »Speck»
+die Geschichte … Viel zu reden gibt’s da nicht. Der »Speck«
 ist gestohlen, und das Mädel wollte die Beute an uns loswerden,
 damit wir die Schätze dem Eigentümer zurückgäben,
 was sie nicht wagte, sie oder ihre Genossen.«
@@ -700,143 +700,150 @@ morgens waren wir daheim.
 <h2>3. Kapitel.</h2>
 <h3>Ein Mann ohne Namen.</h3>
 
-+… Kennen Sie Hasso Zetterijitrom? Wenn nicht, dann
+»… Kennen Sie Hasso Zetterström? Wenn nicht, dann
 kaufen Sie sich seinen »Dynamithund«. Sie werden ein
 paar frohe Stunden verleben. — Was der gallig ironische
-Zetterström mit dieser Geschichte … zu tun hat? Nun, soweit
+Zetterström mit dieser Geschichte zu tun hat? Nun, soweit
 mir erinnerlich, hat er sein Buch betitelt »Der Dynamithund
 und andere Unmöglichkeiten«. Das Unmögliche ist hier das
-Verbindende. Ich könnte dieses Kapitel auch betiteln: »Der
-Iuwelenspe&X und andere Unmöglichrleiten.«
+Verbindende. Ich könnte dieses Kapitel *auch* betiteln: »Der
+Juwelenspeck und andere Unmöglichkeiten.«
 
-Hm Grunde gibt es nichts Unmögliches. Wenigstens
-heute nicht mehr. Der Fernseher ist erfunden, der Raketen
-wagen dito, wenn er auch vorläufig noc& immer zu Bruch
-gebt, und die Eisenbahnunfälle gehören sozusagen schon zum
+Im Grunde gibt es nichts Unmögliches. Wenigstens
+heute nicht mehr. Der Fernseher ist erfunden, der Raketenwagen
+dito, wenn er auch vorläufig noch immer zu Bruch
+geht, und die Eisenbahnunfälle gehören sozusagen schon zum
 Tagesprogramm.
 
-Wir hatten Krokodilhaut und Speck — wiedererhalten,
+*Wir* hatten Krokodilhaut und Speck wiedererhalten,
 und der alte Tönnieß war leider daran gestorben. Wenn
-einem Autolenker im Jahren eine Art Gummischlauch ins
-Gesicht fliegt «— von der Seite her, bremst er unwillkürlich.
-Und so waren die Juwelen und das ausgeblasene Krokodil
-an. uns zurückgelangt: Aus dem Dunkel heraus in den
+einem Autolenker im Fahren eine Art Gummischlauch ins
+Gesicht fliegt — von der Seite her, bremst er unwillkürlich.
+Und so waren die Juwelen und das aufgeblasene Krokodil
+an uns zurückgelangt: Aus dem Dunkel heraus in den
 Wagen geschleudert, aber schlecht getroffen.
 
 Und nun saßen wir beide in Haralds sattsam bekanntem
 Arbeitszimmer im alten gemütlichen Harstschen Familienhause
 Schmargendorf-Berlin, Blücherstraße 10. — Übrigens,
 <@pagebreak/>
-meine verehrten Freunde aus Magdeburzg, ihr habt da
-letztens wieder an mich gesHrtieben, ihr bitter, Harst solle
+meine verehrten Freunde aus Magdeburg, ihr habt da
+letztens wieder an mich geschrieben, ihr bittet, Harst solle
 doch mal in Magdeburg »ein Ding drehen«. Und ihr
-habt auch die Blücherstraße in Schmargendorf nicht gesunden.
-Na: Moöogdeburg ist bisher von ua32 noch nicht
-beehrt worden — oder von unseren Kontrabentea, wie man’s
-nimmt. Ihr müßt also locken warten. Und Blücherstraße? —
+habt auch die Blücherstraße in Schmargendorf nicht gefunden.
+Na: Magdeburg ist bisher von uns noch nicht
+beehrt worden — oder von unseren Kontrahenten, wie man’s
+nimmt. Ihr müßt also schon warten. Und Blücherstraße? —
 Kinder, würde ich hier den richtigen Namen der Straße
-angeben, hätten wir ja noch weniger Ruhe als so!Dort
+angeben, hätten wir ja noch weniger Ruhe als so schon!!
 
-Wir saßen als … Hm Schmollwinkel am Kamin …
-Klubsessel, Bärenfell, ’Rauchtischchen, Ständerlampe ;…
+Wir saßen also … Im Schmollwinkel am Kamin …
+Klubsessel, Bärenfell, Rauchtischchen, Ständerlampe …
 
-Und Ich hatte das ausgeblasene Krokodil und; den: »Bord
--» die Juwelen — wieder im Schoß und im Magen zwei
-Pyramidontabletten — als Verbeugung gegen Hirnkompli«.
-Komplikationen infolge des. Sandsacks … Meine Denkmaschine funktionierte
-leidlich, nur die Patentzigarre sHhmedtenoH nicht:
-Nikotinfrei! Seit einiger Zeit rauche ihm Patent, denn«
-sie sollen bei Massenkonsum. doch bekömmlicher sein. -«.««
+Und Ich hatte das aufgeblasene Krokodil und den Speck
+— die Juwelen — wieder im Schoß und im Magen zwei
+Pyramidontabletten — als Verbeugung gegen Hirnkomplikationen
+infolge des Sandsacks. Meine Denkmaschine funktionierte
+leidlich, nur die Patentzigarre schmeckte noch nicht:
+Nikotinfrei! Seit einiger Zeit rauche ich Patent, denn
+sie sollen bei Massenkonsum doch bekömmlicher sein.
 
-Harald.!Knotete es sehr … Er hatte schon die siebente
-Mirakulum in Asche gesaugt und Hatte. soeben gesagt:.
+Harald schmeckte es sehr … Er hatte schon die siebente
+Mirakulum in Asche gesaugt und Hatte soeben gesagt:
 
 »Der Sachverhalt ist ja so weit klar. Die Kerle, die uns
-niedergeschlagen, waren Gegenpartei. der blonden Kröte- mit
+niedergeschlagen, waren Gegenpartei der blonden Kröte mit
 dem englischen Akzent, aber die Leute der blonden Kröte
-— das Motorboot! Haben den Burschen den Speck
-wieder. abgejagt und uns beobachtet und ihm uns in den
-Wagen geworfen. Armer Tönnieß! Seine Gnapsflaiche
-blieb ganz. Er Fracht das Gen!.«
+— das Motorboot! haben den Burschen den Speck
+wieder abgejagt und uns beobachtet und ihn uns in den
+Wagen geworfen. Armer Tönnieß! Seine Schnapsflasche
+blieb ganz. Er brach das Genick.«
 
 Es war im Zimmer sehr behaglich. Nur die Ständerlampe
 brannte. Die milde Dämmerung tat mir wohl. Draußen
-aß es. Der Wegen trommelte gegen die Fensterladen und auf
+goß es. Der Regen trommelte gegen die Fensterladen und auf
 das Zinkblech, und diese Musik liebe ich mehr als Jazzsinfonien.
 
-Harald in seiner Sommerhäusjackc — Maskierte mit Berlin
-Verschnürung, fügte träumerisch hinzu: …
+Harald in seiner Sommerhausjacke — Bastseide mit helllila
+Verschnürung, fügte träumerisch hinzu: 
 
 <@pagebreak/>
-»Lieber … Alter; morgen werde ich Herrn van Düren
+»Lieber Alter; morgen werde ich Herrn van Düren
 anrufen.«
 
 »Warum nicht gleich?«
-… Blitze — ein Viertel zwei Uhr morgens«
+
+»Bitte — ein Viertel zwei Uhr morgens!«
 
 »Tu’s trotzdem …«
 
 »Wenn du meinst … — Suche mal die Nummer vom
 Pensionat Ahlhelm heraus.«
-… Die war im Verzeichnis schnell gefunden, und ich rief
-an und es meldete sie der Hausdiener. —
-» »Hier Pension Ahlhelm …
+
+Die war im Verzeichnis schnell gefunden, und ich rief
+an und es meldete sich der Hausdiener.
+
+»Hier Pension Ahlhelm …«
 
 »Wer dort?«
 
--»Hausdiener Munter, Emir Kanzel.«
+»Hausdiener Runzel, Emil Runzel.«
 
-39 fragte weiter:
-»Ist: Herr van Düren noch zu sprechen?«
-» Gewiß, und ob!! Sind Sie einer von wegen die
+Ich fragte weiter:
 
+»Ist Herr van Düren noch zu sprechen?«
+
+»Jewiß, und ob!! Sind Sie einer von wejen die
 Annonce?«
-!’ Emil liebte offenbar die Kürze.
-»Stimmt, von wegen die Annonce.«
 
-»Ich werd’ ihm holen … Warten Sie … Er liest
-in ’n Salons …
+Emil liebte offenbar die Kürze.
 
-»Dann ’meldete sich eine üble schleimige krächzende Stimme;
+»Stimmt, von wejen die Annonce.«
+
+»Ick werd’ ihm holen … Warten Sie … Er liest
+in ’n Salong …«
+
+»Dann meldete sich eine üble schleimige krächzende Stimme:
 
 »Hier van Düren … Haben Sie die Juwelen?«
 
-»Sachte, Männeken … sachte; … Ob je sie habe, ist
-»unrichtig egal. Haben Sir die genau? Achttausend Märker?«
+»Sachte, Männeken … sachte … Ob ick sie habe, ist
+vorleifig ejal. Haben *Sie* die zwanzigtausend Märker?«
+
 »Allerdings, allerdings, mein Herr,« schleimte das ekle
-Organ erregt. »Sie so sitzen sah Geld haben. Ich gebe Ihnen
-»mein Ehrenwort, des …
+Organ erregt. »Sie sollen das Geld haben. Ich gebe Ihnen
+mein Ehrenwort, daß …«
 
-… Ehrenwort — »Quatsch
+»… Ehrenwort — Quatsch!!«
 
-Hm Hintergrunde sagte Harald leise: — »Gut — so, mein
-Alter … Vereindare ein Rendezvous …«
+Im Hintergrunde sagte Harald leise: — »Gut so, mein
+Alter … Vereinbare ein Rendezvous …«
 
 »Erlauben Sie mal,« fauchte van Düren. »Ich bin ein
-Gentlemans Ich …
+Gentleman! Ich …«
 
-— »Bad wenn Sie der gehe König Kunst Sogar oder
+»Und wenn Sie der neie König Achmed Zogul oder
 <@pagebreak/>
-wie er sonst Brett in Person sind, der von Pikanten, — Tor
-uns i8 die Hauptsache: Bringen Sie die Zwanzigtausend genau
+wie er sonst heeßt in Person sind, der von Albanien, — for
+uns is die Hauptsache: Bringen Se die Zwanzigtausend genau
 um halb drei, also in etwa anderthalb Stunden, in das
 Wäldchen Dahlem, Ecke Parkstraße und Kronprinzenallee …
-Wenn Sie aber etwa Polente mitbringen, Sie, — dann
-kriegen Sie Ihre Anwesens nie wieder unter die Bogen,
-Sie, verstrich Sie mir?!«
+Wenn Se aber etwa Polente mitbringen, Sie, — dann
+kriegen Se Ihre Juwelens nie wieder unter die Oogen,
+Sie, verstehn Se mir?!«
 
-»Entkommen. Sie gehen ganz sicher. Die Polizei bleibt
-aus dem Spiel …« …
+»Vollkommen. Sie gehen ganz sicher. Die Polizei bleibt
+aus dem Spiel …«
 
-»Tut — also um halb drei … Mit 52 Brillanten kennen
-wir doch mischt anfangen. Die Helfer geben mischt daran …
-Wiedersehen, Herr Schentelmän …
+»Jut — also um halb drei … Mit die Brillanten kennen
+wir doch nischt anfangen. Die Hehler geben nischt dafor …
+Wiedersehen, Herr Schentelmän …«
 
 Ich hängte ab.
 
 Harald lachte. »Famos! Nun werden wir also Herrn
 van Düren in Person vor uns haben. Wählen wir Maske
-echt.«
+acht.«
 
 Wir begannen mit der Toilette. Maske acht sind Kavaliere
 aus der feinsten Gegend um den Schlesischen Bahnhof
@@ -844,51 +851,53 @@ herum. —
 
 Es war halb drei.
 
-— Die Parkstraße und der Kiefernwald trauerten ist 4 im
-fliegenden Regen. Wir hatten uns hinter zwei Bäume ge
-Drücker. Ein Auto kam, Eingetroffen, hielt, ein Herr stieg«
-aus: die, klein, Gummimantel, Mütze, blonder Vollbart …
-… Das Auto blieb.
+Die Parkstraße und der Kiefernwald trauerten still im
+fließenden Regen. Wir hatten uns hinter zwei Bäume gedrückt.
+Ein Auto kam, Einstreifer, hielt, ein Herr stieg
+aus: dick, klein, Gummimantel, Mütze, blonder Vollbart …
 
-Er schritt hm und her. —«
+Das Auto blieb.
 
-Ich trat vor … Wir
+Er schritt hin und her.
+
+Ich trat vor …
 
 »N’Abend!«
 
 Er musterte mich. Die nahe Laterne genügte.
 
-»Dr sind die Juwelen?« fragte er hastig.
+»Wo sind die Juwelen?« fragte er hastig.
 
 »Hier …«
 
-Ich zeigte ihm den »Frack«, den ich in ein rotes Schnaps-,
-kurz eingewickelt hatte,
+Ich zeigte ihm den »Speck«, den ich in ein rotes Schnupftuch
+eingewickelt hatte,
 
 <@pagebreak/>
-»A .— ’wirflicht« lächelte er erfreut. »Hier ist das
-Geld
+»Ah — wirklich!« lächelte er erfreut. »Hier ist das
+Geld …«
 
-»Sachte, Männeken, sachte …
+»Sachte, Männeken, sachte …«
 
 Ich prüfte die Banknoten.
 
-»Tut denn, gut … Ei stimmt. — N’Abend, Herr van
+»Jut denn, jut … Et stimmt. — N’Abend, Herr van
 Düren …«
 
 Er lief zu seinem Auto zurück … Es fuhr davon.
-». Aber unser Auto blieb hinterdrein — bis zum
+
+Aber *unser* Auto blieb hinterdrein — bis zum
 Nollendorfplatz, bis zur Pension Ahlhelm.
 
-… Dann erst kehrten wir um. Van Düren hatte das Haus
-Getreten, und gleich darauf war im Hochparterre ein breites
-Fenster hell. geworden. —
+Dann erst kehrten wir um. Van Düren hatte das Haus
+betreten, und gleich darauf war im Hochparterre ein breites
+Fenster hell geworden. —
 
 Und wieder saßen wir nun in Haralds Arbeitszimmer
 — wie vorhin. Hatten schnell die Masken abgelegt,
 
 »Fein!« meinte Harald. »Morgen vormittag geht der
-Tanz weiter — bei Ahlhelm …
+Tanz weiter — bei Ahlhelm …«
 
 Wir tranken ein Glas Rotwein, und nach zehn Minuten
 wollten wir dann ins Bett.
@@ -897,73 +906,73 @@ Wollten nur …
 
 Mit einem Male läutete es.
 
-»Jan?!« Harald sah mich an. »Wer mag das sein?!«
+»Nanu?!« Harald sah mich an. »Wer mag das sein?!«
 
 Ich ging öffnen. Es war … van Düren!!
 
-der. — in welcher Verfassung!!
+Aber — in welcher Verfassung!!
 
 Schweißtriefend, bleich, verstört …
 
 Sank in einen Sessel … Krächzte: »Gott sei dank, Sie
 sind zu Hause, meine Herren!«
 
-Der kleine die Mensch mit dem rotblonden spärlichen
+Der kleine dicke Mensch mit dem vollblonden spärlichen
 Bart und dem ebenso spärlichen Kopfhaar, dem erheblichen
-ShmerbauFß und dem schwammigen Gesicht, dessen Hängebacken
+Schmerbauch und dem schwammigen Gesicht, dessen Hängebacken
 genauso unangenehm wirkten wie die aufgestülpte
 Oberlippe, die eine Menge Goldzähne sehen ließ — dieser
 ganze Herr van Düren, der das Deutsch mit der behaglichen
 Breite des Holländers zerkaute und nun mit seinem
 <@pagebreak/>
-schleimigen Organ ein »Gott verdamm’ die Exqhuftel« hinzufügte,
+schleimigen Organ ein »Gott verdamm’ die Schufte!« hinzufügte,
 machte auf mich einen ganz merkwürdigen Eindruck.
 
 Er hatte irgend etwas an sich, das mir auffiel. —
-Was aber?! Ich wurde mir darüber nicht recht klar …
+Was aber?! Ich wurde mir darüber nicht recht klar.
 
-Als im ihm vorhin Ecke Parkstraße gegenübergestanden.
+Als ich ihm vorhin Ecke Parkstraße gegenübergestanden
 hatte, war das Laternenlicht doch zu schwach gewesen, um
 mich dieses Ungewöhnliche seiner Gesamterscheinung spüren
 zu lassen.
 
 Hier im grellen Licht der elektrischen Krone verstärkte sich
 nun dieser Eindruck immer mehr: van Düren war keine
-alltägliche Persönlichkeit! — Mochte er jetzt aus Infolge
-besonderer Umstände irgendwie in hochgradiger Erregung. sich
+alltägliche Persönlichkeit! — Mochte er jetzt auch Infolge
+besonderer Umstände irgendwie in hochgradiger Erregung sich
 befinden, mochte er deshalb den wahren Kern seines Wesens
 durch sein übernervöses Gehabe gleichsam verwischen: Meine
 Überzeugung blieb, daß er ein Mann sein mußte, der
 aus jedem alltäglichen Rahmen herausfiel.
 
-Er tupfte sich den Schweiß von der Tötung. Dabei geriet
+Er tupfte sich den Schweiß von der Stirn. Dabei geriet
 er mit der Hand in die Seidenschnur seines schwarzen Hornkneifers,
-der ihm vor dem Bauche hing. Die Schnur ri.
+der ihm vor dem Bauche hing. Die Schnur riß
 und der Kneifer flog auf den Teppich.
 
 Harald hob ihn auf.
 
-Bitte …!«
+»Bitte …!«
 
-Van Düren. stierte die Sand aus. Er Tragkorbe
-Wildlederhandschuhe, die vom Gegen stark mitgenommen
+Van Düren streckte die Hand aus. Er trug gelbe
+Wildlederhandschuhe, die vom Regen stark mitgenommen
 waren. Er begegnete Harsts lächelndem Blick und stutzte.
 
-»Ich … Ich mache wohl einen sehr komischen Eindruck,«
-sagte er gereizt, aber auch halb weinerlich. »Kein Wundert:
-Man hat mich unglaublich bestohlen und betrogen —:.in
-dieser Nach!!« Er nahm den. Kneifer, knotete die Beamte
-zusammen und drückte Um auf die Knollennase. »Wollen
+»Ich … ich mache wohl einen sehr komischen Eindruck,«
+sagte er gereizt, aber auch halb weinerlich. »Kein Wunder:
+Man hat mich unglaublich bestohlen und betrogen — in
+dieser Nacht!« Er nahm den Kneifer, knotete die Schnur
+zusammen und drückte ihn auf die Knollennase. »Wollen
 Sie mir helfen, Herr Harst?« fragte er dann hüstelnd und
 suchte sich offenbar mit aller Gewalt zur Ruhe zu zwingen.
-»Ihr) hatte ohnedies die Absicht, wie an Sie 3zv wenden,
+»Ich hatte ohnedies die Absicht, mich an Sie zu wenden,
 <@pagebreak/>
 Herr Harst,« fuhr er bedächtiger fort und musterte Harald
 mit durchaus berechtigtem Interesse. Harsts kühle Gelassenheit,
 Harsts ganze Persönlichkeit verdienen Beachtung.
 
-… Das beißt,« sagte er mit einem röchelnden Seufzer,
-»diese- Absicht hätte Ich nur verwirklicht, wenn die Schufte
+»… Das heißt,« sagte er mit einem röchelnden Seufzer,
+»diese Absicht hätte Ich nur verwirklicht, wenn die Schufte
 sich nicht gemeldet hätten …!«
 
 Aha — er spielte hiermit auf mein Telephongespräch mit
@@ -972,22 +981,22 @@ ihm an. Die »Schufte« waren vorläufig wir.
 Harald meinte da, und er hielt van Düren den silbernen
 Zigarettenkasten hin: »Vielleicht tragen Sie uns Ihren Fall
 übersichtlicher vor, aber möglichst wahrheitsgemäß … Ich
-übernehme keinerlei Arbeit, be? der vor! vornherein der
-Augenschein gegen den Bittsteller April — wie hier!«
+übernehme keinerlei Arbeit, bei der von vornherein der
+Augenschein gegen den Bittsteller spricht — wie hier!«
 
-Das war eine sonderbar? Bemerkung. Ich verstand sie
-nicht. Kochs sonderbarer war Oberen van Dürens
-Antwort: »Sie haben rot, Herr Harst. Ihnen kann es nicht
-entgangen sein, daß on mir ehe wenig echt Uhr, sogar der
+Das war eine sonderbare Bemerkung. Ich verstand sie
+nicht. Noch sonderbarer war Pieter van Dürens
+Antwort: »Sie haben recht, Herr Harst. Ihnen kann es nicht
+entgangen sein, daß an mir sehr wenig echt ist, sogar der
 Name ist falsch. Ich bin ein Mann ohne Namen. Ich trage
 Perücke, falschen Bart, ein künstliches Gebiß, das die Oberlippe
-empor wölbt, trage in den Lachte: Kautschukpolster, — mein
-Bauch ist Kunst, meine dicke als ist gestöpselt, — kurz,
+emporwölbt, trage in den Backen Kautschukpolster, — mein
+Bauch ist Kunst, meine dicke Nase ist gestöpselt, — kurz,
 ich bin ein ganz anderer, wenn Ich diese Maskerade ablege.
 Wer ich bin, muß Geheimnis bleiben. Holländer bin ich.
-Und um wenigstens etwas anzudeuten: Ich bin in einem den
+Und um wenigstens etwas anzudeuten: Ich bin in einem dem
 Ihrigen verwandten Beruf tätig. — Mehr zu sagen ist mir
-verboten, Ich befinde mich in abhängiger Stellung, und
+verboten. Ich befinde mich in abhängiger Stellung, und
 gewissermaßen sitze Ich hier als Vertreter eines Toten.«
 
 Er rauchte sich eine Mirakulum an …
@@ -995,8 +1004,8 @@ Er rauchte sich eine Mirakulum an …
 Nun war er wirklich durchaus ruhig. Sogar überlegen gemessen,
 jedes Wort abwägend, —
 
-»Das ist allerhandy. in der Tal!« meinte Harold, »Sie
-machen sogar mich neugierig. Sprechen Sie …!!ck«
+»Das ist allerhand, in der Tat!« meinte Harald. »Sie
+machen sogar mich neugierig. Sprechen Sie …!!«
 
 <@pagebreak/>
 
@@ -1387,11 +1396,11 @@ Das SHhettlerBräu aber liegt ganz wo anders, ist uralt
 und sehr romantisch, hat nur Kali, Franzi, Anni und
 Winters als »Kellner«, und der Geschäftsführer und Wirt
 trägt waschechte, kurze, speckige Hirschlederhöslein, die die
-Knie freilassen, und dazu die anderen echt bayrischen Gebirgstrachtstüke,
+Knie freilassen, und dazu die anderen echt bayrischen Gebirgstrachtstücke,
 sagt zu jedem Gast »Grüß Gott«, macht
 keine Bücklinge und sagte zu uns, als er uns oben unser
 Zimmer zeigte: »Kam’s froh, daß ’8 iberhaupt neuer in
-Tölz rosa unterfomme sein — bei die Fillett1t«
+Tölz rosa unterkomme sein — bei die Fillett1t«
 
 <@pagebreak/>
 Also das Scettler-Bräu liegt in der Marktstraße im
@@ -1866,7 +1875,7 @@ ich. »Wo ist er denn?«
 
 »Weiß nicht … Ich begegnete ihm drüben in der Ludwigstraße
 vor der Entgelt. Er studierte die Tafel mit den Ankündigungen
-der Autobus8ausflüge und schickte mich hierher.
+der Autobusausflüge und schickte mich hierher.
 Die Baronin ist nächtlichen um zwei mit dieser kleinen Kanaille
 von Anni nach Tegernsee gefahren, und das hatte er
 beobachtet. Wir schien’s, er wollte auch hin.
@@ -1922,7 +1931,7 @@ hin. In der Mitte ist ein Stück freier Hofraum mit ein
 paar Tischen — bei gutem Wetter ein origineller Patentiert,
 dringt dicht dabei stehen Kisten, Biertonnen, und aus der
 stets offenen Küchentür des Bräus liebt man alle Düfte
-des Shlarafsenlandes und hört liebliche Stimmen in unser
+des Schlaraffenlandes und hört liebliche Stimmen in unser
 fälschten Baronin: Köchinnen, Spülmadels, Putzjungfern.
 — Hat man! dieses nach oben zu offene Stück passiert, folgen
 verwitterte Türen mit ehrwürdigen Schlössern —«- dicht an
@@ -2343,7 +2352,7 @@ Seeluft;e Witz sich ereignete, daß Löwengaard die Juwelen,
 die ihm längst unbequem, Ihnen als Haltung aushändigen
 wollte, — Juwelen, die Ihnen einst gehörten, was er
 nicht ahnte! —, — ja, das macht diesen Streich besonders
-s& Andacht.«
+Se Andacht.«
 
 Er erhob ein …
 
