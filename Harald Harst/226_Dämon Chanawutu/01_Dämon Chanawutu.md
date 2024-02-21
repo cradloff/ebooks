@@ -285,7 +285,7 @@ ziemlich geschmacklos.«
 
 »Natürlich! Der Brief enthält genau fünf Punkte, die
 deutlich sind. Erstens: der Geisterradler selbst. Zweitens: der
-eingezäunte Haubenberg und der Sonderling Doktor Petersen,
+eingezäunte Haubenberg und der Sonderling Doktor Petersen.
 Drittens: das Tier mit den glühenden Augen hinter dem
 Zaun. Viertens: die Frauenstimme, die das Tier wegruft.
 Fünftens: der Oberschweizer, der viermal nachts dem Geisterradler
@@ -325,7 +325,7 @@ du übersehen, dem Geisterradler das Genick brechen dürfte.«
 
 »Dann … spanne nur wieder aus,« lächelte er …
 <@pagebreak/>
-»Oder besser: ließ Frau Ottis Brief nochmals. Unsere verehrte
+»Oder besser: lies Frau Ottis Brief nochmals. Unsere verehrte
 Freundin stößt uns da unbewußt auf die Fährte des
 leuchtenden Motorradlers …«
 
@@ -338,7 +338,7 @@ Tragen wir das Geschirr in die Küche, und dann lege ich
 mich in die Hängematte unter die alten Kastanien und beobachte
 die Tauben … und schlafe wahrscheinlich ein.«
 
-Ich verzichtete auf Punkt seit. Wenn Harst Moltke
+Ich verzichtete auf Punkt sechs. Wenn Harst Moltke
 spielen wollte — den großen Schweiger —, so ist nichts dagegen
 zu machen. —
 
@@ -374,7 +374,7 @@ Daß er das Röllchen für mich hineinpraktiziert hatte:
 Er liebt solch’ kleine Scherze!
 
 <@pagebreak/>
-»Wer mag der Taubendieb, also der Absender sein?«-
+»Wer mag der Taubendieb, also der Absender sein?«
 begann ich das Thema eingehender zu erörtern …
 
 »Eine Frau …« und er benagte *seine* Taubenkeule …
@@ -427,7 +427,7 @@ zu denken gibt, ist das »Vorsicht« mit den drei Ausrufungszeichen.
 Beachten wir es. Ich werde an Freund Bechert
 telephonieren und Stellvertreter bestellen.«
 
-Harst Telegrammstil besagte, daß er unsere Abreise, unser
+Harsts Telegrammstil besagte, daß er unsere Abreise, unser
 Fernsein von Hause dadurch verheimlichen wollte, daß er
 wie schon früher wiederholt unsere Doppelgänger während
 unserer Abwesenheit hier hausen lassen wollte.
@@ -528,7 +528,7 @@ Doppelgitterröhren, auch Heizung, und Anodenbatterie mit
 eingebaut … Preis nur 150 Mark … — Sehr billig … Garantiert
 Fernempfang mit Kopfhörer …«
 
-Aber Harald biß nicht an. »Wir bleiben nahe zwei
+Aber Harald biß nicht an. »Wir bleiben noch zwei
 Tage hier … Ich will’s mir überlegen. Billig ist’s allerdings
 …«
 
@@ -679,7 +679,7 @@ Lehm außen beworfen war. Wer nicht sehr genau hinschaute,
 bemerkte sie nicht. Dahinter eine gut abgesteifte kleine Höhle
 mit einem rohen Brettertisch, einem ebensolchen Schemel,
 Regal, Küchenlampe, Benzinkannen und zwei Koffer, die …
-aller modernste Einbrecherwerkzeuge enthielten.
+allermodernste Einbrecherwerkzeuge enthielten.
 
 Harald deutete auf ein Papier, das in einem der
 Koffer lag. Es war ein Programm eines Frankfurter
@@ -711,14 +711,14 @@ zumindest drückend! Schon in Berlin erklärst du mir, du
 wüßtest den Namen des Geisterradlers. Jetzt nennst du ihn:
 Chanawutu! Und mich läßt du im Dunkeln umhertappen …
 Ich kann mir nun den Kopf zerbrechen, wie du aus Frau
-Otti Lefelds Brief auf diesen Namen, …«
+Otti Lefelds Brief auf diesen Namen …«
 
 Er hörte gar nicht hin. Er hatte aus einer Ecke eine
-große hölzerne Harke hervorgeholt … »Hiermit, tilgt Chanawutu
+große hölzerne Harke hervorgeholt … »Hiermit tilgt Chanawutu
 die Spuren seines Motorrades aus …«
 
 Gleich darauf verließen wir die Höhle, nachdem Harald
-noch den Boden, damit wir keine Fährten zurückließen, mit
+noch den Boden, damit *wir* keine Fährten zurückließen, mit
 einem Lappen gepeitscht hatte. Die Dielenbretter waren ungehobelt
 und sehr erdig.
 
@@ -900,7 +900,7 @@ Ich betone: Keine zweite Spur, Herr Schraut!«
 »Haben Sie daran gedacht, daß Leute, die im Moor
 Gras mähen, sich oft Brettstücke unter die Füße binden,
 <@pagebreak/>
-um nicht einzusinken? Solche Brett ergeben kaum deutliche
+um nicht einzusinken? Solche Bretter geben kaum deutliche
 Eindrücke.«
 
 »Ich habe auch daran gedacht. — Die Fährte des Toten

@@ -48,7 +48,7 @@ Frau Otti.
 
 Wir sprachen über die Lehmgrube.
 
-Nachher sprach ich über den Lord.
+Nachher sprach ich über den Mord.
 
 Ja — sie wußte davon. Der Briefträger hatte um zehn
 Uhr vormittags die Kunde nach Sagan gebracht. Da war
@@ -364,7 +364,7 @@ also.
 
 <@pagebreak/>
 Frau Otti hatte den Sarg geschlossen. Wir kehren nach
-oben im die Kapelle zurück. Vor der Tür lärmen die
+oben in die Kapelle zurück. Vor der Tür lärmen die
 Hunde. Sie wollen hinein … Wir setzen uns in einen der
 Betstühle. Das Kruzifix leuchtet vom dunklen Altar her.
 Durch grüne verstaubte Butzenscheiben dämmert der Sommertag
@@ -717,7 +717,7 @@ traf einen runden, schwarzen Kopf, der durch die Türspalte
 lugte.
 
 »Zurück, Cassius!« befahl Frau Saalborg dem Panther,
-— einem der vier Tiere, die ihr Gatte, früher als Dresseur
+— einem der vier Tiere, die ihr Gatte früher als Dresseur
 vorgeführt hatte. Sie stieß die Tür auf. Eine kleine Halle
 — ein paar Schränke, zwei Türen und im Hintergrunde eine
 Holztreppe.
@@ -777,7 +777,7 @@ im Hotel Imperial abgestiegen. Vor dem Hotel zeigte Tag
 für Tag ein jüngerer Fakir mit glänzend schwarzem Vollbart
 seine Künste. Damals war Kalkutta gerade von reichen
 Amerikanern überschwemmt, darunter vielen Kriegsgewinnlern
-mit juwelenbeladenen Frauen und Töchtern. Das — Hotel
+mit juwelenbeladenen Frauen und Töchtern. Das Hotel
 hatte besondere Vorsichtsmaßnahmen getroffen …«
 
 Ein halb ironisches Lächeln begleitete seine folgenden
@@ -856,13 +856,11 @@ wochenlang hier bleiben mußte, — ich werde ihn finden!«
 Saalborg drückte mir fest die Hand. »Ich wünschte,
 ich wäre gesund, lieber Herr Schraut … Ich hülfe Ihnen!«
 
--
-
 <h2>4. Kapitel.</h2>
 <h3>Frau Ottis Juwelen.</h3>
 
 Der Morgen graute bereits, als Frau Saalborg hinter
-uns die Zaunpforte verschloß und uns von ein »Auf
+uns die Zaunpforte verschloß und uns noch ein »Auf
 Wiedersehen!« nachrief. Neben ihr stand der zahme Panther
 Cassius, der Mörder des Unbekannten, des meuchlerischen
 Schützen.
@@ -870,7 +868,7 @@ Schützen.
 Göbbel und ich wandten uns der Stelle zu, wo wir
 Haralds Mütze gefunden hatten. Wir entdeckten hier selbst
 bei Tageslicht nichts Neues. Göbbel wollte sofort telephonisch
-aus Görlitz einen Polizeihund herbeordern, der Vielleicht
+aus Görlitz einen Polizeihund herbeordern, der vielleicht
 die Fährte des Alten mit dem Handwagen aufnehmen würde
 — vielleicht. Ich versprach mir nicht viel davon. Ich war
 überhaupt sehr niedergeschlagen. Saalborg würde wohl recht
@@ -902,7 +900,7 @@ Städtchen entladen. Auf dem lehmigen Wege standen große
 Pfützen.
 
 Mit einem Male machte ich halt. Meine Augen fraßen
-sich fest an einen grünen, welken Schopf Gras, der über
+sich fest an einem grünen, welken Schopf Gras, der über
 dem rostigen Drücker der offenen Zaunpforte hing.
 
 Gras … Eine Handvoll … Nur Gras … Es hing feucht
@@ -1054,7 +1052,7 @@ ich vor.
 »Meinetwegen.«
 
 <@pagebreak/>
-Wir fanden nichts. Göbbel zeigte aus wenig Interesse.
+Wir fanden nichts. Göbbel zeigte auch wenig Interesse.
 
 Zuletzt betraten wir noch den Laden. In einer Ecke hingen
 zwei blaue lange Arbeitskittel …
@@ -1269,7 +1267,7 @@ Und abends saßen wir dann auf der Gartenterrasse von
 Schloß Sagan bei einer Bowle gemütlich beieinander, saßen
 bis zwei Uhr morgens, und ich hatte einen leichten Schwips,
 als wir dann in unsere Gastzimmer nach oben gingen …
-Eine Herrliche Woche folgte … In Berlin zerflossen die
+Eine herrliche Woche folgte … In Berlin zerflossen die
 Leute vor Hitze. Wir hatten es besser … In den kühlen
 Räumen des alten Edelsitzes ruhten wir aus von der Jagd
 nach Chanawutu.
