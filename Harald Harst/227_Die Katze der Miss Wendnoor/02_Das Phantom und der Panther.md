@@ -356,7 +356,7 @@ Gegen halb vier nachmittags wollte Frau Anni dann
 in die Küche hinab und das Mittagessen vorbereiten, — bisher
 hatten wir stets um zwei gespeist.
 
-Harald sagte zu ihr in herzlichsten Weise:
+Harald sagte zu ihr in herzlichster Weise:
 
 »Nein, Frau Saalborg, die Küche überlassen Sie jetzt bitte
 Schraut. Ich habe meine Gründe dafür. Entfernen Sie sich
@@ -403,7 +403,7 @@ um hinüber in mein Schlafzimmer zu gehen. Der
 Mond schien durch die Fenster herein. Das Phantom schritt
 langsam in die Vorhalle hinaus, und ich eilte ihm nach und …
 fand es nicht. Das zweite Mal stand es nachts dicht vor
-meinem Bett — beim Morgengrauen. Eis entfernte sich
+meinem Bett — beim Morgengrauen. Es entfernte sich
 langsam und war urplötzlich wie weggewischt.«
 
 Da sagte Frau Anni hart:
@@ -536,7 +536,7 @@ Harald spielte natürlich den gänzlich Ahnungslosen …
 
 »Ich bekenne mich geschlagen, Miß Brown. Ich werde
 alt. Daß ich nicht daran gedacht habe, der Pfeiler könnte
-hohl sein, ist … Altersschwache.«
+hohl sein, ist … Altersschwäche.«
 
 Dora Brown setzte sich wieder. Ihr Gesicht deutete an,
 daß sie noch mehr Nackenschläge für uns austeilen wollte.
@@ -617,7 +617,7 @@ Wir drei starrten vor uns hin. Aber wie eine Erlösung
 erklang da nach einigen Minuten von Haralds Lippen ein
 heiteres Lachen …
 
-»Oh — Sie kann was, Sie kann was, die Kleine!! —
+»Oh — Sie kann was, sie kann was, die Kleine!! —
 Göbbel, eilen Sie ihr nach und nehmen Sie sie mit nach
 Greifenberg zum Untersuchungsrichter: Protokoll und so …!!
 Halten Sie die drei mindestens bis acht abends fest und …
@@ -638,7 +638,7 @@ Er hatte es eilig. Fünf Minuten später führte er das
 Rad den Berg hinab. Er trug die Maske eines schlichten
 bärtigen Mannes und eine Aktentasche unter dem Arm:
 Versicherungsagent aus Görlitz wollte er spielen, falls ihn
-jemand anhielte, wir er mir noch in tadelloser Laune erklärt
+jemand anhielte, wie er mir noch in tadelloser Laune erklärt
 hatte. —
 
 Woher diese glänzende, kampffreudige Stimmung?! Woher?!
@@ -689,7 +689,7 @@ Göbbel hat mir auf Harsts Bitte die Photographie der
 Radspuren und der Linde überlassen. — »Sieh’ sie dir gut
 an,« hatte Harst vorhin beim Abschied gesagt.
 
-Ich hatte Unsere Lupe zu mir gesteckt. Ich prüfte das
+Ich hatte unsere Lupe zu mir gesteckt. Ich prüfte das
 Bild. Es war eine tadellos scharfe Aufnahme 12 mal 18. Die
 Radspuren waren in dem aufgeweichten Schlick des Chausseerandes
 außerordentlich klar zu erkennen.
@@ -699,7 +699,7 @@ Doktor Petersens ganz neu war und keine Riffelung, sondern
 kleine Höcker hat.
 
 Die Lupe zeigte mir aber an zwei Stellen des Bildes
-Eindrücke eines Hinterrades mit völlig glatten Mantel.
+Eindrücke eines Hinterrades mit völlig glattem Mantel.
 
 Das war merkwürdig. Das erregte mich geradezu. Es
 unterlag keinem Zweifel: Das Rad, das hier auf der Photographie
@@ -709,7 +709,7 @@ sein.
 Die schwere Last all dieser Unklarheiten bedrückte mich
 derart, daß ich abermals ins Freie flüchtete.
 
-Ich suchte machen dem hohlen Baume, aus dem Harald
+Ich suchte nach dem hohlen Baume, aus dem Harald
 die schwarzbraune Katze hervorgeholt hatte. Er hatte mir
 die Stelle beschrieben. Ich fand den Baum. Dann ging ich
 weiter den Berg hinab zu der anderen Stelle, wo wir Gussy
@@ -748,7 +748,7 @@ Ballen.
 Die Spuren am Zaun ließen diese Ballen an zwei besonders
 tiefen Eindrücken deutlich erkennen.
 
-Nicht Gussy Wendnoor war der über den Zaun gestiegen,
+Nicht Gussy Wendnoor war hier über den Zaun gestiegen,
 sondern Dora!! Dora hatte die Katze gebracht — die
 Katze mit dem einen Schlangenring aus Saalborgs Vergangenheit.
 
@@ -779,7 +779,7 @@ war! Er hatte mir wieder einmal … blauen Dunst vorgemacht.
 Er wollte das Häuschen durchsuchen. Wahrscheinlich
 hatte er längst »Dora« durchschaut!
 
-Ich!Tand rosa immer am Zaune. Ich wollte *noch* mehr
+Ich stand noch immer am Zaune. Ich wollte *noch* mehr
 ermitteln … Ich wollte unbedingt *noch* klarer sehen … —
 
 Was wollte ich tun?! — Ich überlegte … Ich rief mir
@@ -925,7 +925,7 @@ Er hatte in demselben Sessel Platz genommen, den Saalborg
 vor der hohen Kommission als Angeschuldigter inne
 gehabt hatte.
 
-Er sah nicht das unmerkliche lächeln, das um Haralds
+Er sah nicht das unmerkliche Lächeln, das um Haralds
 Lippen huschte …
 
 »Ja, als ob sie sich halblaut mit jemand unterhielte …
@@ -987,7 +987,7 @@ Schlangenringe, die ich in einem Koffer mit Doppelboden entdeckte,
 weil — — ich danach suchte …«
 
 Sein verschmitztes Lächeln, mit dem er mich nun anschaute,
-Zwang mich zu der gereizten Bemerkung:
+zwang mich zu der gereizten Bemerkung:
 
 <@pagebreak/>
 »Also hast du mir genau wieder nur die Hälfte mitgeteilt!!«
@@ -1132,7 +1132,7 @@ umklammerte, schwebten nach oben — sehr schnell. Gleichzeitig
 rief Harald sehr laut: »Lassen Sie die Schnüre fallen,
 Malcolm und Setter!! Es hat keinen Zweck mehr!«
 
-Voraus Phantom und Panther wieder auf den Teppich
+Worauf Phantom und Panther wieder auf den Teppich
 glitten.
 
 Oben in der Holzdecke des Zimmers erschienen nun zwei
@@ -1196,7 +1196,7 @@ glaubte, sie sei entlaufen und vielleicht hierher gekommen.
 
 *Mein* Plan klappte: Das Spiel ist aus! Die Firma
 Brown wollte 5000 Pfund opfern, um vor der Welt groß
-da zu stehen, — die Firma Brown hatte das Grafen Juwelen
+da zu stehen, — die Firma Brown hatte des Grafen Juwelen
 »wiedergefunden« und Saalborg als Dieb »entlarvt« — und
 alles wäre böse ausgelaufen, wenn nicht die Photographie
 den Anstoß zu meiner Radeltour zur alten Schmidt gegeben

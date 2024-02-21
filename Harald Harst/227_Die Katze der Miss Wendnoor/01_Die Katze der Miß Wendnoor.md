@@ -81,7 +81,7 @@ matt im Schein der kleinen Flurlampe.
 
 »Ja, Sie haben recht: Eingerostet!« Und leiser: »Ich
 hätte nie heiraten sollen, Schraut. Das Abenteurerblut in mir
-kommt nicht zur Ruine. Ich … welke dahin. Ich brauche
+kommt nicht zur Ruhe. Ich … welke dahin. Ich brauche
 Freiheit, Ungebundenheit. So sehr ich Anni auch liebe: Ich …
 fürchte die Zukunft!«
 
@@ -155,7 +155,7 @@ Ich hielt die Laterne, als Saalborg den Ring betrachtete.
 Plötzlich begann er wie trunken zu schwanken, ließ die Katze
 fallen, die sofort mit ein paar Sätzen in den Büschen verschwand,
 und ich konnte gerade noch zupacken, um ihn vor
-dem Umsinken zu Schützen. Schwer und schlaff ruhte er in
+dem Umsinken zu schützen. Schwer und schlaff ruhte er in
 meinen Armen. Sein fahles Gesicht bewies klar den Schwächeanfall.
 
 Ich schleppte ihn rasch in die Vorhalle, legte ihn hier
@@ -199,7 +199,7 @@ einer, dem die Gedanken die Füße lähmen, Gedanken, die die
 Seele bis ins Tiefste aufwühlen.
 
 Wir folgten ihm mehr seitwärts und erreichten mit ihm
-zusammen den Turmeingang. Anni hielt ihm umschlungen.
+zusammen den Turmeingang. Anni hielt ihn umschlungen.
 
 »Wo warst du?!«
 
@@ -340,14 +340,14 @@ Im Gegenteil. Ein scharfer Blick traf Harald …
 fragte er halb ironisch. Auch der Ton gelang ihm nicht.
 
 Harst erwiderte nur: »Gehen wir hinein … Sie sollten
-sich niederlegen. Sie Sehen recht angegriffen aus. Schließlich
+sich niederlegen. Sie sehen recht angegriffen aus. Schließlich
 sind Sie doch noch immer Rekonvaleszent …«
 
 Vincent fühlte sehr wohl die Mißstimmung, die zwischen
 uns entstanden war. Er mußte wissen, daß wir den Vorfall
 mit dem Ringe und der Katze so deuteten, wie er ihn
 *nicht* gedeutet haben wollte. Wenn er nun trotz allem seine
-Unaufrichtigkeit fortsetzte, so war dies ein erdrückenden Beweis
+Unaufrichtigkeit fortsetzte, so war dies ein erdrückender Beweis
 für Haralds Behauptung, daß mit diesem Ringe ein Abschnitt
 aus Saalborgs Vergangenheit lebendig geworden war und
 daß er selbst die schwerwiegendsten Gründe haben mußte, uns
@@ -666,7 +666,7 @@ Er schloß die Pforte auf und lehnte sich an den rechten
 Pfeiler, rauchte eine Zigarette und starrte in die dämmerige
 Ferne — dorthin, wo sich die Iserberge aus der Ebene hochtürmten.
 
-Harald rannte mir zu: »Wir trennen uns … Ich nach
+Harald raunte mir zu: »Wir trennen uns … Ich nach
 rechts, du nach links … Wir müssen G. W. vorher abfassen
 und eine Zusammenkunft vermeiden.«
 
@@ -850,7 +850,7 @@ Mir war noch immer sehr schlecht.
 »Polizeiauto?« fragte ich …
 
 »Ja — dasselbe, das im Fall Chanawutu Göbbel aus
-herüberbrachte.«
+Görlitz herüberbrachte.«
 
 »Aber — was will die Polizei bei Saalborg …?!«
 
@@ -1029,13 +1029,13 @@ Geständnis vorlesen:
 seit langem nicht mehr behagte. Ich bin an starke Erregungen
 gewöhnt. Diese fehlten mir hier. Als Onkel Petersen, meine
 Frau und ich letztens zweimal in Flinsberg waren — wir
-fuhren im Mietauto hinüber, besichtigten wir zu die
+fuhren im Mietauto hinüber, besichtigten wir auch die
 stattliche Villa des Grafen Rasczock. Der Hauswart führte
 uns herum. Es gibt dort eine Menge Raritäten, die den
 Fremden zugänglich gemacht werden sollen. Im Schlafzimmer
 der Gräfin — die Möbel stammen aus einem
 Schlosse Wallensteins — bemerkte ich hinter einem schief
-hängenden Porträt die seine Umrißlinie einer Tresortür
+hängenden Porträt die feine Umrißlinie einer Tresortür
 in der gepreßten Ledertapete. Dies wurde mir verhängnisvoll.
 In der verflossenen Nacht gegen ein Uhr —
 meiner Frau hatte ich ein Schlafmittel in den abendlichen
@@ -1090,7 +1090,7 @@ Er nahm Bogen Nr. 3 …
 plötzlich sehr müde wurde. Wir haben im Speisezimmer mit
 unseren Gästen Harst und Schraut Moselwein getrunken.
 Es ist sehr wahrscheinlich, daß Saalborg meiner Nichte etwas
-In den Wein getan hat. Im übrigen habe ich nachts nichts
+in den Wein getan hat. Im übrigen habe ich nachts nichts
 Auffälliges mehr bemerkt.«
 
 »Von einer Vernehmung Frau Anni Saalborgs habe ich
@@ -1206,7 +1206,7 @@ Der Amtsrichter war blaurot geworden.
 
 »Herr Harst, daran sind Sie schuld — Sie allein!!«
 
-»Möglich. Aber — sollte ich das Protokoll anderes als
+»Möglich. Aber — sollte ich das Protokoll anders als
 mit einer unumstößlichen Tatsache beginnen?!«
 
 Er ging zum Fenster und lehnte sich hinaus, wandte sich
@@ -1263,7 +1263,7 @@ radeln kann?«
 
 »Nun also. Das wäre das eine. Dann das andere: Glaubst
 du, er, der Meister der Verkleidung, wäre unmaskiert nach
-Flinsberg zu solchen Unternehmen geradelt?«
+Flinsberg zu solchem Unternehmen geradelt?«
 
 »Nein …!«
 
@@ -1336,9 +1336,9 @@ wird es Ihnen bestätigen.«
 
 »Allerdings!« nickte ich. »Katze und Ring.«
 
-»Ja — aber was heißt daß?!«
+»Ja — aber was heißt das?!«
 
-»Das Heißt, daß es besser gewesen wäre, Sie hätten
+»Das heißt, daß es besser gewesen wäre, Sie hätten
 mich hier nach meinem Belieben schalten lassen … — Ich
 weiß verschiedenes über diese Katze und den Ring, und ich
 hätte Saalborgs Schuldlosigkeit durch beides beweisen können.«
@@ -1378,7 +1378,7 @@ Der Amtsrichter wischte sich den Schweiß von der Stirn …
 »Nein, *ich* würde das nicht können …«
 
 <@pagebreak/>
-»Und würden Sie unmaskiert die Chaussee im mondheller
+»Und würden Sie unmaskiert die Chaussee in mondheller
 Nacht zu einem solchen Unterfangen entlangfahren?!«
 
 »Ich … nicht …«
