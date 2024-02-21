@@ -46,7 +46,6 @@
 \blett\b	jetzt
 \bLust\b	Luft
 \bm\b	in
-\bMir\b	Wir
 \bMr,	Mr.
 \bMr\s	Mr. 
 \bMrs,	Mrs.
