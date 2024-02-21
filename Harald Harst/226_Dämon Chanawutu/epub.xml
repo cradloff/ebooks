@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">7797fb37-fc33-46e1-825d-6ca2b0ef0e0e</entry>
+<entry key="title">Dämon Chanawutu</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">226</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Dämon Chanawutu.
+
+Wir hatten in diesem verregneten Frühjahr, das dem flauen Winter und dem einzigen wertvolleren Erlebnis — mit Vincent Saalborg — folgte, kaum mehr an Saalborg und seine Gattin gedacht, die nach der Erledigung des Geheimnisses von Parochialstraße 222 für uns wieder für alle Zeit verschollen zu sein schienen.
+
+So miserabel das Frühjahr und auch der Juni als Übergangsmonat zur Sommerzeit, so sehr hatten wir beide Gelegenheit gehabt, in Menschenschicksale hineinzuleuchten.  Da war der hochinteressante Fall der Katze der Miß Wendnoor, da war das Abenteuer mit Grita Meiers Tennisball, da war noch manches andere, das uns in Atem hielt.
+
+Wer?!
+
+Herr Schrimke ging nach Tisch spazieren. Warum sollte er nicht?! Er konnte doch nicht den ganzen Tag bei seinem Freunde Hirt Krankenpfleger (am leeren Bett) spielen!
+
+Herr Schrimke war bereits für die Greifenberger eine Persönlichkeit geworden. Besonders die Greifenberger Lausbuben, die das Haus Reimert umlagert hatten, gaben ihm das Ehrengeleit bis zur Stadtgrenze. Die Katzenmusik, die sie dabei mit Blechtöpfen, Triangeln, Kindertrommeln, Schnarren und ähnlichen Dingen veranstalteten, war nicht schlechter als manche abgespielte Jazzschallplatte des Weltsenders Runzendorf.
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (226) Dämon Chanawutu.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1928</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
