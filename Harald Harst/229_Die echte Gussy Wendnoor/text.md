@@ -18,8 +18,8 @@ ist dieselbe, mal so, mal so. Das große Publikum liest
 davon in den Zeitungen und staunt. Dazu ist wirklich kein
 Grund vorhanden. Erich Wulfsen hat in seinem vielseitigen
 Werk »Gauner und Verbrechertypen« die meisten dieser
-»Grundideen« geschickt gesammelt. »Alles schon Dagewesen« —
-das trifft auch auf diese Tricks Zu.
+»Grundideen« geschickt gesammelt. »Alles schon dagewesen« —
+das trifft auch auf diese Tricks zu.
 
 Nicht immer.
 
@@ -126,10 +126,10 @@ Wasser tauchte, und ihr das schmale Antlitz ganz zart
 säuberte.
 
 »Das Krokodil hat abgefärbt,« sagte ich dabei halb
-scherzend
+scherzend.
 
 Sie atmete tief und gleichmäßig — wohl absichtlich,
-um schneller die Schwäche zu Überwinden.
+um schneller die Schwäche zu überwinden.
 
 Harald saß am Steuer, hatte sich eine Zigarette angezündet
 und ließ die Schnur durch die Finger gleiten, mit
@@ -192,7 +192,7 @@ Schilfstengel angebunden. Bevor wir ihn losmachen konnten,
 bevor wir noch die Ruder aufgefischt hatten, war das
 Mädel bereits neben dem Steg auf dem Trockenen und
 lief davon. Als wir auf der Insel nach ihr suchten, war
-sie Spurlos verschwunden, —
+sie spurlos verschwunden. —
 
 Ich schildere hier diesen Zwischenfall absichtlich ganz
 kurz, denn ich komme später noch einmal darauf zurück.
@@ -201,11 +201,11 @@ Wie gesagt: Sie war weg, die kleine blonde Kröte! —
 
 Die Insel ist winzig. Die Unbekannte konnte sich hier
 kaum versteckt haben. Zweierlei war möglich. Entweder sie
-Hatte von der Westseite schwimmend das Inselchen verlassen,
+hatte von der Westseite schwimmend das Inselchen verlassen,
 oder sie hatte sich in der Absicht ins Wasser gestürzt, sich
 zu ertränken.
 
-Ich gebe Zu, die Geschichte hatte mich aufgeregt, und
+Ich gebe zu, die Geschichte hatte mich aufgeregt, und
 Haralds Kaltschnäuzigkeit ärgerte mich. Als ich ihm diese beiden
 Möglichkeiten entwickelte, sagte er nur:
 
@@ -237,7 +237,7 @@ Dieser Vorwurf entlockte ihm ein ironisches Lächeln …
 geöffnet. Zehn Minuten nach neun bargen wir die Krokodilmaid.
 Also kann sie nicht aus dem Freibad Wannsee gekommen
 sein. — Zweitens: Gummikrokodile färben nicht ab.
-Unsere Schöne Hatte sich das Gesicht selbst gefärbt, um
+Unsere Schöne hatte sich das Gesicht selbst gefärbt, um
 möglichst Wasserleiche zu markieren. — Genügt das?!«
 
 Seine infame Art, mich seine Überlegenheit spüren zu
@@ -255,7 +255,7 @@ Ich war jetzt auch überzeugt, daß sie gar nicht
 bewußtlos gewesen.
 
 »Eine raffinierte kleine Kanaille!« knurrte ich und schleuderte
-das Krokodil von mir,
+das Krokodil von mir.
 
 Stutzte da …
 
@@ -393,7 +393,7 @@ nicht … Ich habe Ferien. Ich will angeln. Packe Krokodil
 nebst Speck in den Rucksack und vergiß den Kram.
 Wenn Ferien, dann Ferien …«
 
-Es war nichts mit ihm anzufangen. Ich kenne Ihn.
+Es war nichts mit ihm anzufangen. Ich kenne ihn.
 
 Ich griff nach meiner Angel.
 
@@ -404,7 +404,7 @@ mit Teig als Köder.
 <@pagebreak/>
 Aber ich war nicht bei der Sache. Gar nicht.
 
-weshalb hatte das Mädel uns die Juwelen in die
+Weshalb hatte das Mädel uns die Juwelen in die
 Hände gespielt?!
 
 Das hatte sie, zweifellos. Wir sollten »den Speck«
@@ -470,7 +470,7 @@ vergrämen.«
 zweifelte daran.
 
 »Ich kann ausschalten, was mir unbequem. Und jetzt will
-Ich es. — Iß nur …«
+ich es. — Iß nur …«
 
 Er nahm die Morgenzeitungen aus dem Rucksack, aß
 noch drei Birnen und ging zur Zigarette und zur Lektüre
@@ -481,7 +481,7 @@ Rahmen des Alltäglichen völlig herausgeglittenen Persönlichkeit,
 die eigentlich mit jedem Jahre prägnanter geworden.
 
 Er beginnt mit den Anzeigen hinten. Er besitzt die
-Fähigkeit, eine ganze Seite in Sekunden zu Überfliegen.
+Fähigkeit, eine ganze Seite in Sekunden zu überfliegen.
 Ich kenne keinen Menschen, der so schnell liest wie er.
 
 Conan Doyle, der Holmes-Schöpfer, betont wiederholt
@@ -519,14 +519,14 @@ benutzt hatte.
 »Van Düren,« sagte er mit Betonung. »Stimmt es?«
 
 Ich mußte mich doch erst ein wenig sammeln. Wie
-kam er auf Van Düren?!
+kam er auf van Düren?!
 
 Ja — es stimmte.
 
 Das große V, das große D, die übrigen Buchstaben: Es
 paßte genau.
 
-Er Hielt mir die Morgenausgabe der Morgenpost hin.
+Er hielt mir die Morgenausgabe der Morgenpost hin.
 
 »Bitte … Unten links — die Anzeige mit dem schraffierten
 Rand …«
@@ -556,7 +556,7 @@ Vereinbarungen über den Austausch konnten so
 getroffen werden, daß der »Finder« ganz sicher ginge.
 
 Ich äußerte mich in dieser Weise auch Harald gegenüber.
-Er nickte zustimmend,
+Er nickte zustimmend.
 
 »… Wenn die Sache reinlich wäre, mein Alter, hätte
 van Düren erstens die Schmuckstücke näher bezeichnet, zweitens
@@ -602,7 +602,7 @@ gelegentlich benutzt, der Bootssteg: das ist die ganze
 Herrlichkeit, immerhin ein Inselidyll unweit der Weltstadt Berlin.
 
 Ich wiederhole: Unser Kahn lag parallel zum Röhricht.
-Wir saßen beim Angeln mit dem Rücken nach der Insel
+Wir saßen beim Angeln mit dem Rücken nach der Insel.
 
 Vorhin, als wir das blonde Mädel gesucht hatten, war
 keine lebende Seele auf dem Inselchen gewesen. Nur Wildenten
@@ -613,7 +613,7 @@ sie nicht. Es war ja überhaupt ein miserabler Sommer.
 
 Wenn die Enten nicht so lebhaft gewesen, wäre das
 wohl kaum passiert, was nun etwa fünf Minuten nach
-unserer Mahlzeit sich ereignete,
+unserer Mahlzeit sich ereignete.
 
 Harald hatte gerade mit Teig eine offenbar sehr stattliche
 Rotfeder am Haken. Die Angelrute bog sich derart, daß die
@@ -634,12 +634,12 @@ schlug seitwärts ins Boot.
 
 Als ich zu mir kam, war es bereits dunkel. Ich lag
 noch im Boot. Mein Kopf war Bienenhaus, meine Augen
-schauten Brillantfeuerwerk,
+schauten Brillantfeuerwerk.
 
 Das ging vorüber.
 
 Harst lag halb über der mittleren Ruderbank — noch
-Immer bewußtlos.
+immer bewußtlos.
 
 Genau um halb zwölf waren wir dann imstande, den
 Kahn loszuketten und unter grimmen Schmerzen nach
@@ -652,7 +652,7 @@ wir die lange Schnur und die Schädelbeulen und die Kopfschmerzen
 behalten.
 
 Zu langen Erörterungen über das Geschehene fehlte uns
-Jegliche Lust. Schweigend machten wir den Kahn in Cladow
+jegliche Lust. Schweigend machten wir den Kahn in Cladow
 fest und trommelten dann einen uns bekannten Autobesitzer
 heraus, der bereitwilligst seinen Kraftwagen aus der Garage
 holte und mit uns gen Berlin gondelte. Es war ein älterer
@@ -672,7 +672,7 @@ Der Weg von Cladow bis Spandau geht an der Havel
 entlang. Die Scheinwerfer leuchteten matt durch den heftiger
 strömenden Regen, das Auto stank, stieß und ratterte und
 knallte, und wir lagen in den Polstern und dösten vor
-Uns hin.
+uns hin.
 
 Wir mochten zehn Minuten gefahren sein, als der alte
 Tönnieß, der sich seine Schnapsflasche inzwischen dreimal
@@ -700,7 +700,7 @@ morgens waren wir daheim.
 <h2>3. Kapitel.</h2>
 <h3>Ein Mann ohne Namen.</h3>
 
-»… Kennen Sie Hasso Zetterström? Wenn nicht, dann
+… Kennen Sie Hasso Zetterström? Wenn nicht, dann
 kaufen Sie sich seinen »Dynamithund«. Sie werden ein
 paar frohe Stunden verleben. — Was der gallig ironische
 Zetterström mit dieser Geschichte zu tun hat? Nun, soweit
@@ -740,7 +740,7 @@ angeben, hätten wir ja noch weniger Ruhe als so schon!!
 Wir saßen also … Im Schmollwinkel am Kamin …
 Klubsessel, Bärenfell, Rauchtischchen, Ständerlampe …
 
-Und Ich hatte das aufgeblasene Krokodil und den Speck
+Und ich hatte das aufgeblasene Krokodil und den Speck
 — die Juwelen — wieder im Schoß und im Magen zwei
 Pyramidontabletten — als Verbeugung gegen Hirnkomplikationen
 infolge des Sandsacks. Meine Denkmaschine funktionierte
@@ -749,7 +749,7 @@ Nikotinfrei! Seit einiger Zeit rauche ich Patent, denn
 sie sollen bei Massenkonsum doch bekömmlicher sein.
 
 Harald schmeckte es sehr … Er hatte schon die siebente
-Mirakulum in Asche gesaugt und Hatte soeben gesagt:
+Mirakulum in Asche gesaugt und hatte soeben gesagt:
 
 »Der Sachverhalt ist ja so weit klar. Die Kerle, die uns
 niedergeschlagen, waren Gegenpartei der blonden Kröte mit
@@ -803,7 +803,7 @@ Emil liebte offenbar die Kürze.
 »Ick werd’ ihm holen … Warten Sie … Er liest
 in ’n Salong …«
 
-»Dann meldete sich eine üble schleimige krächzende Stimme:
+Dann meldete sich eine üble schleimige krächzende Stimme:
 
 »Hier van Düren … Haben Sie die Juwelen?«
 
@@ -871,7 +871,7 @@ Er musterte mich. Die nahe Laterne genügte.
 »Hier …«
 
 Ich zeigte ihm den »Speck«, den ich in ein rotes Schnupftuch
-eingewickelt hatte,
+eingewickelt hatte.
 
 <@pagebreak/>
 »Ah — wirklich!« lächelte er erfreut. »Hier ist das
@@ -894,7 +894,7 @@ betreten, und gleich darauf war im Hochparterre ein breites
 Fenster hell geworden. —
 
 Und wieder saßen wir nun in Haralds Arbeitszimmer
-— wie vorhin. Hatten schnell die Masken abgelegt,
+— wie vorhin. Hatten schnell die Masken abgelegt.
 
 »Fein!« meinte Harald. »Morgen vormittag geht der
 Tanz weiter — bei Ahlhelm …«
@@ -938,7 +938,7 @@ zu lassen.
 
 Hier im grellen Licht der elektrischen Krone verstärkte sich
 nun dieser Eindruck immer mehr: van Düren war keine
-alltägliche Persönlichkeit! — Mochte er jetzt auch Infolge
+alltägliche Persönlichkeit! — Mochte er jetzt auch infolge
 besonderer Umstände irgendwie in hochgradiger Erregung sich
 befinden, mochte er deshalb den wahren Kern seines Wesens
 durch sein übernervöses Gehabe gleichsam verwischen: Meine
@@ -972,7 +972,7 @@ mit durchaus berechtigtem Interesse. Harsts kühle Gelassenheit,
 Harsts ganze Persönlichkeit verdienen Beachtung.
 
 »… Das heißt,« sagte er mit einem röchelnden Seufzer,
-»diese Absicht hätte Ich nur verwirklicht, wenn die Schufte
+»diese Absicht hätte ich nur verwirklicht, wenn die Schufte
 sich nicht gemeldet hätten …!«
 
 Aha — er spielte hiermit auf mein Telephongespräch mit
@@ -992,17 +992,17 @@ Name ist falsch. Ich bin ein Mann ohne Namen. Ich trage
 Perücke, falschen Bart, ein künstliches Gebiß, das die Oberlippe
 emporwölbt, trage in den Backen Kautschukpolster, — mein
 Bauch ist Kunst, meine dicke Nase ist gestöpselt, — kurz,
-ich bin ein ganz anderer, wenn Ich diese Maskerade ablege.
+ich bin ein ganz anderer, wenn ich diese Maskerade ablege.
 Wer ich bin, muß Geheimnis bleiben. Holländer bin ich.
 Und um wenigstens etwas anzudeuten: Ich bin in einem dem
 Ihrigen verwandten Beruf tätig. — Mehr zu sagen ist mir
 verboten. Ich befinde mich in abhängiger Stellung, und
-gewissermaßen sitze Ich hier als Vertreter eines Toten.«
+gewissermaßen sitze ich hier als Vertreter eines Toten.«
 
 Er rauchte sich eine Mirakulum an …
 
 Nun war er wirklich durchaus ruhig. Sogar überlegen gemessen,
-jedes Wort abwägend, —
+jedes Wort abwägend. —
 
 »Das ist allerhand, in der Tat!« meinte Harald. »Sie
 machen sogar mich neugierig. Sprechen Sie …!!«
@@ -1031,7 +1031,7 @@ diverse Juwelen übergeben, die Ich einer Dame überbringen
 sollte, die zurzeit zur Kur in einem süddeutschen Bade
 weilt. Der Tod verzögerte die Erledigung der Angelegenheit.
 Außerdem hatte die Familie des Toten auch gänzlich unberechtigter
-Weise gegen mich Verdacht geschöpft, obwohl Ich wahrlich
+Weise gegen mich Verdacht geschöpft, obwohl ich wahrlich
 allen Grund hatte, den Millionär nach Kräften zu schützen,
 anstatt ihm etwa nach dem Leben zu trachten. Jedenfalls
 wollte ich meinen Auftrag bestimmt ausführen. Der Tote
@@ -1057,7 +1057,7 @@ unteren Füllungen der Doppeltür meines Schlafzimmers
 herausgeschnitten und wieder eingefügt — so tadellos, daß
 Nichts davon zu sehen war. Ich sah es. Ich habe Übung
 darin. — Da ich die Polizei nicht benachrichtigen konnte,
-setzte Ich Anzeigen in sämtliche Berliner Zeitungen und
+setzte ich Anzeigen in sämtliche Berliner Zeitungen und
 versprach den Gaunern zwanzigtausend Mark …«
 
 »Ah — diese Annoncen waren also von Ihnen! Sie
@@ -1099,7 +1099,7 @@ van Düren. Als Sie wieder im Pensionat Ahlhelm angelangt
 waren, stellten Sie fest, daß die Gauner Ihnen unechten
 Schmuck ausgehändigt hatten.«
 
-weshalb Harald diese Schwindelei vorbrachte, wo er
+Weshalb Harald diese Schwindelei vorbrachte, wo er
 doch am besten wußte, daß ich die echten Juwelen dem Holländer
 in der Parkstraße übergeben, war mir unklar.
 
@@ -1112,7 +1112,7 @@ Nein, die Gauner machten es anders …« Sein Gesicht
 veränderte sich. Helle Wut strahlte aus seinen Zügen.
 »Denken Sie,« krächzte er japsend, »denken Sie: die Schufte
 haben mir die Juwelen abermals gestohlen!! Das ist’s!! Und
-jetzt werden sie die Sachen nicht wieder Hergeben! Und
+jetzt werden sie die Sachen nicht wieder hergeben! Und
 gerade an den Juwelen liegt der Dame etwas, nicht an
 ihrem Wert! Deshalb bin ich auch so verzweifelt, so verstört!«
 
@@ -1149,10 +1149,10 @@ von Umständen hatte uns die Juwelen in die Hand gespielt.«
 Van Düren schaute Harst an, schaute mich an. Sein
 Gesicht wurde bösartig.
 
-»weshalb narren Sie mich!!« krächzte er wütend. »Die
+»Weshalb narren Sie mich!!« krächzte er wütend. »Die
 Dinge sind wahrhaftig nicht zum Scherzen geeignet! Ich
 hätte das nicht von Ihnen erwartet. Ihr Ruf, Herr Harst,
-ist Nicht der eines Mannes, der mich hier …«
+ist nicht der eines Mannes, der mich hier …«
 
 »Stopp, Herr van Düren, — stopp!« beschwichtigte Harald
 ihn. »Von Scherzen ist hier keine Rede. Hören Sie zu …
@@ -1166,7 +1166,7 @@ armen Tönnieß infolge des halb mißglückten Wurfes.
 
 Düren saß ganz still da.
 
-»Das … begreife Ich alles nicht …« meinte er dann …
+»Das … begreife ich alles nicht …« meinte er dann …
 »Kein Wort begreife ich … Das klingt zu unglaubwürdig,
 — pardon, würde unglaubwürdig klingen, wenn Sie es
 nicht so eindrucksvoll schildern würden … Aber — begreifen?!
@@ -1214,7 +1214,7 @@ zu lang.
 »Tadellos!« lobte er den Wein und hüstelte …
 
 »Graf Löwengaard wird sicherlich besseren gehabt haben,«
-meinte Harald,
+meinte Harald.
 
 <@pagebreak/>
 Mich traf der Name Löwengaard wie ein Hieb, der
@@ -1233,7 +1233,7 @@ Eingeweiden. — Löwengaard war Ihr Auftraggeber.«
 
 Düren blickte zu Boden.
 
-Erst nach einer Weile sagte er: »Das gehört nicht Hierher,
+Erst nach einer Weile sagte er: »Das gehört nicht hierher,
 Herr Harst. Ich gab mein Wort, ich schweige.«
 
 »Das dürfen Sie. — Löwengaard muß es sein. Seine
@@ -1246,7 +1246,7 @@ haben Sie Ihre zwanzigtausend Mark zurück … bitte …«
 Düren lachte bitter. »*Die* spielten wahrhaftig die
 geringste Rolle …!! Ich biete Ihnen fünfzigtausend, wenn Sie
 mir die Juwelen wieder herbeischaffen, Herr Harst, — nein
-doch, Ich würde Ihnen noch mehr bieten, falls ich eben nicht
+doch, ich würde Ihnen noch mehr bieten, falls ich eben nicht
 wüßte, daß Sie nie für Geld arbeiten … Sie sind Sportsmann
 auf besonderem Gebiet, Amateurdetektiv …«
 
@@ -1254,9 +1254,9 @@ Harald winkte ab. »Tun Sie mir einen Gefallen: Nur
 nicht diese Bezeichnung Detektiv! Ich bin das Gegenteil
 davon!«
 
-»Dann wären Sie … Gauner!« lächelte Düren,
+»Dann wären Sie … Gauner!« lächelte Düren.
 
-»Nein, aber Abenteurer bin Ich …! Ein Detektiv ist
+»Nein, aber Abenteurer bin ich …! Ein Detektiv ist
 <@pagebreak/>
 Vertreter der papiernen Paragraphen … des Strafgesetzbuchs.
 *Ich* lasse Gesetzesverächter entschlüpfen. Ich suche sie auf
@@ -1310,7 +1310,7 @@ Er erwiderte, indem er den Arm hob:
 
 Dürer blieb stehen.
 
-»Wahrhaftig! Sollte Ich in der Erregung vergessen haben,
+»Wahrhaftig! Sollte ich in der Erregung vergessen haben,
 es auszuschalten?!«
 
 Ich rief:
@@ -1354,9 +1354,9 @@ Er winkte …
 Hinter ihm sah ich Düren, der in komischer Art die
 Fäuste gen Himmel reckte.
 
-Ich Lief ins Haus — in den Flur — in das Zimmer …
+Ich lief ins Haus — in den Flur — in das Zimmer …
 
-In einem Gobelinsessel lag Düren und Schnappte nach
+In einem Gobelinsessel lag Düren und schnappte nach
 Luft.
 
 Harald stand neben ihm …
@@ -1371,7 +1371,7 @@ ungefähr glich, aber derselbe war es nicht.
 
 »Wir sind unglaublich hineingelegt worden,« fügte Harald
 hinzu. »Der Andere ist verduftet … Als er gar nicht
-wiederkam, verließ Ich meinen Posten im Treppenflur und trat
+wiederkam, verließ ich meinen Posten im Treppenflur und trat
 hier ein. Da fand ich den Echten …«
 
 »Leider!« sagte eine schleimige Stimme aus dem Sessel.
@@ -1423,7 +1423,7 @@ mit dem Zuge von Münden als harmlose Badegäste namens
 Hirtser und Schrock (sehr bärtig und sehr schlicht bürgerlich)
 eingetroffen. — Weshalb wir ausgerechnet ein Zimmerchen
 im Schettler wählten, wird dem Leser sehr bald klar
-werden,
+werden.
 
 Wir kannten Tölz bereits von ein paar Erholungsreisen
 her. Aber in Tölz kannte uns kein Mensch. Ausgenommen
@@ -1442,7 +1442,7 @@ wo er zwanzigtausend Mark ergaunern konnte, hatte sich
 als »Düren« glänzend herausgeputzt und uns das Geld
 abgenommen, war nachher im Pensionat Ahlhelm durch
 ein Fenster nach dem Hofe zu spurlos verduftet, während
-Zwei geniale Könner draußen Wache hielten und der echte
+zwei geniale Könner draußen Wache hielten und der echte
 Düren in seinem Zimmer wie besessen hin und her rannte
 und den Verlust der Juwelen bejammerte, die ihm wieder
 gestohlen worden waren — genau so, wie der Unechte
@@ -1617,7 +1617,7 @@ Familie Löwengaard!«
 
 Er: »Natürlich, wer sonst?! — Gussy kommt als Pieter
 van Düren zu uns, spielt uns eine erstklassige Komödie vor,
-wir fallen glatt darauf Hinein, sie ergaunert die Zwanzigtausend
+wir fallen glatt darauf hinein, sie ergaunert die Zwanzigtausend
 Mark, die wir ergaunert hatten, und derweil stiehlt
 ihre »Mutter« abermals die Juwelen. Glänzend gemacht!«
 
@@ -1655,11 +1655,11 @@ Man muß als Haralds Freund schon so mit der Zeit
 ein Geduldsfädchen von der Dicke eines Schiffstaus sich
 zulegen, sonst platzt man aus der Haut.
 
-»und das alles sagst du mir erst jetzt, Harald!!« Ich
-säuselte es lammfromm, denn Ich wollte ihm nicht die
+»Und das alles sagst du mir erst jetzt, Harald!!« Ich
+säuselte es lammfromm, denn ich wollte ihm nicht die
 Redelaune verderben.
 
-»Weshalb sollte Ich es dir früher sagen, mein Alter?!
+»Weshalb sollte ich es dir früher sagen, mein Alter?!
 — Ich bin Stimmungsmensch. Nur hier konnte ich die
 Stimmung finden, meine eigene glorreiche Dummheit zu
 entblößen.«
@@ -1729,7 +1729,7 @@ Schwarz war sie da, schwarzer Bubenkopf, schwarze Bluse
 
 »Zofe ist sie bei der Baronin,« sagte Harst.
 
-»Er versteht’s, seine Raketen wirkungsvoll abzufeuern.
+Er versteht’s, seine Raketen wirkungsvoll abzufeuern.
 
 »Zofe — — —?!«
 
@@ -1810,12 +1810,12 @@ her saßen Badegäste und echte Bayern vom Lande mit
 ihren Frauen im engen Mieder und kleinen Hütchen und
 sonngebräunten Gesichtern …
 
-Schön war’s. Nach dem dritten Liter hatte Ich Gussy
+Schön war’s. Nach dem dritten Liter hatte ich Gussy
 und Düren und die Baronin vergessen, und nach dem vierten
 <@pagebreak/>
 sagte Harald leider: »Nun gehen wir spazieren,« und wir
 gingen die Marktstraß’ hinab und blieben mitten auf der
-Isarbrücke stehen und Ich sah alles doppelt. Aber das dauerte
+Isarbrücke stehen und ich sah alles doppelt. Aber das dauerte
 nicht lange, und da sah ich alles so, wie’s hier der Herrgott
 geschaffen hat: den grünen Fluß, dessen Farbe man nie
 vergißt, und die Steinmassen des trockenen Flußbettes und
@@ -1855,7 +1855,7 @@ hinzu: »Ihr Freund Hirtser läßt Ihnen bestellen, daß er
 etwas vor hat …«
 
 <@pagebreak/>
-Da war Ich sofort munter und fragte, ob Düren die
+Da war ich sofort munter und fragte, ob Düren die
 Baronin schon gesprochen habe.
 
 »Gewiß … Ich gab mich ihr zu erkennen, als sie im
@@ -1866,14 +1866,14 @@ Lesezimmer war — ohne Zeugen.«
 »Nein, Herr Schrock, zum Glück, denn sie ist weder
 schön noch pikant noch sonst was, sie ist eine Vogelscheuche,
 die mir unglaubliche Grobheiten an den Kopf warf, weil
-ich mich Hatte bestehlen lassen. — Weiß der Teufel, ich
-wünschte, Ich Hätte diese Mission nie übernommen!!«
+ich mich hatte bestehlen lassen. — Weiß der Teufel, ich
+wünschte, ich hätte diese Mission nie übernommen!!«
 
 Ich schaute ihn an, und er schnitt ein wütendes Gesicht.
 »Möchte nur wissen, was es mit den verdammten Juwelen
 und den acht Goldstücken auf sich hat! Weshalb ist die
 Familie Löwengaard denn so mächtig hinter den Kleinodien
-Her?! — Ich fühle mich unsicher, verfolgt, bedroht … Und
+her?! — Ich fühle mich unsicher, verfolgt, bedroht … Und
 muß nun noch für meine Plackerei und meinen Ärger Grobheiten
 einstecken!«
 
@@ -1895,7 +1895,7 @@ werde Annis Zimmer durchsuchen.«
 »Hm …« Er hatte Angst.
 
 Aber ich redete ihm gut zu, und dann gingen wir
-zum Holden Garten,
+zum Holden Garten.
 
 Leider …
 
@@ -1905,24 +1905,24 @@ Leider …
 <h3>Die glühenden Kugeln.</h3>
 
 Leider sollte der wunderbare Frühschoppen im Schettler,
-bei dem uns die Freunde Franz! so nette, harmlose Mine
-erzählt hatte, vorläufig mein besaßen sein. Gussy Wendnoor,
-Wendnoor, die Krokodildame, zeigte ein plötzlich von weit
+bei dem uns die blonde Franzi so nette, harmlose Witze
+erzählt hatte, vorläufig mein letzter sein. Gussy Wendnoor,
+Wendnoor, die Krokodildame, zeigte sich plötzlich von weit
 wenig angenehmerer Seite.
 
 Also Düren und ich schlenderten wieder die Ludwigstraße
-hinab, der Isarbrücke zu. Will man grünlich vom eigentlichen
+hinab, der Isarbrücke zu. Will man nämlich vom eigentlichen
 »Bad« Tölz in den Stadt-Teil, so hat man nur zwei Möglichkeiten,
 über die Isar zu gelangen. Erstens die Brücke
 und dann ein Stück flußabwärts die fliegende Fähre bei
-dem Restaurant Stallluft, das mir schon immer als eine der
+dem Restaurant Isarlust, das mir schon immer als eine der
 schönsten Gaststätten von Tölz erschienen ist. — Düren und
 ich benutzen die Brücke. Die Nachmittagssonne enthüllte
-gerade all die bunte Eigenart der alten Fassade des Marieniifts,
+gerade all die bunte Eigenart der alten Fassade des Marienstifts,
 und wie wir so über den rauschenden grünen Fluß
-hinwegschritten, fiel mir ein, daß Ich für ein Unternehmen
+hinwegschritten, fiel mir ein, daß ich für ein Unternehmen
 wie das geplante keinerlei Handwerkszeug bei mir hatte.
-Ich bat daher den kleinen Holländer, in der Markt’traße
+Ich bat daher den kleinen Holländer, in der Marktstraße
 auf mich zu warten. Ich müsse unbedingt noch einiges mitnehmen,
 <@pagebreak/>
 was droben in unseren Koffern liege. Er schaute
@@ -1930,59 +1930,59 @@ mich mißtrauisch an, schüttelte den Kopf und meinte, ich
 solle die Geschichte besser überhaupt unterlassen. — Sehr
 mutig war Herr Pieter van Düren wirklich nicht. — Mein
 Lächeln ärgerte ihn. »Machen Sie, was Sie wollen,« krächzte
-er Hüstelnd.
+er hüstelnd.
 
 Ich betrat den Durchgang des Schettler. Er bildet wie
-gesagt eine offene, vielbenutzte Passage machte der Tag-Gasse
+gesagt eine offene, vielbenutzte Passage nach der Säg-Gasse
 hin. In der Mitte ist ein Stück freier Hofraum mit ein
-paar Tischen — bei gutem Wetter ein origineller Patentiert,
-dringt dicht dabei stehen Kisten, Biertonnen, und aus der
-stets offenen Küchentür des Bräus liebt man alle Düfte
-des Schlaraffenlandes und hört liebliche Stimmen in unser
-fälschten Baronin: Köchinnen, Spülmadels, Putzjungfern.
-— Hat man! dieses nach oben zu offene Stück passiert, folgen
-verwitterte Türen mit ehrwürdigen Schlössern —«- dicht an
-dicht, — und dann öffnet ein links eine viereckige Einbuchtung,
-in der, von einer verstaubten Glühbirne schaurig beleuchtet,
-die knarrende, ausgetretene Treppe zu den Goldsuchern
-emporführt, Von der Treppe ging’s geradeaus in
+paar Tischen — bei gutem Wetter ein origineller Aufenthalt,
+denn dicht dabei stehen Kisten, Biertonnen, und aus der
+stets offenen Küchentür des Bräus riecht man alle Düfte
+des Schlaraffenlandes und hört liebliche Stimmen in unverfälschtem
+Bayrisch: Köchinnen, Spülmadels, Putzjungfern.
+— Hat man dieses nach oben zu offene Stück passiert, folgen
+verwitterte Türen mit ehrwürdigen Schlössern — dicht an
+dicht, — und dann öffnet sich links eine viereckige Einbuchtung,
+in der, von einer verstaubten Glühbirne schämig beleuchtet,
+die knarrende, ausgetretene Treppe zu den Gastzimmern
+emporführt. Von der Treppe ging’s geradeaus in
 unser Zimmerchen, das die Nummer zwei trug, links lief
 der Flur im Halbdunkel still und einsam in ungewisse Fernen.
 
-Unser Zimmerschlüssel Einpacken der Tür an einem
+Unser Zimmerschlüssel hing neben der Tür an einem
 Nagel. In Tölz herrschen im allgemeinen paradiesische Zustände.
 Es wird wenig gestohlen. Allerdings gibt’s überall
 Wachhunde, die jedoch äußerst friedlich sind, dabei intelligent,
 denn der Schettler-Hund, stets auf dem Hofe postiert, hatte
-mich nur beschnuppert und sofort als zum Hause ’gehörig
+mich nur beschnuppert und sofort als zum Hause gehörig
 wiedererkannt. Vielleicht ist die Intelligenz der Tölzer Hunde
 darauf zurückzuführen, daß sie sämtlich auf einen reinen
-Stammbaum verzichten und daher durch ständige zufällig!
-Blutmischung und Blutauffrijicung infolge Zufallöhundeehen
-jegliche Degenerationserscheinungen vermeiden, …
+Stammbaum verzichten und daher durch ständige zufällige
+Blutmischung und Blutauffrischung infolge Zufallshundeehen
+jegliche Degenerationserscheinungen vermeiden.
 
 <@pagebreak/>
 Ich schloß auf und trat ein, drückte die Tür zu und freute
 mich über den Anblick der bunten Blumen auf dem Balkon,
 wandte mich der Ecke zu, wo unsere beiden Handkoffer auf
-den grau geijtritbenen Dielen standen.
+den grau gestrichenen Dielen standen.
 
 Da öffnete jemand ohne anzuklopfen die Tür — bei
 der Enge des Raumes eine Rücksichtslosigkeit, denn die
-Für schleuderte mich auf mein Bett, wo ich nun halb
+Tür schleuderte mich auf mein Bett, wo ich nun halb
 sitzend halb liegend den Mann ärgerlich musterte, der mit
-sollen Kraft hier eingedrungen war,
+solcher Kraft hier eingedrungen war.
 
-— Es war ein hagerer langer Kerl in Bergtracht, — ein
+Es war ein hagerer langer Kerl in Bergtracht, — ein
 faltiges, braunes, bartloses Gesicht, das so etwas an einen
 Schauspieler erinnerte. Fraglos kein Einheimischer, dazu besaßen
-diese kühnen Züge zu viel Merkmale der angelsjächsischHen
+diese kühnen Züge zu viel Merkmale der angelsächsischen
 Rasse. Ich rieb meine schmerzende Schulter, richtete
-mich? auf und fragte naivere: »Was wollen Sie hier?«
+mich auf und fragte unwirsch: »Was wollen Sie hier?«
 
 Der Herr hatte merkwürdige Manieren. Er antwortete
 nicht, sondern holte mit der rechten Hand aus und versetzte
-mir einen Hieb genau dort, wo Sold ein Hieb stets blitzartig
+mir einen Hieb genau dort, wo solch’ ein Hieb stets blitzartig
 wirkt: über der Herzgrube!
 
 Gleichzeitig drückte er mir mit der Linken die Kehle
@@ -1991,39 +1991,39 @@ zu, — eine Gewandtheit, die anerkennenswert war.
 Zu einer Unterhaltung zwischen uns kam es nicht, denn
 ein mit Chloroform getränktes Tuch erledigte mich vollends.
 
-Ich verlor das Bewußtsein. Immerhin fand im noch
+Ich verlor das Bewußtsein. Immerhin fand ich noch
 Zeit mir zu sagen, daß dieser Gentleman mit dem englischen
 Unterkiefer und den englischen Kaninchenzähnen sehr wahrscheinlich
 einer der Abgesandten der Familie Löwengaard
-wäre. Hm Augenblick erschien das an sich gleichgültig. Ich
-war eben außer Gesicht gesetzt.
+wäre. Im Augenblick erschien das an sich gleichgültig. Ich
+war eben außer Gefecht gesetzt.
 
-Hin Chloroformrausch kann drei, fünf, acht Stunden
+Ein Chloroformrausch kann drei, fünf, acht Stunden
 dauern, je nach der Dosis, die man eingeatmet hat. In
 meinem Falle dauerte er sieben Stunden, wie ich sofort
-nach meinem Erwachen feststellte, indem im meine Uhr
+nach meinem Erwachen feststellte, indem ich meine Uhr
 <@pagebreak/>
 im Dunkeln befragte. Sie zeigte drei Minuten vor Mitternacht.
 
 Wie gesagt: Es war dunkel um mich her, und mir war
-wenig gut zumute. Ich lag jedoch wer, sehr weich, und
+wenig gut zumute. Ich lag jedoch weich, sehr weich, und
 mein Kopf fühlte die angenehme Kühle eines seidenen
 Kissens. Wenn ich den Kopf nur ein wenig zu drehen suchte,
 drohte mein Magen sich umzukrempeln. Ich starrte also
-Berg aufwärts und unterschied mit der Zeit eine matt
-belle Fläche, in der ein noch helleres Viereck sich abzeichnete,
-das mit seinen leuchtenden Pünktchen besät schien.
+schräg aufwärts und unterschied mit der Zeit eine matt
+helle Fläche, in der ein noch helleres Viereck sich abzeichnete,
+das mit feinen leuchtenden Pünktchen besät schien.
 
 Es war ein Dachfenster, es war der Nachthimmel, und
-die große, maskierte Fläche war ein Atelierfenster.
+die große, matthelle Fläche war ein Atelierfenster.
 
-Unklar erinnerte Ich mich, daß die blonde Franzi uns
+Unklar erinnerte ich mich, daß die blonde Franzi uns
 bei Tische erzählt hatte, oben im Hause befände sich ein
 früheres photographisches Atelier, das jetzt vor kurzem ein
 Maler gemietet hatte.
 
-Ohne Zweifel lag Ich in diesem Atelier auf einem
-Diwan — ungefesselt, die Uhr Rohr im linken Handgelenk,
+Ohne Zweifel lag ich in diesem Atelier auf einem
+Diwan — ungefesselt, die Uhr noch im linken Handgelenk,
 also unberaubt, denn sie war immerhin aus Gold und
 wertvoll.
 
@@ -2033,37 +2033,37 @@ ohne Fesseln, ein seidenes Kissen unterm Kopf: das war
 ungewöhnlich.
 
 Ich versuchte erneut den Kopf zu drehen. Es gelang.
-Der Magen hatte sie beruhigt.
+Der Magen hatte sich beruhigt.
 
 Ich blickte seitwärts. Dort war es ganz finster, und
 aus diesem pechrabenschwarzen Schwarz glühten zwei rötliche
-(leuchtende kleine Kugeln hervor, die verzweifelte Ähnlichkeit
+leuchtende kleine Kugeln hervor, die verzweifelte Ähnlichkeit
 mit Tieraugen hatten. Es mußte ein Tier von ganz
 anständiger Größe sein, das da offenbar auf dem Fußboden
 lag und mich bewachte.
 
 <@pagebreak/>
-Ich drehte den Kopf. Rock mehr. Eine Sprungfeder des
-Diwans klirrte leise, und das Dicht knurrte drohend: Es
+Ich drehte den Kopf noch mehr. Eine Sprungfeder des
+Diwans klirrte leise, und das Vieh knurrte drohend: Es
 war ein Hund, ganz gewiß der Hund des Malers, von dem
-da blonde Franzi Schauergeschichten erzählt hatte: Es sei
+die blonde Franzi Schauergeschichten erzählt hatte: Es sei
 eine Tigerdogge, und so scharf, daß der Maler das Personal
-gewarnt habe, das Atelier zu betreten, wenn er riet da sei!
+gewarnt habe, das Atelier zu betreten, wenn er nicht da sei!
 
-Also die Tigerdogge …! Kein Tölzer Hund, Ich lag
-still und beobachtete die glühenden Kohlen. Wir war nicht
+Also die Tigerdogge …! Kein Tölzer Hund. Ich lag
+still und beobachtete die glühenden Kohlen. Mir war nicht
 wohl zumute.
 
 Aber mit der Zeit erschien mir meine Lage denn doch
-zu dumm. Sollte Ich mich durch) einen Hund hier festhalten
-alten?!
+zu dumm. Sollte ich mich durch einen Hund hier festhalten
+lassen?!
 
 Ich führte die rechte Hand ganz behutsam nach dorthin,
 wo die Gesäßtasche der Beinkleider sich befindet und wo
-ich die Clement stecken hatte. Sie war nahe da. Das
+ich die Clement stecken hatte. Sie war noch da. Das
 fühlte ich.
 
-Ebenso behutsam lüftete Ich den mittleren Teil meines
+Ebenso behutsam lüftete ich den mittleren Teil meines
 Leibes, um in die Tasche fassen zu können. Zum Glück klirrte
 keine Sprungfeder. Jetzt hatte ich die Pistole in der Hand,
 legte mich bequemer …
@@ -2072,9 +2072,9 @@ Aha — die Bestie knurrte …
 
 Mochte sie!
 
-Ich hatte die Störung schon zurückgeschoben. Ich
-brauchte nur abzudrücken … Ich stützte den regten Ellen
-bogen auf den Diwan, und nun — fühlte ins mich Sieger.
+Ich hatte die Sicherung schon zurückgeschoben. Ich
+brauchte nur abzudrücken … Ich stützte den regten Ellenbogen
+auf den Diwan, und nun — fühlte ich mich Sieger.
 
 Die Dogge knurrte kräftiger.
 
@@ -2089,30 +2089,30 @@ Englisch …
 Und eine Frau …
 
 <@pagebreak/>
-Ich war so verblüfft, daß Ich unwillkürlich dorthin
-starrte und mich nahe mehr bewegte.
+Ich war so verblüfft, daß ich unwillkürlich dorthin
+starrte und mich noch mehr bewegte.
 
-Das Knurren ward zum heiseren Röcheln … Der Sund
+Das Knurren ward zum heiseren Röcheln … Der Hund
 war aufgestanden.
 
 Ich lag nun ganz still, beobachtete nur die schillernden
-Zeltleinen Kugeln.
+kleinen Kugeln.
 
 Minuten vergingen.
 
-Gewiß — Ich hätte schießen können. Aber Ich war mir
+Gewiß — ich hätte schießen können. Aber ich war mir
 meiner Sache doch nicht ganz sicher, ob der Maler nicht
-etwa aus dem Patronenrahmen die Patronen entfernt hatte …
+etwa aus dem Patronenrahmen die Patronen entfernt hatte.
 Eigentlich wäre es ja von ihm ein freventlicher Leichtsinn
-gewesen, hätte e’3 nicht getan.
+gewesen, hätte er’s nicht getan.
 
 Es war besser, mich auf die Clement nicht unbedingt zu
 verlassen. Außerdem reizte es mich auch, zunächst mit der
 unsichtbaren Frau mich zu verständigen.
 
-Der Hund legte ein wieder.
+Der Hund legte sich wieder.
 
-Eine geraume Zeit ließ ich verstreichen, bevor Ich fragte:
+Eine geraume Zeit ließ ich verstreichen, bevor ich fragte:
 
 »Wer sind Sie, Miß?« — auch auf englisch.
 
@@ -2125,110 +2125,108 @@ Die Frauenstimme erwiderte unheimlich verängstigt:
 
 Sollte ich die Wahrheit preisgeben?!
 
-Nein!«
+Nein!
 
 »Auf die Weise kommen wir nicht weiter, Miß,« flüsterte
-Ich zurück. »Sie befinden sich doch hier offenbar ebenfalls
+ich zurück. »Sie befinden sich doch hier offenbar ebenfalls
 als Gefangene des Malers … wie ich. Ich aber habe gute
-Gründe, zuerst von Ihnen Offenheit Zu verlangen. Wer
+Gründe, zuerst von Ihnen Offenheit zu verlangen. Wer
 sind Sie?!«
 
 Eine Antwort blieb aus.
 
 <@pagebreak/>
-Ich hörte nur halb Gesticktes Weinen, und das schien
+Ich hörte nur halb ersticktes Weinen, und das schien
 die Dogge zu reizen. —
 
 Sie knurrte … bewegte den Kopf.
 
 Wieder verstrichen endlose Minuten.
 
-Hm »Hause war’s totenstill.
+Im Hause war’s totenstill.
 
-Nur ganz gedämpft hörte Ich das Guten von Autos,
+Nur ganz gedämpft hörte ich das Tuten von Autos,
 die die Marktstraße entlangfuhren, und das Gedudel eines
 Grammophons.
 
-»Miß — bitte!!«, ermunterte ich meine unsichtbare Bild«
-sal8genossin.
+»Miß — bitte!!«, ermunterte ich meine unsichtbare
+Schicksalsgenossin.
 
 Sie hauchte weinerlich:
 
-»Ich .; … kann … nicht … mehr. Meine Nerven
-versagen …!««
+»Ich … kann … nicht … mehr. Meine Nerven
+versagen …!!«
 
-Das klang zwar durchaus elf, aber unsereiner neigt
+Das klang zwar durchaus echt, aber unsereiner neigt
 mehr denn jeder andere zum Mißtrauen. — Wenn die
 Frau mich vielleicht aushorchen wollte?!
 
 Nun — die Szene änderte sich jetzt ganz von selbst …
 
--Und zwar so …
-
-… 0.«
-Armen Gute entartet ohne
+Und zwar so …
 
 <@pagebreak/>
 
 <h2>3. Kapitel.</h2>
-<h3>Die Ulkoholleie.</h3>
+<h3>Die Alkoholleiche.</h3>
 
-Draußen erhob sich Lärm — draußen vor der Atelier
+Draußen erhob sich Lärm — draußen vor der Ateliertür …
 
 Lachende Stimmen, polternde Schritte kamen näher. Dazwischen
 brüllte von unten her ein im Schlaf gestörter Gast
 ein paarmal »Ruhe!! Schweinerei! Besoffene Bande!!« —
 Dieser Zornausbruch war verständlich, denn die tobende
 Rotte auf der Treppe — zweifellos waren auch Anni,
-Franz!, Harst, Mittel mit dabei — war in auggchlassenster
+Franzi, Kathi, Mirzel mit dabei — war in ausgelassenster
 Faschingsstimmung.
 
 Dann Stille.
 
 Eine Stimme: »Gute Nacht, Kinder … Nun bring’ ich ihn
 schon allein hinein! Geht nur! Sonst wird meine Dogge
-böse!’
+böse!«
 
 Die Schritte entfernten sich — lachende Mädels verdufteten
 …
 
 Ein Schlüssel kreischte im Schloß der Tür, — eine
 Lichtbahn flutete herein, wurde wieder abgesperrt: die Tür
-fiel z!!
+fiel zu!
 
 <@pagebreak/>
-Dann ein Knochen …
-Der Kronleuchter des »Ateliers, sechs Flammen, sprühten
+Dann ein Knacken …
+
+Der Kronleuchter des Ateliers, sechs Flammen, sprühten
 auf.
 
 Ich sah …
 
-Sah dort den Kerl stehen, der wies chloroformiert hatte.
+Sah dort den Kerl stehen, der mich chloroformiert hatte.
 
 Sah, daß er einen total Betrunkenen festhielt …
 
-Sah: es war … mein alter Harald!
+Sah: es war … mein alter Harald!!
 
 Tatsächlich bis zur Sinnlosigkeit bezecht, gänzlich Alkoholleiche!!
 
 Sah weiter: drüben auf einem verblichenen Paneelsofa
-lag ein? Frau mit krankhaft rotem, riesigen Gesicht, — hasse«
+lag eine Frau mit krankhaft rotem, pickligem Gesicht, — hager,
 wirres Haar …:
 
-Baronin Sonja van der Legen!
+Baronin Sonja van der Leyen!
 
 Die Tigerdogge aber umschwänzelte freudig ihren Herrn,
 der nun meinen armer Freund in einen Sessel fallen
 ließ — wie einen nassen Sack.
 
 Harst lag da mit hängenden Armen, glasigen Augen,
-—» — Speichel floß ihm aus dem Munde …
+— — Speichel floß ihm aus dem Munde …
 
-So hatte Ich ihn noch nie gesehen! —
+*So* hatte ich ihn noch nie gesehen! —
 
-Der Maler Blitze nur flüchtig nach mir hin.
+Der Maler blickte nur flüchtig nach mir hin.
 
-»rote Pistole ist entladen, Herr Schraut …« sagte er
+»Die Pistole ist entladen, Herr Schraut …« sagte er
 und zog seinen Lodenmantel aus, warf den Filz auf den
 Tisch und nickte der Baronin zu:
 
@@ -2237,47 +2235,47 @@ gut unterhalten?!«
 
 »Glänzend!!«
 
--Das war meine ebenso ironische Antwort.
+Das war meine ebenso ironische Antwort.
 
-Er wandte sie halb um.
+Er wandte sich halb um.
 
 »Worüber, Herr Schraut?«
 
-— »Weber Dürens Juwelen!t«
+»Über Dürens Juwelen!«
 
 »So … so …«
 
 <@pagebreak/>
-Er setzte ein in den zweiten Plüschsessel neben den
+Er setzte sich in den zweiten Plüschsessel neben den
 Tisch.
 
 »So … so, — also über die Juwelen!« Er streichelte
 der riesigen Tigerdogge den Kopf.
 
-»Ja, und über Gussy Wendnoor!« log im weit —
+»Ja, und über Gussy Wendnoor!« log ich weiter —
 mit voller Absicht.
 
-Und — das saß! Der Name wirkte …
+Und — *das* saß! *Der* Name wirkte …
 
 Der Maler starrte mich lange an — verblüfft, beunruhigt
 …
 
 »Wer ist das?« fragte er mit einem kläglichen Versuch
-zu Heucheln.
+zu heucheln.
 
-»Das wissen Sie genau so gut wie Ach,« erklärte ich
+»Das wissen Sie genau so gut wie ich,« erklärte ich
 kampflustig, begleitet von Haralds mißtönendem Schnarchkonzert.
 Er war eingeschlafen, und so mit offenem Munde
-und Halb vorgestreck&ter Zunge wirkte er noch beklagenswerter.
+und halb vorgestreckter Zunge wirkte er noch beklagenswerter.
 
-Und Ich fügte hinzu: »Sie sind Gussys Helfershelfer …
+Und ich fügte hinzu: »Sie sind Gussys Helfershelfer …
 Sie haben in Berlin die Mutter Rondanoor gespielt — im
-Hause am Nollendorfplatz, — Sie haben den seinen Streich
+Hause am Nollendorfplatz, — Sie haben den feinen Streich
 mit inszeniert, und nun haben Sie hier Baronin van der
-Legen im Holden Garten gespielt und van Düren auch das
+Leyen im Holden Garten gespielt und van Düren auch das
 für die Baronin bestimmte Geld in Empfang genommen.
 Damit haben Sie und Gussy Wendnoor auf der ganzen
-Linie gesiegt.« …
+Linie gesiegt.«
 
 Vom Sofa her ein heiserer Wutschrei …
 
@@ -2285,92 +2283,90 @@ Vom Sofa her ein heiserer Wutschrei …
 
 Der Maler zeigte auf die Dogge …
 
-»Bitte, verhalten Sie Biß ruhig!« Er blieb höflich.
+»Bitte, verhalten Sie sich ruhig!« Er blieb höflich.
 
 Und zu mir: »Nun gut, Herr Schraut, — leugnen
 hätte keinen Zweck. Es ist alles so, wie Sie’s oder Herr
-Harst kombiniert: haben. Nur — nur hier waren Sie
+Harst kombiniert haben. Nur — nur hier waren Sie
 <@pagebreak/>
-beide sehr unvorsichtig. Sie mußten sich? doch sagen, daß
+beide sehr unvorsichtig. Sie mußten sich doch sagen, daß
 wir hinter Ihnen her sein würden wie die Bluthunde.
 Waren wir auch … Oder vielmehr ich, denn meine Freundin
-Gussy hatte ihren »Dienst bei der ’Baronin bereits wieder
-angetreten.« Er bemühte sich, einen leiten Plauderton an
-zuschlagen, was ihm aufs ganz gut glückte. Er hatte etwas
-an sich, das für ihn einnahm, eine gewisse freche, Fahne
+Gussy hatte ihren Dienst bei der Baronin bereits wieder
+angetreten.« Er bemühte sich, einen leichten Plauderton
+anzuschlagen, was ihm auch ganz gut glückte. Er hatte etwas
+an sich, das für ihn einnahm, eine gewisse freche, kühne
 Offenheit, etwas Sorglos-Sicheres: Ganz wie ein erprobter
-Cdelhzohstapler!
+Edelhochstapler!
 
-»Die Kombinationen stammen von Harst,/« sagte ich
+»Die Kombinationen stammen von Harst,« sagte ich
 weniger gereizt. »Wie haben Sie es fertig gebracht, meinen
 Freund so betrunken zu machen?«
 
-Vom Sofa her mischte ein da abermals die Baronin
-
+Vom Sofa her mischte sich da abermals die Baronin
 ein — auch in bescheideneren Tone, denn die Dogge stand
 dicht vor ihr:
-»Meine Zofe also eine Gaunerin, — — ich bin starrt!
 
-Dann klärt sich alles sehr einfach: Diese elende Weib
-bat mich in der verflossenen Nacht betäubt, und Sie haben
+»Meine Zofe also eine Gaunerin, — — ich bin starr!!
+Dann klärt sich alles sehr einfach: Dieses elende Weib
+hat mich in der verflossenen Nacht betäubt, und Sie haben
+mich hierher geschleppt, — — Sie, Sie … Schurke!!«
 
-mich hierher geschleppt, — — Sie, Sie … Heimkehr«
-Ich kann nicht behaupten, daß die Baronin mir sucht
+Ich kann nicht behaupten, daß die Baronin mir
 sympathisch war. Ihr Gesicht — ganz abgesehen von dem
-
 entstellenden Hautleiden — hatte verlebte, fast gemeine Züge,
-und ihre Auszdrudsweise entspraHD auch nicht gerade der
+und ihre Ausdrucksweise entsprach auch nicht gerade der
 einer Dame der guten Gesellschaft. Außerdem dachte ich auch
-daran, daß sie fraglos den UÜbdelsSiitelshacher im großen
+daran, daß sie fraglos den Adelstitelschacher im großen
 betrieb: Graf Löwengaard war wohl nicht ihr einziger
-»Funde« gewesen!
+»Kunde« gewesen!
 
 Der Maler sagte denn auch zu ihr mit merklicher
 Geringschätzung: »Baronin, Sie sollen mit derartigen Bezeichnungen
-wie Schurke und so ahnte vorsichtiger umgehen!
+wie Schurke und so ähnlich vorsichtiger umgehen!
 Ich kenne Ihre Vergangenheit: Sie haben den Oberst
-van der Legen sich gekauft, nachdem Sie viele Jahre die
+van der Leyen sich gekauft, nachdem Sie viele Jahre die
 <@pagebreak/>
-Geliebte eines nicht eben gutbeleumdeten Prinzen wo en, der
-noch jetzt Teilhaber an Ihrem blühenden Unternehmen, Knie-3
-Schieber in den Adelsijitand zu erstehen, sein dürfte. — Wir
+Geliebte eines nicht eben gutbeleumdeten Prinzen waren, der
+noch jetzt Teilhaber an Ihrem blühenden Unternehmen, Kriegsschieber
+in den Adelsstand zu erheben, sein dürfte. — Wir
 Hochstapler, Baronin, pflegen, bevor wir einen Plan ausarbeiten,
 uns sehr genau über alles zu unterrichten. Wir
-wissen auch««, weshalb die Familie Löwengaard alles daran
-rechte, die Juwelen nicht in Ihre Hände gelangen zu lassen,
+wissen auch, weshalb die Familie Löwengaard alles daran
+setzte, die Juwelen nicht in Ihre Hände gelangen zu lassen,
 ebenso die acht Goldstücke. Löwengaard war im Anfangsstadium
-seiner Laufbahn Fuchs Hehler, Baronin, und die
-Juwelen …« — er lächelte sein — »hatte im ihm vor
+seiner Laufbahn auch Hehler, Baronin, und die
+Juwelen …« — er lächelte fein — »hatte ich ihm vor
 sieben Jahren verkauft — ich, der sie — — Ihnen einst
-stahl! Besinnen Sie sich von? auf Monte Carlo, auf den
-»reimen« Amerikaner James Henderson?«
+stahl! Besinnen Sie sich noch auf Monte Carlo, auf den
+»reichen« Amerikaner James Henderson?«
 
-»Schurke!!« kreischte das Weib … »Schurke, ihm …«
+»Schurke!!!« kreischte das Weib … »Schurke, ich …«
 
-Aber die Dogge wirkte außerordentlic4 besänftigend …
+Aber die Dogge wirkte außerordentlich besänftigend …
 
-»—.Hier nenne in mich Maler Fritz Million, in Berlin
+»… Hier nenne ich mich Maler Fritz Ullrich, in Berlin
 war ich Frau Rondanoor, zuweilen bin ich ein Baron von
-Venedig-Gericht, zuweilen ein Lord … Ich bin alles und
+Francois-Gertell, zuweilen ein Lord … Ich bin alles und
 nichts. Ein Nichts bin ich im Vergleich zu Gussy Wendnoor.
-Leer Schraut als Fachmann wird Ihnen bestätigen, daß Gussy
-diesen Streich glänzend inszeniert ha!! Daß dabei noch der
-Seeluft;e Witz sich ereignete, daß Löwengaard die Juwelen,
-die ihm längst unbequem, Ihnen als Haltung aushändigen
+Herr Schraut als Fachmann wird Ihnen bestätigen, daß Gussy
+diesen Streich glänzend inszeniert hat! Daß dabei noch der
+schelmische Witz sich ereignete, daß Löwengaard die Juwelen,
+die ihm längst unbequem, Ihnen als Zahlung aushändigen
 wollte, — Juwelen, die Ihnen einst gehörten, was er
 nicht ahnte! —, — ja, das macht diesen Streich besonders
-Se Andacht.«
+schmackhaft.«
 
-Er erhob ein …
+Er erhob sich …
 
-»Leiter habe ich keine Zeit mehr, mit Ihnen noch
+»Leider habe ich keine Zeit mehr, mit Ihnen noch
 weiter zu plaudern, Baronin … Gussy und sich reisen in
-zeßhn Minuten ab … — Meine Dogge lasse ich hier,
-Herr Schraut … Bitte, setzen Sie ein nicht der Gefahr
-aus, von diesem Tier zerfleischt:zu! werden. Hektor alt
-tadellos dressiert. Morgens können Ei« Hektor dadurch) zu
+zehn Minuten ab … — Meine Dogge lasse ich hier,
+Herr Schraut … Bitte, setzen Sie sich nicht der Gefahr
+aus, von diesem Tier zerfleischt zu werden. Hektor ist
+tadellos dressiert. Morgens können Sie Hektor dadurch an
 <@pagebreak/>
-ein gewöhnen und ihn zutraulich machen, daß Sie ihm ein
+sich gewöhnen und ihn zutraulich machen, daß Sie ihm ein
 paar ganz bestimmte Worte schmeichelnd zurufen. Wie diese
 Worte lauten, erfahren Sie rechtzeitig.«
 
@@ -2389,16 +2385,15 @@ zur Tür … drehte sich nochmals um …
 
 »Herr Schraut, sorgen Sie für Hektor!«
 
-Dann klappte die Tür … Der Schlüssel wurde ausgedreht
+Dann klappte die Tür … Der Schlüssel wurde umgedreht
 und abgezogen.
+
 »Schurke!!« knirschte die verlebte Baronin.
 
 Ich sagte: »Ein Genie in seiner Art …«
 
-»ob — Ich meinte jetzt den Grafen Löwengaard,« verbesserte
+»Oh — ich meinte jetzt den Grafen Löwengaard,« verbesserte
 die Baronin meinen Irrtum.
-
-Oberst Ärgerte GinEEEEED GEEEERNEEND
 
 <@pagebreak/>
 
@@ -2407,26 +2402,24 @@ Oberst Ärgerte GinEEEEED GEEEERNEEND
 
 … Und dann begann sie zu weinen …
 
-Ich!sch4aute Harst an … Ich schaute Hektor an, der
-an der Tür schnüffelte und musterte …
+Ich schaute Harst an … Ich schaute Hektor an, der
+an der Tür schnüffelte und winselte …
 
-In meiner Brust glitten sehr gemischte Gefühle. Gussy
+In meiner Brust stritten sehr gemischte Gefühle. Gussy
 und ihr Kompagnon waren Gauner — gut! Meine Pflicht
-war es, ihr Entweichen zu verhindern, obwohl ihm dieser
-
+war es, ihr Entweichen zu verhindern, obwohl ich *dieser*
 Baronin den Reinfall durchaus gönnte. Nur — unser Ruf
-stand mit auf dem Spiel! — Wie sollte Ich den Hund
-
-unshHGädliH machen, der nun an der Tür lag und abwechselnd
+stand mit auf dem Spiel! — Wie sollte ich den Hund
+unschädlich machen, der nun an der Tür lag und abwechselnd
 mich und die Baronin beäugte?! Bestimmte Worte würden
-ihn zahm machen, hatte der »Maler« gesagt. Wer »würde
+ihn zahm machen, hatte der »Maler« gesagt. Wer würde
 mir diese Worte morgens mitteilen?
 
-Und über alsdann wurde ich plötzlich müde … und
+Und über alledem wurde ich plötzlich müde … und
 schlief ein. Dies mag sonderbar erscheinen. Aber jetzt, wo die
-Erregung nach der Aussprache mit »Fritz Million« abebbte,
+Erregung nach der Aussprache mit »Fritz Ullrich« abebbte,
 kam eben die Erschöpfung als Folge des Chloroformrausches,
-—«
+—
 
 Ich erwachte. Heller Tag draußen …
 
@@ -2446,20 +2439,21 @@ Welt auch mit der Tigerdogge genarrt!!
 Ich rief den Hund an …
 
 »Hektor, komm mal her — — guter Hektor, schöner
-Hektor … komm mal der …«
+Hektor … komm mal her …«
 
 Er war sofort auf den Beinen … Er kam … wedelte,
 knurrte, wedelte, rieb seinen prächtigen Kopf an meiner Hüfte
 und ließ sich streicheln …
 
-»Unglaublich!« rief die Baronin, die ebenfalls erwähnt war.
+»Unglaublich!« rief die Baronin, die ebenfalls erwacht war.
 »So eine Frechheit!«
 
 Aus dem Sessel aber kam eine müde, gähnende Stimme:
-… »Mein lieber Alter, trotzdem ist’s eine RiesendummHei!!«
-— Harst stand auf. —
 
-Wenn Harald sagt »Viesendummbheit«, dann stimmt’s.
+»Mein lieber Alter, trotzdem ist’s eine Riesendummheit!«
+— Harst stand auf … —
+
+Wenn Harald sagt »Riesendummheit«, dann stimmt’s.
 
 Was weiter geschah?
 
@@ -2467,46 +2461,49 @@ Es hat damals in allen Zeitungen gestanden …: Wie
 Harst durch Hektor die Spur Hendersons bis zu jenem entfernten,
 einsamen Bauernhof verfolgen ließ, wo zwei Herren
 gegen vier Uhr morgens einen Wagen gemietet hatten —
-zur Fahrt nach dem Revolver …
+zur Fahrt nach dem Kochelsee …
 
--… Wie Harst und ich von Kochel die Fährte der beiden
-Herren bis Patientinnen, von da bis Mittenwald an der
+… Wie Harst und ich von Kochel die Fährte der beiden
+Herren bis Partenkirchen, von da bis Mittenwald an der
 Tiroler Grenze zweifelsfrei feststellten …
 
 In Mittenwald aber waren die beiden nur eine halbe
 Stunde im Gasthaus zur Post geblieben und dann angeblich
-zu einer Hochtour ins Karwendelgebiet aufgebrochen,
+zu einer Hochtour ins Karwendelgebiet aufgebrochen.
 
-Von da Kerl)rein jede Spur.
+Von da verlor sich jede Spur.
 
-Machst drei Tagen kehrten wir also unverrichteter Sache
+Nach drei Tagen kehrten wir also unverrichteter Sache
 <@pagebreak/>
-mit Hektor mag Tölz zurück. Auch Hektor. Hatte im Gebirge
+mit Hektor nach Tölz zurück. Auch Hektor hatte im Gebirge
 infolge starker Regengüsse versagt.
 
 Inzwischen war der immerhin recht rätselhafte Herr Pieter
-van. Düren spurlos verduftet, und auch die Baronin abgereist.
+van Düren spurlos verduftet, und auch die Baronin abgereist.
 
-Über das Schettler Bräu und die blonde Franzi waren
+Aber das Schettler-Bräu und die blonde Franzi waren
 noch da … Und das Bier an jenem Abend schmeckte mir
-»aufgezeichnet, obwohl Harald noch immer nicht darüber hinweggekommen
-war, daß -Henderson ihn damals ebenfalls
+ausgezeichnet, obwohl Harald noch immer nicht darüber hinweggekommen
+war, daß Henderson ihn damals ebenfalls
 niedergeboxt und ihm gewaltsam Kognak eingepumpt hatte …
 
 Doch — diese Einzelheit gehört kaum mehr hierher.
 
 Sie mag — im Detail berichtet — den Übergang zur
-… Fortsetzung des Gussy Wendnoors-Abenteuers bilden. —
+Fortsetzung des Gussy Wendnoors-Abenteuers bilden. —
 
-Ich) Habe eingangs dem Leser einen amüsanten Gaunerstreich
-versprochen. Ich glaube, er war anrufen!!
+Ich habe eingangs dem Leser einen amüsanten Gaunerstreich
+versprochen. Ich glaube, er war amüsant!
+
 Daß der Ausklang, den ich »Die goldene Schere« nennen
 will, weit dramatischer sich gestaltete, — wie es überhaupt
 zu diesem »Ausklang« kam, — — kein Zufall, sondern
-—» — Harst!!
+— — Harst!!
 
-Jedenfalls: Vorläufig war das Pärchen Henderson Gussy
-entwischt.«
+Jedenfalls: Vorläufig war das Pärchen Henderson-Gussy
+entwischt.
+
 Eine vergoldete Schere ward ihr Unglück … — Mehr
-will ich nicht sagen .-…
+will ich nicht sagen …
+
 Also: Wiederhören!!
