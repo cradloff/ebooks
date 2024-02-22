@@ -7,21 +7,22 @@
 
 In dem gemütlichen Garten des Gasthauses »Zur Post«
 in Mittenwald saßen am Nachmittag des 12. August an
-sauber gedecktem Tischchen zwei Herren in bayerischer ÄlplertraMt
+sauber gedecktem Tischchen zwei Herren in bayerischer Älplertracht
 und genossen Kaffee, vorzüglichen Kuchen und die
-Atrsösicht auf den steil ansteigenden, zerklüfteten, 2400 Meter
-hohen Karwendel.: Neben dem Tischchen lag in der prallen
+Aussicht auf den steil ansteigenden, zerklüfteten, 2400 Meter
+hohen Karwendel. Neben dem Tischchen lag in der prallen
 Sonne eine riesige Tigerdogge und schlief, den prächtigen
 Kopf auf die Vorderpfoten gestützt. In dem kleinen Pavillon
 spielte diskret eine aus drei waschechten Tirolern (die Tiroler
 Grenze war kaum hundert Meter entfernt) bestehende Kapelle.
 
-Der!schattige Garten war gut besucht. Ausflügler, Kurgäste,
+Der schattige Garten war gut besucht. Ausflügler, Kurgäste,
 ein paar Mittenwalder: ein buntes, frohes Bild!
 Neben Herren mit tadellosen Bügelfalten und dem wieder
 modern gewordenen Monokel gar mancher Tourist in verwitterter
-Kluft, neben Damen nach der letzten Mode aus
+Kluft, neben Damen nach der letzten Mode auch
 andere, die sich vernünftiger angezogen hatten … —
+
 Die beiden Herren mit der Tigerdogge waren wir …
 
 <@pagebreak/>
@@ -30,87 +31,91 @@ James Henderson (Gott mochte wissen, wie der Hochstapler
 wirklich hieß) hatte hier in Mittenwald, nein, droben in
 den Schluchten des kahlen Karwendel vorläufig ein Ende
 gefunden. Das Gaunerpärchen, das so schlau nicht nur die
-Löwengaardschen Juwelen, sondern aus rund dreißigtausend
+Löwengaardschen Juwelen, sondern auch rund dreißigtausend
 Mark in bar erbeutet hatte, war nach der Zugspitze
-in den Bergen spurlos verduftet, und fest die Dome
-mit der seinen Nase, die ja Henderson gehört hatte »ß
-Dogge, nicht die Rasch konnte uns infolge des geht. lagen
-starken Gewitterregens nichts Füßen. —
+in den Bergen spurlos verduftet, und selbst die Dogge
+mit der feinen Nase, die ja Henderson gehört hatte (die
+Dogge, nicht die Nase) konnte uns infolge des gestrigen
+starken Gewitterregens nichts nützen.
 
 Harald summte leise die Walzermelodie mit, die die
 Tiroler gerade spielten. Er war mäßiger Laune, schweigsam
-und in sich gekehrt. Sein braunes Gesicht brüllte klar den
-Mißmut über diesen erneuten Fetyisclag aus. Schon in.
-Bad Tölz, unserem Standquartier, hatte Gussys Erziehers-.
-Gelegenheit über uns triumphiert. Und die Insassen des Lähmender
+und in sich gekehrt. Sein braunes Gesicht drückte klar den
+Mißmut über diesen erneuten Fehlschlag aus. Schon in
+Bad Tölz, unserem Standquartier, hatte Gussys Geriebenheit
+über uns triumphiert. Und die Schluchten des Karwendel
 waren der zweite Schauplatz unseres Versagens gewesen.
 
-Ich meinerseits fühlte mich außerordent’ich wohl. Mein
-
-Bäuchlein war in den letzten drei K. er:Bergen eheuvlih zusammengeschrumpft,
-und so durfte ich mir zum Xd.;72e getrost
-drei Stücke Obsttorte mit viel Schlagsahne leisten .:… Ich
-liebe Süßes. Ich hätte also einen zu:en Ehemann abgegeben
+Ich meinerseits fühlte mich außerordentlich wohl. Mein
+Bäuchlein war in den letzten drei Klettertagen erheblich
+zusammengeschrumpft, und so durfte ich mir zum Kaffee getrost
+drei Stücke Obsttorte mit viel Schlagsahne leisten … Ich
+liebe Süßes. Ich hätte also einen guten Ehemann abgegeben
 — sagt man. Aber die »bessere Hälfte« war bisher nicht
-gefunden. Der Anschluß war seltsam:.
-Rechts neben uns saß eine Familie, Kurgäste, biedere.
-Sachsen, Vater, Mutter, zwei Töchter. Mitte- lächelte, die
-Töchter Arbeiten und … poussierten (nicht mit mir), und
-Vater las die Leipziger Gelang.«
+gefunden. Der Anschluß war versäumt.
+
+Rechts neben uns saß eine Familie, Kurgäste, biedere
+Sachsen, Vater, Mutter, zwei Töchter. Mutter häkelte, die
+Töchter kicherten und … poussierten (nicht mit mir), und
+Vater las die Leipziger Zeitung.
 
 Mutter schnitt einen Seidenfaden mit einer kleinen
-Kutschers ab und warf einen warnenden Blick auf die
-übermütigen Tochter.
+Stickschere ab und warf einen warnenden Blick auf die
+übermütigen Töchter.
 
 <@pagebreak/>
 Harald nahm die Zigarette aus dem Munde und sagte
 halblaut:
 
-»Ja, — die Schere, mein lieber Alter! »Immerhin e ein
--Andenken an Gussy und Henderson, abgesehen von Hektor …
+»Ja, — die Schere, mein lieber Alter! Immerhin ein
+Andenken an Gussy und Henderson, abgesehen von Hektor …«
 Und er bückte sich und streichelte die Dogge.
 
 »Schere?!« Unwillkürlich schaute ich schärfer zu der
-nähernden Mama hinüber.
+häkelnden Mama hinüber.
 
-»oh — die Tiere ist größer, « meinte Harst und Blitze,
+»oh — *die* Schere ist größer,« meinte Harst und blickte
 auch die Mama an. »Viel größer, stark vergoldet, eine sehr
-elegante Obere.«
+elegante Schere.«
 
-Bisher wußte icm nichts von einer Schere, gar nichts.
+Bisher wußte ich nichts von einer Schere, gar nichts.
+
 »Wo hast du sie gefunden?« fragte ich neugierig.
+
 »In Gussys Wohnsalon im Holden Garten in Tölz —
 vor vier Tagen, also nach jener Nacht, in der Henderson uns
 beide und die Baronin van der Leyen in seinem Atelier
-im Bettler-Frau eingesperrt hatte. Die Schere war vom
-Fensterkopf gerutscht und hing in der Baronin, Ich bemerkte
+im Schettler-Bräu eingesperrt hatte. Die Schere war vom
+Fensterkopf gerutscht und hing in der Gardine. Ich bemerkte
 sie rein zufällig. Du kannst sie dir nachher in Tölz ansehen.
 Ich habe sie in unserem Zimmer oben im Ofen versteckt.«
-… Und mir davon natürlich wieder keine Silbe gesagt«
+
+»… Und mir davon natürlich wieder keine Silbe gesagt!!«
+
 »Lieber Himmel — eine Schere?! Was hat die wohl zu
-bedeuten! — — Fräulein, zahlen bitte …
+bedeuten! — — Fräulein, zahlen bitte …«
 
 Ein freundliches Madel schwebte heran. Unsere Rechnung
 im Gasthaus hatten wir bereits beglichen.
 
 »Wiedersehen, die Herren …« sagte das Madel und
-knickte halb. — Sie hatte Harald immer so sehnsüchtige
-Blicke zugeworfen. Mir nicht. Harsts — Erscheinung wirkt ja
+knickste halb. — Sie hatte Harald immer so sehnsüchtige
+Blicke zugeworfen. Mir nicht. Harsts Erscheinung wirkt ja
 nicht nur auf Gauner und ähnliche dunkle Existenzen.
 
 Wir gingen langsam der Vorhalle zu. Der Wirt kam
 herbei und gab uns das Geleit. Harst blieb jedoch nochmals
 vor dem im Garten zur freien Benutzung aufgestellten tadellosen
 <@pagebreak/>
-Fernrohr stehen, stellte es auf die höchste Karwendel spie
+Fernrohr stehen, stellte es auf die höchste Karwendelspitze
 ein und sagte ganz unvermittelt:
 
-»Bitte, mein Also, — neben dem zweiten Kreuz von
-links …
+»Bitte, mein Alter, — neben dem zweiten Kreuz von
+links …«
 
-Er »machte mir Platz …
+Er machte mir Platz …
 
-Wer Mittenwald kennt, kennt Fuchs die nur durchs ein
+Wer Mittenwald kennt, kennt auch die nur durch ein
 gutes Fernglas sichtbaren Kreuze droben auf der Felswand:
 Gedächtniskreuze für verunglückte Bergsteiger!
 
@@ -132,11 +137,11 @@ Ich starrte ihn fragend an …
 
 Der Wirt meinte ahnungslos:
 
-»Es van bei! mehr’re Touristen naufstiege …
+»Es san heit mehr’re Touristen naufstiege …«
 
 Wir gingen weiter. — —
 
-Das offene Auto Rute an … Der Wirt winkte, das
+Das offene Auto ruckte an … Der Wirt winkte, das
 Madel winkte …
 
 Es war ein glühend heißer Nachmittag. Der Luftzug
@@ -159,69 +164,69 @@ Verstecke, sogar ein paar Höhlen …«
 »Und — da fahren wir nach Tölz zurück?«
 
 »Natürlich. Hier im Gebirge fangen wir die beiden
-nie … «— Schau«, der Weg geht weiter nordwärts, die
-Isar »aber matt einen ungehzeuren Bogen mache Weiten …
-Ihr kommen nun bald an der Dolchspitze-Talsperre und
+nie … — Schau’, der Weg geht weiter nordwärts, die
+Isar aber macht einen ungeheuren Bogen nach Westen …
+Wir kommen nun bald an der Walchensee-Talsperre und
 dem berühmten Kraftwerk vorüber, das halb Bayern mit
-Strom« versorgt …« Er breitete unsere Kellerhalle auf
+Strom versorgt …« Er breitete unsere Relief-Karte auf
 den Knien aus …
 
 Gussy und James Henderson waren vergessen.
 
-Eonnbeleuchhtete Panoramen ringsum … Die weite grünblaue
-Fläche des WaldhHensees … Dann der Kochelsee, dann
+Sonnbeleuchtete Panoramen ringsum … Die weite grünblaue
+Fläche des Walchensees … Dann der Kochelsee, dann
 immer tiefer zu Tale, bis gegen acht Uhr abends unser
 Auto in die Isarniederung, in die Ludwigstraße von Tölz
 einlenkte — am Kurgarten vorüber — über die Isarbrücke,
-— — und vor dem Schettler-Frau in der unteren Marktstraße
+— — und vor dem Schettler-Bräu in der unteren Marktstraße
 hielt,
 
 Die blonde Franzi kam herbeigelaufen …
 
-»Grüß Gott, die Herren …
+»Grüß Gott, die Herren …«
 
-Der Hausdiener kam und »nahm unsere Rucksäcke. Wir
+Der Hausdiener kam und nahm unsere Rucksäcke. Wir
 waren daheim, — unser hiesiges Daheim … Saßen dann
 in dem Bräustübl im dicksten Qualm und Bierdunst am
 langen Tisch mit Fremden zusammen. Die Franzi schleppte
-zwei Kalböharen herbei … Zwei Maßkrüg’, Salat … Um
-uns Her war ein MoxrdsSbeiricb … Und draußen goß es.
-Wir waren gerade noch rechtzeitig unter Das und Sah
+zwei Kalbhaxen herbei … Zwei Maßkrüg’, Salat … Um
+uns Her war ein Mordsbetrieb … Und draußen goß es.
+Wir waren gerade noch rechtzeitig unter Dach und Fach
 gekommen. An unserem Tisch hielt ein Berliner Jüngling
-Vorträge über Bergkrarxeln … Bis ein Tochter Bauernladerl
-ihm zurief: »Halt’s die Solchen, du Saupreiß, du …! Koan’
-Ahnung hast! von’s Kraxeln, du …!!« — Ein typischer
+Vorträge über Bergkraxeln … Bis ein echter Bauernlackerl
+ihm zurief: »Halt’s die Goschen, du Saupreiß, du …! Koan’
+Ahnung hast von’s Kraxeln, du …!!« — Ein typischer
 Zwischenfall … Es gibt eben eine gewisse Sorte Berliner,
-die dem ungemütlichen Bayern notwendig auf — die Nerven
-
-fällt! Der »Saupreiß« spielt hier von immer eine Rolle
-—» Feine schöne!
+die dem urgemütlichen Bayern notwendig auf die Nerven
+fällt! Der »Saupreiß« spielt hier noch immer eine Rolle
+— keine schöne!
 
 <@pagebreak/>
 Der Jüngling machte sich dünne. — —
 
-Das SccettlerBräu hat’s in sich … Wer da denkt,
-er Tränke UmmenmilH, — — ich gegraben!! Schon das
-dritte Maß merkt man im Seebär. Das vierte erzeugt eine
-gewisse Schwere in den Beinen, das setzte verhilft unbedingt
+Das Schettler-Bräu hat’s in sich … Wer da denkt,
+er Tränke Ammenmilch, — — ich gratulier’!! Schon das
+dritte Maß merkt man im Geblüt. Das vierte erzeugt eine
+gewisse Schwere in den Beinen, das sechste verhilft unbedingt
 zu tiefem Nachtschlaf. Und der tat uns Not.
 
-Um Ahne elf Durchleuchten. wir der Bräuhaus-Luft und
+Um Uhre elf entfleuchten wir der Bräuhaus-Luft und
 kletterten die Stiege zu unserem Balkonzimmer empor. Ich
-lang das schone Lied: —
+sang das schone Lied:
 
-So lang’ noch die Max an die Solchen paßt,
+> So lang’ noch die Maß an die Goschen paßt,<br/>
 Wird keine Arbeit angefaßt …
 
-Hektor trottete vporwurs3voll knurrend hinterdrein. Ich
+Hektor trottete vorwurfsvoll knurrend hinterdrein. Ich
 hatte Schere, Gussy, James, Mittenwald — alles mit
+Schettler weggespült. Ich kroch ins Bett und schlief ein.
 
-»Schettler weggespült. Ich kroch ins Bett und schlief ein.
-Sechs Max Stellen …
+Sechs Maß Schettler …!!
 
-Als Harald mich morgens halb sieben wette, schimpfte
-ich wie ein Rohrspaß. Aber er war durchaus »unnachgiebig.
-»Ehe auf! Ich will Brunnen trinken …
+Als Harald mich morgens halb sieben weckte, schimpfte
+ich wie ein Rohrspatz. Aber er war durchaus unnachgiebig.
+
+»Steh’ auf! Ich will Brunnen trinken …«
 
 Draußen Sonnenschein … Die Balkontür offen … Blick
 auf den Holden Garten und die grüne Isar.
@@ -233,24 +238,27 @@ für übergeschnappt hielt. Im lila seidenen Schlafanzug sehe
 ich wie ein Clown aus.
 
 Als ich das Zimmerchen wieder betrat, kniete Harald
-vor: dem kleinen grünen Kachelofen und Hatte den rechten
+vor dem kleinen grünen Kachelofen und Hatte den rechten
 Arm weit in die Feuerung hineingesteckt, brachte so ein
 schmales langes Büchschen zum Vorschein. Da erst dachte
-ich wieder an die goldene Obere.
+ich wieder an die goldene Schere.
 
 »Bitte, mein Alter …!«
 
 Ich besah sie mir …
 
 <@pagebreak/>
-+ Ein seines Ding, Reim verziert … Und — eine Widmung
+Ein feines Ding, reich verziert … Und — eine Widmung
 war da eingraviert:
-See seiner süßen kleinen Gussy.
+
+> Joe seiner süßen kleinen Gussy.
+
 »Das ist natürlich James,« sagte Harald …
-— »Offenbar,« nickte ich …
+
+»Offenbar,« nickte ich …
 
 Wie erwähnt: die Balkontür war offen, und der Balkon
-ging nach der schmalen Tag-Gasse hinaus, und schräg gegenüber
+ging nach der schmalen Säg-Gasse hinaus, und schräg gegenüber
 gab’s ein Haus mit drei Balkons, ganz oben die
 alte Dame …
 
@@ -263,9 +271,9 @@ Doch nein: das waren keine Freiübungen …
 
 Das war auch kein Europäer … Das war entweder
 ein Spanier, Italiener oder sonst ein Südländer … Und
-zwar ein Mohammedaner irgendeiner Sekte: Er betete!!
+zwar ein Mohammedaner irgendeiner Sekte: Er betete!!!
 
-Mode er. Ich rasierte mich. Harst schob die Schere
+Mochte er. Ich rasierte mich. Harst schob die Schere
 eingewickelt in die Innentasche seiner Joppe, und dann
 gingen wir Brunnen trinken. Wenn man schon mal in
 Tölz ist, soll man auch Adelheid-Quelle genießen. Sie
@@ -277,28 +285,28 @@ bekommt jedem.
 <h3>Der Inder und die Witwe.</h3>
 
 Selbst in der Elite der Verbrecherkreise herrscht eine
-Leidens«&aft in den Beziehungen der Geschlechter zueinander
-vor; die Cisersuh!!
+Leidenschaft in den Beziehungen der Geschlechter zueinander
+vor: die Eifersucht!
 
 So mancher »schwere Junge«, dessen die Polizei nicht
-habhaft werden konnte, ging durch den Betrat einer betrogenen
-Geliebten und Mitwisserin schlieäzlih) doch »verschnürt«,
-wie der Fachaugdru lautet. Die Liebe ist also auch — in
+habhaft werden konnte, ging durch den Verrat einer betrogenen
+Geliebten und Mitwisserin schließlich doch »verschütt«,
+wie der Fachausdruck lautet. Die Liebe ist also auch in
 dieser Welt gescheiterter Existenzen ein gefährlich Ding. —
-Dies als Versprach zu dem Kommenden … —
+Dies als Vorspruch zu dem Kommenden … —
 
-Bei dem herrlichen Wetter war jetzt ’gegen halb acht:
+Bei dem herrlichen Wetter war jetzt gegen halb acht
 morgens vor der Trinkhalle in der Ludwigstraße bereits
 großer Betrieb. Männlein und Weiblein, zumeist gesetzteren
-Alters, Umständen den Musikpavillon, in dem die Kurkapelle
+Alters, umstanden den Musikpavillon, in dem die Kurkapelle
 konzertierte. Viele wandelten unter den alten Bäumen
 auch auf und ab, — jeder mit dem Trinkglas in der Hand,
-bin und wieder einen Schluck nehmend von dem leicht salzig
-und leicht nach Jod schwebenden Heilwasser, das den Namen
+hin und wieder einen Schluck nehmend von dem leicht salzig
+und leicht nach Jod schmeckenden Heilwasser, das den Namen
 Tölz weltberühmt gemacht hat.
 
 Vor der eigentlichen Trinkhalle, in der nicht nur Adelheidquelle,
-sondern auch Marien« und Römerquelle ausgeschenkt
+sondern auch Marien- und Römerquelle ausgeschenkt
 wurden und in der bei regnerischem Wetter die Kurgäste
 <@pagebreak/>
 auf und ab promenieren, erhebt sich der schlichte Bau der
@@ -307,13 +315,13 @@ untergebracht ist. Auf der Straße halten hier stets eine
 Menge Fuhrwerke und Autos, jedes mit schwarzer großer
 Tafel versehen, auf der Ziel, Preis und Abfahrtzeiten der
 Ausflüge in die nähere und weitere Umgebung mit Kreide
-vermerkt sind, so zum Beispiel »Schlosse — 12 Mark«,
+vermerkt sind, so zum Beispiel »Zugspitze — 12 Mark«,
 »Bayrischzell — 6 Mark«, Tegernsee, Königssee, Innsbruck
-—» und so weiter. —
+— und so weiter. —
 
 Als wir uns nun mit unseren Trinkgläsern der Schlange
 anreihten, die sich langsam zu dem westlichen Ausschank
-der ’Adelheidquelle vorwärtsbewegte, erblickten wir dicht vor
+der Adelheidquelle vorwärtsbewegte, erblickten wir dicht vor
 uns einen schlanken Herrn mit Turban, zweifellos ein Inder,
 wie ich jetzt feststellte. Es war derselbe Herr vom Balkon
 gegenüber, — also kein Spanier oder dergleichen.
@@ -321,18 +329,18 @@ gegenüber, — also kein Spanier oder dergleichen.
 Der Mann fiel auf. Er war hier der einzige Farbige,
 dabei mit schlichter Eleganz gekleidet und eine imponierende
 Erscheinung. Er wies seine Trinkkarte vor, erhielt das
-NummernplättHen für sein Glas, — also wie wir ein netter
+Nummernplättchen für sein Glas, — also wie wir ein neuer
 Kurgast. Eins der Zimmermädchen hatte seine Karte so auf
 den Tisch gelegt, daß ich bequem den Namen lesen konnte:
 
-Doktor Mehmed Sarawura.
+> Doktor Mehmed Sarawura.
 
 Die Trinkkarte hatte die Nummer 490.
 
-Der Inder ließ sich — er sprach sehr gebroH&en Deutsch —
-in sein Glas nachts Karlsbader Salzlösung hineintun, wie
-dies die meisten tun, um den Stoßweises zu fördern.
-Vor ihm wurde Turbane bedient, die in Trauer war, Auch
+Der Inder ließ sich — er sprach sehr gebrochen Deutsch —
+in sein Glas noch Karlsbader Salzlösung hineintun, wie
+dies die meisten tun, um den Stoffwechsel zu fördern.
+Vor ihm wurde eine Dame bedient, die in Trauer war. Auch
 sie fiel auf. Nicht nur das hellblonde Haar, das in dicken
 Knoten Zwanglos aufgestellt war, sondern auch die geschmeidige,
 graziöse Figur und das blasse, vornehm-müde Gesicht
@@ -341,28 +349,29 @@ mit grauen, großen Augen erregten allseits Beachtung.
 Die Dame trafen wir dann, als wir vor dem Musikpavillon
 neben der Wettersäule standen, zu unserem Erstaunen
 <@pagebreak/>
-»in Gesellschaft des Inders wieder. Du? beiden saßen allein
+in Gesellschaft des Inders wieder. Die beiden saßen allein
 auf einer Bank und schienen soeben ein Gespräch begonnen
 zu haben. Ich beobachtete sie unauffällig. Die Dame zeigte sich
-erst äußerst zurückhaltend, aber in kurzem hatte die fraglos.
-fa3zinierende Persönlichkeit des Orientalen sie derart beeinflußt,
-daß sie aus ihrer kühlen Reserve Nummer mehr heran?-
-Pirat. Die Unterhaltung wurde lebhafter, und als die beiden
+erst äußerst zurückhaltend, aber in kurzem hatte die fraglos
+faszinierende Persönlichkeit des Orientalen sie derart beeinflußt,
+daß sie aus ihrer kühlen Reserve immer mehr heraustrat.
+Die Unterhaltung wurde lebhafter, und als die beiden
 ihre Gläser geleert hatten, begaben sie sich gemeinsam wieder
 zum Ausschank, ließen ihre Gläser von neuem füllen und
 gingen nun in den Herderpark, den die Trinkhalle nach
 Süden zu begrenzt.
 
-— Au) wir tranken jeder ein zweites Glas Adelheid.
-Es gab hier immerhin sehr viel für unsereinen, der da)
+Auch wir tranken jeder ein zweites Glas Adelheid.
+Es gab hier immerhin sehr viel für unsereinen, der doch
 schließlich mit geschulten Augen Menschen und harmlose
-Szenen anders zu beurteilen weiß, zu sehen und zu kamt—.
-bitteren, daß wir kaum ein paar Worte bisher gewechselt
+Szenen anders zu beurteilen weiß, zu sehen und zu kombinieren,
+daß wir kaum ein paar Worte bisher gewechselt
 hatten.
 
 Harald, an dessen linker Seite die Dogge Hektor würdevoll
 mit dahinschritt, schien mir außerdem merklich zerstreut.
-Ich Ware dem Paare, an dem ich bereits ein ganz besonderes
+
+Ich Wäre dem Paare, an dem ich bereits ein ganz besonderes
 Interesse nahm, gern in den Herderpark gefolgt,
 aber der Park ist für Hunde verboten.
 
@@ -370,78 +379,77 @@ Wir wandelten wieder vor dem Musikpavillon auf und ab.
 
 Ein eleganter Krankenstuhl mit Gummirädern, in dem
 eine ältere, blasse Dame, betreut von einer Pflegerin in
-Je westerntracht, ward hier leider Anlaß eines etwas Pein-«
+Schwesterntracht, ward hier leider Anlaß eines etwas Peinlichen
+Zwischenfalls.
 
-Australien Zwischenfalls.
-
-Sektor, bisher sehr manierlich, verließ plötzlich seinen
-Platz neben Harald und war mit zwei Säßen dicht vor
-der offenbar halb gelähmten Frau im Krankenstuhl, Betonung—.
-stolperte sie, wurde von der Pflegerin mit einem Regenschirm
+Hektor, bisher sehr manierlich, verließ plötzlich seinen
+Platz neben Harald und war mit zwei Sätzen dicht vor
+der offenbar halb gelähmten Frau im Krankenstuhl, beschnupperte
+sie, wurde von der Pflegerin mit einem Regenschirm
 verscheucht, knurrte, und … die Dame stieß einen leisen
 <@pagebreak/>
-Schrei — aus — mit Dreht, denn die Dogge benahm sich
+Schrei aus — mit Recht, denn die Dogge benahm sich
 äußerst unmanierlich.
 
-Im Augenblick war einer der Aufsichtsbcamken zur
+Im Augenblick war einer der Aufsichtsbeamten zur
 Stelle. Wir mußten uns auf die Straßenpromenade zurückziehen,
-und Harst schickte mich zu der« Kranken, damit ich
-Doktors Ungebühr entschuldige.
+und Harst schickte mich zu der Kranken, damit ich
+Hektors Ungebühr entschuldige.
 
-Die Gelähmte, deren gelblich-blasse8 Leidensgesicht von
+Die Gelähmte, deren gelblich-blasses Leidensgesicht von
 grauweißem Haar und einer sehr unmodernen Straußenfederboa
-umrahmt wurde, Blitze mich so gereizt an, daß ich
+umrahmt wurde, blickte mich so gereizt an, daß ich
 schleunigst wieder zu Harald zurückkehrte. Die Pflegerin,
 ein verblühtes Geschöpf mit Hornbrille und scharfen Falten
-um den wulstigen Mund, hatte etwas von »unerhörter Aussichtslosigkeit«
-gemurmelt. — Wir hätten uns die Höflichkeit,
+um den wulstigen Mund, hatte etwas von »unerhörter
+Rücksichtslosigkeit« gemurmelt. — Wir hätten uns die Höflichkeit,
 uns zu entschuldigen, besser sparen sollen. Es war für
 mich das reine Spießrutenlaufen gewesen. Wir zogen uns
 denn auch nach dem stilleren Vorplatz neben der Gewerbehalle
 zurück und setzten uns hier auf eine Bank. Ich trug
 die Gläser, als sie geleert, zum Ausschank hin und stellte
-sie auf den hierzu bestimmten Tisch. Als im unsere Bark
+sie auf den hierzu bestimmten Tisch. Als ich unsere Bank
 wieder erreichte, war Hektor an der nahen Kiefer festgebunden,
 neben ihm lag Haralds verwitterter Filz mit
 Gamsbart und Spielhahnfeder, — — und Harald selbst
 war nicht mehr da.
 
-»Also doch!« dachte im … Und dachte weiter: »Natürlich
+»Also doch!« dachte ich … Und dachte weiter: »Natürlich
 ist ihm genau derselbe Argwohn gekommen wie mir …
 Hektor muß die Kranke gekannt haben. Er beschnupperte sie
-und wedelte dazu. James Henderson hat schon zweimal, sei!
-wir mit ihm zu tun haben… Frauenrollen gespielt, und
+und wedelte dazu. James Henderson hat schon zweimal, seit
+wir mit ihm zu tun haben, Frauenrollen gespielt, und
 Hektor war sein Eigentum, bevor er vor vier Tagen mit
-… Gussy Wendnoor entwich.«
+Gussy Wendnoor entwich.«
 
 Dieser Gedankengang hatte Hand und Fuß.
 
 Nur eins paßte nicht recht hinein, nämlich mein bereits
-vorher gegen. den Inder aufgestiegener Überdacht, der sich
+vorher gegen den Inder aufgestiegener Verdacht, der sich
 <@pagebreak/>
-freilich ledig! ich darauf gründete, daß der Orientale mir
+freilich lediglich darauf gründete, daß der Orientale mir
 »unecht« erschienen war: Er hatte für einen Inder zu
 kleine Füße und ging zu stark auswärts. — Wer viel
 mit Indern zusammen gewesen, wer Indien genau kennt,
 weiß auch, daß selbst in den gebildeten Kreisen der Inder
 kaum je ein schmaler, kleiner Fuß und noch weniger ein
-»ÄAuswärt8geben« anzutreffen ist.
+»Auswärtsgehen« anzutreffen ist.
 
 Gewiß, diese Kleinigkeiten, die mir an Doktor Mehmed
 Sarawura aufgestoßen, waren vorerst bedeutungslos — scheinbar.
 Sie traten jedoch sofort in andere Beleuchtung, wenn
-man berücksichtigte, daß mir der Hausdiener des ScettlerBräu
+man berücksichtigte, daß mir der Hausdiener des Schettler-Bräu
 vorhin auf meine Frage erklärt hatte, der »braune
 Herr« von drüben sei erst gestern spät abends dort eingezogen,
-nachdem er im Bettler kein Unterkommen mehr
-gefunden. Da hatte im mich sofort an die Abschiedsszene
-in Mittenwald erinnert, an die beiden Touristen hohe oben
-auf der Karwendelspitze und an. Haralds Bemerkung, es —
+nachdem er im Schettler kein Unterkommen mehr
+gefunden. Da hatte ich mich sofort an die Abschiedsszene
+in Mittenwald erinnert, an die beiden Touristen hoch oben
+auf der Karwendelspitze und an Haralds Bemerkung, es
 könnten James und Gussy gewesen sein. — Freilich hatte
-Harst mich ausgelacht, als im ihm auf dem Wege zum
+Harst mich ausgelacht, als ich ihm auf dem Wege zum
 Brunnen gerade auf der Brücke die Möglichkeit vorhielt,
-der Betten auf dem Balkon drüben sei vielleicht Henderson
-in netter Maske. —
+der Beter auf dem Balkon drüben sei vielleicht Henderson
+in neuer Maske. —
 
 Ich hatte mich auf die Bank gesetzt,
 
@@ -455,47 +463,48 @@ Bin ich auf völlig falscher Fährte?«
 Hektor schwieg.
 
 Mit einem Male gewahrte ich da neben einem der
-Autos ganz rechts das »Paar«: die blonde Witwe mach’
-den eleganten Orientalen! nun
+Autos ganz rechts das »Paar«: die blonde Witwe und
+den eleganten Orientalen!
 
 <@pagebreak/>
 Sie verhandelten mit dem Chauffeur. Es war ein Wagen
-für vier Personen, und auf der Tafel stand: »NacF4 Bayrisch
-Bayrischzell über Tegernsee, Schliersee, Rückfahrt um den Tegernsee.
-Ab Tölz 2 Uhr nachmittags, Rückkehr gut Uhr, Preis
-Fels Wart.«
+für vier Personen, und auf der Tafel stand: »Nach Bayrischzell
+über Tegernsee, Schliersee, Rückfahrt um den Tegernsee.
+Ab Tölz 2 Uhr nachmittags, Rückkehr acht Uhr, Preis
+sechs Mark.«
+
 Das Paar, das sich so schnell zusammengefunden, schien
 mit dem Chauffeur einig geworden zu sein und entfernte sich.
 
-Ihr bald war auch Harald wieder da.
+Sehr bald war auch Harald wieder da.
 
-»Geben wir zum Frühstück, mein Alter …«
+»Gehen wir zum Frühstück, mein Alter …«
 
 Glänzende Idee!! Ich hatte einen Mordshunger.
 
-Wir gingen. — »Wo warst du?« fragte ihm, als wir
-an der Franziskanerktirhe vorübertfamen.
+Wir gingen. — »Wo warst du?« fragte ich, als wir
+an der Franziskanerkirche vorüberkamen.
 
 »Am Musikpavillon …«
 
 »Du meinst also auch, daß die Gelähmte Henderson sein
 könnte?«
 
-»Rad Hotels Verhalten — ja! — Ich. weiß auch bereits,
+»Nach Hektors Verhalten — ja! — Ich weiß auch bereits,
 wo sie und die Pflegerin wohnen: Im Hotel Madlener!
 Wenn du achtgegeben hättest, würdest du sie im Vorgarten
 bemerkt haben. Sie frühstückten an einem der Tische. Die
-Namen werden wir sehr bald erfahren, auch sonst alles.
+Namen werden wir sehr bald erfahren, auch sonst alles
 Wissenswerte.« —
 
-Mag dem Frühstück auf unserem Balkon schlenderten
+Nach dem Frühstück auf unserem Balkon schlenderten
 wir gemächlich über den Kalvarienberg bis zum Restaurant
-Isarlust, ließen uns mit der Sagte über den grünen Fluß
+Isarlust, ließen uns mit der Fähre über den grünen Fluß
 setzen, der heute freilich infolge der nächtlichen Regengüsse
 mehr lehmig-gelb aussah, und erreichten den Hintereingang
-des Hotel Madlener …
+des Hotel Madlener.
 
-Der Oberkellner, ein Herr voller … Selbstbewußtsein, gemessenen
+Der Oberkellner, ein Herr voller Selbstbewußtsein, gemessener
 Liebenswürdigkeit und von erprobter Menschenkenntnis
 wie alle Leute in ähnlichen Stellungen, versprach
 Diskretion, erklärte, Fräulein Langner, die Gelähmte, sei
@@ -507,23 +516,23 @@ aber sie sei die Schwester des Nürnberger Großindustriellen
 Josef Langner und daher über jeden Verdacht erhaben.
 
 Zehn Minuten drauf standen wir in einer der Telephonzellen
-des Hotels und hatten mit Langner-Nürnberg Berlin«-
-Dung. Er bestätigte, daß seine kranke Schwester in Tölz sei.
+des Hotels und hatten mit Langner-Nürnberg Verbindung.
+Er bestätigte, daß seine kranke Schwester in Tölz sei.
 Die Pflegerin habe vorhin schon mit ihm gesprochen und
-die grübelte Ankunft schneidet.
+die glückliche Ankunft gemeldet.
 
 Also: Mit dem Verdacht war es nichts!
 
-Wir gingen bis zum Isarufer, schien uns hier auf
+Wir gingen bis zum Isarufer, setzten uns hier auf
 eine der Bänke neben der Brücke und beschäftigten uns mit
 der Person des Inders. Das heißt: Ich schnitt das Thema
 an. Harald meinte, hier sei jede Erörterung überflüssig. Wäre
-der Inder der gefärbte Henderson, so würde die Dogge …
-ihm unfehlbar durch Witterung wiedererkannt und dies
-irgendwie verraten haben.«.
+der Inder der gefärbte Henderson, so würde die Dogge
+ihn unfehlbar durch Witterung wiedererkannt und dies
+irgendwie verraten haben.
 
-»—. Nein, mein Alter, — wir müssen es uns abgewöhnen,«
-scheint er die kurze Aussprache, »unser Pärchen
+»… Nein, mein Alter, — wir müssen es uns abgewöhnen,«
+schloß er die kurze Aussprache, »unser Pärchen
 hier auf der Kurpromenade zu suchen. Hektor würde ihnen
 zu leicht gefährlich werden. So dumm sind sie nicht.«
 
@@ -539,65 +548,65 @@ Er tat zwei Züge aus seiner Zigarette.
 wie Gussy und Henderson es repräsentieren, niemals
 ihre Beute im Stiche lassen.«
 
-Ich!baute ihn überrascht an. »Wie, sie haben die Juwelen
+Ich schaute ihn überrascht an. »Wie, sie haben die Juwelen
 und das ergaunerte Geld nicht mit sich genommen?«
 
 »Nein …«
 
-»Weber weißt du das?« …
+»Woher weißt du das?«
 
-»Weil ich die Beute habe, genau wie die goldene
-Schere.« Nun
+»Weil *ich* die Beute habe, genau wie die goldene
+Schere.«
 
 <@pagebreak/>
 
 <h2>3. Kapitel.</h2>
-<h3>Die Depesche an Resi Lust.</h3>
+<h3>Die Depesche an Resi Quer.</h3>
 
 Harsts größte Schwäche ist seine Sucht, mich verblüffen
 zu wollen. Es bereitet ihm geradezu ein kindliches Vergnügen,
 sich an meiner Überraschung zu weiden.
 
 Er übersieht hierbei häufig vollständig das Schädliche
-eines sollen Berstedspiels, eines gleichen Verschweigens wichtigsten
+eines solchen Versteckspiels, eines solchen Verschweigens wichtigster
 Einzelheiten,
 
 Wir sind dieserhalb schon so manches mal böse aneinander
 geraten, so weit dies zwischen uns überhaupt möglich ist.
 
 »Also hast du wieder einmal mir gegenüber nur die Hälfte
-preisgegeben,« meinte ich ärgerlich. »Mit der Schere rüttelt
+preisgegeben,« meinte ich ärgerlich. »Mit der Schere rücktest
 du erst hinter Mittenwald heraus, heute erfahre ich abermals
 etwas Neues, — was folgt morgen noch?«
 
 »Vielleicht ein Mord, mein Alter, — falls wir ihn nicht
-verhindern.« ’ …
+verhindern.«
 
 Er scherzte nicht. Sein Ton war so ernst, daß ich
-meine Gereiztheit vergaß und ihm die Hand auf, die Schulter
+meine Gereiztheit vergaß und ihm die Hand auf die Schulter
 legte … »Ein Mord, Harald?!«
 
 »Ja …! — Nun wirst du natürlich mit tausend Fragen
-über mich herfallen und wirst alles wissen wollen …
+über mich herfallen und wirst *alles* wissen wollen …
 Und ich könnte dir nur antworten: Ich habe den Mord
 nur im Gefühl! Es spricht bisher sogar nichts, gar nichts
 <@pagebreak/>
 für die Möglichkeit eines sollen Verbrechens, aber — dennoch:
-39 wittere es voraus! Meine Ahnungen trügen
-selten …
+Ich wittere es voraus! Meine Ahnungen trügen
+selten …«
 
-5H verstand ihn nicht, ich verstand überhaupt nichts
+Ich verstand ihn nicht, ich verstand überhaupt nichts
 von alledem. Ich begann nun ganz systematisch das Verhör.
 
 »Harald, wo hast du die Beute gefunden?«
 
-Er nahm eine neue Mirakulum und zündete sie: an
+Er nahm eine neue Mirakulum und zündete sie an
 meiner Zigarre an. Ein Floß kam gerade die Isar herab,
 und wir beobachteten, wie die stämmigen Flößer sich abmühten,
 in der reißenden Strömung glücklich durch einen der
 Brückenbogen zu kommen. Es gelang ihnen.
 
-Da antwortete er: »Du hattest gestern sechs Maß Spelunken
+Da antwortete er: »Du hattest gestern sechs Maß getrunken
 … Ich nur drei …«
 
 »Weil Franzi dir drei aussog,« warf ich ein.
@@ -605,12 +614,12 @@ Da antwortete er: »Du hattest gestern sechs Maß Spelunken
 »Du schliefst wie ein Murmeltier. Ich war noch oben
 im Atelier.«
 
-— Ich habe dieses Atelier im vorigen Band erwähnt …
-Dort hatte James Henderson als Maler Fritz Allein gehaust.
+— Ich habe dieses Atelier im vorigen Band erwähnt.
+Dort hatte James Henderson als Maler Fritz Ullrich gehaust.
 —
 
 »… Oben im Atelier, mein Alter. Es steht jetzt leer.
-Ich tastete mich im Dunkeln auf Morgenschuhzen die schmale
+Ich tastete mich im Dunkeln auf Morgenschuhen die schmale
 Treppe empor. Vom Hauptflur fiel nur ein ganz schwacher
 Lichtschein zum Treppenabsatz. Als ich diesen hinter mir
 hatte, geschah etwas …«
@@ -623,57 +632,60 @@ Er rauchte einen langen Zug …
 
 Ich überlegte. — Was konnte geschehen sein?!
 
-Vielleicht findet der Leser ebenfalls eine Antwort. flitzte,
-denken Sie freundlichst nach! Was kann auf einer
+Vielleicht findet der Leser ebenfalls eine Antwort. —
+Bitte, denken Sie freundlichst nach! Was kann auf einer
 schmalen, alten, dunklen Treppe nachts sich ereignen, die
 zu einem Atelier und zwei Nebenräumen nebst kleinem
 Dachgarten emporführt? Was wohl?
 
 <@pagebreak/>
-ich erklärte: …
-… »Du sahst List im Atelier, und die Tür war nur
+*Ich* erklärte: …
+
+»Du sahst Licht im Atelier, und die Tür war nur
 angelehnt …«
-erwiderte: »Nein,!so war es nicht.«
+
+*Er* erwiderte: »Nein, so war es nicht.«
+
 »Du begegnetest jemandem?«
 
-»Rein. Denn das war keine Begegnung. Die linken
+»Nein. Denn das war keine Begegnung. Die linken
 Rippen tun mir noch heute weh.«
 
-Da wußte im es. »Es hat dicht jemand von oben
+Da wußte ich es. »Es hat dich jemand von oben
 angesprungen und niedergeboxt.«
 
 »Bravo! — Und dieser Jemand war ein Weib in
 einem Lodenmantel mit Lodenkapuze. Von dem Gesicht sah
-ich nichts, aber die Faust spürte ich, und c? im mich
-wieder schnuppern konnte, war das Weib über alle Berge.
+ich nichts, aber die Faust spürte ich, und ehe ich mich
+wieder hochrappeln konnte, war das Weib über alle Berge.
 Es war Henderson. Du kennst seine Kräfte. Gegen ihn
-bin ihm ein Fliegengewihtler. Immerhin: der Mantel hat
-ein Los« benommen, denn ich packte zu — leider riß der
-Stoff, und im ließ los, um einem zweiten Hiebe zu entgehen.«
+bin ich ein Fliegengewichtler. Immerhin: der Mantel hat
+ein Loch bekommen, denn ich packte zu — leider riß der
+Stoff, und ich ließ los, um einem zweiten Hiebe zu entgehen.«
 
-»Wie er daß hier so im hellen Sonnenschein am laufen
-erzählte, wirkte es wenig. Aber wenn man riß die
+Wie er das hier so im hellen Sonnenschein am Isarufer
+erzählte, wirkte es wenig. Aber wenn man sich die
 Szene ausmalte, mußte sie recht aufregend gewesen sein.
 
 »Du erschrakst wohl sogar?« meinte ich mitfühlend.
 
 »Ja. Ich hatte mit dieser Begegnung nicht gerechnet.
-Ich wollte ins Atelier hinauf, weil ich Hendersons offen
+Ich wollte ins Atelier hinauf, weil ich Hendersons Koffer
 nochmals gründlichst durchsuchen wollte. Damals vor vier
 Tagen tat ich’s nur ganz flüchtig. Wir hatten wenig Zeit.
-Die hiesige Polizei ließ ihn auf meine Bitte dort oben’
+Die hiesige Polizei ließ ihn auf meine Bitte dort oben.«
 
-»Das weiß ich. — War es wirklißg Henderson?’
+»Das weiß ich. — War es wirklich Henderson?«
 
-»Unbedingt. Nur er schlägt so sicher und vernichiend zu.«
+»Unbedingt. Nur er schlägt so sicher und vernichtend zu.«
 
-»Und dann?« …
+»Und dann?«
 
 »Ich ging weiter, nachdem ich mich erholt hatte. Im
-Türschloß fand ich einen Dietrich stellen. Ich hatte Herde
+Türschloß fand ich einen Dietrich stecken. Ich hatte Henderson
 <@pagebreak/>
 also verscheucht, bevor er noch die Tür geöffnet
-hatte.
+hatte.«
 
 Er lächelte etwas …
 
@@ -681,10 +693,10 @@ Er lächelte etwas …
 öffnen, hineinschlüpfen und von innen verriegeln und dann
 über den Dachgarten entfliehen sollen. Du kennst ja die
 Gebäude der Marktstraße, diese uralten, verbauten Häuser
-mit ihren Gängen, Treppen, Anbauten, Irrgarten, Dachgarten
-und finsteren Schlupfwinkeln, Es gibt kaum anderswo
+mit ihren Gängen, Treppen, Anbauten, Treppchen, Dachgärten
+und finsteren Schlupfwinkeln. Es gibt kaum anderswo
 so romantische Häuser. Ich liebe sie … Sie haben jedes
-ihre Geschichte. Wenn sie erzählen wollten: Es war Stoff
+ihre Geschichte. Wenn sie erzählen wollten: Es wäre Stoff
 zu vielen historischen Romanen.«
 
 »Bitte, — — und dann?«
@@ -692,63 +704,64 @@ zu vielen historischen Romanen.«
 »Ich betrat das Atelier, riegelte hinter mir ab, nahm
 die Clement in die Rechte und wartete …«
 
-»Worauf?«’
+»Worauf?«
 
 »Auf Henderson natürlich. Er kam nicht. Und dann
-suchte im, nachdem ich die Leinenvorhänge des großen,
-… schrägen Fensters zugezogen hatte, — suchte mit der Taschenlampe
+suchte ich, nachdem ich die Leinenvorhänge des großen,
+schrägen Fensters zugezogen hatte, — suchte mit der Taschenlampe
 und fand das, was ich finden mußte, was Henderson
 holen wollte: die Beute!«
 
-Eins der großen Postautobusse ratterte vorüber, sehr —
-langsam, denn die Einfahrt von der. Brücke in den Fackel
-ist eng und scharf gekrümmt, gebt stark bergauf.
+Eins der großen Postautobusse ratterte vorüber, sehr
+langsam, denn die Einfahrt von der Brücke in den Bad-Teil
+ist eng und scharf gekrümmt, geht stark bergauf.
 Hier müßte die Stadtverwaltung unbedingt Wandel schaffen.
 Dieser Engpaß ist bei dem lebhaften Verkehr zumal bei
 Regenwetter äußerst unangenehm. Die Lehmspritzer, die die
-Autos Hervorrufen, sind keine wünsc&enswerte Andenken an
-Jolle.
+Autos Hervorrufen, sind keine wünschenswerte Andenken an
+Tölz.
 
 »Wo fandest du sie?« fragte ich, da Harsts Aufmerksamkeit
-durch; einen Maler abgelenkt wurde, der dicht vor
+durch einen Maler abgelenkt wurde, der dicht vor
 unserer Bank seine Staffelei aufbaute und an einem bereits
 begonnenen Bilde weiter arbeitete.
 
 <@pagebreak/>
-»In einem Fenster, daß nur mit dem Verstand zu
-bemerken war,« erwiderte er zerstreut, »Leute wie Henderson
+»In einem Versteck, daß nur mit dem Verstand zu
+bemerken war,« erwiderte er zerstreut. »Leute wie Henderson
 pflegen auch besondere Verstecke auszukundschaften. In
-dem kleinen Sclafzimmerchhen, das zu dem Atelier gehört,
-gibt es nur ein Fensterchen nach« dem Dachgarten hinaus.
+dem kleinen Schlafzimmerchen, das zu dem Atelier gehört,
+gibt es nur ein Fensterchen nach dem Dachgarten hinaus.
 Wie überall hier — und das gefällt mir so an Tölz —
-stehen gute dort Blumenkästen vor dem, Fenster. Die bunten
+stehen auch dort Blumenkästen vor dem Fenster. Die bunten
 hängenden Petunien darin waren frisch gegossen. Die Leute
 hier lieben Blumen und pflegen sie. Ich beleuchtete die
-Petunien. Da war eine Staude, die recht welk Glitten. Ich
-zog sie heraus. Ihre Wurzeln waren Plan gepreßt, da unter
+Petunien. Da war eine Staude, die recht welk schien. Ich
+zog sie heraus. Ihre Wurzeln waren flach gepreßt, da unter
 den Wurzelknollen in der Erde eine kleine Konservenbüchse
-lag. Sie enthielt ein braunes Wochen. Es waren die
+lag. Sie enthielt ein braunes Päckchen. Es waren die
 Juwelen und zwanzigtausend Mark in Banknoten. Ich ließ
-alles so, wie es gewesen, »oh das verschnürte Päckchen
-liegt von in der Büchse, nur — — es sind jetzt Kiesel
+alles so, wie es gewesen, auch das verschnürte Päckchen
+liegt noch in der Büchse, nur — — es sind jetzt Kiesel
 darin und eine zusammengefaltete Zeitung.«
 
-»Ab so …!! — Und die Beute?«
-»Stube ich hier hinten in meine Lederburen eingenäht …
+»Ah so …!! — Und die Beute?«
+
+»Habe ich hier hinten in meine Lederbuxen eingenäht …«
 
 »Du meinst, Henderson wird nun noch einen zweiten
 Versuch machen, die Beute zu holen …?«
 
 »Sicherlich. Am Tage kann er’s nicht. Ich habe den
-Bettler»-Wirt gebeten, das Atelier mit etwa zu vermieten
-und auf dem Dachgarten heute Wäsche zu tragen.
+Schettler-Wirt gebeten, das Atelier nicht etwa zu vermieten
+und auf dem Dachgarten heute Wäsche zu trocknen.
 Er machte ein sehr erstauntes Gesicht, fragte jedoch nichts …
-Die Waschechte wird Henderson tagsüber fernhalten. Er muß
+Die Wäsche wird Henderson tagsüber fernhalten. Er muß
 damit rechnen, überrascht zu werden. Aber nachts wird
 er erscheinen, und dann werden wir ihn fangen. Er wird
 über die Dächer kommen. Das kann er. Der Dachgarten stößt
-an die Wand des, Nebenhauses. Ein Strick — und er
-läßt sich vom Nebendache herab.« « …
+an die Wand des Nebenhauses. Ein Strick — und er
+läßt sich vom Nebendache herab.«
 
 Der Maler vor uns pinselte einsam. Es war ein alter
 <@pagebreak/>
@@ -759,15 +772,15 @@ Ich schwieg eine Weile und überlegte mir die Sachlage.
 Mir erschien soweit alles ganz klar, nur zwei Punkte bedurften
 noch der Erörterung.
 
-»Harald, weshyalb nahmen James — und Gussy die Beute
+»Harald, weshalb nahmen James und Gussy die Beute
 nicht mit?« begann ich wieder.
 
-»Ja, wenn ich das wüßte!« meinte er achselzuFckend. »Ich
+»Ja, wenn ich das wüßte!« meinte er achselzuckend. »Ich
 weiß es nicht …! Möglich, daß Henderson fürchtete, doch
 noch gefaßt zu werden … Da wollte er eben für später
-geheime Sparkasse anlegen.«
+eine Sparkasse anlegen.«
 
-»Im — leuchtet mir nicht recht ein, offen gesagt …
+»Hm — leuchtet mir nicht recht ein, offen gesagt …
 Sparkasse?! Wenn er verhaftet würde, so mußte er sich
 sagen, daß er für Jahre ins Gefängnis wandern würde,
 denn sein Schuldkonto ist recht umfangreich. Inzwischen
@@ -778,19 +791,19 @@ werden …«
 »Allerdings … allerdings, mein Alter … Es ist nur
 etwas dabei zu bedenken. Besinne dich, daß die hiesige
 Polizei festgestellt hat, daß er damals, als er dich betäubt und
-in das Atelier geschleppt »hatte, nachmittags eine Depesche
-nach München aufgab …
+in das Atelier geschleppt hatte, nachmittags eine Depesche
+nach München aufgab …«
 
-»Richtig, an eine gewisse Nest Quer, Münden, hauptpostlagernd
+»Richtig, an eine gewisse Resi Quer, München, hauptpostlagernd
 … Der Text der Depesche war völlig unverständlich
 oder besser: es war ein Text mit verborgenem Sinn!«
 
 Er lächelte mich an. »Unverständlich?! Jetzt nicht mehr,
 mein Alter … Das Telegramm lautete wörtlich:
 
-Herzliche Glückwünsche. Blumen in grünem Kistchen
+> Herzliche Glückwünsche. Blumen in grünem Kistchen
 folgen, deine Lieblingsblumen. Pflege sie gut. Es sind
-Deine Farben, Lila und Weiß. — Dein I.
+Deine Farben, Lila und Weiß. — Dein J.
 
 Meinst du nicht auch, daß lila und weiß gesprenkelte Petunien
 in einem grünen Blumenkasten, unter denen eine
@@ -801,7 +814,7 @@ können?!«
 Ich begriff …
 
 »Also diese Resi sollte die Beute nötigenfalls vom Fensterbrett
-Holen 5«
+Holen?«
 
 »Ich denke … Und ich denke weiter, daß Gussy Wendnoor
 von der Existenz dieser Resi nichts ahnt und daß Henderson
@@ -809,7 +822,7 @@ sie betrügt … Ich denke auch, daß, falls der Inder doch
 Henderson ist, die Witwe sehr gut Resi Quer sein kann …«
 
 »Kann … kann!« sagte ich zweifelnd. »All das hängt
-so. sehr in der Luft, lieber Harald …
+so sehr in der Luft, lieber Harald …«
 
 »Ja, genau wie mein Vorgefühl einer Katastrophe …
 eines Mordes, irgendeines Ereignisse, das bevorsteht und
@@ -818,78 +831,84 @@ ganz leise … Er sprach wie jemand, der im Geiste traumartige
 Gebilde schaut, die er nicht zu entwirren vermag … —
 
 So waren wir nun doch wieder bei dem Ausgangspunkt
-unserer Unterhaltung, bei dem Inder und der Witwe, enge
-langt.
+unserer Unterhaltung, bei dem Inder und der Witwe, angelangt.
 
 Ich gebe zu, daß ich damals erheblich verkatert war
 und daß mein Hirn durchaus nicht so prompt arbeitete wie
-sonst. Nur diesem Umstände war es zuzuschreiben, daß ich
+sonst. Nur diesem Umstande war es zuzuschreiben, daß ich
 einen unverzeihlicher Fehler beging. Worin dieser bestand,
-Übersicht der Leser im folgenden.
+ersieht der Leser im folgenden.
 
 <@pagebreak/>
-&. Kapitel.
-Der tote Inder.
 
-Harald blitzte auf seine Armbanduhr …
+<h2>4. Kapitel.</h2>
+<h3>Der tote Inder.</h3>
+
+Harald blickte auf seine Armbanduhr …
+
 »Halb elf … Es wird Zeit.«
+
 »Wozu?« …
+
 »Um elf wird die Trinkhalle geschlossen. Um diese
 Zeit kann man die Angestellte, die im Westpavillon die
 Nummern für die Trinkgläser ausgibt, am besten ungestört
 sprechen.«
+
 »Der Witwe wegen?«
-— »I … So erfahren wir am schnellsten ihren Namen
-und ’dann »auch auf dem Meldeamt ihre hiesige Wohnung und
-»ihren Wohnsitz.« —
-Die Angestellte besann sich sofort auf die Witwe. —«- Um
+
+»Ja … So erfahren wir am schnellsten ihren Namen
+und dann auch auf dem Meldeamt ihre hiesige Wohnung und
+ihren Wohnsitz.« —
+
+Die Angestellte besann sich sofort auf die Witwe. — Um
 halb zwölf wußten wir:
 
-Frau verwitwete Direktor Rosa Anger aus »Berlin,
+> Frau verwitwete Direktor Rosa Anger aus Berlin,
 Kurfürstendamm 127. Hier in Tölz wohnhaft Höhenbergweg
-3 bei Wär?!.
+3 bei Wölki.
 
-—» Die Dinge nahmen nun ein recht beschleunigtes
-Tempo an. Am 3,12 rief Harald Berlin an, Polizeipräsidium,
+— Die Dinge nahmen nun ein recht beschleunigtes
+Tempo an. Um ¾12 rief Harald Berlin an, Polizeipräsidium,
 Doktor Lücke, unser Bekannter, war sehr bald am Apparat.
--»-» Ob Lücke irgendwie eine Frau Direktor Rosa Anger
+— Ob Lücke irgendwie eine Frau Direktor Rosa Anger
 kenne? — Und ob!! Das sei ja die bekannte Ehevermittlerin,
 <@pagebreak/>
-der man polizeilicherseits scharf auf die Finger jede, weil
-sie fraglos Beziehungen zu knternationalen Verbrechern
+der man polizeilicherseits scharf auf die Finger sehe, weil
+sie fraglos Beziehungen zu internationalen Verbrechern
 unterhalte. Bisher sei ihr nichts nachzuweisen gewesen, aber
 man würde sie schon mal abfassen. — »Danke, lieber Lücke,
 — genügt. Schluß … Wiedersehen.«
 
-Kurz nach 11 Uhr bummelten wir abermals den Kalvarienberg
-empor — über die Treppen von der Stochergasse
-aus, die eine Fortsetzung der Tag-Gasse bildet, in der
-sowohl der Holde Garten a!l8 gute das Haus mit den
-drei Balkons übereinander lag. Hat man diese Treppen hinter.
+Kurz nach 1/4 1 Uhr bummelten wir abermals den Kalvarienberg
+empor — über die Treppen von der Stockhergasse
+aus, die eine Fortsetzung der Säg-Gasse bildet, in der
+sowohl der Holde Garten als auch das Haus mit den
+drei Balkons übereinander lag. Hat man diese Treppen hinter
 sich und biegt man dann links ab, so gelangt man auf
 den breiten, ziemlich steilen Weg, der an den Leidensstationen
 des Kalvarienberges, kleinen weißen Kapellen mit je drei
 Gemälden aus der Leidensgeschichte Christi, zur Kirche
 emporläuft.
 
-Eigentümlich berührt hier unterhalb der ersten Station.
+Eigentümlich berührt hier unterhalb der ersten Station
 am Bergabhang ein bewaldeter Hügel, in den zwei Grotten
 eingebaut sind, in denen die lebensgroßen ruhenden Gestalten
-zweier Heiligen aus dem Dämmerlicht mit braungelben Totengesihtern
+zweier Heiligen aus dem Dämmerlicht mit braungelben Totengesichtern
 erst bei genauerem Hinsehen zu erkennen sind. Man
-ereignet Zeit, wenn man diese gut ausgeführten Figuren
-watlrnimmt, und für schwachnervige Kranke mag dieser Anblick
+erschrickt leicht, wenn man diese gut ausgeführten Figuren
+wahrnimmt, und für schwachnervige Kranke mag dieser Anblick
 sogar schädlich werden können. Freilich — die stille Erhabenheit
 der ganzen Anlage des Kalvarienberges verwischt diesen
 Eindruck sehr schnell.
 
-Wir blieben neben dem Hügel stehen, denn dort auf.
+Wir blieben neben dem Hügel stehen, denn dort auf
 einer nahen Bank mit dem Rücken nach uns hin saß ein
 Mädchen, das herzzerbrechend schluchzte.
 
-Stellte ist wären wir ohne Interesse vorübergeglitten.
+Vielleicht wären wir ohne Interesse vorübergeglitten.
 Aber Hektor, unser getreuer würdiger Begleiter, faßte diesen
-EdImerzengausbrudg der Tinjamen falsch auf und knurrte ich
+Schmerzensausbruch der Einsamen falsch auf und knurrte sie
 an. Sie wandte den Kopf …
 
 <@pagebreak/>
@@ -897,24 +916,24 @@ Es war die Pflegerin des gelähmten Fräuleins Langner,
 es war das Mädchen, das morgens am Musikpavillon etwas
 von »unerhörter Rücksichtslosigkeit« gemurmelt hatte.
 
-Sie!hause wieder weg, Harald berief Hektor, und wir
+Sie schaute wieder weg, Harald berief Hektor, und wir
 gingen weiter.
 
 Unser Ziel war der Höhenbergweg.
 
 Kurz vor der eigenartigen, in den Berg eingebauten
 Kapelle unterhalb der Kalvarienkirche, — eine Kapelle, in
-der in myjstisMem Dunkel stets ein paar geweihte Lichtlein
+der in mystischem Dunkel stets ein paar geweihte Lichtlein
 brennen und den Altar mit den Statuen der Heiligen und der
-Jungfrau Maria geheimnizvoll-fla&ernd beleuchten, biegt ein
-Pfad mag Nordost ab und läuft abwärts bis zu der schmalen
-Straße mit dem wunderlichen Namen Maierbraugasjteig. Von
-Diesem zweigt der Höhlzenbergweg ab — mit vereinzelten
+Jungfrau Maria geheimnisvoll-flackernd beleuchten, biegt ein
+Pfad nach Nordost ab und läuft abwärts bis zu der schmalen
+Straße mit dem wunderlichen Namen Maierbraugasteig. Von
+Diesem zweigt der Höhenbergweg ab — mit vereinzelten
 sauberen Gehöften und einem villenartigen Logierhaus »Zum
 Benedikt«. Dies war Nummer drei, hier also hatte Frau
 Rosa Anger, die blonde Witwe, Wohnung genommen, ganz
-abseits von allem Verkehr, hinter hohen Tannen, in einen.
-Hinrichten, anheimelnden Hause: Zum Benedikt!
+abseits von allem Verkehr, hinter hohen Tannen, in einem
+schlichten, anheimelnden Hause: Zum Benedikt!
 
 Wir gingen vorüber …
 
@@ -929,32 +948,31 @@ hinaus, und kein Huhn, kein Hahn kräht danach …«
 
 »Allerdings!« —
 
-Um eins saßen wir im Bräustübl des »Schettler beim
+Um eins saßen wir im Bräustübl des Schettler beim
 Essen. Franzi bediente … Sie hatte ihren blonden Bubikopf
-frisch erhaltenen lassen und schlackerte mit Harald. Die Auf«-
-verstanden, die die zahlreichen Mittags8gäste uns schenkten,
-war uns wenig genehm. Zweifellos hatte der Bettler-Wirt
-1’«Ht ganz reinen Mund gehalten, wer wir seien, und da die
+frisch ondulieren lassen und schäkerte mit Harald. Die Aufmerksamkeit,
+die die zahlreichen Mittagsgäste uns schenkten,
+war uns wenig genehm. Zweifellos hatte der Schettler-Wirt
+nicht ganz reinen Mund gehalten, wer wir seien, und da die
 <@pagebreak/>
-»Baronin van der Leyen und all das, was mit ihr zum
-
+Baronin van der Leyen und all das, was mit ihr
 zusammenhing, in Tölz noch jetzt das Tagesgespräch bildete,
-wagte es als erste ein kecker Polizei, Harald um eine
+wagte es als erste ein kecker Backfisch, Harald um eine
 Unterschrift unter eine Postkarte mit Ansicht des Holden
 Gartens, in dem die Baronin Opfer des Gaunerpaares geworden,
 zu bitten.
 
 Harald tat ihr den Gefallen. Als sie aber noch verlangte,
 er solle doch noch »Gentleman-Detektiv« unter den Namen
-setzen, meinte er energisH-ablehnend:.
+setzen, meinte er energisch-ablehnend:
 
 »Bedauere, kleines Fräulein … Wir wollen’s bei meinem
-Namen bewenden lassen … Ich bin weder Detektiv von
+Namen bewenden lassen … Ich bin weder Detektiv noch
 Gentleman-Detektiv … Sie wissen ja wohl, daß mir die
 beiden Hochstapler entschlüpft sind. Einem Detektiv wäre
 das nicht passiert.«
 
-Der Backfisch knickste, 303g ein Schmollmündchen und
+Der Backfisch knickste, zog ein Schmollmündchen und
 verschwand. Aber andere folgten … manche recht aufdringlich:
 Herren und Damen …!! Alle wollten dies sensationelle
 Andenken von Tölz mitnehmen: Harsts Unterschrift!
@@ -972,18 +990,18 @@ und fahre um drei zurück … Er würde uns abends wieder
 nach Tölz zurückbringen … Es würde ihm eine große Ehre
 sein — — und so weiter … —
 
-Er setzte sie zu uns, ließ eine Runde bringen … Und
+Er setzte sich zu uns, ließ eine Runde bringen … Und
 erzählte dies und jenes von der Bahn auf den Wendelstein
-oberhalb Bayrischzell, von den Feiertag im Bache, von den
+oberhalb Bayrischzell, von den Forellen im Bache, von den
 beiden Berliner Touristen, die letztens an der Rotwand abgestürzt
 … Und bat und bat, wir sollten ihm doch die Ehre
 <@pagebreak/>
-antun, — er sei ja fest Jahren Harstverehrer, und »wenn
+antun, — er sei ja seit Jahren Harstverehrer, und wenn
 im Winter die kleine Ortschaft dort in dem engen Tale
-unter Eis und Schnee begraben liege, lese er seine Harst«-
-Bibliothek stets wieder von Anfang bis zu Ende durch. —
+unter Eis und Schnee begraben liege, lese er seine Harstbibliothek
+stets wieder von Anfang bis zu Ende durch. —
 Der Mann war rührend in seiner Art … — Inzwischen
-hatte sich das Frau so ziemlich geleert. Es war halb drei
+hatte sich das Bräu so ziemlich geleert. Es war halb drei
 geworden. Und gerade als Harald dem »Königslindner« die
 Hand hinstreckte: »Gut, wir kommen mit!« fiel mir jählings
 ein, daß ja der Inder und die Witwe gleichfalls offenbar
@@ -992,46 +1010,46 @@ heute nachmittag nach Bayrischzell hatten fahren wollen.
 Ich nahm Harald beiseite. Ich hatte ein sehr schlechtes
 Gewissen.
 
-… »Du, ich habe ganz vergessen … Der Inder und die
-Anger schienen die Absicht zu haben, heute … — und
+»Du, ich habe ganz vergessen … Der Inder und die
+Anger schienen die Absicht zu haben, heute …« — und
 so weiter,
 
-Er blickte mich ärgerlich an. »Und das fast du mir erst
-jetzt?!« .-
+Er blickte mich ärgerlich an. »Und das sagst du mir erst
+jetzt?!« —
 
 Zehn Minuten drauf rollten wir gen Tegernsee, in des
 Königslindners Auto … Passierten Schliersee, warfen einen
 Blick auf die bescheidene Front des Bauerntheaters, das den
 Namen einst überall bekannt gemacht hat. Der Ruhm der
-»Scherzest« ist etwas verblichen. Die moderne Zeit verlangt
+»Schlierseer« ist etwas verblichen. Die moderne Zeit verlangt
 anderen Pfeffer. In Berlin spielt man Stücke wie: »Stürmische
-Stammgast« und »Der Skandal im Bett« … Und das
-Gesetz gegen Schmutz und Schund schweigt …
+Brautnacht« und »Der Skandal im Bett« … Und das
+Gesetz gegen Schmutz und Schund schweigt … —
 
 Es war halb fünf, als wir vor dem idyllischen Gasthaus
 in Bayrischzell hielten. Eine Menge Autos standen
-hier. In dem Talkessel lastete eine vollends Hitze.
+hier. In dem Talkessel lastete eine drückende Hitze.
 
 »Kaffee trinken wir nachher,« sagte Harald zu unserem
 neuen Freunde …
 
-Wir fragten vorsichtig die Chauffeure aus, Bald hatten
+Wir fragten vorsichtig die Chauffeure aus. Bald hatten
 wir den richtigen gefunden. Er versprach zu schweigen …
 Der braune Herr und die Dame in Trauer seien weiter das
 <@pagebreak/>
-Tal hinaufgegangen … Sie hätten sich Felsstücke Und ein
-Seil geliehen und wollten von Eichen zum Wendelstein
-»emporkraxeln. —
+Tal hinaufgegangen … Sie hätten sich Bergstöcke Und ein
+Seil geliehen und wollten von Süden zum Wendelstein
+emporkraxeln. —
 
-Was … sich an diesem Nachmittag! in den Schluchten
+Was sich an diesem Nachmittag in den Schluchten
 des Wendelstein abgespielt hat, stand in allen Zeitungen …
 
-… Wie die Begleiterin des Inders Doktor « Sarawura
-schreckensbleich? Zwei Herren begegnete, den bekannten Herren
+… Wie die Begleiterin des Inders Doktor Sarawura
+schreckensbleich Zwei Herren begegnete, den bekannten Herren
 Harst und Schraut aus Berlin, — wie sie jammernd erzählte,
 der Inder sei drüben an jener Steilwand abgestürzt … Wie
 man den Toten dann auffand und feststellte, daß es kein
-Inder, sondern der Hochstapler James Henderson wär … —
+Inder, sondern der Hochstapler James Henderson war … —
 
 Es war sieben Uhr abends, als in dem Privatzimmer
 des Wirts »Zur Königslinde« vier Personen versammelt
@@ -1040,7 +1058,7 @@ und wir beide.
 
 Und nun will ich die weitere Entwicklung der Dinge
 in ruhigerem Tempo, also eingehender schildern, denn jetzt
-beginnt Haralds seine, allerfeinste Geistesarbeit.
+beginnt Haralds feine, allerfeinste Geistesarbeit.
 
 Frau Anger schilderte den Unfall wie folgt …
 
@@ -1057,144 +1075,142 @@ Und weiter möchte ich an dieser Stelle den Leser auf
 das Titelbild dieses Bandes hinweisen. — Mag der Leser,
 um den eigenen Geist zu schärfen, dieses Bild in Zusammenhang
 mit dem bisher Erzählten bringen — irgendwie …
-Vielleicht trifft er daß Richtige. —
+Vielleicht trifft er das Richtige. —
 
-Frau Anger gab vor dem bayrischer Gendarm zu Protokoll:
+Frau Anger gab vor dem bayrischen Gendarm zu Protokoll:
 
-Ich habe den Inder erst heute früh bei der Brunnen
-Promenade kennengelernt. Ich wußte nicht, daß er in Wahrheit
-ein Europäer und zwar, wie Herr Harst behauptet;
-der Hochstapler James Henderson ist. — Der Herr ich:ug
+> Ich habe den Inder erst heute früh bei der Brunnenpromenade
+kennengelernt. Ich wußte nicht, daß er in Wahrheit
+ein Europäer und zwar, wie Herr Harst behauptet,
+der Hochstapler James Henderson ist. — Der Herr schlug
 mir jedenfalls einen Ausflug nach Bayrischzell vor. Wir
-haben dann hier in Bayrischzell den Wendelstein von Süden.
-»erklettern wollen. Lediglich um ein wenig als Hochtönenden
-uns zu versuchen, wählten wir eine an sich wohl Tages
-jährliche Steilwand zum Anstieg, seilten uns an. und ekkommen
-einen schmalen Grat. Ich selbst bin. völlig
-schwindelfrei und habe schon wiederholt Hochtouren. mit
+haben dann hier in Bayrischzell den Wendelstein von Süden
+erklettern wollen. Lediglich um ein wenig als Hochtouristen
+uns zu versuchen, wählten wir eine an sich wohl ungefährliche
+Steilwand zum Anstieg, seilten uns an und erklommen
+einen schmalen Grat. Ich selbst bin völlig
+schwindelfrei und habe schon wiederholt Hochtouren mit
 <@pagebreak/>
-Bergführern unternommen. Auge diesem Grunde übernahm
-ich zum die Spitze und unterwies meinen Begleiter, wie
-er sich verhalten Jolle. Allee ging gut, bis wir etwa die
+Bergführern unternommen. Aus diesem Grunde übernahm
+ich auch die Spitze und unterwies meinen Begleiter, wie
+er sich verhalten solle. Alles ging gut, bis wir etwa die
 halbe Höhe der Steilwand erreicht hatten. Es kam eine
 Stelle, die wir kriechend passieren mußten. Hier glitt mein
-»Begleiter aus, rutschte über den Rand des glatten Vorsprünge,
-schrie auf und veranlaßte mich!o, das Seil noch
+Begleiter aus, rutschte über den Rand des glatten Vorsprungs,
+schrie auf und veranlaßte mich so, das Seil noch
 rechtzeitig zu ergreifen. Er fiel daher auch nur vier Meter
-tief, ich hielt den starren Ruck aus, und der Herr hing
+tief, ich hielt den starken Ruck aus, und der Herr hing
 nun über dem Abgrund frei in der Luft. Wie es dann
-geschehen konnte, daß das Seil durch scheuerte, ist mir
+geschehen konnte, daß das Seil durchscheuerte, ist mir
 selbst unklar. Ich tat meinerseits alles, den Abgestürzten
-emporzuziehen, der sie. gekannt trotz meiner Mahnungen
+emporzuziehen, der sich jedoch trotz meiner Mahnungen
 allzu viel bewegte und mit dem Bergstock überflüssigerweise
 das Seil und sich selbst in Schwingungen versetzte.
 Plötzlich riß das Seil genau dort, wo es an der Kante
 des Felsvorsprungs auflag, und Henderson sauste in die
-Tiefe, ich machte sofort kehrt, fand tun unten im Geröll
-mit zerschmetterten Gliedern auf, riet um Hilfe und lockte
+Tiefe, ich machte sofort kehrt, fand ihn unten im Geröll
+mit zerschmetterten Gliedern auf, rief um Hilfe und lockte
 so ein paar Schnitter herbei.«
 
-Der Gendarm bat sie nun, das Protokoll zu unterstellen.
+Der Gendarm bat sie nun, das Protokoll zu unterschreiben.
 Sie hatte ihre Aussage mit merklicher Erregung gemacht
 und sah noch derart verstört und verängstigt aus, daß von
 ihrer reizvollen Schönheit nicht mehr viel wahrzunehmen
 war,
 
 Sie trug jetzt im übrigen nicht die kokette Witwentracht
-vom Vormittags, sondern ein praktisches,!Schickes Lodenkostüm,
-derbe « GebirgssHube und eine bunte Davoser Kappe auf
-der überreichen Füllte ihres blonden Haares.
+vom Vormittag, sondern ein praktisches, Schickes Lodenkostüm,
+derbe Gebirgsschuhe und eine bunte Davoser Kappe auf
+der überreichen Fülle ihres blonden Haares.
 
 Der Beamte gab ihr den Federhalter. Sie schob den
-Bogen Papier Furcht und wollte untersäPreiben.
+Bogen Papier zurecht und wollte unterschreiben.
 
-»Einen Augenblick noch,« sagte Harst« »Sie haben l:ich 42
-den Hergang in einer Weise geschildert, die durchaus 9:5
+»Einen Augenblick noch,« sagte Harst« »Sie haben hier
+den Hergang in einer Weise geschildert, die durchaus glaubwürdig
 <@pagebreak/>
-würdig erscheint, wenn man einen einzigen Punkt unbeachtet
+erscheint, wenn man einen einzigen Punkt unbeachtet
 läßt: das Zerreißen des an sich einwandfreien Seiles. — Ich
 habe mir dieses Seil angesehen. Die Steile, wo es angeblich
 durchgescheuert sein soll, hat bei mir Verdacht erregt.«
 
 Der Gendarm schüttelte mißbilligend den roten Kopf.
 
-»IT hab’ mir bewölkt, Herr Harst.« …
+»I hab’ nix bemörkt, Herr Harst.«
 
 »Schon möglich. Dennoch behaupte ich, daß das Seil
-nicht infolge der Schärfe der Felskante, sondern: infolge
+nicht infolge der Schärfe der Felskante, sondern infolge
 der Anwendung eines Messers oder sonst eines schneidenden
-Instruments dem Hochstapler den Tod brachte. Die Stellen;
-wo dieser Schnitt das Seil zertreunte, sind erst nachträglich
-mit einem Messer so zerfasert worden, daß es nun aussteht,
-als ob eine Scheueritelle vorliegt.«
+Instruments dem Hochstapler den Tod brachte. Die Stellen,
+wo dieser Schnitt das Seil zertrennte, sind erst nachträglich
+mit einem Messer so zerfasert worden, daß es nun aussieht,
+als ob eine Scheuerstelle vorliegt.«
 
 Er schaute Frau Anger unverwandt an.
 
-… Sie war leichenblaß geworden. Aber mit einer Empörung,
-die durchaus echt klang, schrie sie nun Harald ins Gesicht?
+Sie war leichenblaß geworden. Aber mit einer Empörung,
+die durchaus echt klang, schrie sie nun Harald ins Gesicht:
 
 »Das ist eine unerhörte Verdächtigung! Ich schwöre
 bei Gott im Himmel, daß für mich nicht der geringste Grund
 vorlag, den Inder zu töten!«
 
 Der Gendarm räusperte sich und meinte mit einem etwas
-ablehnenden Achselzucken:«
+ablehnenden Achselzucken:
 
-»Es Seil hier ist durch’gscheuert, da i8 nix gegen zu
-sagen, Herr Harst … Litt schön, schaun’s nur die Enden
-genau an … Wie wollen 8 behaupten, die Dame hätt’ mit an
-Messer doof Seil zertrennt …?!«
+»Dös Seil hier ist durch’gscheuert, da is nix gegen zu
+sagen, Herr Harst … Bitt’ schön, schaun’s nur die Enden
+genau an … Wie wollen’s behaupten, die Dame hätt’ mit an
+Messer dös Seil zertrennt …?!«
 
 Harald erklärte kühl: »Wenn das Seil an dem Felsvorsprung
-durchgescheuert ist, muß riß dort an dem Felsen
+durchgescheuert ist, muß sich dort an dem Felsen
 unbedingt die Stelle irgendwie markieren. Wir werden sofort
-dort emporklimmen. Frau Unger kommt mit.«
+dort emporklimmen. Frau Anger kommt mit.«
 
 Aber der Beamte nahm nun sehr energisch Partei für die
 Verdächtigte. Im Grunde war das von ihm ein sehr anständiger
-Zug. Luft ich fand Haralds Verhalten ein wenig zu
+Zug. Auch ich fand Haralds Verhalten ein wenig zu
 rücksichtslos und auch unbegründet. Frau Rosa Anger machte
 <@pagebreak/>
-durchaus nicht den Eindruck einer Mörderin. Ihr verstörtes —
-Wesen war doch unschwer auf den entsetzlichen Unfall zurück«
+durchaus nicht den Eindruck einer Mörderin. Ihr verstörtes
+Wesen war doch unschwer auf den entsetzlichen Unfall zurückzuführen.
 
-auszuführen.«.
-
-Der Gendarm sagte fast grob: »EntschruildHhen’s, aber
-dvs da mit ’n Messer und mit’s Zerfasern von die Frühstück
+Der Gendarm sagte fast grob: »Entschuldchen’s, aber
+dös da mit ’n Messer und mit’s Zerfasern von die Seilstück
 ist Unsinn! Die Dame könnt’ ja ihr Messer zeigen, wenn’s eins
-haben tat …«
+haben tät …«
 
-Frau Unger lachte bitter. »Ein Taschenmesser besitze ich
-»allerdings … Hier ist es … Und sie holte es aus der
-zugernöpften Tasche ihres Ladeplatzes hervor. — Es war ein
+Frau Anger lachte bitter. »Ein Taschenmesser besitze ich
+allerdings … Hier ist es … Und sie holte es aus der
+zugeknöpften Tasche ihres Lodenrockes hervor. — Es war ein
 kleines schmales Messerchen mit zwei Klingen.
 
 Der Gendarm klappte die große Klinge auf.
 
-»Und mit so an’ Ding soll die Dame dö8 Seil zerschnitten
-hab’n, — daß 1 ne! Lady!!« meinte er unwillig.
-»Scharf san’ die Klingen ja, aber … — all des ist Unsinn!!’«
+»Und mit so an’ Ding soll die Dame dös Seil zerschnitten
+hab’n, — daß i net lach’!!« meinte er unwillig.
+»Scharf san’ die Klingen ja, aber … — all dös ist Unsinn!!«
 
 Ich beobachtete Frau Anger. In ihren Zügen war etwas
 Lauernd-Triumphierendes erschienen. Sie seufzte leise und
 sagte rasch: »Ich werde diese schmähliche Verdächtigung nicht
 so ohne weiteres hingehen lassen, Herr Harst. Sie haben
-mich …« …
+mich …«
 
 »Eine Frage!« und der kalte Ton Haralds ließ sie
-verstummen. Mit heimlichen Haß blidäte sie ihn an.
+verstummen. Mit heimlichem Haß blickte sie ihn an.
 
 »Sie sind erst unlängst in München auf der Hauptpost
-gewesen,« fügte er keinen. »Sie haben dort ein postlagerndes
+gewesen,« fügte er hinzu. »Sie haben dort ein postlagerndes
 Telegramm abgeholt — für Frau Resi Quer. Der Absender
 war James Henderson, den Sie angeblich erst heute in
 Tölz kennengelernt haben.«
 
-Es gibt BlitzschHläge, die auch die besten Nerven erschüttern.
-Diese Sätze wirkten so. Die Unger sank in ihrem- Stuhl halb
+Es gibt Blitzschläge, die auch die besten Nerven erschüttern.
+Diese Sätze wirkten so. Die Anger sank in ihrem Stuhl halb
 zur Seite — so totenbleich, daß der Gendarm zusprang und
-sie stützte.«
+sie stützte.
 
 Aber sie hatte Energie, diese Frau. Sie wollte das
 <@pagebreak/>
@@ -1202,143 +1218,146 @@ Spiel von nicht verloren geben. Sie Hatte für diesen
 neuen Angriff bereits eine Abwehr ersonnen.
 
 Sie starrte Harald drohend an. »Nun gut,« sagte sie
-kreischend, und sie stieß den Beamten beiseite und erhob.
+kreischend, und sie stieß den Beamten beiseite und erhob
 sich und trat dicht vor Harst hin … »Nun gut, ich kannte
 Henderson … allerdings nicht als Hochstapler. Er hatte mich
-beauftragt, für ihn eine Reihe Heirat zu vermitteln, und …«
+beauftragt, für ihn eine reiche Heirat zu vermitteln, und …«
 
 Harst stand gleichfalls auf und nahm ihre Hand fest
-in die seine. Sie verstummte. Sie wurde ängstlich, Sie er«,
-wartete einen weiteren Angriff.
+in die seine. Sie verstummte. Sie wurde ängstlich, Sie erwartete
+einen weiteren Angriff.
 
 Er sagte jedoch sehr mild und gütig, mahnend und
 überredend: »Sie sollten lieber die Wahrheit bekennen, Frau
 Anger … Die Depesche hatte einen Doppelsinn … Unter
-den Petunien im grünen Kasten »lag etwas, das mit Ehen
-Vermittlung nichts zu tun hat.
+den Petunien im grünen Kasten lag etwas, das mit Ehevermittlung
+nichts zu tun hat …«
 
-Er hielt ihre Hand, und er. hielt sie im Arm, die:
-schlanke Frau … Sie war ohnmächtig geworden …
+Er hielt ihre Hand, und er hielt sie im Arm, die
+schlanke Frau … Sie war ohnmächtig geworden.
 
-Der Gendarm brummte mißmutig: nun
+Der Gendarm brummte mißmutig:
 
-»Entschuldigen’s, Herr Harst … Es Weibsbild ich »doch
-Lügnerin … — Gut, Fetter wir halt die Felswand
-Faust … Sie van doch klüger als ich, Herr Harst — Der
-Ortsfüriteher mag die Frau hier bewachen … »Wir finden
-die Stell’!Goa, wo der Mann abistürzt h3.«
+»Entschuldigen’s, Herr Harst … Dös Weibsbild is doch
+a Lügnerin … — Gut, klettern wir halt die Felswand
+nauffi … Sie san doch klüger als i, Herr Harst … Der
+Ortsfürsteher mag die Frau hier bewachen … Wir finden
+die Stell’ schon, wo der Mann abistürzt is …« —
 
-Als wir um neun Uhr von der kurzen Bleigraue wieder
+Als wir um neun Uhr von der kurzen Bergtour wieder
 in der Königslinde anlangten, war Frau Anger nach Genuß
 einer halben Flasche Rotwein, die sie gefordert, wieder völlig
-Herrin ihrer Nerven. Daß auf dem Felsvorsprung putzende
+Herrin ihrer Nerven. Daß auf dem Felsvorsprung nirgends
 eine so scharfe Kante von uns entdeckt war, an der ein
-Seil sich hätte durchscheuern können, ließ sie völlig kalt …
+Seil sich hätte durchscheuern können, ließ sie völlig kalt.
 
-»Ich Habe Henderson nicht ermordet,« erklärte sie fest?
+»Ich Habe Henderson nicht ermordet,« erklärte sie fest.
 »Machen Sie mit mir, was Sie wollen … Ich werde
 nur dem Richter gegenüber mich weiter verantworten.«
 
-<@pagebreak/>
-Der Berg der Erkenntnis,
+<@pagebreak 35/>
 
-1\. Kapitel.
-Harst als Zeuge
+<h1>Der Berg der Erkenntnis,</h1>
 
-… In meiner westpreußishen Heimat droben im Rockzipfel,
+<h2>1. Kapitel.</h2>
+<h3>Harst als Zeuge.</h3>
+
+In meiner westpreußischen Heimat droben im Nordzipfel,
 der jetzt auch polnisch geworden, gab es unweit der
 Stadt Neustadt, bekannt durch ihre große Irrenanstalt, ebenfalls
 einen Kalvarienberg. Er dürfte noch heute als Wallfahrtsort
 für die Gläubigen vorhanden sein — mit seiner
 dem Tölzer Kalvarienberge ähnlichen Herrichtung: den kleinen
-Kapellen, den Leidensstationen Christi, und der. Kirche droben,
-in der sich an bestimmten Bereitlagen das Mysterium der
+Kapellen, den Leidensstationen Christi, und der Kirche droben,
+in der sich an bestimmten Feiertagen das Mysterium der
 Seelenläuterung vollzieht.
 
 Wenn ich den zweiten Teil der Goldenen Schere »Berg
-der — »Erkenntnis betitelt habe, so geschah dies mit gutem
-Recht«. Läuterung ist Selbsterkenntnis. Die Erkenntnis, die
+der Erkenntnis" betitelt habe, so geschah dies mit gutem
+Recht. Läuterung ist Selbsterkenntnis. *Die* Erkenntnis, die
 der Tölzer Kalvarienberg mit seiner wundervollen Aussicht,
 mit all seinen stillen Schönheiten und der Pracht seiner
-uralten Bäume in den Fall »Henderson« hinelntrug, war
+uralten Bäume in den Fall »Henderson« hineintrug, war
 <@pagebreak/>
-ausschlaggebend, —«- Wie dies zusammenhängt, wie ’Harst
+ausschlaggebend. — Wie dies zusammenhängt, wie Harst
 durch einen einfachen Trick den Mord aufklärte, wird der
 Leser zweifellos mit Spannung verfolgen. — —
 
-Der Gendarm hakte mit dem zuständigen Richter, dieser
+Der Gendarm hatte mit dem zuständigen Richter, dieser
 wieder mit seinem Kollegen in Tölz telephoniert, und gegen
 zehn Uhr fuhren wir dann nach Tölz zurück. — Mit
 demselben Mietauto, mit dem Henderson und Frau Anger
 nach Bayrischzell gekommen waren. Frau Anger befand sich
-mit im Wagen, aber als Verhaftete. Neben. ihr saß der
+mit im Wagen, aber als Verhaftete. Neben ihr saß der
 Gendarm.
 
-Es war eine ernste, stille Fahrt im milden Sieh’ des fast
+Es war eine ernste, stille Fahrt im milden Licht des fast
 vollen Mondes,
 
 In den Tälern lagen bereits dichte, kalte Nebel. Die
 Scheinwerfer strahlten weiße Lichtstreifen auf die gewundene
 Straße, und als wir um halb zwölf vor dem Amtsgericht
 in Tölz hielten, beleuchteten diese grellen Augen vier Beamte,
-die uns erwarteten.«
+die uns erwarteten.
 
 Frau Anger wurde in einer Zelle des Gefängnisses
 untergebracht. Zu einer sofortigen Vernehmung fühlte sie
 sich zu schwach, hatte sie erklärt. Anderswo wäre sie damit
-kaum einem Verhör entgangemw Hier in Bayern, wo die Gemütlichkeit
-immer von zu Hause und die Menschen weniger
+kaum einem Verhör entgangen. Hier in Bayern, wo die Gemütlichkeit
+immer noch zu Hause und die Menschen weniger
 rücksichtslos-streng sind, erlangte sie diese Frist unschwer und
 damit die nötige Zeit, ihr ferneres Verhalten sich genau
-zurehtzulegen. —
+zurechtzulegen. —
 
 Droben im Amtszimmer des Richters saßen wir dann und
 erörterten das Geschehene. Der Amtsrichter rauchte, wir
 rauchten. Durch die Fenster lugte der Mond hinein.
 
 »Sie halten die Frau also bestimmt für eine Mörderin,
-Herr Harst?« meinte der Richter merklich zweifelnd. »Aus
-mich Hat sie eigentlich einen ganz guten Eindruck gemacht, —
+Herr Harst?« meinte der Richter merklich zweifelnd. »Auf
+mich Hat sie eigentlich einen ganz guten Eindruck gemacht. —
 Freilich, Sie haben mehr Erfahrung …«
 
-»Leider,« nickte Harald, »Aber in diesem Falle trügt
+»Leider,« nickte Harald. »Aber in diesem Falle trügt
 <@pagebreak/>
 Ihre Menschenkenntnis nicht … Frau Anger ist nicht eigentlich
-Mörderin.« …
+Mörderin.«
+
 »Wie soll ich das verstehen?«
 
 »Ich möchte nähere Erklärungen erst später abgeben, Herr
-Amtsrichter. Der Fall liegt so, daß ich selbst von nicht
+Amtsrichter. Der Fall liegt so, daß ich selbst noch nicht
 ganz klar sehe. — Wann werden Sie morgen Frau Anger
-verhören?«.
+verhören?«
 
 »Um neun, wenn es Ihnen recht ist. Sie wollen doch
-dabei sein …
+dabei sein …"
 
 »Wenn Sie gestatten — gern. Bis dahin hoffe ich auch
-die vom fehlenden Glieder der Beweiskette gefunden zu
-haben?«
+die noch fehlenden Glieder der Beweiskette gefunden zu
+haben.«
 
-Der Richter warf Harst einen prüfenden Bis Zu. »Und
+Der Richter warf Harst einen prüfenden Blick Zu. »Und
 die wären?«
 
 »Ein Motorrad, eine Schere und eine dritte Person.«
-… « »Das klingt sehr geheimnisvoll; Herr Harst. Wollen Sie
+
+»Das klingt sehr geheimnisvoll, Herr Harst. Wollen Sie
 mir nicht besser gleich mitteilen, was das alles soll?«
 
-»Eis wäre gegen mein. Prinzip, Herr Amtsrichter. —
+»Es wäre gegen mein Prinzip, Herr Amtsrichter. —
 Sie kennen mich bereits … Als Henderson und seine Geliebte,
 die Gussy Wendnoor von hier flüchteten, machten Sie mir den
 vielleicht berechtigten Vorwurf, die hiesige Polizei nicht rechtzeitig
 verständigt zu haben. Heute könnten Sie dasselbe tun.
 Ich weiß mehr, als ich zugebe. Aber ich bin Privatmann
-und handele stets so, wie ich es für richtig befinde. Für mich:
+und handele stets so, wie ich es für richtig befinde. Für mich
 ist ein Kriminalfall wissenschaftlicher Sport.«
 
 Der Richter, der eine beneidenswerte Ruhe besaß, erwiderte
 höflich:
 
-»Für mich existiert nur die Pflicht als Beamter. Uns
+»Für mich existiert nur die Pflicht als Beamter. Und
 die gebietet mir, Sie unter diesen Umständen sofort als Zeugen
 zu vernehmen.«
 
@@ -1347,128 +1366,131 @@ einen Formularbogen, tauchte die Feder ein …
 
 Die Sache wurde dienstlich. Der Amtsrichter drehte
 <@pagebreak/>
-den Spieß um, und ich konnte es. ihm nicht verdenken.
-Aus mich hatte Harald mit seinen beliebten Andeutungen
-abgespeist. Hier mußte er nun Farbe bekennen. Ich blickte:
-ihn an. Er sah ziemlich mißmutig aus. Ich lächelte ironisch:
-»Der Amtsrichter fragte:
+den Spieß um, und ich konnte es ihm nicht verdenken.
+Auch mich hatte Harald mit seinen beliebten Andeutungen
+abgespeist. Hier mußte er nun Farbe bekennen. Ich blickte
+ihn an. Er sah ziemlich mißmutig aus. Ich lächelte ironisch.
+Der Amtsrichter fragte:
 
 »Ihre Personalien?«
 
-»Doktor juris Harald Harst, Gerichtsassessor a. D., fest
-Rentner, 83 Jahre alt, geboren …« — und so weiter …
+»Doktor juris Harald Harst, Gerichtsassessor a.&nbsp;D., jetzt
+Rentner, 43 Jahre alt, geboren …« — und so weiter …
 
-»Danke, Herr Kollege … — weshalb- fuhren Sie heute
-nachmittag mit dem Auto des Königslindner so eilig hinter.
+»Danke, Herr Kollege … — weshalb fuhren Sie heute
+nachmittag mit dem Auto des Königslindner so eilig hinter
 Frau Anger und Henderson drein?«
 
 »Weil ich, wie schon erwähnt, in der Frau Rosa Anger
 jene Resi Quer, die Münchener Depeschenempfängerin, vermutete,
-also nähere Beziehungen zwischen Henderson und«
-der Anger. Außerdem war die Bekanntschaft — zwischen dem
+also nähere Beziehungen zwischen Henderson und
+der Anger. Außerdem war die Bekanntschaft zwischen dem
 Paar allzu rasch so intim geworden, daß sie sofort einen
-gemeinsamen Ausflug vereinbarten. Ich. nahm als gewiß
+gemeinsamen Ausflug vereinbarten. Ich nahm als gewiß
 an, daß das Telegramm Hendersons mit dem immerhin
-merkwürdigen Inhalt für die Anger bestimmt war.« … —
+merkwürdigen Inhalt für die Anger bestimmt war.«
 
 Der Amtsrichter schrieb eine Weile, blickte dann wieder
-auf. — —
+auf.
+
 »Sie haben in Bayrischzell in Gegenwart des Gendarms
 der Anger gegenüber eine unverständliche Bemerkung über
 die Petunien gemacht, Herr Kollege. Wo hinaus zielte diese
 Bemerkung über den Doppelsinn der Depesche?«
-»Unter den Petunien im Blumenkasten eines der Atelier räume
-im Bettler-Hause fand ich die gestohlenen Juwelen
-und zwanzigtausend Mark in einer Konservenbüchse.« V«
+
+»Unter den Petunien im Blumenkasten eines der Atelierräume
+im Schettler-Hause fand ich die gestohlenen Juwelen
+und zwanzigtausend Mark in einer Konservenbüchse.«
+
 »Potztausend!! Und das haben Sie nicht sofort der
 Polizei gemeldet?! Das kann unangenehm für Sie werden.«
+
 »Hm … — es wäre nur unangenehm für eine gewisse
 Dame gewesen, hätte ich die Beute nicht gefunden. —
 <@pagebreak/>
-Übrigens — trenne mir mal hinten die Nacht auf, mein
-»Alter …«
+Übrigens — trenne mir mal hinten die Naht auf, mein
+Alter …«
 
 Ich tat’s, und auf dem Tische lagen nun für dreißigtausend
 Mark Kleinodien und zwanzigtausend in Banknoten.
 Das elektrische Licht ließ die Brillanten sprühen und funkeln,
-und ganz andächtig nahm der — Richter die Halsseite und
-ließ sie Burg die Finger gleiten …
+und ganz andächtig nahm der Richter die Halskette und
+ließ sie durch die Finger gleiten …
 
 »Fabelhaft — — wunderschön!«
 
-Aber er wurde rasche wieder dienstlich.
+Aber er wurde rasch wieder dienstlich.
 
-»Sie meinen also, Kollege, der Henderson wollte der«
+»Sie meinen also, Kollege, der Henderson wollte der
 Anger durch die Depesche das Versteck mitteilen …« Er
 griff nach der Feder und schrieb. »Natürlich meinen Sie
 dies … Und ich habe nunmehr die gleiche Überzeugung.
-Die beiden waren also sehr vertraut miteinander. Die Unger
+Die beiden waren also sehr vertraut miteinander. Die Anger
 erfreut sich in Berlin auch nicht des besten Rufes. — Wo
-steckt nun jedoch Gussy Wendnoor 7?«
+steckt nun jedoch Gussy Wendnoor?«
 
 Ich merkte, wie unbequem diese Frage Harald war.
 Er Hatte offensichtlich bisher vermieden, irgendwie an Gussy
-
 zu erinnern. Der Amtsrichter mochte das ebenso gut gefühlt
 haben wie ich.
 
-Ich war gespannt, ’wie er sich nun aus der Affäre
+Ich war gespannt, wie er sich nun aus der Affäre
 ziehen würde.
 
 Er hatte den Kopf gesenkt. Das Licht beschien seinen
 dünnen, schon leicht ergrauten Scheitel und den schmalen
-Rücken seiner Hakennase. Die Augen lagen im Agenten.
+Rücken seiner Hakennase. Die Augen lagen im Schatten.
 Er überlegte.
 
 Es vergingen vielleicht drei Minuten. Der Richter hatte
 Geduld.
 
 Dann erklärte Harald, indem er sich verbeugte und auf
-die … Juwelen zeigte: …
+die Juwelen zeigte:
 
 »Nehmen Sie sie bitte mit … Wir wollen diese Vernehmung
-beenden. Finden Sie Biß bitte nach einer halben
+beenden. Finden Sie sich bitte nach einer halben
 <@pagebreak/>
 Stunde im Schettler ein — möglichst unbemerkt. Ich werde
 Ihnen Gussy Wendnoor in die Hände spielen.« —
 
-Ein anderer wäre verblüfft gewesen. Der Anstrich:r,
-ein Mann von ungewöhnlicher Abgeklärtheit, sagte n1u::
+Ein anderer wäre verblüfft gewesen. Der Amtsrichter,
+ein Mann von ungewöhnlicher Abgeklärtheit, sagte nur:
 
 »Wie wollen Sie das erreichen, Kollege?«
 
-Harst stand langsam aus,!hart hin und her, Ei.)
+Harst stand langsam auf, schritt hin und her, ging
 zum Lichtschalter …
 
-Ein Knaben …
+Ein Knacken …
 
 Die drei Birnen der Deckenlampe erloschen.
 
-»Bitte, drehen Sie auch die Schreibtischlampe aus …
+»Bitte, drehen Sie auch die Schreibtischlampe aus …"
 meinte er.
 
-Der UAmnmtsrichter gehorchte ohne Zögern. Nun war’s
-nur nachts der Mond, der ins Zimmer sein weiches Licht ergo;z.
+Der Amtsrichter gehorchte ohne Zögern. Nun war’s
+nur noch der Mond, der ins Zimmer sein weiches Licht ergoß.
 
 Harald trat an das rechte Fenster, das vom Monde nur
 noch gestreift wurde.
 
-»Kommen Sie bitte her … Aber halten Sie ging im
+»Kommen Sie bitte her … Aber halten Sie sich im
 Schatten …«
 
 Das Amtsgericht liegt in der Hindenburgstraße. Die
-Fenster dieses Zimmers gingen auf die stille Straße bunte.
+Fenster dieses Zimmers gingen auf die stille Straße hinaus.
 
 »Sehen Sie etwas?« fragte Harald.
 
 Auch ich war hinter den Amtsrichter getreten.
 
-Ich sah Bagatelle wie er: Drüben im Baumschatten glitt
+Ich sah dasselbe wie er: Drüben im Baumschatten glitt
 eine Gestalt dahin — ein Mann … verschwand nach der
 Stadt zu.
 
 »Das war Gussy Wendnoor, Herr Amtsrichter. Sie
-hat das Gericht3gebäude beobachtet und glaubt nun, wir
+hat das Gerichtsgebäude beobachtet und glaubt nun, wir
 kämen heraus, weil die Fenster dunkel wurden.«
 
 <@pagebreak/>
@@ -1482,15 +1504,15 @@ beneiden …
 »Woher wußten Sie dies, Kollege?«
 
 »Ich vermutete es nur und ich machte die Probe aufs
-Exempel. Ehe stimmte, es mußte ja auch stimmen.«
+Exempel. Es stimmte, es mußte ja auch stimmen.«
 
 »Sie verblüffen gern, und es gelingt Ihnen. — Was
 nun?«
 
 »Sie werden uns bis zum Schettler begleiten, bitte …
 Dort verabschieden Sie sich, gehen scheinbar heim, finden sich
-aber nach einer halben Stunde in der Lag»-Gatte am Hintereingang
-wieder ein … Stecken Sie die Beute zu sich…
+aber nach einer halben Stunde in der Säg-Gasse am Hintereingang
+wieder ein … Stecken Sie die Beute zu sich …
 Wir haben Eile …«
 
 »Interessant, Kollege … Ich hätte nie geglaubt, daß ich
@@ -1499,7 +1521,7 @@ mit durchmachen dürfte.«
 
 »Oh — es werden mehrere Kapitel werden.«
 
-»Seite besser, — doch mal was anderes als nur der
+»Desto besser, — doch mal was anderes als nur der
 alte Amtsschimmel.«
 
 Wir verließen das Gebäude und schritten die Hindenburgstraße
@@ -1507,73 +1529,72 @@ hinab.
 
 <@pagebreak/>
 Der Reichspräsident ist bekanntlich Ehrenbürger von
-Tölz, und wenn er in DietramSzell seinen Sommerurlaub
-verbringt, schwer die Folgen nicht die zwei Stunden Wegs
+Tölz, und wenn er in Dietramszell seinen Sommerurlaub
+verbringt, scheuen die Tölzer nicht die zwei Stunden Wegs
 bis dahin, um ihn wiederzusehen. —
 
-Vor dem Schneller sagten wir dem Amtsrichter vorläufig
+Vor dem Schettler sagten wir dem Amtsrichter vorläufig
 gute Nacht.
 
-Es war jetzt kurz vor ein Uhr. Die Kunststraße war
+Es war jetzt kurz vor ein Uhr. Die Marktstraße war
 wie ausgestorben. Die schweren Schritte des Richters entfernten
 sich.
 
 Wir standen im Dunkel des Tunnels, der durch das
 uralte, wunderliche Haus führt, und blickten ihm nach.
 Dann schaltete Harald seine Taschenlampe ein, schloß die
-Türglocke und wandte sie der überdachten Treppe zu.
+Türpforte und wandte sich der überdachten Treppe zu.
 
 In unserem Zimmerchen legten wir die Lodenmäntel und
 die Hüte ab und zogen die genagelten Schuhe aus, vertauschten
 sie mit den weichen Morgenschuhen. Ich sagte
 dabei leise, denn die Bureautür stand weit offen:
 
-»Glaubst du, dar Gusjy9 in dieser Nacht die Juwelen
+»Glaubst du, daß Gussy in dieser Nacht die Juwelen
 holen wird? Glaubst du, sie kennt das Versteck im Blumenkasten?«
 
 »Sie kannte es wahrscheinlich nicht, mein Alter. Jetzt
 kennt sie es. Beide hier erscheinende Zeitungen haben ja
 mit unerwünschter, diesmal freilich erwünschter Promptheit
-Fußes den Wert der Depesche gebracht, wie ich heute beim
-Frühzug sah — in den heutigen Ausgaben. Daher war dies
+auch den Text der Depesche gebracht, wie ich heute beim
+Mittag sah — in den heutigen Ausgaben. Daher war dies
 auch der Anger entgangen, auch Henderson. Hätten sie es
 gewußt, würde alles anders gekommen sein.«
 
-Er stand vom Stuhle auf. »Schließe Sie Balkontür, ziehe
-die Vorhänge vor … Tag Licht lassen wir brennen … —
+Er stand vom Stuhle auf. »Schließe die Balkontür, ziehe
+die Vorhänge vor … Das Licht lassen wir brennen … —
 Wir müssen ins Atelier nach oben, Hektor holen …«
 
-Wir s!etlichen die Stiege hinan. Über der Hausdiener,
-der in seiner Kammer Stiefel paßte, hörte uns doch, kam
+Wir schlichen die Stiege hinan. Aber der Hausdiener,
+der in seiner Kammer Stiefel putzte, hörte uns doch, kam
 <@pagebreak/>
 Heraus und flüsterte uns zu, daß Hektor vor etwa anderthalb
 Stunden sehr gebellt habe …
 
-»Es ist gut, sagte Harald. »Bleiben Sie in: Ihrer
+»Es ist gut," sagte Harald. »Bleiben Sie in Ihrer
 Kammer und kümmern Sie sich um nichts.«
 
 Oben im Atelier machten wir Licht. Die Dogge empfing
 uns mit Freudengewinsel. Sie hatte sich hier wenig anständig
-benommen, aber — sie war auch sei! halb drei eingesperrt
+benommen, aber — sie war auch seit halb drei eingesperrt
 gewesen.
 
-Wir gingen wieder hinab, und Harald führte den. Hund
-noch ins Freie, in die Tausch-Gasse. Als er nach geraumer
-Zeit zurückkehrte, brachte er den Amtsrichter mit, der in
-zwischen daheim gewesen war und nun in seinem Höheres
+Wir gingen wieder hinab, und Harald führte den Hund
+noch ins Freie, in die Säg-Gasse. Als er nach geraumer
+Zeit zurückkehrte, brachte er den Amtsrichter mit, der in-
+zwischen daheim gewesen war und nun in seinem Lodenumhang
 und Gebirgsfilz recht zweckentsprechend verwandelt
-
-erschien.
+schien.
 
 »Wieder nach oben, leise!« befahl Harald.
 
 Hektor blieb in unserem Zimmer.
 
-Im Atelier war’s bereits ziemlich hell, da der Mont
+Im Atelier war’s bereits ziemlich hell, da der Mond
 durch das Riesenfenster hineindämmerte.
 
-Wir gingen, ohne Litt zu machen, in das kleine
-Zimmerchen, wo Harald das Fenster amtlicher!te und gar:
+Wir gingen, ohne Licht zu machen, in das kleine
+Zimmerchen, wo Harald das Fenster aufriegelte und ganz
 wenig öffnete.
 
 Hier war es dunkler. Der Amtsrichter und ich mußten
@@ -1590,8 +1611,7 @@ Turmuhren schlugen halb zwei …
 
 In Tölz haben die drei Turmuhren der Stadt die Eigentümlichkeit,
 kurz hintereinander ihre verschieden abgestimmten
-Schläge ertönen zu lassen. Das klingt nachts sehr hübsch
-
+Schläge ertönen zu lassen. Das klingt nachts sehr hübsch.
 <@pagebreak/>
 Erst schlägt immer die Uhr mit dem ernsten Baß, dann
 folgt eine mit ganz hellem Stimmchen, und den Beschluß
@@ -1614,7 +1634,7 @@ Dachgarten.
 Ebenso schnell jagten meine Gedanken. Ich überlegte mir
 alles, was dieser Tag gebracht. Die Hauptfragen waren:
 Wer hatte Henderson ermordet, und wo und in welcher
-Maste blickt sich Gussy hier auf.
+Maske hielt sich Gussy hier auf.
 
 Der Mord selbst erschien mir völlig dunkel. Wenn die
 Rosa Anger Henderson nicht in den Abgrund befördert
@@ -1625,11 +1645,11 @@ Motorrad benutzt?!
 
 Und — welche neue Verkleidung trug sie hier?!
 
-Ich hatte wohl flücgtig an die Krantccnischwester des
-gelähmten Fräulein Langner gedacht. Aber Haralds Telephons
+Ich hatte wohl flüchtig an die Krankenschwester des
+gelähmten Fräulein Langner gedacht. Aber Haralds Telephon-
 Gespräch mit Josef Langner, Nürnberg, hatte ergeben, daß
-die alte Dame in Begleitung ihrer Pflegerin von Autos
-Berg abgereist war. Also konnte Gussy umsank diese
+die alte Dame in Begleitung ihrer Pflegerin von Nürn-
+Berg abgereist war. Also konnte Gussy unmöglich diese
 Krankenschwester sein, die wir dann mittags auf dem Kalvarienberg
 wiedergesehen hatten.
 
@@ -1639,30 +1659,30 @@ von der Entscheidung — etwa wirklich in Bayrischzell gewesen:
 Hätte die Anger es geduldet, daß Gussy das Seil zerschnitt
 und so Henderson ermordete?!
 
-—» Da tauchte vor dem Fenster eine Gestalt auf …
+— Da tauchte vor dem Fenster eine Gestalt auf …
 
-Ein junger Bursch? in Gebirgstracht …
+Ein junger Bursche in Gebirgstracht …
 
-Schaute sich argwöhnisch; um …
+Schaute sich argwöhnisch um …
 
 Betrachtete den Blumenkasten …
 
-Begann an der richtigen Stelle die Pflanzen her auszureißen
+Begann an der richtigen Stelle die Pflanzen herauszureißen
 …
 
 Und … Harst riß das Fenster auf …
 
 Blitzschnell …
 
-Pate zu …
+Packte zu …
 
 Hielt die fremden Handgelenke umklammert …
 
 Ein leiser Schrei des vollkommen Überraschten — ein
 kurzer Kampf … Ich war schon draußen … Und dann
-flammte im Stelle: das Licht auf. —
+flammte im Atelier das Licht auf.
 
-Wir besahen uns unteren Fang.
+Wir besahen uns unseren Fang.
 
 Es war … nicht Gussy Wendnoor.
 
@@ -1678,11 +1698,11 @@ hier?!«
 
 Herr Kanzlist Xaver Dürnhuber entpuppte sich im Licht
 der elektrischen Lampen des Kreises als ein junger, sonngebräunter
-Bursch; mit klaren, lustigen Augen und einer
+Bursch mit klaren, lustigen Augen und einer
 unter dem offenen Hemd stark gewölbten Brust. Er trug hirschlederne
-Kurzen, grüne Wadenstrümpfe, genagelte Schuhe und
-abermalig ebenfalls die übliche Landestracht, war mittelgroß,
-sehnig, hager, hatte eine Reihe blonde Künstlertolle
+Buxen, grüne Wadenstrümpfe, genagelte Schuhe und
+oberwärts ebenfalls die übliche Landestracht, war mittelgroß,
+sehnig, hager, hatte eine reiche blonde Künstlertolle
 und war uns im übrigen kein Fremder mehr. Als uns
 Henderson und Gussy hier durch die Lappen gegangen waren,
 hatte es endlose Protokolle gegeben, bei denen Herr Dürnhuber
@@ -1691,30 +1711,30 @@ damals hatte er Harst mit Blicken beehrt, die eine grenzenlose
 Bewunderung und Ehrfurcht ausdrückten, und schon
 damals hätte ich wetten mögen, daß er mit zu meinen
 Lesern gehörte und daß nur die Bescheidenheit ihn hinderte,
-an uns auch einmal das Wort zu mitten.
+an uns auch einmal das Wort zu richten.
 
-Wie er hier nun so krank und frei mit blitzenden Augen
+Wie er hier nun so frank und frei mit blitzenden Augen
 stand — beinahe leicht triumphierend und keineswegs verlegen,
-machte er zuerst seinem Vorgesetzten eine Art Lraßfuß,
+machte er zuerst seinem Vorgesetzten eine Art Kratzfuß,
 dann uns und meinte drauf mit einem Blick auf seine
 erdigen Hände:
 
 <@pagebreak/>
-»Des war also Mr!«
+»Dös war also nix!!«
 
-Der Amtsrichter leicht diese Antwort zweifellos für nee«
+Der Amtsrichter hielt diese Antwort zweifellos für un-
 genügend.
 
 »Wie kamen Sie dazu, Dürnhuber, hier auf den Dächern
-derumzufleitern?« fragte — er streng.
+herumzuklettern?« fragte er streng.
 
-»Oh, doof hängt halt mit Mann G’suh an die MindchHener
-Polizei zusammen, Herr Amtsrichter,« ernster:e der junge
-Mensch; genau so ersten. »Ich mag hier nicht versaure, Herr
-Amtsrichter, und da hb’ Ei nur denkt, wenn’s was geblufft,
-»Xaver, dann nehme sie dvi« doch halt in Minchen an …«
+»Oh, dös hängt halt mit moan G’such an die Minchener
+Polizei zusammen, Herr Amtsrichter,« erwiderte der junge
+Mensch genau so offen. »Ich mag hier nit versaure, Herr
+Amtsrichter, und da hob’ i mir denkt, wenn’s was schaffst,
+Xaver, dann nehme sie dir doch halt in Minchen an …«
 
-Der Richter erklärte uns nachjichtig-ironisch: »Er hat
+Der Richter erklärte uns nachsichtig-ironisch: »Er hat
 nämlich den Kriminalfimmel, meine Herren. Er möchte gern
 zur Kriminalpolizei.«
 
@@ -1722,40 +1742,40 @@ Dürnhuber schien diese Kritik seiner Wünsche wenig
 zu behagen.
 
 Er wandte sich an Harald. »Schaun’s, Herr Harst, die
-G’sGicht ist so …« Er bemühte sich krampfhaft hodweutjH
-zu sprechen. »Ich Koan’ doch die Protokolle geschrieben, und
+G’schicht ist so …« Er bemühte sich krampfhaft hochdeutsch
+zu sprechen. »Ich hoab’ doch die Protokolle geschrieben, und
 wußt’ auch von der Depeschen, die der Henderson abgeschickt
-hat. Und als der Herr Unmtzsrichter mich Zeit abend trugen
-ließ, weil’s doch möglich wär’, es Hab’ was zu protokollieren
+hat. Und als der Herr Amtsrichter mich heit abend rufen
+ließ, weil’s doch möglich wär’, es gäb’ was zu protokollieren
 wegen die ingespirrte Frau Anger, und als die Herr’n dann
-mit der Frau im Auto kamen und’s doch nix »zu schreibe
-gab, hielt ich mich4 da paßt vo8 Gericht auf … Und
-mit ’n Mal sah ich jemand, der rum da von ’n Baum
-runtergerutsd&t und lief davon, und die war grad’, als im
-Herrn Amtsrichter sein Zimmer das Licht ausdreht Büro. Dr
-bin ich hinterher g’laufen, aber ich kriegt den Jemand nimmer …
-Dr hoab’ ich denn mir g’dacht, es könnt das Fräulein Gussy
-sein, und weiter hoab’ 1 dacht’, sie könnt die Depesche Grad
-so deuten wie ij ’3 tun Grab …«Nämlich, daß die Petunien
-nicht in Minen van, sondern hier, wo der Henderson gewohnt
-hat … Und daß unter die Petunien sag’ das Geld und
+mit der Frau im Auto kamen und’s doch nix zu schreibe
+gab, hielt ich mich da außi vor's Gericht auf … Und
+mit ’n Mal sah ich jemand, der kam da von ’n Baum
+runtergerutscht und lief davon, und dös war grad’, als im
+Herrn Amtsrichter sein Zimmer das Licht ausdreht würd'. Do
+bin i hinterher g’laufen, aber i kriegt den Jemand nimmer …
+Do hoab’ i denn mir g’dacht, es könnt das Fräulein Gussy
+sein, und weiter hoab’ i dacht’, sie könnt die Depesche grad'
+so deuten wie i ’s tan hoab … Nämlich, daß die Petunien
+nicht in Minchen san, sondern hier, wo der Henderson gewohnt
+hat … Und daß unter die Petunien läg’ das Geld und
 <@pagebreak/>
-das Gejchmmeid’, und das hoab’ ich feststelle wollte, und so kam
-eben der … dö3 18 alles, Herr Harst.«
+das Geschmeid’, und das hoab’ i feststelle wolle, und so kam
+i eben her … dös is alles, Herr Harst.«
 
 Harald gab ihm die Hand. »Sehr brav, diese Leistung,
 Herr Dürnhuber … Alle Achtung! — Ihre Beobachtungen
-vor dem Gericht3gebäude sind mir äußerst wertvoll. Die
+vor dem Gerichtsgebäude sind mir äußerst wertvoll. Die
 Person war also auf einen Baum geklettert … Meinen Sie
 nun, sie hat von dem Baum in das Dienstzimmer des Herrn
 Amtsrichter hineinsehen können?«
 
 »Freilich, das hätt’ sie konnt’ … bestimmt.« Dürnhuber
-strahlte. Von Harst belebt zu werden, war ihm offenbar
+strahlte. Von Harst belobt zu werden, war ihm offenbar
 großes Los.
 
 »Unter diesen Umständen war unser Warten auf Gussy
-hier allerdings ganz überflüssig,« meinte Harald ein wen!
+hier allerdings ganz überflüssig,« meinte Harald ein wenig
 enttäuscht. »Dann haben wir also Sie, Herr Dürnhuber,
 von dem dunklen Fenster aus davoneilen sehen … Und
 dann weiß Gussy Wendnoor jetzt, daß die Beute nicht
@@ -1767,82 +1787,82 @@ vermute?«
 
 »Nein …«
 
-»Nun, die Wendnoor hat beobachtet, daß Sie die Insassen
+»Nun, die Wendnoor hat beobachtet, daß Sie die Juwelen
 zu sich steckten. Zuzutrauen ist ihr alles.«
 
 »Bedauere — ich bin noch nicht im Bilde, Herr Harst …«
 
 Dürnhuber räusperte sich kräftig.
 
-»Aber ich bin’s, Herr Amtsrichter … Der Herr Harst
-meint, die Gussy wird Sie überfallen, wenn Sie nun heim
-wärt5 Gehirn …«
+»Aber i bin’s, Herr Amtsrichter … Der Herr Harst
+meint, die Gussy wird Sie überfallen, wenn Sie nun heim-
+wärts geh'n …«
 
 »Ja, niederschlagen!« bestätigte Harst sachlich. »Sie wohnen
-drunten an der Klar, Herr Amtsrichter. Um diese Stunde
+drunten an der Isar, Herr Amtsrichter. Um diese Stunde
 ist die Stadt wie ausgestorben. Ich möchte Sie bitten, einen
-kleinen Umweg zu machen, denn 143) nehme an, daß die
-IDciadnoor- erst drunten am Uferweg den Überfall wagen
+kleinen Umweg zu machen, denn ich nehme an, daß die
+Wendnoor erst drunten am Uferweg den Überfall wagen
 <@pagebreak/>
-wird, — falls sie’s überhaupt wagt. Schraut und 14h werden
-uns unten hinter den Bäumen der Kapellen-Gasse der
+wird, — falls sie’s überhaupt wagt. Schraut und ich werden
+uns unten hinter den Bäumen der Kapellen-Gasse ver-
 stecken. Nehmen Sie Herrn Dürnhuber bis zur Brücke mit,
 dort unterhalten Sie sich fünf Minuten und dann gehen
 Sie heim. — Wir verstehen uns jetzt?«
 
-Der Umschritten lachte.
+Der Amtsrichter lachte.
 
-»Und ob …!! Na, mit dem Mädel werde ich flachen
+»Und ob …!! Na, mit dem Mädel werde ich schon
 fertig werden … Keine Sorge!«
 
-Harald schüttelte Zeit den Lauf. »Ankerte;aßen Die
-die Wendnoor nicht!! Diele Sorte internationaler (Männer
+Harald schüttelte leicht den Kopf. »Unterschätzen Sie
+die Wendnoor nicht! Diese Sorte internationaler Gauner
 pflegt mit Mitteln zu arbeiten, die nicht alltäglich sind …
-Aber — Schraut und ich werden ja in der Nähe sein. Alte
-—»- Aufbruch denn! Ich lasse Sie beide zum Hintereingang
+Aber — Schraut und ich werden ja in der Nähe sein. Also
+— Aufbruch denn! Ich lasse Sie beide zum Hintereingang
 hinaus.«
 
-Ruder Dürnhuber räusperte sich da wiederum … Keine
-jungen, klaren Augen bettelten förmlich, noch: etwas jagen
+Xaver Dürnhuber räusperte sich da wiederum … Seine
+jungen, klaren Augen bettelten förmlich, noch etwas sagen
 zu dürfen.
 
-»Schießen Sie los, Herr Dürnhuber,« Niete Harst ihr!
-Fremdling zu. »Was haben Sie noch auf dem Herzen?«
+»Schießen Sie los, Herr Dürnhuber,« nickte Harst ihm
+freundlich zu. »Was haben Sie noch auf dem Herzen?«
 
-»3 … Ei mnwocht’ halt … allein mit dem WeibS56ild
-fertig werden,« platzte Xaver heraus. »I wollt’ was:un,
-des mit mag Auktion bringt … Wenn der Herr Spitze«
+»I … i möcht’ halt … allein mit dem Weibsbild
+fertig werden,« platzte Xaver heraus. »I möcht’ was tun,
+das mich nach Minchen bringt … Wenn der Herr Amts-
 Richter mir seinen Lodenumhang und Hut gibt, und wenn
-ich den Kragen hocdhflappen zu, und wenn he? Herr Amtsrichter
+ich den Kragen hochklappen tu, und wenn der Herr Amtsrichter
 meine Kluft anzieht, dann …«
 
-»Unsinn« winkte jedoch) der Richter ab. »Diese Wasserlache
+»Unsinn« winkte jedoch der Richter ab. »Diese Maskerade
+wäre einfach lächerlich … Gehen wir.«
 
-wäre einfach lächerlich … Gelben wir.«
-Tod Harst stand dem ehrgeizigen Xaver bei. »Im Grunde
-käme mir dieser Austausch; der Rollen sehr gelegen,« erklärte
-er mit wohlwollenden Blick auf Dürnhuber. »Man kann nie
-wissen, was geschickt … nie!«
+Doch Harst stand dem ehrgeizigen Xaver bei. »Im Grunde
+käme mir dieser Austausch der Rollen sehr gelegen,« erklärte
+er mit wohlwollendem Blick auf Dürnhuber. »Man kann nie
+wissen, was geschieht … nie!«
 
-»ein ernster Ton mochte Eindruck. Rat kurzem Hin
-und Her legen wi? in 1ia1j227 Zimmer hinab, und fünf
+Sein ernster Ton machte Eindruck. Nach kurzem Hin
+und Her stiegen wir in unser Zimmer hinab, und fünf
 <@pagebreak/>
-Minuten später ließ Harald die beiden nach der Haus—Gasse
+Minuten später ließ Harald die beiden nach der Säg-Gasse
 zu hinaus.
 
 Wir jedoch beeilten uns, vorn nach der Marktstraße
-unauffällig 118 Freie zu gelangen.
+unauffällig ins Freie zu gelangen.
 
 Inzwischen hatten sich die aus den Bergtälern aufsteigenden
-Nebel zu Zigarren Wolken vereinigt. Der Mond
-schimmerte wie ein blasser Freie dur&g4 das Gewölk. Es war
+Nebel zu dichten Wolken vereinigt. Der Mond
+schimmerte wie ein blasser Fleck durch das Gewölk. Es war
 empfindlich kühl.
 
-Wir bogen in die KlammeraGasse ein, kamen an der
-PfaärrtirHe vorüber, hinter deren hohen Fenstern mild die
-rote ewige Lampe schimmerte. Kein Mensch; begegnete uns.
-Dafür blassen hinter den Zäunen ein paar Hunde, und in
-einem schmalen, schießen Giebelbau hob oben war ein Fenster
+Wir bogen in die Klammer-Gasse ein, kamen an der
+Pfarrkirche vorüber, hinter deren hohen Fenstern mild die
+rote ewige Lampe schimmerte. Kein Mensch begegnete uns.
+Dafür blafften hinter den Zäunen ein paar Hunde, und in
+einem schmalen, schiefen Giebelbau hoch oben war ein Fenster
 offen … Gedämpfte Musik drang heraus: Wahrhaftig — ein
 Lautsprecher!
 
@@ -1850,49 +1870,48 @@ Unwillkürlich machten wir halt.
 
 Es war nach zwei Uhr. Sollte hier in dem so überaus
 engen Stadt-Teil von Tölz, wo die Häuser einander fast
-Bedrückten und wo alles wie eine Märchenwelt anmutet,
+erdrückten und wo alles wie eine Märchenwelt anmutet,
 wo so wenig Platz für Antennen ist und der Rundfunk
 deshalb wenig Anhänger gefunden, sollte hier wirklich ein
-begeisterter Walther etwa Amen:ja empfangen?! Denn wer
+begeisterter Bastler etwa Amerika empfangen?! Denn welch'
 anderer Sender war um diese Stunde zu hören?!
 
 Wir lauschten … Wir standen drüben auf der anderen
-Gartenseite und blickten empor zu dem hatten Giebel …
+Gassenseite und blickten empor zu dem hohen Giebel …
 
 Es war Tanzmusik, es war eine amerikanische Station.
-Wir sahen auf) gerade noch die Spitzen von vier Rohren
-
+Wir sahen auch gerade noch die Spitzen von vier Röhren
 droben silbern blinken — auf einem Tischchen vor dem
 Fenster, sahen einen Kopf, dazu Hände, die irgendwie in
-Stricken: Ein jünger Mensch! — Vielleicht ein Geselle
+Tätigkeit: Ein jünger Mensch! — Vielleicht ein Geselle
+des Mechanikers, der unten im Hause seinen Laden hatte.
+Die Musik war leise, aber klar …
 
-des Mechaniker83, der unten im Hause seinen Laden hatte.
-Sie ’Muijir war leite, aber klar …
 Wir gingen weiter …
 
 <@pagebreak/>
-Dort, wo die Langpritester Straße auf den freien Wiesen«
+Dort, wo die Langpriester Straße auf den freien Wiesen-
 Platz an der Isar mündet, dort, wo zuweilen ein Wanderzirkus,
 ein Karussell oder eine Schießbude aufgebaut wird,
-sollten wir kriechend dem Promenadenweg zu.
+schlichen wir kriechend dem Promenadenweg zu.
 
-Erde, alte Bäume stehen hier, auch ein paar Bat?e.
+Dicke, alte Bäume stehen hier, auch ein paar Bänke.
 
 Über der Isar lagerten dünne Schwaden. Brausend,
-staunend 304g der Fluß zu den dicken Behauptet:ein 227
+schäumend zog der Fluß an den dicken Betonpfeilern der
 Brücke hin.
 
 An einer der Bänke kauerten wir uns nieder.
 
-Wir waren gerade zur rechten Zeit geraumen.
+Wir waren gerade zur rechten Zeit gekommen.
 
-Xaver Dürnhuber näherte sich würdevoll-langsjam in des
+Xaver Dürnhuber näherte sich würdevoll-langsam in des
 Amtsrichters Kostüm, schritt vorbei.
 
-Nennt überhaupt, mußte der Überfall nunmehr ersetzen.
-Eine bessere Örtlichkeit als diese gab es mit.
+Wenn überhaupt, mußte der Überfall nunmehr erfolgen.
+Eine bessere Örtlichkeit als diese gab es nicht.
 
-Dürnhubers Gestalt wurde: undeutlicher. Wir vertrauten
+Dürnhubers Gestalt wurde undeutlicher. Wir vertrauten
 seiner Kraft, wir warteten ab …
 
 Mit einem Male hörten wir einen dumpfen Schlag, einen
@@ -1905,18 +1924,19 @@ zweiter lag im Grase …
 
 Harald packte zu …
 
-Sie Sache war erledigt …
+Die Sache war erledigt …
 
 Aber anders, als wir es gedacht. Das Gerichtsgefängnis
-bekam Zwei weitere Logiergäste …«
-— Zwei …
+bekam Zwei weitere Logiergäste …
+
+Zwei …
 
 Wen?!
 
 Vielleicht ahnt der Leser das Richtige.
 
-Zuweilen finden sich eben Leute, die »vordem Gegner,
-zu gemeinsamen Tat zusammen. Nun, hier feierten wir ein
+Zuweilen finden sich eben Leute, die vordem Gegner,
+zu gemeinsamer Tat zusammen. Nun, hier feierten wir ein
 wenig erfreuliches Wiedersehen mit der fragwürdigen Baronin
 Sonja van der Leyen und jenem Pieter van Düren, der
 als Beauftragter des Grafen Löwengaard der Baronin Geld
@@ -1925,29 +1945,29 @@ und Juwelen hatte aushändigen sollen — siehe den vorigen
 Band …
 
 Die Baronin als Mann war keine Augenweide, und
-van Düren mit seiner durchs Xavers Fausthieb stark verbreiterten,
+van Düren mit seiner durch Xavers Fausthieb stark verbreiterten,
 blutigen Nase konnte auch keinen Anspruch auf
-Schönheit machen. —
+Schönheit machen.
 
-Dache Amtsrichter, der von der Zelle her die Entwicklung
+Der Amtsrichter, der von der Brücke her die Entwicklung
 der Dinge belauscht hatte, unterzog das ungleiche
-edle Paar sofort einem Verhör. Gröblich sollten wir nun
+edle Paar sofort einem Verhör. Endlich sollten wir nun
 über Pieter van Dürens immer noch bis dahin reichlich
 geheimnisvolle Persönlichkeit genauen Aufschluß erhalten. Er,
-der gemalt wie die Baronin aus Tölz eiligst verschwunden
+der genau wie die Baronin aus Tölz eiligst verschwunden
 war, nachdem die Polizei ihnen so etwas auf den Zahn
 gefühlt hatte, waren in München zusammengetroffen und
 hatten vereinbart, durch einen Gewaltstreich die Juwelen und
 das Geld zurückzuerobern. Pieter hatte den Baum vor dem
-Amtsgericht erklettert, und alles war so weit Programms
-mäßig verlaufen, nur … nur wir hatten nicht Gussy erwischt
+Amtsgericht erklettert, und alles war so weit Programm-
+mäßig verlaufen, nur … nur *wir* hatten nicht Gussy erwischt
 — wieder nicht!
 
 Beim Verhör heulte die Baronin ganze Tränenbäche …
 Düren mußte zugeben, in Wahrheit Privatdetektiv zu sein —
 aus Amsterdam, einer von jener Sorte, die stets mit einem
 Fuße im Zuchthaus und mit dem andern auf dem schmalen
-Pfad? sogenannter Ehrbarkeit stet.
+Pfade sogenannter Ehrbarkeit steht.
 
 Beide zeigten jedoch ehrliche Reue, und sie kamen denn
 auch später vor Gericht billig davon. Beiden konnte ein
@@ -1955,55 +1975,58 @@ Jahr Gefängnis nichts schaden. Wir haben von ihnen nie
 wieder etwas gehört.
 
 Es war halb vier Uhr morgens, als das Verhör beendet
-wurde. Dürnguber hatte protokolliert — strahlend — als
-Sieger! — Nun wurden die beiden machte Nummer Sicher
+wurde. Dürnhuber hatte protokolliert — strahlend — als
+Sieger! — Nun wurden die beiden nach Nummer Sicher
 gebracht, und der Amtsrichter gähnte verstohlen und meinte:
 
-»Im — wie wird’s nun mit Gussy Wendnoor?!«
+»Hm — wie wird’s nun mit Gussy Wendnoor?!«
 
 <@pagebreak/>
 Harst gähnte auch,
+
 »Morgen!!« winkte er ab … »Für heute ist’s genug …«
-« Dabei blieb’s. —
-Um vier lagen wir in unseren Betten. In schlief im
-Ansehen ein.
+
+Dabei blieb’s. —
+
+Um vier lagen wir in unseren Betten. Ich schlief im
+Umsehen ein.
 
 <h2>4. Kapitel.</h2>
-<h3>Sensation!!.</h3>
+<h3>Sensation!!</h3>
 
-Ja, Jolle hatte damals seine Sensation …
+Ja, Tölz hatte damals seine Sensation …
 
 Ganz Tölz war voll von dem Geschehenen. Auf der Brunnenpromenade
 gab’s nur ein Thema: Der Amtsrichter!
 
 … Gab’s nur eine Stimme: Harst hat versagt!! —
 
-Und das fing für uns so an …
+Und das fing für uns *so* an …
 
 So, — indem jemand mit den Fäusten gegen fünf Uhr
 gegen unsere Tür ballerte …
 
 Eis war der Hausdiener.
 
-Es war eine unglaubliche RüÜFsichtslosigkeit, mich schon
-nach einer Stunde, wieder zu wecken … Ich fluchte …
-der schluckte weitere Flüche hinunter, als der Bayer durch
+Es war eine unglaubliche Rücksichtslosigkeit, mich schon
+nach einer Stunde wieder zu wecken … Ich fluchte …
+Aber schluckte weitere Flüche hinunter, als der Bayer durch
 die Tür brüllte:
 
 <@pagebreak/>
 »Den Herrn Amtsrichter haben’s unten am Fluß gefunden
-— mausitok!! Der Dürnhuber san’ auch da …«
+— mausitot!! Der Dürnhuber san’ auch do …«
 
 Harald riegelte auf, und Xaver kam herein, ganz blaß.
 So weit dies bei seinem gebräunten Gesicht möglich, denn er
-war eifriger Sportler, Kanufahrer, Krachen und Radler.
+war eifriger Sportler, Kanufahrer, Kraxler und Radler.
 
 »So schlimm ist’s nicht,« sagte er sofort. »Der Sepp
-red’ da was daher von mausttok … Nur bewußtlos ist
-der Herr Amtsrichter und nur ausgeplündert … »Juwelen
-und Geld san’ weg.
+red’ da was daher von mausitot … Nur bewußtlos ist
+der Herr Amtsrichter und nur ausgeplündert … Juwelen
+und Geld san’ weg."
 
-Nur ausgeplündert!!
+*Nur* ausgeplündert!!
 
 Harald setzte sich auf den Bettrand und meinte:
 
@@ -2012,24 +2035,23 @@ Harald setzte sich auf den Bettrand und meinte:
 Xaver aber redete weiter …
 
 Er war, von dunklen Ahnungen geängstigt, dem Amtsrichter
-von eine Weile gefolgt. Genau dort, wo der Kampf
+noch eine Weile gefolgt. Genau dort, wo der Kampf
 vorhin sich abgespielt und Herr Pieter van Düren sein
-Nasenbein eingebüßt, hatte Dürnhuber seinen Vorgesetzten.
+Nasenbein eingebüßt, hatte Dürnhuber seinen Vorgesetzten
 im Grase gefunden. Scheinbar tot …
 
--… Aber er lebte noch … der Puls ging … Er roch
-
-nur!so … so nach Doktor,« ’drücte sich Xaver ein wenig
+"… Aber er lebte noch … der Puls ging … Er roch
+nur so … so nach Doktor,« drückte sich Xaver ein wenig
 unklar aus.
 
 »Vielleicht Chloroform,« meinte ich.
 
 »Mag sein, Herr Schraut … — Ich trug ihn rasch hierher
-und …
+und …"
 
 »Wohin?« fragte Harst.
 
-»Hier in ’n Bettler … Er liegt hin Sepps Kammer
+»Hier in ’n Schettler … Er liegt in Sepps Kammer
 droben … Er spricht schon …«
 
 Wir eilten in unseren Schlafanzügen nach oben.
@@ -2038,19 +2060,19 @@ Der Amtsrichter lag auf Sepps Bett und begrüßte uns
 gutgelaunt …
 
 »Eine nette Schweinerei, meine Herren … Nun bin
-ich den ganzen Kram los« —
+ich den ganzen Kram los!«
 
 <@pagebreak/>
-»Fuß mir aufrichtig leid,« jagte Harald. »Wie kam
+»Tut mir aufrichtig leid,« sagte Harald. »Wie kam
 das denn?«
 
 »Sehr schnell … Ich ging unten an der Isar entlang …
 Ein buckliger alter Kerl begegnete mir und bat um Feuer
-für seine Greise. Mit einem Male drückte er mir einen
+für seine Pfeife. Mit einem Male drückte er mir einen
 Lappen vor das Gesicht und die Kehle halb zu. Weiter
-weiß in nichts.«
+weiß ich nichts.«
 
-»Ja, die Wendnoor in nickte Harald. »Damit hatte
+»Ja, die Wendnoor ...!!" nickte Harald. »Damit hatte
 ich allerdings nicht gerechnet. Sie muß uns im Atelier
 belauscht haben, als Herr Dürnhuber seine Beobachtungen
 erzählte, sie wußte also, wo die Beute zu finden und
@@ -2058,51 +2080,51 @@ sie richtete sich danach.«
 
 Der Amtsrichter setzte sich aufrecht.
 
-»Gent Harst, wo ist das Weib?«
+»Herr Harst, wo ist das Weib?«
 
-»Feine Ahnung …«
+»Keine Ahnung …«
 
-»Liebling nicht?«
+»Wirklich nicht?«
 
-»Nein. Wie soll im Ihnen sagen können, wo sie jetzt
-Ut?! Ich weiß nur, wo. ich sie am Tage finden kann.
+»Nein. Wie soll ich Ihnen sagen können, wo sie jetzt
+ist?! Ich weiß nur, wo ich sie am Tage finden kann.
 Deshalb: Gehen wir schlafen!«
 
 Und es war mit ihm nichts anzufangen: Er wollte
 ins Bett!
 
-»Morgen nachmittag!!« versprach er. »Dann — des
-nimm!!«
+»Morgen nachmittag!!« versprach er. »Dann — be-
+stimmt!«
 
 Xaver brachte den Amtsrichter heim. Wir krochen wieder
 in die Federn. Sepp sorgte dafür, daß ganz Tölz morgens
 das Geschehene erfuhr und daß bei der Brunnenpromenade
 unser Loblied in allen Mißtönen gesungen wurde. Da
-liebsten wir noch.
+schliefen wir noch.
 
 Um elf wurde ich munter. Harald rasierte sich schon.
 Draußen regnete es.
 
-Ich gähnte kräftig, wünschte dem Eingesetzten guten
+Ich gähnte kräftig, wünschte dem Eingeseiften guten
 Morgen und fragte:
 
 <@pagebreak/>
-»Wo ist Gattin Wendnoor?’«
+»Wo ist Gussy Wendnoor?«
 
 Zu meinem Erstaunen bekam ich Antwort.
 
-»Ich habe sie um halb eine auf das Anmtsgericht bestellt.
+»Ich habe sie um halb eins auf das Amtsgericht bestellt.
 Sepp war schon bei der Polizei.«
 
 Diese Antwort setzte mich in Erstaunen,
 
 »Bestellt, Harald?!«
 
-»X.
+»Ja ..."
 
-»Wie das?!«?
+»Wie das?!«
 
-»Ich bin seit halb elf wach, war!&in unten im
+»Ich bin seit halb elf wach, war schon unten im
 Bräustübl und habe die Polizei und dann Fräulein Langner
 angerufen.«
 
@@ -2111,37 +2133,37 @@ angerufen.«
 »Hat die Polizei im Hotel Madlener in aller Stille
 Fräulein Langners zweite Pflegerin verhaftet.«
 
-»Ab h1«
+»Ah!!«
 
 »Und das ist Gussy …«
 
-»Nichts möglich!«
+»Nicht möglich!«
 
-»Docht, doch;, mein Alter. Es ist eben die Person, die
+»Doch, doch, mein Alter. Es ist eben die Person, die
 gestern an der Trinkhalle vor dem Musikpavillon den
 Krankenstuhl schob, die mit der Brille …«
 
 »Also die vom Kalvarienberg, die Weinende — auf der
-Bank.««
+Bank.«
 
-»Ja. — Gussy bat folgendermaßen operiert … Sie hat
+»Ja. — Gussy hat folgendermaßen operiert … Sie hat
 sich selbst hier Fräulein Langner als Pflegerin angeboten,
-hat Zerfällt, sie befinde sich in bitterer Not — und so
-weiter … — Es glühte. In dieser Volle glaubte sie sich
-ganz sicher. Aber Hektor witterte sie vor dem Musikpavillon,
-Er kannte sie durchs Henderson, er kannte ihren »Geruch«,
+hat erklärt, sie befinde sich in bitterer Not — und so
+weiter … — Es glückte. In dieser Rolle glaubte sie sich
+ganz sicher. Aber Hektor witterte sie vor dem Musikpavillon.
+Er kannte sie durch Henderson, er kannte ihren »Geruch«,
 und er mochte sie offenbar nicht leiden. Er knurrte nicht
 die alte Dame an, sondern Gussy.«
 
 Die Dogge lag noch faul und mächtig vor dem kleinen
 <@pagebreak/>
-Ofen. ’BlelleiHt verstand sie, daß von ihr die Rede war,
-Sie hob den prachtvollen Kopf und meldete.
+Ofen. Vielleicht verstand sie, daß von ihr die Rede war.
+Sie hob den prachtvollen Kopf und wedelte.
 
 Ich sagte vorwurfsvoll:
 
-»Du wußtest also gestern früh hingen, wo und wer
-Gussy warst« …
+»Du wußtest also gestern früh schon, wo und wer
+Gussy war!!«
 
 »Ich vermutete es … — Nun mach’ dich fertig. —
 Wir wollen frühstücken …«
@@ -2153,12 +2175,12 @@ Schlage an den toten Henderson dachte.
 
 »Ja … leider. — Eifersucht!« —
 
-Ich machte hier vielleicht, indem ich diese klare -Antwort
-Harsts hier schon erwähne, vielleicht einen Fehler: Ich be
-einstöckige das spannende Moment! — Aber ich halte
+Ich mache hier vielleicht, indem ich diese klare Antwort
+Harsts hier schon erwähne, vielleicht einen Fehler: Ich beeinträchtige
+das spannende Moment! — Aber ich halte
 mich eben streng an die Tatsachen. —
 
-Hiermit war Harsts Redseligkeit auf erschöpft.
+Hiermit war Harsts Redseligkeit auch erschöpft.
 
 Erst im Zimmer des Amtsrichters fand er die Sprache
 wieder.
@@ -2166,21 +2188,22 @@ wieder.
 <@pagebreak/>
 
 <h2>5. Kapitel.</h2>
-<h3>»Die Schere.</h3>
+<h3>Die Schere.</h3>
 
-— Der Berg der Erienntnis …
+— Der Berg der Erkenntnis …
+
 Kalvarienberg …
 
-» +
+* * *
 
-Aus; wurde vorgeführt.
+Gussy wurde vorgeführt.
 
-Draußen goß es in Strömen. Wie Tränenfluten ’rannen
-die!Schweren Tropfen an den Scheiben des Dienstzimmers
+Draußen goß es in Strömen. Wie Tränenfluten rannen
+die Schweren Tropfen an den Scheiben des Dienstzimmers
 entlang.
 
 Man hatte Gussy die Brille abgenommen, und sie
-selbst hatte!ich die Schminke aus dem Gesicht gewischt, hatte
+selbst hatte sich die Schminke aus dem Gesicht gewischt, hatte
 ihr wahres Aussehen wiederhergestellt.
 
 »Setzen Sie sich!« sagte der Amtsrichter streng.
@@ -2192,28 +2215,28 @@ Vor dem Amtsrichter lagen die Juwelen, das Geld,
 eine vergoldete Schere, eine kleine Repetierpistole und
 anderes, was man in Gussys Koffer gefunden hatte.
 
-Aus die Schreck!l
+Auch die Schere!!
 
-Wie kam die hbhierher?1t
+Wie kam die hierher?!
 
 <@pagebreak/>
-Harald hatte sie« doch eingewickelt in die Innentasche
+Harald hatte sie doch eingewickelt in die Innentasche
 der Weste gesteckt! Sollte er sie verloren haben?!
 
 Gussys hübsches, pikantes Gesicht zeigte einen geradezu
-gramvollen Ausdrücke. Tiefste Müdigkeit und Niedergeschlagenheit
+gramvollen Ausdruck. Tiefste Müdigkeit und Niedergeschlagenheit
 sprachen aus ihrer Haltung.
 
 Sie hatte Harald nur flüchtig angeblickt — ohne Haß,
-»ohne Groll …
+ohne Groll …
 
-— Harald wandte sich an »den Amtsrichter.
+Harald wandte sich an den Amtsrichter.
 
-»Sie gestatten wohl …
+»Sie gestatten wohl …"
 
-»Bitte … gern …
+»Bitte … gern …"
 
-Harst flaute Gussy an.
+Harst schaute Gussy an.
 
 »Gestern mittag trafen wir Sie weinend auf einer
 Bank des Kalvarienberges. Ich vermutete, daß Sie Gussy
@@ -2222,7 +2245,8 @@ merkte nichts. Sie sahen es. Sie konnten annehmen, die
 Schere sei mir zufällig aus der Tasche geglitten. Sie hoben
 sie auf, denn es war ja ein Andenken an Joe oder James
 Henderson, Ihren Geliebten, um den Sie weinten, weil er
-»Sie mit Frau Anger betrog.«
+Sie mit Frau Anger betrog.«
+
 Gussy schluchzte leise.
 
 »Und dann borgten Sie sich, als junger Mann verkleidet,
@@ -2236,63 +2260,62 @@ Pause …
 
 »In Bayrischzell geschah was?«
 
-Sie antwortete nicht. Sie zitterte nur … Ihr ganze!
+Sie antwortete nicht. Sie zitterte nur … Ihr ganzer
 Körper flog wie im Krampf.
 
 »Ich kann Ihnen sagen, was geschah,« fuhr Harald
 halb mitleidig fort. »Die Eifersucht hatte Ihnen den Verstand
-getrübt … Sie hatten längst Verdacht geschöpft, das
+getrübt … Sie hatten längst Verdacht geschöpft, daß
 Henderson Ihnen untreu. Da lasen Sie in der Tölzer Zeitung
-von der Depesche, die er nach; München »gesandt — an
+von der Depesche, die er nach München gesandt — an
 <@pagebreak/>
-Rest Quer, — da sahen Sie ihn am Brunnen mit der
+Resi Quer, — da sahen Sie ihn am Brunnen mit der
 Witwe … Und dann fanden Sie die Schere wieder, nahmen
-erste mit nach Bayrischzell …«
+sie mit nach Bayrischzell …«
 
 Gussy hatte sich  zusammengekrümmt und weinte herzzerbrechend
 …
 
-»Wke gesagt, — Sie waren nicht ganz normal, als
-Sie dem Paar mit dem Motorrad folgten. Sie schien den
+»Wie gesagt, — Sie waren nicht ganz normal, als
+Sie dem Paar mit dem Motorrad folgten. Sie schlichen den
 beiden in Bayrischzell nach — bis zu jener schroffen Wand
-am Wendelstein. Sie erreichten die beiden nachdem schmalen
-Vorsprung …
+am Wendelstein. Sie erreichten die beiden auf dem schmalen
+Vorsprung …"
 
-»Sie … — führen sich grade schrie Gussy aufspringend.
+»Sie … küßten sich grade!" schrie Gussy aufspringend.
 »Sie küßten sich, und er … er … war mein Gatte, nicht
 mein Geliebter …«
 
 Sie war wie eine Furie.
 
-»—. Sie küßten sich … — und ich hatte die Schere,
-sein Geschenkt«
+»... Sie küßten sich … — und ich hatte die Schere,
+sein Geschenk!!«
 
 Mit einem wehen Laut sank sie auf den Stuhl zurück
 und bedeckte das Gesicht mit den Händen.
 
-»Harald ging um den Tisch herum.
+Harald ging um den Tisch herum.
 
 Er legte ihr die Hand leicht auf die Schulter.
 
 »Gussy Wendnoor, Sie haben mit der Schere das Seil
 zerschnitten …!«
 
-Sie schwieg … — weinte …
+Sie schwieg … weinte …
 
 »Sie waren von Sinnen, Sie handelten blindlings! —
 ohne Überlegung … Sie wollten Henderson der anderen
-entreißen, er glitt aus, stürzte: über den Rand des Vorsprünge
-in die Tiefe … Sie nahmen die Herr und zerschnitten
-das Seil … Es riß sehr bald …
+entreißen, er glitt aus, stürzte: über den Rand des Vorsprungs
+in die Tiefe … Sie nahmen die Schere und zerschnitten
+das Seil … Es riß sehr bald …"
 
-»Es … riß!!« stöhnte die Mörderin … »Es — — riß!«
-und da kam sich zu mir … und kletterte »hinab zu ihm,
-
-den ich liebte … Und … entfloh … Er war Kot — —
+»Es … riß!!« stöhnte die Mörderin … »Es — — riß!
+und da kam ich zu mir … und kletterte hinab zu ihm,
+den ich liebte … Und … entfloh … Er war tot — —
 tot …«
 
 <@pagebreak/>
-— Und … totenstill war’s in dem Zimmer …
+Und … totenstill war’s in dem Zimmer …
 
 Der Amtsrichter schaute zur Seite …
 
@@ -2305,28 +2328,26 @@ Harst behielt seine Hand auf ihrer Schulter …
 »Sprachen Sie noch mit Frau Anger?«
 
 »Nein … nein … Sie rief mir nur zu, daß sie nichts
-verraten würde … Ein Unfall sie’s gewesen …«
+verraten würde … Ein Unfall sei’s gewesen …«
 
-»Ja, und Frau Anger hat dann die Sterbenden mit
+»Ja, und Frau Anger hat dann die Strickenden mit
 ihrem Messer zerfasert … Sie fürchtete für sich selbst, daher
 wollte sie Sie schonen … Sie ist Hehlerin …«
 
-Er drehte ist nach Dürnhuber um.
+Er drehte sich nach Dürnhuber um.
 
 »So, nun schreiben Sie … Ich werde diktieren …« —
 
 Tragödie der Eifersucht … Tragödie der Hochstapler …
 
 Gussy unterschrieb und wankte hinaus — zurück in ihre
-Zelle …«-
+Zelle … --
 
-+
-
-ab)
+* * *
 
 Ich habe nur noch wenig hinzuzufügen …
 
-Daß Gussy gar. demselben Tage noch in ihrer Zelle sich
+Daß Gussy an demselben Tage noch in ihrer Zelle sich
 vergiftete, stand in allen Zeitungen.
 
 Daß Frau Rosa Anger ins Zuchthaus wanderte — desgleichen.
@@ -2335,156 +2356,40 @@ Nur über Xaver Dürnhuber, unseren jungen Freund,
 weiß die Öffentlichen noch nichts.
 
 Er hat Karriere gemacht. Er hatte das Zeug zum
-tüchtigen Kriminalbeamten. Ihm fehlte nur die Schuhe, die
+tüchtigen Kriminalbeamten. Ihm fehlte nur die Schule, die
 Lehre, die strenge Lehrzeit bei Harst.
 
-Eine jener Verknüpfungen seltsamer Umstand?, die man
-leichthin mit »Zufall« bezeichnet, sollte uns duckt Xaver
-nordwärts führen — dorthin, wo das Meer gegen Beides
+Eine jener Verknüpfungen seltsamer Umstände, die man
+leichthin mit »Zufall« bezeichnet, sollte uns durch Xaver
+nordwärts führen — dorthin, wo das Meer gegen Deiche
 <@pagebreak/>
-stammt und die See jährlich ihre vielen Opfer fordert:
-Nordsee — Mörders!
+schäumt und die See jährlich ihre vielen Opfer fordert:
+Nordsee — Mordsee!
 
-In der Schwimmenden Grotte« will ich; von
+In der »*Schwimmenden Grotte*« will ich von
 Xaver Dürnhuber weiter berichten. —
 
-+
-4
+* * *
 
 Weiß leuchtet aus ernstem Grün die Kalvarienkirche …
 
-Und weit hinter ihr, wo das Isartal Flachland!Harst,
+Und weit hinter ihr, wo das Isartal Flachland schafft,
 leuchtet die weiße Mauer des Friedhofes von Tölz …
 
 Ein schöner, stiller Park der Toten …
 
-Dort an der Mauer liegt Aneignet Henderson begraben
-—» neben ihm Gussy Wendnoor …
+Dort an der Mauer liegt Joe-James Henderson begraben
+— neben ihm Gussy Wendnoor …
 
 Zwischen den Gräbern steht ein einfacher Sandsteinblock
 mit goldenem Kreuz und der goldenen Inschrift:
 
-Gott ist die Liebe.
+> Gott ist die Liebe.
 
-Und wenn die FranziskanermönhHhe durch die Gräberreihen.
+Und wenn die Franziskanermönche durch die Gräberreihen
 schreiten, begießen sie wohl auch die Blumen der
-beiden schlichten Hügel; —
+beiden schlichten Hügel! —
 
-— Ich glaube, Harald hat den Stein setzen lassen, und der
+Ich glaube, Harald hat den Stein setzen lassen, und der
 Amtsrichter hat auch mit dazu beigetragen.
 
-<@pagebreak/>
-
-Schrieb die 56 beliebten, äußerst Spannenden
-
-ab
-
-Romane:
-
-Per Je See
-
-… Ming Lichtung.
-
-… Thomas Brut, der Sträfling.
-… Die rote Rose.
-… Das Atlantikgespenst.
-
-Die Schildkröte.
-
-… Die grüne Schlange.
-
-— Das Teekästchen.
-
-… Die Totgeweihten.
-
-… Der Krokodillederkoffer.
-… Treff-As.
-
-… Der Wilddieb.
-
-… Die leere Villa.
-
-… Der Klub der Toten.
-
-… Der Mann mit der Narbe.
-… Die silberne Scheibe.
-
-… Die Millionenbeute.
-
-… Die Eisentafel.
-
-John Bootsleute Hochzeitsreise.
-
-… Die Toten Briefe.
-— Das Nadiogespenst.
-
-(Fortsetzung auf der nächsten Seite.)
-<@pagebreak/>
-21\.
-22\.
-23\.
-24\.
-… 2b.
-26\.
-27\.
-28\.
-29\.
-30\.
-31\.
-32\.
-33\.
-34\.
-35\.
-36\.
-87\.
-38\.
-39\.
-40\.
-41\.
-42\.
-43\.
-44\.
-45\.
-
-Die Rattenfalle.
-
-Die eiserne Frau.
-
-Das Zeitschrift.
-
-Der Zauberblick.
-
-Die Ladygaunerin.
-
-Der Saal ohne Fenster.
-Als Harst verschwand …
-Die Hand aus Holz.
-Der Geistersucher.
-Schraut gegen Harst.
-Die Jacht mit den drei Mumien,
-Die Antenne im Fürsten Stall.
-Das Gespenst von Kap Dicht-Lag.
-Der weiße Tiger.
-
-Fünf Finger am Fenster.
-
-Das Rätsel der Bewenden-Bande.
-Das Haus auf Abbruch.
-
-Die Fühlte des Kapitäns.
-
-Der Kirchhof von Hatten.
-Fräulein Ginas Abenteuer.
-Ritter der Landstraße.
-
-Der Stein der Wangerowsck5.
-Die Hölle der Verdammten.
-Das blasse Antlitz.
-
-Der blaue Weiher.
-
-Erschienen bis Band 45 (Schlußbanch…
-
-Jeder Band kostet nur 23 Pfennige. Sie erhalten
-Schüsse Zehnmal-Romane durch Ihre Buchhandlung;
-Schenkel durch: Verlag Andenken Lektüre, Berlin SO16G …
