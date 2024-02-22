@@ -1,61 +1,62 @@
 <@pagebreak 63/>
 
-<div style="font-size: xx-large">Derselbe Autor</div>
+<div style="font-size: 4em;">Derselbe Autor</div>
 
-<div style="font-size: large">schrieb die so beliebten, äußerst spannenden</div>
+<div style="font-size: large;">schrieb die so beliebten, äußerst spannenden</div>
 
-<div style="font-size: x-large">Kriminal-<br/>Romane:</div>
+<div style="font-size: 3em;">Kriminal-<br/>Romane:</div>
 
-1. Ming Tschuan.
-2. Thomas Bruck, der Sträfling.
-3. Die rote Rose.
-4. Das Atlantikgespenst.
-5. Die Schildkröte.
-6. Die grüne Schlange.
-7. Das Teekästchen.
-8. Die Totgeweihten.
-9. Der Krokodillederkoffer.
-10. Treff-As.
-11. Der Wilddieb.
-12. Die leere Villa.
-13. Der Klub der Toten.
-14. Der Mann mit der Narbe.
-15. Die silberne Scheibe.
-16. Die Billionenbeute.
-17. Die Tigerinsel.
-18. John Goodsteks Hochzeitsreise.
-19. Die roten Briefe.
-20. Das Radiogespenst.
-<@pagebreak/>
-21. Die Rattenfalle.
-22. Die eiserne Frau.
-23. Das Teufelsriff.
-24. Der Zauberblick.
-25. Die Ladygaunerin.
-26. Der Saal ohne Fenster.
-27. Als Harst verschwand.
-28. Die Hand aus Holz.
-29. Der Geistersucher.
-30. Schraut gegen Harst.
-31. Die Jacht mit den drei Mumien,
-32. Die Antenne im fünften Stock.
-33. Das Gespenst von Kap Tschi-Lao.
-34. Der weiße Tiger.
-35. Fünf Finger am Fenster.
-36. Das Rätsel der Heufuder-Baude.
-37. Das Haus auf Abbruch.
-38. Die Kiste des Kapitäns.
-39. Der Kirchhof von Lanken.
-40. Fräulein Ginas Abenteuer.
-41. Ritter der Landstraße.
-42. Der Stein der Wangerows.
-43. Die Hölle der Verdammten.
-44. Das blasse Antlitz.
-45. Der blaue Weiher.
+<ol style="margin-left: 5em;">
+<li>Ming Tschuan.</li>
+<li>Thomas Bruck, der Sträfling.</li>
+<li>Die rote Rose.</li>
+<li>Das Atlantikgespenst.</li>
+<li>Die Schildkröte.</li>
+<li>Die grüne Schlange.</li>
+<li>Das Teekästchen.</li>
+<li>Die Totgeweihten.</li>
+<li>Der Krokodillederkoffer.</li>
+<li>Treff-As.</li>
+<li>Der Wilddieb.</li>
+<li>Die leere Villa.</li>
+<li>Der Klub der Toten.</li>
+<li>Der Mann mit der Narbe.</li>
+<li>Die silberne Scheibe.</li>
+<li>Die Billionenbeute.</li>
+<li>Die Tigerinsel.</li>
+<li>John Goodsteaks Hochzeitsreise.</li>
+<li>Die roten Briefe.</li>
+<li>Das Radiogespenst. <@pagebreak/></li>
+<li>Die Rattenfalle.</li>
+<li>Die eiserne Frau.</li>
+<li>Das Teufelsriff.</li>
+<li>Der Zauberblick.</li>
+<li>Die Ladygaunerin.</li>
+<li>Der Saal ohne Fenster.</li>
+<li>Als Harst verschwand.</li>
+<li>Die Hand aus Holz.</li>
+<li>Der Geistersucher.</li>
+<li>Schraut gegen Harst.</li>
+<li>Die Jacht mit den drei Mumien,</li>
+<li>Die Antenne im fünften Stock.</li>
+<li>Das Gespenst von Kap Tschi-Lao.</li>
+<li>Der weiße Tiger.</li>
+<li>Fünf Finger am Fenster.</li>
+<li>Das Rätsel der Heufuder-Baude.</li>
+<li>Das Haus auf Abbruch.</li>
+<li>Die Kiste des Kapitäns.</li>
+<li>Der Kirchhof von Lanken.</li>
+<li>Fräulein Ginas Abenteuer.</li>
+<li>Ritter der Landstraße.</li>
+<li>Der Stein der Wangerows.</li>
+<li>Die Hölle der Verdammten.</li>
+<li>Das blasse Antlitz.</li>
+<li>Der blaue Weiher.</li>
+</ol>
 
-Erschienen bis Band 45 (Schlußband).
+<p style="margin-left: 5em;">Erschienen bis Band 45 (Schlußband).</p>
 
-<div style="font-size: large; text-align: center;">Jeder Band kostet nur <div style="font-size: xx-large;">25</div> Pfennige. Sie erhalten
+<div style="font-size: large; font-weight: bold; text-align: center;">Jeder Band kostet nur <span style="font-size: xx-large;">25</span> Pfennige. Sie erhalten
 diese Kriminal-Romane durch Ihre Buchhandlung,
 sonst durch: Verlag moderner Lektüre, Berlin SO16.</div>
 
