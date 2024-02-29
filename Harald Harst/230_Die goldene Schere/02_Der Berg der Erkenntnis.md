@@ -440,7 +440,7 @@ hier?!«
 <h3>Ein zweites Paar.</h3>
 
 Herr Kanzlist Xaver Dürnhuber entpuppte sich im Licht
-der elektrischen Lampen des Kreises als ein junger, sonngebräunter
+der elektrischen Lampen des Ateliers als ein junger, sonngebräunter
 Bursch mit klaren, lustigen Augen und einer
 unter dem offenen Hemd stark gewölbten Brust. Er trug hirschlederne
 Buxen, grüne Wadenstrümpfe, genagelte Schuhe und
@@ -625,7 +625,7 @@ Es war Tanzmusik, es war eine amerikanische Station.
 Wir sahen auch gerade noch die Spitzen von vier Röhren
 droben silbern blinken — auf einem Tischchen vor dem
 Fenster, sahen einen Kopf, dazu Hände, die irgendwie in
-Tätigkeit: Ein jünger Mensch! — Vielleicht ein Geselle
+Tätigkeit: Ein junger Mensch! — Vielleicht ein Geselle
 des Mechanikers, der unten im Hause seinen Laden hatte.
 Die Musik war leise, aber klar …
 
@@ -748,7 +748,7 @@ Und das fing für uns *so* an …
 So, — indem jemand mit den Fäusten gegen fünf Uhr
 gegen unsere Tür ballerte …
 
-Eis war der Hausdiener.
+Es war der Hausdiener.
 
 Es war eine unglaubliche Rücksichtslosigkeit, mich schon
 nach einer Stunde wieder zu wecken … Ich fluchte …
@@ -940,7 +940,7 @@ Kalvarienberg …
 Gussy wurde vorgeführt.
 
 Draußen goß es in Strömen. Wie Tränenfluten rannen
-die Schweren Tropfen an den Scheiben des Dienstzimmers
+die schweren Tropfen an den Scheiben des Dienstzimmers
 entlang.
 
 Man hatte Gussy die Brille abgenommen, und sie
@@ -1094,7 +1094,7 @@ vergiftete, stand in allen Zeitungen.
 Daß Frau Rosa Anger ins Zuchthaus wanderte — desgleichen.
 
 Nur über Xaver Dürnhuber, unseren jungen Freund,
-weiß die Öffentlichen noch nichts.
+weiß die Öffentlichkeit noch nichts.
 
 Er hat Karriere gemacht. Er hatte das Zeug zum
 tüchtigen Kriminalbeamten. Ihm fehlte nur die Schule, die

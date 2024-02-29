@@ -37,7 +37,7 @@
 <li>Die Hand aus Holz.</li>
 <li>Der Geistersucher.</li>
 <li>Schraut gegen Harst.</li>
-<li>Die Jacht mit den drei Mumien,</li>
+<li>Die Jacht mit den drei Mumien.</li>
 <li>Die Antenne im fünften Stock.</li>
 <li>Das Gespenst von Kap Tschi-Lao.</li>
 <li>Der weiße Tiger.</li>

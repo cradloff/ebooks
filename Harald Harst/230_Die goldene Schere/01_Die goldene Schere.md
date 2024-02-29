@@ -205,17 +205,18 @@ fällt! Der »Saupreiß« spielt hier noch immer eine Rolle
 Der Jüngling machte sich dünne. — —
 
 Das Schettler-Bräu hat’s in sich … Wer da denkt,
-er Tränke Ammenmilch, — — ich gratulier’!! Schon das
+er tränke Ammenmilch, — — ich gratulier’!! Schon das
 dritte Maß merkt man im Geblüt. Das vierte erzeugt eine
 gewisse Schwere in den Beinen, das sechste verhilft unbedingt
 zu tiefem Nachtschlaf. Und der tat uns Not.
 
 Um Uhre elf entfleuchten wir der Bräuhaus-Luft und
 kletterten die Stiege zu unserem Balkonzimmer empor. Ich
-sang das schone Lied:
+sang das schöne Lied:
 
-> So lang’ noch die Maß an die Goschen paßt,<br/>
-wird keine Arbeit angefaßt …
+> So lang’ noch die Maß an die Goschen paßt,
+
+> wird keine Arbeit angefaßt …
 
 Hektor trottete vorwurfsvoll knurrend hinterdrein. Ich
 hatte Schere, Gussy, James, Mittenwald — alles mit
@@ -379,7 +380,7 @@ Wir wandelten wieder vor dem Musikpavillon auf und ab.
 
 Ein eleganter Krankenstuhl mit Gummirädern, in dem
 eine ältere, blasse Dame, betreut von einer Pflegerin in
-Schwesterntracht, ward hier leider Anlaß eines etwas Peinlichen
+Schwesterntracht, ward hier leider Anlaß eines etwas peinlichen
 Zwischenfalls.
 
 Hektor, bisher sehr manierlich, verließ plötzlich seinen
@@ -591,7 +592,7 @@ legte … »Ein Mord, Harald?!«
 Und ich könnte dir nur antworten: Ich habe den Mord
 nur im Gefühl! Es spricht bisher sogar nichts, gar nichts
 <@pagebreak/>
-für die Möglichkeit eines sollen Verbrechens, aber — dennoch:
+für die Möglichkeit eines solchen Verbrechens, aber — dennoch:
 Ich wittere es voraus! Meine Ahnungen trügen
 selten …«
 
@@ -718,7 +719,7 @@ ist eng und scharf gekrümmt, geht stark bergauf.
 Hier müßte die Stadtverwaltung unbedingt Wandel schaffen.
 Dieser Engpaß ist bei dem lebhaften Verkehr zumal bei
 Regenwetter äußerst unangenehm. Die Lehmspritzer, die die
-Autos hervorrufen, sind keine wünschenswerte Andenken an
+Autos hervorrufen, sind keine wünschenswerten Andenken an
 Tölz.
 
 »Wo fandest du sie?« fragte ich, da Harsts Aufmerksamkeit
@@ -814,7 +815,7 @@ können?!«
 Ich begriff …
 
 »Also diese Resi sollte die Beute nötigenfalls vom Fensterbrett
-Holen?«
+holen?«
 
 »Ich denke … Und ich denke weiter, daß Gussy Wendnoor
 von der Existenz dieser Resi nichts ahnt und daß Henderson
@@ -825,7 +826,7 @@ Henderson ist, die Witwe sehr gut Resi Quer sein kann …«
 so sehr in der Luft, lieber Harald …«
 
 »Ja, genau wie mein Vorgefühl einer Katastrophe …
-eines Mordes, irgendeines Ereignisse, das bevorsteht und
+eines Mordes, irgendeines Ereignisses, das bevorsteht und
 das doch von uns kaum zu verhindern ist …« Er sprach
 ganz leise … Er sprach wie jemand, der im Geiste traumartige
 Gebilde schaut, die er nicht zu entwirren vermag … —
@@ -836,7 +837,7 @@ unserer Unterhaltung, bei dem Inder und der Witwe, angelangt.
 Ich gebe zu, daß ich damals erheblich verkatert war
 und daß mein Hirn durchaus nicht so prompt arbeitete wie
 sonst. Nur diesem Umstande war es zuzuschreiben, daß ich
-einen unverzeihlicher Fehler beging. Worin dieser bestand,
+einen unverzeihlichen Fehler beging. Worin dieser bestand,
 ersieht der Leser im folgenden.
 
 <@pagebreak/>
@@ -943,7 +944,7 @@ Mehr nicht.
 
 »Günstig für jemand,« ergänzte ich, »der nicht gern kontrolliert
 werden will … Wohnt man im »Benedikt« im
-Erdgeschoß, dann kann man nachts durchs das Fenster hinein,
+Erdgeschoß, dann kann man nachts durch das Fenster hinein,
 hinaus, und kein Huhn, kein Hahn kräht danach …«
 
 »Allerdings!« —
@@ -1214,7 +1215,7 @@ sie stützte.
 
 Aber sie hatte Energie, diese Frau. Sie wollte das
 <@pagebreak/>
-Spiel von nicht verloren geben. Sie hatte für diesen
+Spiel noch nicht verloren geben. Sie hatte für diesen
 neuen Angriff bereits eine Abwehr ersonnen.
 
 Sie starrte Harald drohend an. »Nun gut,« sagte sie
