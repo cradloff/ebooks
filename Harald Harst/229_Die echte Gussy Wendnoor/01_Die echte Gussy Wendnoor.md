@@ -351,7 +351,7 @@ blonde kleine Kröte zurückgelassen.
 <@pagebreak/>
 Ich blickte Harst fragend an.
 
-Der band gerade den Kahn wieder am Schiff an der
+Der band gerade den Kahn wieder am Schilf an der
 alten Stelle fest und nahm nun seelenruhig seine Angel
 zur Hand.
 
@@ -434,7 +434,7 @@ was sie nicht wagte, sie oder ihre Genossen.«
 
 Hieran hatte auch ich schon gedacht. Aber ich hatte
 mir gleichzeitig gesagt, daß diese Theorie arge Löcher habe.
-Zum Beispiel: Handelte es sich und Diebesbeute, so war
+Zum Beispiel: Handelte es sich um Diebesbeute, so war
 der Weg der Rückgabe ausgerechnet über Harst als Mittelsperson
 denn doch zu gefährlich und der ganze hierzu aufgebotene
 Apparat zu umständlich und allzu sensationell.
@@ -466,7 +466,7 @@ nehme ich an. Ich denke, wir verzichten vorläufig darauf,
 uns hier diesen Ferientag durch zweckloses Grübeln zu
 vergrämen.«
 
-»Kennst du wirklich verzichten, gerade du?!« — Ich
+»Kannst du wirklich verzichten, gerade du?!« — Ich
 zweifelte daran.
 
 »Ich kann ausschalten, was mir unbequem. Und jetzt will
@@ -606,7 +606,7 @@ Wir saßen beim Angeln mit dem Rücken nach der Insel.
 
 Vorhin, als wir das blonde Mädel gesucht hatten, war
 keine lebende Seele auf dem Inselchen gewesen. Nur Wildenten
-rumorten im Schiff, flogen auf, fielen wieder ein.
+rumorten im Schilf, flogen auf, fielen wieder ein.
 Drüben zogen die weißen Dampfer der Sterngesellschaft
 vorüber — nach Potsdam, von Potsdam. Sehr besetzt waren
 sie nicht. Es war ja überhaupt ein miserabler Sommer.
@@ -768,7 +768,7 @@ Harald in seiner Sommerhausjacke — Bastseide mit helllila
 Verschnürung, fügte träumerisch hinzu: 
 
 <@pagebreak/>
-»Lieber Alter; morgen werde ich Herrn van Düren
+»Lieber Alter, morgen werde ich Herrn van Düren
 anrufen.«
 
 »Warum nicht gleich?«
@@ -1027,7 +1027,7 @@ ein Finanzmagnat unter sehr eigentümlichen Umständen
 … Man barg die Leiche in recht kläglichem Zustand.
 Die Angehörigen argwöhnten einen Mord. Dieser vielfache
 Millionär hatte mir nun kurz vor jener Unglücksfahrt
-diverse Juwelen übergeben, die Ich einer Dame überbringen
+diverse Juwelen übergeben, die ich einer Dame überbringen
 sollte, die zurzeit zur Kur in einem süddeutschen Bade
 weilt. Der Tod verzögerte die Erledigung der Angelegenheit.
 Außerdem hatte die Familie des Toten auch gänzlich unberechtigter
@@ -1055,7 +1055,7 @@ ich fest, daß die Juwelen und die acht Goldstücke mir in
 der Nacht gestohlen worden waren. Die Diebe hatten die
 unteren Füllungen der Doppeltür meines Schlafzimmers
 herausgeschnitten und wieder eingefügt — so tadellos, daß
-Nichts davon zu sehen war. Ich sah es. Ich habe Übung
+nichts davon zu sehen war. Ich sah es. Ich habe Übung
 darin. — Da ich die Polizei nicht benachrichtigen konnte,
 setzte ich Anzeigen in sämtliche Berliner Zeitungen und
 versprach den Gaunern zwanzigtausend Mark …«
@@ -1375,12 +1375,12 @@ wiederkam, verließ ich meinen Posten im Treppenflur und trat
 hier ein. Da fand ich den Echten …«
 
 »Leider!« sagte eine schleimige Stimme aus dem Sessel.
-»Nun bin ich die Juwelen und die Zwanzigtausend Mark
+»Nun bin ich die Juwelen *und* die zwanzigtausend Mark
 los — durch *Ihre* Schuld!«
 
 Ich stand und rieb mir die Stirn …
 
-So halb und halb begriff im alles …
+So halb und halb begriff ich alles …
 
 Nicht ganz … — —
 

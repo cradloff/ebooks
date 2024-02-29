@@ -30,10 +30,10 @@ Tölz noch unterkomme sein — bei *die* Fille!!!«
 
 <@pagebreak/>
 Also das Schettler-Bräu liegt in der Marktstraße im
-Stadtteil das berühmten Jodbades Tölz. Und wir beide
+Stadt-Teil das berühmten Jodbades Tölz. Und wir beide
 waren hier zwei Tage nach den bisher geschilderten Ereignissen
 bei strahlendem Sonnenschein um halb elf vormittags
-mit dem Zuge von Münden als harmlose Badegäste namens
+mit dem Zuge von München als harmlose Badegäste namens
 Hirtser und Schrock (sehr bärtig und sehr schlicht bürgerlich)
 eingetroffen. — Weshalb wir ausgerechnet ein Zimmerchen
 im Schettler wählten, wird dem Leser sehr bald klar
@@ -231,7 +231,7 @@ Familie Löwengaard!«
 
 Er: »Natürlich, wer sonst?! — Gussy kommt als Pieter
 van Düren zu uns, spielt uns eine erstklassige Komödie vor,
-wir fallen glatt darauf hinein, sie ergaunert die Zwanzigtausend
+wir fallen glatt darauf hinein, sie ergaunert die zwanzigtausend
 Mark, die wir ergaunert hatten, und derweil stiehlt
 ihre »Mutter« abermals die Juwelen. Glänzend gemacht!«
 
@@ -348,7 +348,7 @@ Er versteht’s, seine Raketen wirkungsvoll abzufeuern.
 »Zofe — — —?!«
 
 <@pagebreak/>
-»Ja. Seit zwei Wochen. Die Bisherige Zofe erkrankte
+»Ja. Seit zwei Wochen. Die bisherige Zofe erkrankte
 hier, und die Baronin engagierte Fräulein Anni Wend …«
 
 Ich murmelte ehrfurchtsvoll: »Anni Wend …!!«
@@ -386,7 +386,7 @@ Schluß — Wiedersehen,« log ich für van Düren und dachte:
 <@pagebreak/>
 Mark, und *ich* war der blinde Notar, der die gepolsterten
 Wildlederhandschuhe nicht beachtete!« — Ja, mein Alter, so
-liegen die Dinge nun. Was würden du jetzt machen?«
+liegen die Dinge nun. Was würdest du jetzt machen?«
 
 Ich starrte drüben zum Balkon hinüber, wo jetzt eine
 schlanke große Dame neben der Zofe erschienen war, die
@@ -531,7 +531,7 @@ hinab, der Isarbrücke zu. Will man nämlich vom eigentlichen
 und dann ein Stück flußabwärts die fliegende Fähre bei
 dem Restaurant Isarlust, das mir schon immer als eine der
 schönsten Gaststätten von Tölz erschienen ist. — Düren und
-ich benutzen die Brücke. Die Nachmittagssonne enthüllte
+ich benutzten die Brücke. Die Nachmittagssonne enthüllte
 gerade all die bunte Eigenart der alten Fassade des Marienstifts,
 und wie wir so über den rauschenden grünen Fluß
 hinwegschritten, fiel mir ein, daß ich für ein Unternehmen
@@ -830,7 +830,7 @@ wirres Haar …:
 Baronin Sonja van der Leyen!
 
 Die Tigerdogge aber umschwänzelte freudig ihren Herrn,
-der nun meinen armer Freund in einen Sessel fallen
+der nun meinen armen Freund in einen Sessel fallen
 ließ — wie einen nassen Sack.
 
 Harst lag da mit hängenden Armen, glasigen Augen,
@@ -918,7 +918,7 @@ weniger gereizt. »Wie haben Sie es fertig gebracht, meinen
 Freund so betrunken zu machen?«
 
 Vom Sofa her mischte sich da abermals die Baronin
-ein — auch in bescheideneren Tone, denn die Dogge stand
+ein — auch in bescheidenerem Tone, denn die Dogge stand
 dicht vor ihr:
 
 »Meine Zofe also eine Gaunerin, — — ich bin starr!!
@@ -974,7 +974,7 @@ schmackhaft.«
 Er erhob sich …
 
 »Leider habe ich keine Zeit mehr, mit Ihnen noch
-weiter zu plaudern, Baronin … Gussy und sich reisen in
+weiter zu plaudern, Baronin … Gussy und ich reisen in
 zehn Minuten ab … — Meine Dogge lasse ich hier,
 Herr Schraut … Bitte, setzen Sie sich nicht der Gefahr
 aus, von diesem Tier zerfleischt zu werden. Hektor ist
@@ -1032,7 +1032,7 @@ mir diese Worte morgens mitteilen?
 Und über alledem wurde ich plötzlich müde … und
 schlief ein. Dies mag sonderbar erscheinen. Aber jetzt, wo die
 Erregung nach der Aussprache mit »Fritz Ullrich« abebbte,
-kam eben die Erschöpfung als Folge des Chloroformrausches,
+kam eben die Erschöpfung als Folge des Chloroformrausches.
 —
 
 Ich erwachte. Heller Tag draußen …
