@@ -1,27 +1,9 @@
-<@pagebreak/>
-Hasse Zetterström
+<@pagebreak 3/>
 
-Der Dynamithund
+<h1>Der Dynamithund und andere Unmöglichkeiten</h1>
 
-und andere Unmöglichkeiten
-
-Deutsch von Äve Agenstrup und Elisabeth Treitel.
-
-Illustrationen und Umschlagszeichnung von Groll Schwab
-
-16\.—20. Laufend.
-
-Berlin 1918
-Verlag der Lustigen Blätter
-(Dr. Eysler & Co.) G.&nbsp;m.&nbsp;b.&nbsp;H.
-
-<@pagebreak/>
-Weimar
-Druck von N. Wagner Sohn
-
-<@pagebreak/>
-Merkwürdige Einzelheiten aus meinem
-wunderlichen Leben.
+<h2>Merkwürdige Einzelheiten aus meinem
+wunderlichen Leben.</h2>
 
 Mein ganzes Leben ist eine Kette merkwürdiger Erlebnisse
 gewesen.
@@ -39,8 +21,8 @@ sorgfältig, denn sie steht mir sehr gut und verleiht mir
 ein interessantes Aussehen, wenigstens bei Abendbeleuchtung.
 
 Im Alter von 6 Jahren verschwand ich aus meinem
-lieben Elternhaus, Niemand wußte, wie das zugegangen
-war. Ich verschwand ganz einfach.
+lieben Elternhaus. Niemand wußte, wie das zugegangen
+war. *Ich verschwand ganz einfach.*
 Später habe ich mehrmals in unangenehmen Situationen
 versucht, dasselbe zu tun, aber es ist mir immer mißlungen.
 Die Wachsamkeit der Polizei ist heutzutage
@@ -63,13 +45,13 @@ hatte das besorgt und keine Entschädigung dafür
 verlangt. Er war eben eine edle Natur.
 
 Mit kaum 22 Jahren machte ich eine Reise, auf der ich
-mit dem später so berühmten Gentlemandieb Westermark-Rosen
+mit dem später so berühmten Gentlemandieb Westermark-Rosén
 bekannt wurde, der incognito (ohne Bewachung)
 fuhr. Er bat, mir zur Erinnerung an die angenehme Fahrt
 eine goldene Remontoiruhr mit Kette aus demselben Metall
-überreichen zu dürfen. Als Herr Rosen mir die Uhr
+überreichen zu dürfen. Als Herr Rosén mir die Uhr
 schenkte, war sie noch im Besitze eines älteren, ziemlich
-fetten Großhändlers, der uns gegenüber im Coupe saß.
+fetten Großhändlers, der uns gegenüber im Coupé saß.
 Aber er war gerade eingeschlafen. Es war nämlich im
 Sommer, und da schläft man ja so leicht ein. Ich trage
 diese Uhr immer noch. Sie geht ziemlich gut, denn ich ziehe
@@ -78,7 +60,7 @@ sie morgens auf. Meine Tante (siehe oben) hatte gesagt:
 »Ziehe die Uhr immer morgens auf, denn dann bist
 Du vielleicht nüchtern.«
 
-Westermark-Rosen sitzt jetzt im Gefängnis. Wenn
+Westermark-Rosén sitzt jetzt im Gefängnis. Wenn
 <@pagebreak/>
 Sie ihm begegnen sollten, — Verzeihung! — dann grüßen
 Sie ihn, bitte, von mir.
@@ -119,20 +101,26 @@ soll ich das unbekannten und vielleicht rohen Menschen
 erzählen, die womöglich über meine Sorgen und Leiden
 höhnisch lachen würden.
 
-Welt, wie bist Du grausam!
+O Welt, wie bist Du grausam!
 
-Hasse Zetterström.
+<p class="right">Hasse Zetterström.</p>
 
-P. 8. Wenn die Polizei in Schweden einen Verbrecher
+P. S. Wenn die Polizei in Schweden einen Verbrecher
 für ihr Verbrecheralbum photographiert, dann
 macht sie zwei Aufnahmen. Schwab, der meinen
 Charakter schon seit vielen Jahren kennt, ist der Ansicht,
 daß von mir sechs Aufnahmen gebraucht werden.
 Alle Bilder sind sehr gut gelungen, besonders das erste.
 
+<p class="right">H. Z.</p>
+
+<div class="img"><img alt="6 Skizzen eines Kopfes. Die erste ist nur ein Oval, die zweite hat oben ein paar Haare, die dritte zusätzlich Ohren, die restlichen werden immer detaillierter bis man ein Gesicht erkennt." src="img02.jpg" style="width: 100%; height: auto;"/></div>
+
 <@pagebreak/>
 
-Der Dynamithund.
+<div class="img"><img alt="Ein Mann rennt vor einem Hund davon, hinter dem Hund fliegt eine Dynamitstange durch die Luft." src="img03.jpg" style="width: 100%; height: auto;"/></div>
+
+<h2>Der Dynamithund.</h2>
 
 Abends kamen sie mit Lärm und Gepolter nach Hause,
 brachten einen zerschossenen Vogel mit und fingen sofort
@@ -176,7 +164,7 @@ auch wenn sie — die Milch natürlich — gezuckert wurde.
 
 Da beschloß Bonell, daß die Grete sterben sollte, um
 ihr ein klägliches Alter zu ersparen. Sie sollte schmerzlos
-sterben. Bonell überlegte nur die Art und Weise.«
+sterben. Bonell überlegte nur die Art und Weise.
 
 Ein Flintenschuß konnte versagen. Gift ebenfalls.
 Endlich, nachdem er einige Tage nachgedacht hatte,
@@ -196,7 +184,7 @@ Die Dynamitpatrone war in Ordnung, die Zündschnur
 ebenfalls, als die Grete und ihr Herr einen Spaziergang
 zum Tore der Stadt hinaus machten.
 
-Es war ein schöner Sommersonntag … Die Leute
+Es war ein schöner Sommersonntag. Die Leute
 wanderten nach dem Walde hinaus, einige hatten Essen
 mit und lagerten sich auf irgendeinem grünen Hügel.
 Bonell und Grete gingen an allen Ausflüglern vorbei.
@@ -282,6 +270,8 @@ die ganze Zeit hielt sie den Schwanz über der Wasserfläche
 Bonell dachte: Wenn sie heran ist, tauche ich sie unter,
 und dann mag es gehen, wie es will! Ich kann nicht mehr!«
 
+* * *
+
 Mein Freund machte eine Pause in seiner Erzählung.
 Aber die Spannung war zu stark. Wir fragten alle
 zu gleicher Zeit:
@@ -296,7 +286,10 @@ ihm nach — und — da erlosch die Zündschnur.
 Und dann kamen sie beide wieder fröhlich in die Höhe.«
 
 <@pagebreak/>
-Das Pferd.
+
+<div class="img"><img alt="Zwei dicke Männer gehen wütend auf einander zu, links sieht ein Pferd dem Geschehen zu." src="img04.jpg" style="width: 100%; height: auto;"/></div>
+
+<h2>Das Pferd.</h2>
 
 Ich wohne an der Peripherie der Stadt, in einem
 verhältnismäßig modernen Haus mit elektrischem Licht,
@@ -367,10 +360,10 @@ Meine Frau erwiderte:
 
 »Vielleicht gehört es ihm?«
 
-»IJ bewahre!«
+»I bewahre!«
 
 Ich stand plötzlich auf. Mir war einer der besten
-Gedanken gekommen, die ich je- gehabt habe.
+Gedanken gekommen, die ich je gehabt habe.
 
 Ich nahm meinen Hut und ging ruhig und gelassen
 nach der Wiese hinunter. Da stand ein großer, vierschrötiger
@@ -432,18 +425,18 @@ sagte jemand.
 
 Der Mann sah uns an, einen nach dem andern, mich
 am längsten, und dann ging er ganz plötzlich. Ich
-streichelte das Pferd und tat, als gäbe ich ihm ein Stü
+streichelte das Pferd und tat, als gäbe ich ihm ein Stück
 Zucker. Dann grüßte ich die Anwesenden freundlich und
 ging nach Hause,
 
 Ich hatte Mittag gegessen und Kaffee getrunken, und
-dann legte ich mich auf mein Sofa, gute an die Decke
+dann legte ich mich auf mein Sofa, guckte an die Decke
 und wartete. Die Abendzeitungen kamen, ich las sie
 <@pagebreak/>
 ruhig, beherrscht, und dann schlief ich ein. Ich erwachte
 davon, daß das Dienstmädchen an die Tür klopfte und sagte:
 
-»Ein Mann steht draußen. Er möchte mit — — —
+»Ein Mann steht draußen. Er möchte mit — — —«
 
 »Lassen Sie ihn hereinkommen!«
 
@@ -466,7 +459,7 @@ Er erhob sich rasch und stieß hervor:
 
 »Bitte, bleiben Sie sitzen,« sagte ich, »und lassen Sie
 uns ruhig reden. Sie sagen, daß es Ihr Pferd ist.
-Ich behaupte, daß es meins ist. Können Sie mir
+Ich behaupte, daß es *meins* ist. Können Sie mir
 Ihren Kaufvertrag zeigen?«
 
 »Nein,« sagte der Mann, »ich habe es bar bezahlt
@@ -519,8 +512,8 @@ können sich das Pferd holen.«
 »Das kam mir da unten eben nicht so vor!«
 
 »Beruhigen Sie sich!« Und ich schrieb auf einen Zettel:
-Ich habe nichts dagegen, daß das Pferd
-fortgeführt wird. Unterschrieb und gab dem Mann
+*Ich habe nichts dagegen, daß das Pferd
+fortgeführt wird.* Unterschrieb und gab dem Mann
 den Zettel. Er las ihn, lächelte und sagte:
 
 »Sie sind wirklich der gerissenste Mensch, der mir
@@ -537,9 +530,7 @@ Am nächsten Morgen bekam ich einen Brief. Der
 lautete:
 
 »Herr Kompagnon! Wir haben gestern ein gutes
-
 Geschäft gemacht, Sie und ich. Das Pferd gehörte
-
 weder Ihnen noch mir, ich habe nie ein so schönes
 Exemplar so billig gekauft. Ich bekomme sicher tausend
 Kronen dafür. Wenn Sie nicht gekommen wären und
@@ -556,7 +547,10 @@ erfährt nichts, wenn so eine Kleinigkeit wie ein Pferd
 verschwindet.
 
 <@pagebreak/>
-Der kluge Amerikaner.
+
+<div class="img"><img alt="Zwei Männer gehen aneinander vorbei und ziehen den Hut." src="img05.jpg" style="width: 100%; height: auto;"/></div>
+
+<h2>Der kluge Amerikaner.</h2>
 
 Eines Tages sagte meine Frau:
 
@@ -572,7 +566,7 @@ Eines Tages sagte meine Frau:
 
 »Grammophon?«
 
-»I67
+»Ja.«
 
 »Lege doppelte Teppiche in mein Zimmer und laß
 durch das Mädchen andeuten, das wir sämtliche Lärmparagraphen
@@ -606,7 +600,7 @@ Es wurde unten an die Decke zu mir herauf geklopft.
 
 Das belustigte und interessierte mich, und, dem Instinkt
 des Augenblick folgend, klopfte ich auf meinem Fußboden
-zurück, Da hörte ich eine Frauenstimme, die deutlich sagte
+zurück. Da hörte ich eine Frauenstimme, die deutlich sagte:
 
 »Bitte kommen Sie doch herunter zu mir!«
 
@@ -616,7 +610,7 @@ Ich fror um die Beine und fing an, mich anzuziehen.
 
 Das Haus war still. Meine Familie schlief. Als
 ich fertig angezogen war, klopfte es wieder, und als ich
-das Klopfen erwidert hatte, sagte die Stine:
+das Klopfen erwidert hatte, sagte die Stimme:
 
 <@pagebreak/>
 »Wann kommen Sie?«
@@ -625,7 +619,7 @@ das Klopfen erwidert hatte, sagte die Stine:
 in den Korridor hinaus, öffnete die Tür und ging nach
 der Wohnung eine Treppe tiefer hinunter.
 
-Die Dame, die geklopft hatte, stand in ihrer Entrö6ctür.
+Die Dame, die geklopft hatte, stand in ihrer Entréetür.
 Wir sagten beide nichts. Leise betrat ich die
 Wohnung.
 
@@ -641,13 +635,13 @@ ich dienen?«
 
 »Sie müssen hier warten, bis mein Mann nach Hause
 kommt. Ich fürchte mich, allein zu sein. Ich halte es
-nicht aus, jede Nacht auszusagen und zu warten.«
+nicht aus, jede Nacht aufzusitzen und zu warten.«
 
 »Ihr Mann ist vielleicht durch wichtige Geschäfte in
 Anspruch genommen, die ihn verhindern, nach Hause zu
 kommen,« sagte ich. »Das passiert mir auch manchmal.«
 
-»Die Geschäfte kenne ich,« sagte die Dame. »Bitte,
+»*Die* Geschäfte kenne ich,« sagte die Dame. »Bitte,
 hier haben Sie eine Zeitung zu lesen. Beliebt es Ihnen,
 Patience zu legen, so sind hier Karten, oder wollen Sie
 einen Likör trinken?«
@@ -662,13 +656,13 @@ in meine Wohnung.«
 Nacht allein lassen?!«
 
 »Das muß ich leider mit so vielen einsamen Damen
-tun. Meine du ist auch allein.«
+tun. Meine Frau ist auch allein.«
 
-»Sie schläft"
+»Sie schläft.«
 
 »Das will ich hoffen.«
 
-Da hörten wir, wie ein Schlüssel in die Entr6etür
+Da hörten wir, wie ein Schlüssel in die Entrèetür
 gesteckt wurde. Vorsichtig und leise, wie es ein verheirateter
 Mann tut, wenn er nachts nach Hause kommt.
 
@@ -694,14 +688,13 @@ Frau soll antworten!«
 vier Stunden auf Dich gewartet, ich wurde so unruhig,
 daß Dir etwas zugestoßen wäre, ich wußte nicht, was
 ich machen sollte, da klopfte ich an die Decke und habe
-ihn gebeten, herunterzukommen. Ich konnte nicht
+ihn gebeten, herunterzukommen. Ich *konnte* nicht
 allein sein. Ich wollte ihm gerade einen Likör anbieten,
 als Du kamst.«
 
 <@pagebreak/>
 
 Gustav machte einen Schritt ins Zimmer hinein und
-
 sagte: »Du — — — bietest — — — fremden — — —
 Personen — — — Likör — — — an, — — —
 wenn — — — ich — — — weg — — — bin?!«
@@ -738,21 +731,21 @@ wieder durch ein Geräusch geweckt. Ich setzte mich im
 Bett hoch. Es klopfte gegen den Fußboden.
 
 Ich klopfte zurück, und dann horchte ich. Einen
-Augenblick später hörte ich Inlias Stimme:
+Augenblick später hörte ich Julias Stimme:
 
-»Bitte, kommen Sie doch herunter zu mir!«
+»*Bitte*, kommen *Sie doch herunter zu mir*!«
 
 <@pagebreak/>
 
 Ich legte mich auf den Fußboden und antwortete:
 
-»Ich kann nicht hinunterkommen, ich habe
+»*Ich kann nicht hinunterkommen, ich habe
 mir den Fuß verstaucht. Kommen Sie lieber
-zu mir herauf!«
+zu mir herauf*!«
 
 Es wurde still, dann antwortete Julia:
 
-»Ich komme!«
+»*Ich komme*!«
 
 Erst schaltete ich das elektrische Licht ein und zog
 mich an. Dann schlich ich mich in den Korridor hinaus,
@@ -787,7 +780,7 @@ Der Vorsitzende gewährte dem Mann diese Bitte, und
 der Angeklagte flüsterte jedem Geschworenen schnell etwas
 ins Ohr.
 
-»Was flüsterte der Lump?« fragte Julia, die
+»*Was flüsterte der Lump*?« fragte Julia, die
 meine Erzählung mit starkem Interesse angehört hatte.
 
 »Jetzt,« sagte ich, »werde ich Ihnen das nicht verraten;
@@ -810,37 +803,40 @@ das Geländer gestützt dastand.
 »Jetzt, Frau Julia,« sagte ich, »können Sie erfahren,
 was der Amerikaner den Geschworenen gesagt hat:
 
-»Wir verheirateten Männer halten zusammen!«
+»*Wir verheirateten Männer halten zusammen*!«
 sagte er. Gute Nacht!«
 
-» …
+* * *
 
 Am folgenden Tag traf ich Gustav auf der Straße.
 Er grüßte sehr freundlich, und wir lächelten uns gegenseitig
 an, — — wie früher die Augurn, — — wie
 jetzt die verheirateten Männer.
 
-Julia war ziemlich fett,
+Julia war ziemlich fett.
 
 <@pagebreak/>
-In der Elektrischen.
+
+<div class="img"><img alt="Ein Schaffner steht vor einer älteren Dame, in der Hand die Zange zum Entwerten." src="img06.jpg" style="width: 100%; height: auto;"/></div>
+
+<h2>In der Elektrischen.</h2>
 
 Neulich fuhr ich mal mit der Elektrischen. Es war
 eine gewöhnliche, langweilige, mit ernsten, stillen Menschen
 voll besetzte Elektrische. Ich war auch sehr still
-und ernst. Nach einer Weile aber sagte ich zu Hallden,
+und ernst. Nach einer Weile aber sagte ich zu Halldén,
 der neben mir saß:
 
 »Das mit dem Prinzen Eugen war doch schrecklich!«
 
-»Tja,« sagte Hallden, »er hätte etwas vorsichtiger
+»Tja,« sagte Halldén, »er hätte etwas vorsichtiger
 sein müssen!«
 
 Sämtliche Fahrgäste zuckten zusammen. Was war
 <@pagebreak/>
 denn mit dem Prinzen? Alle Blicke richteten sich auf
-uns, und die Lust war mit Neugier gesättigt und dick
-wie Grüße. Und diese unheimliche Stille, die grabesdumpf
+uns, und die Luft war mit Neugier gesättigt und dick
+wie Grütze. Und diese unheimliche Stille, die grabesdumpf
 mitten im Wagen stand!
 
 Die Elektrische rollte weiter. Eine ältere Dame hielt
@@ -854,7 +850,7 @@ und fragte den Schaffner:
 »Ein paar Herren erzählten drin etwas von ihm. Es
 soll ihm etwas zugestoßen sein.«
 
-Der Wagen hielt an einer Haltestelle, Drei Herren
+Der Wagen hielt an einer Haltestelle. Drei Herren
 drängten sich gleichzeitig zum Wagen hinaus und riefen
 nach der Abendzeitung. Der Schaffner stieg ab, ging
 zu dem Wagenführer und sagte:
@@ -876,7 +872,7 @@ Der dicke Herr steht noch immer auf demselben Fleck
 und stiert vor sich hin. Er steht ganz still. Man muß
 leise gehen, damit man ihn nicht weckt. Sein Hirn arbeitet.
 
-Halldin und ich bestiegen einen weißen Wagen, um
+Halldén und ich bestiegen einen weißen Wagen, um
 <@pagebreak/>
 weiter zu fahren. Eine ältere Frau drängte sich vor
 mir hinauf und trat mir dabei auf die Lackstiefel. Sie
@@ -935,7 +931,7 @@ Sie war sofort tot.
 Man soll mir nie auf die Lackstiefel treten!
 
 An der nächsten Haltestelle stieg mein Freund Björkman
-auf. Er war hochmütig und schäbig. Er hatte
+auf. Er war schmutzig und schäbig. Er hatte
 einen alten, verbeulten Hut auf und ganz lehmbeschmierte
 Stiefel an.
 
@@ -959,8 +955,8 @@ kommen soll, ein Almosen schenken will? Es ist ein
 anständiger Kerl. Ich kenne ihn schon von früher her.
 Er wird den besten Gebrauch von dem Gelde machen.«
 
-Alle Fahrgäste guten Björkman durch die Tür an;
-er sah schäbig aus, und dann holte man. die Portemonnaies
+Alle Fahrgäste guckten Björkman durch die Tür an;
+er sah schäbig aus, und dann holte man die Portemonnaies
 heraus. Es wurden 6 Kronen und 35 Öre.
 
 <@pagebreak/>
@@ -971,9 +967,9 @@ sagte:
 bedanken. Aber wenn Du dich genierst, dann kann ich
 es auch tun.«
 
-Dann öffnete ich die Tür und sagte mit lauter Stimme
+Dann öffnete ich die Tür und sagte mit lauter Stimme:
 
-»Björkman kauft vielmals!«
+»Björkman dankt vielmals!«
 
 Ich stieg dann ab, Björkman aber blieb mit dem
 Geld in der Hand stehen.
@@ -990,7 +986,10 @@ also 2 Kronen und 95 Öre übrig.
 Das war immerhin etwas!
 
 <@pagebreak/>
-Die Tür.
+
+<div class="img"><img alt="Ein Schlüsselbund mit acht verschieden großen Schlüsseln" src="img06.jpg" style="width: 100%; height: auto;"/></div>
+
+<h2>Die Tür.</h2>
 
 Fräulein Alice Akerholm kam aus der Stadt, um
 meinen Freund Lindström und mich zu besuchen. Wir
@@ -1005,7 +1004,7 @@ Am Abend des ersten Tages sagte Lindström:
 
 »Du schläfst im Gaststübchen. Wir haben extra ein
 kleines Häuschen für Dich gemietet. Da kannst Du in
-einem Patentbett schlafen, daß höchstens 1, Meter zu
+einem Patentbett schlafen, daß höchstens 1½ Meter zu
 kurz ist. Du bist ziemlich lang, meine liebe Alice!«
 
 Fräulein Akerholm war mit dem Gasthäuschen sehr
@@ -1027,13 +1026,13 @@ auf Ordnung. Außerdem hatten wir das Häuschen
 mit Schlüssel gemietet. Es mußte einen sehr schlechten
 Eindruck machen, wenn wir es ohne Schlüssel zurückgaben.
 
-Am vierten Tage sagte Lindström
+Am vierten Tage sagte Lindström:
 
 »Du mußt wegen des Schlüssels bei Alice anklingeln.
 So geht das nicht. Was soll denn der Großhändler
 Lewin, dem doch das Haus gehört, denken? Ich bin
 zu Genauigkeit und Ordnung in allem erzogen. Alice
-muß den Schlüssel herschieen.
+muß den Schlüssel herschicken.
 
 Fräulein Akerholm erklärte, daß sie den Schlüssel
 nicht gesehen hätte. Daß sie die Tür zugeschlossen und
@@ -1073,10 +1072,10 @@ machen. Hochachtungsvoll usw.
 »Das sind nur Ausflüchte,« sagte Lindström. Sie will
 sich drücken. Aber sie muß einen Schlüssel besorgen!«
 
-»Natürlich,« sagte ich. »Wir schicken ihr die
-Tür zum Maßnehmen. Wir könnten ja auch
-nur das Schloß schien, aber das würde sie wahrscheinlich
-auch verbummeln. Wir schicken die Tür!«
+»Natürlich,« sagte ich. »*Wir schicken ihr die
+Tür zum Maßnehmen*. Wir könnten ja auch
+nur das Schloß schicken, aber das würde sie wahrscheinlich
+auch verbummeln. *Wir schicken die Tür*!«
 
 Am folgenden Tage wurde Fräulein Akerholm die
 Tür geschickt, nach ihrer Wohnung in der Stadt. Wir
@@ -1094,19 +1093,19 @@ im Gange wäre. Am Abend brachten zwei Männer
 vom Dampfer her die Tür angeschleppt.
 
 Wir saßen gerade auf der Veranda und besprachen
-die Möglichkeit eines Dorschfanges am Hufvudskär, als
+die Möglichkeit eines Dorschfanges am Husvudskär, als
 die Tür kam. Sie war dieselbe geblieben, aber im
-Schlüsselloch stete ein Zettel, auf dem stand:
+Schlüsselloch steckte ein Zettel, auf dem stand:
 
 »Ihr könnt sonst jemand verulken. Ich habe keine
 Zeit für Euch. Alice.
 
-P. 8. Übrigens fahre ich in ein paar Tagen nach
+P. S. Übrigens fahre ich in ein paar Tagen nach
 Kopenhagen.«
 
 Fräulein Akerholm pflegt in Kopenhagen im Bristol
-zu wohnen. Wir sandten also die Tür nach
-Hotel Bristol in Kopenhagen. Das war eine sehr
+zu wohnen. *Wir sandten also die Tür nach
+Hotel Bristol in Kopenhagen*. Das war eine sehr
 mühselige und sehr kostspielige Sache. Aber wenn wir
 uns mal etwas vorgenommen hatten, mußten wir es
 auch durchführen.
@@ -1114,7 +1113,7 @@ auch durchführen.
 Fräulein Akerholm kam ins Hotel. Der Portier erkannte
 sie wieder, freute sich sehr und sagte:
 
-»Es ist ein großes Soll für Sie angekommen, gnädiges
+»Es ist ein großes Kolli für Sie angekommen, gnädiges
 Fräulein. Wir haben es auf dem Speicher, denn
 es ist so groß.«
 
@@ -1137,7 +1136,7 @@ Sende den Schlüssel. Dänisches Eisen geht auch.«
 
 Darauf erhielten wir keine Antwort. Wir warteten
 lange. Schließlich erfuhren wir, daß Fräulein Akerholm
-weitergereist sei und die Tür im Bristol zurück gelassen
+weitergereist sei und die Tür im Bristol zurückgelassen
 habe, wo sie noch im Speicherraum läge.
 
 Wir gingen nun zum Tischler Lundström auf der Insel
@@ -1167,7 +1166,9 @@ Wie er dahingekommen war, war ihm total unverständlich.
 
 <@pagebreak/>
 
-Lärm.
+<div class="img"><img alt="Ein dicker Mann steht in einem Chaos von umgeworfenen Stühlen und Tischen, über ihm kreist der Kronleuchter." src="img07.jpg" style="width: 100%; height: auto;"/></div>
+
+<h2>Lärm.</h2>
 
 Man kann sich an Lärm gewöhnen, auch an nächtlichen.
 
@@ -1186,7 +1187,7 @@ bekommen.
 Der Steinhammer kam fort. Eigentümlich genug.
 
 Der Lärm an sich ist übrigens nicht das Peinigende.
-Das Peinigende ist das Warten auf den Lärm.
+Das Peinigende ist *das Warten auf den Lärm*.
 
 Ich weiß, daß der Steinhammer um sechs Uhr anfangen
 wird, und ich werde um vier Uhr wach und
@@ -1201,13 +1202,12 @@ nicht, und bis dahin lag ich und wartete und wartete.
 Es fing damit an, daß er die Gigerlkönigin (eine
 recht alte und abgeleierte Melodie, — aber der Mann
 gehörte dieser Jahresklasse an) schon auf der Treppe
-
 pfiff.
 
 Am Takt der Melodie hörte ich den Grad seiner
 Betrunkenheit heraus.
 
-Wenn erhineingefommnen war, hängte er sehr behutsam
+Wenn er hineingekommen war, hängte er sehr behutsam
 Hut und Überzieher auf, ging dann ins Speisezimmer
 und zündete sämtliche Kerzen in einem großen Kronleuchter
 an.
@@ -1229,8 +1229,8 @@ der Mädchenkammer, wo er in der Stille der Nacht dem
 vor Entsetzen erstarrten Mädchen das Deckbett wegzog
 und sich hinsetzte, um ihr die Hühneraugen zu schneiden.
 
-Dabei machte er keinen Lärm, aber das Bewußtsein
-dessen, was sich abspielte, störte mich.
+Dabei machte er keinen Lärm, *aber das Bewußtsein
+dessen, was sich abspielte*, störte mich.
 
 Der Mann war ruhig und sicher, er machte nie einen
 Fehlschnitt. Außerdem hatte er ein gutes Herz, und
@@ -1253,7 +1253,8 @@ keinerlei Spuren nächtlicher Abenteuer.
 Haltbare Sachen!
 
 <@pagebreak/>
-Der —
+
+Der Tischler
 
 Gegen Ende des Herbstes fing es an, kalt zu werden,
 und wir entdeckten, daß unsere Fenster repariert werden
