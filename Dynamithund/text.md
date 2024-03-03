@@ -1254,7 +1254,9 @@ Haltbare Sachen!
 
 <@pagebreak/>
 
-Der Tischler
+<div class="img"><img alt="Ein Mann mit Hut und Stock steht vor einem Beamten, der ihn gerade anspricht." src="img08.jpg" style="width: 100%; height: auto;"/></div>
+
+<h2>Der Tischler</h2>
 
 Gegen Ende des Herbstes fing es an, kalt zu werden,
 und wir entdeckten, daß unsere Fenster repariert werden
@@ -1272,13 +1274,12 @@ herkommt und den Schaden besieht.«
 
 Ich klingelte beim Wirt an und verlangte einen Tischler.
 
-»Ich werde ihn schien,« sagte der Wirt.
+»Ich werde ihn schicken,« sagte der Wirt.
 
 Wir warteten zwei Tage. Kein Tischler. Ich klingelte
 aufs neue beim Wirt an. Er war sehr freundlich und
 sagte, daß der Tischler sehr in Anspruch genommen sei.
-Es wären viele Fenster in vielen Häusern reparaturbedürftig
-…
+Es wären viele Fenster in vielen Häusern reparaturbedürftig.
 
 Ich richtete dann die schüchterne Frage an ihn, ob
 es vielleicht noch einen Tischler in der Stadt gäbe, außer
@@ -1310,7 +1311,6 @@ Tischler, der in ein paar Tagen zu mir kommen sollte,
 noch nicht hier gewesen ist.«
 
 Es wurde fünf Minuten lang ruhig im Telephon.
-
 <@pagebreak/>
 Dann hörte ich die atemlose Stimme meines Hauswirtes:
 
@@ -1338,7 +1338,7 @@ Arbeitskleidung im Korridor. Ich ging auf ihn zu und sagte:
 »Willkommen! Wir haben lange auf Sie gewartet,
 aber wir freuen uns, daß Sie endlich gekommen sind.
 Das ist meine Frau, und das sind meine Kinder. Die
-haben sich auch sehr nach Ihnen gesehnt!« 2:
+haben sich auch sehr nach Ihnen gesehnt!«
 
 Der Mann sah etwas verlegen aus. Er hatte augenscheinlich
 nicht so viel Freundlichkeit von einer Familie,
@@ -1395,7 +1395,7 @@ ein Mann in Arbeitskleidung.
 
 »Ich bin der Tischler,« sagte er.
 
-Er sagte das, wie er gesagt haben würd
+Er sagte das, wie er gesagt haben würde:
 
 »Darf es außer Sirup noch etwas sein?« So sanft
 war seine Stimme.
@@ -1409,7 +1409,7 @@ als er hörte, daß unsere Fenster in Ordnung gebracht
 werden müssen.«
 
 Der Tischler ging hin und besah sich die Fenster.
-Von außen und von ihnen, und dann sagte er:
+Von außen und von innen, und dann sagte er:
 
 »Ich will nur nach Hause gehen und mein Handwerkszeug
 holen, dann komme ich gleich wieder.«
@@ -1472,9 +1472,9 @@ Denn das hatte der Tischler nicht getan.
 
 »Das verstehe ich nicht!« sagte ich. »Soll das ein
 Verhör sein? Ich habe nichts getan. Ich will nur
-eine Person melden, die abhanden gekommen ist — —
+eine Person melden, die abhanden gekommen ist — — —«
 
-»Der Name?!
+»Der Name?!«
 
 »Er hat mir seinen Namen nicht gesagt!«
 
@@ -1520,14 +1520,20 @@ Ich möchte wohl wissen, was für Heilige ein Hauswirt
 eigentlich hat.
 
 <@pagebreak/>
-Ein Hut.
+
+<div class="img"><img alt="Eine ältere Dame mit einem großen Hut steht vor einem Spiegel und betrachtet sich." src="img09.jpg" style="width: 100%; height: auto;"/></div>
+
+<h2>Ein Hut.</h2>
 
 Wenn sich ein Mann einen Hut kaufen will, dann
 geht er in einen Laden, in dem Hüte verkauft werden.
-Mit entschuldigendem und scheuem Blick echt er den
+
+Mit entschuldigendem und scheuem Blick setzt er den
 verschimmelten, verbeulten, mottigen Stoffetzen, den er
 auf dem Kopf trägt, ab und sagt zu dem Verkäufer:
+
 »Darf ich mir vielleicht einen Hut aussuchen?«
+
 Dann holt der Verkäufer eine große, schwere, runde
 Maschine und stülpt sie dem Mann auf den Kopf, so
 daß der Mann auf einen Stuhl sinkt, weil ihm ist, als
@@ -1536,7 +1542,7 @@ wenn er einen Berg auf dem Kopfe hätte. Dann drückt
 der Verkäufer auf eine Feder, so daß es in dem Kopf
 des Mannes knackt, und dann sagt der Verkäufer:
 
-»581«
+»58!«
 
 Er kann auch 63 sagen, aber dann ist es ein ungewöhnlich
 dicker Kopf.
@@ -1556,7 +1562,7 @@ diskontiert werden. Dann borgt er sich 10 Kronen
 von einem Freund und kauft sich einen neuen Hut.
 
 So macht es ein Mann. Aber wie macht es eine
-Frau? Z. B. meine Frau? —
+Frau? Z.&nbsp;B. meine Frau? —
 
 Wir frühstückten neulich zusammen, ein ernstes,
 schweigsames Frühstück, denn morgens ist niemand zu
@@ -1574,10 +1580,10 @@ Dir einen gekauft hast.«
 <@pagebreak/>
 »Ich habe mir seit dem Frühjahr keinen neuen Hut
 gekauft. Ich kann doch im Winter keinen Sommerhut
-tragen. Oder möchtest Du das?
+tragen. Oder möchtest Du das?«
 
 »Ich habe nichts dagegen. Ich trage keinen besonderen
-Hut im Winter.
+Hut im Winter.«
 
 »Du trägst keinen Strohhut im Winter.«
 
@@ -1598,7 +1604,7 @@ lasse und dann meine alte Feder benutze.«
 »Dann gehe ich mit und kaufe den Hut. Es gibt
 einfache, wirklich geschmackvolle und preiswerte Hüte.
 Wir wollen so einen kaufen. Wir treffen uns um vier
-Uhr vor Skillt8 Putzgeschäft.«
+Uhr vor Skillts Putzgeschäft.«
 
 Wir trafen uns. Und tief ernst gingen wir hinein.
 
@@ -1650,7 +1656,7 @@ Meine Frau warf ihn hinter den Ladentisch.
 
 Wir probierten einen anderen Hut auf.
 
-»Der sitzt ja verkehrt. herum,« sagte ich.
+»Der sitzt ja verkehrt herum,« sagte ich.
 
 »Nein, der sitzt richtig,« sagte die Verkäuferin.
 
@@ -1678,7 +1684,7 @@ Ein anderer Hut wurde aufprobiert.
 Deinen Augen und Deinem Mund und Deinem Teint
 und Deinem Haar, aber nicht zu Deiner Nase. Es
 kommt sehr darauf an, wie ein Hut zur Nase paßt.
-Eine etwas stülpnasige Person kann nicht jeden xbeliebigen
+Eine etwas stülpnasige Person kann nicht jeden ixbeliebigen
 Hut tragen.«
 
 »Stülpnasig??!!« sagte meine Frau, und wir gingen
@@ -1714,6 +1720,8 @@ wie ich.«
 
 Acht Stunden Pause.
 
+<hr/>
+
 Am nächsten Tage verkaufte meine Frau den neuen
 Hut an das Fräulein im Bäckerladen für 15 Kronen,
 auf Abschlagszahlung. Und morgen will sie sich einen
@@ -1732,7 +1740,9 @@ O, Ihr Frauen!
 
 <@pagebreak/>
 
-Der Badewannenhahn.
+<div class="img"><img alt="Ein Mann steht in einer großen Pfütze vor einer Badewanne und hält ein Rohr zu, aus dem Wasser herausspritzt. Ein zweiter Mann schaut durch die Tür herein." src="img05.jpg" style="width: 100%; height: auto;"/></div>
+
+<h2>Der Badewannenhahn.</h2>
 
 Adolph Blom lag im Bett und las die Morgenzeitung.
 Seine Frau, die ziemlich früh aufsteht, weil sie zeitiger
@@ -1747,7 +1757,9 @@ zu Ende, legte dann die Zeitung fort und sagte:
 
 <@pagebreak/>
 »Mir war, als wenn Du etwas gesagt hättest.«
+
 »Ich habe gesagt, daß der Hahn im Badezimmer läuft.«
+
 »Dann wird wohl jemand dran gewesen sein.«
 
 »Ich nicht,« sagte Frau Blom, »ich habe seit Donnerstag
@@ -1765,7 +1777,7 @@ fragte Frau Blom.
 acht Tagen. Hol mal meinen Patentschlüssel, dann
 werde ich die Mutter ein bißchen anziehen.«
 
-»Patentschlüssel 2121«
+»Patentschlüssel?!?!«
 
 Herr Blom sah seine Frau an, dann sagte er:
 
@@ -1777,7 +1789,7 @@ verschiedensten Gelegenheiten verwenden, und sie passen
 für alle Muttern. Bitte such’ meinen Patentschlüssel!«
 
 »Bester Adolph, — sei nicht böse, — aber ich habe
-nie solchen Schlüssel gesehen, — ich weiß nicht —
+nie solchen Schlüssel gesehen, — ich weiß nicht —«
 
 Blom ging selbst, um den Schlüssel zu holen. Er
 suchte ihn im Werkzeugkasten und fand ihn unter dem
@@ -1836,7 +1848,7 @@ denn sie hatte Angst vor dem Patentschlüssel.
 schrie Blom. »Sonst gibt’s eine Überschwemmung!«
 
 Albertine rannte davon und kam mit einem Bierflaschenkorken
-zurück,
+zurück.
 
 »Rufen Sie meine Frau,« schrie Blom, »denken Sie,
 man kann Bierflaschenkorken in ein Rohr stecken, das
@@ -1851,7 +1863,7 @@ Frau Blom schürzte ihre Röcke hoch und sagte:
 »Wenn Du die Hand vorhältst, Adolph, dann werde
 ich nach dem Rohrleger telephonieren!«
 
-Blom überlegte nicht =, er drückte die Hand auf
+Blom überlegte nicht —, er drückte die Hand auf
 das Loch und hielt das Wasser etwas zurück. Das
 Wasser war kalt, und die Hand wurde ihm bald steif.
 
@@ -1873,7 +1885,7 @@ kam nach zwei Stunden sofort.
 Blom hatte inzwischen 630mal die Hand gewechselt
 und drei Pilsener getrunken. Albertina hatte gekündigt,
 und Frau Blom ging zwischen dem Badezimmer und
-der Entreetür hin und her und tröstete und ermunterte
+der Entréetür hin und her und tröstete und ermunterte
 und rang die Hände.
 
 Im Schlafzimmer saß Karl-Erik und drückte ein
@@ -1902,10 +1914,13 @@ gab sie dem Rohrleger und sagte:
 Worauf Blom den Hahn, den er abgeschraubt hatte,
 wieder anschraubte, den oberen Hahn wieder öffnete
 und sich überzeugte, daß es genau so tropfte wie vorher.
-Da froh er ins Bett.
+Da kroch er ins Bett.
 
 <@pagebreak/>
-Der Hexenschuß.
+
+<div class="img"><img alt="Ein Mann steht mit erhobenem Arm in der Mitte von drei Autos, die auf ihn zugefahren sind." src="img10.jpg" style="width: 100%; height: auto;"/></div>
+
+<h2>Der Hexenschuß.</h2>
 
 Vor ein paar Tagen bekam ich einen Hexenschuß. Das
 ist das Wenigste, was man in so kriegerischen Zeiten
@@ -1920,7 +1935,7 @@ Ich stand mitten auf der Straße, mitten im Verkehr.
 Straßenbahnwagen rollten, Autos jagten umher, Menschen
 drängten sich, und Jungens radelten. Ein Auto
 kam gerade auf mich zu, und hinter mir kam auch eins.
-Ich dachte: »Wenn ich die rechte Hand hochstrece,
+Ich dachte: »Wenn ich die rechte Hand hochstrecke,
 halten sie vielleicht! Die Schutzleute machen es hier
 so und in Berlin auch.«
 
@@ -1972,13 +1987,13 @@ einen Stuhl. Und als er fort war, sagte meine Frau:
 
 »Doch,« erwiderte ich, »aber ich kann doch auch
 mal auf Händen getragen werden. Ein auf Händen
-getragener Schriftsteller — — —
+getragener Schriftsteller — — —«
 
 Meine Frau ging hinaus und weinte. Da klingelte
 das Telephon. Das hing in Reichweite, und ich meldete
 mich. Es war mein Freund B.
 
-»Ich habe einen Hexenschuß,« sagte ich, «— kann
+»Ich habe einen Hexenschuß,« sagte ich, »— kann
 nicht gehen.« — »Ach,« sagte B., »den habe ich schon
 häufig gehabt. Du mußt Antophontabletten nehmen,
 dann bist du bald wieder auf dem Posten. Das ist
@@ -2061,7 +2076,7 @@ alte Stiefel und Gummischuhe sind in deinem Leben
 erfüllt.«
 
 Ich humpelte nach Hause und legte das Fell dahin,
-wo es liegen sollte. (Es blieb zehn Minuten liegen,
+wo es liegen sollte. Es blieb zehn Minuten liegen,
 dann rutschte es in die Kniekehlen. Katzenfell ist glatt.
 
 Ich war an diesem Tage zu Tisch geladen, und dann
@@ -2107,7 +2122,7 @@ Ich kam mitten in ein Drama. Ein junger Mensch
 saß an seinem Schreibtisch und schrieb folgendes, das
 auf der Leinwand erschien:
 
-»Ich libe dich, und wen ich dich nicht bekomme, töte
+»Ich libe dich, und wen ich dich nicht bekome, töte
 ich mich. Dein Teudor.«
 
 Gleich darauf wurde es hell, denn es war Pause.
@@ -2156,7 +2171,8 @@ und lief nach Hause. — Und der Hexenschuß war
 ebenso schnell verschwunden, wie er gekommen war.
 
 <@pagebreak/>
-Die Hosenträger.
+
+<h2>Die Hosenträger.</h2>
 
 Richard und Georg kamen gleichzeitig in der Stadt
 an und gingen in dasselbe Hotel. Es war ein kleines
