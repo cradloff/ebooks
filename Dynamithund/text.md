@@ -2278,6 +2278,7 @@ den Mund auftun, um abermals eine Entschuldigung
 <@pagebreak/>
 zu stammeln. Aber Georg schnitt ihm mit einer großartigen
 Geste das Wort ab.
+
 »Bemühen Sie sich nicht weiter. Die Sache ist erledigt.«
 
 Der bedauernswerte Portier zuckte die Achseln und
@@ -2310,8 +2311,8 @@ der Karte stand:
 »Ich sende Ihnen hiermit Ihre Hosenträger. Da
 Ihr Name darauf steht, weiß ich, daß es Ihre sind.
 
-Mit Hochachtung
-Erland Johansson, Portier.«
+<p class="centered">Mit Hochachtung</p>
+<p class="centered">Erland Johansson, Portier.«</p>
 
 »Das ist gut!« lachte Richard.
 
@@ -2341,7 +2342,7 @@ strahlten vor Freude.
 »Ja, wunderschön,« sagte er.
 
 Dann gingen sie Seite an Seite weiter. Als sie
-aber ein Stü gegangen waren, erblickte er die Hosenträger.
+aber ein Stück gegangen waren, erblickte er die Hosenträger.
 
 Er blieb stehen und sagte:
 
@@ -2388,7 +2389,10 @@ Baccarat die fünf Kronen, die die schwarzseidenen Hosenträger
 gekostet hatten.
 
 <@pagebreak/>
-Das fröhliche Lächeln.
+
+<div class="img"><img alt="Ein dicker Mann hält einen Spiegel in der Hand und betrachtet sich lächelnd." src="img11.jpg" style="width: 100%; height: auto;"/></div>
+
+<h2>Das fröhliche Lächeln.</h2>
 
 Jüngst erhielt ich ein Büchelchen mit dem Titel
 »Hygienische Morgentoilette« von einem Sanitätsrat
@@ -2427,7 +2431,7 @@ strich die Falte zwischen meinen Augen weg.
 
 Ich sah aus, als hätte ich in der Lotterie gewonnen,
 oder als hätte mein Feind — nicht gewonnen. Nach
-einer Weile spannte es ihm Gesicht, aber ich hielt aus,
+einer Weile spannte es im Gesicht, aber ich hielt aus,
 und mit freundlichem Lächeln und fröhlichen Augen
 trat ich an den Frühstückstisch.
 
@@ -2455,7 +2459,7 @@ meine Frau:
 
 »Ich schwärme für Gasleute, und 56 Kronen ist billig.«
 
-Meine Frau erbleicht. Das war ihr neu. Sie
+Meine Frau erbleichte. Das war ihr neu. Sie
 fügte schnell hinzu: »Und dann muß ich der Schneiderin
 130 Kronen bezahlen.«
 
@@ -2476,13 +2480,12 @@ hatte, kam herein und setzte sich neben mich.
 »Guten Tag, guten Tag, wie geht’s Dir, Du siehst
 ja so vergnügt aus? Ist Dir was Spaßiges passiert?«
 
-»IJ bewahre,« sagte ich, »man kann doch auch vergnügt
+»I bewahre,« sagte ich, »man kann doch auch vergnügt
 aussehen, ohne es zu sein!«
 
 »Soso, das ist mir neu.«
 
 <@pagebreak/>
-
 »Ja,« sagte ich, »es gibt ja doch auch Menschen, die
 intelligent aussehen, ohne es zu sein.«
 
@@ -2525,14 +2528,13 @@ zu lachen!«
 »Ich lache ja gar nicht, Tante,« sagte ich, »ich lächele.
 Ich sehe froh aus. Wenn wir alle etwas fröhlicher
 aussähen, dann wäre es viel besser hier auf der Welt.
-
 <@pagebreak/>
 Wenn zum Beispiel Du, Tante, jetzt froh aussähst,
 dann würde Dich der Arm nicht so sehr schmerzen.«
 
 »Schon als Du noch ein kleiner Junge warst, habe
 ich Deiner Mutter gesagt, daß Du ein Lümmel werden
-würdest, und ich sehe, daß ich recht. behalten habe.
+würdest, und ich sehe, daß ich recht behalten habe.
 Mach, daß Du fortkommst!«
 
 Ich ging in mein Bureau. Als ich ins Wartezimmer
@@ -2553,7 +2555,10 @@ sein neues Turnsystem mit dem fröhlichen Lächeln
 nichts taugt. Wenigstens nicht für Geschäftsleute.
 
 <@pagebreak/>
-Boxe zu Hause.
+
+<div class="img"><img alt="Ein Mann und eine Frau stehen sich mit Boxhandschuhen gegenüber. Im Hintergrund stehen drei Kinder und beobachten die Szene." src="img12.jpg" style="width: 100%; height: auto;"/></div>
+
+<h2>Boxe zu Hause.</h2>
 
 Herr Blom kam mit zwei Paar Boxhandschuhen nach
 Hause, die er auf einer Auktion gekauft hatte, das Paar
@@ -2561,7 +2566,7 @@ zu 75 Öre. Das ist billig, wenn man bedenkt, daß
 das Boxen ein aufstrebender Sport ist.
 
 Herr Blom nahm also die Handschuhe mit nach Hause,
-und beim Mittagbrot sagte er zu Friß und Oskar,
+und beim Mittagbrot sagte er zu Fritz und Oskar,
 seinen zwölf und vierzehn Jahre alten Söhnen, die
 gerade damit beschäftigt waren, sich unter dem Tisch
 gegenseitig mit den Füßen zu stoßen:
@@ -2573,7 +2578,6 @@ gegen das andere verteidigen können, wenn es angegriffen
 wird.«
 
 <@pagebreak/>
-
 »Daß der Krieg auch gar kein Ende nimmt!« sagte
 Frau Blom. »Seit gestern sind die Erbsen wieder
 10 Öre teurer!«
@@ -2581,14 +2585,14 @@ Frau Blom. »Seit gestern sind die Erbsen wieder
 »Die Verteidigung, von der ich spreche,« fuhr Herr
 Blom fort, »ist eine Verteidigung, die in allen Lebenslagen
 zu brauchen ist. Der große französische Schriftsteller
-Metterlinck — =«
+Metterlinck — —«
 
 »Maeterlinck heißt er,« sagte Oskar, »und ist ein Belgier.«
 
 »Nicht Papa verbessern!« rügte Frau Blom.
 
 »Wenn er aber Unrecht hat,« sagte Oskar. »Ich
-weiß, er heißt — —
+weiß, er heißt — —«
 
 »Namen werden ja verschieden ausgesprochen,« sagte
 Herr Blom, »einmal war ein Engländer bei mir im
@@ -2613,7 +2617,7 @@ im Wasser hängt und ein Barsch kommt,« sagte Oskar.
 Mensch zum Verteidigen seine Hände hat, aber daß er
 <@pagebreak/>
 diese Kunst vernachlässigt hat. Statt dessen benutzt er
-Waffen, was roh und gemein ist Ein Mensch, der
+Waffen, was roh und gemein ist. Ein Mensch, der
 boxen kann, greift niemanden an, aber wenn er angegriffen
 wird, verteidigt er sich mit ruhigem und kaltem
 Blut und macht seinen Gegner schnell kampfunfähig,
@@ -2636,7 +2640,7 @@ mich nicht!«
 jemand haben, an dem ich das vorführen kann. Also
 ziehe Dir die Handschuhe an!«
 
-Friß reckte sich zum Fenster hinaus und rief auf die
+Fritz reckte sich zum Fenster hinaus und rief auf die
 Straße hinunter:
 
 »Kommt rauf, zugucken, Jungens, Mama und Papa
@@ -2647,7 +2651,7 @@ stellte sich ihrem Mann gegenüber. Es schien, als dächte
 sie an etwas.
 
 Herr Blom sagte: »Wenn Du jetzt den linken Arm
-ausstreckst — =«
+ausstreckst — —«
 
 Frau Blom streckte den linken Arm aus, so daß ihre
 <@pagebreak/>
@@ -2680,7 +2684,7 @@ riß die Handschuhe ab und schrie:
 denkt! Und mitten in die Brust, so daß man nicht
 atmen kann! Was würden die Leute sagen, wenn sie
 wüßten, wie Du Dich benimmst! Sich so zu betragen!
-Uhnmuuuu!«
+Uhuuuuu!«
 
 Da klingelte es. Das war der Großhändler Larsson,
 der zu Besuch kam. Frau Blom war sehr froh darüber,
@@ -2697,7 +2701,7 @@ boxen lernen! Wer nachts herumsumpft wie Du, kann
 leicht überfallen werden! Zieh Dir die Handschuhe da
 an, dann werde ich Dir ein paar Tricks zeigen!«
 
-»Ah was,« sagte Larsson, »ich bin für so was zu
+»Ach was,« sagte Larsson, »ich bin für so was zu
 alt, aber als ich jung war, — da hättest Du sehen sollen!«
 
 »Zieh Dir die Handschuhe an! Wir machen ein paar
@@ -2713,10 +2717,10 @@ sagte er:
 »Du hast früher geboxt, Larsson, schwindle nicht!«
 
 »Ja, ein bißchen, in Amerika, als ich noch jung war,«
-sagte Larsson, und dabei kriegte Blom einen »upporcut«,
+sagte Larsson, und dabei kriegte Blom einen »*uppercut*«,
 daß er schluckte und nahe daran war, in den Bücherschrank
 hineinzusausen. »Kannst Du denn gar nicht zurückschlagen,
-Olaf 2?!« sagte Frau Blom. — »Ich pariere
+Olaf?!« sagte Frau Blom. — »Ich pariere
 vorläufig bloß,« sagte Blom, und damit bekam er einen
 Stoß gegen den rechten Backenknochen, daß ihm war,
 als würde ihm das Genick ausgerenkt. Nach diesem
@@ -2746,7 +2750,7 @@ in seinem Zorn. Er sah in Blom einen schändlichen
 und rohen Feind, den es zu bekämpfen galt. Blom
 schrie und brüllte, und Frau Blom hatte schon längst
 ihr Telephonbuch hingeworfen und war auf die Straße
-gelaufen, um einen Schumann zu holen. Bloms Gesicht
+gelaufen, um einen Schutzmann zu holen. Bloms Gesicht
 war total verschwollen, seine Augen stierten mit kindisch
 blödem Blick geradeaus in den Weltenraum, seine Beine
 zitterten unter ihm, und mit schlaffen, hängenden Armen
@@ -2763,7 +2767,7 @@ kleinen, niedlichen Nähtisch zusammen; ein Stecknadelbrief
 drang ihm in die Nase und die Stopfnadel aus
 einem Knäuel ins Zwerchfell.
 
-Da kam Frau Blom mit dem Schuhmann! Larsson
+Da kam Frau Blom mit dem Schutzmann! Larsson
 wurde verhaftet.
 
 Als die Sache schließlich zur Verhandlung kam, stellte
@@ -2774,13 +2778,15 @@ Blom nimmt nun Unterricht im Boxen und wartet nur
 auf Larssons Entlassung!
 
 Und Frau Blom legt nun immer zwei Sicherheitsketten
-vor die Eingangstür und hat mit dem Schuhmann,
+vor die Eingangstür und hat mit dem Schutzmann,
 der auf der Straße auf und ab geht, ein besonderes
 Pfeifsignal verabredet.
 
 <@pagebreak/>
 
-Die Ruder.
+<div class="img"><img alt="Ein leeres Ruderboot mit zwei Paddeln liegt im Wasser. Etwas entfernt sieht man mehrere kreisförmige Wellen." src="img12.jpg" style="width: 100%; height: auto;"/></div>
+
+<h2>Die Ruder.</h2>
 
 Morgens, als ich nach dem Hafen hinunter kam, um
 nach den Booten zu sehen, entdeckte ich, daß ein paar
@@ -2811,11 +2817,11 @@ damit.«
 
 »Ja, einen, der ein Kilo wog.«
 
-»Sooo? Wo hast »Du denn den ergattert?«
+»Sooo? Wo hast Du denn den ergattert?«
 
-»Bist Du Polizei
+»Bist Du Polizist im Ort?«
 
-»Nein, nur Inder,
+»Nein, nur interessiert.«
 
 »Ich habe ihn vor Norrön erwischt.«
 
@@ -2837,20 +2843,20 @@ kann man immer gebrauchen.«
 
 »Wollen wir hinfahren und sehen, ob er die Ruder hat?«
 
-»Ja — — wenn wir recht dumm sind — — =.
+»Ja — — wenn wir recht dumm sind — — —.
 Übrigens hat er das Landen an seiner Insel verboten.
 Er jagt uns fort.«
 
 <@pagebreak/>
 
-»Ich brauche die Ruder!«
+»Ich *brauche* die Ruder!«
 
 »Das sehe ich ein, denn Du hast einen Motor. Aber
 ich habe eine andere Idee. Funktioniert der Motor?«
 
 »Gestern lief er ausgezeichnet.«
 
-»Das ist keine Garantie. Aber. wir wollen versuchen.
+»Das ist keine Garantie. Aber wir wollen versuchen.
 Ich fahre nach Norrön und spreche ein paar Worte
 mit ihm. Mich kennt er nicht. Ich werde an der
 Meerseite landen, dann weiß er nicht, wo ich herkomme.«
@@ -2889,7 +2895,7 @@ Die Ruder waren versichert. Sie hatten einen Wert
 von 15 Kronen und jetzt bekommt er 30. Er ist recht
 froh, daß er die Ruder los geworden ist.«
 
-»Sooo — — =«.
+»Sooo — — —«.
 
 »Das heißt: sollten die Ruder bis Sonntag gefunden
 werden, so bekommt er natürlich nichts. Wollen Sie
@@ -2897,7 +2903,7 @@ sich nicht versichern lassen?«
 
 »Ich werde es mir überlegen,« sagte der Norröer.
 
-«
+* * *
 
 Wir aßen zu Mittag, und dann gingen wir ans
 Meer und genossen den schönen Sonnenuntergang. Der
@@ -2906,15 +2912,18 @@ Abend war still und ruhig.
 Am nächsten Morgen erwachte ich früh und ging
 nach dem Hafen hinunter, um nach den Booten zu sehen.
 
-Die Ruder waren wieder zum Vorschein gekommen
-und lagen an ihrem Platz im Boot.
+*Die Ruder waren wieder zum Vorschein gekommen
+und lagen an ihrem Platz im Boot*.
 
 Dafür war die Laufangel fort.
 
 Das war die Visitenkarte des Norröers.
 
 <@pagebreak/>
-Bloms Unbekanntschaften.
+
+<div class="img"><img alt="Ein Mann piekst einem dicken Mann in der Straßenbahn mit dem Finger in den Bauch. Ein Soldat und ein Mädchen beobachten die Szene." src="img13.jpg" style="width: 100%; height: auto;"/></div>
+
+<h2>Bloms Unbekanntschaften.</h2>
 
 Wir standen auf dem Hinterperron einer Elektrischen.
 Wir waren fünf Fahrgäste, von denen Blom einer
@@ -2936,7 +2945,7 @@ Blick nach dem älteren, fetten Herrn, sah ihn freundlich
 und interessiert an und sagte schließlich in verbindlichem
 Ton:
 
-»Sie sind ziemlich fett, mein
+»Sie sind ziemlich fett, mein Herr.«
 
 Ich beobachtete die drei Fahrgäste. Der Leutnant
 lächelte, das junge Mädchen sah erschrocken aus, und
@@ -2945,14 +2954,14 @@ Kopf und erwiderte:
 
 »Was geht das Sie an?«
 
-— »Oho,« sagte Blom ebenso freundlich, »das geht mich
+»Oho,« sagte Blom ebenso freundlich, »das geht mich
 wohl etwas an. Eine fette Person ist nicht recht gesund.
 Jede Korpulenz ist krankhaft. Das Individuum
-hat fein Recht, sich auf irgend eine Weise aus der Gesellschaft
+hat kein Recht, sich auf irgend eine Weise aus der Gesellschaft
 herauszustellen. Sollten Sie durch Ihre Korpulenz
 nicht mehr imstande sein, sich zu ernähren, dann
 muß ja ich eingreifen. Sie werden der Gesellschaft, —
-d. h. mir, — zur Last liegen. Sie sehen also, daß
+d.&nbsp;h. mir, — zur Last liegen. Sie sehen also, daß
 Ihre Korpulenz mich interessiert. Sie sollten etwas
 tun, um sie los zu werden. Essen Sie abends? Trinken
 Sie viel?«
@@ -2962,7 +2971,6 @@ Schaffner aus dem Wagen herauskam, wandte er sich
 an diesen und sagte mit angestrengter Stimme:
 
 <@pagebreak/>
-
 »Muß man sich hier auf dem Wagen beleidigen
 lassen?«
 
@@ -3001,11 +3009,13 @@ Die junge Dame richtete den Blick nach der Decke
 des Perrons und las dreizehn Mal hintereinander:
 
 <@pagebreak/>
-»Nichtabsteigen während derFahrtwegen
-der damit verbundenen Lebensgefahr.«
-»Nicht absteigen während der Fahrt wegen
-der damit verbundenen Lebensgefahr.«
-»Nicht absteigen«…
+»*Nichtabsteigen während derFahrtwegen
+der damit verbundenen Lebensgefahr.*«
+
+»*Nicht absteigen während der Fahrt wegen
+der damit verbundenen Lebensgefahr.*«
+
+»*Nicht absteigen*« …
 
 Blom sah ihr die ganze Zeit in die Augen und
 sagte:
@@ -3079,16 +3089,17 @@ diese Weise behandelt!«
 »Ach,« antwortete der Mann mit dem frommen Aussehen
 <@pagebreak/>
 und dem dicken Haar, »ich bin Wärter in einer
-Anstalt für solche Leute gewesen, ich weiß,
-wie die zu nehmen sind, — nur Milde und Geduld,
-— nur Milde, es hat keinen Zweck, grob zu sein.«
+*Anstalt für solche Leute gewesen*, ich weiß,
+wie die zu nehmen sind, — nur *Milde* und *Geduld*,
+— nur *Milde*, es hat keinen Zweck, grob zu sein.«
 
 Blom setzte den kleinen Hut wieder dahin, wo er
 ihn hergenommen hatte und sprang während der Fahrt
 vom Wagen.
 
 <@pagebreak/>
-Dalströms Telephon.
+
+<h2>Dalströms Telephon.</h2>
 
 Am 1. Mai zog ich in eine neue Wohnung. Das
 heißt, für mich war sie neu. Dalström, der sie sechs Jahre
