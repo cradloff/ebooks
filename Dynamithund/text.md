@@ -3099,6 +3099,8 @@ vom Wagen.
 
 <@pagebreak/>
 
+<div class="img"><img alt="Eine ältere Frau sitzt und hält einen Telefonhörer ans Ohr." src="img14.jpg" style="width: 100%; height: auto;"/></div>
+
 <h2>Dalströms Telephon.</h2>
 
 Am 1. Mai zog ich in eine neue Wohnung. Das
@@ -3111,7 +3113,7 @@ mit Aussicht nach dem Wasser gemietet.
 
 Ich war, wie gesagt, allein. Man weiß, was das
 heißt, allein in einer Wohnung zu sein, ohne elektrisches
-Licht, zwischen Möbeln und Antreten.
+Licht, zwischen Möbeln und Packkisten.
 
 Ich saß mitten auf dem Fußboden und stierte auf
 <@pagebreak/>
@@ -3153,7 +3155,7 @@ bei mir: sobald ich in eine Küche komme, drehe
 <@pagebreak/>
 ich den Wasserhahn auf. Dann kann ich dastehen und
 das laufende Wasser anstarren, bis ich den Hahn plötzlich
-wieder zudrehe und zu mir komme,
+wieder zudrehe und zu mir komme.
 
 Diese Wasserleitung war wie alle anderen. Als das
 Wasser zehn Minuten gelaufen war, drehte ich den Hahn
@@ -3226,7 +3228,7 @@ In diesem Augenblick kam meine Familie nach Hause.
 
 »Bist Du zu Haus?« fragte meine Frau.
 
-»Nein,« sagte ich, »ich bin ausgegangen,/« denn ich
+»Nein,« sagte ich, »ich bin ausgegangen,« denn ich
 weiß, wie man geistreiche Fragen beantwortet.
 
 »Ist was gewesen?« fragte meine Frau.
@@ -3242,7 +3244,7 @@ melden. Ich sagte zu ihr: »Tu’ das nicht! Du kannst
 nicht wissen, was Du zu hören bekommst! Dieser Apparat
 <@pagebreak/>
 enthüllt die unheimlichsten Geheimnisse. Melde
-Dich nicht!
+Dich nicht!«
 
 Folglich meldete sie sich. Sie sagte »Hallo«, und
 ich sah, wie sie gleich darauf vor Freude aufleuchtete.
@@ -3278,14 +3280,14 @@ sein könnte. Als ich wieder ins Zimmer kam,
 stand unser Dienstmädchen am Telephon und ich hörte
 folgendes Gespräch:
 
-»Zum Piepen! Och! Warum ooch? Det jlobe ik!
-Jott wie schade! Oh! »Nich in de Hand! Wat meenen
+»Zum Piepen! Och! Warum ooch? Det jlobe ick!
+Jott wie schade! Och! Nich in de Hand! Wat meenen
 Se? Ick heeße Amalje!«
 <@pagebreak/>
+
 Da ging ich hin, nahm Amalie den Hörer ab, hängte
 ihn an, klingelte beim Amt an, ließ mich mit der Aufsicht
 verbinden und verlangte die sofortige Sperrung des
-
 Apparates.
 
 Die Dame mit der Kommode kam bald darauf. Ich
@@ -3295,9 +3297,13 @@ hätte.
 
 Und das hatte sie ja auch.
 
+<div class="img"><img alt="Ein Mann steht vor einem Haufen von Kisten, Körben, Möbeln und Säcken." src="img15.jpg" style="width: 100%; height: auto;"/></div>
+
 <@pagebreak/>
 
-Die Anchovisbüchse.
+<div class="img"><img alt="Ein Mann hält eine Dose Anchovis und einen Hammer in der Hand. Aus der Dose spritzt es ihm ins Gesicht." src="img16.jpg" style="width: 100%; height: auto;"/></div>
+
+<h2>Die Anchovisbüchse.</h2>
 
 »Diese Anchovis hier taugen nichts.«
 
@@ -3346,12 +3352,12 @@ Herr Blom und sah sich um. »Habe ich nicht gesagt,
 Ihr sollt nicht in der Küche sein? Warum gehorcht Ihr
 <@pagebreak/>
 nicht? Eure Mutter verzieht Euch wohl?! Macht die
-Tür zu! Gebt den Büchsenöffner. her!«
+Tür zu! Gebt den Büchsenöffner her!«
 
 »Was?!«
 
 »Den Büch-sen-öff-ner! Wissen Sie nicht, was das
-ist, Amanda? Denken Sie, daß man. Konservenbüchsen
+ist, Amanda? Denken Sie, daß man Konservenbüchsen
 mit Haarnadeln oder Feuerhaken oder alten Linealen
 aufmacht?! Ja?«
 
@@ -3369,7 +3375,7 @@ zu sprechen. Laß doch Amanda gehen, warum mußt
 Du denn rennen? Steh nicht da und guck durch die
 Türritze! Wer war es?«
 
-»Es war der elektrische Arbeiter …-«
+»Es war der elektrische Arbeiter …«
 
 »Der elektrische Arbeiter! Was meinen Sie damit?
 Ist der Kerl elektrisch?«
@@ -3395,10 +3401,10 @@ einmal gesehen habe, erkenne ich auch wieder.«
 und habe mir diesen geborgt, damit es keinen Zank gibt.«
 
 »Du borgst Dir Hausgerät? Damit es keinen Zank
-gibt?! Anderer Leute 63e gen!! Wer weiß, wozu
-der schon gebraucht worden
+gibt?! Anderer Leute Büchsenöffner!! Wer weiß, wozu
+der schon gebraucht worden ist!!«
 
-Herr Blom verschwindet 0 dem Apparat und kehrt
+Herr Blom verschwindet mit dem Apparat und kehrt
 nach einer Weile wieder.
 
 »Ich habe ihn mit Sublimat abgewaschen. Das wird
@@ -3420,7 +3426,7 @@ Der Deckel bekommt ein Loch, und ein Strahl salziger
 Lake spritzt Herrn Blom gerade in das rechte Auge.
 Er läßt die ganze Geschichte fallen und tanzt umher:
 
-»Ogottogottogott: Himmerherrgot! An-u-u-nh!«
+»Ogottogottogott: Himmerherrgot! Au-u-u-uh!«
 
 Er zieht sich nach dem Schlafzimmer zurück, und die
 Damen beenden den Akt.
@@ -3430,10 +3436,10 @@ Blom leise die Tür und sagt:
 
 <@pagebreak/>
 
-»Bernhardchen, es waren Heringe in Gabelbissen
+»Bernhardchen, es waren *Heringe in Gabelbissen*
 die Du gekauft hast!«
 
-Bernhardchen stiert mit Eis O ollen Augen geradeaus
+Bernhardchen stiert mit rotgeschwollenen Augen geradeaus
 in die Luft. Dann macht er die Augen zu
 und sieht sich in Gedanken die Straße entlang und in
 das Delikatessengeschäft stürmen und über den Ladentisch,
@@ -3448,7 +3454,10 @@ schmeckt ausgezeichnet, — mit Pellkartoffeln!«
 Blom ist eben ein Mann!
 
 <@pagebreak/>
-Pilze.
+
+<div class="img"><img alt="Auf dem Bild sind mehrere Pilze zu sehen, aus dem ganz rechts entweicht gerade eine kleine Wolke." src="img17.jpg" style="width: 100%; height: auto;"/></div>
+
+<h2>Pilze.</h2>
 
 Jetzt sind wir in der Pilzzeit. Nun müssen sie gesammelt
 und eingemacht und auf Regale gestellt werden,
@@ -3467,7 +3476,7 @@ Ich ging auf die Veranda und sah mir die Natur
 an. Es war eine schöne Natur, und mittendrin ging
 Janssons Kuh und graste ein bißchen Natur hier und
 ein bißchen Natur da. Einen Teil lieferte sie gütigst
-zurück, ein anderer Teil verschwand völlig,
+zurück, ein anderer Teil verschwand völlig.
 
 Ich rief meine Frau. Sie kam sofort, denn sie dachte,
 Leutnant Lindgren ritte gerade vorbei.
@@ -3495,7 +3504,7 @@ achtzehn Liter Pfefferlinge bekommen.«
 
 »Sagte sie. Ich habe den Korb gesehen. Da haben
 armselige drei Stück drin gelegen und nach einander geschielt.
-Nein, Du, ich kenne die Stellen.«
+Nein, Du, ich kenne die *Stellen*.«
 
 »Die Majorin war gestern oben im Hag. Sie hat
 einen Fliegenpilz mit nach Hause gebracht, und ihr Mann
@@ -3506,8 +3515,9 @@ Am nächsten Tage ging ich hin und pflückte Pilze.
 Meine Frau kam mit, und wir trugen einen Waschkorb
 zwischen uns.
 
-Unterwegs begegneten wir der Frau 0000
-Herrschaften Ihre Wäsche selber?« sagte
+Unterwegs begegneten wir der Frau Rendantin:
+
+»Holden die Herrschaften Ihre Wäsche selber?« sagte
 sie und lächelte süßlich-maliziös.
 
 »Nein«, sagte ich, »wir pflücken Pilze. Ich habe
@@ -3522,12 +3532,12 @@ er sich uns nachschleichen und nachsehen sollte, wo
 wir blieben.
 
 Und wir sammelten Pilze und Holz. Ich pflückte
-Fliegenpilze und Ranchpilze und Karl-Johannspilze und
+Fliegenpilze und Rauchpilze und Karl-Johannspilze und
 Pfefferlinge und noch mehr Fliegenpilze und Schieflinge
 und Trieflinge und alles, was ich nur finden
-konnte, und dann trügen wir alles nach Hause, und
+konnte, und dann trugen wir alles nach Hause, und
 dann sonderte ich die giftigen Pilze aus, und dann
-legte ich sie in ein Körbchen. und ging in die Küche
+legte ich sie in ein Körbchen und ging in die Küche
 von Svensson. Da stand Svenssons Dienstmädchen,
 das vor Dummheit beinahe schielt.
 
@@ -3568,7 +3578,7 @@ Dann rannte ich weiter.
 Frau Persson blieb unbeweglich stehen, denn sie glaubte,
 daß ihr eine Wespe unter das Korsett kriechen wollte.
 Dann nahm ich einen Anlauf und sprang über Frau
-Persson.« Sie stand auch gut.
+Persson. Sie stand auch gut.
 
 Darauf sprang ich über Frau Jonsson und Frau
 Nilsson und Frau Lönnblad und Frau Höglund. Frau
@@ -3588,11 +3598,14 @@ richtig warm und gerade richtig windig.
 Aber ich mache mir weiter nichts aus Wind.
 
 <@pagebreak/>
-Rosenlunds Zaubervorstellung.
+
+<div class="img"><img alt="Ein Mann springt in die Luft. Vor der Nase hängt ihm ein Käfig. Um ihn her stehen mehrere Personen und beobachten ihn." src="img18.jpg" style="width: 100%; height: auto;"/></div>
+
+<h2>Rosenlunds Zaubervorstellung.</h2>
 
 Wir verkehren mit Rosenlunds, — nicht etwa, daß
 ich damit prahlen will. Wir gehen zu ihren Gesellschaften,
-weil man ja irgend wohin gehen muß. Dabei —
+weil man ja irgend wohin gehen muß. Dabei
 pflege ich Rosenlund sein Geld abzugewinnen, wenigstens
 das, was er zu Hause hat. Dann vergeht eine Zeit, ehe
 wir wieder hingehen. Schon auf der Treppe höre ich Amalie
@@ -3611,8 +3624,8 @@ Hätte ich bloß das As gehabt! Dann hätte ich ihn
 reingelegt! Hätte ich geahnt, daß die Kreuz acht da
 steckte!«
 
-Einmal machte ich dann die Entröetür auf, stete ein
-Einfronenstück dazwischen und sagte:
+Einmal machte ich dann die Entréetür auf, steckte ein
+Einkronenstück dazwischen und sagte:
 
 »Gerade oder ungerade, auf die Jahreszahl, Adolfchen!«
 
@@ -3642,11 +3655,11 @@ Nur ein einfaches Butterbrot …«
 da und Carlssons und Fräulein Halldin …«
 
 <@pagebreak/>
-»Dann komme ich!«
+»Dann komme *ich*!«
 
 »Und Fredrikssons und der junge Blomdahl …«
 
-»Dann kommt meine Frau …«
+»Dann kommt *meine Frau* …«
 
 »Und dann noch ein paar Leute. Ihr werdet etwas
 zu sehen bekommen, was Ihr noch nie gesehen habt.«
@@ -3654,7 +3667,7 @@ zu sehen bekommen, was Ihr noch nie gesehen habt.«
 »Hast Du etwa die Absicht, guten Whisky kommen
 zu lassen?« sagte ich.
 
-»Ich werde eine Zaubervorstellung geben!«
+»Ich *werde eine Zaubervorstellung geben*!«
 
 »Dann dürfen wohl die Kinder mitkommen? Sowas
 macht ihnen Spaß.«
@@ -3681,7 +3694,7 @@ daß sie früh nach Hause gehen würde.
 
 Dann kam der junge Blomdahl. Er trug einen
 Stehumlegekragen zum Smoking und hatte vorher eine
-Stunde im Cafe gesessen. Den Duft merkte man schon
+Stunde im Café gesessen. *Den* Duft merkte man schon
 auf zwei Meter.
 
 <@pagebreak/>
@@ -3691,7 +3704,7 @@ seine Frau sagte:
 
 »Aber Adolf, was ist Dir denn?«
 
-Und Rosenlund antwortete — mit den Augen
+Und Rosenlund antwortete — mit den Augen:
 
 »Schweig, Weib! Wenn ich nur wüßte, wo ich das
 Coeur-As hingelegt habe, das ich für das Kartenkunststück
@@ -3722,7 +3735,7 @@ zeigen. Natürlich kann kein Mensch zaubern, das heißt, —
 hm, — ich meine, — es gibt nichts Übernatürliches.
 Ich will Ihnen also zuerst ein paar kleine Kartenkunststücke
 vormachen. Sie sehen hier ein gewöhnliches
-Spiel Karten.
+Spiel Karten.«
 
 »Darf ich es mal sehen?« fragte ich.
 
@@ -3751,11 +3764,11 @@ die Augen zu und dachte nach. Dann sagte er:
 »Piquebube!« sagte ich. »Darf ich noch einmal ziehen?«
 
 »Nein, jetzt werde ich ein anderes Kunststück zeigen,
-das noch nie ausgeführt worden ist«, sagte- Rosenlund.
+das noch nie ausgeführt worden ist«, sagte Rosenlund.
 »Das ist der verschwindende Vogelbauer. Einen Augenblick,
 bitte!«
 
-Rosenlund rannte in ein anderes »Zimmer. Nach
+Rosenlund rannte in ein anderes Zimmer. Nach
 einer Weile hörten wir ihn rufen:
 
 »Amalie, komm doch mal her!«
@@ -3766,12 +3779,12 @@ Er sah angestrengt aus und hielt einen Vogelbauer
 vor dem Bauch. Er stellte sich vor uns hin,
 stierte in die Luft und schrie aus Leibeskräften:
 
-»Geh!«
+»*Geh*!«
 
 Er wollte, daß der Bauer verschwinden sollte, ohne
 daß man sah, wo er geblieben war. Es tut mir leid,
 <@pagebreak/>
-sagen zu müssen, daß das Kunststü völlig mißlang.
+sagen zu müssen, daß das Kunststück völlig mißlang.
 Der Bauer sollte zusammenklappen und in den Ärmel
 hinaufrutschen, als Rosenlund »geh«! schrie und die
 Arme ausstreckte. Der Bauer faltete sich aber zusammen
@@ -3783,7 +3796,7 @@ und Frau Rosenlund rang die Hände und rief:
 
 »Hätten sie bloß Karten gespielt!«
 
-Der junge Blomdahl sagte
+Der junge Blomdahl sagte:
 
 »Das ist ganz entsetzlich«, und Carlsson erwiderte:
 
@@ -3798,7 +3811,7 @@ andermal wiederholen. Aber jetzt werde ich Ihnen
 mein größtes Kunststück zeigen. Ich muß das elektrische
 Licht einen Augenblick ausdrehen!«
 
-»Jaaa nicht!« sagte Fräulein Halldin.
+»*Jaaa* nicht!« sagte Fräulein Halldin.
 
 »Ausdrehen!« rief ich. Rosenlund drehte aus. Als
 das Licht wieder eingeschaltet wurde, sah Carlsson
@@ -3816,7 +3829,6 @@ Schüssel mit Wasser unter dem Tuch hervor.
 Wir klatschten wahnsinnig.
 
 <@pagebreak/>
-
 »Abwarten, es kommt noch mehr«, sagte Rosenlund.
 
 »Hokus, Pokus!« Und er holte noch eine Schüssel
@@ -3834,13 +3846,16 @@ dem Kutscher auf dem Bock. Frauen, die im Wasser
 gelegen haben, sind nie mein Fall gewesen. Aber ich
 war dennoch so freundlich, eine Fahrt um den Tiergarten
 herum vorzuschlagen, ganz außen herum, damit
-sie tronen könnte.
+sie trocknen könnte.
 
 In der darauffolgenden Woche spielten wir bei Rosenlunds
 wieder Karten.
 
 <@pagebreak/>
-Die Mietskaserne.
+
+<div class="img"><img alt="Halb verdeckt duch einen Hügel sieht man ein mehrstöckiges Gebäude stehen." src="img12.jpg" style="width: 100%; height: auto;"/></div>
+
+<h2>Die Mietskaserne.</h2>
 
 Heute ist Sonntag und ein sehr schöner Tag. Gestern
 sind wir in die Wohnung gezogen, und heute sind wir
