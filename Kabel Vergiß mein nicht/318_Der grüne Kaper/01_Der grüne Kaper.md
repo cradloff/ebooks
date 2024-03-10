@@ -36,7 +36,7 @@ Die Stimme kam aus der nur angelehnten Tür des Schuppens.
 
 Gleich darauf zuckte der schmale Lichtkegel einer elektrischen Taschenlampe durch die Finsternis. Die beiden Männer wandten sich nach links, wo eine Tür in einen zweiten Raum führte, in dem an der Decke eine schmierige, stinkende Petroleumlampe brannte, die jedoch mit Hilfe von Zeitungen so stark abgeblendet war, daß sie nur einen rötlichen Lichtkreis auf den schmutzigen Bretterboden warf.
 
-Fünfundzwanzig Deutsche waren hier jetzt versammelt. Eine recht buntzusammengewürfelte Gesellschaft: Schiffsoffiziere des Norddeutschen Lloyds und der Hamburg-Amerika-Linie, Steuerleute, Matrosen und Heizer von Dampfern und Seglern, ferner ein Schiffsarzt, zwei Ingenieure, ein Chemiker, drei Kellner und — noch jemand, der all diese zusammengeströmten Deutschen ausgesucht und zwischen ihnen den Vermittler gespielt hatten bis hier auf diesem gefährlichen Boden, wo überall englische und französische Agenten herumspionierten, so etwas wie ein Geheimbund sich bildete, dessen Zweck einzig und allein darauf gerichtet war, den Mitgliedern die Rückkehr die Heimat und die Teilnahme am Kampfe gegen England und seine Verbündeten zu ermöglichen.
+Fünfundzwanzig Deutsche waren hier jetzt versammelt. Eine recht buntzusammengewürfelte Gesellschaft: Schiffsoffiziere des Norddeutschen Lloyds und der Hamburg-Amerika-Linie, Steuerleute, Matrosen und Heizer von Dampfern und Seglern, ferner ein Schiffsarzt, zwei Ingenieure, ein Chemiker, drei Kellner und — noch jemand, der all diese zusammengeströmten Deutschen ausgesucht und zwischen ihnen den Vermittler gespielt hatten bis hier auf diesem gefährlichen Boden, wo überall englische und französische Agenten herumspionierten, so etwas wie ein Geheimbund sich bildete, dessen Zweck einzig und allein darauf gerichtet war, den Mitgliedern die Rückkehr in die Heimat und die Teilnahme am Kampfe gegen England und seine Verbündeten zu ermöglichen.
 
 Der Chinese trat jetzt in die Mitte des Raumes, verbeugte sich leicht und fragte mit halblauter Stimme:
 
@@ -78,7 +78,7 @@ Alte Kirchen, noch aus der Zeit der Spanier stammend, schöne Plätze mit hohen 
 
 An einem der Schmuckplätze liegt das Zentral-Hotel<@refnote/>, das beste Panamas, ein Bau, der mit allen Errungenschaften der Neuzeit ausgestattet ist. Ihm gegenüber wieder erhebt sich in einem parkähnlichen Garten ein altertümliches, verwittertes Haus aus Backsteinen. Das spanische Konsulat war früher einmal darin untergebracht. Jetzt wurden die wenigen, noch bewohnbaren Räume an Privatleute vermietet.
 
-Der Chinese bog vor diesem Schmuckplatz in ein enges Gäßchen ein und gelangte so an die Rückfront des Gartens des ehemaligen Konsulats. Geschickt schwang er sich über die halb zerstörte Steinmauer und schlich nun sehr behutsam nach dem Stallanbau hin, wo er in der einstigen Wagenremise verschwand. Sie war halb mit zerbrochenen, übereinangergehäuften Kisten und allerlei Gerümpel angefüllt. Eine dieser Kisten rückte der Chinese, sich dabei wieder seiner Taschenlampe bedienend, beiseit, schlüpfte in die so entstandene Öffnung hinein und zog die Kiste wieder an die alte Stelle, indem er gleichzeitig einen löcherigen Teppich wie einen Vorhang über diesen Eingang fallen ließ.
+Der Chinese bog vor diesem Schmuckplatz in ein enges Gäßchen ein und gelangte so an die Rückfront des Gartens des ehemaligen Konsulats. Geschickt schwang er sich über die halb zerstörte Steinmauer und schlich nun sehr behutsam nach dem Stallanbau hin, wo er in der einstigen Wagenremise verschwand. Sie war halb mit zerbrochenen, übereinandergehäuften Kisten und allerlei Gerümpel angefüllt. Eine dieser Kisten rückte der Chinese, sich dabei wieder seiner Taschenlampe bedienend, beiseit, schlüpfte in die so entstandene Öffnung hinein und zog die Kiste wieder an die alte Stelle, indem er gleichzeitig einen löcherigen Teppich wie einen Vorhang über diesen Eingang fallen ließ.
 
 Gleich darauf begann er im Innern des Haufens von Gerümpel beim Schein einer Kerze seinen äußeren Menschen in sein wahres Selbst zu verändern. Ein gefüllter Wassereimer, Seife, Bürste, Handtücher und ein Spiegel standen zu diesem Zweck zur Verfügung.
 
@@ -109,7 +109,7 @@ Der Marineoffizier machte eine gleichgültige Geste mit der Hand.
 
 Da mischte der dicke Walport sich ein, der auch seiner Kleidung ebenso wie in seinem groben Bulldoggengesicht den Emporkömmling verriet. Er war stets wie ein Geck trotz seiner fünfzig Jahre herausgeputzt und mit Brillanten überladen, ganz im Gegensatz zu seinem einzigen Kinde, die in allem weit mehr Geschmack verriet.
 
-»Ich wünschte, der Mann wäre Vollblutengländer, wahrhaftig! In dem Burschen steckt etwas. Ich liebe solche Leute, die sich wie ich durch das harte Leben durchgebissen haben. Und das hat er getan. Er gibt ja ruhig zu, mit achtzehn Jahren von Hause entlaufen zu sein, um nicht ein frommer Prediger werden zu müssen, wie es sein Vater war, der den Sohn für denselben Beruf bestimmt hatte. Fragen Sie Marschner nachher doch mal, denn er wird sich bestimmt noch einfinden, Miß Ribot, was er in seinem Leben nicht gewesen ist. Alles, sage ich Ihnen, alles — vom Hoteldiener bis zum Krankenwärter in einem Seuchenlazarett, vom Matrosen bis zum Minenarbeiter. Und als letzterer hat er dann sein Glück gemacht, hat gerade vor Ausbruch des Krieges silberhaltige Erzgänge oben in Mexiko entdeckt, die er glänzend von einer Gesellschaft bezahlt erhielt. Und jetzt schnüffelt er hier in Panama nach einem noch fetteren Bissen herum. Ich glaube, er will ein Unternehmer größten Stils grünen, um den Touristen, die sich den Kanal ansehen wollen, diese Besichtigung in jeder Beziehung zu erleichtern und dabei natürlich auch ihre Taschen zu plündern, was die Hauptsache ist. Der Gedanke ist nicht schlecht, und vielleicht gebe auch ich dazu Geld her.«
+»Ich wünschte, der Mann wäre Vollblutengländer, wahrhaftig! In dem Burschen steckt etwas. Ich liebe solche Leute, die sich wie ich durch das harte Leben durchgebissen haben. Und das hat er getan. Er gibt ja ruhig zu, mit achtzehn Jahren von Hause entlaufen zu sein, um nicht ein frommer Prediger werden zu müssen, wie es sein Vater war, der den Sohn für denselben Beruf bestimmt hatte. Fragen Sie Marschner nachher doch mal, denn er wird sich bestimmt noch einfinden, Miß Ribot, was er in seinem Leben nicht gewesen ist. Alles, sage ich Ihnen, alles — vom Hoteldiener bis zum Krankenwärter in einem Seuchenlazarett, vom Matrosen bis zum Minenarbeiter. Und als letzterer hat er dann sein Glück gemacht, hat gerade vor Ausbruch des Krieges silberhaltige Erzgänge oben in Mexiko entdeckt, die er glänzend von einer Gesellschaft bezahlt erhielt. Und jetzt schnüffelt er hier in Panama nach einem noch fetteren Bissen herum. Ich glaube, er will ein Unternehmer größten Stils gründen, um den Touristen, die sich den Kanal ansehen wollen, diese Besichtigung in jeder Beziehung zu erleichtern und dabei natürlich auch ihre Taschen zu plündern, was die Hauptsache ist. Der Gedanke ist nicht schlecht, und vielleicht gebe auch ich dazu Geld her.«
 
 Dasy Walport lächelte geringschätzig. Ihr hübsches, rassiges Gesicht, das so wenig dem ihres Vaters glich, drückte in jeder Miene tiefste Verachtung aus.
 
@@ -173,9 +173,9 @@ Walport trank seinen Whisky mit Eis und Fruchtsaft langsam aus und dachte, daß 
 
 Dann wandte er sich lebhaft an seine Tochter.
 
-»Dasy, ich muß sofort nach Punta Arenas (Haupthafen der Republik Nicaragua). Watson meldet mir daß der Mexikaner nun doch seine Bergwerke verkaufen will.«
+»Dasy, ich muß sofort nach Punta Arenas (Haupthafen der Republik Nicaragua). Watson meldet mir, daß der Mexikaner nun doch seine Bergwerke verkaufen will.«
 
-Er erhob sich »Natürlich fahre ich mit der Jacht. Das geht am schnellsten.« Dann schien ihm ein besonderer Gedanke zu kommen. Er wandte sich an den Oberst Ribot und fuhr fort: »Begleiten Sie mich doch mit den Ihrigen. So eine Seefahrt hat mehr Reiz, als hier die Stickluft in Panama zu atmen. Aber Sie müssen sich schnell entscheiden. Auch nur das Nötigste mitnehmen. In drei Tagen sind wir wieder zurück.«
+Er erhob sich. »Natürlich fahre ich mit der Jacht. Das geht am schnellsten.« Dann schien ihm ein besonderer Gedanke zu kommen. Er wandte sich an den Oberst Ribot und fuhr fort: »Begleiten Sie mich doch mit den Ihrigen. So eine Seefahrt hat mehr Reiz, als hier die Stickluft in Panama zu atmen. Aber Sie müssen sich schnell entscheiden. Auch nur das Nötigste mitnehmen. In drei Tagen sind wir wieder zurück.«
 
 Frau Ribot merkte, daß ihr Gatte offenbar Lust hatte, der Einladung Folge zu leisten. Sie stöhnte daher kläglich auf.
 
@@ -191,7 +191,7 @@ Marschner hatte den Kellner, der schon davoneilen wollte, zurückgerufen.
 
 Der Börsenkönig nickte.
 
-»Sehr liebenswürdig. Wenn Sie so freundlich sein wollten … Dann habe ich wenigsten die Gewißheit, daß die Geschichte klappt. — Hm — wollen nicht auch mit? Was meinen Sie dazu? — Und wie steht’s mit Ihnen, Shouftkraat?«
+»Sehr liebenswürdig. Wenn Sie so freundlich sein wollten … Dann habe ich wenigsten die Gewißheit, daß die Geschichte klappt. — Hm — wollen Sie nicht auch mit? Was meinen Sie dazu? — Und wie steht’s mit Ihnen, Shouftkraat?«
 
 Der dürre Engländer sagte nur maulfaul: »Ich mache mit« und wandte sich dann an Marschner: »Sie dürften hier doch jetzt anscheinend nötiger sein.«
 
@@ -274,11 +274,11 @@ Marschner hatte einem der Neger leise Befehl gegeben, das Fahrzeug näher mit de
 
 Die »India« lag weit draußen hinter der kleinen Insel Farkalane außerhalb der Quarantänezone. Emmery Walport wollte die Scherereien mit der Hafenpolizei vermeiden, die es mit den Untersuchungen der Schiffe auf gelbes Fieber sehr genau nahm.
 
-In einer halben Stunde war man der Jacht bis auf achthundert Meter etwa nahe gekommen Die Neger und der Chinese hatten wie die Teufel gerudert. Unterwegs war man noch einmal von einem Polizeiboot angerufen worden, das aber sofort wieder davonjagte, als Walport hinüberrief, er wolle nach seiner Jacht.
+In einer halben Stunde war man der Jacht bis auf achthundert Meter etwa nahe gekommen. Die Neger und der Chinese hatten wie die Teufel gerudert. Unterwegs war man noch einmal von einem Polizeiboot angerufen worden, das aber sofort wieder davonjagte, als Walport hinüberrief, er wolle nach seiner Jacht.
 
 Marschner saß am Steuer, Shouftkraat vorn neben Frau Ribot. Diese stocherte mit dem Sonnenschirm, den sie höchst überflüssigerweise mitgeschleppt hatte, in den Netzen umher.
 
-»Es steht nur so aus, als ob es alles Netze sind«, sagte sie plötzlich zu dem langen Marineoffizier. »Darunter liegen anscheinend Kisten. Hören Sie — es klingt ganz hohl, wenn ich mit der Schirmspitze gegenstoße.«
+»Es sieht nur so aus, als ob es alles Netze sind«, sagte sie plötzlich zu dem langen Marineoffizier. »Darunter liegen anscheinend Kisten. Hören Sie — es klingt ganz hohl, wenn ich mit der Schirmspitze gegenstoße.«
 
 In derselben Minute besichtigte Klaire Ribot den linken Ärmel ihrer weißen Sportjacke mit entsetzten Blicken.
 
@@ -348,7 +348,7 @@ Kaum hatte er das letzte Wort ausgesprochen, als der Marineoffizier wie Ruhe geb
 
 Walports Bulldoggengesicht zeigte einen leicht beunruhigten Ausdruck.
 
-»Verdammt — was bedeutet das alles?!« brummte er und schritt zu der hellen, mit eingelegter Arbeit kunstvoll verzierten Tür, die auf die Haupttreppe führte. »Erst zwei fremde Gesichter, dann hier bereits das Licht eingeschaltet und die Türen unverschlossen, obwohl das während meiner Abwesenheit verboten ist, und nun noch die Abfahrt, ohne das Winsterley weiß, wo ich hin will …!! Muß doch mal selbst …«
+»Verdammt — was bedeutet das alles?!« brummte er und schritt zu der hellen, mit eingelegter Arbeit kunstvoll verzierten Tür, die auf die Haupttreppe führte. »Erst zwei fremde Gesichter, dann hier bereits das Licht eingeschaltet und die Türen unverschlossen, obwohl das während meiner Abwesenheit verboten ist, und nun noch die Abfahrt, ohne daß Winsterley weiß, wo ich hin will …!! Muß doch mal selbst …«
 
 Er brachte den Satz nicht zu Ende, rüttelte an dem Elfenbeindrücker der Tür, fluchte, rüttelte wieder, stieß sogar mit Fuß und Knie dagegen. Es half nichts.
 
@@ -417,13 +417,13 @@ Man war jetzt wieder allein und konnte ungestört die Lage erörtern.
 
 Shouftkraat meinte, hier bliebe zunächst nichts anderes zu tun als zu gehorchen. »Aber es ist ja noch nicht aller Tage Abend!« fügte er mit einem rachsüchtigen Grinsen hinzu.
 
-Da öffnete sich abermals die eine Tür und ein Mann, der sich inzwischen den blauen Matrosenanzug eines der Leute der Jacht angezogen hatte, brachte ein großes Teebrett mit allerlei Erfrischungen herein stellte es schweigend auf einen Tisch und wollte wieder verschwinden.
+Da öffnete sich abermals die eine Tür und ein Mann, der sich inzwischen den blauen Matrosenanzug eines der Leute der Jacht angezogen hatte, brachte ein großes Teebrett mit allerlei Erfrischungen herein, stellte es schweigend auf einen Tisch und wollte wieder verschwinden.
 
 »He, Ihr da«, rief Walport ihn aber an, »was ist eigentlich mit meinem Kapitän und der sonstigen Besatzung der »India« geschehen?«
 
 In schauderhaftem Englisch erwiderte der junge, stämmige, hellblonde Bursche:
 
-»Alle im Schlaf überrumpelt, Master, — alle, ohne einen Tropfen Blut ging die Sache ab. Kein Wunder!! War ja alles so sein vorbereitet von unserem Kapitän. Auch das Telegramm aus Punta Arenas war gefälscht.«
+»Alle im Schlaf überrumpelt, Master, — alle, ohne einen Tropfen Blut ging die Sache ab. Kein Wunder!! War ja alles so fein vorbereitet von unserem Kapitän. Auch das Telegramm aus Punta Arenas war gefälscht.«
 
 »Und wer ist der Kapitän?« fragte Dasy schnell.
 
@@ -431,7 +431,7 @@ In schauderhaftem Englisch erwiderte der junge, stämmige, hellblonde Bursche:
 
 Walport winkte ab.
 
-»Dieser Marschner — dieser Marschner!!« stöhnte er Kopfschüttelnd.
+»Dieser Marschner — dieser Marschner!!« stöhnte er kopfschüttelnd.
 
 Oberst Ribot, ein kleiner Herr mit gefärbtem Spitzbart, wollte sich jetzt die Kabinen der Damen ansehen. Er war doch so etwas in Sorge wegen seiner Töchter.
 
@@ -447,7 +447,7 @@ Gleich darauf verabschiedeten die Herren sich sehr ernst, fast feierlich, und gi
 
 »So, da wären wir, meine Herren.« Der Raum enthielt außer drei Kojenbetten eine praktische Wohneinrichtung, bei der nichts fehlte.
 
-Jetzt erst bemerkte der abgesetzte Jachtbesitzer, daß der Fregattenkapitän das Teebrett mit den Erfrischungen aus dem Salon mitgebracht hatte. Und so kam es denn, daß die drei Herren, die sich gewiß in einer eigenartigen Lage befanden, sich an dem Mitteltische niederließen und mit steigendem Appetit zu essen und zu trinken begannen, wobei sich leise unterhielte.
+Jetzt erst bemerkte der abgesetzte Jachtbesitzer, daß der Fregattenkapitän das Teebrett mit den Erfrischungen aus dem Salon mitgebracht hatte. Und so kam es denn, daß die drei Herren, die sich gewiß in einer eigenartigen Lage befanden, sich an dem Mitteltische niederließen und mit steigendem Appetit zu essen und zu trinken begannen, wobei sie sich leise unterhielten.
 
 Walport und Shouftkraat hatten sich mit der unangenehmen Tatsache, Gefangene der Deutschen zu sein, bereits leidlich abgefunden, allerdings nicht etwa aus reiner Gleichgültigkeit gegen ihr Schicksal, sondern weil sie vielmehr bestimmt hofften, die »India« würde sehr bald von einem englischen Kreuzer angehalten werden. Sie waren eben beide Vollblutengländer und von der Macht ihres Vaterlandes so überzeugt, daß sie es für ausgeschlossen hielten, die Jacht könnte sich ihren Verfolgern lange entziehen. Und daß sie verfolgt werden würde, war ja sicher. Ihr längeres Ausbleiben mußte in kurzem auffallen, da Shouftkraat dem englischen Konsul in Panama Bescheid gegeben hatte, daß er mit Walport nach Punta Arenas fahre und in drei Tagen bestimmt wieder zurück sein würde. Wenn dann noch der Diebstahl der Ruderboote aus dem Hafen an jenem Abend und das gleichzeitige Verschwinden von einigen Dutzend Deutschen aus Panama in eine für einen hellen Kopf nicht gerade allzu schwer herzustellende Beziehung mit der »India« gebracht wurde, würde das Konsulat, da es sich ja um ein englisches Schiff handelte, sofort auf drahtlosem Wege alle Kreuzerstationen im Stillen Ozean alarmieren und es würde eine Treibjagd auf die »India« beginnen, deren Ausgang kaum zweifelhaft sein konnte, da das elegante Fahrzeug mit seinem schneeweißen Anstrich und der Art seiner Takelung unter hunderten sofort herauszufinden war.
 
@@ -592,7 +592,7 @@ Lüder, ein schlanker Hüne mit blondem Spitzbart, machte seinen Bückling und w
 
 »Wir beide kennen uns ja bereits, Herr Fregattenkapitän. Sie hatten die Liebenswürdigkeit, mich vor drei Wochen von Bord des italienischen Dampfers »Marzello« herunterzuholen, auf dem ich, als kranker Peruaner verkleidet, mich nach Deutschland durchmogeln wollte.«
 
-Nach dieser für Shouftkraat nicht gerade angenehmen Zwischenszene kam Erwin Meirat, der zweite Offizier, heran. Er verbeugte sich nur kurz und trat bei Seite. Ebenso glatt erledigte sich die Vorstellung des dritten Offiziers und des Ingenieurs, während der Arzt Doktor Volker, ein mittelgroßer Herr mit dunkelblondem Schnurrbärtchen und ein paar Durchziehern in dem gebräunten Gesicht, hier gleichfalls nur die Bekanntschaft mit dem englischen Marineoffizier erneuerte und dies auch mit den Worten zum Aus druck brachte:
+Nach dieser für Shouftkraat nicht gerade angenehmen Zwischenszene kam Erwin Meirat, der zweite Offizier, heran. Er verbeugte sich nur kurz und trat bei Seite. Ebenso glatt erledigte sich die Vorstellung des dritten Offiziers und des Ingenieurs, während der Arzt Doktor Volker, ein mittelgroßer Herr mit dunkelblondem Schnurrbärtchen und ein paar Durchziehern in dem gebräunten Gesicht, hier gleichfalls nur die Bekanntschaft mit dem englischen Marineoffizier erneuerte und dies auch mit den Worten zum Ausdruck brachte:
 
 »Ich freue mich außerordentlich, Herr Fregattenkapitän, Sie hier in etwas veränderter Stellung wiederzusehen. Ich wollte ja eigentlich schon vor einem Monat als Steward mit dem holländischen Schnelldampfer »Wilhelminje« nach Rotterdam mich aus dem Staube machen, hatte es aber Ihren Bemühungen zu danken, daß ich als Deutscher noch rechtzeitig entlarvt wurde und so nunmehr die prächtige Gelegenheit fand, meine ärztlichen Kenntnisse hier an Bord dieses deutschen Kaperschiffes nötigenfalls verwerten zu können.«
 
@@ -618,7 +618,7 @@ Marschner hatte schon dem dritten Offizier der »Tannenberg« befohlen, Shouftkr
 
 »Mit Ihnen hier besonders rücksichtsvoll zu verfahren, liegt nicht die geringste Veranlassung vor«, erklärte er Shouftkraat dann. »Gehen Sie, — und wagen Sie keinen Widerstand! Ich lasse nie mit mir spaßen.«
 
-Auf Marschners wie aus Erz gemeißeltem Gesicht lag ein so drohender Ausdruck, daß der Fregattenkapitän tatsächlich ohne jeden weiteren Widerspruch dritten Offizier des Kaperschiffes folgte, nachdem er seinen sechs Leidensgefährten kurz zugenickt hatte.
+Auf Marschners wie aus Erz gemeißeltem Gesicht lag ein so drohender Ausdruck, daß der Fregattenkapitän tatsächlich ohne jeden weiteren Widerspruch dem dritten Offizier des Kaperschiffes folgte, nachdem er seinen sechs Leidensgefährten kurz zugenickt hatte.
 
 Marschner richtete jetzt das Wort an Walport.
 
@@ -645,7 +645,7 @@ Dasy Walport schaute Marschner gedankenverloren nach.
 
 Nun, vorläufig lebte Marschner noch. Und zwar sehr zum Schaden der Schiffsroute Honolulu—San Franzisko, auf der die »Tannenberg« jetzt mit Südwestkurs ihre Fahrt fortsetze, um den Kaperkrieg gegen feindliche oder neutrale, mit Bannware beladene Fahrzeuge weiter zu führen.
 
-[Der Kellner bat zu Tisch. Als die Gefangenen nachmit]tags<@refnote/> nach dem Mittagessen<@refnote/> wieder an Deck erschienen, hatte die »Tannenberg« einen englischen 6000-Tonnen-Dampfer eben angehalten, dessen Besatzung nunmehr den Japanern Gesellschaft leisten konnte.
+Der Kellner bat zu Tisch. Als die Gefangenen nachmittags<@refnote/> nach dem Mittagessen<@refnote/> wieder an Deck erschienen, hatte die »Tannenberg« einen englischen 6000-Tonnen-Dampfer eben angehalten, dessen Besatzung nunmehr den Japanern Gesellschaft leisten konnte.
 
 Während aber der »Moraku Maru« durch Öffnen der Bodenventile versenkt worden war, wurde der Engländer von der Besatzung des Kapers als Scheibe für die sechs 8,5-Zentimeter-Geschütze benutzt, die inzwischen auf Deck aufgestellt worden waren, nachdem man für sie schnell aus Holz praktische Gestelle anstatt der Räder — es waren ja eigentlich Feldgeschütze — zurechtgezimmert hatte.
 
@@ -663,7 +663,7 @@ Unter diesen Umständen war es wirklich für die Tannenberg höchste Zeit sich d
 
 Sie hatte jetzt 110 fremde Seeleute, die Besatzung der »India« mit eingerechnet, an Bord, und Marschner wollte diese unangenehmen Gäste, deren Überwachung die Gemütlichkeit nur störte, schleunigst loswerden.
 
-Nachdem er sich mit seinen Offizieren beraten hatte, nahm die »Tannenberg« einen mehr südlichen Kurs und erreichte zwei Tage später ein paar auf den Seekarten zwar verzeichnete, sonst aber namenlose Koralleneilande südöstlich der Hawaii-Inseln, die unbewohnt waren und wohl höchst selten nur und mehr durch einen Zufall vielleicht von einem Walfischfänger angelaufen wurden. Die Absicht, daß es die riesigen Meeressäugetiere, die ihres Speckes wegen so hart verfolgt werden, nur in nördlichsten Breiten gibt, ist sehr irrig, Der Walfisch ist im Stillen Ozean bis hinunter nach Australien überall anzutreffen.
+Nachdem er sich mit seinen Offizieren beraten hatte, nahm die »Tannenberg« einen mehr südlichen Kurs und erreichte zwei Tage später ein paar auf den Seekarten zwar verzeichnete, sonst aber namenlose Koralleneilande südöstlich der Hawaii-Inseln, die unbewohnt waren und wohl höchst selten nur und mehr durch einen Zufall vielleicht von einem Walfischfänger angelaufen wurden. Die Absicht, daß es die riesigen Meeressäugetiere, die ihres Speckes wegen so hart verfolgt werden, nur in nördlichsten Breiten gibt, ist sehr irrig. Der Walfisch ist im Stillen Ozean bis hinunter nach Australien überall anzutreffen.
 
 Eine der Koralleninseln — sie besaßen sämtlich einen ziemlich üppigen Baum- und Pflanzenwuchs und waren von zahllosen Seevögeln bewohnt — hatte auch eine Süßwasserquelle, so daß Marschner ohne Gewissensbedenken die fremden Seeleute hier an Land bringen ließ und bis auf weiteres zu einem unfreiwilligen Robinsondasein verurteilte. Früher oder später würde ja wohl ein Schiff hier auftauchen und die ganze Gesellschaft mitnehmen.
 
@@ -731,7 +731,7 @@ Der Fregattenkapitän lächelte höhnisch.
 
 »Ja — ja —: mein Wort darauf!«
 
-Und Oberst Ribot meinte nun besänftigen:
+Und Oberst Ribot meinte nun besänftigend:
 
 »Miß Walport — es war doch von Shouftkraat von vornherein nur Scherz! Ein Offizier ist kein feiger Mörder.«
 
@@ -766,7 +766,7 @@ Eine leichte Brise trieb den Kaper unter vollen Segeln mit geringer Geschwindigk
 
 Die Tropennacht war wunderbar mild und hell. Am Himmel kein Wölkchen. Die Sterne funkelten wie frisch geputzt. Und die Jacht wiegte sich graziös auf den langen, friedlichen Wogen.
 
-Marschner dachte an die Heimat, das Vaterhaus … Dort wußte niemand mehr etwas von dem verlorenen Sohne. Nie hatte er geschrieben, von sich hören lassen. Zumeist war es ihm ja so schlecht ergangen, daß er sich schämte, ein Lebenszeichen von sich zu geben. Und als der Reichtum ihm endlich mühelos in den Schoß fiel, da war gleich darauf der Krieg gekommen. Da gab für ihn wieder anderes zu tun. Manchem Landsmann hatte er mit Geld ausgeholfen, bevor er in Panama auftauchte und dort das Wundermittel Gold noch besser anwandte. Er konnte mit dem Erreichten zufrieden sein. Vielleicht kam er glücklich heim — vielleicht …! — Dann würden die Zeitungen ihn als Helden feiern, ihn, den Kapitän des grünen Kapers, dann würden die Eltern erfahren, daß der Totgeglaubte noch am Leben sei, dann würden sie ihn mit offenen Armen empfangen.
+Marschner dachte an die Heimat, das Vaterhaus … Dort wußte niemand mehr etwas von dem verlorenen Sohne. Nie hatte er geschrieben, von sich hören lassen. Zumeist war es ihm ja so schlecht ergangen, daß er sich schämte, ein Lebenszeichen von sich zu geben. Und als der Reichtum ihm endlich mühelos in den Schoß fiel, da war gleich darauf der Krieg gekommen. Da gab es für ihn wieder anderes zu tun. Manchem Landsmann hatte er mit Geld ausgeholfen, bevor er in Panama auftauchte und dort das Wundermittel Gold noch besser anwandte. Er konnte mit dem Erreichten zufrieden sein. Vielleicht kam er glücklich heim — vielleicht …! — Dann würden die Zeitungen ihn als Helden feiern, ihn, den Kapitän des grünen Kapers, dann würden die Eltern erfahren, daß der Totgeglaubte noch am Leben sei, dann würden sie ihn mit offenen Armen empfangen.
 
 Wie schön mußte das sein, zurückzukehren in das freundliche, weinumrankte Pfarrhaus dort zwischen den Kiefernwäldern der Mark … Ob der Vater wohl noch immer sich als Holzbildhauer nebenbei künstlerisch betätigte und die fleißige Mutter für die Schwestern noch immer Kleider nähte und den alten Herrn die Anzüge wandte, wenn sie außen bescheuert waren …?! — Frieden und Behaglichkeit hatten unter jenem Dache ja stets neben Fleiß und Gottesfurcht gewohnt. Zu viel Frieden für Fritz Marschners, des Ältesten, unruhigen Sinn …
 
@@ -794,7 +794,7 @@ Zum ersten Male nannte er sie beim Vornamen.
 
 Und sie dachte: »Wie weich doch diese herrische Stimme klingen kann.«
 
-Zögernd kam sie näher. Er war aufgestanden. Sie reichte ihm die Hand. Das geschah auch zum erstenmal. Ein ganz feiner Wohlgeruch umwehte ihn. Ihr Haar war in losem Knoten zur Nacht aufgesteckt. Ihre Finger, die in seiner lebenswarmen, an jede Arbeit gewöhnten Hand ruhten, waren kalt. Er behielt sie den seinen und fragte besorgt:
+Zögernd kam sie näher. Er war aufgestanden. Sie reichte ihm die Hand. Das geschah auch zum erstenmal. Ein ganz feiner Wohlgeruch umwehte ihn. Ihr Haar war in losem Knoten zur Nacht aufgesteckt. Ihre Finger, die in seiner lebenswarmen, an jede Arbeit gewöhnten Hand ruhten, waren kalt. Er behielt sie in den seinen und fragte besorgt:
 
 »Fühlen Sie sich krank, Fräulein Dasy?«
 
@@ -872,7 +872,7 @@ Die beiden unter dem schützenden Sonnensegel fuhren auseinander. Noch ein lange
 
 Marschner stand schon auf der Brücke, nahm sein Glas von dem Haken im Steuerhäuschen und schaute nach dem fremden Dampfer hinüber.
 
-Ein Riese …! — Zehntausend Tonnen schätzte er ihn. Und die Jacht würde neben dem Koloß wie ein Zwerg sich ausnehmen mit ihren sechzig Metern Länge
+Ein Riese …! — Zehntausend Tonnen schätzte er ihn. Und die Jacht würde neben dem Koloß wie ein Zwerg sich ausnehmen mit ihren sechzig Metern Länge.
 
 Die elektrischen Alarmglocken, die in den fünf Tagen zwischen den Inseln in den Schlafräumen angebracht worden waren und von der Brücke aus in Bewegung gesetzt werden konnten, schrillten …, — lang — lang — kurz — kurz, — lang — lang — kurz — kurz.
 
@@ -927,7 +927,7 @@ In demselben Augenblick tauchten unterhalb der Brücke Shouftkraat und dicht hin
 
 Der drehte sich um, grüßte kurz und … begegnete Dasys flehenden Blicken.
 
-»Herr Marschner, Tausende von Menschen sind an Bord jenes Schiffes «, rief Emmery Walports Tochter. »Die Rettungsboote reichen nicht für ein Viertel aus«, fügte sie hinzu.
+»Herr Marschner, Tausende von Menschen sind an Bord jenes Schiffes«, rief Emmery Walports Tochter. »Die Rettungsboote reichen nicht für ein Viertel aus«, fügte sie hinzu.
 
 Der Kapitän des grünen Kapers dachte an die beseligende Stunde, die er vorhin durchlebt hatte.
 
@@ -1092,9 +1092,9 @@ Auf der »Tannenberg« schrillten die Alarmglocken. Alle Mann eilten auf die Pos
 
 Lüder hatte sich von dem zweiten Offizier die Bauart des Kreuzers genau beschreiben lassen und dann in der Tabelle der Kriegsflotten aller Länder festgestellt, daß es sich nur um einen Engländer der ungeschützten Triton-Klasse handeln könne.
 
-Unter dem Schutze des Regenvorhanges rückte der Kaper dem Kreuzer aus Steuerbordseite näher und näher, lief schließlich in einer Höhe in kaum hundert Meter Abstand neben ihm her.
+Unter dem Schutze des Regenvorhanges rückte der Kaper dem Kreuzer auf Steuerbordseite näher und näher, lief schließlich in einer Höhe in kaum hundert Meter Abstand neben ihm her.
 
-Gleich daraus hallte der Donner von vier Geschützen dumpf durch die stürzenden Wassermassen weiter. Es klang wie ein Donnerschlag … Aber drüben auf dem Engländer konnte man nicht im Zweifel sein, was vor sich ging … Der hintere Kessel, von einer Granate getroffen, explodierte, und auch sonst klafften in der Bordwand in Wasserhöhe sehr unangenehme Löcher.
+Gleich darauf hallte der Donner von vier Geschützen dumpf durch die stürzenden Wassermassen weiter. Es klang wie ein Donnerschlag … Aber drüben auf dem Engländer konnte man nicht im Zweifel sein, was vor sich ging … Der hintere Kessel, von einer Granate getroffen, explodierte, und auch sonst klafften in der Bordwand in Wasserhöhe sehr unangenehme Löcher.
 
 Gleich nach der ersten Salve hatte der grüne Kaper gewendet. Die andere Breitseite wurde gelöst. Und erst als die dritte Salve den Überfallenen noch mehr zerfetzt hatte, erwiderte dieser das Feuer gegen den nur schwer zu erkennenden Gegner.
 
@@ -1118,7 +1118,7 @@ Er nickte kurz, wandte sich dann an Lüder:
 
 »Geleiten Sie Fräulein Walport in den Salon«, befahl er. »Die Brücke zu betreten ist bekanntlich verboten.« — —
 
-— — — — — — — —
+* * *
 
 Dasy Walport saß in dem regenfeuchten Mantel und dem tropfenden Hut in einem Sessel des Salons. Die anderen waren bereits alle zur Ruhe gegangen. Schlafen würden sie wohl kaum. Erst der Geschützdonner, und jetzt das Knattern der Motoren an Deck: das war keine Musik, die einen in Schlummer wiegte!
 
@@ -1258,14 +1258,14 @@ Wie kaltblütig sie ihn belogen hatte …!! Malen …?! Als ob sie die Gedanken 
 
 »Firnis brennt gut … Alte Zeitungen und Holzwolle damit übergossen flammen wie Pulver auf«, hatte Shouftkraat gesagt.
 
-Dasy rannen zwei Tränen über die Wangen und fielen auf ihre im Schoß verschränkten Hande, die so kalt waren, so kalt und ohne Leben …
+Dasy rannen zwei Tränen über die Wangen und fielen auf ihre im Schoß verschränkten Hände, die so kalt waren, so kalt und ohne Leben …
 
 
 <h2>10. Kapitel.</h2>
 
 <h3>Das Hochzeitsschiff …</h3>
 
-Am folgenden Morgen setzte ein Sturm ein, der drei Tage anhielt. Es war gerade der Weihnachtstag, an dem der Orkan auskam. Und abends hörten die sieben Gäste des Kapers im Vorschiff die Deutschen<@refnote/> Weihnachtslieder singen, während ringsum die See brüllte und die Windstöße in der Takelage heulten.
+Am folgenden Morgen setzte ein Sturm ein, der drei Tage anhielt. Es war gerade der Weihnachtstag, an dem der Orkan aufkam. Und abends hörten die sieben Gäste des Kapers im Vorschiff die Deutschen<@refnote/> Weihnachtslieder singen, während ringsum die See brüllte und die Windstöße in der Takelage heulten.
 
 Shouftkraat verwünschte den Aufruhr der Elemente.
 
@@ -1283,7 +1283,7 @@ Dasy war wieder bleich geworden. Und Shouftkraat lächelte höhnisch. Er ahnte, 
 
 Vier Tage sahen Marschner und Dasy sich nicht.
 
-Am Morgen des fünften kam die Küste von Südamerika in Sicht. Aber der Kaper hielt sich vorsichtig vom Festlande fern. Der Funkspruchapparat der »Tannenberg« hatte in der vergangenen Nacht eine ganze Menge chiffrierter nicht zu entziffernder Depeschen ausgefangen, die nur zwischen Kriegsschiffen ausgetauscht worden sein konnten und die Marschner anzeigten, daß es auch in dieser Gegend nicht ganz geheuer war.
+Am Morgen des fünften kam die Küste von Südamerika in Sicht. Aber der Kaper hielt sich vorsichtig vom Festlande fern. Der Funkspruchapparat der »Tannenberg« hatte in der vergangenen Nacht eine ganze Menge chiffrierter nicht zu entziffernder Depeschen aufgefangen, die nur zwischen Kriegsschiffen ausgetauscht worden sein konnten und die Marschner anzeigten, daß es auch in dieser Gegend nicht ganz geheuer war.
 
 Außer einigen Küstenseglern war jedoch die See leer, so weit die Ferngläser reichten.
 
@@ -1395,7 +1395,7 @@ Da packte den Friesen von hinten eine Faust, riß ihn zurück.
 
 Ein förmliches Wutgeheul folgte. Der Friese hatte auf den Engländer angelegt. Marschner schlug ihm die Waffe hoch. Die Kugel ging in die Decke.
 
-»Kameraden«, rief der Führer des Kaperschiffes, »Kameraden — was hättet Ihr wohl getan, wenn Ihr in der gleichen Lage wie dieser englische Marineoffizier gewesen wäret? Hättet Ihr als furchtlose deutsche Burschen nicht auch versucht, ein englisches Schiff zu vernichten, aus dem Ihr festgehalten wurdet und das wie wir ein Schrecken der Meere geworden? Seid gerecht, Kameraden! Als Engländer tat er nur seine Schuldigkeit seinem Vaterlande gegenüber! — Geht auf Eure Posten! Ich werde Euch auch so retten …!«
+»Kameraden«, rief der Führer des Kaperschiffes, »Kameraden — was hättet Ihr wohl getan, wenn Ihr in der gleichen Lage wie dieser englische Marineoffizier gewesen wäret? Hättet Ihr als furchtlose deutsche Burschen nicht auch versucht, ein englisches Schiff zu vernichten, auf dem Ihr festgehalten wurdet und das wie wir ein Schrecken der Meere geworden? Seid gerecht, Kameraden! Als Engländer tat er nur seine Schuldigkeit seinem Vaterlande gegenüber! — Geht auf Eure Posten! Ich werde Euch auch so retten …!«
 
 Langsam drängten die Leute hinaus. Marschner hatte sie richtig zu nehmen gewußt.
 
@@ -1431,7 +1431,7 @@ Marschner sprach auf Lüder ein.
 
 Lüder reichte seinem Kapitän stumm die Hand. Er sah ein: einer mußte sich opfern, um die Verfolger zu täuschen. — —
 
-— — — — — — — —
+* * *
 
 Zehn Minuten darauf kam Klaire Ribot zu Dasy in die Kabine gestürzt.
 
@@ -1497,9 +1497,11 @@ Eine mächtige Feuersäule stieg empor, ein furchtbarer Knall erschütterte die 
 
 Der grüne Kaper war verschwunden. Und die Scheinwerfer des Feindes beleuchteten nur noch ein paar armselige Trümmer …
 
+<@spacer 2/>
 
-Ende.
+<p class="centered strong">Ende.</p>
 
+<@spacer 4/>
 
 Druck: P. Lehmann G.&nbsp;m.&nbsp;b.&nbsp;H., Berlin.
 
