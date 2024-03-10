@@ -965,7 +965,7 @@ Nach einer Weile hatte sie sich dann anscheinend soweit erholt, daß der General
 
 Aber Suleimah, die ihren Gesichtsschleier jetzt bis dicht unter die Augen gezogen hatte, stellte sich mit großem Geschick so an, als ob sie vor den beiden Offizieren Furcht empfinde und erwiderte auf alle Fragen des Generals scheu und ängstlich mit Worten, aus denen niemand klug wurde.
 
-Daß dies alles von dem gewiegten, verkleideten Detektiv lediglich kluge Berechnung war, ahnte niemand von den drei Engländern. Ein Blick auf die auf dem Schreibtisch stehende Uhr hatte ihm nämlich gezeigt, daß es ihm jetzt schon geglückt war, beinahe eine Stunde Zett für die Flüchtlinge zu gewinnen. Und daher sann er jetzt auf Flucht. Diese zu bewerkstelligen, wäre jedem anderen einfach unmöglich erschienen. Aber für Felix Manhard schien es dieses Wort überhaupt nicht zu geben. Blitzschnell hatte er seinen Plan entworfen und richtete nun sein ganzes Verhalten danach ein.
+Daß dies alles von dem gewiegten, verkleideten Detektiv lediglich kluge Berechnung war, ahnte niemand von den drei Engländern. Ein Blick auf die auf dem Schreibtisch stehende Uhr hatte ihm nämlich gezeigt, daß es ihm jetzt schon geglückt war, beinahe eine Stunde Zeit für die Flüchtlinge zu gewinnen. Und daher sann er jetzt auf Flucht. Diese zu bewerkstelligen, wäre jedem anderen einfach unmöglich erschienen. Aber für Felix Manhard schien es dieses Wort überhaupt nicht zu geben. Blitzschnell hatte er seinen Plan entworfen und richtete nun sein ganzes Verhalten danach ein.
 
 Schon beim Betreten des Hauses hatte er genau achtgegeben, in welchem Stock das Zimmer lag, in das man ihn brachte, und nach welcher Seite hin die Fenster desselben gelegen waren, ferner, ob der Posten vor dem Hause gerade unter diesen Fenstern auf und ab ging.
 
@@ -1019,7 +1019,7 @@ Dann eilte er an das Fenster und beugte sich hinaus. Unten auf der Straße stand
 
 Dieser Weg war ihm versperrt. So mußte er es denn wagen, durch den Haupteingang an dem Posten vorbei das Gebäude zu verlassen. Vorher aber schloß er die Tür nach dem Nebenzimmer ab und steckte den Schlüssel zu sich. Dasselbe tat er mit der zweiten Tür nach dem Flur hin, nachdem er sich überzeugt hatte, daß dieser völlig leer war. —
 
-Ruhig durchschritt die Beduinin dann die Vorhalle und trat auf die Straße hinaus. Der Posten, der sie zusammen mit dem Herrn Kammandanten vor einer guten halben Stunde mit dem Auto hatte ankommen sehen, ließ sie ungehindert vorbei.
+Ruhig durchschritt die Beduinin dann die Vorhalle und trat auf die Straße hinaus. Der Posten, der sie zusammen mit dem Herrn Kommandanten vor einer guten halben Stunde mit dem Auto hatte ankommen sehen, ließ sie ungehindert vorbei.
 
 Erst als die Araberin sich ein gutes Stück von dem großen Gebäude entfernt hatte, beschleunigte sie ihre Gangart.
 
