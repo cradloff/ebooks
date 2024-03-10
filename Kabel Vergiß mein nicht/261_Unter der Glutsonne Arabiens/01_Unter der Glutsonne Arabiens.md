@@ -10,7 +10,7 @@ Copyright by Verlag mod. Lektüre G.&nbsp;m.&nbsp;b.&nbsp;H., Berlin.
 
 Die Station für drahtlose Telegraphie der englischen Felsenfestung Aden schmiegt sich in die tiefste Felsspalte des höchsten der wildzerklüfteten Berge ein, die den Hintergrund des gleichnamigen Hafens wie drohende Riesen, gespickt mit unzähligen modernen Panzerturm-Batterien, bilden. Nur die hohen Masten mit dem Netzwerk von Drähten verraten die Lage des wichtigen Häuschens, in dem zu jeder Stunde stets ein Funkentelegraphist auf Nachrichten harrt, die die elektrischen Wellen von einer anderen Station zutragen sollen.
 
-Am 12. August 1914 gegen zwei Uhr nachmittags rekelte sich der junge Henderson, der gerade Funkendienst hatte, müde und schläfrig auf dem Stuhl vor dem kleinen Tischchen, auf dem die Apparate aufgebaut waren. In den letzten Tagen hatte es hier mehr als genug Arbeit gegeben. England hatte Deutschland ebenfalls den Krieg erklärt, nachdem Rußland und Frankreich mobil gemacht hatten. Die Folge dieser welterschütternden Ereignisse war eine Unzahl von Funksprüchen gewesen. die über das Mittelmeer hin weiter nach Indien geleitet werden mußten. Jetzt war etwas Ruhe eingetreten. Die erste Aufregung hatte sich gelegt. Die Kolonien des britischen Weltreiches waren mit genauen Anweisungen versehen, und das gewaltige Völkerringen konnte beginnen.
+Am 12. August 1914 gegen zwei Uhr nachmittags rekelte sich der junge Henderson, der gerade Funkendienst hatte, müde und schläfrig auf dem Stuhl vor dem kleinen Tischchen, auf dem die Apparate aufgebaut waren. In den letzten Tagen hatte es hier mehr als genug Arbeit gegeben. England hatte Deutschland ebenfalls den Krieg erklärt, nachdem Rußland und Frankreich mobil gemacht hatten. Die Folge dieser welterschütternden Ereignisse war eine Unzahl von Funksprüchen gewesen, die über das Mittelmeer hin weiter nach Indien geleitet werden mußten. Jetzt war etwas Ruhe eingetreten. Die erste Aufregung hatte sich gelegt. Die Kolonien des britischen Weltreiches waren mit genauen Anweisungen versehen, und das gewaltige Völkerringen konnte beginnen.
 
 Henderson gähnte. Sein krankhaft gelbes Gesicht, — eine Folge der ungesunden Glutofenhitze Adens, sah heute noch verfallener als sonst aus. Er fühlte sich wie zerschlagen. Und halb wie im Traum überdachte er nochmals die Ereignisse der letzten Wochen.
 
@@ -70,7 +70,7 @@ Mouston ließ das Torpedoboot noch näher auf das Wrack zutreiben und rief dann 
 
 »Welches Schiff? — Zeigt die Flagge!«
 
-Erst nach einer geraumen Weile entfaltete sich drüben die deutsche Handelsflagge. Und gleichzeitig bemerkte der Führer des Torpedobootes, daß das inzwischen von dem Wrack glücklich zu Wasser gelassene Boot, in dem fünf Männer saßen und mehrere Kisten und Ballen lagen, trotz der gefährlichen Brandung die Küste zu erreichen suchte. Inzwischen hatte sich auch Moustons Überzeugung, die Briggs »Elisabeth« vor sich zu haben, noch verstärkt, da er unter den Schiffbrüchigen auf dem Hinterdeck einige Farbige in indischer Tracht erkannt hatte.
+Erst nach einer geraumen Weile entfaltete sich drüben die deutsche Handelsflagge. Und gleichzeitig bemerkte der Führer des Torpedobootes, daß das inzwischen von dem Wrack glücklich zu Wasser gelassene Boot, in dem fünf Männer saßen und mehrere Kisten und Ballen lagen, trotz der gefährlichen Brandung die Küste zu erreichen suchte. Inzwischen hatte sich auch Moustons Überzeugung, die Brigg »Elisabeth« vor sich zu haben, noch verstärkt, da er unter den Schiffbrüchigen auf dem Hinterdeck einige Farbige in indischer Tracht erkannt hatte.
 
 Wenige Minuten später blitzte daher eines der Revolvergeschütze des Torpedobootes auf und die Granate schlug keine zwanzig Meter vor dem auf den Wellen hin und her tanzenden Boote als deutliche Mahnung zur Umkehr in das Wasser ein.
 
@@ -138,7 +138,7 @@ Der Offizier hob drohend den Arm.
 
 »Unverschämter Bursche!« brüllte er. »Weg mit ihm, Leute! Werft ihn zu dem farbigen Pack in den Verschlag. Halunke zu Halunken!«
 
-Damit stieß er den Deutschen derart vor die Brus, daß dieser einigen Matrosen in die Arme taumelte.
+Damit stieß er den Deutschen derart vor die Brust, daß dieser einigen Matrosen in die Arme taumelte.
 
 Ohne Sträuben ließ der Alte sich hinwegführen. Aber aus seinen blitzenden Augen warf er dem Engländer noch einen Blick zu, der ebenso haßerfüllt wie verächtlich war.
 
@@ -197,7 +197,7 @@ Der Chinese, ein kleines, dürres Männchen mit verschlagenem Gesicht, hatte mit
 
 Nachdem der Araber, ein noch junger Mann mit spärlichem Vollbart, sein Grautier versorgt und dessen Last, zwei Ballen mit getrockneten Datteln, in die Kammer getragen hatte, ließ er sich in dem Schankraum ein Gericht gekochten Reises vorsetzen, das er langsam und würdig verzehrte. Außer ihm waren zur Zeit keine anderen Gäste anwesend, und selbst der Wirt verschwand des öfteren in die hinteren Räumlichkeiten, da es hier vorn jetzt nichts zu tun gab.
 
-Eine solche Gelegenheit benutzte der in einen hellen Burnus gekleidete Beduine dazu, mit schnellem Griff ein paar Zeitungsblätter, die neben ihm aus dem Tische lagen und die er bisher scheinbar gar nicht beachtet hatte, unter seinem weiten, umhangähnlichen Gewande verschwinden zu lassen. Darauf setzte er gleichmütig seine bescheidene Mahlzeit fort.
+Eine solche Gelegenheit benutzte der in einen hellen Burnus gekleidete Beduine dazu, mit schnellem Griff ein paar Zeitungsblätter, die neben ihm auf dem Tische lagen und die er bisher scheinbar gar nicht beachtet hatte, unter seinem weiten, umhangähnlichen Gewande verschwinden zu lassen. Darauf setzte er gleichmütig seine bescheidene Mahlzeit fort.
 
 Wenige Minuten später trat der persische Teppichhändler, den der Araber vorhin in der gemeinsamen Wohnkammer nur durch ein stolzes Neigen des Kopfes begrüßt hatte, durch die vom Flur in den Schankraum mündende Tür ein und nahm am Nebentische Platz.
 
@@ -209,13 +209,13 @@ Unwillkürlich zögerte der Araber zuerst, dem ihm fremden Manne, mit dem ihn er
 
 Nun standen die beiden Männer dicht bei einander und musterten sich nochmals mit einem Interesse, das mehr als bloße Neugier bedeutete. Sehr bald flog es wie ein leichtes Lächeln über des Teppichhändlers frisches, gesundes Gesicht.
 
-»Wenn Sie hier den Araber spielen wollen«, begann er in fließendem Englisch, »so dürfen Sie nicht vergessen, das vorgeschriebene Abendgebet abzuhalten. Kein strenggläubiger Mohammedaner vergißt das.
+»Wenn Sie hier den Araber spielen wollen«, begann er in fließendem Englisch, »so dürfen Sie nicht vergessen, das vorgeschriebene Abendgebet abzuhalten. Kein strenggläubiger Mohammedaner vergißt das.«
 
 Der andere spielte jedoch weiter den Taubstummen, deutete mit dem Finger auf Mund und Ohr.
 
 Wieder lächelte der Perser.
 
-»Mir machen Sie nichts vor!« meinte er belustigt. Die Flurtür in unserem Gasthause hat einen breiten Spalt, und so sah ich denn, wie Sie die Zeitungen zu sich steckten, wobei Sie sich sehr geschickt die neuesten Nummern auswählten und die älteren liegen ließen. Dies brachte mich auf die Vermutung, daß Ihr Äußeres nur eine Verkleidung ist. Hatten Sie doch unserem Wirt durch Zeichen zu verstehen gegeben, daß Sie nicht einmal die arabische Schrift lesen können. Was wollten Sie also mit den Zeitungen?! Und weiter: wenn Sie hier keinerlei Gefahr zu fürchten hätten, so wären Sie beim Einstecken der Blätter, die Sie heimlich lesen wollen, nicht mit so großer Vorsicht vorgegangen. Kurz und gut: ich halte Sie für einen Europäer, und zwar für den Angehörigen einer der beiden Zentralmächte, die sich jetzt mit dem Vierverbande im Kriege befinden.«
+»Mir machen Sie nichts vor!« meinte er belustigt. »Die Flurtür in unserem Gasthause hat einen breiten Spalt, und so sah ich denn, wie Sie die Zeitungen zu sich steckten, wobei Sie sich sehr geschickt die neuesten Nummern auswählten und die älteren liegen ließen. Dies brachte mich auf die Vermutung, daß Ihr Äußeres nur eine Verkleidung ist. Hatten Sie doch unserem Wirt durch Zeichen zu verstehen gegeben, daß Sie nicht einmal die arabische Schrift lesen können. Was wollten Sie also mit den Zeitungen?! Und weiter: wenn Sie hier keinerlei Gefahr zu fürchten hätten, so wären Sie beim Einstecken der Blätter, die Sie heimlich lesen wollen, nicht mit so großer Vorsicht vorgegangen. Kurz und gut: ich halte Sie für einen Europäer, und zwar für den Angehörigen einer der beiden Zentralmächte, die sich jetzt mit dem Vierverbande im Kriege befinden.«
 
 Aber des Arabers braunes Gesicht blieb starr und unbeweglich.
 
@@ -252,13 +252,13 @@ Menke hatte bis zum Kriegsausbruch als Vertreter einer deutschen Firma in Assab 
 
 Manhard, der keinen Grund hatte, dem angeblichen Teppichhändler irgendwie zu mißtrauen, erzählte diesem ganz eingehend seine Erlebnisse.
 
-»Bereits am zweiten Tage«, fuhr er mit der Schilderung dieses Teiles seiner Abenteuer fort, »war ich jedoch derart von Hunger und Durst entkräftet, daß im Schatten eines dichten Maulbeerbaumes ohnmächtig zusammenbrach. Als ich wieder zu mir kam, lag ich in dem Zelte eines kleinen Beduinenlagers, dessen Männer mich bei einer Streife nach am Strande geschwemmten Wracktrümmern zufällig gefunden und mit sich genommen hatten. Die Araber, die mich gut behandelten und sorgfältig pflegten, gehörten nicht zu einem bestimmten Stamme, sondern waren Ausgestoßene verschiedener Stämme, die in ängstlicher Abgeschiedenheit ganz für sich lebten und von einem uralten Scheich befehligt wurden, der einige Brocken Englisch verstand. Diese harmlosen, vom Schicksal tief gedemütigten Leute, die in einer Oase nicht weit von der Küste hausten, haben mich dann auf meine Bitte hin mit allem Nötigen ausgestattet, um als Araber hier auftreten zu können.
+»Bereits am zweiten Tage«, fuhr er mit der Schilderung dieses Teiles seiner Abenteuer fort, »war ich jedoch derart von Hunger und Durst entkräftet, daß ich im Schatten eines dichten Maulbeerbaumes ohnmächtig zusammenbrach. Als ich wieder zu mir kam, lag ich in dem Zelte eines kleinen Beduinenlagers, dessen Männer mich bei einer Streife nach am Strande geschwemmten Wracktrümmern zufällig gefunden und mit sich genommen hatten. Die Araber, die mich gut behandelten und sorgfältig pflegten, gehörten nicht zu einem bestimmten Stamme, sondern waren Ausgestoßene verschiedener Stämme, die in ängstlicher Abgeschiedenheit ganz für sich lebten und von einem uralten Scheich befehligt wurden, der einige Brocken Englisch verstand. Diese harmlosen, vom Schicksal tief gedemütigten Leute, die in einer Oase nicht weit von der Küste hausten, haben mich dann auf meine Bitte hin mit allem Nötigen ausgestattet, um als Araber hier auftreten zu können.
 
 Menke, ein offenbar sehr energischer, dabei aber stets heiterer Mensch, lachte leise vor sich hin.
 
 »Nun — Sie haben eben Glück gehabt — genau so wie ich! Zum echten Araber fehlt Ihnen doch noch verschiedenes, obwohl Ihre würdevolle Ruhe und Ihre abgemessenen Bewegungen recht gut nachgeahmt waren. Ein Glück, daß ich Ihnen bei unserer Begegnung zwischen den Handelsspeichern mit der Polizei drohte. Sonst hätten Sie wohl nicht so leicht Farbe bekannt und wir wären vielleicht noch aus gegenseitigem Mißtrauen einander an die Kehle gefahren.«
 
-»Stimmt — ich jedenfalls!« meinte Manhard ernst. »Als ich die ersten Worte in deutscher Sprache an Sie richtete, hielt ich mich bereit Sie niederzuschlagen, falls Sie ein englischer Polizeispitzel gewesen wären. Hierüber wollte ich Gewißheit haben. Es war ein gewagtes Spiel. Aber — hätte ich Sie als Feind erkannt, so würden Sie jetzt gebunden mit einem Knebel im Munde irgendwo an einer versteckten Stelle zwischen den Speichern liegen und ich wäre längst aus Aden heraus, — freilich nur, um in einer anderen Verkleidung bei guter Gelegenheit zurückzukehren, denn meine Freunde lasse ich nicht im Stich. Daß die Engländer nicht nur dem Fürsten und seinen Getreuen, sondern auch dem Kapitän Kruse den Prozeß machen werden, ist sicher. Vielleicht gelingt es mir, die Gefangenen irgendwie zu befreien. Sagen Sie nicht, daß dies ein unmögliches Unterfangen ist. Ich habe bereits einen bestimmten Plan. Jetzt bin ich nur hier, um zu rekognoszieren Ich muß wissen, ob meine Freunde hier oder anderswo abgeurteilt werden sollen. Deshalb nahm ich auch die Zeitungen an mich. Ich denke, irgend etwas wird über diese Dinge darin zu finden sein. — Haben Sie vielleicht englische Blätter in den letzten Tagen gelesen?«
+»Stimmt — ich jedenfalls!« meinte Manhard ernst. »Als ich die ersten Worte in deutscher Sprache an Sie richtete, hielt ich mich bereit Sie niederzuschlagen, falls Sie ein englischer Polizeispitzel gewesen wären. Hierüber wollte ich Gewißheit haben. Es war ein gewagtes Spiel. Aber — hätte ich Sie als Feind erkannt, so würden Sie jetzt gebunden mit einem Knebel im Munde irgendwo an einer versteckten Stelle zwischen den Speichern liegen und ich wäre längst aus Aden heraus, — freilich nur, um in einer anderen Verkleidung bei guter Gelegenheit zurückzukehren, denn meine Freunde lasse ich nicht im Stich. Daß die Engländer nicht nur dem Fürsten und seinen Getreuen, sondern auch dem Kapitän Kruse den Prozeß machen werden, ist sicher. Vielleicht gelingt es mir, die Gefangenen irgendwie zu befreien. Sagen Sie nicht, daß dies ein unmögliches Unterfangen ist. Ich habe bereits einen bestimmten Plan. Jetzt bin ich nur hier, um zu rekognoszieren. Ich muß wissen, ob meine Freunde hier oder anderswo abgeurteilt werden sollen. Deshalb nahm ich auch die Zeitungen an mich. Ich denke, irgend etwas wird über diese Dinge darin zu finden sein. — Haben Sie vielleicht englische Blätter in den letzten Tagen gelesen?«
 
 »Nein. Ich wagte es nicht, da ich mich dadurch zu verraten fürchtete. Ein armer persischer Händler liest keine Zeitungen.«
 
@@ -343,7 +343,7 @@ Ethel Farladay lächelte grausam.
 
 »Für diese Mörder ist keine Strafe hart genug«, sagte sie schneidend, um nach einer Weile hinzuzufügen: »Vielleicht läßt sich aber auch mit List etwas erreichen, falls auch dieses »warme« Mittel nichts verschlagen sollte.«
 
-Nachdenklich blickte sie vor sich hin, während in Ihren Augen das Feuer des Hasses wie eine verzehrende Flamme aufglomm. Ihre Gedanken beschäftigten sich mit jenen Tagen, als sie noch gehofft hatte, den schlanken Deutschen, dessen äußere Erscheinung ihr Gefallen ebenso sehr erregt hatte, wie seine selbstbewußte energische Art, für immer an sich zu fesseln. Felix Manhards Liebe zu erringen war ihr heißes Bestreben gewesen. Als sie dann aber erkennen mußte, daß er sie verschmähte, und weiter der Verdacht in ihr auftauchte, seine Neigung könne der blonden Tochter des Kapitäns Kruse sich zugewandt haben, da gab sie sich willig dazu her, den angeblichen deutschen Spion überführen zu helfen.
+Nachdenklich blickte sie vor sich hin, während in ihren Augen das Feuer des Hasses wie eine verzehrende Flamme aufglomm. Ihre Gedanken beschäftigten sich mit jenen Tagen, als sie noch gehofft hatte, den schlanken Deutschen, dessen äußere Erscheinung ihr Gefallen ebenso sehr erregt hatte, wie seine selbstbewußte energische Art, für immer an sich zu fesseln. Felix Manhards Liebe zu erringen war ihr heißes Bestreben gewesen. Als sie dann aber erkennen mußte, daß er sie verschmähte, und weiter der Verdacht in ihr auftauchte, seine Neigung könne der blonden Tochter des Kapitäns Kruse sich zugewandt haben, da gab sie sich willig dazu her, den angeblichen deutschen Spion überführen zu helfen.
 
 Diese unwillkürliche, so rege Beschäftigung mit der Person des Mannes, dem ihr eitles Herz einst in Sehnsucht entgegengeschlagen hatte, rief ihr auch notwendig seine Gestalt und seine Gesichtszüge mit aller Deutlichkeit ins Gedächtnis zurück. Plötzlich durchzuckte es sie wie eine Erleuchtung. Sie sprang auf und rief unvermittelt, ihren Gedanken laut Ausdruck gebend:
 
@@ -371,7 +371,7 @@ Diese hatten sich, wie sie zu ihrer Freude sofort bemerkten, geteilt. Zwei Mann 
 
 Manhard war es, der dem Ingenieur nun sofort einen Vorschlag machte, wie man sich der Pferde bemächtigen könne, die ihnen dann die Möglichkeit für eine aussichtsreiche weitere Flucht geben würden.
 
-Menke hatte gegen den waghalsigen Plan nichts anzuwenden, bei dessen Durchführung der im Anschleichen geübtere Detektiv die Hauptrolle übernahm.
+Menke hatte gegen den waghalsigen Plan nichts einzuwenden, bei dessen Durchführung der im Anschleichen geübtere Detektiv die Hauptrolle übernahm.
 
 Vorsichtig und doch so schnell als es nur anging bewegten sie sich jetzt am Rande des ziemlich schroff abfallenden, talähnlichen Flußbettes entlang, bis sie den Soldaten bemerkten, der sich unten im Grunde auf einen Felsblock gesetzt hatte, den Karabiner schußfertig über die Knie hielt und aufmerksam nach der Richtung hin beobachtete, in der seine Kameraden verschwunden waren. Die drei Pferde hatte er etwa zehn Schritte seitwärts mit zusammengebundenen Zügeln im Schatten der Talwand aufgestellt, wo sie jetzt mit hängenden Köpfen teilnahmslos dastanden. —
 
@@ -381,7 +381,7 @@ Gleichzeitig mit Menke schob sich der Detektiv, der in weitem Bogen in den Rück
 
 Dann ein Satz, und zwei Hände legten sich wie eiserne Klammer um den Hals des völlig Überrumpelten, dem im ersten Schreck auch der Karabiner entglitt. Im Nu war er mit den Lederzügeln, die Menke von dem Sattelzeuge des einen Pferdes abschnitt, gebunden, und ein Tuchfetzen als Knebel hinderte ihn auch daran, seine Kameraden zur Hilfe herbeizurufen. Wie ein Bündel wurde der Soldat dann abseits in den Schatten getragen und dort niedergelegt.
 
-Hoch zu Roß entfernten die beiden Deutschen sich dann nach Westen zu, indem sie auch das dritte Pferd und sämtliche Waffen des Gefesselten mit sich nahmen. Und keine zehn Minuten nachher hatten sie glücklich die Wasserschläuche ihrer bisherigen Reittiere an sich gebracht und den Esel und das Maultier aus dem Versteck herausgejagt, um sie ihrem weiteren Schicksale zu überlassen. Die beiden Soldaten sahnen sie nicht. Offenbar hatten diese inzwischen bereits die Schlucht abgesucht und verfolgten jetzt weiter das Flußbett nach Osten zu.
+Hoch zu Roß entfernten die beiden Deutschen sich dann nach Westen zu, indem sie auch das dritte Pferd und sämtliche Waffen des Gefesselten mit sich nahmen. Und keine zehn Minuten nachher hatten sie glücklich die Wasserschläuche ihrer bisherigen Reittiere an sich gebracht und den Esel und das Maultier aus dem Versteck herausgejagt, um sie ihrem weiteren Schicksale zu überlassen. Die beiden Soldaten sahen sie nicht. Offenbar hatten diese inzwischen bereits die Schlucht abgesucht und verfolgten jetzt weiter das Flußbett nach Osten zu.
 
 Menke, der hier in dem Südwestzipfel der arabischen Halbinsel ganz gut Bescheid wußte, machte jetzt den Führer. Die Flüchtlinge schlugen zunächst eine fast nördliche Richtung ein und bogen erst gegen Abend wieder scharf nach Osten ab. Erst gegen zehn Uhr, als schon die Sterne am nächtlichen Firmament erschienen waren, schlugen sie ihr Lager am Rande eines kleinen, salzigen Wasserbeckens auf, tränkten die Pferde aus den Schläuchen, reichten ihnen Datteln und unterwegs gesammeltes Gras als Futter und hielten selbst eine recht bescheidene Mahlzeit ab, die aus Hirsekuchen und Datteln bestand.
 
@@ -389,7 +389,7 @@ Erst nach zwei weiteren Tagesritten wagten sie es, sich der Meeresküste wieder 
 
 Für den Detektiv war es nachher, als man die dichter besiedelten Teile des Sultanats hinter sich hatte, keine leichte Aufgabe, sich nach der kleinen Oase hinzufinden, in der der Stamm der Angestoßenen hauste. Aber er hatte sich kluger Weise bei seiner vor zwei Wochen unternommenen Wanderung nach Aden gewisse auffällige Kennzeichen gemerkt, so daß die beiden Deutschen am zehnten Tage wohlbehalten, wenn auch nach einigem zunächst ergebnislosen Umherirren, das Zeltdorf der Beduinen erreichten, wo deren ehrwürdiger Scheich, der mit seinem wallenden weißen Barte und dem hellen Burnus wie ein biblischer Prophet aussah, sie freundlich willkommen hieß und ihnen ein leeres Zelt neben dem seinigen als Wohnung anwies.
 
-Gleich am ersten Abend rückte Manhard dem Scheich gegenüber mit seinem Vorhaben heraus, indem diesen bat, ihm bei der Bergung der Schätze des Rajahs mit allen Männern des Stammes zu helfen und die Kleinodien selbst vorläufig in Verwahrung zu nehmen.
+Gleich am ersten Abend rückte Manhard dem Scheich gegenüber mit seinem Vorhaben heraus, indem er diesen bat, ihm bei der Bergung der Schätze des Rajahs mit allen Männern des Stammes zu helfen und die Kleinodien selbst vorläufig in Verwahrung zu nehmen.
 
 Der Scheich, dem Manhard eine hohe Belohnung versprach, war sofort einverstanden. In feierlicher Weise wurde dann der Vertrag durch einen Eid und Abschluß der Blutsbrüderschaft zwischen den beiden Deutschen und sämtlichen erwachsenen Männern der Ausgestoßenen besiegelt.
 
@@ -397,7 +397,7 @@ Sofort begann man nun mit den Vorbereitungen zu der Reise nach dem einsamen Küs
 
 Immerhin konnte man, obwohl die Deutschen sehr zur Eile mahnten, erst am dritten Tage aufbrechen. Aber nachher bei der Ankunft an dem Punkte der Küste, der der Strandungsstelle der »Elisabeth« am nächsten lag, war ihnen das Glück insofern hold, als das Meer seit Tagen völlig ruhig dalag, so daß die Bergungsarbeiten unverzüglich begonnen werden konnten.
 
-Aus den inzwischen angeschwemmten Holzteilen der Brigg wurden mehrere Flöße zurechtgezimmert, die Manhard dann nach der Stelle zwischen dem Strande und der Riffreihe hindirigierte, wo die Kisten und Ballen damals versenkt worden waren. Einige der Ausgestoßenen, die sich früher zeitweise ihren Lebensunterhalt als Perlenfischer verdien hatten und daher ausdauernde Taucher waren, mußten die Haken an den Kisten und Ballen befestigen, so daß deren Herausholen aus dem Wasser weiter keine Schwierigkeiten bereitete. Im Laufe eines Tages gelang es so, die fünf Kisten und die sieben in Leder eingenähten Ballen zu bergen. Und schon eine Stunde nach Herausschaffen der letzten Kiste verließ die Karawane bei einbrechender Dunkelheit wieder die Küste und wandte sich dem Binnenlande zu, nachdem sorgfältig am Strande und in der nächsten Umgebung alle Spuren der Anwesenheit einer größeren Anzahl von Leuten und Tieren an dieser Stelle verwischt worden waren.
+Aus den inzwischen angeschwemmten Holzteilen der Brigg wurden mehrere Flöße zurechtgezimmert, die Manhard dann nach der Stelle zwischen dem Strande und der Riffreihe hindirigierte, wo die Kisten und Ballen damals versenkt worden waren. Einige der Ausgestoßenen, die sich früher zeitweise ihren Lebensunterhalt als Perlenfischer verdient hatten und daher ausdauernde Taucher waren, mußten die Haken an den Kisten und Ballen befestigen, so daß deren Herausholen aus dem Wasser weiter keine Schwierigkeiten bereitete. Im Laufe eines Tages gelang es so, die fünf Kisten und die sieben in Leder eingenähten Ballen zu bergen. Und schon eine Stunde nach Herausschaffen der letzten Kiste verließ die Karawane bei einbrechender Dunkelheit wieder die Küste und wandte sich dem Binnenlande zu, nachdem sorgfältig am Strande und in der nächsten Umgebung alle Spuren der Anwesenheit einer größeren Anzahl von Leuten und Tieren an dieser Stelle verwischt worden waren.
 
 Unangefochten langten die Schar der Beduinen und ihre weißen Freunde mit den wertvollen Kamelladungen wieder in der Oase an, wo dann die Kisten und Ballen geöffnet wurden und Manhard ein genaues Verzeichnis der vorhandenen Kostbarkeiten aufstellte. Der Scheich erhielt als Belohnung für sich und die Seinen hundert indische Goldmünzen, die einen Wert von etwa zehntausend Mark darstellten und den bisher armen Stamm plötzlich mächtig machten, da die Ausgestoßenen nun in der Lage waren, sich moderne Feuerwaffen anzuschaffen, deren Wert sie sehr wohl zu schätzen wußten und mit deren Hilfe sie jeden Feind von sich abzuwehren vermochten.
 
@@ -428,7 +428,7 @@ Senta Kruse hatte in dem gefürchteten Gefängnis Adens, das, wie schon erwähnt
 
 In dem aus Holz errichteten Gebäude, dessen Dach aus Wellblech bestand und das mit einem hohen Zaun umschlossen war, herrschte Tag und Nacht in den engen Zellen, deren Wände mit starken Eisenplatten benagelt waren, eine beinahe zum Wahnsinn treibende Hitze. Die junge Deutsche war daher auch sehr bald, obgleich ihr Körper ziemliche Widerstandskraft besaß, in einen Zustand völliger Mattigkeit und gänzlicher Teilnahmlosigkeit verfallen. Hätte nicht die Frau des Gefangenaufsehers, eines rothaarigen, kräftigen Irländers, ihr durch heimliches Zureichen kühler Getränke einige Linderung verschafft, so wäre sie wohl sehr bald ein Opfer dieses Schreckenshauses geworden.
 
-Jetzt lag das junge Mädchen mit halb geschlossenen Augen auf der hölzernen Pritsche und dämmerte in einer Art Halbschlaf dahin. Halb träumend, halb wachend zeigte ihr Geist ihr die verschiedensten Bilder, die sich mit unauslöschlicher Deutlichkeil in ihre Seele eingeprägt hatten. Erinnerungen an einzelne besonders glückliche Stunden in der Bucht von Roxara waren es zumeist, die sie umgaukelten und bei denen stets Felix Manhard die Hauptrolle spielte.
+Jetzt lag das junge Mädchen mit halb geschlossenen Augen auf der hölzernen Pritsche und dämmerte in einer Art Halbschlaf dahin. Halb träumend, halb wachend zeigte ihr Geist ihr die verschiedensten Bilder, die sich mit unauslöschlicher Deutlichkeit in ihre Seele eingeprägt hatten. Erinnerungen an einzelne besonders glückliche Stunden in der Bucht von Roxara waren es zumeist, die sie umgaukelten und bei denen stets Felix Manhard die Hauptrolle spielte.
 
 Daß sie den Landsmann, der damals unter so merkwürdigen Umständen auf die Brigg ihres Vaters gekommen war, innig liebte, wußte sie längst. Und täglich beschäftigte sie sich seit ihrer Gefangennahme mit der Frage, wo der heimlich Geliebte jetzt wohl weilen möge. Daß er damals am Strande den Verfolgern entkommen war, hatte sie ja von der gutmütigen, mitleidigen Frau des Gefangenaufsehers erfahren, die häufiger zu ihr in die Zelle kam, um mit der einzigen weiblichen Insassin dieses furchtbaren Hauses zu plaudern. —
 
@@ -520,7 +520,7 @@ Ethel merkte, daß ein unbestimmtes Mißtrauen in ihrer Feindin wach geworden wa
 
 Und so sagte sie denn, indem sie Sentas Hände zwischen die ihren nahm und leise drückte:
 
-»Ich will Ihnen einen Einblick in mein Innerstes gönnen, Sie liebes Kind. Hören Sie denn: Ich habe Manhard einst geliebt, habe gehofft, daß ich Gegenliebe finden würde. Aber ich täuschte mich. Es kam zwischen mir und Manhard zu einer langen, gründlichen Aussprache in jener Nacht, als ich die Schrecken der Tropfstein-Höhlen von Roxara kennen lernte und mein Vater vor der giftigen Kobra des Fakirs ein halb erzwungenes Bekenntnis seiner Schuld ablegte. Jene Aussprache zeigte mir erst, welch vortrefflicher Charakter Manhard war. Er schied von mir als mein Feind. Vergebens suchte ich ihn davon zu überzeugen, daß ich stets nur sein Bestes gewollt hatte. Der Schein war gegen mich. Aber ich denke noch heute an ihn als an einen Menschen, dem ich ohne Zögern die Hand zum Lebensbunde gereicht haben würde. Freilich — die Liebe habe ich mir aus dem Herzen gerissen. In meinen Gedanken lebt er weiter als mein Freund, dem ich jetzt dadurch, daß ich mithelfe sein Leben zu retten, den Beweis erbringen möchte, wie Unrecht er mir einst getan hat. Deshalb habe ich so lange den General, der mir ein zweiter Vater geworden ist, mit Bitten bestürmt, bis er Manhards Leben zu schonen versprach. falls Sie eben die eine Bedingung erfüllen.«
+»Ich will Ihnen einen Einblick in mein Innerstes gönnen, Sie liebes Kind. Hören Sie denn: Ich habe Manhard einst geliebt, habe gehofft, daß ich Gegenliebe finden würde. Aber ich täuschte mich. Es kam zwischen mir und Manhard zu einer langen, gründlichen Aussprache in jener Nacht, als ich die Schrecken der Tropfstein-Höhlen von Roxara kennen lernte und mein Vater vor der giftigen Kobra des Fakirs ein halb erzwungenes Bekenntnis seiner Schuld ablegte. Jene Aussprache zeigte mir erst, welch vortrefflicher Charakter Manhard war. Er schied von mir als mein Feind. Vergebens suchte ich ihn davon zu überzeugen, daß ich stets nur sein Bestes gewollt hatte. Der Schein war gegen mich. Aber ich denke noch heute an ihn als an einen Menschen, dem ich ohne Zögern die Hand zum Lebensbunde gereicht haben würde. Freilich — die Liebe habe ich mir aus dem Herzen gerissen. In meinen Gedanken lebt er weiter als mein Freund, dem ich jetzt dadurch, daß ich mithelfe sein Leben zu retten, den Beweis erbringen möchte, wie Unrecht er mir einst getan hat. Deshalb habe ich so lange den General, der mir ein zweiter Vater geworden ist, mit Bitten bestürmt, bis er Manhards Leben zu schonen versprach, falls Sie eben die eine Bedingung erfüllen.«
 
 Senta erhob sich rasch.
 
@@ -561,7 +561,7 @@ Frau Holliday sprach noch mit dem Unteroffizier ein paar Worte und trat dann auf
 
 Kaum hatte sie dann die breite Gasse des Araberviertels betreten, als ihr schon eine Eingeborene begegnete, die auf dem Rücken einen großen, weitmaschigen Geflügelkorb trug und in gebrochenem Englisch durch den Ruf: »Hühner, junge Hühner, und Eier von heute!« Käufer anzulocken suchte.
 
-Die Beduinin gehörte offenbar einem jener Stämme an, die die strengen Gebote des Islam noch aufs genaueste befolgen. Sie trug ein weißes, mantelähnliches Gewand mit einer breiten, roten Kante, das ihre Gestalt völlig verhüllte und nur die Ledersandalen sehen ließ, in denen die nackten, braunen Füße steckten. Der untere Teil des Gesichtes war bis zu den Augen durch ein schleierähnliches Tuch bedeckt, welches auch den Kopf, turbanartig geschlungen, vor den Sonnenstrahlen schützte. Die Augenbrauen waren ausgerissen, und dafür zwei dicke rote Striche hingemalt; ähnliche drei Längsstriche waren auch auf der Stirn zu sehen. — Frau Holliday lebte bereits lange genug in Arabien um zu wissen, daß diese merkwürdige Art der Verschönerung bei einigen Araberstämmen des Sultanates Hadramaut für alle verheirateten Frauen Vorschrift ist. Als sie nun die Beduinin nach dem Preise des Geflügels fragte, war sie freudig überrascht über die geringe Forderung, die die Araberin stellte. Trotzdem feilschte sie nach alter Gewohnheit noch so lange um den Preis, bis die Verkäuferin beinahe bis auf die Hälfte des wirklichen Wertes der Hühner hinunterging Unter diesen Umständen entschloß Frau Holliday sich, der Beduinin sämtliche Waren, auch die Eier, abzunehmen. Sie hieß die Händlerin ihr zu folgen, erledigte noch schnell ihre anderen Besorgungen und nahm die Araberin dann mit nach dem Gefängnis, da sie allein das Geflügel nicht zu tragen vermochte.
+Die Beduinin gehörte offenbar einem jener Stämme an, die die strengen Gebote des Islam noch aufs genaueste befolgen. Sie trug ein weißes, mantelähnliches Gewand mit einer breiten, roten Kante, das ihre Gestalt völlig verhüllte und nur die Ledersandalen sehen ließ, in denen die nackten, braunen Füße steckten. Der untere Teil des Gesichtes war bis zu den Augen durch ein schleierähnliches Tuch bedeckt, welches auch den Kopf, turbanartig geschlungen, vor den Sonnenstrahlen schützte. Die Augenbrauen waren ausgerissen, und dafür zwei dicke rote Striche hingemalt; ähnliche drei Längsstriche waren auch auf der Stirn zu sehen. — Frau Holliday lebte bereits lange genug in Arabien um zu wissen, daß diese merkwürdige Art der Verschönerung bei einigen Araberstämmen des Sultanates Hadramaut für alle verheirateten Frauen Vorschrift ist. Als sie nun die Beduinin nach dem Preise des Geflügels fragte, war sie freudig überrascht über die geringe Forderung, die die Araberin stellte. Trotzdem feilschte sie nach alter Gewohnheit noch so lange um den Preis, bis die Verkäuferin beinahe bis auf die Hälfte des wirklichen Wertes der Hühner hinunterging. Unter diesen Umständen entschloß Frau Holliday sich, der Beduinin sämtliche Waren, auch die Eier, abzunehmen. Sie hieß die Händlerin ihr zu folgen, erledigte noch schnell ihre anderen Besorgungen und nahm die Araberin dann mit nach dem Gefängnis, da sie allein das Geflügel nicht zu tragen vermochte.
 
 Der Posten ließ die beiden Frauen ungehindert durch, und so gelangte denn die Beduinin, die sich Suleimah nannte und die Frau eines Arabers vom Stamme der Bir-Kassar zu sein vorgab, in die Küche der Aufsehersgattin<@refnote/>, wo sich bald auch Senta Kruse einfand.
 
@@ -667,7 +667,7 @@ Nachdem Manhard ihm die Erlebnisse des heutigen Vormittags mitgeteilt hatte, nic
 
 »Erst mit Frau verhandeln. Das gut«, gab er sein Urteil über Manhards Tätigkeit ab. »Weißer Frau noch mehr glänzende Steine zeigen. Dann immer mehr haben will. Dann Geld aus Papier zeigen.«
 
-»Werde ich schon besorgen!« meinte der Detektiv. »Ich werde die Aufsehersgattin so allgemach »einwickeln«, daß sie gar nicht merkt. daß sie vom Wege der Redlichkeit abweicht. Sehr anständig ist das ja nicht von mir. Aber — Not kennt kein Gebot!« —
+»Werde ich schon besorgen!« meinte der Detektiv. »Ich werde die Aufsehersgattin so allgemach »einwickeln«, daß sie gar nicht merkt, daß sie vom Wege der Redlichkeit abweicht. Sehr anständig ist das ja nicht von mir. Aber — Not kennt kein Gebot!« —
 
 
 <h2>7. Kapitel.</h2>
@@ -752,7 +752,7 @@ Sie eilte davon, kehrte aber schon nach wenigen Minuten in Begleitung des Aufseh
 
 Dann las er den in englischer Sprache abgefaßten, sehr eingehenden Plan zur Befreiung der Gefangenen langsam durch. Darin war besonderer Wert auf die Angabe all der Vorsichtsmaßregeln gelegt, die getroffen werden sollten, damit keinerlei Verdacht auf den Aufseher fallen könne.
 
-Holliday gefiel die Geschichte keineswegs, obwohl er zugeben mußte, daß die Sache tadellos ausgeklügelt war und er dabei, falls er sieh nicht gerade mordsdumm anstellte, keinerlei Gefahr lief. Er kratzte sich bedenklich hinterm Ohr und fragte Suleimah argwöhnisch:
+Holliday gefiel die Geschichte keineswegs, obwohl er zugeben mußte, daß die Sache tadellos ausgeklügelt war und er dabei, falls er sich nicht gerade mordsdumm anstellte, keinerlei Gefahr lief. Er kratzte sich bedenklich hinterm Ohr und fragte Suleimah argwöhnisch:
 
 »Wer schickt Dich eigentlich? Und wann hat man Dir diesen Auftrag gegeben?«
 
@@ -778,7 +778,7 @@ Die Beduinin holte zwei Päckchen Banknoten hervor, die aus 100-Pfundnoten besta
 
 Das Ehepaar war allein.
 
-»Ich weiß schon ein Versteck für das Geld«, meinte Bessie ganz heiter und siegesgewiß. »Wir vergraben es im Hühnerstall dort. wo der Schmutzhaufen liegt. Wenn wir dann nach der Flucht der Gefangenen noch ein Vierteljahr hierbleiben, so wird es niemandem auffallen, wenn wir Aden verlassen und nach unserer grünen Insel, unserm Vaterlande zurückkehren.«
+»Ich weiß schon ein Versteck für das Geld«, meinte Bessie ganz heiter und siegesgewiß. »Wir vergraben es im Hühnerstall dort, wo der Schmutzhaufen liegt. Wenn wir dann nach der Flucht der Gefangenen noch ein Vierteljahr hierbleiben, so wird es niemandem auffallen, wenn wir Aden verlassen und nach unserer grünen Insel, unserm Vaterlande zurückkehren.«
 
 Der Aufseher hatte nun auch die allerletzten Bedenken überwunden.
 
@@ -820,11 +820,11 @@ Die Posten waren um 8 Uhr abends, kurz vor dem Erscheinen der Araberin, abgelös
 
 »Nanu?! Wo denn?!« platzte Holliday heraus.
 
-»Ich selbst es sein. Ich alles tun, was soll Mann ans dem Papier tun«, erwiderte die Beduinin gelassen.
+»Ich selbst es sein. Ich alles tun, was soll Mann auf dem Papier tun«, erwiderte die Beduinin gelassen.
 
 »Was — Du willst die beiden Unteraufseher … — lächerlich!« fuhr der Irländer auf. »Dann ist der ganze Plan schon mißglückt! Hätte ich mich nur nie auf diese oberfaule Geschichte eingelassen!«
 
-Holliday war erregt aufgestanden. Ader eine energische Handbewegung Suleimahs drückte ihn wieder auf den Sitz zurück.
+Holliday war erregt aufgestanden. Aber eine energische Handbewegung Suleimahs drückte ihn wieder auf den Sitz zurück.
 
 »Ihr tun, wie verabredet«, sagte sie befehlend. »Frau jetzt den Unteraufsehern Abendessen bringen. Sofort!«
 
@@ -832,7 +832,7 @@ Frau Bessie gehorchte schweigend. Und ihr Gatte zündete sich, um die wachsende 
 
 In der Küche brannte keine Lampe. Nur durch das Fenster fiel ein breiter Strom des weißen Borgenlichtes vom Hofe aus herein.
 
-Kaum hatte die Aufseherfrau den kleinen Raum verlassen, als die Beduinin auf Holliday zutrat. Ehe er sich’s versah, hatte sie ihm mit einem mit Sand gefüllten Lederschlauche einen Hieb über den Kopf versetzt, der ihn augenblicklich ohnmächtig zu Boden streckte. Dann schleppte Suleimah, oder besser der verkleidete Detektiv Felix Manhard, den Bewußtlosen in das Schlafzimmer des Ehepaares und warf ihn dort auf eines der Betten Im Nu hatte er ihn gefesselt und ihm auch einen Knebel in den Mund geschoben.
+Kaum hatte die Aufseherfrau den kleinen Raum verlassen, als die Beduinin auf Holliday zutrat. Ehe er sich’s versah, hatte sie ihm mit einem mit Sand gefüllten Lederschlauche einen Hieb über den Kopf versetzt, der ihn augenblicklich ohnmächtig zu Boden streckte. Dann schleppte Suleimah, oder besser der verkleidete Detektiv Felix Manhard, den Bewußtlosen in das Schlafzimmer des Ehepaares und warf ihn dort auf eines der Betten. Im Nu hatte er ihn gefesselt und ihm auch einen Knebel in den Mund geschoben.
 
 Als Frau Bessie zurückkehrte, war schon alles vorüber.
 
@@ -879,7 +879,7 @@ Immer näher kam der Kraftwagen. Manhard hörte schon das gleichmäßige Knatter
 
 Hier gab es nur ein Mittel, um das drohende Verhängnis abzuwenden: er mußte den Kraftwagen aufhalten, mußte festzustellen suchen, was die Insassen beabsichtigten, und dementsprechend sein weiteres Verhalten einrichten.
 
-Kurz entschlossen warf er sich daher, die Körbe fallen lassend, quer über den Weg. Die helle Farbe des Weibergewandes mußte sich im Lichte der Scheinwerfer deutlich von der Straße abheben, so daß nicht zu fürchten brauchte, überfahren zu werden. Der Kraftwagen würde vielleicht erst ganz kurz vor ihm zum Stehen gebracht werden, — aber was machte das unter diesen Umständen aus …! —
+Kurz entschlossen warf er sich daher, die Körbe fallen lassend, quer über den Weg. Die helle Farbe des Weibergewandes mußte sich im Lichte der Scheinwerfer deutlich von der Straße abheben, so daß er nicht zu fürchten brauchte, überfahren zu werden. Der Kraftwagen würde vielleicht erst ganz kurz vor ihm zum Stehen gebracht werden, — aber was machte das unter diesen Umständen aus …! —
 
 Es kam, wie der Detektiv vermutet hatte. Das Auto hielt keine drei Meter von ihm entfernt, und sofort hörte er eine Stimme, eine weibliche Stimme, bei deren Klang ihn ein banger Schreck durchzuckte.
 
@@ -977,7 +977,7 @@ Die junge Engländerin war es, die Hamilton schließlich darauf aufmerksam macht
 
 Daraufhin verließen die beiden Offiziere das Dienstzimmer und begaben sich in die Privatwohnung des Generals hinauf, wohin Ethel ihnen dann Nachricht durch das Haustelephon geben wollte, das aus dem Schreibtisch Hamiltons seinen Platz hatte und dessen Anschlußapparat oben im Flur hing.
 
-»So, Suleimah, nun sei mal recht verständig. Vor mir brauest Du doch keine Angst zu haben. — Wie sahen denn die Männer aus, die Du belauscht hast? Hatten sie Bärte, und wie waren sie angezogen?«
+»So, Suleimah, nun sei mal recht verständig. Vor mir brauchst Du doch keine Angst zu haben. — Wie sahen denn die Männer aus, die Du belauscht hast? Hatten sie Bärte, und wie waren sie angezogen?«
 
 Die Araberin blickte die vor ihr stehende junge Dame mit einem merkwürdigen Blick an, so daß Ethel Farladay nicht recht einig mit sich war, ob aus diesem Blick nur scheue Unterwürfigkeit oder überlegener Spott sprach.
 
@@ -1025,7 +1025,7 @@ Erst als die Araberin sich ein gutes Stück von dem großen Gebäude entfernt ha
 
 Eine Viertelstunde später befand sie sich am äußersten Ende des Araberviertels. Hier hatte der Scheichsohn Ibrahim ben Salek verabredungsgemäß für Manhard das schnellfüßigste der Reitkamele bei einem Beduinen zurückgelassen. Dieser, durch gute Bezahlung für diese Gefälligkeit gewonnen, hielt das Tier gesattelt für die Frau Ibrahims, die angeblich noch Einkäufe hatte erledigen wollen, bereit, so daß sie sofort aufsteigen und der Karawane folgen konnte, zu der erst eine Strecke hinter der Stadt die befreiten Gefangenen gestoßen waren, um jedes Aufsehen zu vermeiden, da es ja aufgefallen wäre, wenn der kleine Trupp sich so plötzlich um mehrere Köpfe vergrößert hätte.
 
-Der Detektiv machte jedoch, nachdem er kaum fünf Minuten geritten war, halt und bog von der Straße in ein Seitental ab. Hier hatte er vor zwei Tagen eine heimlich bei einem Händler erworbene Uniform eines Kavallerieunteroffiziers sowie eine Lanze, einen Säbel und einen Karabiner unter Felsgeröll versteckt. In wenigen Minnten verwandelte sich die Beduinin in einen englischen Soldaten. Die roten Augenbrauen und die gleichfarbigen Stirnstriche waren verschwunden, und der, der jetzt in Windeseile auf dem vortrefflichen Reittier der offenen Wüste zustrebte, hatte mit der früheren Suleimah auch nicht die geringste Ähnlichkeit mehr.
+Der Detektiv machte jedoch, nachdem er kaum fünf Minuten geritten war, halt und bog von der Straße in ein Seitental ab. Hier hatte er vor zwei Tagen eine heimlich bei einem Händler erworbene Uniform eines Kavallerieunteroffiziers sowie eine Lanze, einen Säbel und einen Karabiner unter Felsgeröll versteckt. In wenigen Minuten verwandelte sich die Beduinin in einen englischen Soldaten. Die roten Augenbrauen und die gleichfarbigen Stirnstriche waren verschwunden, und der, der jetzt in Windeseile auf dem vortrefflichen Reittier der offenen Wüste zustrebte, hatte mit der früheren Suleimah auch nicht die geringste Ähnlichkeit mehr.
 
 Flacher wurden die Berge, sandiger der Boden zu beiden Seiten des Weges. Bald konnte Manhard diesen ganz verlassen und in die Wüste einbiegen, wobei er die Richtung nach Norden nahm. Vielleicht fünfhundert Meter vor ihm lag an der Straße eine Wache, wie er nur zu gut wußte. Dieser wich er aus. Freilich hatte er immer noch die Patrouillen zu fürchten, die ständig zwischen den einzelnen in die Wüste vorgeschobenen Posten verkehrten. Aber seine neue Verkleidung würde ihn schon, wie er hoffte, vor unangenehmen Zwischenfällen schützen.
 
@@ -1037,7 +1037,7 @@ Dann tauchten rechts von ihm zwei Reiter auf. Sie trabten in einem Abstande von 
 
 Manhard war es dann, der den Kavalleristen, der sich vor ihm befand, mit lauter Stimme in tadellosem Englisch anrief.
 
-»Ein deutscher Spion ist entflogen. Die Posten sind alarmiert. Gebt gut acht also! — Habt ihr etwas Verdächtiges bemerkt?«
+»Ein deutscher Spion ist entflohen. Die Posten sind alarmiert. Gebt gut acht also! — Habt ihr etwas Verdächtiges bemerkt?«
 
 Der Soldat erkannte die Uniform und ließ sich durch die Sicherheit im Auftreten völlig täuschen.
 
@@ -1142,7 +1142,7 @@ Nach einer Stunde machte der Leutnant plötzlich abermals halt. Man war während
 
 Als der Haupttrupp herangekommen war, zeigte Belcherstone dem General die Spur eines einzelnen Kameles, die aus dem Geröll heraus und direkt nach Osten führte.
 
-»Der Flüchtling hat also nur seine Verfolger aufhalten wollen, indem er diesen harten Boden einige Zeit benutze«, meinte der Leutnant. »Wir werden ihm jetzt in schnellerem Tempo nachsetzen können.«
+»Der Flüchtling hat also nur seine Verfolger aufhalten wollen, indem er diesen harten Boden einige Zeit benutzte«, meinte der Leutnant. »Wir werden ihm jetzt in schnellerem Tempo nachsetzen können.«
 
 Hamilton wollte jedoch Mensch und Tier nicht gleich zu Anfang überanstrengen und ordnete daher eine kurze Rast an. Dann ging es weiter. Die vier Mann, die nach Westen zu das Geröllfeld umritten, mußten zusehen, wie sie wieder Anschluß an die Hauptabteilung fanden. Man konnte unmöglich auf sie warten. Für alle Fälle ließ man ihnen ein deutlich sichtbares Zeichen im Sande und einen Zettel zurück, der sie anwies, schnellstens den anderen nach Osten zu verfolgen. —
 
@@ -1197,7 +1197,7 @@ Kapitän Kruse, den bei seinem Alter die Haft in den glutheißen Zellen des klei
 
 Dieser Zwischenfall verursachte einen längeren Aufenthalt. So sehr Ibrahim ben Salek auch zur Fortsetzung der Flucht drängte, — man mußte warten, bis der Kapitän sich etwas erholt hatte.
 
-Außerdem zeigte auch Senta Kruse. die in dem Tachtirwan untergebracht worden war, deutliche Anzeichen völliger Erschöpfung, so daß Manhard, Menke und der Scheichsohn einen kurzen Kriegsrat abhielten, bei dem beschlossen wurde, am nächsten günstigen Orte bis Mitlernacht ein Lager aufzuschlagen und dann erst die Flucht fortzusetzen.
+Außerdem zeigte auch Senta Kruse, die in dem Tachtirwan untergebracht worden war, deutliche Anzeichen völliger Erschöpfung, so daß Manhard, Menke und der Scheichsohn einen kurzen Kriegsrat abhielten, bei dem beschlossen wurde, am nächsten günstigen Orte bis Mitternacht ein Lager aufzuschlagen und dann erst die Flucht fortzusetzen.
 
 Die Freude über die glückliche Wiedervereinigung des Detektivs mit den übrigen Gefährten wurde durch das schlechte Befinden der beiden Kruses stark getrübt. Immerhin hoffte Ibrahim, daß die Verfolger noch zu weit zurück wären, um eine Überraschung durch diese fürchten zu müssen. Trotzdem war er jedoch vorsichtig genug, den bestberittenen seiner Leute auf der Fährte eine Strecke zurückzuschicken, wo dieser bis zum Abend warten sollte, um gegebenenfalls rechtzeitig das Nahen der Feinde melden zu können, über deren Zahl man ja bisher völlig im Unklaren war, mit denen man aber rechnen zu müssen glaubte.
 
@@ -1271,7 +1271,7 @@ Hamilton wollte aufbegehren, aber Manhard blickte ihn mit so ironischer Überleg
 
 »Das tue ich nicht!« brauste Hamilton auf. »Diese Maßregel, uns mitzuschleppen, ist eine ganz zwecklose Quälerei. Ohne Proviant und ohne das Gepäck darf Leutnant Belcherstone mit dem Rest seiner zum Teil jetzt noch unberittenen Leute sich keinen Schritt in die Wüste weiter hineinwagen, muß vielmehr schleunigst nach der Küste zurückkehren.«
 
-»Sehr richtig!« meinte Manhard kühl. »Aber der Leutnant kann zufällig irgend einer stärkeren englischen Patrouille oder einer Karawane begegnen, die ihm mit dem Notwendigsten aushilft, und die Jagd nach uns dann fortsetzen. Ich gehe stets sicher — bei allen Angelegenheiten! Und so lange ich Sie drei als Geiseln hei mir habe, brauche ich für mich und meine Gefährten nicht zu fürchten.«
+»Sehr richtig!« meinte Manhard kühl. »Aber der Leutnant kann zufällig irgend einer stärkeren englischen Patrouille oder einer Karawane begegnen, die ihm mit dem Notwendigsten aushilft, und die Jagd nach uns dann fortsetzen. Ich gehe stets sicher — bei allen Angelegenheiten! Und so lange ich Sie drei als Geiseln bei mir habe, brauche ich für mich und meine Gefährten nicht zu fürchten.«
 
 Der General merkte, daß der Deutsche sich nicht umstimmen ließ und wandte sich mit einem verächtlichen Auflachen bei Seite.
 
@@ -1335,9 +1335,11 @@ Das Wagnis glückte. Nach einer Reise von sechs Wochen langte die Karawane, die 
 
 Und wieder einen Monat später trafen die den englischen Nachstellungen so glücklich Entronnenen wohlbehalten in Berlin ein, und hier wurde aus Senta Kruse und Manhard, deren Herzen sich längst gefunden hatten, ein seliges Pärchen.
 
+<@spacer 2/>
 
-Ende.
+<p class="centered strong">Ende.</p>
 
+<@spacer 4/>
 
 Druck: P. Lehmann G.&nbsp;m.&nbsp;b.&nbsp;H., Berlin.
 
