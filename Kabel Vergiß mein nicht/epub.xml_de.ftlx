@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">${property.UUID}</entry>
+<entry key="title">${property.title}</entry>
+<entry key="collection">Vergiß mein nicht – Bibliothek der besten Romane</entry>
+<entry key="group-position">${property.groupPosition}</entry>
+<entry key="language">de</entry>
+<entry key="description">
+${property.title}.
+
+BESCHREIBUNGBESCHREIBUNGBESCHREIBUNG
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (${property.groupPosition}) ${property.title}.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Romance / Action &amp; Adventure</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="toc">true</entry>
+<entry key="pubDate"></entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
