@@ -830,7 +830,7 @@ Holliday war erregt aufgestanden. Aber eine energische Handbewegung Suleimahs dr
 
 Frau Bessie gehorchte schweigend. Und ihr Gatte zündete sich, um die wachsende Erregung zu bemänteln, seine Pfeife an.
 
-In der Küche brannte keine Lampe. Nur durch das Fenster fiel ein breiter Strom des weißen Borgenlichtes vom Hofe aus herein.
+In der Küche brannte keine Lampe. Nur durch das Fenster fiel ein breiter Strom des weißen Bogenlichtes vom Hofe aus herein.
 
 Kaum hatte die Aufseherfrau den kleinen Raum verlassen, als die Beduinin auf Holliday zutrat. Ehe er sich’s versah, hatte sie ihm mit einem mit Sand gefüllten Lederschlauche einen Hieb über den Kopf versetzt, der ihn augenblicklich ohnmächtig zu Boden streckte. Dann schleppte Suleimah, oder besser der verkleidete Detektiv Felix Manhard, den Bewußtlosen in das Schlafzimmer des Ehepaares und warf ihn dort auf eines der Betten. Im Nu hatte er ihn gefesselt und ihm auch einen Knebel in den Mund geschoben.
 
