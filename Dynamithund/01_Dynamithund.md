@@ -114,11 +114,11 @@ Alle Bilder sind sehr gut gelungen, besonders das erste.
 
 <p class="right">H. Z.</p>
 
-<div class="img"><img alt="6 Skizzen eines Kopfes. Die erste ist nur ein Oval, die zweite hat oben ein paar Haare, die dritte zusätzlich Ohren, die restlichen werden immer detaillierter bis man ein Gesicht erkennt." src="img02.jpg" style="width: 100%; height: auto;"/></div>
+<div class="img"><img alt="6 Skizzen eines Kopfes. Die erste ist nur ein Oval, die zweite hat oben ein paar Haare, die dritte zusätzlich Ohren, die restlichen werden immer detaillierter bis man ein Gesicht erkennt." src="02_kopf.jpg" style="width: 100%; height: auto;"/></div>
 
 <@pagebreak/>
 
-<div class="img"><img alt="Ein Mann rennt vor einem Hund davon, hinter dem Hund fliegt eine Dynamitstange durch die Luft." src="img03.jpg" style="width: 100%; height: auto;"/></div>
+<div class="img"><img alt="Ein Mann rennt vor einem Hund davon, hinter dem Hund fliegt eine Dynamitstange durch die Luft." src="03_dynamithund.jpg" style="width: 100%; height: auto;"/></div>
 
 <h2>Der Dynamithund.</h2>
 
@@ -287,7 +287,7 @@ Und dann kamen sie beide wieder fröhlich in die Höhe.«
 
 <@pagebreak/>
 
-<div class="img"><img alt="Zwei dicke Männer gehen wütend auf einander zu, links sieht ein Pferd dem Geschehen zu." src="img04.jpg" style="width: 100%; height: auto;"/></div>
+<div class="img"><img alt="Zwei dicke Männer gehen wütend auf einander zu, links sieht ein Pferd dem Geschehen zu." src="04_pferd.jpg" style="width: 100%; height: auto;"/></div>
 
 <h2>Das Pferd.</h2>
 
@@ -548,7 +548,7 @@ verschwindet.
 
 <@pagebreak/>
 
-<div class="img"><img alt="Zwei Männer gehen aneinander vorbei und ziehen den Hut." src="img05.jpg" style="width: 100%; height: auto;"/></div>
+<div class="img"><img alt="Zwei Männer gehen aneinander vorbei und ziehen den Hut." src="05_amerikaner.jpg" style="width: 100%; height: auto;"/></div>
 
 <h2>Der kluge Amerikaner.</h2>
 
@@ -817,7 +817,7 @@ Julia war ziemlich fett.
 
 <@pagebreak/>
 
-<div class="img"><img alt="Ein Schaffner steht vor einer älteren Dame, in der Hand die Zange zum Entwerten." src="img06.jpg" style="width: 100%; height: auto;"/></div>
+<div class="img"><img alt="Ein Schaffner steht vor einer älteren Dame, in der Hand die Zange zum Entwerten." src="06_elektrische.jpg" style="width: 100%; height: auto;"/></div>
 
 <h2>In der Elektrischen.</h2>
 
@@ -987,7 +987,7 @@ Das war immerhin etwas!
 
 <@pagebreak/>
 
-<div class="img"><img alt="Ein Schlüsselbund mit acht verschieden großen Schlüsseln" src="img06.jpg" style="width: 100%; height: auto;"/></div>
+<div class="img"><img alt="Ein Schlüsselbund mit acht verschieden großen Schlüsseln" src="07_tuer.jpg" style="width: 100%; height: auto;"/></div>
 
 <h2>Die Tür.</h2>
 
@@ -1166,7 +1166,7 @@ Wie er dahingekommen war, war ihm total unverständlich.
 
 <@pagebreak/>
 
-<div class="img"><img alt="Ein dicker Mann steht in einem Chaos von umgeworfenen Stühlen und Tischen, über ihm kreist der Kronleuchter." src="img07.jpg" style="width: 100%; height: auto;"/></div>
+<div class="img"><img alt="Ein dicker Mann steht in einem Chaos von umgeworfenen Stühlen und Tischen, über ihm kreist der Kronleuchter." src="08_laerm.jpg" style="width: 100%; height: auto;"/></div>
 
 <h2>Lärm.</h2>
 
@@ -1254,7 +1254,7 @@ Haltbare Sachen!
 
 <@pagebreak/>
 
-<div class="img"><img alt="Ein Mann mit Hut und Stock steht vor einem Beamten, der ihn gerade anspricht." src="img08.jpg" style="width: 100%; height: auto;"/></div>
+<div class="img"><img alt="Ein Mann mit Hut und Stock steht vor einem Beamten, der ihn gerade anspricht." src="09_tischler.jpg" style="width: 100%; height: auto;"/></div>
 
 <h2>Der Tischler</h2>
 
@@ -1521,7 +1521,7 @@ eigentlich hat.
 
 <@pagebreak/>
 
-<div class="img"><img alt="Eine ältere Dame mit einem großen Hut steht vor einem Spiegel und betrachtet sich." src="img09.jpg" style="width: 100%; height: auto;"/></div>
+<div class="img"><img alt="Eine ältere Dame mit einem großen Hut steht vor einem Spiegel und betrachtet sich." src="10_hut.jpg" style="width: 100%; height: auto;"/></div>
 
 <h2>Ein Hut.</h2>
 
@@ -1740,7 +1740,7 @@ O, Ihr Frauen!
 
 <@pagebreak/>
 
-<div class="img"><img alt="Ein Mann steht in einer großen Pfütze vor einer Badewanne und hält ein Rohr zu, aus dem Wasser herausspritzt. Ein zweiter Mann schaut durch die Tür herein." src="img05.jpg" style="width: 100%; height: auto;"/></div>
+<div class="img"><img alt="Ein Mann steht in einer großen Pfütze vor einer Badewanne und hält ein Rohr zu, aus dem Wasser herausspritzt. Ein zweiter Mann schaut durch die Tür herein." src="11_badewanne.jpg" style="width: 100%; height: auto;"/></div>
 
 <h2>Der Badewannenhahn.</h2>
 
@@ -1918,7 +1918,7 @@ Da kroch er ins Bett.
 
 <@pagebreak/>
 
-<div class="img"><img alt="Ein Mann steht mit erhobenem Arm in der Mitte von drei Autos, die auf ihn zugefahren sind." src="img10.jpg" style="width: 100%; height: auto;"/></div>
+<div class="img"><img alt="Ein Mann steht mit erhobenem Arm in der Mitte von drei Autos, die auf ihn zugefahren sind." src="12_hexenschuss.jpg" style="width: 100%; height: auto;"/></div>
 
 <h2>Der Hexenschuß.</h2>
 
@@ -2390,7 +2390,7 @@ gekostet hatten.
 
 <@pagebreak/>
 
-<div class="img"><img alt="Ein dicker Mann hält einen Spiegel in der Hand und betrachtet sich lächelnd." src="img11.jpg" style="width: 100%; height: auto;"/></div>
+<div class="img"><img alt="Ein dicker Mann hält einen Spiegel in der Hand und betrachtet sich lächelnd." src="13_laecheln.jpg" style="width: 100%; height: auto;"/></div>
 
 <h2>Das fröhliche Lächeln.</h2>
 
@@ -2556,7 +2556,7 @@ nichts taugt. Wenigstens nicht für Geschäftsleute.
 
 <@pagebreak/>
 
-<div class="img"><img alt="Ein Mann und eine Frau stehen sich mit Boxhandschuhen gegenüber. Im Hintergrund stehen drei Kinder und beobachten die Szene." src="img12.jpg" style="width: 100%; height: auto;"/></div>
+<div class="img"><img alt="Ein Mann und eine Frau stehen sich mit Boxhandschuhen gegenüber. Im Hintergrund stehen drei Kinder und beobachten die Szene." src="14_boxen.jpg" style="width: 100%; height: auto;"/></div>
 
 <h2>Boxe zu Hause.</h2>
 
@@ -2784,7 +2784,7 @@ Pfeifsignal verabredet.
 
 <@pagebreak/>
 
-<div class="img"><img alt="Ein leeres Ruderboot mit zwei Paddeln liegt im Wasser. Etwas entfernt sieht man mehrere kreisförmige Wellen." src="img12.jpg" style="width: 100%; height: auto;"/></div>
+<div class="img"><img alt="Ein leeres Ruderboot mit zwei Paddeln liegt im Wasser. Etwas entfernt sieht man mehrere kreisförmige Wellen." src="15_ruder.jpg" style="width: 100%; height: auto;"/></div>
 
 <h2>Die Ruder.</h2>
 
@@ -2921,7 +2921,7 @@ Das war die Visitenkarte des Norröers.
 
 <@pagebreak/>
 
-<div class="img"><img alt="Ein Mann piekst einem dicken Mann in der Straßenbahn mit dem Finger in den Bauch. Ein Soldat und ein Mädchen beobachten die Szene." src="img13.jpg" style="width: 100%; height: auto;"/></div>
+<div class="img"><img alt="Ein Mann piekst einem dicken Mann in der Straßenbahn mit dem Finger in den Bauch. Ein Soldat und ein Mädchen beobachten die Szene." src="16_unbekannt.jpg" style="width: 100%; height: auto;"/></div>
 
 <h2>Bloms Unbekanntschaften.</h2>
 
@@ -3099,7 +3099,7 @@ vom Wagen.
 
 <@pagebreak/>
 
-<div class="img"><img alt="Eine ältere Frau sitzt und hält einen Telefonhörer ans Ohr." src="img14.jpg" style="width: 100%; height: auto;"/></div>
+<div class="img"><img alt="Eine ältere Frau sitzt und hält einen Telefonhörer ans Ohr." src="17_telefon.jpg" style="width: 100%; height: auto;"/></div>
 
 <h2>Dalströms Telephon.</h2>
 
@@ -3297,11 +3297,11 @@ hätte.
 
 Und das hatte sie ja auch.
 
-<div class="img"><img alt="Ein Mann steht vor einem Haufen von Kisten, Körben, Möbeln und Säcken." src="img15.jpg" style="width: 100%; height: auto;"/></div>
+<div class="img"><img alt="Ein Mann steht vor einem Haufen von Kisten, Körben, Möbeln und Säcken." src="18_haufen.jpg" style="width: 100%; height: auto;"/></div>
 
 <@pagebreak/>
 
-<div class="img"><img alt="Ein Mann hält eine Dose Anchovis und einen Hammer in der Hand. Aus der Dose spritzt es ihm ins Gesicht." src="img16.jpg" style="width: 100%; height: auto;"/></div>
+<div class="img"><img alt="Ein Mann hält eine Dose Anchovis und einen Hammer in der Hand. Aus der Dose spritzt es ihm ins Gesicht." src="19_anchovis.jpg" style="width: 100%; height: auto;"/></div>
 
 <h2>Die Anchovisbüchse.</h2>
 
@@ -3455,7 +3455,7 @@ Blom ist eben ein Mann!
 
 <@pagebreak/>
 
-<div class="img"><img alt="Auf dem Bild sind mehrere Pilze zu sehen, aus dem ganz rechts entweicht gerade eine kleine Wolke." src="img17.jpg" style="width: 100%; height: auto;"/></div>
+<div class="img"><img alt="Auf dem Bild sind mehrere Pilze zu sehen, aus dem ganz rechts entweicht gerade eine kleine Wolke." src="20_pilze.jpg" style="width: 100%; height: auto;"/></div>
 
 <h2>Pilze.</h2>
 
@@ -3599,7 +3599,7 @@ Aber ich mache mir weiter nichts aus Wind.
 
 <@pagebreak/>
 
-<div class="img"><img alt="Ein Mann springt in die Luft. Vor der Nase hängt ihm ein Käfig. Um ihn her stehen mehrere Personen und beobachten ihn." src="img18.jpg" style="width: 100%; height: auto;"/></div>
+<div class="img"><img alt="Ein Mann springt in die Luft. Vor der Nase hängt ihm ein Käfig. Um ihn her stehen mehrere Personen und beobachten ihn." src="21_rosenlund.jpg" style="width: 100%; height: auto;"/></div>
 
 <h2>Rosenlunds Zaubervorstellung.</h2>
 
@@ -3853,7 +3853,7 @@ wieder Karten.
 
 <@pagebreak/>
 
-<div class="img"><img alt="Halb verdeckt duch einen Hügel sieht man ein mehrstöckiges Gebäude stehen." src="img12.jpg" style="width: 100%; height: auto;"/></div>
+<div class="img"><img alt="Halb verdeckt duch einen Hügel sieht man ein mehrstöckiges Gebäude stehen." src="22_mietskaserne.jpg" style="width: 100%; height: auto;"/></div>
 
 <h2>Die Mietskaserne.</h2>
 
@@ -3866,14 +3866,13 @@ blaue Bucht sehen kann.
 
 Ich höre die Trommel in der Nähe einer Kaserne,
 und auf der Straße weint ein Kind, wahrscheinlich nur,
-
 weil so schönes Wetter ist.
 
 <@pagebreak/>
 Unsere Zimmer sind renoviert, und wir haben die
 Tapeten bekommen, die wir haben wollten. Die Kindermöbel
 sind ganz neu, aber sie können das Anfassen
-vertragen …
+vertragen.
 
 Ich schalte die elektrischen Kontakte ein: das Licht
 brennt, und ich drehe den Wasserhahn im Badezimmer
@@ -3895,12 +3894,15 @@ nicht verboten?!
 »Mach doch das Fenster zu!«
 
 »Ich höre es trotzdem, wenn ich es einmal gehört
+habe.«
 
-Forst) -t-q-t — haben Sie — x-p-t-gesehen-rs-f-g-3-
-Carlsson-h-t-ppuh—.
+x-r-s-t-p-r-s-t-ü-s-t-q-t — haben Sie —
+x-p-t-gesehen-r-s-g-z-Carlsson-h-t-ppuh—
 
 Ich gehe aus, aber ich kaufe keine Blume. All
 Blumengeschäfte haben auf.
+
+* * *
 
 Heute ist die Klingelleitung entzwei. Man kann nicht
 klingeln. Wir heften einen Zettel an die Tür: Klopfen!
@@ -3926,8 +3928,7 @@ Reparatur von elektrischen Klingelleitungen zu belehren.
 
 Meine Frau klingelt beim Wirt an. Er ist verreist.
 
-«
-«
+* * *
 
 Heute hat das elektrische Licht versagt.
 
@@ -3951,7 +3952,7 @@ Gesang. Ich wecke meine Frau.
 Der Gesang kommt von der Straße. Wir lugen
 <@pagebreak/>
 hinaus. Draußen stehen zwölf Herren und singen
-»Schlaf in Ruh«…
+»Schlaf in Ruh«.
 
 Ich bin gerührt und sage:
 
@@ -3966,8 +3967,7 @@ und er fährt fort zu singen.
 Dann gehe ich wieder zu Bett. Einen Tenor kann
 man nicht zum Stoppen bringen.
 
-««
-«
+* * *
 
 Am nächsten Morgen kommt der Herr, der unter uns
 eingezogen ist, und bittet uns, die Brause nicht zu benutzen.
@@ -3975,20 +3975,20 @@ Das Wasser läuft in seinen Salon.
 
 Wir telephonieren an den Wirt und bitten ihn, uns
 einen kombinierten Brause- und Klingelleitungsreparatör
-zu schien. Er verspricht, es sofort zu tun.
+zu schicken. Er verspricht, es sofort zu tun.
 
-««
-«
+* * *
 
 Heute hat die Frau des Mannes, der unter uns
 wohnt, angefangen, Klavier zu spielen. Sie hat zwei Stunden
 gespielt. Dann hat eine andere mitangepackt, und sie
 selber hat dazu gesungen. Es war ein altes Kuplet:
 
-»Willst Du mi—ar gehören?«
-und Kairo, annahm!«
+<p class="centered">»Willst Du mi—ar gehören?«</p>
 
-Wir zogen uns an und gingen ins Cafe. Da ist
+<p class="centered">»»O naaiin, o naaiin!««</p>
+
+Wir zogen uns an und gingen ins Café. Da ist
 die Musik besser.
 
 <@pagebreak/>
@@ -3997,16 +3997,15 @@ dauerte immer noch an.
 
 Da klingelte ich bei der nächsten Unfallstation an:
 
-»Es ist jemand in der Frideborgstraße 62711 zu
+»Es ist jemand in der Frideborgstraße 62III zu
 Schaden gekommen. Kommen Sie sofort! Nehmen Sie
 den Verbandkasten mit! Sie hören am Geschrei, wo
 es ist!«
 
 Es kam einer. Der Gesang hörte auf. Es klopfte
-an unserer Tür, Wir weigerten uns aufzumachen.
+an unserer Tür. Wir weigerten uns aufzumachen.
 
-+«
-«
+* * *
 
 Mein Ansehen ist im ganzen Hause ruiniert, im
 ganzen Viertel. Ich ziehe zum nächsten Ersten.
@@ -4066,18 +4065,20 @@ arbeitet lautlos.«
 
 Ich flüstere heiser, aber laut:
 
-»Die Privatbank! Aber sprich nicht so laut. Die
+»*Die Privatbank*! Aber sprich nicht so laut. Die
 da unten können uns hören. Wir hören ja auch alles,
-was sie sagen.
+was sie sagen.«
 
 Es wird ganz still im Hause. Wir gehen wieder
 zu Bett und schlafen mit glücklichem Lächeln ein.
 
-««
-«
+* * *
+
 Eines Tages begegnete ich der Frau unter uns auf
 der Straße. Sie schrie auf und rannte in den Torweg.
+
 Die Mädchen flüstern, als ich komme:
+
 »Man kann es ihm gar nicht ansehen! Die arme
 Frau!«
 
@@ -4091,15 +4092,17 @@ Der Mann unter uns hat gestern einen Schlosser
 kommen lassen. Der hat ein neues Schloß in die Tür
 eingesetzt.
 
-E
-«
+* * *
 
 Mir liegt nichts daran, daß die Klingelleitung repariert
 wird, — wir haben von nächster Woche an
 eine andere Wohnung gemietet.
 
 <@pagebreak/>
-Der Brunnen.
+
+<div class="img"><img alt="Eine Frau steht vor einem Brunnen, dessen Deckel offen steht. Sie zeigt mit der Hand nach dem Deckel. Neben ihr steht ein Eimer." src="23_brunnen.jpg" style="width: 100%; height: auto;"/></div>
+
+<h2>Der Brunnen.</h2>
 
 Meine Frau hatte eine Wasserkaraffe in den Brunnen
 fallen lassen, der zu unserer Sommerwohnung gehört.
@@ -4188,7 +4191,7 @@ das Wasser alle ist, und nun steht man da!«
 Da ging der Major auf den Hof hinaus und schrie
 seiner ganzen Familie zu:
 
-»Nun kann feiner mehr Wasser aus dem Brunnen
+»Nun kann keiner mehr Wasser aus dem Brunnen
 holen, denn der Zeitungsschreiber hat das ganze Wasser
 ausgeschöpft!«
 
@@ -4208,10 +4211,11 @@ ist, besonders, da man es ja nicht gut ungemischt trinken
 kann.
 
 <@pagebreak/>
-Olssons Phonograph.
+
+<h2>Olssons Phonograph.</h2>
 
 Agaton Olsson, Familienvater, Kolonialwaren en gros
-und en detail, kam eines Nachmittags mit einem Paket
+und en détail, kam eines Nachmittags mit einem Paket
 nach Hause. Das Paket stellte Agaton Olsson auf ein
 Stiefelregal im Korridor, worauf er in seine Wohnung,
 drei Stuben, Küche, Mädchenkammer und Anteil am Eisschrank,
@@ -4227,7 +4231,7 @@ in einen modernen Knoten, und die älteste Tochter
 klingelte bei dem Kommis im Geschäft an und bat ihn,
 so schnell wie möglich heraufzukommen.
 
-Der Phonograph hatte 26 Kronen mit 10  Kassarabatt
+Der Phonograph hatte 26 Kronen mit 10% Kassarabatt
 gekostet: er bestand aus einem Trichter (Frau Olsson
 benutzt ihn jetzt zum Kirschmarmeladedurchsieben) und
 einer »Maschine«, deren Zylinder sich drehte, wenn man
@@ -4252,19 +4256,19 @@ Maschine, die sprechen, singen, Klavier spielen und wie
 ein Orchester wirken kann. Ein Phonograph ist aber
 viel mehr wert als ein Mensch, — dieser Phonograph
 kostet deshalb auch 26 Kronen. Und jetzt wollen wir
-ihn »Puppen« spielen lassen.
+ihn »Puppchen« spielen lassen.
 
 Unter Grabesstille, die nur durch einen Seufzer von
 der ältesten Tochter unterbrochen wird, (der Kommis
-aus dem Geschäft läßt auf sich warten!) jetzt Agaton
+aus dem Geschäft läßt auf sich warten!) setzt Agaton
 Olsson eine Walze auf den Zylinder, schraubt an einer
 Schraube, die ein Geräusch verursacht, das an das
 Magenknurren eines Elefanten erinnert, und der Phonograph
 fängt an:
 
-»Praumplexschrust — Z — ich — rot — gar.«
+»Praumplexschrust — Z — seß — rot — pay.«
 
-Dann wurde alles still, und Frau Olsson sagte
+Dann wurde alles still, und Frau Olsson sagte:
 
 »Dieses Lied habe ich schon mal anders gehört!«
 
@@ -4273,8 +4277,7 @@ wollen wir die »Wachtparade« nehmen.«
 
 Olsson setzte eine neue Walze ein, und der Phonograph
 begann: »Kommt ein Vogel geflogen« zu spielen,
-
-— mit dem Refrain: »Ach, du lieber Augustin.«
+mit dem Refrain: »Ach, du lieber Augustin.«
 
 »Ich gehe jeden Sonntag zur Wachtparade, — aber
 das habe ich noch nie gehört,« sagte der Kommis.
@@ -4293,13 +4296,13 @@ sagte Frau Olsson:
 
 »Und für sowas bezahlt man nun 26 Kronen! Blödsinn!«
 
-Agaton Olsson drehte den Apparat um, Gurte ihm
+Agaton Olsson drehte den Apparat um, guckte ihm
 auf den Boden, lachte auf, als hätte er jahrelang etwas
 gewußt, aber nicht verraten wollen!
 
 »Ha—ha—ha—, das ist ein Phonograph, in den
 man selber sprechen kann. Ich werde das Mädchen
-nach unbesprochenen Walzen schien, drei Kronen: das
+nach unbesprochenen Walzen schicken, drei Kronen: das
 Stück, und dann sollt Ihr was erleben!«
 
 Die Walzen kamen, Herr Olsson setzte eine ein und
@@ -4321,7 +4324,6 @@ herunter, drückte auf den Knopf und hörte dann die
 Stimme des Dienstmädchens:
 
 <@pagebreak/>
-
 »Nicht doch, Herr Olsson, lassen Sie das sein, —
 lassen Sie das, — Gott, — wenn die Frau käme, —
 können Sie mich denn nicht in Ruhe lassen!«
@@ -4330,7 +4332,7 @@ Wir breiten einen schwarzen Schleier über die sprühende
 Wut von Frau Olsson.
 
 Als Agaton Olsson, Familienvater, Kolonialwaren
-en gros und en detail, mittags nach Hause kam, gab
+en gros und en détail, mittags nach Hause kam, gab
 der Phonograph mit großer Deutlichkeit das Geräusch
 wieder, das entsteht, wenn eine kräftige Hand eine fette
 Kolonialwarenhändlerbacke trifft, — pang, — pang, —
@@ -4341,7 +4343,7 @@ die Puppenkleider des kleinsten Mädchens zu rollen.
 
 <@pagebreak/>
 
-Nächtlicher Besuch.
+<h2>Nächtlicher Besuch.</h2>
 
 Ich wohnte in einer sehr hübschen Villa außerhalb
 der Stadt, außerhalb des elektrischen Lichts, außerhalb
@@ -4374,15 +4376,14 @@ im Bett, starr vor Entsetzen.
 Amalie ist unser Mädchen.
 
 <@pagebreak/>
-
 »Sie spricht mit jemand,« sagte meine Frau.
 
 »Sie spricht vielleicht aus dem Schlaf,« sagte ich.
 »Sei still jetzt, und laß mich zufrieden, damit ich mich
-in. Schlaf zittere und von Zentralheizung träume!«
+in Schlaf zittere und von Zentralheizung träume!«
 
 »Das ist nicht zum Spaßen!« sagte meine Frau. »Ich
-bin sicher, daß Männer zu Amalie kommen! Sie spricht«
+bin sicher, daß Männer zu Amalie kommen! Sie spricht
 mit einem!«
 
 »Wer kann ihr das verbieten?« sagte ich. »Das tust
@@ -4420,9 +4421,9 @@ denkt, daß er aber dann überlegt:
 Entdeckt aber, daß besetzt ist! Und weiß keinen Ausweg!
 Ha!«
 
-Nun fehlt einem, wenn man leicht angezogen, d. h.
+Nun fehlt einem, wenn man leicht angezogen, d.&nbsp;h.
 nur im Hemd, ohne feste Manschetten ist, jeder Mut.
-Man Lied wie ein Kind. Mit Erstaunen höre ich mich
+Man wird wie ein Kind. Mit Erstaunen höre ich mich
 selber sprechen:
 
 »Was ist das für ein Spektakel! Schämen Sie sich
@@ -4462,21 +4463,21 @@ sehe, wie Amalie rausgeworfen wird, und wie ich selber vierzehn
 Tage lang die ganze grobe Arbeit verrichte. Amalie,
 das einzige Mädchen, das wir länger als einen Monat in
 diesem Haus ohne Gossen gehabt haben! Die Sache
-muß geordnet werden!- Schnell!
+muß geordnet werden! Schnell!
 
 »Nur Ruhe!« sagte ich. »Ruhe! Das ist gar nicht
 so schlimm! Ich werde Euch helfen! Aber nicht verraten!
 Schnell diesen Weg hinaus! Kommen Sie mit!«
 
 Amalie fährt mit dem Kopf in die Sofaecke und
-weint eine Mute in die Polsterung, und der Mann
+weint eine Kute in die Polsterung, und der Mann
 folgt mir durch das Eßzimmer nach der Haustür.
 
 Der Mond scheint. Meine Kniee schlagen vor Kälte
 zusammen. Der Mann zieht die Mütze, sieht mich an
 und sagt:
 
-»Besten Dank.
+»Besten Dank.«
 
 Dann überlegt er einen Augenblick und flüstert schnell:
 
@@ -4505,7 +4506,9 @@ kaufen müssen.
 
 <@pagebreak/>
 
-Das Landhaus.
+<div class="img"><img alt="Auf dem Bild ist ein Haus mit Schornstein zu sehen. Im Hintergrund stehen Bäume, vor dem Haus ist eine Wiese." src="24_landhaus.jpg" style="width: 100%; height: auto;"/></div>
+
+<h2>Das Landhaus.</h2>
 
 Jonathan wohnte an der Peripherie der Stadt. Er
 rannte die Treppen hinauf, an der Tür des Auditeurs,
@@ -4513,13 +4516,13 @@ eine Treppe, vorbei, an der des Majors, zwei Treppen,
 des Obersten, drei Treppen, und dann war er an seiner
 eigenen. Auf dem neuen Messingschild stand:
 
-Jonathan Bonell.
+<p class="centered">Jonathan Bonell.</p>
 
 Bonell drückte auf den Klingelknopf und horchte.
 Seine junge Frau kam und machte auf. Jonathan umarmte
 sie nicht und sagte auch nicht: »Guten Abend,
 <@pagebreak/>
-Liebling, hast Du lange göwartet, mein Teuerstes auf
+Liebling, hast Du lange gewartet, mein Teuerstes auf
 Erden usw., wie es in Romanen vorkommt. Herr
 Bonell sah wohl, daß seine Frau niedlich war. Aber
 man hätte ihn mit glühenden Zangen kneifen müssen,
@@ -4528,7 +4531,7 @@ in dieser Hinsicht sah, zu äußern. Er liebte seine Frau,
 aber er hatte es, weiß Gott, nie verraten. Damit hätte
 er an Würde eingebüßt.
 
-Jonathan hängte seinen Überzieher im Entree auf
+Jonathan hängte seinen Überzieher im Entrée auf
 holte die Abendzeitung aus der Tasche und sagte:
 
 »Na, ist jetzt alles in Ordnung?«
@@ -4539,7 +4542,7 @@ Frau Bonell antwortete:
 Die Bettstellen sind das einzige, was hier
 ist; wir werden wohl vorläufig vom Nachttisch essen
 müssen. Aber, hör mal, Jonathan (Frau Bonell nahm
-ihren Mann je und flüsterte): »Sie ist gekommen,
+ihren Mann beiseite und flüsterte): »Sie ist gekommen,
 — das Mädchen. Sie heißt Frieda.«
 
 »Soso«, sagte Jonathan, »das werden wir ihr bald
@@ -4552,7 +4555,7 @@ nicht gekommen.«
 »Klingle im Grand an. Zimmer nach der Straße.
 Schlafzimmer und Salon. Balkon.«
 
-»Du bist unausstehlich!« Sie muß also heute Nacht
+»Du bist unausstehlich! Sie muß also heute Nacht
 auf dem Fußboden schlafen!«
 
 »Meinetwegen, wenn sie durchaus will.«
@@ -4587,15 +4590,15 @@ dieser Dame eines Morgens mitten auf der
 Treppe. Es gab nichts, was den Auditeur so ärgerte,
 als wenn ihm eine ältere Dame begegnete, wenn er
 morgens fortging. Er blieb dicht vor der Waschfrau
-stehen und spuckte ihr mitten »ins Gesicht.
+stehen und spuckte ihr mitten ins Gesicht.
 
-» ««
+* * *
+
 Bonell erfuhr die Sache, und er sah sie, wie sie war:
-
 eine Beleidigung gegen ihn! Es war ja seine Waschfrau!
 Er zog Hut und Überzieher an und lief zu dem
 <@pagebreak/>
-Auditeur hinunter. Er klingelte an« der Tür. Der
+Auditeur hinunter. Er klingelte an der Tür. Der
 Auditeur machte selber auf.
 
 »Verzeihen Sie«, sagte Herr Bonell mit Würde,
@@ -4606,11 +4609,11 @@ ins Gesicht gespuckt haben.«
 die Tür zu.
 
 Bonell ging etwas langsamer hinauf, als er hinunter
-gegangen. war. Im Korridor stand Frau Bonell und
+gegangen war. Im Korridor stand Frau Bonell und
 fragte ängstlich: »Na, was hast Du mit ihm gemacht?«
 
-»Ich habe ihm Bescheid gesagt«, ’ sagte Bonell und
-ging ’in sein Zimmer.
+»Ich habe ihm Bescheid gesagt«, sagte Bonell und
+ging in sein Zimmer.
 
 Eines Abends, als er zu Bett gehen wollte, sagte
 Bonell zu seiner Frau.
@@ -4619,18 +4622,18 @@ Bonell zu seiner Frau.
 Es ist ein Wahnsinn, in der Stadt zu wohnen! In der
 Stadt soll man arbeiten, — die Stadt ist für Fabriken
 und Druckereien und Elektrizitätswerke und Gas- und
-Wasserleitung da, aber wohnen soll der Mensch-auf
-»dem »Lande! Ist das mein Heim? Ich wohne ja nicht
+Wasserleitung da, aber wohnen soll der Mensch auf
+dem Lande! Ist das mein Heim? Ich wohne ja nicht
 bei mir selber, ich wohne ja bei Obersten, Majoren und
 Auditeuren, und sie wohnen bei mir, und dafür bezahle
 ich Geld, das ich nie wieder bekomme! Mit einem Häuschen
-auf dem -Lande ist das ganz anders! Da bin ich
+auf dem Lande ist das ganz anders! Da bin ich
 selber Herr, da tue ich, was ich will, und brauche mir
 nicht anzuhören, wie eine alte Schachtel jeden Abend
-unter mir- singt!«
+unter mir singt!«
 
 Am nächsten Sonntag fuhren Herr und Frau Bonell
-aufs Land. Da war eine Villa zu verkaufen. — Ach,
+aufs Land. Da war eine Villa zu verkaufen. Ach,
 <@pagebreak/>
 die war entzückend! Zu ebener Erde war ein großes
 Zimmer, und oben waren vier Kabusen.
@@ -4641,7 +4644,7 @@ So ein Zug! So eine Bahn! Da konnte
 niemand wohnen! Und dann war kein Wasser da!
 
 Am nächsten Sonntag fuhren sie nach einem andern
-Vorort. -Das war etwas ganz anderes! In die Elektrische
+Vorort. Das war etwas ganz anderes! In die Elektrische
 klettern zu können, wo man wollte in der Stadt,
 und direkt herauszufahren! Ausgezeichnet!
 
@@ -4661,7 +4664,7 @@ um einig zu werden, ob sie Zentralheizung, offene
 Kamine oder Öfen haben wollten. Sie blieben bei
 offenen Kaminen: »Eigener Herd ist Goldes wert!«
 
-Sie fuhren zu allen Tageszeiten hin,bei Regen, bei
+Sie fuhren zu allen Tageszeiten hin, bei Regen, bei
 Sonnenschein, bei Nebel, und schließlich fuhren sie eines
 Abends spät mit dem letzten Wagen hinaus, um sich
 anzusehen, wie die Wegebeleuchtung aussähe.
@@ -4673,18 +4676,18 @@ um festzustellen, wie lange die Fahrt dauerte. Es war
 ein schöner Morgen.
 
 Auf Herrn Bonells Bauplatz standen zwei dicke Herren
-und hantierten mit einem Maßband. Jene lächelte,
+und hantierten mit einem Maßband. Jonathan lächelte,
 grüßte und sagte:
 
-»Ist. das nicht ein herrlicher Platz für eine Villa?
+»Ist das nicht ein herrlicher Platz für eine Villa?
 Herrlich!«
 
 »Ja«, sagte einer der Herren, »der ist gut. Ich bin
 eben oben im Büro gewesen und habe den Platz gekauft.
-Ich fange in der nächsten 2000) an zu bauen.
-Sieben Zimmer, Küche und …
+Ich fange in der nächsten Woche an zu bauen.
+Sieben Zimmer, Küche und …«
 
-» ««
+* * *
 
 Jonathan Bonell wohnt noch immer in seiner Wohnung
 über dem Obersten, über dem Major und über dem
@@ -4697,7 +4700,9 @@ Schrift gemalt:
 
 <@pagebreak/>
 
-Das Segelboot.
+<div class="img"><img alt="Ein kleines Boot liegt auf dem Ufer. Der Mast liegt am Boden. Im Vordergrund stehen einige Fässer, im Hintergrund sieht man Büsche." src="25_segelboot.jpg" style="width: 100%; height: auto;"/></div>
+
+<h2>Das Segelboot.</h2>
 
 Aplund hatte ein Segelboot. Er hatte es von einem
 Manne, dem es faustdick hinter den Ohren saß, für
@@ -4705,31 +4710,30 @@ Manne, dem es faustdick hinter den Ohren saß, für
 
 Ich wohne neben Aplund, und Aplund hat mich gebeten,
 ihm bei der Auftakelung zu helfen. Wir takelten
-das Boot auf, d. h. wir setzten zwei Segel mit verschiedenen
+das Boot auf, d.&nbsp;h. wir setzten zwei Segel mit verschiedenen
 Namen nebst einem Mast in die Mitte des
 Bootes und ließen dann die ganze Geschichte ins Wasser.
 
 <@pagebreak/>
-
 Ein erfahrener Seemann hätte erst das Boot ins
 Wasser gesetzt und es dann getakelt, aber Aplund hat
 schon immer etwas Originelles gehabt.
 
-Als das Boot aufs Wasser gekommen war, sank es,
+Als das Boot aufs Wasser gekommen war, sank es.
 Es sank nicht langsam wie ein Granitstein, sondern
 urplötzlich wie eine Anchovisbüchse mit einem Loch im
 Boden.
 
 Wir waren sehr überrascht, und Aplund flehte den
 lieben Gott um einen Revolver und 22 Kronen an,
-damit er nach Führersitz fahren könnte, um den Mann
+damit er nach Bästervik fahren könnte, um den Mann
 zu erwischen, der ihm das Boot für 50 Kronen verkauft
 hatte, und der es faustdick hinter den Ohren hatte.
 
 Wir tranken dann einen Grog und überredeten einen
 Jüngling, der am Ort wohnte, das Boot ans Land zu
-bringen … Dann fuhren wir nach der Stadt, erledigten
-Geschäfte, gingen in den Zirkus und das Variete und
+bringen. Dann fuhren wir nach der Stadt, erledigten
+Geschäfte, gingen in den Zirkus und das Variété und
 waren mit verschiedenen Leuten zusammen.
 
 Nach einer Woche fuhren wir ans Land zurück, um
@@ -4744,15 +4748,15 @@ Wasser gesetzt. Dann sank alles.
 Wir gingen und tranken einen Grog und beauftragten
 den Jüngling, der am Orte wohnte, das Boot heraufzuziehen,
 worauf wir wieder in die Stadt fuhren, in
-den Zirkus und das Variete gingen und mit verschiedenen
+den Zirkus und das Variété gingen und mit verschiedenen
 Leuten zusammen waren.
 
 <@pagebreak/>
 Nach einer Woche fuhren wir in Gesellschaft eines
 fremden Herrn mit Kragen und Röllchen aufs Land
-zurück,
+zurück.
 
-Das Boot stand. auf den Strand gezogen da, mit
+Das Boot stand auf den Strand gezogen da, mit
 Segeln und allem. Der fremde Herr kaufte es sofort
 für 200 Kronen bar. Aplund fragte, ob er segeln könne,
 worauf er erwiderte:
@@ -4768,102 +4772,5 @@ Wir standen ein Weilchen da und überzeugten uns,
 daß es wirklich gesunken war, worauf wir hinaufgingen
 und einen Grog tranken und dem Jüngling, der am
 Ort wohnte, sagten, daß er das Boot heute Abend nicht
-heraufzuziehen brauche,
+heraufzuziehen brauche.
 
-<@pagebreak/>
-Merkwürdige Ermatteten aus meinem
-eben
-
-Der Donwnilhuund Ä See
-Bad Pferd: 4-50 nie Pro Je Maler Je Er
-Der kluge Amerikaner. 6 14.4 … 208
-In der nie dieses 54 Los
-Die Tür … 5 Ei Nr Deck Ihr
-Lärm … « je Dr u — 36
-Der Tischler … See Kleine
-wie Zu Je Nr Ei Ein Er Eier Bein
-Der Vadewannenhehn. — 088
-Der Hexostschuß«… 5443 In So Eid
-»Nie Davontragen: »5 11&nbsp;2000 Adel
-Das fröhliche Lächeln … Geist
-Loge Zu! Hause 4 2 12 Er der Ehe Arten:
-Die Ruder 3 gen Eile Ihrer Ei … 82
-Bloms Unbekanntschaften +. -. 5-5 …
-Dalströms Telephon ck… oh 00&nbsp;100
-Die Anchovisbüchse« … 4 + 217&nbsp;050. 5.0008
-Holze gerne Nr Betreffend
-Rosenlunds Zaubervorstellung Ehe Ich Heim Ton
-Die Mietskaserne … 4 4 So Liebe
-Der Brunnen … Je Dir Uns
-Olssons: Phonograph. 4 8 M?
-Nächtlicher Besuch … 4 2 Ihr
-Das Landhaus … Essen Los 8&nbsp;4121.27 …
-
-Das Stgelboot +55 0 4 In Ihr
-
-<@pagebreak/>
-Lustige Bücherei
-
-Illustrierte Mk. 1.80 Bände
-
-Eine Sammlung reizvoller Bücher mit köstlichen Erzählungen bester Autoren.
-
-Die »Lustige Bücherei« bringt in entzückender Ausstattung kleine
-Kabinettstücke humoristischer Erzählungskunst aus der Feder bester
-Autoren, Die von ersten Künstlern reizend illustrierten Bände können
-Allen, die in heiterer Unterhaltung Anregung: und Erholung suchen,
-wärmstens empfohlen, werden.
-
-Bisher erschienen:
-
-1\. Bd.: Paul Schüler, Komm an mein!12. Bd.: Fr. W. v. Dest6ren Sie entäußert.
-Buntes Titelbild von E. Heile- den schon. Durchschnitt von H. Karat.
-Mann. Buntes Titelbild von E. Heilemann.
-
-Bd.: Roda Roda, Die verfolgte!13 Wi
-
-Geduld. Mit köstlichen Bildern und! eine Fett Arm Er
-buntem Titelbild«, von W. Lacht. Buntes Titelbild von P. Krämer.
-Hans Brennert, Jungfern
-
-3\. Bd.
-er ihr! 124. Bd. NäulShüller/ Das Hirsch
-de Berges Gen viel Weib. Buchschmue und buntes Titel
-4\. Bd.: Paul Schüler, So siehst Dr In Bild von IJ. Kommen.
-
-aus! Buntes Titelbild von E. Beile (15. Bd.: Oskar Blumenthal, Lebensschwänke,
-Buntes Titelbild von
-5\. Bd.: Hans Brennert, Junger und Ob. Wennerberg.
-Ihre Kai Art 26 In Ahenberg, Herrschte
-… Bd.: Paul »Schüler, Du ahnst es Mr Er Ganges ein
-nicht! Er (Bett der alle 9&nbsp;218 Kam 982D:
-Mann. 7. Bd.:. Hans Land, Baron, Herd.:
-Paul Schüler, Auf der Alm,! Gesichter von schlimmen Mädeln. Aktion
-gibt’s da Hund! Sommer- liefert von W. Helwig. Buntes Liebst
-Gelben Buntes Titelbild I von E Heilemann.
-
-von E. Griechen 18. Ei Art. v. Reigenstein,
-
-8\. Bd.: Fanny Rheinen, Theaterblut, 60 Ein der Liebe, JUluLustiges
-aus dem Eingerieben. Nun liefert von G, v. Finetti. Buntes Titel Titelbild
-von Raphael Kirchner. / — Eid von E, Heilemann.
-
-9\. Bd.: Dieser Laverrenz,
-
-Fahrten Mal fett Bis 19. Bd.: Hans- Escher, Der Kuß der
-
-Gottes teils von B. Wennerberg. Cassata. Capriziöse Geschichten von
-10\. Bd.: Alexander MoSzkowsti, Die verliebten Leuten. Zütustriert und
-
-Ehe im Rückfall, Buntes Titelbild buntes Titelbild von L. Ehrenberger.
-von E, Heilemann. 20. Ei also Zetterström, Der Hinab.:
-Hans Khan, Auf der Kippe. mitsamt. Allerlei Unmöglichkeiten.
-Gen Essen Alte Bengel E11 Sie As Erz Eier
-Bild von E. Heilemann Schwab.
-
-Zeder Band Mk. 1.80.« In allen See
-
-Verlag der »Lulligen Blätter« (Dr. Eysler & Co.), G. m. b. 5. —
-Berlin SW 68, Markgrafenstraße 77.
-
-Weimar. — Druck von R. Wagner Sohn.
