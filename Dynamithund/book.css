@@ -1,0 +1,216 @@
+@page {
+	margin: 5px !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	text-align: center;
+	font-weight: normal;
+	line-height: 100%;
+}
+
+h1 {
+	font-size: x-large;
+}
+
+h2 {
+	font-size: large;
+	margin-top: 150px;
+}
+
+.anmerkungen {
+	text-align: center;
+	font-size: large;
+}
+
+p {
+	margin: 2pt 0 2pt;
+	text-indent: 1em;
+	text-align: justify;
+}
+
+blockquote {
+	margin-left: 1em;
+	margin-right: 0;
+}
+
+/* cover */
+#cover {
+	width: auto;
+	height: 100%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/* table of contents */
+.toc#author, .toc #author {
+	text-align: center;
+	color: dimgray;
+	font-size: 1.25em;
+	font-size: large;
+	line-height: 100%;
+	margin-bottom: 0.5em;
+}
+.toc#title, .toc #title {
+	text-align: center;
+	font-size: 1.8em;
+	font-size: x-large;
+	line-height: 100%;
+}
+.toc#subtitle, .toc #subtitle, .toc#edition, .toc #edition {
+	text-align: center;
+	color: dimgray;
+	font-size: 1.25em;
+	font-size: x-large;
+	line-height: 100%;
+}
+
+#toc ol {
+	list-style-type: none;
+	text-align: left;
+}
+
+li {
+	padding-left: 0.3em;
+	text-align: justify;
+}
+
+.abgesetzt {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.title1 {
+	font-size: xx-large;
+	text-align: center;
+	line-height: 100%;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.title2 {
+	font-size: x-large;
+	text-align: center;
+	line-height: 100%;
+}
+
+.title3 {
+	font-size: large;
+	text-align: center;
+	line-height: 100%;
+}
+
+/* umrahmter Titel */
+.borderedTitle {
+	font-size: x-large;
+	font-weight: bold;
+	padding: 0.25em;
+	margin: auto;
+	width: fit-content;
+	border: groove black 2px;
+	text-align: center;
+}
+
+.copyright {
+	font-size: small;
+	text-align: center;
+	white-space: pre-wrap;
+}
+
+/* Landmarks und Page-List ausblenden */
+#landmarks, #page-list {
+	display: none;
+	visibility: hidden;
+}
+
+/* Link zu Fußnote */
+a.refnote {
+	font-size: small;
+	vertical-align: super;
+	text-decoration: none;
+}
+
+/* Fußnote */
+.footnote {
+	font-size: small;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	text-indent: 1em;
+}
+
+.footnote a.backref {
+	font-size: x-small;
+	vertical-align: super;
+	text-decoration: none;
+}
+
+td, th {
+	vertical-align: top;
+	padding-right: 0.5em;
+}
+
+/* gesperrter Text */
+.g {
+	letter-spacing: 0.25em;
+}
+
+.strong {
+	font-weight: bold;
+}
+
+.em {
+	font-style: italic;
+}
+
+/* zentrierter Text */
+.centered {
+	text-align: center;
+}
+
+/* rechtsbündig */
+.right {
+	text-align: right;
+}
+
+.pre {
+	white-space: pre-wrap;
+}
+
+.indent {
+	margin-left: 1em;
+}
+
+.indent2 {
+	margin-left: 2em;
+}
+
+.monospace {
+	font-family: monospace;
+}
+
+/* dünne Linie mit Verlauf als Trenner */
+hr {
+	border: 0; 
+	height: 1px; 
+	width: 80%;
+	align: center;
+	text-align: center;
+	background: #333; 
+	background-image: linear-gradient(to right, #eee, #333, #eee);
+}
+
+/* Werbe-Block "Kabels Kriminalbücher" */
+div.kkb {
+	border: 8px ridge lightgray;
+	white-space: pre-wrap;
+	text-align: center;
+	page-break-inside: avoid;
+	margin: 2em;
+	padding: 2em;
+}
+.kkb .reihe {
+	font-size: large;
+}
+.kkb .titel {
+	font-size: x-large;
+}
