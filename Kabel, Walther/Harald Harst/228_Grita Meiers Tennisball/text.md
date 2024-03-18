@@ -9,7 +9,7 @@ Ein Tennisball ist ja an sich ein sehr harmloses Ding.
 Ist er noch jung, springt er flott umher, verträgt so manchen
 Hieb. Wird er alt, dann fallen seine Pausbäckchen ein — wie
 bei einem Greise, und mit dem Springen ist’s vorbei … Er
-wird schlaff und leben8zmüde und faul und endet schließlich
+wird schlaff und lebensmüde und faul und endet schließlich
 wie ein Landstreicher auf dem Kehrichthaufen.
 
 Der Tennisball, dessen Geschichte ich hier erzählen will,
@@ -29,7 +29,7 @@ Freunde und Leser. Es war ein tolles, gemeines Stück, das
 sich die Firma Brown dort geleistet hatte. Nur aus
 <@pagebreak/>
 Geschäftstüchtigkeit einen Menschen als Dieb Hinstellen und
-in 5000 Pfund opfern: allerhand!! Nun, Miß Dora
+noch 5000 Pfund opfern: allerhand!! Nun, Miß Dora
 Brown und Komplizen saßen nun im Greifenberger Gerichtsgefängnis
 und harrten ihrer Verurteilung wegen schwerer
 Körperverletzung, Beleidigung und Betrugs. Daß die gewissenlose,
@@ -59,31 +59,31 @@ verloren Erinnerungen verknüpft waren.
 Zunächst wanderten wir den bequemen Herzweg empor,
 so benannt, weil selbst Leidende die flachen, langen Terrassen
 getrost bewältigen können. Dabei kamen wir auch an der
-Rückseite des Kurhauses entlang, wo die Granitplatte liegen.
+Rückseite des Kurhauses entlang, wo die Tennisplätze liegen.
 Nur ein einzelnes Paar spielte hier, ein dünner Hering
 von hypermodernem Gent und eine schwarzhaarige Dame
 von gewisser Überfülle trotz des trainierten gertenschlanken
-Körpers und der tadellos proportionierten, muskulösen Leuchten.
+Körpers und der tadellos proportionierten, muskulösen Beinchen.
 Ich beachtete die beiden nicht. Meine Gedanken waren
 weit voraus — dort oben am Nordende des hochgelegenen
 <@pagebreak/>
-Deutsch-Weges — in der kleinen Villa, in der wir vor zwei
+Pintsch-Weges — in der kleinen Villa, in der wir vor zwei
 Jahren einen raffinierten Schwindler entlarvt hatten, — —
 und nachts weiter bei dem behaglichen, schiefergedeckten Häusel
-an der Dorfbahschlucht, in dem wir ein paar köstliche
+an der Dorfbachschlucht, in dem wir ein paar köstliche
 Wochen bei netten Wirtsleuten verlebten.
 
 Ob wohl die Familie Birt noch vollzählig beieinander
 war? — Da war die älteste Tochter gewesen, das dunkeläugige
-Lenchen … Und der fleißige, gefällige Friß, und die
+Lenchen … Und der fleißige, gefällige Fritz, und die
 kleine, freche Lieserl, und dann der alte Birt und seine
 flinke Frau, und die Kühe im Stall und das braune Kätzchen.
 
 Wir hatten den Pintschweg erreicht. Rechter Hand lag der
-Hohe Wall der scharfen Kurve der Rodelbahn. Links das
-Denkmal für den Geheimrat Winters …
+hohe Wall der scharfen Kurve der Rodelbahn. Links das
+Denkmal für den Geheimrat Pintsch …
 
-Cm Blick hinab in das Tal — in die weite Ebene Sie
+Ein Blick hinab in das Tal — in die weite Ebene …
 Dort Friedeberg, dort Greifenberg, — — und dort unser
 Haubenberg …
 
@@ -92,10 +92,10 @@ war die Fernsicht selten.«
 
 Er antwortete nicht …
 
-Zuweilen kann ihn, den Naturschwärmer, auch das entzüdendste
+Zuweilen kann ihn, den Naturschwärmer, auch das entzückendste
 Landschaftsbild völlig kalt lassen …
 
-Immer dann, wenn er sein Steenpferd reitet, wenn
+Immer dann, wenn er sein Steckenpferd reitet, wenn
 er irgend etwas beobachtet hat, das ihm Gelegenheit bietet,
 sein verblüffendes Kombinationstalent zu betätigen.
 
@@ -114,25 +114,25 @@ Er winkte kurz mit der Hand …
 
 Wir gingen weiter.
 
-Und nun: Da war das Häuserl!
+Und nun: Da war das Häusel!
 
 <@pagebreak/>
 Und da war ja auch das Lieserl auf der Wiese vor
 der Tür. Nur gut, daß ich vorsorglich die Tafeln Schokolade
 mitgenommen hatte — und die Zigarren für Vater Birt
-und die Zigaretten für den Friß.
+und die Zigaretten für den Fritz.
 
-Begrüßung … und wie …’!!
+Begrüßung … und wie …!!
 
 Auch Harald wurde lebendig. Mutter Birt kochte rasch
-Kaffee, deckte den Tisch vor der Tür … Das Leuchten war
+Kaffee, deckte den Tisch vor der Tür … Das Lenchen war
 inzwischen eine verheiratete Frau geworden … Und der
-Friß zwei Köpfe größer, braun gebrannt wie ein Inder, — —
+Fritz zwei Köpfe größer, braun gebrannt wie ein Inder, — —
 und das Lieserl schleppte ihre Schulbücher herbei.
 
 Urgemütlich war diese Kaffeetafel … Schwarzbrot gab’s,
 fingerdick Butter, und Vater Birt aß noch immer zu jedem
-Dritten Brot ein »eingetunktes« Fläschchen Zucker.
+Bissen Brot ein »eingetunktes« Stückchen Zucker.
 
 Wie’s mit den Sommergästen sei, fragten wir.
 
@@ -148,7 +148,7 @@ Dann schaute sie Harald etwas versonnen an.
 
 »Na, Frau Lenchen, haben Sie was auf dem Herzen?«
 
-»Je; Deck: Hanftau
+»Ja, Herr Harst …«
 
 »Schießen Sie los …«
 
@@ -157,29 +157,27 @@ Dann schaute sie Harald etwas versonnen an.
 »Das soll öfters vorkommen, Frau Lenchen …«
 
 »Aber das ist eine, die gar nie zu Haus ist, auch
-nachts nicht … Nusflüg’ macht sie, — sagt sie … Mag
+nachts nicht … Ausflüg’ macht sie, — sagt sie … Mag
 ja stimmen … Doch ich weiß nicht recht, sie macht zu viel
 Ausflüge … Manchmal ist sie drei, vier Tage mit ihrem
 Rad und ihrem Rucksack unterwegs, — ganz allein …«
 
-»und das litt Sie an, Frau Lenchen?!«
+»und das ficht Sie an, Frau Lenchen?!«
 
-Mutter Birt mischte sich ein. »Lag’s mal recht das
+Mutter Birt mischte sich ein. »Sag’s mal recht das
 Ganze, Lenchen … Dem Herrn Harst kannst alles sagen.«
 
-»Na ja, ’8 ist noch was an der Such’, was mir nicht
-gefällt … Dreimal hat sie mir erzählt, sie wär« im Riesengebirge
+»Na ja, ’s ist noch was an der Dam’, was mir nicht
+gefällt … Dreimal hat sie mir erzählt, sie wär’ im Riesengebirge
 <@pagebreak/>
-gewesen, und da hab’ ich sie, als im zu Einkauf
+gewesen, und da hab’ ich sie, als ich zu Einkäuf’
 in Friedeberg war, gesehen … Und noch was: Sie hat
 blondes Haar, ganz strohblond, aber sie trägt drüber eine
 dunkle Bubikopfperück’, und in Friedeberg war sie blond
 und Hatte eine Brille und eine ganz andere Nase, —
-
 aber sie war’s doch … — Ich wär’ froh, wenn sie erst
-weg wär’ … Bezahlt hat sie alles im voraus, und freundhis
-ist sie auch, nur — man hat das so im Gefühl +
-
+weg wär’ … Bezahlt hat sie alles im voraus, und freundlich
+ist sie auch, nur — man hat das so im Gefühl —
 sie ist keine anständige Person …«
 
 Harald lachte herzlich …
@@ -190,34 +188,34 @@ täuschen lassen … — Wie heißt denn diese eifrige Radlerin?«
 
 »Fräulein Doris Winter aus Bremen … Malerin …
 Waise ist sie. Briefe bekommt sie nie. Und reden tut sie wie
-— « … wie eine Tschechin von drüben über der Grenze …«
+… wie eine Tschechin von drüben über der Grenze …«
 
-»Sir meinen, sie spricht das Deutsche gebrochen …«
+»Sie meinen, sie spricht das Deutsche gebrochen …«
 
 »Ja … Ich denk’ immer, sie ist gar keine Deutsche …«
 
 »Sind Sie aber mißtrauisch, Frau Lenchen!! — Erzählen
 Sie der Dame nur nicht, daß Sie mir Ihre sogenannten
-Verdachtsgründe mitgeteilt haben … Das Tränklein
+Verdachtsgründe mitgeteilt haben … Das Fräulein
 würde sehr böse werden.«
 
 »Ich werde mich hüten, Herr Harst! — Mir ist ja nun
-auch leichter … Das hat herunter müssen von meiner See!,
+auch leichter … Das hat herunter müssen von meiner Seel’,
 — das war mir seit lang’ eine Last … Nun mag das
-Fräulein sich auch noch so viel Tennisball schien lasse …
-Denn alle drei Sag’ kriegt sie ’n Paket aus Bremen, nur
-immer mit weiße seine Tennisbäll’, nie ’n Brief, und wenn
-erste hier ist, dann läuft sie immer mit ihrem Tennisschläger
+Fräulein sich auch noch so viel Tennisbäll’ schicken lasse …
+Denn alle drei Tag’ kriegt sie ’n Paket aus Bremen, nur
+immer mit weiße feine Tennisbäll’, nie ’n Brief, und wenn
+sie hier ist, dann läuft sie immer mit ihrem Tennisschläger
 rum mit ’nem rotseidenen Netz und Bällen drin und spielen
-tut sie ’n halben Tag, nur malen tut sie nie … ’ne komisch
+tut sie ’n halben Tag, nur malen tut sie nie … ’ne komische
 Malerin …«
 
 Harald lachte wieder …
 
 »Frau Lenchen, auch eine Malerin muß mal Ferien
 <@pagebreak/>
-machen … Das tun Schraut und ’icß ja aus — wie jetzt?
-Wir Könner doch nicht dauernd ohne Pause Abenteuer
+machen … Das tun Schraut und ich ja auch — wie jetzt!
+Wir können doch nicht dauernd ohne Pause Abenteuer
 suchen …! Also lassen Sie nur Fräulein Winter ihre harmlosen
 Neigungen. Jeder will nach seiner Fasson selig werden.«
 
@@ -228,25 +226,25 @@ jetzt sehr zerstreut war.
 
 Ob Fräulein Winters häufige Tennisballsendungen ihm
 durch den Kopf gingen?! Wo blieben alle diese Bälle?! Es
-war tu’ unmöglich, daß jemand beim Spiel so zahlreiche Bälle
-verbrauchte. Und — wieviel Bälle mochte wohl jedes Packen
+war ja unmöglich, daß jemand beim Spiel so zahlreiche Bälle
+verbrauchte. Und — wieviel Bälle mochte wohl jedes Paket
 enthalten? Ich hätte Lenchen gerne danach gefragt.
 
-Nun — Harst tat’s, — so ganz nebenbei, so ganz aufs
-fällig — — ganz …
+Nun — Harst tat’s, — so ganz nebenbei, so ganz unauffällig
+— — ganz …
 
 »Zwanzig Bälle sind im Paket, Herr Harst …«
 
-»Was mal sie denn mit all den Dingern?«
+»Was macht sie denn mit all den Dingern?«
 
-»ob — sie ist sehr nachlässig … Sie verliert sie meist.«
+»Oh — sie ist sehr nachlässig … Sie verliert sie meist.«
 
 »Seit wann wohnt sie denn bei Ihnen?«
 
-»Bett dem fünfzehnten Juni … Das Vorderzimmer mit
+»Seit dem fünfzehnten Juni … Das Vorderzimmer mit
 der Veranda hat sie … — Sie müssen doch mal zu uns
 kommen, Herr Harst. Mein Mann würd’ sich so sehr freuen …
-— Und jetzt muß ich heim. Um fünf kommt mein Man
+— Und jetzt muß ich heim. Um fünf kommt mein Mann
 vom Felde …«
 
 »Wir begleiten Sie dann gleich, Frau Lenchen … Ich
@@ -256,17 +254,17 @@ Birts wollten uns durchaus nicht weglassen. Wir mußten
 versprechen, uns bald wieder einzufinden.
 
 So gingen wir nun zu dreien den Pintschweg hinab,
-hinein in den prächtigen Hochwald bis zur Sprungschanze;
-dort links die Anhöhe hinauf und nachher an der Germania
-Baude vorüber ins Queißtal hinab.
+hinein in den prächtigen Hochwald bis zur Sprungschanze,
+dort links die Anhöhe hinauf und nachher an der Germania-Baude
+vorüber ins Queißtal hinab.
 
-Das Anwesen Lenchens lag unweit der QLueißstraße, schräg
+Das Anwesen Lenchens lag unweit der Queißstraße, schräg
 gegenüber der Schneidemühle hinter einer Anhöhe: ein langgestreckter
 Bau, blitzsauber, alles frisch gestrichen …
 
 <@pagebreak/>
 Unterwegs hatte Frau Lenchen noch so manches über ihre
-Mieterin erzählt … Heute sei sie gen mal wieder zu
+Mieterin erzählt … Heute sei sie grad’ mal wieder zu
 Hause … Tennis hab’ sie über Mittag gespielt, und den
 Kaffee wollt sie um halb fünf haben … »Meine Schwiegermutter
 wird sie schon versorgen,« — — und dann waren
@@ -275,7 +273,7 @@ ländlicher Salon, — — Haralds Entsetzen! Und essen sollten
 wir wieder und Kaffee trinken … Da war nichts gegen zu
 machen.
 
-Zwischenein führte uns Lenchens stiller, freundlichen Mann
+Zwischenein führte uns Lenchens stiller, freundlicher Mann
 durch das ganze Haus, durch die Ställe und schließlich lugte
 er auch vom Hofe in die Veranda hinein …
 
@@ -288,24 +286,24 @@ Niemand meldete sich.
 
 Wir traten ein.
 
-Matten im sonndurchleuchteten Zimmer auf dem billigen,
+Mitten im sonndurchleuchteten Zimmer auf dem billigen,
 neuen Teppich lag ein weißgekleidetes junges Weib auf dem
 Rücken.
 
-Es war dieselbe, die im hinter dem Kurhaus auf dem
-einen Tennisplatz mit dem langen Faßte gesehen hatte.
+Es war dieselbe, die ich hinter dem Kurhaus auf dem
+einen Tennisplatz mit dem langen Fatzke gesehen hatte.
 
 <@pagebreak/>
 
 <h2>2. Kapitel.</h2>
 <h3>Das alte Ekel.</h3>
 
-Lenchens Mann war vor Schrei halbtot.
+Lenchens Mann war vor Schreck halbtot.
 
 Doris Winter war leider ganz tot.
 
 Nachdem Harald festgestellt, daß hier nicht mehr zu helfen,
-scheint er die Verandatür und die Stubentür ab.
+schloß er die Verandatür und die Stubentür ab.
 
 »Wir dürfen nichts anrühren, Herr Gräser …! Laufen
 Sie und telephonieren Sie an das Amtsgericht Greifenberg
@@ -321,24 +319,23 @@ in dem Zimmer noch etwas umsehen …«
 — Glaubst du an den Selbstmord?«
 
 »Wenn sie den Zettel auf dem Tische selbst geschrieben
-bat, muß man daran glauben. Die Tinte ist noch ganz frisch,
+hat, muß man daran glauben. Die Tinte ist noch ganz frisch,
 der Tod kann vor höchstens Zwanzig Minuten, also etwa
 um zehn Minuten nach halb fünf eingetreten sein. Trotzdem
-Gewitter? ihm hier besondere Begleitumstände.«
+wittere ich hier besondere Begleitumstände.«
 
 »Was steht auf dem Zettel?«
 
 »Wörtlich:
 
-Ich scheide freiwillig aus dem Leben. Ich heiße nicht
+> Ich scheide freiwillig aus dem Leben. Ich heiße nicht
 Doris Winter. Man soll mich in aller Stille begraben und
 <@pagebreak/>
 nicht weiter nachforschen. Geld befindet sich genügend in
-
-Steinen Handtäschchen. Was davon für die Bestattung nicht
-
+meinem Handtäschchen. Was davon für die Bestattung nicht
 verbraucht wird, sollen meine Wirtsleute Gräser erhalten.
-Doris Winter.«
+
+<p class="right">Doris Winter.«</p>
 
 »Ein sehr klarer Abschiedsbrief, Harald.«
 
@@ -347,7 +344,7 @@ Doris Winter.«
 »Was willst du noch in dem Zimmer?«
 
 »Einiges mir ansehen, so zum Beispiel das Paket auf
-dem Sofa. Eis ist heute früh eingetroffen. Der Absenveyx
+dem Sofa. Es ist heute früh eingetroffen. Der Absender
 der Bälle muß festgestellt werden.«
 
 »Du Hältst das für wichtig?«
@@ -358,7 +355,7 @@ merkwürdige Beobachtung gemacht.«
 
 »Deshalb warst du auch so zerstreut …«
 
-»Allerdings … — Nun geh bitte zu den Frauen. Dann
+»Allerdings … — Nun geh' bitte zu den Frauen. Dann
 nimm Gräsers Rad und fahre zum Kurhaus und sage Saalborg
 Bescheid. Wir bleiben hier in Flinsberg. Er soll uns
 unsere Koffer hier zu Gräsers schicken. Wir nehmen das
@@ -373,33 +370,33 @@ Zweitens den Mann am Fenster.«
 »Wen …?! Mann am Fenster?!«
 
 »Ja doch … Du hast natürlich wieder nichts gesehen.
-— Nun und Dir, mein Alter …« —
+— Nun mach' fix, mein Alter …« —
 
 Eine Stunde drauf war die Gerichtskommission da. Den
-Untersuchungs:Tochter kannten wir schon — ein sehr höflicher
-Herr, mit dem sie gut auskommen ließ. — Der Kreisarzt
-erklärte, Doris Winter habe sich mit Amputation vergiftet
-Das Fläschchen lag zu ihren Füßen. Amhylnitrit wirkt schon
-eingeatmet Anhänglich.
+Untersuchungsrichter kannten wir schon — ein sehr höflicher
+Herr, mit dem sich gut auskommen ließ. — Der Kreisarzt
+erklärte, Doris Winter habe sich mit Amylnitrit vergiftet
+Das Fläschchen lag zu ihren Füßen. Amylnitrit wirkt schon
+eingeatmet blitzähnlich.
 
 In Doris’ Koffer fand der Richter eine Art Tagebuch
 <@pagebreak/>
 — in englischer Sprache. Doris war zweifellos Engländerin.
 Ihre Aufzeichnungen begannen mit dem 2. Februar dieses
 Jahres, waren jedoch völlig unverständlich — alles nur
-Andeutungen, keine Namen, alles lediglich sein ausgeklügelte
+Andeutungen, keine Namen, alles lediglich fein ausgeklügelte
 harmlose Bezeichnungen für zweifellos sehr wenig formlose
 Dinge.
 
 Die Vernehmung der Gräsers ging schnell vorüber. Inzwischen
 hatte der Landjäger schon den dauernden einzigen
 Tennispartner der Toten ermittelt und herbeigebracht: Herrn
-Hugo Spiegel aus Berlin, Sohn von Gemietet & Konto.,
+Hugo Schniesel aus Berlin, Sohn von Schniesel & Komp.,
 Wäsche en gros.
 
-Das war der Faßte.
+Das war der Fatzke.
 
-War zu einer. Und ein Jammerlappen dazu.
+War auch einer. Und ein Jammerlappen dazu.
 
 Er sagte käsebleich und schlotternd aus, er habe Fräulein
 Winter erst hier in Flinsberg kennengelernt und als eifriger
@@ -408,11 +405,11 @@ viel unterwegs gewesen, und er habe auch gemerkt,
 daß sie einen geheimen Kummer vor ihm verberge. Sie
 sei sehr verschlossen gewesen, und er habe geradezu gefühlt,
 daß »mit ihr irgend etwas nicht richtig sei«. — Andere Bekannte
-habe sie hier bestimmt nicht gehabt. Ob sie Engsländerin
-sei, wisse er nicht. Ihr Deutsch sei fließend, Er
-da mit fremdem Akzent gewesen.
+habe sie hier bestimmt nicht gehabt. Ob sie Engländerin
+sei, wisse er nicht. Ihr Deutsch sei fließend, aber
+doch mit fremdem Akzent gewesen.
 
-Herr Hugo Gemietet trat ab. Er wohnte im Turban
+Herr Hugo Schniesel trat ab. Er wohnte im Kurhaus
 und sollte hier seine Blutarmut heilen.
 
 Damit waren die Vernehmungen beendet.
@@ -424,49 +421,49 @@ Der Amtsrichter trat mit uns auf die Veranda hinaus,
 während die Tote in aller Stille weggeschafft wurde. Den
 Zettel hatte sie bestimmt selbst geschrieben. Also war gegen
 die Freigabe zur Beerdigung nichts einzuwenden. An Geld
-besaß sie von; 1485 Mark — alles deutsches Geld.
+besaß sie noch 1485 Mark — alles deutsches Geld.
 
 <@pagebreak/>
 »Was halten Sie von den häufigen Ballsendungen,
 Herr Harst?« fragte der Amtsrichter leise.
 
 »Weiß ich noch nicht … Depeschieren Sie nach Bremen
-an die Firma Stopp. Vielleicht kennt diese die Tote genauer.
+an die Firma Stepp. Vielleicht kennt diese die Tote genauer.
 Dorther bezog sie diese Unmengen von Bällen.«
 
 »Und wie denken Sie über die Radausflüge und die
 Perücke?«
 
-»Furcht das bleibt aufzuklären. — I bitte Sie, lassen
-Sie die Sachen der Toten hier. Schraut und ich werden,
+»Auch das bleibt aufzuklären. — Ich bitte Sie, lassen
+Sie die Sachen der Toten hier. Schraut und ich werden
 dieses Zimmer beziehen. Vielleicht finde ich doch noch etwas
 Wichtiges. Auch das Tagebuch möchte ich in Ruhe genauer
 studieren.«
 
-»Güte sehr, verehrter Herr Harst. — Auf mich macht
-es den Eindringt, als ob dieses Mädchen, das recht hübsch
+»Bitte sehr, verehrter Herr Harst. — Auf mich macht
+es den Eindruck, als ob dieses Mädchen, das recht hübsch
 gewesen, irgendwie in den Tod getrieben wurde.«
 
-»Fraglos, Herr Amtsrichter. Und da wollen wir Hinterhufen.«
--
+»Fraglos, Herr Amtsrichter. Und da wollen wir hinterhaken.«
+--
 
-Uns halb neun saßen wir beide in der Veranda beim
+Um halb neun saßen wir beide in der Veranda beim
 Abendbrot. Es regnete leicht, und drüben über dem Riesengebirge
 hing eine pechschwarze Wolkenwand.
 
-Wir waren abgespannt und wortkarg. Mit belästigte
+Wir waren abgespannt und wortkarg. Mich belästigte
 der Gedanke, drinnen in diesem Zimmer schlafen zu müssen,
-in dem noch4+ der Parfümduft der Toten wehte, doch recht
+in dem noch der Parfümduft der Toten wehte, doch recht
 peinlich. Harst ist gegen derlei Empfindlichkeit völlig abgestumpft.
 
 Die Veranda lag wie schon erwähnt nach dem Hofe
-31, der aber mit alten Bäumen bestanden war und mehr
-einem Garten glich. Nach dem Queißtal zu hatten wir freien,
+zu, der aber mit alten Bäumen bestanden war und mehr
+einem Garten glich. Nach dem Queißtal zu hatten wir freien
 Blick.
 
-Die drei Flaschen Bier, die im zum Essen trank, taten
+Die drei Flaschen Bier, die ich zum Essen trank, taten
 mir gut. Alkoholgegner sind Narren. Ein Tropfen Alkohol
-zu rechter Zeit ist ein Labsal. Nur Wurden können das
+zu rechter Zeit ist ein Labsal. Nur Mucker können das
 leugnen.
 
 Ich lebte auf.
@@ -492,7 +489,7 @@ davon.
 
 Die Gewitterwolke drüben kam näher. Wir beeilten uns.
 Wenn’s in Flinsberg gewittert, hilft kein Gummimantel. Aber
-die Gewitter sind im übrigen harmlos. Die Riesensichten
+die Gewitter sind im übrigen harmlos. Die Riesenfichten
 sind die besten Blitzableiter.
 
 Ich fragte unterwegs, was die Tennisbälle mit dem
@@ -504,15 +501,15 @@ Im Kurhaus beschrieb Harald dem Oberkellner den Herrn,
 den wir sprechen wollten: Mittelgroß, bucklig, grauer Vollbart,
 blaue Brille, graue Künstlermähne, große Ohren.
 
-»Ab — Herr Müller aus Berlin, Rentner Erwin
+»Ah — Herr Müller aus Berlin, Rentner Erwin
 Müller …! Zimmer Nr. 8, Hochparterre, nach hinten heraus
-…
+…"
 
 »Nach den Tennisplätzen …
 
-Ich: nie
+"Ja ..."
 
-Wir standen vor Nr. 8, Harald klopfte.
+Wir standen vor Nr. 8. Harald klopfte.
 
 Eine heisere Stimme:
 
@@ -531,17 +528,17 @@ Müller …«
 Hinter der Tür blieb es minutenlang mäuschenstill.
 
 Dann wurde der Nachtriegel weggestoßen, und die Tür
-öffnete sich handbreit. Du die Spalte blinkte uns eine
+öffnete sich handbreit. Durch die Spalte blinkte uns eine
 Mauserpistole entgegen.
 
-»Ihre Namen?« krächzte der rote immer unsichtbare
+»Ihre Namen?« krächzte der noch immer unsichtbare
 Müller.
 
-Sein Deutsch klang Felsens englisch.
+Sein Deutsch klang verfänglich englisch.
 
-»Harst und Schraut …
+»Harst und Schraut …"
 
-Die Pistole Rute Sie nach oben, wurde zurückgezogen.
+Die Pistole ruckte erschrocken nach oben, wurde zurückgezogen.
 
 Harst hatte schon den Fuß in die Spalte geklemmt und
 drückte die Tür mit Gewalt auf.
@@ -555,16 +552,16 @@ Dann waren wir schon drin.
 Vor uns stand eine Jammergestalt, der man die Todesangst
 auf den ersten Blick ansah.
 
-»Hinaus?!« kreischte Müller … »Dies ist Hausfriedensbruch
+»Hinaus!!« kreischte Müller … »Dies ist Hausfriedensbruch
 …! Ich werde …«
 
-w’ … Sie werden den Mund halten. Doris Winter ist
-tot.
+"… Sie werden den Mund halten. Doris Winter ist
+tot."
 
 Das traf.
 
-Müller sank hintenüber in einen Plüschsessel Er wvohnntächtig
-geworden,
+Müller sank hintenüber in einen Plüschsessel. Er war
+ohnmächtig geworden,
 
 Mit offenem Munde und verdrehten Augen lag er da.
 
@@ -588,9 +585,9 @@ Leise rief er mir zu, was er gefunden: Papiere auf
 den Namen Erwin Müller, Rentner, 69 Jahre alt, wohnhaft
 Berlin N., Kleine Hamburger Straße 2. — Einen Geldbetrag
 von rund 3000 Mark, fünf Anzüge, alle neu, alle von
-Deck & Cloppenburg, Berlin, »von der Stange«, neun
+Peek & Cloppenburg, Berlin, »von der Stange«, neun
 Oberhemden, Wäsche, vier Paar Stiller-Stiefel — — und
-so weiter, eine Filmkamera 9 mal 12, eine Menge Aufs
+so weiter, eine Filmkamera 9 mal 12, eine Menge Auf-
 nahmen von Flinsberg und Umgegend … alles Dinge, die
 uns wenig helfen konnten.
 
@@ -605,51 +602,51 @@ schwarzer Klumpen.
 
 »Die Reste der Tennisbälle,« sagte Harald etwas enttäuscht.
 Er zählte die Klümpchen. Es waren einundfünfzig. Als
-er sich) nun die Hände wusch, meinte er beiläufig: »Viele
+er sich nun die Hände wusch, meinte er beiläufig: »Viele
 werden restlos verkohlt sein …«
 
-Und als er sich abtro&nete:
+Und als er sich abtrocknete:
 
 »Ich möchte nur wissen, was Doris Winter Herrn
 Müller mit Hilfe der Tennisbälle zugeschickt hat.«
 
-… Er trat ans Fenster, schlug den Vorhang zurück, winkte
+Er trat ans Fenster, schlug den Vorhang zurück, winkte
 mir.
 
 »Bitte … Dort unter uns ist der eine Tennisplatz. Man
 kann von dort ganz leicht »aus Versehen« Bälle hier ins
-Zimmer treiben, wenn man Gesicht ist und wenn die Fenster
-Bier offen. stellten.«
+Zimmer treiben, wenn man geschickt ist und wenn die Fenster
+hier offen stehen.«
 
-Vielleicht hätte ein Romandetektiv diese seine Kombination
+Vielleicht hätte ein Romandetektiv diese feine Kombination
 <@pagebreak/>
 mit einem Schwall von Phrasen umgeben — drei Seiten
-lang, wie dies zum Beispiel A. K. Eisen in ihren Kriminalromanen
+lang, wie dies zum Beispiel A. K. Green in ihren Kriminalromanen
 beliebte oder wie es ein Schriftsteller modernen
 Formats mit schleimiger Breite getan, damit nicht etwa die
-prägnante Kürze als »geschhluderter Schund« gewertet würde.
+prägnante Kürze als »geschluderter Schund« gewertet würde.
 
 Harst ist wie ich ein Feind aller Redensarten. Er
 redet kein »Kulturdeutsch«. Ich auch nicht. Dieses Kulturdeutsch
 reden nur die Leute in Dreimarkromanen bis zwölf Mark
-auswärts, in Wildleder gebunden, auf Büttenpapier, Auflage
+aufwärts, in Wildleder gebunden, auf Büttenpapier, Auflage
 3000, Rest der Auflage in den Kaufhäusern zu einer Mark auf
 dem Ramschtisch.
 
 Und deshalb fügte Harst auch ebenso schlicht hinzu:
 
-»Wenn der Amtsrichter den Herrn Hugo Gemietet gefragt
-Hätte, ob er denn nicht wüßte, wo all die Ball geblieben,
-dann würde Gemietet vielleicht ein wenig Klarheit in diese
-Frage gebracht haben. Zugehen war nur Notnagel für Doris.
+»Wenn der Amtsrichter den Herrn Hugo Schiesel gefragt
+Hätte, ob er denn nicht wüßte, wo all die Bälle geblieben,
+dann würde Schniesel vielleicht ein wenig Klarheit in diese
+Frage gebracht haben. Hugochen war nur Notnagel für Doris.
 Sie brauchte einen Spielpartner, der den Kopf nicht zum
-Denken, sondern nur als Hutständer benutzte. Vielleicht ha?
+Denken, sondern nur als Hutständer benutzte. Vielleicht hat
 sie ihm einen netten Bären aufgebunden, weshalb sie die
 Bälle Herrn Müller ins Zimmer feuerte, das arme Mädel …
 Nun, die, von denen sie in den Tod gehetzt wurde …« —
 seine Stimme klang stahlhart — »sollen es büßen, so
 wahr ich schon häufiger ausgleichende Vorsehung gespielt
-Habe!« …
+habe!«
 
 Er ließ den Vorhang fallen.
 
@@ -1668,7 +1665,7 @@ wie wir sorgen vor.
 Koffer zwei hatte einen doppelten Deckel, ein tadelloses
 Geheimfach.
 
-Darin lagen in Watte verpackt die Ersatstüke: Zwei
+Darin lagen in Watte verpackt die Ersatzstücke: Zwei
 amerikanische Coldpistolen mit langem Lauf, Munition, Nachschlüssel,
 Brecheisen, Stahlbohrer, zwei Sprengpatronen, eine
 Flasche Öl — noch anderes.
@@ -2515,7 +2512,7 @@ haben, insofern nachlässig gehandelt zu haben, als er den
 Burschen nicht beargwöhnt hätte: Hinterher kann jeder leicht
 den Schlaumeier spielen.
 
-Die Behörden waren einsicht8voller. Niemand hat meinem
+Die Behörden waren einsichtsvoller. Niemand hat meinem
 Freunde irgendwie Vorhaltungen gemacht. Das Schicksal hatte
 gesprochen. Dora Brown, die schon Saalborg hatte ins
 Unglück stürzen wollen, war tot.
