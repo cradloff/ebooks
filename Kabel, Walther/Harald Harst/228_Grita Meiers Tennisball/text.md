@@ -1356,14 +1356,14 @@ Der Stumme, hinter dessen Maske ein Paar dunkle
 Augen weiß und fast gütig schimmerten, sagte daraufhin, —
 ein Wunder, daß er überhaupt mal wieder sprach:
 
-»Ich denke, Sie sind gewarnt, Herr Harst. Der Streifs
-Fluß bat Ihnen gezeigt, daß ich nicht mit mir scherzen
+»Ich denke, Sie sind gewarnt, Herr Harst. Der Streifschuß
+hat Ihnen gezeigt, daß ich nicht mit mir scherzen
 lasse. Sie beide werden sich mit dem Gedanken vertraut
 machen müssen, hier Ihre Strafe zu verbüßen.«
 
 »Oh — verderben wir uns doch nicht die Stimmung!« —
 lenkte Harald gutgelaunt ab. »Spannen wir die Drähte …
-I4H sehne mich Karg den glänzenden Programmen meines
+Ich sehne mich nach den glänzenden Programmen meines
 lieben Senders Runzendorf … Hoffentlich gibt der Apparat
 Fernempfang.«
 
@@ -1377,10 +1377,10 @@ halt zufrieden sein.«
 
 Die Leiter kam.
 
-Harst war mit dem Eifer eines Vertrauens bei der Sache,
+Harst war mit dem Eifer eines Tertianers bei der Sache,
 der den ersten Detektorapparat zusammengebastelt hat. Daß
 er die Leiter wiederholt dicht an die Fenster stellte und
-somit von oben durch; die Fenster die Bauart des Hauses,
+somit von oben durch die Fenster die Bauart des Hauses,
 von der wir bisher nicht viel wußten, besser erforschen
 konnte, entging dem Predigtamtskandidaten.
 
@@ -1412,7 +1412,7 @@ In Dresden-Leipzig gab es eine Operette: Fledermaus.
 
 Das wurde unsere Abendbrotmusik. Das Menü ließ auch
 nichts zu wünschen übrig. Und so verbrachten wir denn bis
-halb elf ein »paar musikalische vergnügte Stunden. Der dritte
+halb elf ein paar musikalische vergnügte Stunden. Der dritte
 Akt wurde einfach glänzend wiedergegeben. Der Gefängniswärter
 Frosch flocht noch ein paar Witze ein, natürlich politischen
 <@pagebreak/>
@@ -1420,7 +1420,7 @@ Einschlags, und als unser Herr Direktor das Geschirr
 wegräumte, hörte er eine ganze Weile zu. Harald meinte,
 er solle sich an Frosch ein Beispiel nehmen.
 
-»Sie sind zu steifleinen, Herr Direktor … Mehr Humor?!
+»Sie sind zu steifleinen, Herr Direktor … Mehr Humor!
 — Haben Sie denn nicht auch einen Apparat zur Verfügung?«
 
 »Leider nein …« erklärte der Stumme. Das war aber
@@ -1440,9 +1440,9 @@ Rechts und links von unseren Fenstern gab es noch andere,
 vielleicht vier auf jeder Seite. Ein kleiner Vorgarten ohne
 Zaun senkte sich zur Schlucht hinab. In diesem Garten,
 der in den Hochwald überging, plätscherte eine große Fontäne
-mit zementiertem ovalem Seen, in dem Goldfische um herschwammen.
+mit zementiertem ovalem Becken, in dem Goldfische umherschwammen.
 Der Garten war verwildert, und niemals zeigte
-riß dort auf den verkrauteten Wegen auch nur eine lebende
+sich dort auf den verkrauteten Wegen auch nur eine lebende
 Seele. — Harst stellte von der Leiter fest, daß vor der
 Veranda noch eine Halbkreisterrasse aus Granit lag mit hellen
 Korbmöbeln darauf. Weiter, daß das Haus im Baudenstil
@@ -1459,52 +1459,50 @@ Dies erzählte Harald mir nachts, als er wie schon häufiger
 auf meinem Bettrand saß und mit mir ganz leise über unsere
 Lage sprach.
 
-Nun zurück«: zu dem Empfänger.
+Nun zurück zu dem Empfänger.
 
 Die Fledermaus war zu Ende. Harald suchte den Sender
 Runzendorf. Der spendete »populäres« Spätkonzert: Kompositionen
-ausländischen Komponisten von grandioser Unberühmtheit
+ausländischer Komponisten von grandioser Unberühmtheit
 und mäßigerem Talent. Es war ein Gedudel, das
 fraglos wenig Liebhaber fand. Die Ansichten über »populär«
 sind verschieden.
 
 Harald suchte also eine bessere Marke.
 
-Der »Apparat »rappelte« sehr stark »lud«, das heißt er
+Der Apparat »koppelte« sehr stark »rück«, das heißt er
 pfiff gehörig, wenn man mit dem Potentiometer eine gewisse
 Grenze überschritt. Dieses Heulen mußte selbst mit
-Antenne mindestens zwei Kilometer im Unseres
-sein. — Für »Vichtradioten« will ich die
-jeder Empfänger auch als Sender wirkt,
-Rückkopplung zu scharf anzieht.«
+Antenne mindestens zwei Kilometer im Umkreis zu hören
+sein. — Für »Nichtradioten« will ich hier bemerken, daß
+jeder Empfänger auch als *Sender* wirkt, wenn man die
+Rückkopplung zu scharf anzieht.
 
 Als Sender betone ich.
 
 Und hierauf kommt es an.
 
-Harald suchte also eine andere R Markte. Er ließ
-den Apparat heulen, daß der LautsszeHDRI schentöne,
+Harald suchte also eine andere bessere Marke. Er ließ
+den Apparat heulen, daß der Lautsprecher nur Zwischentöne,
 Pfeifen und jenes dumpfe Knacken mit dem die
-Übergezogene Rückkopplung einst;: und Steinig,
+Übergezogene Rückkopplung einsetzt. — Breslau und Gleiwitz,
+die ja im Sommer abends wenig senden, schwiegen schon.
+Harst fand schließlich als nächsten Sender abermals Leipzig-Dresden,
+das jetzt überlagert mit Funkkabarett herankam.
+Aber er schien den Sender nicht klar abstimmen zu können.
+Immer wieder »heulte« er, daß ich schon grob werden
+wollte, bis mir plötzlich ein Licht aufging. Harald »heulte«
+nicht zwecklos. Ich hörte heraus, daß er Das internationale
+Funkmorsezeichen SOS durch Pfeifen in die Ferne schickte.
 
-die ja im Sommer abends, warf Schwiegen schon
-Harst fand schließlich als n »Co
-Dresden, das jetzt überla
-Aber er schien den Send&’ Malerinnen zu können.
-Immer wieder »heulte« ’ schon grob werden
-wollte, bis mir plötzlich ein? Hilf aufging. Harald »heulte«
-Ei 76:7. Ich hörte Herz Diva er Das internationale
-Funkmorsezeichen Sie durch breiten in die Ferne schrie.
-Zuweilen ließ er einen auch ein paar Minuten verzerrte
-Musik »oder Gesang ertönen, kehrte aber stets wieder zu
+Zuweilen ließ er dann auch ein paar Minuten verzerrte
+Musik oder Gesang ertönen, kehrte aber stets wieder zu
 <@pagebreak/>
-Los zurück, dem er dann seinen Namen in Morsezeichen
+SOS zurück, dem er dann seinen Namen in Morsezeichen
 anschloß. Das trieb er so eine volle Stunde, wobei er
-
-weidlich ich zum Schein — auf den Apparat fluchte …
-Wir wurden ja ständig beobachtet und bekannt, un
-nachts — ein seiner Ort — wurde von außen des öfteren
-
+weidlich — zum Schein — auf den Apparat fluchte …
+Wir wurden ja ständig beobachtet und belauscht, und
+nachts — ein feiner Trick — wurde von außen des öfteren
 der Kronleuchter für Sekunden eingeschaltet, den wir nicht
 brennen durften.
 
@@ -1517,14 +1515,14 @@ blieb ungewiß.
 
 Von halb zwölf ab hörten wir Budapest — die bekannte
 Zigeunerkapelle. Nur viermal noch »funkte« Harald da sein
-Gott und den Namen Harst mit der Rükopplung.
+SOS und den Namen Harst mit der Rückkopplung.
 
 Ich will meinen Freund hier nicht herausstreichen. Aber
-Jan wird zugeben müssen: Seine Idee, uns mit der Außenwelt
-in Verbindung zu Seen, war glänzend.
+man wird zugeben müssen: Seine Idee, uns mit der Außenwelt
+in Verbindung zu setzen, war glänzend.
 
 Nach Mitternacht schweigen ja die meisten Sender. Nur
-Runzendorf gab noch FJFernempfangsversuche: Amerika!
+Runzendorf gab noch Fernempfangsversuche: Amerika!
 
 Da ging Harst denn auf Telegraphiesenderfang.
 
@@ -1532,17 +1530,17 @@ Ich saß im Klubsessel dabei, rauchte und überwachte die
 Morsezeichen. Mir ist das Morsealphabet genau so geläufig
 wie Harald,
 
-Unsere Hoffnung, daß irgendein Amateur unser Los
+Unsere Hoffnung, daß irgendein Amateur unser SOS
 beantworten würde, war trügerisch.
 
-Um halb eins sprechen wir in die Koje.
+Um halb eins krochen wir in die Koje.
 
 Harald saß im Dunkeln auf meinem Bettrand.
 
 Wir hatten schon oft über unsere Entführung geflüstert.
-hohe waren bei Gräsers damals nachts durch ein Gas
+Wir waren bei Gräsers damals nachts durch ein Gas
 betäubt worden, das nur vom Nebenzimmer aus durch die
-verstellte Tür zu uns hineingelotst worden sein konnte.
+verstellte Tür zu uns hineingeleitet worden sein konnte.
 In diesem Nebenzimmer hatte Gräsers zweiter Sommergast,
 eine ältere Dame, gewohnt, die jedoch an jenem Tage angeblich
 <@pagebreak/>
@@ -1550,27 +1548,27 @@ einen Ausflug nach der Heufuderbaude gemacht hatte. Wir
 hatten sie nicht zu Gesicht bekommen. Aber wir hatten sie
 sozusagen nachher »eingeatmet«.
 
-Jetzt flüsterte Harald mich? zu:
+Jetzt flüsterte Harald mir zu:
 
-he anno du den Bernhardiner?«
+»Erkanntest du den Bernhardiner?«
 
-— Was meintest du mit dem »Endlich!«
-das « »stotternd klang?«
+»Nein … — Was meintest du mit dem »Endlich!«
+das so frohlockend klang?«
 
-»Damit meinte ich den Bernhardiner. Er (hört dem
+»Damit meinte ich den Bernhardiner. Er gehört dem
 Amtsrichter aus Greifenberg. Ich behaupte, der Herr durchstreift
-die Umgegend von Flinsberg nach; uns. Wir sind
+die Umgegend von Flinsberg nach uns. Wir sind
 hier also bestimmt irgendwo in der Nähe von Flinsberg.
 Ich möchte weiter behaupten, dieses Haus liegt im Schwarzbachtale
 …«
 
-»Eine Annahme, Furche nichts zu beweisen …«
+»Eine Annahme, durch nichts zu beweisen …«
 
 »Doch! Doch! Das Schwarzbachtal ist in seinem äußersten
 Winkel wenig bebaut und hat mehrere düstere Schluchten.
 Ich kann mich irren. Aber gerade weil des Amtstrichters
 Bernhardiner drüben erschien und weil sein Herr sich nicht
-zeigte, vermute ihm, daß dieser bereits gegen dieses Haus
+zeigte, vermute ich, daß dieser bereits gegen dieses Haus
 Verdacht geschöpft hat. — Gute Nacht … Wir wollen vorsichtig
 sein … Der Kronleuchter kann wieder mal aufflammen.«
 
@@ -1578,13 +1576,13 @@ Ein Händedruck im Dunkeln, und ich schlüpfte in mein
 Bett.
 
 Ich konnte nicht einschlafen. Ich überlegte mir mancherlei.
-Wenn etwa Dora Brown, Malcolm und Zettel in
+Wenn etwa Dora Brown, Malcolm und Setter in
 Flinsberg auch den »Müllers«, Vater und Tochter, nachgespürt
 hatten, dann mußte die »alte Dame« bei Gräsers
 eine Komplizin der Firma Brown sein. Hierfür sprach auch
 unser Gefängnis. Nur John Brown mit seinen Millionen
 konnte gleich ein ganzes Haus mieten und uns Wächter in
-sollen Zahl bestellen. Die Leute mit den Luftbüchsen mußten
+solcher Zahl bestellen. Die Leute mit den Luftbüchsen mußten
 sich doch ablösen. Es mußten mindestens acht Mann sein, dazu
 <@pagebreak/>
 noch der Herr Direktor. Das waren neun Personen, die Gehalt
@@ -1593,23 +1591,23 @@ bezogen und sicherlich nicht wenig.
 Und dann — der Amtsrichter mit dem Bernhardiner?
 Ja — er besaß ein prächtiges Tier dieser Rasse, und daß
 er nach uns suchte, erschien mir gewiß. Harald hatte ganz
-reist: der Umstand, daß nur der Hund in der Schlucht zu
-geben gewesen, deutete darauf hin, daß sein Herr im Hochwald
+recht: der Umstand, daß nur der Hund in der Schlucht zu
+sehen gewesen, deutete darauf hin, daß sein Herr im Hochwald
 verbogen gewesen und vielleicht unser Haus beobachtet
 Hatte, welches ihm jedoch kaum verdächtig sein konnte, weil
 es keinerlei verschlossene Fenster zeigte — durch Läden
 verschlossene, die auf Gefangene schließen ließen. In diesem
 Punkte gingen Haralds und meine Ansichten auseinander.
-Ah war überzeugt, der Amtsrichter hatte keinen Verdacht geschöpft
+Ich war überzeugt, der Amtsrichter hatte keinen Verdacht geschöpft
 und würde nicht wiederkommen.
 
 Ich schlief ein.
 
-Aber gegen zwei Uhr morgens weckte mich der Predigt
-amts8kandidat. Das Zimmer war durch den Kronleuchter
+Aber gegen zwei Uhr morgens weckte mich der Predigtamtskandidat.
+Das Zimmer war durch den Kronleuchter
 strahlend hell.
 
-»Anziehen!« befahl er. »Rasch!«
+»Anziehen!« befahl er. »Rasch!!«
 
 Er war erregt, grob, trieb uns zur Eile.
 
@@ -1635,9 +1633,9 @@ Tisch, kein Stuhl, nur eine kleine Petroleumlampe, in der
 einen Ecke ein Blecheimer mit Deckel, feuchte, mit Schimmel
 bedeckte Mauern … und unsere Koffer!
 
-In der Tür kein »Lose mit einem Loch« …
+In der Tür kein »Loch mit einem Loch« …
 
-Nu« Eisenplatten …-
+Nur Eisenplatten … —
 
 Nachdem der Herr Direktor uns hier die Fesseln
 und die Kapuzen abgenommen, nachdem er uns streng befohlen,
@@ -1650,7 +1648,7 @@ Wir hörten draußen allerlei Geräusche.
 Harald sagte:
 
 »Man verbaut die Tür mit Kartoffelsäcken und Kisten.
-Sehr schön so. — Perser du was?!«
+Sehr schön so. — Merkst du was?!«
 
 »Ja. Die Kerle fürchten eine Durchsuchung des Hauses.«
 
@@ -1679,7 +1677,7 @@ So schufen wir in zwanzig Minuten unten an der Tür
 ein halbkreisförmiges Schlupfloch.
 
 Harald zog das herausgesägte Stück unschwer zu uns
-Herrin, flog durch4 das Loch, ließ sich eine Taschenlampe
+Herein, kroch durch das Loch, ließ sich eine Taschenlampe
 geben, räumte draußen die Hindernisse beiseite und winkte
 mir.
 
@@ -1711,9 +1709,9 @@ Weiß der Henker, wie Harst es angestellt hat, dem Amtsrichter
 Nachricht zu geben, daß er und Schraut noch leben …
 Wir müssen die beiden wegschaffen — schleunigst.«
 
-»Totschlagen — einbuddelin,« rief ein tiefer Baß. »Ein
+»Totschlagen — einbuddeln,« rief ein tiefer Baß. »Ein
 Blödsinn war’s, sie zu schonen! Es wird uns Kopf und
-Fragen kosten!«
+Kragen kosten!«
 
 Da anzunehmen war, daß die ganze Bande drinnen
 versammelt, traten wir rasch ein.
@@ -1729,25 +1727,25 @@ um den runden Tisch herum …
 
 Fünf Männer, vier Damen …
 
-»Guten Abend,« sagte Harst und. hob die zwölfschüssige
+»Guten Abend,« sagte Harst und hob die zwölfschüssige
 Cold. »Entschuldigen Sie, daß wir stören … Es gefiel
 uns jedoch in dem Kellerloch nicht sonderlich … Legen Sie
-alle die Hände weit auf den Tisch; und rühren Sie sich
-nicht. Dies hier sind Coldpistolen zu zwölf Schuß, und zuerst
+alle die Hände weit auf den Tisch und rühren Sie sich
+nicht. Dies hier sind Coldpistolen zu zwölf Schuß, und zumeist
 treffe ich, wenn ich abdrücke.«
 
-Was. für Gesichter dieses Ausschuß-Parlament machte,
+Was für Gesichter dieses Ausschuß-Parlament machte,
 kann sich jeder selbst denken.
 
 »Schließe die Türen ab, mein Alter … — — So …
 danke. Sollte einer der Herrschaften die Hände von der
 Tischplatte nehmen, schießt du. Du darfst getrost auf dem
-edelsten Teil zielen, denn wir haben den Rotweihrparagrapy
+edelsten Teil zielen, denn wir haben den Notwehrparagraph
 für uns.«
 
-Er ging auf den Bratenrockmann zu, der uns nun fein
-unerhörtes Gesicht zeigte — eine faltenreiches Schauspieler Visage.
-Die übrigen waren ihren Rollen entsprechend geleitet:
+Er ging auf den Bratenrockmann zu, der uns nun sein
+unverhülltes Gesicht zeigte — eine faltenreiche Schauspieler-Visage.
+Die übrigen waren ihren Rollen entsprechend gekleidet:
 Diener, Köchin, Stubenmädchen, Chauffeur und
 »Damen« und »Herren« — ein ganzer Hausstand.
 
@@ -1756,8 +1754,8 @@ Fragen beantworten,« meinte Harst und legte den Lauf der
 Cold dem Bratenrock auf die Schulter.
 
 <@pagebreak/>
-Der Mann war genauso blaß wie die übrigen. Die verblühten
-Ausgschußmitglieder waren leidlich hübsch und jung,
+Der Mann war genauso blaß wie die übrigen. Die weiblichen
+Ausschußmitglieder waren leidlich hübsch und jung,
 zumeist blond und geschminkt, gepudert, Bubiköpfe.
 
 »Sollten Sie lügen, Herr Direktor, so schieße ich Ihnen
@@ -1770,17 +1768,17 @@ Behandelt …«
 Lump sind. — Wo befinden wir uns hier?«
 
 »Im Schwarzbachtale … im Hause, das wir gemietet
+Haben … Ein Rentner wohnte hier — Riesicke heißt er.«
 
-Haben … Ein Rentner wohnte hier — Niesicke heißt er.«
-»Niesicke … hm … — es war ein Risiko, Niesike aus
-einquartieren und uns einzuquartieren. — Wer sind Sie?«
+»Riesicke … hm … — es war ein Risiko, Riesicke auszuquartieren
+und uns einzuquartieren. — Wer sind Sie?«
 
 »Ich heiße Thomas Breet und war Polizeibeamter. Jetzt
 bin ich Detektiv.«
 
 »Engländer — von der Firma John Brown, London?«
 
-Henne 29:87)
+»Ja …«
 
 »Sind die anderen auch von John Brown?«
 
@@ -1788,16 +1786,16 @@ Henne 29:87)
 
 »Sehr verständig, daß Sie nicht schwindeln …« —
 
-»Es Mir keinen Zweck. Vierundzwanzig Kugeln und
-Sie beide, Herr Harst, genügen zur Serie
+»Es hätte keinen Zweck. Vierundzwanzig Kugeln und
+Sie beide, Herr Harst, genügen zur Wahrheitsliebe.«
 
 »Sie gefallen mir, Herr Breet … — Seit wann haben
 Sie dieses Haus gemietet?«
 
 »Seit dem 15. Juni.«
 
-»Also so lange, wie Miß Dora in Fricdeber3 sich
-nützlich machte. — Was brauche die’er Mietvertrag?«
+»Also so lange, wie Miß Dora in Friedeberg sich
+nützlich machte. — Was bezweckte dieser Mietvertrag?«
 
 »Das weiß ich wirklich nicht. Wir hatten Miß Dora
 zu gehorchen.«
@@ -1808,21 +1806,23 @@ Verlegenes Schweigen …
 
 »Also ja …! Wer war’s?«
 
-»Viel« Und Breet zeigte auf das Stubenmädchen.
+»Die!« Und Breet zeigte auf das Stubenmädchen.
 
 Sie wurde rot …
 
 <@pagebreak/>
 »Wie heißen Sie?«
-»Nickt Malcolm …«
+
+»Vikky Malcolm …«
+
 »Ah — Malcolms Frau?«
 
-Zi: zum
+»Ja …«
+
 »Sehr interessant. Dann sind Sie, Frau Malcolm, fraglos
 am besten eingeweiht. — Sie haben uns bei Gräsers mit
-
 Gas betäubt. Sie wollten wahrscheinlich nicht nur uns beide
-verschwinden lassen, sondern aus der armen Doris Winter
+verschwinden lassen, sondern auch der armen Doris Winter
 Tagebuch. — Wer ist Doris Winter?«
 
 Sie rief wütend:
@@ -1837,19 +1837,19 @@ Breet sagte rasch:
 
 »Herr Harst, wir hatten ihr zu gehorchen, nachdem Miß
 Dora verhaftet war. Wir sind wirklich in nichts eingeweiht
-worden. Daß wir keine Unmenschen sind, haben Sie geschenkt.«
+worden. Daß wir keine Unmenschen sind, haben Sie gemerkt.«
 
 »Nur einer von Ihnen sagte vorhin hier sehr laut, man
 solle uns totschlagen und einbuddeln.«
 
 »Das war nicht ernst gemeint, Herr Harst,« meldete sich
 der Chauffeur. »Ich war auch so erregt, weil der Amtsrichter
-mit vier Landjägern hier war und nachts Ihnen
+mit vier Landjägern hier war und nach Ihnen
 suchte.«
 
 »Nun gut … Zum Totschlagen gehören ja auch zwei:
 Einer, der’s tut, und einer, der sich’s gefallen läßt. Mich
-bat man schon oft umbringen wollen. — Reden wir jetzt
+hat man schon oft umbringen wollen. — Reden wir jetzt
 Über den Amtsrichter. Was sagte er?«
 
 Breet erwiderte sofort:
@@ -1858,40 +1858,38 @@ Breet erwiderte sofort:
 habe, ob hier etwa Fremde ein ganzes Haus gemietet
 hätten. Er vermute, daß Harst und Schraut irgendwo gefangen
 gehalten würden. Dieses Haus, das die Amerikanerin
-Frau Tableau gemietet habe, erschiene ihm verdächtig. —
-
+Frau Gubbran gemietet habe, erschiene ihm verdächtig. —
 <@pagebreak/>
 Da wir sein Kommen rechtzeitig bemerkt hatten, konnten wir
 Sie beide in den bereits vorbereiteten Keller schaffen. Die
 Beamten fanden nichts und entfernten sich. Der Amtsrichter
-jagte noch, daß ein Radioamateur hier aus Schwarzbach ihn
+sagte noch, daß ein Radioamateur hier aus Schwarzbach ihn
 angerufen und ihm mitgeteilt habe, daß er um ein Viertel
 Zwölf nachts Morsezeichen aufgefangen habe — das Notsignal
-Los und den Namen Harst. Dies hat den Amtsrichter zu
+SOS und den Namen Harst. Dies hat den Amtsrichter zu
 schleunigster Durchsuchung dieses Hauses veranlaßt.«
 
 »Herr Breet, Sie gefallen mir immer mehr … Schade
 um Sie! — Und nun zu Ihnen, Frau Malcolm. Sie wissen
-
-» Zweifellos, weshalb Fräulein Winter nachgestellt wurde, —
+Zweifellos, weshalb Fräulein Winter nachgestellt wurde, —
 mehr noch, Sie haben die Ärmste in den Tod getrieben. Mit
 Ihnen werde ich anders umspringen als mit Ihren Gefährten
 hier. — Wer war Doris Winter?«
 
-» Sie lachte ihn frech an …
+Sie lachte ihn frech an …
 
-»Bitte — stellen Sie das doch fest!!«
+»Bitte — stellen *Sie* das doch fest!!«
 
 Harald ging um den Tisch herum und drückte ihr die
 Mündung der Cold gegen die Schläfe …
 
 Sie bog den Kopf zurück …
 
-»Lassen Sie der;? die Albernheiten, Herr Harst! Mit
-sollen Bluff müssen Sie mir nicht kommen!«
+»Lassen Sie doch die Albernheiten, Herr Harst! Mit
+solchem Bluff müssen Sie mir nicht kommen!«
 
 »Sie haben Mut. Immerhin ein Vorzug, Frau Malcolm.
-— »Nun, ich werde feststellen, wer Doris war. Ich möchte
+— Nun, ich werde feststellen, wer Doris war. Ich möchte
 Ihnen aber nur eins noch im Vertrauen sagen: Doris’ Vater
 ist in Flinsberg im Kurhaus!«
 
@@ -1899,52 +1897,52 @@ Das traf …
 
 »Unmöglich!« rief das kaltblütige Weib …
 
-»Docks! Als: Müller wohnt er dort. Ich habe ihn
+»Doch! Als: Müller wohnt er dort. Ich habe ihn
 gesprochen — und Sie haben sich soeben verraten. Doris’
 Vater kennen Sie auch!! — — Schraut, geh’ telephonieren …
 Rufe den Amtsrichter an … Oder besser erst den Landjäger
-von Schwarzbach …
+von Schwarzbach …« —
 
-Eine Stunde »Prau war die Ausschußkommission ab transportiert,
+Eine Stunde drauf war die Ausschußkommission abtransportiert,
 
 <@pagebreak/>
 
 <h2>3. Kapitel.</h2>
 <h3>Der Rächer seines Kindes.</h3>
 
-In der Villa Riese waren nur Freund Amtsrichter und
+In der Villa Riesicke waren nur Freund Amtsrichter und
 wir beide zurückgeblieben. Ich hatte vorher noch von der
 Köchin Kaffee aufbrühen lassen, und nun saßen wir draußen
-auf der Terrasse im ersten Frühsonnenschein, stärkten uns.
+auf der Terrasse im ersten Frühsonnenschein, stärkten uns
 und sprachen über das Geschehene.
 
 Der Amtsrichter war ziemlich platt, als Harald die
-Geschichte von den Tennisbällen erzählte. Er hatte in Greifen«.
-Berg wenig Gelegenheit, moderne Ganoven kennen zu lernen,
+Geschichte von den Tennisbällen erzählte. Er hatte in Greifenberg
+wenig Gelegenheit, moderne Ganoven kennen zu lernen,
 und der ganze Fall Winter erschien ihm wie ein Kriminalroman
 von Connan Doyle, — fast zu phantastisch, wie er
 betonte.
 
-Er hatte Frau Malcolm vorhin noch; kurz verhört,
-und er war empört über ihre Frechheit, mit der sie jede:
+Er hatte Frau Malcolm vorhin noch kurz verhört,
+und er war empört über ihre Frechheit, mit der sie jede
 Antwort verweigerte.
 
 Wir fragten ihn, ob die arme Doris schon bestattet sei.
 
-»Ja — gestern nachmittag … Es hatten sich eine Menge:
-Neugieriger eingefunden. Ob »Winter« darunter war, weiß.
+»Ja — gestern nachmittag … Es hatten sich eine Menge
+Neugieriger eingefunden. Ob »Winter« darunter war, weiß
 ich nicht.«
 
-»Winter dürfte aus Flinsberg verschwunden sein,« meinte:
+»Winter dürfte aus Flinsberg verschwunden sein,« meinte
 Harald versonnen und nahm eine neue Zigarette. »Ein Jammer,
 daß die Malcolm das Tagebuch der Toten verbrannt Hat,
-was Breet ja bestätigte. Nun müssen wir nach London an.
+was Breet ja bestätigte. Nun müssen wir nach London an
 <@pagebreak/>
 die Geheimpolizei telegraphieren und zusehen, ob nicht der
 alte Brown irgendwie etwas gesteht.«
 
 Der Amtsrichter gähnte verstohlen. Ich auch. Trotz des
-starken Hasses.
+starken Kaffees.
 
 »Die Depesche werde ich besorgen,« sagte der Amtsrichter.
 
@@ -1952,16 +1950,16 @@ starken Hasses.
 Tone. »Ich bin zu einer anderen Ansicht betreffs Winter
 gelangt. Er ist noch hier in der Gegend.«
 
-SDD1-5:5 81
+»So …?!«
 
 »Ja … Er hat doch fraglos erfahren, daß Schraut
 und ich verschwunden sind. Er wird sich daher sicherer fühlen,
 wird annehmen, wir können ihm nun vorläufig nicht mit
 Fragen belästigen. Er wird nur das Quartier und sein
-Aussehen verändert haben. So, wie im ihn auch bei sorgfältigeren
+Aussehen verändert haben. So, wie ich ihn auch bei sorgfältigerer
 Prüfung einschätze, dürfte er sein Kind rächen
 wollen. — Wann sollen die Verhafteten nach Görlitz übergeführt
-werden 2«
+werden?«
 
 »Heute nachmittag in einem Auto … Ich werde dann
 gleich ein großes Polizeiauto bestellen und die neun von
@@ -1972,12 +1970,12 @@ heute mit abschieben.«
 »Gegen fünf. Bis dahin bin ich mit den Vernehmungen
 der neun fertig.«
 
-»Also … gegen fünf … «— Herr Amtsrichter, ihm rate
+»Also … gegen fünf … — Herr Amtsrichter, ich rate
 dringend zur Vorsicht bei diesem Transport.«
 
 »Sie meinen, Winter könnte etwa ein Attentat wagen?«
 
-»Auch das. Ich denke aber aus an John Brown, diesen
+»Auch das. Ich denke aber auch an John Brown, diesen
 zweifelhaftesten aller Ehrenmänner, der bisher als anständiger
 Detektiv galt und nun als Lump entlarvt ist. Er wird nichts
 unversucht lassen, sein Kind den deutschen Behörden zu
@@ -1986,28 +1984,28 @@ haben Sie hier gesehen: Ein ganzes Haus gemietet, neun Leute
 hier unter der Maske reicher Amerikaner nebst Bedienung und
 Auto, dazu die Verpflegung — alles andere: Eine Stange
 <@pagebreak/>
-Gold hat das gekostet …! — Ein solcher Wann schlecht
+Gold hat das gekostet …! — Ein solcher Mann schreckt
 vor nichts zurück.«
 
 Der Amtsrichter zuckte die Achseln. »Wir sind doch nicht
 in Amerika, lieber Harst! Trotzdem werde ich die nötigen
-Vorsichtsmaßregeln anordnen …« Er gähnte abermals Krampf
-Haft. Es war kein Wunder. Er war nun bald vierundzwanzig
+Vorsichtsmaßregeln anordnen …« Er gähnte abermals krampfhaft.
+Es war kein Wunder. Er war nun bald vierundzwanzig
 Stunden auf den Beinen.
 
-Allein darauf Hatten wir das Auto in der Garage
+Gleich darauf Hatten wir das Auto in der Garage
 abfahrtbereit gemacht, und der Amtsrichter sauste davon. Wir
-beide wollten uns schlafen legen. Ich konnte Miß kaum mehr
+beide wollten uns schlafen legen. Ich konnte mich kaum mehr
 auf den Beinen halten. Man hat schließlich doch auch
-schon seine Fährten auf dem Bude!, und die soeben verflossene
+schon seine Jährchen auf dem Buckel, und die soeben verflossene
 Nacht war ebenso anstrengend wie aufregend gewesen.
 
 Oben in unserem eleganten Kerker warf ich mich in
 Kleidern auf den Diwan und war auch im Augenblick
 eingeschlafen. Harald hatte sich nur in einen Klubsessel mit
 Hoher Rückenlehne gesetzt. Um elf vormittags wollte der
-Amtsrichter uns das Auto »der Amerikaner« und zweit
-Leute zur Bewachung der Villa schien.
+Amtsrichter uns das Auto »der Amerikaner« und zwei
+Leute zur Bewachung der Villa schicken.
 
 Ich träumte …
 
@@ -2017,18 +2015,19 @@ mischen, so waren wir beide auch jetzt zu Einbrechern
 geworden, die einen Geldschrank anbohrten (Erinnerung
 an die Tür des Kellerloches) und dann mit der
 Polizei eine wilde Schießerei hatten (Erinnerung an die
-Überraschung des Neuner-Ausschüsse und an die Coldpistolen).
+Überraschung des Neuner-Ausschusses und an die Coldpistolen).
 
 Ich erlebte dies mit allen Einzelheiten. Mr. Breet wurde
 zum Kriminalkommissar in Frack und Zylinder (Bratenrock!!),
 und Frau Malcolm war ein als Dame verkleideter Beamter,
-dem Harald ein Ohr wegschloß. Dann erhielt ich in dem allgemeinen
+dem Harald ein Ohr wegschoß. Dann erhielt ich in dem allgemeinen
 <@pagebreak/>
-Getümmel einen M vor die Stirn und wurde
+Getümmel einen Hieb vor die Stirn und wurde
 mit Handschellen gefesselt …
+
 … Und erwachte …
 
-Leider war mein Traum doch&4 nicht ganz ungereimte
+Leider war mein Traum doch nicht ganz ungereimte
 Phantasie gewesen. Der letzte Teil entsprach der Wirklichkeit.
 
 Ich riß die Augen auf …
@@ -2036,25 +2035,23 @@ Ich riß die Augen auf …
 Vor mir stand eine grauhaarige, bescheidene Frau mit
 einem grauen Kneifer … Meine Hände aber konnte ich
 nicht auseinanderbringen. Sie trugen Stahlfesseln: die berühmte
-Wehgetan!!
+Polizeiacht!
 
 Drüben im Sessel saß mein guter Harst — auch mit
 unbeliebten Armbändern geschmückt, aber noch dazu vorsorglich
 mit den Füßen an die Sesselbeine gebunden.
 
-Die Frau war geschminkt, gepudert, duftete nach Ylang Ylang
+Die Frau war geschminkt, gepudert, duftete nach Ylang-Ylang
 und glich einer jener nie alt werden wollenden Holden,
-
 die den Kampf gegen Falten und Runzeln mit chemischen
-
 Präparaten führen. Die äußere Aufmachung verriet im
 übrigen Einfachheit und Geschmack.
 
-Wer war das nun wieder?! fragte mich mein schlaf
-befangenes Hirn.
+Wer war das nun wieder?! fragte mich mein schlafbefangenes
+Hirn.
 
 Immerhin wurde ich rasch noch munterer, als sie jetzt mit
-einer Wäscheleine sehr Gesicht auch meinen Füßen eine
+einer Wäscheleine sehr geschickt auch meinen Füßen eine
 verdächtige Massage zukommen ließ. Im Moment hatte sie
 meine Pedale an die Diwanbeine geknotet — so, daß ich
 auf dem Diwan liegen bleiben mußte.
@@ -2062,7 +2059,7 @@ auf dem Diwan liegen bleiben mußte.
 Da erklang als Trost vom Klubsessel her Haralds Stimme:
 
 »Wissen Sie, Herr Müller oder wie Sie sonst heißen,
-das alt grober Undank!!«
+das ist grober Undank!!«
 
 Die Frau wandte sich um.
 
@@ -2077,7 +2074,7 @@ Pläne. Ich war in der Veranda, als Sie sich auf der
 Terrasse unterhielten …« Er sprach mit unheimlicher Ruhe,
 mit einer bedrohlichen Kaltblütigkeit. »Mein Kind wird trotzdem
 gerächt werden, Herr Harst, und wehe dem, der mich
-daran zu hindern sucht. Ich habe nur noch« Doris gehabt
+daran zu hindern sucht. Ich habe nur noch Doris gehabt
 und ihre aufopfernde Liebe … Doris machte mir das Leben
 lebenswert … — Dora Brown soll sterben, und dann
 sterbe ich!! So wahr ich an einen Gott glaube, obwohl Gott
@@ -2086,12 +2083,12 @@ kann; die staatliche Gerechtigkeit muß in diesem Falle versagen!
 Meines Kindes Mörder ist Dora Brown! Sie soll
 sterben!«
 
-Als er dies sprach, lag ein heiliger Fanatigamus in
-seinen verstimmten Zügen. Daß er hier als Weib verkleidet
+Als er dies sprach, lag ein heiliger Fanatismus in
+seinen verschminkten Zügen. Daß er hier als Weib verkleidet
 vor uns stand, störte diesen Eindruck glühenden, väterlichen
 Vergeltungswillens in keiner Weise.
 
-Man konnte diesen seelisch zerbrochenen Mann. durchaus
+Man konnte diesen seelisch zerbrochenen Mann durchaus
 begreifen und entschuldigen, — wir kannten ja die näheren
 Umstände nicht, die seiner Tochter das Gift in die Hand
 gezwungen hatten, wir konnten nur nach seiner und Dora
@@ -2104,47 +2101,47 @@ keiner Weise ins Gewicht. Ich trug ihm dies nicht nach, und
 Harald sicherlich auch nicht.
 
 Anders stand’s mit der Frage, ob wir es zulassen, daß
-er sie zum Räder seines Kindes aufwarf. Niemals durften
-wir dies dulden. Wir mußten unbedingt alles daran sehen,
+er sich zum Rächer seines Kindes aufwarf. Niemals durften
+wir dies dulden. Wir mußten unbedingt alles daran setzen,
 uns zu befreien und energisch einzuschreiten.
 
 Nach Winters letzten Sätzen entstand eine längere Stille.
 
 Er ging unruhig hin und her, den Kopf gesenkt. Er
-Kochende wohl, wo und wie er uns am sichersten unterbringen
+überlegte wohl, wo und wie er uns am sichersten unterbringen
 könnte.
 
-Ich hatte Zeit, seine Maske zu prüfen. Sie war ei:
+Ich hatte Zeit, seine Maske zu prüfen. Sie war ein
 <@pagebreak/>
 Meisterstück. Auch darin mußte er Erfahrung haben. Woher
 wohl?!
 
-Ich Blitze zu Harald hinüber, der in seinem Sessel,
-die igefesselten Hände im Schoße, regungslos lehnte und mit
+Ich blickte zu Harald hinüber, der in seinem Sessel,
+die gefesselten Hände im Schoße, regungslos lehnte und mit
 den Augen des Fachmannes Winter beobachtete. Sicherlich
 sagte er sich dasselbe wie ich: Winter war kein Neuling in
 der nicht leichten Kunst der Verkleidung!
 
 Dann begann Harst ganz kühl und sachlich zu sprechen.
 Er äußerte etwa dasselbe, was mir soeben durch den Kopf
-gegangen war, — daß wir Winters Absichten durchaus des
-Trefflich fänden, sie aber dennoch? durchkreuzen müßten.
+gegangen war, — daß wir Winters Absichten durchaus begreiflich
+fänden, sie aber dennoch durchkreuzen müßten.
 
 »Wenn Sie an Gott glauben, Herr Winter, dann
 kennen Sie auch das alte Bibelwort: daß es Gottes Aufgabe
-ist, Vergeltung zu üben! — Ich meine es gut mit Ihnen,
+ist, Vergeltung zu üben! — Ich meine es gut mit Ihnen.
 Treiben Sie die Dinge nicht auf die Spitze! Sagen Sie
 uns die Wahrheit über die Gründe Ihrer Flucht aus
 England und überlassen Sie es uns, Dora Brown oder
-gewähren Vater vor dem Gericht …«
+ihren Vater vor dem Gericht …«
 
 Ein hartes Auflachen … »Auge um Auge, Zahn um
 Zahn, Herr Harst!! Gehen Sie mir mit den Gerichten …!!
-Was werden die denn über dieses Weib verhängen — vielsleißt
+Was werden die denn über dieses Weib verhängen — vielleicht
 ein Jahr Gefängnis — mit der üblichen Bewährungsfrist,
-über die jeder Rechtsbrecher im stillen spotte!! Nein —
+über die jeder Rechtsbrecher im stillen spottet! Nein —
 niemals lasse ich mich von meinem Plan abbringen. So
-sehr ich Sie beide aus achte und schätze: Ich muß Sie
+sehr ich Sie beide auch achte und schätze: Ich muß Sie
 beide vorläufig festhalten. Ich werde jetzt erst Herrn Schraut
 hinab in den Keller bringen … Damit Sie mir vorläufig
 nicht entweichen, muß ich Sie noch sicherer fesseln.«
@@ -2152,7 +2149,7 @@ nicht entweichen, muß ich Sie noch sicherer fesseln.«
 Er nahm die Wäscheleine, zerschnitt sie und band Harst
 an den Klubsessel fest.
 
-Was mich wunderte, war Haralds Vorsicht auf jeden
+Was mich wunderte, war Haralds Verzicht auf jeden
 Widerstand. Es wäre ihm ein leichtes gewesen, mit den
 gefesselten Händen Winter einen Stoß zu versetzen, der
 diesen betäubt hätte. Offenbar wollte er gegen ihn so brutal
@@ -2162,7 +2159,7 @@ bedenklich. Oder sprachen bei ihm andere Motive mit?! Sein
 Tun und Lassen ist ja so schwer zu durchschauen.
 
 Dann mußte ich mich vom Diwan erheben, nachdem
-Winter mir die Beine!ganz zusammengeknotet hatte, daß ich
+Winter mir die Beine ganz zusammengeknotet hatte, daß ich
 nur ganz kleine Schritte machen konnte. Er ließ mich vorangehen.
 Es war ein merkwürdiger Gefangenentransport.
 
@@ -2171,7 +2168,7 @@ schließlich dasselbe finstere Loch, in dem wir schon einmal,
 freilich nur für eine halbe Stunde eingesperrt gewesen. Er
 band mich hier an die Wand auf eine der Holzwollelagerstätten
 fest, nachdem er einen mitgebrachten eisernen Haken
-tief in eine Vorhersage getrieben hatte.
+tief in eine Mörtelfuge getrieben hatte.
 
 Dann entfernte er sich.
 
@@ -2184,17 +2181,17 @@ Hammerschläge, ein zweiter Haken …
 Winter verabschiedete sich.
 
 »Wir werden uns lebend nie wiedersehen, meine Herren …
-5ch Vor es tief, daß wir als Gegner scheiden. Leben Sie
+Ich bedauere es tief, daß wir als Gegner scheiden. Leben Sie
 wohl.«
 
-Er verriegelte die Tür, in der unten das Stück fehlte,
+Er verriegelte die Tür, in der unten das Stück fehlte.
 Er häufte die Säcke und Kisten davor, — wir hörten
-alles»…
+alles …
 
 Nun wurde es still.
 
 Wir saßen im Dunkeln da. Wir waren zwei Meter
-voneinander getrennt und dicht an die Mauer gefesselt,
+voneinander getrennt und dicht an die Mauer gefesselt.
 Konnten uns nicht bewegen.
 
 »Harald!«
@@ -2219,18 +2216,18 @@ sondern Detektiv gewesen, vielleicht sogar bei John
 Brown …« — Er sprach sehr bedächtig … »Möglich auch,
 daß er gerade durch seine Stellung bei Brown sich Doras
 Feindschaft zugezogen hat. Möglich, daß Brown und Dora
-von ihm Dinge wissen, die sie gegen ihn aufsuchten. Diese
+von ihm Dinge wissen, die sie gegen ihn ausnutzten. Diese
 Annahme hat vieles für sich. Setze den Fall, Winter hätte
 als Detektiv einen Menschen erschossen — versehentlich.
 Die englischen Gesetze sind sehr hart. Auf diese Weise mögen
 die Browns ihn in ihrer Gewalt gehabt haben. Natürlich muß
 noch etwas anderes bei alledem mitgespielt haben. In großen
-Umrissen « dürfte meine Vermutung jedoch zutreffend sein.
-— Nun aber — ans Werk! Mir müssen schleunigst freikommen
+Umrissen dürfte meine Vermutung jedoch zutreffend sein.
+— Nun aber — ans Werk! Wir müssen schleunigst freikommen
 … Ich werde beginnen …«
 
 Ich hörte, daß er gleichmäßig an dem Haken und den
-Stehen Rute.
+Stricken ruckte.
 
 Doch — diesmal hatte er sich verrechnet …
 
@@ -2247,34 +2244,34 @@ die Hindernisse vor der Tür wegräumen konnten. Die Handschellen
 waren durch Schläge gegen die Mauer aufgesprungen.
 
 Als wir nun nach oben eilten, um unsere Coldpistolen
-31 holen, begegneten wir im Flur den beiden Leuten, die
-sei Amtsrichter hergeschickt hatte.
+zu holen, begegneten wir im Flur den beiden Leuten, die
+der Amtsrichter hergeschickt hatte.
 
 Das Auto stand noch draußen.
 
-Lautete Koffer wurden aufgeladen. Dann glitt der Kraftwagen
+Unsere Koffer wurden aufgeladen. Dann glitt der Kraftwagen
 <@pagebreak/>
 den holprigen Weg am Schwarzbach entlang.
 
-Wir kamen am Kurhaus vorüber, kamen in den Nachgeeilt,
+Wir kamen am Kurhaus vorüber, kamen in den Nachbarort,
 in das idyllische Obergrenzdorf … In dem kleinen
-Cafee dicht am fühlen Flüßchen hatten wir früher so
+Cafee dicht am kühlen Flüßchen hatten wir früher so
 manches Mal Kuchen mit Schlagsahne vertilgt …
 
 Heute?!
 
-Heute — — Menschenjäger 668. im
+Heute — — Menschenjäger … —
 
 Um ein Uhr waren wir in Greifenberg.
 
 Der Amtsrichter schlief.
 
-Nun — wir ließen ihn nicht Decken. Wir »hatten noch:
+Nun — wir ließen ihn nicht wecken. Wir hatten noch
 Zeit.
 
-In einem sauberen Hotel mitten im Städtchen dinierten.
+In einem sauberen Hotel mitten im Städtchen dinierten
 wir. Dann wanderten wir gemächlich zum Gerichtsgefängnis.
-Blei darauf erschien auch der Amtsrichter.
+Gleich darauf erschien auch der Amtsrichter.
 
 »Unglaublich,« rief er, als Harald ihm Winters Auftauchen
 in dem einsamen Hause an der Schlucht erzählte.
@@ -2296,6 +2293,7 @@ bewachten sie. Zwei Landjäger radelten tausend Meter voraus.
 
 <h2>3. Kapitel.</h2>
 <h3>Eine gefährliche Fahrt.</h3>
+
 Die damaligen Vorfälle sind in den Zeitungen nur kurz
 
 erwähnt worden. Vor mir liegen hier fünf Ausschnitte,
