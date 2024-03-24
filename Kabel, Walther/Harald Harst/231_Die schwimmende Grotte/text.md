@@ -6,7 +6,7 @@
 <h3>Eine seltsame Geschichte.</h3>
 
 Unser Freund Xaver Dürnhuber hauste hoch droben in
-einem Giebelstübchen eines schmalen, verbauten Läutete der
+einem Giebelstübchen eines schmalen, verbauten Häusels der
 Kalvarientreppe, — jenes schmalen gewundenen Pfades, der
 zur weißen Kirche mit den beiden schlanken Türmen emporführt.
 
@@ -16,18 +16,18 @@ Eremit, ein froher Einsiedler und Eigenbrödler. Tagsüber
 saß er in der Kanzlei des Amtsgerichts und schrieb Protokolle
 und füllte Formulare aus. War der Dienst zu Ende,
 begann sein eigentliches Leben, das eines Menschen, der
-sich hinauslehnte in die Fremde, der sich zu Höherem berufen
+sich hinaufsehnte in die Fremde, der sich zu Höherem berufen
 fühlte, der nicht ewig der bescheidene Kanzlist bleiben wollte.
 
 Wie wir zu der Bekanntschaft mit diesem jungen,
 strammen, heiteren, klugen Burschen gekommen waren, das
 habe ich bereits berichtet. An einer Tragödie der Liebe
-hatte er Unheil gehabt, hatte bewiesen, daß er weit über ne
+hatte er Anteil gehabt, hatte bewiesen, daß er weit über den
 <@pagebreak/>
 immerhin engen Horizont des Tölzer Tales hinaus scharf
 und folgerichtig zu denken wußte. —
 
-Es war am Abend nach Gast Wendnoors Selbstmord
+Es war am Abend nach Gussy Wendnoors Selbstmord
 im Gefängnis. Die kleinen Fenster des Stübchens Xaver
 Dürnhubers standen weit offen. Es war halb neun, und die
 Dämmerung des Augustabends senkte sich über die wunderlichen
@@ -37,7 +37,7 @@ Xaver und Harald saßen hinter mir am Sofatisch, der noch
 die Reste unserer gemeinsamen Abendmahlzeit trug.
 
 Der Mond kam drüben über dem fernen, fernen Wendelstein
-allmählich emporschießen, bis seine volle leuchtende
+allmählich emporgekrochen, bis seine volle leuchtende
 Scheibe schräg über der alten Stadt zu schweben schien.
 
 Ich hörte genau, was Harst und Xaver hinter mir
@@ -46,22 +46,22 @@ kündete etwas zaghaft an, er erwarte noch einen
 Gast, — ob dies uns auch nicht unangenehm sein würde …
 Er habe den Herrn erst vor einer Woche hier kennen
 gelernt … zufällig. Eduard Menk heiße der Herr, und er
-sei ein lieber Mensch, wohl sehr reiß, aber immer so
+sei ein lieber Mensch, wohl sehr reich, aber immer so
 versonnen und traurig.
 
 Dann klopfte es. Ich drehte mich um, und wir wurden
 Eduard Menk vorgestellt.
 
-In der Tat, ein eigentümlichen Mann …
+In der Tat, ein eigentümlicher Mann …
 
-Schlank, über mittelgroß, schwach, braun gebrannt, bartlos,
-mit dunklen Augen, die etwas Geiste8abwesendes8 hatten.
+Schlank, über mittelgroß, sehnig, braun gebrannt, bartlos,
+mit dunklen Augen, die etwas Geistesabwesendes hatten.
 
 Er setzte sich zwischen uns, stopfte seine Pfeife und schaute
 erst mich und dann Harald lange an.
 
-Nach einigen belanglosen RedenZ2arten, die Xaver vom
-Stapel ließ, um die fremde Stimmung, die mit Werke
+Nach einigen belanglosen Redensarten, die Xaver vom
+Stapel ließ, um die fremde Stimmung, die mit Menks
 Eintritt entstanden, schnell zu verscheuchen, sagte dieser mit
 einer angenehmen, ruhigen Stimme, — und es war der
 erste längere Satz, den er sprach:
@@ -74,21 +74,20 @@ Jahre können wie sechzig sein, wenn man Weib und Kind
 auf so tragische Weise verloren hat.«
 
 »Die Zeit heilt alles,« meinte Harald und trank einen
-Schlaf aus dem Halbliterkrug.
+Schluck aus dem Halbliterkrug.
 
 »Das ist nur eine billige Redensart, Herr Harst. Ich
-weiß, Sie büßten die Braut durch; einen Mörder ein. Aber
+weiß, Sie büßten die Braut durch einen Mörder ein. Aber
 Braut oder Gattin und Kind — und unter solchen Umständen,
 das ist ein Unterschied, da heilt die Zeit nichts.
-Ich bin zufällig hier nahm Tölz gekommen … Ich reise
+Ich bin zufällig hier nach Tölz gekommen … Ich reise
 seit vier Jahren beständig, ohne Ziel, überlasse es dem
-Zufall, der AugenbliF&8eingebung, wohin meine Unrast mich
+Zufall, der Augenblickseingebung, wohin meine Unrast mich
 treibt. — Wissen Sie, wer ich bin?«
 
 Harald schien diesen Mann, der so merkwürdig offen
-und doH4 auch ungewohnt selbstsüchtig sich hier in den
-
-Vordergrund schob und das Gespräch auf sich Feldbett konzentrierte,
+und doch auch ungewohnt selbstsüchtig sich hier in den
+Vordergrund schob und das Gespräch auf sich selbst konzentrierte,
 außerordentlich zu interessieren.
 
 »Ich habe ein gutes Gedächtnis, Herr Menk,« erwiderte
@@ -96,19 +95,19 @@ er. »Gehören Sie zu der Hamburger Familie Menk?«
 
 »Ja, zu den Kaffee-Menks. Ich bin der Letzte dieses
 Patriziergeschlechts. Mit mir stirbt eine Familie aus, deren
-Reichtum so alt wie ihr Name ist. Ich bin jener Schmuck
+Reichtum so alt wie ihr Name ist. Ich bin jener Eduard
 Menk, der mit seiner Jacht 1924 in der Nordsee Schiffbruch
 erlitt und Frau, Kind und vierzehn brave Seeleute in
 Nacht und Wogengebraus verschwinden sah, — ich, festgeklemmt
-zwischen Tragsäcke, nachher gerettet durch einen
+zwischen Wrackstücke, nachher gerettet durch einen
 Fischkutter von der Insel Pellworm — leider!«
 
 Er sog an seiner Pfeife, und seine schlanke braune Hand
-übel sie versonnen dreimal zum Munde …
+führte sie versonnen dreimal zum Munde …
 
-Man hat mir’s nicht geahnt T fügte er dann hinzu.
+»Man hat mir’s nicht geglaubt,« fügte er dann hinzu.
 
-»Was denn, Herr Menk …
+»Was denn, Herr Menk …?«
 
 <@pagebreak/>
 Plötzlich lugte der Wand durch die offenen Fenster herein
@@ -118,22 +117,22 @@ geheimnisvolles Zeichen eingedrungen.
 
 Menk entgegnete:
 
-»Den Zusammenstoß mit dem grünen Wrack, Herr Harsts.
+»Den Zusammenstoß mit dem grünen Wrack, Herr Harst.
 — Nein, damals glaubte man mir nicht. Aber nachher haben
 noch andere nachts das Wrack getroffen — auf offener
 See …«
 
 Er legte seine Pfeife beiseite. »Ich möchte es Ihnen
 erzählen, Herr Harst. Es ist eine für mich sehr geheimnisvolle
-Tragödie. Wie gesagt: Zunächst hielt man mich für ’ein
+Tragödie. Wie gesagt: Zunächst hielt man mich für ein
 wenig geistesgestört infolge des Verlustes von Frau und Kind.
 — Es war im Mai 1924. Alice, ich und meine kleine Edlinde,
 damals zwei Jahre alt, schifften uns auf meiner Jacht »Elba«
 ein zur Fahrt nach Norwegen. An Bord befanden sich außer
 uns Kapitän Svendson und dreizehn Seeleute. Wir hatten
 auf Helgoland Station gemacht, von da ging’s scharf nach
-Ost. Alice wollte die Inseln an der schhle3wig-holsteinischen
-— Küste so im Vorbeisegeln kennenlernen. Abends gab es
+Ost. Alice wollte die Inseln an der schleswig-holsteinischen
+Küste so im Vorbeisegeln kennenlernen. Abends gab es
 Sturm, Windstärke elf. Um Mitternacht war’s Orkan. Aber
 die Motorjacht hatte schon Ärgeres überstanden. Es regnete.
 Spritzer setzten über Deck. Unser Scheinwerfer zeigte uns jede
@@ -144,69 +143,67 @@ grüne treibende Insel. — Ich habe nachher eine Geschichte
 gelesen von einem Segler — den Schriftsteller weiß ich
 nicht mehr — der wegen Feuers von der Mannschaft verlassen
 wurde. Die Wellen löschten den Brand, der Segler strandete
-in einer Flußmündung, Erde fiel auf sein Des, Büsche, Bäume
+in einer Flußmündung, Erde fiel auf sein Deck, Büsche, Bäume
 wuchsen darauf, und ein Orkan trieb dieses grüne Wrack
 wieder ab und führte es ausgerechnet dem einstigen Kapitän,
 <@pagebreak/>
-der nun einen Dampfer besaß, vor den Bug. Der »Dampfer
+der nun einen Dampfer besaß, vor den Bug. Der Dampfer
 sank bei dem Zusammenstoß, und der Kapitän, der den Segler
 einst selbst angezündet hatte, um die Versicherungssumme
 einzustreichen, fand auf dem grünen Wrack die Leiche seiner
 Frau wieder, — — so ähnlich war die Geschichte. Ich
-erwähne sie nur, weil ich bestimmt annehme, daß neun
-Angaben über die Vorgänge jener Furcht den Schriftsteller,
+erwähne sie nur, weil ich bestimmt annehme, daß meine
+Angaben über die Vorgänge jener Nacht den Schriftsteller,
 denn die Zeitungen schrieben lang und breit darüber, zu
 seiner Novelle inspiriert hat. — Wie gesagt: solch’ ein
 grün überwuchertes Wrack tauchte vor uns auf. Der Scheinwerfer
 beleuchtete es, wir wichen aus, aber — das Wrack
 trieb uns abermals in den Kurs, wie von Geisterarmen
 bewegt und gesteuert. Es blieb vor uns — es wollte uns
-rammen, und es tat’s auch … Da half kein Mansverieren.
+rammen, und es tat’s auch … Da half kein Manöverieren.
 Die Jacht wurde mittschiffs getroffen. — Ersparen Sie mir
 Einzelheiten … Ich als einziger kam mit dem Leben davon,
 ein Fischkutter von der ganz einsamen kleinen Hallig Schluderrook,
-die zu Pellworm gehört, nahm mich an Band. Als
+die zu Pellworm gehört, nahm mich an Bord. Als
 ich dann meine Angaben zu Protokoll gab, wollte man
 mich in eine Anstalt einsperren, denn ein grün überwuchertes
-Winde, das eine Jacht rammt, ohne daß an Bord eine
+Wrack, das eine Jacht rammt, ohne daß an Bord eine
 Menschenseele zu sehen gewesen: das war doch Irrsinn! —
 Aber zwei Monate drauf begegnete ein Frachter demselben
 Wrack — auch nachts, aber bei stillem Wetter. Der
-Kapitän wollte Biß das merkwürdige Ding mal näher
-ansehen, blieb neben ihm, setzte ein Boot aus: Da besann
-das Wrack Beine und gondelte davon. — Nr dreimal ist
-Ähnliches beobachtet worden. Auf Bellworm freilich glaubt
+Kapitän wollte sich das merkwürdige Ding mal näher
+ansehen, blieb neben ihm, setzte ein Boot aus: Da bekam
+das Wrack Beine und gondelte davon. — Noch dreimal ist
+Ähnliches beobachtet worden. Auf Pellworm freilich glaubt
 kein Mensch daran. Mir ist’s recht. Ich weiß, was ich
 weiß, und ein paar andere haben’s auch gesehen: Das
-Wrack existiert? Und es war kein Wrack, sondern fraglos
+Wrack existiert! Und es war kein Wrack, sondern fraglos
 nur ein maskiertes Motorschiff, das nur auf meine Jacht
 es abgesehen hatte. Sie sollte wegsacken, und sie sackte
 <@pagebreak/>
-weg, und mein Glut entschwand in Regen, Finsternis und
-Wogengebrüll. Ich ward zusammen mit einem Teil der,
+weg, und mein Glück entschwand in Regen, Finsternis und
+Wogengebrüll. Ich ward zusammen mit einem Teil der
 Brücke über Bord gefegt … Alice stand am Heck, und die
-Dunkelheit verschlute alles. — Würden Sie darüber hinwegkommen,
+Dunkelheit verschluckte alles. — Würden Sie darüber hinwegkommen,
 Herr Harst …?«
 
-»neu — 6:0«
+»Nein …«
 
 »Nun also. Reden Sie nicht von der Trösterin Zeit.
 Wenn mein Weib, mein Kind, meine treuen Seeleute und
 mein Schiff auf natürliche Weise verloren gegangen wären:
-das hätte ihm vielleicht überstanden. Aber zu wissen, daß
+das hätte ich vielleicht überstanden. Aber zu wissen, daß
 bei alledem geheimnisvolle, teuflische Kräfte im Spiel gewesen
 und daß man zwei Jahre umsonst sich bemüht hat,
-diese Dinge zu klären: Das zehrt in mir. Natürlich. hat
-man in Husum vor dem Verklarung8geriht rasch; eine
-plausible Deutung gefunden: Ein Schmugglerschiff sei’s geh
-
-Wesen, Viehschmuggler von Dänemark … Und die hätten
+diese Dinge zu klären: *Das* zehrt in mir. Natürlich hat
+man in Husum vor dem Verklarungsgericht rasch eine
+plausible Deutung gefunden: Ein Schmugglerschiff sei’s gewesen,
+Viehschmuggler von Dänemark … Und die hätten
 wohl Heu an Bord gehabt und Stroh und hätten die Jacht
 für ein Zollboot gehalten — und so weiter … — So stand’s
-
-aus in den Zeitungen. Nun ist’s seit langem still von
+auch in den Zeitungen. Nun ist’s seit langem still von
 dem Schiff, ganz still, nur in mir lebt alles weiter und
-läßt mir keine Ruhe. — Was halten Sie davon, Herr!
+läßt mir keine Ruhe. — Was halten Sie davon, Herr
 Harst?«
 
 »Ich besinne mich jetzt … — einmal gelang es auch
@@ -222,7 +219,6 @@ drauf erschoß er sich. Die Pellwormer sagten, er war übergeschnappt.«
 »Gewiß: Söttegast hieß er, — — Badegast war er,
 tot ist er, gestorben, weil er auf dem grünen Wrack
 gewesen als einziger.« Menk sprach’s mit erhobener Stimme.
-
 <@pagebreak/>
 »Kurt Söttegast wollte das, was er gesehen, auch zu Protokoll
 geben. In den Dünen fand man ihn tot, seine Pistole
@@ -231,37 +227,37 @@ Selbstmord: Irrsinn!«
 
 Harald nickte zerstreut …
 
-»IJ, Irrsinn ist immer »die einfachste Erklärung … —
+»Ja, Irrsinn ist immer die einfachste Erklärung … —
 Wissen Sie, Herr Menk, wir könnten uns in Hamburg
 wieder treffen.«
 
 Eduard Menk beugte sich vor und starrte Harald ins
 Gesicht.
 
-»Sie … wollen … 2?«
+»Sie … wollen …?«
 
 »Ich habe Interesse dafür, Herr Menk. Reisen Sie
-morgen … ab. Na! drei Tagen sind wir bei Ihnen in
+morgen … ab. Nach drei Tagen sind wir bei Ihnen in
 Hamburg. Aber schweigen Sie. Sie verstehen mich wohl …
 Ich vermute zwei Verbrechen — wie Sie!«
 
 Menk atmete tief auf. »Endlich!! — Herr Harst, ich bin
-mit meinem Auto hier. Begleiten Sie mich …
+mit meinem Auto hier. Begleiten Sie mich …«
 
 »Gern … Aber so, daß wir nachts in Hamburg eintreffen.
-Und »Freund Xaver nehmen wir mit. Ich hab’s ihm
+Und Freund Xaver nehmen wir mit. Ich hab’s ihm
 versprochen, daß er bei mir in die Lehre gehen darf.«
 
-Xaver Dürnhuber meinte ein, »Herr Harst, im bin
-halt nur ein armer Teufel, und
+Xaver Dürnhuber meinte ehrlich: »Herr Harst, ich bin
+halt nur ein armer Teufel, und …«
 
-»und Sie sind bis auf weiteres bei mir mit fünfhundert
+»… und Sie sind bis auf weiteres bei mir mit fünfhundert
 Mark monatlich angestellt, mein Lieber. Einst war
 Schraut mein Privatsekretär. Jetzt, seitdem er schriftstellert,
-seitdem er mein Freund »und ein Teil meines Ich, kann
-ich Sie gut brauchen …
+seitdem er mein Freund und ein Teil meines Ichs, kann
+ich Sie gut brauchen …«
 
-Dürnhuber weinte Sei Er ahnte, daß er nun den
+Dürnhuber weinte beinahe. Er ahnte, daß er nun den
 weiten Sprung in eine andere Welt tun würde. —
 
 Am nächsten Morgen verließ ein großes Reiseauto mit
@@ -270,23 +266,23 @@ Tölz und fuhr über München nordwärts.
 
 <@pagebreak/>
 
-<h2>9. Kapitel.</h2>
+<h2>2. Kapitel.</h2>
 <h3>Kleine Ermittlungen.</h3>
 
 Die Geschichte von dem grünen Wrack liegt über vier
 Jahre zurück. Das ist für unsere schnellebige Zeit ein halbes
 Menschenalter. Vier Jahre!! Damals hatten wir kaum die
 Papiergeldflut überwunden, gerade damals war mit der
-Rentenmark eine neu- Epoche für Deutschland angebrochen.
-— Und nun war da einer der Hauptbeteiligten jener Sees
-Tragödie hurtig einen reinen Zufall mit uns bekannt geworden.
-Ich hatte nie etwas von Eduard Menk gewußt.
+Rentenmark eine neue Epoche für Deutschland angebrochen.
+— Und nun war da einer der Hauptbeteiligten jener Seetragödie
+durch einen reinen Zufall mit uns bekannt geworden.
+*Ich* hatte nie etwas von Eduard Menk gewußt.
 Lieber Himmel, was passiert nicht alles in der Welt!!
 Wie soll da eine Untat von Viehschmugglern im Gedächtnis
 haften bleiben?!
 
 Offen gestanden, ich begriff Haralds Interesse für diese
-dunkle Ungelegenheit in keiner Weise. Sie kam mir wie
+dunkle Angelegenheit in keiner Weise. Sie kam mir wie
 »Seemannsgarn« vor … Ich traute auch Menks Angaben
 nicht recht. Vielleicht war er durch jene Schreckensnacht
 wirklich so ein wenig aus dem geistigen Gleichgewicht geworfen
@@ -296,30 +292,30 @@ sollte man wohl so ohne weiteres diesen Selbstmord zu
 einem Verbrechen umstempeln können?! —
 
 <@pagebreak/>
-Bis Harst und ich nach jenem Abend im Giebelstübchen
-bei Xaver Dürnhuber ins Schettler-Frau zurü&ägercehrt waren.
-hatte im die Sache Menk natürlich mit ihm durchsprechen
-wollen. Sehe hatte kein Hehl daraus gemacht, daß ich es
-für Zwecklos hielte, so »alle Kamellen« wieder aufzurühren,
+Als Harst und ich nach jenem Abend im Giebelstübchen
+bei Xaver Dürnhuber ins Schettler-Bräu zurückgekehrt waren,
+hatte ich die Sache Menk natürlich mit ihm durchsprechen
+wollen. Ich hatte kein Hehl daraus gemacht, daß ich es
+für Zwecklos hielte, so »olle Kamellen« wieder aufzurühren,
 und daß ich starke Zweifel hegte, was Menks Zuverlässigkeit
 betreffs nüchterner Beurteilung der Vorfälle anging.
 
-Harald sagte damals nur in seiner gutimüiig-nachsichtigen
+Harald sagte damals nur in seiner gutmütig-nachsichtigen
 Art: »Laß nur, mein Alter … Wir werden alles nachprüfen.
 Nur keine voreiligen Schlüsse …«
 
-»Bitte — voreilige Schlüsse, ich; etwa?! Ich denke, ich
+»Bitte — voreilige Schlüsse, *ich* etwa?! Ich denke, ich
 behandle die Sache durchaus vorsichtig …«
 
-»Zu vorsichtig!« — und damit haite er das Gespräch
+»Zu vorsichtig!« — und damit hatte er das Gespräch
 abgebrochen. Auch für die Reisedauer bis Berlin, wohin
 es zunächst ging, zu uns, nach Schmargendorf, Blücherstraße
-10. Wenn Menk oder Xaver unterwegs das so naheliegende
+10\. Wenn Menk oder Xaver unterwegs das so naheliegende
 Thema irgendwie anschneiden wollten, winkte er
 entschieden ab: Er pflege nicht zu reden, sondern zu handeln.
 
-So bekam das Harstsche Saus denn für anderthalb
-Tage Logierbesuch. Nachmittags waren wir angelangt, am.
+So bekam das Harstsche Haus denn für anderthalb
+Tage Logierbesuch. Nachmittags waren wir angelangt, am
 nächsten Vormittag hatte Harald die Adresse der Witwe
 Kurt Söttegasts telephonisch durch Anfrage beim Einwohnermeldeamt
 ermittelt und wir beide begaben uns um
@@ -331,43 +327,43 @@ habe ihm die Schlüssel ihrer Wohnung übergeben. Mehr
 wisse er nicht. Sie lebe von Privatstunden und Schreibmaschinenarbeiten
 und habe nur zwei Zimmer.
 
-Harst zog die Brieftasche und reite dem gemütlichen
-Portier der düsteren Mietskaserne einen JFäünfzigmarkschein.
+Harst zog die Brieftasche und reichte dem gemütlichen
+Portier der düsteren Mietskaserne einen Fünfzigmarkschein.
 
 »Bitte … Nehmen Sie nur … Sie können es sicher
 <@pagebreak/>
-brauchen. — Wissen Sie, wir wollen ehrlich sein … Wir
+brauchen. — Wissen Sie, wir wollen ehrlich sein … *Wir*
 sind nicht hergekommen, um Frau Söttegast Arbeit zu
-geben, und Sie werden Biß doch wohl noch« an Kleinigkeiten
+geben, und *Sie* werden sich doch wohl noch an Kleinigkeiten
 erinnern, die mit Frau Söttegasts plötzlicher Reise
 zusammenhängen. — Ich bin Harald Harst.«
 
-Der Verraten machte Kuhaugen. »Donnerwetter, Herr
+Der Portier machte Kuhaugen. »Donnerwetter, Herr
 Harst …?! Große Ehre … Ick hätt’ mir’s doch nicht träumen
-lassen, det ick Ihnen mal jefällig sein könnte. Fern. geschieht’s
+lassen, det ick Ihnen mal jefällig sein könnte. Jern geschieht’s
 … sehr jern …« Er steckte den Fünfziger liebevoll
-ein. »Sehen Sie, Herr Harst, wat Nu die Botschaften
-betreffen tut, da hab’ ick wahrhaftig die Wahrheit gesagt
-… Ich weeß mischt mehr — mischt. Sie Kranke bloß
+ein. »Sehen Sie, Herr Harst, wat nu die Söttegasten
+betreffen tut, da hab’ ick wahrhaftig die Wahrheit jesagt
+… Ich weeß nischt mehr — nischt. Sie meente bloß
 zu mir, Briefe kriegte sie ja doch nie, und wenn Kunden
 kämen, sollt’ ick diesen bestellen, sie käm’ erst nach Wochen
-ZUurück. Det i8 abseits…«
+Zurück. Det is allens.«
 
-»Glaube ich, Herr Schatten … glaube ich. Nur ein
+»Glaube ich, Herr Schnittloch … glaube ich. Nur ein
 paar Fragen so nebenbei … Wann erzählte die Söttegast
 Ihnen, daß sie verreise?«
 
-»Fesseln so um Ahne setzte rum, und um halb sieben
-fuhr se mit ihren Knistern los — mit ’n Einstreifer, nach
+»Jestern so um Uhre sechse rum, und um halb sieben
+fuhr se mit ihren Koffern los — mit ’n Einstreifer, nach
 Anhalter Bahnhof … Ick mußte ihr det Auto holen,
 und zehn Märker jab se mir für die Beaufsichtigung ihrer
-Wohnung — sehr nobel bei ihre mieten Verhältnisse.«
+Wohnung — sehr nobel bei ihre mießen Verhältnisse.«
 
-3, War jemand gestern nachmittag vor sechs bei der
+»War jemand gestern nachmittag vor sechs bei der
 Söttegast?« forschte Harald zu meinem Erstaunen weiter.
 
-»Lieber Jott, Herr Harst, bei so ’ne Tippdame i8 doch
-immer viel Verkehr … Sie i8 sehr fleißig …«
+»Lieber Jott, Herr Harst, bei so ’ne Tippdame is doch
+immer viel Verkehr … Sie is sehr fleißig …«
 
 »Besinnen Sie sich mal genau: Bekam Frau Söttegast
 nicht zwischen fünf und sechs nachmittags Besuch?«
@@ -377,11 +373,11 @@ Kunde …«!
 
 »Wie sah er aus?«
 
-»Au, es war ’n Mann in die beste Jahre, sehr braun
+»Nu, es war ’n Mann in die beste Jahre, sehr braun
 <@pagebreak/>
-ins Schritte, und mit sehr braune Hände, wohl Gen Wassersportler
-… Er wollt’ Tone Doktorarbeit tippen lassen …
-Gut in Kluft war er roh …«
+ins Jesichte, und mit sehr braune Hände, wohl een Wassersportler
+… Er wollt’ eene Doktorarbeit tippen lassen …
+Gut in Kluft war er ooch …«
 
 »Bart?«
 
@@ -389,37 +385,37 @@ Gut in Kluft war er roh …«
 
 »Anzug?«
 
-»Im — Jummimantel, Ledermütze, Jamaschen …«
+»Hm — Jummimantel, Ledermütze, Jamaschen …«
+
 »Sprache?«
 
 »Wie meinen Sie das, Herr Harst?«
 
 »Oh er Dialekt sprach?«
 
-»ob ja, — er stieß so ’n bißchen mit die Zunge
-Wer
+»oh ja, — er stieß so ’n bißchen mit die Zunge
+an …«
 
 »Er stotterte?«
 
 »Nee, nee … er redt’ so, wie die in Hannover, wo
-sie statt »Spitze« … S … Witze sagen.«
+sie statt »Spitze« … S…pitze sagen.«
 
 »Würden Sie uns mal die Wohnung zeigen?«
 
-»Natürlich … Ick hob nur die Schlüssel.« —
+»Natürlich … Ick hol nur die Schlüssel.« —
 
-Im noch HELWURLlcfkeren Gartenhause drei Treppen rechts
-
-ohne Luft und Licht — eine kleine, peinlich säubern
+Im noch verwahrlosteren Gartenhause drei Treppen rechts
+— ohne Luft und Licht — eine kleine, peinlich saubere
 Wohnung mit allen Anzeichen einstiger besserer Tage: Als
 Herr Kurt Söttegast noch lebte und sich eine Segeljacht
 leisten konnte.
 
 Das größere Zimmer, zugleich Lohn- und Arbeitsraum,
-gekennzeichnet durch; zwei Schreibmaschinen.
+gekennzeichnet durch zwei Schreibmaschinen.
 
 Auf dem Sofatisch stand ein Aschbecher mit fünf
-Zigarettenstummeln darin, ein AschbeH&er in Schalenform
+Zigarettenstummeln darin, ein Aschbecher in Schalenform
 aus Marmor. Harald prüfte die Stummel.
 
 »Rauchte Frau Söttegast?«
@@ -429,24 +425,24 @@ Der Portier verneinte.
 Harald ging zum Schreibtisch. Da stand eine Photographie
 eines hübschen blonden Mannes.
 
-»Det ist der Jetzige,« erklärte der Hauswart. »Erschossen.
+»Det is der Selige,« erklärte der Hauswart. »Erschossen
 <@pagebreak/>
 hat er sich … Man sagt so, er sei in faule Jeschäfte
 mit Schmuggler verwickelt jewesen.«
 
-Harst überschaute den Diplomatenschreibtisch mit Zuckungen.
+Harst überschaute den Diplomatenschreibtisch mit Luxaugen.
 Dann wandte er sich an den Portier:
 
 »Fehlt hier etwas?«
 
-»Im — — ja, det andere Bild vom Seligen, det letzte,
+»Hm — — ja, det andere Bild vom Seligen, det letzte,
 bevor er sich totschoß … Da war er zusammen mit seiner
 Frau, — Kinder hatten sie mit — auf die Segeljacht
-photographiert … Ton jroßet Bild … Dort stand es …
-Nu 18 er weg …«
+photographiert … Een jroßet Bild … Dort stand es …
+Nu is et weg …«
 
 »Ja, man sieht’s … Ein Bild mit Bronzerahmen …
-Die Platte ist zerkratzt, wo ’es8 stand — vom Staubwischen.
+Die Platte ist zerkratzt, wo es stand — vom Staubwischen.
 Dann rutscht ein Bild hin und her und hinterläßt Spuren.
 Es muß ein Metallrahmen gewesen sein.«
 
@@ -454,12 +450,12 @@ Es muß ein Metallrahmen gewesen sein.«
 
 »Sahen Sie den sonngebräunten Herrn wieder weggehen?«
 
-»er … Aber meine Frau sah ihn … Er ging kurz vor
+»Nee … Aber meine Frau sah ihn … Er ging kurz vor
 halb sieben …«
 
 »Also muß Frau Söttegast in seiner Gegenwart ihren
 Koffer gepackt haben … Der Herr hat hier fünf Zigaretten
-geraucht und dort in der Sofaecke gesessen. Da liegt Zigarettenasc&e.
+geraucht und dort in der Sofaecke gesessen. Da liegt Zigarettenasche.
 Die Stummel rühren von einer Marke her,
 die mich interessiert, ich werde sie mitnehmen.«
 
@@ -470,7 +466,7 @@ Harst?!« —
 Als wir beide dann die Bahnstraße entlanggingen, fragte
 ich — mit Recht:
 
-»Willst: du auf Sherlock Holmes Pfaden wandeln und
+»Willst du auf Sherlock Holmes Pfaden wandeln und
 mit Zigarettenstummeln operieren?!«
 
 Er winkte ein leeres Auto heran.
@@ -485,33 +481,33 @@ Das war alles.
 
 Daheim zeigte er Xaver die Stummel,
 
-»Donner noch eine,« rief der. »Das sind ja Stummel
+»Donner noch eins,« rief der. »Das sind ja Stummel
 von nikotinfreien Zigaretten aus der Tölzer Fabrik!«
 
 »Allerdings,« nickte Harald. »Der Herr, der bei Frau
-Söttegast’ war, kam aus Tölz — wie wir! Und er erschien
+Söttegast war, kam aus Tölz — wie wir! Und er erschien
 bei ihr genau eine halbe Stunde nach unserer Ankunft
 hier in Berlin.«
 
-Eduard Menk, der ebenfalls zugegen, meinte unsicher;
+Eduard Menk, der ebenfalls zugegen, meinte unsicher:
 
 »Glauben Sie etwa, daß der Herr uns gefolgt war,
 Herr Harst?«
 
 »Ja, mit einem Motorrad, Herr Menk. Dieser Mann
 hat Frau Söttegast durch falsche Vorspiegelungen bewogen,
-ihn 38 begleiten. Dieser Mann fürchtete, daß ich die Frau
-»Ursachen würde. — Was würden Sie nun tun, lieber
-Dürnhuber 2?«
+ihn zu begleiten. Dieser Mann fürchtete, daß ich die Frau
+aufsuchen würde. — Was würden *Sie* nun tun, lieber
+Dürnhuber?«
 
 Der junge Schüler des alterfahrenen Meisters überlegte
 und erklärte schließlich:
 
-»Der Mann muß halt von droben von Scle3wig
-gewesen sein … Der Mann wird der Frau vorgereckt hab’n,
-er hätt! viel lohnende Arbeit für sie und zahle gut … Er
-nahm sie mit dahin, wo er halt wohnen mag. Ich Büro«
-auf dem Bahnhof nachfragen, ob ein Motorrad nach Säugling
+»Der Mann muß halt von droben von Schleswig
+gewesen sein … Der Mann wird der Frau vorgeredt hab’n,
+er hätt’ viel lohnende Arbeit für sie und zahle gut … Er
+nahm sie mit dahin, wo er halt wohnen mag. Ich würd’
+auf dem Bahnhof nachfragen, ob ein Motorrad nach Hamburg
 aufgegeben wurde — oder vielleicht nach Husum. Es
 kann einer der Schmuggler gewesen sein …« — —
 
@@ -521,7 +517,7 @@ Bahnhof aufgegeben worden war. —
 
 Um sechs fuhren wir vier weiter nach Hamburg. Harald
 schwieg sich über seine geheimsten Gedanken vollkommen
-zu.
+aus.
 
 <@pagebreak/>
 
@@ -530,22 +526,22 @@ zu.
 
 Der immerhin recht spannende Fall des grünen Wracks
 gehört zu jenen ganz besonderen Leistungen meines Freundes,
-bei denen er (wie er mir später eingetragen sofort rasch
+bei denen er (wie er mir später eingestand) sofort nach
 Eduard Menks ersten Angaben über das geheimnisvolle
 Fahrzeug die richtigen Zusammenhänge mit hellseherischer
 Fähigkeit vollkommen überschaute.
 
 Ich weiß nicht, ob einer der Leser in gleicher Weise
-vielleicht ebenso Schimmel die im Grunde einzig möglichen
+vielleicht ebenso schnell die im Grunde einzig möglichen
 Schlußfolgerungen aus dem Untergang der Jacht »Elba«
 und aus dem Tode Kurt Söttegasts gezogen hat.
 
 Ich betone: die im Grunde einzig möglichen Schlußfolgerungen!
 — Nachher, als die Dinge restlos geklärt
-waren, schämte im mich eigentlich, so blind diesem scheinbaren
+waren, schämte ich mich eigentlich, so blind diesem scheinbaren
 Rätsel gegenübergestanden zu haben. Diese geistige
 Blindheit hielt jedenfalls auch in der Villa Menk draußen
-am Elbufer inmitten der entzü&Fend-idyllischen Kolonie der
+am Elbufer inmitten der entzückend-idyllischen Kolonie der
 Hamburger Patriziergeschlechter noch an.
 
 Wir trafen dort nachts halb Zwölf ein. Menk hatte
@@ -554,24 +550,24 @@ seinen Hausmeister telegraphisch verständigt. Ein fast allzu
 üppiges Abendbrot erwartete uns in dem großen, vornehm
 gediegenen Speisezimmer. Xaver Dürnhuber fühlte sich in
 dieser feudalen Umgebung zunächst etwas beklommen. Aber
-er besaß ein außerordentliches Anpassungsvermögen, genau.
+er besaß ein außerordentliches Anpassungsvermögen, genau
 so wie er die in Berlin eingekauften modern-großstädtischen
 Kleidungsstücke sehr bald mit der Selbstverständlichkeit eines
 jungen Lebemannes trug und voll Eifer seine etwas derben,
 ehrlichen Gebirgsmanieren den neuen Verhältnissen äußerst
 schnell anzugleichen wußte.
 
-Not Tisch — ein älterer, bewährter Diener hatte geräuschlos
+Nach Tisch — ein älterer, bewährter Diener hatte geräuschlos
 serviert — setzten wir uns noch draußen auf die hochgelegene,
-glagSüberde&te Terrasse, von der man den im
-Mondlicht silbern schimmernden Elbstrom Abendlichen konnte.
+glasüberdeckte Terrasse, von der man den im
+Mondlicht silbern schimmernden Elbstrom überblicken konnte.
 
 Wir tranken Mokka aus zierlichen Täßchen, Liköre aus
-hochstieligen Kriitallglä8Hen und rauchten wundervolle Importen.
+hochstieligen Kristallgläschen und rauchten wundervolle Importen.
 Die gepolsterten, bequemen Korbmöbel, die diskrete,
 farbige Beleuchtung und das Rauschen der Parkbäume im
-Nachtwind erzeugten jene träumerisch—behaglihe Stimmung,
-Mr den Mund verschließt und doch den Gedanken freie Bahn
+Nachtwind erzeugten jene träumerisch-behagliche Stimmung,
+die den Mund verschließt und doch den Gedanken freie Bahn
 läßt.
 
 Menk hatte den Diener schlafen geschickt.
@@ -585,57 +581,57 @@ Verehrer guten Kaffees, ließ sich von Xaver die Tasse
 zum dritten Male füllen. Der einzig Nervöse, Unruhige unter
 uns war Eduard Menk. Zuweilen blickte er zu Harald hinüber,
 und in seinen Augen war dann ein leicht gereizter
-Kursbuch. Mit Recht. Harsts völliges Vermeiden gerade des
-Sitten Gesprächsthemas, das notwendig uns alle einzig und
+Ausdruck. Mit Recht. Harsts völliges Vermeiden gerade des
+einen Gesprächsthemas, das notwendig uns alle einzig und
 allein interessiert hätte, mußte er als eine gewisse Rücksichtslosigkeit
 empfinden. Die Unterhaltung bei Tisch hatte
 <@pagebreak/>
 sich um Deutschlands neu auflebenden Überseehandel gedreht,
-— jeht fielen nur gelegentliche Bemerkungen über Hamburgs
+— jetzt fielen nur gelegentliche Bemerkungen über Hamburgs
 Villenvorstädte und über die Villa Menk, die wir bereits
 flüchtig besichtigt hatten.
 
-Vom Flusse kam das ausschweifende, abschwellende Heulen
+Vom Flusse kam das anschwellende, abschwellende Heulen
 einer Schiffssirene herüber.
 
-Harst hatte einen Schirm Mokka geringsten und sagte
+Harst hatte einen Schluck Mokka getrunken und sagte
 nun gedämpft:
 
 »Wie lange haben Sie Ihren Chauffeur Diedrichsen
-schon, lieber Menk? War er bereit8&nbsp;1924 im Juni in
+schon, lieber Menk? War er bereits 1924 im Juni in
 Ihren Diensten? — Wohl kaum …«
 
-Man muß Harst so kennen, wie ich ihn kenne, uns
+Man muß Harst so kennen, wie ich ihn kenne, um
 eine solche Frage, die er sofort halb aus sich selbst heraus
 beantwortet, richtig zu werten.
 
 Menk erwiderte gleichgültig: »Seit 1923 ist er bei mir.
-Sie dahin hatte ich drei Chauffeure. Alices Tod ließ mich
+Bis dahin hatte ich drei Chauffeure. Alices Tod ließ mich
 den Haushalt einschränken, zumal ich ja dauernd unterwegs
-war. Zwei Jahre brachte ich Zwecklos damit zu, dem.
-Geheimnis des Wrackes. nachzuspüren.«
+war. Zwei Jahre brachte ich Zwecklos damit zu, dem
+Geheimnis des Wrackes nachzuspüren.«
 
 Stille wieder …
 
-Dann meinte unser Gentleman—Xaver in seiner frischen
+Dann meinte unser Gentleman-Xaver in seiner frischen
 Art:
 
-»Diedrichsen g’fallt auch mir nicht …«
+»Diedrichsen g’fallt auch mir nit …«
 
 Menk schaute Xaver erstaunt an.
 
-»»—. Gefällt Ihnen nicht?«
+»… Gefällt Ihnen nicht?«
 
-»Nein, Herr Menk, gar ne!! Der Mensch ist falsch.«
+»Nein, Herr Menk, gar net! Der Mensch ist falsch.«
 
-Harst machte. »Sie haben da einen ständigen Aufpasser
+Harst nickte. »Sie haben da einen ständigen Aufpasser
 gehabt, lieber Menk … Diedrichsen hat den Motorradler
 nach Nürnberg bestellt. Von da an war der Mann, der nun
 Frau Söttegast mit sich nahm, mit seiner schweren, schnellen
 Maschine dauernd hinter uns her.«
 
-Menk schüttelte den Kopf. »Diebisches hat mir nie den
-geringsten Anlaß zur Unzufriedenheit, noch) weniger 31
+Menk schüttelte den Kopf. »Diedrichsen hat mir nie den
+geringsten Anlaß zur Unzufriedenheit, noch weniger zu
 <@pagebreak/>
 Mißtrauen gegeben. Der Vorwurf gegen ihn müßte bewiesen
 werden.«
@@ -648,19 +644,18 @@ Er depeschierte morgens hier nach Hamburg. Mein Freund
 bei der Tölzer Hauptpost hat mir … aus Versehen das
 Telegramm gezeigt. Es lautete:
 
-Betty Storm, Hamburg, Altonaer Sir. 15. Dringend
+> Betty Storm, Hamburg, Altonaer Str. 15. Dringend
 nötig, daß er sofort Nürnberg, Strecke Berlin kommt.
-Bietet.
+
+<p class="right">Diedri.</p>
 
 Dieser »Er« ist also der Motorradler, der Frau Söttegast
-
 mit sich nahm, damit sie nichts aussagen könnte. »Er«
-
 rechnete damit, daß Herr Harst die Witwe aufsuchen würde.«
 
 Menks Gesicht lebte auf …
 
-»Unglaublich — also ein »Spion, der Diedrichsen, ein
+»Unglaublich — also ein Spion, der Diedrichsen, ein
 Verräter! Ich werde ihn morgen …«
 
 »Nichts werden Sie ihn merken lassen, gar nichts,« fiel
@@ -669,12 +664,13 @@ daß Sie einen grimmen Feind haben, der über reiche
 Geldmittel verfügt, der Ihre Leute bestochen hat, der Sie
 nie unbeobachtet ließ. Als Diedrichsen erfuhr, daß Sie uns
 kennengelernt, daß wir zusammen erst nach Berlin wollten,
-ahnte er, daß es um. das Wrack ging. Deshalb warnte er
+ahnte er, daß es um das Wrack ging. Deshalb warnte er
 den Motorradler. Da dieser sein Rad nach Husum aufgegeben
 hat, wohnt dieser »Er« dort irgendwo in der Nähe.
-Jetzt dürfte er ’hier in Hamburg sein. — ’Sie tun gut,
-Hektor heute naht mit in Ihr Schlafzimmer zu nehmen.«
-Wen? setzte sich mit einem Tue aufrecht.
+Jetzt dürfte er hier in Hamburg sein. — Sie tun gut,
+Hektor heute nacht mit in Ihr Schlafzimmer zu nehmen.«
+
+Menk setzte sich mit einem Ruck aufrecht.
 
 »Wie, Sie meinen, daß … mein Leben bedroht ist?«
 
@@ -684,49 +680,49 @@ Mann, der Ihre Jacht rammte, der den Kaufmann Söttegast
 tötete, wird nicht zögern, die Aufdeckung seiner Untaten
 um jeden Preis zu verhindern.«
 
-Harald hatte nachts gedämpfter gesprochen.
+Harald hatte noch gedämpfter gesprochen.
 
-Die träumerisch—behagliße Stimmung war dahin.
+Die träumerisch-behagliche Stimmung war dahin.
 
-Wo uns vieren schwebte unsichtbar eine Gewitterwolke.
+Über uns vieren schwebte unsichtbar eine Gewitterwolke.
 
 Menk schüttelte wiederum den Kopf. »Ich habe aber
 keinen Feind, lieber Herr Harst, wirklich nicht … Es
 ist ganz ausgeschlossen, daß irgend jemand mich auch nur
-mit me, … Abneigung, geschweige denn mit sollen Haß
-verfolgt …
+mit seiner Abneigung, geschweige denn mit solchem Haß
+verfolgt …«
 
 »Sie irren sich!« Harst beugte sich weit vor. »Sie werden
-gehaßt, und man traf Sie an Ihrer verwundbarsten Helle:
+gehaßt, und man traf Sie an Ihrer verwundbarsten Stelle:
 Man nahm Ihnen Weib und Kind! Das genügte diesem
-Unhold. Sie sind seitdem ein gebrochener, unstäten Mensch.«
+Unhold. Sie sind seitdem ein gebrochener, unstäter Mensch.«
 
 Und — wieder Stille …
 
 Menk starrte vor sich hin.
 
 Xavers klare Augen glitten hierhin, dorthin. Mit einem
-»Male erhob er sich, war mit einem Satz, an »der Terrassentreppe,
-mit zwei Säßen die Treppe hinab …
+Male erhob er sich, war mit einem Satz, an der Terrassentreppe,
+mit zwei Sätzen die Treppe hinab …
 
-Hektor fuhr so …
+Hektor fuhr hoch …
 
 Harst hetzte ihn … Mit einem winselnden Aufheulen
-flog der Hund hinter ’ Dürnhuber drein in den mondhellen
-»Park, der in flachen Terrassen zum Elbufer abfiel.
+flog der Hund hinter Dürnhuber drein in den mondhellen
+Park, der in flachen Terrassen zum Elbufer abfiel.
 
 Ein Schuß knallte … noch einer …
 
 Nicht fern …
 
-Sektor bellte, winselte dann schrill … ’Das Winseln
+Hektor bellte, winselte dann schrill … Das Winseln
 erstarb in einem fast menschlichen Stöhnen …
 
-Menk und wir beide standen da. und horchten …
+Menk und wir beide standen da und horchten …
 Menk war sehr bleich.
 
 Dann eilte Harald die Treppe hinab, ich folgte ihm.
-Er hatte die Clement gezogen …-
+Er hatte die Clement gezogen …
 
 <@pagebreak/>
 Auf dem Hauptweg zur Bootsbrücke auf der zweiten
@@ -734,11 +730,11 @@ Terrasse lag die Dogge — tot.
 
 Daneben lag Xaver — bewußtlos. —
 
-Harald stürmte weiter. »Blei!! bei Dürnhuber,« befahl er.
+Harald stürmte weiter. «Bleib’ bei Dürnhuber,« befahl er.
 
 Die Dinge waren so mit einem Schlage in ein neues
 Stadium getreten. Die Schüsse lockten eine Polizeistreife
-herbei, Fetzen die Dienerschaft. Der Hausmeister, der Gärtner,
+herbei, weckten die Dienerschaft. Der Hausmeister, der Gärtner,
 der Chauffeur, der Diener, der Koch erschienen in recht
 mangelhaften Kostümen.
 
@@ -746,7 +742,7 @@ Dürnhuber hatte lediglich einen Boxhieb gegen die Herzgrube
 erhalten. Er kam wieder zu sich. Er benahm sich
 sehr verständig. Ein abgerissener Strolch habe ihn niedergeschlagen
 und den armen Hund erschossen, erklärte er.
-— Harst wieder bekundete, ein einzelner Mann sei in einem.
+— Harst wieder bekundete, ein einzelner Mann sei in einem
 Boot über den Strom entflohen — natürlich ein Dieb, den
 Xaver noch rechtzeitig bemerkt habe.
 
@@ -772,11 +768,11 @@ Xaver.« —
 Als wir dann endlich zu Bett gingen, wurden die
 Schlafzimmer vertauscht. Menk weigerte sich erst, aber Harald
 <@pagebreak/>
-bestand so energisch darauf, daß wir beide nun in Meute
+bestand so energisch darauf, daß wir beide nun in Menks
 Schlafzimmer im Dunkeln allein waren. —
 
 Ich muß nun, so ungern ich gerade hier den Gang
-der. Handlung unterbreche, die Örtlichkeit eingehender beschreiben.
+der Handlung unterbreche, die Örtlichkeit eingehender beschreiben.
 
 Menks Schlafzimmer lag im Hochparterre neben der
 Terrasse, also mit den Fenstern nach dem Park und dem
@@ -1068,7 +1064,7 @@ Noch etwas benommen saß er nun in der Sofaecke und
 blinzelte »uns müde an. Erst als ich von den Geschehnässen
 in dem kleinen Salon seiner Gattin, von Diedrichsens Flucht
 mit dem Päckchen Briefe und von Haralds leider nur zu
-wahrscheinlihem Tode sprach, öffnete er die Augen ganz
+wahrscheinlichem Tode sprach, öffnete er die Augen ganz
 weit und starrte mich verständnislos an.
 
 Gerade er, der nach seinen jahrelangen mißglückten Versuchen,
@@ -2317,7 +2313,7 @@ nächstens nachprüfen. —
 
 Zum Schluß noch etwas: Ich habe den Schauplatz der
 Handlung ein wenig verlegt. Schluderrook liegt nicht nördlich
-von Bellworm, aber voll in der Nähe. Nach den
+von Pellworm, aber voll in der Nähe. Nach den
 Erfahrungen, die ich mit meinen lieben Lesern und Freunden
 gemacht habe, würde »Schluderrook« sonst im nächsten
 Sommer Massenquartier werden, und dazu alt unsere Hallig
