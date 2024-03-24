@@ -505,7 +505,7 @@ blaue Brille, graue Künstlermähne, große Ohren.
 Müller …! Zimmer Nr. 8, Hochparterre, nach hinten heraus
 …«
 
-»Nach den Tennisplätzen …
+»Nach den Tennisplätzen …«
 
 »Ja …«
 
@@ -909,7 +909,7 @@ Er sagte — und das war lediglich wie ein Selbstgespräch:
 
 »An wen?« fragte Müller laut.
 
-»An den Richter … — und er drehte den Kopf zu
+»An den Richter …« — und er drehte den Kopf zu
 Müller hin. »An den Richter … Ich werde es tun …
 — Warte hier, mein Alter …«
 
@@ -2291,16 +2291,14 @@ bewachten sie. Zwei Landjäger radelten tausend Meter voraus.
 
 <@pagebreak/>
 
-<h2>3. Kapitel.</h2>
+<h2>4. Kapitel.</h2>
 <h3>Eine gefährliche Fahrt.</h3>
 
 Die damaligen Vorfälle sind in den Zeitungen nur kurz
-
 erwähnt worden. Vor mir liegen hier fünf Ausschnitte,
 drei aus Berliner, zwei aus der Greifenberger Zeitung.
 
-All diese Artikel enthalten große Unrichtigkeiten. Die —
-
+All diese Artikel enthalten große Unrichtigkeiten. Die
 Polizei hat die Ereignisse nach Möglichkeit geheim gehalten.
 Wir auch.
 
@@ -2315,34 +2313,33 @@ mit dabei. Harald hatte ihm abgeraten, sich unnötig zu
 bemühen.
 
 Die Gefangenen waren leicht gefesselt. Nur die Hände.
-
 Die braunen Seitenvorhänge waren zugezogen.
 
 Drinnen im Wagen war die Platzverteilung so, daß Dora
 Brown auf der vordersten Bank mit dem Rücken nach dem
-Chauffeur bin zwischen Breet und Malcolm saß. Dort
+Chauffeur hin zwischen Breet und Malcolm saß. Dort
 war sie von außen überhaupt nicht zu sehen.
 
 <@pagebreak/>
 Unter dem Gejohl der hoffnungsvollen Greifenberger
-Jugend — richtige Katzenmusik — setzte sie der Wagen
+Jugend — richtige Katzenmusik — setzte sich der Wagen
 in Bewegung.
 
 Die Chaussee verläuft zumeist ganz oben durch glatte
 Felder.
 
-Wir konnten von unseren Eisen alles weithin übersehen.
+Wir konnten von unseren Sitzen alles weithin übersehen.
 
 Wir sahen die beiden Landjäger, wir begegneten einigen
 Privatleuten, Radlern und Bauernwagen.
 
 Die Sonne brannte heiß hernieder. Einzelne Windstöße
-wirbelten zuweilen die Wolken Chausseestaub auf.
+wirbelten zuweilen dicke Wolken Chausseestaub auf.
 
 Dann wurde die Gegend bergiger und weniger Übersichtlich.
 
-Wir hatten Greifenberg weit hinter uns, als wir nach,
-einer buschreichen Biegung vor uns eine mit vier Pferde:t
+Wir hatten Greifenberg weit hinter uns, als wir nach
+einer buschreichen Biegung vor uns eine mit vier Pferden
 bespannte Straßenwalze erblickten. Sie stand quer über
 den Weg. Der eine Gaul war anscheinend gestürzt. Die beiden
 Landjäger redeten auf den Lenker der Straßenwalze ein und
@@ -2356,15 +2353,15 @@ schlug mit der Peitsche.
 
 Nun waren wir dicht heran. Der Autobus mußte halten.
 
-Der Kutscher, ein bärtiger, hagerer Main in schäbigen
+Der Kutscher, ein bärtiger, hagerer Mann in schäbiger
 Arbeiterkluft mit hohen Schmierstiefeln, winkte, — — wir
 sollten ihm helfen.
 
-Die Chaussee war hier frisch geschüttet, und der Boot:er
+Die Chaussee war hier frisch geschüttet, und der Schotter
 sollte festgewalzt werden.
 
 Harald und ich sprangen ab. Nach vieler Mühe hatten wir
-das Pferd hoch. Über es lahmte, hatte sich blutig geschlagen,
+das Pferd hoch. Aber es lahmte, hatte sich blutig geschlagen,
 und die Walze rührte und regte sich nicht.
 
 <@pagebreak/>
@@ -2377,7 +2374,7 @@ sich den Schweiß und grinste blöde.
 
 Harald wurde etwas nervös.
 
-»Schien Sie einen Ihrer Leute ein Stück zurück, damit
+»Schicken Sie einen Ihrer Leute ein Stück zurück, damit
 uns weder ein Radler noch ein Auto nahekommt,« schlug
 er dem Oberwachtmeister vor.
 
@@ -2388,46 +2385,46 @@ Hier, wo die Walze mit ihren beiden mächtigen Deichseln
 schräg über der Chaussee stand, war zum Glück weder Wald
 noch Gebüsch vorhanden.
 
-Mit den Pferden ließ sich. nichts anfangen. Sie waren
+Mit den Pferden ließ sich nichts anfangen. Sie waren
 völlig abgetrieben.
 
 Es blieb uns nichts übrig, als die Gäule auszuspannen
-und den Autobus als Zugmittel zu benutzen …
+und den Autobus als Zugmittel zu benutzen.
 
 Der alte betrunkene Kutscher war in den Chausseegraben
-gerettet und dort eingeschlafen … Er sank widerlich nach
-Sie und seine Nase und Augen bewiesen den Gewohnheitssäufer.
+getorkelt und dort eingeschlafen … Er stank widerlich nach
+Fusel und seine Nase und Augen bewiesen den Gewohnheitssäufer.
 
-Aus den Fielen der Pferde stellten wir ein Tau her.
+Aus den Sielen der Pferde stellten wir ein Tau her.
 Es wurde an der einen Deichsel und vorn am Autobus
 befestigt.
 
-Wandfach fuhr dieser rückwärts. Das Tau riß.
+Langsam fuhr dieser rückwärts. Das Tau riß.
 
-Die Arbeit begann von neuem …
+Die Arbeit begann von neuem.
 
 Die Gefangenen mußten aussteigen. Sie standen in
 engem Haufen da und grinsten.
 
-Wieder Rute der Autobus an. Wieder riß das Tau.
+Wieder Ruckte der Autobus an. Wieder riß das Tau.
 
-Ein neuer Versucht, die Deichseln herauszuziehen, mißglückte
+Ein neuer Versuch, die Deichseln herauszuziehen, mißglückte
 ebenfalls. Sie waren derart eingerostet, daß nur mit
 einem schweren Hammer etwas zu machen gewesen wäre.
 
 <@pagebreak/>
-Zum dritten Male knoteten wir die Fielen zusammen
+Zum dritten Male knoteten wir die Sielen zusammen
 und verdoppelten sie.
 
 Ganze vorsichtig fuhr der Chauffeur an.
 
-Das Tau spannte sich, fragte, knarrte …
+Das Tau spannte sich, knackte, knarrte …
 
 Mit einem Knall zerriß es …
 
 Abermals!
 
-Docht — — es war ein doppelter Knall gewesen …
+Doch — — es war ein doppelter Knall gewesen …
 
 Ein kurzer Aufschrei folgte …
 
@@ -2435,14 +2432,14 @@ Dora Brown sank langsam um. Malcolm fing sie auf.
 
 Niemand hatte auf den Kutscher geachtet …
 
-Er hatte geschossen …
+*Er* hatte geschossen …
 
 Er lief querfeldein, — — bückte sich, hob ein Fahrrad
-Du 5:45
+auf …
 
 Ein Feldweg schlängelte sich dort durch die wogenden
-Beinkleider. Im Nu war er verschwunden — in ein Tal
-Hinab 6 ck
+Kornfelder. Im Nu war er verschwunden — in ein Tal
+Hinab …
 
 Wir alle, die wir ahnungslos Zeugen dieses Attentats
 gewesen, waren sekundenlang wie gelähmt.
@@ -2458,8 +2455,8 @@ Verheiratete der Häftlinge bekam Schreikrämpfe,
 Ein Wachtmeister und wir beide blieben bei der Toten
 zurück. Der Autobus mit den anderen kehrte um.
 
-In einer Stunde war der Amtsrichter zur Stelle. Ins
-Zwischen hatte Harst die nahen Felder abgesucht und in
+In einer Stunde war der Amtsrichter zur Stelle. Inzwischen
+hatte Harst die nahen Felder abgesucht und in
 einem Weizenfeld den echten Kutscher gefesselt und geknebelt
 vorgefunden.
 
@@ -2467,15 +2464,15 @@ Es war ein jüngerer Mann. Er erzählte, daß der
 versoffene Alte zu ihm getreten sei und ihn plötzlich mit
 einer Pistole bedroht, gefesselt und in das Feld gejagt habe,
 <@pagebreak/>
-wo jener ihm auch knebelte. Was weiter geschah, wußte
+wo jener ihn auch knebelte. Was weiter geschah, wußte
 er nicht.
 
-Ich brauche hier über das teuflische RVaffinement, mit
+Ich brauche hier über das teuflische Raffinement, mit
 dem Müller das Attentat vorbereitet hatte, kein Wort
 mehr zu verlieren.
 
 Er hatte seine Rolle als Säufer glänzend gespielt. Seine
-Maske war erstklassig gewesen. Nicht einmal »Harald hatte
+Maske war erstklassig gewesen. Nicht einmal Harald hatte
 Verdacht geschöpft.
 
 Wie sollten wir auch?!
@@ -2489,12 +2486,12 @@ Und doch war’s eine Blamage für uns.
 Kein Wunder, daß wir uns von den Landjägern die
 Räder liehen und Müllers Verfolgung selbst ausnahmen.
 
-Was hierüber in den Zeitungen stand, stimmt: Die Rad
-Spur Müllers, die Harst nie aus dem Auge verlor, endete
+Was hierüber in den Zeitungen stand, stimmt: Die Radspur
+Müllers, die Harst nie aus dem Auge verlor, endete
 in einem Wäldchen. Hier lagen Rad, Stiefel, Anzug des
 Flüchtlings. Hier hatte er zweifellos schon vorher einen
 Rucksack mit anderen Kleidungsstücken versteckt gehabt, von
-hier verlor « sich seine Fährte vollkommen.
+hier verlor sich seine Fährte vollkommen.
 
 Auch die Polizei richtete nichts aus — gar nichts.
 
@@ -2504,9 +2501,9 @@ Flucht glänzend durchgeführt.
 <@pagebreak/>
 
 <h2>5. Kapitel.</h2>
-<h3>… Nach vier Monaten.</h3>
+<h3>Nach vier Monaten.</h3>
 
-Wenn die Wie damals Harst den Berliner gemacht
+Wenn die Zeitungen damals Harst den Vorwurf gemacht
 haben, insofern nachlässig gehandelt zu haben, als er den
 Burschen nicht beargwöhnt hätte: Hinterher kann jeder leicht
 den Schlaumeier spielen.
@@ -2519,19 +2516,19 @@ Unglück stürzen wollen, war tot.
 Die übrigen Verhafteten konnten oder wollten nicht über
 »Müller« aussagen.
 
-In London war aus John Brown zunächst eingesperrt
+In London war auch John Brown zunächst eingesperrt
 worden. Er leugnete, jemals einen »Müller« gekannt zu
-haben. Man mußte aha freilassen.
+haben. Man mußte ihn freilassen.
 
 Die Verhandlung gegen die Engländer verlief sehr glimpflich:
 Ein paar Wochen Gefängnis, Einmischung des englischen
 Botschafters … Strafaufschub …
 
 Der Vorhang fiel. Das Drama war zu Ende. Zwei
-Menschenleben hatte es gekostet. Aber — das wahre Spansznungsmoment
-dieser Tragödie blieb im Dunkeln. —
+Menschenleben hatte es gekostet. Aber — das wahre
+Spannungsmoment dieser Tragödie blieb im Dunkeln. —
 
-Bier Monate waren verflossen?!
+Vier Monate waren verflossen?!
 
 <@pagebreak/>
 An einem unfreundlichen Novemberabend saßen Harst
@@ -2544,7 +2541,7 @@ Psychologie des Verbrechens.
 
 Auch über berühmte ungeklärte Kriminalfälle.
 
-Harst lag im Klubsessel am Kamin und wehrte eine Selbstmorde
+Harst lag im Klubsessel am Kamin und wehrte eine herbstmatte
 Fliege ab …
 
 Ich ging hin und her.
@@ -2552,7 +2549,7 @@ Ich ging hin und her.
 Der Lautsprecher säuselte, die Worte Greifenberg …
 Müller … Brown …
 
-Da horten wir auf.
+Da horchten wir auf.
 
 Der Vortragende erwähnte den Fall Müller.
 
@@ -2570,19 +2567,19 @@ des dunklen Dramas kennenlernen.
 
 Meier aus Sydney war Erwin Müller,
 
-Sehr verehrte Herren,
+<p class="centered">Sehr verehrte Herren,</p>
 
-ich sende Ihnen diesen Brief eingeschrieben — heute am
-19\. Oktober, wo im? mich nach Amerika einschiffe. Die
+> ich sende Ihnen diesen Brief eingeschrieben — heute am
+19\. Oktober, wo ich mich nach Amerika einschiffe. Die
 Polizei soll mich nicht suchen. Es wäre Zeitvergeudung.
 
-Damals, als ich Sie beide in dem Hause an der
+> Damals, als ich Sie beide in dem Hause an der
 Schlucht im Keller eingesperrt hatte, war ich keinen Augenblick
 darüber in Zweifel, daß Sie sich befreien würden.
 Ich richtete mich danach. Ich hatte auch nie die Absicht,
-Selbstmord zu verüben. John Brown hätte sie darüber
+Selbstmord zu verüben. John Brown hätte sich darüber
 <@pagebreak/>
-nur gefreut. Übrigens habe ich mochte acht Tage nach dem
+nur gefreut. Übrigens habe ich noch acht Tage nach dem
 Attentat in Greifenberg im Hotel als Reisender in neuer
 Maske gewohnt. Mein Name ist Harry Meier. Ich bin
 geborener Berliner, war Kellner, ließ mich in England
@@ -2590,46 +2587,48 @@ naturalisieren, heiratete und trat zur Polizei über. Meine
 Frau starb kurz nach Margaretens Geburt. Ich nannte
 meine Tochter stets Grita.
 
-Da ich bei John Brown mehr zu verdienen hoffte,
+> Da ich bei John Brown mehr zu verdienen hoffte,
 wurde ich Angestellter. Grita hatte nun das Unglück, daß
 ein Herr, den Dora Brown gern geheiratet hätte, ihr den
 Hof machte. Ich ahnte nichts von Doras Niedertracht. Sie
 und ihr Vater erteilten mir den Auftrag, einen berüchtigten
 Einbrecher festzunehmen. Ich ermittelte, daß dieser im
-Palast Lord Korridore einsteigen wollte. Im Park des
-Palastes überraschte mich. der Lord, den ich im Dunkeln
-für den Verbrecher hielt und in der Notwehr niedrige es,
-Zweifellos haben die Browns den Lord vorher benannt
+Palast Lord Nacnoors einsteigen wollte. Im Park des
+Palastes überraschte mich der Lord, den ich im Dunkeln
+für den Verbrecher hielt und in der Notwehr niederschoß.
+Zweifellos haben die Browns den Lord vorher veranlaßt
 gehabt, im Park verkleidet aufzupassen. Dies wurde mir
-erst später klar. Als ir sah, was ich angerichtet hatte,
+erst später klar. Als ich sah, was ich angerichtet hatte,
 floh ich mit Grita. Die Browns verfolgten uns. Dora wollte
 mich vor den Richter bringen, damit Grita als Tochter
 eines Zuchthäuslers für den Mann, den Dora Brown
 für sich gewinnen wollte, für alle Zeit ausscheide. Grita
 hat diesen Herrn über alles geliebt. Damals, als sie sich
 vergiftete, hat ihr die Malcolm zweifellos einen Brief
-dieses Herrn gezeigt, d:r nun Dora Brown umwarb. Des
-halb ging mein Kind freiwillig aus dem Leben.
+dieses Herrn gezeigt, der nun Dora Brown umwarb. Deshalb
+ging mein Kind freiwillig aus dem Leben.
 
-Dies ist in knappen Zügen der Hauptinhalt meiner
+> Dies ist in knappen Zügen der Hauptinhalt meiner
 Lebenstragödie.
 
-Wenn Sie wieder einmal nach Flinsberg kommen
+> Wenn Sie wieder einmal nach Flinsberg kommen
 sollten, werden Sie auf Gritas Grab einen mächtigen Marmorblock
-finden, auf dem lediglich in Goldbuchstaben stets::
+finden, auf dem lediglich in Goldbuchstaben steht:
 
-Ruhe in Frieden.
+<p class="centered">Ruhe in Frieden.</p>
 
 <@pagebreak/>
-Darüber schwebt scheinbar eine goldene Sonne.
-Keine Sonne: Ein Tennisball soll es sein.
 
-Ich grüße Sie beide als Ihr ergebenster
-Harry Meier.
+> Darüber schwebt scheinbar eine goldene Sonne.
 
-Das war der ein? Brief dieser Abendpost.
+> Keine Sonne: Ein Tennisball soll es sein.
 
-Not ein zweiter war wichtig — von Vincent Saalborg,
+<p class="centered">Ich grüße Sie beide als Ihr ergebenster</p>
+<p class="centered">Harry Meier.</p>
+
+Das war der eine Brief dieser Abendpost.
+
+Noch ein zweiter war wichtig — von Vincent Saalborg,
 der mit seiner Frau zurzeit in München weilte.
 
 Dieser Brief vermittelte uns eine interessante Begegnung
@@ -2638,40 +2637,8 @@ Dora Brown in Friedeberg so schändlich für sich in Anspruch
 genommen hatte: Gussy Wendnoor!
 
 So lernten wir nun … die echte Gussy Wendnoor
-kennen. Es war durchaus keine reine Freude für uns,
+kennen. Es war durchaus keine reine Freude für uns.
 Gussy war »Erwin Müller« in verfeinerter Auflage …
 
 Davon später …
 
-<@pagebreak/>
-
-der Ablenkung, Entspannung und
-Erholung nach des Tages ewig gleicher
-Fronarbeit sollen die Harstbändchen
-bringen — nicht mehr. Der aufmerksame
-Leser wird trotz der Anspruchlosigkeit
-dieser Erzählungen dennoch auch
-Belehrung und Anregung darin finden.
-Die lebenswahre Schilderung von Land
-und Leuten, die scharfumrissene Gestaltung
-der Charaktere und die gesunde
-Spannung der eigenartigen Stoffe sind
-uns aus den verschiedensten Kreisen der
-Leser immer wieder bestätigt worden.
-Seit acht Jahren haben Harsts Abenteuer«—
-Erzählungen nur Freude und
-Unterhaltung gebracht. Schon dies sowie
-die vielen günstigen Beurteilungen gelb
-aus literarisch anspruchsvollen Kreisen
-beweisen, daß jeder Harstfreund mit
-Recht die Bändchen seinen Bekannten
-empfehlen kann. — Jede Buch- und
-Schreibwaren -Handlung hält die
-Harst-Erzählungen zum Preise von
-0,20 Rm. am Lager. Wo sie nicht zu
-haben sein sollten, bestelle man sie beim
-
-Verlag moderner Lektüre
-»ck— … in. b. H. —
-
-Berlin so 16, Michaelkirchstraße so.
