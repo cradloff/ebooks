@@ -522,7 +522,7 @@ aus.
 <@pagebreak/>
 
 <h2>3. Kapitel.</h2>
-<h3>Villa Wenk.</h3>
+<h3>Villa Menk.</h3>
 
 Der immerhin recht spannende Fall des grünen Wracks
 gehört zu jenen ganz besonderen Leistungen meines Freundes,
@@ -730,7 +730,7 @@ Terrasse lag die Dogge — tot.
 
 Daneben lag Xaver — bewußtlos. —
 
-Harald stürmte weiter. «Bleib’ bei Dürnhuber,« befahl er.
+Harald stürmte weiter. »Bleib’ bei Dürnhuber,« befahl er.
 
 Die Dinge waren so mit einem Schlage in ein neues
 Stadium getreten. Die Schüsse lockten eine Polizeistreife
@@ -796,7 +796,7 @@ fortfahren.
 <h3>Der Schreibtisch.</h3>
 
 Harald hatte die Tür nach der Diele von innen verriegelt,
-nachgaben wir eingetreten waren. Wir blieben im
+nachdem wir eingetreten waren. Wir blieben im
 Dunkeln minutenlang stehen und horchten auf die Schritte
 über uns, wo die Fremdenzimmer lagen, wo nun Dürnhuber
 und Menk sich entkleideten und, wie Harst angeordnet,
@@ -814,31 +814,31 @@ Blick glitt weiter … Ich musterte Bäume, Büsche …
 Da flüsterte Harald hinter mir:
 
 »Unnötig … Von dort ist nichts zu fürchten. Wenn
-das geschieht, was ich erwarte, wird der Mann von
+das geschieht, was ich erwarte, wird der Mann vom
 Korridor in das Boudoir eindringen. — Ziehen wir die
 Schuhe und die Jacken aus.« —
 
 Wir haben uns so manche Nacht um die Ohren geschlagen.
 Wir haben oft genug achtundvierzig Stunden und
-mehr Fein Auge zugetan. Auch das ist Training,
+mehr kein Auge zugetan. Auch das ist Training,
 
 Heute sollte sich alles weit rascher abspielen, als vorauszusehen
 war.
 
 <@pagebreak/>
 Wir postierten uns in Frau Alices Schlafgemach hinter
-dem Kostbarer altjapanischen Wandschirm, der den Ofen
-verdeckte. Rechts lag die Tür machte Menks Schlafzimmer
+dem kostbaren altjapanischen Wandschirm, der den Ofen
+verdeckte. Rechts lag die Tür nach Menks Schlafzimmer
 und links die nach dem Boudoir — beide nur mit schwerseidenen
 Vorhängen versehen, wie ich schon bemerkte. Die
-Türen uc dem Nur waren verschlossen und die Schlüssel
-0baezogeit — seit Jahren. Der HauSsSmeister hatte sie in
+Türen nach dem Flur waren verschlossen und die Schlüssel
+abgezogen — seit Jahren. Der Hausmeister hatte sie in
 Verwahrung.
 
 In der Villa herrschte jetzt vollkommenste Stille. Oben
-bei Wen? und Xaver rührte sich nichts mehr.
+bei Menk und Xaver rührte sich nichts mehr.
 
-Eis mochte eine halbe Stunde vergangen sein, als wir
+Es mochte eine halbe Stunde vergangen sein, als wir
 ein ganz schwaches Geräusch im Boudoir vernahmen. Die
 Flurtür war geöffnet worden. Ein geübtes Ohr erkennt
 unschwer, um welche Geräusche es sich handelt.
@@ -851,35 +851,34 @@ Vorhang rauschte ein wenig, eine Diele knarrte leise …
 
 Wir hatten uns erhoben.
 
-Ein Schauten glitt durchs das Gemach, lüftete den anderen.
+Ein Schatten glitt durch das Gemach, lüftete den anderen
 Vorhang nach Menks leerem Schlafzimmer hin.
 
-Der Schatten lauschte, ließ den Vorhang zurückstellen und
+Der Schatten lauschte, ließ den Vorhang zurückgleiten und
 kehrte um.
 
 Als er im Boudoir verschwunden, schlichen wir zur Tür.
-Spalt schob die Vorhänge auseinander, drei Finger breit …
+Harald schob die Vorhänge auseinander, drei Finger breit …
 
-Vor dem Schreibtisch; Frau Alices stand der Chauffeur
+Vor dem Schreibtisch Frau Alices stand der Chauffeur
 Diedrichsen auf Strümpfen mit einer eingeschalteten Taschenlampe.
-Er vertraute wohl auf Menks festen Schlaf, denn.
+Er vertraute wohl auf Menks festen Schlaf, denn
 er benahm sich durchaus nicht ängstlich.
 
 Diedrichsen war ein kleiner, hagerer Kerl mit einem
 typischen Sportgesicht. Man sagt, der moderne Autolenker
 besitzt ausgeprägte Sportzüge. Es stimmt in vielen Fällen.
-
 <@pagebreak/>
-Diedrichsen glich) etwa einem Joey, nur war die Kinnpartie
+Diedrichsen glich etwa einem Jockey, nur war die Kinnpartie
 vorgeschoben und die Kopfhaltung kraftvoller.
 
-Der Schreibtisch, ein echtes, altes, kostbares Rokokostück«
+Der Schreibtisch, ein echtes, altes, kostbares Rokokostück
 mit ganz seltenen Goldeinlagen, hatte unter der Platte
-drei Schiebladen und einen niedrigen, geschwungenen Aufs
-saß mit drei Türchen.
+drei Schiebladen und einen niedrigen, geschwungenen Aufsatz
+mit drei Türchen.
 
 Diedrichsen beleuchtete die linke Tür, führte einen Schlüssel
-in das Sclüsselloh&, drehte ihn nach links und zog dann
+in das Schlüsselloch, drehte ihn nach links und zog dann
 nicht etwa das Türchen auf, sondern vielmehr das ganze
 Fach samt der Tür heraus.
 
@@ -896,7 +895,7 @@ Es war höchste Zeit, ihm den Weg zu vertreten. Aber
 Harald rührte sich nicht.
 
 Diedrichsen drückte die Flurtür von außen zu, schloß
-ab, 303 den Schlüssel heraus, und — alles war still.
+ab, zog den Schlüssel heraus, und — alles war still.
 
 Ich wunderte mich.
 
@@ -907,9 +906,9 @@ eilte, es aufriß und in den Garten hinabsprang.
 
 Der Mond war inzwischen hinter einer von Nordwest
 aufsteigenden Wolkenwand verschwunden. Das pechschwarze
-Peinvoll stand bereits über der Villa, scharf abgegrenzt gegen
+Gewölk stand bereits über der Villa, scharf abgegrenzt gegen
 den noch sternenklaren Teil des Firmaments: wie ein dunkles
-Du, das langsam über eine RViesenglocke gezogen wird.
+Tuch, das langsam über eine Riesenglocke gezogen wird.
 
 Ich stand am Fenster und beobachtete, wie die Dunkelheit
 draußen immer mehr zunahm. Dabei mußte es in kaum
@@ -917,21 +916,22 @@ einer Stunde Tag werden. Mußte …
 
 <@pagebreak/>
 Es begann zu tröpfeln, ganz sacht … Der Regen
-rauschte sanft hernieder, warm und sein und seltsam beruhigend.
+rauschte sanft hernieder, warm und fein und seltsam
+beruhigend.
 
-Was bedeutete es, fragte ins mich, daß der Chauffeur
+Was bedeutete es, fragte ich mich, daß der Chauffeur
 das Päckchen Briefe geholt hatte?! Woher kannte er das
 Geheimfach im Schreibtisch der toten Frau Alice Menk?
 Was waren es für Briefe, die er in dieser Nacht, wohl
 auf Befehl des unbekannten Feindes Eduard Menks, in
-Sicherheit gebracht haite?!
+Sicherheit gebracht hatte?!
 
 Flüchtig nur dachte ich an die Möglichkeit, daß Menk
 selbst gewisse wichtige Schriftstücke in dem Geheimfach verborgen
 haben könnte, — Papiere, deren Besitz dem »Feinde«
 eine neue Waffe in die Hand gaben.
 
-Rein, es hatte keinen Zweck, diese Dinge jetzt schon
+Nein, es hatte keinen Zweck, diese Dinge jetzt schon
 klären zu wollen. Sie hingen wie haltlos in der Luft,
 an unsichtbaren Fäden, — Marionetten, die »der Feind«
 tanzen ließ.
@@ -941,12 +941,12 @@ uns mitgeteilt und was nun weiter von hier in der
 Villa geschehen, war an der Existenz dieses Feindes nicht
 zu zweifeln.
 
-Es regnete stärker. Der Park war wie in Fliehen gehüllt.
+Es regnete stärker. Der Park war wie in Schleier gehüllt.
 Falls Harald die Absicht hatte, Diedrichsen nachzuschleichen
 und etwa zu beobachten, wem dieser das Päckchen
-auslieferte oder wo er es verbarg, kam der Regen seherwünscht.
-— An anderes dachte ich … draußen auf der
-Terrasse lag Seiten, wurde nun völlig durchnäßt … Armes
+auslieferte oder wo er es verbarg, kam der Regen sehr
+erwünscht. — An anderes dachte ich … draußen auf der
+Terrasse lag Hektor, wurde nun völlig durchnäßt … Armes
 Tier! Er war mir ans Herz gewachsen, genau wie Harald.
 Er hatte sein Leben lassen müssen, weil ein Schurke, der
 kaltblütig seine Rachepläne ausgeführt, nun die Aufdeckung
@@ -955,7 +955,7 @@ seiner Schandtaten fürchtete. —
 Und da … — ich hatte mich vorgebeugt und nach
 rechts zur Terrasse hinübergeblickt — da erschien plötzlich
 <@pagebreak/>
-neben mir etwas Dunkle? — — ein Kopf — — ein
+neben mir etwas Dunkles — — ein Kopf — — ein
 Mensch, der am Weinspalier sich emporschwang …: Xaver
 Dürnhuber!
 
@@ -971,21 +971,21 @@ Mir war’s, als ob eine Riesenfaust mir die Kehle
 zuschnürte … Ich achtete kaum darauf, was Xaver noch
 weiter sprach: daß er droben in seinem Zimmer nicht hatte
 einschlafen können, daß er sich zum Fenster hinausgelehnt
-und gesehen hatte, daß Harst jemandem im Parke Nachttisch
+und gesehen hatte, daß Harst jemandem im Parke nachschlich
 … Da war er dann am Spalier hinabgeklettert
 und hinterdrein geeilt, leider zu spät …
 
 Nein, ich hörte gar nicht hin … Ich sprang plötzlich
 in den Park hinab, lief der Bootsbrücke zu … Xaver
-folgte mir. Und Dom war’s Unsinn, was ich tat. Wenn
+folgte mir. Und doch war’s Unsinn, was ich tat. Wenn
 Harald in den Fluß gestürzt war, wenn er betäubt gewesen,
 dann hatte auch er hier sein Ende gefunden, wie der arme
 Hektor …
 
 Nun machte ich an der äußersten Spitze der Bootsbrücke
 halt … Nun sagte Dürnhuber, indem er mir die Hand
-auf die Schulter legte: »Herr Schraut, — san’s ne! traurig …
-Helfe komm’ wir ne! mehr … Aber Vergeltung öde, dö8 wer’n
+auf die Schulter legte: »Herr Schraut, — san’s net traurig …
+Helfe könn’ wir net mehr … Aber Vergeltung übe, dös wer’n
 wir … I’ woaß mehr, als Sie denken …«
 
 Der Regen fiel in nassen Schnüren auf uns hernieder,
@@ -1006,48 +1006,48 @@ Bootsgeräte verschlossen gehalten wurden.
 Xaver führte mich dorthin. Dieser junge Mensch, der
 noch vor wenigen Tagen über stumpfsinnigen Abschriften
 gebrütet und dabei immerfort mit seinem Geschick gehadert
-hatte, war durch4 die Bekanntschaft mit uns ein völlig
+hatte, war durch die Bekanntschaft mit uns ein völlig
 anderer geworden. Daß er klar und logisch und schnell
 zu denken verstand, daß er mit seinen frohen, blitzenden
 Augen mehr sah, als er’s verriet, bewies er jetzt. — Zunächst
 fragte er mich, was unten in Menks Schlafzimmer und
 den angrenzenden Räumen geschehen war.
 
-Mein Bericht, beeinflußt Furche die Angst um Harst, war
+Mein Bericht, beeinflußt durch die Angst um Harst, war
 sicherlich sehr verworren. Trotzdem meinte Dürnhuber nun:
 
 »Wir müssen halt Herrn Menk nachher fragen, ob er
 das Geheimfach kennen tut … — So, jetzt hören’s hin,
 Herr Schraut … Ich weiß mehr, sagt’ ich vorhin. Und
-dies »Mehr« bezieht sich auf Herrn. Menk … Er lag
+dies »Mehr« bezieht sich auf Herrn Menk … Er lag
 <@pagebreak/>
 doch droben im Zimmer nebenan, und die Tür war offen.
-Er sprach im Schlaf … Ich such’, solche Leut’, die im Schlaf
+Er sprach im Schlaf … Ich find’, solche Leut’, die im Schlaf
 laut reden, haben immer was zu verbergen … Er sprach
-immer nur einzelne Worte, kurze Säße … von seiner
+immer nur einzelne Worte, kurze Sätze … von seiner
 Frau … Er muß sie sehr geliebt haben … so sehr, daß
 er sie für eine Heilige hält … Seine Frau muß einen Bruder
 haben, — das ging aus seinen Reden hervor — und dieser
 Bruder war gegen die Heirat. — Wir werden Menk danach
 fragen. Er muß ehrlich sein. Ohne ihn finden wir den
-»Feind« nie … Der Feind kann dieser Bruder Frau
+»Feind« nie … Der Feind *kann* dieser Bruder Frau
 Alices sein, kann … — Kommen Sie, die Sache duldet
 keinen Aufschub … Erst wenn Menk gesprochen hat, werden
 wir uns darüber schlüssig werden können, ob wir die Polizei
 verständigen.«
 
 Es war selten geschehen, daß ich mich in einer Lage
-wie der jetzigen, wo im um Harald bangte, mich so vollständig
-durc4 einen Dritten beeinflussen ließ. Allerdings — meine
+wie der jetzigen, wo ich um Harald bangte, mich so vollständig
+durch einen Dritten beeinflussen ließ. Allerdings — meine
 Gedanken waren nicht bei der Sache, waren nur bei dem,
 der nun vielleicht als Toter der Elbmündung zutrieb. Fast
 willenlos schritt ich neben Dürnhuber her … Ich ließ mir
 beim Erklettern des Weinspaliers helfen, obwohl die starken,
 grünen Latten, an denen echter Wein sich fast bis zum
-Dach emporrankte, wie eine sichere Leiter den Aufstieg
+Dach emporrankte, wie eine *sichere* Leiter den Aufstieg
 vereinfachten.
 
-Droben. in dem Fremdenzimmer, das für Harst und
+Droben in dem Fremdenzimmer, das für Harst und
 mich bestimmt gewesen, schlief Eduard Menk fest und ruhig,
 — selbst als Xaver die Deckenlampe einschaltete, regte er
 sich nicht.
@@ -1061,18 +1061,18 @@ Stübchen sofort aufgefallen war.
 Menk hatte Harsts violettseidenen Schlafanzug übergezogen.
 
 Noch etwas benommen saß er nun in der Sofaecke und
-blinzelte »uns müde an. Erst als ich von den Geschehnässen
+blinzelte uns müde an. Erst als ich von den Geschehnissen
 in dem kleinen Salon seiner Gattin, von Diedrichsens Flucht
 mit dem Päckchen Briefe und von Haralds leider nur zu
 wahrscheinlichem Tode sprach, öffnete er die Augen ganz
 weit und starrte mich verständnislos an.
 
 Gerade er, der nach seinen jahrelangen mißglückten Versuchen,
-das Rätsel des grün überwucherten Wracks — zu
-lösen, an nichts mehr Interesse genommen und wie Schaffner,
+das Rätsel des grün überwucherten Wracks zu
+lösen, an nichts mehr Interesse genommen und wie Ahasver,
 wie der ewige Jude unstät von Ort zu Ort, von Land zu
 Land gepilgert war, vermochte auch jetzt noch nicht seine
-Gedanken mit jener Ausschaltung alles Nebensächlichen, auf
+Gedanken mit jener Ausschaltung alles Nebensächlichen auf
 bestimmte Vorgänge zu konzentrieren. Seine Ideenwelt war
 sein Weib, sein Kind gewesen, die Trauer um beide. Die
 Tragödie selbst, das große Geheimnis, das darin mit verwoben,
@@ -1081,7 +1081,7 @@ Umherschweifens, seiner inneren Umwandlung in einen Einsiedler
 inmitten des großen Touristenverkehrs. So war Menk
 ein schwacher, haltloser Charakter geworden, ein Mensch
 von jenem Egoismus aller Vielgeprüften, die ihr Leid zum
-Wochen erhoben haben.
+Götzen erhoben haben.
 
 Er sagte ungläubig: »Ein Geheimfach — — und Briefe?!
 Ich weiß nichts davon.«
@@ -1090,11 +1090,10 @@ Dürnhuber meinte scharf: »Harst ist vielleicht ertrunken,
 Herr Menk!«
 
 Menk verstand den Vorwurf. Er schaute mich mitleidig
-an, schüttelte dann gehöre« den Kopf und entgegnete bestimmt:
+an, schüttelte dann jedoch den Kopf und entgegnete bestimmt:
 »Ein Harst ertrinkt nicht so leicht.« — Es war dies eine
 neue Seite seiner widerspruchsvollen Persönlichkeit. Oder
 — es war der Menk von einst, der nun wieder für kurze
-
 Zeit auferstand — wie bisher stets in Momenten, wo es
 <@pagebreak/>
 sich um das große Rätsel gehandelt hatte, wo sein Leid
@@ -1104,10 +1103,10 @@ ich niemals glauben, lieber Schraut. Ihr Freund mag von
 der Brücke in den Fluß gestürzt sein, aber — dieser Diedrichsen
 als sein Mörder, das wäre ein schlechter Scherz der Vorsehung!«
 
-Merkwürdig, — diese Worte Mächten Eindruck. Xaver
+Merkwürdig, — diese Worte machten Eindruck. Xaver
 sagte leise: »Da haben Sie recht, Herr Menk …« — Und
-ich ward hoffnungsfroh der, meinte: »Es ist ja richtig, Harald
-kann den Sturz ins Wasser Absicht ich als Folge des
+ich ward hoffnungsfroher, meinte: »Es ist ja richtig, Harald
+kann den Sturz ins Wasser Absichtlich als Folge des
 Hiebes Diedrichsens vorgetäuscht haben. — Womit schlug
 der Chauffeur denn zu, Xaver?«
 
@@ -1115,7 +1114,7 @@ der Chauffeur denn zu, Xaver?«
 
 »So also war’s!« Ich atmete erleichtert auf … Ich
 mußte sogar lächeln … Denn Harst und Diedrichsen, —
-zu ungleiche Gegner? Harald hätte unbedingt den Hieb
+zu ungleiche Gegner! Harald hätte unbedingt den Hieb
 parieren und seinerseits den kleinen Chauffeur mit Leichtigkeit
 niederboxen können.
 
@@ -1125,15 +1124,15 @@ irgend etwas erreicht hat, was die Dinge wesentlich fördert.
 Vielleicht ist er Diedrichsen auf der Spur …«
 
 Dürnhuber sagte da: »Wenn er lebt, ist er mit im
-Motorboot oder du jedenfalls neben dem Boot geblieben …
+Motorboot oder doch jedenfalls neben dem Boot geblieben …
 irgendwie …« Xaver geriet in Feuer. »Desto mehr Ursache
-haben wir, alles zu tun, was aus unsererseits Harsts
+haben wir, alles zu tun, was auch unsererseits Harsts
 Arbeit unterstützen kann. Herr Menk, Sie haben vorhin
 im Schlaf gesprochen. Sie erwähnten einen Bruder Ihrer
 Frau. Kann dieser Bruder, der wohl Erwin heißt, nicht
 Ihr Feind sein?«
 
-Menks Gesicht umwölkte sich. »Wein Schwager Erwin
+Menks Gesicht umwölkte sich. »Mein Schwager Erwin
 ist tot,« sagte er hart. »Er ging auf dem Dampfer »Ariadne«
 <@pagebreak/>
 vor vier Jahren mit unter. Die »Ariadne« rannte im Nebel
@@ -1144,35 +1143,34 @@ und nur der Schiffsjunge rettete sich.«
 ein. »Wie standen Sie mit diesem Erwin, Herr Menk?«
 
 Menk war dieses schroffe Verhör sichtlich peinlich. Sein
-Hamburger Patrizierstolz leuchtete kalt-ablehnend in dem —
-Bis, mit dem er nun Dürnhuber musterte. »Ich denke, —
+Hamburger Patrizierstolz leuchtete kalt-ablehnend in dem 
+Blick, mit dem er nun Dürnhuber musterte. »Ich denke, —
 diese Familiengeschichten sind hier gegenstandslos,« erwiderte
 er nur.
 
 »Ihrer Ansicht!! Herr Schraut und ich denken anders.
 Zwischen Ihnen und Ihrem Schwager muß es ernsteste
 Zerwürfnisse gegeben haben. Es wäre sehr unrecht von
-Ihnen, angesichts. der Tatsache, daß der Schreibtisch Ihrer
+Ihnen, angesichts der Tatsache, daß der Schreibtisch Ihrer
 Gattin ein Geheimfach und Briefe enthielt, die Ihnen unbekannt,
 die aber Diedrichsen als dem Helfershelfer Ihres
-Feindes bekannt, mit Einzelheiten über diesen Erwin zurück
+Feindes bekannt, mit Einzelheiten über diesen Erwin zurückzuhalten.«
+—
 
-zuhalten.« —
 Ich war verblüfft. War das noch Xaver, der unbedeutende
-Kanzlist?! — Ader — ich war auch froh, daß
-
+Kanzlist?! — Aber — ich war auch froh, daß
 er so energisch auftrat.
 
 Menk sagte unruhig, aber nachgiebig: »Nun gut …
-Hören Sie denn … — Ich lernte Alice Gruber naht dem
+Hören Sie denn … — Ich lernte Alice Gruber nach dem
 Tode meiner Eltern kennen, in Berlin … Sie war Waise
 wie ich und lebte mit ihrem Bruder Erwin zusammen. Ihr
 Vater war Geheimer Medizinalrat gewesen, sie selbst verdiente
 als Malerin und Zeichnerin ihr Brot, Erwin war
-Bankbeamter. Nacht unserer Verlobung nahm ich ihn als
+Bankbeamter. Nach unserer Verlobung nahm ich ihn als
 Prokurist in unsere Firma auf. Sein Leichtsinn war grenzenlos.
 Vor unserer Hochzeit schob ich ihn, nachdem ich seine
-Gulden bezahlt hatte, nach Java ab, wo wir Kaffeeplantagen
+Schulden bezahlt hatte, nach Java ab, wo wir Kaffeeplantagen
 besitzen. Er benutzte den Frachtdampfer »Ariadne« zur Überfahrt.
 Sein Tod wurde uns acht Tage nach der Hochzeit
 <@pagebreak/>
@@ -1188,16 +1186,16 @@ war eine Aufnahme aus seiner Verlobungszeit: Er, Alice,
 Erwin.
 
 Wir betrachteten die Photographie. Dürnhuber blickte
-mich fragend an, und ich mußte ertönen:
+mich fragend an, und ich mußte erklären:
 
 »Es kann der Mann sein, der Frau Söttegast uns entführte
 … Es kann! Freilich war die Beschreibung, die
 uns der Hauswart gab, nicht allzu genau.«
 
-»Es … kann!!« triumphierte Xaver. »In Priminalfällen
-muß man Fuchs mit Möglichkeiten operieren. Ich, wette,
-die Briefe, die he? Chauffeur stahl, waren Briefe des
-»toten« Erwins an Ihre Gattin, Herr Menks«
+»Es … kann!!« triumphierte Xaver. »In Kriminalfällen
+muß man auch mit Möglichkeiten operieren. Ich wette,
+die Briefe, die der Chauffeur stahl, waren Briefe des
+»toten« Erwins an Ihre Gattin, Herr Menk!!«
 
 <@pagebreak/>
 
@@ -1206,11 +1204,11 @@ die Briefe, die he? Chauffeur stahl, waren Briefe des
 <h2>1. Kapitel.</h2>
 <h3>Vermutungen …</h3>
 
-— Hätte im für diesen zweiten Teil einen anderen
-Titel gewählt — den Titel, der den Umständen nach der
+— Hätte ich für diesen zweiten Teil einen anderen
+Titel gewählt — *den* Titel, der den Umständen nach der
 einzig richtige, so würde ich den Leser sofort mit der
 Nase auf den Kern des Geheimnisses gestoßen haben. Das
-wollte im nicht.
+wollte ich nicht.
 
 Künstliches Land genügt … Es besagt dasselbe, nur
 umschrieben — —
@@ -1220,7 +1218,7 @@ zu Freund Dürnhuber:
 
 »Sie verbeißen sich auf etwas, das außerhalb aller
 Erwägungen liegt. Sie wollen meinen Schwager Erwin
-zum doppelten Mörder machen. Das würde er’ nie geworden
+zum doppelten Mörder machen. Das würde er nie geworden
 sein, selbst wenn er wirklich noch lebte. Mein Schwager
 <@pagebreak/>
 war ein Feigling, Außerdem traue ich ihm derartiges
@@ -1228,14 +1226,14 @@ nicht zu.«
 
 Xaver meinte nur, und er gab damit einen neuen Beweis
 seiner geistigen Regsamkeit: »Wenn Sie damals ebenfalls
-ertrunken wären, Herr Wenk: wer hätte Sie beerbt?«
+ertrunken wären, Herr Menk: wer hätte Sie beerbt?«
 
 »Ganz entfernte Verwandte.«
 
-»Im — und wenn Ihr Schwager wieder aufgetaucht
+»Hm — und wenn Ihr Schwager wieder aufgetaucht
 wäre — immer angenommen, daß Sie mit verunglückt
-wären —, und wenn er um die Erbschaft einen Protest
-angestrengt hätte mit der Behauptung, Sie seien vor Ihrer
+wären —, und wenn er um die Erbschaft einen Prozeß
+angestrengt hätte mit der Behauptung, Sie seien *vor* Ihrer
 Frau ertrunken und diese hätte somit auf ihren Pflichtteil
 Ihres Vermögens Anspruch, dann würden die Erben sich
 fraglos mit ihm verglichen haben und bei dem Vergleich
@@ -1250,7 +1248,7 @@ Menk erwiderte sehr ablehnend: »All das ist blasse
 Theorie, lieber Xaver. Sie wollen hier durchaus einen
 Grund für das geheimnisvolle Verbrechen konstruieren, aber
 Sie übersehen dabei, daß »mein Feind« mich bequem auch
-nachts dem Zusammenstoß mit dem Frage, als ich auf den
+nach dem Zusammenstoß mit dem Wrack, als ich auf den
 Wogen trieb, hätte töten können, denn es mußten sich ja auf
 dem scheinbaren Wrack Menschen befinden, und diesen konnte
 es kaum entgangen sein, daß ich die Katastrophe überlebt
@@ -1258,24 +1256,24 @@ hatte.«
 
 Dieser Einwand war stichhaltig.
 
-Ich erklärte daher, indem im zum Fenster hinauswies:
+Ich erklärte daher, indem ich zum Fenster hinauswies:
 »Der Morgen bricht an, und wir quälen uns hier mit leeren
 Vermutungen ab. Das Rätsel wird nur immer dunkler, je
 <@pagebreak/>
-nachdrücklicher man es gleichsam abtastet« Gehen wir schlafen.«
+nachdrücklicher man es gleichsam abtastet. Gehen wir schlafen.«
 
 Ich muß daran erinnern, daß ich auf Strümpfen war,
-daß die Strümpfe nach waren und ich daher fror.
+daß die Strümpfe naß waren und ich daher fror.
 
 Menk erhob sich sofort. »Sie haben ganz recht, lieber
 Schraut … Gute Nacht. Ich werde mein Schlafzimmer aufsuchen,
-vorher will ich mir aber rote den Schreibtisch
+vorher will ich mir aber noch den Schreibtisch
 ansehen.« Er gab mir die Hand, ebenso Xaver, — der
 jedoch bat, ihn noch begleiten zu dürfen. »Das Geheimfach
-interessiert mich, Herr Wenk …«
+interessiert mich, Herr Menk …«
 
 So war ich denn in dem Fremdenzimmer allein. Und
-mir war’s nur Lieb. Ich war nicht müde, hatte aber das
+mir war’s nur lieb. Ich war nicht müde, hatte aber das
 Geschehene nochmals zu überdenken. Ich öffnete den Koffer,
 entnahm der Zigarrenkiste eine meiner Lieblingsgiftnudeln
 und klappte den Koffer zu.
@@ -1284,19 +1282,19 @@ Als ich mich umdrehte, stand vor dem offenen Fenster
 mein alter Harald — pudelnaß, aber mit seinem lieben
 gutmütigen Lächeln um die Lippen.
 
-»Morgen, mein Alter … Hast dicht sehr um mich gesorgt
+»Morgen, mein Alter … Hast dich sehr um mich gesorgt
 … war überflüssig. — Hilf mir schnell ein Bündel
 mit trockenen Sachen zusammenzupacken. Ich habe es eilig.
 Diedrichsen floh mit dem Motorboot auf einen großen
 Kutter, der drüben am anderen Ufer ankerte und sofort
 Segel setzte. Es war ein Fischkutter … — Frage nichts.
-Hut mir … Ich will euch dreien vorzustellen. Wäre Menk
-die?, würde er allzu viel wissen wollen. Übrigens — das
-Pärchen Briefe habe ich Friedlichen doch abgejagt, aber
+Hilf mir … Ich will euch dreien vorauseilen. Wäre Menk
+hier, würde er allzu viel wissen wollen. Übrigens — das
+Päckchen Briefe habe ich Friedlichen doch abgejagt, aber
 er glaubt natürlich, die Briefe und ich liegen auf dem
 Grund der Elbe. Der Glaube soll ihm erhalten bleiben.
-Verschweige Menk und Xaver meine Anwesenheit hier, des
-naächrichtige die Polizei und tue ganz so, als hieltest du
+Verschweige Menk und Xaver meine Anwesenheit hier,
+benachrichtige die Polizei und tue ganz so, als hieltest du
 mich für tot. — Nun rasch … Ich brauche den blauen
 abgetragenen Anzug, zwei Perücken, Schminke, Wäsche,
 Schuhe …«
@@ -1306,15 +1304,15 @@ Ich war noch immer ziemlich sprachlos. Harald liebt
 ja derartige Überraschungen. Anderen fallen sie auf die
 Nerven. So mir …
 
-Er ließ mir seine Zeit, irgendetwas zu äußern. In
+Er ließ mir keine Zeit, irgendetwas zu äußern. In
 wenigen Minuten war das Bündel fertig und er enteilte
 durch das zweite Fremdenzimmer — das Spalier hinab
-— in den Bark. Ich schaute ihm nach, wie er zwischen den
+— in den Park. Ich schaute ihm nach, wie er zwischen den
 Bäumen im Regen verschwand. Seine letzten Worte lauteten:
-»Mietet eine Jacht und kreuzt nachts vor »Pellworm, am
-Tage haltet euch außer Sicht der Insel …
+»Mietet eine Jacht und kreuzt nachts vor Pellworm, am
+Tage haltet euch außer Sicht der Insel …«
 
-Das war alles. Es genügte ja will.
+Das war alles. Es genügte ja auch.
 
 Ich setzte mich mit meiner Zigarre in die Sofaecke.
 Ich wollte Xavers Rückkehr erwarten.
@@ -1323,28 +1321,28 @@ Er erschien denn auch sehr bald, verriegelte die Flurtür,
 schaute mich an, schaute sich im Zimmer um und
 nahm mir gegenüber mit einem merkwürdigen Lächeln Platz.
 Auch dieses Lächeln war an ihm neu. Er, der bescheidene
-kleine Kanzlist, hatte sich gründlich verändert. Sein Gelbvstbewußtsein
-war erwacht.
+kleine Kanzlist, hatte sich gründlich verändert. Sein
+Selbstbewußtsein war erwacht.
 
-Wieder blickte er mir recht überlegen in die Fugen,
+Wieder blickte er mir recht überlegen in die Augen,
 meinte: »Haben Sie mir etwas mitzuteilen, Herr Schraut?«
 
 Ich hatte das bestimmte Gefühl, daß er ahnte, Harald
 sei hier gewesen.
 
-»Wie war?8 denn mit dem Schreibtisch?« lernte ich
+»Wie war’s denn mit dem Schreibtisch?« lenkte ich
 ziemlich plump ab.
 
-Er … lächelte. »Oh, da war nicht viel zu 6.0 Mk
+Er … lächelte. »Oh, da war nicht viel zu seh’n …
 Nur auf dem Teppich davor waren nasse Stellen … Und
-der Schlüssel Menks wollte nicht recht schließen,! — —
+der Schlüssel Menks wollte nicht recht schließen, — —
 weil Herr Harst vorher mit einem primitiven Nachschlüssel
-das Schloß geöffnet hatte, nehme ihm an … Und dann
+das Schloß geöffnet hatte, nehme ich an … Und dann
 war er hier oben … Dort auf den Dielen bei den Koffern
 <@pagebreak/>
 sind zwei verschiedene nasse Spuren, Herr Schraut. Ein
 gewachster Fußboden hält Fährten ziemlich lange fest —
-bekanntlich. — Das sollten Sie mir mitteilen …«
+bekanntlich. — *Das* sollten Sie mir mitteilen …«
 
 »Sie … Sie sind ein Frechdachs, lieber Xaver!!« —
 Was sollte ich anderes sagen?!
@@ -1356,15 +1354,15 @@ Harst für tot gelten?«
 
 »Ja. Wir sollen sogar die Polizei benachrichtigen.«
 
-»So … »so … — Und das  wollen’s erst tun, nachdem
+»So … so … — Und das  wollen’s erst tun, nachdem
 wir ausgeschlafen haben?! Nehmen’s mir nicht übel, —
 aber wenn jemand um ein Menschenleben besorgt ist, wartet
-er nicht a. bis neun Stunden, nein, dann telephoniert
-er gleich) … Wozu steht dort der Apparat?!«
+er nicht acht bis neun Stunden, nein, dann telephoniert
+er gleich … Wozu steht dort der Apparat?!«
 
 Es war beschämend für mich, mir derart von einem
 Neuling Vorhaltungen machen zu lassen. Aber Dürnhuber
-war im Recht. Ich schluckte die bittere Pille und stand!
+war im Recht. Ich schluckte die bittere Pille und stand
 auf und blätterte im Fernsprechverzeichnis. Dann rief ich
 die nächste Polizeiwache an, teilte das Nötige mit und
 bat nach Diedrichsen zu fahnden. Der Beamte, der mit
@@ -1380,15 +1378,15 @@ Villa zu senden. —
 
 Dagegen ließ sich nichts machen. Xaver mußte also
 <@pagebreak/>
-nohmoals zu Menk hinab und ihm erklären, daß die Angst
+nochmals zu Menk hinab und ihm erklären, daß die Angst
 um Harald mich doch veranlaßt habe, die Polizei zu benachrichtigen.
 
 Jedenfalls: Mit dem Schlafen wurde es wieder nichts!
 
 Es war fünf Uhr morgens, als der Kriminalkommissar
 und sein Begleiter mit uns die Bootsbrücke am Elbufer
-aufsuchen, wo Xaver den Hergang genau schildern mußte.
-Natürlich wurde auch der Schreibtisch, unsere Wache in Frau,
+aufsuchten, wo Xaver den Hergang genau schildern mußte.
+Natürlich wurde auch der Schreibtisch, unsere Wache in Frau
 Alices Schlafzimmer, kurz — alles wurde so zur Sprache gebracht,
 nur das eine nicht, daß Harald bereits wieder
 aufgetaucht war. Dann wollte der Kommissar Diedrichsens
@@ -1406,27 +1404,27 @@ Ich hatte von jeher unbegrenzte Hochachtung vor den
 Deutschen Polizeiorganen gehabt. Ich habe dies hier immer
 wieder betont, ich habe es nie begriffen, daß Kriminalschriftsteller
 läppischerweise die Polizei als Idioten hinstellen, —
-erst seht nicht, daß ein Rann wie Conan Dohle die englischen
+erst recht nicht, daß ein Mann wie Conan Doyle die englischen
 Detektive geradezu als Narren brandmarkt: ein billiger
 und schlechter Scherz.
 
 Der immerhin noch junge Kriminalkommissar, der hier
 in der Villa Menk nun die Untersuchung führte (sein Name
-tut nichts zur Sachen, war einer von jenen modernen,
-tadellos geschulten Herren, denen man so leicht nichts vermacht.
+tut nichts zur Sache), war einer von jenen modernen,
+tadellos geschulten Herren, denen man so leicht nichts vormacht.
 Er sprach sehr wenig. Er ließ uns reden. Seine
 Fragen waren kurz und klar. Ihm zu verschweigen, daß
 Harst und ich des geheimnisvollen Wracks und des Todes
-Frau Alices und des Kindes wegen hier na Hamburg
+Frau Alices und des Kindes wegen hier nach Hamburg
 gekommen, war unmöglich.
 
 Wir gingen nun also nach der Garage. Der Kommissar
-blieb neben mir. Ich fühlte mich dabei recht unbehaglich. Nie
+blieb neben mir. Ich fühlte mich dabei recht unbehaglich. Die
 gemessene Höflichkeit meines Begleiters hatte etwas Bedrohliches.
 
 »Sie sind doch Fachmann, Herr Schraut,« sagte er
 auf dem Wege durch den regennassen Park. »Wie kommt
-es, daß gerade Sie noch nicht daran gehängt haben, die Garage
+es, daß gerade Sie noch nicht daran gedacht haben, die Garage
 oder besser Diedrichsens Stube zu durchsuchen?«
 
 Fachmann — allerdings, dachte ich. Aber heute hatte
@@ -1440,7 +1438,7 @@ erwiderte ich kühl.
 »Diese Rücksichtnahme ist bei Ihnen ungewöhnlich, Herr
 Schraut,« meinte der Herr an meiner Seite nur und
 streifte mich im Morgengrauen mit einem für mich ungemütlichen
-Bis.
+Blick.
 
 Wir stiegen die Treppe zu der Chauffeurwohnung empor.
 Der Kommissar öffnete oben die nur angelehnte Tür. In
@@ -1448,9 +1446,9 @@ dem zweifenstrigen Stübchen brannte das Licht.
 
 Drüben der Tür gegenüber neben dem Kachelofen hing
 Diedrichsen an einem Wandhaken in einer Schlinge — tot
-— erhängt. Unter ihm lag ein umgestoßener Klub.
+— erhängt. Unter ihm lag ein umgestoßener Stuhl.
 
-»Bleiben Sie zurück, meine Herren,« befahl der Kom2Mmissar
+»Bleiben Sie zurück, meine Herren,« befahl der Kommissar
 und trat allein ein, winkte seinem Beamten und
 schloß dann die Tür.
 
@@ -1462,38 +1460,38 @@ getroffen.
 Xaver … flüsterte scheu: »Der ist aufgeknüpft worden!!
 Das ist des Feindes drittes Verbrechen!«
 
-Wenk war sehr bleich, lehnte an der Wand und tupfte
+Menk war sehr bleich, lehnte an der Wand und tupfte
 sich den kalten Schweiß ab. Ich nickte Xaver nur zu.
 Für mich unterlag es keinem Zweifel: der Feind hatte hier
 den Mitwisser beseitigt! —
 
-Die beiden Beamten blicken. nur kurze Zeit in der
-Stube. Schweigend, ernst kamen ein heraus.
+Die beiden Beamten blieben nur kurze Zeit in der
+Stube. Schweigend, ernst kamen sie heraus.
 
 »Gehen wir!« sagte der Kommissar.
 
 Sein Begleiter radelte dann davon. Er selbst bat, mich
 allein sprechen zu dürfen. Wir gingen in das Fremdenzimmer
-»nach oben. Dort, — wo vorhin Dürnhuber gesessen
-und mich. gefragt hatte, ob ich ihm nichts mitzuteilen
+nach oben. Dort, — wo vorhin Dürnhuber gesessen
+und mich gefragt hatte, ob ich ihm nichts mitzuteilen
 <@pagebreak/>
 hätte, saß nun der junge Kriminalkommissar, ein Gentleman,
-ein Mann mit harmlosem Gesicht, — ohne jegliches Merkmal«
+ein Mann mit harmlosem Gesicht, — ohne jegliches Merkmal
 seines Berufs, wie’s die Herren Kollegen von der Feder
-diesen staatlichen — Menschenjägern anzudichten pflegen.
+diesen staatlichen Menschenjägern anzudichten pflegen.
 
 Mein Gegenüber begann sachlich:
 
 »Herr Schraut, der Fall des grünen Wracks von vor
 vier Jahren ist mir durchaus nicht neu. Ich war damals
 erst kurze Zeit Kommissar. Meine Vorgesetzten schickten mich
-nachts Pellworm, gerade mich, weil ich schon wiederholt
-Schmugglerkniffe aufgedeckt hatte. Ich? habe nichts Positives
-feststellen können, aus nicht über den Selbstmord jenes
+nach Pellworm, gerade mich, weil ich schon wiederholt
+Schmugglerkniffe aufgedeckt hatte. Ich habe nichts Positives
+feststellen können, auch nicht über den Selbstmord jenes
 Kaufmanns Kurt Söttegast. — Ich bin also im Bilde … —
 Was hielt Herr Harst von alledem?«
 
-Der gegen tröpfelte gegen die Fenster, und meine
+Der Regen tröpfelte gegen die Fenster, und meine
 Augen hingen an Haralds halb geleertem Koffer, der noch
 offen war. Ich nahm mich zusammen, tat unbefangen und
 erwiderte: »Harst hat mir leider seine Ansicht nicht mitgeteilt.
@@ -1508,13 +1506,13 @@ nun. »Haben Sie das vermutet, Herr Schraut?«
 hängte. Herr Menk hat einen Feind, das ist jetzt erwiesen.
 Wer kann das sein?«
 
-Widerstrebend gab im Xavers Kombinationen betreffs
+Widerstrebend gab ich Xavers Kombinationen betreffs
 Erwin Grubers Preis, betonte aber sofort, daß gegen diese
-Annahme, daß Menks Schluchzen noch lebe und mit dem
+Annahme, daß Menks Schwager noch lebe und mit dem
 Wrack etwas zu tun habe, sehr vieles spräche.
 
 »Allerdings,« bestätigte der schweigsame Kommissar.
-»Immerhin ist es eine Spur. — Ich habe durch meinen.
+»Immerhin ist es eine Spur. — Ich habe durch meinen
 Beamten jetzt die Strompolizei alarmieren lassen. Ich vermute,
 der »Feind« hatte ein Fahrzeug zur Verfügung.
 Alle Fahrzeuge werden angehalten werden.« — Er liebte
@@ -1554,36 +1552,36 @@ zu fördern.«
 
 »Und was hatte er vor?«
 
-»Das weiß ich nicht. Wir sollten eine Jacht mitten
-und nachts vor Pellworm kreuzen, am Tage a92« außer
+»Das weiß ich nicht. Wir sollten eine Jacht mieten
+und nachts vor Pellworm kreuzen, am Tage aber außer
 Sicht uns halten.«
 
 »Diese Jacht werde ich beschaffen,« erklärte mein Gegenüber.
 »Ich komme mit. Es sei denn, daß wir das Fahrzeug
-des »Feindes« rosa in der Elbe fassen. Hat Harst dieses
+des »Feindes« noch in der Elbe fassen. Hat Harst dieses
 Fahrzeug erwähnt?«
 
-»3X — ein Kutter, der sofort Segel hißte, nachdem
+»Ja — ein Kutter, der sofort Segel hißte, nachdem
 Diedrichsen an Bord gekommen war.«
 
 <@pagebreak/>
-»Also ein Kutter … — Einen Augenblicks …
+»Also ein Kutter … — Einen Augenblick …«
 
-Er ging zum Schreibtisch und telephonierte, Bis nur:
+Er ging zum Schreibtisch und telephonierte, sagte nur:
 »Jensen, melden Sie den Stationen: Das Fahrzeug ist
 ein Kutter.«
 
 Er setzte sich wieder. Er blieb unverändert liebenswürdig.
 
 »Herr Schraut,« meinte er lebhaft, »der Fall »Grünes
-Wrack« ist nun wieder mit neuen. Komplikationen aufs
-gelebt. Ich glaube, Erwin Gruber steckt als verbissener
-Kraft hinter alledem. Nur eine ist mir unbegreiflich: Söttegast
-war an Bord des Wracks, Er fand es leer. Keine Seele
+Wrack« ist nun wieder mit neuen Komplikationen aufgelebt.
+Ich glaube, Erwin Gruber steckt als verbrecherische
+Kraft hinter alledem. Nur eins ist mir unbegreiflich: Söttegast
+war an Bord des Wracks. Er fand es leer. Keine Seele
 war zu bemerken, erzählte er seiner Frau nach seiner Rückkehr
-von der Segelpartie. Das Des sei mit Erde, Pflanzen,
-Büschen, kleinen Bäumen gefällt gewesen. Und — nachmittags
-erschoß er sie in den Dünen. Er wurde erschossen.
+von der Segelpartie. Das Deck sei mit Erde, Pflanzen,
+Büschen, kleinen Bäumen gefüllt gewesen. Und — nachmittags
+erschoß er sich in den Dünen. Er wurde erschossen.
 Er sollte nichts Näheres zu Protokoll geben können — wie
 Diedrichsen. Es ist eine unheimliche, rätselhafte Geschichte.
 Ich selbst habe früher an Schmuggler geglaubt. Heute glaube
@@ -1591,38 +1589,38 @@ ich vorläufig an diesen Erwin Gruber als Täter. Aber —
 nur vorläufig. Und Sie?«
 
 Ich muß zugeben, daß die ganze Art dieses befähigten
-jungen Beamten mich aufgerüttelt hatte. Wein trainiertes
+jungen Beamten mich aufgerüttelt hatte. Mein trainiertes
 Hirn arbeitete wieder flüssiger.
 
 »Harst sagte mir vorhin, als er hier heimlich einen Teil
 seiner Sachen aus dem Koffer holte, daß er das Päckchen
-Briefe Diedrichsen abgenommen habe,« erklärte iG9 ehrlich.
-»Hier? Briefe, behaupte ich, sind der Schlüssel des Ganzen.«
+Briefe Diedrichsen abgenommen habe,« erklärte ich ehrlich.
+»Diese Briefe, behaupte ich, sind der Schlüssel des Ganzen.«
 
 Ich wollte noch etwas hinzufügen. Es klopfte jedoch,
 und herein trat Xaver mit seinem strahlendsten Gesicht.
 
-»Ich hab’s!« rief er halblaut … »Ich hab’s …- Sie
-entschuldigen, Herr Kommissar? … ich komme soeben aus
+»Ich hab’s!« rief er halblaut … »Ich hab’s … Sie
+entschuldigen, Herr Kommissar … ich komme soeben aus
 Diedrichsens Stube … Dies fand ich im Ofen hinter einer
-geborenen Kachel … Bitte …!!«
+gelockerten Kachel … Bitte …!«
 
 <@pagebreak/>
 
-<h2>8. Kapitel.</h2>
+<h2>3. Kapitel.</h2>
 <h3>Die sprechende Puppe.</h3>
 
 Wir waren aufgesprungen …
 
-Was Xaver Dürnhuber uns da mit einer wahren NapoLeon28geste
+Was Xaver Dürnhuber uns da mit einer wahren Napoleonsgeste
 hinhielt, war durchaus nichts Besonderes. Im
-Gegenteil: Enttäuschung malte sich ja unseren Gesichtern.
+Gegenteil: Enttäuschung malte sich in unseren Gesichtern.
 
 Dieses Etwas war ein schmaler Pappkarton, oben offen,
 eingehüllt in rötliches Pergamentpapier, das, zur Seite
 gedrückt, den Inhalt der Schachtel freigab.
 
-Ein Wieder hätte diese Schachtel enthalten können —
+Ein Mieder hätte diese Schachtel enthalten können —
 der Form nach.
 
 Aber — es war eine … Puppe darin, ein kleines,
@@ -1642,47 +1640,47 @@ Xavers frischer, freier Blick musterte uns erstaunt.
 
 <@pagebreak/>
 »Wie, Sie schätzen meinen Fund so gering ein?«
-fragte er sichtlich gereizt. »Ich denk’, dö8 Püppchen hier
-erzählt a ganze G’shiht’, meine Herren …« Xaver verfiel
-im Eifer wieder halb in seinen Tölzer Dialekt. »an
-G’schicht von an’ Kind, das noch leben tut … von die
+fragte er sichtlich gereizt. »Ich denk’, dös Püppchen hier
+erzählt a ganze G’schicht’, meine Herren …« Xaver verfiel
+im Eifer wieder halb in seinen Tölzer Dialekt. »A
+G’schicht’ von an’ Kind, das noch leben tut … von die
 kleine Tochter von ’n Herrn Menk …«
 
 Immer noch blieb uns Xavers Gedankengang fremd.
 
-»Schaun’s, ich mein’ des so, die Herren … der Feind
+»Schaun’s, ich mein’ dös so, die Herren … der Feind
 von ’n Herrn Menk hoat das Kindel damals gerettet und
-hoat’s noch bei sich … Es Madel sein Zeit so ung’fähr
+hoat’s noch bei sich … Dös Madel sein heit so ung’fähr
 sechs Jahr alt, und da hat der »Feind« dem Diedrichsen
 befohlen, a Püpperl zu kaufen. bisher hatt’ aber der
-Chauffeur ’8 nett abliefern können, und da. blieb’s halt in
-van Versteck im Ofen … —« Bitt’ schön, hier ist der Kassenzettel
+Chauffeur ’s net abliefern können, und da blieb’s halt in
+san Versteck im Ofen … — Bitt’ schön, hier ist der Kassenzettel
 … Das Püpperl ist im Juni gekauft, hier in Hamburg,
-am zwölften, und da war Herr Wen? ein paar Sag’
-daheim … — Kurz und Qual: das kleine Madel lebt! Dabei
-bleib’ 4tt«
+am zwölften, und da war Herr Menk ein paar Tag’
+daheim … — Kurz und guat: das kleine Madel lebt! Dabei
+bleib’ i!!«
 
 Der Kommissar sagte nur: »Sie haben Phantasie, Herr
-Dürnhuber«
+Dürnhuber!«
 
 Ich jedoch pflichtete Xaver bei. »So ganz von der
-Hand zu weisen ist diese Vermutung mit!! — Geben Sie
-den Karton Sofa einmal her, lieber Xaver …«
+Hand zu weisen ist diese Vermutung nicht! — Geben Sie
+den Karton doch einmal her, lieber Xaver …«
 
 »Bitt’ scheen …«
 
 Ich nahm die Puppe heraus. Sie hatte auf einem Bett
 von Seidenpapier gelegen und unter diesem Papier fand
-im einen Brief, der am 9. Juni in Husum aufgegeben
+ich einen Brief, der am 9. Juni in Husum aufgegeben
 war, adressiert an Chauffeur Diedrichsen.
 
 Er lautete, ohne Datum und Ortsangabe:
 
-Anbei dreihundert Mark. Kaufen Sie eine mittelgroße,
+> Anbei dreihundert Mark. Kaufen Sie eine mittelgroße,
 schöne Puppe mit beweglichen Augen, die sprechen
 kann. Der Rest ist für Sie. Senden Sie mir fernerhin
 <@pagebreak/>
-postlagernd Bericht nach Husum, Jan wie bisher durch
+postlagernd Bericht nach Husum, Depeschen wie bisher durch
 Kurzwellen, Welle 39. — W. K.
 
 Die Handschrift dieses kurzen Briefes war überaus energisch,
@@ -1691,7 +1689,7 @@ schmucklos, steil, klar.
 Der Kommissar nahm mir den Brief ab und steckte ihn
 zu sich …
 
-»Gehen wir in die Garage!t« Er
+»Gehen wir in die Garage!«
 
 Inzwischen war die Leiche Diedrichsens bereits fortgeschafft
 worden, was mich wunderte. Ich war daran gewöhnt,
@@ -1701,22 +1699,22 @@ zu haben, daß ein Verbrechen vorlag.
 
 Der Kommissar, schweigsam wie bisher, begann des
 Chauffeurs Stube und die angrenzende Schlafkammer nochmals
-zu durchsuchen. Auf dem kleinen Tisch; neben det
+zu durchsuchen. Auf dem kleinen Tisch neben der
 Tür dicht am Fenster war uns schon vorhin ein offenbar
 selbstgebauter Vierröhrenempfänger aufgefallen. Diedrichsen
-schien Bastler gewesen zu sein. Er hatte eine Andern«
+schien Bastler gewesen zu sein. Er hatte eine Antenne
 von einem Mast auf dem Dache der Garage nach dem
-Park zu gespannt. Sie lag frei, hatte Filzschuh am Fenster
+Park zu gespannt. Sie lag frei, hatte Blitzschutz am Fenster
 und eine gute Erdleitung. Der Empfänger wieder besaß
-eine hochmoderne Schaltung. Als der Kommissar ihn auf«-
-klappte, sahen wir erst, wie sorgfältig er gearbeitet war. Innen
-lag ein Bogen Papier mit einer geschriebenen Bedienungs
-Vorschrift. Diese zeigte dieselbe Handschrift wie der »PuppensBrief«,
+eine hochmoderne Schaltung. Als der Kommissar ihn aufklappte,
+sahen wir erst, wie sorgfältig er gearbeitet war. Innen
+lag ein Bogen Papier mit einer geschriebenen Bedienungsvorschrift.
+Diese zeigte dieselbe Handschrift wie der »Puppen-Brief«,
 der Xavers Annahme so vollständig bestätigt hatte.
-Den Apparat hatte also der »Feind« hergestellt, wie die Bedienungs8vorschrift
-bewies.
+Den Apparat hatte also der »Feind« hergestellt, wie die
+Bedienungsvorschrift bewies.
 
-Der Kommissar meinte nur: »Der Mann ist technisch vor gebildet.
+Der Kommissar meinte nur: »Der Mann ist technisch vorgebildet.
 Eine so komplizierte Schaltung, eine so saubere
 Lötarbeit der Verbindungen bringt kein Laie fertig.«
 
@@ -1725,17 +1723,17 @@ dem Briefe nach vorhanden sein mußte. Diesmal war ich
 <@pagebreak/>
 der Glückliche. Unter dem Fenster war die Tapete im Viereck
 ganz unauffällig aufgeschnitten und auf ein Brett geklebt,
-das die Tür eines Geistes in der Mauer darstellte. Hier
+das die Tür eines Verstecks in der Mauer darstellte. Hier
 stand der Sender nebst Zubehör, ein ganz moderner Amateursender,
 ebenfalls Bastlerarbeit.
 
 Die Frage, wie Diedrichsen seinem Auftraggeber eilige
 Nachrichten hatte zukommen lassen, war geklärt, zugleich war
 aber auch offenbar geworden, daß der »Feind« mit allen
-Mitteln gearbeitet hatte, Menks Tun und Lassen zu Wertvolleren.
+Mitteln gearbeitet hatte, Menks Tun und Lassen zu kontrollieren.
 
-»Es ist unheimlich, diese Spionage,« sagte der Kommissar;
-»Wir können uns wieder entfernen. ihm werde das Zimmer
+»Es ist unheimlich, diese Spionage,« sagte der Kommissar.
+»Wir können uns wieder entfernen. Ich werde das Zimmer
 abschließen und versiegeln.«
 
 Draußen war’s ganz hell. Der Kommissar verabschiedete
@@ -1743,7 +1741,7 @@ sich. »Legen Sie sich jetzt schlafen, meine Herren. Nachmittags
 um fünf bin ich wieder hier.«
 
 Wir fanden Eduard Menk in der Vorhalle. Er hatte
-Doktors Kadaver in die Vorhalle gebracht und stand neben
+Hektors Kadaver in die Vorhalle gebracht und stand neben
 dem toten Tiere. Sein Gesicht war sehr fahl. »Ich war
 oben im Fremdenzimmer,« meinte er mit einem prüfenden
 Blick auf uns. »Was hat die Puppe zu bedeuten?«
@@ -1756,53 +1754,53 @@ aufgestiegen.«
 Xaver erklärte, welche Schlußfolgerungen er aus dem
 Fund der Puppe gezogen hatte.
 
-Menk zitterten die Beine. Er fiel in einer der altertümlichen
+Menk zitterten die Beine. Er fiel in einen der altertümlichen
 Armsessel …
 
 »Wenn … mein … Kind lebt, dann … dann ist doch
-Gewirr Gruber dieser … dieser … wem in ’ Menschengestalt,
+Erwin Gruber dieser … dieser … Teufel in Menschengestalt,
 ein Satan mit doppelter Seele … Er muß Edlinde lieben …
-I5o ist mein Kind?!«!
+Wo ist mein Kind?!«
 
 <@pagebreak/>
 Es war eine Szene, die jeden erschüttert hätte. Dieser
 Vater, der den Verlust von Weib und Kind nie überwunden,
-Jab sie einer immerhin doch ungewissen Hoffnung gegenüber.
+sah sich einer immerhin doch ungewissen Hoffnung gegenüber.
 Er wagte es nicht, dieser Hoffnung in seinem Herzen
-Raum. zu gewähren. Zweifel peinigten ihn, und völlig
+Raum zu gewähren. Zweifel peinigten ihn, und völlig
 geistesabwesend wiederholte er:
 
 »Wo ist mein Kind?«
 
 Dürnhubers Augen zwinkerten … Er kämpfte mit
-Tränen … Er wollte fest bleiben, aber e« war jung und
-ein paar blanke Perlen rannen ihm nun doch über, die
+Tränen … Er wollte fest bleiben, aber er war jung und
+ein paar blanke Perlen rannen ihm nun doch über die
 gebräunten straffen Wangen.
 
 »Wir werden sie finden,« preßte er hervor … »Herr
 Harst ist an der Arbeit …«
 
-Da schaute Menk mich an. »Ja … Harst,/« nickte er.
+Da schaute Menk mich an. »Ja … Harst,« nickte er.
 »und Sie, lieber Schraut?«
 
 »Edlinde lebt,« meinte ich gerührt. »Ich zweifele nicht
 daran. Bedanken Sie sich bei unserem Xaver, der Ihnen
 diese Gewißheit verschaffte, ein unerwartetes Geschenk! Mag
-— Ihr Schwager ein Mörder sein, — wenn etwas Der
-folgendes in seinem verderbten Charakter ist: Es ist seine
+Ihr Schwager ein Mörder sein, — wenn etwas Versöhnendes
+in seinem verderbten Charakter ist: Es ist seine
 Liebe zu dem Kinde, — wie Sie schon andeuteten. — Und
 Nun, lieber Menk, werde ich Ihnen aus unserer Reiseapotheke
 eine Tablette geben. Sie müssen schlafen. Denken
-Sie daran, daß uns vielleicht schwere, anstrengende Tag
+Sie daran, daß uns vielleicht schwere, anstrengende Tage
 an Bord der Jacht bevorstehen, die der Kommissar bereithält,
 falls der Kutter nicht gefunden wird. Der Kommissar
 will sich genau an Harsts Anordnung halten und vor
 Pellworm kreuzen …«
 
-Menk war einsichtsvoll genug, meine Mahnung zu be’Herzigen.
+Menk war einsichtsvoll genug, meine Mahnung zu beherzigen.
 
 Eine Stunde später schliefen wir drei den tiefen Schlaf
-Körperlichen und seelischen Abspannung. — —
+körperlicher und seelischer Abspannung. — —
 
 Nachmittags fünf Uhr …
 
@@ -1815,16 +1813,16 @@ Nun saß der Kommissar mit uns am prunkvollen Kaffeetisch.
 
 Der Kutter war nicht erwischt worden. In Husum war
 das Motorrad nicht abgeholt worden. Aber die Beamten
-des Bahnhof kannten es. Eis sollte einem älteren Herrn gehören,
+des Bahnhof kannten es. Es sollte einem älteren Herrn gehören,
 der irgendwo im Binnenlande wohnte. Wo — wußte
-niemand. Der Herr war graubärtig, etwas halte und trug
+niemand. Der Herr war graubärtig, etwas bucklig und trug
 Brille. Das war alles.
 
-»Es ist unser Mann,« sagte der Kommissar. »Ei einer
+»Es ist unser Mann,« sagte der Kommissar. »In einer
 neuen Verkleidung … — Heute abend elf Uhr verlassen
 wir Hamburg mit der Jacht »Niobe«, in aller Stille und
-Heimlichkeit, denn ich reine damit, daß unser Mann hier
-noch; mehr Spione hat.« — Viele Worte waren nicht
+Heimlichkeit, denn ich rechne damit, daß unser Mann hier
+noch mehr Spione hat.« — Viele Worte waren nicht
 seine Art. Leute dieses Schlages liebe ich.
 
 Er verabschiedete sich bald und erteilte uns noch genaue
@@ -1840,7 +1838,7 @@ Erwin Gruber sein könne.
 Die »Niobe« war eine 200-Tonnen-Jacht, als Zweimastschoner
 getakelt, hatte Hilfsmotor und gehörte einem höheren
 Polizeibeamten Hamburgs. Die Besatzung bestand aus zwölf
-Beamten der Strompolizei. Wir waren also insgesamt sechzehn.
+Beamten der Strompolizei. Wir waren also insgesamt sechzehn
 Personen an Bord. —
 
 Drei Tage später war’s …
@@ -1851,15 +1849,16 @@ Die »Niobe« trieb mit gerefften Segeln an der Westküste
 der Insel Pellworm vorüber — zum ersten Male …
 
 Wir standen mit Ferngläsern an der Reling, gewahrten
-jedoch) nur ganz vereinzelte Lichtpünktchen drüben an Land
+jedoch nur ganz vereinzelte Lichtpünktchen drüben an Land
 und warteten umsonst auf ein Boot, das uns Harst bescheren
-
 sollte.
-Wir hatten die Insel hinter uns.«
+
+Wir hatten die Insel hinter uns.
+
 Auf der mondhellen See tauchte in der Ferne ein dunkler
 Fleck auf.
 
-»Das ist die Hallig Schluderrook,/« erklärte Menk. »Der
+»Das ist die Hallig Schluderrook,« erklärte Menk. »Der
 einzige Bewohner dort war’s, der mich mit seinem Kutter
 damals auffischte und nach Pellworm brachte …«
 
@@ -1867,7 +1866,7 @@ Der Kommissar ergänzte sachlich:
 
 <@pagebreak/>
 »Dieser Bewohner ist ein früherer Ingenieur, der im
-Ausland reiß wurde und dann die Hallig Schluderrook
+Ausland reich wurde und dann die Hallig Schluderrook
 kaufte — vor sechs Jahren. Er hat dem Meere immer mehr
 Boden abgewonnen. Heute ist die Hallig fünfmal so groß …
 Der Mann kämpft mit der Nordsee um jeden Meter Land, —
@@ -1878,25 +1877,25 @@ unterstützt ihn. Gerade hier an der Nordmark ist jeder Fußbreit
 neuen Bodens doppelter Gewinn.«
 
 »Ein Robinson also,« meinte Xaver begeistert. »Lebt
-er denn Dietrich ganz allein auf dem Inselchen?«
+er denn wirklich ganz allein auf dem Inselchen?«
 
 »Zumeist ja, Herr Dürnhuber. Nur wenn er seine Deiche
-
 vortreibt, hat er eine Anzahl Arbeiter bei sich. Ein Sonderling
 eben, ein genialer Eisenkopf fraglos …«
-»39h habe damals nachts vor vier Jahren nicht viel
+
+»Ich habe damals nachts vor vier Jahren nicht viel
 von ihm gesehen,« warf Menk nachdenklich ein. »Es war
 so finster … Der Mann war sehr wortkarg … Als ich
 ihm danken wollte, wurde er grob. In der Kajüte seines
-Kutters war’s sehr bezahlt. Ich glaube, er heißt William
+Kutters war’s sehr behaglich. Ich glaube, er heißt William
 Karlsen — oder so ähnlich.«
 
 Xaver, der neben mir stand, stieß mich heimlich an
 und flüsterte:
 
-»Herr Schraut, W … Irrtum K … Felsen, W. Art …!!«
+»Herr Schraut, W…illiam K…arlsen, W. K. …!!«
 
-Au ich hatte mir über diesen Namen bereits so meine
+Auch ich hatte mir über diesen Namen bereits so meine
 Gedanken gemacht: Der Brief an Diedrichsen der Puppe
 wegen war W. K. unterzeichnet gewesen; Diedrichsens Radioapparate
 hatte ein Fachmann gebaut, und Karlsen war Ingenieur.
@@ -1908,17 +1907,17 @@ Die Stimme des Kommissars erklang neben uns, lauter
 und härter als bisher:
 
 <@pagebreak/>
-»Er heißt William Karsten, und wenn Harst in dieser
+»Er heißt William *Karsten*, und wenn Harst in dieser
 Nacht nicht zu uns an Bord kommt, werden wir auf Schluderrook
 landen und Karsten verhaften.«
 
-Wenk fuhr herum. Er begriff die wahre Bedeutung
+Menk fuhr herum. Er begriff die wahre Bedeutung
 dieser Worte. Er starrte den Kommissar an und fragte
-stehend:
+stockend:
 
 »Sie meinen, daß Karsten … mein Feind ist?!«
 
-»Ja. Herr Abstand und Herr Dürnhuber glauben dasselbe.
+»Ja. Herr Schraut und Herr Dürnhuber glauben dasselbe.
 Es spricht zu vieles gegen diesen Ingenieur. Ich vermute,
 Herr Schraut, unsere Verdachtsgründe sind die gleichen
 und entstanden im gleichen Moment, — als Herr Menk
@@ -1930,7 +1929,7 @@ Menk lehnte mit hängenden Armen an der Reling.
 Schwager Erwin,« quälte er hervor. »Er ist mir ein Wildfremder
 … Ich habe ihn nie vorher gesehen gehabt, nie …
 Nur in jener Nacht sah ich ihn — zum erstenmal, das
-könnte ich jederzeit beschwören. Wie kann der Wann also
+könnte ich jederzeit beschwören. Wie kann der Mann also
 mein Feind sein?! Er fischte mich ja aus dem Wasser
 auf!! Er rettete mich!!«
 
@@ -1939,11 +1938,11 @@ Frau und Kind hinzugeben!« sagte er Kommissar hart, —
 und das waren auch meine Gedanken.
 
 Menk schüttelte wie unwillig den Kopf. »Das ist ja
-widersinnig!! Ein mir. Fremder, der mich so hassen soll?!
+widersinnig!! Ein mir Fremder, der mich *so* hassen soll?!
 Woher dieser Haß?! Und dann: Karten saß in seinem
 Kutter, und das Wrack war längst verschwunden, dieses
 unheimliche Ding, von Geisterhänden gelenkt, von Geisterhänden
-Geflügel!! Erklären Sie mir: Wie kann ein Wrack,
+beflügelt!! Erklären Sie mir: Wie kann ein Wrack,
 umsponnen von Pflanzen, ohne eine lebende Seele an Bord,
 wie feststeht, durch Karstens Willen meine Jacht gerammt
 haben?!«
@@ -1958,13 +1957,13 @@ Die »Niobe« wendete. Wir glitten abermals an der
 Küste von Pellworm entlang.
 
 Es war genau zwei Uhr, als wir vor uns ein Boot
-schießen. Ein einzelner Ruderer saß darin: Harst!
+sichteten. Ein einzelner Ruderer saß darin: Harst!
 
-Er stand vor uns. Das Boot wurde an He gehißt.
+Er stand vor uns. Das Boot wurde an Deck gehißt.
 Er nickte uns nur zu, stellte sich dem Kommissar vor und
 sagte:
 
-»Bitte — — dort!!?«
+»Bitte — — dort!!«
 
 Er wies nach Westen.
 
@@ -1974,21 +1973,22 @@ Vier Seemeilen von uns entfernt trieb das grüne Wrack —
 auf den langen Wogen des Ozeans …
 
 Ein Ruf des Kommissars …
+
 Die »Niobe« ließ den Motor arbeiten. Wir nahmen
-Kurs auf das Frage …
+Kurs auf das Wrack …
 
 Ungeheure Erregung pochte in unseren Adern. Nur
 Harst blieb ruhig.
 
 Nur Harst blieb stumm …
 
-Alle Fragen überhörte er»…
+Alle Fragen überhörte er …
 
 Wir kamen näher …
 
 Wir sahen …
 
-Da trieb es »wirklich, das »grüne Wrack …
+Da trieb es wirklich, das grüne Wrack …
 
 Mit seinen Büschen, Pflanzen, Ranken von Dornen
 und wildem Wein …
@@ -2002,14 +2002,14 @@ Masten, ohne ein Zeichen von Leben …
 
 Noch näher kamen wir …
 
-Du? »Niobe« umkreiste es …
+Die »Niobe« umkreiste es …
 
 Kaum dreißig Meter ab …
 
 <@pagebreak/>
 Menk stieß einen gellenden Schrei aus. Soeben war der
-Scheinwerfer der Jacht aufgeblitzt, beleuchtete die Backbords
-wand, in der oben ein Loch klaffte, von Grün umrankt … —
+Scheinwerfer der Jacht aufgeblitzt, beleuchtete die Backbordwand,
+in der oben ein Loch klaffte, von Grün umrankt … —
 ein Leck hoch über der Wasserhöhe …
 
 Eine grüne Grotte …
@@ -2017,15 +2017,15 @@ Eine grüne Grotte …
 Nicht leer …
 
 Und — das war’s, was Menk den Schrei entlockt hatte,
-das Bild:
+*das* Bild:
 
-Ein großer Menschenaffe, ein Kinnpartie, kauerte da
+Ein großer Menschenaffe, ein Schimpanse, kauerte da
 in dem grünen Loch, in den Armen ein kleines Mädchen,
-— zärtlich) das Kind umschlingend …
+— zärtlich das Kind umschlingend …
 
 Ein Bild, wie geboren aus wirrsten Fieberträumen … —
 
-»Edlinde!!« schrie Menk Staubes. »Edlinde — — mein
+»Edlinde!!« schrie Menk hinüber. »Edlinde — — mein
 Kind!«
 
 Der Kommissar aber rief: »An Bord — Bord an
@@ -2041,19 +2041,19 @@ Bootshaken holten zu reißendem Schwung aus …
 Das Kind reckte die Ärmchen … Der Affe fletschte
 die Zähne …
 
-Mit einem Male ging’s wie ein Ruf durch das
-Wracks …
+Mit einem Male ging’s wie ein Ruck durch das
+Wrack …
 
 Es … fuhr … Es entglitt uns …
 
-An seinem Her schäumte das quirlende Wasser arbeitender
+An seinem Heck schäumte das quirlende Wasser arbeitender
 Schrauben.
 
 Es fuhr — — es war schneller als die »Niobe« …
 
 Es entschwand … die Umrisse wurden unklar,
 
-Mem weinte.
+Menk weinte.
 
 <@pagebreak/>
 
@@ -2062,18 +2062,17 @@ Mem weinte.
 
 — Wenn ich an jene Nacht zurückdenke, wenn ich
 Heute, wo ich diese lebendigen Erinnerungen niederschreibe,
-— mir jene Szenen anders der »Niobe« wieder vergegenwärtige,
+— mir jene Szenen an Deck der »Niobe« wieder vergegenwärtige,
 als das Wrack uns höhnend entrann, als Menk
 wie ein Irrer aufheulte und nach seinem Kinde schrie, als
-
-die Besatzung fluchend uns umdrängte, — — & war ein
+die Besatzung fluchend uns umdrängte, — — es war ein
 Moment, wie Harst ihn liebt, um halbe Enthüllungen zu
 geben.
 
 »Dort im Norden — ein Kutter!« sagte er, ohne das
-Glas von den Augen zu nehmen. »Karstens Kutter … Ick
+Glas von den Augen zu nehmen. »Karstens Kutter … Ich
 war anderthalb Tage auf Hallig Schluderrook … Und ich
-weiß nun alles, — Lassen Sie auf den Kutter zuhalten, Herr
+weiß nun alles. — Lassen Sie auf den Kutter zuhalten, Herr
 Kommissar …«
 
 Und zu Menk — in ganz anderem Tone:
@@ -2084,28 +2083,28 @@ werden Sie es in Ihre Arme schließen.«
 
 Der Kommissar trat wieder zu uns.
 
-»Herr Harst, im dürfte wohl um einige Aufklärungen
+»Herr Harst, ich dürfte wohl um einige Aufklärungen
 bitten …« — sehr dienstlich sprach er, er wollte sich nicht
-ausschalten lassen. hing den Kutter verfolgen? Das
-Wrack ist doch wichtiger …
+ausschalten lassen. »Weshalb den Kutter verfolgen? Das
+Wrack ist doch wichtiger …«
 
 <@pagebreak/>
-»Sobald der Kutter von uns der Hallig zugeklappt
-wird, holen wir auch das Blatt ein … Sobald die Entfernung
-zwischen Kutter und Wracks zu groß, versagt eben
+»Sobald der Kutter von uns der Hallig zugedrängt
+wird, holen wir auch das Wrack ein … Sobald die Entfernung
+zwischen Kutter und Wrack zu groß, versagt eben
 die Fernsteuerung,« erwiderte Harst fast zu trocken. »Es war
 mir nach Menks Schilderung der Unglücksnacht sofort klar,
 daß das Wrack drahtlos ferngesteuert wurde — von dem
 Kutter, aus, der Menk auffischte. In das Wrack sind eben
 versteckt alle Empfangsapparate zur Fernsteuerung eingebaut,
 und auf dem Kutter der dazugehörige Sender. Ferngesteuerte,
-unbemannte Schiffe sind heute zu Bersuchs3zweXen noch selten.
+unbemannte Schiffe sind heute zu Versuchszwecken noch selten.
 Aber die deutsche Regierung rüstet bekanntlich zurzeit ein
-»altes Kriegsschiff mit sollen Emvpfangs8appaxaten … aus. He
+altes Kriegsschiff mit solchen Empfangsapparaten aus. Eine
 neue Zeit für eine gewisse Art der Küstenverteidigung und
-des Angriffs Frist an. William Karsten hat in der Einsamkeit
+des Angriffs bricht an. William Karsten hat in der Einsamkeit
 seines kleinen Inselreichs diese Erfindung von sich
-aus vervollkommnet und sie seinen Ra4Yeplänen dienstbar
+aus vervollkommnet und sie seinen Racheplänen dienstbar
 gemacht. — Sehen Sie, der Kutter flieht nach der Hallig
 zu, und das Wrack hat den Kurs geändert … Der Sender
 auf dem Kutter kann den Apparaten des Wracks nicht mehr
@@ -2122,7 +2121,7 @@ Wracks hatte keiner gedacht! —
 Das Wrack trieb jedoch nicht … Es fuhr … Aber
 es fuhr steuerlos — hierhin, dorthin …
 
-Sir erreichten es.
+Wir erreichten es.
 
 In wenigen Minuten war die kleine Edlinde auf der
 »Niobe«, in den Armen ihres Vaters. Der Schimpanse hatte
@@ -2132,15 +2131,15 @@ herübergeklettert.
 <@pagebreak/>
 Aber: das Wrack sank jetzt!!
 
-Es sank! sehr schnell.
+Es sank sehr schnell.
 
 Und im Osten war auch wieder der Kutter erschienen …
 
 Karsten hatte seinen Sender spielen lassen, und … das
-Fratze sackte weg, wie er es drahtlos gewollt.
+Wrack sackte weg, wie er es drahtlos gewollt.
 
 Die Jacht entfernte sich etwas. In zehn Minuten schlossen
-ein die Wogen gurgelnd über der grünen Grotte, über der
+sich die Wogen gurgelnd über der grünen Grotte, über der
 schwimmenden, grünen Grotte.
 
 Die »Niobe« steuerte gen Schluderrook. — —
@@ -2149,8 +2148,8 @@ Aus der Geschichte der schwimmenden Grotte hätte ein
 Berufskollege einen ganzen Abenteuerroman von dreihundert
 Seiten herausquetschen können. Mir liegt das nicht. Wer
 so schreibt, wie ihm der Schnabel gewachsen ist, der folgt
-auch unbekümmert der Augenblicksstimmung, der spinnt viel
-leicht einmal Unwichtiges zu breit aus, der jagt vielleicht
+auch unbekümmert der Augenblicksstimmung, der spinnt vielleicht
+einmal Unwichtiges zu breit aus, der jagt vielleicht
 über Szenen, die sich zur Stimmungsmalerei eignen, in
 elegantem Satz hinweg. Im Grunde dreht sich ja bei der
 Aufzeichnung unserer Abenteuer alles um die Person meines
@@ -2163,19 +2162,19 @@ eingehend zu schildern, wie ein Schiff auf hoher See endgültig
 sein Grab findet. Wer’s nicht selbst gesehen, hat’s
 in zahllosen Romanen gelesen. Wer’s nicht gelesen hat,
 faselt von dem gefährlichen Strudel, den solch’ ein sinkendes
-Schiff als letztes Zeichen zurückstößt. D er Strudel ist Unsinn.
+Schiff als letztes Zeichen zurückstößt. *Der* Strudel ist Unsinn.
 Gewiß, ein Strudel entsteht, aber seine Saugkraft ist nicht
 einmal groß genug, ein Ruderboot in die Tiefe zu ziehen,
-— einen schwimmenden Menschen vielleicht. Wenn Chiffre
+— einen schwimmenden Menschen vielleicht. Wenn Schiffe
 diesen Strudel meiden, geschieht’s aus anderen Gründen:
-Weil man — bei Dampfern 3. B., Kesselexplosionen befürchtet.
+Weil man — bei Dampfern z.&nbsp;B., Kesselexplosionen befürchtet.
 
 <@pagebreak/>
 Wir steuerten mit der »Niobe« gen Schluderrook. Weit
 vor uns segelte William Karstens Kutter. Gut eine Viertelstunde
-früher lief er in den kleinen, nach Osten zu g6&legenen
+früher lief er in den kleinen, nach Osten zu gelegenen
 Hafen der winzigen Hallig ein, ein Hafen, durch
-Pfahlreihen, durch; Steine und Sandsäcke geschützt, auch
+Pfahlreihen, durch Steine und Sandsäcke geschützt, auch
 erobertes Land. Sehr hoch waren die steilen Ufer des Hafens,
 an dessen Einfahrt beiderseits zwei elektrische Lampen nach
 dem Wasser hin leuchteten.
@@ -2183,15 +2182,15 @@ dem Wasser hin leuchteten.
 Harst, wir alle standen vorn neben der Ankerwinde
 der Jacht. Unser Scheinwerfer zeigte uns hinter dem Hafen
 drei Gebäude hoch oben auf der Spitze der Insel, zeigte uns
-auch4 den Kutter, der bereits vertäut war und in dessen
+auch den Kutter, der bereits vertäut war und in dessen
 Heckkajüte Licht brannte.
 
 Was würde werden?! Karsten schien auf weitere Flucht
-verzichtet zu haben. Plante er noch« einen Anschlag auf
+verzichtet zu haben. Plante er noch einen Anschlag auf
 uns? Konnte in der Hafeneinfahrt nicht eine Kontaktmine
-liegen, die die »Niobe« und uns getreten würde? — Menk,
-sein Kind im Arm, sprach diese Befürchtung aus. Sorglos
-erwiderte nur: »Er ist tot. Er hat Ihnen die kleine Edlinde —
+liegen, die die »Niobe« und uns zerfetzen würde? — Menk,
+sein Kind im Arm, sprach diese Befürchtung aus. Harald
+erwiderte nur: »Er ist tot. Er hat Ihnen die kleine Edlinde
 zurückgeben wollen. Er wußte, daß sein Spiel verloren, und
 er zog daraus die letzten Konsequenzen.«
 
@@ -2212,12 +2211,12 @@ standen in der kleinen Kutterkajüte vor dem Wandsofa,
 in dessen einer Ecke William Karsten lag, den Revolver
 <@pagebreak/>
 noch in der erstarrten Hand. Auf dem Tischchen vor ihm
-ein Zettel, die Tinte nahe feucht, die Egoist kraftvoll
+ein Zettel, die Tinte noch feucht, die Schrift kraftvoll
 hingehauen: ein Mann, der den Tod nicht fürchtete.
 
 Harst nahm den Bogen Papier und las vor:
 
-Ich bekenne, sowohl die Jacht »Elbe« versenkt als
+> Ich bekenne, sowohl die Jacht »Elbe« versenkt als
 auch Söttegast und Diedrichsen getötet zu haben. Gott
 möge mir ein milder Richter sein. Mein Verbrechen war
 meine Liebe. — William Karsten, Ingenieur.
@@ -2225,27 +2224,27 @@ meine Liebe. — William Karsten, Ingenieur.
 Menk, den die letzte Zeit mit ihrer Jagd von Sensationen
 wachgerüttelt hatte, begriff wie wir jählings die Zusammenhänge.
 
-»Es +. ging um Alice!« stöhnte er qualvoll. »Ich
-war also nicht der erste, den Alice liebtet«
+»Es … ging um Alice!« stöhnte er qualvoll. »Ich
+war also nicht der erste, den Alice liebte!«
 
 Harald deutete auf Karstens stilles Antlitz.
 
 »Daß es hier nur um Ihre Gattin ging, lieber Menk,
-wußte im von vornherein. Zögerte vermutete ich, daß Ihr
-damaliger Retter der Verborgen sein müsse, der seine Schurken
-Fähigkeiten seiner Rache dienstbar vermacht haite.
+wußte ich von vornherein. Ebenso vermutete ich, daß Ihr
+damaliger Retter der Verbrecher sein müsse, der seine technischen
+Fähigkeiten seiner Rache dienstbar gemacht hatte.
 Aber Ihre Gattin ist in jeder Beziehung frei von Schuld.
-Die Briefe in ihrem SqcreivtisH, die Diedrichsen hörten
-sollte, damit ich sie nicht fände, hatte Karsten an setze einstige
-heimlich Verlobte aus dem Ausland geschrieben, Karton
-Alice das Verlöbnis längst gelöst, weil Karstens Scharnier
+Die Briefe in ihrem Schreibtisch, die Diedrichsen holen
+sollte, damit ich sie nicht fände, hatte Karsten an seine einstige
+heimlich Verlobte aus dem Ausland geschrieben, nachdem
+Alice das Verlöbnis längst gelöst, weil Karstens Charakter
 ihr zu herbe Enttäuschungen bereitet und weil sie sich
 eine tiefere Neigung zu ihm als kaum siebzehnjährige nur
 eingebildet hatte. Aus den Briefen Karstens geht dies alles
-hervor. Wenn sie Ihnen, lieber Menk, diese … Jugendsverirrung
+hervor. Wenn sie Ihnen, lieber Menk, diese … Jugendverirrung
 harmlosester Art nicht gebeichtet hat, so mag’s
-befahl geschehen sein, weil eben ihre Liede zu Einen
-durch diese Erinnerungen nicht getrübt werden sollte. Karten
+deshalb geschehen sein, weil eben ihre Liebe zu Ihnen
+durch diese Erinnerungen nicht getrübt werden sollte. Karsten
 dagegen war ein brutaler, unversöhnlicher Charakter, eben
 eine sehr komplizierte, widerspruchsvolle Natur. Er vergaß
 es Ihrer Gattin nie, daß er ihr nichts mehr bedeutete. Er
@@ -2259,11 +2258,11 @@ Wrack geheimnisvoll diese Rache vollzog. — Hier sind die
 Briefe, lieber Menk. Lesen Sie sie, und Sie werden in
 Ihrem Kinde die Tote nur noch inniger lieben.« —
 
-Vielleicht ist?8 gerade Haralds wahre Größe, daß er
-in Momenten, wo er die letzten Athleten einer rätselhaften
+Vielleicht ist’s gerade Haralds wahre Größe, daß er
+in Momenten, wo er die letzten Schleier einer rätselhaften
 Tragödie zerreißt, von sich selbst gar nicht spricht — wie
 hier. Er hätte, ohne den Eindruck der Selbstbeweihräucherung
-hervorzurufen, weit stärker betonen können, wie er die seinen
+hervorzurufen, weit stärker betonen können, wie er die feinen
 Fäden, die in Alices Grubers Vergangenheit führten, schon
 längst tastend gespürt hatte. Wir anderen kannten nur »den
 Feind«, er kannte den einstigen Liebhaber. Wir glaubten an
@@ -2272,10 +2271,10 @@ Schluderrook und suchte hier das grüne Wrack und fand
 es und wußte, daß Karsten die Waffen strecken würde,
 weil — — ein Harst ihm auf den Fersen. — —
 
-Droben im Wohnhause der Hallig trafen wir Ruck Frau
+Droben im Wohnhause der Hallig trafen wir auch Frau
 Söttegast — völlig ahnungslos.
 
-In Karstens Schreibtisch; lag ein Testament vom
+In Karstens Schreibtisch lag ein Testament vom
 gestrigen Tage, in dem er die Hälfte seines großen Vermögens
 Frau Söttegast und Diedrichsens Eltern, die andere
 Hälfte der Hamburger Jugendpflege zur Errichtung eines
@@ -2284,45 +2283,45 @@ Schuld um ein geringes zu tilgen sucht.
 
 Und dann — als Schlußsatz des Testaments:
 
-Die Hallig Schlackerten? aber soll Herrn Harsts Eigentum
+> Die Hallig Schluderrook aber soll Herrn Harsts Eigentum
 sein. Mag er im Besitz meiner dem Meere abgerungenen
 Insel neue Anregung finden.
 
 — Harst hat diese Erbschaft nicht abgelehnt. Ich werde
 <@pagebreak/>
-mich von einmal mit Schluderrook zu beschäftigen haben.
+mich noch einmal mit Schluderrook zu beschäftigen haben.
 
 Wenn damals in jenen letzten Augusttagen die Zeitungen
-nichts über diese ganze seltsame Geschichte brachten: Ein —
+nichts über diese ganze seltsame Geschichte brachten: Ein
 Wink von höherer Stelle zwang die Beteiligten zum
 Schweigen. Das hing mit den Fernsteuerversuchen zusammen,
 die von der Marine vorbereitet worden waren. Heute darf
 ich sprechen. Ich habe es getan. —
 
-Vielleicht interessiert es, daß der zahme Span
-im Bark der Villa Menk ein behagliches Unterkommen gefunden
-und daß er an der kleinen Edlinde wirklich mit —
+Vielleicht interessiert es, daß der zahme Schimpanse
+im Park der Villa Menk ein behagliches Unterkommen gefunden
+und daß er an der kleinen Edlinde wirklich mit
 wahrer … Affenliebe hängt. — — Xaver Dürnhuber ist
-heute berufsfreudiger, talentierter Angehöriger der Münchener —
+heute berufsfreudiger, talentierter Angehöriger der Münchener
 Kriminalpolizei.
 
 Wie gesagt: Schluderrook war Haralds Eigentum. Weshalb
-ich daß, was wir dann noch auf der Hallig erlebten,
-»Konkurrent Mr. Z.« betitelt habe, mag der Leser
+ich das, was wir dann noch auf der Hallig erlebten,
+»*Konkurrent Mr. Z.*« betitelt habe, mag der Leser
 nächstens nachprüfen. —
 
-Zum Schluß noch etwas: Ich habe den Schauplatz der
+Zum Schluß *noch* etwas: Ich habe den Schauplatz der
 Handlung ein wenig verlegt. Schluderrook liegt nicht nördlich
-von Pellworm, aber voll in der Nähe. Nach den
+von Pellworm, aber doch in der Nähe. Nach den
 Erfahrungen, die ich mit meinen lieben Lesern und Freunden
 gemacht habe, würde »Schluderrook« sonst im nächsten
-Sommer Massenquartier werden, und dazu alt unsere Hallig
+Sommer Massenquartier werden, und dazu ist unsere Hallig
 wirklich zu winzig. Zehn Schafe, zwei Kühe und wir beide
 haben gerade darauf Platz. Mehr nicht. Leider. Sonst
 würden wir dort ein Freibad der Harstgemeinde mit Freuden
 errichten — Tatsache!!
 
-Meine Tinte ist alle … Und im muß schließen. Tinte
+Meine Tinte ist alle … Und ich muß schließen. Tinte
 einkaufen ist umständlich. Wir müssen dann erst drei Stunden
 segeln — drei hin, drei zurück, denn ich schreibe dies hoch
 droben in unserem Häuschen auf … Schluderrook.
