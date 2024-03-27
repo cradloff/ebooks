@@ -296,7 +296,7 @@ Als Harst und ich nach jenem Abend im Giebelstübchen
 bei Xaver Dürnhuber ins Schettler-Bräu zurückgekehrt waren,
 hatte ich die Sache Menk natürlich mit ihm durchsprechen
 wollen. Ich hatte kein Hehl daraus gemacht, daß ich es
-für Zwecklos hielte, so »olle Kamellen« wieder aufzurühren,
+für zwecklos hielte, so »olle Kamellen« wieder aufzurühren,
 und daß ich starke Zweifel hegte, was Menks Zuverlässigkeit
 betreffs nüchterner Beurteilung der Vorfälle anging.
 
@@ -347,7 +347,7 @@ betreffen tut, da hab’ ick wahrhaftig die Wahrheit jesagt
 … Ich weeß nischt mehr — nischt. Sie meente bloß
 zu mir, Briefe kriegte sie ja doch nie, und wenn Kunden
 kämen, sollt’ ick diesen bestellen, sie käm’ erst nach Wochen
-Zurück. Det is allens.«
+zurück. Det is allens.«
 
 »Glaube ich, Herr Schnittloch … glaube ich. Nur ein
 paar Fragen so nebenbei … Wann erzählte die Söttegast
@@ -391,9 +391,9 @@ Gut in Kluft war er ooch …«
 
 »Wie meinen Sie das, Herr Harst?«
 
-»Oh er Dialekt sprach?«
+»Ob er Dialekt sprach?«
 
-»oh ja, — er stieß so ’n bißchen mit die Zunge
+»Oh ja, — er stieß so ’n bißchen mit die Zunge
 an …«
 
 »Er stotterte?«
@@ -479,7 +479,7 @@ erste Unterrichtsstunde erteilen …«
 
 Das war alles.
 
-Daheim zeigte er Xaver die Stummel,
+Daheim zeigte er Xaver die Stummel.
 
 »Donner noch eins,« rief der. »Das sind ja Stummel
 von nikotinfreien Zigaretten aus der Tölzer Fabrik!«
@@ -544,7 +544,7 @@ Blindheit hielt jedenfalls auch in der Villa Menk draußen
 am Elbufer inmitten der entzückend-idyllischen Kolonie der
 Hamburger Patriziergeschlechter noch an.
 
-Wir trafen dort nachts halb Zwölf ein. Menk hatte
+Wir trafen dort nachts halb zwölf ein. Menk hatte
 seinen Hausmeister telegraphisch verständigt. Ein fast allzu
 <@pagebreak/>
 üppiges Abendbrot erwartete uns in dem großen, vornehm
@@ -608,7 +608,7 @@ beantwortet, richtig zu werten.
 Menk erwiderte gleichgültig: »Seit 1923 ist er bei mir.
 Bis dahin hatte ich drei Chauffeure. Alices Tod ließ mich
 den Haushalt einschränken, zumal ich ja dauernd unterwegs
-war. Zwei Jahre brachte ich Zwecklos damit zu, dem
+war. Zwei Jahre brachte ich zwecklos damit zu, dem
 Geheimnis des Wrackes nachzuspüren.«
 
 Stille wieder …
@@ -659,7 +659,7 @@ Menks Gesicht lebte auf …
 Verräter! Ich werde ihn morgen …«
 
 »Nichts werden Sie ihn merken lassen, gar nichts,« fiel
-Harald ihm ins Wort. — Sie ahnen nun wohl bereits,
+Harald ihm ins Wort. — »Sie ahnen nun wohl bereits,
 daß Sie einen grimmen Feind haben, der über reiche
 Geldmittel verfügt, der Ihre Leute bestochen hat, der Sie
 nie unbeobachtet ließ. Als Diedrichsen erfuhr, daß Sie uns
@@ -783,7 +783,7 @@ Damensalon mit Erker. — Nach rechts führte aus Menks
 Schlafzimmer eine Tür in die große Diele vor der Terrasse.
 Das Schlafgemach seiner Gattin und das Boudoir hatten
 Verbindungstüren (ohne Türen) mit schwerseidenen Vorhängen.
-In den Korridor mündeten Zwei weitere Türen
+In den Korridor mündeten zwei weitere Türen
 aus Boudoir und Schlafgemach. Jeder dieser drei Räume
 hatte also zwei Türen oder doch verhängte Türöffnungen.
 — Ich glaube, der Leser ist nun im Bilde, und ich kann
@@ -820,7 +820,7 @@ Schuhe und die Jacken aus.« —
 
 Wir haben uns so manche Nacht um die Ohren geschlagen.
 Wir haben oft genug achtundvierzig Stunden und
-mehr kein Auge zugetan. Auch das ist Training,
+mehr kein Auge zugetan. Auch das ist Training.
 
 Heute sollte sich alles weit rascher abspielen, als vorauszusehen
 war.
@@ -1106,7 +1106,7 @@ als sein Mörder, das wäre ein schlechter Scherz der Vorsehung!«
 Merkwürdig, — diese Worte machten Eindruck. Xaver
 sagte leise: »Da haben Sie recht, Herr Menk …« — Und
 ich ward hoffnungsfroher, meinte: »Es ist ja richtig, Harald
-kann den Sturz ins Wasser Absichtlich als Folge des
+kann den Sturz ins Wasser absichtlich als Folge des
 Hiebes Diedrichsens vorgetäuscht haben. — Womit schlug
 der Chauffeur denn zu, Xaver?«
 
@@ -1221,7 +1221,7 @@ Erwägungen liegt. Sie wollen meinen Schwager Erwin
 zum doppelten Mörder machen. Das würde er nie geworden
 sein, selbst wenn er wirklich noch lebte. Mein Schwager
 <@pagebreak/>
-war ein Feigling, Außerdem traue ich ihm derartiges
+war ein Feigling, außerdem traue ich ihm derartiges
 nicht zu.«
 
 Xaver meinte nur, und er gab damit einen neuen Beweis
@@ -1290,7 +1290,7 @@ Kutter, der drüben am anderen Ufer ankerte und sofort
 Segel setzte. Es war ein Fischkutter … — Frage nichts.
 Hilf mir … Ich will euch dreien vorauseilen. Wäre Menk
 hier, würde er allzu viel wissen wollen. Übrigens — das
-Päckchen Briefe habe ich Friedlichen doch abgejagt, aber
+Päckchen Briefe habe ich Diedrichsen doch abgejagt, aber
 er glaubt natürlich, die Briefe und ich liegen auf dem
 Grund der Elbe. Der Glaube soll ihm erhalten bleiben.
 Verschweige Menk und Xaver meine Anwesenheit hier,
@@ -1524,7 +1524,7 @@ Wie scharf der Kommissar überlegte, ging aus seiner
 nächsten Frage hervor.
 
 »Sie waren in Berlin bei Frau Söttegast? — Ich
-kenne sie … Ich habe sie Zweimal gesehen.«
+kenne sie … Ich habe sie zweimal gesehen.«
 
 Bisher hatten wir das Intermezzo in Berlin verheimlicht.
 
@@ -1652,7 +1652,7 @@ Immer noch blieb uns Xavers Gedankengang fremd.
 von ’n Herrn Menk hoat das Kindel damals gerettet und
 hoat’s noch bei sich … Dös Madel sein heit so ung’fähr
 sechs Jahr alt, und da hat der »Feind« dem Diedrichsen
-befohlen, a Püpperl zu kaufen. bisher hatt’ aber der
+befohlen, a Püpperl zu kaufen. Bisher hatt’ aber der
 Chauffeur ’s net abliefern können, und da blieb’s halt in
 san Versteck im Ofen … — Bitt’ schön, hier ist der Kassenzettel
 … Das Püpperl ist im Juni gekauft, hier in Hamburg,
@@ -1781,7 +1781,7 @@ gebräunten straffen Wangen.
 Harst ist an der Arbeit …«
 
 Da schaute Menk mich an. »Ja … Harst,« nickte er.
-»und Sie, lieber Schraut?«
+»Und Sie, lieber Schraut?«
 
 »Edlinde lebt,« meinte ich gerührt. »Ich zweifele nicht
 daran. Bedanken Sie sich bei unserem Xaver, der Ihnen
@@ -1789,7 +1789,7 @@ diese Gewißheit verschaffte, ein unerwartetes Geschenk! Mag
 Ihr Schwager ein Mörder sein, — wenn etwas Versöhnendes
 in seinem verderbten Charakter ist: Es ist seine
 Liebe zu dem Kinde, — wie Sie schon andeuteten. — Und
-Nun, lieber Menk, werde ich Ihnen aus unserer Reiseapotheke
+nun, lieber Menk, werde ich Ihnen aus unserer Reiseapotheke
 eine Tablette geben. Sie müssen schlafen. Denken
 Sie daran, daß uns vielleicht schwere, anstrengende Tage
 an Bord der Jacht bevorstehen, die der Kommissar bereithält,
@@ -2051,7 +2051,7 @@ Schrauben.
 
 Es fuhr — — es war schneller als die »Niobe« …
 
-Es entschwand … die Umrisse wurden unklar,
+Es entschwand … die Umrisse wurden unklar.
 
 Menk weinte.
 
@@ -2061,7 +2061,7 @@ Menk weinte.
 <h3>Und doch ein Feind.</h3>
 
 — Wenn ich an jene Nacht zurückdenke, wenn ich
-Heute, wo ich diese lebendigen Erinnerungen niederschreibe,
+heute, wo ich diese lebendigen Erinnerungen niederschreibe,
 — mir jene Szenen an Deck der »Niobe« wieder vergegenwärtige,
 als das Wrack uns höhnend entrann, als Menk
 wie ein Irrer aufheulte und nach seinem Kinde schrie, als
