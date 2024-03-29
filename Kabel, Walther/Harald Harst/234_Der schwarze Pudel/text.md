@@ -1,9 +1,17 @@
-<@pagebreak 3/>
+<@pagebreak 1/>
+
+<div class="copyright">Nachdruck verboten. – Alle Rechte, einschl.
+des Verfilmungsrecht, vorbehalten. Copyright ${property.pubDate}
+by Verlag moderner Lektüre G.&nbsp;m.&nbsp;b.&nbsp;H. Berlin.</div>
+
+<#import "*/harst.ftl" as harst>
+
+<@harst.introshort/>
 
 <h1>Der schwarze Pudel.</h1>
 
 <h2>1. Kapitel.</h2>
-<h3>… Hofbräu.</h3>
+<h3>Hofbräu.</h3>
 
 »Ich kann Ihnen im Vertrauen mitteilen, Herr Harst,
 daß auch die deutsche Regierung das lebhafteste Interesse
@@ -18,8 +26,8 @@ wollten.«
 
 »Wir werden in fünf Minuten bereit sein, Herr Rat …«
 
-Um zehn Uhr vormittags verließen. wir das Hotel
-Schwarzer Übler in München und fuhren im Dienstauto
+Um zehn Uhr vormittags verließen wir das Hotel
+Schwarzer Adler in München und fuhren im Dienstauto
 des Leiters der Kriminalabteilung zur Falkenturmgasse.
 
 Vor einem schmalen, zweistöckigen Hause standen zwei
@@ -32,29 +40,29 @@ hatte das Haus versiegelt, Parkers Haushälterin in
 einer Pension untergebracht und zur Sicherheit einen Beamten
 vor die Haustür postiert.
 
-Dieser Beamte erklärte uns nun im Arbeitszimmepr
+Dieser Beamte erklärte uns nun im Arbeitszimmer
 folgendes:
 
 »Es war etwa ein Uhr morgens, als ich, vor dem
 Hause auf und ab schreitend, aus der Richtung des Platzes
 Hilferufe hörte. Ich lief hin, sah jedoch niemand, glaubte
-an einen unziemlicgzen Scherz eines Betrunkenen und lief
+an einen unziemlichen Scherz eines Betrunkenen und lief
 sofort wieder zurück. Mißtrauisch geworden, untersuchte ich
 das Siegel an der Haustür und probierte auch, ob sie noch
-verschlossen sei. Siegel und Schloß waren in Ordnung, Erst
+verschlossen sei. Siegel und Schloß waren in Ordnung. Erst
 heute früh wurde festgestellt, daß das Siegel trotzdem losgerissen
 und nur mit Wachs wieder angeklebt war. — Ich
-habe mich von dem Hause kaum zwei Minuten entfernt gehabt:
+habe mich von dem Hause kaum zwei Minuten entfernt gehabt.
 Ich halte es für ausgeschlossen, daß in dieser kurzen Zeit
-jemand in das Haus eing2drungen ist und die Automaten
-gestohlen hat, Der Betreffende mußte erst das Siegel an der
-Tür lösen, diese ausschließen, hier nach oben eilen, die
+jemand in das Haus eingedrungen ist und die Automaten
+gestohlen hat. Der Betreffende mußte erst das Siegel an der
+Tür lösen, diese aufschließen, hier nach oben eilen, die
 Automaten holen und die Tür wieder versperren und die
 Siegel befestigen, — in zwei Minuten ist dies nicht zu
 erledigen.«
 
 Harst saß in derselben Sofaecke, die gestern abend Oskar
-Strand innegehabt hatte, der Konstrukteur des Automaten,
+Straub innegehabt hatte, der Konstrukteur des Automaten,
 Parkers willenloses Werkzeug.
 
 Harst wandte sich an den Kriminalbeamten, der hier die
@@ -77,225 +85,225 @@ Harald nickte.
 es sogar, denn von der Falkenturmgasse sind die Diebe,
 es handelt sich ja fraglos um mindestens zwei Personen, schon
 der Schwere der Automaten wegen, nicht eingedrungen. Das
-Siegel hat lediglich ein Konto. ich:2 gelöst und wieder befestigt,
-als der Beamte weglief. Die Polizei sollte hierdurHF irre
-geführt werden. — Cqdhraunt, wir wollen uns das ganze
+Siegel hat lediglich ein Komplize gelöst und wieder befestigt,
+als der Beamte weglief. Die Polizei sollte hierdurch irre
+geführt werden. — Schraut, wir wollen uns das ganze
 Haus einmal ansehen. Die Herren erwarten uns hier wohl …
 In einer halben Stunde sind wir wieder da.«
 
 Diese halbe Stunde gab uns die Überzeugung, daß
-außer dem Vordereingang nur noch das Dach für Ein«-
+außer dem Vordereingang nur noch das Dach für
 Eindringlinge in Betracht käme, daß jedoch der Weg über die
 Dächer den Dieben deshalb versperrt gewesen, weil beide
-»Kadzbardädczer scheint geteert waren und deutliche Fährten
-angenommen hätten. Auch nach hinten. zu konnten die
+Nachbardächer frisch geteert waren und deutliche Fährten
+angenommen hätten. Auch nach hinten zu konnten die
 Automaten nicht weggeschafft sein. Dort lag der Hof einer
 kleinen Fabrik, der nachts von einem sehr scharfen Hunde
 bewacht wurde.
 
 Als wir wieder bei den im Arbeitszimmer Parkers
-versammelten vier Begreifen erschienen, fragte der Polizeirat
-sofort« …
+versammelten vier Beamten erschienen, fragte der Polizeirat
+sofort:
 
-»Nun, etwas entdeckt?’
+»Nun, etwas entdeckt?«
 
 »Nichts. Der Fall bleibt dunkel. Es sei denn, daß eine
 ganz bestimmte Vermutung meinerseits zutrifft.«
 
-»Und die wäre, Herr Harst?’«
+»Und die wäre, Herr Harst?«
 
 »Gestatten Sie eine Vorbemerkung, Herr Rat. Parker
 hat seine Automaten durch Oskar Straub fernlenken lassen.
 Die kleinen Sender, die hierzu dienten, waren in ein Auto
-und in eine Brosche eingebaut, wie wir wissen. Die Droschke
-wurde gestern besylagnahnt. Ist daß Auto gefunden?«
+und in eine Droschke eingebaut, wie wir wissen. Die Droschke
+wurde gestern beschlagnahmt. Ist das Auto gefunden?«
 
-»Bisher nicht, Herr Harst, Straub ist vernehmungsunfähig
-und befindet sie im Polizeilazarett,«
+»Bisher nicht, Herr Harst. Straub ist vernehmungsunfähig
+und befindet sich im Polizeilazarett,«
 
 <@pagebreak/>
-»Dann kann folgendes vorliegen, Herr Na!. Jemand
+»Dann kann folgendes vorliegen, Herr Rat. Jemand
 kannte sowohl die Garage des Autos, die Automaten und
 die Bedienung der Sender — jemand außer Straub. Und
-dies ist Papiere Haushälterin.«
+dies ist Parkers Haushälterin.«
 
-Der Rat lächelte. »Die Haushälterin ist in einem Bens
-Pensionat untergebracht worden, das mit der Polizei verbündet ist.
+Der Rat lächelte. »Die Haushälterin ist in einem Pensionat
+untergebracht worden, das mit der Polizei verbündet ist.
 Niemand kann die Pension unbemerkt verlassen. Die Frau
 ist nicht eine Sekunde unbeaufsichtigt geblieben. Außerdem:
-Ecke handelt sich Dom jetzt um die unerklärliche Frage: Wie
-konnte jemand in zwei Minuten durch die HauzZtür die
-Automaten stehlen 2?«
+Es handelt sich doch jetzt um die unerklärliche Frage: Wie
+konnte jemand in zwei Minuten durch die Haustür die
+Automaten stehlen?«
 
-Harald hatte!ich wieder gesetzt.
+Harald hatte sich wieder gesetzt.
 
 »Das ist sehr leicht zu machen, Herr Rat, wenn man
-eben den einen Fernsjteuersender besaß und ihn bedienen
-konnte. Und zwar so … Dr Betreffende schleicht sich dort
+eben den einen Fernsteuersender besaß und ihn bedienen
+konnte. Und zwar so … Der Betreffende schleicht sich dort
 gegenüber in den Hof ein … Sie sehen von hier das
-große Bester und die Pforte. Er hat den Sender bei ja:y«
+große Hoftor und die Pforte. Er hat den Sender bei sich,
 setzt ihn hinter dem Tor in Tätigkeit, und die beiden tadellosen
-Automaten, an denen mit ja nichts geändert hatten,
+Automaten, an denen wir ja nichts geändert hatten,
 die hier oben auf dem Fußboden lagen, gehorchen prompt
 den verschiedenen Funkzeichen und gehen die Treppe hinab
-bis im den Flur und bis vor die verschlossene Haustür, das
-beißt: sie blieben dicht vor der Tür im Flur stehen. —4
-Ein Verbündeten des Diebes stößt drüben am Platze die
+bis in den Flur und bis vor die verschlossene Haustür, das
+heißt: sie blieben dicht vor der Tür im Flur stehen. —
+Ein Verbündeter des Diebes stößt drüben am Platze die
 Hilferufe aus, der Beamte läuft hin, der Dieb aber läuft
 hier nur über die Straße, öffnet die Tür, nimmt die Automaten,
 versperrt die Tür, klebt das Siegel wieder fest,
 läuft dort in den Hof hinein — nur fünf Schritt, und ist
-mit seiner Beute in Sicherheit — in zweit Minuten … —
+mit seiner Beute in Sicherheit — in zwei Minuten … —
 Nur so kann der Diebstahl verübt worden sein.«
 
 »Allerdings … — so ja,« meinte der Rat mit etwas
 langem Gesicht. »Mein Kompliment, Herr Harst … Darauf
-wäre im nicht gekommen.«
+wäre ich nicht gekommen.«
 
 »Es ist die einzige Möglichkeit, und es ist so. — Lassen
 sie sofort und auch die Nebenhäuser durchsuchen und überall
 <@pagebreak/>
 nachfragen, ob dort irgendwo Ausländer in letzter Zeit
-»l8 Untermieter wohnten. Dieser Diebstahl ist kein Augenblickswerk,
+als Untermieter wohnten. Dieser Diebstahl ist kein Augenblickswerk,
 sondern wurde von langer Hand vorbereitet. Mir
 selbst als Deutschen liegt daran, diese glänzende Erfindung
-uns 3zu erhalten. Ich habe es am. eigenen Leibe erfahren,
+uns zu erhalten. Ich habe es am eigenen Leibe erfahren,
 wie fabelhaft geschickt diese Automaten konstruiert waren, wir
-Halse haben gesehen, wie veroölüffend einfach der Sender
-zu bedienen war, der diese Puppen steuerte. Eine Freude
+alle haben gesehen, wie verblüffend einfach der Sender
+zu bedienen war, der diese Puppen steuerte. Eine fremde
 Militärmacht könnte unschwer mit Hilfe dieser Erfindung
 eine kleine Armee gepanzerter Automaten sich anlegen, die
 einem zukünftigen Kriege eine völlig neue Note geben würden.
-Ei liegt mir fern, mich hier mit der AusZinalung von
+Es liegt mir fern, mich hier mit der Ausmalung von
 phantastischen Ideen zu befassen, die in verschiedenen Romanen
-bereits von verrufensten Seite die ins kleinste ausgesponnen
+bereits von berufenerer Seite bis ins kleinste ausgesponnen
 worden sind. Was einst Magie, was einst als
-AYAvIägeburt überspannter Hirne angesehen wurde, ist bereits
+Ausgeburt überspannter Hirne angesehen wurde, ist bereits
 Wirklichkeit geworden: Wir haben den Fernseher, wir haben
 das ferngelenkte Schiff ohne Besatzung, nun können wir
-auch den künstlichen Mengen für Deutschland als Standardleistung
+auch den künstlichen Menschen für Deutschland als Standardleistung
 sozusagen mit Beschlag belegen … Und deshalb:
 Ich werde alles tun, was in meinen Kräften steht, diese
 Diebe zu ermitteln! — Sie gestatten, daß Schraut und ich
-uns nun verabschieden, Herr Rat. Während Sie mit Igr2em
+uns nun verabschieden, Herr Rat. Während Sie mit Ihrem
 Beamtenstab dieser einen Spur nachgehen, wollen wir beide
 auch nicht müßig sein. Haben Sie Wichtiges zu melden,
 so teilen Sie es bitte meiner Mutter im Schwarzen Adler
-mit, ’fall3 wir nicht dort sein sollten. Wiedersehen also …«
+mit, falls wir nicht dort sein sollten. Wiedersehen also …«
 
 Der Herr Rat warf Harst einen prüfenden Blick zu.
 Ich erriet seine Gedanken. Ich hätte zu gern gewußt, inwiefern
-Harst »nicht mäßig« sein wollte. Er getraute sich mir
-nicht recht zu fragen, und er da« gut daran, sich diese Frage
+Harst »nicht müßig« sein wollte. Er getraute sich mir
+nicht recht zu fragen, und er tat gut daran, sich diese Frage
 zu verkneifen, denn meines Freundes Gesichtsausdruck verriet,
 daß er kaum geneigt war, seine Absichten preiszugeben,
 
-Wir beide verließen also daß alte, harmlose Haus und
-stellten schweigend dem nahen Platze zu, wo uns nach der
+Wir beide verließen also das alte, schmale Haus und
+schritten schweigend dem nahen Platze zu, wo uns nach der
 <@pagebreak/>
 düsteren Enge der Falkenturmgasse freundlich der klare
-Serdjisonnenjchein begrüßte.
+Herbstsonnenschein begrüßte.
 
-Es war halb zwölf. So lehnte Frühschoppenzeit. Und
-das Hoforäu so nahe … Wenn ich an Weißwürstl und eine
-knallt Maß dachte, lief mir das Wasser im Munde zusammen,
-Näher an derlei denken, — jetzt, wo so viel auf den: Spiele
-stand … I!
+Es war halb zwölf. So rechte Frühschoppenzeit. Und
+das Hofbräu so nahe … Wenn ich an Weißwürstl und eine
+halbe Maß dachte, lief mir das Wasser im Munde zusammen.
+Aber an derlei denken, — jetzt, wo so viel auf dem Spiele
+stand …!!
 
 Da sagte Harald mit gutmütigem Schmunzeln:
 
-»Mal aus deinem Herzen keine Mördergrube, mein
+»Mach aus deinem Herzen keine Mördergrube, mein
 Alter … Du hast a’n Mordsdurscht … Ich auch … Die
 halbe Stunde Frühschoppen bringen wir schon wieder ein.
 
--» Das Hofbräu ist nicht jedermanns Geschmack. Unten
-in Entschloß paart sich dauerte)e Gemütlichkeit mit — na
+— Das Hofbräu ist nicht jedermanns Geschmack. Unten
+im Erdgeschoß paart sich bayerische Gemütlichkeit mit — na
 sagen wir mangelnder Parkettsauberkeit. Die Bierspritzer, die
-Lichte, die Kabinetts, die Zigarrenstummel auf dem Boden:
-Wi) stand’s nicht: Über ich habe Fremde beobachtet, die
-geradezu entsetzt waren, —
+Asche, die Radireste, die Zigarrenstummel auf dem Boden:
+*Mich* stört’s nicht: Aber ich habe Fremde beobachtet, die
+geradezu entsetzt waren.
 
 Trotzdem: wir saßen unten am bierfeuchten, gescheuerten
-Tisch mit ein paar Eingeborene zusammen, die zum Glut
-vereinigt dicke »Saupreißen« in Mine schenkten, denn wir sprachen
+Tisch mit ein paar Eingeborene zusammen, die zum Glück
+nicht die »Saupreißen« in uns erkannten, denn wir sprachen
 zur Vorsicht englisch, und Harald mit seiner unnachahmlichen
-Ruhe kaum Überall als Brite gelten. Er versteht es, eine
-so Stettin blasierte Miene auszusetzen, als könnte ihm
+Ruhe kann Überall als Brite gelten. Er versteht es, eine
+so greulich blasierte Miene aufzusetzen, als könnte ihm
 absolut nichts imponieren.
 
-Eine bereits recht angejahrte Nest brachte uns das Bestellte.
+Eine bereits recht angejahrte Resi brachte uns das Bestellte.
 Ich hatte der Einfachheit halber gleich drei Paar
-Weinproäritl verlangt, und nach dem ersten Schirm und
+Weißwürstl verlangt, und nach dem ersten Schluck und
 dem ersten Weißwürstl steigerte sich mein Wohlbefinden bis
-zur Toilinrhuheit. Ich fragte Harald .— trotz seiner Unnahbar?
-alt: »Was gedenkst du zu tun?« — englisch natürlich,
-worauf einer der shhmerbäuhigen Bajuwaren seinem Nachbar
-in by? Lippen stets und vernehmlich äußerte: »D58 san Biesstielfresier
-da von drüben …«
+zur Tollkühnheit. Ich fragte Harald — trotz seiner Unnahbarkeit:
+»Was gedenkst du zu tun?« — englisch natürlich,
+worauf einer der schmerbäuchigen Bajuwaren seinem Nachbar
+in die Rippen stieß und vernehmlich äußerte: »Dös san Biefstielfresser
+do von drüben …«
 
 Das war also auch die einzige Antwort auf meine
 Frage … Harst widmete sich ausschließlich seinen Weißwürsteln,
 <@pagebreak/>
 die er kunstgerecht abpellte und mit reichlich viel
-süßem Senf zu sich nahm. Worauf ich; meine halbe Maß
+süßem Senf zu sich nahm. Worauf ich meine halbe Maß
 leer trank und ’ne frische bestellte. Was sollte ich anderes
-tun?! Das Hofbräu ist doch nicht für Abstinenzler erbaut.
+tun?!! Das Hofbräu ist doch nicht für Abstinenzler erbaut.
 
-beobachtete die Umgebung. Sie bestand aus bunt
-gemischten Vertretern beiderlei Geschlechts. Da waren unser«
-Fkennbare Amerikaner — mit Reisehandbüchern und Kameras,
+Ich beobachtete die Umgebung. Sie bestand aus bunt
+gemischten Vertretern beiderlei Geschlechts. Da waren unverkennbare
+Amerikaner — mit Reisehandbüchern und Kameras,
 Da war ein Trupp Schweden, voran eine semmelblonde,
 spindeldürre Maid … Sechs Personen, die Plätze suchten.
-Unsere Des war resolut. Wir und die Eingeborenen mußten
-zusammenrücken, und der Trupp quetschte sich neben uns,
+Unsere Resi war resolut. Wir und die Eingeborenen mußten
+zusammenrücken, und der Trupp quetschte sich neben uns.
 Ich hatte das Glück, den blonden jungen Spargel neben mich
-zu bekommen … Da das Deutsch der Skandinavier sehr,
-mäßig war, erklärte ich der Rest, daß der Trupp zwei Halle
+zu bekommen … Da das Deutsch der Skandinavier sehr
+mäßig war, erklärte ich der Resi, daß der Trupp zwei Helle
 und je ein Weißwürstl wünschte. Was mir den tiefgefühlten
 Dank der dürren, aber sonst lieblichen Maid eintrug, die
-echt mir eine Unterhaltung in englisch;er Sprache begann.
-Aus Jähzornig kamen sie, wollten fünf Tage für München
+nun mit mir eine Unterhaltung in englischer Sprache begann.
+Aus Salzburg kamen sie, wollten fünf Tage für München
 drangeben, — ob das wohl genüge, die fünf Tage?
 
-Jedenfalls — ich war bald Zähnchen im Korbe bei
-den Nordländern, Harst saß freilich da wie ein Lord, für
-den- derlei Diebes nicht existiert. Mochte er. Ich wollte meine
+Jedenfalls — ich war bald Hähnchen im Korbe bei
+den Nordländern. Harst saß freilich da wie ein Lord, für
+den derlei Plebs nicht existiert. Mochte er. Ich wollte meine
 Zerstreuung haben. Es waren drei Herren, drei Damen …
 In welchem verwandtschaftlichen Verhältnis sie zueinander
 standen, war nicht zu ergründen. Die Herren zeichneten sich
 durch schlechte Manieren aus … Die beiden anderen Damen
-waren abschreckend schön und über die fünfzig klingt!Tag,
-Mein Spargel dagegen hatte ein halbes Gesichter!, vielleicht
-ein wenig nüchtern, vielleiHt’ zu große Oberzähne … Aber
+waren abschreckend schön und über die fünfzig hinaus.
+Mein Spargel dagegen hatte ein holdes Gesichterl, vielleicht
+ein wenig nüchtern, vielleicht zu große Oberzähne … Aber
 immerhin: Nach … zwei halben Litern Hofbräu übersieht man
-vieles, Es ist eine durchaus Spitze Ansicht, daß das Hofbräu
-helle leicht ist. Im Gegenteil. Bei der dritten Maß Kajüte mich
+vieles. Es ist eine durchaus irrige Ansicht, daß das Hofbräuhelle
+leicht ist. Im Gegenteil. Bei der dritten Maß zwickte mich
 schon der Satan, und bei einer Frage des Spargels deutete
-ich nett den unnahbaren Harald: »Der kann Ihnen hierüber«
+ich auf den unnahbaren Harald: »Der kann Ihnen hierüber
 bessere Auskunft geben …«
 
 <@pagebreak/>
 Harst — —?!
 
 Er schaute die Semmelblonde an — ganz geistesabwesend.
-Sagte: »Im Gärtnerplatz« Theater gibt’s nur Operetten …«
+Sagte: »Im Gärtnerplatz-Theater gibt’s *nur* Operetten …«
 
 Und dann war ich erledigt, ausgeschaltet, denn der Trupp,
-der meinen Harald vielleicht für den Herzog von Gemeine
+der meinen Harald vielleicht für den Herzog von Yorkshire
 Hielt, überfiel ihn mit vernichtender Liebenswürdigkeit …
-Er taute auf, der Spargel sogar zu flirten, bot uns eine
+Er taute auf, der Spargel begann zu flirten, bot uns eine
 Zigarette an … rauchte selbst, die drei Herren redeten von
-Salzburg, Innsbruck, Meran und die beiden angejahrter
-Abscheulichkeiten entsicherten eifrigst dazwischen … Der
-Spargel lachte viel, spendete von je eine Klaren« aus dem
-flachen Buchs8baumetui, und mit einem Male wurde mir
+Salzburg, Innsbruck, Meran und die beiden angejahrten
+Abscheulichkeiten zwitscherten eifrigst dazwischen … Der
+Spargel lachte viel, spendete noch je eine Zigarette aus dem
+flachen Buchsbaumetui, und mit einem Male wurde mir
 überaus merkwürdig zumute … Kalter Schweiß trat mir
 auf die Stirn, die drei Paar Weißwürstl schienen wieder
-an die Augenmerk zu wollen, alles drehte sich um mich her,
-der Spargel bekam zehn Gesichter und die Nest stand scheinbar
-Kopf. Nach diesem Vorstadium trat der eigentliche »ie
-offen ein …: »Der Mann muß hinaus!!« Ich erreichte den
-Hof mit Mut und Not, in meinem Hirn der Verstand …
+an die Außenwelt zu wollen, alles drehte sich um mich her,
+der Spargel bekam zehn Gesichter und die Resi stand scheinbar
+Kopf. Nach diesem Vorstadium trat der eigentliche Knalleffekt
+ein …: »Der Mann muß hinaus!!« Ich erreichte den
+Hof mit Müh und Not, in meinem Hirn der Verstand …
 war tot, — — frei nach Erlkönig …
 
 Ich sackte in mich zusammen.
@@ -305,21 +313,21 @@ Der Rest war Nacht und Seekrankheit.
 <h2>2. Kapitel.</h2>
 <h3>Maschine …</h3>
 
-Meine Leser und Freunde mögen sich wundern, Lesbar!
+Meine Leser und Freunde mögen sich wundern, weshalb
 ich diese verhängnisvolle Szene im Hofbräu hier mit solcher …
-Fugen wir … sollten vorbeigeglüten Bemühen, witzig 31
-schwer, geschildert habe, Über — meine Stimmung Portal?
+sagen wir … solchem vorbeigeglückten Bemühen, witzig zu
+scheinen, geschildert habe. Aber — meine Stimmung damals
 <@pagebreak/>
-war!o, genau!so … Erst hing der Himmel voller Geigen,
+war so, genau so … Erst hing der Himmel voller Geigen,
 dann wurden infolge der beiden Zigaretten des Spargels
 aus den Geigen üble Brummbässe und schließlich — für uns
 beide — Stunden qualvollster Kämpfe um das bißchen
 Leben …
 
-Man hakte uns (Harst war mir auf einen gewissen Ort
-gefolgt) nach einiger Zeit, als eben Beistand, daß wir nicht
-lediglich Vierteilen waren, in ein Krankenhaus geschafft.
-Die Art der Vergiftung blieb den Geraten zunächst ein
+Man hatte uns (Harst war mir auf einen gewissen Ort
+gefolgt) nach einiger Zeit, als eben feststand, daß wir nicht
+lediglich Bierleichen waren, in ein Krankenhaus geschafft.
+Die Art der Vergiftung blieb den Ärzten zunächst ein
 Rätsel. Man stellte so alles Mögliche mit uns an, um
 die erlahmende Herztätigkeit anzuregen, und als wir dann
 so nach rund zwölf Stunden die Krise überstanden hatten,
@@ -327,31 +335,31 @@ waren wir matt wie die Dezemberfliegen, und selbst daß
 Frau Harst und Mathilde bleich und verängstigt an unseren
 Betten in unserem gemeinsamen Zimmer saßen, machte keinerlei
 Eindruck auf uns. Nichts machte Eindruck. Ich war wie
-in leerer Schlauch … Mein Kopf wi? ein schlapp gewordener
-Finderballon. Und wenn ich genau so gelbgrün aussah wie
-Harald, mußte ich außerordentlich dekorativ Fanfare gewirkt
+ein leerer Schlauch … Mein Kopf wie ein schlapp gewordener
+Kinderballon. Und wenn ich genau so gelbgrün aussah wie
+Harald, mußte ich außerordentlich dekorativ damals gewirkt
 haben. Sicher sah ich genau so aus.
 
-Dann schliefen wir ein, mit als wir wieder erwachten,
-saß zwischen unseren Bettler. eine gütige Schwester mit großer
+Dann schliefen wir ein, und als wir wieder erwachten,
+saß zwischen unseren Betten eine gütige Schwester mit großer
 Flügelhaube und schwarzem ernstem Gewand.
 
 Es war zehn Uhr vormittags. Volle vierundzwanzig
 Stunden hatten die Zigaretten des Spargels mit den Kaninchenzähnen
-uns lahm gelegt gehabt. Korb nie waren wir
+uns lahm gelegt gehabt. Noch nie waren wir
 so gerieben, so heimtückisch betäubt worden. Noch nie, sagte
 der Chefarzt nachher, habe er derart vor einem Rätsel
-Gestanden wie gegenüber diesen Vergiftungserscheinungen. Art
-scheinen Fädchen hätte unser Leben gehangen … Nur unser?
-fehlten Palmen wären salie3lich Sieger geblieben.
+Gestanden wie gegenüber diesen Vergiftungserscheinungen. Am
+seidenen Fädchen hätte unser Leben gehangen … Nur unsere
+robusten Naturen wären schließlich Sieger geblieben.
 
-Die sechs angeblich;er Schweden hatten elend ganze Arbeit
-tun wollen.! …
+Die sechs angeblichen Schweden hatten eben ganze Arbeit
+tun wollen.
 
 Der Polizeirat kam. Wir beschrieben den Trupp. Der
-Telegraph) spielte nach allen Richtungen, der Münchener
+Telegraph spielte nach allen Richtungen, der Münchener
 <@pagebreak/>
-Center verbreitete jede Stunde das Signalement der sechs,
+Sender verbreitete jede Stunde das Signalement der sechs,
 Harst setzte von sich aus eine Belohnung von fünftausend
 Mark aus …
 
@@ -359,86 +367,99 @@ So nahte der Abend. Der Chefarzt ließ uns nicht frei.
 Und er tat recht daran. Als Harald einmal aufzustehen
 versuchte, sank er ohnmächtig um.
 
-Gegen acht Uhr f fand sich dann Freund Xaver Dürnhuber
+Gegen acht Uhr fand sich dann Freund Xaver Dürnhuber
 bei uns ein. Der Leser kennt ihn: Unser Schützling,
 ein junger Prachtkerl, gesund, stark, klug, gerissen, — —
 Anwärter bei der Kriminalpolizei. — Die Schwester ließ
 uns allein. Xaver sagte achselzuckend:
 
-»Sir zu machen … Die Automaten san futsch … — Die
-Bande hat zu viel Vorsprung. ie«
+»Nix zu machen … Die Automaten san futsch … Die
+Bande hat zu viel Vorsprung.«
 
 »Leider!« nickte Harald, der schon andere Farbe bekam.
 
 »Und dabei sind schon gestern alle Bahnhöfe gesperrt
-worden … alle Straßen … Jedes Gepäckstück wurde durfte
-sucht, jedes Auto angehalten … Der Herr Rat hat nicht
-versäumt.« es
+worden … alle Straßen … Jedes Gepäckstück wurde durchsucht,
+jedes Auto angehalten … Der Herr Rat hat nichts
+versäumt.«
 
-»Glaube ich gern. — -Ist das Auto gefunden, in das
+»Glaube ich gern. — Ist das Auto gefunden, in das
 der zweite Lenksender eingebaut war?«
 
 »Ja … aber ohne Sender … in einer miserablen Bretterbude
-von Garage in einem Gartengrurstäck auf der Au …
+von Garage in einem Gartengrundstück auf der Au …«
 
-— »Dann ist nicht mehr viel zu hoffen, lieber Nadel, —
-da haben Sie ganz recht. ’— Und wie war’s mit den Bewohnern
-der Häuser gegenüber dem Grundstück? Parkers?«
-… »Alles harmlose Leit’, Herr Harst
+»Dann ist nicht mehr viel zu hoffen, lieber Xaver, —
+da haben Sie ganz recht. — Und wie war’s mit den Bewohnern
+der Häuser gegenüber dem Grundstück Parkers?«
 
-»Pech, verwünschtes Pech … «!« Er stützte den Kopf in
+»Alles harmlose Leit’, Herr Harst …«
+
+»Pech, verwünschtes Pech …!« Er stützte den Kopf in
 die Hand. »Was tun wir da, Xaver?«
 
 »Wann’s- Sie ’s nicht wissen, Herr Harst?!«
 
-»Nun; morgen ist »auch noch ein Tag. Morgen »werden
-
+»Nun morgen ist auch noch ein Tag. Morgen werden
 Schraut und ich wieder aufstehen können … Vielleicht fällt
 mir bis dahin noch etwas ein, das uns auf die Sprünge
+hilft …«
 
-hilft …
-Ja wär ich — ’neuglerig … «!« meinte Dürnhuber ehrlich
-und zog die Stirn kraus. »Ich hab! mir den Kopf wahrhaftig
+»Da wär’ ich — neugierig …!« meinte Dürnhuber ehrlich
+und zog die Stirn kraus. »Ich hab’ mir den Kopf wahrhaftig
 <@pagebreak/>
-schon genug Zzergrübelt …! Wo soll man da angaben?!
-Wo nix ist, ist mir zum Packe … Eine Schmach ist’s, daß
-diese WMalefizhaluniten entwischt san «.!!«
-— Harald lächelte etwa. »Ob sie entwischt Jan?! Ob sie
-nicht schlau jene sind, hier in Münden sich zu verborgen
-— getrennt — jeder. für sich, die sehe?! Ich den? mir, das
-wird stimmen
-Xaver jschüttelie energisch den Knopf. »Ausgeschlossen, Herr
-Harst das Signalement der sechs ist so genau, daß…
-Über Harald lächelte wieder …
-» »Abwarten!! — Jetzt … gute Nacht -…« Morgen früh
-acht Uhr Wiedersehen gern —
+schon genug zergrübelt …! Wo soll man da anpacken?!
+Wo nix ist, ist nix zum Packe … Eine Schmach ist’s, daß
+diese Malefizhalunken entwischt san …!«
+
+Harald lächelte schwach. »*Ob* sie entwischt san?! Ob sie
+nicht schlau genug sind, hier in München sich zu verbergen
+— getrennt — jeder für sich, die sechs?! Ich denk’ mir, das
+wird stimmen …«
+
+Xaver schüttelte energisch den Knopf. »Ausgeschlossen, Herr
+Harst das Signalement der sechs ist so genau, daß …«
+
+Aber Harald lächelte wieder …
+
+»Abwarten!! — Jetzt … gute Nacht … Morgen früh
+acht Uhr Wiedersehen …« —
+
 Xaver war gegangen. Die Schwester kam und besorgte
 uns zur Nacht …
-… « »Haben die Herren noch einen Wunsch?«
-»Ja, Schwester Barbara …; Kranz?!!! Eine halbe Flasche
+
+»Haben die Herren noch einen Wunsch?«
+
+»Ja, Schwester Barbara … Kognak!! Eine halbe Flasche
 Kognak — gleich!«
-». Sie war entsetzt. Über schließlich gab sie nach … — —
-Kognak!! Und unser Zimmer lag im Seitenflügel, Erdichtet:
-Bandit an der Mauer …
-… Kognak!! Und unsere Kleider hingen dort im Schranke,
+
+Sie war entsetzt. Aber schließlich gab sie nach … — —
+
+Kognak!! Und unser Zimmer lag im Seitenflügel, Erdgeschoß,
+dicht an der Mauer …
+
+Kognak!! Und unsere Kleider hingen dort im Schranke,
 und nachmittags war unser Koffer Nummer drei durch
-Mathilde vom Schwarzen Adler hierher geschafft worden]!
-… Merkst du was, geneigter Leser? —
-… Siehst du im Geiste, wie das nüchterne Krankenzimmer
+Mathilde vom Schwarzen Adler hierher geschafft worden!!
+
+Merkst du was, geneigter Leser?
+
+Siehst du im Geiste, wie das nüchterne Krankenzimmer
 so gegen Mitternacht zwei gar seltsame Patienten barg,
 die vorsichtig bei geschlossenen Vorhängen nur beim Lichte
 einer Taschenlampe, kognakduftend und noch etwas zittrig
 auf den Beinen, sich gegenseitig halfen und ihr Aussehen
 so gründlich veränderten, daß Schwester Barbara sicherlich
 vor Entsetzen ein Kreuz geschlagen hätte, wenn sie diese
-fremden Gesichter gesehen haben. würde!
+fremden Gesichter gesehen haben würde!
+
 Und dann ward’s dunkel im Zimmer … dann wurde
-das eine Fenster behyatsam, lautlos geöffnet, und die kalte
-Nachtluft drang herein und draußen war’s finster wie ins
+das eine Fenster behutsam, lautlos geöffnet, und die kalte
+Nachtluft drang herein und draußen war’s finster wie im
 <@pagebreak/>
-Leser … Die Bäume des Gartens knarrten- »im, Winde,
-düsteres Gewalt? 303 über das Firmament … Und zwei Angebrochen
-schwangen sich? zum Beweise hinaus, hatten für
+Keller … Die Bäume des Gartens knarrten im Winde,
+düsteres Gewölk zog über das Firmament … Und zwei Ausbrecher
+schwangen sich zum Fenster hinaus, hatten für
 den Herrn Chefarzt einen Zettel zurückgelassen, daß sie
 ferner bettlägerig gelten wollten, daß der Betrug, Harst und
 Schraut befänden sich noch im Lazarett, unbedingt aufrechterhalten
@@ -446,12 +467,11 @@ werden müsse.
 
 Die Nachtluft wirkte auf uns wie Sekt … Es war
 der köstliche Rausch der Genesung, es war das Aufkeimen
-neuer Lebensenergien. — es war nicht der. Kognak. denn
-
-Harald hatte jedem nur einen Schluck bewilligt und die Tasche
+neuer Lebensenergien — es war nicht der Kognak, denn
+Harald hatte jedem nur einen Schluck bewilligt und die Flasche
 in seinen Lodenmantel gesteckt.
 
-… Als ich: an der Mauer für ihn Leiter Spielte: war ich
+Als ich an der Mauer für ihn Leiter Spielte: war ich
 bereits so weit vollkommen erfüllt von dem Reiz der
 beginnenden Jagd auf meinen semmelblonden Spargel, daß
 ich nicht einmal in den Knien ein Zittern verspürte. Ein
@@ -459,104 +479,104 @@ härterer Druck auf den Schultern dann, und Harst saß
 oben auf der Mauerkrone, gerade durch den Stamm einer
 schräg gewachsenen Kastanie.
 
-Er half mir empor. Mit unendlicher Vorsicht — »denn
-die Straße war noch belebt — liegen wir uns hinab/allen,
-blieben stehen und beobachteten. Die Ziegelmauer, im -Laufa.
+Er half mir empor. Mit unendlicher Vorsicht — denn
+die Straße war noch belebt — ließen wir uns hinabfallen,
+blieben stehen und beobachteten. Die Ziegelmauer, im Laufe
 der Jahre fast braunschwarz verfärbt, stützte uns. In unseren
-Mänteln verschmolzen wir mit diesem Hintergrund zu dunkler
+Mänteln verschmolzen wir mit diesem Hintergrund zu dunklen
 Flecken.
 
 Vor uns gab es noch einen schmalen Streifen Anlagen,
 dann erst die eigentliche Straße.
 
-Harst regte sie nicht. Nur ein Flüstern erreichte mein
-
--
-
+Harst regte sich nicht. Nur ein Flüstern erreichte mein
 Ohr …
-»Ich denke, »sie werden hier einen Spion haben.«
-Wenige Worte das, aber — Wels ein Inhalt! Was
+
+»Ich denke, sie werden hier einen Spion haben.«
+
+Wenige Worte das, aber — welch’ ein Inhalt! Was
 alles ließ sich davon ableiten — eine Fülle von Vermutungen,
 Schlußfolgerungen und Verhaltungsmaßregeln für uns.
 
 Ein Spion: das hieß, die Bande hatte uns auch hier
 <@pagebreak/>
-im Lazarett beobachtet, Sachen ihr lieber Verlust 88
-zu vergiften, nur halb geprahlt war.
+im Lazarett beobachtet, nachdem ihr frecher Versuch, uns
+zu vergiften, nur halb geglückt war.
 
-Ein Spion: dann waren sie wirklich noch in Bureau,
-dann hatten wir allen Grund, ans in ist zu nehmen.
+Ein Spion: dann waren sie wirklich noch in München,
+dann hatten wir allen Grund, uns in acht zu nehmen.
 
 Ein Spion: wir konnten ihm heimlich folgen, wir konnten
 das Quartier der Herrschaften ermitteln und vielleicht die
-Automaten mit einem Schlage zurücgeoinnen.
+Automaten mit einem Schlage zurückgewinnen.
 
-Dies nur als Probe … Man Monat« noch mehr nun
-das Wort »Spion« knüpfen, die Kette war noch nicht geh
-gelassen. —
+Dies nur als Probe … Man konnte noch mehr an
+das Wort »Spion« knüpfen, die Kette war noch nicht
+geschlossen. —
 
-Menschen gingen vorüber … Erde Spießer mit ’:bezog«
-sicher Schritt; trippelnd« Dämchen, ein: paar. Materjünglinge,
-waschechte Bohemiens, Da aus
+Menschen gingen vorüber … Dicke Spießer mit behaglichem
+Schritt, trippelnde Dämchen, ein paar Malerjünglinge,
+waschechte Bohemiens …
 
 Nirgends etwas Verdächtiges.
 
 Schräg gegenüber hielt eine Pferdedroschke. Der bis
-zu den Ohren eingemummelte Kutscher Saß krumm auf. dem
-Wo, rauchte …
+zu den Ohren eingemummelte Kutscher Saß krumm auf dem
+Bock, rauchte …
 
-»Vielleicht …!« dachte ich … »Vielleicht h1«
+»Vielleicht …!« dachte ich … »Vielleicht!!«
 
 Harald da — jetzt lauter:
 
-»’ »Wenn der Wann frei ist, benutzen wir das Besitzer …
+»Wenn der Mann frei ist, benutzen wir das Vehikel …«
 
 »Wohin?«
 
-Nach der Fatenturmgasse — »… Wir sind hier in der Nähe
+»Nach der Falkenturmgasse — … Wir sind hier in der Nähe
 des Sendlinger Tores … Wollen sehen …«
 
-Wichtig allein die »beiden lebten … Worte, — Wollen
+Wichtig allein die beiden letzten … Worte. — Wollen
 sehen …! — Also auch Harald hatte Verdacht geschöpft.
 
 Wir gingen an der Mauer entlang, taten so, als ob
-wir aus einem der nächsten Privathäuser — über die Straße
+wir aus einem der nächsten Privathäuser über die Straße
 gingen.
 
-— »Hallo, Kutscher, — frei?«
+»Hallo, Kutscher, — frei?«
 
-Dez bärtige Ah?:l droben nickte …
+Der bärtige Kerl droben nickte …
 
-»Wann’s ne! zu weit ich …«
+»Wann’s net zu weit is …«
 
-»Falkenturmgasse zwei,
+»Falkenturmgasse zwei …«
 
-»Steigen’s nur ein. ’.«
-Wir stiegen ein. E35 war ein /äammersicher ’geshlossener
+»Steigen’s nur ein …«
+
+Wir stiegen ein. Es war ein jämmerlicher geschlossener
 <@pagebreak/>
-Rattenkasten, die Fenster glaubte die Polster selbst, muffig
+Ratterkasten, die Fenster staubig, die Polster geflickt, muffig
 stinkend.
 
-Der Gaul zog an … Im Zukehrend nach dem Gent«
+Der Gaul zog an … Im Zuckeltrab nach dem
 Sendlinger Tor.
 
-Harald lachte leise. »Dame:;, zu dumm …!! Ich hätte
+Harald lachte leise. »Dumm, zu dumm …!! Ich hätte
 die Leute für intelligenter gehalten.«
 
-»Du meinst also Dietrich, daß …«
+»Du meinst also wirklich, daß …«
 
 »Ich lege meine Hand dafür ins Feuer. Wird eine
 Droschke dort um Mitternacht gehalten haben — zwecklos?!
 Das hier ist doch keine Verkehrsgegend. Wollen vorsichtig
 sein, mein Alter … Immerhin könnten die Herrschaften damit
 gerechnet haben, daß wir vielleicht — vielleicht den Wagen
-denken … Dank haben sie — vielleicht — hier so kleine
-Apparate angebracht, vom Bock aus zu bedienen: Anspeien,
-dergleichen … Denke an den beiden Abenteuerroman aller
-Zeiten, an Doktor Malaie von Norbert Jaques … Da
-wird der Staatsanwalt auch auf so veimtücische Art im
-Auto gründlichst überrascht … Viel mal auf … Heben
-wir mal die Pupillen ab …
+benutzen … Dann haben sie — vielleicht — hier so kleine
+Apparate angebracht, vom Bock aus zu bedienen: Gasspeier,
+dergleichen … Denke an den besten Abenteuerroman aller
+Zeiten, an Doktor Mabuse von Norbert Jaques … Da
+wird der Staatsanwalt auch auf so heimtückische Art im
+Auto gründlichst überrascht … Steh’ mal auf … Heben
+wir mal die Polster ab …«
 
 Er schaltete die Taschenlampe ein. Da nach vorn zum
 Kutscher kein Fensterchen vorhanden war, konnte der Kerl
@@ -564,7 +584,7 @@ uns nicht beobachten.
 
 Unter den Polstern des Sitzes gab es einen Kasten mit
 einem aufklappbaren Deckel. In dem Kasten lagen eine
-Pferdedecke, eine Thermosflasche und ein Pater Butterbrote.
+Pferdedecke, eine Thermosflasche und ein Paket Butterbrote.
 
 »Genügt,« meinte Harst und legte die Polster wieder
 auf den Kasten.
@@ -572,8 +592,8 @@ auf den Kasten.
 Dann kniete er, beleuchtete die Fußmatte. Es war ein
 Stück Kokosläufer.
 
-»Cm …!« brummte er … »Also das ist 8!! Mit dumm,
-beim Zeus!«
+»Hm …!« brummte er … »Also das ist’s! Nicht dumm,
+beim Zeus!!«
 
 »Was denn?«
 
@@ -590,16 +610,16 @@ Er setzte sich neben mich.
 
 »Nein. Nur muffigen Gestank …«
 
-»Ich rieche es … Sie haben in der Tat sein kalkuliert …
+»Ich rieche es … Sie haben in der Tat fein kalkuliert …
 Die Droschke ist präpariert … für Hunde.«
 
 »Gestatte: Unklar!«
 
 »Mag … sein … Warte ab. Sehr interessant. Die Entwicklung
-der Dinge wird nur anders vor!sich gehen, als
-die Leutchen es erhoffen …
+der Dinge wird nur anders vor sich gehen, als
+die Leutchen es erhoffen …«
 
-Er lachte wieder!Eise …
+Er lachte wieder leise …
 
 Und ich, ehrgeizig wie nie, verkniff mir weitere Fragen
 und suchte aus mir selbst heraus die Bedeutung der schäbigen
@@ -622,7 +642,7 @@ dem Wagen in halbem Trab bis zur Maximilianstraße,
 sahen ihn weit vor uns.
 
 Der Gaul konnte plötzlich geradezu höllisch traben …
-Schon verschwand er nach Wink, wo hinter dem neuen
+Schon verschwand er nach links, wo hinter dem neuen
 Rathaus Gassen und Gäßchen sich kreuzen …
 
 Wir stoppten … Harald hatte mich am Arm gepackt.
@@ -630,15 +650,15 @@ Wir stoppten … Harald hatte mich am Arm gepackt.
 »Wir müssen den Anschein vermeiden, als ob wir gegen
 die Droschke Verdacht geschöpft haben, mein Alter …«
 
-»Aber, — — sie entgeht uns doch …!« ich war sprachlos.
+»Aber, — — sie entgeht uns doch …!« Ich war sprachlos.
 Ich hatte mir den Ausgang dieses Intermezzos ganz anders
 vorgestellt. Meine Gehirnanstrengungen vorhin waren ganz
 <@pagebreak/>
-z2wedlos gewesen. Ich war offenbar nicht im Bilde.
+zwecklos gewesen. Ich war offenbar nicht im Bilde.
 
 Harald wandte sich der Theatinerstraße zu,
 
-»Laß nur … laß nur … Er ist!Chor da … Es war
+»Laß nur … laß nur … Er ist schon da … Es war
 vorauszusehen.« …
 
 »Wer?!«
@@ -646,11 +666,11 @@ vorauszusehen.« …
 »Der Hund …«
 
 Ich drehte mich um … Ich bemerkte dreißig Schritt
-
 Hinter uns einen schwarzen Pudel, der gerade einen Laternen
 Ständer nachdrücklich beschnupperte,
-— »Nicht zurückschauen — weiter … Harst zog mich
-mit sich fort … »Die Sache ist — die, mein Alter, — die Fußmatte
+
+»Nicht zurückschauen — weiter …!« Harst zog mich
+mit sich fort … »Die Sache ist die, mein Alter, — die Fußmatte
 der Droschke war mit einem bereits anrüchigen Stück
 Fleisch eingerieben. Der Geruch hat sich natürlich unseren
 Fußsohlen mitgeteilt, und der Pudel hat es leicht, uns auf
@@ -661,8 +681,8 @@ da wir die Sache durchschaut haben.«
 
 Wir kamen an der Theatinerkirche vorüber …
 
-»eng — um den Hofgarten herum …, Sobald wir um
-die Ecke der Gallerie-Straße sind, Galopp — bis zum: Englischen
+»Los — um den Hofgarten herum … Sobald wir um
+die Ecke der Gallerie-Straße sind, Galopp — bis zum Englischen
 Garten …«
 
 Ich war noch immer nicht im Bilde …
@@ -671,13 +691,13 @@ Also — — Galopp … Der schräge Häuserblock vor der
 Prinzregenten-Straße erleichterte uns das Verschwinden. Zum
 Glück war’s hier ganz menschenleer … Wir erreichten die
 Südwestecke des Englischen Gartens — — über den Rasen
-hinweg — — in die Büsche, hinein in den flachen Nebenhaus
+hinweg — — in die Büsche, hinein in den flachen Nebenlauf
 des Schwabinger Baches, und dann tief geduckt kehrt,
-448 zur Ecke der Worden-Dann-Straße.
+bis zur Ecke der Von-der-Tann-Straße.
 
-Setzt durch schaute ich Harsts Man. Wir haften?r Wasser
+Jetzt durchschaute ich Harsts Plan. Wir hatten im Wasser
 etwa Hundert Meter zurückgelegt — den Weg rückwärts,
-also dem Hunde und der Vegleitperson entgegen. Wir
+also dem Hunde und der Begleitperson entgegen. Wir
 kauerten hinter Ufergestrüpp …
 
 Sahen alles trotz der Dunkelheit …
@@ -685,29 +705,29 @@ Sahen alles trotz der Dunkelheit …
 <@pagebreak/>
 
 <h2>3. Kapitel.</h2>
-<h3>Die!Schmale Gasse.</h3>
+<h3>Die schmale Gasse.</h3>
 
-Es war ein prächtiger Pudel, nach Löwenart geschlafen,
-Ein sehr kräftiges Tier. Ganz flüchtig hatte ich vorhin an.
-den Bernhardiner gedacht; an jenen so überaus vollkommenen
+Es war ein prächtiger Pudel, nach Löwenart geschoren.
+Ein sehr kräftiges Tier. Ganz flüchtig hatte ich vorhin an
+den Bernhardiner gedacht, an jenen so überaus vollkommenen
 künstlichen, ferngesteuerten Hund, den Stuart Parker zu
 einem Attentat gegen uns benutzt hatte und der nun entführt
-war, zusammen mit der noch vollendekeren Gliederpuppe.
+war, zusammen mit der noch vollendeteren Gliederpuppe.
 
 Der Pudel, die Nase am Boden, lief über den Rasen,
-— gemalt dort, wo wir den Überdacht erreicht hatten. Am
-Wasser angelangt, blies er stehen, Geiste dreimal kurz, nahm
-Anlauf und setzte mit elegante im Sprung über das schmale
+— genau dort, wo wir den Nebenbach erreicht hatten. Am
+Wasser angelangt, blieb er stehen, bellte dreimal kurz, nahm
+Anlauf und setzte mit elegantem Sprung über das schmale
 Gewässer.
 
 Nun, der Hund war uns weit weniger wichtig, als der
-Herr dort drüben 64f der Promenade, der sich in aller See
-nächsten eine Zigarette anzündete, ganz so, als ob der
+Herr dort drüben auf der Promenade, der sich in aller
+Gemächlichkeit eine Zigarette anzündete, ganz so, als ob der
 Pudel ihn nicht das Allergeringste anginge.
 
 Ein überschlanker Herr, eingewickelt in einen langen
 Gürtelulster, mit grauem Filzhut, hellen Handschuhen, —
-schon auf die Entfernung ganz »letzte Mode«
+schon auf die Entfernung ganz »letzte Mode« …
 
 Er rauchte, schlug ein Büchlein unter der Laterne auf,
 — es schien ein Reiseführer zu sein … Das gelblederne
@@ -716,39 +736,39 @@ Beweis für den reichen Globetrotter.
 
 Sollte es sein … Der Mann vergaß nur eins: daß
 reisende Fremde um diese Zeit im Hotelbett zu liegen pflegen
-und Münden nicht ausgerechnet bei Nacht besichtigen.
+und München nicht ausgerechnet bei Nacht besichtigen.
 
 Die Hauptsache. Er pfiff … er pfiff, wenn er die Zigarette
 aus dem Munde nahm … Immer ein paar Takte aus dem
-Sternenbannermaxrsch, mal diese, mal jene.
+Sternenbannermarsch, mal diese, mal jene.
 
-Und sobald er pfiff — sehr laut und klar. in der
+Und sobald er pfiff — sehr laut und klar, in der
 <@pagebreak/>
-stillen« Nacht weithin hörbar — hob der nach unserer Fährte
+stillen Nacht weithin hörbar — hob der nach unserer Fährte
 suchende Pudel regelmäßig den Kopf und horchte.
 
 »Kamel!« flüsterte Harald …
 
-»Allerdings!« bestätigte im schmunzelnd, obwohl das
+»Allerdings!« bestätigte ich schmunzelnd, obwohl das
 kalte Fußbad in dem Bächlein trübe Vorahnungen an
 Schnupfen wachrief.
 
 »Es sind doch Anfänger,« fügte Harst hinzu. »Kein auch
 nur mittelmäßiger Gauner aus Berlins Dunkelquartieren
-würde so üble Herrsche spielen.« Ich bin neugierig, was
-»der Gentleman jetzt so denken mag. Er müßte doch längst
+würde so üble Komödie spielen. Ich bin neugierig, was
+der Gentleman jetzt so denken mag. Er müßte doch längst
 Verdacht geschöpft haben. Unser Verschwinden ist doch bei
 einiger Intelligenz leicht zu durchschauen. Jeder Karl May’sche
-Indianerhäuptling wäre klüger als dieser Hering da drüben…«
+Indianerhäuptling wäre klüger als dieser Hering da drüben.«
 
 Das Wort Hering rief sofort die Erinnerung an eine
-Bezeichnung bei mir Bad, die ich selbst geprägt hatte:
+Bezeichnung bei mir wach, die ich selbst geprägt hatte:
 der Spargel!
 
-Tür die semmelblonde dürre Skandinavierin mit
-den ’Kaninchenzähnen! Für die liebenswürdige Spenderin
-Sonst fragwürdiger Zigaretten aus einem sanft gewölbten
-Buchsbaumetui — — Hofbräu — — eiskalten Schweiß —
+… Für die semmelblonde dürre Skandinavierin mit
+den Kaninchenzähnen! Für die liebenswürdige Spenderin
+höchst fragwürdiger Zigaretten aus einem sanft gewölbten
+Buchsbaumetui — — Hofbräu — — eiskalter Schweiß —
 Schluß: Krankenhaus!
 
 Ob etwa der Gent da auf der Promenade vor uns der
@@ -759,7 +779,7 @@ Hatte wieder gepfiffen — auch vier Takte aus dem Sternenbannermarsch
 … und sich in Bewegung gesetzt. Die Sache
 erschien ihm nun doch wohl oberfaul, er retirierte. Er schlug
 die Richtung nach dem Hofgarten ein. Der Pudel lief
-über den Nasen, lief — und das war wirklich prachtvolle
+über den Rasen, lief — und das war wirklich prachtvolle
 Dressur — an dem Hageren vorüber, als ob der ihr gar
 nichts anginge, und entschwand in der Prinzregentenstraße.
 
@@ -768,70 +788,69 @@ zu lassen. Wir taten alles, was man in solchen
 Fällen tun kann. Wir nahmen eine leer des Weges daher kommende
 Autotaxe, ich setzte mich hinein, Harst blieb zu
 <@pagebreak/>
-Fuß, — — so war unserem Wanne jede Möglichkeit genommen,
-’unsg etwa durch ein Gefährt zu entfliehen. —
+Fuß, — — so war unserem Manne jede Möglichkeit genommen,
+uns etwa durch ein Gefährt zu entfliehen.
 
 Allerdings machte es keineswegs den Eindruck, als ob
-der Mann sich bedroht fühlte. Er schlenderte gewähren dahin,
-blieb hier und dort stehen, bummelte Master, kam in belebteste
+der Mann sich bedroht fühlte. Er schlenderte gemächlich dahin,
+blieb hier und dort stehen, bummelte weiter, kam in belebtere
 Gegenden, wanderte dem Sendlinger Tor zu, drehte sich nicht
-ein einziges Mal um, gelangte so schriebst an die Theresienwiese,
-wo im Hintergrund das riesige Erzitandbild der
-Bavaria in den bewährten Nachthimmel hineinragte.
+ein einziges Mal um, gelangte so schließlich an die Theresienwiese,
+wo im Hintergrund das riesige Erzstandbild der
+Bavaria in den bewölkten Nachthimmel hineinragte.
 
 Hier, wo die Häuser zum Teil noch sehr alt sind, zum
-Zeit in ausgedehnten Gärten liegen, — wo enge Gäßchen
+Teil in ausgedehnten Gärten liegen, — wo enge Gäßchen
 sich ziellos irgendwohin verirren und neue Wohnpaläste
-schamlos den -Gesamteindruck stören, — hier (ich saß neben
-dem jungen Chaufs2ur, dem ein Zwanzigmarkschein die
-Sinne geschärft hatten sagte dieser etwas zu geschwäßhzige
+schamlos den Gesamteindruck stören, — hier (ich saß neben
+dem jungen Chauffeur, dem ein Zwanzigmarkschein die
+Sinne geschärft hatte) sagte dieser etwas zu geschwätzige
 Fahrer zu mir:
 
 »Nun geben’s der Herr nur zu … Sie san von der
-Polizei … »Und — — Schacht hier, daß Ihnen der Vogel
-da nicht entfleucht … Schlimme Gegend des, — — Also
+Polizei … Und — — Obacht hier, daß Ihnen der Vogel
+da nicht entfleucht … Schlimme Gegend dös, — — Also
 Obacht!« —
 
 Harald war stets zwanzig Schritt voraus und signalisierte:
-
-Armbewegungen! Er verlor den Türen nie aus den Augen.
-Wir im Auto waren nur NYadhtirabIH erwiderte dem
-Chauffeur;
+Armbewegungen! Er verlor den Dürren nie aus den Augen.
+Wir im Auto waren nur Nachtrab. Ich erwiderte dem
+Chauffeur:
 
 »Wie heißt diese Straße?«
 
-… Es war nur eine Gasse … Lange Gartengitter, alte
+Es war nur eine Gasse … Lange Gartengitter, alte
 Bäume … hin und wieder ein einsamer Nachtwandler,
 
-»Z »Madlkocherstraßen …« verstand ich.
+»Madlkocherstraßen …« verstand ich.
 
-— Ein Signal Harsts: Arm hoch, Schlag nach unten. —
-Das ließ: Hall!«
+Ein Signal Harsts: Arm hoch, Schlag nach unten. —
+Das ließ: Halt!«
 
-Wir hielten. Harst versQqwand um die Biegung.
+Wir hielten. Harst verschwand um die Biegung.
 
-Wir warteten. Minuten schlichen. Nur wer. diese Art
-Jagdfieber kennt, begreift die Freude an solchen Leben. Das
-Spiel mit Aufregungen, Gefahren, Menschenschiäjaleu hat
-vielleicht etwas kranihaft Dämonisches an sich. Dieser Aus
+Wir warteten. Minuten schlichen. Nur wer diese Art
+Jagdfieber kennt, begreift die Freude an solchem Leben. Das
+Spiel mit Aufregungen, Gefahren, Menschenschicksalen hat
+vielleicht etwas krankhaft Dämonisches an sich. Dieser Ausdruck
 <@pagebreak/>
-trug mag allzu tat? erschienen. Vielleicht Hätte ich sagen
+mag allzu stark erschienen. Vielleicht Hätte ich sagen
 sollen: Besessenheit! Vielleicht schlummerte in uns allen
 Raubtiernatur. Unlängst hat in einem Rundfunkvortrag
 jemand geäußert, daß Kriminalromane von der großen Menge
-deshalb bevorzugt würden, weit in jedem ein Stückes Verbrecher
-eingekapselt, neben der Feigheit, selbst zur Tat zu schreiten.
+deshalb bevorzugt würden, weil in jedem ein Stückes Verbrecher
+eingekapselt, *neben* der Feigheit, selbst zur Tat zu schreiten.
 Deshalb die Gier, sich in der Phantasie an Brutalitäten,
-Versehen, Morden zu ergötzen. — Der Herr hatte nicht ganz
-Unrecht. Nur übersah er eins: Die breite Masse, die Tragischsten
+Vergehen, Morden zu ergötzen. — Der Herr hatte nicht ganz
+Unrecht. Nur übersah er eins: Die breite Masse, die Gebildeten
 nicht ausgenommen, wünschen nach des Alltags ewig
-gleiten Ireimühle völlige Ablenkung, völliges Vergessen,
+gleicher Tretmühle *völlige* Ablenkung, völliges Vergessen,
 sozusagen den Eintritt in eine andere Welt. Weshalb wurde
-einst der heute veraltete Conan Decke (Sherlock Holmes) Vers
-schlugen, weshalb erlebten die blutrünstigen, aber ungeheuer
-phantasievollen Indianergeschichten Karl Mays NRiesefiauf«-
-lagen, weshalb hat heute zum Beispiel die Karl-May-Hetze
-(man warf ihm sogar literarisFches Hochstaplertum in Bezug
+einst der heute veraltete Conan Doyle (Sherlock Holmes) Verschlungen,
+weshalb erlebten die blutrünstigen, aber ungeheuer
+phantasievollen Indianergeschichten Karl Mays Riesenauflagen,
+weshalb hat heute zum Beispiel die Karl-May-Hetze
+(man warf ihm sogar literarisches Hochstaplertum in Bezug
 auf seine religiöse Einstellung vor) endlich sich totgelaufen?!
 Der Mensch von heute, mehr denn je übersensibles, zermürbtes
 Nervenbündel, braucht vollkommenste geistige Umstellung
@@ -839,122 +858,131 @@ für Erholungsstunden. Es ist gröbster Schwindel zu
 behaupten, das »Volk« verlange literarische Kost. Das »Volk«
 verlangt Sensationen. Die »Intellektuellen« leugnen es. Aber
 die Tatsachen beweisen anderes. Was von dem, der ein
-
-statt daraus macht, als Kies seziert wird, bringt Unzähligen
+Geschäft daraus macht, als Kitsch seziert wird, bringt Unzähligen
 willkommene Entspannung. —
 
-Ich merkte deutlich, daß Fußes der Chauffeur neben mir
+Ich merkte deutlich, daß auch der Chauffeur neben mir
 dasselbe Jagdfieber bekam. Er war jung, er hatte ein scharfes,
 intelligentes Sportgesicht, in dem irgendein besonderer Zug
-meine Sympathie wachrief, Unwillkürlich sucht? ich meine
-Nervosität durchs ein Seipxr3G mit ihm abzuschwächen. Mit
-einem Wale sagte er da, indem er hochdeutsch zu sprechen
+meine Sympathie wachrief. Unwillkürlich suchte ich meine
+Nervosität durch ein Gespräch mit ihm abzuschwächen. Mit
+einem Male sagte er da, indem er hochdeutsch zu sprechen
 begann:
 
 »Ich habe auch einmal bessere Zeiten gekannt … Würde
 ich Ihnen verraten, wer ich bin, Sie würden es kaum
 <@pagebreak/>
-wurden. Heutzutage sitzt auf so wand;en Chuauffeurbod einer,
-der früher selbst vier Ruine hatte …
+glauben. Heutzutage sitzt auf so manchem Chauffeurbock einer,
+der früher selbst vier Autos hatte …«
 
-… Ich wandte den Kopf. »Sie sind Vesterreicher …? 94
-höre es, Sie stammen aus—Wien …«
+Ich wandte den Kopf. »Sie sind Österreicher …? Ich
+höre es, Sie stammen aus Wien …«
 
-— …
+»Ja …« Und dazu eine melancholische Handbewegung.
+»Lassen wir das … — Sind Sie in der Tat Kriminalbeamter?«
 
-»3. Und dazu eine melancholische Handbewegung.
-— Lassen wir das …; — Sind Sie in der Tat Kriminalbeamter
-?« y 8,
+»Nein …«
 
-»Nein …
+»Also Detektiv …«
 
-»Also Detektiv …
-
-»Rein …
+»Nein …«
 
 Er betrachtete mich prüfend. Meine Maske als bärtiger,
 schlichter Mann zerrann vor diesen durchdringenden Blicken.
 
-»34 lese Zeitungen …« weinte er. »Entschuldigen Sie,
+»Ich lese Zeitungen …« meinte er. »Entschuldigen Sie,
 sind Sie Herr Schraut?«
 
 Und leiser — aber merklich bestimmter: »Die Illustrierte
 brachte vorgestern Ihre Bilder — Harst und Schraut … Ich
-würde mich freuen, Ihnen geholfen zu. haben. Es wäre
+würde mich freuen, Ihnen geholfen zu haben. Es wäre
 doch mal ein kurzer Sprung hinein in ein mir fremdes
 Gebiet …«
 
-»Ich. bin May Schraut …« — ich reihte ihm die
-Hand. »Und Sie?« N «- …
+»Ich bin Max Schraut …« — ich reichte ihm die
+Hand. »Und Sie?«
 
 Er zögerte …
 
-Dann nannte er einen Ganzen, der mit der Geschichte der
-Donau-Fernrohre ein!t aufs allererste verknüpft war. Er
-lächelte trübe: »So dies ich; einst … Ich; bin der Letzte …
-Jetzt bin ich Johann Schönhauser —« — Nichts weiter,
-Chauffeur bei der Firma Blecheimer … Ich habe mich damit
+Dann nannte er einen Namen, der mit der Geschichte der
+Donau-Monarchie einst aufs allererste verknüpft war. Er
+lächelte trübe: »So hieß ich einst … Ich bin der Letzte …
+Jetzt bin ich Johann Schönhauser — — Nichts weiter,
+Chauffeur bei der Firma Pirchleitner … Ich habe mich damit
 abgefunden. In meinem Stammschloß hausen die italienischen
 Faschisten, unsere berühmte Gemäldegalerie wurde ein Raub
 der Flammen. Leider brannte nur der eine Schloßflügel nieder,
-Miß »über man ah? Branvistister. Unser Erbbegräbnis wurde
-von blinden Haß und Diegermutwilien zerstört … Nichts
-ist mir geblieben, nichts … Ich siehe so allein auf der
-Welt das wie ein Heimatloser. Ich bin es auch … Stumpfsinn
-erfüllt meine Tage, meine Nächte. Meine Hände ’umflammern
+Mich sucht man als Brandstifter. Unser Erbbegräbnis wurde
+von blinden Haß und Siegermutwillen zerstört … Nichts
+ist mir geblieben, nichts … Ich stehe so allein auf der
+Welt da wie ein Heimatloser. Ich bin es auch … Stumpfsinn
+erfüllt meine Tage, meine Nächte. Meine Hände umklammern
 <@pagebreak/>
-das Lenkrad, mein Hirn weiß nichts von meinem Sägewerk,
-mein wahres Leben sind meine stummen Er:eingefangen.«
-Er holte tief Atem. »Herr Schraut, es Ut ein Hilft«
+das Lenkrad, mein Hirn weiß nichts von meinem Tagewerk,
+mein wahres Leben sind meine stummen Erinnerungen.«
+
+Er holte tief Atem. »Herr Schraut, es ist ein Lichtblick,
 diese Nacht … Es ist Nahrung für Monate. Endlich einmal
-anderes als nur diese jämmerliczyhe Monotomie. — — Herab
+anderes als nur diese jämmerliche Monotonie. — — Herr
 Harst läßt sich Zeit …« Und dieser Nachsatz war erfüllt
 von geringer Sorge, die mir wohltat. Er hatte recht, es
-waren bereits zehn Minuten verstrichen. In mir war eins
+waren bereits zehn Minuten verstrichen. In mir war eine
 Unruhe, die aus dem Unterbewußtsein hervorwuchs …
-»Ich werde nachsteigen,« sagte ich.
+
+»Ich werde aussteigen,« sagte ich.
+
 »Besser, wir fahren noch zehn Schritt weiter, dann
-können wir die Straße übersehen … Ich lösche die … Lampen.(«
-Das Auto Rute an, glitt vorwärts.
-Vor uns die leere, stille Gasse mit ihren heilen Hinterreifen
+können wir die Straße übersehen … Ich lösche die … Lampen.«
+
+Das Auto ruckte an, glitt vorwärts.
+
+Vor uns die leere, stille Gasse mit ihren hellen Lichtstreifen
 der vereinzelten Laternen,
-Weine Unruhe ward Angst …
-»Herr Schönhauser, wenn Harst in eine Falle geraten:
-ist …
-Ich habe das nicht geradezu aussprechen wollen; Herr
-Schraut … Über …«
+
+Meine Unruhe ward Angst …
+
+»Herr Schönhauser, wenn Harst in eine Falle geraten
+ist …?!«
+
+»Ich habe das nicht geradezu aussprechen wollen, Herr
+Schraut … Aber …«
 
 Er nickte mir ernst zu. Ein unsichtbares Band umschlang
 uns: Sorge um Harst.
-… Aber gerade diese Gegend, Herr Schraut … sie
+
+»… Aber gerade diese Gegend, Herr Schraut … sie
 ist verrufen, ich kenne sie wenig, ich weiß nicht einmal recht,
 wie die Straße heißt …«
+
 Ich hörte kaum recht hin. Ich hatte nach der Armbanduhr
 geschaut … Es stimmte nicht: Harald war bereits
 eine Viertelstunde außer Sicht. Wo war er?! War es richtig,
 hier zu halten?!
-»Jahren Sie weiter — langsam!« sagte, ich gepreßt …
-Ich fieberte …
-Eine Viertelstunde … t! Was konnte da alles geschehen
-sein!!
-Schönhauser fuhr sehr langsam. Ich hatte die Augen
-überall. Links jetzt eine Ziegelmmauer — ein alter Park …
 
+»Fahren Sie weiter — langsam!« sagte ich gepreßt …
+
+Ich fieberte …
+
+Eine Viertelstunde …!! Was konnte da alles geschehen
+sein!!
+
+Schönhauser fuhr sehr langsam. Ich hatte die Augen
+überall. Links jetzt eine Ziegelmauer — ein alter Park …
 <@pagebreak/>
 Dann — ein Gitter … Eine Pforte … eine Laterne … —
 Schönhauser stoppt … »Herr Schraut, ein Handschuh liegt
-dort …
+dort …«
 
-Ich hatte ihn auch bereits bemerkt. Es war bin heller
+Ich hatte ihn auch bereits bemerkt. Es war ein heller
 Handschuh … Sofort der Gedanke: Der Dürre!! — Ich
 hinaus … hebe den Handschuh auf …
 
-Ein gelber Wildlederhandschuh … Größe 63.
+Ein gelber Wildlederhandschuh … Größe 6¾.
 
 Schönhauser sagt: »Zu klein für einen Mann, drei
+Knöpfe …«
 
-Knöpfe …
-Ich führe das Geben an die Nase. Es duftet ganz schwach
+Ich führe das Leder an die Nase. Es duftet ganz schwach
 nach Parfüm … — Erinnerung: der Spargel — —!! —
 
 Nun wußte ich es. Es war der Spargel gewesen …
@@ -983,38 +1011,41 @@ danach duften mußte.
 
 Sie duftete …
 
-— Ich erhob mich. Schönhauser stand neben mir,
-» »Nun??!t«
-»Forst ist geklappt worden.«
+Ich erhob mich. Schönhauser stand neben mir,
+
+»Nun?!«
+
+»Harst ist geklappt worden.«
+
 Er erschrak. »Meinen Sie wirklich?«
 
 <@pagebreak/>
-»Bestimmt. Her an dieser Hielte … Ich kann Ihnen
-auch sagen wie … Wollen Sie sich einmal Süden … Was
-sehen Sie hier rechts? Schauen Sie genau hin …
+»Bestimmt. Hier an dieser Stelle … Ich kann Ihnen
+auch sagen wie … Wollen Sie sich einmal bücken … Was
+sehen Sie hier rechts? Schauen Sie genau hin …«
 
-»Im — das ist ein … ein — — nein, drei her für
-der Erde zwischen zwei Steinen …
+»Hm — das ist ein … ein — — nein, drei Löcher in
+der Erde zwischen zwei Steinen …«
 
-»Und hier
+»Und hier?«
 
-»Dasselbe
+»Dasselbe …«
 
-»Löcher — -« —« von Fingern, von! zwei Händen, die
-sich in die Erde einkrallen … Von dort, von der Man
+»Löcher — ja, — von Fingern, von zwei Händen, die
+sich in die Erde einkrallen … Von dort, von der Mauer
 Her wurde ein Lasso geworfen, riß Harst halb erwürgt zu
 Boden. Er suchte dem Zuge des Lassos Widerstand zu leisten,
 krallte sich einen Moment im Pflaster fest … Dann hat
 er den Lederriemen gepackt … Es war zu spät … Man
 war schon über ihm …« Ich redete wie im Fieber. Ich
-wußte, alles mußte ging so abgespielt haben. Ein Harst ist
+wußte, alles mußte sich so abgespielt haben. Ein Harst ist
 auf andere Weise nicht zu überrumpeln … Ich schritt
-rasche die Gasse weiter hinab … Bis zur Ecke. Mitten auf
-dem Fahrdamm’ der breiten anderen Straße standen hier
+rasch die Gasse weiter hinab … Bis zur Ecke. Mitten auf
+dem Fahrdamm der breiten anderen Straße standen hier
 zwei Beamte einer Nachtwachgesellschaft. Ich auf sie zu …
 
 »Entschuldigen Sie, kam vor etwa einer Viertelstunde
-Her vielleicht eine alte klapprige Pferdedroschke vorüber?«
+Hier vielleicht eine alte klapprige Pferdedroschke vorüber?«
 
 Der eine bejahte.
 
@@ -1028,58 +1059,58 @@ Er deutete nach der Bavariastraße hin.
 
 »Ich danke Ihnen … Sah der Kutscher der Droschke etwas
 bucklig aus … War das Pferd ein Brauner, der stark mit
-dem Kopf wartete?«
+dem Kopf wackelte?«
 
 Auch das stimmte.
 
-Die denen Beamten Kauerten mich satt argwöhnisch.
+Die beiden Beamten musterten mich fast argwöhnisch.
 
 »Ich bin Schraut,« stieß ich atemlos hervor … »Schraut,
-der Freund von Harald Harst … Meine Herren, ’Sie werden
+der Freund von Harald Harst … Meine Herren, Sie werden
 schweigen … Harst ist gewaltsam entführt worden …«
 
-« Schönhauser war mit dem Auto schon da. Ich stieg Fix.
+Schönhauser war mit dem Auto schon da. Ich stieg ein.
+
 <@pagebreak/>
-»Die Bavaria-Straße hinab …! Fix!l! Und wo wir
-jemand treffen, halten Sie …
+»Die Bavaria-Straße hinab …! Fix!! Und wo wir
+jemand treffen, halten Sie …«
 
-Er — war genau so nervös wie ich … Wir kamen!so
-ungläubig zum Rande der Christian-Wiese … Und gerade Jetzt
-teilte sich das Gewölk … Der Mond Bestien die weite
-bunte Zeltstadt d der r Oktoberwiese, des großen urmündnerischen
+Er war genau so nervös wie ich … Wir kamen so
+bis zum Rande der Theresien-Wiese … Und gerade Jetzt
+teilte sich das Gewölk … Der Mond beschien die weite
+bunte Zeltstadt der Oktoberwiese, des großen urmünchnerischen
 Herbstrummels …
-
-»vor —
 
 <h2>3. Kapitel.</h2>
 <h3>Oktoberwiese.</h3>
 
-»Vormittags zehn Uhr, in den Hotelzimmern Frau Harsts.
-Mathilde, treue Köchin des Hauses Harst, — mehr. als
-das: mit zur Familie’ gehörig, sagte zu Xaver Dürnhuber,
-unserem (Freunde: »Für unsre Baliner Polizei wär« das
-ne Kleinigkeit jewesen, ’nen ollen Rumpelkasten von Taxameterdroschke
-zu finden … Und Sie hier suchen Nu seit halb
-drei Uhr morgens und haben mischt gefunden!!«
+Vormittags zehn Uhr, in den Hotelzimmern Frau Harsts.
 
-»Mathilde …!!« Begütigte ich mahnend.
+Mathilde, treue Köchin des Hauses Harst, — mehr als
+das: mit zur Familie gehörig, sagte zu Xaver Dürnhuber,
+unserem Freunde: »Für unsre Baliner Polizei wär’ das
+’ne Kleinigkeit jewesen, ’nen ollen Rumpelkasten von Taxameterdroschke
+zu finden … Und Sie hier suchen nu seit halb
+drei Uhr morgens und haben nischt jefunden!!«
 
-»ah war, — Sie reden man lieber gar mischt, Herr
-Braut … Sie sehen aus wie Braunbier und Spucke …
-Kern Wunder nicht …! Wenn Sie nicht geschlafen haben,
+»Mathilde …!!« begütigte ich mahnend.
+
+»Ach wat, — Sie reden man lieber jar mischt, Herr
+Schraut … Sie sehen aus wie Braunbier und Spucke …
+Keen Wunder nich …! Wenn Sie nicht jeschlafen haben,
 und wenn Sie …«
 
-»Mathilde!!« ’DieSmal war’s Trat Harst. Sie trug
-das Vnabaäanderlie mit bewutnderröwerter Fassung. »Lieber
-Schraut, Sie sollten jetzt. Million verständig sein und sich
-niederlegen. -Wenn Sie versagen, — was bleibt uns da noch
+»Mathilde!!« Diesmal war’s Frau Harst. Sie trug
+das Unabänderliche mit bewundernswerter Fassung. »Lieber
+Schraut, Sie sollten jetzt wirklich verständig sein und sich
+niederlegen. Wenn Sie versagen, — was bleibt uns da noch
 Zu hoffen?!«
 
-Gas klopfte …
+Es klopfte …
 
 <@pagebreak/>
 Das Stubenmädchen brachte für mich und Xaver Frühstück:
-Kaffee, extra stark ablöst, je zwei Eier, Schinken …
+Kaffee, extra stark gebrüht, je zwei Eier, Schinken …
 
 Wir aßen. Ich hatte eine wahre Gier nach starkem
 Kaffee. Ich mußte mich munter halten, mußte mein Hirn
@@ -1087,10 +1118,10 @@ anfeuern. —
 
 Die nächtliche Autofahrt mit Schönhauser hatte schließlich
 vor dem Polizeipalast geendet, ich hatte die Polizei alarmiert,
-im konnte Droschke, Pferd, Kutscher, Pudel genau beschreiben.
+ich konnte Droschke, Pferd, Kutscher, Pudel genau beschreiben.
 Daß die Nachforschungen bisher erfolglos, — es war nicht
 die Schuld der Beamten, — es war ja klar, daß es sich
-niemals um eine amtliche gemeldete Taxameterdryshke gehandelt,
+niemals um eine amtliche gemeldete Taxameterdroschke gehandelt,
 vielmehr um einen ausrangierten Wagen, den die
 Bande der Automatendiebe irgendwie aufgetrieben hatte.
 
@@ -1098,94 +1129,93 @@ Mit welcher Schlauheit die Leute bei alledem zu Werke
 gegangen, daß Harst sie gründlichst unterschätzt hatte: Die
 Ereignisse der Nacht waren Beweis dafür!
 
-Und »nun?! …
+Und nun?!
 
-… Ich würgte das zweite Ei hinab … Ich trank einen
+Ich würgte das zweite Ei hinab … Ich trank einen
 Kognak hinterher, noch einen. Auf meinem Gesicht brannte
 nervöse Glut. Ich fühlte, wie matt meine Augen waren,
 ich fühlte aber auch, daß der Mokka wirkte, daß die trüben
 Schleier, die meine Gedanken eingehüllt hatten, immer mehr
-wittert:
+wichen …
 
-Frau Harst beobachtete mich ängstlich. Ich war so tun
-schwinden, während Xaver Dürnhuber redete … redete, um
-zu trösten, um Hoffnungen zu weder.
+Frau Harst beobachtete mich ängstlich. Ich war so still
+geworden, während Xaver Dürnhuber redete … redete, um
+zu trösten, um Hoffnungen zu wecken.
 
-Sir?! war ich. Weil mein Hirn plötzlich aller Schwere
+Still war ich. Weil mein Hirn plötzlich aller Schwere
 ledig, weil ich versonnen und doch scharf prüfend jede
-Einzelheit der rätselhaften Flasche durchaus … Seeleute
-und zerfaserte, bis ich auf einen Punkt stieß, der mir Eise
+Einzelheit der rätselhaften Tragödie durchging … zerlegte
+und zerfaserte, bis ich auf einen Punkt stieß, der mir die
 Zunge löste.
 
 »Xaver …!«
 
 Er erschrak ordentlich. »Herr Schraut?«
 
-»Klarer, wie hieß doch Stuart Parkers Wirtschafterin,
+»Xaver, wie hieß doch Stuart Parkers Wirtschafterin,
 <@pagebreak/>
 die als einzige mit ihm in dem alten Steinkasten in der
 Falkenturmgasse hauste?«
 
 »Amanda Rickhuller …«
 
-»Sie jagten, die Rickhuller sei zu Verwandten gereist
+»Sie sagten, die Rickhuller sei zu Verwandten gereist …«
 
-»39a, schon vorgestern … Ihr? Mutter ist!einer ran!,
-Sie bekam eine Depesche aus Sh4aiytlach, und da hat der Herr
-Rat sie denn fahren lassen. Biß dahin war sie in der
+»Ja, schon vorgestern … Ihre Mutter ist schwer erkrankt.
+Sie bekam eine Depesche aus Schaftlach, und da hat der Herr
+Rat sie denn fahren lassen. Bis dahin war sie in der
 Pension Wurmster untergebracht, das wissen Sie ja, Herr
 Schraut.«
 
-»Freilich, und bei Munteres stand die dauernd unter
-Erwägung …«
+»Freilich, und bei Wurmsters stand sie dauernd unter
+Bewachung …«
 
 »Dauernd …«
 
 »Kommen Sie, Xaver … Vielleicht habe ich soeben
-den Faden gefunden … Er mag dünn sein … Unser Faden
-bleibt Faden, wenn man aus einem Irrgarten heraustritt.
-— Liebe Frau Harst, entsäzuldigen Sie uns … 54h deute.
-die Amanda Rickhuller dürfte mit der Bande irgend:die
-Kontakt haben. — Das werde ich sofort feststellen. 4 —
+den Faden gefunden … Er mag dünn sein … Aber Faden
+bleibt Faden, wenn man aus einem Irrgarten herauswill.
+— Liebe Frau Harst, entschuldigen Sie uns … Ich denke,
+die Amanda Rickhuller dürfte mit der Bande irgendwie
+Kontakt haben. — Das werde ich sofort feststellen.« —
 
-Die Bahnstation Schußloch, zugleich größerer Ort nach
-den bayerischen Uhren zu, war telephonisch unschwer zu
-Häuserreihen. Xaver mußte den Ortsvorsteher anrufen …
+Die Bahnstation Schaftlach, zugleich größerer Ort nach
+den bayerischen Alpen zu, war telephonisch unschwer zu
+erreichen. Xaver mußte den Ortsvorsteher anrufen …
 Ob die Witwe Rickhuller, Mutter der Köchin Amanda,
 wirklich krank und die Tochter bei ihr sei.
 
 Antwort: Die alte Rickhuller sei kerngesund und Amanda
-nicht in Sdvjastlah.
+nicht in Schaftlach.
 
-… Ob die alte Minuten denn an ihre Tochter nach
+… Ob die alte Rickhuller denn an ihre Tochter nach
 Pension Wurmster depeschiert habe?
 
 … Davon könne gar keine Rede sein. Die alte Frau
 sei mit ihrer Tochter seit Jahren entzweit. Die Amanda habe
 allerlei dumme Geschichten gemacht, und die Mutter sei
 sehr fromm. Sie wolle von ihrem Kinde vorläufig nichts
-wissen, bis die Amanda wieder vernünftig geworden»…
+wissen, bis die Amanda wieder vernünftig geworden …
 Noch gestern Abend habe der Gemeindevorstand die alte
 Frau gesprochen. Daß diese die Tochter etwa bei sich verberge,
 sei gänzlich ausgeschlossen. —
 
 <@pagebreak/>
 Dieses Gespräch in der Telephonzelle des Hotels war
-kaum beendet, als Xaver und ich schon im Gturmscritt
+kaum beendet, als Xaver und ich schon im Sturmschritt
 auf die Straße eilten und in ein Auto sprangen. Es ging
-
-zu dem Brillant, das für die Pension Wurmster zuständig
+zu dem Postamt, das für die Pension Wurmster zuständig
 war.
 
 Auf der Post legitimierte Xaver sich.
 
 Erfolg: Es war keine Depesche für Amanda Rickhuller
-eingelaufer.
+eingelaufen.
 
 Also: Fälschung!
 
-Dann zu Wucherers, bescheidenes Pensionat, älteres Chef
-paar, etwas verbittert, bessere Tage gesehen.
+Dann zu Wucherers, bescheidenes Pensionat, älteres Ehepaar,
+etwas verbittert, bessere Tage gesehen.
 
 Frage: Ob ein Depeschenbote das Telegramm gebracht
 habe, wie er aussah?
@@ -1196,122 +1226,120 @@ gewesen!
 Die Depesche selbst war nicht mehr aufzustöbern. Wie
 auch?! Amanda war eben verschwunden.
 
-Wir mit zum Herrn Rat …
+Wir nun zum Herrn Rat …
 
-Verübt.
+Bericht.
 
 Der Herr Rat ist platt. Drückt mir aber die Hand.
 
 »Guter Gedanke gewesen, Herr Schraut … Natürlich
-steht das Frauenzimmer mit der Bande unter einer Werte …
-Der hätte das dem Weibsbild zugetraut! Sie sieht ja so
+steht das Frauenzimmer mit der Bande unter einer Decke …
+Wer hätte das dem Weibsbild zugetraut! Sie sieht ja so
 harmlos-dämlich aus, und jung ist sie auch nicht mehr.«
 
-»Das sind die schlimmsten, Herr Rat.« Und ichG rufe
+»Das sind die schlimmsten, Herr Rat.« Und ich rufe
 mir Amandchens Bild ins Gedächtnis zurück …: Mager,
-pomadig, rotes dickes Gesicht, Schweinsäuglein … fest angeklebten
-fahler Scheitel, ShneFXeizopf, blitzsaubere Kürze,
+pomadig, rotes dickes Gesicht, Schweinsäuglein … fest angeklebter
+fahler Scheitel, Schneckenzopf, blitzsaubere Schürze,
 auffallend zierliche Füße und Hände. — So stand sie in
 meinem Gedächtnis als Stuart Parkers einzige Hausgenossin
 in der Falkenturmgasse.
 
 Der Rat hatte mir eine Zigarre angeboten. Die Sonne
 malte auf die braunen Dielen helle Kringel. Die Vorhänge
-der Fenster waren »außgerdienstlicH’« waren. Filetstores. Ich
+der Fenster waren »außerdienstlich«, waren Filetstores. Ich
 <@pagebreak/>
 rauchte und blickte den Wölkchen nach. Und fragte mich: »Was
 nun?!«
 
 Xaver Dürnhuber saß frisch und jung und bescheiden
-neben der Tür. Über er fühlte sie trotzdem. Er war nur
+neben der Tür. Aber er fühlte sich trotzdem. Er war nur
 Anfänger, immerhin mein Vertrauter.
 
 Ich merkte, daß die Erregung in mir abflaute. Zweifellos
-war die »Feststellung, daß die Amanda mit Bitte des
-Spargels aus dar Pension entwichen, »ein Erfolg. Über
-dieser Erfolg mußte weiter ausgewertet werden. Viel?! Der
+war die Feststellung, daß die Amanda mit Hilfe des
+Spargels aus der Pension entwichen, ein Erfolg. Aber
+dieser Erfolg mußte weiter ausgewertet werden. Wie?! Der
 »Faden« durfte nicht abreißen …
 
 Ich strengte mein Hirn an. Wir alle drei taten’s.
-Der Rat strich) fix nachdenklich über die Stirn. Er war
-ein alter Praktikus, ein jovialer Herr, brannte ein scharfer
-Geist. Hinter der Wäsche behäbiger Beschaulichkeit arbeitete
+Der Rat strich sich nachdenklich über die Stirn. Er war
+ein alter Praktikus, ein jovialer Herr, dennoch ein scharfer
+Geist. Hinter der Maske behäbiger Beschaulichkeit arbeitete
 eine erstklassige Denkmaschine.
 
-»Im — — der Pudel …« sagte er plötzlich und blickte
-»mich an. »Ich habe vor zwei Stunden dreißig Beamte
-laut Pudeljagd geschickt. Schwarze Pudel, nach Löwenart
+»Hm — — der Pudel …« sagte er plötzlich und blickte
+mich an. »Ich habe vor zwei Stunden dreißig Beamte
+auf Pudeljagd geschickt. Schwarze Pudel, nach Löwenart
 geschoren, sind hier selten. Meine Leute wissen schon, wie
 und wo sie in den Straßen nachzufragen haben — bei
-den kleinen Zigarrenhändlern, die viel in der offenen Ladenür
-stehen und die KlatsHchHronik ihrer Straße beherrschen.
-I4) verspreche mir Ersatz davon. Haben wir den Pudel,
-den wir auch die Baude und die Automaten. Übrigens
-war heute schon wieder ein. Herr von der Regierung bei
-mir, Die Automaten dürften auf keinen Fall ins Ansah
-…
+den kleinen Zigarrenhändlern, die viel in der offenen Ladentür
+stehen und die Klatschchronik ihrer Straße beherrschen.
+Ich verspreche mir Erfolg davon. Haben wir den Pudel,
+haben wir auch die Bande und die Automaten. Übrigens
+war heute schon wieder ein Herr von der Regierung bei
+mir. Die Automaten dürften auf keinen Fall ins Ausland
+…«
 
-— Ich war mit meinen Gedanken viele Stunden rückwärts
-Beeilt, zu der Autofahrt mit Schönhauser, dem Österreicher,
-Wer jivmpalhida Wenig) hatte mir seine Adresse angegeben,
-Mund;dem wir nachts umsonst die alte Droschke gesucht und
-ie Jagd schließlich aufgegeben hatten. Er wollte auf eigene
-Brust herumbhorhen, ob einer der Chauffeurkollegen nicht
-Gebleicht etwas beobachtet hätte …
+Ich war mit meinen Gedanken viele Stunden rückwärts
+geeilt, zu der Autofahrt mit Schönhauser, dem Österreicher,
+Der sympathische Mensch hatte mir seine Adresse angegeben,
+nachdem wir nachts umsonst die alte Droschke gesucht und
+die Jagd schließlich aufgegeben hatten. Er wollte auf eigene
+Faust herumhorchen, ob einer der Chauffeurkollegen nicht
+vielleicht etwas beobachtet hätte …
 
 <@pagebreak/>
 »Also abwarten,« meinte der Rat. »Oder wissen Sie
 Besseres, Herr Schraut?«
 
 Ich erwiderte nichts. Mein Blick hing starr auf einem
-großen farbigen Plakat, das links über einen Sturz; gebreitet
+großen farbigen Plakat, das links über einen Stuhl gebreitet
 war: Reklame der Schausteller, die diesmal auf
 der Oktoberwiese sich versammelt hatten, — — grellbunte
 Bilder, mitten darin in einem knallroten Kreis ein Klavier,
-vor dem ein weißer, nach Löwenart geschorener Pudel laß,
-die Pfoten auf den Hatten. In flammenden. Buchstaben
+vor dem ein weißer, nach Löwenart geschorener Pudel saß,
+die Pfoten auf den Tasten. In flammenden Buchstaben
+darunter:
 
-darunter;
-Mr. James,
-der Wunderpudel,
-der Tierpianist.
+<p class="centered em">Mr. James,</p>
+<p class="centered">der Wunderpudel,</p>
+<p class="centered">der Tierpianist.</p>
+
 »Ja, ich weiß etwas, Herr Rat …« Ich sprang auf.
-»Könnten Sie für Dürnhuber und mich vielleicht Volks«-
-
-trachten besorgen und uns dann heimlich — hinten hinauslassen?«
-
--
+»Könnten Sie für Dürnhuber und mich vielleicht Volkstrachten
+besorgen und uns dann heimlich hinten hinauslassen?«
 
 <h2>5. Kapitel.</h2>
-<h3>-« Ein Bad.</h3>
+<h3>Ein Bad.</h3>
 
 Oktoberwiese …
 
-Für die Münchener die alljährliche Riesengaudi ck … Für
-hin Brauereien, die dann riesige Bierpaläste errichten, für
-die Schausteller, die Händler aller Art das Geschäft —
+Für die Münchener die alljährliche Riesengaudi … Für
+die Brauereien, die dann riesige Bierpaläste errichten, für
+die Schausteller, die Händler aller Art *das* Geschäft —
 freilich abhängig vom Wetter …
 
-Nun, dieser Vormittag war kühl, aber voller Sonne,
-Und die beiden echt bayrischen Schalter, die da gemütlich durch
+Nun, dieser Vormittag war kühl, aber voller Sonne.
+Und die beiden echt bayrischen Älpler, die da gemütlich durch
 die Budenstadt schlenderten, schienen bereits gehörig dem
 edlen Gerstensaft zugesprochen zu haben, hatten sich untergehakt,
 und bestaunten all diese Herrlichkeiten, — — alles
 <@pagebreak/>
-gab’s hier, gibt es hier, alles … von alten — Kleidern,
+gab’s hier, gibt es hier, alles … von alten Kleidern,
 Gemälden, Raritäten, antiken Waffen bis hinauf zu nie
 aussterbenden Damen ohne Unterleib in ihrem Spiegelglaskasten
 — frei hängend, — — bis zu Mr. James, dem
-Wunderpudel … ««
+Wunderpudel …
 
 Ein etwas schäbiges Zelt besaß Mr. James. Darin
 waren außerdem noch zu sehen: Das Kalb mit zwei Köpfen,
-die Gans mit drei Füßen, der RViesengorislla Brutus, der
-steht sibirisch4 Steppenwolf, der echte Sahara-Strauß …
+die Gans mit drei Füßen, der Riesengorilla Brutus, der
+echt sibirische Steppenwolf, der echte Sahara-Strauß …
 
-Felsenfeste Jugend drängte sich um das Zelt, auf dessen
+Ferienfreie Jugend drängte sich um das Zelt, auf dessen
 Podium als Lockmittel ein Äffchen, zwei Papageien und
-ein Krokodil kostenlos zu setzen waren. Gierige Kinderaugen …
+ein Krokodil kostenlos zu sehen waren. Gierige Kinderaugen …
 sehnsüchtige Wünsche, — — Zaungäste des großen Rummelplatzes,
 
 Xaver und ich standen inmitten dieser Knirpse, die echt
@@ -1319,12 +1347,12 @@ kindlich, aber sehr sachlich Kritik übten …
 
 »Was wollen Sie nun eigentlich hier, Herr Schraut?«
 fragte Xaver zum zweiten Male … »Glauben Sie wirklich,
-daß der Pudel des Mr… James der Pudel sein könnte?!
-Ich bitt’ Sie: Ein, weißer Pudel!«
+daß der Pudel des Mr. James *der* Pudel sein könnte?!
+Ich bitt’ Sie: Ein, *weißer* Pudel!«
 
 »Still!!«
 
-Meine Hand reckte sich nach einem der Knirpse tut.
+Meine Hand reckte sich nach einem der Knirpse aus.
 
 »Komm’ mal mit, Junge … Kannst eine Mark verdienen,«
 sagte ich leise … —
@@ -1338,44 +1366,42 @@ Ich zog ihn mit mir … Mitten in der Budengasse
 standen wir … Vor uns der Wohnwagen der Besitzer des
 Mr. James … Zwischen Wagen und Zelt hing ein alter
 großer Teppich als Vorhang … Durch eine Spalte an
-der Seite Grotte ich einen Kerl in einer Art Husarenuniform
+der Seite erblickte ich einen Kerl in einer Art Husarenuniform
 — mit schwarzem Hängeschnurrbart, gebräuntem
-Gesicht … Den Mann kannte ich … Das war einer der
+Gesicht … *Den* Mann kannte ich … Das war einer der
 Herrschaften aus dem Hofbräu …
 
 <@pagebreak/>
-34 drehte mich rasch weg. Mochte der Bursche auch
-noch!so tadellos Maske gemacht haben: Er -war’äö! Einer
+Ich drehte mich rasch weg. Mochte der Bursche auch
+noch so tadellos Maske gemacht haben: Er war’s! Einer
 war’s …
 
-Und dann gab ich dem Zungen ein Dreimarkstück …
+Und dann gab ich dem Jungen ein Dreimarkstück …
 
-»Öse mal, kleiner Kerl, — du erzähltest da soeben deinen
-Freunden, daß du heute morgen!schon einen Fünfziger
-verdient hast, indem du für die »Schausteller Wasser geholt
-hast — zu einem Hundebad …
+»Hör mal, kleiner Kerl, — du erzähltest da soeben deinen
+Freunden, daß du heute morgen schon einen Fünfziger
+verdient hast, indem du für die Schausteller Wasser geholt
+hast — zu einem Hundebad …«
 
-»D55 hab’ ich, Herr … den Pudel haben’s gebadet …
-Und er umpkrallte sein Dreimarkstück und war ganz ließ
+»Dös hab’ ich, Herr … den Pudel haben’s gebadet …
+Und er umkrallte sein Dreimarkstück und war ganz blaß
 vor Glück …
 
 »War der Pudel denn schmutzig?«
 
-»Schwarz war er … In ’in Haufen Nuß hatte er sich
+»Schwarz war er … In ’m Haufen Ruß hatte er sich
 gewälzt … Ganz schwarz war er … Aber das sollte ich
-nicht sehen, wie schwarze er war … Sie waren sehr gesetzt
+nicht sehen, wie schwarze er war … Sie waren sehr ärgerlich,
 als der James mal den Kopf zur Wagentür heraus
+steckte …«
 
-edle …«
-
-»Gut, mein Junge … Erzähl? hiervon niemandem etwas.
-Je, hast du rosa einen Taler … Verschwinde jetzt von
-
-hier
+»Gut, mein Junge … Erzähle hiervon niemandem etwas.
+Hier, hast du noch einen Taler … Verschwinde jetzt von
+hier …«
 
 Der kleine Kerl starrte mich ganz fassungslos an. Was
 in seinem Hirn vorging, las ich ihm von dem schmalen
-Gesichter ab. Sechs Mark für eine solche Auskunft über
+Gesichtchen ab. Sechs Mark für eine solche Auskunft über
 einen Pudel: das ging über seine Begriffe!!
 
 Über trotzdem trollte er sich dann schleunigst. Er mochte
@@ -1385,99 +1411,101 @@ Nichts allzu reichlich bemessen seien.
 
 Xaver hatte als stummer Zuhörer dabei gestanden, nein,
 — als ehrlichen Bewunderer dessen, was von mir im Grunde
-kaum als besondere Leistung 321 bewerten war.
+kaum als besondere Leistung zu bewerten war.
 
-— Glückliche Zufälle hatten mir den Erfolg halb in den
-Schoß/ geworfen. Das Plakat im Zimmer des Polizeirats —
-»iz Ideenverbindung zwischen dem Pudel Mr. James und
+Glückliche Zufälle hatten mir den Erfolg halb in den
+Schoß geworfen. Das Plakat im Zimmer des Polizeirats —
+die Ideenverbindung zwischen dem Pudel Mr. James und
 dem schwarzen Pudel, der nur gefärbt gewesen sein konnte:
-
 <@pagebreak/>
-Ein Zufall! Aber das Plakat hätte mir aufs ander&wo
-auffallen sagen … Es liebte an allen Säulen, allen
-Zäunen … Vielleicht wäre 19) schließlich zum ganz, von
-selbst, auf »den. Gedanken gekommen, daß, da. der Überfall
-auf ’Harst ich in der Nähe der Theresienwiese stattgefunden. hatte
-und die alte Brosche die Nichtazng dorthin. eingeschlagen,
-vielleicht, nie. des »By; Vorstadt ’des. großen… Raum elf die: Bande
+Ein Zufall! Aber das Plakat hätte mir auch anderswo
+auffallen können … Es klebte an allen Säulen, allen
+Zäunen … Vielleicht wäre ich schließlich auch ganz von
+selbst auf den Gedanken gekommen, daß da der Überfall
+auf Harst in der Nähe der Theresienwiese stattgefunden hatte
+und die alte Droschke die Richtung dorthin eingeschlagen,
+vielleicht in der Budenstadt des großen Rummels die Bande
 zu suchen sei — vielleicht …
 
-ne alte, unter war Mauer, ganz blaß:
+Xaver sagte, und er war dabei ganz blaß:
 
-»Mr. — 4.4 haben fiel! Durch … — Sie!!«
+»Wir … haben sie!! Durch … Sie!!«
 
-»59: «+5. Und tun Dir, »mein Lieber« — Ein ’ zum nächsten
+»Ja … Und nun fix, mein Lieber … Hin zum nächsten
 Polizeirevier … Wir müssen die Bude und den Wagen
-umstellen … Ich bleibe hier«
+umstellen … Ich bleibe hier …«
 
-Dürnhuber eilte:Baron.
+Dürnhuber eilte davon.
 
 Ich beobachtete …
 
-Auf dem Podium- arg der Lasse saß ein Weibsbild mit
-schneeweißen Perücke, geschminkt, heraus8gepußt’ wie die Pompadour
-… :. Sie hatte wenig zu tun. Der Hauptbetrieb begann
-erst nachmittags. Sie las in einem Büchse
+Auf dem Podium an der Kasse saß ein Weibsbild mit
+schneeweißer Perücke, geschminkt, herausgeputzt wie die Pompadour
+… Sie hatte wenig zu tun. Der Hauptbetrieb begann
+erst nachmittags. Sie las in einem Buche.
 
-34; stand zwanzig Schritte ab, hatte ’mir ein Paar
-Weißwürstl getauft, ’aß … Beobachtete …
+Ich stand zwanzig Schritte ab, hatte mir ein Paar
+Weißwürstl gekauft, aß … Beobachtete …
 
-Klienten« Male- hob das Weib den Kopf …- Ich
-erkannte sie: Es:«war« eins. der angejahrten »Skändinavierinnen«
-… Dann las sie weiter, schaute wieder auf ins
-»erhob sich, gähnte und werfen wand »im »Zelt, trat nochmals
-heraus; holte ihr Buch, und der« grüne Vorhang fiel
-»abermals: zu.«
-12 Drinnen »im. Zelt begann eint« ’Flavier« zu klimpern …
+Mit einem Male hob das Weib den Kopf … Ich
+erkannte sie: Es war eine der angejahrten »Skändinavierinnen«
+… Dann las sie weiter, schaute wieder auf und
+erhob sich, gähnte und verschwand im Zelt, trat nochmals
+heraus, holte ihr Buch, und — der grüne Vorhang fiel
+abermals zu.
 
-»Denn du denkst du hast ’n,
-Ort sagt er aus ’in Kasten
+Drinnen im Zelt begann ein Klavier zu klimpern …
 
-Jäh brach — ’da8—»Spiel ab.,
-Dafür ertönte ein Gong —« dreimal
-Offenbar besann die Vorstellung
+<p class="centered">»Wenn du denkst du hast ’n,</p>
+<p class="centered">Springt er aus ’m Kasten</p>
+
+Jäh brach das Spiel ab.
+
+Dafür ertönte ein Gong — dreimal …
+
+Offenbar begann die Vorstellung
 
 <@pagebreak/>
 Na — die Herrschaften würden sich verdammt wundern,
 wenn in kurzem die Polizei anrückte …!!
 
-… Ich wartete siegesgewiß, aß ein drittes Paar Weißwürstl,
-auch einen Rad!, vier Salzbrezel …
+Ich wartete siegesgewiß, aß ein drittes Paar Weißwürstl,
+auch einen Radi, vier Salzbrezel …
 
-Hm — komisch, der Platz an der Rasse! »blieb (sei …
+Hm — komisch, der Platz an der Kasse blieb leer …
 Sehr komisch!!
 
-Das beunruhigte mich doch ein wenig,« /-/.
+Das beunruhigte mich doch ein wenig.
 
-Aber es war ja ausgeschlossen, daß ie Bande Lunte
-geraten haben sollte!
+Aber es war ja ausgeschlossen, daß die Bande Lunte
+gerochen haben sollte!
 
 Aha — — da erschien auch die Pompadour, legte ihr
-Buch wieder auf das Naseputzen, wollte sich sieben, hatte
+Buch wieder auf das Kassentischchen, wollte sich setzen, hatte
 wohl aber noch etwas vergessen und lüftete abermals den
-Vorhang — — verschwand
+Vorhang — — verschwand …
 
 Und … kam nicht wieder …
 
-a. Mal) in der Bude kein Laut mehr …
+Auch in der Bude kein Laut mehr …
 
-Ich warf meinen Indirekt weg … Ich fließende förmlich.
+Ich warf meinen Radirest weg … Ich fieberte förmlich.
 Wenn nur die Polizei käme … Wenn nur ein Polizist in
 der Nähe gewesen wäre …
 
 Ich konnte nicht länger warten. Die Stille war zu
 verdächtig … Ich griff in die Tasche … Die Clement war
-da … Ein paar rasche Grotte — hinein in den Raum
+da … Ein paar rasche Schritte — hinein in den Raum
 zwischen Wagen und Zelt.
 
-Ein Blick … ’ geradeaus, Da waren die Ruderten der
-parallelen Budenreihe …, Und zwischen ihnen ein Durchgang
+Ein Blick … geradeaus … Da waren die Rückseiten der
+parallelen Budenreihe … Und zwischen ihnen ein Durchgang
 zur nächsten Zeltgasse …
 
-Ich sprang vorwärts — — in die Bude …- Da saßen
+Ich sprang vorwärts — — in die Bude … Da saßen
 vielleicht fünfzehn Zuschauer … Da war niemand von den
 Schaustellern … Ich — — hinein in den Wohnwagen …
-—» — leer … Ganz hinten in einem Verschlag unter Decken
+— — leer … Ganz hinten in einem Verschlag unter Decken
 ein gefesselter Mensch — — geknebelt …
 
 Harst … — —
@@ -1485,8 +1513,9 @@ Harst … — —
 Die Polizei kam zu spät. Die Bande war entwischt —
 mit vier großen Paketen und ihrem Pudel …
 
-<@pagebreak/>
-Die Hand.
+<@pagebreak 35/>
+
+<h1>Die Hand.</h1>
 
 <h2>1. Kapitel.</h2>
 <h3>Der Herd.</h3>
@@ -1524,7 +1553,7 @@ wie sie mich halb mit ihrem Lasso erwürgten: Ich traue
 ihnen alles zu — alles!«
 
 Er trank einen Schirm Rotwein und zeigte dann auf
-seine Zandbgelenie. »Drahtschlingen! Das Andenken behalte
+seine Handgelenke. »Drahtschlingen! Das Andenken behalte
 ich wogGuiang … Und gedreht haben ie mir, mich zu vergiften
 kein ’geringsten Fluchtversuch … Ich behaupte, es
 sind Süvaimeriianer, die sechs … Ich »behaupte: Agenten
@@ -1749,12 +1778,12 @@ Aluminiumtopf und 64« Kessel. Ich nahm sie Herab … Die
 Beherrscher. wären: mit »Asche gefüllt. Zwischen gelber Briketts
 als sah: ich graue »Reste von« verbranntem Stoff. Ein Krimis
 nalbeartter half! mit)«: Der. Rat und Araber schauten zu.
-Der: Geahndet besaß: weit? sehr Fertigkeit als« ich’s, die« Ascheitreste:
+Der: Geahndet besaß: weit? sehr Fertigkeit als« ich’s, die« Aschenreste:
 sorgfältig: Erschollen. Er legte alles, was von Wichtig
 Pest, an? eine ausgebräitete Zeitung. Es wurde eine interessante
 Sammlung: Zeugfetzen, halb verkohlte Knöpfe, Druckknöpfe,
 Kleiderhäkchen; ein schwarzes Etwas mit Kapiteln
-den: ein »Schihäbsat, »hat »unten in den AsHekästen
+den: ein »Schihäbsat, »hat »unten in den Aschekästen
 Heuerbas« Belastendste: eine: verbogene ’Vorstecknadel mit einem
 grünlichen Stein,
 
@@ -1906,7 +1935,7 @@ stärkeren Sinnen ausgestattet als ein in der Gefangenschaft
 geborener, wurde zum Bungalow des Engländers vor
 das betreffende Fenster gebracht. Er benahm sich sehr ungebärdig,
 zerrte an der Leine und lief dann, gefolgt von
-unseren! Trupp, geradewegs zu einem Geräteshupppen des
+unseren! Trupp, geradewegs zu einem Geräteschupppen des
 reichen Inders — keine zwanzig Schritt von der Hütte entfernt.
 In dem Holzschuppen in dem einen Kutter, der soeben
 frisch gelernt war, fanden wir den Yogi. Er sowie der
@@ -2039,7 +2068,7 @@ prachtvollen Pfau:
 E? tat ein großes, neues Zelt … An der Kasse saß
 Bart — äußerst geschmackvoll — »ein knallrot gekleideter
 <@pagebreak/>
-Teufel, der einen Papptotenszädel zwischen den Schultern.
+Teufel, der einen Papptotenschädel zwischen den Schultern.
 Asien hatte, in dem die Augenhöhlen knallrot leuchteten.
 Natürlich steckte der eigentliche Kopf dieses famosen Geldeinnehmers
 in einem gleichfalls pappenen Brustkorb, und
@@ -2685,7 +2714,7 @@ Blickte hin …
 
 Griff nach dem Herzen, taumelte zurück …
 
-Vor ihr stand nach zwei kurzen Sprüngen schhweiswedelnd
+Vor ihr stand nach zwei kurzen Sprüngen schweifwedelnd
 ein schwarzer Pudel, eine Menschenhand im Maule …
 
 Bessy Bark wich vor Grauen noch weiter zurück …
