@@ -1,8 +1,8 @@
 <@pagebreak 1/>
 
 <div class="copyright">Nachdruck verboten. – Alle Rechte, einschl.
-des Verfilmungsrecht, vorbehalten. Copyright ${property.pubDate}
-by Verlag moderner Lektüre G.&nbsp;m.&nbsp;b.&nbsp;H. Berlin.</div>
+des Verfilmungsrecht, vorbehalten. Copyright $schproperty.pubDate}
+by Verlag moderner Lektüre G.&nbsp;in.&nbsp;b.&nbsp;H. Berlin.</div>
 
 <#import "*/harst.ftl" as harst>
 
@@ -1520,17 +1520,18 @@ mit vier großen Paketen und ihrem Pudel …
 <h2>1. Kapitel.</h2>
 <h3>Der Herd.</h3>
 
-Sekt Personen, ein Hund, vier große Pakete …
+Sechs Personen, ein Hund, vier große Pakete …
 
-Und nur einen Vorsprung von Minuten, und Fix
+Und nur einen Vorsprung von Minuten, und ein
 Harst hinter ihnen her, ein ganzes Aufgebot von Kriminalbeamten,
 und doch — wie weggefegt die Bande, wie aufgelöst
 in Luft.
 
 Wir fragten überall nach …
 
-… Sie waren gesehen worden — bis zur Rockes-Straße ließ
-sich die Spur verfolgen. Dann — nichts mehr. — …
+Sie waren gesehen worden — bis zur Pocci-Straße ließ
+sich die Spur verfolgen. Dann — nichts mehr. —
+
 Sechs Personen, ein Hund, vier große Pakete …
 
 »Ja, sechs …« sagte Harald nachmittags, als wir gegen
@@ -1544,118 +1545,117 @@ Amanda?!«
 »Ich meine, Herr Rat, daß die Bande das Mädchen
 beseitigt hat.«
 
-»Um Gott!«: rief Frau Harst. »Das wäre ja entsetzt
+»Um Gott!« rief Frau Harst. »Das wäre ja entsetzlich.«
 
-»Das wäre nur folgerichtig, liebe Mutter, — (sicher …
+»Das wäre nur folgerichtig, liebe Mutter, — leider …!
 <@pagebreak/>
 So, wie die Kerle mit mir umgegangen sind, so brutal,
 wie sie mich halb mit ihrem Lasso erwürgten: Ich traue
 ihnen alles zu — alles!«
 
-Er trank einen Schirm Rotwein und zeigte dann auf
+Er trank einen Schluck Rotwein und zeigte dann auf
 seine Handgelenke. »Drahtschlingen! Das Andenken behalte
-ich wogGuiang … Und gedreht haben ie mir, mich zu vergiften
-kein ’geringsten Fluchtversuch … Ich behaupte, es
-sind Süvaimeriianer, die sechs … Ich »behaupte: Agenten
+ich wochenlang … Und gedroht haben sie mir, mich zu vergiften
+beim geringsten Fluchtversuch … Ich behaupte, es
+sind Südamerikaner, die sechs … Ich behaupte: Agenten
 einer Spionagezentrale — Handelsspionage … Wir wissen,
-daß sie die Bude erst«.gar … »drei »Sagen kauften, überreich
+daß sie die Bude erst vor drei Tagen kauften, überreich
 bezahlten … Sonst wissen wir nichts … Namen?! Alle
-falsch!! Was sind Namen?!. Mir nichts!«
+falsch!! Was sind Namen?! *Mir* nichts!«
 
-H3 war still an unserem Tische. In der Weinabteilung
-saßen wir … in einer Ecke; -Der Ober bediente uns Vers
-logisch. Ein sehr zugeknöpfter Her? … Sehr gemessen. Ihm
+Es war still an unserem Tische. In der Weinabteilung
+saßen wir … in einer Ecke. Der Ober bediente uns persönlich.
+Ein sehr zugeknöpfter Herr … Sehr gemessen. Ihm
+imponierte nichts. Auch Harsts Armbänder nicht, die
+blutrünstigen Striemen —
 
-imponierte nichts; Auch—Harsts Armbänder nicht; die- blutrünstigen
-Striemen -…
-
-»Niemand Ratte mir Vorwürfe ’gemacht. Ich ’hatte’ starr;
-was: ich« tun konnte. Die Herrschaften hatten« alles sehr je je
-angefangen … Aber auch alles!! Hatten mit »Bangkok«
+»Niemand hatte mir Vorwürfe gemacht. Ich hatte getan,
+was ich tun konnte. Die Herrschaften hatten alles sehr schlau
+angefangen … Aber auch alles!! Hatten mich genarrt, in
 Sicherheit gewiegt …
 
-Nun waren all’ genau so’ weit wie vor« Jagen.
+Nun waren *wir* genau so weit wie vor Tagen.
 
-Und der: Gedanke machte uns stumm.
+Und der Gedanke machte uns stumm.
 
-Harald Sauhitze verstohlen …
+Harald gähnte verstohlen …
 
-»Ich möchte doch lieber!Grafen geh;en,« »erklärte er.
-»Abends bin ich wieder« frisch …
+»Ich möchte doch lieber schlafen gehen,« erklärte er.
+»Abends bin ich wieder frisch …«
 
-»Er 3099 »sich auf, unser ’Zimmer zurüc&. Seite!; Mutter
-begleitete Ei, wollte sich ans Fenster setzen und lesen und
+Er zog sich auf unser Zimmer zurück. Seine Mutter
+begleitete ihn, wollte sich ans Fenster setzen und lesen und
 ihren Einzigen … bewachen. Auch Mathilde ging. So blieben
 wir drei Herren zurück.
 
 Der Rat bestellte eine neue Flasche …
 
-»Lieber Schraut, vielleicht fällt Ihnen »wieder etwas
-ein …
+»Lieber Schraut, vielleicht fällt Ihnen wieder etwas
+ein …«
 
-Mir fiel nichts ein. Im zuckte die Achseln.
+Mir fiel nichts ein. Ich zuckte die Achseln.
 
 <@pagebreak/>
 Der Rat seufzte hörbar, und Xaver naschte eine Birne.
-Der Herr Ober räumte ab. all
+Der Herr Ober räumte ab.
 
-»Kur das nicht!« sagte da der Bat, als wir unbelsauscht
-waren. »Spur nicht ein Kapitalverbrehen …!! Wenn Harst,
+»Nur das nicht!« sagte da der Bat, als wir unbelauscht
+waren. »Nur nicht ein Kapitalverbrehen …!! Wenn Harst,
 recht hätte …!!«
 
 Ungemütliche Stimmung war’s …
-Die Unterhaltung!Schleppte sich hin — endlos langsam
+
+Die Unterhaltung Schleppte sich hin — endlos langsam
 …
 
-Niedrigen-Stimmung!! Es war ja auch zum (Es der
-Haut fahren!! Wir hatten dieSchuste »Dir Drehtisch? 6 —4
-und sie entkamen … t?’ alt
+Niederlagen-Stimmung!! Es war ja auch zum aus der
+Haut fahren!! Wir hatten die Schufte in Sichtnähe — —
+und sie entkamen …!!
 
-Ich rauchte mir eine- Zigarre an. 4.
+Ich rauchte mir eine Zigarre an.
 
-»Wie wär’s, wenn wir nochmals den« Wohnwagen und
-die Bude durchsuchen?« sZlig’ im vor., an
+»Wie wär’s, wenn wir nochmals den Wohnwagen und
+die Bude durchsuchen?« schlug ich vor.
 
-Es war mir Ablenkung.«
+Es war nur Ablenkung.
 
-Wir nahmen ein Auto und fuhren 3 zur Theresienwiese,
+Wir nahmen ein Auto und fuhren zur Theresienwiese,
 zum Oktoberfest …
 
-Vier Uhr fünfzehn wär’s, als wir ’am’« »Tipp« ’anlaßigten.
-Kriminalbeamte bewachten »Bude;’ ’ABägen,« Viehzeug:
+Vier Uhr fünfzehn war’s, als wir am Ziel anlangten.
+Kriminalbeamte bewachten Bude, Wagen, Viehzeug.
 
-Die Menagerie: war täglich. -Der « Steppenwolf äl an
-Altersschwäche, das Kalb mit den »zwei« »Köpfen war »nur
-ausgestopft-. /« Der Pudel — »1u1d »das ist« »wichtig ab« gar
-eigentlich doppelt vertreten, denn die- »Vorbesitzer — Hatten ja
-den richtigen Mr. James Gesichtern; nie« »Bände ’äber« ihren
-eigenen Pudel »Zugebracht. 15.
+*Die* Menagerie war kläglich. Der Steppenwolf litt an
+Altersschwäche, das Kalb mit den zwei Köpfen war nur
+ausgestopft … Der Pudel — und das ist wichtig — war
+eigentlich doppelt vertreten, denn die Vorbesitzer Hatten ja
+den richtigen Mr. James besessen, die Bande aber ihren
+eigenen Pudel mitgebracht.
 
-Ich stöberte ohne rechte Luft in den Ponywagen umher.
+Ich stöberte ohne rechte Lust in dem Wohnwagen umher.
 
-Schaustellerwagen habe ’ich »hier ja: diesen« meisten?! anspruchslosen
-Geschichten schon widderholt beschrieben.« Schausteller
-sind zumeist peinliches sauber. Die »Bande« Hatte: den
+Schaustellerwagen habe ich hier in diesen meinen anspruchslosen
+Geschichten schon wiederholt beschrieben. Schausteller
+sind zumeist peinlich sauber. Die »Bande« Hatte den
 Wagen zum Schweinestall gemacht.
 
-Xaver sah mir zu und s5g an seiner Zigarette: Ich hatte
-gerade das Kostüm der: ’Poznpadouv/7 das: samt« ’Perücke: über
+Xaver sah mir zu und sog an seiner Zigarette: Ich hatte
+gerade das Kostüm der Pompadour, das samt Perücke über
+einem der schmalen Betten lag, mit spitzen Fingern hochgehoben
+und mir angeschaut. Plötzlich fuhr ich zurück …
 
-einem der schmalen Betten lag, mit Katzen« Fingern »hochgehoben
-und mir. angeschaut. Plötzlich?all Ah: Zuführt?.
-
-Ein jämmerliches Stöhnen war an: ’mäitnchOhp:Liede Augen.
+Ein jämmerliches Stöhnen war an mein Ohr gedrungen.
 
 <@pagebreak/>
-Ich rate zu, riß die Betten weg … Die Hielten, das
-Deckbett flogen zur Seite … —
+Ich packte zu, riß die Betten weg … Die Kissen, das
+Deckbett flogen zur Seite …
 
 Auf dem Unterbett lag … ein weißer Pudel mit einer
 klaffenden Kopfwunde.
 
 Xaver brüllte;
 
-»Herr Rat, — — der Pudel11«
+»Herr Rat, — — der Pudel!!«
 
 Der Rat kam herbeigestürzt …
 
@@ -1664,18 +1664,18 @@ er ebenso aufgeregt wie wir.
 
 Es war ein weißer Pudel.
 
-Wir schicken einen Beamten zum nächsten Tierarzt.
+Wir schickten einen Beamten zum nächsten Tierarzt.
 Ich verband das Tier, so gut es ging. Die Wunde rührte
 zweifellos von einem Beilhiebe her. Das Hirn schien verletzt.
-Der Knochen war zersplittert, Wir warteten auf den
+Der Knochen war zersplittert. Wir warteten auf den
 Fachmann wie auf einen helfenden Gott. Endlich kam er,
 untersuchte …
 
-— »Vielleicht bleibt er am Leben …«
+»Vielleicht bleibt er am Leben …«
 
 Der Patient wurde zu ihm geschafft …
 
-Nun hieß es hoffen. Nun hieß es: Wetter Pudel war’s?
+Nun hieß es hoffen. Nun hieß es: Welcher Pudel war’s?
 
 Die Vorbesitzer der Bude wurden durch einen Beamten
 ausgefragt. Der Beamte kam zurück: »Die Leute haben mir
@@ -1686,42 +1686,40 @@ der »schwarze« Pudel.«
 Bande mit dem Pudel und vier großen Paketen abziehen …
 — Was für ein Pudel ist dies also?!«
 
-Reiner antwortete, weil keiner eine Antwort wußte.
+Keiner antwortete, weil keiner eine Antwort wußte.
 
-Von draußen der — wir standen in dem Wohnwagen
+Von draußen her — wir standen in dem Wohnwagen
 — erklang der infernalische Lärm von Drehorgeln, Orchestrions,
-Lautsprechern, Ingenieur: die Sinfonie des Rummelplatzes,
+Lautsprechern, Ausrufern: die Sinfonie des Rummelplatzes.
 Es war die Begleitmusik für die stille Tragödie eines Tieres,
 das von roher Hand erschlagen worden.
 
 Wer war dieser Pudel?
 
 Bisher hatten wir mit zwei Tieren dieser Art zu rechnen
-
 gehabt. Nun war noch ein drittes dazugekommen. Woher
 <@pagebreak/>
-bloßen weiße Pudel, der Patient?! Hatte die Bande etwa
+dieser weiße Pudel, der Patient?! Hatte die Bande etwa
 zwei gleiche Hunde besessen?! Weshalb hatte sie den einen
 beseitigen wollen und als tot hier im Bett verborgen?! —
 
-Es gibt Eingedrungen des Augenblicks, die blitzartig
-tausend — wie das jähe Aufzucken einer elektrischen Entladung
-…
+Es gibt Eingebungen des Augenblicks, die blitzartig
+sind — wie das jähe Aufzucken einer elektrischen Entladung.
 
 So erging es mir jetzt,
 
-»Herr Rat …!ck«
+»Herr Rat …!!«
 
-Der wandte mir mißmutig den Kopf? zu.
+Der wandte mir mißmutig den Kopf zu.
 
 »Herr Rat, das Nächstliegende haben wir nicht bedacht.
 Der Pudel, den die Bande mitnahm, der hinterher trottete,
 war der künstliche Hund, war der ferngesteuerte Automat,
-der: meinen. Freund als Bernhardiner anfiel. Jetzt hat die
+der meinen Freund als Bernhardiner anfiel. Jetzt hat die
 Bande einen Pudel daraus gemacht.«
 
 »Donnerwetter — eine Idee!! Sie mögen recht haben,
-Leber Schraut … Dann hat einer von dem Lumpenpack den
+lieber Schraut … Dann hat einer von dem Lumpenpack den
 Sender getragen — — eins der Pakete!«
 
 »Ja, und den Pudel suchten sie zu töten, weil er ihnen
@@ -1730,15 +1728,15 @@ Hund läßt sich abmontieren, verbergen, — der lebende ist
 ein Hindernis, wenn man die Polizei nun auf den Fersen
 hat.«
 
-Xaver Dürnhuber wagte einen Einwand. »den Schraut,
-der Sende: mit allem Zubehör ist doch unmöglich so einfach
+Xaver Dürnhuber wagte einen Einwand. »Herr Schraut,
+der Sender mit allem Zubehör ist doch unmöglich so einfach
 zu transportieren und im Gehen zu bedienen. Ich halte
 dies ehrlich gesagt, für ausgeschlossen. Wie soll ein Mann
 den Sender, der mit seinen Schaltgriffen kompliziert genug
 ist, betätigen, ohne daß dies hier in der Zeltstadt aufgefallen
 wäre?! Die Zeugen erklärten, die Pakete der Bande seien
-umfangreich und schwer gewesen, und: die Männer hätten
-ihre Last auf dem Rücken getragen. Nein, so kann’s nicht
+umfangreich und schwer gewesen, und die Männer hätten
+ihre Last auf dem Rücken getragen. Nein, *so* kann’s nicht
 gewesen sein … Es war doch ein lebender Pudel …«
 
 Der Rat schnitt ein ärgerliches Gesicht. »Wir tappen
@@ -1746,58 +1744,58 @@ im Kreise … Ich möchte jetzt wieder Dürnhubers Ansicht
 mich anschließen.«
 
 <@pagebreak/>
-»Ich auch,/ erklärte ich ehrlichmg … »Xavers Bedenken
-sind berechtigt. Eine verwirrte Geschichte …; Und dennoch;:
-hol’ Patient sollte frei Eden,: weil er gefährlich werden konnte!
-Und wenn die« Runde: ’zwei gleiche »Pudel »besaß: Weshalb
-los« sie der — Eden am Leben?
+»Ich auch,« erklärte ich ehrlich … »Xavers Bedenken
+sind berechtigt. Eine verwirrte Geschichte …! Und dennoch:
+der Patient sollte sterben, weil er gefährlich werden konnte!
+Und wenn die Bande zwei gleiche Pudel besaß: Weshalb
+ließ sie den einen am Leben?«
 
-Ächselzu&en …
+Achselzucken …
 
 Ich hatte mich auf einen Stuhl gesetzt. Mein Blick
 schweifte umher — ohne Zweck und Ziel, hierhin, dorthin.
-Anderes ging Anbruch den Kopf. Die Pudeltragödie war
-ufverdientermäßen in den Vordergrund gerückt. An Amanda
-Rickhuller« dachte e- niemand mehr. Das war ein grobe« Fehler.
-Das- Verschwinden des Mädchens forderte mehr Beachtung.
+Anderes ging mir durch den Kopf. Die Pudeltragödie war
+unverdientermaßen in den Vordergrund gerückt. An Amanda
+Rickhuller dachte niemand mehr. Das war ein grober Fehler.
+Das Verschwinden des Mädchens forderte mehr Beachtung.
 Harsts Vermutung, sie könnte beseitigt worden sein, war
 gewiß nicht von der Hand zu weisen.
 
-Weit Bis« wär zielbewußter. Wenn das Mädchen zunächst
-hier »in den Wohnwagen gekommen war, nachdem
+Mein Blick war zielbewußter. Wenn das Mädchen zunächst
+hier in den Wohnwagen gekommen war, nachdem
 es die Pension hatte verlassen dürfen, wenn die Verbrecher
-es hier stark getötet: hatten, waren vielleicht noch Spuren
+es hier etwa getötet hatten, waren vielleicht noch Spuren
 zu finden — Kleidungsstücke — irgend etwas.
 
-Bot!: Ameisen« Platz aus konnte ich auch den kleinen
-
-Herd schon, ’ der »im Vorderverschlag: des ’Wugens, in der
+Von meinem Platz aus konnte ich auch den kleinen
+Herd sehen, der im Vorderverschlag des Wagens, in der
 Miniaturküche stand.
-» Ich erhob mich. ’Sn den Kochöffnungen standen ein
-Aluminiumtopf und 64« Kessel. Ich nahm sie Herab … Die
-Beherrscher. wären: mit »Asche gefüllt. Zwischen gelber Briketts
-als sah: ich graue »Reste von« verbranntem Stoff. Ein Krimis
-nalbeartter half! mit)«: Der. Rat und Araber schauten zu.
-Der: Geahndet besaß: weit? sehr Fertigkeit als« ich’s, die« Aschenreste:
-sorgfältig: Erschollen. Er legte alles, was von Wichtig
-Pest, an? eine ausgebräitete Zeitung. Es wurde eine interessante
+
+Ich erhob mich. In den Kochöffnungen standen ein
+Aluminiumtopf und ein Kessel. Ich nahm sie Herab … Die
+Feuerlöcher waren: mit Asche gefüllt. Zwischen gelber Brikettasche
+sah ich graue Reste von verbranntem Stoff. Ein Kriminalbeamter
+half mir. Der Rat und Xaver schauten zu.
+Der Beamte besaß weit mehr Fertigkeit als ich, die Aschenreste
+sorgfältig zu scheiden. Er legte alles, was von Wichtigkeit,
+auf eine ausgebreitete Zeitung. Es wurde eine interessante
 Sammlung: Zeugfetzen, halb verkohlte Knöpfe, Druckknöpfe,
-Kleiderhäkchen; ein schwarzes Etwas mit Kapiteln
-den: ein »Schihäbsat, »hat »unten in den Aschekästen
-Heuerbas« Belastendste: eine: verbogene ’Vorstecknadel mit einem
+Kleiderhäkchen; ein schwarzes Etwas mit Nägeln
+darin: ein Schuhabsatz, — dann unten in den Aschekästen
+das Belastendste: eine verbogene Vorstecknadel mit einem
 grünlichen Stein,
 
 <@pagebreak/>
 Ich besann mich genau, daß Amanda Rickhuller in jener
 Nacht, als wir Stuart Parker in seinem Hause in der
 Falkenturmgasse überrascht hatten, diese Nadel getragen hatte.
-Sie war ja sofort zu Wucherers gebracht worden, ihr
-Koffer stand von in der Falkenturmgasse, sie hakte nur
+Sie war ja sofort zu Wurmsters gebracht worden, ihr
+Koffer stand noch in der Falkenturmgasse, sie hatte nur
 das Nötigste mitgenommen.
 
-Auch der Na! betrachtete die Nadel mit traurigem Blick.
+Auch der Rat betrachtete die Nadel mit traurigem Blick.
 
-»Armes Mädel!’ …
+»Armes Mädel!«
 
 Es besagte genug. —
 
@@ -1805,27 +1803,27 @@ Amanda war tot.
 
 Der Rat verabschiedete sich. »Ich will mit unserem
 Rundfunksender das Nötige vereinbaren. Das Signalement
-der sechs muß olle Stunde verbreitet werden«…«
+der sechs muß alle Stunde verbreitet werden …«
 
-Sache ich fuhr zum Hotel zurück, ließ aber das Auto
-rote vor dem Hause des Tierarztes halten, und Xaver
+Auch ich fuhr zum Hotel zurück, ließ aber das Auto
+noch vor dem Hause des Tierarztes halten, und Xaver
 sprang nach oben … kam mit der Meldung wieder, der
 Pudel würde bestimmt am Leben bleiben. Das Fieber sei
-mäßig, und das Tier sehr Prächtig. Unterwegs setzte ich
+mäßig, und das Tier sehr kräftig. Unterwegs setzte ich
 dann auch Xaver ab. Er wollte heim. Abends neun Uhr
 sollte er wieder ins Hotel kommen.
 
-Im Schwarzen Adler betrat im ganz leise unser Zimmer.
-Frau Harst saß im Halbdunkel am Fenster. Harald las auf
-dem Bett und schlief. Ich setzte mich zu meiner mütterÜchen
+Im Schwarzen Adler betrat ich ganz leise unser Zimmer.
+Frau Harst saß im Halbdunkel am Fenster. Harald lag auf
+dem Bett und schlief. Ich setzte mich zu meiner mütterlichen
 Freundin, rückte den Stuhl ganz nahe und erstattete
 ihr Bericht.
 
-Gräßlich sagte da eine Stimme vom Bett her:
+Plötzlich sagte da eine Stimme vom Bett her:
 
-»Mein lieber Alter, du bist doch im Acht … Es
-war ein künstlicher Bude!, den die Bande mitnahm, es
-war der verwandelte Bernhardiner.« —
+»Mein lieber Alter, du bist doch im Recht … Es
+war ein künstlicher Pudel, den die Bande mitnahm, es
+war der verwandelte Bernhardiner.«
 
 <@pagebreak/>
 
@@ -1836,29 +1834,29 @@ Harst setzte sich aufrecht, warf die Steppdecke ab und
 stand auf, reckte und dehnte sich, kam zum Fenster, beugte
 sich zu seiner Mutter herab und küßte sie auf die Stirn …
 
-»Tadellos geschlafen habe ich … Mir ist jetzt so ’reHt
+»Tadellos geschlafen habe ich … Mir ist jetzt so recht
 zum Bäume ausreißen zumute …«
 
-Er drückte mir die Hand, »Hast deine Sache wieder gt
+Er drückte mir die Hand, »Hast deine Sache wieder gut
 gemacht …!! Und — habe ich mich eigentlich schon bei dir
-bedankt, weil du mich so sein herausgehauen hast?«
+bedankt, weil du mich so fein herausgehauen hast?«
 
-»Nicht nötig …
+»Nicht nötig …«
 
-»Ah, sag’ das nicht, mein Alter … Deine Flusse
-Folgerung, die du an das bunte Plakat knüpftest, war Decken
+»Ah, sag’ das nicht, mein Alter … Deine Schlußfolgerung,
+die du an das bunte Plakat knüpftest, war schon
 etwas wert … Und die Dinge scheinen mir im ganzen
-weit günstiger zu liegenal8 vorher: Die Flucht der Farbe,
+weit günstiger zu liegen als vorher: Die Flucht der Bande,
 die du gleichsam erzwangst, gab uns einen wertvollen Verbündeten,
-den Pudel … Vorn ihm verspreczde ich mir sehr
+den Pudel … Von ihm verspreche ich mir sehr
 viel. Die Herrschaften selbst werden wir bald haben. Sie
 verrieten sich, ohne es recht zu ahnen.
 
-Ich, der ich inzwischen mein Kampfes Älplerkostüm
+Ich, der ich inzwischen mein famoses Älplerkostüm
 abgelegt gehabt und schon als der »normale« Schraut den
 zweiten Besuch der Bude des »Mr. James« unternommen
 hatte, war über des Freundes Zuversicht, die Bande in
-kurzem aufstöbern zu können, doch recht erstaunt. Au
+kurzem aufstöbern zu können, doch recht erstaunt. Auch
 Frau Harst meinte jetzt, Harald fragend anblickend, der sich
 ebenfalls gesetzt hatte:
 
@@ -1869,207 +1867,205 @@ Schein der Straßenlaternen dämmerte matt über unseren
 Gesichtern. Die Schillerstraße, ruhig, schmal, gemütlich, leidet
 nicht unter allzu starkem Autoverkehr, außerdem sind die
 <@pagebreak/>
-Kursieren Chauffeure auch nicht so versessen auf Guten
+Münchener Chauffeure auch nicht so versessen aufs Tuten
 wie anderswo, genau so, wie zum Beispiel diese herrliche
 alte Kunststadt noch andere Vorzüge hat: Hunde dürfen auf
-keinen Fall auf die Straßenbahn, aber Betrunkene hätten’s,
+keinen Fall auf die Straßenbahn, aber Betrunkene dürfen’s,
 auch wenn sie sich schon arg wie Borstentiere benehmen, —
--» was meinerseits Ironie ist.
+— was meinerseits Ironie ist.
 
-Es war still im Zimmer. Eis düstere hier nach guter
+Es war still im Zimmer. Es duftete hier nach guter
 Seife, nach Haralds Zigarette, deren glimmende Spitze zuweilen
-heller knisterte, — — und so sein, so ganz sein nach
-Lavendel — so sein und zart und traulich, wie alte seine
-gepflegte Damen duften, das unnennbare Parfüm der Fall«
-»en, der grauen Haare und der gütigen Augen, die nur
-noch am Blüte anderer sich selbst begrüßen. Es war eine
-Dämnaerstunde voll intimer Breite: Wir drei am Fenster
-—y» unsere Gesichter verschwommene Flecke, unsere Stimmen
-gedampft, weil auf der Ton sich der Tagesijtunde aufpassen
+heller knisterte, — — und so fein, so ganz fein nach
+Lavendel — so fein und zart und traulich, wie alte feine
+gepflegte Damen duften, das unnennbare Parfüm der Fältchen,
+der grauen Haare und der gütigen Augen, die nur
+noch am Glücke anderer sich selbst beglücken. Es war eine
+Dämmerstunde voll intimer Reize: Wir drei am Fenster
+— unsere Gesichter verschwommene Flecke, unsere Stimmen
+gedämpft, weil auch der Ton sich der Tagesstunde anpassen
 soll. Wie wenige der heutigen anmaßenden Charlatane des
 Lebens wissen das?!
 
-» … Und Harsts Antwort kam … Wie aus fernen
+… Und Harsts Antwort kam … Wie aus fernen
 Weiten, wie aus dem mystischen Zwielicht alter Tempel aus
 dem Munde weissagender Gottheiten … Auch ein nüchternes
 Hotelzimmer kann Tempelhalle mit geheimnisvollen
-Wissen, mit flackernden Weihrauchschalen, mit andächtig
-murmelnden Priestern und starren, düster-drohenden Götzen
-Statuen werden. Es kommt nur auf die Menschen an, nur
-auf das geistige Bluthund, das sie umgeknickt.
+Nischen, mit flackernden Weihrauchschalen, mit andächtig
+murmelnden Priestern und starren, düster-drohenden Götzenstatuen
+werden. Es kommt nur auf die Menschen an, nur
+auf das geistige Fluidum, das sie umschwebt.
 
 »In Indien,« sprach Harst, — ,»es war bei meiner ersten
 größeren Reise, damals kannten wir uns noch nicht, mein
 Alter … — in Indien war’s, in einem der entzückendsten,
-malerischsten Hafennester der Malabar-Küste, nördlich) von
-Labsal, — Mister hieß es … Der Vertreter der Hamburger
-Firma Kutter hatte mich eingeladen, hauste dort
+malerischsten Hafennester der Malabar-Küste, nördlich von
+Calikut, — Nilgiri hieß es … Der Vertreter der Hamburger
+Firma Emster hatte mich eingeladen, hauste dort
 zusammen mit zwei anderen Europäern inmitten einer
 fleißigen, intelligenten, aber fanatischen farbigen Bevölkerung.
-Am Abend meiner Ankunft wurde der Freund des Handwagens,
+Am Abend meiner Ankunft wurde der Freund des Hamburgers,
 <@pagebreak/>
 ein Engländer, durch einen Pfeilschuß durch das
-Fenster ermordet, Als Täter kam ein wandernder Y331i in
-Frage, dem der Engländer mit der Reitgerte? eine Tagereisen
-verabfolgt hatte. Natürlich War der braune Dressur? von
+Fenster ermordet. Als Täter kam ein wandernder Yogi in
+Frage, dem der Engländer mit der Reitgerte eine Lektion
+verabfolgt hatte. Natürlich War der braune Dreckfink von
 Taschenspieler nicht aufzufinden. Er hatte eine leere Hütte
-dicht am Strande für ein) beschlagnahmt Jgehubt. In der
+dicht am Strande für sich beschlagnahmt gehabt. In der
 Hütte war lediglich ein Käfig mit einen zahmen Ichneumon
-zurückgeblieben. Der Yogi hatte daß Ei?: für seine Tau-.
-Stellungen benutzt. Den Ort etwa naß dem mutmaßlichen
+zurückgeblieben. Der Yogi hatte daß Tier für seine Schaustellungen
+benutzt. Den Ort etwa nach dem mutmaßlichen
 Mörder zu durchsuchen, ging nicht an. Wir wären gesteinigt
-worden. Wir waren nur zu dreien, dazu der Ortsvorstehzer
-und zwei farbige Polizeibeamte, Immerhin verlangte schon
-das Ansehen der Europäer nacyveuceli5ite und schleunigste
-Ermittlung des Täters. Mitten in der Wacht war’s, als ich
+worden. Wir waren nur zu dreien, dazu der Ortsvorsteher
+und zwei farbige Polizeibeamte. Immerhin verlangte schon
+das Ansehen der Europäer nachdrücklichste und schleunigste
+Ermittlung des Täters. Mitten in der Nacht war’s, als ich
 dem Mungo, also dem Ichneumon, ein Halsband mit Leine
 anlegte und das Tier als Polizeihund benutzte. Es war
 ein Versuch, nichts weiter. Die trockene Jahreszeit begünstigte
 mein Vorhaben. Neben der bis dahin unbewohnten Hütte
-lag das Grundstücks eines Inder?, der mit drei Kuttern
+lag das Grundstücks eines Inders, der mit drei Kuttern
 Küstenhandel trieb. Er war der reichste Mann des Küstenstädtchens,
-und sein Garten zog sich los empor bis in
+und sein Garten zog sich hoch empor bis in
 die grünen Abhänge der Uferberge. — Der Mungo, als
 wild gefangenes und dann erst gezähmtes Tier mit noch
 stärkeren Sinnen ausgestattet als ein in der Gefangenschaft
 geborener, wurde zum Bungalow des Engländers vor
 das betreffende Fenster gebracht. Er benahm sich sehr ungebärdig,
 zerrte an der Leine und lief dann, gefolgt von
-unseren! Trupp, geradewegs zu einem Geräteschupppen des
+unserem Trupp, geradewegs zu einem Geräteschupppen des
 reichen Inders — keine zwanzig Schritt von der Hütte entfernt.
 In dem Holzschuppen in dem einen Kutter, der soeben
-frisch gelernt war, fanden wir den Yogi. Er sowie der
-reiche Inder wurden nachher gehängt. Besseren hatte ein
+frisch geteert war, fanden wir den Yogi. Er sowie der
+reiche Inder wurden nachher gehängt. Letzterer hatte ein
 Interesse daran, seinen Konkurrent, den Engländer, zu beseitigen
 und den Yogi zu dem Verbrechen angestiftet. —
 Weshalb ich dies harmlose Abenteuer hier erzähle? Einmal,
 <@pagebreak/>
-»weit der weiße Pudel, den der Tierarzt am Leben erhalten
+weil der weiße Pudel, den der Tierarzt am Leben erhalten
 wird, die Rolle des Mungo spielen könnte, — dann, weil
-die — Nähe der Behausung des Mörders und seines na
-zweiräderigen Heisere von Bedeutung ist. Gerade bei dem reichen
+die Nähe der Behausung des Mörders und seines nachherigen
+Verstecks von Bedeutung ist. Gerade bei dem reichen
 Inder hätte niemand den Yogi gesucht.«
 
-Frau Harst — ich; sah es nur wie eine schattenhafte
-Bewegung — strich) sich leicht über die Stirn.
+Frau Harst — ich sah es nur wie eine schattenhafte
+Bewegung — strich sich leicht über die Stirn.
 
-»Du meinst, Harald, — du meins!, die sechs Verbrecher
+»Du meinst, Harald, — du meinst, die sechs Verbrecher
 könnten etwa noch in nächster Nähe sein?«
 
-»Ja, Ansatz, das meins ich wichtig; … Sie haben doch
-zweifellos noch ein zweites Versteck, einen zweiten Scharf
-Winkel … Wir wissen, sie waren sämtlich maskiert. Sie
-können unschwer ihre Masken. geändert haben. Ich behaupte
-sogar, sie waren darauf eingerichtet, Doppelposten zu spielen.
+»Ja, Mama, das meine ich wirklich … Sie haben doch
+zweifellos noch ein zweites Versteck, einen zweiten Schlupfwinkel
+… Wir wissen, sie waren sämtlich maskiert. Sie
+können unschwer ihre Masken geändert haben. Ich behaupte
+sogar, sie waren darauf eingerichtet, Doppelrollen zu spielen.
 Das wird sich ja in den nächsten Stunden schon herausstellen.
-Sobald Freund Araber da Akt, essen wir gemütlich
+Sobald Freund Xaver da ist, essen wir gemütlich
 Abendbrot, und dann werden wir eben auf Jagd gehen …
-— Reine Sorge, Mama, zum zweiten Male fängt nicht
-die Gesellschaft nicht ad. Zweimal geht kein Harst in die
+— Keine Sorge, Mama, zum zweiten Male fängt mich
+die Gesellschaft nicht ab. Zweimal geht kein Harst in die
 Falle …« Er lachte sorglos, streichelte seiner Mutter Hand
 und erhob sich. »Ich werde das Licht einschalten … Bitte,
-Ziel die Vorhänge zu, mein Alter … Sicher ist sicher …
-Ich habe keine Luft, die Fensterscheiben beshHhädigen zu
+zieh’ die Vorhänge zu, mein Alter … Sicher ist sicher …
+Ich habe keine Lust, die Fensterscheiben beschädigen zu
 lassen. Schießen und Treffen ist zwar zweierlei, aber …
-numerbhin …«
+immerhin …«
 
 Als die Lampe an der Decke aufflammte, Klopfte es auch
 schon. Es war unsere Mathilde, — mürrisch, verschlafen
 — — sie langweilte sich hier … Hinter ihr Xaver Dürnhubers
-frisches junges freundliches Gesicht als Ersatz, all?
+frisches junges freundliches Gesicht als Ersatz, als
 Ausgleich.
 
-Und dann saßen wi« wieder unten im Restaurant an
+Und dann saßen wir wieder unten im Restaurant an
 demselben Tische wie mittags, und Mathildes Miene hellte
-Biß auf angesichts einer Kaldsharxe, mit der Gingen die
+sich auf angesichts einer Kalbshaxe, mit der Simpson die
 Philister hätte erschlagen Können, — was Größe, nicht
-was Bärte betraf.
+was Härte betraf.
 
 <@pagebreak/>
-Unsere Philister waren die seit Fremden, und es lag
-Gnade, daß das Gespräch immer wieder auf dieses Thema
-zurückkehrte, man mochte auch uns) so sehr sich bemühen,
+*Unsere* Philister waren die sechs Fremden, und es lag
+nahe, daß das Gespräch immer wieder auf dieses Thema
+zurückkehrte, man mochte auch noch so sehr sich bemühen,
 ein anderes zu wählen.
 
 Xaver brachte im übrigen keine neuen Nachrichten mit.
-Fischer war die Suche nach den Automatendieben und den
+Bisher war die Suche nach den Automatendieben und den
 Mördern Amanda Rickhullers umsonst geblieben.
 
 An unserem Tische ward es erst stiller, als Harald die
 Rechnung beglich und der Aufbruch nahte. Frau Harsts liebes
 Gesicht lag in tiefen Falten ernstester Sorge.
 
-»Schraut,« sagte sie leise zu mir, »Waffen Sie mir auf
+»Schraut,« sagte sie leise zu mir, »passen Sie mir auf
 meinen großen leichtsinnigen Jungen auf …! Er hat ja
-fraglos schon ganz bestimmte Pläne, die er aber für. sich
-Vorbehalt — wie immer. Seine indischen Erinnerungen vorhin
+fraglos schon ganz bestimmte Pläne, die er aber für sich
+behält — wie immer. Seine indischen Erinnerungen vorhin
 geben mir fast die Gewißheit, daß er das zweite Versteck
 der Bande kennt.«
 
 Ich drückte der mütterlichen Freundin warm und heimlich
 unter dem Tische die Hand. »Keine Sekunde lasse ich
 ihn aus den Augen,« erklärte ich feierlich. »Ihm wird nichts
-zustoßen … Heute hier mir die Kugeln in meiner Clement
-sehr jeder .,! Leiser zu früh als zu spät abdrücken!«
+zustoßen … Heute sitzen mir die Kugeln in meiner Clement
+sehr locker …! Besser zu früh als zu spät abdrücken!«
 
 Dann verabschiedeten wir drei uns.
 
 Im Auto ging’s zur Oktoberwiese … Aber mit einem
 kurzen Aufenthalt. Harald hatte vorher noch den Polizeirat
-angerufen, und am Bavaria-Ging stießen wir auf zehn
+angerufen, und am Bavaria-Ring stießen wir auf zehn
 schlichte Herren, die sich unauffällig uns dann in gebührender
 Entfernung anschlossen. Nur der Herr Rat begleitete uns
 und ging mit Harald ein wenig voraus.
 
-Die Garten der Zeltstadt waren gedrängt voll. Der
+Die Gassen der Zeltstadt waren gedrängt voll. Der
 klare Abend hatte halb München auf die Beine gebracht,
 
-Das Treiben auf einem Rummelplatz von sollen Ausmaß
-wie das Oktoberfest zu schildern: Mondlicht — Nur
+Das Treiben auf einem Rummelplatz von solchem Ausmaß
+wie das Oktoberfest zu schildern: Unnötig! — Nur
 eins: Was mir hier auffiel — trotz der allgemein stark
-angefeuchteten Fröhlichkeit: die Stimmung, der ganze Ion
-dieser Menschenmassen entbehrte jeglichen rohen Einschlag.
-
+angefeuchteten Fröhlichkeit: die Stimmung, der ganze Ton
+dieser Menschenmassen entbehrte jeglichen rohen Einschlags.
 <@pagebreak/>
-Wer Berlins »Felsspalte« kennt, wer ein Auge und ein
+Wer Berlins »Volksparke« kennt, wer ein Auge und ein
 Ohr für die Unterschiede der Massenseele besitzt: Es hat
 etwas für sich mit der bayerischen Gemütlichkeit.
 
-In drangvoll fürchterlichster Enge ]Standen wir nun vor
+In drangvoll fürchterlichster Enge Standen wir nun vor
 dem Zelt des Wunderpudels Mr. James, das seinem Vorbesitzer
 wieder übergeben worden war. Auf dem Podium
-der Affe, die Papageien, das Krokodil und eine unwahr
-Khbeinlig; die Dame an der Kasse …
+der Affe, die Papageien, das Krokodil und eine unwahrscheinlich
+dicke Dame an der Kasse …
 
 Harald sagte hier:
 
-»Herr Na!, das rechte Nebenzelt ist’s …!!’
+»Herr Rat, das rechte Nebenzelt ist’s …!«
 
 Weiter nichts …
 
 <h2>3. Kapitel.</h2>
-<h3>Eine seine Familie.</h3>
+<h3>Eine feine Familie.</h3>
 
-» «.- H3 war das Zelt eines Zauberkünstlers …
+… Es war das Zelt eines Zauberkünstlers …
 
-Bellasini,
-
-elf indischer Magier,
+<p class="centered pre">Bellasini,
+<i>echt indischer Magier,</i>
 Verblüffende Experimente,
-Sierhypnosen,
+Tierhypnosen,
 Flammentod einer
 lebenden Dame
 und
 Verwandlung in
 einen
 prachtvollen Pfau:
-!!?Phönix aus der Asche!!
+!!<i>Phönix aus der Asche</i>!!</p>
 
-E? tat ein großes, neues Zelt … An der Kasse saß
-Bart — äußerst geschmackvoll — »ein knallrot gekleideter
+Es war ein großes, neues Zelt … An der Kasse saß
+hier — äußerst geschmackvoll — ein knallrot gekleideter
 <@pagebreak/>
-Teufel, der einen Papptotenschädel zwischen den Schultern.
-Asien hatte, in dem die Augenhöhlen knallrot leuchteten.
+Teufel, der einen Papptotenschädel zwischen den Schultern
+sitzen hatte, in dem die Augenhöhlen knallrot leuchteten.
 Natürlich steckte der eigentliche Kopf dieses famosen Geldeinnehmers
 in einem gleichfalls pappenen Brustkorb, und
 das rote Wams hatte denn auch vorn zwei unauffällige
@@ -2084,34 +2080,36 @@ sich produzierte …
 Neue Zuschauer drängten sich an der Kasse. Der Satan
 mit dem Pappkopf hatte alle Hände voll zu tun.
 
-»ein Rat, lassen Sie das Zelt umstellen,« meinte
+»Herr Rat, lassen Sie das Zelt umstellen,« meinte
 Harald noch, bevor er die Stufen zur Kasse erklomm.
 
 Wir folgten …
 
-Drinnen eine Luft … — alle schlechter Zigarren des
+Drinnen eine Luft … — alle schlechten Zigarren des
 Erdballs schienen hier geraucht worden zu sein.
 
 Wir vier hatten — sehr vornehm — »Orchestersessel«
-— — ganz vorn .,: Klappstühle mit Polstern!
+— — ganz vorn …: Klappstühle mit Polstern!
 
-Drei Schritt vor uns die Bühne —.der Vorhang noch
+Drei Schritt vor uns die Bühne — der Vorhang noch
 geschlossen …
 
-»Und was für ein Vorhang!
+Und was für ein Vorhang!
 
-Wer das Glauben lernen wollte, brauchte nur diese Bilder
+Wer das Graulen lernen wollte, brauchte nur diese Bilder
 zu studieren … Herrn Bellasinis vielseitige Kunst war hier
 als Vorgeschmack der Seligkeit in grellen Farben dargestellt …
 
 Im Nu hatte sich das Zelt wieder gefüllt. Die Jazzkapelle
 nahm ihren Platz vor der Bühne ein und spielte
-— natürlich —
+— natürlich —:
 
-— Das paßte Mal zu dem Vorhang und der
-Luft …!! Madame hätte sich bedankt. Über den Festteilnehmern
+<p class="centered">Ich küsse Ihre Hand Madam’ …</p>
+
+— Das paßte ausgezeichnet zu *dem* Vorhang und *der*
+Luft …!! Madame hätte sich bedankt. Aber den Festteilnehmern
 der Riesengaudi war’s gerade recht … Man sang mit, das
-Dämonen quäkte dazwischen …
+Saxophon quäkte dazwischen …
 
 Und — — plötzlich ein Knall …
 
@@ -2121,56 +2119,54 @@ Der Vorhang flog auf.
 Auf der Bühne, die eine tropische Landschaft (mit sauber
 gemalten Kulissen und einem wirklich guten Hintergrund —
 ein Tempel, Elefanten, Volksmassen —) darstellte, saß vor
-einem braunen Spitzel ein indischer Fakir in einem erstaunlich
-eleganten Phantasierostüm.
+einem braunen Spitzzelt ein indischer Fakir in einem erstaunlich
+eleganten Phantasiekostüm.
 
-In der Ihnen viel? er eine Brillenschlange, die mit
-geblähter Haube wütend kriechend mit dem Kopf hin und
-der fuhr … Die Mast? war verstummt … Das Publikum
+In der Linken hielt er eine Brillenschlange, die mit
+geblähter Haube wütend zischend mit dem Kopf hin und
+her fuhr … Die Musik war verstummt … Das Publikum
 gleichfalls.
 
 Herr Bellasini warf die Kobra plötzlich — und das kam
-so überraschend, daß ein Auüweichen unmöglich — Harald
+so überraschend, daß ein Ausweichen unmöglich — Harald
 gerade in den Schoß …
 
-Und das niederriß Suchte: Im selben Augenblick fast
-wurde es dunkel — jäh Erfolg; das Licht …
+Und das niederträchtigste: Im selben Augenblick fast
+wurde es dunkel — jäh erlosch das Licht …
 
-Ein einziger Ihre: gellte auf … zumeist aus Frauen Fehlen
+Ein einziger Schrei gellte auf … zumeist aus Frauenkehlen
 …
 
 Stockfinster war’s …
 
-Mir kroch Tischplatte über den Rücken, ich war wie
-gelähmt, ich sah nichts, ja) hörte nur Xaver neben mir
+Mir kroch Eiseskälte über den Rücken, ich war wie
+gelähmt, ich sah nichts, ich hörte nur Xaver neben mir
 brüllen:
 
-»Der Schrift — — der Schuf!!«
+»Der Schuft — — der Schuft!«
 
-Dann hatte der Na! — rascher als ich — seine Taschenlampe
+Dann hatte der Rat — rascher als ich — seine Taschenlampe
 eingeschaltet …
 
-Der Lichtkegel Kiel auf den Boden, glitt höher …
+Der Lichtkegel fiel auf den Boden, glitt höher …
 
-… Harst?!
+Harst?!
 
-» Er hatte die Kobra die! unter der Haube mit der rechten
-
-Sand gepackt und mit der Linken ihr seinen Filzhut hingehalten
-… Sie biß hinein — mit einen! Tue riß er ihn
+Er hatte die Kobra dicht unter der Haube mit der rechten
+Hand gepackt und mit der Linken ihr seinen Filzhut hingehalten
+… Sie biß hinein — mit einem Ruck riß er ihn
 zurück — — ließ die Brillenschlange nochmals schnappen —
-mehrmals
+nochmals …
 
-Inzwischen war Araber mit einem Satz auf die -Bühne
-geschnellt … Aber Herr Bellasini war schon gut auf
-
-gehoben, desgleichen sein Anhang. Die Beamten draußen
+Inzwischen war Xaver mit einem Satz auf die Bühne
+geschnellt … Aber Herr Bellasini war schon gut aufgehoben,
+desgleichen sein Anhang. Die Beamten draußen
 hatten tadellos aufgepaßt.
 
 <@pagebreak/>
-Das Licht flammte an.
-Harald mit der jetzt unschädlichen Kobra in der Sand,
+Das Licht flammte an …
 
+Harald mit der jetzt unschädlichen Kobra in der Hand,
 — — das verehrlichte Publikum, ahnungslos, — — der Rat,
 der zum Verlassen des Zeltes aufforderte, — — von draußen
 der Lärm von einigen dreißig Drehorgeln, Musikkapellen,
@@ -2185,61 +2181,61 @@ haben mußten?!
 
 Harald hatte sich selbst geschützt …
 
-»Hole den Lederjacke von der Zähne, mein Alter«.-
-Die Kobra zu töten, wäre Unfug …« Er sagte es ohne.
+»Hole den Ledersack von der Bühne, mein Alter …
+Die Kobra zu töten, wäre Unfug …« Er sagte es ohne
 jede Effekthascherei … Für ihn war dieser Zwischenfall
 erledigt …
 
 »Der Kerl war dumm,« fügte er nur hinzu … »Sein
-Blick begegnete dem. meinen … Und das verriet ihn, da
-bereitete mich vor, abgesehen davon, daß der Mensch von
-atmete. dicken Lebensjahr über den Arm gestreift hatte …
+Blick begegnete dem meinen … Und das verriet ihn, da
+bereitete mich vor, abgesehen davon, daß der Mensch noch
+einem dicken Lederstulp über den Arm gestreift hatte …
 Ich ahnte, daß er werfen würde … aus ohnmächtigem Haß,
-in der Erkenntnis, daß das Spiel endgültig verloren … —ck
-Lebte Rache!«
+in der Erkenntnis, daß das Spiel endgültig verloren … —
+Letzte Rache!«
 
 Fünf Minuten drauf, Szenenwechsel …
 
-Schlag ufitellerwagen des Herrn Bellasini, mit richtigem:
+Schaustellerwagen des Herrn Bellasini, mit richtigem
 Namen Jakob Madler, früherer Artist, jetzt Besitzer der
 Bellasini-Schau,
 
 Erstes Verhör der Verhafteten, der fünf Verhafteten …
 leider nur fünf! Gerade der blonde Spargel fehlte, gerade
-dieses schlank? Weib … Durch ein Fenster des Lohn«.
-Wagens war sie entwischt — spurlos vorläufig …
+dieses schlanke Weib … Durch ein Fenster des Wohnwagens
+war sie entwischt — spurlos vorläufig …
 
 Immerhin, fünf dieser Edelgewächse waren sichergestellt.
 Gegen Polizeihandschellen ist schwer etwas zu machen. Daß
 Herr Jakob Madler nebst Gattin, Schwiegersohn und Tochter
-und Schwager ihre unflätige Phantasie in geifernden Wo«-
+und Schwager ihre unflätige Phantasie in geifernden Beschimpfungen
 <@pagebreak/>
-shimpfungen Harsts- erschöpften, — — Xavers Faust kam
-mit Jakobs Maul in unsanfte Berührung, Zähne loderten
+Harsts erschöpften, — — Xavers Faust kam
+mit Jakobs Maul in unsanfte Berührung, Zähne lockerten
 sich, und die Herrschaften schwiegen. Sie waren sämtlich
 Deutsche, hatten die Welt durchzogen, hatten es zu einem
 eigenen Zirkus gebracht, der dann in Valparaiso niederbrannte,
-hatten gerade Südamerika abgestuft und waren erst
-wieder seit zwei Jahren in Deutschland. Mit der Bellasini Schau!
-— All dies stellte sich so naht und nach heraus.
+hatten gerade Südamerika abgegrast und waren erst
+wieder seit zwei Jahren in Deutschland. Mit der Bellasini-Schau!
+— All dies stellte sich so nach und nach heraus.
 Ich nehme es hier vorweg. — Bisher hatte Jakob Madler
-nebst Sippe die Polizei Rohr nicht beschäftigt. Vielleicht, weil
+nebst Sippe die Polizei noch nicht beschäftigt. Vielleicht, weil
 er zu schlau gewesen, sich erwischen zu lassen. Madler selbst
-war geborener Rüstungen, sein Schwiegersohn aber dies
-mit richtigem Namen Joseph Fischkutter und war der Bruder
-der denen Amanda.
+war geborener Augsburger, sein Schwiegersohn aber hieß
+mit richtigem Namen Joseph Rickhuller und war der Bruder
+der armen Amanda.
 
 Wer aber war … der Spargel?!
 
-… Als mit zu Madlers Schau gehörig war sie nicht gemeldet.
+Als mit zu Madlers Schau gehörig war sie nicht gemeldet.
 Sie schwebte gleichsam in der Luft … Die
 Kollegen Madlers kannten sie nur unter dem Spitznamen
 »Prinzeßchen«. Weder Jakob noch die vier anderen im Wohnwagen
-»zwangsgesjtellten« Herrschaften konnten oder wollten
-über die Blonde sich äußern. Madler blieb dabei: Sie s&
+»zwangsgestellten« Herrschaften konnten oder wollten
+über die Blonde sich äußern. Madler blieb dabei: Sie sei
 vor Monaten zu ihm gekommen, habe sich nützlich gemacht,
-habe den Bühnenvorhang gemalt, habe ihm neue Zaubertrid8
-gezeigt und sei seine beste Gebhilfin’ gewesen, auch sehr
+habe den Bühnenvorhang gemalt, habe ihm neue Zaubertricks
+gezeigt und sei seine beste Gehilfin gewesen, auch sehr
 geschäftstüchtig … Anscheinend eine »Dame«, — — woher,
 wie, was, — — keine Ahnung habe er.
 
@@ -2253,40 +2249,41 @@ zu haben.
 
 Das machte keinerlei Eindruck auf die fünf.
 
-»Amanda ist in Scharlach bei meiner Matter,« erklärte
-Bruder … Joseph im Brustton der »Biederkeit.
+»Amanda ist in Schaftlach bei meiner Mutter,« erklärte
+Bruder Joseph im Brustton der Biederkeit.
 
 <@pagebreak/>
 auch dieser Punkt war ein Versager. Die fünf leugneten
 kaltblütig, gaben aber zu, die beiden Automaten gestohlen
 oder besser entführt zu haben.
 
-Hierzu gab Jakob Madler folgendes an;
+Hierzu gab Jakob Madler folgendes an:
 
-Er sei mit Amanda erst hier in Münden vor zwei
-Wochen dunkel) Joseph persönlich bekannt geworden. Damals
-habe er in Schlingen ein Gastspiel gegeben. Amanda erzählte
-von der seinen Stelle als Haushälterin und Köchin bei
+Er sei mit Amanda erst hier in München vor zwei
+Wochen durch Joseph persönlich bekannt geworden. Damals
+habe er in Holzkirchen ein Gastspiel gegeben. Amanda erzählte
+von der feinen Stelle als Haushälterin und Köchin bei
 dem Engländer Stuart Parker und von dessen »Freund«,
-dem kranken Herrn, der die Automaten gebaut habe, die!so
+dem kranken Herrn, der die Automaten gebaut habe, die so
 unheimlich echt gehen und sich bewegen könnten. Madler
-begann sich aus »Geschäftsgründen« für die Antomaten’ zu
+begann sich aus »Geschäftsgründen« für die Automaten zu
 interessieren. Er besuchte Amanda wiederholt heimlich und
-machte sich sowohl mit der Konstruktion der Puppen: als
+machte sich sowohl mit der Konstruktion der Puppen als
 auch mit dem dazu gehörigen Steuersender vertraut. Als
 Parker in jener Nacht starb, war Madler mit den Seinen
 bereits in München, und das »Prinzeßchen« war’s dann,
-die ihn veranleüte, die Automaten zu stehlen: genauso,
+die ihn veranlaßte, die Automaten zu stehlen: genauso,
 wie Harald dies sofort vermutet hatte. —
 
 Die Automaten und der Sender lagen gut verpackt
-hier in! Wohnwagen in einem Schrank. Wir hatten sie
-also stürmisch zurückerobert.
+hier im Wohnwagen in einem Schrank. Wir hatten sie
+also glücklich zurückerobert.
+
 Madler leugnete auch keineswegs, die Bude nebenan nur
 aus Vorsicht, als Unterschlupf gekauft zu haben, gab ebenso
 alles Übrige restlos zu. Nur Amanda Rickhuller, — —
-von der wisse er nichts … Gar nichts … Wie die vorn
-verdächtigen Dinge in die Herdasche gekommen seien — — keine
+von der wisse er nichts … Gar nichts … Wie die verdächtigen
+Dinge in die Herdasche gekommen seien — — keine
 Ahnung!! Vielleicht habe das Prinzeßchen damit etwas zu
 tun, — er und die Seinen bestimmt nicht!
 
@@ -2295,8 +2292,9 @@ tun, — er und die Seinen bestimmt nicht!
 Da nahmen die Dinge eine andere Wendung.
 
 <@pagebreak/>
-z. Kapitel.
-Besitz Bark,
+
+<h2>4. Kapitel.</h2>
+<h3>Bessy Bark.</h3>
 
 Jakob Madler hatte jetzt, wo er uns sein edles Antlitz
 zum. erstenmal ohne Theaterkünste, ohne Perüäge, Bart,
@@ -2607,7 +2605,7 @@ Ich glaube fast, dort Diener die beiden. Lassen Sie morgens
 mal ganz vorsichtig nachforschen, ob dort Fremde sich eingemietet
 haben. Die Bart kann malen, wie wir wissen …«
 
-»Bravo!« rief der Herr Na! begeistert … »Wird gewagt!!
+»Bravo!« rief der Herr Rat begeistert … »Wird gewagt!!
 Lieber Herr Harst, ich wittere geradezu!echten einen
 Erfolgt«
 
