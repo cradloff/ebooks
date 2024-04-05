@@ -1448,7 +1448,7 @@ Ich stand zwanzig Schritte ab, hatte mir ein Paar
 Weißwürstl gekauft, aß … Beobachtete …
 
 Mit einem Male hob das Weib den Kopf … Ich
-erkannte sie: Es war eine der angejahrten »Skändinavierinnen«
+erkannte sie: Es war eine der angejahrten »Skandinavierinnen«
 … Dann las sie weiter, schaute wieder auf und
 erhob sich, gähnte und verschwand im Zelt, trat nochmals
 heraus, holte ihr Buch, und — der grüne Vorhang fiel
@@ -2297,19 +2297,19 @@ Da nahmen die Dinge eine andere Wendung.
 <h3>Bessy Bark.</h3>
 
 Jakob Madler hatte jetzt, wo er uns sein edles Antlitz
-zum. erstenmal ohne Theaterkünste, ohne Perüäge, Bart,
-Schminke zeigte, die verwitterten, verkniffenen, nicht Ruine
-schützenden Züge eines Menschen, de des Lebens Sturm und
-Drang in abenteuerlichsten! Wechsel erfahren hat.
+zum erstenmal ohne Theaterkünste, ohne Perücke, Bart,
+Schminke zeigte, die verwitterten, verkniffenen, nicht
+unintelligenten Züge eines Menschen, der des Lebens Sturm und
+Drang in abenteuerlichstem Wechsel erfahren hat.
 
 Ein äußerst gefährlicher Charakter, lautete mein stilles
 Urteil,
 
-Madler, bisher die Ruhe selbst, war plötzlich nervös« geworden,
+Madler, bisher die Ruhe selbst, war plötzlich nervös geworden.
 In seinem lächerlichen Yogikostüm rutschte er auf
 seinem Stuhle hin und her und sagte dann brutal:
 
-»Das Vieh ist tot … Es gehörte den! Prinzeüchen …
+»Das Vieh ist tot … Es gehörte dem Prinzeßchen …
 Sie hatte es mitgebracht, als sie bei uns erschien.«
 
 »Wie hieß der Pudel?« fragte Harald weiter.
@@ -2321,185 +2321,184 @@ weiterleben. Wer brachte ihm die Wunde bei?«
 
 »Ich …«
 
-»Durst« rief da Joseph Monaten ehrlich erstaunt. »Frauen
-weiß ich ja gar nichts … « Er wandte sich an Frau Madler,
-eine verblüthte, grauhaarige Person mit nichtssagenden, Gesicht.
-»Wachtest du was davon, Schwiegermutter?«
+»Du?!« rief da Joseph Rickhuller ehrlich erstaunt. »Davon
+weiß ich ja gar nichts …« Er wandte sich an Frau Madler,
+eine verblühte, grauhaarige Person mit nichtssagendem Gesicht.
+»Wußtest du was davon, Schwiegermutter?«
 
 Frau Madler wurde rot und blaß.
 
-» Oh «— Alibi …« stotterte sie … und log. Jeder
+»Nein … nein …« stotterte sie … und log. Jeder
 merkte es.
 
 In dem engen Wohngemach des Wagens trat Stille ein.
 
-Tafel Madler stierte vor sich) hin. Tückische Blicke
+Jakob Madler stierte vor sich hin. Tückische Blicke
 trafen Harst — blitzartig, tastend, voll geheimer Angst.
 
 <@pagebreak/>
-»Sie wollten also den Sund töten …« begann Harst
+»Sie wollten also den Hund töten …« begann Harst
 wieder.
 
-»Ja.«
+»Ja …«
 
 »Nein, das wollten Sie nicht!« Haralds Stimme schwoll
 an. »Als Sie heute mittag meinen Freund und Herrn Dürnhuber
 vor der Mr. James-Bude nebenan erkannten, hat
 das Prinzeßchen den Pudel im Bett verwundet, damit die
-Bettwäsche blutig würde«…«
+Bettwäsche blutig würde …«
 
 Madler ward grau um die Nasenflügel … Seine gefesselten
 Hände krampften sich zu Fäusten.
 
-… blutig würde, Madler!! Der Hund sollte leben …
-
-Nur die anderen Flecken dort im Bett, die bereits eingetrockneten,
-sollten verdeckt werden …« Harst hob einzelne
+»… blutig würde, Madler!! Der Hund sollte leben …
+Nur die anderen Flecken dort im Bett, die bereits
+eingetrockneten, sollten verdeckt werden …« Harst hob einzelne
 Worte scharf hervor … »Andere Blutflecken sollten so verschwinden,
-und die rührten von einem Worte her … Madler,-.
-Sie und das Prinzeßchen haben Amanda’ Rickhuller in
+und die rührten von einem Morde her … Madler,
+Sie und das Prinzeßchen haben Amanda Rickhuller in
 demselben Bett getötet, und Ihre Frau weiß darum. Die
-Chemische Untersuchung der Flecken wird Menschen« und
+Chemische Untersuchung der Flecken wird Menschen- und
 Tierblut feststellen …
 
-Die Szene wurde zum Familientribunal …«
+Die Szene wurde zum Familientribunal …
 
 Joseph Rickhuller sprang empor … Er brüllte Madler
 erregt an:
 
-— »Schuft, Mörder, — ich lese dir’s vom Gesicht ab …
+»Schuft, Mörder, — ich lese dir’s vom Gesicht ab …
 Der Herr Harst hat recht! Bestie du, — — meine Schwester,
 warte, Schurke …«
 
 Und mit den gefesselten Händen versetzte er dem leichenblassen
-Madler einen Sieb vor die Stirn, daß Madler
+Madler einen Hieb vor die Stirn, daß Madler
 sofort vom Stuhle fiel …
 
-»Lump … erwürgen — tat ich dich … erwürgen … h1«
-Kreischte Erhalten wie ein Verräter … « »Angst hast gehabt,
-daß die Amanda dich verraten tat … Weil du dem
+»Lump … erwürgen — tät’ ich dich … erwürgen …!!«
+kreischte Rickhuller wie ein Verrückter … »Angst hast gehabt,
+daß die Amanda dich verraten tät … Weil du dem
 Parker auch noch Geld gestohlen … Und mit dem blonden
 Weibsbild hast immer zusammengesteckt, diesem Satan, der
-all dies uns eingebrockt, du …!! Sie hat hin auf die
+all dies uns eingebrockt, du …!! Sie hat dich auf die
 Automaten scharf gemacht, sie hat all die Dinge ausgeheckt,
 <@pagebreak/>
-erste hat Herrn Harst abfangen wollen, sie hat dich am Numeriert
+sie hat Herrn Harst abfangen wollen, sie hat dich am Narrenseil
 herumgeführt, du altes geiles Tier …!!« Mit dem Fuße
 stieß er nach Madler, der jetzt stumpfsinnig auf dem Fußboden
 hockte … »Herr Harst, — fragen’s mich … Herr Harst,
 ich sag’ jetzt alles … Auch über die Bessy Bark … So heißt
-die Blonde … Und Engländerin ist sie mal gewesen, nachher.
+die Blonde … Und Engländerin ist sie mal gewesen, nachher
 war sie in Valparaiso … Ein Bordell am Hafen hat sie
 gehabt … Und auch beim Theater war sie … Stimmt
 schon, daß sie vor kurzem erst zu uns kam … Brachte den
-Charles mit, ging immer als Mann verkleidet … Westen
-noch!! ich, daß die Polizei hinter ihr her ist … von früher
+Charles mit, ging immer als Mann verkleidet … Wetten
+möcht’ ich, daß die Polizei hinter ihr her ist … von früher
 schon … den Teufel hat sie im Leibe, nichts als Tücke
 im Hirn … Und nun können wir die Suppe ausfressen,
 die sie uns hier angerührt hat … Giftmischerin ist sie …
--Die Zigaretten damals im Hofbräu: ihr Fabrikat! Alles kann
+Die Zigaretten damals im Hofbräu: ihr Fabrikat! Alles kann
 sie — alles, der Satan …! Kommandiert hat sie uns,
 hat uns goldene Berge versprochen, die Automaten und
-der »Sender würden uns hunderttausende einbringen … Geschrieben
-hat sie an einen Kerl naht Genf … Dort sitzen
+der Sender würden uns hunderttausende einbringen … Geschrieben
+hat sie an einen Kerl nach Genf … Dort sitzen
 alle die, denen’s hier zu heiß geworden … Agent ist der
 Kerl, Spion für irgendein fremdes Land …«
-— Er schwieg ganz erschöpft. Seine ungeheure Wut: raubte
+
+Er schwieg ganz erschöpft. Seine ungeheure Wut raubte
 ihm die Sprache … Seine Stimme überschlug sich … Er
-fiel auf seinen Stuhl zurück und begann … zu weinen,
-Jakob Madler regte sich nickt. Auch seine Frau schluchzte.
+fiel auf seinen Stuhl zurück und begann … zu weinen.
+Jakob Madler regte sich nicht. Auch seine Frau schluchzte.
 Seine Tochter war halb ohnmächtig gegen den stumpfsinnig
-da sitzenden Schwager Maskiert gefallen, der nun,
-ihr einen kräftigen Stoß versetzend, gleichfalls ausstand und
+da sitzenden Schwager Madlers gefallen, der nun,
+ihr einen kräftigen Stoß versetzend, gleichfalls aufstand und
 feierlich betonte:
 
-»Nichts gewußt hat? auch ich, Herr Harst. — Der
-Joseph wird’s bestätigen … Gehaßt hab: ich die Geist
+»Nichts gewußt hab’ auch ich, Herr Harst. — Der
+Joseph wird’s bestätigen … Gehaßt hab ich die Bessy
 Bark wie er … gehaßt!! Und die Kobra, Herr Harst, die
 hat der Madler erst vorgestern gekauft vom Tierhändler auf
 der Au … Wenn ich geahnt hätt’, daß das Vieh nur deshalb
-noch die Giftzähn’ haben sollt’. damit er Ionen eins aufs
+noch die Giftzähn’ haben sollt’, damit er Ihnen eins auswischen
 <@pagebreak/>
-wischen könnt’! Aus ist’s zwischen mir und dieser Tage
+könnt’! Aus ist’s zwischen mir und dieser Bagage
 da, diesem Mordgesindel …! Belogen hat er uns — immer,
 auch damals, was die Zigaretten betrifft, Herr Harst …
 Hätt’ ich g’wußt, daß die Dinger so scharf giftig sind, —
-nie hätt’ ich’s geduldet, nie mich dazu hergegeben, da in!
+nie hätt’ ich’s geduldet, nie mich dazu hergegeben, da im
 Hofbräu die Touristen zu spielen — und zu all dem anderen.
-Ich bin kein Mörder … Noch ne! mal g’stohlen hab’ fliehen
+Ich bin kein Mörder … Noch net mal g’stohlen hab’ i bisher
 an’ Pfifferling, und nun — rein ins Zuchthaus — von
-wegen dem blonden Salons!«
+wegen dem blonden Satan!!«
 
 Er setzte sich wieder, rückte von seiner Frau ab, die
 Nun heulend jammerte:
 
-»Ich kann doch nichts dafür, daß ich sollte Eltern hab’,
-Franzerl … Gut mußt mir sein, Flunkerei … Um Sein
+»Ich kann doch nichts dafür, daß ich solche Eltern hab’,
+Franzerl … Gut mußt mir sein, Franzerl … Um Jesu
 willen: Ich bin doch stets ein braves Weibsbild gewesen,
 Franzerl … Sei gut zu mir …«
 
 Er betrachtete sie finster … Aber sein Blick wurde
 weicher … »Hast recht, — du kannst nix dafür … hast
 schon recht, warst immer fleißig und brav … Aber dein
-
-Packzeug da, deine seinen Eltern, — — und meint Leben
+Packzeug da, deine feinen Eltern, — — und mein Leben
 nun verpfuscht — für immer!! Geschuftet hat man, gespart
 für seine alten Tag’, — — jetzt — — alles dahin …!
+Hätt’ ich die Bessy nur hier, — *die* sollt’ was erleben!!«
 
-Hätt’ ich die Bessy nur hier, — die soll! was erstehen!!«
-
-Jakob Motoren schaute ganz sehen zu seinem Schwager
+Jakob Madler schaute ganz scheu zu seinem Schwager
 auf. Seine Züge bekamen einen Ausdruck, der sich nur als
 Beginn wahrer Reue deuten ließ. Er senkte wieder den
 Kopf, und schwerfällig brachte er über die Lippen: »Die
 Bessy tat’s, aber meine Frau und ich haben’s gelitten …
-Das Weib … hatte … uns rein Bechert … Wir waren
+Das Weib … hatte … uns rein verhext … Wir waren
 ihre Sklaven, wir hatten keinen Willen mehr … Machen
 Sie mit mir, was Sie wollen, meine Herren … Ich …
 leugne … nichts mehr …«
 
 Seine Widerstandskraft war gebrochen. Was dort auf
-dem Boden hockte, war ein armseliger Vertreter, ein vizelleicht
+dem Boden hockte, war ein armseliger Verirrter, ein vielleicht
 bemitleidenswertes Opfer eines dämonischen Weibes,
 das keinerlei moralische Hemmungen kannte, eine Verbrecherin
 <@pagebreak/>
-schlimmster Art, Es ist ja leider alter Erfahrungssatz,
+schlimmster Art. Es ist ja leider alter Erfahrungssatz,
 daß gerade hagere Frauen, äußerlich den Formen nach
 scheinbar reizlos, auf Männer reiferen Alters besonders
-stark wirken, zumal wenn sie nachts jenen Einschlag ins
+stark wirken, zumal wenn sie noch jenen Einschlag ins
 Kriminelle besitzen, der gewöhnlich Hand in Hand geht mit
 einem krankhaft gesteigerten Lebenshunger. Die üppige, korpulente
-Frau, im Durchschnitt auch weit Träger und munkelt«
-intelligenter, schwingt sich seiten zu jener unerklärlichen Vorstellung
-gegenüber den! Manne auf wie die zarten, rberschlanken,
-mehr auf Intellektnelle3 eingestellten Weiber. Mit
+Frau, im Durchschnitt auch weit träger und unintelligenter,
+schwingt sich selten zu jener unerklärlichen Machtstellung
+gegenüber dem Manne auf wie die zarten, überschlanken,
+mehr auf Intellektuelles eingestellten Weiber. Mit
 dem Begriff einer Xantippe werden wir nie das geistige
-Bild körperlicher Fülle verbinden, und dieser Xanttypeintyp,
+Bild körperlicher Fülle verbinden, und dieser Xanttypentyp,
 in den Kreisen der Ehefrauen ebenso zahlreich zu finden
-wi? in denen der Hausdamen, Haushälterinnen und so weiter,
+wie in denen der Hausdamen, Haushälterinnen und so weiter,
 ist nur das harmloseste Glied einer Kette, die, hinabführend
-in die Abgründe moralischen Wirrungen, über Gelegenheitsdieb in,
-Hochstaplerin und ähnlichem mit dem letzten Blicke,
-der Mörderin, endet, Dieselben Gedankengänge zu diesem
+in die Abgründe moralischen Wirrungen, über Gelegenheitsdiebin,
+Hochstaplerin und ähnlichem mit dem letzten Gliede,
+der Mörderin, endet. Dieselben Gedankengänge zu diesem
 traurigen Thema fand ich bei dem italienischen Strafrechtlehrer
-Männer, der die Theoretiker, zum Teil falschen
-Darlegungen seines berühmten Landsmannes Londoner gleichsam
-modernisiert und beridytigt hat. —
+Manunco, der die theoretischen, zum Teil falschen
+Darlegungen seines berühmten Landsmannes Lombroso gleichsam
+modernisiert und berichtigt hat. —
 
-Rad diesem Geständnis Madlers erübrigte sich jedes
+Nach diesem Geständnis Madlers erübrigte sich jedes
 weitere Verhör der Verhafteten. Der Herr Rat ließ sie, nachdem
 die Festwiese geschlossen, in aller Stille nach dem
 Polizeipräsidium schaffen. Madler hatte nur noch angegeben,
 daß Bessy Bark die Leiche Amanda Rickhullers allein mit
-per alten Droschke weggeschafft habe. Wohin sek ihm umdrängt,
+der alten Droschke weggeschafft habe. Wohin sei ihm unbekannt,
 
 <@pagebreak/>
-85\. Kapitel.
-Die Totenhand.
+
+<h2>5. Kapitel.</h2>
+<h3>Die Totenhand.</h3>
 
 Niemand wird mir den Vorwurf machen können, ich
 hätte die sensationellen Stellen dieses Abenteuers irgendwie
-hervorgehoben. Jeder wird zugeben: Ich habe abgeschwächt;
+hervorgehoben. Jeder wird zugeben: Ich habe abgeschwächt,
 habe Dinge nur flüchtig gestreift, die peinlich wirken könnten.
 Ich sehe meine Aufgabe nicht darin, die Nerven des Lesers
 mit derber Kraft anzufeuern, — nur darin: Meines Freundes
@@ -2509,54 +2508,54 @@ So muß ich hier auch betonen, daß der Herr Rat in
 richtiger Würdigung der Sachlage seinen Beamten strengstes
 Stillschweigen auferlegte, daß die Zeitungen damals lediglich
 auf die Angaben der Budennachbarn Madlers und auf
-die vorsichtigen … Äußerungen des ursprünglichen Besitzers
+die vorsichtigen Äußerungen des ursprünglichen Besitzers
 des Mr. James-Zeltes angewiesen blieben. Man operierte
 damals in der Presse mit Vermutungen, falschen Schlußfolgerungen
 und Gerüchten. Der Pudel, den der Tierarzt in
 Pflege hatte, wurde zu einem förmlichen Fabelwesen. Harsts
-Name hielte mit durch die Druckerschwärze, aber wie
+Name sickerte mit durch die Druckerschwärze, aber wie
 gesagt: Es war alles dünner Brei, und gerade das Gewürz
 fehlte vollkommen: die arme Amanda und die Automaten
-und die Vorsorge, daß der Pudel einer Miß Besitz Bark
+und die Tatsache, daß der Pudel einer Miß Bessy Bark
 gehörte. —
 
 Nach dem Abtransport der Verhafteten hatten der Rat
 und wir beide noch ein Bräu in der Kaufinger Straße
 aufgesucht. Bei einer Maß und bei solidem Kalbsbraten
-hielten wir Kriegsrat. Bessy Bark mußte gefunden werden,
+hielten wir Kriegsrat. Bessy Bark mußte gefunden werden.
 Sie war die Anstifterin, der böse Geist … Aber — wer
 war sie?! Weshalb hatte sie sich den Madlers angeschlossen?
-— Harst behauptete, sie« müsse etwas ganz Arges auf dem
+— Harst behauptete, sie müsse etwas ganz Arges auf dem
 <@pagebreak/>
 Kerbholz haben. »Fragen wir in Berlin an, Herr Rat …
-Die Herren da sind doch stets am ersten auf dem Hausenden.
+Die Herren da sind doch stets am ersten auf dem Laufenden.
 In den Fahndungsblättern hat nichts über jemand gestanden,
-der einen Pudel mit sich führte?« …
+der einen Pudel mit sich führte?«
 
-» Der Rat dachte angestrengt Rache. »Wir ist so, als
-hätte ich Dom etwas gelesen — vor längerer Zeit … Halt,
-richtig. Ein Raubüberfall mit Orte eines Hundes …! Wo
+Der Rat dachte angestrengt nach. »Mir ist so, als
+hätte ich doch etwas gelesen — vor längerer Zeit … Halt,
+richtig. Ein Raubüberfall mit Hilfe eines Hundes …! Wo
 war’s nur? Irgendwo in einem internationalen Badeort …
 — Hallo: Scheveningen, stimmt, Scheveningen …! Ein reicher
 Ausländer ist da vollkommen geplündert worden — am
-Strande … übel zugerichtet von dem Tier … Ein eleganten
-»Herr soll den Hund gehetzt haben … — Am einfachsten,
+Strande … übel zugerichtet von dem Tier … Ein eleganter
+Herr soll den Hund gehetzt haben … — Am einfachsten,
 wir begeben uns nachher in mein Büro …« —
 
-Es war ein Uhr morgens, als Geist Parks damaliger
-Streich mit allen Einzelheiten gedruckt vor uns lag. Zweifel
-los war’s der Pudel gewesen … Der Überfallene hatte
-freilich nur angezogen können: Ein schwarzer großer Hund.
+Es war ein Uhr morgens, als Bessy Barks damaliger
+Streich mit allen Einzelheiten gedruckt vor uns lag. Zweifellos
+war’s der Pudel gewesen … Der Überfallene hatte
+freilich nur aussagen können: Ein schwarzer großer Hund.
 Und über den Besitzer: Schlank, sehr elegant, bartlos, heisere
 Stimme. — Rund hunderttausend Mark hatte der Badegast
-»eingebüßt, hatte von fünf Stunden blutend und bewußtlos
+eingebüßt, hatte noch fünf Stunden blutend und bewußtlos
 in den Dünen gelegen — Zeit genug für Miß Bessy, spurlos
 zu verschwinden.
 
 Nun wußten wir also, weshalb sie sich den Madlers
 angeschlossen hatte. Sie wollte untertauchen in dem bunten
-Kreise der Schausteller, und es war ihr auch geahnt.
-Wohin welche sie jetzt geflohen sein? Besaß sie noch einen
+Kreise der Schausteller, und es war ihr auch geglückt.
+Wohin mochte sie jetzt geflohen sein? Besaß sie noch einen
 Schlupfwinkel hier in München?
 
 Harst nahm dies mit Bestimmtheit an.
@@ -2565,141 +2564,139 @@ Harst nahm dies mit Bestimmtheit an.
 und Schraut bisher völlig entgangen ist. Sechs Personen
 und ein Hund, ein weißer Pudel, entflohen mittags aus
 dem Mr. James Zelt nach der Parallelstraße der Budenstadt.
-Der Pudel war der mit eingm entsprechenden Fell
+Der Pudel war der mit einem entsprechenden Fell
 bekleidete Automat. Wer aber bediente den Sender, wer
 also »steuerte« die Bewegungen des künstlichen Tieres? —
-
 <@pagebreak/>
-Radler hat über diese Jl: ht nur aussagen können, daß
-der eine Sender und der Automat in Lltenjdzengeltalt
-in den Paketen steten. Wer den »Hund« dirigiert habe,
-wisse er nicht. Und das glaube ich ihm. — Wir aber willeap
+Madler hat über diese Flucht nur aussagen können, daß
+der eine Sender und der Automat in Menschengestalt
+in den Paketen steckten. Wer den »Hund« dirigiert habe,
+wisse er nicht. Und das glaube ich ihm. — Wir aber wissen,
 Stuart Parker besaß zwei Sender für seine Automaten,
-einen, der in der Energie, den zweiten, der in dem offenen
-Auto untergebracht war. Mithin muß Besitz Bark diesen
+einen, der in der Droschke, den zweiten, der in dem offenen
+Auto untergebracht war. Mithin muß Bessy Bark diesen
 zweiten Sender zur Verfügung und außerdem einen Verbündeten
 gehabt haben, der diesen Sender bediente, denn sie
 selbst befand sich ja mit unter den sechs Flüchtlingen, die
-nachher sofort in dem Nachbarzelt wieder verschwanvben:
-Sei »Bellasini«. Dieser Verbündete aber muß den Sender
+nachher sofort in dem Nachbarzelt wieder verschwanden:
+Bei »Bellasini«. Dieser Verbündete aber muß den Sender
 von einer Stelle bedient haben, die ihm Einblick in die
-Zeltstadt gewährte, denn anders hätte er die Bewegungen«
+Zeltstadt gewährte, denn anders hätte er die Bewegungen
 des künstlichen Tieres nicht genau leiten können. Diese
-Stelle kann nur ein Haus am Bavaria-Ring nahe verlieren Straße
-sein, etwa ein Mansardenfenster. Nur von
-da ist es möglich, den -Teil der Zeltstadt zu überblicken,
-der hier in Betracht kommt. — Sind Sie meinem Gedankengänge
+Stelle kann nur ein Haus am Bavaria-Ring nahe der
+Rieler-Straße sein, etwa ein Mansardenfenster. Nur von
+da ist es möglich, den Teil der Zeltstadt zu überblicken,
+der hier in Betracht kommt. — Sind Sie meinem Gedankengange
 gefolgt?«
 
-»Durchgang, durcha2us …! Sie meinen also, der Berg
-Verbündete der Bark, von dessen Existenz die Madlers richtig
-»ahnen, hat Sir) dort irgendwo einquartiert und …
+»Durchaus, durchaus …! Sie meinen also, der Verbündete
+der Bark, von dessen Existenz die Madlers nichts
+ahnen, hat sich dort irgendwo einquartiert und …«
 
-»bat Bessy Bark jetzt bei sich, natürlich »verkleidet,
+»… hat Bessy Bark jetzt bei sich, natürlich verkleidet,
 natürlich als Ehepaar oder Bruder und Schwester, als
 harmlose Touristen, dergleichen … — Als wir vorhin die
-Vftoberwiese verließen, bog ich »absichtliä in die NielerSiraße
+Oktoberwiese verließen, bog ich absichtlich in die Rieler-Straße
 ein … Eines der Häuser dort am Bavaria-Ring
-hat ein Dachatelier, wie selbst im Bauern zu erkennen war.
-Ich glaube fast, dort Diener die beiden. Lassen Sie morgens
+hat ein Dachatelier, wie selbst im Dunkeln zu erkennen war.
+Ich glaube fast, dort stecken die beiden. Lassen Sie morgens
 mal ganz vorsichtig nachforschen, ob dort Fremde sich eingemietet
-haben. Die Bart kann malen, wie wir wissen …«
+haben. Die Bark kann malen, wie wir wissen …«
 
-»Bravo!« rief der Herr Rat begeistert … »Wird gewagt!!
-Lieber Herr Harst, ich wittere geradezu!echten einen
-Erfolgt«
+»Bravo!« rief der Herr Rat begeistert … »Wird gemacht!
+Lieber Herr Harst, ich wittere geradezu schon einen
+Erfolg!«
 
 <@pagebreak/>
 Und — vormittags zehn Uhr war er dann bei uns im
 Hotel, strahlend …!!
 
-»Wir haben sie, wir haben sie …? In dem Atelier
+»Wir haben sie, wir haben sie …! In dem Atelier
 hausen sie — als Ehepaar Simpson, London, zu Studienzwecken
 in München … Die Bark trägt stets tiefe Trauer.
 Ihrer Mutter wegen … Er ist ein mittelgroßer Kerl mit …«
 
-»Haben Sie sie etwa schon verhaften lassen?t’
+»Haben Sie sie etwa schon verhaften lassen?!«
 
-»Fein, nein … Ich wollte erst Ihre Ansicht hören …
-Über bewacht werden sie … Keinen Harsts tun sie rundes
-beobachtet.«
+»Nein, nein … Ich wollte erst Ihre Ansicht hören …
+Aber bewacht werden sie … Keinen Schritt tun sie
+unbeobachtet.«
 
 »Sehr gut … Dann haben wir Zeit, Herr Rat. Ich
-rief vorhin den Tierarzt an … Der Pudel ist in zwei: Tagen
+rief vorhin den Tierarzt an … Der Pudel ist in zwei Tagen
 wieder so weit hergestellt, daß er ausgeführt werden kann …
 Worauf es mir ankommt: Ich will der Bark irgendwie vor
 ihrer Verhaftung den schwersten Beweis gegen sie entlocken:
-»Die irgendwo verscharrte Leiche der armen Amanda Rickhuller
-finden! Eure den Hund! Damit sie nachher nicht etwa
+Die irgendwo verscharrte Leiche der armen Amanda Rickhuller
+finden! Durch den Hund! Damit sie nachher nicht etwa
 leugnet und langwierige Nachforschungen nötig sind. Die
-Leiche ist in der alten Frosches weggeschafft worden — durch
+Leiche ist in der alten Droschke weggeschafft worden — durch
 Bessy Bark. Natürlich hat der angebliche Simpson nachher
 dabei geholfen. In die Isar haben sie die Tote niemals
 geworfen, das wäre zu gefährlich gewesen, die Tote hätte
-Tasche schnell bemerkt werden können. — Verscharrt also.
-30?! Wo bietet sich hier in München die beste Gelegenheit
-dazu? Nur in dem Riesenrpar?, im Englischen Garten!
+sehr schnell bemerkt werden können. — Verscharrt also.
+Wo?! Wo bietet sich hier in München die beste Gelegenheit
+dazu? Nur in dem Riesenpark, im Englischen Garten!
 — Lassen wir also erst einmal den Pudel gesund werden …
-Ihres weitere findet sie. Die tief trauernde »Frau Simpson«
+Alles weitere findet sich. Die tief trauernde »Frau Simpson«
 wird, wenn sie sich sicher fühlt, einmal die Stelle aufsuchen,
 wo Amanda Rickhuller vergraben ist. Schraut und
 ich werden hinter ihr her sein, und es müßte sehr sonderbar
-zugehen, wenn in nicht lediglich aus dem Benehmen des
-Weibes heraus spürte, wo wir die Tote zu suchen haben.
+zugehen, wenn ich nicht lediglich aus dem Benehmen des
+Weibes herausspürte, wo wir die Tote zu suchen haben.
 Dann greifen wir zu, dann führen wir sie vor ihr Opfer,
-und dann wird auch sie alles gestehen. — Geduld also»…
-
+und dann wird auch sie alles gestehen. — Geduld also …
 <@pagebreak/>
-Und — Vorsicht bei der Überwachung de? Paares, Herr
-Rani
+Und — Vorsicht bei der Überwachung des Paares, Herr
+Rat!!«
 
-»Feine Sorge, lieber Harst …!« — —
+»Keine Sorge, lieber Harst …!« — —
 
-Es war ein regenschwerer, kalter, windiger Vormittags,
+Es war ein regenschwerer, kalter, windiger Vormittag.
 Einzelne Schauer hatten die Spaziergänger von den Promenaden
-des Englischen Gartens versäeuchht. Einsam lag
-der Park mit seinen h2-ditlicß verfärbten Bäumen und Büschen
+des Englischen Gartens verscheucht. Einsam lag
+der Park mit seinen herbstlich verfärbten Bäumen und Büschen
 und weiten Rasenflächen da …
 
 Eine schlanke Dame, ganz in Schwarz, tief verschleiert,
-wandelte langsam den Weg am Sccwubinger Bau dahin.
-Hinter ihr her kam ein Arbeiter mit einer Schadhafte,
-zu der ein paar Bäumchen, Spaten und Harke lagen. Ein
-zweiter Arbeiter trottete hinterdrein. Die Wurzeln der Dümmsten
+wandelte langsam den Weg am Schwabinger Bach dahin.
+Hinter ihr her kam ein Arbeiter mit einer Schubkarre,
+in der ein paar Bäumchen, Spaten und Harke lagen. Ein
+zweiter Arbeiter trottete hinterdrein. Die Wurzeln der Bäumchen
 waren mit ein paar leeren Säcken bedeckt. Wer genauer
-brutal, hätte vielleicht;t unter den Säcken zuweilen eine
-Bewegung vermerkt, als ob ein Tier darunter läge. Wiellimtbätten
-aus mißtrauiscge Augen in den Arbeitern anderes
+hinsah, hätte vielleicht unter den Säcken zuweilen eine
+Bewegung bemerkt, als ob ein Tier darunter läge. Vielleicht
+hätten auch mißtrauische Augen in den Arbeitern anderes
 vermutet … vielleicht.
 
 Die Dame in Trauer drehte sich wohl ein paarmal
-um, sah) aber nur, daß diese beiden Parkangestellten hier
-und dort den Wegrand glatt stachen, dazu rauhe)ten — —«
+um, sah aber nur, daß diese beiden Parkangestellten hier
+und dort den Wegrand glatt stachen, dazu rauchten — —
 alles ganz unverfänglich.
 
 Sie ging weiter, — bis dorthin, wo links der Bau der
-Tierärztlichen Hochschule die Parkbäume überragt, wo Tiähzteites
-Gebüsch einen Seitenweg ermutigt. Hier blieb sie stehen,
-ihr Taschentüchlein entfiel, flog bis:an ’:den Rand der
-Büsche. Sie holte es, sie!Schaute vorgereckt in das Gestrüpp
-hinein, kehrte auf den Weg zurück,!Schacht davon — nach
+Tierärztlichen Hochschule die Parkbäume überragt, wo dichtestes
+Gebüsch einen Seitenweg einrahmt. Hier blieb sie stehen,
+ihr Taschentüchlein entfiel, flog bis an den Rand der
+Büsche. Sie holte es, sie Schaute vorgereckt in das Gestrüpp
+hinein, kehrte auf den Weg zurück, schritt davon — nach
 rechts, zum Chinesischen Turm …
 
-Raum war sie verschwunden, als einer der Arbeiter
+Kaum war sie verschwunden, als einer der Arbeiter
 genau an derselben Stelle in die Büsche eindrang: Harst!
 
-Ein paar Spatenstuüuhe …
+Ein paar Spatenstiche …
 
 Er hatte gefunden … Die Simpsons hatten die Leiche
-zu Bergtälern gesucht, dann aber tot) davon Abstand genommen
+zu zerstückeln gesucht, dann aber doch davon Abstand genommen
 und die Tote ganz flach verscharrt — obenauf …
 <@pagebreak/>
-Seite abgeschnittene Hand — — die linke … mit einem
-Ging am Ringfinger.
+eine abgeschnittene Hand — — die linke … mit einem
+Ring am Ringfinger.
 
 Die Dame in Trauer, auch von anderen Augen noch
-Erfolgt, machte am Chinesischen ’Surme kehrt und kam.
-zerteilen Weg zurück.
+verfolgt, machte am Chinesischen Turme kehrt und kam
+denselben Weg zurück.
 
 Ahnungslos …
 
@@ -2719,28 +2716,28 @@ Bessy Bark wich vor Grauen noch weiter zurück …
 
 Ein schriller Schrei dann:
 
-—yCharle8 — — mein Hunderl, — — Charles!«
+»Charles — — mein Hunderl, — — Charles!!«
 
 Der Pudel ließ die Totenhand fallen und bellte freudig,
 wollte sich an seiner Herrin aufrichten …
 
-Eine schwere Männerhand legte sich »auf ihre Schulter.
+Eine schwere Männerhand legte sich auf ihre Schulter.
 
 Der Rat sagte, sie mit einem Ruck herumdrehend:
 
 »Dort in den Büschen liegt Ihr Opfer … Ihr Freund
 Simpson ist bereits verhaftet … Leugnen Sie?« —
 
-Nein, sie hat nicht geleugnet … Sie hat von zwei
+Nein, sie hat nicht geleugnet … Sie hat noch zwei
 Monate nur von der Totenhand phantasiert … Dann starb
-sie in der »Irrenanstalt, in der Tobsuchtszelle.
+sie in der Irrenanstalt, in der Tobsuchtszelle.
 
 Schon als sie ihren Pudel anrief, war ihr Verstand
 vor Schreck umnachtet. Kein Scharfrichter brauchte sich mit
-ihr zu beschäftigen. Das Geschick sprach Recht: Geist Bark
+ihr zu beschäftigen. Das Geschick sprach Recht: Bessy Bark
 endete nach Verdienst. — —
 
-Ich habe nichts mehr hinzuzufügen. Stellst nur das
+Ich habe nichts mehr hinzuzufügen. Vielleicht nur das
 eine: Der Pudel Charles gehört heute unserem Freunde
 Xaver und verspricht ein tadelloser Polizeihund zu werden. —
 Vielleicht wird der Leser auch fragen: Charles war doch
@@ -2748,20 +2745,20 @@ ein weißer Pudel?! Und als er seiner Herrin die Totenhand
 apportierte, war er schwarz?! — Das war er, von Natur.
 
 <@pagebreak/>
-Sein Haar war nur künstlich gebleicht gewesen, ’wie bei
-Tierarzt bald festgestellt so!te, und die natürliche Farbe
-wo? durch ein paar Bäder wieder zum Vorschein gekommen.
+Sein Haar war nur künstlich gebleicht gewesen, wie der
+Tierarzt bald festgestellt hatte, und die natürliche Farbe
+war durch ein paar Bäder wieder zum Vorschein gekommen.
 Besondere Bäder, — — vielleicht wissen die Damen in dieser
-Hinsicht besser Bescheid als ich …
+Hinsicht besser Bescheid als ich … — —
 
 Meinen Freunden und Lesern zum Schluß noch eine
 Frage zur Schärfung eigenen Denkens: Welchen Fehler
 enthält der vorliegende Band — scheinbaren Fehler? Wie
 läßt sich der lückenlose logische Zusammenhang trotzdem herstellen
-9 Wer hat aufgepaßt? —
+Wer hat aufgepaßt? —
 
 … Es ist ein weiter Sprung von München nach
 Island. Im nächsten Band wollen wir ihn wagen … bis
-zum »Hochseekutter«,
+zum »*Hochseekutter*«.
 
-Druck: P. Lehmann, G. in. b. H. Berlin so. 16.
+Druck: P. Lehmann, G.&nbsp;m.&nbsp;b.&nbsp;H. Berlin SO. 16.
