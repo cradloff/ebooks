@@ -1,30 +1,27 @@
-<@pagebreak/>
+<@pagebreak 3/>
 
-<@pagebreak/>
-
-<@pagebreak/>
-Old Crack, der Goldsucher.
+<h1>Old Crack, der Goldsucher.</h1>
 
 <h2>1. Kapitel.</h2>
 
 … Wenn ich hier nun in den nächsten vier Bänden
-die Abenteuer um die fast sagenhafte Gestalt Old- Cracks
+die Abenteuer um die fast sagenhafte Gestalt Old-Cracks
 schildere, so hoffe ich damit meinen Lesern und Freunden
 eine ganz besondere Kost bieten zu können. Es sind Erlebnisse,
 die so vollkommen aus dem Rahmen unserer sonstigen
 kleinen und großen Streifzüge in das Gebiet des
 Kriminellen herausfallen, daß es mir nicht leicht wird, ihnen
-eine anspreczende Form zu geben.
+eine ansprechende Form zu geben.
 
-Eigentlich hatte ich mir vorgenommen,: diese vier Old Crack Bände
-erst später fertigzustellen. Über da mich ein
-böser Anfall eines Atemnot, das ich mir damals in den
-eisigen Nächten in Atlanta holte, für längere Zeit außer
-Gehetzt gesetzt hat und mich in mein Zimmer kennt, wißt
-ich unter Hinweis auf einen Brief des Herrn Oberarzt«-
-Sekretärs A. G. aus C. gleich) mitten in die rätselhafte
-Borgesaichte h)in einspringen. Herr A. G. schrieb uns, daß
-jener Verbrecher Karsten, dem wir unsere Insel Schabernack
+Eigentlich hatte ich mir vorgenommen, diese vier Old-Crack-Bände
+erst später fertigzustellen. Aber da mich ein
+böser Anfall eines Rheumas, das ich mir damals in den
+eisigen Nächten in Alaska holte, für längere Zeit außer
+Gefecht gesetzt hat und mich in mein Zimmer bannt, will
+ich unter Hinweis auf einen Brief des Herrn Oberpostsekretärs
+A. G. aus C. gleich mitten in die rätselhafte
+Vorgeschichte hineinspringen. Herr A. G. schrieb uns, daß
+jener Verbrecher Karsten, dem wir unsere Insel Schluderrock
 <@pagebreak/>
 verdanken und der auch unser Heim in Brand steckte
 und ausplünderte, die geraubten Kostbarkeiten, zumeist Andenken
@@ -33,7 +30,7 @@ verborgen gehabt hätte, das scheinbar auf Schluderrock strandete.
 Diese Annahme ist irrig. Wir hatten allen Grund,
 nach den Kleinodien zu suchen. Wir haben sie nicht gefunden.
 Als Karsten in München durch eigene Hand starb
-(all dies habe im ja in früheren Bänden eingehend geschildert),
+(all dies habe ich ja in früheren Bänden eingehend geschildert),
 nahm er das Geheimnis des Verstecks der Millionenwerte
 mit ins Grab.
 
@@ -46,8 +43,8 @@ es uns in der kleinen Villa, die mein Freund Harst als
 Ersatz für unser Eigenheim in Dahlem gemietet hatte,
 in der großen Bibliothek nach Kräften gemütlich gemacht.
 
-Dahlem ist ein Berliner Vorort. Sein Satanischer
-Garten ist ebenso berühmt wie sein Millionär viertel. Dahlem
+Dahlem ist ein Berliner Vorort. Sein Botanischer
+Garten ist ebenso berühmt wie sein Millionärviertel. Dahlem
 stößt nach Osten zu an Schmargendorf, berührt nach Westen
 hin die Villenkolonie Grunewald und ist fraglos der feudalste
 Wohnort der Umgebung Berlins.
@@ -60,57 +57,57 @@ Harst, unsere alte Mathilde und wir beide. Der Portier,
 der zugleich die Zentralheizung besorgte, der Chauffeur,
 der Diener, die Köchin — alles waren altgediente, bewährte
 Leute, die seit Jahren im Dienste der alten Exzellenz gestanden
-zarten, deren Erben nun das Raus vorläufig an »Fremde
+hatten, deren Erben nun das Haus vorläufig an Fremde
 abgeben wollten. Exzellenz um war früher Minister
 eines Kleinstaates gewesen und hatte sich nachher völlig
-geschichtlichen Studien gewidmet. Die Eid:letztes war ein
+geschichtlichen Studien gewidmet. Die Bibliothek war ein
 langer dreifenstriger Raum mit einem künstlichen Kamin,
 <@pagebreak/>
-her Riesenschränken, Waffen, Geweihen, achten Teppichen
+sechs Riesenschränken, Waffen, Geweihen, echten Teppichen
 und behaglichen Ledermöbeln. Sie erinnerte ein wenig an
 englischen Geschmack, besser an schottischen, und auf dem
-Schlosse unseres Freunde Lord Vordem hatten wir in
-einer sehr ähnlichen Bibliothek so manche anreJz2eade Stunde
+Schlosse unseres Freunde Lord Warbour hatten wir in
+einer sehr ähnlichen Bibliothek so manche anregende Stunde
 verlebt.
 
-2/ie Parkstraße in Dahlem verdient diesen Namen mit
-Geht. Vor ihr zieht sich ein breiter Streifen unberührten
+Die Parkstraße in Dahlem verdient diesen Namen mit
+Recht. Vor ihr zieht sich ein breiter Streifen unberührten
 Kiefernwaldes hin, und da die Gärten der Villen sämtlich
-fest groß sind, atmet man hier nur reine gesunde Luft.
+recht groß sind, atmet man hier nur reine gesunde Luft.
 
-In dieser Bibliothek hatten wir auch; Weihnacht Briefe!.
-Der Christbaum stand Rock« zwischen den beiden Fakir
-Fenstern auf einem Tischchen, und im beginne nur, Mr
-Ob Grad-Geschichten damit, daß ich: Harald dem L’s
-Vorhalle, wie er gerade hin Baumleuchter mit neuen Kerze?;
+In dieser Bibliothek hatten wir auch Weihnacht gefeiert.
+Der Christbaum stand noch zwischen den beiden rechten
+Fenstern auf einem Tischchen, und ich beginne nun die
+Old-Crack-Geschichten damit, daß ich Harald dem Leser
+vorführe, wie er gerade die Baumleuchter mit neuen Kerzen
 versah und diese dann anzündete. Ich saß am Kamin,
 hinter dessen Glastür ein paar elektrische Birnen leuchteten
 und ein Holzfeuer vortäuschen sollten. — Harst war heute
 den Tag über auffallend schweigend gewesen, und ich hatte
-das unbestimmte Gefühl, daß irgend etwas sie vorbereitete.
-Es war ja gerade damals in Dahlem eine Dann spurlos
-verschwunden, und wir hatten den in der Tat ruht seltsamen
+das unbestimmte Gefühl, daß irgend etwas sich vorbereitete.
+Es war ja gerade damals in Dahlem eine Dame spurlos
+verschwunden, und wir hatten den in der Tat recht seltsamen
 Fall eingehend diskutiert. Möglich, daß Harst sich
-auch heute vom in Gedanken damit beschäftigte, sich die!-
-leicht auch mit der Absicht trug, dem betreffenden Ehemann
+auch heute noch in Gedanken damit beschäftigte, sich vielleicht
+auch mit der Absicht trug, dem betreffenden Ehemann
 seine Dienste anzubieten.
 
-Ich beobachtete ihn still und rauchte meine grünbraune.
-Sumatra und nippte zuweilen an meinem Glase Burgunde: «
-Punsch. Harald zündete merkwürdigerweise, wie ich nun sehr«
-stellte, nur acht Lichte an und gerade die, die sich vor
-dem Fenster am weitesten nachts befanden. Dieses Fenster
-hatte schwere Vorhänge, die geschlossen waren. Er ging geh!
+Ich beobachtete ihn still und rauchte meine grünbraune
+Sumatra und nippte zuweilen an meinem Glase Burgunderpunsch.
+Harald zündete merkwürdigerweise, wie ich nun feststellte,
+nur acht Lichte an und gerade die, die sich vor
+dem Fenster am weitesten rechts befanden. Dieses Fenster
+hatte schwere Vorhänge, die geschlossen waren. Er ging jetzt
 zum Lichtschalter. Ein Knacken, und die Bibliothek lag
-im Sommerheim der acht Wachskerzen da. Dann zog er
+im Dämmerschein der acht Wachskerzen da. Dann zog er
 <@pagebreak/>
 die Vorhänge des rechten Fensters auf und sagte, indem er
 mir zuwinkte:
 
-»Bitte, krieche hier zu mir hin …
+»Bitte, krieche hier zu mir hin …«
 
-Er hatte sich an die Wand zwischen zwei Vorfände
-gedrückt. Als Verbindung hing zwischen diesen Schranken
+Er hatte sich an die Wand zwischen zwei Schränke
+gedrückt. Als Verbindung hing zwischen diesen Schränken
 an einer Messingstange ein grünseidener Vorhang, der ein
 Skelett verbarg.
 
@@ -118,18 +115,18 @@ Ich bin an Überraschungen aller Art im Verkehr mit
 Harst gewöhnt. Für sogenannte Scherze ist er nicht zu haben.
 Seine eigentümliche Aufforderung mußte also dringend begründet
 sein. Ich sollte kriechen, damit man mich vom
-Fenster aus nicht sehen konnte. Der Sessel, den riß
-inne hatte, stand mit der holten Rücklehne nach dem Fenster
+Fenster aus nicht sehen konnte. Der Sessel, den ich
+inne hatte, stand mit der hohen Rücklehne nach dem Fenster
 hin. Ich glitt nach vorn auf die Knie, legte mich lang
-und hm vorwärts. Dann richtete t4) mich auf und drückte
+und kroch vorwärts. Dann richtete ich mich auf und drückte
 mich neben das Skelett in das Versteck. Der tadellos
 präparierte Knochenmann stand zwischen uns, und der
-grüne Vorhang folgte für die nötige Dunkelheit.
+grüne Vorhang sorgte für die nötige Dunkelheit.
 
-Harald flüsterte »Die Riegel der Doppelfenster hatte
+Harald flüsterte: »Die Riegel der Doppelfenster hatte
 ich schon vorhin geöffnet.« Das war alles.
 
-Ich fragte ebenso leise »Du erwartest genannten, für
+Ich fragte ebenso leise: »Du erwartest jemanden, für
 den die acht Kerzen ein Signal sind?«
 
 »Ja.«
@@ -138,12 +135,12 @@ den die acht Kerzen ein Signal sind?«
 
 »Das weiß ich nicht.«
 
-Diese Antwort hatte mir die Luft zu weiteren Fragen
+Diese Antwort hatte mir die Lust zu weiteren Fragen
 genommen. Ich wollte mich nicht gern blamieren. Ich überlegte
 mir die Sache. Wenn Harald den nicht kannte, der
 nun durch das entriegelte Fenster erscheinen würde, mußte
 er einen anonymen Brief erhalten haben, in dem ein
-Fremder gebeten hatte, die acht Lichte als Gehören dafür
+Fremder gebeten hatte, die acht Lichte als Zeichen dafür
 anzuzünden, daß er uns heimlich besuchen dürfe. — So
 dachte ich. Nachdem ich diese Schlußfolgerungen nachgeprüft
 hatte, raunte ich sie Harald in der felsenfesten Überzeugung
@@ -152,9 +149,9 @@ zu, das Richtige getroffen zu haben. Wie sollte es
 auch wohl anders sein?!
 
 Er erwiderte kurz: »Bedauere, das stimmt in keinem
-Punkte.« «
+Punkte.«
 
-Zu weiteren Versuchen. mein Hirn übermäßig arbeiten
+Zu weiteren Versuchen, mein Hirn übermäßig arbeiten
 zu lassen, fand ich keine Zeit mehr
 
 Das Fenster quietschte leise, und die eindringende eiskalte
@@ -176,7 +173,7 @@ in einen Sessel gesunken und stierte uns zitternd an.
 Ich schaltete die Deckenbeleuchtung ein.
 
 »Bitte, — wer sind Sie?« fragte Harald und stand
-Bandit vor der verstörten Fremden.«
+dicht vor der verstörten Fremden.«
 
 Sie entgegnete nichts
 
@@ -186,53 +183,53 @@ Weibertränen sind die Waffe all derer, die Zeit gewinnen
 wollen, sind ein Schachzug
 
 Harst, sonst so sehr Gentleman, griff zu und hob mit
-einem Ruck Schleier und s)ütdzen von dem blonden Bubikopf.
+einem Ruck Schleier und Hütchen von dem blonden Bubikopf.
 
-Aus einem leichenblassen Gesicht!starrten uns dunkle
+Aus einem leichenblassen Gesicht starrten uns dunkle
 verängstigte Augen an.
 
 Frau oder Mädchen: Sie war jung und hübsch, aber
-ein Zug um den Mund gab dem Gesamteindru eine besondere
+ein Zug um den Mund gab dem Gesamteindruck eine besondere
 Note. Diese Blonde mußte schon viel Trauriges
 erlebt haben.
 
 Harald wurde noch unhöflicher. Ein zweiter Griff, und
-er hielt das Handläschdzjan der Blonden in den Fingern,
+er hielt das Handtäschchen der Blonden in den Fingern,
 <@pagebreak/>
 öffnete es und nahm eine Liliputrepetierpistole heraus,
 System Bulldogg, ließ den Patronenrahmen in die Linke
-gleiten und besichtigte die Wasser. Dann schob er sie in
+gleiten und besichtigte die Waffe. Dann schob er sie in
 die Tasche seiner Schnürjacke, rollte einen Sessel heran und
-setzte sich. Acta lehnte unweit an der Kaminecke. Ich sah
+setzte sich. Ich lehnte unweit an der Kaminecke. Ich sah
 das reizende Profil der Blonden, sah ihre Tränen und
 ihre vollkommene Fassungslosigkeit, und sie hätte mir leid
 getan, wenn sie ohne die Liliput gekommen wäre, aber
 die war geladen und entsichert gewesen, und mit einer
-alten Waffe pflegt man gewöhnlich Auges im Zählte
-führen. Niemand trägt eile entsicherte Repetierpistole
+solchen Waffe pflegt man gewöhnlich Arges im Schilde
+zu führen. Niemand trägt eine *entsicherte* Repetierpistole
 mit sich herum, der nicht davon schnellstens Gebrauch
 machen will.
 
 Harald durchsuchte das Krokodillederhandtäschchen weiter
 und legte auf den Rauchtisch folgendes: Ein Batisttüchlein
-ist Handgeklöppelten Spitzen, ein Puderbüchschen, einen
-xippenrstift, ein Päckchen amerikanische Banknoten und eine
+mit handgeklöppelten Spitzen, ein Puderbüchschen, einen
+Lippenstift, ein Päckchen amerikanische Banknoten und eine
 Nagelfeile. Als er das Futter befühlte, zog er zwischen
-Futter und Leder noch einen Paß hervor und ein Stuck
-Wir?Freude, das in Öl gekocht und mit einer Zeichnung
-versehen war, Die Alaska-Indianer pflegen sich auf diese
+Futter und Leder noch einen Paß hervor und ein Stück
+Birkenrinde, das in Öl gekocht und mit einer Zeichnung
+versehen war. Die Alaska-Indianer pflegen sich auf diese
 Weise eine Art unverwüstliches Pergamentpapier herzustellen,
 
-Er los den Paß:
+Er las den Paß:
 
 »Ellen Barkam, 23 Jahre, Amerikanerin, geboren in
-Fort Kastanien am 5. Februar 1905 …« — und sagte
+Fort Sassawan am 5. Februar 1905 …« — und sagte
 dann:
 
 »Was wollen Sie hier bei uns, Miß Barkam?«
 
 Die Blonde weinte nicht mehr. Ihr Gesicht hatte sich
-tief gerötet, ihre Augen flammten Harald vernichtend an,
+tief gerötet, ihre Augen flammten Harald vernichtend an.
 Es sprach aus ihren Augen ein so wilder Haß, daß ich
 unwillkürlich näherkam und mit wachsender Spannung der
 Weiterentwicklung der Dinge harrte.
@@ -241,18 +238,18 @@ Weiterentwicklung der Dinge harrte.
 Mein Freund legte Paß und Rinde zu dem Übrigen
 und meinte:
 
-»Sie wollten uns also Geselligem, Miß Barkam. —
+»Sie wollten uns also beseitigen, Miß Barkam. —
 Schraut, bewache sie.«
 
 Er stand auf und gab mir die Liliputpistole. »Ich werde
-die Türen abschließen Nimm keinerlei Rücksicht, falls Zeit
+die Türen abschließen. Nimm keinerlei Rücksicht, falls Miß
 Barkam Dummheiten macht. Ich hole den Zeugen.«
 
 <h2>2. Kapitel.</h2>
 
 <h3>Ich war mit der Blonden allein.</h3>
 
-Sie musterte mich?) mit unaussprechlicher Geringschätzung
+Sie musterte mich mit unaussprechlicher Geringschätzung
 und sagte nach einer Weile:
 
 »Also Sie sind Max Schraut!«
@@ -260,169 +257,168 @@ und sagte nach einer Weile:
 »Allerdings …«
 
 Sie ließ die Hände da zur Seite gleiten. Ich ahnte,
-was kommen würde, und meinte warnend
+was kommen würde, und meinte warnend:
 
-»Versuchen Sie nicht, mir an die Kehle zu stiegen.
+»Versuchen Sie nicht, mir an die Kehle zu fliegen.
 Ich schlage ziemlich derb zu, falls nötig.«
 
 Sie lachte schrill.
 
 »Ihr seid noch weit ärgere Banditen, als ich glaubte!
-
-Oh — — wie ich ein, hasse — — wie!!« Sie wurde
+Oh — — wie ich euch hasse — — wie!!« Sie wurde
 ganz bleich, und ihre Zähne klapperten vor ungeheurer
 Erregung.
 
 Ich hielt ihr die Pistole entgegen und beschränkte mich
 auf ein Achselzucken.
 
-Sie nahm sich zusammen und rief wegwerfend: »Feigling
-!! Ihr entgeht uns doch nicht!«
+Sie nahm sich zusammen und rief wegwerfend: »Feigling!!
+Ihr entgeht uns doch nicht!«
 
-Ad sie etwa, geistesgestört warf!
+Ob sie etwa geistesgestört war?!
 
 <@pagebreak/>
 Ich sagte nachsichtig: »Wenn Sie je von uns gehört
 oder gelesen haben, Miß Barkam, werden Sie wissen, daß
-der Ruf meines Freundes unantajtbar ist.«
+der Ruf meines Freundes unantastbar ist.«
 
-»Ein Heuchler ist er, ein Dieb unten der Maske des
-eleganten Abenteurg’s!« fuhr Sir mich an. »Ein Teufel
-on Schlauheit dazu!! Alles war so sein eingefädelt —
-alles!! Und setzte!«
+»Ein Heuchler ist er, ein Dieb unter der Maske des
+eleganten Abenteurers!« fuhr Sie mich an. »Ein Teufel
+an Schlauheit dazu!! Alles war so fein eingefädelt —
+alles!! Und jetzt?!«
 
 Sie biß die Zähne so fest in die Unterlippe, daß
-Tropfen Blut ihr über das Kinn rann.
+ein Tropfen Blut ihr über das Kinn rann.
 
-34h atmete auf. Harald kam zurück und schob vor sich
-außer den Weihnachtsgast unseres Fortgang, einen kleinen
-Kerl mit braunem Gesicht’ —
+Ich atmete auf. Harald kam zurück und schob vor sich
+her den Weihnachtsgast unseres Portiers, einen kleinen
+Kerl mit braunem Gesicht. —
 
-34h muß hier folgendes einfügen. Unser Portier hatte
-»in Weihnachtsabend Besuch erhalten, ahnen Amerikaner
-Kreise Steffenson, der ihm Grüßa und Geld seines in
-Neuyork armseligen, vor vielen Jahren nach dort ausgzwwonderien
-Bruders überbracht hatte. Die Wetterlage lag
-182D& der Diele und ihr Fenster neben dem raten Fenster
-der Bidvoliothek. — Der Leser wird nun alles leichter verstehen.
+Ich muß hier folgendes einfügen. Unser Portier hatte
+am Weihnachtsabend Besuch erhalten, einen Amerikaner
+George Steffenson, der ihm Grüße und Geld seines in
+Neuyork ansässigen, vor vielen Jahren nach dort ausgewanderten
+Bruders überbracht hatte. Die Portierloge lag
+neben der Diele und ihr Fenster neben dem rechten Fenster
+der Bibliothek. — Der Leser wird nun alles leichter verstehen.
 
-wenig? Steffenson waren die Hände auf dem Rücken
+George Steffenson waren die Hände auf dem Rücken
 gefesselt und sein Gesicht war jetzt nicht braun, sondern
-abholt,
+aschfahl,
 
 Harald drückte ihn auf einen Polstersessel und sagte zu
-Ellect6 Barkam, die den Amerikaner entgeistert betrachtete:
+Ellen Barkam, die den Amerikaner entgeistert betrachtete:
 
 »Der Portier ist auch jetzt wie gestern abend total betrunken
-— wahrseinlich hat er auch ein leichtes Des
-iaudbungsmittel erhalten. Gestern hatte dann Steffenson den
+— wahrscheinlich hat er auch ein leichtes Betäubungsmittel
+erhalten. Gestern hatte dann Steffenson den
 Christbaum des Portiers angezündet, auch acht Lichte. Dann
-Eintreten Sie durch das Fenster herein, Miß Barkam
-— wie heute hier, nur daß Sie sich) heute irrten, — »unser
-Baum brannte hier, und Sie qglatuwoten, es wäre der
+kletterten Sie durch das Fenster herein, Miß Barkam
+— wie heute hier, nur daß Sie sich heute irrten, — unser
+Baum brannte hier, und Sie glaubten, es wäre der
 andere. Sie hätten die Fenster sich besser einprägen sollen,«
 
 <@pagebreak/>
-A’jo!9 hing das alles zusammen! Nie im Leben Barg
+Also so hing das alles zusammen! Nie im Leben wäre
 ich von selbst darauf gekommen!
 
 Harst wandte sich an George.
 
 »Mr. Steffenson, Sie haben die Geschichte hier sehr
-sein eingefädelt. Sie hatten in Erfahrung gebracht, daß der
-Portier drüben einen Bruder hat, und die sansfhundert
+fein eingefädelt. Sie hatten in Erfahrung gebracht, daß der
+Portier drüben einen Bruder hat, und die fünfhundert
 Dollar und Ihr mangelhaftes Deutsch begünstigten Ihrem
-Man. Trotzdem schöpfte ich gegen Sie Verdacht, weil Sie
-allzu hinterlistige Katzenaugen haben und mir nach Moos
-lichtet auswichen. Deshalb beobachtete ich die Poruiierloge.
-Das Signal mit den acht Kerzen war auf erkenne«:;
-Vor« — heute klappte die Sache daneben. Miß Barkasse
-eignet sich für solche Streiche nicht recht. — Wer ix
+Plan. Trotzdem schöpfte ich gegen Sie Verdacht, weil Sie
+allzu hinterlistige Katzenaugen haben und mir nach Möglichkeit
+auswichen. Deshalb beobachtete ich die Portierloge.
+Das Signal mit den acht Kerzen war gut ersonnen.
+Doch — heute klappte die Sache daneben. Miß Barkam
+eignet sich für solche Streiche nicht recht. — Wer hat
 Sie beide als Mörder hierher geschickt?«
 
-Der Mann, der sich George Steffenson nannte du«
+Der Mann, der sich George Steffenson nannte und
 sicherlich ganz anders hieß, gab sich redliche Mühe, den
 Empörten zu spielen. Was er in seinem Kauderwelsch
 hervorsprudelte, war freilich so zusammenhanglos, daß es
 auf uns wenig Eindruck machte.
 
 Ein Zwischenfall dann. Unser Tannenbaum war bereits
-welk und nadelte stark. Plötzlich inmitten Mr. Steffenson?
-Unsinn lohte ein Zweiglein knisternd hoch, ein ganzer Na
+welk und nadelte stark. Plötzlich inmitten Mr. Steffensons
+Unsinn lohte ein Zweiglein knisternd hoch, ein ganzer Ast
 fing Feuer, und Harald sprang zu und riß sehr geistesgegenwärtig,
-da es kein anderes Mittel zur Besitzung des
+da es kein anderes Mittel zur Erstickung des
 Brandes gab, die Fenstervorhänge herab und warf sie über
 den lohenden Baum. Die Stange der Vorhänge polterte
 hinterdrein und zerschlug eine Scheibe.
 
-Ich war vorsichtig genug, meine auf unsere Gefangenen
-zu achten. Ellen Barkam war halb aus ihrem Sessel hzochgeschnellt
+Ich war vorsichtig genug, mehr auf unsere Gefangenen
+zu achten. Ellen Barkam war halb aus ihrem Sessel hochgeschnellt
 und wollte nach dem Rindenpergament greifen,
 sank jedoch von selbst zurück, und zu meinem maßlosen Erstaunen
-sah ich da an ihrem Kinn eine blutige Furcht,
+sah ich da an ihrem Kinn eine blutige Furche,
 aus der das rote Naß nun überreich auf ihren Sealpelz
 tropfte. Ich begriff nicht, woher diese Verletzung stammte,
 <@pagebreak/>
-und als ich nun pDiißtrauisch den gefesselten Steffenson
-ins Auge faßte, erschrak im noch mehr. Der Mann entsicherte
-nämlich langsam mit seitlich geneigtem Kopf von seinen!
+und als ich nun mißtrauisch den gefesselten Steffenson
+ins Auge faßte, erschrak ich noch mehr. Der Mann rutschte
+nämlich langsam mit seitlich geneigtem Kopf von seinem
 Stuhl. An der linken Schläfe zeigte sich ein blutiger kleiner
-Fleck Wer Kopfschüsse kennt, wußte auch, daß George
-Steffenson erledigt war. Ich sprang zu, fing ihn auf!
-und schleppte ihn auf den Diwan, das Nindenstuc?
+Fleck. Wer Kopfschüsse kennt, wußte auch, daß George
+Steffenson erledigt war. Ich sprang zu, fing ihn auf
+und schleppte ihn auf den Diwan, das Rindenstuck
 hatte ich jedoch blitzschnell in die Tasche gesteckt zu der
 Liliputpistole
 
-Harst hatte das Feuer erstickt. Die würzige Lualmwolken
-schwebten unter der Decke Erst nachher machte sieht
-der Gestank der mitangesengten Boahänge unangenehm bemerkbar.
+Harst hatte das Feuer erstickt. Dicke würzige Qualmwolken
+schwebten unter der Decke. Erst nachher machte sich
+der Gestank der mitangesengten Vorhänge unangenehm bemerkbar.
 
-Steffenson war tot — erschossen durch; das vorhanglose
-Fenster von draußen her, und auch Ellen Vorkamen
-Wunde war eine Ausgebaut Bitte das Näherten nicht
-hochgeschnellt, um nach bei Rindenpergament zu greifen,
+Steffenson war tot — erschossen durch das vorhanglose
+Fenster von draußen her, und auch Ellen Barkams
+Wunde war eine Kugelspur. Wäre das Mädchen nicht
+hochgeschnellt, um nach dem Rindenpergament zu greifen,
 hätten wir zwei Tote gehabt.
 
-Ich telephonierte an die Kriuminalpolizet. Wir waren
-nebenan in das Herrenzimmer gegangen und hatten Kleid
+Ich telephonierte an die Kriminalpolizei. Wir waren
+nebenan in das Herrenzimmer gegangen und hatten Ellen
 mitgenommen und hier die Vorhänge sorgsam zugezogen.
-Der Schutze draußen 7! an’s uns noch immer gefährlich
-werden. Ich verband dann hüpfte Wunde, und sie ließ
-alles mit sich geschehen. Bei jähe Tod Steffensons hatte
-wie Nerven gelähmt. Sie 101 und geschlossenen Augen
-auf dem Diwan und sah) wie eine Sterbende aus.
+Der Schütze draußen konnte uns noch immer gefährlich
+werden. Ich verband dann Ellens Wunde, und sie ließ
+alles mit sich geschehen. Der jähe Tod Steffensons hatte
+ihre Nerven gelähmt. Sie lag mit geschlossenen Augen
+auf dem Diwan und sah wie eine Sterbende aus.
 
 Harald raunte mir zu, er wolle mal im Park nach
 Spuren suchen. Es hatte abends gegen neun Uhr eine halbe
-Stunde geschneit. und der unbekannte Mörder mußte in
-der frischen Extineesdjidt sehr deutlicher Fährten zurückgelassen
-haben. Ich warnte den Treu«, recht vorsichtig zu
-j/n, und in meiner Sorge um i9n schaltete ich das
-Acht im Herrenzimmer aus und trat an eins der Fenster
-und blickte hinaus, sah bei dem selten Schneelicht Harst mit
+Stunde geschneit, und der unbekannte Mörder mußte in
+der frischen Schneeschicht sehr deutliche Fährten zurückgelassen
+haben. Ich warnte den Freund, recht vorsichtig zu
+sein, und in meiner Sorge um ihn schaltete ich das
+Licht im Herrenzimmer aus und trat an eins der Fenster
+und blickte hinaus, sah bei dem hellen Schneelicht Harst mit
 <@pagebreak/>
 seiner Taschenlampe zwischen den Kiefern und ärgerte mich
 über seinen Leichtsinn.
 
-Ich) mochte so kaum zwei Minuten meine Pflicht als
+Ich mochte so kaum zwei Minuten meine Pflicht als
 Wächter Ellens versäumt haben. Als ich nun das Licht
 wieder einschaltete, erkannte ich, daß die geriebene Person
-mich genarrt hatte. Sie war verschwunden. Ihr rannte in
+mich genarrt hatte. Sie war verschwunden. Ich rannte in
 den Vorgarten und entdeckte auch ihre Spuren. Sie war
-un die Villa herumgelaufen und hatte den Obstgarten
-durchquert und das Gitter umherklettert. Ich!—t dasselbe,
+um die Villa herumgelaufen und hatte den Obstgarten
+durchquert und das Gitter überklettert. Ich tat dasselbe,
 war nun in der Parallelstraße der Parkstraße und gewahrte
-gerade noch einen kleinen hellgrauen Selbstfahrer, der sich:
+gerade noch einen kleinen hellgrauen Selbstfahrer, der sich
 in rasendem Tempo entfernte. Da jede Verfolgung aussichtslos,
-kehrte im bedrückt in den Vorgarten Zuruf und »Z
-hier auf Harald, der mich; mit den Worten emphit43;:
-»Du hättest argwöhnischer sein sollen. Das Mädel spixüusx
+kehrte ich bedrückt in den Vorgarten zurück und stieß
+hier auf Harald, der mich mit den Worten empfing:
+»Du hättest argwöhnischer sein sollen. Das Mädel spielte
 nur Komödie. Sie hat vielleicht bessere Nerven als wir.«
 
 Eine Viertelstunde später war die Mordkommission da.
-Zum Glück hatten sich; Frau Harst und Mathilde vor
+Zum Glück hatten sich Frau Harst und Mathilde schon
 früh im ersten Stock zu Bett gelegt, und die Dienerschaft
-war bis auf den Portier und den »Chauffeur, der in he«
+war bis auf den Portier und den Chauffeur, der in der
 Garage wohnte, beurlaubt.
 
 Um elf Uhr wurde der Tote weggeschafft. Die Fährten
@@ -430,23 +426,23 @@ im Schnee waren gemessen und photographiert worden und
 deuteten auf einen mittelgroßen Menschen hin, der links
 einen verkrüppelten Fuß hatte und hinkte … Er hatte die
 beiden Schüsse aus einer modernen Luftbüchse von dem
-untersten Ast einer Kiefer abgegeben und mußte ein dorvorzüglicher
-Schüsse sein.
+untersten Ast einer Kiefer abgegeben und mußte ein vorzüglicher
+Schütze sein.
 
 Wir machen der Polizei gegenüber ganz erschöpfende
 Angaben und betonten, daß wir nicht wüßten, wer es
 zurzeit auf uns abgesehen haben könnte. Dies entsprach
 durchaus der Wahrheit.
 
-Bei Steffenson wurden in einem großen ledernen Brut«
-Beutel als einzige wichtige Dinge, abgesehen von einer
+Bei Steffenson wurden in einem großen ledernen Brustbeutel
+als einzige wichtige Dinge, abgesehen von einer
 <@pagebreak/>
 Repetierpistole in seiner Schlüsseltasche und einem Fläschchen
 mit Chloralhydrat (Schlafmittel), zweitausend Dollar in
 Banknoten und ein Paß auf den Namen Joe Smith aus
 Neuyork gefunden.
 
-Nachdem die Polizei sich. entfernt hatte, von der der
+Nachdem die Polizei sich entfernt hatte, von der der
 Portier einem nur kurzen Verhör über Steffenson-Smith
 unterzogen worden war, holten wir uns den völlig vertatterten
 Alten in die Bibliothek und ließen die Reste des
@@ -458,17 +454,17 @@ Bruder stammten, wieder hatte herausgeben müssen.
 »Matschke,« sagte Harst zu ihm und klopfte ihm auf die
 Schulter, »Sie sind hier ja nun fertig und alles ist wieder
 in Ordnung, auch die Vorhänge. Setzen Sie sich … Trinken
-Sie ein Glas Wein mit uns. Und Tier haben Sie einen
-Deck über zweitausendzweihundert Mark als Ersatz für
-das Sündengeld Ihres seinen Gastes. Keinen Dank, Marsche.
+Sie ein Glas Wein mit uns. Und hier haben Sie einen
+Scheck über zweitausendzweihundert Mark als Ersatz für
+das Sündengeld Ihres feinen Gastes. Keinen Dank, Matschke.
 Ich liebe das nicht. Schraut, gib ihm auch eine Zigarre …
 So … — Ich möchte gern herausbekommen, wer dem
 Steffenson mitgeteilt haben kann, daß Sie in Neuyork einen
-Bruder haben, und wer über diesen so genau, Unterricht)tet
+Bruder haben, und wer über diesen so genau unterrichtet
 ist, daß der Betreffende dem Amerikaner so viele Einzelheiten
-über ihn angeben konnte. Es ist ziemlich; ausgeschlossen,
-daß Steffenson Ihren Bruder drüben etwa zu
-fällig kennen lernte. Er hat sicherlich alles Geier erst in
+über ihn angeben konnte. Es ist ziemlich ausgeschlossen,
+daß Steffenson Ihren Bruder drüben etwa zufällig
+kennen lernte. Er hat sicherlich alles hier erst in
 Erfahrung gebracht. Mit wem verkehrten Sie hier? Wer
 kennt Ihre Familienverhältnisse?«
 
@@ -485,13 +481,14 @@ putzsüchtig …«
 
 »Sie hat sich einen neuen Wintermantel mit echtem
 Pelzbesatz, einen neuen Hut, Schuhe, ein Abendkleid und ein
+Handtäschchen gekauft … Wo mag sie heute abend sein?«
 
-Handtäschchen gekauft Wo mag sie heute abend sein?«
-»Oh — nicht weit … Sie geht! am Donnerstag immer
+»Oh — nicht weit … Sie geht am Donnerstag immer
 nach Schmargendorf in den »Wilden Eber« tanzen …«
-»So so … »Wilder Eber« Das sind keine achthundert
-Meter von hier Prosit Marsche …
-Frischen Sie nun in die Falle und … schweigen Sie …
+
+»So so … »Wilder Eber« … Das sind keine achthundert
+Meter von hier … Prosit Matschke …
+Kriechen Sie nun in die Falle und … schweigen Sie …
 Gute Nacht.«
 
 <h2>3. Kapitel.</h2>
@@ -1192,7 +1189,7 @@ und mit festen Bucenkufen und starken Eisenbeschlägen.
 Er winkte mir, und dann hob er von dem
 einen Schlitten, in dem er mich: Rulat gesessen hatte, oben
 <@pagebreak/>
-die Jilzshicht ab und zog ein Taschentüchlein hervor mit
+die Filzschicht ab und zog ein Taschentüchlein hervor mit
 allerfeinsten handgeklöppelten Spitzen, Er hielt es mir unter
 Hie Nase. Ich roch dasselbe Parfüm wie an dem Tüchlein aus
 Ellens HandtäscxMen, und es war auch genau dasselbe
@@ -2253,7 +2250,7 @@ Harst?«
 Flur! verholfen. Er muß längst in Dawson City bei
 einem Vater sein.«
 
-»Mit den Verspannungsdrähken des Eindeckers banden
+»Mit den Verspannungsdrähten des Eindeckers banden
 ir die Baumstämme zusammen. Das Flugzeug wurde
 dann auf das Floß gerollt und befestigt. Der Motor und der
 »Propeller sollten unserem Fahrzeug größere Geschwindigkeit
