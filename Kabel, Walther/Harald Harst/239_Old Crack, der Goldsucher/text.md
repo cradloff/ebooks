@@ -495,73 +495,73 @@ Gute Nacht.«
 
 Nach einigen kleinen Veränderungen unserer leider allzu
 bekannten Gesichter verließen wir die Villa durch den
-Obstgarten über das Gitter und waren fünf Animiert
-drauf im Saal des bekannten Geschosses Der Betrieb war
-mäßig. So kurz nach Neujahr hatten wohl die EderStammgäste
+Obstgarten über das Gitter und waren fünf Minuten
+drauf im Saal des bekannten Eckcafees. Der Betrieb war
+mäßig. So kurz nach Neujahr hatten wohl die Eber-Stammgäste
 allzu leere Börsen. Wir saßen in einer Ecke
-und beobachteten die kleine zierliche Anna Rätsel, die mit
+und beobachteten die kleine zierliche Anna Rätsch, die mit
 einem blonden Kavalier fünf Tische weiter Platz genommen
 hatte. Die beiden tanzten wenig, flüsterten desto eifriger
-miteinander, und es gehörte wirklich nicht viel Menschen
-Kenntnis dazu, festzustellen, daß der Blonde in Ruderern
+miteinander, und es gehörte wirklich nicht viel Menschenkenntnis
+dazu, festzustellen, daß der Blonde in anderen
 Gesellschaftskreisen heimisch und Anna Rätsch ihm lediglich
 Mittel zu unbekanntem Zweck sein konnte. Vielleicht auch
-zu bereits bekanntem … Vielleicht war’s ein Kanaken
+zu bereits bekanntem … Vielleicht war’s ein Komplice
 Steffensons.
 
 <@pagebreak/>
-um halb eins bin; das Päckchen auf. In der Parkstraße
+um halb eins brach das Pärchen auf. In der Parkstraße
 unweit unserer Villa verabschiedete sich der patente
-Heer, der einen kostbaren Sportpelz trug und dessen Anzug
+Herr, der einen kostbaren Sportpelz trug und dessen Anzug
 auch nicht »von der Stange« gekauft war,
 
-Harst und ich trennten uns. Harald eilte voraus, und!
+Harst und ich trennten uns. Harald eilte voraus, und
 gerade unter einer Laterne in der Heydenstraße hatten wir
 den Blonden gestellt und zwischen uns.
 
-»Puten? Abend,« sagte Harald in englischer Sprache.
+»Guten Abend,« sagte Harald in englischer Sprache.
 »Würden Sie uns die Ehre geben und mit uns ein Glas
-Dein trinken? Ich hätte Sie einiges zu fragen.«
+Wein trinken? Ich hätte Sie einiges zu fragen.«
 
 Dabei hielt er ihm ganz eindeutig die Clementpistole
 unter die Nase und ich legte ihm die Hand schwer auf
-Sie Schultern,
+die Schultern,
 
 Der Gentleman, der offenbar sofort nach dem Abschied
-von Nanu das ihm gewohnte Monokel, mit dem er sich
-im »Wilden Ober« nicht hatte zeigen wollen, eingeklemmdb
-Hacke, betrachtete uns ohne jede Spur von Verlegentbeit
+von Anna das ihm gewohnte Monokel, mit dem er sich
+im »Wilden Eber« nicht hatte zeigen wollen, eingeklemmt
+hatte, betrachtete uns ohne jede Spur von Verlegenheit
 oder schlechtem Gewissen und meinte nur: »Sind die Herren
 von der Polizei?«
 
-Rein, aber an dem Tode Steffensons stark interessiert
--… Witz Hielt«
+»Nein, aber an dem Tode Steffensons stark interessiert
+— wie Sie!!«
 
-»Er ist tote!« rief der Fremde weniger bestürzt als
-Sitz. an!, Und dieses Staunen war ehrlich.
+»Er ist tot?!« rief der Fremde weniger bestürzt als
+erstaunt. Und dieses Staunen war ehrlich.
 
 »Kommen Sie mit,« befahl Harald kurz.
 
-Der Blonde, den ich auf etwa dreißig Jahre s!Schmatzte,
-nickte ebenso kurz. »Warum nicht?! Es stimmt nämlich
-aus ich habe einiges Interesse für Steffenson. Immerhin:
+Der Blonde, den ich auf etwa dreißig Jahre schätzte,
+nickte ebenso kurz. »Warum nicht?! Es stimmt nämlich,
+auch ich habe einiges Interesse für Steffenson. Immerhin:
 Wer sind Sie, meine Herren?«
 
 Der Menschen war schlau und energisch. Seine Ruhe
-sollte unser Mißtrauen einlullen. Aber er verrecdynete sich.
+sollte unser Mißtrauen einlullen. Aber er verrechnete sich.
 Der Fausthieb, den er urplötzlich von unten herauf gegen
-Gewalt versuchte, um ihm die Pistole aus der Hand zu
-Dalagen, war verfehlt. Harst hatte wohl Ähnliches erwartet,
-fing den Hieb mit der Linken ab und schleuderte den Kanon
+Harald versuchte, um ihm die Pistole aus der Hand zu
+schlagen, war verfehlt. Harst hatte wohl Ähnliches erwartet,
+fing den Hieb mit der Linken ab und schleuderte den Mann
 <@pagebreak/>
-so Prächtig gegen den Laternenpfahl, daß ich Zeit fand,
-ihm die Arme nachts hinten zu reißen. Die Armbänder
+so kräftig gegen den Laternenpfahl, daß ich Zeit fand,
+ihm die Arme nach hinten zu reißen. Die Armbänder
 schnappten zu.
 
-»Freunden,« sagte, Harald, »ich bin nämlich der Dienstherr
-der Anno Rätsch …
+»Freundchen,« sagte Harald, »ich bin nämlich der Dienstherr
+der Anna Rätsch …«
 
-Der Blonde, dem das Monokel in den Schnee gefallen,
+Der Blonde, dem das Monokel in den Schnee gefallen
 war, blinzelte uns überrascht an. »Ist das wahr? Sie sind
 Harst?«
 
@@ -573,72 +573,70 @@ in die Parkstraße einbogen, erklärte er von selbst:
 
 »Ich bin Tom Warger.«
 
-Er sagte das ungefähr so, als ob Umzutun Eiche vorgestellt
+Er sagte das ungefähr so, als ob Amanullah<@refnote 1/> vorgestellt
 hätte: »Ich bin der König von Afghanistan.«
 
 Harald blickte ihn von der Seite an.
 
 »Der Sohn von Samuel Warger aus Dawson City?«
 
-Ja.«
+»Ja.«
 
-»Je
-
-»öm — und dann mengen Sie sich hier in so üblaq
+»Hm — und dann mengen Sie sich hier in so üble
 Geschichten, Mr. Warger, — als Erbe des reichsten Mannes
-von Alaska 7?!«
+von Alaska?!«
 
-»Ich mußte!« nickte Rom Warger. »Ich werde Ihnen
+»Ich mußte!« nickte Tom Warger. »Ich werde Ihnen
 das alles näher erklären, falls Sie mir vorher einiges
 beantworten wollen.«
 
-»Bedingungen stellen wir, nicht Sitz Mr. Warger.«
+»Bedingungen stellen wir, nicht Sie, Mr. Warger.«
 
 Er schloß die Gitterpforte auf, und wir führten den
-Millionär Tom in die Bibliothek und liegen ihn am Kamin
+Millionär Tom in die Bibliothek und ließen ihn am Kamin
 Platz nehmen.
 
 »Hier starb Steffenson,« sagte Harald. »Und von hier
-werden Sie ins Polizeiggfangnis wandern, falls Ihre Angaben
+werden Sie ins Polizeigefängnis wandern, falls Ihre Angaben
 uns nicht genügen. — Schraut, entleere ihm die
 Taschen.«
 
 Der Paß und manches andere machten es zweifelsfrei,
-t.:ß wir Rom Warger vor uns hatten.
+daß wir Tom Warger vor uns hatten.
 
 <@pagebreak/>
-Harald nahm ihm die Handschellen ab und reichtq ihm
+Harald nahm ihm die Handschellen ab und reichte ihm
 das Monokel.
 
-»Glauben Sie nicht, Mr. Warger, daß mir die Mit«
-Melonen Ihres Vaters imponieren und ich Ihnen deshalb
+»Glauben Sie nicht, Mr. Warger, daß mir die Millionen
+Ihres Vaters imponieren und ich Ihnen deshalb
 die Armbänder abnehme. Ihr Vater wird in Alaska der
 Waldschlächter genannt. Er hat die ganzen Forsten am
 Yukon abholzen lassen und dadurch ungeheuren Schaden angerichtet.
 Wenn Sie ihm gleichen, traue ich Ihnen das
 Schlimmste zu, aber Ihr freier Blick und manches andere
-Tulpen läßt mich vermuten, daß Sie von anderem
+an Ihnen läßt mich vermuten, daß Sie von anderem
 Schlage sind. — Seit wann kennen Sie die Zofe Anna
-Rätsel?«
+Rätsch?«
 
 »Seit heute.«
 
-»and erst vom »Wilden Eber« her?«
+»Und erst vom »Wilden Eber« her?«
 
-»24. Ich habe sie dort verschiedoantlich mit diesem Lump
-von Gtesifenson gesehen. Ich wollte erfahren, aus Steffenjun
-Detektivin ihr gewollt hatte. Das Mädchen gab für tausend
+»Ja. Ich habe sie dort verschiedentlich mit diesem Lump
+von Steffenson gesehen. Ich wollte erfahren, was Steffenson
+von ihr gewollt hatte. Das Mädchen gab für tausend
 Mark alles Preis. Steffenson hat sie über den Portier
 Ihrer Villa ausgehorcht, Herr Harst.«
 
-Harald befahl mir, Anno herbeizurufen.
+Harald befahl mir, Anna herbeizurufen.
 
-— »Setzen Sie sich dort hinter den Vorhang neben das
-Gesetz, Mr. Warger,« ordnete er weiter an, als ich
-schon zur Flur schritt.
+»Setzen Sie sich dort hinter den Vorhang neben das
+Skelett, Mr. Warger,« ordnete er weiter an, als ich
+schon zur Tür schritt.
 
 Ich ging nach oben, klopfte an Annas Stubentür und
-7anv sie noch völlig angekleidet vor. Sie wurde sehr rot
+fand sie noch völlig angekleidet vor. Sie wurde sehr rot
 und verlegen, als ich ihr sagte, sie möge mit in die Bibliothek
 kommen, wir hätten sie etwas zu fragen.
 
@@ -646,96 +644,95 @@ Nun — sie versuchte dann gar nicht erst zu leugnen.
 Sie weinte und gestand sofort ein, sie habe Steffenson
 am fünfzehnten Dezember auf der Straße kennengelernt,
 er habe ihr verschiedentlich Geld geschenkt und sie sei sich
-nicht bewußt gewesen, etwas Umstandes zu tun.
+nicht bewußt gewesen, etwas Unrechtes zu tun.
 
-»and als Steffenson dann hier bei Matschke als Gast
+»Und als Steffenson dann hier bei Matschke als Gast
 erschien?!« sagte Harald streng,
 
 <@pagebreak/>
-»Mein lieber Himmel, — er brachte Marsche doch
+»Mein lieber Himmel, — er brachte Matschke doch
 Geld mit,« meinte sie arglos,
 
-»Genie haben Sie dann einen anderen Amerikaner
-kennengelernt, Anna, Was wollte der von Ihnen?«
+»Heute haben Sie dann einen anderen Amerikaner
+kennengelernt, Anna. Was wollte der von Ihnen?«
 
 »Er fragte nur nach Steffenson … Und … und
-da … da begann ich doch Angst zu bekommst:, aber erst
+da … da begann ich doch Angst zu bekommen, aber erst
 zu Hause, als ich mir alles nochmals so richtig überlegte …«
 
 »Gut, gehen Sie schlafen. Ich glaube Ihnen. Seien
 Sie jedoch nie wieder so vertrauensselig. Steffenson hat
-Sie ausgehorcht. Erst dann, als er genug über Kutters
+Sie ausgehorcht. Erst dann, als er genug über Matschke
 wußte, trat er hier als Freund von Matschkes Bruder auf.«
 
-Anna machte ein ziemlich törichtes Gesicht, »grübelte hat
+Anna machte ein ziemlich törichtes Gesicht, knickste und
 verschwand.
 
-Tom Warger kam aus seinem Versteck hervor. Gar: »ck
+Tom Warger kam aus seinem Versteck hervor. Harald
 holte eine Flasche Burgunder und drei Gläser, und wir
-machten es uns gemütlich Warger hatte sein Manches
-eingeklemmt und meinte: »Sie sind sehr liebenswürdig, …
-Leider muß ich Sie enttäuschen, denn im werde Ihnen
+machten es uns gemütlich. Warger hatte sein Monokel
+eingeklemmt und meinte: »Sie sind sehr liebenswürdig …
+Leider muß ich Sie enttäuschen, denn ich werde Ihnen
 niemals erklären, weshalb ich nach Europa gekommen bin.«
 
-»Weil Sie Ihren Vater!Schoner möchten …« nickte
+»Weil Sie Ihren Vater schonen möchten …« nickte
 Harst.
 
 »Nein!«
 
-»Nein?! Dann … lieben Sie Ellen Barkam!« elf
-klärte Harald sehr laut.
+»Nein?! Dann … lieben Sie Ellen Barkam!« erklärte
+Harald sehr laut.
 
 Das wirkte.
 
 Tom fuhr hoch. Kerzengerade stand er da und stierte
 Harst aus wilden Augen an.
 
-»Wie … wie kommen Sie auf Ellen Barkam?k« rief
+»Wie … wie kommen Sie auf Ellen Barkam?!« rief
 er in einer Erregung, die gegen seine bisherige Ruhe
 eindrucksvoll abstach.
 
 Harald blickte ihn prüfend an. Dann reichte er ihm die
-
 Hand. »Mr. Warger, betrachten Sie uns fernerhin als
-Ihre Verbündeten. ich ahne hier einen dunklen!Schweren
-Liebesroman. — Setzten Sie sich. Wer ist Ellen?k«
+Ihre Verbündeten. ich ahne hier einen dunklen schweren
+Liebesroman. — Setzen Sie sich. Wer ist Ellen?«
 
 <@pagebreak/>
 »Die Pflegetochter eines Mannes, der der Todfeind
 meines Vaters ist. In Alaska nennt man ihn allgemein
-div Graf, den Goldsucher. Wer er ist, weiß so roch! niemand
+Old Crack, den Goldsucher. Wer er ist, weiß so recht niemand.
 Er haust da auf seiner Renntierfarm auf einem
 entlegenen Hochplateau der südlichen Tanana-Berge inmitten
-einer Horde ihm treu ergebener Ehrliches. Ihm gehört ein
-Gebiet, »das so groß ist wie vielleicdzt ein Adel Deutschlands,
+einer Horde ihm treu ergebener Eskimos. Ihm gehört ein
+Gebiet, das so groß ist wie vielleicht ein Achtel Deutschlands,
 und — — alles Übrige über ihn fällt unter die
-Bezeichnung »soll« Er soll neunzig Jahre alt sein, dazu
+Bezeichnung »soll«. Er soll neunzig Jahre alt sein, dazu
 unermeßlich reich, soll verschiedene Mordanschläge gegen
 meinen Vater veranlaßt haben, weil dieser ihm einen Teil
 jener Riesenfarm streitig machte … soll … soll! Ich
-habe ihn nie gesehen. Er kommt nie nach Dawson Luft,
+habe ihn nie gesehen. Er kommt nie nach Dawson City,
 er …«
 
 »und Ellen Barkam?«
 
-»Oh, er hat sie als kleines Feind halb erfroren neben
+»Oh, er hat sie als kleines Kind halb erfroren neben
 den Leichen ihrer Eltern aufgefunden, er ließ sie in San
-Yranziwsfo erziehen und dort lernte 14 Ellen kennen. Aber
-sie erfuhr kaum. wer ich war, als sie mich fernerhin
-mied Ich hatte mich ihr unter anderem Namen genähert,
-ich liebte je auf den ersten Blick, 14 bin sehr Unglück.«.»echt
-darüber daß sie mich haßt … meintest Vaters wegen,
-Ich habe sie dann drei Jahre nicht gesehen, aber nie vergessen
+Franzisko erziehen und dort lernte ich Ellen kennen. Aber
+sie erfuhr kaum, wer ich war, als sie mich fernerhin
+mied. Ich hatte mich ihr unter anderem Namen genähert,
+ich liebte sie auf den ersten Blick, ich bin sehr unglücklich
+darüber, daß sie … mich haßt … meines Vaters wegen.
+Ich habe sie dann drei Jahre nicht gesehen, aber nie vergessen.
 Anfang Dezember vergangenen Jahres schickte mich
-mein Vater gejschhäfttich. nach? Neuyork. Zufällig traf ich
-Stirn dort … und folgte ihr heimlich hierher nach Herrn.
+mein Vater geschäftlich nach Neuyork. Zufällig traf ich
+Ellen dort … und folgte ihr heimlich hierher nach Berlin.
 Wir reisten auf demselben Dampfer, ich nahm eine Kabine
-zweiter Kanäle, sie benutzte eine Luxuskabine. Aber dieser
-chleffenson oder besser Joe Smith war andqgquernd wie ein
-riesiger Köter in ihrer Nähe, und so verschob ich den die
-geplante Annäherung für später Toter in Berlin stiegen
-?ie beiden in einer Pension am Kurfürstendamm ab, und
-Joe Smith begann sich an Anno Rätsch beranzumagxtyen,
+zweiter Kajüte, sie benutzte eine Luxuskabine. Aber dieser
+Steffenson oder besser Joe Smith war andauernd wie ein
+bissiger Köter in ihrer Nähe, und so verschob ich denn die
+geplante Annäherung für später. Hier in Berlin stiegen
+die beiden in einer Pension am Kurfürstendamm ab, und
+Joe Smith begann sich an Anna Rätsch heranzumachen,
 <@pagebreak/>
 während Ellen kaum das Pensionat verließ. Ich habe sie
 seit Tagen nicht gesehen.«
@@ -750,154 +747,153 @@ Harald berichtete.
 
 »Das … ist unmöglich!!« rief er. »Ellen eine Mörderin?!
 Niemals!! Überhaupt, Herr Harst, — — begreifen
-denn Sie diese Widersprüche?! Wer hat Joe Smith elf
-schossen, wer wollte auch Ellen erschießen?! Ich werde verrückt
+denn Sie diese Widersprüche?! Wer hat Joe Smith erschossen,
+wer wollte auch Ellen erschießen?! Ich werde verrückt
 über alledem!!«
 
-Liebende, finde im, werden sehr leicht »Gerücht, fuhr
-Geleit. Und leider geht das immer mit einer starken Zittern
-bei! Hand in Hand, Hier sprachen ja die Tatsachen nur
+Liebende, finde ich, werden sehr leicht verrückt, sehr
+leicht. Und leider geht das immer mit einer starken Blindheit
+Hand in Hand. Hier sprachen ja die Tatsachen nur
 zu deutlich: In Ellens Augen hatte ein solcher Haß gegen
-uns zerfasert, daß dies im Herein mit der entsicherten!
+uns geflackert, daß dies im Verein mit der entsicherten
 Liliputpistole vollauf genügte, ganz abgesehen von ihrer
-schlauen Flut!
+schlauen Flucht!
 
-So allmählich schien aufs der arme Tom dies einzusehen.
+So allmählich schien auch der arme Tom dies einzusehen.
 Er saß wie ein Häuflein Unglück da und raffte
-sich erst auf, als Harald vorschlug: »Jahren wir und
+sich erst auf, als Harald vorschlug: »Fahren wir nach
 dem Pensionat.«
 
-Wir fuhren, Der Pförtner des feudalen Fremdenheims
+Wir fuhren. Der Pförtner des feudalen Fremdenheims
 erklärte uns, Miß Barkam sei vor drei Stunden abgereist.
 Sie habe nur einen kleinen Koffer mitgenommen,
 
-Harst befahl darauf dem Chauffeur: »Flughafen Zeug
-Tempelhof!«
+Harst befahl darauf dem Chauffeur: »Flughafen Tempelhof!«
 
 Es war halb zwei morgens, als wir hier feststellten,
-daß Ellen mit einem eigens gemieteten Flugzeug nach Haus.
-Burg unterwegs sei.
+daß Ellen mit einem eigens gemieteten Flugzeug nach Hamburg
+unterwegs sei.
 
-Harald sagte da: »Wir müssen die Polizei verächtlich« …
-mächtigen. Es gebt nicht anders,«
+Harald sagte da: »Wir müssen die Polizei benachrichtigen.
+Es geht nicht anders,«
 
 <@pagebreak/>
-Vom Präsidium aus wurde der Horn:;Souper Flugplatz
-angerufen. Der Hoppeldecker Stätte dort bereits eingetroffen
+Vom Präsidium aus wurde der Hamburger Flugplatz
+angerufen. Der Doppeldecker hätte dort bereits eingetroffen
 sein müssen. Aber dies war nicht der Fall. Wir warteten
 noch zwei Stunden. Immer wieder wurde in Hamburg
 angefragt. Dann bat Harst, doch einmal in Bremen nachzufragen.
 — Ja, dort war die Maschine gelandet.
 
-Nun begann der Fernsprecher von intensiver zu arbeiten
+Nun begann der Fernsprecher von intensiver zu arbeiten.
 Die Bremer Polizei wurde verständigt.
 
 Ich möchte gleich bemerken: Nach zwei Tagen war noch
 immer keine Spur von Ellen Barkam zu finden. Inzwischen
-hatte Rom Warger bei uns in der Parks trage Quartier
+hatte Tom Warger bei uns in der Parkstraße Quartier
 bezogen. Der arme Bursche war kein angenehmer Gast,
-denn er quälte uns andauernd, ihn na Dawson zu begleiten
+denn er quälte uns andauernd, ihn nach Dawson zu begleiten
 und aufzuklären, weshalb Ellen Eigentlich in so
-verdächtiger Wette bei uns eingedrungen sei,
+verdächtiger Weise bei uns eingedrungen sei,
 
-Eine Reise nach; Dawson ist nun sein Katzensprung.
+Eine Reise nach Dawson ist nun kein Katzensprung.
 Harald hoffte noch immer, man würde Ellen erwischen,
 denn gerade durch ihre Wunde am Kinn mußte sie ja
 überall auffallen. Man erwischte sie nicht. Sie war in
 Bremen geradezu unheimlich schnell verschwunden. Unterwegs
 nach Hamburg hatte sie den Flugzeugführer gebeten,
-sie Dom lieber nach Bremen zu bringen und hatte
+sie doch lieber nach Bremen zu bringen und hatte
 dafür weitere fünfhundert Mark bezahlt. Sie hatte einen
-sehr dichten Schleier getragen und sich) für eine verlyeiratete
-Frau angegeben. Doch all dies ist ziemlich nebensuchzlich.
-Wichtig allein ist Wir standen in der Tat vor einem vollkommenen
-Rätsel! Was halten wir mit Ad Crack oder
+sehr dichten Schleier getragen und sich für eine verheiratete
+Frau ausgegeben. Doch all dies ist ziemlich nebensächlich.
+Wichtig allein ist: Wir standen in der Tat vor einem vollkommenen
+Rätsel! Was hatten wir mit Old Crack oder
 seiner Pflegetochter zu tun?! Nichts, gar nichts! Wir waren
-nie in Alaska gewesen, wir halten die Namen Volk Goa
-und Ellen Barkam nie gehört, Wie also konnte diese
-Ellen h)hier nach Berlin kommen und so merkwürdig sucht
-benehmen, milde auffordere?! Wollte man schon den Gedanken
+nie in Alaska gewesen, wir hatten die Namen Old Crack
+und Ellen Barkam nie gehört. Wie also konnte diese
+Ellen hier nach Berlin kommen und so merkwürdig sich
+benehmen, milde ausgedrückt?! Wollte man schon den Gedanken
 ausschalten, sie habe uns erschießen wollen: Was
-konnte sie dann beabsichtigt haben?! Und — wer hin aller
+konnte sie dann beabsichtigt haben?! Und — wer in aller
 <@pagebreak/>
 Welt war jener Mann mit dem verkrüppelten Fuß, der
 dann Joe Smith alias Steffenson niedergeknallt und Ellen
-beinahe auch gemeutert! hatten!
+beinahe auch gemeuchelt hatte?!
 
-Die ganze Geschulte war vollständig undurchsichtig.
+Die ganze Geschichte war vollständig undurchsichtig.
 
-Man möchte stellst die verwegensten Schlußfolgerungen
-ausstellen: Sie hatten weder Brand noch) Fuß!
+Man mochte selbst die verwegensten Schlußfolgerungen
+aufstellen: Sie hatten weder Hand noch Fuß!
 
-So war denn also der zweite Abend nach jener Uns
-Heilsstunde gekommen, in der Ellen durch das Fenster eingedrungen
+So war denn also der zweite Abend nach jener Unheilsstunde
+gekommen, in der Ellen durch das Fenster eingedrungen
 war. Wieder war’s nach zehn Uhr, und wir
-saßen mit Tom wieder vor dem Kamin hin der Bibliothek
+saßen mit Tom wieder vor dem Kamin in der Bibliothek
 und schwiegen uns aus, denn zu reden gab es wirklich
 nichts mehr.
 
 Da läutete nebenan das Telephon. Wir drei eilten
 hin. Wir waren schon ein wenig nervös geworden.
 
-Endlich? ein Lichtbild!! Kommissar Doktor Lücke teilte
+Endlich ein Lichtblick!! Kommissar Doktor Lücke teilte
 uns mit, daß ein älterer Amerikaner namens Edward Bark
 in Dover gestern eine Privatjacht gemietet und mit ihr
-na Neuyork abgedampft sei. Der Mann habe eine ungeheure
+nach Neuyork abgedampft sei. Der Mann habe eine ungeheure
 Summe als Miete für die schnelle Jacht bezahlt, auch
-sonst seien die ganzen Begleitumstände so verdäudztig, daß
-man nur annehmen Gönne Edward Darf sei die verkleidete
+sonst seien die ganzen Begleitumstände so verdächtig, daß
+man nur annehmen könne, Edward Bark sei die verkleidete
 Ellen Barkam gewesen. Bark habe Vollbart gehabt
-und sehr heiser gesprochen, sei nur in blauer Bleibe
-aufgetreten und Stube es sehnt eilig gehabt Der Eigentümer
+und sehr heiser gesprochen, sei nur in blauer Brille
+aufgetreten und habe es sehr eilig gehabt. Der Eigentümer
 der Jacht wieder gehöre zu den fragwürdigen Leuten,
 die durch Alkoholschmuggel nach Amerika bereits reich geworden.
 
-darfst dankte Lücke und sagte zu uns:
+Harst dankte Lücke und sagte zu uns:
 
 »Sie ist’s! Ich kann euch nun ja auch mitteilen, daß
 ich gefürchtet habe, Ellen sei in Bremen von dem Krüppel
-beseitigt worden. Morgen reisen wir«
+beseitigt worden. — Morgen reisen wir«
 
-»Soll sei Dank!« rief Rom, und dann studierten wir
-die Odhissssahrpläne.
+»Gott sei Dank!« rief Tom, und dann studierten wir
+die Schiffsfahrpläne.
 
 <@pagebreak/>
 
 <h2>4. Kapitel.</h2>
 
 Es ist heute fast schon in Vergessenheit geraten, daß
-dieses ungeheure Gebiet der Halbinsel Alaska die 1867
-Rußland. gehörte. Als die Bereinigten Staaten in diesem
-TJ: hie für 7200000 Dollar Alaska von Rußland
-erloschen und gleichzeitig die Grenze ganz Kanada hin
+dieses ungeheure Gebiet der Halbinsel Alaska bis 1867
+Rußland gehörte. Als die Vereinigten Staaten in diesem
+Jahre für 7&nbsp;200&nbsp;000 Dollar Alaska von Rußland
+erwarben und gleichzeitig die Grenze nach Kanada hin
 reguliert wurde, ahnten die Russen nicht, daß dreißig
-Jahre später aus dieser Eis-, Wald« und Felswildnis für
+Jahre später aus dieser Eis-, Wald- und Felswildnis für
 rund. 100 Millionen Dollar allein Waschgold exportiert
 werden würde, ganz abgesehen von den anderen Reichtümern
-»1 Setzen wie Kupfer, Silber, Zinn, ferner Steinkohlen,
-Holz und — — die Lachse nicht zu vergessen! Der Lachs fang
-allein bringt lernte noch« jährlich rund eine Million
-813\. »Freilich — die Zeiten, wo der Goldsucdyer in Ulauska
-absurd dem dicht benachbarten kanadischen Klondike eine Knall?
+an Erzen wie Kupfer, Silber, Zinn, ferner Steinkohlen,
+Holz und — — die Lachse nicht zu vergessen! Der Lachsfang
+allein bringt heute noch jährlich rund eine Million
+ein. Freilich — die Zeiten, wo der Goldsucher in Alaska
+und dem dicht benachbarten kanadischen Klondike eine Rolle
 spielte — und welche!!, die sind gewesen. Der Goldrausch
-Verehre hin ebenso schnell wie in dem südlicheren Holt«-
-folgten, Nur daß die ungezählten Klaren von Goldgräbern
-in /B’aska nicht verödete, wie Pilze aus der Erde geschlossene
-Grotte zurüccließen, sondern in der Tat Bahnbrecher eines
+verebbte hier ebenso schnell wie in dem südlicheren Kalifornien.
+Nur daß die ungezählten Scharen von Goldgräbern
+in Alaska nicht verödete, wie Pilze aus der Erde geschossene
+Städte zurückließen, sondern in der Tat Bahnbrecher eines
 zielbewußten industriellen Aufstiegs wurden und das wilde
-Goldsuchertreiben allmählich überging in »irren vernünftigen
+Goldsuchertreiben allmählich überging in einen vernünftigen
 Bergbau — mäßigen Gewinn der Bodenschätze und eine
-durch) staatliche Maßnahmen weise gebremste Ausnutzung der
+durch staatliche Maßnahmen weise gebremste Ausnutzung der
 sonstigen Reichtümer dieses Landes, das heute bereits einen
-auf organisierten Touristenverkehr besitzt, Eisenbahnen und
-xurushotels und natürlich auch das mehr als fragwürdige
+gut organisierten Touristenverkehr besitzt, Eisenbahnen und
+Luxushotels und natürlich auch das mehr als fragwürdige
 Alkoholverbot.
 
-Trotzdem: Alaska wird stets ein abenteuerlich;sei Land
+Trotzdem: Alaska wird stets ein abenteuerliches Land
 bleiben. Die sogenannten Segnungen der Kultur werden
 dort nie zu solchen krankhaften Treibhauspflanzen hochziehen
 <@pagebreak/>
-wie etwa auf Kanal, den Philippinen, Kuba und
+wie etwa auf Hawaii, den Philippinen, Kuba und
 Florida. Dafür sorgt schon die Natur. Ein Land, das nur
 sechs Monate schneefrei ist, läßt alle ungesunden Auswüchse
 erfrieren. Außerhalb der Eisenbahnlinien, der wenigen Städte
@@ -907,75 +903,75 @@ einer Knabenphantasie nach reichlicher Lektüre von Abenteuergeschichten.
 
 Sieben Tage bis Montreal in Kanada, zwei Tage mit
 der kanadischen Pazifikbahn quer durch Nordamerika nach
-Geplauder, von da wieder zwei Tage bis Sitka auf
-einem raschen eleganten Dampfer und wir waren in Rom
-Wargers engerer Heimat, in Alaska Schon auf diesem
+Vankouver, von da wieder zwei Tage bis Sitka auf
+einem raschen eleganten Dampfer und wir waren in Tom
+Wargers engerer Heimat, in Alaska. Schon auf diesem
 Dampfer kannten wir uns nicht mehr. Das erforderten die
 Umstände. Wir beide reisten als deutsche Ingenieure unter
-den Namen Hort und Schrimm, In Sitka, wo tote Saison
-war, trennten sich unsere Wege überhaupt Wir hatten
+den Namen Hort und Schrimm. In Sitka, wo tote Saison
+war, trennten sich unsere Wege überhaupt. Wir hatten
 verabredet, uns in Nuklukahjet an der Einmündung des
-Panama in der Yukon wieder zu treffen. Rom hatte nämlich
+Tanana in der Yukon wieder zu treffen. Tom hatte nämlich
 in Sitka ein Bündel Briefe seines empörten Vaters
 vorgefunden, der diese Europareise seines einzigen Erben
-aus schärfste mißbilligte und seinem Sprößling allerlei
+aufs schärfste mißbilligte und seinem Sprößling allerlei
 Auftrage erteilte, die ihn zwangen, eine andere Reiseroute
 zu wählen.
 
-Wäre ich Reiseschriftsteller. so könnte im hier dem
-Leser manch’ ergötzliih GesädyichtHen über Winterfahrten in
+Wäre ich Reiseschriftsteller, so könnte ich hier dem
+Leser manch’ ergötzliche Geschichtchen über Winterfahrten in
 Alaska berichten. Ich muß mich jedoch auf das beschränken,
 was unbedingt mit zum Thema gehört
 
 Wieder waren zehn Tage dahin, und das eingeschneite
-und eingefrorene Städtchen Nuklukahjet erlebte eine Felsens
+und eingefrorene Städtchen Nuklukahjet erlebte eine seltene
 Sensation: Zwei verrückte deutsche Ingenieure wollten durchaus
-jetzt anfangs Februar mit! Hundeschlitten in den Tanana«
-Bergen braune Bären jagen’
+jetzt anfangs Februar mit Hundeschlitten in den Tanana-Bergen
+braune Bären jagen!
 
 Wir waren im »Hotel« Wilson abgestiegen, wir hatten
-schnell mit den Honoratioren Freundschaft geschlossen, vorn
+schnell mit den Honoratioren Freundschaft geschlossen, wir
 <@pagebreak/>
 wurden gewarnt, wir spielten weiter die reichen Deutschen
 mit dem Jagdfimmel, wir markierten einen Spleen, wie
-in kein Engländer haben kann, wir horchten die plumpes
-Losen Leutchen aus, wir mieteten zweit erfalyrene Eskimo«
-Jäger und zwei Gelitten mit je antritt Hunden und des
-folgten alles Nötige.
+ihn kein Engländer haben kann, wir horchten die ahnungslosen
+Leutchen aus, wir mieteten zwei erfahrene Eskimojäger
+und zwei Schlitten mit je acht Hunden und besorgten
+alles Nötige.
 
-Am 3. Februar vormittags elf Uhr, als das sogenannte
-Tageslicht gelehrte genügte dreißig Schrill weit zu sehen,
-können wir in unseren Schlitten davon. Zu Ohren unseres
-Wagnisses brannte man Erneuert ab, und ein Dutzend
-anderer Schlitten gab uns noch) eine Stunde das Geleit),
-Bis ein heiliges Schneetreiben begann und die Herrschaften
-jeleurlgst umkehrten.
+Am 4. Februar vormittags elf Uhr, als das sogenannte
+Tageslicht gerade genügte dreißig Schritt weit zu sehen,
+sausten wir in unseren Schlitten davon. Zu Ehren unseres
+Wagnisses brannte man Feuerwerk ab, und ein Dutzend
+anderer Schlitten gab uns noch eine Stunde das Geleit,
+Bis ein heftiges Schneetreiben begann und die Herrschaften
+schleunigst umkehrten.
 
-Rulat und Rechte, unsere Eskimos, die leidlich englisch
-sprachen, mahnen lange Gesichter und rieten in einer nahen
-»Für’n aus Torfziegeln das Ende des Scneesturmns als
-zuwarfen. Rulat sagte: »Große Wind abends drehen wird,
-32üu8 Sein Schnee Mohr und sehr hell. Jetzt wir erfrieren
+Rulat und Ischko, unsere Eskimos, die leidlich englisch
+sprachen, machten lange Gesichter und rieten in einer nahen
+Hütte aus Torfziegeln das Ende des Schneesturms abzuwarten.
+Rulat sagte: »Große Wind abends drehen wird,
+dann kein Schnee mehr und sehr hell. Jetzt wir erfrieren
 draußen.«
 
-Ecke waren zwölf Grad Kälte, und es war nicht die
-Haus vor Augen zu selten. Der Mann hatte recht. Also
-dies — suchen wir die Torfhütte.
+Es waren zwölf Grad Kälte, und es war nicht die
+Hand vor Augen zu sehen. Der Mann hatte recht. Also
+los — suchen wir die Torfhütte.
 
-Boy Nuklukahjet zieht sich genau nach Osten eine
-armlose Niederung hin, im Sommer ein Paradies der Vögel
-und eine Fundstelle tadellosen Torfes. Jetzt wär aller
+Von Nuklukahjet zieht sich genau nach Osten eine
+endlose Niederung hin, im Sommer ein Paradies der Vögel
+und eine Fundstelle tadellosen Torfes. Jetzt war aller
 Schnee, Schnee, kahle Büsche, kahle Bäume, dunkle, verschneite
 Kiefern. Wir fanden die Hütte, und nach einer
 Stunde hatten wir’s warm und behaglich und lagen in
 unseren Pelzsäcken um das Feuer herum und ließen den
-zt schmalzigen Rulat erzählen. Er war kein reinblütiger
-&sfimo mehr. In seinen Adern rollte wohl so mancher
-Tropfen Europäerblut, und was er erzälhljile, ward durch
-Haralds eingestreute Fragen unmerklich) immer wieder auf
-Renntierfarmen gelenkt und schließlich) auch auf Mr. Samuel
+geschwätzigen Rulat erzählen. Er war kein reinblütiger
+Eskimo mehr. In seinen Adern rollte wohl so mancher
+Tropfen Europäerblut, und was er erzählte, ward durch
+Haralds eingestreute Fragen unmerklich immer wieder auf
+Renntierfarmen gelenkt und schließlich auch auf Mr. Samuel
 <@pagebreak/>
-Warger aus Dawson City und seinen Todfeind Old Goa,
+Warger aus Dawson City und seinen Todfeind Old Crack,
 
 Bisher hatten wir auch in Nuklukahjet sorgfältig vermieden,
 gerade diesen Namen auch nur zu erwähnen. Unsere
@@ -983,27 +979,27 @@ neuen Freunde aus dem Hotel Wilson dort hatten nie
 über Old Crack gesprochen, desto mehr über Samuel Warger,
 den »Würger«, den Waldschlächter. —
 
-Rulat und Afrika schauten Harst verdutzt an. Rulat
+Rulat und Ischko schauten Harst verdutzt an. Rulat
 fragte: »Woher kennen Sie Old Crack, Mr. Hort?«
 
-»Ich kenne ihm nicht. Auf dem Dampfer nach Hirn
-sprachen einige Herren über ihn. Der eine meinte, in d-5
-Nahe von Cracks Farm sollen sich reiche Kupferlagi! 4:
-finden. Wie du weißt, Rulat: Wir sind Ingenieure. 204-5
-du bisher nicht weißt: Wir wollen zu Crack und ihn;,!.c
-Mine ablaufen. Das haben wir natürlich) in Nuflaufkäahzei
-verschwiegen, zumal noch jemand dasselbe Geschäft im Fuge
+»Ich kenne ihn nicht. Auf dem Dampfer nach Sitka
+sprachen einige Herren über ihn. Der eine meinte, in der
+Nähe von Cracks Farm sollen sich reiche Kupferlager befinden.
+Wie du weißt, Rulat: Wir sind Ingenieure. Was
+du bisher nicht weißt: Wir wollen zu Crack und ihm die
+Mine ablaufen. Das haben wir natürlich in Nuklukahjet
+verschwiegen, zumal noch jemand dasselbe Geschäft im Auge
 hatte.«
 
 Fabelhaft, wie Harst so hartgesotten schwindeln kann!
 
-Aber hier machte das einen unerwarteten Eindruck,
-Zufall und Asche begannen in ihrer Sprache miteinander
+Aber hier machte das einen unerwarteten Eindruck.
+Rulat und Ischko begannen in ihrer Sprache miteinander
 sehr erregt zu palawern, und dabei warfen sie uns wer?
-würdige Blicke zu, vergaßen sogar den Schnaps und div
-Zigarre und ereiferten zur) immer mehr. Wir Verstande(t
-kein Wort. Die neben uns liegenden Hunde auch, nicht. Du
-Schwur sehr ungemütlich Dann erklärte Rulat:
+würdige Blicke zu, vergaßen sogar den Schnaps und die
+Zigarre und ereiferten sich immer mehr. Wir verstanden
+kein Wort. Die neben uns liegenden Hunde auch nicht. Es
+war sehr ungemütlich. Dann erklärte Rulat:
 
 »Herr, wir kehren um.«
 
@@ -1017,39 +1013,39 @@ Rulat sagte und hob die Hand wie zum Schwur: »Herr,
 nicht für tausend,«
 
 »So … so … — Wißt ihr auch, daß Samuel Warger
-seinen Prozeß um einen Teil der Farm Eid Cracks gc6&
+seinen Prozeß um einen Teil der Farm Old Cracks
 <@pagebreak/>
-gewonnen hat und daß Warger mit Poliert Old Crack verjagen
+gewonnen hat und daß Warger mit Polizei Old Crack verjagen
 wird?«
 
-Was sollte das nun wieder?! Das war doch blanke Schwindel.
+Was sollte das nun wieder?! Das war doch blanker
+Schwindel.
 
-Rulat zuckte die Achseln. »Crack läßt sie; nicht verjagen,
+Rulat zuckte die Achseln. »Crack läßt sich nicht verjagen,
 Herr.«
 
-»Aber er ahnt noch; nichts, und wir wollen ihn warnen,
+»Aber er ahnt noch nichts, und wir wollen ihn warnen,
+das ist’s! Wir haben’s in Sitka erfahren, und Warger
+bereitet alles in größter Heimlichkeit vor.«
 
-ist’s! Wir haben’s in Sitz erfahren, und Warger
-bereite! alles in größter Heimlichkeit vor.«
-
-Rulat und Rechte begannen wieder in ihrer Sprache
-eifrigst zu debattieren. Rechte schien unter diesen Umständen
-geneigt! zu sein das Risiko eines Besuchs bei Old Tracht
-auf sie zu nehmen. Rulat war offenbar noch immer
-von einer geradezu undegreifliczken Angst befallen. Aber
-Rechte siegte und erklärte: »Herr, gebt jedem zweihundert,
-und wir bringen ein bis zu dem verlassenen Fort Mac
-Kinley. Von dort habt ihr nur noch eine Tagesoreise bis
-zu Old Grad, von da kehren wir mit dem einen Schlitten
+Rulat und Ischko begannen wieder in ihrer Sprache
+eifrigst zu debattieren. Ischko schien unter diesen Umständen
+geneigt zu sein das Risiko eines Besuchs bei Old Crack
+auf sich zu nehmen. Rulat war offenbar noch immer
+von einer geradezu unbegreiflichen Angst befallen. Aber
+Ischko siegte und erklärte: »Herr, gebt jedem zweihundert,
+und wir bringen euch bis zu dem verlassenen Fort Mac
+Kinley. Von dort habt ihr nur noch eine Tagesreise bis
+zu Old Crack, von da kehren wir mit dem einen Schlitten
 um.«
 
 Komisch, diese Furcht vor Old Crack! — Harald sagte
-zu mir auf deutlich) »Mein Alter, dahinter steckt mehr als
+zu mir auf deutsch: »Mein Alter, dahinter steckt mehr als
 wir ahnen! Ich werde jedem zweihundertfünfzig geben, und
 dann werden sie reden.«
 
-Er tat’s. Kur die Eskimojäger war das ein kleines
-Vermögen. Sie glitten zufrieden, und die Vereinbarung
+Er tat’s. Für die Eskimojäger war das ein kleines
+Vermögen. Sie grinsten zufrieden, und die Vereinbarung
 wurde durch Handschlag besiegelt,
 
 <@pagebreak/>
@@ -1675,7 +1671,7 @@ Munde uns sofort verraten hätten, sie waren eben auf
 Grade Farm zu bekannt
 
 Als wir nun Stiefel und Strümpfe am Feuer trockneten,
-sagte Harst plotzlicdy
+sagte Harst plötzlich
 
 »In dem Stausee liegt ein Telephonkabel.«
 
