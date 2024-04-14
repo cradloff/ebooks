@@ -99,5 +99,4 @@ scj	sch
 si[cd]\)	sich
 …\sk\b	…?
 ßz	tz
-t!	!!
 tß	tz
