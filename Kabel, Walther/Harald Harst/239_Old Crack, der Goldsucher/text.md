@@ -1568,163 +1568,163 @@ sich inzwischen maskiert hatte.
 
 <h2>2. Kapitel.</h2>
 
-Haralds Hals war dich geschwollen. Als ich den Freund
+Haralds Hals war dick geschwollen. Als ich den Freund
 endlich wieder ins Leben zurückgerufen halte, krächzte er
-Gut: »Idiot!«
+nur: »Idiot!«
 
 Buruwat wedelte mit der langen Rute und blickte
 mich noch merkwürdiger an.
 
 <@pagebreak/>
-Eine Schneekompresse und heißer See brachten Harst
-nach drei Stunden wieder auf die Beine. Er drückte mit
+Eine Schneekompresse und heißer Tee brachten Harst
+nach drei Stunden wieder auf die Beine. Er drückte mir
 die Hand, und die Sache war wieder eingerenkt. Es war
 eben ein unglückliches Zusammentreffen von Umständen gewesen.
 Während ich Mac Dormits Fährte verfolgt hatte,
-malaiische Harald sich, was ich nachher auch tun sollte,
+maskierte Harald sich, was ich nachher auch tun sollte.
 Als er sich gerade die Nase fertig geschminkt hatte, war der
-Besitzer der Höhle, Herr. Luchs, erschienen. Harald erschoß
-ihn und zog ihm den Felsens aus — mehr im Hintergrunde
-der Grotte, Er Hatte gerade das Jagdmesser Säuren
-wollen, als ich eintrat, So war die unglückliche Beweis:2181:4
-zustande gekommen, —
+Besitzer der Höhle, Herr Luchs, erschienen. Harald erschoß
+ihn und zog ihm den Pelzrock aus — mehr im Hintergrunde
+der Grotte. Er Hatte gerade das Jagdmesser säubern
+wollen, als ich eintrat. So war die unglückliche Verwechslung
+zustande gekommen. —
 
-Es war jetzt sieben Uhr morgens. Unsere Nötige!ich +
-auch Harsts Zustand hätten verlangt, daß wir uiu45 …:-.«-
-legten. Wir hatten während der letzten vierundvszw?.:.;:
-Stunden kein Auge zugetan. Trotzdem drängte Harald Zu
-Ausdruck Wir hatten nur zwei kleine Koffer. mit, in die x-:
-erst in Nuklakahzzet doppelte Böden eingebaut hatten, nicht.
-denen wir so allerhand verbargen, was die Schimpf wirkt
-hatten sehen sollen, zu Bärte, Perücken und sonstiges.
+Es war jetzt sieben Uhr morgens. Unsere Müdigkeit und
+auch Harsts Zustand hätten verlangt, daß wir uns nieder-
+legten. Wir hatten während der letzten vierundzwanzig
+Stunden kein Auge zugetan. Trotzdem drängte Harald Zum
+Aufbruch. Wir hatten nur zwei kleine Koffer mit, in die wir
+erst in Nuklukahjet doppelte Böden eingebaut hatten, unter
+denen wir so allerhand verbargen, was die Eskimos nicht
+hatten sehen sollen, auch Bärte, Perücken und sonstiges.
 Ich mußte mich in aller Eile ebenfalls maskieren. Mit
-Vollbärten und Perücken und gefärbter Haut war dank
-von den Ingenieuren Hort und Schrimm nicht viel Ab:
+Vollbärten und Perücken und gefärbter Haut war dann
+von den Ingenieuren Hort und Schrimm nicht viel übrig
 geblieben.
 
-»Mac Dormit kann uns verraten,« meinte Harst. »Unnützen
-erst einen anderen Lagerplatz suchen. Ich traue in
-nutzt. Ich weiß nicht, an wen er mich erinnerte, aber —
-ich habe ihn bestimmt schon irgendwo gesehen, vielleicht zur
-in Nuklukahjet im Hotel. Es gingen dort viele Pelzsäcken
+»Mac Dormit kann uns verraten,« meinte Harst. »Wir
+müssen erst einen anderen Lagerplatz suchen. Ich traue ihm
+nicht. Ich weiß nicht, an wen er mich erinnerte, aber —
+ich habe ihn bestimmt schon irgendwo gesehen, vielleicht gar
+in Nuklukahjet im Hotel. Es gingen dort viele Pelzjäger
 aus und ein.«
 
-Wir koppelten nach kurzer Beratung die Hunde zwa
-zusammen und trugen die Schlitten auf unserer alten Spur
-mehrere hundert Meter flußabwärts, also auf Peinvolle
-Wege, den wir gekommen waren und zwar bis zur MüHungöstelle
+Wir koppelten nach kurzer Beratung die Hunde zusammen
+und trugen die Schlitten auf unserer alten Spur
+mehrere hundert Meter flußabwärts, also auf demselben
+Wege, den wir gekommen waren und zwar bis zur Mündungsstelle
 <@pagebreak/>
 des Pictairn-Baches, der zum Quellgebiet des
-berühmten »Warmen Flusses« gehört, der als eintragen
-Strom der Tanana-Berge selbst oder strengster Kälte nicht
-zufriert, da die heißen Suchten der Gilbert-Hilfe, eines
+berühmten »Warmen Flusses« gehört, der als einziger
+Strom der Tanana-Berge selbst bei strengster Kälte nicht
+zufriert, da die heißen Quellen der Gilbert-Hills, eines
 vulkanischen Streifens der Tanana, bis in die Vorberge
-hinabreichen und geradezu drohendes Wasser!herein. Der
-erstere, Brummende Pictairn hatte auch die Tischecke des
-Kinley bis zur halben Flußboote in großem Bogen weggchmolizen.
-Wir wateten, immer die schweren Schlitten
-faul Gepäck auf dem Rücken, ein Stück den Pictairn aus
-warte, Den Stunden Knechte es nichts aus, bis zum Bauche
-im Wasser buckelig zu glänzten, und nach« einer Stunde
+hinabreichen und geradezu kochendes Wasser liefern. Der
+eisfreie, schäumende Pictairn hatte auch die Eisdecke des
+Kinley bis zur halben Flußbreite in großem Bogen
+weggeschmolzen. Wir wateten, immer die schweren Schlitten
+samt Gepäck auf dem Rücken, ein Stück den Pictairn aufwärts.
+Den Hunden machte es nichts aus, bis zum Bauche
+im Wasser dahin zu plantschen, und nach einer Stunde
 hatten wir dann die Gewißheit, jede Spur hinter uns
-vorwiscatl zu haben. Hierauf kam es uns an.
+verwischt zu haben. Hierauf kam es uns an.
 
 Höhlen und Grotten gibt es hier überall. Wir wählten
-»arg Nachtquartier eine Grotte oberhalb eines Wasserfalles,
-in Dr das Wasser noch meterweit stand und die etwnetnz
-93:13 niederen Eingang hatte. Während ich meinen Cahilüitten
-innen glotzte und die Karbidlaterne anzündete, war tdjutald
-mit den Hunden machen) draußen geblieben. Ich holte ie
-Hufe Herein und auch Harsts Schritten. warnt Selbst
-Erklärte mir, er wolle noch ein Stück dahaufswärts gehen,
-Vor Ivasserfall, der durch einen ganz engen, kurzen Kanon
-Ein ins stürzte, hatte hier den Bach zu einem weiten Goa
-zu Wortlaut, und die kahlen, felsigen Ufer, die erst weiterhin
-2Wwiscpen den Bäumen wieder eine Schneeschicht aufwiesen,
-hatten uns. in dem lehmigen Niederschlug zahllose Spuren
-von Renntieren gezeigt. Da das Genauer in Alaska erst
-eingeführt worden ist und wild nichts vorkommt, konnte
-ei? sich nur um verwilderte Tiere handeln, die sicherlich
+als Nachtquartier eine Grotte oberhalb eines Wasserfalles,
+in der das Wasser noch meterweit stand und die einen
+ganz niederen Eingang hatte. Während ich meinen Schlitten
+innen absetzte und die Karbidlaterne anzündete, war Harald
+mit den Hunden noch draußen geblieben. Ich holte die
+Hunde Herein und auch Harsts Schlitten. Harald Selbst
+Erklärte mir, er wolle noch ein Stück bachaufwärts gehen.
+Der Wasserfall, der durch einen ganz engen, kurzen Kanon
+abwärts stürzte, hatte hier den Bach zu einem weiten See
+aufgestaut, und die kahlen, felsigen Ufer, die erst weiterhin
+zwischen den Bäumen wieder eine Schneeschicht aufwiesen,
+hatten uns in dem lehmigen Niederschlug zahllose Spuren
+von Renntieren gezeigt. Da das Renntier in Alaska erst
+eingeführt worden ist und wild nicht vorkommt, konnte
+es sich nur um verwilderte Tiere handeln, die sicherlich
 aus Old Cracks Herden stammten.
 
-Ich schleppte Moor herbei, Holz und einige angesOawemmte
-Stämme, ich verbarrikadierte den Holylencingang
+Ich schleppte Moos herbei, Holz und einige angeschwemmte
+Stämme, ich verbarrikadierte den Höhleneingang
 <@pagebreak/>
-mit Steinen bis auf einen ganz schmalen Durchsicht ur!
+mit Steinen bis auf einen ganz schmalen Durchschlupf
 und zündete ein Riesenfeuer an,
 
 Harald kam zurück. Schweigend nahm er zwei Wolldecken
-und hing sie Nr; von innen vor die Barrikade
+und hing sie noch von innen vor die Barrikade
 und den Eingang und ließ nur oben eine schräge Öffnung
-stets, damit der Man abziehen konnte Fraglos war dieses
-Quartier weit besser als die Stühle am Kinley-Fluß. Selbst
-wen! Mac Dormit uns nun verraten sollte, würde uns
-hier niemand finden Wir konnten uns ausschlafen, und
-sorglos Gedanke, die Hunde laufen zu lassen und besser
-ein paar Renntiere einzufangen, warteten deshalb recht
-gut, weil unsere Maskerade uns nicht viel half da die
-Munde uns sofort verraten hätten, sie waren eben auf
-Grade Farm zu bekannt
+frei, damit der Rauch abziehen konnte. Fraglos war dieses
+Quartier weit besser als die Höhle am Kinley-Fluß. Selbst
+wenn Mac Dormit uns nun verraten sollte, würde uns
+hier niemand finden. Wir konnten uns ausschlafen, und
+Haralds Gedanke, die Hunde laufen zu lassen und besser
+ein paar Renntiere einzufangen, war schon deshalb recht
+gut, weil unsere Maskerade uns nicht viel half, da die
+Hunde uns sofort verraten hätten, sie waren eben auf
+Cracks Farm zu bekannt
 
 Als wir nun Stiefel und Strümpfe am Feuer trockneten,
-sagte Harst plötzlich
+sagte Harst plötzlich:
 
 »In dem Stausee liegt ein Telephonkabel.«
 
 »Was liegt da?« Ich glaubte mich verhört zu haben,
 
-»Ein gut isolier’ies Fidel das nach Nordost im Walde
-unter Moos und Steamer weiterläuft zu Crack natürlich.«
+»Ein gut isoliertes Kabel, das nach Nordost im Walde
+unter Moos und Steinen weiterläuft zu Crack natürlich.«
 
-»Donnerwetter! Und wi.:er mag es kommen?«
+»Donnerwetter! Und woher mag es kommen?«
 
-»Sie eine Station dürft« in der Nähe von Nuklukahjet
-zu suchen sein, richtete?! im Palast Blocklhzaus, das weit so«
-Orte nach Sitzen liegt wie du weißt. dann wird es wohl
+»Die eine Station dürfte in der Nähe von Nuklukahjet
+zu suchen sein, vielleicht in Rulats Blockhaus, das weit vom
+Orte nach Osten liegt wie du weißt, dann wird es wohl
 mehrere Zwischenstationen geben, und die Zentrale befindet
-Sir) im Cracks Versenkung.«
+sich in Cracks Felsenburg.«
 
 »Wer hätte das gedacht! Das ist großzügig.«
 
 »Ach ja, mein Alter,« nickte er. »Ich fürchte, wir werden
-noch Grotzügigeres finden.«
+noch Großzügigeres finden.«
 
 Er zog trockene dicke Strümpfe an und schlüpfte in die
-pelzgefütterten Stiefel Jetzt erst merkte 1 wie düster sein
-Gesichtsausdruck war Ich erstens darüber. »Hast du noch
+pelzgefütterten Stiefel. Jetzt erst merkte ich, wie düster sein
+Gesichtsausdruck war. Ich erschrak darüber. »Hast du noch
 etwas gefunden?«
 
-»Äin, aber gesehen.«
+»Nein, aber gesehen.«
 
 <@pagebreak/>
 »Was denn?«
 
 Er nahm eine Zigarette und einen glimmenden Ast und
-erwiderte: »Binde deinen Freund Buruwat dicht am. Eins
-Gang hier innen an. Er würde jeden Fremden wittern,
-Tu’s nur. Es eilt. Du hast dich hier vielleicht sehr sicher,
-gefühlt. Leider muß ich; dich enttäuschen. — Binde den
+erwiderte: »Binde deinen Freund Buruwat dicht am Ein-
+Gang hier innen an. Er würde jeden Fremden wittern.
+Tu’s nur. Es eilt. Du hast dich hier vielleicht sehr sicher
+gefühlt. Leider muß ich dich enttäuschen. — Binde den
 Hund fest und gib ihm genügend Moos als Lager.«
 
 Er starrte in die knisternden Flammen und rauchte mit
 sichtlicher Zerstreutheit.
 
 Buruwat bekam ein sehr schönes Lager. Ich musterte noch
-die Wolldecken vor dem Eingang. Nein — selbst ein heim
-südlichen Schuß war unmöglich. Außerdem hatte der trank«
-jeden Gewitter. Gehört allerdings nicht, denn der Falle
+die Wolldecken vor dem Eingang. Nein — selbst ein heimtückischer
+Schuß war unmöglich. Außerdem hätte der Hund
+jeden gewittert. Gehört allerdings nicht, denn der nahe
 Wasserfall lärmte zu stark. Es war ein immerwährendes
 Brausen und Donnern, und es glich vollkommen einer
 Meeresbrandung.
 
 Ich setzte mich wieder zu Harald. Er sagte ohne aufzublicken:
 
-»Ich habe einen Mann in einen Renntierschlitten großen.«
+»Ich habe einen Mann in einem Renntierschlitten gesehen.«
 
-Mir fiel die Zigarre aus den Fingern. Ich, verfärbte
+Mir fiel die Zigarre aus den Fingern. Ich verfärbte
 mich.
 
-»Grad?«
+»Crack?«
 
 »Wahrscheinlich«
 
@@ -1733,30 +1733,30 @@ mich.
 »Am Südufer des Sees, wo ein flaches Tal ganz allmählich
 ansteigt. Ich hatte zum Glück das Kabel, als ich
 mit dem Fuß dagegen stieß und es erst für eine im Wasser
-liegende Baumwurzel hielt, mich sofort genauer untersucht.
+liegende Baumwurzel hielt, nicht sofort genauer untersucht.
 Ich bückte mich nur und griff ins Wasser, fühlte, daß es
 ein isoliertes dickes Kabel war und richtete mich sofort
 wieder auf. Ich wollte erst prüfen, ob auch wirklich kein
 Spion in der Nähe. Fünfzig Meter weiter öffnete sich
-nach feuchte das verschneite Tal, und ich gewahrte einen
+nach rechts das verschneite Tal, und ich gewahrte einen
 <@pagebreak/>
 weißbärtigen Mann in einem langen, von zwei hintereinander
 angeschirrten Renntieren gezogenen Schlitten. Der
-Schlitten raste mit unglaublicher Gesdwindigzkeit davon.«
+Schlitten raste mit unglaublicher Geschwindigkeit davon.«
 
 Ich hob meine Zigarre auf und blieb stumm.
 
-»Tat er dich bemerkt?« fragte im dann.
+»Hat er dich bemerkt?« fragte ich dann.
 
 Harald schaute auf und schüttelte den Kopf. »Manchmal
 fragst du wie ein Kind. In diesen Einöden gibt es
 keine Zufälle.«
 
-»Also — — ist er von Mac Vernunft benachrichtigt
-worden und muß schon am Linken in der Nähe gewesen
+»Also — — ist er von Mac Dormit benachrichtigt
+worden und muß schon am Kinley in der Nähe gewesen
 sein,« erklärte ich beklommen.
 
-»Natürliche, — Wir können unsere Bärte und Perücken
+»Natürlich. — Wir können unsere Bärte und Perücken
 wieder einstecken. Cracks Spionagensystem ist glänzend. Er
 muß ein großer Verbrecher sein.«
 
@@ -1765,12 +1765,12 @@ muß ein großer Verbrecher sein.«
 »Sind in seiner Hand, mein Alter. Ich fürchte, draußen
 lauern schon seine Schergen. Jeder Schritt nach draußen
 wird uns Kugeln eintragen.« Er holte das Rindenpergament
-hervor. »Hier, überzeuge dich … Dies ist der Pictairn Baß,
-also der Ort, wo wir uns befinden. Die Grenze vors
-Grade Riesenfarm reiht mit dem westlichsten Zipfel bis
+hervor. »Hier, überzeuge dich … Dies ist der Pictairn-Bach,
+also der Ort, wo wir uns befinden. Die Grenze von
+Cracks Riesenfarm reicht mit dem westlichsten Zipfel bis
 hierher. Das haben wir nicht beachtet. Wir sind auf seinem
-Gebiet, und wir sind sein — genau wie der arme Tom.
-Warger, den wir gern befreien wollten Nun werden wir
+Gebiet, und wir sind sein — genau wie der arme Tom
+Warger, den wir gern befreien wollten. Nun werden wir
 uns selbst befreien müssen. Wir sitzen in der Mausefalle.«
 
 Ich konnte dem nicht beipflichten. »Du siehst doch wohl zu
@@ -1779,10 +1779,10 @@ herbeordern.«
 
 »Bitte — das Telephon! Und dann: Es kann irgendwo
 hier in der Nähe eine seiner Renntierherden untergebracht
-sein. Gerade die Nachbartäler des Jung-Flusses, des
+sein. Gerade die Nachbartäler des Turma-Flusses, des
 »Warmen«, sind die Weideplätze seiner auf 80&nbsp;000 Stück geschätzten
-Renntiere, Er exportiert Unmengen Fleisch, Butter
-und Milch. Seine Motorbootflottille auf dem Jung soll
+Renntiere. Er exportiert Unmengen Fleisch, Butter
+und Milch. Seine Motorbootflottille auf dem Turma soll
 <@pagebreak/>
 über vierzig Fahrzeuge zählen. Es ist ein schlauer Fuchs
 und ein echter Yankee-Geschäftsmann. Als er vor fünfzehn
@@ -1793,28 +1793,27 @@ er den fetten Happen vor der Nase wegschnappte. Daher
 auch der endlose Prozeß zwischen beiden und die Todfeindschaft
 — — hm ja!!«
 
-»Wesoghalb — — hm gar!«
+»Weshalb — — hm ja?!«
 
 »Das hängt mit unsrigen phantastischen Vermutung zusammen,
-mein Alter. — I werde jetzt schlafen. Nagel vier
-Stunden West du mich. Dann wache ich. Sobald sich
-etwas regt, schieße Gute Nacht.«
+mein Alter. — Ich werde jetzt schlafen. Nach vier
+Stunden weckst du mich. Dann wache ich. Sobald sich
+etwas regt, schieße ... Gute Nacht.«
 
-Gute Nacht und er schlief. Aber es war müht
-
-Nacht. Nein, es war jetzt daheim in Berlin heller Vormittags.
+Gute Nacht ... und er schlief. Aber es war nicht
+Nacht. Nein, es war jetzt daheim in Berlin heller Vormittag.
 Hier allerdings, wo das Polargebiet so unangenehm
 nahe, spürte man nichts von Sonne, Licht oder dergleichen.
-Ich ging zum Eingang,!Errichtete Buruwat und lüftete etwas
-die Wolldecke. Das YLHalbdunkel lastete drohend über dem
+Ich ging zum Eingang, streichelte Buruwat und lüftete etwas
+die Wolldecke. Das Halbdunkel lastete drohend über dem
 Stausee und dem jenseitigen Ufer. Trotzdem erkannte ich
 einen Trupp von etwa dreißig Renntieren, die eifrig das
 frische Moos von den Felsen abnagten. Dieser wunderbare
 Bach, der keine Eisbildung zuließ, war ein Dorado für die
-»Flackerte«. wie die Eskimos hier die Renntiere nennen
+»Klackfoots«, wie die Eskimos hier die Renntiere nennen
 — der klappernden Hufe wegen.
 
-Während ich die Flackerte beobachtete, kam mir ein
+Während ich die Klackfoots beobachtete, kam mir ein
 glänzender Gedanke.
 
 <h2>3. Kapitel.</h2>
@@ -1826,164 +1825,164 @@ Mütze befestigte. Als »Gesicht« lag unter der Mütze ein
 hellrotes buntes Taschentuch.
 
 Ich band Buruwat seitwärts fest, lüftete mit meinem
-Büchsenlauf den Fortgang und hielt mich hinter der Barg
-finde. Kaum hatte 14 die Puppe Blaue« vorgell’wven,
-als zwei Schüsse knallten von drüben hier IT« wies
-die Puppe nach hinten umsinken und den Fortgang alten.
+Büchsenlauf den Vorhang und hielt mich hinter der Barrikade.
+Kaum hatte ich die Puppe etwas vorgeschoben,
+als zwei Schüsse knallten -- von drüben her. Ich ließ
+die Puppe nach hinten umsinken und den Vorhang fallen.
 
-Ein Blick nach dem Feuer Harald war nur e wacht
+Ein Blick nach dem Feuer. Harald war nicht erwacht
 
-Ich lächelte mordgterig. ’Fie Schufte dort um Uferwalde
-sollten Max Schraut kennen lernen Wir Ballen uns ’ucy
-umsonst in Südarabien mit Wulstenräubern und in der
-indischen Thar mit allerhand braunem Gelinde! umhergetrieben.
+Ich lächelte mordgierig. Die Schufte dort im Uferwalde
+sollten Max Schraut kennen lernen. Wir hatten uns nicht
+umsonst in Südarabien mit Wüstenräubern und in der
+indischen Thar mit allerhand braunem Gesindel umhergetrieben.
 
-Ich besah mir meine Puppe Sache der Pelzrock
-suchte zwei Löcher bekommen dicht neben den regulären
-Knopflödyern, Die Herrschaften zielten gut
+Ich besah mir meine Puppe. Schade -- der Pelzrock
+hatte zwei Löcher bekommen, dicht neben den regulären
+Knopflöchern. Die Herrschaften zielten gut
 
-Ich wartete. Ich spähte vorsichtig nach draußen Die
-Berittene waren in wilder Finger auf und davon.
+Ich wartete. Ich spähte vorsichtig nach draußen. Die
+Renntiere waren in wilder Flucht auf und davon.
 
-Nach einer Viertelstunde schob im meine noch) verbesserte
-Puppe, die nun sogar im der reden »Hand« einen
+Nach einer Viertelstunde schob ich meine noch verbesserte
+Puppe, die nun sogar im der rechten »Hand« einen
 Ast hielt, der von weitem einer Büchse gleichen konnte, ganz
-langsam unter der Wolldecke unten hindurch ins Freie Das
-war schwerer als vorhin Ich) setzte mich der Gefahr aus,
-ein Loch in die linke Fand zu bekommen.
+langsam unter der Wolldecke unten hindurch ins Freie. Das
+war schwerer als vorhin. Ich setzte mich der Gefahr aus,
+ein Loch in die linke Hand zu bekommen.
 
 Als die Puppe draußen halb im Wasser versank gab’s
-von drüben Schnellfeuer Setz Schüsse, dann noch drei Ich
-Ließ meinen Strohmann gänzlich) im Wasser versinken. Es
+von drüben Schnellfeuer. Sechs Schüsse, dann noch drei. Ich
+Ließ meinen Strohmann gänzlich im Wasser versinken. Es
 mußte den Eindruck machen, als ob auch der zweite von
 uns nun erledigt sei.
 
-Lehm Minuten passierte nichts. Dann tauchte flußaufwärts,
-also von links. ein langes Fellboot auf, in
-den! sechs Kerle knieten
+Zehn Minuten passierte nichts. Dann tauchte flußaufwärts,
+also von links, ein langes Fellboot auf, in
+dem sechs Kerle knieten
 
-Harald schlief. Er war zu erschöwft. Die Schüsse drang
-Gatten ihn auch diesmal nicht seiner.
+Harald schlief. Er war zu erschöpft. Die Schüsse draußen
+hatten ihn auch diesmal nicht geweckt.
 
 <@pagebreak/>
-Die leicht In dem ’Book hatten keine Ruder, sondern
+Die sechs In dem Boot hatten keine Ruder, sondern
 Stoßstangen, mit denen sie das Boot in der scharfen Strömung
 bremsten.
 
-Es war Zeit. Ich weckte Harst. Ex fuhr hoch. Mit
-Worten erklärte im ihm die Lage. Er nahm seine Remingtonbüchse,
+Es war Zeit. Ich weckte Harst. Er fuhr hoch. Mit
+Worten erklärte ich ihm die Lage. Er nahm seine Remingtonbüchse,
 entsicherte sie und meinte: »Wir lassen sie
 erst landen.«
 
-meinen Adern kochte das Blut. Ich trank noch
-schmal Kinder Schluck Whisky.
+In meinen Adern kochte das Blut. Ich trank noch
+schnell einen Schluck Whisky.
 
-Wir zweiten am Eingang. Harst mahnte, ruhig zu
-klein, »Einen müssen wir lebend haben! Sollte ein Weiter
-dabei sein. so genügt eine Kugel in die Schulter. Das besorge
+Wir kauerten am Eingang. Harst mahnte, ruhig zu
+zielen. »Einen müssen wir lebend haben! Sollte ein Weißer
+dabei sein, so genügt eine Kugel in die Schulter. Das besorge
 ich.«
 
 Das Boot näherte sich behutsam. Mein Strohmann lag
-in seichten Wasser. Nur ein Teil der Pelzmütze ragte rote
-Firma ist,
+in seichten Wasser. Nur ein Teil der Pelzmütze ragte noch
+heraus.
 
 Noch zehn Schritt. Jetzt saß das Boot fest. Das Wasser
-xt zu flach. Drei stiegen aus. Der vorderste war ein
-hier langer Kerl mit einem kurzen Bart, also entweder
+war zu flach. Drei stiegen aus. Der vorderste war ein
+sehr langer Kerl mit einem kurzen Bart, also entweder
 ein Europäer oder ein Mischling.
 
 Zwischen den Steinen der Barrikade gab es genug Löcher
 für die Büchsenläufe. Milde wäre hier Selbstmord gewesen.
 
 Sechsmal knallte es, dann trieben fünf Erledigte dem
-7-1 Zierrat zu, den Langen, Dürren hatte Harst gepackt
-und schleppte ihm in die Höhle.
+Wasserfall zu, den Langen, Dürren hatte Harst gepackt
+und schleppte ihn in die Höhle.
 
 Der Kerl hatte ein Raubtiergesicht, eine ganz kurze
 Oberlippe und mächtige gelbe Zähne. Er war jedoch so
 benommen, daß er, kaum notdürftig verbunden, das Spiel
 verloren gab und schon bei der ersten drohenden Bewegung
-Lachte kreischte:
+Harsts kreischte:
 
-»Schonen Sie mich!! Ich wi?! alles sagen?«
+»Schonen Sie mich!! Ich will alles sagen!«
 
 »Old Crack hat euch herbeordert. Ihr seid Hirten von
 der nächsten Station seiner Farm.«
 
-»Ja. Ich: bin Aufseher, Mr. Harst.«
+»Ja. Ich bin Aufseher, Mr. Harst.«
 
 <@pagebreak/>
 »Sie wissen also, wer wir sind?«
 
-»Ja. Grad sagte es uns.«
+»Ja. Crack sagte es uns.«
 
 »Sind noch mehr von euch draußen?«
 
 »Nein, bestimmt nicht. Wir waren nur sechs hier
 auf der Station, aber Frauen und Kinder sind noch dort.«
 
-»Weit von hier«
+»Weit von hier?«
 
 »Zwei Meilen das flache Tal empor.«
 
-»Graf hat euch telephonisch herbeigerufen?«
+»Crack hat euch telephonisch herbeigerufen?«
 
 Der Mann erschrak.
 
-… Ja.
+"… Ja ..."
 
-»Sie sehen, wir wissen alles. Wenn Sie lügen, letzte«,
-Sie den anderen fünf im Wasser Gesellschaft. — Allzu 2:.:
-Telephonanschluß zwischen Nuklukahjet und hier vorhin?:-.7
-—» oder zwischen diesem Bach und Ihrer Studiert«
+»Sie sehen, wir wissen alles. Wenn Sie lügen, leisten
+Sie den anderen fünf im Wasser Gesellschaft. — Ist ein
+Telephonanschluß zwischen Nuklukahjet und hier vorhanden
+— oder zwischen diesem Bach und Ihrer Station?«
 
-»Bis zur Station gibt es drei Anschlüsse, Mr. Hatz.
+»Bis zur Station gibt es drei Anschlüsse, Mr. Harst.
 Der erste …« — er zögerte …
 
 »In Rulats Hütte unweit Nuklukahjet,« ergänzte Harst.
 
 »Ja … Und dann der zweite in dem verlassenen Fort
-Mac Kinley, und der dritte in Mac Dormits Haus, da,
+Mac Kinley, und der dritte in Mac Dormits Haus, das
 drüben tausend Meter ostwärts im Walde liegt.«
 
-»Aha: Mac Dormit!! Nun ist alles geklärt. Kutter
-und Tische haben vom Fort aus Dormit angerufen. Dormit
-kam zu uns und wollte uns zur Umkehr bewegen. Er des
-nadzrichtigte dann telephonisch Old Crack, und …«
+»Aha: Mac Dormit!! Nun ist alles geklärt. Rulat
+und Ischko haben vom Fort aus Dormit angerufen. Dormit
+kam zu uns und wollte uns zur Umkehr bewegen. Er
+benachrichtigte dann telephonisch Old Crack, und …«
 
-»Rein, Mr. Harst, — so kann’s nicht gewesen sein,«
-verbesserte der Mann schnell. »Old Genick war gerade bei
-Dormit, als Rulat vom Fort aus anrief. Sonst hätte Crack’
-nicht so schnell hier sein können. Bis zur Hauptfarm!t.
-es noch eine Varietee.«
+»Nein, Mr. Harst, — so kann’s nicht gewesen sein,«
+verbesserte der Mann schnell. »Old Crack war gerade bei
+Dormit, als Rulat vom Fort aus anrief. Sonst hätte Crack
+nicht so schnell hier sein können. Bis zur Hauptfarm ist
+es noch eine Tagereise.«
 
-»Nun gut, Chile sechs solltet uns umbringen …
+»Nun gut, -- ihr sechs solltet uns umbringen …"
 
-»Ja
+»Ja ..."
 
 »Wo ist Old Crack?«
 
-»Rat der Hauptfarm zurückgekehrt.«
-»Wie beißen Sie?«
+»Nach der Hauptfarm zurückgekehrt.«
+
+»Wie heißen Sie?«
 
 <@pagebreak/>
 »Sven Ohlsen, früher Norweger, Mr. Harst. Ich bin
 seit acht Jahren bei Crack. Wer erst einmal bei ihm,
 kommt nie wieder fort. Dafür sorgt er schon. Rulat und
 Ischko … sind tot … Ihre abgeschnittenen Köpfe stecken
-drüben im flachen Tale auf zwei Naturen Ästen einer abgestorbenen
-Kiefer.« Er wurde noch.) bleicher. Sein abstoßendes
-Gesicht verzerrte sich unheimlich. »Mr. Harst, 1), war ein
-anständiger Kerl, als ich hiervon Hain. Sieg verfluchte Land
+drüben im flachen Tale auf zwei kahlen Ästen einer abgestorbenen
+Kiefer.« Er wurde noch bleicher. Sein abstoßendes
+Gesicht verzerrte sich unheimlich. »Mr. Harst, ich war ein
+anständiger Kerl, als ich hierher kam. Dies verfluchte Land
 und dieser verfluchte Crack haben mich verdorben. Wenn
-Sie ahnten, Welt)Schacht der Stccyuft besitzt, würden Sie
-umkehren — bei Gott, tun Sie es!«
+Sie ahnten, welche Macht der Schuft besitzt, würden Sie
+umkehren — -- bei Gott, tun Sie es!«
 
-Harald winkte mir. »Gib ihm einen Schluck Whisky)
-und eine Zigarre. Beides wird ihm nicht schaden. Sie
-Kugel hat nicht mal den Knochen geljtreift, und der Talwand
-
-wird jede Eiterung verzinntem. Ja glaube, Ohlsen, an
+Harald winkte mir. »Gib ihm einen Schluck Whisky
+und eine Zigarre. Beides wird ihm nicht schaden. Die
+Kugel hat nicht mal den Knochen gestreift, und der Verband
+wird jede Eiterung verhüten. -- Ich glaube, Ohlsen, an
 Ihnen ist noch nicht alles schlecht. Wollen Sie uns begleiten?«
 
 »Zu Crack?«
@@ -1991,118 +1990,118 @@ Ihnen ist noch nicht alles schlecht. Wollen Sie uns begleiten?«
 »Ja«
 
 »Das ist sicherer Tod, — aber meinetwegen, ich habe
-vieles zu sühnen, an meinem Leben Ablegt nichts, aber nun
-dem Ihren, Minarett. Was Masten Sie eigentlich bei
-ihm? Er hat nur nur gesagt. zwei deutsche Detektive wollten
+vieles zu sühnen, an meinem Leben liegt nichts, aber an
+dem Ihren, Mr. Harst. Was wollen Sie eigentlich bei
+ihm? Er hat nur nur gesagt, zwei deutsche Detektive wollten
 uns alle ins Verderben stürzen.«
 
 »Wissen Sie nichts von Tom Warger?«
 
-»Natürlich. Crack ist 12 Samuel Wargers, des Multimillionärs,
+»Natürlich. Crack ist ist Samuel Wargers, des Multimillionärs,
 erbittertsten Feind.«
 
 »Ich meine etwas anderes. Tom ist doch Cracks Gefangener.«
 
-Sven Ohlsens Erstaunen war ehrlich). »Das ist mir
-neu. Über es kann schon sein
+Sven Ohlsens Erstaunen war ehrlich. »Das ist mir
+neu. Aber es kann schon sein."
 
-»und Ellen Barkam?Y«
+»und Ellen Barkam?«
 
-»Die ist bei Goa, das stimmt. Rulat und Tische
-brachten sie vor ein paar Tagen. 34) habe Miß Ellen selbst
+»Die ist bei Crack, das stimmt. Rulat und Ischko
+brachten sie vor ein paar Tagen. Ich habe Miß Ellen selbst
 <@pagebreak/>
 gesprochen. Sie machten auf meiner Station kurzen Halt.
-Ellen war sehr unglülich und weinte viel.«
+Ellen war sehr unglücklich und weinte viel.«
 
 »Wie — und Tom war nicht im zweiten Schlitten?!«
 
-Da schlug Ohlsen sich gegen die Stirn. »Doch so!! Dann
-war er das lange Bündel, das im zweiter: entglitten lag.
+Da schlug Ohlsen sich gegen die Stirn. »Ach so!! Dann
+war er das lange Bündel, das im zweiten Schlitten lag.
 Ich glaubte, es sei ein neuer Teppich.«
 
-Harald dachte eine Weile naß. »Ich werde Ihnen
-für alle Fälle noch? etwas Chinin geben, Ohlsen,« jagte
-er dann. »Wir müssen schlafen — unbedingt. Strom x:
-ich würden sonst sehr bald umkippen. Atlanta geh 4831 bittenden,
-finde ich.«
+Harald dachte eine Weile nach. »Ich werde Ihnen
+für alle Fälle noch etwas Chinin geben, Ohlsen,« sagte
+er dann. »Wir müssen schlafen — unbedingt. Schraut und
+ich würden sonst sehr bald umkippen. Alaska geht an die
+Nerven, finde ich.«
 
-Aber der Norweger schüttelte den Ruf, »Dr««-
-nicht, Mr. Harst. Wir müssen zur Station. I« sollte & .?
-Verkehr, wenn hier alles im klaren sel. Diese Meldung — .;
-schleunigst erfolgen, denn aussetzen der Station und —…
-Farm gibt es noch« drei Ansdzlussen, und Crack würde Sei«
-Verdacht Tropfen, wenn die Meldung zu lange auf sich war««:
-ließe. Auf meiner Station sind wir sicher. Den Frat’ch1
-verschweigen wir, was hier geschehen, und Sie beide erbleicht,
-meine Gefangenen. Fürchten Sie keine Hinterlist meines««
-jenseits. Ich; hatte zu Ihnen, ich hasse Crack wie den Saßnitz,
+Aber der Norweger schüttelte den Kopf. "Doch hier
+nicht, Mr. Harst. Wir müssen zur Station. Ich sollte Crack
+melden, wenn hier alles im klaren sei. Diese Meldung soll
+schleunigst erfolgen, denn zwischen der Station und der
+Farm gibt es noch drei Anschlüssen, und Crack würde Verdacht
+schöpfen, wenn die Meldung zu lange auf sich warten
+ließe. Auf meiner Station sind wir sicher. Den Frauen
+verschweigen wir, was hier geschehen, und Sie beide spielen
+meine Gefangenen. Fürchten Sie keine Hinterlist meinerseits.
+Ich halte zu Ihnen, ich hasse Crack wie den Satan,
 und ich werde Ihnen beweisen, daß ich …«
 
 »Ich vertraue Ihnen, Ohlsen. — Brechen wir auf.« —
 
 Als wir das flache Tal hinter uns hatten, kamen
-wir an der erste weite Krümmung des. Warmen Flusses.
-Auf einer Hochebene standen hast sieben Blockhäuser.
+wir an der erste weite Krümmung des Warmen Flusses.
+Auf einer Hochebene standen hier sieben Blockhäuser.
 
 Ohlsen hatte uns zum Schein die Hände gefesselt. Er
-verrät eine der Hütten, wir folgten ihm, begleitet von vier
-Stinkt-Indianerinnen, deren Männer jetzt vielleicht scharf:
-den Kinley abwärtsgschwammen. Ohlsen öffnete eine Geheimtür
+betrat eine der Hütten, wir folgten ihm, begleitet von vier
+Tlinkit-Indianerinnen, deren Männer jetzt vielleicht schon
+den Kinley abwärtsschwammen. Ohlsen öffnete eine Geheimtür
 in der Balkenwand, und hinter dieser Tür standen das
-Telephon und ein kleines Schnallten. Er rief die nächiteStation
-an und meldete, daß man uns beide gefangen
+Telephon und ein kleines Schnaltbrett. Er rief die nächste
+Station an und meldete, daß man uns beide gefangen
 <@pagebreak/>
 genommen habe und daß wir nach der Farm gebracht werden
-wurden.
+würden.
 
-Allein darauf fuhr er mit uns davon. Den Weibern
+Gleich darauf fuhr er mit uns davon. Den Weibern
 hatte er ein paar faustdicke Lügen versetzt. Sie ahnten nichts.
 
-<h2>3. Kapitel.</h2>
+<h2>4. Kapitel.</h2>
 
 Kaum hatten wir die Station außer Sicht, als Harald
-Ohlsen fragte, ob es glücklich von Cracks Felsenfestung
-in einem Tale vielleicht eine besonders große Höoltyle gebe,
+Ohlsen fragte, ob es südlich von Cracks Felsenfestung
+in einem Tale vielleicht eine besonders große Höhle gebe,
 
 Der Norweger bestätigte dies. »Sie meinen sicherlich
-das sogenannte weise Tal, Minarett, Dort befindet sich
+das sogenannte Heiße Tal, Mr. Harst. Dort befindet sich
 ein halb erloschener Vulkan, der durch seine unterirdische
 Hitze jeden Schnee wegschmilzt. An der Nordwand des Tales
-liegt die Höhle Man kann jedoch nicht hinein, da sie mit
-giftigen Gasen angefüllt ist Ein paar Eskimos von Crack,
+liegt die Höhle. Man kann jedoch nicht hinein, da sie mit
+giftigen Gasen angefüllt ist. Ein paar Eskimos von Crack,
 die mal aus Neugierde dort eindrangen, fand man erstickt
-am Eingangs auf.«
+am Eingange auf.«
 
-»Würden Sie uns angesehen nach dem Tale bringen
+»Würden Sie uns ungesehen nach dem Tale bringen
 können?«
 
-»Natürliche, Mr. Harst Technik aber?«
+»Natürlich, Mr. Harst. Weshalb aber?«
 
-»Das erkläre ich Ihnen an Art und Stelle.« — —
+»Das erkläre ich Ihnen an Ort und Stelle.« — —
 
-Wir hatten in einer nahen brüllte gerastet, volle acht
+Wir hatten in einer nahen Hütte gerastet, volle acht
 Stunden. Als wir diese leere Schäferhütte verließen, war
-mindestens zwanzig Zentimeter Steuer gefallen. Unsere
-Fährte war also zugedeckt, und da es noch immer kühnste,
-dursten wir hoffen, Satz selbst Crack nicht vorzeitig die
-Wahrheit erfahren würde Wenn wir nicht auf der Farm
+mindestens zwanzig Zentimeter Schnee gefallen. Unsere
+Fährte war also zugedeckt, und da es noch immer schneite,
+durften wir hoffen, daß selbst Crack nicht vorzeitig die
+Wahrheit erfahren würde. Wenn wir nicht auf der Farm
 eintrafen, mußte er annehmen, wir seien unterwegs umgekommen,
 
 Neun Stunden später stiegen wir in finsterer Nacht in
 das Heiße Tal hinab, ließen die Hunde dort angekoppelt
 <@pagebreak/>
 zurück, ebenso die Schlitten in einem guten Versteck, nahmen
-nur meinen Freund Buruwat mit zum Höhleneingang noch
-oben und zündeten die Laterne an. Der Eingang war kg
-mächtiges, zackiges Felsentor Ohlsen blieb vorsichtig zurück,
+nur meinen Freund Buruwat mit zum Höhleneingang nach
+oben und zündeten die Laterne an. Der Eingang war ein
+mächtiges, zackiges Felsentor. Ohlsen blieb vorsichtig zurück,
 aber Harald lachte und rief ihm zu, die Geschichte von
-den Oststaaten sei Schulter Er nahm dann Ellens Spitzentüchlein
-aus der Tasche und bereit es Buruwat unter die
-Nase, drückte ihm den Kopf auf den Boden und sagte;
-»Such’, Buruwat, euch mein guter Such’«
+den Giftgasen sei Schwindel. Er nahm dann Ellens Spitzentüchlein
+aus der Tasche und hielt es Buruwat unter die
+Nase, drückte ihm den Kopf auf den Boden und sagte:
+»Such’, Buruwat, such mein guter Hund!«
 
-Ohlsen war sprachlos. als Buruwat an seinem langen
-Lederriemen sofort vorwärtsschob.
+Ohlsen war sprachlos, als Buruwat an seinem langen
+Lederriemen sofort vorwärtsschoß.
 
 »Sie sehen, Ellen war hier,« lächelte Harald. »Ich
 habe Hier in der Tasche eine Zeichnung, auf der in blauer
@@ -2113,85 +2112,85 @@ Hilfsmittel, die Crack benutzt, um allgegenwärtig zu sein.
 
 »Nein, niemals. Er bleibt nur oft viele Wochen in
 seinem Hause, und dann bekommt ihn nur sein Diener
-zu seinen.«
+zu sehen.«
 
-Wir eilten hinter dem Hunde drein. Harst meinte i&ronisch:
-»Der Diener bekommt ihn dann zu nicht zu sehen,
-denn Crack ist dann eben aufwärts, bester Ohlsen. —
+Wir eilten hinter dem Hunde drein. Harst meinte ironisch:
+»Der Diener bekommt ihn dann auch nicht zu sehen,
+denn Crack ist dann eben auswärts, bester Ohlsen. —
 Was ist das für ein Mann, der Diener?«
 
 »Oh, ein alter brummiger Engländer namens Charlie
-Märchen … eine Bestie, genau!so schlimm wie Goa,
-Überhaupt, man begreift nicht. daß Miß Ellen mit diesen
-Ehegatten zusammen dort hausen kann. Sie ist ein nettes
+Maxson … eine Bestie, genauso schlimm wie Crack.
+Überhaupt, man begreift nicht, daß Miß Ellen mit diesen
+Schuften zusammen dort hausen kann. Sie ist ein nettes
 Mädel, wirklich, und alles, was Mac Dormit über sie
 erzählte, ist Lüge. Sie war stets nur der gute Engel in
 dieser Hölle, und …«
 
 »Es gibt keinen Mac Dormit,« sagte Harald da.
 
-Ohlsen blieb stehen »Nanu!« Er lachte leise.
+Ohlsen blieb stehen »Nanu?!« Er lachte leise.
 
-»Rudern, Ohlsen, Mac Dormit ist nur Crack in einer
+»Nein, Ohlsen, Mac Dormit ist nur Crack in einer
 <@pagebreak/>
-Verkleidung, in einer seiner vielen Vollen und Masken.«
+Verkleidung, in einer seiner vielen Rollen und Masken.«
+
 Der Norweger schritt nachdenklich weiter. »Hm, wenn
-1icO’s mir jetzt so alles bedenke, Mr. Harst: Sie werden
-doch leicht haben, denn Dormit war nie in seiner stützte
+ich’s mir jetzt so alles bedenke, Mr. Harst: Sie werden
+doch recht haben, denn Dormit war nie in seiner Hütte
 anzutreffen, nie. Das fiel mir schon lange auf. Nur — —
-Grad ist uralt, und Dormit ist vielleicht vierzig …«
+Crack ist uralt, und Dormit ist vielleicht vierzig …«
 
 »Allerdings, älter kaum.«
 
-Au!; ich; war verblüfft. Ich sollte noch weit kopfscheuer
-schweren, denn Harald fügte hinzu: »Es gibt überhaupt keinen
-Ei: Grad, richtig genommen. In einer Stunde werden Sie
-ins begreifen, Alten.«
+Auch ich war verblüfft. Ich sollte noch weit kopfscheuer
+werden, denn Harald fügte hinzu: »Es gibt überhaupt keinen
+Old Crack, richtig genommen. In einer Stunde werden Sie
+das begreifen, Olsen.«
 
 Das Höhlengebiet hier war von einer Ausdehnung und
-Schönheit, die mich geradezu begeisterte Es gab hier unsere
-die Seen, Flusse. Reiche, wundervolle Tropfsteingebüde
-— der die Stunde war längst um, und Buruwat lie] noch
-Nimmer li der Nase auf dem Bad. vor uns her. Hang
-langten wir in einer engen Seitenschlucht an eine hölzerne
-Treppe von vierzig Stufen und vor eine verschlossene 09 «-
-1«, Da kein Schlüssel steckte, hatte Harald sehr bald »Schoner,
+Schönheit, die mich geradezu begeisterte. Es gab hier unterirdische
+Seen, Flüsse, Teiche, wundervolle Tropfsteingebüde
+— Aber die Stunde war längst um, und Buruwat lief noch
+immer mit der Nase auf dem Boden vor uns her. Dann
+gelangten wir in einer engen Seitenschlucht an eine hölzerne
+Treppe von vierzig Stufen und vor eine verschlossene Holztür.
+Da kein Schlüssel steckte, hatte Harald sehr bald geöffnet.
 Wir kamen zu einer zweiten Treppe in einem aus
-weg Siegel ii gemauerten Schacht und vor eine zweite Ohr. +
-Für, Harald winkte uns, ganz still zu sein, und reicht’s
-3-1 nach mehreren Minuten schob er den Dietrich in das
-«»3i0ß, und wir standen nun in einem dunklen Zimmer,
-1: 2€n aber rechts durch eine halboffene Tür einen tchlSdzeln.
-Dort saß am Fenster in einem fast elegant
-zugerichteten Gemach ein Greis in einem Krankenstuhl
-und schlief. Aus dem Tische brannte eine große Petroleumsa;
-npe.
+Lehmziegeln gemauerten Schacht und vor eine zweite schwere
+Tür. Harald winkte uns, ganz still zu sein, und horchte.
+Erst nach mehreren Minuten schob er den Dietrich in das
+Schloß, und wir standen nun in einem dunklen Zimmer,
+sahen aber rechts durch eine halboffene Tür einen Lichtschein.
+Dort -- saß am Fenster in einem fast elegant
+eingerichteten Gemach ein Greis in einem Krankenstuhl
+und schlief. Auf dem Tische brannte eine große Petroleumlampe.
 
-»Old Grad,« flüsterte Ohlsen scheu.
+»Old Crack,« flüsterte Ohlsen scheu.
 
-— Harst, die Pistole in der Rechten, legte Crack die Hand
-uf die Theater Tal) die Flasche Whisky auf dem Servierte!
-tt, die nur noch sitzt voll war und deren andere Prallte
-Lade Wagen füllte, ließ den Kerl nur schläfrig die
+Harst, die Pistole in der Rechten, legte Crack die Hand
+auf die Schulter. Doch die Flasche Whisky auf dem Fensterbrett,
+die nur noch halb voll war und deren andere Hälfte
+Cracks Magen füllte, ließ den Kerl nur schläfrig die
 <@pagebreak/>
-Augen öffnen. Er brummte heiser: »Schien gut, Maxson …
-Ich liege hier genau so bequem wie im Fett Geben Sie
+Augen öffnen. Er brummte heiser: »Schon gut, Maxson …
+Ich liege hier genau so bequem wie im Bett. -- Gehen Sie
 schlafen.«
 
 Er schloß wieder die Augen.
 
 »Mr. Crack,« sagte Harst ihm ins Ohr und nicht
-eben leise, »ich bin’s Harald Sollt’«
+eben leise, »ich bin’s -- -- Harald Harst!!«
 
-Grad schnellte halb so). Seine aufgerissenen Augen
+Crack schnellte halb hoch. Seine aufgerissenen Augen
 quollen ihm beinahe aus dem Schädel
 
 »Bindet und knebelt ihn,« befahl Harald.
 
-Das war im Nu getan Wir mußten uns beeilen,
-wieder den Rückzug anzutreten, denn nach Rom Wagnisse
-wollen wir erst später suchen. Zunächst mußte Crack im
-Sichersten gebracht werden.
+Das war im Nu getan. Wir mußten uns beeilen,
+wieder den Rückzug anzutreten, denn nach Tom Warger
+wollten wir erst später suchen. Zunächst mußte Crack in
+Sicherheit gebracht werden.
 
 Doch es kam anders.
 
@@ -2199,72 +2198,71 @@ Plötzlich stand in der offenen Tür zum Nebenzimmer
 Ellen Barkam. Sie war geisterbleich. Sie stierte uns an und
 atmete dann tief auf und flog auf Harald zu
 
-»Gott sei Dank — die Rettung, die Erlösung!!«
+»Gott sei Dank -- — die Rettung, die Erlösung!!«
 jubelte sie und sank weinend in Harsts Arme
 
-Ich war einfach; wie vor den Kopf geschlagen.
+Ich war einfach wie vor den Kopf geschlagen.
 
 »Fliehen wir!« schluchzte Ellen … »Soeben ist draußen
-das Alarmsignal ertönt und um wenigen Minuten sind
-dreißig gut bewaffnete Fünfte und Eskimos hier Schnell
+das Alarmsignal ertönt und in wenigen Minuten sind
+dreißig gut bewaffnete Tlinkits und Eskimos hier. -- Schnell
+-- ich zeige Ihnen einen geheimen Weg — — durch
+eine Höhle … nur schnell ...«
 
-ich zeige Ihnen Omen geheimen Weg — — durch
-eine Höhle … nur Duell«
-
-Harald rate Goa. und wir liefen durchs die Geheimtür
-in den Schlaf, warfen die Tür hinter uns zu und
-hasteten weiter. Ellen war immer voran aber wir kannten
+Harald packte Crack, und wir liefen durch die Geheimtür
+in den Schacht, warfen die Tür hinter uns zu und
+hasteten weiter. Ellen war immer voran, aber wir kannten
 den Weg, und als wir nach einer wilden Jagd das Heiße
-Ja! erreichten, waren wir in Sicherheit Hier im Freien
-waren wir nicht zu überrumpeln Wir spannten die Hunde
+Tal erreichten, waren wir in Sicherheit. Hier im Freien
+waren wir nicht zu überrumpeln. Wir spannten die Hunde
 vor die Schlitten, und im Galopp ging’s nach Osten —
-bis zum Ufer des warmen eisfreien Lump, wo wir in
-einer Höhle, die Ellen uns zeigte, einen Eindecker vorhanden.
+bis zum Ufer des warmen eisfreien Turma, wo wir in
+einer Höhle, die Ellen uns zeigte, einen Eindecker vorfanden.
 
 <@pagebreak/>
 Vor der Höhle gab es eine weite ebene Fläche, eine vorzügliche
-Stockholm. Kaum hatten wir das Flugzeug jedoch
+Startbahn. Kaum hatten wir das Flugzeug jedoch
 ins Freie gerollt, als die eine Tragfläche wie von selbst
-hurhtknidte. Wir sahen, daß sie absichtlich beschädigt war
+durchknickte. Wir sahen, daß sie absichtlich beschädigt war
 
-»Baut ein Frost« sagte darfst. »Angeschwemmte Bäume
-gibt’s dort in der Bucht »eng. — Miß Ellen, wo ist
-Vom?«
+»Baut ein Floß« sagte Harst. »Angeschwemmte Bäume
+gibt’s dort in der Bucht genug. — Miß Ellen, wo ist
+Tom?«
 
 Sie schaute ihn verwundert an.
 
 »Tom ist entflohen … Wissen Sie das nicht, Mister
 Harst?«
 
-»and das ist die Wahrheit?«
+»Und das ist die Wahrheit?«
 
 »Ich liebe Tom, Mr. Harst. Ich habe ihm ja zur
-Flur! verholfen. Er muß längst in Dawson City bei
-einem Vater sein.«
+Flucht verholfen. Er muß längst in Dawson City bei
+seinem Vater sein.«
 
 »Mit den Verspannungsdrähten des Eindeckers banden
-ir die Baumstämme zusammen. Das Flugzeug wurde
+wir die Baumstämme zusammen. Das Flugzeug wurde
 dann auf das Floß gerollt und befestigt. Der Motor und der
-»Propeller sollten unserem Fahrzeug größere Geschwindigkeit
-2:«den. Wir schritten uns ein. Nur Buruwat durfte mit.
-Tor? stiegen vom Ufer ab. Leider versagte der Motor. Wir
-»Ritzen noch seine zweihundert Meter zurückgelegt, als aus
+Propeller sollten unserem Fahrzeug größere Geschwindigkeit
+geben. Wir schifften uns ein. Nur Buruwat durfte mit.
+Wir stießen vom Ufer ab. Leider versagte der Motor. Wir
+hatten noch keine zweihundert Meter zurückgelegt, als aus
 den Uferbüschen Schüsse knallten. Wir warfen uns nieder,
 nur der arme Ohlsen taumelte mit einem Kopfschuß ins
-»Wasser und tauchte nicht wieder auf. Dank der reißenden
-Ordnung kamen wir rasch vorwärts und außer Tat) Ausweis,
+Wasser und tauchte nicht wieder auf. Dank der reißenden
+Strömung kamen wir rasch vorwärts und außer Schußweite,
 und achtzehn Stunden später konnten wir unweit
 einer kleinen Station der Bahn nach Dawson landen und
 den nächsten Zug bis dorthin benutzen.
 
 Allerdings: Inzwischen hatte sich herausgestellt, daß
 der Mann, den wir als Gefangenen mitgenommen, nicht
-Ort Crack war, sondern der meisterhaft als Old Crack
+Old Crack war, sondern der meisterhaft als Old Crack
 Herausgeputzte Diener Charlie Maxson.
 
 <@pagebreak/>
 
-<h2>8. Kapitel.</h2>
+<h2>5. Kapitel.</h2>
 
 Der amerikanische Polizeichef der Grenzstation hat?
 ans bis Dawson begleitet, Maxson war hier weil »ich:
@@ -2294,7 +2292,7 @@ geantwortet, Jetzt erklärte er mit größter Frechheit folgendes:
 Er wisse nichts von den Geheimnissen Old Cracks. Dieser
 habe ihn damals betrunken gemacht und in den Hongkong
 Stuhl gesetzt. Wenn er in seiner Betrunkenheit dann vor
-uns etwas hingeredet habe, als ob er Grad sei so könne
+uns etwas hingeredet habe, als ob er Crack sei so könne
 <@pagebreak/>
 man das nicht verübeln. Er sei eben ein Opfer der
 Schurkerei seines Herrn, dem er den Tod und die Holle
@@ -2328,7 +2326,7 @@ Herzschlag gestorben Ich bin sein Sohn (Er war verheiratet
 Hier sind seine Papiere. Prüfen Sie sie.« Die Urkunden
 betrunken, das Sohn Crack Tau Sollte 1761 Pirat »Branntwein
 mit einem Mädchen namens Anna Hinter die Ehe geschlossen
-hatte 1902 war ein Sohn geboren und John Goa gekauft
+hatte 1902 war ein Sohn geboren und John Crack gekauft
 worden. — Cracks Sohn, der nun als Old Crack maskiert
 vor mir stand, erklärte weiter »Mein Vater hat mich
 hergerufen. Daß er seit langem kränkelte, wissen Sie. Ich
@@ -2342,7 +2340,7 @@ Wunsch ist, daß 11 für ihn weiter als Old Crack auftrete.«
 Old Cracks Schrift und alles hatte seine Richtigkeit. So
 habe ich denn geholfen, diesen Betrug durchzuführen, der
 kein Betrug war, denn nur der Sohn John Wrack übernahm
-das Erbe des Vaters Old Grad. — Mehr weiß lieh
+das Erbe des Vaters Old Crack. — Mehr weiß lieh
 nicht. Es ist die Wahrheit.«
 
 Harald blickte Ellen an.
@@ -2374,7 +2372,7 @@ kennen Sie Joe Smith?«
 »Gewiß. Er kam etwa im Oktober verflossenen Jahres
 auf die Farm und tat ganz so, als ob er dort der Herr
 sei. Crack und er kannten sich wohl von früher der. Über
-Grad der Jüngere war durch den Besuch keineswegs entzückt.
+Crack der Jüngere war durch den Besuch keineswegs entzückt.
 Ich glaube, er wünschte Joe Smith in die Hölle. Dann
 reisen Joe und Miß Ellen eines Tages ab. Auch da
 stimmt.«
@@ -2440,7 +2438,7 @@ Aber der Mann, der den Old Crack gespielt hatte, war«
 In einem Geheimfach; des Sreibtiscpes Old Crack
 fand »zu!! ein Testament, das vor einem Notar in Nuklukahjet
 ausgesetzt war Dieses Testament des echten Old
-Grad, das bereits 1920 niedergeschrieben war, hatte der
+Crack, das bereits 1920 niedergeschrieben war, hatte der
 alte Sonderling ausgerechnet seinem Todfeind Samuel
 Warger zum Erben bestimmt und Ellen nur ein Legat vom
 einer halber Million Dollar vermacht.
@@ -2455,7 +2453,7 @@ Tagen herausgeben. Vielleicht tut’s der Verlag. Die folgenden
 drei Bände werden nämlich noch weit spannender
 ausfallen, und es wird sich zeigen, daß Haralds »phantastische
 Vermutung« den Nagel auf den Kopf getroffen hat.
-Eins will ich hier schon verraten: Der unechte Grad, der«
+Eins will ich hier schon verraten: Der unechte Crack, der«
 große Schwindler und brutale Mörder, war mit dabei,
 als Tom seine Ellen zum ersten Male vor so viel Zeugen.
 küßte — bei Polizeiinspektor Lyne in Dawson City,
