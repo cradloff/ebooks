@@ -1590,8 +1590,8 @@ wollen, als ich eintrat. So war die unglückliche Verwechslung
 zustande gekommen. —
 
 Es war jetzt sieben Uhr morgens. Unsere Müdigkeit und
-auch Harsts Zustand hätten verlangt, daß wir uns nieder-
-legten. Wir hatten während der letzten vierundzwanzig
+auch Harsts Zustand hätten verlangt, daß wir uns niederlegten.
+Wir hatten während der letzten vierundzwanzig
 Stunden kein Auge zugetan. Trotzdem drängte Harald Zum
 Aufbruch. Wir hatten nur zwei kleine Koffer mit, in die wir
 erst in Nuklukahjet doppelte Böden eingebaut hatten, unter
@@ -1700,8 +1700,8 @@ etwas gefunden?«
 »Was denn?«
 
 Er nahm eine Zigarette und einen glimmenden Ast und
-erwiderte: »Binde deinen Freund Buruwat dicht am Ein-
-Gang hier innen an. Er würde jeden Fremden wittern.
+erwiderte: »Binde deinen Freund Buruwat dicht am Eingang
+hier innen an. Er würde jeden Fremden wittern.
 Tu’s nur. Es eilt. Du hast dich hier vielleicht sehr sicher
 gefühlt. Leider muß ich dich enttäuschen. — Binde den
 Hund fest und gib ihm genügend Moos als Lager.«
@@ -1798,9 +1798,9 @@ auch der endlose Prozeß zwischen beiden und die Todfeindschaft
 »Das hängt mit unsrigen phantastischen Vermutung zusammen,
 mein Alter. — Ich werde jetzt schlafen. Nach vier
 Stunden weckst du mich. Dann wache ich. Sobald sich
-etwas regt, schieße ... Gute Nacht.«
+etwas regt, schieße … Gute Nacht.«
 
-Gute Nacht ... und er schlief. Aber es war nicht
+Gute Nacht … und er schlief. Aber es war nicht
 Nacht. Nein, es war jetzt daheim in Berlin heller Vormittag.
 Hier allerdings, wo das Polargebiet so unangenehm
 nahe, spürte man nichts von Sonne, Licht oder dergleichen.
@@ -1827,7 +1827,7 @@ hellrotes buntes Taschentuch.
 Ich band Buruwat seitwärts fest, lüftete mit meinem
 Büchsenlauf den Vorhang und hielt mich hinter der Barrikade.
 Kaum hatte ich die Puppe etwas vorgeschoben,
-als zwei Schüsse knallten -- von drüben her. Ich ließ
+als zwei Schüsse knallten — von drüben her. Ich ließ
 die Puppe nach hinten umsinken und den Vorhang fallen.
 
 Ein Blick nach dem Feuer. Harald war nicht erwacht
@@ -1837,7 +1837,7 @@ sollten Max Schraut kennen lernen. Wir hatten uns nicht
 umsonst in Südarabien mit Wüstenräubern und in der
 indischen Thar mit allerhand braunem Gesindel umhergetrieben.
 
-Ich besah mir meine Puppe. Schade -- der Pelzrock
+Ich besah mir meine Puppe. Schade — der Pelzrock
 hatte zwei Löcher bekommen, dicht neben den regulären
 Knopflöchern. Die Herrschaften zielten gut
 
@@ -1929,7 +1929,7 @@ auf der Station, aber Frauen und Kinder sind noch dort.«
 
 Der Mann erschrak.
 
-"… Ja ..."
+»… Ja …«
 
 »Sie sehen, wir wissen alles. Wenn Sie lügen, leisten
 Sie den anderen fünf im Wasser Gesellschaft. — Ist ein
@@ -1956,9 +1956,9 @@ Dormit, als Rulat vom Fort aus anrief. Sonst hätte Crack
 nicht so schnell hier sein können. Bis zur Hauptfarm ist
 es noch eine Tagereise.«
 
-»Nun gut, -- ihr sechs solltet uns umbringen …"
+»Nun gut, — ihr sechs solltet uns umbringen …«
 
-»Ja ..."
+»Ja …«
 
 »Wo ist Old Crack?«
 
@@ -1977,12 +1977,12 @@ Gesicht verzerrte sich unheimlich. »Mr. Harst, ich war ein
 anständiger Kerl, als ich hierher kam. Dies verfluchte Land
 und dieser verfluchte Crack haben mich verdorben. Wenn
 Sie ahnten, welche Macht der Schuft besitzt, würden Sie
-umkehren — -- bei Gott, tun Sie es!«
+umkehren — — bei Gott, tun Sie es!«
 
 Harald winkte mir. »Gib ihm einen Schluck Whisky
 und eine Zigarre. Beides wird ihm nicht schaden. Die
 Kugel hat nicht mal den Knochen gestreift, und der Verband
-wird jede Eiterung verhüten. -- Ich glaube, Ohlsen, an
+wird jede Eiterung verhüten. — Ich glaube, Ohlsen, an
 Ihnen ist noch nicht alles schlecht. Wollen Sie uns begleiten?«
 
 »Zu Crack?«
@@ -2003,7 +2003,7 @@ erbittertsten Feind.«
 »Ich meine etwas anderes. Tom ist doch Cracks Gefangener.«
 
 Sven Ohlsens Erstaunen war ehrlich. »Das ist mir
-neu. Aber es kann schon sein."
+neu. Aber es kann schon sein.«
 
 »und Ellen Barkam?«
 
@@ -2025,7 +2025,7 @@ er dann. »Wir müssen schlafen — unbedingt. Schraut und
 ich würden sonst sehr bald umkippen. Alaska geht an die
 Nerven, finde ich.«
 
-Aber der Norweger schüttelte den Kopf. "Doch hier
+Aber der Norweger schüttelte den Kopf. »Doch hier
 nicht, Mr. Harst. Wir müssen zur Station. Ich sollte Crack
 melden, wenn hier alles im klaren sei. Diese Meldung soll
 schleunigst erfolgen, denn zwischen der Station und der
@@ -2048,7 +2048,7 @@ betrat eine der Hütten, wir folgten ihm, begleitet von vier
 Tlinkit-Indianerinnen, deren Männer jetzt vielleicht schon
 den Kinley abwärtsschwammen. Ohlsen öffnete eine Geheimtür
 in der Balkenwand, und hinter dieser Tür standen das
-Telephon und ein kleines Schnaltbrett. Er rief die nächste
+Telephon und ein kleines Schaltbrett. Er rief die nächste
 Station an und meldete, daß man uns beide gefangen
 <@pagebreak/>
 genommen habe und daß wir nach der Farm gebracht werden
@@ -2098,7 +2098,7 @@ aber Harald lachte und rief ihm zu, die Geschichte von
 den Giftgasen sei Schwindel. Er nahm dann Ellens Spitzentüchlein
 aus der Tasche und hielt es Buruwat unter die
 Nase, drückte ihm den Kopf auf den Boden und sagte:
-»Such’, Buruwat, such mein guter Hund!«
+»Such’, Buruwat, such’ mein guter Hund!«
 
 Ohlsen war sprachlos, als Buruwat an seinem langen
 Lederriemen sofort vorwärtsschoß.
@@ -2146,11 +2146,11 @@ Crack ist uralt, und Dormit ist vielleicht vierzig …«
 Auch ich war verblüfft. Ich sollte noch weit kopfscheuer
 werden, denn Harald fügte hinzu: »Es gibt überhaupt keinen
 Old Crack, richtig genommen. In einer Stunde werden Sie
-das begreifen, Olsen.«
+das begreifen, Ohlsen.«
 
 Das Höhlengebiet hier war von einer Ausdehnung und
 Schönheit, die mich geradezu begeisterte. Es gab hier unterirdische
-Seen, Flüsse, Teiche, wundervolle Tropfsteingebüde
+Seen, Flüsse, Teiche, wundervolle Tropfsteingebilde
 — Aber die Stunde war längst um, und Buruwat lief noch
 immer mit der Nase auf dem Boden vor uns her. Dann
 gelangten wir in einer engen Seitenschlucht an eine hölzerne
@@ -2162,7 +2162,7 @@ Tür. Harald winkte uns, ganz still zu sein, und horchte.
 Erst nach mehreren Minuten schob er den Dietrich in das
 Schloß, und wir standen nun in einem dunklen Zimmer,
 sahen aber rechts durch eine halboffene Tür einen Lichtschein.
-Dort -- saß am Fenster in einem fast elegant
+Dort — saß am Fenster in einem fast elegant
 eingerichteten Gemach ein Greis in einem Krankenstuhl
 und schlief. Auf dem Tische brannte eine große Petroleumlampe.
 
@@ -2174,13 +2174,13 @@ die nur noch halb voll war und deren andere Hälfte
 Cracks Magen füllte, ließ den Kerl nur schläfrig die
 <@pagebreak/>
 Augen öffnen. Er brummte heiser: »Schon gut, Maxson …
-Ich liege hier genau so bequem wie im Bett. -- Gehen Sie
+Ich liege hier genau so bequem wie im Bett. — Gehen Sie
 schlafen.«
 
 Er schloß wieder die Augen.
 
 »Mr. Crack,« sagte Harst ihm ins Ohr und nicht
-eben leise, »ich bin’s -- -- Harald Harst!!«
+eben leise, »ich bin’s — — Harald Harst!!«
 
 Crack schnellte halb hoch. Seine aufgerissenen Augen
 quollen ihm beinahe aus dem Schädel
@@ -2198,16 +2198,16 @@ Plötzlich stand in der offenen Tür zum Nebenzimmer
 Ellen Barkam. Sie war geisterbleich. Sie stierte uns an und
 atmete dann tief auf und flog auf Harald zu
 
-»Gott sei Dank -- — die Rettung, die Erlösung!!«
+»Gott sei Dank — — die Rettung, die Erlösung!!«
 jubelte sie und sank weinend in Harsts Arme
 
 Ich war einfach wie vor den Kopf geschlagen.
 
 »Fliehen wir!« schluchzte Ellen … »Soeben ist draußen
 das Alarmsignal ertönt und in wenigen Minuten sind
-dreißig gut bewaffnete Tlinkits und Eskimos hier. -- Schnell
--- ich zeige Ihnen einen geheimen Weg — — durch
-eine Höhle … nur schnell ...«
+dreißig gut bewaffnete Tlinkit und Eskimos hier. — Schnell
+— ich zeige Ihnen einen geheimen Weg — — durch
+eine Höhle … nur schnell …«
 
 Harald packte Crack, und wir liefen durch die Geheimtür
 in den Schacht, warfen die Tür hinter uns zu und
