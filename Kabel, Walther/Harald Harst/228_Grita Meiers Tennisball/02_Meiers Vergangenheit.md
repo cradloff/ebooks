@@ -146,7 +146,7 @@ Und hierauf kommt es an.
 Harald suchte also eine andere bessere Marke. Er ließ
 den Apparat heulen, daß der Lautsprecher nur Zwischentöne,
 Pfeifen und jenes dumpfe Knacken mit dem die
-Übergezogene Rückkopplung einsetzt. — Breslau und Gleiwitz,
+übergezogene Rückkopplung einsetzt. — Breslau und Gleiwitz,
 die ja im Sommer abends wenig senden, schwiegen schon.
 Harst fand schließlich als nächsten Sender abermals Leipzig-Dresden,
 das jetzt überlagert mit Funkkabarett herankam.
@@ -338,7 +338,7 @@ So schufen wir in zwanzig Minuten unten an der Tür
 ein halbkreisförmiges Schlupfloch.
 
 Harald zog das herausgesägte Stück unschwer zu uns
-Herein, kroch durch das Loch, ließ sich eine Taschenlampe
+herein, kroch durch das Loch, ließ sich eine Taschenlampe
 geben, räumte draußen die Hindernisse beiseite und winkte
 mir.
 
@@ -400,7 +400,7 @@ kann sich jeder selbst denken.
 
 »Schließe die Türen ab, mein Alter … — — So …
 danke. Sollte einer der Herrschaften die Hände von der
-Tischplatte nehmen, schießt du. Du darfst getrost auf dem
+Tischplatte nehmen, schießt du. Du darfst getrost auf den
 edelsten Teil zielen, denn wir haben den Notwehrparagraph
 für uns.«
 
@@ -558,8 +558,8 @@ Das traf …
 
 »Unmöglich!« rief das kaltblütige Weib …
 
-»Doch! Als: Müller wohnt er dort. Ich habe ihn
-gesprochen — und Sie haben sich soeben verraten. Doris’
+»Doch! Als Müller wohnt er dort. Ich habe ihn
+gesprochen — und *Sie* haben sich soeben verraten. Doris’
 Vater kennen Sie auch!! — — Schraut, geh’ telephonieren …
 Rufe den Amtsrichter an … Oder besser erst den Landjäger
 von Schwarzbach …« —
@@ -615,7 +615,7 @@ gelangt. Er ist noch hier in der Gegend.«
 
 »Ja … Er hat doch fraglos erfahren, daß Schraut
 und ich verschwunden sind. Er wird sich daher sicherer fühlen,
-wird annehmen, wir können ihm nun vorläufig nicht mit
+wird annehmen, wir können ihn nun vorläufig nicht mit
 Fragen belästigen. Er wird nur das Quartier und sein
 Aussehen verändert haben. So, wie ich ihn auch bei sorgfältigerer
 Prüfung einschätze, dürfte er sein Kind rächen
@@ -937,7 +937,7 @@ Gleich darauf erschien auch der Amtsrichter.
 »Unglaublich,« rief er, als Harald ihm Winters Auftauchen
 in dem einsamen Hause an der Schlucht erzählte.
 »Nun, wir werden den Transport schon sichern … Ich
-schickte einfach zwei Landjäger auf Rädern voraus. Sie
+schicke einfach zwei Landjäger auf Rädern voraus. Sie
 nehmen Winter fest, und die Sache ist erledigt.«
 
 Harald nickte. »Dasselbe wollte ich Ihnen vorschlagen …
@@ -1008,7 +1008,7 @@ radelten weiter.
 
 Wir kamen näher.
 
-Der alte Mann da vorn mühte sich umsonst ab, daß Pferd
+Der alte Mann da vorn mühte sich umsonst ab, das Pferd
 wieder auf die Beine zu bringen. Er fluchte, schimpfte,
 schlug mit der Peitsche.
 
@@ -1145,7 +1145,7 @@ erschienen!
 Und doch war’s eine Blamage für uns.
 
 Kein Wunder, daß wir uns von den Landjägern die
-Räder liehen und Müllers Verfolgung selbst ausnahmen.
+Räder liehen und Müllers Verfolgung selbst aufnahmen.
 
 Was hierüber in den Zeitungen stand, stimmt: Die Radspur
 Müllers, die Harst nie aus dem Auge verlor, endete

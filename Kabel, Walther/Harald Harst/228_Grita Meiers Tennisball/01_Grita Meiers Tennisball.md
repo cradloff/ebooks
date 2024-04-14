@@ -69,7 +69,7 @@ weit voraus — dort oben am Nordende des hochgelegenen
 <@pagebreak/>
 Pintsch-Weges — in der kleinen Villa, in der wir vor zwei
 Jahren einen raffinierten Schwindler entlarvt hatten, — —
-und nachts weiter bei dem behaglichen, schiefergedeckten Häusel
+und noch weiter bei dem behaglichen, schiefergedeckten Häusel
 an der Dorfbachschlucht, in dem wir ein paar köstliche
 Wochen bei netten Wirtsleuten verlebten.
 
@@ -391,7 +391,7 @@ Dinge.
 Die Vernehmung der Gräsers ging schnell vorüber. Inzwischen
 hatte der Landjäger schon den dauernden einzigen
 Tennispartner der Toten ermittelt und herbeigebracht: Herrn
-Hugo Schniesel aus Berlin, Sohn von Schniesel & Konto.,
+Hugo Schniesel aus Berlin, Sohn von Schniesel & Komp.,
 Wäsche en gros.
 
 Das war der Fatzke.
@@ -713,7 +713,7 @@ Tochter. Sie mußten England verlassen, landeten in Bremen,
 trennten sich, trafen sich hier wieder, kannten einander nicht,
 verkehrten aus Vorsicht nur auf besondere Art miteinander.
 In Bremen bestellte Doris gleich die Ballsendungen, und Sie
-kleideten sie in Berlin ganz neu ein. Wenn ich in Berlin,
+kleideten sich in Berlin ganz neu ein. Wenn ich in Berlin,
 Kleine Hamburger Straße 2, anfragen würde, dürfte
 sich herausstellen, daß Erwin Müller längst tot ist. Seine
 Ausweispapiere haben Sie in Berlin gekauft, wo man
@@ -869,7 +869,7 @@ die Freiheit öffnen!«
 
 »Deutsche Beamte sind zumeist unbestechlich, Herr Müller.«
 
-»Sie drücken sich richtig aus: Zumeist!! — Ich, kenne
+»Sie drücken sich richtig aus: Zumeist!! — Ich kenne
 Deutschland, Herr Harst. Die unselige Inflationszeit, wo
 man das Beamtentum mit bedruckten Papierlappen überschüttete,
 haben die Ansprüche aller Kreise krankhaft gesteigert.
@@ -977,7 +977,7 @@ schon ganz einsam war. Vorhin hatte die Kirchenuhr halb elf
 geschlagen — drüben am Kretscham, im alten Teile von
 Flinsberg.
 
-Harald atmete ganz tief die vor immer drückend schwüle
+Harald atmete ganz tief die noch immer drückend schwüle
 Luft …
 
 »Mein Alter, das wird eine harte Nuß werden …«
@@ -1083,7 +1083,7 @@ Ich horchte …
 
 Ich hörte nur, wie er zuweilen ein Blatt des Buches
 umschlug, wie er seinem Etui eine neue Zigarette entnahm.
-Er saß hinter dem Tisch zwischen den weit überragenden,
+Er saß hinter dem Tisch zwischen den weit überragenden
 Koffern wie in einer Dunkelkammer.
 
 Ich lag aufgestützt da.
