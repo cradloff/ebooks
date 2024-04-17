@@ -152,7 +152,7 @@ Er erwiderte kurz: »Bedauere, das stimmt in keinem
 Punkte.«
 
 Zu weiteren Versuchen, mein Hirn übermäßig arbeiten
-zu lassen, fand ich keine Zeit mehr
+zu lassen, fand ich keine Zeit mehr.
 
 Das Fenster quietschte leise, und die eindringende eiskalte
 Luft und das Geräusch hastiger Atemzüge belehrte
@@ -168,19 +168,19 @@ und dieses wieder verriegelt.
 Eine verschleierte Frau im schwarzen Sealpelz war
 in einen Sessel gesunken und stierte uns zitternd an.
 
-»Licht!« sagte Harald,
+»Licht!« sagte Harald.
 
 Ich schaltete die Deckenbeleuchtung ein.
 
 »Bitte, — wer sind Sie?« fragte Harald und stand
-dicht vor der verstörten Fremden.«
+dicht vor der verstörten Fremden.
 
-Sie entgegnete nichts
+Sie entgegnete nichts.
 
 Sie begann zu weinen.
 
 Weibertränen sind die Waffe all derer, die Zeit gewinnen
-wollen, sind ein Schachzug
+wollen, sind ein Schachzug.
 
 Harst, sonst so sehr Gentleman, griff zu und hob mit
 einem Ruck Schleier und Hütchen von dem blonden Bubikopf.
@@ -218,7 +218,7 @@ Nagelfeile. Als er das Futter befühlte, zog er zwischen
 Futter und Leder noch einen Paß hervor und ein Stück
 Birkenrinde, das in Öl gekocht und mit einer Zeichnung
 versehen war. Die Alaska-Indianer pflegen sich auf diese
-Weise eine Art unverwüstliches Pergamentpapier herzustellen,
+Weise eine Art unverwüstliches Pergamentpapier herzustellen.
 
 Er las den Paß:
 
@@ -304,7 +304,7 @@ der Bibliothek. — Der Leser wird nun alles leichter verstehen.
 
 George Steffenson waren die Hände auf dem Rücken
 gefesselt und sein Gesicht war jetzt nicht braun, sondern
-aschfahl,
+aschfahl.
 
 Harald drückte ihn auf einen Polstersessel und sagte zu
 Ellen Barkam, die den Amerikaner entgeistert betrachtete:
@@ -316,7 +316,7 @@ Christbaum des Portiers angezündet, auch acht Lichte. Dann
 kletterten Sie durch das Fenster herein, Miß Barkam
 — wie heute hier, nur daß Sie sich heute irrten, — unser
 Baum brannte hier, und Sie glaubten, es wäre der
-andere. Sie hätten die Fenster sich besser einprägen sollen,«
+andere. Sie hätten die Fenster sich besser einprägen sollen.«
 
 <@pagebreak/>
 Also so hing das alles zusammen! Nie im Leben wäre
@@ -365,9 +365,9 @@ nämlich langsam mit seitlich geneigtem Kopf von seinem
 Stuhl. An der linken Schläfe zeigte sich ein blutiger kleiner
 Fleck. Wer Kopfschüsse kennt, wußte auch, daß George
 Steffenson erledigt war. Ich sprang zu, fing ihn auf
-und schleppte ihn auf den Diwan, das Rindenstuck
+und schleppte ihn auf den Diwan, das Rindenstück
 hatte ich jedoch blitzschnell in die Tasche gesteckt zu der
-Liliputpistole
+Liliputpistole.
 
 Harst hatte das Feuer erstickt. Dicke würzige Qualmwolken
 schwebten unter der Decke. Erst nachher machte sich
@@ -510,10 +510,10 @@ zu bereits bekanntem … Vielleicht war’s ein Komplice
 Steffensons.
 
 <@pagebreak/>
-um halb eins brach das Pärchen auf. In der Parkstraße
+Um halb eins brach das Pärchen auf. In der Parkstraße
 unweit unserer Villa verabschiedete sich der patente
 Herr, der einen kostbaren Sportpelz trug und dessen Anzug
-auch nicht »von der Stange« gekauft war,
+auch nicht »von der Stange« gekauft war.
 
 Harst und ich trennten uns. Harald eilte voraus, und
 gerade unter einer Laterne in der Heydenstraße hatten wir
@@ -525,7 +525,7 @@ Wein trinken? Ich hätte Sie einiges zu fragen.«
 
 Dabei hielt er ihm ganz eindeutig die Clementpistole
 unter die Nase und ich legte ihm die Hand schwer auf
-die Schultern,
+die Schultern.
 
 Der Gentleman, der offenbar sofort nach dem Abschied
 von Anna das ihm gewohnte Monokel, mit dem er sich
@@ -647,11 +647,11 @@ er habe ihr verschiedentlich Geld geschenkt und sie sei sich
 nicht bewußt gewesen, etwas Unrechtes zu tun.
 
 »Und als Steffenson dann hier bei Matschke als Gast
-erschien?!« sagte Harald streng,
+erschien?!« sagte Harald streng.
 
 <@pagebreak/>
 »Mein lieber Himmel, — er brachte Matschke doch
-Geld mit,« meinte sie arglos,
+Geld mit,« meinte sie arglos.
 
 »Heute haben Sie dann einen anderen Amerikaner
 kennengelernt, Anna. Was wollte der von Ihnen?«
@@ -694,7 +694,7 @@ eindrucksvoll abstach.
 
 Harald blickte ihn prüfend an. Dann reichte er ihm die
 Hand. »Mr. Warger, betrachten Sie uns fernerhin als
-Ihre Verbündeten. ich ahne hier einen dunklen schweren
+Ihre Verbündeten. Ich ahne hier einen dunklen schweren
 Liebesroman. — Setzen Sie sich. Wer ist Ellen?«
 
 <@pagebreak/>
@@ -705,7 +705,7 @@ Er haust da auf seiner Renntierfarm auf einem
 entlegenen Hochplateau der südlichen Tanana-Berge inmitten
 einer Horde ihm treu ergebener Eskimos. Ihm gehört ein
 Gebiet, das so groß ist wie vielleicht ein Achtel Deutschlands,
-und — — alles Übrige über ihn fällt unter die
+und — — alles übrige über ihn fällt unter die
 Bezeichnung »soll«. Er soll neunzig Jahre alt sein, dazu
 unermeßlich reich, soll verschiedene Mordanschläge gegen
 meinen Vater veranlaßt haben, weil dieser ihm einen Teil
@@ -713,7 +713,7 @@ jener Riesenfarm streitig machte … soll … soll! Ich
 habe ihn nie gesehen. Er kommt nie nach Dawson City,
 er …«
 
-»und Ellen Barkam?«
+»Und Ellen Barkam?«
 
 »Oh, er hat sie als kleines Kind halb erfroren neben
 den Leichen ihrer Eltern aufgefunden, er ließ sie in San
@@ -766,7 +766,7 @@ dem Pensionat.«
 
 Wir fuhren. Der Pförtner des feudalen Fremdenheims
 erklärte uns, Miß Barkam sei vor drei Stunden abgereist.
-Sie habe nur einen kleinen Koffer mitgenommen,
+Sie habe nur einen kleinen Koffer mitgenommen.
 
 Harst befahl darauf dem Chauffeur: »Flughafen Tempelhof!«
 
@@ -775,7 +775,7 @@ daß Ellen mit einem eigens gemieteten Flugzeug nach Hamburg
 unterwegs sei.
 
 Harald sagte da: »Wir müssen die Polizei benachrichtigen.
-Es geht nicht anders,«
+Es geht nicht anders.«
 
 <@pagebreak/>
 Vom Präsidium aus wurde der Hamburger Flugplatz
@@ -793,8 +793,8 @@ immer keine Spur von Ellen Barkam zu finden. Inzwischen
 hatte Tom Warger bei uns in der Parkstraße Quartier
 bezogen. Der arme Bursche war kein angenehmer Gast,
 denn er quälte uns andauernd, ihn nach Dawson zu begleiten
-und aufzuklären, weshalb Ellen Eigentlich in so
-verdächtiger Weise bei uns eingedrungen sei,
+und aufzuklären, weshalb Ellen eigentlich in so
+verdächtiger Weise bei uns eingedrungen sei.
 
 Eine Reise nach Dawson ist nun kein Katzensprung.
 Harald hoffte noch immer, man würde Ellen erwischen,
@@ -852,7 +852,7 @@ Harst dankte Lücke und sagte zu uns:
 
 »Sie ist’s! Ich kann euch nun ja auch mitteilen, daß
 ich gefürchtet habe, Ellen sei in Bremen von dem Krüppel
-beseitigt worden. — Morgen reisen wir«
+beseitigt worden. — Morgen reisen wir.«
 
 »Gott sei Dank!« rief Tom, und dann studierten wir
 die Schiffsfahrpläne.
@@ -921,7 +921,7 @@ zu wählen.
 Wäre ich Reiseschriftsteller, so könnte ich hier dem
 Leser manch’ ergötzliche Geschichtchen über Winterfahrten in
 Alaska berichten. Ich muß mich jedoch auf das beschränken,
-was unbedingt mit zum Thema gehört
+was unbedingt mit zum Thema gehört.
 
 Wieder waren zehn Tage dahin, und das eingeschneite
 und eingefrorene Städtchen Nuklukahjet erlebte eine seltene
@@ -944,7 +944,7 @@ Tageslicht gerade genügte dreißig Schritt weit zu sehen,
 sausten wir in unseren Schlitten davon. Zu Ehren unseres
 Wagnisses brannte man Feuerwerk ab, und ein Dutzend
 anderer Schlitten gab uns noch eine Stunde das Geleit,
-Bis ein heftiges Schneetreiben begann und die Herrschaften
+bis ein heftiges Schneetreiben begann und die Herrschaften
 schleunigst umkehrten.
 
 Rulat und Ischko, unsere Eskimos, die leidlich englisch
@@ -971,7 +971,7 @@ Tropfen Europäerblut, und was er erzählte, ward durch
 Haralds eingestreute Fragen unmerklich immer wieder auf
 Renntierfarmen gelenkt und schließlich auch auf Mr. Samuel
 <@pagebreak/>
-Warger aus Dawson City und seinen Todfeind Old Crack,
+Warger aus Dawson City und seinen Todfeind Old Crack.
 
 Bisher hatten wir auch in Nuklukahjet sorgfältig vermieden,
 gerade diesen Namen auch nur zu erwähnen. Unsere
@@ -995,8 +995,8 @@ Fabelhaft, wie Harst so hartgesotten schwindeln kann!
 
 Aber hier machte das einen unerwarteten Eindruck.
 Rulat und Ischko begannen in ihrer Sprache miteinander
-sehr erregt zu palawern, und dabei warfen sie uns wer?
-würdige Blicke zu, vergaßen sogar den Schnaps und die
+sehr erregt zu palawern, und dabei warfen sie uns merkwürdige
+Blicke zu, vergaßen sogar den Schnaps und die
 Zigarre und ereiferten sich immer mehr. Wir verstanden
 kein Wort. Die neben uns liegenden Hunde auch nicht. Es
 war sehr ungemütlich. Dann erklärte Rulat:
@@ -1010,7 +1010,7 @@ kostet es, eure Angst zu bannen. Genügen hundert Dollar
 für jeden?«
 
 Rulat sagte und hob die Hand wie zum Schwur: »Herr,
-nicht für tausend,«
+nicht für tausend.«
 
 »So … so … — Wißt ihr auch, daß Samuel Warger
 seinen Prozeß um einen Teil der Farm Old Cracks
@@ -1046,14 +1046,14 @@ dann werden sie reden.«
 
 Er tat’s. Für die Eskimojäger war das ein kleines
 Vermögen. Sie grinsten zufrieden, und die Vereinbarung
-wurde durch Handschlag besiegelt,
+wurde durch Handschlag besiegelt.
 
 <@pagebreak/>
 
 <h2>5. Kapitel.</h2>
 
 Inzwischen war unser Essen fertig geworden. Während
-der Mahlzeit fragte Harald, ob Old Crack verheiratet sei,
+der Mahlzeit fragte Harald, ob Old Crack verheiratet sei.
 
 Rulat lachte. »Herr, Old Crack ist seit zwei Jahren
 gelähmt und wird immer im Rollstuhl gefahren. Er war
@@ -1061,10 +1061,10 @@ nie verheiratet. Vielleicht ganz früher mal. Er ist hundert
 Jahre alt.«
 
 »Aber er soll doch eine Tochter haben, sagten die Herren
-auf dem Dampfer«
+auf dem Dampfer.«
 
 Rulat nickte. »Es ist nicht sein Kind, Herr. Er hat es
-gefunden Es ist gestorben.«
+gefunden. Es ist gestorben.«
 
 »Wann?«
 
@@ -1082,14 +1082,14 @@ Wir hatten aber angenommen, daß Ellen irgendwo an
 der amerikanischen Küste heimlich gelandet war.
 
 »Was machte sie denn in Europa?« forschte Harald
-weiter und kaute zähes Renntierfleisch,
+weiter und kaute zähes Renntierfleisch.
 
 Rulat tauschte wieder mit Ischko einen besonderen Blick
 aus und erwiderte:
 
 »Weiß nicht, Herr.«
 
-Er log ganz offenbar,
+Er log ganz offenbar.
 
 »Mein lieber Freund Rulat,« sagte Harst da und zog
 eine Fünfzigdollarnote hervor und hielt sie ihm hin, »vielleicht
@@ -1216,10 +1216,10 @@ auf. Du besinnst dich wohl auf Toms Schlangenring am
 kleinen Finger.«
 
 Dann hielt ich den Ring zwischen den Fingern. Ja,
-ich hatte darauf gesessen, und doch hatte Harst ihn entdeckt,
+ich hatte darauf gesessen, und doch hatte Harst ihn entdeckt.
 
 »Tom ist bei Crack als Gefangener,« erklärte ich. »Er
-Hat den Ring unter den Filz geschoben in der Hoffnung,
+hat den Ring unter den Filz geschoben in der Hoffnung,
 wir könnten ihn finden und so erraten, daß er bei seinem
 Eintreffen in Nuklukahjet abgefaßt und gefesselt weggeschleppt
 wurde — zu Old Crack. Er hat die Schlittenreise gemeinsam
@@ -1252,7 +1252,7 @@ die Idee kommt, euch in der Richtung zu irren und uns
 zu Old Crack vorauszueilen, werde ich beide Schlitten nehmen.
 Ich lasse euch eine Waffe zurück, ebenso genügend Proviant.
 Zu Fuß werdet ihr nicht wagen uns zu folgen, und
-tut ihr es doch, so bekommt ihr eine Kugel. — macht
+tut ihr es doch, so bekommt ihr eine Kugel. — Macht
 den zweiten Schlitten wieder fertig. Mein Freund und
 ich haben es eilig.«
 
@@ -1300,7 +1300,7 @@ muß ich genauer schildern.
 <h2>1. Kapitel.</h2>
 
 Die Höhle war niedrig, aber sehr tief, und der Eingang
-war durch Schnee So verweht gewesen, daß wir die
+war durch Schnee so verweht gewesen, daß wir die
 Grotte nie bemerkt hätten, wenn nicht eine deutliche breite
 Wildspur an einer Seite des Eingangs uns aufgefallen
 wäre. Ein Luchs hatte hier sein Quartier, und die Knochen
@@ -1312,7 +1312,7 @@ daß wir sofort gewußt hatten, wen wir hier aus quartierten.
 Während Harald eine Balsamtanne mit dem Beil fällte,
 und die Äste als Brennholz abschlug, schirrte ich die
 Hunde aus, ließ Ihnen aber die Halsriemen, da wir fürchten
-mußten, sie würden uns auskneifen
+mußten, sie würden uns auskneifen.
 
 Das Feuer brannte. Wir hatten die Hunde im tiefsten
 Winkel angebunden, für uns eine Steinmauer errichtet und
@@ -1330,9 +1330,9 @@ der Leithund meines Schlittens, mit dem ich mich sehr
 angefreundet hatte und der als einziger frei neben mir
 lag, plötzlich knurrte und emporsprang. Im Nu hatten
 <@pagebreak/>
-wir die Büchsen zur Hand,
+wir die Büchsen zur Hand.
 
-»Der Luchs!« flüsterte ich
+»Der Luchs!« flüsterte ich.
 
 Aber es war nur ein indianischer Fallensteller, ein
 Mischling, der nun bescheiden nähertrat und fragte, ob er
@@ -1340,9 +1340,9 @@ sich bei uns etwas erwärmen dürfe. Er trug seine Schneeschuhe
 in der Linken, in der Rechten eine Doppelbüchse
 und über dem Rücken fünf frische Sumpfotterfelle. Es war
 ein starker, großer Mann, dessen selbstgenähte Pelztracht
-mit bunten Perlen verziert war. Seine Müßte bestand aus
+mit bunten Perlen verziert war. Seine Mütze bestand aus
 einem Silberfuchs, und der Schweif hing ihm bis in den
-halben Rücken hinab,
+halben Rücken hinab.
 
 Er setzte sich und bekam sofort einen Becher Tee mit
 Whisky. Sein braunes, bartloses, fettiges Gesicht verriet
@@ -1375,7 +1375,7 @@ er es erfahren, daß ich den Bär geschossen hatte, weiß
 <@pagebreak/>
 ich nicht, aber — eins weiß ich: Crack erfährt alles, alles!
 Er muß überall seine Spione haben. Er ist gelähmt, ja,
-— aber In seinem Renntierschlitten legt er unglaubliche
+— aber in seinem Renntierschlitten legt er unglaubliche
 Strecken zurück, und stets hat er eine Leibgarde von zehn
 Kerlen bei sich, die sicherlich jeder schon zehn Leute ermordet
 haben.«
@@ -1556,7 +1556,7 @@ Ich krallte die Hände noch fester, ich grub die Nägel in
 seine Kehle ein, und endlich ward er schlapp und lag
 still. Trotzdem blieb ich mißtrauisch, riß ihm die Arme
 auf den Rücken und griff nach einem Riemen und fesselte
-ihn. Keuchend erhob ich mich,
+ihn. Keuchend erhob ich mich.
 
 Buruwat saß neben dem Feuer und schaute mich aus
 seinen großen braunen Augen merkwürdig an. Seine Teilnahmslosigkeit
@@ -1585,14 +1585,14 @@ maskierte Harald sich, was ich nachher auch tun sollte.
 Als er sich gerade die Nase fertig geschminkt hatte, war der
 Besitzer der Höhle, Herr Luchs, erschienen. Harald erschoß
 ihn und zog ihm den Pelzrock aus — mehr im Hintergrunde
-der Grotte. Er Hatte gerade das Jagdmesser säubern
+der Grotte. Er hatte gerade das Jagdmesser säubern
 wollen, als ich eintrat. So war die unglückliche Verwechslung
 zustande gekommen. —
 
 Es war jetzt sieben Uhr morgens. Unsere Müdigkeit und
 auch Harsts Zustand hätten verlangt, daß wir uns niederlegten.
 Wir hatten während der letzten vierundzwanzig
-Stunden kein Auge zugetan. Trotzdem drängte Harald Zum
+Stunden kein Auge zugetan. Trotzdem drängte Harald zum
 Aufbruch. Wir hatten nur zwei kleine Koffer mit, in die wir
 erst in Nuklukahjet doppelte Böden eingebaut hatten, unter
 denen wir so allerhand verbargen, was die Eskimos nicht
@@ -1635,13 +1635,13 @@ in der das Wasser noch meterweit stand und die einen
 ganz niederen Eingang hatte. Während ich meinen Schlitten
 innen absetzte und die Karbidlaterne anzündete, war Harald
 mit den Hunden noch draußen geblieben. Ich holte die
-Hunde Herein und auch Harsts Schlitten. Harald Selbst
-Erklärte mir, er wolle noch ein Stück bachaufwärts gehen.
+Hunde Herein und auch Harsts Schlitten. Harald selbst
+erklärte mir, er wolle noch ein Stück bachaufwärts gehen.
 Der Wasserfall, der durch einen ganz engen, kurzen Kanon
 abwärts stürzte, hatte hier den Bach zu einem weiten See
 aufgestaut, und die kahlen, felsigen Ufer, die erst weiterhin
 zwischen den Bäumen wieder eine Schneeschicht aufwiesen,
-hatten uns in dem lehmigen Niederschlug zahllose Spuren
+hatten uns in dem lehmigen Niederschlag zahllose Spuren
 von Renntieren gezeigt. Da das Renntier in Alaska erst
 eingeführt worden ist und wild nicht vorkommt, konnte
 es sich nur um verwilderte Tiere handeln, die sicherlich
@@ -1651,7 +1651,7 @@ Ich schleppte Moos herbei, Holz und einige angeschwemmte
 Stämme, ich verbarrikadierte den Höhleneingang
 <@pagebreak/>
 mit Steinen bis auf einen ganz schmalen Durchschlupf
-und zündete ein Riesenfeuer an,
+und zündete ein Riesenfeuer an.
 
 Harald kam zurück. Schweigend nahm er zwei Wolldecken
 und hing sie noch von innen vor die Barrikade
@@ -1664,14 +1664,14 @@ Haralds Gedanke, die Hunde laufen zu lassen und besser
 ein paar Renntiere einzufangen, war schon deshalb recht
 gut, weil unsere Maskerade uns nicht viel half, da die
 Hunde uns sofort verraten hätten, sie waren eben auf
-Cracks Farm zu bekannt
+Cracks Farm zu bekannt.
 
 Als wir nun Stiefel und Strümpfe am Feuer trockneten,
 sagte Harst plötzlich:
 
 »In dem Stausee liegt ein Telephonkabel.«
 
-»Was liegt da?« Ich glaubte mich verhört zu haben,
+»Was liegt da?« Ich glaubte mich verhört zu haben.
 
 »Ein gut isoliertes Kabel, das nach Nordost im Walde
 unter Moos und Steinen weiterläuft zu Crack natürlich.«
@@ -1726,7 +1726,7 @@ mich.
 
 »Crack?«
 
-»Wahrscheinlich«
+»Wahrscheinlich.«
 
 »Wo denn?«
 
@@ -1830,7 +1830,7 @@ Kaum hatte ich die Puppe etwas vorgeschoben,
 als zwei Schüsse knallten — von drüben her. Ich ließ
 die Puppe nach hinten umsinken und den Vorhang fallen.
 
-Ein Blick nach dem Feuer. Harald war nicht erwacht
+Ein Blick nach dem Feuer. Harald war nicht erwacht.
 
 Ich lächelte mordgierig. Die Schufte dort im Uferwalde
 sollten Max Schraut kennen lernen. Wir hatten uns nicht
@@ -1839,7 +1839,7 @@ indischen Thar mit allerhand braunem Gesindel umhergetrieben.
 
 Ich besah mir meine Puppe. Schade — der Pelzrock
 hatte zwei Löcher bekommen, dicht neben den regulären
-Knopflöchern. Die Herrschaften zielten gut
+Knopflöchern. Die Herrschaften zielten gut.
 
 Ich wartete. Ich spähte vorsichtig nach draußen. Die
 Renntiere waren in wilder Flucht auf und davon.
@@ -1853,19 +1853,19 @@ ein Loch in die linke Hand zu bekommen.
 
 Als die Puppe draußen halb im Wasser versank gab’s
 von drüben Schnellfeuer. Sechs Schüsse, dann noch drei. Ich
-Ließ meinen Strohmann gänzlich im Wasser versinken. Es
+ließ meinen Strohmann gänzlich im Wasser versinken. Es
 mußte den Eindruck machen, als ob auch der zweite von
 uns nun erledigt sei.
 
 Zehn Minuten passierte nichts. Dann tauchte flußaufwärts,
 also von links, ein langes Fellboot auf, in
-dem sechs Kerle knieten
+dem sechs Kerle knieten.
 
 Harald schlief. Er war zu erschöpft. Die Schüsse draußen
 hatten ihn auch diesmal nicht geweckt.
 
 <@pagebreak/>
-Die sechs In dem Boot hatten keine Ruder, sondern
+Die sechs in dem Boot hatten keine Ruder, sondern
 Stoßstangen, mit denen sie das Boot in der scharfen Strömung
 bremsten.
 
@@ -1987,7 +1987,7 @@ Ihnen ist noch nicht alles schlecht. Wollen Sie uns begleiten?«
 
 »Zu Crack?«
 
-»Ja«
+»Ja.«
 
 »Das ist sicherer Tod, — aber meinetwegen, ich habe
 vieles zu sühnen, an meinem Leben liegt nichts, aber an
@@ -2005,7 +2005,7 @@ erbittertsten Feind.«
 Sven Ohlsens Erstaunen war ehrlich. »Das ist mir
 neu. Aber es kann schon sein.«
 
-»und Ellen Barkam?«
+»Und Ellen Barkam?«
 
 »Die ist bei Crack, das stimmt. Rulat und Ischko
 brachten sie vor ein paar Tagen. Ich habe Miß Ellen selbst
@@ -2061,7 +2061,7 @@ hatte er ein paar faustdicke Lügen versetzt. Sie ahnten nichts.
 
 Kaum hatten wir die Station außer Sicht, als Harald
 Ohlsen fragte, ob es südlich von Cracks Felsenfestung
-in einem Tale vielleicht eine besonders große Höhle gebe,
+in einem Tale vielleicht eine besonders große Höhle gebe.
 
 Der Norweger bestätigte dies. »Sie meinen sicherlich
 das sogenannte Heiße Tal, Mr. Harst. Dort befindet sich
@@ -2085,7 +2085,7 @@ mindestens zwanzig Zentimeter Schnee gefallen. Unsere
 Fährte war also zugedeckt, und da es noch immer schneite,
 durften wir hoffen, daß selbst Crack nicht vorzeitig die
 Wahrheit erfahren würde. Wenn wir nicht auf der Farm
-eintrafen, mußte er annehmen, wir seien unterwegs umgekommen,
+eintrafen, mußte er annehmen, wir seien unterwegs umgekommen.
 
 Neun Stunden später stiegen wir in finsterer Nacht in
 das Heiße Tal hinab, ließen die Hunde dort angekoppelt
@@ -2104,7 +2104,7 @@ Ohlsen war sprachlos, als Buruwat an seinem langen
 Lederriemen sofort vorwärtsschoß.
 
 »Sie sehen, Ellen war hier,« lächelte Harald. »Ich
-habe Hier in der Tasche eine Zeichnung, auf der in blauer
+habe hier in der Tasche eine Zeichnung, auf der in blauer
 Farbe sich diese Höhle angedeutet findet. Sie dehnt sich
 bis zu Cracks Farm aus, und sie bildet eins der vielen
 Hilfsmittel, die Crack benutzt, um allgegenwärtig zu sein.
@@ -2150,7 +2150,7 @@ das begreifen, Ohlsen.«
 
 Das Höhlengebiet hier war von einer Ausdehnung und
 Schönheit, die mich geradezu begeisterte. Es gab hier unterirdische
-Seen, Flüsse, Teiche, wundervolle Tropfsteingebilde
+Seen, Flüsse, Teiche, wundervolle Tropfsteingebilde.
 — Aber die Stunde war längst um, und Buruwat lief noch
 immer mit der Nase auf dem Boden vor uns her. Dann
 gelangten wir in einer engen Seitenschlucht an eine hölzerne
@@ -2183,7 +2183,7 @@ Er schloß wieder die Augen.
 eben leise, »ich bin’s — — Harald Harst!!«
 
 Crack schnellte halb hoch. Seine aufgerissenen Augen
-quollen ihm beinahe aus dem Schädel
+quollen ihm beinahe aus dem Schädel.
 
 »Bindet und knebelt ihn,« befahl Harald.
 
@@ -2196,10 +2196,10 @@ Doch es kam anders.
 
 Plötzlich stand in der offenen Tür zum Nebenzimmer
 Ellen Barkam. Sie war geisterbleich. Sie stierte uns an und
-atmete dann tief auf und flog auf Harald zu
+atmete dann tief auf und flog auf Harald zu.
 
 »Gott sei Dank — — die Rettung, die Erlösung!!«
-jubelte sie und sank weinend in Harsts Arme
+jubelte sie und sank weinend in Harsts Arme.
 
 Ich war einfach wie vor den Kopf geschlagen.
 
@@ -2223,7 +2223,7 @@ einer Höhle, die Ellen uns zeigte, einen Eindecker vorfanden.
 Vor der Höhle gab es eine weite ebene Fläche, eine vorzügliche
 Startbahn. Kaum hatten wir das Flugzeug jedoch
 ins Freie gerollt, als die eine Tragfläche wie von selbst
-durchknickte. Wir sahen, daß sie absichtlich beschädigt war
+durchknickte. Wir sahen, daß sie absichtlich beschädigt war.
 
 »Baut ein Floß« sagte Harst. »Angeschwemmte Bäume
 gibt’s dort in der Bucht genug. — Miß Ellen, wo ist
@@ -2240,7 +2240,7 @@ Harst?«
 Flucht verholfen. Er muß längst in Dawson City bei
 seinem Vater sein.«
 
-»Mit den Verspannungsdrähten des Eindeckers banden
+Mit den Verspannungsdrähten des Eindeckers banden
 wir die Baumstämme zusammen. Das Flugzeug wurde
 dann auf das Floß gerollt und befestigt. Der Motor und der
 Propeller sollten unserem Fahrzeug größere Geschwindigkeit
@@ -2258,136 +2258,135 @@ den nächsten Zug bis dorthin benutzen.
 Allerdings: Inzwischen hatte sich herausgestellt, daß
 der Mann, den wir als Gefangenen mitgenommen, nicht
 Old Crack war, sondern der meisterhaft als Old Crack
-Herausgeputzte Diener Charlie Maxson.
+herausgeputzte Diener Charlie Maxson.
 
 <@pagebreak/>
 
 <h2>5. Kapitel.</h2>
 
-Der amerikanische Polizeichef der Grenzstation hat?
-ans bis Dawson begleitet, Maxson war hier weil »ich:
-offenbar im Einverständnis mit Crack gespendet: hatte, ins
-Gefängnis gestellt worden, und nachdem wir uns grüagtzZi:-
-ausgeschlafen hatten, fand am Vormittags im Zimmer
-Fanatischen Polizeiinspektors Mr. Lyne in Gegenwart Eltern,
+Der amerikanische Polizeichef der Grenzstation hatte
+uns bis Dawson begleitet, Maxson war hier weil er
+offenbar im Einverständnis mit Crack gehandelt hatte, ins
+Gefängnis gesteckt worden, und nachdem wir uns gründlich
+ausgeschlafen hatten, fand am Vormittag im Zimmer des
+kanadischen Polizeiinspektors Mr. Lyne in Gegenwart Ellens,
 Tom und Samuel Wargers Maxsons Vernehmung statt.
 
 Tom hatte Ellen nur durch eine Verbeugung begrüßt,
-Bewegung derb die Hände geschüttelt und uns dann seinen
+uns derb die Hände geschüttelt und uns dann seinem
 Vater vorgestellt, einen dicken, stattlichen Herrn mit grauem
-Spitzbart, Hornbrille und Glase,
+Spitzbart, Hornbrille und Glatze.
 
 Samuel Warger wird in den nächsten Bänden der
-Geschichten von Old Crack noch; eine bedeutsame Rolle
+Geschichten von Old Crack noch eine bedeutsame Rolle
 spielen.
 
-Er machte auf mich keinen Schlechter Eindruck, war
+Er machte auf mich keinen schlechten Eindruck, war
 sehr höflich, sehr gemessen, hatte tadellose Manieren und …
 schnitt nur Ellen vollständig. Sie war Luft für ihn.
 
-Maxson, jetzt ohne falsch)en Bart und Perücke, hatte
+Maxson, jetzt ohne falschen Bart und Perücke, hatte
 auf dem Floß und überhaupt bisher auf keine Frage
-geantwortet, Jetzt erklärte er mit größter Frechheit folgendes:
+geantwortet. Jetzt erklärte er mit größter Frechheit folgendes:
 
 Er wisse nichts von den Geheimnissen Old Cracks. Dieser
-habe ihn damals betrunken gemacht und in den Hongkong
-Stuhl gesetzt. Wenn er in seiner Betrunkenheit dann vor
+habe ihn damals betrunken gemacht und in den Krankenstuhl
+gesetzt. Wenn er in seiner Betrunkenheit dann vor
 uns etwas hingeredet habe, als ob er Crack sei so könne
 <@pagebreak/>
 man das nicht verübeln. Er sei eben ein Opfer der
-Schurkerei seines Herrn, dem er den Tod und die Holle
+Schurkerei seines Herrn, dem er den Tod und die Hölle
 wünsche.
 
-Wir alle waren starr über diese Kreischen. Aber Märchen
+Wir alle waren starr über diese Frechheit. Aber Maxson
 blieb bei seiner Behauptung, und nichts konnte ihn in die
 Enge treiben.
 
 Als Harst ihm vorhielt, Crack habe doch offenbar die
 Lähmung nur vorgetäuscht und sei ein jüngerer Mann und
-habe pures »Mac Dormit« gespielt, den es gar nicht jede,
+habe auch »Mac Dormit« gespielt, den es gar nicht gebe,
 nickte Maxson freimütig. »Ja, das ist alles richtig …«
 
 Harald wurde noch energischer.
 
 »Maxson, Sie räumen also ein gewußt zu haben, daß
-der Orte Old Crack längst tot ist und daß ein Schwindler
+der echte Old Crack längst tot ist und daß ein Schwindler
 seine Rolle übernahm. Wer ist dieser Gauner?«
 
 Unsere Gesichter wurden immer verblüffter.
 
-»ich weiß es nicht, Mr. Harst. Wirklich nicht. Die
-Sache kam so. Es mag fünf Jahre her sein, als icheincsä
+»Ich weiß es nicht, Mr. Harst. Wirklich nicht. Die
+Sache kam so. Es mag fünf Jahre her sein, als ich eines
 Morgens in meines Herrn Arbeitszimmer auf der Farm
-einen Mann vorfand, der äußerst) etwas Old Crack als
+einen Mann vorfand, der äußerlich etwas Old Crack glich.
 Der Mann hielt mir eine Pistole vor die Stirn und schob
-mich in Cracks Schlafzimmer. Dort lag der echt)je Crack
-tot im Bett Der Mann sagte »Märchen, Crack ist an
-Herzschlag gestorben Ich bin sein Sohn (Er war verheiratet
+mich in Cracks Schlafzimmer. Dort lag der echte Crack
+tot im Bett. Der Mann sagte: »Maxson, Crack ist an
+Herzschlag gestorben. Ich bin sein Sohn. Er war verheiratet.
 Hier sind seine Papiere. Prüfen Sie sie.« Die Urkunden
-betrunken, das Sohn Crack Tau Sollte 1761 Pirat »Branntwein
-mit einem Mädchen namens Anna Hinter die Ehe geschlossen
-hatte 1902 war ein Sohn geboren und John Crack gekauft
+bezeugten, daß John Crack im Jahre 1891 in San Franzisko
+mit einem Mädchen namens Anna Hilmer die Ehe geschlossen
+hatte. 1902 war ein Sohn geboren und John Crack getauft
 worden. — Cracks Sohn, der nun als Old Crack maskiert
-vor mir stand, erklärte weiter »Mein Vater hat mich
+vor mir stand, erklärte weiter: »Mein Vater hat mich
 hergerufen. Daß er seit langem kränkelte, wissen Sie. Ich
-habe mich seit Wochen heimlich hier in der Nähe ausgehalten,
-und im war jeden Tag mit meinem Vater zusammen.
+habe mich seit Wochen heimlich hier in der Nähe aufgehalten,
+und ich war jeden Tag mit meinem Vater zusammen.
 Hier hat er ein Schreiben aufgesetzt, daß es sein
-Wunsch ist, daß 11 für ihn weiter als Old Crack auftrete.«
-
+Wunsch ist, daß ich für ihn weiter als Old Crack auftrete.«
 <@pagebreak/>
-—» Ich las auch dieses Schreiben, Mr. Harst, und es war
+— Ich las auch dieses Schreiben, Mr. Harst, und es war
 Old Cracks Schrift und alles hatte seine Richtigkeit. So
 habe ich denn geholfen, diesen Betrug durchzuführen, der
-kein Betrug war, denn nur der Sohn John Wrack übernahm
-das Erbe des Vaters Old Crack. — Mehr weiß lieh
+kein Betrug war, denn nur der Sohn John Crack übernahm
+das Erbe des Vaters Old Crack. — Mehr weiß ich
 nicht. Es ist die Wahrheit.«
 
 Harald blickte Ellen an.
 
-»und was sagen Sie dazu, Miß Barkam?«
+»Und was sagen Sie dazu, Miß Barkam?«
 
-Ellen erwiderte ruhig: »Maxson mag recht haben. rechts
-fünf Jahren war ich ja im Pensionat in San Dja«.
-Als leide dann nach dreijähriger Abwesenheit nach der Janou9.
-Farm zurückkehrte, fand ich meinen Pflegev1i?! glich: +«
+Ellen erwiderte ruhig: »Maxson mag recht haben. Vor
+fünf Jahren war ich ja im Pensionat in San Franzisko.
+Als ich dann nach dreijähriger Abwesenheit nach der Tanana Farm
+zurückkehrte, fand ich meinen Pflegevater allerdings
 sehr verändert vor. Er mied mich fast ängstlich.«
 
-»and — weshalb fuhren Sie nach Berlin und he 14
-zu uns in die Villa in der Parkstraße in Dahlem«
+»Und — weshalb fuhren Sie nach Berlin und kamen
+zu uns in die Villa in der Parkstraße in Dahlem?«
 
-Sie errötete. Aber sie schaute Harald ehrlich an. »Lag
-will auch dies nun aufklären. Mein Pflegevater — i8
-glaubte ja, es sei vor immer der echte Old Crack —
-erzählte mir im November des vergangenen Jahres, des
+Sie errötete. Aber sie schaute Harald ehrlich an. »Ich
+will auch dies nun aufklären. Mein Pflegevater — ich
+glaubte ja, es sei noch immer der echte Old Crack —
+erzählte mir im November des vergangenen Jahres, daß
 Sie, Mr. Harst, von ihm Papiere besäßen, die ihm sehr
-gefährlich werden könnten. Er verlangte von mir, As
+gefährlich werden könnten. Er verlangte von mir, daß
 ich aus Dankbarkeit zusammen mit Joe Smith, seinem
 Freunde, den Versuch machen solle, Ihnen die Papiere zu
 stehlen, die Sie immer bei sich trügen.«
 
-»Halt — eine Zwischenfrage an Maxson. —« Maxson,
+»Halt — eine Zwischenfrage an Maxson. — Maxson,
 kennen Sie Joe Smith?«
 
 »Gewiß. Er kam etwa im Oktober verflossenen Jahres
 auf die Farm und tat ganz so, als ob er dort der Herr
-sei. Crack und er kannten sich wohl von früher der. Über
+sei. Crack und er kannten sich wohl von früher her. Aber
 Crack der Jüngere war durch den Besuch keineswegs entzückt.
 Ich glaube, er wünschte Joe Smith in die Hölle. Dann
-reisen Joe und Miß Ellen eines Tages ab. Auch da
+reisten Joe und Miß Ellen eines Tages ab. Auch das
 stimmt.«
 
 <@pagebreak/>
-Harald blinzelte Rom und mir zu und meinte: »Begreift
-ihr?! — Wenn nicht, wird euch gleich) ein Licht
+Harald blinzelte Tom und mir zu und meinte: »Begreift
+ihr?! — Wenn nicht, wird euch gleich ein Licht
 aufgehen. — Sagen Sie mal, Maxson, Crack der Sohn
 war wohl heimlich sehr oft und sehr lange abwesend?«
 
 »Ja. Manchmal Monate. Dann mußte ich so tun, als
 ob er krank sei und niemand sehen wolle. Diese Komödie
 war ja nicht schwer, da das Haus, das Old Crack bewohnte,
-auf dem einen steilen Felsen liegt und die anderen Je«.
-Gebäude auf dem zweiten, größeren und nur eine Holzbrücke
+auf dem einen steilen Felsen liegt und die anderen Gebäude
+auf dem zweiten, größeren und nur eine Holzbrücke
 beide Felsen verbindet. Crack konnte durch die Höhle jederzeit
 weg und auch wieder ungesehen zurückkehren.«
 
@@ -2396,34 +2395,34 @@ nicht erst kurz vor Ellen auf der Farm ein?«
 
 »Ja, Mr. Harst. Nur zwei Tage vor Ellen.«
 
-»Besaß er eine moderne Luftbüchse«
+»Besaß er eine moderne Luftbüchse?«
 
-»Auch das stammt. Und er hat sich mit ihr tadellos
+»Auch das stimmt. Und er hat sich mit ihr tadellos
 eingeschossen gehabt.«
 
 Harald wandte sich an Tom und mich. Wir saßen
-nebeneinander
+nebeneinander.
 
-»Nun ist die Geschichte klar Dieser Joe Etui
-war Crack unbequem, den Crack der Düngers wo« ein
-Schwindler und niemals Dich Cracks Sohn. All die Paß sie
+»Nun ist die Geschichte klar. — Dieser Joe Smith
+war Crack unbequem, denn Crack der Jüngere war ein
+Schwindler und niemals Old Cracks Sohn. All die Papiere
 hat er gefälscht gehabt, und das wußte Joe Smith. Um
-diesen zu ermorden. entwarf der Schwindler einen große zügigen
+diesen zu ermorden, entwarf der Schwindler einen großzügigen
 Plan und schickte Ellen und Joe unter einem
 Vorwand nach Berlin, reiste ihnen nach und erschoß Joe
 Smith in meiner Bibliothek, wollte auch Ellen erschießen,
-die ihm ebenso lästig war Er war also der Mann mit
-der Luftbüchse und dem verkrüppelten Fuß — sdxinbar
-verkrüppelten Fuß, Nachher ließ er Tom in Nuplukahjet abfangen
+die ihm ebenso lästig war. Er war also der Mann mit
+der Luftbüchse und dem verkrüppelten Fuß — scheinbar
+verkrüppelten Fuß. Nachher ließ er Tom in Nuklukahjet abfangen
 und nach der Farm bringen, wo Ellen Tom zur
 Flucht verhalf, — was Ihnen wohl schon bekannt ist, Mister
 Warger,« wandte er sich an Toms Vater … »Sie haben
 Ellen bisher für eine Verbrecherin gehalten. Sie ist nur
 <@pagebreak/>
-eine arme Betrogene, die aus Dankbarkeit gar nicht erledigt
-führende Papiere an sich bringen wollte«
+eine arme Betrogene, die aus Dankbarkeit gar nicht existierende
+Papiere an sich bringen wollte.«
 
-Warger sagte mit seinem dröhnenden Baß. »Miß Teilen,
+Warger sagte mit seinem dröhnenden Baß. »Miß Ellen,
 Sie sind mir als Schwiegertochter willkommen.« Das war
 alles.
 
@@ -2431,30 +2430,30 @@ Aber Tom und Ellen jauchzten fröhlich auf und flogen
 sich in die Arme. — —
 
 Eine Stunde später fuhren wir wieder gen Westen
-zur Tanana-Farm Wir hatten zwanzig Polizeibeamte mit.
-Aber der Mann, der den Old Crack gespielt hatte, war«
+zur Tanana-Farm. Wir hatten zwanzig Polizeibeamte mit.
+Aber der Mann, der den Old Crack gespielt hatte, war
 über alle Berge.
 
-In einem Geheimfach; des Sreibtiscpes Old Crack
-fand »zu!! ein Testament, das vor einem Notar in Nuklukahjet
-ausgesetzt war Dieses Testament des echten Old
+In einem Geheimfach des Schreibtisches Old Cracks
+fand Harst ein Testament, das vor einem Notar in Nuklukahjet
+aufgesetzt war. Dieses Testament des echten Old
 Crack, das bereits 1920 niedergeschrieben war, hatte der
 alte Sonderling ausgerechnet seinem Todfeind Samuel
-Warger zum Erben bestimmt und Ellen nur ein Legat vom
+Warger zum Erben bestimmt und Ellen nur ein Legat von
 einer halber Million Dollar vermacht.
 
-Diese zweifellos reichte und rechtsgültige Urkunde so!
+Diese zweifellos echte und rechtsgültige Urkunde soll
 die Überleitung zur zweiten Old Crack-Geschichte bilden, zu
-»Old Cracks wahres Gesicht«, denn Harald hakt
+»*Old Cracks wahres Gesicht*«, — denn Harald hat
 den Schwindler schließlich doch entdeckt! — Ich bin überzeugt,
 daß die Leser sehnlich wünschen, der Verlag möchte
-komm diese vier CrackUbenteuer in Abständen von acht
+doch diese vier Crack-Abenteuer in Abständen von acht
 Tagen herausgeben. Vielleicht tut’s der Verlag. Die folgenden
 drei Bände werden nämlich noch weit spannender
 ausfallen, und es wird sich zeigen, daß Haralds »phantastische
 Vermutung« den Nagel auf den Kopf getroffen hat.
-Eins will ich hier schon verraten: Der unechte Crack, der«
+Eins will ich hier schon verraten: Der unechte Crack, der
 große Schwindler und brutale Mörder, war mit dabei,
-als Tom seine Ellen zum ersten Male vor so viel Zeugen.
-küßte — bei Polizeiinspektor Lyne in Dawson City,
+als Tom seine Ellen zum ersten Male vor so viel Zeugen
+küßte — bei Polizeiinspektor Lyne in Dawson City.
 
