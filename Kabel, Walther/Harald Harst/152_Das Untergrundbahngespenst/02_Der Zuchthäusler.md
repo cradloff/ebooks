@@ -165,7 +165,7 @@ nicht …«
 
 »… Bemühen Sie sich nicht weiter, Baron … Ich
 bleibe bei meiner Überzeugung … Sie haben sehr geschickt
-Wahrheit und Dichtung vermischt — ohne Zweifel. Und
+Wahrheit und Dichtung gemischt — ohne Zweifel. Und
 doch stürzt Ihr ganzes Gebäude zusammen, wenn ich Ihnen
 etwas … vorhalte …«
 
@@ -248,7 +248,7 @@ geben Sie diesen Fall auf …!«
 
 <@pagebreak/>
 »Das kann ich nicht, Baron … Es handelt sich hier
-um Vorfälle, die in den Zeitungen bereits zu eingehend ermittelt
+um Vorfälle, die in den Zeitungen bereits zu eingehend erörtert
 sind. Und mein Name ist in den heutigen Morgenblättern
 auch schon genannt. Man weiß, daß ich mich mit
 diesen Verbrechen beschäftige. Außerdem geht es hier um
@@ -353,7 +353,7 @@ Berliner Holzfirma ausgegeben. Kein Wunder also, daß
 wir über Berliner Ereignisse sehr gut unterrichtet waren.
 
 »… Und der zweite Raub wurde an einer Baronin
-von Garlitt verübt …« erzählte Harald weiter. »Der
+von Garlitt verübt …,« erzählte Harald weiter. »Der
 Name erinnert hier an den Ihres Dorfes, meine Herren.«
 
 Da rief der Gemeindevorsteher auch schon:
@@ -369,7 +369,7 @@ Nun begann man Harald mit Fragen nach allerlei Einzelheiten
 zu bestürmen. Kein einziger der Herren des
 Stammtisches hielt eine Berliner Zeitung. Und so konnte
 Harst denn getrost Dinge erwähnen, die nicht in die Presse
-gelangt waren — so den Koch Pedersen und die Frau
+gelangt waren — so den Koch Pedersen und die Baronesse,
 die aus Not Musiklehrerin geworden …
 
 Anderseits ließen wir uns aber auch über den »alten«
@@ -405,7 +405,7 @@ meinem Studierstübchen noch einen Schluck Wein. Meine
 Frau ist verreist. Ich bin mit unserer alten Köchin allein,
 und die schläft längst …«
 
-So saßen wir denn nur zu dreien in dem schlichten
+So saßen wir denn nun zu dreien in dem schlichten
 Zimmer um ein rundes Tischen herum. Des Pastors
 selbstgekelterter Johannisbeerwein schmeckte tadellos …
 
@@ -439,7 +439,7 @@ seiner Zigarette nach …
 Bedienstete des alten Barons?« fragte er nach einer
 Weile …
 
-»Ja … — Peter Pedersens steinalte Mutter … Die
+»Ja … Peter Pedersens steinalte Mutter … Die
 Frau ist jetzt achtzig Jahre. Sie war im Schloß eine Art
 Faktotum … Jetzt haust sie allein in einer jämmerlichen
 Hütte unweit des Schloßparkes am Waldrande … Für
@@ -502,7 +502,7 @@ Alte schlicht … »Wenn die Herren sich setzen wollen …«
 Sie wies auf die Bank neben der Haustür …
 
 Wir nahmen Platz … Und welch ein wundervolles
-Plätzchen war das!! Ausblick ins Tal … links das
+Plätzchen war das!! Ausblick ins Tal … Links das
 Schloß, das Meer … Rechts Felder und Wiesen …
 Und all das umrahmt von alten Buchenwäldern …
 
@@ -829,7 +829,7 @@ Warnung und zielte …
 Ich selbst war noch viel zu verblüfft, um die Lage richtig
 überschauen zu können …
 
-Ich sah, daß die Baronesse ruhig davon wanderte …
+Ich sah, daß die Baronesse ruhig davonwanderte …
 Ich sah auf dem Motorboot noch zwei Japaner … Im
 ganzen waren es also zehn … Ich richtete mich völlig
 nach Harald. Der meinte nun achselzuckend:
@@ -841,7 +841,7 @@ gehandelt haben …«
 
 Und begleitet von sechs der jungen Kerlchen schritten
 wir zum Bache hinab. Die anderen zwei holten unsere
-Rucksäcke …
+Rucksäcke.
 
 Wir stiegen in das Motorboot, und gleich darauf
 sauste dieses mit uns und unseren Häschern in die See
@@ -949,7 +949,7 @@ ich doch durch die Geräusche einigermaßen kennen, die so
 nach und nach an mein Ohr drangen …
 
 Es konnte sich nur um eine enge Kammer aus Brettern
-handeln. Ich hörte die Brandung ganz deutlich rauschen. Ich
+handeln. Ich hörte die Brandung ganz deutlich rauschen … Ich
 hörte auch, sobald die Tür geöffnet wurde, das Kreischen
 von Möwen …
 
@@ -969,7 +969,7 @@ bereitgestellt hatte …
 Um uns standen fünf Japaner und bewachten jede
 unserer Bewegungen …
 
-Harst aß mit guten Appetit …
+Harst aß mit gutem Appetit …
 
 Unsere Wächter blieben stumm …
 
@@ -995,7 +995,7 @@ etwa zehn Uhr abends. —
 Und wieder wartete ich, was nun weiter erfolgen
 würde …
 
-Eine Stunde etwa nachts … Dann brachte man uns
+Eine Stunde etwa noch … Dann brachte man uns
 anderswohin …
 
 Vorsichtig waren die gelben Piraten … Hatten uns
@@ -1021,12 +1021,12 @@ Das Auto fuhr mit uns und unseren Wächtern davon.
 
 Stundenlang …
 
-Ich wurde müde … schief ein … Erwachte …
-schlief wieder ein …
+Ich wurde müde … schlief ein … Erwachte …
+Schlief wieder ein …
 
 Dann rüttelte mich jemand …
 
-Hände zerrten mich heraus — ich hörte Bäume rauschen
+Hände zerrten mich heraus — — ich hörte Bäume rauschen
 …
 
 Die Decke flog mir vom Kopf …
@@ -1145,7 +1145,7 @@ Augen halb geschlossen …
 Ich sinne über eine Bemerkung von ihm nach, die
 mir aufgefallen ist — vorhin, draußen am Zaune …
 
-»In vier Stunden bis Berlin …« hat er gesagt …
+»In vier Stunden bis Berlin …,« hat er gesagt …
 
 Ich frage daher: »Wo, glaubst Du, waren wir in
 jener Bretterbude all die Stunden eingesperrt?«
@@ -1191,7 +1191,7 @@ Und brach mitten im Satze ab …
 
 Legte die Zigarette weg …
 
-Rief leise: »Donnerwetter, daß ich auch nicht vorher
+Rief leise: »Donnerwetter, daß ich auch nicht früher
 <@pagebreak/>
 daran gedacht habe!! Natürlich — — es ist die einfachste
 Erklärung!«
@@ -1227,6 +1227,8 @@ Mann …
 »Sie wünschen?«
 
 »Herr Harst …?«
+
+»Ja …«
 
 »Mein Name ist Schobert, Fritz Schobert, Gutsbesitzer.
 Ich bitte sehr um Entschuldigung, daß ich zu dieser Stunde
@@ -1325,7 +1327,7 @@ den Seinen, beging irgend ein schweres Verbrechen und
 wurde unter anderem Namen zu neunjähriger Zuchthausstrafe
 verurteilt …«
 
-Schobert stutzte … verbeugte sich dann … »Ich
+Schobert stutzte …, verbeugte sich dann … »Ich
 hätte beinahe vergessen, daß ich Harald Harst gegenübersitze
 … — Ja, Herr Harst, Ihre Kombinationen sind
 richtig. Graf Viktor, verzweifelt über den völligen wirtschaftlichen
@@ -1389,7 +1391,7 @@ Hilfe zu bitten, als Sie uns helfen sollen, den alten Baron
 in aller Stille in eine Heilanstalt zu bringen. Dieses Ärmsten
 krankhafter Haß und ebenso krankhafte Neigung zu verbrecherischem
 Tun könnte sich auch gegen seine Kinder richten,
-insbesondere gegen den Baron Gisbert, dem er für
+insbesondere gegen den Baron Gisbert, den er für
 den Verlust des Familiengutes verantwortlich macht, was
 geradezu unsinnig ist. — Wie gesagt — wir wissen nicht,
 wo der Bedauernswerte sich jetzt verborgen hält. Er arbeitet

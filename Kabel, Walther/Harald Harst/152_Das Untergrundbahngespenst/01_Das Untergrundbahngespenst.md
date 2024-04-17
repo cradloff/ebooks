@@ -7,7 +7,7 @@
 <h3>Die drei Beraubten.</h3>
 
 Er benutzte die dritte Wagenklasse. An diesem Vormittag
-des 11. Mai war der Zug wenig besetzt …
+des 11. Mai war der Zug wenig besetzt.
 
 Als ein Schaffner dann auf der Endstation Wilhelmplatz
 noch einen Fahrgast im Zuge bemerkte, der offenbar
@@ -63,7 +63,7 @@ Harst, der die Morgenzeitung studiert hatte, sagte zu
 seiner Mutter und mir:
 
 »Es ist nämlich, wie ich hier soeben gelesen habe, abermals
-auf der Untergrundbahn zwischen Gleisdreick und
+auf der Untergrundbahn zwischen Gleisdreieck und
 Wilhelmplatz ein Diebstahl verübt worden … Der Baronin
 von Garlitt sind Juwelen im Werte von hunderttausend
 Mark gestohlen. Und auch diese Dame wurde auf
@@ -89,7 +89,7 @@ für scherzhafte Zwischenbemerkungen noch sympathischer
 wirkte. Ein schmales, feines, verlebtes Gesicht …
 Kleidung mit einem Stich ins Geckenhafte …
 
-»Eine böse Geschichte, Herr Harst…« meinte er und
+»Eine böse Geschichte, Herr Harst …,« meinte er und
 ließ die Mundwinkel hängen … »Es war der ganze
 Wiechertsche Familienschmuck, den mein Schwiegervater mit
 Liebe und Verständnis gesammelt hatte — Kommerzienrat
@@ -105,7 +105,7 @@ der sie vier Tage zum Reinigen bei sich gehabt. Die
 Juwelen waren in ein Saffiankästchen eingeschlossen und
 dies in Papier gehüllt. Station Friedrichstraße hatte die
 Baronin die Untergrundbahn bestiegen. Es war sehr voll
-im Abteil gewesen. Sie hatte gestanden — bis Gleisdreick.
+im Abteil gewesen. Sie hatte gestanden — bis Gleisdreieck.
 Dann wurden zwei Plätze frei, und sie setzte sich. Neben
 ihr saß ein alter Herr. Mit einem Male wurde sie müde.
 Erwachte erst auf der Unfallstation. Das Kästchen war
@@ -240,7 +240,7 @@ dritten innerhalb von zwei Tagen!
 <@pagebreak/>
 Kommerzienrat Wiechert betonte, daß auch die Kriminalpolizei
 bisher nicht habe feststellen können, wie das Betäubungsmittel
-den drei Bestohlenen beigebracht worden.
+den drei Bestohlenen beigebracht worden …
 
 »Die Ärzte behaupten, es handle sich um ein betäubendes
 Gas,« fügte er hinzu … »Die Polizei hält dies für
@@ -407,11 +407,11 @@ Wieder saß ich neben dem Diwan …
 
 »Harald, woher der Zettel?!« …
 
-»Ein Mann … trat ein … Du hattest Zimmer\-
+»Ein Mann … trat … ein … Du hattest Zimmer\-
 und Haustür offen gelassen … Ein Mann, als Ihr
 kaum im Vorgarten wart … Er glich dem Kommerzienrat,
 winkte … Ich trat auf die Türschwelle … Er blieb
-im Flur … reichte mir schweigend den Zettel … Und
+im Flur … Reichte mir schweigend den Zettel … Und
 dann befiel mich urplötzlich eine unendliche Müdigkeit …
 Ich taumelte zum Sofa — verlor das Bewußtsein … Und
 nun lies mir den Zettel vor …«
@@ -592,11 +592,11 @@ Harald schritt im Zimmer ruhelos umher …
 Meinte nach einer Weile:
 
 »Wenn man nur wüßte, wie man die Sache anpacken
-könnte … — Man muß doch irgendwie beginnen … Aber
+könnte … Man muß doch irgendwie beginnen … Aber
 das, was wir wissen, gibt uns keinen Angriffspunkt …
 Man kann sich doch nicht in die Untergrundbahn setzen und
 vielleicht tagelang zwischen Wilhelmplatz und Friedrichstraße
-hin und her gondeln?! — — Wo — wo packen wir nur zu?!«
+hin und her gondeln?! — Wo — wo packen wir nur zu?!«
 
 Er blieb am Tische stehen, drückte den Stummel seiner
 Mirakulum in eine Aschenschale aus und griff nach einer
@@ -773,7 +773,7 @@ Wenn ich mir diesen Gisbert von Garlitt vorstellte,
 diese verkörperte Blasiertheit, dazu das vornehm-müde Gesicht
 und seinen halb schnodderigen Ton: *Der* Mann sollte
 ein Verbrecher von der Geriebenheit des U.&nbsp;G.&nbsp;B.-Gespenstes
-sein …
+sein …?!
 
 Und ich sagte nur:
 
@@ -862,6 +862,7 @@ Von unserer Linde bis zum Parktor der Villa Garlitt
 <@pagebreak/>
 waren es vielleicht fünfzehn Meter … Die elektrischen
 Weglampen waren längst wieder erloschen.
+
 Zehn Minuten verstrichen …
 
 Da — — Harst stieß mich an …
@@ -1041,7 +1042,7 @@ Er glotzt zu uns empor …
 »Na, Jenosse, wat treibst Du denn hier so?!« sagt
 Harald lachend. »Mensch, hab’ man keenen Bammel vor
 uns … Wir tun Dir nischt … Wir wollten nur mal
-seyen, ob’s hier wat wejzufinden jibt … Is dies hier
+sehen, ob’s hier wat wejzufinden jibt … Is dies hier
 Deine nächtliche Bleibe, Mensch?«
 
 Der Fahle erholt sich von dem bösen Schreck …
@@ -1053,14 +1054,14 @@ Allzu hastig bestätigt er:
 Es ist die Sprache eines Gebildeten … Der Mann
 selbst mag vielleicht sechzig Jahre alt sein …
 
-»Hm …« meint Harst, »denn wollen wir Dir hier
+»Hm …,« meint Harst, »denn wollen wir Dir hier
 nich weiter stören … Zu klauen is hier doch wohl kaum
 was … Schlaf man weiter … Kannst uns höchstens
 ’n Schluck Kognak spendieren …«
 
 Er hebt die Flasche empor …
 
-»Donnerwetter — — feine Marke …!! Du gestattest
+»Donnerwetter — — feine Marke …!! Du jestattest
 …«
 
 Und er setzt die Flasche an den Mund …
@@ -1184,7 +1185,7 @@ Verbrecher zu tun gehabt, und er hat uns überlistet …!
 
 Der Spaziergang erfrischt uns …
 
-Wir nehmen die falschen Bärte ob, fahren heim …
+Wir nehmen die falschen Bärte ab, fahren heim …
 
 Harald schweigt … Wir sagen uns gute Nacht —
 kriechen jeder in sein Bett … schlafen … schlafen … —
@@ -1259,7 +1260,7 @@ haben …«
 »Gesehen?! — Bewundert habe ich sie …! Da war
 ein Brillantgeschmeide darunter — einfach köstlich!« —
 
-Ist staunte …
+Ich staunte …
 
 War dieser Garlitt nur ein Komödiant!!
 
@@ -1402,7 +1403,7 @@ Garlitt schüttelt den Kopf — sehr energisch … Erhebt
 sich, steht dicht vor Harst …
 
 <@pagebreak/>
-»Ich gebe Ihnen mein Ehrenwort, daß ich nicht dort
+»Ich gebe Ihnen mein Ehrenwort, daß ich *nicht* dort
 war …! Ich bin überhaupt erst ein einziges Mal dort
 gewesen … Denn die Laube gehört der verheirateten
 Schwester meines langjährigen Kochs Peter Pedersen …
@@ -1550,7 +1551,7 @@ Harald unvermittelt:
 Zuchthäusler! — Und das, was die Baronesse und Pedersen
 am Telephon angaben, hatten sie natürlich verabredet …
 <@pagebreak/>
-Auch ein Testament werden sie zum Stein aufgesetzt haben.
+Auch ein Testament werden sie zum Schein aufgesetzt haben.
 In Wahrheit trafen sie mit dem Stoppelbärtigen zusammen.«
 
 Ich nickte …
