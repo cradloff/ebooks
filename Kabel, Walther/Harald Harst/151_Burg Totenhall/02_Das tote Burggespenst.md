@@ -95,7 +95,7 @@ Unserer Taschenlampen Lichtfinger griffen in die Finsternis …
 
 Wir klopften an Miß Galdensteacs Schlafzimmertür.
 
-Drei Minuten später stand die Burgherrin vor uns.
+Drei Minuten später stand die Burgherrin vor uns …
 
 In einem kostbaren Kimono … Um das gelöste Haar
 einen Schleier gewunden …
@@ -333,7 +333,7 @@ von dem Erbauer der Burg angelegt worden sein mochte …
 <@pagebreak/>
 Warten sollte ich nicht!
 
-Schlafen gehen …! — — Schlafen?! Unmöglich …
+Schlafen gehen …! — — Schlafen?! Unmöglich …!
 
 Und ich setzte mich neben den Ausgang auf einen Stein
 und … rauchte mir eine Zigarre an …
@@ -415,7 +415,7 @@ Eine Taschenlampe …
 
 Und — — ein Weib …!!
 
-Das konnte nur Lilian Galdensteac sein …
+Das konnte nur Lilian Galdensteac sein …!
 
 Noch näher …
 
@@ -484,7 +484,7 @@ Er war recht außer Atem.
 
 Und ich:
 
-»Gestatte — das war ich nicht, das war Mabel van
+»Gestatte — das war ich nicht! Das war Mabel van
 der Dymen mit ihrem Äffchen …«
 
 Und ich erzählte …
@@ -588,7 +588,7 @@ ich sehe sie …
 Und bis zur Turmmauer, bis zum engen Schacht finden
 wir diese Fährte …
 
-Dann nichts mehr … — — Vor der Steintreppe, die aus
+Dann nichts mehr … Vor der Steintreppe, die aus
 dem Gange zum Schacht empor läuft, enden diese Spuren …
 
 Harald bückt sich noch tiefer …
@@ -604,12 +604,12 @@ Schlössern stößt …
 Stets in gleicher Weise gearbeitet … Ein eiserner
 <@pagebreak/>
 Rahmen in starken Angeln, mit Mauerwerk ausgefüllt und
-genau in die Türöffnung hinein passend, so daß die Umrisse
+genau in die Türöffnung hineinpassend, so daß die Umrisse
 der Tür in den Strichen der Fugen verschwinden …
 
 Er sucht — und findet …
 
-Burg Totenhall gibt abermals einer seiner Geheimnisse.
+Burg Totenhall gibt abermals eines seiner Geheimnisse preis.
 
 Die Geheimtür, rechts am Fuße der Treppe angelegt, ist
 nicht größer als die oben in der Brüstung. Aber der Gang
@@ -772,7 +772,7 @@ Kruzifix …
 
 Wir sehen alles ganz genau …
 
-An den weißen Wänden links und rechts stehen Holzschemel.
+An den weißen Wänden links und rechts stehen Betschemel.
 Eine Ewige Lampe in Herzform glüht über
 dem Sarge an der Decke …
 
@@ -838,7 +838,7 @@ die Mauer ragt sie hindurch, steht nur wenig über …
 Und wieder Mabels Stimme — wieder in fließendem
 Deutsch mit nur ganz geringem fremden Akzent:
 
-»Verhungern … verdursten!! Das wird Ihr Ende
+»Verhungern … verdursten!! *Das* wird Ihr Ende
 sein!!«
 
 Dann Stille …
@@ -971,7 +971,7 @@ Sechs Uhr früh — sechs Uhr morgens …
 
 Er schob die Uhr wieder in die Westentasche …
 
-»Schlafen werden wir, mein Alter …« sagte er
+»Schlafen werden wir, mein Alter …,« sagte er
 gähnend …
 
 »Und — Du wirst schlafen können?!«
@@ -1119,7 +1119,7 @@ Und — da war eine offene Fuge …
 Da war ein Löchlein … Und rings um ein Quadrat
 von acht Steinen sah der Mörtel so anders aus …
 
-Haralds Messerklinge fuhr diese Fuge entlang.
+Haralds Messerklingenstumpf fuhr diese Fuge entlang.
 
 Der Mörtel zerbröckelte … Es war Lehm, mit
 Sand vermischt …
@@ -1441,7 +1441,7 @@ Stiert meinen Harald an …
 
 Und erwidert verlegen:
 
-»Verdammt, Herr Harst — — Sie sinds wirklich …
+»Verdammt, Herr Harst — — Sie sinds wirklich …!
 Entschuldigen Sie nur …! Jetzt erkenne ich auch Sie!«
 
 Die Brücke senkt sich …
@@ -1559,7 +1559,7 @@ spielen durfte. Und wenn ich mit dichterischer Freiheit
 die Burg mit ihren vielfachen Geheimnissen ein wenig
 umgetauft habe, so wird der Leser das verstehen … Die
 Burgbewohner sollen vor der Neugier der Touristen und
-Badegäste geschützt werden …
+Badegäste geschützt werden … —
 
 Hiermit verabschiede ich mich für heute von meinen
 Freunden …
