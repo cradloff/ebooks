@@ -100,3 +100,39 @@ hr {
 	background: #333; 
 	background-image: linear-gradient(to right, #eee, #333, #eee);
 }
+
+.title1 {
+	font-size: xx-large;
+	text-align: center;
+	line-height: 100%;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.title2 {
+	font-size: x-large;
+	text-align: center;
+	line-height: 100%;
+}
+
+.title3 {
+	font-size: large;
+	text-align: center;
+	line-height: 100%;
+}
+
+.copyright {
+	font-size: small;
+	text-align: center;
+	white-space: pre-wrap;
+}
+
+/* zentrierter Text */
+.centered {
+	text-align: center;
+}
+
+/* rechtsbündig */
+.right {
+	text-align: right;
+}
