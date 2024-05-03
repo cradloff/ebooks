@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">ab28ccfa-0238-44bb-8e6e-e9ef232cb47d</entry>
+<entry key="title">Im Mädchenheim</entry>
+<entry key="collection">Lene und Lotte - lustige Mädchenstreiche</entry>
+<entry key="group-position">18</entry>
+<entry key="language">de</entry>
+<entry key="description">Im Mädchenheim
+
+Unsre Mädel samt dem Affen
+In der Bahn jüngst Flora trafen,
+Wie dies hier im letzten Band
+Schon genau Erwähnung fand.
+Dieser Fräulein Flora Binder
+Liebt nicht Len’ und Lott’, die Kinder,
+Was nach jener Bahnesfahrt
+Sich mit Recht hat offenbart.
+
+Damals sollten unsre Rangen
+In das Mädchenheim gelangen,
+Welches Fräulein Resi Schlick
+Leitet streng und mit Geschick
+In der Harzstadt Ballerstein
+(Der Name kann auch anders sein).
+Damals hatten sie sehr klug
+Ausgedacht sich den Betrug,
+
+Den geliebten Klops, den Affen,
+Als Puppenkind dorthin zu schaffen.
+Doch die Reise endet kläglich.
+Wichse gab es ganz unsäglich,
+Und als nun zum zweiten Mal
+Man verließ den Heimatstal,
+Ward der Klops dort eingespunnt,
+Wo man ihn so leicht nicht fund,
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (18) Im Mädchenheim.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">JUVENILE FICTION / Comics &amp; Graphic Novels</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1922</entry>
+<entry key="toc">false</entry>
+<entry key="freemarker">true</entry>
+</properties>
