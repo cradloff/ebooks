@@ -48,7 +48,7 @@ waren abends eingetroffen, und vormittags sollten Sie und
 Ihre Frau dann ebenfalls in der Groeningschen Villa
 Unterkunft finden. Als Sie mit Ihren Koffern nach
 Schlachtensee kamen, mußten Sie feststellen, daß es dort
-weder eine Radetzkistraße noch eine Villa Groening gab.
+weder eine Radetzkystraße noch eine Villa Groening gab.
 Die Polizei erklärte Ihnen, daß Sie fraglos Mädchenhändlern
 in die Hände gefallen seien, die es von vornherein
 auf Ihre Tochter Mabel abgesehen gehabt hatten. Man
@@ -133,7 +133,7 @@ Ereignisse, des Diebstahls und dieser Affenjagd etwas auffällig.
 Vielleicht handelt es sich um dasselbe Äffchen —
 vielleicht!! — Wann wurde der Liebling ihrer Tochter gestohlen?«
 
-»Vorgestern Nacht, Herr Harst … Die Diebe, es
+»Vorgestern nacht, Herr Harst … Die Diebe, es
 waren zwei Personen, wie Lookenzook festgestellt hat, sind
 über einen Balkon in meine Villa eingedrungen. Wie gesagt
 — sie nahmen auch den großen Käfig mit, denn das
@@ -289,7 +289,7 @@ zu erwähnen …«
 
 »Er wurde natürlich etwas stutzig … Ich suchte ihn
 abzulenken … Sagte, daß Frauen zu leicht ungewollt
-Äußerungen tun, die vieles verderben können … Trotzdem:
+Äußerungen tun, die vieles verderben können … — Trotzdem:
 auch er ist argwöhnisch geworden … — Und jetzt
 — an die Arbeit, mein Alter … Geteilte Arbeit! Du
 erkundigst Dich nach Sanitätsrat Mantey und Familie, und
@@ -337,7 +337,7 @@ Die Ladentür stand offen …
 Und hinter dem Ladentisch schimmerte das blasse, faltige
 Gesicht eines alten Fräuleins …
 
-Ich trat ein … kaufte drei Paar Herrensocken …
+Ich trat ein … Kaufte drei Paar Herrensocken …
 
 Setzte mich …
 
@@ -400,6 +400,8 @@ Schaufenster des Papiergeschäfts?«
 Und sie nimmt den Kneifer vom Haken ihrer Bluse,
 drückt ihn auf die Nase …
 
+Sucht …
+
 Und — gerade da dreht sich die Frau halb um …
 
 Und — — neben mir ein halb erstickter Schrei …
@@ -441,7 +443,7 @@ Und kehre mißmutig zu dem alten Fräulein zurück …
 Sie hat sich inzwischen etwas von dem Schreck erholt …
 
 Und schwört Stein und Bein, daß es die Sanitätsrätin
-gewesen … die vor vier Jahren verstorbene Sanitätsrätin
+gewesen …, die vor vier Jahren verstorbene Sanitätsrätin
 — — man denke!!
 
 »… Mein Herr — genau denselben Mantel und Hut
@@ -606,7 +608,7 @@ Und Harald — ohne Zögern: »Es gab drei Möglichkeiten
 … Zwei davon streiche ich jetzt, weil dieses Massenaufgebot
 von Beteiligten mir dafür zu sprechen scheint,
 daß Vilma, geborene Mantey, jetzt Frau van der Dymen,
-gern allein ihren Gatten beerben möchte … deshalb hat
+gern allein ihren Gatten beerben möchte … Deshalb hat
 sie Mabel, die Miterbin, verschwinden lassen … sehr geschickt
 … Wobei ihr verschollener Bruder und noch ein
 paar ihr nahestehende Leute geholfen haben mögen …«
@@ -626,7 +628,7 @@ Und abends sieben Uhr bestiegen zwei Herren, die einander
 nicht zu kennen schienen, auf dem Görlitzer Bahnhof
 den Breslauer Zug und fuhren nach Görlitz …
 
-Fanden sich hier außerhalb des Bahnhof mit ihren
+Fanden sich hier außerhalb des Bahnhofs mit ihren
 Handkoffern wieder zusammen und mieteten ein Auto zu
 einer Tour nach … Greiffenberg …
 
@@ -664,7 +666,7 @@ den alten Bau mit erheblichen Kosten habe wiederherstellen
 lassen … Mehr wisse er nicht … Aber am Eingang
 des Totenhall-Tales liege das Dörfchen gleichen Namens,
 und dort in der Gastwirtschaft würden wir wohl Näheres
-in Erfahrung bringen können …
+in Erfahrung bringen können … —
 
 <@pagebreak/>
 Dieses Unwetter — es goß in Strömen, und in der
@@ -853,7 +855,7 @@ die es hier in dieser Gegend je gegeben hat …
 
 In der Mitte des Tales ein einzelner Felswürfel …
 Einer jener kahlen Felsen, wie sie verschiedentlich zu finden
-sind. Ich erinnere nur an die sogenannten Opfersteine in
+sind. Ich erinnere nur an die sogenannten Hasensteine in
 der Nähe von Bad Flinsberg …
 
 Auf der Kuppe dieses Felsens der schmucklose Bau mit
@@ -1016,7 +1018,7 @@ Sie schüttelt den Kopf …
 »Ich verstehe Sie nicht, Herr Herrmann … Sie sind
 also nicht Bankbeamte?«
 
-Da zieht Harald die Clement aus der Rocktasche …
+Da zieht Harald die Clement aus der Jackettasche …
 
 Der Sicherungsflügel springt zurück …
 
@@ -1125,7 +1127,7 @@ Jean den Schlüssel des Haupttores abverlangt hat … Da
 Burg Totenhall nur über die Zugbrücke zu erreichen oder
 <@pagebreak/>
 zu verlassen ist, dürfte ein Wegschaffen Fräulein Mabels
-unmöglich sein …
+unmöglich sein … —
 
 Ich bin ein wenig niedergeschlagen, denn Harald hat sich,
 was den Tee betrifft, gründlich geirrt … Der Tee ist Miß
@@ -1134,7 +1136,7 @@ Galdensteac tadellos bekommen.
 Und — ich werde noch niedergeschlagener, als wir dann
 in einem anderen Zimmer des Erdgeschosses einen Papagei
 vorfinden, der bei unserem Eintritt genau dieselben kreischenden
-Töne ausstößt, die wir vorhin gehört haben …
+Töne ausstößt, die wir vorhin gehört haben … —
 
 Ich will den Leser nicht unnötig auf die Folter spannen:
 wir fanden nichts, obwohl wir volle drei Stunden
@@ -1300,7 +1302,7 @@ Behaglicher als im Wohnsalon Miß Galdensteacs konnten
 wir es kaum haben … Auch in ihrem Atelier im
 ersten Stock brachten wir eine volle Stunde zu und besichtigten
 ihre Bilder und die dort aufgespeicherten Kunstschätze.
-Die junge Amerikanerin zeigte erst jetzt so recht ihren vollem
+Die junge Amerikanerin zeigte erst jetzt so recht ihren vollen
 Scharm als Weib … Sie war in der Tat ein frisches,
 heiteres Geschöpf. Ein Jammer geradezu, daß sie trotzdem
 — unsere heimliche Feindin war …!!
@@ -1535,5 +1537,5 @@ tun! Frau Vilma van der Dymen war etwas ganz anderes
 als Erbschleicherin! — Ich kann dem Leser versichern: Was
 Frau Vilma war, wird er nicht so leicht erraten, obwohl
 in den vorausgegangenen Seiten eine Stelle auf den wahren
-Kern des Geheimnisse unzweideutig hinweist …
+Kern des Geheimnisses unzweideutig hinweist …
 

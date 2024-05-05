@@ -1,0 +1,138 @@
+@page {
+	margin: 5px !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	text-align: center;
+	font-weight: normal;
+}
+
+h1 {
+	font-size: x-large;
+}
+
+h2 {
+	font-size: large;
+}
+
+p {
+	margin: 2pt 0 2pt;
+	text-indent: 1em;
+	text-align: justify;
+	white-space: pre-wrap;
+}
+
+blockquote p {
+	white-space: pre-wrap;
+	text-indent: 0em;
+	padding-left: 0.5em;
+	font-family: cursive;
+}
+
+/* cover */
+#cover {
+	width: 100%;
+	height: auto;
+}
+
+/* table of contents */
+.toc#author, .toc #author {
+	text-align: center;
+	color: dimgray;
+	font-size: 1.25em;
+	font-size: large;
+}
+.toc#title, .toc #title {
+	text-align: center;
+	font-size: 1.8em;
+	font-size: x-large;
+}
+.toc#subtitle, .toc #subtitle, .toc#edition, .toc #edition {
+	text-align: center;
+	color: dimgray;
+	font-size: 1.25em;
+	font-size: x-large;
+}
+
+#toc ol {
+	list-style-type: none;
+	text-align: left;
+}
+
+/* Landmarks und Page-List ausblenden */
+#landmarks, #page-list {
+	display: none;
+	visibility: hidden;
+}
+
+/* Link zu Fußnote */
+a.refnote {
+	font-size: small;
+	vertical-align: super;
+	text-decoration: none;
+}
+
+/* Fußnote */
+.footnote {
+	font-size: small;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+a.backref {
+	font-size: x-small;
+	vertical-align: super;
+	text-decoration: none;
+}
+
+/* gesperrter Text */
+.g {
+	letter-spacing: 0.25em;
+}
+
+/* dünne Linie mit Verlauf als Trenner */
+hr {
+	border: 0; 
+	height: 1px; 
+	width: 80%;
+	align: center;
+	text-align: center;
+	background: #333; 
+	background-image: linear-gradient(to right, #eee, #333, #eee);
+}
+
+.title1 {
+	font-size: xx-large;
+	text-align: center;
+	line-height: 100%;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.title2 {
+	font-size: x-large;
+	text-align: center;
+	line-height: 100%;
+}
+
+.title3 {
+	font-size: large;
+	text-align: center;
+	line-height: 100%;
+}
+
+.copyright {
+	font-size: small;
+	text-align: center;
+	white-space: pre-wrap;
+}
+
+/* zentrierter Text */
+.centered {
+	text-align: center;
+}
+
+/* rechtsbündig */
+.right {
+	text-align: right;
+}

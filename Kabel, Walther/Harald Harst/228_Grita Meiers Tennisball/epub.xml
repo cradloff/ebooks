@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">c10d4469-bb33-4460-bd5a-07c45b4beb63</entry>
+<entry key="title">Grita Meiers Tennisball</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">228</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Grita Meiers Tennisball.
+
+Ein Tennisball ist ja an sich ein sehr harmloses Ding.  Ist er noch jung, springt er flott umher, verträgt so manchen Hieb. Wird er alt, dann fallen seine Pausbäckchen ein — wie bei einem Greise, und mit dem Springen ist’s vorbei … Er wird schlaff und lebensmüde und faul und endet schließlich wie ein Landstreicher auf dem Kehrichthaufen.
+
+Der Tennisball, dessen Geschichte ich hier erzählen will, endete nicht auf dem Kehrichthaufen. Er hat Aufnahme in einem schönen geschnitzten Altersheim gefunden: In unserem Raritätenschrank.
+
+Meiers Vergangenheit.
+
+»Das ist ja außerordentlich liebenswürdig von Ihnen, Herr Gefängnisdirektor,« sagte Harald zu dem Spender des Dreiröhrenempfängers. »Die Herrschaften, die uns haben verschwinden lassen, sind in rührender Weise um uns besorgt.  Der Apparat wird die Langeweile uns besser verscheuchen als alles andere, bis wir eben eines Tages uns verabschieden, natürlich heimlich, ganz heimlich …«
+
+Der Stumme, hinter dessen Maske ein Paar dunkle Augen weiß und fast gütig schimmerten, sagte daraufhin, — ein Wunder, daß er überhaupt mal wieder sprach:
+
+»Ich denke, Sie sind gewarnt, Herr Harst. Der Streifschuß hat Ihnen gezeigt, daß ich nicht mit mir scherzen lasse. Sie beide werden sich mit dem Gedanken vertraut machen müssen, hier Ihre Strafe zu verbüßen.«
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (228) Grita Meiers Tennisball.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1928</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
