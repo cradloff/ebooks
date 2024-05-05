@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">1e9a9bd4-6a96-40db-aac6-e039a367f73a</entry>
+<entry key="title">Die schwimmende Grotte</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">231</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Die schwimmende Grotte.
+
+Der Mond kam drüben über dem fernen, fernen Wendelstein allmählich emporgekrochen, bis seine volle leuchtende Scheibe schräg über der alten Stadt zu schweben schien.
+
+Ich hörte genau, was Harst und Xaver hinter mir sprachen. Das frische helle Organ des jungen Gerichtsschreibers kündete etwas zaghaft an, er erwarte noch einen Gast, — ob dies uns auch nicht unangenehm sein würde … Er habe den Herrn erst vor einer Woche hier kennen gelernt … zufällig. Eduard Menk heiße der Herr, und er sei ein lieber Mensch, wohl sehr reich, aber immer so versonnen und traurig.
+
+Dann klopfte es. Ich drehte mich um, und wir wurden Eduard Menk vorgestellt.
+
+In der Tat, ein eigentümlicher Mann …
+
+Künstliches Land.
+
+— Hätte ich für diesen zweiten Teil einen anderen Titel gewählt — den Titel, der den Umständen nach der einzig richtige, so würde ich den Leser sofort mit der Nase auf den Kern des Geheimnisses gestoßen haben. Das wollte ich nicht.
+
+Künstliches Land genügt … Es besagt dasselbe, nur umschrieben — —
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (231) Die schwimmende Grotte.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1928</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
