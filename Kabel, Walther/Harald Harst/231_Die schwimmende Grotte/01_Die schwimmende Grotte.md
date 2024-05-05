@@ -110,7 +110,7 @@ führte sie versonnen dreimal zum Munde …
 »Was denn, Herr Menk …?«
 
 <@pagebreak/>
-Plötzlich lugte der Wand durch die offenen Fenster herein
+Plötzlich lugte der Mond durch die offenen Fenster herein
 und zog eine breite Lichtbahn über Menks regelmäßiges
 Profil. Und hiermit war in das Stübchen etwas wie ein
 geheimnisvolles Zeichen eingedrungen.
@@ -237,7 +237,7 @@ Gesicht.
 »Sie … wollen …?«
 
 »Ich habe Interesse dafür, Herr Menk. Reisen Sie
-morgen … ab. Nach drei Tagen sind wir bei Ihnen in
+morgen ab. Nach drei Tagen sind wir bei Ihnen in
 Hamburg. Aber schweigen Sie. Sie verstehen mich wohl …
 Ich vermute zwei Verbrechen — wie Sie!«
 
@@ -369,7 +369,7 @@ immer viel Verkehr … Sie is sehr fleißig …«
 nicht zwischen fünf und sechs nachmittags Besuch?«
 
 »Det stimmt … Ein Herr fragte nach ihr, ein neuer
-Kunde …«!
+Kunde …«
 
 »Wie sah er aus?«
 
@@ -437,7 +437,7 @@ Dann wandte er sich an den Portier:
 
 »Hm — — ja, det andere Bild vom Seligen, det letzte,
 bevor er sich totschoß … Da war er zusammen mit seiner
-Frau, — Kinder hatten sie mit — auf die Segeljacht
+Frau, — Kinder hatten sie nich — auf die Segeljacht
 photographiert … Een jroßet Bild … Dort stand es …
 Nu is et weg …«
 
@@ -702,7 +702,7 @@ Und — wieder Stille …
 Menk starrte vor sich hin.
 
 Xavers klare Augen glitten hierhin, dorthin. Mit einem
-Male erhob er sich, war mit einem Satz, an der Terrassentreppe,
+Male erhob er sich, war mit einem Satz an der Terrassentreppe,
 mit zwei Sätzen die Treppe hinab …
 
 Hektor fuhr hoch …
@@ -997,7 +997,7 @@ emporhob.
 <@pagebreak/>
 
 <h2>5. Kapitel.</h2>
-<h3>Ist Harst ertrunken?.</h3>
+<h3>Ist Harst ertrunken?</h3>
 
 Am Anfang des weiß gestrichenen Bootssteges stand
 ein Häuschen mit weit vorspringendem Dach, in dem die
@@ -1144,7 +1144,7 @@ ein. »Wie standen Sie mit diesem Erwin, Herr Menk?«
 
 Menk war dieses schroffe Verhör sichtlich peinlich. Sein
 Hamburger Patrizierstolz leuchtete kalt-ablehnend in dem 
-Blick, mit dem er nun Dürnhuber musterte. »Ich denke, —
+Blick, mit dem er nun Dürnhuber musterte. »Ich denke,
 diese Familiengeschichten sind hier gegenstandslos,« erwiderte
 er nur.
 
@@ -1176,7 +1176,7 @@ Sein Tod wurde uns acht Tage nach der Hochzeit
 <@pagebreak/>
 bekannt. Alice hat den Bruder nie geliebt. Er war ihr
 stets nur Hemmschuh, Ballast … An dem Menschen war
-nicht viel Gutes, wahrhaftig nicht. Daß er noch, lebt, ist
+nicht viel Gutes, wahrhaftig nicht. Daß er noch lebt, ist
 ganz ausgeschlossen.«
 
 »Haben Sie ein Bild von ihm?« fragte Xaver kühl.

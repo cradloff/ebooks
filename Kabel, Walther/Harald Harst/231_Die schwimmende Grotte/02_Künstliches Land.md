@@ -258,7 +258,7 @@ Wir drei auf dem Treppenabsatz starrten uns wortlos an.
 Diedrichsens Tod hatte uns in der Tat wie ein Blitzschlag
 getroffen.
 
-Xaver … flüsterte scheu: »Der ist aufgeknüpft worden!!
+Xaver flüsterte scheu: »Der ist aufgeknüpft worden!!
 Das ist des Feindes drittes Verbrechen!«
 
 Menk war sehr bleich, lehnte an der Wand und tupfte
@@ -740,7 +740,7 @@ und das waren auch meine Gedanken.
 
 Menk schüttelte wie unwillig den Kopf. »Das ist ja
 widersinnig!! Ein mir Fremder, der mich *so* hassen soll?!
-Woher dieser Haß?! Und dann: Karten saß in seinem
+Woher dieser Haß?! Und dann: Karsten saß in seinem
 Kutter, und das Wrack war längst verschwunden, dieses
 unheimliche Ding, von Geisterhänden gelenkt, von Geisterhänden
 beflügelt!! Erklären Sie mir: Wie kann ein Wrack,
@@ -896,7 +896,7 @@ zwischen Kutter und Wrack zu groß, versagt eben
 die Fernsteuerung,« erwiderte Harst fast zu trocken. »Es war
 mir nach Menks Schilderung der Unglücksnacht sofort klar,
 daß das Wrack drahtlos ferngesteuert wurde — von dem
-Kutter, aus, der Menk auffischte. In das Wrack sind eben
+Kutter aus, der Menk auffischte. In das Wrack sind eben
 versteckt alle Empfangsapparate zur Fernsteuerung eingebaut,
 und auf dem Kutter der dazugehörige Sender. Ferngesteuerte,
 unbemannte Schiffe sind heute zu Versuchszwecken noch selten.
