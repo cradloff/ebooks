@@ -1,6 +1,6 @@
-<@pagebreak/>
+<@pagebreak 3/>
 
-Konkurrent Mr.
+<h1>Konkurrent Mr. Z</h1>
 
 <h2>1. Kapitel.</h2>
 <h3>Unsere Insel.</h3>
@@ -11,8 +11,8 @@ Harald. —
 
 Ich lag im Liegestuhl, und neben mir im Grase lag
 Anita und schaute mich aus ihren dunklen, bläulich schillernden,
-etwas einfältigen Augen sinnend an. Sie — bewegte
-dabei den Unterkiefer unaufhörlich von, rechts nach links mit
+etwas einfältigen Augen sinnend an. Sie bewegte
+dabei den Unterkiefer unaufhörlich von rechts nach links mit
 mahlender Kraft. Sie kaute wieder.
 
 Anita ist die andere Kuh. Ihre Stallgefährtin haben wir
@@ -22,16 +22,16 @@ Anitas und eignen sich für eine Filmdiva!
 Anita und Asta sind Harsts Eigentum, ebenso die zehn
 Schafe, die gleichfalls in der Nähe weiden, und die zwölf
 <@pagebreak/>
-Führer und die Zwei Hähne, die mich umgackern und
+Hühner und die zwei Hähne, die mich umgackern und
 ihre Stimmen mit dem Geräusch der Brandung vermischen.
 
-Das Meer ist bewegt. Grünblaue Wogegen rollen gegen
+Das Meer ist bewegt. Grünblaue Wogen rollen gegen
 unsere befestigte kleine Hallig Schluderrook an, die nun
 Haralds Inselreich ist und auf der wir drei köstliche Faulenzertage
 bereits verlebt haben. Frischer Wind fächelt mein
 braunes Gesicht und hilft Anita im Kampf gegen die
 Fliegen. Mit ihrem Schwanz allein würde sie dieser Plagegeister
-nicht Herr werden. Fliegen sind auf SkHluderrook
+nicht Herr werden. Fliegen sind auf Schluderrook
 am zahlreichsten vertreten, dann folgen die Möven, dann
 die Seehunde, dann die Hühner, Schafe, Kühe und schließlich
 wir beide.
@@ -39,29 +39,29 @@ wir beide.
 Wie Harst die Hallig erbte, ist bekannt. Ein Mörder aus
 Eifersucht hinterließ sie ihm durch Testament:
 
-Die Hallig Schluderrook aber soll Herrn Harsts Eigenstum
+> Die Hallig Schluderrook aber soll Herrn Harsts Eigentum
 sein. Mag er im Besitz meiner dem Meere abgerungenen
 Insel neue Anregung finden.
 
 So hatte es William Karsten, der nun dort drüben
 unter dem armseligen Kirschbaum für immer ausgeruhte, bestimmt,
-und so hattet’s auch die Behörden anerkannt.
+und so hatten’s auch die Behörden anerkannt.
 
 Vor drei Tagen war Karsten begraben worden, und
-am selben Nachmittag hatte sich auch die Jacht »Grobe«, aus
-dem vorigen Band noch in aller Gedächtnis, mit südlichen
+am selben Nachmittag hatte sich auch die Jacht »Niobe«, aus
+dem vorigen Band noch in aller Gedächtnis, mit südlichem
 Kurs entfernt — dorthin, wo ich als dunklen Fleck die
 benachbarte große Insel erkennen konnte.
 
 Ich lag also im Liegestuhl, und Anita kaute neben mir
 wieder und klatschte mit ihrem eifrigen Schlange gegen ihre
-Lenden, die Hühner gelten … und so weiter (siehe oben),
+Lenden, die Hühner gackerten … und so weiter (siehe oben),
 und vier Meter hinter mir hörte ich Harald in der Küche
 unseres Wohnhauses das Geschirr vom Mittag säubern und
-mit Asta Zwiesprache halten, die ihren durften Kopf durch
-das offene Fenster her eingesteckt hatte. Sie war sehr zahm,
+mit Asta Zwiesprache halten, die ihren dunklen Kopf durch
+das offene Fenster hereingesteckt hatte. Sie war sehr zahm,
 <@pagebreak/>
-sehr menschenliebend und lieferte täglich sechs Liter Wild,
+sehr menschenliebend und lieferte täglich sechs Liter Milch,
 für eine Hallig-Kuh eine respektable Leistung.
 
 Ich schrieb — mit der Füllfeder — gerade die letzten
@@ -80,15 +80,15 @@ Leute, die ungeheuer gedankenträge sind …!«
 
 Leute?! Meinte er sich?! — Nein! — Also mich.
 
-»Sie sind so von der Nordseeluft benommen, daß
+»… Sie sind so von der Nordseeluft benommen, daß
 sie Karstens, deines früheren Herrn, Testament vollkommen
 gleichgültig behandeln, obwohl darin wörtlich steht: »Mag er
-im Besitz meiner dem Meere abgerungenen Insel neue Ans
-Regung finden.« — Liebe Asta, wenn du als Kuh in diesen
+im Besitz meiner dem Meere abgerungenen Insel neue Anregung
+finden.« — Liebe Asta, wenn du als Kuh in diesen
 Worten nichts Besonderes entdeckst, nehme ich dir das nicht
 übel. Wenn aber Schraut, obwohl er doch vorgestern auf der
 Fensterscheibe in deines früheren Herrn Arbeitszimmer ebenfalls
-die mit einem Diamantring eingeritten seltsamen Zeichen
+die mit einem Diamantring eingeritzten seltsamen Zeichen
 bemerkt hat, so kurzsichtig ist, diese Zeichen nicht mit den
 Worten des Testaments in Verbindung zu bringen, so kann
 man das nur als ungeheure Gedankenfaulheit bezeichnen.«
@@ -99,7 +99,7 @@ ließ sie rückwärts etwas fallen, das wir getrocknet
 als Brennmaterial benutzen.
 
 Worauf Asta sich langsam entfernte, zu mir kam und
-mir tröstend das Gesicht ’leXen wollte. Kuhzungen sind
+mir tröstend das Gesicht lecken wollte. Kuhzungen sind
 wie Reibeisen, und ich verzichtete daher und ging nun
 meinerseits zum Küchenfenster und sagte:
 
@@ -109,10 +109,10 @@ hinterlassen hat — unsere Art Arbeit?«
 
 Er trocknete den letzten Teller und erwiderte:
 
-»Ja, das meine ich … Denn die in der Scheibe eingeritten
+»Ja, das meine ich … Denn die in der Scheibe eingeritzten
 Zeichen bemerkte ich schon am Tage nach Karstens Selbstmord,
-und ich stellte fest, daß sie ganz frisch waren: Gla
-glauben klebten noch an den Rillen der Bilder. Mithin
+und ich stellte fest, daß sie ganz frisch waren: Glasstäubchen
+klebten noch an den Rillen der Bilder. Mithin
 hat Karsten diese Gravierung erst kurz vor der verhängnisvollen
 Nacht ausgeführt.«
 
@@ -124,14 +124,14 @@ an und gab mir einen gelinden Schlag auf die Schulter …
 »Mein lieber Alter, du bist nun ja mit deiner Schreiberei
 fertig, also — ein anderes Thema: die Zeichen!« Er schob
 seinen Arm in den meinen und zog mich um das Haus
-herum durch die Pforte. des kleinen Gärtchens an das kleine
+herum durch die Pforte des kleinen Gärtchens an das kleine
 Fenster.
 
 Klein war hier auf Schluderrook ja alles. Die ganze
-Hallig maß vierhundert Meter von Nord nach Süd, drei hundertfünfzig
+Hallig maß vierhundert Meter von Nord nach Süd, dreihundertfünfzig
 von West nach Ost. Sie war ein unregelmäßiges
 Viereck. Der Hafen lag nach Osten zu, und bei
-Ebbe zog sich dort nach Osten das Watt mit Strick, Muscheln,
+Ebbe zog sich dort nach Osten das Watt mit Schlick, Muscheln,
 Sandbänken, Quallen, Krabben und zuweilen einem ebenfalls
 zurückgebliebenen Hummer endlos weit hin.
 
@@ -139,17 +139,17 @@ Nun standen wir vor dem Fenster und … starrten auf
 die Scheibe …
 
 »Was bedeutet das?!« rief ich. »Du hast ja die Zeichen
-völlig zerfraßt. Nichts ist mehr zu erkennen«
+völlig zerkratzt. Nichts ist mehr zu erkennen!«
 
 »Pardon,« fügte ich nach einem Blick in sein Gesicht
 hinzu, »du hast es nicht getan … Du bist genau so erstaunt
 wie ich.«
 
 <@pagebreak/>
-»Allerdings …!« Seine braune Stirn Rechte sich. »Leute
+»Allerdings …!« Seine braune Stirn kerbte sich. »Heute
 früh waren die Zeichen noch da … Jetzt sind sie ausgetilgt,
 und da weder Anita noch Asta Brillantringe tragen oder
-mit einem Glasschneider umzusetzen wissen, muß ein Fremder
+mit einem Glasschneider umzugehen wissen, muß ein Fremder
 hiergewesen sein — oder noch hier sein! Suchen wir.«
 
 Wir suchten — getrennt.
@@ -157,7 +157,7 @@ Wir suchten — getrennt.
 Zunächst ward das Meer mit dem Fernglas abgesucht.
 Außer ein paar Fischerfahrzeugen nichts …
 
-Dann ging im zum Hafen hinab — dem Hafen mit
+Dann ging ich zum Hafen hinab — dem Hafen mit
 den hohen Pfahlwänden und dem schlauen Versteck, in dem
 Karsten ein ganzes Wrack verborgen gehalten.
 
@@ -180,7 +180,7 @@ Nähe gewesen sein müssen, das den Betreffenden aufnahm!
 
 Höchst schleierhaft!
 
-Ich suchte weiter. Schluderrook bietet keine Verstecke.«
+Ich suchte weiter. Schluderrook bietet keine Verstecke.
 Die paar Büsche, Bäume, das dürre Gras, — — lieber
 Himmel, — wo steckte der Kerl, der doch nur nachts gekommen
 sein konnte?!
@@ -191,11 +191,11 @@ würde sorgfältig durchgestöbert, alles …
 <@pagebreak/>
 »Anita hat ihn verschluckt!« sagte Harst ärgerlich.
 
-»Bitte, Anita erwartet ein Halben, keinen Mann mit!
+»Bitte, Anita erwartet ein Kälbchen, keinen Mann mit
 einem Diamantring. Und Kühe fressen keine Menschen, sondern
 umgekehrt …«
 
-Wir besprachen die Möglichkeiten eines unbemerkten Verlassene
+Wir besprachen die Möglichkeiten eines unbemerkten Verlassens
 der Insel bei Tageslicht. Wir kamen zu dem
 Resultat: ausgeschlossen!
 
@@ -204,10 +204,10 @@ Der Kerl war also noch hier. Wo war er?!
 »Überlegen wir,« meinte Harald und rückte seinen Liegestuhl
 neben den meinen. Anita kaute noch immer wieder.
 Harst rauchte drei Mirakulum und schwieg. Die Septembersonne
-brannte heiß, und die Hühner änderten und die
+brannte heiß, und die Hühner gackerten und die
 beiden Hähne legten krumme Eier und die zehn Schafe rupften
 das spärliche Gras und die seelenvolle Asta, unsere Diva,
-blickte melancholisch ins Weite … Vielleicht hatte sie bläuliche
+blickte melancholisch ins Weite … Vielleicht hatte sie bräutliche
 Gedanken. Wer kann die Gedanken einer Kuh erraten.
 
 Dann sagte Harald:
@@ -219,8 +219,8 @@ Ich lachte schallend.
 
 Aber da sprach jemand hinter uns:
 
-»Meine Herren, sofern einer von Ihnen Furcht nur den
-Kopf wendet, drücke im ab, und ich schieße nie vorbei. —
+»Meine Herren, sofern einer von Ihnen auch nur den
+Kopf wendet, drücke ich ab, und ich schieße nie vorbei. —
 Bleiben Sie liegen, wie Sie liegen!«
 
 Es war eine Stimme, die sehr ruhig klang. Es war
@@ -230,7 +230,8 @@ deutsch, aber mit Akzent.
 Das alles war im übrigen nebensächlich. Wichtiger war,
 daß hinter uns ein leises Klacken ertönte, wie von einer
 Luftbüchse, und daß vor uns der eine unserer Hähne flügelschlagend
-Ringens und dann stille lag — tot — erschossen.
+umsank und dann stille lag — tot — erschossen.
+
 <@pagebreak/>
 Also eine Warnung für uns, die Harst folgendermaßen
 quittierte:
@@ -247,7 +248,7 @@ Scherze hatte er kein Verständnis.
 »Wie Sie befehlen,« meinte Harst. »Aber ohne Unterhaltung
 wird die Sache bald langweilig und …«
 
-Wieder das Fladen …
+Wieder das Klacken …
 
 Harsts Zigarette flog zerfetzt davon. Der Kerl hatte
 sie ihm aus den Fingern geschossen.
@@ -261,14 +262,14 @@ Er zuckte die Achseln und schwieg …
 <h2>2. Kapitel.</h2>
 <h3>Die blonde Frau Edda.</h3>
 
-bisher war mir dieser Wildweoit-Überfall mit ProbeJhüssen
+bisher war mir dieser Wildwest-Überfall mit Probeschüssen
 ein wenig komisch vorgekommen. Ich nahm die
 Geschichte nicht recht ernst, denn ein einzelner Angreifer hat
 uns gegenüber noch stets den kürzeren gezogen. Nun hörte
 ich jedoch in unserem Rücken eine zweite Stimme, einen
 tiefen Baß, so einen rechten krächzenden Seemannswhiskybaß
 … Und der fragte in waschechtestem Matrosenslang auf
-englisch
+englisch:
 
 »Euer Ehren, sollen wir sie fesseln?«
 
@@ -277,7 +278,7 @@ hinab. Nur Jack mag in der Nähe bleiben.«
 
 Schritte — schlürfende Schritte entfernten sich.
 
-Die Anrede »Euer Ehren«, die der Whist-Baß dem
+Die Anrede »Euer Ehren«, die der Whisky-Baß dem
 Kunstschützen höflichst hatte zukommen lassen, ist zumeist
 nur für Geistliche oder aber englische Adlige üblich. —
 Wer mochte also der Anführer dieser Piraten sein?!
@@ -292,11 +293,11 @@ der Fernlenkung von unbemannten Schiffen als auch an
 Ingenieur Karstens Experimenten, die uns nicht unbekannt
 blieben, das größte Interesse nimmt. Offenbar hatte Karsten
 <@pagebreak/>
-das Problem der Fernlenkung durch Bereiche Wellen weit
-einfacher gelöst. Wir wissen nun, daß — er sein Probesciff,
+das Problem der Fernlenkung durch Herzsche Wellen weit
+einfacher gelöst. Wir wissen nun, daß er sein Probeschiff,
 das Wrack, versenkt und auch aus seinem Kutter vor seinem
 freiwilligen Ende alle Apparate entfernt hat, wir sind aber
-auch) überzeugt, daß hier auf Schluderrook noch wichtige technische
+auch überzeugt, daß hier auf Schluderrook noch wichtige technische
 Aufzeichnungen von seiner Hand zu finden sind. In
 der vergangenen Nacht landeten wir hier mit einem U-Boot.
 Ich selbst war’s, der Sie heute früh beobachtete, als Sie
@@ -313,7 +314,7 @@ gestreiftes sich niedergelegt hatte: Ich in einem Schaffell!«
 »Danke … — Sie müssen sich nicht einbilden, daß Sie
 allein das Pulver erfunden haben …«
 
-»Tue ich aufs nicht. — Bitte weiter …«
+»Tue ich auch nicht. — Bitte weiter …«
 
 »Ich nehme an, daß die Zeichen in der Fensterscheibe eine
 Bilderschrift darstellen, die den, der sie löst, dorthin führen,
@@ -338,63 +339,63 @@ einschüchtern?«
 
 <@pagebreak/>
 »Vielleicht doch. Sie haben zu wählen: Entweder gehorchen
-»Sie, oder Sie beide lernen die Nordsee kennen, wo sie am
+Sie, oder Sie beide lernen die Nordsee kennen, wo sie am
 tiefsten ist.«
 
-»Danke. —Gestatten Sie, daß ich nun rede?«
+»Danke. — Gestatten Sie, daß ich nun rede?«
 
 »Bitte …«
 
 »Wenn wir nicht gehorchen, werden wir abgetan — gut.
-— Dann täten Sie Zwecklos zwei Menschen töten. Sie werden
+— Dann täten Sie Zwecklos zwei Menschen töten. *Sie* werden
 das Versteck nie finden, da die Bilderschrift auf der Scheibe
 aufs engste mit etwas anderem zusammenhing, das neben
 dem Fenster unter dem großen Seeblick auf die gekalkte
 Wand geschrieben war. Diese Schrift dort habe ich vorhin
-»weggekratzt. Nehmen Sie das Bild vom Nagel, und Sie
-sehen die Stelle. Ihre Wissen ist also gescheitert, falls
-»Sie uns umbringen.«
+weggekratzt. Nehmen Sie das Bild vom Nagel, und Sie
+sehen die Stelle. Ihre Mission ist also gescheitert, falls
+Sie uns umbringen.«
 
 Der Mann Schwieg eine geraume Weile. Ihm schien diese
-»Mitteilung Harsts doch recht wider den Strich zu gehen.
-»Er war dadurch in eine peinliche Lage geraten.
+Mitteilung Harsts doch recht wider den Strich zu gehen.
+Er war dadurch in eine peinliche Lage geraten.
 
-Er änderte den Ton, begann zu flackern … bot Harald
+Er änderte den Ton, begann zu schachern … bot Harald
 hunderttausend Mark, hundertfünfzigtausend …
 
 Harst lachte jetzt sehr vergnügt. Sein Lachen reizte das
-Hühnervolk zu lautem Besucher, und selbst Anita begann: &
-muhen … Nur die vornehmere Asta blieb still, und
+Hühnervolk zu lautem Gegacker, und selbst Anita begann zu
+muhen … Nur die vornehmere Asta blieb still, und der
 tote Hahn krähte auch nicht mehr.
 
 Minuten verstrichen.
 
-Das Tierkonzert verstummte, und Anita drehte ur
-ihren Kopf mit den großen, dummen Augen liebevoll
+Das Tierkonzert verstummte, und Anita drehte uns
+ihren Kopf mit den großen, dummen Augen liebevoll zu.
 
-Ich saß Anita am nächsten. In ihren matt glänzende
-»Pupillen spiegelte sich verzerrt die Hinterfront unsere
-Häuschens wieder. Ich sah, daß der Platz hinter uns Tee
+Ich saß Anita am nächsten. In ihren matt glänzenden
+Pupillen spiegelte sich verzerrt die Hinterfront unseres
+Häuschens wieder. Ich sah, daß der Platz hinter uns leer
 war. Der Fremde hatte sich lautlos entfernt.
 
 »Harald, er ist weg …« flüsterte ich hastig …
 
 »Wirklich?«
 
-Ich langte schon ändieSchlüsseltasche, spannte die
+Ich langte schon in die Schlüsseltasche, spannte die
 <@pagebreak/>
 kleine schwarze Clement und war mit einem Satz hinter
-Anita, wo im mich, Deckung suchend, zusammenkauerte.
+Anita, wo ich mich, Deckung suchend, zusammenkauerte.
 
-Harst blieb hier, drehte nur den Kopf und meinte:
+Harst blieb sitzen, drehte nur den Kopf und meinte:
 
-»Die Herrschaften verzichten … Lauf! mal zur Treppe
+»Die Herrschaften verzichten … Lauf’ mal zur Treppe
 und schau’ zum Hafen hinab.«
 
 »Damit Sie mir eine Kugel in den Bauch knallen!!
 Danke sehr!«
 
-Er stand auf und schritt las um das Haus herum …
+Er stand auf und schritt rasch um das Haus herum …
 Ich schämte mich, folgte ihm und … sah genau so wenig
 wie er. Nirgends war eine Menschenseele zu erblicken.
 
@@ -417,14 +418,14 @@ irgendwie …«
 
 Harald hörte nicht hin. Er hatte plötzlich mit jäher
 Wendung die Richtung nach dem Weideplatz der Schafe
-eingeschlagen. Er ging so schnell, daß ich traben müsse,
+eingeschlagen. Er ging so schnell, daß ich traben mußte,
 um nur gleichzeitig mit ihm bei dem … elften Hammel
-anzugelangen, einem Hammel, der lediglich ein Sattel mit
+anzugelangen, einem Hammel, der lediglich ein Schaffell mit
 Kopf und Beinen war, das über einem kleinen Strauche lag.
 
 »Der Mann hat nicht gelogen, er war hier verborgen,«
 sagte Harst sichtlich überrascht. »Wirklich kein dummer Gedanke!
-Wie sollten wir auch darauf kommen Nachtigallen, ob nur
+Wie sollten wir auch darauf kommen nachzuzählen, ob nur
 zehn Schafe vorhanden?! Sehr schlau … Er hat uns die
 <@pagebreak/>
 ganze Zeit ungestört beobachtet … Er ist kein zu verachtender
@@ -434,9 +435,9 @@ Er packte zu und hob das Fell am Schwarze empor …
 Der Kopf schlackerte hin und her. Es war ein noch frisches
 und ungegerbtes Fell, und es roch keineswegs gut.
 
-Ich trat Kulis … Der Gestank war mir widerlich.
+Ich trat zurück … Der Gestank war mir widerlich.
 Harald ließ das Fell fallen, und in demselben Moment
-gewahrte ich im Maule des Blickes einen Streifen Papier.
+gewahrte ich im Maule des Vließes einen Streifen Papier.
 
 »Ein Zettel, Harald …!!«
 
@@ -448,17 +449,17 @@ Konkurrenten Mr. Z.
 In tadellos regelmäßiger, leider aber auch völlig Charakterloser
 Schrift stand da mit blauer Tinte:
 
-»Auf Wiedersehen! — Aus ich habe das Pulver
-erfunden. — Ihr Konkurrent Mr. 3.«
+> »Auf Wiedersehen! — Auch ich habe das Pulver
+erfunden. — Ihr Konkurrent Mr. Z.«
 
-Was sollte das nun wieder?! — Mein fragender Bis
+Was sollte das nun wieder?! — Mein fragender Blick
 wurde von Harald nicht beachtet. Sein Blick schweifte gen
 Süden, wo die ferne große Insel im leichten Dunst als
 dunkler Fleck auf den Wogen schwamm.
 
-»Ein Lege:!« rief ich.
+»Ein Segel!« rief ich.
 
-»Ja, ein großer Kutter, Kurs hierher …
+»Ja, ein großer Kutter, Kurs hierher …«
 
 »Besuch also …«
 
@@ -468,30 +469,29 @@ Eine halbe Stunde drauf lief der Kutter in den Hafen ein.
 
 Wir standen unten am Bollwerk und grüßten die schlanke
 Dame, die da im Ledermantel und Ledermütze neben der
-Heckkajüte an der niederen Reling lehnte. Unter der schien
-Mütze schaute ein zartes, blasses, seines Antlitz hervor, in
-dem ein Paar tief ausschaltete Augen müde uns anleuchteten.
+Heckkajüte an der niederen Reling lehnte. Unter der schicken
+Mütze schaute ein zartes, blasses, feines Antlitz hervor, in
+dem ein Paar tief umschattete Augen müde uns anleuchteten.
 
 Der große Fischkutter machte fest. Die Dame sprang
 geschickt auf das Bollwerk und sagte etwas atemlos:
 
 <@pagebreak/>
-
 »Ich bin Frau Gulbranson …«
 
 Es genügte. Wer kennt Jakob Gulbranson nicht, den
 Neuyorker Milliardär, der, Schwede von Geburt, niemals
 aus seiner Deutschfreundlichkeit ein Hehl gemacht und bei
-der Freigabe deutschen Eigentums eine so gewichtige Volle
+der Freigabe deutschen Eigentums eine so gewichtige Rolle
 gespielt hat.
 
 Und wer hat damals nicht in den Zeitungen gelesen,
 daß Sven Holger Gulbranson, der Mitte Juli zur Kur
-das berühmte Jedoch Tölz aufgesucht hatte — inkognito,
+das berühmte Jodbad Tölz aufgesucht hatte — inkognito,
 seit dem vierzehnten August dort spurlos verschwunden war!
 
 Wir hatten’s gelesen … Wir hatten jedoch keine Zeit
-gehabt, der mysteriösen Ungetiegenheit irgendwie Beachtung
+gehabt, der mysteriösen Angelegenheit irgendwie Beachtung
 zu schenken, denn der Fall Menk, den meine Leser unter
 dem Titel »Die schwimmende Grotte« kennen, hielt uns
 genügend in Atem, —
@@ -516,22 +516,22 @@ im Soße. »Endliche bin ich wieder unter Menschen!!«
 
 Sie sprach’s mit ungeheurer Bitterkeit.
 
-»»—. Unter Menschen, die mir glauben werden!! Noch
+»… Unter Menschen, die mir glauben werden!! Noch
 steht’s nicht in den Zeitungen, daß man mich verdächtigt,
-meinen Mann beseitigt zu haben. Aber die Monate seiner
-Verwandten, gierig auf das Vermögen, voller Haß gegen.
+meinen Mann beseitigt zu haben. Aber die Meute seiner
+Verwandten, gierig auf das Vermögen, voller Haß gegen
 <@pagebreak/>
-mich, die die Erbaussichten dieser elenden Schnarchen zerstörte,
+mich, die die Erbaussichten dieser elenden Schmarotzer zerstörte,
 ist schon an der Arbeit …!«
 
 Sie hob die Hände, und diese schmalen Hände ballten sich.
 
-»96 — geflohen bin ich aus Tölz, Herr Harst …
+»Oh — geflohen bin ich aus Tölz, Herr Harst …
 Wir wohnten dort unter dem Namen Holger inkognito im
 Hotel Madlener, wir hatten nur einen Sekretär, einen
 Diener und meine Zofe mit … Aber die Meute von drüben
 Hatte uns wie stets ihre Spione an die Fersen geheftet
-— wie stets, Zeit ich; die um zwanzig Jahre jüngere armselige
+— wie stets, seit ich, die um zwanzig Jahre jüngere armselige
 bescheidene schwedische Stenotypistin, Jakobs Frau geworden,
 Frau eines Junggesellen, dem drei Brüder das Leben
 verbitterten …«
@@ -546,16 +546,16 @@ weichen, tiefen Güte, die er für jeden Verfolgten empfindet.
 Bis hierhin reicht die Niedertracht Ihrer Feinde nicht. —
 Schraut, reiche unserem Schützling ein Glas Rotwein …«
 
-Sie trank … »sie trank wie eine Verschmachtete. Dann
+Sie trank … sie trank wie eine Verschmachtete. Dann
 kam die Nervenkrise. Sie begann zu weinen. Und mitten aus
 den rinnenden Tränen heraus schrie sie dann in der
 Zweifelten Selbstanklage:
 
-»Ich … habe … einen … Geliebten gehabt! ’Er wird
+»Ich … habe … einen … Geliebten gehabt! Er wird
 Gulbranson getötet haben — er muß es gewesen sein, und
 die ganzen Umstände stellen mich als Mitschuldige hin! Das
 weiß die Meute, das wissen diese drei anderen Gulbransons,
-die vielleicht schon einen. Haftbefehl gegen mich erwirkt haben.«
+die vielleicht schon einen Haftbefehl gegen mich erwirkt haben.«
 
 Mir sind solche Szenen mit weinenden Frauen eine Pein.
 
@@ -568,9 +568,9 @@ alles — ohne jede Entstellung. — Was geschah in Tölz?«
 <@pagebreak/>
 
 <h2>3. Kapitel.</h2>
-<h3>Olaf. Erschien.</h3>
+<h3>Olaf Erichsen.</h3>
 
-… — — Das einzig richtige Rezept.
+… Das einzig richtige Rezept.
 
 Sie nahm sich wirklich zusammen, trocknete die Augen
 und bat um von ein Glas Rotwein.
@@ -1045,7 +1045,7 @@ Betreffende mit zwei guten Kletterern wie Schraut und mir
 fast gleichen Schritt hält — fast … Es machte wirklich den
 Eindruck, als ob Sie uns damals folgten, Mr. Gulbranson.«
 
-Dieser letzte Hieb war für Tom wohl der schmerzlichite.
+Dieser letzte Hieb war für Tom wohl der schmerzlichste.
 Seine bisherige halb spottete Ruhe wich einer verdächtigen
 Gereiztheit.
 
