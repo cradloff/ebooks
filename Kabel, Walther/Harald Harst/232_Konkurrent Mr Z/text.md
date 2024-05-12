@@ -580,9 +580,9 @@ sie. »Der schlimmste der drei Brüder, der jüngste, war
 in Tölz … ist in Tölz — oder jetzt hinter mir her mit
 den anderen Kreaturen der Meute … durch das Fenster bin
 ich nachts entwichen, habe ein Auto genommen, fuhr bis
-Münden, erreichte noch den Nachtexpreß nach Berlin …«
+München, erreichte noch den Nachtexpreß nach Berlin …«
 
-»Was geschah in Tölz?« fragte Harald noch. eindringlicher.
+»Was geschah in Tölz?« fragte Harald noch eindringlicher.
 
 Sie berichtete zaghaft …
 
@@ -590,88 +590,88 @@ Sie berichtete zaghaft …
 Ich war mit meinem Bruder nach Neuyork ausgewandert,
 ich fand Stellung in Gulbransons Zentralbüro. Dort lernte
 er mich persönlich kennen. Als er um mich anhielt, erklärte
-ich ihm ehrlich, daß ich Hbdimilich verlobt gewesen war,
+ich ihm ehrlich, daß ich heimlich verlobt gewesen war,
 daß mein Verlobter jedoch mich freigegeben habe, da wir
-beide so arm waren und das Verlöbnis so aussichtslos. Ihr
-hatte drüben in Rentiers auch nichts mehr von Olaf Erichsen
-gehört … Diese Vergangenheit war tot für mich. — so
+beide so arm waren und das Verlöbnis so aussichtslos. Ich
+hatte drüben in Neuyork auch nichts mehr von Olaf Erichsen
+gehört … Diese Vergangenheit war tot für mich — so
 glaubte ich. Wir Frauen lassen uns so leicht durch äußeren
 Glanz blenden und reden uns so leicht etwas ein, das
 nachher doch ganz, ganz anders ausschaut, wenn Stunden
 <@pagebreak/>
 innerer Einkehr kommen. — Jedenfalls, ich wurde Frau Gulbranson.
-Kurz nachts der Bosheit überreichte mir mein
-Bruder, der mit Olaf eng befreundet gewesen und der sich:
+Kurz nach der Hochzeit überreichte mir mein
+Bruder, der mit Olaf eng befreundet gewesen und der sich
 mit mir dieser Heirat wegen überworfen hatte, einen Brief
 Erichsens, in dem mein einstiger Verlobter mich mit den
 häßlichsten Ausdrücken belegte … Er hielt mir Treulosigkeit,
 Leichtfertigkeit, vieles andere vor … — Ich zerriß den
 Brief empört und warf die Stücke meinem Bruder vor die
 Füße, der nach diesem Auftritt Neuyork verließ und jede
-Verbindung mit mir glotzt — bis heute … Ich weiß nicht.
-wo er lebt, was er treibt … Er hatte meinen Gatten, er
-war in seiner Freundschaft zu Olaf Erichsen so ungerecht, daß.
+Verbindung mit mir abbrach — bis heute … Ich weiß nicht,
+wo er lebt, was er treibt … Er haßte meinen Gatten, er
+war in seiner Freundschaft zu Olaf Erichsen so ungerecht, daß
 er mir die gleichen Vorwürfe gemacht hatte, obwohl doch
 Olaf keinerlei Anrecht mehr auf mich besaß. — Zwei Jahre
 habe ich mit Jakob Gulbranson in glücklichster Ehe gelebt. Er
 war ein vornehmer, feinsinniger Charakter. Unsere Ehe war
-mehr Freundschaft als himmelstürmende Liede. Vielleicht
-Konnte Gulbranson es mir am meisten, daß er
+mehr Freundschaft als himmelstürmende Liebe. Vielleicht
+dankte Gulbranson es mir am meisten, daß er
 Durch unsere Verlobung, bei der die ganze abgrundtiefe
 Gemeinheit und Selbstsucht seiner erbgierigen Brüder sich
 erst so recht offenbarte, mit diesen Schmarotzern aufräumen
 konnte. Er verbot ihnen sein Haus, entzog ihnen
 jedoch leider nicht die überreiche Unterstützung, mit deren
-Hilfe sie dann fortgesetzt uns belauern ließen. — Am z3zwölftew
-»Lügner, als ich allein im Tölzer Kurgarten auf entlegener
-Sank saß, trat ganz überraschend Olaf Erichsen auf mich zu.
+Hilfe sie dann fortgesetzt uns belauern ließen. — Am zwölften
+August, als ich allein im Tölzer Kurgarten auf entlegener
+Bank saß, trat ganz überraschend Olaf Erichsen auf mich zu.
 Er sagte nichts, schob mir nur schnell einen Zettel in die
 Hand und ging weiter. Ich war einer Ohnmacht nahe. Olaf
 war recht verändert im Äußeren, mager und kränklich …
-Und Docht wurde mir da mit einem Schlage klar, daß die
+Und Doch wurde mir da mit einem Schlage klar, daß die
 Liebe zu ihm in meinem Herzen nie erstorben …«
 
 Sie weinte leise …
 
-»Deck Zettel … ja, der Zettel bestellte mich für den übernächsten
+»Der Zettel … ja, der Zettel bestellte mich für den übernächsten
 <@pagebreak/>
 Abend, also am vierzehnten, nach einem neuerbauten,
-von unbewohnten Landhaus drüben am Stadt-Teil des
+noch unbewohnten Landhaus drüben am Stadt-Teil des
 Bades. Olaf hatte geschrieben:
 
-Ich erwarte Sie am täten abends 8 Uhr in dem noch
+> Ich erwarte Sie am 14ten abends 8 Uhr in dem noch
 leeren Hause in der Rigalstraße, das Gulbranson ursprünglich
 mieten wollte. Wenn Sie nicht kommen, werden Sie es
 bitter bereuen.
 
-— … Und ich ging hin … Das Haus liegt ganz einsam inmitten
+… Und ich ging hin … Das Haus liegt ganz einsam inmitten
 der Wiesen. Ein Maurermeister hat es erbaut und wohl
 gehofft, es schnell verkaufen zu können. Mein Mann wollte
 es tatsächlich für die Dauer unseres Aufenthalts in Tölz
 mieten, aber der Weg bis zum Trinkbrunnen war doch zu
-weit, der Arzt verbot ihm jegliche Anstrengung. — Ich. ging
+weit, der Arzt verbot ihm jegliche Anstrengung. — Ich ging
 heimlich hin … Kurz vor acht stand ich vor der Zaunpforte.
 Sie war offen, ebenso die Haustür. In der bereits
-anbrechender Abenddämmerung wagte ich mich nur wenige
+anbrechenden Abenddämmerung wagte ich mich nur wenige
 Schritte in den Flur hinein. Niemand erschien. Ich wartete
 vielleicht fünf Minuten, wollte dann gerade wieder davoneilen,
 als ich droben in dem dunklen stillen Hause einen
 gellenden Hilferuf vernahm … Es war die Stimme meines
-Marnes … Ich taumelte gegen die Wand … Ich war wie
+Mannes … Ich taumelte gegen die Wand … Ich war wie
 betäubt, hörte nichts mehr, stürzte hinaus, gelangte ins
 Hotel: Mein Mann war nicht dort, erschien nicht wieder,
 blieb verschwunden. Am nächsten Mittag benachrichtigte ich
 die Polizei — und log, verschwieg meine Verabredung mit
 Olaf, meinen Besuch in dem Landhaus. Man suchte … Man
-fand Auffangen nicht, und auch Olaf sah ich nicht wieder.
-Eine Woche verstrich) — noch eine … Dann ließ sich der
+fand Gulbranson nicht, und auch Olaf sah ich nicht wieder.
+Eine Woche verstrich — noch eine … Dann ließ sich der
 jüngste der drei Brüder bei mir melden, sagte mir auf
 den Kopf zu, ich hätte mit Hilfe meines einstigen Geliebten
 Gulbranson in dem leeren Hause getötet und die Leiche beseitigt.
 Ich wies ihn hinaus. Ich gab nun vor der Polizei
 die Wahrheit an. Drei Tage verstrichen wieder. Dann wurde
 <@pagebreak/>
-ich durch einen Richter verhört, der mir zum Schluß ertönte,
+ich durch einen Richter verhört, der mir zum Schluß erklärte,
 ich dürfe Tölz ohne seine Erlaubnis nicht verlassen, von
 eine Verhaftung wolle er vorläufig Abstand nehmen. In
 der Nacht floh ich. Und nun — bin ich hier bei Ihnen,
@@ -692,11 +692,11 @@ So geschah’s …
 
 Es galt die Koffer packen, es galt Abschied nehmen
 von allem, das ich hier liebgewonnen, von Anita, von Asta,
-von den Grafen … den Hühnern …
+von den Schafen … den Hühnern …
 
 Ich streichelte Anita den dicken Schädel und sagte:
 
-»Au hast es besser als ich … Du wirst hier weiter
+»Du hast es besser als ich … Du wirst hier weiter
 in Frieden leben und fressen und wiederkäuen … Bange
 dich nicht zu sehr. Wir kehren zurück.«
 
@@ -706,8 +706,8 @@ schenkte ihn den Leuten des Kutters.
 Mr. Z., der Konkurrent, war vergessen. —
 
 Abends waren wir auf der großen Insel und beorderten
-unseren Stellvertreter na Schluderrook und fuhren dann
-mit der Bahn über den hohen Damm und waren Diebes
+unseren Stellvertreter nach Schluderrook und fuhren dann
+mit der Bahn über den hohen Damm und waren wieder
 mitten im Getriebe der großen Welt — leider! Auf Schluderrook
 war’s so schön gewesen … —
 
@@ -720,17 +720,16 @@ aufpflanzten: Münchener Kriminalbeamte!
 Harald bat die Herren, seinen Namen nennend, ins Lesezimmer.
 Es war leer. Die Saison für Tölz war vorüber.
 Als wir die Marktstraße soeben hinabgefahren waren, hatte
-die blonde Franzi am Fenster des Bettler-Braut gestanden
-und melancholisch zum melandolisch-grauen Herbsthimmel hin
-aufgeblickt. Die Berge waren in Wolken gehüllt, und das
-Gewölk 3o0g so tief, daß der Ort im Nebel verschwand.
+die blonde Franzi am Fenster des Schettler-Bräus gestanden
+und melancholisch zum melancholisch-grauen Herbsthimmel
+hinaufgeblickt. Die Berge waren in Wolken gehüllt, und das
+Gewölk zog so tief, daß der Ort im Nebel verschwand.
 
-I1a Lesezimmer sagte einer der Beamten sehr förmlich:
+Im Lesezimmer sagte einer der Beamten sehr förmlich:
 
 »Ich bedauere, Ihre Einmischung ablehnen zu müssen,
 Herr Harst. Frau Gulbranson ist der Mitschuld an der
-Sport ihres Gatten verdächtig. Hier ist der Haft
-Befehl.«
+Ermordung ihres Gatten verdächtig. Hier ist der Haftbefehl.«
 
 Frau Edda bewahrte Haltung. »Ich füge mich,« erklärte
 sie kühl. »Herr Harst wird beweisen, daß dieser Verdacht
@@ -742,7 +741,7 @@ Gulbransons gefunden?«
 »Ja!« triumphierte der Beamte. »Gestern abend … Und
 Zwar auf dem Friedhof unterhalb des leeren Landhauses,
 oberflächlich in einer Ecke verscharrt und mit welken Kränzen
-bedeckt
+bedeckt.«
 
 Frau Gulbranson war erbleichend in einen der Sessel
 gesunken.
@@ -761,20 +760,20 @@ peinlich:
 <@pagebreak/>
 »Meine Herren, würden Sie Frau Gulbranson bis morgen
 mittag die Qual ersparen, zwecklos eine Zelle des hiesigen
-Gefängnisses kennenzulernen? I4 verbürge mich dafür, daß
-Frau Gulbranson nicht flieht und daß ich Ihnen bis Fahrig
+Gefängnisses kennenzulernen? Ich verbürge mich dafür, daß
+Frau Gulbranson nicht flieht und daß ich Ihnen bis dahin
 die wahren Täter ausliefern oder doch die nötigen Beweise
 gegen sie herbeischaffe.«
 
 »Tut uns sehr leid …«
 
 Harald erklärte nur: »Ich begreife Sie vollkommen …
-Befehl ist Botest … Ich war selbst Beamter. — Wollen
+Befehl ist Befehl … Ich war selbst Beamter. — Wollen
 wir bitte Platz nehmen, meine Herren. Das, was ich Ihnen
 noch zu sagen habe, ist mit ein paar Worten nicht abgetan
 … Ich hätte mit dem, was ich für Frau Gulbranson
-vorzubringen habe, lieber noch gewartet. Unter diesen Um
-ständen muß ich sprechen.« Er deutete auf ein Wandsofa.
+vorzubringen habe, lieber noch gewartet. Unter diesen Umständen
+muß ich sprechen.« Er deutete auf ein Wandsofa.
 »Sie werden zufrieden sein, meine Herren, obwohl es sich
 um höchst merkwürdige Entlastungsgründe handelt …«
 
@@ -784,15 +783,15 @@ von dem, was Harst hier klarstellen wollte. Ich selbst war
 vollständig ahnungslos. Ich wußte nicht, wie Harald den
 Dingen hier sofort eine Wendung zum Besseren geben wollte.
 
-Er begann zunächst den Fall »Wen?«, die Geschichte
+Er begann zunächst den Fall »Menk«, die Geschichte
 des geheimnisvollen Wracks, ganz kurz zu schildern, ging
 dann zu William Karstens freiwilligem Tode über und
 betonte, daß Karsten zweifellos mit seinem Motorrad auch
-hier in Tölz gewesen sei, wenn auch vielleicht nur eins
+hier in Tölz gewesen sei, wenn auch vielleicht nur eine
 Nacht, um uns dann nach Berlin zu folgen.
 
-Die Beamten zeigten eine gewisse Ungeduld. Eis war
-18 zu schwer zu erkennen, wohinaus diese Einleitung führen
+Die Beamten zeigten eine gewisse Ungeduld. Es war
+ja auch schwer zu erkennen, wohinaus diese Einleitung führen
 Sollte.
 
 Harald berichtete nun von unseren Ferientagen auf
@@ -801,14 +800,14 @@ ein anderes Aussehen, als er jetzt erklärte:
 
 <@pagebreak/>
 »Auf einer Fensterscheibe des Arbeitszimmers Karstens
-entdeäate im eine Bilderschrift, die erst ganz kürzlich mit einem
+entdeckte ich eine Bilderschrift, die erst ganz kürzlich mit einem
 Diamant eingeritzt sein konnte. Diese Bilder waren von links
 nach rechts folgende: Erstens ein Haus, dahinter Tannen
-angedeutet. Zweitens ein Datum: 14. 3. 28. — Drittens zwei
+angedeutet. Zweitens ein Datum: 14.&nbsp;8.&nbsp;28. — Drittens zwei
 Männer, die einen dritten angriffen. — Viertens eine
 Menge Gefäße, klar bezeichnet, und unter dem einen ganz
 rechts ein stehendes Kreuz.« — Wenn ich Ihnen nun noch
-jage, daß Karsten in der Nacht vom 14. zum 15. August
+sage, daß Karsten in der Nacht vom 14. zum 15. August
 hier gewesen sein muß, wenn ich daran erinnere, daß das
 einsame leere Landhaus in der Rigalstraße hier Tannen
 als Hintergrund hat, dann werden Sie, meine Herren,
@@ -821,8 +820,8 @@ Der eine der Beamten erwiderte ehrlich:
 
 »Nein, denn wir stehen durchaus auf dem Boden der
 nüchternen Tatsachen, Herr Harst, während Ihre lebhafte
-»Bhiaankasie Zusammenhänge Gehofft, die vielleicht!n eine
-Detektivgeschichte hineingehören, nicht aber in ein polizeidiches
+Phantasie Zusammenhänge schafft, die vielleicht in eine
+Detektivgeschichte hineingehören, nicht aber in ein polizeiliches
 Ermittlungsverfahren.«
 
 Harald verbeugte sich höflich. »Meine Phantasie entbehrt
@@ -837,7 +836,7 @@ dem das Landhaus gehörte, und nahmen auch ihn
 mit. — —
 
 Als wir nun das einsame Haus betraten, gab Harst
-Seinen ersten Trumpf zum besten …
+seinen ersten Trumpf zum besten …
 
 <@pagebreak/>
 
@@ -850,7 +849,7 @@ Er fragte den Hausbesitzer:
 
 »Nein, nicht mehr … Aber diese Töpfe standen droben
 in einer Dachkammer. Ich habe sie zu mir bringen lassen, da
-im fürchtete, sie könnten gestohlen werden.«
+ich fürchtete, sie könnten gestohlen werden.«
 
 Harst wandte sich an die Beamten. »Bitte, also die
 Töpfe waren hier. — Wann ließen Sie sie wegschaffen,
@@ -859,7 +858,7 @@ Meister?«
 »Vorgestern …«
 
 »Mithin waren die Töpfe vorhanden, als Karsten sich
-hier versteht hielt. — Haben Sie, Meister, unter einem
+hier versteckt hielt. — Haben Sie, Meister, unter einem
 der Töpfe etwas gefunden? Vielleicht einen Zettel?«
 
 »Nein — nichts!«
@@ -880,23 +879,20 @@ zugeben, daß er sich hier aufgehalten hatte. Immerhin legte
 er, wie ich ganz bestimmt annehme, unter einen der Töpfe
 einen Zettel, auf dem er den Hergang des Mordes kurz
 schilderte. Als er dann auf Schluderrook einsah, daß sein
-Spiel verloren, Kiste er die Bilder in Ei
-indem er hoffte, ich würde auf diese«
-finden. Er hätte vielleicht das He — H in
-seinen allerletzten Aufzeichnungen
-da wir ihm zu dicht auf den
+Spiel verloren, ritzte er die Bilder in die Scheibe ein,
+indem er hoffte, ich würde auf diese Weise den Zettel
+finden. Er hätte vielleicht das Beobachtete auch noch in
+seinen allerletzten Aufzeichnungen erwähnt, vergaß dies aber,
+da wir ihm zu dicht auf den Fersen. — Meister, wer holte
 die Töpfe von hier ab?«
 
 »Mein Sohn …«
 
-»Dann wollen
-nicht vielleicht da
-bemerkt, es aber
-
-ihn fragen, ob er
-er einem der Töpfe
-
-geschrieben haben.«
+»Dann wollen wir umkehren und ihn fragen, ob er
+nicht vielleicht doch ein Blatt Papier unter einem der Töpfe
+bemerkt, es aber achtlos weggeworfen hat. Karsten dürfte
+vielleicht das Beobachtete nicht in deutscher Sprache
+niedergeschrieben haben.«
 
 Die Beamten lächelten halb ironisch, halb zweifelnd.
 Ich konnte ihnen das nicht verargen. Haralds Kombinationen
@@ -905,7 +901,7 @@ ebenso sehr ein Produkt ungewöhnlicher Phantasie, das sich
 auf allzu spärliche Tatsachen stützte.
 
 Schweigend fuhren wir zu dem Wohnhause des Maurermeister
-in den Bad»—Teil zurück.
+in den Bad-Teil zurück.
 
 Der halberwachsene Sohn stand im Vorgarten und
 schüttelte gerade Äpfel.
@@ -918,64 +914,64 @@ ein bestürztes Gesicht.
 sich als Kriminalbeamter ausgab und der die Farbentöpfe
 sehen wollte. Ich führte ihn dort in den Stall, wo sie
 jetzt stehen. Er schickte mich hinaus, kam dann sofort wieder
-heraus und radelte davon, indem er mit erklärte, die Sache
+heraus und radelte davon, indem er mir erklärte, die Sache
 sei erledigt.«
 
-Wir gingen alle rast in den Stall, wo in einem Nebenraum
-auf dem Zementboden »die Töpfe standen. Harst hob
-sie einzeln auf und untersuchte ihren Boden. Andern einen
-klebte noH’Yän der übergeflossenen Ölfarbe ein Zeichen
-Papier; »d »Harald vorsichtig mit dem Messer loslöste.
-Auf diesem malen Überrest des Zettels, den der Fremde
-sich nun angeeignet alle, konnte man noch: die mit Tinte
-geschriebenen Worte Fuhr Eure entziffern:
+Wir gingen alle rasch in den Stall, wo in einem Nebenraum
+auf dem Zementboden die Töpfe standen. Harst hob
+sie einzeln auf und untersuchte ihren Boden. An dem einen
+klebte noch in der übergeflossenen Ölfarbe ein Fetzchen
+Papier, das Harald vorsichtig mit dem Messer loslöste.
+Auf diesem schmalen Überrest des Zettels, den der Fremde
+sich nun angeeignet hatte, konnte man noch die mit Tinte
+geschriebenen Worte und Wortfragmente entziffern:
 
-In ix.
-zwei Eid
-Mutter +«;
+<p class="centered pre">ihn erwü…
+zwei
+Amer</p>
 
-»Ist Herr Gulbranson erwärgn ’worden?« fragte Harst
+»Ist Herr Gulbranson erwürgt worden?« fragte Harst
 die Beamten.
 
-Sie mitten. Sie sahen die Dinge nun doch in anderem
+Sie nickten. Sie sahen die Dinge nun doch in anderem
 Lichte.
 
 »Nun also,« meinte Harst zufrieden. »Hier ist ein Teil
-der Viederschrift Karstens. Die Worte besagen: »Ihn Gewürz:«
-— »zwei«, zu ergänzen Männer -, und »Amen« kann nur
+der Niederschrift Karstens. Die Worte besagen: »Ihn erwürgt«
+— »zwei«, zu ergänzen Männer —, und »Amer« kann nur
 Amerikaner heißen, also zwei Amerikaner erwürgten Herrn
 Gulbranson.«
 
 Der eine der Beamten verbeugte sich geradezu respektvoll.
-»Szene Harst, Ihr Schlußfolgerungen leuchten mir
+»Herr Harst, Ihre Schlußfolgerungen leuchten mir
 durchaus ein. — Wer war aber der Radler hier, der sich
 als einer von uns ausgab?«
 
-»Las war ein Komplice der Mörder, der uns in dem
+»Das war ein Komplice der Mörder, der uns in dem
 <@pagebreak/>
 leeren Landhaus leider belauscht hat und uns hier dann
 zuvorgekommen ist. — Wie sah der Fremde aus?«
 
-… Der Sohn des Maurermeisters beschrieb ihn sehr genau:
+Der Sohn des Maurermeisters beschrieb ihn sehr genau:
 Lodenanzug, grüne Sportstrümpfe, braune Schuhe, Filzhut
-mit Haushalt, bartloses braunes Gesicht, große Nase, ganz
+mit Gamsbart, bartloses braunes Gesicht, große Nase, ganz
 neues Rad.
 
 Harald schaute Frau Edda an. »Kennen Sie einen
-sollen Menschen?«
+solchen Menschen?«
 
-»Nein …
+»Nein …«
 
 »Und Sie, meine Herren?«
 
-»Au nicht.«
+»Auch nicht.«
 
-»Der jüngste der drei Brüder Serie ist doch hier …
+»Der jüngste der drei Brüder Gulbranson ist doch hier …
 Wo wohnt er?«
 
-»Im Hotel Madlener …
+»Im Hotel Madlener …«
 
-»Gut! Ich möchte ihn Oben, Diese drei Brüder Gulbranson,
+»Gut! Ich möchte ihn sprechen. Diese drei Brüder Gulbranson,
 meine Herren, sind die Mörder. Sie kennen ja
 die Geschichte der Ehe Frau Eddas. — Wollen Sie die
 Dame noch immer verhaften?«
@@ -996,15 +992,14 @@ auch Amerikanern, in seinem Zimmer Whist.
 Als wir und die Beamten eintraten, er kannte sie bereits,
 erhob er sich höflich und fragte nach unseren Wünschen,
 machte uns auch mit seinen Mitspielern bekannt: Detektive
-Peinvoller Detektei Mary & Coup., wie er gelassen
-
+der Neuyorker Detektei Mary & Comp., wie er gelassen
 zugab.
 
 Harsts Erscheinen ließ ihn gleichgültig.
 
 »Wenn die Herren Platz nehmen wollen … — Sie,
 Herr Harst, haben sich auf die Seite meiner Schwägerin
-Edda gestellt, ich weiß es bereits. Wenn Sie deren tief innerste
+Edda gestellt, ich weiß es bereits. Wenn Sie deren tiefinnerste
 Verlogenheit kennen würden, dürften Sie ihr kaum
 Ihren Beistand gewähren.«
 
@@ -1013,11 +1008,11 @@ Das war Kampfansage. — Harst erwiderte darauf:
 »Frau Edda lügt nicht. — Seit wann sind Sie in
 Tölz, Mr. Gulbranson?«
 
-Herr Tom sagte leichthin: »Seit dem sitzen August. —
+Herr Tom sagte leichthin: »Seit dem 21ten August. —
 Sind Sie berechtigt, mich zu verhören?«
 
 »Nein. Sie brauchen mir nicht zu antworten, aber
-diesen Herren von der Mündener Polizei gegenüber müssen
+diesen Herren von der Münchener Polizei gegenüber müssen
 Sie antworten.«
 
 »Gewiß. — Im übrigen — fragen Sie …«
@@ -1025,8 +1020,8 @@ Sie antworten.«
 »Danke sehr … Die eine Unwahrheit genügt mir.«
 
 <@pagebreak/>
-Über Tom Gulbransons wartendes Gesicht glitt ein
-unimerflihe8s Suchen. Aber er beherrschte sich.
+Über Tom Gulbransons markantes Gesicht glitt ein
+unmerkliches Zucken. Aber er beherrschte sich.
 
 »Worin soll diese Unwahrheit bestehen, Herr Harst?«
 
@@ -1035,7 +1030,7 @@ gesehen. Sie waren allerdings sehr gut verkleidet. Deshalb
 fielen Sie mir auf. Es war auf dem Kalvarienberge mittags
 gegen halb eins. Der Fall Menk beschäftigte uns gerade.
 Ich pflege, wenn ich irgendwie in meiner Eigenschaft als …
-jagen wir Problemlöser tätig bin, auf jede Kleinigkeit zu
+sagen wir Problemlöser tätig bin, auf jede Kleinigkeit zu
 achten. Sie markierten den alten halb gelähmten Herrn,
 in Tölz ja keine auffällige Erscheinung, so weit ganz gut,
 nur hätten Sie bedenken sollen, daß ein Anstieg auf den
@@ -1046,7 +1041,7 @@ fast gleichen Schritt hält — fast … Es machte wirklich den
 Eindruck, als ob Sie uns damals folgten, Mr. Gulbranson.«
 
 Dieser letzte Hieb war für Tom wohl der schmerzlichste.
-Seine bisherige halb spottete Ruhe wich einer verdächtigen
+Seine bisherige halb spöttische Ruhe wich einer verdächtigen
 Gereiztheit.
 
 Mit einem wutverzerrten, schlecht beherrschten Gesicht,
@@ -1054,11 +1049,11 @@ von dem jeder sympathische Zug urplötzlich weggewischt schien,
 rief er schrill:
 
 »Sie phantasieren …!! Das sind Anwürfe, die ich niemals
-auf mir sitzen lassen werde. Ich …
+auf mir sitzen lassen werde. Ich …«
 
 Es war nicht Harald, der dem Amerikaner ins Wort
-fiel, nein, es war der Mündener Kriminalkommissar, der
-mit einer Geste, die vielleicht von mehr sagte als seine
+fiel, nein, es war der Münchener Kriminalkommissar, der
+mit einer Geste, die vielleicht noch mehr sagte als seine
 knappe Entscheidung, ziemlich barsch fragte:
 
 »Wo waren Sie denn am sechzehnten August? — Wenn
@@ -1070,7 +1065,7 @@ drei Leute da, die doch in Ihrem Auftrag hier sind, zu
 verhaften.«
 
 Schade, das war nun wieder allzu weit über das
-Ziel hinausgestoßen. — Verhaftung?! — Ich sah in Haralds
+Ziel hinausgeschossen. — Verhaftung?! — Ich sah in Haralds
 Gesicht einen klaren Ausdruck der Mißbilligung.
 
 Und es kam, wie vorauszusehen: Tom Gulbranson
@@ -1087,22 +1082,22 @@ der Höhe von Helgoland — um halb eins mittags. Wir
 standen zu fünfen mit Ferngläsern auf dem Promenadendeck
 und blickten nach der roten Insel hinüber. Meine damaligen
 Reisegefährten waren der deutete Legationsrat Trebius, der
-deutsche Arzt Doktor Ludwig Sogleich, dessen Gattin und
+deutsche Arzt Doktor Ludwig Siegfried, dessen Gattin und
 zwei englische Kaufleute. Mit Herrn Trebius hatte ich mich
 so etwas angefreundet. Er wohnt in Berlin, Augsburger
 Straße 16 bei seiner Mutter. Es wäre mir lieb, wenn Sie
 den Legationsrat sofort anrufen wollten. Er dürfte telephonisch
 zu erreichen sein … Im Übrigen — bitte, hier ist noch meine
-Schiffskochs, hier sind von ein paar Nummern der Fortsetzung,
+Schiffskarte, hier sind noch ein paar Nummern der Bordzeitung,
 die ich mir aufbewahrt habe, und hier ist Herrn
-Trebiu8’ Vorbild mit Widmung.« Er war an seinen Koffer
+Trebius’ Bordbild mit Widmung.« Er war an seinen Koffer
 gegangen und hatte die Papiere hervorgeholt.
 
-Der Kommissar war verlegen. Er reichte uns die Schiffskochs.
+Der Kommissar war verlegen. Er reichte uns die Schiffskarte.
 Es stimmte: Tom Gulbranson war am sechzehnten
 unmöglich hier in Tölz gewesen!
 
-Selbst Harst hier enttäuscht. Er warf nur einen Blick
+Selbst Harst schien enttäuscht. Er warf nur einen Blick
 auf die Karte. Fragte:
 
 <@pagebreak/>
@@ -1120,28 +1115,29 @@ Fingern gesogen hätte. Nein, so wie Harald es angefangen
 hatte, war diesem geriebenen Burschen nicht beizukommen.
 Wie aber auf andere Weise?!
 
-In diesem Augenblick, »ls Frau Edda aufs neue in Gefahr
-schwebte verhaftet zu werden, — als Harald anscheinend am.
+In diesem Augenblick, als Frau Edda aufs neue in Gefahr
+schwebte verhaftet zu werden, — als Harald anscheinend am
 Ende seiner Kunst angelangt war, klopfte es energisch … Es
-war ein schwarzhaariger Mensch mit kleinen Schnurrbärtchen,
+war ein schwarzhaariger Mensch mit kleinem Schnurrbärtchen,
 Pomadenscheitel und vorn drei recht störenden Zahnlücken.
 Schweigend überreichte er Harst einen Brief und verschwand
 wieder.
 
 In dem frisch zugeklebten Umschlag lag ein Zettel:
 
-Herr Harst, Sie haben nicht allein das Pulver erfunden.
+> Herr Harst, Sie haben nicht allein das Pulver erfunden.
 — Lassen Sie sich von Tom Gulbranson nicht zu sehr
 hineinlegen, die Brüder operieren mit Doppelgängern. —
 Der Beweis, daß Jakob Gulbranson nicht von Frau Edda
 und deren einstigem Verlobten ermordet wurde, befindet
-sie in meinen Händen: der Zettel, der unten am O!lfarbentopf
+sich in meinen Händen: der Zettel, der unten am Ölfarbentopf
 festgeklebt war! — Ihr Konkurrent Mr. Z.
 
 — Und dann kam die Depesche …
 
-<@pagebreak/>
-Das letzte Mittel.
+<@pagebreak 32/>
+
+<h1>Das letzte Mittel.</h1>
 
 <h2>1. Kapitel.</h2>
 <h3>Ohne Dach …</h3>
@@ -1150,8 +1146,8 @@ Das letzte Mittel.
 Hatte es mit der papiernen Großmacht Presse seinerzeit gründlich
 verdorben.
 
-Der Wind hatte das Unheil beschleunigt … Da Brands
-Stiftung vorlag, da auch im Stallgebäude Brandherde gelegt
+Der Wind hatte das Unheil beschleunigt … Da Brandstiftung
+vorlag, da auch im Stallgebäude Brandherde gelegt
 waren, blieb von dem Harstschen Familienhause nichts übrig.
 
 Wir standen um Mitternacht in Berlin vor einem
@@ -1160,10 +1156,10 @@ qualmenden Trümmerhaufen … —
 Niemals werde ich meines Freundes bleiches, eingefallenes
 Gesicht vergessen … Niemals die Szene, als Mutter und
 Sohn sich nach diesem Verlust ihres Heims in die Arme
-sanken. Frau Auguste Harst und Mathilde waren bei Beklappten
+sanken. Frau Auguste Harst und Mathilde waren bei Bekannten
 in Schmargendorf untergekommen. Dort durchlebten
 Mutter und Sohn diese trostlosen Minuten des Wiedersehens.
--
+—
 
 <@pagebreak/>
 Brandstiftung.
@@ -1174,8 +1170,8 @@ Niemand wußte es.
 
 Und nicht nur alles, was dieses alte Haus an lieben
 Andenken barg, war mit vernichtet … Haralds seltsame
-Manie, sein RViesenvermögen in Banknoten aller Länder aufzuspeichern
-und diese Werte einem allerdings kaum aufzuspüren den
+Manie, sein Riesenvermögen in Banknoten aller Länder aufzuspeichern
+und diese Werte einem allerdings kaum aufzuspürenden
 Versteck in den ausgedehnten Kellern anzuvertrauen,
 sollte sich bitter rächen …
 
@@ -1184,7 +1180,7 @@ wie wir’s selbst nach der Inflationszeit nicht gewesen.
 Damals besaß Harald noch sein liebes Heim in der Blücherstraße,
 damals hatten wir ein halbes Jahr später durch die
 Erbschaft jenes geheimnisvollen Mannes, dem ich in diesem
-Bändchen ein schlichtes Denkmal gesetzt, den Verlust Sehnsucht
+Bändchen ein schlichtes Denkmal gesetzt, den Verlust zehnfach
 eingeholt.
 
 Jetzt?!
@@ -1202,8 +1198,9 @@ So war’s … Und all das hatte die Depesche, die uns
 gleich nach dem Briefe des Mr. Z. überbracht wurde,
 nur angedeutet:
 
-Harald Harst, Bad Tölz …
-Unser Haus brennt seit zwei Stunden. Komme sofort.
+> Harald Harst, Bad Tölz …
+
+> Unser Haus brennt seit zwei Stunden. Komme sofort.
 Deine Mutter. Bei Ulbrichs.
 
 Im Flugzeug waren wir von München nach Berlin
@@ -1235,8 +1232,8 @@ Wir fuhren dann zu Doktor Ulbrich. Harald erwachte hier.
 Hier fand er Trostworte für die weinende, gebrochene Mutter,
 hier hörte er Näheres …
 
-Und was wir hörten, war neuer Anlaß zu Regen noch
-unausgesprochener Befürchtungen.
+Und was wir hörten, war neuer Anlaß zu neuen, noch
+unausgesprochenen Befürchtungen.
 
 Frau Harst und Mathilde hatten den schönen Vormittag
 zu einem längeren Spaziergang und zu einem Besuch des
@@ -1249,15 +1246,15 @@ Laubengelände gegangen, hatten dann schon von weitem
 die Rauchmassen erblickt … —
 
 <@pagebreak/>
-Ins die Feuerwehr eingetroffen war, stand alles bereits
+Als die Feuerwehr eingetroffen war, stand alles bereits
 in Flammen — alles …
 
 Man stellte fest, das der Brand angelegt war. Sogar
-Fenster hatte der Brandstifter geöffnet, um durch Ausruf: die
-Kassette Glut las) über alle Räume zu verteilen.
+Fenster hatte der Brandstifter geöffnet, um durch Zugluft die
+rasende Glut rasch über alle Räume zu verteilen.
 
 Das alte Haus, zum Teil noch Fachwerkbau, loderte
-empor wie ein Holzstoß. Gelöst der Einsatz von fünf Motorjachten
+empor wie ein Holzstoß. Selbst der Einsatz von fünf Motorspritzen
 richtete nichts aus. Die Mauern stürzten ein: Ein
 Trümmerhaufen blieb! —
 
@@ -1278,51 +1275,49 @@ beiden Frauen das Haus verließen, und mußten dann sofort
 an die Arbeit gegangen sein. —
 
 So wurden wir arm … In der Tat ärmer denn je …
-Wir hatten nicht einmal ein Das über dem Kopf. Auch« wir
+Wir hatten nicht einmal ein Dach über dem Kopf. Auch wir
 verbrachten diese Nacht bei der befreundeten Familie Ulbrich.
 
 Wir beide hatten das Zimmer der Tochter eingeräumt
-erhalten. Es war ein Liedes, krankes Altjungferastübäyen mit
-Lavendelduft, alten Fanmilienbildern und vielen Deckchen und
+erhalten. Es war ein liebes, krankes Altjungfernstübchen mit
+Lavendelduft, alten Familienbildern und vielen Deckchen und
 Nippfiguren, mit einem schmalen Diwan und einem Bett. Ich
-wollte Harald das Bett abtreten. Er meinte, ich. sei der
+wollte Harald das Bett abtreten. Er meinte, ich sei der
 Ältere …
 
-Wir säßen gegen ein Uhr morgens in beklommenem
+Wir saßen gegen ein Uhr morgens in beklommenem
 <@pagebreak/>
 Schweigen in altmodischen Korbsesseln am ovalen Tische,
 und Harst rauchte und zählte unsere Barschaft. Wir besaßen
 noch neunhundert Mark etwa, dazu vier Brillantringe, eine
 goldene Zigarettendose, zwei Brillantnadeln — und das, was
-Frau Harst an Schnur bei sich getragen. All dieser Schmuck
+Frau Harst an Schmuck bei sich getragen. All dieser Schmuck
 kam nicht in Betracht.
 
 Harald sagte blaß und sinnend: »Also mit neunhundert
-Mark beginnen wir den »neuen Lebensabschnitt …«
+Mark beginnen wir den neuen Lebensabschnitt …«
 
 »Du vergißt unsere Freunde … Uns steht jede Summe
 zur Verfügung,« warf ich ein. »Sobald bekannt wird, daß
+du …«
 
-du.
-
-Sein ironischer Bis ließ mich verstummen:
+Sein ironischer Blick ließ mich verstummen.
 
 »Freunde?! — Mein lieber Alter, die wahren Freunde,
 die wir haben, sind arm. Die anderen, denen es hohe Ehre,
-mit Harst zu runden, werden dem armen Harst ausweichen.
-34 Kenne die Menschen. Wer bürgt ihnen dafür, daß ich
-je wieder mich emporavbeite?! Ich kann plötzlich sterben …
-
+mit Harst zu prunken, werden dem armen Harst ausweichen.
+Ich Kenne die Menschen. Wer bürgt ihnen dafür, daß ich
+je wieder mich emporarbeite?! Ich kann plötzlich sterben …
 Und dann sind sie ihr Geld los. Wenn du darauf rechnest,
 daß man uns Darlehen anbieten wird: Enttäuschung, Schraut!
 Du wirst es erleben. Ich habe vielen geholfen. Aber —
 diese vielen werden schweigen.«
 
-»Ausgeschlossen!« rief im Optimist fast empört. — Ich
+»Ausgeschlossen!« rief ich Optimist fast empört. — Ich
 hätte diesen Optimismus eigentlich längst begraben Haben
 müssen — längst …
 
-Was geschah in den nächsten Tagen? Was Thar.
+Was geschah in den nächsten Tagen? Was geschah,
 nachdem die Zeitungen kurz den Brand und den Einbruch
 erwähnt hatten — nicht ohne gewisse merkwürdig anmutende
 Seitenhiebe auf Harsts »unbegreiflichen Leichtsinn und die
@@ -1330,11 +1325,11 @@ höchst eigentümliche Art, ein Millionenvermögen in Banknoten
 zinslos anzulegen« …?! Was geschah, als ein Revolverblatt
 sogar davon faselte, Harst habe sein Vermögen »dem
 Wirtschaftsleben entzogen«?! — Gewiß, die Freunde meldeten
-sich — die armen Freunde, — sie boten Hilfe an. Und
+sich — die armen Freunde, — *sie* boten Hilfe an. Und
 <@pagebreak/>
-dann kamen Geldsendungen von ärmerer Leser — kleine
+dann kamen Geldsendungen noch ärmerer Leser — kleine
 Beträge mit rührenden Begleitzeilen … — Beträge, die
-sämtlich mit herzlichen Dankesworten zurüsgingen. Da war
+sämtlich mit herzlichen Dankesworten zurückgingen. Da war
 die Freundin aus Südende, da waren die Magdeburger vom
 Harst-Bund, da waren zahllose andere … Aufzählen möchte
 ich hier all diese braven Seelen … Verdient haben sie’s …
@@ -1344,36 +1339,36 @@ Von den Reichen, denen wir geholfen …?! — Beileidsschreiben
 
 Von einem Bankdirektor der Vorschlag, das Grundstück
 Blücherstraße 10 an eine Siedlungsgesellschaft zu veräußern:
-— — Vermittlung kostenlos?!
+— — Vermittlung kostenlos!!
 
-Ach ja .:. — man lernt in der Welt nie aus, nie!!
+Ach ja … — man lernt in der Welt nie aus, nie!!
 Damals war’s, als ich uneingeschränkter Pessimist wurde.
 Ich bin es geblieben, ich habe den Glauben an das sogenannte
-Gute im Verhalten nie wiedergefunden. Vielleicht ist das als
+Gute im Menschen nie wiedergefunden. Vielleicht ist das als
 Gewinn zu buchen in unserer heutigen Zeit, deren Lebenstempo
 unbedingt alle Ideale unter der Walze schrankenloser
 Selbstsucht zermalmt. Gewiß, es gibt falsche Ideale, es
-gibt ein Brillantfeuerwerk verworrener Dasein3begriffe. Was
-mir an Rechten Idealen erhalten blieb: der Glaube an die
-drehte Treue und Dankbarkeit gerade der Minderbemittelten,
+gibt ein Brillantfeuerwerk verworrener Daseinsbegriffe. Was
+mir an rechten Idealen erhalten blieb: der Glaube an die
+rechte Treue und Dankbarkeit gerade der Minderbemittelten,
 denen ein Zehnmarkschein ein kleines Vermögen gilt. —
-Und noch eins tröstete mich: Mein Verlegen war’s, der selbstlos
+Und noch eins tröstete mich: Mein Verleger war’s, der selbstlos
 in die Bresche sprang, obwohl auch bei ihm nicht
 alles nach Wunsch ging. Die Summe, die er uns zur Verfügung
-stellte, war der Brandfleck zu neuem Aufstieg! Deshalb
-aus erwähne ich ihn hier zuletzt, an wichtigster
+stellte, war der Grundstock zu neuem Aufstieg! Deshalb
+auch erwähne ich ihn hier zuletzt, an wichtigster
 Stelle. — —
 
 Zurück zu dem, was weiter im altjungferlichen Stübchen
-
 geschah …
+
 »Neunhundert Mark …!« wiederholte Harald … »Doch
 <@pagebreak/>
 das ist im Grunde nebensächlich … Wichtiger ist die Frage:
 Wer tat uns dies an?«
 
 »Die drei Brüder Gulbranson!« erwiderte ich prompt …
-— Jever hätte so geantwortet. Was lag näher, als daß
+— Jeder hätte so geantwortet. Was lag näher, als daß
 die drei Gulbransons uns auf diese Weise aus Tölz hatten
 entfernen wollen, — was lag näher, als daß sie die gute
 Gelegenheit benutzt hatten, gleichzeitig noch Millionenwerte
@@ -1383,7 +1378,7 @@ Harald hatte die letzte Mirakulum aus seinem goldenen
 Etui hervorgeholt. Die letzte …
 
 Er zündete sie mit einer gewissen Andacht an … Es
-war ja ein Wertstück … Vorläufig würde er keine FünfzehnPjennigZigaretten
+war ja ein Wertstück … Vorläufig würde er keine Fünfzehn-Pfennig-Zigaretten
 mehr rauchen können, die Bestellung seiner
 Spezialmarke, die ja nur für ihn hergestellt wurde, wäre
 Leichtsinn gewesen.
@@ -1400,8 +1395,8 @@ Harst war wieder er selbst geworden.
 Als er nun drei wunderbar gelungene Rauchringe formte,
 als er diesen immer größer werdenden blaugrauen Kreisen, die
 zur Decke emporschwebten, nachschaute, sagte er mit jenem
-merkwürdig geistesabwesenden Ton, der die höchste Ans
-Spannung des nimmermüden Geistes verrät:
+merkwürdig geistesabwesenden Ton, der die höchste Anspannung
+des nimmermüden Geistes verrät:
 
 »Weshalb eigentlich haben wir Frau Edda so ohne
 weiteres sofort vollstes Vertrauen geschenkt, ohne die Gegenpartei
@@ -1414,7 +1409,7 @@ mit Legationsrat Trebius geben — morgen vormittag.
 Ihn hat Tom Gulbranson als Kronzeugen benannt. — Das
 wäre das eine … Und das andere: Lieber Alter, der
 Vernichter unserer behaglichen Vergangenheit, die für uns
-in unserem Heim verkörpert war, ist … Konkurrent Mr. 3.«
+in unserem Heim verkörpert war, ist … Konkurrent Mr. Z.«
 
 »Wer?«
 
@@ -1426,7 +1421,7 @@ gemacht … Er hätte uns den Zettel in Tölz nicht persönlich,
 als Kellner verkleidet, überbringen sollen und den
 Text vorsichtiger abfassen müssen …!«
 
-So sprach Harst. — Acta sprach gar nichts …
+So sprach Harst. — Ich sprach gar nichts …
 
 Er erhob sich … Die Zigarette erlosch. Er ging schlafen.
 Und er schlief im Moment ein. Er war wirklich wieder der
@@ -1436,16 +1431,16 @@ alte geworden.
 <h3>Zum grünen Heinrich.</h3>
 
 An einem sauber gescheuerten Tisch in einer Ecke der
-Heller-Kaschemme saß ein rotnasiger, verlebter Kerl mit
+Keller-Kaschemme saß ein rotnasiger, verlebter Kerl mit
 wirrer roter Tolle. Vor ihm stand eine Berliner Weiße
 und ein bereits halb vertilgtes Eisbein mit Sauerkraut und
-Bratkartoffeln. Der Wann hatte in seinem Wesen etwas
+Bratkartoffeln. Der Mann hatte in seinem Wesen etwas
 <@pagebreak/>
 außerordentlich Scheues. Er aß, schaute alle Augenblicke
 nach dem Schanktisch hinüber, hinter dem der grüne Heinrich
-auf hohem Heer thronte und eben seinen gefärbten Scheitel
+auf hohem Hocker thronte und eben seinen gefärbten Scheitel
 in Ordnung brachte, der ihm den Namen »grüner Heinrich«
-eingetragen, da die Haarfarbe die Eigentümblichkeit hatte,
+eingetragen, da die Haarfarbe die Eigentümlichkeit hatte,
 im elektrischen Lichte grünlich zu schimmern.
 
 Heinrich war sechzig. Niemand sah es ihm an. Auch
@@ -1458,12 +1453,12 @@ stets nach neuester Mode an, trug ein Monokel am Seidenband,
 hatte tadellos gepflegte Hände und … stand jetzt
 mit der Polizei auf allerbestem Fuße. Seine Kneipe, in
 einer der düstersten Nebenstraßen der Alten Jakobstraße in
-Berlin so, gelegen, war der Treffpunkt der Elite des
-internationalen Verbrechertums, Kreises nur derjenigen, die
+Berlin SO. gelegen, war der Treffpunkt der Elite des
+internationalen Verbrechertums, freilich nur derjenigen, die
 gerade nicht steckbrieflich verfolgt wurden.
 
 Heinrich leistete der Polizei nie Spitzeldienste. Aber er
-Geschütze auch seine Gäste nicht. Er war vollkommen neutral.
+beschütze auch seine Gäste nicht. Er war vollkommen neutral.
 
 Wir beide kannten ihn seit langem. Wir waren mit ihm
 eng befreundet. Harald hatte ihn einmal vor ein paar
@@ -1488,27 +1483,27 @@ erschien, ein stutzerhaft-schäbiger kleiner Dicker mit einem
 Zwicker, einer Kartoffelnase und intensivem Patschuli-Duft.
 
 Mit komischer Grandezza grüßte er den feudalen Wirt
-und setzte sich an. den Nachbartisch, was den Scheuen zu
+und setzte sich an den Nachbartisch, was den Scheuen zu
 einem eiligen Griff nach einem Witzblatt veranlaßte, seinen
-Kopf dahinter verbergend. sich
+Kopf dahinter verbergend.
 
 Der grüne Heinrich schob den Revolver in die Jackentasche
 und trat zu dem Neuen heran.
 
-»Sie Büchsen, mein Herr?«
+»Sie wünschen, mein Herr?«
 
-Aus der Umgangston in dieser Kaschemme entsprach
-durchaus dem seinen Äußeren des Wirtes.
+Auch der Umgangston in dieser Kaschemme entsprach
+durchaus dem feinen Äußeren des Wirtes.
 
 »Eine Weiße, Schweinsfuß ohne Knochens, ’n Schnaps
-und deine Kehrseite … Mach Dir!« antwortete der Stutzer.
+und deine Kehrseite … Mach fix!« antwortete der Stutzer.
 
 Heinrich der Grüne betrachtete ihn lange. Dann warf er
-einen Blick auf den Scheuen, einen sehr stehenden Blick …
+einen Blick auf den Scheuen, einen sehr stechenden Blick …
 
 Und sagte plötzlich schmunzelnd:
 
-»Sie müssen mich) nicht für dumm halten.«
+»Sie müssen mich nicht für dumm halten.«
 
 Er wurde ernst.
 
@@ -1522,7 +1517,7 @@ die Hand hin.
 
 »Kann ich Ihnen helfen, Herr Harst? Sie suchen natürlich
 nach diesem Schuft, der Ihnen … alles genommen
-Bat …
+hat …«
 
 Harald nickte. »Ja, Heinrich … Aber tun Sie bitte
 so, als ob Sie uns nicht kennen, falls noch jemand kommt.
@@ -1532,53 +1527,54 @@ so, als ob Sie uns nicht kennen, falls noch jemand kommt.
 »Gorilla? — Nein!«
 
 »Schade … Trotzdem verkehrt der Mann bei Ihnen —
-unter anderem Berbregernamen. Ich nehme an, es wird
+unter anderem Verbrechernamen. Ich nehme an, es wird
 ein untersetzter Mensch von riesiger Körperkraft und sehr
 langen Armen sein, vielleicht mit einem wüsten Vollbart.«
 
-Heinrich rief: »Das ist der Kok8Doktor! Aber der
-Heimat Solde Zicken nicht wie bei Ihnen, Herr Harst, der war
+Heinrich rief: »Das ist der Koks-Doktor! Aber der
+macht Solche Zicken nicht wie bei Ihnen, Herr Harst, der war
 mal Chemiker und richtiger Doktor und lebt nun von Koksrezepten
 …« (Kokainbeschaffung)
 
 Harald in seiner trefflichen Maske aß sein Eisbein weiter
 und meinte nur:
 
-»Trotzdem interessiert er mich, der Wann … Wo wohnt
-Ob als
+»Trotzdem interessiert er mich, der Mann … Wo wohnt
+er …?!«
 
 »Hier gleich nebenan, dritter Hof … links … Erdgeschoß
-(… Bernuzzi heißt er. Aber — Vorsicht, meine
-Herren … Der Ecke—Doktor ist ein ganz gefährlicher.«
+… Bernuzzi heißt er. Aber — Vorsicht, meine
+Herren … Der Koks-Doktor ist ein ganz gefährlicher.«
 
-Ich Tran? schnell eine Weiße und einen Kognak. Bezahlung
+Ich trank schnell eine Weiße und einen Kognak. Bezahlung
 lehnte Heinrich von uns ab.
 
 Wir gingen — nach nebenan …
+
 Ich hatte mein Lebtag nichts von einem »Gorilla«
 gehört.
 
-»Harald, woher kennst du diesen Spitznamen für den KoksDoktor?«
-fragte im, als wir die Schluchten der sonnenlosen
+»Harald, woher kennst du diesen Spitznamen für den Koks-Doktor?«
+fragte ich, als wir die Schluchten der sonnenlosen
 Höfe durchschritten, in denen Menschen mit dumpfem Haß
-gegen alle die vegetierten, die draußen in den grünen Seestädten
+gegen alle die vegetierten, die draußen in den grünen Vorstädten
 in frischer Luft und Sonne leben durften …
 
-Und ich fügte hinzu: »Bitte, hülle Ei nicht wieder in
+Und ich fügte hinzu: »Bitte, hülle dich nicht wieder in
 Schweigen … Sei verständig. Heinrich hat uns gewarnt.«
 
-Spielende Kinder größten uns an. Ein Knirps, ein
-echtes Stille-Burschen, schrie uns nach: »Der sind eure von
-Rummelplatz!!«
+Spielende Kinder glotzten uns an. Ein Knirps, ein
+echtes Zille-Bürschchen, schrie uns nach: »Det sind zwee von
+’n Rummelplatz!!«
 
 Diese Kritik war zutreffend und gefiel uns. Wir wollten
 um keinen Preis erkannt werden. Wir hatten in Freund
 <@pagebreak/>
 Becherts Wohnung, mit einer Sorgfalt Toilette gemacht,
-als ob ein hoczeitlih Paar sich schwül. Daß Heinrich der
+als ob ein hochzeitlich Paar sich schmückt. Daß Heinrich der
 Grüne mich trotzdem als Schraut sehr bald gewittert hatte,
 war nicht meine Schuld. Meine Nase ist für gute Freunde
-31 Hoarakteristisch.
+zu charakteristisch.
 
 Harald entgegnete leise: »Heute vormittag bei Trebius
 haben wir die erste bittere Pille geschluckt. Tom Gulbranson
@@ -1590,9 +1586,9 @@ bittere Pille werden.«
 »Das ist keine Antwort,« meinte ich. »Woher kennst du
 den »Gorilla«?«
 
-«»Von Schluderrook her …«
+»Von Schluderrook her …«
 
-»Ist es etwa Mr. 3.?« Ich war stehen geblieben.
+»Ist es etwa Mr. Z.?« Ich war stehen geblieben.
 
 »Wie kommst du darauf?! Mr. Z. ist ganz wer anders …
 — Gehen wir weiter …«
@@ -1603,45 +1599,43 @@ diese Weise beendete.
 Der dritte Hof war noch düsterer. Die Rückfront bildete
 ein himmelhohes Fabrikgebäude mit verstaubten Fenstern,
 hinter denen Maschinen undeutlich zu erkennen waren. Über
-dem Eingang hing ein Abbild:
+dem Eingang hing ein Schild:
 
-Zu vermieten!
-ein Zeichen wirtschaftlichen Niedergangs.
+<p class="centered em">Zu vermieten!</p>
+
+— ein Zeichen wirtschaftlichen Niedergangs.
 
 Dann standen wir im Erdgeschoß des linken Seitenflügels
 vor einer schmierigen Tür, an der eine Papptafel
 befestigt war:
 
-Dr. Caesar Bernuzzi,
+<p class="centered em">Dr. Caesar Bernuzzi,</p>
 
-Chemiker, Naturheilkundiger, Augendiagnose,
+<p class="centered">Chemiker, Naturheilkundiger, Augendiagnose,
 Schäfer Ast-Methode, Höhensonne, Diathermie,
-Röntgeninstitut.
+Röntgeninstitut.</p>
 
-Sprechzeit 11-2, 5-9, Sonntags 9—1.
+<p class="centered">Sprechzeit 11-2, 5-9, Sonntags 9—1.</p>
 
 <@pagebreak/>
 Das war wirklich allerhand … In dieser Umgebung,
-in diesem baufälligen, verwahrlosten Kasten von Kreise
-Kaserne ein … Röntgeninstitut!!
+in diesem baufälligen, verwahrlosten Kasten von Mietskaserne
+ein … Röntgeninstitut!!
 
 Harst läutete …
 
-Schritte im Flur … ’Jemand öffnete …
+Schritte im Flur … Jemand öffnete …
 
 Dann kam die Überraschung …
 
 Ein breiter Flur mit hellen Tapeten, rotem Plüschläufer,
 drei weißen Polsterbänken, ebensolchen Stühlen … Eine
-
 elektrische Krone mit fünf Flammen … Ein junges, hübsches
 Mädel in Schwesterntracht deutete auf eine der Bänke …
-Bitte 5527«
-
-«
+»Bitte …«
 
 Es waren außer uns noch fünf Patienten da, alles
-»bessere« Leute, die Harald, den Stromer, mißbilligend?
+»bessere« Leute, die Harald, den Stromer, mißbilligend
 musterten.
 
 Nach einer Weile öffnete sich die eine weißlackierte Tür.
@@ -1657,18 +1651,18 @@ Leidenschaften aller Art verwüstetes Gesicht, umrahmt von
 einem fuchsigen Sudermannsbart, — hinter der Brille stachen
 ein Paar helle Fischaugen hervor …
 
-Ein unnennbar bedrückenden, fast beängstigender Eindruck
+Ein unnennbar bedrückender, fast beängstigender Eindruck
 ging von diesem Bernuzzi aus.
 
 Die Tür klappte zu …
 
 Ich saß da und blätterte in einem illustrierten Heft.
 In meiner zweideutigen Stutzeraufmachung, mit meinem
-Tat schuliduft war ich hier Zielscheibe genau so veräctlicdzer
+Patschuliduft war ich hier Zielscheibe genau so verächtlicher
 Blicke, wie sie dem Stromer Harald galten. Mir war’s gleich.
 Ich blätterte und sah doch keins der Bilder. Ich grübelte …
 
-Grübelte … Auf Sccluderroof wollte Harald diesen
+Grübelte … Auf Schluderrook wollte Harald diesen
 <@pagebreak/>
 famosen Naturheilkundigen kennengelernt haben?! Das war
 doch unmöglich! Und dann: Woher wußte Harst den so sehr
@@ -1679,11 +1673,11 @@ noch im Warteraum. Die Schwester bat uns ins Sprechzimmer
 … Der Herr Doktor mache nur noch schnell eine
 Röntgenaufnahme …
 
-Sprechzimmer: Nicht anders wie bei einem modern eins
-gerichteten Arzt, nur daß hier noch an den Wänden ziemlich
-kostbar«? Gemälde hingen.
+Sprechzimmer: Nicht anders wie bei einem modern eingerichteten
+Arzt, nur daß hier noch an den Wänden ziemlich
+kostbare Gemälde hingen.
 
-Wir standen in der Bitte des Zimmers. Hinter uns
+Wir standen in der Mitte des Zimmers. Hinter uns
 war die Tür in den Flur, links ein bunter Kelim als Vorhang
 … Wir hörten das Surren einer Maschine, dann
 einen dumpfen Fall, das Splittern von Glas — — nebenan
@@ -1691,27 +1685,27 @@ einen dumpfen Fall, das Splittern von Glas — — nebenan
 
 Wir warteten … warteten …
 
-Harsts Fuseldunst (Kunst) belästigte mich roh mehr als
-mein Batschuliodeur …
+Harsts Fuseldunst (Kunst) belästigte mich noch mehr als
+mein Patschuliodeur …
 
 Die Maschine surrte weiter … In der Wohnung regte
-sich) nichts. Vorhin hatten wir die Flurtür klappen gehört …
+sich nichts. Vorhin hatten wir die Flurtür klappen gehört …
 vorhin … das waren gut zehn Minuten her. Vielleicht
 war die Patientin längst weg, die letzte, vielleicht auch die
 Schwester. Und der Gorilla?!
 
 Harald sagte mit tiefer Grogstimme:
 
-»Brett he, der Geklärt hier gefällt mag nicht … gar nicht«
+»Weeßt de, det Jeschäft hier jefällt ma nich … jar nich!«
 
 Er ging auf die Tür zu, hob den Vorhang, öffnete …
 Drinnen in diesem Behandlungszimmer tatsächlich allermodernste
 medizinische Apparate, alles blitzsauber, alles sehr
-vertrauenerweckend. Notars an der Wand ein Diwan, mit
+vertrauenerweckend. Rechts an der Wand ein Diwan, mit
 einem Laken belegt, — auf dem Diwan die Schwester, neben
 dem Diwan der »Gorilla-Doktor«, beide anscheinend leblos.
 
-Sie letzten noch. Wir hatten sie eiligst in das Sprechzimmer
+Sie lebten noch. Wir hatten sie eiligst in das Sprechzimmer
 geschleppt. Die Luft im Behandlungszimmer war
 <@pagebreak/>
 verhängnisvoll, erfüllt mit unmerklichen Dünsten irgendeines
@@ -1722,12 +1716,12 @@ Vorhängen und niedergelassenen Jalousien mühten wir uns
 um die Bewußtlosen — stundenlang. Genau um zehn Uhr
 kam der Gorilla zu sich. Er war natürlich matt wie eine
 Novemberfliege, aber es ehrte ihn, daß sein erster Blick
-der Schwester galt, ein Blicke, der Bände Sprache: Angst,
+der Schwester galt, ein Blick, der Bände sprach: Angst,
 Liebe!!
 
 »Lebt sie?« fragte er, und musterte uns sorgfältiger …
 Staunen zeigte sich in seinen Zügen. Wir beide sahen
-Fuchs kaum einwandfrei aus.
+auch kaum einwandfrei aus.
 
 »Sie lebt,« erwiderte Harald. »Wie fühlen Sie sich,
 Gorilla?«
@@ -1739,7 +1733,7 @@ Diese Anrede ließ Doktor Bernuzzi hochschnellen …
 Seine Fischaugen fraßen sich in Harsts Züge ein. Plötzlich
 sank er wieder zurück, lächelte verzerrt und meinte: »Also
 doch!! — Und grade mich hat die Kanaille so hineingelegt
-…!! Gerade nicht!«
+…!! Gerade mich!!«
 
 Das klang sehr rätselvoll … — Aber der Gorilla gab
 sehr bald die nötige Aufklärung.
@@ -1749,12 +1743,12 @@ sehr bald die nötige Aufklärung.
 <h2>3. Kapitel.</h2>
 <h3>Die Frau.</h3>
 
-Die Schwester kam ebenfalls zu sie. Rührend war’s, wie
-Bernuzzi sich nun persönlich um sie bemühte. In welchem.
+Die Schwester kam ebenfalls zu sich. Rührend war’s, wie
+Bernuzzi sich nun persönlich um sie bemühte. In welchem
 Verhältnis die beiden zueinander standen, zeigte sich erst,
 als das Mädel zum erstenmal den Mund öffnete.
 
-»Feine Sorge, Vater … Wir Bernuzzis sind sah!«
+»Keine Sorge, Vater … Wir Bernuzzis sind zäh!«
 sagte sie schachmatt und lächelte ihn an.
 
 Der ehemalige Zuchthäusler strich zärtlich über ihren
@@ -1770,7 +1764,7 @@ Satansweib so gewarnt hatte.«
 Er rückte einen Stuhl an den Diwan seiner Tochter,
 behielt ihre Hand in der seinen und fuhr fort:
 
-»Sir wollen hier nun mit offenen Karten spielen, Herr
+»Wir wollen hier nun mit offenen Karten spielen, Herr
 Harst … Ich werde nichts verschweigen, Sie auch nicht.
 — Woher wissen Sie, daß das Weib mich Gorilla nannte?«
 
@@ -1778,8 +1772,8 @@ Harst … Ich werde nichts verschweigen, Sie auch nicht.
 
 <@pagebreak/>
 »Gut, dann will ich beginnen — ganz kurz … Es mag
-zehn Tage her sein, da. bekam ich einen Brief aus Hamburg,
-in dem eine Frau Ha Harst — Ha … Arzt, ein Kinoname
+zehn Tage her sein, da bekam ich einen Brief aus Hamburg,
+in dem eine Frau Lia arst — Lia … Arst, ein Kinoname
 beinahe — mich gegen hohe Bezahlung bat, ihr zwei gewerbsmäßige
 Einbrecher zu vermitteln, die imstande seien, ein …
 ganz schweres Ding zu drehen. Nun, tausend Mark sind
@@ -1789,39 +1783,39 @@ Geräten verwechseln, in Beziehung stehe, nannte ich der Frau,
 die postlagernd Antwort haben wollte, zwei Adressen. Sie
 hatte mir noch geschrieben, sie würde persönlich zu mir
 nach Berlin kommen, und ich solle meinen Antwortbrief
-mit Tor Alltag, unterzeichnen, mich vorsichtig ausdrücken, wie
+mit Gor Illa, unterzeichnen, mich vorsichtig ausdrücken, wie
 sie es getan habe, und ihre ferneren Mitteilungen ebenfalls
-postlagernd für Herrn Tor Alltag abholen. — Die Frau
-erschien denn auch bei mir« — zwei Tage später … Eine
-ältere seine Dame, verschleiert … Ich hatte meine beiden
+postlagernd für Herrn Gor Illa abholen. — Die Frau
+erschien denn auch bei mir — zwei Tage später … Eine
+ältere feine Dame, verschleiert … Ich hatte meine beiden
 Bekannten zur gleichen Stunde zu mir bestellt.«
 
 »Also die Geldschrankknacker …«
 
-Sie
+»Ja …«
 
 »Die Namen?«
 
 Bernuzzi zögerte. Sein Blick irrte zu seinem Kinde
-Hin, das aufrecht da saß und nach bleicher geworden war.
+Hin, das aufrecht da saß und noch bleicher geworden war.
 
-»Vater!!« rief sie vorwurfsvoll. — Sie wußte nichts ’von
+»Vater!!« rief sie vorwurfsvoll. — Sie wußte nichts von
 alledem.
 
 Und er, der gewesene Zuchthäusler, schluckte an Tränen.
 »Für wen spare ich, — für dich!« meinte er halb verzweifelt.
 »Wenn ich geahnt hätte, daß dieses Weib ein
 solches Verbrechen plante, daß es Herrn Harst so treffen
-wollte, daß die beiden kleineren Brüder sich zu einer Brandstiftung
+wollte, daß die beiden schweren Brüder sich zu einer Brandstiftung
 hergeben würden …!!« Er weinte jetzt …
 
-Aber ich werde mich hüten, hier mit sogenannten sentimentaler
-Szenen aufzuwarten, Damit nachher jemand kommt
+Aber *ich* werde mich hüten, hier mit sogenannten sentimentalen
+Szenen aufzuwarten. Damit nachher jemand kommt
 <@pagebreak/>
 und meinen Lesern rät, lieber Rinaldo Rinaldini zu verschlingen
 … und ähnliche Räuberromane, in denen wahre
 Romantik enthalten sei … Und nicht billige Schmöker, die
-ja Dom nur Nervenkitzel darstellten für jene Feiglinge, die
+ja doch nur Nervenkitzel darstellten für jene Feiglinge, die
 im Geiste an Verbrechen sich berauschten — nur im Geiste …
 
 Und dann — nannte Bernuzzi die Namen, — er, der
@@ -1829,7 +1823,7 @@ Mitschuldige, er, der freilich unbewußt mitgeholfen, all dies
 Unheil über uns zu bringen …:
 
 Der kesse Gustav und der blonde Fred, — mit richtigen
-Namen Gustav Brannte und Friedrich Kairo.
+Namen Gustav Kramutke und Friedrich Knipp.
 
 »… Was die Dame mit den beiden verhandelt hat,
 — ich weiß es nicht, Herr Harst. Ich wollte es auch nicht
@@ -1840,20 +1834,19 @@ dieser Stunde habe ich nicht einmal vermutet, daß das
 Frauenzimmer es auf Sie beide abgesehen hatte …«
 
 Seine Tochter schluchzte … Sein Kind schämte sich vor
-
-uns: ich —
+uns …
 
 Harald sagte begütigend: »Die Dinge sind nun nicht
 mehr zu ändern, Bernuzzi. — Wo haben die beiden ihren
 Schlupfwinkel?«
 
-Der Chemiker schüttelte he: Kopf. »Leider kann ich
+Der Chemiker schüttelte den Kopf. »Leider kann ich
 Ihnen in dieser Hinsicht nicht helfen, Herr Harst. Gerade
 der kesse Gustav und der blonde Fred führen ein höchst
 geheimnisvolles Dasein. Ich traf sie damals, als ich sie
 hierher bestellte, beim Grünen Heinrich. Es sind Gentlemaneinbrecher,
 denen man nicht ansieht, was sie treiben. Kerle
-mit harmloSs-freundlichen Gesichtern, die bisher nie irgendwie
+mit harmlos-freundlichen Gesichtern, die bisher nie irgendwie
 Gewalt anwandten, wenn sie beklappt wurden. Ich begreife
 nicht, daß sie zu Brandstiftern werden konnten. Sie haben
 noch nie eine Waffe bei sich getragen, sie setzen sich nie
@@ -1862,7 +1855,7 @@ zur Wehr …«
 <@pagebreak/>
 Er schwieg … Sein bittender Blick ruhte auf Harald …
 
-»Werden … werden Sie … mich … verschnürt gehen
+»Werden … werden Sie … mich … verschütt gehen
 lassen, Herr Harst?« fragte er stockend.
 
 »Nein! Ich nehme auf Ihr Kind Rücksicht, Bernuzzi …
@@ -1880,7 +1873,7 @@ bescheiden die Frage hinzu:
 
 »Wer ist dieses Weib, Herr Harst? Etwa eine Vertraute
 der Frau Edda Gulbranson, die nun, wie ich in der
-Zeitung las, das in Tölz verhaftet worden ist, nachdem
+Zeitung las, doch in Tölz verhaftet worden ist, nachdem
 die Münchener Kriminalpolizei ihren einstigen Verlobten und
 dessen Freund ebenfalls in Tölz verkleidet ermittelt hat?«
 
@@ -1888,46 +1881,48 @@ Harald streckte Bernuzzi die Hand hin …
 
 »Die Gulbranson scheidet aus … Sie hat mich schwer
 getäuscht. Meine Menschenkenntnis ließ mich ihr gegenüber
-völlig im Stich. See bin auch in dieser Beziehung wieder um
+völlig im Stich. Ich bin auch in dieser Beziehung wieder um
 eine Erfahrung reicher geworden. — Gute Nacht, Bernuzzi …
 Wenn Schraut später diese Tragödie schreibt, die mich mein
 Vaterhaus kostete, dann soll er Ihren Namen, Ihre Wohnung
-so ummodeln, daß Sie nicht gefährdet werden«…«
+so ummodeln, daß Sie nicht gefährdet werden …«
 
 <@pagebreak/>
-Z. Kapitel.
-Festlichen Empfang für Mr. Z.
 
-… Wir hat einmal ein Herr der Feder, der immerhin
+<h2>4. Kapitel.</h2>
+
+<h3>Festlicher Empfang für Mr. Z.</h3>
+
+… Mir hat einmal ein Herr der Feder, der immerhin
 einige Beachtung verdient, etwa wörtlich geschrieben: »Was
 den Reiz Ihrer Geschichten ausmacht, das ist einmal das
-ungeheure Tempo, dann aber Auto der oft einfach verblüffende
-Szenenwechsel und der überlegen-spöttische Mit,
+ungeheure Tempo, dann aber auch der oft einfach verblüffende
+Szenenwechsel und der überlegen-spöttische Witz,
 der hin und wieder aufflammt wie bunteste Leuchtkugeln …«
 
 Szenenwechsel …: Der Morgen nach unserer Ankunft
 auf Schluderrook. Der dritte Morgen nach unserem Besuch
 bei Bernuzzi.
 
-»Herr Schraut, ich hab’ noch nie keine Kuh Bemerkend …«
-sagte die die Mathilde zu mir und betrachtete kritisch das
+»Herr Schraut, ich hab’ noch nie keine Kuh gemelkert …«
+sagte die dicke Mathilde zu mir und betrachtete kritisch das
 prall gefüllte Euter unserer Filmdiva Asta mit den seelenvollen
 großen Augen …
 
-Du? andere Kuh, Anita — der Leser kennt sie — stand
+Die andere Kuh, Anita — der Leser kennt sie — stand
 daneben und fabrizierte gerade Brennmaterial.
 
 »So ’ne Schweinerei,« brummte Mathilde, der es im
 übrigen auf unserer Insel großartig gefiel.
 
-Mein Kenntnisse im Silhouetten sind nun auch mehr
-theoretischer Art. Immerhin versuchte ich es, rückte den Werke
-Schemel zurecht, klemmte den Eimer zwischen die Knie und
+Mein Kenntnisse im Kühemelken sind nun auch mehr
+theoretischer Art. Immerhin versuchte ich es, rückte den Melkschemel
+zurecht, klemmte den Eimer zwischen die Knie und
 begann …
 
 Asta drehte erstaunt den Kopf. Anscheinend machte ich die
 Sache doch nicht ganz richtig, obwohl dicke Strahlen duftender
-Will in den Eimer, manchmal auch auf meine Hosen spritzten.
+Milch in den Eimer, manchmal auch auf meine Hosen spritzten.
 Mit der Zeit ging’s besser, Asta hatte jedenfalls den Kopf
 <@pagebreak/>
 wieder zurückgedreht und stierte träumerisch ins Weite. Aber
@@ -1938,7 +1933,7 @@ oder ähnlich gefährliche Dinge. Ich bin zum Glück Junggeselle.
 Asta hob plötzlich den linken Hinterfuß und winkte zart …
 
 Was zur Folge hatte, daß ich samt Schemel und Eimer
-umkippte und die süße Mit der frommen Denkungsart
+umkippte und die süße Milch der frommen Denkungsart
 bis zum Oberhemd überströmte.
 
 Vom Wohnhause her ein doppelstimmiges herzliches
@@ -1949,8 +1944,8 @@ Frau Harst und Harald hatten meine Melkversuche beobachtet
 damals.
 
 Dann sprang er zum Fenster hinaus, half Mathilde, die
-vor Athlet auf die Speckpolster gesunken, auf die Beine und
-»sagte: …
+vor Schreck auf die Speckpolster gesunken, auf die Beine und
+sagte:
 
 »Ich werde das Melken übernehmen.«
 
@@ -1962,24 +1957,24 @@ der Einsamkeit … Es war die Abkehr von allem, was
 wir bisher als behagliches Dasein geschafft … Es war die
 neue Heimat, die uns mit tausend intimen Reizen grüßte.
 Da waren die Hühner, der Hahn, die mit rührender Intimität
-auf den -Wissen flatterten … Da waren die zehn Schafe,
+auf den Tisch flatterten … Da waren die zehn Schafe,
 die ebenso vertraulich uns umstanden, — und Anita und
 Asta und die zahllosen Möven …
 
 Die See brandete um die kleine, befestigte Insel, — —
 und dort fern im Süden irgendwo lag der Riesenmoloch
 Berlin, dem wir nun Lebewohl gesagt, nachholen wir beide
-fast drei volle Tage in aller Heimlichkeit den dessen Gustav
+fast drei volle Tage in aller Heimlichkeit den kessen Gustav
 und den blonden Fred gesucht und nicht gefunden, wobei uns
 <@pagebreak/>
 Freund Bechert mit einem Stab erlesener Beamten geholfen
-hatte. Harald hatte dann entstand, er habe Berlin vorläufig
-jagt. Und — wir fuhren gen Säzluderrook. Mehr erklärte
-er nicht, aus mir gegenüber nicht, — kein Wort über
+hatte. Harald hatte dann erklärt, er habe Berlin vorläufig
+satt. Und — wir fuhren gen Schluderrook. Mehr erklärte
+er nicht, auch mir gegenüber nicht, — kein Wort über
 die Frau, die all das Unheil angestiftet hatte …
 
-»Satz die Sache ruhen, mein Alter …« sagte er Kerze
-bis. »Ich bin nicht auf der Höhe … Ich kann jetzt nichts
+»Laß die Sache ruhen, mein Alter …« sagte er herzlich.
+»Ich bin nicht auf der Höhe … Ich kann jetzt nichts
 Großes unternehmen, ich muß zunächst über den Verlust
 meines Vaterhauses hinwegkommen …«
 
@@ -1987,14 +1982,14 @@ Nun — sein Lachen vorhin gab mir die Hoffnung,
 daß er auf dem besten Wege war, selbst diesen Schlag zu
 verwinden …
 
-Nachdem wir mit dem ersten Frühstü dann fertig,
+Nachdem wir mit dem ersten Frühstück dann fertig,
 begannen wir den üblichen Spaziergang rund um unser
 kleines Inselreich. Zunächst stiegen wir zum Hafen hinab,
 sahen nach, ob unser Kutter, den Harald auf der Nachbarinsel
 für billiges Geld geliehen, fest vertäut war, und
 wanderten nun weiter, immer dicht am Inselrande hin, über
-spärliches Gras, Muscheln, Holzstückchen, angetriebenen Seeluft
-54.5 —
+spärliches Gras, Muscheln, Holzstückchen, angetriebenen Seetang
+… —
 
 Der Herbst an der See stimmt weit weniger melancholisch
 als im Binnenlande, wo man das allmähliche Absterben der
@@ -2002,16 +1997,16 @@ Natur tagtäglich beobachten kann. Hier auf Schluderrook
 war alles noch grün, — alles, das heißt: viel war’s ja
 nicht! Wald, dergleichen — keine Rede! Die wenigen Bäume
 und Büsche und Blumen, die wehrten sich freilich sehr tapfer
-gegen das harte Naturgesetz, gegen Versehen, Welten, Winterschlaf
+gegen das harte Naturgesetz, gegen Vergehen, Welken, Winterschlaf
 …
 
-Frisch) und kraftvoll blies der Wind über Schluderrook …
+Frisch und kraftvoll blies der Wind über Schluderrook …
 Möven kreischten, Schafe blökten, Mathilde suchte drüben
 im Schlag in Wasserstiefeln nach Krabben und Hummern
-und sah von weitem wie ein dicker Mehlsack auf zwei,
-losmachen Säulen aus … Harald pfiff einen Marsch und
+und sah von weitem wie ein dicker Mehlsack auf zwei
+schwarzen Säulen aus … Harald pfiff einen Marsch und
 <@pagebreak/>
-rauchte Vier-Pfennig-Zigaretten, im rauchte Pfeife, und wir
+rauchte Vier-Pfennig-Zigaretten, ich rauchte Pfeife, und wir
 sprachen über Edda Gulbranson …
 
 »Weiber …!!« sagte Harst … »Weiber …!! Wie ehrlich,
@@ -2019,13 +2014,13 @@ aufrichtig tat diese Frau! Und nun?! Der Zettel unter
 dem Ölfarbentopf wird ihr und ihrem Geliebten und dessen
 Freund den Kragen kosten!«
 
-»Du meinst das Kellerstübchen, das du fandest …
+»Du meinst das Zettelstückchen, das du fandest …«
 
-— bis ’Polizei hat bereits festgestellt, daß ab
-Gulbransons Handschrift darauf gefälscht ist …
+»Ja … — die Polizei hat bereits festgestellt, daß Jakob
+Gulbransons Handschrift darauf gefälscht ist …«
 
 »Und wenn unser Konkurrent Mr. Z. den Hauptteil
-des »Zettel der Polizei Einschnitt, den er von im Besitz
+des Zettels der Polizei einschickt, den er noch im Besitz
 hat, kann nichts die drei vor dem Zuchthause retten, falls
 nicht gar die Todesstrafe ihnen droht,« ergänzte ich absichtlich,
 um endlich wieder das Thema auf diesen rätselvollen Mr. Z.
@@ -2033,18 +2028,18 @@ zu bringen.
 
 Harald biß denn auch wirklich auf den Köder an.
 
-»Hm, der Mr. Z. — — — und er blieb an der
+»Hm, der Mr. Z. — —," — und er blieb an der
 Westseite der Insel auf einem kleinen Hügel stehen. »Rache
 ist ein schlimmes Ding, lieber Alter … Rache macht blind, —
 oder Haß, besser gesagt …«
 
-Ich horchte auf. »Haß?! Mr. 3.2«
+Ich horchte auf. »Haß?! Mr. Z.?«
 
-»3X — ein Haß, ein Vernichtungswille, der vor nichts
-zurüFschre&t … Eine Probe davon: Unser Heim ging in
+»Ja — ein Haß, ein Vernichtungswille, der vor nichts
+zurückschreckt … Eine Probe davon: Unser Heim ging in
 Flammen auf, und — — wir sind arm geworden …«
 
-I) starrte ihn an. »Das tat Mr. 3.2«
+Ich starrte ihn an. »Das tat Mr. Z.?«
 
 »Das tat er!«
 
@@ -2053,49 +2048,50 @@ I) starrte ihn an. »Das tat Mr. 3.2«
 »Auch er!«
 
 »Unmöglich!«
+
 »Bitte, es ist so …« Er wandte sich dem Wohnhause
 zu … »Ich werde dir zeigen, wie ich auf Bernuzzi, dem
-
-Vor Alltag, kam … In William Karstens früherem Arbeitszimmer
-zeige ich »es dir
+Gor Illa, kam … In William Karstens früherem Arbeitszimmer
+zeige ich es dir …«
 
 <@pagebreak/>
 Wir kamen unter dem armseligen Kirschbaum vorüber,
-neben dem der schlichte Hügel sie über Karstens Grab
+neben dem der schlichte Hügel sich über Karstens Grab
 wölbte. Ein großer Erfinder, ein Genie, ruhte hier, — ein
 Verbrecher leider auch, ein Mörder …
 
 Und dann standen wir in der Stube mit den kleinen
 Fenstern, und Harst trat an den Bücherbock heran, in dessen
-linken unterem Faß ein Berg der verschiedensten
+linken unterem Fach ein Berg der verschiedensten
 Zeitungen aufgehäuft lag, darunter auch Zeitschriften,
-
 Magazine, — — und »Das neue Magazin« vom April
 des Jahres zog er hervor, blätterte darin …
-»Bitte …
+
+»Bitte …«
 
 Ich las den Titel eines illustrierten Artikels:
-Kampf dem Kurpfuschertum!
+
+<p class="centered">Kampf dem Kurpfuschertum!</p>
 
 Ich überflog den Text … Es war im Grunde das
 Gegenteil von Kampf, es war fast Reklame … Da waren zehn
-der »berühmtesten« Naturheilkundigen im « Bilde niedrige
-geben, da war als achtes Bild: Dr. Caesar Bernuzzi!!
+der »berühmtesten« Naturheilkundigen im Bilde wiedergegeben,
+da war als achtes Bild: Dr. Caesar Bernuzzi!!
 
 Und unter diesem Bilde hatte jemand mit Rundschrift
 in Tinte geschrieben:
 
-Tor Alltag — — Gorilla.
+<p class="centered">Gor Illa — — Gorilla.</p>
 
 Über Bernuzzi selbst war gesagt: »… Ein intelligenter
 Mensch, der dann freilich die erste Strafe wegen Diebstahls
 eines Platintiegels aus einem Laboratorium als Ausgangspunkt
-einer weiteren Reihe von Versehen ansah … Heute
+einer weiteren Reihe von Vergehen ansah … Heute
 ein Kurpfuscher, dem man freilich weder Bildung noch gewisse
 medizinische Kenntnisse ebensowenig absprechen kann wie recht
 intime Beziehungen zu Verbrecherkreisen …«
 
-»Siehst du, mein Alter, — so hat Mr. Z. Kenntnis
+»Siehst du, mein Alter, — *so* hat Mr. Z. Kenntnis
 erhalten, wo er sich Verbündete werben könnte,« meinte Harald
 und setzte sich vor den Schreibtisch.
 
@@ -2106,22 +2102,22 @@ bestimmt.
 <@pagebreak/>
 »Ja, sein intimster Freund,« nickte Harald, der hier in
 der frischen Seeluft bereits wieder überraschend schnell aufgelebt
-war. »Was Mr. Z. damit brauche, daß er hier
-auf der Insel, wo ihm doch die beste Gelegenheit dazu geehrter
+war. »Was Mr. Z. damit bezweckte, daß er hier
+auf der Insel, wo ihm doch die beste Gelegenheit dazu geboten
 war, uns nicht genau so zielsicher niederknallte wie
-den armen Gacdelhahn, erscheint vielleicht zunächst dunkel.
+den armen Gackelhahn, erscheint vielleicht zunächst dunkel.
 Zieht man dann aber die weiteren Ereignisse in Betracht,
-also meinen Fehlschlag, was die Geschichte Gulbranson des
-trifft, und den Anschlag auf meinen Besitz, so kann man
+also meinen Fehlschlag, was die Geschichte Gulbranson betrifft,
+und den Anschlag auf meinen Besitz, so kann man
 unschwer erkennen, daß dieser Mr. Z. in seinem Haß sich
 bis zu ungeahnter Tollheit verstiegen hat, anders vermag
-im dieses Übermaß von Rachegelüst nicht zu bezeichnen.
-In der Affäre Gulbranson sollte ich mich gründlichg blamieren.
-Das ist geschehen. Arm sollte ich werden, Stadt- und Menschen
-feindlich …! Ist auch geschehen — glaubt Mr. Z …« Ein
-ganz seines ironisches Lächeln umspielte seinen Mund. »Ja
-— glaubt er …!!. Und hierher sollte ich flüchten unter dem
-Ansturm all dessen, was mir widerfahren, — ist Furcht gesehen.
+ich dieses Übermaß von Rachegelüst nicht zu bezeichnen.
+In der Affäre Gulbranson sollte ich mich gründlich blamieren.
+Das ist geschehen. Arm sollte ich werden, stadt- und menschenfeindlich
+…! Ist auch geschehen — glaubt Mr. Z …« Ein
+ganz feines ironisches Lächeln umspielte seinen Mund. »Ja
+— glaubt er …!! Und hierher sollte ich flüchten unter dem
+Ansturm all dessen, was mir widerfahren, — ist auch geschehen.
 Hierher wollte er mich haben, dieser Mr. Z., der
 mit dem toten William Karsten vielleicht gar durch Bande
 des Blutes aufs engste verknüpft ist, — hierher, wo er dann
@@ -2137,12 +2133,12 @@ Deshalb habe ich auch bei Bechert die beiden Polizeihunde
 bestellt, die schon heute nachmittag eintreffen dürften. Diese
 Hunde werden wir tagsüber im dunklen Stall eingesperrt
 halten. Bechert soll die bissigsten, stärksten Tiere besorgen, die
-es irgend gibt, So werden wir nachts sicher sein, und am
+es irgend gibt. So werden wir nachts sicher sein, und am
 <@pagebreak/>
 Tage werden wir abwechselnd wachen, damit kein Fahrzeug
 sich Schluderrook unbemerkt nähere. Auch sonst sind noch
 einige Vorbereitungen zu treffen. In Karstens kleinem Laboratorium
-oben im Giebel ist genügend isolierter Draht vors
+oben im Giebel ist genügend isolierter Draht
 vorhanden. Wir werden unseren Hafen in der Weise sperren,
 daß hier eine Glocke anschlägt, sobald ein Schiff einläuft. Ich
 traue es Mr. Z. sehr wohl zu, sich eines U-Bootes zu
@@ -2157,9 +2153,9 @@ wir fertig.«
 
 Nachmittags fünf Uhr tauchte von der großen Insel
 im Süden her ein Kutter auf. Er brachte die Riesenkisten
-mit den Riesenhunden. Nur Harald, vor dessen Bis schon
+mit den Riesenhunden. Nur Harald, vor dessen Blick schon
 ganz andere Bestien sich scheu verkrochen haben, konnte diese
-prachtvollen Rücken füttern, streicheln und anfassen. Um
+prachtvollen Rüden füttern, streicheln und anfassen. Um
 sieben segelte der Kutter wieder davon. Um halb acht wurden
 die Hunde aus dem Stall herausgelassen und Türen und
 Fenster geschlossen. Unser liebes Viehzeug, das bisher auch
@@ -2170,24 +2166,25 @@ Lautsprecher, der uns eine Oper von Hamburg hier vermittelte.
 Karstens Rundfunkanlage war mustergültig, und der kleine
 Kurzwellensender, den wir von Berlin mitgebracht, gestattete
 uns jederzeit rasches Anrufen der Husumer Polizei und der
-großen Nachbarinsel, Wir waren durchaus nicht von Steuert
-abgeschnitten.
+großen Nachbarinsel. Wir waren durchaus nicht von aller
+Welt abgeschnitten.
 
 <@pagebreak/>
-53\. Kapitel.
 
-Zimmermann und Tischler spielen, wenn man’s nicht!9
+<h2>5. Kapitel.</h2>
+
+Zimmermann und Tischler spielen, wenn man’s nicht so
 recht gewöhnt ist, greift an. Wir waren abends hundemüde.
 Aber — fertig mit den Vorbereitungen.
 
-Getreu dem Grundsatz aller Insulaner: Früh ins Bett,
+Getreu dem Grundsatz aller Insulaner: »Früh ins Bett,
 früh aus den Federn« legten wir uns um neun bereits nieder,
 
 Das Erdgeschoß des kleinen Wohnhauses mit seinen vier
-Stuben war folgendermaßen verteilt: Not vorn heraus,
+Stuben war folgendermaßen verteilt: Nach vorn heraus,
 also nach dem Hafen zu, lagen Karstens Arbeitszimmer und
-das Eßzimmer, beide durch den durchgehenden Flur getrennt,
-Nacht hinten heraus Karstens Schlafstube, die durch eine
+das Eßzimmer, beide durch den durchgehenden Flur getrennt.
+Nach hinten heraus Karstens Schlafstube, die durch eine
 Tür mit dem Arbeitszimmer verbunden war, ein Stübchen
 mit nur zwei Schränken, daneben Küche, Speisezimmer und
 Bad, dieses in einem Anbau. Da nur zwei Betten vorhanden,
@@ -2195,23 +2192,23 @@ benutzten Frau Harst und Mathilde die Schlafstube, Harald
 den Diwan im Arbeitszimmer und ich das Sofa im Eßzimmer.
 Die Alarmglocke hing im Flur. Unsere Türen blieben offen.
 So hatten wir es schon in der vergangenen Nacht gehalten.
-— Während ich nun nach alter schlechter Gewohnheit noF9 auf
-meinem Bettsofa eine halbe Zigarre rauchte und beim Schein,
+— Während ich nun nach alter schlechter Gewohnheit noch auf
+meinem Bettsofa eine halbe Zigarre rauchte und beim Schein
 einer Nachttischlampe einen Roman las — es war »Das
-vertauschte Ich« —, während draußen der zum Sturm angewachsen?
+vertauschte Ich« —, während draußen der zum Sturm angewachsene
 Abendwind die Brandung an den befestigten Küsten
 unseres Inselreichs immer toller brüllen ließ, während ich
 <@pagebreak/>
-vor. Müdigkeit immer wieder einnickte und mich dennoch
+vor Müdigkeit immer wieder einnickte und mich dennoch
 munter zu halten suchte, weil irgendeine dumpfe Vorahnung
-meine Nerven … aufpeitschte, trug der Sturm mir plötzlich,
-das wütende Kläffen der großen Hunde in abgerissenen,
+meine Nerven aufpeitschte, trug der Sturm mir plötzlich,
+das wütende Kläffen der großen Hunde in abgerissenen
 Lauten zu … Das Bellen der Tiere drang so gereizt, daß
 ich mich schließlich erhob und zu Harald hinüberging und
-aha weckte. Er war sofort munter. In Rücksicht auf die,
+ihn weckte. Er war sofort munter. In Rücksicht auf die
 Frauen, die nebenan schliefen, sprachen wir ganz leise.
-Gewiß, Frau Harst und Mathilde gehörten durchaus nicht,
-zu den Ängstlichen, aber ihre Gemütsverfassung war durch,
+Gewiß, Frau Harst und Mathilde gehörten durchaus nicht
+zu den Ängstlichen, aber ihre Gemütsverfassung war durch
 die Feuersbrunst und die folgenden Ereignisse doch noch immer
 derart, daß wir ihnen unnötige Aufregungen fernhalten
 wollten. Der Gedanke, wir könnten hier auf der Insel ernstlich
@@ -2220,16 +2217,16 @@ sie vollkommen eingeweiht hatte und da die getroffenen Vorbereitungen
 einen günstigen Ausgang des Besuchs des Mr. Z.
 erwarten ließen.
 
-Harald kleidete Biß rasch notdürftig an, steckte die Pistole
-zu sich und trat ins Freie hinaus, was ich der Hunde wegen,
+Harald kleidete sich rasch notdürftig an, steckte die Pistole
+zu sich und trat ins Freie hinaus, was ich der Hunde wegen
 nicht wagen durfte. Sie hätten mich unfehlbar gebissen … —
 Die Nacht war völlig sternenklar. Offenbar verbellten die
-Rücken irgend etwas Verdächtiges am Weststrande, wo die
+Rüden irgend etwas Verdächtiges am Weststrande, wo die
 Brandung am heftigsten wütete. — Harst verschwand in der
-Dunkelheit — über die -Düne hinweg, ließ mich in Sorge
-und Ungewißheit zurück. Nicht lange … Nach wenigen Miß
-Minuten kam er angelaufen, in jeder Hand einen der Hunde mit
-sich führend. Rast sperrte er sie in den Stallverschlag ein.
+Dunkelheit — über die Düne hinweg, ließ mich in Sorge
+und Ungewißheit zurück. Nicht lange … Nach wenigen Minuten
+kam er angelaufen, in jeder Hand einen der Hunde mit
+sich führend. Rasch sperrte er sie in den Stallverschlag ein.
 
 »Sie sind da …!« keuchte er atemlos … »Sie haben’s
 sehr schlau angefangen … Mit einer Jacht strandeten sie
@@ -2255,15 +2252,15 @@ Kaufleute aus Hamburg, die »Dame« die Gattin
 des älteren …
 
 Alles Schwindel … Es waren die Gentlemanknacker und
-Mr. Z3Z. als Frau verkleidet …
+Mr. Z. als Frau verkleidet …
 
 Sie legten die nassen Mäntel ab, nahmen gern den
-Kognak an, taten sehr erschöpft, wurden auf das Sofa rund
+Kognak an, taten sehr erschöpft, wurden auf das Sofa und
 in den Sessel dicht daneben gebeten, wo die Kaminglut sie
 traf und wo sie gerade am richtigen Platze saßen.
 
-Ich hatte Mühe, meine nervöse Erregung zu vornehme
-ihnen. Man denke: Wir hatten die Gegner im Hause, —
+Ich hatte Mühe, meine nervöse Erregung zu verheimlichen.
+Man denke: Wir hatten die Gegner im Hause, —
 — und was würde folgen?!
 
 Harald setzte die Teemaschine in Brand. Der eine der
@@ -2278,7 +2275,7 @@ geschlossen …
 
 Und Harald saß im Schreibsessel, den rechten Fuß etwas
 vorgestreckt — die Stiefelspitze auf einer unmerklichen Erhöhung
-des Verlegers. — Nun schwieg der alberne Schwätzer,
+des Vorlegers. — Nun schwieg der alberne Schwätzer,
 der uns in Sicherheit zu wiegen suchte, nun trat Stille ein …
 
 Da hob die Frau den Kopf …
@@ -2286,34 +2283,34 @@ Da hob die Frau den Kopf …
 Ich lehnte am Schreibtisch …
 
 <@pagebreak/>
-Die Frau griff in die Falten, ihres Rotes …
+Die Frau griff in die Falten ihres Rockes …
 
-Der Jugendlich war da …
+Der Augenblick war da …
 
 Eine lange Pistole drohte in der breiten, nervigen
 Hand des Mr. Z.
 
 »Narren!« sagte er eisig … »Die geringste Bewegung, und
-ich drücke ab …
+ich drücke ab …«
 
-»Narren, — nun habe ich; ruht!!« Das Gesicht des
-Mir. 3. ward Fratze des Hasses … »Euer Haus ging
+»Narren, — nun habe ich euch!!« Das Gesicht des
+Mr. Z. ward Fratze des Hasses … »Euer Haus ging
 in Flammen auf, euer Geld ist mein! Und jetzt auch ihr
 und die beiden Frauen dort …!! Meine Rache wird vollkommen
 sein!«
 
 Harald erwiderte mit einem mitleidigen Lächeln:
 
-»Glauben Sie mich wirklich) täuschen zu können, William
+»Glauben Sie mich wirklich täuschen zu können, William
 Karsten?! — Sie sind der tote Vorbesitzer dieser Insel. Sie
-müssen hier einen Mann versteht gehalten haben, der Ihnen
-ungefähr glich. Tiefen erschossen Sie in der Kajüte Ihres
+müssen hier einen Mann versteckt gehalten haben, der Ihnen
+ungefähr glich. Diesen erschossen Sie in der Kajüte Ihres
 Kutters, und — Sie galten für tot, wurden begraben, — —
-letzten weiter …
+lebten weiter …«
 
 »Was ich nicht leugne,« nickte Karsten hohnvoll. »Es
-Allein der Tat schade um Sie, Herr Harst … Niemals
-hätte im geglaubt, daß Sie hinter diesen meinen Trick
+ist in der Tat schade um Sie, Herr Harst … Niemals
+hätte ich geglaubt, daß Sie hinter diesen meinen Trick
 kommen würden …«
 
 »Oh, Sie haben mir ja die Sache verblüffend leicht
@@ -2321,15 +2318,15 @@ gemacht … Zunächst war ich allerdings im unklaren, wer
 Mr. Z. sein könnte. Ihr Zettel in Tölz, in dem Sie davon
 sprachen, daß die Gulbransons mit Doppelgängern arbeiten,
 war mir eine Art Erleuchtung … Und dann erfuhr ich
-von Bernuzzi, daß Sie sich ihm als Ha Arzt genähert
-hätten … Ha Arzt, da fehlen nur vorn und hinten ein
-paar Buchstaben, und William Karsten erscheint. Und: schließlich:
+von Bernuzzi, daß Sie sich ihm als Lia Arst genähert
+hätten … Lia Arst, da fehlen nur vorn und hinten ein
+paar Buchstaben, und William Karsten erscheint. Und schließlich:
 Der Kurpfuscher-Artikel im Neuen Magazin: Auch
 ein Leichtsinn, darunter »Gorilla« zu schreiben. Eins kam
-zum andern, und jetzt: Sitzen Sie samt Ihren Kumpanen,
+zum andern, und jetzt: Sitzen Sie samt Ihren Kumpanen
 <@pagebreak/>
 fest! — Ich habe nicht die Absicht, mich mit Ihnen auf
-lange Auseinandersetzungen einzulassen. — weshalb haben
+lange Auseinandersetzungen einzulassen. — Weshalb haben
 Sie sich in den Fall Gulbranson eingemischt?«
 
 Karsten (und welche Überraschung war diese Auferstehung
@@ -2342,26 +2339,26 @@ ist auch gar nicht nötig … Dies hier ist eine ganz moderne
 Luftpistole — neunschüssig, — — zwei Zeigefingerdrücke,
 und Sie beide sind hinüber! Ich schieße nie vorbei. Aber
 — so billig sollen Sie nicht wegkommen …! Weshalb mußten
-Sie auch meine Kreise stören?! Der Fall Menk wurde ehe
-Anteil. Und der Fall Gulbranson wurde Ihre Blamage.
+Sie auch meine Kreise stören?! Der Fall Menk wurde Ihr
+Unheil. Und der Fall Gulbranson wurde Ihre Blamage.
 Haben Sie die letzten Zeitungen gelesen? Nun, man geht
 da wenig sanft mit Ihnen um …«
 
 Dieser Mensch mit seinem eiskalten Hohn hatte etwas
-unglaublich Teuflisches zu sich … Sein Haß war uferlos.
+unglaublich Teuflisches an sich … Sein Haß war uferlos.
 
 »Und — man tut Ihnen unrecht,« spottete er weiter.
-»Das ist noch das Schönste dabei!! Für nicht?!«
+»Das ist noch das Schönste dabei!! Für mich!!«
 
-»Das weiß ich, — jetzt weiß ich’s … Der echte Zettel
+»Das weiß ich, — *jetzt* weiß ich’s … Der *echte* Zettel
 unter dem Farbentopf war vorhanden. Sie vertauschten ihn …
 Edda Gulbranson und deren einstiger Verlobter und dessen
-Freund sind unschuldig. Jakob Gulbranson starb durch.
+Freund sind unschuldig. Jakob Gulbranson starb durch
 Meuchelmörder.«
 
 »Glänzend, Herr Harst!! So ist’s …! Bitte, hier ist der
 echte Zettel, Jakobs letzte Niederschrift …« Er hatte in die
-Sarge gefaßt … Ein zerknittertes Blatt flatterte vor Haralds
+Tasche gefaßt … Ein zerknittertes Blatt flatterte vor Haralds
 Füße. »Nehmen Sie es nur …! Damit könnten Sie Ihre
 Schlauheit beweisen — und die wahren Täter überführen …!!«
 
@@ -2372,29 +2369,29 @@ Harst beachtete den Zettel nicht.
 »Oh — — draußen in der Jacht lagert genug Ekrasit,
 <@pagebreak/>
 diese Insel verschwinden zu lassen … Das Meer wird
-in kurzem über diese Hallig hinwegfluten… und Sie vier
+in kurzem über diese Hallig hinwegfluten, und Sie vier
 werden in Atome zerrissen werden — alle vier … Und
-die Welt wird Biß dann umsonst den Kopf zerbrechen,
-wo die Hallig Schluderrook geblieben … Ich aber —. ich
+die Welt wird sich dann umsonst den Kopf zerbrechen,
+wo die Hallig Schluderrook geblieben … Ich aber — ich
 werde von Ihren Millionen in der Fremde behaglich weiterleben
-… Das habe ich vor!«
+… *Das* habe ich vor!«
 
 »Sie tun mir leid in Ihrem blinden Haß, William
 Karsten. Sie sind ein intelligenter Mensch … Jetzt —
 verblendet, kurzsichtig … — Ich will Nachsicht üben. Geben
 Sie Ihren Raub heraus, und ich erspare Ihnen die größte
-Enttäuschung Ihres Lebens?«
+Enttäuschung Ihres Lebens!«
 
 »Frechheit, Anmaßung!!«
 
-»Nein, Wahrheit …! Sie und« Ihre Kumpane werden
+»Nein, Wahrheit …! Sie und Ihre Kumpane werden
 sofort merken, daß sich unter solchen Bösewichtern … die
 Erde öffnet!«
 
 Karsten lachte … lachte …
 
 Und der kesse Gustav und der blonde Fred, denen es bei
-alledem offensichtlich) sehr unbehaglich zumute war, grinsten
+alledem offensichtlich sehr unbehaglich zumute war, grinsten
 verlegen.
 
 Die Erde öffnete sich …
@@ -2409,20 +2406,20 @@ Die Doppelfalltür klappte nach unten herab …
 Sofa, Tisch, Sessel, drei Menschen verschwanden nach
 unten …
 
-Zwei Schüsse Karstens gingen in. die Decke …
+Zwei Schüsse Karstens gingen in die Decke …
 
 Dann schloß sich das Loch wieder … Die Ratten waren
 gefangen. — —
 
 Am nächsten Morgen bereits war ein Dampfer aus
 Husum Da. Die Polizei hatte lediglich amtlich festzustellen,
-daß Karsten sofort na; dem Sturz in den Keller erst
+daß Karsten sofort nach dem Sturz in den Keller erst
 <@pagebreak/>
 seine Komplicen und dann sich selbst erschossen hatte.
 
-— Und der edle Zettel Jakob Gulbransons half drei Vers
+Und der echte Zettel Jakob Gulbransons half drei Verhafteten
+aus dem Kerker und sechs anderen ins Zuchthaus.
 
-hafteten aus dem Kerker und sechs anderen: ins Zuchthaus.
 Ist noch etwas zu sagen?
 
 Ich wüßte nicht …
@@ -2430,10 +2427,10 @@ Ich wüßte nicht …
 Vielleicht das eine, daß Edda Gulbranson uns den
 größten Scheck ausstellte, der je auf einen Privatmann lautete:
 drei Millionen Dollar! Für Herrn Harst, zurzeit Hallig
-Skluderrook …
+Schluderrook …
 
 Mittlerweile ist mit dem Neubau unseres Heims bereits
-begonnen worden. Das) Haus wird genau so wieder errichtet,
+begonnen worden. Das Haus wird genau so wieder errichtet,
 wie es einst gewesen …
 
 Inzwischen haben wir auf Schluderrook herrliche Herbsttage
@@ -2444,15 +2441,15 @@ eines Mörders uns von unserem Inselparadies vertrieb
 
 Ist noch etwas zu sagen?
 
-Ich Grüße den Kopf in die Hand … Hinter mir im
+Ich stütze den Kopf in die Hand … Hinter mir im
 Kaminofen bullert das Feuer … Nordwest fegt über die
 kleine Hallig hin …
 
 Ja — wo Harsts Millionen, Juwelen geblieben sind?!
 In aller Stille wurde danach gesucht … Sie sind nie wieder
-zum Vorschein gekommen … Sollte jemand den. fraglos
+zum Vorschein gekommen … Sollte jemand den fraglos
 irgendwo vergrabenen Riesenschatz zufällig finden, so sichert
-Harst ihm ein. Drittel als Belohnung zu …
+Harst ihm ein Drittel als Belohnung zu …
 
 Glück auf!! —
 
