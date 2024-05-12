@@ -1,34 +1,6 @@
-<@pagebreak/>
-75
+<@pagebreak 3/>
 
-na
-Er
-das?
-X
-
-<@pagebreak/>
-Harald Harst
-Aus meinem Leben
-
-Band: 233
-
-Das Tagebuch
-eines Mörders.
-
-Erzählt von
-Max Schraut
-
-Verlag moderner Lektüre G., in. b. H.
-Berlin so 16, Michaelkirchstraße so
-<@pagebreak/>
-Nachdruck verboten. — Alle Rechte, einschließlich das
-Verfilmungsrecht, vorbehalten. — Copyright 1928 by
-Verlag moderner Lektüre G. in. b. H., Berlin so. 16.
-
-Druck: P. Lehmann, G. in. b. H … Berlin so. 16.
-
-<@pagebreak/>
-»Co E(RE)-272
+<h1>Das Tagebuch eines Mörders.</h1>
 
 <h2>1. Kapitel.</h2>
 <h3>Karstens Raritäten.</h3>
@@ -53,8 +25,8 @@ stampfendes Geräusch: Mathilde, die dicke Köchin, butterte.
 
 Es war elf Uhr vormittags. Die Luft war so klar,
 daß wir die südliche Insel mit ihrem weißen Leuchtturm,
-ihren roten Ziegeldächern und gelblichen Dünen ganz deute
-li? erkannten. Aber diese Luft war scharf und machte
+ihren roten Ziegeldächern und gelblichen Dünen ganz deut-
+lich erkannten. Aber diese Luft war scharf und machte
 <@pagebreak/>
 müde und lullte den Geist in träumerische Ruhe ein. Ich
 habe diese Herbsttage an der See stets geliebt. Schon in
@@ -67,7 +39,7 @@ Frau Harst näherte sich uns. Ihr weißes, volles Haar
 leuchtete, und unter dieser ehrwürdigen Krone schimmerte
 das liebe Matronengesicht in frischen Farben. Bedächtig,
 mit seinem Lächeln kam sie und trug auf schlichtem Teebrett
-das Frühstüs, für jeden ein Glas Milch, eine Schinkenschnitte,
+das Frühstück, für jeden ein Glas Milch, eine Schinkenschnitte,
 natürlich selbstgebackenes Brot, und ein Gläschen
 Portwein. Sie setzte sich zu uns, stellte das Teebrett ins
 Gras, betrachtete uns mit stiller Innigkeit und meinte:
@@ -88,7 +60,7 @@ ihn … Dann ist’s wieder aus mit meiner Seelenruhe.«
 Das war durchaus nicht scherzhaft gemeint. Frau. Harst
 hatte wirklich Angst, daß Harald wie stets nach einigen
 Ferientagen wieder von jener unüberwindlichen Abenteuerfue
-befallen werden könnte, die für ihn Lebenselixier be
+befallen werden könnte, die für ihn Lebenselixier be-
 Gutes.
 
 Und er?! Was sollte er als guter Sohn nun wohl
@@ -148,8 +120,8 @@ Frau Harst machte eine abwehrende Handbewegung.
 »Ich trage auch keinerlei Verlangen danach … Wir
 ist die Hauptsache, daß ihr beide nicht so bald wieder euer
 Kammer, von der ich mir keinerlei Vorstellung machen kann,
-Globetrotterdasein aufnehmt. Hierzu wird … die Schreckens8hoffentlich
-nicht irgendwie beitragen, — ich meine, daß sie
+Globetrotterdasein aufnehmt. Hierzu wird … die Schreckens
+hoffentlich nicht irgendwie beitragen, — ich meine, daß sie
 euch Veranlassung gibt …«
 
 »Verstehe, liebe Mama …« Harald blinzelte in den
