@@ -84,8 +84,9 @@ i[cd]\)	ich
 I[cd]\)	Ich
 iM	ich
 Napitel	Kapitel
-no[cd]\)	noch
+no[cdh]\)	noch
 nod\)	noch
+NochF	Noch
 Nr,	Nr.
 »Ob	»Oh
 …\s-	… —

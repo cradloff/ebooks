@@ -8,8 +8,8 @@
 Die Septembersonne meinte es gut mit uns.
 
 Wir lagen im Grase an der Westseite unserer Insel,
-und um uns her gruppierten sich malerisch; die tierischen
-Mitbewohner von Schluderrook: Anita, Asta — Kühe,
+und um uns her gruppierten sich malerisch die tierischen
+Mitbewohner von Schluderrook: Anita, Asta — Kühe —,
 zehn Schafe, ein Dutzend Hühner, zwei deutsche Schäferhunde.
 
 Holder Friede lag über dem Nordseeeiland, diesem winzigen
@@ -17,16 +17,16 @@ Inselchen, das nun seit acht Tagen unser Heim,
 unsere, kleine, teure Welt, unser Ferienidyll.
 
 Harald, auf dem Bauche, rauchte … Ich, auf dem
-Rüden, streichelte des einen Hundes Kopf. Die prächtigen
-Rüden hatten sich inzwischen aus an mich gewöhnt.
+Rücken, streichelte des einen Hundes Kopf. Die prächtigen
+Rüden hatten sich inzwischen auch an mich gewöhnt.
 
 Von dem Wohnhause her erklang ein regelmäßiges
 stampfendes Geräusch: Mathilde, die dicke Köchin, butterte.
 
 Es war elf Uhr vormittags. Die Luft war so klar,
 daß wir die südliche Insel mit ihrem weißen Leuchtturm,
-ihren roten Ziegeldächern und gelblichen Dünen ganz deut-
-lich erkannten. Aber diese Luft war scharf und machte
+ihren roten Ziegeldächern und gelblichen Dünen ganz deutlich
+erkannten. Aber diese Luft war scharf und machte
 <@pagebreak/>
 müde und lullte den Geist in träumerische Ruhe ein. Ich
 habe diese Herbsttage an der See stets geliebt. Schon in
@@ -48,45 +48,44 @@ Gras, betrachtete uns mit stiller Innigkeit und meinte:
 
 Harald streichelte ihr die Hand. Übermütig erwiderte er:
 »Das könnte dir so passen, Mama! Aber zum Rentner
-fühle im mich doch noch zu jung.«
+fühle ich mich doch noch zu jung.«
 
 Er gähnte verstohlen.
 
 »Um Gott!« rief seine Mutter. »Schraut, er hat gegähnt!
 Ich wette, er langweilt sich schon … Und dieses Stadium
-kenne ich … Nacht drei Tage, und die alte Unrast befällt
+kenne ich … Noch drei Tage, und die alte Unrast befällt
 ihn … Dann ist’s wieder aus mit meiner Seelenruhe.«
 
-Das war durchaus nicht scherzhaft gemeint. Frau. Harst
+Das war durchaus nicht scherzhaft gemeint. Frau Harst
 hatte wirklich Angst, daß Harald wie stets nach einigen
-Ferientagen wieder von jener unüberwindlichen Abenteuerfue
-befallen werden könnte, die für ihn Lebenselixier be-
-Gutes.
+Ferientagen wieder von jener unüberwindlichen Abenteuersucht
+befallen werden könnte, die für ihn Lebenselixier bedeutet.
 
 Und er?! Was sollte er als guter Sohn nun wohl
 antworten?! Er zog sich mit Geschick aus der Klemme.
 
-— »Das hat ja noch Zeit, liebe Mama … So Bettelnd
-wir noch nicht … Wirklich nicht. Korb sind Ferien, obwohl
+»Das hat ja noch Zeit, liebe Mama … So weit sind
+wir noch nicht … Wirklich nicht. Noch sind Ferien, obwohl
 etwas in der Luft liegt …«
 
 Ich hatte mich aufrecht gesetzt. Ich hatte bereits in die
 Schinkenschnitte kräftig hineingebissen und langte gerade nach
 <@pagebreak/>
-meinem Gläschen Portwein, denn die Will nahm ich immer
+meinem Gläschen Portwein, denn die Milch nahm ich immer
 erst ganz, ganz zuletzt.
 
 Ich blickte Harst an.
 
 »Was liegt denn in der Luft?« fragte ich mißtrauisch
-und, kam damit derselben Frage Frau Harsts zuvor.
+und kam damit derselben Frage Frau Harsts zuvor.
 
 Harald senkte wie schuldbewußt den Kopf. Seine Züge
 verrieten plötzlich ein seltsames Gemisch von Grauen und
-Freude. Er trank einen Schlaf Will … Das paßte zu
-seinem Gesichtsausdruck, in dem daß Grauen deutlich überwog.
+Freude. Er trank einen Schluck Milch … Das paßte zu
+seinem Gesichtsausdruck, in dem das Grauen deutlich überwog.
 
-»Ich hätte es euch schließlich doch« sagen müssen,«
+»Ich hätte es euch schließlich doch sagen müssen,«
 meinte er auffällig geistesabwesend. »Ich habe es erst gestern
 entdeckt … Ich brauchte einen ganzen Tag, um mich davon
 zu erholen … Anderseits freute ich mich, daß meine Vermutung
@@ -109,18 +108,18 @@ einst die zehnfache Größe hatte, daß eine Sturmflut vor
 dreißig Jahren die hier einst befindlichen Bauernhöfe restlos
 wegspülte … Im Sande findet man noch hier und dort
 Mauerreste. Einen Keller eines der verschwundenen Häuser
-hat retten ausgebaut. — — Liebe Mama, deine Diwan
-tung8voll-ershrefte Miene ist in gewissem Sinne über
-flüssig, denn diese Kellerräume werden nur Schraut und
-im betreten. Für Frauen eignet sich der Anblick nicht …«
+hat Karsten ausgebaut. — — Liebe Mama, deine erwartungsvoll-erschreckte
+Miene ist in gewissem Sinne überflüssig,
+denn diese Kellerräume werden nur Schraut und
+ich betreten. Für Frauen eignet sich der Anblick nicht …«
 
 Frau Harst machte eine abwehrende Handbewegung.
 
 <@pagebreak/>
-»Ich trage auch keinerlei Verlangen danach … Wir
+»Ich trage auch keinerlei Verlangen danach … Mir
 ist die Hauptsache, daß ihr beide nicht so bald wieder euer
-Kammer, von der ich mir keinerlei Vorstellung machen kann,
-Globetrotterdasein aufnehmt. Hierzu wird … die Schreckens
+Globetrotterdasein aufnehmt. Hierzu wird … die Schreckenskammer,
+von der ich mir keinerlei Vorstellung machen kann,
 hoffentlich nicht irgendwie beitragen, — ich meine, daß sie
 euch Veranlassung gibt …«
 
@@ -128,14 +127,14 @@ euch Veranlassung gibt …«
 Sonnenschein. »Verstehe vollkommen … Wir sollen hier
 Insulaner spielen, bis der erste Schnee fällt und dann dich
 und Mathilde nach dem Süden begleiten. Ich glaube, wir
-wären miserable Nichtstuer für die Kratzer Strandpromenade.
-Leute, die dort umher schlendern und dauernd vor Langeweile
-gönnen, tun dem internationalen Betrieb entschieden Abbruch,
-Stücke ich …
+wären miserable Nichtstuer für die Nizzaer Strandpromenade.
+Leute, die dort umherschlendern und dauernd vor Langeweile
+gähnen, tun dem internationalen Betrieb entschieden Abbruch,
+schätze ich …«
 
-Meine »mütterliche Freundin hatte es im Laufe der
-Jahre gelernt sehr hellhörig zu sein. Haralds seichte Redens
-Arten über ’Ni3za, wohin Frau Harst samt Mathildchen
+Meine mütterliche Freundin hatte es im Laufe der
+Jahre gelernt sehr hellhörig zu sein. Haralds seichte Redensarten
+über Nizza, wohin Frau Harst samt Mathildchen
 übersiedeln sollte, bis das neue Harstsche Heim, eine Wiedergeburt
 des alten, durch Feuer zerstörten, fix und fertig war,
 erregten ihren Argwohn. Ihr Blick wurde ängstlich …
@@ -147,7 +146,7 @@ hast du in der Schreckenskammer gefunden?«
 »Etwas außerordentlich Interessantes, was selbst William
 Karsten entgangen war … Karsten hat in den langen Jahren,
 die er hier einsam verbrachte, anscheinend jeden Tag bei
-Ebbe das Watt abgesucht und dabei im Strick und in den
+Ebbe das Watt abgesucht und dabei im Schlick und in den
 verbliebenen Wasserlachen so allerlei gefunden und als
 Raritäten gesammelt. So ist dann eine merkwürdige Ausstellung
 entstanden. Für Frauennerven eignet sie sich wie
@@ -158,16 +157,16 @@ aber dem Gewicht nach der Größe nicht entsprechend. Karsten
 hat sie nicht beachtet. Ich öffnete sie. Der Inhalt war
 <@pagebreak/>
 seltsam genug. Sie enthielt ein Buch, ein sogenanntes Poesiealbum,
-wie es früher mal in harmloseren Zeiten Lackierte
-besaßen und darin von ihren Freundinnen gereimte Richtigsten
+wie es früher mal in harmloseren Zeiten Backfische
+besaßen und darin von ihren Freundinnen gereimte Nichtigkeiten
 festlegen ließen. Außerdem war ein wunderhübscher
 kostbarer Dolch darin. Drittens ein Taschentuch mit schwarzbraunen
 Flecken, viertens eine Strähne blonden langen
 Frauenhaares, fünftens … eine kleine, zierliche Kinderpuppe
 in Tiroler Tracht mit Klappäuglein und einem Mechanismus,
 der »Papa« und »Mama« ruft. — Diese fünf Dinge,
-eigentlich) sechs, denn die Blechbüchse ist ebenso wichtig,
-erzählten mir einen ganzen Roman, bevor ich von das Album
+eigentlich sechs, denn die Blechbüchse ist ebenso wichtig,
+erzählten mir einen ganzen Roman, bevor ich noch das Album
 genauer durchgeblättert und entdeckt hatte, daß die letzten
 Seiten das Geständnis eines Mörders enthielten …«
 
@@ -177,7 +176,7 @@ Seiten das Geständnis eines Mörders enthielten …«
 Fall liegt sehr unklar, liegt auch fünf Jahre zurück … —
 Ich werde die Büchse holen. Wartet einen Augenblick …«
 
-Er trank erst seine Milch; und seinen Wein aus, erhob
+Er trank erst seine Milch und seinen Wein aus, erhob
 sich dann gemächlich und schritt nach Westen zu den Hügel
 hinab — dorthin, wo unweit des befestigten hohen Ufers
 im Sande allerlei Mauerreste zu erkennen waren, braunrote
@@ -193,10 +192,10 @@ wird …«
 Wir sahen, daß Harald kaum Zwanzig Meter von uns
 entfernt sich bückte, daß er eine große Zementplatte mit zernagten
 Rändern, die ich stets für den Rest eines zementierten
-In ans gehalten hatte und die halb mit Sand bedeckt
-war, der einen Seite mit beiden Händen packte und sie
+Fußbodens gehalten hatte und die halb mit Sand bedeckt
+war, an der einen Seite mit beiden Händen packte und sie
 langsam emporhob. Wir sahen weiter, daß die Platte an
-der gegenüberitiegenden Kante ein breites Offenbart mit
+der gegenüberliegenden Kante ein breites Eisenband mit
 Scharnieren und zwei in Gelenken bewegliche, leicht gebogene
 <@pagebreak/>
 Eisenstäbe hatte, daß die Platte jetzt senkrecht stand und unter
@@ -213,28 +212,28 @@ außerordentlich behaglich. Im Grunde ist es ja stets nur
 Harald, der mich aufpulvert und aus dem Lämmlein einen
 Wolf macht.
 
-Ich lief den Hügel hinab. Harsts Kopf verschlingt schon
-in der Tiefe. Nun stand auch ich neben dem Lohe …
+Ich lief den Hügel hinab. Harsts Kopf verschwand schon
+in der Tiefe. Nun stand auch ich neben dem Loche …
 Unten schimmerte es hell: Harsts Taschenlampe! Ich erkannte
 eine schmale Eisenleiter, wie man sie auf jedem Dampfer
 findet, ich kletterte abwärts, zwängte mein Bäuchlein durch
 das Loch, wobei mir Jacke und Weste bis an die Ohren
 rutschte, und befand mich jetzt in einem trockenen Keller,
-der völlig leer war. Drei Türöffnungen führten in anders
+der völlig leer war. Drei Türöffnungen führten in andere
 Kellerräume. Ich bemerkte den Lichtschein zu meiner Rechten,
-folgte Harst und wurde durch den gelbweißen… kalten Lichtschein
+folgte Harst und wurde durch den gelbweißen, kalten Lichtschein
 einer großen, an der Decke hängenden Karbidlaterne
-empfangen …
+empfangen.
 
 Ich machte drei Schritte vorwärts, blieb stehen, fühlte, wie
-mir das Blut aus den Wangen. ebbte und wie feuchter
-kalter Hause meine« Stirn wie mit eisernem Ging ums
-spannte. Völlig benommen starrte ich auf die hier angehäuften
+mir das Blut aus den Wangen ebbte und wie feuchter
+kalter Hauch meine Stirn wie mit eisernem Ring umspannte.
+Völlig benommen starrte ich auf die hier angehäuften
 Schiffsmöbel mit ihren gräßlichen »Besitzern« … Besitzer
 hier im ursprünglichsten Sinne des Wortes gebraucht.
 
 Da waren Sessel, Wandsofas, sogar drei verschimmelte
-Klubsessel … Und all diese Sitzgelegenheiten hatten;yBerwendung
+Klubsessel … Und all diese Sitzgelegenheiten hatten Verwendung
 gefunden.
 
 Eine schauerliche Sammlung von Wasserleichen …
@@ -242,7 +241,7 @@ Eine schauerliche Sammlung von Wasserleichen …
 Frauen, Männer, Kinder, — alle irgendwie der Verwesung
 entzogen, alle zu Mumien vertrocknet, alle genau
 <@pagebreak/>
-so gekleidet, wie Karsten sie im Schlick gefunden. hatte …
+so gekleidet, wie Karsten sie im Schlick gefunden hatte …
 
 Frauen, nur notdürftig angezogen, fraglos in Todesangst
 an Deck gestürzt und dann von der Nordsee, der
@@ -251,7 +250,7 @@ Mordsee in die tödlichen Arme genommen …
 Fischer in hohen Stiefeln, Ölmänteln, — elegante Herren,
 noch im Abenddreß, von irgendeinem schwimmenden Luxushotel
 in die Tiefe gespült, — Schiffsoffiziere, — sogar
-ein Neger in Seitenfront unter dieser gräßlichen Runde.
+ein Neger in Heizertracht unter dieser gräßlichen Runde.
 
 Wenn diese Mumien wenigstens leidlich menschliches
 Aussehen bewahrt hätten! Aber mit ihren unnatürlichen,
@@ -259,28 +258,28 @@ gelbbraunen, vertrockneten Gesichtern wirkten sie in ihren
 Sesseln und Sofaecken mehr als abschreckend.
 
 Schreckenskammer — es stimmte schon! Ich besinne mich,
-daß ich vor vielen Jahren, als noch Kastens Panoptikum
+daß ich vor vielen Jahren, als noch Kastans Panoptikum
 in der Lindenpassage in Berlin existierte, dort die Schreckenskammer
 zusammen mit ein paar Damen besucht hatte. Mich
-ließen die dort ausgestellten Schauerstücks kalt. Es waren
+ließen die dort ausgestellten Schauerstücke kalt. Es waren
 Wachsfiguren. Eine der Damen, vorher noch äußerst mutig
 und übermütig, wurde ohnmächtig. Hier unten in diesem
 Keller war das Ausschlaggebende das Bewußtsein, nicht
 Wachs, sondern menschliche Substanz vor sich zu haben.
 Es gehörten wirklich schon Karstens eiserne Nerven dazu,
-angeschwemmte Tote für Mumifizierungsexperimente zu des
-Minuten und diese schauerliche Gesellschaft Abgeschiedener zu
+angeschwemmte Tote für Mumifizierungsexperimente zu benutzen
+und diese schauerliche Gesellschaft Abgeschiedener zu
 schaffen.
 
 Mir war hier nicht sonderlich wohl zumute, und selbst
 Haralds kühle Sachlichkeit, mit der er mich auf Einzelheiten
-hinwies, nahm mir nicht das tiefinnerliche Grauen vor diesen.
+hinwies, nahm mir nicht das tiefinnerliche Grauen vor diesen
 stillen Zuschauern unserer kalten Neugier.
 
 <@pagebreak/>
 
 <h2>2. Kapitel.</h2>
-<h3>Kino Konservenbüchse.</h3>
+<h3>Eine Konservenbüchse.</h3>
 
 Ein Raritätenkabinett …
 
@@ -290,40 +289,40 @@ seine Geschichte, seine Tragödie. Da waren die Reste eines
 Propellers und ein verrosteter Flugzeugmotor. Da war das
 Sehrohr eines U-Bootes, da waren Bruchstücke aller Art,
 angefangen von Rettungsringen mit verwaschenen Namen
-bis zu ganzen Kompaßstöcken, Flaggen, Planken mit Messing
-Buchstaben, sogar ein paar kaum mehr kenntliche Gemälde:
-Teestube.
+bis zu ganzen Kompaßstöcken, Flaggen, Planken mit Messingbuchstaben,
+sogar ein paar kaum mehr kenntliche Gemälde:
+Seestücke.
 
 Harald deutete auf eine rotrostige Blechbüchse, die auf
 einer Zinkkiste stand.
 
-»Das ist sie, mein Alter …
+»Das ist sie, mein Alter …«
 
-Der Deckel war mit einem Büchsenöffner sauber aufs
-Bekannten und hochgeklappt.
+Der Deckel war mit einem Büchsenöffner sauber aufgeschnitten
+und hochgeklappt.
 
 »Und die übrigen Kellerräume?« fragte ich zaudernd.
 
 »Dasselbe wie hier, — im ganzen 23 Mumien …
 Alles in sitzender Stellung … Sieh’, das Kind dort hat
-ein Bilderbuch im Soße und den Kopf gesenkt … Die
-Frau dort hält eine Photographie in der Hand … DexrSteuermann
-dort blickt auf sein Fernglas, das er auf den
+ein Bilderbuch im Schoße und den Kopf gesenkt … Die
+Frau dort hält eine Photographie in der Hand … Der
+Steuermann dort blickt auf sein Fernglas, das er auf den
 Schenkel stützt. William Karsten scheint diese Gesellschaft der
 <@pagebreak/>
 Toten geliebt zu haben. Nebenan steht ein Tisch mit
 Schreibzeug und Büchern. Dort hat er vielleicht die finsteren
-Pläne ausgebrütet, wie er sich an Frau Werk rächen
-könnte, dort mag die — Idee des ferngelenkten Wracks in
+Pläne ausgebrütet, wie er sich an Frau Menk rächen
+könnte, dort mag die Idee des ferngelenkten Wracks in
 seinem Geiste erstanden sein: Die schwimmende Grotte, wie
 du’s benannt hast, dieses erste Abenteuer mit dem genialen
 Mörder. — Gehen wir wieder nach oben. Mutter wartet …
-NaKmittag8 werden wir Scluderrook8 Friedhof anlegen.
+Nachmittags werden wir Schluderrooks Friedhof anlegen.
 Diese Toten sollen der Erde übergeben werden. Es ist scheußliche
 Profanation, mit angespülten Leichen eine derartig
 unheimliche Raritätenschau herzustellen.«
 
-Er sprach mir aus dem Herzen. Ich nötigte hier gleich
+Er sprach mir aus dem Herzen. Ich möchte hier gleich
 erwähnen, daß wir von neun der Toten noch einwandfrei
 Namen und Herkunft ermitteln konnten. Wir haben
 damals den Angehörigen Nachricht gegeben, und zwei Frauenmumien,
@@ -332,25 +331,25 @@ Schluderrook abgeholt und in heimischer Erde bestattet worden.
 
 Ich war froh, als wir draußen wieder im klaren, warmen
 Herbstsonnenschein neben Frau Harst saßen und Harald seinen
-geistvollen Vortrag begann, indem er zunächst die Konserven
-Büchse auf seine Art »zerlegte«.
+geistvollen Vortrag begann, indem er zunächst die Konservenbüchse
+auf seine Art »zerlegte«.
 
-»Bitt« sagte er zu uns, indem er zwischen uns rückte,
-»hier ist im Deckel ein eingestanzter Firmenaufodruck:
+»Bitte,« sagte er zu uns, indem er zwischen uns rückte,
+»hier ist im Deckel ein eingestanzter Firmenaufdruck:
 
-Stamer & Mama., Konserven,
-London.
+<p class="centered">Stamer & Komp., Konserven,</p>
+<p class="centered">London.</p>
 
-Stamer. Echt eine Weltfirma für Schiffsbedarf. Inwiefern die
+Stamer ist eine Weltfirma für Schiffsbedarf. Inwiefern die
 Firma wichtig, hört ihr später. — Dann seht ihr hier unten
 auf dem Boden der Büchse Lötspuren. Der Boden wurde
-herausgefunden, der Konserveninhalt entfernt, und der Boden
+herausgeschnitten, der Konserveninhalt entfernt, und der Boden
 wieder verlötet, nachdem die fünf Gegenstände hineingetan
 waren. Eine Vierpfundkonservenbüchse schleppt nun kein
 Schiffspassagier mit sich. Mithin muß der »Mörder« ein
 Mann einer Schiffsbesatzung gewesen sein, entweder ein
-So oder ein Steward, denn diesen sind die Konservenbüchsen
-am leichtesten zugänglich. Das Schiff wieder kann ein Frosches
+Koch oder ein Steward, denn diesen sind die Konservenbüchsen
+am leichtesten zugänglich. Das Schiff wieder kann ein englisches
 <@pagebreak/>
 sein — kann — weil die Büchse von Stamer bezogen
 wurde.«
@@ -359,8 +358,8 @@ Er griff in die Büchse hinein und brachte den Dolch
 zum Vorschein.
 
 Es war ein Stilett, zweifellos italienischer Herkunft.
-Der Griff aus rötlicher Bronze stellte eine »Frauenfigur dar,
-etwa in der Haltung des Dorfes der Genuß, die man nach
+Der Griff aus rötlicher Bronze stellte eine Frauenfigur dar,
+etwa in der Haltung des Torsos der Venus, die man nach
 der letzten Erdbebenkatastrophe unweit von Athen im Sande
 gefunden hat. Die Klinge war allerfeinster dunkler Stahl,
 sehr scharf, sehr spitz. Sie hatte einige Rostflecken.
@@ -368,10 +367,10 @@ sehr scharf, sehr spitz. Sie hatte einige Rostflecken.
 »Eine kostbare Waffe aus der Mediceerzeit,« sagte Harald,
 »Ein Prunkstück für jedes Museum. Nur ein sehr reicher
 Mann oder … ein Dieb kann einen solchen Dolch für
-ein Verbrechen benutzen … Also müßte der Kot oder
+ein Verbrechen benutzen … Also müßte der Koch oder
 der Steward, von denen ich vorhin sprach, die Waffe gestohlen
 haben. Ihr versteht mich: Ich vermute, daß der Mörder
-Kot oder Steward war und …«
+Koch oder Steward war und …«
 
 Frau Harst unterbrach ihn. »Mein lieber Junge, es
 wäre wohl praktischer, du würdest uns zuerst das Tagebuch
@@ -392,10 +391,11 @@ kam ein in schwarzes Leder gebundenes kleineres Buch mit
 Golddruckaufschrift »Poesiealbum«. Er schlug es auf …
 
 »Hier steht:
-Meiner geliebten Inge
-zum fünfzehnten Geburtstag
-von ihrer Mutti.
-8\. August 1913.
+
+<p class="centered">Meiner geliebten Inge</p>
+<p class="centered">zum fünfzehnten Geburtstag</p>
+<p class="right">von ihrer Mutti.</p>
+<p class="right">8. August 1913.</p>
 
 <@pagebreak/>
 Diese »Inge« wäre jetzt also dreißig Jahre alt. Ich denke
@@ -411,10 +411,10 @@ der Stil entspricht der Gemütsverfassung des Unbekannten,
 Verworfenheit dar. — Ich beginne also vorzulesen.«
 
 »Halt,« meinte ich, »noch einen Augenblick … Ist etwa
-dieser es die Mordwaffe? Und was soll die Puppe?
-Und …
+dieser Dolch die Mordwaffe? Und was soll die Puppe?
+Und …«
 
-»Das Taschentuch?« rief Frau Harst, die nun gleichfalls
+»… Das Taschentuch?« rief Frau Harst, die nun gleichfalls
 Feuer gefangen hatte.
 
 Harald lächelte lieb. »Ganz Frauenart, ein Wäschestück
@@ -425,7 +425,7 @@ das heben wir uns für später auf. Nun hört … Ihr
 werdet erschüttert sein, wie ich es war, und ihr werdet aus
 alledem ebensowenig klug werden wie ich …« —
 
-widme der Niederschrift des Unbekannten ein besonderes
+Ich widme der Niederschrift des Unbekannten ein besonderes
 Kapitel.
 
 <@pagebreak/>
@@ -1317,7 +1317,7 @@ der Ereignisse gefährden wollte. —
 Im zweiten Teil kann ich meinen Lesern und Freunden
 nunmehr im einzelnen jene in der Presse nur unvollkommen
 wiedergegebenen Vorgänge vor der Feldherrnhalle in
-München schildern — Vorgänge, die halb als bessere Zeitunggente,
+München schildern — Vorgänge, die halb als bessere Zeitungsente,
 halb als »Münchener Oktoberwiesen—Ulk« gedeutet,
 bewertet wurden. Sie waren alles andere als das.
 Haarscharf ging der Tod damals an einer der hier bereits
@@ -1850,7 +1850,7 @@ Immer wieder um, musterte alle Leute, witterte scheinbar
 begriff ihn nicht.
 
 Der Eingang zum Wohltäter-Bräu ist ein schmaler Gang
-zwischen hohen Zauswänden, der sich dann zu einem mittelgroßen
+zwischen hohen Hauswänden, der sich dann zu einem mittelgroßen
 Garten erweitert. Der Sommerbetrieb war vorüber.
 Keine Musik mehr, keine vollbesetzten Tische … Nur
 Roch in den Sälen das echt Münchener Gaudi mit viel Bier,
