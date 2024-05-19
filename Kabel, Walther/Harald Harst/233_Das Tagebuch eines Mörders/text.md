@@ -439,14 +439,14 @@ verschwand in seiner Kabine …
 Ich kann kaum schreiben …
 
 Meine Hand zittert … Alles an mir, in mir ist in
-wildestem Aufruhr. Ich fühlte, daß der Wahnsinn heran
-schleicht … Wer sollte darüber nicht den Verstand verlieren?!
+wildestem Aufruhr. Ich fühlte, daß der Wahnsinn heranschleicht
+… Wer sollte *darüber* nicht den Verstand verlieren?!
 
 Mörder — — Mörder!!
 
 Und — ich weiß nicht, weiß es heute noch nicht, wie’s
 mir möglich war, in blindem Jähzorn, in rasender Eifersucht,
-in toller Verwirrung das zu vollbringen.
+in toller Verwirrung *das* zu vollbringen.
 
 Nur eins weiß ich: Gerade weil wir alle hier dem
 Tode geweiht scheinen, muß ich, so kurz die Zeit auch ist,
@@ -468,10 +468,10 @@ Ruhe — Ruhe!!
 <@pagebreak/>
 Wie soll ich hier das schildern, was geschehen, wenn
 meine Gedanken flattern und kreisen und doch immer wieder
-zu dem einen unseligen Jugendlich zurückkehren, als ich
-
+zu dem einen unseligen Augenblick zurückkehren, als ich
 in der Finsternis blindlings zustieß — — ich, ich, bisher
 ein Mensch, der jede Gewalttat scheute …
+
 Ruhe!!
 
 Ja — geliebt habe ich sie, wie nie ein Weib geliebt
@@ -484,7 +484,7 @@ nehmen, einfach nehmen und nicht betteln … —
 
 Gestern war’s …
 
-Nach Mitternacht … Da sah Schuß … Da umlauerte ich
+Nach Mitternacht … Da sah ich’s … Da umlauerte ich
 sie … Da trat sie, flüchtig huschend im Dämmerlicht des
 Ganges, bei ihm ein — — gehüllt in die stickigen Nebel …
 — ein Mantel der Sünde …
@@ -492,30 +492,31 @@ Ganges, bei ihm ein — — gehüllt in die stickigen Nebel …
 Und ich?!
 
 Gefühlt habe ich, daß in mir etwas zerriß, zersprang …
-Das Gute ward Güte, Niedertracht, Mordgier.
+Das Gute ward Tücke, Niedertracht, Mordgier.
 
 Ich rannte … rannte hierher, rote Wolken vor den
 Augen, riß die Waffe hervor, — — wie ich wieder durch
-wehende Finsternis zurü&gelangte, — — — ich war da …
+wehende Finsternis zurückgelangte, — — — ich war da …
 ich stieß die Tür auf, ich … ich … stieß zu … im Dunkeln
 — wie ein Wahnsinniger, ich hörte den gellenden Hilferuf,
 den verhallenden Seufzer, den dumpfen Fall — nur
 ich …
+
 Die Hölle war über uns, um uns, in mir …
 
 Und wieder allein dann … Hier, hier in dieser Enge,
 dieser dörrenden Hitze, diesem Vulkan, der jeden Moment
-vordersten konnte …
+bersten konnte …
 
 In den Sessel sank ich …
 
-Ad 55 weinte 55
+Und … weinte …
 
 Wie ein Kind …
 
-Bis eine Käfer unnatürliche Kälte mir zum Herzen
+Bis eine schier unnatürliche Kälte mir zum Herzen
 <@pagebreak/>
-hm … Eine eisige Hand erdrückte Reue, Angst, Verzweiflung
+kroch … Eine eisige Hand erdrückte Reue, Angst, Verzweiflung
 …
 
 Ein leerer Schwamm war meine Seele …
@@ -528,10 +529,10 @@ als den Täter kommen …
 Ich fühlte die starre Reihe raffinierten Selbsterhaltungstriebes
 …
 
-Vielleicht machen alle Mörder diesen jähen Sturmnacht
-Wechsel durch.
+Vielleicht machen alle Mörder diesen jähen Stimmungswechsel
+durch.
 
-Ich tat meine Pflicht wie einer, der nichts ahnte»…
+Ich tat meine Pflicht wie einer, der nichts ahnte …
 Ich half, arbeitete, kämpfte wie die anderen …
 
 Und schlief vier Stunden …
@@ -543,68 +544,67 @@ Wieder die Angst, Verzweiflung, Reue …
 
 Und — noch ahnte niemand etwas …
 
-Wer kümmerte Biß auch damals um den andern?! —
+Wer kümmerte sich auch damals um den andern?! —
 Damals?! Oh — es liegen ja erst Stunden dazwischen …
 Nur Stunden … Ewigkeiten trotzdem …
 
 Erwachte …
 
-Und droben im Tageslicht, droben im steigender Spiel
-des gigantischen Feuerwerks der eine, der’s mir up
+Und droben im Tageslicht, droben im gleißenden Spiel
+des gigantischen Feuerwerks der eine, der mir zuruft:
 
-»Die … ist tot, erstochen … unten liegt sie …
+»Die … ist tot, erstochen … unten liegt sie …«
 
 Er lief schon weiter …
 
 Was galt ein Menschenleben?!
 
 Ich war trunken, besessen, irr … Ich brüllte irgend
-
 Etwas …
 
-Bis eine harte Faust mir in den Rüden fuhr: »Tagesritt
+Bis eine harte Faust mir in den Rücken fuhr: »Wasser!!
 Wasser!! Zum Verrücktwerden ist nachher noch Zeit, wenn
 uns alle der Teufel holt!«
 
 Ja — — Wasser …! Es war ringsum, endlos, leer,
 schillernd im Sonnenglast, dunkelgrün die Wellentäler, weiß
 <@pagebreak/>
-Hie jagenden Schaumrosse, — es war unsere Rettung und
+die jagenden Schaumrosse, — es war unsere Rettung und
 unser Verderben zugleich …
 
-Wasser!
+Wasser!!
 
 Wie ein Wahnsinniger …
 
-Wasser!
+Wasser!!
 
 Hinab den Eimer am langen Tau, empor den Eimer …
 
-Ein 0 Geifern …
+Ein Zischen, Geifern …
 
 Dampf …
 
 Es war ein lächerliches Beginnen, ein Kampf gegen
-ansehnliche Titanen mit gierigen roten Armen …
+unerbittliche Titanen mit gierigen roten Armen …
 
 Und doch: Wasser — — Wasser!!
 
-I4 habe gelacht … gesungen … geschrien, gebrüllt:
-»Wassers«
+Ich habe gelacht … gesungen … geschrien, gebrüllt:
+»Wasser!!«
 
 Es war eine Entspannung … Es war die Zuflucht, die
-Eile gegen die Dämonen unter der Hirnschale …
+Hilfe gegen die Dämonen unter der Hirnschale …
 
 Und dann kam einer, der mir sagte — und er war trunken
 wie ein Kuli von billigstem Reisschnaps …
 
 »Die … ist morgens mit dem großen Boote weg —
 alle Weiber … Sie haben’s wohl noch gar nicht bemerkt,
-He … 2«
+He …?!«
 
 Ich … bemerkt?! Ich, der kaum aufzusehen wagte?! Wäre
 sie vor mich hingetreten, ich hätte die Flucht ergriffen —
-Hinein in die roten Arme der Titanen da vorn …
+hinein in die roten Arme der Titanen da vorn …
 
 Also — sie war nicht mehr an Bord?! Morgens davongesegelt,
 — — als ich schlief — wie ein Toter … ich, der
@@ -612,7 +612,7 @@ Mörder?!
 
 Mörder?!
 
-warf den Eimer hin …
+Ich warf den Eimer hin …
 
 Hinab … in die enge Hölle …
 
@@ -650,32 +650,32 @@ War sie’s?! War sie’s wirklich?!
 Und — hatte ich nicht in tiefster Finsternis dann zugestoßen
 — blindlings, ohne etwas zu erkennen?!
 
-Hatte ich nicht lediglich) etwas gefühlt? Einen Arm — —
+Hatte ich nicht lediglich etwas gefühlt? Einen Arm — —
 weiche Seide … Wärme des Lebens …? —
 
 Ich muß prüfen …
 
 Ruhe … Ruhe … Und schreiben muß ich … Nicht
 denken … Mit dem weißen Papier vor mir und dem
-Knaben der Feder wird die Besinnung kommen … Ich
+Kratzen der Feder wird die Besinnung kommen … Ich
 schreibe … Habe geschrieben … Habe gelesen … Ist das
 eine Beichte?! Ein Tagebuch von zwei Tagen?! Nichts
-ist’s …! Irrsinn, Wahnsinn, Torheit, Zartheit! Ich habe
+ist’s …! Irrsinn, Wahnsinn, Torheit, Narrheit! Ich habe
 das alles ja nur geträumt …
 
-Oh — das Glück!! Nur geträumt!!
+Oh — *das* Glück!! Nur geträumt!!
 
-Aber — dort … liegt … mein Taschentuch mit- den
+Aber — dort … liegt … mein Taschentuch mit den
 Blutflecken … von der Waffe …
 
 Blut … — also doch Mörder?!
 
 Gott im Himmel, wie nur erlange ich Gewißheit?!
 
-Was tat ich?! Hoch fühlte im Dunkeln einen Arm … und
+Was tat ich?! Ich fühlte im Dunkeln einen Arm … und
 stieß zu … hörte Schreien, Stöhnen, Wimmern, Winseln.
 
-Gott im Himmel, ich höre es von immer! Ich habe
+Gott im Himmel, ich höre es noch immer! Ich habe
 alles erlebt, getan, vollbracht! Ich bin ein … Mörder!!
 
 Bin ich’s?!
@@ -691,22 +691,22 @@ An Bord ist nur eine einzige Frau: die Tote!
 
 Mein Opfer?!
 
-Weshalb zweifele in) noch?! Weshalb raunt mir eine
-leise Stimme hinunter wieder zu: »Du warst es nicht!«
+Weshalb zweifele ich noch?! Weshalb raunt mir eine
+leise Stimme immer wieder zu: »*Du* warst es *nicht*!«
 
 Wer war’s …?! Wer?! — —
 
-Nein, ich jede es auf … Ich finde mich nicht zurecht
-in alledem … Ich werde all daß, was mir teuer, was mir von
+Nein, ich gebe es auf … Ich finde mich nicht zurecht
+in alledem … Ich werde all das, was mir teuer, was mir von
 ihr geblieben, nun in die Büchse einlöten, werde sie über
 Bord werfen …
 
 Ist es nicht Aberwitz des Schicksals, daß ich gerade
 in diesem Büchlein, das sie mir gab, damit ich ihr ein paar
-zärtliche Berge eintrage, die Beichte meiner Tat verewige?!
+zärtliche Verse eintrage, die Beichte meiner Tat verewige?!
 
 Ist es nicht unerhört grausam vom Schicksal, daß dieses
-seine, kleine Püppchen, ihr teuerstes Andenken an harmlose
+feine, kleine Püppchen, ihr teuerstes Andenken an harmlose
 Kindheitstage, zusammen mit dieser Waffe, diesem befleckten
 Tuche, ihrer blonden Strähne, ihrem Buche dem Meere übergeben
 wird?!
@@ -739,7 +739,7 @@ Logik … Das ist Fieberwahn …!!«
 
 Und ich — zu Harald:
 
-»Du sagtest vorhin, daß der Fall fünf Jahre zurücksläge.
+»Du sagtest vorhin, daß der Fall fünf Jahre zurückläge.
 Woher weißt du das?«
 
 »Bravo, mein Alter! Die Frage ist mehr als berechtigt.
@@ -747,25 +747,25 @@ Woher also? — Ich möchte euch nun ein kleines Privatkolleg
 über dieses Problem halten, denn es ist ein Problem, es
 ist beinahe mehr als das, wenn’s eine noch treffendere
 Bezeichnung für ein Ereignis geben würde, dem nur mit
-Hilfe sogenannter Schlußfolgerungen beizukommen ist. — Zu
-nächst: der Schauplatz war ein Schiff, wahrscheinlich ein
+Hilfe sogenannter Schlußfolgerungen beizukommen ist. — Zunächst:
+der Schauplatz war ein Schiff, wahrscheinlich ein
 großer Frachtdampfer, der nebenbei auch Passagiere mitnahm.
 Auf diesem Schiffe, das eine leicht brennbare Ladung
-Hatte, Frau Feuer aus. Irgendwie wurden die Rettungsboote
-bis auf das Großboot vernichtet. Die Besatzung um
-die Fahrgäste blieben zunächst an Bord, da man vor Tor
-Feuer löschen oder doch eindämmen zu können …
+Hatte, brach Feuer aus. Irgendwie wurden die Rettungsboote
+bis auf das Großboot vernichtet. Die Besatzung und
+die Fahrgäste blieben zunächst an Bord, da man hoffte, das
+Feuer löschen oder doch eindämmen zu können …«
 
 <@pagebreak/>
 Frau Harst horchte mit blanken Augen und nickte
 wiederholt.
 
-». Auf diesem Schiffe, das wahrscheinlich) im Atlantik
-in Brand geriet, befanden sich vier Personen, deren Sisal
+»… Auf diesem Schiffe, das wahrscheinlich im Atlantik
+in Brand geriet, befanden sich vier Personen, deren Schicksal
 sich hier erfüllte. Da war zuerst der »Mörder«, den ich
-für einen Steward halte. Der Wann verliebt sich unterwegs
+für einen Steward halte. Der Mann verliebt sich unterwegs
 in einen der weiblichen Fahrgäste. Seine Liebe wird erwidert,
-er verlebt selige Stunden … Ader da ist ein zweiter
+er verlebt selige Stunden … Aber da ist ein zweiter
 Mann, der ebenfalls um dieselbe Frau sich bemüht. Der Erste
 ist eifersüchtig. Er beobachtet die Geliebte. Er eilt ihr in
 die Kabine des Anderen nach und ermordet dort jemand …
@@ -785,60 +785,61 @@ war, — alles dunkel — vorläufig?!«
 Wenn wirklich fünf Jahre seitdem vergangen sind, —
 wie willst du …«
 
-… ich will nicht, liebe Mama: Ich habe!! Ich habe
+»… ich will nicht, liebe Mama: Ich habe!! Ich habe
 in Karstens Raritätenkabinett außer dieser Büchse, die eine
 Strömung hier an meine Insel trieb, noch Wrackteile gefunden,
 verbrannte Bretter, ein Brettstück, das fraglos von
 dem Treppendach eines Dampfers herrührt — angekohlt, aber
 — ein Name eingebrannt, ein Schiffsname:
 
-Nelson, London.
-Und ich glaube bestimmt, daß dieses Schiff »Nelson« das
-Unglükcksfahrzeug ist … Ich habe in Karstens Bibliothek auch
-eine von Lloyds, London, heraus3gegebene Liste der in den
-<@pagebreak/>
-Jahren 1922-27 verloren gegangenen Seeschiffe Kutter,
-und da steht unter dem 17, Juli 1923:
+<p class="centered">Nelson, London.</p>
 
-Dampfer »Felsen« London, mit Wolle von Neuyork
+Und ich glaube bestimmt, daß dieses Schiff »Nelson« das
+Unglücksfahrzeug ist … Ich habe in Karstens Bibliothek auch
+eine von Lloyds, London, herausgegebene Liste der in den
+<@pagebreak/>
+Jahren 1922-27 verloren gegangenen Seeschiffe entdeckt,
+und da steht unter dem 17. Juli 1923:
+
+> Dampfer »Felsen« London, mit Wolle von Neuyork
 nach London, durch Selbstentzündung der Ladung nach
-schwerem Orkan verschollen. Gerettet nur fünf Wann der Des
-Anzug und zwei Frauen, vier Kinder.
+schwerem Orkan verschollen. Gerettet nur fünf Mann der Besatzung
+und zwei Frauen, vier Kinder.
 
 Zweifelt ihr noch?«
 
-»Vorn,« — und rieche nahm das Gut und überflog nochmals
+»Nein,« — und ich nahm das Buch und überflog nochmals
 die Seiten … Die letzten — mit dem rätselhaften Schlußwort
-»irres Mondes …
+eines Mörders …
 
-Ich las, und die Schiffstragödie erstand von mir wie
-ein feuriges Bild. Was Harst aus diesen Zeilen herausgeklingelt,
+Ich las, und die Schiffstragödie erstand vor mir wie
+ein feuriges Bild. Was Harst aus diesen Zeilen herausgeklügelt,
 stimmte genau: So war das Drama unter den
 vier Personen emporgewachsen, ein Spiel von Liebe, Eifersucht
-und Tod. So war diese Drama verklungen: das
-Wiese hatte alle Spuren verwischt!
+und Tod. So war dieses Drama verklungen: das
+Meer hatte alle Spuren verwischt!
 
 Dann fragte Frau Harst aufs neue, und ihre Stimme
-war durchbebt von der Ergriffenheit über so viel Verscheucht:
+war durchbebt von der Ergriffenheit über so viel Menschenleid:
 
 »Gedenkst du bei Lloyds, London, die Passagierliste des
 Nelson einzusehen?«
 
 Sie wartete die Antwort nicht ab …
 
-»Tu’s nicht, Harald … Was müßt es, wem müßt es,
+»Tu’s nicht, Harald … Was nützt es, wem nützt es,
 wenn du den Namen der Frau ermittelst, die in dem Großboot
-ungefesselt wurde?!«
+mitgerettet wurde?!«
 
 Harald hatte in die Büchse hineingelangt und eine dicke
 Strähne blonden Haares hervorgeholt … Mit rotem Seidenfaden
 war sie zusammengebunden …
 
-Betet 15:20«
+»Hier …«
 
 Er streichelte das goldene Blond …
 
-»Die?, dieses Haar spricht zu mir von einem Verbrechen —
+»Hier, dieses Haar spricht zu mir von einem Verbrechen —
 einem zweiten Verbrechen … Vielleicht werde ich doch noch
 Gelegenheit haben, sowohl die Frau als auch den »Anderen«
 zu finden, denn — der lebt auch, behaupte ich, der war
@@ -871,15 +872,15 @@ Liebevolle Frauenhände nahmen es entgegen … Frau
 Harst hatte ein wehmütiges Lächeln um die Lippen. Vielleicht
 gedachte sie der fernen, fernen Vergangenheit, als sie selbst
 noch mit Puppen gespielt, vielleicht auch des Tages, an
-dem sie ihren Jungen zum ersten Wale in den Armen
+dem sie ihren Jungen zum ersten Male in den Armen
 gehalten hatte … vielleicht …
 
 Harald lächelte auch, so etwas spitzbübisch …
 
 »Mama, du wirst der kleinen Tirolerin notwendig schon
-die Päckchen heben müssen, denn das Firmenschild der
+die Röckchen heben müssen, denn das Firmenschild der
 Puppenfabrik ist auf den Unterteil des Rückens geklebt …
-Es ist eine Nürnberger Puppenfabrik, Retter & Kompagnie,
+Es ist eine Nürnberger Puppenfabrik, Rotter & Kompagnie,
 immerhin also noch ein Anhaltspunkt für Nachforschungen.
 — Siehst du, da ist das Schildchen. Wir wissen also über
 diese Inge, die gerettet wurde, folgendes: Etwa dreißig Jahre,
@@ -889,10 +890,10 @@ dem Schiffsbrand im Großboot entronnen. — Das ist sehr
 viel, wie ihr zugeben müßt. — Und nun zu dem … Mörder
 auf dem Dampfer. Er ist wahrscheinlich tot. Ebenso der
 <@pagebreak/>
-andere, der das rätselhafte Eifersuchtsdrama heraufbeschwor,
+andere, der das rätselhafte Eifersuchtsdrama heraufbeschwor.
 Der Mörder … Ich sagte: Steward oder Koch, und stützte
-mich dabei auf die Vierpfundbüchse. Jetzt sind mir ’in dieser
-Ansicht doch Bedenken aufgestiegen.«
+mich dabei auf die Vierpfundbüchse. Jetzt sind mir in dieser
+Hinsicht doch Bedenken aufgestiegen.«
 
 Er drehte die Büchse um und rieb den verrosteten Boden
 mit Sand blank.
@@ -901,13 +902,13 @@ mit Sand blank.
 all den Jahren unseres treuen Zusammenlebens wirklich
 etwas gelernt hast. Was fällt dir auf?« —
 
-Derartige Fragen sind peinlich, wenn einem nichts auch
+Derartige Fragen sind peinlich, wenn einem nichts auffällt.
 
-fallt.
 Frau Harst kam mir zu Hilfe.
-»Mein Junge, hinter deine Spitzfindigkeiten kommt es
-leicht niemand … Ich sehe nichts als einen runden glatten
-Lötrand, Der Mörder hat die Büchse wieder luftdicht verschlossen,
+
+»Mein Junge, hinter deine Spitzfindigkeiten kommt so
+leicht niemand … *Ich* sehe nichts als einen runden glatten
+Lötrand. Der Mörder hat die Büchse wieder luftdicht verschlossen,
 wie er zugibt … Also …«
 
 »Ja, es ist ja gerade diese Lötstelle,« meinte Harald
@@ -921,16 +922,16 @@ Büchse verlötet haben kann.«
 jetzt entweder an einen Schiffsoffizier oder an einen Fahrgast,
 der gleichfalls Techniker war. Mein Endurteil lautet:
 Fahrgast, auch Ingenieur! — Beachtet bitte mal die Sätze
-zu der Beichte, wo jemand den Mörder mit der Faust in
+in der Beichte, wo jemand den Mörder mit der Faust in
 den Rücken stößt und ihn grob auffordert, sich an der Bekämpfung
 des Feuers zu beteiligen. Dieser Jemand in seiner
 derben Art kann nur ein Matrose gewesen sein. Einem
 Vorgesetzten gegenüber hätte der Matrose das nicht gewagt.
 Also: Fahrgast! — Bleibt nur die Frage offen: Wo bekam
-er den Lötkolben her? Selbst ein Ingenieur schleppt derbe!
+er den Lötkolben her? Selbst ein Ingenieur schleppt derlei
 auf der Reise nicht mit sich herum. Nehmen wir an, er
 Beschaffte sich das Lötzeug aus dem Maschinenraum. Möglich
-3t das schon. — So, und nun haben wir hier das
+ist das schon. — So, und nun haben wir hier das
 <@pagebreak/>
 Taschentuch, mit dem die blutige Waffe gesäubert wurde. Ein
 gutes Taschentuch, bunter Rand, Batist, kein Monogramm,
@@ -938,34 +939,34 @@ aber hier das Zeichen einer Wäscherei, ein Stückchen Seidenfaden
 am Rande vernäht, dreifarbig: rot, grün, schwarz. So
 pflegen die Wäschereien die Sachen ihrer Kundschaft zu
 signieren, damit keine Verwechslungen vorkommen. — Dieses
-Seidentücher besagt von mehr … Der Mörder kam von
+Seidenfädchen besagt noch mehr … Der Mörder kam von
 Neuyork. Er muß dort längere Zeit gewesen sein … Er
 ließ dort seine Wäsche reinigen und plätten. Er war Kunde
 der Wäscherei, die für ihn die Farben rot, grün, schwarz
 reservierte. Dies mögen Trugschlüsse sein — vielleicht. Jedenfalls
-gibt auf dies Anhaltspunkte.«
+gibt auch dies Anhaltspunkte.«
 
 Frau Harst schüttelte den Kopf … »Harald, Harald,
-— woran du auch denkst …!! Ein Seidentücher, — und du
+— woran du auch denkst …!! Ein Seidenfädchen, — und du
 hoffst dadurch den Namen des Mannes zu erfahren!«
 
 »Gewiß … Falls es nicht einfacher geht. — Nun zu
 dem Rivalen des Mörders und der Toten … — Der Rivale
 — für uns ein Schemen — vorläufig. Nur eins ist sicher:
-Er gehörte zur Besatzung, war nicht Fahrgast. Auch) in
-diesem Punkte muß ich mich korrigieren. Er war Schiffsoffizier
-— vielleicht … Ihm wurde die Führung des Erobertes
+*Er* gehörte zur Besatzung, war *nicht* Fahrgast. Auch in
+diesem Punkte muß ich mich korrigieren. *Er* war Schiffsoffizier
+— vielleicht … Ihm wurde die Führung des Großbootes
 mit den Frauen und Kindern übertragen — vielleicht.
-Er wollte auf von Bord, er fürchtete den Mörder … —
+Er wollte auch von Bord, er fürchtete den Mörder … —
 — Sein Name wird sich feststellen lassen. — Dann zum
 Schluß: Die Tote! Auch ihr Name ist leicht zu ermitteln.
 Es unterliegt ja keinem Zweifel, daß die Londoner Polizei
-diesen Moos untersucht haben, falls eben das Verbrechen
+diesen Mord untersucht hat, falls eben das Verbrechen
 von dem Großboot gemeldet wurde, und das ist doch mit
 Bestimmtheit anzunehmen. — Hiermit schließe ich meine
 Ausführungen.«
 
-»Sie waren interessant, mein Zunge,« meinte Frau
+»Sie waren interessant, mein Junge,« meinte Frau
 Harst sinnend. »Nur deine Einschränkungen durch die zahlreichen
 »Vielleicht« stören das Gesamtbild. Und dann: Was
 versprichst du dir von einer Nachprüfung dieser Tragödie?«
@@ -980,17 +981,17 @@ beschienen, nahm plötzlich einen drohenden Ausdruck an.
 Tones. »Ah — hineinleuchten will ich in ein Gefüge von
 Niedertracht …! Was ich vermute, würde euren Ohren allzu
 phantastisch klingen, ich behalte es daher für mich. Jedenfalls:
-Niemals lasse ich diese Sache auf sich deuten, niemals! —
+Niemals lasse ich diese Sache auf sich beruhen, niemals! —
 Da, Mathilde ruft zu Tisch … Gehen wir … Nachher
 werde ich funken …« —
 
-Mathilde trug die Mahlzeit auf … Es gab Hammels
-braten. — Armer Hammel! Vor drei Tagen hatte eines
+Mathilde trug die Mahlzeit auf … Es gab Hammelbraten.
+— Armer Hammel! Vor drei Tagen hatte eines
 unserer zehn Schafe daran glauben müssen — allerdings
-ganz schmerzlos, Wir hatten auch darin Übung. Und als
+ganz schmerzlos. Wir hatten auch darin Übung. Und als
 wir ihn ausweideten, hatten wir Erinnerungen aufgefrischt
-»an köstlicz)e Wochen freien Nomadenlebens in Südarabien, in
-der Thar, im Eiskanzel … Da war die Sehnsucht gekommen
+an köstliche Wochen freien Nomadenlebens in Südarabien, in
+der Thar, im Dschungel … Da war die Sehnsucht gekommen
 nach südlicher Wärme, südlicher Weite … Zulange
 schon hielt uns Mutter Europa, die Überkultivierte, fest …
 Indiens Wunderreich lockte … Und Harald hatte gesagt:
@@ -1019,7 +1020,7 @@ Herbst an der See …
 
 Schön, wunderbar schön … Nur … melancholisch, wie
 ich deutlich empfand. Der eigene Reiz der klaren Luft, des
-durchsichtigen Himmels, des scharfen Windes, der Konserven
+durchsichtigen Himmels, des scharfen Windes, der knisternden
 Gräser: Vorboten des Winters!
 
 Natürlich waren Anita und Asta mir gefolgt. Ich
@@ -1034,10 +1035,10 @@ Dann kam Harst und half.
 
 »Erledigt!« sagte er. »Der Londoner Amateur hat Freund
 <@pagebreak/>
-Brown telephonisch gesprochen. Brown in um zehn Uhr
-abends an auf« Welle 33. Bin neugierig …
+Brown telephonisch gesprochen. Brown ruft um zehn Uhr
+abends an auf Welle 33. Bin neugierig …«
 
-»Ich auch …
+»Ich auch …«
 
 Wir holten die Mumien, wir hatten jede in alte Segel
 gewickelt. Es war keine angenehme Arbeit, —
@@ -1045,7 +1046,7 @@ gewickelt. Es war keine angenehme Arbeit, —
 Endlich dann zehn Uhr …
 
 Wir saßen oben in Karstens Laboratorium … Auch
-Frau Harst und Mathilde, eine Familie waren wir.
+Frau Harst und Mathilde, *eine* Familie waren wir.
 
 Der Empfänger pfiff leise … lauter …
 
@@ -1056,7 +1057,8 @@ Konuslautsprecher.
 
 Nun eine Stimme — erst noch verzerrt:
 
-na Hallo, — hier Detektivinspektor Brown, London,
+»Hallo, hallo, — hier Detektivinspektor Brown, London.
+Hallo …«
 
 Es war genau zehn Uhr.
 
@@ -1068,21 +1070,20 @@ Freue mich, Ihnen gefällig sein zu können … Tat mir leid,
 als ich las, daß Ihr Haus niedergebrannt ist und daß Sie
 so frech bestohlen worden. Na, die Sache ist ja wieder eingerenkt.
 Gratuliere zu dem Erfolg. Frau Edda Gulbransons
-Sie lohnte …
+Scheck lohnte …«
 
-Frau Harsts Strickstrumpf ruhte, und die die Mathilde
-gar in der Sofaeck&e sanft eingenickt und schnarchte unteren
-
-ich …
+Frau Harsts Strickstrumpf ruhte, und die dicke Mathilde
+war in der Sofaecke sanft eingenickt und schnarchte unmelodisch
+…«
 
 »Nun zu Ihren Fragen, lieber Harst … Es war eine
-Kleinigkeit, alles zu ermitteln … Ich bin auch sehr vor
-einzig dabei zu Werke gegangen … Hoffentlich hört niemand
+Kleinigkeit, alles zu ermitteln … Ich bin auch sehr vorsichtig
+dabei zu Werke gegangen … Hoffentlich hört niemand
 diese Meldung ab, der ein fragwürdiges Interesse daran
-bat … — Sie werden ja 0 Bleistift und Papier zur
-Hand haben. Ich beginne …
+hat … — Sie werden ja wohl Bleistift und Papier zur
+Hand haben. Ich beginne …«
 
-schrieb:
+*Ich* schrieb:
 
 1\. Der Frachtdampfer »Nelson« ist bei Lloyds sehr
 <@pagebreak/>
@@ -1093,12 +1094,12 @@ fünf Leute der Besatzung nichts Belastendes aussagen
 konnten, mußte Lloyds zahlen. Der Dampfer selbst ist nie
 mehr, auch nicht als ausgebranntes Wrack, gesehen worden.
 
-2\. Unter den Passagieren befanden, sich vier Deutsche,
+2\. Unter den Passagieren befanden sich vier Deutsche,
 drei Frauen, ein Mann. Goldblond war nur eine der
-Frauen, Ingeborg Alsen, geborene Dornhüller, Witwe,
+Frauen, *Ingeborg* Alsen, geborene Dornhüller, Witwe,
 auf der Rückreise nach Münden begriffen. Sie war in
 Neuyork bei Verwandten ihres verstorbenen Gatten zu
-Bein gewesen. Das Großboot, in dem sie zusammen
+Besuch gewesen. Das Großboot, in dem sie zusammen
 mit elf anderen Frauen, vier Kindern, dem Steuermann
 Stuart Parker und vier Matrosen gerettet wurde, begegnete
 22 Stunden nach Verlassen des brennenden Nelson
@@ -1107,12 +1108,12 @@ und in Amsterdam an Land setzte.
 
 3\. Der mit dem »Nelson« untergegangene einzige
 deutsche Passagier war der Berliner Fabrikbesitzer Oskar
-Straub, Inhaber der Firma »Deutsche Nietenfabrik«, Berlin Pankow.
+Straub, Inhaber der Firma »Deutsche Nietenfabrik«, Berlin-Pankow.
 
 4\. Die in der Kabine des Steuermanns Stuart Parker
 erstochen aufgefundene Frau war Parkers Gattin Evelyn
-Parker. — Gleich nachdem die dänische Brigg in Amsterstar
-Gelandet, gab Parker vor dem Seeamt folgendes zu
+Parker. — Gleich nachdem die dänische Brigg in Amsterdam
+gelandet, gab Parker vor dem Seeamt folgendes zu
 Protokoll: »Ich bin in jener Nacht vom 16. zum 17. Juli
 1923, als das Vorschiff des »Nelson« in Flammen stand,
 nicht eine Minute in meiner Kabine gewesen, wie der
@@ -1120,17 +1121,16 @@ Kapitän und die Besatzung schriftlich bezeugt haben. Hier
 Übergebe ich das Protokoll. Da der erste Offizier an Rauchvergiftung
 gestorben war, übertrug der Kapitän mir den
 Befehl über das uns allein verbliebene Großboot. Erst
-als im meine Frau benachrichtigen wollte, daß wir von
+als ich meine Frau benachrichtigen wollte, daß wir von
 Bord gehen würden, fand ich sie tot auf. Der Kapitän
 bestimmte, daß die Leiche auf dem »Nelson« bleiben solle.
-
 <@pagebreak/>
 Ich weigerte mich unter diesen Umständen, das Kommando
 Über das Großboot zu übernehmen. Ich wollte wenigstens
-von) dem Seebegräbnis meiner Frau beiwohnen. Der
+noch dem Seebegräbnis meiner Frau beiwohnen. Der
 Kapitän beharrte bei seiner Entschließung. Auch das steht
-im Protokoll. Es kam zwischen uns zu einem erregten Aufs
-tritt. Er drohte mir mit dem Gespenst. Ich mußte
+im Protokoll. Es kam zwischen uns zu einem erregten Auftritt.
+Er drohte mir mit dem Seegericht. Ich mußte
 gehorchen. Wer meine Frau ermordet hat, weiß ich nicht.«
 
 Gegen Stuart Parker wurde trotzdem eine Untersuchung
@@ -1144,7 +1144,7 @@ seine Gattin zu töten, wurde das Verfahren Eingestellt.
 Stuart Parker lebt jetzt irgendwo im Ausland. Sein
 Aufenthaltsort ist unbekannt.
 
-5\. Evelyn Barker, geborene Bruder, war Amerikanerin.
+5\. Evelyn Parker, geborene Snider, war Amerikanerin.
 Parker hatte sie in Neuyork kennengelernt und geheiratet
 — kurz vor der Abfahrt des »Nelson« von dort. Sie
 war arm. Parker hatte keinerlei Vorteile von ihrem
@@ -1170,7 +1170,7 @@ Harald schaltete den Empfänger aus und erhob sich
 von dem Stuhl vor dem kleinen Wandtischchen.
 
 Mathilde schlief. Aber Frau Harst und ich blickten unseren
-genialen Rüsselkäfer erwartungsvoll an.
+genialen Rätsellöser erwartungsvoll an.
 
 Er ging ein paarmal in dem kleinen Laboratorium auf
 und ab, die Hände in den Jackentaschen, den Kopf leicht
@@ -1184,9 +1184,9 @@ Kriminalisten, so stieß man notwendig auf verschiedene Punkte,
 die noch sehr der Aufklärung bedurften. Ich war gespannt,
 wie Harald sich hierzu äußern würde. Gerade er, der
 mir ja an geistiger Regsamkeit, um nicht den anrüchigen
-KitshausdruX »Scharfsinn« zu gebrauchen, um gut zehn
-Harstsche Nasenlängen voraus ist, schien jetzt diese Zweifel
-haften Szenen und Einzelheiten einer fragwürdigen Doppeltragödie
+Kitschausdruck »Scharfsinn« zu gebrauchen, um gut zehn
+Harstsche Nasenlängen voraus ist, schien jetzt diese Zweifelhaften
+Szenen und Einzelheiten einer fragwürdigen Doppeltragödie
 »Mord und Schiffsbrand« sorgfältigst nachzuprüfen.
 Ich sah voraus, daß er uns mit einer ganz besonderen
 Äußerung überraschen würde. Ich behielt recht. Er blieb vor
@@ -1210,57 +1210,57 @@ Gattin aus dem Wege zu räumen?!«
 
 <@pagebreak/>
 Harald zog einen Stuhl neben das Sofa und nahm
-in zärtlichen Spiel seiner Mutter Hand in die seine. »Du
+in zärtlichem Spiel seiner Mutter Hand in die seine. »Du
 bist zu gut, Mama, — zu gut für die heutige Welt …
-Es mag zu allen Zeiten. raffinierte Verbrecher gegeben
+Es mag zu allen Zeiten raffinierte Verbrecher gegeben
 haben. Heute hat diese Geriebenheit der moralisch Entgleisten
 ein Ausmaß angenommen, wie man es früher
 nicht kannte. Schrankenlose Geldgier, Genußsucht, anderseits
 das Fehlen moralischer Hemmungen, zum Teil noch auf die
-Menschenschlächterei des Weltkrieges zurüszuführen, — endlich
+Menschenschlächterei des Weltkrieges zurückzuführen, — endlich
 der unleugbare Niedergang echten Weibestums, all das
 wirkt zusammen, ergibt das Bild modernster Kriminalität:
-Morde, Robheits8delikte, Bestechungsaffären, Betrugsmanöver
+Morde, Roheitsdelikte, Bestechungsaffären, Betrugsmanöver
 — und so weiter. — Nehmen, wir den Fall Parker, der
 zugleich der Fall »Nelson« sein dürfte. Greifen wir nur
 einen Punkt heraus: Welcher Ehegatte wird, wenn seine
 Frau ermordet in seiner Kabine liegt, das Schiff verlassen,
-mag sein Vorgesetzter auch nachts so energisch befehlen?!
+mag sein Vorgesetzter auch noch so energisch befehlen?!
 Niemand, es sei denn, daß dieser Ehemann den Widerspruch
-gegen den, Befehl nur heuchelte, was der Kapitän
+gegen den Befehl nur heuchelte, was der Kapitän
 gemerkt haben mag. — Parker ist der Mörder. Das steht
-für mich genau so einwandfrei fest wie ein Zweites: daß
-Barker den Brand verursacht, angelegt hat. Natürlich nur, um
+für mich genau so einwandfrei fest wie ein zweites: daß
+Parker den Brand verursacht, angelegt hat. Natürlich nur, um
 durch die allgemeine Verwirrung sein Verbrechen leichter ausführen
 zu können.«
 
 »Aber er war doch an Deck,« bemerkte ich vorsichtig …
 
-»Gewiß … Aber er hat Inge Alsen, irgendwie veranlaßt,
-damals nachts in seine Kabine zu kommen … Ei
+»Gewiß … Aber er hat Inge Alsen irgendwie veranlaßt,
+damals nachts in seine Kabine zu kommen … Er
 rechnete mit Oskar Straubs, des Mörders, toller Eifersucht …
-Er arrangierte eben, eine freventliche Verwechslung …«
+Er arrangierte eben eine freventliche Verwechslung …«
 
-»Mein Gott!« Brief Frau Harst leise. »Das ist ja entsetzlich
+»Mein Gott!« rief Frau Harst leise. »Das ist ja entsetzlich
 …!«
 
 »Allerdings …«
 
-Docht meine Einwendungen waren noch lange nicht
+Doch meine Einwendungen waren noch lange nicht
 erschöpft.
 
-»Und Frau Evelyn Barker?! Es war nacht … Sie
+»Und Frau Evelyn Parker?! Es war nacht … Sie
 <@pagebreak/>
-schlief doch fraglos, oder befand sich vorhin wenigstens in
+schlief doch fraglos, oder befand sich doch wenigstens in
 der Kabine, als Inge Alsen hineinschlüpfte?! Wie standen
-die Frauen Sterne Verließ Inge die Kabine sofort
+die Frauen zueinander? Verließ Inge die Kabine sofort
 wieder?«
 
-Harald drehte bin Kopf nach mir hin …
+Harald drehte den Kopf nach mir hin …
 
 »Mein Alter, das wird Frau Inge uns selbst alles
 beantworten müssen … Wir fahren nach München, alle
-vier … Unsere Insel lassen wir unter Aussicht des alten
+vier … Unsere Insel lassen wir unter Aufsicht des alten
 Jan Priem zurück — wie schon einmal. Jede Theorie, jegliche
 weitere rein theoretische Erörterung dieser Dinge ist zwecklos.
 Ich werde Klarheit schaffen, um jeden Preis! Ich werde
@@ -1268,19 +1268,18 @@ auch Stuart Parker finden, vielleicht sogar in Inges nächster
 Nähe, vielleicht als ihren … Gatten …«
 
 Ich schüttelte den Kopf. »Harald, du hast dich da in eine
-bestimmte Theorie verbissen …! Wenn nur nicht die Entstäuschungen
+bestimmte Theorie verbissen …! Wenn nur nicht die Enttäuschungen
 folgen …!«
 
 Er schaute mich siegesgewiß an …
 
-»Und meine Theorien vor Browns Auskunft?! Ist
+»Und meine Theorien *vor* Browns Auskunft?! Ist
 Inge nicht Witwe, ist Oskar Straub nicht Techniker, nicht
-Inhaber einer Nietenfabrik, — und all das andere noch … 2?!«
+Inhaber einer Nietenfabrik, — und all das andere noch …?!«
 
 »Nieten!!« sagte ich mit Betonung. »Nieten …!! Eine
-Zonen Vorbedeutung. — Gut, Frau Inge wohnte in
-
-Münden … Wohnt sie noch dort?!«
+schlechte Vorbedeutung. — Gut, Frau Inge wohnte in
+München … Wohnt sie noch dort?!«
 
 »Ich werde natürlich anfragen — in Husum bei der
 Polizei, und die wird München anrufen … — Hallo,
@@ -1289,10 +1288,10 @@ Wahrheit verhehlen … Ich muß … Dieses Spiel bleibt
 mein Spiel allein …!« — —
 
 Morgens acht Uhr wußten wir, daß Frau Inge Alsen
-Kinos in Münden bei ihrer Mutter in der Bayerstraße 16
+noch in München bei ihrer Mutter in der Bayerstraße 16
 wohnte.
 
-Sie war also von Frau Inge Alsen, nicht Frau
+Sie war also noch Frau Inge Alsen, nicht Frau
 Inge Parker.
 
 Das war die erste Niete.
@@ -1300,7 +1299,7 @@ Das war die erste Niete.
 <@pagebreak/>
 Am Nachmittag segelten wir vier nach herzlichem Abschied
 von unserem Viehzeug und den Hunden bei östlichen
-Wetter gen Süden … zur großen NacGdarinsel. Jan Priem
+Wetter gen Süden … zur großen Nachbarinsel. Jan Priem
 fuhr dann mit unserem Kutter nach Schluderrook zurück,
 wir selbst benutzten den Dampfer.
 
@@ -1310,7 +1309,7 @@ ja mit zur Familie. — —
 
 Dieser erste Teil des »Tagebuchs« nimmt sich im allgemeinen
 sehr zahm aus. Es war ein etwas umständliches
-Vorspiel. Nicht meine Schuld. Ich konnte mich in keinen
+Vorspiel. Nicht meine Schuld. Ich konnte mich in keinem
 Punkte noch kürzer fassen, wenn ich nicht die Übersichtlichkeit
 der Ereignisse gefährden wollte. —
 
@@ -1318,20 +1317,21 @@ Im zweiten Teil kann ich meinen Lesern und Freunden
 nunmehr im einzelnen jene in der Presse nur unvollkommen
 wiedergegebenen Vorgänge vor der Feldherrnhalle in
 München schildern — Vorgänge, die halb als bessere Zeitungsente,
-halb als »Münchener Oktoberwiesen—Ulk« gedeutet,
+halb als »Münchener Oktoberwiesen-Ulk« gedeutet,
 bewertet wurden. Sie waren alles andere als das.
 Haarscharf ging der Tod damals an einer der hier bereits
 erwähnten Personen vorüber, der Tod in einer Form,
 wie’s in der Geschichte der Verbrechen bisher nie geschehen.
 
-Ich will daher auch, den mehr behaglichen bisherigen
+Ich will daher auch den mehr behaglichen bisherigen
 Stil des ersten Teiles fallen lassen und mich auch hierin
 den Ereignissen anpassen … Diese, beinahe in das Gebiet
 der Mystik hinüberspielend, erfordern eine andere Art der
 Wiedergabe.
 
-<@pagebreak/>
-Die Tauben der Feldherrnhalle,
+<@pagebreak 35/>
+
+<h1>Die Tauben der Feldherrnhalle,</h1>
 
 <h2>1. Kapitel.</h2>
 <h3>Frau Inge.</h3>
@@ -1664,7 +1664,7 @@ meinen …
 immer in Gedanken bei diesem Graubart mit den großen
 schillernden Augen und dem stolpernden Schritt.
 
-»Barker kann’s nicht gewesen sein … Er ist groß …
+»Parker kann’s nicht gewesen sein … Er ist groß …
 Ein Verfolger?! Wer?!« Auch Harald war wie geistesabwesend.
 
 Stumm gingen wir weiter, durch das Karlstor, mußten
@@ -1981,7 +1981,7 @@ auf. Harst tat drei Schritte auf ihn zu … »Herr Parker …
 
 Es war wie das ferne Grollen eines Unwetters.
 
-»Herr Barker, es hätte keinen Zweck, hier dieses Versteckspiel
+»Herr Parker, es hätte keinen Zweck, hier dieses Versteckspiel
 fortzusetzen … Sie kennen unsere wahren Namen …«
 
 Parker Spleen Sessel nickte kühl. Seine brennender
@@ -2483,7 +2483,7 @@ verblüffend einfach) zu bedienen war … —
 
 Ich glaube, daß diese Angaben genügen werden. — —
 
-Harst hatte sich Barker gegenübergesetzt. In der Sofaecke
+Harst hatte sich Parker gegenübergesetzt. In der Sofaecke
 sehnte Oskar Straub, der jetzt, nachdem man ihm Bart,
 Perücke, Schminke entfernt hatte, sein bleiches Leidensgesicht
 mit den trostlos irren Augen tief gekrallt hielt, im
