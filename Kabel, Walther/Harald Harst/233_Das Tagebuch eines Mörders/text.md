@@ -1336,23 +1336,23 @@ Wiedergabe.
 <h2>1. Kapitel.</h2>
 <h3>Frau Inge.</h3>
 
-… Sie stiegen hin und her, trippeln hin und her,
-sind zahm wie die noch berühmteren Tauben vom MarkusPlatz
-in Venedig, sie nisten in den Winkeln, Ehren, BerzZierungen
-der Theatinerkirche, der Feldherrnhalle … Riet
-jemand stört sie … Jeder freut sich ihrer, füttert sie …
-Sie gehören mit zu Münden wie die Riesenbavaria auf
+… Sie fliegen hin und her, trippeln hin und her,
+sind zahm wie die noch berühmteren Tauben vom Markus-Platz
+in Venedig, sie nisten in den Winkeln, Ecken, Verzierungen
+der Theatinerkirche, der Feldherrnhalle … Niemand
+stört sie … Jeder freut sich ihrer, füttert sie …
+Sie gehören mit zu München wie die Riesenbavaria auf
 der Theresienwiese, —
 
 Wir waren in einem Hotel in Der Schillerstraße dicht
 am Hauptbahnhof abgestiegen.
 
-Harald liebt die sogenannten gut leserlichen Hotels mit
-oft bayrischer Gemütlichkeit.
+Harald liebt die sogenannten gut bürgerlichen Hotels mit
+echt bayrischer Gemütlichkeit.
 
-So ist der »Schwarze Adler«. Man schläft gut, ist
+So ist der »Schwarze Adler«. Man schläft gut, ißt
 gut, trinkt gut, steht schon am zweiten Tage mit der
-Juni, Franzi, Steffi, die im Restaurant freundlich bedienen,
+Anni, Franzi, Steffi, die im Restaurant freundlich bedienen,
 halb auf du und du und fühlt sich … daheim.
 
 Morgens Ankunft. Mittags zwölf Uhr ließen sich zwei
@@ -1361,8 +1361,8 @@ Bayerstraße 16, melden. Die Zofe führte uns in einen
 altmodischen Salon, dessen Gemälde freilich alles andere
 <@pagebreak/>
 wettmachten. Die Frau Ministerialrat war sehr liebenswürdig.
-Mit aller Unbefangenheit musterte sie Harald wie eine Schau
-budenrarität. »Sind Sie wirklich Harald Harst, der Liebhaberdetektiv?«
+Mit aller Unbefangenheit musterte sie Harald wie eine Schaubudenrarität.
+»Sind Sie wirklich Harald Harst, der Liebhaberdetektiv?«
 
 Haralds Gesicht wurde Essig. Nichts ist ihm fürchterlicher
 als dieser fragwürdige Titel. Er schluckte trotzdem die Pille
@@ -1386,8 +1386,8 @@ sie sich. Tränen kamen ihr in die Augen …
 
 »Wie wußten Sie, daß … daß dies mir einst gehörte?«
 
-»Burg Nachfrage bei der Londoner Polizei, gnädige
-Frau,« — Die Antwort besagte gar nichts.
+»Durch Nachfrage bei der Londoner Polizei, gnädige
+Frau.« — Die Antwort besagte gar nichts.
 
 Die Frau Mama mischte sich ein.
 
@@ -1395,7 +1395,7 @@ Die Frau Mama mischte sich ein.
 regen meine Tochter zu sehr auf …«
 
 Inge Alsen weinte … Ihre Tränen tropften auf das
-Buch 5.
+Buch …
 
 »Es sind die traurigsten Erinnerungen meines Lebens,«
 sagte sie träumerisch …
@@ -1416,11 +1416,11 @@ Frauen und Kindern in aller Stille — es war ja das einzige
 noch seetüchtige Boot, und es durfte bei dem hohen Seegang
 nicht überlastet werden — mit zuverlässigen Leuten zu
 bemannen und wenigstens uns Frauen und die Kinder zu
-retten. Alles ging in jagender Hast … Man kam »kaum recht
-zur Besinnung … Da erst wurde Frau Gartens Ermordung
-Kutter. Ich hatte mich mit ihr angefreundet. Sie war
-ein stilles, liebes Geschöpf, zu zart für die ungeheure Nervenanspannung
-jener schrecklichen Katastrophe. Sie lag zu Bett,
+retten. Alles ging in jagender Hast … Man kam kaum recht
+zur Besinnung … Da erst wurde Frau Parkers Ermordung
+entdeckt. Ich hatte mich mit ihr angefreundet. Sie war
+ein stilles, liebes Geschöpf, zu zart für die ungeheure
+Nervenanspannung jener schrecklichen Katastrophe. Sie lag zu Bett,
 war so matt, daß sie kaum sprechen konnte. Ich war noch
 um Mitternacht bei ihr. Sie schlief jedoch ganz fest, und
 ich kehrte sofort in meine Kabine zurück. Als man sie tot
@@ -1428,21 +1428,21 @@ auffand, trug sie ihren seidenen Schlafanzug mit sehr weiten
 Ärmeln. Sollten Sie etwa vermuten, Herr Harst, daß
 Parker der Mörder sein könnte — es wurde ja eine Untersuchung
 gegen ihn eröffnet —, so muß ich sehr energisch
-für ihn eintreten, obwohl er mir sonst nicht gerade symspathisch
+für ihn eintreten, obwohl er mir sonst nicht gerade sympathisch
 ist.«
 
-»Ich weiß,« Niete Harald, »das Verfahren wurde eingestellt.
+»Ich weiß,« nickte Harald, »das Verfahren wurde eingestellt.
 — Was hatten Sie gegen seine Person, gnädige
 Frau?«
 
 Sie blickte ihn ehrlich an. »Er machte mir den Hof, er
-war sehr zudringlich, er ist es noch …
+war sehr zudringlich, er ist es noch …«
 
 »Ah — Parker lebt hier in München?«
 
-3«) Leide!: 5.5.5«
+»Leider …«
 
-Die Frau Ministerialrat meinte nervös: »Ist die Erödrterung
+Die Frau Ministerialrat meinte nervös: »Ist die Erörterung
 dieser Dinge wirklich nötig, Herr Harst?! — Dieser
 Mensch stellt meiner Tochter noch heute nach … Er ist
 nicht loszuwerden … Er spielt jetzt den guten Freund …
@@ -1454,10 +1454,10 @@ Harald erwiderte höflich-bestimmt:
 
 »Das möchte ich sehr gern, gnädige Frau. Aber die
 ganzen Umstände zwingen mich, an Ihre Frau Tochter doch
-noch« einige Fragen zu richten.«
+noch einige Fragen zu richten.«
 
 Inge Alsen meinte sehr gefaßt: »Meine Mutter übertreibt
-ein wenig. Ich habe. das Schreckliche von damals
+ein wenig. Ich habe das Schreckliche von damals
 zum Teil schon überwunden. Fragen Sie nur, Herr Harst …
 Vielleicht können gerade Sie mir meine innere Ruhe völlig
 wiedergeben.«
@@ -1473,7 +1473,7 @@ bei einem Fest des deutschen Klubs. — Aber woher
 sind Sie so gut über Dinge unterrichtet, die niemand ahnen
 konnte?«
 
-»Darüber will ich zu Erlesenster Zeit sprechen. — Parker
+»Darüber will ich zu gelegenerer Zeit sprechen. — Parker
 verkehrt noch bei Ihnen?«
 
 »Ja — zuweilen. Wir weichen ihm aus, wo es geht.«
@@ -1484,12 +1484,12 @@ Harald schwieg eine Weile.
 begann er wieder. »Mir scheint, Parker zwingt Sie irgendwie,
 den Verkehr mit ihm nicht ganz abzubrechen.«
 
-Frau Inge blitzte etwas scheu zu ihrer Mutter hinüber.
+Frau Inge blickte etwas scheu zu ihrer Mutter hinüber.
 Sie war sehr verlegen geworden.
 
 »Ich will Ihnen die Antwort erleichtern,« fügte Harald
 hinzu. »Hat Parker Ihnen gegenüber vielleicht angedeutet,
-Oskar Straub sei der Mörder Evelyn Parker?!«
+Oskar Straub sei der Mörder Evelyn Parkers?!«
 
 »Ja …« Es war nur wie ein Hauch.
 
@@ -1503,7 +1503,7 @@ Inge Alsen erwiderte bitter: »Weil ich das Andenken
 an den Mann, den ich einzig wahrhaft geliebt habe, nicht
 beschmutzt sehen wollte. Meine erste Ehe war ein Irrtum …
 Ich war zu jung, meine Gefühle richtig abwägen zu können.
-— Parker hat mir schon vor Jahren, als er mir Gläschen
+— Parker hat mir schon vor Jahren, als er mir hierher
 nach München folgte, klipp und klar gesagt, er habe damals
 vor dem Seeamt in Amsterdam nur in Rücksicht auf mich
 geschwiegen. Er habe Beweise, daß Oskar Straub der Täter.
@@ -1522,11 +1522,11 @@ Er wußte, daß ich Straub eine Haarsträhne geschenkt, daß
 ich ihm mein Poesiealbum und meinen Talisman, hier
 das Püppchen, übergeben hatte … Er machte unklare Andeutungen,
 daß Straub bestimmt der Mörder … Sollte
-im zulassen, daß auch meine Person mit in dieses dunkle
-Verbrechen hineingezogen würde?! Sollte ich Gestalt Mutter,
+ich zulassen, daß auch meine Person mit in dieses dunkle
+Verbrechen hineingezogen würde?! Sollte ich Oskars Mutter,
 die einsam in Berlin lebt und die ihr einziges Kind vergöttert
 hat, diese Aufregungen bereiten?! Nein, nein, da
-nahm ich tote lieber Parkers Aufdringlichkeiten in Kauf,
+nahm ich doch lieber Parkers Aufdringlichkeiten in Kauf,
 dämpfte sie allmählich, ward zum Schein seine Freundin …«
 
 »Ich verstehe Sie, gnädige Frau …«
@@ -1535,7 +1535,7 @@ Die Ministerialrätin hatte sich wieder gesetzt. »Der Mensch
 betritt nie mehr mein Haus,« erklärte sie fest. »Oh — Sie
 sollten ihn sehen, Herr Harst …! Ein wandelndes Gespenst
 ist er … ein Greis fast … Sein Haar ergraut, sein Gesicht
-mager, faltig, totenbleich, die Augen Winselnd, fiebergroß
+mager, faltig, totenbleich, die Augen flackernd, fiebergroß
 — ein Totenkopf, der überall auffällt …«
 
 »Wo wohnt er denn?«
@@ -1543,10 +1543,10 @@ mager, faltig, totenbleich, die Augen Winselnd, fiebergroß
 »In der Falkenturmgasse, einer engen, düsteren Parallelstraße
 <@pagebreak/>
 der Maximilianstraße … in einem schmalen, uralten
-Häuschen, das er getauft hat …
+Häuschen, das er gekauft hat …
 
-»Ist er denn so vermögend, daß er seinen Seemanns« —
-Beruf so ohne weiteres aufgeben konnte?«
+»Ist er denn so vermögend, daß er seinen Seemannsberuf
+so ohne weiteres aufgeben konnte?«
 
 Frau Inge antwortete: »Er muß reich sein … — Was
 meine Mutter über sein Aussehen erwähnte, trifft zu. Parker
@@ -1556,19 +1556,20 @@ Und dann — ganz scheu, ganz gedämpft:
 
 »Glauben Sie etwa, daß er seine Frau getötet hat?«
 
-»Nein … Bisher glaube im es nicht. Aber jene Ereignisse
+»Nein … Bisher glaube ich es nicht. Aber jene Ereignisse
 auf dem »Nelson« müssen restlos geklärt werden …
-Wollen Sie mir Mondes helfen, gnädige Frau?«
+Wollen Sie mir dabei helfen, gnädige Frau?«
 
 »Gern …« Das klang fast freudig.
 
 Dann rufen Sie mich im Hotel Schwarzer Adler an, —
-sobald Papier Sie besucht oder sich Unwetter …«
+sobald Parker Sie besucht oder sich anmeldet …«
+
 »Er kommt heute abend, Herr Harst, — leider …«
 
 »Gut … Schraut und ich werden als alte Bekannte
-Ihres Herrn Vaters erscheinen …« Er Habicht genauere
-Vorhaltungen naß regeln … — —
+Ihres Herrn Vaters erscheinen …« Er gab ihr genauere
+Vorhaltungsmaßregeln … — —
 
 Um halb zwei gingen wir durch die Falkenturmgasse …
 
@@ -1583,9 +1584,9 @@ An der dunklen, rissigen Haustür ein Messingschild:
 St. Parker.
 
 Wie tot lag das zweistöckige, schmale Häuschen da.
-Aber oben auf dem Da sahen wir einen Antennenmast, von
-dem aus sich eine Eindrahtantenne nach hinten zu weiter
-zog. Die Ableitung schien durch eine Dachluke nach unten
+Aber oben auf dem Dach sahen wir einen Antennenmast, von
+dem aus sich eine Eindrahtantenne nach hinten zu weiterzog.
+Die Ableitung schien durch eine Dachluke nach unten
 zu führen.
 
 Wir hielten uns in der engen Gasse nicht lange auf.
@@ -1594,21 +1595,22 @@ und Mathilde Mittag, schliefen in unserem Zimmer bis
 vier und packten dann alles Nötige in einen Koffer: Zu
 einem Ausflug nach dem Starnberger See, wie wir dem
 Portier mitteilten. Um halb sechs mieteten wir in der
-Falkenturmgasse in Nr. 3 zwei Zimmer im ersten Stall
+Falkenturmgasse in Nr. 3 zwei Zimmer im ersten Stock
 mit Flureingang, freilich nicht als Harst und Schraut, auch
 nicht äußerlich. Unsere Wirtin war froh, ihre Räume für
 acht Tage loszuwerden. Vor dem 15. Oktober konnte sie
-ja der nicht mit ihrer Stammkundschaft, den Studenten,
-seinen. Es war eine freundliche, harmlose Frau, und
+ja doch nicht mit ihrer Stammkundschaft, den Studenten,
+rechnen. Es war eine freundliche, harmlose Frau, und
 wir werden ihrer stets dankbar gedenken, denn ihre Verpflegung
-war erstilassig und ohne jeden Nepvversuch.
+war erstklassig und ohne jeden Neppversuch.
+
 <@pagebreak/>
 So hatten wir denn nun, was wir wollten: Ein Quartier
-Schlucht neben Parker, — hatten den Hausschlüssel und die
+dicht neben Parker, — hatten den Hausschlüssel und die
 Möglichkeit, jederzeit Herrn Parker über das Dach hinweg
 einen Besuch abzustatten …
 
-Mit diesem Quartier bei Frau Vorkamen, Balkenturm
+Mit diesem Quartier bei Frau Bachbauer, Falkenturm
 3, beginnt der mystische Abschnitt unseres Abenteuers,
 
 Um sieben wanderten wir gemächlich die Maximilianstraße
@@ -1616,10 +1618,10 @@ entlang, aber erst in der stillen Augustinerstraße an der
 Frauenkirche merkten wir den schweren, dröhnenden Schritt
 des Mannes, dem wir dann immer wieder begegnen sollten.
 
-Wir waren stehengeblieben und hatten zu den berühmter
-Zwiebeltürmen des großen Gotteshauses emporgeblickt. Ww
+Wir waren stehengeblieben und hatten zu den berühmten
+Zwiebeltürmen des großen Gotteshauses emporgeblickt. Wir
 Hatten diese merkwürdigen Schritte schon vorhin vernommen,
-jede) nicht beachtet.
+jedoch nicht beachtet.
 
 Scharf und klar hoben sich die Türme vom ausgestirnten
 Nachthimmel ab.
@@ -1628,14 +1630,14 @@ Ganz plötzlich verstummte der schwere Schritt.
 
 Wir blickten uns gleichzeitig um. Unter einer Laterne
 stand ein sehr breitschultriger mittelgroßer Mann im weiten
-Lodenmantel, etwa zehn Schritt entfernt. Unter seinem prügelt
+Lodenmantel, etwa zehn Schritt entfernt. Unter seinem grünen
 Filzhut mit Gamsbart lag ein gebräuntes, graubärtiges
 Gesicht mit großen, blanken Augen, die starr zur Seite
 blickten. Die Adlernase, der ganze Gesichtsschnitt, — fraglos
 ein Älpler … Derbe breite, genagelte Stiefel, dazu braune
 Stutzen, ein dicker Spazierstock, auf den der Fremde leicht
-vornübergebeugt sich stützte, eine steife, herausfordernde Kopf
-Haltung: So hat sich mir das Bild unseres Verfolgers für
+vornübergebeugt sich stützte, eine steife, herausfordernde
+Kopfhaltung: *So* hat sich mir das Bild unseres Verfolgers für
 alle Zeiten fest eingeprägt.
 
 Der Mann drehte sich langsam um, recht schwerfällig,
@@ -1643,7 +1645,7 @@ schritt auf die Kirchentür zu … Das Pflaster ist dort
 Holperig, und zuweilen schwankte er wie trunken, sein schleppender,
 dröhnender Gang berührte mich seltsam … — er
 verschwand in der halb offenen Kirchentür … Leises Orgelspiel
-… wir sahen die rote ewige Lampe schimmern …«
+… wir sahen die rote ewige Lampe schimmern …
 kniende Gestalten …
 
 <@pagebreak/>
@@ -1668,8 +1670,8 @@ schillernden Augen und dem stolpernden Schritt.
 Ein Verfolger?! Wer?!« Auch Harald war wie geistesabwesend.
 
 Stumm gingen wir weiter, durch das Karlstor, mußten
-warten, um den Platz zu überqueren. Vor dem Nornensbrunnen,
-dessen wunderbare Schönheiten uns zu kurzem.
+warten, um den Platz zu überqueren. Vor dem Nornenbrunnen,
+dessen wunderbare Schönheiten uns zu kurzem
 Halt veranlaßten, dröhnte abermals hinter uns der schwere,
 gleichmäßige Schritt.
 
@@ -1679,7 +1681,7 @@ Es überlief uns kalt … —
 
 Vielleicht lächelt der Leser ironisch.
 
-Eis war so. Der Mann kam auf uns zu, und wir
+Es war so. Der Mann kam auf uns zu, und wir
 standen hier ganz allein. Hier stolperte er nicht, hier marschierte
 er mit kraftvoller, steifer Zielbewußtheit. In seiner
 Haltung lag etwas Drohendes, Herausforderndes … Ich betone
@@ -1705,7 +1707,7 @@ als er die Hand herauszog, das Schnappen der Pistolensicherung.
 
 Im selben Augenblick stand der Mann still, das rechte
 Bein vorgesetzt … Ein Schwanken seines Körpers, ein hartes
-Aufschlagen der StoFEzwinge, — — er wandte sich um —
+Aufschlagen der Stockzwinge, — — er wandte sich um —
 — schwerfällig, auf dem linken Fuß unbeholfen sich drehend,
 und — — schritt davon — in die noch dunkleren Anlagen
 hinein …
@@ -1713,12 +1715,12 @@ hinein …
 »Ihm nach …!« — und Harst zog mich vorwärts …
 
 Das unerklärliche Grauen verstärkte sich — ich sträubte
-mich, ich hielt Harald am Formel fest …
+mich, ich hielt Harald am Ärmel fest …
 
 »Warten wir,« stieß ich hervor. »Vielleicht ist es unklug,
-den Menschen zu steilen …«
+den Menschen zu stellen …«
 
-Es war auch bereits zu spät. Stoß des geringen Vorsprünge
+Es war auch bereits zu spät. Trotz des geringen Vorsprungs
 hatte der Mann mit zwei eigentümlich taumelnden
 Sprüngen ein am Straßenrande haltendes offenes Auto
 erreicht, fiel halb hinein, — der Chauffeur jagte davon …
@@ -1729,36 +1731,36 @@ also … Wir sehen ihn wieder!«
 
 »Was wolltest du sagen?« Ich blickte ihn forschend an.
 Sein Lächeln war ganz anders als sonst. »Um was handelt
-es sich)? Sprich!«
+es sich? Sprich!«
 
 Er starrte noch immer dem Auto nach. Es war längst
 verschwunden.
 
-Grünlich erschien neben uns ein junger, gut gekleideter
+Plötzlich erschien neben uns ein junger, gut gekleideter
 Herr mit einem frischen, offenen Gesicht und strahlenden
 Augen …
 
 »Grüß Gott, die Herren …!« Beide Hände streckte er
 uns hin … Ganz gerührt war er, der brave Xaver Dürnhuber,
-unser Freund von Tote her, jetzt wohlbestallter
+unser Freund von Tölz her, jetzt wohlbestallter
 <@pagebreak/>
 Anwärter bei der Münchener Kriminalpolizei. »Nein, die
 Freud’!! Die Freud’, als ich in der Fremdenliste vom
 Schwarzen Adler Ihre Namen las! So an’ Wiedersehen …
-Das Herz rumpelt mir wie ’n Viertaktmotor … — Die
-Freud’tt«
+Das Herz pumpert mir wie ’n Viertaktmotor … — Die
+Freud’!!«
 
 Harald klopfte unserem Xaver auf die Schulter. »Freinderl,
 wie kommen’s jetzt grad hierher an ’n Nornenbrunnen, he?!
 Mir scheint, Freinderl, Sie haben’s so a bisserl Kriminaler
-g’spielt, Sie waren’s hinter uns, nicht wahr?«
+g’spielt, Sie waren’s hinter uns, nit wahr?«
 
 Dürnhuber schmunzelte. »Mag schon stimmen … Freien
-Nachmittag hab’ ich Zeit … Und kam grad zum Schwarzen
-Adler, als die Herren mit denn Kofferl wegfahren täten …
+Nachmittag hab’ i heit … Und kam grad zum Schwarzen
+Adler, als die Herren mit dena Kofferl wegfahren täten …
 Und fuhr hinterdrein … Im Falkenturmgasserl stiegen Zwei
 aus, die mit ’n Mal Bärte hatten und Perücken … Ich
-bin Dosis ne! dumm … — ich hab’ aufgepaßt, gewartet …«
+bin doch net dumm … — i hab’ aufgepaßt, gewartet …«
 
 »Famos, Xaver! Was beobachteten Sie?«
 
@@ -1769,28 +1771,28 @@ den Breitschultrigen, — a komischer Kauz …!«
 
 »Im Falkenturmgasserl stand er halt in a ’n Haustor,
 und dann stelzte er hinterdrein, der … der steifbeinige Alte,
-der … am’ Jammer ist’s, daß er so eilig hat zu verduften
-… Der wollt’ was von Ihnen, Gekämmt … ck«
+der … an’ Jammer ist’s, daß er so eilig hat zu verduften
+… Der wollt’ was von Ihnen, bestimmt …!«
 
 »Sahen Sie noch jemand anders hinter uns?«
 
-Sattel: 5 As
+»Nein …«
 
 Harald schien erstaunt. »Wirklich keinen zweiten, der
 uns verfolgte?«
 
-»Nein, nein …? Auf meine Augen ist Verlaß, Herr
-Harst »u«
+»Nein, nein …! Auf meine Augen ist Verlaß, Herr
+Harst …«
 
 Harald schüttelte den Kopf. »In diesem Falle nicht …
-Eis muß ein zweiter da gewesen sein — muß …«
+Es muß ein zweiter da gewesen sein — muß …«
 
-»Weshalb?!« fragte im meinerseits.
+»Weshalb?!« fragte ich meinerseits.
 
 »Dazu gehören eben zwei,« war Haralds rätselhafte
 Antwort.
 
-Wozu?«
+Wozu?!«
 
 <@pagebreak/>
 Er machte eine abweisende Handbewegung. »Noch nicht
@@ -1798,9 +1800,9 @@ spruchreif, die Sache, mein Alter, aber verheißungsvoll.
 — Xaver, wie war’s mit einem Auto? Bemerkten Sie
 vielleicht das offene Auto schon in der Falkenturmgasse?«
 
-»Im … — — ja, allerdings … Das stimmt …«
+»Hm … — — ja, allerdings … Das stimmt …«
 
-»Aha, da haben wir’s!« Harst lachte leise. »Eine seine
+»Aha, da haben wir’s!« Harst lachte leise. »Eine feine
 Teufelei, man soll’s nicht glauben …! — Xaver, wir haben
 noch eine halbe Stunde Zeit … Da ist eine Bank … Setzen
 wir uns. Sie können uns helfen.« —
@@ -1809,15 +1811,15 @@ Xaver Dürnhubers Entwicklungsgang kennen meine Leser
 und Freunde von der »Goldenen Schere« her. Zwei Wochen
 hatten wir ihn nicht gesehen. Diese kurze Zeitspanne, hier
 in München verlebt, hatte ihn bedeutend reifer gemacht.
-Er war ein fanatisch begeisterter Kriminalist, der Beruf
+Er war ein fanatisch begeisterter Kriminalist, *der* Beruf
 lag ihm im Blute. Als Kanzlist in Tölz wäre er versauert.
-»Ein Zufall führte ihn damals mit Menk zusammen, und
+Ein Zufall führte ihn damals mit Menk zusammen, und
 Menks tragisches Geschick war bekanntlich »Die schwimmende
-Grotte« gewesen, ein Wrack, von Mühsam Karstens Genie
+Grotte« gewesen, ein Wrack, von William Karstens Genie
 mit neuartigen Fernlenkvorrichtungen versehen, was ich hier
 hervorheben möchte.
 
-Nun erfuhr Xaver Dürnhuber, was wir heller in München
+Nun erfuhr Xaver Dürnhuber, was wir hier in München
 aufklären wollten. Er spitzte die Ohren, seine jungen Augen
 leuchteten noch frischer …
 
