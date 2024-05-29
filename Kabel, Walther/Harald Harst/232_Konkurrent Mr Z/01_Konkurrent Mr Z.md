@@ -5,7 +5,7 @@
 <h2>1. Kapitel.</h2>
 <h3>Unsere Insel.</h3>
 
-Die drei Herren auf dem Titelbild, die den Buchstaben
+Die drei Herren auf dem Titelbild, die den Buchstaben Z
 markieren, sind: Oben ich, Mitte unser Konkurrent, unten
 Harald. —
 
@@ -54,7 +54,7 @@ Kurs entfernt — dorthin, wo ich als dunklen Fleck die
 benachbarte große Insel erkennen konnte.
 
 Ich lag also im Liegestuhl, und Anita kaute neben mir
-wieder und klatschte mit ihrem eifrigen Schlange gegen ihre
+wieder und klatschte mit ihrem eifrigen Schwanz gegen ihre
 Lenden, die Hühner gackerten … und so weiter (siehe oben),
 und vier Meter hinter mir hörte ich Harald in der Küche
 unseres Wohnhauses das Geschirr vom Mittag säubern und
@@ -186,7 +186,7 @@ Himmel, — wo steckte der Kerl, der doch nur nachts gekommen
 sein konnte?!
 
 Eine halbe Stunde suchten wir. Haus, Ställe, — alles
-würde sorgfältig durchgestöbert, alles …
+wurde sorgfältig durchgestöbert, alles …
 
 <@pagebreak/>
 »Anita hat ihn verschluckt!« sagte Harst ärgerlich.
@@ -431,7 +431,7 @@ zehn Schafe vorhanden?! Sehr schlau … Er hat uns die
 ganze Zeit ungestört beobachtet … Er ist kein zu verachtender
 Gegner …«
 
-Er packte zu und hob das Fell am Schwarze empor …
+Er packte zu und hob das Fell am Schwanze empor …
 Der Kopf schlackerte hin und her. Es war ein noch frisches
 und ungegerbtes Fell, und es roch keineswegs gut.
 
@@ -512,7 +512,7 @@ Aufseufzend sank sie in Karstens Arbeitszimmer in die
 Sofaecke.
 
 »Gott sei Dank!« sagte sie leise und faltete die Hände
-im Soße. »Endliche bin ich wieder unter Menschen!!«
+im Schoße. »Endlich bin ich wieder unter Menschen!!«
 
 Sie sprach’s mit ungeheurer Bitterkeit.
 
@@ -548,8 +548,8 @@ Schraut, reiche unserem Schützling ein Glas Rotwein …«
 
 Sie trank … sie trank wie eine Verschmachtete. Dann
 kam die Nervenkrise. Sie begann zu weinen. Und mitten aus
-den rinnenden Tränen heraus schrie sie dann in der
-Zweifelten Selbstanklage:
+den rinnenden Tränen heraus schrie sie dann in verzweifelter
+Selbstanklage:
 
 »Ich … habe … einen … Geliebten gehabt! Er wird
 Gulbranson getötet haben — er muß es gewesen sein, und
@@ -573,7 +573,7 @@ alles — ohne jede Entstellung. — Was geschah in Tölz?«
 … Das einzig richtige Rezept.
 
 Sie nahm sich wirklich zusammen, trocknete die Augen
-und bat um von ein Glas Rotwein.
+und bat um noch ein Glas Rotwein.
 
 »Meine Nerven sind völlig erschöpft …« flüsterte
 sie. »Der schlimmste der drei Brüder, der jüngste, war
@@ -673,7 +673,7 @@ die Wahrheit an. Drei Tage verstrichen wieder. Dann wurde
 <@pagebreak/>
 ich durch einen Richter verhört, der mir zum Schluß erklärte,
 ich dürfe Tölz ohne seine Erlaubnis nicht verlassen, von
-eine Verhaftung wolle er vorläufig Abstand nehmen. In
+einer Verhaftung wolle er vorläufig Abstand nehmen. In
 der Nacht floh ich. Und nun — bin ich hier bei Ihnen,
 Herr Harst, flehe Sie an: Helfen Sie mir!«
 
@@ -811,7 +811,7 @@ sage, daß Karsten in der Nacht vom 14. zum 15. August
 hier gewesen sein muß, wenn ich daran erinnere, daß das
 einsame leere Landhaus in der Rigalstraße hier Tannen
 als Hintergrund hat, dann werden Sie, meine Herren,
-Begreifen, daß ich vermute, Karsten sei damals Zeuge des
+begreifen, daß ich vermute, Karsten sei damals Zeuge des
 Mordes gewesen, da er sich in dem leeren Gebäude verborgen
 gehalten haben muß. — Sind Ihnen die Zusammenhänge
 klar?«
@@ -1081,7 +1081,7 @@ der Reise von Neuyork nach Europa und zwar etwa auf
 der Höhe von Helgoland — um halb eins mittags. Wir
 standen zu fünfen mit Ferngläsern auf dem Promenadendeck
 und blickten nach der roten Insel hinüber. Meine damaligen
-Reisegefährten waren der deutete Legationsrat Trebius, der
+Reisegefährten waren der deutsche Legationsrat Trebius, der
 deutsche Arzt Doktor Ludwig Siegfried, dessen Gattin und
 zwei englische Kaufleute. Mit Herrn Trebius hatte ich mich
 so etwas angefreundet. Er wohnt in Berlin, Augsburger

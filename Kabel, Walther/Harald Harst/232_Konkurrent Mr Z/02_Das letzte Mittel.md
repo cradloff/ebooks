@@ -322,7 +322,7 @@ internationalen Verbrechertums, freilich nur derjenigen, die
 gerade nicht steckbrieflich verfolgt wurden.
 
 Heinrich leistete der Polizei nie Spitzeldienste. Aber er
-beschütze auch seine Gäste nicht. Er war vollkommen neutral.
+beschützte auch seine Gäste nicht. Er war vollkommen neutral.
 
 Wir beide kannten ihn seit langem. Wir waren mit ihm
 eng befreundet. Harald hatte ihn einmal vor ein paar
@@ -434,7 +434,7 @@ echtes Zille-Bürschchen, schrie uns nach: »Det sind zwee von
 Diese Kritik war zutreffend und gefiel uns. Wir wollten
 um keinen Preis erkannt werden. Wir hatten in Freund
 <@pagebreak/>
-Becherts Wohnung, mit einer Sorgfalt Toilette gemacht,
+Becherts Wohnung mit einer Sorgfalt Toilette gemacht,
 als ob ein hochzeitlich Paar sich schmückt. Daß Heinrich der
 Grüne mich trotzdem als Schraut sehr bald gewittert hatte,
 war nicht meine Schuld. Meine Nase ist für gute Freunde
@@ -479,7 +479,7 @@ befestigt war:
 Schäfer Ast-Methode, Höhensonne, Diathermie,
 Röntgeninstitut.</p>
 
-<p class="centered">Sprechzeit 11-2, 5-9, Sonntags 9—1.</p>
+<p class="centered">Sprechzeit 11—2, 5—9, Sonntags 9—1.</p>
 
 <@pagebreak/>
 Das war wirklich allerhand … In dieser Umgebung,
@@ -632,7 +632,7 @@ behielt ihre Hand in der seinen und fuhr fort:
 Harst … Ich werde nichts verschweigen, Sie auch nicht.
 — Woher wissen Sie, daß das Weib mich Gorilla nannte?«
 
-»Weiches Weib, Herr Doktor?« lautete Haralds Gegenfrage.
+»Welches Weib, Herr Doktor?« lautete Haralds Gegenfrage.
 
 <@pagebreak/>
 »Gut, dann will ich beginnen — ganz kurz … Es mag
@@ -779,7 +779,7 @@ daneben und fabrizierte gerade Brennmaterial.
 »So ’ne Schweinerei,« brummte Mathilde, der es im
 übrigen auf unserer Insel großartig gefiel.
 
-Mein Kenntnisse im Kühemelken sind nun auch mehr
+Meine Kenntnisse im Kühemelken sind nun auch mehr
 theoretischer Art. Immerhin versuchte ich es, rückte den Melkschemel
 zurecht, klemmte den Eimer zwischen die Knie und
 begann …
@@ -827,7 +827,7 @@ Asta und die zahllosen Möven …
 
 Die See brandete um die kleine, befestigte Insel, — —
 und dort fern im Süden irgendwo lag der Riesenmoloch
-Berlin, dem wir nun Lebewohl gesagt, nachholen wir beide
+Berlin, dem wir nun Lebewohl gesagt, nachdem wir beide
 fast drei volle Tage in aller Heimlichkeit den kessen Gustav
 und den blonden Fred gesucht und nicht gefunden, wobei uns
 <@pagebreak/>
@@ -866,7 +866,7 @@ gegen das harte Naturgesetz, gegen Vergehen, Welken, Winterschlaf
 
 Frisch und kraftvoll blies der Wind über Schluderrook …
 Möven kreischten, Schafe blökten, Mathilde suchte drüben
-im Schlag in Wasserstiefeln nach Krabben und Hummern
+im Schlick in Wasserstiefeln nach Krabben und Hummern
 und sah von weitem wie ein dicker Mehlsack auf zwei
 schwarzen Säulen aus … Harald pfiff einen Marsch und
 <@pagebreak/>
@@ -1065,7 +1065,7 @@ unseres Inselreichs immer toller brüllen ließ, während ich
 <@pagebreak/>
 vor Müdigkeit immer wieder einnickte und mich dennoch
 munter zu halten suchte, weil irgendeine dumpfe Vorahnung
-meine Nerven aufpeitschte, trug der Sturm mir plötzlich,
+meine Nerven aufpeitschte, trug der Sturm mir plötzlich
 das wütende Kläffen der großen Hunde in abgerissenen
 Lauten zu … Das Bellen der Tiere drang so gereizt, daß
 ich mich schließlich erhob und zu Harald hinüberging und
