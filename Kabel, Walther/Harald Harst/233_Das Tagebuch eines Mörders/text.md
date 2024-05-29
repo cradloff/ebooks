@@ -1842,20 +1842,20 @@ hat uns verraten.«
 <h3>Parker.</h3>
 
 Händedrücke, — Abschied von Xaver … Von elf Uhr
-ad wollte er vor Bayerstraße 16 auf Posten sein.
+ab wollte er vor Bayerstraße 16 auf Posten sein.
 
 Wir überschritten den Karlsplatz, kamen in die außerordentlich
 belebte Bayerstraße — vorüber am Eingang zum
-Wohltäter-Bräu. Harald war reichlich nervös, schaute sich
+Matthäser-Bräu. Harald war reichlich nervös, schaute sich
 Immer wieder um, musterte alle Leute, witterte scheinbar
 überall Gefahr, ließ mich fragen, gab keine Antwort. Ich
 begriff ihn nicht.
 
-Der Eingang zum Wohltäter-Bräu ist ein schmaler Gang
+Der Eingang zum Matthäser-Bräu ist ein schmaler Gang
 zwischen hohen Hauswänden, der sich dann zu einem mittelgroßen
 Garten erweitert. Der Sommerbetrieb war vorüber.
 Keine Musik mehr, keine vollbesetzten Tische … Nur
-Roch in den Sälen das echt Münchener Gaudi mit viel Bier,
+noch in den Sälen das echt Münchener Gaudi mit viel Bier,
 Mit Weißwürscht, Kalbshaxen und lustigen Madels …
 
 Halbdunkel der Eingang …
@@ -1867,7 +1867,7 @@ Helle Saalfeonster …
 Ein Stoß Haralds …
 
 Ich taumelte vorwärts … fiel halb auf einen dicken
-Herrn, der meine Entschuldigung schmunzelnd hinnahm. Ex
+Herrn, der meine Entschuldigung schmunzelnd hinnahm. Er
 Hielt mich für betrunken …
 
 Ich drehte mich um. Harst war verschwunden … Ich
@@ -1889,27 +1889,27 @@ Ich sprang zu …
 
 Er hob den Kopf … »Es … es … ist nun das dritte
 Mal, daß mein goldenes Zigarettenetui mir das Leben rettet,
-rein Alter … Der Dolchstoß des Weibes hätte mich unfehlbar
+mein Alter … Der Dolchstoß des Weibes hätte mich unfehlbar
 ins Jenseits befördert … Der Stoß genügte immer noch,
 mir die Verfolgung unmöglich zu machen … Das Weib
-froh … im offenen Auto …« Er versuchte, sich aufzurichten.
+floh … im offenen Auto …« Er versuchte, sich aufzurichten.
 Ich stützte ihn … Ich war völlig benommen. Er
 lächelte etwas verzerrt … »Es ist ein gefährliches Spiel,
-nein lieber Alter … Jetzt haben wir den Beweis …« Er
+mein lieber Alter … Jetzt haben wir den Beweis …« Er
 zeigte auf ein Loch in seinem Ulster, knöpfte ihn dann
 auf und holte aus der oberen linken Westentasche sein
 Zigarettenetui hervor … »Da ist die Schramme — — verbeult,
 — — das dritte Ehrenmal! Nun, ich lebe … Und
 fortan werden wir noch vorsichtiger sein … Diesmal glückte
 es vorbei … Wir werden mit Mr. Parker abrechnen. Seine
-Teufelei soll ihm nichts Füßen …«
+Teufelei soll ihm nichts nützen …«
 
 Ich faßte ihn unter. Wir betraten die Straße.
 
-»Tatort, wer war die Frau?« fragte ich, noch immer
-derart bestürzt, daß ich meine. Gedanken erst sammeln mußte.
+»Harald, wer war die Frau?« fragte ich, noch immer
+derart bestürzt, daß ich meine Gedanken erst sammeln mußte.
 
-»Eis war … der Mann, mein Alter …«
+»Es war … der Mann, mein Alter …«
 
 »Der … Mann?!« Ich glaubte mich verhört zu haben.
 
@@ -1920,17 +1920,17 @@ Gang …«
 auch undeutlich … Es war ein dickes, gewöhnliches Gesicht
 unter einem scheußlichen Ding von Hut … Und das soll
 <@pagebreak/>
-der Kerl mit der Adlernase gewesen sein?! ausgeschlossen!
-Du hast Ei geirrt. So kann ein Mensch, seine Züge nicht
+der Kerl mit der Adlernase gewesen sein?! Ausgeschlossen!
+Du hast dich geirrt. So kann ein Mensch seine Züge nicht
 verändern.«
 
-»Tod, doch — er kann, er kann noch mehr … Ich gebe
+»Doch, doch — er kann, er kann noch mehr … Ich gebe
 dir die Versicherung, daß dieser Mensch uns noch verschiedentlich
 begegnen wird … — Eilen wir … Wir sind für
 acht Uhr zu Tisch gebeten, und Frau Inge soll nicht
 warten … Es wird ein interessanter Abend werden …« —
 
-Aus einem Sessel im Salon erhob sich ein entsetzlich:
+Aus einem Sessel im Salon erhob sich ein entsetzlich
 magerer Herr, ein abschreckendes Totengesicht …
 
 Wir waren um zehn Minuten zu spät gekommen. Die
@@ -1943,7 +1943,7 @@ umkreisen.
 »Herr Parker …« stellte die Frau Ministerialrat widerwillig
 vor …
 
-Sie hatte’ recht: dieser ehemalige Schiffsoffizier machte
+Sie hatte recht: dieser ehemalige Schiffsoffizier machte
 einen unheimlichen Eindruck. Seine flackernden Augen, seine
 nervös zuckenden Züge, seine unnatürliche steife Gemessenheit,
 — er wirkte wie ein Todeskandidat, wie ein halb
@@ -1967,40 +1967,40 @@ Harst sagte leise: »Sie haben uns verraten …! Parker
 weiß, wer wir sind. weshalb taten Sie dies?«
 
 <@pagebreak/>
-Es war ein Angriff, der so plötzlich kam, daß er Entriß
+Es war ein Angriff, der so plötzlich kam, daß er Erfolge
 Haben mußte. — Der Erfolg blieb aus, oder besser: Frau
-Inge gab sich nicht geschlagen, starrte Harst wie ungläubig am
-und meinte: »Ich — — Sie verraten?! I4?! Verlangst,
+Inge gab sich nicht geschlagen, starrte Harst wie ungläubig an
+und meinte: »Ich — — Sie verraten?! Ich?! Verlangst,
 Sie jede Art von …«
 
-»Also dort nicht!« fiel Harald ihr ins Wort. »Verzeihen
+»Also doch nicht!« fiel Harald ihr ins Wort. »Verzeihen
 Sie … Die Tatsachen sprachen gegen Sie. — Bitte …
 lächeln Sie … Geben Sie sich zwangloser …« Und lauter:
-»Sie haben ganz recht, gnädige Frau, — wir sollten die:
+»Sie haben ganz recht, gnädige Frau, — wir sollten die
 Maske fallen lassen … Herr Parker wird damit einverstanden
-sein …« Er blickte ihn scharf an … Parker sank
-auf. Harst tat drei Schritte auf ihn zu … »Herr Parker …
+sein …« Er blickte ihn scharf an … Parker schaute
+auf. Harst tat drei Schritte auf ihn zu … »Herr Parker …"
 
 Es war wie das ferne Grollen eines Unwetters.
 
 »Herr Parker, es hätte keinen Zweck, hier dieses Versteckspiel
 fortzusetzen … Sie kennen unsere wahren Namen …«
 
-Parker Spleen Sessel nickte kühl. Seine brennender
+Parker in seinem Sessel nickte kühl. Seine brennenden
 Augen fraßen sich fest in Haralds angespannte Züge.
 
-»Sie sind in Harst, — dort Ihr Freund Schraut …«
+»Sie sind Herr Harst, — dort Ihr Freund Schraut …«
 Seine Stimme war heiser, brüchig … »Sie kamen hierher,
 nachdem Sie mit London sich verständigt hatten … Ich
 besitze einen Kurzwellenempfänger von höchster Empfindlichkeit
-… Was soll ich Einsamer an meinen einsamen Abenden.
-anderes tun als den Vetter ablauschen?!«
+… Was soll ich Einsamer an meinen einsamen Abenden
+anderes tun als den Aether ablauschen?!«
 
 »Also so erfuhren Sie’s?«
 
-»Ja …
+»Ja …"
 
-»Und Sie trafen bange Ihre Maßnahmen …«
+»Und Sie trafen danach Ihre Maßnahmen …«
 
 »Nein … Ich bin kein Mörder. Ich hatte keinen Grün
 meine Frau zu töten. Der, der es tat, war heute vormittag
