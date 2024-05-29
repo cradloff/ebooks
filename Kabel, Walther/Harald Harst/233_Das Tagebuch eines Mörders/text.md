@@ -1967,10 +1967,10 @@ Harst sagte leise: »Sie haben uns verraten …! Parker
 weiß, wer wir sind. weshalb taten Sie dies?«
 
 <@pagebreak/>
-Es war ein Angriff, der so plötzlich kam, daß er Erfolge
+Es war ein Angriff, der so plötzlich kam, daß er Erfolg
 Haben mußte. — Der Erfolg blieb aus, oder besser: Frau
 Inge gab sich nicht geschlagen, starrte Harst wie ungläubig an
-und meinte: »Ich — — Sie verraten?! Ich?! Verlangst,
+und meinte: »Ich — — Sie verraten?! Ich?! Verlangen
 Sie jede Art von …«
 
 »Also doch nicht!« fiel Harald ihr ins Wort. »Verzeihen
@@ -2002,30 +2002,30 @@ anderes tun als den Aether ablauschen?!«
 
 »Und Sie trafen danach Ihre Maßnahmen …«
 
-»Nein … Ich bin kein Mörder. Ich hatte keinen Grün
+»Nein … Ich bin kein Mörder. Ich hatte keinen Grund
 meine Frau zu töten. Der, der es tat, war heute vormittag
 bei mir,«
 
-Die Stille, die hierauf folgte, wurde nur durch Frack
-Inges keuchende Atemzüge unterbrochen. Sie ahnte wohl.
+Die Stille, die hierauf folgte, wurde nur durch Frau
+Inges keuchende Atemzüge unterbrochen. Sie ahnte wohl,
 was folgen würde.
 
 Parker sprach mit leiser Bitterkeit weiter … »Haben
 Sie nie die Möglichkeit berücksichtigt, Herr Harst, daß Oskar
-Straub Kochs am Leben sein könnte?«
+Straub noch am Leben sein könnte?«
 
 <@pagebreak/>
 Ein mühsam unterdrückter Aufschrei … Inge Alsen
-tastete sich bis zur Seiner …
+tastete sich bis zur Sofaecke …
 
 Parker sagte gedämpft: »Straub lebt … Er war heute
 bei mir … Auch er hat wie ich … aus Liebe diese alte,
 schöne Stadt nach seiner wunderbaren Errettung aufgesucht,
 nur um in der Nähe der Frau unerkannt, unter fremdem
-Namen leben zu können, die für ihn Himmel und Hölle des
-Deutet … — 34 ahnte nichts davon. Er kam, er teilte mir
+Namen leben zu können, die für ihn Himmel und Hölle be-
+Deutet … — Ich ahnte nichts davon. Er kam, er teilte mir
 mit, daß ein Zufall ihm das zugetragen, was auch bei
-mir Zufall gewesen: das Ablauschen der Antwort des Detektivs
+mir Zufall gewesen: das Ablauschen der Antwort des Detektiv-
 Inspektors Brown! Er warnte mich, er bekannte sich vor
 mir als Mörder … Eifersucht habe ihm die Waffe in die
 Hand gezwungen. Bevor er mich verließ, sagte er noch: »Wir
@@ -2033,27 +2033,26 @@ sind Verbündete, Parker … Harst wird Sie, nicht mich,
 zu überführen suchen.« — Ich konnte ihn nicht zurückhalten.
 Er bedrohte mich mit einer Pistole, außerdem war ich
 auch so bestürzt über diese Begegnung, daß ich mich nicht zu
-rühren vermochte. — Versehen Sie sich in meine Lage:
-Meine Haugshöälterin meldet mir einen Herrn Bauer … in
-dringendster persönlicher Ungelegenheit, den »Nelson« betreffend.
+rühren vermochte. — Versetzen Sie sich in meine Lage:
+Meine Haushälterin meldet mir einen Herrn Bauer … in
+dringendster persönlicher Angelegenheit, den »Nelson« betreffend.
 Ein bärtiger Herr tritt ein, kräftig, frisch, — —
 das Gegenstück zu mir! Da besann ich mich, ihn schon häufiger
 im Englischen Garten gesehen zu haben, wenn ich mit
 Frau Alsen spazieren ging. »Ich bin Oskar Straub,« sagt
 er ohne jede Einleitung. »Ich bin der einzige Überlebende
 des brennenden Nelson. Wir hatten in höchster Not ein Floß
-gebaut Ein Orkan setzte meine Gefährten in die See …
+gebaut. Ein Orkan fegte meine Gefährten in die See …
 Ich selbst wurde von einem Hochseekutter an Bord genommen,
 belog meine Retter, löschte meinen Namen aus, kam hier
-nach Münden … — Ich habe Ihre Frau getötet, aber
+nach München … — Ich habe Ihre Frau getötet, aber
 die Dolchstiche galten Inge Alsen, die ich in Ihre Kabine
 huschen sah. Ich … tötete im Dunkeln die Unrechte — —
 Ihre Gattin …« — Stellen Sie sich diese Szene vor, Herr
 Harst, und Sie werden begreifen, daß ich während Straubs
 Anwesenheit auch nicht ein einziges Wort gesprochen habe …
-
 <@pagebreak/>
-Ich habe dann noch, eine Stunde wie stumpfsinnig dagesessen,
+Ich habe dann noch eine Stunde wie stumpfsinnig dagesessen,
 und schließlich gelangte ich zu dem Entschluß, zunächst mit
 Frau Alsen all dies zu besprechen und dann morgen bei der
 Polizei Anzeige zu erstatten. Als Sie beide vorhin hier
@@ -2067,10 +2066,10 @@ Aber dann fuhr Inge Alsen empor …
 »Das … ist Lüge — — Lüge!! Oskar würde niemals
 jahrelang hier in meiner Nächte gelebt haben, ohne mich …«
 
-Parker hatte etwas aus seiner Smobkingtasche gezogen …
+Parker hatte etwas aus seiner Smokingtasche gezogen …
 
 »Bitte … Kennen Sie diesen Ring?! Straub warf ihn
-mir in den Stoß … heute vormittag …: Ihren Ring, Ihr
+mir in den Schoß … heute vormittag …: Ihren Ring, Ihr
 Geschenk, Frau Inge! Und er flüsterte — — ob Sie’s
 glauben oder nicht: »Da — meine Liebe ist längst tot! Das
 Weib, das mich zum Mörder werden ließ, mordet jetzt
@@ -2078,7 +2077,7 @@ auch uns beide, Parker! Harst wird uns keine Ruhe gönnen!«
 
 Inge Alsen nahm den Ring — einen kleinen Marquisring,
 an dem noch eine lange zerrissene geflochtene blonde
-Gartens hing, mit zitternder Hand entgegen. Ihre Augen
+Haarkette hing, mit zitternder Hand entgegen. Ihre Augen
 waren von Tränen verschleiert.
 
 »Mein Ring,« sagte sie schmerzerfüllt. »Mein … Ring.
@@ -2087,8 +2086,9 @@ Und Oskar Straub am Leben … als Mörder …« —
 Was dann kam: Ein jäher Ohnmachtsanfall, — eine
 verzweifelte Mutter überhäufte Harst mit Vorwürfen, eine
 schwer enttäuschte Frau erwachte, wies uns hinaus …
-es »Sie haben das Beste in mir zertrümmert … Gehen
-As senden;280
+
+»Sie haben das Beste in mir zertrümmert … Gehen
+Sie ..."
 
 Eine verstörte Zofe geleitete uns hinab, öffnete uns
 dreien die Haustür …
@@ -2099,26 +2099,26 @@ Es war neun Uhr abends.
 Sie noch …«
 
 »Im Schwarzer Adler, Schillerstraße … — Gut, kommen
--Sie mit, Parker …«
+Sie mit, Parker …«
 
 <@pagebreak/>
 In uns war noch der lähmende Nachhall des soeben
 Erlebten.
 
-»gaben Sie von Straub erfahren, wo er wohnt?« begann
+»Haben Sie von Straub erfahren, wo er wohnt?« begann
 Harald nach einer Weile.
 
-Hinein 5.45«
+"Nein ..."
 
 »War er verkleidet?«
 
 »Ich glaube … Der Vollbart kam mir recht glanzlos
-Male05
+vor ..."
 
-»Sprache Straub noch etwas, — vielleicht, daß er Sie
+»Sprach Straub noch etwas, — vielleicht, daß er Sie
 nochmals aufsuchen würde?«
 
-»Nichts …
+»Nichts …"
 
 »Was gedenken Sie zu tun?«
 
@@ -2126,32 +2126,30 @@ nochmals aufsuchen würde?«
 
 »Hatten Sie das Gefühl, daß Straub Selbstmord beabsichtigte?«
 
-»Kein, mehr das Empfinden, daß er sich seiner Haut
+»Nein, mehr das Empfinden, daß er sich seiner Haut
 mit aller Rücksichtslosigkeit wehren würde … Seine Worte
 genau zu wiederholen, ist mir leider nicht möglich, aber
-ein paar Heringen klangen wie eine versteckte, unklare
+ein paar Bemerkungen klangen wie eine versteckte, unklare
 Drohung gegen Sie, Herr Harst.«
 
-»Das dürfte Sie …« Harald war in der Schillerstraße
-vor dem Schaufenster der Feurig-Werke stehen geblieben.
+»Das dürfte zutreffen …« Harald war in der Schillerstraße
+vor dem Schaufenster der Isaria-Werke stehen geblieben.
 »Straub hat heute bereits ein Attentat versucht, Herr Parker.
 Hier, sehen Sie dieses Loch im Ulster, sehen Sie diese
 Schramme auf meinem Zigarettenetui … — ein Dolchstoß …!«
 
 »Der Mann ist wahnsinnig!!«
 
-»Fein, der Mann ist ein Gehetzter, der mich loswerden
+»Nein, der Mann ist ein Gehetzter, der mich loswerden
 will. Ich bitte Sie, warten Sie noch mit Ihrer Anzeige bei
+der Polizei. Ich werde Straub finden. Er wird das, was
+heute mißlang, wiederholen, und dann … ist er mein!«
 
-der Polizei. Ich werde Strand finden. Er wird das, was
-Leute 11 ich, wiederholen, und dann … ist er meint«
-1)
-42000 ie Gefahr, Herr Harst? Parker schüttelte müde
-
-den Kopf. »Hierbei echt entgehen Sie ihm … Sie sind nicht ich,
-— ich bin ein innerlich Zerbrocdzener, eine Ruine … Ich
-leugne nicht: Als ich Inge Kissen kennenlernte, war mein
-Tages Weib mir eine Last … Es war mehr als Liebe,
+"Und die Gefahr, Herr Harst?!" Parker schüttelte müde
+den Kopf. »Vielleicht entgehen Sie ihm … Sie sind nicht ich,
+— ich bin ein innerlich Zerbrochener, eine Ruine … Ich
+leugne nicht: Als ich Inge Alsen kennenlernte, war mein
+junges Weib mir eine Last … Es war mehr als Liebe,
 <@pagebreak/>
 es war dieselbe unsinnige Leidenschaft, der auch Straub unterlag.
 Im Grunde bedauere ich ihn. Inge Alsen ist unser
@@ -2164,20 +2162,21 @@ Freund …!!« Er lachte grell, — er schluchzte, und plötzlich
 rannte er davon, als ob er sich vor uns schämte.
 
 Ich war unfähig, irgend etwas zu äußern. Wenn mich
-je ein Mannesschisal erschüttert hatte, wenn ich je meinem
+je ein Mannesschicksal erschüttert hatte, wenn ich je meinem
 Schöpfer gedankt, der mir ein kühles Herz in die Brust gepflanzt:
-Heute empfandic: den Segen starren Junggesellentums!
+Heute empfand ich den Segen starren Junggesellentums!
 Mir hatte noch kein Weib den Verstand verseucht, —
-— ich hatte noch nie einem Weibe Sehnsucht von Erfüllung
+— ich hatte noch nie einem Weibe Sehnsucht noch Erfüllung
 geweckt!
 
-Armer Parker!! Armer Straub!t« Und arme Inge …!
+Armer Parker!! Armer Straub!! Und arme Inge …!
 
 Neben mir da die klare, halblaute Stimme des Freundes,
 des besseren Menschenkenners:
 
-»Bin neugierig, was ’nun kommt … Gehen wir, mein
+»Bin neugierig, was nun kommt … Gehen wir, mein
 Alter … Bis zur Maximilianstraße, schätze ich, sind wir
+sicher ..."
 
 Es klang gefühllos. So schien’s …
 
@@ -2187,13 +2186,15 @@ Der Nachsatz klang anders:
 wie die Tragödie an Bord des »Nelson« zu erklären ist.«
 
 <@pagebreak/>
-4\. Papier.
-Der Bernhardiner.
 
-Nr immer standen wir vor dem großen Schaufenster,
+<h2>4. Kapitel.</h2>
+
+<h3>Der Bernhardiner.</h3>
+
+Noch immer standen wir vor dem großen Schaufenster,
 In dem in regelmäßigen Abständen farbige Transparente
 aufflammten und die ausgestellten Empfänger, Röhren und
-andere Radiovartikel in froher Beleuchtung zeigten.
+andere Radioartikel in froher Beleuchtung zeigten.
 
 »Und — wo steckt Straub?« fragte ich mit jener nervösen
 Hast, die in diesem Falle erklärlich, entschuldbar.
@@ -2206,25 +2207,25 @@ Echt Harst!! Das sollte nun eine Antwort sein!!
 »Also in dem Auto, in das der Mann mit dem steifen
 Schritt halb hineinfiel?«
 
-Ich 55:0
+"Ja ..."
 
 »Und woher weißt du plötzlich …« — aber er ließ mich
-nicht ausreden. »Komm’ nur, kehren wir heim zum Faikentfurm.
+nicht ausreden. »Komm’ nur, kehren wir heim zum Falkenturm.
 Ich bin wirklich gespannt, was werden wird … Diesmal
 werden wir uns nicht mehr so grob hineinlegen lassen,
-diesmal schieße im auf den Kerl oder das Weib oder was
-7onst uns in den Weg tritt. Alles ist verdächtig, alles …!«
+diesmal schieße ich auf den Kerl oder das Weib oder was
+sonst uns in den Weg tritt. *Alles* ist verdächtig, alles …!«
 
-Er betonte dies »alles« so auffällig, daß ihm ihn uralt«-
-Höflich am Ärmel festhielt. »Straub arbeitet mit besonderen
+Er betonte dies »alles« so auffällig, daß ich ihn unwillkürlich
+am Ärmel festhielt. »Straub arbeitet mit besonderen
 Mitteln gegen uns?« fragte ich eindringlich. Es war mehr
 Behauptung als Frage.
 
 <@pagebreak/>
 Da blinkte gerade wieder im Schaufenster die Beleuchtung
-auf. Ich sah sein Gesicht — wie erhellt durch das kurze List —
-eines Blitzes. In seinen Zügen war ein ganz eigentümlicheAusdrud,
-»Es stimmt schon — mit besonderen Mitteln, mein
+auf. Ich sah sein Gesicht — wie erhellt durch das kurze Licht
+eines Blitzes. In seinen Zügen war ein ganz eigentümlicher
+Ausdruck. »Es stimmt schon — mit besonderen Mitteln, mein
 Alter … Er ist selbst den Londoner Feinmechanikern weit
 voraus. Was sie schufen, ist gegen sein Werk altmodische,
 plumpe Spielerei.«
@@ -2237,14 +2238,14 @@ Verhaltungsmaßregeln geben … Wir werden, sobald wir das
 Karlstor passiert haben, uns trennen … Ich halte mich
 auf dem Fahrdamm dicht am Rande des Bürgersteiges, du
 gehst fünf Schritt voraus. Geschieht etwas, rufe ich dir
-das Nötige zu … Dann paßt du die betreffende Person
+das Nötige zu … Dann packst du die betreffende Person
 oder schwingst dich in das Auto hinein und zwingst den
 Chauffeur zum Halten.«
 
 Wir kamen am Schwarzen Adler vorüber. Vor dem
 Eingang stand der Liftführer, ein Kriegsbeschädigter mit halb
 gelähmtem linken Arm, ein netter, bescheidener Mann. Harald
-Pirat auf ihn zu. »Grüßen Sie Frau Harst,/« sagte er hastig.
+trat auf ihn zu. »Grüßen Sie Frau Harst,« sagte er hastig.
 »Bestellen Sie ihr, es sei alles in Ordnung … Frau Harst,
 Zimmer 16 … Hier haben Sie zwei Mark …«
 
@@ -2273,7 +2274,7 @@ stiller, menschenleerer … Drüben das Nationaltheater, es
 war erleuchtet: Es gab heute Walküre. Wie gern hätte
 ich einmal wieder eine erstklassige Wagneraufführung gesehen!
 — Nun die dicken Säulen des mächtigen Bauwerks,
-in dem zu das Oase Maximilian sich befindet … Schatten streifen
+in dem auch das Cafe Maximilian sich befindet … Schattenstreifen
 unter dem breiten Vorbau …
 
 Und dann — — trottete links von mir auf dem Fahrdamm
@@ -2289,7 +2290,7 @@ den Wagen, raste weiter … Ein Spiel von Sekunden …
 nur Sekunden … Mein Herz hämmerte … Ich stand vor
 Harst. »Was war Das?!«
 
-Bitte …!« Er hob den linken Arm, 303 aus der
+Bitte …!« Er hob den linken Arm, zog aus der
 Schulterwattierung eine lange, stecknadeldünne Metallspitze
 heraus …
 
@@ -2301,7 +2302,7 @@ Form. Straub ist ein Genie.«
 
 Wortlos schaute ich auf die Nadel.
 
-»ob — sie bin; ab … Sie hätte zwei Zentimeter
+»Oh — sie brach ab … Sie hätte zwei Zentimeter
 tiefer treffen müssen, und es wäre aus gewesen. Zum
 <@pagebreak/>
 Glück kam mir der Riesenköter gleich verdächtig vor …
@@ -2309,7 +2310,7 @@ Zumal das Auto langsam fuhr … — Gehen wir …« —
 
 Dann saßen wir in unserem Wohnzimmer Falkenturmgasse
 bei eng geschlossenen Vorhängen. Die Nadel war an
-der Spitze mit seinen Rillen versehen, in denen eine klebrige
+der Spitze mit feinen Rillen versehen, in denen eine klebrige
 Masse sich befand: Gift!
 
 Doch das alles ist ja im Grunde so nebensächlich. Auch
@@ -2328,30 +2329,30 @@ Leidenschaft im Herzen … —
 
 Ich schlief ein …
 
-Kaisers neun Uhr erschien Xaver Dürnhuber als
+Morgens neun Uhr erschien Xaver Dürnhuber als
 Depeschenbote verkleidet, beklagte sich bitter, daß er gestern
 bis ein Uhr morgens ganz umsonst vor Bayerstraße 16
 Posten gestanden …
 
-»Kommen Sie heute nachmittag um 7 vor die Felds
-Feldherrnhalle, lieber Xaver … Diese Geschichte muß ein Ende
+»Kommen Sie heute nachmittag um 1/47 vor die Feldherrnhalle,
+lieber Xaver … Diese Geschichte muß ein Ende
 haben …« sagte Harst. »Schraut und ich rühren uns bis
 dahin nicht aus dem Bau … Gehen Sie jetzt zu meiner
 Mutter … Sie soll sich nicht ängstigen … Noch heute
 Ist der Fall »Nelson« erledigt. Bringen Sie nachmittags
-zwei Kollegen mit … Schraut wird »Ihnen ein Zeichen Neben,
+zwei Kollegen mit … Schraut wird Ihnen ein Zeichen geben,
 wer unauffällig festzunehmen ist … —
 
-Unsere Wirtin »bekochte« uns wieder: Harald war ikün:
-wie ein Fisch. Er las den Roman »Neun, das Bärenkind«
-von Lumpen, und er rauchte zwanzig Mirakulum mindestens
+Unsere Wirtin »bekochte« uns wieder: Harald war stumm
+wie ein Fisch. Er las den Roman »Newa, das Bärenkind«
+von Curwoor, und er rauchte zwanzig Mirakulum mindestens
 auf, während ich am Fenster am kleinen Schreibtisch saß
 <@pagebreak/>
 und das Manuskript von Konkurrent Mr. Z. nochmals
 durchsah und immer wieder in die enge düstere Gasse hinabschaute
 und am liebsten mit der Faust auf die Tischplatte
 geschlagen und gerufen hätte: »Es ist unerhört!! Weshalb
-willst du mir solchen Blech) einreden, daß dem Bernhardiner
+willst du mir solchen Blech einreden, daß dem Bernhardiner
 die Nadel im Maul befestigt war! Das ist doch unmöglich!«
 Aber ich ballte die Hand nur schweigend zur Faust und
 war dann wieder versöhnt, als Harald um sechs neben mich
@@ -2363,7 +2364,7 @@ Alter …«
 
 Ich las … Und plötzlich fuhr ich hoch …
 
-»Harald — — also das ist’s!! Unglaublich!t!«
+»Harald — — also das ist’s!! Unglaublich!!«
 
 »Ja. Duplizität der Ereignisse … Für uns nichts Neues,
 Ich merkte es, als der Mann halb in das Auto hineinfiel …«
