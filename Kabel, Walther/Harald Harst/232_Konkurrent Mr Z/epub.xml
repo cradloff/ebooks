@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">8eebd346-2501-4d63-bd24-ddcf0461e697</entry>
+<entry key="title">Konkurrent Mr Z</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">232</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Konkurrent Mr. Z.
+
+Das Meer ist bewegt. Grünblaue Wogen rollen gegen unsere befestigte kleine Hallig Schluderrook an, die nun Haralds Inselreich ist und auf der wir drei köstliche Faulenzertage bereits verlebt haben. Frischer Wind fächelt mein braunes Gesicht und hilft Anita im Kampf gegen die Fliegen. Mit ihrem Schwanz allein würde sie dieser Plagegeister nicht Herr werden. Fliegen sind auf Schluderrook am zahlreichsten vertreten, dann folgen die Möven, dann die Seehunde, dann die Hühner, Schafe, Kühe und schließlich wir beide.
+
+Er sagte eben: »Sieh mal, liebe Asta, es gibt hier Leute, die ungeheuer gedankenträge sind …!«
+
+Leute?! Meinte er sich?! — Nein! — Also mich.
+
+»… Sie sind so von der Nordseeluft benommen, daß sie Karstens, deines früheren Herrn, Testament vollkommen gleichgültig behandeln, obwohl darin wörtlich steht: »Mag er im Besitz meiner dem Meere abgerungenen Insel neue Anregung finden.« — Liebe Asta, wenn du als Kuh in diesen Worten nichts Besonderes entdeckst, nehme ich dir das nicht übel. Wenn aber Schraut, obwohl er doch vorgestern auf der Fensterscheibe in deines früheren Herrn Arbeitszimmer ebenfalls die mit einem Diamantring eingeritzten seltsamen Zeichen bemerkt hat, so kurzsichtig ist, diese Zeichen nicht mit den Worten des Testaments in Verbindung zu bringen, so kann man das nur als ungeheure Gedankenfaulheit bezeichnen.«
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (232) Konkurrent Mr Z.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1928</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
