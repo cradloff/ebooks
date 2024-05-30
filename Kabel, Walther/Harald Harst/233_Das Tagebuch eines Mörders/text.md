@@ -1862,7 +1862,7 @@ Halbdunkel der Eingang …
 
 Ein Blick — — flüchtig nur …
 
-Helle Saalfeonster …
+Helle Saalfenster …
 
 Ein Stoß Haralds …
 
@@ -1979,7 +1979,7 @@ lächeln Sie … Geben Sie sich zwangloser …« Und lauter:
 »Sie haben ganz recht, gnädige Frau, — wir sollten die
 Maske fallen lassen … Herr Parker wird damit einverstanden
 sein …« Er blickte ihn scharf an … Parker schaute
-auf. Harst tat drei Schritte auf ihn zu … »Herr Parker …"
+auf. Harst tat drei Schritte auf ihn zu … »Herr Parker …«
 
 Es war wie das ferne Grollen eines Unwetters.
 
@@ -1998,7 +1998,7 @@ anderes tun als den Aether ablauschen?!«
 
 »Also so erfuhren Sie’s?«
 
-»Ja …"
+»Ja …«
 
 »Und Sie trafen danach Ihre Maßnahmen …«
 
@@ -2022,11 +2022,11 @@ Parker sagte gedämpft: »Straub lebt … Er war heute
 bei mir … Auch er hat wie ich … aus Liebe diese alte,
 schöne Stadt nach seiner wunderbaren Errettung aufgesucht,
 nur um in der Nähe der Frau unerkannt, unter fremdem
-Namen leben zu können, die für ihn Himmel und Hölle be-
-Deutet … — Ich ahnte nichts davon. Er kam, er teilte mir
+Namen leben zu können, die für ihn Himmel und Hölle bedeutet
+… — Ich ahnte nichts davon. Er kam, er teilte mir
 mit, daß ein Zufall ihm das zugetragen, was auch bei
-mir Zufall gewesen: das Ablauschen der Antwort des Detektiv-
-Inspektors Brown! Er warnte mich, er bekannte sich vor
+mir Zufall gewesen: das Ablauschen der Antwort des Detektivinspektors
+Brown! Er warnte mich, er bekannte sich vor
 mir als Mörder … Eifersucht habe ihm die Waffe in die
 Hand gezwungen. Bevor er mich verließ, sagte er noch: »Wir
 sind Verbündete, Parker … Harst wird Sie, nicht mich,
@@ -2088,7 +2088,7 @@ verzweifelte Mutter überhäufte Harst mit Vorwürfen, eine
 schwer enttäuschte Frau erwachte, wies uns hinaus …
 
 »Sie haben das Beste in mir zertrümmert … Gehen
-Sie ..."
+Sie …«
 
 Eine verstörte Zofe geleitete uns hinab, öffnete uns
 dreien die Haustür …
@@ -2108,17 +2108,17 @@ Erlebten.
 »Haben Sie von Straub erfahren, wo er wohnt?« begann
 Harald nach einer Weile.
 
-"Nein ..."
+»Nein …«
 
 »War er verkleidet?«
 
 »Ich glaube … Der Vollbart kam mir recht glanzlos
-vor ..."
+vor …«
 
 »Sprach Straub noch etwas, — vielleicht, daß er Sie
 nochmals aufsuchen würde?«
 
-»Nichts …"
+»Nichts …«
 
 »Was gedenken Sie zu tun?«
 
@@ -2145,7 +2145,7 @@ will. Ich bitte Sie, warten Sie noch mit Ihrer Anzeige bei
 der Polizei. Ich werde Straub finden. Er wird das, was
 heute mißlang, wiederholen, und dann … ist er mein!«
 
-"Und die Gefahr, Herr Harst?!" Parker schüttelte müde
+»Und die Gefahr, Herr Harst?!« Parker schüttelte müde
 den Kopf. »Vielleicht entgehen Sie ihm … Sie sind nicht ich,
 — ich bin ein innerlich Zerbrochener, eine Ruine … Ich
 leugne nicht: Als ich Inge Alsen kennenlernte, war mein
@@ -2176,7 +2176,7 @@ des besseren Menschenkenners:
 
 »Bin neugierig, was nun kommt … Gehen wir, mein
 Alter … Bis zur Maximilianstraße, schätze ich, sind wir
-sicher ..."
+sicher …«
 
 Es klang gefühllos. So schien’s …
 
@@ -2207,7 +2207,7 @@ Echt Harst!! Das sollte nun eine Antwort sein!!
 »Also in dem Auto, in das der Mann mit dem steifen
 Schritt halb hineinfiel?«
 
-"Ja ..."
+»Ja …«
 
 »Und woher weißt du plötzlich …« — aber er ließ mich
 nicht ausreden. »Komm’ nur, kehren wir heim zum Falkenturm.
@@ -2401,7 +2401,7 @@ Aber dann nahte vom Hofgarten aus dem gewölbten
 Tor eine klapprige Droschke im müden Schritt, ganz langsam,
 ganz unverfänglich, und zehn Meter vor ihr ging ein Greis
 mit weißem Bart, Pelerinenmantel, großem Künstlerhut,
-weißen Locken: Ein Malermodell, hätte jeder Kundige tariert.
+weißen Locken: Ein Malermodell, hätte jeder Kundige taxiert.
 
 Der Greis ging bedächtig, wuchtig auf genagelten Stiefeln,
 — hart klang sein Spazierstock auf dem Pflaster …
@@ -2416,22 +2416,21 @@ hatte mich rechtzeitig gewarnt.
 Harst trat wie von ungefähr auf den Fahrdamm, stand
 nun drei Schritt seitwärts.
 
-Der Greis schwenkte herum, mußte dicht an Harald vors
-über.
+Der Greis schwenkte herum, mußte dicht an Harald vorüber.
 
 Ich hielt den Atem an.
 
-Not fünf Schritte … vier … drei … zwei — —
+Noch fünf Schritte … vier … drei … zwei — —
 Da eine Viertelwendung … Wie ein Blitz flog der Arm
 des Alten empor, wie ein Blitz sauste der Stock (es war
 Eisen, hellbraun lackiert) hernieder … Dieser Hieb hätte
 jeden menschlichen Schädel wie eine Eierschale geknickt …
-Harst war zurü&ckgeschnellt … Krachend knallte die Stockspitze
+Harst war zurückgeschnellt … Krachend knallte die Stockspitze
 auf die Bordschwelle …
 
 Und ich — ein Wink zu Xaver hin …
 
-Ich, drei andere Paten den schnapsnasigen, dicken
+Ich, drei andere Packten den schnapsnasigen, dicken
 Droschkenkutscher, rissen ihn vom Bock …
 
 <@pagebreak/>
@@ -2439,7 +2438,7 @@ In demselben Moment fiel der Greis schwerfällig vornüber,
 wurde von Harst aufgefangen … Tauben flatterten
 empor, Neugierige ballten sich zusammen … Ein Polizist
 lief herbei … Harst trug den Alten in die Droschke, ich
-spielte Kutscher, der Polizist verständigte Biß rasch mit
+spielte Kutscher, der Polizist verständigte sich rasch mit
 Xaver, und die Droschke ratterte überlastet davon — hinein
 in die enge Falkenturmgasse … Die beiden Kriminalbeamten
 sprangen heraus … Stuart Parker war jeder Fluchtweg
@@ -2448,10 +2447,10 @@ abgeschnitten.
 Er war daheim.
 
 Er saß im ersten Stock in seinem Arbeitszimmer, von
-meiner Clement in Khan, gehalten. Harst und Xaver führten
+meiner Clement in Schach gehalten. Harst und Xaver führten
 den Droschkenkutscher herein. Ein Beamter trug den Greis
 keuchend nach oben und lehnte ihn gegen die Wand. Andere
-Beamte erschienen, man fand in einem Versteck aus den
+Beamte erschienen, man fand in einem Versteck auch den
 Bernhardiner … Parker lächelte zu alledem — das Lächeln
 eines Menschen, der sich selbst aufgegeben hat.
 
@@ -2464,59 +2463,59 @@ eröffnet. Die Eröffnungsrede hielt ein
 »Roboter«, ein künstlicher Mensch, ein Automat in höchster
 Vollendung. Ein Teil meiner Leser wird hierüber wohl in
 den Zeitungen gelesen haben. Die Bezeichnung »Roboter«
-stammt von Tafel Raucht, dem Verfasser des Sensationsstück
-»Verstande Universal Folgte«, das aus in Berlin
-großen« Erfolg hatte. — Der künstliche Festredner der Westminster Ausstellung
-ist in der Tat ein Wunderwerk: Er
-geht, spricht, antwortet auf Fragen … — Ader sein »Erzeuger«
-war doch ein Stümper im Fenster zu den Automaten,
-die Stuart Parker durchs Oskar Straub herstellen
+stammt von Carel Cayck, dem Verfasser des Sensationsstücks
+»Werstands Universal Robots«, das aus in Berlin
+großen Erfolg hatte. — Der künstliche Festredner der
+Westminster-Ausstellung ist in der Tat ein Wunderwerk: Er
+geht, spricht, antwortet auf Fragen … — Aber sein »Erzeuger«
+war doch ein Stümper im Vergleich zu den Automaten,
+die Stuart Parker durch Oskar Straub herstellen
 ließ. Straub war als Konstrukteur moderner. Er baute in
-seine Puppe, der man verschiedene Köpfe aufsetzen konnte.
+seine Puppe, der man verschiedene Köpfe aufsetzen konnte,
 und in den Bernhardiner all jene feinsten Apparate ein,
 <@pagebreak/>
-die auf Herzens Wellen reagieren, wie bei einem fern
-gelenkten Schiff. Er schuf Automaten, die nicht wie der —
-»Londoner Festredner« erst durchs Druck auf einen Knopf —
+die auf Herzsche Wellen reagieren, wie bei einem ferngelenkten
+Schiff. Er schuf Automaten, die nicht wie der
+»Londoner Festredner« erst durch Druck auf einen Knopf
 in Bewegung gesetzt werden, sondern die genau den drahtlosen
 Befehlen gehorchten, die vom Auto oder von der
 Droschke aus gegeben worden waren. Sowohl das Auto
-als auch die Droschke enthielt eine kleine Sendestation, die —
-verblüffend einfach) zu bedienen war … —
+als auch die Droschke enthielt eine kleine Sendestation, die
+verblüffend einfach zu bedienen war … —
 
 Ich glaube, daß diese Angaben genügen werden. — —
 
 Harst hatte sich Parker gegenübergesetzt. In der Sofaecke
-sehnte Oskar Straub, der jetzt, nachdem man ihm Bart,
+lehnte Oskar Straub, der jetzt, nachdem man ihm Bart,
 Perücke, Schminke entfernt hatte, sein bleiches Leidensgesicht
-mit den trostlos irren Augen tief gekrallt hielt, im
+mit den trostlos irren Augen tief gesenkt hielt, im
 übrigen völlig teilnahmslos, lediglich ein stumpfer, gleichgültiger
 Zeuge, ein Mensch, dessen Verstand von einem
 Mörder systematisch zu Grunde gerichtet worden war, der
 nur willenloser Sklave Stuart Parkers gewesen, innerlich
-zermürbt durch Gewissensbisse, durchs Liebe, Gram, Berg
+zermürbt durch Gewissensbisse, durch Liebe, Gram,
 Verzweiflung.
 
 Harst sprach: »Parker, ich will mich kurz fassen. Der
-Untersuchungäsrichter mag die Einzelheiten nachprüfen. Sie
+Untersuchungsrichter mag die Einzelheiten nachprüfen. Sie
 selbst haben Ihre Frau ermordet. Sie war Ihnen im
 Wege. Ihre Leidenschaft für Inge Alsen machte Sie zum
-Mörder. Sie kannten Straubs Reizbarkeit. Sie stacheitenjeine
-Eifersucht bis zum Wahnsinn auf. Sie waren nicht
+Mörder. Sie kannten Straubs Reizbarkeit. Sie stachelten
+seine Eifersucht bis zum Wahnsinn auf. Sie waren nicht
 die ganze Nacht an Deck. Sie hatten Ihrer Frau ein Schlafmittel
-gegeben. Blei Straub Ihre Kabine betrat, hielten
+gegeben. Als Straub Ihre Kabine betrat, hielten
 Sie ihm im Dunkeln die von Ihnen bereits ermordete
 Evelyn hin … Einer Toten versetzte er die Dolchstiche. Sie
 selbst stießen die Klagelaute aus. Sie selbst haben auch den
-»Person« in Brand gesteckt. Sie waren ohne Vermögen, Sie
-handelten im Einvernehmen mit den Teebrett des »Nelson«,
+»Nelson« in Brand gesteckt. Sie waren ohne Vermögen, Sie
+handelten im Einvernehmen mit den Reedern des »Nelson«,
 Sie erhielten nachher einen Teil der Versicherungssumme.«
 
 »Ich leugne nicht,« sagte Parker achselzuckend. »Es hätte
 keinen Zweck mehr …«
 
 <@pagebreak/>
-»Hier in Münden begegneten Sie Straub, nahmen
+»Hier in München begegneten Sie Straub, nahmen
 ihn zu sich, machten ihn zu Ihrem Sklaven, ließen ihn
 die Automaten konstruieren, diese tadellosen ferngesteuerten
 Automaten, mit denen Sie fraglos auf Varieteebühnen viel
@@ -2529,14 +2528,14 @@ wären geglückt, wenn ich nicht schon vor der Frauenkirche
 gestern abend in dem Alten mit der Adlernase einen
 ferngesteuerten Roboter erkannt hätte. Nicht vorbereitet war
 ich auf den Angriff durch die »Frau« im Eingang des
-Wohltäter-Bräus.«
+Matthäser-Bräus.«
 
-»Ich leuaqne nichts. Es hätte keinen Zweck,« meinte Parker
+»Ich leugne nichts. Es hätte keinen Zweck,« meinte Parker
 eisig. Sein Totenkopfgesicht war unheimlich starr. »Ich möchte
-nur noch bemerken, daß Deine Straub in der Tat schuldlos
+nur noch bemerken, daß Oskar Straub in der Tat schuldlos
 ist. Ich hoffe, daß sein zerrüttetes Nervensystem in einem
 Sanatorium rasch wieder in Ordnung kommt und daß er
-und Inge ein plötzliches Paar werden. Glauben Sie nicht,
+und Inge ein glückliches Paar werden. Glauben Sie nicht,
 Herr Harst, daß ich etwa Gift genommen habe und dadurch
 sterben werde. Nein, mag man mich einsperren, mag man
 mir den Prozeß machen: Ich bin ein Sterbender. Mein Herz
@@ -2544,15 +2543,15 @@ zuckt, jagt, setzt aus. Ich habe nur durch Kampfer mich
 diese letzten Tage am Leben erhalten. Vielleicht geht’s mit
 mir noch rechtzeitig zu Ende … — Sie lieben keine Phrasen,
 Herr Harst, — ich auch nicht. Sie wissen: Liebe machte mich
-zum« Verbrecher! Ich habe mich gewehrt bis zum letzten
+zum Verbrecher! Ich habe mich gewehrt bis zum letzten
 Augenblick … gegen Sie!! Als Besiegter will ich wenigstens
-dem Manne, dem ich daß Dasein vergiftet, eine glücklichere
+dem Manne, dem ich das Dasein vergiftet, eine glücklichere
 Zukunft ausbauen. — Oskar Straub, verzeihen Sie mir …!«
 
 Er erhob sich mühsam, er machte einen Schritt vorwärts,
 griff nach dem Herzen, sank zurück …
 
-Er war dem Henker entgangen. Sein Herz, dieses heiße.
+Er war dem Henker entgangen. Sein Herz, dieses heiße,
 verbrecherische Herz, hatte zu schlagen aufgehört.
 
 <@pagebreak/>
@@ -2563,51 +2562,19 @@ glückliches Paar geworden, — es stand in allen Zeitungen.
 
 Gerade dieser Diebstahl der beiden genial konstruierten
 Automaten stellte uns vor eine neue Aufgabe. Die Münchener
-Polizei, auch die deutsche Regierung hatten ein leicht des
-Treffliches Interesse daran, diese einzigartigen Folgten nicht
+Polizei, auch die deutsche Regierung hatten ein leicht
+begreifliches Interesse daran, diese einzigartigen Roboten nicht
 etwa ins Ausland gelangen zu lassen. Welch’ überraschende
 Lösung das Rätsel dieses Diebstahls fand, erzähle ich das
 nächste Mal. —
 
-Hiermit kann ic€ wohl die Geschichte des Tagebuchs
+Hiermit kann ich wohl die Geschichte des Tagebuchs
 eines Mörders schließen. Wer sie nicht nur einmal nach
 Feierabend flüchtig überfliegt, sondern sie später nochmals
-liest, wird mir feucht geben, wenn ich sage: Es ist keine
+liest, wird mir recht geben, wenn ich sage: Es ist keine
 Detektivgeschichte, es ist auch keine Abenteuererzählung, —
 — es ist letzten Endes eine Tragödie der Liebe, ein hochmodernes
 Drama, das versöhnlich ausklingt durch einer
 irrenden Menschenseele letzten verheißungsvollen Wunsch für
-den 6lüflichen Rivalen!
+den glücklichen Rivalen!
 
-<@pagebreak/>
-der Ablenkung, Entspannung und
-Erholung nach des Tages ewig gleicher
-Fronarbeit sollen die Harstbändchen
-bringen — nicht mehr. Der aufmerksame
-Leser wird trotz der Anspruchlosigkeit
-dieser Erzählungen dennoch auch
-Belehrung und Anregung darin finden.
-Die lebenswahre Schilderung von Land
-und Leuten, die!scharfumrislsene Gestaltung
-der Charaktere und die gesunde
-Spannung der eigenartigen Stoffe sind
-uns aus den verschiedensten Kreisen der
-Leser immer wieder bestätigt worden.
-Seit acht Jahren haben Harsts Oben
-Feuer-Erzählungen nur Freude und
-Unterhaltung gebracht. Schon dies sowie
-die vielen günstigen Beurteilungen gelb
-aus literarisch anspruchsvollen Kreisen
-beweisen, daß jeder Harstfreund mit
-Recht die Bändchen seinen Bekannten
-empfehlen kann. — Jede Buch- und
-Schreibwaren -Handlung hält die
-Harst-Erzählungen zum Preise von
-0,20 Rm. am Lager. Wo sie nicht zu
-
-haben sein sollten, bestelle man sie beim
-
-Verlag moderner Lektüre
-—»»— ck. in. b. H. —
-
-Berlin so 16, Michaelkirchstraße so.
