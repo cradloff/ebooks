@@ -83,6 +83,7 @@ e\)	ch
 i[cd]\)	ich
 I[cd]\)	Ich
 iM	ich
+Münden	München
 Napitel	Kapitel
 no[cdh]\)	noch
 nod\)	noch
