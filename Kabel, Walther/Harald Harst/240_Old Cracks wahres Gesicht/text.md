@@ -1,35 +1,18 @@
-<@pagebreak/>
+<@pagebreak 3/>
 
-Old Cracks wahres Gesicht
-
-Erzählt von
-Max Schraut
-
-XP
-
-Verlag moderner Lektüre G. in. b. Z.
-Berlin so 16, Michaelkirchstraße so
-
-<@pagebreak/>
-Nachdruck verboten. — Alle Rede, einschließlich das
-Verfilmungsrecht, vorbehalten. — Copyright 1929 by
-Verlag moderner Lektüre G. u. ob. H., Berlin so. 16&
-
-Du: P. Lehmann, G. in. b. H … Berlin so. 16
-
-<@pagebreak/>
+<h1>Old Cracks wahres Gesicht.</h1>
 
 <h2>1. Kapitel.</h2>
 
-Die Tanana«-Farm Old Cracks war landschaftlich so
+Die Tanana-Farm Old Cracks war landschaftlich so
 wunderbar schön gelegen, daß es mich eine gewisse Überwindung
-kostete, vom Fenster zurückzuziehen und meine Aussmerksamkeit
+kostete, vom Fenster zurückzutreten und meine Aufmerksamkeit
 den Dingen zu widmen, die sich hinter mir abgespielt
-hatten, während im; in den Anblick der weißen
-weißen Hochebene und der unendlich) hohen Sandberge versuchen
+hatten, während ich in den Anblick der weißen
+weißen Hochebene und der unendlich hohen Sandberge versunken
 gewesen war. All diese Schönheit war freilich in
 das ungewisse Dämmerlicht eines Wintertages getaucht, wie
-er dort droben in Mittelalagka sonnenlos und ersetzt die
+er dort droben in Mittelalaska sonnenlos und eisigkalt die
 ganze Natur in das reine Gewand ungeheurer Schneemassen
 kleidet,
 
@@ -37,69 +20,69 @@ Hier im Arbeitszimmer Old Cracks, dessen Wohnhaus auf
 einem Felswürfel von etwa zwölf Meter Höhe lag, während
 die anderen Gebäude auf dem benachbarten Felsmassiv
 errichtet waren, hatten sich heute folgende Personen versammelt,
-die dem Leser bereits aus dem ersten Old England
+die dem Leser bereits aus dem ersten Old Crack-Band
 bekannt sind:
 
-1\. Mr. Samuel Warger, genannt! der Würger, ein
-Kanon von ungezählten Millionen, gehaßt und zgesürdtet
-als der Waldschlächter Alaskas und als klingelte ser Finanzmagnat,
-— etwas dich, stark, Glatze, graue Batterie an
+1\. Mr. *Samuel Warger*, genannt der Würger, ein
+Mann von ungezählten Millionen, gehaßt und gefürchtet
+als der Waldschlächter Alaskas und als skrupelloser Finanzmagnat,
+— etwas dick, stark, Glatze, graue Haarreste an
 <@pagebreak/>
 den Schläfen und am Hinterkopf, grauer Spitzbart, Hornbrille,
-ein Besitz? ohne Besonderheiten, sehr gemessene Beo«
-Bewegungen, dabei liebengzwürdig und von guten Manieren —
-kurz: ein Wann, dem man es nicht ansah, daß er über
+ein Gesicht ohne Besonderheiten, sehr gemessene
+Bewegungen, dabei liebenswürdig und von guten Manieren —
+kurz: ein Mann, dem man es nicht ansah, daß er über
 Leichen ging.
 
-2\. Sein Sohn Rom, symphbatischer lieber Junge, verlobt
-mit
+2\. Sein Sohn *Tom*, sympathischer lieber Junge, verlobt
+mit …
 
-8\. Stillen Barkam, Pflegetochter des echten Old
-Grad, der vor fünf Jahren verstorben und dessen Persönlichkeit
+3\. *Ellen Barkam*, Pflegetochter des echten Old
+Crack, der vor fünf Jahren verstorben und dessen Persönlichkeit
 ein Schwindler geschickt und brutal fortgeführt hatte.
-Herzogin hübsches, energisches Mädel, blond und kräftig, abgekartet
-jener alles, aufgewachsen inmitten dieser grandiosen
+Ein hübsches, energisches Mädel, blond und kräftig, abgehärtet
+gegen alles, aufgewachsen inmitten dieser grandiosen
 Natur, dabei vielseitig gebildet.
 
-Mr. Charlie Maxson, des echten und des unechten
-Grad getreuer Diener, ein älterer hagerer Mann mit
-spärlich ein grauem Haar, einem verkniffenen Gesicht, kalten,
-schlauer Augen. — Inwieweit er mit dem unechten Old
-Grad, der nun entflohen war und den wir suchen wollten,
-Meinen Sache gemacht hatte, war nicht festzustellen
-»Wesen.
+4\. Mr. *Charlie Maxson*, des echten und des unechten
+Crack getreuer Diener, ein älterer hagerer Mann mit
+spärlichem grauem Haar, einem verkniffenen Gesicht, kalten,
+schlauen Augen. — Inwieweit er mit dem unechten Old
+Crack, der nun entflohen war und den wir suchen wollten,
+gemeinsame Sache gemacht hatte, war nicht festzustellen
+gewesen.
 
-3\. Mr, Lyne, Polizeiinspektor aus der benachbarten
-Zz Banditen Stadt Dawson City. Groß, verschlossen, kühle
+5\. Mr. *Lyne*, Polizeiinspektor aus der benachbarten
+kanadischen Stadt Dawson City. Groß, verschlossen, kühle
 starre Augen: Polizeityp.
 
-0\. Mr. Shell, sein amerikanischer Kollege, mager,
-lastenden flink, Schauspielerkopf, fraglos ein!chlauer Beamter
+6\. Mr. *Shell*, sein amerikanischer Kollege, mager,
+rattenhaft flink, Schauspielerkopf, fraglos ein schlauer Beamter
 ohne Furcht und Nerven.
 
 7\. Wir beide.
 
 — Wir alle waren gestern abend von Dawson auf
-der Eingang-Farm eingetroffen. Wir hatten hier nur noch
+der Tanana-Farm eingetroffen. Wir hatten hier nur noch
 des unechten Cracks Personal vorgefunden: einen chinesischen
 Koch, zwei indianische Weiber, ein Dutzend indianische
 Hirten und Arbeiter nebst Anhang, ein Dutzend Eskimos, die
-zumeist Renntierhirten waren, und zwei europäische Aussehen,
+zumeist Renntierhirten waren, und zwei europäische Aufseher,
 Kerle von zweifelhaftestem Charakter. Diese ganze Bande, mit
-deren Hilfe Ulk Crack. der Unechte. die unglaublichsten Verbrechen
+deren Hilfe Old Crack, der Unechte, die unglaublichsten Verbrechen
 <@pagebreak/>
 verübt, gehörte ins Zuchthaus, aber dem einzelnen
 war natürlich nichts nachzuweisen. Außerdem waren drüben
-in den Farmgebäuden auf dem großen Felsen rote die
+in den Farmgebäuden auf dem großen Felsen noch die
 zwanzig Polizeibeamten einquartiert, die Mr. Shell mitgebracht
 hatte,
 
-Jetzt am Vormittags hatten wir damit begonnen, Cracks
+Jetzt am Vormittag hatten wir damit begonnen, Cracks
 Haus genau zu durchsuchen, um vielleicht irgendeinen Anhaltspunkt
 dafür zu gewinnen, wer der falsche Crack sein
 mochte.
 
-Ganz zuletzt war Grade Gdreibtis;M; an die Reihe
+Ganz zuletzt war Cracks Schreibtisch an die Reihe
 gekommen.
 
 Ein Ausruf Haralds: »Sie haben recht gehabt, Mister
@@ -109,24 +92,23 @@ veranlaßt, mich umzudrehen.
 Ich sah, daß Harald einen versiegelten Umschlag in der
 Hand hielt.
 
-Mr, Shell schoß wie ein Pfeil auf Harst zu und riß
+Mr. Shell schoß wie ein Pfeil auf Harst zu und riß
 ihm den Fund aus den Fingern.
 
-»Polizeilich beschlagnahmt!« sagte er in seiner über nervösen
+»Polizeilich beschlagnahmt!« sagte er in seiner übernervösen
 Art, »Ah — ein Testament!!« fügte er ruhiger
 hinzu. »Maxson, ist dies Ihres verstorbenen Herrn John
-Cracks Handschrift?’
+Cracks Handschrift?«
 
 Auf dem Umschlag stand nämlich in sehr ungelenken
 Buchstaben:
 
-Mein Testament.
+<p class="centered em">Mein Testament.</p>
 
-Aufgesetzt am 13. April 1920 vor dem Notar Mister
+> Aufgesetzt am 13. April 1920 vor dem Notar Mister
+Bottler in Nuklukahjet. &nbsp; &nbsp; &nbsp; John Crack.
 
-Bettler in Nuklukahjet. John Crack.
-
-Maxson, der Diener, nickte. »Zweifellos seine Schritt,
+Maxson, der Diener, nickte. »Zweifellos seine Schrift,
 Mr. Shell.«
 
 »Gut, öffnen wir den Umschlag.«
@@ -134,68 +116,68 @@ Mr. Shell.«
 Aber Harst wehrte ab. »Wollen wir damit nicht warten
 und es dem Gericht in Nuklukahjet übergeben?«
 
-»Unsinn!« platzte Shell grob heraus. »Vielleicht erst«-
-hält das Testament Hinweise auf den Schuft, der hier seit
-fünf Jahren Old Crack gespielt bat.«
+»Unsinn!« platzte Shell grob heraus. »Vielleicht enthält
+das Testament Hinweise auf den Schuft, der hier seit
+fünf Jahren Old Crack gespielt hat.«
 
 <@pagebreak/>
 Er schnitt den Umschlag auf und zog einen großen,
 mehrfach gefalteten und gestempelten Bogen heraus.
 
-Sein eigenmächtiges Vorgehen vollendete uns alle.
-Wenn jemand ein Interesse zu schneller Kenntnignahme des
+Sein eigenmächtiges Vorgehen befremdete uns alle.
+Wenn jemand ein Interesse an schneller Kenntnisnahme des
 Testamentinhaltes gehabt hätte, so wäre dies wohl lediglich
-ElienBurkam als Pflegetochter gewesen, die unter Old Glanz
-väterlicher Thar aufgewachsen war. Aber Ellen saß Hand
+Ellen Barkam als Pflegetochter gewesen, die unter Old Cracks
+väterlicher Obhut aufgewachsen war. Aber Ellen saß Hand
 in Hand mit ihrem geliebten Tom im Hintergrunde auf
-dem Los und halte an anderes zu denken. Tom schien
-Mensch, was das Küssen betrifft, durchaus noch nicht übersättigt
+dem Sofa und hatte an anderes zu denken. Tom schien
+nämlich, was das Küssen betrifft, durchaus noch nicht übersättigt
 zu sein.
 
 Mr. Shell warf sich in den Schreibsessel und begann
-das Testament zu besichtigen, »Tier ist die Unterschrift des
+das Testament zu besichtigen. »Hier ist die Unterschrift des
 Notars aus Nuklukahjet und die dreier Zeugen, auch der
-Stempel. Die Urkunde ist rehiagültig. Ich werde vorlesen.«
-&r Rüttelte vor Erregung, und ein strafender Blick traf das
+Stempel. Die Urkunde ist rechtsgültig. Ich werde vorlesen.«
+Er stotterte vor Erregung, und ein strafender Blick traf das
 Liebespaar, das da hinten im Halbdunkel nur nach dem
-jenen Schlugen handelte: »Ich Küsse Ihre Hand, Mavam’.«
+schönen Schlager handelte: »Ich küsse Ihre Hand, Madam’.«
 
-Shell rückte die große Petroleumlampe näher Sternen und
-nickte zu mir:
+Shell rückte die große Petroleumlampe näher heran und
+sagte zu mir:
 
-»Ihr wund stört nichts, Mr. Schraut …«
+»Ihr Hund stört mich, Mr. Schraut …«
 
-Sein Hund hieß Zuraunt und hatte noch vor einer
-Tode dem Eskimo Kultur gehört. Kultur war tot. Der
-Ehe Grad hatte ihn ermordet und den Kopf auf einen
-Kiefer! gespießt. Ich streichelte Zuraunt, und er legte
-sich. 9 zu meinen Füßen nieder.
+Mein Hund hieß Buruwat und hatte noch vor einer
+Woche dem Eskimo Rulat gehört. Rulat war tot. Der
+falsche Crack hatte ihn ermordet und den Kopf auf einen
+Kiefernast gespießt. Ich streichelte Buruwat, und er legte
+sich zu meinen Füßen nieder.
 
 Shell hüstelte und las.
 
-»Ich, John Crack, bestimme nach meinem Ableben
-folgendes: Meine Renntierfarm Sprang soll an meinen
+> »Ich, John Crack, bestimme nach meinem Ableben
+folgendes: Meine Renntierfarm Tanana soll an meinen
 Todfeind Samuel Warger fallen, der mit mir Jahrzehnte
 um einen Teil meiner Farm prozessiert hat.«
 
-Shell ließ den Bogen sinken und starrte uns nacheeinander
-an, bis sein Ruhebetten Blick auf Samuel Warger
-husten blieb. Dann lachte er meckernd: »Gratuliere!«
+Shell ließ den Bogen sinken und starrte uns nacheinander
+an, bis sein ruheloser Blick auf Samuel Warger
+haften blieb. Dann lachte er meckernd: »Gratuliere!«
 
 »Lesen Sie weiter,« meinte der Multimillionär kühl.
 
 <@pagebreak/>
 Shell grinste …
 
-»Ich habe meine besonderen Gründe, weshalb lieh
+> »Ich habe meine besonderen Gründe, weshalb ich
 gerade Samuel Warger die Farm hinterlasse. Mag er
-sich den Kopf darüber zerbrechen, Mestizen Art diese Gründe
-rund.«
+sich den Kopf darüber zerbrechen, welcher Art diese Gründe
+sind.«
 
-»Verrückt!!« bemerkte Shell und tippte sich nun die Stirn.
+»Verrückt!!« bemerkte Shell und tippte sich an die Stirn.
 
 Samuel Warger nickte Zweideutig. »Das stimmt! Ich
-Nette die Erbschaft an.«
+nehme die Erbschaft an.«
 
 Tom rief: »Aber Vater!!«
 
@@ -203,73 +185,74 @@ Tom rief: »Aber Vater!!«
 einem in den Schoß geworfen wird. — Lesen Sie weiter,
 Inspektor!«
 
-»- -. Meiner Pflegetochter Ellen Barkam vermag
-ich mein gesamtes Barvermögen von einer halben Willzas’
-Dollar. E35 liegt in guten, Wertpapieren in der UlavlaBank
-in Sitka.« —
+> »… Meiner Pflegetochter Ellen Barkam vermache
+ich mein gesamtes Barvermögen von einer halben Million
+Dollar. Es liegt in guten Wertpapieren in der Alaska-Bank
+in Sitka.«
 
 »Das läßt sich hören, Miß Barkam,« meckerte Shell
 wieder. »Meinen Glückwunsch!«
 
-»- -. Ellen soll außerdem die Berechtigung haben,
+> »… Ellen soll außerdem die Berechtigung haben,
 mein Haus auf dem südlichen Felsen allein zu bewohnen.
 Möbel und Haus bleiben bis zu ihrem Tode ihr Eigentum,
 ebenso das Heiße Tal weiter südlich und die dort
 untergebrachten 5000 Renntiere. — Meine Leute sollen
-jeder ein volles Monatsgcehalt ausgezahlt bekommen, mein
-Diener Charlie Maxson außerdem 10.000 Dollar, die der
+jeder ein volles Monatsgehalt ausgezahlt bekommen, mein
+Diener Charlie Maxson außerdem 10&nbsp;000 Dollar, die der
 Haupterbe zu zahlen hat.
 
-Sollte Samuel Warger die Erbschaft ausschlagen,
+> Sollte Samuel Warger die Erbschaft ausschlagen,
 so erhält der Staat die Farm, die etwa einen Wert
 von zwei Millionen hat. In diesem Falle zahlt der
-Braut Atlanta an Maxson das Legat.
+Staat Alaska an Maxson das Legat.
 
-Im übrigen hoffe ich von recht lange zu leben.
+> Im übrigen hoffe ich noch recht lange zu leben.
 
-John Crack.«
-Chell warf die Urkunde auf den Schreibtisch. »Schade —
-über den Schuft, den unechten Crack, kein Wort …!?!
-Wer ist nun dieser Lump?! Na. Mr. Harst. was Augen Sie
+<p class="right">John Crack.«</p>
+
+Shell warf die Urkunde auf den Schreibtisch. »Schade —
+über den Schuft, den unechten Crack, kein Wort …!!
+Wer ist nun dieser Lump?! Na, Mr. Harst, was sagen Sie
 <@pagebreak/>
-zu alledem?!« — Das klang unentdeckt höhnisches). Chell
-konnte Harald nicht richten, obwohl dieser sich bisher völlig
+zu alledem?!« — Das klang unversteckt höhnisch. Shell
+konnte Harald nicht riechen, obwohl dieser sich bisher völlig
 zurückgehalten hatte. »Sie werden ja doch sicherlich die
 Scharte, den falschen Crack in der Person Charlie Maxson
 nach Dawson geschleppt zu haben, wieder auswetzen wollen.«
 Das war eine glatte Unverschämtheit und Herausforderung.
 
-Lyne, sein kanadischer Kollege, rief dank auch: »Wie
+Lyne, sein kanadischer Kollege, rief dann auch: »Wie
 können Sie nur, Shell!«
 
 »Oh, lassen Sie nur,« meinte Harald und blickte Shell
-durchdringend an. »Ich habe die Scharte schon ausgewetzt,
+durchdringend an. »Ich habe die Scharte schon ausgewetzt.
 Ich weiß, wo der unechte Crack zu suchen ist, und sobald mir
-die Beweise genügen, sagte ich zu. — Sie müssen bedenken,
+die Beweise genügen, fasse ich zu. — Sie müssen bedenken,
 Mr. Lyne,« und jetzt nickte er dem Kanadier zu, »daß es
 nicht so einfach ist, diesen Mörder und Schwindler zu
 überführen, da er sein wahres Antlitz bisher sehr wenigen
 gezeigt haben dürfte und da er ja schon hier auf der
 Farm unerkannt nebenbei als Fallensteller Mac Dormit
-auftrat. Als Mac Dormit war er in der Höhle am PictairnBah
+auftrat. Als Mac Dormit war er in der Höhle am Pictairn-Bach
 mit Schraut und mir zusammen, natürlich ebenfalls
-maskiert. Damals tötete er die EgIkimos Kultur und
-Strecke, wie er jeden umbrachte, von dem er Verrat befürchtete.
+maskiert. Damals tötete er die Eskimos Rulat und
+Ischko, wie er jeden umbrachte, von dem er Verrat befürchtete.
 Er mag noch viele andere Masken und Namen
 getragen haben, mag anderswo ähnlich gelebt haben wie
 hier, das heißt, stets wieder für viele Wochen verschwunden
-sein, um eben irgendwo als Biedermann aufzutreten, Nachdem:
+sein, um eben irgendwo als Biedermann aufzutreten. Trotzdem:
 Ich weiß, wo er ist, und ich glaube, Mr. Lyne,
 Sie wissen es auch!«
 
-Die letzten Worte hatten eine besondere Klangfärbung,
+Die letzten Worte hatten eine besondere Klangfärbung.
 Lyne lachte gezwungen. »Halten Sie mich für Crack Nummer
-zwei el!«
+zwei?!«
 
-»Burschen Sie wirklich eine klare Antwort?!« sagte
+»Wünschen Sie wirklich eine klare Antwort?!« sagte
 Harst kühl und rauchte seine Zigarette weiter.
 
-Lyne drehte sich kurz um und verließ das Zimmer,
+Lyne drehte sich kurz um und verließ das Zimmer.
 — Das war um ein halb elf vormittags.
 
 <@pagebreak/>
@@ -278,108 +261,107 @@ Lyne drehte sich kurz um und verließ das Zimmer,
 
 Die Zurückbleibenden schwiegen bedrückt. Die Stimmung
 im Zimmer hatte etwas Vulkanartiges. Man fühlte gleichsam
-ein unterirdisches Vollen, das eine starke Eruption
+ein unterirdisches Rollen, das eine starke Eruption
 ankündete. Inspektor Shell wandte sich an Harst. »Bitte,
 entschuldigen Sie meine Ungezogenheit. Ich bin sehr gereizter
-Stimmung. Ich) habe- Sprache wegen schon so viel Rüffel
+Stimmung. Ich habe Cracks wegen schon so viel Rüffel
 von meinen Vorgesetzten bekommen, daß ich eigentlich längst
 hätte gehen müssen.«
 
-Harald meinte lediglich; »Wir werden uns nie verstehst.,
-Inspektor. Sie sind scheinbar ein sehr impulfiver Mengt,
+Harald meinte lediglich: »Wir werden uns nie verstehen,
+Inspektor. Sie sind scheinbar ein sehr impulsiver Mensch.
 Solche Leute bleiben unberechenbar und undurchsichtig.«
 
-Shell nickte, »Leider, leider. Ich hätte Schauspieler werdet
+Shell nickte, »Leider, leider. Ich hätte Schauspieler werden
 sollen.« Dann steckte er das Testament zu sich. »Ich werde
 es drüben in den Geldschrank im Verwalterhaus einschließen.
 Dort ist es sicher. Der Tresor ist modern und gut.«
 
 Harald legte den Stummel seiner Zigarette in den
-Aschbecher. »Sahen Sie denn den Schlüssel zu dem Panzerschrank,
-und kennen Sie das Stichwort des zweiten Kombinationsschlosses
-9«
+Aschbecher. »Haben Sie denn den Schlüssel zu dem Panzerschrank,
+und kennen Sie das Stichwort des zweiten Kombinationsschlosses?«
 
 Shell brummte mißmutig: »Nein, allerdings nicht. —
-Miß Alten, wissen Sie Freiheit, ob Crack ein Versteck
+Miß Ellen, wissen Sie vielleicht, ob Crack ein Versteck
 für den Schlüssel hatte? Kennen Sie das Stichwort?«
 
-Die blonde Braut schüttelte zerstreut das bergige Fürsten.
+Die blonde Braut schüttelte zerstreut das herzige Köpfchen.
 »Keine Ahnung!«
 
-»Crack hat natürlich den Schlüssel bei sieh« ließ sich
-Samuel Wargers Baß vernehmen. »Man wird aus Name
+»Crack hat natürlich den Schlüssel bei sich,« ließ sich
+Samuel Wargers Baß vernehmen. »Man wird aus Nome
 einen Spezialschlosser kommen lassen müssen. Der Schrank
-muß geöffnet werden, In bin jetzt hier Besitzer.« Er sagte
+muß geöffnet werden. Ich bin jetzt hier Besitzer.« Er sagte
 das ohne irgendwelche Anmaßung. Und doch lag darin
 die für jeden leicht verständliche Besitzergreifung seines
-reichen Erbes, »Das Testament jedoch in Ihrer Rocktasche
+reichen Erbes. »Das Testament jedoch in Ihrer Rocktasche
 <@pagebreak/>
 zu belassen, Inspektor, wäre Leichtsinn. Legen wir es wieder
 in das Geheimfach zurück.«
 
-»Einverstanden!« und Chell öffnete das Unterlag) des
-Aufbaus und verschloß dieses nachher und gab Ellen du
-Schlüssel. »Sie sind hinter in diesem Hause Herrin, Miß
-Barkam. Es gehört Ihnen. Leuten Sie das Testament.«
+»Einverstanden!« und Shell öffnete das Mittelfach des
+Aufbaus und verschloß dieses nachher und gab Ellen den
+Schlüssel. »Sie sind hier in diesem Hause Herrin, Miß
+Barkam. Es gehört Ihnen. Hüten Sie das Testament.«
 
 Ellen erhob sich und trat zu Harald,
 
 »Mr. Harst, ich möchte Sie ohne Zeugen sprechen, Sie
 und Ihren Freund. — Lieber Tom, du entschuldigst …
 Vielleicht besichtigen die anderen Herren derweil drüben die
-Baulidkeiten’«
+Baulichkeiten.«
 
 Sie deutete zum rechten Seitenfenster hinaus auf das
-große, glatte Felsmassiv, das durch die Beile mit Cracks
-Wohnhaus verbunden war. Sie hatte in seine bestimmten
-Tone gesprochen, und alle bläuliche Seligkeit war aus
+große, glatte Felsmassiv, das durch die Brücke mit Cracks
+Wohnhaus verbunden war. Sie hatte in sehr bestimmtem
+Tone gesprochen, und alle bräutliche Seligkeit war aus
 ihrem Gesicht wie weggewischt. Irgend etwas mußte sie
 innerlich stark beunruhigen. Sie war blaß und in ihren
-Augen war ein Austern von ungewohnter Harte.
+Augen war ein Ausdruck von ungewohnter Härte.
 
-Dir anderen entfernten sich. Tom sagte nur: »Du hättest
-besser in Dawson bleiben sollen, mein Liebling. Ich Büchse,
+Die anderen entfernten sich. Tom sagte nur: »Du hättest
+besser in Dawson bleiben sollen, mein Liebling. Ich fürchte,
 dies alles regt dich zu sehr auf.«
 
 Wir sahen, wie die beiden Wargers, Shell und Maxson
-über die Hoteltür schritten. Ellen stand am »Fenster und
+über die Holzbrücke schritten. Ellen stand am Fenster und
 winkte ihrem Tom nochmals zu. Dann wandte sie sich
 langsam um und fragte: »Mr. Harst, ist etwa Lyne der
 Verbrecher. Ich will in allem klar sehen.«
 
 Harald hatte sich in den Schreibsessel gesetzt und schaute
-vor sich sein. »Es tut vor leid, Ihnen nicht so antworten
-zu können, wie Sie es wünschen. Der unechte Goa ist
-eine der Personen, die soeben Geier im Zimmer versammelt
+vor sich hin. »Es tut mir leid, Ihnen nicht so antworten
+zu können, wie Sie es wünschen. Der unechte Crack ist
+eine der Personen, die soeben hier im Zimmer versammelt
 waren. Das muß Ihnen vorläufig genügen. — Erschrecken
-Sie nicht. Sie sind ein muffiges Wähnten. Ich rate Ihnen
+Sie nicht. Sie sind ein mutiges Mädchen. Ich rate Ihnen
 dringend, folgende Anordnungen zu treffen. Schraut und ich
-werden hier in diesem Laute mit Ihnen zusammen wohnen,
-die anderen bleiben wie dicker im Berwaltechause drüben.
+werden hier in diesem Hause mit Ihnen zusammen wohnen,
+die anderen bleiben wie bisher im Verwalterhause drüben.
 <@pagebreak/>
 Tun Sie so, als ob Sie dies aus sich selbst heraus
 wünschen. Schützen Sie vor, mit Ihrem Verlobten nicht
-unter einem. Dach schlafen zu wollen… Ich mache kein
-zieht daraus, daß Ihr Leben vielleicht Bengalen bedroht ist
+unter einem Dach schlafen zu wollen. Ich mache kein
+Hehl daraus, daß Ihr Leben vielleicht genau so bedroht ist
 wie das unsrige. Der Verbrecher wird nicht untätig bleiben.
-&r fürchtet uns.«
+Er fürchtet uns.«
 
 Ellen war noch bleicher geworden,
 
-»Was fürchten Sie für mich«
+»Was fürchten Sie für mich?«
 
 »Oh, das Testament kann nur so ausgelegt werden, daß
 im Falle Ihres Todes Ihr Legat von einer halben Million
-»in den Yaupterben fällt, also an Gauner Kurzer, Ihrem
-Wdhwlegervater. Nach hiesigen. Recht. sind Warger und
-ie erst Erben, wenn das Testament gerichtlich anerkannt
-ist. Also ist auch Samuel! Warger in seine ernster Gefahr,«
+an den Haupterben fällt, also an Samuel Warger, Ihrem
+Schwiegervater. Nach hiesigem Recht sind Warger und
+Sie erst Erben, wenn das Testament gerichtlich anerkannt
+ist. Also ist auch Samuel Warger in sehr ernster Gefahr,«
 
-»Das … verstehe ich nicht!, Mr. Ungarn. Was hätte
-der … der Betreffende davon, uns zu beseitigenY! Dann
+»Das … verstehe ich nicht, Mr. Harst. Was hätte
+der … der Betreffende davon, uns zu beseitigen?! Dann
 fiele doch alles an den Staat.«
 
-»Gewißn Der Mann ganz niemandem diesen Besitz.
+»Gewiß. Der Mann gönnt niemandem diesen Besitz.
 Das ist’s!«
 
 »Ah, — — und … und vorhin benahm sich Shell
@@ -387,21 +369,21 @@ so eigentümlich, als das Testament gefunden war! Mein
 Gott, ist Shell der falsche Crack?!«
 
 »Vielleicht … — Würden Sie mich fragen, ob es
-Märchen ist, würde ich auch mit »Vielleicht« antworten.
+Maxson ist, würde ich auch mit »Vielleicht« antworten.
 Wenn ich hier vorhin sagte, einer der hier versammelt
 Gewesenen ist der Verbrecher, so möchte ich dies doch
-daheim einschränken, daß ich bisher niemand mit aller Bestimmtheit
-ungünstigen könnte. Sie hätten also die Wahl
-ewigen Maxson, Shell, Warger und Lage. Tom sdädzeidet
+dahin einschränken, daß ich bisher niemand mit aller Bestimmtheit
+anschuldigen könnte. Sie hätten also die Wahl
+zwischen Maxson, Shell, Warger und Lyne. Tom scheidet
 aus. Die genannten vier sind so ziemlich von einer Größe,
 gegen jeden liegen Verdachtsmomente vor …«
 
 Ellen warf achselzuckend ein: »Meinen Schwiegervater
-braunen Sie wohl auf streichen, Mr. Harst.« Es lag
+können Sie wohl auch streichen, Mr. Harst.« Es klang
 etwas gereizt.
 
 <@pagebreak/>
-»Ich streiche niemand, Miß Ellen, Die Zahl kann sich nur
+»Ich streiche niemand, Miß Ellen. Die Zahl kann sich nur
 verringern, wenn bestimmte Ereignisse eintreten.«
 
 »Und die wären?«
@@ -413,7 +395,7 @@ Harald leise.
 verhüten?!«
 
 »In Ihrem Interesse zunächst, dann auch in meinem
-eigenen und Schlau, schließlich im Interesse der endgültigen
+eigenen und Schrauts, schließlich im Interesse der endgültigen
 Überführung des Schuldigen.«
 
 Ellen senkte den Kopf. »Ich wünschte, ich wäre in Dawson
@@ -422,43 +404,43 @@ haben mir die Lebensfreude genommen, Mr. Harst.«
 
 Harald trat zu ihr und ergriff ihre schlaff herabhängende
 Hand. »Machen Sie sich auf das Schlimmste gefaßt,
-aber seien Sie stark. Denken Sie an Tom!
+aber seien Sie stark. Denken Sie an Tom!«
 
-»Ich will’s versuchen.« Sie raffte sich) auf. Wohl adbsichtlu)
-wechselte sie das Thjzema. »Wo wollen Sie schlafen,
-meine Perlen? Dieses Blockhaus enthält fünf Zimmer.«
+»Ich will’s versuchen.« Sie raffte sich auf. Wohl absichtlich
+wechselte sie das Thema. »Wo wollen Sie schlafen,
+meine Herren? Dieses Blockhaus enthält fünf Zimmer.«
 
 »Nebenan,« sagte Harald. »Nebenan, wo der Eingang
-Ei? den geheimen Treppen sich befindet, die hinab in das
+zu den geheimen Treppen sich befindet, die hinab in das
 Höhlengebiet führen, das sich bis zu dem Heißen Tale
-Di:iziebt. Die Existenz dieses zweiten Ausgangs ist jetzt
-Eisen hier bekannt. Und Sie, Miß Ellen, werden sich ei?
-Bett hier im Arbeitszimmer aufstellen lassen, Nachts wird
-die Verbindungstür nur angelehnt, Weitere Vorsichtsmaßregeln
+hinzieht. Die Existenz dieses zweiten Ausgangs ist jetzt
+allen hier bekannt. Und Sie, Miß Ellen, werden sich ein
+Bett hier im Arbeitszimmer aufstellen lassen. Nachts wird
+die Verbindungstür nur angelehnt. Weitere Vorsichtsmaßregeln
 behalte ich mir vor.«
 
 Ellen nickte. »Ich vertraue Ihnen. — Ist … ist Tom
-aus in Gefahr?«
+auch in Gefahr?«
 
 Harst zögerte etwas. »Jeder hier, Miß Ellen, jeder!
 Sie werden das später verstehen. Aber ich werde mit
-Tom sprechen, und er wird dann?zum nachts etwas zu
+Tom sprechen, und er wird dann kaum noch etwas zu
 fürchten haben.«
 
-»Ich danke Ihnen …« Ihre Wangen röteten, sich,
-»Wenn Tom stürbe, wäre das Fuchs mein Ende … Ich
+»Ich danke Ihnen …« Ihre Wangen röteten sich.
+»Wenn Tom stürbe, wäre das auch mein Ende … Ich
 <@pagebreak/>
-bin so liebeleer durch; das Dasein gegangen. Ich habe
-meinen Pflegevater trotzdem sehr gern gehabt. Er war ein.
-rauben, verbitterter Mann, aber er war nicht schlecht. Meine
-für mich hätte er alles hingegeben. Die Verbrauchen hier
+bin so liebeleer durch das Dasein gegangen. Ich habe
+meinen Pflegevater trotzdem sehr gern gehabt. Er war ein
+rauher, verbitterter Mann, aber er war nicht schlecht. Nein,
+für mich hätte er alles hingegeben. Die Verbrechen hier
 auf der Tanana-Farm begannen ja auch erst vor fünf
-Jahren, als dieser Betrüger seine Rolle zu spielen Massa
+Jahren, als dieser Betrüger seine Rolle zu spielen wagte.
 Da erst fühlte ich natürlich auch eine Entfremdung zwischen
-uns, aber ich lernte den unechten Crack ja erst nach« Moment
+uns, aber ich lernte den unechten Crack ja erst nach meiner
 Rückkehr aus dem Pensionat in San Franzisko kennen.
-Setzt, wo ich Old Cracks Grabstätte weiß, werde ich nachher in
-der Hohle hinabsteigen und dort beten.«
+Jetzt, wo ich Old Cracks Grabstätte weiß, werde ich nachher in
+der Höhle hinabsteigen und dort beten.«
 
 »Aber — nicht allein. Wir kommen mit,« sagte Harald
 eindringlich.
@@ -467,17 +449,17 @@ Bevor ich nun die weiteren Ereignisse schildere, muß
 ich folgendes bemerken. Auch ich hatte keine Ahnung, wer
 der Verbrecher sein könnte. Haralds Angaben kamen mir
 genau so überraschend wie unserer blonden jungen Freundin.
-Der einzige, der mir verdächtig erschien, war Pollizatinspektor
-Shell. Sein mühseliges Um! zwang ihn zu
-dauernden Reisen, und er war derjenige der der FananaFarm
+Der einzige, der mir verdächtig erschien, war Polizeiinspektor
+Shell. Sein mühseliges Amt zwang ihn zu
+dauernden Reisen, und er war derjenige der der Tanana-Farm
 am nächsten wohnte, nämlich in Jacksonville, genau
-westlich der Tanana-Berge an der Bahnlinie na; Dawson
+westlich der Tanana-Berge an der Bahnlinie nach Dawson
 City, das bekanntlich bereits Kanada gehört. Freilich war
 dieser Verdacht nur sehr oberflächlich begründet, denn auch
 Lyne und besonders Charlie Maxson waren genau so belastet,
 wenn der Ausdruck »belastet« überhaupt berechtigt war.
 Natürlich schied Samuel Warger gänzlich aus. Harald hatte
-ihm wohl nur mit einbezogen, um vor Ellen die Dinge
+ihn wohl nur mit einbezogen, um vor Ellen die Dinge
 noch dunkler zu gestalten. Den Grund hierfür sah ich nicht
 recht ein, doch — Harst tut nichts, ohne sich die Sache sehr
 genau zu überlegen.
@@ -485,85 +467,19 @@ genau zu überlegen.
 Zum besseren Verständnis mag die einfache Skizze
 dienen, die mir lange Beschreibungen der Örtlichkeit erspart,
 Die Skizze ist auf einer Seite für sich wiedergegeben.
+
 <@pagebreak/>
-kaum.
-
-Wade an zum Ton wir So an an an Mr,
-
-Treppe in die
-
-Straße T »y«
-
-O
-
-Fenster
-
-Entsetzens
-hinab
-Unqgestellienwohnhaus
-
-e
-
-2
-
-Co
-
--
-
-Ww
-
-in Nr …
-& Ab
-
-— (in
-
-UV
-
-62
-
-u
-
-Co …
-
-ich
-
-Vorrats- ö wo
-
-Haus
-Fragte
-es! erster
-
-kaum Zement ad
-
-Holz … rüde
-
-Eingang zu Cracks Haus
-
-Unser Schlafzimmer
-
-Cracks Arbeitszimmer
-
-Flur Eisens Zimmer
-
-Ellens Wintertages
-Zimmer
-
-Dunkles
-Zimmer
-
-4
-
-Kleiner Felsen
+<div class="img"><img alt="Skizze der beiden Felsen. Oben ist der große Felsen, auf diesem befindet sich links oben das Angestelltenwohnhaus, links unten das Vorratshaus mit Fenster a und rechts das Verwaltungsgebäude mit Fenster b. Nach oben geht die Treppe in die Hochebene hinab, nach unten kommt die Holzbrücke zum kleinen Felsen. Auf dem kleinen Felsen steht Old Cracks Haus. Links oben befindet sich das Schlafzimmer von Harst und Schraut mit Fenster c. Links unten liegt Cracks Arbeitszimmer. In der Mitte oben befindet sich der Flur, unten das dunkle Zimmer. Rechts oben ist Ellens Zimmer, rechts unten ihr bisheriges Zimmer." src="Skizze.png" style="width: 100%; height: auto;"/></div>
 
 <@pagebreak/>
 
 Die Gebäude waren sämtlich Blockhäuser mit Steinfundament,
-die Fenster überall Doppelfenster-. In dem
-»wollen Zimmer« hatte Crack geschlafen. Es hatte nur
-eine Luftklappe nach; Süden und zwei Türen, Ding in
+die Fenster überall Doppelfenster. In dem
+»dunklen Zimmer« hatte Crack geschlafen. Es hatte nur
+eine Luftklappe nach Süden und zwei Türen, eine in
 den kleinen Flur, die andere in das Arbeitszimmer.
 
-Das Kreuz neben der Brücke bezeichne! die Stelle,
+Das Kreuz neben der Brücke bezeichnet die Stelle,
 wo der erste Mord stattfand.
 
 Der Kreis in unserem Schlafzimmer deutet die Geheimtür
@@ -572,46 +488,46 @@ Treppen und in die Höhle gelangte. — —
 
 <h2>3. Kapitel.</h2>
 
-Wir gingen nun mit Ellen in unser Schlafzimmer Görlitzer,
-das bisher eine Art Bibliothek und Waffenkominsr
-gewesen. Ellen wollte wissen, wo sie die Betten für ww;
-ausstellen lassen sollte,
+Wir gingen nun mit Ellen in unser Schlafzimmer hinüber,
+das bisher eine Art Bibliothek und Waffenkammer
+gewesen. Ellen wollte wissen, wo sie die Betten für uns
+aufstellen lassen sollte,
 
-Während Harald mit ihr hierüber beriet, war !(k& a«
-das Fenster c getreten, von wo aus ich den großen Lassen,
-die Brücke und einen weiten Teil der im Winterscnucl
-daliegenden Hochebene überblicken konnte. Ich sah) Inspektor
-Lyne dort unten um die linke Ecke des großen Verlag
+Während Harald mit ihr hierüber beriet, war ich an
+das Fenster c getreten, von wo aus ich den großen Felsen,
+die Brücke und einen weiten Teil der im Winterschmuck
+daliegenden Hochebene überblicken konnte. Ich sah Inspektor
+Lyne dort unten um die linke Ecke des großen Felsens
 biegen und gemütlich eine Zigarette rauchen. Er wollte
-offenbar unter der Brücke Beinbruch nach Sitzen zu Furcht
+offenbar unter der Brücke hindurch nach Osten zu einen
 Spaziergang unternehmen. Er hatte seine Büchse über der
-Schulter. Hielten gedachte er ein wenig auf die Hand
-zu gehen. Er schaute zu mir nach oben, erkannte rasch
-am Fenster und winkte mir lebhaft mit dem letzten Arme
-zu. Plötzlich stockte er mitten im Dahinschreiten, sein Und
+Schulter. Vielleicht gedachte er ein wenig auf die Jagd
+zu gehen. Er schaute zu mir nach oben, erkannte mich
+am Fenster und winkte mir lebhaft mit dem rechten Arme
+zu. Plötzlich stockte er mitten im Dahinschreiten, sein Arm
 sank jäh herab, er drehte sich um sich selbst und fiel dann
-mit dem Gesicht nach unten in den Schnee und lag soll.
+mit dem Gesicht nach unten in den Schnee und lag still.
 
-Im ersten Augenblick dachte ich an eilten Herzschlag.
-Sofort verwarf ich den Gedanken und knallte scharf gab;
+Im ersten Augenblick dachte ich an einen Herzschlag.
+Sofort verwarf ich den Gedanken und spähte scharf nach
 <@pagebreak/>
-dem großen Felsen hinüber. Da war es mir, als ob hast
+dem großen Felsen hinüber. Da war es mir, als ob das
 Fenster a des Vorratshauses hastig zugezogen wurde, und
 hinter dem Fenster b glaubte ich undeutlich eine Gestalt
-zu bemerken, die rasch verschwand, Dem bleichen Gesicht
+zu bemerken, die rasch verschwand. Dem bleichen Gesicht
 nach konnte es Shell gewesen sein.
 
-Es war jetzt um die Mittagszeit nicht mehr so dämmerige
+Es war jetzt um die Mittagszeit nicht mehr so dämmerig
 wie bisher. Die Beleuchtung glich der bei einem sehr stark
-wolkigen Himmel. Wohlverstanden: Glich! Denn kein Wollten
+wolkigen Himmel. Wohlverstanden: Glich! Denn kein Wölkchen
 war zu sehen. Wir befanden uns eben in der düsteren
-hilflosen Zeit der ewigen Polarnacht.
+lichtlosen Zeit der ewigen Polarnacht.
 
-Ich Dienste mich nach Harald und Ellen um. Meine
+Ich drehte mich nach Harald und Ellen um. Meine
 hastige Bewegung machte Harst aufmerksam. Er fragte
 überstürzt:
 
-»Wer ist’s91«
+»Wer ist’s?!«
 
 »Lyne!«
 
@@ -622,91 +538,91 @@ sie zurück. »Es ist nichts für Sie, Kind,« sagte ich stockend.
 Sie starrte mich an. »Was ist mit Inspektor Lyne?«
 
 Harst rannte an uns vorüber, — über die Brücke,
-Zynischen den Gebäuden des großen Felsens hindurch und
+Zwischen den Gebäuden des großen Felsens hindurch und
 kam uns aus den Augen.
 
-Ellen klammerte sich an mir fest. Ihr geistecbleiches
+Ellen klammerte sich an mir fest. Ihr geisterbleiches
 Gesicht tat mir ordentlich weh.
 
-»Ein … Mord — — der Mord?« hauchte sie,
+»Ein … Mord — — *der* Mord?« hauchte sie,
 
-»Ich; weiß nicht … Bleiben Sie hier. Schließen Sie
-sich in Gras Arbeitszimmer ein und halten Sie eine
-Pistole bereit. Lassen Sie niemand ein, wer es auch, sei
-— nur Rom, nur den. Ich muß fort …«
+»Ich weiß nicht … Bleiben Sie hier. Schließen Sie
+sich in Cracks Arbeitszimmer ein und halten Sie eine
+Pistole bereit. Lassen Sie niemand ein, wer es auch sei
+— nur Tom, nur den. Ich muß fort …«
 
 Sie nickte matt. »Lieber Gott, — wie soll das enden?!«
 
 Ich schob sie durch die Tür. Sie schloß ab. Ich lief
 Harald nach, aber ich bog hinter der Verbindungsbrücke
-sofort nach links ab. Die Tür des Vorratshauses war Vers
-schlossen. Sie hatte zwei Eisenstangen und zwei Vorlegeschlösser,
+sofort nach links ab. Die Tür des Vorratshauses war Verschlossen.
+Sie hatte zwei Eisenstangen und zwei Vorlegeschlösser.
 Es war die einzige Tür. Ich rannte um das
 <@pagebreak/>
 Haus herum nach Fenster a. Ich hoffte feststellen zu
 können, ob das Fenster geöffnet worden war, dann mußte
 ja der angewehte Schnee weggedrückt sein. Es war so.
-Und — — auf dem schmalen, mit Flasche benagelten
+Und — — auf dem schmalen, mit Zinkblech benagelten
 Fenstersims lag ein Schlüssel mit kompliziertem Bart,
-zweifellos ein Geldschrankschlüssel, und unter drein Schlüssels
+zweifellos ein Geldschrankschlüssel, und unter dem Schlüssel
 ein Stück Papier mit dem getippten Wort:
 
-Yukon.
+<p class="centered">Yukon.</p>
 
-Ich begriff sofort: Es war der Schlüssel zu Crack?!?
-Tresor, und »Yukon« war das Stichwort zu dem Koi:tbinationsschloß.
-— ’IF steckte beides zu mir und tief
-hinüber ins Verwaltungsgebäude, raste den lang’:« Bitte«.
-Flur entlang und stieß die Tür des Eqckzimmers »ist. zu b25
-das Fenster b gestörte. Hier hatte sich gestern abend Spitze-.
-Tor Chell einquartiert, und Shell lag hier auf seinem Pech;
-in dem überheizten Raum und schnarchte fürchterlich. Irr
+Ich begriff sofort: Es war der Schlüssel zu Cracks
+Tresor, und »Yukon« war das Stichwort zu dem Kombinationsschloß.
+— Ich steckte beides zu mir und lief
+hinüber ins Verwaltungsgebäude, raste den langen Mittelflur
+entlang und stieß die Tür des Eckzimmers auf, zu dem
+das Fenster b gehörte. Hier hatte sich gestern abend Inspektor
+Shell einquartiert, und Shell lag hier auf seinem Bett
+in dem überheizten Raum und schnarchte fürchterlich. Ich
 traute ihm nicht. Im Gegenteil: Ich hatte ja die Tür
-so geräuschvoll ausgestoßen, daß schon ein erstaunlich fester
+so geräuschvoll aufgestoßen, daß schon ein erstaunlich fester
 Schlaf dazu gehörte nicht munter zu werden, und Shell
-simulierte Szene offenbar, Ich beobachtete ihn eine Weile,
+simulierte ganz offenbar. Ich beobachtete ihn eine Weile,
 dann rüttelte ich ihn.
 
 »Hallo, Inspektor!!«
 
-Er gähnte, blinzelte mich an und fluchte … »ÖG,
-was wollen Hier!«
+Er gähnte, blinzelte mich an und fluchte … »He,
+was wollen Sie?!«
 
-»Lyne ist etwas passiert …
+»Lyne ist etwas passiert …«
 
-Da richtete er sich auf,! Kannte jedoch hin und her
-wie ein Trunkener und meinte lallend: »Teufel von mal,
+Da richtete er sich auf, schwankte jedoch hin und her
+wie ein Trunkener und meinte lallend: »Teufel noch mal,
 was ist denn mit mir geschehen?! Mir … mir ist so
-wirr im Kopf … Und … was … was riecht ich nur
-Das … das ist doch… Chloroform — —4 bei Haltet’s
+wirr im Kopf … Und … was … was rieche ich nur?
+Das … das ist doch … Chloroform — — bei Gott!!«
 
-Er nahm sich mächtig zusammen und (diente nicht an und
+Er nahm sich mächtig zusammen und stierte mich an und
 fügte hinzu:
 
 »Riechen Sie es nicht auch?«
 
-»Nein!« sagte ich bar!,
+»Nein!« sagte ich hart,
 
 <@pagebreak/>
-Ich beugte mich herab, und da erst spürte zuckten ich
+Ich beugte mich herab, und da erst spürte auch ich
+an seinem Kinn deutlichen Chloroformdunst.
 
-an seinem Kinn deutlichmen Chloroformdunst.
-Brettern: dieser geriebene Fuchs sollte frisch nicht Ohrring
-legen! Ich hatte sein blasses Gesicht vor kaum fünf Minuten
+Trotzdem: dieser geriebene Fuchs sollte mich nicht hineinlegen!
+Ich hatte sein blasses Gesicht vor kaum fünf Minuten
 hier am Fenster gesehen, und so leicht führt man mich nicht
-in die Irre!!
+in die Irre!
 
-»Bleiben Sie liegen!« befahl im und drohte ist mia
-der Pistole. »Ich s!schieße bestimmt, wenn Sie sich auch nur
+»Bleiben Sie liegen!« befahl ich und drohte ihm mit
+der Pistole. »Ich schieße bestimmt, wenn Sie sich auch nur
 rühren!«
 
 Er glotzte mich blöde an. »Sind Sie verrückt geworden,
 Schraut?! Was soll das?!« Sein Gesicht verzerrte sich
-plötzlich vor Wut. »leer, ich bin hier einziger oberster Vertreter
-der amerikanischen Staatsautorität, und …
+plötzlich vor Wut. »Herr, ich bin hier einziger oberster Vertreter
+der amerikanischen Staatsautorität, und …«
 
-Er wollte auftauchen. Er halte nett die Beharrliche wie
-dem Emailleschild auf dem Kopf. Als diese Mutter Unten
+Er wollte aufspringen. Er hatte noch die Pelzmütze mit
+dem Emailleschild auf dem Kopf. Als diese Mütze hinten
 gegen die Wand flog und das grelle Peng des Schusses
 ihn ebenso warnte, sank er fluchend zurück. »Das sollen Sie
 büßen, Sie … Sie deutscher Spitzel, Sie!!«
@@ -716,58 +632,58 @@ Tür. Der Schuß hatte ihn herbeigelockt.
 
 »Was geht hier vor, Mr. Schraut?!«
 
-Maxson sah meine Pistole und erschreckte zurück.
+Maxson sah meine Pistole und schreckte zurück.
 
-»Riemen leer, Warten,« befahl ich. »Shell wünscht ein
+»Riemen her, Maxson,« befahl ich. »Shell wünscht ein
 wenig festgebunden zu werden … Er hat sich Chloroform
 ans Kinn geschmiert …«
 
-Märchen rannte davon. Ich hörte ihn schreien: »Mister
-Warger … Mr. Wannsee …!!«
+Maxson rannte davon. Ich hörte ihn schreien: »Mister
+Warger … Mr. Warger …!!«
 
 Dann erschien Samuel Warger, im Munde eine Zigarre,
-in der Fund ein Du).
+in der Hand ein Buch.
 
-»Kanus!« Er isolierte mich an. »Sie selten ja so kriecherisch
-aus, Mischtrank?! Und Sie, Inspektor …«
+»Nanu?!« Er lächelte mich an. »Sie sehen ja so kriegerisch
+aus, Mister Schraut?! Und Sie, Inspektor …«
 
 Shell schoß empor …
 
-»Hund, — Und … »1« Und er hatte. mich bei der
-Kelle … Wir stürzten zu Boden Aber ich hatte mich
+»Hund, — — Hund …!« Und er hatte mich bei der
+Kehle … Wir stürzten zu Boden. Aber ich hatte mich
 blitzschnell gedreht, kam oben zu liegen und drückte ihm die
 <@pagebreak/>
 Mündung an die Stirn … Er mochte wohl merken, daß
-49 abdrücken würde, und ächzte nur 1xulb von Eingang
+ich abdrücken würde, und ächzte nur halb von Sinnen:
 
 »Ins Zuchthaus kommen Sie Hund!!«
 
-Der Muatltimillionär bitte sich und fragte: »Was ist
-denn eigentlich los, Mr. England?«
+Der Multimillionär bückte sich und fragte: »Was ist
+denn eigentlich los, Mr. Schraut?«
 
-Im Flur dröhnten Schritte. Rom stürzte herein.
+Im Flur dröhnten Schritte. Tom stürzte herein.
 
 »Vater … Vater, Inspektor Lyne ist draußen erschossen
-worden …!! Kopfschuß! — Art) — — das ist gut, Mister
+worden …!! Kopfschuß! — Ah — — das ist gut, Mister
 Schraut, — da haben Sie den Schuft ja schon! Ich traute
 ihm seit heute nicht …«
 
 Maxson kam mit Riemen.
 
-Shell war mit einem Male ganz ruhig — unbelaubt
-ruhig. Er ließ sich fesseln, wir richteten ihn auf und danken
-ihn dann auf seinem Bett seist.
+Shell war mit einem Male ganz ruhig — unheimlich
+ruhig. Er ließ sich fesseln, wir richteten ihn auf und banden
+ihn dann auf seinem Bett fest.
 
-»Also Sie!!« sagte Samuel Warger verächtlich »Sie
+»Also Sie!!« sagte Samuel Warger verächtlich. »Sie
 sind’s! Und Lyne haben Sie umgebracht, weil er es ahnte.«
 
-In diese Szene platzte Harst hinein. Er!chaute Shell
+In diese Szene platzte Harst hinein. Er schaute Shell
 an und meinte:
 
-»Geht alle hinaus — alle! —« Schraut, warte vor
+»Geht alle hinaus — alle! — Schraut, warte vor
 der Tür.«
 
-Er warf die Für hinter uns ins Schloß
+Er warf die Tür hinter uns ins Schloß
 
 Ich erzählte den beiden Wargers und Maxson kurz,
 was ich beobachtet und gefunden hatte.
@@ -776,19 +692,19 @@ was ich beobachtet und gefunden hatte.
 ungläubig. »Das kann wohl nicht sein … Zeigen Sie
 mal her, Schraut?«
 
-»Bedauere,« weigerte ich mich »Nur in Harsts Gegenwart.«
+»Bedauere,« weigerte ich mich. »Nur in Harsts Gegenwart.«
 
 »Meinetwegen …! — Beruhigen Sie sich doch … Sie
-sind ja von immer ganz blaß… — Sollte man es für
+sind ja noch immer ganz blaß … — Sollte man es für
 möglich halten, daß Shell dieser raffinierte Komödiant und
-Mörder gewesen ritt! Shell ist voll wahrlich kein Schrecklich
-…! Außerdem: Wenn Chell auf Lyne gefeuert hätte,
+Mörder gewesen ist?! Shell ist doch wahrlich kein Geisteslicht
+…! Außerdem: Wenn Shell auf Lyne gefeuert hätte,
 würde ich den Schuß gehört haben. Ich logiere ja nur zwei
-Zimmer weiter, und ich; habe tadellose Ohren.«
+Zimmer weiter, und ich habe tadellose Ohren.«
 
 <@pagebreak/>
-»Ich habe Ja Fuchs nichts gehört, Vater, « meinte Ton!.
-»Und ich wohne neben Shell, und die Zimmer Waren eine
+»Ich habe Ja auch nichts gehört, Vater,« meinte Tom.
+»Und ich wohne neben Shell, und die Zimmer haben eine
 Verbindungstür. Ich habe nichts gehört, nichts!«
 
 Wir blickten uns ratlos an.
@@ -796,43 +712,44 @@ Wir blickten uns ratlos an.
 Dann fiel mir etwas ein.
 
 »Meine Herren, erinnern Sie sich an die Ereignisse, die
-uns hier nach Alaska loten. Joe Smith, der Freund des
-unechten Crack wurde von diesem in Berlin mit einer Luftdruck;
-se erschossen. Wenn Shell Crack ist, hat er eben auch hier
+uns hier nach Alaska lockten. Joe Smith, der Freund des
+unechten Crack wurde von diesem in Berlin mit einer Luftdruckbüchse
+erschossen. Wenn Shell Crack ist, hat er eben auch hier
 die Luftbüchse benutzt!«
 
-»Das wäre denn doch eine zu große Dummheit!« aha
-Samuel Warger diese Annahme entsdj)ieden zum!. »Tom,
+»Das wäre denn doch eine zu große Dummheit!« wies
+Samuel Warger diese Annahme entschieden zurück. »Tom,
 hast du gehört, daß Shell in seinem Zimmer hin und her
 ging?«
 
-»Feine Rede, Vater! Er schnarchte unglaublich.«
+»Keine Rede, Vater! Er schnarchte unglaublich.«
 
 »Ja — um andere Geräusche zu übertönen,« nickte ich.
-»Er erwachte auch, als ich.
+»Er schnarchte auch, als ich …«
 
 Da öffnete Harald die Tür und winkte uns.
 
-»Bitte … kommen Sie herein. Shell leugnet Baldachin.
-1 wollen das Zimmer durchsuchen.«
+»Bitte … kommen Sie herein. Shell leugnet hartnäckig.
+Wir wollen das Zimmer durchsuchen.«
 
-Ich mich zum Fenster. Ich sah, daß der lachte Flügel
+Ich ging zum Fenster. Ich sah, daß der rechte Flügel
 geöffnet worden war. Der Schnee vom Sims war auch
-nix weggedrückt.
+hier weggedrückt.
 
 Die Durchsuchung förderte nichts Belastendes zutage.
 
-»gebt ihn vom Bett herunter!« befahl Harst schließlich.
+»Hebt ihn vom Bett herunter!« befahl Harst schließlich.
 
-Zwischen Madras und Unterbett fanden wir so ein
-Reines Fläschchen mit einer geringen Menge Chloroform.
+Zwischen Matratze und Unterbett fanden wir so ein
+kleines Fläschchen mit einer geringen Menge Chloroform.
 
 »Shell,« sagte Harald ernst, »Sie täten wirklich klüger,
-
 das Leugnen aufzugeben.«
-»he seid alle verrückt!« geiferte Shell. »Ich werde euch
-alle …
-»Bindet ihm wieder auf dem Bett fest. — Schraut,
+
+»Ihr seid alle verrückt!« geiferte Shell. »Ich werde euch
+alle …«
+
+»Bindet ihn wieder auf dem Bett fest. — Schraut,
 berichte.«
 
 Ich schilderte das Beobachtete nun ganz eingehend.
@@ -840,14 +757,14 @@ Ich schilderte das Beobachtete nun ganz eingehend.
 Harald wurde nachdenklich.
 
 <@pagebreak/>
-»Ekel kann unmögliche gleichzeitig im Vorratshaus und
+»Shell kann unmögliche gleichzeitig im Vorratshaus und
 hier in seinem Zimmer gewesen sein,« meinte er. »Mithin
 hat er noch einen Helfershelfer. — Maxson, wo waren Sie
 denn in den letzten zehn Minuten?«
 
 Maxson stöhnte kläglich. »Nun wird natürlich alles auf
 mir sitzenbleiben …!! Hätte ich nur den Mut gehabt,
-sofort zu Ihnen zu kommen, Herr Harst …!k«
+sofort zu Ihnen zu kommen, Herr Harst …!!«
 
 »Weshalb?!«
 
@@ -855,21 +772,21 @@ sofort zu Ihnen zu kommen, Herr Harst …!k«
 den Schlüssel und den Zettel mitten auf dem Sofatisch
 liegen!!«
 
-Kapitel.
+<h2>4. Kapitel.</h2>
 
 »Wann denn?« forschte Harald ungläubig.
 
-»Ich will alles setzten … Und ich schwöre, es ist
+»Ich will alles erzählen … Und ich schwöre, es ist
 die Wahrheit …« Er weinte beinahe vor Aufregung. »Als
 wir vom kleinen Felsen kamen und Sie, Mr. Harst, und Ihr
-Freund und Miß Ellen dort zurückblieben, wollten die r)erren
-nicht spazieren gehen und begaben sich auf ihre Zimmer,
+Freund und Miß Ellen dort zurückblieben, wollten die Herren
+nicht spazieren gehen und begaben sich auf ihre Zimmer.
 Mr. Warger, der Ältere, schickte mich dann hier nach
 oben auf den Boden. Er wollte etwas zu lesen haben. Ich
 hatte ihm schon gestern abend erzählt, dort stände eine
 Kiste mit Büchern. Ich holte ihm fünf Romane und brachte
 sie ihm. Mr. Warger wusch sich gerade die Hände und
-schenkte mir eine seine Zigarre.«
+schenkte mir eine feine Zigarre.«
 
 »Das stimmt alles,« bestätigte der Millionär.
 
@@ -877,38 +794,38 @@ schenkte mir eine seine Zigarre.«
 fragte Harald zerstreut.
 
 »Vielleicht fünf Minuten … Ich mußte die Kiste erst
-öffnen. — Als ich dann mit der seinen Zigarre mein Zimmer
-betrat, schnitt ich die Spitze ab und wollte sie gleich »vorigen.
-Die Hündischer lagen neben der Petroleumlamvpe aus den!
+öffnen. — Als ich dann mit der feinen Zigarre mein Zimmer
+betrat, schnitt ich die Spitze ab und wollte sie gleich rauchen.
+Die Zündhölzer lagen neben der Petroleumlampe auf dem
 <@pagebreak/>
 Sofatisch. Und da sah ich den Schlüssel und den Zettel liegen.
-Ich erkannte den Schnitzel sofort als den des Tresors und
+Ich erkannte den Schlüssel sofort als den des Tresors und
 bekam einen fürchterlichen Schreck. Ich wollte Schlüssel und
 Zettel, die mich doch nur in Verdacht bringen konnten, mit
-bei Betrüger verbündet zu sein, zuerst irgendwo verstecken.
+dem Betrüger verbündet zu sein, zuerst irgendwo verstecken.
 Dann aber sagte ich mir, es sei doch besser, wenn der
 schöne Tresor nicht gewaltsam aufgebrochen zu werden
-brauchte, und so schlich ich denn zur Westseite des Vorratsswonses,
+brauchte, und so schlich ich denn zur Westseite des Vorratshauses,
 wo eins der Fenster, wie ich wußte, keine Haken
-Wege hatte, sondern nur zugedrückt war. Ich öffnete Brust
-der Messerklinge und legte Schlüssel und Zettel dort
-wieder, wo sie am leisteten gefunden werden konnten. Wenn
+mehr hatte, sondern nur zugedrückt war. Ich öffnete es
+mit der Messerklinge und legte Schlüssel und Zettel dort
+nieder, wo sie am leisteten gefunden werden konnten. Wenn
 jemand über die Brücke kam, mußte er sie sehen. Mister
-schrammt hat nur noch bemerkt, wie ich das »Fenster, (a)
-s!schloß. — Das ist die Wahrheit. — Etwas möchte ich nacht
-einzigen. Neben dem Schlüssel und dem Zettel auf meinem
-Gojatisch lagen noch Nauchkabakkrümdien von einem hellen
-Großschnittabak. Ich rauchte nur Zigarren. Aber bei Inspektor
-Frei habe ich ähnlichen Tabak gesehen. Dort liegt ja paar
-seit Tabakbeutel.«
+Schraut hat nur noch bemerkt, wie ich das Fenster, (a)
+schloß. — Das ist die Wahrheit. — Etwas möchte ich noch
+erwähnen. Neben dem Schlüssel und dem Zettel auf meinem
+Sofatisch lagen noch Rauchtabakkrümchen von einem hellen
+Grobschnittabak. Ich rauchte nur Zigarren. Aber bei Inspektor
+Shell habe ich ähnlichen Tabak gesehen. Dort liegt ja auch
+sein Tabakbeutel.«
 
-Dort nahm diesen und fragte: »Liegen die Fläschchen
-894) auf Ihrem Tisch, Maxson«
+Harst nahm diesen und fragte: »Liegen die Krümchen
+noch auf Ihrem Tisch, Maxson?«
 
-»a.
+»Ja.«
 
 Harald verließ das Zimmer, kam aber sehr bald zurück.
-»öa, es ist derselbe Tabak,« erklärte er. »Shell ist noch
+»Ja, es ist derselbe Tabak,« erklärte er. »Shell ist noch
 mehr belastet. — Maxson, rufen Sie Shells Wachtmeister
 Herbei.«
 
@@ -916,63 +833,63 @@ Der Polizeiwachtmeister Söterland war entsetzt, als Harst
 ihm die Sachlage schilderte …
 
 »… Die Verdachtsmomente sind derart schwerwiegend,
-wie Sie sehen, daß Ihr Vorgesetzter von Ihnen in aller Fort
-verhaftet werden muß. Sie sind hier nun die oberste Amts
-Person, und Sie tragen die Verantwortung für den See
-Gefangenen Nehmen Sie ihn mit in den großen Raum, wo
+wie Sie sehen, daß Ihr Vorgesetzter von Ihnen in aller Form
+verhaftet werden muß. Sie sind hier nun die oberste Amtsperson,
+und Sie tragen die Verantwortung für den
+Gefangenen. Nehmen Sie ihn mit in den großen Raum, wo
 <@pagebreak/>
-Sie und Ihre Leute untergebracht sind. Legen Sie ihm Handschelle::
+Sie und Ihre Leute untergebracht sind. Legen Sie ihm Handschellen
 an und dann kommen Sie wieder hierher.«
 
 Söterland zauderte. »Wo ist die Luftbüchse, Mr. Harst?«
 meinte er verlegen. »Mir wollen Ihre Verdachtsgründe nicht
-roch! ausreichen. Ich komme in Teufels Bückte, wenn ich mich
+recht ausreichen. Ich komme in Teufels Küche, wenn ich mich
 hier verhaue. Inspektor Shell kann ja unmöglich der unechte
-Grad sein.« …
+Crack sein.«
 
 »Unmöglich ist hier nichts, Söterland. Da — sehen
-Sie sich mal Shells Gesicht an, den!rcheuen Blick. Ein
+Sie sich mal Shells Gesicht an, den scheuen Blick. Ein
 gutes Gewissen offenbart sich anders.«
 
-Stadt lachte höhnisch). »Söterland, holen Sie nie-2
+Shell lachte höhnisch. »Söterland, holen Sie unsere
 Leute — — sofort!! Dann werden wir hier reinen Tisch
-machen — — und gründlich!!
+machen — — und gründlich!!«
 
-Der Wachtmeister, ein riesiger Bursche mit ein van
-vicdfsagendun Taschen auf der Alten, zuckte die Mitteln…
+Der Wachtmeister, ein riesiger Bursche mit ein paar
+vielsagenden Narben auf der Stirn, zuckte die Achseln.
 
-»Mr. dzar)t, ich halte Stier nicht mit. Dr Inspektor ist
-ein Ehrenmann, und, … ««
+»Mr. Harst, ich halte hier nicht mit. Der Inspektor ist
+ein Ehrenmann, und, …«
 
 »Halt, — wo ist Shells Karabiner?« rief Harald und
-blickte sie suchend um. »Heute früh) stand dort in der Eckx
+blickte sich suchend um. »Heute früh stand dort in der Ecke
 ein Karabiner … Ich war hier im Zimmer und borgte
-mir von Chell Zündhölzer.« — Er ging zum Fenster,
+mir von Shell Zündhölzer.« — Er ging zum Fenster,
 öffnete es und beugte sich hinaus.
 
 Die beiden Felswürfel, auf denen die Häuser errichtet
-wären, hatten an den Rändern deutliche ’Mauern. Vor der
+waren, hatten an den Rändern brusthohe Mauern. Vor der
 Mauer dicht vor dem Fenster sah ich nun ebenfalls in
-dem hohen Schnee einen länglichen Kindern. Harst stieg
+dem hohen Schnee einen länglichen Eindruck. Harst stieg
 zum Fenster hinaus, bückte sich, griff in den Schnee und
 brachte einen Karabiner zum Vorschein, kam wieder herein
-und jagte zu Shell, der ihn grimmig anstierte:
+und sagte zu Shell, der ihn grimmig anstierte:
 
 »Sie haben mit einem Schalldämpfer geschossen, —
-Wasser hörte niemand den Knall! Der Schalldämpfer wird
+daher hörte niemand den Knall! Der Schalldämpfer wird
 wohl unten am Felsen im Schnee liegen, Sie geriebener
 Halunke!«
 
-Sekt wurde ich stutzig, denn ich besann mich genau,
-daß der Karabiner vorhin bei der Durchsuchung den Taumelt
+Jetzt wurde ich stutzig, denn ich besann mich genau,
+daß der Karabiner vorhin bei der Durchsuchung des Zimmers
 <@pagebreak/>
-noch in der Fensterecke gestanden hatte. Oder hatte ich) mich
-doch getrost! Glaubte im nur den Karabiner gesehen zu
-haben?! …
+noch in der Fensterecke gestanden hatte. Oder hatte ich mich
+doch geirrt?! Glaubte ich nur den Karabiner gesehen zu
+haben?!
 
-Ich schwieg. Immerhin erschien mir die Sachlage daraus
+Ich schwieg. Immerhin erschien mir die Sachlage durchaus
 nicht mehr so ganz klar, und der Umstand, daß Harald
-so lange mit Shell hier allein gewesen und uns anders
+so lange mit Shell hier allein gewesen und uns andere
 hinausgeschickt hatte, gab mir ebenfalls zu denken.
 
 Doch Shells Benehmen zerstreute meine ungewissen Vermutungen
@@ -984,63 +901,63 @@ entschied:
 
 »Tut mir leid, Inspektor: Sie sind verhaftet!
 
-Ekel wurde abgeführt.
+Shell wurde abgeführt.
 
-Söterland kehrte gleich) zurück und sagte empört: »Jetzt
+Söterland kehrte gleich zurück und sagte empört: »Jetzt
 ist mir jeder Zweifel geschwunden. Shell hat sich in seiner
 ohnmächtigen Wut verraten. Er brüllte uns zu: »Beweisen
 soll man mir was — — beweisen!« und dann biß er
 sich auf die Lippen und verstummte. Er erkannte wohl,
-daß er nun ganz verspielt hatte. Meine Heult« sind so
-entrüstet, daß sie ihn am liebsten hängen mochten.«
+daß er nun ganz verspielt hatte. Meine Leute sind so
+entrüstet, daß sie ihn am liebsten hängen möchten.«
 
 Der Riese Söterland war für meinen Geschmack denn
-Dom allzu sehr in Rage. Mir erschien seine Aufregung
+doch allzu sehr in Rage. Mir erschien seine Aufregung
 etwas erkünstelt. Überhaupt: Ich fand, daß Harald diese
 schwerwiegende Entscheidung mit einiger Übereilung herbeigeführt
 hatte. Am zweifelhaftestem war doch, daß Shell einen
-Sdczalldämpfer, bekanntlich ein besonders konstruiertes Aufsatzstück
-für die Gcewehrmündung, das den Knall erheblich
+Schalldämpfer, bekanntlich ein besonders konstruiertes Aufsatzstück
+für die Gewehrmündung, das den Knall erheblich
 abschwächt, mit sich geschleppt haben sollte. Zumindest hätten
 wir danach suchen müssen. Und dann hätte sich doch auch
-unschwer feststellen lassen, ob Shell in der frischen Zeit
-Dezember-Ganz« in Alaska Seewesen oder nicht. War gar
-Hier gewesen, so konnte er Flucht Crack der Unechte sein
-Ferner fragte ich mich, wie es möglich gewesen, daß Man,
+unschwer feststellen lassen, ob Shell in der kritischen Zeit
+Dezember-Januar in Alaska gewesen oder nicht. War er
+Hier gewesen, so konnte er nicht Crack der Unechte sein.
+Ferner fragte ich mich, wie es möglich gewesen, daß Tom,
 der doch nebenan wohnte und Shells Schnarchen gehört
 <@pagebreak/>
-haben wollte, nicht auf meinen Pistolenschuß bin sofort
+haben wollte, nicht auf meinen Pistolenschuß hin sofort
 sein Zimmer verlassen hatte. Schließlich fand ich Charlie
 Maxsons Begründung für das heimliche Niederlegen des
-Schlüssels und des Zettels auf dem Fenstersims recht ruderte;
-einig. Wenn ich trotzdem dies alles für mich behielt,
+Schlüssels und des Zettels auf dem Fenstersims recht fadenscheinig.
+Wenn ich trotzdem dies alles für mich behielt,
 geschah es lediglich in Rücksicht auf Harald. Ich wollte ihn
 vor den anderen nicht bloßstellen. Sobald wir allein waren,
-würde im ihn schon vornehmen und ihm all dies unter
-die Nase reiben. Ich wurde eben das Gefühl nicht ins,
+würde ich ihn schon vornehmen und ihm all dies unter
+die Nase reiben. Ich wurde eben das Gefühl nicht los,
 daß hier so etwas Theater gespielt wurde, mit Harst als
-Regisseur. Ich konnte mich irren — konnte. Es sich edel
+Regisseur. Ich konnte mich irren — konnte. Es hieß eben
 abwarten.
 
-»Mr. Söterland,« sagte Harst ein wenig feierlich., »v«:«
-können nun den Tresor öffnen. Sie als Amtsperson müsse.
-darüber ein Protokoll aufnehmen, genau wie über Knall
+»Mr. Söterland,« sagte Harst ein wenig feierlich, »wir
+können nun den Tresor öffnen. Sie als Amtsperson müssen
+darüber ein Protokoll aufnehmen, genau wie über Shells
 Verhaftung. Wir unterzeichnen es als Zeugen. Sie müssen
-sich den Rücken Seen.«
+sich den Rücken decken.«
 
 Im Büro ganz vorn am Eingang stand der mächtige
 Panzerschrank.
 
 Söterland nahm den Schlüssel, stellte dann das Kombinationsschloß
 auf den Namen »Yukon« ein, und die schwere
-Für ging geräuschlos auf.
+Tür ging geräuschlos auf.
 
-Wir blickten neugierig in den Schrank hinein. Er Satz
-vier noch besonders gepanzerte Fächer. In Fragen Schlössern
+Wir blickten neugierig in den Schrank hinein. Er hatte
+vier noch besonders gepanzerte Fächer. In diesen Schlössern
 steckten zu unserem Erstaunen die Schlüssel.
 
-Samuel Warger meinte, wir würden wohl außer Goa
-shufisebüchhern und Ähnlichen nichts finden. — Shell würde
+Samuel Warger meinte, wir würden wohl außer Geschäftsbüchern
+und Ähnlichem nichts finden. — Shell würde
 das Bargeld längst beiseite geschafft haben.
 
 Das stimmte auch,
@@ -1051,83 +968,83 @@ geraume Zeit in Anspruch, und erst gegen halb zwei nachmittags
 konnten wir dem dringenden Mahnen des chinesischen
 Kochs, uns zu Tisch zu setzen, Folge leisten.
 
-Ich holte raten auf Bestien herbei und erzählte ihre
+Ich holte rasch auch Ellen herbei und erzählte ihr
 <@pagebreak/>
 alles Nötige. Sie sagte nur, sie habe gleich gewußt, daß
 Shell der Verbrecher sei. Sie war nun sehr ruhig und
 sehr gleichgültig. Wir aßen in einem langen dreifenstrigen
-Zimmer des großen Verwaltungsgebäudes alle. gemeinsam,
+Zimmer des großen Verwaltungsgebäudes alle gemeinsam,
 auch die Polizeibeamten. Nur einer war als Wache bei
 Shell zurückgeblieben.
 
 Über dem sauber gedeckten Tisch brannten drei Hängelampen.
-Es gab eine Nudelsuppe, dann zgespikten Nenntierrüfen
+Es gab eine Nudelsuppe, dann gespickten Renntierrücken
 und nachher Renntierkäse mit Butter und Kaffee.
-Es war eine recht ungemutlidje Mahlzeit. Auf uns allen
-lastete das Geschehene wie arg Abdruck. Die Unterhaltung
-sä)leppte sich träge hin. Das einzig Erheiternde war unser
+Es war eine recht ungemütliche Mahlzeit. Auf uns allen
+lastete das Geschehene wie ein Albdruck. Die Unterhaltung
+schleppte sich träge hin. Das einzig Erheiternde war unser
 Brautpaar.
 
 Als wir beim Nachtisch angelangt waren, stürzte plötzlich
-einer der Tlinaliindianer herein.
+einer der Tlinkitindianer herein.
 
-»Sie fliehen!« brüllte der Wann. »Sie fliehen!! Sie
+»Sie fliehen!« brüllte der Mann. »Sie fliehen!! Sie
 reiten auf Renntiere davon!!«
 
-»Vers!« brüllte Söterland noch lauter und warf seinen
+»Wer?!« brüllte Söterland noch lauter und warf seinen
 Stuhl um.
 
-»Mr. Shell und sein Wöäcter!!’
+»Mr. Shell und sein Wächter!!«
 
 Eine wilde Jagd begann. Wir stürmten hinaus und
 die Steintreppe hinab, die an der Nordseite des großen
-Felsens in die Hochebene hinabführte. Die, Felswände beider
+Felsens in die Hochebene hinabführte. Die Felswände beider
 Steinwürfel, auf denen die Gebäude standen, waren vollkommen
 senkrecht und mindestens zehn Meter hoch. Nicht
-zu Vorsicht hatte man immer von Old Gras Festung
+zu Unrecht hatte man immer von Old Cracks Festung
 gesprochen.
 
-Im Laufen zogen wir die Felsloche über. Draußen war
-es bitterkalt. Die eisige Luft benahm uns fast den Atom.
-Nach Norden zu lagen noch) mehrere »steigern Blockhäuser,
-in denen die verheirateten Eskimos und Tlinkits wohnen.
-Wir fanden alle Angestellten und Hirten vor der Sunda
-versammelt, in der die zu Zugtieren und Neutralen gezähmten
-Klacdsoots (Klapperfüße — Renntieren untergebracht waren.
-Wien sattelte bereits einige Tiere und spannte andere vor
+Im Laufen zogen wir die Pelzröcke über. Draußen war
+es bitterkalt. Die eisige Luft benahm uns fast den Atem.
+Nach Norden zu lagen noch mehrere kleinere Blockhäuser,
+in denen die verheirateten Eskimos und Tlinkits wohnten.
+Wir fanden alle Angestellten und Hirten vor der Hürde
+versammelt, in der die zu Zugtieren und Reittieren gezähmten
+Klackfoots (Klapperfüße — Renntiere) untergebracht waren.
+Man sattelte bereits einige Tiere und spannte andere vor
 <@pagebreak/>
 die Schlitten. Auch Hundeschlitten wurden bereit gemacht.
 Immerhin vergingen kostbare Minuten. Von den Flüchtlingen
-war nichts mehr zu sehen. Sie halten sich) nach Süden gewandt,
+war nichts mehr zu sehen. Sie hatten sich nach Süden gewandt,
 wo ein Paß durch die Randberge in das Heiße
-Saal führte.
+Tal führte.
 
-Die spärliche Tageshelle war schon wieder im Schwindeau.
-In einer Sachen Stunde müßte es dunkel sein, und zu
-allem Ne; zog noch Gewölk herauf und drohte mit Schneefall.
+Die spärliche Tageshelle war schon wieder im Schwinden.
+In einer halben Stunde mußte es dunkel sein, und zu
+allem Pech zog noch Gewölk herauf und drohte mit Schneefall.
 
-Ich brauche mich mit der Sdpilderung der ergebnislosen
-Verfolgung nicht aufzuhalten. Wir fanden die beiden Berittene,
-die die Flüchtlinge benutzt hatten, ahne halbe Meile
-nach Süden in einem kleinen Kiefernwald. Es schaute
-und alle weiteren Bemühungen waren zur flog. Wir kehrten
-um. Söterland war verzweifelt. Harst beschuldigte die Es«-
-Times und die Tlinkits, den Flüchtlingen geholfen zu haben.
-Diese Kerle — es waren etwa kräftig insgesamt — waren
+Ich brauche mich mit der Schilderung der ergebnislosen
+Verfolgung nicht aufzuhalten. Wir fanden die beiden Renntiere,
+die die Flüchtlinge benutzt hatten, eine halbe Meile
+nach Süden in einem kleinen Kiefernwald. Es schneite
+und alle weiteren Bemühungen waren zwecklos. Wir kehrten
+um. Söterland war verzweifelt. Harst beschuldigte die Eskimos
+und die Tlinkits, den Flüchtlingen geholfen zu haben.
+Diese Kerle — es waren etwa dreißig insgesamt — waren
 von uns schon gestern abend entwaffnet worden. Aber ihr
 freches Benehmen und ihre höhnischen Gesichter warnten uns.
-Zu der Hauptfarm gehörten noch) zehn Außenstationen mit
+Zu der Hauptfarm gehörten noch zehn Außenstationen mit
 weiteren sechzig Hirten, und wenn diese von ihren Freunden
 herbeigerufen wurden, konnte es einen üblen Tanz geben.
 
-Harst riet denn auch Söterland, den großen Frischen
+Harst riet denn auch Söterland, den großen Felsen
 scharf bewachen zu lassen. Der kleine Felsen, auf dem Cracks
-Haus Jim erhob, war deshalb weniger gefährdet, weil er
-ernannt höher als der andere war und sich weiter auch
+Haus sich erhob, war deshalb weniger gefährdet, weil er
+einmal höher als der andere war und sich weiter auch
 die Steilwände stark nach innen wölbten. Ein Erklettern
 selbst mit Hilfe von Bäumen oder Leitern war unmöglich.
 
-Gegen Beruf Uhr nachmittags trat Ruhe ein. Die Posten
+Gegen fünf Uhr nachmittags trat Ruhe ein. Die Posten
 waren verteilt, die Treppe durch Balken gesperrt und die
 Eskimos und Tlinkits, die im Angestelltenhause gewohnt
 hatten, sämtlich in die Ebene nach den dortigen Blockhütten
@@ -1145,53 +1062,53 @@ Old Cracks Festung drohte eine Belagerung.
 <h2>5. Kapitel.</h2>
 
 Wie ernst die Lage war, zeigte sich, als wir beide
-treu Wunsche Ellens nachgebend, mit ihr in die Höhle hinabsteigen.
+dem Wunsche Ellens nachgebend, mit ihr in die Höhle hinabsteigen
 wollten. Wir fanden die eine Treppentür verrammelt
 und mußten umkehren. Es steckten also auch schon eine
-Unzahl Gegner in der Höhle. Der Besucht des Grabes Old
-Grade mußte unterbleiben.
+Unzahl Gegner in der Höhle. Der Besuch des Grabes Old
+Cracks mußte unterbleiben.
 
 Um sechs Uhr hatte sich Ellen dann in ihrem bisherigen
-Salon (Eiche Skizzen ein wenig niedergelegt. Sie
-war müde und abgespannt. Wir beide heizten die Dessen in
-Krebs Haus zur Nacht mit Steinkohlen und schlossen die
-Fensterladen, Tom half uns. Er war sehr bedrückt. Für
-»inen!ü verliebten Bräutigam mußte der Gedanke, daß es
-Hier zu ernsthaften Schießereien kommen könnte, sehr den«-
-rutschend sein. Nachher entfernte er sie über die Brücka
-starrt riet ihm, nicht aufrecht zu gehen und noch ein weises
-denken umzuhängen, das ihn völlig unsichtbar machen würde.
+Salon (siehe Skizze) ein wenig niedergelegt. Sie
+war müde und abgespannt. Wir beide heizten die Öfen in
+Cracks Haus zur Nacht mit Steinkohlen und schlossen die
+Fensterladen. Tom half uns. Er war sehr bedrückt. Für
+einen so verliebten Bräutigam mußte der Gedanke, daß es
+Hier zu ernsthaften Schießereien kommen könnte, sehr beunruhigend
+sein. Nachher entfernte er sich über die Brücke.
+Harst riet ihm, nicht aufrecht zu gehen und noch ein weises
+Laken umzuhängen, das ihn völlig unsichtbar machen würde.
 Wir warteten in der offenen Haustür, bis er drüben angelangt
 war. Das Schneetreiben hatte nachgelassen, und
 im Norden zeigten sich bereits helle Streifen, offenbar
-die Verboten von Nordlichtern. Es war jetzt ziemlich hell.
+die Vorboten von Nordlichtern. Es war jetzt ziemlich hell.
 Wir bemerkten unten in der Ebene Trupps von Renntieren,
-die den Schnee wegscharrien und das dicke Moos knabberten,
+die den Schnee wegscharrten und das dicke Moos knabberten.
 Ich war bis an die Umfassungsmauer getreten, auf der hier
 und dort große Steine lagen, hinter denen man gedeckt war.
-Die stillen, fremden Reize dieser Bergs, die den: Polargebiet
+Die stillen, fremden Reize dieser Berge, die dem Polargebiet
 <@pagebreak/>
 so nahe waren, bezauberten mich abermals. Dort,
-wo die Nordlichter nun immer farbenprächtiger aufsuchen,
+wo die Nordlichter nun immer farbenprächtiger aufzuckten,
 wo die Randberge des unendlichen Hochplateaus an den
 Gipfeln wie in Sonnenglut erstrahlten und ferne, farbige
 Riesenscheinwerfer ihre Lichtkegel durch bunte Linsen gegen
 den ausgestirnten Himmel zu werfen schienen, — — dort
-lag das eiSgerjtarrte Land meiner Sehnsucht. Schon als
+lag das eiserstarrte Land meiner Sehnsucht. Schon als
 Knabe hatte nichts mich so gepackt als Schilderungen von
-Nordpolexpeditionen. Morgens »In Nacht und Eis« kannte
+Nordpolexpeditionen. Nansens »In Nacht und Eis« kannte
 ich stellenweise auswendig. Nun war dieses Sehnen zum
-Teil erfüllt worden, denn Alaska ist die Schwelle einer!
+Teil erfüllt worden, denn Alaska ist die Schwelle einer
 kurzen Treppe, die emporführt zum Märchenpalast der Eiskönigin
 aus Andersens Geschichten. Vielleicht ist das Märchen
-von der Schneekönigin das schönste, das der seinen Phantasie
+von der Schneekönigin das schönste, das der feinen Phantasie
 Andersens entsprang. Diese rührende Geschichte von
 dem Knaben, dem ein Splitterchen eines zerborstenen Zauberspiegels
 in den Körper dringt und der dann von seiner
-kleinen Gespicelin gerettet wird, enthält tiefe Gedanken und
+kleinen Gespielin gerettet wird, enthält tiefe Gedanken und
 erschien mir hier nun wie ein Vorbild für Tom und Ellen.
 
-Harald war neben mich) getreten. An er war ergriffen.
+Harald war neben mich getreten. Auch er war ergriffen.
 
 »Mein lieber Alter,« sagte er weich und schob seinen
 Arm in den meinen, »ich bereue es schon deinetwegen nicht,
@@ -1201,96 +1118,96 @@ empfangen, und wenn du nachher deinen Lesern diese Wochen
 hier oben in Alaskas Bergen wiedererzählen wirst, werden
 sie begreifen, daß auch dieses Land nicht nur materielle
 Werte birgt. — Gehen wir hinein, ich bekomme kalte
-Füße.
+Füße.«
 
 Dann saßen wir in Old Cracks Arbeitszimmer vor dem
 mächtigen Ofen, dessen Außentür noch offen war. Die Steinkohlen
-knallten und knisterten, und der See mit Whisky
-feuerte meine Gedanken an und bei einer guten Klaren
+knallten und knisterten, und der Tee mit Whisky
+feuerte meine Gedanken an und bei einer guten Zigarre
 sprach ich von meinem Argwohn, Shell könnte doch schuldlos
-und ein anderer der Verbrecher Hain … »Seine Tracht
+und ein anderer der Verbrecher sein … »Seine Flucht
 <@pagebreak/>
 ist mir kein neuer Beweis gegen ihn. Er mag dem Beamten,
 der ihn bewachte, manches mitgeteilt haben … Du sagtest,
 er habe ihn bestochen. Das glaube ich nicht. — Jetzt rede du!«
 
 Harst hatte den Kopf in die Hand gestützt und wippte
-sinnend mit der Fußspitze. Sein von der Kälte gerötete
-Gesicht war scheinbar voller und erschien mir- wie fremd.
+sinnend mit der Fußspitze. Sein von der Kälte gerötetes
+Gesicht war scheinbar voller und erschien mir wie fremd.
 Allmählich erkannte ich, daß um seinen scharfen Mund Falten
-seelischen Qualen lagen.
+seelischer Qualen lagen.
 
 »Was hast du, Harald?«
 
 Er blickte nicht auf. »Zuweilen ist es schmerzlich, Menschen
-und Dinge so bar zu durchschauen,« sprach er müde.
-»EStymerzlich deshalb, weil man anderen Schmerz bereiten
+und Dinge so klar zu durchschauen,« sprach er müde.
+»Schmerzlich deshalb, weil man anderen Schmerz bereiten
 muß, die ahnungslos den Ereignissen gegenüberstehen.«
 
-»Ehe?! ist nicht der unechte Crack,« meinte ich Zehnmal.
+»Shell ist nicht der unechte Crack,« meinte ich bestimmt.
 
 Er nahm sein Zigarettenetui, öffnete es und gab mir
 einer schmalen Streifen Papier, den er unter die Zigaretten
-Behörden hatte.
+geschoben hatte.
 
-Ruf dem Zettel mit Bleistift:
+Auf dem Zettel mit Bleistift:
 
-»4 komme um halb acht heimlich zu Ihnen. Halten
+»Ich komme um halb acht heimlich zu Ihnen. Halten
 Sie bitte die Haustür offen. — Maxson.«
 
-»Morgen streckte mir den Zettel zu, als wir vorhin den
-Atem Lyne in dem kleinen Zimmer drüben auskosteten.«
-Akt treueste. »In mir ist ein schwerer Zwiespalt. Ich kann
-ungläubig jagen: Ich habe auch Gewissensbisse. Vielleicht hätte
-16) den Mord verhindern können. Maxson ist sehr schlau,
-legt »ie.
+»Maxson steckte mir den Zettel zu, als wir vorhin den
+armen Lyne in dem kleinen Zimmer drüben aufbahrten.«
+Er seufzte. »In mir ist ein schwerer Zwiespalt. Ich kann
+ruhig sagen: Ich habe auch Gewissensbisse. Vielleicht hätte
+ich den Mord verhindern können. Maxson ist sehr schlau,
+sehr …!«
 
 »Wie — — er ist der Verbrecher?!«
 
 »Mein Alter, du suchst herum wie ein Blinder, dem
 man die Lettern in falsche Kästen getan hat, so daß er immer
-corbeigreift, wenn er ein Wort zusammenstellen will.«
+vorbeigreift, wenn er ein Wort zusammenstellen will.«
 
-»Möchtest du nicht endlich) etwas eindeutiger sprechen?!«
+»Möchtest du nicht endlich etwas eindeutiger sprechen?!«
 
 Er beugte sich vor, zog mit der Stiefelspitze die Innentür
-des Offene auf und verbrannte den Zettel. Die Tür war fast
-weißglühend nottat Leder zischte und ein Sei! als verabreitete
+des Ofens auf und verbrannte den Zettel. Die Tür war fast
+weißglühend und das Leder zischte und ein Gestank verbreitete
 sich, als er die Tür zuschob.
 
 <@pagebreak/>
-»Ich unterstütze nie deine Blindheit,« erwiderte er. »Fertig
+»Ich unterstütze nie deine Blindheit,« erwiderte er. »Lerne
 sehen, lerne alles Beiwerk wegwischen und du hast ihn.«
 
-»Ehe schon gesagt. Das Beiwerk ist Ader undurchdringlich.«
+»Sehr schön gesagt. Das Beiwerk ist aber undurchdringlich.«
 
 Wir horchten auf. Draußen waren ein paar Schüsse
 gefallen. Aber dann blieb es still.
 
-»Vorposteugeplänkel, mein Alter. Ich wollte, wir könnten
+»Vorpostengeplänkel, mein Alter. Ich wollte, wir könnten
 die hier vorhandenen Patronen und Büchsen verdoppeln.
 Vielleicht leben wir alle morgen früh nicht mehr. Crack
 wird uns abschlachten lassen — alle. Crack nenne ich den
-unechten. Crack. Der setzte ist für mich Old Crack. Es wird
-eine tolle Nachbar geben, und es werden hier Indianer«
-Geschichten wieder ausleben. Old Crack soll an die steckte
-Trinkt-Indianer gehabt haben, und Crack mag die »5.
-noch erhöht haben. Es sind wilde, verwegene, stahlharte Kerle:
-und wunderbare Schützen. Denke an die Grotte an kam
-warmen Bach, als sie deine Puppe durchschritten.«
+unechten Crack. Der echte ist für mich Old Crack. Es wird
+eine tolle Nacht geben, und es werden hier Indianergeschichten
+wieder aufleben. Old Crack soll an die siebzig
+Tlinkit-Indianer gehabt haben, und Crack mag die Zahl
+noch erhöht haben. Es sind wilde, verwegene, stahlharte Kerle
+und wunderbare Schützen. Denke an die Grotte an dem
+warmen Bach, als sie deine Puppe durchlöcherten.«
 
 »Ich werde das nie vergessen.«
 
 Und wieder horchten wir, denn die Bohlen der Brücke
 dröhnten unter eilenden Männerstiefeln.
 
-Harst ging schnell hinaus und öffnete die Haustür,
-Vor uns stand Samuel Warger, den Tom stützte. Warge’
-blutete aus einem Streifschuß an der linken Schläfe. Ton
-war kreidebleich, Samuel war messe tot als lebendig.
+Harst ging schnell hinaus und öffnete die Haustür.
+Vor uns stand Samuel Warger, den Tom stützte. Warger
+blutete aus einem Streifschuß an der linken Schläfe. Tom
+war kreidebleich, Samuel war mehr tot als lebendig.
 
-»Ich habe Goa gesehen …« stöhnte Tom. »Crack —
-mit grauweipem Bart … Ohr) — — es ist furchtbar!«
+»Ich habe Crack gesehen …« stöhnte Tom. »Crack —
+mit grauweißem Bart … Oh — — es ist furchtbar!«
 
 Wir legten den Multimillionär auf das Sofa, und Harst
 verband die Wunde sorgfältig. Nur hier in Cracks Haus
@@ -1298,10 +1215,10 @@ gab es Medikamente und Verbandszeug.
 
 Folgendes war unten im Verwaltungsgebäude geschehen.
 Als Tom, von uns kommend, den langen Flur dieses
-Hauses entlangschritt, hatte er bei der Ausfallen Beleuchtung
-durch nur drei Petroleumlämnpaz)en am Fuße der
+Hauses entlangschritt, hatte er bei der miserablen Beleuchtung
+durch nur drei Petroleumlämpchen am Fuße der
 schmalen Treppe, die zum Boden emporführte, eine Gestalt
-geschehen, die ihm verdächtig erschien. Er I(chaltete seine
+gesehen, die ihm verdächtig erschien. Er schaltete seine
 <@pagebreak/>
 Taschenlampe ein und zog seine Pistole. Der Lichtkegel
 der Lampe zeigte ihm einen Menschen, der genau so aussah,
@@ -1309,66 +1226,66 @@ wie Old Crack oder Crack ihm immer beschrieben
 worden war. Er hatte ja weder den Echten noch den Unechten
 jemals zu Gesicht bekommen. Er erschrak so sehr, daß er
 leider zu schießen vergaß. Zufällig trat jetzt sein Vater aus
-seiner Zimmertür, Tom rief ihn herbei und schaltete gleich
-zeitig seine Taschenlampe aus, damit der Mensch droben
+seiner Zimmertür, Tom rief ihn herbei und schaltete gleichzeitig
+seine Taschenlampe aus, damit der Mensch droben
 auf dem Boden kein sicheres Ziel hätte. Der Multimillionär
-holte seine Pistole und meinte zu Tom, es sei voreilig der
-verkleidete Shell, man müsse vorsichtig sein. Er Schüsse Tom
+holte seine Pistole und meinte zu Tom, es sei sicherlich der
+verkleidete Shell, man müsse vorsichtig sein. Er schickte Tom
 in den großen Raum zu den Beamten, damit das Gebäude
 sofort umstellt würde. Dies geschah in wenigen Minuten.
-Als Rom sich der Bodentreppe wieder näherte, erstieg sein
-Vater die ersten Stufen. Plötzlich knallte von oben ein Hut,
+Als Tom sich der Bodentreppe wieder näherte, erstieg sein
+Vater die ersten Stufen. Plötzlich knallte von oben ein Schuß,
 und Samuel Warger taumelte seinem Sohne rückwärts in
 die Arme. Auf den Schuß hin stürzten Maxson und Wachtmeister
-Söterland aus ihren Ermitteln, und diese beiden Furche
-suchten den leeren Boden, der keinerlei Verlag läge hatte und
-wo nur einige Kisten standen. Sie fanden keine Seele,
+Söterland aus ihren Zimmern, und diese beiden durchsuchten
+den leeren Boden, der keinerlei Verschläge hatte und
+wo nur einige Kisten standen. Sie fanden keine Seele.
 Tom brachte seinen Vater dann zu uns. —
 
 Das Geschehnis war in vielen Punkten sehr seltsam.
 Nur so unbefangenen Gemütern wie den beiden Wargers
-und dem Riesen Schäferhund, der wohl tadellos schießen,
+und dem Riesen Söterland, der wohl tadellos schießen,
 aber weniger tadellos überlegen konnte, und der stets allerlei
-Spottreden für die sogenannten »seinen Detektive« bereit
+Spottreden für die sogenannten »feinen Detektive« bereit
 hatte, ohne uns damit treffen zu wollen, — nur diesen
-Menschen, die niemals sein geschützte Knoten eleganter
-Verbrecher gelöst hatten, und deren Logik äußerst primitiv,
-war, konnte dieser Schuß, auf Warger damit abgetan sein,
+Menschen, die niemals fein geschürzte Knoten eleganter
+Verbrecher gelöst hatten, und deren Logik äußerst primitiv
+war, konnte dieser Schuß auf Warger damit abgetan sein,
 daß sie eben annahmen, der Schütze sei aus einem der
-Bodenfenster hyzinausgesprungen.
+Bodenfenster hinausgesprungen.
 
 Harald hatte mir einen eigentümlichen Blick zugeworfen,
-als Rom zum Schluß noch bemerkte:
+als Tom zum Schluß noch bemerkte:
 
-»Mwöatürlid war es Inspektor Shell, und die Wachen
+»Natürlich war es Inspektor Shell, und die Wachen
 <@pagebreak/>
 draußen haben ihn eben ungehindert durchgelassen, sie sind
 unzuverlässig.«
 
 Jetzt mischte Harst für den Multimillionär in einem
 Wasserglase ein harmloses Beruhigungsmittel, das er unserer
-Reiseapotheke entnommen, den Samuel Warger war durch
+Reiseapotheke entnommen, denn Samuel Warger war durch
 den Blutverlust und den Schreck noch immer halb wirr. Er
-trank gehzvrsam, und Harald befahl Rom, bei ihm zu bleiben,
+trank gehorsam, und Harald befahl Tom, bei ihm zu bleiben,
 bis wir zurückkehrten.
 
-Da wir mit einem Kugelregen von unten rechnetenk,
-Kronen wir übel die Brücke hinweg. Zu unseren! Glück.
-»Wir hatten noch nicht die Hälfte der Brücke hinter ums,
-als der Tanz losging. Neun die Bohlen der Brücke nicht es
-dich und so stark mit Teer getränkt gewesen wären… würde
-die Geschosse aus den modernen Repetierbüchsen der war.
-verdammten Tlinkits wohl ihr Ziel erreicht haben. Unsere Posten.
-erwiderten sofort das Feuer, und die Knallerei schlief elf«
+Da wir mit einem Kugelregen von unten rechneten,
+krochen wir über die Brücke hinweg. Zu unserem Glück.
+Wir hatten noch nicht die Hälfte der Brücke hinter uns,
+als der Tanz losging. Wenn die Bohlen der Brücke nicht so
+dick und so stark mit Teer getränkt gewesen wären, würden
+die Geschosse aus den modernen Repetierbüchsen der
+verdammten Tlinkits wohl ihr Ziel erreicht haben. Unsere Posten
+erwiderten sofort das Feuer, und die Knallerei schlief erst
 ein, als wir längst im Verwaltungsgebäude waren.
 
 Hier trafen wir Söterland, der soeben an der Mauer
 einen Schuß in den linken Unterarm bekommen hatte und
-wie ein Berserker tobte. Der Riese war allen Gebietes entschlossen,
+wie ein Berserker tobte. Der Riese war allen Ernstes entschlossen,
 mit zehn seiner Leute einen Ausfall zu machen und
 das Pack draußen zu verjagen. Über die Schußwunde lachte
 er. Es war nicht seine erste. Harst riet dringend ab. »Es
-sind sicherlich ein halbes Hundert von den Burschen draußen,
+sind sicherlich ein halbes Hundert von den Burschen draußen.
 Sie würden nicht mal lebend die Treppe hinabkommen,
 Söterland.« — Das sah der tapfere Hüne denn auch ein.
 
@@ -1376,18 +1293,19 @@ Wir betraten Maxsons Zimmer. Der Diener saß am
 Ofen und … stopfte seine wollenen Socken und rauchte.
 
 »Stehen Sie auf, Maxson. Es wird Zeit, Sie auszuschalten.
-Streifen Sie die Hände vor!«
+Strecken Sie die Hände vor!«
 
 Harsts Clementpistole war noch eindrucksvoller. Maxson
-wurde Käfig im Gesicht. Ich fesselte ihm.
+wurde käsig im Gesicht. Ich fesselte ihn.
 
-Söterland stand mit offenem Wunde dabei. Auch ich war
+Söterland stand mit offenem Munde dabei. Auch ich war
 verblüfft.
 
-24()
+<@pagebreak 34/>
 
-<@pagebreak/>
-Das große Rätsel.
+<h1>Das große Rätsel.</h1>
+
+<h2>1. Kapitel.</h2>
 
 … — — Auch ich war verblüfft. Immer dunkler wurde
 das Rätsel. Ich hatte blindlings gehorcht und Charlie Maxson
@@ -1757,8 +1675,8 @@ sehr. Sie sind ein fabelhafter Dummkopf. — Nun lassen
 Sie sich wieder Gasrohr. — Söterland, nehmen Sie ihn
 im Ihre Obhut.«
 
-Der Riese ut den berausgesHossenen Zähnen knurrte
-etwas unfehlbar Beteidigendes … Es klang wie »Ucbersgeschnappt!«
+Der Riese mit den herausgeschossenen Zähnen knurrte
+etwas unfehlbar Beleidigendes … Es klang wie »Übergeschnappt!«
 und konnte sich lediglich auf Harst beziehen,
 Dann zog er mal seinem grinsenden Gefangenen ad.
 
@@ -1938,7 +1856,7 @@ Feuers Musik hier oben in Alaska so sehr geliebt
 wird, kann uns Deutsche stolz machen. ’Ich bin auch sehr
 Salz … — « Vergiß nicht Wagners Meistersinger.«
 
-Ich hatte bereits gemerkt, daß all diese scheinbar znsammenhanglosen
+Ich hatte bereits gemerkt, daß all diese scheinbar zusammenhanglosen
 Reden Haralds ganz Besonderes bedeuteten.
 Ich, achtete auf jedes Wort. Ich mußte ja schließlich dahinter
 kommen, was eigentlich der Knalleffekt sein würde,
@@ -2414,7 +2332,7 @@ einen Kampf geführt wie diesen. Ich bin mit den
 Nerven so ziemlich fertig. Ich habe seit gestern, als wir hier
 anlangten, dauernd auf der Lauer gelegen … Und dieser
 Zustand fortwährenden Überwachsamkeit hat mich auch Körpern
-beruntergebracht … Nur der Kaffee vorhin peitschte
+heruntergebracht … Nur der Kaffee vorhin peitschte
 wirr wieder auf … — Wie schön müßte es sein, Diese
 Polarnacht ohne dieses eile Beiwerk gewesen zu können.!!
 Ich bin wirklich müde. Der Feind bat bessere Nerven.

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">e7b5c398-eb29-4e4b-bcd5-b7a7b1df372a</entry>
+<entry key="title">Old Cracks wahres Gesicht</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">240</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Old Cracks wahres Gesicht.
+
+BESCHREIBUNGBESCHREIBUNGBESCHREIBUNG
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (240) Old Cracks wahres Gesicht.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1929</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
