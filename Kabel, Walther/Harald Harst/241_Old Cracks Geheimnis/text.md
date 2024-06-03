@@ -5,16 +5,16 @@
 <h2>1. Kapitel.</h2>
 
 Der einzige Gedanke, der meine Freude an dem Winterbilde
-beeinträchtigte. war der, daß in dieser Eis«- und Schnetwüste,
+beeinträchtigte, war der, daß in dieser Eis- und Schneewüste,
 in diesen ungeheuren Wäldern, Gebirgen und Schluchten
-ungezählt? Menschen der Gier nach«; Gold zum Opfer gefallen
+ungezählte Menschen der Gier nach Gold zum Opfer gefallen
 sind.
 
 Im übrigen fand ich es neben der schlanken hellbraunen
-Tuanatu äußerst behaglich in dem engen Renntiersditten,
-und was diese wilde Rose von Halbindianerin mir in ihre«:
-unglaublichen Kauderwelsch an indianische Sagen und Musiker
-während dieser Spazierfahrt erzählte, hätte ein Dunkelrote
+Tuanatu äußerst behaglich in dem engen Renntierschlitten,
+und was diese wilde Rose von Halbindianerin mir in ihrem
+unglaublichen Kauderwelsch an indianische Sagen und Märchen
+während dieser Spazierfahrt erzählte, hätte ein wundervolles
 Buch abgegeben.
 
 Wir waren mittags von der Tanana-Farm aufgebrochen,
@@ -23,14 +23,14 @@ Pflegetochter des echten Old Crack, weilten, nachdem der
 unechte Crack alias Karsten uns so keck entwischt war.
 Ich hatte mit Tuanatu gerade diese Mittagszeit gewählt,
 weil es bis gegen drei wenigstens leidlich hell war. Freilich,
-die Sonne mußte man sich zu diesem Winterbilde hinzudeuten.
-Im nördlichen Altan scheint sie im Winter nur
+die Sonne mußte man sich zu diesem Winterbilde hinzudenken.
+Im nördlichen Alaska scheint sie im Winter nur
 sehr spärlich, und der kurze Bogen, den sie, falls kein
 Gewölk vorhanden, über dem Horizont beschreibt, ist zu
 gering, um den Sonnenball als Wärmespenderin begrüßen
 zu können.
 
-221 Tuanatu und ihr Großvater Muschuk waren TSlinkitIndianer.
+Tuanatu und ihr Großvater Muschuk waren Tlinkit-Indianer.
 <@pagebreak/>
 Das Mädchen hatte jedoch einen weißen Vater
 gehabt, dessen Gebeine dort im Osten irgendwo in den
@@ -38,24 +38,24 @@ einstigen Goldminen von Klondyke bleichten. Sie hatte ihn
 nie gekannt, und nur Muschuk hatte sie aufgezogen. Vor
 zwei Jahren waren die beiden dann nach der Tanana-Farm
 gekommen, als der echte Old Crack längst tot war und
-sein diabolischen Stellvertreter mitten viel Geschick und Verschlagenheit
-hier und in Dawson-City die Rollen als Multimillionär
+sein diabolischer Stellvertreter mit so viel Geschick und
+Verschlagenheit hier und in Dawson-City die Rollen als Multimillionär
 Samuel Warger und Crack gleichzeitig gespielt
 hatte. Aber das wissen meine Leser alles bereits aus den
 vorhergehenden beiden Crack-Bänden, ebenso, daß die Renntierfarm
-auf einer sehr ausgedehnten Hochebene der Tanana Berge
+auf einer sehr ausgedehnten Hochebene der Tanana-Berge
 lag und fünf sogenannte »Stationen« hatte. Station
 bedeutet etwa das gleiche wie Vorwerk.
 
 Tuanatu, mit der ich mich in den letzten wenig ereignisreichen
 Tagen stark angefreundet hatte, war ein hübsches
-Madel mit blanken schwarzen Augen und jener natürlichen
+Mädel mit blanken schwarzen Augen und jener natürlichen
 Grazie, wie sie vielen Naturkindern eigen ist. Unser Ziel
-war die nördlichste Station, mitten im Gebirge gelesen, die
+war die nördlichste Station, mitten im Gebirge gelegen, die
 von einem Freunde des alten Muschuk geleitet wurde. Zu
-ihr gehörten rund zehntausend Jongliere, die in nahen ge
+ihr gehörten rund zehntausend Renntiere, die in nahen ge-
 schützen Tälern gehalten und von Eskimohirten bewacht
-wurden. Auf unserem Schlitten führten wir auf) Gewehre
+wurden. Auf unserem Schlitten führten wir auch Gewehr-
 Patronen und Raubtiergift für diese Hirten mit, denn die
 Wölfe waren in der letzten Zeit infolge der starken Kälte
 und des reichlichen Schneefalles aus Hunger sehr zudringlich
@@ -64,55 +64,55 @@ geworden.
 Wir hatten unsere Geschäfte auf der Station dann rasch
 erledigt und machten uns gegen zwei Uhr auf den Rückweg.
 
-Einen mit drei Veralteten in Reihe bespannten Schlitten
+Einen mit drei Renntieren in Reihe bespannten Schlitten
 zu lenken, ist gar nicht so einfach. Wenn das Leittier nicht
 tadellos eingefahren Ist, gibt es dauernd unliebsamen Aufenthalt.
 Tuanatu war nun eine glänzende Fahrerin, und
-wir sausten mit einer Geschwindigkeit dahin, die kein Hundes
+wir sausten mit einer Geschwindigkeit dahin, die kein Hunde-
 <@pagebreak/>
 Schlitten erreicht. Ich war wieder in glänzender Laune, und
-die junge Indianerin hatte gleichfalls einige Gläschen Ruhig?k
-vertilgt — nebst ungeheuren Mengen Renntierschinken Ruck
-Hartzwieback und Butter, die uns der Stationsleiter fern.
-bist vorgesetzt hatte.
+die junge Indianerin hatte gleichfalls einige Gläschen Whisky
+vertilgt — nebst ungeheuren Mengen Renntierschinken und
+Hartzwieback und Butter, die uns der Stationsleiter freundlichst
+vorgesetzt hatte.
 
 Freundlich war ja diese ganze Bande von Verwalter
-und Hirten und Angestellten. Was aber in Wirkliche:«
-Ton ihnen zu halten, das hatte die Belagerung der Farmgebäude
-gezeigt, Harald hatte mich denn zu vor Antritt der
-Fahrt ernstlich gewarnt. Gewiß, unser Todfeind Warger-Crack«-
-Karsten sollte nach Süden, nach Kalifornien, entwichen sein,
+und Hirten und Angestellten. Was aber in Wirklichkeit
+von ihnen zu halten, das hatte die Belagerung der Farmgebäude
+gezeigt. Harald hatte mich denn auch vor Antritt der
+Fahrt ernstlich gewarnt. Gewiß, unser Todfeind Warger-Crack-Karsten
+sollte nach Süden, nach Kalifornien, entwichen sein,
 aber Harst glaubte nicht daran, und der Detektiv aus dem
-großen Alaskahafen Sitka, den die Polizei na) der Farm
-Gesicht?! hatte, schien auch anderer Meinung zu sein. Ein
+großen Alaskahafen Sitka, den die Polizei nach der Farm
+geschickt hatte, schien auch anderer Meinung zu sein. Ein
 wenig angenehmer Mensch überhaupt, verschlossen und mürrisch
 und mit seinem knallroten Vollbart und seiner Schnapsnase
 auch äußerlich ein unsympathischer Patron, ganz im
 Gegenteil zu Ellen Barkams anderem neuen Gast, einem
-Händler aus Tag Franzisko, der gefrorenes Renntierfleisch
+Händler aus San Franzisko, der gefrorenes Renntierfleisch
 in größeren Mengen einkaufen wollte.
 
-Die Hufe der Nennt klapperten lustig, und neben mir
+Die Hufe der Renns klapperten lustig, und neben mir
 kicherte Tuanatu übermütig und trieb die Tiere durch
 Zurufe zu immer größerer Geschwindigkeit an. Wir waren
-vielleicht eine Stunde unterwegs und hatten gerade ritt
-Wäldchen von Balsamkiefern passiert, als wir mustert
-einer Gruppe weit zerstreuter Felsstücke jählings aus nie«
-völliger Sorglosigkeit aufgeschreckt wurden. Ein Schuß knallten.
+vielleicht eine Stunde unterwegs und hatten gerade ein
+Wäldchen von Balsamkiefern passiert, als wir inmitten
+einer Gruppe weit zerstreuter Felsstücke jählings aus unserer
+völligen Sorglosigkeit aufgeschreckt wurden. Ein Schuß knallte,
 und die Kugel riß mir die Pelzmütze vom Kopf und klatschte
 gegen einen nahen Stein.
 
-Im Nu hatte ich nahm der Remingtonbüchse Begriff«::
-und mich seitwärts aus dem Schlitten in den Schnee vollen
+Im Nu hatte ich nach der Remingtonbüchse gegriffen
+und mich seitwärts aus dem Schlitten in den Schnee rollen
 lassen. Zu meinem Glück. Denn es folgten noch zwei weitere
-Schüsse, die ebenso tadellos gezielt waren. Daß die Lagert
-fehlgingen, lag lediglich an dem allzu schlechter Licht und
+Schüsse, die ebenso tadellos gezielt waren. Daß die Kugeln
+fehlgingen, lag lediglich an dem allzu schlechten Licht und
 <@pagebreak/>
-an einem Schneeigen, in das ich wie ein Hase, der sich
+an einem Schneeloch, in das ich wie ein Hase, der sich
 überschlägt, hinabpurzelte. Immerhin hatte der zweite Schuß
 die linke Schulter gestreift.
 
-Ich) Wrack in der Vertiefung eilends zum nächsten Felsen,
+Ich kroch in der Vertiefung eilends zum nächsten Felsen,
 benutzte diesen als Deckung und spähte nach dem meuchlerischen
 Schützen aus. Schließlich erkletterte ich den Steinblock
 und sah so in weiter Entfernung nach Westen zu einen
@@ -121,22 +121,22 @@ Den Mann zu erkennen war unmöglich.
 
 Tuanatu hatte unseren Schlitten sehr bald zum
 Stehen gebracht. Ganz aufgeregt kam sie nun angelaufen und
-wollte mir durchaus die Schramme, die reichlich blutete, verbinden,
-Ich dankte, und nach zwanzig Minuten sahen wir
+wollte mir durchaus die Schramme, die reichlich blutete,
+verbinden. Ich dankte, und nach zwanzig Minuten sahen wir
 die Hütten der Hirten und die beiden hohen quadratischen
-Felsen vor uns, auf denen sich) die eigentlicz)en Farmgebäude
+Felsen vor uns, auf denen sich die eigentlichen Farmgebäude
 erhoben.
 
 Tuanatu hielt am Fuße der Treppe, die zu dem großen
 Felsen emporführte. Hier stand Mr. Blox, der Detektiv
-aus Sitz, und nickte nur, als im ihm mein Abenteuer
-erhalte …
+aus Sitka, und nickte nur, als ich ihm mein Abenteuer
+erzählte …
 
 »Da sind sie noch gut weggekommen,« sagte er grinsend.
 »Ihr Freund hat eine Pille in den Oberschenkel erhalten,
-als er vor einer Stunde drüben im Walde die Wollte«,
-fallen ruhelos. Ich habe ja immer schon angedeutet, daß
-die Schufte hier den Verbrecher Warger irgendwo versetzen
+als er vor einer Stunde drüben im Walde die Wolfsfallen
+nachsah. Ich habe ja immer schon angedeutet, daß
+die Schufte hier den Verbrecher Warger irgendwo verbergen
 …«
 
 Nichts hatte er angedeutet.
@@ -144,88 +144,88 @@ Nichts hatte er angedeutet.
 Ich rannte die Treppe empor, zwischen den Blockhäusern
 hindurch und über die Brücke zum Südfelsen, zu Old Cracks
 Wohnhaus. Wir logierten in dem Zimmer gleich rechts
-vom Flur. Als ic;H eintrat, hatte Rom Warger gerade
+vom Flur. Als ich eintrat, hatte Tom Warger gerade
 Haralds Verband erneuert.
 
 »Keine Sorge,« meinte Harst von seinem Bett her und
-drückte mir die Hand. »Ein glatter Fleisceschuß, nichts weiter.«
+drückte mir die Hand. »Ein glatter Fleischschuß, nichts weiter.«
 
 <@pagebreak/>
 Tom bestätigte dies.
 
 Tom Warger war Ellen Barkams Verlobter und Samuel
 Wargers alias Cracks alias Karstens Stiefsohn und ein
-netter Junge. Für die Morde und die sonstigen, Scheußlichstem
+netter Junge. Für die Morde und die sonstigen, Scheußlichkeiten
 seines Stiefvaters war er nicht verantwortlich. Die
-Anstellung der Wahrheit hatte ihn zunächst völlig niedergeschmettert.
-Daher hatte auch Ellen darauf bejahenden, daß
-er uns zur Tanana- Farm zurücbegleite. Sie fürchtete wohl
-für seinen Gemütszustand, und dies mit Geht. Auch jetzt war
-Tom nachts nicht über die traurigen Aufregungen hinwegsgefommen,
-obwohl er sich auch innerlich von seinem Ausfragten
+Aufdeckung der Wahrheit hatte ihn zunächst völlig niedergeschmettert.
+Daher hatte auch Ellen darauf bestanden, daß
+er uns zur Tanana-Farm zurückbegleite. Sie fürchtete wohl
+für seinen Gemütszustand, und dies mit Recht. Auch jetzt war
+Tom nachts nicht über die traurigen Aufregungen hinweggekommen,
+obwohl er sich auch innerlich von seinem Stiefvater
 vollständig losgesagt hatte.
 
 Was Harald erzählte, war nur in einem Punkte wichtig:
-Auch sein heimtüijäy)er Gegner war mit einem Hundeschlitten
+Auch sein heimtückischer Gegner war mit einem Hundeschlitten
 entflohen.
 
 Der Zeit nach war es sehr gut möglich, daß derselbe
-Mann uns zu beseitigen versucht hatte. Wir Geschlossenen
-sofort die Spur aufzunehmen, bevor noch Schneefall eins
-trat. Harald drang darauf, daß wir ihn in einen Reporters
+Mann uns zu beseitigen versucht hatte. Wir beschlossen,
+sofort die Spur aufzunehmen, bevor noch Schneefall ein-
+trat. Harald drang darauf, daß wir ihn in einen Renntier-
 Schlitten brachten. Er wollte unbedingt dabei sein. So fuhren
-denn Gegen fünf Uhr, als es bereits dunkel »war, vier
+denn Gegen fünf Uhr, als es bereits dunkel war, vier
 Schlitten vor der Treppe des großen Felsens vor. Teilnehmer
 waren Mr. Ephraim Blox, der »rote« Detektiv aus Sitka,
-Mr. Edward Pelterson, der Händler aus Briefe, wir beide
-und der alte Stinkt Muschuk als geübter Fährtensucher.
+Mr. Edward Pelterson, der Händler aus Frisko, wir beide
+und der alte Tlinkit Muschuk als geübter Fährtensucher.
 
 Pelterson war ein Mann in den besten Jahren mit
 einem blonden Spitzbart, einem gemütlichen Vollmondgesicht
 mit Hängebacken und einem ganz unmodernen, stets
-starr?f sitzenden Kneifer mit Seidenschnur. Er war witzig,
+schief sitzenden Kneifer mit Seidenschnur. Er war witzig,
 vergnügt, ein harmloser Genießer, dabei sicherlich ein geriebener
-Geschäftsmann. Mit Blox hatte er nur eins gemeint
+Geschäftsmann. Mit Blox hatte er nur eins gemein-
 kam: Eine merkwürdig piepsende Stimme, eine Folge schwerer
 Erkältungen genau wie bei Blox, denn beide hatten eben
 ihr Arbeitsfeld in den unwirtlichen Gebieten Alaskas.
 
 <@pagebreak/>
-Muschuk, der Stinkt, stank.
+Muschuk, der Tlinkit, stank.
 
-Grinsen tun ja alle diese Liordländer, denen das Baden
+Stinken tun ja alle diese Nordländer, denen das Baden
 als Unfug gilt und die den Körper zum Schutz gegen
-Hätte und Ungeziefer ausgerechnet mit dem Kannten der
-berüchtigten Stufe einreiben. Muschuk roh man schon
-auf zehn Schritt. In seiner Nähe es auSsSzuhalten, kojici0
-Meberwindung.
+Kälte und Ungeziefer ausgerechnet mit dem Darmfett der
+berüchtigten Skunks einreiben. Muschuk roch man schon
+auf zehn Schritt. In seiner Nähe es auszuhalten, kostete
+Überwindung.
 
-Er war dazu hurtig, unglaublich schmutzig im Gesicht.
+Er war dazu bucklig, unglaublich schmutzig im Gesicht,
 das graue Haar hing ihm bis auf die Schultern und
-erlebte einen Pelzkragen. Seit seiner Jugend Pelzjäger, waren
+ersetzte einen Pelzkragen. Seit seiner Jugend Pelzjäger, waren
 ihm Wald und Tundra und Berge Heimat. Sie hatten keine
-GOQcheimnisse für ihn. Jede Spur!schuätzte er nach Art und
+Geheimnisse für ihn. Jede Spur schätzte er nach Art und
 Alter richtig ein. Er benutzte einen alten doppelläufigen
 Vorderlader. Von modernen Gewehren hielt er nichts. Er
 hatte ein tiefes sonores Organ. Viele Worte waren nicht
-seine Sache. Obwohl über liebste, funkelten ihm unter grauen
+seine Sache. Obwohl über siebzig, funkelten ihm unter grauen
 borstigen Brauen ein Paar unruhige, halb zugekniffene
 Adleraugen.
 
-War hatten vier große Karbidlaternen mitgenommen,
-die vollauf genügten, Zunächst ging’s nach dem Gehölz, in
-dem die Wolfsafsalien standen. Harald zeigte die Stelle, wo
-er angeschossen worden war und wo der Schhuüuüße gestanden
-hatte, dessen Hundeschlittenspur Fuchs ein Ungeübter bequem
+Wir hatten vier große Karbidlaternen mitgenommen,
+die vollauf genügten. Zunächst ging’s nach dem Gehölz, in
+dem die Wolfsfallen standen. Harald zeigte die Stelle, wo
+er angeschossen worden war und wo der Schütze gestanden
+hatte, dessen Hundeschlittenspur auch ein Ungeübter bequem
 hätte verfolgen können.
 
-Diese Spur führte tatsächlich nach9 Norden, Der Schlitten
+Diese Spur führte tatsächlich nach Norden. Der Schlitten
 war mit fünf Hunden bespannt gewesen und hatte erst
 wieder dort halt gemacht, wo ich den Kugeln durch einen
 glücklicher Zufall entgangen war. Es stimmte also: Es
-war derselbe Mann gewesen. — Nun nach Welten weiter auf
+war derselbe Mann gewesen. — Nun nach Westen weiter auf
 klarer Fährte, eine volle Stunde, bis in die Berge hinein,
-bis zur Quelle des Lump-Flusses, des berühmten warmen
+bis zur Quelle des Turma-Flusses, des berühmten warmen
 Flusses mit seinen nie zufrierenden Wassern und rauschenden
 Katarakten. Hier mußten wir umkehren. Der Mann hatte
 ein Fellboot zur Verfügung gehabt und war damit samt
@@ -239,20 +239,20 @@ leisteten ihm Gesellschaft. Wir besprachen das Geschehene, und
 der smarte Yankee mit den Pausbacken erklärte ehrlich,
 er würde seine Geschäfte hier nun nach Möglichkeit beschleunigen,
 denn so gern er auch Austern äße — gegen bleierne
-Austern habe er ein Verurteilt, »Mit Miß Barkam ist nur,
-schließt verhandeln … Man sollte nicht glauben, wie hartnäckig
+Austern habe er ein Vorurteil. »Mit Miß Barkam ist nur,
+schlecht verhandeln … Man sollte nicht glauben, wie hartnäckig
 sie auf ihrem ersten Preise besteht, dabei ist doch
-mein Angebot von acht Dollar für das ausgeschaltete
-Neun sehr anständig. Sie verlangt neun, das Und b bei fünftausend
+mein Angebot von acht Dollar für das ausgeschlachtete
+Renn sehr anständig. Sie verlangt neun, das sind bei fünftausend
 Stück eine nette Differenz …«
 
 Der gute Pelterson lebte nur von Zahlen.
 
-Harst hatte ihm; etwas aufgerichtet und fragte unvermittelt:
+Harst hatte sich etwas aufgerichtet und fragte unvermittelt:
 
-»Wo waren Sie um zwei Uhr nachmittags? Sie Bauern
-es abgelehnt nichts zu begleiten. weil es Ihnen draußen)
-zu fast wäre. Und doch sah ich Sie gleich) darauf nacht
+»Wo waren Sie um zwei Uhr nachmittags? Sie hatten
+es abgelehnt mich zu begleiten, weil es Ihnen draußen
+zu kalt wäre. Und doch sah ich Sie gleich darauf nach
 Muschuks Blockhütte wandern, wo Sie mehrmals an die
 Tür pochten und dann im Stalle verschwanden.«
 
@@ -262,9 +262,9 @@ Schraut wollte doch erst mit Muschuk fahren. ich hoffte die
 Kleine allein zu treffen.«
 
 »Sie Schürzenjäger!« drohte ich ihm. »Schämen sollten
-Sie sich!! Sie sind verheiratet und
+Sie sich!! Sie sind verheiratet und ..."
 
-… Vater dreier Rangen,« ergänzte er kläglich. »Der
+"… Vater dreier Rangen,« ergänzte er kläglich. »Der
 Geist ist willig zur Treue, aber vor Tuanatus dunklen
 Augen wird das Fleisch schwach. — Haben Sie mich denn
 beobachtet, Mr. Harst?«
@@ -272,73 +272,71 @@ beobachtet, Mr. Harst?«
 »Zufällig … Vom Rande des Gehölzes aus kann
 man Muschuks ferne Hütte mit dem Fernglas recht gut
 <@pagebreak/>
-erkennen. — Nehmen Sie sich übrigens vor dem Sterne
-In acht. Der hütet seine Enkelin wie seiten Augapfel. Eilen
+erkennen. — Nehmen Sie sich übrigens vor dem Alten
+In acht. Der hütet seine Enkelin wie seinen Augapfel. Ellen
 erzählte mir, daß er schon ein paar Verehrer windelweich
 geprügelt hat.«
 
 Pelterson kratzte sich wie ein Affe den Rücken. »Mich
-ruft schon der Buckel … — Uobprigens — es stimmt, vor
-Muschuk muß man sich hüten. &r ist wirkt.) den braunen
-Bär heute mittag erregt, hinter dem er seit Tagen her,
+juckt schon der Buckel … — Übrigens — es stimmt, vor
+Muschuk muß man sich hüten. Er hat wirklich den braunen
+Bär heute mittag erlegt, hinter dem er seit Tagen her
 war. Sein Hundeschlitten schaffte die Last kaum, als er so
 gegen drei mit der Beute heimkehrte.«
 
-»Sie haben wohl in Ausschuß Stall nach Tuanatu
-gesucht?!« scherzte Harald gutgelaunt. »Ja ja — Alter gehabt
-Tor Torheit nicht, und Muschuk Haut eine kräftige Sunda
-Schrift!«
+»Sie haben wohl in Muschuks Stall nach Tuanatu
+gesucht?!« scherzte Harald gutgelaunt. »Ja ja — Alter schützt
+vor Torheit nicht, und Muschuk haut eine kräftige Hand-
+Schrift!!«
 
-Pelterson winkte ab. »Lassen wir die Sache ruhen ».1
+Pelterson winkte ab. »Lassen wir die Sache ruhen ...!
 Ich werde Tuanatu streichen … — Gute Nacht …«
-
-(innigst- See
 
 <h2>2. Kapitel.</h2>
 
 Er war ein Humorist. So wie er mit den Äuglein
-zwinkern konnte, unter denen freilich schon die dicken Hautswulste
-als Mahnzeichen des passenden Alters lagerten, versteht’s
+zwinkern konnte, unter denen freilich schon die dicken Hautwülste
+als Mahnzeichen des nahenden Alters lagerten, versteht’s
 nur einer, ein ganz Großer der Bühne, »unser Guido«,
-wie die Berliner sagen: Turme Tischchen, der Unverwüstliche,
-der Entginge! — Als ich diesen Fenster) Harald
-gegenüber äußerte, meinte er nach längerer Pause: »Tischchen
-wurde sich bedanken, denn du unterschätzt den Mann — nach
+wie die Berliner sagen: Guido Thielscher, der Unverwüstliche,
+der Ewig-Junge! — Als ich diesen Vergleich Harald
+gegenüber äußerte, meinte er nach längerer Pause: »Thielscher
+würde sich bedanken, denn du unterschätzt den Mann — nach
 der negativen Seite hin!«
 
 Wir konnten hier in unserem Zimmer getrost frei und
-offen miteinander reden, denn einen hierher brauchten wir
+offen miteinander reden, denn einen Horcher brauchten wir
 <@pagebreak/>
-nicht zu fürchten. Der Leser wird hoffentlich noch aus den
+nicht zu fürchten. Der Leser wird hoffentlich noch aus dem
 vorigen Band die Skizze der Farmgebäude zur Hand haben.
-Wir bewohnten, wie schon erwähnt, in Ulk Cracks Haus
+Wir bewohnten, wie schon erwähnt, in Old Cracks Haus
 auf dem südlichen kleineren, schroffen Felswürfel das Zimmer
 gleich rechts vom Flur. Das Fenster lag nach Norden zu,
-also nach dem Nordfelsen und der Brücke hin. Äußerten
-stand uns Cracks be Scharte? Arbeitszimmer zur Verfügung.
-Jenseits des Flug wohnte &lien Barkam. Das Haus hatte
+also nach dem Nordfelsen und der Brücke hin. Außerdem
+stand uns Cracks benachbartes Arbeitszimmer zur Verfügung.
+Jenseits des Flurs wohnte Ellen Barkam. Das Haus hatte
 nur einen Eingang von der Seite der Verbindungsbrücke
-her, und die Haustür war auf YHaerjk8 Rat vorgestern mit
-einer Glocke berichten worden, die beim Vorigen der Tür
-sehr laut anschlug und die sich von draußen nicht Aussichten
-ließ. All dies ist Bitte. Noch wichtiger, das ist) in unserem
-Schlafzimmer in den Dielen die Ja.:für befand, durch die
+her, und die Haustür war auf Harsts Rat vorgestern mit
+einer Glocke versehen worden, die beim Öffnen der Tür
+sehr laut anschlug und die sich von draußen nicht ausschalten
+ließ. All dies ist wichtig. Noch wichtiger, daß sich in unserem
+Schlafzimmer in den Dielen die Falltür befand, durch die
 man über zwei Treppen in die große, meilenweite Höhle
-hinabgelanat2s, dicken anderer Ausgang in das sogenannte
-warme Tal mittels. In dieser Höhle war der echte Eid
-Crack vor fünf Schien in aller Stille begraben worden,
-als Karsten- -Warger mit Wissen des alten Dieners Charlie
-Morgen »Old Crack« zu spielen begann, eine Rolle, die er
+hinabgelangte, deren anderer Ausgang in das sogenannte
+warme Tal mündete. In dieser Höhle war der echte Old
+Crack vor fünf Jahren in aller Stille begraben worden,
+als Karsten-Warger mit Wissen des alten Dieners Charlie
+Maxson »Old Crack« zu spielen begann, eine Rolle, die er
 sicherlich noch weiterhin so glänzend durchgeführt hätte,
 wenn er nicht durch Harst entlarvt worden wäre.
 
 Harsts Bemerkung über Pelterson machte mich stutzig.
-— Naß der negativen Seite hin?! Das konnte doch nur
-beißen, daß er dem Händler mißtraute. Ich überlegte mir
-die: Ereignisse nocmmals und fragte dann: »Was tat Stuart
+— Nach der negativen Seite hin?! Das konnte doch nur
+heißen, daß er dem Händler mißtraute. Ich überlegte mir
+die Ereignisse nochmals und fragte dann: »Was tat Stuart
 Pelterson im Stall des alten Muschuk?«
 
-Harald hatte sich inzwischen eine Zigarette angeraucht,
+Harald hatte sich inzwischen eine Zigarette angeraucht.
 »Er holte fünf Hunde heraus, spannte sie vor einen Schlitten
 und fuhr davon.«
 
@@ -347,71 +345,73 @@ und fuhr davon.«
 »Nach Südost, wo die Hochebene durch die Hügelkette
 gleichsam zerschnitten wird.«
 
-Ich beugte mich vor. »Diese Hügel reizen ja bis zu
+Ich beugte mich vor. »Diese Hügel reichen ja bis zu
 <@pagebreak/>
-dem Wäldchen, in dem die Dorfes und Fuchsfallen stehen.«
+dem Wäldchen, in dem die Wolfs- und Fuchsfallen stehen.«
 
 »Allerdings. Und da Stuart Pelterson bisher noch nie
-mit der Tanana« Farm Geschäfte gemacht hat und niemand
-ihn hier kannte, als er plötzlich mit einem gemieteten Eskimo«
-sollten von Dawson-City hier erschien und den Schlitten
+mit der Tanana-Farm Geschäfte gemacht hat und niemand
+ihn hier kannte, als er plötzlich mit einem gemieteten Eskimoschlitten
+von Dawson-City hier erschien und den Schlitten
 sofort zurückschickte, wird man ihm einige Aufmerksamkeit
 widmen müssen. Ich habe dies bereits getan. Pelterson war
 jedenfalls in der Nähe, als der Mann auf mich schoß, und
-kaum Ephraim Blox weiß dies, denn auch er war mit
-einem Hundeschlitten in der trinken Zeit unterwegs. Ich
-wette, Blox hat an der Stelle, wo im angeschweißt wurde,
+auch Ephraim Blox weiß dies, denn auch er war mit
+einem Hundeschlitten in der kritischen Zeit unterwegs. Ich
+wette, Blox hat an der Stelle, wo ich angeschweißt wurde,
 genau dasselbe gesehen wie ich. Gib mir mal ein Stück
-Papier, ich wir; dir eine Zeichnung entwerfen, du wirst
-so letzter eingehen, wie verfänglich die Dinge sind, die
+Papier, ich will dir eine Zeichnung entwerfen, du wirst
+so leichter eingehen, wie verfänglich die Dinge sind, die
 sich heute hier abspielten.«
 
 Diese Skizze sah folgendermaßen aus:
 
 <@pagebreak/>
 
+<div class="img"><img alt="Skizze der Umgebung. Unten fließt der warme Bach von West nach Ost, darüber befindet sich die Felsengruppe (c). In der Mitte befinden sich Muschuks Hütte und die Farm. Nordöstlich der Farm befindet sich das Gehölz (a). Nördlich davon zieht sich die Hügelkette (b) entlang. Vom warmen Bach bis zum Gehölz führt die erste Schlittenspur. Die zweite führt vom Gehölz über die Hügelkette und biegt dann nach Südwest ab. Die dritte Schlittenspur führt vom Gehölz nach Norden, dann nach Nordwesten" src="Skizze.png" style="width: 100%; height: auto;"/></div>
+
 <@pagebreak/>
 Zur Erklärung:
 
-ist das Gehölz, in dem Harald hinterrücks den Obersdenkelsä)
-aß erhielt.
+a ist das Gehölz, in dem Harald hinterrücks den Oberschenkelschuß
+erhielt.
 
-ist die Stelle, wo er die Kugel empfing und sich
+＋ ist die Stelle, wo er die Kugel empfing und sich
 sofort niederwarf.
 
-ist die oben erwähnte Hügelkette.
+b ist die oben erwähnte Hügelkette.
 
-ist die Felsgruppe, in der 14) an der Stelle (7
+c ist die Felsgruppe, in der ich an der Stelle Ω
 den drei Kugeln entging.
 
-ist Muschuks und Tuanatus einsame Hütte.
+d ist Muschuks und Tuanatus einsame Hütte.
 
-Dornen bezeichnet die Schlittenspur des Schützen, die
-vom Geholt a bis zum Warmen Bad verfolgt wurde.
+○○○○○○○○ bezeichnet die Schlittenspur des Schützen, die
+vom Gehölz a bis zum Warmen Bach verfolgt wurde.
 
-020000006 ist eine zweite Schlittenspur (auch fünf
-Hunden.
+◆◆◆◆◆◆◆◆ ist eine zweite Schlittenspur (auch fünf
+Hunde).
 
-000082000 ist eine dritte Schlittenspur, ebenfalls fünf
+◆○◆○◆○◆○ ist eine dritte Schlittenspur, ebenfalls fünf
 Hunde, genau wie die Spur des meuchlerischen Schützen.
 
-— I4 rufe meinen Stuhl dicht an Haralds Bett heran
-und horte aufmerksam zu.
+— Ich rückte meinen Stuhl dicht an Haralds Bett heran
+und hörte aufmerksam zu.
 
 »Mein lieber Alter, als ich urplötzlich die Kugel erhielt
 und den Schlag gegen den Oberschenkel, also den Treffer,
-verspürte, war] ich mich lang in den Schnee und zwar
+verspürte, warf ich mich lang in den Schnee und zwar
 hinter einen Baum. Ich richtete mich sofort wieder auf, da
-der dicke Stamm mir genügend Deckung bot. Ich Watte
+der dicke Stamm mir genügend Deckung bot. Ich wagte
 dies auch deshalb, weil es mir so vorgekommen war, als
-ob nie! ein Schuß gefallen wäre, sondern zwei fast gleichzeitig.
-Nachdem im dann meine Büchse entsichert hatte
+ob nicht ein Schuß gefallen wäre, sondern zwei fast gleichzeitig.
+Nachdem ich dann meine Büchse entsichert hatte
 und nichts Verdächtiges mehr entdeckte, begab ich mich trotz
-der Schlurften im Schenkel auf meinen Schneeschuhen zum
+der Schmerzen im Schenkel auf meinen Schneeschuhen zum
 Nordrande des Gehölzes und sah hier die Fährte des
-Mannes, der mit seinem Gelitten die Spur Schoner
+Mannes, der mit seinem Schlitten die Spur ○○○○○○○○ 
 hervorgerufen hatte. Bitte gib sehr genau auf das, was
-ich sage, acht. Diese Spur Dornen hatte eine Eigentümlichkeit,
+ich sage, acht. Diese Spur ○○○○○○○○ hatte eine Eigentümlichkeit,
 die dir hoffentlich nicht entgangen ist.«
 
 Ich war ehrlich und erwiderte: »Ich bedauere, ich habe
@@ -419,125 +419,123 @@ nichts besonderes gemerkt.«
 
 <@pagebreak/>
 »Nun denn, das schadet nichts, ist vielleicht sogar sehr
-
-t, denn dadurch erhältst du dir dein unbefangenes Urteil.
-»— Weiter also … Ich sah genau, daß der Mann seinen
-&Sclitten verlassen hatte und bis unter die Bäume geschlichen
-war. Von dort aus feuerte er. Er muß jedoch) im Moment,
-als er abdrückte, durch€ irgend etwas in seiner Nahe erschreckt
-worden sein. Deshalb tra] er auch so schlecht. Und die Nr«-
+gut, denn dadurch erhältst du dir dein unbefangenes Urteil.
+— Weiter also … Ich sah genau, daß der Mann seinen
+Schlitten verlassen hatte und bis unter die Bäume geschlichen
+war. Von dort aus feuerte er. Er muß jedoch im Moment,
+als er abdrückte, durch irgend etwas in seiner Nähe erschreckt
+worden sein. Deshalb traf er auch so schlecht. Und die Ur-
 Sache des Schreie kann nur der Anblick oder ein Zeichen
 der Nähe des anderen Mannes gewesen sein, der den zweiten
-Fuß abfeuerte, jedoch nicht auf mich, sondern wahrscheinlich
-uf die Büchse des Mordbuben, der dann in weiten
-Sprüngen endlich. Er erreichte seinen Hinten am Rande
-des Geoöo!l’cs, fragte davon und lauerte dir in der Arbeitsgruppe
+Schuß abfeuerte, jedoch nicht auf mich, sondern wahrscheinlich
+auf die Büchse des Mordbuben, der dann in weiten
+Sprüngen entwich. Er erreichte seinen Schlitten am Rande
+des Gehölzes, jagte davon und lauerte dir in der Felsengruppe
 auf. Ich selbst hatte gerade noch Kraft genug, mich
-bis vorhin zu schleppen, wo ich den anderen Mann, meinem
-Retter, vermutete. So fand ich die 000800008 »Fährte.
+bis dorthin zu schleppen, wo ich den anderen Mann, meinen
+Retter, vermutete. So fand ich die ◆◆◆◆◆◆◆◆-Fährte.
 Dies war eine Doppelspur, und nur Stuart Pelterson
 kann sie mit seinem Schlitten, den er gar nicht verlassen
-hatte, hervorgerufen haben. Er hat also aus dem Höchsten
+hatte, hervorgerufen haben. Er hat also aus dem Schlitten
 auf meinen Feind geschossen und zwar auf erhebliche Entfernung.
-Doppelspur nenne ich eine Hin« und Rückfährte.«
+Doppelspur nenne ich eine Hin- und Rückfährte.«
 
-»Stimmt, das sah ich, der 0000000292 Schlitten hatte
+»Stimmt, das sah ich, der ◆◆◆◆◆◆◆◆-Schlitten hatte
 dicht vor dem Gehölz gewendet.«
 
 »Ich konnte nicht annehmen,« fuhr Harald fort, »daß
 von ein dritter Mann Zeuge des Attentats gewesen. Erst
 als wir vorhin mit den Laternen den Schauplatz besuchten,
 bemerkte ich noch etwas sehr Wichtiges, eigentlich zweierlei.
-Ihr hattet mich in einen Gelitten verladen, und ich fuhr
+Ihr hattet mich in einen Schlitten verladen, und ich fuhr
 allein noch weiter nach Südost bis zur Ecke des Gehölzes.
-Dort fand ihr die dritte dO0d00d00C-Schlittenfährte.«
+Dort fand ihr die dritte ◆○◆○◆○◆○-Schlittenfährte.«
 
-»Das ist ja gerade so, als ob sich dort in dem Wald
-
+»Das ist ja gerade so, als ob sich dort in dem Wald-
 Stück gleichzeitig vier Personen ein Stelldichein gegeben
-hätten: du und die drei Schlittenlenkert«
+hätten: du und die drei Schlittenlenker!«
 
 <@pagebreak/>
 Harald blickte mich an, und in seinen Augen lag es wie
-beim Vorwurf, weil ich die Sache so leicht nahm.
+ein Vorwurf, weil ich die Sache so leicht nahm.
 
 »Lieber Alter, die Geschichte ist bitterernst, denn von dem
-HFO0d000920-Gelitten lief eine merkwürdige Spur die dorthin,
+◆○◆○◆○◆○-Schlitten lief eine merkwürdige Spur die dorthin,
 wo der Schlitten des Attentäters gehalten und nachher
-gewendet hatte. Diese Spur bestand lebhaft) aus runden
-Löchern im Schnee, die etwa anderthalb Meter auseinanderbogen.
+gewendet hatte. Diese Spur bestand lediglich aus runden
+Löchern im Schnee, die etwa anderthalb Meter auseinanderlagen.
 Wenn ich dir nun noch sage, daß Pelterson
 diese Löcher mit dem Stiefel verwischte, als wir fünf vorhin
 dort im Gehölz waren, so wirst du mein Mißtrauen gegen
 ihn begreifen.«
 
-»Allerdings,« nickte ich zerstreut, obwohl im nachts nicht
+»Allerdings,« nickte ich zerstreut, obwohl im noch nicht
 klar die Sachlage überschaute. Ich fragte also:
 
-»Weshalb nimmst du an, daß gerade die 0000006020 —
-Spur von Pelterson herrührt?«
+»Weshalb nimmst du an, daß gerade die ◆◆◆◆◆◆◆◆-Spur
+von Pelterson herrührt?«
 
-»Das ist eine der Fragen, die aufs engste mit der«
-Ihiedenen anderen zusammenhängt, die ich noch nicht beantworten
+»Das ist eine der Fragen, die aufs engste mit ver-
+shiedenen anderen zusammenhängt, die ich noch nicht beantworten
 möchte. Bilde dir selbst ein Urteil über die Dinge.«
 
-»Sehr schon. Ich will es versuchen. Nur eins: du
-mißtraust -Pelterson, anderseits meinst du, er habe den
-zweiten, dich rettenden Schuß abgefeuert, und die »Schlauen«
+»Sehr schön. Ich will es versuchen. Nur eins: du
+mißtraust Pelterson, anderseits meinst du, er habe den
+zweiten, dich rettenden Schuß abgefeuert, und die »Lochspuren«
 verwischt. Daraus kann ich mir beim besten Willen keinen
 Vers machen.«
 
 »Glaube ich gern …«
 
-»Und wer war der Mann in dem »Schlitten?«
+»Und wer war der Mann in dem ◆○◆○◆○◆○-Schlitten?«
 
-»Ei Verbündeten des Attentäters natürlich, ein Mensch,
+»Ein Verbündeten des Attentäters natürlich, ein Mensch,
 mit dem er ganz eng befreundet ist, — noch mehr als das:
 Es sind Brüder zumindest, einer ist die Ergänzung des
 anderen, es sind völlig gleichwertige Schurken,«
 
-»Uhr Abgesandte Wargers oder Karstens, was ja dasselbe
-bis.«
+»Also Abgesandte Wargers oder Karstens, was ja dasselbe
+ist.«
 
-»Ganz recht, es Ut ja ein und dieselbe Person …« —
+»Ganz recht, es ist ja ein und dieselbe Person …« —
 dazu lächelte Harald sehr eigentümlich.
 
 »und die »Lochspur«?«
 
 <@pagebreak/>
 »Die gibt am meisten zu raten auf. Weshalb verwischte
-Peltersons diese Töchter, die doch; weder von einem Menschen
+Peltersons diese Löcher, die doch weder von einem Menschen
 noch von einem Tier herrühren können?!
 
 »Allerdings unverständlich …« — Mein Interesse an
-diesen seltsamen Begebenheiten wuchs, zumal ich ja her
-daraus, du’s Harald mir die einfache Skizze angefertigt
-bitte, erkennen mußte, daß hier recht verzwickte Rätsel zu
-Wien waren.
+diesen seltsamen Begebenheiten wuchs, zumal ich ja schon
+daraus, daß Harald mir die einfache Skizze angefertigt
+hatte, erkennen mußte, daß hier recht verzwickte Rätsel zu
+lösen waren.
 
-Ich hatte aber noch« anderes auf dem Herzen.
+Ich hatte aber noch anderes auf dem Herzen.
 
-»Du sagtest vorhin, Blox sei gleichfalls mit einem Handeln
-litten unterwegs gewesen und wüßte, daß Pelterson in
+»Du sagtest vorhin, Blox sei gleichfalls mit einem Hundeschlitten
+unterwegs gewesen und wüßte, daß Pelterson in
 der Nähe des Mordbuben weilte. — Woher hast du hiervon
 Kenntnis erhalten?«
 
 »Nun, daß der rote Blox gleich nachts dir und Tuanatu
 wegfuhr, sah ich. Er lenkte genau nach Süden. Er hat
 einem der Hirten erklärt, er wolle mal versuchen den Bär
-zu erlegen, auf den der alte Muschuk so niest war. Und
+zu erlegen, auf den der alte Muschuk so wild war. Und
 daß Blox von Peltersons Anwesenheit im Gehölz wußte,
 merkte ich an seinem Verhalten, als wir mit den Laternen
 dort waren. Blox beobachtete den Händler unausgesetzt und
 sah auch, daß dieser mit der Stiefelspitze die Lochspur heimlich
-tilgte. Es sollte mich wundern, wenn Blox nicht von
+tilgte. Es sollte mich wundern, wenn Blox nicht noch
 zu uns käme, obwohl er ja bisher aus seiner Abneigung
 gegen uns beide als seinen Konkurrenten kein Hehl gemacht
 hat — im Gegenteil. Dennoch dürfte er nun …«
 
 Draußen war irgendwo in der Nähe ein Schuß gefallen.
 
-»Geh’ mal nachschauen, mein Alter,« sagte Harst merkst
+»Geh’ mal nachschauen, mein Alter,« sagte Harst merklich
 beunruhigt. »Ich möchte wetten, daß Stuart Pelterson
 zumindest verwundet wurde.«
 
@@ -545,7 +543,7 @@ zumindest verwundet wurde.«
 
 »Ja. Die hübsche Tuanatu hat zahlreiche Verehrer, und
 der Aufseher Gollerston, der wie sie ein Halbblut ist, scheint
-bei ihr Ausrichten zu haben, — also kann ein Eifersuchtsdrama
+bei ihr Aussichten zu haben, — also kann ein Eifersuchtsdrama
 vorliegen. Beeile dich, sei jedoch vorsichtig.«
 
 <@pagebreak/>
@@ -560,7 +558,7 @@ großen Petroleumlampe standen mir Ellen und Tom gegenüber.
 in nächster Nähe gewesen sein. Uns war’s so, als ob wirr
 einen Schrei vernahmen.«
 
-Rom kam mit. Wir liefen über die Verbindungsbrücke.
+Tom kam mit. Wir liefen über die Verbindungsbrücke.
 Zwischen den drei Gebäuden des Großen Felsens trafen wir
 mit Blox zusammen. Er, Tom und Pelterson wohnten im
 Verwaltungsgebäude, jeder in einer besonderen Stube. Raum
@@ -662,7 +660,7 @@ diesmal gewesen, den Leser zu eigenem Nachdenken anzuregen.
 Ich rote jeden!, das zweite Kapitel nochmals zu
 lesen und immer wieder die Skizze zu betrachten, auf Der
 lediglich die Lochspur fehlt. Ich habe im ersten Band der
-Ulk Crack—«Abenteuer versprochen, meinen Freunden besondere
+Old Crack—«Abenteuer versprochen, meinen Freunden besondere
 Kost zu bieten. Es handelt sich um Kriminalfälle, die sich
 niemals in einem kultivierten Lande hätten abspielen können.
 Für diese Ereignisse war der große, erhabene Nahmen
@@ -970,7 +968,7 @@ Mit einem Male rief Blox:
 Hände frei … Ich werde schießen, falls nötig.«
 
 Ich drehte den Kopf. Auch ich erblickte den Schlitten.
-Er kam näher. Es war ein kleiner schmalen Gelitten, und
+Er kam näher. Es war ein kleiner schmalen Schlitten, und
 ich zählte sechs Hunde, Der Mann darin war natürlich
 <@pagebreak/>
 nicht zu erkennen, schien aber einen dunklen Vollbart zu
@@ -1029,7 +1027,7 @@ Ich schaute auf seine Pelzstiefel. Sie waren traten.
 Er konnte keiner der beiden Schlittenfahrer gewesen sein.
 
 Blox’ Benehmen setzte mich rote mehr als bisher in
-Staunen »Ich werde in den Stall gehen und die Gelitten
+Staunen »Ich werde in den Stall gehen und die Schlitten
 und die Hunde besichtigen. Ihr Blick auf die Stiefel des
 Alten genügt mir nicht, Mr. Schraut.« Er sprach mit einem
 Male perfekt franzosisQ, und Muschuk hatte davon keine
@@ -1160,7 +1158,7 @@ Der Schnee fällt wie die Federn der Eidergänse im Filiale
 …« — Er machte dazu eine Handbewegung, ie
 wie eine drohende Geiste war. Tuanatu gab mir die Hand.
 »Gute Nacht also … Kommen Sie zu! sein und lassen Sie
-sich vom Sturm nicht aus dem Gelitten wehen, halten
+sich vom Sturm nicht aus dem Schlitten wehen, halten
 Sie sich ordentlich fest, Mr. Schraut.«
 
 Es war alles sehr eigentümlich hier, und ich setzte
@@ -1170,7 +1168,7 @@ mich ein wenig besorgt in den Schlitten hinter Muschuk.
 
 Es war ein tolles Wetter. Nicht die Hand vor den
 Augen zu sehen. Der Wind trieb den lockeren Schnee
-doch, und wo sich Wirbel bildeten, glitt der Gelitten
+doch, und wo sich Wirbel bildeten, glitt der Schlitten
 geradezu wie durch eine feste, eisige Wand hindurch. Im
 Nu war ich völlig weiß, meine Brille half mir nichts, ich
 steckte sie in die Innentasche und schloß die Augen. Wir
@@ -1291,7 +1289,7 @@ schleifte das Hinterteil nach und verschwand ebenfalls. In
 den Schleiern der Klaren tauchte Muschuk auf.
 
 »Mr. Schraut, — — endlich!! Endlich!! Die verdammten
-Hunde sind mit dem Gelitten auf und davon. Auch ich
+Hunde sind mit dem Schlitten auf und davon. Auch ich
 rollte in den Schnee, verlor die Richtung und irrte im
 Kreise, ich glaubte schon, Sie hätten sich an dem Baum
 den Schädel eingeschlagen.«
@@ -1525,7 +1523,7 @@ Ein Ausdruck von Seelenqual trat in seine kahlen Züge.
 »Ihn muß schweigen, Schraut …! Ich darf nichts verraten.
 Beeilen Sie sich?«
 
-Rom und ich liefen nach den Hütten der Hirten und
+Tom und ich liefen nach den Hütten der Hirten und
 spannten einen Schlitten an. Tom wollte Harald Bescheid
 sagen.
 
@@ -1926,7 +1924,7 @@ geblieben, — Erörtern wir zunächst die Spur ah
 der Nordostecke des Gehölzes. Sie kam von Südost auf
 das Wäldchen zu, machte aber vorher einen rechten Winkel.
 nach Nordost und verschwand dort, war ausgetilgt. Der
-Mann, der in diesem Gelitten von Nordost herkam, war der
+Mann, der in diesem Schlitten von Nordost herkam, war der
 Attentäter.«
 
 »Pardon — früher behauptetest du, der Mann am
@@ -1951,7 +1949,7 @@ vielfach? zertrampelt zu sehen war.«
 <@pagebreak/>
 Gefährtes, immer wieder mit den Stelzen in dieselben Löcher
 zu treten. Er muß sechsmal hin und her gegangen sein:
-fünf Hunde und der Gelitten. So gelangte er dorthin,
+fünf Hunde und der Schlitten. So gelangte er dorthin,
 wo er nachher auf mich feuerte. Seine Spur bei seiner
 Flucht, die 00000000 -; Fährte, ist eine einfache und führt
 vom Gehölz weg bis zum Warmen Bach, Als er gerade
@@ -1982,7 +1980,7 @@ ganze Aufmachung ließ durchaus nicht erkennen, daß wir
 uns hier in einer winterlichen Einöde befanden und die
 nächste Stadt erst in zwei Tagen im Hundeschlitten zu
 Häuserreihen war. Wie immer stellte sich aus Tom Warger
-rechtzeitig ein, nur Ellen fehlte diesmal, und Rom mochte
+rechtzeitig ein, nur Ellen fehlte diesmal, und Tom mochte
 melandholischw Augen. Er war sehr verliebt in sein blondes
 Brausten. Für die Geschehnisse der verflossenen Nacht zeigte
 er lebhaftes Interesse. Er verachtete seinen Stiefvater, und
@@ -2237,7 +2235,7 @@ Harald schickte Tom und Ellen hinaus. Tom sollte
 trockene Kleider bringen.
 
 Wir nahmen Warger das Jagdmesser und die Pistole
-gab, und nachdem Rom uns die Kleider hereingereicht hatte,
+gab, und nachdem Tom uns die Kleider hereingereicht hatte,
 mußte Warger die trockenen Sachen anziehen. Erlangen kein
 <@pagebreak/>
 Wort mehr, und nur als wir ihm die Hände auf dem
