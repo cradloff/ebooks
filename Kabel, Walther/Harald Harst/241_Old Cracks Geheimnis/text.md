@@ -53,10 +53,10 @@ Mädel mit blanken schwarzen Augen und jener natürlichen
 Grazie, wie sie vielen Naturkindern eigen ist. Unser Ziel
 war die nördlichste Station, mitten im Gebirge gelegen, die
 von einem Freunde des alten Muschuk geleitet wurde. Zu
-ihr gehörten rund zehntausend Renntiere, die in nahen ge-
-schützen Tälern gehalten und von Eskimohirten bewacht
-wurden. Auf unserem Schlitten führten wir auch Gewehr-
-Patronen und Raubtiergift für diese Hirten mit, denn die
+ihr gehörten rund zehntausend Renntiere, die in nahen geschützten
+Tälern gehalten und von Eskimohirten bewacht
+wurden. Auf unserem Schlitten führten wir auch Gewehrpatronen
+und Raubtiergift für diese Hirten mit, denn die
 Wölfe waren in der letzten Zeit infolge der starken Kälte
 und des reichlichen Schneefalles aus Hunger sehr zudringlich
 geworden.
@@ -68,9 +68,9 @@ Einen mit drei Renntieren in Reihe bespannten Schlitten
 zu lenken, ist gar nicht so einfach. Wenn das Leittier nicht
 tadellos eingefahren Ist, gibt es dauernd unliebsamen Aufenthalt.
 Tuanatu war nun eine glänzende Fahrerin, und
-wir sausten mit einer Geschwindigkeit dahin, die kein Hunde-
+wir sausten mit einer Geschwindigkeit dahin, die kein Hundeschlitten
 <@pagebreak/>
-Schlitten erreicht. Ich war wieder in glänzender Laune, und
+erreicht. Ich war wieder in glänzender Laune, und
 die junge Indianerin hatte gleichfalls einige Gläschen Whisky
 vertilgt — nebst ungeheuren Mengen Renntierschinken und
 Hartzwieback und Butter, die uns der Stationsleiter freundlichst
@@ -171,9 +171,9 @@ entflohen.
 
 Der Zeit nach war es sehr gut möglich, daß derselbe
 Mann uns zu beseitigen versucht hatte. Wir beschlossen,
-sofort die Spur aufzunehmen, bevor noch Schneefall ein-
-trat. Harald drang darauf, daß wir ihn in einen Renntier-
-Schlitten brachten. Er wollte unbedingt dabei sein. So fuhren
+sofort die Spur aufzunehmen, bevor noch Schneefall eintrat.
+Harald drang darauf, daß wir ihn in einen Renntierschlitten
+brachten. Er wollte unbedingt dabei sein. So fuhren
 denn Gegen fünf Uhr, als es bereits dunkel war, vier
 Schlitten vor der Treppe des großen Felsens vor. Teilnehmer
 waren Mr. Ephraim Blox, der »rote« Detektiv aus Sitka,
@@ -185,8 +185,8 @@ einem blonden Spitzbart, einem gemütlichen Vollmondgesicht
 mit Hängebacken und einem ganz unmodernen, stets
 schief sitzenden Kneifer mit Seidenschnur. Er war witzig,
 vergnügt, ein harmloser Genießer, dabei sicherlich ein geriebener
-Geschäftsmann. Mit Blox hatte er nur eins gemein-
-kam: Eine merkwürdig piepsende Stimme, eine Folge schwerer
+Geschäftsmann. Mit Blox hatte er nur eins gemeinsam:
+Eine merkwürdig piepsende Stimme, eine Folge schwerer
 Erkältungen genau wie bei Blox, denn beide hatten eben
 ihr Arbeitsfeld in den unwirtlichen Gebieten Alaskas.
 
@@ -262,9 +262,9 @@ Schraut wollte doch erst mit Muschuk fahren. ich hoffte die
 Kleine allein zu treffen.«
 
 »Sie Schürzenjäger!« drohte ich ihm. »Schämen sollten
-Sie sich!! Sie sind verheiratet und ..."
+Sie sich!! Sie sind verheiratet und …«
 
-"… Vater dreier Rangen,« ergänzte er kläglich. »Der
+»… Vater dreier Rangen,« ergänzte er kläglich. »Der
 Geist ist willig zur Treue, aber vor Tuanatus dunklen
 Augen wird das Fleisch schwach. — Haben Sie mich denn
 beobachtet, Mr. Harst?«
@@ -286,10 +286,9 @@ gegen drei mit der Beute heimkehrte.«
 
 »Sie haben wohl in Muschuks Stall nach Tuanatu
 gesucht?!« scherzte Harald gutgelaunt. »Ja ja — Alter schützt
-vor Torheit nicht, und Muschuk haut eine kräftige Hand-
-Schrift!!«
+vor Torheit nicht, und Muschuk haut eine kräftige Handschrift!!«
 
-Pelterson winkte ab. »Lassen wir die Sache ruhen ...!
+Pelterson winkte ab. »Lassen wir die Sache ruhen …!
 Ich werde Tuanatu streichen … — Gute Nacht …«
 
 <h2>2. Kapitel.</h2>
@@ -424,8 +423,8 @@ gut, denn dadurch erhältst du dir dein unbefangenes Urteil.
 Schlitten verlassen hatte und bis unter die Bäume geschlichen
 war. Von dort aus feuerte er. Er muß jedoch im Moment,
 als er abdrückte, durch irgend etwas in seiner Nähe erschreckt
-worden sein. Deshalb traf er auch so schlecht. Und die Ur-
-Sache des Schreie kann nur der Anblick oder ein Zeichen
+worden sein. Deshalb traf er auch so schlecht. Und die Ursache
+des Schreie kann nur der Anblick oder ein Zeichen
 der Nähe des anderen Mannes gewesen sein, der den zweiten
 Schuß abfeuerte, jedoch nicht auf mich, sondern wahrscheinlich
 auf die Büchse des Mordbuben, der dann in weiten
@@ -451,8 +450,8 @@ Ihr hattet mich in einen Schlitten verladen, und ich fuhr
 allein noch weiter nach Südost bis zur Ecke des Gehölzes.
 Dort fand ihr die dritte ◆○◆○◆○◆○-Schlittenfährte.«
 
-»Das ist ja gerade so, als ob sich dort in dem Wald-
-Stück gleichzeitig vier Personen ein Stelldichein gegeben
+»Das ist ja gerade so, als ob sich dort in dem Waldstück
+gleichzeitig vier Personen ein Stelldichein gegeben
 hätten: du und die drei Schlittenlenker!«
 
 <@pagebreak/>
@@ -475,8 +474,8 @@ klar die Sachlage überschaute. Ich fragte also:
 »Weshalb nimmst du an, daß gerade die ◆◆◆◆◆◆◆◆-Spur
 von Pelterson herrührt?«
 
-»Das ist eine der Fragen, die aufs engste mit ver-
-shiedenen anderen zusammenhängt, die ich noch nicht beantworten
+»Das ist eine der Fragen, die aufs engste mit verschiedenen
+anderen zusammenhängt, die ich noch nicht beantworten
 möchte. Bilde dir selbst ein Urteil über die Dinge.«
 
 »Sehr schön. Ich will es versuchen. Nur eins: du
@@ -550,12 +549,12 @@ vorliegen. Beeile dich, sei jedoch vorsichtig.«
 
 <h2>3. Kapitel.</h2>
 
-Ich trat in den Flur hinaus. Im gleiten Augenblick
+Ich trat in den Flur hinaus. Im gleichen Augenblick
 ging drüben Ellen Barkams Salontür auf, und im Lichte der
 großen Petroleumlampe standen mir Ellen und Tom gegenüber.
 
-»Horten Sie den Schuß?« fragte Tom erregt. »Es muß
-in nächster Nähe gewesen sein. Uns war’s so, als ob wirr
+»Hörten Sie den Schuß?« fragte Tom erregt. »Es muß
+in nächster Nähe gewesen sein. Uns war’s so, als ob wir
 einen Schrei vernahmen.«
 
 Tom kam mit. Wir liefen über die Verbindungsbrücke.
@@ -564,18 +563,18 @@ mit Blox zusammen. Er, Tom und Pelterson wohnten im
 Verwaltungsgebäude, jeder in einer besonderen Stube. Raum
 war übergenug vorhanden.
 
-Blox sagte, Pelterson sei allerdings vor zehn Minuten.
+Blox sagte, Pelterson sei allerdings vor zehn Minuten
 ins Freie gegangen. Er wollte sich die Nordlichter ansehen.
 
-9!!8 wir die Treppe hinabeilten, begegneten wir dem
+Als wir die Treppe hinabeilten, begegneten wir dem
 Aufseher Mac Gollerston, der uns zurief, drüben neben
 der einen Hürde der Jungtiere liege ein Mensch. Er sei
 gerade auf dem Wege dorthin.
 
-Nun, — wir fanden Pelterson in recht übler Verfolgung
+Nun, — wir fanden Pelterson in recht übler Verfassung
 vor. Die Kugel hatte ihm das linke Auge ausgeschossen, und
 die Schläfenwunde blutete derart, daß wir den Bewußtlosen
-gar nicht schnell genug in sein Zimmer bringen konnten.
+gar nicht schnell genug in sein Zimmer bringen konnten,
 wo Blox ihn kunstgerecht verband. Ihn am Leben zu erhalten,
 erschien unmöglich. Der nächste Arzt hätte fünf Tage gebraucht,
 um hierher zu gelangen, und die Schwere der
@@ -584,14 +583,14 @@ Verletzung machte Laienhilfe vollkommen zwecklos.
 In Erinnerung an Haralds Verdacht gegen Mac Gollerston,
 den Aufseher, begab ich mich sehr bald wieder mit
 <@pagebreak/>
-einer Laterne von draußen zur Hürde und nahm Mac,
+einer Laterne nach draußen zur Hürde und nahm Mac,
 völlig harmlos tuend, mit mir.
 
 Er war sichtlich verstört und erregt, und als ich, sehr
 schnell einsehend, daß infolge des ringsum stark zertrampelten
 Schnees keinerlei einzelne Fährte zu erkennen war, ihn
 fragte, wo er sich aufgehalten habe, als der Schuß fiel,
-erklärte er stotternd. er sei gerade im Begriff gewesen,
+erklärte er stotternd, er sei gerade im Begriff gewesen,
 die Abendrunde um die Hürden zu machen.
 
 Jetzt kam auch Blox herbei. Er hatte Macs letzte
@@ -603,105 +602,104 @@ diesem Mann?«
 Mac Gollerston war ein hübscher Bursche, immer sehr
 sauber, immer nett angezogen und einer der wenigen, die
 damals, als die Farm von den Hirten und Angestellten
-belagert worden war, mit diesen nicht gemeinsame Gabe
+belagert worden war, mit diesen nicht gemeinsame Sache
 gemacht hatte.
 
 Ich hielt mit der Wahrheit nicht hinterm Berge. »Harst
 meinte gleich, es könnte Pelterson gegolten haben — — der
-Ton Und dann seit vielleicht Mac aus Eifersucht gewesen.«
+Schuß! Und dann sei’s vielleicht Mac aus Eifersucht gewesen.«
 
 Mac hatte seine Büchse über der Schulter zu hängen.
 
-Ich nahm sie und roh an der Mündung und prüfte
+Ich nahm sie und roch an der Mündung und prüfte
 den Patronenvorrat.
 
 »Nein, aus dieser Waffe ist nicht geschossen worden …
 Besitzen Sie noch eine Büchse?«
 
-»30 …« Mac war derart verwirrt, daß Blox ihn
-beim Arm packte. »Los, führen Sie uns hin Ihre Stube!«
+»Ja …« Mac war derart verwirrt, daß Blox ihn
+beim Arm packte. »Los, führen Sie uns in Ihre Stube!«
 
 Mac wohnte mit einem anderen Aufseher zusammen in
 einer der Blockhütten neben den Hürden.
 
 In seiner Stube brannte die Petroleumlampe, und in
 Einer Ecke lehnte eine ganz moderne Repetierbüchse, System
-Browning. In Deutschland kennt man nur die Browning
-<@pagebreak/>
-Blox untersuchte die Waffe und brüllte Mac an: Da
+Browning. In Deutschland kennt man nur die Browningpistolen.
 
-— der Geruch Saat genug! Und hier — — frischer Pulvertänieim!!
+<@pagebreak/>
+Blox untersuchte die Waffe und brüllte Mac an: »Da
+— *der* Geruch sagt genug! Und hier — — frischer Pulverschleim!!
 — Ich verhafte Sie!«
 
 Der arme Mac mochte sich in Gedanken schon baumeln
-(oben.
+sehen.
 
 »Ich bin unschuldig …« stammelte er …
 
 »So?! Und Sie wollen hinausgegangen sein, um lediglich
 den üblichen Rundgang zu machen?!« sagte Blox häßlich.
 »Und dann lassen Sie hier die Lampe brennen und
-
-— hier diese Zigarre auf dem AsHtbecher ist von warm!!
-Genick, Sie haben Pelterson draußen zufällig erkannt und
-ii: schleunigst mit der Browningbüchse hinaus, knallten
+— hier diese Zigarre auf dem Aschbecher ist noch warm!!
+Mensch, Sie haben Pelterson draußen zufällig erkannt und
+sind schleunigst mit der Browningbüchse hinaus, knallten
 ihn nieder und eilten wieder hierher zurück und holten
-t:’e andere Waffe und … wollten uns begegnen!! Sehr
-schien!«
+die andere Waffe und … wollten uns begegnen!! Sehr
+schlau!«
 
 Mac Gollerston blieb bei seinen Unschuldsbeteuerungen
 und ließ sich ruhig droben im Verwaltungsgebäude in eine
 Kammer einsperren und die Hände fesseln. —
 
-Hiermit habe ich sozusagen die groben Züge der Vorge’h:
-Geschichte erledigt. Ich habe absichtlich ohne jedes sHhmüdende
+Hiermit habe ich sozusagen die groben Züge der Vorgeschichte
+erledigt. Ich habe absichtlich ohne jedes schmückende
 Beiwerk Tatsachen berichtet. Mein Bestreben ist es auch
 diesmal gewesen, den Leser zu eigenem Nachdenken anzuregen.
-Ich rote jeden!, das zweite Kapitel nochmals zu
+Ich rate jedem, das zweite Kapitel nochmals zu
 lesen und immer wieder die Skizze zu betrachten, auf Der
 lediglich die Lochspur fehlt. Ich habe im ersten Band der
-Old Crack—«Abenteuer versprochen, meinen Freunden besondere
+Old Crack-Abenteuer versprochen, meinen Freunden besondere
 Kost zu bieten. Es handelt sich um Kriminalfälle, die sich
 niemals in einem kultivierten Lande hätten abspielen können.
-Für diese Ereignisse war der große, erhabene Nahmen
+Für diese Ereignisse war der große, erhabene Rahmen
 der Schneegefilde des winterlichen Alaska nötig. Nur in
 dieser Einsamkeit und Weite der Landschaft konnte Harsts
 Genie sich betätigen. Der Schnee, der wie ein weißes Blatt
 jede Spur wiedergab, bildete einzig und allein das Hilfsmittel,
 Mac Gollerston zu überführen. Man klammere sich
 <@pagebreak/>
-jedoch nicht an den engeren Sinn des Wortes »überführen«,
+jedoch nicht an den engeren Sinn des Wortes »überführen«.
 Das wäre falsch.
 
 und nun darf ich mit ein wenig mehr dichterischer
-
 Breite das Folgende schildern. Ich weise nur nochmals
 darauf hin: In Macs Stube brannte die Lampe, und die
 halb aufgerauchte Zigarre war an der Spitze noch warm
-und die Stube voller Zigarrenrauch, die Browninagbüch’e aber
-fraglos soeben benutzt worden. Das sind wichtige Eingekeilten.
+und die Stube voller Zigarrenrauch, die Browningbüchse aber
+fraglos soeben benutzt worden. Das sind wichtige Einzelheiten.
+
 Nachdem Blox den verhafteten Mac sicher untergebracht
 hatte, begaben wir beide uns wieder zu Macs Hütte, wo
-wir den Kollegen Macs Fetzen. Der Mann, ein reinblütiger
-Tlinkit Indianer, schlief wie ein Murmeltier. Der
-Fuselduft seines Mundes sagte genug. Das Schlafmittel
+wir den Kollegen Macs weckten. Der Mann, ein reinblütiger
+Tlinkit-Indianer, schlief wie ein Murmeltier. Der
+Fuselduft seines Mundes sagte genug. *Das* Schlafmittel
 war probat. Er hatte nichts gehört, nichts, also auch nicht,
 ob Mac erst die Hütte verlassen hatte und dann wieder
 zurückgekehrt und sofort wieder weggegangen war.
 
 Andere Zeugen konnten wir auch nicht auftreiben. Es
-waren draußen achtzehn Grad Kalte, und nur die Wächter
-bei den Hürden hatten in ihren Erdlöochern Leiter! und
-auf Wolke aufgepaßt. Keiner der Fährten war jedoch so nahe
+waren draußen achtzehn Grad Kälte, und nur die Wächter
+bei den Hürden hatten in ihren Erdlöchern gesteckt und
+auf Wölfe aufgepaßt. Keiner der Fährten war jedoch so nahe
 der Farm postiert, daß sie etwas hatten sehen können. Im
 übrigen sind diese Erdlöcher mit einem Dach versehen und
-innen Ei. mit Moos gepolstert und haben kleine Dessen
+innen dick mit Moos gepolstert und haben kleine Öfen
 für Torffeuerung.
 
 Blox gehörte zu jenen Leuten, die absolut keinen Sinn
 für Naturschönheiten haben. Er war ein nüchtern denkender
 Beamter, nichts weiter. Daß in dieser Nacht die Nordlichter
-besonders farbenprächtig, war ihm prächtig gleichgültig.
+besonders farbenprächtig, war ihm völlig gleichgültig.
 
 »Gehen wir zu Muschuks Hütte,« sagte er zu mir,
 nachdem wir die Wächter ausgefragt hatten.
@@ -711,22 +709,22 @@ halbe Stunde bis dorthin, und was sollen wir dort?«
 
 <@pagebreak/>
 Wir standen an der blutgeröteten Stelle, wo Pelterson
-das Auge eingebüßt hatte. Ich) trat plötzlich zu etwas
+das Auge eingebüßt hatte. Ich trat plötzlich auf etwas
 Hartes und … hob eine Patronenhülse auf.
 
-»Von einer Browningbüchse, Mr. Moor.«
+»Von einer Browningbüchse, Mr. Blox.«
 
 »Ja,« nickte er gedehnt. »Das ist merkwürdig. Hier kann
 Mac den Schuß doch nicht abgefeuert haben?! Wie kommt
-die Hülse hierher?« Er ro daran. »Stinkt noch, Mr. Schraut.
-Es i’t die Patrone!«
+die Hülse hierher?« Er roch daran. »Stinkt noch, Mr. Schraut.
+Es ist *die* Patrone!«
 
 Er steckte sie ein. »Wenn Sie nicht wollen, gehe ich
 allein. »Tuanatu muß uns erklären, ob Mac Grund und
-Recht zur Eifersucht! hatte. Ich zweifele daran zwar nicht,
-aber im brauche noch mehr Beweise.«
+Recht zur Eifersucht hatte. Ich zweifele daran zwar nicht,
+aber ich brauche noch mehr Beweise.«
 
-»Gut denn, gehen wir.« Ich nahm meine Nemingtonsbüchse
+»Gut denn, gehen wir.« Ich nahm meine Remingtonbüchse
 von der Schulter und hängte sie mir in den Arm.
 Blox grinste.
 
@@ -741,11 +739,11 @@ Wind hatte das Eis hier stellenweise blank gefegt, und der
 schweigsame Blox war halt ein Pechvogel, glitt aus und
 schlug hin, wobei ihm zu meinem Erstaunen die Pelzmütze
 und sein roter Haarwald vom Schädel flogen — und dieser
-Schädel war nicht kahl, sondern mit dunklen Haaren betet.
+Schädel war nicht kahl, sondern mit dunklen Haaren bedeckt.
 Zuweilen handelt man halt automatisch. So ich in dem Moment,
 als ich diese Entblößung Blox’ bemerkte: Ich markierte
 gleichfalls einen Sturz, schrie zur Bekräftigung der
-Täuschung sehr laut »Verdammt — — mein Allerlei«
+Täuschung sehr laut »Verdammt — — mein Achterteil«
 und tat so, als ob ich … nichts gesehen hätte, zumal Blox
 mit affenartiger Fixigkeit den roten Skalp und die Mütze
 wieder aufgestülpt hatte …
@@ -755,59 +753,59 @@ erledigt. Nicht bei mir. Blox’ Person verdiente unbedingt
 <@pagebreak/>
 ein Fragezeichen. Ich wollte nachher mal mit Harst darüber
 reden. Wozu eine Perücke, wenn man eigene Haare hat?! —
-Gewiß, Blox hakte, bei seinem Eintreffen auf der »Farm
-seinen Ausweis nebst gestempelter Ah tograpthie vorgezeigt.
-Aber diese Photographie konnte trotzdem gefälscht jetzt.
+Gewiß, Blox hatte bei seinem Eintreffen auf der Farm
+seinen Ausweis nebst gestempelter Photographie vorgezeigt.
+Aber diese Photographie konnte trotzdem gefälscht sein.
 
-In Muschuks Stallhütte brannte noch List. Wir »ersten,
-und der alte stinkende Indianer öffnete. Er war grinste
-habe. das Bärenfett einzuschmelzen, und die Hatte duftete
-wie eine Scmalzytedereit.
+In Muschuks Stallhütte brannte noch Licht. Wir klopften,
+und der alte stinkende Indianer öffnete. Er war gerade
+dabei, das Bärenfett einzuschmelzen, und die Hütte duftete
+wie eine Schmalzsiederei.
 
-»Tuanatu schlaft,« brummte der Alte in seinem Kauderwelsch.
+»Tuanatu schläft,« brummte der Alte in seinem Kauderwelsch.
 
-»Tee sie,« befahl Blox. »Halt — — wie denkst du
+»Wecke sie,« befahl Blox. »Halt — — wie denkst du
 über Mac, den Aufseher?«
 
-ufdzuk rührte im Kessel und knurrte:
+Muschuk rührte im Kessel und knurrte:
 
-»Er ist hinter den Weibern leer! Von mir hat er schon
+»Er ist hinter den Weibern her! Von mir hat er schon
 mal Prügel bekommen.«
 
 »Ah so! — Und deine Enkelin?«
 
 »Will nichts von ihm wissen …«
 
-Blox setzte sich) auf einen Küchenschemel.
+Blox setzte sich auf einen Küchenschemel.
 
 »Wo warst du eigentlich heute mittag, Muschuk? Der
-Bär wurde da zuletzt im Süden in der buschreichen Schlucht
+Bär wurde doch zuletzt im Süden in der buschreichen Schlucht
 gesehen. Und dort war ich heute. Ich fand auch Fährten
-und Blut und eine Stelle, die abjsiht:ih mit Schnee bestreut
-war. Über die Fährten waren mindestens von gestern.«
+und Blut und eine Stelle, die absichtlich mit Schnee bestreut
+war. Aber die Fährten waren mindestens von gestern.«
 
 Der alte Indianer nickte. »Blut von Wolf … Dort
-hängt das Fell. Ich) fand den Braunen weiter westlich
+hängt das Fell. Ich fand den Braunen weiter westlich
 im Walde in einer Höhle, Mr. Blox.«
 
-Über Blox gab ich damit nicht zufrieden. Er ärgerte
+Aber Blox gab ich damit nicht zufrieden. Er ärgerte
 sich offenbar, weil ihm der Bär entgangen.
 
 »Sage mal, Muschuk,« und er stopfte sich seine Pfeife,
-»ich beobachte die nun des Bären wegen drei Tage. Du
+»ich beobachte dich nun des Bären wegen drei Tage. Du
 Hast eine eigentümliche Art, deine Jagdfahrten zu maskieren,
 anders kann ich das nicht nennen. Wenn du mit deinem
 <@pagebreak/>
 Hundeschlitten davonfegst, nimmst du stets einen großen dichten
 Kiefernast mit.«
 
-»As Windschutz, Mr. Blox.«
+»Als Windschutz, Mr. Blox.«
 
 »Du lügst, Muschuk. Du nimmst ihn mit und dazu
 noch einen großen Stein, den du oben an den Ast bindest,
 den du nachher hinter dem Schlitten schleppen läßt. So
-verwischt du deine Fährte, und der kostete Pulverschnee
-Feder?! die seinen Kratzer deiner Baumharke sehr bald vollständig,
+verwischst du deine Fährte, und der lockere Pulverschnee
+bedeckt die feinen Kratzer deiner Baumharke sehr bald vollständig,
 wenn auch nur ein leises Lüftchen weht.«
 
 Muschuk lächelte unmerklich. »Ich bin Jäger, Mr. Blox.
@@ -818,10 +816,10 @@ Blox schaute in den Kessel, in dem das Bärenfett siedete.
 Das offene Feuer des Herdes warf zuckende Lichter auf sein
 rotbärtiges Gesicht.
 
-»I) traue dir nicht,« meinte er langsam. »Du hast
+»Ich traue dir nicht,« meinte er langsam. »Du hast
 Geheimnisse und du bist schlau.«
 
-Muschuk warf neue Fettstücke in den Kessel. Das Jetzt
+Muschuk warf neue Fettstücke in den Kessel. Das Fett
 zischte, und er erwiderte:
 
 »Jeder hat Geheimnisse. Sie auch, Mr. Blox. Reden
@@ -831,45 +829,45 @@ an und rührte wieder in dem Kessel herum.
 Ephraim Blox hatte den Kopf gesenkt. Es entstand eine
 peinliche Pause.
 
-»oder Detektiv hat Geheimnisse,« meinte er dann. »Das
+»Jeder Detektiv hat Geheimnisse,« meinte er dann. »Das
 liegt in unserem Beruf. — Du warst heute bei dem Wäldchen,
 wo Mr. Harst angeschossen wurde.«
 
 Muschuk wandte sich halb um und starrte Blox an. Sein
-schmutziges, fettriefendes Gesicht glänzte auf der einen Seite
+schmutziges, fetttriefendes Gesicht glänzte auf der einen Seite
 rötlich vom Spiel der Herdflammen.
 
 »Ich war nicht dort, oder besser, ich war erst dort,
 als die Herren hinfuhren und ich mit.« Er sprach ganz
-ruhig. »Soll ich etwa den Schuß abgegeben haben?!
+ruhig. »Soll ich etwa den Schuß abgegeben haben?!«
 
-Blox wußte von nicht, daß zwei Schüsse gefallen waren.
+Blox wußte noch nicht, daß zwei Schüsse gefallen waren.
 
 <@pagebreak/>
-»Es war da eine dritte Schlittenspur an der Nordoste&Xe
-des Gehölzes, also im ganzen waren außer Kapitel
+»Es war da eine dritte Schlittenspur an der Nordostecke
+des Gehölzes, also im ganzen waren außer Harst
 drei Leute dort, von denen wir noch keinen kennen.« Blox
 sann nach und sog an seiner Pfeife. »Ich kann Fährten
-lesen, Unkraut. Von der Farm waren zu der fraglichen
-Zeit folgende Personen abwesend: Salons und deine Enkelin,
+lesen, Muschuk. Von der Farm waren zu der fraglichen
+Zeit folgende Personen abwesend: Schraut und deine Enkelin,
 dann Harst auf Schneeschuhen, ferner Stuart Pelterson und
 du und ich. Harst, Schraut und Tuanatu scheiden aus. Der
 Verdacht, am Rande des Wäldchens gewesen zu sein, bleibt
 auf Pelterson, dir und mir haften. Harst weiß das alles
 vielleicht besser als ich. Gesetzt den Fall, der Verbrecher
-Warger-Karten hätte Harst aufgelauert: Wer waren die
-beiden anderen? — Ich war nicht dort, leider. Also: du
+Warger-Karsten hätte Harst aufgelauert: Wer waren die
+beiden anderen? — *Ich* war nicht dort, leider. Also: du
 und Pelterson. Das ist alles sehr einfach. Fremde Schlitten
-kommen niä)t in Frage. Hier wohnt im Umkreis von zwei
+kommen nicht in Frage. Hier wohnt im Umkreis von zwei
 Tagereisen keine Seele.«
 
 Muschuk parierte den eindeutigen Angriff durch die
 Antwort: »Ich bin in Sitka gut bekannt, Mr. Blox. Die
-Vollendung Mutter ist meine Abnehmerin. Es ist seltsam,
-daß ich Ihnen nie in Sitz begegnete, obwohl ich dort
-Giaur die Polizei kenne. Ich trinke gern, und ich hatte vor
+Fellhandlung Amiter ist meine Abnehmerin. Es ist seltsam,
+daß ich Ihnen nie in Sitka begegnete, obwohl ich dort
+auch die Polizei kenne. Ich trinke gern, und ich hatte vor
 einem halben Jahr deswegen Ungelegenheiten. Sie sind kein
-Detektw.«
+Detektiv.«
 
 Er hatte plötzlich in die Tasche seiner schmierigen Pelzhosen
 gegriffen und hielt Blox eine Coldpistole vor die
@@ -878,16 +876,16 @@ Stirn.
 »Mr. Schraut, er hat Perücke und falschen Bart, der
 Schurke. Nehmen Sie ihm beides ab, damit das gerupfte
 Huhn sein wahres Gesicht zeigt. Wenn er sich wehrt, schieße
-ich. Aufs ich kann Fährten lesen. Er war im Gehölz.
+ich. Auch ich kann Fährten lesen. Er war im Gehölz.
 Er ist ein Verbündeter Wargers. Ich mag alt sein, aber
 meine Augen sind scharf und mein Geist klar. Er hat auch
-Medien angeschossen. Es ist Zeit, daß wir ihm unschädlich
-mag
+Pelterson angeschossen. Es ist Zeit, daß wir ihn unschädlich
+machen.«
 
 <@pagebreak/>
 Ich brauchte nicht lange zu überlegen. Ich nahm Blox,
-Her merkwürdig bleich) geworden, Mütze, Perücke und Bart
-ab, und was so zum Vorschein kam, war ein Mensch«
+der merkwürdig bleich geworden, Mütze, Perücke und Bart
+ab, und was so zum Vorschein kam, war ein Mensch
 von höchstens dreißig Jahren.
 
 »Fesseln Sie ihn, Mr. Schraut, und dann durchsuchen
@@ -896,28 +894,28 @@ Sie ihn.«
 Blox wollte aufspringen. Ich hatte schon zugepackt, und
 des alten Indianers grimme Miene warnte dieses fragwürdige
 Subjekt. Merkwürdigerweise blieb er bei alledem
-recht bescheiden, wehrte sich; gar nicht und meinte nur:
-»Neben Sie sich keine Mühe zu erfahren. wer ich bin. Ich
-heiße nicht Blox. Mein Ausweis litt gefälscht. Trotzdem bin
-ich ein anständiger Kerl, das werden Sie schon eingehen,
+recht bescheiden, wehrte sich gar nicht und meinte nur:
+»Geben Sie sich keine Mühe zu erfahren, wer ich bin. Ich
+heiße nicht Blox. Mein Ausweis ist gefälscht. Trotzdem bin
+ich ein anständiger Kerl, das werden Sie schon einsehen,
 Mr. Schraut. Was mich hierher geführt hat, ist meine
-Sache. Mit WargerKarjten habe ich nichts zu schasfen’
+Sache. Mit Warger-Karsten habe ich nichts zu schaffen.«
 
 Seine Taschen enthielten nichts, wodurch ich über seine
-Persönlichkeit Aufschluß erhalten hätte. Innern sein Gern,
+Persönlichkeit Aufschluß erhalten hätte. Auch sein Gepäck,
 das nachher durchsucht wurde, verriet nichts.
 
-Ausdruck sagte mit seiner unvergleichlicher Ruhe: »Sie
-könnten ein wenig auf den Kessel achtgeben, Mr. Oberrand.
+Muschuk sagte mit seiner unvergleichlicher Ruhe: »Sie
+könnten ein wenig auf den Kessel achtgeben, Mr. Schraut.
 Ich spanne einen Schlitten an, und Sie fahren mit Blox
 zur Farm zurück.«
 
 Er ging hinaus. Blox mit seinen gefesselten Händen
-horchte nach der Tür hin.« Als die schwere Haustür ebenfalls
+horchte nach der Tür hin. Als die schwere Haustür ebenfalls
 zufiel, meinte er leise:
 
 »Hüten Sie sich, Mr. Schraut. Warger ist bestimmt
-in der Nähe. Ich gebe Ihnen mein Wort, daß sich« kein
+in der Nähe. Ich gebe Ihnen mein Wort, daß ich kein
 Schurke bin. Die Dinge hier stehen ernster als Sie vielleicht
 glauben.«
 
@@ -925,28 +923,28 @@ Seine Züge waren durchaus nicht unsympathisch. Als
 Detektiv hatte er eine bestimmte Rolle gespielt. Jetzt gab
 er sich anders.
 
-»Streckt etwa Muschuk mit Warger zusammen?« fragte
-ich und!chob friscmches Holz unter den Kessel.
+»Steckt etwa Muschuk mit Warger zusammen?« fragte
+ich und schob frisches Holz unter den Kessel.
 
 <@pagebreak/>
-»Das möchte ich nicht behaupten,« erwiderte er achselzuckend,
+»Das möchte ich nicht behaupten,« erwiderte er achselzuckend.
 »Ich bin nicht geübt im Kombinieren, obwohl ich
-übergenug Lebenserfahrungen Beize, auch genug juristische
+übergenug Lebenserfahrungen besitze, auch genug juristische
 Kenntnisse. Tragen Sie alles, was hier neu geschehen, Ihrem
-Freunde Harst vor. Ich verehre ihn.« …
+Freunde Harst vor. Ich verehre ihn.« 
 
-Wir hörten draußen im Stall die Hunde klaffen. Ausdruck
-hatte eine Meute von sechzehn PracHhttieren und dazu eine
-eigene Herde von etwa hundert Nennt. Sein Grundstock
+Wir hörten draußen im Stall die Hunde kläffen. Muschuk
+hatte eine Meute von sechzehn Prachttieren und dazu eine
+eigene Herde von etwa hundert Renns. Sein Grundstück
 hatte er von Crack gepachtet, und es war so groß wie ein
-deutschmes mittleres Landaqut und erstreckte sich nach Osten
+deutsches mittleres Landgut und erstreckte sich nach Osten
 zu bis an die Randberge der ungeheuren Hochebene.
 
 Dann kam der Indianer zurück, und Blox marschierte
 von selbst hinaus. Es war ein langer Schlitten mit acht
 Hunden. Ich verstand immerhin schon so viel vom Lenken,
-daß ich ohne Sorge die Falls antrat. Muschuk sagte mir
-noch, ich solle nachher den (Schlitten einfach den Hunden
+daß ich ohne Sorge die Fahrt antrat. Muschuk sagte mir
+noch, ich solle nachher den Schlitten einfach den Hunden
 überlassen, die würden ihn schon allein zurückbringen. Er
 riet mir auch, links um den See zu biegen, da dieser
 einige warme Quellen und daher ganz dünne Eisstellen habe.
@@ -957,7 +955,7 @@ Muschuk riet links, daher besser rechts.«
 
 Ich befolgte den Wink, obwohl mir unklar war, was
 mir zustoßen könnte. Es schneite leicht, und das trübe Halbdunkel
-lich einen sicheren Schuß gar nicht zu. Ich legte
+ließ einen sicheren Schuß gar nicht zu. Ich legte
 die Büchse über die Knie und riß den Leithund kurz vor
 dem See scharf nach rechts. Das Gespann gehorchte, und wir
 sausten parallel zum Seeufer nach Westen.
@@ -968,20 +966,20 @@ Mit einem Male rief Blox:
 Hände frei … Ich werde schießen, falls nötig.«
 
 Ich drehte den Kopf. Auch ich erblickte den Schlitten.
-Er kam näher. Es war ein kleiner schmalen Schlitten, und
-ich zählte sechs Hunde, Der Mann darin war natürlich
+Er kam näher. Es war ein kleiner schmaler Schlitten, und
+ich zählte sechs Hunde. Der Mann darin war natürlich
 <@pagebreak/>
 nicht zu erkennen, schien aber einen dunklen Vollbart zu
-sauber,
+haben.
 
 Eine innere Stimme sagte mir, daß ich Blox trauen
 dürfte. Ich nahm ihm die Fesseln ab, und er griff sofort
 nach seiner Büchse und setzte sich rittlings hin, um den
-Verfasser bequemer beobachten zu können.
+Verfolger bequemer beobachten zu können.
 
 Plötzlich knallte ein Schuß, und Blox schrie leise auf.
 
-»Tag war nur ein Zuschauer Haare,« sagte er und feuerte
+»Das war nur ein Büschel Haare,« sagte er und feuerte
 nun seinerseits,
 
 »Gut so,« lachte er. »Der eine Hund ist getroffen. Der
@@ -991,16 +989,16 @@ Ehe er den Hund abschneidet, sind wir über ihm!«
 <h2>4. Kapitel.</h2>
 
 Im Bogen ging’s zurück. Blox wollte gerade von neuem
-feuern, als links ein zweiter Seiten erschien und eine
+feuern, als links ein zweiter Schlitten erschien und eine
 zweite Kugel uns warnte. Fast gleichzeitig drückte auch der
-er)te Gegner ab, und unser Leithund überkugelte sich mit
+erste Gegner ab, und unser Leithund überkugelte sich mit
 grellem Aufheulen, wurde noch ein Stück mitgeschleift, und
 unser Schlitten stand.
 
 »In den Schnee!« brüllte Blox.
 
 Ich warf mich zur Seite, und die beiden nächsten
-Kugeln setzten über uns hinweg.
+Kugeln fegten über uns hinweg.
 
 Blox lag im Schnee und zielte bedächtig. Aber zum
 Schuß kam er nicht mehr. Der Schnee fiel dichter, und die
@@ -1008,67 +1006,66 @@ beiden Gegner jagten davon. Ihren toten oder verwundeten
 Hund nahmen sie mit. Blox schnitt unseren armen Köter, der
 bereits verendet war, rasch vom Hauptseil ab und meinte:
 
-»Zurück zu Ausschnitt«
+»Zurück zu Muschuk!!«
 
 <@pagebreak/>
-In zehn Minuten hielten wir vor der Haus&tür. Der
-
-alte Stinkt stand in seiner Küche und goß gerade das Fett
-in steinerne Topfe. Er schaute uns überrascht an und sagte
+In zehn Minuten hielten wir vor der Haustür. Der
+alte Tlinkit stand in seiner Küche und goß gerade das Fett
+in steinerne Töpfe. Er schaute uns überrascht an und sagte
 ruhig:
+
 »Ich riet Ihnen links zu fahren. Ich weiß seit drei
-Tagen, daß sich hier zwei unbekannte Schritten umhertreiben.
-Mir haben die Kerle immer reichte vom See in den
+Tagen, daß sich hier zwei unbekannte Schlitten umhertreiben.
+Mir haben die Kerle immer rechts vom See in den
 Büschen aufgelauert. Ich rede nicht gern darüber. Es sind
 sicherlich Kerle von der Farm, die es noch immer mit
 Warger halten.«
 
-Ich schaute auf seine Pelzstiefel. Sie waren traten.
+Ich schaute auf seine Pelzstiefel. Sie waren trocken.
 Er konnte keiner der beiden Schlittenfahrer gewesen sein.
 
-Blox’ Benehmen setzte mich rote mehr als bisher in
-Staunen »Ich werde in den Stall gehen und die Schlitten
+Blox’ Benehmen setzte mich noch mehr als bisher in
+Staunen. »Ich werde in den Stall gehen und die Schlitten
 und die Hunde besichtigen. Ihr Blick auf die Stiefel des
 Alten genügt mir nicht, Mr. Schraut.« Er sprach mit einem
-Male perfekt franzosisQ, und Muschuk hatte davon keine
-Ahnung, schon sein Egoist; war mehr ein Gemisch von
-Eskimo«, Indianer« und vulgären englischen Worten.
+Male perfekt französisch, und Muschuk hatte davon keine
+Ahnung, schon sein Englisch war mehr ein Gemisch von
+Eskimo-, Indianer- und vulgären englischen Worten.
 
-Als Blox draußen war, gab der alte Sinkt mir einen
+Als Blox draußen war, gab der alte Tlinkit mir einen
 Schnaps: Alkohol mit Wacholderbeeren und Honig, ein
-Getränk, das in Glatt sehr beliebt ist und Schmuck genannt
+Getränk, das in Alaska sehr beliebt ist und Schumk genannt
 wird, was aus der Eskimosprache stammt und so viel
-wie »Schlag« bedenke … In der Tat ist ein Schmuck ein
+wie »Schlag« bedeutet. In der Tat ist ein Schumk ein
 Schlag für jede Kehle. Man hustet und krächzt und im
 Magen brennt’s wie Feuer.
 
 »Mr. Schraut,« sagte der alte Mann und trug seine
 Fettöpfe in eine Ecke, »nun haben Sie einem Menschen die
-Freiheit zurückgegeben, der ir Vertrauten täuschen wird.
+Freiheit zurückgegeben, der ihr Vertrauen täuschen wird.
 Mir ist es ja gleichgültig, denn was gehen mich all diese
 Geschichten an?! Nichts! Wenn man mich hier ärgert, wandere
 ich nach Osten mitten in die Berge und baue mir ein anderes
-Heim. Die Einsamkeit stört Miß nicht. Ich kam nur meiner
+Heim. Die Einsamkeit stört mich nicht. Ich kam nur meiner
 Enkelin wegen her, damit sie Schreiben und Lesen lernte.
-
 <@pagebreak/>
-Sie ist lernte siebzehn Jahre und sehr klug. Ich bin stolz
+Sie ist heute siebzehn Jahre und sehr klug. Ich bin stolz
 auf sie. Sie wäscht sich jeden dritten Tag und ist eine
-Lacht).’
+Lady.«
 
 Muschuk hatte sehr bescheidene Begriffe von einer Lady.
-Wie mochte er dann erst Witz Ellen Balkon einschätzen,
-die da) in Wahrheit junge Dame war. — Seine Äußerungen
+Wie mochte er dann erst Miß Ellen Barkam einschätzen,
+die doch in Wahrheit junge Dame war. — Seine Äußerungen
 über Blox klangen in keiner Weise feindselig. Er tat sie
-überhaupt wohl nur. weil er eben Blox für einen Schurken
-hielt. War er in dieser Beziehung helisichtiger als ich?!
+überhaupt wohl nur, weil er eben Blox für einen Schurken
+hielt. War er in dieser Beziehung hellsichtiger als ich?!
 Im Grunde war’s ja von mir ein Leichtsinn, Blox sich
-geübt zu überlassen. Was wußte ich von ihm?! Nichts!
+selbst zu überlassen. Was wußte ich von ihm?! Nichts!
 
 Muschuk meinte, er wolle doch lieber auch in den Stall
-gehen. Dabei zwinkerte er mir zu. Ich führte die Ironie,
+gehen. Dabei zwinkerte er mir zu. Ich fühlte die Ironie,
 und da erst fiel mir ein, daß Blox sehr leicht mit dem
-sitzen, den wir vor der Tür gelassen, hatte fliehen
+Schlitten, den wir vor der Tür gelassen, hatte fliehen
 können.
 
 »Du meinst, er ist gar nicht mehr da, Muschuk?« rief
@@ -1082,41 +1079,41 @@ Es schneite heftiger. In diesem Flockentanz war jede
 Spur nach wenigen Minuten zugedeckt.
 
 »Ich werde Sie nach der Farm bringen,« erklärte der
-Indianer mit einem untersuchen Kichern. »Aber den Schlitten
-noch die Hunde müssen Sie mir bezahlen, Mr. Schraut.
-gen wir zwanzig Dollar.«
+Indianer mit einem unmerklichen Kichern. »Aber den Schlitten
+und die Hunde müssen Sie mir bezahlen, Mr. Schraut.
+Sagen wir zwanzig Dollar.«
 
 Wir kehrten in die Küche zurück. Ich war sehr niedergeschlagen,
 denn ich hatte schwere Fehler gemacht, und was
-Harst dazu sagen würde, nutzte ich. Er würde mich schweigend
+Harst dazu sagen würde, wußte ich. Er würde mich schweigend
 ansehen. Die Art Blicke kannte ich.
 
 Als ich dem Alten das Geld gab, erschien meine kleine
 Freundin Tuanatu völlig verschlafen in einer Art Morgenrock
 aus echtem Silberfuchs, der hinten nachschleppte und
-gut seine zweitausend Dollar wert war, Sie trug Pantöffelchen
+gut seine zweitausend Dollar wert war. Sie trug Pantöffelchen
 <@pagebreak/>
 und rauchte natürlich eine Zigarette. Ohne Zigarette
 war sie undenkbar. Sie war sehr verwundert, mich hier
 zu sehen, drückte mir lachend die Hand und meinte, sie
-freue sie sehr, denn sie könne doch nicht Grafen. Es drohe
+freue sich sehr, denn sie könne doch nicht schlafen. Es drohe
 bestimmt ein Unheil, fügte sie ernster hinzu und setzte
-sich auf einen Lautlos und schielte zu Muschuk empor. »Zu
+sich auf einen Hauklotz und schielte zu Muschuk empor. »Du
 weißt, Großvater, meine Ahnungen trügen niemals.«
 
-Der Die nickte. »In meiner Familie waren viele Männer
-Grundriß, Mr. Schraut, — Zauberer nennen Sie das …«
+Der Alte nickte. »In meiner Familie waren viele Männer
+Owatnik, Mr. Schraut, — Zauberer nennen Sie das …«
 
-Dann ging er und machte einen Südküsten fertig.
+Dann ging er und machte einen Schlitten fertig.
 
-Tuanatu jagte ganz leise: »Was ist geschehen, Mister
+Tuanatu sagte ganz leise: »Was ist geschehen, Mister
 Schraut …?«
 
 Ich erzählte. Sie hatte den Kopf in die Hand gestützt
 und wippte mit der Fußspitze gedankenverloren den
-Saft zu meinen Worten. Puls ich erwähnte, Blox hätte
-so getan. als ob er Verdacht gegen ihren Großvater hegte,
-vergehe sich ihr Gesicht wie im Krampf und ein Haß loderte
+Takt zu meinen Worten. Als ich erwähnte, Blox hätte
+so getan, als ob er Verdacht gegen ihren Großvater hegte,
+verzog sich ihr Gesicht wie im Krampf und ein Haß loderte
 in ihren Augen auf, der mich schier verwirrte. — »was
 hat Blox Ihnen getan, Tuanatu?« fragte ich bestürzt. »Ich
 denke, nur Stuart Pelterson war zudringlich und vielleicht
@@ -1124,73 +1121,73 @@ unverschämt.«
 
 Sie lachte hart. »Blox?!« Sie warf die Zigarette auf
 den Lehmboden und meinte: »Seien Sie vorsichtig, Mister
-Schraut. Meine Ahnungen trügen nie.« Ausruf trat ein.
+Schraut. Meine Ahnungen trügen nie.« Muschuk trat ein.
 »und was der Großvater von den beiden fremden Schlitten
-sprach,« fügte sie hinzu, »das stimmt schon. Er Verbot mir
+sprach,« fügte sie hinzu, »das stimmt schon. Er verbot mir
 darüber zu reden. Er hat ja auch recht … Was geht
-uns dies alles an?!« …
+uns dies alles an?!« 
 
 Ich hatte mir das Wichtigste aufgespart.
 
 »Mac Gollerston hat auf Pelterson geschossen, Tuanatu,
 und nun sitzt er gefesselt im Verwaltungsgebäude.«
 
-Es machte zu dies keinerlei Eindruck auf sie. Sie
+Es machte auch dies keinerlei Eindruck auf sie. Sie
 hob nur die Schultern.
 
-»Mac ist ein Narr. Alle Männer sind Narren. Wenn.
+»Mac ist ein Narr. Alle Männer sind Narren. Wenn
 <@pagebreak/>
 Weiber weiße Zähne, blanke Augen und ein junges Gesicht
 haben, verlieren sie den Verstand.«
 
-Muschuk zog seinen Weltreich an und langte nach seiner
+Muschuk zog seinen Pelzrock an und langte nach seiner
 Flinte.
 
-»Drehen wir auf …/«
+»Brechen wir auf …!«
 
 Das Mädchen erhob sich. »Laß mich den Herrn zur
-Farm zurückbringen, Großvater. Ich muß frische Luft!höopfen.
-Du hast das ganze Haus mit dem Bärenfett befreit?!.
-Bestie meine Fenster und lege Kohlen in den Ofen.«
+Farm zurückbringen, Großvater. Ich muß frische Luft schöpfen.
+Du hast das ganze Haus mit dem Bärenfett verpestet.
+Öffne meine Fenster und lege Kohlen in den Ofen.«
 
 Muschuk sagte nur: »Du bleibst. Höre den Sturm …
-Der Schnee fällt wie die Federn der Eidergänse im Filiale
-…« — Er machte dazu eine Handbewegung, ie
+Der Schnee fällt wie die Federn der Eidergänse im Frühjahr
+…« — Er machte dazu eine Handbewegung, die
 wie eine drohende Geiste war. Tuanatu gab mir die Hand.
-»Gute Nacht also … Kommen Sie zu! sein und lassen Sie
+»Gute Nacht also … Kommen Sie gut heim und lassen Sie
 sich vom Sturm nicht aus dem Schlitten wehen, halten
 Sie sich ordentlich fest, Mr. Schraut.«
 
 Es war alles sehr eigentümlich hier, und ich setzte
 mich ein wenig besorgt in den Schlitten hinter Muschuk.
 
-<h2>8. Kapitel.</h2>
+<h2>5. Kapitel.</h2>
 
 Es war ein tolles Wetter. Nicht die Hand vor den
 Augen zu sehen. Der Wind trieb den lockeren Schnee
-doch, und wo sich Wirbel bildeten, glitt der Schlitten
+hoch, und wo sich Wirbel bildeten, glitt der Schlitten
 geradezu wie durch eine feste, eisige Wand hindurch. Im
 Nu war ich völlig weiß, meine Brille half mir nichts, ich
 steckte sie in die Innentasche und schloß die Augen. Wir
-fuhren mit dem Sturm im Rüden, und die Hunde rasten
+fuhren mit dem Sturm im Rücken, und die Hunde rasten
 wie toll. Zuweilen streiften Zweige mein Gesicht, dann wieder
 <@pagebreak/>
-gab es einen bösen Munter, und ich flog fast hinaus. —
+gab es einen bösen Rumpler, und ich flog fast hinaus. —
 »Festhalten!« brüllte Muschuk.
 
-Felsens Richtung er wählte, war nicht zu erkennen.
-Mit Unbehagen dachte ich) an die Wolfsgruben, die streckenweise
+Welche Richtung er wählte, war nicht zu erkennen.
+Mit Unbehagen dachte ich an die Wolfsgruben, die streckenweise
 angelegt waren und jeden Tag nachgesehen wurden.
-Diele Gedanken waren begründet, denn das!chaucrliche
-langgezogene Heulen der hungrigen Bestien sehnig von
+Diese Gedanken waren begründet, denn das schauerliche
+langgezogene Heulen der hungrigen Bestien erklang von
 allen Seiten.
 
 Wir waren noch keine fünf Minuten unterwegs, als
-der Hinten gegen einen holten Baumstumpf raste. Die
+der Schlitten gegen einen hohen Baumstumpf raste. Die
 Hunde waren noch rechtzeitig ausgewichen, und der Schlitten
 erhielt den Stoß von der Seite, ich selbst schlug mit dem
 Kopf gegen den knorrigen Stamm, das Bewußtsein schwand
-mir für Sekunden, und als im wieder zu mir kam, lag ich
+mir für Sekunden, und als ich wieder zu mir kam, lag ich
 in einer der fünf Meter tiefen Gruben, — ein Wunder,
 daß ich mich nicht auf den Eisenspitzen unten am Boden
 aufgespießt hatte. Ich war weich gefallen, unter mir regte
@@ -1203,29 +1200,29 @@ Ich war so verblüfft, daß ich nur aufschrie:
 
 »Blox — — Sie?!«
 
-»Ab — — Schraut …! Der Zufall spielt seltsam …
+»Ah — — Schraut …! Der Zufall spielt seltsam …
 Auch ich bin hier hineingeraten, und der Teufel mag wissen,
 wo mein Schlitten geblieben ist.«
 
 »Sind Sie verletzt?«
 
-»Rein, nur halb erfroren. Ich hatte schon mein Testament
-gemacht. Meine Versuche hinaus8zuklettern blieben
+»Nein, nur halb erfroren. Ich hatte schon mein Testament
+gemacht. Meine Versuche hinauszuklettern blieben
 umsonst, die Wände sind glatt wie Holz, und Steigelöcher
-auszufragen war unmöglich.«
+auszukratzen war unmöglich.«
 
 Wir sahen nichts voneinander. Vorsichtig setzte ich mich
 neben Blox. »Weshalb flohen Sie?«
 
-231 »Aus bestimmten Gründen wollte ich zuerst die Farm
+»Aus bestimmten Gründen wollte ich zuerst die Farm
 <@pagebreak/>
 erreichen. Wenn ich hätte fliehen wollen, wäre ich wohl
-nichts nach Süden gefahren. Wir müssen hier ja ganz dicht
-bei den ersten Hürden sein. Ich) … — still, — — es sind
+nicht nach Süden gefahren. Wir müssen hier ja ganz dicht
+bei den ersten Hürden sein. Ich … — still, — — es sind
 Wölfe oben am Rande der Grube … Haben Sie noch
 Ihre Büchse?«
 
-»Ich weiß nicht … Ich werde mal umbhertasjten …«
+»Ich weiß nicht … Ich werde mal umhertasten …«
 
 Ich rutschte vorwärts, »Ah, hier ist sie … Und Sie,
 Blox?«
@@ -1233,11 +1230,11 @@ Blox?«
 »Ich habe die meine ebenfalls.«
 
 Das Röcheln und Knurren der Bestien droben wurde
-rosa lauter. Es mußte ein ganzes Rudel sein.
+noch lauter. Es mußte ein ganzes Rudel sein.
 
-Blox sagte kaltblüti4:
+Blox sagte kaltblütig:
 
-»Hier können wir List bleiben. Vielleicht findet Muschuk
+»Hier können wir nicht bleiben. Vielleicht findet Muschuk
 uns nicht, bei dem Unwetter wär’s kein Wunder. Ich werde
 aufstehen, Sie klettern mir auf die Schulter und knallen
 erst mal zwischen die Bestien, es wird schon helfen.«
@@ -1249,7 +1246,7 @@ Blox war im Nu auf meinen Schultern. Er schoß
 fünfmal, und eins der Tiere polterte kopfüber zu uns
 herab.
 
-Dann zgeschabh etwas sehr Merkwürdiges. Blox brüllte
+Dann geschah etwas sehr Merkwürdiges. Blox brüllte
 auf, der Druck seiner Pelzstiefel auf meinen Schultern ließ
 nach, und als ich nach oben fühlte, war Blox nicht mehr da.
 
@@ -1269,24 +1266,24 @@ war?!
 
 Aber die Wut gegen den Schurken packte mich mit
 <@pagebreak/>
-sollen Macht, daß ich nach einer Weile, als ich oben am
-Rande die Wolke abermals knurren hörte, auf einen verzweifelten
-Gedanken kam. Ich machte »en Riemen der Büchse
-unten los und befestigte das freie Riemenende an meinem.
-Versteck. Not) einigen Versuchen gelang es mir: wirklich,
-mit dem rechten T1u:3 auf der Mündung der an die Wandung
-geschrien Büuci)je Halt zu finden und den eine Baumwurzel
-zu packen. Gerade Ader mir leuchteten die Augen
-eines Wolfes wie grüngelbe Ruhten. Ich gab mir einen
-Schwang, bekam den Kopf der Bestie zu packen und hielt mich
-krampfhaft fest. Der Wolf zerrte rückwärts, und ich putzte
+solcher Macht, daß ich nach einer Weile, als ich oben am
+Rande die Wölfe abermals knurren hörte, auf einen verzweifelten
+Gedanken kam. Ich machte den Riemen der Büchse
+unten los und befestigte das freie Riemenende an meinem
+Pelzrock. Nach einigen Versuchen gelang es mir wirklich,
+mit dem rechten Fuß auf der Mündung der an die Wandung
+gelehnten Büchse Halt zu finden und oben eine Baumwurzel
+zu packen. Gerade über mir leuchteten die Augen
+eines Wolfes wie grüngelbe Funken. Ich gab mir einen
+Schwung, bekam den Kopf der Bestie zu packen und hielt mich
+krampfhaft fest. Der Wolf zerrte rückwärts, und ich rutschte
 etwas über den Grubenrand hinweg, arbeitete mich noch
 höher und kniete auf festem Boden, riß die Büchse hoch,
 und … vor mir eine Stimme — — ein Schuß — —
 noch einer … Schattenhaft huschten die Wölfe davon.
 Der arme Kerl, der mich herausgezogen, heulte kläglich und
 schleifte das Hinterteil nach und verschwand ebenfalls. In
-den Schleiern der Klaren tauchte Muschuk auf.
+den Schleiern der Flocken tauchte Muschuk auf.
 
 »Mr. Schraut, — — endlich!! Endlich!! Die verdammten
 Hunde sind mit dem Schlitten auf und davon. Auch ich
@@ -1299,9 +1296,9 @@ berüchtigte Wacholderschnaps, und ich fühlte Feuer im
 Magen und lachte ganz vergnügt und klopfte dem Alten
 auf die Schulter.
 
-Muschuk war durch Haus sachlich wie immer. »Ich werde
+Muschuk war durchaus sachlich wie immer. »Ich werde
 die Wölfe abhäuten, um die Felle ist es schade, nach ein
-paar Minuten wäre!. die Bestien eingeschneit. Helfen Sie
+paar Minuten wären die Bestien eingeschneit. Helfen Sie
 mir, Mr. Schraut.«
 
 Eigentlich war das ja eine starke Zumutung. Aber
@@ -1309,31 +1306,31 @@ ein Pelzjäger kennt eben nur eins: Sein blutiges Geschäft!
 
 Im ganzen waren vier Wölfe von Blox und Muschuk
 <@pagebreak/>
-erregt worden. Der alte Indianer besaß eine fabelhafte
-Petunien darin, den Tieren den Rock abzustreifen. So lange
-die Kadaver warm sind, geht es ja auch a: Zügelten.
+erlegt worden. Der alte Indianer besaß eine fabelhafte
+Fertigkeit darin, den Tieren den Rock abzustreifen. So lange
+die Kadaver warm sind, geht es ja auch am schnellsten.
 
-Muschuk fragte be’iäufig auch nach Vor, über den ich
-farbige! er nur ein paar scharfe Vemerkunge « geschaut »hatte,
+Muschuk fragte beiläufig auch nach Blox, über den ich
+bisher nur ein paar scharfe Bemerkungen gemacht hatte,
 
-»Schuft bleibt Schuft!« meinte er., ’. er mit in
-die!« Schneegentöber nicht weit kommen. € erscholl vom c«
-Wracks: wo erfroren … « Mag er!«
+»Schuft bleibt Schuft!« meinte er. »Doch er wird in
+diesem Schneegestöber nicht weit kommen. Morgen liegt er
+irgendwo erfroren … Mag er!«
 
-ir waren mit der eklen Arbeit fertig, und der Alte
-marschierte als Führer voraus. Es dauerte eine knallte
-Stunde, bis wir seine Blockhütte fanden. Vor dem Strahl
+Wir waren mit der eklen Arbeit fertig, und der Alte
+marschierte als Führer voraus. Es dauerte eine halbe
+Stunde, bis wir seine Blockhütte fanden. Vor dem Stall
 lagen zwei Schlitten und ein Knäuel Hunde, die schon
 völlig vom Schnee bedeckt waren. Es waren Blox’ Schlitten
-absurd der, den wir benutzt hatten. Ich ging ins Haus,
+und der, den wir benutzt hatten. Ich ging ins Haus,
 während Muschuk Schlitten und Hunde in den Stall brachte.
 In der Küche saß Tuanatu noch in derselben Haltung wie
-vorhin auf dem Bankrott, den Kopf in die Hand gestützt,
+vorhin auf dem Hauklotz, den Kopf in die Hand gestützt,
 ins Herdfeuer starrend. Sie drehte sich nicht um, sondern
 sagte nur mit einem tiefen Seufzer:
 
 »Gib mich frei … Ich mache nicht mehr mit …
-Ich erste hier … Ich sauste dich!t
+Ich ersticke hier … Ich hasse dich!!«
 
 Ich stand wie angewurzelt.
 
@@ -1346,16 +1343,16 @@ Sie fuhr hoch.
 
 »Ah. — — ich bin so froh …! — Sagen Sie selbst,
 Mr. Schraut, kann man es in diesem Gestank aushalten?!
-Es gibt Augenblicke, wo ich den Großvater wirklich Ei
+Es gibt Augenblicke, wo ich den Großvater wirklich zu
 hassen glaube! Ist das ein Leben!! Er ist so schmutzig, und
-ist sehne mich nach Sauberkeit …
+ich sehne mich nach Sauberkeit …«
 
 Plötzlich begann sie zu weinen und ging weinend
-hinüber in ihre Stube, — …
+hinüber in ihre Stube. — 
 
-<@pagebreak/>
+<@pagebreak 37/>
 
-Das Grab in der Kehle
+<h1>Das Grab in der Höhle.</h1>
 
 <h2>1. Kapitel.</h2>
 
@@ -1956,7 +1953,7 @@ vom Gehölz weg bis zum Warmen Bach, Als er gerade
 mit dem Transport der Hunde und des Existenz als
 Stelzengänger fertig war und mich beschlich, war Pelterson
 an! Rande des Wäldchens eingetroffen. Pelterson Jahr den
-Mann, machte sich bemerkbar, und der meuchlerischce Schuß
+Mann, machte sich bemerkbar, und der meuchlerische Schuß
 traf nur meinen Schenkel. Aber auch Pelterson feuerte, um
 den Kerl zu verscheuchen. Der entfloh, und auch Pelterson
 jagte davon. Dieser kennt den Täter, hat aber seine Gründe,
@@ -2166,7 +2163,7 @@ gewann ein Thermometer,
 »Achtundzwanzig Grad,« sagte Harald. »Wie wär’s,
 Material?! Ein Bad würde dir guttun.« Er lachte herzhaft
 und gab dem Alten einen Stoß — so plötzlich, daß Datums
-Abwesend hineinplatscte,
+Abwesend hineinplatschte,
 
 Mit einem Male hatte Harald da seine Pistole in
 der Hand.
