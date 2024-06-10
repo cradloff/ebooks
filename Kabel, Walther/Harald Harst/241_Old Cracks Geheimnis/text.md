@@ -2176,48 +2176,48 @@ und zitterte,
 
 »Nein, es ist bitterster Ernst, mein Alter. Seife nur
 diesem Schurken die Visage ab, und was dann zum Vorschein
-kommen wird, dürfte eins allen bekannt sein Muschuk
-ist kein anderer als Samuel Warger alias Speisten, und
+kommen wird, dürfte euch allen bekannt sein. Muschuk
+ist kein anderer als Samuel Warger alias Karsten, und
 genau so wie er früher die Rolle als Crack und Mac
-Horcht gespielt hat, war er hier auch seit zwei Jahren
-»Muschuk«, und Tuanatu wußte das. Wie er das Mäddn
-für sie gewonnen hat, wird sich noch herausstellen.«
+Dormit gespielt hat, war er hier auch seit zwei Jahren
+»Muschuk«, und Tuanatu wußte das. Wie er das Mädchen
+für sich gewonnen hat, wird sich noch herausstellen.«
 
-Es war dies vielleicht eine der seltsamsten Entlarvungszszenen,
+Es war dies vielleicht eine der seltsamsten Entlarvungsszenen,
 die ich je miterlebt habe. Das Komische der Situation
 kam niemandem mehr zum Bewußtsein. Wir alle außer
 Harst und dem Mann in der Badewanne glichen für
 Minuten Salzsäulen. Niemand hatte mit dieser Enthüllung
 <@pagebreak/>
 gerechnet. Sie kam wie ein Blitz aus heiterem Himmel.
-Unsere Gestatten verloren die Farbe, und aus Toms Brust
+Unsere Gestalten verloren die Farbe, und aus Toms Brust
 entrang sich ein Stöhnen, das der Schande galt, die nun
 vor den Schranken des Gerichts den Namen Warger, den
 er selbst trug, treffen mußte.
 
-Samuel Warger, ständig bedroht durch; die Pistole,
+Samuel Warger, ständig bedroht durch die Pistole,
 lächelte verzerrt und fand allmählich seine bewundernswerte
-Frechheit wieder. »Mr. Harst, Sie haben mich) überlistet,«
+Frechheit wieder. »Mr. Harst, Sie haben mich überlistet,«
 sagte er mit seiner natürlichen, unverstellten Stimme in
 tadellosem Englisch. »Hätten Sie mir noch zwei Stunden
-Zeit gelassen, dann letzten Sie und Schraut nicht mehr.
+Zeit gelassen, dann lebten Sie und Schraut nicht mehr.
 Als Sie mir den Lasso abkauften, und nach Blox’ Perücke
 und Bart fragten, wußte ich, daß Sie mich erkannt hatten.«
 
 Er griff in den Mund und holte zwei Gummischeiben
 hervor, die seine Wangen prall und rund gemacht hatten.
-Dann entfernte er die fest angeklebten buschigen Uugensbrauen
-und die zottige Länge Perücke und fügte hinzu:
-»Natürlich wissen Sie Bescheid … Im; war der Attentäter,
+Dann entfernte er die fest angeklebten buschigen Augenbrauen
+und die zottige lange Perücke und fügte hinzu:
+»Natürlich wissen Sie Bescheid … Ich war der Attentäter,
 ich benutzte die Stelzen, ich wollte Pelterson ermorden, ich
 war auf dem Boden des Verwaltungsgebäudes in der Maske
 des Blox. Ich habe Blox mit dem Lasso vom Rande der
 Wolfsgrube weggerissen und halb erwürgt und für tot im
-Schnee liegen lassen. Leider lebte er nachts und entkam.
-All meine Verschlagenheit half mir nichts. Sie suchten im
+Schnee liegen lassen. Leider lebte er noch und entkam.
+All meine Verschlagenheit half mir nichts. Sie suchten in
 meinem Stall nach den Stelzen, schon das gab mir zu
-denken. Über Sie schauspielerten gering besser als ich. Oh
-ist eben aus mit mir und ich ergebe mich in mein Sisal.
+denken. Aber Sie schauspielerten gering besser als ich. Es
+ist eben aus mit mir und ich ergebe mich in mein Schicksal.
 Hier — fesseln Sie mich.«
 
 Er streckte die Hände hob.
@@ -2226,26 +2226,27 @@ Harald schickte Tom und Ellen hinaus. Tom sollte
 trockene Kleider bringen.
 
 Wir nahmen Warger das Jagdmesser und die Pistole
-gab, und nachdem Tom uns die Kleider hereingereicht hatte,
-mußte Warger die trockenen Sachen anziehen. Erlangen kein
+ab, und nachdem Tom uns die Kleider hereingereicht hatte,
+mußte Warger die trockenen Sachen anziehen. Er sprach kein
 <@pagebreak/>
 Wort mehr, und nur als wir ihm die Hände auf dem
-Rüden zusammenbanden, meinte er nochmals: »Schade, daß
+Rücken zusammenbanden, meinte er nochmals: »Schade, daß
 ich nicht schon in meiner Küche die Sachlage überschaute.
-I4 hätte Sie beide kalt gemacht und wäre geflohen.«
+Ich hätte Sie beide kalt gemacht und wäre geflohen.«
+
 »Sie hätten nichts tun können, nichts!« erwiderte Harst,
-angeekelt durch diese frivole Offenheit. »Ich war auf aller
+angeekelt durch diese frivole Offenheit. »Ich war auf alles
 vorbereitet. Daß der alte Muschuk in Wahrheit nur Sie
 sein konnte, wußte ich schon, als wir die Fährten im
-»Gehölz bei LaternenlimHt nachprüften, denn nicht nur Reiter«
-Million gab sie alle Mühe, die Löcher der Stelzen zu verwischen,
-sondern gut Sie versuchten dies, und an Ihren
+Gehölz bei Laternenlicht nachprüften, denn nicht nur Pelterson
+gab sich alle Mühe, die Löcher der Stelzen zu verwischen,
+sondern auch Sie versuchten dies, und an Ihren
 Stiefelschäften waren noch die Stellen zu erkennen, wo
 Sie die Stelzen mit Riemen festgeschnallt hatten. Diese
-Beweise erschienen mir doch nach zu gering, und ich wollte
-außerdem noch« mehr herausbringen: Über Pelterson und
-»Blox, denen ich ebenfalls nicht traute. Pelterson hat Sie
-jedenfalls früher als im als den meuchlerischen Schnüren
+Beweise erschienen mir doch noch zu gering, und ich wollte
+außerdem noch mehr herausbringen: Über Pelterson und
+Blox, denen ich ebenfalls nicht traute. Pelterson hat Sie
+jedenfalls früher als ich als den meuchlerischen Schützen
 erkannt. Er sah Sie am Rande des Gehölzes, er schoß
 und verjagte Sie. Er hielt Sie für den Großvater seines
 unehelichen Kindes, und deshalb schwieg er und wollte Sie
@@ -2253,29 +2254,29 @@ schonen und schützen. Hätte er gewußt, mit wem er es zu
 tun hatte, würde er wohl anders gehandelt haben, denn er
 ist kein schlechter Mensch, im Gegenteil, — die Erinnerung
 an das Weib, das ihm einst Tuanatu gebar, trieb ihn
-hierher: Vaterliebe! — Sie jedoch, Warger—Karsten, haben
+hierher: Vaterliebe! — Sie jedoch, Warger-Karsten, haben
 für Ihre Person auch nicht eine einzige Kleinigkeit anzuführen,
 die Ihre Schandtaten in milderem Lichte erscheinen
-ließe. Ihre Verbrechernatur schlechte niemals vor irgendeiner
+ließe. Ihre Verbrechernatur schreckte niemals vor irgendeiner
 Verruchtheit zurück. Sie haben nicht erst in Deutschland
-Ihren moralischen Niedergang begannen, als blinde
+Ihren moralischen Niedergang begonnen, als blinde
 Eifersucht Sie von hier aus wieder in die Heimat lockte,
-wo Sie auf dem Inselchen Schluderrod’ zeitweise letzten und
+wo Sie auf dem Inselchen Schluderrook zeitweise lebten und
 Ihre Rachepläne vorbereiteten. Ich schäme mich für Sie,
 Daß sie ein Deutscher sind und ein Mensch, der nur
 <@pagebreak/>
 Grauen erregt … Seien Sie überzeugt: diesmal werden Sie
 uns nicht entfliehen! Ich werde dafür sorgen, daß Sie Ihren
-Lichtern und der gerechten Strafe nicht entgehen.«
+Richtern und der gerechten Strafe nicht entgehen.«
 
 Warger stand mit völlig gleichgültigem Gesicht da. Was
 hinter seiner hohen, breiten Stirn vorging, war kaum zu
 erraten. Daß er alles versuchen würde, abermals zu entkommen,
-war mit Sicherhei!’ anzunehmen. Wir richteten
-uns danach. Wir brachten ihm in dieselbe Kammer, in
+war mit Sicherheit anzunehmen. Wir richteten
+uns danach. Wir brachten ihn in dieselbe Kammer, in
 der Mac Gollerston schon zweimal unschuldig eingesperrt
-worden war, und wir Bande 1 ihn hier auf das Bei! so
-vorsichtig fest, daß er sich allen unmöglich; befreien konnte.
+worden war, und wir banden ihn hier auf das Bett so
+vorsichtig fest, daß er sich allein unmöglich befreien konnte.
 Dann mußten Tom und Mac bei ihm die Wache übernehmen.
 
 Mittlerweile war es elf Uhr geworden, also die Zeit,
@@ -2283,7 +2284,7 @@ die Harald für einen Besuch des Grabes Old Cracks bestimmt
 hatte. Ich war gespannt, ob Harst auch jetzt an
 dieser Absicht festhalten würde.
 
-Als wir beide dar Verwaltungsgebäude verließen, fanden
+Als wir beide das Verwaltungsgebäude verließen, fanden
 wir draußen schon eine Anzahl Hirten und Angestellte
 versammelt, die bereits von Wargers Festnahme erfahren
 hatten und uns nun mit allerhand Fragen bestürmten.
@@ -2294,45 +2295,45 @@ die zusammen mit Tuanatu im sogenannten Salon saß.
 Die Halbindianerin weinte fassungslos, und da sie in ihrer
 Verstörtheit keinerlei Antwort gab, winkte Harst Ellen hastig
 zu, und wir gingen in Old Cracks früheres Schlafzimmer, in
-den: wir den unbekannten Gast hätten vorfinden müssen.
+dem wir den unbekannten Gast hätten vorfinden müssen.
 Das Zimmer war leer.
 
 Harst sagte zu Ellen und mir:
 
 »Der Mann, den ich hier so kurze Zeit verborgen hielt,
 war Ephraim Blox, der angebliche Detektiv aus Sitka. Er
-kam in der Nacht zu mir und bat mich, ich solle ihm hager
+kam in der Nacht zu mir und bat mich, ich solle ihm hier
 <@pagebreak/>
 Unterkunft gewähren, er würde mir dann später seine Gründe
-Konkurrenten, weshalb er für tot gelten wollte. Heute morgen,
-als h1 ihm das Frühstück brachte, erwähnte ich, daß wir
-im elf Uhr Old Cracks Felsengrab einmal genau untersuchen
-würden. Ich tat dies aus Berechnung, denn ich glaube brummt,
+nennen, weshalb er für tot gelten wollte. Heute morgen,
+als ich ihm das Frühstück brachte, erwähnte ich, daß wir
+um elf Uhr Old Cracks Felsengrab einmal genau untersuchen
+würden. Ich tat dies aus Berechnung, denn ich glaube bestimmt,
 daß dieser Blox über das Grab mehr weiß als wir
-und auch Samuel Warger. Seine Abwesenheit jetzt lebt mich
-vermuten; daß die Falle, die ich ihm stellte, ihren Zweck
+und auch Samuel Warger. Seine Abwesenheit jetzt läßt mich
+vermuten, daß die Falle, die ich ihm stellte, ihren Zweck
 erfüllt hat. Gehen wir also …«
 
-<h2>8. Kapitel.</h2>
+<h2>5. Kapitel.</h2>
 
-Ich habe die große Hohle,!’HMon mehr ein Grottengebiet,
+Ich habe die große Höhle, schon mehr ein Grottengebiet,
 das sich über eine Strecke von mindestens zwei deutschen
-Seilen ausdehnte, bereits erwähnt. Diese unterirdische Welt
-zog sich genau nach Süden hin, mitten durch?) die Randberge
-der Hochebene bis Signal zum Warmen Tale. Der
+Meilen ausdehnte, bereits erwähnt. Diese unterirdische Welt
+zog sich genau nach Süden hin, mitten durch die Randberge
+der Hochebene bis hinab zum Warmen Tale. Der
 Zugang war einfach: Vom Tale aus ein mächtiges Felsentor,
 von unserem Schlafzimmer aus eine Falltür, ein Schacht,
-zwei Holztreppen, rote« zwei Türen und dann ein enger
+zwei Holztreppen, noch zwei Türen und dann ein enger
 Felsengang, der in ein domartiges Gewölbe mündete. Old
-Grade Grab lag links in einer der zahlreichen Seitenhöhlen.
-vier gab es eine natürliche, fast quadratische Vertiefung von
+Cracks Grab lag links in einer der zahlreichen Seitenhöhlen.
+Hier gab es eine natürliche, fast quadratische Vertiefung von
 etwa drei Meter Seitenlänge, und dies war des früheren
-Goldsucher8 Mausoleum, — in der Tat eine wundervolle
-Großstädte, da ringsum die seltsamsten Tropfsteingebilde sowohl
-von der zackigen Decke hzerabhingen als auch aus dem Boden
+Goldsuchers Mausoleum, — in der Tat eine wundervolle
+Grabstätte, da ringsum die seltsamsten Tropfsteingebilde sowohl
+von der zackigen Decke herabhingen als auch aus dem Boden
 herauszuwachsen schienen, — förmliche Bäume, Säulen, Kandelaber
 und Podeste. All dies im Lichte der Karbidlaternen
-— — ein bezaubernder Volk, der uns drei auch jetzt
+— — ein bezaubernder Anblick, der uns drei auch jetzt
 wieder fesselte und unsere Stimmen dämpfte.
 
 Über dem Grabe ruhte eine schwere natürliche Steinplatte,
@@ -2343,47 +2344,48 @@ kurzem angeordnet, und einer der Hirten, in solchen Arbeiten
 leidlich erfahren, hatte die vorgezeichneten Buchstaben sauber
 ausgerichtet und Harald hatte sie mit Goldbronzefarbe ausgefüllt.
 Die Inschrift lautete:
-Hier ruht mein Pflegevater
-John Crack,
-geb. am 16 Januar 18360,
-Werft. am 4. Juni 1123,
-Friede sei mit ihm!
-Ellen Barkam.
 
-Wir hakten das Grab schon Viertel besucht, jedoch
-niemals die Steinplatte gelüftet, da wir annahnieen, sie
+<p class="pre centered">Hier ruht mein Pflegevater
+<em>John Crack</em>,
+geb. am 16. Januar 1860,
+verst. am 4. Juni 1923,
+Friede sei mit ihm!
+Ellen Barkam.</p>
+
+Wir hatten das Grab schon wiederholt besucht, jedoch
+niemals die Steinplatte gelüftet, da wir annahmen, sie
 sei für die Kraft zweier Männer doch zu schwer.
 
-Heute erlebten Ellen und ich nun insofern eine Überraschung.
+Heute erlebten Ellen und ich nun insofern eine Überraschung,
 als Harald erklärte, er sei zweimal heimlich in
 den letzten Tagen hier gewesen und habe dabei eine wichtige
-Entdeckung ge acht.
+Entdeckung gemacht.
 
-Er gab Mr seine Laterne, Güte sich, schob einen Stein
+Er gab mir seine Laterne, bückte sich, schob einen Stein
 unter die eine freiliegende Kante der Platte, packte den
-anderen Rand und schob so die Platte mit Leichtesten beiseite.
+anderen Rand und schob so die Platte mit Leichtigkeit beiseite.
 Es zeigte sich, daß sie nur an den Rändern etwa
-zwanzig Zentimeter dich war, an der Unterseite jedoch nach
+zwanzig Zentimeter dick war, an der Unterseite jedoch nach
 innen zu ausgehöhlt und daher von geringem Gewicht,
 
 Als wir in das Grab hineinleuchteten, sahen wir einen
 dunklen, schmalen Brettersarg, der an die rechte Wand der
-Vertiefung gerückt war, deren Höhe etwa fünf Meter be
-tragen mochte. Der Sarg war noch sehr gut erhalten, und
+Vertiefung gerückt war, deren Höhe etwa fünf Meter betragen
+mochte. Der Sarg war noch sehr gut erhalten, und
 man konnte deutlich erkennen, daß auf dem Sargdeckel sich
 Fußspuren, weißliche Abdrücke, abzeichneten. Irgend jemand
-mußte des öfteren vom Rande des Grabes auf den Decken
-des Sarges und von da in das Grad selbst hinabgesprungen
+mußte des öfteren vom Rande des Grabes auf den Deckel
+des Sarges und von da in das Grab selbst hinabgesprungen
 sein.
 
 <@pagebreak/>
 Harst tat nun dasselbe. Als er unten angelangt war,
 mußte ich ihm eine Laterne reichen, mit der er die Felswände
-sorgfältig ableuchtete. Von oben war vierzig Besonderes
-zu bemerken, aber er hatte dort unten sehr bald öerauUsgefunden,
-daß in die!cheinbar feste, zufamme:hängende
-Band an einer rissigen Stelle ein flacher Großer allein«
-Wanderer Stein genau eingefügt war, der sich nicht nur
+sorgfältig ableuchtete. Von oben war nichts Besonderes
+zu bemerken, aber er hatte dort unten sehr bald herausgefunden,
+daß in die scheinbar feste, zusammenhängende
+Wand an einer rissigen Stelle ein flacher großer gleichfarbener
+Stein genau eingefügt war, der sich nicht nur
 herausheben ließ, sondern auf der Innenseite noch zwei
 eiserne Handgriffe hatte, mit deren Hilfe man den Stein auch
 von dem Gange aus, den er verdeckte, wieder festklemmen
@@ -2391,82 +2393,83 @@ konnte.
 
 Ich half Ellen hinab. Als wir neben Harald standen,
 warnte er uns durch eine Handbewegung und schritt gebückt
-in das Felsloch) hinein, das sich ziemlich steil abwärts
+in das Felsloch hinein, das sich ziemlich steil abwärts
 senkte. Wir folgten Harst, und schon nach einigen
 Minuten vernahmen wir ein brausendes Geräusch, das nur
 von einem unterirdischen Wasserfall herrühren konnte. Der
 Gang wurde breiter, und mit einem Male sahen wir uns
-in einer weiten Höhle, in deren Hintergrund tat’äöhlich
-ein Bach metertief abstürzte, sich dann scei:!wärts schlängelte
+in einer weiten Höhle, in deren Hintergrund tatsächlich
+ein Bach metertief abstürzte, sich dann seitwärts schlängelte
 und in einem Loche verschwand.
 
 Hier brannten ein halbes Dutzend Harzfackeln, die in
-Mitten des Gesteins Sessel! waren. Dicht vor dem Wasserfall
-aber kniete ein Mann, der uns den Führen zukehrte
-und immer wieder in der Gi’cht hineingriff und … große
+Mitten des Gesteins gesteckt waren. Dicht vor dem Wasserfall
+aber kniete ein Mann, der uns den Rücken zukehrte
+und immer wieder in der Gischt hineingriff und … große
 Goldkiesel herausholte und neben sich aufhäufte.
 
 Der Mann war Ephraim Blox.
 
-Wir wateten durch; den Bach) auf ihn zu, und Harst
+Wir wateten durch den Bach auf ihn zu, und Harst
 legte Blox plötzlich die Hand auf die Schulter.
 
-Der fuhr so, stierte uns wild an und … lächelte
+Der fuhr hoch, stierte uns wild an und … lächelte
 mehr verlegen als bestürzt.
 
 »Miß Barkam,« sagte er höflich und strengte seine
 Stimme an, um das Rauschen des Wassers zu übertönen,
 »dies hier ist Ihres Pflegevaters Geheimnis! Sie gestatten,
 <@pagebreak/>
-daß auch; im nun die Maske lüfte: Doktor Ephraim Blox,
-Advokat aus San Franzisko, Vertrauter Sohn Cracks und
+daß auch ich nun die Maske lüfte: Doktor Ephraim Blox,
+Advokat aus San Franzisko, Vertrauter John Cracks und
 bisher einziger Mitwisser dieses kostbaren Geheimnisses.«
 
 »Bitte, lesen Sie, Miß Barkam.«
 
 Die Urkunde lautete:
 
-San Franzisko, 12, März 1921.
-Ich. Sohn Crack, Besitzer der JananaFarm, beauftrage
+<p class="right">San Franzisko, 12, März 1921.</p>
+
+> Ich, John Crack, Besitzer der Tanana-Farm, beauftrage
 Hiermit den Anwalt Doktor Ephraim Blox, nach meinem
 Tode in aller Stile die Goldfundstelle, die sich in einer
 Höhle unter meinem Grabe in dem Wasserfall befindet,
 auszubeuten und das Gold wohltätigen Anstalten zuzuleiten.
 Ich habe zu Mr. Blox volles Vertrauen. Er soll von dem
 Gelde, dessen Menge ich auf etwa eine Million Dollar
-Schätze, für seine Mühe 350000 Dollar erhalten. Meine
-Pflegetochmhter Ellen ist als Erbin der Farm und meines
+schätze, für seine Mühe 50&nbsp;000 Dollar erhalten. Meine
+Pflegetochter Ellen ist als Erbin der Farm und meines
 Barvermögens reich genug und wird diese meine Handlungsweise
 begreifen. Es ist jedoch mein Wille, daß sie
 von dem Golde überhaupt nichts erfährt, auch wünsche ich
 nicht, als Wohltäter der Armen irgendwie genannt zu
-werden. Sohn Crack
-Stempel des
-Anwalts
+werden. &nbsp; &nbsp; &nbsp; *John Crack*
 
-und Unterschrift.
+<p class="pre">Stempel des
+Anwalts
+und Unterschrift.</p>
 
 Blox erklärte nun:
 
 »Sie werden jetzt verstehen, weshalb ich hier verkleidet
-erschien und we&Shalb im so manches tat, was gegen mich
+erschien und weshalb ich so manches tat, was gegen mich
 sprach. Ich bin bereits wiederholt hier unten gewesen und
-habe auch) schon den größten Teil der Goldkiesel in der
+habe auch schon den größten Teil der Goldkiesel in der
 oberen Grotte versteckt. Im Warmen Tale habe ich meinen
 Hundeschlitten und zwei zuverlässige Eskimos untergebracht.
 Meine Absicht war, nach Old Cracks Wunsch in aller
 Stille das Gold wegzuschaffen.«
 
-Harald Frühe ihm die Hand. »Die Sache ist in Ordnung,
-Mr. Blox. Wir werden Ihnen nachher helfen. Jetzt haben.
+Harald drückte ihm die Hand. »Die Sache ist in Ordnung,
+Mr. Blox. Wir werden Ihnen nachher helfen. Jetzt haben
 <@pagebreak/>
-wir auf der Farm Wichtigstes zu tun. Warger ist entdeckt
+wir auf der Farm Wichtigeres zu tun. Warger ist entdeckt
 und in gutem Gewahrsam. Muschuk war Samuel Warger.«
 
-Blox nickte. »Ich ahnte es seit der verflossenen Nach!,
-als er wirr« beinahe erwürgzte. Kredit) trug er meinen
-Inselchen Bart, als er den Lasso warf, aber der Gestank verriet
-ihn. — Sie wollen ihn nachts Dawson bringen?«
+Blox nickte. »Ich ahnte es seit der verflossenen Nacht,
+als er mich beinahe erwürgte. Freilich trug er meinen
+falschen Bart, als er den Lasso warf, aber der Gestank verriet
+ihn. — Sie wollen ihn nach Dawson bringen?«
 
 »Ja — und recht bald.« —
 
@@ -2476,26 +2479,26 @@ vor. Samuel Warger hatte es irgendwie fertig gebracht,
 seine Fesseln abzustreifen und war durch das Fenster der
 Kammer entflohen.
 
-Ich konnte hierauf noch« im letzten Old Grad-Band, in
-»Old Crack Ende«, zurück und kann mir daher hier
+Ich konnte hierauf noch im letzten Old Crack-Band, in
+»*Old Cracks Ende*«, zurück und kann mir daher hier
 Einzelheiten ersparen. Es genügt: Wargers Verfolgung blieb
 ohne Ergebnis. — Was Tuanatu betrifft, so ist nur zu
-jagen, daß Warger sie halbtot im Gebirge aufgefunden und
+sagen, daß Warger sie halbtot im Gebirge aufgefunden und
 daß sie aus Dankbarkeit die Wahrheit über seine Person,
 über »Muschuk«, verschwiegen hatte. Mac Gollerston und
 Tuanatu haben geheiratet und sind fast ebenso glücklich
 wie Tom und Ellen. Stuart Pelterson wurde gesund, und
 — — was sonst noch geschah, gehört nicht mehr hierher. —
 
-Wenn meine Leser und Freunde nun opielleiht später
+Wenn meine Leser und Freunde nun vielleicht später
 diese Geschichte nochmals lesen würden, so hätten sie davon
-sicherlich einen besonderen Genuß, denn viele seine Einzelheiten
-dieses Abenteuers bewertet man erst riG’ig. wenn
-man »Muschuk« und die wahre Bedeutung hier Nebenfiguren
+sicherlich einen besonderen Genuß, denn viele feine Einzelheiten
+dieses Abenteuers bewertet man erst richtig, wenn
+man »Muschuk« und die wahre Bedeutung der Nebenfiguren
 kennt.
 
-Hiermit sage ich auch dem winterlichen O/»2i?: Leben
-wohl. Cracks Ende spielt sich anderswo ab. Dietrich hat
-auch die Gegend ihre Reize, wenn aus die Winterstimmung
+Hiermit sage ich auch dem winterlichen Alaska Lebewohl.
+Cracks Ende spielt sich anderswo ab. Vielleicht hat
+auch *die* Gegend ihre Reize, wenn auch die Winterstimmung
 und die flinken Hundeschlitten fehlen,
 
