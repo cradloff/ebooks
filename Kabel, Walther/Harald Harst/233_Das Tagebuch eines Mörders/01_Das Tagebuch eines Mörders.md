@@ -14,7 +14,7 @@ zehn Schafe, ein Dutzend Hühner, zwei deutsche Schäferhunde.
 
 Holder Friede lag über dem Nordseeeiland, diesem winzigen
 Inselchen, das nun seit acht Tagen unser Heim,
-unsere, kleine, teure Welt, unser Ferienidyll.
+unsere kleine, teure Welt, unser Ferienidyll.
 
 Harald, auf dem Bauche, rauchte … Ich, auf dem
 Rücken, streichelte des einen Hundes Kopf. Die prächtigen
@@ -38,7 +38,7 @@ winzige Hallig umschritten.
 Frau Harst näherte sich uns. Ihr weißes, volles Haar
 leuchtete, und unter dieser ehrwürdigen Krone schimmerte
 das liebe Matronengesicht in frischen Farben. Bedächtig,
-mit seinem Lächeln kam sie und trug auf schlichtem Teebrett
+mit feinem Lächeln kam sie und trug auf schlichtem Teebrett
 das Frühstück, für jeden ein Glas Milch, eine Schinkenschnitte,
 natürlich selbstgebackenes Brot, und ein Gläschen
 Portwein. Sie setzte sich zu uns, stellte das Teebrett ins
@@ -337,7 +337,7 @@ auf seine Art »zerlegte«.
 »Bitte,« sagte er zu uns, indem er zwischen uns rückte,
 »hier ist im Deckel ein eingestanzter Firmenaufdruck:
 
-<p class="centered">Stamer & Komp., Konserven,</p>
+<p class="centered">Stamer &amp; Komp., Konserven,</p>
 <p class="centered">London.</p>
 
 Stamer ist eine Weltfirma für Schiffsbedarf. Inwiefern die
@@ -875,12 +875,12 @@ noch mit Puppen gespielt, vielleicht auch des Tages, an
 dem sie ihren Jungen zum ersten Male in den Armen
 gehalten hatte … vielleicht …
 
-Harald lächelte auch, so etwas spitzbübisch …
+Harald lächelte auch, — so etwas spitzbübisch …
 
 »Mama, du wirst der kleinen Tirolerin notwendig schon
 die Röckchen heben müssen, denn das Firmenschild der
 Puppenfabrik ist auf den Unterteil des Rückens geklebt …
-Es ist eine Nürnberger Puppenfabrik, Rotter & Kompagnie,
+Es ist eine Nürnberger Puppenfabrik, Rotter &amp; Kompagnie,
 immerhin also noch ein Anhaltspunkt für Nachforschungen.
 — Siehst du, da ist das Schildchen. Wir wissen also über
 diese Inge, die gerettet wurde, folgendes: Etwa dreißig Jahre,
@@ -1221,7 +1221,7 @@ Menschenschlächterei des Weltkrieges zurückzuführen, — endlich
 der unleugbare Niedergang echten Weibestums, all das
 wirkt zusammen, ergibt das Bild modernster Kriminalität:
 Morde, Roheitsdelikte, Bestechungsaffären, Betrugsmanöver
-— und so weiter. — Nehmen, wir den Fall Parker, der
+— und so weiter. — Nehmen wir den Fall Parker, der
 zugleich der Fall »Nelson« sein dürfte. Greifen wir nur
 einen Punkt heraus: Welcher Ehegatte wird, wenn seine
 Frau ermordet in seiner Kabine liegt, das Schiff verlassen,
@@ -1298,7 +1298,7 @@ Das war die erste Niete.
 
 <@pagebreak/>
 Am Nachmittag segelten wir vier nach herzlichem Abschied
-von unserem Viehzeug und den Hunden bei östlichen
+von unserem Viehzeug und den Hunden bei herrlichem
 Wetter gen Süden … zur großen Nachbarinsel. Jan Priem
 fuhr dann mit unserem Kutter nach Schluderrook zurück,
 wir selbst benutzten den Dampfer.

@@ -231,14 +231,14 @@ Wollen Sie mir dabei helfen, gnädige Frau?«
 
 »Gern …« Das klang fast freudig.
 
-»Dann rufen Sie mich im Hotel Schwarzer Adler an, —
+»Dann rufen Sie mich im Hotel Schwarzer Adler an,
 sobald Parker Sie besucht oder sich anmeldet …«
 
 »Er kommt heute abend, Herr Harst, — leider …«
 
 »Gut … Schraut und ich werden als alte Bekannte
 Ihres Herrn Vaters erscheinen …« Er gab ihr genauere
-Vorhaltungsmaßregeln … — —
+Verhaltungsmaßregeln … — —
 
 Um halb zwei gingen wir durch die Falkenturmgasse …
 
@@ -1133,7 +1133,7 @@ eröffnet. Die Eröffnungsrede hielt ein
 Vollendung. Ein Teil meiner Leser wird hierüber wohl in
 den Zeitungen gelesen haben. Die Bezeichnung »Roboter«
 stammt von Carel Cayck, dem Verfasser des Sensationsstücks
-»Werstands Universal Robots«, das aus in Berlin
+»Werstands Universal Robots<@refnote 1/>«, das auch in Berlin
 großen Erfolg hatte. — Der künstliche Festredner der
 Westminster-Ausstellung ist in der Tat ein Wunderwerk: Er
 geht, spricht, antwortet auf Fragen … — Aber sein »Erzeuger«
