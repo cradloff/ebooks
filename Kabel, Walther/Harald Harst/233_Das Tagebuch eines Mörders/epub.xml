@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">5a2658c4-1f3e-4c52-9827-8641c301de89</entry>
+<entry key="title">Das Tagebuch eines Mörders</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">233</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Das Tagebuch eines Mörders.
+
+Ich blickte Harst an.
+
+»Was liegt denn in der Luft?« fragte ich mißtrauisch und kam damit derselben Frage Frau Harsts zuvor.
+
+Harald senkte wie schuldbewußt den Kopf. Seine Züge verrieten plötzlich ein seltsames Gemisch von Grauen und Freude. Er trank einen Schluck Milch … Das paßte zu seinem Gesichtsausdruck, in dem das Grauen deutlich überwog.
+
+»Ich hätte es euch schließlich doch sagen müssen,« meinte er auffällig geistesabwesend. »Ich habe es erst gestern entdeckt … Ich brauchte einen ganzen Tag, um mich davon zu erholen … Anderseits freute ich mich, daß meine Vermutung richtig gewesen. Ich konnte mir nicht denken, daß ein Mann von William Karstens Geriebenheit nicht ein Versteck für besondere Fälle vorbereitet haben sollte. Daß er es nicht benutzte, als ich ihm hier so dicht auf den Fersen, — oder besser, daß er dieses Versteck wieder verließ, dies hatte ja seine besonderen Gründe. Ich brauche sie nicht aufzuzählen.«
+
+Die Tauben der Feldherrnhalle.
+
+… Sie fliegen hin und her, trippeln hin und her, sind zahm wie die noch berühmteren Tauben vom Markus-Platz in Venedig, sie nisten in den Winkeln, Ecken, Verzierungen der Theatinerkirche, der Feldherrnhalle … Niemand stört sie … Jeder freut sich ihrer, füttert sie … Sie gehören mit zu München wie die Riesenbavaria auf der Theresienwiese. —
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (233) Das Tagebuch eines Mörders.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1929</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
