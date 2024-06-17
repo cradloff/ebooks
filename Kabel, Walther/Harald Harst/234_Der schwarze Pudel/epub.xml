@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">49391d1b-0529-41c3-880c-3e486d3ffbb8</entry>
+<entry key="title">Der schwarze Pudel</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">234</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Der schwarze Pudel.
+
+»Ich kann Ihnen im Vertrauen mitteilen, Herr Harst, daß auch die deutsche Regierung das lebhafteste Interesse daran hat, die beiden ferngelenkten Automaten des an Herzschwäche verstorbenen Parker den Dieben wieder abzujagen.  Die Konstruktionsgeheimnisse sollen auf keinen Fall dem Ausland irgendwie Nutzen bringen. Wir nehmen an, daß nur Ausländer als Diebe in Betracht kommen. Sie würden mich sehr zu Dank verpflichten, wenn Sie mich sofort nach der Falkenturmgasse in Parkers Haus begleiten wollten.«
+
+»Wir werden in fünf Minuten bereit sein, Herr Rat …«
+
+Die Hand.
+
+Sechs Personen, ein Hund, vier große Pakete …
+
+Und nur einen Vorsprung von Minuten, und ein Harst hinter ihnen her, ein ganzes Aufgebot von Kriminalbeamten, und doch — wie weggefegt die Bande, wie aufgelöst in Luft.
+
+Wir fragten überall nach …
+
+Sie waren gesehen worden — bis zur Pocci-Straße ließ sich die Spur verfolgen. Dann — nichts mehr. —
+
+Sechs Personen, ein Hund, vier große Pakete …
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (234) Der schwarze Pudel.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1928</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
