@@ -84,8 +84,8 @@ Mir fiel nichts ein. Ich zuckte die Achseln.
 Der Rat seufzte hörbar, und Xaver naschte eine Birne.
 Der Herr Ober räumte ab.
 
-»Nur das nicht!« sagte da der Bat, als wir unbelauscht
-waren. »Nur nicht ein Kapitalverbrechen …!! Wenn Harst,
+»Nur das nicht!« sagte da der Rat, als wir unbelauscht
+waren. »Nur nicht ein Kapitalverbrechen …!! Wenn Harst
 recht hätte …!!«
 
 Ungemütliche Stimmung war’s …
@@ -138,7 +138,7 @@ Deckbett flogen zur Seite …
 Auf dem Unterbett lag … ein weißer Pudel mit einer
 klaffenden Kopfwunde.
 
-Xaver brüllte;
+Xaver brüllte:
 
 »Herr Rat, — — der Pudel!!«
 
@@ -258,7 +258,7 @@ Miniaturküche stand.
 
 Ich erhob mich. In den Kochöffnungen standen ein
 Aluminiumtopf und ein Kessel. Ich nahm sie herab … Die
-Feuerlöcher waren: mit Asche gefüllt. Zwischen gelber Brikettasche
+Feuerlöcher waren mit Asche gefüllt. Zwischen gelber Brikettasche
 sah ich graue Reste von verbranntem Stoff. Ein Kriminalbeamter
 half mir. Der Rat und Xaver schauten zu.
 Der Beamte besaß weit mehr Fertigkeit als ich, die Aschenreste
@@ -322,7 +322,7 @@ sich zu seiner Mutter herab und küßte sie auf die Stirn …
 »Tadellos geschlafen habe ich … Mir ist jetzt so recht
 zum Bäume ausreißen zumute …«
 
-Er drückte mir die Hand, »Hast deine Sache wieder gut
+Er drückte mir die Hand. »Hast deine Sache wieder gut
 gemacht …!! Und — habe ich mich eigentlich schon bei dir
 bedankt, weil du mich so fein herausgehauen hast?«
 
@@ -381,7 +381,7 @@ murmelnden Priestern und starren, düster-drohenden Götzenstatuen
 werden. Es kommt nur auf die Menschen an, nur
 auf das geistige Fluidum, das sie umschwebt.
 
-»In Indien,« sprach Harst, — ,»es war bei meiner ersten
+»In Indien,« sprach Harst, — »es war bei meiner ersten
 größeren Reise, damals kannten wir uns noch nicht, mein
 Alter … — in Indien war’s, in einem der entzückendsten,
 malerischsten Hafennester der Malabar-Küste, nördlich von
@@ -465,7 +465,7 @@ Ausgleich.
 Und dann saßen wir wieder unten im Restaurant an
 demselben Tische wie mittags, und Mathildes Miene hellte
 sich auf angesichts einer Kalbshaxe, mit der Simpson die
-Philister hätte erschlagen Können, — was Größe, nicht
+Philister hätte erschlagen können, — was Größe, nicht
 was Härte betraf.
 
 <@pagebreak/>
@@ -535,7 +535,7 @@ Weiter nichts …
 … Es war das Zelt eines Zauberkünstlers …
 
 <p class="centered pre">Bellasini,
-<i>echt indischer Magier.</i>
+<em>echt indischer Magier.</em>
 Verblüffende Experimente,
 Tierhypnosen,
 Flammentod einer
@@ -544,7 +544,7 @@ und
 Verwandlung in
 einen
 prachtvollen Pfau:
-!!<i>Phönix aus der Asche</i>!!</p>
+!!<em>Phönix aus der Asche</em>!!</p>
 
 Es war ein großes, neues Zelt … An der Kasse saß
 hier — äußerst geschmackvoll — ein knallrot gekleideter
@@ -859,7 +859,7 @@ Und mit den gefesselten Händen versetzte er dem leichenblassen
 Madler einen Hieb vor die Stirn, daß Madler
 sofort vom Stuhle fiel …
 
-»Lump … erwürgen — tät’ ich dich … erwürgen …!!«
+»Lump … erwürgen tät’ ich dich … erwürgen …!!«
 kreischte Rickhuller wie ein Verrückter … »Angst hast gehabt,
 daß die Amanda dich verraten tät … Weil du dem
 Parker auch noch Geld gestohlen … Und mit dem blonden
@@ -892,6 +892,7 @@ Kerl, Spion für irgendein fremdes Land …«
 Er schwieg ganz erschöpft. Seine ungeheure Wut raubte
 ihm die Sprache … Seine Stimme überschlug sich … Er
 fiel auf seinen Stuhl zurück und begann … zu weinen.
+
 Jakob Madler regte sich nicht. Auch seine Frau schluchzte.
 Seine Tochter war halb ohnmächtig gegen den stumpfsinnig
 da sitzenden Schwager Madlers gefallen, der nun,
@@ -961,7 +962,7 @@ Bild körperlicher Fülle verbinden, und dieser Xanttypentyp,
 in den Kreisen der Ehefrauen ebenso zahlreich zu finden
 wie in denen der Hausdamen, Haushälterinnen und so weiter,
 ist nur das harmloseste Glied einer Kette, die, hinabführend
-in die Abgründe moralischen Wirrungen, über Gelegenheitsdiebin,
+in die Abgründe moralischer Wirrungen, über Gelegenheitsdiebin,
 Hochstaplerin und ähnlichem mit dem letzten Gliede,
 der Mörderin, endet. Dieselben Gedankengänge zu diesem
 traurigen Thema fand ich bei dem italienischen Strafrechtlehrer
@@ -1239,8 +1240,8 @@ Hinsicht besser Bescheid als ich … — —
 Meinen Freunden und Lesern zum Schluß noch eine
 Frage zur Schärfung eigenen Denkens: Welchen Fehler
 enthält der vorliegende Band — scheinbaren Fehler? Wie
-läßt sich der lückenlose logische Zusammenhang trotzdem herstellen
-wer hat aufgepaßt? —
+läßt sich der lückenlose logische Zusammenhang trotzdem herstellen?
+Wer hat aufgepaßt? —
 
 … Es ist ein weiter Sprung von München nach
 Island. Im nächsten Band wollen wir ihn wagen … bis

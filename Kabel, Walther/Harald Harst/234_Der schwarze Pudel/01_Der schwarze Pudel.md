@@ -8,8 +8,6 @@ by Verlag moderner Lektüre G.&nbsp;in.&nbsp;b.&nbsp;H. Berlin.</div>
 
 <@harst.introshort/>
 
-<h1>Der schwarze Pudel.</h1>
-
 <h2>1. Kapitel.</h2>
 <h3>Hofbräu.</h3>
 
@@ -161,12 +159,12 @@ langem Gesicht. »Mein Kompliment, Herr Harst … Darauf
 wäre ich nicht gekommen.«
 
 »Es ist die einzige Möglichkeit, und es ist so. — Lassen
-sie sofort und auch die Nebenhäuser durchsuchen und überall
+Sie sofort auch die Nebenhäuser durchsuchen und überall
 <@pagebreak/>
 nachfragen, ob dort irgendwo Ausländer in letzter Zeit
 als Untermieter wohnten. Dieser Diebstahl ist kein Augenblickswerk,
 sondern wurde von langer Hand vorbereitet. Mir
-selbst als Deutschen liegt daran, diese glänzende Erfindung
+selbst als Deutschem liegt daran, diese glänzende Erfindung
 uns zu erhalten. Ich habe es am eigenen Leibe erfahren,
 wie fabelhaft geschickt diese Automaten konstruiert waren, wir
 alle haben gesehen, wie verblüffend einfach der Sender
@@ -275,7 +273,7 @@ durch schlechte Manieren aus … Die beiden anderen Damen
 waren abschreckend schön und über die fünfzig hinaus.
 Mein Spargel dagegen hatte ein holdes Gesichterl, vielleicht
 ein wenig nüchtern, vielleicht zu große Oberzähne … Aber
-immerhin: Nach … zwei halben Litern Hofbräu übersieht man
+immerhin: Nach zwei halben Litern Hofbräu übersieht man
 vieles. Es ist eine durchaus irrige Ansicht, daß das Hofbräuhelle
 leicht ist. Im Gegenteil. Bei der dritten Maß zwickte mich
 schon der Satan, und bei einer Frage des Spargels deutete
@@ -398,9 +396,9 @@ der Häuser gegenüber dem Grundstück Parkers?«
 »Pech, verwünschtes Pech …!« Er stützte den Kopf in
 die Hand. »Was tun wir da, Xaver?«
 
-»Wann’s- Sie ’s nicht wissen, Herr Harst?!«
+»Wann’s Sie ’s nicht wissen, Herr Harst?!«
 
-»Nun morgen ist auch noch ein Tag. Morgen werden
+»Nun, morgen ist auch noch ein Tag. Morgen werden
 Schraut und ich wieder aufstehen können … Vielleicht fällt
 mir bis dahin noch etwas ein, das uns auf die Sprünge
 hilft …«
@@ -417,8 +415,8 @@ nicht schlau genug sind, hier in München sich zu verbergen
 — getrennt — jeder für sich, die sechs?! Ich denk’ mir, das
 wird stimmen …«
 
-Xaver schüttelte energisch den Knopf. »Ausgeschlossen, Herr
-Harst das Signalement der sechs ist so genau, daß …«
+Xaver schüttelte energisch den Kopf. »Ausgeschlossen, Herr
+Harst, das Signalement der sechs ist so genau, daß …«
 
 Aber Harald lächelte wieder …
 
@@ -471,7 +469,7 @@ neuer Lebensenergien — es war nicht der Kognak, denn
 Harald hatte jedem nur einen Schluck bewilligt und die Flasche
 in seinen Lodenmantel gesteckt.
 
-Als ich an der Mauer für ihn Leiter spielte: war ich
+Als ich an der Mauer für ihn Leiter spielte, war ich
 bereits so weit vollkommen erfüllt von dem Reiz der
 beginnenden Jagd auf meinen semmelblonden Spargel, daß
 ich nicht einmal in den Knien ein Zittern verspürte. Ein
@@ -535,7 +533,7 @@ Harald da — jetzt lauter:
 »Nach der Falkenturmgasse — … Wir sind hier in der Nähe
 des Sendlinger Tores … Wollen sehen …«
 
-Wichtig allein die beiden letzten … Worte. — Wollen
+Wichtig allein die beiden letzten Worte. — Wollen
 sehen …! — Also auch Harald hatte Verdacht geschöpft.
 
 Wir gingen an der Mauer entlang, taten so, als ob
@@ -634,7 +632,7 @@ Düster, eng umgaben uns die alten Gebäude der Falkenturmgasse.
 
 Harst bezahlte. Die Taxameteruhr zeigte zwei Mark zehn
 Pfennig. Harald gab zwei Mark fünfzig, der Kerl bedankte
-sich wortreich in echten Münchener Dialekt, und die Karre
+sich wortreich in echtem Münchener Dialekt, und die Karre
 ratterte davon.
 
 Wir traten in den Schatten der Haustür, folgten dann
@@ -659,15 +657,15 @@ zwecklos gewesen. Ich war offenbar nicht im Bilde.
 Harald wandte sich der Theatinerstraße zu.
 
 »Laß nur … laß nur … Er ist schon da … Es war
-vorauszusehen.« …
+vorauszusehen.«
 
 »Wer?!«
 
 »Der Hund …«
 
 Ich drehte mich um … Ich bemerkte dreißig Schritt
-hinter uns einen schwarzen Pudel, der gerade einen Laternen
-Ständer nachdrücklich beschnupperte.
+hinter uns einen schwarzen Pudel, der gerade einen Laternenständer
+nachdrücklich beschnupperte.
 
 »Nicht zurückschauen — weiter …!« Harst zog mich
 mit sich fort … »Die Sache ist die, mein Alter, — die Fußmatte
@@ -780,7 +778,7 @@ hatte wieder gepfiffen — auch vier Takte aus dem Sternenbannermarsch
 erschien ihm nun doch wohl oberfaul, er retirierte. Er schlug
 die Richtung nach dem Hofgarten ein. Der Pudel lief
 über den Rasen, lief — und das war wirklich prachtvolle
-Dressur — an dem Hageren vorüber, als ob der ihr gar
+Dressur — an dem Hageren vorüber, als ob der ihn gar
 nichts anginge, und entschwand in der Prinzregentenstraße.
 
 Nun war es unsere Aufgabe, den »Dresseur« nicht entwischen
@@ -838,7 +836,7 @@ mag allzu stark erschienen. Vielleicht hätte ich sagen
 sollen: Besessenheit! Vielleicht schlummerte in uns allen
 Raubtiernatur. Unlängst hat in einem Rundfunkvortrag
 jemand geäußert, daß Kriminalromane von der großen Menge
-deshalb bevorzugt würden, weil in jedem ein Stückes Verbrecher
+deshalb bevorzugt würden, weil in jedem ein Stück Verbrecher
 eingekapselt, *neben* der Feigheit, selbst zur Tat zu schreiten.
 Deshalb die Gier, sich in der Phantasie an Brutalitäten,
 Vergehen, Morden zu ergötzen. — Der Herr hatte nicht ganz
@@ -913,7 +911,7 @@ abgefunden. In meinem Stammschloß hausen die italienischen
 Faschisten, unsere berühmte Gemäldegalerie wurde ein Raub
 der Flammen. Leider brannte nur der eine Schloßflügel nieder.
 Mich sucht man als Brandstifter. Unser Erbbegräbnis wurde
-von blinden Haß und Siegermutwillen zerstört … Nichts
+von blindem Haß und Siegermutwillen zerstört … Nichts
 ist mir geblieben, nichts … Ich stehe so allein auf der
 Welt da wie ein Heimatloser. Ich bin es auch … Stumpfsinn
 erfüllt meine Tage, meine Nächte. Meine Hände umklammern
@@ -932,7 +930,7 @@ Unruhe, die aus dem Unterbewußtsein hervorwuchs …
 »Ich werde aussteigen,« sagte ich.
 
 »Besser, wir fahren noch zehn Schritt weiter, dann
-können wir die Straße übersehen … Ich lösche die … Lampen.«
+können wir die Straße übersehen … Ich lösche die Lampen.«
 
 Das Auto ruckte an, glitt vorwärts.
 
@@ -1049,7 +1047,7 @@ hier vielleicht eine alte klapprige Pferdedroschke vorüber?«
 
 Der eine bejahte.
 
-»Und war vielleicht ein schwarzen Pudel mit dabei?«
+»Und war vielleicht ein schwarzer Pudel mit dabei?«
 
 Er bejahte …
 
@@ -1081,7 +1079,7 @@ teilte sich das Gewölk … Der Mond beschien die weite
 bunte Zeltstadt der Oktoberwiese, des großen urmünchnerischen
 Herbstrummels …
 
-<h2>3. Kapitel.</h2>
+<h2>4. Kapitel.</h2>
 <h3>Oktoberwiese.</h3>
 
 Vormittags zehn Uhr, in den Hotelzimmern Frau Harsts.
@@ -1095,7 +1093,7 @@ drei Uhr morgens und haben nischt jefunden!!«
 
 »Mathilde …!!« begütigte ich mahnend.
 
-»Ach wat, — Sie reden man lieber jar mischt, Herr
+»Ach wat, — Sie reden man lieber jar nischt, Herr
 Schraut … Sie sehen aus wie Braunbier und Spucke …
 Keen Wunder nich …! Wenn Sie nicht jeschlafen haben,
 und wenn Sie …«
@@ -1233,7 +1231,7 @@ Bericht.
 Der Herr Rat ist platt. Drückt mir aber die Hand.
 
 »Guter Gedanke gewesen, Herr Schraut … Natürlich
-steht das Frauenzimmer mit der Bande unter einer Decke …
+steckt das Frauenzimmer mit der Bande unter einer Decke …
 Wer hätte das dem Weibsbild zugetraut! Sie sieht ja so
 harmlos-dämlich aus, und jung ist sie auch nicht mehr.«
 
@@ -1391,9 +1389,9 @@ vor Glück …«
 
 »Schwarz war er … In ’m Haufen Ruß hatte er sich
 gewälzt … Ganz schwarz war er … Aber das sollte ich
-nicht sehen, wie schwarze er war … Sie waren sehr ärgerlich,
-als der James mal den Kopf zur Wagentür heraus
-steckte …«
+nicht sehen, wie schwarz er war … Sie waren sehr ärgerlich,
+als der James mal den Kopf zur Wagentür heraussteckte
+…«
 
 »Gut, mein Junge … Erzähle hiervon niemandem etwas.
 Hier, hast du noch einen Taler … Verschwinde jetzt von
@@ -1404,13 +1402,13 @@ in seinem Hirn vorging, las ich ihm von dem schmalen
 Gesichtchen ab. Sechs Mark für eine solche Auskunft über
 einen Pudel: das ging über seine Begriffe!!
 
-Über trotzdem trollte er sich dann schleunigst. Er mochte
+Aber trotzdem trollte er sich dann schleunigst. Er mochte
 fürchten, ich könnte mir’s wieder anders überlegen und
 einsehen, daß sechs Mark denn doch als Zahlung für ein
 Nichts allzu reichlich bemessen seien.
 
 Xaver hatte als stummer Zuhörer dabei gestanden, nein,
-— als ehrlichen Bewunderer dessen, was von mir im Grunde
+— als ehrlicher Bewunderer dessen, was von mir im Grunde
 kaum als besondere Leistung zu bewerten war.
 
 Glückliche Zufälle hatten mir den Erfolg halb in den
