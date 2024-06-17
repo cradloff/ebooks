@@ -4,64 +4,64 @@
 
 <h2>1. Kapitel.</h2>
 
-Tom Warger und Mac Gollerston war wirklich«:vesn
-Vorwurf daraus zu machen, daß Crack entflohen, Sie »hatten,
+Tom Warger und Mac Gollerston war wirklich kein
+Vorwurf daraus zu machen, daß Crack entflohen. Sie hatten,
 kurz bevor wir aus der Höhle wieder zur Tanana-Farm
-mit ihren wunderlichen Bauten emporstiegen, nohmäf8STrats
-Fesseln untersucht;:: hatten. die Kammer dann wieder »tot
-schlossen und sich Jim das Nebenzimmer begeben, bessert Du
-sie nur: umkehrten.«Als: wir dann:’den Verbietet aufs
-neue ins Berhor’ nehmen« wollten, als Tom den: Schleier
-der Kammer aus der Tasche lyervorholte, als wir« die Tür
+mit ihren wunderlichen Bauten emporstiegen, nochmals Cracks
+Fesseln untersucht, hatten die Kammer dann wieder ver-
+schlossen und sich in das Nebenzimmer begeben, dessen Tür
+sie nur anlehnten. Als wir dann den Verbrecher aufs
+neue ins Verhör nehmen wollten, als Tom den Schlüssel
+der Kammer aus der Tasche hervorholte, als wir die Tür
 öffneten und hineinleuchteten, war das Holzbett leer, die
 Renntierriemen waren zum Teil aufgeknotet, zum Teil
 waren die Schlingen noch zugeknüpft, und Samuel Warger
 war verschwunden.
 
-»Bleibt alle draußen,« sagte Harst. »Dies hier. ist :.nicht
+»Bleibt alle draußen,« sagte Harst. »Dies hier ist nicht
 mit rechten Dingen zugegangen. Wir haben unfehlbar etwas
 übersehen.«
 
-Er trat ein und stellte eine Karbidlaterne auf »den
-kleinen Ofen, der ans tobt gebrannten Ziegeln aufgemauert
+Er trat ein und stellte eine Karbidlaterne auf den
+kleinen Ofen, der aus roh gebrannten Ziegeln aufgemauert
 <@pagebreak/>
 war. Ich reichte ihm eine zweite Laterne, und er begann
 seine Arbeit,
 
 Nachdem er den Balkenfußboden abgeleuchtet hatte, prüfte
-er die Wände … und die Decke, stieg auf den Ofen, befühlte
+er die Wände und die Decke, stieg auf den Ofen, befühlte
 die schweren Stämme, aus denen auch die Decke bestand, und
 erklärte laut:
 
 »Es gibt keinen anderen Ausgang als die Tür.«
 
-Nochmals. beschaute er die Riemen, mit denen- Crack Warger
+Nochmals beschaute er die Riemen, mit denen Crack-Warger
 auch an das Bett gefesselt gewesen, schüttelte mehrmals
-den Kopf und meinte: »Unbegreiflich!!1«
+den Kopf und meinte: »Unbegreiflich!!«
 
 Allerdings, diese Flucht war ein vollkommenes Rätsel.
-Nebenbei war sie für uns alle äußerst bedrolyiih. Samuel
+Nebenbei war sie für uns alle äußerst bedrohlich. Samuel
 Warger, hier in Alaska allgemein nur der Würger genannt,
 hatte seine letzte Rolle als Muschuk, als indianischer alter
 Pelzjäger so vorzüglich gespielt, daß die Gefahr bestand,
 er würde nun unter einer neuen Maske sich an all denen
 zu rächen suchen, die mitgeholfen hatten, ihn zu entlarven.
 Seine Schlauheit, seine Brutalität und genaue Kenntnis des
-Landes, insbesondere des ».Farmgebäudes mit seinen zahllosen
+Landes, insbesondere des Farmgeländes mit seinen zahllosen
 Schlupfwinkeln ließen befürchten, daß er genau so
 wie in den letzten Tagen allerlei Anschläge versuchen würde.
 Es gab hiergegen kaum einen Schutz. Wir konnten uns
-da) unmöglich dauernd in den Gebäuden und auf den
+doch unmöglich dauernd in den Gebäuden und auf den
 beiden Felswürfeln aufhalten. Jeder Schritt ins Freie, hinein
 in die wundervolle Schneelandschaft konnte uns eine
 gutgezielte Kugel einbringen. Daß Samuel Warger irgendwo
 in der Nähe noch einen Schlupfwinkel, Waffen und
-— ein Hundegespann besaß, war mit Sicherheit anzunehmen.
+ein Hundegespann besaß, war mit Sicherheit anzunehmen.
 Alles in allem: Die Lage war zumindest peinlich. Und
-»vermag setzte mich Haralds Verhalten in Erstaunen.
+doch setzte mich Haralds Verhalten in Erstaunen.
 
-— »Sie könnten ja mal draußen nach Spuren suchen,
-Mac und Tom … &E8 wird nicht viel dabei heraus
+»Sie könnten ja mal draußen nach Spuren suchen,
+Mac und Tom … Es wird nicht viel dabei heraus-
 kommen, denke ich.«
 
 <@pagebreak/>
@@ -70,7 +70,7 @@ die Kammertür ab und steckte den Schlüssel zu sich.
 
 Mac und Tom entfernten sich, ebenso die Angestellten,
 die aus Neugier sich hier versammelt hatten. Nur Ellen
-Barkam, Toms Braut und Old Cracks Pf:egetohter und
+Barkam, Toms Braut und Old Cracks Pflegetochter und
 Erbin, sowie der Rechtsanwalt Doktor Ephraim Blox, der
 hier den Goldschatz des in der Höhle Beerdigten hatte bergen
 wollen, blieben bei uns. Blox sagte mit der ihm eigenen
@@ -78,107 +78,107 @@ Bedächtigkeit: »Hoffen Sie dieses Rätsel der Flucht Samuel
 Wargers lösen zu können? Ich habe den Eindruck, lieber
 Harst, als ob Sie es bereits gelöst haben.«
 
-Harald blickte ihn forschend an. »Sind Sie auf demselben
+Harald blickte ihn forschend an. »Sind Sie auf denselben
 Gedanken gekommen, Blox?«
 
 Der Advokat aus Frisko schüttelte den intelligenten Kopf.
 »Nein. Leider nicht.«
 
-»Leiser Erdteil! — Ich gebe zu, die Sache erschien aus
-näher vollkommen undurchdringlich. Sie war auch mehrfach
+»Leiser bitte!! — Ich gebe zu, die Sache erschien zunächst
+vollkommen undurchdringlich. Sie war auch mehrfach
 verhüllt. — Gehen wir … Warger soll hören, daß wir
-uns entfernen …««
+uns entfernen …«
 
 Wir drei starrten Harst verblüfft an. Er betrat das
-zweite Zimmer neben der Kammer, in dem Blox knatterte.
-Die Tür ließ er zwei Handbreit offen. Er jene zu, an
-den Sofatisch und lächelte etwas: »Flur seid überrascht. Kajüte
-li; befinden sich) Warger und der andere noch in der
+zweite Zimmer neben der Kammer, in dem Blox logierte.
+Die Tür ließ er zwei Handbreit offen. Er lehnte sich an
+den Sofatisch und lächelte etwas: »Ihr seid überrascht. Natürlich
+befinden sich Warger und der andere noch in der
 Kammer,«
 
 »Aber das ist doch unmöglich!« rief die blonde Ellen.
 
-»Keineswegs, Miß Barkam,« behauptete Harst und Kräfte
-ihr zu. »Keineswegs! Die Lösung — ist sehr« einfach. Die
-Kammer diente früher Old Cracks Diener Charlie Maxsomu
+»Keineswegs, Miß Barkam,« behauptete Harst und nickte
+ihr zu. »Keineswegs! Die Lösung ist sehr einfach. Die
+Kammer diente früher Old Cracks Diener Charlie Maxson
 als Schlafraum. Maxson ist nun reif für den Galgen.
-Aber sein Mobiliar ist von da. Die Kammer enthält: Den
-Ofen, der gehetzt ist, ferner einen Schrank, den ich öffnete
+Aber sein Mobiliar ist noch da. Die Kammer enthält: Den
+Ofen, der geheizt ist, ferner einen Schrank, den ich öffnete
 und leer fand, drittens einen einfachen Waschtisch, viertens
-zwei Stühle und einen Stiefelknecht, fünftens das Kasten
+zwei Stühle und einen Stiefelknecht, fünftens das Kasten-
 <@pagebreak/>
 Bett, das unten eine sehr dicke Lage Moos hat, dann erst die
-Matratze und die eigentlichen Betten, obenauf eine rot«
+Matratze und die eigentlichen Betten, obenauf eine rot-
 gewürfelte Bettdecke. Wir hatten Warger auf diese Decke
-gelegt und gefesselt und von an die Bettpfosten angebunden.
+gelegt und gefesselt und noch an die Bettpfosten angebunden.
 Da ich die Riemen selbst verknotet hatte, war es ausgeschlossen,
 daß er ohne fremde Hilfe sich befreien konnte.
-Kennen ist er verschwunden. Ich betone: Verschwunden,
-nicht geflüchtet, und das ist ein Unterschied. Als ich, die
+Dennoch ist er verschwunden. Ich betone: Verschwunden,
+nicht geflüchtet, und das ist ein Unterschied. Als ich die
 noch versperrten Schlingen prüfte, sah ich, daß es andere
--Knoten waren, als ich sie zu machen pflege, Als war.
-jemand bei Warger gewesen und hatte ihn.!o8gebunden
+Knoten waren, als ich sie zu machen pflege, Also war
+jemand bei Warger gewesen und hatte ihn losgebunden
 und nachher einige Schlingen wieder hergestellt, damit der
 Eindruck entstünde, Warger habe die Hände aus den Schlingen
 herausgedreht.«
 
-»Ah. — Sie denken an Tom!« meinte Ellen. empört.
-»Frauen Sie es Tom wirklich zu, seinen Stiefvater, den
+»Ah. — Sie denken an Tom!« meinte Ellen empört.
+»Trauen Sie es Tom wirklich zu, seinen Stiefvater, den
 er verachtet und haßt, befreit zu haben?! Außerdem war
-er Tasche mit Mac zusammen, und Mac würde sich gleichfalls
-nie dazu verstanden — haben, etwa …
+er doch mit Mac zusammen, und Mac würde sich gleichfalls
+nie dazu verstanden haben, etwa …"
 
-»Sie verschwenden Ihr Temperament unnötig fiel Harst
-ihr freundlich ins Wort, »Der, der Warger« losband und
-von bei ihm in der Kammer ist, ist mir »unbekannt.
-Dieser Freund Wargers hätt’ folgendes. Als mit« Warger
+»Sie verschwenden Ihr Temperament unnötig," fiel Harst
+ihr freundlich ins Wort. »Der, der Warger losband und
+noch bei ihm in der Kammer ist, ist mir unbekannt.
+Dieser Freund Wargers tat folgendes. Als wir Warger
 in etwas eigentümlicher Art in der Badewanne entlarvten
 und das heiße Wasser aus dem alten Tlinkitindianer Muschuk
 Mr. Samuel Warger alias Crack den Unechten alias Karsten,
 meinen Todfeind, herauswusch, sah der andere Mann voraus,
 daß wir gerade diese Kammer, die ja in den letzten
-ereignisreichen Sagen schon. mehr Gefangene beherbergt hat,
-all? Kerker für den iSefangenen wählen würden. Der Mann
-»eilte also Vorhin, warf das Moos aus dem Katzenleib
-In den Ehen, war dabei jedoch so unvorsichtig, den Fußboden
+ereignisreichen Tagen schon mehr Gefangene beherbergt hat,
+als Kerker für den Gefangenen wählen würden. Der Mann
+eilte also dorthin, warf das Moos aus dem Kastenbett
+In den Ofen, war dabei jedoch so unvorsichtig, den Fußboden
 nicht genügend zu säubern, kroch unter die Betten,
 brachte die  Bettdecke in Ordnung und wartete das
 <@pagebreak/>
-kommende ab, Seine Annahme stimmte, Warger wurde
-auf das Bett gebunden. Als Tom und Mac van uralt
+Kommende ab. Seine Annahme stimmte. Warger wurde
+auf das Bett gebunden. Als Tom und Mac dann nach
 geraumer Zeit die Fesseln geprüft und die Tür wieder verschlossen
 hatten, befreite der Mann den Gefangenen und
-beide legten sich nebeneinander in den fast leeren Bettkasten;
-dessen Tiefe durch? die Bettdecke verhüllt wurde. Erst
-als ich vor dem Ofen MoodSsteilcHhen fand, als ich dann
+beide legten sich nebeneinander in den fast leeren Bettkasten,
+dessen Tiefe durch die Bettdecke verhüllt wurde. Erst
+als ich vor dem Ofen Moosteilchen fand, als ich dann
 von der Seite die Eigenart dieser Bettstatt sah, wußte ich,
-wo die beiden steckten. Ich hatte sie nun Ja sofort Besitz
+wo die beiden steckten. Ich hätte sie nun Ja sofort fest-
 nehmen können, aber eine gewisse Selbstsucht hielt mich
-davon zurück. Warger Karsten hat aus Rache vor Monaten
+davon zurück. Warger-Karsten hat aus Rache vor Monaten
 mein Heim in Schmargendorf niedergebrannt und mir sämtliche
 Juwelen, zumeist Reiseandenken und Geschenke, gestohlen.
-Sie, Miß Barkam, trugen ja eins dieser Schmuck«
-edle, als Sie in Berlin waren und wir Sie auf eigene
-eigentümliche. Weise kennenlernten.«
+Sie, Miß Barkam, trugen ja eins dieser Schmuck-
+stücke, als Sie in Berlin waren und wir Sie auf eigentümliche
+Weise kennenlernten.«
 
 Ellen errötete.
 
-— »ob — die Dinge sind ja längst abgetan, Miß Bars
-kam. Aber — nicht abgetan ist die Tatsache, daß Karsten
-Warger bisher nicht angegeben hat. wo er seine Beute
+»oh — die Dinge sind ja längst abgetan, Miß Bar-
+kam. Aber — nicht abgetan ist die Tatsache, daß Karsten-
+Warger bisher nicht angegeben hat, wo er seine Beute
 von damals verborgen hat. Er wird dies auch freiwillig
 nicht verraten. Deshalb stelle ich ihm jetzt eine Falle …
 Wir werden ihn flüchten lassen, aber hinter ihm bleiben,
 und da er kaum über größere Geldmittel verfügt, wird er
-wahrscheinlich seinen Raub von damals aus dem Verehrer
-hervorholen. So erreiche ich dreierlei: Erstens, ich erholt
+wahrscheinlich seinen Raub von damals aus dem Versteck
+hervorholen. So erreiche ich dreierlei: Erstens, ich erhalte
 mein Eigentum zurück, zweitens werden wir erfahren, wo
-Warger von einen Schlupfwinkel bat, und drittens …«
+Warger noch einen Schlupfwinkel hat, und drittens …?
 Nun, Blox, — — und drittens?«
 
-Der Anwalt verbeugte sich. »Von Ihnen kann wo.
+Der Anwalt verbeugte sich. »Von Ihnen kann man
 allerhand lernen … Wenn ich erst längere Zeit bei Ihnen
-in die Schule gegangen sein werde, kann ich sicherlich auf da?
+in die Schule gegangen sein werde, kann ich sicherlich auf das
 »drittens?« antworten, jetzt nicht, — noch nicht!«
 
 <@pagebreak/>
@@ -189,7 +189,7 @@ Ich verneigte mich auch. »Ich bin Zwar bereits einige
 zehn Jahre dein Famulus, trotzdem bleibe ich Schüler. Also
 bitte — rede!«
 
-»Sehr: bequem, in der Tat …?! Nur nicht den Verstand
+»Sehr bequem, in der Tat …! Nur nicht den Verstand
 anstrengen. Wozu auch?! Bei der Kälte?!«
 
 Ellen lachte diskret.
@@ -197,18 +197,18 @@ Ellen lachte diskret.
 Harst fuhr fort: »Drittens werden wir feststellen, ob
 Warger hier auf der Farm unter den neunzig Angestellten
 und Hirten noch mehr heimliche Anhänger hat, die
-vielleicht mit ihm zusammen uns recht gefährliHg werden
+vielleicht mit ihm zusammen uns recht gefährlich werden
 könnten, vielleicht sogar beabsichtigen, das Gold aus der
-Wasserfallgrotte, das dort zunächst mit Gelitten zur Küste
+Wasserfallgrotte, das dort zunächst mit Schlitten zur Küste
 transportiert werden muß, an sich zu bringen. — Und
 um Warger und seine Komplicen ganz sicher zu machen,
 werden wir nachher nochmals in die Kammer gehen, wo
-ich absichtlich die Laterne auf dem Ofen habe, stehen lassen.
-Wir werden Talent in harmloser Weise uns unterhalten
+ich absichtlich die Laterne auf dem Ofen habe stehen lassen.
+Wir werden dabei in harmloser Weise uns unterhalten
 und betonen, daß wir seine Flucht als geglückt ansehen
-und vermuten, er würde sich hier nicht wieder Südens
+und vermuten, er würde sich hier nicht wieder blicken
 lassen. In Wahrheit werden wir heimlich Wachen aufstellen,
-so »daß wir über alles, was die beiden nach) Einbruch
+so daß wir über alles, was die beiden nach Einbruch
 der Nacht tun, unterrichtet sind.«
 
 <h2>2. Kapitel.</h2>
