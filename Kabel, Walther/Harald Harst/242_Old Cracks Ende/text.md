@@ -8,8 +8,8 @@ Tom Warger und Mac Gollerston war wirklich kein
 Vorwurf daraus zu machen, daß Crack entflohen. Sie hatten,
 kurz bevor wir aus der Höhle wieder zur Tanana-Farm
 mit ihren wunderlichen Bauten emporstiegen, nochmals Cracks
-Fesseln untersucht, hatten die Kammer dann wieder ver-
-schlossen und sich in das Nebenzimmer begeben, dessen Tür
+Fesseln untersucht, hatten die Kammer dann wieder verschlossen
+und sich in das Nebenzimmer begeben, dessen Tür
 sie nur anlehnten. Als wir dann den Verbrecher aufs
 neue ins Verhör nehmen wollten, als Tom den Schlüssel
 der Kammer aus der Tasche hervorholte, als wir die Tür
@@ -61,8 +61,8 @@ Alles in allem: Die Lage war zumindest peinlich. Und
 doch setzte mich Haralds Verhalten in Erstaunen.
 
 »Sie könnten ja mal draußen nach Spuren suchen,
-Mac und Tom … Es wird nicht viel dabei heraus-
-kommen, denke ich.«
+Mac und Tom … Es wird nicht viel dabei herauskommen,
+denke ich.«
 
 <@pagebreak/>
 Damit trat er wieder zu uns in den Flur und schloß
@@ -105,11 +105,11 @@ als Schlafraum. Maxson ist nun reif für den Galgen.
 Aber sein Mobiliar ist noch da. Die Kammer enthält: Den
 Ofen, der geheizt ist, ferner einen Schrank, den ich öffnete
 und leer fand, drittens einen einfachen Waschtisch, viertens
-zwei Stühle und einen Stiefelknecht, fünftens das Kasten-
+zwei Stühle und einen Stiefelknecht, fünftens das Kastenbett,
 <@pagebreak/>
-Bett, das unten eine sehr dicke Lage Moos hat, dann erst die
-Matratze und die eigentlichen Betten, obenauf eine rot-
-gewürfelte Bettdecke. Wir hatten Warger auf diese Decke
+das unten eine sehr dicke Lage Moos hat, dann erst die
+Matratze und die eigentlichen Betten, obenauf eine rotgewürfelte
+Bettdecke. Wir hatten Warger auf diese Decke
 gelegt und gefesselt und noch an die Bettpfosten angebunden.
 Da ich die Riemen selbst verknotet hatte, war es ausgeschlossen,
 daß er ohne fremde Hilfe sich befreien konnte.
@@ -126,9 +126,9 @@ herausgedreht.«
 »Trauen Sie es Tom wirklich zu, seinen Stiefvater, den
 er verachtet und haßt, befreit zu haben?! Außerdem war
 er doch mit Mac zusammen, und Mac würde sich gleichfalls
-nie dazu verstanden haben, etwa …"
+nie dazu verstanden haben, etwa …«
 
-»Sie verschwenden Ihr Temperament unnötig," fiel Harst
+»Sie verschwenden Ihr Temperament unnötig,« fiel Harst
 ihr freundlich ins Wort. »Der, der Warger losband und
 noch bei ihm in der Kammer ist, ist mir unbekannt.
 Dieser Freund Wargers tat folgendes. Als wir Warger
@@ -152,20 +152,20 @@ beide legten sich nebeneinander in den fast leeren Bettkasten,
 dessen Tiefe durch die Bettdecke verhüllt wurde. Erst
 als ich vor dem Ofen Moosteilchen fand, als ich dann
 von der Seite die Eigenart dieser Bettstatt sah, wußte ich,
-wo die beiden steckten. Ich hätte sie nun Ja sofort fest-
-nehmen können, aber eine gewisse Selbstsucht hielt mich
+wo die beiden steckten. Ich hätte sie nun Ja sofort festnehmen
+können, aber eine gewisse Selbstsucht hielt mich
 davon zurück. Warger-Karsten hat aus Rache vor Monaten
 mein Heim in Schmargendorf niedergebrannt und mir sämtliche
 Juwelen, zumeist Reiseandenken und Geschenke, gestohlen.
-Sie, Miß Barkam, trugen ja eins dieser Schmuck-
-stücke, als Sie in Berlin waren und wir Sie auf eigentümliche
+Sie, Miß Barkam, trugen ja eins dieser Schmuckstücke,
+als Sie in Berlin waren und wir Sie auf eigentümliche
 Weise kennenlernten.«
 
 Ellen errötete.
 
-»oh — die Dinge sind ja längst abgetan, Miß Bar-
-kam. Aber — nicht abgetan ist die Tatsache, daß Karsten-
-Warger bisher nicht angegeben hat, wo er seine Beute
+»oh — die Dinge sind ja längst abgetan, Miß Barkam.
+Aber — nicht abgetan ist die Tatsache, daß Karsten-Warger
+bisher nicht angegeben hat, wo er seine Beute
 von damals verborgen hat. Er wird dies auch freiwillig
 nicht verraten. Deshalb stelle ich ihm jetzt eine Falle …
 Wir werden ihn flüchten lassen, aber hinter ihm bleiben,
@@ -215,74 +215,74 @@ der Nacht tun, unterrichtet sind.«
 
 Die Besten Kalkulationen stimmen nicht, wenn man
 es mit einem Menschen von Warger-Karstens Kaliber zu
-Taifun hat,
+tun hat,
 
 <@pagebreak/>
-Als wir nach einer halben Stunde, Portwein. ’Tom und
-Mac bei uns wieder erschienen waren, die Kammer ausschließen
-wollten, brauchten wir den Cqzlüssel nicht, den
+Als wir nach einer halben Stunde, nachdem Tom und
+Mac bei uns wieder erschienen waren, die Kammer aufschließen
+wollten, brauchten wir den Schlüssel nicht, denn
 die Tür war nur eingeklinkt.
 
 Harst machte ein sehr langes Gesicht, und die Vögel
 waren denn auch wirklich bereits ausgeflogen.
 
 Sie hatten über die Bodentreppe den Boden erreicht
-und von hier aus die Falltür in der Decke von Marxsonä3
+und von hier aus die Falltür in der Decke von Maxsons
 Wohnzimmer benutzt, hatten ein Fenster geöffnet und waren
 über die Brücke in Old Cracks Wohnhaus und von da
 hinab in die große Höhle geeilt. Die Hunde, die wir die
 Fährte aufnehmen ließen, führten uns bis in das Warme
-Saal, also zum Südausgang der Riesengrotte, und hier
+Tal, also zum Südausgang der Riesengrotte, und hier
 waren die Flüchtlinge in dem selbst im strengsten Winter
 nicht zufrierenden Bache entlang gewatet, und die Hunde
 versagten. Erst spät abends kehrten wir nach erfolgloser
 Suche auf die Farm zurück.
 
 Harald war übler Laune. Wir anderen gleichfalls. Und
-mit Geht: Wargers Kühnheit hatte alle Hoffnungen her
-schlagen, und was übrigblieb, war lediglich Enttäuschung,
+mit Recht: Wargers Kühnheit hatte alle Hoffnungen zerschlagen,
+und was übrigblieb, war lediglich Enttäuschung,
 Ärger und Sorge.
 
 Nachdem wir das Abendessen eingenommen hatten, gingen
 Harst und Mac die Wachen inspizieren. Tom und ich
-beaufsichtigten den Transport des Goldes aus der Hörte
-an Old Cracks Arbeitszimmer und Geldschrank. Ellen und
-Suanatu, die Halbindianerin, Macs Verlobte, leisteten uns
+beaufsichtigten den Transport des Goldes aus der Höhle
+in Old Cracks Arbeitszimmer und Geldschrank. Ellen und
+Tuanatu, die Halbindianerin, Macs Verlobte, leisteten uns
 dabei Gesellschaft.
 
 Wir hatten zehn zuverlässige Hirten, alles Tlinkitindianer,
-mit hinab in die Grotte genommen, deren Ausgang 1123
-dem Warmen Tale hin von fünf Leuten gesperrt w27.
-Der Transport verlief ohne Hai Fall,
+mit hinab in die Grotte genommen, deren Ausgang nach
+dem Warmen Tale hin von fünf Leuten gesperrt war.
+Der Transport verlief ohne Zwischenfälle.
 
-Auch die folgenden drei Tage ereignete sich nie.
+Auch die folgenden drei Tage ereignete sich nichts.
 Am vierten trafen von Dawson City acht Polizeibeamte
 ein, die Harald durch einen Boten hatte holen lassen. Sie
 <@pagebreak/>
 waren unterwegs zwei Fallenstellern begegnet, die ihnen
 arglos mitteilten, daß ein Weißer mit einem rötlichen
 Bart und ein Eskimo in einem Hundeschlitten tags zuvor
-in ihrer Südküste genächtigt hätten und dann weiter zur
-Küste gefahren seien. Es konnten nur Karsten Warger und
-sein Helfer&8helfer gewesen sein. Daß einer der Eskimohirten
-auf der Farm fehlte, hatten wir: schon vorher festgestellt.
+in ihrer Blockhütte genächtigt hätten und dann weiter zur
+Küste gefahren seien. Es konnten nur Karsten-Warger und
+sein Helfershelfer gewesen sein. Daß einer der Eskimohirten
+auf der Farm fehlte, hatten wir schon vorher festgestellt.
 Der Mann hieß Latuk und war kein reinblütiger
 Eskimo, sondern der Sohn eines Eskimomädchens und eines
-Europäers. Dieser Latuk hatte — zu denen gehört, die Innersten
-über den Verbrecher Warger geschimpft hatten.
+Europäers. Dieser Latuk hatte zu denen gehört, die am
+meisten über den Verbrecher Warger geschimpft hatten.
 
 Zwei Tage drauf nahmen wir Abschied von den Freunden
-der Tanana-Farm und begleiteten Blox machen Goldtransport,
-imposant sechs Schlitten, da auch die Beamten
+der Tanana-Farm und begleiteten Blox und den Goldtransport,
+insgesamt sechs Schlitten, da auch die Beamten
 mitkamen, bis zur Küste und von da nach Sitka, dem
 großen Hafenplatz, wo wir einen der Dampfer nach San
 Franzisko bestiegen. —
 
 Es war eine Woche später.
 
-Wir wohnten in Anstoßes Doktor Blox, der an der
+Wir wohnten in Frisko bei Doktor Blox, der an der
 Bai eine wunderhübsche Villa besaß. Hier in Kalifornien
-war vom Winter:niht mehr allzu viel zu spüren.
+war vom Winter nicht mehr allzu viel zu spüren.
 
 Am zweiten Abend nach unserer Ankunft spielten wir
 mit Blox in dessen Billardzimmer eine Partie Karambolage.
@@ -290,42 +290,43 @@ Der Negerdiener meldete dann Mr. Nathan Schrop, Professor
 der Medizin an der Universität.
 
 Mr. Schrop saß im Herrenzimmer und hatte neben sich
-eine Holzkiste stehen …
+eine Holzkiste stehen.
 
 »Ich habe zufällig erfahren, daß Sie bei meinem Freunde
-Blox wohnen, Mr. Harst, «« erklärte der Gelehrte ohne lange
-Vorrede, »Mir ist vor vier Tagen vormittags mit der Post
-diese Kiste zugestellt worden, in der ich einen noch frischer!
-Menschenkopp vorfand. Ich bin Spezialist für innere Krankheiten.
+Blox wohnen, Mr. Harst,« erklärte der Gelehrte ohne lange
+Vorrede. »Mir ist vor vier Tagen vormittags mit der Post
+diese Kiste zugestellt worden, in der ich einen noch frischen
+Menschenkopf vorfand. Ich bin Spezialist für innere Krankheiten.
 Dem Paket lag dieses getippte Schreiben bei.«
 
 <@pagebreak/>
-Mr. Nathan Schrop, Professor.
 
-Sie erhalten anbei den Kopf eines Mannes, der
-an einer eigentümlichen Krankheit verstarb, die mit Eichen
-in den Augen, Kopfschmerzen und Ohnimachtsanfällen begann
+<p class="centered">Mr. Nathan Schrop, Professor.</p>
+
+> Sie erhalten anbei den Kopf eines Mannes, der
+an einer eigentümlichen Krankheit verstarb, die mit Stichen
+in den Augen, Kopfschmerzen und Ohnmachtsanfällen begann
 und in vier Stunden zum Tode führte. Besondere
 Umstände zwingen mich, den Namen meines Freundes
 und meinen eigenen geheim zu halten. Wollen Sie bitte
-die Todesursache feststellen und mir das Ergebnisse- Ihrer
-Untersuzungjchrifi lich mitteilen. Sie werden übermorgen
+die Todesursache feststellen und mir das Ergebnis Ihrer
+Untersuchung schriftlich mitteilen. Sie werden übermorgen
 ein neues Paket mit zwei Brieftauben bekommen. Wollen
-Sie Ihre Mitteilungen in üblicher Weise den Tauber
+Sie Ihre Mitteilungen in üblicher Weise den Tauben
 anvertrauen und diese aufsteigen lassen. — Anbei für
 Ihre Bemühungen dreihundert Dollar.
 
-Sehr ergebenst
+<p class="right" style="margin-right: 4em;">Sehr ergebenst</p>
 
-der Freund.
+<p class="right">der Freund.</p>
 
 Schrop, ein Mann in den besten Jahren, mit einem
 typisch amerikanischen Sportgesicht, dem jegliches Anzeichen
-jener scharlatanhäaften »bescheidenen« Aufgeblasenheit Fenster
-Berühmtheiten fehlte, erklärte schlecht und klar: »Die Uns
-gaben dieses Briefes stimmen. Gestern erhielt ich die Brieftauben.
-Ich) habe bisher mit niemandem über die Sache
-gesprochen. Ich glaube, sie hat eine kriminelle Seite … Deshalb
+jener scharlatanhaften »bescheidenen« Aufgeblasenheit sonstiger
+Berühmtheiten fehlte, erklärte schlicht und klar: »Die Angaben
+dieses Briefes stimmen. Gestern erhielt ich die Brieftauben.
+Ich habe bisher mit niemandem über die Sache
+gesprochen. Ich glaube, sie hat eine kriminelle Seite. Deshalb
 suchte ich Sie auf, Mr. Harst.«
 
 Schrop hob den Deckel von dem Kistchen ab und zeigte
@@ -334,18 +335,18 @@ uns den Kopf.
 Ich rief sofort: »Das ist Latuk!«
 
 Ja, es war der Kopf des Verbündeten Wargers. Latuk
-hatte einst von einem braunen Bär einen Taßtzenlyieb Hexe:
+hatte einst von einem braunen Bär einen Tatzenhieb gegen
 die Stirn erhalten, und die Narben waren unverkennbar.
 
 Schrop sagte nur: »Ich habe in den Zeitungen über
 Wargers Flucht gelesen. Latuk war sein Begleiter.«
 
 Der Kopf, den man offenbar mit einer Axt vom Rumpfe
-getrennt hatte, war durch die Säge des Professors zerfetzt
-worden. Das Schädeldach lag nur lose auf. Das Gehirn sehe,
+getrennt hatte, war durch die Säge des Professors zerteilt
+worden. Das Schädeldach lag nur lose auf. Das Gehirn fehlte,
 <@pagebreak/>
 und der Kopf roch stark nach Formalin, dem bekannten
-Konservierungsmittel.«
+Konservierungsmittel.
 
 »Ihr Befund, Mr. Schrop?« fragte Harald ebenso sachlich
 
@@ -353,176 +354,181 @@ Der Professor erwiderte schlicht: »Es dürfte Ihnen als
 Laien neu sein, daß man Radiumstrahlen durch eine besondere
 Art der Zerlegung — Einzelheiten würden zu weit
 führen — derart verstärken kann, daß sie noch auf eine
-Entfernung von zehn Meter besonders diejenigen Gewebe teile
+Entfernung von zehn Meter besonders diejenigen Gewebeteile
 des menschlichen Körpers zerstören, die hinter einer
 Flüssigkeit gelagert sind, so zum Beispiel das Gehirn hinter
-halbem wassergefüllten Augapfel. Mein Pariser Kollege.
+dem wassergefüllten Augapfel. Mein Pariser Kollege
 Nevieux ist auf diese Weise bei seinen Experimenten verunglückt
 und starb innerhalb vier Stunden. Der Doktors
-Befund zeigte alle Merkmale einer lassen Beisetzung des
+Befund zeigte alle Merkmale einer raschen Zersetzung des
 Gehirns. Latuk endete in derselben Weise.«
 
-»Gaben Sie die Brieftauben bereits aufsteigen lassen?«
+»Haben Sie die Brieftauben bereits aufsteigen lassen?«
+
 »Nein, denn es ist mir rätselhaft, wie der Eskimo
-»so. enden konnte. Niemand wagt mehr mit den sogenannten
-Nevieux-Strahlen zu experimentieren. Der einzige Schuß
+so enden konnte. Niemand wagt mehr mit den sogenannten
+Nevieux-Strahlen zu experimentieren. Der einzige Schutz
 dagegen wäre ein Bleipanzer für den ganzen Körper. Die
 Augen sind am meisten gefährdet.«
 
-… »Kamen Sie sofort auf den Gedanken, daß diese Strahlen
+»Kamen Sie sofort auf den Gedanken, daß diese Strahlen
 Latuk getötet hätten?«
-»Nein, durchaus nicht, Es konnte auch Gehirnerweichung
-»vorliegen. Nur ein Zufall ließ mich die Augen genau
-»untersuchen. So fand ich drei Trübungen der Hornhaut
-graue Flecke, und erst die führten mich auf die richtige
-pur.«
+
+»Nein, durchaus nicht. Es konnte auch Gehirnerweichung
+vorliegen. Nur ein Zufall ließ mich die Augen genau
+untersuchen. So fand ich drei Trübungen der Hornhaut
+— graue Flecke, und erst die führten mich auf die richtige
+Spur.«
 
 »Mithin würde ein Mann, der einen Apparat zur
 Erzeugung der Nevieux-Strahlen konstruiert hätte, morden
-können, ohne eine Erforschung befürchten zu müssen?«
+können, ohne eine Entdeckung befürchten zu müssen?«
 
-… »By Gewiß. Ich betone: Wenn ich mich nicht selbst so sehr
+»Gewiß. Ich betone: Wenn ich mich nicht selbst so sehr
 für die Nevieux-Strahlen interessiert haben würde, hätte
-mein Befund geläutet: Wahrscheinlich Gehirnerweichung’ (€
+mein Befund geläutet: Wahrscheinlich Gehirnerweichung.«
 
 <@pagebreak/>
-Harald blickte Schrop ernst an. »Wissen Sie, daß Warger«
-Karsten ein tadelloser Chemiker und Physiker ist? Er hatte
+Harald blickte Schrop ernst an. »Wissen Sie, daß Warger-Karsten
+ein tadelloser Chemiker und Physiker ist? Er hatte
 bekanntlich die Fernsteuerung von Schiffen und Automaten
 durch Aetherwellen verblüffend vervollkommnet.«
 
 »Also trauen Sie ihm die Konstruktion eines solchen
-
 Strahlapparates zu?«
 
-»Ja. — Er hat Latuk getötet — als Bersuch8objekt.
+»Ja. — Er hat Latuk getötet — als Versuchsobjekt.
 Nun will er prüfen, ob jemand, falls er mehrere Morde
 dieser Art beginge, ihn überführen könnte. Deshalb schickte
 er gerade Ihnen den Kopf, Mr. Schrop. Lassen Sie also
 die Brieftauben mit folgender Antwort aufsteigen, — bitte
-notieren Sie Sitz den Wortlaut:
+notieren Sie sich den Wortlaut:
 
-»I3DH habe davon Abstand genommen, Ihre Sendung
+»Ich habe davon Abstand genommen, Ihre Sendung
 der Polizei zu übergeben, da ich einmal feststellte, daß der
 Mann eines natürlichen Todes gestorben ist und da
 ich als Mediziner den Kopf behalten möchte. Ich habe
 allerdings dem zurzeit bei meinem Freunde Blox wohnenden
 Mr. Harald Harst den Fall vorgetragen, der an
 dem Kopf den Eskimo Latuk wiedererkannte, der zugleich
-mit dem Verbrecher Samuel Warger von der Tanana Farm
-entfloh. Harst vermutet, daß Sie jener Burg
-sind und durch. den jähen Tod Ihres Freundes benutzt
-wurden. Er läßt Ihnen bestellen, daß er nicht See
+mit dem Verbrecher Samuel Warger von der Tanana-Farm
+entfloh. Harst vermutet, daß Sie jener Warger
+sind und durch den jähen Tod Ihres Freundes beunruhigt
+wurden. Er läßt Ihnen bestellen, daß er nicht eher
 ruhen wird, bis er Sie gefunden hat.
 
-Professor Dr. Nathan Schrop.«
+<p class="right">Professor Dr. Nathan Schrop.«</p>
 
-»Eine sehr kluge Antwort,« sagte Doktor Blox alte?«
-kennend. »Ihr dachte, Sie würden es gerade darauf ansehen.
-zu verschweigen, daß Schrop Sie konsultierte.« Leiseste
-dazu. »Sie rechnen natürlich damit, daß Schrop beobachte?
+»Eine sehr kluge Antwort,« sagte Doktor Blox anerkennend.
+»Ich dachte, Sie würden es gerade darauf anlegen,
+zu verschweigen, daß Schrop Sie konsultierte.« Er lächelte
+dazu. »Sie rechnen natürlich damit, daß Schrop beobachtet
 wird.«
 
-Harst nickte. »Ich rechne noch mit weit mey9y7r. Wir
-vier, die wir hier zusammensitzen, werden mit die Käpten
-Opfer dieses teuflischen Apparates sein, — wenn es 7.Co
-Karsten Warger ginge. Die Gründe für unsere Beseiti823
+Harst nickte. »Ich rechne noch mit weit mehr. Wir
+vier, die wir hier zusammensitzen, werden mit die nächsten
+Opfer dieses teuflischen Apparates sein, — wenn es nach
+Karsten-Warger ginge. Die Gründe für unsere Beseitigung
 <@pagebreak/>
 sind klar. Schraut und mir hat Karsten längst den Tod
-geschworen. Sie, Mr. Schrop, wissen jetzt zu übel von
+geschworen. Sie, Mr. Schrop, wissen jetzt zu viel von
 ihm, desgleichen Blox. Mithin sind wir gezwungen, uns
 Irgendwie zu schützen. Das »Wie« freilich ist schwierig.
-Wirken die Strahlen von auf zehn Meter, so hilft eigentlich
-(ich nur dauernder Stubenarrest. Da dies nicht gut möglich,
+Wirken die Strahlen noch auf zehn Meter, so hilft eigentlich
+nur dauernder Stubenarrest. Da dies nicht gut möglich,
 müssen wir Besseres ersinnen. — Es gibt hier doch sicherlich
-eine Gtantiolfabrik, lieber Blox.«
+eine Stantiolfabrik, lieber Blox.«
 
-— »Natürlich. Ich bin sogar Syndikus des Unternehmens.«
+»Natürlich. Ich bin sogar Syndikus des Unternehmens.«
 
 »Dann rufen Sie den Direktor an und bitten Sie ihn,
-Ihnen umgehend Staniolpapier von recht großer Starke
-und Schmiegsamkeit in großen Blättern zu schien.«
-Schrop und Blox machten bestürzte Gesichter. Der
-Gedanke, daß ihnen dasselbe Schicksal drohte wie Undank,
-erschien ihnen mit Nest fürchterlich.
+Ihnen umgehend Staniolpapier von recht großer Stärke
+und Schmiegsamkeit in großen Blättern zu schicken.«
 
-»’ Blox meinte zaghaft: »Der Direktor wird sehr erstaunt
-sein … Außerdem ist jetzt« abends doch die Fabrik geschlossen
-und …
+Schrop und Blox machten bestürzte Gesichter. Der
+Gedanke, daß ihnen dasselbe Schicksal drohte wie Latuk,
+erschien ihnen mit Recht fürchterlich.
+
+Blox meinte zaghaft: »Der Direktor wird sehr erstaunt
+sein … Außerdem ist jetzt abends doch die Fabrik geschlossen
+und …«
 
 »Gegenüber der Gefahr spricht das kaum mit. Der
-Direktor. muß das Einmal persönlich herbringen und unbedingt
-schweigen. Kapitel darf nicht ahnen, daß wir seinen
+Direktor muß das Staniol persönlich herbringen und unbedingt
+schweigen. Karsten darf nicht ahnen, daß wir seinen
 Apparat bereits kennen, — Bitte …!«
 
 Blox ging zum Schreibtisch und nahm den Hörer zur
+Hand.
 
-und.
-
-— »Merkwürdig, das Amt meldet sich nicht,« sagte er nach
+»Merkwürdig, das Amt meldet sich nicht,« sagte er nach
 einer Weile,
-…  Harst blickte noch den breiten. Fenstern hin, die auf eine
+
+Harst blickte nach den breiten Fenstern hin, die auf eine
 Terrasse hinausgingen. Es waren Fenster, die bis auf den
 Boden hinabreichten, und das eine war gleichzeitig die
-Für zur Terrasse. Die Vorhänge waren nicht zugezogen.
-»Ein großer Leichtsinn,«.: meinte Harst und schritt am
+Tür zur Terrasse. Die Vorhänge waren nicht zugezogen.
+
+»Ein großer Leichtsinn,« meinte Harst und schritt an
 der Wand entlang zum linken Fenster, ergriff die Zugschnur,
-»und die schweren Seidenvorhänge rauschten zusammen. Er
+und die schweren Seidenvorhänge rauschten zusammen. Er
 <@pagebreak/>
-letzte sie nbereinander und schloß ebenso vorsutligy die anderen.
+legte sie übereinander und schloß ebenso vorsichtig die anderen
 Vorhänge,
 
-»Hat sich das Amt endlich gemeldet, Blox««
+»Hat sich das Amt endlich gemeldet, Blox?«
 
 »Nein …«
 
-»Mithin hat Karsten die Leitung zerstört. Wir sind«
-hier gefangen, es sei denn, daß Sie Schokolade in Tafeln.
+»Mithin hat Karsten die Leitung zerstört. Wir sind
+hier gefangen, es sei denn, daß Sie Schokolade in Tafeln
 haben, lieber Blox.«
 
-»Als Sportler natürlich, und einen. guten Vorrat. Ich.
-esse stets Hinzog-Bitter.«
+»Als Sportler natürlich, und einen guten Vorrat. Ich
+esse stets Vinada-Bitter.«
 
-»In »Einmal gewickelt?«
+»In Staniol gewickelt?«
 
 »Ja,«
 
-»en Sie Ihren Vorrat, Acker bleiben Sie den Fenstern.
+»Holen Sie Ihren Vorrat, aber bleiben Sie den Fenstern
 fern und schalten Sie nirgends Licht ein!«
+
 »Sehr interessant all das,« suchte der Advokat zu
 scherzen.
+
 »Finden Sie des Eskimos Tod so komisch, Blox?! Wir
 wollen die Sachlage nicht unterschätzen.«
 
-— »Ich tue das bestimmt nicht,« ließ sich Schrop vernehmen
+»Ich tue das bestimmt nicht,« ließ sich Schrop vernehmen
 und betupfte sich die Stirn.
 
 Blox ging hinaus. Harst nahm seine Clement aus der
-Schlüsseltasche, entsicherte sie und steckte sie in die AußentasHme
-seiner Jacke. »Ich werde Fehler persönlich) zur
+Schlüsseltasche, entsicherte sie und steckte sie in die Außentasche
+seiner Jacke. »Ich werde nachher persönlich zur
 Polizei fahren. Ihr Auto hält doch noch draußen, Mr. Schrop.
-Wir müssen den Schuß der Polizei anrufen. Blox’ Villa muß
+Wir müssen den Schutz der Polizei anrufen. Blox’ Villa muß
 umstellt und alle Personen in der Nähe müssen festgenommen
-werden.« …
+werden.«
 
-Blox kam mit einem Paket Schokolade zurück«.
+Blox kam mit einem Paket Schokolade zurück.
 
-»Legen Sie es nur hin … Befehlen Sie Ihren:
+»Legen Sie es nur hin … Befehlen Sie Ihrem
 Diener, Schrops Chauffeur hereinzurufen.«
 
-Der Chauffeur trat ein, aber mit seltsam Anschein
+Der Chauffeur trat ein, aber mit seltsam unsicheren
 Schritten.
 
-»Was fehlt Ihnen, Schritt?’
+»Was fehlt Ihnen, Shmits?«
 
-»Mr. Schrop, ich weiß nicht recht … Mir ist so wir«
+»Mr. Schrop, ich weiß nicht recht … Mir ist so wirr
 <@pagebreak/>
 im Kopf … Und mir verschwimmt alles vor den Augen.«
 
 Wir sahen uns bestürzt an.
 
 »Sprach jemand mit Ihnen draußen?« fragte Harald den
-Grinsten.
+Ärmsten.
 
 »Nein … Nur ein alter Mann bat mich um Feuer
 für seine Zigarre. Es war ein Hausierer …«
@@ -532,18 +538,18 @@ für seine Zigarre. Es war ein Hausierer …«
 »Ja … — — Mir … mir … wird immer mehr
 schlechter …«
 
-»Setzen Sie sich, — fühlten Sie vielleicht -. ein Stechen
+»Setzen Sie sich, — fühlten Sie vielleicht ein Stechen
 In den Augen, als Sie dem Manne Feuer gaben?«
 
-»Ja — ein furchtbares Stehen … doch nur sekundenlang.«
+»Ja — ein furchtbares Stechen … doch nur sekundenlang.«
 
 Schrop und Blox waren blaß geworden.
 
 Der Chauffeur schwankte auf seinem Stuhl wie ein
 Trunkener. Sein Gesicht war graugelb, und auf der Stirn
 standen ihm die Schweißperlen. Plötzlich fiel er vorüber
-auf den Teppich Wir legten« »ihm auf den Diwan, er war
-bereits bewußtlos. —
+auf den Teppich. Wir legten ihn auf den Diwan, er war
+bereits bewußtlos.
 
 Der Neger-Diener trat ein und meldete laut:
 
@@ -557,86 +563,86 @@ warten. Wo ist sie?«
 
 »In der Vorhalle.«
 
-»Allein 2?«
+»Allein?«
 
 »Nein, der Pförtner sitzt am Fenster seiner Loge. Das
-bat Mr. Blox so angeordnet. Kein Besucher bleibt unbeobachtet,
+hat Mr. Blox so angeordnet. Kein Besucher bleibt unbeobachtet,
 es würden sich sonst Diebe einschleichen.«
 
-»Tat die Dame einen Koffer bei sich, Tom?«
+»Hat die Dame einen Koffer bei sich, Tom?«
 
-»Nein, nur. einen Regenschirm, Mr. Harst.«.
+»Nein, nur einen Regenschirm, Mr. Harst.«
 
 »Ist sie hager oder dick?«
 
 <@pagebreak/>
-»Sohn dich …«
+»Sehr dick …«
 
-»Out, jagen Sie ritt also, Blox käme sofort.«
+»Gut, sagen Sie ihr also, Blox käme sofort.«
 
-Der Diener Mensch wand.
+Der Diener verschwand.
 
-»Kann ich von hier aus in die Pförtnerloge, Blox«
+»Kann ich von hier aus in die Pförtnerloge, Blox?«
 
 »Nur durch den Garten, Harst.«
 
-Harald riß rast die Umhüllung von einer Tafel Schoße
-Lade, nahm auch das Staniolpapier ab, strich es glatt und.
-meinte: »Die Augen wird es immerhin schützen. Einmal ist
+Harald riß rast die Umhüllung von einer Tafel Schokolade,
+nahm auch das Staniolpapier ab, strich es glatt und
+meinte: »Die Augen wird es immerhin schützen. Staniol ist
 Blei …« Dann ging er durch die Tür auf die Terrasse
-und Frühe die Tür wieder zu.
+und drückte die Tür wieder zu.
 
-Wir Zurüd&bleibenden schwiegen beklommen. Der ChauffFeur
-auf dem Diwan. stöhnte kläglich. Hin und wieder wurde
-Sein Körper durch einen Krampf hin und hergeschüttelt. Wir
+Wir Zurückbleibenden schwiegen beklommen. Der Chauffeur
+auf dem Diwan stöhnte kläglich. Hin und wieder wurde
+sein Körper durch einen Krampf hin und hergeschüttelt. Wir
 anderen, die wir diesen Bedauernswerten, der nur sterben
-mußte, damit. da? Auto führerlos sei, elend verlegen sahen,
-Hattet wohl dasselbe: Gefühl: Der Sensenmann schätzte
-Gereizt auch für uns ’in Hörweite seine Sichel!
+mußte, damit das Auto führerlos sei, elend verrecken sahen,
+Hatten wohl dasselbe Gefühl: Der Sensenmann schärfte
+bereits auch für uns in Hörweite seine Sichel!
 
 Mit einem Male ging die Tür wieder auf und herein
-&raten Harald und die unheimlich die Frau Willen.
+traten Harald und die unheimlich dicke Frau Wilson.
 
 -
 <h2>3. Kapitel.</h2>
 
 Wenn der mißtrauische Harst vermutet hatte, die Klientin
-Je! nur eine Abgesandte Karsten oder gar dieser selbst
-Maskiert und ausgestopft. und mit dem Todesapparat im
-mächtigen Busen, — übrigens ein Fernrohr, der zum ::.1«
-göfommen war, so konnten wir nun die- völlige Harmlosigkeit
+sei nur eine Abgesandte Karstens oder gar dieser selbst
+Maskiert und ausgestopft und mit dem Todesapparat im
+mächtigen Busen, — übrigens ein Argwohn, der auch mir
+gekommen war, so konnten wir nun die völlige Harmlosigkeit
 dieser Zwei-Zentner-Dame, deren gutmütig-vergrämtes
 Gesicht in Tränen schwamm, sofort einwandfrei erkennen.
 
 <@pagebreak/>
-Nachdem sie einen entsetzten Blick auf den Stockwerken Chauffeur
-geworfen und Harald ihr beruhigend erklärt hatte, er
+Nachdem sie einen entsetzten Blick auf den stöhnenden Chauffeur
+geworfen und Harald ihr beruhigend erklärt hatte, es
 handele sich bei dem Manne nur um eine ungefährliche
-Vergiftung durch) schlechten Whisky, nickte sie verständnisvoll
+Vergiftung durch schlechten Whisky, nickte sie verständnisvoll
 und meinte:
 
-»Meiner hat sich auch Sorge … trunken … t!!«
+»Meiner hat sich auch totge … trunken …!!«
 
 Dann sank sie in einen Sessel und fügte zur Erläuterung
-Hinzu: »Er war ja soweit kein schlechter Mensch, aber hob
-unserem Geschäft muß man Alkohol haben, wir besitzen Flüchtling
+Hinzu: »Er war ja soweit kein schlechter Mensch, aber bei
+unserem Geschäft muß man Alkohol haben, wir besitzen nämlich
 einen kleinen Kramladen in einem Keller … Und die
-kalten Füße und das Reiten, — nun, da hat mein Mann.
+kalten Füße und das Reißen, — nun, da hat mein Mann
 eben die Einreibungen immer getrunken — — Sie verstehen!«
 
 Wir verstanden. Im alkoholfreien Amerika wird unheimlich
 viel Spiritus zu Einreibungen verbraucht.
 
 Frau Wilson brachte dann ihr Anliegen vor. Ihr
-Mann hätte bisher kein »Testament gemacht, und damit
+Mann hätte bisher kein Testament gemacht, und damit
 ihr der Laden allein zufalle, wolle er jetzt — die drei Kinder
-seien doch; schon: selbständig — noch schnell vor einen
+seien doch schon selbständig — noch schnell vor einem
 Notar das Nötige aufsetzen. Gerade jetzt ginge es ihm besser,
 und deshalb …
 
 Sie hatte eine recht breite Art, ihre Gedanken auszudrücken,
-und Harald kürzte die Sache ab, indem er 31
-unseren! Erstaunen fragte:
+und Harald kürzte die Sache ab, indem er zu
+unserem Erstaunen fragte:
 
 »Was ist der Laden samt Inventar wert?«
 
@@ -645,86 +651,86 @@ an.
 
 »Ich werde Ihnen allen Schaden ersetzen,« sagte Harst
 freundlich, »der Ihnen daraus entstehen könnte, daß Ihr
-(Mann inzwischen stirbt. Sie müssen uns Ihren Mantel und
+Mann inzwischen stirbt. Sie müssen uns Ihren Mantel und
 Hut und Schirm überlassen und vorläufig Hierbleiben.«
 
-Frau Wilson wandte Sitz an Blox.
+Frau Wilson wandte sich an Blox.
 
-»Mr. Blox, der »Herr sollte seine Scherze mit anderen
-treiben. Ich finde …
+»Mr. Blox, der Herr sollte seine Scherze mit anderen
+treiben. Ich finde …«
 
 <@pagebreak/>
 Blox zerstreute ihre Bedenken.
 
-»Ich versichere Ihnen, Frau- Wilson, daß der Herr es
+»Ich versichere Ihnen, Frau Wilson, daß der Herr es
 sehr ernst meint. Weshalb wir Ihre Sachen brauchen, kann ich
 Ihnen nicht sagen, Sie sollen jedoch keinerlei Schaden erleiden.
 Auch ich stehe Ihnen dafür gut.«
 
 Nach einigem Hin und Her gaben die hundert Dollar,
-die Harald ihr in die Hand Frühe, den Ausschlag.
+die Harald ihr in die Hand drückte, den Ausschlag.
 
 Wir beide gingen mit ihr ins Nebenzimmer, und nach
 zehn Minuten war Harst Frau Wilson geworden und wurde
 von dem Diener Tom bis auf die Straße geleitet, wo er
-ihr noch Naturen mußte:
+ihr noch nachrufen mußte:
 
-»Der Kollege meines Herrn wohnt also Kalkputz«
-Street 18 … Gute Nacht, Frau Wilson.«
+»Der Kollege meines Herrn wohnt also Kalifornia-Street
+18 … Gute Nacht, Frau Wilson.«
 
 Die echte Frau Wilson labte sich derweil an Tee, Gebäck
 und gutem Whisky.
 
-Wir anderen umstanden nebenan des Chauffeurs Sterben:
-Lager. Es ging mit ihm unheimlich schnell zu Ende. Pro
-Professor Schrop war derart verstört, daß er vollkommen geistesabwesend
-im Sessel lehnte. Blox sagte auch nichts, und 1HG
-selbst wurde von sorgenden Gedanken um Harald geklettert,
+Wir anderen umstanden nebenan des Chauffeurs Sterbelager.
+Es ging mit ihm unheimlich schnell zu Ende. Professor
+Schrop war derart verstört, daß er vollkommen geistesabwesend
+im Sessel lehnte. Blox sagte auch nichts, und ich
+selbst wurde von sorgenden Gedanken um Harald gefoltert,
 der nun auf dem Wege zur Polizei war. Ob die Verkleidung
-ihm schützen würde war fraglich. —
+ihn schützen würde war fraglich. —
 
 Blox Villa hier draußen lag ziemlich einsam im einer
-neuen Uferstraße dicht an der Bai. Biß zur Haltestelle der
-Straßenbahn waren es gut fünf Minuten, und es Stande
+neuen Uferstraße dicht an der Bai. Bis zur Haltestelle der
+Straßenbahn waren es gut fünf Minuten, und es Standen
 nur ganz vereinzelt Häuser am Wege, so daß irgendeine
 Teufelei bequem auszuführen war.
 
-Nach einer halben Stunde brannte nützlich in Blox
-Garten unten am Strande das Bootshaus lichterloh. Tot
-kam hereingestürmt und meldete uns das Ereignis, des?
+Nach einer halben Stunde brannte plötzlich in Blox’
+Garten unten am Strande das Bootshaus lichterloh. Tom
+kam hereingestürmt und meldete uns das Ereignis, das
 mit zu unserem Plane gehörte. —
 
-»Lassen Sie’s brennen, Tom!« meinte Blox gleichgilta.
+»Lassen Sie’s brennen, Tom!« meinte Blox gleichgültig.
 
-»Aber Ihr Motorboot, Herr!!«’« Tom war nicht ein7geweilt
+»Aber Ihr Motorboot, Herr!!« Tom war nicht eingeweiht
 und rannte wieder davon.
 
 <@pagebreak/>
 Fünf Minuten später rückte die Feuerwehr an, aber
-Inzwischen hatten Tom und Blox’ sonstige Wetterfeste den
+Inzwischen hatten Tom und Blox’ sonstige Bedienstete den
 harmlosen Brand schon erstickt.
 
-Daß Buckel) mit der Feuerwehr acht Detektive und
+Daß zugleich mit der Feuerwehr acht Detektive und
 Inspektor Jooper erschienen waren, konnte niemand ahnen,
-—» noch« weniger, daß ein Polizeibeamter, der vom Walser
-her im Ruderboot gekommen, das Feuer angelegt hätte.
+— noch weniger, daß ein Polizeibeamter, der vom Wasser
+her im Ruderboot gekommen, das Feuer angelegt hatte.
 
 Harst als Feuerwehrmann brachte ein Bündel mit,
 das Frau Wilsons Sachen enthielt, und die dicke Dame
-entfernte sie unbemerkt und verschwand in der Menge der
+entfernte sich unbemerkt und verschwand in der Menge der
 rasch zusammengeströmten Neugierigen, die sich dann sehr
 bald wieder zerstreuten. Auch die Spritze und der Beiwagen
 fuhren davon,
 
 In Blox’ Arbeitszimmer saß als Neuerscheinung Polizeiinspektor
 Jooper, und draußen im Garten hatten sich fünf
-»Detektive und auf der Straße die anderen drei verborgen, diese
+Detektive und auf der Straße die anderen drei verborgen, diese
 in einer nahen Baubude,
 
 Der Chauffeur war tot.
 
 Jooper hörte still zu, als Harst ihm nun einen ganz
-eingehenden Bericht er’tattete.-
+eingehenden Bericht erstattete.
 
 Er sagte dann: »Ich teile Ihre Ansicht, Mr. Harst.
 Dieser Schurke von Karsten wird auch Sie und die anderen
@@ -733,21 +739,21 @@ erhält. Ich bin auch einverstanden, daß wir ihn auf die
 Weise zu fangen suchen, wie Sie es vorschlagen. — Mister
 Schrop, ich werde also morgen früh als Briefträger zu
 Ihnen kommen und den beiden Tauben die Schwungfedern
-etwas durch- Schmieröl beschmutzen, so daß die Tiere nur
-mühsam stiegen können. Wut den Nebendähern Ihres Hauses
+etwas durch Schmieröl beschmutzen, so daß die Tiere nur
+mühsam fliegen können. Auf den Nebendächern Ihres Hauses
 werden Beobachter postiert, ebenso auf hohen Gebäuden, auch
 sollen der Signaldienst und die Motorradler ganz nach
-Harsts -Vorschlag in Mitten treten. Jetzt ziehen Sie Harsts
-Feuerwehrmantel über und setzen Sie auch die dazu geht
+Harsts Vorschlag in Aktion treten. Jetzt ziehen Sie Harsts
+Feuerwehrmantel über und setzen Sie auch die dazu 
 gehörige Kopfbedeckung auf.«
 
 <@pagebreak/>
-Die Idee, die Flugrictung der Tauben zu beobachten
+Die Idee, die Flugrichtung der Tauben zu beobachten
 und so Karstens Quartier zu finden, war gut.
 
 Nur …
 
-Kaum hatte der Inspektor den Satz beendet, als da
+Kaum hatte der Inspektor den Satz beendet, als das
 bisher unbrauchbare Telephon anschlug.
 
 Wir alle fuhren zusammen. Wir ahnten schon, was
@@ -758,15 +764,15 @@ Eine tiefe Stimme sagte:
 
 »Mr. Blox, bestellen Sie dem Professor, daß er die
 Tauben sich zu Mittag braten lassen kann. Ich verzichte auf
-sein … Gutachten. Ich weiß bereits, daß mein kleiner Apparat
-von der Polizei eifrig sein)! wird — genau wie ich. Geleit
+sein Gutachten. Ich weiß bereits, daß mein kleiner Apparat
+von der Polizei eifrig gesucht wird — genau wie ich. Geben
 Sie sich keine Mühe. Ich ziehe um und werde mit Ihnen
 allen abrechnen.«
 
-Dann war Karstens Verrat an Frechheit erschöpft, und
+Dann war Karstens Vorrat an Frechheit erschöpft, und
 das Telephon schwieg.
 
-Inspektor Jooper meinte ingrimmig;
+Inspektor Jooper meinte ingrimmig:
 
 »Der Schuft ist schlauer als wir alle, Mr. Harst. —
 Sollen wir trotzdem die Brieftauben fliegen lassen?!«
@@ -774,8 +780,8 @@ Sollen wir trotzdem die Brieftauben fliegen lassen?!«
 Unsere Gesichter drückten das aus, was wir empfanden:
 Wut über unsere Wehrlosigkeit!
 
-»Nein, es hätte keinen Zwei« entschied Harald. »Karsten
-wird natürlich seine Wohnung wechseln. Kennen bin ich
+»Nein, es hätte keinen Zweck!« entschied Harald. »Karsten
+wird natürlich seine Wohnung wechseln. Dennoch bin ich
 nicht ohne Hoffnung. Nehmen Sie Ihre Leute nur wieder
 mit, Mr. Jooper. Dem Schurken ist so nicht beizukommen.«
 
@@ -783,10 +789,10 @@ Der Inspektor und der Professor verabschiedeten sich.
 
 Wir trugen den Toten dann in ein Kellergelaß, und
 Blox mußte das Personal im Arbeitszimmer versammeln.
-Es waren dies: Der Diener Tom, die beiden  Scheut
-feure, ein Gärtner, zugleich Pförtner und Verfolger?
+Es waren dies: Der Diener Tom, die beiden Chauffeure,
+ein Gärtner, zugleich Pförtner und Versorger
 der Zentralheizung, die Köchin und das Stubenmädchen. —
-Alle diese Leute standen seit »Jahren in Blox Diensten
+Alle diese Leute standen seit Jahren in Blox Diensten
 und waren durchaus zuverlässig.
 
 <@pagebreak/>
@@ -796,189 +802,190 @@ lassen und nur die Augen gut offen halten und alles
 irgendwie Auffällige sofort melden.
 
 Der Erfolg dieser Vorbereitungen war der, daß das
-
 Stubenmädchen, eine niedliche Quadrone, vortrat und behauptete,
-sie habe von ihrem. Stubenfenster aus zufällig
+sie habe von ihrem Stubenfenster aus zufällig
 beobachtet, wie der Mann mit dem Hausiererkasten sich von
-dem unglüslichen Chauffeur Professor Schrops habe Feuer
+dem unglücklichen Chauffeur Professor Schrops habe Feuer
 geben lassen, und der Hausierer sei dann am Gartenzaun
-entlang zum ’Ufer der Bai gegangen, wo das Wohnboot
+entlang zum Ufer der Bai gegangen, wo das Wohnboot
 eines reichen Kaufmanns verankert läge, das jetzt im Winter
-natürlich unbenutzt sei. —
-8\. Die: Landratte Juanita gab« so: »den« Anstoß zu weiteren
-Bekundungen. Die Dienerschaft, durch den Tod Schritt zunächst
-« recht verängstigt, wollte nun. hinter Juanita nicht
-zurückstehen. Jeder wußte« plötzlich etwas über den Hausierer
-zu sagen, jeder besann sich plötzlich, den Mann schon
-gestern in der; Tische der »Villa bemerkt zu haben. Der
-Pförtner ’insbesondere, … dem « aus die Treibhäuser anvertraut
-waren, erklärte mit aller Bestimmtheit, der Hausierer
-sei« von ihm: zweimal  auf- dem »Hausboot gesehen worden,
-und bekanntlich. pflegten ja viele arme Teufel im Winter
-gerade »zu? Hausbooten- unerlaubterweise zu nächtigen.
-». »Moos alledem schien es. ziemlich gewiß, daß Karsten dort
-zumindest ein: Notquartier- sich hergerichtet Hatte …
+natürlich unbenutzt sei.
 
-Die Dienerschaft. wurde fortgeschickt. Harald schärfte den
-Leuten nochmals. ein, strengste Verschwiegenheit zu wahren.
-v- »Blox,« sagte er alt unserem Gastfreund, »Schraut und.
-ich wollen: mal sofort etwas unternehmen. Daß Karsten machen
-in der Nähe,! »glaube ich — nicht. Es wäre zu gefährlich für
-Ihn. -Er weiß, daß die Polizei. hinter ihm. drein ist. Wir
-werden uns  zweckentsprechend maskieren. Auch das Einmal
-wird. verwendet. werden. Ich. nehme an, daß diese der«
+Die Quadrone<@refnote 1/> Juanita gab so den Anstoß zu weiteren
+Bekundungen. Die Dienerschaft, durch den Tod Shmits zunächst
+recht verängstigt, wollte nun hinter Juanita nicht
+zurückstehen. Jeder wußte plötzlich etwas über den Hausierer
+zu sagen, jeder besann sich plötzlich, den Mann schon
+gestern in der Nähe der Villa bemerkt zu haben. Der
+Pförtner insbesondere, dem auch die Treibhäuser anvertraut
+waren, erklärte mit aller Bestimmtheit, der Hausierer
+sei von ihm zweimal  auf dem Hausboot gesehen worden,
+und bekanntlich pflegten ja viele arme Teufel im Winter
+gerade auf Hausbooten unerlaubterweise zu nächtigen.
+
+Nach alledem schien es ziemlich gewiß, daß Karsten dort
+zumindest ein Notquartier sich hergerichtet Hatte.
+
+Die Dienerschaft wurde fortgeschickt. Harald schärfte den
+Leuten nochmals ein, strengste Verschwiegenheit zu wahren.
+
+»Blox,« sagte er zu unserem Gastfreund, »Schraut und
+ich wollen mal sofort etwas unternehmen. Daß Karsten noch
+in der Nähe, glaube ich nicht. Es wäre zu gefährlich für
+Ihn. Er weiß, daß die Polizei hinter ihm drein ist. Wir
+werden uns zweckentsprechend maskieren. Auch das Staniol
+wird verwendet werden. Ich nehme an, daß diese verteufelten
 <@pagebreak/>
-Denselben Ctraiysen in der Hauptsache nur die Augen von
-das Hirn bedrohen. Holen Sie uns Kleibungostncke von
-der Köchin. Als Frauen können wir Athleten tragen und
-unter den Schleier Staniolblätter verbergen, die nur schmale
-Gelehrte haben und die wir im rechten Moment vor die
-Augen ziehen können. Diese Geschichte muß ein Ende haben,
-»Dir klettern über den Zaun des Nachbargrundstücks und
+Strahlen in der Hauptsache nur die Augen und
+das Hirn bedrohen. Holen Sie uns Kleidungsstücke von
+der Köchin. Als Frauen können wir Schleier tragen und
+unter dem Schleier Staniolblätter verbergen, die nur schmale
+Sehschlitze haben und die wir im rechten Moment vor die
+Augen ziehen können. Diese Geschichte muß ein Ende haben.
+Wir klettern über den Zaun des Nachbargrundstücks und
 werden uns schon unbemerkt entfernen.« —
 
-Es »war ein. Uhr morgens, als zwei Frauen über ein
+Es war ein Uhr morgens, als zwei Frauen über ein
 unbebautes, eingezäuntes Stück Brachland die Straße erreichten
-und der Stadt Zustrebten. An der Haltestelle der«
+und der Stadt Zustrebten. An der Haltestelle der
 Straßenbahn ließen sie jedoch drei Wagen vorüberfahren und
-ütudierten immer wieder die grell beleuchtete Fahrplansäuse,
+studierten immer wieder die grell beleuchtete Fahrplansäule.
 Es waren ärmliche Frauen, die eine hatte über einem ganz
-unmodernen. engen Wintermantel. noch ein Umschlagetuch,
-und die größere wirkte beinahe wie eine vorsintflutliHhe
-Vogelscheuche.«
+unmodernen engen Wintermantel noch ein Umschlagetuch,
+und die größere wirkte beinahe wie eine vorsintflutliche
+Vogelscheuche.
 
 »Ich kann nichts Verdächtiges bemerken,« sagte Harald
 und musterte ein paar Fischer, die von der Bai her in hohen
 Stiefeln daherkamen. »Wir haben alles getan, was sich
-irgend tun ließ, einen Verfolger aufzuspüren.« ’«
+irgend tun ließ, einen Verfolger aufzuspüren.«
 
 »Dann können wir ja getrost ein Boot mieten und …«
 
 »Boot?! Nein, mein Alter … Die Beobachtungen der
-Dienerschaft sind mir nicht so wichtig wie meine Trockenen,
-und die beziehen sich. auf das Telephon in Blox’ Arbeitszimmer.
-Die Verbindung zum Amt war unterbrochen, a9r
+Dienerschaft sind mir nicht so wichtig wie meine eigenen,
+und die beziehen sich auf das Telephon in Blox’ Arbeitszimmer.
+Die Verbindung zum Amt war unterbrochen, aber
 nachher anscheinend wieder in Ordnung, als sich Karsten
-meldete und. uns bewies, daß er alles« wußte, was Lt27«
+meldete und uns bewies, daß er alles wußte, was wir
 beabsichtigten. Meinst du, er kann dies alles persönlich
 in Blox’ Villa erlauscht haben, zum Beispiel die Idee mit
-Der Brieftaubenpostantwort, die im sicher machen sollte rt
-Nein, — das Telephon war der Verräter, der HorOTKarijten
-hat die geringen Schallwellen, die in den Fruit
+Der Brieftaubenpostantwort, die ihn sicher machen sollte?!
+Nein, — das Telephon war der Verräter, der Horcher.
+Karsten hat die geringen Schallwellen, die in den Trichter
 <@pagebreak/>
-bei unseren Gesprächen drangen, verstärkt und also unsere:
-Unterhaltung abgesandt. Das ist heutzutage unschwer zu
+bei unseren Gesprächen drangen, verstärkt und also unsere
+Unterhaltung abgehorcht. Das ist heutzutage unschwer zu
 erreichen, zumal wenn wie hier in dem neuen Villenvorort
 die Telephondrähte noch von Haus zu Haus oberirdisch laufen,
 von Dach zu Dach. Ich glaube zu wissen, wo er steckte.
-Die dritte Villa neben der Blox’schen ist ein Fremden« und
-Erholungsheim. Wer dort eins der Zimmer im zweiten.
-Stock mietet, kann an der eisernen Feuerleiter am West
-Giebel bequem bis zu den Telephondrähten gelangen.
-habe mir die Drähte, soweit dies jetzt nachts möglich, ’gena1s
-angesehen. Das Hausboot sollte uns nur auf eine falle
+Die dritte Villa neben der Blox’schen ist ein Fremden- und
+Erholungsheim. Wer dort eins der Zimmer im zweiten
+Stock mietet, kann an der eisernen Feuerleiter am Westgiebel
+bequem bis zu den Telephondrähten gelangen. Ich
+habe mir die Drähte, soweit dies jetzt nachts möglich, genau
+angesehen. Das Hausboot sollte uns nur auf eine falsche
 Spur locken, Karsten hat sich dort als Hausierer absichtlich
-so oft gezeigt. Wir werden also von der Rückseite an des
+so oft gezeigt. Wir werden also von der Rückseite an den
 großen Garten des Fremdenheims heranschleichen, und ich
-werde mir die Drähte vom Farbige aus betrachten, verneinen
-muß am Isolator zerschnitten und angezapft worden
-sein. Es ist keine Gefahr dabei. Karsten wird sich dort Gang;
+werde mir die Drähte vom Dache aus betrachten, denn
+einer muß am Isolator zerschnitten und angezapft worden
+sein. Es ist keine Gefahr dabei. Karsten wird sich dort ganz
+sicher fühlen und wahrscheinlich schlafen.«
 
-sicher fühlen und wahrscheinlich schlafen.««
-»Im — und du meinst, er hat die Tauben etwa.
-»Nein, nein, — keine Rede, die Tauben gehören Natur
+»Hm — und du meinst, er hat die Tauben etwa …«
 
-lich einem Komplicen von ihm, der anderswo wohnt. Die
+»Nein, nein, — keine Rede, die Tauben gehören Natürlich
+einem Komplicen von ihm, der anderswo wohnt. Die
 Tiere müssen doch an ihren Stall seit langem gewöhnt sein,
-
-sonst könnten sie ja denNückweg nicht finden. Karsten
-hat mehrere Helfershelfer, behaupte ich Natürlich wird
-er keinem dieser Leute so weit vertrauen, daß er ihm sein,
+sonst könnten sie ja den Rückweg nicht finden. Karsten
+hat mehrere Helfershelfer, behaupte ich. Natürlich wird
+er keinem dieser Leute so weit vertrauen, daß er ihm sein
 gefährliches Geheimnis der Todesstrahlen preisgibt. So leichtsinnig
-ist er nicht. Ich kenne ja die hiesigen Verbrecher
-Organisationen zu ’wenig, möchte aber doch annehmen, das.
-er mit einer dieser dunklen Gilden dauernd in Verbindung-.
+ist er nicht. Ich kenne ja die hiesigen Verbrecherorganisationen
+zu wenig, möchte aber doch annehmen, daß
+er mit einer dieser dunklen Gilden dauernd in Verbindung
 gestanden hast, nachdem er in Dawson City seine Rolle
 als Warger nebst all den Nebenrollen zu spielen begann.
 Dieser Mensch ist eben ein Schulbeispiel eines modernen
 Verbrechers, arbeitet mit allen möglichen technischen Hilfsmitteln
 <@pagebreak/>
 und muß überall Freunde, Helfershelfer haben,
-die ihn weder als Karsten von als Samuel Warger von
-als Crack den Unechten kennen. Ich Gabeln das unbestimmte
+die ihn weder als Karsten von als Samuel Warger noch
+als Crack den Unechten kennen. Ich habe so das unbestimmte
 Gefühl, als ob wir mit ihm noch mancherlei Überraschungen
-erleben werden, — Gehen wir also, …««
+erleben werden. — Gehen wir also, …«
 
-<h2>3. Kapitel.</h2>
+<h2>4. Kapitel.</h2>
 
-Die Nacht. war mäßig kalt, windstill und sternenklar,
-Daß ich diesen: Feldzug gegen Karsten mit recht gemischt
-Gefühlen antrat; war verständlich, denn gerade die Herrin
-tückische Gefahr, die- uns auf Schritt. und Tritt umlauerte,
-»Machte nervös und. hinderte die freie Entfaltung. alterprobter
-Erfahrungen. Auch Harald trug alledem Rechnung. Diwan
+Die Nacht war mäßig kalt, windstill und sternenklar.
+Daß ich diesen Feldzug gegen Karsten mit recht gemischten
+Gefühlen antrat, war verständlich, denn gerade die heimtückische
+Gefahr, die uns auf Schritt und Tritt umlauerte,
+Machte nervös und hinderte die freie Entfaltung alterprobter
+Erfahrungen. Auch Harald trug alledem Rechnung. Er war
 überaus vorsichtig und ließ nichts außer acht, was uns
-schützen konnte, —
+schützen konnte,
 
-»Wir gelangten!« denn auch unbemerkt ’auf das Dachs der
-großen Villa, Problem »zum Telephonmast und stellten fest,
-daß hier. kein einziger Draht angezapft worden sein konnte.
-Das war eine« böse Niete. —
+Wir gelangten denn auch unbemerkt auf das Dach der
+großen Villa, krochen zum Telephonmast und stellten fest,
+daß hier kein einziger Draht angezapft worden sein konnte.
+Das war eine böse Niete.
 
-Während wir- vor« hinter einem. Schornstein kauerten,
+Während wir noch hinter einem Schornstein kauerten,
 geschah in unserer Nachbarschaft etwas sehr Seltsames.
 
-Schräg unter. uns jenseits der Straße, also noch hinter
-der Villa Blox, »lag — jener halb fertige Neubau, der nun
+Schräg unter uns jenseits der Straße, also noch hinter
+der Villa Blox, lag jener halb fertige Neubau, der nun
 im Winter mit vernagelten Fensteröffnungen und mit einem
-Notdach die wärmere Witterung und eine Fertigstelino4
+Notdach die wärmere Witterung und seine Fertigstellung
 erwartete. Zu diesem Neubau gehörte auch die von hieraus
 gut sichtbare Baubude, in der sich Inspektor Joopers
 Leute mit versteckt hatten. Es war ein großer transportabler
 <@pagebreak/>
 Schuppen mit Pappdach, und wir wußten, daß dort ein
 Wächter wohnte, ein alter Mulatte mit einem Stelzfuß,
-der diesen elenden Posten wohl aus Not angenommen,
+der diesen elenden Posten wohl aus Not angenommen
 hatte. Die Baubude hatte auf dem Dache ein hohes eisernes
-Rohr, einen. Rauchfang für den Ofen des Wächters, und
+Rohr, einen Rauchfang für den Ofen des Wächters, und
 daneben einen Holzmast für die Telephonleitung der Baubude.
 Diese beiden Drähte waren von dem Eisenmast und
-den Alligatoren auf der Villa Blox abgezweigt und liefen
+den Isolatoren auf der Villa Blox abgezweigt und liefen
 also schräg nach unten durch die Baumkronen des Bloxschen
-Gartens hindurch. Eine der kalifornischen Riesenkiefern denk’
+Gartens hindurch. Eine der kalifornischen Riesenkiefern dort
 stand dicht an der Südostecke der Villa,
 
 Immerhin war es Haralds Verdienst, daß er die schmale
 Leiter bemerkte, die aus der Krone der Kiefer zum Bloxschen
 Dachrande hinübergeschoben wurde. Außerdem mußten wir
-aus der Mondsichel dankbar sein, die das Sternenlicht
-verstärkte und uns einen Mann zeigte, der flink wie ein)
-Eichhörnchen über diese schwankende Leiterbrüe kletterte
-und dann am Telephonmast wieder auftauchte, die Armee
-schickte und irgend etwas Art den Isolatoren vornahm:
+auch der Mondsichel dankbar sein, die das Sternenlicht
+verstärkte und uns einen Mann zeigte, der flink wie ein
+Eichhörnchen über diese schwankende Leiterbrücke kletterte
+und dann am Telephonmast wieder auftauchte, die Arme
+hochreckte und irgend etwas an den Isolatoren vornahm.
 
-Harald rief leise: »Schnell — — hinab — — in hin
+Harald rief leise: »Schnell — — hinab — — in die
 Baubude!! Er ist’s!!«
 
-Wir waren so vom Jagdfieber gepackt, »daß wir einfach,
-die Straße überquerten, am Zaune der Villa Blox erlangt
-rannten und über den Bauzaun kletterten, über den die
+Wir waren so vom Jagdfieber gepackt, daß wir einfach
+die Straße überquerten, am Zaune der Villa Blox entlangrannten
+und über den Bauzaun kletterten, über den die
 innen stehende Baubude hinwegragte. Die Holztür der Bude
-war nur eingeklinkt, vor den beiden Fenstern lagen dick
+war nur eingeklinkt, vor den beiden Fenstern lagen dicke
 Holzladen, und kein Lichtlein drang heraus.
 
 Zuerst kam ein kleiner Vorraum, dann eine zweite
-Für, die auch unverschlossen war. In diesem Stübchen
+Tür, die auch unverschlossen war. In diesem Stübchen
 brannte auf einem großen Holztisch eine Petroleumlampe.
 Der Mulatte lag gefesselt und geknebelt auf seinem eisernen
-Bett, Über seinen Kopf war lose ein Mantel geworfen.
+Bett. Über seinen Kopf war lose ein Mantel geworfen.
 Harst riß ihn weg, und der graubärtige alte Farbige stierte
-uns mit flackernden Augen zu. -/-
+uns mit flackernden Augen an.
 
 <@pagebreak/>
 Harst deckte den Mantel wieder über sein Gesicht und
 deutete auf ein paar Zementsäcke in der Ecke, hinter denen
-wir gerade neun Platz hatten.
+wir gerade noch Platz hatten.
 
 Atemlos harrten wir der Dinge, die nun kommen
 würden. Es dauerte auch keine vier Minuten, als die
@@ -988,7 +995,7 @@ Harald flüsterte: »Herunter mit den Staniolblättern!«
 
 Ich zog meinen Schutzschirm vor die Augen, aber infolge
 der schmalen Sehschlitze wurde ich stark behindert und mußte
-das Agrarier erst zurechtflicken, ehe ich wenigstens etwas
+das Staniol erst zurechtflicken, ehe ich wenigstens etwas
 sehen konnte. Die Innentür ging auf und ein
 Mann trat ein, der etwa wie ein Fischer von der Bai
 ausschaute. Er hatte eine dicke rote Nase, dazu einen wirren
@@ -996,23 +1003,23 @@ fuchsige Bart, trug einen schäbigen Ledermantel und eine
 Ledermütze mit Ohrenschützern.
 
 Ob es Karsten war, konnte man mit Bestimmtheit nicht
-sagen. Nur eins sprach dafür: Der Kerl trug vor dort
+sagen. Nur eins sprach dafür: Der Kerl trug vor der
 Brust eine schwarze Kastenkamera, einen Momentapparat,
-—» wenigstens war es das Gehäuse einer harmlosen Kamera
+— wenigstens war es das Gehäuse einer harmlosen Kamera
 für Plattengröße neun mal zwölf.
 
 Der Mann ging zum Tisch, warf einen prüfenden Blick
 auf den Mulatten und zog einen Schemel herbei und setzte
 sich. Vor ihm auf dem Tische stand das Telephon. Er
 nahm den Hörer und wartete, nannte dann die Nummer
-eines Fernspreczamtes und eines Teilnehmers, wartete wieder
+eines Fernsprechamtes und eines Teilnehmers, wartete wieder
 und rief darauf unwillig:
 
-»Dasein verbunden!« und legte den Hörer weg.
+»Falsch verbunden!« und legte den Hörer weg.
 
-Seine Stimme klang mir völlig fremd, und auch sei
+Seine Stimme klang mir völlig fremd, und auch sein
 Gesicht, vom Lampenschein getroffen, erschien mir genau so
-fremd. Ich hätte wetten mögen, es war nicht Karsten Warger.
+fremd. Ich hätte wetten mögen, es war nicht Karsten-Warger.
 
 Er stand auf und begann dem Mulatten die Stricke
 abzunehmen, entfernte den Mantel und den Knebel und
@@ -1025,25 +1032,25 @@ Hier sind die hundert Dollar.«
 Er warf eine Banknote auf den Tisch und fügte hinzu:
 
 »Vielleicht brauchen wir dich nochmals. Hundert Dollar
-Mund viel Geld, Ich werde dich nicht einschließen. Fuß
-Wiedersehen.« …
+sind viel Geld. Ich werde dich nicht einschließen. Auf
+Wiedersehen.«
 
-Der alle Stelzfuß auf dem Bett rührte sie nicht,
-meinte nur!
+Der alte Stelzfuß auf dem Bett rührte sich nicht,
+meinte nur:
 
-»Mister, ich danke sich …
+»Mister, ich danke euch …« —
 
-Ich schwitzte Angst, daß er « womöglich so unbegabt sein
-und verraten könnte, es seien soeben zwei Weiber hier im
+Ich schwitzte Angst, daß er womöglich so unbegabt sein
+und verraten könnte, es seien soeben zwei Weiber hier in
 der Bauhütte gewesen. Aber er schwieg, und der andere
-entfernte sich, drückte die Innentür zu, ebenso die Außen
-für — und. dann war alles Stall;
+entfernte sich, drückte die Innentür zu, ebenso die Außentür
+— und dann war alles still.
 
 Der Mulatte richtete sich auf, rieb seine Handgelenke,
-erhob sich und steckte den -Geldschein in die Tasche.
+erhob sich und steckte den Geldschein in die Tasche.
 
-Harst trat vor, Der Mulatte schrak zurück, grinste dann
-und flüsterte: !,
+Harst trat vor. Der Mulatte schrak zurück, grinste dann
+und flüsterte:
 
 »Polizei?«
 
@@ -1051,40 +1058,40 @@ Harald raunte mir zu: »Bleibe hier … Ich will
 dem andern nach,«
 
 Gut gesagt: Der Kerl hatte doch ganz leise die Außentür
-verschlossen und. den Schlüssel tiefen lassen,
+verschlossen und den Schlüssel stecken lassen,
 
 Harst kam zurück. »Ich würde ihn doch nicht mehr
 erwischen … Es würde zu lange dauern, die Tür aufzusprengen
 oder ein Fenster und den Laden zu öffnen.«
 
-»Wer sind Sie?« fragte der Wächter höflich., »Werden
+»Wer sind Sie?« fragte der Wächter höflich. »Werden
 Sie mir das Geld wieder abnehmen?«
 
-»Nein, keine Sorge … Hier sind noch fünfzig Dollar,
+»Nein, keine Sorge … Hier sind noch fünfzig Dollar.
 Erzählen Sie, was hier geschah.«
 
 Im Grunde war diese Frage Haralds überflüssig. Die
-Schilderung des Wächters brachte denn aus kaum etwas,
+Schilderung des Wächters brachte denn auch kaum etwas,
 daß man sich nicht von selbst hätte zusammenreimen können.
 Gegen acht Uhr hatte es gegen die Tür geklopft und der
 <@pagebreak/>
-Mulatte hatte arglos geöffnet. Vor ihm stand der Roten
-hakennasige im Ledermantel und hielt ihm eine Pistole vor!
-die Stirn, fesselte ihn und schob ihn unter das Bett. Der
+Mulatte hatte arglos geöffnet. Vor ihm stand der Rotnasige
+im Ledermantel und hielt ihm eine Pistole vor
+die Stirn, fesselte ihn und schob ihn *unter* das Bett. Der
 Wächter hörte, wie der Fremde hin und her ging und aus
-Riemen Koffer, den er bei sich gehabt, allerlei Instrumente
-zusagte, wiederholt auch die Baubude verließ und dann in
-einer Sprache, die der Mulatte nicht verstand, telephonierte,
-Nach längerer Zeit talephonierte der Fremde abermals, und
+einem Koffer, den er bei sich gehabt, allerlei Instrumente
+auspackte, wiederholt auch die Baubude verließ und dann in
+einer Sprache, die der Mulatte nicht verstand, telephonierte.
+Nach längerer Zeit telephonierte der Fremde abermals, und
 jetzt benutzte er die englische Sprache. Es waren die Sätze,
 die uns in der Villa Blox bewiesen hatten, daß Karsten
 über alles genau unterrichtet war.
 
 Mehr konnte der Stelzfuß nicht angeben.
 
-Was mir bei dieser Schilderung »sofort Kaffees, war
+Was mir bei dieser Schilderung sofort auffiel, war
 das gänzliche Fehlen des Erscheinens der Polizeibeamten.
-Aus den Brand des Bootshauses erwähnte der Mulatte
+Auch den Brand des Bootshauses erwähnte der Mulatte
 mit keiner Silbe. Harst fragte denn auch:
 
 »Hörten Sie nicht, daß noch andere Personen geraume
@@ -1092,23 +1099,23 @@ Zeit hier waren?«
 
 »Ich hörte nur, daß der Fremde draußen im Vorraum
 mit jemandem sprach und auch die Schritte mehrerer
-Leute, Offenbar hat der Fremde sich für den Wächter ausgegeben.
-Wie gesagt — sehen konnte ich nichts, und zu.
-bewegen wagte ich; mich nicht.«
+Leute. Offenbar hat der Fremde sich für den Wächter ausgegeben.
+Wie gesagt — sehen konnte ich nichts, und zu
+bewegen wagte ich mich nicht.«
 
 Diese Erklärung war durchaus einleuchtend. Die Detektive
 hatten sicherlich hinter dem Bauzaun gestanden. Was sollten
 sie auch hier drinnen?!
 
 »Wo mag der Koffer des Fremden geblieben sein?«
-forschte Harald weiter …
+forschte Harald weiter.
 
-Der Stelzfuß zuckte die Achseln. »Weiß ich nicht, Mutter.«
+Der Stelzfuß zuckte die Achseln. »Weiß ich nicht, Mister.«
 
-Nun, den Koffer mochte ein Komplice schon vorher weg
-geschafft haben.
+Nun, den Koffer mochte ein Komplice schon vorher weggeschafft
+haben.
 
-Harald war noch nicht befriedigt. »Wann holte he?
+Harald war noch nicht befriedigt. »Wann holte der
 Mann Sie dann unter dem Bett hervor und legte Sie auf
 das Bett?«
 
@@ -1123,49 +1130,50 @@ italienisch und spanisch«
 Harald sagte nun auf deutsch: »Klingt die Sprache,
 die ich jetzt benutze, ähnlich wie sie, in der der Fremda
 zuerst telephonierte?« Und dann wiederholte er dieselbe
-Flagge auf englisch.
+Frage auf englisch.
 
-»Bestimmt!« rief der Alte ganz grünlich. »So klang es,
+»Bestimmt!« rief der Alte ganz glücklich. »So klang es,
 Mister …«
 
-»Waren vielleicht die Namen Karsten, Warger, Goa
+»Waren vielleicht die Namen Karsten, Warger, Crack
 oder Muschuk in dieses deutsche Gespräch eingestreut?«
-— »Bitte — nennen Sie die Namen noch einmal und recht
+
+»Bitte — nennen Sie die Namen noch einmal und recht
 langsam,« meinte der Alte nachdenklich
 
 Harald tat’s,
 
 »Mag sein,« entschied der Wächter da, »daß der Name
-Warger erwähnt wurde. Ich glaube fast, ’der Name wurde
+Warger erwähnt wurde. Ich glaube fast, der Name wurde
 zweimal genannt.«
 
 »Nun noch etwas … — Wie heißen Sie eigentlich?«
 
-»Sam Sollen …«
+»Sam Jöller …«
 
 »Gut, Sam … Also das letzte: Hat schon gestern oder
-vorgestern ein Fremder Sie ner in Ihrer Bude besucht?«
+vorgestern ein Fremder Sie hier in Ihrer Bude besucht?«
 
-»Gestern mittag … Es war ein seiner Herr, der mal
-Zettel telephonieren wollte. Er schenkte mir einen Dollar
+»Gestern mittag … Es war ein feiner Herr, der mal
+schnell telephonieren wollte. Er schenkte mir einen Dollar
 dafür.«
 
 »Hörten Sie, was er in den Apparat sprach?«
 
-»Ja. Und ich wunderte mich daß es etwas so ganz
+»Ja. Und ich wunderte mich, daß es etwas so ganz
 Gleichgültiges war. Er sagte nur, die Sache würde schon
-klappen, man käme leicht nach oben. Das war alles …
+klappen, man käme leicht nach oben. Das war alles …«
 
-Der brave Alte irrte sie. Die Sache war durchaus nicht
-gleichgültig, denn … oder seine Herr« hatte eben lediglich) das
-Telephon prüfen und die Verbindung nach dem Das der
+Der brave Alte irrte sich. Die Sache war durchaus nicht
+gleichgültig, denn »der feine Herr« hatte eben lediglich das
+Telephon prüfen und die Verbindung nach dem Dach der
 Villa Blox sich ansehen wollen.
 
 »Wie sah denn der Herr aus?«
 
 <@pagebreak/>
-»Oh — er hatte einen braunen Sportpelz mit Ostlerkragen,
-einen hellen Rauhhaarhut und einen!chwarzen
+»Oh — er hatte einen braunen Sportpelz mit Otterkragen,
+einen hellen Rauhhaarhut und einen schwarzen
 Spitzbart und eine Brille aus Horn. Außerdem … — ja …
 außerdem eine ganz tiefe Baßstimme …«
 
@@ -1174,49 +1182,49 @@ Dies war zweifellos Karsten gewesen.
 Harst gab dem Alten noch zehn Dollar.
 
 »Sam, Sie werden keiner Seele erzählen, daß wir
-hier bei Ihnen waren, überhaupt nichts von alledem aus.
-plaudern!! Sollte der Mann mit der roten Nase wiederkommen,
+hier bei Ihnen waren, überhaupt nichts von alledem ausplaudern!!
+Sollte der Mann mit der roten Nase wiederkommen,
 so zeigen Sie sich ganz gefügig, damit er Sie
-nicht fesselt. Fersen Sie dann in Ihren Ofen ein großes
+nicht fesselt. Werfen Sie dann in Ihren Ofen ein großes
 Stück Teer oder Stücke Dachpappe, damit der Schornstein
-ordentlich qualmt.« See
+ordentlich qualmt.« 
 
 »Verstehe, Mister … Sie sind doch von der Polizei!«
-Er grinste dazu.! …
+Er grinste dazu.
 
 »Mag sein … — Wiedersehen, Sam … Und: Maul
 halten, alter Freund! Wir zahlen besser als der andere.
 Gelingt es Ihnen, uns rechtzeitig durch das Rauchsignal
 herbeizurufen, so bekommen Sie dreihundert Dollar …«
 
-Auf Umwegen kehrten wir in die Villa Blox zurück…
+Auf Umwegen kehrten wir in die Villa Blox zurück.
 
 <h2>5. Kapitel.</h2>
 
 Doktor Ephraim Blox hatte uns den Schlüssel zu der
-Für mitgegeben, die von der. Terrasse in sein Arbeitszimmer
-führte. Zur Nacht wurde vor diese Tür ein Paten
-Gitter geschoben, … das jetzt jedoch nicht die Tür sicherer,
-weil Blox uns hatte erwarten wollen. Als wir … eintraten.
-saß Blox vor dem Kamin und: hielt ein Gut im Sqos5und
+Tür mitgegeben, die von der Terrasse in sein Arbeitszimmer
+führte. Zur Nacht wurde vor diese Tür ein Patentgitter
+geschoben, das jetzt jedoch nicht die Tür sicherte,
+weil Blox uns hatte erwarten wollen. Als wir eintraten,
+saß Blox vor dem Kamin und hielt ein Buch im Schoße,
 <@pagebreak/>
 war eingeschlafen. Die Standuhr schlug gerade drei.
-Auch Tom war noch auf. Der Neger rate nebenan in
-der Bibliothek ein paar Bücher weg.« Er machte uns
+Auch Tom war noch auf. Der Neger packte nebenan in
+der Bibliothek ein paar Bücher weg. Er machte uns
 nur eine Verbeugung, kam bis zur offenen Schiebetür und
 flüsterte: »Vorhin wurde die Leiche Smiths abgeholt.«
 
 Harald sagte ebenso leise: »Wieviel Leute waren es?«
 
 »Nur zwei. Der Chauffeur und ein Polizeibeamter.
-Sie kamen in einem gewöhnlichen Auto. Sie wollten kein,
-Aussehen erregen.«
+Sie kamen in einem gewöhnlichen Auto. Sie wollten kein
+Aufsehen erregen.«
 
 Harst trat an die Ständerlampe heran und schaltete auch
 die zweite Birne ein, so daß Blox’ Gesicht nun deutlicher
-zu selten war,
+zu sehen war,
 
-Ich ersdxrak. Blox glich einem Sterbenden. Die Gesichtsfarbe
+Ich erschrak. Blox glich einem Sterbenden. Die Gesichtsfarbe
 war aschfahl, und die Stirn mit Schweiß bedeckt.
 
 Auch Tom rief entsetzt: »Wie sieht Mr. Blox aus?!«
@@ -1226,61 +1234,61 @@ Noch lebt er. Aber er ist bereits bewußtlos. — War er mit
 dabei, als die beiden die Leiche aus dem Keller holten?«
 
 Der schwarze Diener zitterte. »Ja … — Wer sollte auch
-ahnen, daß …
+ahnen, daß …«
 
-»Sie ahnen es nun, Tom … Hat »Blox denn irgendwie
+»Sie ahnen es nun, Tom … Hat Blox denn irgendwie
 angedeutet, daß er plötzlich einen Schmerz in den Augen
 spürte?«
 
-»Er sagte nur, daß ihm im »Keller, wo Zugluft herrschte,
+»Er sagte nur, daß ihm im Keller, wo Zugluft herrschte,
 etwas ins Auge geflogen wäre.«
 
-»Hatte der Chauffeur vielleicht einen ’Mantel mit Ne«
-kenne an?!«
+»Hatte der Chauffeur vielleicht einen Mantel mit Pelerine
+an?!«
 
-»Ja, Mr. Harst …
+»Ja, Mr. Harst …«
 
-»Dann verdeckte die ’Pelerine den: — Apparat … —«- Wie
-lange ist’s her, seit das Auto hier weit«
+»Dann verdeckte die Pelerine den Apparat … — Wie
+lange ist’s her, seit das Auto hier war?«
 
-»Vielleicht eine halbe Stunde’… Vielleicht auch
-länger … Ich glaube doch, es war »sehr bald, nachdem
+»Vielleicht eine halbe Stunde … Vielleicht auch
+länger … Ich glaube doch, es war sehr bald, nachdem
 Sie beide weggegangen waren.«
 
 Harald schritt zum Telephon und rief die Polizei an.
 <@pagebreak/>
-Gar erhielt die Auskunft, daß die Polizei niemanden, Hergeschickt
-habe,
+Er erhielt die Auskunft, daß die Polizei niemanden
+Hergeschickt habe,
 
 Wir legten Blox auf den Diwan. Helfen konnten wir
-arm mehr, Der Anwalt war eine halbe Stunde später tot,
+nicht mehr. Der Anwalt war eine halbe Stunde später tot,
 
-»Harald hatte inzwischen das Buch, das in Blox’ Schloß
+Harald hatte inzwischen das Buch, das in Blox’ Schloß
 gelegen hatte, aufgeschlagen, da neben dem Sessel ein Bleistift
 auf dem Teppich von mir aufgehoben worden war. Auf der
 Titelseite stand in zitteriger Schrift folgendes:
 
-— … »5 fühle, daß auf mich das Verhängnis ereilt hat.
-»Es muß der Chauffeur gewesen sein, ein Farbiger mit
-»dünnem Schnurrbart. Er hatte eine Pelerine und …
+»Ich fühle, daß auch mich das Verhängnis ereilt hat.
+Es muß der Chauffeur gewesen sein, ein Farbiger mit
+dünnem Schnurrbart. Er hatte eine Pelerine und …«
 
-— Hinter dem »und« folgte ein langer Strich, der schräg,
-nach unten lief, Also hatte Blox wahrscheinlich nicht mehr
+Hinter dem »und« folgte ein langer Strich, der schräg
+nach unten lief. Also hatte Blox wahrscheinlich nicht mehr
 die Kraft gehabt, den Satz zu vollenden.
 
-— »Tom bestätigte halb weinend, daß der Chauffeur entweder
+Tom bestätigte halb weinend, daß der Chauffeur entweder
 ein Indianer oder ein dunkelhäutiger Mestize gewesen
 sei. Der arme Tom war völlig verstört. Wir schickten ihn
 zu Bett, nachdem wir seinen toten Herrn ins Schlafzimmer
-auf das Bett getragen hatten …
+auf das Bett getragen hatten.
 
 »Rufe mal bei Professor Schrop an,« sagte Harald nach
 einiger Zeit.
 
-tat’s. Es meldete sich der Pförtner.
+Ich tat’s. Es meldete sich der Pförtner.
 
-»Frage, ob bei Schrop ein Polizeibeamter die Brief-
-tauben abgeholt hat,« befahl Harald,
+»Frage, ob bei Schrop ein Polizeibeamter die Brieftauben
+abgeholt hat,« befahl Harald,
 
 Der Pförtner bejahte.
 
@@ -1289,25 +1297,25 @@ der Professor schon zu Bett?«
 
 »Jawohl … Der Beamte ging in sein Schlafzimmer.«
 
-»Satte er« einen Kasten für die Tauben mit?«
+»Hatte er einen Kasten für die Tauben mit?«
 
 »Ja. Er kam wieder in die Vorhalle und sagte mir,
-ich solle ihm die Tauben übergeben. Er steckte sie im den
+ich solle ihm die Tauben übergeben. Er steckte sie in den
 Kasten und verabschiedete sich.«
 
 »Hat Ihr Herr ein Telephon an seinem Bett?«
 
 <@pagebreak/>
-»Gewiß, ich brauche nur umzuschalten.
+»Gewiß, ich brauche nur umzuschalten.«
 
 »Nein, sehen Sie persönlich nach … Falls Mr. Schrop
 sich auf Ihr Klopfen meldet, ist es gut. Wenn nicht, dringen
-Sie ein, Beeilen Sie sich, im warte auf Bescheid.«
+Sie ein. Beeilen Sie sich, im warte auf Bescheid.«
 
 Der Bescheid kam: Nathan Schrop lag ohne Besinnung
 im Bett.
 
-— »Benachrichtigen Sie die Polizei,« befahl Harald. »Und
+»Benachrichtigen Sie die Polizei,« befahl Harald. »Und
 Mr. Jooper, der Inspektor, soll sofort zu uns kommen.«
 
 Harst legte den Hörer weg und schaute mich an. Er
@@ -1315,16 +1323,16 @@ war sehr bleich, aber in seinen Augen war ein unheilvolles
 Leuchten.
 
 »Entweder er — oder wir, mein Alter,« sagte er gepreßt,
-»Hier geht’s um mehr als unser Leben — um unseren, Ruft!«
+»Hier geht’s um mehr als unser Leben — um unseren, Ruf!!«
 
 Er warf sich in den Sessel. »Es ist ausgeschlossen, daß
-Karsten sein Verklingendes Geheimnis seinen Helfershelfern
+Karsten sein totbringendes Geheimnis seinen Helfershelfern
 mitgeteilt hat. Er allein hat Smith, Blox und Schrop auf
-den! Gewissen. Wenn ich daran denke, daß der Schurke im
-Laufe einer Nacht drei Personen tötete, — — mich Tat
+dem Gewissen. Wenn ich daran denke, daß der Schurke im
+Laufe einer Nacht drei Personen tötete, — — mich packt
 da eine unbändige Wut. Aber damit ist nichts geholfen.
 Der Mensch muß schleunigst zur Strecke gebracht werden. —
-Störe. mich« jetzt nicht … Und hielt zu, ob du uns Kaffee
+Störe mich jetzt nicht … Und sieh’ zu, ob du uns Kaffee
 besorgen kannst. Meide aber die Fenster.«
 
 In der Vorhalle begegnete ich Tom, der soeben dem
@@ -1333,17 +1341,17 @@ die Küche … Als ich in das Arbeitszimmer zurückkehrte, war
 es leer. Auf dem Sessel lagen Haralds Weiberkleider.
 Die Tür zur Terrasse war nur eingeklinkt.
 
-Was mochte ihm veranlaßt haben, ohne Mantel und
-Kopfbedeckung davonzueilen?! — Im Ausheben qualmte
-noch der Rest seiner Zigarette. Daneben auf dem Raubtiers
+Was mochte ihn veranlaßt haben, ohne Mantel und
+Kopfbedeckung davonzueilen?! — Im Aschbecher qualmte
+noch der Rest seiner Zigarette. Daneben auf dem Rauchtisch
 lag aufgeschlagen das bewußte Buch. Unter den Zeilen
-Blox’ stand« in Haralds Schrift;
+Blox’ stand in Haralds Schrift:
 
-»79 bringe ihn!«
+<p class="centered">»Ich bringe ihn!«</p>
 
-<@pagebreak/>
+<@pagebreak 35/>
 
-Der Tierpark Jellerjoes
+<h1>Der Tierpark Jellerjoes.</h1>
 
 <h2>1. Kapitel.</h2>
 
@@ -1879,7 +1887,7 @@ für »erledigt« hielte, war seine- Soweit gewesen: …
 »Dem Löwen fehlen jetzt die Zähne. Sein Mordapparat
 liegt um Safe der Polizei, und so rasch läßt sie kein
 zweiter konstruieren. Außerdem hat Karsten ja auch erklärt,
-ihm genüge ein solcher Gtrahlentod für uns beide nicht.
+ihm genüge ein solcher Strahlentod für uns beide nicht.
 Er hat also Besonderes vor. Und dies Besondere wird ihm
 das Genick brechen, denn — — ich kenne es!!«
 
@@ -2201,7 +2209,7 @@ rang
 Wir hatten uns überlisten lassen, — — jetzt hatten
 nicht wir Karsten, sondern er uns,
 
-» … So blaß, Herr Schraut…1 1 Amt denke, damals
+»… So blaß, Herr Schraut…! 1 Amt denke, damals
 auf Schabernack waren Sie durchaus nicht auf den Mund
 <@pagebreak/>
 gefallen, und auf der Tanana-Farm auch nicht Und
