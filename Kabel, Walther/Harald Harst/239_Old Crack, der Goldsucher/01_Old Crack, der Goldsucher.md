@@ -21,7 +21,7 @@ Gefecht gesetzt hat und mich in mein Zimmer bannt, will
 ich unter Hinweis auf einen Brief des Herrn Oberpostsekretärs
 A. G. aus C. gleich mitten in die rätselhafte
 Vorgeschichte hineinspringen. Herr A. G. schrieb uns, daß
-jener Verbrecher Karsten, dem wir unsere Insel Schluderrock
+jener Verbrecher Karsten, dem wir unsere Insel Schluderrock<@refnote 1/>
 <@pagebreak/>
 verdanken und der auch unser Heim in Brand steckte
 und ausplünderte, die geraubten Kostbarkeiten, zumeist Andenken
@@ -58,7 +58,7 @@ der zugleich die Zentralheizung besorgte, der Chauffeur,
 der Diener, die Köchin — alles waren altgediente, bewährte
 Leute, die seit Jahren im Dienste der alten Exzellenz gestanden
 hatten, deren Erben nun das Haus vorläufig an Fremde
-abgeben wollten. Exzellenz um war früher Minister
+abgeben wollten. Exzellenz v. M. war früher Minister
 eines Kleinstaates gewesen und hatte sich nachher völlig
 geschichtlichen Studien gewidmet. Die Bibliothek war ein
 langer dreifenstriger Raum mit einem künstlichen Kamin,
@@ -66,7 +66,7 @@ langer dreifenstriger Raum mit einem künstlichen Kamin,
 sechs Riesenschränken, Waffen, Geweihen, echten Teppichen
 und behaglichen Ledermöbeln. Sie erinnerte ein wenig an
 englischen Geschmack, besser an schottischen, und auf dem
-Schlosse unseres Freunde Lord Warbour hatten wir in
+Schlosse unseres Freundes Lord Warbour hatten wir in
 einer sehr ähnlichen Bibliothek so manche anregende Stunde
 verlebt.
 
@@ -247,7 +247,7 @@ Barkam Dummheiten macht. Ich hole den Zeugen.«
 
 <h2>2. Kapitel.</h2>
 
-<h3>Ich war mit der Blonden allein.</h3>
+Ich war mit der Blonden allein.
 
 Sie musterte mich mit unaussprechlicher Geringschätzung
 und sagte nach einer Weile:
@@ -327,7 +327,7 @@ Harst wandte sich an George.
 »Mr. Steffenson, Sie haben die Geschichte hier sehr
 fein eingefädelt. Sie hatten in Erfahrung gebracht, daß der
 Portier drüben einen Bruder hat, und die fünfhundert
-Dollar und Ihr mangelhaftes Deutsch begünstigten Ihrem
+Dollar und Ihr mangelhaftes Deutsch begünstigten Ihren
 Plan. Trotzdem schöpfte ich gegen Sie Verdacht, weil Sie
 allzu hinterlistige Katzenaugen haben und mir nach Möglichkeit
 auswichen. Deshalb beobachtete ich die Portierloge.
@@ -429,7 +429,7 @@ beiden Schüsse aus einer modernen Luftbüchse von dem
 untersten Ast einer Kiefer abgegeben und mußte ein vorzüglicher
 Schütze sein.
 
-Wir machen der Polizei gegenüber ganz erschöpfende
+Wir machten der Polizei gegenüber ganz erschöpfende
 Angaben und betonten, daß wir nicht wüßten, wer es
 zurzeit auf uns abgesehen haben könnte. Dies entsprach
 durchaus der Wahrheit.
@@ -573,7 +573,7 @@ in die Parkstraße einbogen, erklärte er von selbst:
 
 »Ich bin Tom Warger.«
 
-Er sagte das ungefähr so, als ob Amanullah<@refnote 1/> vorgestellt
+Er sagte das ungefähr so, als ob Amanullah<@refnote/> vorgestellt
 hätte: »Ich bin der König von Afghanistan.«
 
 Harald blickte ihn von der Seite an.
@@ -785,7 +785,7 @@ noch zwei Stunden. Immer wieder wurde in Hamburg
 angefragt. Dann bat Harst, doch einmal in Bremen nachzufragen.
 — Ja, dort war die Maschine gelandet.
 
-Nun begann der Fernsprecher von intensiver zu arbeiten.
+Nun begann der Fernsprecher noch intensiver zu arbeiten.
 Die Bremer Polizei wurde verständigt.
 
 Ich möchte gleich bemerken: Nach zwei Tagen war noch
@@ -868,7 +868,7 @@ Jahre für 7&nbsp;200&nbsp;000 Dollar Alaska von Rußland
 erwarben und gleichzeitig die Grenze nach Kanada hin
 reguliert wurde, ahnten die Russen nicht, daß dreißig
 Jahre später aus dieser Eis-, Wald- und Felswildnis für
-rund. 100 Millionen Dollar allein Waschgold exportiert
+rund 100 Millionen Dollar allein Waschgold exportiert
 werden würde, ganz abgesehen von den anderen Reichtümern
 an Erzen wie Kupfer, Silber, Zinn, ferner Steinkohlen,
 Holz und — — die Lachse nicht zu vergessen! Der Lachsfang
@@ -911,11 +911,11 @@ Umstände. Wir beide reisten als deutsche Ingenieure unter
 den Namen Hort und Schrimm. In Sitka, wo tote Saison
 war, trennten sich unsere Wege überhaupt. Wir hatten
 verabredet, uns in Nuklukahjet an der Einmündung des
-Tanana in der Yukon wieder zu treffen. Tom hatte nämlich
+Tanana in den Yukon wieder zu treffen. Tom hatte nämlich
 in Sitka ein Bündel Briefe seines empörten Vaters
 vorgefunden, der diese Europareise seines einzigen Erben
 aufs schärfste mißbilligte und seinem Sprößling allerlei
-Auftrage erteilte, die ihn zwangen, eine andere Reiseroute
+Aufträge erteilte, die ihn zwangen, eine andere Reiseroute
 zu wählen.
 
 Wäre ich Reiseschriftsteller, so könnte ich hier dem
@@ -960,7 +960,7 @@ los — suchen wir die Torfhütte.
 
 Von Nuklukahjet zieht sich genau nach Osten eine
 endlose Niederung hin, im Sommer ein Paradies der Vögel
-und eine Fundstelle tadellosen Torfes. Jetzt war aller
+und eine Fundstelle tadellosen Torfes. Jetzt war alles
 Schnee, Schnee, kahle Büsche, kahle Bäume, dunkle, verschneite
 Kiefern. Wir fanden die Hütte, und nach einer
 Stunde hatten wir’s warm und behaglich und lagen in
@@ -987,7 +987,7 @@ sprachen einige Herren über ihn. Der eine meinte, in der
 Nähe von Cracks Farm sollen sich reiche Kupferlager befinden.
 Wie du weißt, Rulat: Wir sind Ingenieure. Was
 du bisher nicht weißt: Wir wollen zu Crack und ihm die
-Mine ablaufen. Das haben wir natürlich in Nuklukahjet
+Mine abkaufen. Das haben wir natürlich in Nuklukahjet
 verschwiegen, zumal noch jemand dasselbe Geschäft im Auge
 hatte.«
 

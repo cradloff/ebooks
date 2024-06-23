@@ -14,7 +14,7 @@ wäre. Ein Luchs hatte hier sein Quartier, und die Knochen
 und Schädel in der Höhle, nicht minder der Gestank zeigten
 an, daß der Hausherr zurzeit nur unterwegs und sehr
 bald zurückkehren könne. Eine Luchsfährte ist nun so charakteristisch,
-daß wir sofort gewußt hatten, wen wir hier aus quartierten.
+daß wir sofort gewußt hatten, wen wir hier ausquartierten.
 
 Während Harald eine Balsamtanne mit dem Beil fällte,
 und die Äste als Brennholz abschlug, schirrte ich die
@@ -29,7 +29,7 @@ würde sofort umkehren, wenn er seine Höhle besetzt fand.
 
 Es war eine unglaublich kalte Nacht. Wir befanden
 uns hier sicherlich schon in tausend Meter Höhe, und ich
-schätzte das kühle Lüftchen auf etwa zwanzig Grad Reaumur<@refnote 2/>.
+schätzte das kühle Lüftchen auf etwa zwanzig Grad Reaumur<@refnote 3/>.
 
 Wir hatten dann gerade die Hunde gefüttert und uns
 unsere Zigarren angesteckt und warteten auf den Tee, als
@@ -65,7 +65,7 @@ Der Mann machte einen vorzüglichen Eindruck, war
 absolut nicht neugierig, beschabte seine Felle und rauchte
 mit Behagen zwei Zigarren.
 
-Harald erklärte ihm dann, wer wir seien Ingenieure,
+Harald erklärte ihm dann, wer wir seien: Ingenieure,
 die zu Old Crack wollten, einer Kupfermine wegen.
 
 Da legte der Mischling sein Messer weg und sagte
@@ -166,10 +166,10 @@ Geländeskizze, die zweifellos ein Lageplan der Farm Old
 Cracks war. Es gab da blaue, rote und weiße Linien und
 punktierte Striche, die scheinbar wirr durcheinander liefen.
 Die Tanana-Berge, die sich vom Yukon bis hinab zur
-kanadischen Grenze ziehen, waren in der Üblichen Art
+kanadischen Grenze ziehen, waren in der üblichen Art
 <@pagebreak/>
 gestrichelt angedeutet, das Plateau war rot umgrenzt, die
-Gebäude der Farm durch weiße Stricke angedeutet und
+Gebäude der Farm durch weiße Striche angedeutet und
 das Übrige unverständlich.
 
 Ich war durch Mac Dormits Besuch sehr munter geworden
@@ -247,7 +247,7 @@ und in der Hand ein Messer hielt. Ich erschrak. Es war
 ein Fremder mit blondem Vollbart und einer dicken, blauroten
 Nase. Harst lag mehr im Schatten. Ich sah nur
 <@pagebreak/>
-seinen Pelzsack. Über seinem Kopf war eine Decke geworfen.
+seinen Pelzsack. Über seinen Kopf war eine Decke geworfen.
 
 Der Mann hatte uns nicht gehört. Ich sprang zu,
 bekam ihm am Halse zu packen und warf ihn vornüber und
@@ -276,7 +276,7 @@ sich inzwischen maskiert hatte.
 <h2>2. Kapitel.</h2>
 
 Haralds Hals war dick geschwollen. Als ich den Freund
-endlich wieder ins Leben zurückgerufen halte, krächzte er
+endlich wieder ins Leben zurückgerufen hatte, krächzte er
 nur: »Idiot!«
 
 Buruwat wedelte mit der langen Rute und blickte
@@ -342,7 +342,7 @@ in der das Wasser noch meterweit stand und die einen
 ganz niederen Eingang hatte. Während ich meinen Schlitten
 innen absetzte und die Karbidlaterne anzündete, war Harald
 mit den Hunden noch draußen geblieben. Ich holte die
-Hunde Herein und auch Harsts Schlitten. Harald selbst
+Hunde herein und auch Harsts Schlitten. Harald selbst
 erklärte mir, er wolle noch ein Stück bachaufwärts gehen.
 Der Wasserfall, der durch einen ganz engen, kurzen Kanon
 abwärts stürzte, hatte hier den Bach zu einem weiten See
@@ -502,7 +502,7 @@ auch der endlose Prozeß zwischen beiden und die Todfeindschaft
 
 »Weshalb — — hm ja?!«
 
-»Das hängt mit unsrigen phantastischen Vermutung zusammen,
+»Das hängt mit meiner phantastischen Vermutung zusammen,
 mein Alter. — Ich werde jetzt schlafen. Nach vier
 Stunden weckst du mich. Dann wache ich. Sobald sich
 etwas regt, schieße … Gute Nacht.«
@@ -590,7 +590,7 @@ dabei sein, so genügt eine Kugel in die Schulter. Das besorge
 ich.«
 
 Das Boot näherte sich behutsam. Mein Strohmann lag
-in seichten Wasser. Nur ein Teil der Pelzmütze ragte noch
+in seichtem Wasser. Nur ein Teil der Pelzmütze ragte noch
 heraus.
 
 Noch zehn Schritt. Jetzt saß das Boot fest. Das Wasser
@@ -736,7 +736,7 @@ Aber der Norweger schüttelte den Kopf. »Doch hier
 nicht, Mr. Harst. Wir müssen zur Station. Ich sollte Crack
 melden, wenn hier alles im klaren sei. Diese Meldung soll
 schleunigst erfolgen, denn zwischen der Station und der
-Farm gibt es noch drei Anschlüssen, und Crack würde Verdacht
+Farm gibt es noch drei Anschlüsse, und Crack würde Verdacht
 schöpfen, wenn die Meldung zu lange auf sich warten
 ließe. Auf meiner Station sind wir sicher. Den Frauen
 verschweigen wir, was hier geschehen, und Sie beide spielen
@@ -747,7 +747,7 @@ und ich werde Ihnen beweisen, daß ich …«
 »Ich vertraue Ihnen, Ohlsen. — Brechen wir auf.« —
 
 Als wir das flache Tal hinter uns hatten, kamen
-wir an der erste weite Krümmung des Warmen Flusses.
+wir an die erste weite Krümmung des Warmen Flusses.
 Auf einer Hochebene standen hier sieben Blockhäuser.
 
 Ohlsen hatte uns zum Schein die Hände gefesselt. Er
@@ -1147,7 +1147,7 @@ aufgesetzt war. Dieses Testament des echten Old
 Crack, das bereits 1920 niedergeschrieben war, hatte der
 alte Sonderling ausgerechnet seinem Todfeind Samuel
 Warger zum Erben bestimmt und Ellen nur ein Legat von
-einer halber Million Dollar vermacht.
+einer halben Million Dollar vermacht.
 
 Diese zweifellos echte und rechtsgültige Urkunde soll
 die Überleitung zur zweiten Old Crack-Geschichte bilden, zu
