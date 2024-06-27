@@ -1360,227 +1360,228 @@ bemerken, hatten wir flüchtig bei Ephraim Blox kennengelernt.
 Von einem fünfzigfachen Millionär macht man
 drüben nicht viel Aufhebens, und Jellerjoe selbst sorgte
 dafür, daß man sich wenig um ihn kümmerte. Er besaß weit
-nördlich von Frisko im CullingsTal eine Plantage, leicht
-aber auch im benachbarten Reeder-Kanon einen Tierpark,
+nördlich von Frisko im Culling-Tal eine Plantage, besaß
+aber auch im benachbarten Reevor-Kanon einen Tierpark,
 der sein Steckenpferd war.
 
-Jellerjoe hatte seine Millionen während des Wort«
+Jellerjoe hatte seine Millionen während des Welt-
 Krieges »gemacht«. Blox war sein Notar und Berater, und
-nach 3zweistündiger Bekanntschaft hatte Jellerjoe uns beide
+nach zweistündiger Bekanntschaft hatte Jellerjoe uns beide
 dringend eingeladen, seinen Naturpark einmal zu besichtigen,
-den er im übrigen ungern Fremden zeigte. Er war cz
-Sonderling, und Blox hatte zugegeben, daß über Seelenlos
-mancherlei dumme Gerüchte ausrichten.
+den er im übrigen ungern Fremden zeigte. Er war ein
+Sonderling, und Blox hatte zugegeben, daß über Jellerjoe
+mancherlei dumme Gerüchte umliefen.
 
-Dies echte ich wie gesagt voraus. —
+Dies schicke ich wie gesagt voraus. —
 
-Ich war außerordentlich, beunruhigt durch Haralds liHsinnige
+Ich war außerordentlich beunruhigt durch Haralds leichtsinnige
 Extratour, deren Ziel nur in allernächster Nähe
-liegen konnte. Sollte er es vorhin? auf das. Fremden
+liegen konnte. Sollte er es doch auf das Fremdenheim
 abgesehen haben?! Meine Erwägungen, ob ich ihn suchen
-solle, führten zu dem einzig vernünftigen Entschluß, die«-
-von Abstand zu nehmen, denn ein Harst schreibt nicht anno
-Grund kurz und bündig: »Ich bringe ihm!« Er brauchte und
+solle, führten zu dem einzig vernünftigen Entschluß, hier-
+von Abstand zu nehmen, denn ein Harst schreibt nicht ohne
+Grund kurz und bündig: »Ich bringe ihn!« Er brauchte mich
 <@pagebreak/>
 also nicht. Während meiner Abwesenheit hier aus dem
 Zimmer, die höchstens vier Minuten gedauert hatte, mußte
 ihm irgend etwas Besonderes eingefallen sein.
 
 Mir fiel nichts ein, und als Tom den Kaffee und
-kalten Ausschnitt brachte, trank und aß ich und unterhielt
-grimmig mit dem intelligenten Schwarzen. Wir kamen auf
+kalten Aufschnitt brachte, trank und aß ich und unterhielt
+mich mit dem intelligenten Schwarzen. Wir kamen auf
 den Wächter des Neubaus zu sprechen, und Tom erklärte,
 der Mulatte sei erst wenige Tage als Wächter angestellt, der
 bisherige sei erkrankt. — Dies machte mich stutzig. Hatte
 etwa der einbeinige Mulatte Sam uns beide getäuscht?!
 Gehörte er mit zu Karstens Helfershelfern?! Waren nicht
-Kannst spärliche Angaben über den Aufenthalt der Detektive
+Sams spärliche Angaben über den Aufenthalt der Detektive
 auf dem Neubau nunmehr äußerst verdächtig?!
 
 Wir hörten zwei Autos vorfahren, und Tom ging
 öffnen. Es war Jooper mit einer ganzen Heeresmacht von
-Beamten …
+Beamten.
 
 Der massige, kraftstrotzende Inspektor, der in den hiesigen
 Verbrecherkreisen nur »der Bär« genannt wurde (seine Faust
-sollte selbst einen Niggerschädel lassen), war wie ein gereizter
-Stier. Die Morde dieser Harst hatten seine Nerven zum
-Treiben gespannt.
+sollte selbst einen Niggerschädel knicken), war wie ein gereizter
+Stier. Die Morde dieser Nacht hatten seine Nerven zum
+Reißen gespannt.
 
 »Wo ist Harst?«
 
 Ich erzählte.
 
-Jooper rannte hinaus, ans ein Wort Zu sagen, und
-im hinterdrein. Auf der Straße stand ein großes Polizeiauto
+Jooper rannte hinaus, ohne ein Wort Zu sagen, und
+ich hinterdrein. Auf der Straße stand ein großes Polizeiauto
 mit Scheinwerfer, der dauernd kreiste und die Umgebung
 beleuchtete. Überall waren Detektive postiert. Jooper lief
 auf den Neubau zu. Die Pforte des Bauzaunes öffnete
 sich plötzlich und heraus trat Harald, der den an den Armen
-gefesselten »Sam vor sie her schob.
+gefesselten Sam vor sich her schob.
 
 Der Scheinwerfer kreiste nicht mehr, sondern umspielte
-uns mit grellen Strahlen. Sam hatte weder Bart noch,
+uns mit grellen Strahlen. Sam hatte weder Bart noch
 Stelzfuß mehr, und das fraglos soeben kräftig gewaschene
-Gesicht zeigte Karstens freche, kühne, kluge Züge.«
+Gesicht zeigte Karstens freche, kühne, kluge Züge.
 
 <@pagebreak/>
-»Ja ist er,« sagte Harald zu uns.
+»Da ist er,« sagte Harald zu uns.
 
-Karsten wurde in Blox’ Arbeitszimmer gebracht. Sprach
+Karsten wurde in Blox’ Arbeitszimmer gebracht. Harald
 eilte nochmals in die Bauhütte und brachte einen Kasten
-mit, den er völlig mit Staniolpapier uwmiihnllt und verschnürt
+mit, den er völlig mit Staniolpapier umhüllt und verschnürt
 hatte,
 
 »Das Todesinstrument …« — und er stellte es auf den
-Romantisch.
+Rauchtisch.
 
 Karsten hatte ein infames Lächeln um den grausamen
 Mund. Jooper pflanzte sich vor ihm auf und brüllte ihn an:
 
-«»»EdQSuft, in vierzehn Tagen hängen Sie!«
+»Schuft, in vierzehn Tagen hängen Sie!«
 
 »Das glaube ich nicht, Inspektor,« grinste Karsten, schlug
 dann aber einen anderen Ton an. »Entschuldigen Sie,
-Inspektor, wir wollen als Gentlemen miteinander verdeckten.
+Inspektor, wir wollen als Gentlemen miteinander verkehren.
 Ich kann Mr. Harst meine Achtung nicht versagen. Ich
 glaubte, ihn völlig getäuscht zu haben, und hatte mich
 schlafen gelegt. Als er mich soeben herausklopfte, nützte mir
-der Apparat nichts, denn Harst hielt sich Einmal vor die
-Augen, hastig mir den Apparat aus der Hand und gab mir
-&inen Tritt vor den Leib. Damit war die Sache entschieden
+der Apparat nichts, denn Harst hielt sich Staniol vor die
+Augen, schlug mir den Apparat aus der Hand und gab mir
+einen Tritt vor den Leib. Damit war die Sache entschieden
 — vorläufig. Nicht endgültig. Denn ich — bin gar
 nicht Karsten alias Samuel Warger alias Muschuk und
 so weiter.«
 
-Jooper starrte ihm lange an.
+Jooper starrte ihn lange an.
 
 »So — und wer sind Sie denn?!«
 
 »Ein armer Geistesgestörter …«
 
-Jooper lachte hart. »Ad; so, nun wollen Sie den
+Jooper lachte hart. »Ach so, nun wollen Sie den
 wilden Mann spielen, wird Ihnen nichts helfen.«
 
 »Es ist Karsten,« sagte Harald ruhig und schenkte sich
-Kaffee ein. »Oh er geistig normal ist, haben die Herr
-zu entscheiden. Vielleicht ist er wirklich krank. — Sie neben
+Kaffee ein. »Ob er geistig normal ist, haben die Ärzte
+zu entscheiden. Vielleicht ist er wirklich krank. — Sie geben
 zu, diese drei Morde — allein verübt zu haben?«
 
-»Gewiß. Ich werde da keinen Fremden so weit einweihen.«
--
+»Gewiß. Ich werde doch keinen Fremden so weit einweihen.«
 
 <@pagebreak/>
 »Und Sie hätten Schraut und mich ebenfalls ausgelöscht?«
 
 »Ja. Aber nicht durch die Strahlen. Das wäre ein
-zu leichtes Ende gewesen. Ich habe meine Vorbereitungen,
-anderswie getroffen, und Sie beide entgegen mir nicht.«
+zu leichtes Ende gewesen. Ich habe meine Vorbereitungen
+anderswie getroffen, und Sie beide entgehen mir nicht.«
 
-Jooper murmelte; »Er ist verrückt. Das ist Größenswahn.«
-…
+Jooper murmelte: »Er ist verrückt. Das ist Größenwahn.«
 
-» Vielleicht, Inspektor,« lächelte Karsten höflich. »Ich
-fürchte wie gesagt selbst, daß im; krank bin. Mein Haß
+»Vielleicht, Inspektor,« lächelte Karsten höflich. »Ich
+fürchte wie gesagt selbst, daß ich krank bin. Mein Haß
 gegen Harst und Schraut ist unbedingt anormal.«
 
 Jooper rief vier Detektive herbei.
 
 »Nehmen Sie mein Auto und bringen Sie den Mann
-im. die Zelle. Nummer eins. Zwei von euch bleiben bei
+in die Zelle Nummer eins. Zwei von euch bleiben bei
+ihm."
+
 Karsten trug jetzt dünne Stahlfesseln mit Verbindungsketten.
 Menschlichen Berechnung nach war jede Flucht ausgeschlossen.
 Er verneigte sich und meinte:
 
-»Auf Wiedersehen!««-
-— Donner setzte sie zu ufi8 und trank gleichfalls Kaffee.
+»Auf Wiedersehen!«
+
+Jooper setzte sich zu uns und trank gleichfalls Kaffee.
 »Ich werde ihn mittags vernehmen. Erst müssen wir uns
-ausschlafen. -Wir fest aus, als ob wir Kater hätten.«
+ausschlafen. Wir sehen aus, als ob wir Kater hätten.«
 
 Wir hörten ein Auto davonfahren und lauschten dem
-rast sich entfernenden Geräusch. Dann folgte etwas wie
-ein dumpfer Knall.« Wir- fuhren hoch und stürzten über
-die Terrasse … auf die Straße, An der Straßenecke war ein
-großer eleganter Jordwagen’ dem kleinen … Auto Joopers
-In die Seite gerast und hatte: es bis in den Vorgarten
-einer Villa. geschleudert. Der … »Scheinwerfer beleuchtete die
-Unfallstelle. Dem Ford war — nicht vier geschehen. Nur die
-Fenster waren« zersplittert und die Laternen platt gedrückt. In
-dem Ford: lag Mr. Jo« As: Ernest Jellerjoe — — total des
+rasch sich entfernenden Geräusch. Dann folgte etwas wie
+ein dumpfer Knall. Wir fuhren hoch und stürzten über
+die Terrasse auf die Straße. An der Straßenecke war ein
+großer eleganter Fordwagen dem kleinen Auto Joopers
+In die Seite gerast und hatte es bis in den Vorgarten
+einer Villa geschleudert. Der Scheinwerfer beleuchtete die
+Unfallstelle. Dem Ford war nicht viel geschehen. Nur die
+Fenster waren zersplittert und die Laternen platt gedrückt. In
+dem Ford lag Mr. Jonas Ernest Jellerjoe — — total be-
 tranken. Auch sein Chauffeur war erheblich wenig nüchtern.
-Joopers Auto hatte nur rote Alteisenwert. Zwei Detektive
+Joopers Auto hatte nur noch Alteisenwert. Zwei Detektive
 <@pagebreak/>
-und der Fahrer waren tot, einer verwundet, der Viereck
+und der Fahrer waren tot, einer verwundet, der vierte
 und Karsten waren entflohen. —
 
-Diese Flucht konnte nur mit Wissen der Detektive des
-wertstelligt worden sein. Sie hatten Karsten offenbar sofort
-Ephraim Auto die Fesseln abgenommen.
+Diese Flucht konnte nur mit Wissen der Detektive be-
+werkstelligt worden sein. Sie hatten Karsten offenbar sofort
+im Auto die Fesseln abgenommen.
 
 Amerikanische Polizeiverhältnisse waren noch bis vor
 Kurzem geradezu haarsträubend. Man besinnt sich, daß im
-Dezember 1928 zum- Beispiel in Neuyork im Polizeihaupt«
+Dezember 1928 zum Beispiel in Neuyork im Polizeihaupt-
 Quartier ein großes Reinemachen vorgenommen wurde. Der
 Chefinspektor und eine Unzahl höhere, mittlere und untere
-Beamte wurden abgehalftert. Dieser eiserne Besen, der Ende
-Muslim diese Bande von Bestechlichkeit Bergen beseitigte, war
-Mr. Grauen Aha. Whalen, der, zum Polizeikommissar von
+Beamte wurden abgehalftert. Dieser eiserne Besen, der endlich
+diese Bande von bestechlichen Schergen beseitigte, war
+Mr. Graver A. Whalen, der, zum Polizeikommissar von
 Neuyork ernannt, mit rücksichtsloser Strenge vorging
 und dabei alle anständigen Elemente auf seiner Seite hatte.
 Hinter dem schlichten Titel »Polizeikommissar von Neuyork«
-verbirgt euch eine Allmacht, die dieser famosen Polizei das
-Gen! Draht. Bände könnte man über diese Cliquen«- und
-Mißwirtschaft schreiben, über dieses Rollfilms aufgezogene
+verbirgt sich eine Allmacht, die dieser famosen Polizei das
+Genick brach. Bände könnte man über diese Cliquen- und
+Mißwirtschaft schreiben, über dieses politisch aufgezogene
 Schmarotzertum, das freilich nicht allein in der Welt dasteht.
-Die deutschen Zeitungen haben dieser Skandalaffäre wenige
-Beachtung geschenkt, obwohl Mr. Gegner Au. Whalen uns sein
-Fremder ist, da er als Obmann des städtischen Empfang
-könntest sowohl die Festlichkeiten für Kochs und Zugesellt als
+Die deutschen Zeitungen haben dieser Skandalaffäre wenig
+Beachtung geschenkt, obwohl Mr. Graver A. Whalen uns kein
+Fremder ist, da er als Obmann des städtischen Empfangskomitees
+sowohl die Festlichkeiten für Koehl und Hünefeld als
 auch die für die Zeppelinbesatzung leitete. Deutschland kennt
-zum Glut keine Bestechungsskandale in solchem Yu8meos8
-Sie wären bei uns undenkbar. Die Hauptschuld an Dietrich?
-moralischen Zusammenbruch der gesamten Polizei trägt T25
-Alkoholverbot in Amerika, dieses geradezu alberne Genies
-das lediglich einige tausend Schmuggler und Scherben 31
-Millionären macht und anderseits die Gesundheit den
-Hunderttausenden untergräbt, die eben das jämmerliche Zeus
-genießen, das sich sie »hintenherum« als Alkohol verschaffen
-… —
+zum Glück keine Bestechungsskandale in solchem Ausmaß.
+Sie wären bei uns undenkbar. Die Hauptschuld an diesem
+moralischen Zusammenbruch der gesamten Polizei trägt das
+Alkoholverbot in Amerika, dieses geradezu alberne Gesetz,
+das lediglich einige tausend Schmuggler und Schieber zu
+Millionären macht und anderseits die Gesundheit von
+Hunderttausenden untergräbt, die eben das jämmerliche Zeug
+genießen, das sich sie »hintenherum« als Alkohol verschaffen.
+—
 
 <@pagebreak/>
 Die Vorgänge, die wir hier in Frisko erlebten, bewiesen
 uns schlagend, daß auf Inspektor Joopers Leute kein Verlaß
 war. Karsten hätte niemals entkommen können, wenn ihm
 nicht bereits vor dem Zusammenstoß die Fesseln abgenommen
-worden wären. Er mußte sogar nachts rechtzeitig aus dem
+worden wären. Er mußte sogar noch rechtzeitig aus dem
 gefährdeten Auto herausgesprungen sein, ebenso der mit
-ihm geflüchtete Detektiv. Der Versetzte starb übrigens in kurzer
+ihm geflüchtete Detektiv. Der Verletzte starb übrigens in kurzer
 Zeit. —
 
-Jooper tobte. Jooper fühlte sich blamiert, Und doch
-verzichtete er darauf, Jellerjoe und dessen Chauffeur tu’
+Jooper tobte. Jooper fühlte sich blamiert. Und doch
+verzichtete er darauf, Jellerjoe und dessen Chauffeur zu
 verhaften, da bei dem Millionär Fluchtgefahr nicht vorlag.
 
 Immerhin war Mr. Jellerjoe leidlich nüchtern geworden.
 Diesem buckligen Menschen mit dem Pausbackengesicht und
-dem kurz geschnittenen schwarzen Vollbart, der nun Bloxr’
-Arbeitszimmer mit Alkoholdunst erfüllte »und lallend zu
+dem kurz geschnittenen schwarzen Vollbart, der nun Blox’
+Arbeitszimmer mit Alkoholdunst erfüllte und lallend zu
 Protokoll gab, daß er von seiner Stadtwohnung nach seiner
 Plantage in den Bergen unterwegs gewesen, sah man die
-Gerissenheit, den Dollarmacher, lassen an den zugekniffenen
+Gerissenheit, den Dollarmacher, schon an den zugekniffenen
 Schweinsäuglein an. In seinem kostbaren Pelz saß er kalt und
 gleichgültig da, redete wenig und drohte Jooper mit allerhand
-Scherereien, falls dieser ihm nicht sofort wieder westliche.
+Scherereien, falls dieser ihm nicht sofort wieder wegließe.
 
-Er fuhr denn auch. davon, nachdem er als Kaution
+Er fuhr denn auch davon, nachdem er als Kaution
 für sich und den Chauffeur einen Scheck über eine Million
 ausgestellt hatte.
 
 Harst und mir drückte er mit einem »Auf Wiedersehen«
 die Hand. Für die Hinterbliebenen der getöteten Autoinsassen
-gab er einen zweiten Sicher über hunderttausend
+gab er einen zweiten Scheck über hunderttausend
 Dollar. Das versöhnte uns etwas mit seinem selbstbewußten
-Proßentum. Er hatte ein anderes Auto aus seiner Stadtwohnung
+Protzentum. Er hatte ein anderes Auto aus seiner Stadtwohnung
 herbeordert, und um fünf Uhr morgens sauste
 er Davon. —
 
@@ -1589,69 +1590,68 @@ sollte.
 
 Jooper hatte die gesamte Polizei alarmiert. Eine Treibjagd
 <@pagebreak/>
-auf Karsten begann, die — — Knicks ausrichtete.
+auf Karsten begann, die — — nichts ausrichtete.
 Harst zeigte kein Interesse dafür.
 
-Wir saßen gegen halb sechs morgens allein vor den,
-Kamin und tranken abermals Kaffee. Harald rauchte ans
-dauernd Zigaretten und sprach wenig. Not all den Auf.
-Regungen kam nun der unvermeidliche Rücdijichlag. Ich war
+Wir saßen gegen halb sechs morgens allein vor dem
+Kamin und tranken abermals Kaffee. Harald rauchte an-
+dauernd Zigaretten und sprach wenig. Nach all den Auf-
+Regungen kam nun der unvermeidliche Rückschlag. Ich war
 so müde und abgespannt, daß ich im Sessel gedankenlos
-dahindämmerte und nur einen Wunsch hatte: Wein Bett!
+dahindämmerte und nur einen Wunsch hatte: Mein Bett!
 
 Ich schlief ein.
 
-Um sieben Westen mich Stimmen.
+Um sieben weckten mich Stimmen.
 
 Jooper war wieder da.
 
 Er erzählte von dem Mißerfolg der Polizeihunde, die
 die Fährte der beiden Flüchtlinge nicht gefunden hätten.
 
-… Harst sagte zu Jooper:
+Harst sagte zu Jooper:
 
-»Steil Jellerjoes Ford von an der Unfallstelle? —
-
-? — Nun, so rate ich Ihnen, einmal nachzusehen, ob
+»Steht Jellerjoes Ford noch an der Unfallstelle? —
+Ja? — Nun, so rate ich Ihnen, einmal nachzusehen, ob
 unter dem Rücksitz nicht etwas zu finden ist. Machen Sie
 aber kein Aufhebens davon und halten Sie alle Neugierigen
 fern.«
 
 Jooper stierte ihm an.
 
-»Was … meinen Sie damit, Mr. Harst?« « —
+»Was … meinen Sie damit, Mr. Harst?«
 
-— »Gehen Sie und bringen Sie den Mann her! Der
-Polstersitz läßt sich Hochklappen. Dort steckt der flüchtige
+»Gehen Sie und bringen Sie den Mann her! Der
+Polstersitz läßt sich hochklappen. Dort steckt der flüchtige
 Detektiv.«
 
 <@pagebreak/>
 
 <h2>2. Kapitel.</h2>
 
-»Wie bist du darauf gekommen?« fragte ihm Harald,
+»Wie bist du darauf gekommen?« fragte ich Harald,
 als der Inspektor hinausgeeilt war.
 
-»Durch zwölf Zigaretten, fünf Tassen Kaffee und vierLachsbrötd;
-en, mein lieber Alter. Es hat also ziemlich lange
-gedauert, Im überlegte mir die Einzelheiten der Vorgänge
+»Durch zwölf Zigaretten, fünf Tassen Kaffee und vier
+Lachsbrötchen, mein lieber Alter. Es hat also ziemlich lange
+gedauert. Ich überlegte mir die Einzelheiten der Vorgänge
 ganz genau. Karstens Anmaßung machte auf mich gleich
 den Eindruck, daß er uns verhöhnen wollte und daß seine
-Flucht vorbeireitet sei. Allerdings — das »Wie« malte ich
-mir andere aus. Aß glaubte, er würde aus der Zelle
-Nummer eins entweichen. Du besinnst die, daß der eine
-Detektiv von hier aus die Polizeiämter und kurz anordnetg,
-Nummer eins solle bereit »gehalten werden. Jooper fand
+Flucht vorbereitet sei. Allerdings — das »Wie« malte ich
+mir anders aus. Ich glaubte, er würde aus der Zelle
+Nummer eins entweichen. Du besinnst dich, daß der eine
+Detektiv von hier aus die Polizei anrief und kurz anordnete,
+Nummer eins solle bereit gehalten werden. Jooper fand
 dabei nichts Besonderes, ich aber sah darin lediglich einen
-Wink zugunsten »Karstens, Der Detektiv ist derselbe, der
-nicht mit umgekommen ist. Die Nummer, die er vom Um!
-verlangte, hatte im mir gemerkt. Es war Amt vier und
+Wink zugunsten Karstens. Der Detektiv ist derselbe, der
+nicht mit umgekommen ist. Die Nummer, die er vom Amt
+verlangte, hatte ich mir gemerkt. Es war Amt vier und
 Nummer 234, also leicht zu behalten. — Ich blätterte im
-Verzeichnis nach, und Um! vier Nummer 231 ist keine der
-Nummern des Polizeipalastes, sondern die eines Privatntanne8
-Alte ruhte, Brooklyn Street 18. Die Polizei hat
-die Nummer 215 bi8&nbsp;232. Jooper paßte nicht auf, sonst
-hätte ihm die unrichtige Endzahl äü statt 2 nicht entgehen
+Verzeichnis nach, und Amt vier Nummer 234 ist keine der
+Nummern des Polizeipalastes, sondern die eines Privatmannes
+Alex White, Brooklyn Street 18. Die Polizei hat
+die Nummer 215 bis 232. Jooper paßte nicht auf, sonst
+hätte ihm die unrichtige Endzahl 4 statt 2 nicht entgehen
 können. Ich paßte auf. Du siehst, Kleinigkeiten sind wertvoll.
 — Dieser Anruf durch den Detektiv war das Signal
 für den Zusammenstoß.«
@@ -1660,22 +1660,22 @@ Ich war sprachlos …
 
 »Also Jellerjoe war mit im Spiel?!« Mir schien dies
 <@pagebreak/>
-recht wenig glaubwürdig …
+recht wenig glaubwürdig.
 
 »Jellerjoe wohl kaum, aber sein Chauffeur, mein Alter.«
 
-»Aber wie kamst du auf den Klappert des Ford?!«
+»Aber wie kamst du auf den Klappsitz des Ford?!«
 
 »Sehr einfach. Der große Ford ist ein ausgesprochener
-Reisewagen mit allen Schikanen. Der Polsterrüssitz läßt
-sich drehen und wird ein Bett, Unter ihm befindet sich
-das Bettzeug und anderes, — Als wir den total des
-trunkener Millionär aus dem Auto zogen, lag er vor dem
+Reisewagen mit allen Schikanen. Der Polsterrücksitz läßt
+sich drehen und wird ein Bett. Unter ihm befindet sich
+das Bettzeug und anderes. — Als wir den total be-
+trunkenen Millionär aus dem Auto zogen, lag er vor dem
 Sitz auf dem Boden. Es konnte also jemand über ihn hinweggestiegen
 und in den Kasten geschlüpft sein. Außerdem
 war die eine Tür nur angelehnt, und zwar die nach der
-dunklen Straßenseite hin. Hieß gab den Auslschlag.
-Die: Fenster dieser Tür waren als einzige nicht zerbrochen,
+dunklen Straßenseite hin. Dies gab den Ausschlag.
+Die Fenster dieser Tür waren als einzige nicht zerbrochen,
 und in den Türrand war Papier geklemmt, damit
 die Tür weder zuschlüge noch weiter aufginge. — Auch
 nur Kleinigkeiten. — Wollte jemand schnell hinein, brauchte
@@ -1683,27 +1683,26 @@ er gar nicht den Türdrücker zu benutzen, sondern nur
 den Türrand zu packen. Und es sollte recht schnell gehen.
 Nur eine Dummheit war dabei — oder ein Pech: Das
 Stück Papier fiel nicht herab, und die Tür ließ sich nicht
-schließen und blieb geöffnet. — Noch, da ist Jooper …«
+schließen und blieb geöffnet. — Ach, da ist Jooper …«
 
-Der Inspektor erschien mit einem kleinen sehnigen Kellner:
+Der Inspektor erschien mit einem kleinen sehnigen Kerlchen:
 Mr. Abraham Selvers, Detektiv.
 
 Selvers verneigte sich bescheiden. »Mr. Harst, Sie tun
-mir bitter. unrecht … Ich bin nur in den Ford geflüchtet,
+mir bitter unrecht … Ich bin nur in den Ford geflüchtet,
 weil ich Karsten nicht mehr hätte einholen können … Ich
-bin unschuldig.« —
+bin unschuldig.«
 
 Jooper lachte. »Das glaubt Ihnen der Satan, mein
-Junge!« …
+Junge!«
 
 Selvers erklärte gereizt: »Die Sache war so … Als
-wir von hier abfuhren, saß ich und Worten auf dem
+wir von hier abfuhren, saß ich und Morton auf dem
 Rücksitz, und Karsten hatten wir zwischen uns. Er muß
-mit dem. Fuße die eine Tür geöffnet haben, denn mit
-einem Male flog sie auf und er schnellte sich hinaus,
-
+mit dem Fuße die eine Tür geöffnet haben, denn mit
+einem Male flog sie auf und er schnellte sich hinaus.
 <@pagebreak/>
-Ich sprang ihm nach. Im selben Moment erfolgte auch:
+Ich sprang ihm nach. Im selben Moment erfolgte auch
 schon der Zusammenstoß. Ich bekam einen Schlag in den
 Rücken und rollte unter den großen Fordwagen. Ich war
 so benommen, daß ich rein automatischen handelte — aus
@@ -1711,44 +1710,45 @@ Angst vor Vorwürfen und Strafe. Ich riß die Tür des
 Ford auf, als ich Mr. Jellerjoe darin scheinbar bewußtlos
 liegen sah, und kroch in den Bettkasten. Nachher sah ich
 ja meine Torheit ein, aber da war’s zu spät.«
+
 Harald nickte Jooper zu. »Wissen Sie, das klingt gar
 nicht so unwahrscheinlich.«
-— Der Inspektor wurde ebenfalls anderes Sinnes. »Mag
-sein … — « Trotzdem werde ich Selvers einsperren.«
-»Weshalb denn?« Harald spielte ein seines Spiel, »Denken
-Sie etwa, Selvers hätte mit -Jellerjoe den Zusammenstoß
+
+Der Inspektor wurde ebenfalls anderes Sinnes. »Mag
+sein … Trotzdem werde ich Selvers einsperren.«
+
+»Weshalb denn?« Harald spielte ein feines Spiel. »Denken
+Sie etwa, Selvers hätte mit Jellerjoe den Zusammenstoß
 vereinbart?! Das ist doch Unsinn. Bei der Lebensgefahr!!
-Es hat vier Tote dabei gegeben, und Selvers hat von
-Glück gehabt, — Entschuldigen Sie, Mr. Selvers … Ich
-für meine Person bin von Ihrer Unanfechtbarkeit Überm
+Es hat vier Tote dabei gegeben, und Selvers hat noch
+Glück gehabt. — Entschuldigen Sie, Mr. Selvers … Ich
+für meine Person bin von Ihrer Unanfechtbarkeit überzeugt."
 
-zeugt ei
--Jooper überlegte. »Im… eigentlich haben Sie recht, Mister
+Jooper überlegte. »Hm, eigentlich haben Sie recht, Mister
 Harst. — — Es ist gut, Selvers … Sie werden mit
-
-einem: Verweis davonkommen. Sie sind ja auch einer meiner
-tüchtigsten. Leute. Es wäre. schade um Sie gewesen
+einem Verweis davonkommen. Sie sind ja auch einer meiner
+tüchtigsten Leute. Es wäre schade um Sie gewesen ...
 Gehen Sie nur.«
 
-Aber der. Detektiv Glied. Es gab wohl selten einen
-Menschen mit. so beweglichen und doch auch beherrschten
-Gesichtszügen, Er stand da und starrte vor sich hin.
+Aber der Detektiv blieb. Es gab wohl selten einen
+Menschen mit so beweglichen und doch auch beherrschten
+Gesichtszügen. Er stand da und starrte vor sich hin.
 
-— »Was wollen Sie noch?!« polterte Jooper., »Seien Sie
-froh, daß die Dach? so abgelaufen ist.«
+»Was wollen Sie noch?!« polterte Jooper. »Seien Sie
+froh, daß die Sache so abgelaufen ist.«
 
-»Selvers schaut?. auf und. Harald in die Augen. »Ich
-möchte gern wissen, ’was Sie in Wahrheit denken, Mister
-Harst. Ich halte den. Zusammenstoß nicht für einen Zufall.«
+Selvers schaute auf und Harald in die Augen. »Ich
+möchte gern wissen, was Sie in Wahrheit denken, Mister
+Harst. Ich halte den Zusammenstoß nicht für einen Zufall.«
 
 »So?!« meinte Harald sehr gedehnt. »Das ist ja außerordentlich
 interessant. Und weshalb nehmen Sie Absicht an?«
 
 <@pagebreak/>
 »Ich … nehme dasselbe an wie Sie, Mr. Harst,«
-sagte Selvers kurz. »Ich habe mich mit Ihrer Arbetiismethode
-viel beschäftigt. Ihnen ist die Sorge, das Wort
-nur ein Mittel, Ihre Gedanken zu verschleiern. Ihr bereits
+sagte Selvers kurz. »Ich habe mich mit Ihrer Arbeitsmethode
+viel beschäftigt. Ihnen ist die Sprache, das Wort
+nur ein Mittel, Ihre Gedanken zu verschleiern. Ich verehre
 Sie, denn Sie sind ein Meister, wo wir anderen nur immer
 Lehrlinge bleiben. — Es war kein Zufall.«
 
@@ -1758,115 +1758,115 @@ gefälligst Ihre Behauptung!«
 »Mr. Harst ist das in die linke Tür des Ford eingeklemmte
 zusammengefaltete Papier ebensowenig entgangen
 wie mir. Ich würde Mr. Jellerjoes Chauffeur verhaften
-lassen — unbedinz!, sofort. Der Mann weiß mehr, als wir
-ahnen. er —
+lassen — unbedingt, sofort. Der Mann weiß mehr, als wir
+ahnen."
 
-— Harald nickte, »Stimmt, es wäre vielleicht gut, den
+Harald nickte. »Stimmt, es wäre vielleicht gut, den
 Ford abzufangen, bevor er die Plantage erreicht. Etwas
-dunkel ist die Gesicht. »te,«
+dunkel ist die Geschichte,«
 
-Der Inspertkor sah nach der Uhr,
+Der Inspektor sah nach der Uhr,
 
-»Das kann. Zeichen … Wenn iq) die Polizei in
+»Das kann geschehen … Wenn ich die Polizei in
 San Bravo anrufe, das Jellerjoe noch nicht passiert haben
-
 kann, ist der Mann unser. — Ich werde telephonieren.«
-Er ging zum Turnplatz. «
+
+Er ging zum Apparat.
+
 In wenigen Minuten hatte er Verbindung.
 
-»Er machte plötzlich ein sehr langes Gesicht und legte
+Er machte plötzlich ein sehr langes Gesicht und legte
 dann den Hörer weg.
 
 »Meine Herren, San Bravo meldet, daß Jellerjoes
-Auto. vor fünf Minuten auf der Straße vor der Grad:
+Auto vor fünf Minuten auf der Straße vor der Stadt
 gefunden wurde. Jellerjoe lag gefesselt und völlig ausgeplündert
 im Wagen. Der Chauffeur hat ihn unterwegs
 überfallen und mit der Pistole bezwungen. Die Spur
 des Banditen führte nur ein Stück über die Straße, wo
-ein zweites Auto beobachtet worden ist, das ihn aufnahm …
+ein zweites Auto beobachtet worden ist, das ihn aufnahm.
 Wohin dieser Wagen sich wandte, ist nicht zu ermitteln
 gewesen.«
 
 »Das dachte ich mir,« nickte Harald nur. »Mr. Selvers,
 <@pagebreak/>
 wenn Sie meine Arbeitsmethode kennen: Was würden Sie
-tun?v«
+tun?«
 
 Der Detektiv überlegte eine Weile.
 
 »Ich weiß nicht recht …« meinte er dann.
 
-»Also abwarten, und etwas anderes »bleibt uns auch
+»Also abwarten, und etwas anderes bleibt uns auch
 kaum übrig. — Gehen wir zu Bett.
 
-Jooper ’und’ Selvers empfahlen sich. Als sie von Tom
+Jooper und Selvers empfahlen sich. Als sie von Tom
 hinausgeleitet wurden und die Haustür zuschlug, meinte
 Harst:
 
 »Mein Alter, dieser Selvers ist ein geriebener Fuchs.
-Wie schlau er sich den Rücken Wette, was das eingeklemmte
+Wie schlau er sich den Rücken deckte, was das eingeklemmte
 Papier betraf!! — Wenn einer das Versteck Karstens und
-Weibes Chauffeurs Jellerjoes kennt, so ist er es!
+des Chauffeurs Jellerjoes kennt, so ist er es!"
 
-Er gähnte. »Immerhin bin ir; mit den letzten Erfolgen
-zufrieden, besonders mit der. Nummer 234, denn Mr. Ufer
-White ist nicht Privatmann; wie ich sagte, sondern Aufseher
+Er gähnte. »Immerhin bin ich mit den letzten Erfolgen
+zufrieden, besonders mit der Nummer 234, denn Mr. Alex
+White ist nicht Privatmann, wie ich sagte, sondern Aufseher
 im hiesigen Museum für Völkerkunde.«
 
-» »Nun —. — und?10-;.
+»Nun — — und?!"
 
-»Oh, ich Ende nur an all die schönen Reiseandenken,
-die Karsten uns rauchte, an diese unermeßliche Beute gerade
-an antiken indischen Juwelen und Raritäten.:…«
+»Oh, ich denke nur an all die schönen Reiseandenken,
+die Karsten uns raubte, an diese unermeßliche Beute gerade
+an antiken indischen Juwelen und Raritäten …«
 
-»Nun —, — und?!« sagte ich nochmals — und sprang
+»Nun — — und?!« sagte ich nochmals — und sprang
 dann empor. »Wie, du glaubt, daß etwa Karsten diese
 Beute … dem Museum gestiftet hat?!«
 
-»Karsten nicht, aber »Samuel Warger vielleicht — —
+»Karsten nicht, aber Samuel Warger vielleicht — —
 oder ein unbekannter Gegner des Instituts … Ich weiß es
-sogar bestimmt, Als du vorhin so schön schliefst und als
-ich den Namen«. »Alex White fand und dann drüben in
+sogar bestimmt. Als du vorhin so schön schliefst und als
+ich den Namen Alex White fand und dann drüben in
 des armen toten Blox Bibliothek die Neueingänge durchsah,
-fand ich dort auch einen. Katalog des Museums, — — Hier
+fand ich dort auch einen Katalog des Museums, — — Hier
+ist er!!«
 
-er!!«
-
-E« griff nach der Fischers unter eine Zeitung. »Bitte …
-
+Er griff nach der Tischecke unter eine Zeitung. »Bitte …
 Willst du dir mal diese Abbildungen ansehen, die unter
 <@pagebreak/>
-Abteilung Asien, Nummer 406 bis 938 fabriziert sind
+Abteilung Asien, Nummer 406 bis 438 rubriziert sind ...
 Dazu ist hier vermerkt:
-Von einem unbekannten
+
+<p class="pre centered">Von einem unbekannten
 Gönner dem Museum
-leihweise überlassen.
+leihweise überlassen.</p>
 
 Nicht wahr, du erkennst all die wundervollen Stücke, alle
 gehören uns … von 406 bis 438! Konnte Karsten wohl
 ein besseres Versteck für seine Beute finden als dieses?
 Wären wir je dahinter gekommen, wenn nicht wieder einmal
-eine Verkettung von Viehfarmen Ursachen und Wirkungen
-uns geholfen hätte?! Würde im nicht auf die Telephonnummer
+eine Verkettung von vielfachen Ursachen und Wirkungen
+uns geholfen hätte?! Würde ich nicht auf die Telephonnummer
 234 geachtet haben, die Selvers sehr undeutlich
-in die Muschel murmelte, so wußten wir nicht, daß
-Mr. Alex White. mit zu Karstens Intimen gehört und daß
+in die Muschel murmelte, so wüßten wir nicht, daß
+Mr. Alex White mit zu Karstens Intimen gehört und daß
 wir vom hiesigen Museum unser Eigentum zurückfordern
 können. Ja, lieber Alter, dieser Karsten, der ein Gesicht
-wie Knetmasse hat, der eine Stimme in allen Löcherigen
+wie Knetmasse hat, der eine Stimme in allen Höhenlagen
 besitzt, der mal Muschuk, mal Warger, mal ein
 Mulatte mit Stelzfuß ist, — ja, von dem kann man
-lernen, weiß Gott! Welt fabelhafte Idee, dies mit dem
-Museum!! Ich neige mein Haupt in Ehrfurcht vor Dieser:
+lernen, weiß Gott! Welch' fabelhafte Idee, dies mit dem
+Museum!! Ich neige mein Haupt in Ehrfurcht vor diesem
 Schurken, dessen Intelligenz uns immer bluffte, der uns
 mit allen Mitteln der Technik bekämpft — — noch immer!
 Schade, daß er nun doch erledigt ist. Der Kampf war
-phänomenal, einzig, grandios! Denke an die Tanana-«Sturm
-und seine höllischen Einfälle dort? Wenn du mal die
-Geschichte dieses Mannes niederschreibst, wähle recht Kräfte
-Ausdrücke für seine Schuftigkeiten. Alle anderen Verdiene«
+phänomenal, einzig, grandios! Denke an die Tanana-Farm
+und seine höllischen Einfälle dort! Wenn du mal die
+Geschichte dieses Mannes niederschreibst, wähle recht krasse
+Ausdrücke für seine Schuftigkeiten. Alle anderen Verbrecher
 sind im Vergleich zu ihm elende Scharlatane. — Ich bin
-mit meiner Zigarette fertig. Gehen wir schlafen«
+mit meiner Zigarette fertig. Gehen wir schlafen.«
 
 <@pagebreak/>
 
