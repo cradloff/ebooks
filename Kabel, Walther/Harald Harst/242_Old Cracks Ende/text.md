@@ -1128,7 +1128,7 @@ Der Alte schüttelte den Kopf. »Nein, nur noch etwas
 italienisch und spanisch«
 
 Harald sagte nun auf deutsch: »Klingt die Sprache,
-die ich jetzt benutze, ähnlich wie sie, in der der Fremda
+die ich jetzt benutze, ähnlich wie sie, in der der Fremde
 zuerst telephonierte?« Und dann wiederholte er dieselbe
 Frage auf englisch.
 
@@ -1364,8 +1364,8 @@ nördlich von Frisko im Culling-Tal eine Plantage, besaß
 aber auch im benachbarten Reevor-Kanon einen Tierpark,
 der sein Steckenpferd war.
 
-Jellerjoe hatte seine Millionen während des Welt-
-Krieges »gemacht«. Blox war sein Notar und Berater, und
+Jellerjoe hatte seine Millionen während des Weltkrieges
+»gemacht«. Blox war sein Notar und Berater, und
 nach zweistündiger Bekanntschaft hatte Jellerjoe uns beide
 dringend eingeladen, seinen Naturpark einmal zu besichtigen,
 den er im übrigen ungern Fremden zeigte. Er war ein
@@ -1378,8 +1378,8 @@ Ich war außerordentlich beunruhigt durch Haralds leichtsinnige
 Extratour, deren Ziel nur in allernächster Nähe
 liegen konnte. Sollte er es doch auf das Fremdenheim
 abgesehen haben?! Meine Erwägungen, ob ich ihn suchen
-solle, führten zu dem einzig vernünftigen Entschluß, hier-
-von Abstand zu nehmen, denn ein Harst schreibt nicht ohne
+solle, führten zu dem einzig vernünftigen Entschluß, hiervon
+Abstand zu nehmen, denn ein Harst schreibt nicht ohne
 Grund kurz und bündig: »Ich bringe ihn!« Er brauchte mich
 <@pagebreak/>
 also nicht. Während meiner Abwesenheit hier aus dem
@@ -1486,7 +1486,7 @@ Jooper rief vier Detektive herbei.
 
 »Nehmen Sie mein Auto und bringen Sie den Mann
 in die Zelle Nummer eins. Zwei von euch bleiben bei
-ihm."
+ihm.«
 
 Karsten trug jetzt dünne Stahlfesseln mit Verbindungsketten.
 Menschlichen Berechnung nach war jede Flucht ausgeschlossen.
@@ -1507,21 +1507,21 @@ In die Seite gerast und hatte es bis in den Vorgarten
 einer Villa geschleudert. Der Scheinwerfer beleuchtete die
 Unfallstelle. Dem Ford war nicht viel geschehen. Nur die
 Fenster waren zersplittert und die Laternen platt gedrückt. In
-dem Ford lag Mr. Jonas Ernest Jellerjoe — — total be-
-tranken. Auch sein Chauffeur war erheblich wenig nüchtern.
+dem Ford lag Mr. Jonas Ernest Jellerjoe — — total betrunken.
+Auch sein Chauffeur war erheblich wenig nüchtern.
 Joopers Auto hatte nur noch Alteisenwert. Zwei Detektive
 <@pagebreak/>
 und der Fahrer waren tot, einer verwundet, der vierte
 und Karsten waren entflohen. —
 
-Diese Flucht konnte nur mit Wissen der Detektive be-
-werkstelligt worden sein. Sie hatten Karsten offenbar sofort
+Diese Flucht konnte nur mit Wissen der Detektive bewerkstelligt
+worden sein. Sie hatten Karsten offenbar sofort
 im Auto die Fesseln abgenommen.
 
 Amerikanische Polizeiverhältnisse waren noch bis vor
 Kurzem geradezu haarsträubend. Man besinnt sich, daß im
-Dezember 1928 zum Beispiel in Neuyork im Polizeihaupt-
-Quartier ein großes Reinemachen vorgenommen wurde. Der
+Dezember 1928 zum Beispiel in Neuyork im Polizeihaupt-Quartier
+ein großes Reinemachen vorgenommen wurde. Der
 Chefinspektor und eine Unzahl höhere, mittlere und untere
 Beamte wurden abgehalftert. Dieser eiserne Besen, der endlich
 diese Bande von bestechlichen Schergen beseitigte, war
@@ -1594,9 +1594,9 @@ auf Karsten begann, die — — nichts ausrichtete.
 Harst zeigte kein Interesse dafür.
 
 Wir saßen gegen halb sechs morgens allein vor dem
-Kamin und tranken abermals Kaffee. Harald rauchte an-
-dauernd Zigaretten und sprach wenig. Nach all den Auf-
-Regungen kam nun der unvermeidliche Rückschlag. Ich war
+Kamin und tranken abermals Kaffee. Harald rauchte andauernd
+Zigaretten und sprach wenig. Nach all den Aufregungen
+kam nun der unvermeidliche Rückschlag. Ich war
 so müde und abgespannt, daß ich im Sessel gedankenlos
 dahindämmerte und nur einen Wunsch hatte: Mein Bett!
 
@@ -1669,8 +1669,8 @@ recht wenig glaubwürdig.
 »Sehr einfach. Der große Ford ist ein ausgesprochener
 Reisewagen mit allen Schikanen. Der Polsterrücksitz läßt
 sich drehen und wird ein Bett. Unter ihm befindet sich
-das Bettzeug und anderes. — Als wir den total be-
-trunkenen Millionär aus dem Auto zogen, lag er vor dem
+das Bettzeug und anderes. — Als wir den total betrunkenen
+Millionär aus dem Auto zogen, lag er vor dem
 Sitz auf dem Boden. Es konnte also jemand über ihn hinweggestiegen
 und in den Kasten geschlüpft sein. Außerdem
 war die eine Tür nur angelehnt, und zwar die nach der
@@ -1722,12 +1722,12 @@ Sie etwa, Selvers hätte mit Jellerjoe den Zusammenstoß
 vereinbart?! Das ist doch Unsinn. Bei der Lebensgefahr!!
 Es hat vier Tote dabei gegeben, und Selvers hat noch
 Glück gehabt. — Entschuldigen Sie, Mr. Selvers … Ich
-für meine Person bin von Ihrer Unanfechtbarkeit überzeugt."
+für meine Person bin von Ihrer Unanfechtbarkeit überzeugt.«
 
 Jooper überlegte. »Hm, eigentlich haben Sie recht, Mister
 Harst. — — Es ist gut, Selvers … Sie werden mit
 einem Verweis davonkommen. Sie sind ja auch einer meiner
-tüchtigsten Leute. Es wäre schade um Sie gewesen ...
+tüchtigsten Leute. Es wäre schade um Sie gewesen …
 Gehen Sie nur.«
 
 Aber der Detektiv blieb. Es gab wohl selten einen
@@ -1759,7 +1759,7 @@ gefälligst Ihre Behauptung!«
 zusammengefaltete Papier ebensowenig entgangen
 wie mir. Ich würde Mr. Jellerjoes Chauffeur verhaften
 lassen — unbedingt, sofort. Der Mann weiß mehr, als wir
-ahnen."
+ahnen.«
 
 Harald nickte. »Stimmt, es wäre vielleicht gut, den
 Ford abzufangen, bevor er die Plantage erreicht. Etwas
@@ -1807,14 +1807,14 @@ Harst:
 »Mein Alter, dieser Selvers ist ein geriebener Fuchs.
 Wie schlau er sich den Rücken deckte, was das eingeklemmte
 Papier betraf!! — Wenn einer das Versteck Karstens und
-des Chauffeurs Jellerjoes kennt, so ist er es!"
+des Chauffeurs Jellerjoes kennt, so ist er es!«
 
 Er gähnte. »Immerhin bin ich mit den letzten Erfolgen
 zufrieden, besonders mit der Nummer 234, denn Mr. Alex
 White ist nicht Privatmann, wie ich sagte, sondern Aufseher
 im hiesigen Museum für Völkerkunde.«
 
-»Nun — — und?!"
+»Nun — — und?!«
 
 »Oh, ich denke nur an all die schönen Reiseandenken,
 die Karsten uns raubte, an diese unermeßliche Beute gerade
@@ -1835,7 +1835,7 @@ ist er!!«
 Er griff nach der Tischecke unter eine Zeitung. »Bitte …
 Willst du dir mal diese Abbildungen ansehen, die unter
 <@pagebreak/>
-Abteilung Asien, Nummer 406 bis 438 rubriziert sind ...
+Abteilung Asien, Nummer 406 bis 438 rubriziert sind …
 Dazu ist hier vermerkt:
 
 <p class="pre centered">Von einem unbekannten
@@ -1856,7 +1856,7 @@ können. Ja, lieber Alter, dieser Karsten, der ein Gesicht
 wie Knetmasse hat, der eine Stimme in allen Höhenlagen
 besitzt, der mal Muschuk, mal Warger, mal ein
 Mulatte mit Stelzfuß ist, — ja, von dem kann man
-lernen, weiß Gott! Welch' fabelhafte Idee, dies mit dem
+lernen, weiß Gott! Welch’ fabelhafte Idee, dies mit dem
 Museum!! Ich neige mein Haupt in Ehrfurcht vor diesem
 Schurken, dessen Intelligenz uns immer bluffte, der uns
 mit allen Mitteln der Technik bekämpft — — noch immer!
@@ -1872,437 +1872,432 @@ mit meiner Zigarette fertig. Gehen wir schlafen.«
 
 <h2>3. Kapitel.</h2>
 
-Mittags halb 3wöf saß Jooper wiederum bei uns,
-das kratzt in Blox’ Arbeitszimmer. Er war gekommen, um
-uns niützuteilen, daß er nichts mitzuteilen habe, höchstens
-das Gemme: Es war von Jellerjoes Chauffeur und von
+Mittags halb zwölf saß Jooper wiederum bei uns,
+das heißt in Blox’ Arbeitszimmer. Er war gekommen, um
+uns mitzuteilen, daß er nichts mitzuteilen habe, höchstens
+das eine: Es war von Jellerjoes Chauffeur und von
 Karsten auch nicht die Spur einer Spur zu entdecken.
 
 Wir hatten gerade gefrühstückt, als der Inspektor erschien,
 und Harald hatte mich gewarnt, auch nicht mit einer Silbe
 über White und das Museum zu sprechen. Als ich ihn
 dabei gebeten, mir nun doch zu sagen, weshalb er Karsten
-für »erledigt« hielte, war seine- Soweit gewesen: …
+für »erledigt« hielte, war seine Antwort gewesen:
 
 »Dem Löwen fehlen jetzt die Zähne. Sein Mordapparat
-liegt um Safe der Polizei, und so rasch läßt sie kein
+liegt im Safe der Polizei, und so rasch läßt sich kein
 zweiter konstruieren. Außerdem hat Karsten ja auch erklärt,
 ihm genüge ein solcher Strahlentod für uns beide nicht.
 Er hat also Besonderes vor. Und dies Besondere wird ihm
 das Genick brechen, denn — — ich kenne es!!«
 
 Und dann meldete der schwarze Tom den Inspektor
-an, der nun mit einer’ dicken Zigarre im Mundwinkel
+an, der nun mit einer dicken Zigarre im Mundwinkel
 uns langweilte. — Was sollten wir ihm auch sagen?! Jede
 Einmischung der Polizei, also jedes Aufdecken unserer
-Karten wäre leichtsinnig gewesen, Einen Gegner wie Karsten,
+Karten wäre leichtsinnig gewesen. Einen Gegner wie Karsten,
 der bei der Polizei einen Verbündeten besaß, der ihm fast
-gleichwertig, mächtig) Selvers, war nur beizukommen, wenn
+gleichwertig, nämlich Selvers, war nur beizukommen, wenn
 er über unsere Schachzüge vollständig im Dunkeln blieb
-
-— — es sehr im Dunkeln, daß nicht einmal ich Bescheid
+— — so sehr im Dunkeln, daß nicht einmal ich Bescheid
 wußte!
 
 <@pagebreak/>
-Das Gesang) mit Jooper schleppte sich Hin wie ein
+Das Gespräch mit Jooper schleppte sich Hin wie ein
 Leichenzug.
 
 Dann schrillte das Telephon.
 
 Harst eilte hin … winkte … wir schwiegen …
 
-Er sagte: »Mein Beileid, Mr. Jellerjoe … Sie können«
+Er sagte: »Mein Beileid, Mr. Jellerjoe … Sie können
 den Verlust ja verschmerzen … — Gewiß, sobald wir hier
 in Frisko Überflüssig sind, kommen wir gern auf ein paar
-Sage zu Ihnen … — Welche Frage, natürlich will ich
-»einen Bären schießen, wenn dies möglich … — Jooper
+Tage zu Ihnen … — Welche Frage, natürlich will ich
+einen Bären schießen, wenn dies möglich … — Jooper
 ist gerade bei uns … Gut, ich rufe ihn …«
 
 Jooper nahm den Hörer.
 
-» Aha — nun Dacht’ ’Sie die Reue, Mr. Jellerjoe
+»… Aha — nun packt Sie die Reue, Mr. Jellerjoe
 … Na — Anklage gegen Sie wird bestimmt erhoben.
 Wie konnten Sie sich auch derart betrinken — in einem
-
 Lande, wo jeder Rausch mit Gefängnis bestraft wird! Um
-acht Tage Los kommen Sie nicht herum … — Waren
+acht Tage Loch kommen Sie nicht herum … — Waren
 schon Beamte aus San Bravo bei Ihnen? — So?! Ich
-weiß… keine Spur von den beiden … Ihr verdammter
+weiß, … keine Spur von den beiden … Ihr verdammter
 Chauffeur steckt natürlich mit Karsten zusammen.
 Haben Sie denn nie bemerkt, daß er mit verdächtigen
-Kerlen verkehrte oder sonstwie sitzt auffällig benahm? —
-Abende … Natürlich wenn Sie vier Chauffeure nähernd
-immer wechseln … — — Schluß also.«
+Kerlen verkehrte oder sonstwie sich auffällig benahm? —
+Schade … Natürlich, wenn Sie vier Chauffeure haben
+und immer wechseln … — — Schluß also.«
 
 Er hängte ab und setzte sich wieder,
 
-»Dem Jellerjoe stehen nun die Haare zu Berge, wir
+»Dem Jellerjoe stehen nun die Haare zu Berge, weil
 er unfehlbar eingesperrt wird … Geschieht ihm nur recht!
-Hier in unserem gesegneten trockenen Lande trat jeder die
-Pflicht, sich nur dahljeim zu besaufen … Der Richter hat
+Hier in unserem gesegneten trockenen Lande hat jeder die
+Pflicht, sich nur daheim zu besaufen … Der Richter hat
 bereits verfügt, daß Jellerjoes hiesiges Palais neben dem
 Museum …«
 
-».- — Weiches Museum?« warf H8:seid ein.
+»… Welches Museum?« warf Harald ein.
 
 »Oh — neben dem Völkerkundemuseum … Sie sollten
-sich’s mal ansehe: …«
+sich’s mal ansehen …«
 
 »Was hat der Richter verfügt?«
 
 <@pagebreak/>
 »Nun, die Durchsuchung des Palais nach Alkohol …
-Um ein Uhr geht die Geschichte vor sich. Wollen Sie den
-sei sein?«
+Um ein Uhr geht die Geschichte vor sich. Wollen Sie dabei
+sein?«
 
-»Wir haben ja nichts Besseres zu tun …
+»Wir haben ja nichts Besseres zu tun …«
 
 — Das Palais Jellerjoe war ein älterer Bau in jenem
 behaglichen Mischstil, der Ende der neunziger Jahre drüben
 Mode war. Hinter dem Palais lag ein Garten, der an
 den des Museums grenzte. Während Jooper mit seinen
-Beamten im Hause tätig war, interessierte ist Harald mehr
-für den Garten. Die Mauer, die diesen nach dem Museum,
-hin begrenzte, war sehr hoch und oben noch Furcht; Stark
-Draht gesichert. An diese Mauer lehnten sich zwei Freilag
-Häuser Jellerjoes, in denen wundervolle Palmen in Wesens
-Kübeln den Winter überdauerten. An der Tür des größten,
-dieser Treibhäuser trat uns ein Mayxyn in blauer GärtnerIHürze
+Beamten im Hause tätig war, interessierte sich Harald mehr
+für den Garten. Die Mauer, die diesen nach dem Museum
+hin begrenzte, war sehr hoch und oben noch durch Stacheldraht
+gesichert. An diese Mauer lehnten sich zwei Treibhäuser
+Jellerjoes, in denen wundervolle Palmen in Riesenkübeln
+den Winter überdauerten. An der Tür des größten
+dieser Treibhäuser trat uns ein Mann in blauer Gärtnerschürze
 entgegen, bei dessen Anblick wir förmlich zurückprallten.
 Der Ärmste war durch Pockennarben im Gesicht
-entsegzlich entstellt,
+entsetzlich entstellt,
 
-Er lächelte traurig, zog halb die Mühe, zeigte einen
+Er lächelte traurig, zog halb die Mütze, zeigte einen
 buschigen grauen Haarwuchs und fragte:
 
 »Polizei?«
 
 »Nein … Die ist noch im Hause beschäftigt. Wir sind
-Bekannte Inspektor Joopers
+Bekannte Inspektor Joopers …«
 
-»Ach so …« Er setzte die Müßte wieder auf und
-streichelte mit der endigen Hand seinen spärlichen Bart. »Vielleicht
-die beiden deutschen Herren? Man erzählt hier so
+»Ach so …« Er setzte die Mütze wieder auf und
+streichelte mit der erdigen Hand seinen spärlichen Bart.
+»Vielleicht die beiden deutschen Herren? Man erzählt hier so
 allerlei … Auch in der Zeitung stand von …«
 
-… Harst und Schraut, ganz recht … — Wie
+»… Harst und Schraut, ganz recht … — Wie
 Heißen Sie?«
 
-»allerorten White …
+»Alexander White …«
 
-Ich mußte mich ifaimmennehmen, um meine ÜberTraschung
+Ich mußte mich zusammennehmen, um meine Überraschung
 nicht zu verraten.
 
-»-… Ich bin hier bei Mr. Jellerjoe nur im Nebenberuf
+»… Ich bin hier bei Mr. Jellerjoe nur im Nebenberuf
 Gärtner … Der Garten ist ja so klein. Eigentlich
 <@pagebreak/>
-bin ich Aufseher drüben am Museum, wo ich ebenfalls klug
+bin ich Aufseher drüben am Museum, wo ich ebenfalls für
 den Garten sorge.«
 
-… Unter den grauen, buschigen Augenbrauen, die wie
-Schnurrbärte herabhingen, blitzte in den scheinbar so schattigen
+Unter den grauen, buschigen Augenbrauen, die wie
+Schnurrbärte herabhingen, blitzte in den scheinbar so schläfrigen
 Augen ein Flackern auf, das ebenso schnell wieder
 erlosch.
 
-Arzt wußte ich, welche Maske Karsten neuerdings und
-wohl schon seit langem trug … Zu seinen übrigen Vollen
-kam von »Mr. Ufer White, der Pockennarbige« hinzu.
+Jetzt wußte ich, welche Maske Karsten neuerdings und
+wohl schon seit langem trug … Zu seinen übrigen Rollen
+kam noch »Mr. Alex White, der Pockennarbige« hinzu.
 Dieser Blick der Hinterlist und des Hasses hatte ihn verraten.
 
 Harald sagte freundlich: »Sie wohnen wohl auch im
-Museum?« —
+Museum?«
 
 »Ja … In Der Pförtnerwohnung. Das Museum ist
 ja nur an drei Tagen geöffnet. Aber falls die Herren
 heute hineinwollen — mit Ihnen mache ich schon eine
-eine Ausnahme …« Und wieder derselbe Blickt da …
+eine Ausnahme …« Und wieder derselbe Blick da …
 unter diesen Augenbrauen und dem Mützenschirm hervor …
 »Ich habe gerade Zeit, und die Schlüssel habe ich auch …
 Meine Kollegen wohnen außerhalb. Wir könnten auch gleich
 hier durch das Gewächshaus gehen, in der Mauer ist ein
-Pförtägen …«
+Pförtchen …«
 
-Aha — — Die Falles!
+Aha — — *die* Falle!!
 
 Harst meinte: »Sehr nett von Ihnen, Mr. White …
 Gut denn … Es kommt mir auf ein anständiges Trinkgeld
 nicht an …«
 
-Fehlte schritt voraus. Wir wechselten einen schnellen
+White schritt voraus. Wir wechselten einen schnellen
 Blick, und Harald lächelte unmerklich.
 
 Ich behielt die Hand in der rechten Ulstertasche. Der
-Schurke sollte eine Kugel im Leibe haben, bevor er noch,
+Schurke sollte eine Kugel im Leibe haben, bevor er noch
 irgendwie eine verdächtige Bewegung tat.
 
 Wir gingen durch weite Säle — — und nichts geschah.
 Wir stiegen die Treppe hinan in die asiatische Abteilung.
-»White« hatte uns einen Katalog gegeben. Vor einer Reihe?
+»White« hatte uns einen Katalog gegeben. Vor einer Reihe
 <@pagebreak/>
-leerer Glaskästen spähte er: »Sehr schade, hier waren noch
-vorgestern kostbare indische Raritäten aufgestellt, die ein
-Unbekannter leihweise dem Museum überlassen hätte. Hier
-—»y im Katalog ist’s vermerkt. Vorgestern holte der Her die
-
-Sachen wieder ab. Es war anscheinend ein Deutscher »Pf.
+leerer Glaskästen sagte er: »Sehr schade, hier waren noch
+vorgestern kostbare indische Raritäten ausgestellt, die ein
+Unbekannter leihweise dem Museum überlassen hatte. Hier
+— im Katalog ist’s vermerkt. Vorgestern holte der Herr die
+Sachen wieder ab. Es war anscheinend ein Deutscher …
 Niemand kannte ihn, er nannte sich ähnlich wie Sie, Mister
-Harst, nämlich Harst.«
+Harst, nämlich Karst.«
 
 »Wirklich schade,« nickte Harald. »Wollte das Museum
-die Eile denn nicht erwerben?«
+die Stücke denn nicht erwerben?«
 
-»Unmöglich …- Sie wurden auf vier Millionen gen
+»Unmöglich … Sie wurden auf vier Millionen geschätzt …«
 
-»Mark …?
+»Mark …?«
 
-»3, Mark.« … vier »Millionen Mark.«
+»Ja, Mark … vier Millionen Mark.«
 
-»Sind Sie »nicht. selbst deutscher Abstammung, Mister
-White 7«
+»Sind Sie nicht selbst deutscher Abstammung, Mister
+White?«
 
-»Gewiß … Mein Großvater hieß von Weiß … Ich
+»Gewiß … Mein Großvater hieß noch Weiß … Ich
 spreche auch deutsch, aber schlecht.«
 
-»Schlecht, das glaube ix Es gehört Übung zu allem!«
+»Schlecht, das glaube ich. Es gehört Übung zu allem!«
 
-Zu meinem. Erstaunen verlief diese Stunde im Museum
+Zu meinem Erstaunen verlief diese Stunde im Museum
 ohne jeden Zwischenfall.
 
 Ob »White« merkte, daß ich die Clement schußbereit
-
 hatte?!
 
-Na An der Pforte gab Harald ihm fünf Dollar. »Vielleicht
-kommen wir nochmals wieder
+An der Pforte gab Harald ihm fünf Dollar. »Vielleicht
+kommen wir nochmals wieder …«
 
 Jooper stand im Garten.
 
 »Hallo, wo waren Sie denn?«
 
 »Im Museum … White führte uns herum … Ob
-der schon lange dort. ’Aufseher ist?«
+der schon lange dort Aufseher ist?«
 
-»Feine Ahnung … Wer ist White. Soll ich alle Leute
+»Keine Ahnung … Wer ist White. Soll ich alle Leute
 Kennen?!«
 
-»Ganz recht, —. — und haben Sie auch etwas gar
-gefunden, ich Mrs ins Ablehnt?«
+»Ganz recht, — — und haben Sie auch etwas
+gefunden, ich meine Alkohol?«
 
-»Nicht eine erhaschte — … Jellerjoe muß ein famoses Versteck
-haben …
+»Nicht eine Flasche — … Jellerjoe muß ein famoses Versteck
+haben …«
 
 <@pagebreak/>
 »Genau wie Karsten … Sie haben Pech, Jooper.«
 
-»Na — Sie doch auch, mein Heiter …«
+»Na — Sie doch auch, mein Bester …«
 
-— »Stimmt. Und deshalb fahren wir noch heute zu Gestern
-Jellerjoe. In vier Stunden sind wir dort. Er hat mir versprochen,
+»Stimmt. Und deshalb fahren wir noch heute zu Jellerjoe.
+In vier Stunden sind wir dort. Er hat mir versprochen,
 ich dürfte einen Bären in seinem Tierpark schießen.«
-»’ Jooper sagte warnend: »Wenn Sie den Kanon erst
+
+Jooper sagte warnend: »Wenn Sie den Kanon erst
 gesehen haben, werden Sie besser verzichten! Es sind nur
-graue Bären dort, und ein solcher Bursche ist kein Hase?!
+graue Bären dort, und ein solcher Bursche ist kein Hase!
 Jellerjoes Tierpark ist ja sonst recht eigenartig. Denken Sie
-sich eine Schlucht von zwei Meilen Länge und etwa drein
-tausend Meter Breite mit senkrechten Wänden … Alles
-Fels … In der Schlucht Urwald, Schein kleiner See, ein
-Bach, Wiesen und in diesem abgesperrten Paradiese künstliches
+sich eine Schlucht von zwei Meilen Länge und etwa dreitausend
+Meter Breite mit senkrechten Wänden … Alles
+Fels … In der Schlucht Urwald, ein kleiner See, ein
+Bach, Wiesen und in diesem abgesperrten Paradiese sämtliches
 Getier, das irgend unser Klima verträgt, — alles in
 Freiheit, eins das andere fressend, ein ewiger Kampf …
 Für die Bären, Pumas und Panther läßt Jellerjoe jede
-Woche acht alte lebende Pferde an Stricken zumal, denn
+Woche acht alte lebende Pferde an Stricken hinab, denn
 der Kanon ist nirgends zugänglich, die niedrigste Steilwand
 mißt zehn Meter, und wo flache Stellen waren, hat Jellerjoe
 das Gestein wegsprengen lassen … Der Tierschutzverein
 hatte ihn schon dreimal der Pferde wegen angezeigt.
 Aber hier ist man großzügig. Ein Land, in dem täglich
 den Autos sechzehn Menschen zum Opfer fallen, die Verletzten
-nicht gerechnet, kann sich nicht um alte Gäule kümmern»…
-— Jahren Sie bestimmt?’
+nicht gerechnet, kann sich nicht um alte Gäule kümmern …
+— Fahren Sie bestimmt?«
 
-»Ja. Und ich; werde Ihnen einen Brief übergeben,
+»Ja. Und ich werde Ihnen einen Brief übergeben,
 Jooper, den Sie erst morgen mittag öffnen dürfen. —
-Ich habe Ihr Wort 7«
+Ich habe Ihr Wort?«
 
-»Öm — meinetwegen. Wovon handelt der Brief?«
+»Hm — meinetwegen. Wovon handelt der Brief?«
 
-»Er wird Ihnen Karsten und seine Helfershelfer zwitschern,
-wenn Sie genau das tun, was ich in dem Bote?
+»Er wird Ihnen Karsten und seine Helfershelfer ausliefern,
+wenn Sie genau das tun, was ich in dem Brief
 Ihnen vorschlage. Öffnen Sie den Brief vor morgen mittag
-zwölf Uhr, so verderben Sie alles. Sprechen Sie aus
-niemandem davon und verwahren Sie ihn sorgfälti3… —
-
+zwölf Uhr, so verderben Sie alles. Sprechen Sie auch zu
+niemandem davon und verwahren Sie ihn sorgfältig. —
 <@pagebreak/>
 Jetzt kommen Sie mit zur Villa Blox. Ich schreibe den Brief
 sofort, dann nehmen wir des armen Blox Auto und sind
 um sieben bei Jellerjoe.« —
 
 Wir waren, bereits um halb sieben dort, und Jellerjoe
-begrüßte uns vor dem Herrenhause der Plantage mit ehrlichen
+begrüßte uns vor dem Herrenhause der Plantage mit ehrlicher
 Herzlichkeit,
 
 <h2>4. Kapitel.</h2>
 
-Eins wußte freilich. Jellerjoe nicht: Daß wir einen
-kleinen Umweg gemacht hatten; daß Harst mit einem großen
-Paket ausgestiegen war und. dieses an einer Leine in den
-bewußten Kanon hinabgelassen. hakte. — Auf Steig’ Haust
-feines Verschwiegenheit durften wir bestimmt rechnen. Und
+Eins wußte freilich Jellerjoe nicht: Daß wir einen
+kleinen Umweg gemacht hatten, daß Harst mit einem großen
+Paket ausgestiegen war und dieses an einer Leine in den
+bewußten Kanon hinabgelassen hatte. — Auf Blox’ Chauffeurs
+Verschwiegenheit durften wir bestimmt rechnen. Und
 da es um die Zeit bereits dunkel gewesen, brauchten wir
 auch keine Beobachter zu fürchten. Das Paket enthielt zwei
 Pistolen und zwei Jagdmesser und zwei Remingtongewehre
 nebst Munition und einiges andere. Harald fürchtete eben,
 Jellerjoe könnte ihm die Jagd im Tierpark doch verbieten,
-und seinen Bären wollte er« unbedingt schießen, sagte er
-zu mir, In« war nicht so erpicht darauf. —
-Jellerjoes Plantage in den Bergen von St. Loses war
-wie ein Märchen, hineingelegt in eine köstliche Landschaft,
+und seinen Bären wollte er unbedingt schießen, sagte er
+zu mir. Ich war nicht so erpicht darauf. —
+
+Jellerjoes Plantage in den Bergen von St. Josee war
+wie ein Märchen, hineingesetzt in eine köstliche Landschaft,
 der die warmen Winde des Stillen Ozeans ein mildes
-Klima spendeten. Um das Herrenhaus zog sich ein weiten
+Klima spendeten. Um das Herrenhaus zog sich ein weiter
 Park, und hinter diesem lagen die Wirtschaftsgebäude, Stallungen,
-Felder, Über, Stunden und eine eigene Kraftstation.
+Felder, Äcker, Hürden und eine eigene Kraftstation.
 Das Herrenhaus, ohne jeden Prunk, dabei praktisch und
 behaglich, glich einem indischen Bungalow.
 
 <@pagebreak/>
-Blei) nach dem Abendessen, das wir drei in eigenen
-dunkel getäfelten Speisesaal einnahmen, machten wir in!
-Mondschein von? einen Spaziergang. Eine Stunde mühseligen
+Gleich nach dem Abendessen, das wir drei in einem
+dunkel getäfelten Speisesaal einnahmen, machten wir im
+Mondschein noch einen Spaziergang. Eine Stunde mühseligen
 Kletterns brachte uns zur Südecke des Tierparks.
 Unterwegs hatten wir viel über Karsten gesprochen, und
-Harald erzählte nun auch von unserem Besuch) im Museum
+Harald erzählte nun auch von unserem Besuch im Museum
 und sagte Jellerjoe geradezu, daß Alex White fraglos kein
 anderer als Karsten sei. — Ich war erstaunt Über diese
 Offenheit.
 
-Wir standen. am Rande des Steilabhangs und sahen
+Wir standen am Rande des Steilabhangs und sahen
 unter uns in der Tiefe undeutliche Baumwipfel und einen
 blanken Wasserlauf.
 
 Jellerjoe lachte leise. »Glauben Sie wirklich daran?
-Ich nicht, White ist niemals Karsten.«
+Ich nicht. White ist niemals Karsten.«
 
 Seine Stimme kam mir plötzlich ganz verändert vor.
 
-»Ich werde Ihnen sagen, wer Karsten ist: Ich bin es?«
+»Ich werde Ihnen sagen, wer Karsten ist: *Ich* bin es!«
 
 In demselben Augenblick traten aus einem nahen Gebüsch
 drei Kerle mit Gewehren und legten auf uns an.
 
 Jellerjoe war einen Schritt zurückgetreten. Sein Lachen
-Mondbahn: und Triumph.
+ward Hohn und Triumph.
 
-»Da — — ich bin’s!« — und er riß sich Perle und
-Bart ab … »Da — — dies hier sind meine Pausbad&en,
-dies meine — Augenbrauen …« — er spie Gummischeiber
-uns vor … die Füße und war Samuel Warger — —
-
+»Da — — *ich* bin’s!« — und er riß sich Perücke und
+Bart ab … »Da — — dies hier sind meine Pausbacken,
+dies meine Augenbrauen …« — er spie Gummischeiben
+uns vor die Füße und war Samuel Warger — —
 war der Urtyp des großen Verwandlungskünstlers. »Eine
-Bewegung nur, Rotweins Leute schießen!!«
+Bewegung nur, und meine Leute schießen!!«
 
 Harst wandte den Kopf.
 
-Au hinter uns drei Kerle …
-Ich fühlte, wie mir der Schweiß aus — allen Poren
-rang
+Auch hinter uns drei Kerle …
+
+Ich fühlte, wie mir der Schweiß aus allen Poren
+drang …
 
 Wir hatten uns überlisten lassen, — — jetzt hatten
 nicht wir Karsten, sondern er uns,
 
-»… So blaß, Herr Schraut…! 1 Amt denke, damals
-auf Schabernack waren Sie durchaus nicht auf den Mund
+»… So blaß, Herr Schraut…!! Ich denke, damals
+auf Schluderrook waren Sie durchaus nicht auf den Mund
 <@pagebreak/>
-gefallen, und auf der Tanana-Farm auch nicht Und
-Sie, verehrter Feind Harst, — — zu so stille!«
+gefallen, und auf der Tanana-Farm auch nicht. Und
+Sie, verehrter Feind Harst, — — auch so still?!«
 
 »Ich werde reden, wenn es Zeit ist, Karsten … Gut,
 Sie haben gesiegt — — vorläufig …!«
 
-»Cm — vorläufig?! Da unten hausen zwanzig graue
-
-Bären, und seit acht Tagen habe ich kein Pferd Zähnen
+»Hm — vorläufig?! Da unten hausen zwanzig graue
+Bären, und seit acht Tagen habe ich kein Pferd ihnen
 gespendet … Sie werden hungrig sein … — Sehen Sie:
-das wird Ihr Ende werden: In meinem Tierpark, aus
-dem & kein Entrinnen gibt, in dem die Bestien Sie beide
+*das* wird Ihr Ende werden: In meinem Tierpark, aus
+dem es kein Entrinnen gibt, in dem die Bestien Sie beide
 hetzen werden, bis Ihnen die Kraft ausgeht … — Arme
-hoch!! Tat zu, Leute!! Bindet sie, und dann hinab mit
-
+hoch!! Packt zu, Leute!! Bindet sie, und dann hinab mit
 ihnen!!«
-Widerstand leisten?!
-Nein, — — denn ich hoffte bereits wieder … Iß9
 
+Widerstand leisten?!
+
+Nein, — — denn ich hoffte bereits wieder … Ich
 dachte an das Paket drüben an der Südwestecke des Kanons.
-Welt ein Glückszufall, daß Harald auf den Gedanken gekommen
-war, für alle Fälle die Waffen dort zu verborgen!
-«— Ich hütete mich jedoch, Karsten irgendwie merken
-zu lassen, daß ich seine brutale Heimtücke lediglimM als
-niederträchtigen Streich, der -Retten Endes ihn selbst treffen
+Welch’ ein Glückszufall, daß Harald auf den Gedanken gekommen
+war, für alle Fälle die Waffen dort zu verbergen!
+— Ich hütete mich jedoch, Karsten irgendwie merken
+zu lassen, daß ich seine brutale Heimtücke lediglich als
+niederträchtigen Streich, der letzten Endes ihn selbst treffen
 würde, bewertete. Da Harald sich schweigend fesseln ließ,
 gebrauchte ich mein Mundwerk um so nachdrücklicher.
 
 »Leere Drohungen!« lachte Karsten. »Ihnen wird der
-Atem schon verzeihen, wenn die Bestien Sie dort unter!
+Atem schon vergehen, wenn die Bestien Sie dort unten
 erst gewittert haben! — Hinab also mit den beiden!«
 
-— Karstens Helfershelfer waren bezeichnenderweise Indianer,
+Karstens Helfershelfer waren bezeichnenderweise Indianer,
 kultivierte Rothäute, Viehhirten. Es konnten, dem Gesichtsschnitt
 nach sehr wohl Tlinkit-Indianer aus Alaska sein.
 
-An Lautlos ließ man uns in die Schlucht hinab. Man
+An Lassos ließ man uns in die Schlucht hinab. Man
 hatte uns die Hände nur lose gefesselt, und als wir in
-einem Gestrüpp unten angelangt waren und die doppelte!:
+einem Gestrüpp unten angelangt waren und die doppelten
 Lassos wieder hochgezogen wurden, hatten wir uns im
 Moment gegenseitig die Riemen abgenommen. Karsten rief
--Uns noch irgend etwas zu, dann eilten wir schon, und dies
+Uns noch irgend etwas zu, dann eilten wir schon, und dies
 <@pagebreak/>
-waren bange Minuten, im Galopp quer über eine mondiieliLichtung
-zur anderen Teile des Kanons, wo wir auch Herrn
-bald das Paket fanden, das sich) im Winkel einer Lagune
+waren bange Minuten, im Galopp quer über eine mondhelle
+Lichtung zur anderen Seite des Kanons, wo wir auch sehr
+bald das Paket fanden, das sich im Wipfel einer Tanne
 verfangen hatte. —
 
-Ich schreibe hier weder Karl May’sche Wildwest-»Geschulten
-nachts sensationell aufgemachte Kriminalerzählungen. Ich, suche
-lediglich immer wieder darzutun, was der rüstige Geist
+Ich schreibe hier weder Karl May’sche Wildwest-Geschichten
+noch sensationell aufgemachte Kriminalerzählungen. Ich suche
+lediglich immer wieder darzutun, was der rührige Geist
 meines Freundes zu leisten vermag. — Harst war auf die
-Sonne geklettert, hatte die um das Paket geschnürte Leine
+Tanne geklettert, hatte die um das Paket geschnürte Leine
 rasch entdeckt, und das Paket schwebte vorsichtig herab.
 Wir standen hier auf einem dicht bewaldeten Hügel. Falls
-Karsten unser Tun beobachten« wollte, mußte die hier herrschende
-Dunkelheit ihm dies unmöglich machen.: Als. wir
-erst die Pistolen entsichert in den Taschen hatten (Nachdruck
+Karsten unser Tun beobachten wollte, mußte die hier herrschende
+Dunkelheit ihm dies unmöglich machen. Als wir
+erst die Pistolen entsichert in den Taschen hatten (Karstens
 Leute hatten uns sogar die Taschenmesser abgenommen) und
-die Remingtonbüchsen in Händen hörten, war jede Gefahr
+die Remingtonbüchsen in Händen hatten, war jede Gefahr
 beseitigt.
 
-Harald schlug vor, auf einem der überall umherliegenden.
-Felsblöcke, von denen einige oben mit Gestrüpp bewachen
+Harald schlug vor, auf einem der überall umherliegenden
+Felsblöcke, von denen einige oben mit Gestrüpp bewachsen
 waren, ein Lager zu beziehen. Wir warteten noch eine
-halbe Stunde und schlichen dann nach Norden immer Blickt
+halbe Stunde und schlichen dann nach Norden immer dicht
 an der Steilwand bis zum Ufer des kleinen Sees, wo
 wir inmitten prächtiger Eichen einen geeigneten Steinblock
-fanden. Es kostete Mühe, ihn. zu erklettern, dafür hatten wir
-aber aus nachher die Genugtuung, einen geradezu idealen
-Lagerplatz zu besitzen. Unsere vier Wohlbehagen, in die die
-Gewehre eingehüllt gewesen, und dick« Moospolster schützen
+fanden. Es kostete Mühe, ihn zu erklettern, dafür hatten wir
+aber auch nachher die Genugtuung, einen geradezu idealen
+Lagerplatz zu besitzen. Unsere vier Wolldecken, in die die
+Gewehre eingehüllt gewesen, und dicke Moospolster schützen
 uns vor Kälte und vor der Härte der Naturbetten. Harald
 kletterte dann nochmals hinab und holte Brennholz, während
-ich nach vierbeinigen Feinden ausspähte. Er brachte 3weib
-morsche Kiefern herbeigeschleppt, wund als erst ein tüchtiges
+ich nach vierbeinigen Feinden ausspähte. Er brachte zwei
+morsche Kiefern herbeigeschleppt, und als erst ein tüchtiges
 Feuer loderte und darüber der Aluminiumtopf mit Wasser
 hing, konnten uns alle Graubären, Pumas und Panther
-gestohlen bleiben. Bisher hatten wir nicht einen einziger
+gestohlen bleiben. Bisher hatten wir nicht einen einzigen
 <@pagebreak/>
 zu Gesicht bekommen, und lediglich jenseits des Sees grasten
-ein paar Wapitihirsche, die allerdings sehr Heu waren
-und immer wieder mißtrauisch minderer,
+ein paar Wapitihirsche, die allerdings sehr scheu waren
+und immer wieder mißtrauisch windeten,
 
 Als der Tee fertig war und wir bei einer Zigarre
-
-Hielte Trapperabenteuer besprachen, sagte Harald mit einem
+dieses Trapperabenteuer besprachen, sagte Harald mit einem
 Male:
 
-»Du bist Wachs wirklich ein Unschuldsengel, mein Alter …!!
-—» Ich habe im Ernst nie geglaubt, daß White etwa Karsten
+»Du bist doch wirklich ein Unschuldsengel, mein Alter …!!
+— Ich habe im Ernst nie geglaubt, daß White etwa Karsten
 Sein könnte. Ich wußte von dem Moment an, da der scheinbar
 betrunkene Jellerjoe Blox’ Arbeitszimmer betrat, daß er
 Karsten war, ebenso, daß er uns hier in seinen Tierpark
@@ -2312,56 +2307,53 @@ Die zuckenden Flammen des Feuers beleuchteten sein
 schmales, kühnes Gesicht. Ein Lächeln huschte um seinen
 Mund.
 
-— »Jellerjoe ’trug einen Pelz, mein Alter … Der Pelz
+»Jellerjoe trug einen Pelz, mein Alter … Der Pelz
 war sehr lang. Unter dem Pelz aber kamen die derben
-Stiefel des Mulatten Sam zum Vorschein, ebenso die Gesetz
+Stiefel des Mulatten Sam zum Vorschein, ebenso die Hosen,
 die Tom »dem Stelzfuß« geliehen hatte.«
 
 Ich sagte gar nichts.
 
 »Die Sache ist mithin wirklich sehr einfach. Der Detektiv
-Selvers rief White an; und dies war das vereinbarte
+Selvers rief White an, und dies war das vereinbarte
 Signal für Jellerjoes Chauffeur, mit dem Ford das Auto
 zu rammen. In dem Ford saß also nur der Chauffeur.
 Vor dem Zusammenstoß sprangen Karsten-Jellerjoe und
-Selvers ab, und beide schlüpfen in den Ford, wo Karsten)
-den Pelz überzog und sich Eisenmast als »Jellerjoe« herrichtete
-und Whisky trank und sich damit auch, die Jacke
-Legat, während Selvers in den Sitzkasten kroch. Ein famoser
-
--
-
-Trick an sich, — nur hätte Karsten aus Hosen und
+Selvers ab, und beide schlüpfen in den Ford, wo Karsten
+den Pelz überzog und sich schleunigst als »Jellerjoe« herrichtete
+und Whisky trank und sich damit auch die Jacke
+begoß, während Selvers in den Sitzkasten kroch. Ein famoser
+Trick an sich, — nur hätte Karsten auch Hosen und
 Stiefel wechseln müssen. Dazu blieb ihm keine Zeit. Er
-verließ sich eben auf die Länge seines Pelzes. — Natur
-
-hochkommen die Polizeihunde keine Spur von Karsten
+verließ sich eben auf die Länge seines Pelzes. — Natürlich
+konnten die Polizeihunde keine Spur von Karsten
 finden, und natürlich war auch die Beraubung Jellerjoes
 <@pagebreak/>
-durfte seinen Chauffeur Bluff. Der Chauffeur sollte ja
-eben verschwinden, da er mit Selvers »im Bunde stand.
-—» Willst du noch; mehr wissen, mein Alter 2«
+durch seinen Chauffeur Bluff. Der Chauffeur sollte ja
+eben verschwinden, da er mit Selvers im Bunde stand.
+— Willst du noch mehr wissen, mein Alter?«
 
-Jetzt hatte ich die Anfachte wiedergefunden.
+Jetzt hatte ich die Sprache wiedergefunden.
 
-»Allerdings …« erklärte ich. »Mandcderlei will ich, noch
+»Allerdings …« erklärte ich. »Mancherlei will ich noch
 wissen … So zum Beispiel: Weshalb hat White unsere
-indisc;chen Andenken aus dem Museum verschwinden lassen«-«
+indischen Andenken aus dem Museum verschwinden lassen?«
+
 »White? Nein, Karsten hat sie zurückgeholt. Er fürchtete
-natürlich, ein Zufall könnte uns in das Museum tüchtigen.
-White war lediglich dahin instruiert, uns für alle Stille
+natürlich, ein Zufall könnte uns in das Museum führen.
+White war lediglich dahin instruiert, uns für alle Fälle
 die asiatische Abteilung zu zeigen und die leeren Glaskästen
 … Es hätte doch geschehen können, daß uns ein
 Katalog in die Finger geraten wäre, und da sollte von
-vornherein der »große Unbekannte« seine gebrochenen AYusstellungsstüfe
-auch »zufällig« wieder abgeholt haben.«
+vornherein der »große Unbekannte« seine geliehenen
+Ausstellungsstücke auch »zufällig« wieder abgeholt haben.«
 
 »und der Brief für Jooper?«
 
 »Ah so — richtig, der Brief! Darin steht nur: Karsten
 ist Jellerjoe, und wir sind im Tierpark.« — Daraufhin
 mag Jooper tun, was er will. Er wird eiligst herkommen …
-selbstredend, und da ich als Schlußsatz noch, hinzugefügt
+selbstredend, und da ich als Schlußsatz noch hinzugefügt
 habe: »Verhaften Sie zuerst White,« so werden wir wohl
 so ziemlich reinen Tisch mit der Gesellschaft machen.«
 
@@ -2369,83 +2361,83 @@ so ziemlich reinen Tisch mit der Gesellschaft machen.«
 
 »Bleiben wir, wo wir sind. Sollten die Bären unsere
 Felsenburg angreifen, haben wir die Feuerbrände zur Abwehr.
-Unsere Waffen lassen wir nicht sehen ich nur im
-äußersten Notfall … Karsten wird schon morgen sollt mit
+Unsere Waffen lassen wir nicht sehen — nur im
+äußersten Notfall … Karsten wird schon morgen früh mit
 einem Fernglas nach uns Ausschau halten. Möglich, daß
 er dann in den Kanon hinabsteigt und mit Gewehrkugeln
 sein Heil versucht, was ihm schon zuzutrauen ist … Für diesen
 Fall werden wir nachher noch eine Steinmauer um unsere
-Plattform errichten. Wir können also dieses Idyll h)zier in
-aller Ruhe auskosten. Der Leidtragende ist Karsten. Wen«!
-der Verkehr nicht ein so kaltblütiger Mörder wäre, würde
+Plattform errichten. Wir können also dieses Idyll hier in
+aller Ruhe auskosten. Der Leidtragende ist Karsten. Wenn
+der Mensch nicht ein so kaltblütiger Mörder wäre, würde
 <@pagebreak/>
-ich: sagen: Es ist schade um ihn! Seine Intelligenz hätte
-der Allgemeinlyeit großen Außen bringen können, — und
-Intelligent ist er.«
+ich sagen: Es ist schade um ihn! Seine Intelligenz hätte
+der Allgemeinheit großen Nutzen bringen können, — und
+intelligent ist er.«
 
 Ich reichte Harald stumm die Hand und drückte sie
 kräftig. Worte waren hier überflüssig. In mir war eine
 starke Freude über das, was er wieder einmal geleistet
-hatte. —«
+hatte. —
 
 Ja — unser Idyll hier auf dem Felsen unter den alten
 Eichen! Und unser Lagerfeuer, und die ganzen eigenartigen
-Umstände!! Es ist vorhin schon, derlei zu erleben. Man wächst
+Umstände!! Es ist doch schön, derlei zu erleben. Man wächst
 über das jämmerliche Einerlei des Alltags weit hinaus, man
 spürt sich in Wahrheit Mensch. Über uns der Mond,
-die Sterne, durF&Zck das Gezweig schimmernd, und dort
+die Sterne, durch das Gezweig schimmernd, und dort
 drüben der glänzende See, die dunklen Waldkulissen, ganz
 fern die Berge in wechselndem Kranz … — es war
-Ehen …
+schön …
 
 »Der erste!« sagte Harst …
 
 Der Tierpark meldete sich … Unten am Felsen eine
-dunkle Waffe, zwei grünlich-rötliche Punkte: Ein Graubart!
+dunkle Masse, zwei grünlich-rötliche Punkte: Ein Graubär!!
 
 <h2>5. Kapitel.</h2>
 
 Zuweilen ist selbst mein Harst ein schlechter Prophet,
 und ein hungriger nordamerikanischen Grislybär macht einen
-dicken Strich; durch ein Festprogramm. Der, Bursche, der
+dicken Strich durch ein Festprogramm. Der Bursche, der
 da unten herumschnüffelte, schien gegen brennende Aststücke
 ziemlich unempfindlich zu sein. Harald schleuderte ihm eine
-sollte Fackel gerade vor die Pranken. Wir wollten uns
-den Vater Union doch mal erst ordentlich ansehen. Es
+solche Fackel gerade vor die Pranken. Wir wollten uns
+den Vater Urian doch mal erst ordentlich ansehen. Es
 <@pagebreak/>
-war ein kolosjatie8 Viel, beinahe grauweiß im Fell, und
-als er nun mit den Sichelkrallen wütend nach dem Seiner?
-Brand schlug, sah ich diese Krallen und los etwas hastiger
-an meiner Zigarre. Wenn man eine Nemingtonvbüchie mit
-neun Stahlmantelgeschossen neben sich hat, hat ein Grisly
-gleicht viel zu bedeuten. Aber wenn dieser eine Zeigen) sich
-vermehrt, wenn gleich so Brüder vier, als ob man droben
+war ein kolossales Vieh, beinahe grauweiß im Fell, und
+als er nun mit den Sichelkrallen wütend nach dem Feuerbrand
+schlug, sah ich diese Krallen und sog etwas hastiger
+an meiner Zigarre. Wenn man eine Remingtonbüchse mit
+neun Stahlmantelgeschossen neben sich hat, hat *ein* Grisly
+nicht viel zu bedeuten. Aber wenn dieser eine Grisly sich
+vermehrt, wenn gleich so Stücker vier, als ob man droben
 im Nationalpark in den Mountains wäre, wo sie herdenweise
 zahm herumlaufen, plötzlich erscheinen und daher
 ein Bombardement mit brennenden Ästen den Holzvorrat
 rasch vertilgt, dann, meine lieben Freunde und Leser, wird
-die Satze sozusagen strich.
+die Sache sozusagen kitzlich.
 
 Ein Grisly ist bekanntlich kein Kletterbär. Aber ein
 vorzüglicher Läufer und Springer. Nachdem wir also etwa
-fünf Minuten lang die vier Bestien feurig abgewöhnt hatten,
-fiel es dem Burschen Nummer eins, dem grauweißen Groß:
-Papa, plötzlich) ein, mit Anlauf einen Sprung zu riskieren,
-der ihm dann nachts halb über den Rand der Plattform
+fünf Minuten lang die vier Bestien feurig abgewehrt hatten,
+fiel es dem Burschen Nummer eins, dem grauweißen Großpapa,
+plötzlich ein, mit Anlauf einen Sprung zu riskieren,
+der ihm dann auch halb über den Rand der Plattform
 hinwegbrachte. Ich wollte schon schießen, doch Harald hielt
 einen Nasenstüber mit dem Stiefelabsatz für zweckdienlicher,
 und der alte Herr rollte fauchend wieder abwärts.
 
-»Donnerwetter!« sagte im mir, »das war lieber!«
+»Donnerwetter!« sagte ich mir, »das war kitzlich!«
 
 Die vier Gegner unten, denen immerhin der Pelz erheblich
-versengt war und die noch erheblicher nach, brennenden
+versengt war und die noch erheblicher nach brennenden
 Lumpen stanken, machten eine Angriffspause. Unser Holzvorrat
 war nur noch gering, und Harst meinte, wir
-würden nun doch? wohl schießen müssen.
+würden nun doch wohl schießen müssen.
 
-Wir hatten derweil nicht auf den Himmel Tracht,
-samt wir waren äußerst überrascht, als mit — einem Male
+Wir hatten derweil nicht auf den Himmel geachtet,
+und wir waren äußerst überrascht, als mit einem Male
 ein paar Regentropfen niederfielen … Der Himmel war
 pechschwarz: Ein Wintergewitter zog auf, hier in Westkalifornien
 keine Seltenheit. Aus den wenigen Tropfen
@@ -2455,48 +2447,48 @@ die Situation doch bedrohlich. Die Finsternis war so groß,
 daß selbst eine Katze nichts gesehen hätte, — nicht einmal
 die Pfote vor Augen, und der Lärm der stürzenden Wassermassen
 und des fernen Donners, der in den Tälern wie
-eine Kanonade wiederholte, schaltete Marsch das Besorgnis.
-Unsere Taschenlampen waren nun letzte Hilfe. Aber matt
+eine Kanonade wiederhallte, schaltete auch das Gehör aus.
+Unsere Taschenlampen waren nun letzte Hilfe. Aber man
 weiß, daß die Batterien dazu nicht eben lange vorhalten
 und daß selbst Ersatzbatterien nicht zuverlässig sind, besonders
-bei. einem Gewitterregen.
+bei einem Gewitterregen.
 
-Die Grislys waren Gentlemen. daher sie waren malerischen.
+Die Grislys waren Gentlemen. Oder sie waren wasserscheu.
 Sie waren verschwunden.
 
-Ich hätte hier nun so schon der Wahrheit zuwider
+Ich hätte hier nun so schön der Wahrheit zuwider
 erzählen können, wie ein schwarzen Panther aus den Ästen
 der Eichen herabsprang und wie ich ihn mit bloßen Händen
-erwürgte — — und Heimliches,
+erwürgte — — und Ähnliches,
 
 Ich bedauere, damit nicht aufwarten zu können.
 
 Wir standen mit den Wolldecken als Umhängen da und
-leuchteten in ’ kurzen Zwischenräumen den Wald unter uns
+leuchteten in kurzen Zwischenräumen den Wald unter uns
 ab. Das war alles.
 
-Wir wurden ziemliHg nach, »und unser Wildwestidyll
+Wir wurden ziemlich naß, »und unser Wildwestidyll
 verlor allen Reiz — allen! Mr. Blox’ Arbeitszimmer wäre
 mir lieber gewesen als dieser Felsen, auf dem wir bis zu
-den Anschein im Wasser wateten, da er sich schüsselartig
+den Knöcheln im Wasser wateten, da er sich schüsselartig
 vertiefte,
 
-Das Grazie, was mich versöhnte, waren die Blitze und
-deren. magisch? Beieuhivig,
+Das einzige, was mich versöhnte, waren die Blitze und
+deren magische Beleuchtung,
 
-Ton ’auemg daß Vergnügen dauerte nicht lange.
+Doch aus das Vergnügen dauerte nicht lange.
 
-— »Eine vor Wut geifernde Stimme ertönte am Fuße
+Eine vor Wut geifernde Stimme ertönte am Fuße
 des Felsens, und ein neuer Blitz zeigte uns Karsten in
-einer. Art Jagdanzug halb hinter einer Eiche.
+einer Art Jagdanzug halb hinter einer Eiche.
 
 »Wo habt ihr die Taschenlampe und die Gewehre her?!«
 wiederholte er noch drohender,
 
 Harald hatte mich niedergerissen. Wir lagen lang — im
-Waffe.
+Wasser.
 
-Harst brüllt? zurück:
+Harst brüllte zurück:
 
 <@pagebreak/>
 »All das hatten wir schon vorher Hier deponiert! Ihr
@@ -2507,30 +2499,30 @@ Ein Schuß knallte — und eine Kugel zischte irgendwohin.
 
 Karsten brüllte von neuem:
 
-»Halunken — — zu Hilfe, ein Bär?!«
+»Halunken — — zu Hilfe, ein Bär!!«
 
 Die Halunken waren nicht wir, sondern seine Rothäute.
 
-Er schoß dreimal … Dann wurde &s still …
+Er schoß dreimal … Dann wurde es still …
 
 Aber nur ein paar Sekunden …
 
 Ein wahnsinniges, schrilles Angstgeschrei ertönte eine
-Strecke weiter, das von dem turnten Krachen eines Baumes
+Strecke weiter, das von dem dumpfen Krachen eines Baumes
 begleitet wurde und von dem Heulen eines Windstoßes,
 der mit verheerender Gewalt durch den Kanon sauste.
 
 Dann wieder dasselbe Angstgebrüll — und diesmal ein
 Name mit dabei.
 
-» »Harst retten Sie mich!« —
+»Harst retten Sie mich!« —
 
-Das Schlaf geht seine eigenen Wege …
+Das Schicksal geht seine eigenen Wege …
 
-Der Wann, der uns hier den Tod bestimmt Matte,
+Der Mann, der uns hier den Tod bestimmt hatte,
 war nun selbst in Todesnot.
 
-Wir zauderten +…
+Wir zauderten …
 
 Nicht weil wir Karsten die Hilfe versagen wollten,
 sondern weil uns ein Geknatter von Schüssen aus anderer
@@ -2538,16 +2530,16 @@ Richtung aufhorchen ließ.
 
 Dann schrie Karsten wiederum:
 
-»Um Gottes willen — — ich bin eingeklemmt — ck die
+»Um Gottes willen — — ich bin eingeklemmt — — die
 Bären!!«
 
 Wir sprangen hinab, rannten vorwärts …
 
-Biß zu einer Lichtung …
+Bis zu einer Lichtung …
 
 Neue Blitze …
 
-Dort am Boden, tniedergelzalten durch den manns3diien
+Dort am Boden, niedergehalten durch den mannsdicken
 Ast der gestürzten Eiche, der über seinem Rücken lag,
 feuerte Karsten gerade mit einer Pistole auf den riesigen
 Grisly von vorhin …
@@ -2555,7 +2547,7 @@ Grisly von vorhin …
 <@pagebreak/>
 Dann … Dunkelheit …
 
-Wieder ein Blitz…
+Wieder ein Blitz …
 
 Harst hatte die Büchse im Anschlag …
 
@@ -2563,18 +2555,18 @@ Schoß … drückte zweimal ab …
 
 Rufe ringsum …
 
-Eine bekannte Stimme: Jooper!?!
+Eine bekannte Stimme: Jooper!!
 
 Die Polizei war da.
 
-Jooper hatte den Brief doch sofort geöffnet, war Miß
-zweihundert Mann angerückt, — — die Indianer Karsten9
+Jooper hatte den Brief doch sofort geöffnet, war Mit
+zweihundert Mann angerückt, — — die Indianer Karstens
 lagen drüben erschossen, ebenso der Chauffeur.
 
-Von Karsten war nur noch der Rumpf und ein Tal
+Von Karsten war nur noch der Rumpf und ein Teil
 Des Kopfes vorhanden.
 
-Wenn je die Berechnung einem Verbrecher bewiesen hat,
+Wenn je die Vorsehung einem Verbrecher bewiesen hat,
 daß einst doch der Tag der Vergeltung kommt: Karsten hatte
 es am eigenen Leibe erlebt! — —
 
@@ -2583,20 +2575,19 @@ Es ist nicht mehr viel zu sagen …
 Alex White war in seiner Pförtnerwohnung im Museum
 verhaftet worden. Er hatte unsere indischen Kostbarkeiten
 im Garten versteckt, auch manches andere, das Karsten bei
-uns erbeutete. Er wurde zu zehn Jahren Zuchthaus der
-urteilt.
+uns erbeutete. Er wurde zu zehn Jahren Zuchthaus verurteilt.
 
 Karstens kalifornische Besitzungen fielen an Ellen Barkam
 als Erbin. Sie hat sie verkauft und der Erlös wurde wohltätigen
 Zwecken zugeführt.
 
 Hiermit nehme ich Abschied von Old Crack und den
-Geschichten um Old Crack. Wenn ich an die ganz»-Farm
+Geschichten um Old Crack. Wenn ich an die Tanana-Farm
 denke, überkommt mich immer eine gewisse Sehnsucht. Das
-ist verständlich. Es war schon dort — trotz allem!
+ist verständlich. Es war schön dort — trotz allem!
 
 Wenden wir uns anderen Dingen zu. Ich will im folgenden
-Band die seltsame »Affäre des Doktor Bruder«
-bringen. Es ist dies ein krasser Gegensatz zu den Art Grade
-Abenteuern, ein Blick in das Treiben modernster »Großstadt
-Gentlemanverbrecher — vielleicht auch interessant …
+Band die seltsame »*Affäre des Doktor Gudor*«
+bringen. Es ist dies ein krasser Gegensatz zu den Old
+Crack-Abenteuern, ein Blick in das Treiben modernster
+Großstadt-Gentlemanverbrecher — vielleicht auch interessant …
