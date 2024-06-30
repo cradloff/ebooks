@@ -16,6 +16,7 @@
 \bBann\b	Dann
 \b[bdh]in\s[nu][nu]d\s[bdh]er\b	hin und her
 \bBieter\b	Meter
+\bC3\b	Es
 \bden!	dem
 \bdien\b	dicken
 \b(\d+)[l1i]en\b	$1ten
@@ -57,6 +58,7 @@
 \bnaß\b	nach
 \bnich!\b	nicht
 \bnicke\b	nickte
+\bnoH\b	noch
 \bober\b	oder
 \bOe	Ö
 \brute\b	ruckte
