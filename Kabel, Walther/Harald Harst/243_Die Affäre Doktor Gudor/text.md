@@ -1,13 +1,13 @@
-<@pagebreak/>
+<@pagebreak 3/>
 
-Die Affäre Doktor Gudor
+<h1>Die Affäre Doktor Gudor.</h1>
 
-1\. Kapitel.
+<h2>1. Kapitel.</h2>
 
 Es war am Tage nach der kleinen Einweihungsfeier
 unseres neuen Hauses und genau acht Tage nach unserer
-Rückkehr aus Kalifornien, also am 16. März. Wir hatten:
-beide einen gelinden Kater, Unser Freundezireis hatte dem
+Rückkehr aus Kalifornien, also am 16. März. Wir hatten
+beide einen gelinden Kater. Unser Freundeskreis hatte dem
 neuen Weinkeller bis vier Uhr morgens alle Ehre angetan,
 und besonders Doktor Gudor war glänzender Laune gewesen.
 Wir kannten ihn erst wenige Tage, denn er hatte sich während
@@ -15,66 +15,67 @@ unserer Abwesenheit hier in Schmargendorf niedergelassen
 und uns schon am Mittag nach unserer Heimkehr einen
 Besuch gemacht.
 
-Doktor Udo Gudor war … Privatdetektiv. Durch eigene?
+Doktor Udo Gudor war … Privatdetektiv. Durch eigene
 Gutmütigkeit und ein wenig Nachlässigkeit war er, bis
-dahin Rechtsanwalt und Notar, in eine böse Weijelafjäre
-verwickelt worden, und wenn er zu straffrei ausging, so
+dahin Rechtsanwalt und Notar, in eine böse Wechselaffäre
+verwickelt worden, und wenn er auch straffrei ausging, so
 war er doch in seinem bisherigen Wirkungskreis unmöglich
-geworden, hatte sein Grundstü in Swinemünde gegen ein
-nette Häuschen in der Breiten Straße in Schmargendorf
+geworden, hatte sein Grundstück in Swinemünde gegen ein
+nettes Häuschen in der Breiten Straße in Schmargendorf
 eingetauscht und wollte von dem ganzen Anwaltsberuf nichts
-mehr wissen, sondern schwang sie kühn auf sein stets sorgsam
-gepflegtes Steckenpferd, die Kriminalistik, und wurden
+mehr wissen, sondern schwang sich kühn auf sein stets sorgsam
+gepflegtes Steckenpferd, die Kriminalistik, und wurde
 eben Detektiv.
 
 <@pagebreak/>
 Daß er uns sofort eine Antrittsvisite abstattete, war
-eigentlichg selbstverständlich. Von seinem Auftauchen hier
+eigentlich selbstverständlich. Von seinem Auftauchen hier
 hatten wir bereits durch Haralds Mutter erfahren, und als
-er dann persönlich; bei uns orsdj)ien, gefiel er uns vom ersten
+er dann persönlich bei uns erschien, gefiel er uns vom ersten
 Augenblick an so sehr, daß sich schon in diesen wenigen
-Tagen ein zwangloser Verkehr anbahnte, der zu zu der
+Tagen ein zwangloser Verkehr anbahnte, der auch zu der
 Einladung zu der Einweihungsfeier führte.
 
 Gudor war ein Original. Mittelgroß, hager, dazu ein
-schmalen Kopf mit klugen, bleichen Zügen: Alles durchaus
+schmaler Kopf mit klugen, bleichen Zügen: Alles durchaus
 unauffällig, wenn man davon absah, daß er merkwürdig
 farblose, glanzlose Augen und fast gar keine Augenbrauen
-hatte, noch weniger Kopfhaar und nur Goldzähne im Obers
-Kiefer, die wie ein blitzender Streifen unter der dünnen
-Oberlippe schimmerten …
+hatte, noch weniger Kopfhaar und nur Goldzähne im Oberkiefer,
+die wie ein blitzender Streifen unter der dünnen
+Oberlippe schimmerten.
 
 Seine Originalität begann, sobald er nur diesen vergoldeten
-Mund aufmachte. Er. war geistreich-ironisch, mittag
-und ein wenig Zaghaft, aber all das ward? überstrahlt von
-einer sonnigen schlichten — Keulenhiebe und einer tief
-innerlichen Naturicwärmerei.
+Mund aufmachte. Er war geistreich-ironisch, witzig
+und ein wenig boshaft, aber all das wurde überstrahlt von
+einer sonnigen schlichten Menschenliebe und einer tief
+innerlichen Naturschwärmerei.
 
 Er war seit zehn Jahren Witwer, und soeben erst war
 sein einziges Kind aus einem Pensionat in Thüringen als
-Dolchartige junge Dame zurückgekehrt.
+weltfertige junge Dame zurückgekehrt.
 
 Astrid Gudor hatte sich genau so schnell wie ihr Vater
 in unsere Herzen eingeschlichen, und dieses liebe frische
-blonde Mädel ward »Roch schneller Tau Harsts verwöhnter
+blonde Mädel ward noch schneller Frau Harsts verwöhnter
 Liebling. —
 
 Dies zur Einleitung.
 
 Es war also am 16. März, und so gegen zwölf Uhr
-mittags rüsteten wir: uns zum Gegenbesuch bei Gudor,
-der uns. gleichzeitig »zum Katerfrühstück« eingeladen hatte.
+mittags rüsteten wir uns zum Gegenbesuch bei Gudor,
+der uns gleichzeitig »zum Katerfrühstück« eingeladen hatte.
 Haralds Mutter kam mit.
 
-Wir gingen die Kunostraße hinauf, und hätten dann
-nur noch wenige Schritte? Lbi3 zu Gudors Villa. Das Vorgartengitter
-trug neben der Pforte ein neues PorzellanIOFilb
+Wir gingen die Kunostraße hinauf, und hatten dann
+nur noch wenige Schritte bis zu Gudors Villa. Das Vorgartengitter
+trug neben der Pforte ein neues Porzellanschild
 mit der schwarzen Aufschrift:
 
 <@pagebreak/>
-Dr. für. Udo Gudor,
-Privatdetektivs.
-9—12 8—68.
+
+<p class="centered pre">Dr. jur. Udo Gudor,
+Privatdetektiv.
+9—12 &nbsp; &nbsp; &nbsp; 4—6.</p>
 
 Das war alles.
 
@@ -84,89 +85,95 @@ hörten die Glocke schrillen, warteten, — — bis Harald einfach
 öffnete. Die Tür war nur eingeklinkt.
 
 Im Flur rief Harald mit Donnerstimme einige Male:
-»Falle — hallo!!« Buch das war umjontjt.
+»Hallo — hallo!!« Auch das war umsonst.
 
-»Ein Scherz…!« meinte Frau Harst. »Er hat voll
-seine Rührig und seinen alten Bürovorsteher mit hiernach
-gebracht. Irgendeiner muß doch, zu Hause sein.«
+»Ein Scherz …!« meinte Frau Harst. »Er hat doch
+seine Köchin und seinen alten Bürovorsteher mit hierher
+gebracht. Irgendeiner muß doch zu Hause sein.«
 
-Du? erste Zimmertür linker Hand hatte ein Pappschild:
-Bureau. — Harald klopfte, rief nocQmals und schüttelte
+Die erste Zimmertür linker Hand hatte ein Pappschild:
+*Bureau*. — Harald klopfte, rief nochmals und öffnete
 dann. —
 
-Ich kann mich kürzer fassen: Das Haus war Tee-.
-Auf dem Schreibtisch, im Büro lag ein Brief, an Barsch
+Ich kann mich kürzer fassen: Das Haus war leer.
+Auf dem Schreibtisch, im Büro lag ein Brief, an Harald
 gerichtet, die Tinte noch frisch: Gudors Schrift.
 
-Sehr geehrter Kollege,
-besondere Umstände zwingen mich, für ein bis zwei! Habe?
-ins Ausland zu gehen. — Wobei eine Vollmacht für Sie,
-»die Hausverwaltung betreffend, ebenso einen Ecke über
-viertausend Mark für Steuern und sonstige Ausgaben.
-Astrid habe ich mitgenommen. Buch die Berta Ruck und der?
-alte Theodor Thieß begleiten mich. Nachmittags wird j«-
-jemand zu Ihnen kommen, der in der Villa wohnen wird,
-bis wir zurückkehren. — Gruß Ihnen und Schraut, ein?
+<p class="centered">Sehr geehrter Kollege,</p>
 
+> besondere Umstände zwingen mich, für ein bis zwei Jahre
+ins Ausland zu gehen. — Anbei eine Vollmacht für Sie,
+die Hausverwaltung betreffend, ebenso einen Scheck über
+viertausend Mark für Steuern und sonstige Ausgaben.
+Astrid habe ich mitgenommen. Auch die Berta Rux und der
+alte Theodor Thieß begleiten mich. Nachmittags wird
+jemand zu Ihnen kommen, der in der Villa wohnen wird,
+bis wir zurückkehren. — Gruß Ihnen und Schraut, eine
 Empfehlung an Ihre Frau Mutter,
-Wundern Sie sich über nichts.
-» Ihr Doktor Gudor.
+
+<p class="centered">Wundern Sie sich über nichts.</p>
+
+<p class="right">Ihr Doktor Gudor.</p>
 
 Herunter hatte Astrid geschrieben:
-Meine sehr verehrte liebe gnädige Frau, leider kann
-ich mich nicht mehr persönlich verabschieden. Vater bitter
+
+> Meine sehr verehrte liebe gnädige Frau, leider kann
+ich mich nicht mehr persönlich verabschieden. Vater bittet
 <@pagebreak/>
 noch, von unserer plötzlichen Abreise keinerlei Aufhebens
 zu machen.
-Ihre dankbare
-Astrid Gudor.
+
+<p class="centered">Ihre dankbare</p>
+
+<p class="right">Astrid Gudor.</p>
+
 Und als Schluß noch:
 
-Das Katerfrühstück wartet im Speisezimmer, Tun Sie
+> Das Katerfrühstück wartet im Speisezimmer. Tun Sie
 ihm bitte alle Ehre an, wie ich gestern Ihren vorzüglichen
 Weinen. — Ihr Gudor,
 
-— »Natürliche ein Scherz!« erklärte Frau Harst nachhalf.
-»Die vier haben sich hier irgendwo versteht …«
+»Natürliche ein Scherz!« erklärte Frau Harst nochmals.
+»Die vier haben sich hier irgendwo versteckt …«
 
-Harald meinte nur: »Das wäre kindisch, liebe Mutter,
-—»-» Bitte — hier ist ein Scheck und eine Vollmacht .(…
-Wir sind auch bereits durch das Haus gegangen. Es ist?
+Harald meinte nur: »Das wäre kindisch, liebe Mutter.
+— Bitte — hier ist ein Scheck und eine Vollmacht …
+Wir sind auch bereits durch das Haus gegangen. Es ist
 leer. Nur im Speisezimmer winkt unser die gedeckte Tafel.
 Schauen wir sie uns genauer an.«
 
 Vom Büro führte eine Schiebetür in ein etwas altmodisch
 eingerichtetes Herrenzimmer, das mit einem kleinen
 Wintergarten, nach dem Garten zu gelegen, ebenfalls durch
-eine Schiebetür in- Verbindung stand. Jenseits des Flures
+eine Schiebetür in Verbindung stand. Jenseits des Flures
 lagen Gudors Schlafzimmer, ein kleiner Damensalon und
-Astrids Schlafzimmer. Der Oberstock enthielt drei Stube
-Belgien, zwei Bodenkammern und einen Trockenboden. Küche,
+Astrids Schlafzimmer. Der Oberstock enthielt drei Stübchen,
+zwei Bodenkammern und einen Trockenboden. Küche,
 Speisekammer und Bad befanden sich im Keller. Von
-der Küche lief ein Gpeiseaufzug nach oben ins Eßzimmer.
+der Küche lief ein Speiseaufzug nach oben ins Eßzimmer.
 Aus dem Wintergarten führte eine Treppe in den kleinen
-rechts von einem sehr bot?! NacFbarhause und links von
-der Friedhofsmauer denn alten Dorfkirche begrenzten
-Garten, dessen Nüascont ebenfalls. an den Kirchhof stieß.
-Hin?3 an der Frische?schwerer stand ein niederer Stall dicht
+rechts von einem sehr hohen Nachbarhause und links von
+der Friedhofsmauer der alten Dorfkirche begrenzten
+Garten, dessen Rückfront ebenfalls an den Kirchhof stieß.
+Links an der Friedhofsmauer stand ein niederer Stall dicht
 am Hause, weiterhin noch eine Art Pavillon
 
 Die Einrichtung der Räume war wie gesagt altmodisch,
-Eber behaglich. Das Wertvollste waren die Gemälde, die
-drehten Herrisch? und eine ’ Strenge exotische Waffen und
+aber behaglich. Das Wertvollste waren die Gemälde, die
+echten Teppiche und eine Menge exotische Waffen und
 Raritäten. —
 
-Der Leser tut gut, sich diese hier so knapp gefaßte Bild?«
+Der Leser tut gut, sich diese hier so knapp gefaßte Schilderung
 <@pagebreak/>
-Erklärung des Grundstüss genau zu merken. Gerade dieses Haus
-sollte der Mittelpunkt anfänglich schier unerklärlicher Boys
-Gänge werden. —
+des Grundstücks genau zu merken. Gerade dieses Haus
+sollte der Mittelpunkt anfänglich schier unerklärlicher Vorgänge
+werden. —
 
 Wir drei standen nun im Speisezimmer und betrachteten
 den für sechs Personen zierlich gedeckten Tisch. Da fehlte
 nichts, was zu einem geschmackvollen Frühstückstisch gehörte:
-Blumen, Kristallschalen mit Früchten, je drei Weins
-Gläser für jedes Jedes, Rheinwein und Sekt in silbernen
+Blumen, Kristallschalen mit Früchten, je drei Weingläser
+für jedes Gedeck, Rheinwein und Sekt in silbernen
 Kühlern, Austern auf Eis — — jedenfalls ein leckeres
 Bild.
 
@@ -179,33 +186,33 @@ Aber Haralds Gesicht war für ein Märchen denn doch
 zu ernst.
 
 Er nahm eine Flasche Rheinwein, goß ein wenig in
-ein Glas und schwebte vorsichtig.
+ein Glas und schmeckte vorsichtig.
 
 Frau Harst fragte mißtrauisch: »Denkst du etwa, daß
 der Wein …«
 
-»Schein … der Wein ist tadellos …
+»Nein … der Wein ist tadellos …«
 
-Er nahm eine Auster von der Platte und roh daran.
+Er nahm eine Auster von der Platte und roch daran.
 
-»Bitte … du hast die feinere Nase, mein Alter …
+»Bitte … du hast die feinere Nase, mein Alter …«
 
 Ich prüfte die Auster. Sie hatte einen faden Geschmack.
 
-»Nase sie in Papier,« meinte Harald.
+»Packe sie in Papier,« meinte Harald.
 
 Nachher kamen noch zwei Zitronenstückchen und drei
-sogenannte Kognakbohmeit das.
+sogenannte Kognakbohnen dazu.
 
-Frau Harst saß ganz bleich Ei: der Sofaecke.
+Frau Harst saß ganz bleich in der Sofaecke.
 
-»Nun, gestorben wären wir nicht, liebe Mutter,« Es
+»Nun, gestorben wären wir nicht, liebe Mutter,«
 beruhigte Harald. »Nur eingeschlafen wären wir — für viele
 Stunden. Ich werde jetzt die Haustür verschließen, und dann
-Seen wir uns zu Tisch. Wir werden ja sehen, was dann
-schleicht, wen! wir uns längere Zeit nichts führen. Nehmen.
+setzen wir uns zu Tisch. Wir werden ja sehen, was dann
+geschieht, wenn wir uns längere Zeit nicht rühren. Nehmen
 wir möglichst bequeme Stellungen ein, damit wir nicht
-ermüden, Sollte etwas geschehen, so rührt euch nicht und
+ermüden. Sollte etwas geschehen, so rührt euch nicht und
 überlaßt alles mir,«
 
 <@pagebreak/>
@@ -214,182 +221,181 @@ alte Frau wäre das eine Folter …!«
 
 »Dann kommen wir vielleicht nie hinter dieses merkwürdige
 Geheimnis,« bat Harald, und alles geschah nach
-seinem Wunsch. Zum Sein füllten wir bei Gläser und
+seinem Wunsch. Zum Schein füllten wir die Gläser und
 legten ein paar Austern auf unsere Teller. Die Türen
-blieben dessen.
+blieben offen.
 
-Neben dem Wintergarten gab es nahe zwei schmale hohe
+Neben dem Wintergarten gab es noch zwei schmale hohe
 Fenster. Harst saß, den Kopf auf die Arme gelegt, so am
 Tische, daß er diese Fenster beobachten konnte, während
-ich Furcht die beiden Schiebetüren die Fenster des Büros
+ich durch die beiden Schiebetüren die Fenster des Büros
 nach der Straße zu sah.
 
-Es war eine sollte eigentümlichßche Situation.
+Es war eine sehr eigentümliche Situation.
 
-Ich hatte Zeit, dieses Eigentämlicd;e gründlich zu zergliedern.
+Ich hatte Zeit, dieses Eigentümliche gründlich zu zergliedern.
 
-Eis war unbedingt Tatsache, daß Gudor, Astrid, die
-Ruck und der alte Thieß die Villa erst kurz vor unserem Eintreffen
-verlassen haben konnten. — Weghlzalb?! Wegshalb’bhatien
-sie nicht noch die kurze Zeit auf uns gewartet?!
-Bescheid hatte Gudor geschrieben: Wundern Sie sich) über
-nichts! — Diese-’Fragen waren vorläufig nicht zu beantworten.
+Es war unbedingt Tatsache, daß Gudor, Astrid, die
+Rux und der alte Thieß die Villa erst kurz vor unserem Eintreffen
+verlassen haben konnten. — Weshalb?! Weshalb
+hatten sie nicht noch die kurze Zeit auf uns gewartet?!
+Weshalb hatte Gudor geschrieben: Wundern Sie sich über
+nichts! — Diese Fragen waren vorläufig nicht zu beantworten.
 
 Daß Gudor etwa die Austern, die Zitronenstücke und
-das Konfekt präpariert haben sollte, ersäz);ien mir unmöglich.
+das Konfekt präpariert haben sollte, erschien mir unmöglich.
 Dies konnte nur jemand anders getan haben, denn
 Doktor Udo Gudor war alles andere als eine zweifelhafte
 Persönlichkeit. Wir kannten Swinemünde ja sehr genau
 von früher her und waren ihm dort einmal ganz flüchtig
 begegnet.
 
-Ich führe hier nur ein paar dieser dunklen Frager:
-an. Der Leser kann sich unschwer noch eine ganze Anschein!
+Ich führe hier nur ein paar dieser dunklen Fragen
+an. Der Leser kann sich unschwer noch eine ganze Anzahl
 weiterer zusammenreimen. Zum Beispiel: Weshalb wollte
 man uns hier betäuben?! Etwa um derweil bei uns, wo
 man vielleicht nur unsere treue Mathilde als Hüterin
 des Hauses vermutete, einzubrechen?! — Nein, — nichts
 <@pagebreak/>
-davon, denn wir hatten rote Handwerker, außerdem war
+davon, denn wir hatten noch Handwerker, außerdem war
 Harald nunmehr so vorsichtig gewesen, zwei sehr scharfe,
 auf den Wann dressierte deutsche Schäferhunde anzuschaffen,
 die unserer Köchin bereits aufs Wort gehorchten.
 
-Eine halbe Stunde verging. Frau Harst seufzte wieder«
-Gott, und ich konnte ihr das nicht verdenken. Schlafende
+Eine halbe Stunde verging. Frau Harst seufzte wiederholt,
+und ich konnte ihr das nicht verdenken. Schlafende
 zu markieren wird mit der Zeit langweilig. Dann schrillte
 im Büro wiederholt das Telephon, verstummte, meldete sich
-nach; fünf Minuten abermals, gleichzeitig erschlug die Stunde
-Uhr hier im Eßzimmer eins. Wieder verstrich eine geraume
-Weile. Nun läutete es an der Haustür Sturm. Harald für
-flüsterte: »Niemand regt sich!! Das. sind Sturmzeichen!« Frau
-Harst stöhnte, Sie tat mir. sehr leid. Und tadellose englische
+nach fünf Minuten abermals, gleichzeitig schlug die Standuhr
+hier im Eßzimmer eins. Wieder verstrich eine geraume
+Weile. Nun läutete es an der Haustür Sturm. Harald flüsterte:
+»Niemand regt sich!! Das sind Sturmzeichen!« Frau
+Harst stöhnte. Sie tat mir sehr leid. Und tadellose englische
 Riesenaustern so zu verderben, war auch eine Gemeinheit.
 
 Der, der in der Haustür Einlaß begehrte, gab die
-Sache endlich auf, und, die Flurglocke schwieg. Tag war
-… bereits ganz nervös geworden.
+Sache endlich auf, und, die Flurglocke schwieg. Ich war
+bereits ganz nervös geworden.
 
 Abermals Stille.
 
-Wir hörten nur draußen in der Breiten Straße Ei?
-bedingte Bahn vorüberrattern und- ein paar Autohupen.
+Wir hörten nur draußen in der Breiten Straße die
+elektrische Bahn vorüberrattern und ein paar Autohupen.
 
-Dann ging es mir wie ein leichter Nu durch der.
-… Leib. Es hatte jemand den von innen steckenden Schlüssel
-der Außentür des Wintergartens heraug2gestoßen. Der
+Dann ging es mir wie ein leichter Ruck durch den
+Leib. Es hatte jemand den von innen steckenden Schlüssel
+der Außentür des Wintergartens herausgestoßen. Der
 Schlüssel klirrte leise auf dem Zierkies. Der Jemand probierte
 dort nun einen Dietrich, die Tür knarrte und Harald
-griff vorsichtig in die Farbenreich? und hielt etwas in des
-vollen Hand verborgen. Die Tür wurde zugedrückt, bei
-Zierlich knirschte unter schweren Schritten und …
+griff vorsichtig in die Jackentasche und hielt etwas in der
+hohlen Hand verborgen. Die Tür wurde zugedrückt, der
+Zierkies knirschte unter schweren Schritten und …
 
 »Hände hoch, mein Lieber!«
 
 Harsts Stimme klang wie Erz.
 
-Wir schnellten empor. In der Schiebetür zum Dich »2a
-Garten stand ein breitschultriger Kerl mit blaurotem Gegner
+Wir schnellten empor. In der Schiebetür zum Wintergarten
+stand ein breitschultriger Kerl mit blaurotem Gesicht
 und Schifferbart.
 
-»Was machen Sie denn hier?!« fragte er ruhig. »57
-sind Sie!«
+»Was machen Sie denn hier?!« fragte er ruhig. »Wer
+sind Sie?!«
 
 <@pagebreak/>
 »und Sie?!« fragte Harst und trat auf ihn zu.
 
-»Karl Geidel, zu dienen … Das hier Ut mein Kanal,
+»Karl Geidel, zu dienen … Das hier ist mein Haus,
 Sie!! Wenigstens jetzt, solange der Herr Rechtsanwalt verreist
-Ut. Und Ihr Wirtes stecken Sie man wieder ein, Herr!
+ist. Und Ihr Pixtol stecken Sie man wieder ein, Herr!
 Der Karl Geidel fackelt nicht lange, Sie!!«
 
 Das stimmte.
 
-Er hatte sich vorwärts8geshnellt und Harst die Waffe
-aus der Hand geschlagen, bückte sich rasch; und meinte:
-»Sehen Sie »so ’n oller Maat als wie ich wird auch mit
-so seine Gartens fertig.«
+Er hatte sich vorwärtsgeschnellt und Harst die Waffe
+aus der Hand geschlagen, bückte sich rasch und meinte:
+»Sehen Sie, so ’n oller Maat als wie ich wird auch mit
+so feine Herrens fertig.«
 
 »Ich bin Harald Harst,« sagte mein Freund da. »Hier
 scheint beiderseits ein Versehen vorzuliegen.«
 
-»Gott verdamm’ mich …!!« rief der Mann. »Herrn
-Harst?! Und um Block« zwei sollte ich mich bei Ihnen
-Blücherstraße 10 melden!«
+»Gott verdamm’ mich …!!« rief der Mann. »Herr
+Harst?! Und um Glock’ zwei sollte ich mich bei Ihnen
+Blücherstraße 10 melden!!«
 
 <h2>2. Kapitel.</h2>
 
-Steuermann Karl Geidel machte einen … Kratzfuß, holte
-umständlich einen Brief hervor und gab ihn Harald. »Ort
-schuldigen Sie nur, Herr Harst … Davon, daß Sie hier
+Steuermann Karl Geidel machte einen Kratzfuß, holte
+umständlich einen Brief hervor und gab ihn Harald. »Entschuldigen
+Sie nur, Herr Harst … Davon, daß Sie hier
 sein würden, hat der Doktor nichts geschrieben. Überhaupt,
 das war ’ne komische Geschichte, Herr Harst …
-Heu! früh bekam ich erst diesen Eilbrief nach Hamburg,
-und ich; kam Grad« von zum Meorgenzug zurecht. Dem
-Doktor könnt’ ich aber nicht abschlagen, sein Haus zu
-bewachen. Unsere Hätten waren Kollegen, Schiffskapitäne,
-und … —« na lesen Sie man erst, Herr Karl Da im
-Brief ist auch ein Bild von Ihnen drin … —.« Um Bad da
-i8 wohl Herr Schraut?!«
+Heut’ früh bekam ich erst diesen Eilbrief nach Hamburg,
+und ich kam grad’ noch zum Morgenzug zurecht. Dem
+Doktor konnt’ ich aber nicht abschlagen, sein Haus zu
+bewachen. Unsere Väter waren Kollegen, Schiffskapitäne,
+und … — na lesen Sie man erst, Herr Harst. Da im
+Brief ist auch ein Bild von Ihnen drin … Und das da
+is wohl Herr Schraut?!«
 
 »Ja — und meine Mutter …«
 
-»Angenehm — — große Ehre, …«
+»Angenehm — — große Ehre …«
 
 <@pagebreak/>
 »Setzen wir uns, Herr Geidel … Wie wär’s mit einem
 guten Bissen? Essen Sie Austern?«
 
-»Und ob!! Als Zambärger — und keine Austern, und
-Hunger hab’ ich auch …
+»Und ob!! Als Hambörger — und keine Austern, und
+Hunger hab’ ich auch …«
 
 Er langte wirklich zu, aber bevor er die Auster noch
-schlafen konnte, nahm Harald sie ihm weg. »Greifen Sie
-lieber dort na? dem Schinken, Herr Geidel. Ich glaube,
+schlucken konnte, nahm Harald sie ihm weg. »Greifen Sie
+lieber dort nach dem Schinken, Herr Geidel. Ich glaube,
 die Austern sind nicht mehr ganz frisch.«
 
 »Meinetwegen …«
 
-Er cß, und Harald überflog den Brief und steckte ihn
+Er aß, und Harald überflog den Brief und steckte ihn
 dann zu sich.
 
 »Es hat seine Richtigkeit, Herr Steuermann …«
 
-»Sagen Sie man »Fluß Teiles zu mir … Ich bin
-schlichter Maat
+»Sagen Sie man bloß Geidel zu mir … Ich bin
+’n schlichter Maat …«
 
-»Gut, — also, Ader Geidel, — wie kamen Sie in
+»Gut, — also, lieber Geidel, — wie kamen Sie in
 den Garten?«
 
-»Über die Kirchofsömauer natürlich. Erst hätt’ ich
+»Über die Kirchhofsmauer natürlich. Erst hatt’ ich
 vorn geklingelt, da machte keiner auf, und da bin ich eben
-durch) ’n Garten gekommen und hab’ die Tür vom Wintergarten
+durch ’n Garten gekommen und hab’ die Tür vom Wintergarten
 mit ’n Schlüssel geöffnet, das heißt, hier mit einem
-von meinen Schlüsseln, nachdem ich den anderen raus gestoßen
-hatte. Hier der Schlüssel paßte … Es ist ein müserables
-
+von meinen Schlüsseln, nachdem ich den anderen rausgestoßen
+hatte. Hier der Schlüssel paßte … Es ist ein miserables
 Schloß …« Er klapperte mit seinem Schlüsselring und
 kaute weiter, er hatte eine beneidenswerte Gemütsruhe,
 
-»Haben Sie auch telephoniert?’
+»Haben Sie auch telephoniert?«
 
 »Wo?! Ich?! Nee … Was sollt’ ich telephonieren.
 Ich wollt’ doch unsere Koffer erst mal hier unterstellen und
 dann meine Familie aus der Kneipe nebenan holen …
-Wir sind nun doch hier zu Hause. Eine Dolle Geschichtet?«
+Wir sind nun doch hier zu Hause. Eine dolle Geschichte!!«
 
-»Ja, — in dem Briefe sich’s: Ihre Frau, Ihre Mutter
-und Jahren Vater …«
+»Ja, — in dem Briefe steht’s: Ihre Frau, Ihre Mutter
+und Ihren Vater …«
 
 »Stimmt … Ganz, wie der Herr Doktor es gewollt
 hatte … Oben sollen wir wohnen. Drei Stuben sollen
-da sein. Ich wert« mir nachher alles anseh’n.«
+da sein. Ich werd’ mir nachher alles anseh’n.«
 
 »Und Ihre Koffer?«
 
 <@pagebreak/>
-»Betracht …!!« Er rannte in den Garten hinaus und
-kam mit zwei schäbigen Riesenkoffernzurüc.
+»Herrgott …!!« Er rannte in den Garten hinaus und
+kam mit zwei schäbigen Riesenkoffern zurück.
 
 Derweil hatte Harald zu uns gesagt:
 
@@ -397,46 +403,46 @@ Derweil hatte Harald zu uns gesagt:
 gegessen, und der Brief legitimiert ihn genügend.«
 
 Der Steuermann stellte uns nachher auch seine Angehörigen
-vor, Es waren einfache Leute, die vor Verlegenheit
+vor. Es waren einfache Leute, die vor Verlegenheit
 mehr Bücklinge als Worte machten.
 
 Dann schickte Harald seine Mutter heim.
 
-»Liebe Mama, ich habe hier von mit Geidel manches
-zu besprechen — -.’ Um halb vier sind wir zu Tisch zu
-Bau e.« D —
+»Liebe Mama, ich habe hier noch mit Geidel manches
+zu besprechen … Um halb vier sind wir zu Tisch zu
+Hause.«
 
-Geidel und wir beide saßen von am Eßtisch Seine
+Geidel und wir beide saßen noch am Eßtisch. Seine
 Frau und seine Eltern waren oben in den drei Stuben und
-richteten sich ein. — …
+richteten sich ein.
 
 Harst sagte dem Steuermann, daß ein Teil der Speisen
-präpariert sei. »Werfen Sie also daß Zeug weg …!«
+präpariert sei. »Werfen Sie also das Zeug weg …!«
 
 Geidel fluchte. »Jammerschade!! Wer hat’s getan?!«
 
 »Denn ich das wüßte!«
 
-Frei na, Herr-Harst, —« Sie und nicht wissen, gerade
+»Na na, Herr Harst, — Sie und nicht wissen, gerade
+Sie?!«
 
-t’
-»Liebling nicht. Genau so wenig wie Sie mir sagen
-… können, wohin der Doktor gereist ist.«
+»Wirklich nicht. Genau so wenig wie Sie mir sagen
+können, wohin der Doktor gereist ist.«
 
-»Im — ganz ehrlich: ’ne leise Ahnung habe ich doch!!
+»Hm — ganz ehrlich: ’ne leise Ahnung habe ich doch!!
 Geschrieben hat er mir ja nichts, und gesehen hab’ ich ihn
-— vor zwei Jahren zum letzten Mal … Das war, als ich
+vor zwei Jahren zum letzten Mal … Das war, als ich
 meine Stellung verlor und er mir das Geld lieh, damit wir
 uns das Grundstück kaufen könnten … Nun ist mein
 Sohn mit seiner jungen Frau dort allein.« Er runzelte die
 Stirn. »War ’ne Heirat gegen unsern Wunsch, Herr Harst …
-Der Bengel hätt’ von warten können … So ’n? Aus
-länd’sche, die paßt nicht rein in unsre Familie, und nun,
-ist dauernd Stunk und Krach. Das wußte auch Gudor, und!
-deshalb stellte er mir’s anheim, meine Frau und wenige
+Der Bengel hätt’ noch warten können … So ’ne Ausländ’sche,
+die paßt nicht rein in unsre Familie, und nun
+ist dauernd Stunk und Krach. Das wußte auch Gudor, und
+deshalb stellte er mir’s anheim, meine Frau und meine
 alten Eltern mitzunehmen … Ich bin ihm sehr zu Dank
 <@pagebreak/>
-verpflichtet. Ein abgetakelter Steuermann, — — das beißt
+verpflichtet. Ein abgetakelter Steuermann, — — das heißt
 heutzutage Hungerpfoten saugen! Wo kriegt man Arbeit, —
 — nirgends! — Wie gesagt, ’ne Ahnung hab’ ich schon,
 wohin er so plötzlich abgedampft sein mag. Ihm gehört
@@ -449,7 +455,7 @@ doch Jellarong.«
 »Allerdings …«
 
 »Und die Inselgruppen zwischen Java und Sumatra?
-—» Da liegt Jellarong, und es ist ein Inselchen etwa so
+— Da liegt Jellarong, und es ist ein Inselchen etwa so
 groß wie Rügen, und er hat’s von seinem Vater geerbt.
 Wie der mal dazu gekommen ist, weiß ich nicht. Auf Jellarong
 gibt es eine große Plantage. Ich denke immer, dorthin
@@ -475,131 +481,131 @@ sehr gut kennen.«
 »Wir kennen uns erst genau sechs und einen halben
 Tag.«
 
-»Was?! Erst … — — aber daß kann ja nicht sein!«
+»Was?! Erst … — — aber das kann ja nicht sein!«
 
 »Ist so, lieber Geidel. — Jetzt muß ich aber mit Schraut
 heim … Meine Mutter wartet mit dem Mittag. —
-Abends kommen wir wieder her zu einem Plauderstünden.«
+Abends kommen wir wieder her zu einem Plauderstündchen.«
 
 Wir bogen in die Kunostraße ein.
 
 »Irgend etwas ist hier im Gange,« meinte Harald und
-sog nachdenklich an seiner Zigarette. »Über was, mein Alter«?!
+sog nachdenklich an seiner Zigarette. »Aber was, mein Alter?!
 <@pagebreak/>
 Geidel und die Seinen sind einwandfrei. Gudor ebenso.
-Wer also hat die Austern und das andere präpariert?
+Wer also hat die Austern und das andere präpariert?«
 
-Rechter Hand in der Kunostraße zieht sich; das weite
+Rechter Hand in der Kunostraße zieht sich das weite
 Laubengelände hin, das auch bis zu unserem Grundstück
-reicht und das ich hier so oft erwähnt Haube. Linker Hand
-liegt freies Bauterrain, erst später Beginn die große Siedlung
-der Reichsbank, die aritektonis; durchaus zu dem
+reicht und das ich hier so oft erwähnt habe. Linker Hand
+liegt freies Bauterrain, erst später beginnt die große Siedlung
+der Reichsbank, die architektonisch durchaus zu dem
 Villenstil der anderen Nachbarbauten paßt.
 
-Ich weite etwas erwidern, das sich auf Geidels
-Co-Hwiegertodjter bezog, aber ein schrilles Summen — so,
+Ich wollte etwas erwidern, das sich auf Geidels
+Schwiegertochter bezog, aber ein schrilles Summen — so,
 als ob eine große Wespe an meinem Ohr vorbeigeflogen
 wäre, und ein leiser Aufschrei Haralds ließ mich verstummen.
 
-Weber Harsts Genick 3o0g sich eine rote Furche hin …
+Über Harsts Genick zog sich eine rote Furche hin …
 
 Er setzte schon über die Straße, sprang über einen
 Zaun eines Laubengrundstücks und … warf sich lang hin.
 
 Ich hatte ebenso rasch hinter einem Baum Deckung genommen.
-Ich sah Tier Mann mit einem kurzen Gewehr
-drüben hinter einem Laubenhä3u8hen verschwinden … Dann
-splitterte dicht über Sir die Baumrinde ab, und ich zog
+Ich sah einen Mann mit einem kurzen Gewehr
+drüben hinter einem Laubenhäuschen verschwinden … Dann
+splitterte dicht über mir die Baumrinde ab, und ich zog
 den Kopf zurück und machte mich ganz dünn. —
 
-Zehn Minuten später waren wir daheim. Der Süße
-war uns entgangen, »obwohl eine Unzahl Kleingärtner uns
+Zehn Minuten später waren wir daheim. Der Schütze
+war uns entgangen, obwohl eine Anzahl Kleingärtner uns
 suchen half, denen Harald nur von einem leichtfertigen
 Teschingschützen erzählte, was sie auch glaubten, da niemand
-einen Knall gehört hatte. Wir auch nicht. Ein Lehrling
+einen Knall gehört hatte. Wir auch nicht. Ein Tesching
 knallt wenig, ein Luftgewehr gar nicht. Man sollte die
 Fabrikation von Luftgewehren mit so starker Durchschlagskraft
-verbieten, aber Amerika »als Berstellerland hat übergenug
+verbieten, aber Amerika als Herstellerland hat übergenug
 mit den Alkoholschmugglern zu tun.
 
-Harsts Streifschuß war mit einem Pflaster abgetan, …
-obwohl Frau Harst ist einen regelrechten Verband war.
-Bei Tisch machte sie fett: Hehl daraus, daß Gudor nach
+Harsts Streifschuß war mit einem Pflaster abgetan,
+obwohl Frau Harst für einen regelrechten Verband war.
+Bei Tisch machte sie kein Hehl daraus, daß Gudor und
 Astrid bei ihr viel an Sympathie eingebüßt hätten. Sie
-hatte eben Angst um ins, und die war berechtigt. Es
+hatte eben Angst um uns, und die war berechtigt. Es
 <@pagebreak/>
-gab geladene Seezunge zu Mittag, und Harald aß mit
+gab gebackene Seezunge zu Mittag, und Harald aß mit
 blendendem Appetit. »Der Kerl schießt miserabel,« meinte
-er. »Es waren höchstens dreißig Schritt, und wer da vordere
-krallt, ist ein GSaujchütze.« Als die dichte Mathilde den
+er. »Es waren höchstens dreißig Schritt, und wer da vorbeiknallt,
+ist ein Sauschütze.« Als die dicke Mathilde den
 Mandelpudding brachte, hatten wir den Fall Gudor bereits
-Sanskrit Frau Harst nach allen Seiten hin erörtert, und das
-einzige, das dabei herauskam, war« eine telephoniscpe Anfrage
+mit Frau Harst nach allen Seiten hin erörtert, und das
+einzige, das dabei herauskam, war eine telephonische Anfrage
 bei einem Hamburger Freunde, der nach zwei Stunden
 seinerseits anrief und antwortete, daß alles seine Richtigkeit
 habe: Karl Geidel, Frau und Eltern seien nach Berlin
-gereist, und nur der junge Geidel nebst Gattin, — seines
-Drogist, seien daheim.
+gereist, und nur der junge Geidel nebst Gattin, seines
+Zeichens Drogist, seien daheim.
 
 Es blieb mithin nur eins: Abwarten!
 
 Die Dinge befanden sich offenbar im Anfangsstadium,
 und selbst Harald betonte, er tappe vollkommen im Dunkeln,
-sicher sei nur, daß der Süße dieselbe Person sei, die öde
-Speisen mit General gewürzt habe, damit wir einschliefen.
+sicher sei nur, daß der Schütze dieselbe Person sei, die die
+Speisen mit Veronal gewürzt habe, damit wir einschliefen.
 Dieselbe Person mußte auch so energisch telephoniert haben,
-natürlich um zu prüfen, ob wir drei rote munter seien.
+natürlich um zu prüfen, ob wir drei noch munter seien.
 
-Es war nun halb sechs nachmittags geworden, und wie
-Kranken in Haralds Arbeitszimmer Kaffee. Die Einteilung
-der Räume im neuen Heim war fast genau dieselbe wi?
+Es war nun halb sechs nachmittags geworden, und wir
+tranken in Haralds Arbeitszimmer Kaffee. Die Einteilung
+der Räume im neuen Heim war fast genau dieselbe wie
 früher. Die Zimmer waren lediglich größer, und einige
-praktisch? Einrichtungen gewährleisteten uns größere Sicher«.
-bei! und die Möglichkeit, unbemerkt zu verschwinden und
+praktische Einrichtungen gewährleisteten uns größere Sicherheit
+und die Möglichkeit, unbemerkt zu verschwinden und
 unbequeme Besucher unbemerkt verschwinden zu lassen. Davon
 später Näheres. — Mathilde hatte zum Kaffee Kartoffelpuffer
-gelegen, und ich »ß wie immer Zu viel davon und
-mußte Natron nehmen. Harald hatte ein steifes Gen
-und wirkte nicht seinen Kopfbewegungen etwas komisch. Er
-Bett »irren Riesenatlas auf den Knien und suchte die Insel
-Jellarong, fand sie aus und sprach mancherlei über unsere
-gitizdis;en Erinnerungen.
+gebacken, und ich aß wie immer Zu viel davon und
+mußte Natron nehmen. Harald hatte ein steifes Genick
+und wirkte mit seinen Kopfbewegungen etwas komisch. Er
+hielt einen Riesenatlas auf den Knien und suchte die Insel
+Jellarong, fand sie auch und sprach mancherlei über unsere
+ostindischen Erinnerungen.
 
-Dann meldete sich das Telephon und störte mich kg
-meinen Fuchsigen, die ich zwecks bessere Betonung des
+Dann meldete sich das Telephon und störte mich in
+meinen Kniebeugen, die ich zwecks besserer Verdauung der
 <@pagebreak/>
 Puffer mit Nachdruck ausführte. Es war der Steuermann,
 der sich meldete. Er erklärte, er bliebe keine Stunde länger
 in der verwünschten Villa … Es sei unerhört von Gudor,
 hier harmlose Menschen in ein Haus zu locken, in dem der
-Teufel los sei!. Wir möchten doch sofort hinkommen.
+Teufel los sei. Wir möchten doch sofort hinkommen.
 
-» Unsere beiden Schäferhunde mit den ernsten klugen
+Unsere beiden Schäferhunde mit den ernsten klugen
 spitzen Köpfen hießen Brutus und Cassius. Brutus nahmen
-wir mit, was Cassius sehr kränkte. im
+wir mit, was Cassius sehr kränkte.
 
 Wir benutzten wieder die Kunostraße, dann jedoch die
-Kirchofsmauer, und ich reichte Brutus hinüber. Die Trieb« …
+Kirchhofsmauer, und ich reichte Brutus hinüber. Die
 Friedhofspforte war bereits geschlossen.
 
-Der Friedhof hinter und neben dem uralten Dorstirlein,
+Der Friedhof hinter und neben dem uralten Dorfkirchlein,
 das in seiner Art eine Sehenswürdigkeit ist, enthält
-viele alte Erbbegräbnisse, ist sehr zaudernd schon gG
-halten und steigt nach Süden zu ein wenig an. Wir Übers
-kletterten die zweite Mauer nach dem Gudorschen Garten
-hin, nachdem wir noch das Serviette Erbbegräbnis, einen
-schritten tempelartigen Bau zwischen zwei größeren ähnlichen
+viele alte Erbbegräbnisse, ist sehr sauber und schön gehalten
+und steigt nach Süden zu ein wenig an. Wir Überkletterten
+die zweite Mauer nach dem Gudorschen Garten
+hin, nachdem wir noch das Harstsche Erbbegräbnis, einen
+schlichten tempelartigen Bau zwischen zwei größeren ähnlichen
 Mausoleen, besucht hatten.
 
 Als wir so in den Garten der Villa gelangt waren, nahm
-Harst den Hund an. die Leine. Es war bereits dunkel, und
-der völlige Himmel drohte mit Regen. Im Wintergarten,
+Harst den Hund an die Leine. Es war bereits dunkel, und
+der wolkige Himmel drohte mit Regen. Im Wintergarten,
 dessen Glaswände vergittert waren, schimmerte Licht. Wir
 standen vor der Glastür auf der Steintreppe und konnten
 bis ins Speisezimmer sehen. Vor dem unmodernen hohen
 Mahagonibüfett kniete ein Mann mit einem schwarzen
 Spitzbart, der einen braunen Filzhut und einen dunklen
-jagen Ulster trug. Es war unfehlbar der Luftgewehrdhütze.
+kurzen Ulster trug. Es war unfehlbar der Luftgewehrschütze.
 
 »Du bleibst mit dem Hunde hier,« ordnete Harald an.
 »Ich werde an der Haustür läuten. Tritt dort hinter
@@ -608,107 +614,107 @@ knalle ihm in die Beine. Er hat’s verdient.«
 
 Er entfernte sich.
 
-Unser Mann wühlte in den Auszügen des Mittelstücke
+Unser Mann wühlte in den Auszügen des Mittelstücks
 <@pagebreak/>
-des Büfettunterteils. Als im gerade kehrt machen wollte,
-huschte er blitzschnell in das dunkle Herrenzimmer, Ich
-lief rechts um das Haus herum, da ich in! den Weg
+des Büfettunterteils. Als ich gerade kehrt machen wollte,
+huschte er blitzschnell in das dunkle Herrenzimmer. Ich
+lief rechts um das Haus herum, da ich ihm den Weg
 nach der Straße hin zu versperren gedachte. Es erschien
-jedoch niemand — nur Harst, der mich ironisch; anlächelte und
-in den Oöstgarten ging. Die Tür des Wintergartens stand
-weit offen, und der Schwarz? war entwischt.
+jedoch niemand — nur Harst, der mich ironisch anlächelte und
+in den Obstgarten ging. Die Tür des Wintergartens stand
+weit offen, und der Schwarze war entwischt.
 
 »Das hast du sehr geistvoll gemacht,« sagte Harald
 und trat ein.
 
 Im Eßzimmer brannte noch Licht. Das Büfett war durchgewühlt,
-ebenso der GSreibtisch im Herrenzimmer. Die
-tapfere Familie Gondel hatte er oben in der einen Mansardenstube
-verbarrikadiert, und der Steuermann Büchsen
-schließlich mit einem riesigen Revolver in der Hand … Händen
-Wut zeigten sich drei verstörte Gesichter. —
+ebenso der Schreibtisch im Herrenzimmer. Die
+tapfere Familie Geidel hatte sich oben in der einen Mansardenstube
+verbarrikadiert, und der Steuermann erschien
+schließlich mit einem riesigen Revolver in der Hand. Hinter
+ihm zeigten sich drei verstörte Gesichter. —
 
 Die Sache ging hiermit in das zweite Stadium über.
 
 <h2>3. Kapitel.</h2>
 
-Karl Geidel! kamt mit nach unken, Wir setzten uns
+Karl Geidel kam mit nach unten. Wir setzten uns
 ins Herrenzimmer, und Brutus schnüffelte in den anderen
 Zimmern umher.
 
-Des Steuermanns Erzählung war in der Hat meirtwürdig.
+Des Steuermanns Erzählung war in der Tat merkwürdig.
 
 Folgendes war geschehen: Als Frau Therese Geidel, seine
 Frau, im Souterrain in der Küche Kaffee gekocht hatte — so
-gegen halb fünf —, waren mit einem Male drei Laut«
-in der Küche erschienen, die ihm bar falsche Bärte, graue
-Brillen und Schlapphüte sehr ungeschickt markiert hatten.
+gegen halb fünf —, waren mit einem Male drei Leute
+in der Küche erschienen, die sich durch falsche Bärte, graue
+Brillen und Schlapphüte sehr ungeschickt maskiert hatten.
 Im übrigen trugen sie ganz moderne Frühjahrsulster, Beinkleider
 mit scharfen Bügelfalten und Lackschuhe mit grauen
-Gamascgyen, in den Krawatten als Nadeln eine Perle und
+Gamaschen, in den Krawatten als Nadeln eine Perle und
 <@pagebreak/>
 weiße waschlederne Handschuhe. Der eine hatte Frau Therese
-beinahe höflich, wenn auch energisch; erklärt, sie solle sich
-wieder nach oben begeben und dort bleiben und nicht einer
-durch ein Fenster um Hilfe rufen, sonst bekäme jeder »nie
-Kugel … »Meine Frau kam halbtot vor Schreck ehrt
+beinahe höflich, wenn auch energisch erklärt, sie solle sich
+wieder nach oben begeben und dort bleiben und nicht etwa
+durch ein Fenster um Hilfe rufen, sonst bekäme jeder eine
+Kugel … »Meine Frau kam halbtot vor Schreck oben
 an, Herr Harst, und als ich dann trotzdem mich bis zur
-Treppe wagte, trabte es unten im Flur — und hier
-sehen Sie das Kugelloch in meinem Verwest. Ich habe
-von Glück gehabt. Erst nach anderthalb Stunden entzog
-wagte ich mich wieder aus der Stube heraus und gehorcht
-auch gültig hier ins Herrenzimmer zum Telephon und
-rief sie an. Ich beeilte mich, und es war auch höchste Zeit;
-denn als ich kaum auf der Treppe war, erschien ein Vers
-im Flur und knallte wieder hinter mir her … Meine Nichts
-will nun sofort wieder abreisen, und meine Eltern, Vogels
-sie anno noch so rüstig sein, haben genau so große Freies
-Ich wollte schon die Polizei benachrichtigen, aber ich Regatta
+Treppe wagte, knackte es unten im Flur — und hier
+sehen Sie das Kugelloch in meinem Ärmel. Ich habe
+noch Glück gehabt. Erst nach anderthalb Stunden etwa
+wagte ich mich wieder aus der Stube heraus und gelangte
+auch glücklich hier ins Herrenzimmer zum Telephon und
+rief Sie an. Ich beeilte mich, und es war auch höchste Zeit,
+denn als ich kaum auf der Treppe war, erschien ein Kerl
+im Flur und knallte wieder hinter mir her. Meine Frau
+will nun sofort wieder abreisen, und meine Eltern, mögen
+sie auch noch so rüstig sein, haben genau so große Angst.
+Ich wollte schon die Polizei benachrichtigen, aber ich mochte
 ohne Sie nichts unternehmen, Herr Harst.«
 
-Brutus hatte sich) inzwischen zu meinen Füßen räcde2ck
-getan, den Kopf auf die Pfoten gelegt, starrte jedoch fort?
-gesetzt in das helle Eßzimmer hinein und hatte die groß
+Brutus hatte sich inzwischen zu meinen Füßen niedergetan,
+den Kopf auf die Pfoten gelegt, starrte jedoch fortgesetzt
+in das helle Eßzimmer hinein und hatte die großen
 Ohren schräg nach vorn gestellt. Irgend etwas war da im
 Eßzimmer oder im Wintergarten noch immer nicht in Ordnung.
 Der Hund war sichtlich mißtrauisch. Harald beobachtete
 ihn ebenfalls und sagte leise, indem er die Clement entsichert
-in den Schoß legte«
+in den Schoß legte:
 
-»Ich habe gewiß volles Vertrauen zu unserer Dolch. 35
-glaube jedoch im Sinne Gudors zu handeln, wenn t5 sich?
-vorläufig aus dem Spiele lasse. — Schraut und ich wendete
-Hierher übersiedeln, lieber Geidel, vor«; heute, Oder leer,
+»Ich habe gewiß volles Vertrauen zu unserer Polizei. Ich
+glaube jedoch im Sinne Gudors zu handeln, wenn ich sie
+vorläufig aus dem Spiele lasse. — Schraut und ich werden
+Hierher übersiedeln, lieber Geidel, noch heute. Oder besser,
 wir bleiben gleich hier.«
 
-»Gott sei Dank!« nie? der Steuermann. »Ich bin des
-Feigling, Herr Harst … Aber diese Räuberbude her, — —
-und die Schufte schicken mit Luftpistolen … — arm Schreck
-Bleiche auch vernünftig werden.« — Sein blaurotes Geiste
+»Gott sei Dank!« rief der Steuermann. »Ich bin kein
+Feigling, Herr Harst … Aber diese Räuberbude hier, — —
+und die Schufte schießen mit Luftpistolen … — nun wird
+Therese auch vernünftig werden.« — Sein blaurotes Gesicht
 <@pagebreak/>
 strahlte, und die klaren scharfen Augen unter dem dicken
-Vorhang »borstiger Brauen blitzten kampflustig. »Wir werden
-die Kerle schon kriegen, hol’s der Satan!! Die suchen darin
-sicher irgendwas … Gestohlen ist nichts … Hatte Perser
+Vorhang borstiger Brauen blitzten kampflustig. »Wir werden
+die Kerle schon kriegen, hol’s der Satan!! Die suchen doch
+sicher irgendwas … Gestohlen ist nichts … Echte Perser
 und Silberzeug gibt’s hier genug.«
 
 »Natürlich suchen sie etwas,« nickte Harald. »Mal eine
 Frage, Geidel … Ihre Schwiegertochter soll eine »Ausländische«
-sein. »x Wie meinten Sie das?«
+sein. Wie meinten Sie das?«
 
-»Na, ’ne Holländerin ist’s, aber mit ’in Schuß Javanenblut
-in den Adern … Mir Zeug habt se zufällig kennengelert
-in Bonbons, Herr Harst … Bonne war sie bei ’ner
-reichen Familie, — ein Satan ist’s, ein scheinhetiger, mit
-schwarzen Augen und roten Lippen ruft ’ner Haut wie ganz
-hellbrauner Gauner.«
+»Na, ’ne Holländerin ist’s, aber mit ’n Schuß Javanenblut
+in den Adern … Min Jong hadd se zufällig kennengelert
+in Hambörg, Herr Harst … Bonne war sie bei ’ner
+reichen Familie, — ein Satan ist’s, ein scheinheiliger, mit
+schwarzen Augen und roten Lippen und ’ner Haut wie ganz
+hellbrauner Sammet.«
 
-»Eine Holländerin, …! So … so … Hat sie mal
+»Eine Holländerin …! So … so … Hat sie mal
 über Jellarong gesprochen?«
 
 »Und ob!! Und ob!! Ihre Mutter wohnte ja auf Jellarong,
-und ihr Vater war einer von des Doktors Plantagen
-Ausschau …«
+und ihr Vater war einer von des Doktors Plantagenaufsehern
+…«
 
 »Das ist ja sehr interessant, sehr … — Hallo, — —
 was gibt’s Brutus?«
@@ -717,97 +723,97 @@ Der Hund war mit ein paar Sätzen im Speisezimmer
 und beim Speisenaufzug. Harst lief ihm nach … Brutus
 knurrte, und wir hörten noch, wie der Speisenaufzug unten
 in der Küche hart aufstieß. Er war geräumig genug, einen
-Menschen in gehalten Haltung aufzunehmen. Geidel und
+Menschen in geduckter Haltung aufzunehmen. Geidel und
 ich stürmten auf Harsts Zuruf mit Brutus in das Souterrain,
-wir fanden aber nur noch die Kellertür angelehnt vor, Der
+wir fanden aber nur noch die Kellertür angelehnt vor. Der
 Hund raste zur Kichhofsmauer und bellte wütend.
 
 Wir waren fraglos belauscht worden. Die Leute, die
 hier irgend etwas suchten, waren kühn und schlau und
 als Gegner nicht zu unterschätzen.
 
-Wir kehrten ins Haus … zurück. Harst saß im Plüschsessel
-aß Ofen des Herrenzimmers und trank ein Glas Not
-Wein.
+Wir kehrten ins Haus zurück. Harst saß im Plüschsessel
+am Ofen des Herrenzimmers und trank ein Glas Rotwein.
 
 <@pagebreak/>
-»Ich habe soeben meiner Mutter telephonist?) Bescheid
+»Ich habe soeben meiner Mutter telephonisch Bescheid
 gesagt,« meinte er. »Mathilde wird uns das Nachtzeug und
-Sonstiges bringen. — Die drei haben Nachtschlüssel zu den
-Türen. Holen Sie noch schnell aus dem Eisengestell drüben
+Sonstiges bringen. — Die drei haben Nachschlüssel zu den
+Türen. Holen Sie noch schnell aus dem Eisengeschäft drüben
 ein paar starke Eisenkrampen und Schlüssel, Geidel. Hier
-ist Geld. Wir müssen überall, von innen noch Vorlegeschlösser
-anbringen. Beeilen Sie sich … Sie können ohne.
+ist Geld. Wir müssen überall von innen noch Vorlegeschlösser
+anbringen. Beeilen Sie sich … Sie können ohne
 Hut über die Straße laufen.«
 
 Geidel sagte nur: »Das hätte ich sowieso getan …«
-Harald streichelte Brutus schönen Kopf.
+
+Harald streichelte Brutus’ schönen Kopf.
 
 »Die Affäre Gudor macht sich, mein Alter!! Schade nur,
 daß alles so haltlos in der Luft schwebt … Der einzige
 Angriffspunkt ist die Schwiegertochter Geidels. Ich werde
 unseren Hamburger Freund ins Vertrauen ziehen. Diese
-Holländerin muß überwacht werden. Ich bin ein Feind alt
+Holländerin muß überwacht werden. Ich bin ein Feind all
 jener sogenannten Kombinationen, die zum Beispiel aus dem
 bisherigen Material herausklügeln wollten, daß auf der
-Insel irgendwo Schätze liegen, um die es hier gehen könnte,
+Insel irgendwo Schätze liegen, um die es hier gehen könnte.
 Gewiß, man findet dort auf den Inseln zuweilen auch Diamanten,
-aber diese Lösung wäre nur zu alltäglich, Alters
-allerdings, wir haben’s ja selbst erlebt, daß immer noch dieser
+aber diese Lösung wäre nur zu alltäglich. allerdings,
+wir haben’s ja selbst erlebt, daß immer noch dieser
 an sich verbrauchte Romanstoff in Wirklichkeit vorhanden ist.
 Old Crack, dem du letztens vier Bände gewidmet hast, besaß
-eine Bananen in einer Höhle, aber das war schließlich in
-Alaska, … einem typischen Goldleiste, und Niederländisch-Indien
+eine Bonanza in einer Höhle, aber das war schließlich in
+Alaska, einem typischen Goldlande, und Niederländisch-Indien
 ist dazu ausgesprochenes Diamantengebiet wie etwa Südafrika.
-Immerhin: Es könnte. der Fall sein, daß Gudors
+Immerhin: Es könnte der Fall sein, daß Gudors
 Vater, der verstorbene Kapitän und Vorbesitzer der Insel,
 vielleicht eine Diamantenmine entdeckte, eine Zeichnung über
-deren Lage anfertigte und nicht mehr dazu kam, … dem Sohn
+deren Lage anfertigte und nicht mehr dazu kam, dem Sohn
 hiervon Mitteilung zu machen. Es können aber andere davon
 gewußt haben, und die suchen nun diese Zeichnung, die —
 vielleicht!! — von Udo Gudor gerade heute früh zufällig
-gefunden warne, woraufhin er Hals über Kopf eben ab
+gefunden wurde, woraufhin er Hals über Kopf eben abreiste.
 <@pagebreak/>
-reiste. So wäre diese plötzliche Reise einigermaßen zufriedenstellend
+So wäre diese plötzliche Reise einigermaßen zufriedenstellend
 erklärt.«
 
-»Das stimmt! Und weshalb sollten diese Sclußfolea
-eingedrungen nicht entfernen, Harald?!« Ich war ganz begeistert
+»Das stimmt! Und weshalb sollten diese Schlußfolgerungen
+nicht zutreffen, Harald?!« Ich war ganz begeistert
 von dieser Lösung.
 
--Harst wehrte lächelnd ab. »Weil da ein Widerspruch
+Harst wehrte lächelnd ab. »Weil da ein Widerspruch
 vorhanden, mein Alter. Die drei Gegner hier beobachten
 Gudor schon längere Zeit, mindestens seit seiner Übersiedlung
-hierher. Sie haben Zeit gehabt, sich Nacyslüssel zu Vers
-schaffen. Mithin wären sie ihm wohl gefolgt und nicht hier
-geblieben. Gerade weil sie hier blieben, weil sie das Katers
-Frühstück präparierten, um in Ruhe alles durh&gsuchen zu
-können, weil sie weiterhin uns beide« gern abtun möchten,
-haben sie es nicht auf eine Starker einer phantastischen
-Mine abgesehen, und Gudor mit vorn Seinen ist nicht nach
+hierher. Sie haben Zeit gehabt, sich Nachschlüssel zu Verschaffen.
+Mithin wären sie ihm wohl gefolgt und nicht hier
+geblieben. Gerade weil sie hier blieben, weil sie das Katerfrühstück
+präparierten, um in Ruhe alles durchsuchen zu
+können, weil sie weiterhin uns beide gern abtun möchten,
+haben sie es nicht auf eine Skizze einer phantastischen
+Mine abgesehen, und Gudor mit den Seinen ist nicht nach
 Asien unterwegs — und wenn, dann niemals der Diamanten
 wegen. Nein, das für die drei Wertvolle steckt noch irgendwo
-hier in diesen Möbeln. Damit will ich nicht sagen, dort
+hier in diesen Möbeln. Damit will ich nicht sagen, daß
 des Steuermanns Schwiegertochter nicht bei alledem beteiligt
 ist und daß die Insel nicht doch eine gewisse Rolle
 spielt. Aber — diese Fragen sind vorläufig unmöglich zu
-klären Wir sind ja nicht Sherlock Holmes mit Signore
-Stummeln, Hosenknöpfen und angebissenen Verkehr, aus
-denen man alles herausliest. Das ist mild gesagt Blödsinn,
-Wir sind im Grunde nichts als äußerst phantastisch?) arbeitende
-Zivilpolizisten, um den gräßlichen Ausdruck Detektiv?! er
-vermeiden. Wir haben reiche? Erfahrungen, wir bauen die
-sogenannte »Theorie« sehr nüchtern und logisch auf, Hals
-ein Baugrund vorhanden, der hier roch fehlt.«
+klären. Wir sind ja nicht Sherlock Holmes mit Zigarrenstummeln,
+Hosenknöpfen und angebissenen Äpfeln, aus
+denen man alles herausliest. Das ist mild gesagt Blödsinn.
+Wir sind im Grunde nichts als äußerst phantastisch arbeitende
+Zivilpolizisten, um den gräßlichen Ausdruck Detektive zu
+vermeiden. Wir haben reiche Erfahrungen, wir bauen die
+sogenannte »Theorie« sehr nüchtern und logisch auf, falls
+ein Baugrund vorhanden, der hier noch fehlt.«
 
-Hart Geidel kehrte mit den Schlössern und Plumper
-zurück?. Er düstere etwas nach Psessermtnzlikör. Eine Kneipe
-war auch in der Nähe, und seine eine Gegenteil? war
-verdächtig bis. Er hatte wohl goß einen Labetrunk eingekauft,
-und er gab das auch ruhig zu. »Pfefferminz ist für tuscheln,
+Karl Geidel kehrte mit den Schlössern und Krampen
+zurück. Er duftete etwas nach Pfefferminzlikör. Eine Kneipe
+war auch in der Nähe, und seine eine Hosentasche war
+verdächtig dick. Er hatte wohl noch einen Labetrunk eingekauft,
+und er gab das auch ruhig zu. »Pfefferminz ist für uns
 <@pagebreak/>
-meine Herren … Auch Therese und meine Eltern
-sind nicht abgeneigt …
+Medizin, meine Herren … Auch Therese und meine Eltern
+sind nicht abgeneigt …«
 
 Dann stapfte er nach oben, um die Seinen zu beruhigen.
 
@@ -817,108 +823,106 @@ irgend etwas zum Abendessen zubereiten dürfe.
 »Später,« nickte Harald.
 
 Sie war eine verblühte, blasse Frau mit etwas rotem
-Maschen.
+Näschen.
 
 Wir halfen Geidel beim Befestigen der Vorlegeschlösser,
 und Harald sicherte besonders gut die beiden Hintertüren,
 also die des Souterrains und des Wintergartens, prüfte auch
 Überall die Gitter und ließ Brutus im Garten.
 
-Um halb angeht kam Mathilde mit einem Auto und einem
+Um halb acht kam Mathilde mit einem Auto und einem
 Koffer. Sie war übelster Laune, da sie uns zum Abendbrot
 Kalbsleber hatte vorsetzen wollen.
 
-— Die Wirtschaft jetzt genau so verrückt los wie
-Früher in unser altes Laus … «« -. damit verabschiedete
-sie sich.-«
+»… Die Wirtschaft jeht jenau so verrückt los wie
+Früher in unser altes Haus …« — damit verabschiedete
+sie sich.
 
-Es — hatte sich abends aufgeklärt. Der Mond schien
+Es hatte sich abends aufgeklärt. Der Mond schien
 in den Garten hinab, und wir wanderten dort hin und
-her und schauten uns den Stall an und den Element
+her und schauten uns den Stall an und den kleinen
 Pavillon, der verschlossen war und zum Teil zerbrochene
 Fenster hatte. Er lehnte sich mit der Rückseite genau wie der
-Stall an die Kichhofsmauer, Harst öffnete die Tür mit dem
-Patentdietrich… Innen standen Gartenmöbel, eine Leiter und
+Stall an die Kichhofsmauer. Harst öffnete die Tür mit dem
+Patentdietrich. Innen standen Gartenmöbel, eine Leiter und
 Gartengeräte. Der Boden war mit welken Blättern bedeckt,
 die durch die zerbrochenen Fenster hineingeweht waren.
 
-»Manchmal stiegen Blätter doch überraschend weit,« sagte
-Harald leise und leuchtete den Fliesenboden. ab. »Die nächsten
-Bäume Stelzen acht Meter entfernt, ««
+»Manchmal fliegen Blätter doch überraschend weit,« sagte
+Harald leise und leuchtete den Fliesenboden ab. »Die nächsten
+Bäume stehen acht Meter entfernt …«
 
-Ich horchte aus.
+Ich horchte auf.
 
-»Du mehrere«
+»Du meinst?!«
 
 »Ich meine, daß, diese Blätter uns einen Schritt weiter
-vorwaärt3bringen …
+vorwärtsbringen …«
 
 <@pagebreak/>
 Dann ging er hinaus und schloß wieder ab.
 
 Brutus umschnüffelte den Pavillon. Wir hatten die
+Pistolen entsichert in den Manteltaschen. Daß jemand von
+der Mauer her heimtückisch uns eine Kugel zusenden konnte,
+war so gut wie unmöglich.
 
-Wellen entsichert in den Manteltaschen. Daß jemand von
-Er Mauer her heimtütrisch uns eine Kugel zusenden konnte,
-Tage so gut wie unmöglich.
-» Harald stellte sich neben den Pavillon und Büsche auf
-Wie Mauerkrone, über die sowohl die Ruderten der beiden
+Harald stellte sich neben den Pavillon und blickte auf
+die Mauerkrone, über die sowohl die Rückseiten der beiden
 großen Erbbegräbnisse als auch die des Harstschen hinwegragten.
 
-Er goß mir den Dietrich. »Hole mal die Leiter
+Er gab mir den Dietrich. »Hole mal die Leiter …«
 
-Ah brachte sie aus dein Pavillon herbeigeschleppt. ’karald
-Abhang auf die Mauer und« schritt darauf ein Stück
+Ich brachte sie aus dem Pavillon herbeigeschleppt. Harald
+kletterte auf die Mauer und schritt darauf ein Stück
 entlang, fuchtelte mit den Händen, um Balance zu halten,
-&. der Luft umher, kam wieder herab und meinte:
+in der Luft umher, kam wieder herab und meinte:
 
 »Ein warmer Märzabend!«
 
-»War 71«
+»Warm?!«
 
-»Xa ja, mir ist wann …« Er trug die Leiter weg,
-tut ich grübelte über die Blätter und die Wärme nach
-Leiche Konnten absichtlich auf den Fliesenboden gestreut
-Horizont sein, um Spuren zu verdecken. Über die Wärme?!
-I5 fand es recht kühl.
+»Na ja, mir ist warm …« Er trug die Leiter weg,
+und ich grübelte über die Blätter und die Wärme nach.
+Erstere Konnten absichtlich auf den Fliesenboden gestreut
+worden sein, um Spuren zu verdecken. Aber die Wärme?!
+Ich fand es recht kühl.
 
-». Harald blieb eine ganze Weile im Pavillon. Als er
-Lichter zu mir trat, vernichtete er meine geistreiche Eine
-greise.
-»Bärte wir nicht etwa ein, daß der Fliesenboden eine
-Satz besitzt … Keine Rede?!«
+Harald blieb eine ganze Weile im Pavillon. Als er
+wieder zu mir trat, vernichtete er meine geistreiche Eingebung.
 
-»Schade,« sagte ich, und wir gingen ins Haus, da Trat
+»Bilde dir nicht etwa ein, daß der Fliesenboden eine
+Falltür besitzt … Keine Rede!«
+
+»Schade,« sagte ich, und wir gingen ins Haus, da Frau
 Therese mit ihrer kreischenden Stimme uns zu Tisch rief,
 
 Allerhand Achtung: Sie hatte sich angestrengt. Es gab
-
-ch5 Tagesreise gefüllte Tomaten, dann gebackenen Schinken
-WW saurer Sahne, nachher ein Früchte-Omelette.
+als Vorspeise gefüllte Tomaten, dann gebackenen Schinken
+in saurer Sahne, nachher ein Früchte-Omelette.
 
 Seidel in seiner biederen Bescheidenheit lehnte es ab,
-oft uns 31 speisen. Nur nach Tisch blieb er noch bei uns
-vz Herrenzimmer und half Gudors Rotweinvorrat schädigen.
-Er Pistole viel von seinem Seemannsleben. nur den eine
+mit uns zu speisen. Nur nach Tisch blieb er noch bei uns
+im Herrenzimmer und half Gudors Rotweinvorrat schädigen.
+Er erzählte viel von seinem Seemannsleben, nur den einen
 <@pagebreak/>
 Punkt umging er, weshalb er seinen nassen Beruf aufgegeben
 hatte. Irgend etwas war da nicht in Ordnung, — genau
-wie bei seinen Zähnen. Wenn er lachte, enthüllte er ans
+wie bei seinen Zähnen. Wenn er lachte, enthüllte er eine
 schwarze Stummelreihe.
 
 Gegen halb zehn gähnte er und zog sich nach oben
 zurück.
 
-Wir — beide machten nochmals die Runde durch den
+Wir beide machten nochmals die Runde durch den
 Garten, das Souterrain und den ersten Stock. Brutus war
-tief beleidigt, weil er im Garten bleiben mußte, wo wie
-ihm neben dem Wintergarten eine große Kiste mit Erfolg
-und Seen als Hundehütte aufgestellt hatten. Mithin dursten
-wir annehmen, daß wir eine ruhige Nacht haben würden,
+tief beleidigt, weil er im Garten bleiben mußte, wo wir
+ihm neben dem Wintergarten eine große Kiste mit Stroh
+und Decken als Hundehütte aufgestellt hatten. Mithin durften
+wir annehmen, daß wir eine ruhige Nacht haben würden.
 Das war ein beklagenswerter Irrtum.
 
-r
-<h2>2. Kapitel.</h2>
+<h2>4. Kapitel.</h2>
 
 Der Fall Doktor Gudor ist seinerzeit überhaupt nie
 in die Öffentlichkeit gedrungen. Es sprachen verschiedene
@@ -1318,7 +1322,7 @@ Wir hörten … Plötzlich) ertönte aus dem Schacht des
 Speisenaufzuges das Klirren und Poltern zersplitternden
 Geschirrs.
 
-»Bleib sitzen, mein Alter … I4 habe da eine Lärm falle
+»Bleib sitzen, mein Alter … Ich habe da eine Lärmfalle
 gebaut … (Tun werden. wir nicht mehr belauscht
 werden.«
 
@@ -1415,7 +1419,7 @@ Pflanzen bekannten sogenannten Sternenklaren ansiedeln.
 <@pagebreak/>
 Du hast sie oft genug gesehen, sie haben einen etwa fünf
 Meter langen blaugrünen Saft, an dem oben wie ein
-Lockenhanpt die eigentlichen Ganzen Beginnen. Diese beiden
+Lockenhaupt die eigentlichen Ganzen Beginnen. Diese beiden
 GStangenlianen kreuzen Biß mit den Schäften, und unter
 diesem Kreuzungspunkt ist irgend etwas zu finden …
 zu finden gewesen, mein Alter, denn die Stifte, die die
@@ -1570,7 +1574,7 @@ eins alt« « Wen
 Harald und blickte: Geidel durchdriigend an,«
 Geidel schielte seitwärts, »Hm — ja, — — ich … ich»…
 Hatte eben genug von der Seefahrt … Wenn ich auch
-nicht ganz Landratte geworden bin …- I4 hab’ einen
+nicht ganz Landratte geworden bin …- Ich hab’ einen
 großen Leichter in Hamburg, ganz moderner Kahn ist’s mit
 Motor und so, — und damit verdiene ich sehr gut …
 Und das Grundstück und die. Drogerie werfen auch was ab.
@@ -2595,7 +2599,7 @@ lastete über uns wie eine widerwärtige, fahle Wolke, —
 Die Zeitungen brachten sehr knappe Notizen. Trotzdem
 muß irgendein fremder Zeitungskorrespondent die Wahrheit
 gewittert haben. Das Ausland ereiferte sich über das durchsichtige
-Bertuschungssystem. Unter diesen Umständen lag
+Vertuschungssystem. Unter diesen Umständen lag
 <@pagebreak/>
 sein Grund mehr vor, die Wahrheit aus hier: alle
 sehr zu verschleierte.
