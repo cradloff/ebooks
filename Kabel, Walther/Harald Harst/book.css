@@ -214,3 +214,12 @@ div.kkb {
 .kkb .titel {
 	font-size: x-large;
 }
+/* Werbe-Block "Abseits vom Alltagswege" */
+div.avaband {
+	text-align: center;
+	font-size: small;
+}
+div.avatitel {
+	text-align: center;
+	font-weight: bold;
+}
