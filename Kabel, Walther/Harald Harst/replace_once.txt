@@ -20,6 +20,7 @@
 \bdien\b	dicken
 \b(\d+)[l1i]en\b	$1ten
 \bdom\b	doch
+\bdoM\b	doch
 \bdor!\b	dort
 \bdurchs\b	durch
 \bdürsten\b	dürften
@@ -58,6 +59,7 @@
 \bnicke\b	nickte
 \bober\b	oder
 \bOe	Ö
+\brute\b	ruckte
 \bSähe\b	Sätze
 \bSaß\b	Satz
 \bSchrau!	Schraut
@@ -83,9 +85,11 @@ e\)	ch
 i[cd]\)	ich
 I[cd]\)	Ich
 iM	ich
+Münden	München
 Napitel	Kapitel
-no[cd]\)	noch
+no[cdh]\)	noch
 nod\)	noch
+NochF	Noch
 Nr,	Nr.
 »Ob	»Oh
 …\s-	… —
