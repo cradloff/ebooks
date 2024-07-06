@@ -4,7 +4,7 @@
 
 <div style="font-size: large; text-align: center; margin-bottom: 1em;">von Olaf K. Abelsen</div>
 
-<div style="text-align: justify;">Ein einzigartiges Bild abseits dem üblichen Leben bietet sich
+<div style="text-align: justify; margin-bottom: 1em;">Ein einzigartiges Bild abseits dem üblichen Leben bietet sich
 dem Leser. Abenteuerliches Erleben wechselt in packender Folge
 mit Naturschilderungen von ungeahnter Weite. Menschen, Völker
 und Länder erstehen, von denen wir bisher nur wenig wußten.
@@ -12,38 +12,36 @@ Ein neues Leben, ein Miterleben erfaßt den Leser. Selten ist
 ein Buch erschienen von gleicher Tiefe des Stoffes wie die vorliegenden
 Bändchen.</div>
 
-<div style="margin: 1em; text-align: center;">
-Band 1:
-<div style="font-weight: bold;">Das tote Hirn</div>
-Band 2:
-<div style="font-weight: bold;">Das Geheimnis des Meeres</div>
-Band 3:
-<div style="font-weight: bold;">Mein Freund Coy</div>
-Band 4:
-<div style="font-weight: bold;">Das Paradies der Enterbten</div>
-Band 95.
-<div style="font-weight: bold;">Das Kreuz der Wüste</div>
-Band 6:
-<div style="font-weight: bold;">Die Geisterburg</div>
-Band 7:
-<div style="font-weight: bold;">Chi Api, der Tote</div>
-Band 8:
-<div style="font-weight: bold;">Die Schwurhand der Jossi</div>
-Band 9:
-<div style="font-weight: bold;">Das Herz der Welt</div>
-Band 10:
-<div style="font-weight: bold;">Mein Feind Cordy</div>
-Band 11:
-<div style="font-weight: bold;">Die Oase der Toten</div>
-Band 12:
-<div style="font-weight: bold;">Die Herrin der Unterwelt</div>
-Band 13:
-<div style="font-weight: bold;">Malmotta, das Unbekannte</div>
-Band 14:
-<div style="font-weight: bold;">Die Löwenfarm</div>
-</div>
+<div class="avaband">Band 1:</div>
+<div class="avatitel">Das tote Hirn</div>
+<div class="avaband">Band 2:</div>
+<div class="avatitel">Das Geheimnis des Meeres</div>
+<div class="avaband">Band 3:</div>
+<div class="avatitel">Mein Freund Coy</div>
+<div class="avaband">Band 4:</div>
+<div class="avatitel">Das Paradies der Enterbten</div>
+<div class="avaband">Band 5:</div>
+<div class="avatitel">Das Kreuz der Wüste</div>
+<div class="avaband">Band 6:</div>
+<div class="avatitel">Die Geisterburg</div>
+<div class="avaband">Band 7:</div>
+<div class="avatitel">Chi Api, der Tote</div>
+<div class="avaband">Band 8:</div>
+<div class="avatitel">Die Schwurhand der Jossi</div>
+<div class="avaband">Band 9:</div>
+<div class="avatitel">Das Herz der Welt</div>
+<div class="avaband">Band 10:</div>
+<div class="avatitel">Mein Feind Cordy</div>
+<div class="avaband">Band 11:</div>
+<div class="avatitel">Die Oase der Toten</div>
+<div class="avaband">Band 12:</div>
+<div class="avatitel">Die Herrin der Unterwelt</div>
+<div class="avaband">Band 13:</div>
+<div class="avatitel">Malmotta, das Unbekannte</div>
+<div class="avaband">Band 14:</div>
+<div class="avatitel">Die Löwenfarm</div>
 
-<div style="text-align: justify;">Die Bändchen »Abelsen. Abseits vom Alltagswege« sind durch
+<div style="text-align: justify; margin-top: 1em;">Die Bändchen »Abelsen. Abseits vom Alltagswege« sind durch
 jede Zeitschriftenhandlung zu beziehen. Man erhält dieselben
 auch gegen Voreinsendung v. 50 Pfg. für einen Band portofrei vom</div>
 

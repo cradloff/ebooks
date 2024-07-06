@@ -15,7 +15,7 @@ noch aus dem vorigen Crack-Band wissen dürften. Einige
 Punkte blieben freilich verschleiert. Ein direktes Einverständnis
 mit dem Verbrecher war jedoch nicht nachzuweisen
 gewesen, und da Samuel Warger, damit Maxson uns nach
-der Tanana-Farm begleite, von eine Kaution für ihn
+der Tanana-Farm begleite, noch eine Kaution für ihn
 hinterlegt hatte, war das Verfahren vorläufig eingestellt
 worden. —
 
@@ -41,7 +41,7 @@ Der Wachtmeister war im Nu wieder da. Harst nahm
 die eine Laterne und beleuchtete den mit Wachstuch überzogenen
 Tisch, an dem Maxson seine Socken gestopft hatte.
 Er schob die Petroleumlampe beiseite und deutete auf vier
-quadratische kleine Eindrücke in dem Wandfach.
+quadratische kleine Eindrücke in dem Wachstuch.
 
 »Stuhlbeine, Söterland. Hier hat vor kurzem ein Stuhl
 gestanden. Da — geben Sie mal her. — Sehen Sie,
@@ -77,7 +77,7 @@ Er kniete und schaute in die Feuerung hinein.
 feinen Kombinationen. Erkennen Sie die Asche noch, sie
 hat die Form einer flachen Perücke, und dieser dünne
 Draht gehörte zum Bart, um ihn bequem am Ohr zu
-Befestigen.«
+befestigen.«
 
 »Sie Hund!!« fuhr Söterland den schlotternden Maxson
 an. »Sie haben auf Warger geschossen, und dann sind Sie
@@ -130,23 +130,23 @@ aufgerauchten Zigarre.
 Ich möchte nun meinen Lesern dringend raten, wie stets
 (hoffentlich!) recht sorgfältig auf jede Kleinigkeit zu achten
 und nichts zu überfliegen. Wer den wahren »Crack« herausfinden
-will, bevor die überraschende Losung am Schluß
+will, bevor die überraschende Lösung am Schluß
 jedes weitere eigene Nachdenken überflüssig macht, der beachte
 alles — alles!
 
 Links neben dem Ofen standen hier ein Waschtisch,
-dessen Platte marmorartiq angestrichen war, und das Bett.
+dessen Platte marmorartig angestrichen war, und das Bett.
 Vor dem Waschtisch lag eine jener bunten Binsenteppiche,
 wie die Frauen der Tlinkit-Indianer sie sehr geschmackvoll
 herstellen. Diese Matte war teilweise naß, und auch die
-Waschtischplatte zeigte von Spuren von Feuchtigkeit. In
+Waschtischplatte zeigte noch Spuren von Feuchtigkeit. In
 der Waschschüssel war leicht schmutziges Wasser mit
 Seifenschaumflocken.
 
 Harald nahm das Stückchen Seife aus der Schale. Es
 war feucht.
 
-»Ja, es stimmt,« nie er. »Warger hatte frisch gewaschene
+»Ja, es stimmt,« nickte er. »Warger hatte frisch gewaschene
 Hände.«
 
 »Und das bedeutet?«
@@ -179,7 +179,7 @@ Er zog einen kurzen Karabiner aus dem Klavier, der
 in einem Lederfutteral steckte.
 
 »Das Ding kann man bequem unter den Pelzrock
-knöpfen,« meinte er. »Tut man’s auf dem Rücken, so kann
+knöpfen,« meinte er. »Tut man’s auf den Rücken, so kann
 man getrost mit jemandem im halbdunklen Flur sprechen,
 ohne daß der andere was merkt.«
 
@@ -334,7 +334,7 @@ die Brücke!«
 
 Maxson senkte den Kopf und schien zu überlegen.
 
-»Und wenn ich mich weigere?!« platzte er dann heraus
+»Und wenn ich mich weigere?!« platzte er dann heraus.
 »Sie werden niemals einen Mord begehen …! Und ein
 Mord wäre es, mich hier niederzuknallen. Trotzdem will
 ich gehorchen — — aber nicht mit gefesselten Händen!
@@ -449,7 +449,7 @@ Es ist noch ein Rest darin …«
 Er schmeckte den Rest, prüfte mit der Zunge.
 
 »Wahrhaftig, ich habe statt Brom Veronal genommen.
-Aber das tut nichts, Lieber Tom, Ihr Vater wird vielleicht
+Aber das tut nichts, lieber Tom, Ihr Vater wird vielleicht
 zwölf Stunden wie ein Toter schlafen, dann geben wir
 ihm schwarzen Kaffee, und Sie sollen sehen, wie munter er
 wird … — Wirklich, keine Angst, mein Junge!«
@@ -530,7 +530,7 @@ lange an dem Glück seines Sohnes erfreuen können …«
 Harst seufzte. »Am besten für ihn wäre, er ginge ohne
 Zigarre über die Brücke der Erkenntnis.«
 
-Das war mein Stichwort. Ich rief:
+*Das* war mein Stichwort. Ich rief:
 
 »Harald, eine Frage mußt du mir beantworten … Wie
 kam’s, daß die Kerle draußen nicht auf die beiden Wargers
@@ -542,7 +542,7 @@ weggeworfen, so daß das Signal entstand. Ich weiß es
 nicht. Vielleicht hat auch sein Vater geraucht …«
 
 »Aber — mit *dem* Streifschuß an der Schläfe?! Ich
-Bitte dich!!«
+bitte dich!!«
 
 »Deine Bedenken sind berechtigt … Das ist eine genau
 so dunkle Frage wie die andere: Wo ist die Kugel geblieben,
@@ -601,7 +601,7 @@ habe so eine bleierne Schwere in den Gliedern, und der
 Kopf ist mir so wüst wie … wie nach einem reichlichen
 Zechgelage. Das mag von der Wunde herrühren …«
 
-Er blickte und zerstreut an. Es schien ihm Mühe
+Er blickte uns zerstreut an. Es schien ihm Mühe
 zu kosten, die Augen offen zu halten, und sein Hirn arbeitete
 träge. Er fragte ungläubig: »Belagert, sagten Sie?! Das
 wäre ja eine unglaubliche Frechheit von dem Pack!!«
@@ -698,7 +698,7 @@ aufhetzen lassen. Dieser Lump von Shell müßte doch zu
 »Darüber habe auch ich mir schon den Kopf zerbrochen,«
 sagte Harst grüblerisch. »Shell wird die Leute jedoch allzu
 <@pagebreak/>
-Fest in der Hand haben. Die Stimmung der Bande schlug
+fest in der Hand haben. Die Stimmung der Bande schlug
 erst nach seiner Flucht um. Geld macht viel.«
 
 Warger lachte. »Ja — und ich könnte den Burschen
@@ -807,7 +807,7 @@ verführt, die Feindseligkeiten zu beginnen. Vorhin ist er
 nun entflohen, als ich auch ihm mitteilte, daß wir keine
 Lust hatten, uns für ihn aufknüpfen zu lassen. Damit Sie
 sehen, daß wir es ehrlich meinen, werden wir alle uns
-ans der Nähe der Farm nach Westen bis zum Walde
+aus der Nähe der Farm nach Westen bis zum Walde
 zurückziehen. Ich habe schon die nötigen Befehle erteilt. Die
 Herren dürfen auch getrost bewaffnet erscheinen. Wir wollen
 nur die Gewißheit haben, daß uns nichts geschehen kann
@@ -896,18 +896,18 @@ verantworten.«
 
 Söterland sagte ingrimmig: »Mit Banditen verhandle
 ich nicht. Ihre Annahme, daß wir abgeschnitten sind, ist
-falsch. Zwei meiner Leute und zwar zwei reinblütiger
+falsch. Zwei meiner Leute und zwar zwei reinblütige
 Atchabaska-Indianer, Pfadfinder von größter Erfahrung, sind seit
 einer halben Stunde unbemerkt in weiße Tücher gehüllt
 davongeschlichen, werden sich Renntiere einfangen und können
-uns in spätestens fünf Tage mindestens vierzig Polizeibeamte
+uns in spätestens fünf Tagen mindestens vierzig Polizeibeamte
 zu Hilfe heranführen.«
 
 Warger trat dicht an Söterland heran und gab ihm
 <@pagebreak/>
 die Hand. »Das haben Sie glänzend gemacht — glänzend!
-Söterland, ein Scheck über 50000 Dollar ist Ihnen gewiß.
-Gott sei Dank, — — Sie ahnen nicht, wie ich mich und
+Söterland, ein Scheck über 50&nbsp;000 Dollar ist Ihnen gewiß.
+Gott sei Dank, — — Sie ahnen nicht, wie ich mich um
 Ellen und Tom gesorgt habe. Die Schufte hätten auch Ellen
 nicht geschont!« Er war so freudig erregt, daß er kaum
 sprechen konnte. Dann rief er Setters zu: »Verschwinden Sie!!
@@ -983,7 +983,7 @@ planen.«
 
 Zischend ging die Stabrakete hoch. Aber der Erfolg war
 lediglich ein wahnsinniges Gebrüll, das hinter dem Stapel
-Fässer und dem Riesenberg Steinkohlen hervordrang. Als
+Fässer und dem Riesenberg Steinkohlen hervordrang, wo
 jetzt der rote Schein eines riesigen Feuers den Schnee
 <@pagebreak/>
 weithin beleuchtete und die vereinzelten Kiefern deutlich
@@ -1121,7 +1121,7 @@ und zwei Büchsenläufe bedrohten uns.
 
 Crack lehnte sich an den Türposten und sagte mit derselben
 Stimme, wie auch Maxson sie besaß: »Es tut mir
-leid … Samuel Warger weigert sich, die Scheck auszufüllen,
+leid … Samuel Warger weigert sich, die Schecks auszufüllen,
 und wir haben ihn dementsprechend behandelt. Der
 Vertrag ist also hinfällig geworden.«
 
@@ -1210,12 +1210,12 @@ ich Sie nicht unschädlich gemacht habe. Den Grund hierfür
 werde ich Ihnen nicht nennen, nur eins sage ich Ihnen:
 Wenn Sie sich an Ellen, Schraut oder mir vergreifen,
 leben Sie keine Stunde mehr — mein Ehrenwort darauf.
-Sich kennen mich. Ich pflege nicht zu lügen. Ihr Leben ist
-noch immer in meiner Hand. Richten Sie sich dann.«
+Sie kennen mich. Ich pflege nicht zu lügen. Ihr Leben ist
+noch immer in meiner Hand. Richten Sie sich danach.«
 
 Wargers freches Grinsen war verschwunden. Er blickte
 Harald forschend an. Man merkte, ihm war doch ungemütlich
-zumute. Er fragte: …
+zumute. Er fragte:
 
 »Also Shell weiß, daß ich Crack spielte?«
 

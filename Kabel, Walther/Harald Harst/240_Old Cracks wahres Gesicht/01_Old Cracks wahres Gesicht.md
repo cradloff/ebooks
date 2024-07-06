@@ -810,13 +810,13 @@ brauchte, und so schlich ich denn zur Westseite des Vorratshauses,
 wo eins der Fenster, wie ich wußte, keine Haken
 mehr hatte, sondern nur zugedrückt war. Ich öffnete es
 mit der Messerklinge und legte Schlüssel und Zettel dort
-nieder, wo sie am leisteten gefunden werden konnten. Wenn
+nieder, wo sie am leichtesten gefunden werden konnten. Wenn
 jemand über die Brücke kam, mußte er sie sehen. Mister
-Schraut hat nur noch bemerkt, wie ich das Fenster, (a)
+Schraut hat nur noch bemerkt, wie ich das Fenster (a)
 schloß. — Das ist die Wahrheit. — Etwas möchte ich noch
 erwähnen. Neben dem Schlüssel und dem Zettel auf meinem
 Sofatisch lagen noch Rauchtabakkrümchen von einem hellen
-Grobschnittabak. Ich rauchte nur Zigarren. Aber bei Inspektor
+Grobschnittabak. Ich rauche nur Zigarren. Aber bei Inspektor
 Shell habe ich ähnlichen Tabak gesehen. Dort liegt ja auch
 sein Tabakbeutel.«
 
@@ -860,7 +860,7 @@ Der Wachtmeister, ein riesiger Bursche mit ein paar
 vielsagenden Narben auf der Stirn, zuckte die Achseln.
 
 »Mr. Harst, ich halte hier nicht mit. Der Inspektor ist
-ein Ehrenmann, und, …«
+ein Ehrenmann, und …«
 
 »Halt, — wo ist Shells Karabiner?« rief Harald und
 blickte sich suchend um. »Heute früh stand dort in der Ecke
@@ -916,7 +916,7 @@ Der Riese Söterland war für meinen Geschmack denn
 doch allzu sehr in Rage. Mir erschien seine Aufregung
 etwas erkünstelt. Überhaupt: Ich fand, daß Harald diese
 schwerwiegende Entscheidung mit einiger Übereilung herbeigeführt
-hatte. Am zweifelhaftestem war doch, daß Shell einen
+hatte. Am zweifelhaftesten war doch, daß Shell einen
 Schalldämpfer, bekanntlich ein besonders konstruiertes Aufsatzstück
 für die Gewehrmündung, das den Knall erheblich
 abschwächt, mit sich geschleppt haben sollte. Zumindest hätten
@@ -963,7 +963,7 @@ das Bargeld längst beiseite geschafft haben.
 
 Das stimmte auch.
 
-Dann wurde, das Protokoll abgefaßt, und Harst, der
+Dann wurde das Protokoll abgefaßt, und Harst, der
 Millionär und ich unterschrieben es als Zeugen. Das nahm
 geraume Zeit in Anspruch, und erst gegen halb zwei nachmittags
 konnten wir dem dringenden Mahnen des chinesischen
@@ -1051,7 +1051,7 @@ Eskimos und Tlinkits, die im Angestelltenhause gewohnt
 hatten, sämtlich in die Ebene nach den dortigen Blockhütten
 geschickt worden. Wir wollten keine zweifelhaften
 Elemente in der Festung haben. Freilich: die Aufgabe der
-Posten war sehr schwierig. Man sah nicht die Hand von
+Posten war sehr schwierig. Man sah nicht die Hand vor
 <@pagebreak/>
 Augen. Nur das Gehör konnte helfen. Söterland schärfte den
 Wachen größte Aufmerksamkeit ein, zumal wir gemerkt
@@ -1066,7 +1066,7 @@ Wie ernst die Lage war, zeigte sich, als wir beide
 dem Wunsche Ellens nachgebend, mit ihr in die Höhle hinabsteigen
 wollten. Wir fanden die eine Treppentür verrammelt
 und mußten umkehren. Es steckten also auch schon eine
-Unzahl Gegner in der Höhle. Der Besuch des Grabes Old
+Anzahl Gegner in der Höhle. Der Besuch des Grabes Old
 Cracks mußte unterbleiben.
 
 Um sechs Uhr hatte sich Ellen dann in ihrem bisherigen
