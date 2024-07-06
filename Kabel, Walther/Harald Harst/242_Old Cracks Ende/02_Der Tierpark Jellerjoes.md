@@ -114,7 +114,7 @@ wilden Mann spielen, wird Ihnen nichts helfen.«
 »Es ist Karsten,« sagte Harald ruhig und schenkte sich
 Kaffee ein. »Ob er geistig normal ist, haben die Ärzte
 zu entscheiden. Vielleicht ist er wirklich krank. — Sie geben
-zu, diese drei Morde — allein verübt zu haben?«
+zu, diese drei Morde allein verübt zu haben?«
 
 »Gewiß. Ich werde doch keinen Fremden so weit einweihen.«
 
@@ -220,7 +220,7 @@ Plantage in den Bergen unterwegs gewesen, sah man die
 Gerissenheit, den Dollarmacher, schon an den zugekniffenen
 Schweinsäuglein an. In seinem kostbaren Pelz saß er kalt und
 gleichgültig da, redete wenig und drohte Jooper mit allerhand
-Scherereien, falls dieser ihm nicht sofort wieder wegließe.
+Scherereien, falls dieser ihn nicht sofort wieder wegließe.
 
 Er fuhr denn auch davon, nachdem er als Kaution
 für sich und den Chauffeur einen Scheck über eine Million
@@ -266,7 +266,7 @@ unter dem Rücksitz nicht etwas zu finden ist. Machen Sie
 aber kein Aufhebens davon und halten Sie alle Neugierigen
 fern.«
 
-Jooper stierte ihm an.
+Jooper stierte ihn an.
 
 »Was … meinen Sie damit, Mr. Harst?«
 
@@ -354,7 +354,7 @@ einem Male flog sie auf und er schnellte sich hinaus.
 Ich sprang ihm nach. Im selben Moment erfolgte auch
 schon der Zusammenstoß. Ich bekam einen Schlag in den
 Rücken und rollte unter den großen Fordwagen. Ich war
-so benommen, daß ich rein automatischen handelte — aus
+so benommen, daß ich rein automatisch handelte — aus
 Angst vor Vorwürfen und Strafe. Ich riß die Tür des
 Ford auf, als ich Mr. Jellerjoe darin scheinbar bewußtlos
 liegen sah, und kroch in den Bettkasten. Nachher sah ich
@@ -474,7 +474,7 @@ dann empor. »Wie, du glaubt, daß etwa Karsten diese
 Beute … dem Museum gestiftet hat?!«
 
 »Karsten nicht, aber Samuel Warger vielleicht — —
-oder ein unbekannter Gegner des Instituts … Ich weiß es
+oder ein unbekannter Gönner des Instituts … Ich weiß es
 sogar bestimmt. Als du vorhin so schön schliefst und als
 ich den Namen Alex White fand und dann drüben in
 des armen toten Blox Bibliothek die Neueingänge durchsah,
@@ -561,7 +561,7 @@ Harst eilte hin … winkte … wir schwiegen …
 
 Er sagte: »Mein Beileid, Mr. Jellerjoe … Sie können
 den Verlust ja verschmerzen … — Gewiß, sobald wir hier
-in Frisko Überflüssig sind, kommen wir gern auf ein paar
+in Frisko überflüssig sind, kommen wir gern auf ein paar
 Tage zu Ihnen … — Welche Frage, natürlich will ich
 einen Bären schießen, wenn dies möglich … — Jooper
 ist gerade bei uns … Gut, ich rufe ihn …«
@@ -782,7 +782,7 @@ Jetzt kommen Sie mit zur Villa Blox. Ich schreibe den Brief
 sofort, dann nehmen wir des armen Blox Auto und sind
 um sieben bei Jellerjoe.« —
 
-Wir waren, bereits um halb sieben dort, und Jellerjoe
+Wir waren bereits um halb sieben dort, und Jellerjoe
 begrüßte uns vor dem Herrenhause der Plantage mit ehrlicher
 Herzlichkeit.
 
@@ -1047,7 +1047,7 @@ dunkle Masse, zwei grünlich-rötliche Punkte: Ein Graubär!!
 <h2>5. Kapitel.</h2>
 
 Zuweilen ist selbst mein Harst ein schlechter Prophet,
-und ein hungriger nordamerikanischen Grislybär macht einen
+und ein hungriger nordamerikanischer Grislybär macht einen
 dicken Strich durch ein Festprogramm. Der Bursche, der
 da unten herumschnüffelte, schien gegen brennende Aststücke
 ziemlich unempfindlich zu sein. Harald schleuderte ihm eine
@@ -1072,7 +1072,7 @@ vorzüglicher Läufer und Springer. Nachdem wir also etwa
 fünf Minuten lang die vier Bestien feurig abgewehrt hatten,
 fiel es dem Burschen Nummer eins, dem grauweißen Großpapa,
 plötzlich ein, mit Anlauf einen Sprung zu riskieren,
-der ihm dann auch halb über den Rand der Plattform
+der ihn dann auch halb über den Rand der Plattform
 hinwegbrachte. Ich wollte schon schießen, doch Harald hielt
 einen Nasenstüber mit dem Stiefelabsatz für zweckdienlicher,
 und der alte Herr rollte fauchend wieder abwärts.
@@ -1106,9 +1106,9 @@ Die Grislys waren Gentlemen. Oder sie waren wasserscheu.
 Sie waren verschwunden.
 
 Ich hätte hier nun so schön der Wahrheit zuwider
-erzählen können, wie ein schwarzen Panther aus den Ästen
+erzählen können, wie ein schwarzer Panther aus den Ästen
 der Eichen herabsprang und wie ich ihn mit bloßen Händen
-erwürgte — — und Ähnliches,
+erwürgte — — und Ähnliches.
 
 Ich bedauere, damit nicht aufwarten zu können.
 
@@ -1125,7 +1125,7 @@ vertiefte.
 Das einzige, was mich versöhnte, waren die Blitze und
 deren magische Beleuchtung.
 
-Doch aus das Vergnügen dauerte nicht lange.
+Doch auch das Vergnügen dauerte nicht lange.
 
 Eine vor Wut geifernde Stimme ertönte am Fuße
 des Felsens, und ein neuer Blitz zeigte uns Karsten in
@@ -1164,7 +1164,7 @@ der mit verheerender Gewalt durch den Kanon sauste.
 Dann wieder dasselbe Angstgebrüll — und diesmal ein
 Name mit dabei.
 
-»Harst retten Sie mich!« —
+»Harst, retten Sie mich!« —
 
 Das Schicksal geht seine eigenen Wege …
 

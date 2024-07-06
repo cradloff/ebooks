@@ -122,7 +122,7 @@ und nachher einige Schlingen wieder hergestellt, damit der
 Eindruck entstünde, Warger habe die Hände aus den Schlingen
 herausgedreht.«
 
-»Ah. — Sie denken an Tom!« meinte Ellen empört.
+»Ah — Sie denken an Tom!« meinte Ellen empört.
 »Trauen Sie es Tom wirklich zu, seinen Stiefvater, den
 er verachtet und haßt, befreit zu haben?! Außerdem war
 er doch mit Mac zusammen, und Mac würde sich gleichfalls
@@ -213,7 +213,7 @@ der Nacht tun, unterrichtet sind.«
 
 <h2>2. Kapitel.</h2>
 
-Die Besten Kalkulationen stimmen nicht, wenn man
+Die besten Kalkulationen stimmen nicht, wenn man
 es mit einem Menschen von Warger-Karstens Kaliber zu
 tun hat.
 
@@ -386,7 +386,7 @@ können, ohne eine Entdeckung befürchten zu müssen?«
 
 »Gewiß. Ich betone: Wenn ich mich nicht selbst so sehr
 für die Nevieux-Strahlen interessiert haben würde, hätte
-mein Befund geläutet: Wahrscheinlich Gehirnerweichung.«
+mein Befund gelautet: Wahrscheinlich Gehirnerweichung.«
 
 <@pagebreak/>
 Harald blickte Schrop ernst an. »Wissen Sie, daß Warger-Karsten
@@ -437,7 +437,7 @@ irgendwie zu schützen. Das »Wie« freilich ist schwierig.
 Wirken die Strahlen noch auf zehn Meter, so hilft eigentlich
 nur dauernder Stubenarrest. Da dies nicht gut möglich,
 müssen wir Besseres ersinnen. — Es gibt hier doch sicherlich
-eine Stantiolfabrik, lieber Blox.«
+eine Staniolfabrik, lieber Blox.«
 
 »Natürlich. Ich bin sogar Syndikus des Unternehmens.«
 
@@ -456,7 +456,7 @@ und …«
 »Gegenüber der Gefahr spricht das kaum mit. Der
 Direktor muß das Staniol persönlich herbringen und unbedingt
 schweigen. Karsten darf nicht ahnen, daß wir seinen
-Apparat bereits kennen, — Bitte …!«
+Apparat bereits kennen. — Bitte …!«
 
 Blox ging zum Schreibtisch und nahm den Hörer zur
 Hand.
@@ -586,7 +586,7 @@ Der Diener verschwand.
 
 »Nur durch den Garten, Harst.«
 
-Harald riß rast die Umhüllung von einer Tafel Schokolade,
+Harald riß rasch die Umhüllung von einer Tafel Schokolade,
 nahm auch das Staniolpapier ab, strich es glatt und
 meinte: »Die Augen wird es immerhin schützen. Staniol ist
 Blei …« Dann ging er durch die Tür auf die Terrasse
@@ -688,7 +688,7 @@ selbst wurde von sorgenden Gedanken um Harald gefoltert,
 der nun auf dem Wege zur Polizei war. Ob die Verkleidung
 ihn schützen würde war fraglich. —
 
-Blox Villa hier draußen lag ziemlich einsam im einer
+Blox Villa hier draußen lag ziemlich einsam in einer
 neuen Uferstraße dicht an der Bai. Bis zur Haltestelle der
 Straßenbahn waren es gut fünf Minuten, und es standen
 nur ganz vereinzelt Häuser am Wege, so daß irgendeine
@@ -801,7 +801,7 @@ lassen und nur die Augen gut offen halten und alles
 irgendwie Auffällige sofort melden.
 
 Der Erfolg dieser Vorbereitungen war der, daß das
-Stubenmädchen, eine niedliche Quadrone, vortrat und behauptete,
+Stubenmädchen, eine niedliche Quadrone<@refnote 1/>, vortrat und behauptete,
 sie habe von ihrem Stubenfenster aus zufällig
 beobachtet, wie der Mann mit dem Hausiererkasten sich von
 dem unglücklichen Chauffeur Professor Schrops habe Feuer
@@ -810,7 +810,7 @@ entlang zum Ufer der Bai gegangen, wo das Wohnboot
 eines reichen Kaufmanns verankert läge, das jetzt im Winter
 natürlich unbenutzt sei.
 
-Die Quadrone<@refnote 1/> Juanita gab so den Anstoß zu weiteren
+Die Quadrone Juanita gab so den Anstoß zu weiteren
 Bekundungen. Die Dienerschaft, durch den Tod Shmits zunächst
 recht verängstigt, wollte nun hinter Juanita nicht
 zurückstehen. Jeder wußte plötzlich etwas über den Hausierer
@@ -904,16 +904,16 @@ gefährliches Geheimnis der Todesstrahlen preisgibt. So leichtsinnig
 ist er nicht. Ich kenne ja die hiesigen Verbrecherorganisationen
 zu wenig, möchte aber doch annehmen, daß
 er mit einer dieser dunklen Gilden dauernd in Verbindung
-gestanden hast, nachdem er in Dawson City seine Rolle
+gestanden hat, nachdem er in Dawson City seine Rolle
 als Warger nebst all den Nebenrollen zu spielen begann.
 Dieser Mensch ist eben ein Schulbeispiel eines modernen
 Verbrechers, arbeitet mit allen möglichen technischen Hilfsmitteln
 <@pagebreak/>
 und muß überall Freunde, Helfershelfer haben,
-die ihn weder als Karsten von als Samuel Warger noch
+die ihn weder als Karsten noch als Samuel Warger noch
 als Crack den Unechten kennen. Ich habe so das unbestimmte
 Gefühl, als ob wir mit ihm noch mancherlei Überraschungen
-erleben werden. — Gehen wir also, …«
+erleben werden. — Gehen wir also …«
 
 <h2>4. Kapitel.</h2>
 
@@ -1031,7 +1031,7 @@ Hier sind die hundert Dollar.«
 Er warf eine Banknote auf den Tisch und fügte hinzu:
 
 »Vielleicht brauchen wir dich nochmals. Hundert Dollar
-sind viel Geld. Ich werde dich nicht einschließen. Auf
+sind viel Geld. Ich werde dich nicht einschließen. — Auf
 Wiedersehen.«
 
 Der alte Stelzfuß auf dem Bett rührte sich nicht,
@@ -1127,7 +1127,7 @@ Der Alte schüttelte den Kopf. »Nein, nur noch etwas
 italienisch und spanisch.«
 
 Harald sagte nun auf deutsch: »Klingt die Sprache,
-die ich jetzt benutze, ähnlich wie sie, in der der Fremde
+die ich jetzt benutze, ähnlich wie die, in der der Fremde
 zuerst telephonierte?« Und dann wiederholte er dieselbe
 Frage auf englisch.
 
@@ -1309,7 +1309,7 @@ Kasten und verabschiedete sich.«
 
 »Nein, sehen Sie persönlich nach … Falls Mr. Schrop
 sich auf Ihr Klopfen meldet, ist es gut. Wenn nicht, dringen
-Sie ein. Beeilen Sie sich, im warte auf Bescheid.«
+Sie ein. Beeilen Sie sich, ich warte auf Bescheid.«
 
 Der Bescheid kam: Nathan Schrop lag ohne Besinnung
 im Bett.
@@ -1322,7 +1322,7 @@ war sehr bleich, aber in seinen Augen war ein unheilvolles
 Leuchten.
 
 »Entweder er — oder wir, mein Alter,« sagte er gepreßt.
-»Hier geht’s um mehr als unser Leben — um unseren, Ruf!!«
+»Hier geht’s um mehr als unser Leben — um unseren Ruf!!«
 
 Er warf sich in den Sessel. »Es ist ausgeschlossen, daß
 Karsten sein totbringendes Geheimnis seinen Helfershelfern
