@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">220ce58f-36a8-4354-ae93-669b4c839b08</entry>
+<entry key="title">Old Crack, der Goldsucher</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">239</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Old Crack, der Goldsucher.
+
+… Wenn ich hier nun in den nächsten vier Bänden die Abenteuer um die fast sagenhafte Gestalt Old-Cracks schildere, so hoffe ich damit meinen Lesern und Freunden eine ganz besondere Kost bieten zu können. Es sind Erlebnisse, die so vollkommen aus dem Rahmen unserer sonstigen kleinen und großen Streifzüge in das Gebiet des Kriminellen herausfallen, daß es mir nicht leicht wird, ihnen eine ansprechende Form zu geben.
+
+Old Cracks Farm.
+
+Es war eine unglaublich kalte Nacht. Wir befanden uns hier sicherlich schon in tausend Meter Höhe, und ich schätzte das kühle Lüftchen auf etwa zwanzig Grad Reaumur.
+
+Wir hatten dann gerade die Hunde gefüttert und uns unsere Zigarren angesteckt und warteten auf den Tee, als der Leithund meines Schlittens, mit dem ich mich sehr angefreundet hatte und der als einziger frei neben mir lag, plötzlich knurrte und emporsprang. Im Nu hatten wir die Büchsen zur Hand.
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (239) Old Crack, der Goldsucher.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1928</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h2</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
