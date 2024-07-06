@@ -177,7 +177,7 @@ ein Rudel von etwa dreißig Wölfen nach. Mac verfeuerte
 achtzehn Patronen.
 
 Muschuk schlief schon in der Küche neben dem Herde
-auf seinem Feldbett. Als wir ihm mitteilen, daß der sterbende
+auf seinem Feldbett. Als wir ihm mitteilten, daß der sterbende
 Händler Tuanatus Vater sei, bekam er einen Wutanfall.
 Er wollte das Mädchen nicht weglassen. Seine Begründung
 war nicht ganz unberechtigt: Pelterson habe sich bisher
@@ -343,7 +343,7 @@ weiter, indem ich meinte Lampe anknipste.
 Der Lichtkegel zeigte mir Mac Gollerston, der mich
 entsetzt anstarrte.
 
-Ich war trotz mehr erschrocken als er.
+Ich war noch mehr erschrocken als er.
 
 »Mac, was tun Sie hier?« rief ich vorwurfsvoll. Dann
 packte mich die Wut.
@@ -358,7 +358,7 @@ fliehen, sind Sie geliefert, Sie Scheusal!!«
 
 »Mr. Schraut … ich …«, und er murmelte noch
 etwas Unverständliches und strich sich mit der Hand über
-sein dunkles Haar. Er war so verstört, das er nicht einmal
+sein dunkles Haar. Er war so verstört, daß er nicht einmal
 irgend eine faule Ausrede fand.
 
 »Gehen Sie!«
@@ -403,7 +403,7 @@ lange Messer und die eiserne Keule, die dicht dabei gelegen
 hatten, waren verschwunden.
 
 Ich fand dafür die eine Dachluke offen und sah, daß
-jemand hier auf dem Dache durchs die Schneeschicht herabgerutscht
+jemand hier auf dem Dache durch die Schneeschicht herabgerutscht
 war. Die Spur sagte genug.
 
 »Mac,« erklärte ich, als ich ihm die Riemen abnahm,
@@ -463,7 +463,7 @@ Als ich an Ellens Tür drüben in Old Cracks Haus
 anpochte, ließ sie mich sehr bald ein. Sie hatte nur in
 Kleidern auf dem Bett geschlafen.
 
-»Wissen Sie,« meinte sie nachdenklich »vor wenigen
+»Wissen Sie,« meinte sie nachdenklich, »vor wenigen
 Minuten ereignete sich hier etwas, das mich stark beunruhigte,
 Mr. Schraut. Die Haustürglocke schlug an, und ich
 hörte auch die Tür öffnen und schließen. Ich war munter
@@ -1076,7 +1076,7 @@ bisher einziger Mitwisser dieses kostbaren Geheimnisses.«
 
 Die Urkunde lautete:
 
-<p class="right">San Franzisko, 12, März 1921.</p>
+<p class="right">San Franzisko, 12. März 1921.</p>
 
 > Ich, John Crack, Besitzer der Tanana-Farm, beauftrage
 hiermit den Anwalt Doktor Ephraim Blox, nach meinem
@@ -1093,8 +1093,8 @@ von dem Golde überhaupt nichts erfährt, auch wünsche ich
 nicht, als Wohltäter der Armen irgendwie genannt zu
 werden. &nbsp; &nbsp; &nbsp; *John Crack*
 
-<p class="pre">Stempel des
-Anwalts
+<p class="pre">  Stempel des
+    Anwalts
 und Unterschrift.</p>
 
 Blox erklärte nun:
@@ -1127,7 +1127,7 @@ vor. Samuel Warger hatte es irgendwie fertig gebracht,
 seine Fesseln abzustreifen und war durch das Fenster der
 Kammer entflohen.
 
-Ich konnte hierauf noch im letzten Old Crack-Band, in
+Ich komme hierauf noch im letzten Old Crack-Band, in
 »*Old Cracks Ende*«, zurück und kann mir daher hier
 Einzelheiten ersparen. Es genügt: Wargers Verfolgung blieb
 ohne Ergebnis. — Was Tuanatu betrifft, so ist nur zu

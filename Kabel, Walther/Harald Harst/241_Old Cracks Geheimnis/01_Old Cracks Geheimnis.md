@@ -132,7 +132,7 @@ Felsen emporführte. Hier stand Mr. Blox, der Detektiv
 aus Sitka, und nickte nur, als ich ihm mein Abenteuer
 erzählte …
 
-»Da sind sie noch gut weggekommen,« sagte er grinsend.
+»Da sind Sie noch gut weggekommen,« sagte er grinsend.
 »Ihr Freund hat eine Pille in den Oberschenkel erhalten,
 als er vor einer Stunde drüben im Walde die Wolfsfallen
 nachsah. Ich habe ja immer schon angedeutet, daß
@@ -155,7 +155,7 @@ Tom bestätigte dies.
 
 Tom Warger war Ellen Barkams Verlobter und Samuel
 Wargers alias Cracks alias Karstens Stiefsohn und ein
-netter Junge. Für die Morde und die sonstigen, Scheußlichkeiten
+netter Junge. Für die Morde und die sonstigen Scheußlichkeiten
 seines Stiefvaters war er nicht verantwortlich. Die
 Aufdeckung der Wahrheit hatte ihn zunächst völlig niedergeschmettert.
 Daher hatte auch Ellen darauf bestanden, daß
@@ -222,7 +222,7 @@ hätte verfolgen können.
 Diese Spur führte tatsächlich nach Norden. Der Schlitten
 war mit fünf Hunden bespannt gewesen und hatte erst
 wieder dort halt gemacht, wo ich den Kugeln durch einen
-glücklicher Zufall entgangen war. Es stimmte also: Es
+glücklichen Zufall entgangen war. Es stimmte also: Es
 war derselbe Mann gewesen. — Nun nach Westen weiter auf
 klarer Fährte, eine volle Stunde, bis in die Berge hinein,
 bis zur Quelle des Turma-Flusses, des berühmten warmen
@@ -239,7 +239,7 @@ leisteten ihm Gesellschaft. Wir besprachen das Geschehene, und
 der smarte Yankee mit den Pausbacken erklärte ehrlich,
 er würde seine Geschäfte hier nun nach Möglichkeit beschleunigen,
 denn so gern er auch Austern äße — gegen bleierne
-Austern habe er ein Vorurteil. »Mit Miß Barkam ist nur,
+Austern habe er ein Vorurteil. »Mit Miß Barkam ist nur
 schlecht verhandeln … Man sollte nicht glauben, wie hartnäckig
 sie auf ihrem ersten Preise besteht, dabei ist doch
 mein Angebot von acht Dollar für das ausgeschlachtete
@@ -360,7 +360,7 @@ einem Hundeschlitten in der kritischen Zeit unterwegs. Ich
 wette, Blox hat an der Stelle, wo ich angeschweißt wurde,
 genau dasselbe gesehen wie ich. Gib mir mal ein Stück
 Papier, ich will dir eine Zeichnung entwerfen, du wirst
-so leichter eingehen, wie verfänglich die Dinge sind, die
+so leichter einsehen, wie verfänglich die Dinge sind, die
 sich heute hier abspielten.«
 
 Diese Skizze sah folgendermaßen aus:
@@ -375,7 +375,7 @@ Zur Erklärung:
 a ist das Gehölz, in dem Harald hinterrücks den Oberschenkelschuß
 erhielt.
 
-＋ ist die Stelle, wo er die Kugel empfing und sich
+\+ ist die Stelle, wo er die Kugel empfing und sich
 sofort niederwarf.
 
 b ist die oben erwähnte Hügelkette.
@@ -443,7 +443,7 @@ Doppelspur nenne ich eine Hin- und Rückfährte.«
 dicht vor dem Gehölz gewendet.«
 
 »Ich konnte nicht annehmen,« fuhr Harald fort, »daß
-von ein dritter Mann Zeuge des Attentats gewesen. Erst
+noch ein dritter Mann Zeuge des Attentats gewesen. Erst
 als wir vorhin mit den Laternen den Schauplatz besuchten,
 bemerkte ich noch etwas sehr Wichtiges, eigentlich zweierlei.
 Ihr hattet mich in einen Schlitten verladen, und ich fuhr
@@ -459,7 +459,7 @@ Harald blickte mich an, und in seinen Augen lag es wie
 ein Vorwurf, weil ich die Sache so leicht nahm.
 
 »Lieber Alter, die Geschichte ist bitterernst, denn von dem
-◆○◆○◆○◆○-Schlitten lief eine merkwürdige Spur die dorthin,
+◆○◆○◆○◆○-Schlitten lief eine merkwürdige Spur bis dorthin,
 wo der Schlitten des Attentäters gehalten und nachher
 gewendet hatte. Diese Spur bestand lediglich aus runden
 Löchern im Schnee, die etwa anderthalb Meter auseinanderlagen.
@@ -468,7 +468,7 @@ diese Löcher mit dem Stiefel verwischte, als wir fünf vorhin
 dort im Gehölz waren, so wirst du mein Mißtrauen gegen
 ihn begreifen.«
 
-»Allerdings,« nickte ich zerstreut, obwohl im noch nicht
+»Allerdings,« nickte ich zerstreut, obwohl ich noch nicht
 klar die Sachlage überschaute. Ich fragte also:
 
 »Weshalb nimmst du an, daß gerade die ◆◆◆◆◆◆◆◆-Spur
@@ -503,7 +503,7 @@ dazu lächelte Harald sehr eigentümlich.
 
 <@pagebreak/>
 »Die gibt am meisten zu raten auf. Weshalb verwischte
-Peltersons diese Löcher, die doch weder von einem Menschen
+Pelterson diese Löcher, die doch weder von einem Menschen
 noch von einem Tier herrühren können?!«
 
 »Allerdings unverständlich …« — Mein Interesse an
@@ -519,7 +519,7 @@ unterwegs gewesen und wüßte, daß Pelterson in
 der Nähe des Mordbuben weilte. — Woher hast du hiervon
 Kenntnis erhalten?«
 
-»Nun, daß der rote Blox gleich nachts dir und Tuanatu
+»Nun, daß der rote Blox gleich nach dir und Tuanatu
 wegfuhr, sah ich. Er lenkte genau nach Süden. Er hat
 einem der Hirten erklärt, er wolle mal versuchen den Bär
 zu erlegen, auf den der alte Muschuk so wild war. Und
@@ -690,7 +690,7 @@ zurückgekehrt und sofort wieder weggegangen war.
 Andere Zeugen konnten wir auch nicht auftreiben. Es
 waren draußen achtzehn Grad Kälte, und nur die Wächter
 bei den Hürden hatten in ihren Erdlöchern gesteckt und
-auf Wölfe aufgepaßt. Keiner der Fährten war jedoch so nahe
+auf Wölfe aufgepaßt. Keiner der Wächter war jedoch so nahe
 der Farm postiert, daß sie etwas hatten sehen können. Im
 übrigen sind diese Erdlöcher mit einem Dach versehen und
 innen dick mit Moos gepolstert und haben kleine Öfen
@@ -788,12 +788,12 @@ Der alte Indianer nickte. »Blut von Wolf … Dort
 hängt das Fell. Ich fand den Braunen weiter westlich
 im Walde in einer Höhle, Mr. Blox.«
 
-Aber Blox gab ich damit nicht zufrieden. Er ärgerte
+Aber Blox gab sich damit nicht zufrieden. Er ärgerte
 sich offenbar, weil ihm der Bär entgangen.
 
 »Sage mal, Muschuk,« und er stopfte sich seine Pfeife,
 »ich beobachte dich nun des Bären wegen drei Tage. Du
-Hast eine eigentümliche Art, deine Jagdfahrten zu maskieren,
+hast eine eigentümliche Art, deine Jagdfahrten zu maskieren,
 anders kann ich das nicht nennen. Wenn du mit deinem
 <@pagebreak/>
 Hundeschlitten davonfegst, nimmst du stets einen großen dichten
@@ -1153,7 +1153,7 @@ Du hast das ganze Haus mit dem Bärenfett verpestet.
 Muschuk sagte nur: »Du bleibst. Höre den Sturm …
 Der Schnee fällt wie die Federn der Eidergänse im Frühjahr
 …« — Er machte dazu eine Handbewegung, die
-wie eine drohende Geiste war. Tuanatu gab mir die Hand.
+wie eine drohende Geste war. Tuanatu gab mir die Hand.
 »Gute Nacht also … Kommen Sie gut heim und lassen Sie
 sich vom Sturm nicht aus dem Schlitten wehen, halten
 Sie sich ordentlich fest, Mr. Schraut.«
