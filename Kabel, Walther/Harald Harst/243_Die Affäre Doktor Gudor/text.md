@@ -1689,319 +1689,318 @@ hatte!
 <h2>2. Kapitel.</h2>
 
 Er steckte den Brief samt Inhalt in den Ofen. »Sicher
-Ist sicher, mein Alter,« sagte er ein wenig schuldbewußt …
-Geidels sind also nicht harmlos. Der Doktor hat ihnen Berg
+Ist sicher, mein Alter,« sagte er ein wenig schuldbewußt. "Die
+Geidels sind also nicht harmlos. Der Doktor hat ihnen Ver-
 trauen geschenkt, und sie haben dies gründlichst mißbraucht,
 wie es den Anschein hat.«
 
-Ich fand diesen Nachsatz mit seiner Einschränkung ich?
+Ich fand diesen Nachsatz mit seiner Einschränkung sehr
 überflüssig. »Hier kann man wohl nicht mehr von Ansicht
-sprechen …! Geidel ist ein …
+sprechen …! Geidel ist ein …"
 
-Ich wollte sagen: … ein perfekter Hurra, er! aber Harald
+Ich wollte sagen: "… ein perfekter Lump," aber Harald
 Hob warnend die Hand. Ich hörte die Haustür zufallen, dann
 klopfte es und der perfekte Lump trat ein. »Abends Ist das
-Bild wieder in Ordnung,« erklärte er sichtlich, außer ein.
+Bild wieder in Ordnung,« erklärte er sichtlich, außer Atem.
 
-»Weshalb sind Sie konnten gelaufen, Geidel« — und
-Harst rieb sich vor dem Ofen die Hände. »Sie sieben ja
-Ruhe ganz verängstigt aus … Was ist denn passtertvk«
+»Weshalb sind Sie denn so gelaufen, Geidel?« — und
+Harst rieb sich vor dem Ofen die Hände. »Sie sehen ja
+auch ganz verängstigt aus … Was ist denn passiert?!«
 
-»Wir … wir … werden gleich) Besuch bekommen,
+»Wir … wir … werden gleich Besuch bekommen,
 meine Herren …« — der Steuermann lächelte sehr gequält.
 »Ein Herr fragte mich eben auf der Straße, ob
 <@pagebreak/>
-»Sie beide wirklich hier im der Villa seien … Ich glaube
-Fast, es war einer der … Schurken, wenn er auch außer«-
-Ließ ganz … ganz anständig aussah, nur … ein Riese
-ist’s … Der bringt uns alle drei mit der Faust um .,«
+Sie beide wirklich hier in der Villa seien … Ich glaube
+Fast, es war einer der … Schurken, wenn er auch äußerlich
+ganz … ganz anständig aussah, nur … ein Riese
+ist’s … Der bringt uns alle drei mit der Faust um ...«
 
-»ah was?!« Harald faßte in die Schlüsseltasche der
-
-Beinkleider …!, Dann ist’s besser, ich Stege dies kleine
+»ach was?!« Harald faßte in die Schlüsseltasche der
+Beinkleider … "Dann ist’s besser, ich stecke dies kleine
 Maschinengewehr griffbereit in die Jackentasche …«
-— Aber er tat’s nicht, sondern trat dicht vor Geidel hin
-… und hielt ihm die Pistole vor die Hirn. Seine Augen
+
+Aber er tat’s nicht, sondern trat dicht vor Geidel hin
+und hielt ihm die Pistole vor die Stirn. Seine Augen
 glitzerten wie Eis. »Mann, — das Umbringen kann auch
 ich besorgen!« sagte er. »Die Wahrheit, Geidel: Wo sind
-»Ihre Eltern?«
+Ihre Eltern?«
 
-Geidel fuhr leicht zurück. Dann- schoß ihm das Blut
-derart zu … Kopfe, daß ihm die Augen förmlich aus den
+Geidel fuhr leicht zurück. Dann schoß ihm das Blut
+derart zu Kopfe, daß ihm die Augen förmlich aus den
 Höhlen quollen … Mit diesen Glotzaugen, die ich nun
 zweimal hatte bewundern können, entblößte er auch gleichsam
 seine niederträchtige Seele. Ebenso eigentümlich war
-an ihm… daß er in Momenten höchster Erregung wie ein
-— Fisch auf dem Trockenen nach. Luft zu schnappen pflegte und
+an ihm, daß er in Momenten höchster Erregung wie ein
+Fisch auf dem Trockenen nach Luft zu schnappen pflegte und
 den Mund wie ein Ventil in regelmäßigen Zwischenräumen
-aufriß und wieder so los. Aber — genau wie vorhin, als er
-des Bildet wegen in so tolle Erregung geraten war, bekam
-er sich doch wieder in die Gewalt, und versuchte ein vorn
-höhnisches Lächeln: »Weiß Gott, Sie gehen übel mit mir
+aufriß und wieder schloß. Aber — genau wie vorhin, als er
+des Bildes wegen in so tolle Erregung geraten war, bekam
+er sich doch wieder in die Gewalt, und versuchte ein versöhnliches
+Lächeln: »Weiß Gott, Sie gehen übel mit mir
 um, Herr Harst … Meine Eltern — —, hm ja … —
-4FG wollte es Ihnen eigentlich schon morgens sagen …
--»- aber ich dachte, Sie würden ärgerlich werden, — meine
+ich wollte es Ihnen eigentlich schon morgens sagen …
+-- aber ich dachte, Sie würden ärgerlich werden, — meine
 Eltern sind heute früh sieben Uhr dreißig nach Hamburg
 zurückgekehrt … Sie hatten hier doch zu große Angst,
-»die alten Leutchen …
+die alten Leutchen …"
 
-»ah was!! Sie sind ja …«
+»ach was!! Sie sind ja …«
 
-… Doch das Grillen der Flurglocke zerschnitt den Satz, —
-—»- und wie schrillte fiel!
-»Das ist er!!« stieß Geidel hervor und wurde lusebleic.
+Doch das Schrillen der Flurglocke zerschnitt den Satz, —
+— und wie schrillte sie!!
+
+»Das ist er!!« stieß Geidel hervor und wurde käsebleich.
+
 Harst betrachtete ihn erstaunt. »Gehen Sie öffnen und
 <@pagebreak/>
-führen Sie den Herrn hier herein … — Los doch! Der)
+führen Sie den Herrn hier herein … — Los doch! Der
 Mann verbraucht ja die ganzen Klingelelemente!«
 
 Geidel leckte sich wie ein Halbblöder die Lippen. »Bitte …
 bitte … mag Herr Schraut öffnen … Ich …«
 
-(Sie werden gehen!! Teufel noch mal, was soll das
-denn?! Und Sie bleiben hier bei dem Herrn, bis wir oben)
+"*Sie* werden gehen!! Teufel noch mal, was soll das
+denn?! Und Sie bleiben hier bei dem Herrn, bis wir oben
 Ihren Eltern guten Morgen gewünscht haben!«
 
 Geidel ließ den Kopf hängen … Er murmelte irgend
-etwas und schlich hinaus, während wir durch; das Speisezimmer
+etwas und schlich hinaus, während wir durch das Speisezimmer
 die Treppe erreichten und im ersten Stock uns die
-Herrschaften bei Tageslicht ansehen wollten. Die Für der
+Herrschaften bei Tageslicht ansehen wollten. Die Tür der
 einen Stube, wo die alten Geidels geschlafen hatten, stand
-offen. Frau Therese klappte gerade ein eisernes Feldbett.
-zusammen, Harst stieß rasch die Türen der beiden anderen
+offen. Frau Therese klappte gerade ein eisernes Feldbett
+zusammen. Harst stieß rasch die Türen der beiden anderen
 Stuben auf. Es war niemand da.
 
-»Wo sind Ihre Schwiegeresternon fragte er die Vers.
+»Wo sind Ihre Schwiegereltern?!" fragte er die Ver-
 schüchterte Therese.
 
-»Abgereist …« stammelte sie … »Deshalb nehme im
-ja auch das Bett hier wieder weg .; …!«
+»Abgereist …« stammelte sie … »Deshalb nehme ich
+ja auch das Bett hier wieder weg …«
 
 Harald warf ihr einen Blick zu, der die Frau erzittern
-machte, Sie Güte sich rasch und machte sich an dem
-Llappbett zu schaffen.
+machte. Sie bückte sich rasch und machte sich an dem
+Klappbett zu schaffen.
 
-»Wir reden nachher noch miteinander, « sagte Harst und«
-schritt der Treppe zu, …
-— Als wir durch das Eßzimmer wieder das Herrenzimmer
-betraten, stand vor dem Schreibtisch ein badtmlanger hagerer
-Herr mit Monokel, und Karl Geidel lag war dem Decken
-auf dem Teppich und »Biest sich. das blutig geschlagene
+»Wir reden nachher noch miteinander, « sagte Harst und
+schritt der Treppe zu,
+
+Als wir durch das Eßzimmer wieder das Herrenzimmer
+betraten, stand vor dem Schreibtisch ein baumlanger hagerer
+Herr mit Monokel, und Karl Geidel lag vor dem Ofen
+auf dem Teppich und hielt sich das blutig geschlagene
 Ohr und wimmerte.
 
-»Professor Gollert,/« stellte sich der Fremde mit b2a
-beneidenswerter Ruhe vor. »Ich mag mich: hier etwas merke
-würdig eingeführt haben, meine Herren, aber, der Bursche
-da wurde unverschämt und bedrohte mich …
+»Professor Gollert,« stellte sich der Fremde mit beneidenswerter
+Ruhe vor. »Ich mag mich hier etwas merk-
+würdig eingeführt haben, meine Herren, aber der Bursche
+da wurde unverschämt und bedrohte mich …"
 
-»Das ist Zügel« kreischte Geidel vom 2a her.
+»Das ist Lüge!!« kreischte Geidel vom Teppich her.
 
-Der Professor, in dein wir — auch zu unserer Überraschung
+Der Professor, in dem wir — auch zu unserer Überraschung
 <@pagebreak/>
 — einen Herrn wiedererkannten, dem wir hier
-in unserem stillen Vorort schon Ost begegnet waren, meint
+in unserem stillen Vorort schon oft begegnet waren, meinte
 nur verächtlich: »Der Mensch da sollte mir über das Reiseziel
 Doktor Gudors Auskunft geben …! Er log. — Er
 wüßte selbst nicht, wohin der Rechtsanwalt gefahren sei …
-Und als ich ihn etwas energisch; auf die Zehen trat, stieß
-er mich Partie Brust und wollte mir entschlüpfen …!«
+Und als ich ihn etwas energisch auf die Zehen trat, stieß
+er mich vor die Brust und wollte mir entschlüpfen …!«
 
-»Sie »kennen den Mann?« fragte Harald mit kühlen
+»Sie kennen den Mann?« fragte Harald mit kühler
 Sachlichkeit.
 
 »Nein. Er behauptet, er sei ein Freund des Doktors …«
 
-»Das stimmt auch …« nickte Harst. »Immerhin, dieses
-Szene hätte. sich vermeiden lassen, »Herr Professor … « — —
-Geidel, gegen Sie nach oben …«
+»Das stimmt auch …« nickte Harst. »Immerhin, diese
+Szene hätte sich vermeiden lassen, Herr Professor … —
+Geidel, gehen Sie nach oben …«
 
-Geidel erhob sie langsam.
+Geidel erhob sich langsam.
 
-»Tod … bleibe, « knurrte er. »Ich bin hier jetzt Hausherr,
-und
+»Ich … bleibe, « knurrte er. »Ich bin hier jetzt Hausherr,
+und ..."
 
-»Sie gehen — zum Donner! Hauswart sind Sie hier
-
+»Sie gehen — zum Donner!! Hauswart sind Sie hier
 — Hausherr bin ich durch Gudors Vollmacht! Scheren Sie
-ausficht?
+sich!"
 
-»Es wird Ihnen leid tun, Herr Harst,/« murmelte der
-Steuermann und blickte den langen Professor futsch an.
-»Sie — Sie werde ich verklagen, — — Sie!! Ihre Boxer«,
-Künste können Sie anderswo anbringen, Sie!! — —
+»Es wird Ihnen leid tun, Herr Harst,« murmelte der
+Steuermann und blickte den langen Professor tückisch an.
+»Sie — Sie werde ich verklagen, — — Sie!! Ihre Boxer-
+Künste können Sie anderswo anbringen, Sie!! — — Ich
 warne Sie also, Herr Harst.«
 
-Gollerts gelblicpes Gesicht mit dem grauen dünnen
-Schnurrbart verriet leddglich unaussprechliche Geringshutung.
+Gollerts gelbliches Gesicht mit dem grauen dünnen
+Schnurrbart verriet lediglich unaussprechliche Geringschätzung.
 »Doktor Gudor hat ja recht angenehme Freunde! — Raus
 mit Ihnen, Sie jämmerlicher Kuli …!!«
 
 Geidel ging breitbeinig zur Tür, drehte nochmals den
-Kopf … »Kuli — —!! Ganz recht, Null, — — Sie …
+Kopf … »Kuli — —!! Ganz recht, Kuli, — — Sie …
 Sie Professor, Sie!!« Und dann schlug er die Tür zu.
 
 Diese Szene war so eigenartig, daß ich den unbestimmten
-
 Eindruck gewann, Geidel und Gollert müßten sich doch seit
-
 längerer Zeit schon kennen, wenn auch beide dies ableugneten.
-— Der Professor nahm Platz. — Alles in allem war er
+
+Der Professor nahm Platz. — Alles in allem war er
 <@pagebreak/>
 eine außergewöhnliche Erscheinung. Sein Gesicht verriet ebenso
-viel Intelligenz wie Neigung zur Brutalität. Seine Kinns
+viel Intelligenz wie Neigung zur Brutalität. Seine Kinn-
 Partie war die eines rücksichtslosen Kraftmenschen, seine
 Stirn die eines Gelehrten. Am sonderbarsten waren seine
 Augen: Er schielte so stark, daß man nie recht wußte, ob
 er einen anblickte.
 
 »Wir sind uns wohl von Ansehen nicht fremd, meine
-Herren,« begann er halblaut zwanglo8-liebenswürdig, — so,
+Herren,« begann er halblaut zwanglos-liebenswürdig, — so,
 als ob der Zwischenfall mit Geidel ihn weiter gar nicht
 berührt hätte. »Wenn ich gewußt hätte, daß Sie beide bereits
 wieder daheim, würde ich Sie natürlich konsultiert haben.
 In den Zeitungen stand jedoch noch letztens, Sie weilten
-noch in Kalifornien …,«
+noch in Kalifornien …«
 
 »In den Zeitungen stand aber auch, daß wir wieder
 zurück sind,« warf Harald ein …
 
 »Man übersieht manches, verehrter Herr Harst. Ich
-brauche jedenfalls dringend einen tüchtigen Detektiv, … deshalb
-kam ich hier zu ::vor«
+brauche jedenfalls dringend einen tüchtigen Detektiv, deshalb
+kam ich hier zu Gudor ..."
 
-»Ist er als Daheim Fleckige«
+»Ist er als Detektiv tüchtig?«
 
 Der Professor zuckte die eckigen Schultern.
 
-»Tun — er war Rechtsanwalt … — Lieber ist es
-mir, daß ich Sie beide zur Hand habe …««
+»Nun — er war Rechtsanwalt … — Lieber ist es
+mir, daß ich Sie beide zur Hand habe …«
 
-»Wir sind nicht Detektive, Herr Professor …-«
+»Wir sind nicht Detektive, Herr Professor …«
 
-»Schon gut, — Weiß ja, Sie übernehmen nur Fälle
-die nicht alltäglich …
+»Schon gut ... Weiß ja, Sie übernehmen nur Fälle
+die nicht alltäglich …"
 
-»Auch die nicht immer.
+»Auch die nicht immer ..."
 
-»Nun — meinen Fall heran Sie erledigen … Ein
-Harst läßt sich solchen Leckerbissen nicht entgehen … +…
-Hören Sie also …
+»Nun — meinen Fall werden Sie erledigen … Ein
+Harst läßt sich solchen Leckerbissen nicht entgehen … --
+Hören Sie also …"
 
 »Pardon: Wußten Sie, daß wir hier bei Gudor sind?«
 
 »Ich wußte es vor fünf Minuten noch nicht. Aber ich
-traf an der Ecke Prinostraße einen Beamten der Nachtwachgesellschaft,
+traf an der Ecke Kunostraße einen Beamten der Nachtwachgesellschaft,
 der auch meine Villa in der Davoser Straße
 bewacht, und der erzählte mir, er hätte von einem Polizeiwachtmeister
-erfahren, es jetzt nachts hier im Garten geh
+erfahren, es sei nachts hier im Garten ge-
 <@pagebreak/>
-schossen worden und Herr Schraut sei mit dabei gewesen …
+schossen worden und Herr Schraut sei mit dabei gewesen …"
 
-»So … so … — Nun, — — unter«
+»So … so … — Nun, — — und?!«
 
 »In meine Villa Davoser Straße 33 ist in dieser selben
-Wacht eingebrochen worden …«
+Nacht eingebrochen worden …«
 
 »Und deshalb brauchen Sie einen Detektiv — oder
 uns?!«
 
-»Gewiß … « Weil nämlich nichts gestohlen wurde, Herr
-Harst, obwohl die — -Einbrecher reiche Beute hätten machen,
+»Gewiß … Weil nämlich nichts gestohlen wurde, Herr
+Harst, obwohl die Einbrecher reiche Beute hätten machen
 können und mit verblüffender Geschicklichkeit vorgegangen
-sind … Sie haben nicht und ein Fenstergitter durchgesägt,
-sondern auch meinen Tresor geöffnet —« dtUc;zeinend mit
-einem Nachschlüssel. Obwohl von. in dem Tresor über dreitausend
-Mark Bargeld und Schmudstüä&e lagen, haben sie
-nichts davon angerührt. Dies ist der eine dunkle Punkt,
-Der zweite: Der Tresor ist ziemlich) neu und hat ein gutes
-Schloß. Woher hatten die Kerle den Nachschlüssel 21
+sind … Sie haben nicht nur ein Fenstergitter durchgesägt,
+sondern auch meinen Tresor geöffnet — anscheinend mit
+einem Nachschlüssel. Obwohl nun in dem Tresor über dreitausend
+Mark Bargeld und Schmuckstücke lagen, haben sie
+nichts davon angerührt. Dies ist der eine dunkle Punkt.
+Der zweite: Der Tresor ist ziemlich neu und hat ein gutes
+Schloß. Woher hatten die Kerle den Nachschlüssel?!"
 
-»und — weshalb bemühen Ei? dieserl;alb nicht. bin
-Polizei!«
+»und — weshalb bemühen Sie dieserhalb nicht die
+Polizei?!«
 
-»Aber ich bitte Sie: Nichts gestohlen!?! Wo wird. da
-Kriminalpolizei sie bei ihrer Heidnischen Überleitung da
-Mühe geben?!« — —
+»Aber ich bitte Sie: Nichts gestohlen!! Wo wird die
+Kriminalpolizei sich bei ihrer notorischen Überlastung da
+Mühe geben?!«
 
 »Mag sein … — Vielleicht wurden die Diebe gestört,
-Herr Professor, und Flöhen Hals über Kopf.«
+Herr Professor, und Flohen Hals über Kopf.«
 
-»Feine Redet! Sie Straßen mir ja sog? noch. einen
-Zettel da … —« in! Tresor, Herr Harst! — Hier — —
+»Keine Rede!! Sie ließen mir ja sogar noch einen
+Zettel da … — im Tresor, Herr Harst! — Hier — —
 das ist er. Verstehen Sie das?! Sie sehen auf diesen Zettel
-zur ein Wort in lateinischer Griff hingemalt:
+zur ein Wort in lateinischer Schrift hingemalt:
 
-… Dame]
+<p class="centered">Danke!!</p>
 
-Und das ist Punkt drei, — Wofür bedanken sich die
-Kerle?! Etwa dafür, laß sie mir vom Feuchtes vier
+Und das ist Punkt drei. — Wofür bedanken sich die
+Kerle?! Etwa dafür, daß sie mir vom Rauchtisch vier
 Schachteln Zigaretten klemmten?!«
 
-»Welle Marke?« fragte Jacht schnell
+»Welche Marke?« fragte Harst schnell
 
-es Ihre Mirakulum nicht … Über auch) eine seltene
-Sorte, … 39 bekomme sie direkt aus Kairo von einen
-Freunde … Sie wissen, ich bin. Archäologe, Herr Harst…
+"Nun, Ihre Mirakulum nicht … Aber auch eine seltene
+Sorte … Ich bekomme sie direkt aus Kairo von einem
+Freunde … Sie wissen, ich bin Archäologe, Herr Harst …"
 
 <@pagebreak/>
-»Jetzt weiß ich’s …« — und der Ton war für mit
+»Jetzt weiß ich’s …« — und *der* Ton war für mich
 auffallend … »Ich begreife jedoch noch immer nicht: Haben
 Sie denn ein so großes Interesse daran, die Diebe ermittelt
-zu sehen?« …
+zu sehen?«
 
 »Bitte: Mein Tresor ist wertlos geworden … Die Kerle
 haben einen Nachschlüssel dazu.«
 
-»Ah so — — ganz recht,,! Natürlich — — natürlich
+»Ah so — — ganz recht .,,! Natürlich — — natürlich
 — — der Tresor!« Harald betrachtete das Blatt mit dem
-»Danke!!« und drehte es um … »Das scheint ja auQ
-einem Buche herausgerissen zu sein … Hier ist ja ein Statisten
+»Danke!!« und drehte es um … »Das scheint ja aus
+einem Buche herausgerissen zu sein … Hier ist ja ein Stahlstich
 auf der Rückseite … ein Frauenkopf …«
 
 »Allerdings, — und zwar eine Seite aus einem meiner
 Werke, Herr Harst … Es ist eine Samoanerin … Ich
 habe auf Samoa seinerzeit Studien gemacht … Aber das
-gehört nicht) hierher … Das Blatt haben die Diebe in
+gehört nicht hierher … Das Blatt haben die Diebe in
 meinem Arbeitszimmer erst herausgerissen — auch ein
-Beweis, daß sie sich durchaus Zeit ließen … &«
+Beweis, daß sie sich durchaus Zeit ließen …«
 
-Ich hatte mir den Kopf der Samoanerin nun ebenfallA
-angeschaut, und es kostete mich Mühe, mich nicht zu Berg
+Ich hatte mir den Kopf der Samoanerin nun ebenfalls
+angeschaut, und es kostete mich Mühe, mich nicht zu ver-
 raten, — genau wie Harald nichts dazu geäußert hatte,
 
-Er sagte jetzt: »Um besten, wir sehen uns den Tatort
-an …
+Er sagte jetzt: »Am besten, wir sehen uns den Tatort
+an …"
 
-»Ganz meiner Meinung … Wenn fehlte bitte
+»Ganz meiner Meinung … Wenn ich Sie bitten
 dürfte … — mein Auto wartet draußen.«
 
-Harald tat, als ob ihm auch dies nickt weiter aufs«
+Harald tat, als ob ihm auch dies nicht weiter auf-
 stieß, obwohl Gollert doch zu Fuß gekommen war, —
 
-Das Auto war ein großer neuer Wogen, sehr elegant;
-gebeizt, mit allen Schikanen. Wir fuhren davon, ohne
+Das Auto war ein großer neuer Wagen, sehr elegant,
+geheizt, mit allen Schikanen. Wir fuhren davon, ohne
 Karl Geidel Bescheid zu sagen.
 
-Ich muß ehrlich) gestehen, daß ich damals, als das Auto
+Ich muß ehrlich gestehen, daß ich damals, als das Auto
 mit uns die Kunostraße hinabrollte, mir bereits eine bestimmte
 Ansicht über Gollert gebildet hatte, und zwar:
 Gollert und Geidel hatten Komödie gespielt, sie kannten
-sich und steckten irgendwie unter einer Decke. —« Wie nahe
-war ich der Wahrheit — — und doch wie unendlich weiß
+sich und steckten irgendwie unter einer Decke. — Wie nahe
+war ich der Wahrheit — — und doch wie unendlich weit
 <@pagebreak/>
-von ihr entfernt! Ich sah) nur unklare Zusammenhänge, und
+von ihr entfernt! Ich sah nur unklare Zusammenhänge, und
 ein anderer sah zur selben Zeit bereits völlig klar.
 
 Während der Fahrt fragte Harald, wann etwa die
-Diebe in der Villa gewesen sein könnten. — »Zwischen eint
-läßt morgens und zwei Uhr,« erwiderte Gollert sofort.
-»Uns zwei entdeckte der Wächter, daß das Fenstergitter durchgesägt
-war und wette midx Um ein Uhr war es noch
+Diebe in der Villa gewesen sein könnten. — »Zwischen ein
+Uhr morgens und zwei Uhr,« erwiderte Gollert sofort.
+»Um zwei entdeckte der Wächter, daß das Fenstergitter durchgesägt
+war und weckte mich. Um ein Uhr war es noch
 unbeschädigt.«
 
-eng aumewretn-cimtem-euumtik
-
-9\. Knopfes,
+<h2>3. Kapitel.</h2>
 
 Die Villa Davoser Straße 33 war ein durchaus bef32Wenes
 Bauwerk, freilich vom sehr gefälligen Formen,
