@@ -109,7 +109,7 @@ Astrid habe ich mitgenommen. Auch die Berta Rux und der
 alte Theodor Thieß begleiten mich. Nachmittags wird
 jemand zu Ihnen kommen, der in der Villa wohnen wird,
 bis wir zurückkehren. — Gruß Ihnen und Schraut, eine
-Empfehlung an Ihre Frau Mutter,
+Empfehlung an Ihre Frau Mutter.
 
 <p class="centered">Wundern Sie sich über nichts.</p>
 
@@ -131,7 +131,7 @@ Und als Schluß noch:
 
 > Das Katerfrühstück wartet im Speisezimmer. Tun Sie
 ihm bitte alle Ehre an, wie ich gestern Ihren vorzüglichen
-Weinen. — Ihr Gudor,
+Weinen. — Ihr Gudor.
 
 »Natürliche ein Scherz!« erklärte Frau Harst nochmals.
 »Die vier haben sich hier irgendwo versteckt …«
@@ -156,7 +156,7 @@ rechts von einem sehr hohen Nachbarhause und links von
 der Friedhofsmauer der alten Dorfkirche begrenzten
 Garten, dessen Rückfront ebenfalls an den Kirchhof stieß.
 Links an der Friedhofsmauer stand ein niederer Stall dicht
-am Hause, weiterhin noch eine Art Pavillon
+am Hause, weiterhin noch eine Art Pavillon.
 
 Die Einrichtung der Räume war wie gesagt altmodisch,
 aber behaglich. Das Wertvollste waren die Gemälde, die
@@ -213,7 +213,7 @@ setzen wir uns zu Tisch. Wir werden ja sehen, was dann
 geschieht, wenn wir uns längere Zeit nicht rühren. Nehmen
 wir möglichst bequeme Stellungen ein, damit wir nicht
 ermüden. Sollte etwas geschehen, so rührt euch nicht und
-überlaßt alles mir,«
+überlaßt alles mir.«
 
 <@pagebreak/>
 Frau Harst wollte durchaus nicht mitmachen. »Für eine
@@ -259,7 +259,7 @@ des Hauses vermutete, einzubrechen?! — Nein, — nichts
 <@pagebreak/>
 davon, denn wir hatten noch Handwerker, außerdem war
 Harald nunmehr so vorsichtig gewesen, zwei sehr scharfe,
-auf den Wann dressierte deutsche Schäferhunde anzuschaffen,
+auf den Mann dressierte deutsche Schäferhunde anzuschaffen,
 die unserer Köchin bereits aufs Wort gehorchten.
 
 Eine halbe Stunde verging. Frau Harst seufzte wiederholt,
@@ -303,7 +303,7 @@ und Schifferbart.
 sind Sie?!«
 
 <@pagebreak/>
-»und Sie?!« fragte Harst und trat auf ihn zu.
+»Und Sie?!« fragte Harst und trat auf ihn zu.
 
 »Karl Geidel, zu dienen … Das hier ist mein Haus,
 Sie!! Wenigstens jetzt, solange der Herr Rechtsanwalt verreist
@@ -375,7 +375,7 @@ mit ’n Schlüssel geöffnet, das heißt, hier mit einem
 von meinen Schlüsseln, nachdem ich den anderen rausgestoßen
 hatte. Hier der Schlüssel paßte … Es ist ein miserables
 Schloß …« Er klapperte mit seinem Schlüsselring und
-kaute weiter, er hatte eine beneidenswerte Gemütsruhe,
+kaute weiter, er hatte eine beneidenswerte Gemütsruhe.
 
 »Haben Sie auch telephoniert?«
 
@@ -564,7 +564,7 @@ praktische Einrichtungen gewährleisteten uns größere Sicherheit
 und die Möglichkeit, unbemerkt zu verschwinden und
 unbequeme Besucher unbemerkt verschwinden zu lassen. Davon
 später Näheres. — Mathilde hatte zum Kaffee Kartoffelpuffer
-gebacken, und ich aß wie immer Zu viel davon und
+gebacken, und ich aß wie immer zu viel davon und
 mußte Natron nehmen. Harald hatte ein steifes Genick
 und wirkte mit seinen Kopfbewegungen etwas komisch. Er
 hielt einen Riesenatlas auf den Knien und suchte die Insel
@@ -591,7 +591,7 @@ Friedhofspforte war bereits geschlossen.
 Der Friedhof hinter und neben dem uralten Dorfkirchlein,
 das in seiner Art eine Sehenswürdigkeit ist, enthält
 viele alte Erbbegräbnisse, ist sehr sauber und schön gehalten
-und steigt nach Süden zu ein wenig an. Wir Überkletterten
+und steigt nach Süden zu ein wenig an. Wir überkletterten
 die zweite Mauer nach dem Gudorschen Garten
 hin, nachdem wir noch das Harstsche Erbbegräbnis, einen
 schlichten tempelartigen Bau zwischen zwei größeren ähnlichen
@@ -684,7 +684,7 @@ in den Schoß legte:
 »Ich habe gewiß volles Vertrauen zu unserer Polizei. Ich
 glaube jedoch im Sinne Gudors zu handeln, wenn ich sie
 vorläufig aus dem Spiele lasse. — Schraut und ich werden
-Hierher übersiedeln, lieber Geidel, noch heute. Oder besser,
+hierher übersiedeln, lieber Geidel, noch heute. Oder besser,
 wir bleiben gleich hier.«
 
 »Gott sei Dank!« rief der Steuermann. »Ich bin kein
@@ -758,7 +758,7 @@ jener sogenannten Kombinationen, die zum Beispiel aus dem
 bisherigen Material herausklügeln wollten, daß auf der
 Insel irgendwo Schätze liegen, um die es hier gehen könnte.
 Gewiß, man findet dort auf den Inseln zuweilen auch Diamanten,
-aber diese Lösung wäre nur zu alltäglich. allerdings,
+aber diese Lösung wäre nur zu alltäglich. Allerdings,
 wir haben’s ja selbst erlebt, daß immer noch dieser
 an sich verbrauchte Romanstoff in Wirklichkeit vorhanden ist.
 Old Crack, dem du letztens vier Bände gewidmet hast, besaß
@@ -784,7 +784,7 @@ von dieser Lösung.
 Harst wehrte lächelnd ab. »Weil da ein Widerspruch
 vorhanden, mein Alter. Die drei Gegner hier beobachten
 Gudor schon längere Zeit, mindestens seit seiner Übersiedlung
-hierher. Sie haben Zeit gehabt, sich Nachschlüssel zu Verschaffen.
+hierher. Sie haben Zeit gehabt, sich Nachschlüssel zu verschaffen.
 Mithin wären sie ihm wohl gefolgt und nicht hier
 geblieben. Gerade weil sie hier blieben, weil sie das Katerfrühstück
 präparierten, um in Ruhe alles durchsuchen zu
@@ -828,14 +828,14 @@ Näschen.
 Wir halfen Geidel beim Befestigen der Vorlegeschlösser,
 und Harald sicherte besonders gut die beiden Hintertüren,
 also die des Souterrains und des Wintergartens, prüfte auch
-Überall die Gitter und ließ Brutus im Garten.
+überall die Gitter und ließ Brutus im Garten.
 
 Um halb acht kam Mathilde mit einem Auto und einem
 Koffer. Sie war übelster Laune, da sie uns zum Abendbrot
 Kalbsleber hatte vorsetzen wollen.
 
 »… Die Wirtschaft jeht jenau so verrückt los wie
-Früher in unser altes Haus …« — damit verabschiedete
+früher in unser altes Haus …« — damit verabschiedete
 sie sich.
 
 Es hatte sich abends aufgeklärt. Der Mond schien
@@ -884,7 +884,7 @@ in der Luft umher, kam wieder herab und meinte:
 
 »Na ja, mir ist warm …« Er trug die Leiter weg,
 und ich grübelte über die Blätter und die Wärme nach.
-Erstere Konnten absichtlich auf den Fliesenboden gestreut
+Erstere konnten absichtlich auf den Fliesenboden gestreut
 worden sein, um Spuren zu verdecken. Aber die Wärme?!
 Ich fand es recht kühl.
 
@@ -895,7 +895,7 @@ wieder zu mir trat, vernichtete er meine geistreiche Eingebung.
 Falltür besitzt … Keine Rede!«
 
 »Schade,« sagte ich, und wir gingen ins Haus, da Frau
-Therese mit ihrer kreischenden Stimme uns zu Tisch rief,
+Therese mit ihrer kreischenden Stimme uns zu Tisch rief.
 
 Allerhand Achtung: Sie hatte sich angestrengt. Es gab
 als Vorspeise gefüllte Tomaten, dann gebackenen Schinken
@@ -950,7 +950,7 @@ Die Standuhr schlug zehn. Ihr blechener Ton ärgerte
 mich, er war aufdringlich laut und keifend, beinahe wie Frau
 Theresens Stimme. Außerdem folgten die einzelnen Schläge
 so langsam aufeinander, daß man mit qualvoller Ungeduld
-Immer den nächsten erwartete,
+immer den nächsten erwartete.
 
 Ich saß mit dem Rücken nach der offenen Schiebetür
 des Speisezimmers hin, während Harald mir gegenüber
@@ -963,14 +963,14 @@ Die vermaledeite Uhr hatte gerade sechs Schläge glücklich
 erledigt, als Harald seine Zeitung sinken ließ, den Arm
 ausstreckte und rasch die auf dem runden Rauchtisch stehende
 elektrische Lampe ausschaltete. Es wurde stockdunkel. Wir
-Hatten nur diese Lampe brennen lassen. Sodann fühlte ich
+hatten nur diese Lampe brennen lassen. Sodann fühlte ich
 Harsts Hand, der mich seitwärts aus meinem Plüschsessel auf
 den Teppich zog. Ich folgte dem Druck seiner Finger, und
 ein  Schwirren über mir und das Splittern eines Glases,
 eines Bildes an der Wand — sodann das merkwürdig dumpfe
 »Blomb«, mit dem eine Kugel durch den seidenen Lampenschirm
 fuhr, belehrte mich, daß wir aufs neue Zielscheibe
-für den miserablen Schützen waren,
+für den miserablen Schützen waren.
 
 Ich kniete nach vorn gebeugt auf dem Teppich, nahm
 hinter dem Sessel volle Deckung und vernahm zusammen
@@ -1002,7 +1002,7 @@ Gestalten um mich her, und einer der Herren sagte
 liebenswürdig-flüsternd: »Wenn Sie sich bewegen, ist es
 aus mit Ihnen!« Dann schaltete ein anderer die Tischlampe
 ein und steckte mir meine noch glimmende Zigarre
-Zwischen die Lippen. Das Taschentuch, das man mir in den
+zwischen die Lippen. Das Taschentuch, das man mir in den
 Mund gezwängt hatte, roch nach Parfüm. Bei diesem Überfall
 war mir meine Hornbrille entglitten. Man setzte sie
 sie mir wieder auf, aber die Gläser waren mit Druckerschwärze
@@ -1081,7 +1081,7 @@ Chloroformgeruch verriet mir so manches. — Ich schleppte
 Harst auf das Sofa ins Herrenzimmer und rannte die Treppe
 empor und hämmerte gegen Geidels Stubentür.
 
-»Kommen Sie sofort herunter!« brüllte ich
+»Kommen Sie sofort herunter!« brüllte ich.
 
 Dieses »Sofort« dauerte fünf Minuten, und da war
 Harald schon wieder zu sich gekommen.
@@ -1094,7 +1094,7 @@ hatte ihm offenbar vergiftete Wurst zugeworfen, die das
 Tier zum Glück wieder ausgebrochen hatte. Seltsam dabei
 war, daß Brutus den vergifteten Brocken überhaupt gefressen
 hatte, da er dressiert war, nur aus bekannter Hand
-Fressen anzunehmen,
+Fressen anzunehmen.
 
 Harald erholte sich rasch. Er erzählte, daß er tatsächlich
 in das Souterrain hinabgeeilt sei, dort die Tür
@@ -1204,7 +1204,7 @@ haben Sie getroffen?!«
 wünschte, Sie …«
 
 Harald taumelte, — ich stützte ihn, und rasch führten
-wir ihn ins Haus zurück,
+wir ihn ins Haus zurück.
 
 <@pagebreak/>
 
@@ -1258,7 +1258,7 @@ innen Bretter vor das Fenster.«
 Brutus schlich etwas schwankend hinter uns drein.
 
 Ich schaute mir das Gitter bei Laternenlicht an. Man
-Hatte die Stäbe mit einer Stahlsäge durchgeschnitten und ein
+hatte die Stäbe mit einer Stahlsäge durchgeschnitten und ein
 Loch gelassen, durch das ein Mensch bequem hinein und
 hinausschlüpfen konnte.
 
@@ -1271,14 +1271,14 @@ schlafen …!«
 Geidel hatte Filzschuhe und einen Mantel an. Was er
 unter dem Mantel trug, war wohl nur ein Wollhemd. Er
 zog den Mantel fröstelnd um sein hageres Knochengerüst
-und schob wieder ab,
+und schob wieder ab.
 
 Wir machten dann die Runde durch das Haus. Harald
 prüfte die Schlüssel, zu denen wir die Schlüssel noch besaßen
 und trieb in jedes dieser neuen Vorlegeschlösser einen langen
 Nagel mit dem Hammer hinein, worüber ich mich schweigend
 wunderte. Ich wunderte mich über vieles. Aber wenn Harst
-Glaubte, ich durchschaue ihn nicht, irrte er sich sehr.
+glaubte, ich durchschaue ihn nicht, irrte er sich sehr.
 
 Es war nun zwei Uhr morgens. Anständige Menschen
 schlafen um diese Zeit. Wir rechnen vielleicht auch dazu,
@@ -1297,7 +1297,7 @@ Schwindler!«
 »Gut: Also leise — — du Schwindler!!!« — Seine
 schmale lange Hand griff nach einer Zigarette.
 
-»Zugegeben: Ich Habe mich selbst chloroformiert, ich habe
+»Zugegeben: Ich habe mich selbst chloroformiert, ich habe
 die Schüsse gegen Gespenster abgefeuert, ich habe noch manches
 andere getan, was Lug und Trug ist. Dieses undurchsichtige
 Spiel verlangt es. Nichts geschieht ohne Zweck. Am liebsten
@@ -1308,7 +1308,7 @@ schlau, aber seiner Frau und seinen Eltern gegenüber
 nimmt er zu viel Rücksicht.«
 
 Er formte einen Rauchring und schaute ihm andächtig
-nach,
+nach.
 
 »Es sind also doch nur drei,« meinte ich. »Weshalb
 ließest du den vierten auftauchen, der dich im Flur niedergeschlagen
@@ -1324,7 +1324,7 @@ Geschirrs.
 gebaut … Nun werden wir nicht mehr belauscht
 werden.«
 
-Ich war starr,
+Ich war starr.
 
 »Wer war das?!«
 
@@ -1362,7 +1362,7 @@ Allerdings: rechts unten stand kaum sichtbar geschrieben:
 
 <p class="centered">B. Achthinten.</p>
 
-»Ah so!! …: Beachte hinten!« rief ich fast begeistert,
+»Ah so!! …: Beachte hinten!« rief ich fast begeistert.
 
 Die Stifte, mit denen die Pappe am Rahmen festgedrückt
 war, waren lose. Ich zog sie heraus und hob
@@ -1370,7 +1370,7 @@ die Pappe ab. Auf der Innenseite des durchlöcherten Bogens
 sah ich eine Zeichnung.
 
 Harald ging zur Tür und hängte das Chloroformtaschentuch
-über das Schlüsselloch
+über das Schlüsselloch.
 
 <@pagebreak 35/>
 
@@ -1419,9 +1419,9 @@ Stangenlianen kreuzen sich mit den Schäften, und unter
 diesem Kreuzungspunkt ist irgend etwas zu finden …
 zu finden gewesen, mein Alter, denn die Stifte, die die
 Pappe hielten, waren schon recht locker, als ich sie vorhin
-Herauszog, und Kratzer auf der Pappe unter diesen Stiften
+herauszog, und Kratzer auf der Pappe unter diesen Stiften
 zeigten deutlich die Arbeit einer Flachzange. Udo Gudor
-Hat, behaupte ich, den Schatz längst gehoben, was denen,
+hat, behaupte ich, den Schatz längst gehoben, was denen,
 die uns hier als Zielscheibe für Luftbüchsen wählen, nicht
 bekannt ist. Diese Leute … — hallo, das Telephon …
 Vielleicht Anruf aus Hamburg von unserem Freunde.«
@@ -1551,7 +1551,7 @@ der dich aller Sorgen überhebt.« — Dies hat dem Doktor
 nun viele schlaflose Nächte gekostet … Kapitän Ewald
 Gudor starb vor drei Jahren. Seit seinem Tode grübelte
 der Herr Rechtsanwalt darüber nach, was mit dem Nachsatz
-Des Testaments gemeint sein könnte. »Karl,« sagte er, »mein
+des Testaments gemeint sein könnte. »Karl,« sagte er, »mein
 Vater hat sicherlich auf Jellarong Edelsteine gefunden und
 den Fundort durch eine Zeichnung festgelegt. Aber — wo ist
 sie?! Was heißt »*in mir* einen Schatz finden«?!« — Daß
@@ -1566,14 +1566,14 @@ Reederei, bei Knauß und Köppen: Ich habe Zeugnisse —
 eins a!!«
 
 »Und weshalb verließen Sie Ihren Beruf?« fragte
-Harald und blickte Geidel durchdringend an,«
+Harald und blickte Geidel durchdringend an.
 
 Geidel schielte seitwärts. »Hm — ja, — — ich … ich …
 hatte eben genug von der Seefahrt … Wenn ich auch
 nicht ganz Landratte geworden bin … Ich hab’ einen
 großen Leichter in Hamburg, ganz moderner Kahn ist’s mit
 Motor und so, — und damit verdiene ich sehr gut …
-Und das Grundstück und die Drogerie werfen auch was ab.
+Und das Grundstück und die Drogerie werfen auch was ab.«
 
 »Zu alledem gab Gudor Ihnen das Geld … — sehr
 großmütig!«
@@ -1581,7 +1581,7 @@ großmütig!«
 »Anständig, vornehm, — — das stimmt!«
 
 <@pagebreak/>
-»Waren Sie mal auf der Insel, Geidel«
+»Waren Sie mal auf der Insel, Geidel?«
 
 Wieder drehte unser Maat den Kopf zur Seite …
 »Ja, ich war dort …«
@@ -1614,7 +1614,7 @@ So leicht ließ ich mich doch nicht bluffen. Es gab
 hier für die Vorgänge der Nacht eine sehr einfache Erklärung:
 Geidel war gar nicht Geidel, und seine Frau und
 besonders seine Eltern waren Gott weiß wer! Weshalb
-Hatten denn die »Schurken« immer nur auf uns geschossen,
+hatten denn die »Schurken« immer nur auf uns geschossen,
 nie auf die Familie »Geidel«?! —
 
 Was dann geschah, bestätigte nur diesen Verdacht. Harald
@@ -1689,7 +1689,7 @@ hatte!
 <h2>2. Kapitel.</h2>
 
 Er steckte den Brief samt Inhalt in den Ofen. »Sicher
-Ist sicher, mein Alter,« sagte er ein wenig schuldbewußt. »Die
+ist sicher, mein Alter,« sagte er ein wenig schuldbewußt. »Die
 Geidels sind also *nicht* harmlos. Der Doktor hat ihnen Vertrauen
 geschenkt, und sie haben dies gründlichst mißbraucht,
 wie es den Anschein hat.«
@@ -1699,8 +1699,8 @@ Ich fand diesen Nachsatz mit seiner Einschränkung sehr
 sprechen …! Geidel ist ein …«
 
 Ich wollte sagen: »… ein perfekter Lump,« aber Harald
-Hob warnend die Hand. Ich hörte die Haustür zufallen, dann
-klopfte es und der perfekte Lump trat ein. »Abends Ist das
+hob warnend die Hand. Ich hörte die Haustür zufallen, dann
+klopfte es und der perfekte Lump trat ein. »Abends ist das
 Bild wieder in Ordnung,« erklärte er sichtlich, außer Atem.
 
 »Weshalb sind Sie denn so gelaufen, Geidel?« — und
@@ -1712,11 +1712,11 @@ meine Herren …« — der Steuermann lächelte sehr gequält.
 »Ein Herr fragte mich eben auf der Straße, ob
 <@pagebreak/>
 Sie beide wirklich hier in der Villa seien … Ich glaube
-Fast, es war einer der … Schurken, wenn er auch äußerlich
+fast, es war einer der … Schurken, wenn er auch äußerlich
 ganz … ganz anständig aussah, nur … ein Riese
 ist’s … Der bringt uns alle drei mit der Faust um …«
 
-»ach was?!« Harald faßte in die Schlüsseltasche der
+»Ach was?!« Harald faßte in die Schlüsseltasche der
 Beinkleider … »Dann ist’s besser, ich stecke dies kleine
 Maschinengewehr griffbereit in die Jackentasche …«
 
@@ -1745,7 +1745,7 @@ Eltern sind heute früh sieben Uhr dreißig nach Hamburg
 zurückgekehrt … Sie hatten hier doch zu große Angst,
 die alten Leutchen …«
 
-»ach was!! Sie sind ja …«
+»Ach was!! Sie sind ja …«
 
 Doch das Schrillen der Flurglocke zerschnitt den Satz, —
 — und wie schrillte sie!!
@@ -1760,7 +1760,7 @@ Mann verbraucht ja die ganzen Klingelelemente!«
 Geidel leckte sich wie ein Halbblöder die Lippen. »Bitte …
 bitte … mag Herr Schraut öffnen … Ich …«
 
-"*Sie* werden gehen!! Teufel noch mal, was soll das
+»*Sie* werden gehen!! Teufel noch mal, was soll das
 denn?! Und Sie bleiben hier bei dem Herrn, bis wir oben
 Ihren Eltern guten Morgen gewünscht haben!«
 
@@ -1784,7 +1784,7 @@ machte. Sie bückte sich rasch und machte sich an dem
 Klappbett zu schaffen.
 
 »Wir reden nachher noch miteinander, « sagte Harst und
-schritt der Treppe zu,
+schritt der Treppe zu.
 
 Als wir durch das Eßzimmer wieder das Herrenzimmer
 betraten, stand vor dem Schreibtisch ein baumlanger hagerer
@@ -1917,7 +1917,7 @@ nichts davon angerührt. Dies ist der eine dunkle Punkt.
 Der zweite: Der Tresor ist ziemlich neu und hat ein gutes
 Schloß. Woher hatten die Kerle den Nachschlüssel?!«
 
-»und — weshalb bemühen Sie dieserhalb nicht die
+»Und — weshalb bemühen Sie dieserhalb nicht die
 Polizei?!«
 
 »Aber ich bitte Sie: Nichts gestohlen!! Wo wird die
@@ -1925,7 +1925,7 @@ Kriminalpolizei sich bei ihrer notorischen Überlastung da
 Mühe geben?!«
 
 »Mag sein … — Vielleicht wurden die Diebe gestört,
-Herr Professor, und Flohen Hals über Kopf.«
+Herr Professor, und flohen Hals über Kopf.«
 
 »Keine Rede!! Sie ließen mir ja sogar noch einen
 Zettel da … — im Tresor, Herr Harst! — Hier — —
@@ -1938,7 +1938,7 @@ Und das ist Punkt drei. — Wofür bedanken sich die
 Kerle?! Etwa dafür, daß sie mir vom Rauchtisch vier
 Schachteln Zigaretten klemmten?!«
 
-»Welche Marke?« fragte Harst schnell
+»Welche Marke?« fragte Harst schnell.
 
 »Nun, Ihre Mirakulum nicht … Aber auch eine seltene
 Sorte … Ich bekomme sie direkt aus Kairo von einem
@@ -1968,7 +1968,7 @@ Beweis, daß sie sich durchaus Zeit ließen …«
 
 Ich hatte mir den Kopf der Samoanerin nun ebenfalls
 angeschaut, und es kostete mich Mühe, mich nicht zu verraten,
-— genau wie Harald nichts dazu geäußert hatte,
+— genau wie Harald nichts dazu geäußert hatte.
 
 Er sagte jetzt: »Am besten, wir sehen uns den Tatort
 an …«
@@ -1977,7 +1977,7 @@ an …«
 dürfte … — mein Auto wartet draußen.«
 
 Harald tat, als ob ihm auch dies nicht weiter aufstieß,
-obwohl Gollert doch zu Fuß gekommen war, —
+obwohl Gollert doch zu Fuß gekommen war. —
 
 Das Auto war ein großer neuer Wagen, sehr elegant,
 geheizt, mit allen Schikanen. Wir fuhren davon, ohne
@@ -2070,7 +2070,7 @@ Zufällig blickte ich die Generalin an, und — — sie
 war auffallend bleich geworden. —
 
 <@pagebreak/>
-Was bedeutete das alles??! — Ich, der bisher nur
+Was bedeutete das alles?! — Ich, der bisher nur
 Nebenfigur gespielt hatte, fragte geradezu, um endlich etwas
 Klarheit zu schaffen: »Und was soll das »Danke!!« auf dem
 Blatt?! Die Diebe müssen danach doch etwas gefunden haben
@@ -2093,7 +2093,7 @@ annehmen, daß der Blick ihr gelten sollte, mit Sicherheit war
 das leider nicht zu entscheiden.
 
 »Erzählen Sie doch, verehrter Harst,« wandte er sich
-dann an Harald,
+dann an Harald.
 
 »Ist das nötig?!« meinte der und leistete sich ein Kaviarschnittchen.
 
@@ -2132,7 +2132,7 @@ Der Professor hüstelte … Dies schien den Diener
 erschreckt zu haben, denn er ließ plötzlich ohne sonstige
 erkennbare Ursache die silberne Platte fallen und sah mit
 blödem Gesicht Früchte und Konfitüren über den Teppich
-rollen
+rollen.
 
 Dieses blöde Gesicht ward jedoch mit einem Schlage
 erdfahl. Siwar glotzte in die Mündung einer Pistole, und
@@ -2162,7 +2162,7 @@ Meine drei … vier Schüsse — — vier nacheinander —
 der Messingstange herab polterte, denn Koch und Chauffeur
 waren so jäh nach vorn gesunken, daß sie eben Vorhang
 und Stange mit herunterrissen und daß der Vorhang ihre
-zuckenden Körper halb bedeckte,
+zuckenden Körper halb bedeckte.
 
 Die Generalin, den Malaiendolch quer im Halse, war
 in ihren Stuhl zurückgesunken und rutschte mit einem gräßlichen
@@ -2201,7 +2201,7 @@ und seine Banditen mögen geglaubt haben, das feuchte
 Tuch auf meinem Gesicht würde mich vollends ausschalten.
 Sie haben übergenug mit dem anderen Gegner zu tun,
 diese vier üblen Kumpane. Ich hebe den Kopf, schaue
-Hinweg über das im Tode erstarrte Gesicht der Frau mit
+hinweg über das im Tode erstarrte Gesicht der Frau mit
 dem Kris im Halse und sehe drüben jenseits des Tisches
 auf dem Teppich einen Knäuel von Männern — rollend, sich
 hochbäumend, wieder zusammensinkend, — — sehe Füße und
@@ -2219,7 +2219,7 @@ kennen und kollern mit arg ramponierten Gesichtern in die
 Ecken.
 
 Den Kampfplatz zieren zertretenes vergiftetes Konfekt, zertretene
-Früchte, — einsam Liegt da noch unbeschädigt zu
+Früchte, — einsam liegt da noch unbeschädigt zu
 Gollerts Füßen eine wundervolle blaulila Weintraube.
 
 Die Herrschaften geben das Spiel verloren. Gollert
@@ -2249,7 +2249,7 @@ Polizei erscheint, wissen wir genau.
 Harald geht voraus in Gollerts Arbeitszimmer. Aber
 der Fernsprecher versagt. Die — Leitung ist irgendwo unterbrochen.
 
-»Dann also zurück zu Gudor,« meint Harald,
+»Dann also zurück zu Gudor,« meint Harald.
 
 Wir bringen uns leidlich in Ordnung, nehmen das Auto
 und fahren davon, nachdem wir die Villa und die Pforte
@@ -2273,9 +2273,9 @@ anderen …«
 Er schließt die Tür auf, und im Eintreten erwidert er:
 »Wir werden das Nest leer finden, aber das andere hat
 Zuzug erhalten. Komm’ nur, mein Alter … Erst die
-Polizei,«
+Polizei.«
 
-Hier funktionierte das Telephon,
+Hier funktionierte das Telephon.
 
 »… Wer dort …? — Gut, ich erkenne Ihre Stimme,
 lieber Lücke … Wollen Sie bitte sofort einige Beamte
@@ -2386,7 +2386,7 @@ Geidel. Der erste klärende Lichtstrahl war der Ast mit den
 dicken Blattknospen. Ich hatte sofort herausgefunden, wie
 und woher die Wärme entstehen und stammen könnte: Aus
 dem Mausoleum, das bereits tagelang vorher von Ihnen
-geheizt worden sein mußte,«
+geheizt worden sein mußte.«
 
 »Allerdings, lieber Herr Harst …«
 
@@ -2409,7 +2409,7 @@ Ihres Vaters so entdeckt und die Inschrift der Korallenkette
 entziffert hatte, waren Geidels Angaben über das
 Testament nur noch Bestätigung meiner neuen und nunmehr
 richtigen Theorie: Es ging doch um einen Schatz, und Sie
-waren, wie ich Überzeugt, nur hier nach Schmargendorf
+waren, wie ich überzeugt, nur hier nach Schmargendorf
 gezogen, um dem Diebe Ihres Erbes durch Diebe die Beute
 ganz unauffällig wieder abjagen zu lassen. Diese umständliche
 Art, gegen Professor Gollert vorzugehen, muß nun
@@ -2472,8 +2472,8 @@ Der eine holte unter Gollerts Kissen den Tresorschlüssel
 hervor, und beide entnahmen dem Panzerschrank dann den
 Zinnkasten, der noch gegen vierhundert Edelsteine enthielt.
 — Ich selbst wollte verhüten, daß etwa ein Verdacht, den
-Einbruch veranlaßt Zu haben, auf mich fiele, daher die
-angebliche Reise. — haben Sie noch etwas zu fragen,
+Einbruch veranlaßt zu haben, auf mich fiele, daher die
+angebliche Reise. — Haben Sie noch etwas zu fragen,
 lieber Herr Harst?!«
 
 »Nein, ich nicht, — vielleicht aber der Herr, der da gerade
@@ -2585,7 +2585,7 @@ die Generalin ermordet hat.«
 Die Anwesenden waren sämtlich sehr bedrückt und sehr
 still geworden. Der verworfene Geist eines Mannes, den
 Mutter Natur so zwiespältig mit Gaben bedacht hatte,
-lastete über uns wie eine widerwärtige, fahle Wolke, —
+lastete über uns wie eine widerwärtige, fahle Wolke. —
 
 Die Zeitungen brachten sehr knappe Notizen. Trotzdem
 muß irgendein fremder Zeitungskorrespondent die Wahrheit
