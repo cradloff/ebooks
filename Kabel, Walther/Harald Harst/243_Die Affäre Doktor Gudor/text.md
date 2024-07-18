@@ -1689,16 +1689,16 @@ hatte!
 <h2>2. Kapitel.</h2>
 
 Er steckte den Brief samt Inhalt in den Ofen. »Sicher
-Ist sicher, mein Alter,« sagte er ein wenig schuldbewußt. "Die
-Geidels sind also nicht harmlos. Der Doktor hat ihnen Ver-
-trauen geschenkt, und sie haben dies gründlichst mißbraucht,
+Ist sicher, mein Alter,« sagte er ein wenig schuldbewußt. »Die
+Geidels sind also *nicht* harmlos. Der Doktor hat ihnen Vertrauen
+geschenkt, und sie haben dies gründlichst mißbraucht,
 wie es den Anschein hat.«
 
 Ich fand diesen Nachsatz mit seiner Einschränkung sehr
 überflüssig. »Hier kann man wohl nicht mehr von Ansicht
-sprechen …! Geidel ist ein …"
+sprechen …! Geidel ist ein …«
 
-Ich wollte sagen: "… ein perfekter Lump," aber Harald
+Ich wollte sagen: »… ein perfekter Lump,« aber Harald
 Hob warnend die Hand. Ich hörte die Haustür zufallen, dann
 klopfte es und der perfekte Lump trat ein. »Abends Ist das
 Bild wieder in Ordnung,« erklärte er sichtlich, außer Atem.
@@ -1714,10 +1714,10 @@ meine Herren …« — der Steuermann lächelte sehr gequält.
 Sie beide wirklich hier in der Villa seien … Ich glaube
 Fast, es war einer der … Schurken, wenn er auch äußerlich
 ganz … ganz anständig aussah, nur … ein Riese
-ist’s … Der bringt uns alle drei mit der Faust um ...«
+ist’s … Der bringt uns alle drei mit der Faust um …«
 
 »ach was?!« Harald faßte in die Schlüsseltasche der
-Beinkleider … "Dann ist’s besser, ich stecke dies kleine
+Beinkleider … »Dann ist’s besser, ich stecke dies kleine
 Maschinengewehr griffbereit in die Jackentasche …«
 
 Aber er tat’s nicht, sondern trat dicht vor Geidel hin
@@ -1740,10 +1740,10 @@ er sich doch wieder in die Gewalt, und versuchte ein versöhnliches
 Lächeln: »Weiß Gott, Sie gehen übel mit mir
 um, Herr Harst … Meine Eltern — —, hm ja … —
 ich wollte es Ihnen eigentlich schon morgens sagen …
--- aber ich dachte, Sie würden ärgerlich werden, — meine
+— aber ich dachte, Sie würden ärgerlich werden, — meine
 Eltern sind heute früh sieben Uhr dreißig nach Hamburg
 zurückgekehrt … Sie hatten hier doch zu große Angst,
-die alten Leutchen …"
+die alten Leutchen …«
 
 »ach was!! Sie sind ja …«
 
@@ -1773,8 +1773,8 @@ offen. Frau Therese klappte gerade ein eisernes Feldbett
 zusammen. Harst stieß rasch die Türen der beiden anderen
 Stuben auf. Es war niemand da.
 
-»Wo sind Ihre Schwiegereltern?!" fragte er die Ver-
-schüchterte Therese.
+»Wo sind Ihre Schwiegereltern?!« fragte er die Verschüchterte
+Therese.
 
 »Abgereist …« stammelte sie … »Deshalb nehme ich
 ja auch das Bett hier wieder weg …«
@@ -1793,9 +1793,9 @@ auf dem Teppich und hielt sich das blutig geschlagene
 Ohr und wimmerte.
 
 »Professor Gollert,« stellte sich der Fremde mit beneidenswerter
-Ruhe vor. »Ich mag mich hier etwas merk-
-würdig eingeführt haben, meine Herren, aber der Bursche
-da wurde unverschämt und bedrohte mich …"
+Ruhe vor. »Ich mag mich hier etwas merkwürdig
+eingeführt haben, meine Herren, aber der Bursche
+da wurde unverschämt und bedrohte mich …«
 
 »Das ist Lüge!!« kreischte Geidel vom Teppich her.
 
@@ -1821,16 +1821,16 @@ Geidel, gehen Sie nach oben …«
 Geidel erhob sich langsam.
 
 »Ich … bleibe, « knurrte er. »Ich bin hier jetzt Hausherr,
-und ..."
+und …«
 
 »Sie gehen — zum Donner!! Hauswart sind Sie hier
 — Hausherr bin ich durch Gudors Vollmacht! Scheren Sie
-sich!"
+sich!«
 
 »Es wird Ihnen leid tun, Herr Harst,« murmelte der
 Steuermann und blickte den langen Professor tückisch an.
-»Sie — Sie werde ich verklagen, — — Sie!! Ihre Boxer-
-Künste können Sie anderswo anbringen, Sie!! — — Ich
+»Sie — Sie werde ich verklagen, — — Sie!! Ihre Boxerkünste
+können Sie anderswo anbringen, Sie!! — — Ich
 warne Sie also, Herr Harst.«
 
 Gollerts gelbliches Gesicht mit dem grauen dünnen
@@ -1849,8 +1849,8 @@ längerer Zeit schon kennen, wenn auch beide dies ableugneten.
 Der Professor nahm Platz. — Alles in allem war er
 <@pagebreak/>
 eine außergewöhnliche Erscheinung. Sein Gesicht verriet ebenso
-viel Intelligenz wie Neigung zur Brutalität. Seine Kinn-
-Partie war die eines rücksichtslosen Kraftmenschen, seine
+viel Intelligenz wie Neigung zur Brutalität. Seine Kinnpartie
+war die eines rücksichtslosen Kraftmenschen, seine
 Stirn die eines Gelehrten. Am sonderbarsten waren seine
 Augen: Er schielte so stark, daß man nie recht wußte, ob
 er einen anblickte.
@@ -1868,7 +1868,7 @@ zurück sind,« warf Harald ein …
 
 »Man übersieht manches, verehrter Herr Harst. Ich
 brauche jedenfalls dringend einen tüchtigen Detektiv, deshalb
-kam ich hier zu Gudor ..."
+kam ich hier zu Gudor …«
 
 »Ist er als Detektiv tüchtig?«
 
@@ -1879,14 +1879,14 @@ mir, daß ich Sie beide zur Hand habe …«
 
 »Wir sind nicht Detektive, Herr Professor …«
 
-»Schon gut ... Weiß ja, Sie übernehmen nur Fälle
-die nicht alltäglich …"
+»Schon gut … Weiß ja, Sie übernehmen nur Fälle
+die nicht alltäglich …«
 
-»Auch die nicht immer ..."
+»Auch die nicht immer …«
 
 »Nun — meinen Fall werden Sie erledigen … Ein
-Harst läßt sich solchen Leckerbissen nicht entgehen … --
-Hören Sie also …"
+Harst läßt sich solchen Leckerbissen nicht entgehen … —
+Hören Sie also …«
 
 »Pardon: Wußten Sie, daß wir hier bei Gudor sind?«
 
@@ -1894,9 +1894,9 @@ Hören Sie also …"
 traf an der Ecke Kunostraße einen Beamten der Nachtwachgesellschaft,
 der auch meine Villa in der Davoser Straße
 bewacht, und der erzählte mir, er hätte von einem Polizeiwachtmeister
-erfahren, es sei nachts hier im Garten ge-
+erfahren, es sei nachts hier im Garten geschossen
 <@pagebreak/>
-schossen worden und Herr Schraut sei mit dabei gewesen …"
+worden und Herr Schraut sei mit dabei gewesen …«
 
 »So … so … — Nun, — — und?!«
 
@@ -1915,7 +1915,7 @@ einem Nachschlüssel. Obwohl nun in dem Tresor über dreitausend
 Mark Bargeld und Schmuckstücke lagen, haben sie
 nichts davon angerührt. Dies ist der eine dunkle Punkt.
 Der zweite: Der Tresor ist ziemlich neu und hat ein gutes
-Schloß. Woher hatten die Kerle den Nachschlüssel?!"
+Schloß. Woher hatten die Kerle den Nachschlüssel?!«
 
 »und — weshalb bemühen Sie dieserhalb nicht die
 Polizei?!«
@@ -1940,9 +1940,9 @@ Schachteln Zigaretten klemmten?!«
 
 »Welche Marke?« fragte Harst schnell
 
-"Nun, Ihre Mirakulum nicht … Aber auch eine seltene
+»Nun, Ihre Mirakulum nicht … Aber auch eine seltene
 Sorte … Ich bekomme sie direkt aus Kairo von einem
-Freunde … Sie wissen, ich bin Archäologe, Herr Harst …"
+Freunde … Sie wissen, ich bin Archäologe, Herr Harst …«
 
 <@pagebreak/>
 »Jetzt weiß ich’s …« — und *der* Ton war für mich
@@ -1953,7 +1953,7 @@ zu sehen?«
 »Bitte: Mein Tresor ist wertlos geworden … Die Kerle
 haben einen Nachschlüssel dazu.«
 
-»Ah so — — ganz recht .,,! Natürlich — — natürlich
+»Ah so — — ganz recht …! Natürlich — — natürlich
 — — der Tresor!« Harald betrachtete das Blatt mit dem
 »Danke!!« und drehte es um … »Das scheint ja aus
 einem Buche herausgerissen zu sein … Hier ist ja ein Stahlstich
@@ -1967,17 +1967,17 @@ meinem Arbeitszimmer erst herausgerissen — auch ein
 Beweis, daß sie sich durchaus Zeit ließen …«
 
 Ich hatte mir den Kopf der Samoanerin nun ebenfalls
-angeschaut, und es kostete mich Mühe, mich nicht zu ver-
-raten, — genau wie Harald nichts dazu geäußert hatte,
+angeschaut, und es kostete mich Mühe, mich nicht zu verraten,
+— genau wie Harald nichts dazu geäußert hatte,
 
 Er sagte jetzt: »Am besten, wir sehen uns den Tatort
-an …"
+an …«
 
 »Ganz meiner Meinung … Wenn ich Sie bitten
 dürfte … — mein Auto wartet draußen.«
 
-Harald tat, als ob ihm auch dies nicht weiter auf-
-stieß, obwohl Gollert doch zu Fuß gekommen war, —
+Harald tat, als ob ihm auch dies nicht weiter aufstieß,
+obwohl Gollert doch zu Fuß gekommen war, —
 
 Das Auto war ein großer neuer Wagen, sehr elegant,
 geheizt, mit allen Schikanen. Wir fuhren davon, ohne
@@ -2002,78 +2002,78 @@ unbeschädigt.«
 
 <h2>3. Kapitel.</h2>
 
-Die Villa Davoser Straße 33 war ein durchaus bef32Wenes
-Bauwerk, freilich vom sehr gefälligen Formen,
-und die Inneneinrichtung ebenso gediegen wie geschmackvoll,
-Der Professor — ich schätzte ihn auf fünfzig —« war Jungs
-geselle. Als Hausdame hatte er eine entfernte Verwandte
-zu sich genommen, die Witwe eines Generals, eine Staunen
-Erkaltenden Wesen und jener stark? hervortretenden Unnahbarkeit,
+Die Villa Davoser Straße 33 war ein durchaus bescheidenes
+Bauwerk, freilich von sehr gefälligen Formen,
+und die Inneneinrichtung ebenso gediegen wie geschmackvoll.
+Der Professor — ich schätzte ihn auf fünfzig — war Junggeselle.
+Als Hausdame hatte er eine entfernte Verwandte
+zu sich genommen, die Witwe eines Generals, eine Frau von
+erkältendem Wesen und jener stark hervortretenden Unnahbarkeit,
 die weit mehr belustigend als imponierend wirkt.
 
-Brachten wir uns das durchgesägte Gitter, den im
+Nachdem wir uns das durchgesägte Gitter, den im
 Herrenzimmer in die Schmalwand eingelassenen Tresor und
-auch das Buch angesehen hatten, aus dem der Statisten herausgerissen
-und dann zu dem rätselhaften »Danke!!« des
-Tut worden war, lud Ihre Auflgeblasenheit, die Frau
-Generalmajor v. Maier (ausgerechnet »von« Wasser!). uns
-beide in wohlgesetzten, eisig kühlen Worten zu einem Irre
-Bis ein.
+auch das Buch angesehen hatten, aus dem der Stahlstich herausgerissen
+und dann zu dem rätselhaften »Danke!!« benutzt
+worden war, lud Ihre Aufgeblasenheit, die Frau
+Generalmajor v. Maier (ausgerechnet »von« Maier!!) uns
+beide in wohlgesetzten, eisig kühlen Worten zu einem Imbiß
+ein.
 
 Es war merkwürdig, daß diese dürre Lorgnon-Dame
-(Gott Hab’ sie selig, sie ist zu ihren Ahnen versammelt,
+(Gott hab’ sie selig, sie ist zu ihren Ahnen versammelt,
 und sie hätte trotz allem einen besseren Tod verdient)
 andauernd neben uns blieb und selbst auf einen sehr energischen
 Wink des Professors hin nicht verschwand. Überhaupt
 <@pagebreak/>
-— es herrschte hier ein eigentümlichen Ton in diesen
-Hause. Da war ein Koch, unfehlbar ein Asiate, da war ritt
+— es herrschte hier ein eigentümlicher Ton in diesem
+Hause. Da war ein Koch, unfehlbar ein Asiate, da war ein
 Diener, auch so eine hellbraune Fratze, und schließlich der
-Chauffeur, ein Kerl mit einer abgestempelten ZuchthauSvisage.
-Die drei blieben auch stets in Murmelte, nur daß
-sie nicht wie Frau Maier mit einem Lorgnon unsere Lebend
-verfolgten. — Harald hatte na der Besichtigung die Nesseln
-schnitt und gemeint, es seien zwei Diebe gewesen, einer
+Chauffeur, ein Kerl mit einer abgestempelten Zuchthausvisage.
+Die drei blieben auch stets in Rufweite, nur daß
+sie nicht wie Frau Maier mit einem Lorgnon unsere Arbeit
+verfolgten. — Harald hatte nach der Besichtigung die Achseln
+gezuckt und gemeint, es seien zwei Diebe gewesen, einer
 davon mit sehr kleinen Füßen.
 
 Als wir nun im Speisezimmer saßen, fragte Gollert,
-was Harst nunmehr von der Sache hielte und ob er Besann
-schade, die Leute zu ermitteln. Seine Antwort lautete: »Sah«
+was Harst nunmehr von der Sache hielte und ob er Hoffnung
+habe, die Leute zu ermitteln. Seine Antwort lautete: »Ja!«
 
-Das klang so kurz und eigenartig, daß die Generalitrt
-rasch) wieder das Lorgnon hob und Harst forschend musterte.
+Das klang so kurz und eigenartig, daß die Generalin
+rasch wieder das Lorgnon hob und Harst forschend musterte.
 
 Der Professor stierte in irgendeine Ecke, trommelte
 nervös mit den Fingerspitzen gegen den Tellerrand und
 schien durch dieses präzise »Ja« keineswegs beglückt.
 
 »Hm …« — er suchte nach Worten — »das Übertrifft
-meine kühnsten Erwartungen, Herr Harst …
+meine kühnsten Erwartungen, Herr Harst …«
 
 »Und ist doch so einfach, Herr Professor. Es handelt
-sich um die Arbeit gewerbsmäßiger Einbrecher, öde Ihnen
+sich um die Arbeit gewerbsmäßiger Einbrecher, die Ihnen
 einfach den richtigen Tresorschlüssel unter dem Kopfkissen
-wegzogen, während Sie lackieren, und nachher den Schlüsse
-wieder dorthin legten. Deshalb fragte ich Sie auch, ob Eis
+wegzogen, während Sie schliefen, und nachher den Schlüssel
+wieder dorthin legten. Deshalb fragte ich Sie auch, ob Sie
 einen sehr festen Schlaf hätten, was Sie bejahten. Einer
-dieser Einbrecher muß nebenbei roh Taschendieb sein, u1dD
-der brachte eben das Kunststück fertig, den Schlüssel zu bessere
-und wieder unter das Kissen zu schieben. nun die Berg
-Verbrecherzunft sich zumeist nur auf eine Spezialität gesteckt,
-dürfte dieses kleine Genie von Einbrecher und Taschendieb
+dieser Einbrecher muß nebenbei noch Taschendieb sein, und
+der brachte eben das Kunststück fertig, den Schlüssel zu holen
+und wieder unter das Kissen zu schieben. Da nun die 
+Verbrecherzunft sich zumeist nur auf *eine* Spezialität festlegt,
+dürfte dieses kleine Genie von Einbrecher *und* Taschendieb
 als Doppelspezialist unschwer herauszufinden sein.«
 
-»Glänzend!!« nickte Gollert mit einer Miene, als ad
+»Glänzend!!« nickte Gollert mit einer Miene, als ob
 die Scheibe Schinken, die er gerade aß, vergiftet wäre.
 
-Zufällig blickte ich die Generalin an, und — —!a
-war auffallend bleibt geworden. —
+Zufällig blickte ich die Generalin an, und — — sie
+war auffallend bleich geworden. —
 
 <@pagebreak/>
 Was bedeutete das alles??! — Ich, der bisher nur
 Nebenfigur gespielt hatte, fragte geradezu, um endlich etwas
 Klarheit zu schaffen: »Und was soll das »Danke!!« auf dem
-Blatt?! Die Diebe müssen danach da etwas gefunden haben
+Blatt?! Die Diebe müssen danach doch etwas gefunden haben
 — unbedingt!! Wofür bedanken sie sich?!«
 
 Gollert lachte meckernd: »Es ist aber nichts gestohlen
@@ -2084,18 +2084,18 @@ ist, Herr Harst?!«
 Sache ist so ernst, daß sie Schraut und mir beinahe das
 Leben gekostet hätte.«
 
-»So?1’«
-Auch die Generalin rief schritt: »Das wäre ja …
-infam 11« — Seltsame Bemerkung das!! Gollert warf ihr
+»So?!«
 
+Auch die Generalin rief schrill: »Das wäre ja …
+infam!!« — Seltsame Bemerkung das!! Gollert warf ihr
 denn auch einen wütenden Blick zu, — ich mußte wenigstens
 annehmen, daß der Blick ihr gelten sollte, mit Sicherheit war
 das leider nicht zu entscheiden.
 
 »Erzählen Sie doch, verehrter Harst,« wandte er sich
-dannen Harald,
+dann an Harald,
 
-»Ist das nötig?!« meinte der und leistete sich ein KaviarsHnittihHen.
+»Ist das nötig?!« meinte der und leistete sich ein Kaviarschnittchen.
 
 Auch diese Äußerung machte mich noch stutziger. Sollte
 etwa Gollert die Schützen bestellt haben?! Und welch eigenartiges
@@ -2103,30 +2103,30 @@ Verhältnis war das hier zwischen ihm und seiner
 Verwandten?! Das machte ja ganz den Eindruck, als ob
 die beiden sich heimlich haßten?!
 
-vollends Miene Blick jetzt der eines Menschen, der
+Gollerts Miene Blick glich jetzt der eines Menschen, der
 sehr angestrengt nachdenkt. Offenbar bereitete ihm dieses
 »Ist das nötig?!« einige geistige Schwierigkeiten.
 
-— »Hm,« fragte er gedehnt, »wie soll ich diesen Satz deuten,
+»Hm,« fragte er gedehnt, »wie soll ich diesen Satz deuten,
 mein verehrtester Herr Harst?!« Sein brutales Kinn schob
-!ich dabei ein Stück vor, als kaute er auf Eisen, und
+sich dabei ein Stück vor, als kaute er auf Eisen, und
 was ich nun neben mir sah, war das bösartige Gesicht
 einer gelblichen Bulldogge.
 
 »Die Geschichte ist wirklich zu unwichtig, Herr Professor
 <@pagebreak/>
 …« Harald beobachtete den asiatischen Diener, der
-am Büfett stand und soeben eine Platte mit Früchten und!
+am Büfett stand und soeben eine Platte mit Früchten und
 Süßigkeiten mit der weißbehandschuhten Hand zurechtrückte.
 »Man hat da mit Luftbüchsen nach uns gezielt, aber nicht
-getroffen … Machen wir davon kein Aufhebens, … «
+getroffen … Machen wir davon kein Aufhebens …
 Etwas anderes ist unbedingt bedenklicher …«
 
-Gollert rief dem Diener zu: »Diwan, den Nachtisch …«
+Gollert rief dem Diener zu: »Siwar, den Nachtisch …«
 Und dann mit liebenswürdigstem Lächeln: »Bedenklicher?!
-Gibt es nachts VBedenkliäyeres als Kugeln?!«
+Gibt es noch Bedenklicheres als Kugeln?!«
 
-»Ja — — Giltst«
+»Ja — — Gift!!«
 
 Der Professor hüstelte … Dies schien den Diener
 erschreckt zu haben, denn er ließ plötzlich ohne sonstige
@@ -2134,32 +2134,32 @@ erkennbare Ursache die silberne Platte fallen und sah mit
 blödem Gesicht Früchte und Konfitüren über den Teppich
 rollen
 
-Vieles blöde Gesicht ward jedoch mit einem Schlage
-erdfahl. Diwan glotzte in die Mündung einer Pistole, und
-Harst sagte traulich: »Herr Professor, dieser Javane Diwan
+Dieses blöde Gesicht ward jedoch mit einem Schlage
+erdfahl. Siwar glotzte in die Mündung einer Pistole, und
+Harst sagte ironisch: »Herr Professor, dieser Javane Siwar
 wird seine sonnige Heimat vielleicht nie wiedersehen und
 nur die Sonne in Sonnenburg fernerhin genießen. Daß
 Sonnenburg ein Zuchthaus ist, dürfte Ihnen bekannt sein.
-Bitte wollen Sie dort Ihrem Chauffeur und dem So,
+Bitte wollen Sie dort Ihrem Chauffeur und dem Koch,
 die hinter jener Türportiere lauern, befehlen sich sofort zu
-entfernen. Schraut müßte sonst unbedingt die beiden niedere
-knallen … Sie sieben, mein Freund hat seine Waffe
+entfernen. Schraut müßte sonst unbedingt die beiden niederknallen
+… Sie sehen, mein Freund hat seine Waffe
 auch schon bereit, und … — — schieße!!« rief er schrill …
 
-Er hätte diese Aufforderung nicht: nötig gehabt. Ich
+Er hätte diese Aufforderung nicht nötig gehabt. Ich
 hatte in demselben Moment wie er bemerkt, daß der Türvorhang
 in der Mitte handbreit klaffte … Ich sah etwas
 Helles, Blankes, das einen Halbkreis beschrieb, und im Abdrücken
-neigte ich mich nach rechts, und der lange gar
-flammte malaiticy)e Knie, der wie ein Blitz nach meinem
-Herzen den Weg hatte nehmen sollen, traf die Generalin…
-die sich halb über du Tisch geworfen hatte, von der
+neigte ich mich nach rechts, und der lange geflammte
+malaiische Kris, der wie ein Blitz nach meinem
+Herzen den Weg hatte nehmen sollen, traf die Generalin,
+die sich halb über den Tisch geworfen hatte, von der
 Seite in den mageren Hals …
 
 <@pagebreak/>
-Meine drei … vier Schüsse — — vier auseinander —
+Meine drei … vier Schüsse — — vier nacheinander —
 — hatten nur die Wirkung, daß die schwere Portiere samt
-der Messingstange herab polterte, denn Kot und Chauffeur
+der Messingstange herab polterte, denn Koch und Chauffeur
 waren so jäh nach vorn gesunken, daß sie eben Vorhang
 und Stange mit herunterrissen und daß der Vorhang ihre
 zuckenden Körper halb bedeckte,
@@ -2167,269 +2167,264 @@ zuckenden Körper halb bedeckte,
 Die Generalin, den Malaiendolch quer im Halse, war
 in ihren Stuhl zurückgesunken und rutschte mit einem gräßlichen
 Stöhnen langsam auf den Teppich hinab. Sie blutete
-kaum, und da) war ihr Gesicht bereits durch; die Schreitest
+kaum, und doch war ihr Gesicht bereits durch die Schatten
 des Todes so grauenvoll gezeichnet, daß Haralds Mahnung:
-»Vorsicht!! Verrat!!« Fritz doch nicht abhalten konnte, schlotteriger
+»Vorsicht!! Verrat!!« mich doch nicht abhalten konnte, schleunigst
 niederzuknien und …
 
-… Ein Aufschrei ’Harsts …
+… Ein Aufschrei Harsts …
 
-Mir selbst ein Fußtritt von Gollert im den Rücken …
+Mir selbst ein Fußtritt von Gollert in den Rücken …
 
-Ich sehe noch«, wie aus dem Vorhang blitzartig zwei
+Ich sehe noch, wie aus dem Vorhang blitzartig zwei
 Gestalten vorschnellen — wie ekle Schlangen, die man für
-tot hielt und mit einem Tuche bedeckt hatte … «
+tot hielt und mit einem Tuche bedeckt hatte …
 
-Der So, der Chauffeur …
+Der Koch, der Chauffeur …
 
-Ich komme nicht mehr zum Schuß. Gollert wirst mich
+Ich komme nicht mehr zum Schuß. Gollert wirft mich
 vollends nieder … Ich liege neben der Sterbenden, die
 mich anstiert und in deren Augen ich deutlich einen Ausdruck
 von Mitleid bemerke. Dann preßt dieser Schurke von
 Gollert mir bereits ein feuchtes Tuch gegen die Nase,
-und mir!Swinden Ne Sinne.
-
-Y
+und mir schwinden die Sinne.
 
 <h2>6. Kapitel.</h2>
 
-Ein allerletzten wilder Lebensimpuls, jene verzweifelte,
+Ein allerletzter wilder Lebensimpuls, jene verzweifelte,
 bis ins Übernormale gesteigerte Sammlung aller Kräfte
-reißt mit) nochmals aus den schwarzen Schlünden des
-Umnebelten Bewußtseins empor zu klarem Denken. Ich man
+reißt mich nochmals aus den schwarzen Schlünden des
+umnebelten Bewußtseins empor zu klarem Denken. Ich mag
 <@pagebreak/>
 sekundenlang regungslos gelegen haben, und der Professor
 und seine Banditen mögen geglaubt haben, das feuchte
-Tuch auf meinem Gesicht würde mich vollends ausschalten,
+Tuch auf meinem Gesicht würde mich vollends ausschalten.
 Sie haben übergenug mit dem anderen Gegner zu tun,
-diese vier üblen Kumpane, Ich hebe den Kopf, schaue
+diese vier üblen Kumpane. Ich hebe den Kopf, schaue
 Hinweg über das im Tode erstarrte Gesicht der Frau mit
-dem Knie im Halse und sehe drüben jenseits des Tisches
+dem Kris im Halse und sehe drüben jenseits des Tisches
 auf dem Teppich einen Knäuel von Männern — rollend, sich
-schäumend, wieder zusammensinkend, — — sehe Füße und
-Fäuste dessen, den die vier nmiederzwimgen möchten, wie
-Blitze hervorschießen, — bis als erster der Oberschuft Gollert mit
-einem Tritt gegen die Herzgrube gegen den Tisch fliegt
-und brüllend zusammensinkt
+hochbäumend, wieder zusammensinkend, — — sehe Füße und
+Fäuste dessen, den die vier niederzwingen möchten, wie
+Blitze hervorschießen, — bis als erster der Oberschuft Gollert
+mit einem Tritt gegen die Herzgrube gegen den Tisch fliegt
+und brüllend zusammensinkt …
 
-Ich habe die Clement noch in der Hand, und Herr Diwan,
-Her Diener, bietet mir freundlichst den rechten Ellbogen als
-nahe Scheibe. Der Schuß, sein gellender Schrei —. — Harald
-»bekommt Luft, und Koch und Chauffeur lernen die ungeheure
-Fixigkeit der Siebe eines weit überlegenen Gegners
+Ich habe die Clement noch in der Hand, und Herr Siwar,
+der Diener, bietet mir freundlichst den rechten Ellbogen als
+nahe Scheibe. Der Schuß, sein gellender Schrei — — Harald
+bekommt Luft, und Koch und Chauffeur lernen die ungeheure
+Fixigkeit der Hiebe eines weit überlegenen Gegners
 kennen und kollern mit arg ramponierten Gesichtern in die
-Ohren.
+Ecken.
 
-Den Kampfplatz zieren zerrissenes vergiftete Konfekt, ZEk’tretene
-Früchte, — stumm Liegt da noch unbeschädigt zu
+Den Kampfplatz zieren zertretenes vergiftetes Konfekt, zertretene
+Früchte, — einsam Liegt da noch unbeschädigt zu
 Gollerts Füßen eine wundervolle blaulila Weintraube.
 
 Die Herrschaften geben das Spiel verloren. Gollert
-der schwer nach« Atem Bringt, reckt den, Arm, greift zu,
-würgt zwei, drei breiige Brüllen Konfekt hinab, bevor
-wir’s noch hindern können, Die übrigen Teilnehmer »an diesem
-verunglückten Vormarsch lassen sich) gefügig binden. Gollerts
+der schwer nach Atem ringt, reckt den Arm, greift zu,
+würgt zwei, drei breiige Stückchen Konfekt hinab, bevor
+wir’s noch hindern können. Die übrigen Teilnehmer an diesem
+verunglückten Boxmatch lassen sich gefügig binden. Gollerts
 leichenfahles Gesicht bedeckt sich mit dicken Schweißperlen,
-ein unheimliches Stöhnen Heimat ihn stoßweis? durch; die im
-Sdquüttelfrost klappernden Zähre, und seine Augen hindert
-ein und werden glanzlos wi? Blei … Wir heben den Stern
-blendenden auf das Satz?3, so er uns unten den Händen dosyinstirbt
-— mit einem Zohngrikasen um die Lippen, vielleicht
-innerlich fälschlich treinmvblergau, wurde Nu der Dinge
+ein unheimliches Stöhnen kommt ihn stoßweise durch die im
+Schüttelfrost klappernden Zähne, und seine Augen sinken
+ein und werden glanzlos wie Blei. Wir heben den Sterbenden
+auf das Sofa, wo er uns unten den Händen dahinstirbt
+— mit einem Hohngrinsen um die Lippen, vielleicht
+innerlich fälschlich triumphierend, wir würden nun der Dinge
 <@pagebreak/>
-zeigte Laternen niemals mehr erfahren. Sein Glaube an
-Hie Verschwiegenheit seiner Mitschuldigen trügt freilich nicht.
-Die drei Gefangenen haben nur ohnmächtiger Haß im Blick
+letzte Wahrheit niemals mehr erfahren. Sein Glaube an
+die Verschwiegenheit seiner Mitschuldigen trügt freilich nicht.
+Die drei Gefangenen haben nur ohnmächtigen Haß im Blick
 und versiegelte Lippen. Keine Frage rührt sie. Narren
-sind’s, die noch hoffen, auf so billige Art Geschehenes der)
-flüstern zu können.
+sind’s, die noch hoffen, auf so billige Art Geschehenes verschleiern
+zu können.
 
 Wir versichern uns ihrer, binden sie, jeden auf einen
-Sessel, und daß sie dort uns sitzen werden, wenn die
+Sessel, und daß sie dort noch sitzen werden, wenn die
 Polizei erscheint, wissen wir genau.
 
-Harald geht voraus in Gollerts Arbeitszinmmer. Aber
-der Fernsprecher versagt, Die — Leitung ist irgendwo untere
+Harald geht voraus in Gollerts Arbeitszimmer. Aber
+der Fernsprecher versagt. Die — Leitung ist irgendwo unterbrochen.
 
-gebrochen.
-
-»Dann also zurück zu Gudor« meint Harald,
+»Dann also zurück zu Gudor,« meint Harald,
 
 Wir bringen uns leidlich in Ordnung, nehmen das Auto
 und fahren davon, nachdem wir die Villa und die Pforte
 abgeschlossen haben.
 
 Der kurze Weg zur Breiten Straße ist in Minuten
-zurückgelegt. Um Eingang der Villa Gudor hängt ein »mit
-vier Leisteten befestigter. Zettel:
+zurückgelegt. Um Eingang der Villa Gudor hängt ein mit
+vier Reißstiften befestigter Zettel:
 
-»Büro geschlossen …
+<p class="centered em">Büro geschlossen.</p>
 
-Harald schüttelt ärgerlich den Kopf.«
+Harald schüttelt ärgerlich den Kopf.
 
-»Torheit!! Geidel hat den Wild soeben erst fertig gebracht,
-Die Tinte ist noch? ganz feucht. Er muß uns zu
-
+»Torheit!! Geidel hat den Wisch soeben erst fertig gemacht.
+Die Tinte ist noch ganz feucht. Er muß uns zu
 Gollert gefolgt sein und berät nun sicherlich mit den
-»oberen …
+anderen …«
 
-»Wem?«
+»Wem?!«
 
-Er schickt die Tür auf, und im Eintreten erwidert er:
-eure werden das Fest leer finden, aber das andere hat
-Zuzug erhalten. Komm’ nur, hinein Alter … Erst die
-Polizei,« An
+Er schließt die Tür auf, und im Eintreten erwidert er:
+»Wir werden das Nest leer finden, aber das andere hat
+Zuzug erhalten. Komm’ nur, mein Alter … Erst die
+Polizei,«
 
 Hier funktionierte das Telephon,
 
-»— Wer dort …? — Gut, ica) strenge Ihre Stimme…
-lieber Lücke … Wollen Sie bitte sofort sinnige Beamte
+»… Wer dort …? — Gut, ich erkenne Ihre Stimme,
+lieber Lücke … Wollen Sie bitte sofort einige Beamte
 ohne Aufsehen nach Schmargendorf, Davoser Straße 33,
-zu Professor Sollen« schhickeint: Mord, Selbstmord, Mordversuch
+zu Professor Gollert schicken: Mord, Selbstmord, Mordversuch
 <@pagebreak/>
-… — Wir sind hier Breite Straße, Villa Gadozx,
-falls Sie uns vorher persönlich sprechen möchten. Der Werke
-Ruf Gollerts als Archäologe verlangt einige Rücksicht. Daß
+… — Wir sind hier Breite Straße, Villa Gudor,
+falls Sie uns vorher persönlich sprechen möchten. Der Weltruf
+Gollerts als Archäologe verlangt einige Rücksicht. Das
 deutsche Gelehrtentum soll im Ausland nicht unnötig herabgesetzt
-werden … — Ha, kommen Sie nur, Die
-Dinge lassen sich vielleicht etwas vertuschen…s
+werden … — Ja, kommen Sie nur … Die
+Dinge lassen sich vielleicht etwas vertuschen …«
 
-Er legt den Hörer weg und geht mir voran die Gesang
+Er legt den Hörer weg und geht mir voran die Treppe
 empor.
 
-Geidel und Frau und Gerät sind verschwunden.
+Geidel und Frau und Gepäck sind verschwunden.
 
-»In den Garten,« sagt Harst. »Zwanzig Minuten wird&ck’ü
+»In den Garten,« sagt Harst. »Zwanzig Minuten wird’s
 immerhin noch dauern, bis Lücke da ist … Vielleicht sind
-die Blattknospen des bewußten Altes noch; dicker geworden
+die Blattknospen des bewußten Astes noch dicker geworden,
 mein Alter.«
 
-»Gollert hat die Fundstelle der Diamanten ’auf Jellarong
+»Gollert hat die Fundstelle der Diamanten auf Jellarong
 geplündert,« erklärte ich, dieses Versteckspiels mit Worten
-nun endlich) müde. »Ich kenne nun die Zusammenstürzen)
+nun endlich müde. »Ich kenne nun die Zusammenhänge,
 wenn auch nicht alles. Der Professor muß mit Kapitän Ewald
-Gudor befreundet gewesen sein, wußte auch von dem 2-
+Gudor befreundet gewesen sein, wußte auch von dem
 Testament und kam früher als Doktor Gudor auf die richtige
-Deutung der rätselhaften Worte »In mir einen Schah
-finden«, und als Geidel dann im Auftrage des Doktors
-halbem er zu Dank verpflichtet war, als dessen Vertrauter?
-nach Jellarong reiste, war dort unter dem »Schnittpunkt da?
-Bäume« nichts mehr zu finden, sie waren eben zutrat
-auf die Lösung gekommen, »und Gollert hatte geraubt, was
+Deutung der rätselhaften Worte »In mir einen Schatz
+finden«, und als Geidel dann im Auftrage des Doktors,
+dem er zu Dank verpflichtet war, als dessen Vertrauter
+nach Jellarong reiste, war dort unter dem »Schnittpunkt der
+Bäume« nichts mehr zu finden, sie waren eben zu spät
+auf die Lösung gekommen, und Gollert hatte geraubt, was
 ihm nicht gehörte.«
 
-Wir waren neben dem Pavillon angelangt. Die Tonarten
+Wir waren neben dem Pavillon angelangt. Die geharkten
 Wege hatten keinerlei Spuren gezeigt, aber hier
-neben der Pavillontreppe lehnte die Harke, und die Crivllümpdg;
-en an ihren Zinken waren ganz frisch.
+neben der Pavillontreppe lehnte die Harke, und die Erdklümpchen
+an ihren Zinken waren ganz frisch.
 
-»Das ist alles richtig,« zuckte Harald und lächelte rid
+»Das ist alles richtig,« nickte Harald und lächelte mich
 zufrieden an. »Es freut mich, daß du aus dir selbst heraus
 den Kern enthüllt hast. Geidel und seine Frau sind nun
-bei Gudor und Astrid und dem Bürovorsteher und. des
+bei Gudor und Astrid und dem Bürovorsteher und der
 Köchin, und hier ist der Eingang.«
 
 <@pagebreak/>
 Er zeigte unter die Treppe des Pavillons, wo ein paar
-große Weidenkörbe standen. Sein Arm schwenkte weiter nach.
-oben zur Mauerzinne. »Dort ist der Ist und die Rückfront
-des einen Erbbegräbnisses, das elektrisiert geheizt wird. Dja
-Leitung läuft vom Stelle unterirdisch, und die Wärme
-aus dem Luft schaut des großen Mausoleums ließ den, Ast
-finster grünen. Gudor und die Seinen wollten »verreist«
-sein, wenn die beiden gedungenen Hamburger Einbrecher«
-Spezialisten Gollert die Beute wieder abjagten. Die Einbrecher
+große Weidenkörbe standen. Sein Arm schwenkte weiter nach
+oben zur Mauerzinne. »Dort ist der Ast und die Rückfront
+des einen Erbbegräbnisses, das elektrisch geheizt wird. Die
+Leitung läuft vom Stalle unterirdisch, und die Wärme
+aus dem Luftschacht des großen Mausoleums ließ den Ast
+schneller grünen. Gudor und die Seinen wollten »verreist«
+sein, wenn die beiden gedungenen Hamburger Einbrecherspezialisten
+Gollert die Beute wieder abjagten. Die Einbrecher
 waren Geidels »Eltern« … sehr gut verkleidet.«
 
 Kürzer konnte er die Eröffnungen kaum bringen.
 
-Er 305 die Weidenkörbe hervor. Sie hatten eine unter
+Er zog die Weidenkörbe hervor. Sie hatten eine unter
 der Treppe an der Meter des Pavillons vorhandene
 kleine Holztür verdeckt. Er schloß sie mit dem Dietrich auf,
 und tief gebückt betraten wir diesen niederen Raum, leuchteten
 ihn ab und sahen die andere neue Tür in der Grundmauer,
-gelangten so durch ein Lady der Friedhofsmauer und ein
+gelangten so durch ein Loch der Friedhofsmauer und ein
 gleich großes in der Rückwand des Erbbegräbnisses in dessen
-kleine Kapelle und hoben hier einfach die »Gruftplattäa
+kleine Kapelle und hoben hier einfach die Gruftplatte
 empor.
 
 Doktor Gudor und seine Vertrauten waren zunächst über
-unser Tischbeinen etwas bestürzt, Ihr Quartier hier zwischen
+unser Erscheinen etwas bestürzt. Ihr Quartier hier zwischen
 vier Eichensärgen war weniger primitiv als man annehmen
-müßte, Sie hatten noch genügend Platz für vier Matratzen,
-ein Ziehen und vieles andere, Die Familie, der das
-Mausoleum gehörte, war ausgestorben, und niemand iünzmerte
-sich dreht darum. Es war also ein Durchgang sicheres
+müßte. Sie hatten noch genügend Platz für vier Matratzen,
+ein Tischchen und vieles andere. Die Familie, der das
+Mausoleum gehörte, war ausgestorben, und niemand kümmerte
+sich mehr darum. Es war also ein durchaus sicheres
 Versteck.
 
-Wir hatten Gudor und Astrid, auch Geidel rasch übrig
-zeugt, daß eine weitere Geheitihaltuiug der gesamten Goa
+Wir hatten Gudor und Astrid, auch Geidel rasch überzeugt,
+daß eine weitere Geheimhaltung der gesamten 
 Ereignisse fernerhin unmöglich.
 
 Sie alle begleiteten uns sofort in die Villa.
 
 Wir setzten uns in das Speisezimmer und nun erst
-… ergab sich aus Haralds einleitenden Worten und seinen
+ergab sich aus Haralds einleitenden Worten und seinen
 Fragen an Gudor und Geidel ein vollkommenes Bild
 <@pagebreak/>
-dieses anfänglich so durchaus widerspruchsvollen und uns
-klaren Kriminalfalles, der von Stadium zu Stadium spann
-spannender geworden war und selbst jetzt noch zum Schluß einig
+dieses anfänglich so durchaus widerspruchsvollen und unklaren
+Kriminalfalles, der von Stadium zu Stadium spannender
+geworden war und selbst jetzt noch zum Schluß einige
 Überraschungen brachte.
 
-»O9 Raume ohne Scheu ein,« sagte Harald, »daß ich tun
-nachts überhaupt nicht wußte, um was es eigentlich ging
+»Ich räume ohne Scheu ein,« sagte Harald, »daß ich zunächst
+überhaupt nicht wußte, um was es eigentlich ging
 und wer hier Partei oder Gegenpartei. Der Auftakt des
-Ganzen war so eigenartig, daß mein anfänglichen Verdacht!
-zeigen Karl Geidel und dessen Ungehörige durchaus berechtigt
+Ganzen war so eigenartig, daß mein anfänglichen Verdacht
+gegen Karl Geidel und dessen Angehörige durchaus berechtigt
 schien. Sie, Herr Doktor, und Geidel hatten das Vorspiel
-so sein inszeniert, daß es uns verwirren mußte. Stege
+so fein inszeniert, daß es uns verwirren mußte. Ihre
 Absicht, Ihr Vorhaben zu verschleiern, gelang glänzend. Ich
 nahm bestimmt an, Sie wären verreist und »Geidels« lediglich
 Betrüger, also unerwünschter Ersatz für den alten
 Geidel. Der erste klärende Lichtstrahl war der Ast mit den
 dicken Blattknospen. Ich hatte sofort herausgefunden, wie
-und woher die Warme entstehen und!stammen könnte: Aus
+und woher die Wärme entstehen und stammen könnte: Aus
 dem Mausoleum, das bereits tagelang vorher von Ihnen
 geheizt worden sein mußte,«
 
-»Allerdings, lieber Herr Harst, …«
+»Allerdings, lieber Herr Harst …«
 
-»Trotzdem gingen meine Kombinationen auch? da noch
-in die Irre. Ich nahm an, Sie und Fräulein Astrid runde
-auch die brave Nur und der treue Thieß seien zu dieser
+»Trotzdem gingen meine Kombinationen auch da noch
+in die Irre. Ich nahm an, Sie und Fräulein Astrid und
+auch die brave Rux und der treue Thieß seien zu dieser
 »Reise« und zu dem an mich gerichteten Schreiben durch
-»Geidels« gezwungen worden, eben durch die unteren Geidels,
+»Geidels« gezwungen worden, eben durch die unechten Geidels,
 denen ich dann auch das präparierte Katerfrühstück und die
-beimtüischen Kugeln zuschrieb, genau wie ich auch vermutete,
-»Beiwerk« hätten Sie und Ihre Tochter, die Nur
+heimtückischen Kugeln zuschrieb, genau wie ich auch vermutete,
+»Geidels« hätten Sie und Ihre Tochter, die Rux
 und den Thieß im Mausoleum eingesperrt. Immerhin blieben
 einige zweifelhafte Punkte sozusagen als Warnung zurück,
 und ich hütete mich, irgendwie gewaltsam Klarheit zu schaffen,
 eine Taktik, die auch die richtige war, denn schon der blinde
 Zufall, der die eine Kugel das Bild treffen ließ, gab
-den Dingen ein anderes Aussehen, Als ich die Zeichnung
-Ihres Vaters so entdeckt und die Inschrift der Korallen
+den Dingen ein anderes Aussehen. Als ich die Zeichnung
+Ihres Vaters so entdeckt und die Inschrift der Korallenkette
 <@pagebreak/>
-Kette entziffert hatte, waren Geidels Angaben über das
+entziffert hatte, waren Geidels Angaben über das
 Testament nur noch Bestätigung meiner neuen und nunmehr
-richtigen Theorie: Es ging doch um einen Schatz, und Ei
+richtigen Theorie: Es ging doch um einen Schatz, und Sie
 waren, wie ich Überzeugt, nur hier nach Schmargendorf
 gezogen, um dem Diebe Ihres Erbes durch Diebe die Beute
-ganz unauffällig wieder abjagen zu lassen. Dieses umständJTliche
+ganz unauffällig wieder abjagen zu lassen. Diese umständliche
 Art, gegen Professor Gollert vorzugehen, muß nun
 wohl ganz besondere Gründe gehabt haben.«
 
 »Gewiß … — Gollert hat meinen Vater, den Kapitän,
 in Ostindien kennengelernt. Sie wurden Freunde, und trotz
-des erheblichen Ulterguntersjiedes gestalteten sich ihre Bestrebungen
-immer herzlicher. Gollert war häufig bei uns in
+des erheblichen Altersunterschiedes gestalteten sich ihre
+Beziehungen immer herzlicher. Gollert war häufig bei uns in
 Swinemünde, nachdem mein Vater sich zur Ruhe gesetzt
 hatte, und der Professor schenkte ihm unter anderem auch
-sein Werk über Samoa, Als mein Vater dann gerade vor
+sein Werk über Samoa. Als mein Vater dann gerade vor
 etwa vier Jahren in Swinemünde den Kopf der Samoanerin
 nachzeichnete und vergrößerte, erschien Gollert überraschend
-bei ihm und muß schon damals herausgefunden haben, das
+bei ihm und muß schon damals herausgefunden haben, daß
 die zackige Korallenkette eine Inschrift barg. Nach meines
 Vaters Tode besuchte der Professor mich nämlich des öfteren
 in so eindringlicher Art und stellte so eigentümliche Fragen
@@ -2442,155 +2437,154 @@ ich einen Einbrecher aus meiner Wohnung und merkte
 hinterher, daß dieser das Bild meines Vaters von der
 Wand genommen haben müßte. Der Nagel war nämlich mit
 herausgerissen und nur lose wieder festgedrückt worden,
-und als die Ruck Staub wischte, fiel das Bild herab,
-So fand ich die Zeichnung auf der Innenseite der Schnur strenge
+und als die Rux Staub wischte, fiel das Bild herab.
+So fand ich die Zeichnung auf der Innenseite der Schutzpappe
 des Rahmens. Ich sah auch, daß diese Pappe herausgehoben
 worden war. Nun wußte ich, was das »In mir«
-manches Testaments besagen sollte und entdeckte auch die In«
+des Testaments besagen sollte und entdeckte auch die Inschrift.
 <@pagebreak/>
-schritt. Karl Geidel reiste dann für Wisch umgehend nach
-Jellarong, aber Gollert war Geidel um drei Tage betonte,
-und unter dem bewußten Baum war nur mehr eine leert
+Karl Geidel reiste dann für mich umgehend nach
+Jellarong, aber Gollert war Geidel um drei Tage voraus,
+und unter dem bewußten Baum war nur mehr eine leere
 Felsspalte. Daß dort nachgegraben worden, sah Geidel sehr
-wohl, und wer es getan, erfuhren wir auch mit aller Geck
+wohl, und wer es getan, erfuhren wir auch mit aller
 Gewißheit, da Gollert eben zu der fraglichen Zeit Berlin
 verlassen hatte. Gegen einen Gelehrten von seinem Ruf konnte
 ich auf Grund der mir zur Verfügung stehenden äußerst
-dürftigen Beweise unmöglich vorgehen. Was hatte ich den
+dürftigen Beweise unmöglich vorgehen. Was hatte ich denn
 Positives gegen ihn vorzubringen?! Nichts!! Außerdem blieb
 er lange Zeit im Orient, und erst als er wieder hier in
 seiner Villa auftauchte, wollte es der Zufall, daß die unselige
-Webdselgeschichte mich aus Swinemünde vertrieb und mir
-von meinem großen Vermögen Auto viel beließ, daß in
-hie dieses Grundstück für meine Zwecke erworben konnte.
+Wechselgeschichte mich aus Swinemünde vertrieb und mir
+von meinem großen Vermögen nur so viel beließ, daß ich
+hier dieses Grundstück für meine Zwecke erwerben konnte.
 Der Fall, den mein Vater im Auge gehabt, war eingetreten:
 Ich war arm geworden und wollte nun um jeden Preis
-mein Erbe zurückerobern. — Um es gleich zu erwähnen;
-Jellarong gehört mir nicht mehr! Die Wechselaffäre der«
-schlang zu, dieses Inselerbe, — Ich hatte mich mit den
-treuen Geidel in Verbindung gesetzt. Er bereitete alles vor,
-Er fand in Hamburg zwei frühere Einbrecher, die, zu ehe
-schlichen Stauern geworden, Geidel Van? schuldeten. Sie wollten
+mein Erbe zurückerobern. — Um es gleich zu erwähnen:
+Jellarong gehört mir nicht mehr! Die Wechselaffäre verschlang
+auch dieses Inselerbe. — Ich hatte mich mit dem
+treuen Geidel in Verbindung gesetzt. Er bereitete alles vor.
+Er fand in Hamburg zwei frühere Einbrecher, die, zu ehrlichen
+Stauern geworden, Geidel Dank schuldeten. Sie wollten
 den Einbruch wagen und zunächst einmal feststellen, ob
 überhaupt noch etwas von den Edelsteinen vorhanden sei.
-Der eine holte unter Galerie Kissen den Tresorschlüssel
+Der eine holte unter Gollerts Kissen den Tresorschlüssel
 hervor, und beide entnahmen dem Panzerschrank dann den
 Zinnkasten, der noch gegen vierhundert Edelsteine enthielt.
-— Ich selbst wollte verhüten, daß etwa ein Verdacht, denn
-Einbruch veranlagt Zu lieben, auf mich stelle, daher die
-angebliche Kessel. — haben Ei? von etwi3&nbsp;233 fragen,
+— Ich selbst wollte verhüten, daß etwa ein Verdacht, den
+Einbruch veranlaßt Zu haben, auf mich fiele, daher die
+angebliche Reise. — haben Sie noch etwas zu fragen,
 lieber Herr Harst?!«
 
-»Rein, im nicht, — viellekHt aber Dr Herz, da? da Gefahr
-on der Flurtür lügt?! …«
+»Nein, ich nicht, — vielleicht aber der Herr, der da gerade
+an der Flurtür läutet …«
 
 <@pagebreak/>
 
-5\. Spiel.
+<h2>5. Kapitel.</h2>
 
 Kriminalkommissar Doktor Lücke war doch bereits in
 der Villa Gollert gewesen.
 
-»—. Die drei Burschen dort saßen noch sehr sein
+»… Die drei Burschen dort saßen noch sehr fein
 in ihren Polsterstühlen, bester Harst … Erklären Sie mir
 nun bitte schleunigst, was dort geschehen ist … Die
-Generalin mit dem Knie im Halse und der tote Professor
+Generalin mit dem Kris im Halse und der tote Professor
 — — das wird ungeheuer viel Staub aufwirbeln! Hoffentlich
 haben Sie nicht wieder mal allzu eigenmächtig gehandelt …
 Der Professor ist Mitglied der Akademie der Wissenschaften,
-ist Modernes arg und,
+ist Nobelpreisträger und …«
 
-— Dieb!« ergänzte ’Garald sehr nachdrücklich. »Selen
-Ehe sich, ’vLüde … Unsere moderne Zeit ist doch nicht ohne
+»… Dieb!« ergänzte Harald sehr nachdrücklich. »Setzen
+Sie sich, Lücke … Unsere moderne Zeit ist doch nicht ohne
 Romantik … Räuberromantik! Ich werde Ihnen einen
-Lriminalfall vortragen, der zumindest nicht ganz alltäglich
-ist. Edgar Allen Poe könnte ihn erfunden haben, — aber
-daß Leben ist noch phantastischer als Poe, wie Sie hören
-werden. Herr Doktor Gudor hatte uns zum Katerfühstucs
-eingeladen, und damit beginnt der Roman …««
+Kriminalfall vortragen, der zumindest nicht ganz alltäglich
+ist. Edgar Allan Poe könnte ihn erfunden haben, — aber
+das Leben ist noch phantastischer als Poe, wie Sie hören
+werden. Herr Doktor Gudor hatte uns zum Katerfrühstück
+eingeladen, und damit beginnt der Roman …«
 
-Lücke schüttelte nur immer wieder den Kopf, als Bereit
+Lücke schüttelte nur immer wieder den Kopf, als Harald
 ihm »den Roman« erzählte.
 
-»Halt, …!« warf er dem ein … »Weshalb schrie
-denn Gollert seine tjelfer8helfer hierher und ließ die Mustern
+»Halt …!« warf er dann ein … »Weshalb schickte
+denn Gollert seine Helfershelfer hierher und ließ die Austern
 präparieren?! Was ließ er hier suchen?! — Wozu die Attentate?!«
 
-»Sicher Lücke, — zwei Seelen wohnen in. jedes Menschen
-Brust, — Schnell als einem PVriminalkommissar, der auch
-»die rein wissenschaftliche Stelle seines Berufs nicht vernachlässigt,
-Brand? ich diese Binsenwahrheit kaum vorzuhalten.
+»Lieber Lücke, — zwei Seelen wohnen in jedes Menschen
+Brust. — Ihnen als einem Kriminalkommissar, der auch
+die rein wissenschaftliche Seite seines Berufs nicht vernachlässigt,
+brauche ich diese Binsenwahrheit kaum vorzuhalten.
 Gollert war das Musterbeispiel für die Duplizität
-der Charaktere, Seine Verfeuerte sind mir nicht ganz unbekannt.
+der Charaktere. Seine Reisewerke sind mir nicht ganz unbekannt.
 Die Brutalität seines Charakters, seinen Hang für
 <@pagebreak/>
-fragwürdige blutige Abenteuer verrät er unbewußt überalt
-da, wo es sich um Kriegerische Zwischenfälle bei seinem
-Expeditionen handelt, Er ist der ausgesprochene Gelehrte
-mit der Mörderische, dabei habgierig und voller Intrigen,
+fragwürdige blutige Abenteuer verrät er unbewußt überall
+da, wo es sich um kriegerische Zwischenfälle bei seinem
+Expeditionen handelt. Er ist der ausgesprochene Gelehrte
+mit der Mörderseele, dabei habgierig und voller Intrigen,
 beherrscht von einer perversen Freude, im Mittelpunkt
-anrüchiger Ereignisse zu stehen als scheinbar allmächtig
-intellektuelle Kraft. Niemals gelang es  hin, Reichtümer
-auf ehrlicz)e Weise zu sammeln. Aber er wollte reich sein.
-Die Kunstmittel, die ihm für seine Forschungen gewährt
+anrüchiger Ereignisse zu stehen als scheinbar allmächtige
+intellektuelle Kraft. Niemals gelang es ihm, Reichtümer
+auf ehrliche Weise zu sammeln. Aber er wollte reich sein.
+Die Staatsmittel, die ihm für seine Forschungen gewährt
 wurden, genügten ihm nicht. Sein krankhafter Ehrgeiz ersann
 schließlich die krummen Pfade, seine Kasse zu füllen, und
-diese Wege der Finsternis vernichten ihn in mancherlei
+diese Wege der Finsternis verwickelten ihn in mancherlei
 unklare, zweideutige Affären. Er spielte mit der Gefahr, ihm
 war das ein Bedürfnis. Ich erinnere daran, daß er dreimal
 verheiratet war und daß diese armen vermögenden Frauen
-alle drei: sehr bald starben. Vor Jahren gingen arbeitet
-Gerüchte um, und ein Verwandten seiner dritten Frau
-war bei mir und sprach geradezu den Verdacht aus: Gifts
-mordet Über die Frauen waren eingeäschert worden, und
+alle drei sehr bald starben. Vor Jahren gingen allerlei
+Gerüchte um, und ein Verwandter seiner dritten Frau
+war bei mir und sprach geradezu den Verdacht aus: Giftmorde!
+Aber die Frauen waren eingeäschert worden, und
 für Ermittlungen war’s zu spät. — Mehr noch: Wenn Sie
 Gollerts Villa genau sich ansehen, werden Sie dort Gemälde,
-ebbte Teppiche und andere Kunstwerks finden, deren frühere
+echte Teppiche und andere Kunstwerke finden, deren frühere
 Eigentümer durch Einbrecher heimgesucht wurden. Ich habe
-ein sehr gute Gedächtnis auch für derlei Dinge, und
+ein sehr gutes Gedächtnis auch für derlei Dinge, und
 Gollert war eben auch anderswo Dieb und Erbschleicher und
 vieles andere noch. — Dies mußte ich vorausschicken. Nur
-so ist der Fall Gudor verständlich. Sie fragten, Lücke, we8a
-halb die Attentate und was er hier bei Gudor suchen ließ.
-Was ersteres betrifft, so lag seinerseits Notwehr. vor. Uhr
+so ist der Fall Gudor verständlich. Sie fragten, Lücke, weshalb
+die Attentate und was er hier bei Gudor suchen ließ.
+Was ersteres betrifft, so lag seinerseits Notwehr vor. Als
 Gudor hier das Haus erwarb, wußte Gollert, daß der
-Kampf um die Jellarvong«« Lernte beginnen würde. Er war
-also auf der Hut. Er notierte natürlich auch, daß unser)
-Doktor bei mir verkehrte. Gudor fürchtete or nicht, wohl
+Kampf um die Jellarong-Beute beginnen würde. Er war
+also auf der Hut. Er wußte natürlich auch, daß unser
+Doktor bei mir verkehrte. Gudor fürchtete er nicht, wohl
 aber Schraut und mich. Seine Spione sahen gestern Gudor
-und die Seinen mit Gepäck davonfahrein. Das Haus war
+und die Seinen mit Gepäck davonfahren. Das Haus war
 <@pagebreak/>
-leer. Die Kerle drangen ein, ohne zu ahnen, daß die Berg
-reisten ledig! ich auf Umwegen das Mausoleum aussuchen
-würden, Die Kerle fanden den an mich gerichteten, auf denn
+leer. Die Kerle drangen ein, ohne zu ahnen, daß die Verreisten
+lediglich auf Umwegen das Mausoleum aufsuchen
+würden. Die Kerle fanden den an mich gerichteten, auf dem
 Schreibtisch niedergelegten Brief. Ich sah sofort, daß er
-geöffnet worden war. Vielleicht war Gollert sogar verleidet
-mit hier im Hause. Aus dem Schrauben erkannte er,
-laß Gudor mir bisher nichts über Jellarong anvertraut
+geöffnet worden war. Vielleicht war Gollert sogar verkleidet
+mit hier im Hause. Aus dem Schreiben erkannte er,
+daß Gudor mir bisher nichts über Jellarong anvertraut
 hatte. Trotzdem sollten Schraut und ich ausgelöscht werden.
-Sowohl!! Wir konnten ja vielleicht die Wahrheit irgendwie
+Notwehr!! Wir konnten ja vielleicht die Wahrheit irgendwie
 erfahren! — Alles andere war Bluff. Gollerts Banditen
 suchten gar nichts, taten nur so, wollten die Dinge verschleiern.
 Sie hatten Nachschlüssel zu allen Türen. So
-kamen denn all die rätselljaften Vorgänge zustande, die nachher
+kamen denn all die rätselhaften Vorgänge zustande, die nachher
 bei Gollert den tragischen Abschluß fanden. Gollert wollte
 uns in seiner Villa vergiften und verschwinden lassen. Sein
-Hüsteln war das Signal für den Diener, die Gilberplattoa
+Hüsteln war das Signal für den Diener, die Silberplatte
 fallen zu lassen, da er merkte, daß er durchschaut war. Er
-war ein großer Verbrecher von ungeheurer Kühnheit,
+war ein großer Verbrecher von ungeheurer Kühnheit.
 Er ist tot, und ich meinerseits lege kein Gewicht darauf,
-daß die Sache in der Öffentlichkeit breitgetreten wird. Ei
-bleibt eine Schande für das deutsche Gelehrtentum, und Los
+daß die Sache in der Öffentlichkeit breitgetreten wird. Es
+bleibt eine Schande für das deutsche Gelehrtentum, und das
 Ausland würde hohnlachend und albern Märchen von den
-Bootes, die Kindern die. Hände abl;zacken, aufwärmen. Sagen
+Boches, die Kindern die Hände abhacken, aufwärmen. Sagen
 Sie das auch Ihren Vorgesetzten. Gollert hat sich eben
 vergiftet, nachdem sein Koch in einem Anfall von Amoklaufen
 die Generalin ermordet hat.«
 
-Die Anwesenden waren sämtlich) sehr Gebrüll und sehr
+Die Anwesenden waren sämtlich sehr bedrückt und sehr
 still geworden. Der verworfene Geist eines Mannes, den
 Mutter Natur so zwiespältig mit Gaben bedacht hatte,
-
 lastete über uns wie eine widerwärtige, fahle Wolke, —
 
 Die Zeitungen brachten sehr knappe Notizen. Trotzdem
@@ -2598,26 +2592,25 @@ muß irgendein fremder Zeitungskorrespondent die Wahrheit
 gewittert haben. Das Ausland ereiferte sich über das durchsichtige
 Vertuschungssystem. Unter diesen Umständen lag
 <@pagebreak/>
-sein Grund mehr vor, die Wahrheit aus hier: alle
-sehr zu verschleierte.
+kein Grund mehr vor, die Wahrheit auch hier allzusehr
+zu verschleierte.
 
-Udo Gudor hat Jellarong zurückgekauft und bewirtschast
-dort seine Plantagen persönlich. Geidel ist sein Segeln
-Direktor. Wir haben auf diese Weise Hiebe Freunde wird
-eingebüßt. Das Leben schreitet weiter ich- unaufhaltsam …
-Gollert ist vergessen, und Gudors kurze Rolle als Prinz
-Detektiv in angenehm behaglichen Schmargendorf erst recht
-Ich habe hier Leute gesprochen, die nichts von ihm wies
-nichts wußten. Sein Haus und Garten gehören nun durch
-aus harmlosen Leuten, und wenn die Straßenbahnen Ei
-Breite Straße entlangrollten, ahnen die Fahrgäste nichts so
-jener Nacht, die damals für Harst und mich und Dar
-Geidel kein Ende nehmen wollte. Das Tempo unserer Sei
-glättet auch solche Unratberge wie die dunklen Taten
-
-er Ahmten Professors. Und das ist gut. — Lassen
-den Fall Gudor ruhen. — Um 19. März begann für uns
-»Die grüne Fliege« zu Summen, die Todesfliege mich
-dem Bazilklenstacel. Lord Edgar Voller brachte sie uns, Auch
+Udo Gudor hat Jellarong zurückgekauft und bewirtschaftet
+dort seine Plantagen persönlich. Geidel ist sein Generaldirektor.
+Wir haben auf diese Weise liebe Freunde wieder
+eingebüßt. Das Leben schreitet weiter — unaufhaltsam …
+Gollert ist vergessen, und Gudors kurze Rolle als Privatdetektiv
+in unserem behaglichen Schmargendorf erst recht.
+Ich habe hier Leute gesprochen, die nichts von ihm wissen,
+nichts wußten. Sein Haus und Garten gehören nun durchaus
+harmlosen Leuten, und wenn die Straßenbahnen die
+Breite Straße entlangrollen, ahnen die Fahrgäste nichts von
+jener Nacht, die damals für Harst und mich und Karl
+Geidel kein Ende nehmen wollte. Das Tempo unserer Zeit
+glättet auch solche Unratberge wie die dunklen Taten des
+berühmten Professors. Und das ist gut. — Lassen wir
+den Fall Gudor ruhen. — Am 19. März begann für uns
+»*Die grüne Fliege*« zu summen, die Todesfliege mit
+dem Bazillenstachel. Lord Edgar Wellex brachte sie uns. Auch
 sie hat manches Interessante in sich vereinigt.
 
