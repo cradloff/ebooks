@@ -567,72 +567,73 @@ Kriminalpolizei nicht ganz unbekannt Zu sein …«
 
 Das organisierte Berliner Verbrechertum ist für den
 harmlosen Durchschnittssteuerzahler durch den Prozeß gegen
-die Innersten-Leute erst so recht ins Scheinwerferlicht gerückt
+die Immertreu-Leute erst so recht ins Scheinwerferlicht gerückt
 worden. Manch einem, der bis dahin bei der Lektüre
 eines Kriminalromanes und bei der Schilderung von Verbrecherbünden
 skeptisch gelächelt hatte, mag da doch etwas
 gruselig geworden sein. Daß diese Mitglieder der Berliner
-Unterwelt trotz allem auch Mengen sind und, von ihrer
-Gefährlichkeit für die, Allgemeinheit abgesehen, auch ihre
-versöhnlichen Charakterfestem haben, wußten wir längst.
+Unterwelt trotz allem auch Menschen sind und, von ihrer
+Gefährlichkeit für die Allgemeinheit abgesehen, auch ihre
+versöhnlichen Charakterseiten haben, wußten wir längst.
 
 Harald öffnete die Haustür, begrüßte die beiden Beamten
 und bat den Herrn Mischkuweit näherzutreten. Herr Mischkuweit
 legte seinen vornehmen Pelz ab und zeigte sich uns
 in tadellosem schwarzen Sportanzug, Lackstiefeln, grauen
 Gamaschen, Händen Handschuhnummer 12, und vier Brillantringen.
-Sein Gesicht, bartlos, leisen, verschmitzt, hatte weder
+Sein Gesicht, bartlos, frisch, verschmitzt, hatte weder
 eine eingedrückte Nase noch zusammengewachsene Augenbrauen
 oder sonstige »Verbrecherkennzeichen« aus Kriminalschmökern,
 die von schreibwütigen Ignoranten hingeschmiert
-werden. Herr Mischkuweit sah wie ein begnügten, friedlicher
-Boxer aus einem Amateurverein aus. Nur Leine
+werden. Herr Mischkuweit sah wie ein vergnügter, friedlicher
+Boxer aus einem Amateurverein aus. Nur seine
 <@pagebreak/>
-heilen Fischaugen hatten so einen besonderen Blick: den einer
+hellen Fischaugen hatten so einen besonderen Blick: den einer
+gehetzten Katze!
 
-gehalten Katze!
-… Mondes gefällig … « «« —ck sind Harald hielt nun die
-Die tun.
+»Zigarre gefällig …« — und Harald hielt ihm die
+Kiste hin.
 
-Herr Mischvolk hielte sich voller Interesse das Zimmer
-an »sucht hier, Heer Harst … Über mit dem Seidenperser
-dort sind Sie »aigeschmiert worden … Daß sind
-Aail;iifarben. Sein Pffanzenfardstoff. Ein Skandal, das
-Heutzutage sogar Veient!eppiche auf die Art gefälscht werden.«
+Herr Mischkuweit blickte sich voller Interesse das Zimmer
+an. »Hübsch hier, Herr Harst … Aber mit dem Seidenperser
+dort sind Sie angeschmiert worden … Daß sind
+Anilinfarben, kein Pflanzenfarbstoff. Ein Skandal, daß
+heutzutage sogar Orientteppiche auf die Art gefälscht werden.«
 
-»Um das Ihr Spezialist, Herr Mischkuweit?«
+»Ist das Ihr Spezialfach, Herr Mischkuweit?«
 
-»Nee, Herr Harst, ich habe mich schon vom Geschafft
-»Zurückgezogen … Alte war mal bei ’ne Rollikolonne …
-Fest bin ich Geschöästssührer von unserem Wohltätigkeitsver«
-in »Offene Hand«, … « Er schmunzelte … »Wir ge
-hören mit zum »Ging«, — na Sie willenlosen …«
+»Nee, Herr Harst, ich habe mich schon vom Jeschäft
+Zurückgezogen … Ich war mal bei ’ne Rollikolonne …
+Jetzt bin ich Geschäftsführer von unserem Wohltätigkeitsverein
+»Offene Hand« …« Er schmunzelte … »Wir gehören
+mit zum »Ring«, — na Sie wissen schon …«
 
 »Ich weiß … — Und Sie wünschen?«
 
 Herr Mischkuweit betrachtete seine tadellos manikürte
 Linke und ließ die Ringe funkeln. Ein Blick von unten herauf
-war Haralds Gesicht …
+traf Haralds Gesicht …
 
 »Wir kennen Sie, Herr Harst, — Sie sind ein anständiger
-Kerl …
+Kerl …«
 
-»Danke … »t«
+»Danke …!«
 
 »Ich möchte Sie und Herrn Schraut bitten, über das,
-wo« ich Ihnen mitteilen will, Schweigen zu bewahren …«
+was ich Ihnen mitteilen will, Schweigen zu bewahren …«
+
 »Handelt es sich um … ein gedrehtes Ding?«
 
 »Nein, nein,« wehrte er entschieden ab. »Um ganz was
-anders, Herr Harst … Wir brauchen Ihre Hilfe …
+anders, Herr Harst … Wir brauchen Ihre Hilfe …«
 
 »Nicht möglich! Gegen wen denn? — Trinken Sie
-suchen Kognak 7«
+einen Kognak?«
 
 »Wenn ich bitten darf — zwei …«
 
 Ich kredenzte den Hennessy, und Mischkuweit nickte zufrieden.
-»Den führen wir auch im Herein … —« Also —
+»Den führen wir auch im Verein … — Also —
 gegen wen? — hm, ja … — also gegen … den Herrn
 der Unterwelt …«
 
@@ -640,473 +641,461 @@ der Unterwelt …«
 
 <@pagebreak/>
 »Nun ja … So nennt er sich, — Unter dem Namen
-Kennen wir ihn nur, — Hier — fassen Sie 2361 …
+Kennen wir ihn nur. — Hier — lesen Sie mal …«
 
-Er 3093 einen Brief aus der« Tasche. && war »eins
-dasselbe Agrarier und Büttenpapier wie das des Beide
-Briefes Paul Pirschs. Harald und ist Rauschen verstohlen
+Er zog einen Brief aus der Tasche. Es war genau
+dasselbe Format und Büttenpapier wie das des Drohbriefes
+Paul Pirschs. Harald und ist tauschten verstohlen
 einen vielsagenden Blick.
 
-Mischkuweit las vor;:
-Ich bin wieder nach Europa zurückgekehrt und bleibe
+Mischkuweit las vor:
 
-vorläufig in Berlin, Ihr werdet mir zum 2, Februar
-8000 Mark bereithalten. Mild Hinweis: soll das Geld in
+> Ich bin wieder nach Europa zurückgekehrt und bleibe
+vorläufig in Berlin. Ihr werdet mir zum 20. Februar
+5000 Mark bereithalten. Mischkuweit soll das Geld in
 einen Umschlag tun und mir am Abend in den Kleistsälen
 übergeben. Was euch bevorsteht, wenn ihr mich
+etwa verpfeift, wißt ihr.
 
-etwa verglast, wißt ihr.
-… Der Herr der Unterwelt,
+<p class="right">Der Herr der Unterwelt.</p>
 
-»Heben Sie her,« sagte Harald.
+»Geben Sie her,« sagte Harald.
 
-Wir betrachteten den getippten Brief. Mischkuweit o!!
-Sachverständiger meinte: »Fingerabdrücke — nidz)ts zu machen!
+Wir betrachteten den getippten Brief. Mischkuweit als
+Sachverständiger meinte: »Fingerabdrücke — nichts zu machen!
 Da ist jedes Suchen umsonst, meine Herren. Wir haben ja
 gut ein Dutzend ähnlicher Schreiben von früher her, und dann
 zwei Ansichtskarten, die gleichzeitig mit dem Brief da im
 unserem Vereinsbriefkasten gestern mittag lagen. Hier sind
-
 sie.«
 
 Es war eine Ansichtskarte aus Stockholm und eine aus
-Saßnitz auf Rügen, die erste am ich. Februar in Stockholm
-— abgestempelt, die zweite am 17. Februar, also vorgestern,
-
+Saßnitz auf Rügen, die erste am 16. Februar in Stockholm
+abgestempelt, die zweite am 17. Februar, also vorgestern,
 in Saßnitz. Adressiert waren beide an den Verein »Offene
 Hand«, die Aufschrift mit Maschine war dieselbe: »Gruß
 und Wiedersehen. — Der Herr der U.«
 
-»Ich möchte nun noch folgendes erklären,« sagte Narr
+»Ich möchte nun noch folgendes erklären,« sagte Karl
 Mischkuweit und schielte nach der Kognakflasche, ein Wink,
 den ich richtig verstand. »Prosit, meine Herren … Also
 dieser Schuft, der uns da immer wieder geschröpft hat,
 meldete sich zum ersten Male vor etwa fünf Jahren.
-Auch der Brief wird rote bei uns im Geheimarchiv aufbewahrt
-… Er!«&rieb damals etwa folgendes: »Abgabe
+Auch der Brief wird noch bei uns im Geheimarchiv aufbewahrt
+… Er schrieb damals etwa folgendes: »Ich habe
 <@pagebreak/>
-die Beweise bei der Hand, daß ach? von euren Mitgliedern
+die Beweise bei der Hand, daß acht von euren Mitgliedern
 (es waren die Namen genau angeführt) folgende für die
 Polizei noch unaufgeklärte Straftaten begangen haben …
-Fahrt ihr nicht dies morgen an bestimmter Stille zehntausend
+Falls ihr nicht bis morgen an bestimmter Stille zehntausend
 Mark niedergelegt, gehen die acht von euch ins Kittchen.
-Gehorcht ihr, so erhaltet ihr seine Ins für lohnende See
-suchte — Der Herr der Unterwelt.« — Ich will die See
-sc’hte nicht zu lang angefangen, Herr Harst, Wir kriegten
-da small eine Heidenangst, und wir brachten schleunigst das
-Geld zusammen. Leicht? war’s nicht. Es wurde dort! Friedens
-gelegt, wo der Brief es gewünscht hatte. Am nächsten Jage
-kam ein Dunklerer von ihm und ein Sir für eine ganz
-große Sache, die auch glatt? gelang und die zehntausend
-Märker mit Zinsen wieder ausglich — Das war der Ans
-sang unserer Beziehungen zu diesem Unbekannten, und das
+Gehorcht ihr, so erhaltet ihr feine Tips für lohnende Besuche
+— Der Herr der Unterwelt.« — Ich will die Geschichte
+nicht zu lang anspinnen, Herr Harst. Wir kriegten
+damals eine Heidenangst, und wir brachten schleunigst das
+Geld zusammen. Leicht war’s nicht. Es wurde dort niedergelegt,
+wo der Brief es gewünscht hatte. Am nächsten Tage
+kam ein Dankbrief von ihm und ein Tip für eine ganz
+große Sache, die auch glatt gelang und die zehntausend
+Märker mit Zinsen wieder ausglich. — Das war der Anfang
+unserer Beziehungen zu diesem Unbekannten, und das
 ging dann gut zwei Jahre so weiter: Wir zahlten, er
-schrieb uns »Golegenheiten’«. Aber unser Herein war nicht
-der einzige Leidtragende. Au die anderen Vereins von
-unserem Ging nahm der Bursche gehörig hoch, Wir haben
-mal so ausgerottet, daß er alles in allem von unserem
+schrieb uns »Gelegenheiten«. Aber unser Verein war nicht
+der einzige Leidtragende. Auch die anderen Vereine von
+unserem Ring nahm der Bursche gehörig hoch. Wir haben
+mal so ausgerechnet, daß er alles in allem von unserem
 Kartell etwa hundertzehntausend Mark erpreßt hat, wogegen
 das Kartell durch ihn höchstens achtzigtausend »verdiente«.
-Gegen den Burschen gab’s eben kein Abwehrmittel,
+Gegen *den* Burschen gab’s eben kein Abwehrmittel.
 Er wußte einfach alles. Er kannte all unsere Mitglieder, er
-
 hätte jeden ins Loch bringen können … Es war unheimlich.
-Und das Allerschönste, Herr Harst: Es warten ein halbes
-Jahr nach seinem ersten Brief, und wir hatten gerade,
-BVereinssikung in den Kleistsälen, wo wir drei Vereins«
-Zimmer gemietet haben. Einer von uns war verteilt! als
-gegangen, und es mußte das Honorar für den besten Strafverteidiger
-aufgelegt werden. Billig sind die Herren Berg
-Verteidiger nicht. Mit einem Mal geht die Für auf und
-herein kommt ein Herr in tadelloser Kluft mit grauem Brille
-bar! und Monokel, mal die Tür zu und bebt die Hände,
+Und das Allerschönste, Herr Harst: Es war so ein halbes
+Jahr nach seinem ersten Brief, und wir hatten gerade
+Vereinssitzung in den Kleistsälen, wo wir drei Vereinszimmer
+gemietet haben. Einer von uns war verschütt gegangen,
+und es mußte das Honorar für den besten Strafverteidiger
+aufgebracht werden. Billig sind die Herren Strafverteidiger
+nicht. Mit einem Mal geht die Tür auf und
+herein kommt ein Herr in tadelloser Kluft mit grauem Spitzbart
+und Monokel, macht die Tür zu und hebt die Hände,
 und in jeder Hand hatte er eine Mauserpistole. »Guten
 <@pagebreak/>
 Abend,« sagt er, »ich bin der Herr der Unterwelt. Euch
-fehlt Geld für den Verteidiger des kessen »Franz, hier
-mein Anteil …« Und er wirkt einen Tausenden auf den
+fehlt Geld für den Verteidiger des kessen Franz, hier
+mein Anteil …« Und er wirft einen Tausender auf den
 Tisch und ist wieder draußen, ehe wir noch recht zur Besinnung
 kamen. — Dann ist er noch häufiger erschienen,
 Herr Harst, und als wir ihn mal beim Genick nehmen
-wollten, meinte er Wollt: »Mein Material liegt bei einem
-Freunde!! Also — Platz da!!« Und wir ließen ihn saufen.
+wollten, meinte er kalt: »Mein Material liegt bei einem
+Freunde!! Also — Platz da!!« Und wir ließen ihn laufen.
 Er hatte so was an sich, Herr Harst, das mächtig imponierte.
 Auch bei den anderen Vereinen gab er solche Gastrollen.
 Bis er uns dann vor etwa drei Jahren schrieb, er ginge
 ins Ausland. Da hörten wir denn auch bis gestern nichts
-von firm, eben bis zu diesem neuen Erpresserbrief und den
-beiden Ansichk&arten. Darauf hielten wir gestern abend
-eine Sitzung ab, undicht machte den Vorschlag, wir sollten
+von ihm, eben bis zu diesem neuen Erpresserbrief und den
+beiden Ansichtskarten. Darauf hielten wir gestern abend
+eine Sitzung ab, und ich machte den Vorschlag, wir sollten
 Ihnen doch mal die Sache vortragen, Herr Harst. Die Geschichte
 ist nämlich die: Wir können die 5000 Mark für
-ihn nicht aufbringen. Unser Ring geirrt morgen abend sein
+ihn nicht aufbringen. Unser Ring feiert morgen abend sein
 Fastnachtsvergnügen, die Unkosten sind groß, und außerdem
-hat die Verteidigung der Kollegen vom Immertktrau
-letztens ’ne Stange Gold verscxkuckt. Bei uns in den Kassen
-ist Ebbe. Anderseits: Wir können’s mit dem unheimlicheren
-sich nicht verderben. Er hat uns in der Hand, das
-wissen wir — noch!immer!! Und das weiß er auch. Schein
+hat die Verteidigung der Kollegen vom Immertreu
+letztens ’ne Stange Gold verschluckt. Bei uns in den Kassen
+ist Ebbe. Anderseits: Wir können’s mit dem unheimlichen
+Schuft nicht verderben. Er hat uns in der Hand, das
+wissen wir — noch immer!! Und das weiß er auch. Sein
 Material gegen uns müßte eben gestohlen werden, aber erst
 müßten wir wissen, wer dieser Halunke ist. Unsere Bitte
 geht nun dahin, Herr Harst: Strecken Sie uns 2000 Mark
-vor, denn 300 hoben wir noch zusammengeknotet, und
+vor, denn 3000 haben wir noch zusammengekratzt, und
 dann kommen Sie beide morgen zu unserem Fest und sehen
 Sie zu, was Sie ausrichten können.«
+
 Harald lachte herzlich. »Glänzende Idee, lieber Mischkuweit:
 Harald Harst und die »Offene Hand« … Hand
-in Brand!! Trepperwi der Wettgeschichte!! — Trotzdem
+in Hand!! Treppenwitz der Weltgeschichte!! — Trotzdem
 — gut, Sie sollen das Geld haben … Aber ich stelle
-eine Bedingung: Sie gehorchen mirvrompt. es geschickt
+eine Bedingung: Sie gehorchen mir prompt, es geschieht
 <@pagebreak/>
 nur das in dieser Sache, was ich anordne.«
 
 Mischkuweit reichte Harald die manikürte Flosse. »Abgemacht!«
 
 »Schön … — Schraut und ich erscheinen morgen beim
-Fest als Aushilfskellner. Sorgen St? dafür, daß uns keine
+Fest als Aushilfskellner. Sorgen Sie dafür, daß uns keine
 Schwierigkeiten entstehen …«
 
-Kurz darauf verabschiedete sie Herr Mischkuweit, 390g
+Kurz darauf verabschiedete sich Herr Mischkuweit, zog
 seinen feudalen Pelz an, streifte im Flur die Handschuhe
-über, hängte seinen Stock mit Kernflüche in den Arm
+über, hängte seinen Stock mit Hornkrücke in den Arm
 und schritt der Gitterpforte zu. Es war bereits dunkel,
-und es rieselte leicht mit Schnee, Wir standen noch in der
-Haustür, sahen, wie Mischkuweit ironisch die beiden Krisminalbeamten
+und es rieselte leicht mit Schnee. Wir standen noch in der
+Haustür, sahen, wie Mischkuweit ironisch die beiden Kriminalbeamten
 grüßte und hörten das rasende Geknatter eines
-unsere Straße enklangjagenden schweren Motorrades. Plötzlich
+unsere Straße entlangjagenden schweren Motorrades. Plötzlich
 schlug Mischkuweit nach hinten in den am Rande des
 Bürgersteiges aufgeschaufelten Schnee und lag still. Wir
-liefen« »hin—Die beiden Beamten ebenso …«.
+liefen hin … Die beiden Beamten ebenso …
 
-Kopfschuß — — Kot
-Armer Mischkuweit!! Er war« mit einer Repekkerpistole,
+Kopfschuß — — tot …
 
+Armer Mischkuweit!! Er war mit einer Repetierpistole,
 Kaliber 6,9 (mit Schalldämpfer) von dem Motorradler niedergeknallt
 worden.
 
 Wer der Radler gewesen, ahnten wir. Aber wir
-schwiegen, Harald wollte es so. »Diese Sache gebe im nicht
-aus den Händen,« hier er mir zu und erfand nachher
-eine Notlüge, was Mischkuweits Besuch der uns anbetraf, —
+schwiegen. Harald wollte es so. »Diese Sache gebe ich nicht
+aus den Händen,« flüsterte er mir zu und erfand nachher
+eine Notlüge, was Mischkuweits Besuch bei uns anbetraf, —
 
 Zu derselben Zeit, als Karl Mischkuweits Leiche in aller
 Eile weggeschafft wurde, fand Mathilde droben im Flur bei
 uns Frau Thea bewußtlos vor dem Flurfenster auf.
 
-Alle kam sehr rasch wieder zu sich, und als wir sie
+Sie kam sehr rasch wieder zu sich, und als wir sie
 beim Abendessen wiedersahen, erklärte sie, sie sei gerade
 zufällig im Flur gewesen, als Mischkuweit erschossen
-wurde …, « Ihre kranken Nerven hätten da versagt.
+wurde … Ihre kranken Nerven hätten da versagt.
 
 <@pagebreak/>
 
-3\. Soviel
+<h2>4. Kapitel.</h2>
 
-Mit Brettern im Mondschein.
+<h3>Mit Brettern im Mondschein.</h3>
 
 Diese Abendmahlzeit stand noch völlig unter dem Eindruck
 des jähen Todes unseres Besuchers. Frau Harst war völlig
-verstört, Frau von Buratt hatte starkes Kopfweh und Harald
-spielte den großen Schweigen. Dann erhob er sich unvermittelt
+verstört. Frau von Buratt hatte starkes Kopfweh und Harald
+spielte den großen Schweiger. Dann erhob er sich unvermittelt
 und meinte, er müsse rasch einmal telephonieren.
 Er blieb fast zehn Minuten weg, und als er wieder am
 Tische Platz nahm, war er etwas redseliger. Die Stimmung
-bot sich, und nur Frau Thea mit ihrem geisterbleichen Gesicht
-zeigte weiterhin die gleiche Teilnahmlosigkeit, aß las! nichts
-du tat nur sehr viel Rum in ihren Tee.
+hob sich, und nur Frau Thea mit ihrem geisterbleichen Gesicht
+zeigte weiterhin die gleiche Teilnahmlosigkeit, aß fast nichts
+und tat nur sehr viel Rum in ihren Tee.
 
-Pbhr Okbmmachtsanfall im Flur hatte in mir einen
+Ihr Ohnmachtsanfall im Flur hatte in mir einen
 ganz geringen Verdacht aufkeimen lassen. War sie wirklich
 »zufällig« in den kritischen Minuten droben am Flurfenster
 gewesen?!
 
 Anderes kam noch hinzu, diesen Verdacht zu verstärken:
 Unser bescheidenes Abenteuer vom Vormittag, der Spion,
-der uns gefolgt war — die zu der Kneipe Unter den
-Eichen, die« doch zum Rittergut Hüppelfeld gehörte. Bestanden
+der uns gefolgt war — bis zu der Kneipe Unter den
+Eichen, die doch zum Rittergut Hüppelfeld gehörte. Bestanden
 etwa Irgendwelche Beziehungen zwischen Thea von Buratt
 und diesen Paul Pirsch, dem Einbrecherkönig, der doch
-
-brscheinlid mit dem »Herrn der Unterwelt identisch
+höchstwahrscheinlich mit dem »Herrn der Unterwelt» identisch
 war?! War unsere Oberhemdennäherin etwa absichtlich zu
-uns gekommen, hatte sie im Vertrauen auf Harsts Nächsten
-(jede und Wohltätigkeit zu dem einfachen Mittel des Offertenbriefes
+uns gekommen, hatte sie im Vertrauen auf Harsts Nächstenliebe
+und Wohltätigkeit zu dem einfachen Mittel des Offertenbriefes
 gegriffen, um Zutritt zu uns zu erhalten?!
 
 Ich war Überaus gespannt, wie die Dinge sich weiter
-entwickeln würden, Nachher, wenn innig Haralds Arbeite
-Zimmer allein wären, würde sich wohl. so manches klären.
+entwickeln würden. Nachher, wenn wir in Haralds Arbeitszimmer
+allein wären, würde sich wohl so manches klären.
 
 <@pagebreak/>
-Es war halb neun, »ist wir uns von den beiden Damen
-Vers östlichsten.
+Es war halb neun, als wir uns von den beiden Damen
+verabschiedeten.
 
-Wir »achten es uns dein bequem, und als ie in
-Vorgereckt und Grassteppe aus meinen Positiven bei
-Harald erschien, saß 433 ein Sreibdtiimd und hatte den
-Bngehetrcr dicken Kann mit den Zeitutzeaugsäzuiliti aus
-dein Sagte 11726 wir sie liegen.
+Wir machten es uns dann bequem, und als ich in
+Morgenschuhen und Hausjoppe aus meinen Räumen bei
+Harald erschien, saß er am Schreibtisch und hatte den
+ungeheuer dicken Band mit den Zeitungsausschnitten aus
+dem Jahre 1926 vor sich liegen.
 
-»Ich wüßte doch, mein Alter, daß gerade leicht Band
-der Feuersbrunst entgangen war,« meinte er ohne auf«
-hübscher, »Träge und Wasser der Spitzen haben ihn ja
-etwas raimpotieri …, Immerhin, er ist vor?Händen, und
-Tier sind schon die Nachschaute über Egon von Buratts Ende.
-— Höre Mai zu … Ganz interessant … Doktor Juris
+»Ich wußte doch, mein Alter, daß gerade dieser Band
+der Feuersbrunst entgangen war,« meinte er ohne aufzublicken.
+»Hitze und Wasser der Spitzen haben ihn ja
+etwas ramponiert … Immerhin, er ist vorhanden, und
+hier sind schon die Ausschnitte über Egon von Buratts Ende.
+— Höre mal zu … Ganz interessant … Doktor Juris
 Egon von Buratt, früher Rechtsanwalt, übernahm 1919
-nach dem Tode seines Vaters das Gut Hüpdpeijeld. Er behielt
-seine Nechtzanwalt3praris vorläufig bei, Tal sich mit
-einem jüngeren Kollegen Doktor Bei! zusammen und schied
-aus der Anwaltsfirma erst 1925 aus. 1933 heiratete er
-Thea, geborene Hindus, eine Konzertsängerin. Das ist also
-unsere jetzige Hausschneiderin. Im September 1625 und zwar
-am 2. morgens Art Uhr fanden Waldarbeiter ihn in der
+nach dem Tode seines Vaters das Gut Hüppelfeld. Er behielt
+seine Rechtsanwaltspraxis vorläufig bei, tat sich mit
+einem jüngeren Kollegen Doktor Veit zusammen und schied
+aus der Anwaltsfirma erst 1925 aus. 1923 heiratete er
+Thea, geborene Hundius, eine Konzertsängerin. Das ist also
+unsere jetzige Hausschneiderin. Im September 1925 und zwar
+am 2. morgens acht Uhr fanden Waldarbeiter ihn in der
 Schonung südlich der Gutsgebäude unweit einer uralten
-Sie erschossen aus. Sein Ausbleiben in der Nacht vom
+Eiche erschossen auf. Sein Ausbleiben in der Nacht vom
 ersten zum zweiten war nicht weiter aufgefallen, da Buratt
 sehr locker lebte und ständiger Gast in Spielklubs war und
-sehr buufig die Nächte außer dem schlanke zubrachte. Der
+sehr häufig die Nächte außer dem Hause zubrachte. Der
 Tod war durch einen Schrotschuß verursacht, der zum Teil
 die Halsschlagadern zerrissen und das Gesicht förmlich zerfetzt
-hatte. Dennoch konnte seine Identität sowohl durch) die
+hatte. Dennoch konnte seine Identität sowohl durch die
 Kleidung, den Tascheninhalt, Ringe und durch ein Muttermal
 im Genick zweifelsfrei festgestellt werden. Der Mörder
 wurde nie entdeckt. Buratt war etwa um Mitternacht getötet
-worden. Wo er die Zeit vom ersten Septenwber, sieben
-Uhr abends die zu seinem Tode zugebracht! hatte, lich sich
-Nicht ermitteln. — Das wäre in Dürfte das Wichtigste.«
+worden. Wo er die Zeit vom ersten September, sieben
+Uhr abends bis zu seinem Tode zugebracht hatte, ließ sich
+Nicht ermitteln. — Das wäre in Kürze das Wichtigste.«
 
 <@pagebreak/>
-Er blickte mich an, und ich ertönte ohne zu 35gern:
-… »Egon von Buratt ist sowohl der Einbrecherkönig Pax!
-Gleich als aus der Herr der Untermauert. Man hda! dann:
-einen Fremden als Buratt begraben. Buratt wollte iedig!ily
-verschwinden, sich selbst aus der Nelke der Lebenden auch
-tilgen. Ein anderer wurde also bereist, er verbitte verkleidet
-als Oberlehrer Doktor Hirsch in dein Weitere; derart
-Unter den Eier, bis er dort verhaftet wurde und nachher
-nach dDerzberge kam. Seine Frau weiß dies alles, weiß
-auch, daß entfloh an dir Katzen wird und will dich vielleicht
-irgendwie schützen, — deshalb ist sie hier zu uns Bekannten.
+Er blickte mich an, und ich erklärte ohne zu zögern:
+
+»Egon von Buratt ist sowohl der Einbrecherkönig Paul
+Pirsch als auch der Herr der Unterwelt. Man hat damals
+einen Fremden als Buratt begraben. Buratt wollte lediglich
+verschwinden, sich selbst aus der Reihe der Lebenden austilgen.
+Ein anderer wurde also beerdigt, er selbst lebte verkleidet
+als Oberlehrer Doktor Hirsch in dem Waldrestaurant
+Unter den Eichen, bis er dort verhaftet wurde und nachher
+nach Herzberge kam. Seine Frau weiß dies alles, weiß
+auch, daß er sich an dir rächen wird und will dich vielleicht
+irgendwie schützen, — deshalb ist sie hier zu uns gekommen.
 Daß Buratt sowohl Pirsch als auch der Herr der Unterwelt
-sein kann, läßt sich durch folgendes erhärten. »schickt«
-suchte gerade die westlichen Vororte heim, — Punkt knurrte
-den Westen am besten und wird dort viele reiche Bekannte.
-… gehabt haben, die er brandschatzte, ohne die Gelegenheit vorher
+sein kann, läßt sich durch folgendes erhärten. »Pirsch«
+suchte gerade die westlichen Vororte heim, — Buratt kannte
+den Westen am besten und wird dort viele reiche Bekannte
+gehabt haben, die er brandschatzte, ohne die Gelegenheit vorher
 Ausbaldowern zu müssen. Buratt kann auch der Herr der
 Unterwelt gewesen sein, denn als Rechtsanwalt mag er
-zu Verbrecherkreisen Beziehungen« gehabt haben, — wahr
-… Ziemlich hielt eilten Spitzel, die ihm das »Material« zutrugen.««
+zu Verbrecherkreisen Beziehungen gehabt haben, — wahrscheinlich
+hielt er sich Spitzel, die ihm das »Material« zutrugen.«
+
 Harald nickt. »Nicht schlecht gesagt, mein Alter …
-Nur zweierlei wirst deinen ganzen Geisteskram völlig um.
+Nur zweierlei wirft deinen ganzen Geisteskram völlig um.
 Erstens: Egon von Buratt ist bestimmt tot. Du kannst ja
-hier die Zeitungsausschnitte lesen. Und ganz abgesehen dessen:
+hier die Zeitungsausschnitte lesen. Und ganz abgesehen davon:
 Stimmt deine Annahme, so müßte Buratt einen
 Fremden, der ihm vollkommen glich, erschossen und ihm
 seine Kleider angezogen haben. Das kann nicht sein, denn
 auch Buratts Mantel und Oberhemd hatten Schrotlöcher.
-Oder denkst du, er half den Fremden erst freundlich aufgefordert,
+Oder denkst du, er hat den Fremden erst freundlich aufgefordert,
 seine Sachen anzulegen, und ihn dann niedergeknallt?!
-— Sein, das alles ist denn doch zu gekünstelt.
+— Nein, das alles ist denn doch zu gekünstelt.
 Buratt ist tot. — Und zweitens: Die Frau, die hier zu uns
 als Thea von Buratt gekommen ist, hat auch nicht den
-allergeringsten Vorsprach auf diesen Namen.«
+allergeringsten Anspruch auf diesen Namen.«
 
 <@pagebreak/>
-»Kann!«
+»Nanu?!«
 
-»Sie. ist nicht Thea von Buratt, auf keinen Fall, -« ck
-ist jemand anderes, dessen Namen wo Haus« Hütchen
-erwähnt haben
+»Sie ist nicht Thea von Buratt, auf keinen Fall, — es
+ist jemand anderes, dessen Namen wir heute auch schon
+erwähnt haben …«
 
-Ich dachte angestrengt Koch. Es half nichts,
+Ich dachte angestrengt nach. Es half nichts,
 
-»So — wer ist’s?« fragte ich,
+»Also — wer ist’s?« fragte ich,
 
-»las wirst du morgens sehen, Reim Liter … morgens!
-—» Voreilige Schlußfolgerungen sind, wie du wieder einmal
-am eigenen Leibe selbst,!es ziemlich das Portiere, was man
-zur Verwirrung, nicht »für Entwirrung verkalungener Fäden
+»Das wirst du morgens sehen, mein Alter … morgens!
+— Voreilige Schlußfolgerungen sind, wie du wieder einmal
+am eigenen Leibe erlebst, so ziemlich das Törichtste, was man
+zur Verwirrung, nicht zur Entwirrung verschlungener Fäden
 tun kann. Ich selbst bemühe mich vorläufig in keiner Weise
-um die Aufstellung einer sogenannten Theorie. Ich jammerte
-Tatsachen. Genügen diese Aussehen, eins Teilschlußfolgerung
-34 trüben, so. nehme ich diese gern hin. Eine solche ist zum
+um die Aufstellung einer sogenannten Theorie. Ich sammle
+Tatsachen. Genügen diese Tatsachen, eins Teilschlußfolgerung
+zu stützen, so nehme ich diese gern hin. Eine solche ist zum
 Beispiel die Identität Paul Pirschs mit dem Herrn der
-Unterwelt. Dieser verreist ins Ausland — angeblich —« und
-schreibt dem Herein »Offene Hand»… In Wahrheit rechnete
+Unterwelt. Dieser verreist ins Ausland — angeblich — und
+schreibt dem Verein »Offene Hand«. In Wahrheit rechnete
 er mit seiner Verhaftung, nachdem er der Polizei schon
-einmal für kurze Zeit in die Finger geraten war. Zeit,
+einmal für kurze Zeit in die Finger geraten war. Jetzt,
 nachdem Paul Pirsch aus Herzberge entwichen, meldet sich
-aus der Herr der Unterwelt wieder. Seine Postkarten
-aus StoFholim und Saßnitz waren Bluff. Die Poststempel
-auf den Marken waren gefälscht. Sattel ich ’afort. Er
-selbst hat den Erpresserbrief wegen der fünftausend- Mark
+auch der Herr der Unterwelt wieder. Seine Postkarten
+aus Stockholm und Saßnitz waren Bluff. Die Poststempel
+auf den Marken waren gefälscht. Das sah ich sofort. Er
+selbst hat den Erpresserbrief wegen der fünftausend Mark
 und die Postkarten in den Vereinsbriefkasten geworfen. Er ist
 mittellos, er braucht Geld. Der arme Mischkuweit bezahlte
-den Verrat des Geheimnisses der Existenz des braven der
+den Verrat des Geheimnisses der Existenz des Herrn der
 Unterwelt mit dem Tode. — Ich habe vorhin während des
 Abendbrots das Vereinslokal der »Offenen Hand« angerufen.
-Die Herren hatten Sitzung, und der Verstand versprach mir,
-jeden Brief, der vom Herrn der Unterwelt eintreffen solltsfofort
-durch Rohrpost mir zuzuleiten. Auch die Verabredung
-zu morgen zum »Macbeth« bleibt bestehen. Wir werden
-Kellner spielen … — Da — das war die Vitterpforte …«
-Sie quietscht bei diesem Trost entsetzlich … Es läutet …
-
+Die Herren hatten Sitzung, und der Vorstand versprach mir,
+jeden Brief, der vom Herrn der Unterwelt eintreffen sollte,
+sofort durch Rohrpost mir zuzuleiten. Auch die Verabredung
+zu morgen zum »Ringball« bleibt bestehen. Wir werden
+Kellner spielen … — Da — das war die Gitterpforte …
+Sie quietscht bei diesem Frost entsetzlich … Es läutet …
 <@pagebreak/>
-34h müßte in’s her irren, wenn’s nicht ein Robrposttriel
+Ich müßte mich sehr irren, wenn’s nicht ein Rohrpostbrief
 wäre …«
 
 Es war so.
 
-Der Vorsitzende der »Eigenen Band«, Herr Julius Pinzke,
-bitte des Herrn der Unterwelt getippte Teiles und einen
-»Zettel, auf dem stand: »Sehr geehrter Herr Harst, in tiefer
-Frauen um den Verlust unseres sieben Freundes M. anbei
+Der Vorsitzende der »Offenen Band«, Herr Julius Pinzke,
+schickte des Herrn der Unterwelt getippte Zeilen und einen
+Zettel, auf dem stand: »Sehr geehrter Herr Harst, in tiefer
+Trauer um den Verlust unseres lieben Freundes M. anbei
 die Mitteilung des Schurken, die ein roter Radler brachte.
-— Ihr ergebenster Julius Ging?e, 1. Vorsitzen.«
+— Ihr ergebenster Julius Pinzke, 1. Vorsitzender.«
 
-Das Getippte lautete: »Ihr seid nun Gewalt. Macht
-ihr noch weiter mit diesem Harst irgendwelchen laufen
-Schmutz, gebt es ein) allen an den Kragen. Die 50900 hole
-ist morgen beim Vergnügen von Pinzke ab. — Der Herr
+Das Getippte lautete: »Ihr seid nun gewarnt. Macht
+ihr noch weiter mit diesem Harst irgendwelchen faulen
+Schmus, geht es euch allen an den Kragen. Die 5000 hole
+ich morgen beim Vergnügen von Pinzke ab. — Der Herr
+d. U.«
 
-«
-
-… Harald schüttelte den Kopf. »Eigentlich doch eine tolle
-Sache … Ein einzelner Mann tyraunisiert die ganzen
-Verbrechervereine Berlins. Es muß ein Mensch von seltener
+Harald schüttelte den Kopf. »Eigentlich doch eine tolle
+Sache … Ein einzelner Mann tyrannisiert die ganzen
+Verbrechervereine Berlins. Es muß ein Mensch von seltenen
 Geistesgaben sein, dieser Paul Pirsch — oder wie er sonst
-beißen mag.« …«
+heißen mag.«
 
 Dann blickte er auf die Standuhr. »Wir können aufbrechen,
 mein Alter …«
 
-»Wohin«
+»Wohin?«
 
-»Tür Eiche … »’
-es Bei fünfzehn Grad auf Brettern durch die Wälder bei
-Mondschein zu eilen, ist ein mäßiger sportlicher Spaß. Ader
+»Zur Eiche …«
+
+Bei fünfzehn Grad auf Brettern durch die Wälder bei
+Mondschein zu eilen, ist ein mäßiger sportlicher Spaß. Aber
 das große Schweigen dieser froststarrenden Einsamkeit, die
 unter einer unberührten Schicht abends gefallenen Neuschnees
 den Zauber weltferner Gegenden vortäuschte, dazu das
-Hölliscge Tempo, mit dem der pelzvermummte Harald wie
-Herzogin gespenstischer Schatten vor mir dahinglitt, brachten mein
+höllische Tempo, mit dem der pelzvermummte Harald wie
+ein gespenstischer Schatten vor mir dahinglitt, brachten mein
 Blut in förmlichen Taumel. Die Millionenstadt schlief …
 Wir beide in ihren bewaldeten Rändern allein mit den
-klärenden Sternen über uns und mit unseren vor« reger
-Schweifenden Gedanken, die förmlich festklebten an dem trügtsCiichen
+glitzernden Sternen über uns und mit unseren noch reger
+Schweifenden Gedanken, die förmlich festklebten an dem trügerischen
 Geheimnis der Persönlichkeit eines außerordentlichen
 <@pagebreak/>
-Mannes, für den es offenbar keine Gefahr, ins Rücksicht,
-Sein Zurückschreckt en vor dem jähen Auslöschen eines anderen
+Mannes, für den es offenbar keine Gefahr, keine Rücksicht,
+kein Zurückschrecken vor dem jähen Auslöschen eines anderen
 Menschenlebens gab: Das war schon etwas, diese eisige
 Luft mit Freuden einzupumpen in trainierte Lungen, —
 das war schon etwas, sich anders zu fühlen, als all die
-hunderte, faulende anderer, die da friedlich im Häusermeer
+hunderte, tausende anderer, die da friedlich im Häusermeer
 ihren kleinlichen Nichtigkeiten nachgingen …
 
 Kurz vor Mitternacht näherten wir uns der Schonung,
-sahen schon von weitem die alte Eiche »en auf dem
-Hohenkamm über die dunkle Linie des St Waldes hinwegragen
-— hinein in den« klaren, hell g«,—alteten Machte
-Gebimmel wie der Arm eines Giganten, eines Ungeheuers
-Komik verkrümmten Fingern …
+sahen schon von weitem die alte Eiche droben auf dem
+Höhenkamm über die dunkle Linie des Waldes hinwegragen
+— hinein in den klaren, hell gepunkteten Nachthimmel
+wie der Arm eines Giganten, eines Ungeheuers
+mit verkrümmten Fingern.
 
-Harst stoppte ein wenig ab. Ich kam naheging. »Ums
-kreisen wir den Baum erst Sumpf …« sagte er, und sein
-Atem war wie der Dampf aus einem Aushaucht … »Dort
+Harst stoppte ein wenig ab. Ich kam neben ihn. »Umkreisen
+wir den Baum erst einmal …« sagte er, und sein
+Atem war wie der Dampf aus einem Auspuff … »Dort
 starb auch Egon von Buratt, dort an derselben Eiche, die
-schon damals wohl ihre besondere. Rolle in einer besonderen
+schon damals wohl ihre besondere Rolle in einer besonderen
 Tragödie spielte … Die Eiche hätte den Beamten vielleicht
 das Rätsel dieses Todes gelöst. Aber die Beamten hatten es
 schlechter als ich, damals war’s September, und das weiße
-verräterische Panther der Schneedecke fehlte, auf der jede
-Kleinigkeit aussäöllt. Der Spion flüchtete in den Baum, mein
-Mutter, — und in dem Punkte hattest du recht, wenn auch
-der Seid mit der verschlossenen Gaumöffnung ziemlich neu
-ein mach’
+verräterische Papier der Schneedecke fehlte, auf der jede
+Kleinigkeit auffällt. Der Spion flüchtete in den Baum, mein
+Alter, — und in dem Punkte hattest du recht, wenn auch
+der Trick mit der verschlossenen Baumöffnung ziemlich neu
+sein muß.«
 
 Seine Augen waren unverwandt nach unten gerichtet,
 Der Neuschnee hätte uns jede Fährte gezeigt. Wir sahen
 nur Spuren von Hasen und die eines Fuchses, der mit
-hängender: Gute hungernd dahingeschlichen war, Zuweilen
-ging’s durch die Schonung wie ein qualvolles Stöhnen …«
+hängender Rute hungernd dahingeschlichen war. Zuweilen
+ging’s durch die Schonung wie ein qualvolles Stöhnen …
 Ein Windstoß stäubte die Äste ab, und raschelnd glitten
 weiße Schleierkaskaden zu Boden und vereinigten sich mit
-der trostlosen weißen Fläche des winterlichen Lande,
+der trostlosen weißen Fläche des winterlichen Lands,
 
-Wir begannen den Anstieg, wir wußten. bat wir dort
+Wir begannen den Anstieg, wir wußten, daß wir dort
 <@pagebreak/>
 oben allein sein würden. Wir standen neben dem knorrigen
-Diesen, und Harst nahm die Leine aus dem Rucksack und
+Riesen, und Harst nahm die Leine aus dem Rucksack und
 die Thermosflasche, halb Tee, halb Rum. Unsere Finger
-waren trotz der Pelzhzandschithe steif wie die Knüttel. Als
-ich trank. rann es mir wie Hötlenglu? durch die ’Kehile. Ich!
-Prustete, mir liegen die Augen, und als ich hinscha’!te, schmückte
-Harst schon in der Luft. Er hakte die Leine um einen der
-Leeren Äste geworfen, der nur noch ein Meter lang, wohl
-schon vor Jahren abgesplittert war, — ein Ast von Mannes dicke,
-der ungeheure Lasten Kragen mußte. Eichenholz saust
+waren trotz der Pelzhandschuhe steif wie die Knüttel. Als
+ich trank, rann es mir wie Höllenglut durch die Kehle. Ich
+hustete, mir liefen die Augen, und als ich hinschaute, schwebte
+Harst schon in der Luft. Er hatte die Leine um einen der
+tieferen Äste geworfen, der nur noch ein Meter lang, wohl
+schon vor Jahren abgesplittert war, — ein Ast von Mannesdicke,
+der ungeheure Lasten tragen mußte. Eichenholz fault
 nicht so leicht. — Es war jedoch ein böser Irrtum … Es
-gab einen schwachen metallischen Knabe, ich konnte noch
-gerade zur Seele springen, und Harst und der Ast sausten
+gab einen schwachen metallischen Knacks, ich konnte noch
+gerade zur Seite springen, und Harst und der Ast sausten
 herab in den Schnee, der Ast fiel Harald dumpf dröhnend
-Brüder die gestrickte Wollmütze, und … der Getroffene lachte
-strampelnd und pustend ein frohes Lachen, rappelte sie auf,
-packt? den verflixten Mehrmals und warf ihn spielend hoch
-wie eine Pappräöhre,
+über die gestrickte Wollmütze, und … der Getroffene lachte
+strampelnd und pustend ein frohes Lachen, rappelte sich auf,
+packte den verflixten Riesenast und warf ihn spielend hoch
+wie eine Pappröhre,
 
 Es war eine Attrappe aus Eichenrinde und Dachpappe,
-—» an. sich ein kleines Wunderwerk, so natürlich wirkte es.
-Das Ende, das am Stamme gesessen hakte, nach unten
+— an sich ein kleines Wunderwerk, so natürlich wirkte es.
+Das Ende, das am Stamme gesessen hatte, nach unten
 sich trompetenartig erweiternd, war mit drei Haken am
-Stamm befestigt gewesen und hatte ein Los verdeckt, das
-siehst mich nächster durchließ.
+Stamm befestigt gewesen und hatte ein Loch verdeckt, das
+selbst mich nachher durchließ.
 
-Harald meinte nur: »Das hätte 1H allerdings nicht vermutet.«
+Harald meinte nur: »Das hätte ich allerdings nicht vermutet.«
 Er befühlte die Haken, die sich unter seinem Gewicht
-aufgebogen haften. »Sehr verrostet … Diese famose Einrichtung
+aufgebogen hatten. »Sehr verrostet … Diese famose Einrichtung
 besteht schon recht lange. Ich bin nur neugierig,
 was wir dort unten unter dem Baume finden werden.
 Los denn! Ich werde die Leine über den höheren Ast
-köleudern.«
+schleudern.«
 
-— Unsere Bretter lehnten an der Eiche. Unsere -Rucksäcke
-Frauchen wir mit. In dem hohlen Baume gab es eine ganz
+Unsere Bretter lehnten an der Eiche. Unsere Rucksäcke
+nahmen wir mit. In dem hohlen Baume gab es eine ganz
 schmale Eisenleiter, weiter unten, schon im Wurzelwerk, einen
-runden gemauerten Schacht, in dem eine zweite Leiter lehnte …
-
+runden gemauerten Schacht, in dem eine zweite Leiter lehnte.
 <@pagebreak/>
-— Harst war vorsichtig und warf zuerst ein! dar fbrewnende
-Wachszündhölzer hinab. Sie brannten: in der Tiefe weiter,
+— Harst war vorsichtig und warf zuerst ein paar brennende
+Wachszündhölzer hinab. Sie brannten in der Tiefe weiter,
 wir brauchten also nicht zu fürchten, daß sich unten im
-
 Schacht Gase angesammelt hatten.
-Dann waren wir am Grunde des Gemäuers angelangt.
 
+Dann waren wir am Grunde des Gemäuers angelangt.
 Unsere Taschenlampen beleuchteten ein seltsames Quartier:
 Ein Bett aus Brettern mit Decken und Kissen, ein Tisch
 aus Brettern, ein Stuhl, ein Schrank, ein Bücherbrett,
 zwei Kisten, ein zweiflammiger Spirituskocher, Töpfe, Kannen,
 Flaschen, Konservenbüchsen, zwei Laternen und … auf dem
 Tische ein Teller, auf dem noch ein Bratklops und ein
-
-Nest Kartoffelsalat lagen.
-
-&ü
-
-Ecke.
-2\.
-
-Sei das
+Rest Kartoffelsalat lagen.
 
 <h2>5. Kapitel.</h2>
 
-<h3>Zwischen Traum und Wirklichen.</h3>
+<h3>Zwischen Traum und Wirklichkeit.</h3>
 
 Jeder, der lebhaft zu träumen pflegt, wird an sich selbst
-so und so oft die Erfahrung gemocht haben, daß die
+so und so oft die Erfahrung gemacht haben, daß die
 Grenzlinie zwischen Traum und Wirklichkeit in Augenblicken
 halben Wachwerdens sich in däroteskester Weise verwischt.
 Man glaubt noch zu träumen, und doch klammert sich unsere
