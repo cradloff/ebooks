@@ -40,6 +40,7 @@
 \bHart\b	Harst
 \biH\b	ich
 \bIH\b	Ich
+\bir\b	in
 \bis!\b	ist
 \bLarald\b	Harald
 \blebten	letzten
