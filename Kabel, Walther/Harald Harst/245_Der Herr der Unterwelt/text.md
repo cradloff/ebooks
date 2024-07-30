@@ -1,6 +1,6 @@
 <@pagebreak 3/>
 
-<h1>Der Herr der Unterwelt</h1>
+<h1>Der Herr der Unterwelt.</h1>
 
 <h2>1. Kapitel.</h2>
 
@@ -18,7 +18,7 @@ Pfund »Schweben« nennt —, erwiderte nur: »Den Tag
 dreißig Zigaretten, und dann noch starken Kaffee, da könnt
 ich ja den Ofen für die Einäscherung bald heizen lassen!!«
 
-Ich schmunzelte hinter meiner Zeitung. Ich Schmunzelte
+Ich schmunzelte hinter meiner Zeitung. Ich schmunzelte
 nicht nur über unser Mathildchen, sondern auch über den
 Waschzettel in der Morgenzeitung über die Tagesneuigkeiten.
 Die Kälteperiode hatte sicherlich auch den Gehirnen
@@ -65,7 +65,7 @@ Die Oberhemden sind nur noch Putzlappens … Gnädige
 Frau wird von einer Hausschneiderin neue nähen lassen.
 Heut’ früh kam ’n Brief deswegen …«
 
-»Deswegen?!« fragte Harst etwas erstaunt,
+»Deswegen?!« fragte Harst etwas erstaunt.
 
 »Ich meine, — — ’ne Schneiderin hat ’ne Offerte
 jeschickt … Hier ist sie …«
@@ -85,7 +85,7 @@ zu helfen.
 
 <p class="centered">Jannowitz 1802.</p>
 
-»… Gnädige Frau hat die Dame schon angerufen
+»… Gnädige Frau hat die Dame schon angerufen …«
 flötete Mathilde weiter. »Stoff für Oberhemden haben wir
 noch liegen, Herr Harald …«
 
@@ -103,7 +103,7 @@ Es gibt Schlei, und Fische …«
 
 »Raus!!«
 
-Unsere Dicke schob ab,
+Unsere Dicke schob ab.
 
 Harald lachte. »Mama bleibt eine sparsame Seele, mein
 Alter … Oberhemden im Hause nähen lassen, — eine Idee
@@ -155,7 +155,7 @@ ab und legte ein Tempo vor, daß ich sehr bald zurückblieb.
 Auf einer Anhöhe kam er mir aus den Augen. Als auch
 ich dann keuchend den Höhenkamm überwunden hatte, stand
 Harald hinter einer vereinzelten dicken Eiche und blickte
-gen Westen, wo die Kneipe im Tale weiß bepudert dahinträumte,
+gen Westen, wo die Kneipe im Tale weiß bepudert dahinträumte.
 
 Schweigend wies er nun auf eine dritte Skispur, die
 neben unserer Fährte entlanglief, zum Teil auch unsere
@@ -167,7 +167,7 @@ gefolgt … Dir wäre das wohl entgangen.«
 
 »Allerdings …«
 
-»Drei Grogs — — zu viel! Besonders Jetzt. Die Ebbe
+»Drei Grogs — — zu viel! Besonders jetzt. Die Ebbe
 ist vorüber, die Flut naht, und wir werden einen klaren
 Kopf nötig haben.«
 
@@ -239,7 +239,7 @@ daß er selbst mich oft genug noch durch neue Zuge seines
 eigenartigen Charakterbildes überrascht. Was mich hier in
 Erstaunen setzte, war sein plötzlicher Verzicht auf jegliche
 weiteren Nachforschungen nach dem mutmaßlichen Spion.
-Anderseits hatte er ja ganz recht Damit: Bei vierzehn Grad
+Anderseits hatte er ja ganz recht damit: Bei vierzehn Grad
 Kälte und Ostwind konnten wir unmöglich noch länger hier
 oben auf der Kuppe umherstehen. Vielleicht war dieser Spion
 auch lediglich einer jener begeisterten Harstverehrer, die oft
@@ -268,13 +268,13 @@ Ich war meinerseits geradezu verwirrt über diese …
 Schneiderin. Frau von Buratt war in allem große Dame;
 und als wir dann bei Tisch saßen und die Unterhaltung
 immer lebhafter wurde, als das Gespräch von Harald vielleicht
-absichtlich auf ganz entlegene Gebiete Gelenkt wurde, die
+absichtlich auf ganz entlegene Gebiete gelenkt wurde, die
 selbst der Durchschnittsbildung einer Dame der Gesellschaft
 ziemlich fern liegen mußten, war ich noch mehr verblüfft. Frau
 von Buratt wußte überall und mit allem Bescheid, war in
 allen Weltgegenden daheim, plauderte ebenso anregend über
-Känguruhjagden In Australien wie über Seehundsfang an
-den Küsten Ladradors,
+Känguruhjagden in Australien wie über Seehundsfang an
+den Küsten Ladradors.
 
 Nur — über sich selbst sprach sie nicht. Frau Harst tippte
 wohl hin und wieder taktvoll an, um wenigstens einen
@@ -325,7 +325,7 @@ von Buratt verlassen hatte.
 
 Frau Thea erwiderte kühl: »Ja, Hüppelfeld gehörte
 mir bis vor einer Woche, — oder genauer ausgedrückt,
-Es gehörte mir nicht mehr. In der Zwangsversteigerung
+es gehörte mir nicht mehr. In der Zwangsversteigerung
 fielen Hypotheken im Betrage von hundertzehntausend Mark
 aus.« Ihr Ton wurde schärfer. »Freilich traf dieser Verlust
 zwei berüchtigte Wucherer, die uns so langsam an den
@@ -346,7 +346,7 @@ Frau Harst fragte leise:
 »Drei Jahre, gnädige Frau …« — Sie erhob sich
 <@pagebreak/>
 und zog sich mit ein paar höflichen Dankesworten an
-ihre Arbeitsstätte zurück,
+ihre Arbeitsstätte zurück.
 
 »Die Ärmste …« meinte Frau Harst seufzend. »Heute
 Wäschenäherin — — und vor kurzem noch Frau Rittergutsbesitzer!
@@ -377,7 +377,7 @@ Auch ich nickte. »Nein — nie!«
 
 Harald entgegnete nur: »Ein Irrtum! Schraut lag damals
 gerade mit seiner Lungenentzündung im Sanatorium,
-und Pirsch weiß ganz gut, daß Ich es war, der damals
+und Pirsch weiß ganz gut, daß ich es war, der damals
 der Polizei den Wink gab, einmal die Sommergäste des
 Waldrestaurants Unter den Eichen sich genauer anzusehen.
 Dorthin hatte Pirsch sich geflüchtet, dort lebte er als harmloser
@@ -394,7 +394,7 @@ Einbrecher, der nie ein Menschenleben schonte,
 wenn er mal in Bedrängnis geriet, arbeitete stets allein.
 Um seine Person spannen sich förmliche Mythen. Er tauchte
 kurz nach der Inflation hier in Berlin auf, oder besser: Man
-begann Zu dieser Zeit seine Tätigkeit zu spüren. Einbruch
+begann zu dieser Zeit seine Tätigkeit zu spüren. Einbruch
 folgte auf Eindruck … Niemals stahl der zunächst unbekannte
 Dieb anderes als nur Bargeld und Kleinodien,
 niemals vergriff er sich an Silber, die besten Silberkästen
@@ -495,7 +495,7 @@ nicht anders ergehen. Ich bin seit vorgestern sehr auf der
 Hut, denn schon vorgestern ist Pirsch entflohen, und Bechert
 hat es mir sofort telephonisch mitgeteilt, und unser Haus wird
 Tag und Nacht von einem Dutzend Kriminalbeamten bewacht.
-— So liegen die Dinge, und sie liegen schlecht für Pirsch
+— So liegen die Dinge, und sie liegen schlecht für Pirsch.
 Ich fürchte, er wird bei seinen Vergeltungsversuchen sich
 selbst festnageln. Ich rechne natürlich keineswegs mit alltäglichen
 Attentaten. Dazu ist der Mann zu schlau. Er wird
@@ -506,7 +506,7 @@ Vorbereitungen schon begonnen …«
 
 Er lächelte sanft, und er fügte ganz leise hinzu: »Findet
 <@pagebreak/>
-ihr nicht, daß es hier zieht? Es muß hier Irgendwo eine
+ihr nicht, daß es hier zieht? Es muß hier irgendwo eine
 Luftscheibe offen sein …«
 
 Ich schaute zum Glasdach empor, das des Schnees und
@@ -559,7 +559,7 @@ willst du denn hier?!« Und da schlug ich die Tür zu …«
 
 »Sehr brav … — Komm’, mein Alter. — Mama,
 du entschuldigst uns … Herr Mischkuweit scheint der
-Kriminalpolizei nicht ganz unbekannt Zu sein …«
+Kriminalpolizei nicht ganz unbekannt zu sein …«
 
 <h2>3. Kapitel.</h2>
 
@@ -603,7 +603,7 @@ heutzutage sogar Orientteppiche auf die Art gefälscht werden.«
 »Ist das Ihr Spezialfach, Herr Mischkuweit?«
 
 »Nee, Herr Harst, ich habe mich schon vom Jeschäft
-Zurückgezogen … Ich war mal bei ’ne Rollikolonne …
+zurückgezogen … Ich war mal bei ’ne Rollikolonne …
 Jetzt bin ich Geschäftsführer von unserem Wohltätigkeitsverein
 »Offene Hand« …« Er schmunzelte … »Wir gehören
 mit zum »Ring«, — na Sie wissen schon …«
@@ -640,8 +640,8 @@ der Unterwelt …«
 »Herr der Unterwelt?«
 
 <@pagebreak/>
-»Nun ja … So nennt er sich, — Unter dem Namen
-Kennen wir ihn nur. — Hier — lesen Sie mal …«
+»Nun ja … So nennt er sich … Unter dem Namen
+kennen wir ihn nur. — Hier — lesen Sie mal …«
 
 Er zog einen Brief aus der Tasche. Es war genau
 dasselbe Format und Büttenpapier wie das des Drohbriefes
@@ -690,7 +690,7 @@ Polizei noch unaufgeklärte Straftaten begangen haben …
 Falls ihr nicht bis morgen an bestimmter Stille zehntausend
 Mark niedergelegt, gehen die acht von euch ins Kittchen.
 Gehorcht ihr, so erhaltet ihr feine Tips für lohnende Besuche
-— Der Herr der Unterwelt.« — Ich will die Geschichte
+— der Herr der Unterwelt.« — Ich will die Geschichte
 nicht zu lang anspinnen, Herr Harst. Wir kriegten
 damals eine Heidenangst, und wir brachten schleunigst das
 Geld zusammen. Leicht war’s nicht. Es wurde dort niedergelegt,
@@ -701,7 +701,7 @@ Märker mit Zinsen wieder ausglich. — Das war der Anfang
 unserer Beziehungen zu diesem Unbekannten, und das
 ging dann gut zwei Jahre so weiter: Wir zahlten, er
 schrieb uns »Gelegenheiten«. Aber unser Verein war nicht
-der einzige Leidtragende. Auch die anderen Vereine von
+der einzige leidtragende. Auch die anderen Vereine von
 unserem Ring nahm der Bursche gehörig hoch. Wir haben
 mal so ausgerechnet, daß er alles in allem von unserem
 Kartell etwa hundertzehntausend Mark erpreßt hat, wogegen
@@ -729,7 +729,7 @@ Herr Harst, und als wir ihn mal beim Genick nehmen
 wollten, meinte er kalt: »Mein Material liegt bei einem
 Freunde!! Also — Platz da!!« Und wir ließen ihn laufen.
 Er hatte so was an sich, Herr Harst, das mächtig imponierte.
-Auch bei den anderen Vereinen gab er solche Gastrollen.
+Auch bei den anderen vereinen gab er solche Gastrollen.
 Bis er uns dann vor etwa drei Jahren schrieb, er ginge
 ins Ausland. Da hörten wir denn auch bis gestern nichts
 von ihm, eben bis zu diesem neuen Erpresserbrief und den
@@ -786,7 +786,7 @@ worden.
 Wer der Radler gewesen, ahnten wir. Aber wir
 schwiegen. Harald wollte es so. »Diese Sache gebe ich nicht
 aus den Händen,« flüsterte er mir zu und erfand nachher
-eine Notlüge, was Mischkuweits Besuch bei uns anbetraf, —
+eine Notlüge, was Mischkuweits Besuch bei uns anbetraf. —
 
 Zu derselben Zeit, als Karl Mischkuweits Leiche in aller
 Eile weggeschafft wurde, fand Mathilde droben im Flur bei
@@ -821,17 +821,17 @@ gewesen?!
 
 Anderes kam noch hinzu, diesen Verdacht zu verstärken:
 Unser bescheidenes Abenteuer vom Vormittag, der Spion,
-der uns gefolgt war — bis zu der Kneipe Unter den
+der uns gefolgt war — bis zu der Kneipe unter den
 Eichen, die doch zum Rittergut Hüppelfeld gehörte. Bestanden
-etwa Irgendwelche Beziehungen zwischen Thea von Buratt
+etwa irgendwelche Beziehungen zwischen Thea von Buratt
 und diesen Paul Pirsch, dem Einbrecherkönig, der doch
-höchstwahrscheinlich mit dem »Herrn der Unterwelt» identisch
+höchstwahrscheinlich mit dem »Herrn der Unterwelt« identisch
 war?! War unsere Oberhemdennäherin etwa absichtlich zu
 uns gekommen, hatte sie im Vertrauen auf Harsts Nächstenliebe
 und Wohltätigkeit zu dem einfachen Mittel des Offertenbriefes
 gegriffen, um Zutritt zu uns zu erhalten?!
 
-Ich war Überaus gespannt, wie die Dinge sich weiter
+Ich war überaus gespannt, wie die Dinge sich weiter
 entwickeln würden. Nachher, wenn wir in Haralds Arbeitszimmer
 allein wären, würde sich wohl so manches klären.
 
@@ -872,7 +872,7 @@ im Genick zweifelsfrei festgestellt werden. Der Mörder
 wurde nie entdeckt. Buratt war etwa um Mitternacht getötet
 worden. Wo er die Zeit vom ersten September, sieben
 Uhr abends bis zu seinem Tode zugebracht hatte, ließ sich
-Nicht ermitteln. — Das wäre in Kürze das Wichtigste.«
+nicht ermitteln. — Das wäre in Kürze das Wichtigste.«
 
 <@pagebreak/>
 Er blickte mich an, und ich erklärte ohne zu zögern:
@@ -892,7 +892,7 @@ sein kann, läßt sich durch folgendes erhärten. »Pirsch«
 suchte gerade die westlichen Vororte heim, — Buratt kannte
 den Westen am besten und wird dort viele reiche Bekannte
 gehabt haben, die er brandschatzte, ohne die Gelegenheit vorher
-Ausbaldowern zu müssen. Buratt kann auch der Herr der
+ausbaldowern zu müssen. Buratt kann auch der Herr der
 Unterwelt gewesen sein, denn als Rechtsanwalt mag er
 zu Verbrecherkreisen Beziehungen gehabt haben, — wahrscheinlich
 hielt er sich Spitzel, die ihm das »Material« zutrugen.«
@@ -919,9 +919,9 @@ allergeringsten Anspruch auf diesen Namen.«
 ist jemand anderes, dessen Namen wir heute auch schon
 erwähnt haben …«
 
-Ich dachte angestrengt nach. Es half nichts,
+Ich dachte angestrengt nach. Es half nichts.
 
-»Also — wer ist’s?« fragte ich,
+»Also — wer ist’s?« fragte ich.
 
 »Das wirst du morgens sehen, mein Alter … morgens!
 — Voreilige Schlußfolgerungen sind, wie du wieder einmal
@@ -994,7 +994,7 @@ ein gespenstischer Schatten vor mir dahinglitt, brachten mein
 Blut in förmlichen Taumel. Die Millionenstadt schlief …
 Wir beide in ihren bewaldeten Rändern allein mit den
 glitzernden Sternen über uns und mit unseren noch reger
-Schweifenden Gedanken, die förmlich festklebten an dem trügerischen
+schweifenden Gedanken, die förmlich festklebten an dem trügerischen
 Geheimnis der Persönlichkeit eines außerordentlichen
 <@pagebreak/>
 Mannes, für den es offenbar keine Gefahr, keine Rücksicht,
@@ -1027,13 +1027,13 @@ der Trick mit der verschlossenen Baumöffnung ziemlich neu
 sein muß.«
 
 Seine Augen waren unverwandt nach unten gerichtet,
-Der Neuschnee hätte uns jede Fährte gezeigt. Wir sahen
+der Neuschnee hätte uns jede Fährte gezeigt. Wir sahen
 nur Spuren von Hasen und die eines Fuchses, der mit
 hängender Rute hungernd dahingeschlichen war. Zuweilen
 ging’s durch die Schonung wie ein qualvolles Stöhnen …
 Ein Windstoß stäubte die Äste ab, und raschelnd glitten
 weiße Schleierkaskaden zu Boden und vereinigten sich mit
-der trostlosen weißen Fläche des winterlichen Lands,
+der trostlosen weißen Fläche des winterlichen Lands.
 
 Wir begannen den Anstieg, wir wußten, daß wir dort
 <@pagebreak/>
@@ -1054,7 +1054,7 @@ herab in den Schnee, der Ast fiel Harald dumpf dröhnend
 über die gestrickte Wollmütze, und … der Getroffene lachte
 strampelnd und pustend ein frohes Lachen, rappelte sich auf,
 packte den verflixten Riesenast und warf ihn spielend hoch
-wie eine Pappröhre,
+wie eine Pappröhre.
 
 Es war eine Attrappe aus Eichenrinde und Dachpappe,
 — an sich ein kleines Wunderwerk, so natürlich wirkte es.
@@ -1097,417 +1097,408 @@ Rest Kartoffelsalat lagen.
 Jeder, der lebhaft zu träumen pflegt, wird an sich selbst
 so und so oft die Erfahrung gemacht haben, daß die
 Grenzlinie zwischen Traum und Wirklichkeit in Augenblicken
-halben Wachwerdens sich in däroteskester Weise verwischt.
+halben Wachwerdens sich in groteskester Weise verwischt.
 Man glaubt noch zu träumen, und doch klammert sich unsere
 Gedankenwelt schon wieder an rein äußerliche Eindrücke und
 Wahrnehmungen.
 
 Ich hatte noch immer den eklen Gestank der gelben
 Schwaden in der Nase, — — und sah doch, daß all das
-Tröstliche nur Traum gewesen sein konnte, denn ich lag
+Gräßliche nur Traum gewesen sein konnte, denn ich lag
 ja ganz bequem im Klubsessel in Haralds Arbeitszimmer
 neben dem warmen Kamin, durch dessen verglaste Tür
 Streifen roten Lichtes in das dämmerige Zimmer fielen …
 
 <@pagebreak/>
-Dann glitt ich wieder hinab in die Tiefen der aber«
-verstrichen Träume und erlebte nochmals einzelne Szenen
+Dann glitt ich wieder hinab in die Tiefen der abenteuerlichen
+Träume und erlebte nochmals einzelne Szenen
 dieser Orgie einer überhitzten Traumphantasie … Und
-fand mich wieder zurück in die Wirklichen … Das war
+fand mich wieder zurück in die Wirklichkeit … Das war
 ja alles Unsinn, was wir da erlebt haben sollten … Wir
 waren ja gar nicht auf den Brettern durch die Wälder
-geeilt, wir hatten ja gar nicht unten ir dem Schacht die
+geeilt, wir hatten ja gar nicht unten in dem Schacht die
 seltsame Einrichtung gefunden … Es gab ja gar keinen
-Eichenast, der nur Attrappe war, kein Lohn im Stamm,
-—Feine eisernen Leitern, die jemand geringer vorgezogen und
-dann die Gasbombe Hinabgeschleudert hatte: eine Lehm
-Büchse, aus der die gelbgrünen giftigen Dünste wie ans
-einer Fontäne Hervorgeschossen waren.
+Eichenast, der nur Attrappe war, kein Loch im Stamm,
+keine eisernen Leitern, die jemand nachher hochgezogen und
+dann die Gasbombe hinabgeschleudert hatte: eine Blechbüchse,
+aus der die gelbgrünen giftigen Dünste wie aus
+einer Fontäne hervorgeschossen waren.
 
 Ich hatte ja nur geträumt … Wir hatten eben zu
 viel Rum mit ein wenig Tee hier am Kamin getrunken …
 
-Ader
+Aber …
 
-Und wieder glitt im zurück in die Schlünde, in denen
-jede Kritik unseres Denkens gelähmt ist,
+Und wieder glitt ich zurück in die Schlünde, in denen
+jede Kritik unseres Denkens gelähmt ist.
 
-3H war wieder in dem trockenen Gemäuer … Ich
-sah, wie Harst ’den Teller mit den Resten der Mahlzeit
+Ich war wieder in dem trockenen Gemäuer … Ich
+sah, wie Harst den Teller mit den Resten der Mahlzeit
 an die Nase hob … ich hörte ihn sagen: »Ein frischer
 Klops, mein Alter … Vielleicht ist dies hier das Nachtquartier
-des Herrn der Unterwelt …’
+des Herrn der Unterwelt …«
 
-Dann Paris er ging der Welcher aus der Reihe gezogen
+Dann hatte er eins der Bücher aus der Reihe gezogen
 und den Titel halblaut gemurmelt:
 
-Müssen, Verbrechertypen …
+<p class="centered"><em>Wulfsen</em>, Verbrechertypen …</p>
+
 Hatte ein zweites Buch genommen:
-Conan Dohle, Der Hund von Baskerville.
+
+<p class="centered"><em>Conan Doyle</em>, Der Hund von Baskerville.</p>
+
 Und ein drittes:
-Blamage Menge, Der saure Zwerg.
+
+<p class="centered"><em>Thomas Mensch</em>, Der saure Zwerg.</p>
+
 Ein viertes:
-Sank, Kritik der reinen Vernunft.
+
+<p class="centered"><em>Kant</em>, Kritik der reinen Vernunft.</p>
 
 Und dann hinter uns ein Scharren, Kratzen … Wir
 fahren herum … Wir sehen die Leiter in dem sechs Meter
-tiefen Schacht emporschweben + — « Harst springt zu. erwischt?
+tiefen Schacht emporschweben … Harst springt zu, erwischt
 <@pagebreak/>
-vorn die Munterste Stufe, hängt daran, — — eine ungeheure
-Kraft stößt im Ne Leiter gegen die Brust, er rollt in
-eine Jede, und die Leiter verschwindet,
+noch die unterste Stufe, hängt daran, — — eine ungeheure
+Kraft stößt im die Leiter gegen die Brust, er rollt in
+eine Ecke, und die Leiter verschwindet.
 
-Dir duyrapter 8u3/t 324 meinen Füßen …
+Ein dumpfer Knall zu meinen Füßen …
 
-Her Blechtopf.
+Der Blechtopf.
 
-Der ar’be Qualm schießt wen wird grün, leuchtet rötlich
+Der gelbe Qualm schießt hoch, wird grün, leuchtet rötlich
 wird braungelb …
 
-Harst! reißt mich ii einen Winkel …
+Harst reißt mich in einen Winkel …
 
-Willi schreien … ’8ur ein Röcheln noch« … See Ringe
-nach: Teil;, … Gelber Nebel nur … Note Blitze »suchen
-auf … Meine Rechte (ist wund wie rohe« Fleisch … Ich
-Jude zu Suchen …«
+Will schreien … Nur ein Röcheln noch … Ich ringe
+nach Luft … Gelber Nebel nur … Rote Blitze zucken
+auf … Meine Kehle ist wund wie rohes Fleisch … Ich
+sacke zusammen …
 
-Da! nichts nix, … « Nur noch ein letzter Gedanke: »Dir
-seid Hm in die Falle gegangen, — das ist das &ndeif«
+Dann nichts mehr … Nur noch ein letzter Gedanke: »Ihr
+seid ihm in die Falle gegangen, — das ist das Ende!!«
 
-… Und wieder einsame im dem albernen Spuk dieser
-wilden ’Fraumszenen und lächle matt in das friedliche Lider
-Kamintür hinein …
+… Und wieder entrinne im dem albernen Spuk dieser
+wilden Traumszenen und lächle matt in das friedliche Licht
+der Kamintür hinein …
 
 All das haben wir nie erlebt …
 
-Au das zum Glück nur Ausgehalten des Alkohols …
+All das zum Glück nur Ausgeburten des Alkohols …
 Träume …
 
-Dort sitzt ja Fußes Harald im Sessel und schläft … Er
+Dort sitzt ja auch Harald im Sessel und schläft … Er
 hat die Hausschuhe an, hat die Schnürjacke und …
 
-Mit einem Male fahre im halb aus dem Sessel hoch,
-sinke zulief. Ich fühle die Benommenheit meines Kopfes,
-die Lächelt der Kehle, das Schwächegefühl in allen Allein
+Mit einem Male fahre ich halb aus dem Sessel hoch,
+sinke zurück. Ich fühle die Benommenheit meines Kopfes,
+die Rauheit der Kehle, das Schwächegefühl in allen Gliedern
+…
 
-sondern …
 Und ich bin wach, und ich empfinde all das ganz deutlich,
-
 und das hat mich hochgetrieben …:
-Wir haben all das vor erlebt!!
 
-Dieses Erleben muß sich auf« poche« fortgesetzt haben,
-nachdem wir bereits das Bewußtsein verloren hatten. Vielfkeicht
-folgte auf den Moment, als uns in den Gistscwaden
+<p class="centered em">Wir haben all das doch erlebt!!</p>
+
+Dieses Erleben muß sich auch noch fortgesetzt haben,
+nachdem wir bereits das Bewußtsein verloren hatten. Vielleicht
+folgte auf den Moment, als uns in den Giftschwaden
 die Sinne schwanden, gar das Seltsamste dieser nächtlichen
-Vorgänge. Wer rettete uns?! Wer brachte uns Heims!
-Wer 10a uns die Vetter aus. zo0a uns die (Konserven über
+Vorgänge. Wer rettete uns?! Wer brachte uns heim?!
+Wer zog uns die Pelze aus, zog uns die Hausjoppen über
 <@pagebreak/>
 und schuf hier in Haralds Zimmer das Bild zweier harmloser
-Schlüssel?!
+Schläfer?!
 
-Und als ich mit immer lichterem Seist?! mir die Schwierigkeiten
-vergegenwärtigte, die mit dieser Reitui’g&arbeit Raddampfer
+Und als ich mit immer lichterem Geiste mir die Schwierigkeiten
+vergegenwärtigte, die mit dieser Rettungsarbeit Unbekannter
 verknüpft gewesen sein müssen, — als ich das, was
-während unserer Bewußtlosigkeit sich abspielte, zerglieo:rund
-im anrechnen prüfe, stehe ich auf so unendliches viel
+während unserer Bewußtlosigkeit sich abspielte, zergliedere
+und im einzelnen prüfe, stoße ich auf so unendliches viel
 dunkle Fragen, daß mein Blick von dem freundlichen Lichte
-des Kamins Aufschluß kriechend unwillkürlich zu Harald hin
-vorübergleitet. Täuschte ich mich?! Nein — er St gen Kap!
-gehoben und blickt aus mich an und nicht mir zu und
+des Kamins Aufschluß heischend unwillkürlich zu Harald hinübergleitet.
+Täuschte ich mich?! Nein — er hat den Kopf
+gehoben und blickt auch mich an und nickt mir zu und
+sagt leise:
 
-fast leise:
-»Ja, man könnte wirklich fast glauben, mal hätte He
+»Ja, man könnte wirklich fast glauben, mal hätte geträumt.«
 
-träumt.«
 Ein Anflug von Lächeln spielt um seine Lippen …
-»Vielleicht war es diesmal- die echte Thea von Buratt, die
 
+»Vielleicht war es diesmal die echte Thea von Buratt, die
 uns rettete … vielleicht … Etwas umständlich muß das
-
 schon gewesen sein, und eine Person allein hätte es nie
-geschafft. Buch ein warmes Auto müssen sie bereit gehabt
+geschafft. Auch ein warmes Auto müssen sie bereit gehabt
 haben und manches andere … Sonst würden wir uns nicht
-bereiteten leidlich frisch fühlen, mein Alter.« Seine Augen
-wanderten hinüber zur Standuhr. In demselben Moment bei
+bereits so leidlich frisch fühlen, mein Alter.« Seine Augen
+wanderten hinüber zur Standuhr. In demselben Moment begann
+sie auch zu schlagen … Ich zählte mit …
 
-begann sie auch zu schlagen … Ich zählte mit …
-
-Es war sechs Uhr morgens, Der 20. Februar, sechs
-
+Es war sechs Uhr morgens. Der 20. Februar, sechs
 Uhr morgens.
+
 »Also sechs, mein Alter …« Er gähnte herzhaft. Seine
-
-Stimme klang rauh und heiser. Er hüstelte dann … »See
-
-gar den Kamin hat man frisch gefüllt … Das waren
-
+Stimme klang rauh und heiser. Er hüstelte dann … »Sogar
+den Kamin hat man frisch gefüllt … Das waren
 äußerst umsichtige und vorsorgliche Leute …«
 
-Meine Gedanken bestehen an einem bestimmten Punkt.
-»Harald, ich verstehe nur nicht, wie sie uns trotz der An-’
+Meine Gedanken hafteten an einem bestimmten Punkt.
+»Harald, ich verstehe nur nicht, wie sie uns trotz der Anwesenheit
+der Kriminalbeamten draußen hier ins Haus schaffen
+konnten. Gewiß — die Schlüssel hatten wir in den Taschen.
+Aber die Beamten hätten doch …«
 
-inszeniert der Kriminalbeamten draußen hier ins Haus schaffen
-
-konnten. Gewiß — die Schlüssel hatten wir in den (Wäldchen.
-
-Aber die Beamten hätten doch …
-
-»Die Wachen sind auf meinen Wunsch um elf Allein
+»Die Wachen sind auf meinen Wunsch um elf Uhr eingezogen
 <@pagebreak/>
-gezogen Warten. Vor des Kälte wir. das Nächstenpflicht.«
+worden. Vor des Kälte war das Nächstenpflicht.«
 
-»war allterdiatos …« sagte ich grübelnd., »Aber —
-wie Konnten die Wetter so Hügel zur Stelle jetzt, wie konnten
-(Touristen, daß Wir genug die Eide ausstiegen würden …«
+»Dann allerdings …« sagte ich grübelnd. »Aber —
+wie konnten die Retter so schnell zur Stelle sein, wie konnten
+sie wissen, daß wir gerade die Eiche aufsuchen würden …«
 
-»Bitte — unserer Pavwjätteiderin!l«
+»Bitte — unserer Hausschneiderin!!«
 
-»Wie meinst du Ei«
+»Wie meinst du das?!«
 
-Er schrak sich) etwas steif. »Die Beine zittern mir …
-Aber das volle gut) tragen … Fomum’ mal her …«
+Er erhob sich etwas steif. »Die Beine zittern mir …
+Aber das wird sich legen … Komm’ mal her …«
 
-Wir standen am Ohr gröblich Er deutete auf den aufs
-Kugel hageren Band Zeinitgrausschrifte, und obenauf lagen die
-besinnen. Postkarten und die beiden Briefe des Herrn der
-Unterwelt, ferner Smoking Pinzkes Zettel und ein zweiter von
-Haralds Hand, und darauf hatte er geschrieben: »Die alt?
-Sie bei Unter den Eilten.«
+Wir standen am Schreibtisch. Er deutete auf den aufgeschlagenen
+Band Zeitungsausschnitte, und obenauf lagen die
+beiden Postkarten und die beiden Briefe des Herrn der
+Unterwelt, ferner Julius Pinzkes Zettel und ein zweiter von
+Haralds Hand, und darauf hatte er geschrieben: »Die alte
+Eiche bei Unter den Eichen.«
 
 Er hielt diesen Zettel schräg gegen das Licht …
 
-»Da hast du die Fincaeraobdräcke unserer Oberhemdens
-Fürstin … Ich hatte dies alles hier ganz sein mit Setzte
-Puder bestäubt … « Er blies über den Zettel hin, ein seines
-Wollten flog empor, und auf dem Papier ich ich der,
-Abdruck einer Danineätspitze rechts am Runde. »Das sich
-so seine Kniffe, mein Alte … Unser Gast oben dürfte
-nicht viel geschlafen haben …« Dr
-Er beugte sich über den auf der Gabel liegenden Hörer
-des Telephons,
+»Da hast du die Fingerabdrücke unserer Oberhemdennäherin
+… Ich hatte dies alles hier ganz fein mit Fettpuder
+bestäubt …« Er blies über den Zettel hin, ein feines
+Wölkchen flog empor, und auf dem Papier sah ich den
+Abdruck einer Daumenspitze rechts am Rande. »Das sind
+so kleine Kniffe, mein Alter … Unser Gast oben dürfte
+nicht viel geschlafen haben …«
 
-»Benutzt!! Auch der Griff war überpudert. Unser Halt
+Er beugte sich über den auf der Gabel liegenden Hörer
+des Telephons.
+
+»Benutzt!! Auch der Griff war überpudert. Unser Gast
 hörte uns weggehen, sah uns auch wohl vom Flurfenster
 aus, schlich hier hinab, fand diese Briefe und meinen Zettel
-un? rief ihre Verbündeten an … So kamen sie noch zur
-rechten Zeit in die verrostete Wohngrotte des Herrn der
-Unterwelt … Unbedingt müssen sie Gasgmasoglen mitgehzubt
+und rief ihre Verbündeten an … So kamen sie noch zur
+rechten Zeit in die verpestete Wohngrotte des Herrn der
+Unterwelt … Unbedingt müssen sie Gasmasken mitgehabt
+haben …«
 
-sitzen …«
-Ich war sprachlos. Wie einfach sich die Dinge nun ans
+Ich war sprachlos. Wie einfach sich die Dinge nun anließen!!
 
-liv’ton!!
-
-»Rock etwas … In; hatte das Gut Brabant gebeten,
+»Noch etwas … Ich hatte das Amt Brabant gebeten,
 <@pagebreak/>
-jede Nummer zu notieren, die von hier aus verlangt Wird,
-Wir werden also sehr bald wissen, wen unser Saugt anrief,
-—»» Und jetzt wollen wir einmal na!) oben in (die Plättstube
-kletterten. Nie Treppen knarren nicht, die Länger sind dick
-… und unser Gast ist ahnungslos’
+jede Nummer zu notieren, die von hier aus verlangt wird.
+Wir werden also sehr bald wissen, wen unser Gast anrief.
+— Und jetzt wollen wir einmal nach oben in die Plättstube
+schleichen. Die Treppen knarren nicht, die Läufer sind dick
+und unser Gast ist ahnungslos.«
 
-In der Plättstube Lob er ein Bild von der Wand …
+In der Plättstube hob er ein Bild von der Wand …
 Es verdeckte ein kleines Fenster, das ins Fremdenzimmer
-führte, wo dieses Fensterchen ebenfalls vor) ein Bild Vers
-Folgen wurde — freilich ein Wild, das als Glaövmalerei
-genügend durchsichtige Stellen kaufte.
+führte, wo dieses Fensterchen ebenfalls durch ein Bild verborgen
+wurde — freilich ein Bild, das als Glasmalerei
+genügend durchsichtige Stellen hatte.
 
-Dort im Zimmer brannte List. Vor dem Frisiertisch
-saß ein Herr mit kurz geschorenem blonden Kopf in ’einer
-hellblauen Matinee und … rasierte!ih. Auf dem Frisiere
-Film lag eine Damenperücdke.
+Dort im Zimmer brannte Licht. Vor dem Frisiertisch
+saß ein Herr mit kurz geschorenem blonden Kopf in einer
+hellblauen Matinee und … rasierte sich. Auf dem Frisiertisch
+lag eine Damenperücke.
 
 Ich war noch sprachloser.
 
-<@pagebreak/>
+<@pagebreak 35/>
 
-Der Leidensweg einer Frau
+<h1>Der Leidensweg einer Frau.</h1>
 
 <h2>1. Kapitel.</h2>
-<h3>Die alte Thea.</h3>
+<h3>Die echte Thea.</h3>
 
 »Brühe uns Kaffee auf,« sagte Harald, als wir wieder
 in seinem Arbeitszimmer angelangt waren. »Wir haben
 jetzt keine Zeit, etwa den versäumten Schlaf nachzuholen …
-Der Herr der Unterwelt wird uns wohl noch: so achtzehn
-Stunden etwa in Atem halten, und da hilft nur Kaffee,
-Was die Nerven nachher dazu’ sagen, ich gleichgültig, denn
+Der Herr der Unterwelt wird uns wohl noch so achtzehn
+Stunden etwa in Atem halten, und da hilft nur Kaffee.
+Was die Nerven nachher dazu sagen, ist gleichgültig, denn
 hier geht’s um Menschenleben.«
 
-Ich blickte ihn fragend zu kg
+Ich blickte ihn fragend an.
 
-»Bitte — erst den Kaffee, mein Alter … Stall? die
+»Bitte — erst den Kaffee, mein Alter … Stelle die
 Maschine nur hier auf den Rauchtisch … Und dann könntest
-div auch die Büchse mit den Aachener Printen herüberreichen.
-Ich verspüre Hunger, — Du unverletzt dich soeben, daß ich
-von Menschenleben sprach … Es ist leider so. Des armen.
-Mischkuweit jähes Ende und dann diese Attentat auf und,
-mit dem ich in der Art nie rechnete, Süden mir gezeigt,
-daß dieser Herr der Unterwelt in der Tat über Leihen,
-acht. Wir müssen ihm noch heute zur Strecke bringen ’-
-so positiv … Ich werde nun doch meine Taktik ändern.
+du auch die Büchse mit den Aachener Printen herüberreichen.
+Ich verspüre Hunger. — Du wundertest dich soeben, daß ich
+von Menschenleben sprach … Es ist leider so. Des armen
+Mischkuweit jähes Ende und dann diese Attentat auf uns,
+mit dem ich in der Art nie rechnete, haben mir gezeigt,
+daß dieser Herr der Unterwelt in der Tat über Leichen
+geht. Wir müssen ihn noch heute zur Strecke bringen —
+so oder so … Ich werde nun doch meine Taktik ändern.
 Wir tanzen auf einem Pulverfaß, mein Alter, und neben
-dem Fasse stet dieser Mensch mit! brennender Lunte. Schuld
+dem Fasse steht dieser Mensch mit brennender Lunte. Deshalb
 will ich mit nichts mehr dir gegenüber hinter dem Berge
 halten. Der Mann, der hier Frau Thea von Buratt spielt,
 ist der berühmte Damenimitator Donato, mit bürgerlichem
-Namen Fritz Grind, der jetzige Besitzer von Hüppelseld’
+Namen Fritz Grind, der jetzige Besitzer von Hüppelfeld.«
 
-St starrte Forst an. Damotnimitakor …?! — Ich so —
+Ich starrte Harst an. »Damenimitator …?! — Ach so —
 <@pagebreak/>
-richtig … Des ist der so überaus solide und sparsame
-Donato, der in zehn! Ihren, ein Millionenvermögen erworben
-Gut … Und der soll …
+richtig … Das ist der so überaus solide und sparsame
+Donato, der in zehn Jahren, ein Millionenvermögen erworben
+hat … Und der soll …«
 
-».-… Der ist hier, »mein Alter … Dort legt das
+»… Der *ist* hier, mein Alter … Dort liegt das
 Magazin der Eleganten, und darin findest du eine prächtige
-Ausnahme Donatos … Ein hübscher, Forscher Kerl, jetzt
-erst dreißig Jahre elf, Rittergutbesitzer, Sportsmann, Liegen,
+Aufnahme Donatos … Ein hübscher, forscher Kerl, jetzt
+erst dreißig Jahre alt, Rittergutbesitzer, Sportsmann, Flieger,
 Autorennfahrer, Geigenvirtuos, glänzender Schauspieler —
-ein Genie
+ein Genie …!«
 
 »Das habe ich hier bei uns gemerkt! Nie im Leben
-hätte ich vermutet, daß »Thea von Vuralt’« ein Mann sein
-könnte …! — Was will er hielt!«
+hätte ich vermutet, daß »Thea von Buratt« ein Mann sein
+könnte …! — Was will er hier?!«
 
-— Ich fällte die Kaffeetassen … Der würzige Duft UmsOmeichelte
-meine Nase. Es geht doch nichts über eine ’gute
-Lasse Mokka.
+Ich füllte die Kaffeetassen … Der würzige Duft umschmeichelte
+meine Nase. Es geht doch nichts über eine gute
+Tasse Mokka.
 
 Harald nahm die üblichen drei Stückchen Zucker …
-»Ja, was will er hier?! Pressrätsel!! Weshalb legte er ’sich
+»Ja, was will er hier?! Preisrätsel!! Weshalb legte er sich
 gerade den Namen der Frau zu, die nun Hüppelfeld verloren
-hat?! Kennt er sie so genau, stehen sie unter einer Decke?!
-War Thea von Furcht seine Gehilfin bei der heutigen nächtlichen
+hat?! Kennt er sie so genau, stecken sie unter einer Decke?!
+War Thea von Buratt seine Gehilfin bei der heutigen nächtlichen
 Rettungsaktion?! — Warte, ich frage mal beim Amt
 Brabant an, welche Nummer von hier aus gestern abend
-noch zehn Uhr verlangt wurde …« Er ging elastisch und
+nach zehn Uhr verlangt wurde …« Er ging elastisch und
 frisch zum Schreibtisch … »Hier Harald Harst, Amt Brabant
 — Ja, Fräulein, Harst persönlich … Ich hatte gebeten,
-doch die Nummer zu notieren, die … —!o, Sie wissen
-da Old « — « Danke, also Sampans 1802 … Nochmals vielen
+doch die Nummer zu notieren, die … — so, Sie wissen
+Bescheid … Danke, also Jannowitz 1802 … Nochmals vielen
+Dank … — So?! Bitte langsamer … Also es wurde
+nachher noch Wannsee 903 verlangt? — Könnte ich erfahren,
+wie dieser Teilnehmer heißt? — Ja, ich warte gern …
+Geben Sie mir nur die Auskunft … — — Hier Harald
+Harst … Wannsee 903 — Rittergut Hüppelfeld, Herrenhaus
+… Danke vielmals.«
 
-…» « So?! Bitte langsamer … Also es wurde
-poche noch Wannsee 903 verlangt? — Könnte ich erfahren.
-ie dieser Teilnehmer heißt? — Ja, ich warte gern …
-Geben Die mir nur die Auskunft … — — Hier Harald
-Harst … Wannsee 903 — Rittergut Hüppelfeld, Herren
+Er legte den Hörer auf die Stützen.
 
-Haus … Danke vielmals.
-
-Er sagte den Hörer auf die Früher.
-
-»Siehst du, Max Schraut, — so fängt man Mäuse …?!
-
+»Siehst du, Max Schraut, — so fängt man Mäuse …!!
 <@pagebreak/>
-Die Zusammenhänge sind klar. Donato so) uns weggehen,
+Die Zusammenhänge sind klar. Donato sah uns weggehen,
 schlich sich hier ein, las die Briefe und Zettel, die ich für
-ihm schon so sein zurechtgelegt hakte. Er ahnte, daß wir
-na) der Eiche unterwegs waren, er ruft also schnell ’Zannos«
-mit 1802 an und erstattet Thea Meldung, denn 1802 ist
-ihre Mumien. Drei läßt er sich mit dem Herrenhaus Kuppeln
-Feld verbinden nach bestellt für alle Falle sein Privatauto
-irgendwohin … Er selbst trifft mit Ihnen zusammen, beide
-fahren mit einer Autotaxe bis in die Nähe von Hüppelsseld.
-Sie kommen dann mit Ihren Zuweilen — Gasmasken,
-betone ich, gerade noch zur rechten Zeit, retten runde, bringen
+ihn schon so fein zurechtgelegt hatte. Er ahnte, daß wir
+nach der Eiche unterwegs waren, er ruft also schnell Jannowitz
+1802 an und erstattet Thea Meldung, denn 1802 ist
+ihre Nummer. Dann läßt er sich mit dem Herrenhaus Hüppelfeld
+verbinden nach bestellt für alle Fälle sein Privatauto
+irgendwohin … Er selbst trifft mit Thea zusammen, beide
+fahren mit einer Autotaxe bis in die Nähe von Hüppelfeld.
+Sie kommen dann mit Ihren Gasmasken — Gasmasken,
+betone ich, gerade noch zur rechten Zeit, retten uns, bringen
 Bewegung in Donatos Privatauto hierher und sorgen in liebevollster
-Weise für uns.« Er nahm reisen Schluck Kaffee. »Was
-geht aus alledem hervor, mein Alter? Erstens: Die beider!
+Weise für uns.« Er nahm einen Schluck Kaffee. »Was
+geht aus alledem hervor, mein Alter? Erstens: Die beiden
 sind eng verbündet. Zweitens: Sie kennen das Geheimnis
-der Eiche. Drittenäsux Sie Afrika, daß der Herr der Untere
-Welt, dessen Identität mit Rani Pirsch feststeht, uns mit
-einer Gasbombe bedenken würde.« Viertens: Sie kämpfen
-gegen Paul Pirsch, wollen ihn aber anderseits anch!schonen, —
+der Eiche. Drittens: Sie ahnten, daß der Herr der Unterwelt,
+dessen Identität mit Paul Pirsch feststeht, uns mit
+einer Gasbombe bedenken würde. Viertens: Sie kämpfen
+gegen Paul Pirsch, wollen ihn aber anderseits auch schonen.
 Fünftens: Mithin muß Paul Pirsch entweder Donato oder
-Thea sehr Rache stehen. Höchstens: Sie müssen gewußt
-hoben, daß Pirsch uns gestern folgte, denn er werden Spion
+Thea sehr nahe stehen. Sechstens: Sie müssen gewußt
+haben, daß Pirsch uns gestern folgte, denn er war der Spion
 — natürlich. — — Wir haben die Sache also schon ziemlich
-weit aufgeklärt, Ich kann noch hinzufügen, daß Donato
-gestern nach dem Mittagessen uns bBelunscht hat: Die Zuge
-Luft im Wintergarten, du erinnerst Ei! Er war auf das
+weit aufgeklärt. Ich kann noch hinzufügen, daß Donato
+gestern nach dem Mittagessen uns belauscht hat: Die Zugluft
+im Wintergarten, du erinnerst dich! Er war auf das
 Glasdach geklettert und hatte sich dort lang niedergelegt,
-Schotte die eine Luftscheibe geöffnet, und wird wohl so ziemlich
-alles von unserer Unterstützung aufgeschnappt haben,
+hatte die eine Luftscheibe geöffnet, und wird wohl so ziemlich
+alles von unserer Unterhaltung aufgeschnappt haben.
 Punkt sechs ist daher erledigt: Thea und Donato erfuhren
 durch mich, daß Pirsch hinter uns her war — durch mich
 und durch die Luftscheibe! — Was können wir nun noch
-weiter als alledem folgern?« — Er leerte seine Tasse und
-
+weiter aus alledem folgern?« — Er leerte seine Tasse und
 beantwortete dann selbst seine Frage.
-»…». Wir könne folgern, daß Donato und Thea von
+
+»… Wir können folgern, daß Donato und Thea von
 <@pagebreak/>
-Zufall mich fälschlich vor Paul Pirsch, dem Herrn der
+Buratt mich tatsächlich vor Paul Pirsch, dem Herrn der
 Unterwelt, schützen wollen, daß sie aber auch gleichzeitig
-verhüten möchten, daß Pirsch verhaftet wird. Dies der
+verhüten möchten, daß Pirsch verhaftet wird. Dies deckt
 sich mit Punkt vier meiner Aufzählung, und nehmen wir
 noch Punkt eins hinzu — Donato und Thea eng verbündet,
 — so kommen wir zu dem nicht ganz zweifelsfreien Schluß:
-Paul Pirsch dürfte entweder Fix naher Verwandter des
+Paul Pirsch dürfte entweder ein naher Verwandter des
 ehemaligen Damenimitators oder Theas sein, — oder aber
 — gib acht! — Paul Pirsch weiß über Egon von Buratts
-Ermordung irgend ’etwas, das den beiden gefährlich werden
-könnte woraus wieder hervorgeht, daß Donato und Thea
+Ermordung irgend etwas, das den beiden gefährlich werden
+könnte, woraus wieder hervorgeht, daß Donato und Thea
 den Mörder kennen und fürchten, Paul Pirsch würde bei
 einer erneuten Verhaftung hierüber zu viel verraten. —
-Wir haben uns mit diesen letzten Säßen, gebe ich ’zu, wieder
+Wir haben uns mit diesen letzten Sätzen, gebe ich zu, wieder
 auf das gefährliche Glatteis mehr theoretischer Erwägungen
 verirrt, und wir wollen dieses Glatteis besser schleunigst
-jeder verlassen und uns lediglich an das halten, was
-Streit bewiesen ist: Konnte sitzt da oben als Schneiderin!
+wieder verlassen und uns lediglich an das halten, was
+bereits bewiesen ist: Donato sitzt da oben als Schneiderin!
 Also binden wir uns Herrn Donato einmal gründlich vor.
-&r mal reden!«
+Er *muß* reden!«
 
-Wir hörten Mathilde den Flur säubern, hörten an
+Wir hörten Mathilde den Flur säubern, hörten auch
 schon Frau Harsts Stimme auf der Treppe …
 
-Das Ganz war erwacht, der neue Tag war da,
+Das Haus war erwacht, der neue Tag war da.
 
 Nachdem es im Flur wieder still geworden, gingen
-Wir die Treppe empor und klopften bei Donato an. Erst
+wir die Treppe empor und klopften bei Donato an. Erst
 auf nochmaliges stärkeres Pochen fragte eine etwas heisere
 Frauenstimme (natürlich Frauenstimme!), was »Mathilde«
 denn wünsche …
-— »Ich bin’s, Harst, nicht Mathilde,« ließ sich Harald
-auseinandernehmen. »Ich hätte Sie gern wegen der Mansdyettensa
-Form der Oberhemden gesprochen, gnädige Frau …« —
+
+»Ich bin’s, Harst, nicht Mathilde,« ließ sich Harald
+vernehmen. »Ich hätte Sie gern wegen der Manschettenform
+der Oberhemden gesprochen, gnädige Frau …« —
 Er redete »sie« weiterhin so formell an, obwohl sie es
-sich schon mittags verbeten hakte.
+sich schon mittags verbeten hatte.
 
-» »Verleiht kommen Sie nachher!sofort in mein Arbeite«
+»Vielleicht kommen Sie nachher sofort in mein Arbeitszimmer
 <@pagebreak/>
-Zimmer Hinunter,« lautete der für die »Dame« weniger
-erfreuliche Dachten.
+hinunter,« lautete der für die »Dame« weniger
+erfreuliche Nachsatz.
 
-»Er gern … Ich werde sofort aussehen …« Ich glaube,
-ich habe ins zog Sir wohlig Erkältet …
+»Sehr gern … Ich werde sofort aufstehen … Ich glaube,
+ich habe mich ein wenig erkältet …«
 
-»Der Gilämmeae raus Abdruck es leide« es zu sein … (Also
-auf »Milderte 1 glückliche Frau …«
+»Der Stimme nach scheint es leider so zu sein … Also
+auf Wiedersehen, gnädige Frau …«
 
-Bitten im Flur 52394egvelet wir Frau Harst.
+Unten im Flur begegneten wir Frau Harst.
 
-Unten im Flur begezüceliuin wir Frau Harst.
-meinerseits ein Handkuß, und … »Na, wie hast du ge
-folgten, liebe Mann Vi«
+»Na, wie hast du geschlafen, liebe Mama?!«
 
-Sie blickte im forschend an. »Mein Junge, ihr wart
+Sie blickte ihn forschend an. »Mein Junge, ihr wart
 die Nacht unterwegs … Es war ziemlich unruhig bei
-ruht unten …
+euch unten …«
 
-»und bei dir oben?« (Frau Harsts« Räume liegen im
-ersten Sie den Fremdenzimmer schräg gegenüber.)
+»Und bei dir oben?« (Frau Harsts Räume liegen im
+ersten Stock den Fremdenzimmer schräg gegenüber.)
 
 »Bei mir?! Ich hörte nichts … Nur Frau von Buratt
 holte sich zweimal aus dem Badezimmer heißes Wasser …
-
 Ich kann ja ganz genau am Rauschen unterscheiden, welcher
-Nahm aufgedreht wird.«
+Hahn aufgedreht wird.«
 
-»Sie wird gegurgelt haben, Mama. Sie jagte uns soeben
+»Sie wird gegurgelt haben, Mama. Sie sagte uns soeben
 durch die Tür, daß sie sie erkältet habe. Mathilde soll
-heute den Frühstückstisch in meinem Zimmer für drei Gern
+heute den Frühstückstisch in meinem Zimmer für drei 
 Personen decken. Frau von Buratt wird der dritte sein …«
 
 Frau Harst schüttelte den Kopf. »Das hat doch sicherlich
@@ -1515,144 +1506,138 @@ wieder irgendeinen Zweck …! Mein Junge, ich wünschte,
 du würdest deiner alten Mutter gegenüber nicht auch immer
 wieder Winkelzüge machen … Was ist’s mit dieser Frau?«
 
-»Unter uns, Mama; Es ist … ein Herr, erwiderte
-Harald leise. »Es ist eine Weltberühmtheit, ein Universale
-Genie, das sogar … nähen kann: Donato, der Damenimitator,
-jetzt Rittergutsbesitzer auf Hüppelfeld bei Schlachten.
+»Unter uns, Mama: Es ist … ein Herr,« erwiderte
+Harald leise. »Es ist eine Weltberühmtheit, ein Universalgenie,
+das sogar … nähen kann: Donato, der Damenimitator,
+jetzt Rittergutsbesitzer auf Hüppelfeld bei Schlachtensee …«
 
 Um die Lippen der gütigen Frau, die mir allzeit allerbeste
 mütterliche Freundin gewesen, spielte ein Lächeln …
-»Harald. deine Scherze am frühen Morgen entbehren da«
 
+»Harald, deine Scherze am frühen Morgen entbehren der
 <@pagebreak/>
-Eigenart …!« — und dann trat sie in die Küche ein, vpMatdbilde
-am Bechert herumwirlschniteie,
+Eigenart …!« — und dann trat sie in die Küche ein, wo
+Mathilde am Gasherd herumwirtschaftete.
 
-»Sie glaubt es und? — unwirsch nicht,« weinte Harke
-und schritt in den Vorderflur. »Wir wollen’s dabei deiusschiu:
-Ein Scherzt«
+»Sie glaubt es nicht — natürlich nicht,« meinte Harst
+und schritt in den Vorderflur. »Wir wollen’s dabei belassen:
+Ein Scherz!«
 
-Mathilde nahte mit dem Riesen! abholt und mit einigen
-»bissigen Redensarten über »neumnod’side Mittag — — Stoß
+Mathilde nahte mit dem Riesentablett und mit einigen
+bissigen Redensarten über »neumodische Ordnung — — drei
+Gedecke — — gnädige Frau allein frühstücken lassen …!«
 
-Gedecke — — gnädige Frau allein frühstücken lassen …
+»Sie scheinen versehentlich mit dem linken Fuß zuerst
+aus dem Bett geklettert zu sein, liebes Thildchen,« meinte
+Harald freundlich. »Ihre Laune entspricht dem Stande des
+Thermometers: Unter dem Gefrierpunkt!!«
 
-»Sie scheinen versehentlich mit doch Unten Das zuerst
-aus dem Bei! geklettert zu sein, Tieres Tiyildauyr:.,« meinte
-Harald freundlich »Ihre Laune entspricht dem Stunde des
-Thermometers: Unter dem HGejrierpunti!!’
+Mathildes Gebrumme enthielt sicherlich ein paar handfeste
+Beleidigungen. Sie deckte den Sofatisch und rauschte
+hinaus.
 
-Mathildes Gebrumme enthielt sicherlich ein paar Hand
-
-feste Beleidigungen. Sie deckte den Sofatisch und lauschte
-hinaus.«
 Harald holte eine Flasche Sherry und drei Gläser und
-baute sie ebenfalls auf dem Tische auf. Das für 7 Arm
-Thea bestimmte Glas unterzog er dein einer besonderen sei
-Handlung: …
+baute sie ebenfalls auf dem Tische auf. Das für Frau
+Thea bestimmte Glas unterzog er dann einer besonderen Behandlung.
 
-Eine weitere BVorbereitüäng für dieses Frühstück zu dreien
-bestand darin, daß er das Magazin der eleganten Welt muß
-
-die Sofaletyne legte.
+Eine weitere Vorbereitung für dieses Frühstück zu dreien
+bestand darin, daß er das Magazin der eleganten Welt auf
+die Sofalehne legte.
 
 Inzwischen hatte sich meiner doch eine gewisse Nervosität
-bemächtigt. Etwas wollte mir nicht aus dem Sinn: taumelt
-
-»hatte von dem Morde an Ehen von Buratt gesprochen, und
+bemächtigt. Etwas wollte mir nicht aus dem Sinn: Harald
+hatte von dem Morde an Egon von Buratt gesprochen, und
 was er da theoretische Erörterungen genannt hatte, erschien
 mir selbst durchaus nicht so stark »Glatteis« zu sein wie
-
-ihm. Es mußten doch unbeding? ganz besondere Beziehungen
-zwischen Thea und Donato einerseits und Paul Pirsch) anstierte
-bestehen. Verwandtschaft?y! Daran glaubte ich nicht.
-
-— Harsts zweite Schlußfolgerung, die auf Mitwisserschaft Pirschs
-
+ihm. Es mußten doch unbedingt ganz besondere Beziehungen
+zwischen Thea und Donato einerseits und Paul Pirsch andererseits
+bestehen. Verwandtschaft?! Daran glaubte ich nicht.
+Harsts zweite Schlußfolgerung, die auf Mitwisserschaft Pirschs
 an dem Morde hinauslief, kam mir weit einleuchtender
 vor, denn hätten verwandtschaftliche Beziehungen bestanden,
-
 würden Thea und Donato wohl anders gegen Pirsch vorgegangen
 <@pagebreak/>
-sein, sie hätten ihn dann irgendwie ’« Hob Rande
-des Mittel beeinflussen können …
+sein, sie hätten ihn dann irgendwie durch die Bande
+des Blutes beeinflussen können …
 
-Es Tropfte … Donato trat ein … Heute in einem
-anderen, Fertiger bescheidenen Kleide, das die famose Figur
-dieses « Alice weitogenies Roch glänzender hervorhob. — »Guten
+Es klopfte … Donato trat ein … Heute in einem
+anderen, weniger bescheidenen Kleide, das die famose Figur
+dieses Allerweltsgenies noch glänzender hervorhob. — »Guten
 Morgen, meine Herren …« Das war wieder diese höfliche
-Gelassenheit des Kopfneigers — ganz; Dame … Das war.
-das blasse, Reize Selbst mit den großen melancholischenVUugen
-das war der süße, herbe Mund mit den kaum angedeuteten
-Fälscher eines verschlossenen Charakters,
+Gemessenheit des Kopfneigens — ganz Dame … Das war
+das blasse, feine Gesicht mit den großen melancholischen
+Augen, das war der süße, herbe Mund mit den kaum angedeuteten
+Fältchen eines verschlossenen Charakters.
 
-»Nehmen Sir dritte Platz, gnädige Frau …« Harald
-hatte sich) nur verneigt, hatte sofort auf den einen Sessel
+»Nehmen Sie bitte Platz, gnädige Frau …« Harald
+hatte sich nur verneigt, hatte sofort auf den einen Sessel
 neben dem Sofa gedeutet. »Meine Mutter ist verhindert, mit
-Bewegung zu frühstücken. Sie werden sich schon mit unserer Es
+uns zu frühstücken. Sie werden sich schon mit unserer
 Gesellschaft begnügen müssen …«
 
 Ich fand, daß er »Thea« dabei auffallend scharf musterte.
 
-»Sie« setzte sie!sofort … oder besser er, Donato alias
-Heiß Grind … Und doch fiel es mir schwer, ihn jeher
+»Sie« setzte sich sofort … oder besser er, Donato alias
+Fritz Grind … Und doch fiel es mir schwer, ihn seiner
 weiblichen Maskerade in Gedanken so weit zu entkleiden,
 daß er für mein Empfinden wirklich Mann wurde.
 
 Über dem Tische brannte die Hängelampe … Mildes
-Licht lag über uns dreien. Draußen war’s Lag, Ader der
+Licht lag über uns dreien. Draußen war’s Tag, aber der
 rieselnde Schnee schuf ein unklares Dämmern, und diese
-Bereinigung von Tageshelle und künstlicher Beleuchtung hatte
+Vereinigung von Tageshelle und künstlicher Beleuchtung hatte
 ihre intimen Reize.
 
 Ich schaute immer wieder auf Donatos schmale kleine
-Hände … Es waren dich Hände einer Frau. Als Ich den
+Hände … Es waren die Hände einer Frau. Als ich den
 Kaffee einschenkte, füllte Harald die Sherrygläser …
 
-»Es wird Ihrer Erkältung gut tun, gnädige Frau …»’
-meinte er und reichte ihr das präparierte Glas,
+»Es wird Ihrer Erkältung gut tun, gnädige Frau …«
+meinte er und reichte ihr das präparierte Glas.
 
 »Ihr Wohl …«
 
-Sie trank arglos … Auf dem Glase blieben hie
+Sie trank arglos … Auf dem Glase blieben die
 Fingerabdrücke zurück.
 
 Sie nahm ein Käseschnittchen, wählte mit Bedacht eine
 <@pagebreak/>
-Scheibe rosigen Lachs und aß mit einer entzückenden zunutze
-losen Anmut.
+Scheibe rosigen Lachs und aß mit einer entzückenden zwanglosen
+Anmut.
 
-— Sie sind zu liebenswürdig, Herr Harst,« meinte
+»… Sie sind zu liebenswürdig, Herr Harst,« meinte
 sie und wies auf ihr Sherryglas. »Ich bin es gar nicht
-mehr gewöhnt, irgendwie verwöhnt zu werden …
+mehr gewöhnt, irgendwie verwöhnt zu werden …«
 
 Eine ziemlich banale Salonunterhaltung plätscherte
 zwischen uns weiter. Ich wurde immer nervöser … Ich
-wartete auf Haralds Angriff … Über nichts geschah …
+wartete auf Haralds Angriff … Aber nichts geschah …
 
-Narr« einer halben Stunde verabschiedete Donato ach
-und ging nach oben an die Arbeit. Kaum hatte steckt die
-Tür Hinter ihm geschlossen, als Harald das Weinglas nahm,
-damit zum Schreibtisch eilte und die Fingerabdrüe aus dem
-Zettel verglich — »Bitte…!« sagte er zu mir …
-3H sah), daß zwischen den Alpdrücken nicht die geringste
+Nach einer halben Stunde verabschiedete Donato sich
+und ging nach oben an die Arbeit. Kaum hatte sich die
+Tür hinter ihm geschlossen, als Harald das Weinglas nahm,
+damit zum Schreibtisch eilte und die Fingerabdrücke auf dem
+Zettel verglich — »Bitte …!« sagte er zu mir …
+
+Ich sah, daß zwischen den Abdrücken nicht die geringste
 Ähnlichkeit bestand.
 
-»Was bedeutet das, Harald?r«
+»Was bedeutet das, Harald?!«
 
-»Das beißt nichts anderes; als daß wir jetzt die echte
-»Thea von Buratt im Hause haben « — — Donato ist morgens
+»Das heißt nichts anderes, als daß wir jetzt die echte
+Thea von Buratt im Hause haben … Donato ist morgens
 über das Dach des Wintergartens, nachdem er sich rasiert
-Hatte, auf und davon und Frau Thea nahm seine Stelle
+hatte, auf und davon und Frau Thea nahm seine Stelle
+ein.«
 
-94 starrte ihn lange an. »Machst du Witze?! Van
-müßten Thea und Donato!ich wie ein Ei dem erkennt
+Ich starrte ihn lange an. »Machst du Witze?! Dann
+müßten Thea und Donato sich wie ein Ei dem andern
+gleichen …«
 
 »Ja, so ist’s … Es sind zweifellos Zwillinge … Und
-befahl unterließ im alles, was diese Frau beunruhigen
+deshalb unterließ ich alles, was diese Frau beunruhigen
 konnte. Die Sache ist eben in ein neues Stadium getreten.
-Die beiden sind Geschwister, und dadurch bat sich der Fall
-
+Die beiden sind Geschwister, und dadurch hat sich der Fall
 noch mehr kompliziert.«
 
 <@pagebreak/>
@@ -1663,526 +1648,513 @@ noch mehr kompliziert.«
 
 Er schritt im Zimmer langsam auf und ab.
 
-» … Diese Heimlichkeit ist in der Tat verblüffen
-mein Alter … Traust du dieser Frau etwas Schlechtes zu
+»… Diese Heimlichkeit ist in der Tat verblüffend,
+mein Alter … Traust du dieser Frau etwas Schlechtes zu?«
 
-Nein — niemals! Sie macht auf mich ganz den Eindruck
+»Nein — niemals! Sie macht auf mich ganz den Eindruck
 einer stillen Dulderin.«
 
 »Das ist die richtige Bezeichnung … Sie muß in
-ihrer Ehe Entsetzliches erlebt haben, Nur ein zerstörtes
-Liebesglück gibt den Augen einen Frau »diese unendliche Tiefe,
+ihrer Ehe Entsetzliches erlebt haben. Nur ein zerstörtes
+Liebesglück gibt den Augen einen Frau diese unendliche Tiefe.
 Man glaubt in einen Abgrund zu blicken, in dessen Finsternis
-die grauen Gespenster einer bewegten Vergangenheit umherscweben.
+die grauen Gespenster einer bewegten Vergangenheit umherschweben.
 Leider, leider bleibt jedoch das Eine bestehen:
-diese Zwillinge suchen, Paul Pirsch, den Herrn der Unterwelt,
+diese Zwillinge suchen Paul Pirsch, den Herrn der Unterwelt,
 zu schützen! Und das gibt zu denken, was die Ermordung
-Egon von Mulatte betrifft.«
+Egon von Buratts betrifft.«
 
 Ich lehnte am Schreibtisch. »Harald, wäre es nicht am
 einfachsten gewesen, wenn du den gordischen Knoten durch
-einen kräftigen Hieb getrennt hättest, also Frau Thea Gesang
-über rücksichtslos offen gewesen wärest?! Sie hätte Zweifel
-los sofort kapituliert. Sie ahnt doch in keiner Weise, daß
+einen kräftigen Hieb getrennt hättest, also Frau Thea gegenüber
+rücksichtslos offen gewesen wärest?! Sie hätte zweifellos
+sofort kapituliert. Sie ahnt doch in keiner Weise, daß
 wir sie durchschaut haben. Sie denkt, wir beargwöhnen
 sie nicht, und unter diesen Umständen wäre wohl …«
 
-… « .- wäre diese Frau nur gewarnt worden … St
+»… wäre diese Frau nur gewarnt worden … In
 demselben Moment, wo sie merkt, daß wir ihr Spiel schon
 halb aufgedeckt haben, würde jeder restlose Erfolg in dieser
 Sache unmöglich geworden sein. Sie würde geleugnet haben
 — bis zum Äußersten. Unterschätze diese Thea nicht. Eine
-Frau, die jahrefkang wahrscheinlich ein Martyrium durchgemtaht
-hat, läßt sich richtig leicht zu einem Geständnis
-
+Frau, die jahrelang wahrscheinlich ein Martyrium durchgemacht
+hat, läßt sich nicht so leicht zu einem Geständnis
 zwingen.«
 
 <@pagebreak/>
 »Mag sein … — Und weiter nun?«
 
-Er blickt vor mir stehen.
+Er blieb vor mir stehen.
 
 »Was würdest du tun?«
 
-»Schlafen echten« — und riß gähnte. »Da Miete Nächste
-Legende jedoch angeheitert, würde ich zum Polizeipräsidium
+»Schlafen gehen« — und ich gähnte. »Da dieses Nächstliegende
+jedoch ausscheidet, würde ich zum Polizeipräsidium
 fahren und mir durch Bechert genauen Ausschluß über Frau
-Theas Herkunft verschaffen. Wäre sie Fernglas Zwillingsschwester,
+Theas Herkunft verschaffen. Wäre sie Donatos Zwillingsschwester,
 müßte sie auch Grind geheißen haben …«
 
-»Gut denn — zum Präsidium …! Portier will ich nur
-noch Mama spekulieren, damit dies Frühstück zu dreien Frau
+»Gut denn — zum Präsidium …! Vorher will ich nur
+noch Mama instruieren, damit dies Frühstück zu dreien Frau
 Thea nicht auffällt.«
 
-Freund Bechert rauchte in seinem nüchternen Dienste
-Immer eine dicke Zigarre. Mit eigentümlichen E-chOmunzeln
-begrüßte er uns … »Na, ihr Nachtvögel … ansügeschlascen by]
-Ihr seid ja gehörig Gekneipt gewesen …! Wer waren denn
+Freund Bechert rauchte in seinem nüchternen Dienstzimmer
+eine dicke Zigarre. Mit eigentümlichen Schmunzeln
+begrüßte er uns … »Na, ihr Nachtvögel … ausgeschlafen?!
+Ihr seid ja gehörig bekneipt gewesen …! Wer waren denn
 diese beiden Herren, die euch so gegen halb zwei nach
-Hause brachten y«
+Hause brachten?«
 
-warst setzte sich und blickte den Kriminalkommissar scharf
-an. »Ihr habt mein Hans also doch bewacht?!«
+Harst setzte sich und blickte den Kriminalkommissar scharf
+an. »Ihr habt mein Haus also doch bewacht?!«
 
 »Natürlich lieber Harst … Oder dachten Sie, wir
 glaubten Ihnen das schöne Märchen, das Sie da über den
 Zweck von Mischkuweits Besuch uns aufgetischt haben?!
-Fuhr kennen Sie doch!!«
+Wir kennen Sie doch!!«
 
-»Also Schuld Ihr Schmunzeln?! — Ist Grind verhaftet?
+»Also deshalb Ihr Schmunzeln?! — Ist Grind verhaftet?«
 
 »Grind?! — Nein, aber eine Dame haben wir vorläufig
 im Gewahrsam genommen, die durch ein Fenster und durch
-den Gemüsegarten verduften wollte. Lichter hat sie harte
-hartnäckig Jede Antwort verweigert. Ich wollte Sie dieserlhulb
+den Gemüsegarten verduften wollte. Bisher hat sie hartnäckig
+jede Antwort verweigert. Ich wollte Sie dieserhalb
 gerade anrufen. Ich mochte nicht zu früh stören — nach
-der schweren Sitzung. Einer unserer Beamten sagte, ihr
-wäret unglaublsi) betrunken gewesen.« …
+*der* schweren Sitzung. Einer unserer Beamten sagte, ihr
+wäret unglaublich betrunken gewesen.«
 
 »Allerdings … unglaublich!! Aber nicht von Alkohol,
-sondern durch ein scheußliches Gasgemenge, Über Versteck.
+sondern durch ein scheußliches Gasgemenge, lieber Bechert.
 Hören Sie nun mal zu … Sie sollen alles erfahren —
 <@pagebreak/>
-alles, aber die eine Bedingung sollte ich: die Sache bleibt
-in meiner Hand’«
+alles, aber die eine Bedingung stelle ich: die Sache bleibt
+in meiner Hand.«
 
 Er erzählte … Becherts faltiges kluges Gesicht verriet
-keine Spur vor Teilnahme oder Überraschung. Als Harald
-mit trinken knappen Bericht fertig war, sagte der Kommissar
+keine Spur von Teilnahme oder Überraschung. Als Harald
+mit seinem knappen Bericht fertig war, sagte der Kommissar
 nur:
-»Ich werde Donato vorführen lassen.« —
 
-Eine Beamtin der Frauenabteilung des Polizeigefängnisses?
+»Ich werde Donato vorführen lassen.«
+
+Eine Beamtin der Frauenabteilung des Polizeigefängnisses
 begleitete die angebliche »Dame«,
 
 Wir beide starrten »Donato« wie eine Geistererscheinung
 an. Selbst Harald konnte sich nicht beherrschen, trat rasch
 auf die uns völlig fremde Person zu und sagte:
 
-»Wer sind Stelle«
+»Wer sind Sie?!«
 
 Es war ein blondes, stark gepudertes und geschminktes
-schlankes Bändchen, mit prächtig onduliertem Bubikopf. Sie
-hatte ziemlich lecke, graue Augen, in denen jetzt ein spsitischüberlegener
-Ausdruck erschien,
+schlankes Dämchen, mit prächtig onduliertem Bubikopf. Sie
+hatte ziemlich kecke, graue Augen, in denen jetzt ein spöttisch-überlegener
+Ausdruck erschien.
 
-Harst beugte sich noch mir vor …
+Harst beugte sich noch mehr vor …
 
 Ein Griff — und der blonde Bubikopf war verschwunden.
 Ein dunkelblonder Herrenscheitel war unter der Perücke zum
 Vorschein gekommen. Das geschminkte Gesicht wirkte jetzt
 ganz anders — männlicher und härter in den Linien.
 
-Harald schickte erst einmal die Beamtin hinaus, Dunst
-sagte er zu dem Aschhswuden:
+Harald schickte erst einmal die Beamtin hinaus. Dann
+sagte er zu dem Aschblonden:
 
-»Herr Doktor Rüttler, nicht Wehr?«
+»Herr Doktor Rüttler, nicht wahr?«
 
-»Nun ja, — unter diesen Umständen dema8klere ich mich
+»Nun ja, — unter diesen Umständen demaskiere ich mich
 völlig …« erklärte Hans Rüttler, Doktor Juris und Sohn
-und Erbe des Kommerzienrat Fäusten, mit einem leichten
-Achselzucken. »G’anben Sie aber nicht, meine Herren, daß
-Sie von mir irgendeine Auskunft darüber erhalten, Metall
-ich Sie, Herr Harst, nätlicherweise besucht habe.
+und Erbe des Kommerzienrats Rüttler, mit einem leichten
+Achselzucken. »Glauben Sie aber nicht, meine Herren, daß
+Sie von mir irgendeine Auskunft darüber erhalten, weshalb
+ich Sie, Herr Harst, nächtlicherweise besucht habe.
 Meinetwegen können Sie mich hier tagelang einsperren …
-Ich bleibe ein Buch mit sieben Siegeln …« …
+Ich bleibe ein Buch mit sieben Siegeln …«
 
-Harald musterte ihn von oben bis unten …,«
+Harald musterte ihn von oben bis unten …
 
 »Ihr Kostüm — nicht schlecht, Herr Doktor … Nur zu
 <@pagebreak/>
-sehr geschminkt … Wie fühlten Sie sich konnten in meinem
-Fremdenzimmer als Herstellerin Fritz Grinds?«
+sehr geschminkt … Wie fühlten Sie sich denn in meinem
+Fremdenzimmer als Vertreterin Fritz Grinds?«
 
 Der Hieb saß. Rüttler wurde unter der Schminke bleich
 und senkte den Blick.
 
-»Ja — Sie waren Vertretern Grinds bei uns … Und
+»Ja — Sie waren Vertreterin Grinds bei uns … Und
 damit ein Beweis vorhanden, daß unsere Näherin in der
-
 Zeit zwischen elf und halb zwei im Hause gewesen
-ei, gingen Sie zweimal ins Badezimmer und holten sich
+sei, gingen Sie zweimal ins Badezimmer und holten sich
 warmes Wasser. Und nachher, als Fritz Grind wieder
-erschien, haften Sie eben Noch und sieben beim Rückzug
+erschien, hatten Sie eben Pech und fielen beim Rückzug
 den Beamten in die Hände. Da haben Grind und Frau
-Thea sich doch Gesichter gezeigt, als sie den Austausch der
-Persönlichkeiten Heute früh im Dunkeln vornahmen, die
-Heißen sich nicht erwischen …»’
+Thea sich doch geschickter gezeigt, als sie den Austausch der
+Persönlichkeiten heute früh im Dunkeln vornahmen, die
+ließen sich nicht erwischen …«
 
 Rüttler biß sich auf die Lippen …
 
-»Also — Sie wissen alles … Du meinte er sichtlich des
-frommen.
+»Also — Sie wissen alles …« meinte er sichtlich beklommen.
 
 »Alles weiß ich leider nicht, Herr Doktor … Immerhin
 eine ganze Menge. Aber daß Sie alles wissen, vermute
-ich wohl mit Rast, und ich fürchte, Sie werden dieses
+ich wohl mit Recht, und ich fürchte, Sie werden dieses
 rote Haus am Alexanderplatz nicht eher verlassen, bis sie …
-alles zu Protokoll gegeben Faden,«
+alles zu Protokoll gegeben haben.«
 
-Rüttler richtete sich straff auf. »Damm werde ich hier
-wohl sterben, Herr Harst, Denn meine Freilassung durch
+Rüttler richtete sich straff auf. »Dann werde ich hier
+wohl sterben, Herr Harst. Denn meine Freilassung durch
 ein sogenannten Geständnis erkaufen: das wird nie geschehen!«
 
-»Seen wir uns … So … Sie werden mit sich reden
+»Setzen wir uns … So … Sie werden mit sich reden
 lassen, Herr Doktor. Ich möchte Ihnen folgendes vorhalten.
-Sie hatten seinerzeit die Jagd auf dem Rittergut Kuppel
+Sie hatten seinerzeit die Jagd auf dem Rittergut Hüppelfeld
+gepachtet …«
 
-Feld gepachtet …«
-Schon dieser Goß ließ über Kutters versOminktes See
+Schon dieser Satz ließ über Kutters verschminktes Gesicht
+ein Zucken gleiten.
 
-steckt ein Suchen gleiten.
-
-… Jedenfalls waren Sie damals, als Herr von Buratt
-erschossen ’ausgefunden wurde, Jagdpächter des Gutes. Buratt
+»… Jedenfalls waren Sie damals, als Herr von Buratt
+erschossen aufgefunden wurde, Jagdpächter des Gutes. Buratt
 selbst, so las ich in meinen Zeitungsausschnitten, machte sich
-nichts ans der Jagd, und sie zahlten eine sehr anständige Jagdgast.
+nichts aus der Jagd, und sie zahlten eine sehr anständige Jagdpacht.
 <@pagebreak/>
 Die Polizei beschäftigte sich damals, wie mir erinnerlich,
-
-auch im Stullen mit Heer Person. Über Sie standen mit
-
-Buratt auf sreundicheftiichstem Fuße, verkehrten sehr viel
-
-in seinem Hause, ur irgendein Verdacht gegen Sie kam nicht
+auch im stillen mit Ihrer Person. Aber Sie standen mit
+Buratt auf freundschaftlichstem Fuße, verkehrten sehr viel
+in seinem Hause, und irgendein Verdacht gegen Sie kam nicht
 auf.«
 
 Rüttler wurde sichtlich nervös.
 
-»Los li das alles, Herr Harfe« schrie er Harald
-gereizt an!. »Wollen Sie etwa …
+»Was soll das alles, Herr Harst?!« schrie er Harald
+gereizt an. »Wollen Sie etwa …«
 
-… Lassen Sie mich doch erst ausreden, Herr Doktor,
+»… Lassen Sie mich doch erst ausreden, Herr Doktor.
 — Es war an einem Septembertage kurz nach Egon von
-Buratts Tode, als 14 verkleidet das einsame Restaurant
-Unter den Eichen, das frühere Vorwerk von Hüppelfeld.
-besuchte … Nr. dem Vormittag saßen auch Sie dort im
-Garten, Herr Doktor … Jetzt ist mit dies eingefallen …
+Buratts Tode, als ich verkleidet das einsame Restaurant
+Unter den Eichen, das frühere Vorwerk von Hüppelfeld,
+besuchte … An dem Vormittag saßen auch Sie dort im
+Garten, Herr Doktor … Jetzt ist mir dies eingefallen …
 Wir kannten uns ja schon damals persönlich … sogar recht
-gut. Ich hatte Ihrem Herrn Vater die Leine Gefälligkeit
+gut. Ich hatte Ihrem Herrn Vater die kleine Gefälligkeit
 erwiesen, die Sache mit den gestohlenen chemischen Geheimrezepten
 in Ordnung zu bringen. Also Sie waren dort …
 Ich auch. Ich erkannte Sie. Sie erkannten mich nicht. Es
 war aber noch jemand dort …«
 
-Er schaute Rüttler fest an. »In der einen Lande saß
+Er schaute Rüttler fest an. »In der einen Laube saß
 der angebliche Oberlehrer Doktor Hirsch …«
 
 Rüttler hüstelte und lächelte gezwungen.
 
-»Hirsch?! Es gibt viele Hirsche …«
+»Hirsch?! Es gibt viele Hirsche …!«
 
 »Gewiß, Herr Doktor … Aber jener Hirsch damals
 trug Handschuhe, hatte einen Ausschlag an den Händen …
-und Sie gingen zu ihm und holten sie ein Mostrichfäßchen,
+und Sie gingen zu ihm und holten sich ein Mostrichfäßchen,
 obwohl Sie Speckeierkuchen aßen und nachher keinen Mostrich
-dazu nahmen. Mir schien es so, als ob Sie dem Mannes
-mit den Zwirnhandschuhen, der nachher als Einbrecher
-König Paul Pirsch verhaftet wurde, etwas mehr zuraunten,
-als man’s zu tun pflegt, wenn man ein Molstrichfäßehen
-entleiht. Damals schenkte ich diesem Umstand weiter keins
+dazu nahmen. Mir schien es so, als ob Sie dem Manne
+mit den Zwirnhandschuhen, der nachher als Einbrecherkönig
+Paul Pirsch verhaftet wurde, etwas mehr zuraunten,
+als man’s zu tun pflegt, wenn man ein Mostrichfäßchen
+entleiht. Damals schenkte ich diesem Umstand weiter keine
 Beachtung. Heute weiß ich, daß Sie Paul Pirsch sehr gut
-kannten und kennen und daß Sie mit Frau Typ ’und ihrem
+kannten und kennen und daß Sie mit Frau Thea und ihrem
 <@pagebreak/>
-Zwillingsbruder eng »erkundet sind und dein nunmehr aus
-Herzberge entw’chenen Paar Whisky … zu schützen zu Heu«
+Zwillingsbruder eng verbündet sind und den nunmehr aus
+Herzberge entwichenen Paul Pirsch … zu schützen suchen!«
 
-Der Hieb das n«-59 besser»…
+Der Hieb saß noch besser …
 
-Hans Rüttler und der Kopf auf die Brust … Er
-lebte sich verstört die Lippen, e« munterste Jockeys etwas
-vor sie bin, das wir Licht verstanden.
+Hans Rüttler sank der Kopf auf die Brust … Er
+leckte sich verstört die Lippen, er murmelte irgend etwas
+vor sich hin, das wir nicht verstanden.
 
-Harst ließ ihm Zeit,
+Harst ließ ihm Zeit.
 
-Rüttler gab sich alle Feld«, seine Verwirrung zu
-bemänteln. Wirt heisere an Erklären sagte ei ss4yrliesiich:
-»Sie haben stets viel Phantasie gehabt, Loche Harst …!
-Was gebt mich ein Einbreadzer ganz!«
+Rüttler gab sich alle Mühe, seine Verwirrung zu
+bemänteln. Mit heißerem Auflachen sagte er schließlich:
+»Sie haben stets viel Phantasie gehabt, Herr Harst …!
+Was geht mich ein Einbrecher an?!«
 
-»ob — wenn dieser Einbrecher zum Beispiel Zeuge eines
-Mordes gewesen wäre, und wenn Sie …
+»Oh — wenn dieser Einbrecher zum Beispiel Zeuge eines
+Mordes gewesen wäre, und wenn Sie …«
 
-Da (!Schnellte der andere hoch. »Herr, ich verbitte mir
+Da schnellte der andere hoch. »Herr, ich verbitte mir
 diese ungeheuerliche Verdächtigung!! Das — das ist ja
 geradezu Wahnsinn! Ich soll Buratt erschossen haben?«
 
 »Habe ich davon etwas gesagt?! Kein Wort! Sie lassen
-mich ja nie ausreden, sobald ich dieses trübe Thema (Kreise.«
+mich ja nie ausreden, sobald ich dieses trübe Thema streife.«
 
 Rüttler wandte sich mit schroffer Bewegung an Bechert.
-»Garn Kommissar, ich verlange, daß Sie mich vier in (Schuß
+»Herr Kommissar, ich verlange, daß Sie mich hier in Schutz
 nehmen gegen …«
 
-»Unsinn!« meinte Bechert grob. »In Schuß nehmen
-—» noch besser! Reden Sie, — und mehr verlange auch ich
+»Unsinn!« meinte Bechert grob. »In Schutz nehmen
+— noch besser! Reden Sie, — und mehr verlange auch ich
 nicht! Harst hat Sie genügend in die Enge getrieben.«
 
 »Allerdings,« nickte Harald ernst. »Und daß Sie, Herr
-Doktor, wissen, wer Buratt erschoß;, ist oberste gewiß als.
-das andere — daß Sie Frau Ehe lieben und vielleicht
+Doktor, wissen, wer Buratt erschoß, ist ebenso gewiß als
+das andere, — daß Sie Frau Thea lieben und vielleicht
 gar mit ihr verlobt sind …! Schauen Sie mich nicht so
-wild .- … «. Sie sollten nicht öden Ging da tragen, Herr
-Doktor … ) … Der Ring ist mir nicht fremd … wenigstens
-die« eigentümliczhe Form der geballten Hand, die den
-Brillant 0 Frau Thea hatte heute beim Frühstück genau
+wild an … Sie sollten nicht den Ring da tragen, Herr
+Doktor … Der Ring ist mir nicht fremd … wenigstens
+die eigentümliche Form der geballten Hand, die den
+Brillant hält. Frau Thea hatte heute beim Frühstück genau
 denselben Ring am kleinen Finger.«
 
-— Rüttler trat keuczxend an das Fenster und drehte uns
+Rüttler trat keuchend an das Fenster und drehte uns
 den Rücken zu:
 
 <@pagebreak/>
-Harst für leiser fort: »Es wäre wirklich besser, Sie
-würden uns alles jagen — alles, Herr Kaufte: … Schon
-peinvoll, weil Frau Steg Sie … belügt — jener wie
-es Donato?ut.«
+Harst fuhr leiser fort: »Es wäre wirklich besser, Sie
+würden uns alles sagen — alles, Herr Doktor … Schon
+deshalb, weil Frau Thea Sie … belügt — genau wie
+es Donato tut.«
 
-Rüutiltxr platzte sich hastig um. »Herr Harst, das ist
-eine als trennte Verdächtigung, die …
+Rüttler drehte sich hastig um. »Herr Harst, das ist
+eine ganz infame Verdächtigung, die …«
 
 »Pardon — nur eine Frage: Kennen Sie das Geheimnis
 der alten Eiche?«
 
-»Das … los das?!!! Eichen! — Nein …ck(«
+»Was … soll das?!!! Eiche?! — Nein …!«
 
-»Nun also … —« Ne hoben Sie schon den Beweis, daß
+»Nun also … Da haben Sie schon den Beweis, daß
 Sie belogen worden sind. In der verflossenen Nacht, als Sie
-Haupte bei mir im Frembenziuminer vertraten, sollten Schraut
-erstaunt ich; in Peng Genauer unter der Eiche durchs Eisiges
-mitgebracht werden, wird Frau Ihre und Donato retteten
-nur. — Neun Sie davon etwas gewußt hätten oder Hätten
-wissen dürfen — von der Eiche und dem geplanten Attentats,
-meine ich, — so würde Donato wollt Sie und ur
-Thea mit in die Schonung zu dem uralten Baums genommen
-hoben. Aber er überließ Ihnen die bewiesene Aufgabe,
+Donato bei mir im Fremdenzimmer vertraten, sollten Schraut
+und ich in dem Gemäuer unter der Eiche durch Giftgase
+umgebracht werden, und Frau Thea und Donato retteten
+uns. — Wenn Sie davon etwas gewußt hätten oder hätten
+wissen dürfen — von der Eiche und dem geplanten Attentat,
+meine ich, — so würde Donato wohl Sie und nicht
+Thea mit in die Schonung zu dem uralten Baume genommen
+haben. Aber er überließ Ihnen die harmlosere Aufgabe,
 zweimal warmes Wasser aus dem Badezimmer zu holen,
 und verlangte von seiner Zwillingsschwester das für eine
-Frau recht anstrengende und gefährliche Hilfswerk …
+Frau recht anstrengende und gefährliche Hilfswerk …«
 
-Umgang Rüttler starrte zu Boden,
+Hans Rüttler starrte zu Boden.
 
-Gähnten verstrichen. Er längste mit sich … Dann
+Minuten verstrichen. Er kämpfte mit sich … Dann
 sagte er gepreßt:
 
-»24a, ich bin belogen worden … ich merke das jetzt
-selbst … Trotzdem werde im mein Wort halten. Ich —
+»Ja, ich bin belogen worden … ich merke das jetzt
+selbst … Trotzdem werde ich mein Wort halten. Ich —
 — verrate nichts!«
 
 Und dabei blieb er.
 
-Hochzeit ließ ihn dann in eine Männerzelle bringen. Die
-vorläufige Hast wurde wegen Verdunkelungsgefahr nicht aus
-
-gehoben.
+Bechert ließ ihn dann in eine Männerzelle bringen. Die
+vorläufige Haft wurde wegen Verdunkelungsgefahr nicht aufgehoben.
 
 <@pagebreak/>
 
-<h2>8. Kapitel.</h2>
+<h2>3. Kapitel.</h2>
 
 <h3>In der Nähe von St. Michael.</h3>
 
-»Nun sind wir ja unter uns, Herr Harst. Los flattert
-Eis von alledem?« Bechert reicht! uns die Zigavyrensiste
+»Nun sind wir ja unter uns, Herr Harst. Was halten
+Sie von alledem?« Bechert reichte uns die Zigarrenkiste.
 Harald dankte und nahm eine seiner Mirakulum.
 
-»Was ich davon halte, habe im ja schon gesaugt. Leiste
+»Was ich davon halte, habe ich ja schon gesagt. Lassen
 Sie uns mal alles vom Einwohnermeldeamt bringen, was
-über Thea von Buratt, Wichvelkindstraße 122, vorhanden,
+über Thea von Buratt, Michaelkirchstraße 122, vorhanden,
 und rufen Sie auch das zuständige Revier an.«
 
 Eine neue Überraschung da: Doktor Hans Rüttler war
-als Untermieter Ihres gemeldet, außerdem wohnte bei ihr
-noch ein Fräulein Mimt Hasselflug, Heimardeiterii. Thea
-selbst: war in der Tat eine geborene Grind, hatte sich »der
-als Konzertsängerin Idee Grunde genannt. Weiter stellen
-wir fest, daß der Vater der Zwillingsgesäwister Fritz und
+als Untermieter Theas gemeldet, außerdem wohnte bei ihr
+noch ein Fräulein Mimi Hasselflug, Heimarbeiterin. Thea
+selbst war in der Tat eine geborene Grind, hatte sich aber
+als Konzertsängerin Thea Grinado genannt. Weiter stellten
+wir fest, daß der Vater der Zwillingsgeschwister Fritz und
 Thea lange Jahre musikalischer Clown gewesen war und daß
-die Geschwister nach einen älteren Bruder namens Haar
-besaßen, der als Rechtsanwalt und Notar bis 1924 in Berlin Halensee
+die Geschwister noch einen älteren Bruder namens Hugo
+besaßen, der als Rechtsanwalt und Notar bis 1924 in Berlin-Halensee
 tätig gewesen, dann aber nach Amerika ausgewandert
-war,
+war.
 
-Gerade dies letztere!thmute uns sehr nachdenklich, Harald
-meinte, Doktor Zuge Grund verdiene Beachtung … — »Egon
-von Buratt war ebenfalls Umwelt, und wir schlossen daraus
-etwas vorschnell, er könnte nebenbei Paul Pirsch, den Sie
-der Unterwelt, gespielt hoben. Nun haben wir hier einen
+Gerade dies letztere stimmte uns sehr nachdenklich. Harald
+meinte, Doktor Hugo Grind verdiene Beachtung … »Egon
+von Buratt war ebenfalls Anwalt, und wir schlossen daraus
+etwas vorschnell, er könnte nebenbei Paul Pirsch, den Herrn
+der Unterwelt, gespielt haben. Nun haben wir hier einen
 zweiten Rechtsanwalt. In Amerika soll er sein. Soll …! —
-— Paul Pirsch ist das während seiner Haft photographiert
+— Paul Pirsch ist doch während seiner Haft photographiert
 worden, Bechert. Ich möchte die Bilder sehen.«
 
-— Bechert läutete, telephonierte, und dann beugten wir
+Bechert läutete, telephonierte, und dann beugten wir
 uns über ein Dutzend verschiedener Aufnahmen, die alle
 <@pagebreak/>
-»Paul Pirsch« darstellten und die das sämtlich in verblüffender
+»Paul Pirsch« darstellten und die doch sämtlich in verblüffender
 Weise verschieden waren.
 
-»Wir haben ihm auch den Mann mit dem Kautschukgesicht:
+»Wir haben ihn auch den Mann mit dem Kautschukgesicht
 genannt,« erklärte Bechert dazu. »Es schien ihm
 Spaß zu machen, seine Züge vor dem Apparat jedesmal
 zu verändern. Als er damals im Restaurant Unter den
-Eichen auf Ihr! Veranlassung, lieber Harst, verhaftet wurde,
-hatte er sich so glänzend maskiert, daß selbst wir Wortlaut
+Eichen auf Ihre Veranlassung, lieber Harst, verhaftet wurde,
+hatte er sich so glänzend maskiert, daß selbst wir Fachleute
 erstaunt waren.«
 
 »Findest du eine Ähnlichkeit mit den Geschwistern Grind
-Heraus?« fragte Harald mich nach »einer Weile.
+heraus?« fragte Harald mich nach einer Weile.
 
-»Das ist schwer zu sagen …
+»Das ist schwer zu sagen …«
 
-»Allerdings. — Bechert, wir ihren nun nach Michalfirchstraße
-122. Wir werden dort wohl ein Bild Egon von
-Buratts ausstöbern’
+»Allerdings. — Bechert, wir fahren nun nach Michaelkirchstraße
+122\. Wir werden dort wohl ein Bild Egon von
+Buratts aufstöbern.«
 
-Unser Auto schlängelte — sich durch« die unglaublich
+Unser Auto schlängelte sich durch die unglaublich
 schmutzigen Straßen der Spree zu. Die Schneemassen dieses
-harten Winters hatten bisher-… nicht weggeschafft werden
+harten Winters hatten bisher nicht weggeschafft werden
 können, und in verschwenderischer Fülle schüttelte Frau Holle
-droben im Himmel fast jeden Lag aufs neue ihre Betten
+droben im Himmel fast jeden Tag aufs neue ihre Betten
 so gründlich durch, daß der Neuschnee und das Salz der
 Straßenbahn jenen beliebten bräunlichen Brei schufen, der
-durch die Autoräder über den Bürgersteig hinweg die an!
-die Häuser flog. Das Geschäft der Strumpffabriken Größter,
-Die leichtgeschürzte Damenwelt wurde heimwärts mit diesem
+durch die Autoräder über den Bürgersteig hinweg die an
+die Häuser flog. Das Geschäft der Strumpffabriken blühte.
+Die leichtgeschürzte Damenwelt wurde beinwärts mit diesem
 salzigen Brei aufs reichlichste bedacht, und diese Art Flecken
 waren dauerhaft.
 
 Das Auto glitt über die Michaelbrücke und hielt dort,
-wo am Spleeniger die Straße noch einen kurzen Blinddarm
+wo am Spreeufer die Straße noch einen kurzen Blinddarm
 hat.
 
-Die zugefrorene Spree, die eingefrorenen Kähne und.
+Die zugefrorene Spree, die eingefrorenen Kähne und
 Dampfer und das winterliche Bild der uralten verschneiten
-Tauchten drüben verwandelte diesen sonst so unpoetischen
-Teil des Berliner Ostens in ein anheimelndes Sturmnacht,
-
-Gemälde.
+Häuschen drüben verwandelte diesen sonst so unpoetischen
+Teil des Berliner Ostens in ein anheimelndes Stimmungsgemälde.
 
 <@pagebreak/>
 Nr. 122, Front nach dem Wasser hin, hatte ein sogenanntes
-Quergebäude und einen Foabrilhof, Thea wohnte
-In diesem von Maschinenlärm umdrängten Quergebäude vier
-Treppen hoch — unter dem Buche. Immerhin, das Gebäude
-war in gutem Zustand, die Treppen sauber und duftsfrei, und
-nur die eisige Kälte im Treppenhaus und die dick Gefrorenen
+Quergebäude und einen Fabrikhof. Thea wohnte
+in diesem von Maschinenlärm umdröhnten Quergebäude vier
+Treppen hoch — unter dem Dache. Immerhin, das Gebäude
+war in gutem Zustand, die Treppen sauber und duftfrei, und
+nur die eisige Kälte im Treppenhaus und die dick befrorenen
 Fenster ließen mich frösteln.
 
 Wir läuteten. Hinter der Flurtür wurde der Deckel des
 Türspions weggeschoben, ein blankes Auge grinste hindurch
-und ein dürres Stimmungen Kreise, was wir denn wünschten.
+und ein dürres Stimmchen keifte, was wir denn wünschten.
 
 Bechert redete den Zauberspruch der jede Pforte öffnet:
 Kriminalpolizei, wies sich aus, und dann erst klirrte die
 Sicherheitskette, und im bläulichen Licht einer Flurampel
-stand so? uns ein Faltiges Flusses Weiblein und nannte den
+stand vor uns ein buckliges blasses Weiblein und nannte den
 Namen Minni Hasselflug.
 
 Arme Minni … Mit Minne hast du sicherlich nie
-dein Herzchen belastet, — — Dein Leben war Arbeit und
+dein Herzchen belastet … Dein Leben war Arbeit und
 Sorge …
 
-Wir … betraten ihr Zimmer. Am Fenster eine Nähmaschine,
+Wir betraten ihr Zimmer. Am Fenster eine Nähmaschine,
 ein Berg Wäsche, — auf dem Tisch zugeschnittene
-Stoffe … Es roch wie in einem Weißwarengeschöäft.
+Stoffe … Es roch wie in einem Weißwarengeschäft.
 
-Bechert beruhigte das verschüchterte Weiblein, »Wir
+Bechert beruhigte das verschüchterte Weiblein. »Wir
+wollen ja nichts von Ihnen … Frau von Buratt schläft
+also in der Küche … Wo hat sie denn ihre Sachen untergebracht?«
 
-wollen ja nichts von Ihnen … Frau von Buratt? schläft
-also in der Küche … Wo bartlos denn ihre ’Sachen untergebracht?
-» »las weiß 1H wirklich nicht,« säuselte Minnichen. »Ich
-Sohne ja erst seit dem Zweiten hier, und Frau von Buratts
-Egon sich mehr mit dem Herrn Doktor als mit mir.
+»Das weiß ich wirklich nicht,« säuselte Minnichen. »Ich
+wohne ja erst seit dem Zweiten hier, und Frau von Buratt
+beschäftigt sich mehr mit dem Herrn Doktor als mit mir.
 Übrigens ist der Herr Doktor Rüttler wieder mal die ganze
-Nacht weageblieden … Frau von Brutal! auch …
+Nacht weggeblieben … Frau von Buratt auch …«
 
-Also so ein bißchen Niederträchtig konnte die Hasselflug
+Also so ein bißchen niederträchtig konnte die Hasselflug
 auch sein!
 
-»Gut« entschied Bechert, »wir werden uns dann die
+»Gut,« entschied Bechert, »wir werden uns dann die
 Übrigen Räume allein ansehen. Lassen Sie sich bei Ihrer
-Arbeit nicht stören, Fräulein, … « …
+Arbeit nicht stören, Fräulein …«
 
 <@pagebreak/>
 Die Einrichtung der beiden Zimmer, die Rüttler bewohnte
 oder doch wenigstens gemietet haben sollte, war überaus
-elegant und-geschmackvell.- die Möbel ganz neu und kostbar
-und Teppiche, Wandschmuck und sonstiger Schnur Beweise
+elegant und geschmackvoll, die Möbel ganz neu und kostbar
+und Teppiche, Wandschmuck und sonstiger Schmuck Beweise
 eines erlesenen Geschmackes. Das Schlafzimmer überraschte
 für eine »arme Witwe« noch mehr. Harald hob die Steppdecke
-von dem breiten Jfranzösisczen Bett aus feinstem kaukasischem
-Nußbaum und. zog unter den Kissen ein hauchdünnes
-Antlitz Damennachthemd mit reicher Stickerei hervor.
+von dem breiten französischen Bett aus feinstem kaukasischem
+Nußbaum und zog unter den Kissen ein hauchdünnes
+blaßlila Damennachthemd mit reicher Stickerei hervor.
 
-»Rüttler dürfte solch« Händen kaum tragen, lieber Bechert.
+»Rüttler dürfte solche Hemden kaum tragen, lieber Bechert.
 Der Doktor und Millionärssohn hat sein eigentliches Heim
-draußen in Nikolassee, ich kenne es, RViesenvilla, Park
-Und Frau Thea wird ihr Bett in der Küche ’wohl Nu? zum
+draußen in Nikolassee, ich kenne es, Riesenvilla, Park …
+Und Frau Thea wird ihr Bett in der Küche wohl nur zum
 Schein aufstellen … Womit ich nichts Arges meine, was
 die Beziehungen des heimlichen Brautpaares Rüttler-Thea
-anbetrifft, Durchgang nicht. Die’ Frau macht nickt den Eindruck,
+anbetrifft, durchaus nicht. Die Frau macht nicht den Eindruck,
 als ob sie für leichte Tändeleien zu haben wäre. —
 Suchen wir … Vielleicht finden wir hier in den Schränken
-ein Bild Egon von Punkte.««-
+ein Bild Egon von Buratts.«
 
-Die beiden riesigen Kleiderschränke waren verschlossen,
-Derartige Schlüssel sind mehr Zierrat. In dem einen Schrank
-entdeckte Harst ein Photographiealbum, Es enthielt auch das
-Gewünschte, sogar drei Aufnalymen Buratts, Eine Schöne
-Halt war dieser Mann nicht gewesen, Das tief in die Stirn.
-gewachsene borstige Haar, die dicken fangen Augenbrauen, die
-süßliche Nase mit den aufgeblälnen Nüstern, der Klapprige
+Die beiden riesigen Kleiderschränke waren verschlossen.
+Derartige Schlösser sind mehr Zierrat. In dem einen Schrank
+entdeckte Harst ein Photographiealbum. Es enthielt auch das
+Gewünschte, sogar drei Aufnahmen Buratts. Eine Schönheit
+war dieser Mann nicht gewesen. Das tief in die Stirn
+gewachsene borstige Haar, die dicken langen Augenbrauen, die
+häßliche Nase mit den aufgeblähten Nüstern, der struppige
 Schnurrbart und die Wulstlippen: Es waren die Züge
 eines brutalen, sinnlichen Menschen! Und dann die
-Kleinen, stehenden Augen hinter dem schwarzen Hornkneifer
-— geradezu dürfte Augen!
+Kleinen, stechenden Augen hinter dem schwarzen Hornkneifer
+— geradezu tückische Augen!
 
-Harald steckte wortlos das eine Kabinettbild zu sich
-»Ich werde es vornehm ein wenig verändern, sagte er, und
+Harald steckte wortlos das eine Kabinettbild zu sich.
+»Ich werde es daheim ein wenig verändern,« sagte er, und
 Bechert warf ihm daraufhin einen eigentümlich forschenden
+Blick zu. »Verändern?!«
 
-Blick zu, »Verändern?!
-»Ja, Freund Fritz … Und nachher wird, glaubte ich,
+»Ja, Freund Fritz … Und nachher wird, glaube ich,
 <@pagebreak/>
 ein anderes Gesicht zum Vorschein kommen … Vielleicht
 das des Herrn in Amerika, des Herrn Rechtsanwalts Grind.
-Von Mine aus können wir geben. Ich bin zufriedengestellt.«
+Von mir aus können wir gehen. Ich bin zufriedengestellt.«
 
-— Wieder blickte Fritz Bechert Harald scharf an. »Sicht …
-fügen Sie!«
+Wieder blickte Fritz Bechert Harald scharf an. »Jetzt …
+lügen Sie!«
 
-»Es ist möglich … Vieles ist hier möglich« er sprach
-leiser. »ich rate euch, faßt in die Hintertaschen … Die
-Hohe vier gefällt mir nicht. Ich wittere die Bestie —
-Den Herrn der Unterwelt … Wind meine Vorahnungen
+»Es ist möglich … Vieles ist hier möglich,« er sprach
+leiser. »Ich rate euch, faßt in die Hintertaschen … Die
+Sache hier gefällt mir nicht. Ich wittere die Bestie —
+Den Herrn der Unterwelt … Und meine Vorahnungen
 trügen selten …«
 
-Er schaute sich um … Wir haften die Für zum
+Er schaute sich um … Wir hatten die Tür zum
+Herrenzimmer offen gelassen. In der Tür stand Minni Hasselflug …
 
-Herrenzimmer offen gelassen. In der Tür stand Minni Sessel
-
-ug v0.0.
-Es … es hat geläutet … « stotterte sie verängstigt …
-
+»Es … es hat geläutet …« stotterte sie verängstigt …
 »Es ist ein fremder Herr draußen …«
-»Sind Sie Ader auch ein verschüchtertes Zerschnitt!«
 
-sagte Bechert gutmütig, …
-Sie lächelte verzerrt und zeigte dicke Zahnlücken. »Herr
+»Sind Sie aber auch ein verschüchtertes Seelchen!«
+sagte Bechert gutmütig.
+
+Sie lächelte verzerrt und zeigte ihre Zahnlücken. »Herr
 Kommissar, der Mann war heute schon zweimal hier, aber
-Ich ließ ihn nicht ein. Er redet so wirres Zeug … Ich
+ich ließ ihn nicht ein. Er redet so wirres Zeug … Ich
 habe solche Angst …«
 
 Wir gingen leise in den kleinen halbdunklen Flur …
 Bechert spähte durch das Guckloch … Harst raunte mir zu:
-Achtung — — es gebt los!!«’ Ich sah, daß er die Pistole
-der hatte.
+»Achtung — — es geht los!!« Ich sah, daß er die Pistole
+in der Hand hatte.
 
 »Ich sehe niemand,« erklärte Bechert. »Der … Kerl …
-
-muß …
+muß …«
 
 Seine Stimme schien aus immer größerer Entfernung
-kommen … Mir wurde es plötzlich schwarz vor den
+zu kommen … Mir wurde es plötzlich schwarz vor den
 Augen, ich vernahm noch einen Schuß und einen gellenden
 Schrei — dann war’s aus mit mir, mit uns …
 
@@ -2190,160 +2162,158 @@ St. Michael war eine Falle gewesen.
 
 <@pagebreak/>
 
-Retter.
+<h2>4. Kapitel.</h2>
 
-Das Vorspiel.
+<h3>Das Vorspiel.</h3>
 
-Nur dem Vorstand, daß der Waskal’ierer gerade die Treppe
-Emporgekommen gar und den Schuf, und den Schrei gehört
-Hüfte mit daß er anständigen genug gewesen, die Tür sofort
-gut Särge des gegenüber wohnenden Schneidermeisters aufs
-elastischen, verkniffen wir doch unser Leben und die leicht
-Auch ehe zum Bewußtsein.
+Nur dem Umstand, daß der Gaskassierer gerade die Treppe
+emporgekommen war und den Schuß, und den Schrei gehört
+hatte und daß er entschlossen genug gewesen, die Tür sofort
+mit Hilfe des gegenüber wohnenden Schneidermeisters aufzubrechen,
+verdankten wir drei unser Leben und die rasche
+Rückkehr zum Bewußtsein.
 
-Der Union 354 war außerordenr!liß!Schlau vorbereitet
-gewesen. Die Freie Minni fanden wir nachher auf den
-Angeboten des Badezimmers gefesselt und geknebelt unter
-Seen schuld tot auf. Sie hatte freilich auch einen Buddel,
-aus einen grauen Bubikopf, Ader ihr Gesicht war frisch
-und fiebert, und mit ungeheurer Zungenfertigfeit erzählte
-sie, wie eine solide Stunde vor unserem Eintreffen hier
-draußen ein Postbote geläutet habe, der ein Falles für
+Der Anschlag war außerordentlich schlau vorbereitet
+gewesen. Die echte Minni fanden wir nachher auf dem
+Hängeboden des Badezimmers gefesselt und geknebelt unter
+Decken halb tot auf. Sie hatte freilich auch einen Buckel,
+auch einen grauen Bubikopf, aber ihr Gesicht war frisch
+und lebhaft, und mit ungeheurer Zungenfertigfeit erzählte
+sie, wie eine halbe Stunde vor unserem Eintreffen hier
+draußen ein Postbote geläutet habe, der ein Paket für
 Frau von Buratt brachte. Sie hatte ihn arglos in die
 Küche eingelassen und hier hatte der Mann sie gewürgt und
 betäubt.
 
-Dieser Mann, wir wußten es, war Paul Pirsch Heck
-Wesen, das Kautschukgesicht, der Herr der Unterwelt. Er hatte
-Hier als Minni Hasselflug geradezu Glänzendes geleistet. Kein
-Damenimitator hatte ihm dieses Kunststück nachgemacht, Bechert
-und mich es vollkommen zu täuschen. Harald hatte
+Dieser Mann, wir wußten es, war Paul Pirsch gewesen,
+das Kautschukgesicht, der Herr der Unterwelt. Er hatte
+hier als Minni Hasselflug geradezu Glänzendes geleistet. Kein
+Damenimitator hätte ihm dieses Kunststück nachgemacht, Bechert
+und mich so vollkommen zu täuschen. Harald hatte
 wieder einmal die besseren Augen gehabt, und doch hatte
-es Pirschs Teufelei zu spät durchschaut. Er hatte nur auf
-einer Angriff mit einer Schußwaffe gerechnet, niemals mit
+er Pirschs Teufelei zu spät durchschaut. Er hatte nur auf
+einen Angriff mit einer Schußwaffe gerechnet, niemals mit
 diesem raffiniert ausgeklügelten Streich, uns in den Flur
-doch die Für zu locken, wo neben dem Gasmesser zwei jede
-harmlos aussehende Oberwelt-Flaschen!tanden, die durch
+vor die Für zu locken, wo neben dem Gasmesser zwei sehr
+harmlos aussehende Thermos-Flaschen standen, die durch
 <@pagebreak/>
-— Röhrchen und anderes in ein GadöJgeb!ije verwandelt! waren,
-aus dem ein völlig geruhluse&s, obere unbedingt Tod! ich Gas
-ausströmte. Na er die sah? blitzartige Wirkung dieses Gases
-kann zu spüren begann, hakte er 104) Juristen »Moment
-In das Wohnzimmer Kutters auf dir dort stehende »Minni«
-gefeuert, schien auch Getroffen zu haben, wie der Wutschrei
+Röhrchen und anderes in ein Gasgebläse verwandelt waren,
+aus dem ein völlig geruchloses, aber unbedingt tödliches Gas
+ausströmte. Als er die fast blitzartige Wirkung dieses Gases
+dann zu spüren begann, hatte er noch im letzten Moment
+in das Wohnzimmer Rüttlers auf die dort stehende »Minni«
+gefeuert, schien auch getroffen zu haben, wie der Aufschrei
 bewies, war dann aber selbst bewußtlos umgesunken. »Minni«
-ihrerseits — oder Paul Pirsch — war durch) den Treppenflur
-entwischt, als der Gasfajsierer und der Schwester uns
-in das Wodhlynzimmer schleppten.
+ihrerseits — oder Paul Pirsch — war durch den Treppenflur
+entwischt, als der Gaskassierer und der Schneider uns
+in das Wohnzimmer schleppten.
 
-Dieser Umschlag war jedoch noch in anderer Beziehung
-Äußerst bemerkenswert. Er zeigte nicht lediglich Paul Eiserne
-— verbrecherische Intelligenz in klarstem Lichte, Indern ebenso
-sehr seine Fähigkeit, unsere Ubiicizten durch folcerichtige
-Kombinationen voraugzualmen. Er hatte bestimmt damit
+Dieser Anschlag war jedoch noch in anderer Beziehung
+äußerst bemerkenswert. Er zeigte nicht lediglich Paul Pirschs
+verbrecherische Intelligenz in klarstem Lichte, sondern ebenso
+sehr seine Fähigkeit, unsere Absichten durch folgerichtige
+Kombinationen vorauszuahnen. Er hatte bestimmt damit
 gerechnet, daß wir Frau Theas Wohnung aufsuchen würden,
 und er mußte uns mithin fortgesetzt beobachtet und gewußt
-Haben, daß wir im Polizeipräsidium vorgejproden hatten. —
+haben, daß wir im Polizeipräsidium vorgesprochen hatten. —
 
 Es erübrigt sich zu erwähnen, daß wir zwei Stunden
-brauchten, bevor wir wieder leidiichg imstande waren, die
-echte. Minni nachzufragen. Ihre Beschreibung von dem »Wo;-
-Beamten mit dem Paket« lautete: rötlichen Vollbart, Riegel«
-Kneifer, tiefe Stimme. — Das war alles, und damit war
+brauchten, bevor wir wieder leidlich imstande waren, die
+echte Minni auszufragen. Ihre Beschreibung von dem »Postbeamten
+mit dem Paket« lautete: rötlicher Vollbart, Nickelkneifer,
+tiefe Stimme. — Das war alles, und damit war
 nichts anzufangen.
 
-… Inzwischen hatte aber auch die Kriminalpolizei, die von
-dem Gasetkasjierer telephonisch; verständigt war, sehr gegen
-den Willen Harsts anderweit eingegriffen. Drei Brannte
-Hatten Fritz Grind verhaften sollen, drei andere waren zu
+Inzwischen hatte aber auch die Kriminalpolizei, die von
+dem Gaskassierer telephonisch verständigt war, sehr gegen
+den Willen Harsts anderweit eingegriffen. Drei Beamte
+hatten Fritz Grind verhaften sollen, drei andere waren zu
 uns geeilt, um Frau Thea festzunehmen. Beides ohne Erfolg.
-Donato-Grind war nicht?! aufzufinden, und Thea war
-bei uns am Jernfpredjer verlangt worden und hatte nach
-kurzem Gespräch unser Haus eiligst unter Streich Vorwand
-»verlassen. Dies ließ nun den einen Schluß zu: Die Geschwister
+Donato-Grind war nicht aufzufinden, und Thea war
+bei uns am Fernsprecher verlangt worden und hatte nach
+kurzem Gespräch unser Haus eiligst unter einem Vorwand
+verlassen. Dies ließ nun den einen Schluß zu: Die Geschwister
 Grind hatten sowohl erfahren, daß Hans Rüttler
 verhaftet worden war, als auch daß Pirsch einen zweiten
 <@pagebreak/>
-Anschlag auf uns verfaßt lauerte. Unter diesen Umständen
-Schutt Brutale es für Menüs geboten, seine »Schwester zu
-Warnen, und beide hatten sich zweifellos irgendwo in Berlin
-endlosen, um über ihr ferneres Verhalten zu dbderailäiagen.
-Jedenfalls: Eis schieden beide als Zeugen Aus, und wir
-knistern naß zur wieder zu h);ans Rüttler halten, Master …
-Büro? Lichte ausfragen — nichts.
+Anschlag auf uns versucht hatte. Unter diesen Umständen
+hatte Donato es für richtig gehalten, seine Schwester zu
+warnen, und beide hatten sich zweifellos irgendwo in Berlin
+getroffen, um über ihr ferneres Verhalten zu beratschlagen.
+Jedenfalls: sie schieden beide als Zeugen aus, und wir
+konnten uns nur wieder an Hans Rüttler halten, und der …
+würde nichts aussagen — nichts.
 
-Klang« wichtig wie das Verschwinden; der Zwillinge war
-auch; der Bericht Öl Polizeireviers Cdzxachtensee, das mehdrerq
+Ebenso wichtig wie das Verschwinden der Zwillinge war
+auch der Bericht des Polizeireviers Schlachtensee, das mehrere
 Beamte im Kraftwagen nach der Schonung und der alten
-Eiche geschickt hatte. Der riesige Raum war ungestört!, der
-gemauerte Trat volljtänig verschüttet, und da diese Stätte
-der Vermutung handhoch) mit Neuschnee bedeckt war, wußte
-Kinn den Schacht und den Baum noch in der Matt mit
-Dynamit gesprengt haben, bevor der neue Schneefall eintrat,
+Eiche geschickt hatte. Der riesige Raum war umgestürzt, der
+gemauerte Schacht vollständig verschüttet, und da diese Stätte
+der Verwüstung handhoch mit Neuschnee bedeckt war, mußte
+man den Schacht und den Baum noch in der Nacht mit
+Dynamit gesprengt haben, bevor der neue Schneefall eintrat.
 
 Alles in allem stand es also mit den Aussichten, diesen
-gen Komplex von dunklen Fragen aufzuklären, ziemlich
+großen Komplex von dunklen Fragen aufzuklären, ziemlich
+schlecht.
 
-echt.
-
-Erst um vier Uhr nadyyinittags trafen wir wieder zu
-Sause ein und fanden Haralds Mutter und Mathilde unter
-dein Schuhe von drei Beamten in recht gedrückter Stimmung
-vor. Frau Harst beschwor uns, auf seinen Fall abends
-den Ball des »Ringes« in den Kleistsälen zu besuchten, und
-es bedarf?e Haralds ganzer liebevollen Überredungskunst, die
+Erst um vier Uhr nachmittags trafen wir wieder zu
+Hause ein und fanden Haralds Mutter und Mathilde unter
+dem Schutze von drei Beamten in recht gedrückter Stimmung
+vor. Frau Harst beschwor uns, auf keinen Fall abends
+den Ball des »Ringes« in den Kleistsälen zu besuchen, und
+es bedurfte Haralds ganzer liebevollen Überredungskunst, die
 nicht unbegründete Furcht der verängstigten Matrone, Pirsch
-könnte nochmmals gegen uns etwas unternehjinen, zu Bett
-Stationen.
+könnte nochmals gegen uns etwas unternehmen, zu zerstreuen.
 
 Nachdem wir so ein verspätetes Mittagessen eingenommen
 hatten, begann Harald in seinem Arbeitszimmer mit dem
 Kabinettbild Egon von Buratts zu experimentieren.
 
 Jeder Fachmann weiß, daß eine Photographie sich durch
-Lakonische »verschönern« läßt. Was Harst eigentlich mit seiner
-vorsichtigen Ausrief bezweckte, blieb mir unklar. Er selbst
-äußerte sich nicht darüber, Ich war im Sessel am Kamin
-eingeschlafen, und als laute Stimmen mich werden. stand
+Retousche »verschönern« läßt. Was Harst eigentlich mit seiner
+vorsichtigen Pinselei bezweckte, blieb mir unklar. Er selbst
+äußerte sich nicht darüber. Ich war im Sessel am Kamin
+eingeschlafen, und als laute Stimmen mich weckten, stand
 <@pagebreak/>
-Bechert mittag im Zimmer und hielt Harald einen Pappe
-Karton Ein, in dem zwei speckige Frackanzüge lagen, die
-am linken Umschlag Rellnernummerie aß und 6, trugen.
+Bechert mitten im Zimmer und hielt Harald einen Pappkarton
+hin, in dem zwei speckige Frackanzüge lagen, die
+am linken Aufschlag Kellnernummern 4 und 6, trugen.
 
 Es war Zeit nach den Kleistsälen aufzubrechen. Bechert
 war bereits im Kellnerdreß, und auch unsere Toilette dauerte
 nicht allzu lange, nur die Veränderung unserer Gesichter
-war etwas schwieriger, denn wir dursten uf seinen Fall
+war etwas schwieriger, denn wir dursten auf keinen Fall
 erkannt werden.
 
-Nach glichen, wenn auch ein wenig trüben Abschied
-von Haralds Mutter und Natürliche gingen »wir durch ’den
+Nach herzlichem, wenn auch ein wenig trüben Abschied
+von Haralds Mutter und Mathilde gingen wir durch den
 Gemüsegarten zu dem Feldweg des Laubengeländes, wo ein
 Auto auf uns wartete. Es schneite wieder, und im Auto
 war’s auch nicht gerade warm.
 
-»Bin neugierig,« jagte Bechert, »ob Pirsch es wirklich
-wagen Band, das Fest zu besuchen. Ich habe mit dem Vorsitzenden
+»Bin neugierig,« sagte Bechert, »ob Pirsch es wirklich
+wagen wird, das Fest zu besuchen. Ich habe mit dem Vorsitzenden
 der »Offenen Hand« alles nochmals aufs genaueste
-vereinbart, Die Kleistsäle sind schon seit Stunden durch Bekannte
-in alten möglichen Verkleidungen hermetisch abgeschlossen,
-es soweit nur hinein, wer Eintrittskarten bat, sogar das
-Küchenpersonal wird überwacht. Nach menschlichen Ermessen
+vereinbart. Die Kleistsäle sind schon seit Stunden durch Beamte
+in allen möglichen Verkleidungen hermetisch abgeschlossen,
+es kommt nur hinein, wer Eintrittskarten hat, sogar das
+Küchenpersonal wird überwacht. Nach menschlichem Ermessen
 wird Pirsch abgefaßt, falls er sich einzuschleichen sucht.«
 
 »Wollen hoffen,« meinte Harald nur. »Daß wir dort
 sein werden, weiß er bestimmt. Es wäre mir nur lieb, wenn
-er nicht erführe, daß wir als Kellner auftreten. Über …«!
+er nicht erführe, daß wir als Kellner auftreten. Aber …«
 — und dann schwieg er, was nur heißen konnte: »Ich fürchte,
 er weiß auch das.«
 
 Kurz nach sieben Uhr — wir waren die letzte Strecke
 zu Fuß gegangen — betraten wir das Haus, das gleichzeitig
 Hotel war. Die Säle, zwei recht große Räume mit verschiedenen
-Nebenzimmern, lagen im zweiten Stock. Maus der
+Nebenzimmern, lagen im zweiten Stock. Aus der
 Vorhalle führte eine Doppeltreppe nach oben, die wir nicht
-benutzten, wir begnügten uns nicht dem Hafenslang und
-wurden im« Büfettraum von Herrn Julius Pinzke feierlich
+benutzten, wir begnügten uns nicht dem Hofaufgang und
+wurden im Büfettraum von Herrn Julius Pinzke feierlich
 begrüßt. Er lächelte etwas süßsauer, als Bechert ihm auf
 die Schulter klopfte und meinte: »Wir sind ja alte Bekannte,
 <@pagebreak/>
@@ -2353,90 +2323,91 @@ seines tadellosen Frackes einen Umschlag hervorzog,
 der mit einer Oblate verklebt war.
 
 Pinzke wies uns drei »Kellnern« dann unsere Tische
-an, wo wir bedienen sollten. Harst sollte am Borstardetisch
+an, wo wir bedienen sollten. Harst sollte am Vorstandstisch
 im sogenannten Grünen Saal wirken, Bechert und ich im
 Gelben Saal.
 
 So nach und nach fanden sich dann auch unsere für den
 Abend engagierten echten Kollegen ein, — im ganzen waren
 wir vierzehn Kellner. Die Kollegen waren Pinzke sämtlich
-persönlich bekannt, und es gab unter hingen so manches alte
-Original, das früher mal bessere Tage in zweifelhafsteren
+persönlich bekannt, und es gab unter ihnen so manches alte
+Original, das früher mal bessere Tage in zweifelhafteren
 Berufen gesehen hatte.
 
-Erst gegen halb neun begannen sich die Tale zu füllen.
-— Hier das Ballfest des »Ringes« im einzelnen zu in blutarm,
-liegt mir sein. Ich möchte nur betonen, daß ein Uneingeweihter
+Erst gegen halb neun begannen sich die Säle zu füllen.
+— Hier das Ballfest des »Ringes« im einzelnen zu schildern,
+liegt mir fern. Ich möchte nur betonen, daß ein Uneingeweihter
 niemals geahnt hätte, sich hier unter den Perlen
 der Berliner Verbrecherwelt zu befinden. Im bürgerlichen
 Verein »Harmonie« konnte es nicht ehrbarer hergehen als
-Hier, nur daß die Herren und Damen sämtlich erstklassig in
-Kluft waren und der Sektverbrauch einfach verblüffend war,
-Uns geht sei lediglich die interessantere Seite des Balles
-Diwans an, und das war … Julius Pinzkes traurige Niederlage
+hier, nur daß die Herren und Damen sämtlich erstklassig in
+Kluft waren und der Sektverbrauch einfach verblüffend war.
+
+Uns geht hier lediglich die interessantere Seite des Balles
+etwas an, und das war … Julius Pinzkes traurige Niederlage
 und Paul Pirschs vollendeter Sieg.
 
 <@pagebreak/>
 
-<h2>8. Kapitel.</h2>
+<h2>5. Kapitel.</h2>
 
 <h3>Das Nachspiel.</h3>
 
 Es war kurz nach Mitternacht. Die Tanzvorführungen
 und die Darbietungen der Sportabteilung waren vorüber, und
 in beiden Sälen spielten nun erstklassige Kapellen zum
-Ganze auf.
+Tanze auf.
 
-5G hatte an meinen Fischer übergenug zu tun. Fischer
+Ich hatte an meinen Tischen übergenug zu tun. Bisher
 war auch nicht das Geringste geschehen, was irgendwie die
 Stimmung störte. Dann tauchte Harald auf, als ich gerade
-drei neue Flaschen Ach? herbeischleppte.
+drei neue Flaschen Sekt herbeischleppte.
 
 »Schnell, begleite mich,« raunte er mir zu … »Bechert
-ist? schon unten …«
+ist schon unten …«
 
-Oh stellte die Flaschen in die Kühler und eilte zur
-Haar?Treppe. Harald wartete hier. Wir betraten die Vereins
-immer der »Eigenen nd’. Gleich im ersten Raume stand
-Bechert neben einem Kindlein, auf dem fetchendlafß Kusine
+Ich stellte die Flaschen in die Kühler und eilte zur
+Haupttreppe. Harald wartete hier. Wir betraten die Vereinszimmer
+der »Offenen Hand«. Gleich im ersten Raume stand
+Bechert neben einem Klubsofa, auf dem leichenblaß Justus
 Pinzke ruhte und mit wilden Augen zur Decke emporstarrte.
-»Er hatte seine fünf Sinne noch nicht? ganz wieder
-beieinander, Aus seinen wirren Angaben ging immerhin
+Er hatte seine fünf Sinne noch nicht ganz wieder
+beieinander. Aus seinen wirren Angaben ging immerhin
 folgendes hervor, was Harald seinerseits entsprechend ergänzte.
-— Pinzke hatte vor fünf Minuten die Festsäle verbarg,
-um die Damenspende aus dem Geldschrank im Berein&rimmer
-herauszuholen, Diese Spende bestand in silbernen
+— Pinzke hatte vor fünf Minuten die Festsäle verlassen,
+um die Damenspende aus dem Geldschrank im Vereinszimmer
+herauszuholen. Diese Spende bestand in silbernen
 Mokkalöffeln mit eingravierter Widmung. Verabredungsgemäß
-Bote er Harald leise mitgeteilt, daß er die Vers
-einspannte aufsuchen wolle, und Harst hatte ihn mit zur
-Eingangstür, die ans Eisen gefertigt war und zwei Kugeln
+hatte er Harald leise mitgeteilt, daß er die Vereinsräume
+aufsuchen wolle, und Harst hatte ihn mit zur
+Eingangstür, die aus Eisen gefertigt war und zwei Kunstschlösser
 <@pagebreak/>
-Schlösser besaß, vorsichtshalber begleitet. Als er sah, daß
-sich im Treppenhause niemand befand, und daß die Schlüssel
-in Ordnung, war Harst wieder un:gelchrt, dennoch hinter
-zwei Dleanderkübeln noch eine Weile stehen geblieben, da
-eine ungewisse Vorahnung ihm warnte, Pinzke völlig ohne
-Aussicht zu lassen. Er konnte von oder die eichenfarben gtstrichene
-Eisentür im Auge Behörden, glaubte dann einen
+besaß, vorsichtshalber begleitet. Als er sah, daß
+sich im Treppenhause niemand befand, und daß die Schlösser
+in Ordnung, war Harst wieder umgekehrt, dennoch hinter
+zwei Oleanderkübeln noch eine Weile stehen geblieben, da
+eine ungewisse Vorahnung ihn warnte, Pinzke völlig ohne
+Aufsicht zu lassen. Er konnte von oben die eichenfarben gestrichene
+Eisentür im Auge behalten, glaubte dann einen
 heiseren leisen Schrei zu vernehmen und schoß wie ein
 Blitz die Treppe hinab, stieß die Tür auf und sah Pinzke
-mitten im Zimmer auf dem Teppich liegen, spürte Chlorsformgervh
+mitten im Zimmer auf dem Teppich liegen, spürte Chloroformgeruch
 und untersuchte sofort die drei aneinander stoßenden
 Räume, konnte jedoch niemand entdecken, kehrte zu
-Pinzke zurück und faßte ihm in die Fracktasche, Der Umschlag
-mit dem Geld war geraubt, Er holte Bechert, lief
-wieder nach oben und benachrichtigte Mine. Inzwischen hatte
-Pinzke bereits Bechert mitgeteilt,- daß er in dem ersten
+Pinzke zurück und faßte ihm in die Fracktasche. Der Umschlag
+mit dem Geld war geraubt. Er holte Bechert, lief
+wieder nach oben und benachrichtigte mich. Inzwischen hatte
+Pinzke bereits Bechert mitgeteilt, daß er in dem ersten
 Zimmer ahnungslos das Licht eingeschaltet hatte und vor
-den Tresor getreten sei!. Da hatte er von hinten einen
+den Tresor getreten sei. Da hatte er von hinten einen
 Schlag über den Kopf erhalten, jemand preßte ihm ein nasses
 Tuch auf das Gesicht, und er verlor das Bewußtsein. Seinen
-Angreifer zuckte er nicht zu sehen »bekommen. —
+Angreifer hatte er nicht zu sehen bekommen. —
 
-Eine nochhmalinge Untersuchung der drei Räume durch
-uns ergab die überraschende Erstarrung, daß einer der
+Eine nochmalige Untersuchung der drei Räume durch
+uns ergab die überraschende Entdeckung, daß einer der
 offenen Innenfensterläden nur angelehnt war, ebenso
-die beiden Flügel des Doppelfensters an dem zwei Scheiden
+die beiden Flügel des Doppelfensters an dem zwei Scheiben
 eingedrückt waren. Die Verschlußriegel des Ladens waren
 mit einem Stahlbohrer zerstört. — Mithin mußte der Angreifer
 von außen durch das Fenster eingedrungen sein. Als
@@ -2445,74 +2416,74 @@ Fenster eine eiserne Feuerleiter hinablief — bis in den
 Hof, wo mehrere Beamte postiert waren. Es ließ sich rasch
 feststellen, daß weder diese Beamten noch die anderweit verteilten
 Wachen irgend jemand bemerkt hatten. Freilich schneite
-es geh immer recht stark, und es war so gut wie sicher,
-Sah der Herr der Unterwelt mit Hilfe eines weißen Lakens,
+es noch immer recht stark, und es war so gut wie sicher,
+daß der Herr der Unterwelt mit Hilfe eines weißen Lakens,
 <@pagebreak/>
-das wisse gut wie unsichtbar machen mußte, über die
+das ihn so gut wie unsichtbar machen mußte, über die
 Dächer entkommen war, worauf auch die Spuren auf den
-Leitersprossen sinnlosen.
+Leitersprossen hinwiesen.
 
 Jedenfalls hatte Paul Pirsch abermals unser aller gespottet
-und sieh das Schweigegeld pünktlich abgeholt. Wir …
-nennen die Blamierten, — — scheinbar.
+und sich das Schweigegeld pünktlich abgeholt. Wir …
+waren die Blamierten, — — scheinbar.
 
 In den Festsälen ahnte niemand etwas. Pinzke begab
-sich wieder nach oben, und wir drei Regisseur dieser
+sich wieder nach oben, und wir drei Regisseure dieser
 Tragödie waren allein in dem Vorstandszimmer, Bechert
 und ich mit langen Gesichtern, Harald … mit einer Zigarette
-im Munde in der Sofaecke, den Blick starr auf das der«
-bängnisvolle Fenster gerichtet …
+im Munde in der Sofaecke, den Blick starr auf das verhängnisvolle
+Fenster gerichtet.
 
 Bechert meinte gereizt, nun könnten wir uns … einpökeln
-lassen … 5. —
+lassen …
 
-Harst! stand auf. »Lieber Bechert, wenn wir wirklich so
+Harst stand auf. »Lieber Bechert, wenn wir wirklich so
 tadellose Kriminalisten wären, wie wir uns einbilden, hätten
-»wir Paul Pirsch längst festnehmen können. Seine Schlauheit
+wir Paul Pirsch längst festnehmen können. Seine Schlauheit
 in Ehren, — nur, hier hat er sich verhauen! Gerade dieser
-Eindruck hier, dieser vorbereitete Angriff auf Pinzke beweist,
+Einbruch hier, dieser vorbereitete Angriff auf Pinzke beweist,
 daß Pirsch über alle Vorgänge im Verein »Offene
-Hin, genau unterrichtet war. Er muß gewußt haben, daß
-
-Pinzke die Damenspende von (sei nach oben bringen würde,
-»und darauf -« er seinen Plan aufgebaut, Wie kann er sich
+Hand« genau unterrichtet war. Er muß gewußt haben, daß
+Pinzke die Damenspende von hier nach oben bringen würde,
+und darauf hat er seinen Plan aufgebaut. Wie kann er sich
 diese Kenntnis verschafft haben? Nur durch ein Mikrophon,
 das er drüben im Beratungszimmer irgendwo schon gestern
-oder vorgestern heimlich, aufgestellt hatte und das er dann
-wieder entfernte, Die Drähte von diesem Mikrophon können
+oder vorgestern heimlich aufgestellt hatte und das er dann
+wieder entfernte. Die Drähte von diesem Mikrophon können
 nur durch den Fußboden in das darunter liegende Zimmer
 des Hotels geführt haben. Pirsch wohnt hier im Hotel
 in irgendeiner Verkleidung. Kommt nur — jetzt fangen wir
+ihn!« —
 
-Das Fremdenzimmer Er. 192 war seit vorgestern an
-einen »holländischen Kaufmann van Kuppen abgegeben, der
-auch noch Nr. 11 Hinzugenommen hatte, wie der Oberkellner
+Das Fremdenzimmer Nr. 12 war seit vorgestern an
+einen holländischen Kaufmann van Kupper abgegeben, der
+auch noch Nr. 11 hinzugenommen hatte, wie der Oberkellner
 <@pagebreak/>
-uns erklärte. Van Kuppen sollte ein dickes, Gemüt.
-gefährlicher blondbärtiger Herr sein, der drei riesige Päaujterkosser
-mit im führte. So war auf feinere Zimmer, wo er auch
-zu Abend geraten hatte,
+uns erklärte. Van Kupper sollte ein dicker, gemütlicher
+blondbärtiger Herr sein, der drei riesige Musterkoffer
+mit sich führte. Er war auf seinem Zimmer, wo er auch
+zu Abend gegessen hatte.
 
-Bechert Trab noch drei Genick mit, und dann mochten
-wir?unten Prozeß, brachen beide Türen zu Nr. 11 und 12
-gleichzeitig auf und fanden Herrn van Kuppen im Bett
-der — lesend, sehr zimpgrt über die Störung. Das half
-ihm nichts. Dort und Perücke fielen, und Harst sagte: »Herr
-von Buratt, das Spitzel ist aus …! Sie sind der »tote Buratt,
-hier ist Ihr Kabinettbild, Sie gingen aufs als Anwalt und
-Guytöbesizer!teis verkleidet, —!03 sehen Sie in Wirkliche
-Möglichkeit erst« —
+Bechert nahm noch drei Beamte mit, und dann machten
+wir kurzen Prozeß, brachen beide Türen zu Nr. 11 und 12
+gleichzeitig auf und fanden Herrn van Kupper im Bett
+vor — lesend, sehr empört über die Störung. Das half
+ihm nichts. Bart und Perücke fielen, und Harst sagte: »Herr
+von Buratt, das Spiel ist aus …! Sie sind der »tote Buratt«,
+hier ist Ihr Kabinettbild. Sie gingen auch als Anwalt und
+Gutsbesitzer stets verkleidet, — *so* sehen Sie in Wirklichkeit
+aus!« —
 
-Er ließ riß ruhig Handschellen anlegen, er lächelte nur
+Er ließ sich ruhig Handschellen anlegen, er lächelte nur
 immer und … lächelnd starb er wenige Minuten später,
-denn er hatte bei unserem Einschlugen leid Gift genommen.
+denn er hatte bei unserem Eindringen rasch Gift genommen.
 
 Harald öffnete die Koffer … In dem einen lag Fritz
 Grind, in dem anderen Thea, beide gefesselt und geknebelt
-und halb Besitz. Die Geschwister hatten Buratt nachmittags
-hier im Hotel aufgesucht, um ihn zur Flucht ins Ausland.
+und halb erstickt. Die Geschwister hatten Buratt nachmittags
+hier im Hotel aufgesucht, um ihn zur Flucht ins Ausland
 zu überreden. Der Mann, der seinerzeit als Buratt begraben
-wurde, war Zuge Grind, der Amerikaner, den Buratt erschossen
+wurde, war Hugo Grind, der Amerikaner, den Buratt erschossen
 und ausgeplündert hatte, als jener soeben erst in
 Berlin eingetroffen war und seine Schwester in Hüppelfeld
 hatte besuchen wollen. Frau Thea und ihr Zwillingsbruder,
@@ -2527,13 +2498,12 @@ Ich brauche hier weitere Einzelheiten kaum anzugeben.
 Die Zeitungen brachten unlängst eine bescheidene Vermählungsanzeige.
 Hans Rüttler wird Frau Thea sicherlich auf
 <@pagebreak/>
-Händen tragen. — Des Herrn der Unterwelt! angeblich
-Material gegen die »Offene wand« wurde nie gesund
-Dar!! und ich sind jetzt Ehrenmitglieder der »Offenen Hand«, «
+Händen tragen. — Des Herrn der Unterwelt angeblich
+Material gegen die »Offene Hand« wurde nie gefunden.
+Harst und ich sind jetzt Ehrenmitglieder der »Offenen Hand«,
+weshalb auch nicht?!
 
-weshalb auf nicht?!
+<#import "*/harst.ftl" as harst>
 
-Maat Sie — 00 5 me
+<@harst.naechsterband band="Der Kalender der Murvays."/>
 
-Nächster Band:
-»Her Kalender der Murvapye’«
