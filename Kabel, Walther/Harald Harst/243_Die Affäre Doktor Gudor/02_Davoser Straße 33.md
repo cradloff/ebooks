@@ -71,11 +71,11 @@ von dem »Schatz« Kenntnis erhalten haben.«
 
 »Hm — —, nein, ich kann’s kaum glauben …«
 
-»Nun also, …! Ich halte Steuermann Geidel für eine
+»Nun also …! Ich halte Steuermann Geidel für eine
 ehrliche Haut. Was seine Schwiegertochter treibt, wird schon
 noch herauskommen.«
 
-Er nahm die Puppe und steckte sie in den Ofen. Sie
+Er nahm die Pappe und steckte sie in den Ofen. Sie
 krümmte sich, flammte auf und ward zu Asche. Dann hängte
 er das Bild wieder an den früheren Platz, gähnte und
 legte sich auf den Diwan. »Du bist kleiner, mein Alter.
@@ -399,7 +399,7 @@ offen. Frau Therese klappte gerade ein eisernes Feldbett
 zusammen. Harst stieß rasch die Türen der beiden anderen
 Stuben auf. Es war niemand da.
 
-»Wo sind Ihre Schwiegereltern?!« fragte er die Verschüchterte
+»Wo sind Ihre Schwiegereltern?!« fragte er die verschüchterte
 Therese.
 
 »Abgereist …« stammelte sie … »Deshalb nehme ich
@@ -409,7 +409,7 @@ Harald warf ihr einen Blick zu, der die Frau erzittern
 machte. Sie bückte sich rasch und machte sich an dem
 Klappbett zu schaffen.
 
-»Wir reden nachher noch miteinander, « sagte Harst und
+»Wir reden nachher noch miteinander,« sagte Harst und
 schritt der Treppe zu.
 
 Als wir durch das Eßzimmer wieder das Herrenzimmer
@@ -556,7 +556,7 @@ Herr Professor, und flohen Hals über Kopf.«
 »Keine Rede!! Sie ließen mir ja sogar noch einen
 Zettel da … — im Tresor, Herr Harst! — Hier — —
 das ist er. Verstehen Sie das?! Sie sehen auf diesen Zettel
-zur ein Wort in lateinischer Schrift hingemalt:
+nur ein Wort in lateinischer Schrift hingemalt:
 
 <p class="centered">Danke!!</p>
 
@@ -673,7 +673,7 @@ Der Professor stierte in irgendeine Ecke, trommelte
 nervös mit den Fingerspitzen gegen den Tellerrand und
 schien durch dieses präzise »Ja« keineswegs beglückt.
 
-»Hm …« — er suchte nach Worten — »das Übertrifft
+»Hm …« — er suchte nach Worten — »das übertrifft
 meine kühnsten Erwartungen, Herr Harst …«
 
 »Und ist doch so einfach, Herr Professor. Es handelt
@@ -815,7 +815,7 @@ von Mitleid bemerke. Dann preßt dieser Schurke von
 Gollert mir bereits ein feuchtes Tuch gegen die Nase,
 und mir schwinden die Sinne.
 
-<h2>6. Kapitel.</h2>
+<h2>4. Kapitel.</h2>
 
 Ein allerletzter wilder Lebensimpuls, jene verzweifelte,
 bis ins Übernormale gesteigerte Sammlung aller Kräfte
@@ -854,10 +854,10 @@ würgt zwei, drei breiige Stückchen Konfekt hinab, bevor
 wir’s noch hindern können. Die übrigen Teilnehmer an diesem
 verunglückten Boxmatch lassen sich gefügig binden. Gollerts
 leichenfahles Gesicht bedeckt sich mit dicken Schweißperlen,
-ein unheimliches Stöhnen kommt ihn stoßweise durch die im
+ein unheimliches Stöhnen kommt ihm stoßweise durch die im
 Schüttelfrost klappernden Zähne, und seine Augen sinken
 ein und werden glanzlos wie Blei. Wir heben den Sterbenden
-auf das Sofa, wo er uns unten den Händen dahinstirbt
+auf das Sofa, wo er uns unter den Händen dahinstirbt
 — mit einem Hohngrinsen um die Lippen, vielleicht
 innerlich fälschlich triumphierend, wir würden nun der Dinge
 <@pagebreak/>
@@ -873,7 +873,7 @@ Sessel, und daß sie dort noch sitzen werden, wenn die
 Polizei erscheint, wissen wir genau.
 
 Harald geht voraus in Gollerts Arbeitszimmer. Aber
-der Fernsprecher versagt. Die — Leitung ist irgendwo unterbrochen.
+der Fernsprecher versagt. Die Leitung ist irgendwo unterbrochen.
 
 »Dann also zurück zu Gudor,« meint Harald.
 
@@ -882,7 +882,7 @@ und fahren davon, nachdem wir die Villa und die Pforte
 abgeschlossen haben.
 
 Der kurze Weg zur Breiten Straße ist in Minuten
-zurückgelegt. Um Eingang der Villa Gudor hängt ein mit
+zurückgelegt. Am Eingang der Villa Gudor hängt ein mit
 vier Reißstiften befestigter Zettel:
 
 <p class="centered em">Büro geschlossen.</p>
@@ -965,7 +965,7 @@ waren Geidels »Eltern« … sehr gut verkleidet.«
 Kürzer konnte er die Eröffnungen kaum bringen.
 
 Er zog die Weidenkörbe hervor. Sie hatten eine unter
-der Treppe an der Meter des Pavillons vorhandene
+der Treppe an der Mauer des Pavillons vorhandene
 kleine Holztür verdeckt. Er schloß sie mit dem Dietrich auf,
 und tief gebückt betraten wir diesen niederen Raum, leuchteten
 ihn ab und sahen die andere neue Tür in der Grundmauer,
@@ -1001,7 +1001,7 @@ geworden war und selbst jetzt noch zum Schluß einige
 »Ich räume ohne Scheu ein,« sagte Harald, »daß ich zunächst
 überhaupt nicht wußte, um was es eigentlich ging
 und wer hier Partei oder Gegenpartei. Der Auftakt des
-Ganzen war so eigenartig, daß mein anfänglichen Verdacht
+Ganzen war so eigenartig, daß mein anfänglicher Verdacht
 gegen Karl Geidel und dessen Angehörige durchaus berechtigt
 schien. Sie, Herr Doktor, und Geidel hatten das Vorspiel
 so fein inszeniert, daß es uns verwirren mußte. Ihre
@@ -1146,7 +1146,7 @@ der Charaktere. Seine Reisewerke sind mir nicht ganz unbekannt.
 Die Brutalität seines Charakters, seinen Hang für
 <@pagebreak/>
 fragwürdige blutige Abenteuer verrät er unbewußt überall
-da, wo es sich um kriegerische Zwischenfälle bei seinem
+da, wo es sich um kriegerische Zwischenfälle bei seinen
 Expeditionen handelt. Er ist der ausgesprochene Gelehrte
 mit der Mörderseele, dabei habgierig und voller Intrigen,
 beherrscht von einer perversen Freude, im Mittelpunkt
@@ -1219,7 +1219,7 @@ gewittert haben. Das Ausland ereiferte sich über das durchsichtige
 Vertuschungssystem. Unter diesen Umständen lag
 <@pagebreak/>
 kein Grund mehr vor, die Wahrheit auch hier allzusehr
-zu verschleierte.
+zu verschleiern.
 
 Udo Gudor hat Jellarong zurückgekauft und bewirtschaftet
 dort seine Plantagen persönlich. Geidel ist sein Generaldirektor.

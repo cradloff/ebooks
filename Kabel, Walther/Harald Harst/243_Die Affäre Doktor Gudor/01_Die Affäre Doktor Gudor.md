@@ -96,7 +96,7 @@ Die erste Zimmertür linker Hand hatte ein Pappschild:
 dann. —
 
 Ich kann mich kürzer fassen: Das Haus war leer.
-Auf dem Schreibtisch, im Büro lag ein Brief, an Harald
+Auf dem Schreibtisch im Büro lag ein Brief, an Harald
 gerichtet, die Tinte noch frisch: Gudors Schrift.
 
 <p class="centered">Sehr geehrter Kollege,</p>
@@ -115,7 +115,7 @@ Empfehlung an Ihre Frau Mutter.
 
 <p class="right">Ihr Doktor Gudor.</p>
 
-Herunter hatte Astrid geschrieben:
+Darunter hatte Astrid geschrieben:
 
 > Meine sehr verehrte liebe gnädige Frau, leider kann
 ich mich nicht mehr persönlich verabschieden. Vater bittet
@@ -133,7 +133,7 @@ Und als Schluß noch:
 ihm bitte alle Ehre an, wie ich gestern Ihren vorzüglichen
 Weinen. — Ihr Gudor.
 
-»Natürliche ein Scherz!« erklärte Frau Harst nochmals.
+»Natürlich ein Scherz!« erklärte Frau Harst nochmals.
 »Die vier haben sich hier irgendwo versteckt …«
 
 Harald meinte nur: »Das wäre kindisch, liebe Mutter.
@@ -274,7 +274,7 @@ Harst stöhnte. Sie tat mir sehr leid. Und tadellose englische
 Riesenaustern so zu verderben, war auch eine Gemeinheit.
 
 Der, der in der Haustür Einlaß begehrte, gab die
-Sache endlich auf, und, die Flurglocke schwieg. Ich war
+Sache endlich auf, und die Flurglocke schwieg. Ich war
 bereits ganz nervös geworden.
 
 Abermals Stille.
@@ -421,7 +421,7 @@ präpariert sei. »Werfen Sie also das Zeug weg …!«
 
 Geidel fluchte. »Jammerschade!! Wer hat’s getan?!«
 
-»Denn ich das wüßte!«
+»Wenn ich das wüßte!«
 
 »Na na, Herr Harst, — Sie und nicht wissen, gerade
 Sie?!«
@@ -856,7 +856,7 @@ Ich horchte auf.
 
 »Du meinst?!«
 
-»Ich meine, daß, diese Blätter uns einen Schritt weiter
+»Ich meine, daß diese Blätter uns einen Schritt weiter
 vorwärtsbringen …«
 
 <@pagebreak/>
@@ -901,7 +901,7 @@ Allerhand Achtung: Sie hatte sich angestrengt. Es gab
 als Vorspeise gefüllte Tomaten, dann gebackenen Schinken
 in saurer Sahne, nachher ein Früchte-Omelette.
 
-Seidel in seiner biederen Bescheidenheit lehnte es ab,
+Geidel in seiner biederen Bescheidenheit lehnte es ab,
 mit uns zu speisen. Nur nach Tisch blieb er noch bei uns
 im Herrenzimmer und half Gudors Rotweinvorrat schädigen.
 Er erzählte viel von seinem Seemannsleben, nur den einen
@@ -1221,7 +1221,7 @@ blau-rotnasigen Mannes, der so stark nach Pfefferminz
 duftete. — »Lassen Sie die Knallerei!« hatte der Beamte
 nur gesagt, und mir zugeblinzelt, der ich mich mehr im
 Hintergrund gehalten hatte. Er kannte mich von Ansehen,
-und er mochte wohl etwas erstaunt gewesen, sein, mich
+und er mochte wohl etwas erstaunt gewesen sein, mich
 hier bei Doktor Gudor als so späten Gast anzutreffen. —
 Im übrigen kümmerte sich niemand um die Schießerei. Die
 Motorräder sorgen schon dafür, daß die Einwohnerschaft
@@ -1349,7 +1349,7 @@ an der Brust.
 du dir’s genauer an.«
 
 Ich betrachtete die verblichene Photographie. Größe 20
-mal 3 Zentimeter, mit schwarzem breiten Eichenrahmen.
+mal 30 Zentimeter, mit schwarzem breiten Eichenrahmen.
 Ich drehte es um. Die Kugel war durch den Hals gegangen
 und die schmutzige Pappe hinten war in Streifen aufgerissen.
 
