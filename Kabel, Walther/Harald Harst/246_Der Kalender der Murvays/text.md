@@ -892,55 +892,55 @@ Als wir gen Westen schauten, war sie verschwunden.
 <h2>2. Kapitel.</h2>
 <h3>Das Gitter.</h3>
 
-Piet und scheu frühstückten, Harald hielt Vortrag.
+Piet und ich frühstückten, Harald hielt Vortrag.
 
-»…». Die meisten dieser Aufzeichnungen sind an einem
+»… Die meisten dieser Aufzeichnungen sind an einem
 Montag niedergeschrieben, also stets nach den Wochenendausflügen
-dieser zweifelhaften Sämtlich. Was kann man
-aus den Setzen entnehmen, wenn man noch Piets Bande
-Beobachtungen einfügt? Nun, so manches … Die Hauptsache:
-Die drei Söhne Jonathan Murvays mit ihren Frauen des
-Herrschen den Vater und ihre Stiefmutter vollkommen. Sie
+dieser zweifelhaften Familie. Was kann man
+aus den Notizen entnehmen, wenn man noch Piets Beobachtungen
+einfügt? Nun, so manches … Die Hauptsache:
+Die drei Söhne Jonathan Murvays mit ihren Frauen beherrschen
+den Vater und ihre Stiefmutter vollkommen. Sie
 haben derart uneingeschränkte Gewalt über ihn, daß sie den
 ganzen Palast kommandieren. Sie müssen irgend etwas
-der ihren Vater erfahren haben, das diesen völlig in ihre
+über ihren Vater erfahren haben, das diesen völlig in ihre
 ruchlosen Hände gibt. Piet hat gesehen, daß der Älteste,
 Roger, den Alten sogar geschlagen hat. — Weshalb diese
-Wodenendfahrten, die seit dem Frühjahr des Vorjahres regelmäßig
+Wochenendfahrten, die seit dem Frühjahr des Vorjahres regelmäßig
 bei jedem Wetter stattfinden? Anscheinend wohnen
 dort auf den kleinen Felseninseln des Sees der Träume
 einige Freunde der Söhne, vermutlich Verbrecher, die allen
 Grund haben, im Verborgenen zu leben. Ich betone: Anscheinend!!
-Wir wollen uns auf keine Bastmatte Annahme
+Wir wollen uns auf keine bestimmte Annahme
 <@pagebreak/>
 festlegen, wir werden selbst prüfen. Einzelne Bemerkungen
-Marrys deuten auf Schlimmeres hör. Wie gesagt, nur
-Feine vorschnellen Theorien! — Dann Allan Mac Ducry,
-Wer ist der Mann? Ein einfacher Chauffeur?! Niemals!
-glaube, er wird wohl von London gekommen sein
+Marrys deuten auf Schlimmeres hin. Wie gesagt, nur
+keine vorschnellen Theorien! — Dann Allan Mac Ducry.
+Wer ist der Mann? Ein einfacher Chauffeur?! Niemals! Ich
+glaube, er wird wohl von London gekommen sein und
 ein ähnliches Gewerbe betreiben wie wir … vielleicht.
-Dornen — operieren wir nicht mit allzu zahlreichen Fragezeichen.
+Doch — operieren wir nicht mit allzu zahlreichen Fragezeichen.
 Warten wir ab. Genießen wir diesen herrlichen
 Tag. Der Abend wird all unsere Kräfte erfordern. Ihr seid
-mit dem FrühstüFck nun fertig. Nehmt eure Mindesten mit,
-24 will euch durch den Wald führen, Piet kennt den See
-ja, aber du kennst rum nicht, und er ist wirklich bezaubernd
-wie ein wundervolles Phantasiegemälde, … Co
+mit dem Frühstück nun fertig. Nehmt eure Winchester mit,
+ich will euch durch den Wald führen, Piet kennt den See
+ja, aber du kennst ihn nicht, und er ist wirklich bezaubernd
+wie ein wundervolles Phantasiegemälde …
 
 Wir durchschritten die Büsche, die sich in langen Streifen
 bis zum Uferwalde hinzogen. Zwischen den Sträuchern
 trat überall kahles grauschwarzes Gestein hervor, das nur
-stellenweise verwittert und dabei zu fruchtbarem Boden gen
-worden war,
+stellenweise verwittert und dabei zu fruchtbarem Boden geworden
+war,
 
 Harst mied sorgfältig alle Stellen, auf denen unsere
 Sandalen etwa Spuren hätten zurücklassen können. Er
 schlug die Richtung nach Nordwest ein, und als wir dann
-den Uferwald erreicht hatten, wählte er einen breit gutes
-getretenen Büffelpfad, der in zahllosen Windungen zu einer
-Leinen Bucht lief, vor der sich wie eine Mole eine kahle
-Fels&halbinsel vorschob und uns zunächst noch den Ausblick
-auf den See verdeckte, Der Wald war zum Teil sumpfig,
+den Uferwald erreicht hatten, wählte er einen breit ausgetretenen
+Büffelpfad, der in zahllosen Windungen zu einer
+kleinen Bucht lief, vor der sich wie eine Mole eine kahle
+Felshalbinsel vorschob und uns zunächst noch den Ausblick
+auf den See verdeckte. Der Wald war zum Teil sumpfig,
 und das Unterholz und die Lianen und stachligen Ranken
 So eng miteinander verschlungen, daß man nur mit dem
 Buschmesser hätte eindringen können. Die Tierwelt, die diese
@@ -953,25 +953,25 @@ Das sandige Buchtufer, von den Hufen der zur Tränke
 ziehenden Wasserbüffel weithin zertrampelt, besaß einen Kranz
 wunderbarer Fächerpalmen, dazu eine Menge Büsche mit
 grellroten Riesenblüten, deren scharfer Duft fast unangenehm
-beschwor. Was mir auffiel: Es war nirgends hier ein Krokodil
-zu sehen, Freilich lieben diese Saurier das klare Wasser
+war. Was mir auffiel: Es war nirgends hier ein Krokodil
+zu sehen. Freilich lieben diese Saurier das klare Wasser
 nicht, und die Bucht hatte sandigen Grund, und die Sonne
 ließ uns in der Tiefe alle möglichen Fischarten erkennen,
 leider auch einige jener braungrünen Wasserschlangen, die
 ebenso giftig wie eine Kobra sind.
 
 Harst begann nun auf allen Vieren über die Felsen der
-Halbinsel zu kriechen, Als wir eine Stelle erreicht hatten,
-wo uns Geröll genügend Schüsse, spähte im endlich mit
+Halbinsel zu kriechen. Als wir eine Stelle erreicht hatten,
+wo uns Geröll genügend schützte, spähte ich endlich mit
 angehaltenem Atem über die weite, glitzernde Wasserfläche
 hinweg. Piet hatte nicht zuviel gesagt: Dieser See der
-Stämme war ein Idyll … Die Ufer mit Wald und
+Träume war ein Idyll … Die Ufer mit Wald und
 Palmen bedeckt, überall Heller Sandstrand, überall Felsgruppen
 aus gelbweißem Sandstein, der gegen das Grün
 scharf abstach. Inmitten des Sees, dessen Durchmesser ich
 immerhin auf achthundert Meter schätzte, lagen mehrere
 kleine Sandsteininseln, hell und zackig, schroff und hügelig,
-besprenkelt mit dem hellrosa Blütenmeer der DendraSträucher,
+besprenkelt mit dem hellrosa Blütenmeer der Dendra-Sträucher,
 die nur Blüten tragen, überragt von einzelnen
 Palmen und dicken, kurzstämmigen indischen Buchen mit
 braunrotem Laub. Die nördlichste Insel krönte eine massige
@@ -983,229 +983,230 @@ Der erste Eindruck des Sees war in der Tat überwältigend
 Farbübergänge, der verwirrend wirkte.
 
 Ich nahm mein Glas, stellte es auf das Hausboot ein
-und saß nun als erstes den Kopf einer Schwimmerin mit
-
-Gläser … Badekappe, die auf das Hausboot zuhielt, Also
+und sah nun als erstes den Kopf einer Schwimmerin mit
+blauer Badekappe, die auf das Hausboot zuhielt. Also
 Marry …
 
 <@pagebreak/>
-An Deck unter dem Sonnensegel standen weiße Korb«-
-Möbel, Herren und Damen in Weiß bewegten sich hin und
-her, und eine der Damen winkte Marry eifrig zu Dann
+An Deck unter dem Sonnensegel standen weiße Korbmöbel,
+Herren und Damen in Weiß bewegten sich hin und
+her, und eine der Damen winkte Marry eifrig zu. Dann
 erschien von Süden her zwischen den Inseln hervor ein
-Ruderboot, in dem ein einzelner Wann im Leinenanzug mit
-Tropenhelm saß. Das Boot legte neben dem Hilfe an,
+Ruderboot, in dem ein einzelner Mann im Leinenanzug mit
+Tropenhelm saß. Das Boot legte neben dem Schiffe an,
 der Herr half Marry hinein und bewegte jetzt so eifrig die
 Arme, daß ich den Eindruck gewann, er mache Marry eine
-besitze Szene.
+heftige Szene.
 
 »Roger Murvay,« sagte Piet neben mir in gequetschtem
-Tone tiefsten Verachtung. »Ein gefährlicher Lump!! Aber
-ein bildwübscher Kerl … Sind ja alles seine Stelle, die
+Tone tiefster Verachtung. »Ein gefährlicher Lump!! Aber
+ein bildhübscher Kerl … Sind ja alles feine Kierls, die
 Murvays, haben alle dieselben Augen wie Marry, nur
--» bei den Söhnen steckt der Satan im Blick
+— bei den Söhnen steckt der Satan im Blick …«
 
-Harald unterbrach diese Äußerungen Platz, »Lieber
-Freund, Sie werden jetzt als Wache vorläufig der bleiben,
-Schraut und ich müssen unser Motorboot ander8öwo vertäuen
-—» mehr nach der Bacheinmündung in den See zu, wo es
+Harald unterbrach diese Äußerungen Piets. »Lieber
+Freund, Sie werden jetzt als Wache vorläufig hier bleiben,
+Schraut und ich müssen unser Motorboot anderswo vertäuen
+— mehr nach der Bacheinmündung in den See zu, wo es
 genug Gestrüpp gibt. Sollte etwa einer der Murvays hierher
 gerudert kommen, melden Sie es uns sofort. Lassen
-Sie sich aber auf keinen Fall Seen, Piet! Sollte die
+Sie sich aber auf keinen Fall sehen, Piet! Sollte die
 Lage für Sie irgendwie bedrohlich werden, so versteckten
 Sie sich, — klettern Sie auf einen Baum, aber nicht etwa
 schießen, die Leute dürfen auf keinen Fall ahnen, daß wir
-vier sind … Kraft drei Stunden löst Schraut Sie ab,
+hier sind … Nach drei Stunden löst Schraut Sie ab.
 Passen Sie auf alles auf, jede Kleinigkeit ist hier wichtig.«
 
-Wir krochen rückwärts. Eine halbe Stand; Kraus hatten
-w.: nie! Boot in dem kanalartigen Bach bis dicht an den
-See gebracht, wo von den Bäumen des ’Woaldes riesige
-Lianenvorhänge die dicht auf das Wasser hinabhingen Dann
+Wir krochen rückwärts. Eine halbe Stunde drauf hatten
+wir unser Boot in dem kanalartigen Bach bis dicht an den
+See gebracht, wo von den Bäumen des Waldes riesige
+Lianenvorhänge bis dicht auf das Wasser hinabhingen. Dann
 bliesen wir mit Hilfe der Luftpumpe die Ziegenschläuche
-wieder auf und stellten ein Floß der, das uns noch weiter
+wieder auf und stellten ein Floß her, das uns noch weiter
 bis zur Mündung führte,
 
 <@pagebreak/>
-Harald, der eifrig einen Bootö&haken als Stoßstange benutzte,
+Harald, der eifrig einen Bootshaken als Stoßstange benutzte,
 deutete jetzt auf einen dichten Streifen Gestrüpp, der
-sich quer Burg den Wasserlauf zog. Es waren hier hohe
+sich quer durch den Wasserlauf zog. Es waren hier hohe
 Sträucher mit den Wurzelballen versenkt worden, und sie
 dienten nur dazu, ein eisernes starkes Gitter, das den Bach
 gegen den See hin absperrte, zu verdecken.
 
 »Der Krokodile wegen,« meinte Harald. »Die Murvays
-haben offenbar alle Aus und Abflüsse des Sees in dieser
+haben offenbar alle Zu- und Abflüsse des Sees in dieser
 Weise abgeriegelt und die im See befindlichen Krokodile
-weggeschossen.
+weggeschossen.«
 
-»Oh Marry etwa dieses Gitter in ihren Notizen gemeint
+»Ob Marry etwa dieses Gitter in ihren Notizen gemeint
 hat?« fragte ich ein wenig unüberlegt, denn falls wirklich
 mehrere ähnliche Bachsperren vorhanden, spielte diese hier
 kaum eine Hauptrolle. Sie war zu klein,
 
 »Ja, das Gitter …« nickte Harald sinnend. »Und
-Marry 8Warnungen dazu … Es dürfte hier- eine ganze
-Menge Überraschungen peinlichen Art geben … Nein,
+Marrys Warnungen dazu … Es dürfte hier eine ganze
+Menge Überraschungen peinlicher Art geben … Nein,
 dieses Gitter wird sie kaum erwähnt haben, eher kann
 es sich schon um dasjenige handeln, das den Hauptfluß versperrt
 und das doch eine Tür haben muß, um das Hausboot
 durchzulassen. — Kehren wir um … Auf Piet ist Verlaß.
 Wir wollen etwas Vorrat schlafen.« —
 
-Gegen zwei Uhr löste im; Piet ab. Als im mich auf
-allen Vielen neben ihn schob, sagte er nur:
+Gegen zwei Uhr löste ich Piet ab. Als ich mich auf
+allen Vieren neben ihn schob, sagte er nur:
 
 »Verdammt, — die Hitze!! Und zu beobachten gab’s
 gar nichts, Herr Schraut. Nur der Roger hat drüben einen
-Wasserbüffel geschossen und ihm mit dem Boot zu der südlichsten
-Insel gebracht, Dort warf er ihm ins Wasser
+Wasserbüffel geschossen und ihn mit dem Boot zu der südlichsten
+Insel gebracht, Dort warf er ihm ins Wasser …«
 
 »Ins Wasser?!«
 
 »War so, Tatsache … ins Wasser schmiß er ihn …
 Nun, das hat er auch die drei Male getan, als die Bande
-mich als Roch mit hierher genommen hatte … und als
+mich als Koch mit hierher genommen hatte … und als
 sie mich nie von Bord ließen, nicht einen Schritt! Nicht
 <@pagebreak/>
 mal die Ruine durft’ ich mir ansehen, und das Hausboot
 lag dann noch weiter nach Norden zu, so daß ich die
 anderen Inseln gar nicht zu Gesicht bekam … Na —
-auf Niedersetzen also …!«
+auf Wiedersehen also …!«
 
 Er schob sich rückwärts, und ich war zwischen den
 Felsen allein. Ich suchte mir ein schattigeres Plätzchen, machte
-es mir bequem, rauchte mir eine Zigarre an und legte Ferne
-6112 und Büchse neben mich.
+es mir bequem, rauchte mir eine Zigarre an und legte Fernglas
+und Büchse neben mich.
 
 Die Sonne stand ganz hoch. Eine unerträgliche Glut
 lastete über dem Gestein. Kein Lüftchen regte sich. Selbst
 die Wasservögel streikten und hatten sich in das Schilf und
 Röhricht, das stellenweise am Ufer wucherte, zurückgezogen.
-Auf dem Hausboot bemerkte ich keine Seele. Über auf der
-Schattenseite der Ruine am Fuße des Stummel saßen
-mehrere Beute, und nach einer Stunde erschien das Ruderboot
+Auf dem Hausboot bemerkte ich keine Seele. Aber auf der
+Schattenseite der Ruine am Fuße des Ostturmes saßen
+mehrere Leute, und nach einer Stunde erschien das Ruderboot
 zwischen den Inseln und hielt auf die südlichste zu, die
-besonders steil und zerklüftet war. Als im das Glas einstellte,
+besonders steil und zerklüftet war. Als ich das Glas einstellte,
 erkannte ich vorn im Boot einen toten Büffel, hinten
 zwei Männer. Das Boot lag sehr tief im Wasser, und zu
 meinem Erstaunen kippten die beiden Murvays dann den
-Kadaver vor der Südinsel über Bord Das Tier versank
-»Atem Meter vor dem Steilufer, um gar Boot kehrte
-zum Wohnschiff Zuruf,
+Kadaver vor der Südinsel über Bord. Das Tier versank
+etwa zehn Meter vor dem Steilufer, und das Boot kehrte
+zum Wohnschiff zurück.
 
 Das alles war sehr merkwürdig. Weshalb warf man
 die Kadaver ins Wasser?!
 
-Ich beäugte an die Südinsel eine ganze Weile in aller
+Ich beäugte nun die Südinsel eine ganze Weile in aller
 Ruhe, konnte jedoch nichts Auffälliges bemerken,
 
+Um fünf traf Harald ein. Ich erzählte ihm, was ich
+gesehen.
+
 »So … so,« meinte er nur … »Also Jäger, die nur
-Heuerbas Wild niederknallen und den See verpesten!!«
+das Wild niederknallen und den See verpesten!«
 
 Ich drückte ihm die Hand und trat den Rückzug an.
-As je; unser Boot erreichte, hatte Piet neben seinem Liegestuhl
+Als ich unser Boot erreichte, hatte Piet neben seinem Liegestuhl
 <@pagebreak/>
 eine leere Whiskyflasche stehen und schnarchte unglaublich.
 
-Ich setzte mich. neben ihn, nahm meine Büchse und
-reinigte das Schloß. Dabei umspielten meine Gedanken Schulter
-wieder den Kalender. Nachher holte ich ihn aus jein’in
-Versteck sterben — Harst hatte ihn unter das überragende
-Glasdach? der Kajüte gedrückt — und las nochmals Marrys
+Ich setzte mich neben ihn, nahm meine Büchse und
+reinigte das Schloß. Dabei umspielten meine Gedanken immer
+wieder den Kalender. Nachher holte ich ihn aus seinem
+Versteck hervor — Harst hatte ihn unter das überragende
+Zinkdach der Kajüte gedrückt — und las nochmals Marrys
 Notizen. Was in aller Welt mochte es wohl auf den Inseln
 geben, daß das Mädchen immer wieder derartige Andeutungen
-mit Ausdrücken wie »entsegzliH«, »schrecklich« und ähnlichen
-gemacht hatte?! Was war zum Beispiel so Furcht«.
-erregend bei dem Gesang, den sie belauscht hatte?!
+mit Ausdrücken wie »entsetzlich«, »schrecklich« und ähnlichen
+gemacht hatte?! Was war zum Beispiel so furchterregend
+bei dem Gesang, den sie belauscht hatte?!
 
-Man konnte voller tolle Vermutungen aufstellen: Das
-
+Man konnte noch so tolle Vermutungen aufstellen: Das
 Ganze blieb dunkel!
--  3ch verbarg den Kalender wieder und beobachtete, wie
+
+Ich verbarg den Kalender wieder und beobachtete, wie
 mit Eintritt der Dämmerung das Leben ringsum im Walde
-erwachte, wie verschiedenes Getier seine Schlupfwinkel Vers
-ließ und eine ganze Herde Wasserschweine mit schneeweißen,
-Streife!: »uf dem Rücken und weißen Ohrpuscheln unweit des
+erwachte, wie verschiedenes Getier seine Schlupfwinkel verließ
+und eine ganze Herde Wasserschweine mit schneeweißen
+Streifen auf dem Rücken und weißen Ohrpuscheln unweit des
 Bootes im Nu ein paar Riesenschlangen, eine Spielart der
-Boa Ernstester, aus einem hohlen Baume hervorzerrten.
-und … auffraßen. Vieles sah) ich hier, was mir neu
-war, Ich kannte die südlichen Sumpfgebiete Indiens weit
-besser, ich sah hier Tiere, für die jeder Zoologische Gartens
-Sausende bezahlt hätte. Es war ein Tierparadies, es wer
+Boa Constriktor, aus einem hohlen Baume hervorzerrten.
+und … auffraßen. Vieles sah ich hier, was mir neu
+war. Ich kannte die südlichen Sumpfgebiete Indiens weit
+besser, ich sah hier Tiere, für die jeder Zoologische Garten
+Tausende bezahlt hätte. Es war ein Tierparadies, es war
 völlig unberührte Natur, und dieses Riesengebiet sollte
-Jonathan Murvay gehören, dem Manne, den seine Sohne
+Jonathan Murvay gehören, dem Manne, den seine Söhne
 zu schlagen wagten.
 
-Piet erwachte, als ein großer frechen Affe ihm eine.
-upfelähnliche faule Frucht gerade vor die Stirn ballerte. Flut
-blendend glotzte er zu dem kreisayzenden Vierhänder Finger, der
+Piet erwachte, als ein großer frechen Affe ihm eine
+apfelähnliche faule Frucht gerade vor die Stirn ballerte. Fluchend
+glotzte er zu dem kreischenden Vierhänder empor, der
 kaum vier Meter über uns auf einem Aststumpf hockte.
 
 Der Wald erschauerte unter den ersten fauchenden Stößen
 <@pagebreak/>
-der abendlichen Luftbewegung. Die letzten rötlichen Straßen
+der abendlichen Luftbewegung. Die letzten rötlichen Strahlen
 der Sonne waren verblaßt.
 
-»Um diese Zeit bricht die Bande immer heimwärts? auf,«
+»Um diese Zeit bricht die Bande immer heimwärts auf,«
 sagte Piet und wischte sich das Apfelmus vom Gesicht,
 
 Wir beide eilten zur Halbinsel. So war es mit Harald
 vereinbart worden. Als wir dort schwer beladen anlangten,
 denn wir schleppten die Ziegenschläuche und vieles andere
 mit uns, sahen wir drüben an der Nordinsel, die nur noch
-als dunkler Sie auf dem Wasser schwamm, einen grellen
+als dunkler Fleck auf dem Wasser schwamm, einen grellen
 breiten Blitz aufleuchten: den Scheinwerfer des Wohnschiffes,
-du 23 seinen Liegeplatz verließ und nach Südwest steuerte.
+das seinen Liegeplatz verließ und nach Südwest steuerte.
 
 <h2>8. Kapitel.</h2>
 
 <h3>Das zweite Gitter.</h3>
 
-Harald begrüßte uns mit einem kurzen: »Blatt die
-brauche auf!«
+Harald begrüßte uns mit einem kurzen: »Blast die
+Schläuche auf!«
 
 Er hatte das Fernglas vor den Augen und sprach kein
-Wort weiter, Wir banden den Schlauch der Luftpumpe
+Wort weiter. Wir banden den Schlauch der Luftpumpe
 um das Mundstück des ersten Ziegenfelles fest, und Piet
 pumpte. Im ganzen hatten wir für die Fahrt zehn Schläuche
-mit: Frommen, und es dauerte eine gute Viertelstunde, ehe
-das »Floß, das nun uns drei tragen sollte, sachgemäß Vers
-gerichtet war, Inzwischen war die Nachläßt gekommen, Harald
-drängte zur Eile, den wir wollten bis zu den Inseln
+mitgenommen, und es dauerte eine gute Viertelstunde, ehe
+das Floß, das nun uns drei tragen sollte, sachgemäß hergerichtet
+war. Inzwischen war die Nacht gekommen, Harald
+drängte zur Eile, denn wir wollten bis zu den Inseln
 rudern, bevor das Sternenlicht den See erhellte.
 
 Die Kistenbretter, die über die Schläuche gelegt und
-festgebunden waren, sanken durchs unsere Last bis zum Wasserspiegel
+festgebunden waren, sanken durch unsere Last bis zum Wasserspiegel
 ein. Wir standen oder knieten halb im Wasser,
 <@pagebreak/>
-und unsere Ruder brachten das schwerfällige Blick nur
+und unsere Ruder brachten das schwerfällige Floß nur
 langsam vorwärts.
 
 Harald ließ uns unweit des Ufers entlangpaddeln —
-gen Bilder, was ich nicht recht begriff, da diese Richtung doch
+gen Süden, was ich nicht recht begriff, da diese Richtung doch
 einen erheblichen Umweg darstellt. Er hatte uns jedes
 laute Wort verboten und trieb uns immer mehr zur Eile
 an. Das Wohnschiff war längst verschwunden. Wir hatten
 uns die Stelle ungefähr gemerkt, wo wir den Scheinwerfer
 zuletzt aufblitzen sahen. Als wir sie erreichten, sahen wir vor
 uns eine tiefe Bucht, die in einen breiten Flußarm des
-Teufel überging. Es war so dunkel, daß man selbst mit dem
+Tufar überging. Es war so dunkel, daß man selbst mit dem
 Nachtglase nicht viel erkennen konnte. Harald steuerte in
-den Flußarm hinein, … immer am linken schhilfreicken Ufer
-hin … Als wir hohes Röhricht antrafen; schnitt er ganze Bündel
-davon ab und verteilte sie aufrecht rund um die Bestaunten«-
-Wo wo er sie geschickt Abflüsse und mit Bindfaden des
-befestigte.
+den Flußarm hinein, immer am linken schilfreichen Ufer
+hin. Als wir hohes Röhricht antrafen, schnitt er ganze Bündel
+davon ab und verteilte sie aufrecht rund um die Bretterunterlage,
+wo er sie geschickt abstützte und mit Bindfaden befestigte.
 
 Die ersten Sterne erschienen. Es wurde immer heller.
 Blinkende Pünktchen flimmerten auf dem krautfreien Wasser.
-Unser Floß als einem losgerissenen Stück Ufer, das durch
+Unser Floß glich einem losgerissenen Stück Ufer, das durch
 Wurzelgeflecht schwimmend erhalten wurde,
 
-Mit einem Male ging durch) unser plumpes Fahrkarte
+Mit einem Male ging durch unser plumpes Fahrzeug
 ein starker Ruck, es prallte gegen ein Hindernis, und als
-ich; mich suchte, fühlte ich; im Wasser die messerscharfen
+ich mich bückte, fühlte ich im Wasser die messerscharfen
 Spitzen eines Eisengitter.
 
 Harald glitt langsam ins Wasser, wir folgten ihm, hielten
@@ -1214,7 +1215,7 @@ Hoben unser Floß hinüber.
 
 Dann ruderten wir ganz langsam weiter, kamen an
 eine Biegung, stießen auf eine langgestreckte Insel, in deren
-Baumschatten. nach; Westen zu das Hausboot verankert lag.
+Baumschatten nach Westen zu das Hausboot verankert lag.
 
 <@pagebreak/>
 Da erst wurde mir ungefähr klar, was Harald vermutet
@@ -1223,43 +1224,42 @@ und beabsichtigt hatte.
 Es mochte jetzt halb elf sein. Auf dem Wohnschiff
 war alles dunkel. Die Strömung nahm uns mit, und erst
 unter dem Heck stoppten wir unser Floß, hielten uns mit
-einem Bootshaken an der Reling fest, vermieten jedes
+einem Bootshaken an der Reling fest, vermieden jedes
 Geräusch und lauschten eine geraume Weile. Wir hörten
-sprechen. Schräg über uns befanden sich; zwei der Feinster
+sprechen. Schräg über uns befanden sich zwei der Fenster
 mit Gazerahmen.
 
-Die Sachlage war hiermit aufgeklärt. Die Kurparks
+Die Sachlage war hiermit aufgeklärt. Die Murvays
 hatten den See nur zum Schein verlassen. Die Söhne
-Furcht wohl auf den Inseln geblieben, um — uns abzufangen,
+waren wohl auf den Inseln geblieben, um — uns abzufangen.
 Also hatte Marry uns doch verraten, und Harald hatte
 hiermit gerechnet.
 
-Er 120g sich nun an dem Bootshjakcn zur Reling empor
-und verschwand. Die Stimmen, die wir bengalischen, waren
+Er zog sich nun an dem Bootshaken zur Reling empor
+und verschwand. Die Stimmen, die wir vernahmen, waren
 die eines Mannes und einer Frau. Zuweilen schwoll das
-Gespräch zu erfrorener Aussprache an, dann verstanden wir
-einige Worte. Jedenfalls saßen die beiden im Dunkeln,:lud
+Gespräch zu erregterer Aussprache an, dann verstanden wir
+einige Worte. Jedenfalls saßen die beiden im Dunkeln, und
 Piet raunte mir sehr bald zu, es seien Jonathan Murvay
-und seine zweite Gattin, die er vor etwa zehn Jahren 1: elf
-dem jähen Tode der ersten geheiratet hatte. die Schwester
-seiner Frau, Evelyn Murvay, geborene Tamilen,
+und seine zweite Gattin, die er vor etwa zehn Jahren nach
+dem jähen Tode der ersten geheiratet hatte, die Schwester
+seiner Frau, Evelyn Murvay, geborene Tomison,
 
 Nach fünf Minuten erschien Harsts Kopf oben über der
-Reling. Harald winkte mir und zog mir empor Sir
+Reling. Harald winkte mir und zog mich empor — Wir
 schlüpften in die offene Tür am Heck und befanden uns in
-eine. Zungen Flur, der das Wohnboot der Länge nach
+einem langen Flur, der das Wohnboot der Länge nach
 teilte. Rechts und links gab es je vier Türen, alle weiß
-lackiert. Wir hatten unsere Tashciuampen mit den Fingern
-abgeblendet, und erst als Harst die erste Für rechts plötzlich
+lackiert. Wir hatten unsere Taschenlampen mit den Fingern
+abgeblendet, und erst als Harst die erste Tür rechts plötzlich
 aufriß, ließ ich den vollen Lichtkegel über die Kabine gleiten,
 
-Es war ein kleiner Salon, geradezu luxuriös ein törichter,
-
+Es war ein kleiner Salon, geradezu luxuriös eingerichtet.
 <@pagebreak/>
 Weniger prächtig waren die Gesichter Mr. Jonathans Murvays
 und seiner Gattin.
 
-»Wenn Sie den Mund Kaltmachen, knallt’s!« drohte
+»Wenn Sie den Mund aufmachen, knallt’s!« drohte
 Harald und hatte dann im Nu beiden die Hände gefesselt.
 Sie lehnten sehr blaß in ihren Sesseln und stierten uns
 entsetzt an.
@@ -1267,10 +1267,10 @@ entsetzt an.
 Jonathan war ein schlanker Mann mit bartlosem faltigen
 Gesicht, sehr dünnem grauen Scheitel und ein Paar traurigen
 trüben Augen. Frau Evelyn hatte trotz ihrer Jahre sehr
-ansprechende Züge und erschien rote immer begehrenswert.
+ansprechende Züge und erschien noch immer begehrenswert.
 
 Harst fragte: »Wer befindet sich außer Ihnen beiden
-hinab auf dem Schiff?«
+noch auf dem Schiff?«
 
 Murvays Stirn bedeckte sich mit dicken Schweißperlen.
 Sein Gesicht verfiel vor Angst. Er brachte kein Wort
@@ -1280,19 +1280,19 @@ heraus. Seine Gattin erwiderte liebenswürdig:
 ein sehr schlechter, mein Herr … Sie sind kein Inder …
 Was wünschen Sie?«
 
-Es war erfreuliches, wie schnell sie sich wieder gefaßt
+Es war erstaunlich, wie schnell sie sich wieder gefaßt
 hatte. Sie blieb selbst in dieser bedrohlichen Situation
 vollkommen Dame. Ich mußte unwillkürlich daran denken,
 daß Piet sie sehr gelobt hatte, sie sollte nebst Marry
 die einzige »anständige« dieser »Bande« sein. Leider hatte sich
-nun aber auf unser aschblondes Mädel als Verräterin entpuppt,
+nun aber auch unser aschblondes Mädel als Verräterin entpuppt,
 und Frau Evelyn würde wohl nicht viel anders zu
 bewerten sein,
 
 Harst musterte die Frau scharf und meinte: »Lassen
 Sie doch die Winkelzüge! Sie wissen recht gut, wer wir
 sind, und ich weiß noch besser, was ich von Ihnen Zu
-halten habe. — Wo ist Allan Mac Ducry?’
+halten habe. — Wo ist Allan Mac Ducry?«
 
 Das war ein Schuß ins Schwarze. Jonathan stieß ein
 heiseres Röcheln aus, und seine Gattin fuhr hoch und sank
@@ -1301,37 +1301,37 @@ dann wieder mit verzerrtem Gesicht in den Sessel zurück.
 <@pagebreak/>
 »Wenn Sie ihn umgebracht haben,« sagte Harald und
 beschaute seine Pistole, auf deren Mündung der schwarze,
-trichterförmige Schalldämpfer, Patent Gratis, saß … »dann
+trichterförmige Schalldämpfer, Patent Orplik, saß … »dann
 werden Sie alle vielleicht ins Zuchthaus wandern — alle!!«
 
 In demselben Moment teilten sich die Vorhänge nach
-dem Nebenraum und totenblaß und säywankend trat Marry
+dem Nebenraum und totenblaß und schwankend trat Marry
 Murvay ein. Sie trug einen blauseidenen Schlafanzug und
 über dem aschblonden Bubikopf ein rotes Haarnetz, an den
-Füßen hellgrüne Saffiansazuhhen und in der Rechten …
+Füßen hellgrüne Saffianschuhchen und in der Rechten …
 eine große automatische Pistole.
 
 Harst hatte rasch mit der Linken seine Taschenlampe
 gehoben. Der Lichtkegel lag voll auf Marrys reizender Erscheinung.
-Über das, was folgte, war weniger nett. Das
+Aber das, was folgte, war weniger nett. Das
 Mädel hob die Waffe und sagte mit klangloser, aber fester
 Stimme:
 
 »Wenn Sie nicht sofort das Hausboot verlassen, mein
-Herr, erschieße im Sie!! Meinetwegen mögen Sie auch mich
+Herr, erschieße ich Sie!! Meinetwegen mögen Sie auch mich
 niederknallen … Ich tu’s bestimmt!«
 
 Um ihren Mund lagerte ein Zug wilder Entschlossenheit.
-—» Daß sie so tat, als seien wir ihr fremd, bewies ebenfalls,
+— Daß sie so tat, als seien wir ihr fremd, bewies ebenfalls,
 daß sie uns doch nicht verraten hatte. Der andere
 Beweis hierfür war das Erschrecken ihrer Eltern bei Nennung
-des Namens Mac Abhang gewesen. — Meinte sie das hier
-wirklich ernst mit ihrer Drohung?! Wenn ja, dann. mußte
-sie inzwischen Dinge erlebt aber, die sie veranlassen, »ü4sichtslos
-für die Ihrigen hinzutreten und die Liebe zu Allan
+des Namens Mac Allans gewesen. — Meinte sie das hier
+wirklich ernst mit ihrer Drohung?! Wenn ja, dann mußte
+sie inzwischen Dinge erlebt haben, die sie veranlassen, rücksichtslos
+für die Ihrigen einzutreten und die Liebe zu Allan
 zu vergessen.
 
-Harald sagte bedächtig: »Miß Murvay,  nicht wahr? —
+Harald sagte bedächtig: »Miß Murvay, nicht wahr? —
 Weshalb wollen Sie mich zu noch härteren Maßnahmen
 zwingen?!«
 
@@ -1340,30 +1340,31 @@ Lachen …
 
 <@pagebreak/>
 »Ich werde schießen — — bei Gott!! Gehen Sie, gehen
-Sie, …!! Ich stehe für nichts ein …
+Sie …!! Ich stehe für nichts ein …«
 
-Du die seidenen Vorhänge hindurch griff eine braune
-breite Satze, rate Marrys Handgelenk, und — der Schuß
+Durch die seidenen Vorhänge hindurch griff eine braune
+breite Tatze, packte Marrys Handgelenk, und — der Schuß
 und der Aufschrei klangen in eins … Die Kugel fuhr
 die Decke,
 
 Piet sagte knurrend: »Miß Marry, solche Torheiten
-sein nix für seine junge Ladys …!«
+sein nix für feine junge Ladys …!«
 
 Er riß ihr die Waffe aus der Hand und meinte: »Soll
 ich sie fesseln, Herr Chef?«
 
-Harst nickte. »Es geht nicht anders, Nehmen Sie aber
+Harst nickte. »Es geht nicht anders. Nehmen Sie aber
 Ihr Taschentuch.«
 
 Marry taumelte nach vorn und sank Harald ohnmächtig
 in die Arme.
 
-Wir waren Herren des Hausbootes. Es befanden!ich
+Wir waren Herren des Hausbootes. Es befanden sich
 Nur diese drei Murvays hier.
 
 <@pagebreak/>
-Das dritte Gitter
+
+<h1>Das dritte Gitter</h1>
 
 <h2>1. Kapitel.</h2>
 
@@ -1375,14 +1376,14 @@ ganz still und weinte leise.
 
 Harald wandte sich an Jonathan Murvay. »Sie wissen
 ganz genau, wer wir sind … Nur Ehrlichkeit kann Sie
-erschien. Wenn Sie lügen, nehme ich keinerlei Rücksicht. Ich
-will ehrlich sein: Ich kenne Ihre Verbrechen nicht — Kelch
-nie! aber Ihre ganze Familie sind Verbrecher. Dort
+retten. Wenn Sie lügen, nehme ich keinerlei Rücksicht. Ich
+will ehrlich sein: Ich kenne Ihre Verbrechen nicht — noch
+nicht — aber Ihre ganze Familie sind Verbrecher. Dort
 auf den Inseln werde ich die Lösung Ihrer Geheimnisse
 finden. — Wollen Sie antworten?«
 
-Der völlig gebratene Mann tat mir leid. Er letzte sich
-die Lippen, er murmelte allerletzt vor sich) bin, ihm lief der
+Der völlig gebrochene Mann tat mir leid. Er leckte sich
+die Lippen, er murmelte allerlei vor sich hin, ihm lief der
 Schweiß über die Stirn, aber — sprechen konnte er nicht,
 
 Evelyn Murvay lächelte matt und erwiderte anstelle
@@ -1390,15 +1391,15 @@ ihres Gatten: »Fragen Sie, Mr. Harst …«
 
 »Wo ist Mac Allan Ducry?«
 
-»R-? unseren Söhnen auf der Nordinsel …«
+»Bei unseren Söhnen auf der Nordinsel …«
 
 »Was tut er da?«
 
 »Er wird dort festgehalten …
 
-»Sie wußten, daß wir hinter Ihnen her waren«
+»Sie wußten, daß wir hinter Ihnen her waren?«
 
-»Wir wissen es erst seit heute nachmittag … Neger war
+»Wir wissen es erst seit heute nachmittag … Roger war
 auf dem Ostturm und erspähte einen von Ihnen auf der
 Halbinsel mit dem Fernglas.«
 
@@ -1406,10 +1407,10 @@ Halbinsel mit dem Fernglas.«
 »Und da vermuteten Sie Schraut und mich und Piet
 hier?«
 
-»3. Wir dachten uns gleich, daß Piet Jansen allerlei
-törichtes Gewalt über uns verbreiten würde, genau wie
+»Ja. Wir dachten uns gleich, daß Piet Jansen allerlei
+törichtes Gewäsch über uns verbreiten würde, genau wie
 Mac Allan Ducry, der noch die Unverfrorenheit besaß,
-Marrys?kindliche Harmlosigkeit auszunutzen und sich mit
+Marrys kindliche Harmlosigkeit auszunutzen und sich mit
 ihr heimlich zu verloben, was ihm als Chauffeur so recht
 passen konnte, denn Marrys Mitgift beläuft sich immerhin
 auf zwei Millionen Rupien. Marry ist nun Gott sei Dank
@@ -1424,30 +1425,30 @@ dreiunddreißig Jahre in Chanar ansässig, besitzt die größte
 Flußreederei und das bedeutendste Exporthaus, gehört dem
 Parlament an und …«
 
-Harald war so unhöflich, diesen fast hochmütigen Rede«
-schnell zu unterbrechen,
+Harald war so unhöflich, diesen fast hochmütigen Redeschwall
+zu unterbrechen,
 
-»Wenn all das stimmte, Frau Murvay, — ich meins,
+»Wenn all das stimmte, Frau Murvay, — ich meine,
 was die absolute Harmlosigkeit Ihrer Familie betrifft, so
-begreife im nicht, weghzalb Ihre Söhne nicht ganz offen
+begreife ich nicht, weshalb Ihre Söhne nicht ganz offen
 zu uns hinüberruderten und uns einluden, Sie zu besuchen
 und uns von Ihrer Ehrenhaftigkeit zu überzeugen?! Statt
 dessen blieben Ihre Söhne auf den Inseln, natürlich um
 uns dort abzufangen und uns genau wie Mac Allan einzusperren.
 Ich denke, wir wollen diese Unterredung ein wenig
-&rlicher fortsetzen. Lügen haben mir gegenüber noch kürzere
-Beine als sonst, Dieser See der Träume mit seinen
-Gittern …»’
+ehrlicher fortsetzen. Lügen haben mir gegenüber noch kürzere
+Beine als sonst. Dieser See der Träume mit seinen
+Gittern …«
 
 <@pagebreak/>
-». -. gegen die Krokodile,« warf Frau Evelyn lächelnd
+»… gegen die Krokodile,« warf Frau Evelyn lächelnd
 ein.
 
-»Ganz recht — für die Krokodile,« änderte Harald ihre
-Worte um. »Sie wissen doch, mit Wein Sie es zu tun haben,
-Frau Murvay, — ich auch!! Sogar sehr genau. Sie is.:d
-Verbrecher, und ich sage Ihnen: Ich werde Sie ins Zud’thaus
-bringen, schon deshalb, weil Sie vielleicht die geh. schickte
+»Ganz recht — *für* die Krokodile,« änderte Harald ihre
+Worte um. »Sie wissen doch, mit wem Sie es zu tun haben,
+Frau Murvay, — ich auch!! Sogar sehr genau. Sie sind
+Verbrecher, und ich sage Ihnen: Ich werde Sie ins Zuchthaus
+bringen, schon deshalb, weil Sie vielleicht die gefährlichste
 Heuchlerin Ihrer Sippe sind und sogar Miß Marry
 nun … verdorben haben.«
 
@@ -1456,60 +1457,60 @@ Wir werden das Hausboot anderswo verankern. Sollten die
 Murvays aufsässig werden, schießen Sie ohne Erbarmen —
 auf meine Verantwortung. Miß Marry werden wir nachher
 in eine Kammer einsperren, — nein, besser gleich. Kommen
-Sie, Miß, — ich bedauere Sie, »!’
+Sie, Miß, — ich bedauere Sie …!«
 
 Er half ihr auf die Füße. In ihrem bleichen Gesicht
-leuchteten die tränenfeuchten Augen übergroß. Sie zitterte ein
-ganzen Körper, sie konnte sich kaum aufrecht? sagten. Als
-wir sie dann an Deck geführt hatten, Frühe Harst sie
+leuchteten die tränenfeuchten Augen übergroß. Sie zitterte am
+ganzen Körper, sie konnte sich kaum aufrecht halten. Als
+wir sie dann an Deck geführt hatten, drückte Harst sie
 in einen Sessel unter dem Sonnendach und befahl mir,
-bei ihr zu bleiben. Er selbst löste die Taue, und die ’Strö-
-Stimmung führte das Wohnboot und unser daran angeseiltes Floß
+bei ihr zu bleiben. Er selbst löste die Taue, und die Strömung
+führte das Wohnboot und unser daran angeseiltes Floß
 von der Insel weg in eine Ausbuchtung und zwischen weite
-Krankheiten, wo Harst den Heckanker fallen ließ]. Er kam
-kann zu uns, setzte sich neben Marry und sagte so recht
+Krautfelder, wo Harst den Heckanker fallen ließ. Er kam
+dann zu uns, setzte sich neben Marry und sagte so recht
 lieb:
 
-»Sind, ich werde es niemals dulden, daß Sie dieses
+»Kind, ich werde es niemals dulden, daß Sie dieses
 Weibes, Ihrer Stiefmutter wegen, sich ins Unglück stürzen,
-dem Sie mit ihr gemeinsame Sache machen. Ich habe
+indem Sie mit ihr gemeinsame Sache machen. Ich habe
 nicht nur Mitleid mit Ihnen, Marry, sondern empfinde für
-Sie weit mehr …
+Sie weit mehr …«
 
 Er hatte ihre Hände ergriffen, die sie ihm willig überließ
-… »Es gab eintrat eine kurze Spanne Zeit für mich,
+… »Es gab einmal eine kurze Spanne Zeit für mich,
 <@pagebreak/>
 kleines Mädel, in der mir der Himmel voller Geigen
-hing. Ich war jung, war verlobt, im vergötlterte meine
+hing. Ich war jung, war verlobt, ich vergötterte meine
 Braut … Ein elender Bube ermordete sie … Damals
 lernte ich Schraut kennen, damals brachten wir den Mörder
 gemeinsam zur Strecke. Schraut hat diesen Beginn meines
-Lebens ohne Frauenliebe, den seitdem war mein Herz tot,
+Lebens ohne Frauenliebe, denn seitdem war mein Herz tot,
 unter dem Titel »Zwei Taschentücher« geschildert und damit
 den Grundstein für seine weitere schreibfreudige Tätigkeit
-gelegt … Ja, meine Braut, — — Sie gleichen ihr,
+gelegt … Ja, meine Braut, — — *Sie* gleichen ihr,
 Marry … Sie haben dieselben seelenvollen Gazellenaugen,
-Sie haben denselben verheigungsvollen Mund, und deshalb
-werde ich Sie schützen, Kind — vor sie selbst! Ich weiß,
+Sie haben denselben verheißungsvollen Mund, und deshalb
+werde ich Sie schützen, Kind — vor sich selbst! Ich weiß,
 es sind am heutigen Tage böse Dinge auf Sie eingestürmt.
 Sie wollen Ihre Eltern nicht preisgeben. Ihr Vater ist ein
-beklagenswerter Schwächling, der vollständig Ihrer däuämoni«-
-sehen Stiefmutter verfallen ist, einer Schlange mit gleich«-
-regnerischem Gehabe … Kind, Schuß verlange keinerlei Aufschluß
-von Ihnen über das, was heute gestrichen. Nur eines
-verspredizen Sie mir: Bleiben Sie dort, wo wir Sie ausblieben
+beklagenswerter Schwächling, der vollständig Ihrer dämonischen
+Stiefmutter verfallen ist, einer Schlange mit gleißnerischem
+Gehabe … Kind, ich verlange keinerlei Aufschluß
+von Ihnen über das, was heute geschehen. Nur eines
+versprechen Sie mir: Bleiben Sie dort, wo wir Sie einschließen
 werden, machen Sie keinen Fluchtversuch … ersparen
-Sie es uns, Sie fesseln zu müssen, …«
+Sie es uns, Sie fesseln zu müssen …«
 
-Sie streute zur Seite … Über den fernen Felsenhügeln
+Sie schaute zur Seite … Über den fernen Felsenhügeln
 war gerade der Mond aufgegangen … Er schien ihr in das
 blasse schöne Gesichtchen, und er ließ die Tränen, die aus
-ihren Augen rannen, wie rollende Edelsteine aufblinken…
+ihren Augen rannen, wie rollende Edelsteine aufblinken.
 
 »Ich … verspreche es, falls Sie … nicht nach den
 Inseln fahren,« sagte sie leise … Dann blickte sie ihn
-an … »Ich flehe, ich bitte: Jahren Sie nicht!! Es
-wäre nicht allein Ihr »Tod, auch … Mac Allan würde mit
+an … »Ich flehe, ich bitte: Fahren Sie nicht!! Es
+wäre nicht allein Ihr Tod, auch … Mac Allan würde mit
 Ihnen sterben müssen … Oh, glauben Sie mir: es wäre
 Ihr Verderben, es wäre … Ihre letzte Stunde, es wäre ein
 Ende, schrecklicher als … als …«
@@ -1523,22 +1524,22 @@ und schmelzende Lied einer Nachtigall in den Uferbüschen.
 
 Vom Wasser herauf erklang das scheußliche Schnauben
 eines jagenden Krokodils … Von weit her kam das schrille
-Furchtbaren eines hungrigen Dischungelwolfes.
+Aufheulen eines hungrigen Dschungelwolfes.
 
 Harst sagte leise:
 
 »Dann müssen wir Sie fesseln, Marry.«
 
-Sie flog hoch. Sie schnellte sie zur Reling, sie wollte
-sich über Bord starken …
+Sie flog hoch. Sie schnellte sich zur Reling, sie wollte
+sich über Bord stürzen …
 
-Harst riß sie zurück … Sie lag an seiner Brust,
-Er war totenbleich, aber in seinen Zügen war nur die Frau«
-träumerische Melancholie eines Mannes, der mit diesem jungen
+Harst riß sie zurück … Sie lag an seiner Brust.
+Er war totenbleich, aber in seinen Zügen war nur die träumerische
+Melancholie eines Mannes, der mit diesem jungen
 Weibe Leib an Leib die eigene Jugend und Liebeszeit vor
-sich Entsetzen sieht …
+sich erstehen sieht …
 
-Er Hielt sie untersuchen, und ihr Kopf ruhte an
+Er Hielt sie umschlungen, und ihr Kopf ruhte an
 seiner Wange … Er lächelte schmerzlich, sagte zart und
 innig: »Kind, wenn ich Ihren Vater schützen kann —
 gern, Ihretwegen!! Und nun — folgen Sie mir …«
@@ -1549,13 +1550,14 @@ vorging.
 
 »Haben Sie … sie sehr lieb gehabt?« fragte sie scheu.
 
-— »so sehr, daß … Sie glücklich werden sollen,
+»Ja, — so sehr, daß … *Sie* glücklich werden sollen,
+Marry …«
 
-Dann. — sie zögerte — »dann … meiden Sie die
-Südinsel!« kannte sie und machte ist von ihm los,
+»Dann …« — sie zögerte — »dann … meiden Sie die
+Südinsel!« hauchte sie und machte sich von ihm los,
 
-Wir schlossen sie in ins Kammer im Vorschiff ein,
-ohne sie zu Sesseln,
+Wir schlossen sie in eine Kammer im Vorschiff ein,
+ohne sie zu fesseln,
 
 <@pagebreak/>
 
@@ -1569,37 +1571,37 @@ die breite Silberbahn des Mondes, und Harald sagte geistesabwesend:
 
 »Der erste Schnee des Alters zeigt sich an den Schläfen,
 und plötzlich spürt man, daß man doch noch jung geblieben.
-Vielleicht … wenn ich Marry kennen gelernt »Hätte, bevor
-sie Mac Allan lieben lernte … vielleicht
+Vielleicht … wenn ich Marry kennen gelernt Hätte, bevor
+sie Mac Allan lieben lernte … vielleicht …«
 
 Ich blieb stumm. Ich fand nur, daß Harald in dieser
-Stimmung nicht recht in diese Situation häneinpaßte. Da
+Stimmung nicht recht in diese Situation hineinpaßte. Da
 vor uns lag die Südinsel, und wir rückten ihr näher und
 näher …
 
-»Harald!« mahnte ich … — « »Harald, wir bieten hier
-ein allzu gutes Ziel
+»Harald!« mahnte ich … »Harald, wir bieten hier
+ein allzu gutes Ziel …«
 
-»Sie werden nicht schießen …
+»Sie werden nicht schießen …«
 
-»Und wenn sie doch nicht auf der Nordinsel sinkt!
-Dieses Weib hat gelogen, fürchte ich, diese … hyeuchlertsche
-Schlange, diese …
+»Und wenn sie doch nicht auf der Nordinsel sind?!
+Dieses Weib hat gelogen, fürchte ich, diese … heuchlerische
+Schlange, diese …«
 
-»… Mutter!« ergänzte er verächtlich.
+»… Mutter!!« ergänzte er verächtlich.
 
 Ich verstand ihn nicht,
 
-»Stiefmutter, Harald …! Jonatpans vier Kinder stammen
-aus der ersten Ehe …
+»Stiefmutter, Harald …! Jonathans vier Kinder stammen
+aus der ersten Ehe …«
 
-»Allerdings, — -Sie werden nicht schießen … Sir
-verlassen sich auf hie Verbündeten
+»Allerdings … — Sie werden nicht schießen … Sie
+verlassen sich auf die Verbündeten …«
 
-Das Floß war der Südinsel die auf zehn Meter nahes
-gekommen. Da — ein Stoß… Es prallte (eicht Zuruf,
+Das Floß war der Südinsel bis auf zehn Meter nahe
+gekommen. Da — ein Stoß … Es prallte leicht zurück,
 
-Harald sagte nur;
+Harald sagte nur:
 
 <@pagebreak/>
 »Dies ist das Hauptgitter, mein Alter … Es umgibt
@@ -1610,26 +1612,26 @@ Ich stierte vorwärts …
 Überall jenseits des scharf geschliffenen Gitters, das
 mit den Spitzen nur ganz wenig über das Wasser hinausragte,
 sah ich jetzt die Nüstern von Krokodilen … sah
-im die Furchen, die die schwimmenden Bestien durch das
+ich die Furchen, die die schwimmenden Bestien durch das
 Wasser zogen.
 
 »Die Wasserbüffel …!« meinte Harald. »Nahrung für
-die Saurier, für die Wächter …! — Besinnst! du dich auf
+die Saurier, für die Wächter …! — Besinnst du dich auf
 die Krokodilfarm?! Dies hier ist keine Farm, sondern ein
 Gürtel von Bestien … zum Schutz gegen Fluchtversuche.«
 
 Die Rachen der Panzertiere drängten sich am Gitter
-zusammen. Jüdische kleine Augen funkelten … Harald
+zusammen. Tückische kleine Augen funkelten … Harald
 bückte sich … Er hatte Piet und mir befohlen gehabt,
-auch eine Kanne Benzin vom Motorboot mitzubringen. Er.
+auch eine Kanne Benzin vom Motorboot mitzubringen. Er
 kippte die Kanne um und goß den Inhalt über die Bestien
 Hinweg, — es half, die Untiere tauchten, verschwanden,
 der scharfe Geruch vertrieb sie.
 
 Wir hoben das Floß über das Gitter. Ich ruderte, Harst
-hielt die Pistole bereit, aber er brauchte nicht zu schicken,
+hielt die Pistole bereit, aber er brauchte nicht zu schießen.
 Wir landeten an einem Einschnitt der Felsen, wo eine
-schmale Schacht steil emporführte. Wir zündeten die Karbidlaternen
+schmale Schlucht steil emporführte. Wir zündeten die Karbidlaternen
 an, belasteten das Floß mit Steinen, versenkten es
 und verbargen die Leine, die daran befestigt war, im Geröll.
 Als wir die Höhe des Steilufers erreicht hatten, sahen wir,
@@ -1639,29 +1641,29 @@ Fenster, der noch etwa vier Meter hoch war,
 
 Glücklich blieben wir stehen und lauschten.
 
-Wir härten Gesang, der irgendwo aus der Tiefe kam.
+Wir hörten Gesang, der irgendwo aus der Tiefe kam.
 Es waren Männerstimmen, es war dasselbe Lied, das Marry
-gestern »band gesungen hatte …
+gestern abend gesungen hatte …
 
 <@pagebreak/>
 »Weiter!« Harald umschritt den Turm, aber wir fanden
-seine Für, keine Schießscharte .,
-— Der Gesang war auch nur dort zu hören, wo wir
+keine Tür, keine Schießscharte …
+
+Der Gesang war auch nur dort zu hören, wo wir
 vorhin halt gemacht hatten.
 
 Harst leuchtete den Felsboden ab, der überall Risse
 und Spalten hatte. Er kniete nieder, rutschte hin und
-
 her …
 
 »Hier!« rief er … »Hier ist’s!! Aus dieser Spalte
-kommen die Töne …
+kommen die Töne …«
 
 Er beugte sich noch tiefer …
 
 »Hallo!!« brüllte er …
 
-Der Gesang bin jäh ab.
+Der Gesang brach jäh ab.
 
 »Hallo, wer ist denn dort unten?!«
 
@@ -1673,16 +1675,16 @@ Dann eine heisere Stimme:
 
 Ja — hier oben waren wir beide leider nicht allein …
 
-»Hände hohl« — — dicht hinter uns …
+»Hände hoch!« — — dicht hinter uns …
 
 Ich fuhr herum. Drei standen dort … drei mit Jagdbüchsen
 …
 
 »Hände hoch!!«
 
-Und eine Kugel setzte Harald den Turban vom Kopf.
+Und eine Kugel fegte Harald den Turban vom Kopf.
 
-Er erhob sie. Er streckte die Arme empor. Es war
+Er erhob sich. Er streckte die Arme empor. Es war
 höchste Zeit. Die zweite Kugel riß ihm eine rote Furche
 über die Wange.
 
@@ -1690,76 +1692,76 @@ Einer der drei trat vor.
 
 »Lassen Sie sich fesseln, meine Herren …« — Ironische
 Verbeugung … »Mein Name ist Roger Murvay, Mr. Harst.
-Wir beabsichtigen durchaus nicht, Ihnen irgendein Leid ans
-zutun. Wir wollen Sie lediglich überzeugen, daß die Leute
+Wir beabsichtigen durchaus nicht, Ihnen irgendein Leid anzutun.
+Wir wollen Sie lediglich überzeugen, daß die Leute
 dort unten Freunde von uns sind, die alle Ursache haben,
 die Polizei zu meiden.«
 
 Er trat hinter uns, und er band uns die Hände auf
 <@pagebreak/>
-dem Rücken zusammen — mit Kupfer! ich! was stets am.
+dem Rücken zusammen — mit Kupferdraht, was stets am
 sichersten ist.
 
-»So,« sagte er, »nun werden Sie ins ruhig anhören,
-müssen, meine Herren. Ich bitte Sie, ins zu versprechen,
-daß Sie nichts verraten werden. Au »’illan Mac Ducry
+»So,« sagte er, »nun werden Sie uns ruhig anhören
+müssen, meine Herren. Ich bitte Sie, uns zu versprechen,
+daß Sie nichts verraten werden. Auch Allan Mac Ducry
 hat bereits sein Wort verpfändet und mit unseren Freunden
 gesprochen. Die Sache ist die …«
 
-Neger Murvay war jetzt durchaus Stich. Er war wird«
-bis ein hübscher Mensch, tadellos gar wissen, kräftig, mit
+Roger Murvay war jetzt durchaus höflich. Er war wirklich
+ein hübscher Mensch, tadellos gewachsen, kräftig, mit
 kühnem Gesicht …
 
-»…». Sie studieren die Zeitungen « sehr genau, Mr.
-Harst. So werden Sie auch wissen, »aß drei Irländer
-hier in Indien mit den Führern der leidlichem Freiheitsbewegung
-gemeinsame Sache gemacht un den Aufstand der
-Arbeiter in Bombay inszeniert hatten …,«
+»… Sie studieren die Zeitungen ja sehr genau, Mr.
+Harst. So werden Sie auch wissen, daß drei Irländer
+hier in Indien mit den Führern der indischen Freiheitsbewegung
+gemeinsame Sache gemacht und den Aufstand der
+Arbeiter in Bombay inszeniert hatten …«
 
 »Allerdings …«
 
-»Nun, diese drei waren mit mir befindet. Sie flüchteten
-zu mir nach Chanar, und ich brach« sie im Mai des
-Vorjahres hier auf die Insel. Werden j1t ergriffen, sperrt
-man sie lebenslänglich ein. — Bitte, Toten Sie uns.
-Ader erst Ihr Ehrenwort, meine Herren,«
+»Nun, diese drei waren mit mir befreundet. Sie flüchteten
+zu mir nach Chanar, und ich brachte sie im Mai des
+Vorjahres hier auf die Insel. Werden sie ergriffen, sperrt
+man sie lebenslänglich ein. — Bitte, folgen Sie uns …
+Aber erst Ihr Ehrenwort, meine Herren …«
 
-»Unter diesen Umständen gern,« er?!:!rte Harald, »Ich
+»Unter diesen Umständen gern,« erklärte Harald. »Ich
 verspreche zugleich für Schraut, daß wir die drei Iren
 unter keinen Umständen verraten werden.«
 
 »Verbindlichsten Dank, meine Herren … Das genügt
 uns … Kommen Sie bitte …«
 
-Er schritt seitwärts auf einen einer her Zettel!:-4 zu,
-lehnte sich dagegen und schob ihn zur Seite, Ein quazdratisches
-Loch zeigte sich im Boden, eine ;»Pappe lief hinab,
-und wir folgten Roger Aufsetzt, dessen Dr der oben blieben.
+Er schritt seitwärts auf einen einzigen Felsblock zu,
+lehnte sich dagegen und schob ihn zur Seite. Ein quadratisches
+Loch zeigte sich im Boden, eine Treppe lief hinab,
+und wir folgten Roger Murvay, dessen Brüder oben blieben.
 
-Die Steintreppe lautete in ein Gewölbe, und aus diesem
-gelangten wir durch eine nur angelehnte eiserne Für in
-ein zweites, das roch! wohnlich ausgestattet war,
+Die Steintreppe führte in ein Gewölbe, und aus diesem
+gelangten wir durch eine nur angelehnte eiserne Tür in
+ein zweites, das recht wohnlich ausgestattet war,
 
 <@pagebreak/>
 Über einem Tisch, der mit einer blauen Decke belegt
 war, brannte eine Karbidlampe … Drei Männer saßen
 abseits in Rohrsesseln und rauchten und schauten uns erstaunt
-an. Der ins fragte ärgerlich:
+an. Der eine fragte ärgerlich:
 
 »Was soll das, Roger?! Wer sind die Herren?! Ich
-den!-, …
+denke …«
 
 »Es sind Harst und Schraut, lieber John … Kein Grund
-zur Besorgnis also …
+zur Besorgnis also …«
 
 Die drei Flüchtlinge standen auf und verbeugten sich.
 
 »John Lowell,« stellte sich der eine vor. »Es wäre
 immerhin besser, unser Versteck würde nicht derart der Neugier
-von …,«
+von …«
 
 »Es mußte sein,« entschuldigte sich Roger Murvay. »Mr.
-Harst, das dort ist Doktor Maxwell, und …
+Harst, das dort ist Doktor Maxwell, und …«
 
 »Danke,« sagte Harst liebenswürdig. »Ich verrate politische
 Flüchtlinge nicht … Ich will von alledem nichts wissen.«
@@ -1769,40 +1771,40 @@ uns wieder nach oben. Die drei Irländer hatten sich zum
 Abschied nur steif verneigt.
 
 Als wir neben dem Turme wieder angelangt waren,
-heraushob Roger den Felsen über die Öffnung und deutete
+schob Roger den Felsen über die Öffnung und deutete
 dann auf ein paar Steine.
 
-»Setzen wir uns, meine Herren, Ich möchte Ihnen
+»Setzen wir uns, meine Herren … Ich möchte Ihnen
 noch einige weitere Aufklärungen geben. Piet Jansen hat
 Ihnen da allerhand unglaubliche Märchen aufgetischt, die
 freilich ein schlechtes Licht auf uns Murvays werfen mußten.
 Ja, es stimmt schon, wir hatten häufig Streit mit unserem
 Vater, weil er fürchtete, er könnte unserer drei Flüchtlinge
-wegen Ungelegeulyeiten haben, Es ist auch wahr, daß ich
-arm erriet vergaß und auf meinen Vater eindrang. Auch
-unsere S; stimmten war entschieden dagegen, daß wir Brüder
-die Iren hier verbargen und ihnen jeden Sonntag Lebens
-Mittel brachten. Marry hatten wir überhaupt nicht eingeweiht.
+wegen Ungelegenheiten haben. Es ist auch wahr, daß ich
+mich einmal vergaß und auf meinen Vater eindrang. Auch
+unsere Stiefmutter war entschieden dagegen, daß wir Brüder
+die Iren hier verbargen und ihnen jeden Sonntag Lebensmittel
+brachten. Marry hatten wir überhaupt nicht eingeweiht.
 <@pagebreak/>
 Es tut mir leid, und ich entschuldige mich deswegen
 bei Ihnen in aller Form, daß wir Sie beide hier so hart
-anpacken. Wir konnten nicht anders. Werden Sohn Lowell
+anpackten. Wir konnten nicht anders. Werden John Lowell
 und die beiden anderen hier entdeckt, macht man auch
 uns wegen Begünstigung den Prozeß.«
 
 Dann rief er: »Hallo — Erik, Sydney, — wo steckt
-wahr den?!’«
+ihr denn?!«
 
-So lernten wir auch die beiden jüngeren Matratze
+So lernten wir auch die beiden jüngeren Murvays
 kennen, ebenfalls stattliche Gentlemen von vollendeter Höflichkeit,
--
+—
 
 Marrys ganze Aufzeichnungen waren also eine Seifenblase
 gewesen und zerplatzt. Überlegte man sich die Dinge
-in Ruhe, so war alles durchs die Anwesenheit der drei
+in Ruhe, so war alles durch die Anwesenheit der drei
 steckbrieflich Verfolgten hier auf der Insel genügend erklärt.
 
-Die Brüder Ausgang ahnten bisher nicht, daß wir ihr
+Die Brüder Murvay ahnten bisher nicht, daß wir ihr
 Hausboot gekapert hatten, und Harald verlor während der
 nun folgenden Unterhaltung hierüber kein Wort.
 
@@ -1810,38 +1812,38 @@ Das war das erste, was mir auffiel.
 
 Unser Gespräch drehte sich um die Schönheiten des
 Sees und um die Burgruine auf der Nordinsel. Wir rauchten
-Zigaretten, standen im Mondschein, und Harst fragte schlich«
-sich nur so nebenbei:
+Zigaretten, standen im Mondschein, und Harst fragte schließlich
+nur so nebenbei:
 
-»Wo stet denn Allan Mac Ducry?«
+»Wo steckt denn Allan Mac Ducry?«
 
 Sidney Murvay lachte … »Der bewacht unser Ruderboot
 … Ich werde ihn holen …«
 
 Er eilte davon,
 
-Roger sagte etwas gelegt: »Dieser Chauffeur als Mitwisser
-des Geheimnisses ist mir wenig angenehm, ganz ad
-abgesehen davon, daß er Marry den Kopf verdreht hat …
+Roger sagte etwas gereizt: »Dieser Chauffeur als Mitwisser
+des Geheimnisses ist mir wenig angenehm, ganz abgesehen
+davon, daß er Marry den Kopf verdreht hat …
 Hoffentlich schweigt er wirklich. Wir werden ihm Geld geben.
 Wäre er nicht ausgerechnet als Chauffeur in Chanar bekannt,
 könnte er meinetwegen Marry heiraten, denn er
-ist kein übler Bursche und hat wohl mal bessere Jage ge
+ist kein übler Bursche und hat wohl mal bessere Tage gesehen.
 <@pagebreak/>
-sehen. Reden Sie ihm doch gut zu, Mr. Harst, daß er
+Reden Sie ihm doch gut zu, Mr. Harst, daß er
 nicht etwa zum Verräter wird,«
 
 Sidney und Mac näherten sich.
 
 Allan Mac Ducry begrüßte uns sehr unterwürfig.
 
-»Mr. Harst,/« meinte er verlegen, »auch Sie sind also
-Geier die Opfer eines an sich erfreulichen Irrtums geworden.«
+»Mr. Harst,« meinte er verlegen, »auch Sie sind also
+hier die Opfer eines an sich erfreulichen Irrtums geworden.«
 
-Sein scharf geschnittenes Gesicht hatte auffallend durchdringende
-Augen. Mir kam es vor, als ob er ein wenig
-sein uspielerte. Sein ganzes Henkers widersprach seiner domestikenhaften
-Höflichkeit.
+Sein scharf geschnittenes Gesicht hatte auffallend
+durchdringende Augen. Mir kam es vor, als ob er ein wenig
+schauspielerte. Sein ganzes Äußere widersprach seiner
+domestikenhaften Höflichkeit.
 
 »Ja, ein Irrtum …« — Harst hob die Schultern …
 »Piet Jansen wird sich wundern …«
@@ -1851,25 +1853,25 @@ verpflichten, daß er reinen Mund hält.«
 
 »Auf Ihrem Wohnschiff, Mr. Murvay …«
 
-Roger zarte merklich zusammen.
+Roger zuckte merklich zusammen.
 
-»Also waren Sie dort. ,?!!«
+»Also waren Sie dort …?!«
 
-»Wir haben es gekapert, Mr. Aufsatz) …«
+»Wir haben es gekapert, Mr. Murvay …«
 
-»Je … kapert?!«
+»Ge … kapert?!«
 
-»X … Und Ihre Eltern und Marry werden von
+»Ja … Und Ihre Eltern und Marry werden von
 Piet bewacht …«
 
 Harst hatte plötzlich seine Pistole in der Hand.
 
 »Hände hoch, Schurken …!!«
 
-Und auch Allan Mac Ducry zielte auf die drei Adern
-letzten und lachte dabei ironisch …
+Und auch Allan Mac Ducry zielte auf die drei Überraschten
+und lachte dabei ironisch …
 
-»Fände hoch!«
+»Hände hoch!«
 
 Roger stammelte:
 
@@ -1877,37 +1879,38 @@ Roger stammelte:
 
 Allan brüllte ihn an:
 
-»Wir wollen nur den Irrtum richtig stellen, div Schuft!!«
+»Wir wollen nur den Irrtum richtig stellen, du Schuft!!«
 
-Die Murvays standen wie gelähmt. Sie hatten nasse)
+Die Murvays standen wie gelähmt. Sie hatten noch
 genügend Kupferdraht bei sich. Und sie mußten auch die
 Knebel sich gefallen lassen … Es half nichts.
 
 <@pagebreak/>
 Ich war starr.
+
 Was … sollte das?! Harst und Mac schienen doch
 besser Bescheid zu wissen als ich.
 
 <h2>3. Kapitel.</h2>
 
-<h3>Negers Nagelfeile.</h3>
+<h3>Rogers Nagelfeile.</h3>
 
-… « -.- Es war eine ganz gewöhnliche Nagelfeile aus
+… Es war eine ganz gewöhnliche Nagelfeile aus
 Stahl, wie jeder sie kennt, vielleicht zehn Zentimeter lang,
 aber an der einen Seite hatte sie verschiedene schadhafte
-Stellen, sogenannte Zähne, ausgebrochene Läden.
+Stellen, sogenannte Zähne, ausgebrochene Lücken.
 
-— Diese Nagelfeile sollte eine Rolle spielen, die das ganze
+Diese Nagelfeile sollte eine Rolle spielen, die das ganze
 Gebäude von feinstem Lug und Trug zusammenfallen ließ. —
 
-As die drei Murvays derart »sicher gestellt« waren,
-heraushob Willen Mac wortlos den Felsen wieder beiseite, und
+Als die drei Murvays derart »sicher gestellt« waren,
+schob Allen Mac wortlos den Felsen wieder beiseite, und
 wir nahmen die drei zwischen uns, stiegen zum zweiten Mal
-in die uralten Gewölbe beimaß, allerdings recht leise. Den
+in die uralten Gewölbe hinab, allerdings recht leise. Den
 Murvays war angedroht worden, daß jedes Geräusch ihrerseits
-durchs eine Kugel erbarmungslos beantwortet würde,
+durch eine Kugel erbarmungslos beantwortet würde,
 
-Jetzt war die eiserne Für zu der Behausung der Irländer
+Jetzt war die eiserne Tür zu der Behausung der Irländer
 von innen versperrt.
 
 Harst klopfte,
@@ -1916,154 +1919,155 @@ Eine rauhe Stimme fragte von innen:
 
 »Wer ist dort«
 
-»Neger!« rief Harald …
+»Roger!« rief Harald …
 
-Die Für ging auf, und vor uns standen zwei der Ins
-stärker … John Lowell, ein älterer Mann, fehlte.
+Die Tür ging auf, und vor uns standen zwei der Irländer
+… John Lowell, ein älterer Mann, fehlte.
 
 Die beiden anderen stierten uns an und wichen zurück …
 
-»Guten Abend, meine Damen,« sagte Mac hövbhnisch,
-»Ihre Verkleidung ist recht gut … Die Bärte sind Gesicht
+»Guten Abend, meine Damen,« sagte Mac höhnisch,
+»Ihre Verkleidung ist recht gut … Die Bärte sind geschickt
 <@pagebreak/>
-angeklebt, und im Schatten merkt niemand den … Irr —
+angeklebt, und im Schatten merkt niemand den … 
 Irrtum …«
 
 Mit einem Schlage wurde auch mir nun alles klar.
+
 Harald benahm sich wenig höflich, und die Damen saßen
 mit gefesselten Händen am Tische.
 
-»Wo ist die dritte?« fragte er Neger und zog ihm den
+»Wo ist die dritte?« fragte er Roger und zog ihm den
 Knebel aus dem Munde.
 
-Neger erwiderte höhnisch: »Was haben Sie nun gewonnen
+Roger erwiderte höhnisch: »Was haben Sie nun gewonnen
 — nichts!! Ich gebe zu, wir haben Sie genarrt.«
 
-»Sehr nett von Ihnen … Sidney spielte Sohn Lowell,«
+»Sehr nett von Ihnen … Sidney spielte John Lowell,«
 meinte Harst und deute auf Sidney Murvays scharf gebügelte
-Leinenbeinkleider. »Du e fielen mir auf, Roger Murvay,
+Leinenbeinkleider. »*Die* fielen mir auf, Roger Murvay,
 denn die abgeschabte Jacke des angeblichen John paßte nicht
 recht dazu. Daß die drei »Iren« im Schatten saßen und
 das Lampenlicht mieden und daß nur »John« redete, war auch
-vielsagend genug … Ich hätte allerdings zuckten den seinen
+vielsagend genug … Ich hätte allerdings auch so den feinen
 Schwindel gemerkt.«
 
 »Wie ich,« lachte Mac vergnügt. »Wir sind doch vom
-Faß, Mr. Harst, und diese Kerle sind galgenreif — längst!
+Fach, Mr. Harst, und diese Kerle sind galgenreif — längst!
 Ich heiße zwar Ducry, bin aber in Wahrheit von der
 Londoner Polizei — Oberinspektor von Schottland Yard.«
 
 »Dachte ich mir schon,« nickte Harald. »Und weshalb
-kamen Sie nach Chanar«
+kamen Sie nach Chanar?«
 
 »Das ist eine lange Geschichte … — Erledigen wir
 erst mal hier diese Sache.«
 
-Harst schaute ihm prüfend an.
+Harst schaute ihn prüfend an.
 
 »Mir scheint, Sie sind doch noch nicht ganz im Bilde,
 Mr. Ducry.«
 
 »Oh doch! Die Murvays halten hier jemand gefangen.«
 
-»Jemand — hm … Fragen Sie doch: mal Roger.«
+»Jemand — hm … Fragen Sie doch mal Roger.«
 
 Roger schrie wütend: »Das ist heller Unsinn!! Gefangene?!
 Wo denn, wen denn?! Ihre Phantasie treibt
 <@pagebreak/>
 zu üppige Blüten, Mr. Harst, und zuletzt werden Sie
-Hereinfallen. nachts wird«
+Hereinfallen, nicht wir!«
 
 »Glauben Sie? Sie mögen ja verteufelt schlau sein,
 und Sie und Ihre Mutter mögen …«
 
-»-… Bitte, nur Stiefmutter…!«
+»… Bitte, nur Stiefmutter …!«
 
 »Nein, Mutter!« sagte Harst mit Nachdruck. »Sie,
-Neger, sind kein Aufsatz) — ebensowenig wie Ihre beiden
+Roger, sind kein Murvay — ebensowenig wie Ihre beiden
 Brüder.«
 
 Roger verlor sichtlich die Fassung.
 
-»Falls … das … ist albern,« stotterte er,
+»Das … das … ist albern,« stotterte er,
 
-»Wahrheit ist’s.! Ein ungeheuerlicher Schwindel hat
-Papier stattgefunden. Unaeheierlich Ut nicht einmal der richtige
-Ausdruck dafür, Ich werde Mitten zu gegebener Zeit weiteres
+»Wahrheit ist’s …! Ein ungeheuerlicher Schwindel hat
+hier stattgefunden. Ungeheuerlich ist nicht einmal der richtige
+Ausdruck dafür. Ich werde Ihnen zu gegebener Zeit weiteres
 erklären. Jetzt haben wir es zu eilig, denn eine Ihrer Frauen
 fehlt hier, sie könnte Dummheiten machen … — Wir werden
 Sie, Roger Murvay, mitnehmen. Die anderen werden hier
 eingesperrt. — Schraut und Mac, durchsucht ihnen schnell
 die Taschen, laßt ihnen nichts, was irgendwie als Instrument
-verwerten wäre. Au die verkleideten Damen werden
+zu verwerten wäre. Auch die verkleideten Damen werden
 sich das gefallen lassen müssen. Ich selbst …« er machte
-eine Pause und blickte Roger an — «— Hallo, Sie lächeln
-ja ist« änderte er die beabsichtigten Sätze. Weshalb lächeln
-Sie, Neger Murvay.«
+eine Pause und blickte Roger an — »— hallo, Sie lächeln
+ja?!« änderte er die beabsichtigten Sätze. »Weshalb lächeln
+Sie, Roger Murvay.«
 
-»Sie irren,« rief Neger finster. »Ich habe keinerlei
+»Sie irren,« rief Roger finster. »Ich habe keinerlei
 Grund vergnügt zu sein …«
 
 »So?! — Sie lächelten, und Sie tauschten einen besonderen
-Blick mit Ihren Brüdern.« Er sprach’s mit eigens
-eigentümlicher Ironie. Er trat noch näher an Roger heran …
+Blick mit Ihren Brüdern.« Er sprach’s mit eigentümlicher
+Ironie. Er trat noch näher an Roger heran …
 »Jeder Verbrecher macht Dummheiten … Sie auch. Ihr
-Lächeln galt meiner scheinbaren Begriffsstutzigkeit Über Ihr
+Lächeln galt meiner scheinbaren Begriffsstutzigkeit. Aber Ihr
 Triumph war verfrüht. Dazu bin ich doch ein zu alter
-Praktikus. — Nichts wahr, mein Alter,« wandte er sich an
+Praktikus. — Nicht wahr, mein Alter,« wandte er sich an
 mich, und die Worte galten gleichzeitig Mac Ducry, »auch
 <@pagebreak/>
 du hast dir gesagt, daß dies Gewölbe oder der Vorraum,
-in dem die Treppe zu dem Felsigen sich befindet, von einen
+in dem die Treppe zu dem Felsloch sich befindet, noch einen
 zweiten Ausgang haben muß, — wie wäre sonst Sidney
 Murvay nach oben gekommen?! Wir standen ja oben
 unweit des Felsens, und der war wieder über das Loch geschoben
 worden. Also muß ein zweiter Weg nach draußen
 vorhanden sein.«
 
-»Gewiß,« Mitte ich kleinlaut, denn hieran hatte ich nicht
+»Gewiß,« nickte ich kleinlaut, denn hieran hatte ich nicht
 gedacht, und ich schämte mich.
 
-Roger Murvyvays Augen schleuderten Blitze tödlichen
-Hasses … Er hatte aus diesen zweiten Ausgang gebaut,
-er hatte gehofft, daß seine Brüder uns irgendwie Aufschub«-
-lich machen würden, nachdem sie das Gewölbe verlassen fragten.
+Roger Murvays Augen schleuderten Blitze tödlichen
+Hasses … Er hatte auf diesen zweiten Ausgang gebaut,
+er hatte gehofft, daß seine Brüder uns irgendwie unschädlich
+machen würden, nachdem sie das Gewölbe verlassen hatten.
 
 Er preßte heiser hervor: »Suchen Sie doch!! Und der
-Satan möge Ihnen helfen, Sie werden nichts sinden!’
+Satan möge Ihnen helfen, Sie werden nichts finden!«
 
-»A, wie klug Sie sind, Neger Murvay, — nein, nicht
+»Ach, wie klug Sie sind, Roger Murvay, — nein, nicht
 Roger Murvay, sondern Roger Brax, denn Ihre Mutter
-war mit Wann Brax verheiratet, bevor sie als Witwe
+war mit Jonny Brax verheiratet, bevor sie als Witwe
 Jonathan Murvay heiratete. Weshalb schwindet so plötzlich
-das Rot der zwecklosen Wut von Ihren Wangen?! West«
-halb so erdfahl, Roger Brax?! Ja, Barclay hat mir die
-Familiengeschichte der Murvays ziemlich) genau erzählt.
-Über — davon später …«
+das Rot der zwecklosen Wut von Ihren Wangen?! Weshalb
+so erdfahl, Roger Brax?! Ja, Barclay hat mir die
+Familiengeschichte der Murvays ziemlich genau erzählt.
+Aber — davon später …«
 
 Rogers völlig verzerrtes Gesicht verzog sich zu einem abscheulichen
-Grinsen. »Suchen Sie nur, Sie GSuperschlauer!!’
+Grinsen. »Suchen Sie nur, Sie Superschlauer!!«
 
-»Das werde ich … Und ich werde irgendwo noch
-einem schmalen Schlitz in diesen leidlich?) sauber geglätteten
-Felswänden mich umkehren, — einem schmalen Schiff, Roger
-Brax, Sie verstehen … Sie sind in der Tot ein gerissener
-Kunde, Vorhin dort oben ließen Sie etwas fallen, als
-Sie die Hände Schrecken. Das Etwas hatten Sie im rechten
-Ärmelaufschlag tiefen. Ich trage meine Nagelfeile stets
-in der Westentasche. Wer eine Maskierte mit so moerkwürdigen
+»Das werde ich … Und ich werde irgendwo nach
+einem schmalen Schlitz in diesen leidlich sauber geglätteten
+Felswänden mich umsehen, — einem schmalen Schlitz, Roger
+Brax, Sie verstehen … Sie sind in der Tat ein gerissener
+Kunde. Vorhin dort oben ließen Sie etwas fallen, als
+Sie die Hände hochreckten. Das Etwas hatten Sie im rechten
+Ärmelaufschlag stecken. Ich trage meine Nagelfeile stets
+in der Westentasche. Wer eine Nagelfeile mit so merkwürdigen
 <@pagebreak/>
 Zähnen im Ärmelaufschlag trägt und sie dann
 fallen läßt, damit die noch freie Frau draußen sie fände,
 der muß sich nicht wundern, wenn ich diese Feile für einen
 Schlüssel halte — zu dem zweiten Ausgang hier …«
 
-Roger Brax biß sie so fest in die Unterlippe, daß
+Roger Brax biß sich so fest in die Unterlippe, daß
 ein Tropfen Blut hervordrang. Aber er schwieg.
 
 »Ja, die noch freie Dame da oben, die uns aus einem
 Versteck beobachtet, sollte die Feile finden … Schade, ich
-hob sie heimlich auf. Also — Büchsen wir nach dem Schloß.«
+hob sie heimlich auf. Also — suchen wir nach dem Schloß.«
 
 Die hier versammelten fünf Mitwisser und Mitschuldigen
 hatten die Blicke zu Boden gerichtet. Sie erkannten wohl,
@@ -2071,7 +2075,7 @@ daß die Katastrophe nahe bevorstand.
 
 Harald faßte in die weite Tasche seines Inderkittels und
 brachte die Nagelfeile zum Vorschein. »Allerhand Ächtung
-vor so viel Gerissenheit …, « Er hielt die Feile hoch. »So
+vor so viel Gerissenheit …« Er hielt die Feile hoch. »So
 ein unscheinbares Ding … Und wieder griff er in die
 Tasche … Unter den halb geschlossenen Lidern hervor flog
 ein Blick zu der halb offenen Eisentür … Ich sah es, —
@@ -2079,82 +2083,82 @@ sah dort, wo es im Vorraum dunkel war, etwas wie
 einen hellen Schatten …
 
 Dann knallte schon Harsts Schuß. Im Vorraum ein
-Schrei, -« und Allan Mac schnellte sie; wie ein Pariser
+Schrei, — und Allan Mac schnellte sich wie ein Panther
 dorthin und zerrte eine gleichfalls im Männeranzug steckende
-Frau herein, deren rechte Fand stark blutete.
+Frau herein, deren rechte Hand stark blutete.
 
 Es war die uns bisher fehlende dritte Dame,
 
-»Frau Klar,« meinte Harald, »Sie hätten oben bleiben
+»Frau Brax,« meinte Harald, »Sie hätten oben bleiben
 sollen … Entschuldigen Sie, ich mußte Ihnen die Pistole
 aus der Hand schießen. Schraut, verbinde ihr die Hand,«
 
-»Närrin!« fauchte Roger die Frau an …
+»Närrin!« fauchte Roger die Frau an.
 
-Sie war totenbleich und stotterte: »Ich glaubte nichts
-zu handeln …
+Sie war totenbleich und stotterte: »Ich glaubte richtig
+zu handeln …«
 
 »und wollten uns erschießen,« sagte Harald. »Ihr seid
-mir ja ein nettes Konsortium!«
+mir ja ein nettes Konsortium!!«
 
 <@pagebreak/>
-Dann begann er die Suche nach dem schmalen Schritt
-für den Schlüssel. Ader in diesem rissigen, wenn auch
+Dann begann er die Suche nach dem schmalen Schlitz
+für den Schlüssel. Aber in diesem rissigen, wenn auch
 geglätteten Sandstein eine so winzige Öffnung zu finden,
-war!schwerck Er leuchtete mit der Karbidlaterne die Wände
+war schwer. Er leuchtete mit der Karbidlaterne die Wände
 ab … Plötzlich drehte er sich. »Man sollte stets mehr
 mit dem Kopf als mit den Augen suchen … Es erscheint
 Mir gewiß, daß dieser zweite Ausgang mit dem Turme in
-Verbindung steht. Als kommt nur die Südwand dort in
+Verbindung steht. Also kommt nur die Südwand dort in
 Betracht … Nicht wahr, Roger Brax?!«
 
 Unsere Augen glitten über jene Wand hin, hafteten
 aber einen Moment länger auf einer bestimmten Stelle in der
-rechten Co.
+rechten Ecke.
 
 »Danke,« sagte Harst und schritt dorthin. »Unwillkürlich
 verrät jeder sich … Sie auch, Roger Brax!«
 
 Er beleuchtete den Sandstein und fuhr mit dem Finger
-in einer wenig auffälligen Rille entlang. »Hier ist die Jung,
-und hier das EdqlüsselloH …« Er steckte die Nagelfeile
+in einer wenig auffälligen Rille entlang. »Hier ist die Tür,
+und hier das Schlüsselloch …« Er steckte die Nagelfeile
 mit dem spitzen Ende hinein. Dann drehte er sie, ein leises
 Knacken, und er drückte die Steintür nach außen auf,
 leuchtete in den Stollen hinein und betrat ihn vorsichtig.
-Seine Schritte verklangen. Nachts wenigen Minuten war er
+Seine Schritte verklangen. Nach wenigen Minuten war er
 wieder bei uns.
 
-»Ehen in der Turmruine gibt es eine ähnliche Auge
-nach Weste?! zu mit dem gleichen Schloß,« erklärte er und
+»Oben in der Turmruine gibt es eine ähnliche Tür
+nach Westen zu mit dem gleichen Schloß,« erklärte er und
 versperrte die Sandsteintür. »Nun die Leibesvisitation …
 Es ist doch immerhin möglich, daß noch eine solche Nagelfeile
-existiert, die etwa dem Schlüssel eines Male-Schlosses
+existiert, die etwa dem Schlüssel eines Yale-Schlosses<@refnote 1/>
 entspricht …«
 
 Wir fanden nichts. Trotzdem wurden die sechs Herrschaften
-zur Vorsicht auf die Betten und auf Stühle festgebunden,
+zur Vorsicht auf die Betten und auf Stühle festgebunden.
 Es gab hier drei Betten. Harst sah sich genauer
-in diesem Kerker um, Er blätterte in den Büchern, die ie ]
+in diesem Kerker um. Er blätterte in den Büchern, die auf
 einem kleinen Schranke standen. Es waren Romane, wissenschaftliche
 <@pagebreak/>
-Werke und sehr viel Neiseschwderungen. Er trat
-kann auf den Stuhl zu, auf dem der Erreiche Roger hockte,
+Werke und sehr viel Reiseschilderungen. Er trat
+dann auf den Stuhl zu, auf dem der bleiche Roger hockte,
 
 »Wo sind die drei Gefangenen?« fragte er gleichmütig,
 
-»Suchen Sie sie! Kiste Roger …
+»Suchen Sie sie!« zischte Roger …
 
-»Es u-Sie das vielleicht sehr umständlich. Die drei hausten
-hier. Sie haben sie aus Furcht vor uns anderswohin geh
-siehst. Vielleicht in die Keller der Burg auf der Nordinsel
+»Es wäre das vielleicht sehr umständlich. Die drei hausten
+hier. Sie haben sie aus Furcht vor uns anderswohin geschafft.
+Vielleicht in die Keller der Burg auf der Nordinsel
 …«
 
-»Nun denn, — ja — —!?!/ Was hätte das Leugnen
+»Nun denn, — ja — —!! Was hätte das Leugnen
 noch für einen Zweck?! Sie befinden sich im Mittelbau in
 einem Keller, zu dem ebenfalls der Nagelfeilenschlüssel paßt.«
 
 Harald lächelte sanft. »Ihre Geschwätzigkeit setzt mich
-in Erstaunen … Ich) werde mich danach richten …«
+in Erstaunen … Ich werde mich danach richten …«
 
 Er winkte uns. Wir verschlossen die eiserne Tür und
 ließen die sechs im Dunkeln zurück, schoben den Felsblock über
@@ -2163,62 +2167,61 @@ das Ruderboot,
 
 <h2>8. Kapitel.</h2>
 
-<h3>Die Mogul Burg.</h3>
+<h3>Die Mogul-Burg.</h3>
 
 Allan Mac Ducry ruderte und erzählte …
 
-»Schon seit Jahren tauchten auf dem Diamant:markt
-In Knisterten und London Steine auf, die aus Diebstählen
-in indischen Schlössern, Müssen und Privathäusern herrührten.
-Scotland Ward vermutete schließlich, daß hier in
-Indien irgendwo ein Trostvoller sagen müsse, der gute Vor«
-Windungen mit England hatte. Vor drei Monaten, nachdem
-ein geringer Verdacht gegen Jonathan Ausgang auch anders
-weit Bestätigung gefunden hatte, schrie man mich hierher,
-
+»Schon seit Jahren tauchten auf dem Diamantenmarkt
+In Amsterdam und London Steine auf, die aus Diebstählen
+in indischen Schlössern, Museen und Privathäusern herrührten.
+Scotland Yard vermutete schließlich, daß hier in
+Indien irgendwo ein Großhehler sitzen müsse, der gute Verbindungen
+mit England hatte. Vor drei Monaten, nachdem
+ein geringer Verdacht gegen Jonathan Murvay auch anderweit
+Bestätigung gefunden hatte, schickte man mich hierher.
 <@pagebreak/>
 Indische Kollegen eigneten sich für diese Nachforschungen nicht,
 denn Murvays Ruf war tadellos, und die Kollegen hätten
 sich bluffen lassen. So kam ich zu den Murvays als Chauffeur.
-Ich konnte Federn nichts ermitteln, Der Alte war zu
-vorsichtig. Über zweierlei gewann ich doch: Marrys Herz
+Ich konnte jedoch nichts ermitteln. Der Alte war zu
+vorsichtig. Aber zweierlei gewann ich doch: Marrys Herz
 und dann die Überzeugung, daß die Murvays zumindest
-andere sehr anrüchige ’ Dinge zu verheimlichen hätten. Die
+andere sehr anrüchige Dinge zu verheimlichen hätten. Die
 regelmäßigen Wochenendausflüge mit dem eleganten Wohnschiff,
 der ewige Zank und Streit im Hause, die Frechheit
 der Söhne und Schwiegertöchter dem Alten gegenüber
-und dann Frau Drohung heuchlerische Freundlichkeit gaben
+und dann Frau Evelyns heuchlerische Freundlichkeit gaben
 zu denken. Einmal konnte ich die Herrschaften belauschen.
 Was ich da hörte, veranlaßte mich jetzt, dem Hausboot zu
 folgen. Beinahe hätten die Schurken mich erwürgt, als sie
 mich durch das Fenster hineinzerrten. Nachher waren sie
 höflicher und suchten mir einzureden, die drei Irländer, die
-sie mir zeigten, wären ihr ganzes Geheimnis. Ader ich
-merkte den Schwindel, schwieg jedoch Ruf den Gedanken,
+sie mir zeigten, wären ihr ganzes Geheimnis. Aber ich
+merkte den Schwindel, schwieg jedoch. Auf den Gedanken,
 daß die Schurken Jonathan Murvays Söhne aus erster
-Ehe hier eingesperrt hätten, Rani ich freilich nicht.«
+Ehe hier eingesperrt hätten, kam ich freilich nicht.«
 
-Das schlanke Boot näherte sich der Verduftet. Harald
-sagte ehrlich: »Nu ich erkannte den Kern der Dinge erst
+Das schlanke Boot näherte sich der Nordinsel. Harald
+sagte ehrlich: »Auch ich erkannte den Kern der Dinge erst
 vorhin, als wir das Wohnschiff kaperten und dabei ein
-paar Worte Jonathans zuschnappten. Schraut und Piet
+paar Worte Jonathans aufschnappten. Schraut und Piet
 legten ihnen weiter keine Bedeutung bei, denn der Alte
-stöhnte nur weinerlich: »Meine Kinder — in dem Locde!!’
-Mir ging da ein Litt auf. Nun wissen wir auf, wodurch
+stöhnte nur weinerlich: »Meine Kinder — in dem Loche!!«
+Mir ging da ein Licht auf. Nun wissen wir auf, wodurch
 seine zweite Frau und deren dreiköpfige Brut den Mann
 So fest in den Klauen hatten: Sie wußten, daß er Hehler
-war! Trotzdem bleibt es geradezu eine grenzenlose Der«
+war! Trotzdem bleibt es geradezu eine grenzenlose 
 Verworfenheit, daß er es duldete, wie man seine Söhne gleich
 wilden Tieren einkerkerte. — Kennen Sie übrigens die
-Art, wie dieser Austausch der Persönlichkeiten geschah? Weit
+Art, wie dieser Austausch der Persönlichkeiten geschah? Mein
 <@pagebreak/>
 Freund Barclay erzählte mir, daß Jonathan seine vier Kinder
 schon ganz jung nach London schickte, wo sie erzogen werden
-sollen. Marry kam in ein Töchterpensionat nach Kerl,
-die Sohne zu ihrer Tante Evelyn Brax nach) London,
+sollten. Marry kam in ein Töchterpensionat nach Kent,
+die Söhne zu ihrer Tante Evelyn Brax nach London.
 Marry sah ihre Brüder erst nach acht Jahren hier wieder,
 und da waren es nicht mehr ihre Brüder, sondern ihre
-Vettern. Sie ahnt die Wahrheit noch immer nicht, Weiß
+Vettern. Sie ahnt die Wahrheit noch immer nicht. Weiß
 Gott, was man ihr vorgelogen hat. Wüßte sie die Wahrheit,
 so würde sie uns zweifellos eingeweiht haben.«
 
@@ -2226,70 +2229,70 @@ Wir landeten an derselben Stelle, wo am Tage das
 Wohnschiff gelegen hatte.
 
 Harald sprang als erster an Land. Wir zogen das
-Boot kroch auf das Ufer und kletterten zur Burgruine empor,
+Boot hoch auf das Ufer und kletterten zur Burgruine empor,
 Harald immer voran, immer äußerstes Mißtrauen verratend,
 immer den ausgetretenen Treppenpfad ableuchtend,
 
-Der Mond stand ziemlich) hoch. Es war hell wie beim
+Der Mond stand ziemlich hoch. Es war hell wie beim
 Morgendämmern. Mac fragte nach einer Weile: »Befürchten
-Sie Ingenieur Schurkerei, Harst?«
+Sie irgendeine Schurkerei, Harst?«
 
 »Ja. Rogers Bereitwilligkeit, das neue Versteck der
 Ärmsten anzugeben, war zu verfänglich. Wir müssen uns
 sehr in acht nehmen. Stammt dieser Steinkasten von Burg
-wirklich) aus der Mogulzeit, so können in dem Gemäuer
-allerlei teuflische Einrichtungen vorhanden sein. Diese Herr«
-schaffen von damals hatten besonderes Gesäxlck, unliebsame
+wirklich aus der Mogulzeit, so können in dem Gemäuer
+allerlei teuflische Einrichtungen vorhanden sein. Diese Herrschaften
+von damals hatten besonderes Geschick, unliebsame
 Freunde verschwinden zu lassen. Die Zeit der Mogulkaiser
-gleicht der italienischen Borgia-Loche. Die Borgias mordeten
+gleicht der italienischen Borgia-Epoche. Die Borgias mordeten
 mit Gift, die Mogulkaiser durch Tiger, Schlangen und
-Verließe. Deshalb habe im auch diesen Bevorstehen mitgenommen.
+Verließe. Deshalb habe ich auch diesen Bootshaken mitgenommen.
 Ich werde droben jeden Fußbreit Boden abtasten
 und zwar mit gehörigem Druck.«
 
-Wir hatten die gänzlich verfallene Terrasse erreicht. Ecke
-war ein ungemütlicher Ort, Zwischen den geborstenen Steinplatten
-bhuschten!schwarze Skorpione und Schlangen in ihre
+Wir hatten die gänzlich verfallene Terrasse erreicht. Es
+war ein ungemütlicher Ort. Zwischen den geborstenen Steinplatten
+huschten schwarze Skorpione und Schlangen in ihre
 <@pagebreak/>
-Schlupfwinkel zurück. Ich zählte allein drei Kobras. van
+Schlupfwinkel zurück. Ich zählte allein drei Kobras. Man
 hatte diese Viecher fraglos absichtlich hergebracht.
 
 Das Mitteltor der Burg war nur noch eine kahle
-Öffnung, die von gräßlichen nahen Götzenstatuen flankiert
-wurde, Harst leuchtete in die Vorhalle hinein. Ein Gelder
+Öffnung, die von gräßlichen nackten Götzenstatuen flankiert
+wurde. Harst leuchtete in die Vorhalle hinein. Ein gelber
 langer Tierkörper fuhr blitzschnell zur Seite …
 
 »Ein Tiger,« flüsterte Mac. »Wenn wir nur die Büchsen
 der Bande mitgenommen hätten!«
 
 Harald zauderte. »Ja, wir wagen viel … Aber ein
-Schnellfeuer aus unseren Pistolen genügt wohl auch Wir
+Schnellfeuer aus unseren Pistolen genügt wohl auch. Wir
 müssen zu Ende kommen …«
 
 Die Steinplatten der Vorhalle zeigten ein Muster in
 gelb, schwarz und weiß und waren gut erhalten.
 
-Harst!stieß den Vorstrafen auf die erste Platte.
+Harst stieß den Bootshaken auf die erste Platte.
 
-»Tretet genau in meine Spuren,«!«
+»Tretet genau in meine Spuren …!«
 
 Wir hatten die Pistolen bereit. Schritt für Schritt
-näherten wir uns der Rückwand. Nach: fünf Minuten standen
+näherten wir uns der Rückwand. Nach fünf Minuten standen
 wir vor der Kellertreppe.
 
 Das unheimliche Schweigen in den kahlen Räumen
-war bedeutend. Mac sagte leise: »Es geht auf die Nerven!«
+war bedrückend. Mac sagte leise: »Es geht auf die Nerven!«
 
-Harst betastete die Stufen. Wir kamen in einen ge
-wölbten Gang, der mehrere Türen aus grün angelaufenem
-Kupfer zeigte, — Türen von hohem Altertumswert, Hie!
-war der Boden mit länglichen Sandsteinplatten belegt, Nirgends
-auch nur der geringste Staub oder Schmutz
+Harst betastete die Stufen. Wir kamen in einen gewölbten
+Gang, der mehrere Türen aus grün angelaufenem
+Kupfer zeigte, — Türen von hohem Altertumswert, Hier
+war der Boden mit länglichen Sandsteinplatten belegt. Nirgends
+auch nur der geringste Staub oder Schmutz.
 
 »Sehr sauber gefegt — schon verdächtig!« meinte Harald
 und tastete Platte für Platte ab,
 
-Die letzte Für rechts war am Schloß sauber geputzt, Man
+Die letzte Tür rechts war am Schloß sauber geputzt. Man
 sah, daß hier ein modernes Schloß von innen angenietet war.
 
 Harst klopfte. Eine Stimme erklang:
@@ -2304,44 +2307,45 @@ Stille …
 Ich beschaute mir das Schlüsselloch. Es war schmal und
 für die Nagelfeile bestimmt.
 
-Die Stimme rief wieder, jetzt ganz nahte:
+Die Stimme rief wieder, jetzt ganz nahe:
 
 »Wer sind Sie?!«
 
 »Ein Engländer und zwei Deutsche … Die Braxs
-haben wir eingesperrt, — Wissen Sie, ob hier irgendwo eine
+haben wir eingesperrt. — Wissen Sie, ob hier irgendwo eine
 Falltür oder dergleichen vorhanden?«
 
-»Nein … Über wenn Sie den Schlüssel nicht haben,
+»Nein … Aber wenn Sie den Schlüssel nicht haben,
 werden Sie …«
 
-… den Haben wir …!« Harst schob die Nagelfeile
+»… den Haben wir …!« Harst schob die Nagelfeile
 in das Schlüsselloch.
 
-Dr hörte ich hinter uns hastende Schritte und Haus
-Herdes Atmen …
+Da hörte ich hinter uns hastende Schritte und keuchendes
+Atmen …
 
 »Achtung!«
 
-Ich riß die Pistole kam …
+Ich riß die Pistole hoch …
 
 Aus dem Dunkel taumelte eine Gestalt in Macs ausgebreitete
 Arme, und Marry, die von Wasser triefte, die
-nN2chG ihren Alltagsanzug trug, schrie nach Luft ringend;:
+noch ihren Schlafanzug trug, schrie nach Luft ringend:
 
-»Nix? aufschließen — — um Gottes willen …
+»Nicht aufschließen — — um Gottes willen …!«
 
 Dann verlor sie das Bewußtsein.
 
-<h2>8. Kapitel.</h2>
+<h2>5. Kapitel.</h2>
 
-<h3>Der Beerdigte Hase.</h3>
+<h3>Der gespickte Hase.</h3>
 
-Haar preßte das liebe Mädel an sich.
-»Ich habe Whisky hier.« jagte im rast), Aus der umständlichen
-Tage meiner schmierigen Kulihosen holte ich eine
-Buddel mit Alumintümversch!tiß hervor. Während wir Marry
-so ins Leben zurückliefen, wobei Mac sich offenbar von
+Mac preßte das liebe Mädel an sich.
+
+»Ich habe Whisky hier.« sagte ich rasch. Aus der unergründlichen
+Tasche meiner schmierigen Kulihosen holte ich eine
+Buddel mit Aluminiumverschluß hervor. Während wir Marry
+so ins Leben zurückriefen, wobei Mac sich offenbar von
 herzhaften Küssen am meisten versprach, kniete Harald am
 <@pagebreak/>
 Boden und stocherte mit dem Taschenmesser in den Fugen
@@ -2352,63 +2356,64 @@ brüllte hinter der Tür eine klare Stimme:
 
 »Sind Sie noch da?«
 
-— »Gewiß …!« Harst erhob sie. Die Nagelfeile steckte
+»Gewiß …!« Harst erhob sich. Die Nagelfeile steckte
 noch im Schloß. Marry hatte nur Augen für dieses Schloß.
 »Nicht aufschließen,« flüsterte sie … »Der … der gespickte
-Hase ist unter uns …
+Hase ist unter uns …«
 
 Mac streichelte ihr die Wangen. »Marry-Maus, was
 Redest du da?! Bist du etwa schwimmend hierhergekommen?«
-— »W …’ Sie erschauerte … »Es war entsetzlich — … Im
+
+»Ja …« Sie erschauerte … »Es war entsetzlich — … Im
 Fluß waren die Krokodile hinter mir her … Aber ich mußte
-euch warnen …
+euch warnen …«
 
 Harald drückte ihr die Händchen.
 
-»Sind, im habe es schon herausgefunden … Unter
-der Tür geht eine Stahlstange durch die Schwelle …
+»Kind, ich habe es schon herausgefunden … Unter
+der Tür geht eine Stahlstange durch die Schwelle …«
 
-»Ja … ja … Vater Hat’s mir gesagt … Vater wollte
-nicht, daß ’Sie auf die Spitzen fallen …«
+»Ja … ja … Vater hat’s mir gesagt … Vater wollte
+nicht, daß Sie auf die Spitzen fallen …«
 
-»Die Platten kippen also naht unten, wenn man die
-Für aufschließt … 7«
+»Die Platten kippen also nach unten, wenn man die
+Tür aufschließt … 7«
 
-»Nur dann, wenn man nicht vorher das zweite Schlüssel«
-floh benutzt … Da ist 8 …«
+»Nur dann, wenn man nicht vorher das zweite Schlüsselloch
+benutzt … Da ist es …«
 
 Sie deutete nach links, wo in dem Gestein neben der
-Für eine Vertiefung zu sehen war.
+Tür eine Vertiefung zu sehen war.
 
 Noch immer hielt Mac sie fest umschlungen, und in
-seinen Augen lag ein Auftrag von Stolz, als er hinzufügte:
+seinen Augen lag ein Ausdruck von Stolz, als er hinzufügte:
 »Du bist eine kleine Heldin, mein Liebling, und niemals
 werde ich vergessen, was du für uns, für mich gewagt hast.«
 
-Harald zog die »Nagelfeile bestatten aus dem verhängnisvollen
+Harald zog die Nagelfeile behutsam aus dem verhängnisvollen
 Schloß und blickte Marry still an. »Kind, ich brauche
-wohl kaum. den Worten Macs etwas hinzuzufügen,« und
+wohl kaum den Worten Macs etwas hinzuzufügen,« und
 in seinen Blicken leuchtete die reine tiefe Zärtlichkeit eines
 <@pagebreak/>
-Mannes, dem das Schicksal einst das Liebste genommen hat:
-»Nur eine Frage: Befreiten Sie sich ganz allein aus des
+Mannes, dem das Schicksal einst das Liebste genommen hat.
+»Nur eine Frage: Befreiten Sie sich ganz allein aus der
 Kammer des Hausbootes?«
 
-Sie lächelte spizbübisls: »Es« war ja so leicht … Die
+Sie lächelte spitzbübisch: »Es war ja so leicht … Die
 Kammer hatte ja zwei Türen, vor der zweiten lehnte nur
 das Reservesteuer.« Dann wurde sie wieder ernst. »Mir
-war so furchtbar Haus zumute in meiner Einsamkeit …
-Und als mir dann einfiel, daß Neger am Tage gesagt
-hatte, der geknickte Hase würde Ihnen wohl schlecht Heu
-kommen, wenn’s hart auf hart käme, da schlich ich zu den
+war so furchtbar bang zumute in meiner Einsamkeit …
+Und als mir dann einfiel, daß Roger am Tage gesagt
+hatte, der gespickte Hase würde Ihnen wohl schlecht bekommen,
+wenn’s hart auf hart käme, da schlich ich zu den
 Eltern in die Kabine und beschwor den Vater, nicht zu dulden,
 daß der Name Murvay mit Blut befleckt würde, und da
 warnte er mich und gestand mir ein, daß unter diesen
-Platten hier vor dieser Tür ein Überließ läge, dessen Wochen
-mit verpesteten Lanzen rasch aus der Mogulzeit gesorgt sei,
+Platten hier vor dieser Tür ein Verließ läge, dessen Boden
+mit verrosteten Lanzen noch aus der Mogulzeit gespickt sei,
 und in den Lanzen hingen noch Reste von Skeletten … Ich
 sprang halb besinnungslos vor Grauen in den Fluß und
-gewann hierher. Ich fieberte, ich betete, Gott möge mir’s
+schwamm hierher. Ich fieberte, ich betete, Gott möge mir’s
 vergönnen, das Entsetzliche zu verhindern.«
 
 Mac streichelte sie wieder, und Harst nickte ihr zu,
@@ -2418,48 +2423,46 @@ seine Hand war merkwürdig unruhig, und vielleicht …
 vielleicht hat er damals Allan Mac Ducry beneidet, der
 Marry abermals heiß und innig küßte.
 
-Ins er den seltsamen Schlüssel in dem zweiten Schloß
-zweimal umgedr&chßt hatte, bückte er sich und beleuchtete diq
+Als er den seltsamen Schlüssel in dem zweiten Schloß
+zweimal umgedreht hatte, bückte er sich und beleuchtete die
 untere Kante der Tür, erhob sich darauf und öffnete die
-Für,
+Tür,
 
 Drei Männer mit bleichen Gesichtern, die frisch rasiert
-waren, — drei Männer in zerknitterten Anzügen mit Klubsesseln
+waren, — drei Männer in zerknitterten Anzügen mit Stahlfesseln
 an den Handgelenken, die kurze Verbindungsketten
 <@pagebreak/>
 hatten, standen im Lichte unserer Lampen und blinzelten geblendet
 mit den Augen,
 
-»Sei tapfer, Liebling,« sagte Mac ganz laut, »Piet
-da sind dumme leiblichen Brüder …«
+»Sei tapfer, Liebling,« sagte Mac ganz laut. »Dies
+da sind deine leiblichen Brüder …«
 
 Marry entwand sich seinen Armen … Mit einem förmlichen
 Jauchzen warf sie sich dem einen an die Brust …
 
-»Sidney, Sidney, — dich erkenne im …! Sidney, du
+»Sidney, Sidney, — dich erkenne ich …! Sidney, du
 bist mein Spielkamerad von einst — — weißt du noch«?! Oh
-—y» — die Schurken, die Schurken!! Mir logen sie vor, die
+— — die Schurken, die Schurken!! Mir logen sie vor, die
 Gefangenen seien Leute, die Vater ins Verderben stürzen
-unten! Und zuerst sagten sie, es seien politische Flucht
-
-geh’
+könnten! Und zuerst sagten sie, es seien politische Flüchtlinge!«
 
 Die drei echten Murvays küßten ihr Schwesterlein ab,
 drückten uns immer wieder die Hände … Sie besaßen wirklich
-eine gewisse Ähnlichen mit den Verbrechern, — die wir
+eine gewisse Ähnlichkeit mit den Verbrechern, die wir
 nun auf der Südinsel sicher eingesperrt hatten und die
 dort mit ihren Frauen auch bleiben sollten, bis die Polizei
-aus Thema: sie abholte. Mochten sie getrost die zwei Tags
+aus Chanar sie abholte. Mochten sie getrost die zwei Tage
 hungern, es würde ihnen nicht schaden, meinte Mac mit
 eiserner Miene.
 
 Sie ruderten wir denn zur Südinsel, nur um unser Floß
-zu holen. Marry zeigte uns die Stelle, wo in dem Wasserratten
+zu holen. Marry zeigte uns die Stelle, wo in dem Wassergitter
 sich eine Tür befand.
 
-Es war kurz nur« zwei Uhr morgens, als wir Das
-Wohnschiff erreichten. Ruf Deck unter dem Sonnensegel lag
-Piet im Bordstuhl, neben sie zwei Flaschen Whisky, total
+Es war kurz nach zwei Uhr morgens, als wir Das
+Wohnschiff erreichten. Auf Deck unter dem Sonnensegel lag
+Piet im Bordstuhl, neben sich zwei Flaschen Whisky, total
 betrunken. Die Kabine, wo wir Evelyn und Jonathan gefesselt
 untergebracht gehabt hatten, war leer. Umgeworfene
 Stühle und anderes deuteten auf einen Kampf zwischen
@@ -2468,37 +2471,38 @@ vermuten, daß der alte Mann sein Weib in den Fluß geworfen
 hatte und ihr nachgesprungen war. Die Krokodile
 <@pagebreak/>
 Hatten für das Übrige gesorgt. Das Ehepaar blieb verschwunden.
--
+—
 
 Als zwei Tage später eine Polizeibarkasse den wundervollen
 See der Träume im strahlenden Morgensonnenschein
-durchquerte und am Wasserratten der Südinsel stoppte, halten
+durchquerte und am Wassergitter der Südinsel stoppte, sahen
 wir auf dem Wasser zwischen den häßlichen Schnauzen der
-zahllosen Bestien offenstand Möbelstücke treiben: Stühle,
+zahllosen Bestien allerhand Möbelstücke treiben: Stühle,
 Tische, einen Schrank, Bretter …
 
 Die Eingesperrten waren doch ins Freie gelangt, hatten
 ein Floß aus diesen Gegenständen gebaut und versucht, den
 gefährlichen Gürtel auf diese Weise zu überwinden. Das
-Floß hatte wohl die Last von sechs Deutschen nicht g&
-tragen, vielleicht hatten die Krokodile auch einen Angriff
+Floß hatte wohl die Last von sechs Menschen nicht getragen,
+vielleicht hatten die Krokodile auch einen Angriff
 gewagt. Jedenfalls: Das Zuchthaus sah diese sechs niemals
-in seinen Mauern, und das einzige, was wir von ihnen noch)
-ausrichten, waren zwei Damenstrohhüte. — —
+in seinen Mauern, und das einzige, was wir von ihnen noch
+auffischten, waren zwei Damenstrohhüte. — —
 
 Wenn in Nächten reger Träume meine Phantasie mir
 das Bild jenes zauberhaften Gewässers mit den hellen
 Felsen, den grünen Palmen und den romantischen Inseln
-zeigt, sich 12 ich stets die stille Sehnsucht nach dem hagere
-Umweg« ist Dscham da Wanisi wie das Sehnen nach einer
-Fernen, fernen Geliebten,
+zeigt, fühle ich stets die stille Sehnsucht nach dem sagenumwogenen
+Dscham da Wanisi wie das Sehnen nach einer
+fernen, fernen Geliebten,
 
 Harst spricht nie von diesem See. Wenn ein Brief
-von Marry Mac Ducry eintrifft, ist er den ganzen Lag
-Ei und insichgekehrt. Ihm bedeutete dieses- Abenteuer mehr
-als mir: Einen Herzschuß auf ein Verunglückt, das Marry
+von Marry Mac Ducry eintrifft, ist er den ganzen Tag
+still und insichgekehrt. Ihm bedeutete dieses Abenteuer mehr
+als mir: Einen Verzicht auf ein Traumglück, das Marry
 Hieß.
 
-Ha bitter Band:
-»Castell Mordgier.«
+<#import "*/harst.ftl" as harst>
+
+<@harst.naechsterband band="Castell Mondalar."/>
 
