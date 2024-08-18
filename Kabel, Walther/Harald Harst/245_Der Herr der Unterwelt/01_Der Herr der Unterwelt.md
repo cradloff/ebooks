@@ -191,7 +191,7 @@ blieb er aber?!«
 
 »Hm, du hast ganz recht … Das ist merkwürdig …«
 
-»O nein, das ist verblüffend, mein Alter … Spuren,
+»O nein, das ist verblüffend, mein Alter … Spuren
 im Schnee erzählen dem Kenner sehr logische Geschichten.
 *Diese* Spuren geben uns ein Rätsel auf. Gesetzt der Fall,
 der Betreffende hätte hier die Bretter abgeschnallt und wäre
@@ -205,13 +205,13 @@ Er schaute immer wieder rundum …
 Scherze geeicht …!«
 
 Er blickte nach oben … Aber dort in den Ästen konnte
-sich aus kein Mensch verbergen.
+sich auch kein Mensch verbergen.
 
 »Wir müssen dahinter kommen!! Es wäre ja noch
 besser, wenn hier zwei Leute wie wir, die immerhin etwas
 Hirn im Schädel haben, so vollständig versagen sollten!«
 
-»Vielleicht ist die Eine hohl,« meinte ich vorsichtig.
+»Vielleicht ist die Eiche hohl,« meinte ich vorsichtig.
 
 »Dick genug ist sie, auch zwei Leute beherbergen zu
 können …! Aber hohl?! Nein, dann müßte man ja das
@@ -235,7 +235,7 @@ können hier nicht anfrieren … Nach Hause also …! Der
 Verfolger wird sich schon wieder bemerkbar machen.«
 
 Meines Freundes Eigentümlichkeiten sind so vielseitig,
-daß er selbst mich oft genug noch durch neue Zuge seines
+daß er selbst mich oft genug noch durch neue Züge seines
 eigenartigen Charakterbildes überrascht. Was mich hier in
 Erstaunen setzte, war sein plötzlicher Verzicht auf jegliche
 weiteren Nachforschungen nach dem mutmaßlichen Spion.
@@ -265,7 +265,7 @@ im Plättzimmer nun für uns neue Oberhemden nähte.
 
 <@pagebreak/>
 Ich war meinerseits geradezu verwirrt über diese …
-Schneiderin. Frau von Buratt war in allem große Dame;
+Schneiderin. Frau von Buratt war in allem große Dame,
 und als wir dann bei Tisch saßen und die Unterhaltung
 immer lebhafter wurde, als das Gespräch von Harald vielleicht
 absichtlich auf ganz entlegene Gebiete gelenkt wurde, die
@@ -308,7 +308,7 @@ Grind verkauft …«
 
 <h2>2. Kapitel.</h2>
 
-<h3>Der Einbrewerkönig.</h3>
+<h3>Der Einbrecherkönig.</h3>
 
 Harald hatte mir die drei Glas Grog nicht ohne Grund
 vorgeworfen. Jetzt erst entsann ich mich auf des dicken
@@ -384,7 +384,7 @@ Dorthin hatte Pirsch sich geflüchtet, dort lebte er als harmloser
 kränklicher Oberlehrer Doktor Hirsch — natürlich in
 einer seiner tausend Maskierungen …«
 
-Er blies einige tadellose Rauchringe … »Überhaubt:
+Er blies einige tadellose Rauchringe … »Überhaupt:
 Paul Pirsch!! Ein Kapitel für sich, nein, ein ganzes Buch,
 kann man schon sagen, aber ein Buch, von dem nur die
 ersten Seiten aufgeschnitten sind. Was weiß man von ihm?
@@ -395,7 +395,7 @@ wenn er mal in Bedrängnis geriet, arbeitete stets allein.
 Um seine Person spannen sich förmliche Mythen. Er tauchte
 kurz nach der Inflation hier in Berlin auf, oder besser: Man
 begann zu dieser Zeit seine Tätigkeit zu spüren. Einbruch
-folgte auf Eindruck … Niemals stahl der zunächst unbekannte
+folgte auf Einbruch … Niemals stahl der zunächst unbekannte
 Dieb anderes als nur Bargeld und Kleinodien,
 niemals vergriff er sich an Silber, die besten Silberkästen
 konnten ihn nicht reizen. Dann, nach etwa zwei Jahren,
@@ -424,7 +424,7 @@ in Berlin vielleicht als harmloser Arzt, Ingenieur, Chemiker
 oder Gelehrter in aller Sicherheit zusehen, wie die
 Polizei ein Phantom suchte, denn das war er ja im Grunde.
 — Ihr blickt mich so fragend an, meine Lieben … Ihr
-Möchtet gern wissen, wie ich seine Spur trotzdem fand …
+möchtet gern wissen, wie ich seine Spur trotzdem fand …
 Das war gar nicht so schwer, nachdem mir Bechert noch
 <@pagebreak/>
 das gesamte schriftliche Material über »Pirsch« zur Durchsicht
@@ -521,7 +521,7 @@ und selbst Frau Harst sagte nun:
 an der starken Kälte draußen …«
 
 »Mag sein,« sagte Harald. »Jedenfalls, Mama, — mache
-dir seine Sorgen Pirschs wegen. Der schlaueste Verbrecher
+dir keine Sorgen Pirschs wegen. Der schlaueste Verbrecher
 begeht Fehler — vergleiche den angeblichen Salbenverbrauch
 und Pirsch hat bereits wieder zwei Fehler auf sein Konto
 gesetzt …«
@@ -645,7 +645,7 @@ kennen wir ihn nur. — Hier — lesen Sie mal …«
 
 Er zog einen Brief aus der Tasche. Es war genau
 dasselbe Format und Büttenpapier wie das des Drohbriefes
-Paul Pirschs. Harald und ist tauschten verstohlen
+Paul Pirschs. Harald und ich tauschten verstohlen
 einen vielsagenden Blick.
 
 Mischkuweit las vor:
@@ -665,7 +665,7 @@ Wir betrachteten den getippten Brief. Mischkuweit als
 Sachverständiger meinte: »Fingerabdrücke — nichts zu machen!
 Da ist jedes Suchen umsonst, meine Herren. Wir haben ja
 gut ein Dutzend ähnlicher Schreiben von früher her, und dann
-zwei Ansichtskarten, die gleichzeitig mit dem Brief da im
+zwei Ansichtskarten, die gleichzeitig mit dem Brief da in
 unserem Vereinsbriefkasten gestern mittag lagen. Hier sind
 sie.«
 
@@ -729,7 +729,7 @@ Herr Harst, und als wir ihn mal beim Genick nehmen
 wollten, meinte er kalt: »Mein Material liegt bei einem
 Freunde!! Also — Platz da!!« Und wir ließen ihn laufen.
 Er hatte so was an sich, Herr Harst, das mächtig imponierte.
-Auch bei den anderen vereinen gab er solche Gastrollen.
+Auch bei den anderen Vereinen gab er solche Gastrollen.
 Bis er uns dann vor etwa drei Jahren schrieb, er ginge
 ins Ausland. Da hörten wir denn auch bis gestern nichts
 von ihm, eben bis zu diesem neuen Erpresserbrief und den
@@ -824,7 +824,7 @@ Unser bescheidenes Abenteuer vom Vormittag, der Spion,
 der uns gefolgt war — bis zu der Kneipe unter den
 Eichen, die doch zum Rittergut Hüppelfeld gehörte. Bestanden
 etwa irgendwelche Beziehungen zwischen Thea von Buratt
-und diesen Paul Pirsch, dem Einbrecherkönig, der doch
+und diesem Paul Pirsch, dem Einbrecherkönig, der doch
 höchstwahrscheinlich mit dem »Herrn der Unterwelt« identisch
 war?! War unsere Oberhemdennäherin etwa absichtlich zu
 uns gekommen, hatte sie im Vertrauen auf Harsts Nächstenliebe
@@ -929,7 +929,7 @@ am eigenen Leibe erlebst, so ziemlich das Törichtste, was man
 zur Verwirrung, nicht zur Entwirrung verschlungener Fäden
 tun kann. Ich selbst bemühe mich vorläufig in keiner Weise
 um die Aufstellung einer sogenannten Theorie. Ich sammle
-Tatsachen. Genügen diese Tatsachen, eins Teilschlußfolgerung
+Tatsachen. Genügen diese Tatsachen, eine Teilschlußfolgerung
 zu stützen, so nehme ich diese gern hin. Eine solche ist zum
 Beispiel die Identität Paul Pirschs mit dem Herrn der
 Unterwelt. Dieser verreist ins Ausland — angeblich — und
@@ -1160,7 +1160,7 @@ fahren herum … Wir sehen die Leiter in dem sechs Meter
 tiefen Schacht emporschweben … Harst springt zu, erwischt
 <@pagebreak/>
 noch die unterste Stufe, hängt daran, — — eine ungeheure
-Kraft stößt im die Leiter gegen die Brust, er rollt in
+Kraft stößt ihm die Leiter gegen die Brust, er rollt in
 eine Ecke, und die Leiter verschwindet.
 
 Ein dumpfer Knall zu meinen Füßen …
@@ -1180,7 +1180,7 @@ sacke zusammen …
 Dann nichts mehr … Nur noch ein letzter Gedanke: »Ihr
 seid ihm in die Falle gegangen, — das ist das Ende!!«
 
-… Und wieder entrinne im dem albernen Spuk dieser
+… Und wieder entrinne ich dem albernen Spuk dieser
 wilden Traumszenen und lächle matt in das friedliche Licht
 der Kamintür hinein …
 
@@ -1216,14 +1216,14 @@ Und als ich mit immer lichterem Geiste mir die Schwierigkeiten
 vergegenwärtigte, die mit dieser Rettungsarbeit Unbekannter
 verknüpft gewesen sein müssen, — als ich das, was
 während unserer Bewußtlosigkeit sich abspielte, zergliedere
-und im einzelnen prüfe, stoße ich auf so unendliches viel
+und im einzelnen prüfe, stoße ich auf so unendlich viel
 dunkle Fragen, daß mein Blick von dem freundlichen Lichte
 des Kamins Aufschluß heischend unwillkürlich zu Harald hinübergleitet.
-Täuschte ich mich?! Nein — er hat den Kopf
+Täusche ich mich?! Nein — er hat den Kopf
 gehoben und blickt auch mich an und nickt mir zu und
 sagt leise:
 
-»Ja, man könnte wirklich fast glauben, mal hätte geträumt.«
+»Ja, man könnte wirklich fast glauben, man hätte geträumt.«
 
 Ein Anflug von Lächeln spielt um seine Lippen …
 
@@ -1258,7 +1258,7 @@ worden. Vor des Kälte war das Nächstenpflicht.«
 wie konnten die Retter so schnell zur Stelle sein, wie konnten
 sie wissen, daß wir gerade die Eiche aufsuchen würden …«
 
-»Bitte — unserer Hausschneiderin!!«
+»Bitte — unsere Hausschneiderin!!«
 
 »Wie meinst du das?!«
 

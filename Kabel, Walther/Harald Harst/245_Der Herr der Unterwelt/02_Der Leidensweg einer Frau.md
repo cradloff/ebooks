@@ -20,7 +20,7 @@ Maschine nur hier auf den Rauchtisch … Und dann könntest
 du auch die Büchse mit den Aachener Printen herüberreichen.
 Ich verspüre Hunger. — Du wundertest dich soeben, daß ich
 von Menschenleben sprach … Es ist leider so. Des armen
-Mischkuweit jähes Ende und dann diese Attentat auf uns,
+Mischkuweit jähes Ende und dann dieses Attentat auf uns,
 mit dem ich in der Art nie rechnete, haben mir gezeigt,
 daß dieser Herr der Unterwelt in der Tat über Leichen
 geht. Wir müssen ihn noch heute zur Strecke bringen —
@@ -35,7 +35,7 @@ Namen Fritz Grind, der jetzige Besitzer von Hüppelfeld.«
 Ich starrte Harst an. »Damenimitator …?! — Ach so —
 <@pagebreak/>
 richtig … Das ist der so überaus solide und sparsame
-Donato, der in zehn Jahren, ein Millionenvermögen erworben
+Donato, der in zehn Jahren ein Millionenvermögen erworben
 hat … Und der soll …«
 
 »… Der *ist* hier, mein Alter … Dort liegt das
@@ -82,7 +82,7 @@ ihn schon so fein zurechtgelegt hatte. Er ahnte, daß wir
 nach der Eiche unterwegs waren, er ruft also schnell Jannowitz
 1802 an und erstattet Thea Meldung, denn 1802 ist
 ihre Nummer. Dann läßt er sich mit dem Herrenhaus Hüppelfeld
-verbinden nach bestellt für alle Fälle sein Privatauto
+verbinden und bestellt für alle Fälle sein Privatauto
 irgendwohin … Er selbst trifft mit Thea zusammen, beide
 fahren mit einer Autotaxe bis in die Nähe von Hüppelfeld.
 Sie kommen dann mit Ihren Gasmasken — Gasmasken,
@@ -171,7 +171,7 @@ die Nacht unterwegs … Es war ziemlich unruhig bei
 euch unten …«
 
 »Und bei dir oben?« (Frau Harsts Räume liegen im
-ersten Stock den Fremdenzimmer schräg gegenüber.)
+ersten Stock dem Fremdenzimmer schräg gegenüber.)
 
 »Bei mir?! Ich hörte nichts … Nur Frau von Buratt
 holte sich zweimal aus dem Badezimmer heißes Wasser …
@@ -179,7 +179,7 @@ Ich kann ja ganz genau am Rauschen unterscheiden, welcher
 Hahn aufgedreht wird.«
 
 »Sie wird gegurgelt haben, Mama. Sie sagte uns soeben
-durch die Tür, daß sie sie erkältet habe. Mathilde soll
+durch die Tür, daß sie sich erkältet habe. Mathilde soll
 heute den Frühstückstisch in meinem Zimmer für drei 
 Personen decken. Frau von Buratt wird der dritte sein …«
 
@@ -330,7 +330,7 @@ noch mehr kompliziert.«
 
 Er schritt im Zimmer langsam auf und ab.
 
-»… Diese Heimlichkeit ist in der Tat verblüffend,
+»… Diese Ähnlichkeit ist in der Tat verblüffend,
 mein Alter … Traust du dieser Frau etwas Schlechtes zu?«
 
 »Nein — niemals! Sie macht auf mich ganz den Eindruck
@@ -372,7 +372,7 @@ Er blieb vor mir stehen.
 
 »Schlafen gehen« — und ich gähnte. »Da dieses Nächstliegende
 jedoch ausscheidet, würde ich zum Polizeipräsidium
-fahren und mir durch Bechert genauen Ausschluß über Frau
+fahren und mir durch Bechert genauen Aufschluß über Frau
 Theas Herkunft verschaffen. Wäre sie Donatos Zwillingsschwester,
 müßte sie auch Grind geheißen haben …«
 
@@ -381,7 +381,7 @@ noch Mama instruieren, damit dies Frühstück zu dreien Frau
 Thea nicht auffällt.«
 
 Freund Bechert rauchte in seinem nüchternen Dienstzimmer
-eine dicke Zigarre. Mit eigentümlichen Schmunzeln
+eine dicke Zigarre. Mit eigentümlichem Schmunzeln
 begrüßte er uns … »Na, ihr Nachtvögel … ausgeschlafen?!
 Ihr seid ja gehörig bekneipt gewesen …! Wer waren denn
 diese beiden Herren, die euch so gegen halb zwei nach
@@ -420,7 +420,7 @@ nur:
 »Ich werde Donato vorführen lassen.«
 
 Eine Beamtin der Frauenabteilung des Polizeigefängnisses
-begleitete die angebliche »Dame«,
+begleitete die angebliche »Dame«.
 
 Wir beide starrten »Donato« wie eine Geistererscheinung
 an. Selbst Harald konnte sich nicht beherrschen, trat rasch
@@ -494,7 +494,7 @@ lassen, Herr Doktor. Ich möchte Ihnen folgendes vorhalten.
 Sie hatten seinerzeit die Jagd auf dem Rittergut Hüppelfeld
 gepachtet …«
 
-Schon dieser Satz ließ über Kutters verschminktes Gesicht
+Schon dieser Satz ließ über Rüttlers verschminktes Gesicht
 ein Zucken gleiten.
 
 »… Jedenfalls waren Sie damals, als Herr von Buratt
@@ -557,7 +557,7 @@ vor sich hin, das wir nicht verstanden.
 Harst ließ ihm Zeit.
 
 Rüttler gab sich alle Mühe, seine Verwirrung zu
-bemänteln. Mit heißerem Auflachen sagte er schließlich:
+bemänteln. Mit heiserem Auflachen sagte er schließlich:
 »Sie haben stets viel Phantasie gehabt, Herr Harst …!
 Was geht mich ein Einbrecher an?!«
 
@@ -590,7 +590,7 @@ Brillant hält. Frau Thea hatte heute beim Frühstück genau
 denselben Ring am kleinen Finger.«
 
 Rüttler trat keuchend an das Fenster und drehte uns
-den Rücken zu:
+den Rücken zu.
 
 <@pagebreak/>
 Harst fuhr leiser fort: »Es wäre wirklich besser, Sie
@@ -651,7 +651,7 @@ und rufen Sie auch das zuständige Revier an.«
 
 Eine neue Überraschung da: Doktor Hans Rüttler war
 als Untermieter Theas gemeldet, außerdem wohnte bei ihr
-noch ein Fräulein Mimi Hasselflug, Heimarbeiterin. Thea
+noch ein Fräulein Minni Hasselflug, Heimarbeiterin. Thea
 selbst war in der Tat eine geborene Grind, hatte sich aber
 als Konzertsängerin Thea Grinado genannt. Weiter stellten
 wir fest, daß der Vater der Zwillingsgeschwister Fritz und
@@ -756,7 +756,7 @@ Also so ein bißchen niederträchtig konnte die Hasselflug
 auch sein!
 
 »Gut,« entschied Bechert, »wir werden uns dann die
-Übrigen Räume allein ansehen. Lassen Sie sich bei Ihrer
+übrigen Räume allein ansehen. Lassen Sie sich bei Ihrer
 Arbeit nicht stören, Fräulein …«
 
 <@pagebreak/>
@@ -790,7 +790,7 @@ gewachsene borstige Haar, die dicken langen Augenbrauen, die
 häßliche Nase mit den aufgeblähten Nüstern, der struppige
 Schnurrbart und die Wulstlippen: Es waren die Züge
 eines brutalen, sinnlichen Menschen! Und dann die
-Kleinen, stechenden Augen hinter dem schwarzen Hornkneifer
+kleinen, stechenden Augen hinter dem schwarzen Hornkneifer
 — geradezu tückische Augen!
 
 Harald steckte wortlos das eine Kabinettbild zu sich.
@@ -876,7 +876,7 @@ wieder einmal die besseren Augen gehabt, und doch hatte
 er Pirschs Teufelei zu spät durchschaut. Er hatte nur auf
 einen Angriff mit einer Schußwaffe gerechnet, niemals mit
 diesem raffiniert ausgeklügelten Streich, uns in den Flur
-vor die Für zu locken, wo neben dem Gasmesser zwei sehr
+vor die Tür zu locken, wo neben dem Gasmesser zwei sehr
 harmlos aussehende Thermos-Flaschen standen, die durch
 <@pagebreak/>
 Röhrchen und anderes in ein Gasgebläse verwandelt waren,
@@ -929,7 +929,7 @@ würde nichts aussagen — nichts.
 Ebenso wichtig wie das Verschwinden der Zwillinge war
 auch der Bericht des Polizeireviers Schlachtensee, das mehrere
 Beamte im Kraftwagen nach der Schonung und der alten
-Eiche geschickt hatte. Der riesige Raum war umgestürzt, der
+Eiche geschickt hatte. Der riesige Baum war umgestürzt, der
 gemauerte Schacht vollständig verschüttet, und da diese Stätte
 der Verwüstung handhoch mit Neuschnee bedeckt war, mußte
 man den Schacht und den Baum noch in der Nacht mit
@@ -960,12 +960,12 @@ eingeschlafen, und als laute Stimmen mich weckten, stand
 <@pagebreak/>
 Bechert mitten im Zimmer und hielt Harald einen Pappkarton
 hin, in dem zwei speckige Frackanzüge lagen, die
-am linken Aufschlag Kellnernummern 4 und 6, trugen.
+am linken Aufschlag Kellnernummern, 4 und 6, trugen.
 
 Es war Zeit nach den Kleistsälen aufzubrechen. Bechert
 war bereits im Kellnerdreß, und auch unsere Toilette dauerte
 nicht allzu lange, nur die Veränderung unserer Gesichter
-war etwas schwieriger, denn wir dursten auf keinen Fall
+war etwas schwieriger, denn wir durften auf keinen Fall
 erkannt werden.
 
 Nach herzlichem, wenn auch ein wenig trüben Abschied
@@ -994,7 +994,7 @@ zu Fuß gegangen — betraten wir das Haus, das gleichzeitig
 Hotel war. Die Säle, zwei recht große Räume mit verschiedenen
 Nebenzimmern, lagen im zweiten Stock. Aus der
 Vorhalle führte eine Doppeltreppe nach oben, die wir nicht
-benutzten, wir begnügten uns nicht dem Hofaufgang und
+benutzten, wir begnügten uns mit dem Hofaufgang und
 wurden im Büfettraum von Herrn Julius Pinzke feierlich
 begrüßt. Er lächelte etwas süßsauer, als Bechert ihm auf
 die Schulter klopfte und meinte: »Wir sind ja alte Bekannte,
@@ -1180,7 +1180,7 @@ Ich brauche hier weitere Einzelheiten kaum anzugeben.
 Die Zeitungen brachten unlängst eine bescheidene Vermählungsanzeige.
 Hans Rüttler wird Frau Thea sicherlich auf
 <@pagebreak/>
-Händen tragen. — Des Herrn der Unterwelt angeblich
+Händen tragen. — Des Herrn der Unterwelt angebliches
 Material gegen die »Offene Hand« wurde nie gefunden.
 Harst und ich sind jetzt Ehrenmitglieder der »Offenen Hand«,
 weshalb auch nicht?!
