@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">ae75db82-81ad-4691-8224-3bbb821bcf60</entry>
+<entry key="title">Der Herr der Unterwelt</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">245</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Der Herr der Unterwelt.
+
+Es war heute wieder bitter kalt. Der Wald war wie ausgestorben. Nur hin und wieder hörten wir einen emsigen Specht klopfen. Wir schlängelten uns an der Krummen Lanke und am Schlachtensee vorüber bis in die weiten Felder und Schonungen jenseits der Bahnlinie Berlin—Potsdam und machten gegen zwölf in einer einsamen, nur im Sommer vielbesuchten ländlichen Kneipe Rast, frühstückten dort zum zweiten Male und unterhielten uns mit dem dicken redseligen Wirt, der nicht recht wußte, wen er vor sich hatte, und zu gern Namen und Stand seiner beiden einzigen Vormittagsgäste herausbekommen hätte.
+
+Die Kneipe Unter den Eichen war, wie er uns erzählte, ehemals ein Vorwerk des nahen Rittergutes gewesen, und er selbst spielte hier nur den Pächter. »Ich hätte das Grundstück ja längst gekauft, aber der Vorbesitzer war so verschuldet, daß er über nichts mehr zu verfügen hatte, und der neue Herr ist wieder zu reich … Pech!!«
+
+Der Leidensweg einer Frau.
+
+»Brühe uns Kaffee auf,« sagte Harald, als wir wieder in seinem Arbeitszimmer angelangt waren. »Wir haben jetzt keine Zeit, etwa den versäumten Schlaf nachzuholen … Der Herr der Unterwelt wird uns wohl noch so achtzehn Stunden etwa in Atem halten, und da hilft nur Kaffee.  Was die Nerven nachher dazu sagen, ist gleichgültig, denn hier geht’s um Menschenleben.«
+
+Ich blickte ihn fragend an.
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (245) Der Herr der Unterwelt.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1929</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
