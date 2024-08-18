@@ -432,7 +432,7 @@ Dann rief er: »Hallo — Erik, Sydney, — wo steckt
 ihr denn?!«
 
 So lernten wir auch die beiden jüngeren Murvays
-kennen, ebenfalls stattliche Gentlemen von vollendeter Höflichkeit,
+kennen, ebenfalls stattliche Gentlemen von vollendeter Höflichkeit.
 —
 
 Marrys ganze Aufzeichnungen waren also eine Seifenblase
@@ -591,7 +591,7 @@ Schwindel gemerkt.«
 »Wie ich,« lachte Mac vergnügt. »Wir sind doch vom
 Fach, Mr. Harst, und diese Kerle sind galgenreif — längst!
 Ich heiße zwar Ducry, bin aber in Wahrheit von der
-Londoner Polizei — Oberinspektor von Schottland Yard.«
+Londoner Polizei — Oberinspektor von Scottland Yard.«
 
 »Dachte ich mir schon,« nickte Harald. »Und weshalb
 kamen Sie nach Chanar?«
@@ -710,7 +710,7 @@ hatten die Blicke zu Boden gerichtet. Sie erkannten wohl,
 daß die Katastrophe nahe bevorstand.
 
 Harald faßte in die weite Tasche seines Inderkittels und
-brachte die Nagelfeile zum Vorschein. »Allerhand Ächtung
+brachte die Nagelfeile zum Vorschein. »Allerhand Achtung
 vor so viel Gerissenheit …« Er hielt die Feile hoch. »So
 ein unscheinbares Ding …« Und wieder griff er in die
 Tasche … Unter den halb geschlossenen Lidern hervor flog
@@ -843,7 +843,7 @@ vorhin, als wir das Wohnschiff kaperten und dabei ein
 paar Worte Jonathans aufschnappten. Schraut und Piet
 legten ihnen weiter keine Bedeutung bei, denn der Alte
 stöhnte nur weinerlich: »Meine Kinder — in dem Loche!!«
-Mir ging da ein Licht auf. Nun wissen wir auf, wodurch
+Mir ging da ein Licht auf. Nun wissen wir auch, wodurch
 seine zweite Frau und deren dreiköpfige Brut den Mann
 so fest in den Klauen hatten: Sie wußten, daß er Hehler
 war! Trotzdem bleibt es geradezu eine grenzenlose 

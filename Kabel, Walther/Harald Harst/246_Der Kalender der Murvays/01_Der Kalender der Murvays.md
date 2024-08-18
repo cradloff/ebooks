@@ -102,7 +102,7 @@ an ihre Fersen geheftet.
 
 Harald schritt auf seinen nassen Sandalen lautlos zum
 Bug und hob den Bootshaken empor, der mit einem Tau
-an einem Haken der Bordwand beseitigt war. Unten an
+an einem Haken der Bordwand befestigt war. Unten an
 dem Bootshaken hing im Wasser ein merkwürdiges Floß:
 Sechs aufgeblasene Ziegenhäute, die untereinander verknotet
 und mit ein paar grünen Ästen bedeckt waren.
@@ -187,7 +187,7 @@ und den chinesischen Kneipwirt Funcho schimpfte. Dieser
 Mann war Piet gewesen. Wir nahmen uns seiner an,
 denn da er bei Funcho ziemlich die ganze Kneipeinrichtung
 zerschlagen hatte, war ihm das Kittchen sicher. John Barclay
-renkte die Sache ein, und Harald engagierte den vielseitigem
+renkte die Sache ein, und Harald engagierte den vielseitigen
 Piet als Diener — unter der Bedingung, daß er wenigstens
 am Tage nüchtern bliebe. Piet hatte uns beiden dann
 gestern früh von seinem kurzen Aufenthalt bei den Murvays
@@ -330,7 +330,7 @@ und Kleidern, Männer und Frauen, die ganze Murvay-Clique
 
 »Nu wird’s sengrich …« brummte Piet und langte
 nach der Repetierbüchse, die ebenfalls auf dem Zinkdache lag.
-»Ich scheet’, wenn die Schurken vorkommen,« rief er und ich
+»Ich scheet’, wenn die Schurken rankommen,« rief er und ich
 <@pagebreak/>
 hörte das leise Knacken des Sicherungsflügels der Winchesterbüchse.
 
@@ -488,7 +488,7 @@ dies nicht mehr der verkrautete Bach ist, wo wir jetzt liegen?!
 ins Wasser geworfen und dann am Ankertau gezogen …
 immer aufs neue, langweiliges Geschäft, aber die Felsen,
 die ich vor mir sah, gaben mir Kraft und Ausdauer.
-Drüben jenseits des Waldstreifens befindet sie der See der
+Drüben jenseits des Waldstreifens befindet sich der See der
 Träume.«
 
 Ich starrte ringsum …
@@ -529,7 +529,7 @@ in den Sagen und Märchen der Umwohnenden seit Jahrhunderten
 eine besondere Rolle spielt, der Öffentlichkeit
 bekanntgegeben, und es ist im Grunde zu bedauern, daß
 dieses idyllische, weltferne Fleckchen Erde und Wasser zugleich
-mich einem zunächst recht rätselhaften Verbrechen eng verknüpft
+mit einem zunächst recht rätselhaften Verbrechen eng verknüpft
 war.« —
 
 Niemand war begieriger als ich, sofort zum Seeufer aufzubrechen.
@@ -558,13 +558,13 @@ einen indischen Fakir darstellen will.
 
 Harald wiederholte seine Erklärungen über den Wechsel
 unseres Ankerplatzes … »Jetzt frühstücken Sie erst mal,
-… Und dann habe ich Arbeit für Sie …«
+Piet … Und dann habe ich Arbeit für Sie …«
 
 Piet musterte den kleinen Klapptisch.
 
 »Und der Schnaps?!« brummte er. »Seit zwanzig Jahren
 hebb ich mir jeden Morjen die Zähn’ mit ’n echten Korn
-geputzt … Für neue Moden bin ich nicht …« Und
+jeputzt … Für neue Moden bin ich nicht …« Und
 er stapfte nach vorn, hob den Lukendeckel und kroch in die
 Vorratskammer hinab.
 
@@ -582,7 +582,7 @@ liegt ’n Kierl in die Kammer, und hei is jefesselt …«
 
 »Scheint so,« nickte Harst. »Ich tat’s, meine Lieben …
 Ich überraschte den Kerl vorhin am Seeufer und nahm ihn
-mit … Holt ihm mal her, ihr beiden Langschläfer, aber
+mit … Holt ihn mal her, ihr beiden Langschläfer, aber
 geht zart mit ihm um, denn der Kierl ist Marry Murvay
 in einem schwarzseidenen Badeanzug mit Badekappe …
 Wir wollen mit ihr ein wenig über den Kalender reden …«
@@ -652,7 +652,7 @@ Harald tat nur so, als ob sein Herz aus Stein.
 
 Marrys jäher Tränenstrom hätte nämlich jeden Ziegelstein
 erweichen können. Schluchzend saß sie dann mit am
-Frühstückstischen … Es wirkte etwas komisch, als sie
+Frühstückstischchen … Es wirkte etwas komisch, als sie
 die Tränlein dann mit dem Mantelzipfel verstohlen trocknete
 und …
 
@@ -698,7 +698,7 @@ den Becher füllte und … selber trank.
 »Ja,« flüsterte Marry … »Ich kenne ihn … Und …
 und … ich hatte ihn doch so gewarnt …« Sie war so
 vollkommen verstört, daß sie wohl selbst kaum wußte, was
-sie sprach sie hatte die Hände gefaltet und gegen die Brust
+sie sprach. Sie hatte die Hände gefaltet und gegen die Brust
 gedrückt, und es lag in ihrer Haltung und in dem Ausdruck
 ihrer Augen so viel trostlose Verzweiflung, daß Harald
 plötzlich ganz weich sagte:
@@ -780,7 +780,7 @@ Menschen hätte, dem ich mich anvertrauen könnte! Nie
 wieder wage ich mich da hinab, nie wieder! Am besten:
 Vergessen — aus der Erinnerung tilgen!
 
-13\. September. — Furchtbar sind mir diese Ausflüge.
+> 13\. September. — Furchtbar sind mir diese Ausflüge.
 Ich bin nur froh, daß ich wenigstens den halben Tag
 in dem lauen klaren Wasser umherschwimmen kann. Ich
 liege dann auf den sonndurchhitzten Felsen und starre
@@ -788,13 +788,13 @@ nach Westen, wo ich heute wieder an dem Gitter entlangschwamm.
 Ich weiß, daß sie mich dauernd belauern. —
 Unser neuer Chauffeur ist ein sehr gebildeter, netter Mensch.
 
-27\. September. — Wäre ich nur nicht abermals so tollkühn
+> 27\. September. — Wäre ich nur nicht abermals so tollkühn
 gewesen! Mein Gott, — Roger machte Augen,
 als ob er mich erdrosseln würde. Und wieder habe ich
 den schrecklichen Gesang gehört. Ich werde noch verrückt
 über alledem.
 
-28\. September. — Allan Mac Ducry hat mir eingestanden,
+> 28\. September. — Allan Mac Ducry hat mir eingestanden,
 <@pagebreak/>
 daß er aus guter Familie stammt und früher
 Beamter in London war. Ich bin so glücklich. Ich liebe
@@ -804,7 +804,7 @@ scheint schon mißtrauisch geworden zu sein. Ich muß Allan
 warnen, seine Augen mehr im Zaume zu halten, seine
 Blicke verraten zu viel. Trotzdem: Ich bin selig!
 
-11\. Oktober. — Ich habe der Versuchung nicht widerstehen
+> 11\. Oktober. — Ich habe der Versuchung nicht widerstehen
 können. Ich war nachts drüben. Es war sehr gefährlich.
 Am Tage kann man die Bestien irreführen. Ich
 fand alles fest versperrt, aber ich hörte sprechen. Lieber
@@ -814,7 +814,7 @@ Freunde von Roger sein. — Allan hat vorgestern so vieles
 Auch der neue Koch hält zu mir. Nun habe ich wenigstens
 zwei Menschen, die außer ihm noch lieb zu mir sind.
 
-25\. Oktober. — Es war mehr als entsetzlich gestern. Sie
+> 25\. Oktober. — Es war mehr als entsetzlich gestern. Sie
 haben ihn gehetzt wie ein wildes Tier, und dann sperrte
 Roger mich ein. Wenn ich nur den Mut fände, Allan
 mich anzuvertrauen. Aber Papa hat mir wieder so nachdrücklich
@@ -826,7 +826,7 @@ fühle auch ihren Haß. — Allan ist vorsichtiger. Piet
 Jansen kocht vorzüglich. Mir ist der Kopf so wirr und
 schwer.
 
-26\. November. — Ich finde keine Tränen mehr. Sie
+> 26\. November. — Ich finde keine Tränen mehr. Sie
 belügen mich — alle! Und ich muß schweigen. Ich
 finde mich nicht mehr zurecht in all dem Gräßlichen und
 Häßlichen. Gestern gab es wieder Streit. Ich glaube, sie
@@ -834,7 +834,7 @@ haben Vater geschlagen. Wenn sie nur Mac nicht entlassen.
 
 <@pagebreak/>
 
-30\. Dezember. — Nun sind sie beide weg, Allan und
+> 30\. Dezember. — Nun sind sie beide weg, Allan und
 Piet. Aber Allan ist nur zum Schein nach Kalkutta
 gereist. Gestern sprach ich ihn wieder in Chanar. Seine
 Maske als Inder war sehr gut. Übermorgen soll ich
@@ -1138,7 +1138,7 @@ völlig unberührte Natur, und dieses Riesengebiet sollte
 Jonathan Murvay gehören, dem Manne, den seine Söhne
 zu schlagen wagten.
 
-Piet erwachte, als ein großer frechen Affe ihm eine
+Piet erwachte, als ein großer frecher Affe ihm eine
 apfelähnliche faule Frucht gerade vor die Stirn ballerte. Fluchend
 glotzte er zu dem kreischenden Vierhänder empor, der
 kaum vier Meter über uns auf einem Aststumpf hockte.
@@ -1159,7 +1159,7 @@ als dunkler Fleck auf dem Wasser schwamm, einen grellen
 breiten Blitz aufleuchten: den Scheinwerfer des Wohnschiffes,
 das seinen Liegeplatz verließ und nach Südwest steuerte.
 
-<h2>8. Kapitel.</h2>
+<h2>5. Kapitel.</h2>
 
 <h3>Das zweite Gitter.</h3>
 
@@ -1183,9 +1183,9 @@ ein. Wir standen oder knieten halb im Wasser,
 und unsere Ruder brachten das schwerfällige Floß nur
 langsam vorwärts.
 
-Harald ließ uns unweit des Ufers entlangpaddeln —
+Harald hieß uns unweit des Ufers entlangpaddeln —
 gen Süden, was ich nicht recht begriff, da diese Richtung doch
-einen erheblichen Umweg darstellt. Er hatte uns jedes
+einen erheblichen Umweg darstellte. Er hatte uns jedes
 laute Wort verboten und trieb uns immer mehr zur Eile
 an. Das Wohnschiff war längst verschwunden. Wir hatten
 uns die Stelle ungefähr gemerkt, wo wir den Scheinwerfer
@@ -1206,7 +1206,7 @@ Wurzelgeflecht schwimmend erhalten wurde.
 Mit einem Male ging durch unser plumpes Fahrzeug
 ein starker Ruck, es prallte gegen ein Hindernis, und als
 ich mich bückte, fühlte ich im Wasser die messerscharfen
-Spitzen eines Eisengitter.
+Spitzen eines Eisengitters.
 
 Harald glitt langsam ins Wasser, wir folgten ihm, hielten
 uns an den nur oben geschärften Eisenstäben fest und
@@ -1326,7 +1326,7 @@ daß sie uns doch nicht verraten hatte. Der andere
 Beweis hierfür war das Erschrecken ihrer Eltern bei Nennung
 des Namens Mac Allans gewesen. — Meinte sie das hier
 wirklich ernst mit ihrer Drohung?! Wenn ja, dann mußte
-sie inzwischen Dinge erlebt haben, die sie veranlassen, rücksichtslos
+sie inzwischen Dinge erlebt haben, die sie veranlaßten, rücksichtslos
 für die Ihrigen einzutreten und die Liebe zu Allan
 zu vergessen.
 
