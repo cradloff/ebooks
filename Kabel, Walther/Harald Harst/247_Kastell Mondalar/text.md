@@ -533,7 +533,7 @@ an das Fenster getreten und meinte achselzuckend:
 »Mit dem Ring sind Sie betrogen worden, Prinzipessa,
 falls Sie ihn selbst gekauft haben sollten. Der Stein ist
 <@pagebreak/>
-lediglich ein weißer Saphir, freilich ein tadelloses Exemplar»
+lediglich ein weißer Saphir, freilich ein tadelloses Exemplar«
 
 Horatio Mondalassi rief auffallend gereizt: »Das ist
 Unmöglich, Baron. Sie müssen sich irren. Ich selbst habe
@@ -608,53 +608,53 @@ nur noch das Schloß ansehen …
 <h3>Die Konservenbüchse.</h3>
 
 Ich wartete also. Ich lehnte draußen im Park an einer
-Eiche dicht bei unserem eleganten Tote-Wagen, den wir
+Eiche dicht bei unserem eleganten Royce-Wagen, den wir
 für unsere Rolle in London geliehen hatten. Ich rauchte
 eine grünbraune Brasil und freute mich über die Bienen
-und Schmetterlinge und Vögel und ärgerte mich« über die
+und Schmetterlinge und Vögel und ärgerte mich über die
 Unannehmlichkeiten, die nun einmal die Stellung eines
 <@pagebreak/>
-Dieners und Chauffeurs mit sich bringt. Weg weiß, was
-Harald da mit den beiden bildhübscher fragwacdigen Damen
-trieb!! Vielleicht legte er irrigen auch;!so nett Fallstricke
+Dieners und Chauffeurs mit sich bringt. Wer weiß, was
+Harald da mit den beiden bildhübschen fragwürdigen Damen
+trieb!! Vielleicht legte er ihnen auch so nett Fallstricke
 wie dem üblen Marchese.
 
-… Hm — der Herr Marchese …!! Ein merkwürdiges Kerl«
-zwischen. Ein totaler Kratzte, aber nicht ungefährlich! Wewsdaib
-der wohl aus dem Programm einen Fidibus 9Femacht hatte 7?!
+Hm — der Herr Marchese …!! Ein merkwürdiges Kerlchen.
+Ein totaler Fatzke, aber nicht ungefährlich! Weshalb
+der wohl aus dem Programm einen Fidibus gemacht hatte?!
 Und dann die Ringgeschichte … Ob Harald etwa vermutete,
 der Stein in dem Ringe stamme aus dem geraubten
-Kollier, das auf 20000 Pfund geschützt und es« doch auch
-bei Lloyds in London versichert war?! — So vergaß il
-denn die Dienen und Schmetterlinge und Finken und Prasseln
-und verirrte mich in das dunkle Labyrinth des »Falies’«.
-der uns hierher geführt hattet — Ich habe über diesen
+Kollier, das auf 20&nbsp;000 Pfund geschätzt und so hoch auch
+bei Lloyds in London versichert war?! — So vergaß ich
+denn die Bienen und Schmetterlinge und Finken und Drosseln
+und verirrte mich in das dunkle Labyrinth des »Falles«,
+der uns hierher geführt hatte. — Ich habe über diesen
 Fall bereits alles gesagt, was zu sagen war. Vielleicht könnte
-sah noch die Personen aufzählen, die mit Lady Marbot in
+ich noch die Personen aufzählen, die mit Lady Marbot in
 der Loge 2 gesessen hatten. Es waren das insgesamt sechs
-Personen gewesen. Erstens die »Lady selbst. Sie hatte
-ihren Pfg vorn an der Brüstung zwischen dem Herzog
-von Ulster und dessen Gattin gehabt. Linker diesen dreien
-hatten Hoftor Wachen, der berühmte Anwalt, dann Lord
-Edgar, dann Sir Traurig Schluck die näöchjte Sesselre’le
-besetzt. Die dritte Reihe war leer gewesen. Lady Mark)
-»hatte die ganze Loge bestellt. »Damals bei der Wohltätikeitsvorstellung,
+Personen gewesen. Erstens die Lady selbst. Sie hatte
+ihren Platz vorn an der Brüstung zwischen dem Herzog
+von Ulster und dessen Gattin gehabt. Hinter diesen dreien
+hatten Doktor Warcher, der berühmte Anwalt, dann Lord
+Edgar, dann Sir Francis Colling die nächste Sesselreihe
+besetzt. Die dritte Reihe war leer gewesen. Lady Marbot
+hatte die ganze Loge bestellt. Damals bei der Wohltätigkeitsvorstellung,
 die erst um ein halb zwölf begann, wurde
 das Stück eines jungen Autors »Nachtschatten« gegeben.
 Während des zweiten Aktes war Lady Marbot, als gerade
 Theater und Bühne fast dunkel waren, mit leisem Schrei
-hochgeschnellt und hatte dann der Herzogin zugeflüstert, sie.
-sei von einem Infekt am Nachen gestoßen worden. Plötzlich
+hochgeschnellt und hatte dann der Herzogin zugeflüstert, sie
+sei von einem Insekt am Nacken gestochen worden. Plötzlich
 sank sie hintenüber, und drei Minuten später war sie tot
 und das Brillanthalsband verschwunden. Der ganze Vorfall
 war kaum bemerkt worden. Man schaffte die Leiche in
 aller Stille hinaus, die Kriminalpolizei war sofort zur Stelle
-und richtete nichts aus. Nach Wochen, als das Gerade
+und richtete nichts aus. Nach Wochen, als das Gerede
 <@pagebreak/>
 In den Zeitungen gegen den Neffen der Ermordeten nicht
-verstummen wollte, schrieb dieser zu uns, nötig waren
-wir denn noch Lungby gekommen, in dessen Nähe auch
-Marbot-Castle lag, wie ich bereits erwähnt habe, — Hiermit
+verstummen wollte, schrieb dieser an uns, und so waren
+wir denn nach Lungby gekommen, in dessen Nähe auch
+Marbot-Castle lag, wie ich bereits erwähnt habe. — Hiermit
 möchte ich die rein nüchternen Angaben schließen. Meine
 Leser und Freunde kennen auch bereits sämtliche Mitspieler
 dieses eigenartigen Dramas bis auf einen einzigen: Ich
@@ -663,38 +663,37 @@ es gestattet, versucht, die Personen in ihren Hauptcharaktermerkmalen
 dem Leser näherzubringen. Ich fahre also in
 der Entwicklung der Dinge fort. —
 
-Das Haarkeem eines Motorrades weckte mich aus meinen
+Das Knattern eines Motorrades weckte mich aus meinen
 tiefschürfenden Gedanken, die dem finsteren Rätsel eines
 Raubmordes nachspürten, für dessen Art der Ausführung
 menschliche fachmännische Intelligenz bisher keine Erklärung
-gefunden hatte.!«
+gefunden hatte.
 
 Von den abseits hinter hohen Taxushecken liegenden
 Wirtschaftsgebäuden kam der Marchese auf einem uralten
-Benzinstänker hervorgeso Ast, warf« mir durch sein Monokel
-einen hochmütigelanernden Blick—zu und jagte durch die
-Hauptallee davon. Auf den Sozinssihß der Zappeligen,
+Benzinstänker hervorgesaust, warf mir durch sein Monokel
+einen hochmütig-lauernden Blick zu und jagte durch die
+Hauptallee davon. Auf den Soziussitz der klapperigen,
 dreckigen Maschine hatte er einen in Leinwand gehüllten
-größeren Sack festgeschnallt, Daß er vorhin im Atelier
-geringen, al8& er einen dringenden Besuch bei einem Wächter
-Vorschüsse, erschien mir gewiß. Schon der Blieb, her er
+größeren Sack festgeschnallt. Daß er vorhin im Atelier
+gelogen, als er einen dringenden Besuch bei einem Pächter
+vorschützte, erschien mir gewiß. Schon der Blick, den er
 mit der blonden Mona gewechselt, deutete auf einen anderen
 Zweck und ein anderes Ziel seiner Fahrt hin. Sollte diese
 etwa doch irgendwie mit dem Ringe zusammenhängen, den
 Harald nun in der Westentasche trug?! Sollte der fast
-übergroße Stein dieses Ringes wirklich mit zu den Brillanten —
-des Kolliers gehören?! War denn der Ma’chese damals ebene
-falls im Theater gewesen, als Lady Marbot starb?! Wie
-kam das Theaterprogramm jener Wohltätigkeit&svorstellung
-in Monas Atelier auf die Etagere?! Ich hatte das Groß
-Stamm ja sofort an der bunten auffallenden Titelseite
+übergroße Stein dieses Ringes wirklich mit zu den Brillanten
+des Kolliers gehören?! War denn der Marchese damals ebenfalls
+im Theater gewesen, als Lady Marbot starb?! Wie
+kam das Theaterprogramm jener Wohltätigkeitsvorstellung
+in Monas Atelier auf die Etagere?! Ich hatte das Programm
+ja sofort an der bunten auffallenden Titelseite
 <@pagebreak/>
-— Gekannt, da ich ein gleiches bei Edgar Hoppelear gesehen
-
-hatte, der es uns gestern abend zeigte, als er uns als
-Einzelheiten der Tragödie. mitteilte. Hatte Horatio es dann
-nur aus Spielerei verbrannt?! Niemals!! Er zweite es
-»mit kluger Belohnung mir wieder abgenommen und den
+erkannt, da ich ein gleiches bei Edgar Hoppelear gesehen
+hatte, der es uns gestern abend zeigte, als er uns alle
+Einzelheiten der Tragödie mitteilte. Hatte Horatio es dann
+nur aus Spielerei verbrannt?! Niemals!! Er hatte es
+mit kluger Berechnung mir wieder abgenommen und den
 Ring als Vorwand gewählt, den er sehr einfach in der Hand
 verborgen hielt, als er mir in die Tasche faßte. Es lag
 ihm also unendlich viel an dem Programm, es sollte
@@ -705,184 +704,183 @@ beigewohnt!
 Da war es also wieder aufgetaucht, dieses Mißtrauen,
 und mit doppelter Eindringlichkeit. Da fiel mir die Mordegge
 ein, die dem Lord fast das Leben gekostet hatte. Da
-He! mir auch Harsts Bemerkung über die Photographie ein,
-die ich So eilig hatte erwidern müssen. Was hatte er auf
-der noch nassen Platte, die nun zum Trodnen!n seinem
-Kolossalen stand, besonderes gesehen?! Und — hakte Harald
-mir nicht schon in Berlin nach Eingang des Briefes Kappe«
-kenne erklärt, dieser Kriminalfall würde wohl nicht nur
-ungeahnte Überraschungen bringen, sondern Ruck) ernsteste
-Gefahren! Eine dieser Gefahren wär bereits Tatsache geworden:
-Hoppelear hätte sich bei dem Kopfsprung avufspießen
-und als Sterbender wieder empotfäuchen können, Weg drohte
-erstaunt?! Wußte Horatio Meondalassi etwa, wer wir waren?!
+fiel mir auch Harsts Bemerkung über die Photographie ein,
+die ich So eilig hatte entwickeln müssen. Was hatte er auf
+der noch nassen Platte, die nun zum Trocknen in seinem
+Hotelsalon stand, besonderes gesehen?! Und — hatte Harald
+mir nicht schon in Berlin nach Eingang des Briefes Hoppelears
+erklärt, dieser Kriminalfall würde wohl nicht nur
+ungeahnte Überraschungen bringen, sondern auch ernsteste
+Gefahren! Eine dieser Gefahren war bereits Tatsache geworden:
+Hoppelear hätte sich bei dem Kopfsprung aufspießen
+und als Sterbender wieder emportauchen können. Was drohte
+uns?! Wußte Horatio Mondalassi etwa, wer wir waren?!
 
 Ringsum in den alten schönen Bäumen, Büschen und
-Hecken jubilierten die Bügel und freuten sich übles Daseins.
+Hecken jubilierten die Vögel und freuten sich ihres Daseins.
 Alles ringsum pries den Sommer in großen Farben und
-Fönen, Festland gleichsam außerhalb dieser Welt. Meine
-Welt war das trübe Gebiet finsteren Rätsel und Tragen
+Tönen. *Ich* stand gleichsam außerhalb dieser Welt. Meine
+Welt war das trübe Gebiet finsterer Rätsel und Fragen
 und Befürchtungen. Hoppelear lag im Polizeilazarett in
-London … Und wirf!
+London … Und wir?!
 
-Dorn kam Harald … Frühe Giacomo noch ein Trinkgeld
+Dann kam Harald … Drückte Giacomo noch ein Trinkgeld
 in die Krallen und schwang sich in den Wagen neben
 mich. Wir glitten die Allee hinab. Er sagte nur:
 
 <@pagebreak/>
-»Lose Geschichten, mein Alter … «!! Diese jungen Damen
-erschossen einander wie die Pest. Aber — ich bin mit dem
-Erfolg zufrieden. Der Mardzdese ist ein kleiner Satan. Doch
-auch Jenseitigen können dumm sein. Wie töricht war’s, das
+»Böse Geschichten, mein Alter …!! Diese jungen Damen
+hassen einander wie die Pest. Aber — ich bin mit dem
+Erfolg zufrieden. Der Marchese ist ein kleiner Satan. Doch
+auch Teufelchen können dumm sein. Wie töricht war’s, das
 Programm zu verbrennen. Nun wissen wir: Mona war
 damals mit dabei! — Sahst du den Marchese noch?«
 
-»30 … »’« Ich erzählte.
+»Ja …« Ich erzählte.
 
-»Motorrad?y! Und ein Bündel hinten?k«
+»Motorrad?! Und ein Bündel hinten?!«
 
-»Eine alte Klappermaschine, vorn ein neuer Reisen
-mit Willen … Wer weiß, wohin der Bursche gehofft ist!
-Was halt! du von ihm?«
+»Eine alte Klappermaschine, vorn ein neuer Reifen
+mit Rillen … Wer weiß, wohin der Bursche getöfft ist!
+Was hältst du von ihm?«
 
-»Er ist der Eggensabrikaft, Fläche ich …« Harst sprach sehr
+»Er ist der Eggenfabrikant, schätze ich …« Harst sprach sehr
 langsam und beugte sich nach links zum Wagen hinaus …
-Die grauweiße Straße war noch feucht von den ’Regen-
-Regengüssen der Sturmnacht. Stellenweise gab es weite Schnittflächen
-eines bläulichen Tone, der jede Spur wie in nassem
-Gips angenommen hakte. »Signore Horatio ist hier entlanggefahren,
+Die grauweiße Straße war noch feucht von den Regengüssen
+der Sturmnacht. Stellenweise gab es weite Schlickflächen
+eines bläulichen Tons, der jede Spur wie in nassem
+Gips angenommen hatte. »Signore Horatio ist hier entlanggefahren,
 mein Alter … Der Weg nach den Pachthöfen
-biegt gleich hinter dem Wartesaal … Ad fürchte, wir
-werden die Platte in meinem Salon nicht mehr vorfinden,
+biegt gleich hinter dem Parke ab … Ich fürchte, wir
+werden die Platte in meinem Salon nicht mehr vorfinden.
 Der Marchese hat wahrscheinlich beobachtet, daß du mit der
-Kamera die Klippen knipstest … Sollte .— — stopp —
+Kamera die Klippen knipstest … Holla — — stopp —«
 
 Er griff selbst zu … Das Auto rutschte noch fünf
 Meter dicht hinter einer scharfen Biegung auf der glitschigen
-Straße und Trank dann unmittelbar vor einer großen verrosteten,
-verbeulten Konservenbtlichse
+Straße und stand dann unmittelbar vor einer großen verrosteten,
+verbeulten Konservenbüchse
 
-»Was gibt’s, Harald?! Berlin plötzlichen Bremsen kann
+»Was gibt’s, Harald?! Bei so plötzlichem Bremsen kann
 der Wagen zum Teufel gehen!« Ich war etwas ärgerlich.
 
 »Besser er geht zum Teufel als wir mit,« meinte Harst
 und sprang hinaus, schaute sich um, bekam mich regelrecht
-beim Kragen und riß mich mit fabelhafter Kraft und Gas
-schifliclkeit hinter das Auto und noch rascher in den linken
-tiefen Straßengraben — hinein in lehmigen Morast! und
-grüne die Frösche, die entsetzt die Böschung empor hüpften.
+beim Kragen und riß mich mit fabelhafter Kraft und Geschicklichkeit
+hinter das Auto und noch rascher in den linken
+tiefen Straßengraben — hinein in lehmigen Morast und
+grüne dicke Frösche, die entsetzt die Böschung empor hüpften.
 Zu ihrem Unheil, denn eine donnerartige Explosion erfolgte,
 <@pagebreak/>
-der Puftdruck schlenderte meine Mütze ins Feld und über
-ans hinweg sausten mit unheimlichen Pfeifen Eile unseres
+der Luftdruck schleuderte meine Mütze ins Feld und über
+uns hinweg sausten mit unheimlichem Pfeifen Stücke unseres
 Autos, Frösche, Steine, Lehm, Sand und ein Chausseebaum
 von Armdicke, der glatt abgebrochen war.
 
-534 »fühlte, daß ich erbleichte. Ich stierte Harald an.
+Ich fühlte, daß ich erbleichte. Ich stierte Harald an.
 Meine Stimme versagte, ich keuchte nur: »Die Blechbüchse!!«
 
-»…! Sie war auf der Hinfahrt noch nicht da, und
-das Bündel des Magerkeit und sein schleuniger Aufbruch
-hatten mich gewarnt, Außerdem lief von der Büchse eine
+»Ja …! Sie war auf der Hinfahrt noch nicht da, und
+das Bündel des Marchese und sein schleuniger Aufbruch
+hatten mich gewarnt. Außerdem lief von der Büchse eine
 merkwürdige Lehmanhäufung wie ein Strich nach rechts in
-die Busch — etwa wie die Spur eines Maulwürfe, der
-die Erde schwingt. Unter diesem Lehmband haben wohl
-die Drähte gelegen!, und das Ganze war eine Höllenmaschine
-Komik elektrischen Zündung. — Schien wir uns die
-See genauer an.«
+die Büsche — etwa wie die Spur eines Maulwurfs, der
+die Erde hochwirft. Unter diesem Lehmband haben wohl
+die Drähte gelegen, und das Ganze war eine Höllenmaschine
+mit elektrischer Zündung. — Sehen wir uns die
+Sache genauer an.«
 
-Zunächst sahen wir ins selber an. Wir sahen nicht
+Zunächst sahen wir uns selber an. Wir sahen nicht
 schön aus. Straßengrabenlehm und der bläuliche Tonschlick
-der Zeltbahn hatten uns total verunziert. Ich holte meine
-Schätze aus dem Felde. Unser Auto war reif für den
-AUlteiserböändler und lag, die Unterseite nach oben, drüben
+der Fahrbahn hatten uns total verunziert. Ich holte meine
+Mütze aus dem Felde. Unser Auto war reif für den
+Alteisenhändler und lag, die Unterseite nach oben, drüben
 im Gestrüpp. Die Explosion hatte den Vorderteil vollkommen
-abgerissen und in der Straße einen Gronaftrichter gestohlen.
+abgerissen und in der Straße einen Granattrichter geschaffen.
 Hätte der Halunke die Zündung auch nur drei
-Sekunden!früher betätigt, wären von uns kaum noch die
-Reine übriggeblieben…
+Sekunden früher betätigt, wären von uns kaum noch die
+Beine übriggeblieben.
 
-Harald, Sie entsicherte Pistole schußbereit, kroch ins Gen
-Busch. An einem Strauß Wildrosen, von deren Blüten
-Nichts mehr vorhanden, hing ein Ende guk!solierte Doppelfize.
+Harald, die entsicherte Pistole schußbereit, kroch ins Gebüsch.
+An einem Strauß Wildrosen, von deren Blüten
+Nichts mehr vorhanden, hing ein Ende gut isolierte Doppellitze.
 Wir fanden auch die Stelle, wo jemand am Boden
 gekniet hatte. Auch den Eindruck eines viereckigen Kastens,
 offenbar eines Akkumulators, war noch im Grase zu erkennen.
-Die Ausruhen des Menschen, der die Bakterie betätigt hatte,
-waren fang und schmal, »Schuhgröße 81,« sagte Harald.
+Die Fußspuren des Menschen, der die Batterie betätigt hatte,
+waren lang und schmal. »Schuhgröße 41,« sagte Harald.
 »Es ist niemals der Marchese selbst gewesen, der Knirps
 hat höchstens 38, und falls er größere Latschen übergezogen
 <@pagebreak/>
-Bette, wären … die Fährten richtig klar, der Gang »Agra
-unsicheren gewesen. Lied ein Komplice … Folgen wieder
-Spur …« …
+hätte, wären die Fährten nicht so klar, der Gang wäre
+unsicherer gewesen. Also ein Komplice … Folgen wir der
+Spur …«
 
 Wir drängten uns durchs das Gestrüpp und blieben
-ersten? vor einem auf dem Gesicht liegenden Körper Steppen.
-Es war Kamel Baldwin Murgrave, der Oberinspektor von
-Scotland Bord. Sein Bitte war blutig, und über die Unterlippe
-hing traurig ein halb herausgeschlagener Zahn herab,
-Er holte einen Hinabsinken erhalten, und als er wieder seine
-traf Sinne beisammen hatte und aufrecht im Grase (aß,
+erstarrt vor einem auf dem Gesicht liegenden Körper stehen.
+Es war James Baldwin Murgrave, der Oberinspektor von
+Scotland Yard. Sein Kinn war blutig, und über die Unterlippe
+hing traurig ein halb herausgeschlagener Zahn herab.
+Er hatte einen Kinnhaken erhalten, und als er wieder seine
+fünf Sinne beisammen hatte und aufrecht im Grase saß,
 meinte er endlich undeutlich:
 
-»Das kommt davon, weit man zu spät! abdrückt.« Er
-hob seine Pistole aus dem Grase auf, zitterte sie und
+»Das kommt davon, weit man zu spät abdrückt.« Er
+hob seine Pistole aus dem Grase auf, sicherte sie und
 fügte hinzu: »Dieser edle Marchese war in Lungby und
 traf dort bei den ersten Villen mit einem baumlangen
-eleganten Herrn einsammeln, der einen Akku und »ein Paket
-trug, — der Akku war eingewickelt, jedoch leicht. Da mir
-der Lange bekannt vorkam, ging im ihm nach. Er hatte so
+eleganten Herrn zusammen, der einen Akku und ein Paket
+trug, — der Akku war eingewickelt, jedoch schlecht. Da mir
+der Lange bekannt vorkam, ging ich ihm nach. Er hatte so
 ganz gegen die Mode einen semmelblonden Spitzbart und
 auch eine Brille mit dunklen Gläsern, jedoch sein Riechorgan,
-ein enormes Ding von Hakennase, mußte wie unbedingt
+ein enormes Ding von Hakennase, mußte mir unbedingt
 schon bei einer peinlichen Affäre begegnet sein. Der Gentleman
 schwitzte mit dem schweren Akku wie ein Fettleibiger
-im Holzkasten, machte oft halt und drehte sich dann immer
-so verfänglich um, was das auf kein ganz sauberes Vors
-haben hindeutete. &r schlug die Richtung nach Kastell
+im Heizkasten, machte oft halt und drehte sich dann immer
+so verfänglich um, was doch auf kein ganz sauberes Vorhaben
+hindeutete. Er schlug die Richtung nach Kastell
 Mondalar ein, aber in den verdammten Büschen geriet
 er mir aus den Augen, und als ich ihn dann schließlich doch
-fand, kniete er hier neben dem Akku und — !- na, meine
+fand, kniete er hier neben dem Akku und — — na, meine
 drei Oberzähne gingen dann flöten, weil ich den Zeigefinger
-zu spät krumm machen wollte. Ich sage Ihnen, boten
+zu spät krumm machen wollte. Ich sage Ihnen, boxen
 kann der Kerl, einfach großartig! Ich habe meine fünf
-Sinne vors immer nicht recht beisammen, und das Kinn
+Sinne noch immer nicht recht beisammen, und das Kinn
 scheint mir ins Genick gerutscht zu sein. — Was wollte der
-Kerl nur mit dem Asphalt«
+Kerl nur mit dem Akku?!«
 <@pagebreak/>
-Harald deutete auf seine Unterpartie, die en einen
+Harald deutete auf seine Unterpartie, die an einen
 Ziegeleiarbeiter erinnerte. »Er wollte Schraut und mich umbringen,
-kehren Murgrave. Wir sagen uns jedoch in den
-Straßengraben Zuruf. und nur unser Auto lernte das
+lieber Murgrave. Wir zogen uns jedoch in den
+Straßengraben zurück, und nur unser Auto lernte das
 Fliegen.«
 
 Der Oberinspektor nickte und wischte sich die blutigen
-Lippen ad, die bereits blauen Pflaumen glichen. »Also das!
+Lippen ab, die bereits blauen Pflaumen glichen. »Also das!!
 Dann habe ich also den Marchese ganz richtig eingeschätzt.«
 
 »Wohl kaum … Besehen Sie sich mal diesen Ring.
 Um den ging’s bei dem Attentat. Der sollte mit uns
+verschwinden.«
 
-verschwinden.
-
-Der Oberinspektor betrachtete das kostbare Stück. Flöhe
-!ich fuhr er hob. »Das — das ist ja einer der Steine
-aus Lady Marbots Kollier!! Die Steine begaben ein besonders
-hohes Kapital und ausnahmdweise neun Facetten, daran
+Der Oberinspektor betrachtete das kostbare Stück. Plötzlich
+fuhr er sich. »Das — das ist ja einer der Steine
+aus Lady Marbots Kollier!! Die Steine haben ein besonders
+hohes Kapital und ausnahmsweise neun Facetten, daran
 sind sie leicht wiederzuerkennen …! Woher haben Sie den
-Ring, Harst«
+Ring, Harst?!«
 
 »Von Marchese Horatio Mondalassi …«
 
-Muxrgrave holte tief Atem. »Endlich eine Spur — —
+Murgrave holte tief Atem. »Endlich eine Spur — —
 endlich!! Ich werde Mondalassi verhaften.«
 
 »So?! Und — was gewinnen Sie dadurch?! Gar nichts!!
 Im Gegenteil, Sie werden nach London zurückkehren und auch
 Ihre Leute mitnehmen. Überlassen Sie uns hier das
-Feld, Murgrave. Wenigstens für heute. Natürliche; mühsam
-Sie in Lungby die Ortspolizei auf Ihren Harstfreund hetzen,
+Feld, Murgrave. Wenigstens für heute. Natürlich müssen
+Sie in Lungby die Ortspolizei auf Ihren Boxerfreund hetzen,
 damit der Schein gewahrt wird, und ebenso natürlich kehren
 Sie nachts verkleidet zurück. Wir wollen uns genau um
 Mitternacht an der verbotenen Badestelle treffen. Das Attentat
@@ -890,62 +888,62 @@ werde ich der Ortspolizei melden, da immerhin noch die
 Möglichkeit besteht, daß der Marchese nicht weiß, wer wir
 in Wahrheit sind. Auf Wiedersehen also … Vermeiden
 Sie hier bitte alle Stellen, wo allzu deutliche Spuren
-zurückbleiben …?Garten.«
+zurückbleiben könnten.«
 
 <@pagebreak/>
 
 <h2>4. Kapitel.</h2>
 <h3>Trügerisches Spiel.</h3>
 
-Der Baron von abmurksen und sein Diener erregten
-in den Straßen Lungbys einiges Aussehen, In diesem
-vornehmen Badeort waren derartige Schmutzfinken ein öfters«
-sie)es Nergernigs. Kreis wir im Hotel anlangten, saß dort auf
-der Terrasse, von der ah: 3 man den wunderbaren Bis über
-die Steilküste und die See hat, der Marchese und schlüpfte
-aus einem Strohhalm ein hellgrünes Getränk. Seine Gas
-sie/Sprache fand durch Absinthgenuß eine erleuch!ende Empörung.
+Der Baron von Haarkeem und sein Diener erregten
+in den Straßen Lungbys einiges Aufsehen. In diesem
+vornehmen Badeort waren derartige Schmutzfinken ein öffentliches
+Ärgernis. Als wir im Hotel anlangten, saß dort auf
+der Terrasse, von der aus man den wunderbaren Blick über
+die Steilküste und die See hat, der Marchese und schlürfte
+aus einem Strohhalm ein hellgrünes Getränk. Seine Gesichtsfarbe
+fand durch Absinthgenuß eine erleuchtende Erklärung.
 In seiner Gesellschaft bemerkten wir einige Bekannte
 Lord Edgars, und daß das Gesprächsthema um Hoppelears
 Verhaftung ging, war kaum anzuzweifeln.
 
-In Haraldäs Wohnsalon fehlte das, was fehlen konnte,
+In Haralds Wohnsalon fehlte das, was fehlen konnte,
 entgegen unserer Erwartung nicht: Die photographische Platte
-stand rosa in dem Umherstanden …
+stand noch in dem Trockenständer.
 
-»Komisch!!« sagte izarald und hielt sie gegen das Licht
-—» und lächelte, »Y4!so — der Herr Marchese war vor«
-einzig. Er hat uns hier zwar heimlich beehrt, jedoch lediglich
-die Stelle der Platte zerkratzt, die gefährlich war. »Sieb,
+»Komisch!!« sagte Harald und hielt sie gegen das Licht
+— und lächelte. »Ach so — der Herr Marchese war vorsichtig.
+Er hat uns hier zwar heimlich beehrt, jedoch lediglich
+die Stelle der Platte zerkratzt, die gefährlich war. »Sieh,
 mein Alter, hier neben dieser Klippe war ein Teil eines
 Frauenkopfes sichtbar: Prinzipessa Mona!! Der Kopf ist
-ausgetilgt — durch einen Zufalllrätzer!äyeinbar … scheinbar!
+ausgetilgt — durch einen Zufallkratzer scheinbar … scheinbar!
 Aber — zu spät, Herr Marchese, zu spät! Es wird
-Euer Gnaden doch an den Kragen gehen, Die Sache mit dem
+Euer Gnaden doch an den Kragen gehen. Die Sache mit dem
 Theaterprogramm war schon eine kapitale Dummheit, denn
 wer benutzt bei einem solchen Scherz einen solchen Ring
 und verbrennt dann das Programm! — Eine noch größere
 Dummheit war das Attentat gegen uns, und die allergrößte
-hier dieser Flecke Kratzer! Weitere ähnliche Entgleisungen
+hier dieser freche Kratzer! Weitere ähnliche Entgleisungen
 eines verbrecherischen Hirns werden folgen, denn — der
-Wartete hat … Angst so« uns, er weiß, wer wir sind,
-Er wußte es vielleicht schon bei unserer Ankunft, hier,
+Marchese hat … Angst vor uns, er weiß, wer wir sind.
+Er wußte es vielleicht schon bei unserer Ankunft hier,
 <@pagebreak/>
 denn er ließ Hoppelear überwachen. Ich will dir das nachher
 näher erklären. Nun erst ins Bad und umziehen und
-dann dem Herrn von Nummer 9 seinen Besuch abstreite«
+dann dem Herrn von Nummer 9 einen Besuch abstatten.«
 
-»Denn?«
+»Neun?«
 
-»Ja, nennt Und Hoppelear hatte Munter acht, Eile
-Balkons stoßen aneinander. Nur eilte Holzwand Freund sie.
-Eigentlich ist es ein. Balkon. »uf Hoppelears Vogelvolk
+»Ja, neun! Und Hoppelear hatte Nummer acht. Die
+Balkons stoßen aneinander. Nur eine Holzwand trennt sie.
+Eigentlich ist es ein Balkon. Auf Hoppelears Vogelnest
 besprachen wir abends den Fall. Der Nebenbalkon schien
-leer. Über wir sind doch belauscht worden.«
+leer. Aber wir sind doch belauscht worden.«
 
 Wir badeten. — Es war zwei Uhr, als Baron und
 Diener in Nummer neun Einlaß begehrten. Harald klopfte.
-Ein Kellner kam vorüber
+Ein Kellner kam vorüber …
 
 »Verzeihung, Mr. Stanzy ist abgereist.«
 
@@ -953,282 +951,279 @@ Ein Kellner kam vorüber
 
 »Vor einer Stunde, Herr Baron.«
 
-»Haben Sie den Schlüssel Getanzt hatte sich von mir
+»Haben Sie den Schlüssel? Stanzy hatte sich von mir
+ein Buch geliehen …«
 
-ein Buch geliehen …
-»Die Tür ist offen …« Treten Sie nur ein, Herr
-
+»Die Tür ist offen … Treten Sie nur ein, Herr
 Baron.«
-Per Kellner war ein Deutscher. Er begleitete uns in das
-Zimmer. Harald schloß die Tür und meinte leise: »Ich werde
-ie ins Vertrauen ziehen, Landsmann. Ich bin Harald
 
+Der Kellner war ein Deutscher. Er begleitete uns in das
+Zimmer. Harald schloß die Tür und meinte leise: »Ich werde
+Sie ins Vertrauen ziehen, Landsmann. Ich bin Harald
 Harst.
 
 Der Landsmann lachte verschmitzt. »Das war mir schon
+eine Stunde nach Ihrer Ankunft bekannt, Herr Harst. Ohne
+Verkleidung sind Sie denn doch zu … zu charakteristisch.«
 
-Palmenhaine Stunde nach Ihrer Ankunft bekannt, Herr Harst. Ohne
-
-Verkleidung sind Sie denn da zu … zu charakteristisch«
 »Und Sie haben Stanzy dies mitgeteilt?«
 
-»Nein, das nicht, … « Im habe es ihm nur bestätigt,
+»Nein, das nicht … Ich habe es ihm nur bestätigt,
+Herr Harst …«
 
-Herr Harst …
-»Baron Bitte …
-»Pardon … Heer Baron … — Mr. Stanzy fragte
+»Baron Bitte …«
 
+»Pardon … Herr Baron … — Mr. Stanzy fragte
 mich ganz offen, und da mußte ich wohl zugeben, daß
-
 auch ich Sie für Harst hielte.«
+
 »Beschreiben Sie mir Stanzy.«
 
 <@pagebreak/>
 Was wir hörten, waren die Personalien des eleganten
 Herrn mit dem Akku.
 
-»Also an&8gerückt, …!»’ meinte Harald achselzuckend. »Telephonieren
+»Also ausgerückt, …!« meinte Harald achselzuckend. »Telephonieren
 wir an die Polizei, mein Alter. Und Sie, Landsmann
 — wem haben Sie das große Geheimnis denn noch
 weiter zugeflüstert?!«
 
-»Niemandem — mein Werk, Herr Harst?«
+»Niemandem — mein Wort, Herr Harst!«
 
-Zehn Minuten drauf war der Pollzeicße?f von Lungby
+Zehn Minuten drauf war der Polizeichef von Lungby
 bei uns. Seine zwei Zentner ließen den Sessel krachen,
-und sein Mißvergnügen darüber, daß es für ihn neu! Arbeit
+und sein Mißvergnügen darüber, daß es für ihn neue Arbeit
 gab, war allzu offensichtlich.
 
-»Nein, wir sinken keine Ahnung, wer der Attentäter
+»Nein, wir haben keine Ahnung, wer der Attentäter
 war,« log Harald kaltblütig. »Die Hauptsache ist ja auch,
 daß das Loch in der Straße schleunigst ausgefüllt wird.«
+
 Stöhnend und ächzend schoben die zwei Zentner ab.
-Und wieder meldete uns der Liftboy Bein: den
+
+Und wieder meldete uns der Liftboy Besuch: den
 Marchese!
 
-»Nehmen Sie Platz, lieber … »Mondalassi … — Harald
-war die Liebenswürdigkeit selbst. »Sie kommen Ihres »Ringes
+»Nehmen Sie Platz, lieber … Mondalassi …« — Harald
+war die Liebenswürdigkeit selbst. »Sie kommen Ihres Ringes
 wegen … Ein kleiner Unfall hat mich bisher …«
 
 »Unfall?«
 
 »Ja — eine Dynamitmaschine, nichts von Bedeutung,
-Mard’efe. Man Renntier etwas auch Höllenmaschine, aber
+Marchese. Man nennt so etwas auch Höllenmaschine, aber
 die Hölle bleibt für die Anstifter reserviert, daher nur
-
 Dynamitmaschine.«
-Mondalassi paßte sein Einglas. »Erzählen Zieht
+
+Mondalassi putzte sein Einglas. »Erzählen Sie!!«
+
 »Gern …« — Er tat’s — »Ich möchte Ihnen
-
 nun eine Eröffnung machen,« fügte er hinzu und streckte
-
 dem Marchese die Hand hin. »Sie werden schweigen …
-
 Ich bin nicht Holländer. Ich bin Deutscher und heiße Harst,
+und mein Name ist einigermaßen bekannt.«
 
-und mein Name ist einigermaßen bekannt.« +
 Mondalassi kniff das linke Auge zu. »Ich habe nie
-
-an den Holländer geglaubt, Herr Harst. Gleich Sie heute
-
-Morgen dort bei den Klingen sah. wußte ich Bescheid.
-
+an den Holländer geglaubt, Herr Harst. Als ich Sie heute
+Morgen dort bei den Klingen sah, wußte ich Bescheid.
 <@pagebreak/>
-3H habe Ihr Bild zu oft in illustrierten Blättern gesehen.
-Edgar Hoppelear hat Sie beide natürlich herbeirufen.«
+Ich habe Ihr Bild zu oft in illustrierten Blättern gesehen.
+Edgar Hoppelear hat Sie beide natürlich herberufen.«
 
-»a. Und ich rechne auf Ihre Unterstützung, Marchese,
+»Ja. Und ich rechne auf Ihre Unterstützung, Marchese,
 zumal gerade Sie mir einen sehr wichtigen Dienst erweisen
-können. Zunächst aber — dritte, hier ist der Ging … Sie
+können. Zunächst aber — bitte, hier ist der Ring … Sie
 haben ihn in Mailand gekauft, sagten Sie. Bei wem?«
 
-Mondalassi hemmte umständlich das Monokel ein. »Es
+Mondalassi klemmte umständlich das Monokel ein. »Es
 war ein Gelegenheitskauf, Herr Harst … Ein Freund von
-mir hockte ungeheure Summen verspielt und bot mir den
-Ging an. Drei Tage drauf erschoß er sich. Das war
+mir hatte ungeheure Summen verspielt und bot mir den
+Ring an. Drei Tage drauf erschoß er sich. Das war
 am dritten Juni dieses Jahres, und am fünften reiste ich
-Pferden nach Kastell Mondalar’« …
+hierher nach Kastell Mondalar.«
 
-»Pech! ’meinte Harald sehr doppelsinnig, »Der Stein
+»Pech!« meinte Harald sehr doppelsinnig. »Der Stein
 in dem Ring ist nämlich bestimmt einer der Brillanten
-aus dem Heller der Lady Marbot’
+aus dem Kollier der Lady Marbot«
 
 »Sie scherzen!« Der Marchese machte ein überaus bestürztes
-Gesicht. »Wie käme mein Freund Achat zu einem
-gestohlenen Edelstein?!« — Er s!chauspielerke vollendet,
+Gesicht. »Wie käme mein Freund Amati zu einem
+gestohlenen Edelstein?!« — Er schauspielerte vollendet,
 
 »Das wird sich feststellen lassen, lieber Mondalassi. Darf
 ich Ihnen eine Zigarette anbieten? — Sie sind also erst
 so kurze Zeit hier? Gedenken Sie nun ständig in dem Kastell
-
 zu wohnen?«,
-»30, «— Unter uns gesagt: Ich bin mit meiner Cousine
 
+»Ja. — Unter uns gesagt: Ich bin mit meiner Cousine
 Mona verlobt.«
+
 »Gratuliere … — Wollen Sie mir also einen Gefallen
 tun?«
 
-»Sehr gerne Das
-»Du — die Sache ist nicht ungefährlich. Die Mörder
+»Sehr gerne …«
 
-der Lady Marbot sind bereits an der Arbeit, wirkte Konservenbüchse
-und die Messeregge beweisen ««
-da Horatio beugte sich vor … »Messeregge?! Was ist
-!! …
-»Das Ding, an dem Boppelear!sich beinahe aufgespickt
-hatte … Oberinspektor Murgrave zog diese Tage unterhalb
-der Sprungbrettklippe aus dem Wasser.« Er schilderte:j
+»Hm — die Sache ist nicht ungefährlich. Die Mörder
+der Lady Marbot sind bereits an der Arbeit, wie die Konservenbüchse
+und die Messeregge beweisen …«
+
+Horatio beugte sich vor … »Messeregge?! Was ist
+das?! …
+
+»Das Ding, an dem Hoppelear sich beinahe aufgespießt
+hätte … Oberinspektor Murgrave zog diese Egge unterhalb
+der Sprungbrettklippe aus dem Wasser.« Er schilderte
 <@pagebreak/>
 das Mordinstrument genauer. Was doch sehr überflüssig
-war, denn der edle Marchese kannte es besser als wir,
+war, denn der edle Marchese kannte es besser als wir.
 Überhaupt war mir Haralds Taktik vollkommen unverständlich.
 Er gab ja seine Trümpfe freiwillig aus der Hand,
 
-Mondalassi gelbfahles Gesicht zeigte einen Ausdruck
-maßlosen Staunens. »Hole eine Schurkerei ist ja unerhört!«
-rief er empört, »Ich stehe vollständig zu Ihrer Berg
-Fügung, Herr Harst, … « Weshalb wollten die Mörder denn
-den Lord beseitigen???«
+Mondalassis gelbfahles Gesicht zeigte einen Ausdruck
+maßlosen Staunens. »Solch’ eine Schurkerei ist ja unerhört!«
+rief er empört. »Ich stehe vollständig zu Ihrer Verfügung,
+Herr Harst … Weshalb wollten die Mörder denn
+den Lord beseitigen?!«
 
-»Das können Sie vielleicht herans&sfinden, Marchese. Die
+»Das können Sie vielleicht herausfinden, Marchese. Die
 Klippen liegen im Gebiet des Kastells. Ich bitte Sie, die
-bringen zu überwachen. Sind Sie Angler? — Ja? Das
-ist vortrefflicher Dann angeln Sie bitte von dieser Klippe
-ans, 6.« Er holte die Platte und bezeichnete den Felsen,
-hinter dem Monats Kopf sichtbar gewesen. »Leider hat
-das Stubenmädchen gerade hier einen Araber verursacht …
-In der Nahe dieser Klippe ist auch das Tau verborgen, an
-dem die Mordegge verankert ist Sollte sie ein Boot den
+Klippen zu überwachen. Sind Sie Angler? — Ja? Das
+ist vortrefflich. Dann angeln Sie bitte von dieser Klippe
+aus …« Er holte die Platte und bezeichnete den Felsen,
+hinter dem Monas Kopf sichtbar gewesen. »Leider hat
+das Stubenmädchen gerade hier einen Kratzer verursacht …
+In der Nähe dieser Klippe ist auch das Tau verborgen, an
+dem die Mordegge verankert ist. Sollte sich ein Boot den
 Außenklippen nähern, so verfolgen Sie es. Ihre Cousinen
-sagten mir, sie besaßen eine kleine Motorjacht. Nehmen
+sagten mir, sie besäßen eine kleine Motorjacht. Nehmen
 Sie die Jacht mit, sie läßt sich leicht zwischen den Klippen
 verbergen … Vergessen Sie auch eine Waffe nicht. Sobald
-kann also ein Boot erscheint und die Leute darin
-die Messeregge ans dem Wasser emporziehen sollten, schauen
-Sie sich die Betreffenden genau on und versuchen nachher
+dann also ein Boot erscheint und die Leute darin
+die Messeregge aus dem Wasser emporziehen sollten, schauen
+Sie sich die Betreffenden genau an und versuchen nachher
 herauszubringen, wo die Kerle landen.«
 
 »Famos!« rief Mondalassi begeistert und drückte Harald
-die Hand, »Ich« bin ganz der Ihre, lieber Harst! Sie
-körperlich vollkommen auf uns verlassen, …«
+die Hand, »Ich bin ganz der Ihre, lieber Harst! Sie
+können sich vollkommen auf uns verlassen …«
 
-»wenig?!«
+»Uns?!«
 
 »Ja — natürlich — uns, denn ich werde Giacomo mitnehmen.
 Er ist durchaus zuverlässig …«
 
-»Das glaube ich.«.!«
+»Das glaube ich …!«
+
 Nachdem wir dann noch über Nebensächliches eine halbe
 Stunde geplaudert hatten, verabschiedete der geriebene
 <@pagebreak/>
-Erwarte sich. Inzwischen. Bad« Uhr Haralds Fabrik nun doch
-klar geworden … Er hatte eilt drei: der Marchese ahnte
-nicht, daß ihm die SchlinF&abereitä um den Hals lag. Er
-einig und nahm die irrige Überzeugung mit, wir hätten
-gegen ihm nicht den geringsten Verdacht. Und das war auf.
-Harst hatte ja das Programm und den langen Mr. ’Stanzy
-
-mit Schuhgröße 81 überhaupt nicht erwähnt.
+Schurke sich. Inzwischen war mir Haralds Taktik nun doch
+klar geworden … Er hatte eins erreicht der Marchese ahnte
+nicht, daß ihm die Schlinge bereits um den Hals lag. Er
+ging und nahm die irrige Überzeugung mit, wir hätten
+gegen ihn nicht den geringsten Verdacht. Und das war gut.
+Harst hatte ja das Programm und den langen Mr. Stanzy
+mit Schuhgröße 41 überhaupt nicht erwähnt.
 
 <h2>5. Kapitel.</h2>
 
 <h3>Die gelben Rosen.</h3>
 
-As Mondalassi gegangen, erklärte Harald, daß meine
-Rolle als Pieter Erlen und die seine als »Baron« mancher
-ausgespielt! seien. »Es hätte keinen Zweck mehr, mein
-Alter … ihn entpuppen wir uns …« Er ließ den
+Als Mondalassi gegangen, erklärte Harald, daß meine
+Rolle als Pieter Braam und die seine als »Baron« nunmehr
+ausgespielt seien. »Es hätte keinen Zweck mehr, mein
+Alter … Also entpuppen wir uns …« Er ließ den
 Hoteldirektor kommen, und in Harsts Schlafzimmer wurde
-ein zweites Bett gestellt, ich kritische mich um und wir nahmen
+ein zweites Bett gestellt, ich kluftete mich um und wir nahmen
 im Speisesaal das Diner ein, wo unser Erscheinen einen
-Reinen Aufruhr hervorrief. Wir sind daran gewöhnt, und als
+kleinen Aufruhr hervorrief. Wir sind daran gewöhnt, und als
 dann Lord Edgars Freunde an unseren Tisch kamen, gab
-es ein roh! sicheres Stündchen, denn die feudalen Engländer
-beiwelifelten jetzt nie! mehr, daß ihr lieber Edgar in kurzem
-die Untersuchungshaft nur noch als komisches Intermezzo bedruckten
+es ein recht fideles Stündchen, denn die feudalen Engländer
+bezweifelten jetzt nicht mehr, daß ihr lieber Edgar in kurzem
+die Untersuchungshaft nur noch als komisches Intermezzo betrachten
 würde.
 
 Auf meine Frage an Sir Wordhouse, wie denn vorhin
-So der Terrasse der Marchese die Bekanntschaft der Herren
-Befehl stutzte, und Metall man ihn, der doch am ’Strande
-grob gewesen, zum Platznehmen aufgehender! habe, erwiderte
+auf der Terrasse der Marchese die Bekanntschaft der Herren
+gemacht hätte, und weshalb man ihn, der doch am Strande
+grob gewesen, zum Platznehmen aufgefordert habe, erwiderte
 Wordhouse, Mondalassi hätte sich in aller Form
 entschuldigt und eine solche Teilnahme für Hoppelear gezeigt,
-daß man ihm seine Entgleisung am Morgen nicht!
+daß man ihm seine Entgleisung am Morgen nicht
 weiter nachtragen konnte. — Harst sagte darauf, indem er
 den Kapellmeister der Hoteljazzband zerstreut beobachtete,
-der mit echt ungarischem Feuer soeben einen Csardas dir!-.
+der mit echt ungarischem Feuer soeben einen Csardas dirigierte:
 <@pagebreak/>
-gierte: »Sie sind von Edgars Duzfreund, Sir Wordhouse …
-Werft. 16 wurde der Verkehr zwischen Lady Marbot und
+»Sie sind doch Edgars Duzfreund, Sir Wordhouse …
+Weshalb wurde der Verkehr zwischen Lady Marbot und
 den beiden Damen des Kastells eingestellt?«
 
-»Tun, — Ihnen. Wer. Harst, dick ich nichts verhehlen
-.-, … Lady Moorboot merkte, daß Edgar für Mona
-Mondalassi reges Interesse zeigte. Flur war diese Heirat
-nicht genscbnti. Weshalb, Zaun ich nicht sagen. Sie halte
-ihre Schrullen,) die Lady. Dabei ist doch) gegen die Moos
-Palaste nichts einzuwenden, es sei den, dar sie die über
+»Nun, — Ihnen Mr. Harst, darf ich nichts verhehlen
+… Lady Marbot merkte, daß Edgar für Mona
+Mondalassi reges Interesse zeigte. Ihr war diese Heirat
+nicht genehm. Weshalb, kann ich nicht sagen. Sie hatte
+ihre Schrullen, die Lady. Dabei ist doch gegen die Mondalassis
+nichts einzuwenden, es sei denn, daß sie bis über
 beide Ohren in Schulden stecken.«
 
-Haralds gedankenverlorener ViiK!treifte mein Gesicht.
-Ich nickte … »Ja, das sitzt Edgar uns verschwiegen …«
+Haralds gedankenverlorener Blick streifte mein Gesicht.
+Ich nickte … »Ja, das hat Edgar uns verschwiegen …«
 — Er nickte auch … »Schade, der Nachtisch wird uns
-verlassen werden … Dort erscheint der die Polizeichef
-von Lungby … Der Ärmerer hat wohl noch nie in seinem
+versalzen werden … Dort erscheint der dicke Polizeichef
+von Lungby … Der Ärmste hat wohl noch nie in seinem
 Leben ein Dynamitattentat aufzuklären gehabt …«
 
-Die Herren hatten rote keine Ahnung davon. Aber
-ihre Fragen Terrassen., Wir gingen dem Wien entgegen.
+Die Herren hatten noch keine Ahnung davon. Aber
+ihre Fragen verpufften. Wir gingen dem Dicken entgegen.
 
-»Etwas Neues?« flüsterte Harsts: denn die Tische einsam
+»Etwas Neues?« flüsterte Harst, denn die Tische ringsum
 spitzten die Ohren.
 
 »Ja … « keuchten die zwei Zentner. »Kommen Sie um
-Gottes willen sofort mit, Mr. braucht … Mein Sergeant
-Coup, den ich zu der bewußten Stelle geschickt hatte,
+Gottes willen sofort mit, Mr. Harst … Mein Sergeant
+Toms, den ich zu der bewußten Stelle geschickt hatte,
 liegt tot im Gebüsch … Ich war nach ihm im Auto hingefahren
 … Ich weiß nicht, wo mir der Kopf sitzt …«
 
 »Beruhigen Sie sich: Noch immer auf dem Hals …
 Gehen wir.«
 
-Des Chefs Auto brachte uns in zehn Minuten an Ort …
-und Stelle. Aber Sergeant Tone war durchaus nicht Lot,
+Des Chefs Auto brachte uns in zehn Minuten an Ort
+und Stelle. Aber Sergeant Toms war durchaus nicht tot,
 sondern saß im Grase und schnaufte und ächzte … Er
 war lediglich von einem langen Strolch niedergeboxt und
 ausgeplündert worden. Er beschrieb den Kerl: Hager, sehr
 lang, fuchsigen Vollbart, zerlumpte Kluft und zerrissene
-
 braune Leinenschuhe.
+
 Nun — der Stromer hatte dort, wo der Akku ein paar
 <@pagebreak/>
 Schritte weiter gestanden hatte, alle Spuren säuberlich mit
-einzelner Harke ausgetilgt und war zweifellos mit Mr. Stanzy
-identisch, — Starken aus London, Ihygenieur, — natürlich
-alles Schwindel. — Wer war G&Stanzyv!
+einer Harke ausgetilgt und war zweifellos mit Mr. Stanzy
+identisch, — Stanzy aus London, Ingenieur, — natürlich
+alles Schwindel. — Wer war Stanzy?!
 
 Der Chef und sein Sergeant und ein Arbeiter füllten
-das GranatlocHh in der Straße aus. Wir beide wanderten
-des Stromers Fährte nach, die ostwärts zur Durfte lief.
+das Granatloch in der Straße aus. Wir beide wanderten
+des Stromers Fährte nach, die ostwärts zur Küste lief.
 Dort, wo das nackte Gestein begann, verlor sie sich, und
-als wir den Strand erreichten, hatten wir linker England
+als wir den Strand erreichten, hatten wir linker Hand
 Kastell Mondalar vor uns, das im Sonnenschein auf der
 Halbinsel mit den vom Meere umspülten Granitmauern
 wahrhaft imposant wirkte. Der Ostturm mit seinem grünen
 Efeu, den kleinen Balkons, Fenstern und Schießscharten bot
 einen überaus romantischen Anblick. Auf einem der Balkons
-sahen wir eine helle Gestalt. — »Monat!« sagte Harst.
-»Mona…die Verlobte Horatios und die von Edgar Hoppelear
-Ausgerkorene. Deshalb sollte Edgar sich auf der Ehe aufspießen.
-Eifersucht!! Italiener fackeln nicht lange!!’
+sahen wir eine helle Gestalt. — »Mona!« sagte Harst.
+»Mona, die Verlobte Horatios und die von Edgar Hoppelear
+Auserkorene. Deshalb sollte Edgar sich auf der Egge aufspießen.
+Eifersucht!! Italiener fackeln nicht lange!!«
 
 Wir standen halb hinter ein paar einzelnen Büschen.
 
-Ich … betrachtete mir den kleinen Hafen, in dem eine
-Jacht vertäut war. Eine Steinmole strahlte ihn gegen das
+Ich betrachtete mir den kleinen Hafen, in dem eine
+Jacht vertäut war. Eine Steinmole schützte ihn gegen das
 offene Meer hin. Auf der Jacht waren zwei Leute zu erkennen.
-Sie matten das kleine Fahrzeug los und steuerten
+Sie machten das kleine Fahrzeug los und steuerten
 südwärts den Klippen zu: der Marchese und der trinkgeldlüsterne
 Giacomo!
 
@@ -1239,182 +1234,178 @@ Als wir an der Haupttür läuteten, öffnete uns ein
 schwarzbärtiger Diener.
 
 »Der Herr Marchese ist angeln gefahren,« erklärte er
-höflich. Es war ein dürrer Kerl in s!chubiger Livree mit
+höflich. Es war ein dürrer Kerl in schäbiger Livree mit
 gelblichem Teint und schläfrigen Augen.
 
 Er führte uns in eine Art Salon. Die Damen würden
 sofort erscheinen … Er verschwand.
 
-Harald setzte sich in einen Plüschsessel, dessen Sprungssevern
+Harald setzte sich in einen Plüschsessel, dessen Sprungfedern
 <@pagebreak/>
-altersschwach s!töhnten. Er lächelte mir zu und fragte
-leise: »Wer gefällt die Besitzer, Giacomo oder Tiefer Schwarze?«
+altersschwach stöhnten. Er lächelte mir zu und fragte
+leise: »Wer gefällt dir besser, Giacomo oder dieser Schwarze?«
 
-»Ich gebe Strong den Vorzug … Loser Diener hatte
-etwas skheußsich Asiatisches an sich. Es kann kein Italiener
-sein. Zoo Halte ihn für einen hellhäutigen Tücken oder
-Spannten …«
+»Ich gebe Giacomo den Vorzug … Dieser Diener hat so
+etwas scheußlich Asiatisches an sich. Es kann kein Italiener
+sein. Ich Halte ihn für einen hellhäutigen Türken oder
+Ägypter …«
 
-Der Salon bezeugte die Armut der Mondalassi aufs
-sinufälligste. Ein Jammer, daß so hübsche Mädels, mochten
+Der Salon bezeugte die Armut der Mondalassis aufs
+sinnfälligste. Ein Jammer, daß so hübsche Mädels, mochten
 sie auch einen leichten moralischen Defekt haben, hier hausen
 mußten.
 
 Dann trat der Dürre wieder mit einem Teebrett ein,
-auf dem eine Flasche Obstwein, zwei »plumpe Glaser und
-eine Schuhe Keks standen, dazu Zigaretten, Zigarren und
-eine Base mit fünf köstlichen gelben Rosen. All das baute
-er sk)weigend vor uns auf. Ich sah dabei seine schlanken,
-schattigen stände und dankte für Keks,
+auf dem eine Flasche Obstwein, zwei plumpe Gläser und
+eine Schale Keks standen, dazu Zigaretten, Zigarren und
+eine Vase mit fünf köstlichen gelben Rosen. All das baute
+er schweigend vor uns auf. Ich sah dabei seine schlanken,
+schmutzigen Hände und dankte für Keks,
 
-»Wie beißen Sieg« fragte Harald den Höflich-Steifen.
+»Wie beißen Sie?« fragte Harald den Höflich-Steifen.
 
-»Früchte…Mr. Oberst. — Die Damen lassen sich noch
+»Ernesto, Mr. Harst. — Die Damen lassen sich noch
 einen Augenblick entschuldigen, die Schneiderin ist gerade
-zur Jagende da.« Verneigte sich und ging.
+zur Anprobe da.« Verneigte sich und ging.
 
 Harald flüsterte rasch: »Trinke nur zum Schein …
-Nach einer Weile schlafe«
+Nach einer Weile schlafe!«
 
 Ich war sofort im Bilde.
 
-Der Obstwein (»Erdbeer« lautete das Gelben der
-Fleisch war eine kleine Teufelei der Schwestern, die ihren
-Herrn Bettler hier also in dieser Beziehung würdig vertraten.
-Aber — er!chmekckte, der Wein … Ich leuchtete
+Der Obstwein (»Erdbeer« lautete das Schildchen der
+Flasche) war eine kleine Teufelei der Schwestern, die ihren
+Herrn Vetter hier also in dieser Beziehung würdig vertraten.
+Aber — er schmeckte, der Wein … Ich feuchtete
 mir freilich nur die Lippen an und wischte auch das Wenige
 mit dem Taschentuche weg. Er hatte keinerlei Beigeschmack.
 Ob Haralds Verdacht nicht doch falsch war?! — Wir unterhielten
 uns über gleichgültige Dinge, wir nahmen scheinbar
 noch einen Schluck, wir gähnten, — — das Gespräch schlief
-ein. wir sackten in unseren Sesseln zusammen, unsere Köpfe
+ein, wir sackten in unseren Sesseln zusammen, unsere Köpfe
 <@pagebreak/>
 pendelten müde, — — dann ruhten wir gleich Schläfern im
 grünen verschossenen Plüsch.
 
 Und warteten. Ich freute mich Schon, wenn Mona und
-Lucrezia eintreten würden und … — ja, was Tür« dann
-werden?! Harald hatte doch den Marchese völlig ii Erscheinen
+Lucrezia eintreten würden und … — ja, was würde dann
+werden?! Harald hatte doch den Marchese völlig in Sicherheit
 gewiegt, und …
 
--. die Für ging auf. Herein trat der heimlich des
-flüchtete Diener Ernesto, blieb überrascht stehen, musterte
+… die Tür ging auf. Herein trat der schäbig bekluftete
+Diener Ernesto, blieb überrascht stehen, musterte
 uns kopfschüttelnd, schlich näher heran, sah uns noch prüfender
 an, schlackerte seinen Pomadenschädel, horchte mit
 gespitzten Ohren auf unsere rasselnden Atemzüge und …
-hüstelte diskret — — einmal — — nochmals … obwohl
+hüstelte diskret — — einmal — — nochmals … nochmals
 … Ich hatte die Lider fast ganz zugekniffen, ich
 konnte ihn genau beobachten, — — er benahm sich durchaus
 so, als stände er hier vor einem unerhörten Wunder von
-Trostlosigkeit, denn daß such’ Herren, zwei Besucher hier
-einfach Nachmittagsschlaf hielten, kam ihm Dichterling als ein
+Taktlosigkeit, denn daß zwei Herren, zwei Besucher hier
+einfach Nachmittagsschlaf hielten, kam ihm sicherlich als ein
 schauerlicher Verstoß gegen den guten Ton vor. — Mir
 selbst wurde es bei diesem seltsamen Gehabe des Dieners
 ein wenig ungemütlich. Falls der Wein harmlos gewesen,
 mußte doch …
 
-Ab — der Schwarze langte nach der Flasche, die
+Ah — der Schwarze langte nach der Flasche, die
 nur noch halb voll war. Die andere Hälfte zierte als
 dunkle Flecken den abgetretenen Teppich.
 
-Er setzte die Flasche an den Mund … (Er … trank.
-Ist Borte es Brüdern … er trank den lebten Tropfen,
+Er setzte die Flasche an den Mund … Er … trank.
+Ich hörte es gluckern … er trank den letzten Tropfen,
 dann hustete er wieder, nachdem er die Flasche neben die
-Rosen gestellt und die Vase in die Hand genommen satte,
--» — und hustete stärker, senkte die Vase, — — alles ganz
+Rosen gestellt und die Vase in die Hand genommen hatte,
+— — und hustete stärker, senkte die Vase, — — alles ganz
 harmlos … und hielt sie Harald unter das Kinn …
-Alten ihn durch den Duft weder zu wollen …
+schien ihn durch den Duft wecken zu wollen …
 
 Harst schnellte plötzlich hoch, hatte die Augen weit
 aufgerissen … wollte schreien … irgend etwas … sank
-vornüber, riß den Tisch um, und der Diener … Frühe mir
-die gelben Prachtblüteit an die Nase, ich fühlte etwas wie
+vornüber, riß den Tisch um, und der Diener … drückte mir
+die gelben Prachtblüten an die Nase, ich fühlte etwas wie
 <@pagebreak/>
-einen feuchten kalten Hauch, mich etwas … — echt« rosa
-sehr scharf … und rutschte abwärts — — vom Siegel …
+einen feuchten kalten Hauch, roch etwas … — es roch
+sehr scharf … und rutschte abwärts — — vom Sessel …
 hinab in einen Abgrund … immer tiefer, immer schneller,
 
 »Sehr schlau,« sagte aus der Finsternis eine müde
-Stimme. »Sehr Schlaf, mein Alter … Die braunrote
+Stimme. »Sehr Schlau, mein Alter … Die braunrote
 Vase war aus Gummi, war ein Zerstäuber, gefüllt mit
-Damenhut, dem allerneuesten Bekäubungsmitte. Und wir
-beide sind dem Halunken so sein ins Garn gegangen!! Weißt
-
+Panophyl, dem allerneuesten Betäubungsmittel. Und wir
+beide sind dem Halunken so fein ins Garn gegangen!! Weißt
 du auch, wer das war? Das war Mr. Stanzy …!) Nur
-
 wieder in anderer Aufmachung.«
+
 Ich hörte die Worte, mein Hirn faßte sie auch, aber …
+im übrigen war ich noch Narkotisierter, fühlte mich Hundeelend
+und … fror … fror entsetzlich.
 
-im übrigen war ich noch Narkotkisierter, fühlte mich Hund« …
-
-elend und … fror … fror »entsetzlich.
-
-Es war ringsum finster. »Finsterer konnte es gar nicht
-sein. Es roch) hier wie in einem Kartoffelkeller — noch
-übler. Ich lag irgendwo auf -Stroh. Es raschelte. Dann
+Es war ringsum finster. Finsterer konnte es gar nicht
+sein. Es roch hier wie in einem Kartoffelkeller — noch
+übler. Ich lag irgendwo auf Stroh. Es raschelte. Dann
 huschte etwas blitzschnell über mein Gesicht. Zu jedem
-anständigen Verließ gehören Packen. Hier war ein Felsennest
+anständigen Verließ gehören Ratten. Hier war ein Rattennest
 schlimmster Art. Die Viecher hatten vor uns keinerlei
 Furcht. Es wurde ein Kampf im Dunkeln mit Fäusten
 und Füßen, und das machte mich munter, das half besser
 als Irgendein innerliches Mittel. Ich vernahm aus der
-
 Richtung, wo Harald sich befand, ähnliche Töne … Quieken,
-
 Klatschen, Fluchen, Trampeln …
 
-Es war scheußlich. Es war etwas, das!!H nur bei
-einem Kollegen, der nie in Indien war- und der doch die
-
-wundervolle Indienfahrt geschrieben, ähnlich geschüttelt gesunden
-Haube: Ekelerregend, lmarsträaubend, —. — das war
-ein stummes Morden, ein stummes Angreifer und Verteidigen,
+Es war scheußlich. Es war etwas, das ich nur bei
+einem Kollegen, der nie in Indien war und der doch die
+wundervolle Indienfahrt geschrieben, ähnlich geschildert gefunden
+habe: Ekelerregend, haarsträubend, — — das war
+ein stummes Morden, ein stummes Angreifen und Verteidigen,
 und … all das im Dunkeln, in einer Luft, die
-
 die Brust beengte, die eisige Schauer über die Haut trieb,
-
-die die Kehle beizte und die Flüche und Verwünschungen.
-rauh wie aus kranken Schränken hervorquellen ließ — die
-wenigen Flüche, denn hier ging’s ums Leben. hier ließ
+die die Kehle beizte und die Flüche und Verwünschungen
+rauh wie aus kranken Schlünden hervorquellen ließ — die
+wenigen Flüche, denn hier ging’s ums Leben, hier hieß
 <@pagebreak/>
-es, die kleinen Bestien.!sie vom Leibe streifen, von den
+es, die kleinen Bestien sich vom Leibe streifen, von den
 den Armen, vom Nacken, vom Rücken …
-Es war grauenhaft. Es mußten Hunderte von Kasten
 
+Es war grauenhaft. Es mußten Hunderte von Ratten
 sein …
-Dann zischte plötzlich in der Finsternis ein Fünkchen
 
-auf, ’.
-Das Fünkchen ward zum Flammen, entzündete eine
+Dann zischte plötzlich in der Finsternis ein Fünkchen
+auf …
+
+Das Fünkchen ward zum Flämmchen, entzündete eine
 Strohfackel …
 
 Da sah ich Harald … Er hielt die schnell brennende
 Leuchte ganz hoch … Er rief etwas … noch etwas …
 
-Und ich: sprang empor, packte den Rand der Mauernische,
+Und ich sprang empor, packte den Rand der Mauernische,
 zog mich empor. Harst half. Ich half ihm. Wir
 atmeten auf. Wir hockten nebeneinander in einer Einbuchtung
 der Steinquadern. Neben uns lag da ein langes verrostetes
 Rohr, ein altes Geschütz, und ganz hinten stand
-ein eiserner uralter Kasten … Nr brannte die Fackel. Ich
+ein eiserner uralter Kasten … Noch brannte die Fackel. Ich
 hob den Kistendeckel hoch — — er knirschte, kreischte in
 den rostigen Gelenken …
 
 Wir schauten hinein in diesen flachen Kasten, und
-Harst ließ die Fackel fallen … sie glitt an hm herab
-—» hinab in das Stroh, — — es lohte auf …
+Harst ließ die Fackel fallen … sie glitt an ihm herab
+— hinab in das Stroh, — — es lohte auf …
 
 Wir waren leichenblaß geworden.
-In der eisernen Kiste lag Mona Mondalassi, anscheinend
 
-<@pagebreak/>
-Loge 2 und Loge
+In der eisernen Kiste lag Mona Mondalassi, anscheinend
+tot …
+
+<@pagebreak 37/>
+
+<h1>Loge 2 und Loge 8</h1>
 
 <h2>1. Kapitel.</h2>
 
 <h3>Ein Eheprojekt.</h3>
 
-Die stinker:den gelben Qualmschwaden der feuchten Straße
+Die stinkenden gelben Qualmschwaden des feuchten Strohs
 wallten in dicken Wolken empor, durchzuckt von hinabrollen
 Flammen. Sie beizten uns die Augen, erfüllten das keine,
 aber hohe kahle Verriet mit der rotk-rostigen Eisentür im
@@ -1454,7 +1445,7 @@ Ich verstand es nicht … Er dränge mich beiseite,
 und mit einem Male schoß eine breite Bahn Ungesund
 in diese Hölle hinein … Ich sah dicht unter mir
 da draußen die Wogen des Meeres, sah die Reste des Mauerwerks
-eines kleinen Balkons, sah Harald hinauskriecchen auf
+eines kleinen Balkons, sah Harald hinauskriechen auf
 einen der eisernen Träger …
 
 Eine Tür, außen in der Farbe der Granitquadern
@@ -1839,7 +1830,7 @@ machen, da er selbst verhindert sei …«
 Harst sagte plötzlich: »Sie haben nichts dagegen, wenn
 ich rauche …« Er nahm eine Mirakulum, und ich ich
 es seinem Gesicht an, daß er seinen Geist wie stets durch
-das Nauschgist des Nikotius anfeuern wollte, Seine Miene
+das Rauschgift des Nikotins anfeuern wollte, Seine Miene
 verriet im übrigen nichts, als er fragte:
 
 »Welche Loge sagten Sie?«
@@ -2340,7 +2331,7 @@ den Hauch des Lebens, man ahnt die Schönheiten künstlerischer
 Bilder, ausgewählter Farben und Töne, und gerade
 dieses Ahnen wird gegenüber der Öde der Logen, des
 Parketts und der Eintönigkeit des eisernen Bühnenvorhangs
-zu einem unklaren Schauder vor dem Abgestordensein.
+zu einem unklaren Schauder vor dem Abgestorbensein.
 
 Es wär zehn Minuten nach Mitternacht, als in Loge
 im ersten Fang, wo Lady Marbot den Jod gefunden, eine
