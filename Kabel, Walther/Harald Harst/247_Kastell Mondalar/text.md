@@ -1406,235 +1406,234 @@ tot …
 <h3>Ein Eheprojekt.</h3>
 
 Die stinkenden gelben Qualmschwaden des feuchten Strohs
-wallten in dicken Wolken empor, durchzuckt von hinabrollen
-Flammen. Sie beizten uns die Augen, erfüllten das keine,
-aber hohe kahle Verriet mit der rotk-rostigen Eisentür im
-Nun mit erstanden Dämpfen, die lediglich oben unter der
-Decke durch zwei schmale Mauerschlihe ungenügenden Ah«-
-Zug hatten. Wir sahen nichts, mehr, wir hatten uns um
+wallten in dicken Wolken empor, durchzuckt von blaßroten
+Flammen. Sie beizten uns die Augen, erfüllten das kleine,
+aber hohe kahle Verließ mit der rot-rostigen Eisentür im
+Nu mit erstickenden Dämpfen, die lediglich oben unter der
+Decke durch zwei schmale Mauerschlitze ungenügenden Ah-
+Zug hatten. Wir sahen nichts mehr, wir hatten uns um
 Mona nicht mehr gekümmert. Harst war hinabgesprungen,
-hatte die Glut mit seiner Jacke. Zu ersticken versucht, war
-na) diesem Zwecklosen- Beginnen wieder zu mir in die
-Mauernische geflüchtet, das Feuekqriff auch auf die zweite
+hatte die Glut mit seiner Jacke Zu ersticken versucht, war
+nach diesem Zwecklosen Beginnen wieder zu mir in die
+Mauernische geflüchtet, das Feuer qriff auch auf die zweite
 Lagerstätte über, und leider hatten die Schurken nur allzu
 viel Stroh hierzu verwandt.
 
-Halbtote Matten verbrannten unter uns Mist gräßlichem
-Ansehen, — der Qualm drohte uns zu ersticken, es gab
-keine Rettung …«
+Halbtote Ratten verbrannten unter uns Mit gräßlichem
+Quieken, — der Qualm drohte uns zu ersticken, es gab
+keine Rettung …
 
 Die Todesangst, die Atemnot, die tränenden Augen,
-das Ware Bewußtsein, daß es mit uns aus sel, — ich —
+das klare Bewußtsein, daß es mit uns aus sei, — ich
 taumelte halb besinnungslos in den tiefsten Winkel der
-Manereinbhuchkung, fiel auf das uralte Geschütz und mit
+Mauereinbuchtung, fiel auf das uralte Geschütz und mit
 den Armen in die eiserne Kiste hinein.
 
 Dennoch hatte ich noch so viel Überlegung: die Kiste
-Pariser, meine Hände gerissen in Staub und vermoderte
+war leer, meine Hände griffen in Staub und vermoderte
 Fetzen …
 
 Mona war nicht mehr da!
 
-»derart] Sie ist fort!«: —
+»Harald! Sie ist fort!!«
 
-Seine Gestalt war in dem gelbbraunen rauf nur ein
+Seine Gestalt war in dem gelbbraunen Rauch nur ein
 <@pagebreak/>
-Schatten … Er kam näher … Ich hüstelte … Er rief
-
-Ich verstand es nicht … Er dränge mich beiseite,
-und mit einem Male schoß eine breite Bahn Ungesund
+Schatten … Er kam näher … Ich hustete … Er rief
+etwas ... Ich verstand es nicht … Er drängte mich beiseite,
+und mit einem Male schoß eine breite Bahn Tageslicht
 in diese Hölle hinein … Ich sah dicht unter mir
 da draußen die Wogen des Meeres, sah die Reste des Mauerwerks
 eines kleinen Balkons, sah Harald hinauskriechen auf
 einen der eisernen Träger …
 
 Eine Tür, außen in der Farbe der Granitquadern
-gestrichen, hakte uns aus der Hölle befreit. Wir hatten
+gestrichen, hatte uns aus der Hölle befreit. Wir hockten
 im Abendsonnenschein auf dem dicken Eisen, und wir erkannten
-den Ostturm des Kastells, gerufen uns des Strande
-… Bildes drüben, und unsere jagenden Herzen beruhigten sich
+den Ostturm des Kastells, freuten uns des Strand-
+Bildes drüben, und unsere jagenden Herzen beruhigten sich
 wieder.
-Harst 304 die kleine Tür zu … Blutrot stand der
+
+Harst zog die kleine Tür zu … Blutrot stand der
 Sonnenball über der Steilküste, mußte in kurzem untertauchen
-… Du die rollenden Wogen der See zogen
+… Durch die rollenden Wogen der See zogen
 sich rötliche Streifen, und das köstliche Gemälde dieser
-abendlichen Szenerie rate meine Seele und wette
+abendlichen Szenerie packte meine Seele und weckte
 die Freude am Leben und Kämpfen.
 
-Wir lebten und wir würden leben …? Mona hatte
+Wir lebten und wir würden leben …! Mona hatte
 uns gerettet. Mona …!! Ein neues Rätsel!! Mona war
-nicht tot,« nicht einmal bewußtlos gewesen, sie war durch
-dieselbe Tür geflüchtet, und Harst hakte dies durchschaut!
-Wohnte sie uns nun in guter Absicht oder wider ihren
+nicht tot, nicht einmal bewußtlos gewesen, sie war durch
+dieselbe Tür geflüchtet, und Harst hatte dies durchschaut!
+Mochte sie uns nun in guter Absicht oder wider ihren
 Willen den Weg ins Freie gewiesen haben: Sie blieb
-unsere Reiterin!
+unsere Retterin!
 
 Harald neben mir sagte mit jenem Gemisch überlegener
-Ironie und Herzlichkeit, die zuweilen seinen Worten doppeldeutig
-vermocht: »Gratuliere, mein Alter! Wöärest du nicht
+Ironie und Herzlichkeit, die zuweilen seinen Ton so doppeldeutig
+macht: »Gratuliere, mein Alter! Wärest du nicht
 in die Kiste gerutscht, hätte Oberinspektor Murgrave diese
-Nacht um zwölf umsonst auf uns gewartet. — Päckchen,
+Nacht um zwölf umsonst auf uns gewartet. — Nachher,
 wenn der Qualm abgezogen ist, werde ich mir das Verließ
 mal genauer ansehen. Es war sehr rücksichtsvoll von dem
 Herrn Ernesto alias Stanzy alias Strolch, daß er uns
 zwar die Taschen ausleerte, mir aber das Feuerzeug in der
 <@pagebreak/>
-»deren Wellentäler beließ, Die Achsel vorhandenen Holzteile
+oberen Westentasche beließ. Die noch vorhandenen Holzteile
 dieses Balkons werden als Fackeln genügen.«
 
-»We8&rulb nochmals direkt?!« Mir war der Gedanke
-vnsynipathiscp. Mieteten hier so vortrefflich geschützt. Die
-Efeustauden deren uns gegen Sicht.
+»Weshalb nochmals hinab?!« Mir war der Gedanke
+unsympathisch. Wir saßen hier so vortrefflich geschützt. Die
+Efeustauden deckten uns gegen Sicht.
 
 »Wir müssen doch endlich klar sehen, mein Alter,« sagte
 Harst und blickte in das Meer hinab. »Nachher springen
 wir ins Wasser und schwimmen an Land. Erst jedoch muß
-Monas Rattenfalle geklärt werden. Das Mädchen ist mir
-ein? Sphinx. Sie soll mit Horatio verlobt sein. Ich glaube
-es nicht. C&3 ist hier überhaupt alles mochten dunkel und
+Monas Retterrolle geklärt werden. Das Mädchen ist mir
+eine Sphinx. Sie soll mit Horatio verlobt sein. Ich glaube
+es nicht. Es ist hier überhaupt alles noch so dunkel und
 widerspruchsvoll.«
 
-»Allerdings — alles!! Wer ermordete Lady Macbeth!
-Etwa Mondalassi?! Und wirkt«
+»Allerdings — alles!! Wer ermordete Lady Marbot?!
+Etwa Mondalassi?! Und wie?!«
 
-»Du irrst ab. Wir haben zunächst andere Sorgen.
-Wer ist dieser Stanzy k! In« behaupte, er ist tote Hauptperson.
+»Du irrst ab ... Wir haben zunächst andere Sorgen.
+Wer ist dieser Stanzy?! Ich behaupte, er ist die Hauptperson.
 Der Marchese ist nur Handlanger, und Mona und
 Lucrezia sind vielleicht lediglich mißbrauchte Nebenwerkzeuge.
 Wenn wir nur unsere Pistolen hätten, dann sollte das Kastell
 sehr bald etwas erleben.«
 
 Es gibt Feen, die zwei waffenlosen Abenteurern selbst so
-profane Dinge wie zwei Elemente »zur rechten Zeit spenden.
+profane Dinge wie zwei Clements zur rechten Zeit spenden.
 
 Irgendwoher aus einer Schießscharte über uns schwebte
-ein Beutel freigab, und in dem Beutel befand sich all das,
+ein Beutel herab, und in dem Beutel befand sich all das,
 was wir vorher besessen hatten, bevor wir an den schönen
 gelben Rosen rochen. Es war ein weißer Leinenbeutel,
-wie die Haar ihm zum Austragen des Frühbrots benutzen.
-Die Schnur fiel ins Wasser, wir aber hatten alles: ’Jaschen-
+wie die Bäcker ihm zum Austragen des Frühbrots benutzen.
+Die Schnur fiel ins Wasser, wir aber hatten alles: Taschen-
 Lampen, Pistolen, Messer, Dietriche, Brieftaschen — bis
 zur Nagelfeile und den Zigarettenetuis!
 
-»Dank, schöne Mona,« sagte Harald und steckte seine
-Sachen zu sich. »Nun wird der Qualm sie; wohl der«.
+»Dank', schöne Mona,« sagte Harald und steckte seine
+Sachen zu sich. »Nun wird der Qualm sich wohl ver-
 zogen haben. Also — — hinein in die Rattenzuchtanstalt!«
 
 Die verrostete eiserne Tür des Verließes konnte dem
 Patentdietrich kaum widerstehen. Wir traten in einen kurzen
 <@pagebreak/>
-Gang, aus dem eine schlüpfrige Steintreppe Auswüchse sollte.
-Wir gelangten in den Mittelteil des Kastells und tragen
-seine Seele an. Alles. war wie ausgestorben — alle?! …
+Gang, aus dem eine schlüpfrige Steintreppe aufwärts führte.
+Wir gelangten in den Mittelteil des Kastells und trafen
+keine Seele an. Alles war wie ausgestorben — alles …
 Wir öffneten die Tür zu dem verhängnisvollen Salon,
 und — — auf dem Plüschsofa saßen die beiden jungen
 Damen in wenig angenehmer Verfassung, nämlich gefesselt
-und noch an die Sofalehne angekündet. Sie blickten uns
+und noch an die Sofalehne angebunden. Sie blickten uns
 aus blassen Gesichtern entgegen, ihre Mienen verrieten
 helles Entsetzen und in ihren Augen lag ein Ausdruck
 trostloser Verzweiflung.
 
 Wir befreiten sie rasch, und der temperamentvollen
+schwarzen Lucrezias erstes Wort war: »Harst — —?!«
 
-schwarzen Lucrezias erstes Wort war: »Harst — — yk«
-
-Sie dehnte dieses Wort endlos und in den Ton letzte
+Sie dehnte dieses Wort endlos und in den Ton legte
 sie eine Bangnis, als ob es sich bei der Antwort um ihr
 Leben handelte. Sie schaute Harald verängstigt an,
-und als er bestätigend nickte »und meinte: »Ihr Bettler hat
+und als er bestätigend nickte und meinte: »Ihr Vetter hat
 es Ihnen wohl erzählt …« schlug sie die Hände vor
-das Gesicht und flüsterte orientiert: »Dann ist alles verloren!«
+das Gesicht und flüsterte erschüttert: »Dann ist alles verloren!!«
 
 Mona Mondalassi beschränkte sich auf ein scheues Senken
 des Kopfes und auf ein übernervöses Spiel ihrer Hände,
 die hier vielleicht deutlicher sprachen als lange Erklärungen.
 
 Harald blickte mich an, und seine Züge deuteten auf
-eine Überraschung bin, die ihm gänzlich unerwartet gekommen.
+eine Überraschung hin, die ihm gänzlich unerwartet gekommen.
 
 Er beugte sich über Lucrezia und sagte zart: »Wollen
 Sie mir nicht die Wahrheit eingestehen?! So geht es doch
-nicht weiter. Sie haben beide den Boden unter den Künstler
-verloren, sie wandern auf einem trügerischen Gespinst da
-bin, tu’ dessen Bitte eine giftige Kreuzspinne hockt …«.
-Wer ist dieser Ernesto?1’
+nicht weiter. Sie haben beide den Boden unter den Füßen
+verloren, sie wandern auf einem trügerischen Gespinst da-
+bin, in dessen Mitte eine giftige Kreuzspinne hockt …
+Wer ist dieser Ernesto?!"
 
 Seltsam, — beide starrten ihn gleichzeitig verblüfft an.
-»Ernesto?« — und Mona schwärzeste das blonde Köpfen.
+»Ernesto?« — und Mona schüttelte das blonde Köpfchen.
 »Wir kennen keinen Ernesto … bei der Heiligen Jungfrau,
 Mr. Harst, — und wir sind gläubige Katholiken.«
 
 <@pagebreak/>
-»Man, er meinst sich auch Stanzy … —«
+»Nun, er nennt sich auch Stanzy …«
 
-»Stanzy?y!« wiederholte Lucrezia jetzt, und ihre Miene
+»Stanzy?!« wiederholte Lucrezia jetzt, und ihre Miene
 ward noch ratloser.
 
-Die meine und.
+Die meine auch.
 
 Harst ergänzte: »Er wohnte im Hotel in Lungby
-unter diesem Namen und hatte sie da eine Ydachsnass
+unter diesem Namen und hatte sich da eine Wachsnase
 in Hakenform angeklebt. Hier als Ernesto war die Nase
 durchaus normal bis auf die stark aufgeblähten Nüstern, an
-denen rosa Wachsprop;en kühlt waren. Diese sah ich und
-da er auch Himmels Schutze von Große 41 hatte, reinste
+denen rosa Wachspropfen schuld waren. Diese sah ich und
+da er auch schmale Schuhe von Große 41 hatte, rechnete
 ich mit einem Überfall.«
 
 Die beiden jungen Schloßherrinnen erklärten:
 
-»Wir Kenner ihn nicht!« Und sie redeten die Wahrheit.
+»Wir Kennen ihn nicht!« Und sie redeten die Wahrheit.
 Nur daß bei ihnen diese Ehrlichkeit mit einem nicht
-auszutilgenden Gefühl der Angst immer noch durchsah war.
+auszutilgenden Gefühl der Angst immer noch durchsetzt war.
 
 »Wer fesselte Sie denn?« fragte Harald und rückte
 einen Sessel heran. Ich selbst stellte mich an das eine
-Fenster und behielt die Hand Inder Jackentasche. Der Salon
+Fenster und behielt die Hand In der Jackentasche. Der Salon
 hatte zwei Türen. Ich wollte auf alles vorbereitet sein.
 
-Die Schwester! tauschten einen kurzen Blick. Mona
-nickte aufmunternd und meinte:. »Suche, wir dürfen nicht
+Die Schwestern tauschten einen kurzen Blick. Mona
+nickte aufmunternd und meinte: »Luzia, wir dürfen nicht
 schweigen. Mr. Harst würde ja doch die Wahrheit ergründen,
 und dann ständen wir in noch zweifelhafterem Lichte da.«
 
 Luzia begann, und vieles, sehr vieles kam äußerst zögernd
 heraus. Das Geständnis kostete sie große Überwindung.
-»Nr. Harst, damit Sie alles klar übersehen, muß ich etwa
-weiter ausholen. Als unser Baker vor zwei Jahren starb
-— unsere Mutter Einziehen früher von uns —, hinters
-ließ er uns nur Schulden. Er war ein Edelmann — mich
+»Mr. Harst, damit Sie alles klar übersehen, muß ich etwas
+weiter ausholen. Als unser Vater vor zwei Jahren starb
+— unsere Mutter ging schon früher von uns —, hinter-
+ließ er uns nur Schulden. Er war ein Edelmann — mit
 allen Vorzügen und Schwächen einer langen Ahnenreihe —
 gewesen. Wir wußten vor drückenden Verpflichtungen nicht
 ein noch aus, wir verpachteten das letzte Stück Land,
 schafften Auto und Pferde ab und arbeiteten insgeheim, —
 Mona malte, ich schriftstellerte, und Giacomo machte Reklame
-für die Besichtigung des Kastells und lieferte jeden Schlug
+für die Besichtigung des Kastells und lieferte jeden Schilling
 <@pagebreak/>
-ab, den er vereinnahmte, auch seine Schwester, bei traue
-Mensch! Selbst das Personal entliehen tote die auf ihn,
-brachen alle gesellschaftlichen Beziehwtmgen« ahnt-… es
-reihten doch nur einen Nuskim;b des bestanden vv Schusses
-unseres alter Schlosses, an dem wi? mit gitüuzchimn viertens
-Hängen. Vor einem Jahr etwa vor?, als die Gläubiger
-uns dann derart zusetzen, daß ich in: schlauer Berpueissung
-zu Lady Marbot fuhr und sie … um ein Darlehn ganz
-flehte. Die Lacht war außerordentlich hochmütig, Mir. Harst.
-Sie hat uns Mondalassi nie für der! angesehen, Schacht
-wir das Zwei auf den Fürstentitel Faden. Unsere isolierte
-sehen Ahnen waren nicht nur Wartete von Mondalassi,
-sondern auch Fürsten von Burg«/Mondalassi. Uns gebührt
+ab, den er vereinnahmte, auch seine Schwester, der treue
+Mensch! Selbst das Personal entließen wir bis auf ihn,
+brachen alle gesellschaftlichen Beziehungen ab und ... er-
+reichten doch nur einen Aufschub des drohenden Verlustes
+unseres alter Schlosses, an dem wir mit ganzem Herzen
+Hängen. Vor einem Jahr etwa war's, als die Gläubiger
+uns dann derart zusetzten, daß ich in meiner Verzweiflung
+zu Lady Marbot fuhr und sie … um ein Darlehn an-
+flehte. Die Lady war außerordentlich hochmütig, Mr. Harst.
+Sie hat uns Mondalassi nie für voll angesehen, obwohl
+wir das Anrecht auf den Fürstentitel haben. Unsere italienischen
+Ahnen waren nicht nur Marchese von Mondalassi,
+sondern auch Fürsten von Bara-Mondalassi. Uns gebührt
 die Anrede Prinzipessa, — uns Bettelgräfinnen …!« Sie
 errötete tief über die eigene Bitterkeit, und in ihren Augen
-erschien der feuchte Schimmer trüben Rücderinnerns an
+erschien der feuchte Schimmer trüben Rückerinnerns an
 schmachvolle Demütigungen. »Ich fuhr also zu Lady Marbot,
 und ich tat es nur deshalb, weil wir mit Sir Stuart
 Marbot, dem Sohn und Erben dieser zweitreichsten Frau
-Englands, bekannt geworden waren, der den;: kurz darauf
+Englands, bekannt geworden waren, der dann kurz darauf
 tödlich verunglückte. Die Lady nahm mich freundlich auf,
-und in taktovollster Weise begann sie selbst über unsere bedrängte
+und in taktvollster Weise begann sie selbst über unsere bedrängte
 Lage zu sprechen und bot mir auch ein langfristiges
-Darlehn an, stellte gedacht eine Bedingung …«
+Darlehn an, stellte jedoch eine Bedingung …«
 
-Quarz schaute zu Boden … 7; Sie sprach noch zögernder…
+Luzia schaute zu Boden … Sie sprach noch zögernder.
 
 »Mylady hatte unseren Fleiß und unsere Bescheidenheit
 schätzen gelernt. Sie … wünschte, daß ich … Stuart
@@ -1644,81 +1643,81 @@ Harald blickte überrascht auf. »Und — Sie weigerten
 sich?! Denn Sir Stuart Marbot soll ein Wüstling und
 Taugenichts gewesen sein.«
 
-»Ich … daß mir Bedenkzeit aus,« erwiderte Luzia leise.
-»Mein Herz war frei, Ader — — Sir Stuart flößte mir
-Abscheu ein. Mylady jagte mir ganz offen, er brauche eine
-energisOe Frau, und gerade mir traue sie es sehr wohl Zu,
+»Ich … bat mir Bedenkzeit aus,« erwiderte Luzia leise.
+»Mein Herz war frei, aber — — Sir Stuart flößte mir
+Abscheu ein. Mylady sagte mir ganz offen, er brauche eine
+energische Frau, und gerade mir traue sie es sehr wohl Zu,
 <@pagebreak/>
 ihren Sohn günstig zu beeinflussen. Sie gab auch zu, dieses
 Eheprojekt längst erwogen zu haben, und ich könnte sicher
-sein, daß sie selbst alles tun mwmürde, ihren Sohn dahin
-zu bestimmen, daß er als mein Packte ein anderes Leben
-begänne. Trotzdem blieb. ich bei meiner Bitte, Mylady möge
-nur Bedenkzeit gewähren. Offenbar machte dies auf sie
+sein, daß sie selbst alles tun würde, ihren Sohn dahin
+zu bestimmen, daß er als mein Gatte ein anderes Leben
+begänne. Trotzdem blieb ich bei meiner Bitte, Mylady möge
+mir Bedenkzeit gewähren. Offenbar machte dies auf sie
 einen sehr günstigen Eindruck, sie küßte mich und übergab
-mir dann glatte Letzteres zehntausend Pfund Sterling, ohne
+mir dann ohne weiteres zehntausend Pfund Sterling, ohne
 eine Quittung zu verlangen.«
 
-Wieder schwieg Luzia Mondalassi, und dir Gesicht wurde
-starr und düster, als sie fortfuhr: »Ich kehrte in sehr zur
+Wieder schwieg Luzia Mondalassi, und ihr Gesicht wurde
+starr und düster, als sie fortfuhr: »Ich kehrte in sehr
 zwiespältiger Stimmung heim. Mona empfing mich in der
-Vorhalle … Dir Stuart sei im Salon, flüsterte sie mir
+Vorhalle … Sir Stuart sei im Salon, flüsterte sie mir
 zu, und er scheine leicht angetrunken und sie wüßte nicht
 recht, was er eigentlich wünsche. Als ich ihn dann begrüßte,
-merkte ich-, daß er tfatsächlich betrunken war. Er zeigte sich
+merkte ich, daß er tatsächlich betrunken war. Er zeigte sich
 mir gegenüber unerhört zudringlich, und es kostete mich
-die größte Überwindung, schnarcht einfach die Tür zu
-weisen. Er Schurke Mona hinaus, — er wolle mit mir allein
+die größte Überwindung, ihm nicht einfach die Tür zu
+weisen. Er schickte Mona hinaus, — er wolle mit mir allein
 sprechen, und dann … dann machte er mir ein Angebot,
-das … das geradezu brutal unverschäin!! war …«
+das … das geradezu brutal unverschämt war …«
 
-Fehlt begann sie zu schluchzen … Sie suchte nach
+Jetzt begann sie zu schluchzen … Sie suchte nach
 Worten, sie weinte, und Harald nahm ihre Hände und
-sagte tröstend: »Gegen Sie sich nicht auf, Prinzipessa …
+sagte tröstend: »Regen Sie sich nicht auf, Prinzipessa …
 Der Lump kannte Ihre verzweifelt Lage, und er bot Ihnen
-Gelb, wenn Sie seine Geliebte werden wollten. — Verzeihen
-Sie, daß ich dies so kurz alias. Weshalb wollen Sie sich
-noch länger quälen?! Besser ein harter Schnitt, ein kurzer:
-Schmerz als ein demütigendes Bemänteln durch Redens&sarten.«
+Geld, wenn Sie seine Geliebte werden wollten. — Verzeihen
+Sie, daß ich dies so kurz abtue. Weshalb wollen Sie sich
+noch länger quälen?! Besser ein harter Schnitt, ein kurzer
+Schmerz als ein demütigendes Bemänteln durch Redensarten.«
 
-»Und — dann?« …
+»Und — dann?«
 
 »Dann … schlug ich diesen gemeinen Menschen ins
 Gesicht und warf ihm den gelben dicken Umschlag mit den
 Banknoten vor die Füße. »Da — nehmen Sie das Geld
 <@pagebreak/>
-zurück,« jagte ich nur. »Bestellen Sie Ihrer Frau Mutter,
-
+zurück,« sagte ich nur. »Bestellen Sie Ihrer Frau Mutter,
 daß ich herzlich danke …«
-»Und — — weiter?«
-»Ich verließ den Salon, und auch Sir Sktuark!uhr in
 
-einem Auto sofort davon. Als ich den Salon wieder betrat,
-der gelbe Umschlag noch auf dem Teppich …«
+»Und — — weiter?!«
+
+»Ich verließ den Salon, und auch Sir Stuart fuhr in
+seinem Auto sofort davon. Als ich den Salon wieder betrat,
+lag der gelbe Umschlag noch auf dem Teppich …«
 
 Sie erblaßte langsam …
 
-»Es war bereits zu spät, um nochmals nach MarbotkCastle
+»Es war bereits zu spät, um nochmals nach Marbot-Castle
 mich zu begeben. Ich wollte es morgens tun und
-Mylady das. Geld persönlich zurückgeben. In der Nacht
+Mylady das Geld persönlich zurückgeben. In der Nacht
 wurde das Geld uns gestohlen.«
 
-Harst gab Lustige Hände frei und meinte kalt:
-… ««&8 muß ein. Schurke gewesen sein, dieser Stuart
-Marbot!’
+Harst gab Luzias Hände frei und meinte kalt:
+
+"Es muß ein Schurke gewesen sein, dieser Stuart
+Marbot!"
 
 Luzia schüttelte traurig den Kopf.
 
 »Ihre Vermutung ist irrig, Mr. Harst. Er stahl das
-Held nicht. Er hat in jener Nacht den Traveller-Klub in
+Geld nicht. Er hat in jener Nacht den Traveller-Klub in
 London nicht verlassen, wo er von zehn bis fünf Uhr
-sieh am Spieltisch saß, wie der Privatdetektiv Tomaly
+morgens am Spieltisch saß, wie der Privatdetektiv Tomaly
+feststellte, den wir insgeheim mit Nachforschungen betrauten.«
 
-streifte, den wir insgeheim mit Nachforschungen betrauten.«
+<h2>2. Kapitel.</h2>
 
-Kg. Falles,
-
-Stettiner! Marke?!,
+<h3>Sir Stuart Marbot.</h3>
 
 Haft zog ein wenig die Stirn kraus. Er schien nachzudenken,
 »Tomaly? Wer ist denn den?!« meinte er verwundert.
