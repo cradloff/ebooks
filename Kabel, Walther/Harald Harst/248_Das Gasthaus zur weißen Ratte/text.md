@@ -2,9 +2,9 @@
 
 Das Gasthaus zur weißen Ratte
 
-1\. Kapitel.
+<h2>1. Kapitel.</h2>
 
-Die Sandsteins der Platte
+<h3>Die Hand auf der Platte</h3>
 
 Die Baronesse Blanche von Ettar empfing uns am
 Parktor.
@@ -12,27 +12,27 @@ Parktor.
 Man soll nie übertreiben: Es war kein Parktor, es
 waren nur Trümmer davon.
 
-Und — daß diese junge »semmelblonde Dame mit dem
-abgeschabten Lodenlkostüin und dem eroberten Herrenjäger«
-Hütchen und den löcherigen Schuhen ein? Baronesse? war,
+Und — daß diese junge semmelblonde Dame mit dem
+abgeschabten Lodenkostüm und dem zerbeulten Herrenjägerhütchen
+und den löcherigen Schuhen eine Baronesse war,
 hätte ihr niemand angesehen.
 
-Wer freilich dieses. schmale, auf den ersten Blick recht
+Wer freilich dieses schmale, auf den ersten Blick recht
 nüchtern wirkende Antlitz zergliederte, wer Verständnis für
-graublaue Nixenaugen, für eine rassige, schmale Rast halb
-und wer in&sbesondere Hände zu beurteilen weiß, der ahnte
+graublaue Nixenaugen, für eine rassige, schmale Nase hat
+und wer insbesondere Hände zu beurteilen weiß, der ahnte
 wohl sofort unter dieser schäbigen Aufmachung das durch
-Generationen üÜberzüchtete, aber doch edle Blut eines uralten
-Geschlechts, dessen Sprossen nicht nur die eigene Scholle des
-gehadert und als kühne Landsknechte den Degen geschwungen,
-sondern auch den verschiedenartigsten Zweigen der Wissen« —
-Gatten namhafte Förderer und Autoritäten geschenkt hatten.
+Generationen überzüchtete, aber doch edle Blut eines uralten
+Geschlechts, dessen Sprossen nicht nur die eigene Scholle beackert
+und als kühne Landsknechte den Degen geschwungen,
+sondern auch den verschiedenartigsten Zweigen der Wissenschaften
+namhafte Förderer und Autoritäten geschenkt hatten.
 
 »Ich danke Ihnen, meine Herren, sagte die Baronesse
 und streckte mir die Hand hin, während Harald noch mit
 dem Chauffeur verhandelte, der uns von Berlin hier nach
 Schloß Garpenburg gebracht hatte und uns auch wieder nach
-Erledigung dieses sicherlich recht harmlosen Auftrag nach.
+Erledigung dieses sicherlich recht harmlosen Auftrag nach
 <@pagebreak/>
 Hause mitnehmen sollte.
 
@@ -40,279 +40,274 @@ Harald trat zu uns. Blanche von Ettar schaute ihm
 entgegen, als ob sie seine Persönlichkeit bis auf den Grund
 der Seele prüfen wollte. Auch ihm reichte sie die überschmale
 Hand, die ein so zerbrechliches Gelenk und so tadellos gepflegte
-Finger hatte und von der Maisonne bereits so dunkel ge
-drauf war. Sie lächelte ein wenig und meinte mit seiner
+Finger hatte und von der Maisonne bereits so dunkel gebräunt
+war. Sie lächelte ein wenig und meinte mit feiner
 Ironie wie zu sich selbst: »Nicht wahr, ich bin ein ganz
-anmaßendes kleine&8 Frauenzimmer, daß ich es wagte, Sie
+anmaßendes kleines Frauenzimmer, daß ich es wagte, Sie
 beide eines einfachen Diebstahls wegen hierher zu bemühen.
-Wir Frauen haben ja alle demselben Fehler. Wir übers
-schaffen regelmäßig die Wichtigkeit derjenigen Dinge, die uns
+Wir Frauen haben ja alle denselben Fehler. Wir überschätzen
+regelmäßig die Wichtigkeit derjenigen Dinge, die uns
 selbst etwas angehen. Und mich geht dieser Einbruch ja
 insofern etwas an, wie ich Ihnen schon am Fernsprecher
 mitteilte, als ich keinen Waffenschein besitze und dem Kerl
 eins auf den Pelz gebrannt habe — mit einem Revolver
 älteren Formats, den man besser als Bumerang benutzt als
-zum Genießen …« Sie lächelte rote) stärker und zeigte
-ihre Prachtvollen Zähne zwischen den vollen, aber Kringel«
-&chwungenen Lippen. »Ich habe also richtiggehende Angst
-»vor unbefugter Wassendelikanklage, um mich kurz auszu’
-drücken. Verstarb ließ im auch die Polizei aus dem Spiel
-und das Sie beide, mir zu packen und zu helfen, zumal ich
-nocc4 etwas anderes von dem Diebe erwischt Haube: Keins
-Sand!«
+zum Schießen …« Sie lächelte noch stärker und zeigte
+ihre Prachtvollen Zähne zwischen den vollen, aber feingeschwungenen
+Lippen. »Ich habe also richtiggehende Angst
+vor unbefugter Waffenbesitzanklage, um mich kurz auszudrücken.
+Deshalb ließ ich auch die Polizei aus dem Spiel
+und bat Sie beide, mir zu raten und zu helfen, zumal ich
+noch etwas anderes von dem Diebe erwischt habe: Seine
+Hand!«
+
 Sie zwinkerte lustig mit den Augen und blickte Harald
 fast herausfordernd an. Diese Andeutung über die Hand
-sollte er logisch gutmütigen, Er tat’s. Wir schritten dem
-Schlosse zu, und er erklärte: »Wenn Sie seine hat erwischt
-haben, Böoronesse, geht daraus dreierlei hervor. Erstens:
-Sie beiden irre ihrer mißlichen pekuniären Lage noch irgendein
-Wertstück, dessen Vorhandensein auch den Herren Lange
-Fingern bekannt ist, denn — verzeihen Sie schon — im
+sollte er logisch ausmünzen. Er tat’s. Wir schritten dem
+Schlosse zu, und er erklärte: »Wenn Sie seine Hand erwischt
+haben, Baronesse, geht daraus dreierlei hervor. Erstens:
+Sie besitzen trotz ihrer mißlichen pekuniären Lage noch irgendein
+Wertstück, dessen Vorhandensein auch den Herren Langfingern
+bekannt ist, denn — verzeihen Sie schon — im
 übrigen ist doch auf Schloß Garpenburg nichts zu holen …«
-Weiß Gott, da haben Sie recht, Herr Sollt’ bestätigte
+
+»Weiß Gott, da haben Sie recht, Herr Harst,« bestätigte
 <@pagebreak/>
-mit einem melancholischen Gesicht, »Ärmer gleich
-kann Darum eine Schloßherrin sein …«
+sie mit einem melancholischen Gesicht. »Ärmer als ich
+kann kaum eine Schloßherrin sein …«
 
 »Zweitens: Die Herren Langfinger oder vielleicht immer
 derselbe der Gilde hat schon mehrere Versuche unternommen,
-das Wertstück zu stehlen. Bastkorb haben Sie vor dem
-&Edrunt oder dergleichen, wo es verwahrt wird, eine Momentkamera
-und einen Vlitzlichtapparat aufgestellt und« so wenig
-wenigstens jetzt die Hand des »dunklen Gentleman auf die Platte
-bekommen … Denn daß Sie ihm die Band nicht ade
-geschossen oder abgehackt haben, ist wohl selbstverständlich,«
+das Wertstück zu stehlen. Deshalb haben Sie vor dem
+Schrank oder dergleichen, wo es verwahrt wird, eine Momentkamera
+und einen Blitzlichtapparat aufgestellt und so wenig
+wenigstens jetzt die Hand des dunklen Gentleman auf die Platte
+bekommen … Denn daß Sie ihm die Hand nicht abgeschossen
+oder abgehackt haben, ist wohl selbstverständlich,«
 
 »Verdient hätte er’s,« murmelte sie halblaut, und ich
 war erstaunt über den rachsüchtigen Ton. »Nun — und
 drittens?« fügte sie hinzu, da Harald schwieg.
 
-»Ja, drittens, … « sagte er; gedehnt! und betrachtete
+»Ja, drittens, … « sagte er gedehnt und betrachtete
 zerstreut das vor uns auftauchende unschöne alte Bauwerk,
 das wahrlich nicht den Namen Schloß verdiente. »Drittens …
 und in diesem Punkte mag ich mich irren: Sie haben
 an dieser Hand irgend etwas Besonderes wahrgenommen,
-sonst Hüften Sie wohl kaum am … Telephon die Redensart
-gebraucht: »ich habe den Dieb ganz in der Hand« …«
+sonst hätten Sie wohl kaum am Telephon die Redensart
+gebraucht: »Ich habe den Dieb ganz in der Hand« …«
 
-Die Baronesse blieb stehen und hüstelte ihren Jägerfilz.
-»Gleichung, Respekt!! Sie können etwas, Herr Harst!!
+Die Baronesse blieb stehen und lüftete ihren Jägerfilz.
+»Hochachtung, Respekt!! Sie können etwas, Herr Harst!!
 Es stimmt, — — denken Sie, die Hand hat nur vier
 Finger, und zwar fehlt der kleine Finger, und zwischen
 Daumen und Zeigefinger hält die Hand irgendein Instrument,
-das vielleicht ein Dietrich ist, obwohl munter kaum einen
+das vielleicht ein Dietrich ist, obwohl man so kaum einen
+Dietrich zu halten pflegt …«
 
-Dietrich; zu halten pflegt …«
-»Sie sprechen ja wie einer von der Zunft, Baronesfe!!’
+»Sie sprechen ja wie einer von der Zunft, Baronesse!!«
+Jetzt lächelte Harald … »Was wissen Sie von Dietrichen?!«
 
-Jetzt lächelte Harald … »Was wissen Sie von Dietrichm?tt«
 Aber seine gute Laune fand in ihren Zügen keinen
-
 Widerschein … Sie krauste die hohe kluge Stirn und
+zerknüllte ärgerlich ihren Filz, dem das freilich nichts mehr
+schadete,
 
-dort sie ärgerlich ihren Filz, dem das freilich nichts mehr
-öffnete,
-
-»Nichts verstehe ich davon — leider?« stieß sie kurz
-
-hervor und schritt weiter … »Lassen wir die Chronist! Ich
+»Nichts verstehe ich davon — leider!« stieß sie kurz
+hervor und schritt weiter … »Lassen wir die Theorie!! Ich
 <@pagebreak/>
-werde Sie nun mit meiner Wohnhöbhle bekannt machen …
+werde Sie nun mit meiner Wohnhöhle bekannt machen …
 — Bitte, — nicht dorthin … Ich hause ja im früheren
-RNentmeiijtergebäude, das immerhin noch leidlich wenig baufällig
+Rentmeistergebäude, das immerhin noch leidlich wenig baufällig
 ist. Das Schloß selbst zeige ich niemandem … Ich
-schäme mich, Sie selig ja: Die Eichenläden sind überall
-geschlossen, und fest dem Tode meines Onkels, der an mir
-Vaterstelle: vertrat, bin ich nicht mehr in dem Sie meiner
-sogenannten Ihnen gewesen. Also — — links bitte, — —
+schäme mich. Sie sehen ja: Die Eichenläden sind überall
+geschlossen, und seit dem Tode meines Onkels, der an mir
+Vaterstelle vertrat, bin ich nicht mehr in dem Sitze meiner
+sogenannten Ahnen gewesen. Also — — links bitte, — —
 das einstöckige Häuschen … Freilich, die Aussicht über
 den See ist großartig …«
 
-Da hatte sie wieder recht, diese Letzte der Sarg, —
+Da hatte sie wieder recht, diese Letzte der Ettars, —
 die Aussicht über den weiten Garpensee lohnte allein schon
 die Autofahrt in diese märkische Einsamkeit. Hellgrüne,
-jungfrishe Bäume umsäumten das gegenüberliegende Ufer,
+jungfrische Bäume umsäumten das gegenüberliegende Ufer,
 und deutlich erkannte man in diesem grünen Streifen die
 weißen Punkte der Villenkolonie — weiße Villen, am Strande
 zerstreut … jenseits des im Sonnenglast schillernden
 Wassers.
 
-»I, Herr Schrank,« entgegnete die Baronesse auf meine
+»Ja, Herr Schraut,« entgegnete die Baronesse auf meine
 Bemerkung über die weißen Punkte, »ja — das ist etwas,
-das wir den See verleidet …! Ich hasse die da drüben, die
-Berliner Großen, die sich dort eingenistet haben und denen
+das mir den See verleidet …! Ich hasse die da drüben, die
+Berliner Protzen, die sich dort eingenistet haben und denen
 ich das Terrain dort verkaufen mußte, weil mir das
 Messer an der Kehle saß …!! Wie ich sie hasse!! Sie machen
-sich mit ihren Jachten und Booten selbst! auf meinem See
-breit … das heißt, ich habe ihn ja verachtet, oder besser,
+sich mit ihren Jachten und Booten selbst auf meinem See
+breit … das heißt, ich habe ihn ja verpachtet, oder besser,
 der Zwangsvollstrecker tat’s, denn Garpenburg ist überschuldet
 und … — doch … bitte — — treten Sie ein, meine
-
 Herren …«
 
 Aus einem mit roten Ziegeln ausgelegten Flur führte
-Ne uns links in ein großes dreifenstriges Zimmer, das mit
-allerlei zusammengestellten Möbeln ausgestattet war, Da
+sie uns links in ein großes dreifenstriges Zimmer, das mit
+allerlei zusammengestellten Möbeln ausgestattet war. Da
 war ein Mahagonischreibtisch, da war ein Pianino, ein
 Eichenbüfett, ein kleines Billard mit zerrissenem Tuch … —
-da war alles, was man auf einem Lombardspeicher vorfinde!
+da war alles, was man auf einem Lombardspeicher vorfindet
 <@pagebreak/>
-— — billig … billigst. Vor dem schäbigen 2subsofa
-was ein Frühstückstisch gedeckt, daneben stand ein Zaumzeugen
-alles Wann von Gesichtes Ader Magerkeit mit einer faltigen
-GulenjHnauie.
+— — billig … billigst. Vor dem schäbigen Klubsofa
+war ein Frühstückstisch gedeckt, daneben stand ein baumlanger
+alter Mann von erschreckender Magerkeit mit einer faltigen
+Eulenschnute.
 
-»Mein Diener Kolonne.« stellte die Baronesse vor,
-»Wirft Mein Hattest, Chauffeur eines nicht vorhandenen
-Borneo und mein Vderinspektior … Aber eine treue Seele,
-die neueste Tue es geben dann …«
+»Mein Diener Friedrich,« stellte die Baronesse vor,
+»gleichzeitig mein Kutscher, Chauffeur eines nicht vorhandenen
+Autos und mein Oberinspektor … Aber eine treue Seele,
+die treueste die es geben kann …«
 
-je Wollte laut auf die Schauten … »Mach er mir
-Fein so grünliches Gesicht, Monsieur Friedrich …! Hieß
-hier sind die bewußten Herren … — Du benutzt nicht
+Sie klopfte ihm auf die Schultern … »Mach’ er mir
+kein so grünliches Gesicht, Monsieur Friedrich …! Dies
+hier sind die bewußten Herren … — Du brauchst nicht
 bei Tisch zu bedienen …«
 
 Der alte Mann blickte uns aus entzündeten milchigen
 Augen trostlos an, verneigte sich tief und verschwand.
 
 Die Baronesse Blanche von Ettar beobachtete Harst, der
-sich gemächlich in diesem Möbelspeicher umsehe die.
+sich gemächlich in diesem Möbelspeicher umschaute.
 
-»Ab — das Zylinderbüro ist wohl,« meinte er fragend
-und wies auf ein zerkratztes Mahagonistüs, dessen Rolle
-Klappe hochgeschoben war, »ck
+»Ah — das Zylinderbüro ist’s wohl,« meinte er fragend
+und wies auf ein zerkratztes Mahagonistück, dessen Rollklappe
+hochgeschoben war.
 
-»Sturmes, Herr Harst … Wollen wir Ader nicht erst
-frübjtüdentt«
+»Stimmt, Herr Harst … Wollen wir aber nicht erst
+frühstücken?!«
 
-»Fein. Erst die Arbeit, Sonntag Bergnügez … —
-Da ist ja auch die Kamera und der Blitliczapparat … Sehr
-schlau aufgebaut, Komtesse … ich Der Dieb 83? vor Schreck
-also nicht einmal Zeit gefunden, das Zylinderbüro zu Sie
-brechen … Und dort die ausdrückte Fensterscheibe …
+»Nein. Erst die Arbeit, dann das Vergnügen … —
+Da ist ja auch die Kamera und der Blitzlichtapparat … Sehr
+schlau aufgebaut, Komtesse …! Der Dieb hat vor Schreck
+also nicht einmal Zeit gefunden, das Zylinderbüro zu erbrechen
+… Und dort die eingedrückte Fensterscheibe …
 Sein Weg hier herein … Und dort am Fenster lehnt ja
-auch die Platte …« Er ging bis« und hielt- die bereits
-erwiderte Platte gegen das Licht. Ich trat neben ihn.
+auch die Platte …« Er ging hin und hielt die bereits
+entwickelte Platte gegen das Licht. Ich trat neben ihn.
 
-»Das soll ein Dietrich sein?!« meinte er auslachend.
+»Das soll ein Dietrich sein?!« meinte er auflachend.
 »Wissen Sie, was das ist, Baronesse?! Das ist … ein
 Rattenschwanz, den die Hand zwischen Daumen und Zeigefinger
-hält …!! Unten am Plattenrand erkennt man auch
-noch) ein Stück der Kehrseite des Tieres … Es muß eins
+hält …! Unten am Plattenrand erkennt man auch
+noch ein Stück der Kehrseite des Tieres … Es muß eine
 weiße Ratte gewesen sein …«
 
 <@pagebreak/>
-»Über Herr Harst, — Sie scherzen!«
+»Aber Herr Harst, — Sie scherzen!!«
 
-»Durchaus nicht!! — Schraut, dein Arbeit?«
+»Durchaus nicht!! — Schraut, dein Urteil?«
 
-»Weiße Rotes«. entschied ich), Und ich wunderte ich,
-daß die Baronesse nicht selbst darauf gekommen war. &s
-war ein Rattenschwanz und ein Siücduxy des Hintarlzi:8
+»Weiße Ratte!« entschied ich, Und ich wunderte mich,
+daß die Baronesse nicht selbst darauf gekommen war. Es
+war ein Rattenschwanz und ein Stückchen des Hinterleibs
 einer … weißen Ratte.
 
-»Seltsam …« sagte Harst koz:fsschzüttelnd. »Wozu schleppte
-der Dieb sich mit einer weißen Worte herw:19!«
+»Seltsam …« sagte Harst kopfschüttelnd. »Wozu schleppte
+der Dieb sich mit einer weißen Ratte herum?!«
 
 Die Baronesse hantierte an den Zylinderbüro und zog
-ein Geheimfach auf. »Hier — — bitter«
+ein Geheimfach auf. »Hier — — bitte!«
 
-Sie hielt uns ein Schächtelchen entgegen, und Form
-lag auf Stichworten Seide ein hajelnuhßgroßer geschliffener
-wasserklarer Diamant von jeneyi!so sehr begehrten zart bläulichen
-Stimmen …
+Sie hielt uns ein Schächtelchen entgegen, und darin
+lag auf schwarzer Seide ein haselnußgroßer geschliffener
+wasserklarer Diamant von jenem so sehr begehrten zart bläulichen
+Schimmer …
 
 »Der Glücksstein der Ettars,« erklärte Blanche leise,
 und ihre Stirn zeigte wieder tiefe Furchen. »Unverkäuflich
-laut testamentarischer Bestimzuuung meines Großvaters
-
-— ihm aus Südafrika mitbrachte und bestimmte, daß der
+laut testamentarischer Bestimmung meines Großvaters
+der ihm aus Südafrika mitbrachte und bestimmte, daß der
 Diamant Eigentum des preußischen Staates sein sollte, sobald
-wir Ettars einmal ausfüllen.«
+wir Ettars einmal ausstürben.«
 
-Harald betrachtete das Juwel mit Kenüerbli. »Wert
-rund zweihunderttausend … « beugte er … »Und den
-Stein. lassen Sie hier in diesem alten Zylinderbüro, Wanne
+Harald betrachtete das Juwel mit Kennerblick. »Wert
+rund zweihunderttausend …« schätzte er … »Und den
+Stein lassen Sie hier in diesem alten Zylinderbüro, Baronesse?!«
 
-»Einem Stahlschrank besitze ich nicht, und ein Hufe in
-einer Bank auch nicht. Außerdem — — dritte, suchen Sie
-doch einmal — das Geheimfach!! Ich möchte den sehen, der
+»Einem Stahlschrank besitze ich nicht, und ein Safe in
+einer Bank auch nicht. Außerdem — — bitte, suchen Sie
+doch einmal das Geheimfach!! Ich möchte den sehen, der
+es findet!!«
 
-es findet1f«
+»Ich … sah es, Baronesse … Die schwarze Randsäule
+des Mittelfaches ist hohl …«
 
-»Ich … sah es, Baronesse … Die schwarze Rauchsäule
-des Mittelfaches ist hohl …
-
-»Gott« Sie nahm das Schächtelchen und griff mit
+»So?!« Sie nahm das Schächtelchen und griff mit
 der Hand in das Mittelfach hinein. Es knackte metallisch
 und wir hörten ein Surren, das schnell verstummte. »Suchen
 Sie!«
 
 <@pagebreak/>
-Wir … versuchten’s. Beide Jagdhütten waren hohl —
+Wir … versuchten’s. Beide Randsäulen waren hohl —
 aber leer …
 
-einigen Minuten gab Harald die Jacht zu]. »Weg
-halb die Zeit verhandeln?! — Setzen wir uns … Erzählen
-Sie nun alles im einzelnen, Betonen: …«
+Nach einigen Minuten gab Harald die Sache auf. »Weshalb
+die Zeit vertrödeln?! — Setzen wir uns … Erzählen
+Sie nun alles im einzelnen, Baronesse …«
 
-Das Geblüht verstand aus Eiern, Schinken, Lag
-b702, Butter und je Presse eine Flasche Bier.
+Das Frühstück bestand aus Eiern, Schinken, Landbrot,
+Butter und je Person eine Flasche Bier.
 
-»… 3 ist wohin viel zu erzählen, meine Herren.
-Beginnen wir mit den persönlichen Verbältnissex. Ich bin
-jetzt einundzwanzig Vor anderthalb Jahren stand mein
-Teufel Hermann von Ettar, ältester Bruder meines Vaters,
-Oberstaatsanwalt a. D. Er hatte mir hier als Zungygejellz
-nach dem Tode meiner Eltern Gesellschaft gereizte:. Seit
-seinem Hinscheiden täuschen der alle!: mit Friedrich Her«
-nie, unserem alten Faktotum, und der ebenso alten Köchin
-Luise Mischte. Die Zwangsverwaltung erwähnte ich schon.
+»… Da ist nicht viel zu erzählen, meine Herren.
+Beginnen wir mit den persönlichen Verhältnissen. Ich bin
+jetzt einundzwanzig. Vor anderthalb Jahren starb mein
+Onkel Hermann von Ettar, ältester Bruder meines Vaters,
+Oberstaatsanwalt a. D. Er hatte mir hier als Junggeselle
+nach dem Tode meiner Eltern Gesellschaft geleistet. Seit
+seinem Hinscheiden hause ich hier allein mit Friedrich Zernick,
+unserem alten Faktotum, und der ebenso alten Köchin
+Luise Nischke. Die Zwangsverwaltung erwähnte ich schon.
 Der Herr … Reparationsagent ist ein Diplomlandwirt und
 wohnt drüben im Inspektorhause außerhalb des Parkes. Gott
-sei Dank — wir sehen uns kaum, Zuerst! wollte der Herd
-Herbert Pikulski mit mitten einen kleinen Flirt beginnen
-und zog sich eine große Abfuhr zu. Tür kleine Jaktiosigfeiten
+sei Dank — wir sehen uns kaum. Zuerst wollte der Herr
+Herbert Pikulski mit mir so einen kleinen Flirt beginnen
+und zog sich eine große Abfuhr zu. Für kleine Taktlosigkeiten
 habe ich stets große Kübel kalt Wasser in Bereitschaft. Ich
-lebe einsam wie im Kloster. Der Herr Vepsgraionsagent
+lebe einsam wie im Kloster. Der Herr Reparationsagent
 zahlt mir jeden Monat zweihundert Mark aus. Damit ist
-nicht viel anzufangen. Vor einem Vierteljahr, also in! Januar,
-fand der erste Einbruchsversuch statt, im Federn er der zweite,
+nicht viel anzufangen. Vor einem Vierteljahr, also im Januar,
+fand der erste Einbruchsversuch statt, im Februar der zweite,
 jetzt in der verflossenen Nacht der dritte. Die beiden ersten
-Male verscheuchten meine Hunde die Diebe. 5ch meldete die
-Sache unserem Landjäger. — Weg nun die Vorfälle von
+Male verscheuchten meine Hunde die Diebe. Ich meldete die
+Sache unserem Landjäger. — Was nun die Vorfälle von
 gestern betrifft, so hätte ich dazu nur noch anzugeben, daß
-ich dort hinter der Milcglastür mein Schlafzimmer habe,
+ich dort hinter der Milchglastür mein Schlafzimmer habe.
 Meine beiden Schäferhunde knurrten plötzlich, ich erwachte,
-hier slamymte das Blitzlicht auf und ich lief mit dem Revolver
+hier flammte das Blitzlicht auf und ich lief mit dem Revolver
 durch den Flur ins Freie — im Schlafanzug … Ich sah
-den Dieb, wie er lich auf sein Motorrad schwang. und feuert!
-
+den Dieb, wie er sich auf sein Motorrad schwang und feuerte.
 <@pagebreak/>
-Es war Mondlicht, und der Man schrie leise auf und saugt?
+Es war mondhell, und der Mann schrie leise auf und sauste
 davon. Das war alles.«
 
-»und die Hunden«
+»und die Hunde?«
 
-»Ich bringe geh: an den Tieren. Ich hatte sie im Sohle
-Zimmer gelassen. — Ich entwickelte sofort die Pforte gern
-mal zwölf und fand so die vierfingerige linke Bad auf
-der Platte. Morgens acht Uhr rief ab Sie an, und ich
-danke Ihnen herzlich, daß Sie sofort getrennten sind. Bisher
-wissen nur Sie beide und meine beiden Blicken von dem
+»Ich hänge sehr an den Tieren. Ich hatte sie im Schlafzimmer
+gelassen. — Ich entwickelte sofort die Platte neun
+mal zwölf und fand so die vierfingerige linke Hand auf
+der Platte. Morgens acht Uhr rief ich Sie an, und ich
+danke Ihnen herzlich, daß Sie sofort gekommen sind. Bisher
+wissen nur Sie beide und meine beiden Altchen von dem
 Abenteuer. — Genügt Ihnen das?«
 
-»Durchaus« matte Harald und Rahm durch dritte echt.
-»Ich werde mir mancher alles gründlich ansehen. Sie sicheren
+»Durchaus,« nickte Harald und nahm das dritte Ei.
+»Ich werde mir nachher alles gründlich ansehen. Sie fürchteten
 also, der Dieb hätte Ihre Hunde erschießen können,
-Baronesse yt«
+Baronesse?!«
 
-»Natürlich …« Sie zog wieder die Stirn?kraus. Riese
-Eigenart verschönte sie nichts Ihr Gesicht bekam dann)
-etwas Hartes, Finsteres. Sie moctytie Post wobei unter den
+»Natürlich …« Sie zog wieder die Stirn kraus. Diese
+Eigenart verschönte sie nicht. Ihr Gesicht bekam dann
+etwas Hartes, Finsteres. Sie mochte doch wohl unter den
 Traurigen Verhältnissen mehr leiden als sie zugab. Ich hielt
 sie für stolz und verschlossen. In ihren Zügen war freilich
-viel Unausgeglüihenes und Widersprucosvollcs.
+viel Unausgeglichenes und Widerspruchvolles.
 
 Harald blickte zum Mittelfenster hin, wo die Platte
 Trocknete,
@@ -320,24 +315,23 @@ Trocknete,
 »Wissen Sie, Baronesse,« sagte er grüblerisch, »Ihr Trick
 mit der Blitzlichtaufnahme ist vielleicht wichtiger, als es
 scheint. Schraut, besinnst du dich auf Lückes Mitteilungen
-vorgestern beim Skatabendy!t«
+vorgestern beim Skatabend?!«
 
-»3 …! Ja …!! Kriminalkommissar Doktor Lücke (regste
-von den Geldschrankknacern, die in letzter Zeit Mittel
+»Ja …! Ja …!! Kriminalkommissar Doktor Lücke erzählte
+von den Geldschrankknackern, die in letzter Zeit mit so
 verblüffendem Erfolg gearbeitet haben. Und bei diesen fünf
 geglückten Tresoröffnungen fand man stets den Abdruck einer
 vierfingerigen linken Hand — ohne den kleinen Finger.
 Natürlich trug der Mann einen Gummihandschuh, und Lücke
-meinte, diese Abdrücke seien Absicht: Irreführung«
+meinte, diese Abdrücke seien Absicht: Irreführung!«
 
 Blanche von Ettar machte große Kinderaugen. »Das
-üt ja fabelhaft interessant!« rief sie recht burschikos. »Nun,
+ist ja fabelhaft interessant!« rief sie recht burschikos. »Nun,
 <@pagebreak/>
-Herr Wurst: die Polizei wünsche!H hier nicht zu schenkt
-Diskretion Ehrensache, Herr Harsts«
-»Selbstverständlich?’
+Herr Harst: die Polizei wünsche ich hier nicht zu sehen!!
+Diskretion Ehrensache, Herr Harst!«
 
-Reden
+»Selbstverständlich!«
 
 <h2>2. Kapitel.</h2>
 
@@ -352,7 +346,7 @@ und ein paar Blutstropfen bildeten die kärglichen
 Ergebnisse unserer stundenlangen Bemühungen. was Harald
 gerade die Riffelung der Pneumatiks, die sich in einer feuchten
 Co helle am Parktor scharf eingeprägt hatten, nachzeichnete,
-erschien ein mittelgroßer Mann im. ländlichen Inspektorkostüin
+erschien ein mittelgroßer Mann im. ländlichen Inspektorkostüm
 und wurde uns als Herr Herbert Pikulski vorgestellt: der
 Zwangsverwalter! Er mochte dreißig Jahre alt sein, hatte«
 ein kühnes, frisches Gesicht, das lediglich durch ein stetes
@@ -613,7 +607,7 @@ Hand« darunter … Und wir — — sind Ihrenmitglieder
 dieses Vereins entspannen Jugend«
 
 Ich: nahm einen langen Schluck, um den bitteren Strome
-binadzuspülen. Das alte. Wirtvsdaus war seiner
+hinabzuspülen. Das alte. Wirtvsdaus war seiner
 intimsten Reize entkleidet und zur … Verbrecherspelunke
 GSinabgesunkez Schade …
 
@@ -1703,7 +1697,7 @@ weg. »Natürlich war der Einbruch längst vorbereitet
 und,
 
 Um das Haus herum kam da der hagere alte Diener
-Friedrich berangestelzt.
+Friedrich herangestelzt.
 
 »Guten Morgen …« Tiefe Verneigung … »Baronesse
 Blanche lassen die Herren bitten zu ihr zu kommen … Baronesse
