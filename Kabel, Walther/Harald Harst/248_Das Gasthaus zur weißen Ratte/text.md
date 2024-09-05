@@ -337,41 +337,40 @@ Diskretion Ehrensache, Herr Harst!«
 
 <h3>Ein ländliches Idyll.</h3>
 
-Die Fenster des RVentmeisterhauses hatten stark verwitterte
-Eisenläden. J’er Dieb war durch das linke Fenster eingedrungen.
+Die Fenster des Rentmeisterhauses hatten stark verwitterte
+Eisenläden. Der Dieb war durch das linke Fenster eingedrungen.
 Die Arbeit verriet einen Fachmann. Die Scheibe
-war auf neuartige Weise eingedrückter. An Fußspuren war
+war auf neuartige Weise eingedrückt. An Fußspuren war
 nichts mehr zu finden. Nur die Radeindrücke des Motorknatterers
 und ein paar Blutstropfen bildeten die kärglichen
-Ergebnisse unserer stundenlangen Bemühungen. was Harald
+Ergebnisse unserer stundenlangen Bemühungen. Als Harald
 gerade die Riffelung der Pneumatiks, die sich in einer feuchten
-Co helle am Parktor scharf eingeprägt hatten, nachzeichnete,
-erschien ein mittelgroßer Mann im. ländlichen Inspektorkostüm
+Stelle am Parktor scharf eingeprägt hatten, nachzeichnete,
+erschien ein mittelgroßer Mann im ländlichen Inspektorkostüm
 und wurde uns als Herr Herbert Pikulski vorgestellt: der
-Zwangsverwalter! Er mochte dreißig Jahre alt sein, hatte«
+Zwangsverwalter! Er mochte dreißig Jahre alt sein, hatte
 ein kühnes, frisches Gesicht, das lediglich durch ein stetes
-ironisches Lächeln waäsympeathisch wirkte …
+ironisches Lächeln unsympathisch wirkte.
 
 Die Baronesse hatte sehr geistesgegenwärtig für uns zwei
+andere Namen erfunden.
 
-Ende Kommen erfunden, —
-»Die Herren sind alte Bekannte. von wie,« erklärte sie
-
-v3ä34. »Wir haben soeben zufällig festgestellt, daß nachts hier
+»Die Herren sind alte Bekannte von mir,« erklärte sie
+dazu. »Wir haben soeben zufällig festgestellt, daß nachts hier
 im Park ein Motorradler gewesen ist … Da sind die
 Spuren …«
 
 Pikulski nickte. »Das sehe ich … Aber Sie haben
 ja selbst ein Motorrad, Baronesse.«
 
-»Ja, das kannst ist … Und die Pneumatiks sind glatt
-und geführt, und das hier sind Eindrücke von ganz neuen
-Reifen
+»Ja, das kaputt ist … Und die Pneumatiks sind glatt
+und geflickt, und das hier sind Eindrücke von ganz neuen
+Reifen."
 
 »Scheint so …« Pikulski lächelte fortwährend. »Dann
-ist der Schuß, den ich in der Nacht hörte, wohl eine Also
+ist der Schuß, den ich in der Nacht hörte, wohl eine 
 <@pagebreak/>
-gaserexplosion gewesen, … « Er fixierte die Baronesse eigentümlich
+Vergaserexplosion gewesen …« Er fixierte die Baronesse eigentümlich
 und wandte sich an Harald …
 
 »Verzeihen Sie, mein Herr … Sie haben eine verblüffende
@@ -380,236 +379,236 @@ mir durchaus gegenwärtig sind. Ich lese nämlich alle Erlebnisse
 der beiden Freunde, und hier diese Photographie des
 berühmten Paares ließ ich mir vor einem Jahr vom Verlag
 schicken …« Er zog das Postkartenbild aus der Brieftasche
-und schaute uns prüfend an. »Merkwürdig — — diese Schritten!!
+und schaute uns prüfend an. »Merkwürdig — — diese Ähnlichkeit!!
 Meine Herren, Sie entschuldigen schon, Sie sind
 Harst und Schraut, und offenbar ist hier wieder eingebrochen
-worden …
+worden …"
 
 Er hatte Handschuhe an. Der linke war auf dem
-Handrücken sehr dich, hatte einen Buckel, als ob darunter
+Handrücken sehr dick, hatte einen Buckel, als ob darunter
 ein Verband säße.
 
-Ich, der ich mich zumeist bescheiden zurückholte, sagte
-jetzt genau so ironisch grinsend: »Jahren Sie nicht auch
+Ich, der ich mich zumeist bescheiden zurückhalte, sagte
+jetzt genau so ironisch grinsend: »Fahren Sie nicht auch
 Motorrad, Herr Pikulski?!«
 
 »Allerdings … « Er wurde ein wenig verwirrt. »Hat
 die Baronesse Ihnen das erzählt?!«
 
 Blanche von Ettar erwiderte unglaublich hochmütig: »So
-wichtig ist mir Ihre Person wirklich nicht, Herr Pikulski…!
-— Haben Sie sich an der Hand verletzt? ich finde, Lies
-Rechen nach Jodoform, und Sie scheinen einen Verband zu
-
+wichtig ist mir Ihre Person wirklich nicht, Herr Pikulski …!
+— Haben Sie sich an der Hand verletzt? ich finde, Sie
+riechen nach Jodoform, und Sie scheinen einen Verband zu
 tragen …«
 
 Er warf ihr wieder einen seltsamen Blick zu. »Ich habe
-mich gestern abend verbrannt … — 34h möchte nicht
+mich gestern abend verbrannt … — Ich möchte nicht
 weiter stören … Das Geschäftliche zwischen uns, Baronesse,
-bat ja Zeit, obwohl …
+hat ja Zeit, obwohl …"
 
-»Reden Sie … je zu
+»Reden Sie …!"
 
-Er überreichte sich knapp. »Das Gelände 1 neben der Villenkolonie
+Er verneigte sich knapp. »Das Gelände neben der Villenkolonie
 Garpensee könnte außerordentlich günstig verkauft
-werden … Die Hoppdorf-A.-G. bot mir heute Zweimal
-hunderttausend Mann. Falls Sie zustimmen, Baronesse, kann
+werden … Die Hoppdorf-A.-G. bot mir heute zweimalhunderttausend
+Mark. Falls Sie zustimmen, Baronesse, kann
 <@pagebreak/>
-die Zwangsverwaltung aufgehoben werden, da die Ständiger
+die Zwangsverwaltung aufgehoben werden, da die Gläubiger
 durch die Kaufsumme …«
 
 »Niemals!« rief Blanche. »Hoppdorf bekommt nicht einen
-Viadratmeter Land von mir — niemals! Die Sache ist
+Quadratmeter Land von mir — niemals! Die Sache ist
 erledigt.«
 
-»öin — und wenn … die Zwangsversteigerung des
+»Hm — und wenn … die Zwangsversteigerung des
 Gutes drohte?!«
 
-Blanche erbleichte. »Ab — ich soll gezwungen werden!!
+Blanche erbleichte. »Ah — ich soll gezwungen werden!!
 Die Spekulation ist falsch, mein Herr! Ich werde die Summe
-auch so ausbringen.«
+auch so aufbringen.«
 
-»Ja bin ich neugierig …
+»Da bin ich neugierig …"
 
 »Seien Sie es! Es war mir ein Vergnügen, Herr
-Pikulski …? Und wenn Sie Gentleman sein wollen: Kein
-Wort, daß die Herren Harst und Schraut der den neuen
-EinbruchsversuHßh aufklären wollen.« —
+Pikulski …! Und wenn Sie Gentleman sein wollen: Kein
+Wort, daß die Herren Harst und Schraut hier den neuen
+Einbruchsversuch aufklären wollen.« —
 
-»Baronesse, ob ich Gentleman bin, entscheiden besser
-Unparteiische … — — Auf Wiedersehen.« —
+»Baronesse, *ob* ich Gentleman bin, entscheiden besser
+Unparteiische … — Auf Wiedersehen.«
 
 Er ging.
 
 Er war keine üble Erscheinung, und Harald meinte denn
-aus: »Sie behandeln. ihn vielleicht. zu schlecht … Ich
-weiß nicht leicht, der Mann hat für mich etwas recht An
+auch: »Sie behandeln ihn vielleicht zu schlecht … Ich
+weiß nicht recht, der Mann hat für mich etwas recht An-
 ziehendes.«
 
-… — « Was für gewisse Leute immer verfänglich ist …
-
-—» Die Baronesse aber fuhr auf: »Er ist. ein Schleichen
+… Was für gewisse Leute immer verfänglich ist …
+— Die Baronesse aber fuhr auf: »Er ist ein Schleicher,
 ein Spion, er … tyrannisiert mich … Seine diskrete
-Art, wie er sich) mir zuerst näherte, war die eines Pfarramtskandidaten
-verklungener Tage oder … eines geriebenen
+Art, wie er sich mir zuerst näherte, war die eines
+Pfarramtskandidaten verklungener Tage oder … eines geriebenen
 Hochstaplers,«
 
 Harald schüttelte mißbilligend den Kopf.
 
 »Baronesse, ich finde, Sie geben uns Rätsel auf …
-Technik dieser Haß?! Nur weil er nun ernstlich hier der
+Weshalb dieser Haß?! Nur weil er nun amtlich hier der
 Herr?!«
 
 »Lassen wir das Thema … — Wie denken Sie sich
 Ihre weiteren Nachforschungen?«
 
-»Gibt ganz einfach jedenfalls … Ich werde Doktor
+»Nicht ganz einfach jedenfalls … Ich werde Doktor
 <@pagebreak/>
-Lücke als Prinz?Mann ins Vertrauen ziehen müssen — als
+Lücke als Privatmann ins Vertrauen ziehen müssen — als
 Privatmann, Baronesse. Ich darf wohl die Platte mitnehmen.
 Wenn es ginge, möchte ich mit Schraut für ein
-paar Tage ganz hier herausziehen. Leider gib? es ja auf
-Garpenburg Leine Bleibe für uns. Wir werden uns also
-anderswie helfen müssen. Kann man im Preisfrage logieren?«
+paar Tage ganz hier herausziehen. Leider gibt es ja auf
+Garpenburg keine Bleibe für uns. Wir werden uns also
+anderswie helfen müssen. Kann man im Dorfkruge logieren?«
 
 »Nein … Der Besitzer ist ein Schmutzfink. Aber im
-Walde nach Schmösödwitz zu liegt ein uraltes Wirtshaus,
-Hindus äußerlich wenig einladend erscheint, innen jedoch peinlich
+Walde nach Schmöckwitz zu liegt ein uraltes Wirtshaus,
+das äußerlich wenig einladend erscheint, innen jedoch peinlich
 sauber ist. Es gehört mit zum Gute und zwar zu meinem
-mütterlichen Erbteil. Dort ha? Herr Herbert Pikuls&?! nichts
-zu sagen. Von dort sind Sie in die: Minuten an der
+mütterlichen Erbteil. Dort hat Herr Herbert Pikulski nichts
+zu sagen. Von dort sind Sie in drei Minuten an der
 Ostecke des Parkes, und wir können uns jederzeit treffen
-und sprechen, zumal dir Pächter der Kneipe Telephon
-hätt’
+und sprechen, zumal der Pächter der Kneipe Telephon
+hat."
+
 »Das ist ja prächtig! Also gut, wir werden uns dort
-Englisch niederlassen. Tür jetzt verabschieden wir uns, Nur
-die Platz möchte im nach holen …«
+häuslich niederlassen. Für jetzt verabschieden wir uns. Nur
+die Platte möchte ich noch holen …«
 
-Wir lehnten dann am Parktor den Chauffeur ab, der
-ein gutes Trinkgeld und einen Brief an Haralds Mutter mitlesen,
-die ins unsere Koffer hinausschicken sollte,
+Wir lohnten dann am Parktor den Chauffeur ab, der
+ein gutes Trinkgeld und einen Brief an Haralds Mutter mitbekam,
+die uns unsere Koffer hinausschicken sollte,
 
-Ins wir nun durch den Wald immer neben der verfallenen
-endlosen Parkmauer Dahinschritten, faßte Harald
-mich auf’n und sagte sichtlich in bester Laune: »Du, das
+Als wir nun durch den Wald immer neben der verfallenen
+endlosen Parkmauer dahinschritten, faßte Harald
+mich unter und sagte sichtlich in bester Laune: »Du, das
 wird eine Sache nach unserem Geschmack, mein Alter … Das
 sind hier so eigentümliche Verhältnisse, daß ich geradezu
-einen Leckerbissen meistens …«
+einen Leckerbissen wittere …«
 
-Und wie wir dann zu Waldwege die elende Baracke
-Hegen so?gen, hinter der sich ein Bach einen buschreichen
-Abhang, »eingezwängt in ein grünbemoostes gemauertes Steinbau,
-hinausragt und in einem Durchlaß unter der Straße
-verschwand., da blieben wir verlassen stehen und starrten auf
-Desperados Wir!haussch)ich, das an langer Stange so recht ins
+Und wie wir dann am Waldwege die elende Baracke
+liegen sahen, hinter der sich ein Bach einen buschreichen
+Abhang, eingezwängt in ein grünbemoostes gemauertes Steinbett,
+hinabergoß und in einem Durchlaß unter der Straße
+verschwand, da blieben wir betroffen stehen und starrten auf
+das Wirtshausschild, das an langer Stange so recht auf-
 dringlich halb über die Straße hinwegragte — ein Schild
 <@pagebreak/>
-aus Blech, dunkelgrün, und auf diesen Hintergrund fing
-auf den Habe: seinen Scheibe … weiße Kapitel
+aus Blech, dunkelgrün, und auf diesem Hintergrund eine
+auf den Hinterbeinen hockende … weiße Ratte!!
 
-»Tourist,« sagte Unrast nur,
+»Komisch,« sagte Harald nur,
 
-— Ich; staunte diese! vorsintflutliche Fall gut en Augen
-See Seinen Gehen an!. 2308 Stockwerk, der schwarze Schornstein,
-Die schießen Mann«, die kleinen Fenster, — — es
-uxir wie eilt: vergessenes Stück Vorteil.
+Ich staunte dieses vorsintflutliche Idyll mit den Augen
+des kleinen Poeten an. Das Strohdach, der schwarze Schornstein,
+Die schiefen Wände, die kleinen Fenster, — — es
+war wie ein vergessenes Stück Vorzeit.
 
-Ader dlitzvb!auk leuchteten die Fenster im Waitnsonnenbein,
-und vor Männern des Baches und der führten::Vers
-Fußt der zuhiäiofen Blassen ihn den Legten bat Gärtchens
-und der stille Reiz iäuclicher Abgeschiedenheit waren wie
-8i:! wunderbarer, köstlicher Zauber …
+Aber blitzblank leuchteten die Fenster im Maiensonnenschein,
+und das Murmeln des Baches und der süße schwere
+Duft der zahllosen Blumen in den Beeten des Gärtchens
+und der stille Reiz ländlicher Abgeschiedenheit waren wie
+ein wunderbarer, köstlicher Zauber …
 
-Die Gangtür stand offen. Da war ein Flur, mit Steinplatten
+Die Haustür stand offen. Da war ein Flur, mit Steinplatten
 ausgelegt, die im Laufe der Zeit von den derben
-E-;ruhen vieler Generationen schier poliert leeren. Da standen
-zwei prallte, buntbemaiie Ruhen, Wertobjekte für jedes
+Schuhen vieler Generationen schier poliert waren. Da standen
+zwei uralte, buntbemalte Truhen, Wertobjekte für jedes
 Museum, da stand ein Schrank aus Eichenholz, der unfehlbar
-aus einer Sakristei flammte, überreich geschnitzt, mit Messing
-verziert, mit einem Riesenschloß. Von der See Druck ein
-Kronleucchßter aus Hirschgeweihen herab, besteckt mit weißen
-Kerzen. Aber die Diadems Zeit hatte ihn kam/weißt: na
-unten taumelte eine Glühbirne mit weißem Pvrzellenshirm.
--»-» Zwei Türen führten rechts und jnks in die anderen
-Räume hinein. Die eine war nur angelehnt. Wir Worten
-Gläserklirren, Stimmen, breites Lassen, Kichern und Fingern,
+aus einer Sakristei stammte, überreich geschnitzt, mit Messing
+verziert, mit einem Riesenschloß. Von der Decke hing ein
+Kronleuchter aus Hirschgeweihen herab, besteckt mit weißen
+Kerzen. Aber die moderne Zeit hatte ihn entweiht: ganz
+unten baumelte eine Glühbirne mit weißem Porzellanschirm.
+-- Zwei Türen führten rechts und links in die anderen
+Räume hinein. Die eine war nur angelehnt. Wir hörten
+Gläserklirren, Stimmen, breites Lachen, Kichern und Wispern,
 und wir rochen den kräftigen Dunst einer Küche, in der
 offenbar ein Beefsteak gebraten wurde. Wir stießen die
-Tür auf und sahen vor uns den Schankraum mit weiß,-
+Tür auf und sahen vor uns den Schankraum mit weiß-
 gescheuerten Dielen — — alles peinlich sauber, alles uralt,
-Behelligt durch eine Spedition, die dieser Stätte das Ursprüngliutze
-belassen hatte. Hinter beim Schanktisch ein dicker, rotbärtiger
+geheiligt durch eine Tradition, die dieser Stätte das Ursprüngliche
+belassen hatte. Hinter dem Schanktisch ein dicker, rotbärtiger
 Mann mit einem Seidenkäppchen und weißer
-Schürze, buschigen Brauen, verkniffenen Tuwan, Schritte
+Schürze, buschigen Brauen, verkniffenen Zügen, Schweins-
 Äuglein und abstehenden Ohren. Das war Herr Gottlieb
-Kranz, Pächter des Wirtspaules »Zur weißen Ratte«, Arm
+Kranz, Pächter des Wirtshauses »Zur weißen Ratte«. An
 <@pagebreak/>
-einem Frische arm Fenster saß eine AudflLvglergesellschaft
-von acht Personen, alles Leute, die hier gut defannt!chienen,
+einem Tische am Fenster saß eine Ausflüglergesellschaft
+von acht Personen, alles Leute, die hier gut bekannt schienen,
 fünf Herren und drei Damen …
 
 Es wurde totenstill, als wir eintraten. Man musterte uns
-argwöhnisch, und der Die kam und beäugte uns und
-meinte Ei brummig: »Hinten in der Veranda ist’s schöner …
-Leute
+argwöhnisch, und der Dicke kam und beäugte uns und
+meinte brummig: »Hinten in der Veranda ist’s schöner …
+Bitte ..."
 
 So führte er uns in den neuen Seitenanbau. Er hatte
 recht: Hier war’s schöner. Hier hatte man den Garten dicht
-vor sich, hier sah man den schädumenden Bach als weißen
-Gen zwischen Haselnußbüschen und kleinen Kiefern hinan.
+vor sich, hier sah man den schämenden Bach als weißen
+Strich zwischen Haselnußbüschen und kleinen Kiefern hindurch.
+
 »Gottlieb Kranz,« stellte der Brummige sich vor. »Sind
 Sie die beiden Herren, die die gnädige Baronesse vorhin anmeldete?«
 
-»Ja … dürfte Harst und. betrachtete Gottlieb Kranz
-versonnen. »Wir sollten uns kennen, Herr Wirt. Ich mochte
+»Ja …" nickte Harst und betrachtete Gottlieb Kranz
+versonnen. »Wir sollten uns kennen, Herr Wirt. Ich möchte
 in Ihnen nicht peinliche Erinnerungen wachrufen, aber …«
 
-Gottlieb lachte knurrend. »Weißt schon, Herr Harst …
+Gottlieb lachte knurrend. »Weiß schon, Herr Harst …
 weiß schon … Das liegt hinter mir … Zehn Jahre
-ehrlichen Arbeit hier, das löscht alles aus … Der Herr
-Oberstaatsanwalt von Star hat ja sein Unrecht gut ge
-macht, als man mich wieder freilich … —« Nennt kann
+ehrlicher Arbeit hier, das löscht alles aus … Der Herr
+Oberstaatsanwalt von Ettar hat ja sein Unrecht gut ge-
+macht, als man mich wieder freiließ … — Womit kann
 ich dienen? Wollen Sie Ihr Zimmer sich ansehen? Die
-gnädige Baronesse befiehlt und: ich gehorche …
+gnädige Baronesse befiehlt und ich gehorche …"
 
 Dieser Empfang war eigentümlich wie alles, was dieser
 Vormittag gebracht hatte.
 
 Wir ließen uns das Zimmer zeigen. Es war klein
 und lag auf der Ostseite, hatte nur ein Fenster. Wir waren
-trotzdem zufrieden. Die Betten waren gut, und die Angesicht
+trotzdem zufrieden. Die Betten waren gut, und die Aussicht
 über die Straße hinweg regte nicht auf. Wir saßen dann
 in der Veranda am offenen Schiebefenster, und uns war’s
-zumute, als ob wir hier irgendwo in weltferner Ernste
+zumute, als ob wir hier irgendwo in weltferner Einöde
 weilten, und nicht eine einzige Autostunde von Berlin …
 Maibowle duftete in alten Gläsern, und Frau Kranz, eine
 <@pagebreak/>
-Hütte finstere Person, fragte nach unseren Mittagtwünschen.
+dürre finstere Person, fragte nach unseren Mittagswünschen.
 
-Gebüsch waren wir dann alle! 534 fragte Auftaucht
-wider. Ut Genies Kranz!«
+Endlich waren wir dann allein. Ich fragte flüsternd:
+"Wer ist Gottlieb Kranz?«
 
-»Ein dreifachen Wilder, der im Niedere fnahmeversahren
-aus Mangel zu Betreten freigelprei:n wurde …«
+»Ein dreifachen Mörder, der im Wiederaufnahmeverfahren
+aus Mangel an Beweisen freigesprochen wurde …«
 
-Ich irrte Beraubt sprachlos zu.
+Ich starrte Harald sprachlos an.
 
-27 Riffe unmerklich. »Ich war damals zufällig Ob
-Klubdiener … Staatsanwalt Baron Ettar vertrat die Anlage.
-Au; das ist eben … ausgelöscht. Über Herr hat
-Kranz uns wage willkommen geborgen. Vieles-5 war es
-Zum peinlich, daß wir gerade die acht Ausflügler hier
-antrafen. Vielleicht gehorchte er nur dein Befehlen der
-BVBaroaesse … Diese »Weiße Ratte« hier, mein Vier, gibt
+Er nickte unmerklich. »Ich war damals zufällig Geschworener
+… Staatsanwalt Baron Ettar vertrat die Anklage.
+All das ist eben … ausgelöscht. Aber gern hat
+Kranz uns nicht willkommen geheißen. Vielleicht war es
+ihm peinlich, daß wir gerade die acht Ausflügler hier
+antrafen. Vielleicht gehorchte er nur den Befehlen der
+Baronesse … Diese »Weiße Ratte« hier, mein Alter, gibt
 zu denken … Die acht vorn in der Gaststube kenne ich zum
 Teil, du auch … Es sind drei Mitglieder der »Offenen
-Hand« darunter … Und wir — — sind Ihrenmitglieder
-dieses Vereins entspannen Jugend«
+Hand« darunter … Und wir — — sind Ehrenmitglieder
+dieses Vereins der schweren Jungen!«
 
-Ich: nahm einen langen Schluck, um den bitteren Strome
-hinabzuspülen. Das alte. Wirtvsdaus war seiner
+Ich nahm einen langen Schluck, um den bitteren Geschmack
+hinabzuspülen. Das alte Wirtshaus war seiner
 intimsten Reize entkleidet und zur … Verbrecherspelunke
-GSinabgesunkez Schade …
+hinabgesunken. Schade …
 
 <h2>3. Kapitel.</h2>
 
