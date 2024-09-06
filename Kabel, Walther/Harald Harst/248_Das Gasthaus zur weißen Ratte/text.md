@@ -365,7 +365,7 @@ ja selbst ein Motorrad, Baronesse.«
 
 »Ja, das kaputt ist … Und die Pneumatiks sind glatt
 und geflickt, und das hier sind Eindrücke von ganz neuen
-Reifen."
+Reifen.«
 
 »Scheint so …« Pikulski lächelte fortwährend. »Dann
 ist der Schuß, den ich in der Nacht hörte, wohl eine 
@@ -382,7 +382,7 @@ schicken …« Er zog das Postkartenbild aus der Brieftasche
 und schaute uns prüfend an. »Merkwürdig — — diese Ähnlichkeit!!
 Meine Herren, Sie entschuldigen schon, Sie sind
 Harst und Schraut, und offenbar ist hier wieder eingebrochen
-worden …"
+worden …«
 
 Er hatte Handschuhe an. Der linke war auf dem
 Handrücken sehr dick, hatte einen Buckel, als ob darunter
@@ -404,9 +404,9 @@ tragen …«
 Er warf ihr wieder einen seltsamen Blick zu. »Ich habe
 mich gestern abend verbrannt … — Ich möchte nicht
 weiter stören … Das Geschäftliche zwischen uns, Baronesse,
-hat ja Zeit, obwohl …"
+hat ja Zeit, obwohl …«
 
-»Reden Sie …!"
+»Reden Sie …!«
 
 Er verneigte sich knapp. »Das Gelände neben der Villenkolonie
 Garpensee könnte außerordentlich günstig verkauft
@@ -427,7 +427,7 @@ Blanche erbleichte. »Ah — ich soll gezwungen werden!!
 Die Spekulation ist falsch, mein Herr! Ich werde die Summe
 auch so aufbringen.«
 
-»Da bin ich neugierig …"
+»Da bin ich neugierig …«
 
 »Seien Sie es! Es war mir ein Vergnügen, Herr
 Pikulski …! Und wenn Sie Gentleman sein wollen: Kein
@@ -441,8 +441,7 @@ Er ging.
 
 Er war keine üble Erscheinung, und Harald meinte denn
 auch: »Sie behandeln ihn vielleicht zu schlecht … Ich
-weiß nicht recht, der Mann hat für mich etwas recht An-
-ziehendes.«
+weiß nicht recht, der Mann hat für mich etwas recht Anziehendes.«
 
 … Was für gewisse Leute immer verfänglich ist …
 — Die Baronesse aber fuhr auf: »Er ist ein Schleicher,
@@ -477,7 +476,7 @@ mütterlichen Erbteil. Dort hat Herr Herbert Pikulski nichts
 zu sagen. Von dort sind Sie in drei Minuten an der
 Ostecke des Parkes, und wir können uns jederzeit treffen
 und sprechen, zumal der Pächter der Kneipe Telephon
-hat."
+hat.«
 
 »Das ist ja prächtig! Also gut, wir werden uns dort
 häuslich niederlassen. Für jetzt verabschieden wir uns. Nur
@@ -499,8 +498,8 @@ liegen sahen, hinter der sich ein Bach einen buschreichen
 Abhang, eingezwängt in ein grünbemoostes gemauertes Steinbett,
 hinabergoß und in einem Durchlaß unter der Straße
 verschwand, da blieben wir betroffen stehen und starrten auf
-das Wirtshausschild, das an langer Stange so recht auf-
-dringlich halb über die Straße hinwegragte — ein Schild
+das Wirtshausschild, das an langer Stange so recht aufdringlich
+halb über die Straße hinwegragte — ein Schild
 <@pagebreak/>
 aus Blech, dunkelgrün, und auf diesem Hintergrund eine
 auf den Hinterbeinen hockende … weiße Ratte!!
@@ -528,18 +527,18 @@ verziert, mit einem Riesenschloß. Von der Decke hing ein
 Kronleuchter aus Hirschgeweihen herab, besteckt mit weißen
 Kerzen. Aber die moderne Zeit hatte ihn entweiht: ganz
 unten baumelte eine Glühbirne mit weißem Porzellanschirm.
--- Zwei Türen führten rechts und links in die anderen
+— Zwei Türen führten rechts und links in die anderen
 Räume hinein. Die eine war nur angelehnt. Wir hörten
 Gläserklirren, Stimmen, breites Lachen, Kichern und Wispern,
 und wir rochen den kräftigen Dunst einer Küche, in der
 offenbar ein Beefsteak gebraten wurde. Wir stießen die
-Tür auf und sahen vor uns den Schankraum mit weiß-
-gescheuerten Dielen — — alles peinlich sauber, alles uralt,
+Tür auf und sahen vor uns den Schankraum mit weißgescheuerten
+Dielen — — alles peinlich sauber, alles uralt,
 geheiligt durch eine Tradition, die dieser Stätte das Ursprüngliche
 belassen hatte. Hinter dem Schanktisch ein dicker, rotbärtiger
 Mann mit einem Seidenkäppchen und weißer
-Schürze, buschigen Brauen, verkniffenen Zügen, Schweins-
-Äuglein und abstehenden Ohren. Das war Herr Gottlieb
+Schürze, buschigen Brauen, verkniffenen Zügen, Schweinsäuglein
+und abstehenden Ohren. Das war Herr Gottlieb
 Kranz, Pächter des Wirtshauses »Zur weißen Ratte«. An
 <@pagebreak/>
 einem Tische am Fenster saß eine Ausflüglergesellschaft
@@ -549,7 +548,7 @@ fünf Herren und drei Damen …
 Es wurde totenstill, als wir eintraten. Man musterte uns
 argwöhnisch, und der Dicke kam und beäugte uns und
 meinte brummig: »Hinten in der Veranda ist’s schöner …
-Bitte ..."
+Bitte …«
 
 So führte er uns in den neuen Seitenanbau. Er hatte
 recht: Hier war’s schöner. Hier hatte man den Garten dicht
@@ -559,17 +558,17 @@ Strich zwischen Haselnußbüschen und kleinen Kiefern hindurch.
 »Gottlieb Kranz,« stellte der Brummige sich vor. »Sind
 Sie die beiden Herren, die die gnädige Baronesse vorhin anmeldete?«
 
-»Ja …" nickte Harst und betrachtete Gottlieb Kranz
+»Ja …« nickte Harst und betrachtete Gottlieb Kranz
 versonnen. »Wir sollten uns kennen, Herr Wirt. Ich möchte
 in Ihnen nicht peinliche Erinnerungen wachrufen, aber …«
 
 Gottlieb lachte knurrend. »Weiß schon, Herr Harst …
 weiß schon … Das liegt hinter mir … Zehn Jahre
 ehrlicher Arbeit hier, das löscht alles aus … Der Herr
-Oberstaatsanwalt von Ettar hat ja sein Unrecht gut ge-
-macht, als man mich wieder freiließ … — Womit kann
+Oberstaatsanwalt von Ettar hat ja sein Unrecht gut gemacht,
+als man mich wieder freiließ … — Womit kann
 ich dienen? Wollen Sie Ihr Zimmer sich ansehen? Die
-gnädige Baronesse befiehlt und ich gehorche …"
+gnädige Baronesse befiehlt und ich gehorche …«
 
 Dieser Empfang war eigentümlich wie alles, was dieser
 Vormittag gebracht hatte.
@@ -586,7 +585,7 @@ Maibowle duftete in alten Gläsern, und Frau Kranz, eine
 dürre finstere Person, fragte nach unseren Mittagswünschen.
 
 Endlich waren wir dann allein. Ich fragte flüsternd:
-"Wer ist Gottlieb Kranz?«
+»Wer ist Gottlieb Kranz?«
 
 »Ein dreifachen Mörder, der im Wiederaufnahmeverfahren
 aus Mangel an Beweisen freigesprochen wurde …«
@@ -612,96 +611,94 @@ hinabgesunken. Schade …
 
 <h2>3. Kapitel.</h2>
 
-<h3>Die lange Zeitung.</h3>
+<h3>Die lange Leitung.</h3>
 
-Nachmittags drei Uhr lagern wir drüben im Tiefem«
-Walde auf einer Anhöhe und hatten zu unseren Füßen den
-großen blanken Garpensee. Wir verkaufen Mutter Kreuzers
-vorzügliches. Mittag. Wir hatten uns auch mit ihrer Xautippenvisage
+Nachmittags drei Uhr lagen wir drüben im Kiefernwalde
+auf einer Anhöhe und hatten zu unseren Füßen den
+großen blanken Garpensee. Wir verdauten Mutter Kranzens
+vorzügliches Mittag. Wir hatten uns auch mit ihrer Xantippenvisage
 ausgesöhnt. Wir warteten auf Doktor Lücke,
 den Harald hierher bestellt hatte. Der Fernsprecher in
-der »Weißen Matte« war leider nicht ganz einwandfrei,
-sehr leise und mit allerlei Nebengeräusccyen begnadet. Lebens
-sagt ein Wunder. daß Gottlieb sich den Luxus leistete
+der »Weißen Ratte« war leider nicht ganz einwandfrei,
+sehr leise und mit allerlei Nebengeräuschen begnadet. Überhaupt
+ein Wunder, daß Gottlieb sich *den* Luxus leistete,
 <@pagebreak/>
-»denn seine wenigen Anglerstammgäste, abgesehen bog bei«
-zweifelhaften Publikum, legten wohl kaum darauf Wer!,
-daheim stets durch die elektrische Strippe erreichbar zu sein,
+denn seine wenigen Anglerstammgäste, abgesehen von dem
+zweifelhaften Publikum, legten wohl kaum darauf Wert,
+daheim stets durch die elektrische Strippe erreichbar zu sein.
 Nun — Lücke wollte kommen, Lücke war eine der allerbesten
-Kräfte all der guten bog roten Polizeipalast zum VWlerxanderplatz
+Kräfte all der guten vom roten Polizeipalast am Alexanderplatz
 in Berlin. Was für England und London das Polizeihauptquartier
-Scotland Yard bedeutet, das ist sei Perle:
-und Deutschland »der rote Alter«, wie die Berliner den
-Riesenbau samt Insassen gelautet haben. Zu den erlesen:
-Kriminalkommuissaren dieses »Alex« gehörte eben Doktor Luft?,
-vielfach aus der patente Lücke genannt. Er konnte es he
-Trost mit dem Prinzen von Wales zu diskreter Elegant ausnehmen,
-er war wohlhabend und lediglich eine besonders
-Neigung hatte ihn diesen Beruf erwählen lassen, der kam
-so glänzend bezahlt wird, daß dieses Gehalt jemanden Todes
+Scotland Yard bedeutet, das ist für Berlin
+und Deutschland »der rote Alex«, wie die Berliner den
+Riesenbau samt Insassen getauft haben. Zu den erlesen
+Kriminalkommissaren dieses »Alex« gehörte eben Doktor Lücke,
+vielfach auch der patente Lücke genannt. Er konnte es getrost
+mit dem Prinzen von Wales an diskreter Eleganz aufnehmen,
+er war wohlhabend und lediglich eine besondere
+Neigung hatte ihn diesen Beruf erwählen lassen, der kaum
+so glänzend bezahlt wird, daß dieses Gehalt jemanden locken
 konnte. — Ich habe hier von Lücke schon wiederholt gesprochen.
 Er ist nebst Fritz Bechert einer unserer Intimen.
 
-Während wir noch im Halbfichlaf das Kletterrosen g«-
-Genossen, vernahmen wir hinter uns einen vergnügten Mauerpfeiler.
-Es war Emil Kranz, der fünfzehnjährige eigenes
-Sproß der Klanglosen Ehe, ein langer Bengel mit rissige-1
-Gesicht, daheim zu der »Weißen Matte« Mädchen für
-Alles. Er sammelte Brennholz und Steintafel, und nachdem
+Während wir noch im Halbschlaf das Kiefernozon genossen,
+vernahmen wir hinter uns einen vergnügten Kunstpfeifer.
+Es war Emil Kranz, der fünfzehnjährige einzige
+Sproß der Kranzschen Ehe, ein langer Bengel mit pfiffigem
+Gesicht, daheim in der »Weißen Ratte« Mädchen für
+Alles. Er sammelte Brennholz und Kienäpfel, und nachdem
 Harald ihm eine Zigarette spendiert hatte, verlegte er freundlichst
 die Stätte seiner musikalischen Versuche anderswohin
 und verduftete.
 
-»Der Lümmel wollte spionieren,« sagte Harald ärgerlich,
+»Der Lümmel wollte spionieren,« sagte Harald ärgerlich.
 »Aber man muß sich gut mit ihm stellen, er ist unsere
+Zofe …«
 
-je …«
-Wir unterschätzen Emil. Das sollten wir sehr bald
-
+Wir unterschätzten Emil. Das sollten wir sehr bald
 merken.
 
 Lücke kam am Seeufer entlang. Sein Monokel glitzerte
 schon von weitem. Er war mit seinem kleinen Zweisitzer
-ungläubig zur nahen Wegekreuzung gefahren und hatte das Auto
-
-dort unter dem Gerüchte seiner Frau zurückgelassen.
+bis zur nahen Wegekreuzung gefahren und hatte das Auto
+dort unter dem Schutze seiner Frau zurückgelassen.
 
 <@pagebreak/>
-»Na, Kinder, — wo hold? der Schub?« begrüßte er
-uns und vom neben uns Platz.
+»Na, Kinder, — wo drückt der Schuh?« begrüßte er
+uns und nahm neben uns Platz.
 
-»Nicht »der-Schuh;- die Hand vielmehr!!« und Harald
+»Nicht der Schuh, die Hand vielmehr!!« und Harald
 Hielt ihm die Platte hin,
 
-pkvüde war sofort nur goß Fachmann.
+Lücke war sofort nur noch Fachmann.
 
-»Donnerwetter — linke Hand ohne, kleinen Finger,
+»Donnerwetter — linke Hand ohne kleinen Finger,
 eine schlanke Hand, — die suche ich ja gerade!! Die gehört
-dem Kerl, der letztens den neuen Tresor der Hoppdorf«
-A.-G. abermals geknackt Staat — wieder vor der Lohnzahelung.
+dem Kerl, der letztens den neuen Tresor der Hoppdorf-A.-G.
+abermals geknackt hat — wieder vor der Lohnzahlung.
 Hoppdorf soll weit größere Verluste durch die beiden
 Einbrüche erlitten haben, als er zugibt. Sie kennen doch
 Hans Hoppdorf? Dem Namen nach ist’s Aktiengesellschaft,
-riesige Baufirma, Terrainspekulation, Güterschlächter,«.
-Übrigens ist dieser Hans Hoppdorf ein Genie und ein seiner
+riesige Baufirma, Terrainspekulation, Güterschlächter …
+Übrigens ist dieser Hans Hoppdorf ein Genie und ein feiner
 Gent … Tut mir leid, der Hoppdorf, schleicht seit einiger
-Zeit immer so mißvergnügt und melancholisch Unterrand …
+Zeit immer so mißvergnügt und melancholisch umher und …«
 
 Lücke brach plötzlich ab. »Donnerwetter … Da fällt
-mir etwas ein … Das ist (n … der Tat merkwürdig! Man
-könnte besuchte, — — Ader nein, das ist ja Unsinn …
-Hoppdorf hat nämlich nur vier Finger links, sein Anker
-kleiner Finger liegt irgendwo in Frankreich, fast nicht schon
+mir etwas ein … Das ist in … der Tat merkwürdig! Man
+könnte beinahe, — — aber nein, das ist ja Unsinn …
+Hoppdorf hat nämlich nur vier Finger links, sein linker
+kleiner Finger liegt irgendwo in Frankreich, falls nicht schon
 vermodert, denn der Krieg ist immerhin elf Jahre her …
 — Seltsam bleibt’s …«
 
-»Ja, —.« er wird sich doch nicht selbst bestehlen!« lachte
-ich … Über ein Blick auf Harald, und das Lachen dicke
-ging mir.
+»Na, — er wird sich doch nicht selbst bestehlen!« lachte
+ich … Aber ein Blick auf Harald, und das Lachen verging
+mir.
 
 »Wenn Sie ihn so genau kennen, Lücke,« meinte er und
-deutete auf die Platte … »da — — der Mann Prosit am Ringfinger
-einen Schlangenring …
+deutete auf die Platte … »da — — der Mann trägt am Ringfinger
+einen Schlangenring …«
 
 »Bei  Gott!!« Lücke holte der Atem. »Bei Gott: Hans
 Hoppdorf besitzt einen solchen Ring! Was ist’s mit der
@@ -709,24 +706,24 @@ Photographie?«
 
 Harst berichtete, während Lücke sich eifrig die Namen
 und manches andere notierte. Dann sagte er kopfschüttelnd:
-»Unmöglich, daß Hoppdorf der Dieb sein könnte! Harst. dxc
+»Unmöglich, daß Hoppdorf der Dieb sein könnte! Harst, der
 <@pagebreak/>
 Mann besitzt Millionen … Allerdings soll in letzter Zeit
-die A.-G. etwas andern … Immerhin, es ist doch.
+die A.-G. etwas wackeln … Immerhin, es ist doch …«
 
 Harald war urplötzlich wie ein Pfeil vom Bogen hochgeschnellt
 — nach hinten in die wenigen Büsche …
 
-»Schien Sie, Freundchen?« rief er dort ingrimmig, »das
-haben Sie vom Herzen!! Andere haben auch gute Ohren!«
+»Sehen Sie, Freundchen?« rief er dort ingrimmig, »das
+haben Sie vom Horchen!! Andere haben auch gute Ohren!«
 
-Ich dachte sofort an Schlichen Kranz. Aber es war ein
+Ich dachte sofort an Emilchen Kranz. Aber es war ein
 Irrtum … Es war nicht der hoffnungsvolle Sprößling
-aus der »Weißen Natte’. sondern ein alter zerlumpter
+aus der »Weißen Ratte«, sondern ein alter zerlumpter
 Stromer, den Harald beim Genick gepackt hielt. Lücke und
-im sprangen gleichfalls zu, und der alte Kerl knurrte uns
-bissig an: »Ich wollt’ gar nicht horchen … Nee, ich ging
-man bloß hier immer diese Strippe nach … Der interessierte
+ich sprangen gleichfalls zu, und der alte Kerl knurrte uns
+bissig an: »Ich wollt’ jar nich horchen … Nee, ick jing
+man bloß hier immer diese Strippe nach … Det interessierte
 mir …«
 
 Er zeigte in das fahle Gras.
@@ -736,269 +733,268 @@ war’s, es war ein isolierter dünner Doppeldraht, der …
 zu einem Mikrophon führte, das dicht hinter unserem Lagerplatz
 in einem kleinen Gestrüpp stand.
 
-Unsere Überrascht; uns war derart groß, daß Harst den
+Unsere Überraschung war derart groß, daß Harst den
 Landstreicher freigab. »Mann, nun lügen Sie bitte nicht!«
 meinte er. »Sie bekommen fünfzig Mark, wenn Sie …«
 
-»Ich hab’ nicht gelogen, Herr … Echo Sie, ich »stieß
-r&ineweg zufällig auf den Draht, und da bin ich …
+»Ick hab’ nich jelogen, Herr … Sehn Se, ick stieß
+reineweg zufällig auf den Draht, und da bin ick …«
 
 Harst blickte mich an. »Emil!!«
 
-Ich nickt?. — Natürlich hatte der Bengel uns überlistet,
-natürlich hatte er im Auftrage seines Vaters ge
-funkelt, der uns hatte belauschen wollen. Wenn das die
+Ich nickte. — Natürlich hatte der Bengel uns überlistet,
+natürlich hatte er im Auftrage seines Vaters gehandelt,
+der uns hatte belauschen wollen. Wenn das die
 Baronesse erfahren würde!!
 
 Der Stromer führte uns nun an dem braunen Draht
-entlang bis zu einer Schonung und einem schmalen Erfolg,
-wo er von der Chaussee her enflanggekommen war. Seine
+entlang bis zu einer Schonung und einem schmalen Steig,
+wo er von der Chaussee her entlanggekommen war. Seine
 Spuren waren im Sande noch deutlich erkennbar.
 
-Er bekam seine jünsjsziyz Mark und wollte bereits ab«
-fliehen, als Harald sagte — und in einem Tone, der
+Er bekam seine fünfzig Mark und wollte bereits abschieben,
+als Harald sagte — und in einem Tone, der
 <@pagebreak/>
-allerhand verhieß: »Weshalb haben Sie eigen?lich ernsten
+allerhand verhieß: »Weshalb haben Sie eigentlich eine so
 starke Vorliebe für Ihre linke Hosentasche, und halten die
 linke Hand so sorgfältig verborgen?! Bitte — zeigen Sie
 uns doch mal dieses Pfötchen, mein Lieber …«
 
 Der Erfolg war verblüffend …
 
-Der Strolch … machte Beine, und wirkt Wie ein
+Der Strolch … machte Beine, und wie!! Wie ein
 Blitz verschwand er in der Schonung, nachdem er Lücke
-einen Hieb gegen die Brust verseht und uns alle drei dadurch
-halb zum Sträuchern gebracht hatte.
+einen Hieb gegen die Brust versetzt und uns alle drei dadurch
+halb zum Straucheln gebracht hatte.
 
 Die Verfolgung blieb ergebnislos. Der Kerl wußte
 hier besser Bescheid als wir und entkam. Nur eins fanden
 wir, was uns äußerst verwirrte: An einem Ast der Schonung
 hing ein Stück eines grauen falschen Vollbartes,
 und genau einen solchen Bart hatte der Landstreicher gehabt!
-Der Mensch; war verkleidet gewesen, …
+Der Mensch war verkleidet gewesen.
 
-Wir kehrten zu der Leitungsschnur zurück, Harald schickte
+Wir kehrten zu der Leitungsschnur zurück. Harald schickte
 mich nach unserem Lagerplatz, damit ich die Platte und
-unsere Mützen hole. Aber —«Bestie Platte war weg, nur
+unsere Mützen hole. Aber — die Platte war weg, nur
 die Mützen lagen noch dort, auch das Mikrophon war
 verschwunden und der Draht einfach abgeschnitten.
 
 Ich lief wieder an dem Draht entlang, kam bis zur
 Schonung, bog rechts ab, immer dem Drahte folgend, und
-stieß in wer von Brombeeren umwucherten Senkung auf
+stieß in einer von Brombeeren umwucherten Senkung auf
 Harst und Lücke, die neben einem liegenden Manne knieten.
 Es war Herbert Pikulski, der Zwangsverwalter, und er
-war tot, Ihm war der Schädel eingeschlagen. Das bisher
+war tot. Ihm war der Schädel eingeschlagen. Das bisher
 harmlose Abenteuer enthüllte seine bitterernste Seite. Hier
 war ein Mord verübt worden. Als Waffe kam ein Stein
-von fast Zentnerschwere in Betracht, den man Wildnis?! von
-hinten gegen den Kopf geschlendert hatte, wie Lücke aus
+von fast Zentnerschwere in Betracht, den man Pikulski von
+hinten gegen den Kopf geschleudert hatte, wie Lücke aus
 den Spuren nachwies. Die des Mörders waren plump und
-breit, Schuhgröße 38 mindestens.
+breit, Schuhgröße 44 mindestens.
 
 »Der Stromer!« sagte Harald leise. »Der Stromer,
-der die linke Hand nicht zeigen wollte und verkleide? war!« —
+der die linke Hand nicht zeigen wollte und verkleidet war!« —
 
 Eine Stunde später war die Mordkommission da. Ein
 <@pagebreak/>
-Polizeihund verfolgte die Fährte des Mörders bis zum Kreuzer
+Polizeihund verfolgte die Fährte des Mörders bis zum Seeufer
 hinab, wo ein Boot gelegen hatte. Dieser Mörder war
-nicht der Strolch gewesen.
+*nicht* der Strolch gewesen.
 
 Wer sonst?!
 
-Im Gasthaus »Zur Weißen Packte« gab es bis zum
+Im Gasthaus »Zur Weißen Ratte« gab es bis zum
 Abend Vernehmungen, Haussuchung … Der Riesenapparat
 der Berliner Polizei streckte nach allen Seiten seine
-seinen Fühler aus. Nichts wurde versäumt, niemand wurde
+feinen Fühler aus. Nichts wurde versäumt, niemand wurde
 geschont … Was Blanche von Ettar hatte geheim halten
 wollen, wurde Mittelpunkt der Untersuchung. Auch die Baronesse
 mußte erscheinen. Sie kam in einem unglaublichen
 Aufzug. sie hatte gerade ihr altes Motorrad wieder in Ordnung
-dringen wollen. Sie konnte nur das angeben, was wi?
+bringen wollen. Sie konnte nur das angeben, was wir
 schon wußten. Ebenso wurden der Diener Friedrich und
-die Sonnig Luise vernommen. Schließlich auch noch Hans
+die Köchin Luise vernommen. Schließlich auch noch Hans
 Hoppdorf, den man aus seiner Villa aus der Kolonie
-Garpensee herbeiholt. Er hatte während der kritischen
+Garpensee herbeiholte. Er hatte während der kritischen
 Stunden zwischen zwei und vier nachmittags auf dem See
 geangelt, wie er behauptete. Seine linke Hand mit den
 vier Fingern und dem Schlangenring machte ihn stark verdächtig.
 Er wurde der Baronesse gegenübergestellt. Sie erklärte,
-sie habe von dem Liebe nachts zu wenig gesehen,
+sie habe von dem Diebe nachts zu wenig gesehen.
 Sie könne nicht behaupten, daß Hoppdorfs Gestalt der des
-Einbrecerst entspräche,
+Einbrechers entspräche,
 
-Jedenfalls: Irgendeinen Erfolg hakte all diese langsame
+Jedenfalls: Irgendeinen Erfolg hatte all diese sorgsame
 Arbeit nicht! Gottlieb Kranz nebst Frau und Sohn
-Schworen hohe und heilig, daß sie mit dem Mikrophon
-nichts zu schaffen hätten, sie wollten so! ein Ding gar
-Nicht kennen …
+schworen hoch und heilig, daß sie mit dem Mikrophon
+nichts zu schaffen hätten, sie wollten solch’ ein Ding gar
+Nicht kennen.
 
-Der Peolizeibund hakte übrigens auch die Spur desjenigen,
-der den Draht durch den Wald geleitet hakte, verfolgt und
+Der Polizeihund hatte übrigens auch die Spur desjenigen,
+der den Draht durch den Wald geleitet hatte, verfolgt und
 zwar bis zum Bache weit westlich des Gasthauses hin.
 
 Wir alle standen vor einem Rätsel. Wer war der
 Mörder, wer war der Strolch gewesen, wer hatte das
-Mikrophon hinter uns versteckt … «!.
+Mikrophon hinter uns versteckt …?!
 
 <@pagebreak/>
-Gas würde es Plans. Die Wordkoaumissis:1 kedri6s nach
-»Zeit zurück, — — Scheusal, Eine Anzahl Beamte ja
-Doch Derselben sich in der Umgegend. Wir starke Hatten unter
-diesen Ausländer gleiwjalig getrost unsere heimiice’« Verraten
-wieder aufsuchen Tonnen. Harald wollte nicht. »Es jetzige
-Angstmeier, eine Alter … Gönne zur drei Tage
+So würde es Abend. Die Mordkommission kehrte nach
+Berlin zurück, — — scheinbar. Eine Anzahl Beamte jedoch
+verteilten sich in der Umgegend. Wir beide Hätten unter
+diesen Umständen gleichfalls getrost unsere heimischen Penaten
+wieder aufsuchen können. Harald wollte nicht. »Es ist so
+famoses Angelwetter, mein Alter … Gönne mir drei Tage
+Ferien …«
 
-»lie.
-
-Sohn saßen ich der Veranda, Lücke als dritter im Bande,
-0:2 vierter seine Gefühl Sie vollen nachher ins ihrem
-Auto heim — — Tochter, wenn. die Bowle geleert. was,
-gut die war sehr umfangreich. Boten Gottlieb hatte da
-ei! Gebräu komponiert, das einsam erstklassig war. — Wovon
-w1« Sprechers Über alles mögliche, nur ich! über den.
+Wir saßen in der Veranda, Lücke als dritter im Bunde,
+als vierter seine Gattin Sie wollten nachher mit ihrem
+Auto heim — — nachher, wenn die Bowle geleert war,
+und die war sehr umfangreich. Vater Gottlieb hatte da
+ein Gebräu komponiert, das einfach erstklassig war. — Wovon
+wir sprachen? Über alles mögliche, nur nicht über den
 Mord und den Diebstahlsversuch. Wir wollten lediglich
-diesen köstliqzjen Maiabend genießen, wir freuten uns an
-bei Glahwürinhe: im Garten, über den dumpfen Schrei
-des Häuschens und über die Metier und Käfer, die vom
-Lichte angelockt über unseren Zöpfen die Lampe aufsuchen.
-Er war schon, und das Leben ist nun einmal so, es ist hart
+diesen köstlichen Maiabend genießen, wir freuten uns an
+den Glühwürmchen im Garten, über den dumpfen Schrei
+des Käuzchens und über die Motten und Käfer, die vom
+Lichte angelockt über unseren Köpfen die Lampe umsurrten.
+Er war schön, und das Leben ist nun einmal so, es ist hart
 und selbstsüchtig, und der Tote war ausgeschaltet. Er ruhte
-bereits drüben im Dorfe Garpenburg rum Kerle: »geh Pro
-meiutehuulscs …
+bereits drüben im Dorfe Garpenburg im Keller des
+Gemeindehauses …
 
-Frau Doktor Lücke warf plötzlich eine Bestellung in,
-die uns Männer überraläte:
+Frau Doktor Lücke warf plötzlich eine Bemerkung ein,
+die uns Männer überraschte:
 
-»Oh by alledem: nicht Liebe mitspricht tt«
+»Oh bei alledem nicht Liebe mitspricht?!«
 
-Lücke »drückte ihre Sand. »Ihr Frauen wittert immer
-lebe …
+Lücke drückte ihre Hand. »Ihr Frauen wittert immer
+Liebe …«
 
-Die »hübsche Frau Tochter wehrte ab. »Du Zeit …
-Wir betrachten die Dinge nur von einem anderen Stunde
-Punkt aus. Ihr Männer seid in diesen zarten Fragen weit
-weniger seinfühlenb. Freiheit Pikulo?! hat die Baronesse zweifellos
+Die hübsche Frau Doktor wehrte ab. »Du irrst …
+Wir betrachten die Dinge nur von einem anderen Standpunkt
+aus. Ihr Männer seid in diesen zarten Fragen weit
+weniger feinfühlend. Herbert Pikulski hat die Baronesse zweifellos
 geliebt, was verständlich ist. Sie ist Rasse, sie ist
-pikant, sie ist nicht der Typ der Frau von gelten …
-Sie reizt euch, sie hat etwas an sie, das ein los. Ich
-habe sie zum ersten Male gesehen. und im werde dieses
+pikant, sie ist nicht der Typ der Frau von gestern …
+Sie reizt euch, sie hat etwas an sich, das ein lockt. Ich
+habe sie zum ersten Male gesehen, und ich werde dieses
 <@pagebreak/>
-Gesicht nie vergessen. Wer liebte sie noch?! Wer fahre
+Gesicht nie vergessen. Wer liebte sie noch?! Wer suchte
 einen Nebenbuhler zu beseitigen?! Sie schien Herbert Pikulski
 zu hassen. Aber — was Verbirgt sich oft hinter
 Haß?! Sie war totenbleich, als sie hier ankam. Findet
 den Mann, der ihr außerdem noch den Hof machte, und ihr
-»habt den Mörder.« — So sprach sie. Und wir dies
+habt den Mörder.« — So sprach sie. Und wir drei
 schwiegen und starrten vor uns hin und kamen ins Grübeln
 
-Bis Harald ebenso leise erklärte: »Ja, wenn der Strömen
-und der Mörder noch ein und dieselbe Vergaß gewesen
+Bis Harald ebenso leise erklärte: »Ja, wenn der Stromer
+und der Mörder noch ein und dieselbe Person gewesen
 wären …!! Aber das ist nicht der Fall.«
 
 »Sie denken an Hoppdorf,« meinte Lücke achselzuckend.
 
 »Ich denke an das dunkelste bei alledem,« sagte Harst
 sinnend. »Und das ist das Rätsel der photographischen Platte
-»und der Hand, die die weiße Ratte hält …
+und der Hand, die die weiße Ratte hält …«
 
 Frau Lücke flüsterte hastig: »Da haben Sie ganz recht,
 lieber Harst … Es ist Hoppdorfs Hand mit dem Schlangenring
-und den vier Fingern…! Was treibt Hoppvorikt
-Es gibt zu Gentlemangauner …;«
-» Niemand erwiderte etwas.
+und den vier Fingern …! Was treibt Hoppdorf?!
+Es gibt auch Gentlemangauner …«
 
-Allein darauf brachen Lückes auf.
+Niemand erwiderte etwas.
+
+Gleich darauf brachen Lückes auf.
 
 <h2>4. Kapitel.</h2>
 
 <h3>Das Schaltbrett.</h3>
 
-In der Nidelbowle war noch übergenug Stoff. Gottlieb
-Kranz mußte sich; jetzt zu uns setzen. Er war sehr
-verstimmt, der die Mann, und er machte kein Hehl daraus,
+In der Nickelbowle war noch übergenug Stoff. Gottlieb
+Kranz mußte sich jetzt zu uns setzen. Er war sehr
+verstimmt, der dicke Mann, und er machte kein Hehl daraus,
 daß er uns beiden verargte, weil wir ihm indirekt die
 Polizei ins Haus gelockt hatten … »Nun werden die
 Geheimen hier wochenlang umherschnüffeln, Herr Harst …
 Ich habe ja ein reines Gewissen, aber …«
 
-… Aber unangenehm ist es Ihnen doch,« vollendete
+»… Aber unangenehm ist es Ihnen doch,« vollendete
 Harald und blickte Gottlieb scharf an. »Wir wollen
-mal ehrlich sein, Herr Kranz … Bescheid haben Sie da im
+mal ehrlich sein, Herr Kranz … Weshalb haben Sie da im
 <@pagebreak/>
-Stall unter dem Kaninchenkäfig einer zweiten, mit Blech
-ausgesqiugenen1:1d … nur!3wwer zu bemerkenden, in beim
-im … Ast Weit…: Ratten zählen«
+Stall unter dem Kaninchenkäfig einen zweiten, mit Blech
+ausgeschlagenen und nur schwer zu bemerkenden, in dem
+ich … acht weiße Ratten zählte?!«
 
-Deutsche dickes Gesicht. Leidtun an. Er schnappte
-nach Gut Heraus wütend;
+Gottliebs dickes Gesicht lief blau an. Er schnappte
+nach Luft, keuchte wütend:
 
-»XS … Saß ist rein Privatvergnügen, Herr Entstand
-… und ich verstecke die Rattern ja gar nicht.
-Wozu sollte im sie wohl der Polizei zeigen 91«
+»Das … das ist rein Privatvergnügen, Herr Harst.
+Und … und ich verstecke die Rattern ja gar nicht.
+Wozu sollte ich sie wohl der Polizei zeigen?!«
 
-»Ausreden,/« weit? Harald kurz. »ist wäre besser, Sie
-würden offen kein …!! Daß es mich: den weißen Reisen
-etwas Besonderes auf ich daß, ist gewiß Der Kälte ist so
-schlau verborgen, daß!edigl ich der Geruch mich auf die
-rechte Spur Weitere, als ich mir die Kaninchen aussah. Adels
-Haupt, Her? Kranz, — — zu) der Bach ist sehr nützlich …
-
+»Ausreden,« sagte Harald kurz. »Es wäre besser, Sie
+würden offen sein …! Daß es mit den weißen Ratten
+etwas Besonderes auf sich hat, ist gewiß. Der Käfig ist so
+schlau verborgen, daß lediglich der Geruch mich auf die
+rechte Spur leitete, als ich mir die Kaninchen aussah. überhaupt,
+Herr Kranz, — — auch der Bach ist sehr nützlich …
 Im Wasser findet ein Polizeihund keine Spuren … Ihr
-Sohn Emil hat das -Mikrophon hinter uns aufgestellt,
-und nachher hat er den Rückweg im Bache zurückgelegt … +«
+Sohn Emil hat das Mikrophon hinter uns aufgestellt,
+und nachher hat er den Rückweg im Bache zurückgelegt …«
 
-Gottlieb wurde wie Käse … Er schade, hüstelte …
-»Das … das ist nicht wohl …! Er brüllte plötzlich wie
+Gottlieb wurde wie Käse … Er schluckte, hüstelte …
+»Das … das ist nicht wahr …! Er brüllte plötzlich wie
 ein Besessener. »Und … und … Sie beide … nehme
 ich nicht zur Nacht auf … Sehen Sie zu, wo Sie bleiben.
-Ich danke für Schnüffelt! Und wegen dieser Verdöhtigungst
-meines Sohnes …
+Ich danke für Schnüffler!! Und wegen dieser Verdächtigung
+meines Sohnes …«
 
-Harst legte ihm die Hand schwer auf die Schulter,
-»Franz, mäßigen Sie schnitt! Mit jv mustert Geschrei verteidigt
-man sich nicht — im Gegenteil. Wir weißen uns
-Ihnen nicht aufdrängen … Ich werde mir ein Sackträger
-suchen — drüben am Bach in den Büschen, wo eins!
+Harst legte ihm die Hand schwer auf die Schulter.
+»Kranz, mäßigen Sie sich!! Mit so wütendem Geschrei verteidigt
+man sich nicht — im Gegenteil. Wir werden uns
+Ihnen nicht aufdrängen … Ich werde mir ein Nachtlager
+suchen — drüben am Bach in den Büschen, wo einst
 die Mühle gestanden hat, von der nur noch geringe Mauerreste
 vorhanden sind. Aber die Keller werden wohl noch
-gut erhalten sein, Kranz, — und vielleicht finde im da
+gut erhalten sein, Kranz, — und vielleicht finde ich da
 etwas, das mir die schlechte Wiedergabe der Sprache in
 Ihrem Telephon erklärt.«
 
 Gottliebs Augen quollen aus dem Kopfe … Schweiß
-
-wollte ihm über die Stirn …
+perlte ihm über die Stirn …
 
 <@pagebreak/>
 »Ja, Kranz, — daß Ihr Junge eine Antenne gespannt
-Hat — Technik nicht?! Daß diese Anfang« Ader durch die
-Sollte Eisenstange drüben ein Bächleins YVbleitpng in »2
-&rde bat, ist. sinuridrigt«
+Hat — weshalb nicht?! Daß diese Antenne aber durch die
+hohle Eisenstange drüben am Bach eine Ableitung in die
+Erde hat, ist sinnwidrig!«
 
-Tür mich waren das alles unbekannte Tage. Harald
-hatte gegen Abend allerdings hier überall in der Tische
-umhergerudert
+Für mich waren das alles unbekannte Dinge. Harald
+hatte gegen Abend allerdings hier überall in der Nähe
+umhergestöbert …
 
-… Und jetzt, Kranz, werdet Sie uns begleiten,
-mein Lieber —« — in den Wellen der Mühle … Ich war voraus
+»… Und jetzt, Kranz, werden Sie uns begleiten,
+mein Lieber — — in den Keller der Mühle … Ich war bereits
 dort, und ich fand auch das zweite Telephon und das
-Schaltbrett. Los also! Sie werden gehorchen, oder … Sitz
-sicher ah heute samt den Ihrigen in einer Hellen«
-Gottlieb warf ihm einen Blick zu — h:’b Angst,
-Halb Wut. Aber er stand auf … er kam mit. Wir darstellten
+Schaltbrett. Los also! Sie werden gehorchen, oder … Sie
+sitzen noch heute samt den Ihrigen in einer Zelle!!«
+
+Gottlieb warf ihm einen Blick zu — halb Angst,
+Halb Wut. Aber er stand auf … er kam mit. Wir durchschritten
 den Garten und erreichten die Büsche, wo allerlei
-Mauerreste umherlagen. Hier, erhob sich der eiserne As
-Gemeuchelt, hier schob Harald mit dem Fuße ein dies
-Bündel Brombeerranken beiseite und hob dank ein großes
-Baches Zementstüuck empor, unter »bei: ein rundes Los sich
+Mauerreste umherlagen. Hier erhob sich der eiserne Antennenmast,
+hier schob Harald mit dem Fuße ein großes
+Bündel Brombeerranken beiseite und hob dann ein großes
+flaches Zementstück empor, unter dem ein rundes Loch sich
 öffnete … Ich leuchtete mit der Taschenlampe hinab …
-Eine Leiter lehnte in dem Lohe, und ich stieg als erster abwärts,
+Eine Leiter lehnte in dem Loche, und ich stieg als erster abwärts,
 dann Kranz, dann Harst. Wir befanden uns nun
 in einem feuchten langen Keller, der teilweise eingestürzt
 war. An der Südwand nahm Harald sechs Ziegel aus der
-Mauer heraus, vier war das Telephon und ein Breit
+Mauer heraus. Hier war das Telephon und ein Brett
 mit vier Schaltern verborgen.
 
 Kranz, von mir beständig bewacht, blieb stumm. Keine
@@ -1008,7 +1004,7 @@ Leitungen führten.
 Harst nahm den Hörer ab und horchte …
 
 Kranz … grinste. »Ich wiederhole, — ich habe keine
-Ahnung von dieser Zulächelt Machen Sie mit mir, was
+Ahnung von dieser Anlage! Machen Sie mit mir, was
 Sie wollen …!«
 
 Harst stöpselte den grünen Stecken auf rot und horchte
@@ -1016,73 +1012,74 @@ wieder.
 
 <@pagebreak/>
 Nichts …
-Er versuchte allerlei Kombinationen, -« das Telephon
 
+Er versuchte allerlei Kombinationen, — das Telephon
 schwieg.
-Dann aber 3z0g er sowohl den roten wie die grünen
-Stöpsel heraus, und … ich vernahm, dicht neben (ihm
+
+Dann aber zog er sowohl den roten wie die grünen
+Stöpsel heraus, und … ich vernahm, dicht neben ihm
 stehend, nach kurzer Zeit eine tiefe Stimme:
 
-»Hallo — hier die weiße Ratte!«
+»Hallo — hier die weiße Ratte!!«
 
-Ist schielte naß Geistliche Gesicht …
+Ich schielte nach Gottliebs Gesicht …
 
 Gottlieb … zitterte …
 
 Ich hob langsam die Pistole.
 
-Harst Frühe ihm den Hörer in die Hand.
+Harst drückte ihm den Hörer in die Hand.
 
-»Melden Sie sollt’ flüsterte er.
+»Melden Sie sich!!« flüsterte er.
 
-Kranz sog pfeifend die Ast ein …
+Kranz sog pfeifend die Luft ein …
 
-Dann … dann rief er in die Muschel;
+Dann … dann rief er in die Muschel:
 
-»Verrat — — Vorsicht, Harst!k’
+»Verrat — — Vorsicht, Harst!!«
 
-Harald packte zu, Ader es war zu spät. Er hatte
+Harald packte zu, aber es war zu spät. Er hatte
 die Muschel mit der Hand bedecken wollen, Gottlieb ließ
 den Hörer fallen, ich fing ihn gerade noch auf, Harst schüttelte
 in seltener, heller Wut den Schuft von Gottlieb hin und
-her, doch mit alledem war nichts mehr geholfen. Die Fleckchen
-Gottliecb9 war in Grunde unbegreiflich. Er bestellt
-durch diese Warnung!so schwer bloßgestellt, daß ihm das
-Gefängnis sicher war, Welt eine Macht mußte als hinter
-lebend verborgen sein, daß er. in Ausreicht auf diese
+her, doch mit alledem war nichts mehr geholfen. Die Frechheit
+Gottliebs war in Grunde unbegreiflich. Er hatte sich
+durch diese Warnung so schwer bloßgestellt, daß ihm das
+Gefängnis sicher war. Welch’ eine Macht mußte also hinter
+alledem verborgen sein, daß er in Rücksicht auf diese
 »weiße Ratte« jeden Gedanken an die eigene Sicherheit
-Hinten ansetzte!!
+hintenansetzte!!
 
 Aber Gottlieb Kranz war der ein geriebener Fuchs, der
 auf jede Weise Rückendeckung suchte. Er ließ sich ruhig
-hin und her schlackern, lächelte dazu reif töricht und meinte
+hin und her schlackern, lächelte dazu recht töricht und meinte
 in abgerissenen Sätzen: »Das … das war doch nur ein
-Witz … ein Mit auf einen anderen Witz hin, denn —
-wer ist die weiße Matte, wie kann jemand sich mit diesem
-Namen melden?kt’
+Witz … ein Witz auf einen anderen Witz hin, denn —
+wer ist die weiße Ratte, wie kann jemand sich mit diesem
+Namen melden?!«
 
 Harald lockerte den Griff, und Gottlieb zog sich seine
-Tage und seine weiße Schürze Furcht. Dabei murmelte
+Jacke und seine weiße Schürze zurecht. Dabei murmelte
 <@pagebreak/>
-er, noch mehr den Harmlosen. spielend: »Es war wirklich
+er, noch mehr den Harmlosen spielend: »Es war wirklich
 ein Scherz von mir … Ich wußte ja kaum, was ich
-redete …« um
+redete …«
 
 Harst betrachtete wieder das Schaltbrett,
 
 Er sagte zu mir: »Achte auf Kranz … — Es muß
-noch mehr geheime Anschlüsse geben … Aber die Stänkerei
-scheint mit gewissen Teil verhüllten zu sein.«
+noch mehr geheime Anschlüsse geben … Aber die Stöpselei
+scheint mit gewissen Tricks verhüllten zu sein.«
 
 Er nahm seine Taschenlampe und beleuchtete die vier
-vernickelten Schrauben, mit denen das Schaltbrefkk an die
+vernickelten Schrauben, mit denen das Schaltbrett an die
 Rückwand der Maueröffnung befestigt war. Zwei dieser
 Schrauben hatten Gummiringe als Sicherung. Er drehte
 an der linken oberen, und ein leichtes Knacken bewies,
 daß ein Strom eingeschaltet worden war. Nun hielt er
 den Hörer wieder ans Ohr und probierte die Stöpsel nacheinander
 durch. Als er das vierte Loch stöpselte, schlug
-hinter dem Schaltbrett eine Büchse leise schrillend an …
+hinter dem Schaltbrett eine Glocke leise schrillend an.
 
 Ich belauerte jeden Zug in Gottliebs stark beunruhigtem
 Gesicht. Als die Glocke ertönte, riß er wieder vor Staunen
@@ -1092,96 +1089,96 @@ sich jemand melden würde. Und — es geschah … Dieselbe
 tiefe Stimme, die vorhin als weiße Ratte sich ausgegeben
 hatte, rief merklich gereizt:
 
-»Rum Teufel, was ist denn eigentlich los … ,?1 Bier
+»Zum Teufel, was ist denn eigentlich los …?! Hier
 Hans Hoppdorf … Wer dort?!«
 
 Der Apparat war so laut und klar, daß auch Gottlieb
 jedes Wort verstehen mußte. In seinen Mienen malte sich
 erst ungeheure Verblüffung, dann glitt es wie ein heller
 Schein über sein feistes Gesicht, und er knurrte befriedigt.
-»Uhr der!! — Endlich!«
-pi Harst sprang mit verstellter Stimme in die Muschel
+»Also der!! — Endlich!«
 
-nein:
+Harst sprach mit verstellter Stimme in die Muschel
+hinein:
 
-»Verrat — — Vorsicht, Harst!!’
+»Verrat — — Vorsicht, Harst!!«
 
 Eine Weile Stille. Dann Hoppdorf — leiser und
-zaghafter: »Wer ist der Warner?! Bitte den Namen,«
+zaghafter: »Wer ist der Warner?! Bitte den Namen …«
 
 <@pagebreak/>
-Und Harald: »Die weiße Ratte«
+Und Harald: »Die weiße Ratte!!«
 
 Wieder Stille …
 
 Wieder dann Hoppdorf — jetzt sehr undeutlich:
-»Heiliger Himmel, sind Sie’s wirklich?! Soll ich sofort
 
-nach …
+»Heiliger Himmel, sind Sie’s wirklich?! Soll ich sofort
+nach …«
 
 Da brachte der Apparat als Fortsetzung nur noch drei
 lange Klingelzeichen. Alle Versuche, Hoppdorf nochmals zu
 erreichen, blieben erfolglos.
 
-Harald gab das Warten auf. Er Grotte nach der rechten
+Harald gab das Warten auf. Er faßte nach der rechten
 unteren isolierten Schraube, drehte nach rechts, und abermals
-ertönte das vielsagerkrbe Knacken. Kein Wunder, daß
-ich diesem geheimnisvollen. Spiel der elektrischen Fernverständigung
+ertönte das vielsagende Knacken. Kein Wunder, daß
+ich diesem geheimnisvollen Spiel der elektrischen Fernverständigung
 mit wachsender Spannung und Nervosität lauschte.
-Aber nicht eine Sekunde blieb Gottlieb Kranz unbeobatet,
-und mein rechter Zeigefinger laß unverändert gekrümmt am
-Abzug der halb erhobenen Pistole, Ich sah, daß der zweifelhafte
+Aber nicht eine Sekunde blieb Gottlieb Kranz unbeobachtet,
+und mein rechter Zeigefinger blieb unverändert gekrümmt am
+Abzug der halb erhobenen Pistole. Ich sah, daß der zweifelhafte
 Wirt des noch zweifelhafteren Gasthauses »Zur weißen
 Ratte« wiederum die Farbe wechselte.
 
-Eine Stimme erklang — »ein helles, heiseres Organ!
-»Hier der blaue Justav … 538 offene in Ordnung, weiße
-Matte … Die Geschickte »wird Lappen, ’bie beiden ’teh’n
+Eine Stimme erklang — ein helles, heiseres Organ:
+»Hier der blaue Justav … Is allens in Ordnung, weiße
+Ratte … Die Jeschichte wird klappen, die beiden steh’n
+schon Schmiere und …«
 
-schon Schmiere und,,«
-Hand …
+Knack …
 
-Schluß … 0.
-Aber dafür begann nun leises ein Uhrwerk zu dicken,
+Schluß …
 
+Aber dafür begann nun leise ein Uhrwerk zu ticken,
 und Gottliebs Gesicht lief grün an … Gottlieb keuchte
-kläglich: »Fort von hier — — nur fort!!« — und selbst.
+kläglich: »Fort von hier — — nur fort!!« — und selbst
 die Scheu vor meiner Waffe bedeutete nichts gegenüber der
-gräßlichen Angst, die aus seinen verstörten Augen: aufleuchtete
+gräßlichen Angst, die aus seinen verstörten Augen aufleuchtete
 … Er rannte zur Leiter — er brüllte kreischend:
 
 »Retten Sie sich — — fort von hier!!«
 
 Harst warf den Hörer hin … Wir erklommen hinter
-Gottlieb die Leiter, wir« waren kaum oben in den Büschen
+Gottlieb die Leiter, wir waren kaum oben in den Büschen
 — am Gartenzaun, als in den Tiefen der Erde ein dumpfer
-Knall ertönte und hinter uns die ganze Balkendecke siedeln?
+Knall ertönte und hinter uns die ganze Kellerdecke sich
 <@pagebreak/>
 hob und dann mit wüstem Getöse zusammenstürzte …
-Ins soeben groß Buschwerk und Gras die Ruinen freundlich
+Wo soeben noch Buschwerk und Gras die Ruinen freundlich
 im Mondlicht umrahmt hatten, gähnte jetzt ein riesiger
-Trichter von Schutt und geknickten halb verschütteten Büchsen.
+Trichter von Schutt und geknickten halb verschütteten Büschen.
 
 Ich war blaß geworden. Harst aber packte wortlos
 Gottliebs Hände und schlang rasch sein zusammengedrehtes
-Kaschemme um die Gelenke und verknotete es, Fast gleichzeitig
-erhob sie im Gartenzaun die uns wohlbekannte
+Taschentuch um die Gelenke und verknotete es. Fast gleichzeitig
+erhob sich im Gartenzaun die uns wohlbekannte
 Riesengestalt des Kriminalassistenten Rauscher.
 
-»Stahlfesseln sind sicherer, Herr Harst,« jagte er gelassen.
-»Den Bengel und das Weib haben wir auch schon gen
-klappt, sie wollten mit zwei Koffern in den Wald flüchten.
-Das ist ja der eine seine Bude!
+»Stahlfesseln sind sicherer, Herr Harst,« sagte er gelassen.
+»Den Bengel und das Weib haben wir auch schon geklappt,
+sie wollten mit zwei Koffern in den Wald flüchten.
+Das ist ja der eine feine Bude!!«
 
 Gottlieb Kranz war mehr tot als lebendig. Als wir
 ihn in die Wirtsstube führten, wo seine Frau und sein
 Sprößling bereits mit gleichen netten Armbändern armselig
-Wochen, fanden wir hier zu unserem Erstaunen Freund
+hockten, fanden wir hier zu unserem Erstaunen Freund
 Lücke vor … Er lächelte uns infam-ironisch an.
 
-»Euch Brüder kenne schnitt! Ihr wolltet wieder einmal
-allein den Kahn. a5schöpfen! Haß sich was!! Wir sind auch
-As da?«
+»Euch Brüder kenne ich!! Ihr wolltet wieder einmal
+allein den Rahm abschöpfen! Hat sich was!! Wir sind auch
+noch da!«
 
 Dann wurden die drei »Kränze« einzeln ins Gebet
 genommen, was die geheime Telephonanlage und alles andere
@@ -1194,17 +1191,17 @@ Rolle hier war vorläufig ausgespielt.
 
 Als wir Lücke im einzelnen die Vorgänge im Keller
 der einstigen Wassermühle mitteilten, meinte er nur: »Nun
-ist also 01 H Hans Hoppdorf reif. Jahren wir hin …!
+ist also auch Hans Hoppdorf reif. Fahren wir hin …!«
 
 Er hatte sein Auto im Walde stehen. Zur Not faßte
-es zu«); drei Personen. Um Mitternacht? waren wir drüben
+es auch drei Personen. Um Mitternacht waren wir drüben
 jenseits des Sees in der Villenkolonie Garpensee.
 
 <@pagebreak/>
 
 <h2>5. Kapitel.</h2>
 
-<h3>9058 Woanders raus? alt.</h3>
+<h3>Hans Hoppdorf schweigt.</h3>
 
 Während der Fahrt um den in nächtlichen E-Horchten
 Nr: Agenten Sei erzählte uns Lü? Ad ü5e? Hans
@@ -1286,7 +1283,7 @@ ihn, damit cx Miß nicht etwa mit jäher Kehrtwendung als
 springen uns
 
 Der Geriet: halte drei Terrassen und reichlichen Bleierne
-und Birfenbejiand, Satz Zierbecken und zwei GSltazgluuben,
+und Birkenbestand, Satz Zierbecken und zwei GSltazgluuben,
 »einen Springbrunnen und eine Unzahl auf dem Rasen Vers
 Leiter Gartenfiguren; Netze, Gnomen ui: d anderes, — Du
 im übrigen recht wenig dem Beigeschmack entsprach.
@@ -1513,7 +1510,7 @@ Ansturm mit den öligen Händen, wie sie schleunigst von der
 Arbeit an ihrem Motorrad zur Vernehmung herbeigeeilt
 war … — Ich sah ihr seines, zartes, widerspruchsvolles G&
 Prosit und die hohe kluge Stirn, die sie so gern krauste, und …
-diese Lippen, wi? in Lebensschnsucht gewölbt …
+diese Lippen, wie in Lebenssehnsucht gewölbt …
 
 … Waren diese Lippen schon einmal in heißem Glühen
 denen eines Mannes entgegengelnospet wie Blütenkelche,
@@ -2395,7 +2392,7 @@ hielt … Ein Herr sprang ab: Haus Hoppdorf.
 
 »Ins ist Blaue!«
 
-Er rannte über des Rasen Zu uns … »Wo ii
+Er rannte über des Rasen Zu uns … »Wo is
 Blanche?!« Seine Stimme klang Hotel wie der Windstoß,
 der soeben durch die Bäume sauste.
 
