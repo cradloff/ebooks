@@ -1203,137 +1203,136 @@ jenseits des Sees in der Villenkolonie Garpensee.
 
 <h3>Hans Hoppdorf schweigt.</h3>
 
-Während der Fahrt um den in nächtlichen E-Horchten
-Nr: Agenten Sei erzählte uns Lü? Ad ü5e? Hans
-Hoppdorf!, den wie je nur am dDerflosiene »Nachmittag des
-Weibes Verwirrung gesehen halten und der auf zeigte Endes
-e: endlich einen wert Blicken Eindruck. gemacht hüllte, von
-seinen! bestehenden Brausen ganz zu schweigen. Tot Öl
-was das einzige Wind des »alten« Hoppdorf, bis Mk! Etuis
-verstorbenen Gründers und Hauptaktionärs da? Horn?Hofe
-Y.-G., der auch die Villenkolonie Garpensee, ehemals Sie
-Spritzer Boden, gehörte. Der junge Hoppdorf alle eignet
-bessere Gejschuftsantann als Sein Vater sein, eine ge2ogzüglige
-Spekulantennatur ohne deren fragwürdige Seiten, wie m29
-bisher annahm. Riegel Charakterbild hatte gib nun freilich
-gründlich verschoben, denn nach alledem, wo« wir jetzt
-über den Herrn Generaldirekio« ’Dsoktor Juris Hans D9pPp«
-dort wußten, lebte er ein doppeltes Dasein. Seine Verbindung
-Komik Gottlieb Kranz und dem Dauergast »Weiße Ratte»…
-war erwiesen, mehr noch, er schien in Berbrecßerkräisen
-diesen Spitznamen zu führen, wie das ÖOcheimialephrvp oft
-leicht hatte, und Lücke war wie ich überzeugt, da Hoppdorf
-der Leiter einer großen Verbrecherorganisation sel, die
+Während der Fahrt um den in nächtlicher Schönheit
+prangenden See erzählte uns Lücke Näheres über Hans
+Hoppdorf, den wie ja nur am verflossenen Nachmittag bei
+der Vernehmung gesehen hatten und der auf uns dabei
+eigentlich einen vorzüglichen Eindruck gemacht hatte, von
+seinem bestechenden Äußeren ganz zu schweigen. Hoppdorf
+war das einzige Kind des »alten« Hoppdorf, des unlängst
+verstorbenen Gründers und Hauptaktionärs der Hoppdorf-A.-G.,
+der auch die Villenkolonie Garpensee, ehemals Ettarscher
+Boden, gehörte. Der junge Hoppdorf sollte ein noch
+besserer Geschäftsmann als Sein Vater sein, eine großzügige
+Spekulantennatur ohne deren fragwürdige Seiten, wie man
+bisher annahm. Dieses Charakterbild hatte sich nun freilich
+gründlich verschoben, denn nach alledem, was wir jetzt
+über den Herrn Generaldirektor Doktor Juris Hans Hoppdorf
+wußten, lebte er ein doppeltes Dasein. Seine Verbindung
+mit Gottlieb Kranz und dem Gaunernest »Weiße Ratte«
+war erwiesen, mehr noch, er schien in Verbrecherkreisen
+diesen Spitznamen zu führen, wie das Geheimtelephon verraten
+hatte, und Lücke war wie ich überzeugt, daß Hoppdorf
+der Leiter einer großen Verbrecherorganisation sei, die
 in letzter Zeit alle diese bisher unaufgeklärten schweren
-Einbrüche verübt? hatte. Lücke wies es auch durchaus Knirscht
-Erdölreservoir der Hand, daß Hoppdorf, zumal die Aktiengesellschaft
-etwas ungünstig dastehen sollte, auch die beiden Frejoreinbrüche
-in deren Geschäftösräumen befingert hätte, genau
+Einbrüche verübt hatte. Lücke wies es auch durchaus nicht
+von der Hand, daß Hoppdorf, zumal die Aktiengesellschaft
+etwas ungünstig dastehen sollte, auch die beiden Tresoreinbrüche
+in deren Geschäftsräumen befingert hätte, genau
 wie ohne Zweifel entweder für diese oder eine der nächsten
-Nächte ein neuer Stroh —« nach den Angaben: des blauen
-Zustand am Telephon — bevorstände. Wichtig war, daß
-Lücke diesen dünnen Justav gut kannte — als einen der
-schlauesten und verwegensten Geldschrankknacker. dem itjodockselten
+Nächte ein neuer Streich — nach den Angaben des blauen
+Justav am Telephon — bevorstände. Wichtig war, daß
+Lücke diesen blauen Justav gut kannte — als einen der
+schlauesten und verwegensten Geldschrankknacker, dem jedoch
 <@pagebreak/>
-etwas rauche;zuweisen war, da der Bursche nach zwei
-längeren Straßen außerordentlich zprfichtig zu Werke ging
+selten etwas nachzuweisen war, da der Bursche nach zwei
+längeren Strafen außerordentlich vorsichtig zu Werke ging
 und nach außen hin lediglich den Besitzer eines kleinen
 Zigarrenladens spielte. Dieser beabsichtigte neue Einbruch
-würde nur jedoch verhindert werden, denn Lücke hatte sofort
-vom Gasthaus aus dem »roten Ufer« die entsprechenden
+würde nun jedoch verhindert werden, denn Lücke hatte sofort
+vom Gasthaus aus dem »roten Alex« die entsprechenden
 Anweisungen erteilt.
 
 Unser Kleinauto hielt vor Hoppdorfs feudaler Villa,
-die eine breite Wasserfront hatte. Wir sahen hat Winter
-Garten und. hinter drei benachbarten Jongliere Lichtschimmer,
-Dich warnte uns, Während Dienst und Lücke über den
-Gitterzaun kletterten, umging ich das vorliegende Grundstück
-und überstieg die! am Strande den oben noch mit Stacheldraht
-gesmchükßten Tau. Der Mond hatte siä; gerade hinter
+die eine breite Wasserfront hatte. Wir sahen im Wintergarten
+und hinter drei benachbarten Fenstern Lichtschimmer.
+Dies warnte uns. Während Harst und Lücke über den
+Gitterzaun kletterten, umging ich das freiliegende Grundstück
+und überstieg dicht am Strande den oben noch mit Stacheldraht
+geschützten Zaun. Der Mond hatte sich gerade hinter
 einer einzelnen Wolke versteckt, und lediglich das Geräusch
-Bein Absprung auf den mit Stellen Zierkies bedeckten Weg
-steuere am nahen Bootshause der Villa einen Mann hoch,
-der soeben mit zwei Blattrudern« in der Hand tief geduckt
-dem Stege anschleichen wollte. Er ließ die Riemen fallen
-und suchte zu fliehen. Im selben Jugendlich trat hinter
-der Wolke Väter Mond wieder hervor, und ich erkannte
-demselben graubärtigen abgerissenen alten Strolch, der uns
-in der Schonung ceutwiscet war und der so hartnäckig die
+beim Absprung auf den mit gelbem Zierkies bedeckten Weg
+scheuchte am nahen Bootshause der Villa einen Mann hoch,
+der soeben mit zwei Blattrudern in der Hand tief geduckt
+dem Stege zuschleichen wollte. Er ließ die Riemen fallen
+und suchte zu fliehen. Im selben Augenblick trat hinter
+der Wolke Vater Mond wieder hervor, und ich erkannte
+denselben graubärtigen abgerissenen alten Strolch, der uns
+in der Schonung entwischt war und der so hartnäckig die
 Linke in der Hosentasche hatte verbergen wollen.
 
-Ich rief ihn zu. Ich drohte sofort zu schießen, und er
+Ich rief ihn an. Ich drohte sofort zu schießen, und er
 blieb denn auch in vorgebeugter Haltung stehen und schielte
 nach meiner Pistole hin. Ich näherte mich ihm recht langsam,
 denn der Mann war sicherlich nicht ungefährlich, —
-dieser Mensch konnte ja nach allem Bisherigen nur Haus
+dieser Mensch konnte ja nach allem Bisherigen nur Hans
 Hoppdorf sein. Ein Blick nach seiner linken Hand … er
-trug Zwirnhaäidsczuhe, aber der linke kleine Finger reckte
-sich, steif zur Seite, war also nur ausgestopft.
+trug Zwirnhandschuhe, aber der linke kleine Finger reckte
+sich steif zur Seite, war also nur ausgestopft.
 
 »Herr Hoppdorf, Sie werden vernünftig sein und gehorsam
 vor mir her nach der Villa gehen,« sagte ich in einem
-Sonne, der ihn warnen mußte.
+Tone, der ihn warnen mußte.
 
 <@pagebreak/>
-Je Turme die E-Fallreep, machte fehlt und ging grinste
-Hai, den Baubude; eiftkutyg Gar Satze einen wer würdig
-aufenkernden Gang, 62:25 doch — — irgend etwas in seiner
-Haltung befiel Ufer nicht. Ich blieb drei Schritt hinter
-ihn, damit cx Miß nicht etwa mit jäher Kehrtwendung als
-springen uns
+Er zuckte die Schultern, machte kehrt und ging gemächlich
+den Hauptweg entlang. Er hatte einen merkwürdig
+schlenkernden Gang, und doch — — irgend etwas in seiner
+Haltung gefiel mir nicht. Ich blieb drei Schritt hinter
+ihn, damit er mich nicht etwa mit jäher Kehrtwendung anspringen
+konnte.
 
-Der Geriet: halte drei Terrassen und reichlichen Bleierne
-und Birkenbestand, Satz Zierbecken und zwei GSltazgluuben,
-»einen Springbrunnen und eine Unzahl auf dem Rasen Vers
-Leiter Gartenfiguren; Netze, Gnomen ui: d anderes, — Du
-im übrigen recht wenig dem Beigeschmack entsprach.
+Der Garten hatte drei Terrassen und reichlichen Kiefern\-
+und Birkenbestand, dazu Zierbecken und zwei Glaslauben,
+einen Springbrunnen und eine Anzahl auf dem Rasen Verteilter
+Gartenfiguren: Rehe, Gnomen und anderes, — was
+im übrigen recht wenig dem Zeitgeschmack entsprach.
 
-So näherten wir uns der Für des matt erleuchteten
-Wintergartens. Ich vernahm jetzt von der + Vorderfront Y-x
-Villa her Hundegebell. Offenbar hatte ein größerer Fund
+So näherten wir uns der Tür des matt erleuchteten
+Wintergartens. Ich vernahm jetzt von der Vorderfront der
+Villa her Hundegebell. Offenbar hatte ein größerer Hund
 dort Harst und Lücke gestellt.
 
 Was dann geschah, war wieder einmal ein Beweis
 dafür, daß selbst unsereiner nie auslernt. Der Herr Generaldirektor
 stolperte über eine Harke, fuhr blitzschnell herum
-und schlug mir mit derselben Harke derart gegen den reiten
+und schlug mir mit derselben Harke derart gegen den rechten
 Arm, daß der Schuß losging und die Kugel klirrend eins der
-dicken großen Fenster des Wintergartenszerspliiterte. Ebenso
-blitzschnell war Hoppdorf durch »die nur angelehnte Tür
-verschwunden, schloß von innen ab, und — — 1H stand
-draußen und fühlte jählings in meiner retten Schulter einen
-schmerzhaften Du, wurde umgeworfen und sah über mir
+dicken großen Fenster des Wintergartens zersplitterte. Ebenso
+blitzschnell war Hoppdorf durch die nur angelehnte Tür
+verschwunden, schloß von innen ab, und — — ich stand
+draußen und fühlte jählings in meiner rechten Schulter einen
+schmerzhaften Druck, wurde umgeworfen und sah über mir
 einen riesigen Wolfshund, dessen Gebiß ich nur durch raschen
-Griff nach, der Kehle von mir fernhalten konnte. Gleichzeitig
-vernahm im Stimmen, — — Sekunden später einen
+Griff nach der Kehle von mir fernhalten konnte. Gleichzeitig
+vernahm ich Stimmen, — — Sekunden später einen
 Trillerpfiff, der Hund ließ von mir ab und war im Nu
-verschwunden, und Harst und Lücke kamen um die Lautete
+verschwunden, und Harst und Lücke kamen um die Hausecke
 gerannt, fragten, halfen mir empor, — — Lücke fluchte
 leise, und — — mit einem Male von links her aus einen
-Fenster eine scharfe Stimme: -,
+Fenster eine scharfe Stimme:
 
-»Was treiben Sie denn hier?! Wer sind Gar
-Milieus.
+»Was treiben Sie denn hier?! Wer sind Sie?!«
 
 <@pagebreak/>
-In einem offenen Hjohparicrrefensier scheint« eine helle
-Gestalt — ein Herr — im Alltagsanzug: Doktor Hans
+In einem offenen Hochparterrefenster lehnte eine helle
+Gestalt — ein Herr — im Schlafanzug: Doktor Hans
 Hoppdorf!
 
-Lücke gab sich zu erkennen. »Lassen Sie uns sofort Stall«
-befahl er. »Im übrigen ist Ihre Büro Ansicht? raus nicht
-wahr war), und jeder Fluchtverju) wäre zweitens.«
+Lücke gab sich zu erkennen. »Lassen Sie uns sofort ein!«
+befahl er. »Im übrigen ist Ihre Villa umstellt (was nicht
+wahr war), und jeder Fluchtversuch wäre zwecklos.«
 
 Hoppdorf kam und öffnete.
 
-»Bitte …« sagte er mit eisiger Höflichkeit. Wi: folgten
-ihm in ein Herrenzimmer, in dem nur die Säzreiblischlazipe
-brannte. Er drehte die DeFeybeleuziung als weh wies
-stumm auf die Klubsessel. — Lüge musterte ihm: halb mitleidig.
-»Es tut mir leid um Sie … Ich denke, Sie Bauern
+»Bitte …« sagte er mit eisiger Höflichkeit. Wir folgten
+ihm in ein Herrenzimmer, in dem nur die Schreibtischlampe
+brannte. Er drehte die Deckenbeleuchtung an und wies
+stumm auf die Klubsessel. — Lücke musterte ihn halb mitleidig.
+»Es tut mir leid um Sie … Ich denke, Sie geben
 nun das Leugnen auf.«
 
-Hoppdorf lehnte am Schreibtisch. Er lächelte Brenzlich
+Hoppdorf lehnte am Schreibtisch. Er lächelte ziemlich
 hochfahrend. »Ich habe nichts zu leugnen, Herr Doktor
 Lücke … Was wünschen Sie eigentlich?«
 
@@ -1342,101 +1341,102 @@ eiserne Nerven haben. Ader Lücke hatte noch bessere.
 
 »Ich suche stets mit meinen … Klienten im guten
 auszukommen,« sagte er wie bedauernd. »Machen Sie uns
-unsere recht peinliche Aufgabe voll nicht unnötig schwer,
+unsere recht peinliche Aufgabe doch nicht unnötig schwer,
 Herr Hoppdorf. Vormittag sagten Sie uns, Sie hätten
 in der kritischen Zeit geangelt. Das mag sein, — aber Sie
-waren auch im Walde drüben als Ermannen und haben einsam
+waren auch im Walde drüben als Stromer und haben einfach
 Ihre Lumpen nachher versenkt. Dann — das Telephongespräch
 vor einer halben Stunde …«
 
-Jetzt fuhr Hoppdorfs Kopf das) empor. Ein seltsamer
-Blick traf Lücke. Dann hob Hoppdorf leid! die Schultern.
-— das war also eine Falle!!«
-»Rein, das war Zufall — keine Falle. Wir haben
+Jetzt fuhr Hoppdorfs Kopf doch empor. Ein seltsamer
+Blick traf Lücke. Dann hob Hoppdorf leicht die Schultern.
+»Ah — das war also eine Falle!!«
+
+»Nein, das war Zufall — keine Falle. Wir haben
 bei Kranz die geheime Leitung gefunden, und Harst … entging
 dem Tode nachher nur durch Gottliebs Angst. Ihr
-Konto ist recht schwer belastet, Herr Hoppdorf’
+Konto ist recht schwer belastet, Herr Hoppdorf»
 
 Der … lächelte müde. »Ich habe meinerseits nichts zu
-erklären, Herr Kriminalkoimmisjar, verhaften Sie mich meinetwegen.
+erklären, Herr Kriminalkommissar, verhaften Sie mich meinetwegen.
 <@pagebreak/>
 Keine Macht der Erde wird mich zu einem Geständnis
-zwingen, — weil ich nichts zu gestehen habe …
+zwingen, — weil ich nichts zu gestehen habe …«
 
 »Untersuchungshaft macht mürbe, Herr Hoppdorf, und
 Sie kämen vielleicht mit Gefängnis davon, wenn Sie zum
 Beispiel zugeben, als »weiße Ratte« in gewissen Kreisen
 tätig zu sein …«
 
-»So?!« Das klang tragisch, Höhnisch: »So, — ichG als
-weiße Ratte …! Bei Bot!, kein schlechter Miß …!« Dann
-zusagte es wieder so eigen um seine Mundwinkel. »Entschuldigen
-Sie dritte … Wir wollen nicht einen Ton anschlagen,
+»So?!« Das klang ironisch, höhnisch: »So, — ich als
+weiße Ratte …! Bei Gott, kein schlechter Witz …!« Dann
+zuckte es wieder so eigen um seine Mundwinkel. »Entschuldigen
+Sie bitte … Wir wollen nicht einen Ton anschlagen,
 der uns selbst entwürdigt. Ich danke Ihnen für Ihre
-Nachsicht, Herr Lücke. Gut denn, — ich war »der Stromer,
+Nachsicht, Herr Lücke. Gut denn, — ich war der Stromer,
 der nachmittags im Walde von Herrn Harst abgefaßt wurde.«
 
-Bisher hakte sich Harald völlig zurückgehalten. Jetzt
-aber trat er dicht vor Hoppdorf. hin und sagte mit mildem
+Bisher hatte sich Harald völlig zurückgehalten. Jetzt
+aber trat er dicht vor Hoppdorf hin und sagte mit mildem
 Vorwurf: »Weshalb lügen Sie?!«
 
 Diese Bemerkung war mindestens so eigentümlich wie
 Hoppdorfs Teilgeständnis.
 
-Hoppdorf schlug den Blick »Zu Boden, schaute wieder
-auf und erklärte feierlich: »Ich gebe Ihnen mein Streng.
-Wort, — ich war’s?«
+Hoppdorf schlug den Blick Zu Boden, schaute wieder
+auf und erklärte feierlich: »Ich gebe Ihnen mein Ehrenwort,
+— ich war’s!«
 
 Harald schien vollkommen verwirrt.
 
-»Das … ist ja nicht möglich, Herr Hoppdorf …,!«
+»Das … ist ja nicht möglich, Herr Hoppdorf …!«
 meinte er mit leichtem Kopfschütteln. »Dann … dann wäre
-ich ja auf völlig falscher« Fährte …«
+ich ja auf völlig falscher Fährte …«
 
 »Es scheint so, Herr Harst. Auch Sie sind nicht unfehlbar,
 und all diese Dinge werden niemals restlos aufgehellt
-werden, — dürfen es nicht, denn. es. nur ein namenloses
-Unglück.« Seine Stimme vibrierte!leimt vor verhaltener
+werden, — dürfen es nicht, denn es wäre ein namenloses
+Unglück.« Seine Stimme vibrierte leicht vor verhaltener
 Erregung. »ich habe mich vergangen, gewiß, aber niemand
 kann verlangen, daß ich mir selbst den Strick um den
 Hals lege.«
 
 Lücke meinte freundlich: »Herr Hoppdorf, es gibt Fälle,
-wo jemand aus krankhafter Sicht zum Verbrecher wird. Sie
-können niemals bei vollem Verstande gewesen sein. als Sie
+wo jemand aus krankhafter Sucht zum Verbrecher wird. Sie
+können niemals bei vollem Verstande gewesen sein, als Sie
 <@pagebreak/>
 bei diesen Einbrüchen mithalfen: und die Spur Ihrer linken
-Hand wie &nen Stempel am Tatort zurückblickten. Weg
-halb ein halbes Geständnis?! Haken Sie diese Einbrüche
-begangen und auch gestern bei der Baronesse Platte den
+Hand wie einen Stempel am Tatort zurückließen. Weshalb
+ein halbes Geständnis?! Haben Sie diese Einbrüche
+begangen und auch gestern bei der Baronesse Blanche den
 Edelstein rauben wollen? Waren Sie es, der vorhin Herrn
-Schraut mit der Harke …
+Schraut mit der Harke …«
 
-Lücke verstummte, denn ’Hans Hoppdorf war leichenölaß
-geworden, stützte sie Decke« auf den Steintisch und sog
-pfeifend entgegen den fest zustini;uengebisjeonen Zähnen den
-Alter. ein … Sein Kopf sank ihm auf die Brust … Sein
+Lücke verstummte, denn Hans Hoppdorf war leichenblaß
+geworden, stützte sich schwer auf den Steintisch und sog
+pfeifend zwischen den fest zusammengebissenen Zähnen den
+Atem ein … Sein Kopf sank ihm auf die Brust … Sein
 Flüstern war kaum verständlich.
 
-»Ich … »war’s … 31, — ich war’s?! Mein armer
-
-ehrlicher Vater!! Gut, daß er das nicht mehr erlebt hat …
-Und laufen und bestimmter: »Verlangen Sie nicht noch mehr
+»Ich … war’s … Ja, — ich war’s!! Mein armer
+ehrlicher Vater!! Gut, daß er das nicht mehr erlebt hat …«
+Und lauter und bestimmter: »Verlangen Sie nicht noch mehr
 von mir, meine Herren … Ich werde keinerlei Einzelheiten
-hinzufügen — — niemals?!« —
-— ins halbe Stunde drauf war er als Decks.;freier unterwegs
+hinzufügen — — niemals!!« —
+
+Eine halbe Stunde drauf war er als Verhafteter unterwegs
 nach Berlin. Lücke begleitete den Transport. Wir
 beide aber machten Hoppdorfs Ruderboot vom Stege los
-und fuhren über den See zum Gasthaus »Weiße Ratte,
+und fuhren über den See zum Gasthaus »Weiße Ratte".
 Harald war schweigsam, nur mitten auf dem See sagte er
 plötzlich:
 
 »Ich wandele durch einen Irrgarten, mein Alter …
 Hoppdorf gab sein Ehrenwort. Aber nur daraufhin, daß er
-der Stromer im Walde war, Wer war der Dieb, dessen
+der Stromer im Walde war. Wer war der Dieb, dessen
 Hand photographiert wurde?! Wer ist der Mörder Herbert
 Pikulskis?! Wer ist … die weiße Ratte?! Ich glaube
-—» — ich glaube, uns fehlt noch ein Mitspieler …
+— — ich glaube, uns fehlt noch ein Mitspieler …«
 
 »Du … bezweifelst Hoppdorfs Geständnis?« fragte ich
 halb belustigt über sein Suchen nach Spitzfindigkeiten.
@@ -1444,30 +1444,30 @@ halb belustigt über sein Suchen nach Spitzfindigkeiten.
 »Ja! Und die Zukunft wird mir recht geben …«
 
 Als wir das Gasthaus erreichten, begrüßte uns vor der
-Tür Kriminalassistent Rauschen mit der Nachricht, daß vorhin
+Tür Kriminalassistent Rauscher mit der Nachricht, daß vorhin
 ein Angler aus Berlin hier eingetroffen sei und um
 Nachtquartier gebeten habe … »Ich konnte ihn nicht gut
 <@pagebreak/>
 abweisen, Herr Harst … Er kam zu Fuß mit Rucksack
 und Angelruten, und er war mit dem Sofa in Gottliebs
 guter Stube als Lagerstatt durchaus zufrieden. Märker heißt
-er, Helmut Märker, Apotheker … Sieht wie ein Geck
-Lehrter aus einer Posse aus …«
+er, Helmut Märker, Apotheker … Sieht wie ein Gelehrter
+aus einer Posse aus …«
 
 »So … so … — wollen doch mal im Telephonbuch
 nachsehen …«
 
-Herr Helmut Märker, Apotheker, hatte Mylord 2228. Harald
+Herr Helmut Märker, Apotheker, hatte Uhland 2228. Harald
 rief an … Bekam Verbindung. Herr Helmut Märker
-meldete sie — — in Berlin … »Ja — ich bin Nähere,
-ich wohne auch zuweilen tu’ der »Weißen Natte’, aber zurzeit
+meldete sich — — in Berlin … »Ja — ich bin Angler,
+ich wohne auch zuweilen in der »Weißen Ratte", aber zurzeit
 liege ich daheim im Bett …«
 
-Kutscher und ich starrten Harald daraufhin lange an …
+Rauscher und ich starrten Harald daraufhin lange an …
 
-Und ich Bucht an den noch unbekannten Mitspieler,
+Und ich dachte an den noch unbekannten Mitspieler,
 
-Die weiße Ratte
+<h1>Die weiße Ratte</h1>
 
 <h2>1. Kapitel.</h2>
 
@@ -1482,7 +1482,7 @@ hinter uns, der seineL8gleichen an rascher Folge vor Ereignissen
 suchte. Als ich dann aber in den Kissen lag,
 meldeten sich doch die überreizten Nerven und mir begann
 so allerhand durch den Kopf zu gehen, was soeben noch in den
-<@pagebreak/>
+<@pagebreak 38/>
 nebligen Brüllen der Übermüdung kritiklos geschlummert
 hatte. Ich stützte den Kopf in die Hand und lauschte den
 Jenen, die von draußen durch die offenen Fenster hereindrangen.
