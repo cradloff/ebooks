@@ -1,6 +1,6 @@
 <@pagebreak/>
 
-Das Gasthaus zur weißen Ratte
+<h1>Das Gasthaus zur weißen Ratte</h1>
 
 <h2>1. Kapitel.</h2>
 
@@ -1355,7 +1355,7 @@ Blick traf Lücke. Dann hob Hoppdorf leicht die Schultern.
 »Nein, das war Zufall — keine Falle. Wir haben
 bei Kranz die geheime Leitung gefunden, und Harst … entging
 dem Tode nachher nur durch Gottliebs Angst. Ihr
-Konto ist recht schwer belastet, Herr Hoppdorf»
+Konto ist recht schwer belastet, Herr Hoppdorf«
 
 Der … lächelte müde. »Ich habe meinerseits nichts zu
 erklären, Herr Kriminalkommissar, verhaften Sie mich meinetwegen.
@@ -1471,95 +1471,98 @@ Und ich dachte an den noch unbekannten Mitspieler,
 
 <h2>1. Kapitel.</h2>
 
-<h3>Wer war Märker?!.</h3>
+<h3>Wer war Märker?!</h3>
 
-Der Mond schien in unser Turmes Zimmer Hinein
-und malte auf die gescheuerten Dielen weiße Tiere/e und
+Der Mond schien in unser kleines Zimmer Hinein
+und malte auf die gescheuerten Dielen weiße Vierecke und
 das verzerrte Muster der großblumigen Gardinen. Ich konnte
 nicht einschlafen, obwohl ich vorhin noch beim Entkleiden so
 hundemüde gewesen war. Wir hatten ja auch einen Tag
-hinter uns, der seineL8gleichen an rascher Folge vor Ereignissen
+hinter uns, der seinesgleichen an rascher Folge vor Ereignissen
 suchte. Als ich dann aber in den Kissen lag,
 meldeten sich doch die überreizten Nerven und mir begann
 so allerhand durch den Kopf zu gehen, was soeben noch in den
 <@pagebreak 38/>
-nebligen Brüllen der Übermüdung kritiklos geschlummert
+nebligen Gründen der Übermüdung kritiklos geschlummert
 hatte. Ich stützte den Kopf in die Hand und lauschte den
-Jenen, die von draußen durch die offenen Fenster hereindrangen.
+Tönen, die von draußen durch die offenen Fenster hereindrangen.
 Der See war nahe genug, um das dumpfe
-klagende unheimliche Rufen der Vohrdommein im Schifflein
+klagende unheimliche Rufen der Rohrdommeln im Schilfrohr
 zu hören, und der Kiefernwald und der ehemalige
-Mühlenbaß raunten und wisperten und rauschten und
+Mühlenbach raunten und wisperten und rauschten und
 täuschten mir flüsternde Stimmen vor.
 
-Harald schlief. Er ruhte auf seinen Lorbeeren aus,
+Harald schlief. Er ruhte auf seinen Lorbeeren aus.
 Er hatte es verdient. Er hatte die Leitung im Antennenmast,
-den Zugang zum Müthlenkeller, das geheime Telephon und
-die weichen Matten unter dem Kaninchenkäufig entdeckt.: Er
+den Zugang zum Mühlenkeller, das geheime Telephon und
+die weißen Ratten unter dem Kaninchenkäfig entdeckt. Er
 hatte Hans Hoppdorf zu dem Teilgeständnis gezwungen,
-— denn ein Leugnen gegenüber dem abgetönter Telephongespräch
+— denn ein Leugnen gegenüber dem abgehörten Telephongespräch
 wäre ja Torheit gewesen.
 
 Trotzdem: Ich hatte den Eindruck, daß er mir auch
-die8&mal wieder allzuviel verschwieg, der gute Harald …
+diesmal wieder allzuviel verschwieg, der gute Harald …
 dieser Jongleur mit Gedanken, dieser Taschenspieler, was
-das Verborgen der Gedanken betrifft.
+das Verbergen der Gedanken betrifft.
 
-I3ch Gab Blanche von Ettar vor mir in dem beschmutzten
-Ansturm mit den öligen Händen, wie sie schleunigst von der
+Ich sah Blanche von Ettar vor mir in dem beschmutzten
+Kostüm mit den öligen Händen, wie sie schleunigst von der
 Arbeit an ihrem Motorrad zur Vernehmung herbeigeeilt
-war … — Ich sah ihr seines, zartes, widerspruchsvolles G&
-Prosit und die hohe kluge Stirn, die sie so gern krauste, und …
+war … — Ich sah ihr feines, zartes, widerspruchsvolles Gesicht
+und die hohe kluge Stirn, die sie so gern krauste, und …
 diese Lippen, wie in Lebenssehnsucht gewölbt …
 
-… Waren diese Lippen schon einmal in heißem Glühen
-denen eines Mannes entgegengelnospet wie Blütenkelche,
-Ei. im Sonnenlicht und Sonnenwärme sich öffnen?! Hatte
-Bechert Punkt?! sterben müssen, weil er Blanche von Ettar
-lebte?!
+Waren diese Lippen schon einmal in heißem Glühen
+denen eines Mannes entgegengeknospet wie Blütenkelche,
+die im Sonnenlicht und Sonnenwärme sich öffnen?! Hatte
+Herbert Pikulski sterben müssen, weil er Blanche von Ettar
+liebte?!
 
 Und — was war das doch mit dem Edelstein aus
 Südafrika für eine merkwürdige Geschichte?! Das Geheimfach
-im Zyiüinderbüro, — — auch eine ungelöste Frage …
+im Zylinderbüro, — — auch eine ungelöste Frage …
 
-Wies war hier ungefähr …:
+Alles war hier ungelöst …
 
 <@pagebreak/>
-Die Platte mit der linken Sand, die die Lehrer« am
-Schwester hielt … »11
-Nein, Zeit, — — dessen nichts deutete r16X4 Logisch
+Die Platte mit der linken Hand, die die Ratte am
+Schwanze hielt …!!
 
+Nein, nein, — — besser nichts denken, nichts Logisch
 aneinanderreihen wollen …
-Dock — — ans war 328 …«!
 
-3H horchte …
-Zu der Ferne das Brettern eines Materials, « …
-Zuvorkommend … ck
+Doch — — was war das …?!
 
-Reis verstummend …
+Ich horchte …
 
-3:5 setzte hat aussieht. Ich träumte alle Linke 83 …
-Ich hörte, daß fragen? etwas geschehen würde. Dort »iebenG:43
-im »Salon« lag ja Herr Schnur Maäarkber, der Arglos.
-Gott mochte wissen, wonach der in Wahrheit angestellt Ihnen
-Namen und Beruf hatte er einem anderer s!!chnu gw
-stellen …
+In der Ferne das Knattern eines Motorrades …
 
-Und das Unterrock schwieg. Ich malte wie in Gedanken
-aus, wie der Radler sein? Maschine im Tonerde
-verbarg und nun herbeigeschlichen kam, der großen Gesicht
-sich wohl bewußt, die das von der Kriminalpolizei Bessere
+Näherkommend …
+
+Jäh verstummend …
+
+ich setzte mich aufrecht. Ich spannte alle Sinne an …
+Ich hörte, daß irgend etwas geschehen würde. Dort nebenan
+im »Salon« lag ja Herr Helmut Märker, der Angler.
+Gott mochte wissen, wonach der in Wahrheit angelte!! Einen
+Namen und Beruf hatte er einem anderen schon gestohlen
+…
+
+Und das Motorrad schwieg. Ich malte mir in Gedanken
+aus, wie der Radler seine Maschine im Walde
+verbarg und nun herbeigeschlichen kam, der großen Gefahr
+sich wohl bewußt, die das von der Kriminalpolizei besetzte
 Gasthaus bot … Ich stellte mir alles genau vor, wie er
-drüben jenseits des staubigen Landweges in den Taschen auf
-der Lauer (ach und erwog, ob er’s wagen dürfte …
+drüben jenseits des staubigen Landweges in den Büschen auf
+der Lauer lag und erwog, ob er’s wagen dürfte …
 
 Was?!
 
 Und da — — erschien auch schon über dem Rande
-des Fensterbrettes ein zerbeulter Filz — — ä&& bärtiges
+des Fensterbrettes ein zerbeulter Filz — — ein bärtiges
 wildes Gesicht …
 
-Ich starrte bin wie hynotisiert.
+Ich starrte hin wie hypnotisiert.
 
 Es war — — der Stromer!
 
@@ -1567,130 +1570,131 @@ Es war zumindest ein Mensch, der dem Doktor Hans
 Hoppdorf in seiner Landstreichermaske unheimlich glich.
 
 Nun hob der Kerl den rechten Arm, — in der Hand hielt
-er etwas Weißes, Flaches, vielleicht eine Pappschachtel, viele
-leicht eine Traube — — dergleichen …
+er etwas Weißes, Flaches, vielleicht eine Pappschachtel, vielleicht
+eine Bombe — — dergleichen …
 
-Ich griff nahm unter das Zerfließen … Über — —
+Ich griff nahm unter das Kopfkissen … Aber — —
 <@pagebreak/>
-draußen!chon in: « Stimme — halblaut, trotzdem rauh und
-»drohend:
+draußen schon eine Stimme — halblaut, trotzdem rauh und
+drohend:
 
-»Schuft — — Hände hohl!«.
-Der Strolch schnellte sich rückwärts, schattengleich huschte.
-eine zweite Gestalt herbei, — — dann ein Zumal, ein Schrei,
+»Schuft — — Hände hoch!!«
+
+Der Strolch schnellte sich rückwärts, schattengleich huschte
+eine zweite Gestalt herbei, — — dann ein Knall, ein Schrei,
 das dumpfe Aufschlagen eines menschlichen Körpers …
 
-… Ich in meinem lila Schlafanzug- barfuß zum Fenster
+Ich in meinem lila Schlafanzug barfuß zum Fenster
 hinaus, hinter mir Harst …
 
-— Im Staube lag mitten »auf der Straße ein Fremder,
+Im Staube lag mitten auf der Straße ein Fremder,
 das Gesicht nach oben …
 
-»sein Fremder; Es war der angebliche Helmut Märker
-mit blondem Bollbarxt, Brille und Künstler tolle! Von dem
+Kein Fremder: Es war der angebliche Helmut Märker
+mit blondem Vollbart, Brille und Künstlertolle! Von dem
 anderen hörten wir nur noch das rasch entfernende Knattern
-des Rades, — — und außerdem Fenster lag das Flache,
+des Rades, — — und unter dem Fenster lag das Flache,
 Weiße …
+
 Es war ein kleiner Pappkarton. Er war nicht allzu
-schwer, und während Harald sich um Märker: bemühte und
-nun auch die Brei Kriminalbeaumten sehr spärlich bekleidet
+schwer, und während Harald sich um Märker bemühte und
+nun auch die drei Kriminalbeamten sehr spärlich bekleidet
 auf der Bildfläche erschienen, öffnete ich das verschnürte
 Schächtelchen …
 
 Es lag nichts weiter darin als eine tote weiße Ratte
 und ein Zettel mit zwei Zeilen Maschinenschrift:
 
-Wenn Sie beide morgen nicht verschwinden, stiegen
-Sie hockt!!t
+> Wenn Sie beide morgen nicht verschwinden, fliegen
+Sie hoch!!
 
 Märker kam bald wieder zu sich. Der Schuß war
 lediglich aus einer Gaspistole abgefeuert worden, und Märker
 war mit dem Schreck davongekommen.
 
-Über — nachher kam er sehr schlecht davon, wenigstens
-vorläufig. da Assistent Rauscher ihm kurzerhand, da viele
-Helmut durchsah seine Person in Dunkel zu hüllen suchte,
-Perücke, Bart und Brille abnahm und ihm auch die braune
+Aber — nachher kam er sehr schlecht davon, wenigstens
+vorläufig, da Assistent Rauscher ihm kurzerhand, da Herr
+Helmut durchaus seine Person in Dunkel zu hüllen suchte,
+Perücke, Bart und Brille abnahm und ihm auch die bräunliche
+Puderschicht wegwischte.
 
-liebe Puderschicht wegwischte.
 Was da übrigblieb, war ein Mensch mit einem hageren,
+verbissenen Gesicht und frechen Augen,
 
-verbissener Gesicht und frechen Augen,
--Dom — damit war uns nicht geholfen. Der Verschwor
+Doch — damit war uns nicht geholfen. Der Mensch
 <@pagebreak/>
-durch nichts zum Reden zu bringen. Jede Frage prallte
-a? ihm ab — — jede! Und nachts einer nutzlos Personen
+war durch nichts zum Reden zu bringen. Jede Frage prallte
+an ihm ab — — jede! Und nach einer nutzlos vertanen
 halben Stunde sperrten wir den Mann vorläufig in ein
-Kellergelaß e12, … daß ans sicher dicke Für und ein (tat
+Kellergelaß ein, daß eine sichere dicke Tür und ein stark
 vergittertes Fenster hatte,
 
-Wir fü:f tranken noch zur Nervenstärkung je ein Glas
-Dunkles, u15 dank! senkte sich wieder der nächtliche Frieden
-über das einsame Lauschten hinab. Auch ich schlief ein.
+Wir fünf tranken noch zur Nervenstärkung je ein Glas
+Dunkles, und dann senkte sich wieder der nächtliche Frieden
+über das einsame Häuschen hinab. Auch ich schlief ein.
 Harald lehnte jede Zwiesprache über den Stromer und den
-Beitel mit der toten Rattenbeilage energisch ad.
+Zettel mit der toten Rattenbeilage energisch ab.
 
-Draußen dämmerte bereits sanft der neue Lag herauf,
-die ersten Vogelstimmen meldeten sie, und wider
+Draußen dämmerte bereits sanft der neue Tag herauf,
+die ersten Vogelstimmen meldeten sich, und unter
 diesem bescheidenen Konzert schlummerte ich ein.
 
 Das Erwachen war weniger poetisch. Im Fenster lehnte
-Assistent Rauschers Vorangestellt, und seine dröhnende Stimme
+Assistent Rauschers Boxergestalt, und seine dröhnende Stimme
 verkündete mitsamt saftigen Flüchen, daß der Schuft, der
-falsc7e Märker, ausgekniffen sei …; … »Die Gitterstäbe sind
-durchgesägt, und an dem einen ’Saumelt eine weiße tote,
-Ratte — mit dem Schwöre festgebunden!«
+falsche Märker, ausgekniffen sei … »Die Gitterstäbe sind
+durchgesägt, und an dem einen baumelt eine weiße tote
+Ratte — mit dem Schwanz festgebunden!«
 
 Das brachte uns rasch auf die Beine.
 
 Unter der Pumpe duschten wir, auf dem Hof rasierten
 wir uns.
 
-Es war die Rüstete zur Natur, zum ländlichen Idyll
-Auch der krähende Hahn fehlte nicht, und Rauschen hielt
+Es war die Rückkehr zur Natur, zum ländlichen Idyll.
+Auch der krähende Hahn fehlte nicht, und Rauscher hielt
 in Hemdärmeln Vortrag …
 
 »Also, meine Herren, — der Kerl ist von außen befreit
-worden … Die Spuren des Befreiers gleichsam auf
+worden … Die Spuren des Befreiers gleichen auf
 ein Haar denen des Strolches, der nachts den Pappkarton
 mit der Ratte und dem Zettel fallen ließ. Komisch
 wie?! Erst knallt der Stromer den Kerl nieder, und dann
-befreit er ihn! Daraus soll ein anderer!scezlau werden.«
+befreit er ihn! Daraus soll ein anderer schlau werden.«
 
-Harald rieb sich irren und scheiterte sein graues Haar
+Harald rieb sich trocken und scheitelte sein graues Haar
 und sagte nur:
 
 »Es gibt für alles eine Erklärung.«
 
 <@pagebreak/>
-Und als er dies gesagt, zum aus der Yhiniteriür der
-zweite Assistent berauvsgeslitk!t und Rollte:
+Und als er dies gesagt, kam aus der Hintertür der
+zweite Assistent herausgeflitzt und brüllte:
 
-»Telephon — -« Doktor Lücke: Geldschrautfeindrus bei
-der Hoppdorf-A. -« 38 0W Mark Lohngelder gestohlen,
-der neue Tresor Geister erbrochen,« anfsrrymotzen … Der
-Kolonie Justav nicht aufzufinden … —«- Jener Harst, « Doktor
-Lücke ist in einer Stunde hier … — Halt —« und das
-Beste: Vor dem Tresor lag eine tote weiße Nette?«
+»Telephon — — Doktor Lücke: Geldschrankeinbruch bei
+der Hoppdorf-A.&nbsp;G., 34&nbsp;000 Mark Lohngelder gestohlen,
+der neue Tresor wieder erbrochen, aufgeschmolzen … Der
+blaue Justav nicht aufzufinden … — Herr Harst, Doktor
+Lücke ist in einer Stunde hier … — Halt — und das
+Beste: Vor dem Tresor lag eine tote weiße Ratte!!«
 
-Wir waren sprachlos. Das heizt — wir, Rauscher und
-im. Harald nickte nur und bearbeitete sein Haar mit der
-Bürste. Den Spiegel hatte er aus einen Lautlos gelegt.
+Wir waren sprachlos. Das heißt — wir, Rauscher und
+ich. Harald nickte nur und bearbeitete sein Haar mit der
+Bürste. Den Spiegel hatte er auf einen Hauklotz gelegt.
 
 »Das genügt,« meinte er. »Nun ist Hoppdorfs Unheil
-vollständig! Armer Harsts« +«
+vollständig! Armer Kerl!!«
 
 Der Riese Rauscher fauchte wie ein Wildkater. »Wie,
 — Sie bedauern ihn noch, Herr Harst?! Die Geschichte hat
-er doch wieder eingefädelt! Er ist. die weiße Ratte …
+er doch wieder eingefädelt! Er ist die weiße Ratte …
+Er hat dreimal seinen eigenen Tresor ausplündern lassen,
+er ist der Anführer einer Chawruse (Gaunerbande), zu der
+auch der blaue Justav gehört …«
 
-Er bat dreimal seinen eigenen Tresor ausplsündern lassen,
-er ist der Anführer einer Stammes, (Gaunerbandch, zu der
-auch der blaue Justav gehört …
-
-»Natürlich, lieber Rauscher …« Harst rate sein Frisierzeug
+»Natürlich, lieber Rauscher …« Harst packte sein Frisierzeug
 weg. »Natürlich war der Einbruch längst vorbereitet
-und,
+und …«
 
 Um das Haus herum kam da der hagere alte Diener
 Friedrich herangestelzt.
@@ -1698,100 +1702,104 @@ Friedrich herangestelzt.
 »Guten Morgen …« Tiefe Verneigung … »Baronesse
 Blanche lassen die Herren bitten zu ihr zu kommen … Baronesse
 sind krank … Luise und ich haben die ganze
-Nacht gewacht. Es geht Baronesse jedoch schon wieder besser.«
-Es war wohl nur von der Leberwurst, die etwas roh …
-— leichte Vergiftung. Baronesse sind bereits auf und frühWüden
+Nacht gewacht. Es geht Baronesse jedoch schon wieder besser.
+Es war wohl nur von der Leberwurst, die etwas roch …
+— leichte Vergiftung. Baronesse sind bereits auf und frühstücken
 gerade im Parke. Wenn die Herren durch den Park
-geben, würden die Eier noch warm sein …«
+gehen, würden die Eier noch warm sein …«
 
 Der alte Wann sah in der Tat schrecklich übernächtigt
-»aus. — Harst erklärte, wir würden in zehn Minuten zur
+aus. — Harst erklärte, wir würden in zehn Minuten zur
 <@pagebreak/>
-Stelle sein … »Ist denn goß etwas passiert, Friedrich?«
+Stelle sein … »Ist denn noch etwas passiert, Friedrich?«
 
 Der nickte trostlos …
-»Ja. ja … der … «.«. Der Diamant ist gestohlen.
 
-Der ’Fensterladen war ja rote nicht repariert, und auch die
-Scheibe war nachts nicht erneuert!. Der Dieb hatte es sehe
+»Ja … ja … der … … der Diamant ist gestohlen.
+Der Fensterladen war ja noch nicht repariert, und auch die
+Scheibe war noch nicht erneuert. Der Dieb hatte es sehr
 bequem … sehr … Und … und auf der Platte des
-Zylinderbüros lag … eine tote weiße Matte …
+Zylinderbüros lag … eine tote weiße Ratte …«
 
-Er weinte fast, der Alte. Er wär. so übermüdet, so
-verstört, daß er mir von Herzen leid hätt’
+Er weinte fast, der Alte. Er war so übermüdet, so
+verstört, daß er mir von Herzen leid tat.
 
 Traurig schlich er wieder davon.
 
 <h2>2. Kapitel.</h2>
 <h3>Drei und ein Weib.</h3>
 
-Die Baronesse Blanche An Ettar lag … in einem Liegestuhl
+Die Baronesse Blanche von Ettar lag in einem Liegestuhl
 unter dem großen Walnußbaum. Neben ihr stand der
 gedeckte Tisch, und vor ihr ruhten im Grase ihre prächtigen
 Hunde, die uns mit dumpfem Knurren begrüßten.
 
 Blanche reichte uns matt ihre kalte Hand. »Nett von
-Ihnen, daß Sie mir sofort wieder zu Hilfe, eilen … Ich
-bin untröstlich über den Verlust des Seines … Und ich
-fühle mich so entsetzlich elend. Es war eine ’khrefliche
-Nacht. Hätte ich nur nicht die Wurst gegessen.+ — — Friedrich
-warnte mich! Aber wenn man Mit dem Pfennig 7echnen
-muß …! — Nehmen Sie doch Platz bitte …
+Ihnen, daß Sie mir sofort wieder zu Hilfe eilen … Ich
+bin untröstlich über den Verlust des Steines … Und ich
+fühle mich so entsetzlich elend. Es war eine schreckliche
+Nacht. Hätte ich nur nicht die Wurst gegessen … Friedrich
+warnte mich! Aber wenn man Mit dem Pfennig rechnen
+muß …! — Nehmen Sie doch Platz bitte …«
 
-Harald betrachtete sie mitleidig. »Ja, es es! eine Barte
-Prüfung für Sie, Baronesse …
+Harald betrachtete sie mitleidig. »Ja, es ist eine harte
+Prüfung für Sie, Baronesse …«
 
 Und ich sagte noch herzlicher: »Wir werden den Dieb
-schon ermitteln, … Es ist vieles in dieser Nacht geschehen,
-sehr vieles …
+schon ermitteln … Es ist vieles in dieser Nacht geschehen,
+sehr vieles …«
 
-»So?! fragte sie gleigültig, und sie winkte Friedrich
-herbei, der uns den See einschenkte. »Was denn, meine
+»So?!« fragte sie gleichgültig, und sie winkte Friedrich
+herbei, der uns den Tee einschenkte. »Was denn, meine
 Herren? Hängt es mit dem Morde zusammen?«
 
-»Vielleicht, Baronesse,« äußerte Harald ebenso gleich«
+»Vielleicht, Baronesse,« äußerte Harald ebenso gleichgültig.
 <@pagebreak/>
-ewig. »Gottlieb »rang nebst Frau und Sohn sind Fenster
+»Gottlieb Kranz nebst Frau und Sohn sind verhaftet
 worden, und ebenso ist auch der Generaldirektor Doktor
 Hoppdorf bereits in Haft …«
+
 »Nicht möglich?! Hoppdorf?! Weshalb denn?!«
+
 Friedrich nahm den Wärmer von den Eiern …
-»Weil er wahrscheinlich Pikulski getötet hat …
+
+»Weil er wahrscheinlich Pikulski getötet hat …«
 
 Ein Klirren da …
-Friedrich hatte mit dem Ellbogen der Baronesse Des
 
-Kasse vom Tische geworfen, bückte sich rasch), murmelte eins
+Friedrich hatte mit dem Ellbogen der Baronesse Teetasse
+vom Tische geworfen, bückte sich rasch, murmelte eine
 Entschuldigung und eilte mit den Scherben davon.
 
 Blanche Ettar blickte ihm nach und hatte tiefe Falten
 auf der Stirn. Sie lächelte trotzdem, — aber mir gefiel dieses
 Lächeln nicht … Dann zuckte sie die Achseln …
 
-»Er wird als, der gute Friedrich. — Also Sie meinen,
+»Er wird alt, der gute Friedrich. — Also Sie meinen,
 Herr Harst, daß Herr Hoppdorf doch der Mörder ist?! Und
-die Beweise
+die Beweise?!«
 
-Harst!! heute sie fest an.
-»Welt … er Sie liebte, Baronesse.«
+Harst schaute sie fest an.
 
-Ihr Gesicht ward starre Maske. Dann lachte sie schritt.
+»Weil … er Sie liebte, Baronesse.«
+
+Ihr Gesicht ward starre Maske. Dann lachte sie schrill.
 
 »Herr Hoppdorf — — mich lieben?! Das ist … das
-ist geradezu ein FastnachtssHerzt!« …
+ist geradezu ein Fastnachtsscherz!!«
 
-Herzlich griff nach einem Brötchen.
+Harald griff nach einem Brötchen.
 
-»Bechert Pikulski Übte Sie auch, — und vielleicht
-war da noch ein dritter, dem’s ebenso erging …
+»Herbert Pikulski liebte Sie auch, — und vielleicht
+war da noch ein dritter, dem’s ebenso erging …«
 
-Blanche sagte schroff: »Herr Harst, das Und ’Phantaste-
-selten …! Bleiben Sie bei Tatsachen.«
+Blanche sagte schroff: »Herr Harst, das sind Phantastereien
+…! Bleiben Sie bei Tatsachen.«
 
-»ob — das sind Tatsachen, Baronesse …« Er wählte
-ein dieses, Schinkenstück und aß. gemächlich.
+»Oh — das sind Tatsachen, Baronesse …« Er wählte
+ein großes Schinkenstück und aß gemächlich.
 
-Es war hier sehr gemütlich im BVanmschhakfttn. Nur
+Es war hier sehr gemütlich im Baumschatten. Nur
 die Unterhaltung drohte ungemütlich zu werden, denn Blanche
 rief gereizt: »Wenn ein Mensch wie Pikulski, dessen schreckliches
 Ende mir trotzdem nahegeht, mit plumpen Annäherungsversuchen
@@ -1801,150 +1809,152 @@ sich nur …«
 ein. »Nur die Art, wie die Liebe sich äußert, ist eben abhängig
 <@pagebreak/>
 vom Taktgefühl. Pikulski war ein wenig … Bauer, vielleicht,
-das heißt also: derb und Ohrring und …«
-»Ehrlich?! Der?! Ein Schleicher war’s, ein Spion,
-ein …«-«
+das heißt also: derb und ehrlich und …«
 
-»Erregen Sie sich vorhin nicht, Baronesse. Er starb b&w
-stimmt Ihretwegen.«
+»Ehrlich?! Der?! Ein Schleicher war’s, ein Spion,
+ein …«
+
+»Erregen Sie sich doch nicht, Baronesse. Er starb bestimmt
+Ihretwegen.«
 
 Jetzt erwiderte sie nichts, streichelte nur ihre Hunde
-und hatte die Stirn noch tiefer gekerbt. +
+und hatte die Stirn noch tiefer gekerbt.
 
-»Was nun ganz Hoppdorf betrifft, Baronesse,!so …
+»Was nun Hans Hoppdorf betrifft, Baronesse, so …«
 
-»Bitte, Personen Sie »mich doch mit alledem,
-Harst … Es ist ja einfach ’unerträglich, daß hier …
-… « « Wäre es Ihnen angenehmer, wenn Doktor Lücke
-das ’Thema erörtert?! Er tut es sicher, falls ich nicht vorher
+»Bitte, verschonen Sie mich doch mit alledem, Herr
+Harst … Es ist ja einfach unerträglich, daß hier …«
+
+»… Wäre es Ihnen angenehmer, wenn Doktor Lücke
+das Thema erörtert?! Er tut es sicher, falls ich nicht vorher
 Klarheit schaffe.«
 
 Sie wandte rasch den Kopf und starrte ihn an.
 
-»Klarheit — worüber?!« «
+»Klarheit — worüber?!«
 
 »Über … Vergangenes, Baronesse. Sehen Sie, Schraut
-und mir sind schon so zahllose dunkle MenschenschiFtiale
-förmlich aufgedrängt worden, daß… wir so etwas Seetang
-Kenner sind. Und Menschen!so kennen, Baronesse, heißt
-vieles verzeihen — — ich! alles, da zuweilen die Verirrungen
+und mir sind schon so zahllose dunkle Menschenschicksale
+förmlich aufgedrängt worden, daß wir so etwas Seelenkenner
+sind. Und Menschen *so* kennen, Baronesse, heißt
+vieles verzeihen — — nicht alles, da zuweilen die Verirrungen
 denn doch zu weit gehen.«
 
-Ich bemerkte eins flüchtige Nöte auf ihren Wangen und
-ein heiteres Zusammenpressen der Lippen.
+Ich bemerkte eine flüchtige Röte auf ihren Wangen und
+ein festeres Zusammenpressen der Lippen.
 
 Sie schwieg.
-»Sie kannten Hoppdorf doch persönlich, Baronesse?«
 
+»Sie kannten Hoppdorf doch persönlich, Baronesse?«
 fragte Harald nach ein paar neuen Bissen.
 
-»Flüchtig …
-»Verstehe, Baronesse … — Wäre es nie! möglich,
-daß Hoppdorf!sid da in ’Eie auf den ersten Blick der
+»Flüchtig …«
 
-liebt Hat?«
+»Verstehe, Baronesse … — Wäre es nicht möglich,
+daß Hoppdorf sich da in Sie auf den ersten Blick verliebt
+Hat?«
 
-»Weiß ich es, Herr Harst?t’
-Nun gut … — Und dann … der dritte Mann, ««
+»Weiß *ich* es, Herr Harst?!«
 
-Blanche errötete wieder. »Noch einer?!« spöttelte ist.
-»Ja, noch« einer, Und der kam in dieser Nacht verkleidet
+»Nun gut … — Und dann … der dritte Mann …«
+
+Blanche errötete wieder. »Noch einer?!« spöttelte sie.
+
+»Ja, noch einer. Und der kam in dieser Nacht verkleidet
 <@pagebreak/>
-in die »Weiße Ratte«, verseuchte einen Stromer und
+in die »Weiße Ratte«, verscheuchte einen Stromer und
 wurde aus dem Keller befreit — von demselben Stromer,
-der wieder dem verkleideten Hoppdorf als) …’
+der wieder dem verkleideten Hoppdorf glich …«
 
-Blanche lächelte schwach und strich schlecht graziös
+Blanche lächelte schwach und strich sich sehr graziös
 über die Stirn …
 
 »Warten Sie … warten Sie, Herr Harst, — das
-muß ist mir erst klar machen … Das ist nicht so einfach
+muß ich mir erst klar machen … Das ist nicht so einfach
 zu verstehen … Also — der dritte — — verkleidet, — —
-
-und auch der soll mich lieben?! Merkwürdig?
+und auch der soll mich lieben?! Merkwürdig?!«
 
 »Keineswegs. Ich habe Beweise. Als der Mann im
 Straßenstaub lag, als er nach dem Schuß der Gaspistole
-wieder erwachte, verbarg er rasch einen Entgingen seiner
+wieder erwachte, verbarg er rasch einen Anhänger seiner
 Uhrkette im Straßenschmutz, indem er ihn von der Kette
 abriß … Ich sah es … Hier ist das Medaillon, und
-— —« es enthält Ihr Bild, Baronesse.«
+— — es enthält Ihr Bild, Baronesse.«
 
 Ich glaube, damals blieb mir der Mund offen stehen …
 Harst hatte wieder einmal Taschenspieler markiert,
 
 Blanche Ettar riß Harald das Medaillon aus den
-
 Fingern,
 
-»ob — — Ihre Schlußfolgerungen trügen, Herr Harst.
-»Ich habe das Medaillon vor einem halben Jahr verloren
+»Oh — — Ihre Schlußfolgerungen trügen, Herr Harst.
+Ich habe das Medaillon vor einem halben Jahr verloren
 — im Schnee am Seeufer … Möglich, daß es ein Angler
 gefunden hat.«
 
 »Wie kommen Sie gerade auf einen Angler?«
 
-»Weil der Fischereipächter zahllose Angestellten ausgibt
-und …
+»Weil der Fischereipächter zahllose Angelkarten ausgibt
+und …«
 
 Unter seinem ernsten Blick verstummte sie.
 
-»Baronesse, —« weshalb lügen Sie?! Der Herr von
+»Baronesse, — weshalb lügen Sie?! Der Herr von
 heute nacht, der angebliche Helmut Märker, ist Ihr Vetter
 mütterlicherseits Helmut von Margentin … — Ich habe
 ein sehr gutes Personengedächtnis. In dem Zimmer, wo das
 Zylinderbüro steht, hängen Familienbilder.«
 
 Blanche wurde feuerrot.
-»üdlm1? von Margentin,« sagte Harald noch ernster,
+
+»Helmut von Margentin,« sagte Harald noch ernster,
 <@pagebreak/>
-»dürfte derjenige seit, bei dieses Gut und Schloß im Falls
-Ibhr2s5 Todes echt.«
+»dürfte derjenige seit, der dieses Gut und Schloß im Falle
+Ihres Todes erbt.«
 
-Sie scycute;ur Seite und nickte.
+Sie schaute zur Seite und nickte.
 
-»Las ist richtig
+»Das ist richtig …«
 
-»Da! Margentin. ’siG Ihnen nicht als Bewerber goß
-nähert?«
+»Hat Margentin sich Ihnen nicht als Bewerber genähert?«
 
-wie Stocherte …
+Sie zögerte …
 
-»4 …« erklärte sie Hüstelnd, »Kleider hat er …
-Und leider habe ich im.
+»Ja …« erklärte sie flüsternd. »Leider tat er’s …
+Und leider habe ich ihm …«
 
-Sie begann »täglich zu »weinen, beherrschte sich Du
-Rostock wieder,
+Sie begann plötzlich zu weinen, beherrschte sich aber
+sofort wieder,
 
-»2D … war heimlich mit ihm verlobt …« Stich sie
-bevor, »Ich war rot ein halbes Kind damals … Über
-Heimat ist. ist ein Wüstling, Spieler und — « und …
-schon vorbestraft. Ich löste das Verlöbnis …
+»Ich … war heimlich mit ihm verlobt …« stieß sie
+hervor. »Ich war noch ein halbes Kind damals … Aber
+Helmut ist … ist ein Wüstling, Spieler und … und …
+schon vorbestraft. Ich löste das Verlöbnis …«
 
-Harald fehlte sich in! Korbsessel zurück. —
+Harald lehnte sich im Korbsessel zurück.
 
-»Lasso doch drei, Barvauesse … Drei Männer — — und
-Sie!! Der erste ein Gescheiterter, der zweite ein rauben
+»Also doch drei, Baronesse … Drei Männer — — und
+Sie!! Der erste ein Gescheiterter, der zweite ein rauher
 Draufgänger, eifersüchtig, deshalb Ihnen nachspionierend, —
-der dritte ein reicher angesehener Mann: Hans Hoppdorfs
-Und alle drei — — gehen Dietrich Ihretwegen zugrunde.«
+der dritte ein reicher angesehener Mann: Hans Hoppdorf!
+Und alle drei — — gehen vielleicht Ihretwegen zugrunde.«
 
-Sie trocknete die feuchten Augen, und ein Garten Zug
+Sie trocknete die feuchten Augen, und ein harter Zug
 erschien um ihren Mund.
 
-»Achseln« sagte sie nur.
+»Schicksal!!« sagte sie nur.
 
-»Ja — — ein trauriges Schicksal, Baronesse …»’! Doppelt
+»Ja — — ein trauriges Schicksal, Baronesse …! Doppelt
 traurig, dies alles erörtern zu müssen, wenn wie heute
-die Sonne lebt und der Pack im Maienzauber uns umgibt.
-—»- Baronesse, vielleicht kennen Sie auch Hoppdorf besser,
-Puls Sie’s bisher eingestanden haben. Ich habe sehr gering
-Augen und Ohren. Das mag prahlerisch bringen. Sie sprachen
-mit Pikulski über das neue Kaufangebot des Nachbarn
-Geländes der Kolonie drüben. Sie lehnten ab, und in
+die Sonne lacht und der Pack im Maienzauber uns umgibt.
+— Baronesse, vielleicht kennen Sie auch Hoppdorf besser,
+als Sie’s bisher eingestanden haben. Ich habe sehr feine
+Augen und Ohren. Das mag prahlerisch klingen. Sie sprachen
+mit Pikulski über das neue Kaufangebot des Nachbargeländes
+der Kolonie drüben. Sie lehnten ab, und in
 Ihrer Stimme war … Haß. Und Haß war in Ihren
-Augen, als Sie gestern nachmittag beim Verhör Hoppdetrtk
-gegenüberstanden. Weshalb hatten Sie »Buch«
+Augen, als Sie gestern nachmittag beim Verhör Hoppdorf
+gegenüberstanden. Weshalb hassen Sie ihn?«
 
 <@pagebreak/>
 
@@ -1952,170 +1962,168 @@ gegenüberstanden. Weshalb hatten Sie »Buch«
 
 <h3>Ein Getreuer.</h3>
 
-Der harte Zug in ihrem rostigen Antlitz prägte sich
-Not schauten aus.
+Der harte Zug in ihrem rassigen Antlitz prägte sich
+noch schärfer aus.
 
 »Er war’s, der das erste Stück Land meiner Ahnen
-an sie brachte und der hier in diese Einsamkeit die protzige
+an sich brachte und der hier in diese Einsamkeit die protzige
 Aufgeblasenheit von Kriegsschiebern hineinverpflanzte und
 dem Garpensee seinen Frieden raubte,« sagte sie langsam,
-ihr Blik!chweifte dorthin, wo die Villenkolonie liegen
+ihr Blick schweifte dorthin, wo die Villenkolonie liegen
 mußte.
 
-— »Das ist kein Grund zum Haß,« meinte Harald mit
-mildem Vorwurf, »Eine Frau, ein Mädchen haßt nur aus
-rein perlönlicz)en Motiven, es sei denn, daß sie politische
-Fanatikerin ist. Das Gift der Politik ist heute als kreischende
-Kraft uneben die Liebe gerät. Gifte sind freilich
-in geringer Dosierung Heilmittel.: — Ehrlich) Spiel, Bergsteiger!
-Es geht hier um mehr als nur ein, einziges MeuschewIchi
-ja!.«
+»Das ist kein Grund zum Haß,« meinte Harald mit
+mildem Vorwurf. »Eine Frau, ein Mädchen haßt nur aus
+rein persönlichen Motiven, es sei denn, daß sie politische
+Fanatikerin ist. Das Gift der Politik ist heute als treibende
+Kraft neben die Liebe gerückt. Gifte sind freilich
+in geringer Dosierung Heilmittel. — Ehrlich Spiel, Baronesse!
+Es geht hier um mehr als nur ein einziges Menschenschicksal.«
 
-Blanke Ettar schwieg. Die Hunde knurrten, und in
-der Allee tauchte die!chlanke elegante Gestalt Doktor Lückes
+Blanche Ettar schwieg. Die Hunde knurrten, und in
+der Allee tauchte die schlanke elegante Gestalt Doktor Lückes
 auf,
 
-Baronesse entschuldigen mein Eindringen,« begrüßte er
-die Gutsherrin. »Der Dienst« ruft, und auch mit Ihnen hätte
-im einiges zu besprechen.« …
+»Baronesse entschuldigen mein Eindringen,« begrüßte er
+die Gutsherrin. »Der Dienst ruft, und auch mit Ihnen hätte
+ich einiges zu besprechen.«
+
 Blanche neigte nur den Kopf. »Sie sind mir willkommen,
 Herr Doktor … Ich habe mich gestern sehr gefreut,
 als Sie mir erzählten, Sie hätten noch unter meinem
 Onkel Oberstaatsanwalt als Referendar gearbeitet. Er war
-ja mehr Kriminalist als Zuerst. Er hat Werke über die
-Perle des Verbrechers, über Gewohnheitsverbrecher und
+ja mehr Kriminalist als Jurist. Er hat Werke über die
+Psyche des Verbrechers, über Gewohnheitsverbrecher und
 ihre Methoden geschrieben, die noch heute Neuauflagen erleben
-… Bitte, nehmen Sie Platz … Eine Tasse See
-
-vielleicht Y«
+… Bitte, nehmen Sie Platz … Eine Tasse Tee
+vielleicht?«
 
 <@pagebreak/>
-Bückte halte uns die Hand gedrückt. Grinsen gläuzteader
+Lücke hatte uns die Hand gedrückt. Er schien glänzender
 Laune zu sein,
 
-— »3H bringe ja gewissem Sinne gute Botschaft,« erklärte
-er. »Hoppdorf Nr Feiertag bekundet, daß die Familie Kranz
-Zu ihm In. keinerlei Beziehungen steht und daß die Scheichs
-Jeieponaicge ohne Wissen Gottliebs nichts gelegt wurde,
-Außerdem waren für uns auch andere Brande mitbestimmend,
+»Ich bringe in gewissem Sinne gute Botschaft,« erklärte
+er. »Hoppdorf hat freilich bekundet, daß die Familie Kranz
+Zu ihm In keinerlei Beziehungen steht und daß die geheime
+Telefonanlage ohne Wissen Gottliebs nachts gelegt wurde.
+Außerdem waren für uns auch andere Gründe mitbestimmend,
 die zweifelhaften »Kränze« freizulassen. Zuweilen erreicht
-man mehr, wenn man gewisse Leute vorläufig einschaltet.«
+man mehr, wenn man gewisse Leute vorläufig enthaftet.«
 Er zwinkerte uns verstohlen zu.
 
-Scheußlich kam mit einem Gedeck für Lücke. Der hagere
-alte Mann in der schädigen Livree mit den plumpen Schuhen
+Friedrich kam mit einem Gedeck für Lücke. Der hagere
+alte Mann in der schäbigen Livree mit den plumpen Schuhen
 war noch bleicher als vorhin. Seine runzlige Hand zitterte
-so stark, als er da? Jeder vor Lücke hinstellte, daß, als
-und Gabel mißtönend klirrten. Sein schonen Bis streifte
-Lücke nur ganz flüchtig, und seine Hast, sich wieder zu Gute
-fernen, wirkte geradezu verdächtig. Ich beobachtete. ihn ein
-staunt. Schon vorhin war mir seine Erregung aufgefallen.
+so stark, als er das Gedeck vor Lücke hinstellte, daß Tasse
+und Gabel mißtönend klirrten. Sein scheuer Blick streifte
+Lücke nur ganz flüchtig, und seine Hast, sich wieder zu entfernen,
+wirkte geradezu verdächtig. Ich beobachtete ihn erstaunt.
+Schon vorhin war mir seine Erregung aufgefallen.
 Jetzt stieg in mir ein Argwohn auf, der vielleicht unsinnig
 war. Ich schaute auf seine Füße, und die ungewöhnlich
-breite Form seiner derben Stiefel ließ mich fast erschrocken.
+breite Form seiner derben Stiefel ließ mich fast erschrecken.
 
-Aber die Dinge drängten weit schneller zu einer Jailentscheidung,
-als im es ahnte.
+Aber die Dinge drängten weit schneller zu einer Teilentscheidung,
+als ich es ahnte.
 
-— Friedrich schritt davon. Harst rief ihm nachts.
+Friedrich schritt davon. Harst rief ihm nach …
 
-— »Einen Jugendlich noch … Friedens), es stört meinen
-Ordnungösinn, daß der weiß gebaute Stein dort an! Rande
-der Allee in den Straßengraben gerollt ist. Stellen Gräfin
-doch wieder an seinen Platz, Friedrich, falls Ihre Kräfte
+»Einen Augenblick noch … Friedrich, es stört meinen
+Ordnungssinn, daß der weiß gekalkte Stein dort am Rande
+der Allee in den Straßengraben gerollt ist. Stellen Sie
+ihn doch wieder an seinen Platz, Friedrich, falls Ihre Kräfte
 dazu ausreichen.«
 
 Der Alte verbeugte sich. »Sofort, Herr Harst … »Ich
-bin nicht so schwach, wie es scheinen mag.« Text- lächelte
+bin nicht so schwach, wie es scheinen mag.« Er lächelte
 dazu verzerrt. Seine Stirn glänzte vor Schweißtropfen,
-und ja seinem Blick war ein irres Flimmern. Stolpernd
-ging er bin, hob den gut anderthalb Zentner!schworen
+und in seinem Blick war ein irres Flimmern. Stolpernd
+ging er hin, hob den gut anderthalb Zentner schweren
 Stein empor und schwang ihn aus dem Graben auf den
 <@pagebreak/>
-Alleerand, fügte ihn in das sandige So ein, trat die Erde
-ringsum fest und verschwand wach da Reutmeisterhausje bin,
+Alleerand, fügte ihn in das sandige Loch ein, trat die Erde
+ringsum fest und verschwand nach dem Rentmeisterhause hin,
 
-Lückes Mienen zeigten plötzlich eine argwöhnische Kaum
-Ring, Die Baronesse wieder war in ihren Liegestuhl zuri2gesunken
-und … hatte die Augen geschlossen. Ihr weiter
+Lückes Mienen zeigten plötzlich eine argwöhnische Spannung.
+Die Baronesse wieder war in ihren Liegestuhl zurückgesunken
+und hatte die Augen geschlossen. Ihr Gesicht
 war verfallen, ihr Mund zuckte und unter ihren Wimpern
-erschien eine Träge.
+erschien eine Träne.
 
 Lücke starrte hinter dem Alten drein, erhob sich plötzlich
-und eilte zu beim weißen Stein, bückte sich und musterte
-die Eindrücke der Sohlen Friedrichs in des zum Teil
-feuchten Erde. Dann zum er zu das zurück undicht
-sich wieder, tauschte mit uns einen langen Blitz und,
+und eilte zu dem weißen Stein, bückte sich und musterte
+die Eindrücke der Sohlen Friedrichs in der zum Teil
+feuchten Erde. Dann kam er zu uns zurück und setzte
+sich wieder, tauschte mit uns einen langen Blick und …
 hüstelte …
 
-»Baronesse …
+»Baronesse …!«
 
 Sie öffnete die Lider.
 
 »Baronesse, es tut mir sehr leid, aber … die Pflicht
-zwingt »mich — -.« Wir haben den Mörder Pikulskis gen
+zwingt mich … Wir haben den Mörder Pikulskis gefunden.«
 
-fauchte, die zweifellos das Kommende voraussah, sagte
+Blanche, die zweifellos das Kommende voraussah, sagte
+heiser und stockend:
 
-besser und stehend:
-und — — wer ist echt
+»und — — wer ist es?!«
 
-»Ihr Diener Friedrich …
+»Ihr Diener Friedrich …«
 
-Sie!schüttelte den Kap —« alles an ihr war jetzt
+Sie schüttelte den Kopf, — alles an ihr war jetzt
 Komödie …
 
-»Friedrich?! Sie scherzen …
+»Friedrich?! Sie scherzen …«
 
-» — Die Fußspuren haben ihn verraten, — — Harst
-scheint schon« vordem Faust zu haben, daß …
+»Nein … Die Fußspuren haben ihn verraten … Harst
+scheint schon vordem gewußt zu haben, daß …«
 
-»Schon gestern,« Küste Harald seltsam müde, — so, als
+»Schon gestern,« nickte Harald seltsam müde, — so, als
 ob ihn all dies seelisch erschöpfte. »Friedrich trug gestern
 bei der Vernehmung dieselben Schuhe … Sie haben rechts
-vorn an der Sohle: einen Blicken auf dem Oberleder …
-Dja Spur neben dem Toten zeigte dasselbe Bild. — Weg
+vorn an der Sohle einen Flicken auf dem Oberleder …
+Die Spur neben dem Toten zeigte dasselbe Bild. — Weshalb
+dieser Totschlag, weshalb, Baronesse?!«
 
-halb dieser Totschlag, wceohalb, Baronesse!«
-— weiß — — … es nicht …« Sie würgte die Worte
+»Ich … weiß … es nicht …« Sie würgte die Worte
 hervor, als ob sie erstickte.
 
 <@pagebreak/>
-»Sie … wissen es,« graute Harald leise. »Friedrich
+»Sie … wissen es,« meinte Harald leise. »Friedrich
 hat sein Leben lang den Ettars gedient. So alte treue Diener
 opfern sich selbst gern für ihre Herrschaft auf, und …
-Pikulski spionierte Ihnen noch, Baronesse.«
+Pikulski spionierte Ihnen nach, Baronesse.«
 
 Es wurde unheimlich still unter dem Walnußbaum.
 
 Lücke kniff die Augen klein und schien angestrengt nachzudenken.
 
-Harst fuhr dann »fort — immer in demselben nachsichtigen
+Harst fuhr dann fort — immer in demselben nachsichtigen
 Tone: »Es gibt hier noch viel zu erörtern, lieber
 Lücke. Zunächst: Der Mann, der sich Märker nannte und
 der aus dem Keller mit Hilfe des Stromers entwich, war
-der Bettler der Baronesse, ein gewisser Helmut von Morgen
+der Vetter der Baronesse, ein gewisser Helmut von Margentin,
+der …«
 
-Gattin, der …
 »Ah — — Margentin?« —, Lücke richtete sich halb auf.
-
-»Also der?! Linker Margentin Und wir seit Monaten her.
-Er war der Intimus hebe blauer! Justav, und — — sollte
-er etwa »die weiße Matte« sein, der unbekannte Anführer
-der Einbrecherbande?! Denn Hdöppdorf scheidet völlig aus.
+»Also der!! Hinter Margentin sind wir seit Monaten her.
+Er war der Intimus des blauen Justav, und — — sollte
+er etwa »die weiße Ratte« sein, der unbekannte Anführer
+der Einbrecherbande?! Denn Hoppdorf scheidet völlig aus …
 Ich wollte dies erst später erwähnen. Hoppdorf ist bereits
-ebenfalls entlassen, nachdem Assistent Rauscher alles feltphonisc;
+ebenfalls entlassen, nachdem Assistent Rauscher alles telephonisch
 gemeldet und betont hatte, daß der Stromer, der
-für Sie, Harst, die Schädel mit der toten Matte und
+für Sie, Harst, die Schachtel mit der toten Ratte und
 dem Drohzettel hinterließ, der Verkleidung Hoppdorfs genau
-entsprach, Wir sind daher auf den sehr naheliegenden
-Gedanken gekommen, daß jemand«-…«
+entsprach. Wir sind daher auf den sehr naheliegenden
+Gedanken gekommen, daß jemand …«
 
 Harald unterbrach ihn. »Ja, — jemand, der vielleicht
 aus Eifersucht Hoppdorf Ungelegenheiten bereiten wollte …«
 
-Lücke meinte eifrig: »Ganz recht … Hoppdorf hat des
-bereits zugegeben, die Verkleidung nur deshalb gewählt zu
+Lücke meinte eifrig: »Ganz recht … Hoppdorf hat bereits
+zugegeben, die Verkleidung nur deshalb gewählt zu
 haben, um das Gasthaus und Gottlieb zu beobachten. In
 der Kolonie drüben ist letztens eingebrochen worden, und
 Hoppdorf vermutete den Dieb in einem von Gottliebs
@@ -2123,86 +2131,86 @@ Wochenendanglern … Ferner hat sich herausgestellt, daß
 der geheimnisvolle Bandenführer, der sich selbst nie zeigte
 und nur telephonisch seine Anweisungen erteilte, dies auch
 <@pagebreak/>
-getan hat, als Hoppdorf vor acht Jagen verreist war. Schließlich
+getan hat, als Hoppdorf vor acht Tagen verreist war. Schließlich
 haben die vier Verbrecher, die heute in aller Frühe
 verhaftet worden sind, weil sie mit zu Justavs Freunden
 zählten, noch eingestanden, daß sie von anderen gehört
 hätten, der Handabdruck mit den vier Fingern sei stets
 künstlich durch einen ausgestopften Handschuh auf Befehl
-der weißen Packte am Gartens zurückgelassen worden — auch
+der weißen Ratte am Tatort zurückgelassen worden — auch
 ein Beweis, daß der Jemand Hoppdorf lediglich hineinlegen
 wollte. Die genaue Nachprüfung der Photographien der
-Abdrücke zeigte nun aus die Nähte der Handschuhe und …«
+Abdrücke zeigte nun auch die Nähte der Handschuhe und …«
 
-Harst fiel ihm wieder!ns Wort.
+Harst fiel ihm wieder ins Wort.
 
 »Ich glaube, wir quälen die Baronesse durch diese
 Einzelheiten, lieber Lücke. Die Baronesse hat eine sehr
 schlechte Nacht hinter sich — Vergiftung durch Wurst, außerdem
 ist der Edelstein nun wirklich gestohlen worden …«
 
-»Also noch etwas, was auf Margentins Konto kommtk!k«
-Lücke hockte ’ nur noch« Augen für Blanche Ettar. »Ist
-der Dieb aus diesmal wieder gesehen worden, Baronesse?«
+»Also noch etwas, was auf Margentins Konto kommt!!«
+Lücke hatte nur noch Augen für Blanche Ettar. »Ist
+der Dieb auch diesmal wieder gesehen worden, Baronesse?«
 Er milderte seine starke, klare Stimme zu einem mitfühlenden
 Streicheln.
 
-Blanches gedankenverlorener Bis, der schräg auf den
-durchsichtig blauen Hinunter gerichtet war glitt über Lücke
-bin. vt Zigarren, Friedrich sah ihn ::: Er war verteilt Mann
-»—: Du; wieder mit dem Motorrad, … »’ Sie sprach wie
+Blanches gedankenverlorener Blick, der schräg auf den
+durchsichtig blauen Himmel gerichtet war glitt über Lücke
+hin. »Ja — Friedrich sah ihn … Er war derselbe Mann
+— auch wieder mit dem Motorrad …« Sie sprach wie
 geistesabwesend. Die Blässe ihrer Züge war erschreckend.
 
 »Also niemals Hans Hoppdorf,« nickte Lücke. »Wie
-leicht läßt man sich das durch so!« künstlich geschaffene begleitende
-Momente täuschen?« Er erhob sich langsam. »Baronesse,
+leicht läßt man sich das durch solch’ künstlich geschaffene
+belastende Momente täuschen?« Er erhob sich langsam. »Baronesse,
 Sie werden begreifen, — — ich muß jetzt Friedrich
 verhören und dann …«
 
 »Es ist Ihre Pflicht, Herr Doktor …« Ein Schluchzen
 erstickte das weitere. Aber sie bezwang die seelische Erschütterung
-und flüsterte tonlos; »Und … verhaften wollen Sie
+und flüsterte tonlos: »Und … verhaften wollen Sie
 ihn … Ich … fürchte, Sie … werden zu spät kommen«
 
-Je! weinte sie, vollständig fassungslos …
+Jetzt weinte sie, vollständig fassungslos …
 
 <@pagebreak/>
-Lücke winkte unten.
-Als wir eilends das Nentmelsterhaus erreichen, als
+Lücke winkte uns zu.
 
+Als wir eilends das Rentmeisterhaus erreichen, als
 wir die Tür zu dem großen Zimmer aufstießen, saß der
 alte Mann friedlich in einem hochlehnigen, abgeschabten
 Sessel, den Kopf auf die Brust gesunken, im Schoße auf
-an; gründlich-verschossenen Stoff der Livree ein Flasche
+dem gründlich-verschossenen Stoff der Livree ein Fläschchen
+…
 
-Ein scharfen Bittermandel gern sagte genug.
+Ein scharfer Bittermandelgeruch sagte genug.
 
-Wir drei standen da und wagten uns nicht zu bewegen,
-Bis Harald leise meinte: »Das Bande auch ich gefürchtet …
-Dieser Greis starb wie ckr gelebt und vielleicht gesündigt.
-In Freue! Dienstboten dieser« Art! sind selten geworden. Sie
-Woren—mit den Familien so eng verwachsen, daß sie alles
-opferten, wenn es darauf ankam, und hier, hier kam
-es darauf an. Wenn wir wüßten, was dieser alte März
-alles an Geheimnissen mit in- die Ewigkeit hinübergenommen
-
+Wir drei standen da und wagten uns nicht zu bewegen.
+Bis Harald leise meinte: »Das habe auch ich gefürchtet …
+Dieser Greis starb wie er gelebt und vielleicht gesündigt.
+In Treue! Dienstboten dieser Art sind selten geworden. Sie
+Waren mit den Familien so eng verwachsen, daß sie alles
+opferten, wenn es darauf ankam, und hier … hier kam
+es darauf an. Wenn wir wüßten, was dieser alte Mann
+alles an Geheimnissen mit in die Ewigkeit hinübergenommen
 hat, würden wir um vieles klüger sein.«
 
-Lücke fuhr sich über die Stirn … »und — weshalb
-erschlug er Pikulski mit dem Steine, Harsts«
+Lücke fuhr sich über die Stirn … »Und — weshalb
+erschlug er Pikulski mit dem Steine, Harst?«
 
 »Vielleicht — weil auch er zu viel in den wissenschaftlichen
-Werken des Oberstaatsanwalts gelesen hakte … — Vielleicht
-weil sein enges Hirn seine Herrin betrat! glaubte …
-Und Harald strich sanft! über die Nee — Greisenhand, »Gute
+Werken des Oberstaatsanwalts gelesen hatte … — Vielleicht
+weil sein enges Hirn seine Herrin bedroht glaubte …«
+Und Harald strich sanft über die runzlige Greisenhand. »Es
 gibt noch Treue, — und das rührt mich.«
 
 Hinter uns müde Schritte.« …
+
 Blanche Ettar sank vor dem Sessel in die Knie und
+Umfing den Toten und weinte bitterlich,
 
-Umging den Toten und weinte bitterlich,
-
-<h2>6. Kapitel.</h2>
+<h2>4. Kapitel.</h2>
 
 <h3>Ein letzter Kuß.</h3>
 — Als wir den Toten dann hinüber in sein Führten
