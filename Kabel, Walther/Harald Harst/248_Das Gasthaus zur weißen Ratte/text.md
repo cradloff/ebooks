@@ -2213,102 +2213,104 @@ Umfing den Toten und weinte bitterlich,
 <h2>4. Kapitel.</h2>
 
 <h3>Ein letzter Kuß.</h3>
-— Als wir den Toten dann hinüber in sein Führten
-getragen hatten und in das große Nimmer zurückkehrten,
+
+Als wir den Toten dann hinüber in sein Stübchen
+getragen hatten und in das große Zimmer zurückkehrten,
 <@pagebreak/>
-fand Blanche Ettar am Schreibtisch, den Telephonhörer
+stand Blanche Ettar am Schreibtisch, den Telephonhörer
 noch am Ohr. Wir vernahmen nur die Worte:
 
 »Es ist gut … Ich komme …«
 
-Lücke veröbshledete sich. »Baronesse entschuldigen, es
+Lücke verabschiedete sich. »Baronesse entschuldigen, es
 gibt für mich noch viel zu tun … Da Harst erklärt,
 er könne mir kaum nützlich sein, müssen wir die Jagd auf
-Ihren Bettler — pardon — auf Helmut von Margentin und
-den rätselhaften Stromer allein betreiben …
+Ihren Vetter — pardon — auf Helmut von Margentin und
+den rätselhaften Stromer allein betreiben …«
 
-Als Lückes Schritte verhallt waren, erklärte die Berechneter,
+Als Lückes Schritte verhallt waren, erklärte die Baronesse,
 wir müßten sie schon eine Stunde entschuldigen …
-»Ich Tode eine Verabredung … Ruhen Sie sich doch bitte
+»Ich habe eine Verabredung … Ruhen Sie sich doch bitte
 unter dem Walnußbaum aus … Ich möchte Sie unbedingt
-nachher von sprechen, meine Herren … — Ich bin infolge
-Friedrichs freiwilligen Ende zu ganz bestimmten Entschlüssen
+nachher noch sprechen, meine Herren … Ich bin infolge
+Friedrichs freiwilligem Ende zu ganz bestimmten Entschlüssen
 gelangt, die auch dahin abzielen, Helmut Margentin,
 den ich vielleicht noch mehr verachte als hasse, der Polizei in
 die Hände zu spielen. Das, was er mir angetan hat, geht
-über des Maß menschlicher Verruchtheit hinaus. Eine weiße
-Matte ist immerhin ein harmloses Tier. Margentin ist
+über das Maß menschlicher Verruchtheit hinaus. Eine weiße
+Ratte ist immerhin ein harmloses Tier. Margentin ist
 vielleicht am besten mit einem Haifisch zu vergleichen, der
-in trüber Flur auf Beute lauert. In habe die Zuversicht,
-ihn zu finden und ihn der gerechten Strafe? zuzuführen,
-—» Hätte in: alt dies vor Lücke erklärt, würde er als Beamter
+in trüber Flut auf Beute lauert. In habe die Zuversicht,
+ihn zu finden und ihn der gerechten Strafe zuzuführen.
+— Hätte ich all dies vor Lücke erklärt, würde er als Beamter
 pflichtgemäß verlangt haben, ich solle ihm Margentins
-Beefsteak nennen. Das darf ich nickt — aus bestimmten
-Gründen, Sie beide, meine Herren, sind Privatleute, Sie
+Versteck nennen. Das darf ich nicht — aus bestimmten
+Gründen. Sie beide, meine Herren, sind Privatleute. Sie
 werden mir nichts in den Weg legen so zu handeln, wie
 ich es für gut befinde.«
 
 Es war wirklich erstaunlich, wie vollkommen sie sich zu
 sich selbst zurückgefunden hatte. Man fühlte geradezu, daß
-in ihr eine neue Quelle der Energie erwacht? war. Unergründlich
-hinabließ nur, daß dies gerade mit dem Tode des
+in ihr eine neue Quelle der Energie erwacht war. Unerklärlich
+blieb nur, daß dies gerade mit dem Tode des
 treuen, übertreuen Dieners zusammenhing.
 
 Sie schien jetzt zu überlegen und fuhr dann fort:
 
 »Wenn Sie dort den in jene beiden Linden eingebauten
 <@pagebreak/>
-Bubikopf ersteigen, dessen Treppen noch vollständig Bücher
-Fand, jungen Die die höchste Erhebung der Riechorgan des
-Sees. eine fehl Kuppe, deutlich erkennen. 23) dritte Sie,
-221au Im 20987 Uhr Auftrag, alle nach andertbulob Stunden,
-den Pavillon aufzusuchen und Ihre Ferngläser mutmaßte
-mit. Ei? Könnten auch Herrn Lücke bitten Sie zu begleiten.
-Es ist iaög’!ich, daß ich Ihre Hilfe brannte. Ich würde
-Wut von der Klippe nun mit einem Taschentuche Linken,
-und Zügel Auto Frage Sie in morgigen Minuten dorthin
--… es gib seine achthundert Meter, — Sie versuchen wird?«
+Pavillon ersteigen, dessen Treppen noch vollständig sicher
+sind, können Sie die höchste Erhebung der Uferberge des
+Sees, eine kahle Kuppe, deutlich erkennen. Ich bitte Sie,
+genau um zwölf Uhr mittags, also nach anderthalb Stunden,
+den Pavillon aufzusuchen und Ihre Ferngläser mitzunehmen.
+Sie Könnten auch Herrn Lücke bitten Sie zu begleiten.
+Es ist möglich, daß ich Ihre Hilfe brauche. Ich würde
+dann von der Kuppe aus mit einem Taschentuche winken,
+und Lückes Auto trüge Sie in wenigen Minuten dorthin
+— es sind keine achthundert Meter. — Sie verstehen mich?«
 
-»Vielleicht … zu gut,« lautete Haralds eizentü:alichs
-Lindwurm,
+»Vielleicht … zu gut,« lautete Haralds eigentümliche
+Antwort,
 
-Blanche wurde einen Moment verwirrt, und ihre Nu
-schlossen sich unter Harsts ernstem Blicke. Wann verließ
+Blanche wurde einen Moment verwirrt, und ihre Augen
+schlossen sich unter Harsts ernstem Blick. Dann verließ
 sie rasch das Zimmer, und wir hörten, wie sie die Küche
-drüben betrat, ins die alte Luise mit ihrem Vorhin
-Schluchzen um den Verlust des langjährigen Freundes bin
-der allein gewesen.
+drüben betrat, wo die alte Luise mit ihrem jämmerlichen
+Schluchzen um den Verlust des langjährigen Freundes bisher
+allein gewesen.
 
-Harald seufzte plötzlich. In seinen Zügen war Fix Es:
-Qualen Ausdruck.
+Harald seufzte plötzlich. In seinen Zügen war ein gequälter
+Ausdruck.
 
-» Mein lieber Alter, sie hat auch mich vor eine schwere
-Entscheidung gestellt,« sagte er Kali schmerzlich.
+»Mein lieber Alter, sie hat auch mich vor eine schwere
+Entscheidung gestellt,« sagte er fast schmerzlich.
 
 »Du … fürchtest um ihre Sicherheit?«
 
-… ’ 9 möchte ihr am liebsten nachschleichen
-Aber sie wird vorsichtig sein … Lob »anderseits: Es ist
-das wohl die einzige glatte Lösung …
+»Ja … Ich möchte ihr am liebsten nachschleichen …
+Aber sie wird vorsichtig sein … Und anderseits: Es ist
+das wohl die einzige glatte Lösung …«
 
-»Was denen! Die Verhaftung Margentins?«
+»Was denn?! Die Verhaftung Margentins?«
 
 Draußen im Flur jetzt Luises Altweiberstimmchen …
 schrill, voller Angst:
 
-»Baroneßchen — — bleiben Sie! Was wollen Ort
+»Baroneßchen — — bleiben Sie! Was wollen Sie
+nur …?!«
 
 Keine Antwort — nur rasche Schritte — zwei Türen
 fielen zu, und Luises Gejammer begann erneut ebenso gedämpft
-wie bisher ein,
+wie bisher.
 
-Harst setzte sich vor den Schreibtisch und nahm eins
+Harst setzte sich vor den Schreibtisch und nahm eine
 <@pagebreak/>
 Zigarette aus seinem Etui, rauchte sie umständlich an und
-seufzte wieder. Sein Blick glitt über Goas nahe Bücherregal
-bin, und er hob die Hand und sagte: »Dort — der dritte
-Band … &&s ist Oberstaatsanwalt von Ettars »Geschichte
-berühmten Kriminalfälle«. Ich besitze das Werk selbst. Du
+seufzte wieder. Sein Blick glitt über das nahe Bücherregal
+hin, und er hob die Hand und sagte: »Dort — der dritte
+Band … Es ist Oberstaatsanwalt von Ettars »Geschichte
+berühmter Kriminalfälle«. Ich besitze das Werk selbst. Du
 hast freilich noch nie hineingeschaut, dir geht die Praxis
 stets über das Gedruckte, aber beides soll sich ergänzen.
 Nimm das Buch mit unter den Walnußbaum … Gehen
@@ -2316,25 +2318,25 @@ wir. Auch ich bin nun mit mir ins Reine gekommen. Es
 Ist das wirklich die einzige glatte Lösung.«
 
 Als wir ins Freie traten, spürten wir sofort die Wetteränderung.
-Es war drückend schwül … geworden, die Sonne
-hatte sich hinter Dunstschleiern setzte! und jeder Lufthauch
+Es war drückend schwül geworden, die Sonne
+hatte sich hinter Dunstschleiern versteckt und jeder Lufthauch
 war erstorben. Selbst die frohen Vögel des weiten Parkes
 schienen vor dem sich zusammenballenden Unwetter ängstlich
 Ihre Nester aufgesucht haben und schwiegen.
 
 Wir setzten uns in die Korbsessel, und Harst wies mir
 den Abschnitt des Buches an, den ich lesen sollte. Aber meine
-Gedanken flatterten unstät hin und her. Die Tragödie, dir
+Gedanken flatterten unstät hin und her. Die Tragödie, die
 hier vor kurzem ein Menschenleben ausgelöscht hatte, wollte
 mir nicht aus dem Sinn. Es hat etwas unsäglich Bedrückendes
-an sie, wenn man Zeuge einer folgten Selbjtopferung
+an sich, wenn man Zeuge einer solchen Selbstopferung
 eines Mannes gewesen ist, der nach endlosen Jahren reinster
-Pflichterfüllung als Abschluß seiner Lebenobahn in trauriger
+Pflichterfüllung als Abschluß seiner Lebensbahn in trauriger
 Verirrung zum Totschläger wird.
 
 Ich blickte auf die gedruckten Zeilen und begriff nicht,
-was ich las, Ich konnte mich nicht genügend konzentrieren,
-und Haralds ungewöhnliche Nervosität — er erhob sich immer —
+was ich las. Ich konnte mich nicht genügend konzentrieren,
+und Haralds ungewöhnliche Nervosität — er erhob sich immer
 wieder, ging hin und her und nahm wieder Platz — steigerte
 noch meine eigene tief innerliche Erregung. Es herrschte
 nicht nur Gewitterstimmung in der Natur, sondern auch in
@@ -2342,77 +2344,79 @@ uns selbst. Dann kam die verweinte Luise herbei und fragte,
 ob wir nicht wüßten, wohin die Baronesse gegangen sei, sie
 habe so merkwürdige Redensarten gemacht, und … und
 <@pagebreak/>
-nebelig noch geküßt uns!;8 bc Küche hineingeschoben und
-sei davongelaufen,«
+habe sie noch geküßt und in die Küche hineingeschoben und
+sei davongelaufen,
 
-Harald Beunruhigte das. — Weiblein. Aber seinen Worten
-echte die Yc2fi der Überzeugung, und schließlich!Reichte er
-Grog) 1:36 Wo ziehe ’WajuonFgE all an an inne
-gar sollte Ab hm dreiviertel zwölf hier einfinden und unsere
-Fecügiviier und sein Auto mitbringen. ’— So waren wir
-denn wieder allein, ganz —zlein in Eleganz endlosen uralten.
+Harald Beruhigte das Weiblein. Aber seinen Worten
+fehlte die Kraft der Überzeugung, und schließlich schickte er
+Luise, nur um sie abzulenken, hinüber nach dem Gasthaus.
+Lücke sollte sich um dreiviertel zwölf hier einfinden und unsere
+Ferngläser und sein Auto mitbringen. — So waren wir
+denn wieder allein, ganz allein in diesem endlosen uralten
 Parke mit dem düsteren unbewohnten Schlosse und — —
-mit unseren sorgenden Gedanken, Harald rauchte Zigaretten,
-in der Ferne grollte der Donner, und die drücden:da Dicke
+mit unseren sorgenden Gedanken. Harald rauchte Zigaretten,
+in der Ferne grollte der Donner, und die drückende Hitze
 ward fast unerträglich,
 
-Ich blätterte in den dicken Buche … Wo sollte ich die
-Sammlung hernehmen, jetzt etwas zu lesen!
+Ich blätterte in dem dicken Buche … Wo sollte ich die
+Sammlung hernehmen, jetzt etwas zu lesen?!
 
 Ich hielt es es nicht länger aus.
 
-»Harald, wohin ging die Baronesse?« fragte im gereizt.
+»Harald, wohin ging die Baronesse?« fragte ich gereizt.
 
-Er!chaule mich trübe an. »Zuerst zu einem Stelldichein
-mit Hans Hoppdorf.« +
+Er schaute mich trübe an. »Zuerst zu einem Stelldichein
+mit Hans Hoppdorf.«
 
-»Wie?! Hoppdorsit«
+»Wie?! Hoppdorf?!«
 
 »Ja, mein lieber Alter … Margentin war Blanches
-erster Verlobter, der zweite war Herrührt, uns Nlargentin
-Bai diese Liebe zerstört, der Lump
+erster Verlobter, der zweite war Hoppdorf, und Margentin
+hat diese Liebe zerstört, der Lump!«
 
 Ich saß ganz still da.
-»und — und — — Tun!« sagte ich erschüttert.
+
+»und — und — — nun!« sagte ich erschüttert.
 
 »Wird Blanche sich mit Hoppdorf aussprechen, ihn um
-Verzeichnis bitten, und dann …«
+Verzeihung bitten, und dann …«
 
-»Dann …
-… Kind das Ende kommen …«
+»Dann …?«
 
-I3ch stierte zu ihm auf. »Wie meinst du das?«
+»… wird das Ende kommen …«
+
+Ich stierte zu ihm auf. »Wie meinst du das?«
 
 »Wir werden es sehen … und wir haben kein Recht,
 hier einzugreifen.«
 
 Er blickte wieder auf seine Armbanduhr …
 
-»Ein halb zwölf … Die Zeit fliegt unheimlich sein
-heute. Zuweilen wieder!chleiht sie. Ich wünschte, wir hätten
+»Ein halb zwölf … Die Zeit fliegt unheimlich schnell
+heute. Zuweilen wieder schleicht sie. Ich wünschte, wir hätten
 alles hinter uns!«
 
 <@pagebreak/>
 Wir lauschten … Ein Auto bog in die Allee ein …
-hielt … Ein Herr sprang ab: Haus Hoppdorf.
+hielt … Ein Herr sprang ab: Hans Hoppdorf.
 
-— — — Woanders rief, und seine Blasse war beängstigend:
+… Hoppdorf rief, und seine Blässe war beängstigend:
 
-»Ins ist Blaue!«
+»Wo ist Blanche?!«
 
-Er rannte über des Rasen Zu uns … »Wo is
-Blanche?!« Seine Stimme klang Hotel wie der Windstoß,
+Er rannte über des Rasen Zu uns … »Wo ist
+Blanche?!« Seine Stimme klang hohl wie der Windstoß,
 der soeben durch die Bäume sauste.
 
 Wir standen dicht beisammen, und die Angst in seinen
 Zügen war mehr als mitleiderregend.
 
 »Herr Hoppdorf,« sagte Harald und nahm seine Hand
-und schüttelte sie derb. »Seien Sie Kanal!! Sie waren
-Soeben mit Blanche zusammen …
+und schüttelte sie derb. »Seien Sie Mann!! Sie waren
+Soeben mit Blanche zusammen …«
 
-»Ja — am Seeufer … Sie »hatte mich hinbestellt …
-Und dann lief sie mir davon … « entkam mir.«
+»Ja — am Seeufer … Sie hatte mich hinbestellt …
+Und dann lief sie mir davon … entkam mir.«
 
 »Sie haben sich ausgesöhnt?«
 
@@ -2420,22 +2424,22 @@ Und dann lief sie mir davon … « entkam mir.«
 
 »Und Sie haben ihr verziehen — — alles — — alles?«
 
-Hoppdorf blickte Harst scharf« zu.
+Hoppdorf blickte Harst scharf an.
 
-»3DH hatte ihr nichts zu verzeihen,« murmelte er scheu.
+»Ich hatte ihr nichts zu verzeihen,« murmelte er scheu.
 
-»Sie haften ihr unendlich viel zu vergeben, den Blanche
+»Sie hatten ihr unendlich viel zu vergeben, denn Blanche
 von Ettar war’s, die aus Haß den Verdacht auf Sie lenkte,
 der Anführer einer Einbrecherbande gewesen zu sein. Ich
 weiß alles, Herr Hoppdorf, und ich dürfte nicht verschweigen,
 daß die Baronesse selbst diese … weiße Ratte war, diese
-rätselhafte Person, die die Geldschränke erbrechen ließ —« —
-Ihre Tresors — — aus Haß!«
+rätselhafte Person, die die Geldschränke erbrechen ließ — —
+Ihre Tresore — — aus Haß!«
 
 Hoppdorf taumelte zurück. »Mein Gott, dann … dann
-— ist sie nicht mehr zu retten … « — und er sank in
-den nächsten XKorbsessel und bedeckte das Gesicht mit den
-Händen und stöhnte: »Es war … der Abschied, …! Geküßt
+— ist sie nicht mehr zu retten …« — und er sank in
+den nächsten Korbsessel und bedeckte das Gesicht mit den
+Händen und stöhnte: »Es war … der Abschied …! Geküßt
 hat sie mich … und … und …«
 
 Harst beugte sich über ihn. »Schnell, — erzählen Sie
@@ -2445,112 +2449,110 @@ schweigen, denn … wir werden schweigen dürfen.«
 Hoppdorf sprach jetzt wie ein Verzückter … »Es war
 <@pagebreak/>
 Liebe auf den ersten Blick … Wir waren Überglücklich …
-&8s war kurz nach ihres Onkels Tode … Dann kühn
-Margentin zu ’mir, zeigte mir Briefe … Blanche hatte
+Es war kurz nach ihres Onkels Tode … Dann kam
+Margentin zu mir, zeigte mir Briefe … Blanche hatte
 mir das verschwiegen … Ich Narr glaubte Margentin,
-daß Blanche!sich ihm völlig hingegeben habe … Ich Narr
+daß Blanche sich ihm völlig hingegeben habe … Ich Narr
 schrieb ihr kalt und roh … Alles war aus. Und sie, die
-Verblendete, Besessene begann das fürchterliche Spie ihres
+Verblendete, Besessene begann das fürchterliche Spiel ihres
 Haßfeldzuges gegen mich … Eines Nachts entdeckte ich,
-da mich die — Sehnsucht trotz allem unstät Abschrieb, den
-Keller der Mühle … das Telephon … und saß Blanche
-verkleidet mit … Verbredfern … Das ist sechs Wochen
+da mich die Sehnsucht trotz allem unstät umhertrieb, den
+Keller der Mühle … das Telephon … und sah Blanche
+verkleidet mit … Verbrechern … Das ist sechs Wochen
 her. Seitdem benutzte ich die Stromerverkleidung zu meinen
 nächtlichen Streifzügen … Ich wollte alles erfahren. Ich
-zitterte um Blanche … Und — — ich schaute sie gestern bei
+zitterte um Blanche … Und — — ich schonte sie gestern bei
 der Vernehmung. Ich nahm alles auf mich, alles — ihretwegen.
-Als sie dann ihr Ziel erreicht hatte »und ich verhaftet
+Als sie dann ihr Ziel erreicht hatte und ich verhaftet
 war, kam die Reue bei ihr … Sie trug selbst
 das gleiche Strolchkostüm, sie zeigte sich Ihnen nachts am
-Fenster, sie wollte mich wieder entlasten, und da trat Makgentin
+Fenster, sie wollte mich wieder entlasten, und da trat Margentin
 dazwischen. Blanche befreite ihn, damit er nichts verriete,
-versprach ihm Geld und den Edelstein, und … öeutewill
-sie ihm beides irgendwo« aushändigen …«
+versprach ihm Geld und den Edelstein, und … heute
+will sie ihm beides irgendwo aushändigen …«
 
 Er lächelte fast blöde … »Heute will sie … will
 sie … vielleicht Margentin und … und sich selbst …«
 
-Lückes Auto jagte heran … —
+Lückes Auto jagte heran …
 
 Lücke stand vor uns.
 
-… »Tag, die Herren … So feierliche Gesichter?! Was
+»Tag, die Herren … So feierliche Gesichter?! Was
 gibt’s denn? Hier sind die Ferngläser …«
 
 »Wir wollen dort zum Pavillon hinaufsteigen,« sagte
-Harst mit schwerer Zunge. »Die Baronet bat eilte Heck
-wünscht …«
+Harst mit schwerer Zunge. »Die Baronesse hat es so gewünscht
+…«
 
-beordert umkrallte Harsts Arm.
+Hoppdorf umkrallte Harsts Arm.
 
 »Helfen Sie mir empor … Mir gehorchen die Beine
+nicht … Ich … ich …«
 
-nicht … Ich … +…
 Lücke musterte uns mißtrauisch.
 
 <@pagebreak/>
-»Was soll’s mit dem Pavillon?k«
+»Was soll’s mit dem Pavillon?!«
 
 »Blanche Ettar will noch Margentin abzufangen suchen,
-Leber Lücke …« — und Harald schritt den riesigen Linden
-zu, zwischen deren obersten Seiten wie ein breites -Neid
-der »Leine Pavillon eingebaut war.
+lieber Lücke …« — und Harald schritt den riesigen Linden
+zu, zwischen deren obersten Ästen wie ein breites Nest
+der kleine Pavillon eingebaut war.
 
-<h2>8. Kapitel.</h2>
+<h2>5. Kapitel.</h2>
 
-<h3>Das leuchtende Schmerz.</h3>
+<h3>Das leuchtende Schwert.</h3>
 
 Vor dem Pavillon auf der Plattform drängten wir vier
 uns eng zusammen. Man hatte von hier eine wundervolle
 Aussicht über See und Wald und Berge.
 
 Ganz klar hob sich die helle sandige Kuppe gegen den
-fahlgelbem Zimmer ab. Unter diesem drohenden Gelb lagerte
-der!schwarze Streifen der Gewitterwolke.
+fahlgelbem Himmel ab. Unter diesem drohenden Gelb lagerte
+der schwarze Streifen der Gewitterwolke.
 
-Not war die Kuppe leer.
+Noch war die Kuppe leer.
 
 Wieder rief Lücke ungeduldig:
 
 »Was soll das nun alles?«
 
 Eine schrille Knabenstimme hinter uns … ein Dorfjunge
-mit einem kleinen Wochen …
+mit einem kleinen Päckchen …
 
-»Bier — für Herrn Harst …«
+»Hier — für Herrn Harst …«
 
-Und wt er — wieder die engen Treppen hinab.,
+Und weg war er — wieder die engen Treppen hinab.
 
-Das ruhen enthielt nichts als eine frisch getötet!
-weiße Ratte, der noch das Blut aus dem Maule tropft
+Das Päckchen enthielt nichts als eine frisch getötete
+weiße Ratte, der noch das Blut aus dem Maule tropfte.
 
-Hoppdorf da — — heiser —« — brüllend, das Glas an
+Hoppdorf da — — heiser — — brüllend, das Glas an
+den Augen:
 
-den Augen: …
-»Braucht — — auf der Kuppe … und … Man
+»Blanche — — auf der Kuppe … und … Margentin!!«
 
-entfuhr«
 Wir starrten hin, hielten den Atem an. Wie Silhouetten
-zeichneten sich die beiden Gestalten gegen das unheiwmnliche
+zeichneten sich die beiden Gestalten gegen das unheimliche
 Schwefelgelb ab …
 
-Ein Blitz fuhr aus dem Rechten/wart der Wolke nach
-unten … Donner umdrängte uns …
+Ein Blitz fuhr aus dem Pechschwarz der Wolke nach
+unten … Donner umbrauste uns …
 
 Blanche und Margentin standen einander dicht gegenüber.
 <@pagebreak/>
-Blanche hob plötzlich den rechten Arm … Morgen
-
-Gattin sprang zurück …
+Blanche hob plötzlich den rechten Arm … Margentin
+sprang zurück …
 
 Eine Feuersäule schoß hernieder, das leuchtende Schwert
 Gottes verhinderte Mord und Selbstmord.
 
-Die Heldin Gestalten lagen reglos im Sande.
+Die beiden Gestalten lagen reglos im Sande.
 
-Wir beide nahmen Böses Auto, —Hoppdorf und Lücke
+Wir beide nahmen Lückes Auto, — Hoppdorf und Lücke
 jagten vor uns her. Als wir uns dem Gasthaus näherten,
-Puls Hoppdorfs Auto schon vorüber, trat Gottlieb Kranz
+als Hoppdorfs Auto schon vorüber, trat Gottlieb Kranz
 aus der Tür.
 
 »Halt!« befahl Harald.
@@ -2559,24 +2561,25 @@ Wir hielten …
 
 Harst hob die tote weiße Ratte an der Schwanzspitze
 empor.
-»Gottlieb,« sagte er leise … »die weiße Ratte ist Kot
-Blanche von Ettar erschlug der Wißt. Ich weiß, daß Sie ihr
+
+»Gottlieb,« sagte er leise … »die weiße Ratte ist tot …
+Blanche von Ettar erschlug der Blitz. Ich weiß, daß Sie ihr
 in Treue gedient haben — aus Dankbarkeit. Ich werde
 schweigen …«
 
 Gottlieb Kranz würgte an Tränen.
 
-»Kerl Harst … sie … sie war gut, aber sie Aß sich
+»Herr Harst … sie … sie war gut, aber sie ließ sich
 nicht raten, Sie selbst legte das Telephon, sie hatte
-da in- Ihrem Buch ihres Onkels etwas von einer Frau
+da in Ihrem Buch ihres Onkels etwas von einer Frau
 gelesen, die zur Verbrecherin wurde und den Mann ihrer
 Liebe ruinierte … Oh — was haben Friedrich und ich
 sie angefleht, diesen unsinnigen Plan aufzugeben und …
-und … —ck nun ist das das Ende! Und ja sich wär’s auch
-mein Ende geworden, Da habe ich dir Pistole, — — erstochen
-hätte ich mich, wenn,
+und … — nun ist *das* das Ende! Und fast wär’s auch
+mein Ende geworden. Da habe ich die Pistole, — — erschossen
+hätte ich mich, wenn …«
 
-Harald ließ die Matte fallen, Kranz Bandit sich weinend
+Harald ließ die Ratte fallen, Kranz wandte sich weinend
 ab und wir fuhren weiter.
 
 Auf der kahlen Kuppe kniete neben Blanche Ettar ein
@@ -2588,114 +2591,114 @@ völlig verkohltem Gesicht.
 
 »Schade,« sagte Lücke hart, »dieser Margentin hätte
 <@pagebreak/>
-vielle!’Ht so manches erklären können — « « Aber es ist so
-wohl dessen,«
+vielleicht so manches erklären können … Aber es ist so
+wohl besser,«
 
 Und er schaute Harst und mich an, und da wußten
-wir, daß auch« er die wahren Zusammenhänge kannte.
+wir, daß auch er die wahren Zusammenhänge kannte.
 
-»Meargentin,« fügte er hinzu, »wird als weiße Ratte
-sHÜ beerdigt werden … Dem Begräbnis der Baronesse
+»Margentin,« fügte er hinzu, »wird als weiße Ratte
+still beerdigt werden … Dem Begräbnis der Baronesse
 werde ich beiwohnen, denn ich bin nicht nur Beamter,
-sondern aus Vers««
+sondern auch Mensch.«
 
-Wir trugen Blanche ’in Hoppdorf Auto. Wir bahrten
+Wir trugen Blanche in Hoppdorfs Auto. Wir bahrten
 die Tote in der Vorhalle des Schlosses auf, und Donner
 und Blitze gaben Trauermusik dazu. So kam der Abend
+heran.
 
-n.
+Wir beide waren allein in dem großen Zimmer des
+Rentnerhauses. In der Schloßhalle hielt Hoppdorf Totenwache.
 
-Wie beide waren allein in dem großen Zimmer des …
-Ventnerhauses. In der Schloßhalle hielt Hoppdorf Toten«-
-Wade.
-Das Drama war aus. Aber das Leben schreitet erbat«
-Aufgebot über alles hinweg, -«+« — das Leben den Lebenden!
+Das Drama war aus. Aber das Leben schreitet erbarmungslos
+über alles hinweg, — — das Leben den Lebenden!
 Wir hatten soeben ein bescheidenes Abendbrot eingenommen,
-hatten uns selbst bedient und auf für die arme alte
+hatten uns selbst bedient und auch für die arme alte
 Luise gesorgt, die nun völlig zusammengebrochen war.
 
 Harald lauschte auf die Regengüsse draußen … Er
 rauchte und hatte schwere Falten auf der Stirn.
 
-»Du hättest mir Rock manches zu erklären,« sagte ich
-vorsichtig. »Wann begann dein Verdacht gegen Blanche?««
+»Du hättest mir noch manches zu erklären,« sagte ich
+vorsichtig. »Wann begann dein Verdacht gegen Blanche?«
 
 »Sofort. Die Platte mit der angeblichen Blitzlichtaufnahme
 war alt … war im Freien aufgenommen worden.
 Oben links sah ich Kratzer, da hatte Blanche einen Baumast
 ausgetilgt, der mit auf die Platte gekommen war. Die
-Aufnahme stammte Eden aus jener Zeit, als Blanche mit
+Aufnahme stammte eben aus jener Zeit, als Blanche mit
 Hoppdorf verlobt war, — es war eine Scherzaufnahme,
-ein Ulk. As dann Blanches Haßfeldzug den Höhepunkt
+ein Ulk. Als dann Blanches Haßfeldzug den Höhepunkt
 erreicht hatte, wollte sie durch diese Platte und durch uns
 Hoppdorf völlig vernichtend treffen. Die Einbrüche hier bei
 ihr waren natürlich nur vorgetäuscht. Auch das hatte ich
-
 bald heraus.«
 
 <@pagebreak/>
-(elend wie mag Lüfte hinter die Wahrheit gekommen
-ein
-»Sicherlich dann dein nächtliches Abenteuer in Kappe
-Paris Herren mit Bein »Strolch« und am Hunde, Der
-Ehre!.h war Statue, und vielleicht war dies ihr vaffrirrielter
-Streich. 22 hatte eben der Wintergarten vorhin geöffnet,
-sie verschwand so Ober zur ein Vorderfenster, uns der
-Verdachtes: blicken erst Fordert hier. Nur einen Fehler beging
-sie: Hoppdorf Bericht seinen Spiel! Es war einer von
-Planes Hunden. der dich Metermaß und auf den Pfiff bis
-bis lockte, Ich wenig, dieser Umstand wird Bückte die
+»Und wie mag Lücke hinter die Wahrheit gekommen
+sein?«
+
+»Sicherlich durch dein nächtliches Abenteuer in Hoppdorfs
+Garten mit dem »Strolch« und dem Hunde. Der
+Strolch war Blanche, und vielleicht war dies ihr raffiniertester
+Streich. Sie hatte eben den Wintergarten vorher geöffnet,
+sie verschwand nachher durch ein Vorderfenster, und der
+Verdacht blieb auf Hoppdorf sitzen. Nur einen Fehler beging
+sie: Hoppdorf besitzt keinen Hund! Es war einer von
+Blanches Hunden, der dich niederriß und auf den Pfiff hin
+dich losließ. Ich denke, dieser Umstand wird Lücke die
 Augen geöffnet haben.«
 
-Ich sog sinnend an weiter Zigarre.
+Ich sog sinnend an meiner Zigarre.
 
 »und Pikulski?« fragte ich.
 
-»Verliebt — eifersüchtig, daher Spion und … Mit.
-gewisser wider Willen, — deshalb schlug Friedrich ihn …«
+»Verliebt — eifersüchtig, daher Spion und … Mitwisser
+wider Willen, — deshalb erschlug Friedrich ihn …«
 
-»Wo mag der Diamant geblieben seine«
+»Wo mag der Diamant geblieben sein?«
 
-»Blanche bitte ihn zweifellos auf der Kuppe bei sich,
-und ein Blitz kann Edellteiizie zu Gas verflüchtigen lassen,
+»Blanche hatte ihn zweifellos auf der Kuppe bei sich,
+und ein Blitz kann Edelsteine zu Gas verflüchtigen lassen.
 Der Diamant starb zugleich mit der letzten derer von
-Ettar. — Übrigens — hast du Kork gar nicht versucht,
-den Namen Blanche vor: Ettar ein wenig anzuspornen?
+Ettar. — Übrigens — hast du noch gar nicht versucht,
+den Namen Blanche von Ettar ein wenig umzuformen?
 Blanche ist französisch, Ettar ist von hinten gelesen gleich
-Ratte, und so bedeutet Blanche Ettar … weiße Kutter.
-Vielleicht hat einer der Ahnen der Baronesse, Ware dieses
+Ratte, und so bedeutet Blanche Ettar … weiße Ratte.
+Vielleicht hat einer der Ahnen der Baronesse, durch dieses
 Wortspiel veranlaßt, den Gasthof »Zur weißen Ratte« so
 getauft, denn der Mädchenname Blanche kehrt in dieser
 Familie immer wieder.«
 
 »Und nun wird Hoppdorf Erbe des Gutes und auch
-des Gasthauses,« sagte ich mit einem Blickes auf den Schreibtisch
-bin, wo in dem Mittelfach; Blanches heute niedergeschriebenes
+des Gasthauses,« sagte ich mit einem Blick auf den Schreibtisch
+hin, wo in dem Mittelfach Blanches heute niedergeschriebenes
 eigenhändiges Testament lag.
 
-Harald nickte, »Sie muß ist unendlich geliebt haben …
-Ebenso ohne Maß und Ziel war nachher Ab: Haß, 21ls8 er
+Harald nickte. »Sie muß ihn unendlich geliebt haben …
+Ebenso ohne Maß und Ziel war nachher ihr Haß, als er
 ihre Mädchenehre anzweifelte … Der allein Schuldige ist
 <@pagebreak/>
-Margentin. Ihm hätte icm die Folter der Todesangst vor
+Margentin. Ihm hätte ihm die Folter der Todesangst vor
 dem Richtblock wohl gewünscht, er war ein Schurke durch
 und durch, ein erbärmlicher Wicht, der es letzten Endes
-vor nur auf Schloß Garpenburg abgesehen hatte.«
+doch nur auf Schloß Garpenburg abgesehen hatte.«
 
 Er gähnte verstohlen … »Ich werde jetzt bis Mitternacht
 schlafen. Dann löse ich Hoppdorf ab … Und wenn
-ich in der kühlen Halle vor dem Freikam Miarmorzesicht
+ich in der kühlen Halle vor dem bleichen Marmorgesicht
 der Toten sitzen werde, dürften in mir wieder einmal allerlei
 Zweifel an der Gerechtigkeit der Vorsehung aufsteigen und
-ich werde mich fragen: Mußten diese Liebenden durch«; einen
-sei elenden Wicht getrennt werden, — mußte das alles
+ich werde mich fragen: Mußten diese Liebenden durch einen
+so elenden Wicht getrennt werden, — mußte das alles
+sein?!« —
 
-mir« —
+Draußen plätscherte der Regen …
 
-Draußen plätscherte der Wegen …
-
-Hinten im Stalle heulten Blanches Hunde ihr Klageflied
+Hinten im Stalle heulten Blanches Hunde ihr Klagelied
 um die tote Herrin …
 
-Nächster Band:
-Dir goldene Glocke,
+
+<#import "*/harst.ftl" as harst>
+<@harst.naechsterband band="Die goldene Glocke."/>
+
