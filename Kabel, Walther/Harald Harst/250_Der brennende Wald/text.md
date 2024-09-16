@@ -6,7 +6,7 @@
 
 <h3>Zwei Zuchthäusler.</h3>
 
-»Sie haben sich sehr verändert, Jolly,« jagte Harst zu
+»Sie haben sich sehr verändert, Jolly,« sagte Harst zu
 dem alten Herrn, der mit einem Rucksack in der Linken und
 immer wieder sich nach Kienäpfeln bückend unserem Lagerplatz
 langsam sich genähert hatte.
@@ -16,17 +16,17 @@ einem Spaziergang durch die Wälder am Havelufer aufgebrochen
 und frühstückten nun am Rande einer Schonung
 unweit des Jagdschlosses Grunewald die mitgenommenen Delikatessen.
 Herr Jolly störte mithin meine eingehende Prü-
-jung einer Büchse Krebsschwänze in Dill,
+fung einer Büchse Krebsschwänze in Dill,
 
 »Ich würde Ihnen raten, lieber Jolly,« fuhr Harald
 fort und brachte seine Pistole nachdrücklich zum Vorschein,
-»auf irgendwelche BVergeltung8wünsche zu verzichten. Sie
+»auf irgendwelche Vergeltungswünsche zu verzichten. Sie
 haben Ihre drei Jahre Zuchthaus mit Fug und Recht
 absitzen müssen, und nach Ihrer Entlassung vor drei Tagen
 habe ich geradezu auf Sie gewartet. Sie sind nun stundenlang
-hinter uns her und sicherlich müde. Setzen Sie sich bitte,
-Sollten. Sie die rechte Hand in Ihren Rucksack verschwinden
-lassen, hieße ich bestimmt zuerst.«
+hinter uns her und sicherlich müde. Setzen Sie sich bitte.
+Sollten Sie die rechte Hand in Ihren Rucksack verschwinden
+lassen, schieße ich bestimmt zuerst.«
 
 Der alte Einbrecher und Straßenräuber Jolly Banke
 lächelte töricht. »Ich glaubte, Sie würden mich nicht erkennen,
@@ -39,69 +39,70 @@ Entfernung … Setzen Sie sich.«
 Jolly schüttete seinen Rucksack aus. Es waren nur
 Kienäpfel darin. »Wenn ich auch damals im Gerichtssaal
 die albernen Redensarten vom Stapel ließ,« meinte er
-ganz offen und freimütig, — »das war lediglich »momentaner
-Ärger, Herr Harst. Ich habe ein Anliegen …
+ganz offen und freimütig, — »das war lediglich momentaner
+Ärger, Herr Harst. Ich habe ein Anliegen …"
 
 »Und deshalb schleichen Sie drei Stunden hinter uns
-der?!«
+her?!«
 
 Jolly Banke setzte sich und nickte. »Ja … drei Stunden
-habe ich gezaudert, Ihnen die Sache zu erzählen, denn Wo.
-denn Sie werden mir nicht glauben, fürchte ich …
+habe ich gezaudert, Ihnen die Sache zu erzählen, denn ...
+denn Sie werden mir nicht glauben, fürchte ich …"
 
-»Ich fürchte das auch, Jolly …
+»Ich fürchte das auch, Jolly …"
 
-»Nun. also …! Trotzdem — — … ich tu’s, Herr Harst.
+»Nun also …! Trotzdem — — ich tu’s, Herr Harst.
 Es geht um ein Menschenleben.«
+
 »Hier — rauchen Sie diese belegte Stulle, — denn
 das wirkliche Rauchen ist hier verboten, und lügen Sie
 los? Sie müssen wissen, Jolly, Schraut und ich suchen
-gerade Beschäftigung …
+gerade Beschäftigung …"
 
-Jolly Bunde, stets nur Viel-Jolly genannt, als so
+Jolly Banke, stets nur Pickel-Jolly genannt, glich so
 wenig einem unverbesserlichen Zuchthausstammgast wie etwa
-ein Friedensengel einem ekstatischen Thronanwärter. Jolly
-sah wie ein gutsituierter Käehändler aus. Auch seine Je«
-sichmt8farbe paßte zu diesem Vergleich.
+ein Friedensengel einem afghanischen Thronanwärter. Jolly
+sah wie ein gutsituierter Käsehändler aus. Auch seine 
+Gesichtsfarbe paßte zu diesem Vergleich.
 
 »Zweihundertneunundvierzig Fälle …« murmelte er,
-Allerhand Achtung …!! Hut ab!!« Er zog seinen Kaianlagen
-und besichtigte dann den Belag der Klappstühle.
+Allerhand Achtung …!! Hut ab!!« Er zog seinen Kalabreser
+und besichtigte dann den Belag der Klappstulle.
 »Zungenwurst — nicht schlecht … Sie wird mir die eigene
-Zunge geschmeidiger machen …« Sein Gesichts behielt sei
-d.«&+ denselben gesessen Ausdruck bei, und ohne Übergang
+Zunge geschmeidiger machen …« Sein Gesichts behielt jedoch
+denselben gehetzten Ausdruck bei, und ohne Übergang
 fügte er hinzu: »Arthur Menk ist gestern entlassen worden …«
 
 »Menk?!«
 
-Auch ich besann mich nicht recht, Den Menk, mit dem
-wir es einmal zu tun gehabt, konnte PickelIJolly kaum
+Auch ich besann mich nicht recht. Den Menk, mit dem
+wir es einmal zu tun gehabt, konnte Pickel-Jolly kaum
 meinen.
 
 <@pagebreak/>
-Aber Jolly traute unserem Gedächtnis offenbar Höchst.
+Aber Jolly traute unserem Gedächtnis offenbar Höchst-
 Leistungen zu und berichtete mißgestimmt: »Der Menk und
 ich haben zusammen in der Tischlerei gearbeitet. Er gab
 da den Ton an. Er hatte glänzende Verbindungen nach
-draußen, In jedem Spind, das die Anstalt verließ, war
+draußen. In jedem Spind, das die Anstalt verließ, war
 ein doppeltes Bodenbrett, und zwischen den Brettern lag die
 Korrespondenz. Menks Bande kennt niemand. Er ist sehr
-vorsichtig. Eine Sendung wurde nun abgefangen,.und er
-nimmt an, ich hätte gepfiffen. Er will mich kalt warum.«
+vorsichtig. Eine Sendung wurde nun abgefangen, und er
+nimmt an, ich hätte gepfiffen. Er will mich kalt machen.«
 Er blickte aus seinen entzündeten milchigen Augen verstört
 ringsum. »Ich habe entsetzliche Angst, Herr Harst … Im
 übrigen wurden die Beamten durch die Briefe um nichts
-sch&chlauer, denn dkv waren sämtlich in Chiffren geschrieben …
+schlauer, denn die waren sämtlich in Chiffren geschrieben …
 Das einzige, was entziffert wurde, war der Name Thea
-Larnay, Werk hat wiederholt angedeutet, er würde sie
-»umbringen, und er tut es auch auf seine Art … »Sie
-kennen ja seine satanische Schlauheit, Herr Harst
+Larnay. Menk hat wiederholt angedeutet, er würde sie
+umbringen, und er tut es auch auf seine Art … Sie
+kennen ja seine satanische Schlauheit, Herr Harst ..."
 
-»Ah — nun bin ich im Bilde …!« Harald fälle die
+»Ah — nun bin ich im Bilde …!« Harald füllte die
 Aluminiumbecher aus der Rotweinflasche und überließ Jolly
-die »Tasche selbst, »Trinken Sie aus der Buddel … Ihre
-Herren sind noch nicht ganz in Ordnung, fürchte ich. Es ist
-ein schmutzigen Halunke, der Arthur Menk. Ich weiß, Thea
+die Flasche selbst. »Trinken Sie aus der Buddel … Ihre
+Nerven sind noch nicht ganz in Ordnung, fürchte ich. Es ist
+ein schmutziger Halunke, der Arthur Menk. Ich weiß, Thea
 Larnay verhinderte damals die Gewalttat an dem minderjährigen
 Kinde hier im Grunewald und hetzte ihren Hund
 auf Menk. Spaziergänger nahmen ihn fest. Man müßte
@@ -116,7 +117,7 @@ Opfer zu treffen …«
 
 Er trank aus der Flasche und rückte mehr in die Sonne,
 »Sie glauben gar nicht, Herr Harst, wie glücklich ich bin,
-daß ich Sie nun als … als Schuttzenael neben mir weckt.
+daß ich Sie nun als … als Schutzengel neben mir weiß.
 <@pagebreak/>
 Seit meiner Entlassung wittere ich überall Gefahr. Ich
 bin wie ein gehetztes Wild. Und dabei habe ich Menk
@@ -124,64 +125,64 @@ tatsächlich nicht verraten. Das tut kein alter Zuchthäusler.
 Besonders wenn man keinen Vorteil davon hat …«
 
 Es war seine Moral. Trotzdem glühte in diesem Entgleisten
-immer noch ein Pünktchen anständiger Gesinnung.
+immer noch ein Fünkchen anständiger Gesinnung.
 
 Harald nippte an seinem Becher. »Wo wohnen Sie,
-Jolly 2« —
+Jolly?«
 
-»In einer Baubude eines GrundstüFäs, dessen Besitzer
+»In einer Baubude eines Grundstücks, dessen Besitzer
 die Puste ausgegangen ist … Das Haus liegt drüben nach
-Steglitz zu, die Straße heißt Kostenlos, weil das MojsesStift
-in der Nähe ist.« 0-
+Steglitz zu, die Straße heißt Mosseallee, weil das Mosse-Stift
+in der Nähe ist.«
 
-»Ich Nenne es, Jolly … Wir sehen es von unserem
+»Ich kenne es, Jolly … Wir sehen es von unserem
 Garten aus. — Eine Frage: Weshalb nahmen Sie an,
 wir würden an Ihren Angaben zweifeln?«
 
-»Es ist vom nicht alles, Herr Harst,« sagte Wickelt
-bedächtig und trank die Kraters leer. Sein käsiges Gesicht
-bekam Farbe, »Die Hauptsache fehlt  noch …«
+»Es ist noch nicht alles, Herr Harst,« sagte Pickel-Jolly
+bedächtig und trank die Flasche leer. Sein käsiges Gesicht
+bekam Farbe. »Die Hauptsache fehlt noch …«
 
-»Zeichen Sie los …«
+»Schießen Sie los …«
 
 »Bitte, nicht den Ton, Herr Harst! Die Geschichte ist
 so bitterernst. Doktor Arthur Menk war doch Journalist,
 bevor er nach einigen anderen Streichen ins Zuchthaus
-rutschte …« — Titel-Jolly schwieg und starrte!charf in
+rutschte …« — Pickel-Jolly schwieg und starrte scharf in
 das Astgewirr der nahen Schonung hinein … Harald beruhigte
 ihn. »Es ist nur ein Weib, das dürre Äste sammelt.«
 
 Jolly Banke brüllte plötzlich: »Hinwerfen, …! Er …«
 
-Es war zu spät. Au? ich hatte das warnende Zischen
+Es war zu spät. Auch ich hatte das warnende Zischen
 einer Kugel gehört … keinen Knall, — doch Jollys linke
-Ohrmuschel war durchlöchert, und das Blut rann ihm der
-Hals entlang und bescmmutte ihm Krägen und Los.
+Ohrmuschel war durchlöchert, und das Blut rann ihm den
+Hals entlang und beschmutzte ihm Kragen und Rock.
 
-Die Stimme, die dann aus den JZungfkfiefern hervordrang,
+Die Stimme, die dann aus den Jungkiefern hervordrang,
 hatte etwas unangenehm Herrisches und Bedrohliches.
 
-»Rühren Sie sich nicht!! Australien!! Stellen Sie sich
+»Rühren Sie sich nicht!! Aufstehen!! Stellen Sie sich
 jeder mit dem Gesicht an eine Kiefer!«
 
 <@pagebreak/>
 Als Warnung folgte eine zweite Kugel, die mir den
-Aluminiumbecher aus: der Hand schlug.
+Aluminiumbecher aus der Hand schlug.
 
 Dieser Überfall hier in dieser so belebten Gegend war
 eine ungeheure Frechheit. Trotzdem — wir mußten gehorchen.
-Der Kerl dort im Gestrüpp spaßte nicht. Jolly Banke gleich,
+Der Kerl dort im Gestrüpp spaßte nicht. Jolly Banke freilich,
 dem wohl die Todesangst vor Menk im Nacken saß, wagte
-alles … Wie ein gehetzter Oase stürmte er nach rechts
+alles … Wie ein gehetzter Hase stürmte er nach rechts
 davon … Hinter ihm drein ertönte ein grimmer Fluch
 und dann eine erneute Warnung für uns. Wir hörten
-leise Spitze, — im Au war Harst mit einer dünnen
-Leine an die Dieser gebunden, — mir erging es ebenso « -« —
+leise Schritte, — im Nu war Harst mit einer dünnen
+Leine an die Kiefer gebunden, — mir erging es ebenso ...
 
-Wunderte: Wir sahen drüben, wo die Waldschule
-liegt, verschiedene Spazziergänger …! Und doch riskierte dieser
+Man bedenke: Wir sahen drüben, wo die Waldschule
+liegt, verschiedene Spaziergänger …! Und doch riskierte dieser
 Halunke es, uns jetzt noch fester zu binden … Dann
-vernahm ich das leise Knallen eines Stärkere, der aus
+vernahm ich das leise Knallen eines Stöpsels, der aus
 einer Flasche gezogen: wurde … Ich roch Chloroform …
 Ich wußte nun, was uns bevorstand … Wenn es wirklich
 Arthur Menk war, so wollte er uns zumindest für Stunden
@@ -189,19 +190,19 @@ unschädlich machen.
 
 Aber es kam anders … Der Wind wehte von Süden
 über die Schonung hinweg gerade auf uns zu … Mit
-einem Male umgaben uns graue Nauchschleier, — fast gleichzeitig
+einem Male umgaben uns graue Rauchschleier, — fast gleichzeitig
 mußte Jolly Banke, der sich durch die Schonung
 wieder herangeschlichen und das trockene Gras am Rande
 angezündet hatte, mit einem Knüttel zugeschlagen haben.
 Mit aller Kraft drehte ich mich halb um, sah die Flammen,
-den Rauch, sah das Weib am Boden liegen und den PickelJoliy
-Herbei stürmen,
+den Rauch, sah das Weib am Boden liegen und den Pickel-Joliy
+herbeistürmen,
 
 Schade nur, daß Jolly zuerst uns losband, — daß die
 herbeieilenden Spaziergänger sich nicht um die Frau kümmerten,
 die blitzschnell wieder in der Schonung verschwand.
 
-Das Feuer wurde schnell Besitz. Man fragte uns drei
+Das Feuer wurde schnell erstickt. Man fragte uns drei
 aus … Harald redete etwas von Filmaufnahme, lachte
 vergnügt, und die Neugierigen zogen weiter, — es war ein
 Zwischenfall ohne Belang für sie … Und dabei lagen
@@ -209,65 +210,65 @@ Zwischenfall ohne Belang für sie … Und dabei lagen
 am Boden die braune Chloroformflasche, zwei Stücke Watte
 und … die blonde Weiberperücke Arthur Menks,
 
-»Es war Menk,« sagte Jolly stolz. »Habe im mich
+»Es war Menk,« sagte Jolly stolz. »Habe ich mich
 nicht glänzend benommen?«
 
-Harald Frühe ihm die Hand, zog seine Brieftasche und
+Harald drückte ihm die Hand, zog seine Brieftasche und
 schrieb auf eine Visitenkarte:
 
-Liebe Mutter, Überbringer dieses mit  durchhscho)senem
+> Liebe Mutter, Überbringer dieses mit durchschossenem
 Ohr ist mein Gast. Wir sind um drei zu Tisch daheim.
 Herzlichst — Dein Harald,
 
-—» Ich ahnte nicht, daß diese »Kinoszene« den Auftakt
+— Ich ahnte nicht, daß diese »Kinoszene« den Auftakt
 zu einem der geheimnisvollsten Verbrechen war, die uns
 je beschäftigt haben, —
 
 Jolly trennte sich von uns eine halbe Stunde später
 am Roseneck und benutzte die Straßenbahn. Wir beide gingen
 die Hundekehlenstraße hinab und bogen in die Heydenstraße
-ein, wo Hofrat Warnung wohnte.
+ein, wo Hofrat Larnay wohnte.
 
 Bevor ich fortfahre, eine Bemerkung. Wenn ich als
-Untertitel hier »Unser Zubilium8-Fall« gewählt habe, so
+Untertitel hier »Unser Jubiläums-Fall« gewählt habe, so
 wäre hierzu zu sagen, daß man eigentlich »Jubiläumsfall«
-gestorben müßte. Über ich habe den trennenden Strich absichtlich
-eingefügt. Das Wort »Fall« hat mehrere Des
+schreiben müßte. Aber ich habe den trennenden Strich absichtlich
+eingefügt. Das Wort »Fall« hat mehrere Be-
 Deutungen, kann auch in Verbindung mit »Rein« sehr
 peinlich klingen, —
 
 Die Heydenstraße gehört zu dem stillen Villenvorort
 Dahlem. Am Roseneck stoßen bekanntlich die drei Vororte
-Grunewald, Schmargendorf und Dahlem zusammen…
+Grunewald, Schmargendorf und Dahlem zusammen.
 
 Hofrat Ludwig Larnay, einst eine der Leuchten der Bühne,
 hatte sich nach seinem grauenvollen Sturz von stolzer
-Ruhmeshöhe hinab in die Ti’fen hämischer Verlästerung von
-aller Welt abgeschlossen. Man kennt sein Titel, Es
-gleicht dem Südeingang. Genau wie dieser Dramatiker plötzlich
+Ruhmeshöhe hinab in die Tiefen hämischer Verlästerung von
+aller Welt abgeschlossen. Man kennt sein Schicksal. Es
+gleicht dem Sudermanns. Genau wie dieser Dramatiker plötzlich
 für die Kritik nur ein talentloser Routinier ward und
 seine Stücke von allen Bühnen verschwanden, ebenso hatte
 die Kritik auch Ludwig Larnay für die Öffentlichkeit gemordet.
-Seine Kunst sollte nichts als Schmieren mache. seine
+Seine Kunst sollte nichts als Schmierenmache, seine
 <@pagebreak/>
 Vertiefung der Charaktere anmaßende Übertreibung sein.
 Er selbst, dieser vornehme, stille Mensch, verteidigte sich
-nicht. Er verließ die? süddeutsche Residenz schon vor dem
-Kriege und- siedelte sich in Dahlem an, wo er keine Leine
+nicht. Er verließ die süddeutsche Residenz schon vor dem
+Kriege und siedelte sich in Dahlem an, wo er seine kleine
 Villa mit dem parkähnlichen Garten mit einer hohen Mauer
 umgab und nur noch seinem Kinde lebte. Er mied jeden
 Verkehr, er wollte für die Welt tot sein, die ihm fremd
 geworden. Als der gegen ihn geführte Pressekampf erloschen
 und nach Jahren gerechtere Männer für seine unbestreitbare
 Größe eintraten und die Lästerer von damals als schnöde
-Neider entlarvt wurden, blieb er in seinem Tuskulum wie
+Neider entlarvt wurden, blieb er in seinem Tuskulum<@refnote 1/> wie
 bisher, ließ niemanden vor, — die Verbindung mit seinen
 Kreisen war zerschnitten, und er wünschte es nicht, diese
 Fäden zusammenknüpfen zu lassen. Was Niedertracht ihm
-zugefügt, vergaß er nie, Seiner Gattin, die er über alles
-geliebt, hatte diese Spitz des jähen Niedergangs das Leben
+zugefügt, vergaß er nie. Seiner Gattin, die er über alles
+geliebt, hatte diese Zeit des jähen Niedergangs das Leben
 gekostet. Was in seinem gütigen Herzen allein noch lebte,
-war die Liebe zu seiner Tochter und die Dankbarkeit gegen
+war die Liebe zu seiner Tochter und die Dankbarkeit gegen-
 über seinen drei Hausgenossen von einst, die mit ihm in die
 Verbannung gezogen waren: Sein Diener, sein Chauffeur
 und die Köchin.
@@ -275,26 +276,26 @@ und die Köchin.
 Wir beide verdankten die nähere Bekanntschaft mit ihm
 einem Zufall. Er war wie wir ein eifriger Spaziergänger und
 Angler, und im verflossenen Sommer hatten wir einige
-Male Kahn an Kahn auf der Havel bei der Insel Körper«-
-werden gelegen und uns zunächst nur über St. Petri-«Sport
+Male Kahn an Kahn auf der Havel bei der Insel Kälberwerder
+gelegen und uns zunächst nur über St. Petri-Sport
 unterhalten, ohne wohl gegenseitig zu ahnen, wer wir waren.
 Schließlich kam es zu persönlicher Vorstellung, und der
 schlanke vornehme Mann mit dem grauen Spitzbart und der
-dunklen Brille (er litt an chilenischen Bindehautentzündung)
-wurde uns ein lieber (Gefährte, der uns dann gut sein Heim
+dunklen Brille (er litt an chronischer Bindehautentzündung)
+wurde uns ein lieber Gefährte, der uns dann auch sein Heim
 einmal zeigte und uns Thea, seinen aschblonden Liebling,
-sowie Beine drei Getreuen in all ihrer verschlossenen Eigenart
+sowie seine drei Getreuen in all ihrer verschlossenen Eigenart
 vorführte. Es war ein sehr behaglicher Nachmittag damals,
 aber es blieb der einzige, denn Ludwig Larnay machte
 <@pagebreak/>
-kein Hehl daraus, daß er seine Einsiedelei Herbst uns nicht
+kein Hehl daraus, daß er seine Einsiedelei selbst uns nicht
 öffnen könne … »Ich bin tot für die Welt, und die
-Welt ist für mich tot — Sie beide stehen gedacht mitten
-im rauschenden Leben … Das paßt nicht zusammen, meiste
+Welt ist für mich tot — Sie beide stehen jedoch mitten
+im rauschenden Leben … Das paßt nicht zusammen, meine
 Herren …« — Wir verargten es ihm nicht. — Nun sollte
-eine besondere Verfettung von Umständen die Villa Larnay
-Du in das Getriebe eines rätselhaften Kriüninaisalles
-gen.
+eine besondere Verkettung von Umständen die Villa Larnay
+mitten in das Getriebe eines rätselhaften Kriminalfalles
+setzen.
 
 <h2>2. Kapitel.</h2>
 
