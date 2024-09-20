@@ -15,8 +15,8 @@ Wir waren morgens an diesem prächtigen Junitage zu
 einem Spaziergang durch die Wälder am Havelufer aufgebrochen
 und frühstückten nun am Rande einer Schonung
 unweit des Jagdschlosses Grunewald die mitgenommenen Delikatessen.
-Herr Jolly störte mithin meine eingehende Prü-
-fung einer Büchse Krebsschwänze in Dill,
+Herr Jolly störte mithin meine eingehende Prüfung
+einer Büchse Krebsschwänze in Dill,
 
 »Ich würde Ihnen raten, lieber Jolly,« fuhr Harald
 fort und brachte seine Pistole nachdrücklich zum Vorschein,
@@ -40,16 +40,16 @@ Jolly schüttete seinen Rucksack aus. Es waren nur
 Kienäpfel darin. »Wenn ich auch damals im Gerichtssaal
 die albernen Redensarten vom Stapel ließ,« meinte er
 ganz offen und freimütig, — »das war lediglich momentaner
-Ärger, Herr Harst. Ich habe ein Anliegen …"
+Ärger, Herr Harst. Ich habe ein Anliegen …«
 
 »Und deshalb schleichen Sie drei Stunden hinter uns
 her?!«
 
 Jolly Banke setzte sich und nickte. »Ja … drei Stunden
-habe ich gezaudert, Ihnen die Sache zu erzählen, denn ...
-denn Sie werden mir nicht glauben, fürchte ich …"
+habe ich gezaudert, Ihnen die Sache zu erzählen, denn …
+denn Sie werden mir nicht glauben, fürchte ich …«
 
-»Ich fürchte das auch, Jolly …"
+»Ich fürchte das auch, Jolly …«
 
 »Nun also …! Trotzdem — — ich tu’s, Herr Harst.
 Es geht um ein Menschenleben.«
@@ -57,7 +57,7 @@ Es geht um ein Menschenleben.«
 »Hier — rauchen Sie diese belegte Stulle, — denn
 das wirkliche Rauchen ist hier verboten, und lügen Sie
 los? Sie müssen wissen, Jolly, Schraut und ich suchen
-gerade Beschäftigung …"
+gerade Beschäftigung …«
 
 Jolly Banke, stets nur Pickel-Jolly genannt, glich so
 wenig einem unverbesserlichen Zuchthausstammgast wie etwa
@@ -80,8 +80,8 @@ wir es einmal zu tun gehabt, konnte Pickel-Jolly kaum
 meinen.
 
 <@pagebreak/>
-Aber Jolly traute unserem Gedächtnis offenbar Höchst-
-Leistungen zu und berichtete mißgestimmt: »Der Menk und
+Aber Jolly traute unserem Gedächtnis offenbar Höchstleistungen
+zu und berichtete mißgestimmt: »Der Menk und
 ich haben zusammen in der Tischlerei gearbeitet. Er gab
 da den Ton an. Er hatte glänzende Verbindungen nach
 draußen. In jedem Spind, das die Anstalt verließ, war
@@ -96,7 +96,7 @@ schlauer, denn die waren sämtlich in Chiffren geschrieben …
 Das einzige, was entziffert wurde, war der Name Thea
 Larnay. Menk hat wiederholt angedeutet, er würde sie
 umbringen, und er tut es auch auf seine Art … Sie
-kennen ja seine satanische Schlauheit, Herr Harst ..."
+kennen ja seine satanische Schlauheit, Herr Harst …«
 
 »Ah — nun bin ich im Bilde …!« Harald füllte die
 Aluminiumbecher aus der Rotweinflasche und überließ Jolly
@@ -177,7 +177,7 @@ alles … Wie ein gehetzter Hase stürmte er nach rechts
 davon … Hinter ihm drein ertönte ein grimmer Fluch
 und dann eine erneute Warnung für uns. Wir hörten
 leise Schritte, — im Nu war Harst mit einer dünnen
-Leine an die Kiefer gebunden, — mir erging es ebenso ...
+Leine an die Kiefer gebunden, — mir erging es ebenso …
 
 Man bedenke: Wir sahen drüben, wo die Waldschule
 liegt, verschiedene Spaziergänger …! Und doch riskierte dieser
@@ -195,7 +195,7 @@ mußte Jolly Banke, der sich durch die Schonung
 wieder herangeschlichen und das trockene Gras am Rande
 angezündet hatte, mit einem Knüttel zugeschlagen haben.
 Mit aller Kraft drehte ich mich halb um, sah die Flammen,
-den Rauch, sah das Weib am Boden liegen und den Pickel-Joliy
+den Rauch, sah das Weib am Boden liegen und den Pickel-Jolly
 herbeistürmen,
 
 Schade nur, daß Jolly zuerst uns losband, — daß die
@@ -233,8 +233,8 @@ Bevor ich fortfahre, eine Bemerkung. Wenn ich als
 Untertitel hier »Unser Jubiläums-Fall« gewählt habe, so
 wäre hierzu zu sagen, daß man eigentlich »Jubiläumsfall«
 schreiben müßte. Aber ich habe den trennenden Strich absichtlich
-eingefügt. Das Wort »Fall« hat mehrere Be-
-Deutungen, kann auch in Verbindung mit »Rein« sehr
+eingefügt. Das Wort »Fall« hat mehrere Bedeutungen,
+kann auch in Verbindung mit »Rein« sehr
 peinlich klingen, —
 
 Die Heydenstraße gehört zu dem stillen Villenvorort
@@ -268,8 +268,8 @@ Fäden zusammenknüpfen zu lassen. Was Niedertracht ihm
 zugefügt, vergaß er nie. Seiner Gattin, die er über alles
 geliebt, hatte diese Zeit des jähen Niedergangs das Leben
 gekostet. Was in seinem gütigen Herzen allein noch lebte,
-war die Liebe zu seiner Tochter und die Dankbarkeit gegen-
-über seinen drei Hausgenossen von einst, die mit ihm in die
+war die Liebe zu seiner Tochter und die Dankbarkeit gegenüber
+seinen drei Hausgenossen von einst, die mit ihm in die
 Verbannung gezogen waren: Sein Diener, sein Chauffeur
 und die Köchin.
 
@@ -301,68 +301,68 @@ setzen.
 
 <h3>Verschleierte Wahrheit.</h3>
 
-Als wir uns der Villa näherten — die Hervorstieß
-lag in der Sonnenglut der Mtruagsstunde völlig versagte
-da -, hörten wir schon von weiten erregte Stimmen. Dann
-eilte aus der Gitterpforte die jh!:anke Thea barhäuptig zu
-die Straße, hinter ihr drein der angejahrte Diener und
-dicke kleine Chauffeur, die ihre Herrin ziemlich rücksichtslo
-bei den Armen packten und wieder in den Vorgarten hineintragen,
-Sie jträudvte sich, ihr Gesicht war iotenoleich
+Als wir uns der Villa näherten — die Heydenstraße
+lag in der Sonnenglut der Mittagsstunde völlig verlassen
+da —, hörten wir schon von weiten erregte Stimmen. Dann
+eilte aus der Gitterpforte die schlanke Thea barhäuptig auf
+die Straße, hinter ihr drein der angejahrte Diener und der
+dicke kleine Chauffeur, die ihre Herrin ziemlich rücksichtslos
+bei den Armen packten und wieder in den Vorgarten hineinzogen.
+Sie sträubte sich, ihr Gesicht war totenbleich und
 in ihren Augen schimmerten Tränen.
 
 Harst blieb stehen.
 
-»Gnädiges Fräulein … «!« — er musterte die Trupp
-scharf, und Thea Rannen rief sichtlich erfreut: »Gasthaus,
-— — Herr Harst!! Ich wollte gerade zur Polizei,
+»Gnädiges Fräulein …!« — er musterte die Gruppe
+scharf, und Thea Larnay rief sichtlich erfreut: »Gott sei
+Dank, — — Herr Harst!! Ich wollte gerade zur Polizei,
 zur Rathauswache in Schmargendorf.« (Das sind kaum vier
 Minuten Wegs.)
 
-Jahnke, der Chauffeur, und Miene, der Diener, machte
+Jahnke, der Chauffeur, und Milenz, der Diener, machten
 sehr betretene Gesichter. Auch sie waren verstört und Erregt
-und Friedrich Miene meinte überhastet: »Kerl Harst, be
-uns hat sich ein Fremder erschossen … in Herrn Hofrat
-Arbeitszimmer … Das gnädige Fräulein sollte nicht …
+und Friedrich Milenz meinte überhastet: »Herr Harst, bei
+uns hat sich ein Fremder erschossen … in Herrn Hofrats
+Arbeitszimmer … Das gnädige Fräulein sollte nicht …«
 
-»Ja — ich sollte telephonieren — — an die Polizei,
+»Ja — ich sollte telephonieren — — an die Polizei,«
 <@pagebreak/>
-stammelte die Sorte Thea, »Aber der Apparat ist doch …«
+stammelte die zarte Thea. »Aber der Apparat ist doch …«
 
 Jahnke sagte ärgerlich: »Das Telephon ist in Ordnung …
 Außerdem hätten wir doch erst einmal den Herrn Hofrat
-weder müssen, der hinten im Park in Beinen Hängematte
-schläft — wie stets nach Eise« Ich bin nicht dafür, daß
+wecken müssen, der hinten im Park in seiner Hängematte
+schläft — wie stets nach Tisch. Ich bin nicht dafür, daß
 man irgend etwas übereilt …«
 
 Thea und die beiden Männer kamen mir in ihrer
-auffälligen Verwirrung recht merkwürdig vor, Ich hatte das
+auffälligen Verwirrung recht merkwürdig vor. Ich hatte das
 Gefühl, daß hier irgend etwas nicht ganz stimmte, und besonders
 der fast anmaßende Ton Jakob Jahnkes stimmte mich
-bedenklich, Ich will nicht sagen, daß der behäbige Chauffeur
-den Eintrat machte, als ob er ein schlechtes Gewißheit hätte,
+bedenklich. Ich will nicht sagen, daß der behäbige Chauffeur
+den Eindruck machte, als ob er ein schlechtes Gewissen hätte,
 nur schien es mir, als ob ihm unsere Einmischung höchst
 unerwünscht käme. Jakob Jahnke war ein stämmiger kleiner
-Kerl mit rosigem Gesicht Pro der grauen Haare, die er fest
-gescheitelt trug. Seine verschwommenen … hellen Augen und
+Kerl mit rosigem Gesicht trotz der grauen Haare, die er fest
+gescheitelt trug. Seine verschwommenen hellen Augen und
 die dicken Augenbrauen, dazu eine Stupsnase und ein breiter
 Mund mit hochgezogenen Lippen verliehen ihm unbedingt
-etwas Komiscxes,
+etwas Komisches,
 
 Thea erwiderte sichtlich beunruhigt:
 
-»Gerade Papa soll ganz aus dem Spiel bleiben, Jahnke,
+»Gerade Papa soll ganz aus dem Spiel bleiben, Jahnke.
 Er ist schon so übernervös, und …« Sie unterbrach sich,
 winkte uns und meinte: »Treten Sie doch bitte näher, meine
-Herren … Friedrich, schließen Sie die Pforte,, « Sie
+Herren … Friedrich, schließen Sie die Pforte …« Sie
 war wieder gefaßt und ganz Dame, reichte uns die Hand
 und fügte erklärend hinzu: »Jahnke hatte den Schuß gehört
 … Er hätte mich sofort benachrichtigen sollen. Ich
-saß auf der Verräter, Friedrich arbeitete im Gemüsegarten
+saß auf der Terrasse, Friedrich arbeitete im Gemüsegarten
 und Marie machte ihr gewohntes Nickerchen …«
 
 »Wer ist denn der Selbstmörder?« fragte Harald merklich
-gespannt, Seine Blicke. wanderten dabei heimlich von
+gespannt. Seine Blicke wanderten dabei heimlich von
 Gesicht zu Gesicht.
 
 »Ein Fremder,« antwortete Jahnke prompt.
@@ -371,38 +371,38 @@ Thea errötete und schritt rasch voran.
 
 »Kommen Sie, meine Herren, — bestimmen Sie, was
 <@pagebreak/>
-geschehen Stall … Sie sind schließlich Fachleute, und wir
-— wir … nur Laien und auch zu bestürzt, Um …««
+geschehen soll … Sie sind schließlich Fachleute, und wir
+— wir … nur Laien und auch zu bestürzt, Um …«
 
 »Ein Fremder?!« warf Harald ein. »Wer hat ihn
 denn in das Arbeitszimmer des Herrn Hofrats eingelassen?!
-Einen Fremden pflegt man doch nicht …
+Einen Fremden pflegt man doch nicht …«
 
 Jahnke meinte da, indem er etwas unhöflich Harald
 ins Wort fiel: »Es war ein Schauspieler mit einem Bettelbrief
 … Der Herr Hofrat tut ja insgeheim viel Gutes.
 Friedrich empfing den Mann. Im Arbeitszimmer weilte
-gerade der Redakteur, der die Antennenanlage nachsah, und
-ic€9 entfernte mich nur für kurze Zeit …«
+gerade der Monteur, der die Antennenanlage nachsah, und
+ich entfernte mich nur für kurze Zeit …«
 
 Wir betraten die Diele. Die Villa Larnay ist in allem
-ein Schmutrkäsichen. Was der Hofrat hier an Kunstdingen
-aufgehäuft hat, könnte. die Abteilung eines Museums füllen.
+ein Schmuckkästchen. Was der Hofrat hier an Kunstdingen
+aufgehäuft hat, könnte die Abteilung eines Museums füllen.
 Von der Diele führen drei Türen in die Parterreräume,
 während eine breite Treppe im Hintergrunde zu einer
 Galerie emporläuft, die die Diele oben zum Teil überdacht.
 Ein großes buntes Oberlichtfenster spendet gedämpfte Helle,
 
-Thea blieb stehen. Sie war wieder sehr blaß, »Bitte
+Thea blieb stehen. Sie war wieder sehr blaß. »Bitte
 — ich möchte nicht mit Hinein,« sagte sie leise. »Ich kann
-Tote nicht sehen …
+Tote nicht sehen …«
 
-Jahnke öffnete ’hie Tür links. Eine schwere Portiere
+Jahnke öffnete die Tür links. Eine schwere Portiere
 hing innen, er hob sie empor und ließ uns hindurch.
 
-In dem langgestreckten 3weisenstrügen Raume lag vor
+In dem langgestreckten zweifenstrigen Raume lag vor
 dem Schreibtisch auf dem dunklen Afghanteppich ein elegant
-gekleideter bärtiger Mann auf dem Rücken, Auf seiner
+gekleideter bärtiger Mann auf dem Rücken. Auf seiner
 rechten Schläfe zeichnete sich eine blutige Stelle ab, — —
 neben ihm schimmerte das vernickelte Metall einer altmodischen
 kleinen Pistole mit Elfenbeinbeschlägen.
@@ -410,57 +410,57 @@ kleinen Pistole mit Elfenbeinbeschlägen.
 Harald machte an der Tür halt und hielt uns durch
 eine bestimmte Geste zurück,
 
-»Wo ist der Monteur?« fragte er: Jahnke,
+»Wo ist der Monteur?« fragte er Jahnke,
 
 »Bereits fortgegangen, Herr Harst.«
 
-»So?! Wann denn?
+»So?! Wann denn?!«
 
-»Kurz die dem Selbstmord
+»Kurz nach dem Selbstmord …«
 
 <@pagebreak/>
 »Das hätten Sie nicht dulden sollen, Herr Jahnke …
 War der Monteur denn Zeuge des Selbstmordes?«
 
 »Nein … Er war gerade zum Fenster hinausgestiegen
-und schraubte den Blitzschutz der Antenne Eiter, als der
-Fremde abholte. Der Monteur …
+und schraubte den Blitzschutz der Antenne fester, als der
+Fremde abdrückte. Der Monteur …«
 
-… Hieß?«
+»… Hieß?«
 
-»Zuge Abel, Herr Harst.« —
+»Hugo Abel, Herr Harst.« —
 
 »Wo wohnt er?«
 
-»Drüben in Schmargendorf irgendwo, …
+»Drüben in Schmargendorf irgendwo …«
 
 Harald sagte nichts weiter, sondern schritt auf die Leiche
 zu, bückte sich und richtete sich gleich wieder auf.
 
-»Wir müssen den Herrn Hofrat weder,« meinte er …
+»Wir müssen den Herrn Hofrat wecken,« meinte er …
 »Führen Sie uns hin. Ich werde dieses Zimmer verschließen.
-Friedrich) mag an die Polizei telephonieren …
+Friedrich mag an die Polizei telephonieren …
 Das hier ist Mord, nicht Selbstmord …«
 
 Friedrich und Jahnke riefen wie in einem Atem: »Aber
-— das ist doch; unmöglich!«
+— das ist doch unmöglich!«
 
 Harald schob sie in die Diele. »Ich weiß es besser …
-Es wird telephoniert, der Apparat ist ja in Ordnung x …«
+Es wird telephoniert, der Apparat ist ja in Ordnung …«
 
 Thea saß in einem Sessel und erhob sich müde. In ihren
-Augen lag ein Ausdruck, als ob sie Harsts ent!cheidende
-Worte fürchtete. »Nun?« fragte sie mit unsicheren Stimme,
-Harald blickte sie zerstreut an und erwiderte recht Geistes
-abwesend: »Wenn der Monteur Hugo Abel draußen auf dem
-Fenstersims stand und an dem Blitzschutz arbeitete, früh,;en
+Augen lag ein Ausdruck, als ob sie Harsts entscheidende
+Worte fürchtete. »Nun?« fragte sie mit unsicherer Stimme.
+Harald blickte sie zerstreut an und erwiderte recht Geistesabwesend:
+»Wenn der Monteur Hugo Abel draußen auf dem
+Fenstersims stand und an dem Blitzschutz arbeitete, müssen
 Sie ihn doch gesehen haben, gnädiges Fräulein … Auf
 der Terrasse steht ein Liegestuhl … Benutzen Sie den?«
 
-»3X …« Das klang verdächtig zögernd. »Aber ich
-saß ’mit dem Rücken nach dem Hause, Herr Harst,« fügte
-sie hastiger hinzu. »Das Buch nahm mich auch ganz ge
-fangen. Es war »Wallace, Edgar Wallace …«
+»Ja …« Das klang verdächtig zögernd. »Aber ich
+saß mit dem Rücken nach dem Hause, Herr Harst,« fügte
+sie hastiger hinzu. »Das Buch nahm mich auch ganz gefangen.
+Es war Wallace, Edgar Wallace …«
 
 Wir schritten durch die Diele, Friedrich riß die Tür
 auf, und Harald meinte genau so geistesabwesend: »Also
@@ -469,11 +469,11 @@ nicht die richtige Lektüre für Ihre erschöpften Nerven …«
 
 <@pagebreak/>
 Ich war hinter ihnen, und ich sah den mißtrauischen
-Blick, mit dem sie Jeu Harsts hagere Züge streifte. »Meine
+Blick, mit dem sie scheu Harsts hagere Züge streifte. »Meine
 Nerven sind in bester Verfassung,« erklärte sie auffallend
 bestimmt,
 
-Der Chauffeur räusperte im, und Fräulein Larnay
+Der Chauffeur räusperte sich, und Fräulein Larnay
 errötete. »Das heißt …« korrigierte sie sich schnell, »jetzt
 natürlich hat mich der Selbstmord doch recht mitgenommen.«
 
@@ -483,101 +483,96 @@ in dem ein prächtiger Schäferhund seine Herrin wedelnd
 und leise winselnd begrüßte. Rechts lag die Terrasse mit der
 durchbrochenen Steinbrüstung, und vor ihr dehnte sich eine
 weite Rasenfläche aus, die im Hintergrunde durch eine Kastanienallee
-noch dichte Sträucher begrenzt wurde,
+und dichte Sträucher begrenzt wurde,
 
-»Ich will Ihnen die Wahrheit nicht verhehlen.« erklärte
-Harald und musterte die Parkanlagen, »Es handelt sich hier
-nicht um Selbstmord, gnädiges Fräulein … Leider nicht,
-Eis ist Mord … zumindest Totschlag oder … grob fahrlässige
+»Ich will Ihnen die Wahrheit nicht verhehlen,« erklärte
+Harald und musterte die Parkanlagen. »Es handelt sich hier
+nicht um Selbstmord, gnädiges Fräulein … Leider nicht.
+Es ist Mord … zumindest Totschlag oder … grob fahrlässige
 Tötung, das muß die Polizei feststellen …«
 
 Thea benahm sich abermals sehr seltsam.
 
 »So?!« sagte sie nur … »Mord?! Dürften Sie sich
-Nicht irren …?!« …
+Nicht irren …?!«
 
 »Kaum … Der Schuß ist auf mindestens zwei Meter
 Entfernung abgefeuert worden, und die Waffe …« — er
-schaute … Dies Larnay nachdenklich an — »ja, die Waffe,
+schaute Thea Larnay nachdenklich an — »ja, die Waffe,
 glaube ich, ist Jahnke nicht fremd …«
 
-Der Chauffeur starrte in die Luft, wo gerade ein sildergrauer
-Propellervogel gen Flugplatz:, Tempelhof zog …
-»Der Revolver lag stets in der linken Abrede des Ehreibstisdzes
-des Herrn Hofrats … « jagte er finster. »Daß dieser
-Bittsteller ausgerechnet die Schublade halb offen fand… das
+Der Chauffeur starrte in die Luft, wo gerade ein silbergrauer
+Propellervogel gen Flugplatz Tempelhof zog …
+»Der Revolver lag stets in der linken Schublade des Schreibtisches
+des Herrn Hofrats …« sagte er finster. »Daß dieser
+Bittsteller ausgerechnet die Schublade halb offen fand, das
 war eben Zufall … Ich glaube nicht an Mord. Der
-
-Dann war Eden gänzlich verzweifelt, und wir hätten ihn
-mit warten fahren sollen, bis der Herr Hofrat sein Schäfchen
-beendet spähte …«
+Mann war eben gänzlich verzweifelt, und wir hätten ihn
+nicht warten lassen sollen, bis der Herr Hofrat sein Schläfchen
+beendet hätte …«
 
 <@pagebreak/>
-Thea hatte sich nach links gewandt? und rief ihrem Hunde
-
-ein paar Beteuerte zi. Das alles ward mir immer merkt
-
-würdiger. Hier diese« Nannten … logen, unbedingt —
-
+Thea hatte sich nach links gewandt und rief ihrem Hunde
+ein paar Koseworte zu. Das alles ward mir immer merkwürdiger.
+Hier diese Menschen … logen, unbedingt —
 sie logen alle, sie suchten die Wahrheit zu vertuschen, aber
-ihre schaupiclerijczen Faß?! Seiten reichten dazu nicht hin.
+ihre schaupielerischen Fähigkeiten reichten dazu nicht hin.
 
-In der Südostecke;des Parkes zwischen zwei alten Linden
-hing die Hängematte.: Hofrat Larnay schlief ganz fest. Thea
-mußte ihm erst rütteln. Er lächelte sanft, gähnte, öffnete
+In der Südostecke des Parkes zwischen zwei alten Linden
+hing die Hängematte. Hofrat Larnay schlief ganz fest. Thea
+mußte ihn erst rütteln. Er lächelte sanft, gähnte, öffnete
 die Augen und sprang empor, als er uns erkannte,
 
-»Ab — seltene Fest -»-.’ er drückte uns die Hand …
+»Ah — seltene Gäste …« er drückte uns die Hand …
 
-Dann blickte er und Jahnke forschend an. »Ihr …
-ihr seid ja So elf feierlich … « Er schüttelte die Sprach
-Trunkenheit vollends ab … »Was ist denn geschehen, … 91«
+Dann blickte er Thea und Jahnke forschend an. »Ihr …
+ihr seid ja So seltsam feierlich …« Er schüttelte die Schlaftrunkenheit
+vollends ab … »Was ist denn geschehen …?!«
 Er drehte den Kopf. Herr Harst, — — sprechen Sie, — es
-
 ist irgend etwas passiert …«
 
-Harald nickte, »Sie werden viel Unruhe in Kauf nehmen
+Harald nickte. »Sie werden viel Unruhe in Kauf nehmen
 müssen, Herr Hofrat … In Ihrem Arbeitszimmer liegt
-Arthur Werk — — erschossen, … tot …!«
+Arthur Menk — — erschossen … tot …!«
 
-Ich gute genau so Stimmchen wie Larnay …«.« Thea
+Ich zuckte genau so zusammen wie Larnay … Thea
 schrie leise auf …
 
-»Altar … Menk?!«
+»Arthur … Menk?!«
 
 »Ja, gnädiges Fräulein, Arthur Menk, der gestern das
-Zuchthaus verließ … Der Ihnen Machte schwor … Sein
-blonder Vollbart ist Kali … Es ist Menk, …!«
+Zuchthaus verließ … Der Ihnen Rache schwor … Sein
+blonder Vollbart ist falsch … Es ist Menk …!«
 
-Ludwig Larnay fuhr sich mit der!chmalen Hand über
+Ludwig Larnay fuhr sich mit der schmalen Hand über
 die Stirn. »Gütiger Gott, — — daß ist ja entsetzlich …
-Wie kam Menk in mein Zimmer?
+Wie kam Menk in mein Zimmer?«
 
-Der dies Jahnke erklärte bissig: »Er hatte einen Bettelbrief
+Der dicke Jahnke erklärte bissig: »Er hatte einen Bettelbrief
 bei sich … Er gab sich für einen stellenlosen Schauspieler
-aus, und der Brief trug die empfehlenden Unsere
-Schriften hiesiger bekannter Bühnengrößen … Wie sollten
+aus, und der Brief trug die empfehlenden Unterschriften
+hiesiger bekannter Bühnengrößen … Wie sollten
 wir ahnen, daß …« — er zuckte die Achseln — »wir konnten
 den Mann doch nicht wie einen Stromer in der Diele
-warten lasen, und en ’ wollte doch den Herrn Hofrat persönlich
-sprechen
+warten lasen, und er wollte doch den Herrn Hofrat persönlich
+sprechen …«
 
 <@pagebreak/>
-Larnay seuszte!chmerzliH. »Ihr hältst mich weder sollen,
-Wie war denn hat Klasse! Hat der Mann sich selbst erweitert!
+Larnay seufzte schmerzlich. »Ihr hättet mich wecken sollen.
+Wie war denn das alles?! Hat der Mann sich selbst erschossen?!
 Lieber Himmel, — ich muß erst meine Gedanken
-grünen … Umtun Menk, dieser … Elende, und … hier
+ordnen … Arthur Menk, dieser … Elende, und … hier
 bei mir … und …«
 
-»Er wurde von anderer Hände getötet,« sagte Harald
-da auffallend scharf, »Kennen Sie den Monteur Abel genauer,
+»Er wurde von anderer Hand getötet,« sagte Harald
+da auffallend scharf. »Kennen Sie den Monteur Abel genauer,
 Herr Hofrat?«
 
 »Nein … Was … hat der Monteur damit zu tun?!«
 
 »Vielleicht allzu viel … Doch gehen wir … Friedrich
 hat die Kriminalpolizei schon benachrichtigt … —
-Sie, Herr Jahnke, sind wohl: der Hauptzeuge, … Halten
+Sie, Herr Jahnke, sind wohl der Hauptzeuge, … Halten
 Sie sich bereit … Am besten, Sie kommen mit auf die
 Terrasse …«
 
@@ -585,10 +580,10 @@ Jahnkes Gesicht versteinerte förmlich. Ein Blick traf
 Harald, als ob der Chauffeur am liebsten Harst an die
 Kehle gefahren wäre,
 
-»Ich; werde nicht … fliehen,« meinte er bissig. »Wein
-Gewissen ist rein, « Er rate verächtlich … »Ich war
-nie feige … Die »Polizei mag nur kommen …!! Aber
-den … Abel werde im holen … Der Kerl gefiel mich
+»Ich werde nicht … fliehen,« meinte er bissig. »Mein
+Gewissen ist rein …« Er lachte verächtlich … »Ich war
+nie feige … Die Polizei mag nur kommen …!! Aber
+den … Abel werde ich holen … Der Kerl gefiel mir
 schon gestern nicht …!«
 
 Als die Mordkommission eintraf, als man den Monteur
@@ -599,56 +594,56 @@ nicht zu finden,
 
 <h3>Jolly als Detektiv.</h3>
 
-Es waren ganz neue Herren, die wir noch nicht kannten
+Es waren ganz neue Herren, die wir noch nicht kannten.
 Groß-Berlin hatte gerade Hochkonjunktur in Kapitalverbrechen
-und diese Kommission war ein Berlegenheitsgebilde, Vers
-Leiter uns zwar mit ausgesuchter Höflichkeit behandelte
+und diese Kommission war ein Verlegenheitsgebilde, deren
+Leiter uns zwar mit ausgesuchter Höflichkeit behandelte,
 <@pagebreak/>
-immerhin redete durchblien ließ, wir seien lediglich Zeugen,
-und das kaum einmal, Der Herr war noch jung, ins Ehrgeiz
+immerhin jedoch durchblicken ließ, wir seien lediglich Zeugen,
+und das kaum einmal. Der Herr war noch jung, und Ehrgeiz
 und begründetes Selbstbewußtsein — er hatte in der
-Hat erhebliche Erfolge: zu verzeichnen — schufen eine trensnende
+Tat erhebliche Erfolge zu verzeichnen — schufen eine trennende
 Wand der kühlen Ablehnung unserer Mitarbeit und
-verstimmten Harald derart, daß er sich sehr bald Feind«-
-Anredete. Untere Beziehungen zu den alterprobten vom
-»roten Alex«, zu Gernapp, Brust, Lücke, Bechert und wie
+verstimmten Harald derart, daß er sich sehr bald verabschiedete.
+Unsere Beziehungen zu den alterprobten vom
+»roten Alex«, zu Gernapp, Brasch, Lücke, Bechert und wie
 sie alle hießen, hatten uns etwas verwöhnt. Was wir
-zu Protokoll gegeben, betraf lediglich die Villa Larnay. Titel«
-Jolly war nicht erwähnt worden. Wir gingen heim. Harald
-redete diese« zehn Minuten lang bis zur Blücherstraße lediglich
+zu Protokoll gegeben, betraf lediglich die Villa Larnay. Pickel-Jolly
+war nicht erwähnt worden. Wir gingen heim. Harald
+redete diese zehn Minuten lang bis zur Blücherstraße lediglich
 von unseren Spargelbeeten, die in diesem Jahre wegen
-des schlechter Frühjahrsö8wetters sehr im Rückstande waren.
+des schlechten Frühjahrswetters sehr im Rückstande waren.
 
 Ich kenne ihn. Er ist zuweilen überempfindlich, und
-die Behandlung, die er bei Larnays erfahren, heulte ihn
+die Behandlung, die er bei Larnays erfahren, hatte ihn
 schwer gekränkt. Trotzdem war er gerecht genug zuzugeben,
 daß die Herren der Polizei nichts getan hatten, was wider
 den guten Ton gewesen wäre. Er küßte seine Mutter zur
 Begrüßung auf die Stirn und meinte: »Dieser Doktor Cord,
 Mama, wird auch ohne uns fertig werden … Er bedankte
-sie?) sehr liebenswürdig dafür, daß wir den Toten als
+sich sehr liebenswürdig dafür, daß wir den Toten als
 Arthur Menk sofort identifizieren konnten. — Wo ist Jolly?«
 
-»Weit lieber Junge, das ist ein seltsames Pflänzchen,«
+»Mein lieber Junge, das ist ein seltsames Pflänzchen,«
 lächelte seine Mutter nachsichtig. »Deine Gäste entbehren nie
 der Eigenart. Herr Jolly Banke hat zunächst Bart und
 Perücke entfernt, hat dann Mathilde beim Schuppen der
-Barsche geholfen und arbeitet nun im Garten, In einer
-Viertelstunde essen all’
+Barsche geholfen und arbeitet nun im Garten. In einer
+Viertelstunde essen wir.«
 
 Wir fanden Jolly bei den Spargelbeeten. Er hatte die
-Beete sauber geglättet und mit der Schnur aufgerichtet.
-»Es gefällt mir hier vortrefflich,« meinte er dankbar. »Ihr
-wünschte, jeder eitle] jene Zuchthäusler fände ein solches
-Heim. Als Übergang in ein ehrliches Dasein ist das Willen
+Beete sauber geglättet und mit der Schnur ausgerichtet.
+»Es gefällt mir hier vortrefflich,« meinte er dankbar. »Ich
+wünschte, jeder entlassene Zuchthäusler fände ein solches
+Heim. Als Übergang in ein ehrliches Dasein ist das Milieu
 <@pagebreak/>
-von größter Wichtigkeit, — Wie war’s bei Larnays, Herr
+von größter Wichtigkeit. — Wie war’s bei Larnays, Herr
 Harst?«
 
-Er stützte sie auf die Harke, und Leine verschmitztem.
+Er stützte sich auf die Harke, und seine verschmitzten
 Augen tasteten Haralds Züge ab.
 
-»Altar Menk ist tot,« sagte Harst. nur.
+»Arthur Menk ist tot,« sagte Harst nur.
 
 Jolly zog die Augenbrauen hoch. »So … so … tot.
 Auch gut.« Das war alles.
@@ -659,64 +654,64 @@ als hilfesuchender Schauspieler, wurde von dem Diener
 Friedrich empfangen, der den Brief und ebenso die natürlich
 gefälschten Empfehlungen einiger Bühnensterne las …«
 
-»Brief?!« Jolly krauste die Nase. »Ich so — ein Bettelbrief
-für den Fall, daß er nicht persönlich vorgelat)sjen.
+»Brief?!« Jolly krauste die Nase. »Ach so — ein Bettelbrief
+für den Fall, daß er nicht persönlich vorgelassen
 würde … Verstehe …«
 
 »Der Diener führte ihn in das Arbeitszimmer und bat
-ihm zu warten. Dort war gerade ein Monteur tätig, und
-der Hofrat hielt noch Mittagsschlaf, Nach zehn Minuten
+ihn zu warten. Dort war gerade ein Monteur tätig, und
+der Hofrat hielt noch Mittagsschlaf. Nach zehn Minuten
 hörte der Chauffeur Jahnke einen Schuß, ging ins Arbeitszimmer
 und fand Menk tot auf dem Teppich vor dem Schreibtisch.
-Der Monteur wollte in dem Moment, als der Sohn,
-fiel, gerade draußen den Blitzschutz der Antenne sfestgehra1r by
-haben, Der Chauffeur schrie ihn weg, und als wir uns der
-Villa näherten, geschah allerlei, was recht eigentümlich war …
+Der Monteur wollte in dem Moment, als der Schuß
+fiel, gerade draußen den Blitzschutz der Antenne festgeschraubt
+haben. Der Chauffeur schickte ihn weg, und als wir uns der
+Villa näherten, geschah allerlei, was recht eigentümlich war.
 Nachher wollte Jahnke, der Chauffeur, den Abel holen, fuhr
 mit dem Auto davon und ist nun genau so Spurlos verduftet
 wie Hugo Abel …«
 
-Jolly Banke lächelte mitleidig. »Sie haben Maschkupich
+Jolly Banke lächelte mitleidig. »Sie haben Maschkupieh
 gemacht — die beiden … Ich weiß zwar nicht, wie man
-MaschFupich schreibt, aber Sie werden es kennen, es bedeutet
-so viel wie »gemeinsame Sache« … Mögen sich
+Maschkupieh schreibt, aber Sie werden es kennen, es bedeutet
+so viel wie »gemeinsame Sache« … Mögen sie
 nicht gefaßt werden, die beiden, denn Arthur Menk war
 ein Lump — mehr als das … Ich war stets nur Verbrecher.
-Menk dagegen?! Pfui Teufel?«
+Menk dagegen?! Pfui Teufel!«
 
-»Waren Sie wirklich immer Verbrecher. Jolly?« trat
+»Waren Sie wirklich immer Verbrecher, Jolly?« fragte
 <@pagebreak/>
 Harald sinnend. »Hießen Sie immer Jolly Banke?! Ich
-besinne mich dunkel: Ihre Herkunft ist zweifelhaft.« —
+besinne mich dunkel: Ihre Herkunft ist zweifelhaft.«
 
 Ein bitterer Zug trat in des alten Zuchthäuslers faltiges,
-schwammiges Käjyegesiht. »Was war, das war, Herr Harst!
+schwammiges Käsegesicht. »Was war, das war, Herr Harst!
 Die Vergangenheit muß tot bleiben … Meine Papiere
 lauten auf Jolly, Adam, Hektor Banke, also bin ich Banke.
 Im Verbrecheralbum kennt man auch nur Jolly Banke,
 und meine Fingerabdrücke — auch von Jolly Banke …!
-Durch die Bank eben Banke,« wischte er in trauriger Selbstironie,
+Durch die Bank eben Banke,« witzelte er in trauriger Selbstironie.
 — »Aber wir sind vom Thema abgewichen, Herr
 Harst … Was halten Sie von dem Mord?!«
 
 Harst warf seinen Zigarettenrest in das nahe Düngerfaß.
 »Ich möchte Ihnen noch etwas mitteilen, Jolly … Der
 Bettelbrief Menks ist weg … Kommissar Doktor Cord hat
-alles durchsucht. Menks Taucher sind absolut leer.«
+alles durchsucht. Menks Taschen sind absolut leer.«
 
 Banke kratzte sich den grauen Schädel. »Das ist allerhand
-…!! Das wird ein Fall, der die Nummer 250 vorn
-dient,« erklärte er mit größter Bestimmtheit. »Darf ich
+…!! Das wird ein Fall, der die Nummer 250 verdient,«
+erklärte er mit größter Bestimmtheit. »Darf ich
 noch einiges fragen?«
 
 »Bitte …«
 
-… Wir setzten uns in den Schafften unter den uralten
-Walnußbaum, um den eine Angelegenheit aus Feldsteinen
+Wir setzten uns in den Schatten unter den uralten
+Walnußbaum, um den eine Sitzgelegenheit aus Feldsteinen
 mit Bretterbelag geschaffen war. Jolly meinte, und wieder
-war seine Ausdrusweije auffallend geschliffen: »Wenn die
-Dinge sie; wirklich so verhalten, wie die Bewohner der
-Villa Larnay sie darstellen, würde ich, der vor immerhin
+war seine Ausdrucksweise auffallend geschliffen: »Wenn die
+Dinge sich wirklich so verhalten, wie die Bewohner der
+Villa Larnay sie darstellen, würde ich, der doch immerhin
 negativer Kriminalist, also Krimineller ist, Fräulein Thea
 Larnay einige Aufmerksamkeit schenken. Wo war sie, als
 Menk starb?«
@@ -727,46 +722,45 @@ Liegestuhl.«
 
 Banke blickte erstaunt auf. »Und da hat der Chauffeur
 den Schuß als einziger gehört?!« Er schüttelte den Kopf.
-
 <@pagebreak/>
 »Das ist in der Tat alles sehr, sehr merkwürdig.« Er blinzelte
-Harald an. »Glauben Sie an den Bettelbrief?«
+Harald an. »Glauben *Sie* an den Bettelbrief?«
 
 Harst hob die Schultern. »Vorerst ja.«
 
 Jolly beschaute kritisch seine Schnürstiefel, an denen
 kaum etwas auszusetzen war. »Fräulein Larnay wollte
-also zur Polizeiwache laufen,« jagte er und wippte mit der
-Fußspitze. »Haben die Herr! hasten kein Telephon«
+also zur Polizeiwache laufen,« sagte er und wippte mit der
+Fußspitze. »Haben die Herrschaften kein Telephon?«
 
-—» das soll angeblich in Unordnung gewesen sein,
-Jolly … « — Aber Jahnke behauptete das Gegenteil, und es war
-in Ordnung. e«
+»Ja — das soll angeblich in Unordnung gewesen sein,
+Jolly … Aber Jahnke behauptete das Gegenteil, und es war
+in Ordnung.«
 
 »Komisch — — allerhand!! Wirklich allerhand fragwürdige
-Punkte, …!! — Wie spät war’s eigentlich, als man
+Punkte …!! — Wie spät war’s eigentlich, als man
 mir dort im Walde durch das Ohr schoß?« Er lächelte sarkastisch.
-»Ich jage »man«, ich sage nicht mehr Arthur Menk.
-Denn er wird der Innehätte ja kaum gemeinen sein, …
+»Ich sage »man«, ich sage nicht mehr Arthur Menk.
+Denn er wird der Sauschütze ja kaum gewesen sein …«
 
 »Weshalb nicht?!« Harst deutete auf seine Armbanduhr.
 »Als der Kerl feuerte, war’s acht Minuten vor elf …
 Der verkleidete Menk erschien bei Larnays vier Minuten vor
 halb eins — genau. Mithin hatte er anderthalb Stunden
-nach den! Attentat auf Sie noch Zeit, sich anders zu kostümieren
-und zu Larnays zu geben.«
+nach dem Attentat auf Sie noch Zeit, sich anders zu kostümieren
+und zu Larnays zu gehen.«
 
 »Ja — gewiß … Wenn er etwa in Schmargendorf
-einen Unterzog Juni besaß, wo er sich verwandeln konnte —
-ja!?! — Und was wollte r, bei Larnays?! Ich denke, das ist
-der springende Punkt, — Titel-Jolly hatte mit den
-beiden letzten Säßen eine Frage angeschnitten, bleichen
+einen Unterschlupf besaß, wo er sich verwandeln konnte —
+ja!! — Und was wollte er bei Larnays?! Ich denke, das ist
+der springende Punkt …!« — Pickel-Jolly hatte mit den
+beiden letzten Sätzen eine Frage angeschnitten, die schon
 dem Kriminalkommissar Doktor Egon Cord viel Kopfzerbrechen
-gefesselt hatte. Cord wußte sehr wohl, daß lediglich
+gekostet hatte. Cord wußte sehr wohl, daß lediglich
 Thea Larnay und ihrem Hunde die damalige Verhaftung des
-Wutijtlings Arthur Menk zu verdanken gewesen. Die Folgerung,
+Wüstlings Arthur Menk zu verdanken gewesen. Die Folgerung,
 der Verkleidete Menk, dessen Bettelbrief einen anderen
-Namen als den des Entsichere nach; Friedrich Milenz’ Angabe
+Namen als den des Bittstellers nach Friedrich Milenz’ Angabe
 getragen habe, sei nur bei Larnays erschienen, um
 sich an Thea zu rächen, lag den Umständen nach so nahe,
 daß Doktor Cord offenbar diesen Gedanken eingehender nachprüfen
@@ -775,24 +769,24 @@ wollte. Geäußert hatte er sich hierzu nicht. Er war
 ein Mann von vorbildlicher Verschwiegenheit mit einem
 harten, leidenschaftslosen Gesicht, aber lebensfrohen, etwas
 spöttischen Augen, alles in allem eine Figur für einen
-Idealdetekftiv aus einem modernen Kriminalroman,
+Idealdetektiv aus einem modernen Kriminalroman,
 
 Jolly Banke schaute Harald erwartungsvoll an. Aber
-mein Freund, der nicht minder vorsichtig] sen sein kann als
+mein Freund, der nicht minder vorsichtig sein sein kann als
 Egon Cord, entgegnete nur: »Finden Sie den Grund für
 Menks Besuch bei Larnays heraus, und … Sie haben auch
 den Mörder, Jolly!!«
 
 Der alte Mann runzelte die Stirn, schloß halb die
 Augen und verfiel in tiefes Grübeln, aus dem ihn erst
-unserer Köchin Signal zur Mahlzeit, dröhnende Gong)]Hläge,
-angenehm wette.
+unserer Köchin Signal zur Mahlzeit, dröhnende Gongschläge,
+angenehm weckte.
 
-Unser Gast aß auf seinem Zimmer im ersten Sie.
+Unser Gast aß auf seinem Zimmer im ersten Stock.
 Harald hatte dies so bestimmt. Nachdem Frau Harst dann
 noch mit uns im Wintergarten Kaffee getrunken hatte,
-wollten wir Banke mit zu einem Spaziergang nein dem
-nördlichsten Teile unseres Idyll. Gen Vorortes nehmen, aber
+wollten wir Banke mit zu einem Spaziergang nach dem
+nördlichsten Teile unseres idyllischen Vorortes nehmen, aber
 — — der Vogel war in aller Stille ausgeflogen. Mathilde,
 bei der er bereits einen Stein im Brett hatte, weil er ihr
 auch beim Abwaschen geholfen, erklärte harmlos, Jolly müsse
@@ -801,10 +795,10 @@ im Gemüsegarten sein. Dort war er nicht. Wo war er?!
 Harst meinte gutgelaunt: »Unser Jolly spielt fraglos
 Sherlock Holmes. Er ist sicherlich hinter Hugo Abel und
 Jakob Jahnke her, — und das wollten wir ja auch versuchen,
-mein Alter, Abel soll in der Warnemünder Straße
-neben dem »Wilden Eber« wohnen. Beginnen wir, Unser
-Jubiläumsfall soll doch endlich in ein anderes Stadium übers
-geleitet werden. Wir haben bisher nur die zahme Seite
+mein Alter. Abel soll in der Warnemünder Straße
+neben dem »Wilden Eber« wohnen. Beginnen wir. Unser
+Jubiläumsfall soll doch endlich in ein anderes Stadium übergeleitet
+werden. Wir haben bisher nur die zahme Seite
 kennengelernt — für uns beide zahm, und es sollte mich
 nicht wundern, wenn jetzt das grimme Gesicht irgendeines
 anderen Gegners auftaucht, der mit zu Arthur Menks
@@ -812,84 +806,85 @@ Bande gehört.«
 
 Es war genau vier Uhr, als wir die Warnemünder
 <@pagebreak/>
-Straße emporschielten. Sie steigt nach Dahlem zu an, und
-das bekannte Restaurant »Zum wilden Eber« cm dem gleichnamigen
-Schmuckplatz bildet für die breite schöne Doppelt«-
-Straße einen würdigen Abschluß. Wir kamen an den des
-sheidenen Wohnhäusern vorüber, die hier noch an Schmargendorf
+Straße emporschritten. Sie steigt nach Dahlem zu an, und
+das bekannte Restaurant »Zum wilden Eber« an dem gleichnamigen
+Schmuckplatz bildet für die breite schöne Doppelstraße
+einen würdigen Abschluß. Wir kamen an den bescheidenen
+Wohnhäusern vorüber, die hier noch an Schmargendorfs
 älteste Zeiten erinnern. Dann betraten wir die
 neuere Mietkaserne … Im Flur stand unser Jolly. Freilich
 — es war ein anderer Jolly … Er hatte sich verblüffend
-verändert. Er grinste und meinte mit einem bot«-
-Wien Kenntnis: »Ich wußte, daß ich Sie beide hier erwarten
-dürfte … Iz) war bereits oben bei Hugo Adels Wirtin
+verändert. Er grinste und meinte mit einem höflichen
+Kratzfuß: »Ich wußte, daß ich Sie beide hier erwarten
+dürfte … Ich war bereits oben bei Hugo Abels Wirtin
 und habe manches erfahren. Der Mann war ein sehr lockerer
-Vogel, wohnte hier erst seit dem fünfzehnten des Monate
+Vogel, wohnte hier erst seit dem fünfzehnten des Monats
 und hat die Nächte stets außer dem Hause zugebracht. Auch
-am Tage erschien er nur Zelten, aber er Hatte viele Aufs
-träge, nachdem er überall Wurfsendungen verteilt hatte, die
-ihn als erstklassigen Nachschaun für Radioanlagen und
+am Tage erschien er nur selten, aber er Hatte viele Aufträge,
+nachdem er überall Wurfsendungen verteilt hatte, die
+ihn als erstklassigen Fachmann für Radioanlagen und
 Empfänger anpriesen.« Jolly begleitete diese Sätze mit einem
 verfänglichen Augenzwinkern. »Allerhand also — —!!« war
 sein Schlußwort. Er hatte eine Schwäche für »allerhand«,
 leider auch für fremdes Eigentum. Doch er wollte sich bessern,
 und scheinbar war es ihm damit auch ernst. Er begann
-seinen neuen Lebensab!hnitt mit einem grellen Kontrast zu
+seinen neuen Lebensabschnitt mit einem grellen Kontrast zu
 seinen bisherigen Gepflogenheiten. Früher war er stets
 der Gejagte, jetzt jagte er andere, und offenbar mit einigem
-Geschick…
+Geschick.
 
-Harald belebte ihn. »Die Mithin Abels haben Sie
+Harald belobte ihn. »Die Wirtin Abels haben Sie
 tadellos ausgehorcht … Aber etwas fehlt noch, Jolly …
 Waren Sie in Abels Zimmer?«
 
 »Nein … Die Polizei hat’s verboten. Doktor Cord war
-persönlich vor einer Stunde Her und hat den Schlüssel
-mitgenommen. Übrigens ist Übel ’heute den ganzen Tag
-überhaupt nicht daheim gewesen bis auf eine Halde Stunde
-so gegen halb zwölf Uhr. « Uns Jolly Banke zwinkerte noch
-verfänglicher mit den entzündeten listigen Fenstern … »Um
+persönlich vor einer Stunde hier und hat den Schlüssel
+mitgenommen. Übrigens ist Abel heute den ganzen Tag
+überhaupt nicht daheim gewesen bis auf eine halbe Stunde
+so gegen halb zwölf Uhr.« Und Jolly Banke zwinkerte noch
+verfänglicher mit den entzündeten listigen Äuglein … »Um
 <@pagebreak/>
 halb zwölf etwa, Herr Harst … halb zwölf!!« wiederholte
-er nachdenklich…
+er nachdrücklich.
 
-Harst lautete den Kap]. »Ich kenne Ihre Gedankengänge,
-lieber Jolly, — aber die sind sah)!«
+Harst schüttelte den Kopf. »Ich kenne Ihre Gedankengänge,
+lieber Jolly, — aber die sind falsch!«
 
 »So?! Wohl kaum …! Unterschätzen Sie mich nicht,
-Herr Harst …! Dieser Monteur mit der ]Schwarzen Tolle
+Herr Harst …! Dieser Monteur mit der schwarzen Tolle
 und dem braunen Gesicht kann sehr wohl ein Feind Menks
-gewesen sein. Daß dieser Übel hier nur unter einer guten
+gewesen sein. Daß dieser Abel hier nur unter einer guten
 Maske als Monteur aufgetreten ist, — ich bezweifele es
-nicht. Er hat bei der Frau hier zwölf Jage gewohnt
-und nicht eine Nacht sein Bett benutzt — nicht eine, artig hatte
+nicht. Er hat bei der Frau hier zwölf Tage gewohnt
+und nicht eine Nacht sein Bett benutzt — nicht eine, also hatte
 er noch eine andere Wohnung. Er kann Menk heute
 nachgeschlichen sein, er hatte dann bei Larnays Gelegenheit,
 den Schurken niederzuschießen. Daß Fräulein Thea, der
-Diener Friedrich und … der Chauffeur ihn schützten, — das
+Diener Friedrich und der Chauffeur ihn schützten, — das
 lag ja in Theas Interesse, denke ich …«
 
 Harald hörte kaum hin. Er sog zerstreut an seiner
-Zigarette
-ins van Du uogvgy a1D’« ’PgoId As Samthut »u10g«
-eine besonders Fährte sowieso … Ihre eigenen Kombinationen
-sind natürlich größtenteils falls;. Richtig dürfte
-sein: Abel stieß nie Abel, — Abel hatte sich hier nur
-eingeimietet, weil’s von. hier bis Larnays Villa kaum sieben
+Zigarette …
+
+»Jolly,« meinte er plötzlich, »Sie haben mich da auf
+eine besonders Fährte gewiesen … Ihre eigenen Kombinationen
+sind natürlich größtenteils falsch. Richtig dürfte
+sein: Abel hieß nie Abel, — Abel hatte sich hier nur
+eingemietet, weil’s von hier bis Larnays Villa kaum sieben
 Minuten Wegs ist …«
 
-Unsere Unterhaltung im Flur wurde durch das Er!chzeinen
+Unsere Unterhaltung im Flur wurde durch das Erscheinen
 eines Fremden unterbrochen, der uns kurz fixierte und dann
 die Treppen emporstieg. Es war ein jüngerer, eleganter Herr
-mit Monokel, der nicht recht in diese Umgebung hineinpaßte,
-Sei ich Kleidung verriet einen erstelasjizen Schneider, sein
-Gesicht war!chmal, ’ bloß und ein wenig melancholisch«
-blasiert im YAusgödruc.
+mit Monokel, der nicht recht in diese Umgebung hineinpaßte.
+Seine Kleidung verriet einen erstklassigen Schneider, sein
+Gesicht war schmal, blaß und ein wenig melancholisch-blasiert
+im Ausdruck.
 
-Jolly Bänke benahm sich seltsam. Er lehnte an der
+Jolly Banke benahm sich seltsam. Er lehnte an der
 Wand und war kalkweiß geworden. Seine Züge zeigten
 eine ungeheure Verstörtheit, und er stierte dem Fremden
-wie einem bösen Geiste: gesehnt. Dann kam üÜdver reine zitternden
+wie einem bösen Geiste nach. Dann kam über seine zitternden
 <@pagebreak/>
 Lippen ein gequältes Auflachen wie ein schlecht bemänteltes
 Stöhnen, und er hob die Hände, bedeckte sein Gesicht und …
@@ -899,13 +894,12 @@ Harst legte ihm die Hand auf die Schulter.
 
 »Jolly, wer war das?!«
 
-»Ich … ich weiß nicht -«!«
+»Ich … ich weiß nicht …!«
 
 Er log natürlich … Er log absichtlich.
 
 Harald winkte mir. Wir eilten dem Herrn nach, wir
-sahen, wie hierher die rechte Flurtür im zweiten Stock aufs
-schloß.
+sahen, wie dieser die rechte Flurtür im zweiten Stock aufschloß.
 
 Es war die Wohnung der Witwe Moldenhauer, bei der
 auch Abel ein Zimmer gemietet hatte.
@@ -922,15 +916,16 @@ Neben uns erschien Jolly. Sein Gesicht war starr
 und finster. »Was wollen Sie dort?!« fragte er feindselig.
 
 Aber die Tür ging bereits auf, und an dieser Tür war
-mit Felszacken unter dem Pappschild des Monteure Abel
+mit Reißzwecken unter dem Pappschild des Monteurs Abel
 eine Karte befestigt:
 
-Dr. Herward Gelling,
-Chemiker.
+<p class="centered">Dr. Herward Gelling,</p>
 
-zu. Kapitel.
+<p class="centered">Chemiker.</p>
 
-Gelling — — Abel?!
+<h2>4. Kapitel.</h2>
+
+<h3>Gelling — — Abel?!</h3>
 
 Der Fall Werk gehört nicht zu denen, die gleich zu
 Beginn mit Sensationen aufzuwarten haben. Das bleibt
@@ -1110,8 +1105,8 @@ gebe ich Ihnen Nachricht.« —
 
 <@pagebreak/>
 Wir wanderten heim. Harald war still und versonnen,
-und als gegen sieben Uhr Cord uns anrief und uns Mit«
-teilte, daß Ludwig Larnay mit aller Bestimmtheit bekundet
+und als gegen sieben Uhr Cord uns anrief und uns Mitteilte,
+daß Ludwig Larnay mit aller Bestimmtheit bekundet
 habe, daß sowohl die Stimme »Abels« als auch dessen
 Äußeres, Nasenform, Augen und so weiter niemals dem
 verkleideten Gelling glichen, Agra Harst sehr kühl in die
@@ -1333,12 +1328,12 @@ Er schwieg und fügte leiser hinzu:
 
 »I4 glaube, mein Vater lebt … Es ist das eine rein
 gefühlsmäßige Annahme, die durch die Tatsachen widerlegt
-scheint. Mein Vater verunglückte tödlich bei einem Eijenbahnunfall
+scheint. Mein Vater verunglückte tödlich bei einem Eisenbahnunfall
 und wurde halb verkohlt als Leiche geborgen,
 aber seine Brieftaj3cze und anderes machten die Identifizierung
 leicht. Er hätte ja auch keinen Grund gehabt, sich
 verborgen zu halten. Er hatte Laufen studiert, besaß ein
-BaugesHhäft, war ein gefunden Architekt und vermögend.
+Baugeschäft, war ein gefunden Architekt und vermögend.
 Trotzdem, — — ich bin niemals von dem Gedanken freigekommen,
 daß er noch am Leben. Würden Sie einmal
 diesen Dingen nachgehen? Ich habe hier alles Nötige aufgeschrieben.«
@@ -1378,7 +1373,7 @@ Es war für uns eine sehr peinliche Lage. Wir hatten
 jetzt Vater und Sohn als Vertraute und — mußten schweigen.
 
 In diese Stille, die Doktor Gellings letzten »Worte folgte,
-Platte Mathilde mit käsebleihem Gesicht und halbirren
+Platte Mathilde mit käsebleichem Gesicht und halbirren
 Augen hinein.
 
 »Herr Harald … — ein … ein Kerl hat … hat
@@ -1410,7 +1405,7 @@ uns den Rücken zu. Wir sahen, wie seine Schultern
 zuckten. Er weinte …
 
 Still verließen wir das Zimmer. Wir hörten Gelling
-von» flüstern:!
+noch flüstern:!
 
 »Nun habe ich dich gefunden — — und sie für immer
 verloren …»’
@@ -1464,7 +1459,7 @@ die verschlafenen Stimmchen der jungen Schwalben in zahllosen,
 nie gestörten Nestern. Gravitätisch stand unser neuer
 Hausgenosse, Vater Star, auf seinem Nest am Dachrande
 des Zollgebäudes, während Mutter Störchin in der weiß
-bespritzten Strauchbehaujung saß und unter den ausgebreiteten
+bespritzten Strauchbehausung saß und unter den ausgebreiteten
 Flügeln die drei Sprößlinge beschirmte und mitunter
 ganz leise klapperte, Wir waren sehr stolz auf dieses Tierchens
 paar. Es war das einzige weit und breit. —
@@ -1574,11 +1569,11 @@ haben,«
 
 Thea Larnay hatte vormittags allerdings für meinen
 Geschmack allzu stark nach Darf geduftet, da sie gerade
-dieses ausge]!prochßene Herrenparfüin bevorzugte.
+dieses ausge]!prochßene Herrenparfüm bevorzugte.
 
 Plötzlich entlang von drüben aus der Finsternis ein
 seines Stimmen, das so melodisch und klar erscholl, als ob
-ein Elflein sich aus fernen Märcengefilden hager in diese
+ein Elflein sich aus fernen Märchengefilden hager in diese
 bedeutende, poesieloje Nähe des gewaltigen Häusermeeres
 Berlin verirrt hätte.
 
@@ -1640,7 +1635,7 @@ bäte gelohnt,«
 
 Wir durchsuchten den Garten, wir fanden Spuren vor.
 Schuhen mit neuen Gummisohlen, deren Riffelung in der
-taufceuchten Erde Bart ausgeprägt war, Abel der Mann
+taufeuchten Erde Bart ausgeprägt war, Abel der Mann
 war vorsichtig gewesen und hatte sie nachher aussaugen.
 Seine Strümpfe hatten an der Ecke eines Frühbdeetes im
 rissigen Halse einen einzelnen kurzen Seidenfaden zurück
@@ -1659,7 +1654,7 @@ Wir lehnten jede Hilfe ab.
 <@pagebreak/>
 Die Festgenossen zogen singend ab, und Harald meinte:
 »Mir imponieren nicht nur die Seidensocken. Noch- mehr
-Abels Fähigkeit, ein Mädchenstimmhen nachzuahmen. Abel
+Abels Fähigkeit, ein Mädchenstimmchen nachzuahmen. Abel
 kam, um Kain zu erschlagen, — also umgekehrt wie in
 der Bibel, und Kain sollte ich sein. Sei froh, mein Vater,
 daß der Bursche deinen Schädel schonte …«
@@ -1789,7 +1784,7 @@ flammte auf und erlosch, und — — Harst kniete auf den!
 Rücken des Herrn Hugo Abel, der durch; die Magnesiumexplosion
 völlig überrascht worden war.
 
-»Licht Tinte;alten, meist Alter …«
+»Licht Einschalten, meist Alter …«
 
 <@pagebreak/>
 Ich knipste, und Herr Abel wurde mit gefesselten Händen
@@ -1865,7 +1860,7 @@ und sein Sohn Doktor Herward wären ein und dieselbe
 Person … So war’s. Ich Punkte den Zeugen beseitigen.
 Habe ich im Grunde nicht lediglich Gutes getan?! Menk war
 ein schamloser Wicht, Banke war ein Unglücklichen, dem der
-rote;e Tod Erlösung bedeutete. — Nun haben Sie mich,
+redete Tod Erlösung bedeutete. — Nun haben Sie mich,
 Herr Harst … Sie haben mich überlistet … Sie holten
 die Laterne und legten hier rasch die Zündschnur … Sie
 rechneten damit, daß ich »einsteigen würde … Ja — Sie
@@ -2176,8 +2171,8 @@ vermute, ihn zu kennen. Beweise Hitze ich nicht. Deshalb
 s&:meine ich. — Wenn e? Ihrer! recht ist, Herr Doktor,
 suchen wir sofort das unbekannte Syndikus auf.«
 
-Grobian preßte einen Moment die Linpen!so fest zu«
-kommen, daß drei scharfe Falten sich von jedem Mundwinkel
+Grobian preßte einen Moment die Linpen!so fest zukommen,
+daß drei scharfe Falten sich von jedem Mundwinkel
 zum Sinn hinabzogen. E« war dies offenbar eine
 unbenutzte Reflexbewegung, weil ihm Harsts Voa-schlaa Mr.
 <@pagebreak/>
@@ -2322,7 +2317,7 @@ treten, die Nägelköpfe ragten heraus.
 
 »Man hätte die Farbe da) erst richtig trocknen lassen
 stellen,« meinte Harald und streichelte des zutraulicher Hundes
-Kopf. »Ja, mein vierbeiniger Freund, du schhnüffelst hier
+Kopf. »Ja, mein vierbeiniger Freund, du schnüffelst hier
 so merkwürdig interessiert. Idee Fürchte, ich hätte Tage
 Nase, dann brauchte ich nicht lange’ zu suchen,«
 
@@ -2332,7 +2327,7 @@ kleine haushohe Auslassungen allein erledige, auch Anstriche.
 »Es hat alles einen Zweck, Doktor,« nickte Harst. »Sie
 sind für diese miserable Welt noch zu harmlos, glauben
 Sie mir. Larnay begann erst am siebzehnten damit, auarecznet
-in diesem Parkwinkel mittags zu schlafen und ch
+in diesem Parkwinkel mittags zu schlafen und ich
 Befehl zu erteilen, ihn hier auf keinen Fall zu Korsar
 Etwa zur selben Zeit mag er hier die Dielen verladen er!
 haben. Natürlich absichtlich. Wenn man mit der Buckel … ge
@@ -2367,11 +2362,11 @@ er die Treppe und die Büsche im Auge behalten konnte,
 
 Der Hund wedelte sehr stark mit der buschigen Rute.
 
-Harst lächelte. »Ein Hund bleibt trotz des seinen In«-
-stinkt ein Stümper …«
+Harst lächelte. »Ein Hund bleibt trotz des seinen Instinkt
+ein Stümper …«
 
 Plötzlich hob er die rechte Hand, und das matte Firma
-eines Pistolenschusse8s, gedämpft durch die Windungen eines
+eines Pistolenschusses, gedämpft durch die Windungen eines
 auf die Mündung aufgesetzten Knallschluckers, ließ Gelling
 und mich zusammenstehlen.
 
@@ -2410,8 +2405,8 @@ ihn in die Heydenstraße geführt hatte, wo ohnedies ein
 paar Beamte postiert waren.
 
 Ludwig Larnay im schwarzen Schlafanzug, Thea in
-einem hellen, rasch übergeworfenen Mantel, Friedrich Miß«-
-lang und die Köchin, beide auch nur notdürftig bekleidet,
+einem hellen, rasch übergeworfenen Mantel, Friedrich Mißlang
+und die Köchin, beide auch nur notdürftig bekleidet,
 stierten blaß und verstört auf den Sterbenden, Gelling hielt
 Thea umschlungen, und das klägliche Winseln des Hundes
 mischte sich in Harsts leise Erklärungen, Fragen und sanften
@@ -2441,7 +2436,7 @@ in vor Brust des Sterbenden.
 
 »Wir wollen die Zusammenhänge kurz Geheuchelten,« sagte
 Harald und schaute den Hofrat an. »Zu viel Vaterliebe
-und Freundes8treue im Verein mit der Ruchlosigkeit zweier
+und Freundestreue im Verein mit der Ruchlosigkeit zweier
 Erpresser beschworen vieles Drama herauf.«
 
 Larnay nickte schmerzlich. »Ihr Vater, Doktor Gelling,«
@@ -2459,7 +2454,7 @@ Sein Sohn nannte sich Arthur Menk als Iournaclist, Schriftsteller
 und Dichter, ein begabter Mensch, dem aber der
 Vater nicht mehr recht paßte — ein schlichter Chauffeur!
 Jakob Jahnke war treu, nur als Fräulein Thea seinen Vers
-polterten Sohn ins Züchter:5 brachte, schlug Tasche Erinnerung
+polterten Sohn ins Kühleres brachte, schlug Tasche Erinnerung
 um … — Sie erinnern sich, Doktor Cord, daß
 Sie mir gegenüber erwähnten. Menk hieße eigentlich Jahnke,
 habe aber mit behördlicher Genehmigung den Namen gewechselt.
@@ -2478,7 +2473,7 @@ fünfzigtausend Mark würde Menk den Mund verschließen.
 —» Ich war derart verzweifelt und verwirrt, daß ich Jahnke
 befahl, Menk in Papas Arbeitszimmer zu führen. Ich
 wollte mich erst etwas beruhigen und zu irgendeinem Entschluß
-kommen. Papa besitzt ja nur rote etwa hundertsfünfzigtausend
+kommen. Papa besitzt ja nur rote etwa hundertfünfzigtausend
 Mark, und …
 
 Harald winkte ihr freundlich zu.
