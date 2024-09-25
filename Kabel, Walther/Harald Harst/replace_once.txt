@@ -36,6 +36,8 @@
 \bfette\b	setzte
 \bfliegen\b	stiegen
 \bFusel\b	Insel
+\bFür\b	Tür
+\bGing\b	Ring
 \bgesunden	gefunden
 \bha!\b	hat
 \bHart\b	Harst
