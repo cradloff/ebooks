@@ -32,7 +32,7 @@ namhafte Förderer und Autoritäten geschenkt hatten.
 und streckte mir die Hand hin, während Harald noch mit
 dem Chauffeur verhandelte, der uns von Berlin hier nach
 Schloß Garpenburg gebracht hatte und uns auch wieder nach
-Erledigung dieses sicherlich recht harmlosen Auftrag nach
+Erledigung dieses sicherlich recht harmlosen Auftrags nach
 <@pagebreak/>
 Hause mitnehmen sollte.
 
@@ -80,7 +80,7 @@ kann kaum eine Schloßherrin sein …«
 derselbe der Gilde hat schon mehrere Versuche unternommen,
 das Wertstück zu stehlen. Deshalb haben Sie vor dem
 Schrank oder dergleichen, wo es verwahrt wird, eine Momentkamera
-und einen Blitzlichtapparat aufgestellt und so wenig
+und einen Blitzlichtapparat aufgestellt und so
 wenigstens jetzt die Hand des dunklen Gentleman auf die Platte
 bekommen … Denn daß Sie ihm die Hand nicht abgeschossen
 oder abgehackt haben, ist wohl selbstverständlich.«
@@ -222,16 +222,16 @@ Schimmer …
 
 »Der Glücksstein der Ettars,« erklärte Blanche leise,
 und ihre Stirn zeigte wieder tiefe Furchen. »Unverkäuflich
-laut testamentarischer Bestimmung meines Großvaters
-der ihm aus Südafrika mitbrachte und bestimmte, daß der
+laut testamentarischer Bestimmung meines Großvaters,
+der ihn aus Südafrika mitbrachte und bestimmte, daß der
 Diamant Eigentum des preußischen Staates sein sollte, sobald
 wir Ettars einmal ausstürben.«
 
 Harald betrachtete das Juwel mit Kennerblick. »Wert
-rund zweihunderttausend …« schätzte er … »Und den
+rund zweihunderttausend …« schätzte er … »Und *den*
 Stein lassen Sie hier in diesem alten Zylinderbüro, Baronesse?!«
 
-»Einem Stahlschrank besitze ich nicht, und ein Safe in
+»Einen Stahlschrank besitze ich nicht, und ein Safe in
 einer Bank auch nicht. Außerdem — — bitte, suchen Sie
 doch einmal das Geheimfach!! Ich möchte den sehen, der
 es findet!!«
@@ -259,7 +259,7 @@ Butter und je Person eine Flasche Bier.
 Beginnen wir mit den persönlichen Verhältnissen. Ich bin
 jetzt einundzwanzig. Vor anderthalb Jahren starb mein
 Onkel Hermann von Ettar, ältester Bruder meines Vaters,
-Oberstaatsanwalt a. D. Er hatte mir hier als Junggeselle
+Oberstaatsanwalt a.&nbsp;D. Er hatte mir hier als Junggeselle
 nach dem Tode meiner Eltern Gesellschaft geleistet. Seit
 seinem Hinscheiden hause ich hier allein mit Friedrich Zernick,
 unserem alten Faktotum, und der ebenso alten Köchin
@@ -392,7 +392,7 @@ Ich, der ich mich zumeist bescheiden zurückhalte, sagte
 jetzt genau so ironisch grinsend: »Fahren Sie nicht auch
 Motorrad, Herr Pikulski?!«
 
-»Allerdings … « Er wurde ein wenig verwirrt. »Hat
+»Allerdings …« Er wurde ein wenig verwirrt. »Hat
 die Baronesse Ihnen das erzählt?!«
 
 Blanche von Ettar erwiderte unglaublich hochmütig: »So
@@ -552,7 +552,7 @@ Bitte …«
 
 So führte er uns in den neuen Seitenanbau. Er hatte
 recht: Hier war’s schöner. Hier hatte man den Garten dicht
-vor sich, hier sah man den schämenden Bach als weißen
+vor sich, hier sah man den schäumenden Bach als weißen
 Strich zwischen Haselnußbüschen und kleinen Kiefern hindurch.
 
 »Gottlieb Kranz,« stellte der Brummige sich vor. »Sind
@@ -587,7 +587,7 @@ dürre finstere Person, fragte nach unseren Mittagswünschen.
 Endlich waren wir dann allein. Ich fragte flüsternd:
 »Wer ist Gottlieb Kranz?«
 
-»Ein dreifachen Mörder, der im Wiederaufnahmeverfahren
+»Ein dreifacher Mörder, der im Wiederaufnahmeverfahren
 aus Mangel an Beweisen freigesprochen wurde …«
 
 Ich starrte Harald sprachlos an.
@@ -685,7 +685,7 @@ Gent … Tut mir leid, der Hoppdorf, schleicht seit einiger
 Zeit immer so mißvergnügt und melancholisch umher und …«
 
 Lücke brach plötzlich ab. »Donnerwetter … Da fällt
-mir etwas ein … Das ist in … der Tat merkwürdig! Man
+mir etwas ein … Das ist in der Tat merkwürdig! Man
 könnte beinahe, — — aber nein, das ist ja Unsinn …
 Hoppdorf hat nämlich nur vier Finger links, sein linker
 kleiner Finger liegt irgendwo in Frankreich, falls nicht schon
@@ -700,7 +700,7 @@ mir.
 deutete auf die Platte … »da — — der Mann trägt am Ringfinger
 einen Schlangenring …«
 
-»Bei  Gott!!« Lücke holte der Atem. »Bei Gott: Hans
+»Bei  Gott!!« Lücke holte tief Atem. »Bei Gott: Hans
 Hoppdorf besitzt einen solchen Ring! Was ist’s mit der
 Photographie?«
 
@@ -840,7 +840,7 @@ Mörder, wer war der Strolch gewesen, wer hatte das
 Mikrophon hinter uns versteckt …?!
 
 <@pagebreak/>
-So würde es Abend. Die Mordkommission kehrte nach
+So wurde es Abend. Die Mordkommission kehrte nach
 Berlin zurück, — — scheinbar. Eine Anzahl Beamte jedoch
 verteilten sich in der Umgegend. Wir beide hätten unter
 diesen Umständen gleichfalls getrost unsere heimischen Penaten
@@ -849,7 +849,7 @@ famoses Angelwetter, mein Alter … Gönne mir drei Tage
 Ferien …«
 
 Wir saßen in der Veranda, Lücke als dritter im Bunde,
-als vierter seine Gattin Sie wollten nachher mit ihrem
+als vierter seine Gattin. Sie wollten nachher mit ihrem
 Auto heim — — nachher, wenn die Bowle geleert war,
 und die war sehr umfangreich. Vater Gottlieb hatte da
 ein Gebräu komponiert, das einfach erstklassig war. — Wovon
@@ -867,7 +867,7 @@ Gemeindehauses …
 Frau Doktor Lücke warf plötzlich eine Bemerkung ein,
 die uns Männer überraschte:
 
-»Oh bei alledem nicht Liebe mitspricht?!«
+»Ob bei alledem nicht Liebe mitspricht?!«
 
 Lücke drückte ihre Hand. »Ihr Frauen wittert immer
 Liebe …«
@@ -878,7 +878,7 @@ aus. Ihr Männer seid in diesen zarten Fragen weit
 weniger feinfühlend. Herbert Pikulski hat die Baronesse zweifellos
 geliebt, was verständlich ist. Sie ist Rasse, sie ist
 pikant, sie ist nicht der Typ der Frau von gestern …
-Sie reizt euch, sie hat etwas an sich, das ein lockt. Ich
+Sie reizt euch, sie hat etwas an sich, das euch lockt. Ich
 habe sie zum ersten Male gesehen, und ich werde dieses
 <@pagebreak/>
 Gesicht nie vergessen. Wer liebte sie noch?! Wer suchte
@@ -1007,7 +1007,7 @@ Kranz … grinste. »Ich wiederhole, — ich habe keine
 Ahnung von dieser Anlage! Machen Sie mit mir, was
 Sie wollen …!«
 
-Harst stöpselte den grünen Stecken auf rot und horchte
+Harst stöpselte den grünen Stecker auf rot und horchte
 wieder.
 
 <@pagebreak/>
@@ -1043,14 +1043,14 @@ die Muschel mit der Hand bedecken wollen, Gottlieb ließ
 den Hörer fallen, ich fing ihn gerade noch auf, Harst schüttelte
 in seltener, heller Wut den Schuft von Gottlieb hin und
 her, doch mit alledem war nichts mehr geholfen. Die Frechheit
-Gottliebs war in Grunde unbegreiflich. Er hatte sich
+Gottliebs war im Grunde unbegreiflich. Er hatte sich
 durch diese Warnung so schwer bloßgestellt, daß ihm das
 Gefängnis sicher war. Welch’ eine Macht mußte also hinter
 alledem verborgen sein, daß er in Rücksicht auf diese
 »weiße Ratte« jeden Gedanken an die eigene Sicherheit
 hintenansetzte!!
 
-Aber Gottlieb Kranz war der ein geriebener Fuchs, der
+Aber Gottlieb Kranz war doch ein geriebener Fuchs, der
 auf jede Weise Rückendeckung suchte. Er ließ sich ruhig
 hin und her schlackern, lächelte dazu recht töricht und meinte
 in abgerissenen Sätzen: »Das … das war doch nur ein
@@ -1069,7 +1069,7 @@ Harst betrachtete wieder das Schaltbrett.
 
 Er sagte zu mir: »Achte auf Kranz … — Es muß
 noch mehr geheime Anschlüsse geben … Aber die Stöpselei
-scheint mit gewissen Tricks verhüllten zu sein.«
+scheint mit gewissen Tricks verbunden zu sein.«
 
 Er nahm seine Taschenlampe und beleuchtete die vier
 vernickelten Schrauben, mit denen das Schaltbrett an die
@@ -1154,7 +1154,7 @@ Gottlieb die Leiter, wir waren kaum oben in den Büschen
 — am Gartenzaun, als in den Tiefen der Erde ein dumpfer
 Knall ertönte und hinter uns die ganze Kellerdecke sich
 <@pagebreak/>
-hob und dann mit wüstem Getöse zusammenstürzte …
+etwas hob und dann mit wüstem Getöse zusammenstürzte …
 Wo soeben noch Buschwerk und Gras die Ruinen freundlich
 im Mondlicht umrahmt hatten, gähnte jetzt ein riesiger
 Trichter von Schutt und geknickten halb verschütteten Büschen.
@@ -1168,7 +1168,7 @@ Riesengestalt des Kriminalassistenten Rauscher.
 »Stahlfesseln sind sicherer, Herr Harst,« sagte er gelassen.
 »Den Bengel und das Weib haben wir auch schon geklappt,
 sie wollten mit zwei Koffern in den Wald flüchten.
-Das ist ja der eine feine Bude!!«
+Das ist ja hier eine feine Bude!!«
 
 Gottlieb Kranz war mehr tot als lebendig. Als wir
 ihn in die Wirtsstube führten, wo seine Frau und sein
@@ -1205,7 +1205,7 @@ jenseits des Sees in der Villenkolonie Garpensee.
 
 Während der Fahrt um den in nächtlicher Schönheit
 prangenden See erzählte uns Lücke Näheres über Hans
-Hoppdorf, den wie ja nur am verflossenen Nachmittag bei
+Hoppdorf, den wir ja nur am verflossenen Nachmittag bei
 der Vernehmung gesehen hatten und der auf uns dabei
 eigentlich einen vorzüglichen Eindruck gemacht hatte, von
 seinem bestechenden Äußeren ganz zu schweigen. Hoppdorf
@@ -1279,12 +1279,12 @@ Er zuckte die Schultern, machte kehrt und ging gemächlich
 den Hauptweg entlang. Er hatte einen merkwürdig
 schlenkernden Gang, und doch — — irgend etwas in seiner
 Haltung gefiel mir nicht. Ich blieb drei Schritt hinter
-ihn, damit er mich nicht etwa mit jäher Kehrtwendung anspringen
+ihm, damit er mich nicht etwa mit jäher Kehrtwendung anspringen
 konnte.
 
 Der Garten hatte drei Terrassen und reichlichen Kiefern\-
 und Birkenbestand, dazu Zierbecken und zwei Glaslauben,
-einen Springbrunnen und eine Anzahl auf dem Rasen Verteilter
+einen Springbrunnen und eine Anzahl auf dem Rasen verteilter
 Gartenfiguren: Rehe, Gnomen und anderes, — was
 im übrigen recht wenig dem Zeitgeschmack entsprach.
 
@@ -1309,7 +1309,7 @@ vernahm ich Stimmen, — — Sekunden später einen
 Trillerpfiff, der Hund ließ von mir ab und war im Nu
 verschwunden, und Harst und Lücke kamen um die Hausecke
 gerannt, fragten, halfen mir empor, — — Lücke fluchte
-leise, und — — mit einem Male von links her aus einen
+leise, und — — mit einem Male von links her aus einem
 Fenster eine scharfe Stimme:
 
 »Was treiben Sie denn hier?! Wer sind Sie?!«
@@ -1337,7 +1337,7 @@ hochfahrend. »Ich habe nichts zu leugnen, Herr Doktor
 Lücke … Was wünschen Sie eigentlich?«
 
 Diese Unverfrorenheit war verblüffend. Der Mann mußte
-eiserne Nerven haben. Ader Lücke hatte noch bessere.
+eiserne Nerven haben. Aber Lücke hatte noch bessere.
 
 »Ich suche stets mit meinen … Klienten im guten
 auszukommen,« sagte er wie bedauernd. »Machen Sie uns
@@ -1405,7 +1405,7 @@ Lücke meinte freundlich: »Herr Hoppdorf, es gibt Fälle,
 wo jemand aus krankhafter Sucht zum Verbrecher wird. Sie
 können niemals bei vollem Verstande gewesen sein, als Sie
 <@pagebreak/>
-bei diesen Einbrüchen mithalfen: und die Spur Ihrer linken
+bei diesen Einbrüchen mithalfen und die Spur Ihrer linken
 Hand wie einen Stempel am Tatort zurückließen. Weshalb
 ein halbes Geständnis?! Haben Sie diese Einbrüche
 begangen und auch gestern bei der Baronesse Blanche den

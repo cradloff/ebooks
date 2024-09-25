@@ -440,7 +440,7 @@ Blanche wurde feuerrot.
 
 »Helmut von Margentin,« sagte Harald noch ernster,
 <@pagebreak/>
-»dürfte derjenige seit, der dieses Gut und Schloß im Falle
+»dürfte derjenige sein, der dieses Gut und Schloß im Falle
 Ihres Todes erbt.«
 
 Sie schaute zur Seite und nickte.
@@ -477,7 +477,7 @@ erschien um ihren Mund.
 
 »Ja — — ein trauriges Schicksal, Baronesse …! Doppelt
 traurig, dies alles erörtern zu müssen, wenn wie heute
-die Sonne lacht und der Pack im Maienzauber uns umgibt.
+die Sonne lacht und der Park im Maienzauber uns umgibt.
 — Baronesse, vielleicht kennen Sie auch Hoppdorf besser,
 als Sie’s bisher eingestanden haben. Ich habe sehr feine
 Augen und Ohren. Das mag prahlerisch klingen. Sie sprachen
@@ -637,7 +637,7 @@ der aus dem Keller mit Hilfe des Stromers entwich, war
 der Vetter der Baronesse, ein gewisser Helmut von Margentin,
 der …«
 
-»Ah — — Margentin?« —, Lücke richtete sich halb auf.
+»Ah — — Margentin!« — Lücke richtete sich halb auf.
 »Also der!! Hinter Margentin sind wir seit Monaten her.
 Er war der Intimus des blauen Justav, und — — sollte
 er etwa »die weiße Ratte« sein, der unbekannte Anführer
@@ -693,8 +693,8 @@ hin. »Ja — Friedrich sah ihn … Er war derselbe Mann
 geistesabwesend. Die Blässe ihrer Züge war erschreckend.
 
 »Also niemals Hans Hoppdorf,« nickte Lücke. »Wie
-leicht läßt man sich das durch solch’ künstlich geschaffene
-belastende Momente täuschen?« Er erhob sich langsam. »Baronesse,
+leicht läßt man sich doch durch solch’ künstlich geschaffene
+belastende Momente täuschen!« Er erhob sich langsam. »Baronesse,
 Sie werden begreifen, — — ich muß jetzt Friedrich
 verhören und dann …«
 
@@ -721,7 +721,7 @@ Wir drei standen da und wagten uns nicht zu bewegen.
 Bis Harald leise meinte: »Das habe auch ich gefürchtet …
 Dieser Greis starb wie er gelebt und vielleicht gesündigt.
 In Treue! Dienstboten dieser Art sind selten geworden. Sie
-Waren mit den Familien so eng verwachsen, daß sie alles
+waren mit den Familien so eng verwachsen, daß sie alles
 opferten, wenn es darauf ankam, und hier … hier kam
 es darauf an. Wenn wir wüßten, was dieser alte Mann
 alles an Geheimnissen mit in die Ewigkeit hinübergenommen
@@ -907,7 +907,7 @@ hat diese Liebe zerstört, der Lump!«
 
 Ich saß ganz still da.
 
-»Und — und — — nun!« sagte ich erschüttert.
+»Und — und — — nun?!« sagte ich erschüttert.
 
 »Wird Blanche sich mit Hoppdorf aussprechen, ihn um
 Verzeihung bitten, und dann …«
@@ -935,7 +935,7 @@ hielt … Ein Herr sprang ab: Hans Hoppdorf.
 
 »Wo ist Blanche?!«
 
-Er rannte über des Rasen zu uns … »Wo ist
+Er rannte über den Rasen zu uns … »Wo ist
 Blanche?!« Seine Stimme klang hohl wie der Windstoß,
 der soeben durch die Bäume sauste.
 
@@ -944,7 +944,7 @@ Zügen war mehr als mitleiderregend.
 
 »Herr Hoppdorf,« sagte Harald und nahm seine Hand
 und schüttelte sie derb. »Seien Sie Mann!! Sie waren
-Soeben mit Blanche zusammen …«
+soeben mit Blanche zusammen …«
 
 »Ja — am Seeufer … Sie hatte mich hinbestellt …
 Und dann lief sie mir davon … entkam mir.«
@@ -1210,7 +1210,7 @@ Harald nickte. »Sie muß ihn unendlich geliebt haben …
 Ebenso ohne Maß und Ziel war nachher ihr Haß, als er
 ihre Mädchenehre anzweifelte … Der allein Schuldige ist
 <@pagebreak/>
-Margentin. Ihm hätte ihm die Folter der Todesangst vor
+Margentin. Ihm hätte ich die Folter der Todesangst vor
 dem Richtblock wohl gewünscht, er war ein Schurke durch
 und durch, ein erbärmlicher Wicht, der es letzten Endes
 doch nur auf Schloß Garpenburg abgesehen hatte.«
