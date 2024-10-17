@@ -927,41 +927,41 @@ eine Karte befestigt:
 
 <h3>Gelling — — Abel?!</h3>
 
-Der Fall Werk gehört nicht zu denen, die gleich zu
+Der Fall Menk gehört nicht zu denen, die gleich zu
 Beginn mit Sensationen aufzuwarten haben. Das bleibt
 der späteren Entwicklung vorbehalten. Aber schon dieses
 Vorspiel zeigte mir allerhand Möglichkeiten, gab genügend
 Anlaß, die verschiedensten Personen zu verdächtigen. Meine
 <@pagebreak/>
-eigene Meinung war von vornherein die, daß die?!er »Hugo
-Übel« der Täter sei, daß er jedoch durch drei Bewohner der
-LarnayyBVilla geschützt wurde: Thea, Friedrich Miene und
-Jakob Jahnke. Insofern stimmte meine Theorie mit her
+eigene Meinung war von vornherein die, daß dieser »Hugo
+Abel« der Täter sei, daß er jedoch durch drei Bewohner der
+Larnay-Villa geschützt wurde: Thea, Friedrich Milenz und
+Jakob Jahnke. Insofern stimmte meine Theorie mit der
 Jolly Bankes überein.
 
-Diese Theorie war falsch. Harald hatte sie vorhin zu
-rüdgewiesen. Bei näherer Überlegung konnte ich mir aus
+Diese Theorie war falsch. Harald hatte sie vorhin zurückgewiesen.
+Bei näherer Überlegung konnte ich mir auch
 nicht denken, daß Thea Larnay fähig sei, etwa mit einem
 Mörder gemeinsame Sache zu machen.
 
 Eine andere Möglichkeit war die, daß Jakob Jahnke
 den Zuchthäusler Menk erkannt und ihn im Interesse seiner
 Herrin niedergeknallt hatte, wobei er einen Selbstmord Menks
-vorzutäuschen Furcht… Aber — welche Rolle hatte dann
+vorzutäuschen suchte. Aber — welche Rolle hatte dann
 »Abel« hierbei gespielt?!
 
-Eine dritte Möglichkeit erschien noch wider)pruchsvoller.
-Aus ’ Thea Larnay selbst konnte Menk etwa in einem
+Eine dritte Möglichkeit erschien noch widerspruchsvoller.
+Auch Thea Larnay selbst konnte Menk etwa in einem
 anderen Zimmer erschossen haben, und die Leiche war erst
-nachher in des Hofrats Arbeitszimmer getrogen worden,
-Aber — — zu hier blieb »Hugo Abel« das mahnende
+nachher in des Hofrats Arbeitszimmer getragen worden.
+Aber — — auch hier blieb »Hugo Abel« das mahnende
 Fragezeichen. Die Dinge mußten sich doch anders entwickelt
 haben, und der tödliche Schuß, abgefeuert aus des Hofrats
 Waffe, konnte nur von jemandem abgegeben worden sein,
 der sich genügend den Rücken gedeckt und dafür gesorgt
-hatte, daß keinerlei Verdacht auf ihn fiele, Gerade Thea,
+hatte, daß keinerlei Verdacht auf ihn fiele. Gerade Thea,
 die von Menk alles zu fürchten hatte, würde ebensowenig
-wie Jahnke oder Friedrich Miene die Beseitigung dieses
+wie Jahnke oder Friedrich Milenz die Beseitigung dieses
 Schurken gewagt haben. — So kam ich denn immer wieder
 auf »Hugo Abel« zurück, obwohl Harald hiervon nichts
 wissen konnte,
@@ -974,109 +974,109 @@ wünschen Sie?«
 
 »Wir möchten Herrn Doktor Gelling sprechen,« erklärte
 <@pagebreak/>
-Harald liebenswürdig. Seine Höflichkeit hat noch ganz anders
+Harald liebenswürdig. Seine Höflichkeit hat noch ganz andere
 Damen entwaffnet.
 
 Frau Moldenhauer ließ uns ein. Aber Jolly Banke
 war flinker, schob uns beiseite, lief in den Flur und verschwand
-blitzschnell im zweiten Zimmer rechts, Wir hörten,
+blitzschnell im zweiten Zimmer rechts. Wir hörten,
 wie ein Riegel von innen vorgeschoben wurde, — die Moldenhauer
 starrte uns sprachlos an, und alles Rütteln und
 Klopfen half nichts: Doktor Gelling und Jolly ließen uns
-du ein!
+nicht ein!
 
-Harst jagte zu der verdutzten Wirtin:
+Harst sagte zu der verdutzten Wirtin:
 
-»Ahn haben Zeit … Die beiden Herren wollen
-einmal allein sein, glaube ich …
+»Wir haben Zeit … Die beiden Herren wollen
+einmal allein sein, glaube ich …«
 
-Die bewußte Tür tat sich denn auch wirklich nach einige!
-Minuten friedlich auf, und Jolly Banke stand vor uns
-lockerte triumphierend und meinte: »Der Herr Doktor hab
-wiederholt mit Abel gesprochen … Sie waren ja Zimmer
-Nachbarn
+Die bewußte Tür tat sich denn auch wirklich nach einigen
+Minuten friedlich auf, und Jolly Banke stand vor uns,
+lächelte triumphierend und meinte: »Der Herr Doktor hat
+wiederholt mit Abel gesprochen … Sie waren ja Zimmernachbarn
+…«
 
-Harst schritt auf den Chemiker zu, der in einem Ft)
-
-!4] der Hand da saß und uns neugierig an)chaute, sich
+Harst schritt auf den Chemiker zu, der in einem Plüschsessel,
+den Rücken nach den Fenstern, mit einer Zeitung
+in der Hand da saß und uns neugierig anschaute, sich
 langsam erhob und sich verbeugte …
 
-»Mein Name ich Doktor Gelling …« Er sprach wert
-Lies verlegen. Aber er hatte sich tadellos in der Gang
-und mit jedem weiteren Worte nahm seine Sicherheit 314
-»Herr Banke ist denn doch wohl allzu ehrgeizig als G&
-Tegenheitödetektiv … — — Ich nehme ihm sein Eindringen hier
-Mit weiter übel, begreife nur nicht, wie meine Person
-mich ja eine Sache hineingezogen werden kann, die mich
-Nichts angeht … Vielleicht erhalte ich von Ihnen, Heck
-Zuerst, befriedigenderen Aufschluß hierüber …
+»Mein Name ist Doktor Gelling …« Er sprach merklich
+verlegen. Aber er hatte sich tadellos in der Gewalt
+und mit jedem weiteren Worte nahm seine Sicherheit zu.
+»Herr Banke ist denn doch wohl allzu ehrgeizig als
+Gelegenheitsdetektiv … Ich nehme ihm sein Eindringen hier
+nicht weiter übel, begreife nur nicht, wie meine Person
+mit in eine Sache hineingezogen werden kann, die mich
+nichts angeht … Vielleicht erhalte ich von Ihnen, Herr
+Harst, befriedigenderen Aufschluß hierüber …«
 
-Dieser stattliche, hübsche Chemiker ins hier seinen
-Meister, Harald meinte schroff: »Wenn Sie der Armen
-Dung Arthur Menks so völlig fernstehen, Herr Doktor, …
+Dieser stattliche, hübsche Chemiker fand hier seinen
+Meister. Harald meinte schroff: »Wenn Sie der Ermordung
+Arthur Menks so völlig fernstehen, Herr Doktor …:
 Weshalb duldeten Sie, daß Jolly Banke sich mit Ihnen
-»ox volle vier Minuten einriceaelte?! — Sie kennen Banke!
+hier volle vier Minuten einriegelte?! — Sie kennen Banke!
 <@pagebreak/>
-denn als Sie soeben an uns im Flur vorübergingen, verriet
+Denn als Sie soeben an uns im Flur vorübergingen, verriet
 Banke eine solche Bestürzung und benahm sich nachher
-es auffallend, daß ich behaupte: Sie sind Hugo Abel!«
+so auffallend, daß ich behaupte: *Sie* sind Hugo Abel!«
 
 Doktor Herward Gelling hatte die Farbe gewechselt. Er
-war so offensichtlich bestürzt und fas;ungslos, … daß selbst
+war so offensichtlich bestürzt und fassungslos, daß selbst
 sein kurzes ironisches Auflachen kläglich mißlang.
 
 Harst meinte ebenso schroff: »Sie haben hier den Monteur
 Abel gespielt … Dort ist die Verbindungstür nach »Abels«
-Zimmer, Deshalb hat »Abel« hier nie sein Bett benutzt …!
+Zimmer. Deshalb hat »Abel« hier nie sein Bett benutzt …!
 — Schraut, telephoniere … Ich will hier nicht selbständig
-handeln … Weg Doktor Cord entscheiden, ob gegen Hals«
-hing und Banke hinreichender Verdacht vorliegt, Tatsachen
+handeln … Mag Doktor Cord entscheiden, ob gegen Gelling
+und Banke hinreichender Verdacht vorliegt, Tatsachen
 zu verschleiern, die geeignet sind, den Mord aufzuklären.«
 
-Der Fernsprecher auf dem Sccreibtijh blieb unbenutzt,
+Der Fernsprecher auf dem Schreibtisch blieb unbenutzt,
 denn — — es klopfte kurz und herein trat Doktor Cord.
 Hinter ihm waren noch zwei Beamte in Zivil sichtbar.
 
-Cord war dienstlich bis zur Unhöfihkeit. Er verständigte
-sich ra]; mit Harald, das Zimmer wurde durchsucht, und
+Cord war dienstlich bis zur Unhöflichkeit. Er verständigte
+sich rasch mit Harald, das Zimmer wurde durchsucht, und
 in einem Koffer mit doppeltem Boden fanden die Beamten
 sowohl einen blauen Monteuranzug als auch Werkzeuge,
 eine schwarze Perücke, einen künstlichen Bart und Schminken,
 Puder und anderes,
 
 Weder Doktor Gelling noch unser bisheriger Freund
-Wickelt waren dazu zu bewegen, auch nur irgendeine
-Aussage zu machen, Sie!chwiegen mit einer Hartnäckigkeit,
+Pickel-Jolly waren dazu zu bewegen, auch nur irgendeine
+Aussage zu machen, Sie schwiegen mit einer Hartnäckigkeit,
 die zur Folge hatte, daß Doktor Cord beide verhaftete und
-sie getrennt na dem Präsidium schaffen ließ.
+sie getrennt nach dem Präsidium schaffen ließ.
 
 Cord und wir blieben noch in dem elegant eingerichteten
 großen Zimmer und besprachen die neue Wendung der Dinge,
 
-»Herr Harst, daß Banke. Biß an Sie als Spion herangemacht
+»Herr Harst, daß Banke sich an Sie als Spion herangemacht
 hat, ist klar … Der Mord war vorbereitet. Banke
 kennt den Chemiker, über den wir sehr bald alles Nötige
 wissen werden.«
 
 Das stimmte. — Doktor Herward Gelling war Chemiker
-und Direktor der pharmazeutischen Fabrik Feigling, bezog
+und Direktor der pharmazeutischen Fabrik Berolina, bezog
 <@pagebreak/>
 ein hohes Gehalt, wohnte hier bei der Moldenhauer erst
-Zeit dem 12. Juni und hatte zurzeit Urlaub — — Zeit dem
-fünfzehnten!! Und an diesem Tage hätte hier »Hugo Abel
+seit dem 12. Juni und hatte zurzeit Urlaub — — seit dem
+fünfzehnten!! Und an diesem Tage hatte hier »Hugo Abel»
 gemietet, nachdem er schon am zehnten und elften mit der
-Moldenhauer über das Zimmer verhandelt hatte, — Schlug,
+Moldenhauer über das Zimmer verhandelt hatte, — Gelling,
 dreißig Jahre alt, entstammte einher reichen Münchener
 Familie. Gegen ihn lag bisher nichts vor. Die Moldenhauer
 stellte ihm ebenfalls das beste Zeugnis aus: Solide,
-Sollte, großzügig im Zahlen,
+höflich, großzügig im Zahlen,
 
 Aber: Doktor Gelling hatte vorher in Halensee am
 Kurfürstendamm eine Fünf-Zimmer-Wohnung innegehabt, mit
-eigenen Möbeln, Auto, Diener, Chauffeur …? Und diese
+eigenen Möbeln, Auto, Diener, Chauffeur …! Und diese
 Wohnung war noch immer sein eigen.
 
-Weshalb also Diele Bescheidenheit, hier in einer Mietkaserne
+Weshalb also diese Bescheidenheit, hier in einer Mietkaserne
 neuerdings zu hausen?!
 
 Und — weshalb hatte er Menk erschossen?!
@@ -1084,21 +1084,21 @@ Und — weshalb hatte er Menk erschossen?!
 Doktor Egon Cord zweifelte an Gellings Täterschaft in
 keiner Weise mehr. Nur Harald war vorsichtiger.
 
-»Herr Doktor, vieles an dem, was. gegen Gelling spricht,
+»Herr Doktor, vieles an dem, was gegen Gelling spricht,
 erscheint mir ungenügend begründet. Gewiß, vorläufig muß
 er als Täter angesehen werden. Aber — wie werden Hofrat
 Larnay und Fräulein Thea, der Diener Friedrich und Jahnke
-— falls letzterer zu finden ist — sich: zu der Frage stellen:
-Ist Gelling Hugo Abel?! Und dann: Warum entsteht Jahnke
-mit dem Auto?!k«
+— falls letzterer zu finden ist — sich zu der Frage stellen:
+Ist Gelling Hugo Abel?! Und dann: Warum entfloh Jahnke
+mit dem Auto?!«
 
 Cord winkte gelassen ab. »Das wird sich alles klären,
-Herr Harst … Hofrat Vernarrt hat erst gestern den Monteur
+Herr Harst … Hofrat Larnay hat erst gestern den Monteur
 »Abel« angerufen, und »Abel« war schon gestern mittag
-in der Villa Warnung und sah den Radioapparat nach, heute
-dann die Antenne, Zugegeben, daß zum Beispiel Thea
+in der Villa Larnay und sah den Radioapparat nach, heute
+dann die Antenne. Zugegeben, daß zum Beispiel Thea
 Larnay, Friedrich und Jahnke stark verdächtig erscheinen,
-allerlei zu verschweigen. Der Herr Hofrat aber steht arbeiten
+allerlei zu verschweigen. Der Herr Hofrat aber steht alledem
 fern, und ihm werde ich Gelling in der Verkleidung
 als »Abel« noch heute gegenüberstellen. Von dem Erfolg
 gebe ich Ihnen Nachricht.« —
@@ -1109,21 +1109,21 @@ und als gegen sieben Uhr Cord uns anrief und uns Mitteilte,
 daß Ludwig Larnay mit aller Bestimmtheit bekundet
 habe, daß sowohl die Stimme »Abels« als auch dessen
 Äußeres, Nasenform, Augen und so weiter niemals dem
-verkleideten Gelling glichen, Agra Harst sehr kühl in die
+verkleideten Gelling glichen, sprach Harst sehr kühl in die
 Muschel hinein:
 
 »Ich fürchtete gleich, es würde ein Fehlschlag werden.
 Und Fräulein Thea und Friedrich?!«
 
-»Behaupten dasselbe: Gelling ist nicht Abel! Doktor
-Gelling ist ihnen maskiert und unmaskiert ein völlig Fremder,
+»Behaupten dasselbe: Gelling ist *nicht* Abel! Doktor
+Gelling ist ihnen maskiert und unmaskiert ein völlig Fremder.
 Ich habe daraufhin Doktor Gelling und auch Jolly
 Banke soeben entlassen. Der Chemiker blieb dabei, irgend
 jemand müsse den Monteuranzug und alles andere in
-seinen Koffer hineinge]!chmuggelt haben. Natürlich werde
-ich Gelling und Banke beschatten la)sen. Banke will übrigens
+seinen Koffer hineingeschmuggelt haben. Natürlich werde
+ich Gelling und Banke beschatten lassen. Banke will übrigens
 Sie beide aufsuchen und Sie bitten, ihn wieder aufzunehmen.
-Tun Sie es im Interesse der Unterführung.«
+Tun Sie es im Interesse der Untersuchung.«
 
 Doktor Egon Cord machte nicht gerade den Eindruck,
 als ob er viel Hoffnung hätte, den Fall Menk erfolgreich
@@ -1132,7 +1132,7 @@ und unlustig, und seine Schlußbemerkung war ein Beweis
 dafür, wie verworren und schwierig ihm die ganze Sache
 erschien.
 
-»Kerl Harst, es spielen hier zweifellos Dinge mit, die
+»Herr Harst, es spielen hier zweifellos Dinge mit, die
 wir noch nicht genügend überschauen, — Kräfte, die im
 Dunkeln wirken und die ihren Ausgangspunkt in der Villa
 Larnay haben. Haben Sie sich bereits ein bestimmtes Urteil
@@ -1141,12 +1141,12 @@ die Eigenart besitzen, Ihre wahren Gedanken für sich zu
 behalten.«
 
 »In diesem Falle tue ich es nicht, Herr Doktor …«
-Harst sprach sehr ernst. »I4 hielt Thea Larnay für die
+Harst sprach sehr ernst. »Ich hielt Thea Larnay für die
 Person, die den Schuß abgab und die dann von Jahnke,
-Friedrich und … Abel« gedeckt wurde. Ich bin Hiervon wieder
+Friedrich und »Abel« gedeckt wurde. Ich bin Hiervon wieder
 <@pagebreak/>
 abgekommen, da ich mir sage, daß Thea als die durch
-Menk bedrohte unmöglich sich zu einer sollen Tat hätte
+Menk bedrohte unmöglich sich zu einer solchen Tat hätte
 hinreißen lassen, weil sie in ihrem ganzen Wesen zu beherrscht
 ist und auch zu klug. Der Hauptverdacht mußte
 auf sie fallen, das wußte sie, und das wäre zweifellos Hemmung
@@ -1154,25 +1154,25 @@ genug gewesen, eine solche Absicht gar nicht zu erwägen.
 Es bleibt also nur noch Jakob Jahnke übrig …
 Er ist entwischt samt dem Auto, er hat vielleicht »Abel«
 mitgenommen, — aber auch das ist zweifelhaft. — Warten
-wir ab … Arbeiten wir getrennt, Herr Doktor, — Wiedersehen
-… »’
+wir ab … Arbeiten wir getrennt, Herr Doktor. — Wiedersehen
+…«
 
-Zehn Minuten drauf stand Jolly Banke vor uns, Er
+Zehn Minuten drauf stand Jolly Banke vor uns. Er
 war in keiner Weise verlegen, nur sehr bedrückt und traurig.
 
 »Meine Herren,« sagte er fast demütig, »ich bin gekommen,
 Ihnen mancherlei aufzuklären. Mein Benehmen
 im Hause der Moldenhauer mußte Sie argwöhnisch machen.
 Meine Bestürzung im Flur beim Anblick Doktor Gellings
-hatte einen tieferen Grund, ««
+hatte einen tieferen Grund, …«
 
 Er lächelte schmerzlich …
 
 »Sie werden es kaum glauben: Herward Gelling ist mein
-Schuld« — Er schaute Harald forschend an, er wollte
+Sohn!!« — Er schaute Harald forschend an, er wollte
 den Eindruck dieser Eröffnung feststellen.
 
-ehe fiel aus allen Wolken.! —
+*Ich* fiel aus allen Wolken.
 
 Harst meinte nur: »Das habe ich mir gedacht … Sie
 sind ein gebildeter Mann, Herr Banke. Sie heißen also Gelling.«
@@ -1184,25 +1184,25 @@ der Verschwiegenheit mitteilen.«
 
 <h3>Vater und Sohn.</h3>
 
-Er setzte sich in die Sofaecke. Die Zigarre!chnke er
+Er setzte sich in die Sofaecke. Die Zigarre lehnte er
 ab, nur ein Glas Rotwein nahm er dankend an.
 
 <@pagebreak/>
 »— Ich bin geborener Nürnberger. Ich hatte in
-München später ein Stutzerhaft. Es sind nun fünfundzwanzig
+München später ein Baugeschäft. Es sind nun fünfundzwanzig
 Jahre her, und das einzige Kind meiner später Ehe war
-damals fünf. Jahre alt. Geschäftlichen führten mich) in die
-verließen Hauptstädte. In Hamburg wurde ich im Tote?
-Excelsior zu unrecht in eine DiebstahlS;acme verwickelt. Ich
+damals fünf Jahre alt. Geschäftsreisen führten mich in die
+nordischen Hauptstädte. In Hamburg wurde ich im Hotel
+Excelsior zu unrecht in eine Diebstahlsache verwickelt. Ich
 kann mir Einzelheiten schenken. Ich war selbst bestohlen
-worden, beide Koffer, nur die Reisetayxhe blieb mir. Jedenfalls
+worden, beide Koffer, nur die Reisetasche blieb mir. Jedenfalls
 lagen die Dinge so, daß ich mich von dem Verdacht
-nicht reinigen konnte, Ich wurde verhaftet, verschwieg meinen
-Namen, gleichzeitig passierte das Eisenbahnunglück bei Erklärte,
+nicht reinigen konnte. Ich wurde verhaftet, verschwieg meinen
+Namen, gleichzeitig passierte das Eisenbahnunglück bei Elbförde,
 und meine Koffer, meine Leiche wurden aus den
-Trümmern geborgen. Der Tote war eben der Dieb, der aus
-meine Brieftasche bei riß hatte, aber so entstellt war, daß
-Friedrich) Gelling spielen Ehren in München beigesetzt
+Trümmern geborgen. Der Tote war eben der Dieb, der auch
+meine Brieftasche bei sich hatte, aber so entstellt war, daß
+Friedrich Gelling in allen Ehren in München beigesetzt
 wurde, während ich drei Jahre Gefängnis erhielt — als
 Jolly Banke, ein Phantasiename. Ich hatte Weib und
 Kind schonen wollen, aber — meine Frau starb vor Gram
@@ -1210,141 +1210,141 @@ Kind schonen wollen, aber — meine Frau starb vor Gram
 mein Geschäft ging für einen Spottpreis durch die
 Machenschaften eines schurkischer Nachlaßpflegers in fremde
 Hände über. Als ich das Gefängnis verließ, war ich ein
-Feind der menschlichen Bereitschaft geworden. Wein Kind
+Feind der menschlichen Gesellschaft geworden. Mein Kind
 darbte, ich stahl, raubte, betrog und schickte das Erbeutete
 anonym an meinen kleinen Herward, wurde wieder eingesperrt,
 kam wieder frei, begann wieder den Krieg gegen
-die Bestanden … Herward studierte, erwiderte sich glänzend,
-und heimlich bestraft ich ihn stets im Auge. Als in
-kann vor vier Tagen aus dem Zuchthaus entlassen wurde,
-umschlich im seine Wohnung am Kurfürstendamm. 34h fand
-ihn nicht. Ich sah i9n erst im Flur bei der Moldenhauer
+die Besitzenden … Herward studierte, entwickelte sich glänzend,
+und heimlich behielt ich ihn stets im Auge. Als ich
+dann vor vier Tagen aus dem Zuchthaus entlassen wurde,
+umschlich ich seine Wohnung am Kurfürstendamm. Ich fand
+ihn nicht. Ich sah ihn erst im Flur bei der Moldenhauer
 wieder. Sie wissen: ich riegelte mich mit ihm ein, ich beschwor
-ihn, ohne ihm’ zu erfüllen, woher mein Interesse
+ihn, ohne ihm zu erklären, woher mein Interesse
 für ihn stammte, mir einzugestehen, ob er etwa hier den
-Hugo Abel gespielt hätte … Er war derart verstört zunächst.
+Hugo Abel gespielt hätte … Er war derart verstört zunächst,
 <@pagebreak/>
 daß er in den Sessel sank und kein Wort hervorbrachte.
 Fliegenden Atems erzählte ich ihm, daß ich den erschossenen
 Arthur Menk vom  Zuchthaus her kannte und daß ich Sie
-beide gebeten, Thea Larnay-. zu schützen. Ich merkte, daß
+beide gebeten, Thea Larnay zu schützen. Ich merkte, daß
 er von dem Morde noch nichts wußte, aber sein ganzes
-Benehmen war mir ein Rätsel und ist es noch, Er ist
-nun wieder frei wie ich, und mein Vaterherz dürstet dann,
-Herward außerhalb jeglichen Beobachtet zu sehen. Niemals
+Benehmen war mir ein Rätsel und ist es noch. Er ist
+nun wieder frei wie ich, und mein Vaterherz dürstet danach,
+Herward außerhalb jeglichen Verdachtes zu sehen. Niemals
 soll er erfahren, wer ich bin. Ich bleibe Jolly Banke, nur
-—» — schwache nie wieder rückfällig werden. Helfen Sie
+— — ich werde nie wieder rückfällig werden. Helfen Sie
 mir, Herr Harst!!« Ein paar Tränen tupfte er rasch weg.
-»Dessen Sie mir, — Herward hat mit diesem Morde dennoch
+»Helfen Sie mir, — Herward hat mit diesem Morde dennoch
 irgend etwas zu tun … Was, weiß ich nicht. Weshalb
 mietete er das Zimmer bei der Moldenhauer?! Weshalb
 nahm er Urlaub — von demselben Tage, als Hugo Abel
 bei der Moldenhauer einzog und sich dann So selten sehen
 ließ?!«
 
-Die Tragödie diese? schuldlos verpfuschten Daseins griff
-uns schmerzlich) an unsere mit Menschenleid so vertrauten
-Herzen. Wir zweifelten an Bandes Angaben nicht, — wie
+Die Tragödie dieses schuldlos verpfuschten Daseins griff
+uns schmerzlich an unsere mit Menschenleid so vertrauten
+Herzen. Wir zweifelten an Bankes Angaben nicht, — wie
 sollten wir’s?! Er hatte keinen Grund uns zu belügen,
 und das Geheimnis seiner Persönlichkeit war nun aufgeklärt.
 
 Mathilde klopfte und bat zu Tisch,
 
-»Legen Sie vom ein Gedeck für Herrn Banke auf,«
+»Legen Sie noch ein Gedeck für Herrn Banke auf,«
 bestimmte Harald,
 
 Mathilde nickte Banke zu …
 
 »Gern, Herr Harald.«
 
-Jolly protestierte, Aber es blieb dabei. Wir gingen
-ins Eßzimmer hinüber, und auf Frau Harst ward eingeweiht.
-Sie drückte Banke stumm die Hand, Wir besprachen den Fall
-Menk nach allen Seiten hin, Jede Kleinigkeit wurde geprüft.
+Jolly protestierte. Aber es blieb dabei. Wir gingen
+ins Eßzimmer hinüber, und auch Frau Harst ward eingeweiht.
+Sie drückte Banke stumm die Hand. Wir besprachen den Fall
+Menk nach allen Seiten hin. Jede Kleinigkeit wurde geprüft.
 Es war und blieb lichtlose Finsternis, in der nicht
 ein einziger klärender Strahl erschien. Sicher war nur
-eins: Thea, Friedrich und Jahnke mußten den Mörder
-Tennen, und Hugo Abel desgleichen. Ob Jahnke der Täter.
+eins: Thea, Friedrich und Jahnke *mußten* den Mörder
+kennen, und Hugo Abel desgleichen. Ob Jahnke der Täter,
 <@pagebreak/>
-dafür gab es zu wenig Beweise. Alles hing in! der Luft
-wie Wolken, die sich: dauernd verschoben,
+dafür gab es zu wenig Beweise. Alles hing in der Luft
+wie Wolken, die sich dauernd verschoben,
 
 Nach Tisch schritten wir im Gemüsegarten auf und
-ab. Harald »war völlig verstummt. Dann Rani Mathilde und
+ab. Harald war völlig verstummt. Dann kam Mathilde und
 meldete uns Doktor Herward Gelling. Banke blieb im
 Garten, wir begaben uns in Harsts Arbeitszimmer.
 
 Gelling begrüßte uns sehr förmlich.
 
-»Herr Harst, ich komme mit einem Anliegen …
+»Herr Harst, ich komme mit einem Anliegen …«
 
 »Nehmen Sie Platz, Herr Doktor …«
 
-Gellings gepflegte Erscheinung, seine tadellosen Man
-Nieren, seine gemessene Höflichkeit verrieten den Mann von
-Welt, Sein Blick war offen und frei, seine Kinnpartie verriet
+Gellings gepflegte Erscheinung, seine tadellosen Manieren,
+seine gemessene Höflichkeit verrieten den Mann von
+Welt. Sein Blick war offen und frei, seine Kinnpartie verriet
 verhaltene Energie, die hohe Stirn Klugheit und seine
-Sprache die bedächtige: Vorsicht eines Mannes, der im Leben
+Sprache die bedächtige Vorsicht eines Mannes, der im Leben
 etwas vorstellt.
 
 »Meine Herren, ich bin da, wie Ihnen als Zeugen
-bekannt, in diese Augen peinliche Affäre hineinverstrickt
-worden, die mir eine vierstündige Untersuchungshaft eintrug,
-Herr Kriminalkommissar Doktor Cord wollte Burgspuk wissen,
+bekannt, in diese äußerst peinliche Affäre hineinverstrickt
+worden, die mir eine vierstündige Untersuchungshaft eintrug.
+Herr Kriminalkommissar Doktor Cord wollte durchaus wissen,
 Weshalb ich das Zimmer bei der Moldenhauer gemietet hätte,
 obwohl ich doch eine eigene Wohnung habe. Ein vielleicht
-hörten Stolz und eine gewisse Auflehnung ließen mich
+törichter Stolz und eine gewisse Auflehnung ließen mich
 schweigen. Dabei ist dies alles mit wenigen Worten zu
 klären. Ich bin Chemiker, und zurzeit arbeite ich freiwillig
-in der chemischen Abteilung des Kaiser-Wilhelm»-Instituts in
-Dahlem, das dort vom »Wilden Ober« bequem zu Fuß zu
+in der chemischen Abteilung des Kaiser-Wilhelm-Instituts in
+Dahlem, das dort vom »Wilden Eber« bequem zu Fuß zu
 erreichen ist. Ich wollte in der Nähe wohnen, ich wollte
-einmal mein: Auto ausschalten, mir Bewegung machen und
-die gesunde Luft des Vororte atmen. Sie können sich Orkan«
-dicken, — meine Angaben stimmen.«
+einmal mein Auto ausschalten, mir Bewegung machen und
+die gesunde Luft des Vororts atmen. Sie können sich erkundigen,
+— meine Angaben stimmen.«
 
-Harst und im waren gleichmäßig verblüfft. Daß Doktor
+Harst und ich waren gleichmäßig verblüfft. Daß Doktor
 Gelling log — ausgeschlossen. Es stimmte ja: das Institut
 Lag in der Nähe.
 
-»Und Ihr Anliegen« fragte Harald genau es gemessen.
+»Und Ihr Anliegen?« fragte Harald genau es gemessen.
 
 <@pagebreak/>
-»Betrifft eine rein persönliche Sache, vH)err Harst. Ich
+»Betrifft eine rein persönliche Sache, Herr Harst. Ich
 verlor meine Eltern bereits mit fünf Jahren. Als ich etwa
 acht Jahre geworden, erhielt ich in längeren oder kürzeren
-Zwischenräumen Geldsendungen in verschiedener Höhe, Als
+Zwischenräumen Geldsendungen in verschiedener Höhe. Als
 Absender war stets ein Herr Fritz Müller genannt, stets
-war’s dieselbe verstellte Hand!chrift auf den Postanweisungen,
+war’s dieselbe verstellte Handschrift auf den Postanweisungen.
 Bald kam das Geld aus Berlin, bald aus Hamburg, München,
 London, Kopenhagen, zuweilen waren es erhebliche Beträge.
 Die letzte Sendung traf vor vier Jahren ein — aus Leipzig.
-Ich habe all diese Abschnitte aufbewahrt, hier sind sie. Sein
-Vormund hat seinerzeit dichten Müller zu ermitteln gesucht.
-Euch ich hatte, würdig geworden, ein Detektivbüro mit
+Ich habe all diese Abschnitte aufbewahrt, hier sind sie. Mein
+Vormund hat seinerzeit diesen Müller zu ermitteln gesucht.
+Auch ich hatte, mündig geworden, ein Detektivbüro mit
 Nachforschungen betraut — ohne Erfolg.«
 
 Er schwieg und fügte leiser hinzu:
 
-»I4 glaube, mein Vater lebt … Es ist das eine rein
+»Ich glaube, mein Vater lebt … Es ist das eine rein
 gefühlsmäßige Annahme, die durch die Tatsachen widerlegt
 scheint. Mein Vater verunglückte tödlich bei einem Eisenbahnunfall
 und wurde halb verkohlt als Leiche geborgen,
-aber seine Brieftaj3cze und anderes machten die Identifizierung
+aber seine Brieftasche und anderes machten die Identifizierung
 leicht. Er hätte ja auch keinen Grund gehabt, sich
-verborgen zu halten. Er hatte Laufen studiert, besaß ein
-Baugeschäft, war ein gefunden Architekt und vermögend.
+verborgen zu halten. Er hatte Baufach studiert, besaß ein
+Baugeschäft, war ein gesuchter Architekt und vermögend.
 Trotzdem, — — ich bin niemals von dem Gedanken freigekommen,
 daß er noch am Leben. Würden Sie einmal
 diesen Dingen nachgehen? Ich habe hier alles Nötige aufgeschrieben.«
 
-Harald tauschte mit mir einen heimlichen Bis. Er
-sagte: »Herr Doktor, die Sache ist aus!ichtslos, Geben Sie
-sich; mit der Annahme zufrieden, ein Freund Ihres Vaters
-Habe Ihnen das Geld gesandt.«
+Harald tauschte mit mir einen heimlichen Blick. Er
+sagte: »Herr Doktor, die Sache ist aussichtslos. Geben Sie
+sich mit der Annahme zufrieden, ein Freund Ihres Vaters
+habe Ihnen das Geld gesandt.«
 
 »Mein Vater hatte nur einen Freund, Herr Harst,« —
-und Doktor Gelling flüsterte nur, »das war der Heirat
+und Doktor Gelling flüsterte nur, »das war der Hofrat
 Ludwig Larnay …«
 
 Auch Harst konnte eine Bewegung der Überraschung
@@ -1354,49 +1354,49 @@ nicht unterdrücken.
 »Larnay?! Also kennen Sie ihn doch persönlich?!«
 
 »Nein, Herr Harst. Als ich vor vier Jahren hier die
-Stelle als Direktor und Chemiker bei den Feigling-Werken
+Stelle als Direktor und Chemiker bei den Berolina-Werken
 erhielt, machte ich den Versuch, Larnay irgendwie näherzutreten.
 Ich hatte ihm, dem verbitterten Einsiedler, schon
 früher wiederholt geschrieben, aber nie eine Antwort erhalten.
 Ich ließ mich also bei ihm melden, — — er wies mich
-ab, der Diener bestellte mir wörtlich: »Der Herr Hofrat des.
-dauern, Fuchs den Sohn seines einzigen besten Freundes
+ab, der Diener bestellte mir wörtlich: »Der Herr Hofrat bedauern,
+auch den Sohn seines einzigen besten Freundes
 nicht empfangen zu können und lassen dem Herrn Doktor
 von Herzen alles Gute wünschen.« — Daraufhin gab ich
-es auf, Larnays Bekanntschaft zu machen, Sechs kenne ihm
-natürlich vom Ansehen, — das ist alles. — Wer also schrie
-mir die Geldsendungen?! Soll ich nie erfahren, wer dichter
+es auf, Larnays Bekanntschaft zu machen. Ich kenne ihn
+natürlich vom Ansehen, — das ist alles. — Wer also schickte
+mir die Geldsendungen?! Soll ich nie erfahren, wer dieser
 Wohltäter war?! Vielleicht ist’s Larnay — vielleicht …
 Aber mein Gefühl sagt mir: Mein Vater lebt!«
 
 Es war für uns eine sehr peinliche Lage. Wir hatten
 jetzt Vater und Sohn als Vertraute und — mußten schweigen.
 
-In diese Stille, die Doktor Gellings letzten »Worte folgte,
-Platte Mathilde mit käsebleichem Gesicht und halbirren
+In diese Stille, die Doktor Gellings letzten Worte folgte,
+Platzte Mathilde mit käsebleichem Gesicht und halbirren
 Augen hinein.
 
 »Herr Harald … — ein … ein Kerl hat … hat
-— den Banke totgeschoysen … « …
+— den Banke totgeschossen …«
 
-Wir flogen empor. Wir rannten in den Garten, Zwischen
-den Spargelbeeten lag Jolly) Banke mit einem Herzschuß und
+Wir flogen empor. Wir rannten in den Garten. Zwischen
+den Spargelbeeten lag Jolly Banke mit einem Herzschuß und
 starren, friedlichen Zügen. Sein Gesicht zeigte einen Ausdruck,
-als ob der Tod ihm als Erlöser gekommen wäre,
+als ob der Tod ihm als Erlöser gekommen wäre.
 Am Gartenzaun drängten sich unsere Freunde aus dem
-Laubengelände, … Der Mörder war ein schwarzbärtiger
-Mann mit einem Rade gewesen, Hugo Abel?! Er war entkommen,
+Laubengelände … Der Mörder war ein schwarzbärtiger
+Mann mit einem Rade gewesen. Hugo Abel!! Er war entkommen,
 alles hatte sich blitzschnell abgespielt. Der Radler
 hatte Banke angerufen, war im Sattel geblieben, hatte sich
 mit der Linken am Zaun festgehalten und mit der Rechten
-die Pistole abgefeuert und war weitergerast. —
+die Pistole abgefeuert und war weitergejagt. —
 
-Doktor Sann Cord erschien mit einen Beamten. In.
+Doktor Egon Cord erschien mit seinen Beamten. In
 <@pagebreak/>
 Cords Gegenwart erklärte Harald angesichts der Leiche Bankes
 dem ahnungslosen Sohne:
 
-»Herr Doktor Gelling, dieser Tote ist ein Unglücklichen,
+»Herr Doktor Gelling, dieser Tote ist ein Unglücklicher,
 ist Ihr Vater … Er hat es uns vorhin eingestanden. Von
 ihm stammen die Geldsendungen.«
 
@@ -1405,10 +1405,10 @@ uns den Rücken zu. Wir sahen, wie seine Schultern
 zuckten. Er weinte …
 
 Still verließen wir das Zimmer. Wir hörten Gelling
-noch flüstern:!
+noch flüstern:
 
 »Nun habe ich dich gefunden — — und sie für immer
-verloren …»’
+verloren …«
 
 Cord meinte leise im Flur: »Was bedeuteten diese
 Worte?! Wen hat er verloren?!«
@@ -1416,31 +1416,32 @@ Worte?! Wen hat er verloren?!«
 Harald erwiderte trübe: »Das Schicksal ist hart und
 grausam … Ich denke, er Spielte mit dieser Bemerkung
 auf das Mädchen an, das wahrscheinlich Hugo Abel besser
-kennt, als wir es ahnen: Thea Larnay’?«
+kennt, als wir es ahnen: Thea Larnay!«
 
 Doktor Egon Cord schüttelte ärgerlich den Kopf. »Fräulein
-Thea behaupte! das Gegenteil. Der Monteur sei ihr
-fremd. Wer ist dieser Monteur?k«
+Thea behauptet das Gegenteil. Der Monteur sei ihr
+fremd. Wer ist dieser Monteur?!«
 
 »Jedenfalls der Mörder Menks und Friedrich Gellings,«
 erklärte Harald mit aller Bestimmtheit,
 
 »So?!« Cord blickte Harald in die Augen. »Ich finde,
 Sie wechseln Ihre Theorien diesmal wie verwöhnte Damen
-die Handschuhe …»’
+die Handschuhe …«
 
-Harst nickte, »Vielleicht ändere ich nochmals meine Überzeugung.
+Harst nickte. »Vielleicht ändere ich nochmals meine Überzeugung.
 Man muß hier mit den Ereignissen mitgehen …
 Thea Larnay und Doktor Gelling dürften heimliche Liebesleute
-sein. Es wird noch mehr geschehen, fürchte ihm. Dies
+sein. Es wird noch mehr geschehen, fürchte ich. Dies
 ist nur der Anfang … Das Ende ist nicht abzusehen …«
 
-Hinter uns schlug die Flurglocke an. Ich öffnete, Draußen
+Hinter uns schlug die Flurglocke an. Ich öffnete. Draußen
 stand Jakob Jahnke, der Chauffeur, und auf der Straße
 Hielt das dunkelblaue Larnaysche Auto.
 
-<@pagebreak/>
-Der Mann ohne Gesicht
+<@pagebreak 37/>
+
+<h1>Der Mann ohne Gesicht</h1>
 
 <h2>1. Kapitel.</h2>
 <h3>Nächtlichen Spuk.</h3>
@@ -1812,7 +1813,7 @@ Auch Harst stierte den Menschen eine Weile sprachlos
 an. Es kostete ihm offenbar größte U’eberwindung, diesen
 Unglücklichen, der sich am Tage kaum öffentlich zeigen
 konnte, anzureden. Entlohnte sich an den Tisch, und das
-gräßliche, hämische, menschenfeindlihe Lächeln des Fremden
+gräßliche, hämische, menschenfeindliche Lächeln des Fremden
 zwang ihn zu dem Ausruf;:
 
 »Wer sind Sie?!«
@@ -1933,7 +1934,7 @@ das seine: die Stimme gehörte Thea Larnay!«
 Nun war ich vollends Herr meiner Gedanken,
 
 »Dann. stimmt es ja, Harald: Thea Geräte! Hugo Adel …!
-Und Friedrich Miene und Jakob Jahnke tun dasselbe, Wir
+Und Friedrich Milenz und Jakob Jahnke tun dasselbe, Wir
 sind also zum Ausgangspunkt unserer Kombinationen zurückgekehrt.«
 
 Harst rieb seinen Scheitel … »Die Beule geht an,
@@ -2014,7 +2015,7 @@ Bluff, glaube ich«
 »Bestimmt!!« sagte da eine helle Stimme vom Fenster
 Her. und über die Brüstung schwang sich Dr?ter Herward
 <@pagebreak/>
-Gelling herein. »Entschuldigen Sie mein formlose8 Eins
+Gelling herein. »Entschuldigen Sie mein formloses Ein-
 dringen,« fügte er gewesen hinzu. »Auch ich habe zu
 diesen Dingen einiges zu erklären,«
 
@@ -2308,7 +2309,7 @@ Linden zu, zwischen denen die Hängematte befestigt gegangen.
 Ein paar Mieter weiter erhob sich sausten tragen Bößchpei
 ein Glaspavillon mit gemauertem Unterbau. Eine eiserne
 Treppe führte zu der Glastür empor, die weit offen stand.
-In dem Pavillon gab es nur ein paar weiße Garteninöbel.
+In dem Pavillon gab es nur ein paar weiße Gartenmöbel.
 Auf dem Tisch lag ein vergessenen Roman,
 
 Harsts Taschenlampe beleuchtete die Holzdielen. Sie
