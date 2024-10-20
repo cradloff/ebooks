@@ -1063,7 +1063,7 @@ und Direktor der pharmazeutischen Fabrik Berolina, bezog
 <@pagebreak/>
 ein hohes Gehalt, wohnte hier bei der Moldenhauer erst
 seit dem 12. Juni und hatte zurzeit Urlaub — — seit dem
-fünfzehnten!! Und an diesem Tage hatte hier »Hugo Abel»
+fünfzehnten!! Und an diesem Tage hatte hier »Hugo Abel«
 gemietet, nachdem er schon am zehnten und elften mit der
 Moldenhauer über das Zimmer verhandelt hatte, — Gelling,
 dreißig Jahre alt, entstammte einher reichen Münchener
@@ -1447,26 +1447,26 @@ Hielt das dunkelblaue Larnaysche Auto.
 <h3>Nächtlichen Spuk.</h3>
 
 Drei Stunden später … Wir hatten die Schiebefenster
-des Wintergartens geöffnet, und vor uns lag bereits
+des Wintergartens geöffnet, und vor uns lag der alte
 schöne Harstsche Garten im Mondenlicht da — in jener
 zauberhaften träumerischen Stille und Feierlichkeit, die den
-Nächten um die Sonnenwende « eigen ist. Frau Harst war
+Nächten um die Sonnenwende eigen ist. Frau Harst war
 bereits in ihre Zimmer nach oben gegangen, und was dieser
 Tag uns gebracht, schien ausgelöscht durch die Wunder einer
 lauen Sommernacht. Leuchtkäfer irrten im dunklen Schatten
 der Kastanien und Linden, Fledermäuse schwebten lautlos
-dahin und doch über uns unter dem Dachrand ertönten
+dahin und hoch über uns unter dem Dachrand ertönten
 die verschlafenen Stimmchen der jungen Schwalben in zahllosen,
 nie gestörten Nestern. Gravitätisch stand unser neuer
-Hausgenosse, Vater Star, auf seinem Nest am Dachrande
-des Zollgebäudes, während Mutter Störchin in der weiß
+Hausgenosse, Vater Storch, auf seinem Nest am Dachrande
+des Hofgebäudes, während Mutter Störchin in der weiß
 bespritzten Strauchbehausung saß und unter den ausgebreiteten
 Flügeln die drei Sprößlinge beschirmte und mitunter
-ganz leise klapperte, Wir waren sehr stolz auf dieses Tierchens
-paar. Es war das einzige weit und breit. —
+ganz leise klapperte. Wir waren sehr stolz auf dieses
+Storchenpaar. Es war das einzige weit und breit. —
 
 Der tote Friedrich Gelling war in die feudale Wohnung
-seines Sohnes geschafft worden, Doktor Gelling scheute
+seines Sohnes geschafft worden. Doktor Gelling scheute
 nicht die Lästerzungen der Welt, schämte sich nicht des Zuchthäuslers,
 dessen Verbrechen er mit seinem Gelde zu sühnen
 gedachte, soweit die Geschädigten sich noch ermitteln ließen,
@@ -1479,12 +1479,12 @@ Verdacht würde auf mir sitzen bleiben, Menk getötet zu
 haben. Ich merkte, daß Herr Harst mich beargwöhnte, und
 da verlor ich den Kopf und fuhr blindlings gen Süden,
 wollte bis zur böhmischen Grenze, aber unterwegs sah ich
-ein, wie Gericht ich handelte. Ich kehrte um. Da bin ich
-3549 habe natürlich nie daran gedacht, Hugo Abel zu holen,
+ein, wie töricht ich handelte. Ich kehrte um. Da bin ich.
+Ich habe natürlich nie daran gedacht, Hugo Abel zu holen,
 es war eine Ausrede,«
 
-Doktor Cord fragte ihn, ob er Abel genauer kenne,
-»In schwöre, daß ich Übel nur zweimal gesehen habe: Gestern,
+Doktor Cord fragte ihn, ob er Abel genauer kenne.
+»Ich schwöre, daß ich Abel nur zweimal gesehen habe: Gestern,
 als er den Empfänger in Ordnung brachte, und heute, als
 er der Antenne wegen kam.«
 
@@ -1494,88 +1494,86 @@ Wintergarten in unseren gepolsterten Rohrsesseln an den
 großen offenen Fenstern.
 
 Drüben im Laubengelände schien man noch ein kleines
-Fest zu feiern, Die Klänge eines Lautsprechers ]Schwebten
-unsrer herüber, — er war die gewußt von Berlin,
+Fest zu feiern. Die Klänge eines Lautsprechers Schwebten
+unklar herüber, — er war die Tanzmusik von Berlin,
 die andauernd dieselben Schlager bringt und andauernd
-
 denselben Walzer: An der schönen blauen Donau, den der
-Ansager stets mit der Feierlichkeit eines Conferenciers ans
-kündet.
+Ansager stets mit der Feierlichkeit eines Conferenciers ankündet.
 
 Ich wunderte mich im Grunde über Haralds Untätigkeit.
-Der Fall Werk schien seine Spannkraft gelähmt zu haben,
+Der Fall Menk schien seine Spannkraft gelähmt zu haben.
 Vielleicht war Doktor Egon Cord rühriger. Er hatte noch
-bei Larnays versprechen und Thea unter vier Augen fragen
-wollen, ob Doktor Gelling ihrem Herzen näher stände, Die
+bei Larnays vorsprechen und Thea unter vier Augen fragen
+wollen, ob Doktor Gelling ihrem Herzen näher stände. Die
 Kriminalpolizei hat das Recht, auch an derart zarte Fragen
 zu rühren, und was uns verboten, ist den Herren vom roten
-Alter allzeit gestattet. Gewiß, die Alex-Leute sind auch in
-dieser Hinsicht Gentlemen, das muß man ihnen. lassen,
+Alex allzeit gestattet. Gewiß, die Alex-Leute sind auch in
+dieser Hinsicht Gentlemen, das muß man ihnen lassen.
 Ihr Beruf erfordert Takt und Feingefühl, und grobe Draufgänger
 werden dort rasch abgeschliffen. Die große Menge sollte
-uticreon Freunden dort mehr Verständnis entgegenoringen.
+unseren Freunden dort mehr Verständnis entgegenbringen.
 
 <@pagebreak/>
-Ob Thea wohl zugeben würde, laß sie herzlicpyere Beziehungen
+Ob Thea wohl zugeben würde, laß sie herzlichere Beziehungen
 zu dem Sohne des einzigen Freundes ihres Vaters
 unterhalten habe?! Gelling selbst hatte auf diese Frage
-hin erwidert, seine Pperjönlichen Angelegenheiten bäte er
+hin erwidert, seine persönlichen Angelegenheiten bäte er
 unberührt zu lasen, er kenne Thea nur flüchtig.
 
 Das besagte gar nichts. —
 
-Aber — all das war nun durch den Zauber nächtlichen
+Aber — all das war nun durch den Zauber nächtlicher
 Stille in mir entschlummert, und mein kleines Poetenherz
-freute sie an den intimen Reizen dieser Stunde des Friedens.
+freute sich an den intimen Reizen dieser Stunde des Friedens.
 
 Wir hatten auch Igel in unserem Garten. Sie waren
 halb zahm, und eine Igelmama mit fünf stachligen kleinen
 laufenden Kugeln pflegte regelmäßig nachts den Ententrog
 drüben am Stalle zu besuchen. Es war jetzt die Zeit,
-wo sie aus dem Gesträuch erscheinen mußte, Sie war
+wo sie aus dem Gesträuch erscheinen mußte. Sie war
 pünktlich wie die Uhr. Aber sie kam nicht.
 
 Harald hatte soeben eine neue Zigarette angezündet —
-an dem Stummel der ’alten, und wie sehr innere Gedanken
-Gänge einander begegnen, bewies seine Bemerkung:
+an dem Stummel der alten, und wie sehr innere Gedankengänge
+einander begegnen, bewies seine Bemerkung:
 
-»Die Kerl bleiben aus, mein Alter …«
+»Die Igel bleiben aus, mein Alter …«
 
 »Ja … Ob der Mond sie stört?« meinte ich ebenso
-leise.«
+leise.
 
 »Nein … Es steckt jemand hinter den Linden …«
 
-Mit einem Schlage erlosch alle Freie, und die Prosa
+Mit einem Schlage erlosch alle Poesie, und die Prosa
 spreizte ihre gierigen Finger nach uns aus,
 
-»Kann ist es grob fahrlässig von ’uns, hier als Zielscheiben
+»Dann ist es grob fahrlässig von uns, hier als Zielscheiben
 zu sitzen,« erklärte ich ebenso gedämpft.
 
-»Verschollen?! Ich glaube kaum, daß Thea Lauert
+»Zielscheiben?! Ich glaube kaum, daß Thea Larnay
 ein Attentat beabsichtigt.«
 
-Das Dunkel unter den breitästigen Bäumen erschien noch,
-undurdringlicher, da der schmale Hofraum im milden Mondlicht
+Das Dunkel unter den breitästigen Bäumen erschien noch
+undurchdringlicher, da der schmale Hofraum im milden Mondlicht
 dalag. Ich sah nichts von Thea Larnay.
 
-»Wie kommst du gerade auf sie?« fragte im und hielt
-den Blick starr auf die:Büsche und Stämme gerichtet.
+»Wie kommst du gerade auf sie?« fragte ich und hielt
+den Blick starr auf die Büsche und Stämme gerichtet.
 
 »Wir haben ganz schwachen Südwind, und wenn deine
-Brasil, mein Alter, nicht so greulich duften würde, wußtest
+Brasil, mein Alter, nicht so greulich duften würde, müßtest
 <@pagebreak/>
 du längst das Parfüm mit deiner weit feineren Nase gespürt
 haben,«
 
 Thea Larnay hatte vormittags allerdings für meinen
-Geschmack allzu stark nach Darf geduftet, da sie gerade
-dieses ausge]!prochßene Herrenparfüm bevorzugte.
+Geschmack allzu stark nach Turf geduftet, da sie gerade
+dieses ausgesprochene Herrenparfüm bevorzugte.
 
-Plötzlich entlang von drüben aus der Finsternis ein
-seines Stimmen, das so melodisch und klar erscholl, als ob
-ein Elflein sich aus fernen Märchengefilden hager in diese
-bedeutende, poesieloje Nähe des gewaltigen Häusermeeres
+Plötzlich erklang von drüben aus der Finsternis ein
+feines Stimmchen, das so melodisch und klar erscholl, als ob
+ein Elflein sich aus fernen Märchengefilden hier in diese
+bedrückende, poesielose Nähe des gewaltigen Häusermeeres
 Berlin verirrt hätte.
 
 »Herr Harst … Herr Harst!!«
@@ -1583,81 +1581,81 @@ Berlin verirrt hätte.
 Harald lauschte.
 
 »Lege deine Zigarre weg,« flüsterte er. »Das ist nicht
-Ohren Larnay
+Thea Larnay …«
 
-Wir warteten »gespannt auf einen weiteren Anruf. Nichts
+Wir warteten gespannt auf einen weiteren Anruf. Nichts
 erfolgte. Mit einem Male — Minuten waren vergangen
--» vernahmen wir einen halb unterdrückten Schrei …
-Die Büsche rauchten, ein Zweig knickte mit schrillem Ton,
+— vernahmen wir einen halb unterdrückten Schrei …
+Die Büsche rauschten, ein Zweig knickte mit schrillem Ton,
 
 »Weg vom Fenster …« — und Harst glitt aus dem
-Sessel in den Zierkies des Wintergartens, Ich tat es ihm
-nach, Wortlos kroch er ohne Rücksicht auf seine Bügelfalten
+Sessel in den Zierkies des Wintergartens. Ich tat es ihm
+nach. Wortlos kroch er ohne Rücksicht auf seine Bügelfalten
 zur offenen Tür des Speisezimmers, richtete sich erst in
 der Türecke auf und eilte in den Vorderflur — zur Haustür
 hinaus, rechts um das Haus herum und dicht am Gitterzaun
-hinter den Teilen des Spalierobstes in den Gemüsegarten,
-es daß wir nun die Kastanien, Linden und Haliclbüsche,
+hinter den Reihen des Spalierobstes in den Gemüsegarten,
+so daß wir nun die Kastanien, Linden und Haselbüsche,
 die den Hof vom Gemüsegarten trennten, vor uns
-hatten. Aber nicht regte sich dort mehr, Die zarte Kinderstimme
+hatten. Aber nichts regte sich dort mehr. Die zarte Kinderstimme
 schwieg, und das Dunkel drohte dort mit unklaren
 Gefahren,
 
-Harst sagte ungeduldig: »Wir können hier daß nicht
+Harst sagte ungeduldig: »Wir können hier doch nicht
 ewig warten … Wir hätten die große Karbidlaterne mitnehmen
-sollen. Ganz einwarfrei ist die Sache hier nicht.
-34 werde die Laterne holen. Sei vorsichtig …«
+sollen. Ganz einwandfrei ist die Sache hier nicht.
+Ich werde die Laterne holen. Sei vorsichtig …«
 
 Er huschte davon.
 
 <@pagebreak/>
-Zuweilen habe ich Anwandlungen Tier Unternehmungslust,
-die weiter unleidliche. Ganz seiten Bude ich
-dabei Glück. Zutritt wird dieser Ellen stark geknarrt.
-Hier war’sck in der Tat eine sehr starke Täipfung, denn
-kaum war ich fünf Schritt vorwärtsgetrieben, als ein
-dumpfes Knacken ertönte und eine bleierne Wespe hart.
-scharf an meinem Kopf vorbei surrte. Ich warf mich hin.
+Zuweilen habe ich Anwandlungen einer Unternehmungslust,
+die besser unterbliebe. Ganz selten habe ich
+dabei Glück. Zumeist wird dieser Elan stark gedämpft.
+Hier war’s in der Tat eine sehr starke Dämpfung, denn
+kaum war ich fünf Schritt vorwärtsgekrochen, als ein
+dumpfes Knacken ertönte und eine bleierne Wespe haarscharf
+an meinem Kopf vorbeisurrte. Ich warf mich hin.
 Ich sah eine schattenhafte Gestalt, die drüben am anderen
 Zaune davonglitt und plötzlich gänzlich entschwand. Jedenfalls
 hatte ich genug von der bleiernen Wespe gehört, und die
 Aussicht auf eine zweite war so wenig verlockend, daß ich
-schleunigst den Rüstzeug antrat.
+schleunigst den Rückzug antrat.
 
 Dann blitzte rechts von mir eine grelle Lichtflut auf, das
 Dunkel war durch helle Streifen zerteilt, und Harst rief
 mir zu: »Bewache den Hauptweg!«
 
-Ein wenig verlegen erwiderte As daß der Kerl bereits
+Ein wenig verlegen erwiderte ich, daß der Kerl bereits
 auf und davon sei. — Harst kam und wurde ungemütlich.
-»gar hätten ihn abgefaßt, — natürlich mußtest du wieder
-auf eigene Faust Vogelscheuche spielen … Der Woge!
-bäte gelohnt,«
+»Wir hätten ihn abgefaßt, — natürlich mußtest du wieder
+auf eigene Faust Vogelscheuche spielen … *Der* Vogel
+hätte gelohnt,«
 
-Wir durchsuchten den Garten, wir fanden Spuren vor.
+Wir durchsuchten den Garten, wir fanden Spuren von
 Schuhen mit neuen Gummisohlen, deren Riffelung in der
-taufeuchten Erde Bart ausgeprägt war, Abel der Mann
-war vorsichtig gewesen und hatte sie nachher aussaugen.
-Seine Strümpfe hatten an der Ecke eines Frühbdeetes im
-rissigen Halse einen einzelnen kurzen Seidenfaden zurück
-gelassen. Dieses Fädchen von zartem Lila gehörte zu teuren
-seidenen Herrensocken, Harald kritisierte ironisch; »Herr Hugo
-Übel hat vornehme Bedürfnisse!«
+taufeuchten Erde scharf ausgeprägt war. Aber der Mann
+war vorsichtig gewesen und hatte sie nachher ausgezogen.
+Seine Strümpfe hatten an der Ecke eines Frühbeetes im
+rissigen Holze einen einzelnen kurzen Seidenfaden zurückgelassen.
+Dieses Fädchen von zartem Lila gehörte zu teuren
+seidenen Herrensocken. Harald kritisierte ironisch: »Herr Hugo
+Abel hat vornehme Bedürfnisse!«
 
-Unsere Karbidlaterne h’tte von drüben aus dem Laubengelände
-die Geburtstagsgescllichaff herbeigelockt. Die meisten
-kannten uns persönlich, die meisten waren in Retter. Allah« lstimmung,
-in der selbst ein Feigling zum edlen Kutter wird.
+Unsere Karbidlaterne hatte von drüben aus dem Laubengelände
+die Geburtstagsgesellschaft herbeigelockt. Die meisten
+kannten uns persönlich, die meisten waren in jener Alkoholstimmung,
+in der selbst ein Feigling zum edlen Ritter wird.
 Wir lehnten jede Hilfe ab.
 
-»Diebe …« sagte Harst pfeilartig
+»Diebe …« sagte Harst gleichgültig.
 
 <@pagebreak/>
 Die Festgenossen zogen singend ab, und Harald meinte:
-»Mir imponieren nicht nur die Seidensocken. Noch- mehr
+»Mir imponieren nicht nur die Seidensocken. Noch mehr
 Abels Fähigkeit, ein Mädchenstimmchen nachzuahmen. Abel
 kam, um Kain zu erschlagen, — also umgekehrt wie in
-der Bibel, und Kain sollte ich sein. Sei froh, mein Vater,
+der Bibel, und Kain sollte ich sein. Sei froh, mein Alter,
 daß der Bursche deinen Schädel schonte …«
 
 Wir gingen in den Vorgarten und wieder ins Haus
@@ -1668,35 +1666,35 @@ sagte ich sehr bescheiden. »Die glühende Spitze einer Zigarre
 bietet ein zu gutes Ziel, und der Abel könnte Kain nochmals
 besuchen.«
 
-Harald Feuerzeug flackerte auf. Ich Rom; den süßlichen
+Harald Feuerzeug flackerte auf. Ich roch den süßlichen
 Duft seiner Mirakulum. »Zweimal macht niemand solche
-Scherze, mein Alter … Rauchte getrost … Ich gebe dir
+Scherze, mein Alter … Rauche getrost … Ich gebe dir
 mein Wort: Abel bleibt, wo er ist.«
 
 »Und — wo ist er?!«
 
-»Vielleicht schon daheim,,«
+»Vielleicht schon daheim …«
 
-— »Würdest du dich nicht deutlicher erklären .- -. Wer ist
-Abel?! Ich glaube fest, du weißt es …
+»Würdest du dich nicht deutlicher erklären … Wer ist
+Abel?! Ich glaube fest, du weißt es …«
 
 Er schwieg eine Weile,
 
-»Oh ich es weiß, — was liegt daran?! Es gibt Verhältnisse,
+»Ob ich es weiß, — was liegt daran?! Es gibt Verhältnisse,
 die vorläufig zum Schweigen zwingen.«
 
-Ich Hatte ein sehr seines Gefühl für Harsts Stimmung,
+Ich Hatte ein sehr feines Gefühl für Harsts Stimmung,
 für seine Redensarten und ihren tieferen Grund. Diese nichtssagenden
 Phrasen machten mich stutzig.
 
 Inzwischen hatte die Grenzlinie des Mondsichel sich
 bis zu den offenen breiten Fenstern des Wintergartens
-eirtorgeschoben. Ich wollte meinen Sessel gerade rückwärts
-in den Lächelten drücken, als hinter uns eine tiefe rauhe
-Baßstimme sehr Generalin) sagte:
+emporgeschoben. Ich wollte meinen Sessel gerade rückwärts
+in den Schatten drücken, als hinter uns eine tiefe rauhe
+Baßstimme sehr energisch sagte:
 
-»Treiben Sie sitzen!! Jede Verschlage Bewegung kostet
-Hinein das Leben!
+»Bleiben Sie sitzen!! Jede verdächtige Bewegung kostet
+Ihnen das Leben!
 
 Im Wintergarten brannte auch jetzt kein Licht. Harald
 <@pagebreak/>
@@ -1706,7 +1704,7 @@ irgendwo hinter den riesigen Palmenkübeln.
 »Aber rauchen dürfen wir doch, Herr Abel?«
 
 »Ja … So lange der Mond Ihre Hände bescheint …
-— Daran, daß ich. durch die Fenster inzwischen einsteigen
+— Daran, daß ich durch die Fenster inzwischen einsteigen
 könnte, haben Sie natürlich nicht gedacht,« höhnte der Kerl.
 
 »Natürlich!« nickte Harst. »Man kann nicht an alles
@@ -1714,174 +1712,174 @@ denken, Herr Abel … Ich würde Ihnen raten, diese Wahrheit
 zu beherzigen, zumal es um Ihre Freiheit geht. Ihr
 Schuldkonto ist etwas lang geworden. Was wünschen Sie?
 Hoffentlich kommen Sie uns nicht nach berühmten Mustern
-mit der Forderung, wir sollen Ihnen auf Ehrenwort nicht.
-weiter nachspüren. Die Sache ist schon zu abgemacht und
-langweilt mich Erfinden Sie etwas Neues — wie ich
+mit der Forderung, wir sollen Ihnen auf Ehrenwort nicht
+weiter nachspüren. Die Sache ist schon zu abgenutzt und
+langweilt mich. Erfinden Sie etwas Neues — wie ich.
 Mir blitzen immer noch rechtzeitig gute Gedanken auf.«
 
 Der Kerl mit den Seidensocken lachte roh. »Davon
 habe ich nichts bemerkt, Herr Harst … Wenn ich Sie
 gewesen wäre, hätte ich die Fenster hier geschlossen.«
 
-»Ganz recht, Herr Abel, — ich hätte es getan … «. —
+»Ganz recht, Herr Abel, — ich hätte es getan … —
 Also — — Sie wünschen?«
 
 <h2>2. Kapitel.</h2>
 
-<h3>… Die Luftpistole.</h3>
-Pause … Herr Abel schien verwirrt — wie ist. Harsts
+<h3>Die Luftpistole.</h3>
+
+Pause … Herr Abel schien verwirrt — wie ich. Harsts
 ganze Art entsprach sehr wenig der eines Mannes, der
 vier Meter von einer Luftpistole entfernt im Mondschein
-
 sitzt.
 
 »Ich … ich wünsche, daß … daß …«
 
-»Stottern Sie nicht, Abel … »Und strengen Sie Ihre
-Rechte nicht zu sehr an … Immer nur in so tiefem Baß
+»Stottern Sie nicht, Abel … Und strengen Sie Ihre
+Kehle nicht zu sehr an … Immer nur in so tiefem Baß
 zu reden, reizt die Stimmbänder.«
 
 <@pagebreak/>
-»Tag wünsche, daß Sie mich in Ruhe lassen?!« knurrte
+»Ich wünsche, daß Sie mich in Ruhe lassen!« knurrte
 der Mann im Dunkeln.
 
-»Aha — wirklich der alte Wißt Dachte ich doch.
-Uhr erst erschießen Sie Arthur Menk, an dem freilich
+»Aha — wirklich der alte Witz! Dachte ich doch.
+Also erst erschießen Sie Arthur Menk, an dem freilich
 die Welt nichts verloren hat, dann knallen Sie Gelling nieder,
 und nun möchten Sie uns beide ausschalten … Nicht
 schlecht. Aber vergeblich. Machen Sie andere Vorschläge.
-Seiten Sie, die Dinge liegen dritte … Sie haben eine
+Sehen Sie, die Dinge liegen doch so … Sie haben eine
 Luftpistole. Sie können einen von uns treffen, aber —
 nur einen, denn Luftrepetierpistolen gibt es nicht, und
-selbst wenn Sie eine zweite bereit haben, würde der Adern
-lebende den uns immer Zeit finden, Sie mit seiner Clement
+selbst wenn Sie eine zweite bereit haben, würde der Überlebende
+von uns immer Zeit finden, Sie mit seiner Clement
 in ein Sieb zu verwandeln. Es lohnt also nicht, so grob
-mit uns umzuspringen, …«
+mit uns umzuspringen …«
 
 »Ich habe eine neunschüssige Maximpistole mit Maximschalldämpfer,
-Herr Harst
+Herr Harst …«
 
 »So?! Das würde die Dinge freilich anders gestalten.
 Maximschalldämpfer sind gut. Unter diesen Umständen, lieber
 Herr Abel, muß ich Sie leider ersuchen, die Waffe zum
-Fenster hinaus unseren. Tun Sie es nicht, so …«
+Fenster hinauszuwerfen. Tun Sie es nicht, so …«
 
 »Sie sind verrückt!«
 
-»Durchaus nicht … Sie sind es. Sie vertrauen auf
-Ihre automatische Pistole, ich auf meine Vorbereitungen,
+»Durchaus nicht … *Sie* sind es. Sie vertrauen auf
+Ihre automatische Pistole, ich auf meine Vorbereitungen.
 Hier im Wintergarten gibt es nur ein Fenster: Dort, wo
-Sie stehen! Sie stehen dort nicht gut, lieber Herr Abel …
+Sie stehen! Sie stehen dort nicht gut, lieber Herr Abel …«
 
 Er rauchte zwei Züge und ließ die Hand mit der
-Zigarette wieder auf die Armlehne des Korbsessels linken,
+Zigarette wieder auf die Armlehne des Korbsessels sinken,
 
 In demselben Moment schoß eine feurige Linie sprühend
 und zischend von der Sessellehne hinab zum Boden und
 zwischen die Palmen hinein …
 
 Ein Knall folgte — — ein Schrei — — blendende Helle
-flammte auf und erlosch, und — — Harst kniete auf den!
-Rücken des Herrn Hugo Abel, der durch; die Magnesiumexplosion
+flammte auf und erlosch, und — — Harst kniete auf dem
+Rücken des Herrn Hugo Abel, der durch die Magnesiumexplosion
 völlig überrascht worden war.
 
-»Licht Einschalten, meist Alter …«
+»Licht Einschalten, mein Alter …«
 
 <@pagebreak/>
 Ich knipste, und Herr Abel wurde mit gefesselten Händen
-in eine Ecke des Korbsofas vor dem Frühstüstisc: gedrückt,
+in eine Ecke des Korbsofas vor dem Frühstückstisch gedrückt,
 den Mathilde schon für morgen früh gedeckt hatte,
 
 Aber vor diesem Gesicht, das ich nun so dicht vor
 mir hatte, prallte ich doch entsetzt zurück.
 
-Es war kein Gesicht, es war nur die grauenvolle An
-Deutung eines menschlicz)en Antlitzes. Man denke sich eine
-von Pockennarben zerfetzte, durchlöcherte, verzogene Goldsucher,
+Es war kein Gesicht, es war nur die grauenvolle Andeutung
+eines menschlichen Antlitzes. Man denke sich eine
+von Pockennarben zerfetzte, durchlöcherte, verzogene Halbkugel,
 in der ein Paar Augen wie schmale Schlitze lagen,
 dazu eine von irgendeiner Flechte halb zerfressene Nase, ein
 Mund mit schiefen, tief gekerbten Lippen, ein ganz flaches
-Zinn und als Umrahmung einen spärlichen blonden Vollbart
+Kinn und als Umrahmung einen spärlichen blonden Vollbart
 …
 
-Zuerst begriff ich ’nicht recht, wodurch diese Fraße so
-abstoßend wirkte. »Es waren nicht die einzelnen Teile, es
+Zuerst begriff ich nicht recht, wodurch diese Fratze so
+abstoßend wirkte. Es waren nicht die einzelnen Teile, es
 war der Gesamteindruck, — — es war eben kein Gesicht,
 sondern eine ungeheuerliche Mißgeburt.
 
 Auch Harst stierte den Menschen eine Weile sprachlos
-an. Es kostete ihm offenbar größte U’eberwindung, diesen
+an. Es kostete ihm offenbar größte Überwindung, diesen
 Unglücklichen, der sich am Tage kaum öffentlich zeigen
-konnte, anzureden. Entlohnte sich an den Tisch, und das
+konnte, anzureden. Er lehnte sich an den Tisch, und das
 gräßliche, hämische, menschenfeindliche Lächeln des Fremden
-zwang ihn zu dem Ausruf;:
+zwang ihn zu dem Ausruf:
 
 »Wer sind Sie?!«
 
 Der Mann blinzelte zu uns auf.
 
 »Gefalle ich Ihnen?!« meinte er mit einer Selbstironie,
-die mir einen kalten Schauer über den Leib trieb … Natur«
-bis gefalle ich Ihnen …!! Nun haben Sie mich ja!!
+die mir einen kalten Schauer über den Leib trieb … »Natürlich
+gefalle ich Ihnen …!! Nun haben Sie mich ja!!
 Nun schleppen Sie mich doch vor Gericht … Was liegt
 an meinen schönen Kopf?! Sehr wenig. Wenn dieser Schädel
 in den Korb mit Sägespänen fällt, ist ein Scheusal weniger
 auf der Welt. Begreifen Sie, daß ein Mensch wie ich, der
-sich; verkriechen muß, der nur wie ein Maulwurf leben
+sich verkriechen muß, der nur wie ein Maulwurf leben
 darf, bis oben mit Haß und Neid und Niedertracht angefüllt
-ist?! Ich Klasse alles — alle … Mir alt wenn Leben
+ist?! Ich hasse alles — alle … Mir gilt mein Leben
 <@pagebreak/>
 nichts, erst recht nichts gilt mir das anderer. Ich habe
 gemordet … gut!! Ich würde weiter gemordet haben —
-auch Sie beiden«
+auch Sie beide!!«
 
-Harst blickte ihm unausgesetzt an. Die bunten Deenlampen
+Harst blickte ihn unausgesetzt an. Die bunten Deckenlampen
 des Glasdaches des Wintergartens waren barmherzig
 genug, alle Einzelheiten dieses Antlitzes zu verschleiern.
 
 »Wer sind Sie?!«
 
 »Ich habe keinen Namen … ich habe nichts als meinen
-Neid, Haß, Ekel vor mir selbst … I) alte mich nicht
+Neid, Haß, Ekel vor mir selbst … Ich hätte mich nicht
 Hugo Abel, sondern Satanas Kain nennen sollen, Schminke
 und Puder und sonstige Künste schufen den schwarzbärtigen,
 sonngebräunten Monteur Abel, der ausgerechnet das Glück
 hatte, bei dem Hofrat den Schurken wiederzusehen, der
-vom Mr Bestie war als ich: Arthur Menk! — Ich
+noch mehr Bestie war als ich: Arthur Menk! — Ich
 knallte ihn nieder … — Und weshalb Friedrich Gelling
 sterben mußte?! — Ich bin in Stimmung, ich will beichten …
 Ja, weshalb mußte Jolly Banke-Gelling folgen?! Weil
 Banke — — hören Sie gut hin — — weil Jolly Banke
 sich in Larnays Garten geschlichen hatte, nachdem er mit
 Ihnen im Walde zusammen gewesen, weil er eben Arthur
-Menk draußen an der Pforte getroffen und erkannt hatte.
-und hinter einer Hecke stand, als ich laut Menk abholte. Er
+Menk draußen an der Pforte getroffen und erkannt hatte
+und hinter einer Hecke stand, als ich auf Menk abdrückte. Er
 schlich dann davon, — der Narr glaubte später, Hugo Abel
 und sein Sohn Doktor Herward wären ein und dieselbe
-Person … So war’s. Ich Punkte den Zeugen beseitigen.
+Person … So war’s. Ich wollte den Zeugen beseitigen.
 Habe ich im Grunde nicht lediglich Gutes getan?! Menk war
-ein schamloser Wicht, Banke war ein Unglücklichen, dem der
-redete Tod Erlösung bedeutete. — Nun haben Sie mich,
+ein schamloser Wicht, Banke war ein Unglücklicher, dem der
+rasche Tod Erlösung bedeutete. — Nun haben Sie mich,
 Herr Harst … Sie haben mich überlistet … Sie holten
 die Laterne und legten hier rasch die Zündschnur … Sie
-rechneten damit, daß ich »einsteigen würde … Ja — Sie
-sind verteufelt schlau …
+rechneten damit, daß ich einsteigen würde … Ja — Sie
+sind verteufelt schlau …«
 
-Haralds Bis Verlag die schmächtige Gestalt, die in
+Haralds Blick überflog die schmächtige Gestalt, die in
 einen schäbigen blauen Anzug gekleidet war. Auch die
-La&halbschuhe waren zerplatzt, die dunkelste Seidenstrümpfe
+Lackhalbschuhe waren zerplatzt, die dunkellila Seidenstrümpfe
 <@pagebreak/>
-protzten mit blankem Schimmer. Die Schuhe hatten unter genagelte
-Gummisohlen, die noch. hellgrau, neu aussahen.
+protzten mit blankem Schimmer. Die Schuhe hatten untergenagelte
+Gummisohlen, die noch hellgrau, neu aussahen.
 
 »Sie … lügen,« sagte er dann ganz unvermittelt.
 
 Der Abschreckende kniff die schrecklichen Fischaugen noch
-kleiner, Diese Augen: waren ohne Wimpern, ohne Augenbrauen
+kleiner. Diese Augen waren ohne Wimpern, ohne Augenbrauen
 …
 
 »Lügen?!« sagte er dumpf. »Weshalb wohl?! Ich —
-— lügen 21«
+— lügen?!«
 
 Harst beugte sich herab und hob die rechte Hand …
 
@@ -1890,104 +1888,105 @@ Wollte er etwa …
 In demselben Moment erlosch das Licht, — — in demselben
 Moment knirschte der Zierkies hinter mir.
 
-Ich fühlte ein Dröhnen im Kopf, ich sank vornüber.,
+Ich fühlte ein Dröhnen im Kopf, ich sank vornüber.
 
 Ich wurde nicht bewußtlos, ich hörte Stimmen, Rascheln,
 Poltern … ich richtete mich auf, und neben mir saß
 Harald, stöhnte leise, zog sich an der Tischkante hoch und
 fiel in die Sofaecke.
 
-Der Mond: gab genügend Licht. Wir waren allein.
+Der Mond gab genügend Licht. Wir waren allein.
 Der Fremde, der Mann ohne Gesicht, und seine Helfer
 waren verschwunden.«
 
-ein Half mir auf die Beine.
+Harst half mir auf die Beine.
 
-hatte ich … nicht erwartet,« sagte er stockend
-und »mit schwerer Zunge. »Es … waren … drei außer
-dem gräßlichster Menschheit … drei. Einer hat den Hauptschalter
+»Das … hatte ich … nicht erwartet,« sagte er stockend
+und mit schwerer Zunge. »Es … waren … drei außer
+dem gräßlichsten Menschen … drei. Einer hat den Hauptschalter
 im Flur ausgedreht, die beiden anderen schlugen uns
 nieder … Wie mögen sie hereingekommen sein?«
 
-»Natürlich auch hier durch; das Fenster,« Mir erschien
+»Natürlich auch hier durch das Fenster.« Mir erschien
 das selbstverständlich.
 
 Harald erhob sich und wankte ins Eßzimmer — in den
-ur,
+Flur,
 
 Das Licht flammte wieder auf, und er kehrte zurück.
 
-»Mein Alter, sie kamen nicht durch« das Fenster …«
+»Mein Alter, sie kamen nicht durch das Fenster …«
 Er setzte sich … Meine Gedanken wurden klarer.
 
-»Nicht?1’
+»Nicht?!»
 
 »Nein. — denn sie führten den Abschreckenden halb mit
 <@pagebreak/>
-Gewalt davon … Ich hörte deutlich eine durchs Tränen verschleierte
+Gewalt davon … Ich hörte deutlich eine durch Tränen verschleierte
 Stimme: »Vater — — komm’ — — bitte komm’!!«
-Und diese Stimme, mein Alter/ die kannte im. Ihr Vollauf
-hat mich heute berauscht … Ich Lichte weiche melodische
-Stimmen … Und das Darf-Parfüm sagte auch noch
+Und diese Stimme, mein Alter, die kannte ich. Ihr Wohllaut
+hat mich heute berauscht … Ich liebe weiche melodische
+Stimmen … Und das Turf-Parfüm sagte auch noch
 das seine: die Stimme gehörte Thea Larnay!«
 
 Nun war ich vollends Herr meiner Gedanken,
 
-»Dann. stimmt es ja, Harald: Thea Geräte! Hugo Adel …!
-Und Friedrich Milenz und Jakob Jahnke tun dasselbe, Wir
+»Dann stimmt es ja, Harald: Thea schützt Hugo Abel …!
+Und Friedrich Milenz und Jakob Jahnke tun dasselbe. Wir
 sind also zum Ausgangspunkt unserer Kombinationen zurückgekehrt.«
 
-Harst rieb seinen Scheitel … »Die Beule geht an,
-
-Es hätte scxlimmer werden können … — Der Ausgang
-Punkt, lieber Alter, war der Eingang zu einem Irrgarten.
-Wir tappten umher und blieben in der Irre … Setzt kenne.
-ich den Mörder … Er beißt … Ludwig Larnay, Hofrat
+Harst rieb seinen Scheitel … »Die Beule geht an …
+Es hätte schlimmer werden können … — Der Ausgangspunkt,
+lieber Alter, war der Eingang zu einem Irrgarten.
+Wir tappten umher und blieben in der Irre … Jetzt kenne
+ich den Mörder … Er heißt … Ludwig Larnay, Hofrat
 Ludwig Larnay, einst Zierde der Münchener Bühnen, dann
-verknotet, gelästert … Die Worte von dem Haß vorhin
+verspottet, gelästert … Die Worte von dem Haß vorhin
 kamen ihm aus dem Herzen.«
 
 »Larnay?! Unmöglich!!« Das war alles, was ich hervorbringen
 konnte.
 
-Harald tastete nach seinem Zigarettenetui!. »Bitte …
+Harald tastete nach seinem Zigarettenetui. »Bitte …
 Rauche nur … Es schadet nichts …« Er hielt mir
-das kleine Feuerzeug hin. »Meine Theorie ist folgende,
-Larnay wußte, daß Menk sich rächen würde — irgendwie,
-Larnay wollte sein Kind schützen. Er traf seine Vor«
-Weisungen, ihm als Schauspieler, …«
+das kleine Feuerzeug hin. »Meine Theorie ist folgende.
+Larnay wußte, daß Menk sich rächen würde — irgendwie.
+Larnay wollte sein Kind schützen. Er traf seine Vorbereitungen,
+ihm als Schauspieler, …«
 
-»Halt — — und sein heutiges so entsetzliches Gesicht?!’
-»War eine dünne Gummimaske …
-»Ah, — — dann allerdings …
+»Halt — — und sein heutiges so entsetzliches Gesicht?!«
 
-»Lauert mietete das Zimmer bei der Moldenhauer …
-Er kannte den Tag von Menks Entlassung aus dem Zuchthaus,
-Als »Abel« kam Lauert in seine eigene Villa — erst
-am Tage vorher, dann heute, während »eine in der
-Hängematte schlief, wo ihm niemand stören durfte … Als
+»War eine dünne Gummimaske …«
+
+»Ah, — — dann allerdings …«
+
+»Larnay mietete das Zimmer bei der Moldenhauer …
+Er kannte den Tag von Menks Entlassung aus dem Zuchthaus.
+Als »Abel« kam Larnay in seine eigene Villa — erst
+am Tage vorher, dann heute, während »Larnay» in der
+Hängematte schlief, wo ihn niemand stören durfte … Als
 <@pagebreak/>
-wir Warnung heute dort Fetzen, trug er lila Seidenstrümpfe,
-er benutzte Darf. Er ahmte hier die Stimme des Kindes in
-den Büschen nach …-« Noch mehr Beweise gefällige?
+wir Larnay heute dort weckten, trug er lila Seidenstrümpfe,
+er benutzte Turf. Er ahmte hier die Stimme des Kindes in
+den Büschen nach … — Noch mehr Beweise gefällig?!«
 
-»Und — — Thea 2«
+»Und — — Thea?!«
 
-»Sie ahnte zunächst nichts, weder sie vom? Friedrich
+»Sie ahnte zunächst nichts, weder sie noch Friedrich
 noch Jahnke erkannten in »Abel« Ludwig Larnay. Doch
 später müssen sie die Wahrheit gespürt haben. Heute hier
 bei uns befreiten sie ihn … Hätten sie es nicht getan,
-hätte Larnay sie wohl vergiftet, -« Du zweifelst?! — Ich
-werde dir einen zwingenden Beweis liefern … Komm’ mit,
+hätte Larnay sich wohl vergiftet. — Du zweifelst?! — Ich
+werde dir einen zwingenden Beweis liefern … Komm’ mit.
 Prüfen wir, wie die drei, die Larnay gefolgt waren, hier
-eingedrungen sind,« …
+eingedrungen sind,«
 
 Die Feststellung war leicht. An der linken Giebelseite
 lehnte unsere Baumleiter, und das eine Mansardenfenster
-war eingeholt und offen, Frische Entrinnen verrieten
+war eingeholt und offen. Frische Erdspuren verrieten
 das Übrige.
 
-Harsts Theorie stimmte, Larnay war der Mann ohne
+Harsts Theorie stimmte. Larnay war der Mann ohne
 Gesicht, Larnay hatte zwei Morde auf dem Gewissen.
 
 Wir saßen wieder im Wintergarten.
@@ -1995,11 +1994,11 @@ Wir saßen wieder im Wintergarten.
 »Und jetzt?!« fragte ich zaudernd.
 
 »Warten wir bis morgen früh,« erwiderte Harald sinnend.
-»Ich weiß nicht recht … —« je mehr im mich nun an
-meinen eigenen Schlußfolgerungen Geräusche, desto nüchterner
-werde ich
+»Ich weiß nicht recht … — je mehr im mich nun an
+meinen eigenen Schlußfolgerungen berausche, desto nüchterner
+werde ich …«
 
-Ich starrte ihn ’an. »Wie — — du bist dir deiner
+Ich starrte ihn an. »Wie — — du bist dir deiner
 Sache doch nicht ganz sicher?«
 
 Er stand auf und hob die Pistole Larnays auf.
@@ -2008,15 +2007,15 @@ Es war eine ganz gewöhnliche billige Luftpistole, wie
 man sie in jeder Schießbude sieht.
 
 »Damit tötet man nicht einmal ein Kaninchen, mein
-Alter … Er hatte nur dies Ding bei sich. Er Flusse
+Alter … Er hatte nur dies Ding bei sich. Er bluffte
 uns, und seine langen haßerfüllten Reden hier waren auch
 Bluff, glaube ich«
 
 »Bestimmt!!« sagte da eine helle Stimme vom Fenster
-Her. und über die Brüstung schwang sich Dr?ter Herward
+Her, und über die Brüstung schwang sich Doktor Herward
 <@pagebreak/>
-Gelling herein. »Entschuldigen Sie mein formloses Ein-
-dringen,« fügte er gewesen hinzu. »Auch ich habe zu
+Gelling herein. »Entschuldigen Sie mein formloses Eindringen,«
+fügte er gemessen hinzu. »Auch ich habe zu
 diesen Dingen einiges zu erklären,«
 
 <h2>3. Kapitel.</h2>
