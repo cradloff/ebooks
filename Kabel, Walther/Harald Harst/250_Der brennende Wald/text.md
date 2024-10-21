@@ -65,8 +65,8 @@ ein Friedensengel einem afghanischen Thronanwärter. Jolly
 sah wie ein gutsituierter Käsehändler aus. Auch seine 
 Gesichtsfarbe paßte zu diesem Vergleich.
 
-»Zweihundertneunundvierzig Fälle …« murmelte er,
-Allerhand Achtung …!! Hut ab!!« Er zog seinen Kalabreser
+»Zweihundertneunundvierzig Fälle …« murmelte er.
+»Allerhand Achtung …!! Hut ab!!« Er zog seinen Kalabreser
 und besichtigte dann den Belag der Klappstulle.
 »Zungenwurst — nicht schlecht … Sie wird mir die eigene
 Zunge geschmeidiger machen …« Sein Gesichts behielt jedoch
@@ -516,7 +516,7 @@ Thea hatte sich nach links gewandt und rief ihrem Hunde
 ein paar Koseworte zu. Das alles ward mir immer merkwürdiger.
 Hier diese Menschen … logen, unbedingt —
 sie logen alle, sie suchten die Wahrheit zu vertuschen, aber
-ihre schaupielerischen Fähigkeiten reichten dazu nicht hin.
+ihre schauspielerischen Fähigkeiten reichten dazu nicht hin.
 
 In der Südostecke des Parkes zwischen zwei alten Linden
 hing die Hängematte. Hofrat Larnay schlief ganz fest. Thea
@@ -528,7 +528,7 @@ die Augen und sprang empor, als er uns erkannte,
 Dann blickte er Thea und Jahnke forschend an. »Ihr …
 ihr seid ja So seltsam feierlich …« Er schüttelte die Schlaftrunkenheit
 vollends ab … »Was ist denn geschehen …?!«
-Er drehte den Kopf. Herr Harst, — — sprechen Sie, — es
+Er drehte den Kopf. »Herr Harst, — — sprechen Sie, — es
 ist irgend etwas passiert …«
 
 Harald nickte. »Sie werden viel Unruhe in Kauf nehmen
@@ -1694,7 +1694,7 @@ in den Schatten drücken, als hinter uns eine tiefe rauhe
 Baßstimme sehr energisch sagte:
 
 »Bleiben Sie sitzen!! Jede verdächtige Bewegung kostet
-Ihnen das Leben!
+Ihnen das Leben!«
 
 Im Wintergarten brannte auch jetzt kein Licht. Harald
 <@pagebreak/>
@@ -1897,7 +1897,7 @@ fiel in die Sofaecke.
 
 Der Mond gab genügend Licht. Wir waren allein.
 Der Fremde, der Mann ohne Gesicht, und seine Helfer
-waren verschwunden.«
+waren verschwunden.
 
 Harst half mir auf die Beine.
 
@@ -1918,7 +1918,7 @@ Das Licht flammte wieder auf, und er kehrte zurück.
 »Mein Alter, sie kamen nicht durch das Fenster …«
 Er setzte sich … Meine Gedanken wurden klarer.
 
-»Nicht?!»
+»Nicht?!«
 
 »Nein. — denn sie führten den Abschreckenden halb mit
 <@pagebreak/>
@@ -1963,7 +1963,7 @@ ihm als Schauspieler, …«
 »Larnay mietete das Zimmer bei der Moldenhauer …
 Er kannte den Tag von Menks Entlassung aus dem Zuchthaus.
 Als »Abel« kam Larnay in seine eigene Villa — erst
-am Tage vorher, dann heute, während »Larnay» in der
+am Tage vorher, dann heute, während »Larnay« in der
 Hängematte schlief, wo ihn niemand stören durfte … Als
 <@pagebreak/>
 wir Larnay heute dort weckten, trug er lila Seidenstrümpfe,
@@ -2025,14 +2025,14 @@ diesen Dingen einiges zu erklären,«
 Gelling trug bereits Trauer um seinen Vater. In seinem
 dunklen Anzug, der schwarzen Krawatte, dem leichten Ulster
 mit Trauerflor sah er vielleicht noch vornehmer aus als
-vormittags, wo er mir die sein abgetönte Eleganz eines
+vormittags, wo er mir die fein abgetönte Eleganz eines
 Mannes von Geschmack gezeigt hatte. — Er nahm Platz
 und begann ohne weitere Aufforderung …
 
-… Thron und ich sind heimlich »verlobt …- Wir
-lernten uns kennen, als ich versuchte, Lauert persönlich näher
-zu treten. Wir trafen uns näherten erst zufällig, dann auf
-Verabredung …
+»… Thea und ich sind heimlich verlobt … Wir
+lernten uns kennen, als ich versuchte, Larnay persönlich näher
+zu treten. Wir trafen uns nachher erst zufällig, dann auf
+Verabredung …«
 
 Er zögerte etwas …
 
@@ -2040,27 +2040,26 @@ Er zögerte etwas …
 geben, das ihn dazu bestimmte, gerade mir den Zutritt in
 sein Haus zu verwehren, obwohl er und mein Vater so eng
 befreundet waren … Thea hat mir eingestanden, ihr Vater
-Habe persönlich gegen mich nicht das geringste einzuwenden
-zügelt, er habe nur erklärt: »Ich kann Doktor Gelling nicht
-bei mir sehen … Er wäre mir wir ein dauernder Boys
-Wurf.« Mehr konnte zuckten Thea nicht erfahren, dabei war
-und ist sie doch? ihres Vaters einzige Freude, sein einziges
-
-für.«
+habe persönlich gegen mich nicht das geringste einzuwenden
+gehabt, er habe nur erklärt: »Ich kann Doktor Gelling nicht
+bei mir sehen … Er wäre mir wie ein dauernder Vorwurf.«
+Mehr konnte auch Thea nicht erfahren, dabei war
+und ist sie doch ihres Vaters einzige Freude, sein einziges
+Glück.«
 
 Harst hatte voller Interesse zugehört. Ich merkte, daß
 er nunmehr auch diesen dunklen Punkt klären würde. Er
 beugte sich vor und meinte leise:
 
 »Hofrat Larnay wußte, daß Ihr Vater noch am Leben
-war. kannte auch dessen maoraliliH&e Verklungen und fürchtete
+war, kannte auch dessen moralische Verirrungen und fürchtete,
 <@pagebreak/>
 Sie, Herr Doktor, könnten als Gast in seinem Hause irgendwie
 herausfinden, worin dieses Geheimnis bestand — eben
 in der Kenntnis von Ihres Vaters traurigem Geschick! Es
 wäre ja selbstverständlich gewesen, daß er mit Ihnen häufiger
-über Ihren Vater gesprochen hätte. Eis widerstrebte ihm,
-dauernd zu heucheln, Da haben Sie auch die Erklärung für
+über Ihren Vater gesprochen hätte. Es widerstrebte ihm,
+dauernd zu heucheln. Da haben Sie auch die Erklärung für
 seine Worte »ein dauernder Vorwurf«. Ich behaupte sogar,
 die beiden Männer haben heimliche Zusammenkünfte gehabt,
 haben immer miteinander insgeheim verkehrt, und Larnay
@@ -2072,164 +2071,161 @@ Harst … Es kann nur so gewesen sein … Mir fällt
 damit eine schwere Bürde vom Herzen. Ich werde ganz
 offen mit Larnay sprechen …«
 
-»In unserer Gegenwart bitte … — morgen vokmittag
+»In unserer Gegenwart bitte … — morgen vormittag
 …«
-»Gern, Herr Harst. —« Aber meine Sorgen sind noch
 
-nicht alle zerstreut …
+»Gern, Herr Harst. — Aber meine Sorgen sind noch
+nicht alle zerstreut …«
 
-Er strich) sich über die blasse Stirn. Sein Gesicht war
+Er strich sich über die blasse Stirn. Sein Gesicht war
 müde und abgespannt, und um den Mund lag ein Zug
-tiefen Graues.
+tiefen Grames.
 
 »Herr Harst, meine Liebe zu Thea war der Hauptgrund,
-weshalb im; mich bei der Moldenhauer einmietete.
+weshalb ich mich bei der Moldenhauer einmietete.
 Ich fürchtete für ihre Sicherheit nach Menks Entlassung, ich
 wollte ihr nahe sein, vom »Wilden Eber« bis zur Heydenstraße
-hatte im nur vier Minuten Wegs, und da der Garten
+hatte ich nur vier Minuten Wegs, und da der Garten
 Larnays an ein unbebautes, noch bewaldetes Grundstück mit
-löcherigen Drahtzaun stößt, konnten wir uns abends auch
+löcherigem Drahtzaun stößt, konnten wir uns abends auch
 dort für Minuten treffen. Heute trieb mich die Sehnsucht
-dorthin, der Wunsch, mich mit Thea über all das ausging
-sprechen, was uns vielleicht trennen könnte: Mein Vaters
-Nicht etwa, daß ich annehme, Ehe: würde aus Scheu vor dem
-Gerede der Welt mich aufgeben und sie etwa meiner schämen,
-weil …, — mein Vater ein Geheiß Retter war. Nein, ich
+dorthin, der Wunsch, mich mit Thea über all das auszusprechen,
+was uns vielleicht trennen könnte: Mein Vater!
+Nicht etwa, daß ich annehme, Thea würde aus Scheu vor dem
+Gerede der Welt mich aufgeben und sich etwa meiner schämen,
+weil … mein Vater ein Gezeichneter war. Nein, ich
 <@pagebreak/>
-kenne Thea … Aber patentes wühlte in mir. Ich überlegte,
-ab es nicht meine Pflicht sei, sie unter diesen gar Blick
-veränderten Umständen freizugeben, Wir hatten uns für
-Leute nicht verabredet, trotzdem hoffte ich auf ein Niedere
-schien und hatte mich auf dem Grundstückes halb hinter eine
-dieser gesetzt. Es mochte etwa halb elf gewesen sein, als
-ie »inen;Fremden bemerkte, der sich über den Larnayschen
+kenne Thea … Aber anderes wühlte in mir. Ich überlegte,
+ob es nicht meine Pflicht sei, sie unter diesen gänzlich
+veränderten Umständen freizugeben. Wir hatten uns für
+heute nicht verabredet, trotzdem hoffte ich auf ein Wiedersehen
+und hatte mich auf dem Grundstück halb hinter eine
+Kiefer gesetzt. Es mochte etwa halb elf gewesen sein, als
+ich einen Fremden bemerkte, der sich über den Larnayschen
 Zaun schwang und dicht an mir vorüber auf die Straße
-eilte, Ich erkannte in ihm trotz des entstellten Gesichts den
+eilte. Ich erkannte in ihm trotz des entstellten Gesichts den
 Hofrat, und irgendeine dunkle Vorahnung veranlaßte mich
-dazu, ihm zu folgen, Er betrat Ihren Garten vom Feldwege
+dazu, ihm zu folgen. Er betrat Ihren Garten vom Feldwege
 aus, Herr Harst, und ich verbarg mich drüben im
 Laubengelände, wurde so Zeuge, wie Sie mit der hellen
 Laterne suchten, wie die Kleingärtner mit ihnen sprachen
-und … wie nachher drei Gestalten erschienen und ««
+und … wie nachher drei Gestalten erschienen und …«
 
-… ja, Thea, Friedrich und Jahnke, Herr Doktor …
+»… ja, Thea, Friedrich und Jahnke, Herr Doktor …«
 
-»Ich hob die drei dann zusammen mit Larnay flüchten
+»Ich sah die drei dann zusammen mit Larnay flüchten …
 Ich begriff nichts von alledem, und erst als ich nun selbst
-Ihren Garten und Hof betrat und die kreuz Leiter an die
+Ihren Garten und Hof betrat und die kleine Leiter an die
 Wand des Wintergartens gelehnt hatte und emporgestiegen
-war und Tür Gespräch — verzeihen Sie dies einem besorgten
+war und Ihr Gespräch — verzeihen Sie dies einem besorgten
 Verlobten — belauschte, ward mir der Zusammenhang
 klar.«
 
 Es war erstaunlich, wie sehr Doktor Gelling sich in
 der Gewalt hatte. Man hätte diesen beherrschten Mann
-Zeit für gefühllos halten können, wenn nicht Kleinigkeiten
+leicht für gefühllos halten können, wenn nicht Kleinigkeiten
 in seinem Benehmen doch immer wieder seine innere
 Erregung verraten hätten. Es wäre ja auch unnatürlich gewesen,
 wenn er der niederschmetternden Tatsache gegenüber,
-daß der Halber seiner heimlich Verlobten unter so schwerem
+daß der Vater seiner heimlich Verlobten unter so schwerem
 Verdacht stand, gleichgültig geblieben wäre.
 
 »Dieser Zusammenhang,« fuhr er jetzt weit energischer
 fort, »ist nun ganz offenbar ein verhängnisvolles Spiel des
 Zufalls, nichts weiter. Ihre Verdachtsgründe gegen den
-Heirat, Herr Harst, kann lieh durch einige kurze Säße widerlegen:
+Hofrat, Herr Harst, kann ich durch einige kurze Sätze widerlegen:
 <@pagebreak/>
 Wäre Ludwig Larnay Menks Mörder, so hätte er
 seine Hängematte in der kritischen Zeit verlassen. Die Hängematte
-hätte leer sein müssen. Ich kann jederzeit bch!hwören,
+hätte leer sein müssen. Ich kann jederzeit beschwören,
 daß ich den Hofrat um die in Frage kommende Stunde fest
-Schlafend mindestens zwanzig Minuten beobachtet habe. Das
+schlafend mindestens zwanzig Minuten beobachtet habe. Das
 unbebaute Grundstück gestattet von einem Hügel aus gerade
 einen Einblick in den Teil des Larnay-Parkes, wo der Hofrat
-regelmäßig Mittagsruhe hält, Ich war dort, Verliebte
-pflegen selbst. etwas jungenhafte Fensterpromenaden nicht
-zu scheuen, Ich saß auf dem Hügel zwischen dort wuchernden
+regelmäßig Mittagsruhe hält. Ich war dort. Verliebte
+pflegen selbst etwas jungenhafte Fensterpromenaden nicht
+zu scheuen. Ich saß auf dem Hügel zwischen dort wuchernden
 Brombeerstauden. Ich sah auch Thea auf der Terrasse
-im Liegestuhl, ebenso den Monteur Abel, diese rätscelh:sfte
-Persönlichkeit, Ich hörte keinen Schuß — nichts! Abel
+im Liegestuhl, ebenso den Monteur Abel, diese rätselhafte
+Persönlichkeit. Ich hörte keinen Schuß — nichts! Abel
 stand draußen auf dem Fenstersims. Das Fenster war weit
-offen. Ich habe ein sehr seines Gehör. Mein Einglas ist
-sehr scharf. — Sie können sich ’elbst davon überzeugen,
+offen. Ich habe ein sehr feines Gehör. Mein Einglas ist
+sehr scharf. — Sie können sich selbst davon überzeugen,
 daß der bewachsene Hügel überaus günstig als Beobachtungspunkt
-ist. Larnay ist niemals der Mörder, Eine so durch
+ist. Larnay ist niemals der Mörder. Eine so durch
 und durch vornehme Natur wie er ist keines Verbrechens
-me: (6
+fähig.«
 
-Harald strich bedächtig die Alte seiner Zigarette ab.
-»Und wesblb trat dann Lauert heute hier so nachdrücklich
-für den Mörder ein?!« meinte er nahsfelzuckend,
+Harald strich bedächtig die Asche seiner Zigarette ab.
+»Und weshalb trat dann Larnay heute hier so nachdrücklich
+für den Mörder ein?!« meinte er achselzuckend,
 
-»Vielleicht de8wlb,« erwiderte Gelling prompt, »weil er
-den Moschee zu kennen glaubt und ihn schützen will.«
+»Vielleicht deshalb,« erwiderte Gelling prompt, »weil er
+den Mörder zu kennen glaubt und ihn schützen will.«
 
-Harst nickte, »Ja — den Mörder!! Wir drehen uns
-Immer im Kreise … Wir kommen!mmer wieder zu der
+Harst nickte. »Ja — den Mörder!! Wir drehen uns
+Immer im Kreise … Wir kommen immer wieder zu der
 Hauptfrage zurück: Wer ist Hugo Abel?! — Ich … ich
-vermute, ihn zu kennen. Beweise Hitze ich nicht. Deshalb
-s&:meine ich. — Wenn e? Ihrer! recht ist, Herr Doktor,
-suchen wir sofort das unbekannte Syndikus auf.«
+vermute, ihn zu kennen. Beweise habe ich nicht. Deshalb
+schweige ich. — Wenn es Ihren recht ist, Herr Doktor,
+suchen wir sofort das unbebaute Grundstück auf.«
 
-Grobian preßte einen Moment die Linpen!so fest zukommen,
+Gelling preßte einen Moment die Lippen so fest zusammen,
 daß drei scharfe Falten sich von jedem Mundwinkel
-zum Sinn hinabzogen. E« war dies offenbar eine
-unbenutzte Reflexbewegung, weil ihm Harsts Voa-schlaa Mr.
+zum Kinn hinabzogen. Es war dies offenbar eine
+unbewußte Reflexbewegung, weil ihm Harsts Vorschlag mißfiel.
 <@pagebreak/>
-fiel. Trotzdem sagte er genau so gelassen wie bisher: »Aber
-gewiß — geben wir … t«
+Trotzdem sagte er genau so gelassen wie bisher: »Aber
+gewiß — gehen wir …!«
 
-Harst handelte den Rest seiner Zigarette im Aschbecher.
+Harst zerdrückte den Rest seiner Zigarette im Aschbecher.
 »Sind Sie eigentlich Jäger, Herr Doktor?«
 
 Gelling stutzte merklich. »Allerdings, sogar ein sehr
-eifriger, aber — — kein Schießen,!sondern wirklicher Jäger.«
+eifriger, aber — — kein Schießer, sondern wirklicher Jäger.«
 
-»Das dachte ihm mir …« Haralds graue Augen begegneten
+»Das dachte ich mir …« Haralds graue Augen begegneten
 denen Herward Gellings, und Gelling errötete
 flüchtig. »Ihr Spazierstock, den Sie vormittags bei sich hatten,
 war doch ein sogenannter Gewehrstock … vielleicht Kaliber
-69 …
+6,9 …«
 
-Gellings Ehe irrten unstät umher,
+Gellings Blicke irrten unstät umher,
 
-»Ja, 6,2 … Weshalb interessiert Sie das?«
+»Ja, 6,9 … Weshalb interessiert Sie das?«
 
-»ob — unwillkürlich achtet unsereiner auf als …
+»Oh — unwillkürlich achtet unsereiner auf alles …
 Hatten Sie den Stock mit auf dem Hügel?«
 
 Gellings Stirn krauste sich. Er fragte scharfen Tones:
-»andächtigen Sie etwa mich?! — Nein, der Stock stand
-meinem Zimmer bei der Moldenhauer … —« Halt.
-
-Scheiterte er sie!Fnell, »das stimmt nicht … Ich hatte
+»Verdächtigen Sie etwa mich?! — Nein, der Stock stand
+in meinem Zimmer bei der Moldenhauer … — Halt …«
+verbesserte er sich schnell, »das stimmt nicht … Ich hatte
 ihn am Tage vorher, besser am Abend vorher auf dem
 Grundstück stehen lassen, als ich mit Thea zusammen war …
-
-Schien nahm ihn dann mittags mit, und da sahen Sie ihn,
+Ich nahm ihn dann mittags mit, und da sahen Sie ihn,
 als ich heimkehrte …«
 
 Harald lächelte milde. »Bleiben wir doch bei der Wahrheit,
-Herr Doktor … Nein, ihm halte Sie nicht für den
+Herr Doktor … Nein, ich halte Sie nicht für den
 Mörder Menks … Ich weiß jetzt bestimmt, daß Menk
-von einer anderen Person erschossen wurde, nicht von denn
-selben Manne, der Ihren Vater tötete … Was Sie soeben
+von einer anderen Person erschossen wurde, nicht von demselben
+Manne, der Ihren Vater tötete … Was Sie soeben
 über den Gewehrstock erzählten, kann nicht richtig sein. Ihre
 Diplomatie, Herr Doktor, ist fadenscheinig. Die Kugel, die
-Monat auslöste, hatte Kaliber 6,9, und der Schuß kann
+Menk auslöste, hatte Kaliber 6,9, und der Schuß kann
 aus weiterer Entfernung abgegeben worden sein. Der Revolver
 neben Menk hatte Kaliber 7,5 … Es ist eine alte
 unmoderne Waffe, ein Trommelrevolver. Kriminalkommissar
-
-Cord bat uns noch anderes im Vertrauen mitgeteilt, Die
+Cord hat uns noch anderes im Vertrauen mitgeteilt. Die
 <@pagebreak/>
-Kugel in Menks Stirn war ein längliches Bleigesch:3 ohne
-Mantel. — Wollen Sie nicht besser Ihre Angaben über dein
-Gewehrstock korrigieren? Sie handeln gemeinten wie all
+Kugel in Menks Stirn war ein längliches Bleigeschoß ohne
+Mantel. — Wollen Sie nicht besser Ihre Angaben über den
+Gewehrstock korrigieren? Sie handeln genau so wie all
 die Personen, die in dieses Drama verwickelt sind … Sie
 suchen Fährten zu verwischen … Hatte vielleicht Fräulein
 Thea nach Ihrer abendlichen Zusammenkunft mit Ihnen den
-Stock … mitgenommen«
+Stock … mitgenommen?«
 
 Gelling erbleichte. In seine Augen trat ein halb irres
 Flimmern. Plötzlich bedeckte er das Gesicht mit der Linken
@@ -2238,42 +2234,42 @@ weiter sagen — ich kann nicht!! Ich bin mit meinen
 Nerven fertig … Diese ungeheure Anspannung ertrage ich
 nicht länger … Gott im Himmel: Ich sah Thea doch im
 Liegestuhl!! Wie sollte sie also …« Er beendete den
-Ort nicht, sprang auf und streckte Harald beide Hände
-bin: »Helfen Sie!! Ich werde noch verrückt über alledem!
-3) gebe Ihnen mein Ehrenwort; Ich war mittags auf
-bei: Hügel — jedes Wort ist wahr! Ich weiß nichts …
-Nr? den Stock — ja, den Stock vergaß ich wirklich dort …
-Du … nur als im ihn am Tage drauf suchte und des«
-alt mittags ein zweites Mal den Hügel betrat, lag er
-zwischen den Zwinkerten, und … und … die Patrone
+Satz nicht, sprang auf und streckte Harald beide Hände
+hin: »Helfen Sie!! Ich werde noch verrückt über alledem!
+Ich gebe Ihnen mein Ehrenwort: Ich war mittags auf
+dem Hügel — jedes Wort ist wahr! Ich weiß nichts …
+Und den Stock — ja, den Stock vergaß ich wirklich dort …
+Nur … nur als ich ihn am Tage drauf suchte und deshalb
+mittags ein zweites Mal den Hügel betrat, lag er
+zwischen den Brombeeren, und … und … die Patrone
 in der Kammer war abgefeuert, nur die Hülse steckte noch
 im Laufe …«
 
-Harald Frühe ihm fest die Hände.
+Harald drückte ihm fest die Hände.
 
-»Leer Doktor, dann … dann weiß ich wer Menk
+»Herr Doktor, dann … dann weiß ich, wer Menk
 erschoß … — — Gehen wir …«
 
 <@pagebreak/>
 
-4, Kapitel …
+<h2>4. Kapitel.</h2>
 
-Larnays Pavillon,
+<h3>Larnays Pavillon,</h3>
 
 Schweigend schritten wir den Feldweg entlang bis zur
-Forkeubekjtraße, Die mondhelle Nacht mit ihrem sonderlichen
+Forkenbeckstraße. Die mondhelle Nacht mit ihrem sommerlichen
 Frieden konnte unsere gedrückte, ungemütliche Stimmung
-nicht besser, Wir kamen in die Warnemünder
+nicht bessern. Wir kamen in die Warnemünder
 Straße, gleich darauf deutete Gelling auf einen schiefen
-Drahtzaun … »Hier ist das Loch … Sie Sehen, die Anwohner
+Drahtzaun … »Hier ist das Loch … Sie Sehen, die Umwohner
 benutzen dieses Grundstück als Müllabladeplatz …
 Die alten Matratzen, Kochtöpfe, zerbrochenes Geschirr und
-Ziegelhaufen sind ein Skandal für diese Umgebung
+Ziegelhaufen sind ein Skandal für diese Umgebung …«
 
-Wir waren bisher kaum einem Mengen bezechter:.
-Schmargendorf und Dahlem sind nach elf Uhr abends tun!,
-Nur Södzupobeamte und Mauerstelle verschiedener Wage
-Herrschaften schützen die Willen und Prachtbauten der Feinen,
+Wir waren bisher kaum einem Menschen begegnet.
+Schmargendorf und Dahlem sind nach elf Uhr abends tot.
+Nur Schupobeamte und Angestellte verschiedener Wachgesellschaften
+schützen die Villen und Prachtbauten der Reichen,
 und die wenigen Mietskasernen locken kaum einen Einbrecher
 an.
 
@@ -2281,19 +2277,19 @@ Gelling schlüpfte durch den Zaun, und als wir nun
 auf dem Hügel standen und nach Osten blickten, hatten wir
 die Villa und den Larnay-Park dicht vor uns,
 
-»Kennen Sie Fräulein Theas Hund?« fragte Harst nach.
+»Kennen Sie Fräulein Theas Hund?« fragte Harst nach
 einer Weile,
 
-»Ihr gut …«
+»Sehr gut …«
 
-»BL: Würde er sich still verhalten, wenn Sie i9n anrufe:?«
+»Würde er sich still verhalten, wenn Sie ihn anrufen?«
 
-»0 …
+»Ja …«
 
-»Dann wollen wir über den Zaun klettern …
+»Dann wollen wir über den Zaun klettern …«
 
 Gelling hüstelte. »Was … beabsichtigen Sie?« Er
-war recht nervös geworden und hatte die Gewalt über lieh
+war recht nervös geworden und hatte die Gewalt über sich
 verloren.
 
 »Später …« wich Harald aus. »Wir müssen mit
@@ -2302,55 +2298,55 @@ dieser Sache endlich ins Reine kommen.«
 Doktor Gelling war als erster drüben. Er pfiff leise,
 <@pagebreak/>
 und im Nu war der riesige Schäferhund bei ihm. Dann
-erst folgten wir, Der Hund knurrte nicht einmal. &Gellings
-Anwesenheit genügte ihm. Harst wandte Sir) den Bein
-Linden zu, zwischen denen die Hängematte befestigt gegangen.
-Ein paar Mieter weiter erhob sich sausten tragen Bößchpei
+erst folgten wir. Der Hund knurrte nicht einmal. Gellings
+Anwesenheit genügte ihm. Harst wandte sich den beiden
+Linden zu, zwischen denen die Hängematte befestigt gewesen.
+Ein paar Meter weiter erhob sich zwischen hohen Büschen
 ein Glaspavillon mit gemauertem Unterbau. Eine eiserne
 Treppe führte zu der Glastür empor, die weit offen stand.
 In dem Pavillon gab es nur ein paar weiße Gartenmöbel.
-Auf dem Tisch lag ein vergessenen Roman,
+Auf dem Tisch lag ein vergessener Roman,
 
 Harsts Taschenlampe beleuchtete die Holzdielen. Sie
-waren hellgrau gestrichen — ganz frisch, aber schon also
-treten, die Nägelköpfe ragten heraus.
+waren hellgrau gestrichen — ganz frisch, aber schon abgetreten,
+die Nägelköpfe ragten heraus.
 
-»Man hätte die Farbe da) erst richtig trocknen lassen
-stellen,« meinte Harald und streichelte des zutraulicher Hundes
+»Man hätte die Farbe doch erst richtig trocknen lassen
+sollen,« meinte Harald und streichelte des zutraulichen Hundes
 Kopf. »Ja, mein vierbeiniger Freund, du schnüffelst hier
-so merkwürdig interessiert. Idee Fürchte, ich hätte Tage
-Nase, dann brauchte ich nicht lange’ zu suchen,«
+so merkwürdig interessiert. Ich wünschte, ich hätte deine
+Nase, dann brauchte ich nicht lange zu suchen,«
 
 Doktor Gelling erklärte gleichgültig, daß der Hofrat
-kleine haushohe Auslassungen allein erledige, auch Anstriche.
+kleine häusliche Ausbesserungen allein erledige, auch Anstriche.
 
 »Es hat alles einen Zweck, Doktor,« nickte Harst. »Sie
 sind für diese miserable Welt noch zu harmlos, glauben
-Sie mir. Larnay begann erst am siebzehnten damit, auarecznet
-in diesem Parkwinkel mittags zu schlafen und ich
-Befehl zu erteilen, ihn hier auf keinen Fall zu Korsar
-Etwa zur selben Zeit mag er hier die Dielen verladen er!
-haben. Natürlich absichtlich. Wenn man mit der Buckel … ge
-zwei Dielenbretter zertrennt und eine Klapptür daruu6
-macht, muß man eben die SGSägeschnitte verdecken,« &r
+Sie mir. Larnay begann erst am siebzehnten damit, ausgerechnet
+in diesem Parkwinkel mittags zu schlafen und den
+Befehl zu erteilen, ihn hier auf keinen Fall zu stören.
+Etwa zur selben Zeit mag er hier die Dielen verschönert
+haben. Natürlich absichtlich. Wenn man mit der Stichsäge
+zwei Dielenbretter zertrennt und eine Klapptür daraus
+macht, muß man eben die Sägeschnitte verdecken.« Er
 bückte sich, faßte einen Nagelkopf und hob eine kleine Falltür
-hoch, unter der fix ein flaches Versteck befand, in den.
+hoch, unter der sich ein flaches Versteck befand, in dem
 allerlei lag — — allerlei, auch eine angekleidete ausgestopfte
-Puppe in Lebensgröße mit Wachskopf, der dem H.-j-
-Rat leidlich glich.
+Puppe in Lebensgröße mit Wachskopf, der dem Hofrat
+leidlich glich.
 
 Gelling erschrak. »Ja, Doktor, — diese Puppe sahen
 <@pagebreak/>
-sie in der Hängematte — natürlich … Larnay ist eben Hugo
+Sie in der Hängematte — natürlich … Larnay ist eben Hugo
 Abel, daran ist nicht zu rütteln.«
 
-»Entsegzlim!« murmelte Berlins und stöhnte verzweifelt.
-»Dann hat er also meinen Gewehrstock gegen Menk be
-nutzt …
+»Entsetzlich!« murmelte Gelling und stöhnte verzweifelt.
+»Dann hat er also meinen Gewehrstock gegen Menk benutzt
+…«
 
 »Hm — Sie bleiben zu harmlos … Sie würden kaum
-je Detektiv … werden.« Er klappte die Falltür zu und des
-Haarlose mit derselben vorbildlichen Klarheit: »Larnay kennt
+je Detektiv werden.« Er klappte die Falltür zu und behauptete
+mit derselben vorbildlichen Klarheit: »Larnay kennt
 den Mörder Menks, aber nicht den Ihres Vaters. Der
 zweite Mörder aber kannte dies Versteck, die Puppe, die
 Schminken, Flaschen, Bartfärbemittel und so weiter. Und
@@ -2362,25 +2358,25 @@ er die Treppe und die Büsche im Auge behalten konnte,
 
 Der Hund wedelte sehr stark mit der buschigen Rute.
 
-Harst lächelte. »Ein Hund bleibt trotz des seinen Instinkt
+Harst lächelte. »Ein Hund bleibt trotz des feinen Instinkts
 ein Stümper …«
 
-Plötzlich hob er die rechte Hand, und das matte Firma
+Plötzlich hob er die rechte Hand, und das matte Plomp
 eines Pistolenschusses, gedämpft durch die Windungen eines
 auf die Mündung aufgesetzten Knallschluckers, ließ Gelling
-und mich zusammenstehlen.
+und mich zusammenfahren.
 
 In den Büschen unten folgte ein Rauschen, Knistern
 und ein schwerer Fall.
 
 »Es war der Hund, der mich rettete,« sagte Harst
 fast schmerzlich. »Der Hund verriet den Mann, der schon
-auf mich angelegt hatte … E82 tut mir leid — ich mußte
+auf mich angelegt hatte … Es tut mir leid — ich mußte
 schießen, und vielleicht … vielleicht ist diese Kugel für
 Jakob Jahnke angenehmer als Zuchthaus oder Richtblock.«
 
 Er schritt die Stufen hinab. Gelling schwankte wie
-ein Trunkener und klammerte sich an mir fest. Aus ich
+ein Trunkener und klammerte sich an mir fest. Auch ich
 war wie von Sinnen …
 
 Jakob Jahnke?! Niemals hätte ich gerade diesen Menschen
@@ -2388,9 +2384,9 @@ beargwöhnt.
 
 Jahnke lag regungslos auf dem Rücken. Neben ihm
 <@pagebreak/>
-lag eine Maximpistole — Furcht mit Schalldämpfer, und
-Jahnke war als Hugo Abel verkleidet, aber ein Ist hatte
-ihm die Hälfte des schwarzen Kollerte abgerissen.
+lag eine Maximpistole — auch mit Schalldämpfer, und
+Jahnke war als Hugo Abel verkleidet, aber ein Ast hatte
+ihm die Hälfte des schwarzen Vollbarts abgerissen.
 
 Mit Jahnke ging es zu Ende. Der Blattschuß blutete
 nach innen, und erst im Arbeitszimmer Larnays auf dem
@@ -2405,9 +2401,9 @@ ihn in die Heydenstraße geführt hatte, wo ohnedies ein
 paar Beamte postiert waren.
 
 Ludwig Larnay im schwarzen Schlafanzug, Thea in
-einem hellen, rasch übergeworfenen Mantel, Friedrich Mißlang
+einem hellen, rasch übergeworfenen Mantel, Friedrich Milenz
 und die Köchin, beide auch nur notdürftig bekleidet,
-stierten blaß und verstört auf den Sterbenden, Gelling hielt
+stierten blaß und verstört auf den Sterbenden. Gelling hielt
 Thea umschlungen, und das klägliche Winseln des Hundes
 mischte sich in Harsts leise Erklärungen, Fragen und sanften
 Vorwürfe.
@@ -2417,11 +2413,10 @@ Lippen:
 
 »Ich … gebe zu, Herr Kriminalkommissar, daß ich
 den alten Gelling, also Jolly Banke, erschossen habe …
-Es ist aus mit mir … Ich bereue alles aus tiefsten
-Herzen, … «»’
+Es ist aus mit mir … Ich bereue alles aus tiefstem
+Herzen …«
 
-»Sie haben auch sehr viel zu bereuen, meinte Harst.
-Harst,«
+»Sie haben auch sehr viel zu bereuen,« meinte Harst.
 
 Aber Jahnke war bereits wieder ohne Bewußtsein.
 
@@ -2431,34 +2426,34 @@ Aber Jahnke war bereits wieder ohne Bewußtsein.
 <h3>Zwei Väter.</h3>
 
 Stille folgte. Der Hund winselte, und Theas leises
-Weinen und Larnays schwere Atemzüge übertönten die Reitstrauße
-in vor Brust des Sterbenden.
+Weinen und Larnays schwere Atemzüge übertönten die Rassellaute
+in der Brust des Sterbenden.
 
-»Wir wollen die Zusammenhänge kurz Geheuchelten,« sagte
+»Wir wollen die Zusammenhänge kurz beleuchten,« sagte
 Harald und schaute den Hofrat an. »Zu viel Vaterliebe
 und Freundestreue im Verein mit der Ruchlosigkeit zweier
-Erpresser beschworen vieles Drama herauf.«
+Erpresser beschworen dieses Drama herauf.«
 
 Larnay nickte schmerzlich. »Ihr Vater, Doktor Gelling,«
-wandte er sich an den Verlobten seines Fuchses, »hatte mir
-stets Treue gehalten … Leider reihte mein Einfluß nicht
-hin, ihn, den verbitterten Feind der Gesellschaft, wider
-einem geregelten Leben zurückzugewinnen … Nacht seiner
+wandte er sich an den Verlobten seines Kindes, »hatte mir
+stets Treue gehalten … Leider reichte mein Einfluß nicht
+hin, ihn, den verbitterten Feind der Gesellschaft, wieder
+einem geregelten Leben zurückzugewinnen … Nach seiner
 ersten entscheidenden Strafe, die er zu Unrecht verbüßte, traf
 ich ihn zufällig, erkannte ihn und blieb stets mit ihm in
 Verbindung …«
 
 »Ja — und Bankes Briefe waren Jahnke nicht fremd.
-Jahnke, seit sechzehn Jahren Tor Chauffeur, war Witwer.
-Sein Sohn nannte sich Arthur Menk als Iournaclist, Schriftsteller
+Jahnke, seit sechzehn Jahren Ihr Chauffeur, war Witwer.
+Sein Sohn nannte sich Arthur Menk als Journalist, Schriftsteller
 und Dichter, ein begabter Mensch, dem aber der
 Vater nicht mehr recht paßte — ein schlichter Chauffeur!
-Jakob Jahnke war treu, nur als Fräulein Thea seinen Vers
-polterten Sohn ins Kühleres brachte, schlug Tasche Erinnerung
+Jakob Jahnke war treu, nur als Fräulein Thea seinen vergötterten
+Sohn ins Zuchthaus brachte, schlug Jakobs Stimmung
 um … — Sie erinnern sich, Doktor Cord, daß
-Sie mir gegenüber erwähnten. Menk hieße eigentlich Jahnke,
+Sie mir gegenüber erwähnten, Menk hieße eigentlich Jahnke,
 habe aber mit behördlicher Genehmigung den Namen gewechselt.
-Es gibt viele Jahnkes — gewiß. Ich) nahm diesen
+Es gibt viele Jahnkes — gewiß. Ich nahm diesen
 Namenwechsel jedoch nicht als so unwichtig hin und dachte
 an den verschwundenen Bettelbrief und an des toten Menk
 völlig ausgeleerte Taschen … Das tat Jakob Jahnke. Der
@@ -2468,49 +2463,49 @@ Fräulein Thea, haben ihn gelesen …«
 
 Sie nickte ehrlich. »Ja, — es stand darin folgendes …
 Mein Vater hätte mit Jolly Banke ständig verkehrt, und
-Banke sei Doktor Gellings Vater. Nur die Zahlung dort
+Banke sei Doktor Gellings Vater. Nur die Zahlung von
 fünfzigtausend Mark würde Menk den Mund verschließen.
-—» Ich war derart verzweifelt und verwirrt, daß ich Jahnke
+— Ich war derart verzweifelt und verwirrt, daß ich Jahnke
 befahl, Menk in Papas Arbeitszimmer zu führen. Ich
 wollte mich erst etwas beruhigen und zu irgendeinem Entschluß
-kommen. Papa besitzt ja nur rote etwa hundertfünfzigtausend
-Mark, und …
+kommen. Papa besitzt ja nur noch etwa hundertfünfzigtausend
+Mark, und …«
 
 Harald winkte ihr freundlich zu.
 
 »Regen Sie sich nicht auf, Fräulein Thea … Sie
-hielten Jahnke immer noch für den selbstloS-ergebenen alt bewährten
+hielten Jahnke immer noch für den selbstlos-ergebenen altbewährten
 Hausgenossen. In Wahrheit hat er wohl schon
-mehrere Erpresser« oder Drohbriefe an Ihren Vater geh
-Langen lassen, der ihn auch nicht durchschaute …«
+mehrere Erpresser- oder Drohbriefe an Ihren Vater gelangen
+lassen, der ihn auch nicht durchschaute …«
 
-»Bier,« sagte Hofrat Larnay seufzend, »vier Drohbriefe
+»Vier,« sagte Hofrat Larnay seufzend, »vier Drohbriefe
 von Menk, aus dem Zuchthaus scheinbar herausgeschmuggelt
-—» ähnlichen Inhalts. Ich fand sie stets im Briefkasten
+— ähnlichen Inhalts. Ich fand sie stets im Briefkasten
 — ohne Marke. Ich war dadurch sehr nervös geworden,
 und allmählich reifte der Entschluß in mir, mit Menk
 abzurechnen. deshalb meine Rolle als Hugo Abel … —
-Ja, mein Kind,« er drückte Theas Hand, »ich Ware beinahe
-zum ’Mörder geworden … — — Menk hatte sich im vorletzten
+Ja, mein Kind,« er drückte Theas Hand, »ich Wäre beinahe
+zum Mörder geworden … — — Menk hatte sich im vorletzten
 Brief für gestern mittag angemeldet. Ich … wollte ihn
-erschießen … « «- Ich hatte die Gelegenheit dazu, denn ich
-war mit ihm — als Abel — hier allein … Störte,
-als im am Fenster stand und Menk mir gerade höhnisch
+erschießen … Ich hatte die Gelegenheit dazu, denn ich
+war mit ihm — als Abel — hier allein … Ich hörte,
+als ich am Fenster stand und Menk mir gerade höhnisch
 zuflüsterte, daß ich Larnay sei und kein Monteur, das Surren
 einer Kugel und draußen einen schwachen Knall … Ein
 Motorrad knatterte gerade auf der Straße vorüber …
-Menk sank tot um, Jahnke stürzte herein und!Pielte« mich
-Weg … Der Bettelbrief lag auf dem Schreibtisch …
-Dornen schluckte an Tränen »… »G8 … war … erst
+Menk sank tot um, Jahnke stürzte herein und schickte mich
+weg … Der Bettelbrief lag auf dem Schreibtisch …«
+Larnay schluckte an Tränen … »Es … war … entsetzlich
 <@pagebreak/>
-schlich … Ich eilte durchs das unbebaute Grundstück in den
+… Ich eilte durch das unbebaute Grundstück in den
 Pavillon, wurde wieder Larnay, nahm die Puppe aus der
 Hängematte … Ich … ich … glaubte, du, mein Kind,
 hättest geschossen … Erst später ahnte ich, daß …«
 
 Er drehte sich zu Doktor Gelling hin …
 
-»Das ich ahnte, lieber Gelling, bedarf ’einer Vorbemerskung
+»Was ich ahnte, lieber Gelling, bedarf einer Vorbemerkung
 … Ich hatte Ihren Vater, den einzigen wahrhaft
 treuen Freund aus besseren Zeiten, am Abend nach seiner
 Entlassung, also vorgestern gesprochen und ihm alles über
@@ -2524,7 +2519,7 @@ mit uns hier in den Park geschlichen und hatte vorher
 Ihren Gewehrstock gefunden … Er stand drüben hinter
 dem Taxusrondell … Er tat’s aus Dankbarkeit gegen
 Herrn Larnay. Menk war ein Scheusal, der selbst seinen
-bis dahin braven Vater ausgesetzt und verdorben hatte …«
+bis dahin braven Vater aufgehetzt und verdorben hatte …«
 
 Jakob Jahnke regte sich, fuhr halb empor, stierte wild
 um sich und röchelte, während sein Gesicht immer mehr
@@ -2533,21 +2528,21 @@ verfiel:
 »Herr … Hofrat, — als … ich … meinen Sohn
 tot … vor mir sah, da … da … kam schon die
 Reue … Und … und … weil ich annahm, Sie hätten
-ihm getötet, und weil ich …«
+ihn getötet, und weil ich …«
 
-Er sank zurück … Sein Körper gute, — — er lag
-Stil. Ein Lächeln schien um seinen Mund zu schweben,
+Er sank zurück … Sein Körper zuckte, — — er lag
+still. Ein Lächeln schien um seinen Mund zu schweben,
 genau wie bei Jolly Banke, — ein Lächeln der Erlösung …
 
-Harald führte des Toten Geständnis zu Ende, »Es bleibt
-»ie eine Frage offen, weshalb Jahnke nach seiner Flucht
-mit dem Auto auf dem Rade und dal8 Abel maskiert Ihren
-Freund. Gelling erschoß, Herr Hofrat … Gewiß, er hatte
-roh seine Intrigen gegen Sie bereut … Aber als er
+Harald führte des Toten Geständnis zu Ende. »Es bleibt
+die eine Frage offen, weshalb Jahnke nach seiner Flucht
+mit dem Auto auf dem Rade und als Abel maskiert Ihren
+Freund Gelling erschoß, Herr Hofrat … Gewiß, er hatte
+wohl seine Intrigen gegen Sie bereut … Aber als er
 nachher feststellte, daß nur der alte Gelling den Schuß —
 <@pagebreak/>
 aus größerer Entfernung — abgegeben haben konnte, mag
-bei ihm zweierlei als bestimmendes »Motiv mitgewirkt habe;
+bei ihm zweierlei als bestimmendes Motiv mitgewirkt haben:
 Einmal wollte er seinen Sohn rächen, dann aber wollte
 er auch dadurch, daß »Abel« Banke am hellen Tage zu
 einer Zeit tötete, als Sie daheim waren und mithin nicht
@@ -2556,21 +2551,22 @@ daß die volle Wahrheit niemals an den Tag käme
 und Sie für alle Zeit geschützt seien. — Jahnke ist tot.
 Er selbst kann nichts mehr erklären, aber ich denke, meine
 Annahme hinsichtlich seiner Beweggründe dürfte zutreffen.
-Das Drama ist damit beendet …
+Das Drama ist damit beendet …«
 
 Doktor Gelling und Thea verließen still das Zimmer …
 Arm in Arm sah ich sie im Mondlicht über den Hauptweg
-des Parkes wandeln. Dann blieben sie stehen, und all
-Herward Helling Ihres blassen Mund küßte, Frühe Heirat
-Larnay dem toten Jahnke stumm und schmerzbe::legt
+des Parkes wandeln. Dann blieben sie stehen, und als
+Herward Gelling Theas blassen Mund küßte, drückte Hofrat
+Larnay dem toten Jahnke stumm und schmerzbewegt
 die gebrochenen Augen zu …
 
 <@pagebreak/>
-Nächster Band:
-Irinas Verhängnis.
 
-Abseits vom Alltagswege
+<#import "*/harst.ftl" as harst>
+<@harst.naechsterband band="Irinas Verhängnis."/>
 
-vergessen Sie bitte nicht
-das neue Heft zu lesen.
+<p style="margin-top: 5em; font-size: xxl;">Abseits vom Alltagswege</p>
+
+<p style="text-align: centered; white-space: pre-wrap; font-size: xl;">Vergessen Sie bitte nicht
+das neue Heft zu lesen.</p>
 
