@@ -1,4 +1,7 @@
-<@pagebreak 3/>
+<@pagebreak/>
+
+<#import "*/harst.ftl" as harst>
+<@harst.introshort/>
 
 <h1>Irinas Verhängnis</h1>
 
@@ -6,13 +9,13 @@
 
 <h3>Irina und ihre Gäste.</h3>
 
-Die bildoscezöne Irina Vanderkott, die sich als Filmdiva
+Die bildschöne Irina Vanderkott, die sich als Filmdiva
 Irina Kotty genannt hatte, war nach dem bösen Autounfall,
-der ihren rechten Fuß um drei … Zentimeter verkürzte, für
+der ihren rechten Fuß um drei Zentimeter verkürzte, für
 die große Welt und die Filmateliers tot — erledigt. Nur
 ein kleiner Kreis ihrer Getreuen genoß noch die Gunst, in
 ihrer Villa empfangen zu werden. In der Öffentlichkeit sah
-man Irina nur noch in ihrem eleganten Auto. auf entlegenen
+man Irina nur noch in ihrem eleganten Auto auf entlegenen
 Waldwegen der schönen Umgebung Berlins, von
 der die Fremden so wenig wissen.
 
@@ -21,147 +24,133 @@ Harstschen Grundstück und ihrer Villa liegt nur noch das
 bescheidene kleine Häuschen Doktor Pingallis, des bekannten
 Privatgelehrten, — eines Sonderlings aus verklungenen
 Zeiten. Weder Irina noch Pingalli unterhielten zu uns
-höhere Beziehungen. Wir standen auf Grüßfuß, das war
+nähere Beziehungen. Wir standen auf Grüßfuß, das war
 alles. Irina hatte, so lange sie nicht lahm war und nicht
 die Narbe am Kinn ihr liebliches Gesicht verunstaltete, über
 uns beide mit der oberflächlichen Anmaßung so junger
 Filmgrößen hinweggesehen, und Richard Pingalli wieder
 <@pagebreak/>
-war zu mernschenscheu und zu sehr strenger Wisensäzasti«
-als daß ihm unsere Vagadbunoenuaturen zusagen Konnten,
+war zu mernschenscheu und zu sehr strenger Wissenschaftler
+als daß ihm unsere Vagabundennaturen zusagen Konnten,
 
-Das alles sollte sich mit einen Königs anderen. Herr«
-Bette freilich Idiot wach Du Jt; Deck Berg galt, Es
-betroffen und das ihr den Euer »Zug Ei ne Wiese 86811
-Narbe eingetragen, etwas Weich 0 gewählt uns In,
-Meinte geringe Verlor 202383 ehe Feld rast Habe
-gewürdigt, Aber gesprochen haften wie Fingern mit ins Ei
-und elf es geschah, war es Wacht mit Verlag in Ihn
-aufgeht. —
+Das alles sollte sich mit einem Schlage anderen. Irina
+hatte freilich schon nach dem schweren Verhängnis, das sie
+betroffen und das ihr den lahmen Fuß und die tiefe Kinnarbe
+eingetragen, etwas freundlicher gegrüßt und sogar
+meine geringe Person zweimal eines freundlichen Lächeln
+gewürdigt. Aber gesprochen hatten wir bisher mit ihr nicht
+und als es geschah, war es Nacht und Irina in Tränen
+aufgelöst. —
 
-Es war zwei Tage nach der wühlt von Aujflärtiin
-des Doppcelmorces MenkGSolliig. Dir Gatten Uacczatitti: 7,
-wieder einsah bei Cla36:0 in der Havel geangelt, Ware:
-durch ein Gewitter überrascht Worten Ab Bruder bereit:
-un am Uhr wieder daheim. &I wurde ein beidigläi ie
-Abend Mr Haralds Mittel, der Gesetzt Stöcke aus die
-wir saßen im Wintergarten und Harst l3a5 Teile aus Mal
-deiner Bengels wunderbarer Indiens ht vor. Die höflich …«
-Schöntat der Sprache Begierig, die eiitoruunvelle Art sich ich
-Charakterisierung, Die einzigartige Witschauliczieit seiner Hin:
-turschilderungen Betten stillen ’Neiod ist wir. Vorhalle (ij
-eilt großer Künstler, ich bin nur ein armse’izer Chronist, sei
-das beste Wollen hat, dein aber das Können versagt ist
+Es war zwei Tage nach der nächtlichen Aufklärung
+des Doppelmordes Menk-Gelling. Wir hatten nachmittags
+wieder einmal bei Cladow in der Havel geangelt, waren
+durch ein Gewitter überrascht Worden und daher bereits
+um acht Uhr wieder daheim. Es wurde ein behaglicher
+Abend mit Haralds Mutter, der Regen störte uns nicht,
+wir saßen im Wintergarten und Harst las Teile aus Waldemar
+Bonsells wunderbarer Indienfahrt vor. Die köstliche
+Schönheit der Sprache Bonsells, die eindrucksvolle Art seiner
+Charakterisierungen, Die einzigartige Anschaulichkeit seiner
+Naturschilderungen, weckten stillen Neid in mir. Bonsells ist
+ein großer Künstler, ich bin nur ein armseliger Chronist, der
+das beste Wollen hat, dem aber das Können versagt ist
 
 Es war der 29. Juni. Man erinnert sich unschwer dieser
 Schwülen Nacht, in der andauernd in der ferne Gewitter
-grollten und ein lauwarmer Gegen die Wachsende Er
-träufte. Gegen elf zog sich Haralds Mutter nach oben h1
-ihre Räume zurück, küßte ihren großen Jungen Dich drauf,
-mir herzlich die Hand, Sie war ja stets so sie), mein wir
-unruhigen Geister einmal daheim bliebe und nicht unser,
-Haut aus Äbenteuerlujt au8wäirt5 zu Markte drücken.
+grollten und ein lauwarmer Regen die dürstende Erde
+tränkte. Gegen elf zog sich Haralds Mutter nach oben in
+ihre Räume zurück, küßte ihren großen Jungen und drückte
+mir herzlich die Hand. Sie war ja stets so froh, wenn wir
+unruhigen Geister einmal daheim blieben und nicht unsere
+Haut aus Abenteuerlust auswärts zu Markte trugen.
 
-Wir beide gingen in LjJarulds Nebeits33ummer Glaube
-Vor ein Uhr lagerten wir den friedlich leer Prunk. Wir brauche
-wenig Schlaf. Schlafen ist Angewohnheit, Harst saß zu
-Schreibtisch; und klebte Zeitungsausschnitte in unsere Kammer
-
+Wir beide gingen in Haralds Arbeitszimmer hinüber.
+Vor ein Uhr meiden wir den friedlichen Pfühl. Wir brauchen
+wenig Schlaf. Schlafen ist Angewohnheit. Harst saß am
+Schreibtisch und klebte Zeitungsausschnitte in unsere Sammelbände
 <@pagebreak/>
-Ich faulenzte im Klubsessel am Kamin. Das
+ein. Ich faulenzte im Klubsessel am Kamin. Das
+Zimmer war bald grau von Rauch. Wir sind Nikotinverehrer.
 
-Bande ein.
-bald glatt von Rauch. Wir sind Nikotin
+Dann klirrte und quietschte draußen die Vorgarten
+Pforte — es läutete, und ich ließ Irina Kotty ein. Sie hatte
+nur einen Seidenmantel übergeworfen, sie war sehr bleich
+und sank sofort in einen Sessel und weinte völlig fassungslos.
 
-Kutter war
+»Ganotta ist soeben Bei mir erschossen worden …« rief
+sie Dann verzweifelt. »Felix Ganotta, der Legationsrat …
+Bitte — bitte — — kommen Sie mit …! Ich habe die Polizei
+schon verständigt …«
 
-gerettet.
-nun irrte Mund quietschte draußen die Vorgarten
-
-Pforte es hütete, und ist) lies Irina Notiz ein. Sie hatte
-mir einen Seidenmantel übergeworfen, sie war sehr bleich
-und sank Büschel in einen Sessel und« weinte völlig Bassins«
-zog.
-»Ganotta ist soeben Bei mir ergänzten worden …« rief
-sich? Dann verzweifelt. »Stil Ganotta, der Legationsrat …
-Bitte bitte — — »fangen Sie mit…! Ich habe die Polizei
-schon verständigt …
-
-Ihr begleiteten sie: denn auch In Salon ihrer Villa
+Wir begleiteten sie denn auch. Im Salon ihrer Villa
 fanden wir vier verstörte Herren im Abendanzug vor,
 nebenan im Musikzimmer, dessen Fenster nach dem Garten
-hinausgingen, lag Ganotta neben drein Bechsteinflügel auf
+hinausgingen, lag Ganotta neben dem Bechsteinflügel auf
 dem Perserteppich mit einer Kugel im Herzen. Neben ihm
-kniete Medizinalrat Leugnen, den der Diener sofort im
+kniete Medizinalrat Kempner, den der Diener sofort im
 Auto geholt hatte.
-Leugnen erklärte achselzuckend, »daß der Tod augenblicklich
-eingetreten sein müsse, Der Schuß sei aus größerer
+
+Kempner erklärte achselzuckend, daß der Tod augenblicklich
+eingetreten sein müsse. Der Schuß sei aus größerer
 Entfernung abgegeben, und da die Fenster weit offen standen,
-müßte der Schüsse im Garten — gestanden haben,
+müßte der Schütze im Garten gestanden haben,
 
 Wir rührten nichts an, wir waren in der Tür zum
 Salon stehen geblieben und ließen uns nun von einem
 der Gäste Irinas das Nähere erzählen.
 
 Ich komme hierauf später zurück, möchte nur folgendes
-sofort anführen: Ganotta lag auf dem Rücken. Der Klavier
-Sessel war umgefallen und bedeckte seine Füße. Das Gesicht
-des Toten zeigte einen Ausdruck von Schiefes und Wut,
+sofort anführen: Ganotta lag auf dem Rücken. Der Klaviersessel
+war umgefallen und bedeckte seine Füße. Das Gesicht
+des Toten zeigte einen Ausdruck von Schreck und Wut,
 wie ich ihn so deutlich kaum je in den erstarrten Zügen
-eines Ermordeten bemerkt habe. Sowohl der Der der
-Klaviatur als auch der des »Flügels selbst waren geöffnet,
-letzterer in unsicher Weise abgestützt, Auf beim Notenhalter
-lehnte ein Bodenbrett, ein moderner Schlager: »Und ist
+eines Ermordeten bemerkt habe. Sowohl der Deckel der
+Klaviatur als auch der des Flügels selbst waren geöffnet,
+letzterer in üblicher Weise abgestützt. Auf dem Notenhalter
+lehnte ein Notenblatt, ein moderner Schlager: »Und ist
 <@pagebreak/>
 mein Herz auch noch so klein, es reicht bestimmt zum Glücklichsein.«
 Welch bittere Ironie war das!!
 
 Nun die Wunde,
 
-Fakir Glotzte trug zum Smoking ein halbweiches
-weißes Oberhemd. An der Stelle des Herzens hakte der
-Hemdeinsatz ein kleines Loch mit nach innen gedrückten Räte
-denn. Blut war nicht zu bemerken. Der Arzt hatte das Hemd
-noch erfolgter Untersuchung wieder zugeknöpft. Die tödliche
-»Wunde fraß genau im Herzen
-
+Felix Ganotta trug zum Smoking ein halbweiches
+weißes Oberhemd. An der Stelle des Herzens hatte der
+Hemdeinsatz ein kleines Loch mit nach innen gedrückten Rändern.
+Blut war nicht zu bemerken. Der Arzt hatte das Hemd
+nach erfolgter Untersuchung wieder zugeknöpft. Die tödliche
+Wunde saß genau im Herzen und dicht am Rande des
 Westenausschnitts.
-las Musikzimmer hatte zwei Fenster. Beide standen
 
-offen. Ich hörte draußen den Gegen plätschern und dar
-Menschen der Bäume, Ich kannte den Balken von Ansehen,
+Das Musikzimmer hatte zwei Fenster. Beide standen
+offen. Ich hörte draußen den Regen plätschern und das
+Rauschen der Bäume. Ich kannte den Garten von Ansehen,
 denn auch er stieß an den Feldweg, der am Laubengelände
-entlanglief. Er war Dampfer als der unsrige, das ganze
+entlanglief. Er war schmaler als der unsrige, das ganze
 Grundstück und die Villa kleiner. Sie hatte nur sieben
-
 Zimmer.
 
 Sowohl die Klavierlampe als auch die Deckenbeleuchtung
-
 und die elektrische Krone brannten, und diese blendende
-Helle mußten es dem Meuchelmörder Zeit gemacht haben,
-von draußen sicher zu zielen. :— Im übrigen wäre über
+Helle mußten es dem Meuchelmörder leicht gemacht haben,
+von draußen sicher zu zielen. — Im übrigen wäre über
 den Tatort nichts zu sagen.
 
 Harst hatte, genau wie ich, all diese Einzelheiten sich
 genau eingeprägt. Sie schienen wenig bedeutungsvoll, und
-doch« gaben sie die Unterlagen für Bastmatte Schlüsse, die
+doch gaben sie die Unterlagen für bestimmte Schlüsse, die
 später außerordentlich wichtig werden sollten.
 
 Harald und ich eilten nun zunächst in den Garten,
 bevor etwa der Regen die Spuren des Schützen und Mörders
-völlig vorausschicken hätte. Wir hatten unsere Taschenlampen
-mit, und da der Wegen nur schwach war, fanden
-wir mich auf dem Hauptwege neben einer Fontäne mit
-hohem Bassinrand eine Steine, wo jemand längere Zeit gen
-
-standen haben mußte. Der nasse Kies war zertreten und,
-
-der Rand des Bassins zeigte eine Menge Eisstücken: Der
-Mörder war auf das Bassin gestiegen. und konnte nur von
-
-und dicht am Rande Seh’
-
+völlig verwaschen hätte. Wir hatten unsere Taschenlampen
+mit, und da der Regen nur schwach war, fanden
+wir auch auf dem Hauptwege neben einer Fontäne mit
+hohem Bassinrand eine Stelle, wo jemand längere Zeit gestanden
+haben mußte. Der nasse Kies war zertreten und
+der Rand des Bassins zeigte eine Menge Kiesstückchen: Der
+Mörder war auf das Bassin gestiegen und konnte nur von
 <@pagebreak/>
 dort gefeuert haben. Vom Wege selbst war ein freier Einblick
 in das Zimmer unmöglich, wie wir sofort gesehen
@@ -169,389 +158,389 @@ hatten,
 
 Die Fährte des Täters war jedoch nirgends so klar ausgeprägt,
 daß man sie hätte messen können, sie war nur
-recht groß, — der Mem mußte mindestens Schuhgröße 87
+recht groß, — der Mensch mußte mindestens Schuhgröße 47
 haben. Sie ließ sich bis zum Feldweg verfolgen, hier verschwand
 sie. Der Mörder war über den Zaun geklettert und
 schien oben auf dem Zaun die Stiefel ausgezogen zu haben
-und auf dem Bootsrand des Weges geflüchtet zu sein.
+und auf dem Grasrand des Weges geflüchtet zu sein.
 
 Wir kehrten ins Haus zurück, und Harald telephonierte
-sofort alt die Polizei und bestellte einen Polizeihund nebst
+sofort an die Polizei und bestellte einen Polizeihund nebst
 Führer. —
 
-Ich kann die nächsten zwei Stunden übergehen, Die
-Arbeit einer Mordkommission ist stets dieselbe, Irina Hatte
-Deckel und ihre Gäste gaben ihre Aussägen zu Protokoll, — —
-der Polizeihund Vorhalle wegen des reichlich fallenden
-Regens und genau um halb »zwei morgens waren wir
+Ich kann die nächsten zwei Stunden übergehen. Die
+Arbeit einer Mordkommission ist stets dieselbe. Irina Vanderkott
+und ihre Gäste gaben ihre Aussagen zu Protokoll, —
+der Polizeihund versagte wegen des reichlich fallenden
+Regens und genau um halb zwei morgens waren wir
 wieder daheim. Der Fall schien ziemlich aussichtslos. Irina
-hatte betont, daß Legationorat Ganotta kaum einen Feind
+hatte betont, daß Legationsrat Ganotta kaum einen Feind
 besäße, und die anderen Herren pflichteten ihr bei: Ganotta
 war ein liebenswürdiger harmloser Lebemann, alles andere
-als ein Wöüstling, sogar ein sehr gediegener Charakter, eine
-durch und durch) vornehme Natur, —
+als ein Wüstling, sogar ein sehr gediegener Charakter, eine
+durch und durch vornehme Natur, —
 
-Leid nun mag der Leser sich im Geiste in Harst’s Arbeitszimmer
+Und nun mag der Leser sich im Geiste in Harst’s Arbeitszimmer
 versetzen … Harst lehnte im Klubsessel am Kamin,
-ich halte den zweiten Sessel inne, zwischen uns stand das
-Rauchtischchen mit der dampfenden Mokkamaschine, Tasten
-und Zuckerdofe und Sahnennäpschen, Aschbecher und Zigarettenkasten.
-Ich hoffte einen großen Notizblock bei der
+ich hatte den zweiten Sessel inne, zwischen uns stand das
+Rauchtischchen mit der dampfenden Mokkamaschine, Tassen
+und Zuckerdose und Sahnennäpfchen, Aschbecher und Zigarettenkasten.
+Ich hatte einen großen Notizblock bei der
 Hand, dazu einen spitzen Bleistift. Harald diktierte, ich
 schrieb …
 
-»— Irina Banderlkott, ledig, 24 Jahre, gebürtig aus
-Magdeburg, Kind armer Eltern, zuerst Mitglied erster
-Domenkapkie, Kann. deren. Dirigentin, weit gereist. mit
+»… Irina Vanderkott, ledig, 24 Jahre, gebürtig aus
+Magdeburg, Kind armer Eltern, zuerst Mitglied einer
+Damenkapelle, dann deren Dirigentin, weit gereist, mit
 <@pagebreak/>
-Zwanzig für den Film entdeckt, schneller Ausstieg, Star
-der Gelbbaum-Gesellschaft, ein Jahr in Hollyiwvod, dann
-wieder ist Berlin, Partie vor einem Jahr die Will Wliiclyerstraße
-Nr. 12, verunglückt im April dieses Hageres bei
-Autofahrt, muß Filmkarriere aufgeben, da intim und durch
-Singende entstellt. Lebt umgeht völlig zunutze zogen, besitzt
-Vermögen von rund einer halben Mithin, verzehrt
-nur noch mit einigen. Gelangten., — Personal ihrer Villa:
-Lose, Diener, Chauffeur, Köchin, — alle vier seit drei
-Jahren in ihren Dienstzeit:. — Tadelloser Ruf, Spigzname:
-Die kalte Laut. »Draisine/fke Bewerber waren Fakir Beamte
-ins Doktor Wort Mr der.«
+Zwanzig für den Film entdeckt, schneller Aufstieg, Star
+der Gelbbaum-Gesellschaft, ein Jahr in Hollywood, dann
+wieder in Berlin, kaufte vor einem Jahr die Villa Blücherstraße
+Nr. 12, verunglückt im April dieses Jahres bei
+Autofahrt, muß Filmkarriere aufgeben, da lahm und durch
+Kinnarbe entstellt. Lebt nunmehr völlig zurückgezogen, besitzt
+Vermögen von rund einer halben Million, verkehrt
+nur noch mit einigen Bekannten. — Personal ihrer Villa:
+Zofe, Diener, Chauffeur, Köchin, — alle vier seit drei
+Jahren in ihren Diensten. — Tadelloser Ruf, Spitzname:
+Die kalte Kotty. — Ernsthafte Bewerber waren Felix Ganotta
+und Doktor Horst Ritschel.«
 
-Harald trank seine Tasse leer, im? rauchte drei Züge …
+Harald trank seine Tasse leer, ich rauchte drei Züge …
 
 »Am 29. Juni hat Irina fünf Herren zum einfachen
 Abendessen gebeten:
 
-1, Felix Angelte, Legationsrat der finnischen Gesandtschaft
-f, Junggeselle, 33 Jahre, stattlicher, hübscher Mann,
-seit einem Straße Irina Bewerber.
+1. *Felix Ganotta*, Legationsrat der litauischen Gesandtschaft,
+Junggeselle, 33 Jahre, stattlicher, hübscher Mann,
+seit einem Jahr Irinas Bewerber.
 
-2, Heiter Harst Nitschel, Redakteur der Zeitschrift
-»Bild und Wort«, 39 Jahre, Junggeselle, Charakterkopf,
+2. Doktor *Horst Ritschel*, Redakteur der Zeitschrift
+»Bild und Wort«, 30 Jahre, Junggeselle, Charakterkopf,
 Spieler, Allerweltsgenie, verschuldet, — Irinas zweiter Bewerber.
 
-… 8. Direktor Fackel Hirsch von der Gelbbaum-«Filme.-
-G., 30 Jahre, verheiratet, kühler, geriebener Geschäftsmann.
+3. Direktor *Jakob Hirsch* von der Gelbbaum-Film-A.-G.,
+40 Jahre, verheiratet, kühler, geriebener Geschäftsmann.
 
-83\. Major a. D. Günther von Spitzen, Freunde
-vierzig, Junggeselle, Filiamscyansrieler dritter Güte, problematische
-Dazu, Heuchler, Mantelkragen.
+4. Major a. D. *Günther von Spitzer*, dreiundvierzig,
+Junggeselle, Filmschauspieler dritter Güte, problematische
+Natur, Heuchler, Mantelträger.
 
-Treiben?klingt, Filmschauspieler, 28 Jahre,
-netter, harmloser Monaten, Hüften Komödiant, Durchschnittsnatur,
+5. *Heribert Prank*, Filmschauspieler, 28 Jahre,
+netter, harmloser Mensch, guter Komödiant, Durchschnittsnatur.«
 
-—»- Harald nahm eine neue Zigarette und füllte unsere
+— Harald nahm eine neue Zigarette und füllte unsere
 Tassen …
 
-»Bach dem Selten begaben sich Irina und »die fünf
-
-Herren in den Salon. Man spielte um Amtes hat eilte 71
+»Nach dem Essen begaben sich Irina und die fünf
+Herren in den Salon. Man spielte um ganz harmlose Einsätze
 <@pagebreak/>
-ehe Kartentsotterie. Um elf blicke Irina den Legationsrat,
-ihr Bein See Schlager vorangingen, Sie begeben sieh’
-das Winsidztmager, die Schiebetür zum Salons bleibt offen,
-Doktor Ritschel fügt den beiden. Geliebte Anmut am »Flügel
-Pfg, Unseren greift sich) an das rechte Fenster des Anblicks
-Ihr aus könnt in Den Warten Hinaus, Schatz Schutz am
-Siegel, Saßnitz ging? und begleitet sich, Hört Plötzlich auf
-und stürzt ohne Einen Laut von sich zu geben vom studiere
-Zettel, Zitates Draht jäh Bin, springt zu uv0 kurz die halb
-ohnmächtige Orte gerade Not auffangen.«
+Kartenlotterie. Um elf bittet Irina den Legationsrat,
+ihr den neuen Schlager vorzusingen. Sie begeben sich in
+das Musikzimmer, die Schiebetür zum Salons bleibt offen.
+Doktor Ritschel folgt den beiden. Ganotta nimmt am Flügel
+Platz, Ritschel stellt sich an das rechte Fenster des Musikzimmers
+und schaut in den Garten hinaus, Irina lehnt am
+Flügel, Ganotta singt und begleitet sich, Hört Plötzlich auf
+und stürzt ohne Einen Laut von sich zu geben vom Klaviersessel.
+Ritschel dreht sich um, springt zu und kann die halb
+ohnmächtige Irina gerade noch auffangen.«
 
-Luft spielt, Rauch zwei Zuge und diktiert weiter:
+Harst trinkt, Raucht zwei Züge und diktiert weiter:
 
-»Miezuand bat den Schuß gehüllt. Da Eingang gerade eine
-(Steile des Liedes uns Pianissimo spielte, hätten sowohl
-Unsicher als auch Irina und die Herren im Salon den
-Schluß vernehmen müssen, falls dieser etwa im Au ikzimmer
-selbst oder dicht vor dem linken Fenster — am letzten stand
-Nitschel — abgefeuert worden wäre. —ck Der Polizeiarzt hat
+»Niemand hat den Schuß gehört. Da Ganotta gerade eine
+Stelle des Liedes ganz Pianissimo spielte, hätten sowohl
+Ritschel als auch Irina und die Herren im Salon den
+Schuß vernehmen müssen, falls dieser etwa im Musikzimmer
+selbst oder dicht vor dem linken Fenster — am rechten stand
+Ritschel — abgefeuert worden wäre. — Der Polizeiarzt hat
 die Kugel mit einer Zange unschwer herausziehen Können,
-da sie nur die eine Holzwand half durchschlagen Hatte. Diese
-Kugel ist ein Yielmantelgeschoß Kaliber 9,9 und zeigte
-im Kapitel die Eindrücke der Züge einer automatischen
-Pistole, — Hiernach bis es ausgeschlossen, daß eng eine
-geräuschlose Luftpistole verwendet wurde, oder dein Entweder
-— Irina oder Harst Ritschel den Schuß abgegeben haben unter
-Besatzung eines Schalldämpferg. Selbst ein Schuß mit
-Scdzalldämpfer hätte von den drei Herren im Salon gehört
+da sie nur die eine Herzwand halb durchschlagen Hatte. Diese
+Kugel ist ein Nickelmantelgeschoß Kaliber 6,9 und zeigte
+im Mantel die Eindrücke der Züge einer automatischen
+Pistole. — Hiernach ist es ausgeschlossen, daß etwa eine
+geräuschlose Luftpistole verwendet wurde, oder daß Entweder
+Irina oder Horst Ritschel den Schuß abgegeben haben unter
+Benutzung eines Schalldämpfers. Selbst ein Schuß mit
+Schalldämpfer hätte von den drei Herren im Salon gehört
 werden müssen. — Im Hintergarten wurden Spuren einer
-Person entdeckt, die auf den Rand der Fontäne gestiegen war,
-Bot! dort aus war der am Flügel sitzende Ganotta deutlich
+Person entdeckt, die auf den Rand der Fontäne gestiegen war.
+Von dort aus war der am Flügel sitzende Ganotta deutlich
 zu sehen und ein Schuß möglich!«
 
 Harald stand auf und begann im Zimmer hin und her
 zu gehen.
 
-»»—. Der Polizeihund versagte. Kommissar Doktor Lücke
-ließ auf dem Fontänenrand einen Pistolenschuß mit Schall
-verreist abgeben. Der dumpfe Knall wurde, obwohl Lücke
+»… Der Polizeihund versagte. Kommissar Doktor Lücke
+ließ auf dem Fontänenrand einen Pistolenschuß mit Schalldämpfer
+abgeben. Der dumpfe Knall wurde, obwohl Lücke
 <@pagebreak/>
-leise Klavier spielte, ix Salon deutlich gehört, — — Unterstreiche
-diesen Gut, rein. Alter, — Mitteln muß der Mörder
-sich einer Pistole bedient haben, die fast geräuiichlog war,
+leise Klavier spielte, im Salon deutlich gehört. — — Unterstreiche
+diesen Satz, mein Alter. — Mithin muß der Mörder
+sich einer Pistole bedient haben, die fast geräuschlos war,
 betonte Lücke.«
 
-Harst tippte mir auf die Chaussee …
+Harst tippte mir auf die Schulter …
 
-»Mama ein neues Blatt … Van konnten meinte persönlichen
+»Nimm ein neues Blatt … Nun kommen meine persönlichen
 Bemerkungen und Beobachtungen …«
 
 !endenden rum Lage
 
 <h2>2. Kapitel.</h2>
 <h3>Harsts Theorie.</h3>
+
 Ich schrieb wieder …
 
-… Man muß sich zunächst fragen: Weshalb holte Irina
-uns »zu sich, weshalb kam sie insbesondere persönlich und
-überließ es nicht Heribert Prank, uns bitnuvcczubitten. —
-Die Not! sei war gerufen worden, — Irina hätte uns doch
-weit einfacher telephonisch;, verständigt, Daß sie lediglich in
+»… Man muß sich zunächst fragen: Weshalb holte Irina
+uns zu sich, weshalb kam sie insbesondere persönlich und
+überließ es nicht Heribert Prank, uns hinüberzubitten. —
+Die Polizei war gerufen worden, — Irina hätte uns doch
+weit einfacher telephonisch verständigt. Daß sie lediglich in
 ihrer Verstörtheit zu uns gelaufen kam, wäre zu verstehen
-gewesen, wenn sie mit Ganotta allein gewesen wäre, Sie
+gewesen, wenn sie mit Ganotta allein gewesen wäre. Sie
 hatte jedoch Gäste, und die vier Herren standen ihr freundschaftlich
-sehr nahe. Prank jagte mir auch insgeheim, er
-habe ihr abgereist, uns zu holen, da wir da« Polizei nicht
-vorgreifen würden, Sie blieb« jedoch hartnäckig bei ihrem
+sehr nahe. Prank sagte mir auch insgeheim, er
+habe ihr abgeraten, uns zu holen, da wir der Polizei nicht
+vorgreifen würden. Sie blieb jedoch hartnäckig bei ihrem
 anfänglichen Entschluß und eilte davon. Ich fragte Prank,
 wie lange sie nach seiner Schätzung bei uns gewesen. Er
 erklärte, ihre Abwesenheit habe mindestens zehn Minuten
-gedauert, Bei uns hielt sie sich kaum drei Minuten aus,
-für den Hin!« und Rückweg rechne ich je eine Minute, das
-sind im Döchitfalle sei Minuten, Vier Minuten also verbrachte
-ie anderswo mit ernannt anderen Vorhaben. — Anders
-streiche auch diesen Satz. — Was tat sie in diesen mindestens
+gedauert. Bei uns hielt sie sich kaum drei Minuten auf,
+für den Hin- und Rückweg rechne ich je eine Minute, das
+sind im Höchstfalle sechs Minuten. Vier Minuten also verbrachte
+sie anderswo mit einem anderen Vorhaben. — Unterstreiche
+auch diesen Satz. — Was tat sie in diesen mindestens
 vier Minuten?! Das wäre unbedingt von uns aufzuklären,«
 
 Ich blickte auf. »Du hegst Verdacht gegen sie?«
-»AUbwarz:en, mein Alter … — Weiter also. Schreibe …
 
+»Abwarten, mein Alter … — Weiter also. Schreibe …
 <@pagebreak/>
-
-—. Irinas VBVerstörtheit wir’te Tuchmütze üuüngefünlteit, St? War
-»Gezweifelt, vollfommuern verwirrt und gab sich so, wie es
-52u Umständen »sprach, Ein Argwohn gegen sie Kanu sowohl
-Aas Diesem Fragte als auch deshalb nie aufkommen,
-»Sir sie alltäglich den Schuß abgegeben Haben Dann. Sie
-Kugel stimmt aus euer automatiiäen Pistole, die Eindrücke
-her Zug Des Berufes An Viertel des Geschosses sind ein Unweastöhliczer
-Beweis, — Anderseits ist folgendes. Je Virtuosen,
-Das im ebensolche Heribert Dran? verdanke. In Schmerz
-waren hoben dielgiven: Stille schon häufiger ein hatnuoscs
-Spielchen gemacht. Strafe Prank, 5h der Spieltisch immer
-Forts vor Arm Terrain aufgestellt worden sei, weit wo aus
-ein Blick in bis Wusitfzäimmer nicht möglich) ist. Pro?! er
-widerte unbefangen, der Spieltisch habe sonst stets vor »Nu
-Wanundsofa als gefunden. Wink hat Irina an dient
-Abend den Tisch anders stellen Wissen. — Prank gab auch
-zu, daß Irina ihn, Spitzen und Direktor Ins bei, das
-Spiel fortzusetzen, während Ganotta ihr das Chye’!fon vortragen
-sollte, Dieselbe Aufforderung galt auch für Doktor
-Tisches, der sich jedoch als eifersüchtiger Verehrer Irinas
+— Irinas Verstörtheit wirkte durchaus ungekünstelt. Sie War
+verzweifelt, vollkommen verwirrt und gab sich so, wie es
+den Umständen entsprach. Ein Argwohn gegen sie kann sowohl
+aus Diesem Grunde als auch deshalb nicht aufkommen,
+weil sie unmöglich den Schuß abgegeben Haben kann. Die
+Kugel stammt aus einer automatischen Pistole, die Eindrücke
+der Züge Des Laufes im Mantel des Geschosses sind ein unumstößlicher
+Beweis. — Anderseits ist folgendes hervorzuheben,
+Das ich ebenfalls Heribert Prank verdanke. In Irinas
+Salon haben dieselben Gäste schon häufiger ein harmloses
+Spielchen gemacht. Ich fragte Prank, ob der Spieltisch immer
+rechts vor dem Ecksofa aufgestellt worden sei, von wo aus
+ein Blick in bis Musikzimmer nicht möglich ist. Prank erwiderte
+unbefangen, der Spieltisch habe sonst stets vor dem
+Wandsofa links gestanden. Mithin hat Irina an diesem
+Abend den Tisch anders stellen lassen. — Prank gab auch
+zu, daß Irina ihn, Spitzer und Direktor Hirsch bat, das
+Spiel fortzusetzen, während Ganotta ihr das Chanson vortragen
+sollte. Dieselbe Aufforderung galt auch für Doktor
+Ritschel, der sich jedoch als eifersüchtiger Verehrer Irinas
 nicht danach richtete und ebenfalls ins Musikzimmer ging.
 Prank hörte, wie Irina ihm halblaut zurief: »Sie sollten
-meine Wünsche mehr respektieren, Doktor …! Ganotta Sinai
-allein für nicht« Dies mag Fischer schwer gekränkt haben,
-deshalb stellte er sich mit dem Rücken nach dem  Linien zu
+meine Wünsche mehr respektieren, Doktor …! Ganotta Singt
+allein für mich!« Dies mag Ritschel schwer gekränkt haben,
+deshalb stellte er sich mit dem Rücken nach dem Zimmer an
 das eine Fenster. — Man gewinnt hieraus den Eindruck,
-laß Irina mit Ganotta im MWMusikzimmer allein und uns
-beobachtet sein wollte. Hat also Irina etwa nur deshalb
+daß Irina mit Ganotta im Musikzimmer allein und unbeobachtet
+sein wollte. Hat also Irina etwa nur deshalb
 Ganotta um den Vortrag des Chansons gebeten, um ein
-Alleinsein mit ihm herbeizuführen 8!«
+Alleinsein mit ihm herbeizuführen?!«
 
 »Einen Augenblick …!« Ich mußte ein neues Blatt
 nehmen. Selten wohl habe ich mit solcher Spannung Haralds
-Ausführungen niedergeschrieben. Er war zu den Tisch getreten,
+Ausführungen niedergeschrieben. Er war an den Tisch getreten,
 trank einen Schluck Kaffee und fuhr fort:
 
-»Ich hatte Gelegenheit, Doktor Nitschel unverfänglich zu
+»Ich hatte Gelegenheit, Doktor Ritschel unverfänglich zu
 <@pagebreak/>
-fragen, ob er denn nicht vorn seinem Fenster aus im Garten
-etwas geschehen oder gehört hält, GC: Zigarette mit Der Antwort,
-Schließlich erwiderte er; »Farmen früh detäuscd:f haust,
--ck» es war ja sehr dunkel Frau he Eber mir frei«, ach ab
-eine Frau neben bei »Tot. die in Nie sich alt bestimmt,
-Ich bei: sie mich) deshalb und allein jene hat, um
-besser setzen zu können, Da hörte ich vi Geleert. des um
-stürzenden xUuvierseijels und ne Männlein Strauch, By dem
-Ganotta auf den Teppich) fiel. Steine wich um, Irina
-stand am;Flüzel und kannst?! mir heult: weil in die
-Arme.« Untätiger hat dies die Selbst an der Fontäne —
-erst der Polizei gegenüber Gewähr:;, nachdem ich ihm darauf
-hingewiesen, das sei da sei ei. bis. — Ich gewann der
-Eindruck, das Nitschel Noch etwas verjdzwnegen bat, irgendeinen
-vielleicht geringfügigen »Uiüjiano, der ihm jedoch wert
-länglich erscheinen mag. Er ist als früherer Gertytvreporter
-Friminaliiiicchh. gut vorgebildet und. hat wiederholt als
-Aimaieurdeieltiv große Erfolge gehabt. Dabei ist er keine ganz
-einwaäandjreie Persönlichkeit. Auf seine Angaben ist kein
+fragen, ob er denn nicht von seinem Fenster aus im Garten
+etwas gesehen oder gehört hätte. Er zögerte mit Der Antwort.
+Schließlich erwiderte er: »Ich kann mich getäuscht haben,
+— es war ja sehr dunkel draußen, aber mir schien’s als ob
+eine Frau neben der Fontäne stand. Eine Gestalt bestimmt,
+Ich beugte mich deshalb auch weit zum Fenster hinaus, um
+besser sehen zu können. Da hörte ich das Poltern des
+umstürzenden Klaviersessels und der dumpfe Krach, mit dem
+Ganotta auf den Teppich fiel. Ich drehte mich um, Irina
+stand am Flügel und taumelte mir halb bewußtlos in die
+Arme.« Ritschel hat dies — die Gestalt an der Fontäne —
+erst der Polizei gegenüber erwähnt, nachdem ich ihn darauf
+hingewiesen, das sei doch sehr wichtig. — Ich gewann den
+Eindruck, daß Ritschel Noch etwas verschwiegen hat, irgendeinen
+vielleicht geringfügigen Umstand, der ihm jedoch verfänglich
+erscheinen mag. Er ist als früherer Gerichtsreporter
+kriminalistisch gut vorgebildet und hat wiederholt als
+Amateurdetektiv große Erfolge gehabt. Dabei ist er keine ganz
+einwandfreie Persönlichkeit. Auf seine Angaben ist kein
 Verlaß. Man sagt ihm nach, das er großzügiger Bestechung
-zu Guthaben sein soll. Man wird ihn nicht aus den Augen
-Kassen dürfen. Seine Behauptung, er hätte Seinen Schuß
+zugänglich sein soll. Man wird ihn nicht aus den Augen
+lassen dürfen. Seine Behauptung, er hätte keinen Schuß
 gehört, dürfte nicht stimmen. Er, der am offenen Fenster
-stand, drohend sich dem Mörder am nächsten, und dieser
-feuerte ohne Zweifel von der. Fontäne aus.«
+stand, befand sich dem Mörder am nächsten, und dieser
+feuerte ohne Zweifel von der Fontäne aus.«
 
 Harald setzte sich nieder und bedeckte die Augen mit der
-linken Hand, — wohl um seine Gedanken noch scharfer zu
+linken Hand, — wohl um seine Gedanken noch schärfer zu
 Konzentrieren,
 
-»-.- Ziehen wir aus allem das Fazit, so Kanu man soll«
-sende Theorie aufstellen: Irina, die kalte Zeit, hat einer
-heimlichen Liebhaber, vielleicht einen verheirateten Wann,
-dessen Frau Ihr bereits Derohbriefe geschickt haben mag.
-Diele Frau fürchtete Irina, Schafstall Dieb Irina, um vor
+»… Ziehen wir aus allem das Fazit, so kann man folgende
+Theorie aufstellen: Irina, die kalte Kotty, hat einen
+heimlichen Liebhaber, vielleicht einen verheirateten Mann,
+dessen Frau Ihr bereits Drohbriefe geschickt haben mag.
+Diese Frau fürchtete Irina, deshalb ließ Irina, um vor
 heimtückischen Schüssen sicher zu sein, den Spieltisch in die
-&Ecke steilen. Sie vermutete gerade für diesen Abend eine
+Ecke stellen. Sie vermutete gerade für diesen Abend eine
 <@pagebreak/>
 Gefahr, glaubte jedoch aus irgendwelchen Gründen, daß die
-Gestalt dadurch«? zu beseitigen sei, daß sie Ganotta im Musikzimmer
+Gefahr dadurch zu beseitigen sei, daß sie Ganotta im Musikzimmer
 gewisse Vertraulichkeiten gestattete, die vom Garten
-aus beobachtet werden hinunter und die die Eifersucht der
-Frau zerstreuen Sollten. Deshalb auch; war ihr die Begleitung
-Alkohol« so weit Seiten. Sie wollte mit Ganotta
-allein sein. Die »Frau sollte sehen, daß die Gaunerin Besorgnisse,
-— — sie lehnte Ah an den Flügel neben Ganotta.
+aus beobachtet werden konnten und die die Eifersucht der
+Frau zerstreuen Sollten. Deshalb auch war ihr die Begleitung
+Ritschels so unangenehm. Sie wollte mit Ganotta
+allein sein. Die Frau sollte sehen, daß sie Ganotta bevorzugte,
+— sie lehnte sich an den Flügel neben Ganotta.
 — — Du wirst zugeben, mein Alter,« sagte er lebhafter und
-ließ die stand sinken, »daß, diese Theorie allen tatsächlichen
-Feststellungen Herr Hl wird. Nimm an, die Frau, die vorn
-Nitschel nun der Fontäne gesehen wurde, wollte gar nicht
-Ganotta, … sondern Irina fressen, aber die Kugel ging fehl
+ließ die Hand sinken, »daß diese Theorie allen tatsächlichen
+Feststellungen gerecht wird. Nimm an, die Frau, die von
+Ritschel an der Fontäne gesehen wurde, wollte gar nicht
+Ganotta, sondern Irina treffen, aber die Kugel ging fehl
 und tötete den Legationsrat. Möglich auch, daß die Frau
-zu Batterie Beziehungen unterhielt, Das ist vorläuft 1) gleich
-rührig. Zu meiner Theorie paßt am besten die Annahme
-eines Fehlschusses. Und eben/o paßt dazu folgende Erklärung
-für die Verwendung der noch fräzebliebenen vier Minuten
-von Irinas Abwesenheit: Sie war im Garten, bevor
-sie zu uns kam?! — Beweis: Ihre Halblackschuhe! Würde
+zu Ganotta Beziehungen unterhielt. Das ist vorläufig gleichgültig.
+Zu meiner Theorie paßt am besten die Annahme
+eines Fehlschusses. Und ebenso paßt dazu folgende Erklärung
+für die Verwendung der noch freigebliebenen vier Minuten
+von Irinas Abwesenheit: *Sie war im Garten*, bevor
+sie zu uns kam!! — Beweis: Ihre Halblackschuhe! Würde
 sie nur über den Bürgersteig zu uns geeilt, hätten die Schuhe
-nicht gelbliche Schmutzränder von nassen Balkensteg haben
-können, — und sie haften solche Ränder. Also war Irina
+nicht gelbliche Schmutzränder von nassem Gartenkies haben
+können, — und sie hatten solche Ränder. Also war Irina
 in ihrem Garten. Zu welchem Zweck?! Und wo war sie?!
-— Nichts auf dem Hauptweg, nicht bei der Fontäne. Ihre
+— Nicht auf dem Hauptweg, nicht bei der Fontäne. Ihre
 Spur hätten wir sehen müssen. — Wo war sie? Ich weiß
-es nicht. Ich Format? nur, sie hoffte im Garten noch die
+es nicht. Ich vermute nur, sie hoffte im Garten noch die
 Mörderin zu treffen. Vielleicht begegnete sie ihr wirklich
-noch und versprach ihr, sie nicht zu verraten …! — Auch)
+noch und versprach ihr, sie nicht zu verraten …! — Auch
 diese Dinge bleiben zu klären. Vorläufig finde ich keine
-bessere Theorie, möchte nur noch sagen: Doktor Harst Ritschel
+bessere Theorie, möchte nur noch sagen: Doktor Horst Ritschel
 kennt die Mörderin ebenfalls!«
 
-Ich hakte Notizblock und Bleistift weggelegt und ein
-Zündholz angerieben, Meine Zigarre war ausgegangen.
-Du hältst es also für vorkommen ausdgeschlossen, daß
+Ich hatte Notizblock und Bleistift weggelegt und ein
+Zündholz angerieben. Meine Zigarre war ausgegangen.
+
+»Du hältst es also für vorkommen ausgeschlossen, daß
 <@pagebreak/>
-Irina etwa des Jickeimantelgeschoß in eine Luftpistole geladen
+Irina etwa das Nickelmantelgeschoß in eine Luftpistole geladen
 und doch den Schluß abgefeuert hat?« meinte ich bedächtig,
 denn Harsts Theorie erschien mir allzu gekünstelt.
-34 selbst mißtraute Ir’na gründlich.
+Ich selbst mißtraute Irina gründlich.
 
-»Äundzeschossen, mein Alter! Feder he, darf eine Luft«-
-Pistole arg nicht völlig geräuschlos ist, daß eine solche
-Wasser recht groß ist und sich nicht so leicht verbergen läßt,
-Bedenke weiter das ungeheure Wagnis, einen Mann Niete««
-zuschießen, wühlend noch ein zweiter in demselben Zimmer
-weilt und nebenan drei weitere Herren, die sofort herein«
-stürmten. Wo sollte Irina die Waffe gelassen haben !,
+»Ausgeschlossen, mein Alter! Bedenke, daß eine Luftpistole
+auch nicht völlig geräuschlos ist, daß eine solche
+Waffe recht groß ist und sich nicht so leicht verbergen läßt.
+Bedenke weiter das ungeheure Wagnis, einen Mann niederzuschießen,
+während noch ein zweiter in demselben Zimmer
+weilt und nebenan drei weitere Herren, die sofort hereinstürmten.
+Wo sollte Irina die Waffe gelassen haben?!
 Ritschel drehte sich ja sofort um. Irina hätte sie nicht einmal
 zum Fenster hinauswerfen können.«
 
-»Weshalb gleicht?! Das ist im Moment getan.«
+»Weshalb nicht?! Das ist im Moment getan.«
 
 »Gewiß … du vergißt aber, unter dem linken Fenster —
-am rechten stand Doktor Nitschel! — befindet sich an der
-Grauer ein großes »Frühbeet mit Glasfenstern. Ich habe es,
-mir angesehen. Die Luftpistole hätte auf dieses Fenster falten
+am rechten stand Doktor Ritschel! — befindet sich an der
+Mauer ein großes Frühbeet mit Glasfenstern. Ich habe es
+mir angesehen. Die Luftpistole hätte auf dieses Fenster fallen
 müssen …«
 
-»Bescheid nicht darüber hinaus in das Blumenbeete!
+»Weshalb nicht darüber hinaus in das Blumenbeet?!«
 
-»Weil die Entfernung zu groß ist. Von dem Hochzeit«
-Flügel, wo Irina stand, bis zum linken Fenster sind es
-sechs Meter, Das Frühbeet ist vier Meter breit, Wollte man
-eine Luftpistole durch ein offenes »Fenster, dessen obere
-Scheiben aber geschlossen waren, weiter als eine schießen
-Male? schleudern, könnte man dies nur durch einen Wurf
-in hohem Bogen. Irina hätte die Pistole fast! horizontal
+»Weil die Entfernung zu groß ist. Von dem Bechsteinflügel,
+wo Irina stand, bis zum linken Fenster sind es
+sechs Meter. Das Frühbeet ist vier Meter breit. Wollte man
+eine Luftpistole durch ein offenes Fenster, dessen obere
+Scheiben aber geschlossen waren, weiter als etwa sieben
+Meter schleudern, könnte man dies nur durch einen Wurf
+in hohem Bogen. Irina hätte die Pistole fast horizontal
 schleudern müssen. Ein Wurf im Bogen war unmöglich, also
-— Irina hakte keine Pistole! Lücke hat auch das Zimmer
-so genau Durchfahrt, daß die Waffe nicht etwa versteckt
-worden sein kann. Wo auch?! Irina stand am Flügel, sich
-hätte die Pistole nicht einmal unter ihren Fäden- verbergend
-können, dazu gehört Zeit, — Nein, den Gedanken lasse nur
+— Irina hatte keine Pistole! Lücke hat auch das Zimmer
+so genau Durchsucht, daß die Waffe nicht etwa versteckt
+worden sein kann. Wo auch?! Irina stand am Flügel, sie
+hätte die Pistole nicht einmal unter ihren Röcken verbergen
+können, dazu gehört Zeit, — Nein, *den* Gedanken lasse nur
 fallen, mein Alter … Der Schuß kam von draußen …«
 
 »Verzeih’, — und wenn Irina nur deshalb im Garten
 <@pagebreak/>
 war, um die Waffe zu holen, die sie hinausgeschleudert hatte?«
 
-»Ich habe dort nach« Spuren gesucht, mein Alter …
+»Ich habe dort nach Spuren gesucht, mein Alter …
 Die hohen Absätze von Damenschuhen drücken in feuchtem
-Nordrand tiefe Löcher ein. Ei waren keine Sparen vorhanden.«
+Boden tiefe Löcher ein. Es waren keine Spuren vorhanden.«
 
 »Dann allerdings …«
 
 »Und doch — ein anderer Umstand muß beachtet werden,
 und gerade dies macht den Fall noch rätselhafter. ich habe
 auch die Entfernung von der Fontäne bis zum Flügel genau
-geschwächt: E&8 sind. mindestens neunzehn Wetter, Wenn die
+geschätzt: Es sind mindestens neunzehn Meter. Wenn die
 »Frau« mit einer automatischen Pistole feuerte, hatte sie
-wenig Marsch zu treffen. Gewiß — nach meiner Zisterne
-traf sie auch die falsche Person. Aber — gib ahnt? — bei
-neunzehn Mieter durchschlägt ein modernes Nickelmantelsgeschoß
+wenig Aussicht zu treffen. Gewiß — nach meiner Theorie
+traf sie auch die falsche Person. Aber — gib acht! — bei
+neunzehn Meter durchschlägt ein modernes Nickelmantelgeschoß
 einen menschlichen Körper, wenigstens Weichteile,
 ganz glatt. Hier aber war die Kugel in der äußeren Holzwand
 stecken geblieben, nachdem sie nur das Oberhemd und
-ein dünnes, seidenes Unterhemd durchbohrt hatte. —«- Daß
-auch Lücke hieran gedacht hat, »merkte ich ihm sehr wohl
-an. Lücke hegt arm Verdacht gegen Irina. Und doch wird
+ein dünnes, seidenes Unterhemd durchbohrt hatte. — Daß
+auch Lücke hieran gedacht hat, merkte ich ihm sehr wohl
+an. Lücke hegt auch Verdacht gegen Irina. Und doch wird
 er ihr niemals etwas beweisen können.« Er schwieg und
 horchte … »Ein neues Gewitter scheint heraufzuziehen …
-In) denke, wir können es jetzt wagen«…«
+Ich denke, wir können es jetzt wagen …«
 
-»Was den?«
+»Was denn?«
 
-Er hielt die linke Hand hoch und spreizte die Finger,
-»Ich nehme an, daß die Polizei sich- entfernt hat und Seines
+Er hielt die linke Hand hoch und spreizte die Finger.
+»Ich nehme an, daß die Polizei sich entfernt hat und Irinas
 Gäste sich wieder einfinden werden. Irina flüsterte Prank
 etwas zu, und ich verstand: »Bestellen Sie auch die anderen
-… ’« — Ich möchte dieser Versammlung als Ersatz für
-den kalten Ganotta bewohnen, und für dies wäre das auch
+…« — Ich möchte dieser Versammlung als Ersatz für
+den toten Ganotta beiwohnen, und für dich wäre das auch
 ganz interessant …«
 
-»Auch für Lücke, bemerkte ich ironisch« »Glaubst du,
+»Auch für Lücke,« bemerkte ich ironisch. »Glaubst du,
 daß Lücke die Villa unbewacht läßt?!«
 
 »Ja. Soll er Irina argwöhnisch machen?! Doktor Hans
-bückte ist mit der Beste vom Roten Alex. Hinter seiner Supereleguanz
-verbirgt sich ein seiner Geist, das wissen wir am
+Lücke ist mit der Beste vom Roten Alex. Hinter seiner Supereleganz
+verbirgt sich ein feiner Geist, das wissen wir am
 <@pagebreak/>
-besten … Er ha, seine besondere Arbeitsmethode, und.
-Sich traue ihm nicht über den Weg, bei I] gilt die Ne
-»und nur zur Verschleierung seiner Gedanken,«
+besten … Er hat seine besondere Arbeitsmethode, und
+ich traue ihm nicht über den Weg, bei ihm gilt die Rede
+auch nur zur Verschleierung seiner Gedanken,«
 
-Wir Boden die leichten Gummim Insel über, schicken
-Schlappmützen auf, steckten das FDandwerk5zeug zu uns un
-Waren gleich voraus in Irina Gitter neben. Her Denken
+Wir zogen die leichten Gummimäntel über, setzten die
+Schlappmützen auf, steckten das Handwerkszeug zu uns und
+Waren gleich darauf in Irinas Garten neben der Fontäne.
 
-Harald hoffe meinen Arm umkrallt und wies na!) so
-warte … In dem leichten Nebelregen erkannte ich wollt
-einen Mann der auf dem Hauptwege saß und beide Haar
-gegen den saßen Hinterkopf preßte. See Mann stöhnte bei
+Harald hatte meinen Arm umkrallt und wies nach vorwärts
+… In dem leichten Nebelregen erkannte ich unklar
+einen Mann der auf dem Hauptwege saß und beide Hände
+gegen den bloßen Hinterkopf preßte. Der Mann stöhnte leise
 und fluchte dazu …
 
-Haus Parke, der feudale Hans, flucht sonst nie.
+Hans Lücke, der feudale Hans, flucht sonst nie.
 
-Warst traf neben ihn. »Führte, wer hat Sie denn hi
+Harst traf neben ihn. »Lücke, wer hat Sie denn hier
 niedergeschlagen?«
 
-frühe sauste zu wuchs empor. »Ein Weib, Harst.
-ein Weib … Ich habe meine fünf Sinne noch mit an?
-Scheinende. Harst mir auf die Beine … Die Hinmalte fehlt
-blitzschnell zu … Schade um meine Deutscher … €
-sind hin, I fiel dort in das Spalierob’t, und das Loch a?
-Knie laß« meine gelbseirene Unterhose verschlimmern,
+Lücke schaute zu uns empor. »Ein Weib, Harst …
+ein Weib … Ich habe meine fünf Sinne noch nicht ganz
+beieinander. Helft mir auf die Beine … Die Kanaille schlug
+blitzschnell zu … Schade um meine Beinkleider … Sie
+sind hin. Ich fiel dort in das Spalierobst, und das Loch am
+Knie läßt meine gelbseidene Unterhose vorschimmern.«
 
 <h2>3. Kapitel.</h2>
 
@@ -644,7 +633,7 @@ ein Mengen, dem nichts heilig, der aber oberen gut schon
 nach einer Stunde seines Vorteil wegen seine Gesinnung
 total wechseln Konnte, — — ei Typ einer Zeit, die an solchen
 verlogenen Helden der Feder dran?!. Natürlich!rug er Monokel,
-Die Inteiligenzbrille gehörte für ich der Vergangenheit
+Die Intelligenzbrille gehörte für ich der Vergangenheit
 an. Sein Weizen blühte erst, Reiterin Deutschland Leute
 von so grotesken Wandelbarkeit in Masten züchtete,
 
@@ -764,7 +753,7 @@ werden noch einiges beantworten müssen — nichts mir,
 aber Lücke …««
 
 Und. dieser Lücke das jetzt etwas, was Herr Doktor
-Nitschel, der recht bleich geworden war, ebtitsall3 wortlos
+Ritschel, der recht bleich geworden war, ebtitsall3 wortlos
 hinnahm: Er packte zu lud. zog Ritschel mit kräftigem
 Nu von dem Geister, gleichzeitig schoß in der Ecke das
 Ad Bummler, Nötige Geist des Glastür ich en Majors in
@@ -840,7 +829,7 @@ Fabrikat, ganz moderne Konstruktion, große Durchschlag?«
 fragt auf kurze Entfernung, Kaliber 8,9 — wie die tödliche
 Kugel. Sie bleiben also dabei, Herr Ritschel daß…«
 
-»Doktor Nitschel — — bittet«
+»Doktor Ritschel — — bittet«
 
 »Nun ja, wenn Ihnen etwas daran liegt, auch dies
 Frage anzuschneiden, Herr Ritschel … Hegen Sie ist Massig
@@ -857,13 +846,13 @@ mir von der Regierung. eines Freistaates als Dank für …«
 
 »-… diese Negierung regierte genau drei Tage, und die
 Negierenden sitzen zum Teil noch heute im Zuchthaus,
-Herr Nitschel. Ich fürchte, die Luft hier in Berlin: wird
+Herr Ritschel. Ich fürchte, die Luft hier in Berlin: wird
 Ihnen in kurzem zu … Ei werden … Sie kennen doch die
 Redensart »die Luft …« — Wollen Sie zugeben, daß Sie
 vorn vornherein wußten, daß Irina den südlichsten Schuß
 abgegeben hat?!« Tuches Ton war schneidend scharf geworden,
 -
-Nitschel biß sie in die Unterlippe. Er wurde erst rot,
+Ritschel biß sie in die Unterlippe. Er wurde erst rot,
 dann blaß… »Ich … bestreite b&8 ganz entschieden,« platzte
 er heraus, »Ich habe lediglich vermutet, daß…«
 
@@ -879,7 +868,7 @@ Ritschel, Sie hatten sich, als der Mord geschah, hier hinausgelehnt
 und hielten Ausschau nach der Frauengestalt an
 der Fontäne …«
 
-»Der Gestalt …«, verbesserte Nitschel lernten?k. »Es kann
+»Der Gestalt …«, verbesserte Ritschel lernten?k. »Es kann
 auch ein Mann in einem Mantel gewesen sein …«
 
 »Nun gut, — — gleichgültig! Sie schauten hinaus …
@@ -893,7 +882,7 @@ Ritschel erhob sie; und nahm die Stellung ein,
 er angeblich hin Moment des Mordes innegehabt hat
 Harst stand hinter ihn,
 
-»Danke, Herr Nitschel. — Lücke, bitte … Lehnen Sie sich
+»Danke, Herr Ritschel. — Lücke, bitte … Lehnen Sie sich
 hinaus, Was fällt Ihnen auf?«
 
 »Tor reckte offene, Kutters Fensterflüg spiegelt d«-
@@ -906,7 +895,7 @@ vor Ritschel hin. »Ernsten Sie jetzt mit die Tasche
 lagert, so verheilte ich sowohl Sie als auch Spitzen Wege
 Begünstigung. — Raus mit der Sprache!!«
 
-Nitschel schloß wie betäubt die Augen. Erdteile Blaß)
+Ritschel schloß wie betäubt die Augen. Erdteile Blaß)
 Üüberzog sein Gesicht. Er hüstelte, senkte den Kopf … Sein
 Stirn glänzte vor Schweiß…
 
@@ -1007,7 +996,7 @@ auf das Versteck hinweisen …
 
 »Blödsinn!« sagte Wracks wegwerfend.
 
-Aber Nitschel hatte wo« einen Trumpf auszuspielen,
+Aber Ritschel hatte wo« einen Trumpf auszuspielen,
 »Kein Blödsiuni neben Sie die Kugel bei sich?«
 
 »6. Hier ist sie …
@@ -1020,7 +1009,7 @@ klappte Aden Lauf herab und wollte die Kugel in die
 Kammer schieben, Es war unmöglich. Das Kaliber des Es«
 Schlosses war zu groß,
 
-Auch Harald war verblüfft. Er beobachtete Nitschel und
+Auch Harald war verblüfft. Er beobachtete Ritschel und
 Spitzen, und als er wie ich merkte, daß die beiden jetzt
 allmählicg) ihre Sichersten niedersanken, Saale er nacdenlUc:
 »Klasse den Tatbestand wollten Sie-VEbeWXCUr— in. Irina
@@ -1049,7 +1038,7 @@ Fisch — auf) Sie, Her? von Spizper!l« befahl Tue ich.
 »Bitte — etwas fix)! Soll im nachhelfen?! Ihr Zögern
 verrät genug …«
 
-Harst Nitschel war wieder erheblich blaß geworden,
+Harst Ritschel war wieder erheblich blaß geworden,
 
 »Nun gut, — was ist den fälschlich dabei,« meinte
 er achselzuckend. »Irina nahm ihr Forscht mit,!schenkte mir
@@ -1108,9 +1097,9 @@ wohl nicht über die Havel gekommen wär, 394 nun doch
 herauf. In das Grollen des Donners mischte sich ein anderer
 schriller Ton … Es klang wie der Ruf altes Nachtvvgels …
 
-Nitschel hatte lauschend den Kopf nach dem Fenster
+Ritschel hatte lauschend den Kopf nach dem Fenster
 gedreht. Bildet Drohung hatte gegenüber dein, was Harst
-Nitschel jetzt zu fürchten schien, jede Bedeutung verloren, Er
+Ritschel jetzt zu fürchten schien, jede Bedeutung verloren, Er
 umkrallte die Sessellehnen, er stierte in die Dunkelheit hinaus.
 — Das Neugier war;noch offen…
 
@@ -1141,7 +1130,7 @@ Der zweite Befehl ’galt- Spitzer und Fische.
 
 »Kommt heraus — schteuaigimtt«
 
-Nitschel, verborgen hinter der Sessellehne, heulte entsetzt,
+Ritschel, verborgen hinter der Sessellehne, heulte entsetzt,
 — — ein gräßlicher Ehre! war’s, wie ihn nur ein
 Mensch in höchster Todesangst ausstößt.«
 
@@ -1149,7 +1138,7 @@ Mensch in höchster Todesangst ausstößt.«
 »Mein Wort, ich tue ein) nichts!«
 
 Spitzer hm unter dem Tische hervor … Er sprang
-als erster in den Garten hinab …« Nitschel folgte, — —
+als erster in den Garten hinab …« Ritschel folgte, — —
 und dann — — erlosch) das Licht im Musikzimmer und im
 
 Salon.
@@ -1183,7 +1172,7 @@ offenbar sehr vorsichtig gewesen. Sie hatte das Personal
 immer früh zu Bett Gesicht.« Mit Ritschel und Spitzen hatte
 sie stets sehr gut gestanden, — was natürlich eitel Spiegel«
 Schleier gewesen war, dein wir wußten es besser. Es
-Minen ohne Zweifel von Nitschel und Spitzer seit längerem
+Minen ohne Zweifel von Ritschel und Spitzer seit längerem
 
 Irina größere Summen erpreßt worden, dem Witze
 ihre im Asien der Zentralheizung unten im Keller eine
@@ -1750,7 +1739,7 @@ Schadete und daß wir beide kühl die Treppe hzinadstie-ze nix
 
 Hier stehen an sonnigen, warme Fackel linker deine
 
-großen Lindenvaum Brei Liegeltuihle für »Trat Bart uns
+großen Lindenbaum Brei Liegeltuihle für »Trat Bart uns
 für uns, je nachdem einer Hausarzt wach Luft und Sonne
 empfindet.
 
@@ -1826,7 +1815,7 @@ zeugpistole …«
 
 ich stutzte … Mir ging ein Lichtlein auf.
 
-Jeder Kennt diese Feuerzeuge in Pijtolenform. Sie sind
+Jeder Kennt diese Feuerzeuge in Pistolenform. Sie sind
 aus schwarzen Blech geeignet, die sausten aus dunklem Stab!
 <@pagebreak/>
 mit Nagelfeile, Bürste und Zahnstocher, Messerchen und alt
@@ -2182,7 +2171,7 @@ und im Suff .— — pardon. Feine Familie …! — Damals,
 als Irina mit Ganotta im Autos verunglsükie, sollte Sauste
 vor Genick wegen Zu schnellen Fahrens. Damals schlug
 habe ich meine Nase in diese Sachen Bester?!, denn Irinas
-Freundschaft mit Nitschel und Spitzer war anrüchig.«
+Freundschaft mit Ritschel und Spitzer war anrüchig.«
 
 »Am zurücklassen ist der rote Sonnenschirm …« sagte
 Harst a. »Es ist seine olle Kamele, das ist sogar sehr
@@ -2211,7 +2200,7 @@ Pingalli. Der Herr wird Farbe bekennen müssen …«
 Weit öffnete uns die Haustür.
 
 »Der Herr Doktor ist verreist, Herr Kriminalkommissar,
-und Fräulein Helga ebenfalls,« sagte der Bucklige mit übeririebenster
+und Fräulein Helga ebenfalls,« sagte der Bucklige mit übertriebenster
 Höflichkeit und dienerte immer wieder, Er Vers
 lehnte uns.
 
@@ -2259,7 +2248,7 @@ Sonnenschirm gefunden?« fragte Harst da und legte Moritz
 Moritz schielte ihn von unten an. »Im — — Sennora
 Schirm … — na ja, da war!misc … Ein roter Sonnensttivrm
 lag heute feil) in unserem &Crdbeerbeet unter den
-dichtesten Standen, Dollar verrequet und säymutzig … Ich
+dichtesten Standen, Dollar verregnet und säymutzig … Ich
 habe ihn Goa gezeigt, aber sie wollte ihn nicht haben, und
 
 da hab’ ich ihn einem einen Mädel geschaut, das auf
@@ -2525,7 +2514,7 @@ Brücke zog die Anungenbrauen hob. »Donnerwetter, —
 glauben Sie etwa, daß in den beiden Kisten, …«
 
 <@pagebreak/>
-». « … Nitschel, Spitzer und Irina stecken — ganz recht?
+». « … Ritschel, Spitzer und Irina stecken — ganz recht?
 Die drei waren bisher in Pingallis Keller irgendwo verborgen,
 und Pingalli spendete dem Museum seine Schale,
 damit die Riesenkröten nicht auffallen sollten … Alte- Leutnant
@@ -2555,7 +2544,7 @@ Bordeaux.
 -».- « Pingalli kranker die drei nur mit Hilfe des
 Kisten aus dem Hatte bringen,« erklärte Palast und legte
 auf das Fleischpaket den wertlosen Schirmstock, »Pingalli wird
-Nitschel und Spitzer erstickt) mit Geld vergessen und sie ins
+Ritschel und Spitzer erstickt) mit Geld vergessen und sie ins
 Sachlage schicken, Moritz wußte, daß die drei im Keller
 waren. Er hat uns also belogen, Er geht für Pingalli durch
 Jener… Eher das alle: wird ihnen nichts helfen. Die Eva
@@ -2631,9 +2620,9 @@ Bemühen ergab sich der Luft von Irrungen und Wirrungen,
 der ich durch das Eingreifen der beizen Erpresser, durch)
 Prank und uns vergrößer! wurde. — Gehen wir …«
 
-In der strahlendhellen Heckkajüte schnellten’ Nitschel und
+In der strahlendhellen Heckkajüte schnellten’ Ritschel und
 Spitzer bei unserem Eintritt wie von einer Tarantel gestochen
-hoch … »Verrat!!’« knirschte Harst Nitschel … »Das
+hoch … »Verrat!!’« knirschte Harst Ritschel … »Das
 sollt Ihnen Feuer zu stehen Kundinnen, Doktor Pingalli!! Nun
 sind Sie und Ihr junges Täubchen reif für das Gesängnio?
 Wer in polizeilichen Anmeldungen verschweigt, daß er vorn
@@ -2666,7 +2655,7 @@ den Händen,
 »Hie, geben Sie Ufer mal die tödliche Kugel …
 Scotland, packe das Fleisch aus und Spalte es WW Brunnens
 -. ’« Es yz überhaupt kein Schuß gefallen … Dieser,
-»Tote Sonnenschirm, den Nitschel gestern abend Irina versuchte,
+»Tote Sonnenschirm, den Ritschel gestern abend Irina versuchte,
 alt eine teuflischste Waffe als damals die grüne Fliege …
 Setzen Sie her … Ich drücke- den Sqhiringrijf herab, und
 hier unten klappt die eiserne Zwinge des höchsten ECisenjtackles
