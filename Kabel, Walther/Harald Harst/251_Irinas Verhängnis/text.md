@@ -546,620 +546,611 @@ Knie läßt meine gelbseidene Unterhose vorschimmern.«
 
 <h3>Der Spiegel.</h3>
 
-»Wenn Sie von Unterhosen reden, lieber Lücke, dank
-Sie sicherlich) in Wahrheit darüber nach, weshalb ob
-alle Manjardensester der Villa hell sind. Ich glaube,
-hoben Tiefe Fenster der Dienstbotenstübähen trotz ihr
-brummenden Schädels herbestellt und. sich verstarb. hi
-mitten in den Weg geschlemmt.«
+»Wenn Sie von Unterhosen reden, lieber Lücke, denken
+Sie sicherlich in Wahrheit darüber nach, weshalb oben
+alle Mansardenfenster der Villa hell sind. Ich glaube, Sie
+haben diese Fenster der Dienstbotenstübchen trotz ihres
+brummenden Schädels beobachtet und sich deshalb hier
+mitten in den Weg geschleppt.«
 
-Linker den Vergangen droben. huschten Gestalten Dr)
-und her. — Lücke erwiderte: »Sie Falten! Sie ziehen ab
+Hinter den Vorhängen droben huschten Gestalten hin
+und her. — Lücke erwiderte: »Sie packen! Sie ziehen ab!«
 
-Wir Offizier ihn, und er murmelte Sofa neue eine He
-wünscht: ug gegen die »Frau, die ihn hinterrücks erledigt hat
-
+Wir stützten ihn, und er murmelte aufs neue eine Verwünschung
+gegen die Frau, die ihn hinterrücks erledigt hatte.
 <@pagebreak/>
-»Ich war kann drei Minuten hier An Garten, als die
-Person mit eins uBöwisale
+»Ich war kaum drei Minuten hier im Garten, als die
+Person mir eins auswischte …«
 
-Knistern fortstieß wir echte um die Villa herum. Wie
-älteres Feile wach Pause, mit — — ie Haustür
-die
-»Du weinte Harald, »Wartet hier ut! « Er lief
-Rum Tunis, so da Vorlage stand, Er Kam zu. wir! zurück.
-»See Wille: (88 Wer, Maid die Einfahrt Eis coeusalls weit
+Langsam schritten wir rechts um die Villa herum. Alle
+anderen Fenster waren dunkel, und — — die Haustür
+offen.
+
+»Hm!« meinte Harald. »Wartet hier mal.« Er lief
+nach links, wo die Garage stand. Er kam auch sofort zurück.
+»Das Auto ist weg, und die Einfahrt ist ebenfalls weit
 offen.«
 
-»2,« ist Wir, »sie« hat die Dienstboten abgeluhzut
-und dalassen ist ist ausgeruht. Zug werde sofort helles
-Pionieren.«
+»Ja,« nickte Lücke, »sie hat die Dienstboten abgelohnt
+und entlassen und ist ausgerückt. Ich werde sofort
+telephonieren.«
 
-Wir befingert ne Tiere. Wir hörten, und von oben
-Ruinen allerseits Per, sehe, Stimmen, Türen klappen und
+Wir betraten die Diele. Wir horchten, und von oben
+kamen allerhand Geräusche, Stimmen, Türenklappen und
 halblaute Zurufe.
 
-Harald öffnete ist Dunkel die Salontür, »Leiter!«
-mahnte er … »vier geht noch mehr vor.«
+Harald öffnete im Dunkel die Salontür. »Leise!!«
+mahnte er … »Hier geht noch mehr vor.«
 
-Die Art Theorie Museum machte ein Zurechtfinvben sehr
-schwer. Ich hatte Lücke umhergeirrt. Sir beide erinnert etwa
-unter dem Kronleuchter, Herr war verschwunden.
+Die Finsternis ringsum machte ein Zurechtfinden sehr
+schwer. Ich hatte Lücke untergefaßt. Wir beide standen etwa
+unter dem Kronleuchter, Harst war verschwunden.
 
-Dann flammte drängten ein Blitz auf, und ich sah durch
-die offene Sidjiebelür in das Waisikzimmer hielt Wird erkannte
-zwei Gestalten, die ja) umemumert bietet 140 Wille
-einander reisen, Es war nur er Moueitivit?, Hof? Dunkelheit
-verschluckte alles
+Dann flammte draußen ein Blitz auf, und ich sah durch
+die offene Schiebetür in das Musikzimmer hinein und erkannte
+zwei Gestalten, die sich umklammert hielten und miteinander
+rangen. Es war nur ein Momentbild. Die Dunkelheit
+verschluckte alles …
 
-Auch Lücke hatte das Seite gestehen, Er trug seine Lampe
-vorn am Mantel. So Worte den Jedes kaufen, und ein
-Leuchtkegel schoß vorwärts und heisere uns Harst, der im
+Auch Lücke hatte dasselbe gesehen. Er trug seine Lampe
+vorn am Mantel. Ich hörte den Hebel knacken, und ein
+Leuchtkegel schoß vorwärts und zeigte uns Harst, der im
 Musikzimmer auf einem Mongolen kniete.
 
-duckte taumelte aus die leisen zu.
+Lücke taumelte auf die beiden zu.
 
-»Einschalten, Schraut!« nie er,
+»Einschalten, Schraut!« rief er,
 
-Ich knipste da:5 Tieres in beiden Räumen zu. Wir rissen
-den fremden er! Los), des uns mit seiner Ctrowmervisaqe
-frech angrinste und Dann sehr höflich sagte: »Ich bin dzerivertd
+Ich knipste das Licht in beiden Räumen an. Wir rissen
+den fremden Kerl hoch, der uns mit seiner Stromervisaqe
+frech angrinste und Dann sehr höflich sagte: »Ich bin Heribert
 Prank …!«
 
 <@pagebreak/>
-Harald lädxyelte. »Also der Falsche »… Bruder Luke bedauert
-seine Peinlichster und ich he 2 re. diese Kraftvergeudung.
-— Bescheid gaben Sie ich nicht zu erkennst,
-Glaubst«
+Harald lächelte. »Also der Falsche … schade! Luke bedauert
+seine Beinkleider und ich bedaure diese Kraftvergeudung.
+— Weshalb gaben Sie sich nicht zu erkennen,
+Prank?!«
 
-»Weil Sie eben auch der Falsche sind, Urheber Harst …
-… Hier war noch jemand, und da ich die Tür Juni Geburt abgeschlossen
+»Weil Sie eben auch der Falsche sind, lieber Harst …
+Hier war noch jemand, und da ich die Tür zum Flur abgeschlossen
 und den Schlüssel eingesteckt hatte und Sie durch
-den Salon kamen, muß der Bursche vor hier sein …«
+den Salon kamen, muß der Bursche noch hier sein …«
 
-Wir schauten uns um. In der sinken Fensterecke stand
-ein Ziersessel. Dort saß in aller Seeleunrudde mit zulangen«
-— Scharren Beinen Doktor Harst Ritschel. Wir hatten ihn
+Wir schauten uns um. In der linken Fensterecke stand
+ein Ziersessel. Dort saß in aller Seelenruhe mit übergeschlagenen
+Beinen Doktor Horst Ritschel. Wir hatten ihn
 bisher in unserer Erregung völlig übersehen.
 
-Ritschel war ganz und gar ein Man! von heute,
-— Eine dürre. übertratzuierke Sportgestählt, ein hageres Gent
-leicht mit eingefallenen Schlafen, dicken Hautwäliien um
-Schlund und Kinn, kühl« spöttischen Augen. Ein eingefrorenes
+Ritschel war ganz und gar ein Mann von heute.
+Eine dürre, übertrainierte Sportgestalt, ein hageres Gesicht
+mit eingefallenen Schläfen, dicken Hautwülsten um
+Mund und Kinn, kühl-spöttischen Augen. Ein eingefrorenes
 anmaßend-nichtssagendes Lächeln, bewußt nachlässige Bewegungen,
 dazu, wenn nötig, eine domestikenhafte Höflichkeit:
-Ein Charakterkopf ohne Charakter, ein rücksiäisloser Egoist,
-ein Mengen, dem nichts heilig, der aber oberen gut schon
-nach einer Stunde seines Vorteil wegen seine Gesinnung
-total wechseln Konnte, — — ei Typ einer Zeit, die an solchen
-verlogenen Helden der Feder dran?!. Natürlich!rug er Monokel,
-Die Intelligenzbrille gehörte für ich der Vergangenheit
-an. Sein Weizen blühte erst, Reiterin Deutschland Leute
-von so grotesken Wandelbarkeit in Masten züchtete,
+Ein Charakterkopf ohne Charakter, ein rücksichtsloser Egoist,
+ein Mensch, dem nichts heilig, der aber ebenso gut schon
+nach einer Stunde seines Vorteils wegen seine Gesinnung
+total wechseln Konnte, — — ein Typ einer Zeit, die an solchen
+verlogenen Helden der Feder krankt. Natürlich trug er Monokel,
+Die Intelligenzbrille gehörte für ihn der Vergangenheit
+an. Sein Weizen blühte erst, seitdem Deutschland Leute
+von so grotesker Wandelbarkeit in Massen züchtete,
 
 Aber er machte Figur, ohne Zweifel, und für die oberflächliche
 Kritikfähigkeit seiner Kreise war er Gott und Teufel
-zugleich. Sein Miß war brutal, seine Schlagfertigkeit war Routine,
-sein Geist war geschliffen zwischen den Abteil
-einer Epoche &vuiger Wahrungen.
+zugleich. Sein Witz war brutal, seine Schlagfertigkeit war Routine,
+sein Geist war geschliffen zwischen dem Abfall
+einer Epoche ewiger Gährungen.
 
 Er begrüßte uns durch eine Handbewegung … »Da sind
-wir ja wieder so fein beisammen, meine Herren, — Was
-tun Sie hier?!
+wir ja wieder so schön beisammen, meine Herren. — Was
+tun Sie hier?!«
 
-Dr?Tor Haus Lücke musterte ihn starr.
+Doktor Hans Lücke musterte ihn starr.
 
 <@pagebreak/>
-»lud Gier« gen te er Fakir,
-»Ich — — bin hier Hoheit — 48 Viele« er 359 »in
-Papier uns des Dellen Mister »… »Strick Da! wich Sie Villa
-Nr erregt … Ich; sollte die Dienstboten auf den Schwung
-ihr sie Stühle ich anbefauant wollt Doabvngeftun … Ich
-Ne! ihr es. Moor Iöeiber hatten sich nichts trugen, hier ist
-Ne Gutmacht für mich … Die Villa sollte nicht leer stehen.
-Oh Wohne 78665 Der.«
+»Und Sie?« sagte er nur.
 
-Lücke Palme den Scheibe … en, las und reichte tun rxar:4ld,
-& Matt — Mr Andere iz VBeetretpng … Dir eine
-»man! Kur Das nacht, Lröiglich eine Bescheittigunsg, Das Sir
-Wächter der Villa verteilt sind, Herr Doktor Mittel.
-Nu Beklommen Sie Stellen«
-Fischers spürte die Gegiüerschaft, steckte die Beleidigung
-bis ehe und meinte achselzuckend: »Meine Yairwvescuixit
-Tier ist berechtigt, — zu) die Ihre, Herr Kriminailkomuwmissar.
-»der die Herren Harst, Schraut und Prank … «- 14
-mußte darauf bestehe!, daß dieses Haus ist Treffpunkt von
-denken wird.«
+»Ich — — bin hier daheim — zu dienen,« er zog ein
+Papier aus dem hellen Ulster … »… Irina hat mir ihre Villa
+anvertraut … Ich sollte die Dienstboten auf den Schwung
+bringen … Irina ist unbekannt wohin davongesaust … Ich
+riet ihr ab. Aber Weiber lassen sich nichts sagen. hier ist
+die Vollmacht für mich … Die Villa sollte nicht leer stehen.
+Ich Wohne jetzt hier.«
 
-Ende fragte kalt: »Wann gab Fräulein Sauberkeit Ihres
-nassen Wisch?«
+Lücke nahm den Briefbogen, las und reichte ihn Harald.
+»Stimmt — der Hausherr in Vertretung … Nur eine
+Vollmacht ist das nicht, lediglich eine Bescheinigung, daß Sie
+als Wächter der Villa bestellt sind, Herr Doktor Ritschel.
+Was Bekommen Sie dafür?«
 
-»Vor etwa Fünfzehn Minuten …«
+Ritschel spürte die Gegnerschaft, steckte die Beleidigung
+ruhig ein und meinte achselzuckend: »Meine Anwesenheit
+hier ist berechtigt, — auch die Ihre, Herr Kriminalkommissar.
+Aber die Herren Harst, Schraut und Prank … — ich
+mußte darauf bestehen, daß dieses Haus nicht Treffpunkt von
+Fremden wird.«
 
-Wie kamen Sie wieder hierher?«
+Lücke fragte kalt: »Wann gab Fräulein Vanderkott Ihnen
+diesen Wisch?«
 
-»Mk —« Ich wollte. Irina trösten, Ich bin ihr Vormund …
+»Vor etwa fünfzehn Minuten …«
 
-»Ja kann sie stolz sein,« nickte Lücke Tau? als.
+»Wie kamen Sie wieder hierher?«
 
-Mitspielt wurde rot. Doch auch die Pille Schutze er.
-Sinn seine Augen wurden klein, und Lücke drei? sich einen
-» erfahre geschaffen, dem die Spalten vieler Zeitungen offen
+»Ach — ich wollte Irina trösten. Ich bin ihr Freund …«
 
-Anden,
+»Da kann sie stolz sein,« nickte Lücke ganz ernsthaft.
+
+Ritschel wurde rot. Doch auch die Pille schluckte er.
+Nur seine Augen wurden klein, und Lücke hatte sich einen
+Todfeind geschaffen, dem die Spalten vieler Zeitungen offen
+standen,
+
 »Schrieb sie diese Bescheinigung freiwillig?« fragte Lücke
+noch eifriger.
 
-was eilt:. »er.
+»Natürlich … Unter Freunden ist das …«
 
-»Natürlich … Unter Kreuzten ist das …«
-
-Kurhaus nicht. selbstverständlichen« denn soweit wir
-
-Plan, waren Sie heller stelle nur geduldet, nicht erwuunsiwt,
-Jan tückische Sie, wie man uns fälschlich. nur mit dem
+»… durchaus nicht selbstverständlich, denn soweit mir
+bekannt, waren Sie heller stelle nur geduldet, nicht erwünscht,
+— man fürchtete Sie, wie man uns fürchtet, nur mit dem
 <@pagebreak/>
-Unterteiles, daß wir für das Rest impfen … — Alte
-Irina 161 ceit!tssoheu?«
+Unterschied, daß wir für das Recht kämpfen … — Also
+Irina ist entflohen?«
 
-»Gabe ich)) das gesagt?! Nein, »Irina ist Deckschicht mit
-den Nerven fertig uns bedarf Wohnhaus der chnt]panunnig.«
+»Habe ich das gesagt?! Nein, Irina ist lediglich mit
+den Nerven fertig uns bedarf dringend der Entspannung.«
 
-Hielte höchst unerquickliche Hielte wurde durch Heribert
-Prank beendet. Er, dieser hübjuWe, Dienste, heisere Künstler,
-dem im Privatlebex nichts vom Konstanter andeutete,
+Diese höchst unerquickliche Szene wurde durch Heribert
+Prank beendet. Er, dieser hübsche, blonde, heitere Künstler,
+dem im Privatleben nichts vom Komödianten anhaftete,
 ging seinerseits zum Angriff über,
 
-»Ich habe nichts zu verheimlichen. Ich war besetzt, veränderte
-nicht, und die Boote mit Steine trieb 1a) wieder
-hierher. Ich sah gerade für Auto im garnierten Tempo davonfahren,
-ich erkannte Irina nicht, denn sie schien Clement
-dies zu tragen, — ich) fand Sie Haustür offen und Routine
-in den Salon. Da ich nie dein Finger hier im Musikzimmer
-eine Gestalt wahrzunehaten sinnlose, schloß ich) Kai) die
-Tür nach dem! Flur ab runde wollte eben das Licht einschalten,
-als Harsts mich so warm begrüßte, — Das Dr!
-alles. — Weshalb fressen Sie »unter dem Billiger andere,
+»Ich habe nichts zu verheimlichen. Ich war daheim, veränderte
+mich, und die Sorge um Irina trieb mich wieder
+hierher. Ich sah gerade ihr Auto im schnellsten Tempo davonfahren,
+ich erkannte Irina nicht, denn sie schien Herrendreß
+zu tragen, — ich fand die Haustür offen und schlich
+in den Salon. Da unter dem Flügel hier im Musikzimmer
+eine Gestalt wahrzunehmen glaubte, schloß ich rasch die
+Tür nach dem Flur ab und wollte eben das Licht einschalten,
+als Harst mich so warm begrüßte, — Das ist
+alles. — Weshalb krochen Sie unter dem Flügel umher,
 Herr Doktor Ritschel?«
 
-Aufschrei lächelte vor) spöttischer.
+Ritschel lächelte noch spöttischer.
 
-»ob? suchte mein Monokel … Es war mir entfallen …
+»Ich suchte mein Monokel … Es war mir entfallen …
 Vielleicht hörten sie es klirren, Herr Prank.«
 
-»Neid — bedauere … Ich hörte nichts klirren … Ein
-Mordgier klirrt gut) Kaum auf einem ’Teppitli) … Man pflegt
-als Lauschten ein Monokel auch nicht im Inseln zu suche!
-—»- Eaents5zuldigen Sie schon!« Auch Prank konnte billig
-Werden …
+»Nein — bedauere … Ich hörte nichts klirren … Ein
+Monokel klirrt auch Kaum auf einem Teppich … Man pflegt
+als Hausherr ein Monokel auch nicht im Dunkeln zu suchen
+— entschuldigen Sie schon!« Auch Prank konnte bissig
+Werden.
 
-»Und doch war es jv,« meinte Ritschel leichthin. »Sie
-Werden gib) dabei schon beruhigen müssen. Im übrigen
-wiederhole ich: »Mit welchen Recht sind Sie tiefer! Ebenso
+»Und doch war es so,« meinte Ritschel leichthin. »Sie
+Werden sich dabei schon beruhigen müssen. Im übrigen
+wiederhole ich: »Mit welchen Recht sind Sie hier?! Ebenso
 die Herren Harst und Schraut?! Es gibt einen Paragraph
+wegen Hausfriedensbruch …«
 
-wegen Hausfriedensbruch …
-Harald hatte sich. in, aller Seelenruhe eine Zigarette als
+Harald hatte sich in aller Seelenruhe eine Zigarette angezündet
+und sagte überaus Höflich:
 
-gezündet und sagte überaus Höflich:-
-»Herr Doktor Ritschel, vielleicht erklären Sie uns, we3Ihalb
+»Herr Doktor Ritschel, vielleicht erklären Sie uns, weshalb
 <@pagebreak/>
-Sie Ihren weiten Ulster nach beiden Seiten aufs
-geschlagen heben. und. weohaulb Sie die Weinte so dicht zufaimnmenhalten
-… 7! Es muß jsür Ihren Intimus Major von
-Spitzen höchst unbequem sein, in der Zimmerecke hinter dem
-Sessel zu hocken. — Herr von Spitzer, Masten Sie sich ge
-trotz auf … Ich habe Sie längs! bemerkt, und zu) Sie
-werden noch einiges beantworten müssen — nichts mir,
-aber Lücke …««
+Sie Ihren weiten Ulster nach beiden Seiten aufgeschlagen
+haben und weshalb Sie die Beine so dicht
+zusammenhalten …?! Es muß für Ihren Intimus Major von
+Spitzer höchst unbequem sein, in der Zimmerecke hinter dem
+Sessel zu hocken. — Herr von Spitzer, richten Sie sich getrost
+auf … Ich habe Sie längst bemerkt, und auch Sie
+werden noch einiges beantworten müssen — nicht mir,
+aber Lücke …«
 
-Und. dieser Lücke das jetzt etwas, was Herr Doktor
-Ritschel, der recht bleich geworden war, ebtitsall3 wortlos
-hinnahm: Er packte zu lud. zog Ritschel mit kräftigem
-Nu von dem Geister, gleichzeitig schoß in der Ecke das
-Ad Bummler, Nötige Geist des Glastür ich en Majors in
-die Tode, und hinter den Gaoldz3äahnen dieses fragwürdigen
-Gentleman hütete gilt) der jederzeit weanetisa-gemutlich sein
-sollende Sprach;:
+Und dieser Lücke tat jetzt etwas, was Herr Doktor
+Ritschel, der recht bleich geworden war, ebenfalls wortlos
+hinnahm: Er packte zu und zog Ritschel mit kräftigem
+Ruck von dem Sessel, — gleichzeitig schoß in der Ecke das
+schwammige, käsige Gesicht des glatzköpfigen Majors in
+die Höhe, und hinter den Goldzähnen dieses fragwürdigen
+Gentleman bildete sich der fabelhaft weanerisch-gemütlich sein
+sollende Spruch:
 
-»Schaum doof ist wirklich a Gaudi, meine Herren …«
+»Schaun’s dös ist wirklich a Gaudi, meine Herren …«
 
-Aber mit dein »Gaudi« warf es nicht? weit her, denn
-
-Harst ließ sich.) plötzlich in die Knie sinken, hm unter den
+Aber mit dem »Gaudi« war es nicht weit her, denn
+Harst ließ sich plötzlich in die Knie sinken, kroch unter den
 Flügel und hob die Hand …
 
-Am Unterteil des Bechstein! ihn geht war eine schwarze
+Am Unterteil des Bechsteinflügels war eine schwarze
+Tasche aus Tuch angenagelt, aus der Harald nun eine …
+Luftpistole hervorzog.
 
-Tasche aus Tuch angenagelt, aus der Harald nun eine …;
-Luftpistole hyervvr3«g.
+Diese Tasche war so angebracht, daß jemand, der an
+der Seite des Flügels lehnte, die Pistole im Moment in
+dieses schlaue Versteck verschwinden lassen konnte.
 
-Tiefe Tasche war so angebracht, daß jemand, der an
-der Seite des Flügels sehnte, dies Pistole in Moment in
-dieses schlaue Verließ Berlin, Linien lasten konnte.
-
-— Fälle nahm die Waffe undmeinke zu dem edlen
-Freundespaar: »Das ist ja überaus wertvoll … oh danke!
-Ihr Manches, Herr Doktor Ritschel, werde ich in.
-
-Ihnen …
-allem Andenken behalten.:.: — Nehmen wir Platz … Harst.
-hat ganz recht, es gibt hier allerlei zu fragen …« Er deutete:
-
-auf das Sofa und die Sessel … »Freiheit! setzen Sie beide
-sich auf das Sofa … Sohn drei begnügen uns mit den
-Fesseln. — Dachrand, vielleicht telephonieren Sie an das:
-Präsidium … Tag Auto Irinas ist ein hellblauer Vollste.
+Lücke nahm die Waffe und meinte zu dem edlen
+Freundespaar: »Das ist ja überaus wertvoll … Ich danke!
+Ihnen … Ihr Monokel, Herr Doktor Ritschel, werde ich in
+gutem Andenken behalten. — Nehmen wir Platz … Harst
+hat ganz recht, es gibt hier allerlei zu fragen …« Er deutete
+auf das Sofa und die Sessel … »Vielleicht setzen Sie beide
+sich auf das Sofa … Wir drei begnügen uns mit den
+Sesseln. — Schraut, vielleicht telephonieren Sie an das
+Präsidium … Das Auto Irinas ist ein hellblauer Selbstfahrer
 <@pagebreak/>
-Fahrer im!! Klappverdeck&, Marke Herz … Das Telephon
+mit Klappverdeck, Marke Benz … Das Telephon
 steht in der Diele.«
 
-Ist verließ das Zimmer, bekam sofort Aufschluß, und
+Ich verließ das Zimmer, bekam sofort Aufschluß, und
 die Jagd auf Irina war damit eingeleitet. Als ich zu den
 anderen zurückkehrte, hörte ich gerade noch, wie Lücke fragte:
 
-»-… Dock« anscheinend gewußt, daß die Wasser dort
-verfolgen war?
+»… Doch anscheinend gewußt, daß die Waffe dort
+verborgen war?«
 
-Forst Ritschel, auch der österreichische Major a. D.,
-finsteren sich inzwischen wieder leidlich gefaßt zu haben.
-Rikscha? entgegnete in einem recht überhebenden Tone:
-»Vermute! habe ich’s, Herr Kriminalkommissar.«
+Horst Ritschel, auch der österreichische Major a. D.,
+schienen sich inzwischen wieder leidlich gefaßt zu haben.
+Ritschel entgegnete in einem recht überhebenden Tone:
+»Vermutet habe ich’s, Herr Kriminalkommissar.«
 
 »Äußerst überraschend, Ihre Findigkeit, Herr Doktor …!«
-Lücke blinzelte ihn spotten; an. »Freilich, — Sie sind
-zu ein halber Detektiv … Und Ihr Freund Spitzen ist mit
-derlei Dingen auch ziemlich vertraut, Wie war das der
-gleich, Herr von Spitzen, — hat man Sie nicht unlängst
-aus den Berolina Klub hinausgehen?! Sie sollen sich da
-beim Xartengeden geirrt haben …«
+Lücke blinzelte ihn spöttisch an. »Freilich, — Sie sind
+ja ein halber Detektiv … Und Ihr Freund Spitzer ist mit
+derlei Dingen auch ziemlich vertraut. Wie war das doch
+gleich, Herr von Spitzer, — hat man Sie nicht unlängst
+aus dem Berolina-Klub hinausgetan?! Sie sollen sich da
+beim Kartengeben geirrt haben …«
 
-Spitzen fuhr wütend auf. »Ich verbitte mir solche …«
+Spitzer fuhr wütend auf. »Ich verbitte mir solche …«
 
 »Pardon — und wie war das doch mit der anderen
 Geschichte, Herr von Spitzer …? Hatten Sie nicht das Pech,
 in Verdacht zu geraten, einer Dame ein paar Briefe geschrieben
-zu haben, deren Entgelt sich als Expreß/uns deuten
-Ließ?! ich Seien Sie sich nur Diener … Ich könnte Weiß
-Noch mehr von Ihrem … Pech Verhalten … Lassen wir
-das, — Sie wohnen jedenfalls mit Herrn Ritschel Savanne
-ii Beamter in der Friedrihernher Straße, vier Zimmer,
-zweite Tat … ein Eckhaus … hastig nebenbei, — Reden
-wir besser über diese Luftpistole … Ich jene: amerikanisches
-Fabrikat, ganz moderne Konstruktion, große Durchschlag?«
-fragt auf kurze Entfernung, Kaliber 8,9 — wie die tödliche
-Kugel. Sie bleiben also dabei, Herr Ritschel daß…«
+zu haben, deren Inhalt sich als Erpressung deuten
+Ließ?! Setzen Sie sich nur wieder … Ich könnte Ihnen
+Noch mehr von Ihrem … Pech Vorhalten … Lassen wir
+das. — Sie wohnen jedenfalls mit Herrn Ritschel zusammen
+in Halensee in der Friedrichsruher Straße, vier Zimmer,
+zweite Etage … ein Eckhaus … das so nebenbei. — Reden
+wir besser über diese Luftpistole … Ich sehe: amerikanisches
+Fabrikat, ganz moderne Konstruktion, große Durchschlagskraft
+auf kurze Entfernung, Kaliber 6,9 — wie die tödliche
+Kugel. Sie bleiben also dabei, Herr Ritschel daß …«
 
-»Doktor Ritschel — — bittet«
+»Doktor Ritschel — — bitte!!«
 
-»Nun ja, wenn Ihnen etwas daran liegt, auch dies
-Frage anzuschneiden, Herr Ritschel … Hegen Sie ist Massig
+»Nun ja, wenn Ihnen etwas daran liegt, auch diese
+Frage anzuschneiden, Herr Ritschel … Gegen Sie ist Anzeige
 <@pagebreak/>
-wegen unberechtigter Führung des Doktortitels erstattet Tore
-bei … Wir mußten uns auch notwendig in letzter Zeit
+wegen unberechtigter Führung des Doktortitels erstattet worden
+… Wir mußten uns auch notwendig in letzter Zeit
 mit ihrer Person etwas mehr beschäftigen, denn Ihre intime
-Freundschaft mit Herrn von Spitzen warf bedenkliche
-Wtreiflichter auf Ihre eigene -… jagen wir … Einstellung
+Freundschaft mit Herrn von Spitzer warf bedenkliche
+Streiflichter auf Ihre eigene … sagen wir … Einstellung
 gegenüber Moral und Sitte.«
 
 Ritschel zuckte die Achseln. »Mein Doktortitel wurde
-mir von der Regierung. eines Freistaates als Dank für …«
+mir von der Regierung eines Freistaates als Dank für …«
 
-»-… diese Negierung regierte genau drei Tage, und die
-Negierenden sitzen zum Teil noch heute im Zuchthaus,
-Herr Ritschel. Ich fürchte, die Luft hier in Berlin: wird
-Ihnen in kurzem zu … Ei werden … Sie kennen doch die
-Redensart »die Luft …« — Wollen Sie zugeben, daß Sie
-vorn vornherein wußten, daß Irina den südlichsten Schuß
-abgegeben hat?!« Tuches Ton war schneidend scharf geworden,
--
-Ritschel biß sie in die Unterlippe. Er wurde erst rot,
-dann blaß… »Ich … bestreite b&8 ganz entschieden,« platzte
-er heraus, »Ich habe lediglich vermutet, daß…«
+»… diese Regierung regierte genau drei Tage, und die
+Regierenden sitzen zum Teil noch heute im Zuchthaus,
+Herr Ritschel. Ich fürchte, die Luft hier in Berlin wird
+Ihnen in kurzem zu … dick werden … Sie kennen doch die
+Redensart »dicke Luft …« — Wollen Sie zugeben, daß Sie
+von vornherein wußten, daß Irina den tödlichen Schuß
+abgegeben hat?!« Lückes Ton war schneidend scharf geworden,
 
-Lücke wandte sich an Harald, »Hätten Sie hierzu etwas
-zu bemerken?
+Ritschel biß sich in die Unterlippe. Er wurde erst rot,
+dann blaß … »Ich … bestreite das ganz entschieden,« platzte
+er heraus. »Ich habe lediglich vermutet, daß …«
 
-»BVersäyiedenes « « Er stand auf und öffnete das rechte
+Lücke wandte sich an Harald. »Hätten Sie hierzu etwas
+zu bemerken?«
+
+»Verschiedenes …« Er stand auf und öffnete das rechte
 Fenster, beide Flügel, — genau so, wie wir das Fenster gleich
-mach Bein Moose Folgerungen hatten, Die &nshoren Legten
-ließen sich nach außen öffnen. Er hakte sie Zeit, — in der.
-selben Art, wie sie vor Stunden festgehakt gewesen. — »Herr
+nach dem Morde vorgefunden hatten. Die anderen Fenster
+ließen sich nach außen öffnen. Er hakte sie fest, — in derselben
+Art, wie sie vor Stunden festgehakt gewesen. — »Herr
 Ritschel, Sie hatten sich, als der Mord geschah, hier hinausgelehnt
 und hielten Ausschau nach der Frauengestalt an
 der Fontäne …«
 
-»Der Gestalt …«, verbesserte Ritschel lernten?k. »Es kann
+»Der Gestalt …«, verbesserte Ritschel kleinlaut. »Es kann
 auch ein Mann in einem Mantel gewesen sein …«
 
 »Nun gut, — — gleichgültig! Sie schauten hinaus …
-Bitte — lehnen Sie sich genau es hinaus, wie Ecke e?
-hatten …«
+Bitte — lehnen Sie sich genau so hinaus, wie Sie es
+taten …«
 
 »Aber gern …«
 
 <@pagebreak/>
-Ritschel erhob sie; und nahm die Stellung ein,
-er angeblich hin Moment des Mordes innegehabt hat
-Harst stand hinter ihn,
+Ritschel erhob sich und nahm die Stellung ein, die
+er angeblich im Moment des Mordes innegehabt hatte.
+Harst stand hinter ihm,
 
 »Danke, Herr Ritschel. — Lücke, bitte … Lehnen Sie sich
-hinaus, Was fällt Ihnen auf?«
+hinaus. Was fällt Ihnen auf?«
 
-»Tor reckte offene, Kutters Fensterflüg spiegelt d«-
-Bei sein genau wieder. Man sieht das Instrument Tau
-deutlich, und man wurde jede Bewegung Irina Wandsofas
-Nicht nur beobachtet haben können, sondern sogar Tasche
-haben müssen, da das Spiegelbild sich einem geradelt
-aufdrängt …« — Bude trat zurück und stellte sich Ei.
-vor Ritschel hin. »Ernsten Sie jetzt mit die Tasche
-lagert, so verheilte ich sowohl Sie als auch Spitzen Wege
+»Der rechte offene, äußere Fensterflügel spiegelt den
+Bechstein genau wieder. Man sieht das Instrument ganz
+deutlich, und man würde jede Bewegung Irina Vanderkotts
+Nicht nur beobachtet haben können, sondern sogar gesehen
+haben müssen, da das Spiegelbild sich einem geradezu
+aufdrängt …« — Lücke trat zurück und stellte sich dicht
+vor Ritschel hin. »Sollten Sie jetzt nicht die Wahrheit
+sagen, so verhafte ich sowohl Sie als auch Spitzer wegen
 Begünstigung. — Raus mit der Sprache!!«
 
-Ritschel schloß wie betäubt die Augen. Erdteile Blaß)
-Üüberzog sein Gesicht. Er hüstelte, senkte den Kopf … Sein
-Stirn glänzte vor Schweiß…
+Ritschel schloß wie betäubt die Augen. Erdfahle Blässe
+überzog sein Gesicht. Er hüstelte, senkte den Kopf … Seine
+Stirn glänzte vor Schweiß …
 
-»Ich … ich …« — er rang förmlich nach Luft …
-»Ah … gebe zu, daß Irina … geschossen hat …! Ich wollt
+»Ich … ich …« — er rang förmlich nach Luft … —
+»ich … gebe zu, daß Irina … geschossen hat …! Ich wollte
 sie schonen … Ich bin ihr ein treu ergebener Freund …«
 
-atmen
+<h2>4. Kapitel.</h2>
 
-6\. Japaner.
-
-Der Bleiche.
+<h3>Der Bleiche.</h3>
 
 Haralds ironisches Lachen ließ ihn herumfahren,
 
 »Was … finden Sie dabei so komisch,« hauchte er ihn
-an.! …
+an.
+
 »Wenn Lücke gestattet, will ich Ihr schwaches Gedächtnis
 schnell heilen, Herr Ritschel. Sie sagen, Irina hätte geschossen
-…« .:
+…«
 
-»Tun ja …«
+»Nun ja …«
 
 »und Sie sahen in der Fensterscheibe auch, wie sie die
-Waffe ix dein flachen Beutel unter dem Flügel verbarg?«
+Waffe in dem flachen Beutel unter dem Flügel verbarg?«
 
 <@pagebreak/>
-»24 aß Uns, Das dir Die Pistole unter den Flügel
-»ab … Boot den Beutel Vertrag sah) glich; nicht.«
+»Ich sah nur, Daß sie Die Pistole unter den Flügel
+schob … Von den Beutel wußte ich noch nichts.«
 
-und es Ab Sir Deich mit ist miserabel, Wenn Sie
-wieder mal erst an! in der Hosentasche tragen,
-wartet Aufs besser ging Soldaten…«
+»So … so … Ihr Gedächtnis ist miserabel. Wenn Sie
+wieder mal einen Hammer in der Hosentasche tragen,
+wählen Sie besser einen kleineren …«
 
-Zustand Befehle zum. Seite Zuge verzerrten sich …
-»Lücke, gehauen Sie ihn den Hammer wer … Wahr«
-jmeinlich Hat ei auch Wage! in der Hojeutaijäye, jogeiltauunie
-blauföpfe, mit mit vielen Atlas schwarze Du unten am
-Pech Bein festgenagelt! Wurden …«
+Ritschel prallte zurück. Seine Züge verzerrten sich …
 
-Heer Hinter Forst Aufseher machte sich am nächsten
-Gestalt festhalten, seine Werden versagten … 68,
+»Lücke, nehmen Sie ihm den Hammer weg … Wahrscheinlich
+Hat er auch Nägel in der Hosentasche, sogenannte
+Blauköpfe, und mit diesen ist das schwarze Tuch unten am
+Bechstein festgenagelt Worden …«
 
-Mühe satte ihn! einfach für die yoseintasche, Holte einen.
-Hammer greiser, Trompete die Tasche um, laut außer eine«
-Auswahl von BiaaFöpjen fielen noch Stücke säuberten Insel
-wo eine Kleine Schere heraus,
+Herr Doktor Horst Ritschel mußte sich am nächsten
+Sessel festhalten, seine Nerven versagten …
 
-»Ich deute,« weinte Harald, »Herr Ritschel wird seine
-Glauben nun Mark Korrigieren.«
+Lücke faßte ihm einfach in die Hosentasche, Holte einen
+Hammer hervor, krempelte die Tasche um, und außer einer
+Auswahl von Blauköpfen fielen noch Stücke schwarzen Tuches
+und eine kleine Schere heraus,
 
-Linde war rot. vor Grimm »geworden. »Sie … Sie
-elender Wicht, Sie haben das Versteck unter dem Veihsiciäa
-erst jetzt pagebreak!! — Wozu?«
+»Ich denke,« meinte Harald, »Herr Ritschel wird seine
+Angaben nun stark Korrigieren.«
+
+Lücke war rot vor Grimm geworden. »Sie … Sie
+elender Wicht, Sie haben das Versteck unter dem Bechstein
+erst jetzt angebracht!! — Wozu?!«
 
 Aber Ritschel war vorläufig erledigt. Er war in den
-Sessel gesunken und Schleppte nach Luft, während sein edler
-Kreuzte Spitzer sich wie ein Bersczmachtender die farblosen
+Sessel gesunken und Schnappte nach Luft, während sein edler
+Freund Spitzer sich wie ein Verschmachtender die farblosen
 Lippen leckte und genau so erdfahl war.
 
-Zu Feuer Unheil erklärte jetzt noch Heribert Prank:
-»Es wird damit schon seine Mattigkeit haben, denn als ich
-die Diele betrat, hörte ja) dumpfes Hämmern: Ich glaubte,
-es käme aus dem Oberstock … Ader jetzt besinne ich Wunsch
+Zu beider Unheil erklärte jetzt noch Heribert Prank:
+»Es wird damit schon seine Richtigkeit haben, denn als ich
+die Diele betrat, hörte ich dumpfes Hämmern: Ich glaubte,
+es käme aus dem Oberstock … Aber jetzt besinne ich mich
 genau, daß das Hämmern von einem merkwürdigen Klirren
 begleitet war, — das waren eben die durch Hammerschläge
 vibrierenden Saiten des Bechstein,«
 
-Lücke nickte ihm zu. «&in Glück, daß wir Sie un94h) alt
-Zeugen haben, Herr Prank. Nun Angaben wir die Herrschaften
+Lücke nickte ihm zu. »Ein Glück, daß wir Sie noch als
+Zeugen haben, Herr Prank. Nun haben wir die Herrschaften
 endgültig fest.« — Er setzte sich, und seine Miene verriet,
-
 <@pagebreak/>
-— Nichts Wales, »Herr von Spitzen, Bechert dieser Schultern
-Greis, Bescheid brachten Sie beide die Tasche zu der
-»Unterseite des Flügels aus! Ihr Freund Mittel somit
-»vorerst nicht ermordet zu können. Kilo bitte … »Na«
+nichts gutes. »Herr von Spitzer, weshalb dieser Schurkenstreich,
+weshalb brachten Sie beide die Tasche an der
+Unterseite des Flügels an?! Ihr Freund Ritschel scheint
+vorerst nicht antworten zu können. Also bitte …!«
 
-Spitzen Marchese undeutlich:
+Spitzer murmelte undeutlich:
 
-»Ich :… ich weiß gar Lichte … Ich glaube, Ritschel hatte
+»Ich … ich weiß gar nichts … Ich glaube, Ritschel hatte
 daß so mit Irina verabredet …«
 
-Lücke zog die Augenbrauen feucht »Verabredet f! Wollen
+Lücke zog die Augenbrauen hoch. »Verabredet?! Wollen
 Sie mich veralbern?!«
 
-Fischer richtete sich auf … Die Sagen quollen ihm fast
-aus dem! Kopfe … Seine Blicke ruhten auf »darfst, und Co
-zischte diesen geifernd an: »Sie habe! das graute Sein
-»auf dem Gewissen, Sie … Sie Schneller!! — Irina führte
-recht gut, dar Doktor Lücke ihr mißtraute … Sie Bai wich
-chemisch, ihr zu zeigen, den Tatbestand irgendwie zu verwirren
-… Ich kam auf die Ihre, Spitzers Luftpistole hierzu
-zu benutzen. Wir nagelten den Streift Zeit und Legten die
-Pistole in das Geistes, — wir »wollten sie nachher entweder
-selbst wie zufällig finden oder »doch die Polizei irgendwie
-auf das Versteck hinweisen …
+Ritschel richtete sich auf … Die Augen quollen ihm fast
+aus dem Kopfe … Seine Blicke ruhten auf Harst, und er
+zischte diesen geifernd an: »*Sie* haben das arme Geschöpf
+auf dem Gewissen, Sie … Sie Schnüffler!! — Irina fühlte
+recht gut, daß Doktor Lücke ihr mißtraute … Sie bat mich
+flehentlich, ihr zu helfen, den Tatbestand irgendwie zu verwirren
+… Ich kam auf die Idee, Spitzers Luftpistole hierzu
+zu benutzen. Wir nagelten den Stoff fest und Legten die
+Pistole in das Versteck, — wir wollten sie nachher entweder
+selbst wie zufällig finden oder doch die Polizei irgendwie
+auf das Versteck hinweisen …«
 
-»Blödsinn!« sagte Wracks wegwerfend.
+»Blödsinn!« sagte Lücke wegwerfend.
 
-Aber Ritschel hatte wo« einen Trumpf auszuspielen,
-»Kein Blödsiuni neben Sie die Kugel bei sich?«
+Aber Ritschel hatte noch einen Trumpf auszuspielen.
+»Kein Blödsinn! Haben Sie die Kugel bei sich?«
 
-»6. Hier ist sie …
+»Ja. Hier ist sie …«
 
-»Versuchen Sie zwar das Gerichtet ist die Pistole zu
-laden. Die Pistole hat Kaliber 6,7, nicht 6,4.«
+»Versuchen Sie einmal das Geschoß in die Pistole zu
+laden. Die Pistole hat Kaliber 6,7, nicht 6,9.«
 
-Made war sichtlich überrascht. Er nahm die Waffe,
-klappte Aden Lauf herab und wollte die Kugel in die
-Kammer schieben, Es war unmöglich. Das Kaliber des Es«
-Schlosses war zu groß,
+Lücke war sichtlich überrascht. Er nahm die Waffe,
+klappte den Lauf herab und wollte die Kugel in die
+Kammer schieben. Es war unmöglich. Das Kaliber des Geschosses
+war zu groß,
 
 Auch Harald war verblüfft. Er beobachtete Ritschel und
-Spitzen, und als er wie ich merkte, daß die beiden jetzt
-allmählicg) ihre Sichersten niedersanken, Saale er nacdenlUc:
-»Klasse den Tatbestand wollten Sie-VEbeWXCUr— in. Irina
+Spitzer, und als er wie ich merkte, daß die beiden jetzt
+allmählich ihre Sicherheit wiederfanden, sagte er nachdenklich:
+»Also den Tatbestand wollten Sie verwirren, — in Irinas
 <@pagebreak/>
-Interesse angeblich … Dir gelegenes Mittel, eile Der.
-Dr von gewunden abzulenken … tt
+Interesse angeblich … Ein seltsames Mittel, einen
+Verdacht von jemandem abzulenken …!«
 
-Wunsch lächelte anmabßed. »Ein Mittel, Herr Harst,
-das seinen Zweck erstickt Falle …!! Die Polizei Hätte herrührte
-gefunden, 3248 Die Kugel zur ist in Die Bestie Vitrine
-paßte, Hut Weise Fingerspuren Haben, es handelt sich der
-4\.3 Satze Versuch des wahren Täters, den Verdacht! gegen
-ein zu verstörtes. Mittag Ware Irina in der Ha? rum
-«»Alter Worden, Hab wog besitze ich Ein Intimen, daß die
-Überhitzte uns Das Spieß verbunden, Irina ich 4 er heisere
-die Mörderin, des weiß ich) am beiden …«
+Ritschel lächelte anmaßend. »Ein Mittel, Herr Harst,
+das seinen Zweck erfüllt hätte …! Die Polizei Hätte herausgefunden,
+daß Die Kugel gar nicht in die Waffe hineinpaßte,
+und würde angenommen Haben, es handelt sich hier
+um einen Versuch des wahren Täters, den Verdacht gegen
+Irina zu verstärken. Mithin Wäre Irina in der Tat entlastet
+Worden. Und das wollte ich. Ein Jammer, daß die
+Umstände uns Das Spiel verdarben. Irina ist ja niemals
+die Mörderin, des weiß ich am besten …«
 
-wollte fragte ja flimmernd: »Sie sind doch; stark ’12cC-
-schreitet … Viertel zahlte Irina Ihnen für diesen … Picbesdieast?
-e«
+Lücke fragte fast lauernd: »Sie sind doch stark verschuldet
+… Wieviel zahlte Irina Ihnen für diesen … Liebesdienst?«
 
-»Nichts?« ließ Ritschel empor!,
+»Nichts!« rief Ritschel empört,
 
-»Legen Sie den Spitzen Inhalt? Ihrer Taschen auf den
-Fisch — auf) Sie, Her? von Spizper!l« befahl Tue ich.
-»Bitte — etwas fix)! Soll im nachhelfen?! Ihr Zögern
+»Legen Sie den ganzen Inhalt Ihrer Taschen auf den
+Tisch — auch Sie, Herr von Spitzer!!« befahl Lücke eisig.
+»Bitte — etwas fix!! Soll ich nachhelfen?! Ihr Zögern
 verrät genug …«
 
-Harst Ritschel war wieder erheblich blaß geworden,
+Horst Ritschel war wieder erheblich blaß geworden,
 
-»Nun gut, — was ist den fälschlich dabei,« meinte
-er achselzuckend. »Irina nahm ihr Forscht mit,!schenkte mir
-aber einige Schmuckstücke … Hier sind sich …«
+»Nun gut, — was ist denn schließlich dabei,« meinte
+er achselzuckend. »Irina nahm ihr Bargeld mit, schenkte mir
+aber einige Schmuckstücke … Hier sind sie …«
 
 Er legte ein Brillantarmband und anderes auf den Tisch,
-— es war ein kleiner Juwelenläden,
+— es war ein kleiner Juwelenladen,
 
-»Irina bezahlt glänzend,« lobte Jähe … »Lieber Schraut,
-packen Sie doch die Kleinigkeiten ein. ich bejdagnädme sie
-vorläufig.« — Und zu Ritschel; »Trotzdem — Sternen Sie
+»Irina bezahlt glänzend,« lobte Lücke … »Lieber Schraut,
+packen Sie doch die Kleinigkeiten ein. ich beschlagnahme sie
+vorläufig.« — Und zu Ritschel: »Trotzdem — leeren Sie
 Ihre Taschen, — — Sie auch, Herr Major …!«
 
-»Ich protestiere!« Feuchte Ritschel in ohnmächtiger Wut,
+»Ich protestiere!« keuchte Ritschel in ohnmächtiger Wut,
 
 »Meinetwegen, — aber gehorchen Sie … oder …« —
-und er brachte ein Haar FJundschellea zum Warschau. »Ihre
-gistsprizeunde Feder wird niemandenmt mehr satt, Kaiser.
-Überreste Pflaumen fallen ab und haben Maden …«
+und er brachte ein Haar Handschellen zum Vorschein. »Ihre
+giftspritzende Feder wird niemandem mehr schaden, Ritschel.
+Überreife Pflaumen fallen ab und haben Maden …«
 
 <@pagebreak/>
-Mittag« hatte in der Brieftasche dreitausend Mark,
+Ritschel hatte in der Brieftasche dreitausend Mark,
 Spitzer eintausend.
 
-»Nu von Irina also …« nicht! € sage gleichmütig. »Ein!
-glänzendes Geschäft, so ein »Kamteradschaftsdieitit «+
+»Auch von Irina also …« nickte Lücke gleichmütig. »Ein
+glänzendes Geschäft, so ein Kameradschaftsdienst …«
 
-Die beiden seinen Herren einbiegen.
+Die beiden feinen Herren schwiegen.
 
-Lücke blätterte in den Papieren Fischers, — s237 zu
-dessen Unbehagen. Mit einem Male stutzte Lücke. »Kommen«
-weiter, — Ei« scheinen ja mit Irina häufiger Geldgesäzuifte
+Lücke blätterte in den Papieren Ritschels, — sehr zu
+dessen Unbehagen. Mit einem Male stutzte Lücke. »Donnerwetter,
+— Sie scheinen ja mit Irina häufiger Geldgeschäfte
+gemacht zu haben … Hier ist ein Brief Irinas von vor
+zwei Wochen … Sie schreibt:
 
-gemacht 31: haben … Hier ist ein Brief Irinas von vor
-
-zwei Woher … Sie schreibt:
-»Lieber R., ich werde Ihnen die Turmruine äberymorgen
+> »Lieber R., ich werde Ihnen die Summe übermorgen
 übergeben. Morgen ist es unmöglich. Kommen Sie wie
-stets an die Fontäne, aber erst nach zwölf, es wiegt jv
+stets an die Fontäne, aber erst nach zwölf, es ist jetzt
+sehr lange hell. &nbsp; &nbsp; &nbsp; &nbsp; I. V.«
 
-sehr lange hell. Ob.«
-Hm — also, nachher sollten. Sie das Geld in Empfang
+Hm — also, nachher sollten Sie das Geld in Empfang
 nehmen …«
 
-»Ein Darlehn,« meinte Fischer gelassen, »Was geht das
+»Ein Darlehn,« meinte Ritschel gelassen. »Was geht das
 Sie an?! Nichts!«
 
-»Da haben Sie beinahe recht. Viehs gebt das nichts
-mehr an. Ich verhafte Sie beide, mache meinen Benutzt, und
+»Da haben Sie beinahe recht. Mich geht das nichts
+mehr an. Ich verhafte Sie beide, mache meinen Bericht, und
 ein anderer Kollege führt die Sache zu Ende, da ich mit
-
 dem Morde genug zu tun habe.«
-Draußen blitzte es wieder … Das Gewitter, das zuerst
 
-wohl nicht über die Havel gekommen wär, 394 nun doch
+Draußen blitzte es wieder … Das Gewitter, das zuerst
+wohl nicht über die Havel gekommen war, zog nun doch
 herauf. In das Grollen des Donners mischte sich ein anderer
-schriller Ton … Es klang wie der Ruf altes Nachtvvgels …
+schriller Ton … Es klang wie der Ruf altes Nachtvogels …
 
 Ritschel hatte lauschend den Kopf nach dem Fenster
-gedreht. Bildet Drohung hatte gegenüber dein, was Harst
-Ritschel jetzt zu fürchten schien, jede Bedeutung verloren, Er
+gedreht. Lückes Drohung hatte gegenüber dem, was Horst
+Ritschel jetzt zu fürchten schien, jede Bedeutung verloren. Er
 umkrallte die Sessellehnen, er stierte in die Dunkelheit hinaus.
-— Das Neugier war;noch offen…
+— Das Fenster war noch offen …
 
-Ich sah, daß ein Zittern seine Je statt überlief … — Dann
+Ich sah, daß ein Zittern seine Gestalt überlief … Dann
 duckte er sich hinter der Sessellehne scheu zusammen und
-flüsterte heiser: »Rollte G’v Sie 0:2 Fenster, — un (Glattes
+flüsterte heiser: »Schließen Sie das Fenster, — — um Gottes
 <@pagebreak/>
-Willen, schließen Sie das Fenster und »… ziehen Sie die
+Willen, schließen Sie das Fenster und … ziehen Sie die
 Vorhänge zu …!«
 
-Spitzer aber war wie ein Blieb unter dem Tische verschwunden,
-holte sich einsah vom Sofa herabgleiten lassen …
+Spitzer aber war wie ein Blitz unter dem Tische verschwunden,
+hatte sich einfach vom Sofa herabgleiten lassen …
 
 Wir schauten halb erstaunt, halb erschrocken ebenfalls
 auf das Fenster. Mit einem Male schob sich der Lauf einer
 Büchse über den Fensterrand, ein Kopf folgte … Es war
-ein Mann mit einem udheimlich bleichen Gesicht, schwarzem
-Zu! und einer Dorubriile.
+ein Mann mit einem unheimlich bleichen Gesicht, schwarzem
+Bart und einer Hornbrille.
 
-Sein Befehl an uns« war eindeutig genug … Oben
-auf der Mündung der Büchse saß eine trichterförmige Berg
-längerung. -.
+Sein Befehl an uns war eindeutig genug … Oben
+auf der Mündung der Büchse saß eine trichterförmige Verlängerung
+…
 
-Als Rückte nicht sofort die Arme hochreckte, ertönte ein
-schwaches Nassen, und eine Tages setzte an Blies Ohr Dornen.
+Als Lücke nicht sofort die Arme hochreckte, ertönte ein
+schwaches Puffen, und eine Kugel fegte an Lückes Ohr vorüber.
 
-Der zweite Befehl ’galt- Spitzer und Fische.
+Der zweite Befehl galt Spitzer und Ritschel.
 
-»Kommt heraus — schteuaigimtt«
+»Kommt heraus — schleunigst!!«
 
 Ritschel, verborgen hinter der Sessellehne, heulte entsetzt,
-— — ein gräßlicher Ehre! war’s, wie ihn nur ein
-Mensch in höchster Todesangst ausstößt.«
+— — ein gräßlicher Schrei war’s, wie ihn nur ein
+Mensch in höchster Todesangst ausstößt.
 
-»Kommt, ich tue euch) nichts!« rief der bleiche Kerl …
-»Mein Wort, ich tue ein) nichts!«
+»Kommt, ich tue euch nichts!« rief der bleiche Kerl …
+»Mein Wort, ich tue euch nichts!«
 
-Spitzer hm unter dem Tische hervor … Er sprang
-als erster in den Garten hinab …« Ritschel folgte, — —
-und dann — — erlosch) das Licht im Musikzimmer und im
-
+Spitzer kroch unter dem Tische hervor … Er sprang
+als erster in den Garten hinab … Ritschel folgte, — —
+und dann — — erlosch das Licht im Musikzimmer und im
 Salon.
-Ein neuer Blitz klarmachte auf … Aber der Bleiche war
 
+Ein neuer Blitz flammte auf … Aber der Bleiche war
 noch da …
-»Nähe! euch nichts«
 
-Es puffte wieder, zxnd ein Bild an der Wand her
-splitterte …
+»Rührt euch nicht!!«
+
+Es puffte wieder, und ein Bild an der Wand zersplitterte
+…
 
 Das Prasseln einer jäh herabstürzenden Regenflut übertönte
-alles übrige … Zeit war zum Fenster gekrochen, — —
-er schoß in die Tintterpvizs hinein, er jene t? viermal …
-
+alles übrige … Harst war zum Fenster gekrochen, — —
+er schoß in die Finsternis hinein, er feuerte viermal …
 <@pagebreak/>
-Aber als vier nun die Verfolgung aufnahmen, waren die
-Flüchtlinge Rani ihrem merkwürdigen Retter langst verschwunden.
+Aber als wir nun die Verfolgung aufnahmen, waren die
+Flüchtlinge samt ihrem merkwürdigen Retter langst verschwunden.
 
-5\. Kapitel,
-Die von drüben.
+<h2>5. Kapitel,</h2>
+
+<h3>Die von drüben.</h3>
 
 Die Halbe Stunde, die wir dann noch in der Villa zubraäcdjien,
 war nur in Eltern von Nutzen, als wir taucht
@@ -1169,7 +1160,7 @@ sie sollten die Villa sofort verlassen. Im übrigen konnten die
 vier — Zofe, Köchin, Diener, Chauffeur — nichts ans
 geben, was die Dinge irgendwie geklärt hätte. Irina war
 offenbar sehr vorsichtig gewesen. Sie hatte das Personal
-immer früh zu Bett Gesicht.« Mit Ritschel und Spitzen hatte
+immer früh zu Bett Gesicht.« Mit Ritschel und Spitzer hatte
 sie stets sehr gut gestanden, — was natürlich eitel Spiegel«
 Schleier gewesen war, dein wir wußten es besser. Es
 Minen ohne Zweifel von Ritschel und Spitzer seit längerem
@@ -1214,7 +1205,7 @@ unterm stürzten, und wir werden noch« mehr erleben. Eins
 ist gewiß, lieber Lücke: Der Bleiche mit dem drohenden Baß
 ist der Hauptmacher, ist der Mitlsötpunkt, ist Felix Ganottas
 Mörder und auch der, der Sie-.niederschlug. Ritschel und
-Spitzen hatten vor ihm eine gräßliche Angst, — sie kannten
+Spitzer hatten vor ihm eine gräßliche Angst, — sie kannten
 ihn sehr gut, sie kannten auch das Signal, mit dem er
 sein Erscheinen und Eingreifen ankündete. Dieser Kreiste
 hatte einen Helfershelfer, der den Hauptlichtschalter im richtigen
@@ -2090,7 +2081,7 @@ das nicht, — — und Sie müssen Sitz schon damit abfinden,
 daß Irina den Legationsrat töten wollt? … Sie drücken
 auch das nicht verpestet, Prau: Fertig wird es, Die öu8
 Licht ausschaltete, als Pingalli uns mit tote Karabiner bedrohte
-und als Ritschel und Spitzen Speichen Vers: — Ich
+und als Ritschel und Spitzer Speichen Vers: — Ich
 überschaue die Zusammenhänge noch nicht vollständig. Jungen
 Sie nichts … Irina wird auch kaum gefunden werden …
 — Übrigens ist auch Helga eine glänzende »41 Spielerin.
