@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">5d38fb73-0d53-4094-bd9a-7e7b48a65a68</entry>
+<entry key="title">Das Gasthaus zur weißen Ratte</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">248</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Das Gasthaus zur weißen Ratte
+
+Harald trat zu uns. Blanche von Ettar schaute ihm entgegen, als ob sie seine Persönlichkeit bis auf den Grund der Seele prüfen wollte. Auch ihm reichte sie die überschmale Hand, die ein so zerbrechliches Gelenk und so tadellos gepflegte Finger hatte und von der Maisonne bereits so dunkel gebräunt war. Sie lächelte ein wenig und meinte mit feiner Ironie wie zu sich selbst: »Nicht wahr, ich bin ein ganz anmaßendes kleines Frauenzimmer, daß ich es wagte, Sie beide eines einfachen Diebstahls wegen hierher zu bemühen.  Wir Frauen haben ja alle denselben Fehler. Wir überschätzen regelmäßig die Wichtigkeit derjenigen Dinge, die uns selbst etwas angehen. Und mich geht dieser Einbruch ja insofern etwas an, wie ich Ihnen schon am Fernsprecher mitteilte, als ich keinen Waffenschein besitze und dem Kerl eins auf den Pelz gebrannt habe — mit einem Revolver älteren Formats, den man besser als Bumerang benutzt als zum Schießen …« Sie lächelte noch stärker und zeigte ihre prachtvollen Zähne zwischen den vollen, aber feingeschwungenen Lippen. »Ich habe also richtiggehende Angst vor unbefugter Waffenbesitzanklage, um mich kurz auszudrücken.  Deshalb ließ ich auch die Polizei aus dem Spiel und bat Sie beide, mir zu raten und zu helfen, zumal ich noch etwas anderes von dem Diebe erwischt habe: Seine Hand!«
+
+Die weiße Ratte
+
+Harald schlief. Er ruhte auf seinen Lorbeeren aus.  Trotzdem: Ich hatte den Eindruck, daß er mir auch diesmal wieder allzuviel verschwieg, der gute Harald … dieser Jongleur mit Gedanken, dieser Taschenspieler, was das Verbergen der Gedanken betrifft.
+
+Ich sah Blanche von Ettar vor mir in dem beschmutzten Kostüm mit den öligen Händen, wie sie schleunigst von der Arbeit an ihrem Motorrad zur Vernehmung herbeigeeilt war … — Ich sah ihr feines, zartes, widerspruchsvolles Gesicht und die hohe kluge Stirn, die sie so gern krauste, und … diese Lippen, wie in Lebenssehnsucht gewölbt …
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (248) Das Gasthaus zur weißen Ratte.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1929</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
