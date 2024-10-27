@@ -73,11 +73,11 @@ werden dort rasch abgeschliffen. Die große Menge sollte
 unseren Freunden dort mehr Verständnis entgegenbringen.
 
 <@pagebreak/>
-Ob Thea wohl zugeben würde, laß sie herzlichere Beziehungen
+Ob Thea wohl zugeben würde, daß sie herzlichere Beziehungen
 zu dem Sohne des einzigen Freundes ihres Vaters
 unterhalten habe?! Gelling selbst hatte auf diese Frage
 hin erwidert, seine persönlichen Angelegenheiten bäte er
-unberührt zu lasen, er kenne Thea nur flüchtig.
+unberührt zu lassen, er kenne Thea nur flüchtig.
 
 Das besagte gar nichts. —
 
@@ -246,7 +246,7 @@ Ich hatte ein sehr feines Gefühl für Harsts Stimmung,
 für seine Redensarten und ihren tieferen Grund. Diese nichtssagenden
 Phrasen machten mich stutzig.
 
-Inzwischen hatte die Grenzlinie des Mondsichel sich
+Inzwischen hatte die Grenzlinie des Mondlichtes sich
 bis zu den offenen breiten Fenstern des Wintergartens
 emporgeschoben. Ich wollte meinen Sessel gerade rückwärts
 in den Schatten drücken, als hinter uns eine tiefe rauhe
@@ -462,7 +462,7 @@ Harst half mir auf die Beine.
 
 »Das … hatte ich … nicht erwartet,« sagte er stockend
 und mit schwerer Zunge. »Es … waren … drei außer
-dem gräßlichsten Menschen … drei. Einer hat den Hauptschalter
+dem gräßlichen Menschen … drei. Einer hat den Hauptschalter
 im Flur ausgedreht, die beiden anderen schlugen uns
 nieder … Wie mögen sie hereingekommen sein?«
 
@@ -553,7 +553,7 @@ Wir saßen wieder im Wintergarten.
 »Und jetzt?!« fragte ich zaudernd.
 
 »Warten wir bis morgen früh,« erwiderte Harald sinnend.
-»Ich weiß nicht recht … — je mehr im mich nun an
+»Ich weiß nicht recht … — je mehr ich mich nun an
 meinen eigenen Schlußfolgerungen berausche, desto nüchterner
 werde ich …«
 
@@ -772,7 +772,7 @@ von einer anderen Person erschossen wurde, nicht von demselben
 Manne, der Ihren Vater tötete … Was Sie soeben
 über den Gewehrstock erzählten, kann nicht richtig sein. Ihre
 Diplomatie, Herr Doktor, ist fadenscheinig. Die Kugel, die
-Menk auslöste, hatte Kaliber 6,9, und der Schuß kann
+Menk auslöschte, hatte Kaliber 6,9, und der Schuß kann
 aus weiterer Entfernung abgegeben worden sein. Der Revolver
 neben Menk hatte Kaliber 7,5 … Es ist eine alte
 unmoderne Waffe, ein Trommelrevolver. Kriminalkommissar
@@ -820,7 +820,7 @@ Forkenbeckstraße. Die mondhelle Nacht mit ihrem sommerlichen
 Frieden konnte unsere gedrückte, ungemütliche Stimmung
 nicht bessern. Wir kamen in die Warnemünder
 Straße, gleich darauf deutete Gelling auf einen schiefen
-Drahtzaun … »Hier ist das Loch … Sie Sehen, die Umwohner
+Drahtzaun … »Hier ist das Loch … Sie sehen, die Umwohner
 benutzen dieses Grundstück als Müllabladeplatz …
 Die alten Matratzen, Kochtöpfe, zerbrochenes Geschirr und
 Ziegelhaufen sind ein Skandal für diese Umgebung …«
@@ -1124,8 +1124,8 @@ die gebrochenen Augen zu …
 <#import "*/harst.ftl" as harst>
 <@harst.naechsterband band="Irinas Verhängnis."/>
 
-<p style="margin-top: 5em; font-size: xxl;">Abseits vom Alltagswege</p>
+<p style="text-align: center; margin-top: 5em; font-size: xx-large;">Abseits vom Alltagswege</p>
 
-<p style="text-align: centered; white-space: pre-wrap; font-size: xl;">Vergessen Sie bitte nicht
+<p style="text-align: center; white-space: pre-wrap; font-size: x-large;">Vergessen Sie bitte nicht
 das neue Heft zu lesen.</p>
 

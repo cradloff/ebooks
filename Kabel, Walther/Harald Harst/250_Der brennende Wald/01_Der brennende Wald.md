@@ -56,7 +56,7 @@ Es geht um ein Menschenleben.«
 
 »Hier — rauchen Sie diese belegte Stulle, — denn
 das wirkliche Rauchen ist hier verboten, und lügen Sie
-los? Sie müssen wissen, Jolly, Schraut und ich suchen
+los! Sie müssen wissen, Jolly, Schraut und ich suchen
 gerade Beschäftigung …«
 
 Jolly Banke, stets nur Pickel-Jolly genannt, glich so
@@ -69,7 +69,7 @@ Gesichtsfarbe paßte zu diesem Vergleich.
 »Allerhand Achtung …!! Hut ab!!« Er zog seinen Kalabreser
 und besichtigte dann den Belag der Klappstulle.
 »Zungenwurst — nicht schlecht … Sie wird mir die eigene
-Zunge geschmeidiger machen …« Sein Gesichts behielt jedoch
+Zunge geschmeidiger machen …« Sein Gesicht behielt jedoch
 denselben gehetzten Ausdruck bei, und ohne Übergang
 fügte er hinzu: »Arthur Menk ist gestern entlassen worden …«
 
@@ -115,7 +115,7 @@ Menk, die vor uns anderen die Bildung und den Doktortitel
 voraushaben, finden immer Mittel und Wege, ihre
 Opfer zu treffen …«
 
-Er trank aus der Flasche und rückte mehr in die Sonne,
+Er trank aus der Flasche und rückte mehr in die Sonne.
 »Sie glauben gar nicht, Herr Harst, wie glücklich ich bin,
 daß ich Sie nun als … als Schutzengel neben mir weiß.
 <@pagebreak/>
@@ -183,7 +183,7 @@ Man bedenke: Wir sahen drüben, wo die Waldschule
 liegt, verschiedene Spaziergänger …! Und doch riskierte dieser
 Halunke es, uns jetzt noch fester zu binden … Dann
 vernahm ich das leise Knallen eines Stöpsels, der aus
-einer Flasche gezogen: wurde … Ich roch Chloroform …
+einer Flasche gezogen wurde … Ich roch Chloroform …
 Ich wußte nun, was uns bevorstand … Wenn es wirklich
 Arthur Menk war, so wollte er uns zumindest für Stunden
 unschädlich machen.
@@ -303,7 +303,7 @@ setzen.
 
 Als wir uns der Villa näherten — die Heydenstraße
 lag in der Sonnenglut der Mittagsstunde völlig verlassen
-da —, hörten wir schon von weiten erregte Stimmen. Dann
+da —, hörten wir schon von weitem erregte Stimmen. Dann
 eilte aus der Gitterpforte die schlanke Thea barhäuptig auf
 die Straße, hinter ihr drein der angejahrte Diener und der
 dicke kleine Chauffeur, die ihre Herrin ziemlich rücksichtslos
@@ -455,7 +455,7 @@ Harald blickte sie zerstreut an und erwiderte recht geistesabwesend:
 »Wenn der Monteur Hugo Abel draußen auf dem
 Fenstersims stand und an dem Blitzschutz arbeitete, müssen
 Sie ihn doch gesehen haben, gnädiges Fräulein … Auf
-der Terrasse steht ein Liegestuhl … Benutzen Sie den?«
+der Terrasse steht ein Liegestuhl … Benutzten Sie den?«
 
 »Ja …« Das klang verdächtig zögernd. »Aber ich
 saß mit dem Rücken nach dem Hause, Herr Harst,« fügte
@@ -572,7 +572,7 @@ Herr Hofrat?«
 
 »Vielleicht allzu viel … Doch gehen wir … Friedrich
 hat die Kriminalpolizei schon benachrichtigt … —
-Sie, Herr Jahnke, sind wohl der Hauptzeuge, … Halten
+Sie, Herr Jahnke, sind wohl der Hauptzeuge … Halten
 Sie sich bereit … Am besten, Sie kommen mit auf die
 Terrasse …«
 
@@ -772,7 +772,7 @@ spöttischen Augen, alles in allem eine Figur für einen
 Idealdetektiv aus einem modernen Kriminalroman.
 
 Jolly Banke schaute Harald erwartungsvoll an. Aber
-mein Freund, der nicht minder vorsichtig sein sein kann als
+mein Freund, der nicht minder verschlossen sein sein kann als
 Egon Cord, entgegnete nur: »Finden Sie den Grund für
 Menks Besuch bei Larnays heraus, und … Sie haben auch
 den Mörder, Jolly!!«
@@ -1046,7 +1046,7 @@ Puder und anderes.
 
 Weder Doktor Gelling noch unser bisheriger Freund
 Pickel-Jolly waren dazu zu bewegen, auch nur irgendeine
-Aussage zu machen, Sie schwiegen mit einer Hartnäckigkeit,
+Aussage zu machen. Sie schwiegen mit einer Hartnäckigkeit,
 die zur Folge hatte, daß Doktor Cord beide verhaftete und
 sie getrennt nach dem Präsidium schaffen ließ.
 
@@ -1066,7 +1066,7 @@ seit dem 12. Juni und hatte zurzeit Urlaub — — seit dem
 fünfzehnten!! Und an diesem Tage hatte hier »Hugo Abel«
 gemietet, nachdem er schon am zehnten und elften mit der
 Moldenhauer über das Zimmer verhandelt hatte, — Gelling,
-dreißig Jahre alt, entstammte einher reichen Münchener
+dreißig Jahre alt, entstammte einer reichen Münchener
 Familie. Gegen ihn lag bisher nichts vor. Die Moldenhauer
 stellte ihm ebenfalls das beste Zeugnis aus: Solide,
 höflich, großzügig im Zahlen.
@@ -1164,7 +1164,7 @@ war in keiner Weise verlegen, nur sehr bedrückt und traurig.
 Ihnen mancherlei aufzuklären. Mein Benehmen
 im Hause der Moldenhauer mußte Sie argwöhnisch machen.
 Meine Bestürzung im Flur beim Anblick Doktor Gellings
-hatte einen tieferen Grund, …«
+hatte einen tieferen Grund …«
 
 Er lächelte schmerzlich …
 
@@ -1190,7 +1190,7 @@ ab, nur ein Glas Rotwein nahm er dankend an.
 <@pagebreak/>
 »— Ich bin geborener Nürnberger. Ich hatte in
 München später ein Baugeschäft. Es sind nun fünfundzwanzig
-Jahre her, und das einzige Kind meiner später Ehe war
+Jahre her, und das einzige Kind meiner späten Ehe war
 damals fünf Jahre alt. Geschäftsreisen führten mich in die
 nordischen Hauptstädte. In Hamburg wurde ich im Hotel
 Excelsior zu unrecht in eine Diebstahlsache verwickelt. Ich
@@ -1305,9 +1305,9 @@ die gesunde Luft des Vororts atmen. Sie können sich erkundigen,
 
 Harst und ich waren gleichmäßig verblüfft. Daß Doktor
 Gelling log — ausgeschlossen. Es stimmte ja: das Institut
-Lag in der Nähe.
+lag in der Nähe.
 
-»Und Ihr Anliegen?« fragte Harald genau es gemessen.
+»Und Ihr Anliegen?« fragte Harald genau so gemessen.
 
 <@pagebreak/>
 »Betrifft eine rein persönliche Sache, Herr Harst. Ich
