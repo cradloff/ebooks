@@ -1152,281 +1152,284 @@ Flüchtlinge samt ihrem merkwürdigen Retter langst verschwunden.
 
 <h3>Die von drüben.</h3>
 
-Die Halbe Stunde, die wir dann noch in der Villa zubraäcdjien,
-war nur in Eltern von Nutzen, als wir taucht
+Die Halbe Stunde, die wir dann noch in der Villa zubrachten,
+war nur in sofern von Nutzen, als wir durch
 die Hausangestellten bestätigt erhielten, daß Irina ihnen für
 drei Monate den Lohn ausgezahlt und verlangt hatte,
 sie sollten die Villa sofort verlassen. Im übrigen konnten die
-vier — Zofe, Köchin, Diener, Chauffeur — nichts ans
+vier — Zofe, Köchin, Diener, Chauffeur — nichts an-
 geben, was die Dinge irgendwie geklärt hätte. Irina war
 offenbar sehr vorsichtig gewesen. Sie hatte das Personal
-immer früh zu Bett Gesicht.« Mit Ritschel und Spitzer hatte
-sie stets sehr gut gestanden, — was natürlich eitel Spiegel«
-Schleier gewesen war, dein wir wußten es besser. Es
-Minen ohne Zweifel von Ritschel und Spitzer seit längerem
+immer früh zu Bett geschickt. Mit Ritschel und Spitzer hatte
+sie stets sehr gut gestanden, — was natürlich eitel Spiegelfechterei
+gewesen war, denn wir wußten es besser. Es
+waren ohne Zweifel von Ritschel und Spitzer seit längerem
+Irina größere Summen erpreßt worden, denn Lücke
+hatte im Ofen der Zentralheizung unten im Keller eine
+Menge verbrannter Papiere gefunden, die zum Teil noch
+schwelten. Sie waren mit Spiritus begossen worden, und
+doch fischte Lücke noch ein paar Stücken heraus, und
+auf dem einen war als Fragment zu lesen:
 
-Irina größere Summen erpreßt worden, dem Witze
-ihre im Asien der Zentralheizung unten im Keller eine
-Menge vertrauter Papiere gefunden, die zum Teil von
-schwarzen, Sie waren mit Spiritus begossen worden, und.
-do6+ fischte Lücke noch ein paar Stücken heraus, und
-auf den! einen war als Fragment zu lesen:
-13\. April an R. — 2000
-am 7. Mai an R. — 1500
-!! ] … «! ] 300
-— 500
+<div align="centered">
+<table border="0">
+<tr><td>… 13. April an R.</td><td align="right">— 2000</td></tr>
+<tr><td>am 7. Mai an R.</td><td align="right">— 1500</td></tr>
+<tr><td></td><td align="right">300</td></tr>
+<tr><td></td><td align="right">500</td></tr>
+</table>
+</div>
 
-dicke quartierte »drei Beamte in die Villa ein und begleitete
-uns … dann, Wir waren zu munter, um schlafen zu
-gehe. -Inzwischen war er Rauches) heller Tag geworden.
+Lücke quartierte drei Beamte in die Villa ein und begleitete
+uns dann. Wir waren zu munter, um schlafen zu
+gehen. Inzwischen war er es auch heller Tag geworden.
 
-Zunge Lücke saß im Klubsessel und betrachtete melancholisch
-seit zerrissene? Beinkleid,
+Hans Lücke saß im Klubsessel und betrachtete melancholisch
+sein zerrissenes Beinkleid,
 
 <@pagebreak/>
 »Das war wieder eine nette Nacht, Kinder …!!« meinte
-er und langte gierig nach der Lasse Mokka. »Kurzer habe
-ich aus… Aber auf etwas Handfestes … Unter einem
-halben Meter Dauerwurst mache ich &s nicht …«
+er und langte gierig nach der Tasse Mokka. »Hunger habe
+ich auch … Aber auf etwas Handfestes … Unter einem
+halben Meter Dauerwurst mache ich es nicht …«
 
 Ich schleppte also noch allerlei »handfeste« Dinge herbei,
-und Lüftet futterte mit beneidenswertem Gleichmut. »Wir
-werden seinen« Irina als auch den Bleichen und die beiden
-Erpresser erwischen …« »a redete er sich selbst das nötige
+und Lücke futterte mit beneidenswertem Gleichmut. »Wir
+werden sowohl Irina als auch den Bleichen und die beiden
+Erpresser erwischen …« redete er sich selbst das nötige
 Vertrauen ein.
 
-Harald, Liebhaber von Sandigen, fürchte die letzte aus
+Harald, Liebhaber von Sardinen, fischte die letzte aus
 der Büchse. »Gott erhalte Ihnen Ihre Hoffnungsfreudigkeit!
-Glauben Sie wirklich, daß diese Lächelte einfach; zu erledigen
+Glauben Sie wirklich, daß diese Sache so einfach zu erledigen
 ist?! Ich sage Ihnen: Wir wissen von alldem, was
 hier noch mitspielt, noch nicht einmal die Hälfte. Wir haben
 schon Überraschungen erlebt, die uns so ziemlich aus allen
-unterm stürzten, und wir werden noch« mehr erleben. Eins
+Himmeln stürzten, und wir werden noch mehr erleben. Eins
 ist gewiß, lieber Lücke: Der Bleiche mit dem drohenden Baß
-ist der Hauptmacher, ist der Mitlsötpunkt, ist Felix Ganottas
-Mörder und auch der, der Sie-.niederschlug. Ritschel und
+ist der Hauptmacher, ist der Mittelpunkt, ist Felix Ganottas
+Mörder und auch der, der Sie niederschlug. Ritschel und
 Spitzer hatten vor ihm eine gräßliche Angst, — sie kannten
 ihn sehr gut, sie kannten auch das Signal, mit dem er
-sein Erscheinen und Eingreifen ankündete. Dieser Kreiste
+sein Erscheinen und Eingreifen ankündete. Dieser Bleiche
 hatte einen Helfershelfer, der den Hauptlichtschalter im richtigen
-Moment ausdrehte, — Weshalb griff nun dieser Mann
+Moment ausdrehte. — Weshalb griff nun dieser Mann
 überhaupt ein und rettete die beiden vor der drohenden
-Verhaftung?! —! Darauf gibt es meiner Ansicht nach
-nur eine Antwort: Die. beiden. Erpresser wissen über Irina
+Verhaftung?! — Darauf gibt es meiner Ansicht nach
+nur eine Antwort: Die beiden Erpresser wissen über Irina
 so allerlei, was nicht an die Öffentlichkeit kommen sollte!
-Der Bleiche fürchtete vonseiten der beiden Verrat, daher erst
+Der Bleiche fürchtete vonseiten der beiden Verrat, daher ent-
 zog er sie uns. — Ich betone: Es kann so sein! Es kann
 aber auch ganz anders sein! Und — — ich habe so eine
-dunkle Abhang, als ob auch diese meine Theorie nicht
+dunkle Ahnung, als ob auch diese meine Theorie nicht
 ganz stimmt.«
 
-»Aber Ihre Dauerwurst ist erstklassig, lobte Lücke …
-»Ich finde. sie schmeckt am beiden ohne Brot und Butter.
+»Aber Ihre Dauerwurst ist erstklassig," lobte Lücke …
+»Ich finde sie schmeckt am besten ohne Brot und Butter.
 <@pagebreak/>
-Und am allerbesten mit einem! Schluck Rotwein, womit nicht
-Gesetz? sein soll, daß ihr Nr eine B:irckddel Rotwein ausfahren.
-sollt, — immerhin, schossen kann es nichts …«
+Und am allerbesten mit einem Schluck Rotwein, womit nicht
+Gesagt sein soll, daß ihr noch eine Buddel Rotwein auffahren
+sollt, — immerhin, schaden kann es nichts …«
 
-Eis war sieben Uhr morgens, als er sich verabschiedete.
+Es war sieben Uhr morgens, als er sich verabschiedete.
 Auf dem Tisch standen fünf leere Flaschen. Die Sonne
-schien in mein Schlafzimmer, als ich in den schwarz:
+schien in mein Schlafzimmer, als ich in den schwarz-
 seidene Pyjama schlüpfte und mir beim Gähnen beinahe
-die Kinnlade ansvcenfte. Ich schlief bis halb Zwölf. Um
-zwölf wanderte ich im Gemüsegarten hin und her, und Herr!
+die Kinnlade ausrenkte. Ich schlief bis halb zwölf. Um
+zwölf wanderte ich im Gemüsegarten hin und her, und Harst
 fütterte die Hühner und Tauben auf dem Hofe. Unser Nachbar
-Doktor Niemand Pingalli war auch schon wieder sehr mobil
-und zankte ich jenseits der dichten Hecke mit seiner Haus
-Hüterin herum, die mild uns und besonders mit untere
-alten Mathilde sehr schlecht stand. Fräulein Goa Ganz.-
-hakte überhauplf wenig Freunde, Nur ein Gutes hatte sie:
-Sie war hjzalb taub!
+Doktor Richard Pingalli war auch schon wieder sehr mobil
+und zankte sich jenseits der dichten Hecke mit seiner Haus-
+Hüterin herum, die mit uns und besonders mit unserer
+alten Mathilde sehr schlecht stand. Fräulein Eva Jänsch
+hakte überhaupt wenig Freunde. Nur ein Gutes hatte sie:
+Sie war halb taub!
 
-Was nun den Privatgelehrter, Doktor Pingalli, betrifft,
-so wäre über ihn folgendes zu sagen. Er besaß Tau:?
+Was nun den Privatgelehrten, Doktor Pingalli, betrifft,
+so wäre über ihn folgendes zu sagen. Er besaß das
 Häuschen neben uns seit etwa zehn Jahren. Er war ein
-Sonderling, nicht geradezu mensdxnscheu, aber doch sehr
-zurückhaltend, Ein Spezialgebiet war das Stadium der
+Sonderling, nicht geradezu menschenscheu, aber doch sehr
+zurückhaltend. SEin Spezialgebiet war das Studium der
 Steinzeit. Er hätte längst irgendwo Professor sein können,
-über seine angeburene Schien vor der Wesentlichen lich
-ihn jede Vermutung auf einen Lehrstuhl ablehnen,
+aber seine angeborene Scheu vor der Öffentlichkeit ließ
+ihn jede Berufung auf einen Lehrstuhl ablehnen,
 
 Wir sahen ihn selten, da außer der Dornenhecke noch
-ein hoher Bretterzaun uns Freunde. Immersyin kannten wir
+ein hoher Bretterzaun uns trennte. Immerhin kannten wir
 ihn als einen liebenswürdigen, klugen Kopf, der mitunter,
-wenn er seine See beschnitt und oben auf der Leiter stand,
-uns lange Vorlesungen nichts, die er mit sarkastischen He
-Verlangen gegen die von ihm gründlich; verachtete Menjckyy
-Zeit gastfrei! durchwob. Außer der schon erwähnten Lüge
-Rausch, einer Jungfrau von fünfzig Lenzen und beispielloser
-Magerkeit, hielt er sich) noch ein Faktotum, einen kleinen
-buckligen Kerl, den jeder nur mit »Moritz« anredete, Obacht
-dieses Original in Wahrheit Friedrich Monate hieß. Die
+wenn er seine Hecke beschnitt und oben auf der Leiter stand,
+uns lange Vorlesungen hielt, die er mit sarkastischen Bemerkungen
+gegen die von ihm gründlich verachtete Menschheit
+geistvoll durchwob. Außer der schon erwähnten Eva
+Jänsch, einer Jungfrau von fünfzig Lenzen und beispielloser
+Magerkeit, hielt er sich noch ein Faktotum, einen kleinen
+buckligen Kerl, den jeder nur mit »Moritz« anredete, obwohl
+dieses Original in Wahrheit Friedrich Morwitz hieß. Die
 <@pagebreak/>
-Knatterten drüben aber war Pingailias Adoptivtochter Helga,
-ein Mordgier, Drittes Blätter von achtzehn Letzten, die er
-vor Diener Teil alle Partie un KiütveFstall gewandert
-halte, Wenn i8 Decken Frauen jungen und Fräulein horte,
-»wich Öl Dir zi0r3 28, Adern by) Ihr uns der Stierte Dienst,
-bedruckt Zu Heide fünfzehn Jahre jünger und
-etwa so fort gut Süd zu sein wie Tempels Prank. Wespe
-war draußen die Conte, Gebe Sich aber das Gewitter, und
+Hauptperson drüben aber war Pingallis Adoptivtochter Helga,
+ein schlankes, lustiges Mädel von achtzehn Jahren, die er
+vor einiger Zeit als Waise an Kindesstatt angenommen
+hatte. Wenn ich Helga drüben singen und trällern hörte,
+ging mir das Herz auf. Wenn ich ihr auf der Straße begegnete,
+bedauerte ich, nicht fünfzehn Jahre jünger und
+eben so flott und hübsch zu sein wie Heribert Prank. Helga
+war drüben die Sonne. Eva Jänsch aber das Gewitter, und
 Moritz das Aprilwetter.
 
-Die gesagt, —ck ich setzte meine Nahmittagsundel,
-alias und Her, taumelte Nötigen von den jungen Knallend
-hatte und lächerliche über Flügeltür und seine Xantippe,
-die drüben wegen der Eroberten sich sausten. Des alten
-Gelehrten Fijichjiinime überschlug sich zuweilerif, und sein«
-Rad Wandungen waren zum Teil so derb, daß Eva Bücher
-gesündigt hätte, aber sie hörte zum Glück alles nur heult.
+Wie gesagt, — ich rauchte meine Nachmittagsnudel,
+hing hin und Her, sammelte Raupen von den jungen Spalierstämmen
+und lächelte über Pingalli und seine Xantippe,
+die drüben wegen der Erdbeeren sich zankten. Des alten
+Gelehrten Fistelstimme überschlug sich zuweilen, und seine
+Redewendungen waren zum Teil so derb, daß Eva sicher
+gekündigt hätte, aber sie hörte zum Glück alles nur halb.
 
-Dann wischte sich Moritzens Daß ein, und mit einem
-Male entzwei die Spitze der Trittleiter über Zaun und
-Helle, und Pingalli, bewsjuet minder großen Gartensßäpere,
-wünschte mir einen guten »Morgen und begann die See
-zu Köpfen. Sein tief ergrautes Gesicht — er arbeitete fast
-den ganzen. Tag in seinen Torheit Garten — hatte fast edle
-Züge. Das graue, lange Paar tc.:4 er frei zurückgestrichen,
-und nur seinen Mund lag wie munter das gütige, halb verlegene
-Lächeln…
+Dann mischte sich Moritzens Baß ein, und mit einem
+Male erschien die Spitze der Trittleiter über Zaun und
+Hecke, und Pingalli, bewaffnet mit der großen Gartenschere,
+wünschte mir einen guten Morgen und begann die Hecke
+zu köpfen. Sein tief gebräuntes Gesicht — er arbeitete fast
+den ganzen Tag in seinem großen Garten — hatte fast edle
+Züge. Das graue, lange Haar trug er frei zurückgestrichen,
+und um seinen Mund lag wie immer das gütige, halb verlegene
+Lächeln.
 
-»Der Gewitterregen kaum wie gerufen, Herr Schraut …«
-heisere er die Unterhaltung ein, »Nur die Erdbeeren sauber
-gelitten … Ich werde die erste Erdbeerbowle verschieden
-müssen … Ein van TDontnerschläge hat selbst Eva gehört,
-behzouptet sie, Ader sie schwindelt gern. Ich; Dämpfte mir
+»Der Gewitterregen kam wie gerufen, Herr Schraut …«
+leitete er die Unterhaltung ein. »Nur die Erdbeeren haben
+gelitten … Ich werde die erste Erdbeerbowle verschieben
+müssen … Ein paar Donnerschläge hat selbst Eva gehört,
+behauptet sie. Aber sie schwindelt gern. Ich wünschte mir
 ihren Schlaf. Damit ist es bei mir schlecht bestellt. — Was
-sagen Sie nur zu dem Morde nebenan bei der Notiz?v!
-Moritz ist bereits auf dein Laufenden über alles. Co spioniert
+sagen Sie nur zu dem Morde nebenan bei der Kotty?!
+Moritz ist bereits auf dem Laufenden über alles. Er spioniert
+überall herum …"
 
-überall herum …
-Aber Moritzens Baß protestierte unsichtbar: »Der Strick
+Aber Moritzens Baß protestierte unsichtbar: »Der eine
 <@pagebreak/>
 Kriminalbeamte hat mich ausgefragt, ob ist nichts gehört
-oder gesehen ihre! So war’s«
+oder gesehen hätte! So war’s!«
 
-»Sie und was hören, Morik!’« meinte Doktor Pingalli
-und lachte. »Hier Moritz schläft noch fester als die Eva …
-Ich habe übrigens dem Beamte bestohlen lassen, daß er
-richtig ist, daß einrichten gegen ein viertel Zwölf gestern
-auf dem Fontänenrand gestanden hat. Ich war auf meinen!
-Balkon und sah sie ganz deutlich. Tag weißt, — es weit
-man gestern bei dem Gegen Überhaupt etwas deutlich
-sehen konnte. Sie waren ja auch dvrübein, Herr Schraut.
+»Sie und was hören, Moritz!« meinte Doktor Pingalli
+und lachte. »Der Moritz schläft noch fester als die Eva …
+Ich habe übrigens dem Beamten bestellen lassen, daß es
+richtig ist, daß eine Frau gegen ein viertel Zwölf gestern
+auf dem Fontänenrand gestanden hat. Ich war auf meinem
+Balkon und sah sie ganz deutlich. Das heißt, — so weit
+man gestern bei dem Regen Überhaupt etwas deutlich
+sehen konnte. Sie waren ja auch drüben, Herr Schraut.
 Soll diese Frau den Legationsrat tatsächlich erschossen
 haben?!«
 
-»Mit Bestimmtheit läßt glich das noch nicht jagen.
-Herr Doktor … Haben Sie den nichts bemerkt, das Die
+»Mit Bestimmtheit läßt sich das noch nicht sagen,
+Herr Doktor … Haben Sie denn nichts bemerkt, das Die
 Sache klären könnte?«
 
 Harald kam herbei, winkte Pingalli zu und übernahm
-die Fortsetzung der Unterhaltung, die durch? das Klappen
+die Fortsetzung der Unterhaltung, die durch das Klappen
 der Gartenschere etwas gestört wurde.
 
-»Ich habe nur Kurze Zeit auf den! Balkon geweilt,«
-erklärte unser Nachbar, »Ich kümmere mich nicht um das,
-was bei der Reling geschieht, Filmlüansjilerinnen und ihr Ans
+»Ich habe nur Kurze Zeit auf dem Balkon geweilt,«
+erklärte unser Nachbar. »Ich kümmere mich nicht um das,
+was bei der Kotty geschieht. Filmkünstlerinnen und ihr An-
 Hang sind nicht mein Fall. Die schöne Irina dankt kaum,
-wenn ich grüße, Herren über fünfzig stößt sie wohl nicht.«
+wenn ich grüße, Herren über fünfzig schätzt sie wohl nicht.«
 
-Die Scherz biß wütend ein paar Exlwßlinge ab.
+Die Schere biß wütend ein paar Schößlinge ab.
 
-Harst rief: »Herr Doktor, ich Hälfte Sie fö einiges Zu
+Harst rief: »Herr Doktor, ich hätte Sie so einiges Zu
 fragen … dürfen wir Sie mal besuchen?«
 
-»Natürlich … Kommen Sie gar, Moritz kann die
+»Natürlich … Kommen Sie nur, Moritz kann die
 Arbeit hier fortsetzen.«
 
-Pingalli Haus gehört mit zu den ältesten Schwarzen«
-Boys. Es ist ein schmucklosen, zweisßtötiger Ziegelbau mit
+Pingallis Haus gehört mit zu den ältesten Schmargendorfs.
+Es ist ein schmucklosen, zweistöckiger Ziegelbau mit
 Veranda und Balkon nach dem Garten zu. Das Haus ist
-von der Straße kaum zu sehen. Seen, Büsche, alte Bitten
-und Suchen bilden im Vorgarten eine grüne Wildnis.
+von der Straße kaum zu sehen. Hecken, Büsche, alte Linden
+und Buchen bilden im Vorgarten eine grüne Wildnis.
 
-Der Doktor im seiner schäbigen Arbeitsschluß führte uns
-in den ersten Stadt hinauf in sein Studierzimmer. Die Türen
+Der Doktor in seiner schäbigen Arbeitskluft führte uns
+in den ersten Stock hinauf in sein Studierzimmer. Die Türen
 <@pagebreak/>
-An) Heu Balkon standen offen, und wir sollte sofort, daß
-von Hier aus die Fontäne Durch eilte Herumfuhr betonen
-» Überscuunein war, Pingalli bot uns ein Glas Burquiuder
-ins, dazu tadellose Importen, — er war schwer Reiz, das
-wettet wir.
+nach dem Balkon standen offen, und wir sahen sofort, daß
+von Hier aus die Fontäne Durch eine Baumlücke bequem
+zu Überschauen war. Pingalli bot uns ein Glas Burquuder
+an, dazu tadellose Importen, — er war schwer reich, das
+wußten wir.
 
-»der Doktor, ab uns Sie Kutscher in große: Zügeln
-nie bei Breite drüben bekannt tizaczet« traute 1jarald,
-»Ich rechne Dabei aus Ihre Wiederholt. Uns Bewahrt er darauf
-an feitzustelient, ob Bitte Zauberduft Tunnels? Erpresser As
-Tag wurde und ab Sie vieles by Subtile Zieftdnele
-kaufte Stange Staat Fersen Minuten drüben bLerovwicitte
-Eure, Hier Nil weine Wuizeihnungen zu den Mordfall,
-viel das, was ich Schraut klirrte, Lesen Sie alles am Blick
+»Herr Doktor, ich muß Sie zunächst in großen Zügen
+mit dem Drama drüben bekannt machen,« meinte Harald.
+»Ich rechne Dabei auf Ihre Diskretion. Uns kommt es darauf
+an festzustellen, ob Irina Vanderkott durch Erpresser bedrängt
+wurde und ob Sie vielleicht nächtliche Zusammenkünfte
+Irinas mit Herren im Garten drüben beobachtet
+haben. Hier sind meine Aufzeichnungen zu dem Mordfall,
+hier das, was ich Schraut diktierte. Lesen Sie alles am besten
 durch …«
 
-Pingalli nahm die Blätter ohne viel Interesse war voll
-klärte nachher: »Ah habe Fischer jemals für Detefiiüugesichen
-etwas übrig gehabt. Dies Pier bietet so viel spannende
-Einzelheiten, daß ich.) elf; eingestehe: Ich wir! Baubude selbst
-zum Nachdenken unsere erwarb mein. Ödmhtuis ha! zi)
-gesurft, —ck vielleicht kann ich) diese spannenden Details nimmt)
+Pingalli nahm die Blätter ohne viel Interesse und er-
+klärte nachher: »Ich habe bisher niemals für Detektivgeschichten
+etwas übrig gehabt. Dies hier bietet so viel spannende
+Einzelheiten, daß ich ehrlich eingestehe: Ich bin dadurch selbst
+zum Nachdenken angeregt worden, mein Gedächtnis hat sich
+geschärft, — vielleicht kann ich diese spannenden Details noch
 vermehren.«
 
-Er reichte Harald die Noötizetx zurück. »Die Banderkätthat
-Hinausjagen nachts im Garten zu der Seeleute sowohl einen
-Herr als auch eine Frau erwartet, wi? in) beobachtet
-habe, Passendere vor etwa drei Wochen, als wir Vollbart
-hatten, konnte ja) eines Nichts deutlich Arbeit, daß die
-drei sehr erregt? miteinander glitten und. daß die Holt)
-heftig neigte, Die Frau war ohne Frage dieselbe, die ich
-gestern auf dem Fontätienraas stehen sah). Es ist eine schlanke
-Person mit dunklen Mantel und xzzut und Schleier, In) des
-Künste mich auch, daß ich Diener ein Fernglas benutzte und
-feststellte, daß diese erfreute trotz der Wärme und Trocken
-
-Zeit Übersmube anstellte graue, niedrige UÜeberschuie
-mir »eißverschiluß. Western gerast. — auch dies ist Auto jetzt
+Er reichte Harald die Notizen zurück. »Die Vanderkott
+hat häufiger nachts im Garten an der Fontäne sowohl einen
+Herr als auch eine Frau erwartet, wie ich beobachtet
+habe. Besonders vor etwa drei Wochen, als wir Vollmond
+hatten, konnte ich eines Nachts deutlich sehen, daß die
+drei sehr erregt miteinander stritten und daß die Kotty
+heftig weinte. Die Frau war ohne Frage dieselbe, die ich
+gestern auf dem Fontänenrand stehen sah. Es ist eine schlanke
+Person mit dunklem Mantel und Hut und Schleier. Ich besinne
+mich auch, daß ich einmal ein Fernglas benutzte und
+feststellte, daß diese Fremde trotz der Wärme und Trocken-
+Zeit Überschuhe anhatte -- graue, moderne Überschuhe
+mir Reißverschluß. Gestern nacht — auch dies ist mir jetzt
 <@pagebreak/>
-erst eingefallen — hatte die Frau einen Schnur mit und
-ein langes Etwas, das wie ein Stativ einer Hauer ansah.
-Sie Knipste einmal für Gewickelt eine Taschenlampe
-an, und das Wich: fiel gerade auf diesen länglichen Gegenstand,
-Es ist möglich, daß es eine Säazuizwasie, etwa ein fünften
-Karabiner war. Doch möchte im Dies nur unter »Vorbehalt
-behaupten. Meine Augen sind roch vortrefflich, aber … —
+erst eingefallen — hatte die Frau einen Schirm mit und
+ein langes Etwas, das wie ein Stativ einer Kamera aussah.
+Sie Knipste einmal für Sekunden eine Taschenlampe
+an, und das Licht fiel gerade auf diesen länglichen Gegenstand.
+Es ist möglich, daß es eine Schußwaffe, etwa ein kurzer
+Karabiner war. Doch möchte ich Dies nur unter Vorbehalt
+behaupten. Meine Augen sind noch vortrefflich, aber …"
 
-Er fuhr so …
+Er fuhr hoch …
 
 Auch wir sprangen auf.
 
-Unten im Hause war ein geltender Schrei erklungen,
+Unten im Hause war ein gellender Schrei erklungen,
 dem ein schrilles Pfeifen folgte …
 
 Pingalli war leichenblaß geworden,
 
-Er stotterte verstört: »Das war Lava … Sie hat
-sich wieder mit Moritz in den »Haaren … Anschuldigen Sie
-« -.- Ich bin sofort wieder Da .-7 ck— cm
+Er stotterte verstört: »Das war Eva … Sie hat
+sich wieder mit Moritz in den Haaren … Entschuldigen Sie
+... Ich bin sofort wieder Da ..."
 
-Er rannte hinaus. Mine hörten ihn auf der Treppe
+Er rannte hinaus. Wir hörten ihn auf der Treppe
 schelten, dann wurde alles still.
 
 Wir blickten uns an. Ich sagte leise: »Das war nur
-ein Handelt«
+ein Zank?!«
 
-Da tat sich die Tür zum Nebenzimmer aus, und He/Gas
-blonde Lieblichkeit schwebte helfen und Kauf vor Harst
+Da tat sich die Tür zum Nebenzimmer auf, und Helgas
+blonde Lieblichkeit schwebte herein und sank vor Harst
 weinend in die Knie …
 
-Armes Mädel! Au solcher Verfassung hatte ich ich nie
+Armes Mädel! In solcher Verfassung hatte ich sie nie
 gesehen, auch nie geglaubt, daß sie, die allzeit fröhliche, so
-entsetzlich vergrämt aussehen könnte. —
+entsetzlich vergrämt aussehen könnte.
 
-»Herr Harst,« wimmerte sie, »Herr Harst … iGm …
-ich … —…« weiß, wer den Legationsrat getötet hat!«
+»Herr Harst,« wimmerte sie, »Herr Harst … ich …
+ich … weiß, wer den Legationsrat getötet hat!«
 
-<@pagebreak/>
+<@pagebreak 35/>
 
-Der rote Sonnenschirm
+<h1>Der rote Sonnenschirm</h1>
 
 <h2>1. Kapitel.</h2>
 
