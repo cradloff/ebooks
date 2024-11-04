@@ -1157,8 +1157,8 @@ war nur in sofern von Nutzen, als wir durch
 die Hausangestellten bestätigt erhielten, daß Irina ihnen für
 drei Monate den Lohn ausgezahlt und verlangt hatte,
 sie sollten die Villa sofort verlassen. Im übrigen konnten die
-vier — Zofe, Köchin, Diener, Chauffeur — nichts an-
-geben, was die Dinge irgendwie geklärt hätte. Irina war
+vier — Zofe, Köchin, Diener, Chauffeur — nichts angeben,
+was die Dinge irgendwie geklärt hätte. Irina war
 offenbar sehr vorsichtig gewesen. Sie hatte das Personal
 immer früh zu Bett geschickt. Mit Ritschel und Spitzer hatte
 sie stets sehr gut gestanden, — was natürlich eitel Spiegelfechterei
@@ -1218,13 +1218,13 @@ Moment ausdrehte. — Weshalb griff nun dieser Mann
 Verhaftung?! — Darauf gibt es meiner Ansicht nach
 nur eine Antwort: Die beiden Erpresser wissen über Irina
 so allerlei, was nicht an die Öffentlichkeit kommen sollte!
-Der Bleiche fürchtete vonseiten der beiden Verrat, daher ent-
-zog er sie uns. — Ich betone: Es kann so sein! Es kann
+Der Bleiche fürchtete vonseiten der beiden Verrat, daher entzog
+er sie uns. — Ich betone: Es kann so sein! Es kann
 aber auch ganz anders sein! Und — — ich habe so eine
 dunkle Ahnung, als ob auch diese meine Theorie nicht
 ganz stimmt.«
 
-»Aber Ihre Dauerwurst ist erstklassig," lobte Lücke …
+»Aber Ihre Dauerwurst ist erstklassig,« lobte Lücke …
 »Ich finde sie schmeckt am besten ohne Brot und Butter.
 <@pagebreak/>
 Und am allerbesten mit einem Schluck Rotwein, womit nicht
@@ -1233,14 +1233,14 @@ sollt, — immerhin, schaden kann es nichts …«
 
 Es war sieben Uhr morgens, als er sich verabschiedete.
 Auf dem Tisch standen fünf leere Flaschen. Die Sonne
-schien in mein Schlafzimmer, als ich in den schwarz-
-seidene Pyjama schlüpfte und mir beim Gähnen beinahe
+schien in mein Schlafzimmer, als ich in den schwarzseidene
+Pyjama schlüpfte und mir beim Gähnen beinahe
 die Kinnlade ausrenkte. Ich schlief bis halb zwölf. Um
 zwölf wanderte ich im Gemüsegarten hin und her, und Harst
 fütterte die Hühner und Tauben auf dem Hofe. Unser Nachbar
 Doktor Richard Pingalli war auch schon wieder sehr mobil
-und zankte sich jenseits der dichten Hecke mit seiner Haus-
-Hüterin herum, die mit uns und besonders mit unserer
+und zankte sich jenseits der dichten Hecke mit seiner Haushälterin
+herum, die mit uns und besonders mit unserer
 alten Mathilde sehr schlecht stand. Fräulein Eva Jänsch
 hakte überhaupt wenig Freunde. Nur ein Gutes hatte sie:
 Sie war halb taub!
@@ -1249,7 +1249,7 @@ Was nun den Privatgelehrten, Doktor Pingalli, betrifft,
 so wäre über ihn folgendes zu sagen. Er besaß das
 Häuschen neben uns seit etwa zehn Jahren. Er war ein
 Sonderling, nicht geradezu menschenscheu, aber doch sehr
-zurückhaltend. SEin Spezialgebiet war das Studium der
+zurückhaltend. sein Spezialgebiet war das Studium der
 Steinzeit. Er hätte längst irgendwo Professor sein können,
 aber seine angeborene Scheu vor der Öffentlichkeit ließ
 ihn jede Berufung auf einen Lehrstuhl ablehnen,
@@ -1302,7 +1302,7 @@ behauptet sie. Aber sie schwindelt gern. Ich wünschte mir
 ihren Schlaf. Damit ist es bei mir schlecht bestellt. — Was
 sagen Sie nur zu dem Morde nebenan bei der Kotty?!
 Moritz ist bereits auf dem Laufenden über alles. Er spioniert
-überall herum …"
+überall herum …«
 
 Aber Moritzens Baß protestierte unsichtbar: »Der eine
 <@pagebreak/>
@@ -1330,8 +1330,8 @@ der Gartenschere etwas gestört wurde.
 
 »Ich habe nur Kurze Zeit auf dem Balkon geweilt,«
 erklärte unser Nachbar. »Ich kümmere mich nicht um das,
-was bei der Kotty geschieht. Filmkünstlerinnen und ihr An-
-Hang sind nicht mein Fall. Die schöne Irina dankt kaum,
+was bei der Kotty geschieht. Filmkünstlerinnen und ihr Anhang
+sind nicht mein Fall. Die schöne Irina dankt kaum,
 wenn ich grüße, Herren über fünfzig schätzt sie wohl nicht.«
 
 Die Schere biß wütend ein paar Schößlinge ab.
@@ -1353,7 +1353,7 @@ in den ersten Stock hinauf in sein Studierzimmer. Die Türen
 <@pagebreak/>
 nach dem Balkon standen offen, und wir sahen sofort, daß
 von Hier aus die Fontäne Durch eine Baumlücke bequem
-zu Überschauen war. Pingalli bot uns ein Glas Burquuder
+zu Überschauen war. Pingalli bot uns ein Glas Burgunder
 an, dazu tadellose Importen, — er war schwer reich, das
 wußten wir.
 
@@ -1367,8 +1367,8 @@ haben. Hier sind meine Aufzeichnungen zu dem Mordfall,
 hier das, was ich Schraut diktierte. Lesen Sie alles am besten
 durch …«
 
-Pingalli nahm die Blätter ohne viel Interesse und er-
-klärte nachher: »Ich habe bisher niemals für Detektivgeschichten
+Pingalli nahm die Blätter ohne viel Interesse und erklärte
+nachher: »Ich habe bisher niemals für Detektivgeschichten
 etwas übrig gehabt. Dies hier bietet so viel spannende
 Einzelheiten, daß ich ehrlich eingestehe: Ich bin dadurch selbst
 zum Nachdenken angeregt worden, mein Gedächtnis hat sich
@@ -1385,8 +1385,8 @@ heftig weinte. Die Frau war ohne Frage dieselbe, die ich
 gestern auf dem Fontänenrand stehen sah. Es ist eine schlanke
 Person mit dunklem Mantel und Hut und Schleier. Ich besinne
 mich auch, daß ich einmal ein Fernglas benutzte und
-feststellte, daß diese Fremde trotz der Wärme und Trocken-
-Zeit Überschuhe anhatte -- graue, moderne Überschuhe
+feststellte, daß diese Fremde trotz der Wärme und Trockenheit
+Überschuhe anhatte — graue, moderne Überschuhe
 mir Reißverschluß. Gestern nacht — auch dies ist mir jetzt
 <@pagebreak/>
 erst eingefallen — hatte die Frau einen Schirm mit und
@@ -1395,7 +1395,7 @@ Sie Knipste einmal für Sekunden eine Taschenlampe
 an, und das Licht fiel gerade auf diesen länglichen Gegenstand.
 Es ist möglich, daß es eine Schußwaffe, etwa ein kurzer
 Karabiner war. Doch möchte ich Dies nur unter Vorbehalt
-behaupten. Meine Augen sind noch vortrefflich, aber …"
+behaupten. Meine Augen sind noch vortrefflich, aber …«
 
 Er fuhr hoch …
 
@@ -1408,7 +1408,7 @@ Pingalli war leichenblaß geworden,
 
 Er stotterte verstört: »Das war Eva … Sie hat
 sich wieder mit Moritz in den Haaren … Entschuldigen Sie
-... Ich bin sofort wieder Da ..."
+… Ich bin sofort wieder Da …«
 
 Er rannte hinaus. Wir hörten ihn auf der Treppe
 schelten, dann wurde alles still.
@@ -1437,472 +1437,468 @@ ich … weiß, wer den Legationsrat getötet hat!«
 
 Harald als Beichtvater, als Tröster der Bedrängten ist
 vielleicht in seiner unübertrefflichen Art, geknickte Herzen
-wieder aufzurichten, noch »unerreichbarer als auf sollten
+wieder aufzurichten, noch unerreichbarer als auf seinem
 Spezialgebiet, der Entwirrung verschlungenen Fäden eines
 Verbrechens.
 
 Er nahm Helgas Kopf in seine Hände, schaute ihr in
-die tränennassen Augen und faßte leise — mit jener suggestiven
-Kraft, die nur ein Mann von ungewöhnlicher Koizeutrakionsfähigkeit!
+die tränennassen Augen und sagte leise — mit jener suggestiven
+Kraft, die nur ein Mann von ungewöhnlicher Konzentrationsfähigkeit
 aufbringt: »Mein liebes Kind, — bilden
-Sie sich das nicht auch herzlichem ein?! Wie wollen Sie
+Sie sich das nicht auch lediglich nur ein?! Wie wollen Sie
 ein Rätsel lösen oder gelöst haben, das so unüberwindliche
 Schwierigkeiten bietet?! Gerade dieser Mord, kleine Helga,
-verleitet so leicht zu Umschlägen. Ich kann mir nicht
+verleitet so leicht zu Trugschlüssen. Ich kann mir nicht
 denken, daß, sollten Sie auch irgend etwas gesehen oder
 gehört Haben, dadurch eine Klärung der schwebenden Fragen
-eintreten könnte, Hüten Sie sich also, sich selbst die Seele
-unnötig zu beschweren … Sprechen Sie ganz offen, Sie
-werden Doch siäzerlih auch, Ihrem Vater, mit dem Sie so
+eintreten könnte. Hüten Sie sich also, sich selbst die Seele
+unnötig zu beschweren … Sprechen Sie ganz offen. Sie
+werden Doch sicherlich auch Ihrem Vater, mit dem Sie so
 innige Liebe verbindet, davon Mitteilung gemacht haben …«
 
-Diese letzte Bemerkung Haralds war nur, scheinbar ein
-höchst überflüssigen Fühler. Doktor Pingalli hätte uns ja
-niemals das verschwiegen, was ihm sein Adoptivkind ans
-vertraut hätte, — er hatte es gar nicht verschweigen dürfen,
+Diese letzte Bemerkung Haralds war nur scheinbar ein
+höchst überflüssiger Fühler. Doktor Pingalli hätte uns ja
+niemals das verschwiegen, was ihm sein Adoptivkind anvertraut
+hätte, — er hatte es gar nicht verschweigen dürfen,
 da wir ihm so rückhaltlos reinen Wein eingeschenkt hatten.
 Harsts Frage bezweckte etwas anderes, das war mir sofort
 klar. Die blonde Helga mit den braunen Äuglein hatte
-Pingalli eben nichts erzählt. und Harald wollte von ihr.
+Pingalli eben nichts erzählt, und Harald wollte von ihr,
 <@pagebreak/>
-ein? direkt danach zu forschen, die Begründung dieser Unter
-Zeitung erfahren.
+ohne direkt danach zu forschen, die Begründung dieser Unterlassung
+erfahren.
 
-Die Wirkung dieser nur durch die Umstände »gebotenen
+Die Wirkung dieser nur durch die Umstände gebotenen
 Diplomatie war überraschend, mehr noch: erschreckend!
 
-Heraus Antlitz wurde starr, und ein Zug erhöhter Qual
-erschien um den blassen Womit. Sie Schlug scheu die Augen
+Helgas Antlitz wurde starr, und ein Zug erhöhter Qual
+erschien um den blassen Mund. Sie Schlug scheu die Augen
 nieder, und dann sprang sie auf, suchte ihre Hände aus denen
-Haralds zu befreien und rief: »O!) — lassen Sie mich gehen,
+Haralds zu befreien und rief: »Oh — lassen Sie mich gehen,
 ich bitte Sie …! Ich war ja von Sinnen, als ich Ihnen
-mein seid anvertrauen wollte … Ich darf es nicht …
-Lassen Sie mich gehen, bevor noch« der Vater zurückkehrt … —
+mein Leid anvertrauen wollte … Ich darf es nicht …
+Lassen Sie mich gehen, bevor noch der Vater zurückkehrt …«
 
-Ader Harald hielt sie seit. Er erhob sich gleutwalls
+Aber Harald hielt sie fest. Er erhob sich gleichfalls,
 legte den einen Arm um sie und sagte eindringlich: »Mein
-Kind, Ihre kleinen, zarten Gehe! nasse worden wir hüten …
+Kind, Ihre kleinen, zarten Geheimnisse werden wir hüten …
 Nicht wahr, Heribert Prank ihr der, der Ihrem Herzen nahe
+steht …«
 
-Sicht …
-
-Ich war erstaunt, Woher wußte Harald dies?! Hatte
+Ich war erstaunt. Woher wußte Harald dies?! Hatte
 Prank ihm gebeichtet?!
 
-»… Kleine Steine, Sie müssen ehrlich sein … In der
-verzichteten Nach? hörte ich, daß Irina Vanderkott Prank
-heimlich etwas zuflüsterte. Il) verstand mit alles, ich habe
-mir den Saß falsch ergänzt, wie ich men weiß. In dem Saß
-kam Ihr Name vor; Helga. — Irina raunte Prank zu: »Bestellen
-Sie Helga, daß ich willst …« — Mehr vernahm ich
-ich!. Ich verstand, wie gesagt, zuerst: »Derselben Sie auch
-die anderen …« oder ähnliches, und ich glaubte, dies des
-Züge sich auf Irinas Gäste. Jetzt kann ist) mit aller Sicherheit
-behaupten: Sie wären gemeint, an Sie sollte Prank eine
-Bestellung ausrichten, also keinen Sie sowohl Irina als
+»… Kleine Helga, Sie müssen ehrlich sein … In der
+verflossenen Nacht hörte ich, daß Irina Vanderkott Prank
+heimlich etwas zuflüsterte. Ich verstand nicht alles, ich habe
+mir den Satz falsch ergänzt, wie ich nun weiß. In dem Satz
+kam Ihr Name vor: Helga. — Irina raunte Prank zu: »Bestellen
+Sie Helga, daß ich nicht …« — Mehr vernahm ich
+nicht. Ich verstand, wie gesagt, zuerst: »Bestellen Sie auch
+die anderen …« oder ähnliches, und ich glaubte, dies bezöge
+sich auf Irinas Gäste. Jetzt kann ich mit aller Sicherheit
+behaupten: *Sie* waren gemeint, an Sie sollte Prank eine
+Bestellung ausrichten, also kennen Sie sowohl Irina als
 auch Prank genauer, und … Ihr Vater weiß nichts davon.«
+
 Helga ließ den Kopf mit einem leisen Stöhnen auf Harsts
-Schulter sinken und stotterte schluchzend: »Es Üt s6 …
-Ad, + »und … in) Blitze Heribert im Garten gesehen,
-als … ist der Herr ermordet wurde … Heribert … hatte
+Schulter sinken und stotterte schluchzend: »Es ist so …
+und … und … ich habe Heribert im Garten gesehen,
+als … als der Herr ermordet wurde … Heribert … hatte
 <@pagebreak/>
-— … einte … Kino Pritsche in der Rasch … Er … er stand
+… eine … eine Pistole in der Hand … Er … er stand
 links am Hause auf dem Stumpf der alten Eiche, der als
-Blumenkrippe hergerichtet tt … Er … er stand hinter den
-Ejewvorbhängen der einen Wissen … und …, »er zielte …
-und ich sah … sah, wie … der Schuft aufblitzte … saß
-Bach den Doktor Witwer am Fenster, aber Ritschel sprang
-mit einem Male vom »Fenster weg …«
+Blumenkrippe hergerichtet ist … Er … er stand hinter den
+Efeuvorhängen der einen Kiefer … und … er zielte …
+und ich sah … sah, wie … der Schuß aufblitzte … sah
+auch den Doktor Ritschel am Fenster, aber Ritschel sprang
+mit einem Male vom Fenster weg …«
 
-he Burnussen entstand in eigens qualvollen, unser.
-gründlichen Murmeln, — — wurde wieder lauter …
+Ihr Stimmchen erstarb in einem qualvollen, unverständlichen
+Murmeln, — — wurde wieder lauter …
 
-»Es Öl ja nicht wahr, daß, wie der Beamte unserem
-Profil erzählt hat, die drei Herren im Augenblick. der Tat
-im Salon weiten … — … Sie … sie waren alle drei im
-Garten: Heribert, der Mauer wird Atelier Hinter … —
-Heribert hast es mir ja eiägeskanden … Ich irre) ihn ja,
+»Es ist ja nicht wahr, daß, wie der Beamte unserem
+Moritz erzählt hat, die drei Herren im Augenblick der Tat
+im Salon weilten … Sie … sie waren alle drei im
+Garten: Heribert, der Major und Direktor Hirsch … —
+Heribert hast es mir ja eingestanden … Ich sprach ihn ja,
 bevor er verkleidet wieder die Villa betrat … sprach ihn
-nur wenige Minuten, und … »und zwischen. uns ist tun
-alles ans, denn als ich ihm in meiner Herzensangst bot«
-hielt, er habe doch gescheitert, Warten nur: »Also 5:5 traust
-dir mir aufs« Und dann eilte Frauen der Sämtliche weg
-und ließ wich im Regen stehen … — — — Weit! Gut,
-wie soll ich) all das ertragen … 2?! Wenn ich es nicht geh
-sehen ihre, daß Heribert die breite Pistole …«
+nur wenige Minuten, und … und zwischen uns ist nun
+alles aus, denn als ich ihm in meiner Herzensangst vorhielt,
+er habe doch geschossen, sagte er nur: »Also das traust
+du mir zu!!« Und dann eilte er von der der Zaunlücke weg
+und ließ mich im Regen stehen … — — Mein Gott,
+wie soll ich all das ertragen …?! Wenn ich es nicht gesehen
+hätte, daß Heribert die kleine Pistole …«
 
 Die Tür, durch die vorhin Helga hereingekommen war,
-mMfoa aus, und der bucklige, rokoirtiyze Moritz stützte herein …
-Mit eine Gast htcaum-drue, als ’b er uns zerfleischen
-wollte, brüllt?e er Harst ein:
+flog auf, und der bucklige, rotbärtige Moritz stürzte herein …
+Mit eine Gesichtsausdruck, als ob er uns zerfleischen
+wollte, brüllte er Harst an:
 
-»Was haben Sie hier mit den! verrückten Mädel zu
-schaffen t«
+»Was haben Sie hier mit dem verrückten Mädel zu
+schaffen?!«
 
-Und schont Woche er Helga, riß sie zurück und stieß sie
-vor sich her in das? Nebenzimmer. Die Tier knallte zu, der
-Erklärter wurde umaocdreht, und wir beide, die wir doch
-nimmt »so leimt « Anker Zeitung zu betrauert. ins, schmalen
-uns alt Bad Vater ziemlich hilflose (Gesichter,
+Und schon packte er Helga, riß sie zurück und stieß sie
+vor sich her in das Nebenzimmer. Die Tür knallte zu, der
+Schlüssel wurde umgedreht, und wir beide, die wir doch
+nicht so leicht außer Fassung zu bringen sind, schauten
+uns an und machten ziemlich hilflose Gesichter,
 
-Dann aber erschien auf Bereitet Gesicht ein. scihywaches,
-bestehenden Steuern so, all« ob er auch dieses Eingreifen
+Dann aber erschien auf Haralds Gesicht ein schwaches,
+befreiendes Lächeln — so, als ob er auch dieses Eingreifen
 <@pagebreak/>
 des kleinen Buckligen mit dem Wasserkopf und den langen
 Affenarmen nun völlig verstände.
 
-»Ad so …!« sagte er — und nickte. »Oh es …! Es
+»Ach so …!« sagte er — und nickte. »Ach so …! Es
 war ja auch zu merkwürdig. Mir hätte das längst auffallen
 sollen … Es ist beinahe dasselbe Gesicht, nur die andere
 verrät die Stürme des Lebens, und diese hier ist rein wie
-ein Engel … »’
+ein Engel …«
 
-3ch starrte ihm wortlos auf die Lippen … Und er
-flüsterte als Nachsatz: »Eis sind Schwestern, mein Alter,
+Ich starrte ihm wortlos auf die Lippen … Und er
+flüsterte als Nachsatz: »Es sind Schwestern, mein Alter,
+Irina und Helga …«
 
-Irina und Helga …« …
-Er setzte sich und krank einen Schluck Wein, beugte
-
-sich zu mir … »Ich) bin nur neugierig, was Pingalli nun
-… zZusammenlügen Wird. Wir haben ihn gänzlich falsch
-eingeschätzt … —.«
+Er setzte sich und trank einen Schluck Wein, beugte
+sich zu mir … »Ich bin nur neugierig, was Pingalli nun
+… zusammenlügen Wird. Wir haben ihn gänzlich falsch
+eingeschätzt …«
 
 Draußen knarrte die Treppe, — Doktor Pingalli mit
 seinen schweren Gartenstiefeln trat ein.
 
 Schweigend nahm er Platz. Seine klaren, klugen Augen
 hatten nur flüchtig unsere Gesichter gestreift … Er fuhr
-rid; mit der braunen, verarbeiteten und doch so schmalen
+sich mit der braunen, verarbeiteten und doch so schmalen
 Hand über die Stirn und meinte: »Es ist ein Elend mit dem
 Moritz und der Eva … Diese ewigen Zankereien!! — Ich
-habe mehr Sorgen, als Sie ahnen, meine Herren …,! Und
-mein größter Fünfmal ist Helau … Ich war mit ihr Es
-Welt bei zwei Nervenärzten. Ihre Mutter starb im Irrenhause,
+habe mehr Sorgen, als Sie ahnen, meine Herren …! Und
+mein größter Kummer ist Helga … Ich war mit ihr bereits
+bei zwei Nervenärzten. Ihre Mutter starb im Irrenhause,
 und jetzt, wo dieses holde Kind zum Weibe erblüht
 ist, meldet sich auch das vergiftete Blut ihrer leiblichen
 Eltern. Der Vater war … Säufer. Die acht Kinder zerflatterten
 in alle Welt — wie armselige Papierschnitzel,
 die der Sturm der Armut und des Lasters entführt und
-durch Schmutzsützen treibt. Helga ist … nicht normal, beide
+durch Schmutzpfützen treibt. Helga ist … nicht normal, beide
 Ärzte haben es mir bestätigt. Sie bildet sich Dinge ein,
 die nur in ihrer kranken Phantasie existieren.«
 
 Er sprach seltsam tonlos, seine Hände glitten nervös
-
 hierhin und dorthin.
+
 Ein Blick von mir zu Harald hinüber. Er hatte die
 <@pagebreak/>
-Augenbrauen das gezogen, und der Zug von Ironie um
-Diner Mund war geradezu gefährlich, … «
+Augenbrauen hoch gezogen, und der Zug von Ironie um
+seinen Mund war geradezu gefährlich …
 
-Doktor Pingalli izültelie …
+Doktor Pingalli hüstelte …
 
-»GutkHhulDtoC: ie, daß Worte Hetzte von hier etwas
+»Entschuldigen Sie, daß Moritz Helga von hier etwas
+roh fortbrachte … Helga wird Ihnen sicherlich allerlei törichtes
+Zeug vorgeschwatzt haben, sie hat Heute ihren schlechten
+Tag …«
 
-roh Wortbruchs … Stirn ich Schwer sicherlich allerlei ’iös
-Fidel Berg vor erblaßt hüben, sie Bai Heute ihren schlechten
-Gar …
+»Sie auch!!«
 
-»Sie gü)ti« …
-
-Pingalli sehr des lesen spöttischen Zwischenruf Harsts
-merklich zusammen an, Dann blickte er langsam auf, und in
-seinen Zügen suimnmwmerte 28 feucht …
+Pingalli fuhr bei diesem spöttischen Zwischenruf Harsts
+merklich zusammen. Dann blickte er langsam auf, und in
+seinen Zügen schimmerte es feucht.
 
 »Komödiant!« dachte ich.
 
-Er meinte feunf2e10; »Ja, auch ich habe meinen schlechter
-Zug «+ + Wie fühlte es wohl auch anders sein, wenn oh
-meine kleine Helga mit doch, in Ein Sanatorium bringen
-muß. Ich trenne wich so ungern von ihr …«
+Er meinte seufzend: »Ja, auch ich habe meinen schlechten
+Tag … Wie sollte es wohl auch anders sein, wenn ich
+meine kleine Helga nun doch in Ein Sanatorium bringen
+muß. Ich trenne mich so ungern von ihr …«
 
-Vielleicht hätte er Rock mehr, noch schlimmer geheuchelt
+Vielleicht hätte er noch mehr, noch schlimmer geheuchelt
 und gelogen. Harst verdarb ihm das Spiel.
 
-»Sagen Doktor, schenken Sie sich jedes weitere Wort …
+»Herr Doktor, schenken Sie sich jedes weitere Wort …
 Helga ist genau so gesund wie Sie und wir. Ich werde es
 zu verhindern wissen, daß das arme Mädchen nur deshalb
-verschleppt wird, damit sie … »nicht beichten Kanu.«
+verschleppt wird, damit sie … nicht beichten kann.«
 
 Pingalli tupfte wieder den Schweiß von der Stirn. Seine
-Hand zitterte, und ein seltsam ergreifender Ausdruckes Unendlichkeit
+Hand zitterte, und ein seltsam ergreifender Ausdruck unendlichen
 Grams versteinerte sein fahl gewordenes Antlitz.
-»Ich dachte es mir, daß es so kommen würde, Herr Hast …
+»Ich dachte es mir, daß es so kommen würde, Herr Harst …
 Aber — überzeugen Sie sich selbst … Ich werde Helga
 herbeirufen …«
 
 Er wollte aufstehen.
 
 »Bleiben Sie sitzen … Sie gestatten wohl, daß ich
-Schlag rufe,« sagte Harst rücksichtslos. »Hier geht irgendein
+Helga rufe,« sagte Harst rücksichtslos. »Hier geht irgendein
 Intrigenspiel vor sich, das ich vorläufig nicht durchschaue —
-nicht ganz … — Sie könneu-uns freilich die Tür weißen,
-Herr Doktor, und so unsere Einmischung wieder aus Falten.
-Sie würden dabei jedoch schlecht fahren. den ich würde
+nicht ganz … — Sie können uns freilich die Tür weisen,
+Herr Doktor, und so unsere Einmischung wieder ausschalten.
+Sie würden dabei jedoch schlecht fahren, denn ich würde
 <@pagebreak/>
 sofort die Beamten aus der Villa Vanderkott herüberrufen
-und ihnen Flagge Winke geben, die vielleicht diesen Vers
-schlungeneu Stunden eitögültig lösen« Fürsten, Entscheiden Ei«
+und ihnen einige Winke geben, die vielleicht diesen Verschlungenen
+Knoten endgültig lösen dürften. Entscheiden Sie
 sich.«
-Pingalli schien zu überlegen. Sein Besitz?! hatte eine
-sonngebräunte Farbe zurückzerren. 81 War sichtlich bestrebt,
-seine Urgesteins Erregung volisommein zu un?Betrüger,
 
-»Russen Sie hierzu,« erklärte er dann, »Form die Vertreter
+Pingalli schien zu überlegen. Sein Gesicht hatte eine
+sonngebräunte Farbe zurückgewonnen. Er War sichtlich bestrebt,
+seine ungeheure Erregung vollkommen zu unterdrücken.
 
-käme, Herr Harst, — — auf mein Wort? — würden ich
-namenloses Aussah heraufbeschwören.« Er dichte dabei Bar.
-Zeit in die Augen, und — jetzt war. er ruhig. Komödie äl.
-
-Jetzt war er ein Mensch, der für das Wohl und Wie
-anderer sich einsetzte. Meine Sympathie für ihn steigert?
-sich wieder. Je!) sagte dem Gedanken, er könnte ein verkappter
+»Rufen Sie Helga,« erklärte er dann. »Wenn die Polizei
+käme, Herr Harst, — — auf mein Wort! — würden Sie
+namenloses Unglück heraufbeschwören.« Er blickte dabei Harald
+in die Augen, und — jetzt war er nicht Komödiant.
+Jetzt war er ein Mensch, der für das Wohl und Wehe
+anderer sich einsetzte. Meine Sympathie für ihn steigerte
+sich wieder. Ich hatte dem Gedanken, er könnte ein verkappter
 Schurke sein, nur ungern Raum gewährt.
 
-Harald ging zur Tür, die zur Treppe führte. Er Vers
-suchte sie zu seinen. die war verschlossen. Als er zum Schlosse
+Harald ging zur Tür, die zur Treppe führte. Er Versuchte
+sie zu öffnen. Sie war verschlossen. Als er am Schlosse
 rüttelte, hörte ich auf dem Balkon draußen ein Geräusch …
-Eine Leiter wurde aägelchntl, — — und plötzlich ständig
-sie Moritz über das Geländer … war im Raum im Sie:
-wer, — — sein rotes Borstenhaar sträubte sich … sein.
-Briefes Gesicht troff vor Gxhzweiß …
+Eine Leiter wurde angelehnt, — — und plötzlich schwang
+sich Moritz über das Geländer … war im Nu im Zimmer,
+— — sein rotes Borstenhaar sträubte sich … sein
+schiefes Gesicht troff vor Schweiß …
 
-Er hatte in der rechten Hand eilten uralten, plumpen,
+Er hatte in der rechten Hand einen uralten, plumpen,
 verrosteten Revolver … Er schien völlig von Sinnen …
-Seine Glotzaugen hingen i’in förmlich aus dem Schnabel …
+Seine Glotzaugen hingen ihm förmlich aus dem Schädel …
 
-Der Mann war in dieser Verfassung ohne Zweifel He
-jährlich. Wenn es hier im Hause einen Verrückten 0o1d,
-dann war es Notiz.
+Der Mann war in dieser Verfassung ohne Zweifel Gefährlich.
+Wenn es hier im Hause einen Verrückten gab,
+dann war es Moritz.
 
 Doktor Pingalli schien ähnlich ernste Befürchtungen zu
-hegen. Er ward Deut Buckligen entgegengeeilt, wurde jedoch
-zur Seite gestoßen, und der Leine Kerl fauchte uns wie
+hegen. Er war dem Buckligen entgegengeeilt, wurde jedoch
+zur Seite gestoßen, und der kleine Kerl fauchte uns wie
 ein toller Kater an …
 
-»Euch beiden werte ins schon eitträntentl
+»Euch beiden werde ich’s schon eintränken!!«
 
-Er hob seinen Revolver … Er hatte sich) ganz zufammengedut
+Er hob seinen Revolver … Er hatte sich ganz zusammengeduckt
 …
 
 <@pagebreak/>
-Glücklich hörten wir las Seite Freikam des Schlüssels
-
-ist Bei Plantage, + sie ging auf, und Vers Brut Zeige, in
-Lieben Paar einen Fratze aus Gtiefmnütietgnen, ix der
-Linken aber einen! Patinienzweig ck wohl von. der Palmen
-
-Gx Pingalli Bewaffnung, Ein leeres, törichtes Lächeln
-Schritt: ihre reiten Züge, und mit mMonvloie? Einige —
-etwa wie ein »Geistlichen, der eine Litanei versagt — sprach
-? in die Brust hinein, ehe gemalt anzusehen: »Spielt
-sei mit euch …!! Gut nie ie Liebe, Bad die Liebe ans
-ein: 2g »da verteilt alte?! Die Philister sind eingebrtutigen in
-Las sich der Gläubigen, und Gingen mit der Kette will
-sie erschlagen, Boot Boot Rentner mich als den Sicher mit
-dem feurigen Beweise, und Finstern wird gepeilt, meiner er
-gespannten …, « Dabei berührte sie Worin Bretterlage mit
+Plötzlich hörten wir das leise Kreischen des Schlüssels
+in der Flurtür, — sie ging auf, und herein trat Helga, im
+blonden Haar einen Kranz aus Stiefmütterchen, in der
+Linken aber einen Palmenzweig — wohl von den Palmen
+Aus Pingallis Gewächshaus. Ein leeres, törichtes Lächeln
+verzerrte ihre reinen Züge, und mit monotoner Stimme —
+etwa wie ein Geistlicher, der eine Litanei hersagt — sprach
+sie in die Luft hinein, ohne jemand anzusehen: »Friede
+sei mit euch …!! Gott ist die Liebe, und die Liebe duldet
+alles und verzeiht alles! Die Philister sind eingedrungen in
+das Reich der Gläubigen, und Simson mit der Keule will
+sie erschlagen. Aber Gott sendet mich als den Engel mit
+dem feurigen Schwerte, und Simson wird gehen, woher er
+gekommen …« Dabei berührte sie Moritz’ Borstenhaar mit
 dem Palmenzweig …
 
-Pingalli hatte beide Fände vor das Golf)! korrekt
-und weinte. Mir lief es eilig über den Rächern. Harald des
-gbachtete Helga mit nüchterner Sachlichkeit, und Worin ruhte
-kehrt und feuerte wieder in der« Garten hinab und nahm
-die Leiter weg. Ich hatte noch gesehen, wie auch i’nn die
+Pingalli hatte beide Hände vor das Gesicht gepreßt
+und weinte. Mir lief es eisig über den Rücken. Harald beobachtete
+Helga mit nüchterner Sachlichkeit, und Moritz machte
+kehrt und kletterte wieder in den Garten hinab und nahm
+die Leiter weg. Ich hatte noch gesehen, wie auch ihm die
 Tränen in die Augen getreten waren und wie sein Gesicht
-nur noch diesen Schmerz verriet. Helgas Einfluß auf ihr
+nur noch diesen Schmerz verriet. Helgas Einfluß auf ihn
 war zweifellos sehr groß.
 
-Delta selbst wandte sich langsam und verließ das Zimmer
-wieder, indem sie leise einen Choral vor sich dir 1umwä.e.
+Helga selbst wandte sich langsam und verließ das Zimmer
+wieder, indem sie leise einen Choral vor sich hin summte.
 
 <h2>2. Kapitel.</h2>
 
 <h3>Der fliegende Schirm.</h3>
 
-— … Ich hätte diese lebten Szenen, die auf mich einen
-so diesen Eindruck madhyien, hier Mund weit eiäugehender
-schildern können. — Es gibt rote allzu viel zu berichten.
-Ich mich mich kurz haften, ich erwähne nur, das kannst st
-um mit einem höflichen: »Verzeihen Sie weine Cztzrofibeit.
-
+… Ich hätte diese letzten Szenen, die auf mich einen
+so tiefen Eindruck machten, hier auch weit eingehender
+schildern können. — Es gibt noch allzu viel zu berichten.
+Ich muß mich kurz fassen, ich erwähne nur, daß Harald sich
+nun mit einem höflichen: »Verzeihen Sie meine Schroffheit,
 <@pagebreak/>
-… Herr Doktor … auf Wiedersehen,« von Angeln vergaß.
-Schadete und daß wir beide kühl die Treppe hzinadstie-ze nix
-über den Feldweg in unseren eigenen. Garten zurückkehrten.
+Herr Doktor … auf Wiedersehen,« von Pingalli verabschiedete
+und daß wir beide still die Treppe hinabstiegen und
+über den Feldweg in unseren eigenen Garten zurückkehrten.
 
-Hier stehen an sonnigen, warme Fackel linker deine
-
-großen Lindenbaum Brei Liegeltuihle für »Trat Bart uns
-für uns, je nachdem einer Hausarzt wach Luft und Sonne
+Hier stehen an sonnigen, warmen Tagen unter dem
+großen Lindenbaum drei Liegestühle — für Frau Harst und
+für uns, je nachdem einer Sehnsucht nach Luft und Sonne
 empfindet.
 
-Aus einem dieser Stühle sitzend sind Freiheit Prank, —
-… etwas müde und verlegen, und unsicher begrüßte er uns …
-»Ich wollte doch einmal fragen, ob der Jagd! »Ganotta
-schon geklärt ist, lieber Harst …
-»Im — das fragen Sie mich?!« Und Harald lächelte ihn
+Aus einem dieser Stühle erhob sich Heribert Prank, —
+etwas müde und verlegen, und unsicher begrüßte er uns …
+
+»Ich wollte doch einmal fragen, ob der Fall Ganotta
+schon geklärt ist, lieber Harst …«
+
+»Hm — das fragen *Sie* mich?!« Und Harald lächelte ihn
 merkwürdig an … »Sie sind in der Tat ein glänzender
-Komödiant, Herr Prank … Herr Prank!«
+Komödiant, Herr Prank … *Herr* Prank!«
 
 Der Filmschauspieler, verwöhntester Liebling der Berliner,
-trotzdem ein bescheidener,!iebenvwürdiger Mensch, senkte
-mit zusammengepreßten Lippen den stark.
+trotzdem ein bescheidener, liebenswürdiger Mensch, senkte
+mit zusammengepreßten Lippen den Kopf.
 
 »Ihnen hätte ich’s niemals zugetraut,« fügte Harst hinzu.
-»So möchte nur wissen, werde Motive Sie dazu bewogen
+»Ich möchte nur wissen, welche Motive Sie dazu bewogen
 haben?!«
 
-Prank blickte schnell auf. »Was meinen Sie?! Weg
+Prank blickte schnell auf. »Was meinen Sie?! Was
 hätten Sie mir nicht zugetraut?!«
 
 »Fragen Sie nicht so töricht … — Besitzen Sie eine
-Heine automatische Pistole?«
+kleine automatische Pistole?«
 
-Prank wandte sich sah zur Seite.
+Prank wandte sich jäh zur Seite.
 
 Aber zu meiner Überraschung blinzelte Harst mir
 jetzt vielsagend zu. — Ich begriff nichts …
 
-»Ehen Sie Helga gesprochen …?« sagte Heribert leise,
+»Haben Sie Helga gesprochen …?« sagte Heribert leise.
 »Aber natürlich haben Sie sie gesprochen … Von wem
 sollten Sie sonst die Wahrheit erfahren haben?! Helga ist
 … ist … für mich verloren. Ich habe sie unendlich geliebt
 … Wir lernten uns zufällig vor zwei Monaten dort
 auf dem Feldwege kennen. Ich war bei Irina — wie so oft,
-und wie so oft widerte mich Ritsalzel3s fades Geschwätz und
+und wie so oft widerte mich Ritschels fades Geschwätz und
 des Majors ekelhafte Gier nach Alkohol derart an, daß ich
 <@pagebreak/>
 in den Garten und bis auf den Feldweg ging. Dort stand
 Helga im milden Glanz des Vollmondes — in einem hellen
-Handel, wie ein fköstliä)es Bild. Ich hatte sie bis dahin
+Mantel, wie ein köstliches Bild. Ich hatte sie bis dahin
 noch nie gesehen. Ich habe mich damals auf den ersten Blick
-in sie versteht. Sie erschien mir wie die Erfüllung meiner
-stillen Sehnsunhtsträume nach einem wirklich reinen, deutschen
+in sie verliebt. Sie erschien mir wie die Erfüllung meiner
+stillen Sehnsuchtsträume nach einem wirklich reinen, keuschen
 Weibe … — Ich bin ein moderner Mensch und
-doch) ein Schwärmer, «. Ich bin Filmheld und doch kein
+doch ein Schwärmer … Ich bin Filmheld und doch kein
 Lüstling. Ich habe mir meine Kraft und Fähigkeit, mit
-der Seele zu lieben, bewahrt, Er drehte sich langsam
+der Seele zu lieben, bewahrt.« Er drehte sich langsam
 wieder um und zeigte uns seine versonnen schmerzlichen
 Züge. »Wir haben uns damals eine Stunde unterhalten,
 Helga und ich … So, wie Menschen miteinander reden,
-die sofort den Gleichklang der. Seelen spüren und ihre
-Herzen öffnet und glücklich sind, verstanden zu werden.
-Ich daß Helga um ein Liebesleben. Sie schüttelte traurig
-den Kopf … »Mein Bater’ sagte sie, »würde es nie erlauben,
-daß ich mit jemandem »verkehrte, der bei Irina
-Vanderkott aus und ein geht … :: +« — Ich drang jedoch so
-sicherlich auf eine heimliche Zusammenkunft, daß sie mir
-»Schließlich erlaubte, am folgenden Abend an eine Lücke der
-Herde nach Irinas Garten hin mich einzufinden, — So begann
-unser Liebestraum, Mehr dar! ich Ihnen nicht mitteilen,
-genau wie mich als mein Ehrenwort bindet, was
-die Vorgangs der verflossenen Acht betrifft …«
+die sofort den Gleichklang der Seelen spüren und ihre
+Herzen öffnen und glücklich sind, verstanden zu werden.
+Ich bat Helga um ein Wiedersehen. Sie schüttelte traurig
+den Kopf … »Mein Vater,« sagte sie, »würde es nie erlauben,
+daß ich mit jemandem verkehrte, der bei Irina
+Vanderkott aus und ein geht …« — Ich drang jedoch so
+flehentlich auf eine heimliche Zusammenkunft, daß sie mir
+Schließlich erlaubte, am folgenden Abend an eine Lücke der
+Hecke nach Irinas Garten hin mich einzufinden. — So begann
+unser Liebestraum. Mehr darf ich Ihnen nicht mitteilen,
+genau wie mich auch mein Ehrenwort bindet, was
+die Vorgänge der verflossenen Nacht betrifft …«
 
-Zu meiner Überraschung klopfte Harald ihm da derb.
-verbindlich auf die Schulter. »Sie sind ein braver, lieber
+Zu meiner Überraschung klopfte Harald ihm da derb-vertraulich
+auf die Schulter. »Sie sind ein braver, lieber
 Kerl, Prank … Nur ein schlechter Menschenkenner. —
-Setzen wir uns, rücken wir »die Liegestühle zusammen.
+Setzen wir uns, rücken wir die Liegestühle zusammen.
 So — hier eine Zigarette … Und jetzt geben Sie uns
-Feuer, Prank, — mit Ihrer Pistole … mit Ihrer Feuers
-zeugpistole …«
+Feuer, Prank, — mit Ihrer Pistole … mit Ihrer Feuerzeugpistole
+…«
 
 ich stutzte … Mir ging ein Lichtlein auf.
 
 Jeder Kennt diese Feuerzeuge in Pistolenform. Sie sind
-aus schwarzen Blech geeignet, die sausten aus dunklem Stab!
+aus schwarzen Blech geeignet, die teueren aus dunklem Stahl
 <@pagebreak/>
-mit Nagelfeile, Bürste und Zahnstocher, Messerchen und alt
-deren im Sollen.
+mit Nagelfeile, Bürste und Zahnstocher, Messerchen und anderem
+im Kolben.
 
-Prank suchte in die Tatze … Frühe die »Waffe« ab …
-Es erfüllte, und ein Streichen arm Lauf sprang auf und der
+Prank faßte in die Tasche … drückte die »Waffe« ab …
+Es sprühte, und ein Deckelchen am Lauf sprang auf und der
+Docht brannte.
 
-Docht traute.
-
-»Das war der Schuß, den Gebar sah, mein Alter,«
-lächelte Harald, »Ich dachte mir es gleich, denn Prank hat
-ja in dem Flut »Der Page Ihrer Arbeit« mit dieser »Pistole«
+»Das war der Schuß, den Helga sah, mein Alter,«
+lächelte Harald. »Ich dachte mir es gleich, denn Prank hat
+ja in dem Film »Der Page Ihrer Hoheit« mit dieser »Pistole«
 sehr wirksam operiert … — Das wäre der eine Punkt. —
 Der zweite: Sie, lieber Prank, der Major und Direktor
 Hirsch war gar nicht im Salon, als Ganotta getötet wurde,
 sie drei waren leise hinausgegangen, und gerade Sie, Prank,
 erkletterten den Eichenstumpf im Hintergarten, wollten sich
-eine Zigarette anzünden … Da hörten Sie Irinas Art«
-Schrei im Musikzimmer und eilten naß) hinein. Sie, Spitzer
-und Hirse; gaben sich dann gegenseitig das Ehrenwort, nicht
-zu verlassen, daß sie den Salon verlassen hätten, damit
-nicht etwa der Verdacht auf einen von ihnen dreien hielt,
-bei Schuß draußen abgegeben 38 haben. — Es ist so.
-Sie brauchen nichts mehr zu beitragen, Prank, Sie haben Ihr
-Wort gehörten. Jetzt ist es Ihre Pflicht, alles zu sogen. Der
-Polizei gegenüber dürften Sie ja auch nicht stoßweisen, —
-Auto« was Hoheit und hörten Sie vorn Gent Baumstumpf
-aus
+eine Zigarette anzünden … Da hörten Sie Irinas Aufschrei
+im Musikzimmer und eilten rasch hinein. Sie, Spitzer
+und Hirsch gaben sich dann gegenseitig das Ehrenwort, nicht
+zu verraten, daß sie den Salon verlassen hätten, damit
+nicht etwa der Verdacht auf einen von ihnen dreien fiele,
+den Schuß draußen abgegeben zu haben. — Es ist so.
+Sie brauchen nichts mehr zu leugnen, Prank, Sie haben Ihr
+Wort gehalten. Jetzt ist es Ihre Pflicht, alles zu sagen. Der
+Polizei gegenüber dürften Sie ja auch nicht schweigen. —
+Also, was sahen und hörten Sie von dem Baumstumpf
+aus?«
+
 Heribert Prank nickte ernst. »Meine Aussage ist von
 Wichtigkeit — leider! Ich hatte die Villa nach rechts herum
-umschritten. Ritschel ahnte nicht, daß ich drei Meter erst
-fort von dem rechten Fenster stand, in dem er lehnte.
-Ich wollte nur einen Bis nach Pingalli Haus hinüber’
-werfen — nur das. Bösen ich sah) weit mehr … Zunächst:
+umschritten. Ritschel ahnte nicht, daß ich drei Meter entfernt
+von dem rechten Fenster stand, in dem er lehnte.
+Ich wollte nur einen Blick nach Pingallis Haus hinüberwerfen
+— nur das. Aber ich sah weit mehr … Zunächst:
 Die Gestalt auf der Fontäne war ein Mann!«
 
-»Das weiß ich,« — und Harald blies den Raub in
-die Rohe. »Der Wann war Doktor Pingalli …
+»Das weiß ich,« — und Harald blies den Rauch in
+die Höhe. »Der Mann war Doktor Pingalli …«
 
-»Die?!« Prank wollte aufspringen.
+»Wie?!« Prank wollte aufspringen.
 
 <@pagebreak/>
 Auch ich war entsetzt. Pingalli, — — an den hätte ich
 zu allerletzt gedacht.
 
-»X, Pingalli,« erklärte Harald. »Pingalli war zu der
-Flasche mit dem schwarzen Bart …«
+»Ja, Pingalli,« erklärte Harald. »Pingalli war auch der
+Bleiche mit dem schwarzen Bart …«
 
-Prank lehnte sie zurück. »Entschuldigen Sie, das sind
-Vermutungen, nichts weiter, bester Harst.
+Prank lehnte sich zurück. »Entschuldigen Sie, das sind
+Vermutungen, nichts weiter, bester Harst.«
 
-»Zettel Prank, das sind Tatsachen …
+»Bester Prank, das sind Tatsachen …«
 
-»Beweise el«
+»Beweise?!«
 
-»Gedulden Sie sich »ein wenig, — eins ne dem ans
-denn … — Wie war der Mann auf dem Fontänenrand
-gekleidet?«?
+»Gedulden Sie sich ein wenig, — eins nach dem anderen
+… — Wie war der Mann auf dem Fontänenrand
+gekleidet?«
 
-»Mantel, Schlapphut, —« — dunkler Bart, …«
-»Watte er eine Waffe bei sie?«
+»Mantel, Schlapphut, — — dunkler Bart …«
 
-»Ein langes Etwas …
+»Hatte er eine Waffe bei sich?«
+
+»Ein langes Etwas …«
 
 »Also den Karabiner, den der Bleiche ebenfalls benutzte.
-
 — Pingalli aber log uns vorhin in seinem Studierzimmer
 vor, es sei eine verschleierte Frau mit Regenschirm und
 Stativ gewesen. Mithin log er absichtlich. Fragen Sie nur
-Ertrank …
+Schraut …«
 
-»Alles Dinge,« bestätigte 1. »Es muß Bingalli gewesen
-sein …!!Weshalb beschwindel!te er uns sonst so grob?!«
+»allerdings,« bestätigte ich. »Es muß Pingalli gewesen
+sein … Weshalb beschwindelte er uns sonst so grob?!«
 
-»Ja — und er hat rot große Füße, und im Flur
-standen ein Haar alte Guimiscuhe, die die Spuren noch
-verschwömmehlter Hören 6 6 — — Dran ich frage weiter:
+»Ja — und er hat recht große Füße, und im Flur
+standen ein Paar alte Gummischuhe, die die Spuren noch
+verschwommener machten … — — Prank, ich frage weiter:
 Sahen Sie, daß Pingalli schoß oder doch den Karabiner
-hob. 7«
-»30 … das sah ich … Aber er hatte kaum « angelegt,
-als drinnen im Musikzimmer auch schon Irina aufschrie …
+hob?«
+
+»Ja … das sah ich … Aber er hatte kaum angelegt,
+als drinnen im Musikzimmer auch schon Irina aufschrie …«
 
 »Hörten Sie das dumpfe »Plomp« eines schallgedämpften
 Schusses?«
 
-— »Mein — nichts!«
+»Nein — nichts!«
 
-Harald beschaute nadwdenklich seine Stiefelspitze. »Das
+Harald beschaute nachdenklich seine Stiefelspitze. »Das
 ist sehr merkwürdig,« sagte er bedächtig.
 
-»Gewiß, sogar völlig unverständlich, lieber Harst. Ab
-hätte selbst dieses dumpfe Plomp vnbeding? vernehmen
+»Gewiß, sogar völlig unverständlich, lieber Harst. Ich
+hätte selbst dieses dumpfe Plomp unbedingt vernehmen
 <@pagebreak/>
 müssen. Ich stand ja auf dem Eichenstumpf … in Fensterhöhe,
 wenn ich auch nicht in die Ecke schauen konnte, wo der
@@ -1911,126 +1907,129 @@ Bechsteinflügel steht.«
 Harst runzelte die Stirn. »Dieses Rätsel wird immer
 dunkler … Sollte doch etwa Pingalli gefeuert haben?!
 Aber die tödliche Kugel ist eine Pistolenkugel, niemals ein
-Karabinergeschoß. Oder — sollte doch eine Luftpistole vorn
-wendet vorhin sein?! — Wir tappen im Kreise. So kommen
+Karabinergeschoß. Oder — sollte doch eine Luftpistole verwendet
+worden sein?! — Wir tappen im Kreise. So kommen
 wir nicht weiter. Packen wir die Sache anders an. Erörtern
-wir erst Ihre Beobachtungen, Prank, und Ihre Des
-erringen zu Irina und Helga und Ihr lauteres Verhalten.
-Wir müssen eben schrittweice vorgehen. Jeder Gedankensprung
+wir erst Ihre Beobachtungen, Prank, und Ihre Beziehungen
+zu Irina und Helga und Ihr späteres Verhalten.
+Wir müssen eben schrittweise vorgehen. Jeder Gedankensprung
 führt uns hier in die Irre. — Sahen oder hörten Sie noch
 etwas auf Ihrem Baumstumpf?«
 
 »Nein. — Das heißt … — es mag unwichtig sein,
-wenn es mich auch seltsam berührte: Auf den Schrei Erstes
-hin drehte im den Kopf blitzschnell wieder nach links —
-na den beiden erleuchteten und offenen Fenstern des Maske
-Zimmers, Ritschel war vom Fenster schon verschwunden,
+wenn es mich auch seltsam berührte: Auf den Schrei Irinas
+hin drehte ich den Kopf blitzschnell wieder nach links —
+nach den beiden erleuchteten und offenen Fenstern des Musikzimmers.
+Ritschel war vom Fenster schon verschwunden,
 und da erblickte ich im Zimmer Irinas rotseidenen Sonnenschirm
-…
-»Wie »meinen Sie das, — Sie erblickten ihn?«
+…«
 
-»Ich — er flog vom Flügel her durch die Luft und Fiel
+»Wie meinen Sie das, — Sie erblickten ihn?«
+
+»Ja — er flog vom Flügel her durch die Luft und Fiel
 irgendwie in die Nähe des Wandschirms links neben der
-Für ins Eßzimmer nieder, Ich hörte ihn rote auf den
-Teppich klatschen — eben das Geräusch eines mit Schwang
+Tür ins Eßzimmer nieder. Ich hörte ihn noch auf den
+Teppich klatschen — eben das Geräusch eines mit Schwung
 geworfenen, niederfallenden Schirmes.«
 
-Harald Güte sich und schnürte die Bänder seines linken,
+Harald bückte sich und schnürte die Bänder seines linken,
 braunen Halbschuhes fester. »Das ist allerdings wertlos,«
 sagte er. »Wo lag oder stand denn der Schirm vorher?«
 
 »Er lehnte am Notenständer …«
 
-»u. dicht am Bechstein …, ««-
+»Also dicht am Bechstein …«
 
-Harst mordete sich wieder auf. »Und wo ist der Schirm
+»Ja …«
+
+Harst richtete sich wieder auf. »Und wo ist der Schirm
 geblieben?«
 
 <@pagebreak/>
-»289 weiß ich Licht, lieber Harst, ich habe mich um das
-Hilft an Dicht weiter gekümmert.«
+»Das weiß ich Licht, lieber Harst, ich habe mich um das
+Ding auch nicht weiter gekümmert.«
 
-»Mr, — See Schwach Hauses nicht. mehr im Zimmer, als
-» Fertig aus gepeilt hatte. — — Genug davon. Etwas Neues
-jetzt.«, Dir wissen znotürlic, los Irina und Helga
+»Nun, — der Schirm war nicht mehr im Zimmer, als
+Irina uns geholt hatte. — — Genug davon. Etwas Neues
+jetzt … Sie wissen natürlich, daß Irina und Helga
+Schwestern sind?«
 
-Schwestern irr
+Prank nickte widerwillig, sagte jedoch nichts.
 
-Prank zweite wurerwittig, sagte jede) nickte.
+»Wann und wie erfuhr Helga, daß Irina ihre Schwester
+ist?«
 
-»Wand 118 wie erfuhr Helga, daß Fragte ihre Schwester
-Ast 7«
-derweil seufzte, »Sie bringen mich da in eine sehr peinliche
-Lage … Ich habe Verschwiegenheit
+Heribert seufzte. »Sie bringen mich da in eine sehr peinliche
+Lage … Ich habe Verschwiegenheit …«
 
-»Angetan, — »hier geht es um ein Menschenleben, Prank!
+»Unsinn, — hier geht es um ein Menschenleben, Prank!
 Reden Sie!«
 
-»Zaun gut … Sie haben recht. — Irina und Helga
-lernten sich) persönlich erst wieder durch nicht kennen. Sie
-waren so frühzeitig aus beim Elternhause zu Freuen gesponnen,
-daß sie, zumal sie sich nie mehr ganzen und nichts
-voneinander horten, sich?) gar nicht wiedererkennen konnten,
-Außerdem heißt ja auch Irina »mit ihrem schlagen Namen,
+»Nun gut … Sie haben recht. — Irina und Helga
+lernten sich persönlich erst wieder durch mich kennen. Sie
+waren so frühzeitig aus dem Elternhause zu Freuen gekommen,
+daß sie, zumal sie sich nie mehr sahen und nichts
+voneinander hörten, sich gar nicht wiedererkennen konnten.
+Außerdem heißt ja auch Irina mit ihrem richtigen Namen,
 den sie längst abgelegt hat, Elisabeth Müller … Wie
-sollten also die Schwestern …
+sollten also die Schwestern …«
 
-»Schnur gut … — Bedurft ward dann doch beiden
+»Schon gut … — Wodurch ward dann doch beiden
 klar, daß sie Schwestern seien?«
 
-»Eines Abends,« berichtete Prank allzu etwas träumerisch,
-»fanden wir an der Lücke in der Hecke, Irina und ich auf
-der einen Seite, Delta auf der anderen. Irina war nur zu
+»Eines Abends,« berichtete Prank nun etwas träumerisch,
+»standen wir an der Lücke in der Hecke, Irina und ich auf
+der einen Seite, Helga auf der anderen. Irina war nur zu
 uns getreten, um Helga kurz zu begrüßen. Diese jedoch
 hatte mir allerlei von ihrer traurigen Jugend und ihren
 verkommenen Eltern erzählt und weinte leise. Irina fragte
-sie na; dem Anlaß ihrer Traurigkeit, und so geschah’s
-daß Helga neue Einzelheiten aus ihren Winkeligen erwähnte.
-Plötzlich fiel Irina ihr um den Hals …?übte sie, weinte
-auch, und — — die Schwe’tern hatten sich gefunden. —
+sie nach dem Anlaß ihrer Traurigkeit, und so geschah’s
+daß Helga neue Einzelheiten aus ihren Kindertagen erwähnte.
+Plötzlich fiel Irina ihr um den Hals … küßte sie, weinte
+auch, und — — die Schwestern hatten sich gefunden. —
 Nun aber auch hierbei etwas sehr, sehr Merkwürdiges:
 Irina verbot Helga sehr eindringlich, ja nicht etwa ihrem
 <@pagebreak/>
-Woptivvoter Pingalli mitzuteilen, was ließ hier im Dunklen
+Adoptivvater Pingalli mitzuteilen, was sich hier im Dunklen
 soeben abgespielt und herausgestellt hatte. Irina war dabei
-so energisch und so ängstlich — ängstlich vor Pingealli, das
-Helga, die ja die Abneigung Pingallis gegen Irina Kante,
-schnell bereit war, gut) nie etwas anmerken zu Unsinn und
-Stets sehr vorsichtig zu sein, wen! sie sich mit Irina zu der
-Herr träfe. Auch) von mir verlangte Irina strengste Hin
-Station und Vorsicht, Ich gewann bei alldem den Statue,
-daß Irina den Doktor Pingalli aus irgendeinem Grundstein
-fürchtete, und in der verflossenen Wacht, als Sie, Harst, diesen
-Fischer als Erpresser entlarvten, kam mir der Gedanke,
-ob nicht auch Bingalli mit den beiden Schuften Kenntlich
-verbündet sei, — ein Verdacht, der jetzt zur Gewitzter! es
-worden, da ja Pingalli der »Breite war, der den famosen
+so energisch und so ängstlich — ängstlich vor Pingalli, daß
+Helga, die ja die Abneigung Pingallis gegen Irina Kannte,
+schnell bereit war, sich nie etwas anmerken zu lassen und
+Stets sehr vorsichtig zu sein, wenn sie sich mit Irina an der
+Hecke träfe. Auch von mir verlangte Irina strengste Diskretion
+und Vorsicht. Ich gewann bei alldem den Eindruck,
+daß Irina den Doktor Pingalli aus irgendeinem Grunde sehr
+fürchtete, und in der verflossenen Nacht, als Sie, Harst, diesen
+Ritschel als Erpresser entlarvten, kam mir der Gedanke,
+ob nicht auch Pingalli mit den beiden Schuften heimlich
+verbündet sei, — ein Verdacht, der jetzt zur Gewißheit geworden,
+da ja Pingalli der Bleiche war, der den famosen
 »Doktor« Ritschel und diesen kläglichen Säufer namens
-von Solcher befreite …«
+von Spitzer befreite …«
 
-»Hm …!!« Harald schüttelte sonst den Kopf. »Lieber
-Prank, — und die Angst der beiden vor dem Kleinen, diese
-TodeSangstv1«
+»Hm …!!« Harald schüttelte sanft den Kopf. »Lieber
+Prank, — und die Angst der beiden vor dem Bleichen, diese
+Todesangst?!«
 
-Prau? erklärte schritt: »Auch Verbündete können sich
+Prank erklärte schlicht: »Auch Verbündete können sich
 verfeinden, zumal wenn zwei von ihnen vielleicht auf eigene
 Faust das goldene Huhn rupfen.«
 
 »Stimmt, das kann sein … — — Aber — — weiter
 — — Schritt für Schritt … Das Dunkel lichtet sich schon
-»… — Als Irina aus holte, wo war sie da noch vorher?
-Sie hatte doch Scizmutzränder zu den Wachsamkeit …«
+… — Als Irina uns holte, wo war sie da noch vorher?
+Sie hatte doch Schmutzränder an den Lackschuhen …«
 
-Prank blickte zu Boden
+Prank blickte zu Boden …
 
 Er schwieg.
-
-ne Gut +.Tarantel ums
 
 <h2>3. Kapitel.</h2>
 
 <h3>Der Müllberg.</h3>
+
 Weshalb schwieg er?! Weshalb seufzte er wieder?!
+
 Er antwortete äußerst widerwillig:
 
 <@pagebreak/>
@@ -2147,7 +2146,7 @@ Tiger itetent-weratfner auf dem Fotntänenrand, Bitte
 soll schmierte sich machen Schminke« über die braune Kiesgrube
 und war der Bleiche. Aber, wie gesagt: Der Oberchef,
 der volkstümliche Aushole liebt und mich anfauchte, hat
-sich durch) Pingallis Niesenstistung für das staatliche Museum
+sich durch Pingallis Riesenstiftung für das staatliche Museum
 blonden lassen. Pingalli forderte Schuß für den Transport
 der wertvollen Steinsammlungen, Versteinerungen und Edelteine,
 und nun stehen vier Mann Wache, und Pingalli
@@ -2491,7 +2490,7 @@ wie Ihr Wachtdienst, Harst, den ich natürlich bemerkt habe,
 Stadt von unseren Beamten wird Pingallis Haus jetzt
 von drei Denken der Detektei Zug beobachtet, und die haben
 Sie doch bestellt, aller Freund. Sie wollen wohl die beiden
-Kisten nicht stehlen lassen, die noch nicht abtrangportieri
+Kisten nicht stehlen lassen, die noch nicht abtransportiert
 sind.« Er besah sich seine Zigarre, legte sie wieder weg und
 rauchte seine eigene an. Meine Brasil sind ihm zu rechnen.
 
