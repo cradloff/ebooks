@@ -2033,39 +2033,39 @@ Weshalb schwieg er?! Weshalb seufzte er wieder?!
 Er antwortete äußerst widerwillig:
 
 <@pagebreak/>
-»Irina versuchte Helga am Yzckeitlloh zu treffen …
-ls; Rest w war Berge liegt dort, und bevor Irina durch Zug
-(ach ihr »Co.
+»Irina versuchte Helga am Heckenloch zu treffen …
+Natürlich war Helga nicht dort, und bevor Irina durch das
+Signal …«
 
-»Welches Signal s«
+»Welches Signal?«
 
-Sie — Schwestern Hütten vereinbart, sich üurp Jäger
-Kutte Bogelpieises miteinander zu verständigen … —
-Neger Trick also durch das Signal steige herheizetufeäa
-täte — Helga schläft ist Erdgeschoß, wund. Pingalli oben
-Kutter Sir —, wäre zu Kanne Zeit verstrichen, bist
-or Lief Irina wieder in bei ’Börgarten und zu Steuer …«
+»Die Schwestern Hatten vereinbart, sich durch sogenannte
+Vogelpfeifen miteinander zu verständigen … —
+Bevor Irina also durch das Signal Helga herbeigerufen
+hätte — Helga schläft im Erdgeschoß und Pingalli oben
+im ersten Stock —, wäre zu lange Zeit verstrichen, daher
+Lief Irina wieder in den Vorgarten und zu Ihnen …«
 
-»und hager Batterie Tritt Ihnen nachher 322. Sie
-sollen Helga etwas bestellen-.-«
+»und daher flüsterte Irina Ihnen nachher zu, Sie
+sollten Helga etwas bestellen …«
 
-»Auch) das ist richtig, Fieber Harst, Und jetzt Armut
-wieder etwas sehr Eigestiimiihes, denn Zelte t(cug mir
-auf, Helga folgendes auszurichten: Helga Falle, falls sie etwa
-der Mama auf der Fontäne kenne, um jeden Preis dies
-verheimlichen. — Begreifen Sie das, Harst?! Ich; glüht.«
+»Auch das ist richtig, lieber Harst. Und jetzt kommt
+wieder etwas sehr Eigentümliches, denn Irina trug mir
+auf, Helga folgendes auszurichten: Helga solle, falls sie etwa
+den Mann auf der Fontäne kenne, um jeden Preis dies
+verheimlichen. — Begreifen Sie das, Harst?! Ich nicht.«
 
-»Ich … ja!« sagte Gipfelt gelassen. »Tod davon Täter.
-— Sie, lieber Prau!, trafen dann Helga verkleidet am
-Gedeutet, und es Kam Familien ihnen beiden zu einem
-scheinbaren Wracks, weit diverse Sie verdäcpkligzte, der Mörder
-zu sein. — Haben Sie Helga Irinas Bestellung ausgerichtet 7«
+»Ich … ja!« sagte Harald gelassen. »Doch davon später.
+— Sie, lieber Prank, trafen dann Helga verkleidet am
+Heckenloch, und es Kam zwischen ihnen beiden zu einem
+scheinbaren Bruch, weil Helga Sie verdächtigte, der Mörder
+zu sein. — Haben Sie Helga Irinas Bestellung ausgerichtet?«
 
-»Ja. Sie war darüber sehr erstaunt, sie kurze niemand
+»Ja. Sie war darüber sehr erstaunt, sie hatte niemand
 auf der Fontäne gesehen, konnte dies auch gar nicht von
-ihren: Platte aus, — uns mich sah sie auf dem Batiistumpf
-und auch Fischer am Fenster. Ich habe Helga so)
-erklärt, daß wir drei, die wir Ungebühr) im Salon weilten,
+ihrem Platze aus, — nur mich sah sie auf dem Baumstumpf
+und auch Ritschel am Fenster. Ich habe Helga noch
+erklärt, daß wir drei, die wir angeblich im Salon weilten,
 uns das Ehrenwort …«
 
 »Danke … — Was ich von Ihnen erfahren konnte,
@@ -2073,405 +2073,401 @@ weiß ich nun, und — — Sie, lieber Prank, haben mir
 endlich die richtige Fährte gezeigt.«
 
 Heribert Prank beugte sich vor und griff nach Haralds
-Hand. »Wer ist der Mörder?« bat er … »Sätzen Sie es
-mir, Harst … Es wäre ja entsetzlich, wenn etwa Brieflich
+Hand. »Wer ist der Mörder?« bat er … »Sagen Sie es
+mir, Harst … Es wäre ja entsetzlich, wenn etwa wirklich
 Irina …«
 
 <@pagebreak/>
-»Rein,« fiel Harst ihm ins Wort, »so energisch wäre
-das nicht, — — und Sie müssen Sitz schon damit abfinden,
-daß Irina den Legationsrat töten wollt? … Sie drücken
-auch das nicht verpestet, Prau: Fertig wird es, Die öu8
-Licht ausschaltete, als Pingalli uns mit tote Karabiner bedrohte
-und als Ritschel und Spitzer Speichen Vers: — Ich
-überschaue die Zusammenhänge noch nicht vollständig. Jungen
+»Nein,« fiel Harst ihm ins Wort, »so entsetzlich wäre
+das nicht, — — und Sie müssen sich schon damit abfinden,
+daß Irina den Legationsrat töten wollte … Sie dürfen
+auch das nicht vergessen, Prank: Irina war es, Die das
+Licht ausschaltete, als Pingalli uns mit dem Karabiner bedrohte
+und als Ritschel und Spitzer geflohen waren. — Ich
+überschaue die Zusammenhänge noch nicht vollständig. Fragen
 Sie nichts … Irina wird auch kaum gefunden werden …
-— Übrigens ist auch Helga eine glänzende »41 Spielerin.
-Vorhin hat sie den Friedensengel jv echt gewinnt, daß mein
-lieber Schraut eine Ausschaut bekam. Nun Tapezieren Sie
-heim, bester Prank … Es wird alles schon leidlich) in Ordnung
-kommen … Auf Wievdersezen …«
+— Übrigens ist auch Helga eine glänzende Schauspielerin.
+Vorhin hat sie den Friedensengel so echt gemimt, daß mein
+lieber Schraut eine Gänsehaut bekam. Nun marschieren Sie
+heim, bester Prank … Es wird alles schon leidlich in Ordnung
+kommen … Auf Wiedersehen …«
 
-Prank mußte sie verabschieden, — gern tat er’s nicht,
-und kaum war er weg, erstieg der verrate Gang vom
-Feldwege her, Kriminalkommässar Doktor Dank Lücke.
+Prank mußte sich verabschieden, — gern tat er’s nicht,
+und kaum war er weg, erschien der patente Hans vom
+Feldwege her, Kriminalkommissar Doktor Hans Lücke.
 
 »Tag, Kinder … Na, ihr habt hier ja mit dem Prank
-ein mächtig langes Palaver abgehalten … Was Bewege«
+ein mächtig langes Palaver abgehalten … Was Neues?«
 
-Er warf sich in den Liegestuhl und fächelte sich alt
-seinem eleganten Filzhut Kühlung zu. »graulich habt sie
-nichts Neues Kutter?!,« plätscherte sein aufgefunden Rede
-Strom weiter, »ihr armen Kerle findet ja nie ein Splittert
-einer Spur …« Er legte seinen vzanöypicegel zu] sein Los
-gezogenes Knie und ordnete zeigen schmalen Binder, in
-dem stets eine kostbare Perle als Nadel söyiuanerte. Er konnte
+Er warf sich in den Liegestuhl und fächelte sich mit
+seinem eleganten Filzhut Kühlung zu. »Natürlich habt ihr
+nichts Neues entdeckt,« plätscherte sein gutgelaunter Redestrom
+weiter, »ihr armen Kerle findet ja nie ein Spürchen
+einer Spur …« Er legte seinen Handspiegel auf sein hochgezogenes
+Knie und ordnete seinen schmalen Binder, in
+dem stets eine kostbare Perle als Nadel schimmerte. Er konnte
 sich eben alles leisten, der patente Hans, er war reich und
-nur aus Neigung zur Kriminalpolizei dvergetreten, wo er
-das »Anstrengt Familie« für setze Vorgesetzter, aber der des
-bedrohte Mann seiner Untergebenen war. Hübschen er seiner
-Krawatte den nötigen Dünung verliehen, betrachtete er eingehend
+nur aus Neigung zur Kriminalpolizei übergetreten, wo er
+das »Enfant terrible« für seine Vorgesetzten, aber der beliebteste
+Mann seiner Untergebenen war. Nachdem er seiner
+Krawatte den nötigen Schwung verliehen, betrachtete er eingehend
 seine zart gemusterter Seidenstrümpfe und begann von
-neuem: »Mein Oberchef hat mir lauf’ eilte Nase versetzt,
-die war nicht schlecht. Erst wandte ich mich zu den Chef.
-Der zeterte entsetzt: »Um Gotteswillen, den wollen Sie
+neuem: »Mein Oberchef hat mir heut’ eine Nase versetzt,
+die war nicht schlecht. Erst wandte ich mich an den Chef.
+Der zeterte entsetzt: »Um Gotteswillen, *den* wollen Sie
 verhaften! Der Oberchef hat ja soeben befohlen, daß das
 <@pagebreak/>
 Haus Doktor Pingalli scharf bewacht wird. Pingalli hat
 heute früh dem Minister mitgeteilt, daß er seine Sammlungen
-dem Museum schroff und daß er den Aotranspork ich-:n
-ungeordnet habe … Also gehen Sie zum Oberchef, Lücke!«
-— Ich ging, und der Verriet hörte zu und meinte dann:
-»Las ist alles Unsinn. Das hat Ihnen wohl der Harst
-suggeriert, Doktor Pingalli ist ein Ehrenimann, und Sie
-sind …« — na, wie er auf kritisierte, will ich nicht wiederholen,
-im drehte mich jedenfalls kurz um und schmetterte
+dem Museum schenkt und daß er den Abtransport schon
+angeordnet habe … Also gehen Sie zum Oberchef, Lücke!«
+— Ich ging, und der Oberchef hörte zu und meinte dann:
+»Das ist alles Unsinn. Das hat Ihnen wohl der Harst
+suggeriert. Doktor Pingalli ist ein Ehrenmann, und Sie
+sind …« — na, wie er mich titulierte, will ich nicht wiederholen,
+ich drehte mich jedenfalls kurz um und schmetterte
 die Tür ins Schloß und dachte: »Du kannst mir mal …
 und so weiter!« — Ja, Kinder, — so schlau wie ihr bin
 ich auch. Ihr wißt natürlich einen ganzen Haufen. Ich desgleichen.
-Meine Quelle war Atlas Zofe, die ich mir heute
-Gehörig vorband, und da Gewichte ihr Gedächtnis, Pingalli
-hat Irina nachts sehr häufig besucht«,
+Meine Quelle war Irinas Zofe, die ich mir heute
+Gehörig vorband, und da erwachte ihr Gedächtnis. Pingalli
+hat Irina nachts sehr häufig besucht.«
 
-Er blinzelte uns zu. »Wußtet ihr das?!«
+Er blinzelte uns an. »Wußtet ihr das?!«
 
-»Das sind olle Kamellen, lieber Lücke. Hakten Sie nichts
-Besseres auf Verrat?!« Harst fehlte an seinen Fingernägeln
-hervor. Arm
-Lücke lachte. »Olle Kamellen?!? Die Kamellen stammen
-von Prank, von Helgas Liebsten. Auch das hatte die Zofe
-ausspioniert, Alle Zofen spionieren, Diese Zofe besitzt ein
-Thealerzlas … Und von ihrem Mansardenfenster sah sich«
-Tiger itetent-weratfner auf dem Fotntänenrand, Bitte
-soll schmierte sich machen Schminke« über die braune Kiesgrube
+»Das sind olle Kamellen, lieber Lücke. Hatten Sie nichts
+Besseres auf Vorrat?!« Harst feilte an seinen Fingernägeln
+herum. 
+
+Lücke lachte. »Olle Kamellen?! Die Kamellen stammen
+von Prank, von Helgas Liebstem. Auch das hatte die Zofe
+ausspioniert. Alle Zofen spionieren. Diese Zofe besitzt ein
+Theaterglas … Und von ihrem Mansardenfenster sah sie
+Pingalli mit einem Karabiner auf dem Fontänenrand. Pingalli
+schmierte sich nachher Schminke über die braune Edelfratze
 und war der Bleiche. Aber, wie gesagt: Der Oberchef,
-der volkstümliche Aushole liebt und mich anfauchte, hat
+der volkstümliche Ausdrücke liebt und mich anfauchte, hat
 sich durch Pingallis Riesenstiftung für das staatliche Museum
-blonden lassen. Pingalli forderte Schuß für den Transport
-der wertvollen Steinsammlungen, Versteinerungen und Edelteine,
+blenden lassen. Pingalli forderte Schutz für den Transport
+der wertvollen Steinsammlungen, Versteinerungen und Edelsteine,
 und nun stehen vier Mann Wache, und Pingalli
-hat uns aus. Wer zuletzt! lacht, lacht am klügsten, Kinder,
+lacht uns aus. Wer zuletzt lacht, lacht am klügsten, Kinder.
 Nun erzählen Sie mal, Harst.«
 
-Der tat’s uns verschwieg nichts. Lücke scheiterte mit
+Der tat’s uns verschwieg nichts. Lücke kokettierte mit
 seinen Brillantringen und warf ein: »Irina und Helga
 <@pagebreak/>
-Schwestern — — olle Kamellen? Das wußte ich schon
-gestern noch!. Beide geborene Müller, beide aus derselben
-Stadt, beide vom Loben eilten herumgeworfen, Eltern Kot,
+Schwestern — — olle Kamellen! Das wußte ich schon
+gestern nacht. Beide geborene Müller, beide aus derselben
+Stadt, beide vom Leben eklig herumgeworfen, Eltern tot,
 Mutter starb im Irrenhaus, der Vater im Straßengraben
-und im Suff .— — pardon. Feine Familie …! — Damals,
-als Irina mit Ganotta im Autos verunglsükie, sollte Sauste
-vor Genick wegen Zu schnellen Fahrens. Damals schlug
-habe ich meine Nase in diese Sachen Bester?!, denn Irinas
+und im Suff — — pardon. Feine Familie …! — Damals,
+als Irina mit Ganotta im Autos verunglückte, sollte Ganotta
+vor Gericht wegen Zu schnellen Fahrens. Damals schon
+habe ich meine Nase in diese Sachen gesteckt, denn Irinas
 Freundschaft mit Ritschel und Spitzer war anrüchig.«
 
-»Am zurücklassen ist der rote Sonnenschirm …« sagte
-Harst a. »Es ist seine olle Kamele, das ist sogar sehr
-wichtig. — Wo Ast der Sonnenschirm?!«
+»Am anrüchigsten ist der rote Sonnenschirm …« sagte
+Harst da. »Das ist keine olle Kamelle, das ist sogar sehr
+wichtig. — Wo ist der Sonnenschirm?!«
 
-würde blickte ihn fest an. »Harst, wi8 soll das?! Ein fliegender
+Lücke blickte ihn fest an. »Harst, was soll das?! Ein fliegender
 Sonnenschirm von Prank beobachtet, hat den Wert
-einer Zigarekftenrauchwolke … Ein Sonnenschirm in: Fein
-Gewehrtivck, Harst. Daran dachten Sie wohl.«
+einer Zigarettenrauchwolke … Ein Sonnenschirm ist kein
+Gewehrstock, Harst. Daran dachten Sie wohl.«
 
-»Rein, mein Lieber. Aber ich frage mich: Wo blieb der
-Sonneijairm?!? Er ist weg, er verichqwand aus dem Movpdzimmer.
+»Nein, mein Lieber. Aber ich frage mich: Wo blieb der
+Sonnenschirm?! Er ist weg, er verschwand aus dem Mordzimmer.
 Weshalb?! Wer ließ ihn verschwinden?! Wäre
-der Schirm harmlos, hätte sich Leine Mal drum bemüht,
-ihn beiseite zu schaffen. Über ein schlauer Kater tat’s doch
-Wer? k«
+der Schirm harmlos, hätte sich keine Katz’ drum bemüht,
+ihn beiseite zu schaffen. Aber ein schlauer Kater tat’s doch.
+Wer?!«
 
-Der passende Klang wurde nachdenklich.
+Der patente Hans wurde nachdenklich.
 
-»Sie haben recht, Harst,,!! — Überhaupt, es ist da
-vieles zu klären. Pingalli steil! zeige als geistesgestört hin,
-Moritz benimmt? sich wie ein Aimofläujer und Helga Theaters
-nie Friedensengel … Nette Geschichten!! Gehen wir zu
+»Sie haben recht, Harst …! — Überhaupt, es ist da
+vieles zu klären. Pingalli stellt Helga als geistesgestört hin,
+Moritz benimmt sich wie ein Amokläufer und Helga theatert
+als Friedensengel … Nette Geschichten!! Gehen wir zu
 Pingalli. Der Herr wird Farbe bekennen müssen …«
 
-Weit öffnete uns die Haustür.
+Moritz öffnete uns die Haustür.
 
 »Der Herr Doktor ist verreist, Herr Kriminalkommissar,
 und Fräulein Helga ebenfalls,« sagte der Bucklige mit übertriebenster
-Höflichkeit und dienerte immer wieder, Er Vers
-lehnte uns.
+Höflichkeit und dienerte immer wieder. Er Verhöhnte
+uns.
 
 »Wohin?« fragte Lücke scharf und blickte durch den
 engen Flur und die offene Gartentür auf den Hof hinaus,
 <@pagebreak/>
-wo eine Anzahl Leute altersher Dinge in große Holzkisten
+wo eine Anzahl Leute allerlei Dinge in große Holzkisten
 vorsichtig verpackten, während ein Herr mit Brille dabeistand
 und aufpaßte.
 
 »Der Herr Doktor ist mit Fräulein Helga nach dem
-Süden gereizt,« erklärte Moritz bereitwilligst.
+Süden gereist,« erklärte Moritz bereitwilligst.
 
-»Ich denke, Fräulein Helga ist trank und sollte in eine
-»Nervenheilanstalt,« meinte Lücke gelangweilt «— scheinbar.
+»Ich denke, Fräulein Helga ist krank und sollte in eine
+Nervenheilanstalt,« meinte Lücke gelangweilt — scheinbar.
 
-»Das war nur eilt Scherz …« und Wollt’ Augen
-Andenken: vor Hohn.
+»Das war nur ein Scherz …« und Moritz’ Augen
+flackerten vor Hohn.
 
 »Wer ist der Herr mit der Brille da auf dem Hofe?«
-»Ein Assistent des Museums, Herr Hriminalkommüisar,
+
+»Ein Assistent des Museums, Herr Kriminalkommissar,
 — zu dienen.«
 
-»Mit weitem Zuge reisen der Doktor und das Frau
+»Mit weitem Zuge reisen der Doktor und das Fräulein?«
 
-sein 2«
-»Mit keinem. Mit einem genialsten, großen Auto. Vor
-zehn Nöäinuten verabschiedete sie: sich von Goa und mir.
-Goa ist die Haushälterin und Köchin,« Moritz machte eine
-einladende Handbewegung, »Wollen die Herren nicht bitte
-fjrennvlichst nähertreten … Er. zieht hier, …
+»Mit keinem. Mit einem gemieteten, großen Auto. Vor
+zehn Minuten verabschiedete sie sich von Eva und mir.
+Eva ist die Haushälterin und Köchin,« Moritz machte eine
+einladende Handbewegung. »Wollen die Herren nicht bitte
+freundlichst nähertreten … Es zieht hier …«
 
-»Ja,« nickte der patente Hans, »man Zieht hier … —
-Gut, treten wir ein. Ich möchte mir mal das Haus &env-
-sehen … Es ihr sehr alt …«
+»Ja,« nickte der patente Hans, »*man* Zieht hier … —
+Gut, treten wir ein. Ich möchte mir mal das Haus ansehen
+… Es ist sehr alt …«
 
-»Uanbeschreiblid alt … « Moritz lächelte traurig, »So
-alt werde ich müht werden.« E« wedelte mit Deut Eimerftädel
-und schloß die Haustür »ab. —
+»Unbeschreiblich alt …« Moritz lächelte traurig, »So
+alt werde ich nicht werden.« Er wackelte mit dem Eimerschädel
+und schloß die Haustür ab.
 
 »Sagen Sie mal, haben Sie vielleicht einen roten
 Sonnenschirm gefunden?« fragte Harst da und legte Moritz
-— vertraulich die Hand auf die Halten,
+vertraulich die Hand auf die Schulter,
 
-Moritz schielte ihn von unten an. »Im — — Sennora
-Schirm … — na ja, da war!misc … Ein roter Sonnensttivrm
-lag heute feil) in unserem &Crdbeerbeet unter den
-dichtesten Standen, Dollar verregnet und säymutzig … Ich
-habe ihn Goa gezeigt, aber sie wollte ihn nicht haben, und
-
-da hab’ ich ihn einem einen Mädel geschaut, das auf
+Moritz schielte ihn von unten an. »Hm — — Sonnenschirm
+… — na ja, da war komisch … Ein roter Sonnenschirm
+lag heute früh in unserem Erdbeerbeet unter den
+dichtesten Stauden, total verregnet und schmutzig … Ich
+habe ihn Eva gezeigt, aber sie wollte ihn nicht haben, und
+da hab’ ich ihn einem kleinen Mädel geschenkt, das auf
 der Straße spielte.«
 
 <@pagebreak/>
 Harst sagte ruhig: »Das ist gelogen. Wo ist der Schirm?«
 
 Moritz grinste. »Ja, es ist gelogen … Ich habe den
-Stirn zerbrochen und die Stäbe für die Hinterbeinen als
-Stützen beraubt.«
+Schirm zerbrochen und die Stäbe für die Buschbohnen als
+Stützen benutzt.«
 
 »Und der Stock?«
 
-»Biegt hinten auf dein Müllberg … Ich hätte es nicht
-tun sollen, oder Eva meinte, der Schirm sei ein Dreck …«
+»Liegt hinten auf dem Müllberg … Ich hätte es nicht
+tun sollen, aber Eva meinte, der Schirm sei ein Dreck …«
 
 »Zeigen Sie uns doch mal den Stock …«
 
-»Über gern …«
+»Aber gern …«
 
 Wir schritten über den Hof in die Südwestecke des
-Älteren?«, wo hinter einem kleinen Kaninchenstall sich der
+Gartens, wo hinter einem kleinen Kaninchenstall sich der
 Müllberg versteckt auftürmte. Oben zwischen allerlei Unkraut
-lag ein eiserner Schirmstock mit heller Holzstücke, die in
-einen geschnitzten Papageienkopf auslief, Ader die ehemals
-wertvolle Schurkerei war halb zerschlagen.
+lag ein eiserner Schirmstock mit heller Holzkrücke, die in
+einen geschnitzten Papageienkopf auslief. Aber die ehemals
+wertvolle Schnitzerei war halb zerschlagen.
 
 Harald wog den Stock in der Hand, der etwas verbogen
-
 war.
-»Herr Vorwitzig,« sagte Harald. »Sie könnten mir den
 
-GSchirmistod schenken …«
-Herr Morast schielte wieder und nickte. »Meinetwegen …«
-Anlauf Harst das Schirmfragment unter den Arm
-flammte und zu Lücke bemerkte: »Wie mag er nur in die
+»Herr Morwitz,« sagte Harald. »Sie könnten mir den
+Schirmstock schenken …«
 
-Erbiveeren gekommen sein?«
+Herr Morwitz schielte wieder und nickte. »Meinetwegen …«
 
-Der patente Hans braunrote den krummen hohlen Eisen«
-Stock und antwortete: »Geflogen, e- — er liebte das Fliegen,
-es ist neuzeitlich, Alles fliegt, mancher fliegt sogar ins Loch.«
-Und er blickte Moritz scharf an. Tür den Schirm hatte er
-kein Interesse mehr, Ich auch nicht. Aber für Moritz …
+Worauf Harst das Schirmfragment unter den Arm
+klemmte und zu Lücke bemerkte: »Wie mag er nur in die
+Erdbeeren gekommen sein?«
+
+Der patente Hans beäugte den krummen hohlen Eisenstock
+und antwortete: »Geflogen, — — er liebte das Fliegen,
+es ist neuzeitlich. Alles fliegt, mancher fliegt sogar ins Loch.«
+Und er blickte Moritz scharf an. Für den Schirm hatte er
+kein Interesse mehr. Ich auch nicht. Aber für Moritz …
 Denn der hatte sich etwas verfärbt,
 
-» »Herr Vermißt,« meinte Hans Lücke gleichmütig, »haben
+»Herr Morwitz,« meinte Hans Lücke gleichmütig, »haben
 Sie einen Waffenschein?«
 
-e- Wie?! Waffenschein k!«
+»Wie?! Waffenschein?!«
 
-» Sie haben doch heute mit einem Revolver
+»Ja … Sie haben doch heute mit einem Revolver
 unziemliche Scherze gemacht. Und — hat Pingalli einen
-
 Waffenschein für seinen Karabiner?«
 
 <@pagebreak/>
-Der keine Verwachsene ertönte plötzlich die Zähne,
+Der keine Verwachsene fletschte plötzlich die Zähne.
+»Fragen Sie ihn …! Ich weiß es nicht, ich weiß nichts
+von einem Karabiner, das kann ich beschwören.«
 
-»Folgen Sie ivu …? 2H weiß &s nicht, ich weiß nichts
-» vor einen Karabiner, das kann 14) beschwören.«
-»Dein Eid dir Wein Eid … Meineid,« murmelte Lücke
-hier Hand, »Ah, Herr Mannes, — wen! wir nur unecht Ihre
-Srhatogrupbiz und Töne Fingerabdrücke im Toten Übler halten!!
-Sie haben dreimal gefesselt. Immer als Monate. Ader Sie
-beißen, denke ich, Weges Mutter … Nacht wahrt«
+»Dein Eid ist mein Eid … Meineid,« murmelte Lücke
+scherzend. »Ach, Herr Morwitz, — wenn wir nur nicht Ihre
+Photographie und Ihre Fingerabdrücke im roten Alex hätten!!
+Sie haben dreimal gesessen. Immer als Morwitz. Aber Sie
+heißen, denke ich, August Müller … Nicht wahr?«
 
-Moritz Schädel van? auf die Brust. Sein Gesucht war
-Fertig. Lücke fügte seufzend Hinzu: »Nun muß ich Helgas
-ältester Bruder wegen Bedrohung mit einer Schußwaffe
-wicechastet … —.«
+Moritz Schädel sank auf die Brust. Sein Gesicht war
+kalkig. Lücke fügte seufzend Hinzu: »Nun muß ich Helgas
+ältesten Bruder wegen Bedrohung mit einer Schußwaffe
+verhaften …«
 
-Ich, War Scharf, hielt den Atem an.
+Ich, Max Schraut, hielt den Atem an.
 
-Harst lächelte nur. Ihm schien auch dies mit den zu
-sein. Er sagte zu Rückte: »Wir steilen keinen Strafantrag …
-Mag Herr August Mutter sich seiner Freiheit weiter erfreuen.
-Aber — eine Frage; »Ist Eva, die Auftrage, Ihre …
-Gardine«
+Harst lächelte nur. Ihm schien auch dies nicht neu zu
+sein. Er sagte zu Lücke: »Wir stellen keinen Strafantrag …
+Mag Herr August Müller sich seiner Freiheit weiter erfreuen.
+Aber — eine Frage: »Ist Eva, die Xantippe, Ihre …
+Gattin?«
 
-Moritz hauchte ein verstörtes »So!«
+Moritz hauchte ein verstörtes »Ja!«
 
-Der Schirmfabrikant
+<h2>4. Kapitel.</h2>
 
-»Dann sind Sie genügend gestraft’…« lächelte Harald
-und fuchtelte mit dem Schirmstock umher. »Goa als Gattin
+<h3>Der Schirmfabrikant.</h3>
+
+»Dann sind Sie genügend gestraft …« lächelte Harald
+und fuchtelte mit dem Schirmstock umher. »Eva als Gattin
 macht alles wett. — Was wissen Sie über den Mord, Herr
-Kutters«
+Müller?«
 
 Moritz stöhnte gepreßt. »Es … ist ja nun doch alles
 verloren … Ich hätte den Herrn Doktor gern geschont …«
 
 »Also hat er Ganotta erschossen?«
-… »Ich fürchte …« und Moritz liefen die Tränen über
-die stoppligen Wangen. »Ich — weiß nur, daß der Herr
-Doktor … « — er zögerte — »Irina Vanderkott liebte und
+
+»Ich fürchte …« und Moritz liefen die Tränen über
+die stoppligen Wangen. »Ich weiß nur, daß der Herr
+Doktor …« — er zögerte — »Irina Vanderkott liebte und
 heimlich zu ihr ging — immer nachts … Und gestern
 <@pagebreak/>
-er … enthalte bei
-
-nacht war er drüben, »Glas ihn,
-… /Mehr
-
-Karabiner mit. Er war wohl sehr, eifersüchtig …
+nacht war er drüben, ich sah ihn, er … er hatte den
+Karabiner mit. Er war wohl sehr eifersüchtig … Mehr
 weiß ich nicht.«
 
-»So?! — Helga il: Ihre jüngste Einstweilen. Und Jene e«
+»So?! — Helga ist Ihre jüngste Schwester. Und Irina?«
 
-Moritz größte Harst verständnislos zu.
+Moritz glotzte Harst verständnislos an.
 
-»Wußte Helga, daß Sie ihr Bruder finde«
+»Wußte Helga, daß Sie ihr Bruder sind?«
 
-»Gott behüte — nein?! Der jener Gitter. halte es mir
-gesagt, aber mir gleichzeitig streng befohlen, Schau mds
+»Gott behüte — nein!! Der Herr Doktor hatte es mir
+gesagt, aber mir gleichzeitig streng befohlen, Helga nichts
 merken zu lassen.«
 
-»Und … Irina e!«
+»Und … Irina?!«
 
 Moritz Augen leuchteten plötzlich auf. »Herr im Himmel,
-— — sollte es möglich seine« rief er anständig.
+— — sollte es möglich sein?!« rief er ungläubig.
 
-»Es ist so, Irina ist Ihre Schwester. — Herr Mutter,
-können Sie wirklich gar nichts mehr üwr die verflossen«
+»Es ist so, Irina ist Ihre Schwester. — Herr Müller,
+können Sie wirklich gar nichts mehr über die verflossene
 Nacht angeben.«
 
-Moritz zuckte die schießen Schultern. »Leider mein! Ihr
-wünschte, ich könnte es … Zu hänge nun dem Herrn Betrat,
-er hat Ins Ruf (alles erwiesen, er ist der beste, Oberst« ’Mienjei)
-auf Erden … Ich kaufte ihm dem nicht fragend, ob. er
-den Ganotta aus Eifersucht entlassen hat, an beim 0,2 …
-Rotte war übeizjeus nichts Frau, er war ein ganz verflucht
-Geh erwägen, ihm Habe ihn und Setzte mal beseitigt
-bald; die Liede, — Datteln war wie ein Gestalten, Irina
-sollte ihn verraten … Als sie ihn abwich, drohte er ihr …«
+Moritz zuckte die schiefen Schultern. »Leider nein! Ich
+wünschte, ich könnte es … Ich hänge an dem Herrn Doktor,
+er hat uns nur Gutes erwiesen, er ist der beste, edelste Mensch
+auf Erden … Ich konnte ihn doch nicht fragen, ob er
+den Ganotta aus Eifersucht erschossen hat, — an dem Ganotta
+war übrigens nichts dran, er war ein ganz verfluchter
+Schürzenjäger, ich habe ihn und Irina mal belauscht —
+durch die Hecke, — Ganotta war wie ein Verrückter, Irina
+sollte ihn heiraten … Als sie ihn abwies, drohte er ihr …«
 
 »Womit?«
 
-»Er kreischte bissig: »Sie werden niemals einem Muskeln
-gehören, — ich fiebere nach Ihnen, und — .— Sir
-ist alles gleichgültig!!« Sie lachte ihn aus …-«
+»Er kreischte bissig: »Sie werden niemals einem anderen
+gehören, — ich fiebere nach Ihnen, und — — mir
+ist alles gleichgültig!!« Sie lachte ihn aus …«
 
-»So … so!« sagte Harald. »Also wäre auch das des.
-wiesen …?! Arme Irina, Ganotta war dein Berluäuguts,
-dieser Mensch ohne jegliche Hemmungen …
+»So … so!« sagte Harald. »Also wäre auch das bewiesen
+…! Arme Irina, Ganotta war dein Verhängnis,
+dieser Mensch ohne jegliche Hemmungen …!«
 
-Hang Lücke mischte sich ein.
+Hans Lücke mischte sich ein.
 
-»Harst, ich muß an den Chef telephonieren … Angst!
-Malers Aussage 2xtscheitet, Pingalli muß verhaftet
-werde,« —
+»Harst, ich muß an den Chef telephonieren … August
+Müllers Aussage entscheidet. Pingalli muß verhaftet
+werden.« —
 
 <@pagebreak/>
-Man drei Uhr nachmittags hatte die Kriminalpolizei ermittelt,
-daß. das Bewirtete Vertraute friedlich in öde Garage
-zurüCcgekehrt war, Plügealii und Helga Hattet das Auto in
-Komigeswusterhausen Halten Hatten 0 waren mit ihren
-Koffern zu einem Deckel abseits? Zeit, so ins sie eine h(zulde
-Stunde Spanier mit einer Tale Felswänden, — wohin, war
-acht zu ermittelt, Auch) der Verbleib Irinas und Rikschah
-und Torheit war Wicht aufzuklären,
+Um drei Uhr nachmittags hatte die Kriminalpolizei ermittelt,
+daß das gemietete Reiseauto friedlich in die Garage
+zurückgekehrt war. Pingalli und Helga Hatten das Auto in
+Königswusterhausen Halten lassen und waren mit ihren
+Koffern in einem Hotel abgestiegen, von wo sie eine halbe
+Stunde später mit einer Taxe verschwanden, — wohin, war
+nicht zu ermitteln. Auch der Verbleib Irinas und Ritschels
+und Spitzers war nicht aufzuklären,
 
-Wir beide wettet noch. dein Mittagessen in den LiegeNüblen
-ausgiebig gestatten. Harst Sprach sein Dort mehr
-über das Rätsel dieses Mondes, Um Haupt Uhr teicplyoitierte
-Flache und meldete, dar die gewteinfäite Festung Spitzers
-und VWikiczels genau Turmruinen worden sei. Anhört scheine
-ach Radiodoasiler zu Teig, denn e?! Graues Hinterzimmer
-jetzt »I8 Werkstatt eingerichtet, uns zu den Fandwerkszeug,
-Sciratbsioöfe, Lötkolben und so weiter, stelle 1ielns5 … —
-Harst bar Lücke, sich der?) auf gelegt Fall abends gegen echt
+Wir beide hatten nach dem Mittagessen in den Liegestühlen
+ausgiebig geschlafen. Harst Sprach kein Wort mehr
+über das Rätsel dieses Mordes. Um sechs Uhr telephonierte
+Lücke und meldete, daß die gemeinsame Wohnung Spitzers
+und Ritschels genau durchsucht worden sei. Ritschel scheine
+auch Radiobastler zu sein, denn ein kleines Hinterzimmer
+sei als Werkstatt eingerichtet, und an dem Handwerkszeug,
+Schraubstöcke, Lötkolben und so weiter, fehle nichts … —
+Harst bat Lücke, sich doch auf jeden Fall abends gegen zehn
 bei uns einzufinden. »Ich wollte um acht Kommen,« erklärte
-der elegante Lang. — «, Kommen Sie man kennst, das
-reicht, das ist doch?) zu früh …« und wjarald stutzte ab.
+der elegante Hans. — »Kommen Sie um zehn, das
+reicht, das ist noch zu früh …« und Harald hängte ab.
 
-&r blieb in seinem Parterrezimmer, währen??? setze Mutter
-
-und ich ein Stück durch die Vaubetfoivnige Wand bis nach
-
-Dahlem hinein spazieren giftigen. Frau Harst, nervös allzeit
-
+Er blieb in seinem Parterrezimmer, während seine Mutter
+und ich ein Stück durch die Laubenkolonie und bis nach
+Dahlem hinein spazieren gingen. Frau Harst, meine allzeit
 mütterliche Freundin und kühle Kritikerin, meinte sehr ernst,
 sie hielte Pingalli nicht für den Mörder. — Ich betonte, daß
-der inzwischen in seinem Hause gefundene Malediven genau
-das Kaliber des köstlichen Geschosses Habe und. daß war
-eine Pistolenkugel auch in eine Patronenhülise, die für Eden
-Karabiner bestimmt sei, hineinholen könne. Außerdem Je!
-da? das Motiv der Tat ganz klar: Eifersucht!! Pingalli
-sei eben Irinas Liebhaber trotz des großen Altertümer«-
-schadet gewesen … Pingalli habe ist) als Wann tadellos
-konserviert und wirre wie ein Fünfziger.
+der inzwischen in seinem Hause gefundene Karabiner genau
+das Kaliber des tödlichen Geschosses Habe und daß man
+eine Pistolenkugel auch in eine Patronenhülse, die für den
+Karabiner bestimmt sei, hineindrücken könne. Außerdem sei
+doch das Motiv der Tat ganz klar: Eifersucht!! Pingalli
+sei eben Irinas Liebhaber trotz des großen Altersunterschiedes
+gewesen … Pingalli habe sich als Mann tadellos
+konserviert und wirke wie ein Fünfziger.
 
-Aber Frau Harst widersprach immer Tod »Ich nehme
-bestimmt on, Harald kennt den wehren Täter, lieber
+Aber Frau Harst widersprach immer noch. »Ich nehme
+bestimmt an, Harald kennt den wahren Täter, lieber
 <@pagebreak/>
-Schraut … Im fürchte, es ist Irina selbst. Bedenken Sie:
+Schraut … Ich fürchte, es ist Irina selbst. Bedenken Sie:
 Ganotta hat doch offenbar bei der wilden Autofahrt Irina
-und sich selbst töten wollen, Irina; hat ihm sicherlich ihre
-Fußverletzung, ihre Lahmheit und die Weinende wage vergessen.
+und sich selbst töten wollen. Irina hat ihm sicherlich ihre
+Fußverletzung, ihre Lahmheit und die Kinnarbe nie vergessen.
 Freilich — manches, bei alledem, widerlegt mich
 auch, zugegeben.«
 
-Ich hatte bisher mit meiner eigenen Ansicht? vorsichtig
-zurückgehalten. Ich erklärte nun: »Man hat stier die Wahl
+Ich hatte bisher mit meiner eigenen Ansicht vorsichtig
+zurückgehalten. Ich erklärte nun: »Man hat hier die Wahl
 zwischen Pingalli, Irina, Prank und Moritz, — denn auch
-diese beiden letzteren erscheinen mir veröäclig. Das ist bist
+diese beiden letzteren erscheinen mir verdächtig. Das ist bei
 mir wohl Gefühlssache, aber …«
 
 Und dann betraten wir den Gemüsegarten, Harald band
-dort die Tomatenstauden seit, winkte uns zu, und ich Auswies.
+dort die Tomatenstauden fest, winkte uns zu, und ich schwieg.
 
-Harald küßte seine Mutter und … zog ein Stück freie
+Harald küßte seine Mutter und … zog ein Stück rote
 Seide aus der Tasche. »Ich war derweil bei Ritschel —
-Viper Einbruch … Dies hier fand ich iä seiner Werkstatt
+kleiner Einbruch … Dies hier fand ich in seiner Werkstatt
 zwischen Putzlappen auf der Drehbank. Ritschel scheint
 Schirmfabrikant gewesen zu sein — im Nebenberuf.«
 
-Frau Harst rief leise: ck …
-»Hältst du Ritschel für den verbrecherischen Schützen 9!«
-»Nein, liebe Mama … — Mathilde wartet schon tritt
+Frau Harst rief leise:
 
+»Hältst du Ritschel für den verbrecherischen Schützen?!«
+
+»Nein, liebe Mama … — Mathilde wartet schon mit
 dem Abendbrot … Es gibt Aal und Bratkartoffeln und
-Gurkensalat. Schraut wird wieder drei Tage Mageudesch;
-werden haben.«
+Gurkensalat. Schraut wird wieder drei Tage Magenbeschwerden
+haben.«
 
 <@pagebreak/>
 
 <h2>5. Kapitel.</h2>
 
-<h3>Wer war’s?!.</h3>
+<h3>Wer war’s?!</h3>
 
 Ich war sehr müde, als gegen zehn nickt nur Hans
 Lücke, sondern auch Heribert Prank (rechten, den Harald
