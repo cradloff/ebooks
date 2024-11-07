@@ -2469,218 +2469,216 @@ haben.«
 
 <h3>Wer war’s?!</h3>
 
-Ich war sehr müde, als gegen zehn nickt nur Hans
-Lücke, sondern auch Heribert Prank (rechten, den Harald
-gleichfalls zu einer einen Besprechung eingeladen hatte.
-Prank sah) entsetzlich elend ans, und mir wieder war der
+Ich war sehr müde, als gegen zehn nicht nur Hans
+Lücke, sondern auch Heribert Prank erschien, den Harald
+gleichfalls zu einer kleinen Besprechung eingeladen hatte.
+Prank sah entsetzlich elend ans, und mir wieder war der
 eingelegte Aal schlecht bekommen, obwohl ich hinterher Natron
 und drei Kognaks geschluckt hatte. Mein Interesse für dieses
-erneute Lonzilium war daher gleich Null. Auch der elegante
-Hans das so, als ob ihm der ganze Fall Ganotta bereits zum
+erneute Konzilium war daher gleich Null. Auch der elegante
+Hans tat so, als ob ihm der ganze Fall Ganotta bereits zum
 Halse herauswüchse. »Die Flüchtlinge sind unauffindbar, mein
 Chef hat vom Oberchef eine Nase versetzt bekommen, und
 der Oberchef eine vom Minister, weil man nicht auf mich
-gehört ha? und sie durch Pingallis Stiftung bluffen ließ.
+gehört hat und sich durch Pingallis Stiftung bluffen ließ.
 Diese Nasenverteilung hat mir ebenso viel Spaß gemacht
-wie Ihr Wachtdienst, Harst, den ich natürlich bemerkt habe,
-Stadt von unseren Beamten wird Pingallis Haus jetzt
-von drei Denken der Detektei Zug beobachtet, und die haben
-Sie doch bestellt, aller Freund. Sie wollen wohl die beiden
+wie Ihr Wachtdienst, Harst, den ich natürlich bemerkt habe.
+Statt von unseren Beamten wird Pingallis Haus jetzt
+von drei Leuten der Detektei Lux beobachtet, und die haben
+Sie doch bestellt, alter Freund. Sie wollen wohl die beiden
 Kisten nicht stehlen lassen, die noch nicht abtransportiert
 sind.« Er besah sich seine Zigarre, legte sie wieder weg und
-rauchte seine eigene an. Meine Brasil sind ihm zu rechnen.
+rauchte seine eigene an. Meine Brasil sind ihm zu schwer.
 
-Prank sagte gar nichts. Wir tranken Hause Hausseite,
+Prank sagte gar nichts. Wir tranken Haute Sauterne,
 und Lücke erzählte neue Witze. Aber nur drei, und nach
-diesem Paprika meinte er: »Was sollen wir. eigentlich hier?!«
+diesem Paprika meinte er: »Was sollen wir eigentlich hier?!«
 
 »Warten,« antwortete Harst. »Moritz hat einen Paketwagen
-bestellt, wie meine Pause erkundeten. Wenn Moritz
+bestellt, wie meine Leute erkundeten. Wenn Moritz
 mit dem Wagen davonfährt, werden wir dem Leichenbegängnis
 folgen.«
 
-Brücke zog die Anungenbrauen hob. »Donnerwetter, —
-glauben Sie etwa, daß in den beiden Kisten, …«
+Lücke zog die Augenbrauen hoch. »Donnerwetter, —
+glauben Sie etwa, daß in den beiden Kisten …«
 
 <@pagebreak/>
-». « … Ritschel, Spitzer und Irina stecken — ganz recht?
+»… Ritschel, Spitzer und Irina stecken — ganz recht!
 Die drei waren bisher in Pingallis Keller irgendwo verborgen,
-und Pingalli spendete dem Museum seine Schale,
-damit die Riesenkröten nicht auffallen sollten … Alte- Leutnant
-und ich oben bei Pingalli waren, Karaffe dieser davon,
-weil unten jemand wie am Spieße brüllte. Tag wenn Frau
-Co Müller, die Kartons, die zufällig das Versteckt der
-drei gefunden und einen Mordsschreck bekommen Hatte  -
-— Hart!«
+und Pingalli spendete dem Museum seine Schätze,
+damit die Riesenkisten nicht auffallen sollten … Als Schraut
+und ich oben bei Pingalli waren, rannte dieser davon,
+weil unten jemand wie am Spieße brüllte. Das war Frau
+Eva Müller, die Xantippe, die zufällig das Versteck der
+drei gefunden und einen Mordsschreck bekommen Hatte --
+— klar!!«
 
-Lücke verneigte sich überhöflich. »Harst, — Fuß ab vor
-Ihre!
+Lücke verneigte sich überhöflich. »Harst, — Hut ab vor
+Ihnen!"
 
-Kam kam Mathilde Feiern. »Herr Harald, hier ist das
-Windeseile?) … Hatten Appetit …«.?«
+Dann kam Mathilde herein. »Herr Harald, hier ist das
+Rindfleisch … Juten Appetit …!«
 
-er war ein Ehmorstük von sieben Pfund, schiefes,
-zarte?! Fleisch, Harst packte es in Fettpapier ein und meinte:
+Es war ein Schmorstück von sieben Pfund, schieres,
+zartes Fleisch. Harst packte es in Fettpapier ein und meinte:
 »Unser Proviant!«
 
-»Blech sagte Hans Lücke« »Wohin wird Moritz fahren?«
+»Blech!« sagte Hans Lücke. »Wohin wird Moritz fahren?«
 
-»Vor?!.in, wo Pingalli und Helga sind …«
+»Dorthin, wo Pingalli und Helga sind …«
 
-Prank Bewußte schnstüwig und trank das fünfte Glas
+Prank seufzte sehnsüchtig und trank das fünfte Glas
 Bordeaux.
 
--».- « Pingalli kranker die drei nur mit Hilfe des
-Kisten aus dem Hatte bringen,« erklärte Palast und legte
-auf das Fleischpaket den wertlosen Schirmstock, »Pingalli wird
-Ritschel und Spitzer erstickt) mit Geld vergessen und sie ins
-Sachlage schicken, Moritz wußte, daß die drei im Keller
-waren. Er hat uns also belogen, Er geht für Pingalli durch
-Jener… Eher das alle: wird ihnen nichts helfen. Die Eva
-riesiger kommen ins Loch, und der Mörder dorkihin, wo er
+»... Pingalli konnte die drei nur mit Hilfe der
+Kisten aus dem Hause bringen,« erklärte Harald und legte
+auf das Fleischpaket den wertlosen Schirmstock. »Pingalli wird
+Ritschel und Spitzer reichlich mit Geld versehen und sie ins
+Ausland schicken. Moritz wußte, daß die drei im Keller
+waren. Er hat uns also belogen. Er geht für Pingalli durchs
+Feuer. Aber das alles wird ihnen nichts helfen. Die Erpresser
+kommen ins Loch, und der Mörder dorthin, wo er
 hingehört.«
 
-Tue paßte sein Monokel. »Sie haben irgendeine UÜebervraschung
-in Wette, Greift.« …
+Lücke putzte sein Monokel. »Sie haben irgendeine Überraschung
+in petto, Harst.«
 
 »Eine Demonstration, lieber Lücke … Außerdem hoffe ich
-auf eine RNadiodepese ans Holzwand als Antwort auf
-mein? Anfrage heute morgen. Wenn ii) mich. nicht. irre,
+auf eine Radiodepesche aus Hollywood als Antwort auf
+meine Anfrage heute morgen. Wenn ich mich nicht irre,
 <@pagebreak/>
 kommen gerade zwei Leute durch den Vorgarten.« — Er
-blinzelte, es waren einer der Wurfkeule un« ein Depeschenbote.
-Der Detektiv meldete, biß Moritz soeben die Kisten
-uns den Triebwagen hüte, und die Depesche aus Hollywood
-knurrte: »Harst, Berlin-Schmargendorf, Germany. — Ping
-verreiste in Nachbarort Western vor zwei Fahren in aller
-Weichlichkeit Irina V., damit gegen diese nicht Auftrage
-erhoben werden könnte, weil sie in fahrlässig durch Bauchschuß
+blinzelte, es waren einer der Lux-Leute und ein Depeschenbote.
+Der Detektiv meldete, daß Moritz soeben die Kisten
+auf den Tafelwagen lüde, und die Depesche aus Hollywood
+lautete: »Harst, Berlin-Schmargendorf, Germany. — Ping
+heiratete in Nachbarort Western vor zwei Jahren in aller
+Heimlichkeit Irina V., damit gegen diese nicht Anklage
+erhoben werden könnte, weil sie ihn fahrlässig durch Bauchschuß
 bei Jagd schwer verletzt hatte. Als Ehefrau P’s ging
-Irina straffrei aus, — Gruß Collins & Genug.«
+Irina straffrei aus. — Gruß Collins & Comp.«
 
-»Nanu schlägt’s dreizehn!« sagte Türke. »Seiner ist eine
-Frau Doktor Pingalli!! Dann durfte er sie machte aller
+»Nun schlägt’s dreizehn!« sagte Lücke. »Irina ist eine
+Frau Doktor Pingalli!! Dann durfte er sie nachts aller-
 Dinge besuchen.«
 
-»Echten wir,« meinte Harald und nahm dir Paket und
-den Stuchirmstkock. »Moritz dürfte bereit? davonfahren.«
+»Gehen wir,« meinte Harald und nahm das Paket und
+den Schirmstock. »Moritz dürfte bereits davonfahren.«
 
 Moritz saß vorn auf einer Kiste und kutschierte,
 
-Nacht einer Stunde langte er — und wir vier hinter
-ihm — nun einer TÜUjferstelle unweit Pichelwerder nun der
-Havel an, wo neben dein Restaurant je sehr viel? Boote,
-Stellen und. Anglerfäöhne vertan! liegen. Moritz schien letzter
-Ende so sicher zu sein, daß er sich nickt ein einziges Mal
-umgedreht hatte. Er lenkte den Zugezogen die! an einen
-DBrovlosteg, alt dem eine große, elegante Material vertäut
-war, Sie besaß Worden« und. Achterdeck, und. die Fenster
-der Heckkajüte waren erleuchtet, Auf der Schrank saß ein
-Herr im hellen Anzug und Seglermütze und rauchte, Wie
-Worten, wie Moritz den schritten Schrei einer Möwe tadellos
-Nachahmte, Der Herr erhob sich und sprang klassisch
-auf den Steg. Wir lügen alle vier hinter ein. paar Disteln
-!/?Aden jenseits des Weggang, wir vernahmen bringst Finstern,
-an! wurde von Antlitz der Dusel der einen. Hilfe Horn
-gelangt und eine Gestalt? schlüpfte heraus und eilte den
-Weg entlang. Es war Irina in einem dunklen Spalte
-Jenseits. Aus der anderen Kiste tauchten zwei Gestalten auf
-— gefällig die Herren Erpresser … Sie flitzten wie ad
+Nach einer Stunde langte er — und wir vier hinter
+ihm — an einer Uferstelle unweit Pichelswerder an der
+Havel an, wo neben dem Restaurant so sehr viele Boote,
+Jachten und Anglerkähne vertäut liegen. Moritz schien seiner
+Sache so sicher zu sein, daß er sich nicht ein einziges Mal
+umgedreht hatte. Er lenkte den Tafelwagen dicht an einen
+Bootssteg, an dem eine große, elegante Motorjacht vertäut
+war. Sie besaß Vorder- und Achterdeck, und die Fenster
+der Heckkajüte waren erleuchtet. Auf der Heckbank saß ein
+Herr im hellen Anzug und Seglermütze und rauchte. Wir
+hörten, wie Moritz den schrillen Schrei einer Möwe tadellos
+Nachahmte. Der Herr erhob sich und sprang elastisch
+auf den Steg. Wir lagen alle vier hinter ein paar Distelstauden
+jenseits des Weges, wir vernahmen heftiges Flüstern,
+dann wurde von Moritz der Deckel der einen Kiste hochgeklappt
+und eine Gestalt schlüpfte heraus und eilte den
+Weg entlang. Es war Irina in einem dunklen Sportanzug.
+Aus der anderen Kiste tauchten zwei Gestalten auf
+— natürlich die Herren Erpresser … Sie flitzten wie ge-
 <@pagebreak/>
-jagt vom schlossen Gewissen ebenfalls in die Jacht hinein,
-Moritz erlag den Kistendeckel zu, und zu unserer Übers
-jahrelang kam der Halunke Herr um den Wagen Herrin
+jagt vom schlechten Gewissen ebenfalls in die Jacht hinein.
+Moritz schlug den Kistendeckel zu, und zu unserer Überraschung
+kam der schlanke Herr um den Wagen herum
 gerade auf unser Versteck zu … Er sah uns, wir erhoben
-uns, und Doktor Pingalli sagte höflich: »Mochte Herren,
-ich habe den Kampf aufgegeben … Ich ahnte, daß viele
+uns, und Doktor Pingalli sagte höflich: »Meine Herren,
+ich habe den Kampf aufgegeben … Ich ahnte, daß Herr
 Harst den wahren Inhalt dieser Kisten durchschauen würde
-— … C&8 hegt keinen Zweck mehr, mit Heimlichkeiten zu operieren.
+… Es hat keinen Zweck mehr, mit Heimlichkeiten zu operieren.
 Die einzige Hoffnung, die mir bleibt, ist die, daß
-Herr Haar]? auch den wahren Täter herausgefunden hegt … —…
-It dies nicht der Fall, dann wird der Verdacht wohl nie
+Herr Harst auch den wahren Täter herausgefunden hat …
+Ist dies nicht der Fall, dann wird der Verdacht wohl nie
 von meiner Frau genommen werden — oder von mir …«
 
-Harald reichte ihm die Hand, Er sagte mit der ganzen
+Harald reichte ihm die Hand. Er sagte mit der ganzen
 Schlichtheit seines Wesens: »Ihre Hoffnung wird erfüllt
 werden, Herr Doktor … Nur eins noch: Sie hielten Irina
-für die Mörderin, Irina hielt Sie für den Schützen … Erle
-beide suchen sie; gegenseitig zu decken, und ans diesem
-Bemühen ergab sich der Luft von Irrungen und Wirrungen,
-der ich durch das Eingreifen der beizen Erpresser, durch)
-Prank und uns vergrößer! wurde. — Gehen wir …«
+für die Mörderin, Irina hielt Sie für den Schützen … Sie
+beide suchen sich gegenseitig zu decken, und aus diesem
+Bemühen ergab sich der Wust von Irrungen und Wirrungen,
+der noch durch das Eingreifen der beiden Erpresser, durch
+Prank und uns vergrößert wurde. — Gehen wir …«
 
-In der strahlendhellen Heckkajüte schnellten’ Ritschel und
+In der strahlendhellen Heckkajüte schnellten Ritschel und
 Spitzer bei unserem Eintritt wie von einer Tarantel gestochen
-hoch … »Verrat!!’« knirschte Harst Ritschel … »Das
-sollt Ihnen Feuer zu stehen Kundinnen, Doktor Pingalli!! Nun
-sind Sie und Ihr junges Täubchen reif für das Gesängnio?
-Wer in polizeilichen Anmeldungen verschweigt, daß er vorn
+hoch … »Verrat!!« knirschte Horst Ritschel … »Das
+soll Ihnen teuer zu stehen kommen, Doktor Pingalli!! Nun
+sind Sie und Ihr junges Täubchen reif für das Gefängnis!
+Wer in polizeilichen Anmeldungen verschweigt, daß er ver-
 heiratet ist, — wer, wie Irina …«
 
-— Aber Harst schnitt diesem gellenden Haben herrliches das
+Aber Harst schnitt diesem geifernden Buben herrisch das
 Wort ab. »Mit diesen Urkundenfälschungen, die sehr wenig
 besagen, wenn man die Umstände berücksichtigt, haben Sie
-beide, nachdem ein Zufall Ihnen die Tatsache dieser Heimat
-ihnen Ehe zur Kenntnis brachte, Irina gefoltert … In
-lebten Zeit wurde Ihr Opfer jede?in weniger willfährig,
-die Summen flossen nicht mehr so reichlich … Da hellen
-Sie den englischen Plan aus, Innern ein noch stärkeres
+beide, nachdem ein Zufall Ihnen die Tatsache dieser Heimlichen
+Ehe zur Kenntnis brachte, Irina gefoltert … In
+letzter Zeit wurde Ihr Opfer jedoch weniger willfährig,
+die Summen flossen nicht mehr so reichlich … Da heckten
+Sie den teuflischen Plan aus, Irina in ein noch stärkeres
 <@pagebreak/>
-Abhängigkeitsverhältnis von Ihnen zu dringen. Wer die
-Idee ausoliugelte, Batterie so zum erinor:eity daß Klown; Irina
-als — auch Pingalli zu Verdacht geraten Mutter, ist gleichgültig
-ck …«
+Abhängigkeitsverhältnis von Ihnen zu bringen. Wer die
+Idee ausklügelte, Ganotta so zu ermorden, daß sowohl Irina
+als auch Pingalli in Verdacht geraten mußten, ist gleichgültig
+…«
 
-Ritschel lachte höhnisch. »Sie … — sind Lbergelkhnappt,
-Herr Dar! … Dahin soll wohl ein erster von uns der
-Mörder sein … vf«
+Ritschel lachte höhnisch. »Sie … sind übergeschnappt,
+Herr Harst … Dann soll wohl auch einer von uns der
+Mörder sein …?!«
 
-Dynamit zog langsam der Schirmstock unter dem leichten
-Gmiwmimaniel zerrann … Zu demselben WMucgenblick laut
-Fischer kreideweiß auf? die Warf Zurück?, gut. nun) der
-scharf Major taumelte neben ist und bedeckte das Bericht mit
+Harald zog langsam der Schirmstock unter dem leichten
+Gummimantel hervor … In demselben Augenblick sank
+Ritschel kreideweiß auf die Bank Zurück, und auch der
+Herr Major taumelte neben ihn und bedeckte das Gesicht mit
 den Händen,
 
-»Hie, geben Sie Ufer mal die tödliche Kugel …
-Scotland, packe das Fleisch aus und Spalte es WW Brunnens
--. ’« Es yz überhaupt kein Schuß gefallen … Dieser,
-»Tote Sonnenschirm, den Ritschel gestern abend Irina versuchte,
-alt eine teuflischste Waffe als damals die grüne Fliege …
-Setzen Sie her … Ich drücke- den Sqhiringrijf herab, und
-hier unten klappt die eiserne Zwinge des höchsten ECisenjtackles
+»Lücke, geben Sie mir mal die tödliche Kugel …
+Schraut, packe das Fleisch aus und halte es in Brusthöhe
+... -- Es ist überhaupt kein Schuß gefallen … Dieser
+rote Sonnenschirm, den Ritschel gestern abend Irina schenkte,
+ist eine teuflischere Waffe als damals die grüne Fliege …
+Sehen Sie her … Ich drücke den Schirmgriff herab, und
+hier unten klappt die eiserne Zwinge des hohlen Eisenstockes
 wie ein Doppellöffel auf … Die Zwinge ist sehr spitz. Ich
-lege die Kugel in den Löffel, er gekriegt sie … Ich große
+lege die Kugel in den Löffel, er schließt sich … Ich stoße
 mit dem Schirmende in das Fleisch … Da — — die
 Zwinge bohrt sich ein, ich reiße den Schirm zurück, und im
 Schirmstock stößt eine Feder die Kugel in das Loch im
-Fleische, — die Kugel bleibt Stern, und jeder würde beschwören,
+Fleische, — die Kugel bleibt stecken, und jeder würde beschwören,
 es müsse mit einer Schußwaffe gefeuert worden
 sein … — Als Prank mir erzählte, der rote Schirm sei
-durch die Luft geflogen, — weil Mitfährt ihn nämlich wegwarf,
-da war das Rätsel gelb gelöst … — Sie, Frau Sprang,
+durch die Luft geflogen, — weil Ritschel ihn nämlich wegwarf,
+da war das Rätsel halb gelöst … — Sie, Frau Irina,
 schrien deshalb auf, weil Sie Ihren Gatten mit dem Karabiner
-auf der Fontäne sahen, — Mittel sprang zu, ergriff
-den Schirm und stieß; ihn hinter Ihrem Rücken Ganotta ins
-Herz … Sie hörten Ganotta vom Sessel fallen, Rüstiger
-warf den Odysseus weg, — — der Mord war verübt, —
+auf der Fontäne sahen, — Ritschel sprang zu, ergriff
+den Schirm und stieß ihn hinter Ihrem Rücken Ganotta ins
+Herz … Sie hörten Ganotta vom Sessel fallen, Ritschel
+warf den Schirm weg, — — der Mord war verübt ... —
 <@pagebreak/>
-Zu der Tot, — satanischer, schlauer konnte niemand — ein
-Verbrechen verüben … 6! — Dostenkii haben Sie zwei Paar
-Handschellen bei sich, lieber Lüge … Diese elenden Weg
-fetten sollen uns scztenauigyt aus den Auge:.«
+In der Tat, — satanischer, schlauer konnte niemand ein
+Verbrechen verüben …! — Hoffentlich haben Sie zwei Paar
+Handschellen bei sich, lieber Lücke … Diese elenden Gesellen
+sollen uns schleunigst aus den Augen ...«
 
-Geige flog mit elend Jubelruf worin Heribert an, die
-Brust, und »Pingalli preßte sein Weiß zu sich und küßte
+Helga flog mit einem Jubelruf ihren Heribert an die
+Brust, und Pingalli preßte sein Weib an sich und küßte
+sie ... -- --
 
-sie 2.0.0« —
-Der Schirmstock steht Genie im Kriminalmuseum des
-Präsidiums, — — ich stehe vom Ealzeiblisch auf … — Irinas
-rum greift, daß er den
+Der Schirmstock steht heute im Kriminalmuseum des
+Präsidiums, — — ich stehe vom Schreibtisch auf … — Irinas
+Verhängnis ist beendet. Dem, der mir nachweist, daß er den
+Mörder schon vor Harsts Enthüllungen herausfand, zahle
+ich eine Million — — in Inflationsscheinen.
 
-Verhängnis ist beendet. Wem, der ur
-Mörder gern vor Harst« Enthüllungen herausfand, zahle
+<#import "*/harst.ftl" as harst>
+<@harst.naechsterband band="Die Hexe von Malvetta."/>
 
-ich eine Million — — in Mulatten Td: el
-
-Galten Band:
-Die Stege von Malvetta.
