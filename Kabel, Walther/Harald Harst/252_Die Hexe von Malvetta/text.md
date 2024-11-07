@@ -1,258 +1,263 @@
 <@pagebreak/>
 
-Die Hexe von Malvetta
+<#import "*/harst.ftl" as harst>
+<@harst.introshort/>
 
 <h2>1. Kapitel.</h2>
 
-<h3>Einen Monat Frist …!.</h3>
+<h3>Einen Monat Frist …!</h3>
 
 Buid Jasper war ein Mischling. Viel indisches Blut
-hatte er nicht mehr in den Adern, aber die dunklen Glut.
-Augen seiner Ihnen inöütterlicherseits und die freie, stolze
+hatte er nicht mehr in den Adern, aber die dunklen Glutaugen
+seiner Ahnen mütterlicherseits und die freie, stolze
 Haltung der Radschputen sowie die edlen Züge waren ihm
-geblieben. Sein Vater war Holländer von Bett Art, nannte
+geblieben. Sein Vater war Holländer von Geburt, nannte
 Java seine Heimat und war mit dreißig Jahre gestorben
-wie alle Nacxfommen der schonen Imalla, die einst den
-Sir Thomas Greengil, einen Abenteuer schlimm er Sorte,
-geheiratet hatte. Die verwandtschaftlükyen Verhältnisse !:
-dieser Familie waren äußerst verwickelt. Jedenolls matt
-Buid Jasper nunmehr der einzige erbberechtigte »lachkomu«
-Sand Cecil Greengils, eines der reichsten: und torkelten Mit« …
-Glieder des englischen Hochadels.
+wie alle Nachkommen der schönen Imalla, die einst den
+Sir Thomas Greengil, einen Abenteuer schlimmster Sorte,
+geheiratet hatte. Die verwandtschaftlichen Verhältnisse in
+dieser Familie waren äußerst verwickelt. Jedenfalls war
+Buid Jasper nunmehr der einzige erbberechtigte Nachkomme
+Lord Cecil Greengils, eines der reichsten und stolzesten Mitglieder
+des englischen Hochadels.
 
-»Mr. Harsts,« erklärte er weiter, nachdem er uns seine
-Herkunft durch Dokumente, Photographien, Briefe und aus
-bares belegt hatte, »Lord Cecil Greengil Alles: zweiundsiebzig
-Jahre alt. Ich gönne ihm weitere zweiundiebzig, obwohl
-er an mir schändlich gehandelt hat. Meine Briefe ha;
-er mir zurückgeschickt und durch seinen Sekretär ließ er in«
+»Mr. Harst,« erklärte er weiter, nachdem er uns seine
+Herkunft durch Dokumente, Photographien, Briefe und anderes
+belegt hatte, »Lord Cecil Greengil ist jetzt zweiundsiebzig
+Jahre alt. Ich gönne ihm weitere zweiundsiebzig, obwohl
+er an mir schändlich gehandelt hat. Meine Briefe hat
+er mir zurückgeschickt und durch seinen Sekretär ließ er mir
 <@pagebreak/>
-mitteilen. er Dienste sich alte Annäherungsversuche, Dir
-ihn sei ich ein Farbiger — müßte weiter. Dabei ist er meist
-Seeteufel mit er weiß sehr wohl, Riß es mich von der Erbe
-scharf nicht nördlichen Fand, es sei denn, er heiratete 12)
-einmal und hatte bezahlte Kinder, erhielt Sohn.«
+mitteilen, er verbäte sich alle Annäherungsversuche. Für
+ihn sei ich ein Farbiger — nichts weiter. Dabei ist er mein
+Großonkel, und er weiß sehr wohl, daß es mich von der Erbschaft
+nicht ausschließen kann, es sei denn, er heiratete noch
+einmal und hätte leibliche Kinder, einen Sohn.«
 
-Buid Jasper schaute melancholisch der Willen seiner
-Zigarette 16,
+Buid Jasper schaute melancholisch den Wölkchen seiner
+Zigarette nach.
 
-»… 34 komme nun zu dein eigentlichen Zweck weiter
-Europareise, Mr. Harst. Ich habe von zwei Jahre zu jeden,
-also bin im acFtiuudzwanziz, Mein Baden Harry starb im
-Forscher, weine Schwester Dorfe vor zwei Jahren, Sie
-wurden beide genau dreißig Jahre uK8 eine Eise alt. Vetter
-wurde seiner Ton uns, wie ich Hirn betonte. Ins ich vor
-drei Monate meine Plantage bei dem Städtchen Kurbelte
-am Ostrande der Thar-Wüste ne. lies, folgte ich dem Eine
-meines Herzens. Ich hatte in Bombay eilte junge Deutsche
-unter eigentü’nlichen Unglauben kennen gelernt und strich
-mit ihr verlobt. Sie hieß Gerda Handel und war Korrespondentin
+»… Ich komme nun zu dem eigentlichen Zweck meiner
+Europareise, Mr. Harst. Ich habe noch zwei Jahre zu leben,
+also bin im achtundzwanzig. Mein Bruder Harry starb im
+Vorjahre, meine Schwester Doris vor zwei Jahren. Sie
+wurden beide genau dreißig Jahre und einige Tage alt. Älter
+wurde keiner von uns, wie ich schon betonte. Als ich vor
+drei Monaten meine Plantage bei dem Städtchen Malvetta
+am Ostrande der Thar-Wüste verließ, folgte ich dem Zuge
+meines Herzens. Ich hatte in Bombay eine junge Deutsche
+unter eigentümlichen Umständen kennen gelernt und mich
+mit ihr verlobt. Sie hieß Gerda Gandel und war Korrespondentin
 bei der Bombayer Firma Sheffield. Zwei Tage nach
-unserer Verlobung ne: schwand ie.«
+unserer Verlobung verschwand sie.«
 
-Er beugte riß etwas vor und wiederholte eindringlich:
-»Feuer Jage Dach unserer Verlobung, die meinerseits vielwicht
+Er beugte sich etwas vor und wiederholte eindringlich:
+»Zwei Tage nach unserer Verlobung, die meinerseits vielleicht
 … eine Schwäche war. Ich hätte Gerda erklären
-müssen, daß ich ein vom Schlaf »Gezeichneter sei. Aber
-ich liebte sie, sie war ein helles Je »stört, ich; brachte den
-Mut dazu nicht auf, ich wollte wen! streng die mir noch verbleiben den
-zu?! Rechte restlos Blut ich sein … Es kam
-anders, ’ Ich suchte Gerda volle drei Wochen, ich setzte eilte
-Riesenbelohnung aus, ich bin ja nach europäischen Des
-griffen ein Tabak, — Gerda wurde nicht gefunden. Da
-kehrte ich noch Malvetta zurück, übergab die Geschäfte
+müssen, daß ich ein vom Schicksal Gezeichneter sei. Aber
+ich liebte sie, sie war ein holdes Geschöpf, ich brachte den
+Mut dazu nicht auf, ich wollte wenigstens die mir noch verbleibenden
+zwei Jahre restlos glücklich sein … Es kam
+anders. Ich suchte Gerda volle drei Wochen, ich setzte eine
+Riesenbelohnung aus, ich bin ja nach europäischen Begriffen
+ein Nabob, — Gerda wurde nicht gefunden. Da
+kehrte ich nach Malvetta zurück, übergab die Geschäfte
 meinem Direktor und fuhr wieder noch Bombay, immer
-noch in der Hoffnung, Gerda müsse noch- am Leben sein,
-bieder blieb ich sehe Sachen dort, dann schielte ich mich
-Bach Europa ein, weil mir. Detektivinspektor Grobian riet.
+noch in der Hoffnung, Gerda müsse noch am Leben sein.
+Wieder blieb ich sechs Wochen dort, dann schiffte ich mich
+nach Europa ein, weil mir Detektivinspektor Grablay riet.
 <@pagebreak/>
-nicht an Sie zu wenden. Sie haben Grabkay3 Brief gelesen.
-I’ie Wbienkung durch eine längere Seereise, jagte der Arzt
-in Bombay, würde meine überreizten Ferne wieder in
-Ordnung bringen, Ich kaufte eine Material? von zweitausend
-Tonnen, die durch den Tod des Heiterkeit gerate frei war.
-Nie Jacht war soeben er« fertig geworden, und Grobian
-besorgte mir eine zurecht ihr Besatzung. Sie liegt nun in
-Hamburg. Ich Tribut trat« gestern abend hier in Berlin ein,
-CEnischuldtigen Sie bitte nochmals, daß ich heute zu Ausruhen
-Stunde zu Ihnen kam. Ader ’3e. ade der in B2o.lin wurde ich
-noch mehr an Gerda einige t. Sie hat hier ihre Kindheit
-verklebt und verlor hier ihre Eltern, kam schließlich nach
-mannigfachen Stellungen bei erotischen Firmen zu Sheffield
+mich an Sie zu wenden. Sie haben Grablays Brief gelesen.
+Die Ablenkung durch eine längere Seereise, sagte der Arzt
+in Bombay, würde meine überreizten Nerven wieder in
+Ordnung bringen. Ich kaufte eine Motorjacht von zweitausend
+Tonnen, die durch den Tod des Bestellers gerade frei war.
+Die Jacht war soeben erst fertig geworden, und Grablay
+besorgte mir eine zuverlässige Besatzung. Sie liegt nun in
+Hamburg. Ich selbst traf gestern abend hier in Berlin ein.
+Entschuldigen Sie bitte nochmals, daß ich heute zu so früher
+Stunde zu Ihnen kam. Aber gerade hier in Berlin wurde ich
+noch mehr an Gerda erinnert. Sie hat hier ihre Kindheit
+verlebt und verlor hier ihre Eltern, kam schließlich nach
+mannigfachen Stellungen bei exotischen Firmen zu Sheffield
 nach Bombay. — Wollen Sie mir hellen? Ich muß Gerdas
-Verse winden aufklären, Ich) verliere sonst den Verstand.
-»Grablay meint, sie hatte die Verlobung vorerst und sei eins
-sah geflüchtet, Das ist leere Annahme. Gerda siegte wich.«
-Er sprach schlicht und betrogen. Seine Stimme Orte
-einen weiden und da energischen »Klang. Er war ein Falls
-anderer Gentleman.
-Harald blätterte in den Papieren, Je Buid Jasper ihm
+Verschwinden aufklären. Ich verliere sonst den Verstand.
+Grablay meint, sie hätte die Verlobung bereut und sei einfach
+geflüchtet. Das ist leere Annahme. Gerda liebt mich.«
+
+Er sprach schlicht und besonnen. Seine Stimme hatte
+einen weichen und doch energischen Klang. Er war ein vollendeter
+Gentleman.
+
+Harald blätterte in den Papieren, die Buid Jasper ihm
 vorgelegt hatte. Er erhob sich und trat ans Fenster und
-prüfte dort scheinbar die Unterschriften einiger Urkunden…
-»Wie verschwand Ihre Braut, Mr. Jasper vt« fragte er Bettrand.
--
-! »Ich möchte Ihnen, da Sie so liebenswürdig. sind nach
-Einzelheiten zu fragen, erst einer mitteilen, wie ich Per
-kennen lernte. Ich besitze in Bombay eine Miedexlasiurg
-meiner Plantage und ein Haus auf den Malheur Hilfe,
-An jenem Abend schlenderte ich durch Block Town, dem
-Stadtviertel der Eingeborenen, und geizt in eine Gasse der
+prüfte dort scheinbar die Unterschriften einiger Urkunden.
+»Wie verschwand Ihre Braut, Mr. Jasper?« fragte er zerstreut.
+
+»Ich möchte Ihnen, da Sie so liebenswürdig sind nach
+Einzelheiten zu fragen, erst einmal mitteilen, wie ich Gerda
+kennen lernte. Ich besitze in Bombay eine Niederlassung
+meiner Plantage und ein Haus auf den Malabar Hills.
+An jenem Abend schlenderte ich durch Black Town, dem
+Stadtviertel der Eingeborenen, und geriet in eine Gasse der
 fröhlichen Mädchen. Es war dunkel, und vier chinesische
-Strolche überfielen mich. Nur das Knattern eines Motors
-Rades verscheuchte die Banditen. — Mr. der ich halb bewußtlos
-am Boden lag. traf der Schein einer »arbidlaterne.
+Strolche überfielen mich. Nur das Knattern eines Motorrades
+verscheuchte die Banditen. — Mich der ich halb bewußtlos
+am Boden lag, traf der Schein einer Karbidlaterne.
 <@pagebreak/>
-und ein Cugelögesich? beugte sie über nicht. Es war Gerda
-Handel, die Korrespondentin mit dreihundert Rupien Monafügebalt,«
+und ein Engelsgesicht beugte sich über mich. Es war Gerda
+Gandel, die Korrespondentin mit dreihundert Rupien Monatsgehalt,«
 
 »Sehr romantisch …« meinte Harst vom Fenster her.
 
-»Aus dieser … Romantik ward ein Roman, Mr. »ist.
-Nach vierzehn Tagen verlebten wir uns. Zwei Tage lebte ich
-in einem Rausch von »Kuh. Dann traf mich das »Anteil.
-
-— Gerda wohnte in «&Uv;aber bei einem deutschen Friseur,
-
-»Dr anständigen Leuten. Ich hakte sie bewegend, sofort ihre
--» Zeitung bei Sheffield’& »mitzugeben, denn es ging nicht gut
-riß, daß Buid Gespeist Braut bei einer Firma arbeitete,
-ist von mir Landesprodukte bezog und Toten Chef mir stets
-ich zur Für entgegenkam. Ich bin in Bombay etwaige des
-»Nr wie Hagenbeck in Hae:mburg. An diesem dritten Morgen
-ehe unserer Verlobung begleitete im Gerda bis vor das Sie
-— vwistshaus der genannten Firma, da meine Braut dort ihre
-Papiere abholen wollte, Ich blieb in der Vorhalle, Gerda
-»:4x mit dem Lift zu den Direktors« Suchen empor, der
-tba) ließ sie den Fahrstuhl allein bedienen, da er »Schauten
-wurde. Von der« Moment an, wo ich Gerda den
-mit betreten sah und ihr noch zuwinkte, habe ich sie nicht
--»der zu Gesicht Bekennern — niemand mehr, Ich hörte das
-schweren des Fahrstuhls verstummen, ich hörte glomm
-zweiten Glied die Flur der Aufzuges klappen, — dann war
-Jede tot? ausgelöscht. Ich wartete eine halbe Stunde, ward?
-ungeduldig, ließ mich von der Pförtnerloge mit den Direkkion&räumen
-verbinden … Gerda war nicht dort, hauchte
-Raume gar nicht besiedelt … — Das ganze Gebäude wurde
+»Aus dieser Romantik ward ein Roman, Mr. Harst.
+Nach vierzehn Tagen verlobten wir uns. Zwei Tage lebte ich
+in einem Rausch von Glück. Dann traf mich das Unheil.
+— Gerda wohnte in Bombay bei einem deutschen Friseur,
+sehr anständigen Leuten. Ich hatte sie bewogen, sofort ihre
+Stellung bei Sheffield’s aufzugeben, denn es ging nicht gut
+an, daß Buid Jaspers Braut bei einer Firma arbeitete,
+die von mir Landesprodukte bezog und deren Chef mir stets
+bis zur Tür entgegenkam. Ich bin in Bombay etwa so bekannt
+wie Hagenbeck in Hamburg. An diesem dritten Morgen
+nacht unserer Verlobung begleitete ich Gerda bis vor das 
+Geschäftshaus der genannten Firma, da meine Braut dort ihre
+Papiere abholen wollte. Ich blieb in der Vorhalle, Gerda
+fuhr mit dem Lift zu den Direktionsräumen empor, der
+Liftboy ließ sie den Fahrstuhl allein bedienen, da er abberufen
+wurde. Von dem Moment an, wo ich Gerda den
+Lift betreten sah und ihr noch zuwinkte, habe ich sie nicht
+wieder zu Gesicht bekommen — niemand mehr. Ich hörte das
+Surren des Fahrstuhls verstummen, ich hörte oben im
+zweiten Stock die Tür der Aufzuges klappen, — dann war
+Gerda wie ausgelöscht. Ich wartete eine halbe Stunde, wurde
+ungeduldig, ließ mich von der Pförtnerloge mit den Direktionsräumen
+verbinden … Gerda war nicht dort, hatte die
+Räume gar nicht betreten … — Das ganze Gebäude wurde
 durchsucht, die Polizei kam … Es war alles umsonst, alles.
-wo — es blieb so … Gerda war eben … ausgelöscht
+Und — es blieb so … Gerda war eben … ausgelöscht
 wie ein Flämmchen …«
 
 Harst hatte sich unseren Sesseln wieder genähert.
 
 »Mr. Jasper, das ist in der Tat einzigartig …« sagte
-er bedächtig und nahm lag:. kam Platz und legte die Urkunden
+er bedächtig und nahm langsam Platz und legte die Urkunden
 <@pagebreak/>
 auf den Tisch. »Hatte Ihre Braut einen Verehrer unter den
 Angestellten von Sheffields?«
+
 »Jeder verehrte sie, Mr. Harst, jeder … Sie war ja
 die Sonne, das Licht, das wandelnde Glück … — Aber
-der zweite Prokurist von Sheffield, — der war ihr ernst
-haften. Bewerber, ein Mr. Ronald Epsom. Dieser Epsom.
-hat sich an demselben Vormittag in seiner beige Er’
-schlossen. Inspektor Grablay hegte sofort Ne gegen ihn,
-da Epsom nicht im Geschäft erschienen war, — enthielte
+der zweite Prokurist von Sheffield, — der war ihr ernsthafter
+Bewerber, ein Mr. Ronald Epsom. Dieser Epsom
+hat sich an demselben Vormittag in seiner Wohnung
+erschossen. Inspektor Grablay hegte sofort Verdacht gegen ihn,
+da Epsom nicht im Geschäft erschienen war, — er schickte
 zwei Beamte hin und die fanden Epsom tot auf, neben ihm
-lag seine en
+lag seine Pistole.«
+
 Harald schloß halb die Augen und meinte leise: »Ein
-sehr interessanter Fall, ohne Zweifel …;; — Ich werde
-Ihnen helfen, Mr. Jasper. — Schraut, bitte schreibe … «.
+sehr interessanter Fall, ohne Zweifel … — Ich werde
+Ihnen helfen, Mr. Jasper. — Schraut, bitte schreibe …
 Mein Freund, Mr. Jasper, nimmt stets mein Stenogramm
 auf. Sollte ich mich in den Daten irren, korrigieren Sie
-— mich bitte, — Mein lieber Alter, ich beginne …«…
-».- … Am 1. Juli, vormittags halb zehn Uhr, erschien
-bei uns Mr. Buid Jasper aus Malvetta, Indien … Er b&w
-richtete folgendes: Am 2, März das Jahres lernt er Gerda
-So bei, eine Deutsche, Waise und Korre’pondentin bei Schein
-Pferde, Bombay, im Eingeborenenviertel ebendaselbst kennen,
-Am 16. März verlobt er sich mit ihr. Am 19. März Vers
-Schwindel sie vormittags im Geschäftshaus Sheffields, Gleiche
-zeitig erschießt sich Ronald Gnom, Prokurist der Firma,
-in seiner Wohnung mit seiner Pistol6 ohne eine Begründung
-für seinen Selbstmord zu hinterlegten. Am 20. April kehrt
+mich bitte. — Mein lieber Alter, ich beginne …«
+
+»… Am 1. Juli, vormittags halb zehn Uhr, erschien
+bei uns Mr. Buid Jasper aus Malvetta, Indien … Er berichtete
+folgendes: Am 2. März das Jahres lernt er Gerda
+Gandel, eine Deutsche, Waise und Korrespondentin bei Sheffield,
+Bombay, im Eingeborenenviertel ebendaselbst kennen.
+Am 16. März verlobt er sich mit ihr. Am 19. März Verschwindet
+sie vormittags im Geschäftshaus Sheffields. Gleichzeitig
+erschießt sich Ronald Epsom, Prokurist der Firma,
+in seiner Wohnung mit seiner Pistole ohne eine Begründung
+für seinen Selbstmord zu hinterlassen. Am 20. April kehrt
 Buid Jasper auf seine Plantage bei Malvetta zurück, fährt
-am …« …
-»—». töten …« ergänzte Jasper.
-»am essen wieder nach Bombay, suchte erneut bis
+am …«
 
-zum …
-« « … vierten Juni … « …
-… bis zum vierten Juni seine Verlobte, landet am
+»… 25ten …« ergänzte Jasper.
 
+»am 25ten wieder nach Bombay, suchte erneut bis
+zum …"
+
+»… vierten Juni …«
+
+»… bis zum vierten Juni seine Verlobte, landet am
 30\. Juni mit seiner Jacht …«
 
 <@pagebreak/>
 
-…-» 9 « « — Ich! Imalla in Hamburg, begibt sich nach Berg
-zu Wohltat uns eine Ansicht Urkunden, Briefe und Bejammerte
+»… Imalla …«
+
+«… Jacht Imalla in Hamburg, begibt sich nach Berlin
+und legt uns eine Anzahl Urkunden, Briefe und Dokumente
 vor, die einwandfrei beweisen, daß Lord Cecil
-Hwreengil, wohnhaft Schloß Strengstem, England, sein Groß«
-scheint und er selbst dessen einziger Erbe ist. — Unter den
-Nr?runden befindet sich auch Mr. Buid Fernere Behutsam.
+Greengil, wohnhaft Schloß Greengham, England, sein Großoheim
+und er selbst dessen einziger Erbe ist. — Unter den
+Urkunden befindet sich auch Mr. Buid Jaspers Geburtsschein.
 Wie ich soeben festgestellt habe, ist dieser insofern
 gefälscht, als Mr. Buid Jasper offenbar nicht am 8. August
-1901, forderte Bereits am 8. August 1899 in Malvetta geboren
-wurde, König heute bereits 29 Jahre und rund elf
+1901, sondern Bereits am 8. August 1899 in Malvetta geboren
+wurde, mithin heute bereits 29 Jahre und rund elf
 Monate alt ist …«
 
 Harst blickte Jasper an. Der saß wie erstarrt da …
 
 »Das … das kann nicht sein,« sagte er verstört. »Gefälscht?!
-Wer soll …
+Wer soll …«
 
-»Stierten Sie, Mr. Jasper … — — Hier sind drei Briefe,
-die Ihre Mutter, als sein Hause des Arztes Doktor
-chMv.«ich in Malvetta Ihnen das Leben gegeben, an Ihren
-Hatten naß Der Plantage Gesicht?! hat, weil Ihr Vater, der
-Ernte Wege, ZVabkömatlicd war. Buch die Daten dieser
+»Gestatten Sie, Mr. Jasper … Hier sind drei Briefe,
+die Ihre Mutter, als sie im Hause des Arztes Doktor
+March in Malvetta Ihnen das Leben gegeben, an Ihren
+Vater nach Der Plantage Geschickt hat, weil Ihr Vater, der
+Ernte Wegen, unabkömmlich war. Auch die Daten dieser
 Briefe sind korrigiert, Bitte, überzeugen Sie sich, folgen Sie
-mir ans Fenster … Haien Sie die Papiere gegen das
-Litt, und Sie sehen die Rasurstellen … Man erkennt
-gekannt auf der Geburtsurkunde noch die richtige Jahre
-ah! …«
+mir ans Fenster … Halten Sie die Papiere gegen das
+Licht, und Sie sehen die Rasurstellen … Man erkennt
+jedoch auf der Geburtsurkunde noch die richtige Jahreszahl
+…«
 
-Buid Jasper sank rascher wieder in seinen Sessel und
+Buid Jasper sank nachher wieder in seinen Sessel und
 Stierte wortlos vor sich hin.
 
-Sein Gemütszustand war begreiflich. Da seine Verwoarndten
+Sein Gemütszustand war begreiflich. Da seine Verwandten
 sämtlich nur dreißig Jahre als geworden, hatte
-er nur noch ein.: einen Monat Früh. Dann würde auch ihn
-das rätselhafte Gesicht ereilen,
+er nur noch etwa einen Monat Frist. Dann würde auch ihn
+das rätselhafte Geschick ereilen,
 
 Harst stand neben ihm und legte ihm die Hand auf die
-Schulter, »Mr. Jasper, Ihre Befürchtungen sind fberslüsiig
-
-Sie werden nicht am 8. August oder kurz nachher«
-sterben … « « Wir begleiten Sie nach Bombay, und so lange
+Schulter. »Mr. Jasper, Ihre Befürchtungen sind überflüssig
+… Sie werden nicht am 8. August oder kurz nachher
+sterben … Wir begleiten Sie nach Bombay, und so lange
 <@pagebreak/>
-wir bei Ihnen sind, wird Ihnen nichts zustoßen. W4 Sie
-uns über die Brust?e Ihrer Familie Dorfes? bauen, 189! weil
-sicheren Obhut zu, daß hier dunkle Mächte um Werke
-ob, Die in die Gase. As Ihrer Fingerspitzen Reichlich einte
-gegriffen haben. Beweis vier für in die abschlug Ihrer See
-Hurtövetunde und der drei Daten der drei Berichte. Seien
-Sie getrost …! Ich Berge dieses hinterlistige Spiel, das
-ha) Nun bereits viele Zunrzebiute Erstrebt? aufdecken. Ich
-habe in-H mit wir Direkten wie dieses vorgelegt erhaltet. —
-Heute nacHmülng fahren wir nach Hamburg. Dyopeschieretn
-Sie sofort Bein Kapitän der Zigarre, daß wir abends sofort
+wir bei Ihnen sind, wird Ihnen nichts zustoßen. Was Sie
+uns über die Tragik Ihrer Familie berichtet haben, läßt den
+sicheren Schluß zu, daß hier dunkle Mächte am Werke
+sind, Die in die Geschicke Ihrer Angehörigen heimlich eingegriffen
+haben. Beweis hierfür ist die Fälschung Ihrer 
+Geburtsurkunde und der drei Daten der drei Briefe. Seien
+Sie getrost …! Ich werde dieses hinterlistige Spiel, das
+sich Nun bereits viele Jahrzehnte hinzieht, aufdecken. Ich
+habe noch nie ein Problem wie dieses vorgelegt erhalten. —
+Heute nachmittag fahren wir nach Hamburg. Depeschieren
+Sie sofort dem Kapitän der Imalla, daß wir abends sofort
 den Hafen verlassen werden.«
 
-Buid Jasper drückte uns wortlos die Hände, Die Depesche
-ging ad. Um zwei Uhr nachmittags« flogen vier mit einer
-Janferömaschine vom Flugplatz Tempelhof Berlin nach herzlühemt
-Abschied von ZHZarcalds Mutter und Mathilde, der
+Buid Jasper drückte uns wortlos die Hände. Die Depesche
+ging ab. Um zwei Uhr nachmittags flogen wir mit einer
+Junkersmaschine vom Flugplatz Tempelhof-Berlin nach herzlichem
+Abschied von Haralds Mutter und Mathilde, der
 treues Köchin, gen Hamburg.
 
-Um sechs wußten wir, daß. irgend jemand die« Imalla
-durchs eine Geröll/tote Depesche nach London beordert hatte,
-— dUügedlich war Strick Leugnen der Absender. Die echte
-Depesche hatte den Kapitän nicht mehr erreicht?.
+Um sechs wußten wir, daß irgend jemand die Imalla
+durch eine gefälschte Depesche nach London beordert hatte,
+— angeblich war Buid Jasper der Absender. Die echte
+Depesche hatte den Kapitän nicht mehr erreicht.
 
-Das war der Beginn eines Kampfes gegen ins uns
-heimticg)e Persönlichkeit, die mit überragender Jatelligeiz
-selbst einen Harst beinahe niedergerungen halte,
-
-Gattin
+Das war der Beginn eines Kampfes gegen eine unheimliche
+Persönlichkeit, die mit überragender Intelligenz
+selbst einen Harst beinahe niedergerungen hätte,
 
 <h2>2. Kapitel.</h2>
 
@@ -1041,7 +1046,7 @@ wir es zu tun hatten. — Ich dachte zu Gerda Gandel …
 Armes Mädel … Sie liebte Buid, sie hatte sein Bild
 in dem Roman verborgen gehabt, sie war aus Liebe an Bord
 gekommen und spielte hier Pranati, den Stummen. Ihre
-glänzende Maske, besonders die durch Waitestöpsel vorn«-
+glänzende Maske, besonders die durch Wattestöpsel vorn«-
 stattete Nase und die Brille, mochten wohl Ideen Kapitän
 Broox’ Sein, denn Broox war mit allen Salben gesalbt. Er
 Gotte in Bombay den Ruf eines Draufgängers, eines Zigarren
@@ -2071,7 +2076,7 @@ Die geballte Faust der Greisin traf dieses Felsstück, und
 über die blutige Zunge kamen dabei röchelnde, unverständliche
 Laute — — vielleicht ein Fluch …
 
-— Dann bin sie zusammen, sank zur Seite, und ihr allerleztes
+— Dann bin sie zusammen, sank zur Seite, und ihr allerletztes
 tiefes Atemholen dröhnte mir förmlich in den — Ohren,
 
 Was war’s, daß mir der Tod dieser Frau so naheging?!
