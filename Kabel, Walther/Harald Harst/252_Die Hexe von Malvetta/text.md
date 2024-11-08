@@ -179,7 +179,7 @@ am …«
 »… 25ten …« ergänzte Jasper.
 
 »am 25ten wieder nach Bombay, suchte erneut bis
-zum …"
+zum …«
 
 »… vierten Juni …«
 
@@ -190,7 +190,7 @@ zum …"
 
 »… Imalla …«
 
-«… Jacht Imalla in Hamburg, begibt sich nach Berlin
+»… Jacht Imalla in Hamburg, begibt sich nach Berlin
 und legt uns eine Anzahl Urkunden, Briefe und Dokumente
 vor, die einwandfrei beweisen, daß Lord Cecil
 Greengil, wohnhaft Schloß Greengham, England, sein Großoheim
@@ -264,292 +264,288 @@ selbst einen Harst beinahe niedergerungen hätte,
 <h3>Eine bedrohliche Wendung.</h3>
 
 »Wir können unter diesen Umständen nichts anderes
-tun als nach London weiteczufliegen, lieber Gezogen,« sagte
-Harald beim Abendessen in einem Hamburger YUuzternkeller.«
+tun als nach London weiterzufliegen, lieber Jasper,« sagte
+Harald beim Abendessen in einem Hamburger Austernkeller.
 »Unsere Versuche, die Jacht drahtlos zurückzurufen, sind
-gleichfalls erfolglos geblieben. Sie meinen, die Funkeinrichtung
-der Sumatra sollte in Unordnung sein. Ich meinte.
+gleichfalls erfolglos geblieben. *Sie* meinen, die Funkeinrichtung
+der Imalla müsse in Unordnung sein. *Ich* meine,
 <@pagebreak/>
 sie ist in Unordnung gebracht worden. Ihre Feinde, Jasper,
-arbeiten nun mit verzweifelten Mitteln, nachdem Sie sie
+arbeiten nun mit verzweifelten Mitteln, nachdem Sie sich
 mit uns in Verbindung gesetzt haben. Das ist ein Beweis
 dafür, wie nervös Ihre Gegner geworden sind. Bisher
 spürten Sie nichts von deren Existenz, jetzt melden sie sich
 mit allerhand plumpen Dummheiten. — Ich möchte den
 alten Lord Cecil Greengil kennen lernen.«
 
-Buid Jasper ’pflichtete Harald bei, betonte jedoch gemalt,
-daß er nie etwas von den Feinden gemerkt habe,
+Buid Jasper pflichtete Harald bei, betonte jedoch nochmals,
+daß er nie etwas von den Feinden gemerkt habe.
 Jasper war sehr rasch mit uns intim geworden. Ein Mann
 wie er mußte Sympathie erwecken und Freunde finden. —
 
 Am anderen Vormittag ließen wir uns in London bei
 Lord Greengil melden, der sich gerade in seinem Londoner
-»Stadtpalais aufhielt. Unsere Befürchtung, er könnte uns
+Stadtpalais aufhielt. Unsere Befürchtung, er könnte uns
 abweisen, weil doch auch Buid Jasper seine Karte mit
-hineingeschickt hatte, war überflüssig gewesen. Im Gegen
-teil, wir waren erstaunt, daß nun an Stelle des Pförtners
+hineingeschickt hatte, war überflüssig gewesen. Im Gegenteil,
+wir waren erstaunt, daß nun an Stelle des Pförtners
 Seiner Lordschaft vornehmer Hausmeister nebst vier Dienern
 erschien die sich dann förmlich Spalier bildend, vor der
-Für des Empfangszimmers aufstellen und Buid Japaner
+Tür des Empfangszimmers aufstellten und Buid Jasper
 wie einen der Mächtigen der Erde begrüßten.
 
 Seine Lordschaft war ein dürrer alter Herr von ansehnlicher
 Länge mit einem versteinerten, aber noch frischen
-Gesicht und sehr jungen, klaren, kühlen Augen. Erlebnis
+Gesicht und sehr jungen, klaren, kühlen Augen. Er schritt
 zunächst auf Jasper zu, reichte ihn die Hand und sagte etwas
 feierlich: »Was verschafft mir die unerwartete Freude deines
-Besuches?« —« Uns beide tat er mit einem gnädigen Kopf«-
-ritten ab.
+Besuches?« — Uns beide tat er mit einem gnädigen Kopfnicken
+ab.
 
 Jasper war natürlich durch diese Anrede von seiten
 eines Mannes, der ihn so hochmütig bisher übersehen hatte,
-Wucherer überrascht, verlor jedoch seine geyjellshafilice Sicherheit
+äußert überrascht, verlor jedoch seine gesellschaftliche Sicherheit
 in keiner Weise und erwiderte merklich zurückhaltend:
 
 »Mr. Harst bewog mich zu diesem Besuch. Ich selbst
-hätte nach der mir zuteil gewordenen Behzandlung durch
-Cm. Lordschaft niemals dieses Palais betreten.«
+hätte nach der mir zuteil gewordenen Behandlung durch
+Ew. Lordschaft niemals dieses Palais betreten.«
+
 <@pagebreak/>
-Cecil Greengil, der ein horngesußies Monat mit Trauer
-Seidenschnur trug, wachte hierzu ein anhielt übervorteilt
-Gesicht. Über zunächst bat er ans Platz zu lehnten, Dann
-läutete &xr, und zu unserer unaussprechlicher Verblüffung
-erschietzeb nun ix dem großen Saale in offenbar streng
-angeordneten Auszuge die sämtlichen Bediensteten des Lords,
+Cecil Greengil, der ein horngefaßtes Monokel mit dünner
+Seidenschnur trug, machte hierzu ein äußerst überraschtes
+Gesicht. Aber zunächst bat er uns Platz zu nehmen. Dann
+läutete er, und zu unserer unaussprechlicher Verblüffung
+erschienen nun in dem großen Saale in offenbar streng
+angeordnetem Aufzuge die sämtlichen Bediensteten des Lords,
 voran der Hausmeister und der Privatsekretär …
 
-Oberst Verschluß und wäardevoll stellte Seine Verkennst
-hierauf eilt diesen Leiten Halb Jasper als seinen Große
-werfen und Erbe vor, wobei er eine Seine Aussprach« hielt,
-in die er Eintracht, daß zweifellos schwerwiegende Austrete
-jtäuduisse Jasper bisher von diesem Hause ferngehalten
+Ebenso feierlich und würdevoll stellte Seine Lordschaft
+hierauf all diesen Leuten Buid Jasper als seinen Großneffen
+und Erbe vor, wobei er eine kleine Ansprache hielt,
+in die er einflocht, daß zweifellos schwerwiegende Mißverständnisse
+Jasper bisher von diesem Hause ferngehalten
 hätten, das ihm einst als eigen gehören würde,
 
-Nur der Privatsekretär, Sir &dward Vorlage, ein alles
-ganzer Herr in den Biergläser mit »einem vvcenebmlieben!go
-würdigem Gesicht, blieb nachher im Saale, als Buid Jasper
-sehr freimütig verwüstete, laß seine Briefe an den Lord ifm
+Nur der Privatsekretär, Sir Edward Baranc, ein eleganter
+Herr in den Vierzigern mit einem vornehm-liebenswürdigem
+Gesicht, blieb nachher im Saale, als Buid Jasper
+sehr freimütig berichtete, daß seine Briefe an den Lord ihm
 stets zurückgeschickt und ihm noch dazu ein Anschreiben
-zugegangen sah, das ihn als Farbigen bezeichnete und in
+zugegangen sei, das ihn als Farbigen bezeichnete und ihm
 jede weitere Annäherung Verbot,
 
-Lord Greengil sprang tief errötend und Rauschenden
-Auges auf. »Das Ut eine Zurannte!« rief er erregt, »Niemals
-habe ich derartiges getan oder angegrinst …!« Er.
-wandte da an den Sekretär. »Sir Vereine, Sie sind seit
-zwölf Jahren mein Vertrauter … Wissen Die etwas von
-dieser angeblichen Brüokierung meines Erben?!«
+Lord Greengil sprang tief errötend und flammendem
+Auges auf. »Das ist eine Infamie!« rief er erregt. »Niemals
+habe ich derartiges getan oder angeordnet …!« Er
+wandte sich an den Sekretär. »Sir Baranc, Sie sind seit
+zwölf Jahren mein Vertrauter … Wissen Sie etwas von
+dieser angeblichen Brüskierung meines Erben?!«
 
 »Nichts,« erklärte Baranc fest. »Ich weiß nur, daß nach
 dem Todes des zweiten Sohnes Seiner Lordschaft — der
 ältere fiel im Weltkriege — Seine Lordschaft mir befahl,
-sofort Ermittlungen nach Ihnen, Mr. Lager, anzustellen.
+sofort Ermittlungen nach Ihnen, Mr. Jasper, anzustellen.
 Als wir so festgestellt hatten, daß Sie die Plantage Ihres
 Herrn Vaters in Malvetta übernommen hatten, schrieb
 Seine Lordschaft persönlich dreimal zu Sie, erhielt dann
-erst eine Antwort und zwar eine es … grobe, daß Uhr
-Lord es aufgab, Ihnen als seinem einzigen Erben näherzutreten.
+erst eine Antwort und zwar eine so … grobe, daß Mylord
+es aufgab, Ihnen als seinem einzigen Erben näherzutreten.
 <@pagebreak/>
-Ihr Brief, Mr. Jasper, ist noch bei den Akten,
-3G werde ihn herbeiholen, Natürliche handelt & sich war
-Kino Fälschung, wie 1.3 nun einfache.«v
+Ihr Brief, Mr. Jasper, ist noch bei den Akten.
+Ich werde ihn herbeiholen. Natürliche handelt es sich um
+eine Fälschung, wie ich nun einsehe.«
 
-Es war in der Tat eine Fälschung. Jaspers Havndichrift
+Es war in der Tat eine Fälschung. Jaspers Handschrift
 war recht schlecht nachgeahmt,
 
-Nunmehr erbat Lord Greengil von Harald »l8 dem
-jetzigen Sachwalter Jägers näheren Aufschub über diese
-eigentümlichen Vorgänge. »Sie, Mr. Har)t, sind ja in alles
-eingeweiht und Sie dürften mir die Dinge klarer und beiseite
-Schallsicher auseinanderezen, Offenbar spielen Tiere Günstigen
+Nunmehr erbat Lord Greengil von Harald als dem
+jetzigen Sachwalter Jaspers näheren Aufschluß über diese
+eigentümlichen Vorgänge. »Sie, Mr. Harst, sind ja in alles
+eingeweiht und Sie dürften mir die Dinge klarer und leidenschaftsloser
+auseinandersetzen. Offenbar spielen hier Intrigen
 mit, deren Urheber mir fremd sind, die aber unbedingt zur
 Verantwortung gezogen werden müssen.«
 
 Da Sir Baranc uns auch die Durchschläge der drei Briefe
-Des Lords an Mr. Japaner aufs dem Fährte 1926 vorgelegt
-Hatte, konnte kein Zweifel mehr bestehen, das die Verkehr
+Des Lords an Mr. Jasper aus dem Jahre 1926 vorgelegt
+Hatte, konnte kein Zweifel mehr bestehen, das die Feinde
 Jaspers schon 1926 insgeheim tätig gewesen.
 
-Harst berichtete nun alles, was Buid Jasper uns ein
-zählt hatte, und sowohl Mylord als auch Sir Baranc
-waren hierdurch derart überrascht, daß es mir ausgeschlafen
-sie »Knien vor uns hier eine häßliche Komödie aus
-
-Uhren,«
+Harst berichtete nun alles, was Buid Jasper uns erzählt
+hatte, und sowohl Mylord als auch Sir Baranc
+waren hierdurch derart überrascht, daß es mir ausgeschlossen
+erschien, sie könnten vor uns hier eine häßliche Komödie aufführen.
 
 Greengil sagte dann mit einer Gereiztheit, die niemals
 erheuchelt sein konnte: »Mr. Harst, versäumen Sie nichts,
 diese Schurken, die dort irgendwo in Indien weilen und
-die meinem Reisen sogar hierher Leute nachgeholt! haben,
-zu &mitteln. Ich Früchte Ihnen vollkommen bei, daß Miß
+die meinem Neffen sogar hierher Leute nachgeschickt haben,
+zu ermitteln. Ich pflichte Ihnen vollkommen bei, daß Miß
 Gerda Gandels Verschwinden ebenfalls auf diese geheimnisvollen
-Gegner zurückzuführen sein dürfte… Ich den)? hier vor
-Streich Rätsel, denn — wer hätte einen Vorteil davon,
-Jasper und mich zu verfeinden?e! Ja — wenn Astloch Tu’
+Gegner zurückzuführen sein dürfte. Ich stehe hier vor
+einem Rätsel, denn — wer hätte einen Vorteil davon,
+Jasper und mich zu verfeinden?e! Ja — wenn noch ein
 Erbe außer ihm vorhanden wäre! Aber, davon ist keine
-Rede, Mein Titel und mein Vermögen gehen gesetzlich auf
-meinen Öroßnefsen über. Es existiert kein weiterer Erbe
+Rede. Mein Titel und mein Vermögen gehen gesetzlich auf
+meinen Großneffen über. Es existiert kein weiterer Erbberechtigter.«
+—
 
-eredztigter.« —
-Sir waren dann fünf Tage Gäste im GreeugilPalais
+Wir waren dann fünf Tage Gäste im Greengil-Palais
 <@pagebreak/>
 und wurden ebenso respektvoll wie freundlich behandelt. Inzwischen
-war auch die Jacht Imalla eingetroffen, deren Funksapparate
-tfatsäödjlih in Hamburg nun unbekannter Hand
+war auch die Jacht Imalla eingetroffen, deren Funkapparate
+tatsächlich in Hamburg von unbekannter Hand
 völlig unbrauchbar gemacht worden waren. Leider desertierten
-hier in London von der Besatzung sie Mann, die erst
-wieder ergänzt werden: mußten, wofür Sir Baranc sorgte,
-der bei der Auswahl der Matrosen äußerst vorsichtig 3x
-Werke ging. Am echten Tage stach die Jacht in Sie,
-Lord Greengil begleitete uns bis Lissabon, was er drin dortigen
-englisczken Gesandten, seinen Studienfreund, besuchen«
-wollte. Der Abschied von « Buid Jasper fiel ihm sichtlich
-seiner, und er winkte uns noch lange vom Mal aus zu,
-cl8 die Schulter den Strom aufwärts dampfte. — Uns war
-es klar, daß die Lösung diese Nähere nur in Indien selbst
-und zwar auf der Plantage Maklvetta, die denselben Namen
-wie das benachbarte Städtchen — führte, gefunden werden
-könne. In längeren Gesprächen mit Jaspers gewannen wir
-einen genauen Einblick in die dortigen Verhältnisse, lernten.
-die Namen und Eigenart ’all der Personen kennen, die mit
-Jasper dem gewaltsam Plantagenbetrieb vorstanden oder
-in seinem dortigen Bungalow seine Hausgeno;jen waren,
-Gegen keinen ernsten dieser Leute konnte Jasper auch nur
+hier in London von der Besatzung sechs Mann, die erst
+wieder ergänzt werden mußten, wofür Sir Baranc sorgte,
+der bei der Auswahl der Matrosen äußerst vorsichtig zu
+Werke ging. Am sechsten Tage stach die Jacht in See.
+Lord Greengil begleitete uns bis Lissabon, wo er den dortigen
+englischen Gesandten, seinen Studienfreund, besuchen
+wollte. Der Abschied von Buid Jasper fiel ihm sichtlich
+schwer, und er winkte uns noch lange vom Kai aus zu,
+als die Imalla den Strom aufwärts dampfte. — Uns war
+es klar, daß die Lösung dieses Rätsels nur in Indien selbst
+und zwar auf der Plantage Malvetta, die denselben Namen
+wie das benachbarte Städtchen führte, gefunden werden
+könne. In längeren Gesprächen mit Jasper gewannen wir
+einen genauen Einblick in die dortigen Verhältnisse, lernten
+die Namen und Eigenart all der Personen kennen, die mit
+Jasper dem gewaltigen Plantagenbetrieb vorstanden oder
+in seinem dortigen Bungalow seine Hausgenossen waren.
+Gegen keinen einzigen dieser Leute konnte Jasper auch nur
 die geringsten Verdachtsgründe vorbringen, sie alle hatten
 schon seinem Vater oder nach dessen frühem Tode seinem
 Vormund und seiner Mutter, die erst 1923 gestorben, in
 vorbildlicher Treue gedient.
 
-Kurz — die ganze Angelegenheit war so dunkel ur«
-undurchsichtig, des sie nicht den kleinsten »Angriffspunkt
+Kurz — die ganze Angelegenheit war so dunkel und
+undurchsichtig, daß sie nicht den kleinsten Angriffspunkt
+bot.
 
-… vor.
-
-Davor ich nun auf die weiteren Ereignisse entfernten
-komme, möchte ich noch folgendes anführen. — Bald Jasper?
-Vater, namens Pieter Jasper, war wie erwähnt auf Taue
+Bevor ich nun auf die weiteren Ereignisse zu sprechen
+komme, möchte ich noch folgendes anführen. — Buid Jaspers
+Vater, namens Pieter Jasper, war wie erwähnt auf Java
 geboren worden. Mit zweiundzwanzig Jahren erwarb er
-die englische Staat&angehö Arbeit und kaufte die damals völlig
-heruntergewirtschaftete MalvettaPlantkage. Er hatte als Perlenfischer
+die englische Staatsangehörigkeit und kaufte die damals völlig
+heruntergewirtschaftete Malvetta-Plantage. Er hatte als Perlenfischer
 <@pagebreak/>
-und »Händler in kurzem ein großes Vermögen erworben,
-Ein. Jahr darauf heiratete er Ellen Greengil, die
-einzige Letzter jenes Abenteurers Sir Thomas Greengil,
-der die schone Imalla Statue Chani, Tochter eines der
-zahllosen ebyemaligen Radschputenfürsten, entfährt und in
-Roalfutia zu seinem Weibe gemacht hakte. Perser Thomas
+und -händler in kurzem ein großes Vermögen erworben.
+Ein Jahr darauf heiratete er Ellen Greengil, die
+einzige Tochter jenes Abenteurers Sir Thomas Greengil,
+der die schöne Imalla Bhadur Chani, Tochter eines der
+zahllosen ehemaligen Radschputenfürsten, entführt und in
+Kalkutta zu seinem Weibe gemacht hatte. Dieser Thomas
 Greengil sowie seine drei Söhne starben kurz nach Vollendung
-des dreißigsten Lebbensjahres, Ellen Greengil aber
-(das geheimnisvolle TJodes8geschick ereilte stets nur die wenig
-sicher Nachkommen, lediglich Buids Schwester hatte hier
-eine Ausnahme gemacht) lernte Pieter Spargel kennen, und
+des dreißigsten Lebensjahres, Ellen Greengil aber
+(das geheimnisvolle Todesgeschick ereilte stets nur die männlichen
+Nachkommen, lediglich Buids Schwester hatte hier
+eine Ausnahme gemacht) lernte Pieter Jasper kennen, und
 dieser Ehe letzter Sproß, in dem noch das Blut Imallas
 vorhanden, war eben unser Freund und Schützling. —
-Am Abend nach der Adresse von Lissabon saßen wir
-drei auf dem ANähzterdeck der prächtigen Jagd und Terrassen
-den herrlichen Sonnenuntergang und da leichte Nordbrise,
-die nach der erschlaffenden Hitze dieses Julitages die früher
+
+Am Abend nach der Abreise von Lissabon saßen wir
+drei auf dem Achterdeck der prächtigen Jacht und genossen
+den herrlichen Sonnenuntergang und die leichte Nordbrise,
+die nach der erschlaffenden Hitze dieses Julitages die müden
 Gedanken wieder etwas belebte. Buid hatte (der Vorname
-Buid entstammt dem Radschputischen und bedenke!: Geier,
+Buid entstammt dem Ratschputischen und bedenke: Geier,
 — eine etwas seltsame Wahl eines Namens des Pieter
-Zuhörer für seinen Arm eben) uns soeben Gerdas Photographien
-gezeigt, und er verfiel dadurch; wieder in jene
-schwermütige Stimmung, aus der ihn dann nichts qauszurütteln
-vermochte, Er mußte unsere Landsmännin wirklich
-über alles geliebt haben. — Gerda war ein Wackeren von
-pikanter Schönheit, Man konnte es wohl verstehen, daß
-Bald sich sofort in Ü verliebt hatte, zumal noch die romantischen
+Jasper für seinen Jüngsten) uns soeben Gerdas Photographien
+gezeigt, und er verfiel dadurch wieder in jene
+schwermütige Stimmung, aus der ihn dann nichts aufzurütteln
+vermochte. Er mußte unsere Landsmännin wirklich
+über alles geliebt haben. — Gerda war ein Mädchen von
+pikanter Schönheit. Man konnte es wohl verstehen, daß
+Buid sich sofort in sie verliebt hatte, zumal noch die romantischen
 Umstände ihrer ersten Bekanntschaft Hinzukamen.
 Während wir noch die vier Bilder — das eine zeigte das
 Brautpaar am Tage nach der Verlobung — betrachteten,
 erhob sich Buid und trat an die Reling und starrte düster
-n« »das dunkle Meer, — Über unserem Tische. hing eine
-elektrische Pendellampe, Wir saßen in Bordstühlen, es war
-sehr finster geworben, von Norden zog Gemüt! herauf, und
-die Brise ward immer steiler. Dann kam der Steward Karl
+über das dunkle Meer. — Über unserem Tische hing eine
+elektrische Pendellampe. Wir saßen in Bordstühlen, es war
+sehr finster geworden, von Norden zog Gewölk herauf, und
+die Brise ward immer steifer. Dann kam der Steward Karl
 <@pagebreak/>
-Janzen, ein geborener Flen&sburger, der einzige Deutsche
+Janzen, ein geborener Flensburger, der einzige Deutsche
 unter der achtzehnköpfigen Besatzung, und brachte uns eine
 Flasche portugiesischen Weines und drei Gläser und fragte
-nach unseren Wünschen hinsichtlich des Abendessens, -«-« Karl
-— Ganzen war ein junger, blonder Mensch, ehemals Kellner«-
-— Feiertag in Kiel, dann Steward auf allerlei Schiffen, bis
+nach unseren Wünschen hinsichtlich des Abendessens. — Karl
+Janzen war ein junger, blonder Mensch, ehemals Kellnerlehrling
+in Kiel, dann Steward auf allerlei Schiffen, bis
 er in Bombay auf die Imalla anheuerte. Wir standen vortrefflich
 mit ihm, wir waren verwandte Naturen, seine Abenteuerlust
 hatte ihm auf seinen weiten Fahrten schon in die
-sonderbarsten Angelegenheiten gestürzt, in Hat Flatternd
+sonderbarsten Angelegenheiten gestürzt, in San Franzisko
 hatte er »gesessen«, weil er Alkohol geschmuggelt hatte, in
-Tokio desgleichen, weil er in einem Teehaus einen Haar
+Tokio desgleichen, weil er in einem Teehaus einen Japp
 halb zu Brei geschlagen hatte.
 
 Janzen in seinem tadellos weißen Stewarddreß beugte
-sie zu Harald hinab und flüsterte: »Könnte ich Sie später
-allein sprechen? Darf ich hinter Kabine kommen, Herr
-Harst? Ich habe Ihnen etwas mitzuteilen, was von nun«
-geheuer Wichtigkeit ist … Die- sechs Matrosen, die Sir
-Baranc in London als Ersatz besorgte, sind …
+sich zu Harald hinab und flüsterte: »Könnte ich Sie später
+allein sprechen? Darf ich in Ihre Kabine kommen, Herr
+Harst? Ich habe Ihnen etwas mitzuteilen, was von ungeheurer
+Wichtigkeit ist … Die sechs Matrosen, die Sir
+Baranc in London als Ersatz besorgte, sind …«
 
-Der arme Janzen sollte vorläufig diesen Saß nicht beenden.
+Der arme Janzen sollte vorläufig diesen Satz nicht beenden.
 Es geschah etwas, das dem Fall Jasper urplötzlich
 eine bedrohliche Wendung gab.
 
 Haarscharf an Haralds Hals und Schlagader vorbei sauste
 von der Backbordreling her ein langes, indisches Wurfmesser,
-— —« (tat Karl Janzen nickte Brust und ließ ihn
+— — traf Karl Janzen in die Brust und ließ ihn
 mit einem gurgelnden Schrei über den Tisch fallen, den er
 umriß und der mit ihm noch ein paar Schritte weiter rollte,
 
-Buid, Kapitän Broox und der Schiffsarzt, Doktor Mursy,
+Buid, Kapitän Broox und der Schiffsarzt, Doktor Murfy,
 kamen herbeigeeilt. Eine Verwirrung entstand, die noch durch
 die ersten jähen Sturmstöße einer Gewitterbö vergrößert
-wurde. Das Sonnensegel, unter dem wir Gesellen hatten,
+wurde. Das Sonnensegel, unter dem wir gesessen hatten,
 zerriß knallend und peitschte uns mit seinen Fetzen um die
-Ohren, vergilbte die Pendellampe und verhinderte!ov Harsts
-geisteäsgegenwärtige Aussichten nach dem heimtückischen Attentäter.
+Ohren, verhüllte die Pendellampe und verhinderte so Harsts
+geistesgegenwärtige Ausschau nach dem heimtückischen Attentäter.
 
 <@pagebreak/>
-Wöährend Mursy und Broox den Bewußtlose ich konc!l!l iü
-seine Kammer trugen, wittert 5 ich die +. ist ’p wohl
-und den Berbandkasten holte, litt … her s.- … ironisch
-Vegentropfen auf die blutigen Deck!+ kg. oder
-»verstohlen zugenickt … Wir ahnten, ins der Malaiewarer »ii.
-verbargen gelben hatte, Au oder 20. Ha, + chi1h
-… weiter nach Achtern zu, lag die Dunkle der In!:3., ich mit
-»einer Persenning überspannt war. Wir jener 320ei Hallte
-der Persenning aufgeknotet. Der Ratternde bitte. 33 soll
-tot unter der Persenning gesteckt, wir je?) nicht:.-u ll
-bei der allgemeinen ersten Aufregung Botschaft. 8i: 3.6
-zum Achterschiff log keine vier Meter entfernt, und der …!.ich]
-»Gönnte nur sie bei seiner Flucht benutzt sitzen, »ist leise
-er an Mursy und Bevor, die in’s Wirt ins a) an sei
-ganzen waren, kaum unbemerkt vorüoecschlüp ein Tonnen, Er
-mußte mithin noch ich? den Yäetzkerräuiien weilen, 5271 sie
-hatten keinerlei Herr Dung nach den Umrissen. So 7 koste
-Es war zwar wie Abbricht eine eiserne Tag« Versuche … »lese
-wurde jedoch nie geöffnet und hakte zur Patents X.« er?
-by. — Co gleichzeitig ist Zugang zu dein h1 die T 9 2i.1s
-gebauten Tresorraum, der modern gekentert wi« ut! ihr
-einem mittelgroßen — Stahlschrank noch eilte zw’ike Bär be
-saß, die in den Kabiiengang des Mittel’chiffe3 mündete
-auch eine die Eisentür mit PatentsX5:.sein.
--.’ Harald rief zwei Matrosen leben un« steil« sie als
-Wache vor die Achtertreppe. Dann e’st Bitten wi? hin’b
-und begonnen die Luxuskabinen zu »n’elu 1. Na
+Während Murfy und Broox den Bewußtlosen schnell in
+seine Kammer trugen, während ich in die Schiffsapotheke ging
+und den Verbandkasten holte, klatschten schon die ersten
+Regentropfen auf die blutigen Deckplanken. Harald hatte mir
+verstohlen zugenickt … Wir ahnten, wo der Messerwerfer sich
+verborgen gehalten hatte. An der Backbordreling,
+weiter nach Achtern zu, lag die Pinasse der Jacht, die mit
+einer Persenning überspannt war. Wir fanden drei Schnüre
+der Persenning aufgeknotet. Der Attentäter hatte zweifellos
+unter der Persenning gesteckt, war jedoch unbemerkt
+bei der allgemeinen ersten Aufregung entschlüpft. Die Treppe
+zum Achterschiff lag keine vier Meter entfernt, und der Mann
+konnte nur sie bei seiner Flucht benutzt haben, sonst hätte
+er an Murfy und Broox, die mitschiffs auf und ab gegangen
+waren, kaum unbemerkt vorüberschlüpfen können. Er
+mußte mithin noch in den Achterräumen weilen, denn diese
+hatten keinerlei Verbindung nach den übrigen Schiffsteilen.
+Es war zwar wie üblich eine eiserne Tür vorhanden, diese
+wurde jedoch nie geöffnet und hatte zwei Patentschlösser.
+Sie bildete gleichzeitig den Zugang zu dem in die Jacht
+eingebauten Tresorraum, der modern gepanzert war und außer
+einem mittelgroßen Stahlschrank noch eine zweite Tür besaß,
+die in den Kabinengang des Mittelschiffes mündete —
+auch eine dicke Eisentür mit Patentschlössern.
 
-4«
-+
-
-fanden, war für uns eine noch weit By ’e Ufer-!Im
-als das Attentat auf Kanal«. den er Nr ck ne er!
-ganzen war, daß er sich zum um He 0 1 ed0,
-Alltag Messer so unheimlich sitzen und kreist geschleudert
-ward, … kg
+Harald rief zwei Matrosen herbei und stellte sie als
+Wache vor die Achtertreppe. Dann erst gingen wir hinab
+und begannen die Luxuskabinen zu durchsuchen. Was wir
+fanden, war für uns eine noch weit größere Überraschung
+als das Attentat auf Harald, dem er nur dadurch entgangen
+war, daß er sich zufällig zur Seite gedreht hatte,
+als Messer so unheimlich sicher und kraftvoll geschleudert
+ward.
 
 <@pagebreak/>
 
-8\. Spanier,
-Pranati, Teer Stummels
+<h2>3. Kapitel.</h2>
+<h3>Pranati, der Stumme</h3>
 
 Her »berühmte fraküzeijiiwe Autor Zigarre Befehle hat
 einmal Buid Ihr. Hand Kellner, er hielte alle Prusaerzählungent
@@ -817,7 +813,7 @@ davon, um nicht von Broox überrascht zu werden,
 <h3>Die Elster und der Sahib?!.</h3>
 
 Dem Steward und Landsmann Kali: Janzen ging &s
-schlecht, sehr Schlecht, Er war ohne Besinnung, Doktor Mursy
+schlecht, sehr Schlecht, Er war ohne Besinnung, Doktor Murfy
 meinte, wenn nicht ein Wunder geschähe, sei es aus mit
 ihm … »Ich werde die Nacht bei ihm wachen … Mehr
 kann ich nicht tun.«
@@ -866,7 +862,7 @@ Ganzen atmete rasselnd, warf sich hin und her und
 wurde immer unruhiger. Zuweilen lag er dann mysteriös
 feil!, daß wir schon fürchteten, es ginge mit ihm zu Ende,
 Über eine Seemannönatur wie Karl Janzen kapituliert
-nicht so leicht vor dem Sensenmann. Fuß Doktor Mursy
+nicht so leicht vor dem Sensenmann. Fuß Doktor Murfy
 morgens fünf Uhr leise eintrat, schlief Janzen und hatte auf
 der Stirn kleine Schweißperlen. Die Krisis war vorüber.
 Die Lunge arbeitete wieder regelmäßiger, und der blutige
@@ -888,7 +884,7 @@ herein, wer es auch sei, — niemand, selbst Broox und Buid
 nicht. Wir wollen leise Ausnahmen gelten lassen, — Haben
 Sie eine Waffe bei sich?«
 
-»Rein …« Mursy war sichtlich beunruhigt.
+»Rein …« Murfy war sichtlich beunruhigt.
 
 <@pagebreak/>
 
@@ -929,7 +925,7 @@ hinabkam, log linker Hand zuerst das luxuriöse Bad nebst
 zwei Leisten mit besonderen Eingängen. Dann folgten
 zwei /Kabinen, die wir bewohnten. Ihnen gegenüber lagen
 die Buid Lagert. 5 und s standen leer, ebenso die Dienste —
-Kammern, denn Japaner bitte auch nicht einen abreisen seiner
+Kammern, denn Jasper bitte auch nicht einen abreisen seiner
 zahllosen indischen Diener mit nach Europa genommen,
 Tau weiß ja, wie verwöhnt die Sahibs« in Indien
 <@pagebreak/>
@@ -1116,7 +1112,7 @@ Es … geschah etwas …
 
 Eine Kleinigkeit … Hätte ich geschlafen, wären wir
 beide vielleicht nach Stunden genau so starr und steif aufs
-gefunden worden, wie der junge Doktor Mursy, den Harald
+gefunden worden, wie der junge Doktor Murfy, den Harald
 vor nachdrücklich gewarnt hatte.
 
 Was geschieht
@@ -1437,9 +1433,9 @@ Schläfe getötet. Neben ihm lag die Waffe: … Er selbst
 lag ganz zusammengekrümmt in dem engen Gelaß, —.
 
 Sohn Minuten später endeten wir, daß auch Doktor
-John Mursy in Janzens Kammer!inzwischen ein Opfer des
+John Murfy in Janzens Kammer!inzwischen ein Opfer des
 Mörders geworden, Wir hatten die Kammertür aufsprengen
-müssen. Mursy war der Blausäurespritze erlegen. Janzen
+müssen. Murfy war der Blausäurespritze erlegen. Janzen
 hatte nur der Umstand vor demselben Schicksal bewahrt, daß
 er mit dem Kopfe nach der Wand hin fest geschlafen hatte …
 So hatte der dünne Strahl des Giftes, das wieder durch
@@ -1454,7 +1450,7 @@ Die Elster war der Mörder.
 <@pagebreak/>
 Ja …
 Sang« und klanglos flog mittags seine Leiche über Vor
-Mursy wurde mit feierlichem Gepränge dem Meere über
+Murfy wurde mit feierlichem Gepränge dem Meere über
 geben. Buid Ruderer hielt eine Ansprache, und Bevor lag
 aus dem Andochtöbuch für Seeleute den Abhängte vor, da
 die Überschri’kf trug:
@@ -1731,7 +1727,7 @@ Dangi gewesen, habe in den Steinen vor dem Höhleneingang
 gelegen und sie immer wieder angefleht, den- Fluch von mir
 zu nebenan, Nichts als ein s!schreckliches Lachen, hervorquellend
 aus der Finsternis, war ihre Antwort, und am
-letzten Japaner« die Drohung, es würde … mein sofortiger
+letzten Jasper« die Drohung, es würde … mein sofortiger
 Tod sein, wenn ich je verriete, wer Chuna Parallel …
 denn, Harst, — Chuna Dangi Heißt ja nichts anderes als
 »Die ohne Namen« … In Malvetta weiß niemand, wer
@@ -1813,7 +1809,7 @@ wurde, je höher wir stiegen, immer romantischer. An manchen
 Stellen bot der pfadlose Weg Schwierigkeiten, — die nur mit
 äußerster Bereit zu überwinden waren. Schroffe Abhänge
 drohten mit finsteren Tiefen, schmale Grate erforderten geh
-Schufte Pferde und schwindelsreie Reiter. —
+Schufte Pferde und schwindelfreie Reiter. —
 Naß etwa anderthalb Stunden wies Buid auf ein
 
 fernes, vom Monde voll d5estrahltes Tal, dessen Weiseste
@@ -2265,7 +2261,7 @@ Broox allein zur Seite genommen und …«
 
 Er winkte lässig ab. »Ich werde dir als Schlafpulver
 etwas verraten, mein Alter. Mac Erbt, der Matrose mit dem
-Genilemangesicht, ist der beste Detektiv von  Scotland Yard,
+Gentlemangesicht, ist der beste Detektiv von  Scotland Yard,
 und seine fünf Kollegen sind auch in der Mühe … Rad
 Harry Broox wurde bekanntlich von Grablay atgeheuezrt,
 und Grablay ist auch Detertivinspekior und keiner der
@@ -2309,7 +2305,7 @@ zehn Kreiselpumpen mithalten; die unerträgliche Hitze, zu
 mildern, 6«
 
 Harald hatte mir beim Ankleiden hoimkiäg einen Wink
-gegeben, kein irgendwie versängliches Gesprächsthema anzuschneiden.
+gegeben, kein irgendwie verfängliches Gesprächsthema anzuschneiden.
 Bevor wir unser Zimmer verließen, ’stafte er noch
 unauffällig die Clement zu sich) und auch die witzige Dicker«
 Spitze und das Fläschchen mit dem Schlangenserum. Auffordern
@@ -2566,7 +2562,7 @@ krepiert ist, ein!chleichendes Gift … Ich war und bin Herr
 über Leben und Jod … Ich war’s auf der Jacht … Fest,
 der mir unbequem geworden, den ich nicht mehr brauchte,
 sollte sterben … Das Messer traf den Steward Janzen …
-Es war ein Mißerfolg, der dann auch Doktor Mursy und
+Es war ein Mißerfolg, der dann auch Doktor Murfy und
 Jan Zeerten das Leben kostete … Ich wollte den Verdacht
 auf Broox lenken … Vielleicht hat Harst midY’ damals
 schon durchschaut. Jedenfalls: Sein Urteil war gesprochen! Um
