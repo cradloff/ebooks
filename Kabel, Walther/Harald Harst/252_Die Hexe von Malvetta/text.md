@@ -547,593 +547,598 @@ ward.
 <h2>3. Kapitel.</h2>
 <h3>Pranati, der Stumme</h3>
 
-Her »berühmte fraküzeijiiwe Autor Zigarre Befehle hat
-einmal Buid Ihr. Hand Kellner, er hielte alle Prusaerzählungent
-für Schwur, die den Feier nie nach den ersten bissig
-Seiten in Schlafzustand Tee he — Der Engländer Besitz
-wert, ein ge:ürchteter Dritte«, verspottet eine Gewisse Richtung
-der modernen Literatur, die sich Genüge, Fontänen
-aögliu;st gar seine Handlung zu jedes sicheren nur »recht ehe
-Vertiefung«. — Ein Ddeatjuyer Ei ter, den gerade infolge
-seines unerschöpflich … er’s ruhig an gut blitzenden Phrase
-gab infolge seines los ’ragenden Mangels ach Theaters des.
-sagte »moderne Richtig« Honorar und Beschäftigung groß,
-dürfte Befehle und den Fügsam. er für Literaturbanausen
-erklären. — Ich h.« sie es mit Befehle. Ich esse niemand
-einschlafen. Ich schneite, wi? mir der »Stoff« geboten wird.
+Der berühmte französische Autor Maurice Dekobra hat
+einmal halb scherzend erklärt, er hielte *alle* Prosaerzählungen
+für Romane, die den Leser nicht nach den ersten vierzig
+Seiten in Schlafzustand versetzen. — Der Engländer Weeldwood,
+ein gefürchteter Kritiker, verspottet eine Gewisse Richtung
+der modernen Literatur, die sich bemühe, Romanen
+möglichst gar keine Handlung zu geben, sondern nur »seelische
+Vertiefung«. — Ein deutscher Dichter, den gerade infolge
+seines unerschöpflichen Vorrats an gut klingenden Phrasen
+und infolge seines überragenden Mangels an Phantasie besagte
+»moderne Richtig« Honorar und Beschäftigung gibt,
+dürfte Dekobra und den Engländer für Literaturbanausen
+erklären. — Ich halte es mit Dekobra. Ich lasse niemand
+einschlafen. Ich schreibe, wie mir der »Stoff« geboten wird.
+Ich stehle nirgends. Ich habe es nicht nötig. Vielleicht könnte
+ich auch »seelisch vertiefen«. Dann müßten die Harstbände
+200 Seiten haben. Ich sitze mit meiner Feder immer zwischen
+zwei Feuern. Es ist schwer den goldenen Mittelweg zu finden:
+Nicht Hetztempo und Sensationsmache — — aber auch kein
+Schlafpulver.
 
-Ich freilegt genoß. Ich by ne es nicht nötig. Vielleicht könnte
-ich auch »seelisch Partie en«. Dann müßten die Harstbände
-oc, So eilten haben. Ich sich: »e mit meiner Feder immer zwischen.
-zwei Feuern. Ei ist schien den grldezxen Mittelweg zu finden:
-Nicht: Gentleman und Seusation8mad/e — — aber auch kein
-Schlafpulver, »Kt:
+Mithin … — —
 
-Möüälthin … 05«.
-Wir h’tten achtern: alles durchsucht, Wir standen vor
+Wir hatten achtern alles durchsucht. Wir standen vor
+der Eisentür. Sie wo genau so gestrichen und lackiert wie
+das kostbare Holz ringsum. Man nennt’s heute kaukasisch
+Nussbaum. Auch die Deckel der Patentschlösser hoben sich
+von dieser glatten Fläche kaum ab.
 
-der Eisentür. Sie wo genau so geht ich her und lackiert wie
-das festliche Holz ringsum … Man neiint’s heute kaufasiich
-Nachbarin. Auch die Deckel der Patentschlösser hoben sich
-von Dinger ahnen Alte kann ab.
-
-Berlin Elqetnhoiten kennt der Leser. Wenn er zu einem:
-fragwürinen noch nicht überführten Ehrenmann »Mein
-Eber Brounmüller — — »cke’ spie der Kerl einst h- Aden
-
-— sagt, ist der … Kerl zuchthausreif. Wenn er »sie
-Stirn in Falten legt schmeckt ihm die Zigarette nicht. Wenn.
+Harsts Eigenheiten kennt der Leser. Wenn er zu einem
+fragwürdigen noch nicht überführten Ehrenmann »Mein
+lieber Braunmüller — — oder wie der Kerl einst heißen
+mag — — sagt, ist der Kerl zuchthausreif. Wenn er die
+Stirn in Falten legt schmeckt ihm die Zigarette nicht. Wenn
 <@pagebreak/>
-er scharf nachdexuft, spannt sich die Haut über seinen Backenknochen.
-Wenn, er eine wichtige Entdeckung gemacht hat,
-sagt er gleichgültigen Jones: »Sohn…!!«
+er scharf nachdenkt, spannt sich die Haut über seinen Backenknochen.
+Wenn er eine wichtige Entdeckung gemacht hat,
+sagt er gleichgültigen Tones: »So so …!!«
 
-Hier jagte er »So … « … soll«
+Hier sagte er »So … so!!«
 
-»Du anstatt, der Messerwerfer stet im Tresorraum?«
-fragte ich … Jeder häufte das gefragt. Es gehört lediglich
+»Du meinst, der Messerwerfer steckt im Tresorraum?«
+fragte ich … Jeder hätte das gefragt. Es gehört lediglich
 die Intelligenz »seelischer Vertiefung« dazu,
 
-Er nickte, »Mein lieber Alter, der steckte wer … Aber
+Er nickte. »Mein lieber Alter, hier steckte wer … Aber
 der Jemand ist bereits auf und davon — durch die Türen
-des Tresorraums in das Mittelschiff hinein … also falsch,
+des Tresorraums in das Mittelschiff hinein … also futsch,
 denn von dort kann er überall hin.«
 
 Ich hörte die Wogen gegen die Bordwände und den
-Gegen auf das Oberlichtfenster klatschen. Hinter uns gähnte
-dunkel der Kabinengang, vor. uns war die Eisentür, be:
-Leuchtet durch Harsts Taschenlampe. Das riskierte Licht
-hatte er soeben ausgedreht. —
+Regen auf das Oberlichtfenster klatschen. Hinter uns gähnte
+dunkel der Kabinengang, vor uns war die Eisentür, beleuchtet
+durch Harsts Taschenlampe. Das elektrische Licht
+hatte er soeben ausgedreht.
 
 Ich erlaubte mir ein stark zweifelndes »Hm,« — ein
 probates Mittel, Harst zum Reden zu bringen. Er biß auf
-den Köder nun und fügte hinzu: »Der Jemand hat also Güte
-Schlüssel zu beiden Türen gehabt … Werke dir das. Und
+den Köder an und fügte hinzu: »Der Jemand hat also die
+Schlüssel zu beiden Türen gehabt … Merke dir das. Und
 die Schlüssel liegen in Broox’ Kajüte im Stahlfach des
 einen Schreibtisches.«
 
 Ich begriff ihn nicht recht. Er deutete schweigend auf
-eine matte Stelle über dem oberen Schäivßdeckel. »Was ist
+eine matte Stelle über dem oberen Schloßdeckel. »Was ist
 das?«
 
-»Hm — — ein Versteck.«
+»Hm — — ein Ölfleck.«
 
 »Ja, und der Jemand kauerte unter der Persenning der
-Motorpinasse, und gerade dort war ohne kleine Laune Maschinenöl
-… Ich sah, daß der Zement im Dunkeln mit
-gespreizten Fingern ahnungslos in die Versuche gegriffen
-hatte. Also: Der eine ölige Finger berührte die Stalltür
-über dem oberen Schloßdeckel, — — — also hat der Jemand
-die Schlüssel gehabt … — Gehen wie …«
+Motorpinasse, und gerade dort war ohne kleine Lache Maschinenöl
+… Ich sah, daß der Jemand im Dunkeln mit
+gespreizten Fingern ahnungslos in die Öllache gegriffen
+hatte. Also: Der eine ölige Finger berührte die Stahltür
+über dem oberen Schloßdeckel, — — also hat der Jemand
+die Schlüssel gehabt … — Gehen wir …«
 
 Ich ging tief in Gedanken und zermarterte mir mein
-wertvolles Hirn. wer der Jemand sein könnte. — Wer
+wertvolles Hirn, wer der Jemand sein könnte. — Wer
 <@pagebreak/>
-hatte Zutritt zu Kapitän Broox Vilerzwäligitem?letztens —
-er selbst. —ck Er kam nicht in Frage. Er war Nil Doktor
-Wurst nun Deck gewesen. — Zweitens; Seit dbuzüljunge,
-ein indischer Boy von vielleicht achtzehn Jahren, den Hervor
-Wehr aus Mitleid zum Bombay an Bord genommen hatte,
-Dieser schlanke, berechnete Bursche hieß Pranati un? war
-stumm, teilte außerdem die berüchtigte indische Augenkrankheit
-und trug daher eine Wkelbrille mit blauschwarzen Gläsern.
-Phantast war keine Schönheit, In seinen Adern rollte sichere
-sich; Negerblut, denn Herzens Nase war breit und dich und
-hatte riesige Muskeln. Nach sein Krautes Negerhaar, das
-er freilich) stets säximhoast unter einem gelben Turban verbarg,
+hatte Zutritt zu Kapitän Broox Allerheiligstem? Erstens —
+er selbst. — Er kam nicht in Frage. Er war mit Doktor
+Murfy an Deck gewesen. — Zweitens: Seit Kajütjunge,
+ein indischer Boy von vielleicht achtzehn Jahren, den Broox
+mehr aus Mitleid in Bombay an Bord genommen hatte.
+Dieser schlanke, bescheidene Bursche hieß Pranati und war
+stumm, hatte außerdem die berüchtigte indische Augenkrankheit
+und trug daher eine Nickelbrille mit blauschwarzen Gläsern.
+Pranati war keine Schönheit. In seinen Adern rollte sicherlich
+Negerblut, denn seine Nase war breit und dick und
+hatte riesige Nüstern. Auch sein Krauses Negerhaar, das
+er freilich stets schamhaft unter einem gelben Turban verbarg,
 deuteten auf ein wenig Afrika hin. Im übrigen war
-dieser Pranati ein Mutter von einem lautlosen, gewandten
+dieser Pranati ein Muster von einem lautlosen, gewandten
 Diener, und Broox konnte ihn gar nicht genug loben. Von
-der übrigen Besatzung leicht Pranati sich fern. Er war vielleicht
+der übrigen Besatzung hielt Pranati sich fern. Er war vielleicht
 als strenggläubiger Hindu ein Mitglied der Sekte der
-Anfangs, der freiwillig Stummen, doch« blieb das eine
-bloße Vermutung Haralds, die er nur mir gegenüber zu
-außer! hatte, Der Freunde Boy schlief in der Kammer neben
-der Kajüte, und man sah ihn selten an:D-X, du er zumeist
-in seiner freien Zeit englische Kriminalromane 36 Verschlingen
-pflegte. Er schrieb nötige das Hongkong vollkommen.
+Maranasi, der freiwillig Stummen, doch blieb das eine
+bloße Vermutung Haralds, die er nur mir gegenüber geäußert
+hatte. Der braune Boy schlief in der Kammer neben
+der Kajüte, und man sah ihn selten an Deck, da er zumeist
+in seiner freien Zeit englische Kriminalromane zu Verschlingen
+pflegte. Er schrieb und las das Englische vollkommen.
 
-sich wie uns der Für der Kajüte näherten, winkte
-Harald mir zu, recht leise zu sein, stieß die Für dann mit
+als wir uns der Tür der Kajüte näherten, winkte
+Harald mir zu, recht leise zu sein, stieß die Tür dann mit
 einem Ruck auf … Die Kajüte war leer. Das Licht brannte.
-Links war die schmale Tür zu Pranatis Kammer, Harst
+Links war die schmale Tür zu Pranatis Kammer. Harst
 öffnete sie, und auf seinem Klappbett lag Pranati auf dem
 Bauche, hielt den Kopf in die Hände gestützt und las …
-Edgar Wallace, wie ah schon von weitem an dem Umschlag
+Edgar Wallace, wie ich schon von weitem an dem Umschlag
 erkannte.
 
 Pranati hatte uns nicht gehört. Die Außenwelt existierte
-für ihn nicht. Neun er Wallace Mulatte, versäumte er
-sogar seine Pflicht — er. der stets auf dem Seiten weich
+für ihn nicht. Wenn er Wallace vorhatte, versäumte er
+sogar seine Pflicht — er, der stets auf dem Posten war.
 <@pagebreak/>
-er für Wallaces trockenen Humor und etwas eintönigen
-Strick, daß stets die bedrängte Selig den. Tote?hin von
-Scotland Yard heiratet, das nötige Verständnis besaß, wurde
-ha damals vor« nicht. Sicherste hatte er aber Interesse für
-allerlei sein: eingefädelte Verbreiten. Wallace verließ! ja
-sein Geschäft, »Da kann seiner alt, auch nie? Dir Conan
-Doyle, der Vater des Sherlock Holmes, der leider die Knall
+Ob er für Wallaces trockenen Humor und etwas eintönigen
+Trick, daß stets die bedrängte Heldin den Detektiv von
+Scotland Yard heiratet, das nötige Verständnis besaß, wußte
+ich damals noch nicht. Sicherlich hatte er aber Interesse für
+allerlei fein eingefädelte Verbrechen. Wallace versteht ja
+sein Geschäft. Da kann keiner mit, auch nicht Sir Conan
+Doyle, der Vater des Sherlock Holmes, der leider die Unart
 hatte, die Polizei stets als Idioten hinzustellen,
 
-»Pranati fuhr erst hoch, als Harald ihm auf die Schulter
+Pranati fuhr erst hoch, als Harald ihm auf die Schulter
+tippte …
 
-tippte …«-
--» »Ah —: Sahib Harst …«. besessen?«
+»Ah — Sahib Harst … — befehlen?«
 
-»Schraut,: schließe die Tür …!«
+»Schraut, schließe die Tür …!«
 
 Ich tat’s. — Harald ging zu Pranatis Waschtisch und
-nahm das Handtuch vom Haken. wo: besichtigte es. Es war
+nahm das Handtuch vom Haken. Er besichtigte es. Es war
 tadellos sauber, es waren noch alle Falten zu sehen. Dann
-bog er den Kopf über die gefällte Wagenschlag sel, deren Inhalt
-noch schaumig war. Er »roch: und nie …
+bog er den Kopf über die gefällte Waschschüssel, deren Inhalt
+noch schaumig war. Er roch und nickte …
 
-» »Du hast dir die öligen Finger gereinigt, mein lieber
-Pranati … «!« sagte er und fixierte — — nicht Pranati,
-sondern das Buch auf dem Bett!.
-… Der. Boy grinste töricht und schüttelte den Kopf.
+»Du hast dir die öligen Finger gereinigt, mein lieber
+Pranati …« sagte er und fixierte — — nicht Pranati,
+sondern das Buch auf dem Bett.
 
-»In schöpfst wohl deine Entsprungen zu Verbrechen aus
-Wallace …«!sprach Harst mit verdächtiger Freundlichkeit,
-»Weshalb wolltest du mich töten, mein lieber Pranati? See
-falle ich dir nicht? Oder bist du etwa einer von denen, die
+Der Boy grinste töricht und schüttelte den Kopf.
+
+»Du schöpfst wohl deine Anregungen zu Verbrechen aus
+Wallace …« sprach Harst mit verdächtiger Freundlichkeit.
+»Weshalb wolltest du mich töten, mein lieber Pranati? Gefalle
+ich dir nicht? Oder bist du etwa einer von denen, die
 Buid Jasper nicht gerade wohlgesinnt zu sein scheinen?!«
 
 Der Inder gestikulierte eifrig mit den Händen … Er
-wehrte diese Verdächtigungen energi’ch ab.
+wehrte diese Verdächtigungen energisch ab.
+
 »Mein lieber Freund,« begann Harald wieder … (also
-wär »Pranati schon mindestens für den Strang reich, »ist
-will dir nur eins roten: Schwindle nicht!!«
-Harald fixierte noch immer das Buch …«.
+war Pranati schon mindestens für den Strang reif), »ich
+will dir nur eins raten: Schwindle nicht!!«
+
+Harald fixierte noch immer das Buch …
 
 Was gab’s da zu sehen?!
 
 Dann griff er zu, — — Pranati stieß einen röchelnden
 <@pagebreak/>
-Schleier aus, und Harst hatte zwischen den Selten des Bucht
+Schrei aus, und Harst hatte zwischen den Seiten des Buches
 ein Bild Buid Jaspers hervorgezogen.
 
-»,So-».-J0 …!!« Fragte mein Harst da« «. »So …
-so …!!« Und jetzt schalte er den Stummen Bad sog
-Pendellampe tiefer und leuchtete Pranati i:t8 Gesicht. Der
-wilde zurücwei. en … Mit einem Male — — ein neuer
-Geist, ein Ruck, ein Schrei …
+»So … so …!!« sagte mein Harst da … »So …
+so …!!« Und jetzt fixierte er den Stummen und zog die
+Pendellampe tiefer und leuchtete Pranati ins Gesicht. Der
+wollte zurückweichen … Mit einem Male — — ein neuer
+Griff, ein Ruck, ein Schrei …
 
 In Harsts linker Hand hing ein gelber Turban und
-eine Negerperücke, Plakate Schädel jedoch«. wies nunmthr
-eine suchte, hellblonde Behaarung auf.«
+eine Negerperücke, Pranatis Schädel jedoch wies nunmehr
+eine kurze, hellblonde Behaarung auf.
 
-»T’arf ich vorstellen, mein Alter: Fräulein Gerda Sande!,
-die Tc. f … Landwege?«’
+»Darf ich vorstellen, mein Alter: Fräulein Gerda Gandel,
+die Verschwundene!«
 
-— — Nun Fels! ein Satz »seelischer Sortierung« 25 .:!
+— — Nun folgt ein Satz »seelischer Vertiefung« …
 
-54 »zu vom Stempels! St
+Ich fiel vom Stengel!!
 
-Erst verhütete daß ich nicht« zu. tief ne 6 …
+Harst verhütete daß ich nicht zu tief fiel …
 
 »Fräulein Gandel, Ihnen ist gelungen, was bisher nur
-»meinen Freunden von der. Berliner Kriminalpolizei gelang:
+meinen Freunden von der Berliner Kriminalpolizei gelang:
 mich zu übertrumpfen, mir zu beweisen, daß ich alles andere
-»ls unfepgloar bin!! — Bier und einen Garden Tag
-kenne ich runde eitle »Drama, Und doch haben Sie Ihr
+als unfehlbar bin!! — Vier und einen halben Tag
+kenne ich nun bereits Pranati, und doch haben Sie Ihr
+… falsches Gesicht gewahrt …!«
 
-» je sechs Besitz gewahrt …
+Was jetzt hier vor uns stand und zitterte und weinte
+und stöhnte, war ein armseliges Häuflein Unglück,
 
-Was Zeit hier vor uns den) und zitterte und weinte«
+Und jetzt kommt wieder seelische Vertiefung:
 
-und stöhnte, war ein armseliges Häuflein Angibt,
-Und jetzt kommt Bitte seelische Wertheim ne:
-War ein Erschlagen Malheur, —« wie Dr Führer sagen,
+War ein Stückchen Malheur, — wie die Berliner sagen,
 
-Ich bitte mich derweil auf den eintrat hier vorhandenen
-Stuhl gesetzt. Die Beine trugen mich nicht mehr,: Obacht —
-mein Kopf (ne grelle Sender Runxendorf) komm’ konntest,:
-Nur das Bäuchlein wiegt, Es ist der ’einzige ruhende Pol in;
+Ich hatte mich derweil auf den einzigen hier vorhandenen
+Stuhl gesetzt. Die Beine trugen mich nicht mehr, obwohl
+mein Kopf (vergleiche Sender Runxendorf) kaum mitwiegt.
+Nur das Bäuchlein wiegt. Es ist der einzige ruhende Pol in
+meiner Erscheinung Fluchtlinie.
 
-meiner Erscheinung Stahlt ie,
-Gerda saß auch. Auf den Bettrand. Harst. sprach zu;
+Gerda saß auch. Auf den Bettrand. Harst sprach zu
+ihr …
 
-»Weshalb w: Alten Sie mich töten?!«
-Es klang, als ob er selbst nickt daran glaubte,- daß«
+»Weshalb wollten Sie mich töten?!«
+
+Es klang, als ob er selbst nicht daran glaubte, daß
 <@pagebreak/>
-Gerda je die Absicht gehabt hätte, ihm mit dem Messer zu
+Gerda je die Absicht gehabt hätte, ihn mit dem Messer zu
 treffen.
 
 Sie erwiderte unter reichlichen Tränen:
-»Ich … — verstehe es gar nicht, ein Messer zu, schleudern
 
-»Das nehme im an, Fräulein Gandel. Aber in der
-Pinasse hatten Sie sich versteckt y«
-»Ja … Um … um Buid zu, «. zu sehen; 2. zu beobachten«.
+»Ich … verstehe es gar nicht, ein Messer zu schleudern
+…«
+
+»Das nehme ich an, Fräulein Gandel. Aber in der
+Pinasse hatten Sie sich versteckt?«
+
+»Ja … Um … um Buid zu … zu sehen … zu beobachten …«
+
 »Weil Sie ihm lieben?«
 
+»Ja …«
+
 »und Ihr Verschwinden in Bombay? — Sie wollten
-verschwinden … ck… Der Gedanke, daß Buid Jasper ein vom
+verschwinden … Der Gedanke, daß Buid Jasper ein vom
 Schicksal Gezeichneter sei, war Ihnen unerträglich … Sie
 kannten die Tragödie seiner Familie, — irgend jemand erzählte
 es Ihnen …«
 
-»Ich wußte es … Damit ist in Bombay so bekannt
-… — Wie sollte ich »wohl sein Weib werden, wenn ich
-mit aller Bestimmtheit damit rechnen mochte, ihn nach zwei
-Jahren sterben zu selten?! Er hat nur noch so lange zu
-leben … — Ich wollte ihn glichen, aber meine Liede …
+»Ich wußte es … Buid ist in Bombay so bekannt
+… — Wie sollte ich wohl sein Weib werden, wenn ich
+mit aller Bestimmtheit damit rechnen mußte, ihn nach zwei
+Jahren sterben zu sehen?! Er hat nur noch so lange zu
+leben … — Ich wollte ihn fliehen, aber meine Liebe …«
 
-»-… Ihre Liebe trieb Sie hier an Bord, »Broox weiß
+»… Ihre Liebe trieb Sie hier an Bord. Broox weiß
+wer Sie sind.«
 
-wer Sie! sind.«
+»Ja …«
+
 »Wie verließen Sie denn damals das Geschäftshaus
 Sheffield?«
 
-»Ä4eber die Bodenräume und Höfe … Ich hatte. eine
+»Über die Bodenräume und Höfe … Ich hatte eine
 Verkleidung bereit, und ich wohnte …«
 
-»Zwar gut … — Sahen Sie vorhin, wer das Messer
+»Schon gut … — Sahen Sie vorhin, wer das Messer
 warf?«
-»Rein … Bald trat ja neben die Pinasse an die Rat
-fing, und by wagte ich es nicht mehr, die Persenning zu
-lüften. Die Schlüssel zum Tresorraum hatte ich nur mit.
-genommen, weil ich lediglich durch; das YAähterschiff die
 
-Diverse unbemerkt erreichen und verla)sen konnte«
+»Nein … Buid trat ja neben die Pinasse an die Reling,
+und da wagte ich es nicht mehr, die Persenning zu
+lüften. Die Schlüssel zum Tresorraum hatte ich nur mitgenommen,
+weil ich lediglich durch das Achterschiff die
+Pinasse unbemerkt erreichen und verlassen konnte«
 
 <@pagebreak/>
-»Ins ist richtig, Fräulein Gandel … — Hier haben
+»Das ist richtig, Fräulein Gandel … — Hier haben
 Sie Ihre Perücke und den Turban wieder. Wir werden Sie
-nicht Dampfern … Wir sprechen uns noch … Schweigen
+nicht verraten … Wir sprechen uns noch … Schweigen
 Sie aber Broox gegenüber …«
+
 Er drückte ihr herzlich die Hand, und dann eilten wir
 davon, um nicht von Broox überrascht zu werden,
 
-6?!
-
 <h2>3. Kapitel.</h2>
 
-<h3>Die Elster und der Sahib?!.</h3>
+<h3>Die Elster und der Habicht.</h3>
 
-Dem Steward und Landsmann Kali: Janzen ging &s
-schlecht, sehr Schlecht, Er war ohne Besinnung, Doktor Murfy
+Dem Steward und Landsmann Karl Janzen ging es
+schlecht, sehr Schlecht. Er war ohne Besinnung. Doktor Murfy
 meinte, wenn nicht ein Wunder geschähe, sei es aus mit
 ihm … »Ich werde die Nacht bei ihm wachen … Mehr
 kann ich nicht tun.«
 
-Harald erklärte, diese Krankenwache würden wir beide.
-übernehmen, Janzen sei Deutscher, und wir hättest das Recht
-und die Pflückt, für ihn alles zu tun.
+Harald erklärte, diese Krankenwache würden wir beide
+übernehmen, Janzen sei Deutscher, und wir hätten das Recht
+und die Pflicht, für ihn alles zu tun.
 
 Er sagte wörtlich: »Alles zu tun,« — und dabei schaute
-er Broox, diesen gemütlichen dicken Irländer, seltsam alt,
+er Broox, diesen gemütlichen dicken Irländer, seltsam an,
 
 Es blieb dabei. Wir wachten. Wir nahmen sogar in
 Janzens Kammer das Abendbrot ein, obwohl Freund Buid
 dies für ein wenig übertrieben hielt.
 
-Buid leistete uns bis Mitternacht Gesellschaft, Wir den
-sprechen flüsternd diesen Mordanschlag, — die Pinasse
+Buid leistete uns bis Mitternacht Gesellschaft. Wir besprachen
+flüsternd diesen Mordanschlag, — die Pinasse
 ward von uns gar nicht erwähnt, und erst als Janzen im
 Wundfieber zu phantasieren begann, schickte Harald Freund
 Buid zu Bett, riet ihm aber dringend, fortan stets eine
-Pistole in der Jackentasche zu Kragen. »Die geh? Matrosen,
+Pistole in der Jackentasche zu tragen. »Die sechs Matrosen,
 die Sir Baranc in London besorgte, scheinen mir nicht recht
-einwandfrei zu sein, Ich will damit nicht sagen, daß
-etwa Lord Greengil irgendwie ein doppeltes Spiel »treibt
+einwandfrei zu sein. Ich will damit nicht sagen, daß
+etwa Lord Greengil irgendwie ein doppeltes Spiel treibt,
 aber — — nehmen Sie sich sehr in acht, Buid!! Sie
-
 verstehen mich!«
 
 <@pagebreak/>
 Buid wurde sehr verwirrt. »Mein Gott, es ist doch
 unmöglich, daß …«
 
-Harst schob ihr zur Kammer hinaus.
+Harst schob ihn zur Kammer hinaus.
 
-Wir erneuerten die Eizablase des Patienten, wir maßen
+Wir erneuerten die Eisblase des Patienten, wir maßen
 das Fieber, wir sahen Janzens glühend rotes Gesicht, und
-in mir wuchs eine Wut gegen den Aktkentäöier Souper,
+in mir wuchs eine Wut gegen den Attentäter empor,
 die sich in den gepreßten Worten Luft machte: »Harald,
-man müßte die sechs Kerle in Eisen legen? Wir sind hier
-ja unstetes Lebens nicht mehr sicher …«
+man müßte die sechs Kerle in Eisen legen! Wir sind hier
+ja unseres Lebens nicht mehr sicher …«
 
-» &r nickte nur … »Morgen, mein Alter … Morgen
+Er nickte nur … »Morgen, mein Alter … Morgen
 werde ich klüger sein als heute …«
 
-Ganzen atmete rasselnd, warf sich hin und her und
-wurde immer unruhiger. Zuweilen lag er dann mysteriös
-feil!, daß wir schon fürchteten, es ginge mit ihm zu Ende,
-Über eine Seemannönatur wie Karl Janzen kapituliert
-nicht so leicht vor dem Sensenmann. Fuß Doktor Murfy
+Janzen atmete rasselnd, warf sich hin und her und
+wurde immer unruhiger. Zuweilen lag er dann wieder so
+still, daß wir schon fürchteten, es ginge mit ihm zu Ende.
+Aber eine Seemannsnatur wie Karl Janzen kapituliert
+nicht so leicht vor dem Sensenmann. Als Doktor Murfy
 morgens fünf Uhr leise eintrat, schlief Janzen und hatte auf
 der Stirn kleine Schweißperlen. Die Krisis war vorüber.
 Die Lunge arbeitete wieder regelmäßiger, und der blutige
-Schaum vor dem Munde erschien »ist mehr — ein Beweis,
+Schaum vor dem Munde erschien nicht mehr — ein Beweis,
 daß die Wunde sich von selbst geschlossen hatte.
 
-Doktor August war ein ganz junger Arzt. Nur die Not
-hatte Ritt, der vorn schnitt by er! 1 Fütterst eintrifft Ware
-bei, auf die Imalla geführt. Er war ein!chlichter, des
-erhaltenen Mensch mit offenen, frischen Gesicht.
+Doktor Murfy war ein ganz junger Arzt. Nur die Not
+hatte ihn, der von seiner bisherigen Reederei entlassen worden,
+auf die Imalla geführt. Er war ein schlichter, bescheidener
+Mensch mit offenem, frischen Gesicht.
 
 »Doktor,« sagte Harst, »Sie werden schweigen … Ich
-vertraue Ihnen. Bisher weiß nur Bai? außer ans, daß, die
+vertraue Ihnen. Bisher weiß nur Buid außer uns, daß die
 neuen Matrosen nicht das sind, was sie scheinen wollen …
--. Janzen darf kein: Sekunde ohne Aufsicht Kleinen. Sie
-werden jetzt bei ihm die zehn Uhr vormittags wachen,
-kann 1i6st der Kanu?Boy Pranati sie ab. Lassen Sie niemand
+— Janzen darf keine Sekunde ohne Aufsicht bleiben. Sie
+werden jetzt bei ihm bis zehn Uhr vormittags wachen,
+dann löst der KajütBoy Pranati sie ab. Lassen Sie niemand
 herein, wer es auch sei, — niemand, selbst Broox und Buid
-nicht. Wir wollen leise Ausnahmen gelten lassen, — Haben
+nicht. Wir wollen kein Ausnahmen gelten lassen. — Haben
 Sie eine Waffe bei sich?«
 
-»Rein …« Murfy war sichtlich beunruhigt.
+»Nein …« Murfy war sichtlich beunruhigt.
 
 <@pagebreak/>
+»Dann nehmen Sie hier meine Pistole … Achten Sie
+auf das Bullauge der Kammer, achten Sie auf die Decke,
+den Fußboden, die Wände … Ich sage Ihnen dies voraus:
+Es wird der Versuch gemacht werden, Janzen Rasch zu
+töten.«
 
-Dann lehnten Sie hier meins Pistole … — Felsen Sie
-auf das Verlange der Kammer, achten Sie auf die
-Dr Fußenden, Sie Bande … Ich sage Ihnen dies voraus:
-Es mied der Versuch gemacht werden, Janzen Rasch zu
-dort ne …
+Murfy lächelte jetzt. »Oh, — meine Nerven sind gut,
+und ich werde aufpassen wie … Sie, Mr. Harst.«
 
-Wurst kitzelte jetzt. — »Ah, —ck meine Nerven sind gab
-und 14 werde aufpassen wie « … « Eile, Mr. Harst.« —
+Wir gingen, er schloß hinter uns ab.
 
-Wir gingen, er los bitter uns ab.
+Drei Stunden später war er eine Leiche. Aber Janzen
+lebte. — —
 
-Dja Staaten Spuren war er eine Leiche. Aber Janzen.
-Loses, wem —: Narr:
-
-Ich mal hier nun?uns die Luaxuskabinen im OHDiatershiff
-uns? Deren Auge und Ausstattung schildern. Der Leser
-wird diese Unterbrechung des Sultans der Handlung Nie.
-Herr: sehen, aber die Ereignisse auf der Jacht sind für die
-späteren Vorfälle auf über Plantage « Buid Jaspers vor!6
-a. Sschlaggebender Bedeukur:g, Daß ich wie stets mit dieser
-Schilderung von Räumlichkeiten den Zweck verließen kann,
-meine Freunde und Leser wieder einmal zu selbständigem.
-Denken anzuregen. Ich betone hier sein: der Schlüssel zu
-dem großen Rätsel, das ich »Herr von Malvetta« betitelt
+Ich muß hier nun kurz die Luxuskabinen im Hinterschiff
+und Deren Lage und Ausstattung schildern. Der Leser
+wird diese Unterbrechung des Fortgangs der Handlung ungern
+sehen, aber die Ereignisse auf der Jacht sind für die
+späteren Vorfälle auf über Plantage Buid Jaspers von so
+ausschlaggebender Bedeutung, Daß ich wie stets mit dieser
+Schilderung von Räumlichkeiten den Zweck verbinden kann,
+meine Freunde und Leser wieder einmal zu selbständigem
+Denken anzuregen. Ich betone hier schon: der Schlüssel zu
+dem großen Rätsel, das ich »Hexe von Malvetta« betitelt
 habe, ist unschwer zu finden, wenn man dieses Abenteuer
-von Anfang an aufmerksam liest. Kleinigkeiten: drängen sich
+von Anfang an aufmerksam liest. Kleinigkeiten drängen sich
 schließlich zu diesem »Schlüssel« zusammen, und selbst ein
-gefiederten Räuber in den Lüften ist nicht Kinder vor den
-treissidjeren Schuß sorgfältiger Kombinationen, —
+gefiederten Räuber in den Lüften ist nicht sicher vor dem
+treffsicheren Schuß sorgfältiger Kombinationen, —
 
-Das Achterschiff enthielt seit Kabinen, Bad und zwei
+Das Achterschiff enthielt sechs Kabinen, Bad und zwei
 Dienerkammern. Je zwei der Kabinen hatten Verbindungstüren
 in den Zwischenwänden. Wenn man die Achtertreppe
-hinabkam, log linker Hand zuerst das luxuriöse Bad nebst
-zwei Leisten mit besonderen Eingängen. Dann folgten
-zwei /Kabinen, die wir bewohnten. Ihnen gegenüber lagen
-die Buid Lagert. 5 und s standen leer, ebenso die Dienste —
-Kammern, denn Jasper bitte auch nicht einen abreisen seiner
-zahllosen indischen Diener mit nach Europa genommen,
-Tau weiß ja, wie verwöhnt die Sahibs« in Indien
+hinabkam, lag linker Hand zuerst das luxuriöse Bad nebst
+zwei Toiletten mit besonderen Eingängen. Dann folgten
+zwei Kabinen, die wir bewohnten. Ihnen gegenüber lagen
+die Buid Jaspers. 5 und 6 standen leer, ebenso die Dienerkammern,
+denn Jasper hatte auch nicht einen einzigen seiner
+zahllosen indischen Diener mit nach Europa genommen.
+Man weiß ja, wie verwöhnt die Sahibs« in Indien
 <@pagebreak/>
 sind, was Personal anbetrifft. Es gehört zum guten Ton,
-mindestens fünf by? sei Diener, Pol) und Chauffeur zu
-halten. Es wo: ein gutes Zeichen für Buids VBescheideansyeit
-und. Anspruwsiviigkeit, daß eile vollständig auf jede Weg
-Biegung verzichtet hatte, Da war sogar der behäbige Kapitän
-Broox schon weit verwöhnter, Er hatte darauf bestanden,
+mindestens fünf bis sechs Diener, Koch und Chauffeur zu
+halten. Es war ein gutes Zeichen für Buids Bescheidenheit
+und Anspruchslosigkeit, daß er so vollständig auf jede Bedienung
+verzichtet hatte. Da war sogar der behäbige Kapitän
+Broox schon weit verwöhnter. Er hatte darauf bestanden,
 daß für die Jacht zwei Stewards angeheuert wurden. Der
 erste Steward war Janzen, Der zweite ein Holländer, auch
 ein junger Kerl, nur allzu pomadig. Außerdem hatte Broox
-ja auch für seine eigene Person von Pranati 4:17 Berfügpug.
+ja auch für seine eigene Person noch Pranati zur Verfügung.
 — Was nun die Ausstattung der Kabinen betrifft: Sie war
-luxuriös, es fehlte Jan nachts, alle modernen Errunge:!tschaften
+luxuriös, es fehlte an nichts, alle modernen Errungenschaften
 der Technik hatte die Werft in Bombay für die Jacht
 herangezogen: Fließendes warmes und kaltes Wasser in den
-Schlafräumen, tadellose Ventilation, Sqchlingerkoien, Helles
-oben zum Steward und Kapitän, Radioanschlüsse für Lautsprecher
-— — mußte fehlte. Jedenfalls hatten wir so Ponys
+Schlafräumen, tadellose Ventilation, Schlingerkojen, Telephon
+zum Steward und Kapitän, Radioanschlüsse für Lautsprecher
+— — nichts fehlte. Jedenfalls hatten wir so pompös
 noch nicht gewohnt, —
 
-… Als wir nun kurz lieh fünf Uhr morgens unsere
+Als wir nun kurz nach fünf Uhr morgens unsere
 Doppelkabine 1 und 2 betraten, fanden wir dort den zweiten
-Steward vor, der als Vertreter Janzens unsere Betten im
-Wohnung steckte, Dieser semmelblonde pauöSboFige Jan Zeerten
+Steward vor, der als Vertreter Janzens unsere Betten in
+Ordnung brachte. Dieser semmelblonde pausbäckige Jan Zeerten
 hatte mir sofort nicht recht gefallen. Er war für meinen
 Geschmack zu kriecherisch, zu unterwürfig. Bei der Besatzung
-ließ er allgemein nur »Die Elster«, denn sein Name
-Zeerten erinnerte an den indische na Ausdruck für den über
-ganz Indien verbreiteten Altarähnlichen Vogel, die Zeichen,
+hieß er allgemein nur »Die Elster«, denn sein Name
+Zeerten erinnerte an den indischen Ausdruck für den über
+ganz Indien verbreiteten elsterähnlichen Vogel, die Zeretea,
 ein Tier, das nur in Schwärmen auftritt und ebenso diebisch
 wie räuberisch und angriffslustig ist. In den Dschungeln
-Zentralindiens bringen es die Geraten«—Schwärme fertig, sogar
+Zentralindiens bringen es die Zeretea-Schwärme fertig, sogar
 Affenherden zu überfallen und jüngeren Affen die
-Rügens auszulachen und die armen blinden Geschöpfe nach
+Augen auszuhacken und die armen blinden Geschöpfe nachher
+zu zerfleischen.
 
-her zu zerfleischen.
 Auch Harald war dieser Jan Zeerten wenig sympathisch.
 <@pagebreak/>
-er Mann war allzu Akku und schien irgendwie ist. sehr
-letztes Gewissen zu haben:
+Der Mann war allzu scheu und schien irgendwie ein sehr
+schlechtes Gewissen zu haben.
 
 »Wecken Sie uns um halb zehn,« befahl Harst und
-nickte den Steward hinaus, der sich ganz überflüssigerweise
-Wagen Roch ix der Schlafkabine umperdrückie,
+schickte den Steward hinaus, der sich ganz überflüssigerweise
+immer noch in der Schlafkabine umherdrückte,
 
-»Eine aller Patron,« meinte Harald und vperriegelte
-sollten. »Durchsuchen wir erst mal die »Kabinen …
-Sir wollen nichts voerfäumer, unser Leben zu Schüssen.
-linke und ik nur das, mehr Unter, was unbedingt Haralds
-ist, Der Messerwerfer muß uns genügend Uneinig
+»Eine übler Patron,« meinte Harald und verriegelte
+die Türen. »Durchsuchen wir erst mal die Kabinen …
+Wir wollen nichts versäumen, unser Leben zu Schützen.
+Trinke und iß nur das, mein Alter, was unbedingt harmlos
+ist. Der Messerwerfer muß uns genügend Warnung
 ein.«
-»Den hast du in Verdacht? fragte ich. »Glaubst tun
-sichtlich, daß Lord Cecil Greengil und sein Sekretär sehr
-ragwürdige Leute hier zu Bord gebracht haben?«
 
-Harsts durchwühlte gerade die Betten. »Ich weiß »9 bin
+»Wen hast du in Verdacht?« fragte ich. »Glaubst du
+wirklich, daß Lord Cecil Greengil und sein Sekretär sehr
+fragwürdige Leute hier an Bord gebracht haben?«
 
-rinnt. Die sechs Matrosen, die in London desertierten« Und
-ein Sir Baranc bestochen worden. Baranc konnte dann andere
+Harsts durchwühlte gerade die Betten. »Ich weiß es bestimmt.
+Die sechs Matrosen, die in London desertierten, sind
+von Sir Baranc bestochen worden. Baranc konnte dann andere
 Leute freundlichst besorgen, und diese seine sechs Kreaturen
 verdienen Beachtung.«
-»Also war einer von ihnen der Messerwerfer …, Tu’ —
-wollte mir vor dem Schlafengehen die Zähne außen
-und mischte lauwarmes Wasser in einem Glase, wobei 14
+
+»Also war einer von ihnen der Messerwerfer …?« —
+Ich wollte mir vor dem Schlafengehen die Zähne putzen
+und mischte lauwarmes Wasser in einem Glase, wobei ich
 die Hähne der Waschbecken benutzte.
 
 Harst blickte nach mir hin. Ich tauchte die Zahnbürste
 in das Glas — nein, ich wollte es tun.
 
-»Gestalt mal …!« Harald nahm mir das Glas aus
-der Hand und hielt es gegen das Licht der Deckenlampen,
-»Ziemlich trübe, finde ich …!« Er roch in das Platz bin«
-ein … »Gib doch mal aus unserer Reiseapotheke einen
+»Gestatte mal …!« Harald nahm mir das Glas aus
+der Hand und hielt es gegen das Licht der Deckenlampe.
+»Ziemlich trübe, finde ich …!« Er roch in das Glas hinein
+… »Gib doch mal aus unserer Reiseapotheke einen
 Streifen Lackmuspapier her … Es wäre ja die einfachste
 Art, die Kulturangewohnheit des Zähneputzens vor dem Zubettgehen
 zu einer kleinen Vergiftung zu benutzen … Man
-braucht nur in die Kräne irgendein Gift in die Zunenswandung
-zu reiben, und … — — aha, das Lackmus«
-Papier wird hellgrün … Ich kenne nicht alle Gifte, daß
+braucht nur in die Kräne irgendein Gift in die Innenwandung
+zu reiben, und … — — aha, das Lackmuspapier
+wird hellgrün … Ich kenne nicht alle Gifte, daß
 <@pagebreak/>
-aber dieses Wasser in deinem Glase dir ins Jenseits- verholfen
-hätte, ist hier. Klingle mal nach) der Steward,«
+aber dieses Wasser in deinem Glase dir ins Jenseits verholfen
+hätte, ist sicher. Klingle mal nach dem Steward,«
 
-Mein Gesicht sah im Spiegel Eis wenig blaß aus,
+Mein Gesicht sah im Spiegel ein wenig blaß aus,
 
-Die Elster kam. Harald halte das Glas noch? ix: der
-Hand. »Sagen Sie mal, Jan, was ist denn heute war! der
-Wasserversorgung lose! Grinsen Sie mal, … Tag Wasser
+Die Elster kam. Harald hatte das Glas noch in der
+Hand. »Sagen Sie mal, Jan, was ist denn heute mit der
+Wasserversorgung los?! Schmecken Sie mal … Das Wasser
 schmeckt scheußlich.«
 
-Jan Zeerten wollte trinken, Er hätte auch bestimmt geh
-
-trunken, aber Harald ließ es nicht dazu kommen. »Schon
-gut … — wir werden die Traue von hätten säubern …
+Jan Zeerten wollte trinken. Er hätte auch bestimmt getrunken,
+aber Harald ließ es nicht dazu kommen. »Schon
+gut … — wir werden die Kräne von innen säubern …
 Gute Nacht, Jan.«
-— Als Jan verschwunden, erklärte Harst, indem er das
-Wasser ausgoß und beide Hähne aufknotete und eine Weile
-Taufen ließ: »Jan war es nicht, der diesen TeufelöstreiH
+
+Als Jan verschwunden, erklärte Harst, indem er das
+Wasser ausgoß und beide Hähne aufdrehte und eine Weile
+laufen ließ: »Jan war es nicht, der diesen Teufelsstreich
 vorbereitet hat …«
 
-»Also einer der sechs Neuen …-«
+»Also einer der sechs Neuen …«
 
-»Vielleicht …««
+»Vielleicht …«
+
 Das Wasser war jetzt einwandfrei. Wir legten uns
-
 nieder. Das Licht blieb brennen, und die Pistolen hatten wir
-auf den Schlafdecken liegen. — Ha’ist war im Nu eingeschlummert.
+auf den Schlafdecken liegen. — Harst war im Nu eingeschlummert.
 Ich selbst — — keine Rede davon! Mir ging
 so vieles durch den Kopf. Dieser satanische Gedanke, uns
 so zu vergiften, bewies, mit was für raffinierten Gegnern
-wir es zu tun hatten. — Ich dachte zu Gerda Gandel …
+wir es zu tun hatten. — Ich dachte an Gerda Gandel …
 Armes Mädel … Sie liebte Buid, sie hatte sein Bild
 in dem Roman verborgen gehabt, sie war aus Liebe an Bord
 gekommen und spielte hier Pranati, den Stummen. Ihre
-glänzende Maske, besonders die durch Wattestöpsel vorn«-
-stattete Nase und die Brille, mochten wohl Ideen Kapitän
-Broox’ Sein, denn Broox war mit allen Salben gesalbt. Er
-Gotte in Bombay den Ruf eines Draufgängers, eines Zigarren
-
+glänzende Maske, besonders die durch Wattestöpsel verunstaltete
+Nase und die Brille, mochten wohl Ideen Kapitän
+Broox’ sein, denn Broox war mit allen Salben gesalbt. Er
+hatte in Bombay den Ruf eines Draufgängers, eines smarten
 Seemanns. — Ja — arme Gerda …! Wie glücklich hätte
 sie mit Buid werden können, wenn nicht dieses unselige
 Verhängnis gewesen wäre, das auch Jasper bedrohte. Wie
-Sollte sie einen solchen Mann heiraten und an seiner Seite —
+Sollte sie einen solchen Mann heiraten und an seiner Seite
 <@pagebreak/>
-groß werden, wo ihm doch das Zeichen des raschen Todes
-Chor zunsichtbar auf der Stirn stand?! — Ihr Verschwinden
+froh werden, wo ihm doch das Zeichen des raschen Todes
+schon unsichtbar auf der Stirn stand?! — Ihr Verschwinden
 war nun aufgeklärt. Aber übergenug anderes war noch
-dunkel und unklar und quälte im! mit tausend zahllosen
+dunkel und unklar und quälte mich mit tausend haltlosen
 Kombinationen. Ich überlegte mir, weshalb wohl Lord Greengil,
 falls er ein Heuchler und Buids Feind sein sollte, bisher
-lediglich eine hochmütige Abneigung gegen Jasper des
-kündet hatte, — denn »arm Grunde war Mylord ja nach
+lediglich eine hochmütige Abneigung gegen Jasper bekundet
+hatte, — denn im Grunde war Mylord ja nach
 Gerdas Wiederauftauchen nicht anderes vorzuwerfen als
-diese Briefe und Veieffälscdzungen und das ebenfalls gefälschte
+diese Briefe und Brieffälschungen und das ebenfalls gefälschte
 Telegramm, das die Jacht nach London gelockt hatte,
 damit dort die sechs Leute an Bord geschmuggelt werden
 könnten. Käme allerdings auf Greengils Konto auch dieser
-Mordversuch des Messerwerfers und jetzt diese fast uns
-heimlidge Giftmischerei an den « Wasserrinnen, ließe sich
-ferner nachweisen, daß die indische -Linie der Greengils etwa
-ebenfalls durch; den Lord derart schreckenerrdgend trainiert
+Mordversuch des Messerwerfers und jetzt diese fast unheimliche
+Giftmischerei an den Wasserhähnen, ließe sich
+ferner nachweisen, daß die indische Linie der Greengils etwa
+ebenfalls durch den Lord derart schreckenerregend dezimiert
 worden war, daß also die Todesfälle der männlichen indischen
 Greengils Verbrechen waren, dann gewann die Angelegenheit
 ein völlig anderes Aussehen. Nur — die eine Frage blieb
-absolut dunkel und unbegreiflich: Weshalb ließ, einer der
-reichsten, vornehmsten Scheltende Englands sich auf ein so
+absolut dunkel und unbegreiflich: Weshalb ließ einer der
+reichsten, vornehmsten Edelleute Englands sich auf ein so
 brutales, mörderisches Spiel ein?! Nur aus Haß gegen das
-!alt Blitz der indischen Linie?! — Ring »man alledem
-geschäftig spürend weiter nach, so, stürzten Immer neue
-Fragen ’auf, die mir geradezu das Hirn erhitzten und jeden
+farbige Blut der indischen Linie?! — Ging man alledem
+sorgfältig spürend weiter nach, so tauchten Immer neue
+Fragen auf, die mir geradezu das Hirn erhitzten und jeden
 Schlaf von meinen Lidern scheuchten. Wer hatte in Buids
 Geburtsschein das Datum geändert, wer hatte dasselbe auf
-den drei Schreiben von Buids Mutter gesagt! — Es gab
+den drei Schreiben von Buids Mutter getan?! — Es gab
 dafür schon eine Antwort, — nämlich die: Buid Jasper sollte
 durch die Fälschungen der Daten hinsichtlich des kritischen
 Zeitpunktes seines Lebens getäuscht werden. Dieser Zeitpunkt
 war durch die Korrekturen der Daten um zwei Jahre
-zurückversetzt worden, und Halb würde daher erst nach
-zwei Jahren besonders mißtrauisch; und vorsichtig geworden
+zurückversetzt worden, und Buid würde daher erst nach
+zwei Jahren besonders mißtrauisch und vorsichtig geworden
 <@pagebreak/>
-sein, während er in Wahrheit noch den bisherigen »Redete
-fällen« nur noch einen Monat zu leben hatte. Vielleicht —
-vielleicht weilte man ihn also durch diese Fälschungen in
-
+sein, während er in Wahrheit nach den bisherigen »Todesfällen«
+nur noch einen Monat zu leben hatte. Vielleicht —
+vielleicht wollte man ihn also durch diese Fälschungen in
 Sicherheit wiegen, vielleicht … — und da schaltete ich all
-diese Beamten gewaltsam aus und drehte mich auf die
-andere Seite und begann … zu zählen, um endlich einzuschlafeä«.
-ich zählte bis 105, —« — und dann machten
-
+diese Gedanken gewaltsam aus und drehte mich auf die
+andere Seite und begann … zu zählen, um endlich einzuschlafen.
+ich zählte bis 105, — — und dann machten
 meine Gedanken doch wieder den Sprung rückwärts, und ich
 fragte mich: Waren wir beide Seiner Lordschaft als Sachwalter
 und Helfer Buids so unangenehm, daß auch wir
 sterben sollten?! Fürchtete er, daß wir diese zahlreichen
-Morde aufdecken kommend! Und — ich antwortete mir selbst
+Morde aufdecken könnten?! Und — ich antwortete mir selbst
 mit einem klaren Ja!
 
-Dieses »Ja« war aber auch der vorläufige Schluß meinten
-geistigen Wasserlache, dem Kern der Dinge näherzukommen,
-denn ei Bescheid etwas«
+Dieses »Ja« war aber auch der vorläufige Schluß meiner
+geistigen Tastversuche, dem Kern der Dinge näherzukommen,
+denn es geschah etwas …
 
 Es … geschah etwas …
 
 Eine Kleinigkeit … Hätte ich geschlafen, wären wir
-beide vielleicht nach Stunden genau so starr und steif aufs
-gefunden worden, wie der junge Doktor Murfy, den Harald
-vor nachdrücklich gewarnt hatte.
+beide vielleicht nach Stunden genau so starr und steif aufgefunden
+worden, wie der junge Doktor Murfy, den Harald
+so nachdrücklich gewarnt hatte.
 
-Was geschieht
+Was geschah?
 
-Mein: Bett stand so, daß ich die Tür zum Kabinetts
-921 gerade vor mir hatte. Ich hörte ein winziges liefen
-
-« nein, ein metallisches Kreischen, als ob Metall auf Metall
-sich nicht. Ich starrte scharf auf die Tür. Von dort der kam
+Mein Bett stand so, daß ich die Tür zum Kabinengang
+gerade vor mir hatte. Ich hörte ein winziges Klirren
+— nein, ein metallisches Kreischen, als ob Metall auf Metall
+sich rieb. Ich starrte scharf auf die Tür. Von dort her kam
 das Geräusch.
 
-Sechs hatte im Nu die Brille aufgesetzt, den Kopf gehoben,
-die Pistole gepackt … Du) das Schlüsselloch) über dem
-Regel schob sich an dem von innen steckenden Schlüssel
+Ich hatte im Nu die Brille aufgesetzt, den Kopf gehoben,
+die Pistole gepackt … Durch das Schlüsselloch über dem
+Riegel schob sich an dem von innen steckenden Schlüssel
 vorüber (unten, wo der Schlüsselbart zur Seite gedreht
-war) eine lange, blanke dicke Nadel herein …-
+war) eine lange, blanke dicke Nadel herein …
 
-Die lange Spitze einer Nickelspritze
+Die lange Spitze einer Nickelspritze …
 
 Ich zögerte nicht eine Sekunde … Ich zielte, schoß …
-brüte viermal ab, …
+drückte viermal ab …
 
 <@pagebreak/>
 Harst schnellte hoch …
@@ -1142,60 +1147,56 @@ Draußen ein leiser Schrei …
 
 Harst riß die Tür auf …
 
-Der Gang war leer … Keine Futteral — — nicht …
+Der Gang war leer … Keine Blutspur — — nichts …
 
 Ich rannte im Schlafanzug die Treppe empor. Harald
 durchsuchte die leeren Kabinen und wollte Buid herausklopfen.
-Auf dem Scheitel (es war schon heller Lag)
-scheiterten drei Leute die Planken. Es waren Matrosen, die
-in Bombay angeheuert« waren, nicht in Befinden, Sie hatten
+Auf dem Achterdeck (es war schon heller Tag)
+scheuerten drei Leute die Planken. Es waren Matrosen, die
+in Bombay angeheuert waren, nicht in London. Sie hatten
 niemand gesehen. Auf ihre Aussage war Verlaß. Sie hätten
-den Ahnst sehen müssen. Ich eilte wieder die Treppe hinab.
+den Schuft sehen müssen. Ich eilte wieder die Treppe hinab.
 
 Buid lehnte verstört in seiner Kabinentür, und Harald
 erzählte ihm das Geschehene,
 
 »Jasper,« sagte er leise, »der Kerl mit der Spritze, der
 uns mit Blausäure eine Munddusche verabfolgen wollte —
-dort vor unserer Tür … liegen drei Tropfen Blausäure —,
-kann nur durch den Tresorraum geflüchtet sein. -Schraut
+dort vor unserer Tür liegen drei Tropfen Blausäure —,
+kann nur durch den Tresorraum geflüchtet sein. Schraut
 hat ihn sicherlich mit einer Kugel angeschrammt. Die Kugeln
-haben die Tür glatt durchschläden. Broox, bat die vier
-Ghblüssel zu den beiden Türen »des Tresorraumes. Gehen
+haben die Tür glatt durchschlagen. Broox hat die vier
+Schlüssel zu den beiden Türen des Tresorraumes. Gehen
+wir zu Broox.« —
 
-wir zu Broox.«
+Der behäbige Kapitän war anscheinend soeben aus dem
+Bett geklettert und rasierte sich an dem einen Fenster, hatte
+sich aber an der linken Wange böse geschnitten und suchte
+die Blutung durch Eisenchloridwatte zu stillen,
 
-Der behäbige e Februar war anscheinend soeben aus dem
-Bett geklettert und rasierte. sich an dem einen Fenster, Barte
-sich oder an der linken Wange böse geschnitten und suchte
-die Blutung durch; Eisenealoridwatte zu stillen,
-
-Er: schaute uns erstaunt an und meinte zu Buid: »Mr.
+Er schaute uns erstaunt an und meinte zu Buid: »Mr.
 Jasper, wenn Sie auch Besitzer der Jacht sind: Ich bin
 Kapitän, und meine Kajüte betritt niemand, ohne vorher
-
 anzuklopfen … Das verbitte ich mir.«
+
 Sein braunes Gesicht zuckte vor Wut, und seine Augen
-
 funkelten uns drohend an,
+
 Das war eben der wahre Broox, der Draufgänger, der
+Schmuggler, der Abenteurer …
 
-Schmuggler, der Abenteurer
-In Bombay hieß er nur Broox, der Falke, Das hätte
-
-uns Buid mal erspäht!?.
+In Bombay hieß er nur Broox, der Falke. Das hätte
+uns Buid mal erzählt.
 
 <@pagebreak/>
 Der Falke blutete.
+
 Wir hatten zwei saubere Vögel an Bord — außer den
+sechs Londonern: Ihn und Jan Zeerten, die Elster
 
-sechs Landsmann: Ihn und Jan Bereisen, die Elster
+<h2>5. Kapitel,</h2>
 
-3
-
-5\. Kapitel,
-
-Der Tresorraum.
+<h3>Der Tresorraum.</h3>
 
 Kapitän Harry Broox hielt die Watte gegen die Klinke
 Wange gyep;eßt und … handelte mit einem Male. »Gent«-
@@ -2276,7 +2277,7 @@ vielfachen Geräuschen des anbrechender Tages, die von
 draußen hereindrangen … Ich hörte sie, aber in meinen
 Ohren klang immer nur ein Name … ein Name …
 
-Als ich endlich müde ward, als ihm entschluminerte, sah
+Als ich endlich müde ward, als ihm entschlummerte, sah
 ich im Traume eine Motorradlerin: durch?) die Gassen von
 Block Town sausen, — — sah ich, wie Gerda Gandel einen
 Mann aus den Händen chdhinesisczer Wegelagerer befreite … « …
@@ -2296,7 +2297,7 @@ hie Fall hatte Harald sie als ’geichnitken … — »ich!! 66
 Als wir beide gegen ein Uhr frühstückten … war Buid
 Jasper bereits vor Stunden »zu Gurt Besichtigung vor Arm-.
 brav-Bottiche davongeritten, Die Indigopflaltzeun. »werden des
-Sämtlich elngewässert, ins der »Feuchtes wird auf chckmischem
+Sämtlich eingewässert, ins der »Feuchtes wird auf chckmischem
 Wege entzogen. Wir deine saßen. also allein, Mutter.
 Veranda, deren mattes schräges Glasdach- ’andauernd. von
 Wasser überträgt wurde, während im Warten!« mindestens
