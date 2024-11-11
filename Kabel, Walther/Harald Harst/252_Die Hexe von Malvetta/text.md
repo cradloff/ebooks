@@ -1198,201 +1198,205 @@ sechs Londonern: Ihn und Jan Zeerten, die Elster
 
 <h3>Der Tresorraum.</h3>
 
-Kapitän Harry Broox hielt die Watte gegen die Klinke
-Wange gyep;eßt und … handelte mit einem Male. »Gent«-
-sonstigen Sie mir Gröbsten, Mr. Langer, aber Ihr Eins
-Ei Augen hat mich Geschnellt, und vieles verdammte Rasiermesser
-ist auch nur nach gut zum Kartoffelschälen …
+Kapitän Harry Broox hielt die Watte gegen die linke
+Wange gepreßt und … lächelte mit einem Male. »Entschuldigen
+Sie mir meine Grobheit, Mr. Jasper, aber Ihr Eindringen
+hat mich erschreckt, und dieses verdammte Rasiermesser
+ist auch nur noch gut zum Kartoffelschälen …"
 
-Er stand mitten Rücken nach der: Fenster hin, Größe
-kam bemerkte ich den etwas lauernden Bai, mit dem er
+Er stand mit dem Rücken nach dem Fenster hin, trotzdem
+bemerkte ich den etwas lauernden Blick, mit dem er
 Haralds Gesicht streifte.
 
-Freund Buid benahm Mich sehr verständig.
+Freund Buid benahm sich sehr verständig.
 
-»Broox, Ehre Gold. ich! übersehe ich, nicht X aber d4a3 ans
-
-jene … Und das mag Harst Ihnen sagen. Er versteht mehr
+»Broox, Ihre Grobheit übersehe ich, nicht aber das andere
+… Und das mag Harst Ihnen sagen. Er versteht mehr
 davon.«
-»Wovon?« fragte der stimmige Kapitän stirnrunzelnd,
-»Zum Teufel noch in. !, «— reden Sie hier nicht in Rätseln,
-Mr, Jahren. Ich Hitze 069 mein Lasso hing mit bist Offene
-heilt ach Wien. Man kommt damit am wo. hielten, schätze ich,
-wenn sie Brett zuweilen auch Umstände Gegenden können,
-wo men TPDipl-mal sein muß und die Sprache aus dazu
-dient, die G?»ganzen zu verbergen.«
 
-»Dr haben Sie recht,« nickte Harald und wandte »sich
-geh; links: alte« breite Schreibtisch stand. Davor war ein
-Teppich ausgebreitet, der j’do) nicht ganz bis an den
-Tisch reichte. Ein schmäler Streifen der sollen, gewichsten
-Fielen war sichtbar. Leiter auch ein paar Tropfen »auf diesen
-Sollen. Harst bückte sich und verti’b einen Tropfen mit
-dem Zeigefinger, Fährte diesen an die Nase und hielt ihn
-dann Buid hin. »Kennen Sie das?!« ’meiiite er ernst,
+»Wovon?« fragte der stämmige Kapitän stirnrunzelnd.
+»Zum Teufel noch mal, — reden Sie hier nicht in Rätseln,
+Mr. Jasper. Ich habe es mein Leben lang mit der Offenheit
+gehalten. Man kommt damit am weitesten, schätze ich,
+wenn sich freilich zuweilen auch Umstände ergeben können,
+wo man Diplomat sein muß und die Sprache nur dazu
+dient, die Gedanken zu verbergen.«
+
+»Da haben Sie recht,« nickte Harald und wandte sich
+nach links, wo der breite Schreibtisch stand. Davor war ein
+Teppich ausgebreitet, der jedoch nicht ganz bis an den
+Tisch reichte. Ein schmäler Streifen der hellen, gewichsten
+Dielen war sichtbar. Leider auch ein paar Tropfen auf diesen
+Dielen. Harst bückte sich und verrieb einen Tropfen mit
+dem Zeigefinger, führte diesen an die Nase und hielt ihn
+dann Buid hin. »Kennen Sie das?!« meinte er ernst,
 <@pagebreak/>
+
 Jasper prallte zurück
 
-»Herr Welt, — — »Grausamen« rief er und wich Eid
-zur Tür Zugang.
+»Herr Gott, — — Blausäure!!« rief er und wich bis
+zur Tür zurück.
 
-Harry Broox fragte bissig: »An; tun — — Blausäure?k
-Wie. wollt!- die wohl die ja.
+Harry Broox fragte bissig: »Unsinn — — Blausäure?!
+Wie sollte die wohl hier in ..."
 
-»Es ij« Blausäure, Kapitän, « erklärte Harald seetüchtig
-freundlich. »Augen Sie mal, Werd’ gen Sie eine Nickelspritze
-mit seht langer Metallspitze, Bechert«
+»Es ist Blausäure, Kapitän, « erklärte Harald verdächtig
+freundlich. »Sagen Sie mal, besitzen Sie eine Nickelspritze
+mit sehr langer Metallspitze, Broox?«
 
-»Im — so’n Ding mag im Nie. fernhalten liegen — von
-möglich; — — « Was stille ich mit einer Kapitel! Ich dies
-nie! Morphinist, Lohn grunzt ein anständiger Rum 9b€y
-Kognak. Ich habe meine Nerven allzeit geschaut
+»Hm — so’n Ding mag im Medizinkasten liegen — schon
+möglich — — Was sollte ich mit einer Spritze?! Ich bin
+nicht Morphinist. Mir genügt ein anständiger Rum oder
+Kognak. Ich habe meine Nerven allzeit geschont ..."
 
-Buid Spiegel schien Tiere Szene Überaus widerwärtig.
-zu sein. Er trat wieder. zwei Rannte vor, »Trotz, ich
-möchte die Sogleich zu den Türen des Iresyrraunmes fett,
-… Eben Sie sie her. Ich werde sie an mich neixuen.«
+Buid Jasper schien diese Szene Überaus widerwärtig
+zu sein. Er trat wieder zwei Schritte vor. »Broox, ich
+möchte die Schlüssel zu den Türen des Tresorraumes sehen
+… Geben Sie sie her. Ich werde sie an mich nehmen.«
 
 Der Kapitän kniff die Augen klein. Seine wulstigen
-Züge färbten sich noch dunkler … Er g’iff zögernd in der
-holbofjenen Ausschnitt seines Breites Eltern und zog eine
-rote Kanu hervor, an der die vier schmalen »Patentschlüssel
-Augen.
-du« Bitte … «. Er zog die Schnur über den King, dabei
-fiel die Eisenchloridwatte herab, er Güte sich hastig, preg’e
-die Watte wieder auf die Nr) Blutrache Stelle und leitete die
-Schlüssel mit der anderen Hand Burg Langer, der zögernd
+Züge färbten sich noch dunkler … Er griff zögernd in der
+halboffenen Ausschnitt seines Hemdes hinein und zog eine
+rote Schnur hervor, an der die vier schmalen Patentschlüssel
+hingen.
 
+«Bitte …« Er zog die Schnur über den Kopf, dabei
+fiel die Eisenchloridwatte herab, er bückte sich hastig, preßte
+die Watte wieder auf die blutende Stelle und reichte die
+Schlüssel mit der anderen Hand Buid Jasper, der zögernd
 bemerkte:
-»WeIahalb tragen Sie. sie auf der Brust?kt Das war
 
-doch, ’bizler nicht üblil) … +
-»da trage sie da, wo sie am besten aufgehalten sind …
-brüllte Broox in jäher Wut los. »Was soll das abseits
-Dame … das macht ja ganz den Eindruck, als ob ich
-etwa …« — er hüstelte, verstummte, zuckte die Achseln …«
-Harst war an das Wandbrett« getreten, das rechts neben
+»Weshalb tragen Sie sie auf der Brust?! Das war
+doch, bisher nicht üblich …"
+
+»Ich trage sie da, wo sie am besten aufgehoben sind,"
+brüllte Broox in jäher Wut los. »Was soll das alles?!
+Das … das macht ja ganz den Eindruck, als ob ich
+etwa …« — er hüstelte, verstummte, zuckte die Achseln …
+
+Harst war an das Wandbrett getreten, das rechts neben
 der Tür hing. Es hatte drei lange Abteilungen, die mit
 <@pagebreak/>
-Büchern gefällt waren. Ein grün seidener Vorhang verdeckte
+Büchern gefüllt waren. Ein grünseidener Vorhang verdeckte
 es halb.
 
-»Sie lieben Kriminalromane, Kapitän … —. Ich sehe der
-so ziemlich alle Bände Wallace der englischem Vriginalausggabe
+»Sie lieben Kriminalromane, Kapitän … Ich sehe hier
+so ziemlich alle Bände Wallace der englischem Originalausgabe
 … Erleben Sie gern Kriminalfälle in Gedanken mit?
-Oder stellen Sie hinter den Nüchtern immer Flaschen aufs!«
+Oder stellen Sie hinter den Büchern immer Flaschen auf?!«
 
-Er zog ein braunes Fläschehzen mit Glasstöpsel aus dem
+Er zog ein braunes Fläschchen mit Glasstöpsel aus dem
 Versteck hervor.
 
-… »Treuer, das ist … Blausäure … Es ist sehr vielsagend,
-daß das Fläschchen in so trauter Nähe von »Vorlage
-gefunden wird … Wallace ist modern … Aber eine Eierspeise
-ist ist veraltet. Besser verliehen das vergiftete Mundwasser
-…
+»Broox, das ist … Blausäure … Es ist sehr vielsagend,
+daß das Fläschchen in so trauter Nähe von Wallace
+gefunden wird … Wallace ist modern … Aber eine Giftspritze
+ist veraltet. Besser war schon das vergiftete Mundwasser
+…"
+
 Harry Broox lachte kurz auf. »Ich bin nicht gerade auf
-da Kopf gefallen, Mr. Harst. Wessen beschuldigen Sie
+den Kopf gefallen, Mr. Harst. Wessen beschuldigen Sie
 mich?!«
+
 Harald setzte sich in den Schreibtischstuhl. »Ich bin hier
-Gast ein Bord, Kapitän. Buid Jasper ist Besitzer der Imalla.
-—» Bitte, mein lieber Buid, an Ihnen ist es, Broox das Gtkschebene
+Gast an Bord, Kapitän. Buid Jasper ist Besitzer der Imalla.
+— Bitte, mein lieber Buid, an Ihnen ist es, Broox das Geschehene
 vorzuhalten.«
 
 Jasper erklärte widerwillig: »Ich … ich habe Ihnen
-bisher volles Vertrauen geschenkt … Arm habe auch bisher
-verschwiegen, daß ich das indische Durchmesser, das Harst beinahe
+bisher volles Vertrauen geschenkt … Ich habe auch bisher
+verschwiegen, daß ich das indische Wurfmesser, das Harst beinahe
 die Schlagader durchschnitt und den armen Janzen fast
-tötete, Ihnen gehört … 34 Gab es einmal zufällig in
-Ihrer Cchreidtischschublade +… Ich will keineswegs Des
-kannten, daß Sie
+tötete, Ihnen gehört … Ich sah es einmal zufällig in
+Ihrer Schreibtischschublade … Ich will keineswegs behaupten,
+daß Sie ..."
 
-Broox war mit einem Saß dicht vor ihm.
+Broox war mit einem Satz dicht vor ihm.
 
 »Wie — — wollen Sie etwa andeuten, daß … daß
-
-—» die ungeheure Erregung ließ ihn nicht weitersprechen.
-Seine Stimme überschlug sie. Im Au hatte er
+...<< — die ungeheure Erregung ließ ihn nicht weitersprechen.
+Seine Stimme überschlug sich. Im Nu hatte er
 sich wieder in der Gewalt … »Das alles ist unsäglich
 albern,« meinte er verächtlich. »Ich mag ein tolles Leben
 Hinter mir haben … Ein Schurke war ich nie …!«
 
-Buid rieb riß verlegen die Hände. »Ich … ich möchte
+Buid rieb sich verlegen die Hände. »Ich … ich möchte
 <@pagebreak/>
-Eid; durchaus Bestie direkten Belchulö: langen gegen Sie ein
-Leben, über«.; … weshalb »der schwiegen Sie, da daß das Wasser
-ins gehört?«
+auch durchaus keine direkten Beschuldigungen gegen Sie erheben,
+aber … weshalb verschwiegen Sie, daß das Messer
+Ihnen gehört?«
 
-Harald war’s mit diesem rücsichtövollen Vergessen Saß«
-als gegen diesen scheinheiligen Broox offenbar sehr anzustecken;
-Denn: er kriminelle ungeduldig mit den Fingerspitzen
-sagen die Stuhllehne« und »meinte trennten …: »Villeicht
-reden Sie ach Noch eine Weile van Ihren seinen, Hell
-blauen Saffianledermorgenschuhen, »Fieber Buid … Es Und
+Harald war mit diesem rücksichtsvollen Vorgehen Jaspers
+gegen diesen scheinheiligen Broox offenbar sehr unzufrieden,
+Denn er trommelte ungeduldig mit den Fingerspitzen
+gegen die Stuhllehne und meinte ironisch …: »Vielleicht
+reden Sie auch Noch eine Weile von Ihren feinen, Hell-
+blauen Saffianledermorgenschuhen, lieber Buid … Es sind
 wirklich sehr schöne Schuhe … Nur der rechte Hat schon
-jede «.« Mit Benzin ist da nichts zu machen, fürchte
+Flecke ... Mit Benzin ist da nichts zu machen, fürchte
+ich ..."
 
-Buid starrte auf seine Füße und errötete flüchtig, die
-dann Broox scharf zu und stieß hervor: »Sie wollten Harst
-und Schraut durch Blausäure ermorden,,! Alles spricht
-gegen Sie, alles! Ich, — ich: Episode Sie Ihrer Stellung
-als Kapitän …
+Buid starrte auf seine Füße und errötete flüchtig, blickte
+dann Broox scharf an und stieß hervor: »Sie wollten Harst
+und Schraut durch Blausäure ermorden ...! Alles spricht
+gegen Sie, alles! Ich ... ich enthebe Sie Ihrer Stellung
+als Kapitän … Ich ..."
 
-»Stoppt« meinte »geht da … »Wicht übereilen, mein
+»Stopp!« meinte Harst da … »Nichts übereilen, mein
 lieber Jasper, — nur nicht plötzlich ein Galopptempo anschlagen,
 wo Sie bisher so zartfühlend und vorsichtig alles
-mit Milde zu erledigen suchten …
+mit Milde zu erledigen suchten …"
 
-Buid Jasper warf Harst einen unsicheren Blick zu. »ah
-—» Sie: hätten dies hier zu Ende führen sollen …! —
-eigne nicht nicht dazu. Ich verstehe Sie auch nicht, Harst …
-
-Erst ermuntern Sie Vieh, energischer zu werden, und nun
-ist Ihnen dies auch wieder nicht genehm …
+Buid Jasper warf Harst einen unsicheren Blick zu. »Ach,
+— Sie hätten dies hier zu Ende führen sollen …! Ich
+eigne mich nicht dazu. Ich verstehe Sie auch nicht, Harst …
+Erst ermuntern Sie mich, energischer zu werden, und nun
+ist Ihnen dies auch wieder nicht genehm …"
 
 »Ein Irrtum, ich bin sehr befriedigt,« sagte Harst versöhnlich.
-»Wirklich — besser konnten Sie Ihre Suche kaum
-nahen … —ck Also, Kapitän, folgendes hat sich ereignet
-…
-€Er berichtete von den Wasserkränen, die vergiftetes
+»Wirklich — besser konnten Sie Ihre Sache kaum
+machen … — Also, Kapitän, folgendes hat sich ereignet
+…"
+
+Er berichtete von den Wasserkränen, die vergiftetes
 Wasser gespien hatten, und dann von der Spritze, meinen
-Schützen, der Flucht des Attentäters, der doch nur durch
+Schüssen, der Flucht des Attentäters, der doch nur durch
 den Tresorraum entwichen sein konnte … »Sie werden
 <@pagebreak/>
-einsehen, Broox, daß für die Beurteilunc 9 der Schlage Ihre
+einsehen, Broox, daß für die Beurteilung der Sachlage Ihre
 Wunde an der linken Wange von ausschlaggebender Bedeutung
-ist … Bitte, nehmen Sie mal die Watte wo —
-
-Ein Schnitt oder ein Streifschuß eine leicht zu musterte: Aden.««
+ist … Bitte, nehmen Sie mal die Watte weg ...
+Ein Schnitt oder ein Streifschuß sind leicht zu unterscheiden."
 
 Harry Broox wurde leichenblaß. Er verlor seine straffe
 Haltung, er stützte sich gegen den Tisch vor dem kleinen
 Wandsofa, sein Kopf sank immer tiefer …
 
-… 8 … ist eine unselige Verquickung von Uns
-Ständen,« murmelte er heiser. »3 … ich war (An der leeren
-Kabine Nummer fünf .—,-. Ich: gebe« das zu, aber nur lag!
+"Es … es … ist eine unselige Verquickung von Um-
+Ständen,« murmelte er heiser. »Ich … ich war in der leeren
+Kabine Nummer fünf .,. Ich gebe das zu, aber nur das!
 Eine Kugel durchschlug die Türfüllung und streifte mich …
 ich … ich bin dann durch den Tresorraum geflüchtet, das
 stimmt, — ich tat es, weil ich … ahnte, daß ich leicht in
-bösen Verdacht geraten könnte …
+bösen Verdacht geraten könnte …"
 
 Jasper rief empört dazwischen: »Sie — — Lügner!!
-Wie kann nun nur so dumm lügen?! Wer wird Ihnen
+Wie kann man nur so dumm lügen?! Wer wird Ihnen
 das glauben!« Er war so erregt, daß er die Farbe wechselte
-und zitterte, »Was hatten Sie denn in der leeren Kabine
+und zitterte. »Was hatten Sie denn in der leeren Kabine
 zu suchen?! weshalb ahnten Sie, daß Sie in Verdacht geraten
 könnten, wie Sie sich ausdrückten?! In welchen Verdacht
 denn, — — reden Sie, in welchen Verdacht?! Wenn
 Sie in Kabine 5 waren, dann müssen Sie doch etwas
-»im Kabinengang gehört oder … gesehen hoben?!«
+im Kabinengang gehört oder … gesehen haben?!«
 
 Broox schüttelte den Kopf … »Ich habe nichts gesehen
 oder gehört … Ich begab mich aus Gründen, die
 ich nicht mitteilen kann, in die Kabine, war dort erst nur
 wenige Minuten, als die Schüsse fielen … Ich drückte
 mein Taschentuch gegen die Wunde, riß die Kabinentür auf,
-fand den Gang leer und schlüpfte durch die eiserne Für, die
-ich nur angelehnt hatte, in den Tresorraum … —« Wehr —
+fand den Gang leer und schlüpfte durch die eiserne Tür, die
+ich nur angelehnt hatte, in den Tresorraum … — Mehr
 habe ich nicht anzugeben, und mehr gebe ich auch nicht an.«
 
 Er stierte jetzt Buid Jasper geradezu haßerfüllt an.
@@ -1402,40 +1406,40 @@ Schlußstrich unter diese Erörterungen zöge:
 
 »Ich glaube Ihnen, Broox … das heißt, so weit ich
 <@pagebreak/>
-Ihnen glauben kann … Ich hoffe, die Sache wirklich restlos
+Ihnen glauben kann … Ich hoffe, die Sache wird sich restlos
 klären lassen … Es ist eben außer Ihnen und Buid
-Jasper und Schrank und mir noch irgend jemand in den Heck«
+Jasper und Schraut und mir noch irgend jemand in den Heck-
 räumen gewesen, der Giftattentäter … Und dieser hat
-den Verdacht auf Sie lenken wollen … —
+den Verdacht auf Sie lenken wollen …"
 
 Jasper benahm sich wieder sehr anständig.
 
 Er trat auf Broox zu und reichte ihm die Hand. »Ich
-
 beuge mich vor Harsts langjähriger Erfahrung und erprobter
-Menschenkenntnis, Derselben Sie mir, Broox … Natürlich
-war außer Ihnen noch der Attentäter im Robinson
-ans …«
-? Harry Broox meinte kurz: »Schon gut …« — und.
+Menschenkenntnis. Verzeichen Sie mir, Broox … Natürlich
+war außer Ihnen noch der Attentäter im Kabinengang
+…«
+
+Harry Broox meinte kurz: »Schon gut …« — und
 zog seine Hand zurück. »Ich weiß, der Verdacht wird ja
-doch; auf« mir sitzen bleiben …« Er- starrte finster zu
-Boden, &
+doch auf mir sitzen bleiben …« Er starrte finster zu
+Boden.
 
-»Klingeln Sie nach Jan Zeerten … «…« sagte Harst.
+»Klingeln Sie nach Jan Zeerten …« sagte Harst.
 
-Aber die Elster war nicht zu finden. — —
+Aber die Elster war nicht zu finden.
 
-Als wir dann zu vieren »den Tresorraum betraten,
-fanden wir in dem unteren Teil des Panzerspindes, dessen.
-Tür etwas offen stand, Jan Erörtert Leiche …
+Als wir dann zu vieren den Tresorraum betraten,
+fanden wir in dem unteren Teil des Panzerspindes, dessen
+Tür etwas offen stand, Jan Zeertens Leiche …
 
-Zeerten hakte sich durch einen Pistolenschuß in die
-Schläfe getötet. Neben ihm lag die Waffe: … Er selbst
-lag ganz zusammengekrümmt in dem engen Gelaß, —.
+Zeerten hatte sich durch einen Pistolenschuß in die
+Schläfe getötet. Neben ihm lag die Waffe … Er selbst
+lag ganz zusammengekrümmt in dem engen Gelaß, —
 
-Sohn Minuten später endeten wir, daß auch Doktor
-John Murfy in Janzens Kammer!inzwischen ein Opfer des
-Mörders geworden, Wir hatten die Kammertür aufsprengen
+Zehn Minuten später entdeckten wir, daß auch Doktor
+John Murfy in Janzens Kammer inzwischen ein Opfer des
+Mörders geworden. Wir hatten die Kammertür aufsprengen
 müssen. Murfy war der Blausäurespritze erlegen. Janzen
 hatte nur der Umstand vor demselben Schicksal bewahrt, daß
 er mit dem Kopfe nach der Wand hin fest geschlafen hatte …
@@ -1443,23 +1447,21 @@ So hatte der dünne Strahl des Giftes, das wieder durch
 das Schlüsselloch Hineingespritzt worden, nur seine Wange
 und Nase getroffen und war nicht in den Mund gelangt.
 
-In Jan Zeertens Tasche aber steckte rosa die Nickel«.
+In Jan Zeertens Tasche aber steckte noch die Nickel-
 Spitze mit dem langen Strahlrohr,
 
 Die Elster war der Mörder.
 
 <@pagebreak/>
-Ja …
-Sang« und klanglos flog mittags seine Leiche über Vor
-Murfy wurde mit feierlichem Gepränge dem Meere über
-geben. Buid Ruderer hielt eine Ansprache, und Bevor lag
-aus dem Andochtöbuch für Seeleute den Abhängte vor, da
-die Überschri’kf trug:
-»Mein ist die Rotte, April der Herr …«
+Sang- und klanglos flog mittags seine Leiche über Bord.
+Murfy wurde mit feierlichem Gepränge dem Meere über-
+geben. Buid Jasper hielt eine Ansprache, und Broox las
+aus dem Andachtsbuch für Seeleute den Abschnitt vor, der
+die Überschrift trug:
 
-ewemeedummben. ade, zudem
+»Mein ist die Rache, spricht der Herr …«
 
-Der Stein des Anstoßes
+<h1>Der Stein des Anstoßes</h1>
 
 <h2>1. Kapitel.</h2>
 
@@ -1485,7 +1487,7 @@ wohltätige Kunst, Krankheiten zu heilen. Not«+ vor fünfzig
 Jahren, als gerade das ungeheure Gebiet von Ratschputaniert
 dem Verkehr um erschlossen war, spielten die Hinabläßt
 in jedem Städtchen, Dorfe und in jeder Siedlung die Rolle
-<@pagebreak/>
+<@pagebreak 37/>
 der unsichtbaren Obrigkeit. Ihr Einfluß war größer, als
 der der indischen Kolonialbeamten.- Nachdem: Es hat sich
 nicht allzuviel in dieser Hinsicht geändert. In Leanditriczen
