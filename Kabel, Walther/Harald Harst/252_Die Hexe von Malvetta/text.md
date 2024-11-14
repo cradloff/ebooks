@@ -888,7 +888,7 @@ vertraue Ihnen. Bisher weiß nur Buid außer uns, daß die
 neuen Matrosen nicht das sind, was sie scheinen wollen …
 — Janzen darf keine Sekunde ohne Aufsicht bleiben. Sie
 werden jetzt bei ihm bis zehn Uhr vormittags wachen,
-dann löst der KajütBoy Pranati sie ab. Lassen Sie niemand
+dann löst der Kajütboy Pranati sie ab. Lassen Sie niemand
 herein, wer es auch sei, — niemand, selbst Broox und Buid
 nicht. Wir wollen kein Ausnahmen gelten lassen. — Haben
 Sie eine Waffe bei sich?«
@@ -1202,7 +1202,7 @@ Kapitän Harry Broox hielt die Watte gegen die linke
 Wange gepreßt und … lächelte mit einem Male. »Entschuldigen
 Sie mir meine Grobheit, Mr. Jasper, aber Ihr Eindringen
 hat mich erschreckt, und dieses verdammte Rasiermesser
-ist auch nur noch gut zum Kartoffelschälen …"
+ist auch nur noch gut zum Kartoffelschälen …«
 
 Er stand mit dem Rücken nach dem Fenster hin, trotzdem
 bemerkte ich den etwas lauernden Blick, mit dem er
@@ -1230,15 +1230,15 @@ Dielen war sichtbar. Leider auch ein paar Tropfen auf diesen
 Dielen. Harst bückte sich und verrieb einen Tropfen mit
 dem Zeigefinger, führte diesen an die Nase und hielt ihn
 dann Buid hin. »Kennen Sie das?!« meinte er ernst,
-<@pagebreak/>
 
+<@pagebreak/>
 Jasper prallte zurück
 
 »Herr Gott, — — Blausäure!!« rief er und wich bis
 zur Tür zurück.
 
 Harry Broox fragte bissig: »Unsinn — — Blausäure?!
-Wie sollte die wohl hier in ..."
+Wie sollte die wohl hier in …«
 
 »Es ist Blausäure, Kapitän, « erklärte Harald verdächtig
 freundlich. »Sagen Sie mal, besitzen Sie eine Nickelspritze
@@ -1247,7 +1247,7 @@ mit sehr langer Metallspitze, Broox?«
 »Hm — so’n Ding mag im Medizinkasten liegen — schon
 möglich — — Was sollte ich mit einer Spritze?! Ich bin
 nicht Morphinist. Mir genügt ein anständiger Rum oder
-Kognak. Ich habe meine Nerven allzeit geschont ..."
+Kognak. Ich habe meine Nerven allzeit geschont …«
 
 Buid Jasper schien diese Szene Überaus widerwärtig
 zu sein. Er trat wieder zwei Schritte vor. »Broox, ich
@@ -1260,16 +1260,16 @@ halboffenen Ausschnitt seines Hemdes hinein und zog eine
 rote Schnur hervor, an der die vier schmalen Patentschlüssel
 hingen.
 
-«Bitte …« Er zog die Schnur über den Kopf, dabei
+»Bitte …« Er zog die Schnur über den Kopf, dabei
 fiel die Eisenchloridwatte herab, er bückte sich hastig, preßte
 die Watte wieder auf die blutende Stelle und reichte die
 Schlüssel mit der anderen Hand Buid Jasper, der zögernd
 bemerkte:
 
 »Weshalb tragen Sie sie auf der Brust?! Das war
-doch, bisher nicht üblich …"
+doch, bisher nicht üblich …«
 
-»Ich trage sie da, wo sie am besten aufgehoben sind,"
+»Ich trage sie da, wo sie am besten aufgehoben sind,«
 brüllte Broox in jäher Wut los. »Was soll das alles?!
 Das … das macht ja ganz den Eindruck, als ob ich
 etwa …« — er hüstelte, verstummte, zuckte die Achseln …
@@ -1292,7 +1292,7 @@ Versteck hervor.
 daß das Fläschchen in so trauter Nähe von Wallace
 gefunden wird … Wallace ist modern … Aber eine Giftspritze
 ist veraltet. Besser war schon das vergiftete Mundwasser
-…"
+…«
 
 Harry Broox lachte kurz auf. »Ich bin nicht gerade auf
 den Kopf gefallen, Mr. Harst. Wessen beschuldigen Sie
@@ -1309,12 +1309,12 @@ verschwiegen, daß ich das indische Wurfmesser, das Harst beinahe
 die Schlagader durchschnitt und den armen Janzen fast
 tötete, Ihnen gehört … Ich sah es einmal zufällig in
 Ihrer Schreibtischschublade … Ich will keineswegs behaupten,
-daß Sie ..."
+daß Sie …«
 
 Broox war mit einem Satz dicht vor ihm.
 
 »Wie — — wollen Sie etwa andeuten, daß … daß
-...<< — die ungeheure Erregung ließ ihn nicht weitersprechen.
+…« — die ungeheure Erregung ließ ihn nicht weitersprechen.
 Seine Stimme überschlug sich. Im Nu hatte er
 sich wieder in der Gewalt … »Das alles ist unsäglich
 albern,« meinte er verächtlich. »Ich mag ein tolles Leben
@@ -1330,33 +1330,33 @@ Harald war mit diesem rücksichtsvollen Vorgehen Jaspers
 gegen diesen scheinheiligen Broox offenbar sehr unzufrieden,
 Denn er trommelte ungeduldig mit den Fingerspitzen
 gegen die Stuhllehne und meinte ironisch …: »Vielleicht
-reden Sie auch Noch eine Weile von Ihren feinen, Hell-
-blauen Saffianledermorgenschuhen, lieber Buid … Es sind
+reden Sie auch Noch eine Weile von Ihren feinen, hellblauen
+Saffianledermorgenschuhen, lieber Buid … Es sind
 wirklich sehr schöne Schuhe … Nur der rechte Hat schon
-Flecke ... Mit Benzin ist da nichts zu machen, fürchte
-ich ..."
+Flecke … Mit Benzin ist da nichts zu machen, fürchte
+ich …«
 
 Buid starrte auf seine Füße und errötete flüchtig, blickte
 dann Broox scharf an und stieß hervor: »Sie wollten Harst
-und Schraut durch Blausäure ermorden ...! Alles spricht
-gegen Sie, alles! Ich ... ich enthebe Sie Ihrer Stellung
-als Kapitän … Ich ..."
+und Schraut durch Blausäure ermorden …! Alles spricht
+gegen Sie, alles! Ich … ich enthebe Sie Ihrer Stellung
+als Kapitän … Ich …«
 
 »Stopp!« meinte Harst da … »Nichts übereilen, mein
 lieber Jasper, — nur nicht plötzlich ein Galopptempo anschlagen,
 wo Sie bisher so zartfühlend und vorsichtig alles
-mit Milde zu erledigen suchten …"
+mit Milde zu erledigen suchten …«
 
 Buid Jasper warf Harst einen unsicheren Blick zu. »Ach,
 — Sie hätten dies hier zu Ende führen sollen …! Ich
 eigne mich nicht dazu. Ich verstehe Sie auch nicht, Harst …
 Erst ermuntern Sie mich, energischer zu werden, und nun
-ist Ihnen dies auch wieder nicht genehm …"
+ist Ihnen dies auch wieder nicht genehm …«
 
 »Ein Irrtum, ich bin sehr befriedigt,« sagte Harst versöhnlich.
 »Wirklich — besser konnten Sie Ihre Sache kaum
 machen … — Also, Kapitän, folgendes hat sich ereignet
-…"
+…«
 
 Er berichtete von den Wasserkränen, die vergiftetes
 Wasser gespien hatten, und dann von der Spritze, meinen
@@ -1365,20 +1365,20 @@ den Tresorraum entwichen sein konnte … »Sie werden
 <@pagebreak/>
 einsehen, Broox, daß für die Beurteilung der Sachlage Ihre
 Wunde an der linken Wange von ausschlaggebender Bedeutung
-ist … Bitte, nehmen Sie mal die Watte weg ...
-Ein Schnitt oder ein Streifschuß sind leicht zu unterscheiden."
+ist … Bitte, nehmen Sie mal die Watte weg …
+Ein Schnitt oder ein Streifschuß sind leicht zu unterscheiden.«
 
 Harry Broox wurde leichenblaß. Er verlor seine straffe
 Haltung, er stützte sich gegen den Tisch vor dem kleinen
 Wandsofa, sein Kopf sank immer tiefer …
 
-"Es … es … ist eine unselige Verquickung von Um-
-Ständen,« murmelte er heiser. »Ich … ich war in der leeren
-Kabine Nummer fünf .,. Ich gebe das zu, aber nur das!
+»Es … es … ist eine unselige Verquickung von Umständen,«
+murmelte er heiser. »Ich … ich war in der leeren
+Kabine Nummer fünf … Ich gebe das zu, aber nur das!
 Eine Kugel durchschlug die Türfüllung und streifte mich …
 ich … ich bin dann durch den Tresorraum geflüchtet, das
 stimmt, — ich tat es, weil ich … ahnte, daß ich leicht in
-bösen Verdacht geraten könnte …"
+bösen Verdacht geraten könnte …«
 
 Jasper rief empört dazwischen: »Sie — — Lügner!!
 Wie kann man nur so dumm lügen?! Wer wird Ihnen
@@ -1408,15 +1408,15 @@ Schlußstrich unter diese Erörterungen zöge:
 <@pagebreak/>
 Ihnen glauben kann … Ich hoffe, die Sache wird sich restlos
 klären lassen … Es ist eben außer Ihnen und Buid
-Jasper und Schraut und mir noch irgend jemand in den Heck-
-räumen gewesen, der Giftattentäter … Und dieser hat
-den Verdacht auf Sie lenken wollen …"
+Jasper und Schraut und mir noch irgend jemand in den Heckräumen
+gewesen, der Giftattentäter … Und dieser hat
+den Verdacht auf Sie lenken wollen …«
 
 Jasper benahm sich wieder sehr anständig.
 
 Er trat auf Broox zu und reichte ihm die Hand. »Ich
 beuge mich vor Harsts langjähriger Erfahrung und erprobter
-Menschenkenntnis. Verzeichen Sie mir, Broox … Natürlich
+Menschenkenntnis. Verzeihen Sie mir, Broox … Natürlich
 war außer Ihnen noch der Attentäter im Kabinengang
 …«
 
@@ -1447,15 +1447,15 @@ So hatte der dünne Strahl des Giftes, das wieder durch
 das Schlüsselloch Hineingespritzt worden, nur seine Wange
 und Nase getroffen und war nicht in den Mund gelangt.
 
-In Jan Zeertens Tasche aber steckte noch die Nickel-
-Spitze mit dem langen Strahlrohr,
+In Jan Zeertens Tasche aber steckte noch die Nickelspritze
+mit dem langen Strahlrohr,
 
 Die Elster war der Mörder.
 
 <@pagebreak/>
 Sang- und klanglos flog mittags seine Leiche über Bord.
-Murfy wurde mit feierlichem Gepränge dem Meere über-
-geben. Buid Jasper hielt eine Ansprache, und Broox las
+Murfy wurde mit feierlichem Gepränge dem Meere übergeben.
+Buid Jasper hielt eine Ansprache, und Broox las
 aus dem Andachtsbuch für Seeleute den Abschnitt vor, der
 die Überschrift trug:
 
@@ -1467,293 +1467,292 @@ die Überschrift trug:
 
 <h3>Imallas Mutter.</h3>
 
-… «. Es ist richten erstach, immer einen passenden Titel
-
+Es ist nicht so einfach, immer einen passenden Titel
 zu finden. Ich habe fast eine ganze Brasil geraucht und
-zerkaut, bevor ich auf »den Stein des Anstoßes« kam
-Man will doch schließliä) wenigstens etwas eigenartig sein!
-Dieser Stein, meine lieben Leser und (Freunde, liegt in
-einer Höhle in den MalveltoyVergen … Die Höhnte war
-die Wohnung der Hexe von Liebreiz, — Unseren Schrift
-Vers« kennen die Inder nicht. Die Ratschputensprache be
-zeichnet mit »Imabrassa« zwar etwas Ähnliches — eine
-Besessene, eine Frau, deren Geist durch allzu dickes Bergs
-Denken in die Lehre Brutales allem Weltlichen entfremdet
+zerkaut, bevor ich auf »den Stein des Anstoßes« kam.
+Man will doch schließlich wenigstens etwas eigenartig sein!
+
+Dieser Stein, meine lieben Leser und Freunde, liegt in
+einer Höhle in den Malvetta-Bergen … Die Höhle war
+die Wohnung der Hexe von Malvetta. — Unseren Begriff
+»Hexe« kennen die Inder nicht. Die Ratschputensprache bezeichnet
+mit »Imabrassa« zwar etwas Ähnliches — eine
+Besessene, eine Frau, deren Geist durch allzu tiefes Versenken
+in die Lehre Bramahs allem Weltlichen entfremdet
 und daher fähig ist, Wahrsagerin zu spielen. Bei uns sagt
-man heutzutage Hellseherin. Immerhin haftet auch der Schar
-braven etwas Dämonisches an. Sie wird gefürchtet, sie da
-ist die Gabe des bösen Blicke und gleichzeitig auch die
-wohltätige Kunst, Krankheiten zu heilen. Not«+ vor fünfzig
-Jahren, als gerade das ungeheure Gebiet von Ratschputaniert
-dem Verkehr um erschlossen war, spielten die Hinabläßt
+man heutzutage Hellseherin. Immerhin haftet auch der Imabrassa
+etwas Dämonisches an. Sie wird gefürchtet, sie besitzt
+die Gabe des bösen Blicks und gleichzeitig auch die
+wohltätige Kunst, Krankheiten zu heilen. Noch vor fünfzig
+Jahren, als gerade das ungeheure Gebiet von Ratschputanien
+dem Verkehr kaum erschlossen war, spielten die Imabrassi
 in jedem Städtchen, Dorfe und in jeder Siedlung die Rolle
 <@pagebreak 37/>
 der unsichtbaren Obrigkeit. Ihr Einfluß war größer, als
-der der indischen Kolonialbeamten.- Nachdem: Es hat sich
-nicht allzuviel in dieser Hinsicht geändert. In Leanditriczen
+der der indischen Kolonialbeamten. Trotzdem: Es hat sich
+nicht allzuviel in dieser Hinsicht geändert. In Landstrichen
 mit überwiegender Hindubevölkerung (im Gegensatz zu den
-Mohßammedanern) wird dem Touristen, der nicht ausgerechnet
-nur die im Reisehandbuch vorgeschossen Sehenswürdigkeiten
+Mohammedanern) wird dem Touristen, der nicht ausgerechnet
+nur die im Reisehandbuch verzeichneten Sehenswürdigkeiten
 abgrast, auch heute noch die Ehrfurcht und
-Ehen auffallen, mit denen der Inder von Seiner »Er?Tiere«
-spricht. Ob der Tourist sie aber zu seien bekommt,
+Scheu auffallen, mit denen der Inder von Seiner »Ortshexe«
+spricht. Ob der Tourist sie aber zu sehen bekommt,
 ist fraglich. Selbst die dicksten Bündel Papiergeld würden
-keinen Ratternden bewegen können, die Besichtigung »seiner«
-Imabrassa zu verraten. Bekannt ist, daß der Bereiten eines
-berühmten Neuyorker Magazins in der Grad? Revolvern
+keinen Ratschputen bewegen können, die Behausung »seiner«
+Imabrassa zu verraten. Bekannt ist, daß der Reporter eines
+berühmten Neuyorker Magazins in der Stadt Rewalparh
 vor wenigen Jahren gesteinigt wurde, weil er nachts in die
 Hütte der Imabrassa eingedrungen war und versucht hatte,
-die Greisin mit Blitzlicht zu phvokographieren. Er kam mit
+die Greisin mit Blitzlicht zu photographieren. Er kam mit
 knapper Not mit dem Leben davon und … wurde sogar
 noch wegen Hausfriedensbruch unter Anklage gestellt. In den
-Nordwestprovinzen (sie ließen richtiger Zentralindien) vorn
-freien die Yogi oder Loggia (Falsch die Stelle dieser zumeist
-harmlosen, wenn auch herrschsüchtigen Herrn. — Dies als
+Nordwestprovinzen (sie hießen richtiger Zentralindien) vertreten
+die Yogi oder Yogin (Fakire) die Stelle dieser zumeist
+harmlosen, wenn auch herrschsüchtigen Hexen. — Dies als
 Vorbemerkung, — —
 
-Es war eine jener tropischen Nächte, die man nie Vers
-gibt + S8 war der Halber Erachtens, der nie primitiver
-und unnennbar einzigartig ins umgab. Dr saßen auf
-der Veranda des Bungalow Busch Jaspers … Vor uns
-senkte sie9 der Großen in breiten Terrassen und mit hellen
-Sandsteintreppen bis zum schilfumwucherten Sei hinab, des’en
-€ Riegel ein einziges silbernes Flimmern war. Der Mond
+Es war eine jener tropischen Nächte, die man nie Vergißt
+… Es war der Zauber Indiens, der geheimnisvoll
+und unnennbar einzigartig ins umgab. Wir saßen auf
+der Veranda des Bungalow Buid Jaspers … Vor uns
+senkte sich der Garten in breiten Terrassen und mit hellen
+Sandsteintreppen bis zum schilfumwucherten See hinab, dessen
+Spiegel ein einziges silbernes Flimmern war. Der Mond
 selbst stand hinter dem großen Wohnhause, aber die Palmen
-und Indra-Bäume gleißten ebenfalls wie mit Bilder übergossen,
-— — kein Führten regte sich, nur vorn den fernen
-Hütten der Arbeiter kamen verworrene Laute herüber …«.
+und Tudra-Bäume gleißten ebenfalls wie mit Silber übergossen,
+— — kein Lüftchen regte sich, nur vorn den fernen
+Hütten der Arbeiter kamen verworrene Laute herüber …
 
 Es war totenstill um uns.
+
 Auf der Brüstung der Veranda hockten Buids zahme
 <@pagebreak/>
-Dicken, auf seinem Schoße lag. zusammengeringelt sein
-Mungo, treuer, kluger und tapferer als der klügste Hund;
+Affen, auf seinem Schoße lag zusammengeringelt sein
+Mungo, treuer, klüger und tapferer als der klügste Hund.
 
-Mine hatten die Tischlampe ausgeschaltet. Wir genossen
+Wir hatten die Tischlampe ausgeschaltet. Wir genossen
 das Dämmerlicht der hellen Nacht mit der andächtigen
 Freude von Männern, die ein solches Stimmungsbild zu
-würdigen wissen …
+würdigen wissen.
 
 Buid hatte die Diener zu Bett geschickt. Soeben hatte
 drinnen im Hause eine Standuhr mit weichem Gongschlag
 Mitternacht verkündet.
 
-Buid Jasper- sagte ebenso weiß: »Harst, die Frist ist aha
-gelaufen … Heute wollten Sie endlich sprechen. Dieses
+Buid Jasper sagte ebenso weich: »Harst, die Frist ist abgelaufen
+… Heute wollten Sie endlich sprechen. Dieses
 Heute beginnt mit dieser Minute, und meine Lebensbahn ist
-um einen weiteren Tag verkürzt worden. — Sie haben das
-malt auf See nachts Jan Zeertens Selbstmord erklärt, Sie
-würden erst hier auf meiner Plantage am dritten Jage
+um einen weiteren Tag verkürzt worden. — Sie haben damals
+auf See nachts Jan Zeertens Selbstmord erklärt, Sie
+würden erst hier auf meiner Plantage am dritten Tage
 nach unserer Ankunft mir einige Fragen, die mich beunruhigen,
-beantworten. Inzwischen ist allerlei Neues ge«
-erheben, das seltsam genug war, aber Sie blieben stumm.
+beantworten. Inzwischen ist allerlei Neues geschehen,
+das seltsam genug war, aber Sie blieben stumm.
 Unsere Seereise war zwar ohne weitere Zwischenfälle verlaufen.
-Über kurz nach unserer Ankunft in Bombay setzten
+Aber kurz nach unserer Ankunft in Bombay setzten
 die neuen Ereignisse ein. Zunächst verschwanden Harry Broox
-und der Aaiütboy Pranati so spurlos, als hätte die Erde
-sie berechnet, Dann ließ ich durch die Polizei nachprüfen,
-wer die fest Matrosen eigentlich wären, die Sir Garage
-in London angeheuert hatte, Die sechs wurden von unserem
-Freunde Grablay vernommen. Grablay endlich sie als einwandfrei,
+und der Kajütboy Pranati so spurlos, als hätte die Erde
+sie verschluckt, Dann ließ ich durch die Polizei nachprüfen,
+wer die sechs Matrosen eigentlich wären, die Sir Baranc
+in London angeheuert hatte. Die sechs wurden von unserem
+Freunde Grablay vernommen. Grablay entließ sie als einwandfrei,
 und — — sie verschwanden auch. Das geschah
 am Tage nach unserer Landung in Bombay. Am nächsten
 Tage, als Sie und Schraut mich allein ließen, da Sie Ermittlungen
-über den Farbstrich Ronald Epsoms, des Verpufften
+über den Selbstmord Ronald Epsoms, des Prokuristen
 der Firma Sheffield, anstellen wollten, der ein
-so glühender Verehrer meiner armen kleinen … Gerda qge«
-Wesen, wurde ich; im Garten meiner Villa auf den Unsagbar
-Hilfe beinahe durch eine Kugel getötet, die nur aus
-Sinn Putzsucht abgefeuert worden Zeit könnte, Der Alten«,
+so glühender Verehrer meiner armen kleinen Gerda gewesen,
+wurde ich im Garten meiner Villa auf den Malabar
+Hills beinahe durch eine Kugel getötet, die nur aus
+einem Luftgewehr abgefeuert worden sein konnte. Der Attentäter
 <@pagebreak/>
-Tafel war ein Inder und entkam. Die Fuge! riß die rauchte
-Krempe meines Tropenhelme weg. Und Sie … schwiegen,
-Sie bliebe! stumm und spielten den Uninteressierten, An
-beteiligten, selbst als im Eisenbahnzuge währen« unserer
-Leise hierher auf der Station Malaie abermals eine Kugel
-in mein Schlafwagenabteil ich und mir das Ort streifte —
-spät abends, Der Schufte war ein Index und … eilt?am.
-Sie … schwiegen, —« Sie haben meine und Schrauts Erde
-bald auf eine harte Probe gestellt. Schraut hat Sitz wieder.
-holt bei mir Bitter beklagt, daß Sie selbst mit dieses
+war ein Inder und entkam. Die Kugel riß die rechte
+Krempe meines Tropenhelms weg. Und Sie … schwiegen,
+Sie blieben stumm und spielten den Uninteressierten, Unbeteiligten,
+selbst als im Eisenbahnzuge während unserer
+Reise hierher auf der Station Mahara abermals eine Kugel
+in mein Schlafwagenabteil flog und mir das Ohr streifte —
+spät abends. Der Schufte war ein Inder und … entkam.
+Sie … schwiegen. — Sie haben meine und Schrauts Geduld
+auf eine harte Probe gestellt. Schraut hat sich wiederholt
+bei mir Bitter beklagt, daß Sie selbst mit ihm dieses
 ganze Thema nicht erörtern wollten, ein Thema, das von
-Blut spielt und fix Grunde genau so rätselvoll ist wie an
-Deut Tage, als ich Sie in Berlin besuchte. — Wir trafen
-dann hier auf meiner Plantage ein und fanden zwei Weg
-Westen Lord Greengils vor und eine dritte Sir Edward
-Baranc’, seines Sekretärs. Die beiden ersten IJelegrammemeideten
-mir Lord Greengils leichte Erkrankung an einem
-Hautausschcklag und enthielten herzliche Grüße für Sie Heide
+Blut trieft und im Grunde genau so rätselvoll ist wie an
+dem Tage, als ich Sie in Berlin besuchte. — Wir trafen
+dann hier auf meiner Plantage ein und fanden zwei Depeschen
+Lord Greengils vor und eine dritte Sir Edward
+Baranc’, seines Sekretärs. Die beiden ersten Telegramme
+meldeten mir Lord Greengils leichte Erkrankung an einem
+Hautausschlag und enthielten herzliche Grüße für Sie beide
 und mich. Die dritte, die zwei Stunden nach unserer Ankunft
-anlangte, zeigte mir Lord Greengiläd Tod an, äußere
-dem bat Sir Baranc mich als den Erben meines Großvaters
-um gewisse Anordnungen und Kaltmachen und baldige
+anlangte, zeigte mir Lord Greengils Tod an, außerdem
+bat Sir Baranc mich als den Erben meines Großvaters
+um gewisse Anordnungen und Vollmachten und baldige
 Abreise nach London. Ich depeschierte zurück, daß ich
-mir den Antritt der Erbschaft erst überlegen müsse, da Ruck
-meine Tage gezählt seien, —« Nu hierbei versagten Sie
-mir Ihren Na! und meinten, im solle so handeln, wie ich
-es für richtig hielte. — Mit einem Wort, seit dort Tode
+mir den Antritt der Erbschaft erst überlegen müsse, da auch
+meine Tage gezählt seien. — Auch hierbei versagten Sie
+mir Ihren Rat und meinten, ich solle so handeln, wie ich
+es für richtig hielte. — Mit einem Wort, seit dem Tode
 Jan Zeertens an Bord der Imalla änderte sich Ihr Benehmen
-vollkommen —« nicht mir gegenüber, aber darin,
+vollkommen — nicht mir gegenüber, aber darin,
 was die Sache selbst betraf. Ich hätte Ihnen, lieber Harst,
-dies vielleicht verargt, drei da Sie selbst Schraut genau
+dies vielleicht verargt, doch da Sie selbst Schraut genau
 so höflich und bestimmt eine Erörterung der Dinge versagten,
-mir außerdem hier auf der Plantage eins restlose
-Lösung der schwebenden Fragen versprachen, gab sind mich
-mit allem zufrieden. — Der Tag ist da, Harst … Bitte, «,«
+mir außerdem hier auf der Plantage eine restlose
+Lösung der schwebenden Fragen versprachen, gab ich mich
+mit allem zufrieden. — Der Tag ist da, Harst … Bitte …«
+
 <@pagebreak/>
-Buid Zettels Stimme hatte während dieses sangen 2 Vors
-reges kaum weithin; den Tonfall verändert. Seine vors
-nehme Selbstbeherrschung war mir auch jetzt ein neuer So
-»weiß seines »Bruder, gefertigten Charakters. Im Ihrigen
-sah ich) dem trennenden mit genau derselben Spannung
-gegen wie Freund Bad …
+Buid Jaspers Stimme hatte während dieses langen Vortrages
+kaum merklich den Tonfall verändert. Seine vornehme
+Selbstbeherrschung war mir auch jetzt ein neuer Beweis
+seines geraden, gefestigten Charakters. Im übrigen
+sah ich dem Kommenden mit genau derselben Spannung entgegen
+wie Freund Buid.
 
-Harst hielt die Zigarette in! Mundwinkel und streichelte
-eine Äffin, die rasch mit inne innige Freundschaft! geschlossen
-hatte und die soeben auf sein Sandale gesprungen
-war. An ihrem Band hing festangeklammert. ihr- jüngerer
-Sprößling, ein winziges Tierchen von possierlichen Tube
+Harst hielt die Zigarette im Mundwinkel und streichelte
+eine Äffin, die rasch mit ihm innige Freundschaft geschlossen
+hatte und die soeben auf sein Knie gesprungen
+war. An ihrem Band hing festangeklammert ihr jüngster
+Sprößling, ein winziges Tierchen von possierlicher Unbeholfenheit.
 
-Seltenheit.
-Harst nahm die Zigarette in die Linke und sagte Gen
-
-Kämpft:
+Harst nahm die Zigarette in die Linke und sagte gedämpft:
 
 »Ihr Heim hier, mein lieber Jasper, ist wie ein Museum
-zartesten Gedenkens zu Gerda »Handel … Sie wälzten sie sehr
-geliebt hoben …
+zartesten Gedenkens an Gerda Gandel. Sie müssen sie sehr
+geliebt haben …«
 
-»I4 liebe sie noch … Gerda war mir die Erfüllung
-einer stillen Sehnsucht, « erwiderte Buid schlicht. »Vorteil
-beginnen Sie matt Gerda, Harst? Ich denke, die Person Jan
-Zeertens tritt? hier in den Vordergrund. Nach Bescheint
-Selbstmord herrschte Frieden van Bord. Zeerten weilte in
-Bombay, als Gerda verschwand. Wem diente Zeerten?ist
-Wedbkhalb die entsetzlichen Morde auf der Imalla?e! Und —
-wer trachtet mir jetzt nach dem »Belegt! Gerade mir, dem der
+»Ich liebe sie noch … Gerda war mir die Erfüllung
+einer stillen Sehnsucht,« erwiderte Buid schlicht. »Weshalb
+beginnen Sie mit Gerda, Harst? Ich denke, die Person Jan
+Zeertens tritt hier in den Vordergrund. Nach Zeertens
+Selbstmord herrschte Frieden an Bord. Zeerten weilte in
+Bombay, als Gerda verschwand. Wem diente Zeerten?!
+Weshalb die entsetzlichen Morde auf der Imalla?! Und —
+wer trachtet mir jetzt nach dem Leben?! Gerade mir, dem der
 Tod in Kürze gewiß ist.«
 
 Harst schwieg. Die Stille wurde bedeutend. Die Äffin
-säugte ihr Junges, und diese sözmatzenden Laute fielen mir
-auf die Herren…
+säugte ihr Junges, und diese schmatzenden Laute fielen mir
+auf die Nerven.
 
-Dann erklärte Harald mit leisem Vorwurf: »Sie haben’
-uns etwas verschwiegen, Spargel … Ich erfuhr dies zufällig
+Dann erklärte Harald mit leisem Vorwurf: »Sie haben
+uns etwas verschwiegen, Jasper … Ich erfuhr dies zufällig
 durch Broox am Abend des Tages, als er die Wunde
 an der Wange hatte und sich weigerte anzugeben, was er
 in Kabine fünf zu tun hatte. Seine Behauptung, die eine
-Kugel habe die Für durchschlagen und ihn gestreift, stimmte,
+Kugel habe die Tür durchschlagen und ihn gestreift, stimmte,
 <@pagebreak/>
-e- fuhr haben das nöchgeprüfi. Bronze war durchaus glaube
-würdig. Er erzählte mir also, in dem benachbarten Städtchen
-Rälaivelta, des mehr ein Dorf bei, lebe eine Frau, die, wie
-im bekannt, mit des: Verhängnis der … indischen Linie der
-Ereignis aufs engste verknüpft wäre, Sie soll eine Schatz
-braven, eine Besessene, sein und Chuna Dangi beiden. Er
+wir haben das nachgeprüft. Broox war durchaus glaubwürdig.
+Er erzählte mir also, in dem benachbarten Städtchen
+Malvetta, das mehr ein Dorf sei, lebe eine Frau, die, wie
+ihm bekannt, mit dem Verhängnis der indischen Linie der
+Greengils aufs engste verknüpft wäre. Sie soll eine Imabrassa,
+eine Besessene, sein und Chuna Dangi heißen. Er
 wollte ferner wissen, das Sie diese Greisin in ihrer Höhle
-regelmäßig besuchen. —ck Tübeghald verheimlichten Sie uns
-all das? —« Ich fällt mit dadurch verletzt und gleichzeitig
-ein; insofern gestört, als Wein Vertrauen an Ihre Luft
-Richtigkeit einen harten Stoß erlitt. Ich nahm mir Wadi vor,
-Ihpren’ Charakter ein wenig genauer zu studieren und erst
-hier zu Ort und Stelle mich zu entscheiden, was ich zu tun
-hatte.« «  -
+regelmäßig besuchen. — Weshalb verheimlichten Sie uns
+all das? — Ich fühlte mit dadurch verletzt und gleichzeitig
+auch insofern gestört, als mein Vertrauen an Ihre Aufrichtigkeit
+einen harten Stoß erlitt. Ich nahm mir daher vor,
+Ihren Charakter ein wenig genauer zu studieren und erst
+hier an Ort und Stelle mich zu entscheiden, was ich zu tun
+hätte.«
 
-Diese geschraubte Ausdrucksweise: Haralds, der doch für
-gewöhnlich sehr klar und eindeutig spricht, setzte mich in Exil
-staunen. Was hieß das: (Er wollte — sich entscheiden, was er
-zu tun hätte?! — Ich dachte, es »Eise der das; nur eins:
-Endliche Attentat! Weshalb wurde der arme Bald froh
-im Ungewissen darüber kleinsten, was aus seiner Banknoten
+Diese geschraubte Ausdrucksweise Haralds, der doch für
+gewöhnlich sehr klar und eindeutig spricht, setzte mich in
+Erstaunen. Was hieß das: Er wollte sich entscheiden, was er
+zu tun hätte?! — Ich dachte, es gäbe hier doch nur eins:
+Endliche Offenheit! Weshalb wurde der arme Buid noch
+im Ungewissen darüber belassen, was aus seiner Verlobten
 geworden?! Ich fand das geradezu grausam. Aber
 ich habe es selten gewagt, Harsts Entschlüsse zu durchkreuzen.
-Zumeist bin ich dabei, so gut ich es auch meinte, arg bereite
-gefallen. — Ynderseit9; Buch mich beschlich ein gewisses
+Zumeist bin ich dabei, so gut ich es auch meinte, arg hereingefallen.
+— Andererseits: Auch mich beschlich ein gewisses
 Unbehagen, als ich nun soeben erst gehört hatte, daß Buid
 Jasper diese Besessene Chuna Dangi vor uns so völlig verschwiegen
-hatte, Warum auf! Gab es für Buid hier etwas
+hatte. Warum nur?! Gab es für Buid hier etwas
 zu verheimlichen?! — — Ich war auf seine Antwort und
 seine Entschuldigungsgründe sehr neugierig,
 
 Eine Weile saß er regungslos da. Der Mungo in seinem
-Schoße sprang dann mit einem Satz durch da« Geländer
+Schoße sprang dann mit einem Satz durch das Geländer
 der Veranda in den Garten hinaus und verschwand im
-Schotten der Büsche.
+Schatten der Büsche.
 
-Buid sagte mit halb unterdrückten Seufzer: »Allescächt
-
-Koch auf Erden … Kleine Unwahrheiten machen lawinenartig
+Buid sagte mit halb unterdrücktem Seufzer: »Alles rächt
+sich auf Erden … Kleine Unwahrheiten wachsen lawinenartig
 <@pagebreak/>
-an und werden zu bedrohlichen Lügengespinst. — Weshalb
-im schwieg? Ja, Harst, — — vielleicht werden Sie
-meine Gründe zu würdigen wisse. Chuna Dangi ist die
-greise Mutter jener schonen Imalla, die einst by: Sie
-Thomas Greengil entführt wurde. Sie mag deute weit über
+an und werden zu bedrohlichem Lügengespinst. — Weshalb
+ich schwieg? Ja, Harst, — — vielleicht werden Sie
+meine Gründe zu würdigen wissen. Chuna Dangi ist die
+greise Mutter jener schönen Imalla, die einst von Sir
+Thomas Greengil entführt wurde. Sie mag heute weit über
 hundert Jahre alt sein … Aus ihrem Munde flog einst
 der Flucht gegen alle die, die das Blut Thomas Greengils
-und Imallas in den Adern haben würden, Sie war schon.
-Ehemals eine Imabrassa, eine Hexe etwa, und ihr Flut
+und Imallas in den Adern haben würden. Sie war schon
+damals eine Imabrassa, eine Hexe etwa, und ihr Fluch
 wirkte wie tödliches Gift, das wissen Sie. Als mein Vater
 hier die Plantage kaufte, glaubte er, sämtliche Verwandte
 Imallas seien langst gestorben. Als er dann selbst so jung
 verschied, hat meine Mutter uns einen versiegelten Umschlag
 hinterlassen, darin fanden wir unter anderem auch eine
-Niederschrift meines Paters für uns drei Kinder. Er warnte
-uns vor Chuna Dangi. Näheres gab er nicht als. Nachdem
+Niederschrift meines Vaters für uns drei Kinder. Er warnte
+uns vor Chuna Dangi. Näheres gab er nicht an. Nachdem
 mein älterer Bruder und meine Schwester dem entsetzlichen
 Verhängnis erlegen waren, habe ich, der letzte indirekte
-»Nachkomme des mit dem Fluche belasteten Geschlechts, eines
-Machte Chung Dangi aufgesucht. Ich wollte Klarheit haben,
+Nachkomme des mit dem Fluche belasteten Geschlechts, eines
+Nachts Chuna Dangi aufgesucht. Ich wollte Klarheit haben.
 Ich ahnte, daß die Greisin eine Verwandte Imallas sein
 könnte, und ich … wollte leben, ich wollte nicht jeden
 Abend mich mit dem grauenvollen Gedanken zur Ruhe
 begeben, daß abermals ein Tag entschwunden und der
-kritische dreißigste Geburtstag — unaufhaltsam näherrückte. Ich
+kritische dreißigste Geburtstag unaufhaltsam näherrückte. Ich
 war jung und voller Lebenshunger, ich besaß eine Plantage,
-ein Kleines Fürstentum, ich hatte fast tausend Angestellte,
+ein kleines Fürstentum, ich hatte fast tausend Angestellte,
 ich war reich und konnte diesen Reichtum vermehren, und
-ich … war arbeitöfreudig und ein Mensch mit — weittragenden
-Plänen, Ich kletterte zu der Höhle empor und rief in das
+ich war arbeitsfreudig und ein Mensch mit weittragenden
+Plänen. Ich kletterte zu der Höhle empor und rief in das
 Dunkel meinen Namen hinein. Ich zitterte vor Aufregung, —
 ich vernahm eine müde, morsche Stimme, die mir erklärte,
 ich solle mich entfernen, denn der Haß der Mutter Imallas
-würde niemals ersterben … »Wut — ich) bin ihre Mutter,
+würde niemals ersterben … »Und — ich bin ihre Mutter,
 damit du es weißt, — — und dir ist der Tod so gewiß wie
 <@pagebreak/>
-euch allen?« — Ich floh wie ein Wahnsinniger, sprang aus
+euch allen!« — Ich floh wie ein Wahnsinniger, sprang auf
 mein Pferd und jagte heim. — Es ist nicht wahr, daß ich
 des öfteren Chuna Dangi aufsuchte. Ich tat es erst wieder,
 als ich mich mit Gerda verlobt hatte und sie dann verschwand
-und ich hierher zurückkehrte —« ein gebrochener
-Mann. Da bin ich vier Möchte hintereinander bei Chuna
+und ich hierher zurückkehrte — ein gebrochener
+Mann. Da bin ich vier Nächte hintereinander bei Chuna
 Dangi gewesen, habe in den Steinen vor dem Höhleneingang
-gelegen und sie immer wieder angefleht, den- Fluch von mir
-zu nebenan, Nichts als ein s!schreckliches Lachen, hervorquellend
+gelegen und sie immer wieder angefleht, den Fluch von mir
+zu nehmen. Nichts als ein schreckliches Lachen, hervorquellend
 aus der Finsternis, war ihre Antwort, und am
-letzten Jasper« die Drohung, es würde … mein sofortiger
-Tod sein, wenn ich je verriete, wer Chuna Parallel …
+letzten Tage die Drohung, es würde mein sofortiger
+Tod sein, wenn ich je verriete, wer Chuna Dangi sei …
 denn, Harst, — Chuna Dangi Heißt ja nichts anderes als
 »Die ohne Namen« … In Malvetta weiß niemand, wer
-die Greisin ist … Niemand besinnt sie, wann und wie
+die Greisin ist … Niemand besinnt sich, wann und wie
 sie in dieser Gegend auftauchte. — Harst, ich bin ein Feigling,
-— aus Furcht vor ihrer Drang schwieg!ich … —’
+— aus Furcht vor ihrer Drohung schwieg ich … —
 Bin ich ein Lügner, ein hinterhältiger Mensch? Entscheiden
-Sie selbst …
+Sie selbst …«
 
 Wieder die bedrückende Stille …
 
-Nur das Gestern schmatzte an der Mutter Brust, und
-in den Büschen zischte der Mungo irgendeine »Schlange an
+Nur das Äfflein schmatzte an der Mutter Brust, und
+in den Büschen zischte der Mungo irgendeine Schlange an
 und tötete sie … Darum hält man auch das Ichneumon,
 den Schlangenbeißer, überall in Indien als Haustier,
 
-»Wie weit ist’s bis zur- Höhle?« fragte Harald plötzlich
+»Wie weit ist’s bis zur Höhle?« fragte Harald plötzlich
 lebhafteren Tones.
 
 Buid schnellte hoch. »Wollen Sie etwa …«
 
-… ’Ich werde!« sagte Harst nur, —
-Um: halb eins ritten — wir den Malvetta-Bergen u,
+»… Ich werde!« sagte Harst nur, —
+
+Um halb eins ritten wir den Malvetta-Bergen zu,
 wir drei …
 
 <@pagebreak/>
@@ -1761,96 +1760,93 @@ wir drei …
 <h2>2. Kapitel.</h2>
 <h3>Gerda taucht wieder auf.</h3>
 
-Man Sache: auf einer Karte von Zentralindien die Stadt
-Ins« an der Bahnlinie Dehli—Jemals—Lahore, Dieser
-Echzienenjirand durchschneidet die äußerste Nordostecke der
+Man suche auf einer Karte von Zentralindien die Stadt
+Sirsa an der Bahnlinie Dehli—Rewari—Lahore. Dieser
+Schienenstrang durchschneidet die äußerste Nordostecke der
 Thar-Wüste, die ich hier schon so oft erwähnt habe. Von
-Stelle zieht sich nach Osten hin eine tiefe, breite Schluß,
-ein ehemaliges Flußbett, durchrschnittlich eine halbe Meile
+Sirsa zieht sich nach Osten hin eine tiefe, breite Schlucht,
+ein ehemaliges Flußbett, durchschnittlich eine halbe Meile
 breit und von felsigen Ufern begrenzt. Hier muß einst ein
 Strom vorhanden gewesen sein, der dem Ganges nichts an
-Großartigkeit nachgab, genau wie noch nördlichen das alte
-Flußbett des Dies beweist, daß diese Landstriche einst durch
-vulkanische Einflüsse die seltsamsten Veränderungen erfahre!,
+Großartigkeit nachgab, genau wie noch nördlicher das alte
+Flußbett des Birs beweist, daß diese Landstriche einst durch
+vulkanische Einflüsse die seltsamsten Veränderungen erfahren
 haben.
 
-Der lehmige Boden dieses Ehepaar (so hieß der nun
+Der lehmige Boden dieses Ghaggar (so hieß der nun
 verschwundene Strom) begünstigte im Gegensatz zu dem benachbarten
-Wüstenhzaraktier der Landschaft die Ansiedlung
-von es tropischen Raunte, und so ward aus dem toten
-Ehepaar eine Riesenreich mit Wäldern, Sümpfen, Seen,
+Wüstencharakter der Landschaft die Ansiedlung
+von echt tropischer Fauna, und so ward aus dem toten
+Ghaggar eine Riesenoase mit Wäldern, Sümpfen, Seen,
 weiten Grasflächen und Buschstreifen,
 
-Hier liegt zwanzig Meilen von Birke entfernt auf
-
-»in Nordufer des Ehepaar der Ort Malvetta, noch« so?
+Hier liegt zwanzig Meilen von Sirsa entfernt auf
+dem Nordufer des Ghaggar der Ort Malvetta, nach fünf
 Meilen weiter die Plantage Buid Jaspers, deren Größe
-fünfzigtausend Morgen übersteigen bürste. Zwischen dem
+fünfzigtausend Morgen übersteigen dürfte. Zwischen dem
 Städtchen und der Plantage aber erheben sich, das Flußbett
-burdquerend, die Malvetta-Berge, eine Kette von felsigen,
-zum Feil bewaldeten, schlossen Anhöhen, die … zweifellos
+durchquerend, die Malvetta-Berge, eine Kette von felsigen,
+zum Teil bewaldeten, schroffen Anhöhen, die zweifellos
 erst durch dieselbe gewaltige vulkanische Erderschütterung
-entstanden sind, die auch den Ehepaar-Streich einfach versiegen
-Ließ. Dieser Felseuriegel, der das ungeheure … Flußbett
+entstanden sind, die auch den Ghaggar-Strom einfach versiegen
+Ließ. Dieser Felsenriegel, der das ungeheure Flußbett
 hier zerschneidet, gehörte mit seinen Östlichen Bergen noch
 zur Plantage, mit den westlichsten zu Malvetta, wo einst ein
-
-gefürchteten eingeborener Radscha herrschte.
+gefürchteter eingeborener Radscha herrschte. —
 
 <@pagebreak/>
-Die mondhelle Rechts und ein gut gepflegter Weg, eine
+Die mondhelle Nacht und ein gut gepflegter Weg, eine
 Autostraße für die Lastfahrzeuge der Plantage, erlaubte uns
-bis zu den Bergen in getroffen Galopp zu reiten. Tür
-Harald und mich war dieser Mit auf wundervollen Pferden
-ein lang entbehrten Genuß. Zug Buid als tadellosen Reiter
+bis zu den Bergen in gestrecktem Galopp zu reiten. Für
+Harald und mich war dieser Ritt auf wundervollen Pferden
+ein lang entbehrter Genuß. Auch Buid als tadelloser Reiter
 schien jetzt vergessen zu begaben, wie sehr er sich anfänglich
 gegen diesen nächtlichen Ausflug gesträubt hatte. Als wir
-uns dem Bergpaß näherten, der durch SpreKgungen in eine
-moderne Bergstraße verwandelt worden war, bog Buid neun
-Norden ab. Nun ging es im Saßnitz weiter. Die Szenerie
+uns dem Bergpaß näherten, der durch Sprengungen in eine
+moderne Bergstraße verwandelt worden war, bog Buid nach
+Norden ab. Nun ging es im Schritt weiter. Die Szenerie
 wurde, je höher wir stiegen, immer romantischer. An manchen
-Stellen bot der pfadlose Weg Schwierigkeiten, — die nur mit
-äußerster Bereit zu überwinden waren. Schroffe Abhänge
-drohten mit finsteren Tiefen, schmale Grate erforderten geh
-Schufte Pferde und schwindelfreie Reiter. —
-Naß etwa anderthalb Stunden wies Buid auf ein
+Stellen bot der pfadlose Weg Schwierigkeiten, die nur mit
+äußerster Vorsicht zu überwinden waren. Schroffe Abhänge
+drohten mit finsteren Tiefen, schmale Grate erforderten geschulte
+Pferde und schwindelfreie Reiter.
 
-fernes, vom Monde voll d5estrahltes Tal, dessen Weiseste
-in langen Terrassen anstieg. »Dort liegt die Höhle,’-erklärte
-er Kurz …
+Nach etwa anderthalb Stunden wies Buid auf ein
+fernes, vom Monde voll bestrahltes Tal, dessen Westseite
+in langen Terrassen anstieg. »Dort liegt die Höhle,« erklärte
+er Kurz.
 
-Ich ritt als letzter. Mein Gent war ein wenig übermütig,
+Ich ritt als letzter. Mein Gaul war ein wenig übermütig,
 und zuweilen hatte ich es für ratsam gehalten, abzusteigen
-und ihn am Zügel zu fahren. Dabei war mir, als ich eine
-mal zurückblickte, ein einzelner Reiter aufgefallen, der uns
-zu folgen schien, Ich machte Harst auf ihn aufmerksam,
-zu meinem Erstaunen legte er jedoch? rasch — den Zeigefinger
+und ihn am Zügel zu führen. Dabei war mir, als ich einmal
+zurückblickte, ein einzelner Reiter aufgefallen, der uns
+zu folgen schien. Ich machte Harst auf ihn aufmerksam,
+zu meinem Erstaunen legte er jedoch rasch den Zeigefinger
 auf die Lippen und rief mir etwas ganz Belangloses zu.
-As wir jetzt in das Tal hinabritten, bemerkte ratloser zwei
-Reiter hinter uns, anscheinend Eingeborene in. braunen
-
-Mänteln … von Schafwolle, Hier in den Bergen war es
-
+Als wir jetzt in das Tal hinabritten, bemerkte ich sogar zwei
+Reiter hinter uns, anscheinend Eingeborene in braunen
+Mänteln von Schafwolle. Hier in den Bergen war es
 empfindlich kühl.
-Bei dem Abstieg in das Tal, das wir nachher wieder
 
+Bei dem Abstieg in das Tal, das wir nachher wieder
 an der Westseite erklimmen mußten, rutschte nun Buid
 an einer abschüssigen Stelle mit seinem Pferde aus, das
 Geröll gab nach, und ehe wir dem Gestürzten zu Fuß zu
-Eile kamen, log er halb unter seinem Pferde. das sich den
+Eile kamen, lag er halb unter seinem Pferde, das sich den
 <@pagebreak/>
-fürchten Vorderfuß gebrochen hatte. Eine mitleidige Kugel als
-löste den armen Gaul. Buid jedoch war unfähig, sich sofort
-zu erheben, und klagte über starke Schmerzen im Leibe,
+rechten Vorderfuß gebrochen hatte. Eine mitleidige Kugel erlöste
+den armen Gaul. Buid jedoch war unfähig, sich sofort
+zu erheben, und klagte über starke Schmerzen im Leibe.
 »Ich wußte, daß uns etwas zustoßen würde,« meinte er
 achselzuckend. »Am besten ist, Sie beide kehren zur Plantage
 zurück und beordern ein paar Leute mit einer Tragbahre
-her. es
-Harald widersprach) höflich, aber bestimmt, »Mein lieber
+her.
+
+Harald widersprach höflich, aber bestimmt, »Mein lieber
 Buid, so dicht vor dem Ziel verzichte ich nicht darauf,
 diese Hexe Chuna Dangi kennen zu lernen. Wir werden Sie
-als hier zurücklassen. In einer Stunde sind wir wieder
-da. in legen Ihnen Ihre Büchse griffbereit, und sollte
+also hier zurücklassen. In einer Stunde sind wir wieder
+da. Wir legen Ihnen Ihre Büchse griffbereit, und sollte
 irgend etwas geschehen, so haben Sie hier die hohe Wand
 als Rückendeckung und neun Patronen im Rahmen … —
 Auf Wiedersehen … Die Pferde binden wir hier fest.«
@@ -1863,70 +1859,71 @@ zu wertvoll! Sie kennen die Machtmittel einer indischen
 Imabrassa nicht.«
 
 Harald klopfte auf sein Pistolenfutteral. »Dieses Mittel,
-lieber Jasper, ist so überzeugend, daß manche Menschen das
-vor für alle Zeit verstummen.«
+lieber Jasper, ist so überzeugend, daß manche Menschen davor
+für alle Zeit verstummen.«
 
 Wir schritten davon. Unsere Pferde schraubten ängstlich,
-sie witterten den toten Stall genossen, den wir als Fraß
-für die Geier in die nahe Schlucht geworfen hatten, —,
+sie witterten den toten Stallgenossen, den wir als Fraß
+für die Geier in die nahe Schlucht geworfen hatten, —
 
 Harst legte ein Tempo vor, daß mir sehr bald der Atem
 ausging. Ich merkte, daß dies Absicht bei ihm war. Er
-wellte sich nicht ausfragen lassen. Wir hatten dann kaum
+wollte sich nicht ausfragen lassen. Wir hatten dann kaum
 die buschreiche Talsohle erreicht, als er seine Schritte verkürzte,
 den Kopf zurückwandte und halblaut sagte: »Es
-wird Verschiedenes geschehen, das dich überraschen dürfte,
+wird Verschiedenes geschehen, das dich überraschen dürfte.
 Verrate durch keine Bewegung, daß etwas Besonderes vorgeht.«
 
 <@pagebreak/>
-Rauch weiteren fünf Könnten passierten wir eint Stelle,
-die in tiessteinx Gxblagsözutien da lag. die« ertönte von rechts
-»ins Nächster Väk« ein!schwacher Pfiff, der dem kurzen
-schrilles Schrei der Vachtschwalbe gilt. Harald zog mich
-schnell hinter einen größeren Felsblock und extsicverte seine
-Pistole, Die Winchesterbüchsen, die 5n8 Buid geliehen bat!,
+Nach weiteren fünf Minuten passierten wir eine Stelle,
+die in tiefstem Schlagschatten da lag. Hier ertönte von rechts
+aus Nächster Nähe ein schwacher Pfiff, der dem kurzen
+schrilles Schrei der Nachtschwalbe glich. Harald zog mich
+schnell hinter einen größeren Felsblock und entsicherte seine
+Pistole. Die Winchesterbüchsen, die uns Buid geliehen hatte,
 waren bei den Pferden geblieben.
 
-Harald pfiff jetzt jährlichen Weise, worauf hin alle
-derer Verstand ertönte: Das dumpfe Ahn-Hxu-Zu der ins
-Frechheit Geht-Eule, eines ganz gefährlichen Räubers,
+Harald pfiff jetzt in ähnlicher Weise, worauf ein anderer
+Tierlaut ertönte: Das dumpfe Schu-Hu-Hu der indischen
+Achi-Eule, eines ganz gefährlichen Räubers,
 
-»Sie finde,« meinte Halt beruhigt.
+»Sie sind’s,« meinte Harst beruhigt.
 
-Drei Gestalten bewachen vor uns auf. C& war zu dunkel,
-die Gesichter zu anheimelnd. Erst als die drei unmittelbar
+Drei Gestalten tauchten vor uns auf. Es war zu dunkel,
+die Gesichter zu erkennen. Erst als die drei unmittelbar
 vor uns standen, sah ich, daß es Kapitän Harry Broox,
-ferner einer der Matrosen, der in London anscheinend worden
-und … Gerda Garde! waren, — alle drei sonnenverbrannt
-wie Eingeborene und zu in der malerischen Fracht von
-radschputischen Hirten. Harst reichte Broox die Hand Lud (Rat
-mit ihn: abseits, Ich war so verbläöfft, daß ich kaum Worte
+ferner einer der Matrosen, der in London angeheuert worden
+und … Gerda Gandel waren, — alle drei sonnenverbrannt
+wie Eingeborene und auch in der malerischen Tracht von
+radschputischen Hirten. Harst reichte Broox die Hand und trat
+mit ihm abseits. Ich war so verblüfft, daß ich kaum Worte
 fand, Gerda und den Engländer zu begrüßen. Gerade dieser
 Matrose war mir an Bord sofort durch seine intelligenten
-Züge und eine gewisse AugLgeglichenheit der- Bewegungen
-aufgefallen. Er hieß Mac Erbt. Berg? ich jedoch mit den
+Züge und eine gewisse Ausgeglichenheit der Bewegungen
+aufgefallen. Er hieß Mac Orby. Bevor ich jedoch mit den
 beiden ein Wort wechseln konnte, trat Harald wieder zu
 uns, ergriff mich beim Arm und führte mich davon. Ich
 war noch immer derart verwirrt, daß ich erst auf der untersten
-Terrasse fragte: »Was bedeutet das nun wieder fk«
+Terrasse fragte: »Was bedeutet das nun wieder?!«
 
 Harald erwiderte prompt: »Gerdas Sehnsucht nach Buid
-erklärt wohl zu dies, mein Aber …«
+erklärt wohl auch dies, mein Alter …«
 
 »Das ist aufgelegter Schwindel,« meinte ich gereizt. »Du
-scheinst »mit Broox dauernd in Verbindung zu stehen,
+scheinst mit Broox dauernd in Verbindung zu stehen,
+und …«
 
-und ist scheint allerdings so … Broox ist nun einmal
-Gerdas Schutzengel, und Mac« ’Orby ist noch mehr als
-das er €«
+»Es scheint allerdings so … Broox ist nun einmal
+Gerdas Schutzengel, und Mac Orby ist noch mehr als
+das …«
 
 <@pagebreak/>
-»Mit einem Wort: Ich werde wieder einmal zu 26a
-schalte!, — es ist ein Skandal!«,
+»Mit einem Wort: Ich werde wieder einmal ausgeschaltet,
+— es ist ein Skandal!«
 
-»Du wirst nur für dritte geistige Kindheit gestraft …
-Ausgeschaltet wirst du nicht … By sage dir: Dieser Des
-such9 bei Chung Fang!: …- »oh
+»Du wirst nur für deine geistige Blindheit gestraft …
+Ausgeschaltet wirst du nicht … Ich sage dir: Dieser Besuch
+bei Chuna Dangi …«
 
 Er unterbrach sich …
 
@@ -1936,30 +1933,29 @@ Wir waren stehen geblieben.
 
 »Es klang wie … ein Schuß,« meinte ich tonlos …
 
-»Fein … das war Herrn Teehaus … Das zur der Aus
-Schlag eines Seines zu? Felsboden …- »Weiter, »7«
+»Nein … das war kein Schuß … Das war der Aufschlag
+eines Steines auf Felsboden … — Weiter …!«
 
 Wir hatten die oberste Terrasse erreicht. Sie war kahl
-und glatt, nur kleinere Steine lagen hier umher, Die Rückwand
+und glatt, nur kleinere Steine lagen hier umher. Die Rückwand
 erhob sich wohl fünfzig Meter hoch und bildete einen
-nach innen gekrümmten Bogen. -In der Mitte gähnte ein
-dunkles Loch, zu dem fünf Stufen, aus iFelsjtückken gebildet,
+nach innen gekrümmten Bogen. In der Mitte gähnte ein
+dunkles Loch, zu dem fünf Stufen, aus Felstücken gebildet,
 emporführten,
 
-Harald besuchte sich links dicht an die Felswand und
+Harald drückte sich links dicht an die Felswand und
 kroch so auf den Höhleneingang zu. Als er nur noch einen
-Meter von den Stufen entfernt war, ’vernahmen wir beide
-ein dumpfes Steinen… Harst ließ sich dadurch) nicht beirren,
+Meter von den Stufen entfernt war, vernahmen wir beide
+ein dumpfes Stöhnen. Harst ließ sich dadurch nicht beirren,
 sondern nahm seine helle Reisemütze ab und streifte sie über
-
 einen langen trockenen Zweig …
-Es war der alle Harsts, den schon der selige Karl May
 
+Es war der alte Kniff, den schon der selige Karl May
 populär gemacht hat …
 
 Bei Karl May knallten dann eilt paar Schüsse, und die
-Mütze flog als Eindecker durch die Luft, und Old Hinterland
-knallte mit seinem Maschinengewehr-Neuen-Stutzen die schattigen
+Mütze flog als Eindecker durch die Luft, und Old Shatterhand
+knallte mit seinem Maschinengewehr-Henry-Stutzen die schuftigen
 Sioux nieder.
 
 Hier knallte nichts. Absolut nichts. Nur das dumpfe
@@ -1969,40 +1965,34 @@ trat. Es mußte ein Mensch sein, der dort in der Höhle im
 Todeskampfe lag … Zuweilen ging das Stöhnen in ein
 noch entsetzlicheres Wimmern über, und als nun gar noch
 <@pagebreak/>
-aus der Finsternis ein glatter, dünner Echt. 323: 72 die
-zu binabschtüpfie, Küsse Ab keinerlei Gen mehr,
-Chana Danzig« Leise Drohung. näher zu bei!! gen, denn
-dieses, Vepsil’ wär untersinken eine Lanzentakange, als
-die gisüügite Per tropischen Länder. — Ich huscht? »hier eine
-Ich »daß die Annähme, die zahllosen Todesfall« durch
-Gilismfangei in Sahib Fang durch die oben, die Drittens
-gelange, dadurch;aus irrt riß, denn die Hoben ist Verhältnis
-Mr! »groß und verrät 1,9 vor Gent Nnquiff durch den
-pfeifende Ton, mit dein sie, in gereiztem Zustand ihre Haube
-Aufprall, Wir, gefürcteisten sind die indische Sandrässels
-Stier und die Busche oder Vartzensziange, Sie sind sein,
-werden nur fünfzig Zeutiumelier lang, — ich« Biß, ist stets
-tödlich, falls Nr t’ Sofort Gegenmittel angewandt werden.
-»Harald hatte der Schlange nachgeschaut: und flüsterte:
-»Brise zurück und hole trockenes Gras … Wir Brüllen
-brennende Hra&bündel hineinwerfen, …«.
-Nach fünf Minuten lohten 1:wart 588 Höhlentiungoings
-vier Engländer und zeigten uns, als wir vorsichtig hinelnsluglen,
-eine am Boden liegende Gestalt, neben Ader ’ einen
-Stein von gut zwei Zentner Gewicht « « « Dies war der Stein
-bei um Du
+aus der Finsternis ein glatter, dünner Schlangenleib die
+Stufen hinabschlüpfte, fühlte ich keine Sehnsucht mehr,
+Chuna Dangis Felsenwohnung näher zu besichtigen, denn
+dieses Reptil war unverkennbar eine Lanzenschlange, also
+die giftigste der tropischen Länder. — Ich möchte hier einflechten,
+daß die Annahme, die zahllosen Todesfälle durch
+Giftschlangen in Indien kämen durch die Kobra, die Brillenschlange,
+vor, durchaus irrig ist, denn die Kobra ist verhältnismäßig
+groß und verrät sich vor dem Angriff durch den
+pfeifende Ton, mit dem sie in gereiztem Zustand ihre Haube
+aufbläst. Am gefürchtetsten sind die indische Sandrasselotter
+und die Busch- oder Lanzenschlange. Sie sind klein,
+werden nur fünfzig Zentimeter lang, — ihr Biß ist stets
+tödlich, falls nicht *sofort* Gegenmittel angewandt werden.
 
--
+Harald hatte der Schlange nachgeschaut und flüsterte:
+»Krieche zurück und hole trockenes Gras … Wir müssen
+brennende Grasbündel hineinwerfen …«
 
-Er zwar auf
-Dr
+Nach fünf Minuten lohten unweit des Höhleneingangs
+vier Grasbündel und zeigten uns, als wir vorsichtig hineinlugten,
+eine am Boden liegende Gestalt, neben ihr einen
+Stein von gut zwei Zentner Gewicht … Dies war der Stein
+des Anstoßes.
 
-«
--
+<h2>3. Kapitel,</h2>
 
-3\. Kapitel,
-
-… Die Hexe
+<h3>Die Hexe</h3>
 
 Dir Beleuchtung durch das lodernde Gras schien Harald
 uns nicht zu genügen. Er band seine Taschenlampe zu den
@@ -2034,7 +2024,7 @@ ernsthaften Gefahr rechnete. Vorhin diese bestehen könnte,
 war mir unklar. Die Greisin selbst war bewußtlos, wenn
 nicht tot. Sie regte sich nicht mehr. Wen hatten wir sonst
 zu fürchten?! Es war mir längst bekannt, daß keine Imabrassa
-je mit einer Person zusammenknüllte. Die Imabraisi
+je mit einer Person zusammenknüllte. Die Imabrassi
 waren Einsiedlerinnen, denen die Anwohner der Umgegend
 freiwillig Speise und Trank brachten. — Was also veranlaßte
 Harst zu diesem vorsichtigen Abwarten?! Gelangen
@@ -2499,7 +2489,7 @@ Dasetnsrampf Kennengelernt … Ich bin großzügig seiner
 An …«
 
 »Gerda!!« Es lang wie ein Schrei der Erlösung.
-»Herde … ik Nie … nie hätte ich das zu hoffen gewagt …!«
+»Herde … iß Nie … nie hätte ich das zu hoffen gewagt …!«
 Seine Stimme fieberte … »Gerda, —« ich bin ein Eroberer
 … Ich bin Lord Cecil Greengils Erbe geworden
 durch eigene Kraft … Fast wäre diese meine Kraft erlahmt
@@ -2573,7 +2563,7 @@ ihn weiter zu täuschen, erfand ich die Attentate auf mich in
 Bombay und unterwegs hierher … Ich hatte nur zwei
 <@pagebreak/>
 Mitwisser, Delta: Meinen Obergärtner Ranke und feurig
-Hexe Chung Europas, die Kanals Sumatras Winter Na.
+Hexe Chuna Europas, die Kanals Sumatras Winter Na.
 Au das erfand ich … Gestern nacht starb sie — durch
 einen Stein … Ich hatte Rat: Pferd die Talwand hinabgleiten
 lassen, 853 z6uichie untere Verletzungen vor, eilte Harst
