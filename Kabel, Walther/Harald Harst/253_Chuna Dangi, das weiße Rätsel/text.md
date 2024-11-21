@@ -1,18 +1,7 @@
-<@pagebreak/>
-Harald. Harst — —
-Aus meinem Leben
+<@pagebreak 3/>
 
-Band: 253
+<h1>Chuna Dangi, das weiße Rätsel</h1>
 
-Chuna Dangi,
-das weiße Rätsel —
-
-Erzählt von
-Max Schraut
-
-Verlag moderner Lektüre G., in. b. H.
-Berlin so 416, Michaelkirchstraße so …
-<@pagebreak/>
 
 <h2>1. Kapitel.</h2>
 <h3>Eine Mondnachtszene.</h3>
@@ -21,265 +10,265 @@ Berlin so 416, Michaelkirchstraße so …
 Spleen behaftet!« sagte Detektivinspektor Grablay zu uns,
 
 Es war Abend, und auf der Veranda war es kühl und
-angenehm. — Sie kennen Jaspers Bungalow, »Fräulein
-Friede! P, ans dem bekannten ostpreußischen Seebade Sie
+angenehm. — Sie kennen Jaspers Bungalow, Fräulein
+Friedel P. aus dem bekannten ostpreußischen Seebade. Sie
 lesen ja alle Harstbände, wie Sie mir anvertraut haben. Sie
 schreiben so offen: »Ich bin sehr verwöhnt, was Lektüre betrifft,
-— Ihre Bücher lese ich sehr gern, … « — I.4+; möchte
+— Ihre Bücher lese ich sehr gern … « — Ich möchte
 Ihnen an dieser Stelle für diesen Brief danken, ebenso dem
-Häarsifreunde aus Algier, der mir die echte Beduinensatteltasche
-schickte … Sie hängt rechts neben meinen! Schreibtisch an
-der Wand, und quer darüber hängt das!lange Anhielte Wurfmesser,
-mit dem Harst beinahe das Lebenaliht ausgeblasen
+Harstfreunde aus Algier, der mir die echte Beduinensatteltasche
+schickte … Sie hängt rechts neben meinem Schreibtisch an
+der Wand, und quer darüber hängt das lange indische Wurfmesser,
+mit dem Harst beinahe das Lebenslicht ausgeblasen
 worden wäre. Es ist mir beim besten Willen nicht möglich,
 jede Zuschrift durch einen Brief zu beantworten. So danke
 ich denn auch heute hier allen denen, die in den letzten Wochen
-meiner gedacht Haben, — 3. B. dem Herrn aus Jena, der sich
-hinter einem Pseudonym verbarg … Wegzhalb zollen Sie
-meinem Bemühen, meine Leser harmlos zu unterstützen, nicht
+meiner gedacht Haben, — z.&nbsp;B. dem Herrn aus Jena, der sich
+hinter einem Pseudonym verbarg … Weshalb zollen Sie
+meinem Bemühen, meine Leser harmlos zu unterhalten, nicht
 unter Ihrem wahren Namen so schmeichelhafte Anerkennung?!
-Ihr Brief verrät manches Ihr finster Stil, Flure eigenartigen
-Vedewendungen beweisen mehr als Durbsamnittzbildung.
-Dollen Sie nicht einmal An Sceuderaum von Mumienkopf auf
+Ihr Brief verrät manches. Ihr flotter Stil, Ihre eigenartigen
+Redewendungen beweisen mehr als Durschnittsbildung.
+Wollen *Sie* nicht einmal im Senderaum von Runxendorf auf
 <@pagebreak/>
-Welle 0,03 einen Vertrag über die literarische Kost halten,
-die der Allgemeinheit schmeckt?! NRunxendvorf ist ja so merkwürdig
-still geworden. Der Sender scheint nickt in Ordnung
-zu sein … Vielleicht baut der Besitzer jetzt am Not Brief
-Gemüse, da das Geschäft nicht mehr recht geht … Kam!
+Welle 0,03 einen Vortrag über die literarische Kost halten,
+die der Allgemeinheit schmeckt?! Runxendorf ist ja so merkwürdig
+still geworden. Der Sender scheint nicht in Ordnung
+zu sein … Vielleicht baut der Besitzer jetzt am Pol grünes
+Gemüse, da das Geschäft nicht mehr recht geht … Kann
 sein … — —
+
 Also Grablay hatte da soeben etwas von Spleen geredet,
 und aus dem Dunkel kam Haralds freundliche Antwort …
-… »Weshalb nicht einmal wieder jeglicher Kultur gründlich
-den Rücken fahren, lieber Grablay?! In Schmargendorf bei
+
+»Weshalb nicht einmal wieder jeglicher Kultur gründlich
+den Rücken kehren, lieber Grablay?! In Schmargendorf bei
 Berlin leben Schraut und ich dieser Kultur allzu nahe …
-Wenn wir ein paar Straßen weiter wandern,.ist das künstliche
-Idyll« vorüber, dann sehen wir gen Norden den schlanken
-Funkturm des Pistolen-Senders, sehen abends das erleuchtete
+Wenn wir ein paar Straßen weiter wandern, ist das dörfliche
+Idyll vorüber, dann sehen wir gen Norden den schlanken
+Funkturm des Witzleben-Senders, sehen abends das erleuchtete
 Restaurant, und der Riesenscheinwerfer dreht sich immerfort
 und fährt mit seinem weißen Finger durch die matte Dämmerung,
-die über Berlin lagert … Dann hören wir unters
-Indien die U-Bahn dröhnen, oberirdisch die Straßenbahn
+die über Berlin lagert … Dann hören wir unterirdisch
+die U-Bahn dröhnen, oberirdisch die Straßenbahn
 poltern, Autos flitzen vorbei, Lastzüge rumpeln, die Stadtbahn
 sehen wir auch mit ihren elektrischen Zügen … Die Kultur
-spukt uns an mit dem Brüllen der ZFeitungshändler, dem
+spuckt uns an mit dem Brüllen der Zeitungshändler, dem
 Hupengeheul, dem Geknatter der kleinen Benzinstänker und
-den kurzen Möchten und den Bubiköpjien und mit unzähligen
-anderen Dingen … Weshalb sollen Schraut und ich) da nicht
-mal zur Erholung in einer Höhle in den Malvetta Bergen
+den kurzen Röckchen und den Bubiköpfchen und mit unzähligen
+anderen Dingen … Weshalb sollen Schraut und ich da nicht
+mal zur Erholung in einer Höhle in den Malvetta-Bergen
 hausen?! Hier auf der Plantage, lieber Grablay, geht ja
 das Gespenst dieser Kultur auch schon um. Hier gibt’s Lautsprecher,
-Fünfröhrengerät, Antenne, Autos, neueste Namens,
-Zeitungen und — — ein alle, die ihr hier um mich heraus
-sitzt und mich dauernd an Buid Lager, den vielfachen Mörder,
+Fünfröhrengerät, Antenne, Autos, neueste Romane,
+Zeitungen und — — euch alle, die ihr hier um mich herumsitzt
+und mich dauernd an Buid Jasper, den vielfachen Mörder,
 erinnert. All das will ich eben für eine Woche vergessen
-— gründlich! Dort in den Malvetta- Bergen, wo die Watte
+— gründlich! Dort in den Malvetta-Bergen, wo die Wüste
 der Thar so nahe, wo vielleicht auch noch ein echter indischer
 Bandit anzutreffen ist, werde ich mich nach diesen letzten
-Wochen mit der nervenausreibendon Hetze ihrer Ereignisse
+Wochen mit der nervenaufreibenden Hetze ihrer Ereignisse
 <@pagebreak/>
 erholen … Und daß will ich. Morgen früh reiten Schraut
-und ich zu Chuna Dangis Höhle und richten uns dort Haus«
-lich ein. Wir werden Bergschafe sicher, wir werden Lieblich
+und ich zu Chuna Dangis Höhle und richten uns dort häuslich
+ein. Wir werden Bergschafe schießen, wir werden vielleicht
 auch einen Tiger erlegen, wir werden auf offenem Feuer uns
-Tee bereiten und ein Lendenvieriel braten … Es wird sehr
+Tee bereiten und ein Lendenviertel braten … Es wird sehr
 schön werden …«
 
 Stuart Grablay sagte nachdenklich:
 
-»Im, — wenn nur nicht hinter diesem geplanten Höhlenwodzenende
-was anderes stet …! Euch beiden ist nie zu
-fragen …,! — Schade, im muß morgen nach Hamburg) Sitz
-lud … Die anderen kommen mit … Man müßte euch
-beiden einen Aufpasser bestellen, …«-
+»Hm, — wenn nur nicht hinter diesem geplanten Höhlenwochenende
+was anderes steckt …! Euch beiden ist nie zu
+trauen …! — Schade, ich muß morgen nach Bombay zurück
+… Die anderen kommen mit … Man müßte euch
+beiden einen Aufpasser bestellen …«
 
-Unser Landsmann Karl Ganzen meinte da:
+Unser Landsmann Karl Janzen meinte da:
 
 »Ich komme nicht mit … Harst hat mir gestattet, ihn zu
-begleiten … Ich reite morgen; ich fahre nicht Eisenbahn,
-Die Kultur kann auch mir mal gestohlen bleiben, …«
+begleiten … Ich reite morgen, ich fahre nicht Eisenbahn.
+Die Kultur kann auch mir mal gestohlen bleiben …«
 
-Toter Emil Karl Janzen war von der Waterkant. Erster
-Steward Wir er auf Mit Jägers Jacht gewesen. Und ein
-famoser junger Kerl dazu. Hatte seine Eigenheiten, halte eine?!
-HDulschädel, hatte Unterart; und Abenteuerlust, hatte auch ein
-Auge auf Gerda Gandels blonde Schönsten geworfen, vielleicht
-auch zwei Augen … « « — und wandte sich nun ihr zu:
+Peter Emil Karl Janzen war von der Waterkant. Erster
+Steward wer er auf Buid Jaspers Jacht gewesen. Und ein
+famoser junger Kerl dazu. Hatte seine Eigenheiten, hatte einen
+Dickschädel, hatte Mutterwitz und Abenteuerlust, hatte auch ein
+Auge auf Gerda Gandels blonde Schönheit geworfen, vielleicht
+auch zwei Augen … — und wandte sich nun ihr zu:
 
 »Fräulein Gerda (auch sie war Deutsche, aber das Leben
 hatte mit ihr böse Fangball gespielt, und schließlich war sie
-arabische Detektivin geworden), Sie nehmen es mir nicht
+englische Detektivin geworden), Sie nehmen es mir nicht
 weiter krumm, daß ich die Höhlenpartie mitmache, bei unserer
-Verabredung bleibt’s dennoch, gemeinsam vermauerten …
+Verabredung bleibt’s dennoch, gemeinsam heimzureisen …
 Sie haben den Detektivberuf satt, und ich will nun meiner
 Mutter die Freude machen und unseren kleinen Bauernhof
 bewirtschaften … Mutter wird mir schon verzeihen …
-Ich war ein Lausbub allezeit, nun hat mich die ’Feomde etwas
+Ich war ein Lausbub allezeit, nun hat mich die Fremde etwas
 glatt geschliffen und zahm gemacht … Also in zehn Tagen
 bin ich in Bombay. So lange wird Mr. Grablays Gattin Sie
 aufnehmen … « — —
 
-Das war am Abend des 4, August.
+Das war am Abend des 4. August.
 
 <@pagebreak/>
 Am folgenden Abend war alles ganz anders — genau um
 dieselbe Zeit. Harst saß in der Höhle am Schreibtisch der toten
 Chuna Dangi, und Janzen und ich saßen vor der Höhle und
-rauchten und Schwester und blickten in daß mondhelle Tal
-Hinab. Tür die Leser, die den vorigen Band nicht kennen
-sollten, dürfte es erstaunlich klingen, wenn ich stier von einem
-»Schreibtisch« rede. Aber die Greisin Chuna Dunst, die in
-dieser Höhle zahllose Jahre gehaust hatte, war eine sehr geh
-Heimniä8volle Persönlichkeit gewesen. Sie kam irgendwoher,
-— irgend jemand stattete ihr die Höhle mit um Weil fort.
-baren, altindischen Möbeln aus, — irgo’io« — Male ihr
-moderne Romane, wisseiwschaftliche Werke und vieles andere
+rauchten und schwatzten und blickten in das mondhelle Tal
+Hinab. Für die Leser, die den vorigen Band nicht kennen
+sollten, dürfte es erstaunlich klingen, wenn ich hier von einem
+»Schreibtisch« rede. Aber die Greisin Chuna Dangi, die in
+dieser Höhle zahllose Jahre gehaust hatte, war eine sehr
+geheimnisvolle Persönlichkeit gewesen. Sie kam irgendwoher,
+— irgend jemand stattete ihr die Höhle mit zum Teil kostbaren,
+altindischen Möbeln aus, — irgendwer hatte ihr
+moderne Romane, wissenschaftliche Werke und vieles andere
 verschafft. Sie starb als »Chuna Dangi«, und das bedeutet
 »Die ohne Namen« und müßte richtig. Chu na Dangi geschrieben
-werden. Sie starb, weil Maid Jäger sie mit einem
-Stein schwer versetzte. Sie war unten im Tale, zwischen dein
+werden. Sie starb, weil Buid Jasper sie mit einem
+Stein schwer verletzte. Sie war unten im Tale, zwischen den
 grünen Büschen in aller Stille begraben worden, und dieses
-Tal lag nun im Mondesglanz zu unseren Füßen. — Ganzen
+Tal lag nun im Mondesglanz zu unseren Füßen. — Janzen
 war mit einem Male recht still geworden.
 
 »Woran denken Sie?!«
 
-»As so manches,« erklärte er zerstreut und strich sich das
+»An so manches,« erklärte er zerstreut und strich sich das
 semmelblonde volle Haar aus der Stirn. »Zum Beispiel an
 das Paket, Herr Schraut … Sie wissen, nachdem Buid
-Jasper die Fremde ohne Namen getötet hatte, rauchte er ihren
-Schreibtisch) aus, legte alle Schriftstücke in ein zerlöchertes
+Jasper die Fremde ohne Namen getötet hatte, raubte er ihren
+Schreibtisch aus, legte alle Schriftstücke in ein zerlöchertes
 Tuch der Greisin, umschnürte es mit Bindfaden und verbarg
-es drüben an der Nordwand im Geröll, Wir — Grablay,
+es drüben an der Nordwand im Geröll. Wir — Grablay,
 Fräulein Gerda und ich, waren ihm stets auf den Fersen …
-Dr nahmen das, Paket an uns, und Harst hat die Schritte
-öde, Seite, Briefe und Notizen mit Grablay durch
-gesehen. »Aber all diese Mutter Grunzen ergeben nichts über
+Wir nahmen das Paket an uns, und Harst hat die Schriftstücke,
+Hefte, Briefe und Notizen mit Grablay durchgesehen.
+Aber all diese Aufzeichnungen ergeben nichts über
 Namen und Herkunft der Greisin, all diese Papiere, zum
 Teil verwittert und verblaßt, waren in einer Chiffreschrift
-abgefaßt, die Harsts Bemühungen trottete, …«
+abgefaßt, die Harsts Bemühungen trotzte …«
 
 »Na ja, — — und?!« warf ich etwas gelangweilt ein.
 
 <@pagebreak/>
-»euch — — Grablay hat ganz recht, Herr Schraut …
-Ihr »Freund spielt hier wieder ermittelt mit Krämpfen, die er
-zurücktgalt’
+»Und — — Grablay hat ganz recht, Herr Schraut …
+Ihr Freund spielt hier wieder einmal mit Trümpfen, die er
+zurückhält.«
 
-Ich blickte Janzen forschend an. »Davon weiß, ich
-nichts … « sagte ich ehrlich? »Harald ist kulturmüde …
+Ich blickte Janzen forschend an. »Davon weiß ich
+nichts …« sagte ich ehrlich. »Harald ist kulturmüde …«
 
-»Im, — aus dem Paket ist ein kleines Heft verschwunden
-… « flüsterte Janzen, »Ich hatte ja die Vorhang
-Venen. Schpriftsiüce genau gezählt … — Gerade dieses Besuchen
+»Hm, — aus dem Paket ist ein kleines Heft verschwunden
+…« flüsterte Janzen. »Ich hatte ja die Vorhandenen
+Schriftstücke genau gezählt … — Gerade dieses Heftchen
 fiel mir auf, denn es hatte einen Einband von Krokodilleder,
 Bauchseite, selbst gegerbt; — ein Deckel also, in den etwa
-zehn Blätter eingeheftet waren … — Grablay bat dies
-rofodilbüchlein nie zu Gesicht bekommen … Es war verschwunden,
+zehn Blätter eingeheftet waren … — Grablay hat dies
+Krokodilbüchlein nie zu Gesicht bekommen … Es war verschwunden,
 nachdem Harst die erste flüchtige Durchsicht der
-Gatten allein besorgt hatte. Ich habe geschwiegen … Ihr
+Sachen allein besorgt hatte. Ich habe geschwiegen … Ich
+wette: Harst hat in dem Büchlein etwas entdeckt, das ihn
+dazu bestimmte, es …«
 
-alte: Harst hat in dem Büchlein etwas entdeckt, das ihn
-dazu bestimmte, es
-
-Hinter uns widersprach eine klare Stimme; »Ein Irrtum,
-lieber Janzen … I) habe nichts verschwinden lassen …
-Tür er Ihre Behauptung, dieses Krokodilbüchlein fette, ist
-außerordentlich) wichtig … « — Harst setzte sich zu uns.
-»29 wäre übrigens ratsam, ihr würdet eure Zigarren weglegen
-… « Wir sitzen hier vorn im Schatten des überhängenden
+Hinter uns widersprach eine klare Stimme: »Ein Irrtum,
+lieber Janzen … Ich habe nichts verschwinden lassen …
+Aber Ihre Behauptung, dieses Krokodilbüchlein fehle, ist
+außerordentlich wichtig …« — Harst setzte sich zu uns.
+»Es wäre übrigens ratsam, ihr würdet eure Zigarren weglegen
+… Wir sitzen hier vorn im Schatten des überhängenden
 Höhleneingangs, aber gerade glimmende Zigarren
-sind weshalb desto deutlichere zu sehen, und … es ist hier nicht
+sind deshalb desto deutlicher zu sehen, und … es ist hier nicht
 alles so, wie es sein sollte, mein lieber Janzen, das stimmt
-schon, Lediglich »aus Spleen« bin ich wirklich nicht hierher
-gekommen, auch das stimmt …
+schon. Lediglich »aus Spleen« bin ich wirklich nicht hierher
+gekommen, auch das stimmt …«
 
 Unser Höhlenidyll war hiermit zu Ende. Das Idyll
-wandelte sich allmählich; zur Tragödie … Die erste Zwischenstadien
-dieses weiten, bluffen Weges war das Frosch l!büchlein.
+wandelte sich allmählich zur Tragödie … Die erste Zwischenstation
+dieses weiten, dunklen Weges war das Krokodilbüchlein.
 
-»Es ist gestohlen worden,« sagte Harst nach einigen Des
-versuchen, die Chuna Dangis seltsames Leben hier in der
-Aödgeschiedenheit dieser Gebirgswelt betrafen. »Wer stahl es?!
-Jedenfalls seiner von uns, die wir den Bungalow Buid Jaspers
-bewohnten … —« Das Paket lag in Jaspers Arbeitszimmer
+»Es ist gestohlen worden,« sagte Harst nach einigen Bemerkungen,
+die Chuna Dangis seltsames Leben hier in der
+Abgeschiedenheit dieser Gebirgswelt betrafen. »Wer stahl es?!
+Jedenfalls keiner von uns, die wir den Bungalow Buid Jaspers
+bewohnten … Das Paket lag in Jaspers Arbeitszimmer
 <@pagebreak/>
 eine volle Nacht unbewacht. Die Dienerschaft ahnte
-nichts von seiner Bedeutung. Nebenan schrie« Grablay bei
+nichts von seiner Bedeutung. Nebenan schlief Grablay bei
 offener Verbindungstür. Die Fenster waren geschlossen, die
-Türen von innen verriegelt, Lediglich die Oberfenster blieben
-geöffnet. Trotzdem muß jemand durch diese Oberfenster ausgestiegen
-sein. — Wer?! — Es muß eine Person Fenster
-sein, die Jena wußte, wo das Paket lag, uxxs es enthielt
-und was daraus verschwinden müßte, um. Stämme Flucht
-Geheimnis zu hüten. 2Bahrsc Antlitz stand diese Person der
-Greisin sehr nahte, unansehnlich hat Chuna Hängt dieser
-Person sowohl die. kostbare Ausstattung der Höhle als auch
-die zahlreichen Bücher und Zeitschriften zum Teil neuesieint
-Datums zu danken, Erörterungen darüber anzustellen, wer
+Türen von innen verriegelt. Lediglich die Oberfenster blieben
+geöffnet. Trotzdem muß jemand durch diese Oberfenster eingestiegen
+sein. — Wer?! — Es muß eine Person gewesen
+sein, die genau wußte, wo das Paket lag, was es enthielt
+und was daraus verschwinden müßte, um Chuna Dangis
+Geheimnis zu hüten. Wahrscheinlich stand diese Person der
+Greisin sehr nahe, wahrscheinlich hat Chuna Dangi dieser
+Person sowohl die kostbare Ausstattung der Höhle als auch
+die zahlreichen Bücher und Zeitschriften zum Teil neuesten
+Datums zu danken. Erörterungen darüber anzustellen, wer
 diese Person sein könnte, sind müßig. Nur eins muß ich hier
 hervorheben, das mich mit dazu bestimmte, mich weiter mit
 der Einsiedlerin zu beschäftigen: Wir haben sie begraben,
-und als wir sie der Tiger überaabein, ist vielleicht nur mir
-ausgehöhlten, daß diese Frau Zeit« Inderin, sondern eine Europäerin
-war. Ihr Gesicht, ihr Hals, Nacken, Hände, Unters
-arme waren von der Sonne lief gebräunt, In durch das
-zerschlissene Gewand bedeckten Leib war von heller. Hautfarbe
-… «« Sie war Europäerin.«
+und als wir sie der Erde übergaben, ist vielleicht nur mir
+aufgefallen, daß diese Frau keine Inderin, sondern eine Europäerin
+war. Ihr Gesicht, ihr Hals, Nacken, Hände, Unterarme
+waren von der Sonne tief gebräunt. Ihr durch das
+zerschlissene Gewand bedeckter Leib war von heller Hautfarbe
+… Sie war Europäerin.«
 
-Janzen und ich) waren über diese Neuigkeit wohl gleichmäßig
-erstaunt, Dennoch fand nur der frühere Steward hierfür
-eine treffende Rauchring: »Sollte nicht auch Inspektor
-Grablay dies bemerkt Knabe 1?! &r hatte doch zusammen mit
-dem Arzte aus dem Städtchen Malvetta die Todesursache groß
-tokollarisch festgelegt, und es ist kaum anzunehmen, daß die
-beiden Herren erstarrt begnügten, lediglich die unbedeckten
-Körperteile in Augenschein zu nennen. — Mithin …«
+Janzen und ich waren über diese Neuigkeit wohl gleichmäßig
+erstaunt. Dennoch fand nur der frühere Steward hierfür
+eine treffende Äußerung: »Sollte nicht auch Inspektor
+Grablay dies bemerkt haben?! Er hatte doch zusammen mit
+dem Arzte aus dem Städtchen Malvetta die Todesursache protokollarisch
+festgelegt, und es ist kaum anzunehmen, daß die
+beiden Herren sich damit begnügten, lediglich die unbedeckten
+Körperteile in Augenschein zu nehmen. — Mithin …«
 
-Aber dieses »Mithin« sollte vorerst Anfang eines nur den
+Aber dieses »Mithin« sollte vorerst Anfang eines nur berechtigten
+Satzes bleiben,
 
-Matrosen Gates bleiben,
-
-Harst Gebot… Janzen durch eine nähere Handbewegung
+Harst gebot Janzen durch eine rasche Handbewegung
 Schweigen.
 
 Das mondhelle Tal, das bisher so einsam und verlassen
 <@pagebreak/>
 dagelegen hatte, ward urplötzlich durch einen gellenden Schrei
-aus nächtlicher Ruhe aufgestört, durch einen Schrei, Berlin
-sah ertönte, daß es mir unmöglich erschien, mein Freund
-könnte ihn vorausgeahnt Haben, Und doch mußte es so sein,
+aus nächtlicher Ruhe aufgestört, durch einen Schrei, der so
+jäh ertönte, daß es mir unmöglich erschien, mein Freund
+könnte ihn vorausgeahnt Haben. Und doch mußte es so sein.
 Harsts Handbewegung war immerhin vier bis fünf Sekunden
-vor … diesem schrillen, durchdringenden Auf erfolgt, und jetzt
+vor diesem schrillen, durchdringenden Ruf erfolgt, und jetzt
 schnellte er mit langen Sätzen die natürlichen Terrassen hinab,
-die sich bis zum HLHöhleneingang emporzogen und tauchte
-zwischen Buschwerk und verstreuten: Felsxblöckey unter.
+die sich bis zum Höhleneingang emporzogen und tauchte
+zwischen Buschwerk und verstreuten Felsblöcken unter.
 
 Ich wollte aufspringen. Janzens eiserne Faust packte mich.
 »Wir sind dort überflüssig, Herr Schraut …« meinte er
 so merkwürdig bestimmt, daß es sich fast anhörte, als ob
-Genick hindern wollte, Harald zu folgen. Ich blickte ihn Erstaunt
+er mich hindern wollte, Harald zu folgen. Ich blickte ihn Erstaunt
 und gereizt an, aber unser Platz hier lag ja im
-Schatten, und ich halt nur, daß der Exsteward mich beinahe
-bösartig anfunkelte. Seine graublauen großen Augen wareit’
-sonst stets so melanchholisch—gutmütig. Diesen Ausdruck, den
-ich freilich mehr erriet, hatte im jedenfalls in Karl Janzens
+Schatten, und ich sah nur, daß der Exsteward mich beinahe
+bösartig anfunkelte. Seine graublauen großen Augen waren
+sonst stets so melancholisch-gutmütig. Diesen Ausdruck, den
+ich freilich mehr erriet, hatte ich jedenfalls in Karl Janzens
 Friesenaugen noch nie wahrgenommen.
 
-»Gestalten Sie mal,« entfuhr es mir gereizt, und ich
-suchte mich) seinem kraftvollen Griff zu enthielten, — ein aussimlsloses
-Bemühten, denn Janzen besaß die Starke eines
+»Gestatten Sie mal,« entfuhr es mir gereizt, und ich
+suchte mich seinem kraftvollen Griff zu entziehen, — ein
+aussichtsloses Bemühten, denn Janzen besaß die Stärke eines
 gut trainierten Preisboxers, was man seiner schlanken mittelgroßen
-Gestalt kann ansah.
+Gestalt kaum ansah.
 
 »Sollen auch wir beide vielleicht so blindlings ins Verderben
 rennen, wie Harst es tat,« erklärte er auffällig ruhig.
-Gleichzeitig ließ er meinen Ärmlich und stand auf, »Bitte —
-schauen Sie einmal dorthyin!t«
+Gleichzeitig ließ er meinen Arm los und stand auf. »Bitte —
+schauen Sie einmal dorthin!!«
 
-Ich sprang sonniger und gewahrte an der Ostseite des Tales
+Ich sprang empor und gewahrte an der Ostseite des Tales
 einen Zug von etwa zwanzig Dromedarreitern, die im
-gegessen Galopp. dem Engpaß zusagten, der dort drüben
+schärfsten Galopp dem Engpaß zujagten, der dort drüben
 die schroffen Anhöhen durchbrach.
 
 Ich hatte bisher Karl Janzens Person nur die Aufmerksamkeit
@@ -287,42 +276,40 @@ geschenkt, die man einem gänzlich unverfänglichen
 Menschen entgegenbringt, Mehr noch: Da gerade Janzen
 <@pagebreak/>
 durch jenen Messerwurf so Schwer verletzt wurde, der eigentlich
-Harst gegolten halte, war er als Patient an Lord der
-Sahst Scharfe lediglich mit aufrichtigster Teilnahme von uns
-Palast worden. Gewitzt, zuweilen mochte so manches an
-ich?! mir widerspruchsvoll erschienen. seit. Über seine Vergangenheit,
-seine Friseuse in aller Herren Länder, über seine
-engere Heimat und Famtizienverhältnisse’ hatte er sich stets
-nur in Andeutungen geäußert, Sie: konnten wahr sein, sie
-konnten aber auch ebensogut … lediglich die Wahrheit verschleiern
+Harst gegolten hatte, war er als Patient an Bord der
+Jacht Imalla lediglich mit aufrichtigster Teilnahme von uns
+bedacht worden. Gewiß, zuweilen mochte so manches an
+ihm mir widerspruchsvoll erschienen sein. Über seine Vergangenheit,
+seine Erlebnisse in aller Herren Länder, über seine
+engere Heimat und Familienverhältnisse hatte er sich stets
+nur in Andeutungen geäußert. Sie konnten wahr sein, sie
+konnten aber auch ebensogut lediglich die Wahrheit verschleiern
 sollen.
 
-Während ich noch den Dromedarreitern anblickte, die
-bereits im tiefen Station des Nasses verschwunden waren,
-sprach Langen halblaut ein paar Worte, die ihm wohl Witz
-bewußt über die Lippen kamen:
+Während ich noch den Dromedarreitern nachblickte, die
+bereits im tiefen Schatten des Passes verschwunden waren,
+sprach Janzen halblaut ein paar Worte, die ihm wohl unbewußt
+über die Lippen kamen:
 
-»Wenn das ein weiterer Beweis wäre,, 21«
+»Wenn das ein weiterer Beweis wäre …?!«
 
-Über so sehr mich.) diese Äußerung auch in Erstaunen
-setzte, — ich hatte jetzt an anderes zu denken. Ich- lief die
+Aber so sehr mich diese Äußerung auch in Erstaunen
+setzte, — ich hatte jetzt an anderes zu denken. Ich lief die
 Terrassen hinunter — hinein in die Büsche — — bis zum
-Grabe der Frau ans Namen, zu dessen Bunten wir Tier
-bellen Sandsteinblock aufgestellt hatten als Naturmonument …
-Er hatte die ungefähre Form eines »Fragezeichen, und Grablay
-hatte gemeint, einen Besonderen Grabstein für diese Fremde
-hausen wir wohl kaum finden können,
+Grabe der Frau ohne Namen, zu dessen Häupten wir einen
+hellen Sandsteinblock aufgestellt hatten als Naturmonument.
+Er hatte die ungefähre Form eines Fragezeichen, und Grablay
+hatte gemeint, einen passenderen Grabstein für diese Fremde
+hätten wir wohl kaum finden können,
 
-Neben dem umgesjtürziean Steine und dem geöffneten und
-leeren Grabe lag Harst eigne jede Verletzung, aber gefesselt und
-geknebelt. Alltag Knebel hatte er ein Bastseidenes Tüchlein im
-Munde, das eine siebenzaFXize Krone in Goldstickerei und
-darunter in Hellblau das Monogramm Oh. D. zeigte.
+Neben dem umgestürzten Steine und dem geöffneten und
+leeren Grabe lag Harst ohne jede Verletzung, aber gefesselt und
+geknebelt. Als Knebel hatte er ein weißseidenes Tüchlein im
+Munde, das eine siebenzackige Krone in Goldstickerei und
+darunter in Hellblau das Monogramm Ch. D. zeigte.
 
-«
-
-2\. ein
-Das Thargespenst,
+<h2>2. Kapitel.</h2>
+<h3>Das Thargespenst,</h3>
 
 Die Grotte, in der die Einsiedlerin Chuna Dangi so viele
 Jahre — wie viele, wußte niemand — gestattet hatte, besaß
@@ -433,7 +420,7 @@ das Büchlein in die Hände spie eben, damit ich die Chiffren
 richtig deutete?! Haben Sie … das Lesbare entfernt
 
 Karl Janzen knöpfte seine Weste auf und entnahm der
-Innentasche wortlos das dünne Heft mit dem Krokodillederdedel,
+Innentasche wortlos das dünne Heft mit dem Krokodillederdeckel,
 reichte es Harst, erhob sich und ging hinaus. Wir
 hörten seine Schritte verhallen. Er war die Terrassen entnahm
 gestiegen.
@@ -705,7 +692,7 @@ besonders verhaßt.
 
 Wir redeten über andere Dinge. Um vier Uhr weckte ich
 Harst. Wir nahmen unsere Tiere mit und gelangten nach zehn
-Minuten zu einer flachen Vertiefung des GSandstreifens,
+Minuten zu einer flachen Vertiefung des Sandstreifens,
 Hier lag auf dem Rücken anrechnen, die eine schwarzeingefaßte
 Hornbrille aufhatte. Ihr einst braunes Gesicht war durch
 die bereits eingetretene Verwesung entsetzlich verfärbt, Stirn
@@ -755,7 +742,7 @@ Schafen hinweg.
 Ich erschrak so, daß ich nur rief: »Langen?!«
 
 »Ja … Sein Pferd, mein Alter, hatte auf der linken
-Hinterhand den Drehtritt. Außerdem Hatte Janzen eine Nemingtonpistöle
+Hinterhand den Drehtritt. Außerdem Hatte Janzen eine Remingtonpistole
 7 7,9. Zier ist, die Patronenhäülse, Ich hob sie
 aus dem Sande auf, Ferner trägt Janzen Schnürschuhe
 mit sehr breiten Spitzen, Und schließlich geht er stark eins
@@ -837,7 +824,7 @@ hatten die hohen Herren ins Exil Geschirr, richtig kü die
 Spalte geschickt …! Das kommst davon, wenn man gegen
 die braunen Kerle zu scharf vorgeht, — Mohßammedaner und
 Hindu schlagen sich in Kalkutta die Artikel ein, ich soll
-Ruhe Stiften, lasse schießen,.’, und acht Tage darauf werde
+Ruhe Stiften, lasse schießen…’, und acht Tage darauf werde
 im … — befördert — — zum Chef der Ostsektion des PolizeiDromebarreiterkorps
 …! Befördert!! Nun sitze ich hier in
 Ghaggar seit fünf Monaten und Melbourne … Bin schon
@@ -850,7 +837,7 @@ hatte er, und sein Kragen war seit Wochen reif für die
 Waschanstalt …!
 
 Harald schüttelte leicht den Kopf. »Drebber, das hätte ich
-nie für möglich gehalten, «!! Sie, der beste Deteltivoberinspeltor
+nie für möglich gehalten, «!! Sie, der beste Detektivoberinspektor
 in ganz Indien — — und hier nun in der Thar
 auf verlorenem Posten! Ihre Vorgesetzten müssen den Versank
 Ungebühr aber!«
@@ -1071,7 +1058,7 @@ doch gehen, Harst!!«
 
 Wir begannen zu frühstücken. Aber die Stimmung war
 lau. Drebber brütete vor sich hin, und Harald erzählte
-ihm die Geschichte von Irina Banderkott8 Verhängnis, jenes
+ihm die Geschichte von Irina Vanderkotts Verhängnis, jenes
 seltsame Problem, bei dem auch ich bis zum letzten Moment
 über den wahren Täter im ungewissen geblieben war. John
 hatte, als wir die Zigarren anzündeten, wieder seine beliebte
@@ -1101,11 +1088,11 @@ Braune Ganzen kümmerten sich splitternackt in der Sonne,
 und in »der durchsichtig klaren Luft schwebten eine Menge
 Nachgehen, die mich an die erschossene Frau, an the Ghost
 of the Thar, erinnerten, Ich wandte den Kopf, »Drebber,
-sind Sie denn niemals dieser geheimnisvollen Frau begegnet?1«
+sind Sie denn niemals dieser geheimnisvollen Frau begegnet?!«
 
 »Nein, Schraut … « Er gähnte … »Sie interessiert
 mich auch nicht … Die Weiber können mir gestohlen bleiben
-… — ck Oh — — siew’ da, Miß Digall und ihr Verehrer
+… — Ch Oh — — siew’ da, Miß Digall und ihr Verehrer
 als Nachtisch. »1?«
 
 An der Hecke kamen zwei Reiter dahergetrabt, beide auf
@@ -1115,7 +1102,7 @@ Ich habe auf dem Roman von Tage Grog, auf dem Ums
 schlug, ein Bild gesehen, das die Heldin Betty Tage darstellt,
 Ich brauche hatten Miß Charlotte Digall hier nicht näher
 zu beschreiben, ich betone nur: Drebber hatte uns fürchten«
-lich »angelogen; Miß Digall war die pikanteite, rassigste
+lich »angelogen; Miß Digall war die pikanteste, rassigste
 Schönheit, die ich je bewundern durfte,
 
 Und auch Mr. Allan Peer entsprach in keiner Weise
@@ -1288,7 +1275,7 @@ müssen …«
 
 Allan Peer rückte mit seinem Stuhl sehr ostentativ von
 Charlotte ab, schlug ein Bein über das andere und murmelte;
-»Nette Geschichten, — in der Hätt’« ck
+»Nette Geschichten, — in der Hätt’« Ch
 
 »Halten Sie den Mund!« rief Drebber ihm grob zu,
 »auch setzen Sie sich gefälligst anständig hin! In Gesellschaft
@@ -1299,7 +1286,7 @@ Aber Peer lächelte nur amüsiert. »Zu einem Verhör
 muß ein Grund vorliegen, Mr. Drebber … Bretter haben
 Sie mir diesen Grund Unglück nicht genannt, Ich segele
 nicht unter falscg)er Flagge, ich heiße John Peer, bin uns
-verheiratet und Mitglied des Negierungsparlaments, …«
+verheiratet und Mitglied des Regierungsparlaments, …«
 
 Drebber tat so, als ob Peer überhaupt nicht spräche,
 
@@ -1315,7 +1302,7 @@ sagte:
 Der Erfolg war vielseitig: Charlotte schlug die Hände
 vor das Gesicht, Drebber stierte Harst wild an, Peer rückte
 <@pagebreak/>
-mit seinem Stuhl rote» mehr seitwärts, und ich … nun
+mit seinem Stuhl rote« mehr seitwärts, und ich … nun
 ich beschränkte mich auf den in solchen Fällen üblichen
 geistvollen Gesichtsausdruck,
 
@@ -1494,7 +1481,7 @@ schlafen, Trotz meiner Jugend war im faul, 1.1413 gelbe,
 ständig und mit dem Farmbetrieb völlig vertraut. — Nun
 komme ich zu einem äußerst wichtiger Punkt. Mein Väter, …
 Du) seine traurige Ehe und deren Ungeklärtes, peng Frau
-eigenes Ende zu einem Deutschenhasjer geworden, hatte ein
+eigenes Ende zu einem Deutschenhasser geworden, hatte ein
 Testament hinterlassen, in dem er in der Zerrissenheit seiner.
 Seele etwa folgendes festgelegt hatte: »Da meine Ehe mit
 einer Deutschen jv unglücklich verlaufen ist, da ich ferner die
@@ -1537,7 +1524,7 @@ sehr berühmt, seine Findigkeit wurde … immer wieder 7 speisten.
 achtzehn Jahre, ich lebte hier einsam und zufrieden nur der
 Arbeit. Ich liebte die Farm, ich liebte diese goldene »Freiheit,
 — man nannte mich nur »Chinin Digall, den Mann
-in Weiberröcken«, — es war ein Chrentitel. Da erhielt ich
+in Weiberröcken«, — es war ein Ehrentitel. Da erhielt ich
 plötzlich Besuch. Es war ein Inder, der mir in sehr geheimnisvollen
 Weise einen Brief übergab. Das Schreiben
 kam von meiner totgeglaubten Mutter. Der Inder gab mir
@@ -1797,7 +1784,7 @@ die Person, die dort hinter den Fenster steht und uns des
 lautet, auch nur die geringste Bewegung machen, drücke
 im ab, Und ich treffe bestimmt …
 … Drebber und Ich fuhren aus den Korbsesseln. Im selben
-Moment knallte auch schon der Schuß, die Milcchglasscheibe
+Moment knallte auch schon der Schuß, die Milchglasscheibe
 zersplitterte, und Harst schnellte auf das Fenster zu, wollte
 <@pagebreak/>
 sich inetnzwängen …«.«« Über der Fensterrahmen gab: nicht
@@ -1898,7 +1885,7 @@ Als wir um die Echte bogen und den Parkeingang vor
 uns sahen, kamen von den H)ürden her zwei Reiter enge
 trabt: Sergeant Mutter) und Willen Peer, — eine Strecke
 hinter ihnen sechs Beamte des Dromedarkorps, die Karabiner
-!ehe;lag über den Spritzern.
+!anstieg über den Spritzern.
 
 Harald blieb stehen. »Hm, die Sache wird windig, mein
 Alter …? Armer Drebber!! Mutley ist umgefallen, Peer
@@ -1929,7 +1916,7 @@ Die Reiter waren Ei! hinter uns.
 Drebber las in! Zelte Zeitung und hatte die Füße-wieder
 auf dem Tischrand, Nil Peer die verblüffende Veränderung
 gewahrte, die mit Drebber inzwischen vor sich gegangen
-war, und Drebber ihn auch noch» durch das Einglas kahl
+war, und Drebber ihn auch noch« durch das Einglas kahl
 und verächtlich« musterte, konnte der semmelblonde Allan
 seinen Spruch) nur mäßig energisch vorbringen,
 
@@ -2081,7 +2068,7 @@ Pforte des kleinen Marmorbauwerks. Lotti öffnete den einen
 <@pagebreak/>
 Altkluge ganz weit. Vier Stufen tiefer standen inmitten
 »eines kapellenartigen Raumes zwei dunkle Särge. Vor einem
-Altar mit großem MuttergottesSbild brannte eine ewige Lampe
+Altar mit großem Muttergottesbild brannte eine ewige Lampe
 und zwei die gelbe Kerzen in silbernen, altertümlichen
 Leuchtern. Linker Hand stand eine Marmorbank. Wir setzten
 uns, Lotti blieb stehen und stützte sich leicht auf den Center
@@ -2303,7 +2290,7 @@ bald nach Sitzen, bald nahm Süden, bald nach Norden, —
 das war sogar diesen Banditen zu viel gewesen. Die Dromedare
 lagen mit schlagenden »Flanken da, wir drei Gefangene
 saßen nebeneinander im Schatten der felsigen Nordwand.
-Jan gab uns Dosörrfleisc, Hirsekuczen und. Wasser, und
+Jan gab uns Dosörrfleisc, Hirsekuchen und. Wasser, und
 all das arme ein Wort, Man führte uns nachher etwa
 hundert Meter weiter um die Talbiegung und auf schmalem
 Felsgrat die Wand empor zu einer Art Terrasse, die nach
@@ -2317,7 +2304,7 @@ Wolldecken zeltartig abgeteilt. Wir konnten hier sehr leicht
 überwacht werden, da es nur den schmalen Grat als Zugang
 gab, Vier der Banditen so. »en sich, die Flinten über den
 Knien, neben uns nieder. Wo die Übrigen blieben, konnten
-wir nicht feststellen, Der Antlitz. :« erschien dann etwa nach
+wir nicht feststellen, Der Antlitz.:« erschien dann etwa nach
 einer Stunde und beehrte uns nun zum ersten Male mit
 einer Ansprache. Der Mann Hatte ein Paar stehende, schwarze
 Augen, eine natuürlicastolze Haltung und beherrschte das
@@ -2379,7 +2366,7 @@ Lipo hat eine schöne Käfersammlung, wie ich sah)…«.«
 <@pagebreak/>
 — Erwischt, der Kerl klappte die Augenlider zu … — Und
 dann brummte er: »Nachts reitet dein Freund!« und verduftete
-wieder, Er war ein merkwürdiger Näuberchef. —…
+wieder, Er war ein merkwürdiger Räuberchef. —…
 Von nebenan … kam Lottis angebliche Stimme: »Herr Harsts,
 reizen Sie doch die Leute nicht unnötig … Ich, gebe gern
 fünfzigtausend Rupien her, und Peer wird Ihrem Freunde
@@ -2426,7 +2413,7 @@ Der Mond schien in das Tal hinab. Wir Hatten »die
 Ranken an zwei Stellen auseinandergeschoben und konnten
 … unten im Tale alles erkennen: Links, wo der schmale Grat
 begann, lehnte einer der Tharräuber… die Flinte im Arm.
-Rechts in einer Seitenschhlucht, vor der eine Sanddüne aufgewacht
+Rechts in einer Seitenschlucht, vor der eine Sanddüne aufgewacht
 war, lagen drei -Dromedare und bewegten mahlend
 die Unterkiefer. Sie waren gesattelt und trugen noch Wasserschläuche.
 
@@ -2478,7 +2465,7 @@ zu. Wir kamen unbemerkt heran. »Guten Abend, Fräulein
 Gandel,« sagte Harst ganz laut. »Haben Sie Peer — er
 schossen?«
 
-Gerda Handel, bisher Detektivin im englischen Polizeibienst,
+Gerda Handel, bisher Detektivin im englischen Polizeidienst,
 schnellte hoch. »Mein Gott -ck — Sie beide?!«
 
 »Ja, wie Sie selten … — Was treiben Sie Tiere«
