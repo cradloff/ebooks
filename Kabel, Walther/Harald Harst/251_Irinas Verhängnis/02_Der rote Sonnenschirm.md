@@ -9,7 +9,7 @@
 Harald als Beichtvater, als Tröster der Bedrängten ist
 vielleicht in seiner unübertrefflichen Art, geknickte Herzen
 wieder aufzurichten, noch unerreichbarer als auf seinem
-Spezialgebiet, der Entwirrung verschlungenen Fäden eines
+Spezialgebiet, der Entwirrung verschlungener Fäden eines
 Verbrechens.
 
 Er nahm Helgas Kopf in seine Hände, schaute ihr in
@@ -53,7 +53,7 @@ Lassen Sie mich gehen, bevor noch der Vater zurückkehrt …«
 Aber Harald hielt sie fest. Er erhob sich gleichfalls,
 legte den einen Arm um sie und sagte eindringlich: »Mein
 Kind, Ihre kleinen, zarten Geheimnisse werden wir hüten …
-Nicht wahr, Heribert Prank ihr der, der Ihrem Herzen nahe
+Nicht wahr, Heribert Prank ist der, der Ihrem Herzen nahe
 steht …«
 
 Ich war erstaunt. Woher wußte Harald dies?! Hatte
@@ -92,19 +92,19 @@ Murmeln, — — wurde wieder lauter …
 Moritz erzählt hat, die drei Herren im Augenblick der Tat
 im Salon weilten … Sie … sie waren alle drei im
 Garten: Heribert, der Major und Direktor Hirsch … —
-Heribert hast es mir ja eingestanden … Ich sprach ihn ja,
+Heribert hat es mir ja eingestanden … Ich sprach ihn ja,
 bevor er verkleidet wieder die Villa betrat … sprach ihn
 nur wenige Minuten, und … und zwischen uns ist nun
 alles aus, denn als ich ihm in meiner Herzensangst vorhielt,
 er habe doch geschossen, sagte er nur: »Also das traust
-du mir zu!!« Und dann eilte er von der der Zaunlücke weg
+du mir zu!!« Und dann eilte er von der Zaunlücke weg
 und ließ mich im Regen stehen … — — Mein Gott,
 wie soll ich all das ertragen …?! Wenn ich es nicht gesehen
 hätte, daß Heribert die kleine Pistole …«
 
 Die Tür, durch die vorhin Helga hereingekommen war,
 flog auf, und der bucklige, rotbärtige Moritz stürzte herein …
-Mit eine Gesichtsausdruck, als ob er uns zerfleischen
+Mit einem Gesichtsausdruck, als ob er uns zerfleischen
 wollte, brüllte er Harst an:
 
 »Was haben Sie hier mit dem verrückten Mädel zu
@@ -302,7 +302,7 @@ für uns, je nachdem einer Sehnsucht nach Luft und Sonne
 empfindet.
 
 Aus einem dieser Stühle erhob sich Heribert Prank, —
-etwas müde und verlegen, und unsicher begrüßte er uns …
+etwas müde und verlegen und unsicher begrüßte er uns …
 
 »Ich wollte doch einmal fragen, ob der Fall Ganotta
 schon geklärt ist, lieber Harst …«
@@ -376,7 +376,7 @@ Feuer, Prank, — mit Ihrer Pistole … mit Ihrer Feuerzeugpistole
 Ich stutzte … Mir ging ein Lichtlein auf.
 
 Jeder kennt diese Feuerzeuge in Pistolenform. Sie sind
-aus schwarzen Blech geeignet, die teueren aus dunklem Stahl
+aus schwarzen Blech gestanzt, die teueren aus dunklem Stahl
 <@pagebreak/>
 mit Nagelfeile, Bürste und Zahnstocher, Messerchen und anderem
 im Kolben.
@@ -385,12 +385,12 @@ Prank faßte in die Tasche … drückte die »Waffe« ab …
 Es sprühte, und ein Deckelchen am Lauf sprang auf und der
 Docht brannte.
 
-»Das war der Schuß, den Helga sah, mein Alter,«
+»*Das* war der Schuß, den Helga sah, mein Alter,«
 lächelte Harald. »Ich dachte mir es gleich, denn Prank hat
 ja in dem Film »Der Page Ihrer Hoheit« mit dieser »Pistole«
 sehr wirksam operiert … — Das wäre der eine Punkt. —
 Der zweite: Sie, lieber Prank, der Major und Direktor
-Hirsch war gar nicht im Salon, als Ganotta getötet wurde,
+Hirsch waren gar nicht im Salon, als Ganotta getötet wurde,
 sie drei waren leise hinausgegangen, und gerade Sie, Prank,
 erkletterten den Eichenstumpf im Hintergarten, wollten sich
 eine Zigarette anzünden … Da hörten Sie Irinas Aufschrei
@@ -517,7 +517,7 @@ Harst richtete sich wieder auf. »Und wo ist der Schirm
 geblieben?«
 
 <@pagebreak/>
-»Das weiß ich Licht, lieber Harst, ich habe mich um das
+»Das weiß ich nicht, lieber Harst, ich habe mich um das
 Ding auch nicht weiter gekümmert.«
 
 »Nun, — der Schirm war nicht mehr im Zimmer, als
@@ -725,7 +725,7 @@ und nun stehen vier Mann Wache, und Pingalli
 lacht uns aus. Wer zuletzt lacht, lacht am klügsten, Kinder.
 Nun erzählen Sie mal, Harst.«
 
-Der tat’s uns verschwieg nichts. Lücke kokettierte mit
+Der tat’s und verschwieg nichts. Lücke kokettierte mit
 seinen Brillantringen und warf ein: »Irina und Helga
 <@pagebreak/>
 Schwestern — — olle Kamellen! Das wußte ich schon
@@ -790,7 +790,7 @@ flackerten vor Hohn.
 »Ein Assistent des Museums, Herr Kriminalkommissar,
 — zu dienen.«
 
-»Mit weitem Zuge reisen der Doktor und das Fräulein?«
+»Mit welchem Zuge reisen der Doktor und das Fräulein?«
 
 »Mit keinem. Mit einem gemieteten, großen Auto. Vor
 zehn Minuten verabschiedete sie sich von Eva und mir.
@@ -811,7 +811,7 @@ Sonnenschirm gefunden?« fragte Harst da und legte Moritz
 vertraulich die Hand auf die Schulter.
 
 Moritz schielte ihn von unten an. »Hm — — Sonnenschirm
-… — na ja, da war komisch … Ein roter Sonnenschirm
+… — na ja, das war komisch … Ein roter Sonnenschirm
 lag heute früh in unserem Erdbeerbeet unter den
 dichtesten Stauden, total verregnet und schmutzig … Ich
 habe ihn Eva gezeigt, aber sie wollte ihn nicht haben, und
@@ -982,7 +982,7 @@ auch Radiobastler zu sein, denn ein kleines Hinterzimmer
 sei als Werkstatt eingerichtet, und an dem Handwerkszeug,
 Schraubstöcke, Lötkolben und so weiter, fehle nichts … —
 Harst bat Lücke, sich doch auf jeden Fall abends gegen zehn
-bei uns einzufinden. »Ich wollte um acht Kommen,« erklärte
+bei uns einzufinden. »Ich wollte um acht kommen,« erklärte
 der elegante Hans. — »Kommen Sie um zehn, das
 reicht, das ist noch zu früh …« und Harald hängte ab.
 
@@ -1043,7 +1043,7 @@ haben.«
 Ich war sehr müde, als gegen zehn nicht nur Hans
 Lücke, sondern auch Heribert Prank erschien, den Harald
 gleichfalls zu einer kleinen Besprechung eingeladen hatte.
-Prank sah entsetzlich elend ans, und mir wieder war der
+Prank sah entsetzlich elend aus, und mir wieder war der
 eingelegte Aal schlecht bekommen, obwohl ich hinterher Natron
 und drei Kognaks geschluckt hatte. Mein Interesse für dieses
 erneute Konzilium war daher gleich Null. Auch der elegante
@@ -1240,7 +1240,7 @@ Verbrechen verüben …! — Hoffentlich haben Sie zwei Paar
 Handschellen bei sich, lieber Lücke … Diese elenden Gesellen
 sollen uns schleunigst aus den Augen …«
 
-Helga flog mit einem Jubelruf ihren Heribert an die
+Helga flog mit einem Jubelruf ihrem Heribert an die
 Brust, und Pingalli preßte sein Weib an sich und küßte
 sie … — —
 

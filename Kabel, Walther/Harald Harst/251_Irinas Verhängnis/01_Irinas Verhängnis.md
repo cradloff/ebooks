@@ -3,8 +3,6 @@
 <#import "*/harst.ftl" as harst>
 <@harst.introshort/>
 
-<h1>Irinas Verhängnis</h1>
-
 <h2>1. Kapitel.</h2>
 
 <h3>Irina und ihre Gäste.</h3>
@@ -33,11 +31,11 @@ Filmgrößen hinweggesehen, und Richard Pingalli wieder
 war zu menschenscheu und zu sehr strenger Wissenschaftler
 als daß ihm unsere Vagabundennaturen zusagen konnten.
 
-Das alles sollte sich mit einem Schlage anderen. Irina
+Das alles sollte sich mit einem Schlage ändern. Irina
 hatte freilich schon nach dem schweren Verhängnis, das sie
 betroffen und das ihr den lahmen Fuß und die tiefe Kinnarbe
 eingetragen, etwas freundlicher gegrüßt und sogar
-meine geringe Person zweimal eines freundlichen Lächeln
+meine geringe Person zweimal eines freundlichen Lächelns
 gewürdigt. Aber gesprochen hatten wir bisher mit ihr nicht
 und als es geschah, war es Nacht und Irina in Tränen
 aufgelöst. —
@@ -237,7 +235,7 @@ Herren in den Salon. Man spielte um ganz harmlose Einsätze
 <@pagebreak/>
 Kartenlotterie. Um elf bittet Irina den Legationsrat,
 ihr den neuen Schlager vorzusingen. Sie begeben sich in
-das Musikzimmer, die Schiebetür zum Salons bleibt offen.
+das Musikzimmer, die Schiebetür zum Salon bleibt offen.
 Doktor Ritschel folgt den beiden. Ganotta nimmt am Flügel
 Platz, Ritschel stellt sich an das rechte Fenster des Musikzimmers
 und schaut in den Garten hinaus, Irina lehnt am
@@ -254,7 +252,7 @@ Ritschel als auch Irina und die Herren im Salon den
 Schuß vernehmen müssen, falls dieser etwa im Musikzimmer
 selbst oder dicht vor dem linken Fenster — am rechten stand
 Ritschel — abgefeuert worden wäre. — Der Polizeiarzt hat
-die Kugel mit einer Zange unschwer herausziehen Können,
+die Kugel mit einer Zange unschwer herausziehen können,
 da sie nur die eine Herzwand halb durchschlagen hatte. Diese
 Kugel ist ein Nickelmantelgeschoß Kaliber 6,9 und zeigte
 im Mantel die Eindrücke der Züge einer automatischen
@@ -327,7 +325,7 @@ das ich ebenfalls Heribert Prank verdanke. In Irinas
 Salon haben dieselben Gäste schon häufiger ein harmloses
 Spielchen gemacht. Ich fragte Prank, ob der Spieltisch immer
 rechts vor dem Ecksofa aufgestellt worden sei, von wo aus
-ein Blick in bis Musikzimmer nicht möglich ist. Prank erwiderte
+ein Blick in das Musikzimmer nicht möglich ist. Prank erwiderte
 unbefangen, der Spieltisch habe sonst stets vor dem
 Wandsofa links gestanden. Mithin hat Irina an diesem
 Abend den Tisch anders stellen lassen. — Prank gab auch
@@ -488,7 +486,7 @@ wenig Aussicht zu treffen. Gewiß — nach meiner Theorie
 traf sie auch die falsche Person. Aber — gib acht! — bei
 neunzehn Meter durchschlägt ein modernes Nickelmantelgeschoß
 einen menschlichen Körper, wenigstens Weichteile,
-ganz glatt. Hier aber war die Kugel in der äußeren Holzwand
+ganz glatt. Hier aber war die Kugel in der äußeren Herzwand
 stecken geblieben, nachdem sie nur das Oberhemd und
 ein dünnes, seidenes Unterhemd durchbohrt hatte. — Daß
 auch Lücke hieran gedacht hat, merkte ich ihm sehr wohl
@@ -520,7 +518,7 @@ auch nur zur Verschleierung seiner Gedanken.«
 
 Wir zogen die leichten Gummimäntel über, setzten die
 Schlappmützen auf, steckten das Handwerkszeug zu uns und
-Waren gleich darauf in Irinas Garten neben der Fontäne.
+waren gleich darauf in Irinas Garten neben der Fontäne.
 
 Harald hatte meinen Arm umkrallt und wies nach vorwärts
 … In dem leichten Nebelregen erkannte ich unklar
@@ -530,7 +528,7 @@ und fluchte dazu …
 
 Hans Lücke, der feudale Hans, flucht sonst nie.
 
-Harst traf neben ihn. »Lücke, wer hat Sie denn hier
+Harst trat neben ihn. »Lücke, wer hat Sie denn hier
 niedergeschlagen?«
 
 Lücke schaute zu uns empor. »Ein Weib, Harst …
@@ -600,12 +598,12 @@ Lücke taumelte auf die beiden zu.
 »Einschalten, Schraut!« rief er.
 
 Ich knipste das Licht in beiden Räumen an. Wir rissen
-den fremden Kerl hoch, der uns mit seiner Stromervisaqe
+den fremden Kerl hoch, der uns mit seiner Stromervisage
 frech angrinste und dann sehr höflich sagte: »Ich bin Heribert
 Prank …!«
 
 <@pagebreak/>
-Harald lächelte. »Also der Falsche … schade! Luke bedauert
+Harald lächelte. »Also der Falsche … schade! Lücke bedauert
 seine Beinkleider und ich bedaure diese Kraftvergeudung.
 — Weshalb gaben Sie sich nicht zu erkennen,
 Prank?!«
@@ -693,14 +691,14 @@ noch eifriger.
 »Natürlich … Unter Freunden ist das …«
 
 »… durchaus nicht selbstverständlich, denn soweit mir
-bekannt, waren Sie heller stelle nur geduldet, nicht erwünscht,
+bekannt, waren Sie hier stets nur geduldet, nicht erwünscht,
 — man fürchtete Sie, wie man uns fürchtet, nur mit dem
 <@pagebreak/>
 Unterschied, daß wir für das Recht kämpfen … — Also
 Irina ist entflohen?«
 
 »Habe ich das gesagt?! Nein, Irina ist lediglich mit
-den Nerven fertig uns bedarf dringend der Entspannung.«
+den Nerven fertig und bedarf dringend der Entspannung.«
 
 Diese höchst unerquickliche Szene wurde durch Heribert
 Prank beendet. Er, dieser hübsche, blonde, heitere Künstler,
@@ -712,7 +710,7 @@ mich, und die Sorge um Irina trieb mich wieder
 hierher. Ich sah gerade ihr Auto im schnellsten Tempo davonfahren,
 ich erkannte Irina nicht, denn sie schien Herrendreß
 zu tragen, — ich fand die Haustür offen und schlich
-in den Salon. Da unter dem Flügel hier im Musikzimmer
+in den Salon. Da ich unter dem Flügel hier im Musikzimmer
 eine Gestalt wahrzunehmen glaubte, schloß ich rasch die
 Tür nach dem Flur ab und wollte eben das Licht einschalten,
 als Harst mich so warm begrüßte. — Das ist
@@ -728,10 +726,10 @@ Vielleicht hörten sie es klirren, Herr Prank.«
 Monokel klirrt auch kaum auf einem Teppich … Man pflegt
 als Hausherr ein Monokel auch nicht im Dunkeln zu suchen
 — entschuldigen Sie schon!« Auch Prank konnte bissig
-Werden.
+werden.
 
 »Und doch war es so,« meinte Ritschel leichthin. »Sie
-Werden sich dabei schon beruhigen müssen. Im übrigen
+werden sich dabei schon beruhigen müssen. Im übrigen
 wiederhole ich: »Mit welchen Recht sind Sie hier?! Ebenso
 die Herren Harst und Schraut?! Es gibt einen Paragraph
 wegen Hausfriedensbruch …«
@@ -774,7 +772,7 @@ der Seite des Flügels lehnte, die Pistole im Moment in
 dieses schlaue Versteck verschwinden lassen konnte.
 
 Lücke nahm die Waffe und meinte zu dem edlen
-Freundespaar: »Das ist ja überaus wertvoll … Ich danke!
+Freundespaar: »Das ist ja überaus wertvoll … Ich danke
 Ihnen … Ihr Monokel, Herr Doktor Ritschel, werde ich in
 gutem Andenken behalten. — Nehmen wir Platz … Harst
 hat ganz recht, es gibt hier allerlei zu fragen …« Er deutete
@@ -786,11 +784,11 @@ Präsidium … Das Auto Irinas ist ein hellblauer Selbstfahrer
 mit Klappverdeck, Marke Benz … Das Telephon
 steht in der Diele.«
 
-Ich verließ das Zimmer, bekam sofort Aufschluß, und
+Ich verließ das Zimmer, bekam sofort Anschluß, und
 die Jagd auf Irina war damit eingeleitet. Als ich zu den
 anderen zurückkehrte, hörte ich gerade noch, wie Lücke fragte:
 
-»… Doch anscheinend gewußt, daß die Waffe dort
+»… doch anscheinend gewußt, daß die Waffe dort
 verborgen war?«
 
 Horst Ritschel, auch der österreichische Major a. D.,
@@ -861,7 +859,7 @@ Ritschel, Sie hatten sich, als der Mord geschah, hier hinausgelehnt
 und hielten Ausschau nach der Frauengestalt an
 der Fontäne …«
 
-»Der Gestalt …«, verbesserte Ritschel kleinlaut. »Es kann
+»Der Gestalt …« verbesserte Ritschel kleinlaut. »Es kann
 auch ein Mann in einem Mantel gewesen sein …«
 
 »Nun gut, — — gleichgültig! Sie schauten hinaus …
@@ -916,7 +914,7 @@ Waffe in dem flachen Beutel unter dem Flügel verbarg?«
 
 <@pagebreak/>
 »Ich sah nur, daß sie die Pistole unter den Flügel
-schob … Von den Beutel wußte ich noch nichts.«
+schob … Von dem Beutel wußte ich noch nichts.«
 
 »So … so … Ihr Gedächtnis ist miserabel. Wenn Sie
 wieder mal einen Hammer in der Hosentasche tragen,
@@ -959,7 +957,7 @@ vibrierenden Saiten des Bechstein.«
 
 Lücke nickte ihm zu. »Ein Glück, daß wir Sie noch als
 Zeugen haben, Herr Prank. Nun haben wir die Herrschaften
-endgültig fest.« — Er setzte sich, und seine Miene verriet,
+endgültig fest.« — Er setzte sich, und seine Miene verriet
 <@pagebreak/>
 nichts gutes. »Herr von Spitzer, weshalb dieser Schurkenstreich,
 weshalb brachten Sie beide die Tasche an der
@@ -969,7 +967,7 @@ vorerst nicht antworten zu können. Also bitte …!«
 Spitzer murmelte undeutlich:
 
 »Ich … ich weiß gar nichts … Ich glaube, Ritschel hatte
-daß so mit Irina verabredet …«
+das so mit Irina verabredet …«
 
 Lücke zog die Augenbrauen hoch. »Verabredet?! Wollen
 Sie mich veralbern?!«
@@ -1017,7 +1015,7 @@ um einen Versuch des wahren Täters, den Verdacht gegen
 Irina zu verstärken. Mithin wäre Irina in der Tat entlastet
 worden. Und das wollte ich. Ein Jammer, daß die
 Umstände uns das Spiel verdarben. Irina ist ja niemals
-die Mörderin, des weiß ich am besten …«
+die Mörderin, das weiß ich am besten …«
 
 Lücke fragte fast lauernd: »Sie sind doch stark verschuldet
 … Wieviel zahlte Irina Ihnen für diesen … Liebesdienst?«
@@ -1046,7 +1044,7 @@ Ihre Taschen, — — Sie auch, Herr Major …!«
 »Ich protestiere!« keuchte Ritschel in ohnmächtiger Wut.
 
 »Meinetwegen, — aber gehorchen Sie … oder …« —
-und er brachte ein Haar Handschellen zum Vorschein. »Ihre
+und er brachte ein Paar Handschellen zum Vorschein. »Ihre
 giftspritzende Feder wird niemandem mehr schaden, Ritschel.
 Überreife Pflaumen fallen ab und haben Maden …«
 
@@ -1084,7 +1082,7 @@ dem Morde genug zu tun habe.«
 Draußen blitzte es wieder … Das Gewitter, das zuerst
 wohl nicht über die Havel gekommen war, zog nun doch
 herauf. In das Grollen des Donners mischte sich ein anderer
-schriller Ton … Es klang wie der Ruf altes Nachtvogels …
+schriller Ton … Es klang wie der Ruf eines Nachtvogels …
 
 Ritschel hatte lauschend den Kopf nach dem Fenster
 gedreht. Lückes Drohung hatte gegenüber dem, was Horst
@@ -1144,13 +1142,13 @@ alles übrige … Harst war zum Fenster gekrochen, — —
 er schoß in die Finsternis hinein, er feuerte viermal …
 <@pagebreak/>
 Aber als wir nun die Verfolgung aufnahmen, waren die
-Flüchtlinge samt ihrem merkwürdigen Retter langst verschwunden.
+Flüchtlinge samt ihrem merkwürdigen Retter längst verschwunden.
 
 <h2>5. Kapitel.</h2>
 
 <h3>Die von drüben.</h3>
 
-Die Halbe Stunde, die wir dann noch in der Villa zubrachten,
+Die halbe Stunde, die wir dann noch in der Villa zubrachten,
 war nur in sofern von Nutzen, als wir durch
 die Hausangestellten bestätigt erhielten, daß Irina ihnen für
 drei Monate den Lohn ausgezahlt und verlangt hatte,
@@ -1166,7 +1164,7 @@ Irina größere Summen erpreßt worden, denn Lücke
 hatte im Ofen der Zentralheizung unten im Keller eine
 Menge verbrannter Papiere gefunden, die zum Teil noch
 schwelten. Sie waren mit Spiritus begossen worden, und
-doch fischte Lücke noch ein paar Stücken heraus, und
+doch fischte Lücke noch ein paar Stückchen heraus, und
 auf dem einen war als Fragment zu lesen:
 
 <div class="centered">
@@ -1240,7 +1238,7 @@ Doktor Richard Pingalli war auch schon wieder sehr mobil
 und zankte sich jenseits der dichten Hecke mit seiner Haushälterin
 herum, die mit uns und besonders mit unserer
 alten Mathilde sehr schlecht stand. Fräulein Eva Jänsch
-hakte überhaupt wenig Freunde. Nur ein Gutes hatte sie:
+hatte überhaupt wenig Freunde. Nur ein Gutes hatte sie:
 Sie war halb taub!
 
 Was nun den Privatgelehrten, Doktor Pingalli, betrifft,
@@ -1275,7 +1273,7 @@ war drüben die Sonne. Eva Jänsch aber das Gewitter, und
 Moritz das Aprilwetter.
 
 Wie gesagt, — ich rauchte meine Nachmittagsnudel,
-hing hin und her, sammelte Raupen von den jungen Spalierstämmen
+ging hin und her, sammelte Raupen von den jungen Spalierstämmen
 und lächelte über Pingalli und seine Xantippe,
 die drüben wegen der Erdbeeren sich zankten. Des alten
 Gelehrten Fistelstimme überschlug sich zuweilen, und seine
@@ -1304,7 +1302,7 @@ Moritz ist bereits auf dem Laufenden über alles. Er spioniert
 
 Aber Moritzens Baß protestierte unsichtbar: »Der eine
 <@pagebreak/>
-Kriminalbeamte hat mich ausgefragt, ob ist nichts gehört
+Kriminalbeamte hat mich ausgefragt, ob ich nichts gehört
 oder gesehen hätte! So war’s!«
 
 »Sie und was hören, Moritz!« meinte Doktor Pingalli
@@ -1319,7 +1317,7 @@ Soll diese Frau den Legationsrat tatsächlich erschossen
 haben?!«
 
 »Mit Bestimmtheit läßt sich das noch nicht sagen,
-Herr Doktor … Haben Sie denn nichts bemerkt, das Die
+Herr Doktor … Haben Sie denn nichts bemerkt, das die
 Sache klären könnte?«
 
 Harald kam herbei, winkte Pingalli zu und übernahm
@@ -1341,7 +1339,7 @@ fragen … dürfen wir Sie mal besuchen?«
 Arbeit hier fortsetzen.«
 
 Pingallis Haus gehört mit zu den ältesten Schmargendorfs.
-Es ist ein schmucklosen, zweistöckiger Ziegelbau mit
+Es ist ein schmuckloser, zweistöckiger Ziegelbau mit
 Veranda und Balkon nach dem Garten zu. Das Haus ist
 von der Straße kaum zu sehen. Hecken, Büsche, alte Linden
 und Buchen bilden im Vorgarten eine grüne Wildnis.
@@ -1375,7 +1373,7 @@ vermehren.«
 
 Er reichte Harald die Notizen zurück. »Die Vanderkott
 hat häufiger nachts im Garten an der Fontäne sowohl einen
-Herr als auch eine Frau erwartet, wie ich beobachtet
+Herrn als auch eine Frau erwartet, wie ich beobachtet
 habe. Besonders vor etwa drei Wochen, als wir Vollmond
 hatten, konnte ich eines Nachts deutlich sehen, daß die
 drei sehr erregt miteinander stritten und daß die Kotty
@@ -1385,7 +1383,7 @@ Person mit dunklem Mantel und Hut und Schleier. Ich besinne
 mich auch, daß ich einmal ein Fernglas benutzte und
 feststellte, daß diese Fremde trotz der Wärme und Trockenheit
 Überschuhe anhatte — graue, moderne Überschuhe
-mir Reißverschluß. Gestern nacht — auch dies ist mir jetzt
+mit Reißverschluß. Gestern nacht — auch dies ist mir jetzt
 <@pagebreak/>
 erst eingefallen — hatte die Frau einen Schirm mit und
 ein langes etwas, das wie ein Stativ einer Kamera aussah.
