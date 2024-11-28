@@ -2,7 +2,6 @@
 
 <h1>Chuna Dangi, das weiße Rätsel</h1>
 
-
 <h2>1. Kapitel.</h2>
 <h3>Eine Mondnachtszene.</h3>
 
@@ -312,86 +311,86 @@ darunter in Hellblau das Monogramm Ch. D. zeigte.
 <h3>Das Thargespenst,</h3>
 
 Die Grotte, in der die Einsiedlerin Chuna Dangi so viele
-Jahre — wie viele, wußte niemand — gestattet hatte, besaß
+Jahre — wie viele, wußte niemand — gehaust hatte, besaß
 <@pagebreak/>
 drei durch geflochtene Zwischenwände hergestellte Räume. Der
 mittlere war der Greisin Wohngelaß gewesen, der vordere ihr
 Schlafgemach und der dritte, nach dem anderen, kaminartigen
-Ausgang zu gelegen, war die Kühe, Diesen zweiten Alte
-Gang hatte Harst sofort nach unserem Eintreffen in der Höhle
-durch zwei Steine versperrt, die Sir) nur von unserer Seite
+Ausgang zu gelegen, war die Küche. Diesen zweiten Ausgang
+hatte Harst sofort nach unserem Eintreffen in der Höhle
+durch zwei Steine versperrt, die sich nur von unserer Seite
 her entfernen ließen.
 
 Wir saßen nun nach diesem an sich harmlosen Zwischenfall
 in dem mittleren Raum auf drei indischen Sesseln mit
-Elfenbeinfüßen … und ledergeslehtenen Sitzen und Rührigen.
+Elfenbeinfüßen … und ledergeflochtenen Sitzen und Rücklehnen.
 Harst hatte nur kurz erwähnt, daß er sofort nach dem
 Eindringen in die Büsche von mehreren Indern in langen
 braunen Mänteln gepackt worden sei. Man hatte ihn gefesselt
 und geknebelt und vorwärts bis zum Grabe gestreift. Ein
 Tuch, das man ihm über den Kopf geworfen hatte, hinderte
-ihn irgend etwas zu sehen, Nur eine melodische weiche
+ihn irgend etwas zu sehen. Nur eine melodische weiche
 Frauenstimme war an sein Ohr gedrungen, und diese Stimme
-hatte ihn gefragt, ob der eine seiner Begleiter Fall Janzen
-hieße. Er hatte als Antwort nur genickt, bitte dann das
-Trampeln von Hufen und das Knarren von Sattelzeugs vernommen,
-und es war um ihn hier wieder still geworden,
+hatte ihn gefragt, ob der eine seiner Begleiter Karl Janzen
+hieße. Er hatte als Antwort nur genickt, hatte dann das
+Trampeln von Hufen und das Knarren von Sattelzeug vernommen,
+und es war um ihn her wieder still geworden,
 
 Er wandte sich jetzt an den blonden Friesen, der mit
-seinem Sessel mehr in die Ecke gefüllt war, wo ihn das
-Licht der Karbiöolampe nur von rückwärts traf. »Sagen Sie
-mal, lieber Janzen, — Sie scheinen bisher in Indien ja recht
+seinem Sessel mehr in die Ecke gerückt war, wo ihn das
+Licht der Karbidlampe nur von rückwärts traf. »Sagen Sie
+mal, lieber Janzen, — Sie scheinen hier in Indien ja recht
 feudale Bekanntschaften zu haben.« Dabei fächelte er sich mit
 dem Seidentüchlein, und der Duft eines zarten Parfums
 wehte bis zu mir hin.
 
-Janzen erwiderte lässig, und sein Ton kam mir geh
-blasiert vor: »Ich habe nie verteilt, daß ich) drei Jahre
+Janzen erwiderte lässig, und sein Ton kam mir gekünstelt
+vor: »Ich habe nie verhehlt, daß ich drei Jahre
 Indien durchstreifte, bevor ich die Stellung als Steward
-auf Buid Jaspers Jacht annahm. Möglich, daß ich da des
-Raunt geworden bin …«
+auf Buid Jaspers Jacht annahm. Möglich, daß ich da bekannt
+geworden bin …«
 
-Harst sog kräftiger an seiner Zigarette. »Sie- verlangen
+Harst sog kräftiger an seiner Zigarette. »Sie verlangen
 <@pagebreak/>
 doch nicht, daß ich mich mit diesen mageren Worten abspeisen
-hattest«
+lasse?!«
 
-Die Stimmung zwischen uns dreien war merklich genannt.
+Die Stimmung zwischen uns dreien war merklich gespannt.
 Es lag irgend etwas in der Luft wie Wetterleuchten.
 
 Ich selbst meinte jetzt ziemlich barsch und angriffslustig:
-»Janzen hat gewußt, daß sich die Reiter in das Tal hinan«
-geschlichen hatten. Er hielt mich fest, als ich …«
+»Janzen hat gewußt, daß sich die Reiter in das Tal hineingeschlichen
+hatten. Er hielt mich fest, als ich …«
 
-»Ich, — das ist doch nebensächlich,« unterbrach Harst
-wirr mit einem kurzen Auflachen. »Aufs ich habe das geh
-mußt … Als ihr beide vor-« der Höhle Festland ich hinter
+»Ach, — das ist doch nebensächlich,« unterbrach Harst
+mich mit einem kurzen Auflachen. »Auch ich habe das gewußt
+… Als ihr beide vor der Höhle saßt und ich hinter
 euch trat, erblickte ich über den Büschen den Kopf eines
-Dromedars … Der Kopf verschwand sofort wieder. Ich rief
+Dromedars … Der Kopf verschwand sofort wieder. Ich riet
 euch, die Zigarren wegzulegen. Dann erfolgte sehr bald der
-Schrei … Und die Bedeutung dieses Auswies ist wohl
+Schrei … Und die Bedeutung dieses Ausrufes ist wohl
 unschwer ersichtlich: Die Frau mit der melodischen Stimme
-und mit diesem seinen Parfüm stieß ihn aus, als das
+und mit diesem feinen Parfüm stieß ihn aus, als das
 Gesicht der Toten freigelegt worden war und sie diese Tote
 erkannte.«
 
 Aus Janzens Ecke kamt ein mehr geflüstertes: »Wahrscheinlich
 — — wahrscheinlich!«
 
-Ich fragte ihn schroff: »Weshalb verschwiegen Sie … mir
+Ich fragte ihn schroff: »Weshalb verschwiegen Sie mir
 die Anwesenheit der Reiter?!« — Und er erwiderte genau so
-lässig: »Weil ich erst die Weiterentwicklung der Dinge ’abs
-warten wollte. Daß die Leute die tote Greisin entführen
+lässig: »Weil ich erst die Weiterentwicklung der Dinge abwarten
+wollte. Daß die Leute die tote Greisin entführen
 könnten, ahnte ich wirklich nicht.«
 
 Harst schüttelte mißbilligend den Kopf. »Du wirst dich doch
-nicht mit Janzen entzweien wollen, mein Alter …,! Was dem
-Harst recht ist, muß dem Ganzen billig sein. Auch ich behielt
-ja den »Dromedarkopf« für mich … —«- Wer waren die
+nicht mit Janzen entzweien wollen, mein Alter …! Was dem
+Harst recht ist, muß dem Janzen billig sein. Auch ich behielt
+ja den »Dromedarkopf« für mich … — Wer waren die
 Reiter und die Frau? — Leute, die erst jetzt nach Chuna
 Dangis Tod, den der Telegraph überallhin gemeldet hatte,
-weil eben Buid Jaspers Verbrechen gleichzeitig ans Tages
-Licht kamen, erfahren hatten, daß hier eine rätselhafte Greisin
+weil eben Buid Jaspers Verbrechen gleichzeitig ans Tageslicht
+kamen, erfahren hatten, daß hier eine rätselhafte Greisin
 gehaust hatte. Diese Leute können von weit her gekommen
 sein. Zumindest können sie volle vierundzwanzig Stunden
 <@pagebreak/>
@@ -401,50 +400,50 @@ Janzen fragte, war trotzdem für Sekunden beim Anblick des
 Gesichtes der Toten so schmerzerfüllt und so verzweifelt, daß
 sie den Schrei dieser traurigen Gewißheit nicht zurückdrängen
 konnte. Sie muß der Greisin also recht nahe gestanden haben.
-Anderseits
+Anderseits …«
 
 Er nahm eine neue Zigarette und warf Janzen einen
-prüfenden Bis zu …
+prüfenden Blick zu …
 
-».- — .- anderseits, lieber Janzen, glaube ich jetzt aber zu,
-den … Dieb des Krokodilbüchleins zu kennen, «.«
+»… anderseits, lieber Janzen, glaube ich jetzt aber auch,
+den … Dieb des Krokodilbüchleins zu kennen …«
 
 Der Friese hüstelte …
 
-»Ich, Sie sind’s, Janzen, Sie nahmen das Büchlein gar:
-sich. — Ihre Taktik freilich ist mir von unklar. Ich meine
-damit: Metall erwähnten Sie das Büchlein überhaupt?!
-Enthält es vielleicht nur seine sie Aufzeichnungest in gewöhne,
-sicher Schrift und die anderen in Chiffren? Wollten Sie mir
-das Büchlein in die Hände spie eben, damit ich die Chiffren
-richtig deutete?! Haben Sie … das Lesbare entfernt
+»Ja, Sie sind’s, Janzen. Sie nahmen das Büchlein an
+sich. — Ihre Taktik freilich ist mir noch unklar. Ich meine
+damit: Weshalb erwähnten Sie das Büchlein überhaupt?!
+Enthält es vielleicht nur teilweise Aufzeichnungen in gewöhnlicher
+Schrift und die anderen in Chiffren? Wollten Sie mir
+das Büchlein in die Hände spielen, damit ich die Chiffren
+richtig deutete?! Haben Sie … das Lesbare entfernt?«
 
 Karl Janzen knöpfte seine Weste auf und entnahm der
 Innentasche wortlos das dünne Heft mit dem Krokodillederdeckel,
 reichte es Harst, erhob sich und ging hinaus. Wir
-hörten seine Schritte verhallen. Er war die Terrassen entnahm
-gestiegen.
+hörten seine Schritte verhallen. Er war die Terrassen
+hinabgestiegen.
 
 Harst rückte die Lampe näher und blätterte in dem
-Büchlein, »Drei Seiten fehlen. Es sind nur noch neun, und es
-waren zwölf, Dies ’hier ist alles nur Chiffreschrift — ’genau
+Büchlein. »Drei Seiten fehlen. Es sind nur noch neun, und es
+waren zwölf. Dies hier ist alles nur Chiffreschrift — genau
 wie der Stapel Schriftstücke, den Grablay nun in Bombay
 studieren wird. — Interessant, Max Schraut … Aber
-sicherlich ein Problem Andauernd Schwierigkeiten, ’benn
+sicherlich ein Problem mit tausend Schwierigkeiten, denn
 Janzen wird sein Geheimnis wahren. Bedenke, daß er in den
 Berichten über Jaspers und der Greisin Tod mit erwähnt war.
 Deshalb fragte die Frau mit der lieblichen Stimme nach
-ihm … « … Wir drei wurden von den Reitern beobachtet,
-die ins Tal kamen, als wir hier rote beim Abendessen
+ihm … Wir drei wurden von den Reitern beobachtet,
+die ins Tal kamen, als wir hier noch beim Abendessen
 <@pagebreak/>
 saßen. — Wann sonst?!« Er schaute den Rauchringen seiner
-Zigarette gedankenvoll nach. »Du schüttelt auf etwa zwanzig
+Zigarette gedankenvoll nach. »Du schätztest auf etwa zwanzig
 Reiter … Wir werden morgen den Spuren folgen. Du
-kannst jetzt unsere Pferde füttern und badeten. Die Nacht wird
-von Fühler werden … Die Tiere stehen zwar dort nebenan
+kannst jetzt unsere Pferde füttern und bedecken. Die Nacht wird
+noch kühler werden … Die Tiere stehen zwar dort nebenan
 in der kleinen Schlucht geschützt, — aber …«
 
-Ich) fiel ihm hastig ins Wort. Ich erinnerte mich jetzt
+Ich fiel ihm hastig ins Wort. Ich erinnerte mich jetzt
 erst an Janzens merkwürdige Äußerung. »Harald, — noch
 eins … Janzen sprach vorhin, als er mich endlich wieder
 freigab, etwa folgendes — mehr zu sich selbst:
@@ -453,21 +452,21 @@ freigab, etwa folgendes — mehr zu sich selbst:
 
 Einen Beweis braucht man nur für etwas, das ungewiß,
 aber von Bedeutung ist. Janzen hat drei Jahre Indien »durchstreift«,
-wie er sich Ausbeute. Er sucht hier etwas, vermute
+wie er sich ausdrückte. Er sucht hier etwas, vermute
 ich.«
 
 Harald hatte die Mirakulum im Mundwinkel und brachte
 nun in gewohnter Art die Fingerspitzen aneinander, beschaute
-seine Nägel und nickte, »Er sucht jemand, eine Person …, «
+seine Nägel und nickte. »Er sucht jemand, eine Person …
 Seine Irrfahrten durch die Welt waren vielleicht auch nur
 ein beständiges Suchen. Über seine Herkunft dürfte er auch
-kaum die Wahrheit gesagt haben, Zuweilen verrät er sich
-So perfekt wie er englisch, französische und italienisch spricht,
-kann’s nur ein Mann, der in seiner Jugend? nicht nur diese
+kaum die Wahrheit gesagt haben. Zuweilen verrät er sich.
+So perfekt wie er englisch, französisch und italienisch spricht,
+kann’s nur ein Mann, der in seiner Jugend nicht nur diese
 Sprachen gelernt, sondern sich auch darin vervollkommnet hat.
 Seeleute eignen sich lediglich nur verdorbene Hafendialekte an.
-Ich möchte gern wissen, wer Ganzen ist. Ein Name besagt
-gar nichts. Aber nun setz’ und sieh’ nach. den Pferden …«
+Ich möchte gern wissen, wer Janzen ist. Ein Name besagt
+gar nichts. Aber nun geh’ und sieh’ nach den Pferden …«
 
 Als ich den mittleren Raum mit einer Laterne verließ,
 glitt der Lichtstrahl auch nach links in den Hintergrund der
@@ -475,9 +474,9 @@ Höhle, wo der zweite sommerliche Ausgang schräg nach oben
 lief, den wir verrammelt hatten.
 
 Die beiden flachen Felsstücke, die wir dort als Verschluß
-eingefügt hatten, waren entfernt worden. Nur Janzen könnte
+eingefügt hatten, waren entfernt worden. Nur Janzen konnte
 dies getan haben, als er vorhin in der Grotte ein paar Minuten
-allein … war. Eine besonders. Gedankenverbindung ließ
+allein war. Eine besondere Gedankenverbindung ließ
 <@pagebreak/>
 mich nach unseren Sätteln sehen, die hier im freien Höhlenraum
 nebst unseren Satteltaschen und den sonstigen Dingen
@@ -487,94 +486,93 @@ Sachen fehlten,
 »Harald!«
 
 Er trat zu mir. »Natürlich ist er auf und davon und
-hinter den Dromedarreitern. her … Wir werden in der
+hinter den Dromedarreitern her … Wir werden in der
 Schlucht nur noch zwei Pferde finden.«
 
-Auch) das traf zu.
+Auch das traf zu.
 
-»Unter diesen Umständen: müssen wir ebenfalls sofort
-aufbrechen. Ich) will wissen, ’:wv und wie man die Greisin
-aufs neue beerdigen wird,« Harst war sichtlich erregt. »Von
+»Unter diesen Umständen müssen wir ebenfalls sofort
+aufbrechen. Ich will wissen, wo und wie man die Greisin
+aufs neue beerdigen wird.« Harst war sichtlich erregt. »Von
 Janzen ist dies eine Eigenmächtigkeit, die sich bitter rächen
 kann, sehr bitter sogar. Wenn diese Frau mit der weichen
-Stimme und ihre Begleiter nicht irgend etwas zu verbergen.
+Stimme und ihre Begleiter nicht irgend etwas zu verbergen
 hätten, würden sie wohl kaum so brutal mir gegenüber gehandelt
-haben, Man fesselt und knebelt einen Europäer nicht
+haben. Man fesselt und knebelt einen Europäer nicht
 so ohne weiteres, und gerade der Umstand, daß Janzen dich
 gewaltsam zurückhielt, zeigt, wie gut er wußte, daß diese
 Leute auch vor Gewalttaten nicht zurückschrecken würden.
-Ob sie ihn schonen werden, möchte ich bezweifeln. Ich des
-beugte, er Furcht eine Person, mit der er ablehnen will,
+Ob sie ihn schonen werden, möchte ich bezweifeln. Ich behaupte,
+er sucht eine Person, mit der er abrechnen will,
 — er ist nicht der gutmütige Friese, mein Alter, in seiner
 Seele gibt es einen Abgrund, aus dem die Nebel des
 Hasses zuweilen aufsteigen und dann in seinen Augen jenes
-versteckte Glühen zaubern, das
+versteckte Glühen zaubern, das …«
 
-— … das ich deutlich gesehen habe,« vollendete Sich
-den »Sah in Gedanken ein Karl Janzens Farbige Faust, die
-meinen Arm ausstrahlt hatte; und an seine Blicke, die.
+»… das ich deutlich gesehen habe,« vollendete ich
+den Satz in Gedanken an Karl Janzens nervige Faust, die
+meinen Arm umkrallt hatte, und an seine Blicke, die
 auf einen völlig anderen Janzen gezeigt hatten, —
 
-Es war ein Uhr nachts, als wir dachten den Paß das:
+Es war ein Uhr nachts, als wir durch den Paß das
 Tal verließen,
 
-— Die Malvetta-Berge, das habe ich bereits i:4 vorigen
-Band genauer ausgeführt, durchsehen das breite, riesige
-Flußtal des Ghaggar, ein früheres Flußtal, von Nord nach,
+Die Malvetta-Berge, das habe ich bereits im vorigen
+Band genauer ausgeführt, durchziehen das breite, riesige
+Flußtal des Ghaggar, ein früheres Flußtal, von Nord nach
 <@pagebreak/>
-Kind wie ein Riegel. Eine Fährte von etwa zwanzig Gestern
+Süd wie ein Riegel. Eine Fährte von etwa zwanzig Reitern
 ist nun in Bergtälern, die zumeist Pflanzenwuchs und
-weite Grasflächen aufweisen, unmöglich) so auszulöschen, daß
-sie für geübte Augen selbst kann verschwindet, wenn man
-den Reittieren die Hufe umwickelt, Die mondhelle Nacht
+weite Grasflächen aufweisen, unmöglich so auszulöschen, daß
+sie für geübte Augen selbst dann verschwindet, wenn man
+den Reittieren die Hufe umwickelt. Die mondhelle Nacht
 war uns zudem günstige Helferin. Morgens fünf Uhr hatten
-wir bereits die Bahnlinie Sirsa—Bhatinda passiert und schritt
+wir bereits die Bahnlinie Sirsa—Bhatinda passiert und somit
 jenen Teil der indischen Tharwüste erreicht, der bis zur
-eigentlichen Wüstenbahn Ungar—Bikaner—Yahawalpur
+eigentlichen Wüstenbahn Nugaur—Bikaner—Bahawalpur
 völlig unbesiedelt ist. Es handelt sich hier um ein Gebiet
-von hundert deutsäa)en Meilen »im Geviert, dessen Jagdstreifen
+von hundert deutschen Meilen im Geviert, dessen Randstreifen
 im Besitz radschputischer Viehzüchter und Großgrundbesitzer
 sind, deren Farmen oft geradezu phantastische Abmessungen
-haben. Der Kern dieser Landijtriäze ist ödeste Verband
+haben. Der Kern dieser Landstriche ist ödeste Sand- und
 Steinwildnis, nur zum Teil erforscht, früher Zuflucht
-von allerhand Gesindel, heute infolge zahlreicher Polizei«
-Stationen, die zumeist auf den Großfarmen sich befinden, nur
-es selten Schauplatz von Räubereien, Überfällen und Berg
-brechen. Wenn Sir Starkes Ellerton, einst Leiter der lustig
-eingerichteten Polizeistationen, in seinem 1927 in London
-erschienenen Werke über die Thar ec’tlirte, daß noch 1924
-Her Karawanenplienderungen stets an der Tagesordnung
-waren, hat er vollkommen recht. Aber wie: jeder Feuerchen
-nur anfänglich wirksam kehrt, so auch hier … Der. Arzt
+von allerhand Gesindel, heute infolge zahlreicher Polizeistationen,
+die zumeist auf den Großfarmen sich befinden, nur
+noch selten Schauplatz von Räubereien, Überfällen und Verbrechen.
+Wenn Sir Thomas Ellerton, einst Leiter der
+neueingerichteten Polizeistationen, in seinem 1927 in London
+erschienenen Werke über die Thar erklärte, daß noch 1924
+hier Karawanenplünderungen stets an der Tagesordnung
+waren, hat er vollkommen recht. Aber wie jeder neue Besen
+nur anfänglich wirksam kehrt, so auch hier … Der Arzt
 aus dem Städtchen Malvetta hatte uns allerhand Schauergeschichten
-von einer unlängst aufgetauchten Räuberbande … erzählt,
+von einer unlängst aufgetauchten Räuberbande erzählt,
 die mit den modernsten Mitteln »arbeiten« sollte
-und die bisher nicht hatte ausgehoben werden können, Uns
-Tochter Grobheit hatte dazu herzlich gelacht. Indien ist nur
-abseits der Berkehrszstraßen noch ein Land jeder Art von
+und die bisher nicht hatte ausgehoben werden können. Inspektor
+Grablay hatte dazu herzlich gelacht. Indien ist nur
+abseits der Verkehrsstraßen noch ein Land jeder Art von
 Romantik. —
 
 Am zweiten Tage um acht Uhr morgens, als die Hitze
-Überhand nahm, lagerten wir in einen Leinen felsigen Tale,
+überhand nahm, lagerten wir in einen kleinen felsigen Tale,
 um den versäumten Nachtschlaf nachzuholen. Auf einer Farm
 Hatten wir die Pferde gegen gute Reitdromedare eingetauscht
 <@pagebreak/>
 und noch ein drittes Lastdromedar erworben, das den Proviant
-und Wasserschläucw trug. Dromedare sind hier, weil
-gegen Durst widerstandsfähiger, für längere Bitte den Pferden
-vorzuziehen. —
+und Wasserschläuche trug. Dromedare sind hier, weil
+gegen Durst widerstandsfähiger, für längere Ritte den Pferden
+vorzuziehen.
 
 Neben uns weideten riesige Schafherden. Wir befanden
-uns noch innerhalb der Weideflächen den Greuzgürtels, Nachdem
+uns noch innerhalb der Weideflächen den Grenzgürtels. Trotzdem
 wachten wir abwechselnd. Meine Wache begann um
-12 Uhr, Die vier Stunden Schlaf hatten mir genügt. —
-Während meiner Wache sah ich zum ersten Male »The Post
+12 Uhr. Die vier Stunden Schlaf hatten mir genügt. —
+Während meiner Wache sah ich zum ersten Male »The Ghost
 of the Thar«, das Thargespenst.
 
-Tue nie tun II
 
-8, Kapitel, + —
-Der Verbannte.
+<h2>3. Kapitel.</h2>
+<h3>Der Verbannte.</h3>
 
 Der Wüstencharakter der Nordosthälfte der Thar ist
 freundlichen, als man im allgemeinen annimmt, Völlig kahle
@@ -2456,7 +2454,7 @@ neben ihm, kniete nieder …
 »Komm’ — leiser« …
 
 Harald!chhritt den« Grat hinab. M8 wir an dem kalten
-Wächter vorbeischriiten, gab er ihm einen Fußtritt. »Eine
+Wächter vorbeischritten, gab er ihm einen Fußtritt. »Eine
 Puppe hat keine Nerven, mein Alter!« — Mir blieb der
 Mund offen …
 
