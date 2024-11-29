@@ -575,114 +575,113 @@ of the Thar«, das Thargespenst.
 <h3>Der Verbannte.</h3>
 
 Der Wüstencharakter der Nordosthälfte der Thar ist
-freundlichen, als man im allgemeinen annimmt, Völlig kahle
-Sandflächen sind selten, Es finden sich hier dieselben Salzkräuter
-wie in Sübarabien und den persischen Wüstenesjen,
-dazu spärliche Büsche, vereinzelte Palmen, roch! viele indische
+freundlicher, als man im allgemeinen annimmt, Völlig kahle
+Sandflächen sind selten. Es finden sich hier dieselben Salzkräuter
+wie in Südarabien und den persischen Wüsteneien,
+dazu spärliche Büsche, vereinzelte Palmen, recht viele indische
 Krüppelstauden, die zuweilen Baumhöhe erreichen.
 Die ganze Fauna ist auf Wasserarmut eingestellt. Flüsse
 und Bäche gibt es nicht. Nur nach Gewittern und in der
 Regenzeit bilden sich Rinnsale und Teiche, die im Nu wieder
-verschwinden. Der Sand ist grobkörnig und zumeist fahl
-gelb, stellenweise wieder fast blendend weiß und mit Natron
+verschwinden. Der Sand ist grobkörnig und zumeist fahlgelb,
+stellenweise wieder fast blendend weiß und mit Natron
 durchsetzt. Bisher hat man in der Thar, wenn man von
-dem endlich gelegenen großen Sachlicher-Salzsee absieht,
-nur fünf Dauerseen entkorkt, all diese in den felsigen Teilen,
+dem südlich gelegenen großen Sambschar-Salzsee absieht,
+nur fünf Dauerseen entdeckt, all diese in den felsigen Teilen,
 wo auch ausschließlich die vereinzelten Quellen vorkommen.
-Und auch diese sind nicht alle natronfrei, die meisten sauber
-ein Wasser mit fadem, teilweise schweißigen Beigeschmack.
-Vielleicht ist rote erwähnenswert, daß unlängst bei der Stadt
-Chuna eine Jodquelle entdeckt wurde, wodurch dieser bisher
+Und auch diese sind nicht alle natronfrei, die meisten haben
+ein Wasser mit fadem, teilweise schwefligem Beigeschmack.
+Vielleicht ist noch erwähnenswert, daß unlängst bei der Stadt
+Churu eine Jodquelle entdeckt wurde, wodurch dieser bisher
 von allem Verkehr abgeschnittene Ort schnell berühmt wurde.
-
 <@pagebreak/>
-»5t führt nach Chuna eine Autobuslinie, ein Kurhaus ist
-Bau und vielleicht wird Chuna so in kurzem ein Ausweg
+Jetzt führt nach Churu eine Autobuslinie, ein Kurhaus ist
+im Bau und vielleicht wird Churu so in kurzem ein indisches
 Trinkbad von der Bedeutung des bayerischen Tölz, —
 
-Ich saß oder auf der Talwand unter einer Decke, die
-ich über ein paar Sträucher gespannt Ratte, Ein uralter
-radschputischer Hirte kam mit seinen drei gelben Hunden und
-beiseite um Tabak. Der Mann radebrechte ein wenig englisch?.
-Er war einmal Diener« bei einem englisczxen Beamten
+Ich saß oben auf der Talwand unter einer Decke, die
+ich über ein paar Sträucher gespannt hatte. Ein uralter
+ratschputischer Hirte kam mit seinen drei gelben Hunden und
+bettelte um Tabak. Der Mann radebrechte ein wenig englisch.
+Er war einmal Diener bei einem englischen Beamten
 in Dehli gewesen. Von ihm hörte ich einiges über das
 Thargespenst, das der Doktor aus Malvetta gleichfalls erwähnt
-hatte …
+hatte.
 
-»Eine Frau is’s, Sahib … Sie hat Augen — so
-groß, und sie trägt immer einen gelbbraunen Antlitz, einen
-Wollmantel, der über die Lenden ihres Dromedars hinabtaucht
-…« —
+»Eine Frau ist’s, Sahib … Sie hat Augen — so
+groß, und sie trägt immer einen gelbbraunen Umglik, einen
+Wollmantel, der über die Lenden ihres Dromedars hinabhängt
+…«
+
 Meine Zigarre schmeckte ihm, und er wurde immer redseliger.
 Er erzählte, das die Frau stets nachts auftauchte,
-bis dicht an die Hirtenfeuer belauerte und dann wieder
+bis dicht an die Hirtenfeuer heranreite und dann wieder
 davonjage. Noch nie hatte sie zu irgend jemandem ein Wort
-gehorchten. Sie sei bald hier, bald dort, und als letztens
-drei Beamte des Polizeidromedarkorps sie verfolgten, solches
-sie deren Tiere und ratsam. »Die Polizei, Sahib, glaubt da
-stimmt, sie gehöre zu der Räuberbande, die jetzt hier wieder
-ihr Wesen treibt, Das kann nicht sein, Sahib … Die Frau
-ist immer allein …« Er spielte mit seiner verrosteten Vorde’«
-laderflinte, und sein stolzes, verschlossenes Besiegt mit den
+gesprochen. Sie sei bald hier, bald dort, und als letztens
+drei Beamte des Polizeidromedarkorps sie verfolgten, erschoß
+sie deren Tiere und entkam. »Die Polizei, Sahib, glaubt bestimmt,
+sie gehöre zu der Räuberbande, die jetzt hier wieder
+ihr Wesen treibt. Das kann nicht sein, Sahib … Die Frau
+ist immer allein …« Er spielte mit seiner verrosteten Vorderladeflinte,
+und sein stolzes, verschlossenes Gesicht mit den
 jugendlichen Augen ward finster und rachsüchtig. »Die Frau
-stiehlt sein einziges Tier, aber die Räuber tun’s, und die
-Polizei richtet nützte aus …« — Er schaute mich prüfend
+stiehlt kein einziges Tier, aber die Räuber tun’s, und die
+Polizei richtet nichts aus …« — Er schaute mich prüfend
 an. »Seid ihr beide wirklich nur Reisende, Sahib?!«
 
-»Ja, nur das … Icvestfalls nicht einmal Engländer,
+»Ja, nur das … Jedenfalls nicht einmal Engländer,
 sondern Deutsche,«
 
-Ich gab ihm eilte 3w. »sie Tupfte, Der Alle wußte offenbar
-noch mehr über »Sie Gott« und ich vermutete ganz
+Ich gab ihm eine zweite Zigarre. Der Alle wußte offenbar
+noch mehr über »The Ghost« und ich vermutete ganz
 <@pagebreak/>
 entfernt, daß diese Frau vielleicht mit dem Weibe mit der
-melodischen Stimme identisch sein könnte …?sagte!
+melodischen Stimme identisch sein könnte … könnte!
 
-»» «. Sahib, diese Herden da und ich selbst gehören zur
+»… Sahib, diese Herden da und ich selbst gehören zur
 Ghaggar-Farm … Es sind zehn Meilen bis dorthin, und
 die Gebäude stehen am Westende des Ghaggar-Tales …
 Kannst du es? — Nun gut, du kennst es … Es war ein
 großer, großer Fluß einst … Also du kennst es … —
-Woher kommt ihr?« +.
+Woher kommt ihr?«
 
-»Von Sirsa,« log irrt halb … Dieser Hirte (wenn
-es einer war!’!) würde doch nicht mich ausschalten Vollbart.
-—» I4 ärgerte mich über meine vorschnelle Freigiebigkeit,
+»Von Sirsa,« log ich halb … Dieser Hirte (wenn
+es einer war!!) würde doch nicht mich aushorchen wollen.
+— Ich ärgerte mich über meine vorschnelle Freigiebigkeit,
 über die zweite Zigarre,
 
-… Der Alte qualmte wie ein Schlot. »Sahib, ihr seid
-also Reisende … Der Polizei hätte im nichts gesagt …
-Über — ihr sollt die Frau sehen. Sie ist tot, Sahib …«
+Der Alte qualmte wie ein Schlot. »Sahib, ihr seid
+also Reisende … Der Polizei hätte ich nichts gesagt …
+Aber — ihr sollt die Frau sehen. Sie ist tot, Sahib …«
 
-Ich war ein wenig sprachlos. Der Stcyafyüter Lichte die
-Überraschungen. —
+Ich war ein wenig sprachlos. Der Schafhüter liebte die
+Überraschungen.
 
-»Sie liegt drüben im Händler, Sahib … Sie stinkt
-schon … Siehst du die Aufpasser kreisen?«
+»Sie liegt drüben im Sandtal, Sahib … Sie stinkt
+schon … Siehst du die Aasgeier kreisen?«
 
-Ich folgte mit den Blicken der Richtung seines Armes;
-In das England zog sich ein Streifen Sand hinein, vielleicht
+Ich folgte mit den Blicken der Richtung seines Armes:
+In das Grasland zog sich ein Streifen Sand hinein, vielleicht
 fünfhundert Meter breit, der so hell war, daß er
-fast die Augen blendete, Ich sah) die Geier …
+fast die Augen blendete. Ich sah die Geier …
 
-Trotzdem. traute ich dem Alten nicht.
+Trotzdem traute ich dem Alten nicht.
 
 »Mein Freund muß ausschlafen«, erklärte ich. »Dann
+gehen wir mit dir hin. — Wann hast du sie gefunden?«
 
-gehen wir mit dir hin. — Wann hast du sie gefunden y’
 »Heute früh, Sahib, — durch die Geier … Sie ist’s
-
-bestimmt … Sie hat ein Tod in der Stirn … eine!
-Schuß. Und Fährten sind auch da, Sahib… Ich Haube stier nun
-dreißig Jahre in der Einsamkeit gelebt und gewußt, Debüt
+bestimmt … Sie hat ein Loch in der Stirn … einen
+Schuß. Und Fährten sind auch da, Sahib. Ich habe hier nun
+dreißig Jahre in der Einsamkeit gelebt und gebüßt, Sahib
 … Als in Dehli 1898 die Cholera wütete — es war
 das letzte große Sterben in Dehli —, da war ich tot und
 erwachte wieder … Ich bin ein Hindu, Sahib. Gott Brahma
 verweigerte mir die Wanderung zu seinem Himmel, und
-die Meinen verstießen mich …« — Er war also scchzeintot
+die Meinen verstießen mich …« — Er war also scheintot
 <@pagebreak/>
-gewesen, und gewisse Kasten halten Scheintode für von den
-… Göttern Gezeichnete.
+gewesen, und gewisse Kasten halten Scheintote für von den
+Göttern Gezeichnete.
 
 Der graubärtige Hirte tat mir leid. Er war doch kein
 Spion. Er war nur menschenscheu, und die Polizei war ihm
@@ -690,16 +689,16 @@ besonders verhaßt.
 
 Wir redeten über andere Dinge. Um vier Uhr weckte ich
 Harst. Wir nahmen unsere Tiere mit und gelangten nach zehn
-Minuten zu einer flachen Vertiefung des Sandstreifens,
-Hier lag auf dem Rücken anrechnen, die eine schwarzeingefaßte
+Minuten zu einer flachen Vertiefung des Sandstreifens.
+Hier lag auf dem Rücken eine Frau, die eine schwarzeingefaßte
 Hornbrille aufhatte. Ihr einst braunes Gesicht war durch
 die bereits eingetretene Verwesung entsetzlich verfärbt, Stirn
 und Wangen zeigten eingetrocknete Blutrinnsale, und über
-der Nase war ein zackigen, geschwollener schwarzer Fleck
-zu erkennen, der Einschuß. Die Leiche roh so entsetzlich, daß
+der Nase war ein zackiger, geschwollener schwarzer Fleck
+zu erkennen, der Einschuß. Die Leiche roch so entsetzlich, daß
 wir uns nicht völlig heranwagten. Der gelbbraune Mantel
-hatte eine Kapuze, unter der schwarzes volles gar hervor
-quoll. An den Füßen trug die Tote sehr hocdyschäftige braune«
+hatte eine Kapuze, unter der schwarzes volles Haar hervorquoll.
+An den Füßen trug die Tote sehr hochschäftige braune
 Schnürstiefel mit dicken Sohlen — elegante Reitstiefel.
 
 Harald wies uns an, auf ihn zu warten. Er begann die
@@ -707,82 +706,81 @@ Stelle zu umkreisen und musterte die Spuren, die bereits
 etwas verweht waren.
 
 Nachdem er die Fährten in sein Notizbuch eingezeichnet
-hatte, schrieb er mit dem Lauf seiner Suchte einen Zipfel des
+hatte, schob er mit dem Lauf seiner Büchse einen Zipfel des
 Mantels über den Kopf der Leiche und befahl dem Radschputen
 Zweige über sie zu decken und einen der Hunde in
 der Nähe anzubinden, um die Geier zu verscheuchen. Dann
 ließ er sich von dem Alten genau die Richtung und einige
-Nochmals angeben, damit wir in kürzester Zeit die Farm
-und die dortige Polizeistation erreichten, schenkte dem Harten
-auch noch (Feld und Zigarren und bestiegen die Dromedare.
-Wir waren kaum erst hundert Meier über den Sand des
-hellen Sanöstreisens hinaus, als er in sehr ernstem Tone
-zu mir sagte: »34, weiß nie!, mein Alter, ob dir zu den
+Wegmale angeben, damit wir in kürzester Zeit die Farm
+und die dortige Polizeistation erreichten, schenkte dem Hirten
+auch noch Geld und Zigarren und bestiegen die Dromedare.
+Wir waren kaum erst hundert Meter über den Sand des
+hellen Sandstreifens hinaus, als er in sehr ernstem Tone
+zu mir sagte: »Ich weiß nicht, mein Alter, ob dir an den
 Fährten drüben etwas aufgefallen ist. Daß die Frau dort
 erschossen wurde, wo sie liegt, wirst du selbst gesehen haben.
 <@pagebreak/>
-Sie ist von Westen ’her gekommen, ein Reiter zu Pferde
-näherte sie ihr von Osten, Beide trafen am Tatorte zusammen,
+Sie ist von Westen her gekommen, ein Reiter zu Pferde
+näherte sich ihr von Osten. Beide trafen am Tatorte zusammen,
 sprangen aus dem Sattel und sprachen miteinander.
-Ihre Unterredung. verlief erregt, der Reiter ist nicht stehen
-
+Ihre Unterredung verlief erregt, der Reiter ist nicht stehen
 geblieben, sondern ging hin und her, bis er die Frau mit
-wer automatischen Pistols plötzlich niederknallte. Er nahm
-ihr Dromedar und galoppierte nacht GSäüdwesjk davon. Der
-Mord kann gestern abend verübt »worden sein. Die Der
-Besuch tritt bei dieser Hitze! IT. Schnellt ein, …
+einer automatischen Pistole plötzlich niederknallte. Er nahm
+ihr Dromedar und galoppierte nach Südwest davon. Der
+Mord kann gestern abend verübt worden sein. Die Verwesung
+tritt bei dieser Hitze sehr schnell ein …«
 
 Er zügelte sein Tier und ließ es in Schritt fallen. »Der
 Mann war Karl Janzen,« erklärte er fast bedrückt und schaute
 an mir vorüber über die braunen Rücken der tausende von
 Schafen hinweg.
 
-Ich erschrak so, daß ich nur rief: »Langen?!«
+Ich erschrak so, daß ich nur rief: »Janzen?!«
 
 »Ja … Sein Pferd, mein Alter, hatte auf der linken
 Hinterhand den Drehtritt. Außerdem Hatte Janzen eine Remingtonpistole
-7 7,9. Zier ist, die Patronenhäülse, Ich hob sie
-aus dem Sande auf, Ferner trägt Janzen Schnürschuhe
-mit sehr breiten Spitzen, Und schließlich geht er stark eins
-Bärte und wirst wie alle, Einwärtsgehenden auf weichen!
-Boden bei jedem Schritt mit der Schuhspitze Sand hob,
-was eine sehr charakteristische Spur ergibt. —«-« All diese
+7,9. Hier ist die Patronenhülse. Ich hob sie
+aus dem Sande auf. Ferner trägt Janzen Schnürschuhe
+mit sehr breiten Spitzen. Und schließlich geht er stark einwärts
+und wirft wie alle Einwärtsgehenden auf weichem
+Boden bei jedem Schritt mit der Schuhspitze Sand hoch,
+was eine sehr charakteristische Spur ergibt. — All diese
 Merkmale in ihrer Gesamtheit zwingen zu der Folgerung:
 Es war Janzen! — Beachten wir hierzu noch das, was
-wir über ihn sonst noch wissen, so bleibt’s bei unserer Ganz
-nehme: Janzen suchte jemand, Janzen hatte mit jemand
-abzurechnen, Ein Zufall führte ihm die Frau in den Weg,
-und diese Frau, mein Alter, war -« dieselbe, die die tote
+wir über ihn sonst noch wissen, so bleibt’s bei unserer
+Annahme: Janzen suchte jemand, Janzen hatte mit jemand
+abzurechnen. Ein Zufall führte ihm die Frau in den Weg,
+und diese Frau, mein Alter, war dieselbe, die die tote
 Chuna Dangi ausgraben ließ, zugleich war sie auch »the
 Ghost of the Thar«, das Thargespenst, und wahrscheinlich eine
 Europäerin, auch eine Europäerin wie die Greisin. Vergiß
-nicht dieses Tüchlein- mit der Krone und dem Monogramnv
-Oh. D … — Chuna Danach — Oh. D. —, wenn man nun
+nicht dieses Tüchlein mit der Krone und dem Monogramm
+Ch. D., — *Ch*una *D*angi — Ch. D. —, wenn man nun
 so gern phantasiert wie ich, könnte man noch hinzufügen,
-diese Ermordete sei eine Heutige gewesen mit Deut Vornamen
+diese Ermordete sei eine Deutsche gewesen mit dem Vornamen
 <@pagebreak/>
 Charlotte, aber so weit wollen wir uns nicht verlieren
-… — Du bist entsetzt, ich Pferde es dir an … Auch
-mir geht es sehr nahte, daß Janzen sich zu dieser Tat hinreißen
-ließ, Ich weiß: Dem südlichen Schuß ging ein Streit
+… — Du bist entsetzt, ich merke es dir an … Auch
+mir geht es sehr nahe, daß Janzen sich zu dieser Tat hinreißen
+ließ. Ich weiß: Dem tödlichen Schuß ging ein Streit
 voraus, eine ernste Auseinandersetzung. Es bleibt zu hoffen,
-daß, falls Janzen ergriffen wird, er einige ’Milderungsgründe
+daß, falls Janzen ergriffen wird, er einige Milderungsgründe
 vorbringen kann,« —
 
 Zehn Meilen mit ausgeruhten Tieren sind vier Stunden
 bei scharfem Tempo. Es war noch hell, als wir die ersten
-Anzeichen der Nähe der Ghaggar—Farm spürten, Das Gelände
-wurde felsiger und buschreichen, wir trafen auf große
+Anzeichen der Nähe der Ghaggar-Farm spürten. Das Gelände
+wurde felsiger und buschreicher, wir trafen auf große
 Drahthürden, in denen Pferde, Dromedare, zahme Büffel
-und Ziegen weideten. Wir stießen auf eine breite, gestattete
-Fahrstraße, sahen im Glaube Autospuren und erlitten
+und Ziegen weideten. Wir stießen auf eine breite, geglättete
+Fahrstraße, sahen im Staube Autospuren und erblickten
 schließlich nach Durchquerung eines Wäldchens die im Tale
-liegenden Baulichkeiten. Sie bedeuteten für uns eine neuen
+liegenden Baulichkeiten. Sie bedeuteten für uns eine neue
 Überraschung …
 
 Da war das Hauptgebäude, auf steinigem Hügel errichtet:
-Ein förmliches Schloß aus hellgrauen Steinquadern, Da war
-ein Park, der sich weit gen Eilten erstreckte — — mit großen,
+Ein förmliches Schloß aus hellgrauen Steinquadern. Da war
+ein Park, der sich weit gen Osten erstreckte — mit großen
 Rasenflächen, Marmorarkaden, Springbrunnen, zierlichen
 Gartenhäuschen …
 
@@ -790,97 +788,97 @@ Aber all das ließen wir zunächst rechts liegen und folgten
 dem Wegweiser, der mit hölzernem Arm drohend auf eine
 lange, abseits gelegene Wellblechbaracke deutete:
 
-Polizeistation Glyaggar.
+<p class="centered">Polizeistation Ghaggar.</p>
 
-Vor der einen Tür war ein weiteres gestreiftes Sonnenzelt
-ausgestellt. vier dem Zelt lag in einem Klubsessel, die
+Vor der einen Tür war ein weiß-rot gestreiftes Sonnenzelt
+aufgestellt. Unter dem Zelt lag in einem Klubsessel, die
 Füße auf die Tischkante geglättet, ein Beamter mit verwildertem
 blonden Vollbart, einer Hornbrille und wirrem Scheitel.
-Er las in einer Zeitung riesigen Formats, tiefste faul den
+Er las in einer Zeitung riesigen Formats, drehte faul den
 Kopf nach uns hin und blinzelte uns eine Weile an. Wir
-ließen die »Tiere niederknien und stiegen aus dem Sattel.
+ließen die Tiere niederknien und stiegen aus dem Sattel.
 
 Der Beamte sprang plötzlich auf die Füße und stierte
 uns entsetzt an
 
 <@pagebreak/>
-»Verbannt! — — die Blamage!! — Ihr seid’s! Ihr
-habt mir gerade noch gefehlt!« …
+»Verdammt! — — *die* Blamage!! — Ihr seid’s! Ihr
+habt mir gerade noch gefehlt!«
 
-Da erst erkannten wir im, Es war Oberinspektor John
+Da erst erkannten wir ihn. Es war Oberinspektor John
 Drebber aus Kalkutta, einer unserer treuesten indischen
 Freunde,
 
 Aber was war aus dem eleganten Monokel-Drebber
 geworden?! Von Eleganz keine Spur mehr … Er, der so
 stolz auf seine tadellose äußere Erscheinung und sein schmales,
-überlasse, vornehmes Gesicht gewesen, — —
+bartloses, vornehmes Gesicht gewesen. — —
 
-»Ja, schaut mich nur wie einen hergelaufenen Stromer.
-an,« sagte er bitter und schüttelte uns die Hunde, »Sohn Drebber
-hatten die hohen Herren ins Exil Geschirr, richtig kü die
-Spalte geschickt …! Das kommst davon, wenn man gegen
-die braunen Kerle zu scharf vorgeht, — Mohßammedaner und
-Hindu schlagen sich in Kalkutta die Artikel ein, ich soll
-Ruhe Stiften, lasse schießen…’, und acht Tage darauf werde
-im … — befördert — — zum Chef der Ostsektion des PolizeiDromebarreiterkorps
-…! Befördert!! Nun sitze ich hier in
-Ghaggar seit fünf Monaten und Melbourne … Bin schon
-total verdattert! … — Gott solch’ euch beide, die ich liebe,
-aber der Teufel hol’ ein) beide, die ihr mich in dieser Belastung
+»Ja, schaut mich nur wie einen hergelaufenen Stromer
+an,« sagte er bitter und schüttelte uns die Hände. »John Drebber
+hatten die hohen Herren ins Exil geschickt, richtig in die
+Wüste geschickt …! Das kommt davon, wenn man gegen
+die braunen Kerle zu scharf vorgeht, — Mohammedaner und
+Hindu schlagen sich in Kalkutta die Schädel ein, ich soll
+Ruhe stiften, lasse schießen … und acht Tage darauf werde
+ich … befördert — — zum Chef der Ostsektion des
+Polizei-Dromedarreiterkorps …! Befördert!! Nun sitze ich hier in
+Ghaggar seit fünf Monaten und verbauere … Bin schon
+total verbauert … — Gott grüß’ euch beide, die ich liebe,
+aber der Teufel hol’ euch beide, die ihr mich in dieser Verfassung
 hier vorfindet!«
 
-Armer John Drebber!! Sogar schmutzige »Fingernägel
+Armer John Drebber!! Sogar schmutzige Fingernägel
 hatte er, und sein Kragen war seit Wochen reif für die
 Waschanstalt …!
 
 Harald schüttelte leicht den Kopf. »Drebber, das hätte ich
-nie für möglich gehalten, «!! Sie, der beste Detektivoberinspektor
+nie für möglich gehalten …!! Sie, der beste Detektivoberinspektor
 in ganz Indien — — und hier nun in der Thar
-auf verlorenem Posten! Ihre Vorgesetzten müssen den Versank
-Ungebühr aber!«
+auf verlorenem Posten! Ihre Vorgesetzten müssen den Verstand
+eingebüßt haben!«
 
-Tischler rief einen Seiner zwölf Leute herbei, der für
+Drebber rief einen seiner zwölf Leute herbei, der für
 unsere Tiere sorgen sollte. Er warf sich wieder in seinen
-Zzorbschsel …
+Korbsessel …
 
-»Feine Vorgesetzten meinten es vielleicht gut mit mir
-Die Eingeborenen hätten mich umgebracht … Nie
+»Meine Vorgesetzten meinten es vielleicht gut mit mir
+… Die Eingeborenen hätten mich umgebracht … Niemand
 <@pagebreak/>
-wand ahnt, daß ich hier in der Thar weile …
+ahnt, daß ich hier in der Thar weile …«
 
-Er klatschte in die Hände, und ein grinsender »Chinesen.
-schadet: reichte auf.
+Er klatschte in die Hände, und ein grinsender Chinesenschädel
+tauchte auf.
 
 Mr. Lipo war schon in Kalkutta Drebbers Kammerdiener
 gewesen. Mr. Lipo verneigte sich vor uns und murmelte
-eine blumenreiche Begrüßung. Harald Frühe ihm die Hand.
+eine blumenreiche Begrüßung. Harald drückte ihm die Hand.
 
-»Lipo, mein Sohn, habt ihr eure Rasiermesser in Puls
-Kutte gelassen?! Und ist die Seife hier so knapp?!«
+»Lipo, mein Sohn, habt ihr eure Rasiermesser in Kalkutta
+gelassen?! Und ist die Seife hier so knapp?!«
 
-»Mr. warst, hier sein alles knapp — alles … Hier,
+»Mr. Harst, hier sein alles knapp — alles … Hier
 sein nur Stumpfsinn, Mr. Harst … Und das nicht gut.
 Bart wachsen doppelt schnell … « Er streichelte seine Backen,
-um die ein armseliger’ Stoppelbart grinste,
+um die ein armseliger Stoppelbart grinste,
 
-»Bringe was zu trinken, Lipo,« befahl Drebber wies
-handhabten. »Das Saufen habe ich mir nüchtern angewöhnt
-… « «- Aber die Herren in Atlanta sollen an mich deuteln,
-so wahr ich Sohn Drebber heize!!« Seine Stimme ward
+»Bringe was zu trinken, Lipo,« befahl Drebber melancholisch.
+»Das Saufen habe ich mir auch schon angewöhnt
+… Aber die Herren in Kalkutta sollen an mich denken,
+so wahr ich John Drebber heiße!!« Seine Stimme ward
 scharf … »Sie haben mich in die Wüste geschickt und
-einen Vorwand gefunden,,!!« Er lachte grimmig … »Ader
-nun erzählt mal, was treibt ihr gerade der?! Eure Heldentaten
+einen Vorwand gefunden …!!« Er lachte grimmig … »Aber
+nun erzählt mal, was treibt ihr gerade hier?! Eure Heldentaten
 in Malvetta übermittelte mir die Station Bombay
-»… du seht ihr meine Antenne …«
+… Da seht ihr meine Antenne …«
 
-Lipo, ein erlitten wie ein dürrer Bengel und doch
-sahen vierzig, tote den Tisch, und Harald berichtete, auch«-
-dem er Drebber meiyrmals eigentümlich forschend gemustert
+Lipo, ein Kerlchen wie ein dürrer Bengel und doch
+schon vierzig, deckte den Tisch, und Harald berichtete, nachdem
+er Drebber mehrmals eigentümlich forschend gemustert
 hatte.
 
-d, Kapitel,
-Die Herrin von Ghaggar.
+<h2>4. Kapitel.</h2>
+<h3>Die Herrin von Ghaggar.</h3>
 
 Es war fünf Uhr morgens, als Drebber uns weckte,
 Er hatte vier Leute mit einem Lastkamel zum Tatort geschickt,
@@ -1508,7 +1506,7 @@ In meinem Schmerz über meines Vaters Tod hatte ich für
 Interesse, An Heiraten oder dergleichen dachte ich nicht.
 Ins Farm nahm bald alle meine Gedanken in Anspruch,
 Ich) war die alleinige geschlichen Erbin, und mir genügte das,
-zum. & das Gonvernementsgerict in Bikaner dies ohne
+zum. & das Gouvernementsgericht in Bikaner dies ohne
 weiteres anerkannte, Erst nach Monaten wollte ich das
 Testament nochmals in Ruhe lesen, Es war — — Vers
 Kinde, Es hatte in erneut Geheimfach des Schreibt
@@ -2371,7 +2369,7 @@ fünfzigtausend Rupien her, und Peer wird Ihrem Freunde
 die Summe nicht verweigern.«
 Haralds Antwort lautete, — und ich wunderte mich aber«
 Fall: »Vorher soll der Anführer mir sagen, wirkte Spitze
-Mr dem Peijtkäferodeur in das Badezimmer Johns Hinein
+Mr dem Pestkäferodeur in das Badezimmer Johns Hinein
 … geriet.« —
 
 Lotti meldete sich nicht mehr. —
