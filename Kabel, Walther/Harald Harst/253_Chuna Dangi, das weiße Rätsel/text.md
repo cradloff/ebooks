@@ -880,21 +880,21 @@ hatte.
 <h2>4. Kapitel.</h2>
 <h3>Die Herrin von Ghaggar.</h3>
 
-Es war fünf Uhr morgens, als Drebber uns weckte,
+Es war fünf Uhr morgens, als Drebber uns weckte.
 Er hatte vier Leute mit einem Lastkamel zum Tatort geschickt,
 die die Leiche holen sollten, zwei andere hatten die
 Verfolgung Karl Janzens aufgenommen.
 
-»Fette Geschichte« sagte Drebber, der ein Pyjama
+»Nette Geschichte« sagte Drebber, der ein Pyjama
 <@pagebreak/>
 mit zahllosen Löchern trug. Er hatte das elektrische Licht in
-unserem Stöhnen eingeschaltet (die Farm besaß ein eigenes
-Blattwerk) und setzte sich auf den Tisch und baumelte mit
-den Beinen … »Wette Geschichte …«!! Die Leiche ist versä’wunden
-… « Soeben sind meine Leute zurückgekehrt. Den
-Hund fanden sie erschossen auf. Der alte Kerl von … Schaf
-hier schlief weil oben in seinem Zelt, und alle Fährten waren
-getilgt,, — zu) die Janzens … Der Bursche war schlau
+unserem Stübchen eingeschaltet (die Farm besaß ein eigenes
+Kraftwerk) und setzte sich auf den Tisch und baumelte mit
+den Beinen … »Nette Geschichte …!! Die Leiche ist verschwunden
+… Soeben sind meine Leute zurückgekehrt. Den
+Hund fanden sie erschossen auf. Der alte Kerl von Schafhirt
+schlief weit oben in seinem Zelt, und alle Fährten waren
+getilgt … auch die Janzens … Der Bursche war schlau
 genug gewesen, nachts die Tote zu holen und mit ihr nach
 Süden in die steinige Wüste zu verduften … Ich habe
 schon an die Südstationen telegraphiert. Der Hirte hat gegen
@@ -902,119 +902,116 @@ elf Uhr abends einen einzelnen Reiter mit einem Lastkamel
 im Mondschein beobachtet, auch einen Schuß gehört … —
 Was nun?«
 
-Harst gähnte und langte nach einer Zigarette, Als er das
-Feuerzeug anrieb, meinte ckr achselzuckend; »die Sache stinkt
-allerdings erheblich übel … «!!«
+Harst gähnte und langte nach einer Zigarette. Als er das
+Feuerzeug anrieb, meinte er achselzuckend: »die Sache stinkt
+allerdings erheblich übel …!!«
 
-Ich blickte ihm erstaunt an, Was sollte diese ihm sonst
+Ich blickte ihn erstaunt an. Was sollte diese ihm sonst
 widerwärtige derbe Ausdrucksweise?!
 
-Auch Drebber schob seine Brille zuerst und beugte sich
-vor. »Weshalb stinkt sie, Harst?!’
+Auch Drebber schob seine Brille zurecht und beugte sich
+vor. »Weshalb stinkt sie, Harst?!«
 
-»Ach — das ist eine Nebenpult, die ihr im Englischen
+»Ach — das ist eine Redensart, die ihr im Englischen
 nicht kennt, mein lieber Drebber … Hier paßt sie wie
-die Faust aufs Auge, Die Tote roch nicht gut, und die Sache
+die Faust aufs Auge. Die Tote roch nicht gut, und die Sache
 ist eben faul, und faules Fleisch stinkt …« Er formte drei
 Rauchringe … »Haben Ihre Leute einwandfrei festgestellt,
-daß Janzen die Tote liebte?!«
+daß Janzen die Tote holte?!«
 
-»Ja … « einwandfrei, Seine Spuren waren stellenweise
-zu erkennen, Machten hatte er seinen Weg über die her
-Gramvollen Weideflächen mitten durch; die Zeiten gewählt,
+»Ja … einwandfrei. Seine Spuren waren stellenweise
+zu erkennen. Nachher hatte er seinen Weg über die zertrampelten
+Weideflächen mitten durch die Herden gewählt,
 dann über die steinigen südlichen Strecken — wahrscheinlich
-
-Dort nach Spuren zu suchen, ist zwecklos. — Geben
+… Dort nach Spuren zu suchen, ist zwecklos. — Geben
 Sie mir eine Mirakulum, Harst … Danke vielmals. Ich
 rauche jetzt Pfeife … Es ist billiger. Ich spare eben —
 jede Rupie, und ich spare gut, das könnt ihr mir glauben.«
-
 <@pagebreak/>
-Er 304. den Mundzwinkel schief und hüstelte … »ach
+Er zog den Mundzwinkel schief und hüstelte … »Noch
 fünf Monate, und ich lasse mich pensionieren und kehre
-nach London beim … Indien habe ich bis Geier!!« Er
-strich sie über den Hals …
+nach London heim … Indien habe ich bis hier!!« Er
+strich sich über den Hals …
 
 Harst blickte ihm mißbilligend auf die abgetretenen Morgenschuhe.
-»Bitte um Sie, Sohn, Sie waren nicht nur
-ein patenter, fanden! auch ein kluger und diensteifriger
-Mensch … Ihre Gleichgültigkeit ist haarsträubend… Weg
-Halb begleiteten Sie Ihre Leute nicht?! Früher hätten Sie
-sich eine solche Versäumte nie zu Schulden kommen lassen
-» «…« Jetzt sind Sie lediglich habgierig — — stehende!«
+»Schade um Sie, John, Sie waren nicht nur
+ein patenter, sondern auch ein kluger und diensteifriger
+Mensch … Ihre Gleichgültigkeit ist haarsträubend. weshalb
+begleiteten Sie Ihre Leute nicht?! Früher hätten Sie
+sich eine solche Versäumnis nie zu Schulden kommen lassen
+… Jetzt sind Sie lediglich habgierig — — schade!«
 
 Drebber betrachtete seine Morgenschuhe. »Auch Habgier
 macht Spaß … sogar sehr, sie kann sehr abwechslungsreich
-sein und aufregend,, « Er kicherte in sich hinein,
-verschluckte sich dabei mit bekam einen braunroten Kopf.
+sein und aufregend …« Er kicherte in sich hinein,
+verschluckte sich dabei und bekam einen braunroten Kopf.
 
 Harald begann sich anzuziehen, nachdem er nebenan
-geduscht hatte, Drebber sagte verächtlich): »Ich Bad? nur
-noch alle am! Tage … — Schraut, konnten Sie sich etwas
+geduscht hatte. Drebber sagte verächtlich: »Ich bade nur
+noch alle acht Tage … — Schraut, spülen Sie sich etwas
 fix ab … Lipo hat das Frühstück schon fertig, und ihr
-nur späte Atems und (all sieden der alten Herr Spitzen eure
+müßt spätestens um halb sieben der alten Hexe drüben eure
 Aufwartung machen, nachher reitet sie ihre Weideplätze
 ab und kommt vor drei War nicht heim … Ein verrücktes
-altes Frauenzimmer, diese Witz Digall …«
+altes Frauenzimmer, diese Miß Digall …«
 
-Das war nämlich die Herrin der Gezogen »Farm, Drebber
-Hatte uns von ihr ein Verlust entworfen, daß einem davor
-die Haut schnaubende,
+Das war nämlich die Herrin der Ghaggar-Farm. Drebber
+Hatte uns von ihr ein Porträt entworfen, daß einem davor
+die Haut schauderte,
 
 Ich ließ die Tür zum Baderaum offen und hörte, wie
-Sohn weiter redete … »Ding haßt sie wie die Sünde,
-die Alte … Wir gehen uns sorgfältig ans dem Wege.
-Über vielleicht gefällt sie Summen … Die Geschmäcker sind
-ja verschieden … 544) kenne Leute, die dem Weibsbild
-ihrer Millionen wegen die Kur scheinbar … Aber —
-sie schneiden sich, die heiratet nicht … Da ist zum Beil
-Viel ein seiner Geröll aus Sirsa drüben, Großkaufmann « … «
-Der kommt »jeden dritter Tag mit dem Auto herüber … « «
-
+John weiter redete … »Mich haßt sie wie die Sünde,
+die Alte … Wir gehen uns sorgfältig aus dem Wege.
+Aber vielleicht gefällt sie euch … Die Geschmäcker sind
+ja verschieden … Ich kenne Leute, die dem Weibsbild
+ihrer Millionen wegen die Kur schneiden … Aber —
+sie schneiden sich, die heiratet nicht … Da ist zum Beispiel
+ein feiner Gent aus Sirsa drüben, Großkaufmann …
+Der kommt jeden dritten Tag mit dem Auto herüber …
 <@pagebreak/>
-Allan Peer heißt der Edle … Letztens hat die Bande
-… LInstenräuber ihm eine Karawane abgefangen … Peer
+Allan Peex heißt der Edle … Letztens hat die Bande
+Wüstenräuber ihm eine Karawane abgefangen … Peex
 soll sich die vorletzten Haare von seiner Glatze ausgerauft
-laben. Ein ’gräßlicyer Kerl … Tut vornehm wie ein Tau
+haben. Ein gräßlicher Kerl … Tut vornehm wie ein Leu
 und ist doch nur ein stinkiger Ziegenbock …«
 
 Harst band die Krawatte vor dem Spiegel …
 
-»Wie heißt diese Miß Statur eigentlich mit Boys
-neuem, John?«
+»Wie heißt diese Miß Statur eigentlich mit Vornamen,
+John?«
 
 »Charlotte …!!«
 
-Ich trat, mich abtrodnend, wieder ein. Ich sah im Spiegel
-Harst’s Gesicht, er 3zwikerte mir zu. Ich verstand: Harald
+Ich trat, mich abtrocknend, wieder ein. Ich sah im Spiegel
+Harst’s Gesicht, er zwinkerte mir zu. Ich verstand: Harald
 hatte Drebber das Taschentuch mit der Krone und auch die
 melodische Stimme unterschlagen, und ich sollte auch jetzt
 nichts verraten …
 
-»Das ist ja ein deutscher Name … « meinte Harst mäßig
+»Das ist ja ein deutscher Name …« meinte Harst mäßig
 erstaunt …
 
-»Ihre Mutter war eine Deutsche.« —
+»Ihre Mutter war eine Deutsche.«
 
-»Ach so … — Haben Sie auch die Vermutung, Roh,
+»Ach so … — Haben Sie auch die Vermutung, John,
 daß die Räuberbande von dem Thargespenst angeführt
 wurde?«
 
-»Blödsinn?!« Drebber lächelte verschmitzt, »Der Anführer
+»Blödsinn!!« Drebber lächelte verschmitzt. »Der Anführer
 muß ein verdammt fixer Kerl sein … Ein Weib bringt
-das Flucht fertig. Der Kerl ist mir rote immer entwischt,
+das nicht fertig. Der Kerl ist mir noch immer entwischt,
 und der Gouverneur in Bikaner, mein Oberchef, drückt mir
 jede Woche einmal seine Unzufriedenheit schriftlich aus …
-Papier ist hier knapp, und es ist ziemlich weiches Furche
-sclagpapier ’— na ja …«
+Papier ist hier knapp, und es ist ziemlich weiches
+Durchschlagpapier — na ja …«
 
-Wir lachten schallend … Drebber war du) noch der
-alle. —
+Wir lachten schallend … Drebber war doch noch der
+alte.
 
-Dann gingen wir in das Zelt frühstücken. Lipo hakte ein
+Dann gingen wir in das Zelt frühstücken. Lipo hatte ein
 Menü komponiert, das einfach erstklassig war. Er grinste
-gesch&chmeidyelt, als Harald ihm auf die Schauten klopfte.
-»As, Lipo, sparst du auch?! Hier merkt man’s nicht …«
+geschmeichelt, als Harald ihm auf die Schulter klopfte.
+»Na, Lipo, sparst du auch?! Hier merkt man’s nicht …«
 
 »Wir sparen anderswo,« warf Drebber ein und winkte
 Lipo, sich zu entfernen.
@@ -1026,28 +1023,23 @@ wohl nachts … Deines Herrn Pyjama ist ein Skandal!!«
 
 Der Chinese war verlegen geworden,
 
-Ein seltsamen Verdacht kam mir da … Er schien zu.
-nächst absolut unsinnig zu sein. Aber Drebbers Redens:
-Arten gaben ihm Fundament. Ein so!schwer gekränkter und
+Ein seltsamer Verdacht kam mir da … Er schien zunächst
+absolut unsinnig zu sein. Aber Drebbers Redensarten
+gaben ihm Fundament. Ein so schwer gekränkter und
 gedemütigter Mann wie John Drebber konnte immerhin
-auf Abwege geraten. »Er wäre nicht der erste Polizeibeamte
+auf Abwege geraten. Er wäre nicht der erste Polizeibeamte
 gewesen, der eine Doppelrolle gespielt hätte.
 
 Lipo stotterte und schielte nach allen Seiten wie eine
-
-»eingestellte Matte … »Mr. Harst, nur hier sparen können
-
-… « — Dann nach England reisen und kaufen Haus mit Garten
-
-»und vier Ziegen … Mr. Drebber essen nur Ziegenkäse.«
+eingekreiste Ratte … »Mr. Harst, nur hier sparen können
+… Dann nach England reisen und kaufen Haus mit Garten
+und vier Ziegen … Mr. Drebber essen nur Ziegenkäse.«
 
 »Ja, einen Ziegenbart hat er sich auch schon wachsen
-
-lassen, mein lieber Lipo … Bei uns daheim gibt’s eilten
-
+lassen, mein lieber Lipo … Bei uns daheim gibt’s einen
 Pilz, den nennt man Ziegenbart, und eine Baumflechte, die
-genau so heizt … Hoffentlich baumelt euch dein Erstens
-bar! nicht eines schönen Tages an erneut dicken Ast?!«
+genau so heißt … Hoffentlich baumelt euch dein Ziegenbart
+nicht eines schönen Tages an einem dicken Ast!!«
 
 Lipo verfärbte sich und Drebber rief: »Lassen Sie ihn
 doch gehen, Harst!!«
@@ -1058,142 +1050,139 @@ ihm die Geschichte von Irina Vanderkotts Verhängnis, jenes
 seltsame Problem, bei dem auch ich bis zum letzten Moment
 über den wahren Täter im ungewissen geblieben war. John
 hatte, als wir die Zigarren anzündeten, wieder seine beliebte
-Liegestellung — Füße auf dein Tischrand — aufgenommen.
-Von dem Zelte ans konnte man nur einen
-
-»Teil des Daches und die oberen Stockwerke des Digalls
-
-Schlosses sehen. Eine hohe Damenhafte verhüllte Park mit
-Terrassen. Auch die Einfahrt in den Park lag Kehre nach
+Liegestellung — Füße auf dem Tischrand — eingenommen.
+Von dem Zelte aus konnte man nur einen
+Teil des Daches und die oberen Stockwerke des Digall-Schlosses
+sehen. Eine hohe Dornenhecke verhüllte Park und
+Terrassen. Auch die Einfahrt in den Park lag mehr nach
 Osten zu.
 
-»,- Worüber denken Sie nach?« fragte Palast den Obere
-Inspektor, da dieser immer zerstreuter wurde,
+»Worüber denken Sie nach?« fragte Harald den Oberinspektor,
+da dieser immer zerstreuter wurde,
 
 <@pagebreak/>
-»Oh ich mich rasieren soll … Vielleicht könnte im auch
-eilt sauberes Sporthemd anlegen … Aber ich fürchte, ich
-Steine dann zu sehr Mr. Allan Peer … Aber der trägt
-dunkel, 6 und etwas tragen, was der trägt, vertrage ich
-nicht …
+»Ob ich mich rasieren soll … Vielleicht könnte ich auch
+ein sauberes Sporthemd anlegen … Aber ich fürchte, ich
+gleiche dann zu sehr Mr. Allan Peex … Aber der trägt
+Monokel, und etwas tragen, was der trägt, vertrage ich
+nicht …«
 
 Ich blickte still in die Weite — das Tal hinab. Links
-vom Parke lagen die Wohnungen der Leute der Farm «.«.
-Das Stampfen einer Lokomobile dröhnte taktmäßig — »herüber;
-Braune Ganzen kümmerten sich splitternackt in der Sonne,
-und in »der durchsichtig klaren Luft schwebten eine Menge
-Nachgehen, die mich an die erschossene Frau, an the Ghost
-of the Thar, erinnerten, Ich wandte den Kopf, »Drebber,
+vom Parke lagen die Wohnungen der Leute der Farm …
+Das Stampfen einer Lokomobile dröhnte taktmäßig herüber.
+Braune Rangen tummelten sich splitternackt in der Sonne,
+und in der durchsichtig klaren Luft schwebten eine Menge
+Aasgeier, die mich an die erschossene Frau, an the Ghost
+of the Thar, erinnerten. Ich wandte den Kopf. »Drebber,
 sind Sie denn niemals dieser geheimnisvollen Frau begegnet?!«
 
-»Nein, Schraut … « Er gähnte … »Sie interessiert
+»Nein, Schraut …« Er gähnte … »Sie interessiert
 mich auch nicht … Die Weiber können mir gestohlen bleiben
-… — Ch Oh — — siew’ da, Miß Digall und ihr Verehrer
-als Nachtisch. »1?«
+… — — Oh — — sieh’ da, Miß Digall und ihr Verehrer
+als Nachtisch …!!«
 
 An der Hecke kamen zwei Reiter dahergetrabt, beide auf
-echt englischen Halbblut … —
+echt englischem Vollblut … —
 
-Ich habe auf dem Roman von Tage Grog, auf dem Ums
-schlug, ein Bild gesehen, das die Heldin Betty Tage darstellt,
-Ich brauche hatten Miß Charlotte Digall hier nicht näher
-zu beschreiben, ich betone nur: Drebber hatte uns fürchten«
-lich »angelogen; Miß Digall war die pikanteste, rassigste
+Ich habe auf dem Roman von Zane Grey, auf dem Umschlag,
+ein Bild gesehen, das die Heldin Betty Zane darstellt.
+Ich brauche daher Miß Charlotte Digall hier nicht näher
+zu beschreiben, ich betone nur: Drebber hatte uns fürchterlich
+angelogen, Miß Digall war die pikanteste, rassigste
 Schönheit, die ich je bewundern durfte,
 
-Und auch Mr. Allan Peer entsprach in keiner Weise
-der. Beschreibung, die John von ihm geliefert hatte. Gewiß,
+Und auch Mr. Allan Peex entsprach in keiner Weise
+der Beschreibung, die John von ihm geliefert hatte. Gewiß,
 er war schmächtig und überschlank, aber sein etwas rundes,
 braunes Gesicht hatte harte Linien … Das war niemals ein
 alberner Geck trotz seiner feudalen Aufmachung.
 
 Während Harst und ich uns erhoben, als die Reiter
 dicht heran waren, änderte Drebber seine Lieblingsstellung
-auch; nicht um einen Deut. Genau so nachlässig sagte er:
+auch nicht um einen Deut. Genau so nachlässig sagte er:
 
-»Hohe Schnee, Miß … Morgen, Mr. Peer … Auch
+»Hohe Ehre, Miß … Morgen, Mr. Peex … Auch
 <@pagebreak/>
-wieder im Lande?! Ist’s drüben in Sirsa so langweilig
-— Gestatten, daß im bekannt mache: Miß ’ Charlotte
-all, Besitzerin der Schaffarm, auf der jährlich festsaugen
-Schäflein geschoren werden, und Mr. Allan Peer, Groß
-Händler in Landesprodukten und anderen Kleinigkeiten Pi
-hinab zum Kragenknopf … Hier meine Freunde, zur
-deutsche Gelehrte von Ruf, Mr. Harald Harst und Mr. Na:
+wieder im Lande?! Ist’s drüben in Sirsa so langweilig?
+— Gestatten, daß im bekannt mache: Miß Charlotte Digall,
+Besitzerin der Schaffarm, auf der jährlich sechstausend
+Schäflein geschoren werden, und Mr. Allan Peex, Großhändler
+in Landesprodukten und anderen Kleinigkeiten bis
+hinab zum Kragenknopf … Hier meine Freunde, zwei
+deutsche Gelehrte von Ruf, Mr. Harald Harst und Mr. Max
 Schraut, meine lieben Gäste, deren Spezialfach die Entlarvung
 von Gaunern und ähnlichen Leuten ist … —
 Haben Sie Wünsche, Miß?«
 
-Miserabler konnte er dieses bildhübsche Mädel, da
-kaum fünfundzwanzig Jahre alt sein mochte, kaum be
-handeln.
+Miserabler konnte er dieses bildhübsche Mädel, das
+kaum fünfundzwanzig Jahre alt sein mochte, kaum behandeln.
 
-Aber sie zahlte es ihm heim. »Ich glaubte, Sie würden Ei
-Negern der Höflichkeit wenigstens vor Ihren Freunden er
-was einhalten, Mr. Drebber …« Ihre »Tagen flammte!
-auf … »Doch — das haben Sie mit sich selbst abzumachen.
+Aber sie zahlte es ihm heim. »Ich glaubte, Sie würden die
+Regeln der Höflichkeit wenigstens vor Ihren Freunden etwas
+einhalten, Mr. Drebber …« Ihre Augen flammten
+auf … »Doch — das haben Sie mit sich selbst abzumachen.«
 
-»Danke … — Ich werde mir eine Gouvernante eng
-Taxieren, Miß. Also — Ihre Wünsche?!««.
+»Danke … — Ich werde mir eine Gouvernante engagieren,
+Miß. Also — Ihre Wünsche?!«
 
-»Mir ist gemeldet worden, daß auf dem Gebiet der Bar
-eine Tote gefunden wurde,« sagte Charlotte Digall so eisig
-daß ich verlegen wurde. Schließlich fiel dank Drebbers
-wußte Flegelei auch auf uns zurück.
+»Mir ist gemeldet worden, daß auf dem Gebiet der Farm
+eine Tote gefunden wurde,« sagte Charlotte Digall so eisig,
+daß ich verlegen wurde. Schließlich fiel doch Drebbers
+bewußte Flegelei auch auf uns zurück.
 
-Drebber steckte die Pfeife in den Mund und meinte
+Drebber steckte die Pfeife in den Mund und meinte:
 »Wer meldete Ihnen das?! — Meldungen habe nur ich
 entgegen zu nehmen.«
 
-»Mr. Peer erzählte es …, « verbesserte sich Miß Digall
+»Mr. Peex erzählte es …« verbesserte sich Miß Digall
 seltsam hastig.
 
-Der Chef der Ostsektion starrte Deck aus zugekniffenen
+Der Chef der Ostsektion starrte Peex aus zugekniffenen
 Augen an. »Ah — — Sie?! Und wer erzählte es Ihnen?«
 
-Allan Peer ’erwiderte hochmütig: »Ein Gift … Wollen
-Sie hier auf rote Maulkorbzwang einführen 2?«
+Allan Peex erwiderte hochmütig: »Ein Hirt … Wollen
+Sie hier auch noch Maulkorbzwang einführen?«
 
-»Kur für Ziegenböcke. Mr. Peer, nicht für Freund
-Hirten. — Miß, — welches Interesse? haben Sie an da
+»Nur für Ziegenböcke. Mr. Peex, nicht für braune
+Hirten. — Miß, — welches Interesse haben Sie an der
 Toten?«
 
 <@pagebreak/>
 Harald hatte bisher Zuhörer und Beobachter gespielt.
-Er verbeugte sich nun nochmals vor der Reiterin und ertönte:
+Er verbeugte sich nun nochmals vor der Reiterin und erklärte:
 »Mein Freund Drebber scheint mit Ihnen nicht
-recht auszukommern, Mit Digall … Könnte ich nicht etwas
+recht auszukommen, Miß Digall … Könnte ich nicht etwas
 vermitteln? Sie sollen ihn wenig freundlich empfangen
-haben, und so entstand sofort eine »gewisse Spannung zwischen
-Ihnen beiden … Vielleicht …-,’
+haben, und so entstand sofort eine gewisse Spannung zwischen
+Ihnen beiden … Vielleicht …«
 
 »Strengen Sie sich nicht umsonst an, Harst,« fiel Drebber
-ihm: schroff ins Wort, »Ich« habe hier Räuber zu jagen,
+ihm schroff ins Wort. »Ich habe hier Räuber zu jagen,
 und nicht verwöhnten Damen rasiert und poliert gegenüberzutreten
-… Manchem trete ich; auf die Hühneraugen
-… Ich denke da nicht an Sie, Mr. Derer +… Einige
-gut gepflegter ’ blonder Gentleman wie Sie hat schriller
-keine Hühneraugen … — Im übrigen, Miß, ist die. Tote
-wieder gestohlen, worden … Der Mörder ist ein gewisser
-Janzen … « « Karl Janzen … Das steht fest …« …
+… Manchem trete ich auf die Hühneraugen
+… Ich denke da nicht an Sie, Mr. Peex … Ein so
+gut gepflegter blonder Gentleman wie Sie hat sicher
+keine Hühneraugen … — Im übrigen, Miß, ist die Tote
+wieder gestohlen worden … Der Mörder ist ein gewisser
+Janzen … Karl Janzen … Das steht fest …«
 
-Miß Digall war sehr Blei) geworden, sie senkte rasch
+Miß Digall war sehr bleich geworden, sie senkte rasch
 den Kopf und ordnete die Zügel ihres Pferdes.
 
-»am — kennen Sie Karl Janzen?« fragte Drebber brutal.
+»Hm — kennen Sie Karl Janzen?« fragte Drebber brutal.
 »Wo waren Sie zum Beispiel die letzten zwei Tage?«
 
-Sie hob den Kopf mit einem Ruck. Sie war tief als.
-rötet … Sie führte mit ihrer Reitgerte einen Lufthieb,
+Sie hob den Kopf mit einem Ruck. Sie war tief errötet
+… Sie führte mit ihrer Reitgerte einen Lufthieb,
 daß der Gaul vorn stieg …
 
 »Ich kenne keine, Mörder,« antwortete sie in ohnmächtigem
 Grimm mit zitternden Lippen … »Und über meine
 Reisen bin ich Ihnen keine Rechenschaft schuldig! — Kommen
-Sie, Mr. Peer … England war einmal das Land der
-höflicher Menschen — — wart!«
+Sie, Mr. Peex … England war einmal das Land der
+höflichen Menschen — — war!«
 
-»Salt!!« Drebber schnellte empor. »Bleiben Sie!! Steigen
+»Halt!!« Drebber schnellte empor. »Bleiben Sie!! Steigen
 Sie beide ab …«
 
 Er pfiff auf seiner Signalpfeife und im Nu tauchten
@@ -1205,86 +1194,87 @@ zwei Stühle her …«
 <@pagebreak/>
 
 <h2>5. Kapitel.</h2>
-<h3>Ein Herbst.</h3>
+<h3>Ein Verhör.</h3>
 
-Miß Digall und Peer gehorchten. Beide waren sehr blaß
-Beide setzten sich, und Drebber befahl weiter: »Mutley, Ei
-protokollieren … »1«
+Miß Digall und Peex gehorchten. Beide waren sehr blaß.
+Beide setzten sich, und Drebber befahl weiter: »Mutley, Sie
+protokollieren …!«
 
-Harst (ahnte sich an die gerippte Wand der Baracke
-ich … schämte mich dieser ganzen Szene, Drebbers He
-nehmen war empörend. Er hatte wieder seine Liegestellun
-eingenommen, stopfte umständlich seine Pfeife und sagte 31
-dem Sergeant Mutter: »Schreiben Sie …
+Harst lehnte sich an die gerippte Wand der Baracke,
+ich … schämte mich dieser ganzen Szene. Drebbers Benehmen
+war empörend. Er hatte wieder seine Liegestellung
+eingenommen, stopfte umständlich seine Pfeife und sagte zu
+dem Sergeant Mutley: »Schreiben Sie …
 
-»Vor dem Chef der Sektion Miß des Polizei Dromedarreiter«:
-Korps Mr. Sohn Drebber erschienen Heute Trauriges
-fordert …!.) Miß Charlotte Digall, 23 Jahre alt, He:
-Tigerin der Ghaggar- Farm, nicht vorbei straft, ledig, …
-Oder — pardon — irre ich mich, Miß « Sind Ei
-doch verheiratet …, 2« ]
+> »Vor dem Chef der Sektion Ost des Polizei Dromedarreiterkorps
+Mr. John Drebber erschienen Heute unaufgefordert
+… 1\.) Miß Charlotte Digall, 23 Jahre alt, Besitzerin
+der Ghaggar-Farm, nicht vorbei straft, ledig, …
 
-Charlotte Digall stieß einen merkwürdig schrillen Schnee
-QS … Und da erst — — da erst begriff ich alles, denn
-diesen »Schrei kannte ich.
+Oder — pardon — irre ich mich, Miß …? Sind Sie
+doch verheiratet …?«
+
+Charlotte Digall stieß einen merkwürdig schrillen Schrei
+aus … Und da erst — — da erst begriff ich alles, denn
+diesen Schrei kannte ich.
 
 Sie erhob sich langsam …
 
-»Ah — — Sie … Sie sind ein, — vielleicht:
+»Ah — — Sie … Sie sind ein …« — vielleicht
 wäre eine böse Beleidigung diesen heiseren Worten gefolgt
 aber Drebber rief rauh:
 
-»Stopp, -Witz …!! Stopp!! Setzen Sie sich wieder …
+»Stopp, Miß …!! Stopp!! Setzen Sie sich wieder …
 Sind Sie verheiratet, ja oder nein?«
 
 Sie sank auf den Stuhl zurück.
 
-Allan Peer stierte sie von der Seite entsetzt an …’
+Allan Peex stierte sie von der Seite entsetzt an …
 
-»Ja!« quälte sie hervor, und ein paar Tränen langer
-ihr über die Wangen … —
+»Ja!« quälte sie hervor, und ein paar Tränen rannen
+ihr über die Wangen.
 
-»Mutley, Kapellen Sie also …!
+»Mutley, schreiben Sie also …:
 
-»dicht ledig, sondern verheiratet, wie sie soeben auf Vor.
-halt eingestanden hat.«
+> »nicht ledig, sondern verheiratet, wie sie soeben auf Vorhalt
+eingestanden hat.«
 
 <@pagebreak/>
-»Mit wem sind Sie verheiratet?« Er blickte- sie- seit.
-kam lauernd an, —
+»Mit wem sind Sie verheiratet?« Er blickte sie seltsam
+lauernd an,
 
 Sie holte tief Atem … Sie bog die Reitgerte mit
 beiden Händen nervös zusammen und erwiderte leise:
 
-»Das … « Werde ich niemals verraten, »!’
+»Das … werde ich niemals verraten …!«
 
-Sohn Drebber legte seine Pfeife weg und setzte sich
-aufrechter, Seine grauen Augen, die soviel Ähnlichkeit
+John Drebber legte seine Pfeife weg und setzte sich
+aufrechter. Seine grauen Augen, die soviel Ähnlichkeit
 mit denen Harsts hatten, bedeckten sich fast ganz mit den
-Lidern. Der melancholische, bittere Zug erschien wieder und
+Lidern. Der melancholische, bittere Zug erschien wieder um
 seinen Mund, und seine Stimme klang plötzlich vollkommen
 anders …
 
 »Weshalb wollen Sie das nicht verraten?« fragte er
-mit mildern Vorwurf, »Bedenken Sie, daß Sie mir antworten
+mit mildem Vorwurf. »Bedenken Sie, daß Sie mir antworten
 müssen …«
 
-Allan Peer rückte mit seinem Stuhl sehr ostentativ von
-Charlotte ab, schlug ein Bein über das andere und murmelte;
-»Nette Geschichten, — in der Hätt’« Ch
+Allan Peex rückte mit seinem Stuhl sehr ostentativ von
+Charlotte ab, schlug ein Bein über das andere und murmelte:
+»Nette Geschichten, — in der Tat!!«
 
 »Halten Sie den Mund!« rief Drebber ihm grob zu,
 »auch setzen Sie sich gefälligst anständig hin! In Gesellschaft
 einer Dame schlägt man die Beine nicht übereinander, erst
 recht nicht bei einem polizeilichen Verhör!«
 
-Aber Peer lächelte nur amüsiert. »Zu einem Verhör
-muß ein Grund vorliegen, Mr. Drebber … Bretter haben
-Sie mir diesen Grund Unglück nicht genannt, Ich segele
-nicht unter falscg)er Flagge, ich heiße John Peer, bin uns
-verheiratet und Mitglied des Regierungsparlaments, …«
+Aber Peex lächelte nur amüsiert. »Zu einem Verhör
+muß ein Grund vorliegen, Mr. Drebber … Bisher haben
+Sie mir diesen Grund noch nicht genannt. Ich segele
+nicht unter falscher Flagge, ich heiße John Peex, bin unverheiratet
+und Mitglied des Regierungsparlaments …«
 
-Drebber tat so, als ob Peer überhaupt nicht spräche,
+Drebber tat so, als ob Peex überhaupt nicht spräche,
 
 »Miß Digall, — bitte … Der Name Ihres Gatten?«
 
@@ -1296,138 +1286,138 @@ sagte:
 »Karl Janzen …!«
 
 Der Erfolg war vielseitig: Charlotte schlug die Hände
-vor das Gesicht, Drebber stierte Harst wild an, Peer rückte
+vor das Gesicht, Drebber stierte Harst wild an, Peex rückte
 <@pagebreak/>
-mit seinem Stuhl rote« mehr seitwärts, und ich … nun
+mit seinem Stuhl noch mehr seitwärts, und ich … nun
 ich beschränkte mich auf den in solchen Fällen üblichen
 geistvollen Gesichtsausdruck,
 
-»Fall Janzen ist Ihr Gatte,« sagte Harst nodamuals.
+»Karl Janzen ist Ihr Gatte,« sagte Harst nochmals.
 »Wenigstens vermute ich dies, Miß Digall. — Seien Sie
 doch nicht so verstört und verzweifelt … Vielleicht reden
-Sie. freier, wenn Mr. Peer nur) Ihnen vernommen wird.
-Mr. Leer scheint schwer enttäuscht zu sein, …«
+Sie freier, wenn Mr. Peex nach Ihnen vernommen wird.
+Mr. Peex scheint schwer enttäuscht zu sein …«
 
 Drebber winkte Mutley. »Führen Sie den Herrn in
 mein Büro, Bleiben Sie bei ihm …«
 
-Peer keuchte wütend: »Ich protestiere gegen diese Behandlung
-… Ich … td …« — er beherrschte sich, und
-ein Blick falten Hasses traf Drebber … »I3ch habe vier
-ein Schreiben des GwWouverneurs Lord Ersuchen …
+Peex keuchte wütend: »Ich protestiere gegen diese Behandlung
+… Ich … ich …« — er beherrschte sich, und
+ein Blick kalten Hasses traf Drebber … »Ich habe hier
+ein Schreiben des Gouverneurs Lord Eygingham …
 Bitte …!« Er stand auf und las vor …
-& war ein Befehl des Gouverneurs an den Detektivoberinspektor
-John Drebber, die Dicenstgeschsfte sofort an
-das Parlamentsmitglied Mr. Allan Peer aus Sirsa abzugeben
+
+Es war ein Befehl des Gouverneurs an den Detektivoberinspektor
+John Drebber, die Dienstgeschäfte sofort an
+das Parlamentsmitglied Mr. Allan Peex aus Sirsa abzugeben
 und sich jeglicher weiteren amtlichen Handlung zu
 enthalten.
 
 Drebber funkelte eigentümlich …
 
-»Gut gemacht …!« meinte er zu Peer. »Geben Sie
-mal der … Danke … Die Urkunde Ut gefälscht …!«
+»Gut gemacht …!« meinte er zu Peex. »Geben Sie
+mal her … Danke … Die Urkunde ist gefälscht …!«
 
 Er rieb ein Zündholz an und steckte sie in Brand …
-Peer sprang zu, aber Sergeant Mutley packte ihn und
+Peex sprang zu, aber Sergeant Mutley packte ihn und
 schleuderte ihn zur Seite. Das Papier verkohlte vollends,
 Drebber zertrat die Asche mit dem Fuße und sagte ironisch:
 
-»Peer, ich will Sie dieserhalb nicht belangen … Seien
+»Peex, ich will Sie dieserhalb nicht belangen … Seien
 Sie froh, daß der Wisch vernichtet ist.«
 
-Peer, kreideweiß vor Wut und schlotternd und nach
+Peex, kreideweiß vor Wut und schlotternd und nach
 Atem ringend, kreischte bösartig:
 
-»Ihre … Urkunde war echt! — Sergeant, telegraphieren
-Sie!sofort an den Herrn Gouverneur und …«
+»Die … Urkunde war echt! — Sergeant, telegraphieren
+Sie sofort an den Herrn Gouverneur und …«
 
-Mutley, ein stiernackiger Kerl mit offenen Gesicht, lochte
+Mutley, ein stiernackiger Kerl mit offenem Gesicht, lachte
 ihn aus. »Telegraphieren?! — Hier ist Mr. Drebber Chef,
 <@pagebreak/>
 und wir gehen für ihn durch dick und dünn, Sie … Sie
-verdammten semmelblonder Schlingel, Sie! — Marsch, kommen
-Sie mit, Oder soll im Ihnen …,«
+verdammter semmelblonder Schlingel, Sie! — Marsch, kommen
+Sie mit, Oder soll ich Ihnen …«
 
-»Stopp, Mutley …« Drebber lächelte sein, »Mr. Peer
-hat ganz recht, Er muß erst hören, was gegen, ihm vorliegt.
+»Stopp, Mutley …« Drebber lächelte fein, »Mr. Peex
+hat ganz recht. Er muß erst hören, was gegen ihn vorliegt.
 — Ich beschuldige Sie, mit den Räubern hier, die seit einigen
-Monaten: besonders die Karawanenwege unsicher machen,
-in geheimem Einvernehmen zu Steinen.«
+Monaten besonders die Karawanenwege unsicher machen,
+in geheimem Einvernehmen zu stehen.«
 
-Peer quollen die Augen aus dem Kopfe. Sein Monokel
+Peex quollen die Augen aus dem Kopfe. Sein Monokel
 fiel in den Sand … Er stierte Drebber unheimlich an und
-sagte abgeholt: »Sie «. — Sie … beschuldigen mich, —
+sagte abgehackt: »Sie … Sie … beschuldigen mich, —
 — Sie?! Sie … sind ja selbst der Anführer dieser Bande,
-und Ihre Beamten hier sind Ihre Keller, — deshalb wurden
-Sie Ihrer Stellung enthoben, und ich habe Mylord Eggiügham
-die Beweise. vorgelegt …
+und Ihre Beamten hier sind Ihre Helfer, — deshalb wurden
+Sie Ihrer Stellung enthoben, und ich habe Mylord Eygingham
+die Beweise vorgelegt …«
 
-Drebber trommelte gegen den Rand seines Tellers,
+Drebber trommelte gegen den Rand seines Tellers.
 Seine Stirn lag in Furchen,
 
 »Mutley, bewachen Sie den Mann … Ich will nur ein
-wenig & — — Toilette machen. In diesem Aufzuge scheine
-ich Mr. Peer nicht zu imponieren « …«
+wenig … Toilette machen. In diesem Aufzuge scheine
+ich Mr. Peex nicht zu imponieren …«
 
-Der geschneigige Peer war wie ein Blitz im Sattel
-seiner Fuchsgstute, riß sie vorn hoch, riß den Beamten, der
+Der geschmeidige Peex war wie ein Blitz im Sattel
+seiner Fuchsstute, riß sie vorn hoch, riß den Beamten, der
 das Pferd hielt, zu Boden und jagte davon.
 
-Drebber … lächelte …’
+Drebber … lächelte …
 
 »Mutley, Sie sind der beste Reiter, — rauf auf Miß
 Digalls Pferd … Bringen Sie den Mann tot oder lebendig
-wieder her …
+wieder her …«
 
 Der Sergeant grinste. »Er wird dann wohl mehr tot
 Sein …« — und Charlotte Digalls Gaul setzte hinter dem
-Flexbtling drein, der nach Südost die offene Wüste zu
+Flüchtling drein, der nach Südost die offene Wüste zu
 gewinnen suchte,
 
-— Drebber wandte sich an uns. »Unterhaltet bitte Miß
+Drebber wandte sich an uns. »Unterhaltet bitte Miß
 Digall bis zu meiner Rückkehr recht angenehm …« Er
 verneigte sich vor ihr und betrat seine Räume. Die Beamten
 folgten ihm.
 
 <@pagebreak/>
-Harst ging zu »Charlotte Digall und führte sie in da;
-Zelt und drückte sie sanft in einen Korbsessel.«
+Harst ging zu Charlotte Digall und führte sie in das
+Zelt und drückte sie sanft in einen Korbsessel.
 
-»So — nun sprechen Sie, mein Sind,« sagte er ist
+»So — nun sprechen Sie, mein Kind,« sagte er in
 deutscher Sprache. »Ihre Stimme ist unverkennbar … Sie
-waren dort im Tale, Sie holten die. Tote … Sie sind
-Janzens Frau … Janzen riß ’zwar aus dem Krokodilheft
+waren dort im Tale, Sie holten die Tote … Sie sind
+Janzens Frau … Janzen riß zwar aus dem Krokodilheft
 die ersten Seiten aus, aber auf der letzten Übersah er zwei
-Schlußzeilen in deutschen Buchstaben — also keine Chiffre
-Schrift, und diese Zeilen lauteten:
+Schlußzeilen in deutschen Buchstaben — also keine Chiffreschrift,
+und diese Zeilen lauteten:
 
-»Gott gebe, daß diese Ehe meines Lieblings mit Stark
-Janzen, die nie eine Ehe war, wieder gelöst werden. kann.«
+> »Gott gebe, daß diese Ehe meines Lieblings mit Karl
+Janzen, die nie eine Ehe war, wieder gelöst werden kann.«
 
 Was haben Sie dazu zu bemerken, Fräulein Lotte?«
 
 Sie weinte wieder,
 
-»Ich will Ihnen alles erzählen, Herr Harst … « flüsterte
-sie und Griffe ihn unter Tränen frei und 6 &hrlich an — »a
-wir sind verheiratet —« und doch nicht verheiratet, — €
-war nur eine Zweckehe, Herr Jacht …
+»Ich will Ihnen alles erzählen, Herr Harst …« flüsterte
+sie und blickte ihn unter Tränen frei und ehrlich an. »Ja
+wir sind verheiratet — und doch nicht verheiratet … Es
+war nur eine Zweckehe, Herr Harst …«
 
-»Sah dachte ich mir … Des Vermögens der Digalls
+»Das dachte ich mir … Des Vermögens der Digalls
 wegen …«
 
-»2 … Sir trocknete die Augen und begann …
+»Ja …« Sie trocknete die Augen und begann …
 
-1
-
-The Ghost of the Thar
+<h1>The Ghost of the Thar</h1>
 
 <h2>1. Kapitel.</h2>
 <h3>Romantik.</h3>
+
 »Herr Harst, ul) rann mich ganz kurz fassen, Unsere Fuß,
 milienverhältnisse liegen ziemlich klar …«
 Sie sprach jetzt mit der ihre von Mutter Natur gnädig
-<@pagebreak/>
+<@pagebreak 37/>
 gespendeten echten Stimme, und die war wie Musik. Es war
 ei)t heller, klingender Sopran mit einer für eine Engländerin
 außerordentlich) klarer Wortbildung und einem seinen Timbre,
@@ -1678,7 +1668,7 @@ saht und da der Mörder — Janzen — dann verschleppte,
 kann nicht das Gespenst der Thar gewesen sein. The Ghost
 of the Thar ist … Lotti Digall, ich. habe die Beweise
 dafür, im habe geholt; noch« nicht die Beweise, daß Lotti
-Digall und Allan Peer es mit den Wüstenräubern halten,
+Digall und Allan Peex es mit den Wüstenräubern halten,
 aber ich vermutest, — Ich bin kein Mann der Sentimenstalitäten,
 ihr Kennt mich: Die Pflicht ging mir einst über
 alles, Dann erhielt im den Dämpfer in Kalkutta, ich Buche
@@ -1690,7 +1680,7 @@ Witterung, «««
 Seine letzten Sätze klangen matt und unlogisch. Weshalb
 redete er von GSentimentalitäten?! Er the klüger getan,
 zu schweigen. Ich jedenfalls glaubte ihm nicht, Er wußte
-wohl am besten, daß Lotti oder Peer mit den Karawanen
+wohl am besten, daß Lotti oder Peex mit den Karawanen
 Rändern kaum im Bunde standen,
 
 »-…- Als ich; Lotti hier kennenlernte, war’s um mich
@@ -1732,7 +1722,7 @@ Sie doch das Ding wieder weg, Harst …!«
 wieder in den Kolben zurück, und mit einen! Knacken schob
 sich die oberste Patrone in den Lauf. »Mithin könnte Lotti
 the Ghost sein — der Zeit nach. — Weshalb beargwöhnen
-Sie Lotti und Plan Peer? Haben Sie die beiden denn nachts
+Sie Lotti und Plan Peex? Haben Sie die beiden denn nachts
 einmal zusammen gesellen 2«
 
 »Ja — wiederholt.«
@@ -1744,7 +1734,7 @@ heißen « Brei herum. Sie wissen mehr als Sie sagen. Sie
 wollen Lotti liegen — und sich selbst! Sie haben sich doch
 <@pagebreak/>
 sehr« verändert, Drebber, nicht zum Vorteil. Es ist zwecklos,
-die Dinge klären zu wollen. Peer rückte so deutlich vorhin
+die Dinge klären zu wollen. Peex rückte so deutlich vorhin
 von Lotti ab, daß er lediglich) ihr Verehrer sein kann.
 Selbst wenn man unterstellen wollte, er hätte, seine Kater
 waren stets versichert gehabt und könnte daher als Thar.
@@ -1755,14 +1745,14 @@ ich überzeugt bin, daß die Urkunde acht war, die Sie so
 eilfertig verbrannten …«
 
 Drebber lachte. »Sie war echt. Sie unterschätzen Er.
-Peer. Er ist ein Wolf im Schafspelz.«
+Peex. Er ist ein Wolf im Schafspelz.«
 
 Harst hielt die Pistole mit der Mündung nach der Bau
 nachkommend hin und fuhr mit dem linken Zeigefinger über
 den kurzen Lauf. »Hier ist ein Rostfleck … Ich muß die
 Waffe besser ölen, … ««
 
-Drebber fügte mit kaltem Hohn hinzu: »Peer witterte
+Drebber fügte mit kaltem Hohn hinzu: »Peex witterte
 in mir den Nebenbuhler … Da hat er »eben Mylord Eggingham
 einen Floh) ins Ohr gesetzt … — Mylord liebt mich
 nicht. Dort im Gouverneurpalast in Bikaner sind nur Bäutehrutscher
@@ -1879,16 +1869,16 @@ merkwürdig und Saßnitz mir eilends voraus.
 
 Als wir um die Echte bogen und den Parkeingang vor
 uns sahen, kamen von den H)ürden her zwei Reiter enge
-trabt: Sergeant Mutter) und Willen Peer, — eine Strecke
+trabt: Sergeant Mutter) und Willen Peex, — eine Strecke
 hinter ihnen sechs Beamte des Dromedarkorps, die Karabiner
 !anstieg über den Spritzern.
 
 Harald blieb stehen. »Hm, die Sache wird windig, mein
-Alter …? Armer Drebber!! Mutley ist umgefallen, Peer
+Alter …? Armer Drebber!! Mutley ist umgefallen, Peex
 hat ihn eines besseren belehrt, — wer weiß, was das gekostet
 hat!
 
-Mr. Allan Peer ritt rechts von Mutley und hielt auf
+Mr. Allan Peex ritt rechts von Mutley und hielt auf
 uns zu. Sein Gesicht verriet nichts Gutes. In seinen Augen
 las ich verstecktes Drohen und höhnischen Triumpf.
 
@@ -1898,19 +1888,19 @@ Drebbers Stelle nehme ich ein. Der Befehl seiner Lordschaft
 war echt. Sergeant Mutley hat vom Vorwerk Anschluß nach
 Bikaner bekommen und telephonisch bestätigt erhalten, daß…«
 
-Harald unterbrach Peer. »Mag sein … Und Drebber?«
+Harald unterbrach Peex. »Mag sein … Und Drebber?«
 
 »Wird verhaftet und abends nach Sirsa transportiert.«-
 
 »Das …!: Harst machte kehrt und schritt denselben
-es zurück, ohne ist) um Peer weiter zu kümmern, »Ein
+es zurück, ohne ist) um Peex weiter zu kümmern, »Ein
 Leine? Kerl, aber ein großer Schurke,« meinte er leise zu
 mir. »Wir werden sehen, wie Sohn sich benimmt.«
 
 Die Reiter waren Ei! hinter uns.
 
 Drebber las in! Zelte Zeitung und hatte die Füße-wieder
-auf dem Tischrand, Nil Peer die verblüffende Veränderung
+auf dem Tischrand, Nil Peex die verblüffende Veränderung
 gewahrte, die mit Drebber inzwischen vor sich gegangen
 war, und Drebber ihn auch noch« durch das Einglas kahl
 und verächtlich« musterte, konnte der semmelblonde Allan
@@ -1922,7 +1912,7 @@ telephoniert, Sergeant Mutley?« Seine Stimme war wie
 ein »Peitschenhieb.
 
 Mutley machte ein hilfloses Gesicht.
-»ob … — … ich ließ Mr. Peer telephonieren, Chefin«
+»ob … — … ich ließ Mr. Peex telephonieren, Chefin«
 Doktor …«
 
 »Au so, …! — Nette Untergebene, Harst, nicht wahr!«
@@ -1930,27 +1920,27 @@ Doktor …«
 »Sehr nette …!!« bestätigte Harald und lehnte — sich
 zu die linke Felskante.
 
-Peer gab sich einen Ruck. »Sie sind hiermit verhaftet,
+Peex gab sich einen Ruck. »Sie sind hiermit verhaftet,
 Mr. Drebber,« rief er heiser. »Ich bin …«
 
 »-… ein Esel, — das wußte ich längst,« nickte Sohn
-ernsthaft. »Sergeant Mutley, legen Sie Mr. Peer Handschellen
+ernsthaft. »Sergeant Mutley, legen Sie Mr. Peex Handschellen
 an. Die einzige Zelle hier in der Baracke ist frei.
 Sperren Sie ihn ein.«
 
 Drebber erhob sich bei den letzten Worten. »Und dann,
 Mutley, werden Sie Ihre Taschen entleeren — hier vor
 Harst und Schraut als Zeugen … Ich möchte den Ecke
-sehen, den Peer Ihnen ausgefüllt hat … Ihr Federhalter
-ist undicht, Peer. Vorhin hatten Sie noch seine Tinte arm
+sehen, den Peex Ihnen ausgefüllt hat … Ihr Federhalter
+ist undicht, Peex. Vorhin hatten Sie noch seine Tinte arm
 Zeigefinger …
 
-Peer verfärbte sich und« schaute starr auf seine rechte
+Peex verfärbte sich und« schaute starr auf seine rechte
 Ha«
 
 Die sechs berittenen Beamten »hielten dicht daneben und
 hörten alles. Mutley machte ein Gesicht mit ein bissiger
-Köter, der niesen muß. Peer wagte nicht aufzublicken.
+Köter, der niesen muß. Peex wagte nicht aufzublicken.
 
 Drebber trat dicht vor Mutley Hin,
 
@@ -1965,12 +1955,12 @@ Dabei reichte er Drebber den Schnell.
 
 — er zerriß den Scheck, nachdem er flüchtig die Kissen aber
 flogen —, »für Zwanzigtausend Rupien sind schon bessere
-Leute als Sie umgefallen; Peer besticht wenigstens — großzügig.
+Leute als Sie umgefallen; Peex besticht wenigstens — großzügig.
 <@pagebreak/>
 — Mutley, die Handschellen …! Rein mit dem Kerl
 in die Hellen«
 
-Die sechs Beamten rissen Peer aus dem Sattel. Sehr
+Die sechs Beamten rissen Peex aus dem Sattel. Sehr
 sonst gingen sie mit ihm nicht um.
 
 Mutley weinte verstohlen und nahm die Handschellen
@@ -1979,7 +1969,7 @@ Lotti von mir — Sache, der Artikel hier in der
 Dehli—Lampe retten interessant … Wo war ich doch nur
 gerade …« Er Legte sich und las weiter.
 
-Allan Peer ’ zischte wild: »Oh — das werden Sie
+Allan Peex ’ zischte wild: »Oh — das werden Sie
 büßen, «!!«
 
 — »Bringt den Esel in den Stall,« meinte Sohn gemütlich.
@@ -2074,7 +2064,7 @@ drang, störte fast die Feierlichkeit dieses Ortes der Absatz
 lichtscheuen.
 
 Lotti Digall sprach leise: »Ich brauche Hilfe gegen Allan
-Peer …«
+Peex …«
 
 »Er braucht mehr Hilfe wie Sie,« erwiderte Harald
 ernst, »Er ist soeben verhaftet worden und ist in der Zelle
@@ -2095,7 +2085,7 @@ den Kopf gesenkt. Tor Profil war von klassischer Schönheit,
 Ich Hatte meine Freude daran. Glücklicher der Mann, den sie
 liebte … Ob es wirklich John Drebber war?!
 
-»Weiß Peer auch, was vorgestern geschah?« begann
+»Weiß Peex auch, was vorgestern geschah?« begann
 Harald mild tastend. »Weiß er, daß eine gewisse junge
 Dame es außerordentlich schlau anfing, uns beide nach
 ihrer Farm zu locken …?! Staat der Geruch des verwesenden
@@ -2151,7 +2141,7 @@ war Schminke, — Weshalb sollten Schraut und ich hier
 sah Ghaggar kommen?«
 
 »Weil … weil … Karl Ganzen und ich uns nicht
-zu helfen wußten … Zum Unglück traf diese! Peer hier
+zu helfen wußten … Zum Unglück traf diese! Peex hier
 ein, und alles nahm eine andere Wendung …«
 
 »Ja, Kind, — das ist zumeist im Talenten … Es kommt
@@ -2177,7 +2167,7 @@ anderen Gewalt, obwohl Felsmauer, daß …«
 »Wirst du wohl schweigen!« rief die jugendliche Herrin
 von Ghaggar in holdester Verwirrung. »Deine Bemerkungen
 sind gerade an diesem Orte und in meiner Lage sehr unangebracht
-… Du hast gehört, daß Allan Peer verhaftet
+… Du hast gehört, daß Allan Peex verhaftet
 ist … Er wird …«
 
 Janzen sagte etwas unwillig. »Du operierst noch immer
@@ -2348,7 +2338,7 @@ Rupien mit, sonst sterbt ihr. Sahib Allan Leere kennt
 euch und wird euch das Geld borgen. Er ist sehr leid, wir
 haben an ihm gut verdient.«
 
-»Das glaube ich! — Leider ist Anzahl Peer zur Zeit
+»Das glaube ich! — Leider ist Anzahl Peex zur Zeit
 unabkömmlich, er ist nämlich verhaftet worden.«
 
 Der lange Bandit erwiderte hochmütig: »Du weißt nicht.
@@ -2365,7 +2355,7 @@ dann brummte er: »Nachts reitet dein Freund!« und verduftete
 wieder, Er war ein merkwürdiger Räuberchef. —…
 Von nebenan … kam Lottis angebliche Stimme: »Herr Harsts,
 reizen Sie doch die Leute nicht unnötig … Ich, gebe gern
-fünfzigtausend Rupien her, und Peer wird Ihrem Freunde
+fünfzigtausend Rupien her, und Peex wird Ihrem Freunde
 die Summe nicht verweigern.«
 Haralds Antwort lautete, — und ich wunderte mich aber«
 Fall: »Vorher soll der Anführer mir sagen, wirkte Spitze
@@ -2458,7 +2448,7 @@ Mund offen …
 
 Das Thargespenst Nummer zwei drehte uns den Rücken
 zu. Wir kamen unbemerkt heran. »Guten Abend, Fräulein
-Gandel,« sagte Harst ganz laut. »Haben Sie Peer — er
+Gandel,« sagte Harst ganz laut. »Haben Sie Peex — er
 schossen?«
 
 Gerda Handel, bisher Detektivin im englischen Polizeidienst,
@@ -2467,7 +2457,7 @@ schnellte hoch. »Mein Gott -ck — Sie beide?!«
 »Ja, wie Sie selten … — Was treiben Sie Tiere«
 
 Ich Hatte inzwischen bereits durch einen raschen Blick
-festgestellt, daß Allan Peer die Kugel gerade übe der Nase
+festgestellt, daß Allan Peex die Kugel gerade übe der Nase
 in die Stirn eleganten hatte, Ihm war nicht mehr zu helfen.
 Er glich jetzt durchaus Lotti Digall in ihrer Maske als,
 Thargespenst,
@@ -2479,7 +2469,7 @@ und ob Miß Digall the Ghost of the Schnur Ei. — Seit
 wann ist Ihnen bekannt, daß Allan Leer den Geist spielte?«
 
 »Genau so lange, Fräulein Gerda, wie ich) weiß, daß
-Peer seinen Nebenbuhler Drebber vermissten wollte. — Suchten
+Peex seinen Nebenbuhler Drebber vermissten wollte. — Suchten
 Sie: na) uns hier in diesem Tale, liebe Landsmännin?’
 
 »Ja … Und … nach Karl Janzen, ehrlich gesagt»…
@@ -2494,7 +2484,7 @@ darzustellen, es müßten zu viel »Titel« eingerückt Baron,
 um die ’Sache zu klären. Sie wissen hockt, uns »Titel«
 sind; Die verbindenden Zwischenworte. Wir brauchen keine.
 — Ich will in Ghaggar das Nötige erklärst … — Maden Sie
-sich keine Gewissensbisse darüber, daß Peer tot ist. Er war
+sich keine Gewissensbisse darüber, daß Peex tot ist. Er war
 ein übler Patron, ein Mensch, dem die häßlichsten Scheich:
 Wege recht waren, Lotti Digall zu erringen. Nun wird Lotti:
 sich von Janzen leiden lassen, und
@@ -2520,18 +2510,18 @@ saßen John und Lot?! und Janzen, und vor ihnen stand«
 Lipo und hielt auf einem Tablett Erfrischungen bereit, —
 »Guten Abend,« sagte »Harst und klopfte Lipo kräftig auf
 den Gelbfahlen Schädel. »Da wir hier nun alle beieinander
-sind — auf Peer ruht sich dort drüben aus —, wollen
+sind — auf Peex ruht sich dort drüben aus —, wollen
 wir die »Titel« rasch erledigen. — Drebber kommt hierher.
-Lotti glaubt ihn zu hassen. Peer und »Lotti wollen Drebber
+Lotti glaubt ihn zu hassen. Peex und »Lotti wollen Drebber
 blamieren und gründen die Räuberbande, die stets nur Lotti
-und Peer schädigt. Peer bekommt durch dieses Spiel Lotti
+und Peex schädigt. Peex bekommt durch dieses Spiel Lotti
 in die Hand, und die Geschichte wurde immer heikler.
 Da springt Lipo ein und wird Lottis Vertrauter. ’Dann
 hausen Schraut und ich aus, Lipo faßt Gerda Gandel im
 Badezimmer ab und verständigt ist Nase mit ihr und
 <@pagebreak/>
 legt die Spitze hin, damit der Sachverhalt recht unklar
-würde, nachher befreit er Peer und gibt Lotti den Rat,
+würde, nachher befreit er Peex und gibt Lotti den Rat,
 die »Räuber« auftreten zu lassen, damit wir und auch
 Drebber den Verdacht ausgeben, Lotti sei ebenfalls Stramm,
 — — und As weiter … Ich glaube, das genügt. Ich werde
