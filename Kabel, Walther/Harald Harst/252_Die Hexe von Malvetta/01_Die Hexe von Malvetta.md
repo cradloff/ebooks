@@ -14,7 +14,7 @@ Haltung der Radschputen sowie die edlen Züge waren ihm
 geblieben. Sein Vater war Holländer von Geburt, nannte
 Java seine Heimat und war mit dreißig Jahre gestorben
 wie alle Nachkommen der schönen Imalla, die einst den
-Sir Thomas Greengil, einen Abenteuer schlimmster Sorte,
+Sir Thomas Greengil, einen Abenteurer schlimmster Sorte,
 geheiratet hatte. Die verwandtschaftlichen Verhältnisse in
 dieser Familie waren äußerst verwickelt. Jedenfalls war
 Buid Jasper nunmehr der einzige erbberechtigte Nachkomme
@@ -30,7 +30,7 @@ er mir zurückgeschickt und durch seinen Sekretär ließ er mir
 <@pagebreak/>
 mitteilen, er verbäte sich alle Annäherungsversuche. Für
 ihn sei ich ein Farbiger — nichts weiter. Dabei ist er mein
-Großonkel, und er weiß sehr wohl, daß es mich von der Erbschaft
+Großonkel, und er weiß sehr wohl, daß er mich von der Erbschaft
 nicht ausschließen kann, es sei denn, er heiratete noch
 einmal und hätte leibliche Kinder, einen Sohn.«
 
@@ -39,7 +39,7 @@ Zigarette nach.
 
 »… Ich komme nun zu dem eigentlichen Zweck meiner
 Europareise, Mr. Harst. Ich habe noch zwei Jahre zu leben,
-also bin im achtundzwanzig. Mein Bruder Harry starb im
+also bin ich achtundzwanzig. Mein Bruder Harry starb im
 Vorjahre, meine Schwester Doris vor zwei Jahren. Sie
 wurden beide genau dreißig Jahre und einige Tage alt. Älter
 wurde keiner von uns, wie ich schon betonte. Als ich vor
@@ -62,7 +62,7 @@ anders. Ich suchte Gerda volle drei Wochen, ich setzte eine
 Riesenbelohnung aus, ich bin ja nach europäischen Begriffen
 ein Nabob, — Gerda wurde nicht gefunden. Da
 kehrte ich nach Malvetta zurück, übergab die Geschäfte
-meinem Direktor und fuhr wieder noch Bombay, immer
+meinem Direktor und fuhr wieder nach Bombay, immer
 noch in der Hoffnung, Gerda müsse noch am Leben sein.
 Wieder blieb ich sechs Wochen dort, dann schiffte ich mich
 nach Europa ein, weil mir Detektivinspektor Grablay riet,
@@ -120,7 +120,7 @@ an, daß Buid Jaspers Braut bei einer Firma arbeitete,
 die von mir Landesprodukte bezog und deren Chef mir stets
 bis zur Tür entgegenkam. Ich bin in Bombay etwa so bekannt
 wie Hagenbeck in Hamburg. An diesem dritten Morgen
-nacht unserer Verlobung begleitete ich Gerda bis vor das 
+nach unserer Verlobung begleitete ich Gerda bis vor das 
 Geschäftshaus der genannten Firma, da meine Braut dort ihre
 Papiere abholen wollte. Ich blieb in der Vorhalle, Gerda
 fuhr mit dem Lift zu den Direktionsräumen empor, der
@@ -211,8 +211,8 @@ Wer soll …«
 die Ihre Mutter, als sie im Hause des Arztes Doktor
 March in Malvetta Ihnen das Leben gegeben, an Ihren
 Vater nach der Plantage geschickt hat, weil Ihr Vater, der
-Ernte Wegen, unabkömmlich war. Auch die Daten dieser
-Briefe sind korrigiert, Bitte, überzeugen Sie sich, folgen Sie
+Ernte wegen, unabkömmlich war. Auch die Daten dieser
+Briefe sind korrigiert. Bitte, überzeugen Sie sich, folgen Sie
 mir ans Fenster … Halten Sie die Papiere gegen das
 Licht, und Sie sehen die Rasurstellen … Man erkennt
 jedoch auf der Geburtsurkunde noch die richtige Jahreszahl
@@ -297,7 +297,7 @@ wie einen der Mächtigen der Erde begrüßten.
 Seine Lordschaft war ein dürrer alter Herr von ansehnlicher
 Länge mit einem versteinerten, aber noch frischen
 Gesicht und sehr jungen, klaren, kühlen Augen. Er schritt
-zunächst auf Jasper zu, reichte ihn die Hand und sagte etwas
+zunächst auf Jasper zu, reichte ihm die Hand und sagte etwas
 feierlich: »Was verschafft mir die unerwartete Freude deines
 Besuches?« — Uns beide tat er mit einem gnädigen Kopfnicken
 ab.
@@ -322,7 +322,7 @@ voran der Hausmeister und der Privatsekretär …
 
 Ebenso feierlich und würdevoll stellte Seine Lordschaft
 hierauf all diesen Leuten Buid Jasper als seinen Großneffen
-und Erbe vor, wobei er eine kleine Ansprache hielt,
+und Erben vor, wobei er eine kleine Ansprache hielt,
 in die er einflocht, daß zweifellos schwerwiegende Mißverständnisse
 Jasper bisher von diesem Hause ferngehalten
 hätten, das ihm einst als eigen gehören würde.
@@ -335,7 +335,7 @@ stets zurückgeschickt und ihm noch dazu ein Anschreiben
 zugegangen sei, das ihn als Farbigen bezeichnete und ihm
 jede weitere Annäherung verbot.
 
-Lord Greengil sprang tief errötend und flammendem
+Lord Greengil sprang tief errötend und flammenden
 Auges auf. »Das ist eine Infamie!« rief er erregt. »Niemals
 habe ich derartiges getan oder angeordnet …!« Er
 wandte sich an den Sekretär. »Sir Baranc, Sie sind seit
@@ -348,12 +348,12 @@ dem Todes des zweiten Sohnes Seiner Lordschaft — der
 sofort Ermittlungen nach Ihnen, Mr. Jasper, anzustellen.
 Als wir so festgestellt hatten, daß Sie die Plantage Ihres
 Herrn Vaters in Malvetta übernommen hatten, schrieb
-Seine Lordschaft persönlich dreimal zu Sie, erhielt dann
+Seine Lordschaft persönlich dreimal an Sie, erhielt dann
 erst eine Antwort und zwar eine so … grobe, daß Mylord
 es aufgab, Ihnen als seinem einzigen Erben näherzutreten.
 <@pagebreak/>
 Ihr Brief, Mr. Jasper, ist noch bei den Akten.
-Ich werde ihn herbeiholen. Natürliche handelt es sich um
+Ich werde ihn herbeiholen. Natürlich handelt es sich um
 eine Fälschung, wie ich nun einsehe.«
 
 Es war in der Tat eine Fälschung. Jaspers Handschrift
@@ -369,7 +369,7 @@ Verantwortung gezogen werden müssen.«
 
 Da Sir Baranc uns auch die Durchschläge der drei Briefe
 des Lords an Mr. Jasper aus dem Jahre 1926 vorgelegt
-hatte, konnte kein Zweifel mehr bestehen, das die Feinde
+hatte, konnte kein Zweifel mehr bestehen, daß die Feinde
 Jaspers schon 1926 insgeheim tätig gewesen.
 
 Harst berichtete nun alles, was Buid Jasper uns erzählt
@@ -450,7 +450,7 @@ drei auf dem Achterdeck der prächtigen Jacht und genossen
 den herrlichen Sonnenuntergang und die leichte Nordbrise,
 die nach der erschlaffenden Hitze dieses Julitages die müden
 Gedanken wieder etwas belebte. Buid hatte (der Vorname
-Buid entstammt dem Ratschputischen und bedenke: Geier,
+Buid entstammt dem Ratschputischen und bedeutet: Geier,
 — eine etwas seltsame Wahl eines Namens des Pieter
 Jasper für seinen Jüngsten) uns soeben Gerdas Photographien
 gezeigt, und er verfiel dadurch wieder in jene
@@ -476,7 +476,7 @@ Janzen war ein junger, blonder Mensch, ehemals Kellnerlehrling
 in Kiel, dann Steward auf allerlei Schiffen, bis
 er in Bombay auf die Imalla anheuerte. Wir standen vortrefflich
 mit ihm, wir waren verwandte Naturen, seine Abenteuerlust
-hatte ihm auf seinen weiten Fahrten schon in die
+hatte ihn auf seinen weiten Fahrten schon in die
 sonderbarsten Angelegenheiten gestürzt, in San Franzisko
 hatte er »gesessen«, weil er Alkohol geschmuggelt hatte, in
 Tokio desgleichen, weil er in einem Teehaus einen Japp
@@ -539,7 +539,7 @@ und begannen die Luxuskabinen zu durchsuchen. Was wir
 fanden, war für uns eine noch weit größere Überraschung
 als das Attentat auf Harald, dem er nur dadurch entgangen
 war, daß er sich zufällig zur Seite gedreht hatte,
-als Messer so unheimlich sicher und kraftvoll geschleudert
+als das Messer so unheimlich sicher und kraftvoll geschleudert
 ward.
 
 <@pagebreak/>
@@ -551,10 +551,10 @@ Der berühmte französische Autor Maurice Dekobra hat
 einmal halb scherzend erklärt, er hielte *alle* Prosaerzählungen
 für Romane, die den Leser nicht nach den ersten vierzig
 Seiten in Schlafzustand versetzen. — Der Engländer Weeldwood,
-ein gefürchteter Kritiker, verspottet eine Gewisse Richtung
+ein gefürchteter Kritiker, verspottet eine gewisse Richtung
 der modernen Literatur, die sich bemühe, Romanen
 möglichst gar keine Handlung zu geben, sondern nur »seelische
-Vertiefung«. — Ein deutscher Dichter, den gerade infolge
+Vertiefung«. — Ein deutscher Dichter, dem gerade infolge
 seines unerschöpflichen Vorrats an gut klingenden Phrasen
 und infolge seines überragenden Mangels an Phantasie besagte
 »moderne Richtung« Honorar und Beschäftigung gibt,
@@ -571,14 +571,14 @@ Schlafpulver.
 Mithin … — —
 
 Wir hatten achtern alles durchsucht. Wir standen vor
-der Eisentür. Sie wo genau so gestrichen und lackiert wie
+der Eisentür. Sie war genau so gestrichen und lackiert wie
 das kostbare Holz ringsum. Man nennt’s heute kaukasisch
 Nussbaum. Auch die Deckel der Patentschlösser hoben sich
 von dieser glatten Fläche kaum ab.
 
 Harsts Eigenheiten kennt der Leser. Wenn er zu einem
 fragwürdigen noch nicht überführten Ehrenmann »Mein
-lieber Braunmüller« — — oder wie der Kerl einst heißen
+lieber Braunmüller« — — oder wie der Kerl sonst heißen
 mag — — sagt, ist der Kerl zuchthausreif. Wenn er die
 Stirn in Falten legt schmeckt ihm die Zigarette nicht. Wenn
 <@pagebreak/>
@@ -617,7 +617,7 @@ das?«
 »Hm — — ein Ölfleck.«
 
 »Ja, und der Jemand kauerte unter der Persenning der
-Motorpinasse, und gerade dort war ohne kleine Lache Maschinenöl
+Motorpinasse, und gerade dort war eine kleine Lache Maschinenöl
 … Ich sah, daß der Jemand im Dunkeln mit
 gespreizten Fingern ahnungslos in die Öllache gegriffen
 hatte. Also: Der eine ölige Finger berührte die Stahltür
@@ -683,7 +683,7 @@ tippte …
 Ich tat’s. — Harald ging zu Pranatis Waschtisch und
 nahm das Handtuch vom Haken. Er besichtigte es. Es war
 tadellos sauber, es waren noch alle Falten zu sehen. Dann
-bog er den Kopf über die gefällte Waschschüssel, deren Inhalt
+bog er den Kopf über die gefüllte Waschschüssel, deren Inhalt
 noch schaumig war. Er roch und nickte …
 
 »Du hast dir die öligen Finger gereinigt, mein lieber
@@ -731,7 +731,7 @@ die Verschwundene!«
 
 Ich fiel vom Stengel!!
 
-Harst verhütete daß ich nicht zu tief fiel …
+Harst verhütete, daß ich nicht zu tief fiel …
 
 »Fräulein Gandel, Ihnen ist gelungen, was bisher nur
 meinen Freunden von der Berliner Kriminalpolizei gelang:
@@ -753,7 +753,7 @@ mein Kopf (vergleiche Sender Runxendorf) kaum mitwiegt.
 Nur das Bäuchlein wiegt. Es ist der einzige ruhende Pol in
 meiner Erscheinung Fluchtlinie.
 
-Gerda saß auch. Auf den Bettrand. Harst sprach zu
+Gerda saß auch. Auf dem Bettrand. Harst sprach zu
 ihr …
 
 »Weshalb wollten Sie mich töten?!«
@@ -773,7 +773,7 @@ Pinasse hatten Sie sich versteckt?«
 
 »Ja … Um … um Buid zu … zu sehen … zu beobachten …«
 
-»Weil Sie ihm lieben?«
+»Weil Sie ihn lieben?«
 
 »Ja …«
 
@@ -881,7 +881,7 @@ daß die Wunde sich von selbst geschlossen hatte.
 Doktor Murfy war ein ganz junger Arzt. Nur die Not
 hatte ihn, der von seiner bisherigen Reederei entlassen worden,
 auf die Imalla geführt. Er war ein schlichter, bescheidener
-Mensch mit offenem, frischen Gesicht.
+Mensch mit offenem, frischem Gesicht.
 
 »Doktor,« sagte Harst, »Sie werden schweigen … Ich
 vertraue Ihnen. Bisher weiß nur Buid außer uns, daß die
@@ -890,7 +890,7 @@ neuen Matrosen nicht das sind, was sie scheinen wollen …
 werden jetzt bei ihm bis zehn Uhr vormittags wachen,
 dann löst der Kajütboy Pranati sie ab. Lassen Sie niemand
 herein, wer es auch sei, — niemand, selbst Broox und Buid
-nicht. Wir wollen kein Ausnahmen gelten lassen. — Haben
+nicht. Wir wollen keine Ausnahmen gelten lassen. — Haben
 Sie eine Waffe bei sich?«
 
 »Nein …« Murfy war sichtlich beunruhigt.
@@ -914,7 +914,7 @@ Ich muß hier nun kurz die Luxuskabinen im Hinterschiff
 und deren Lage und Ausstattung schildern. Der Leser
 wird diese Unterbrechung des Fortgangs der Handlung ungern
 sehen, aber die Ereignisse auf der Jacht sind für die
-späteren Vorfälle auf über Plantage Buid Jaspers von so
+späteren Vorfälle auf der Plantage Buid Jaspers von so
 ausschlaggebender Bedeutung, daß ich wie stets mit dieser
 Schilderung von Räumlichkeiten den Zweck verbinden kann,
 meine Freunde und Leser wieder einmal zu selbständigem
@@ -923,7 +923,7 @@ dem großen Rätsel, das ich »Hexe von Malvetta« betitelt
 habe, ist unschwer zu finden, wenn man dieses Abenteuer
 von Anfang an aufmerksam liest. Kleinigkeiten drängen sich
 schließlich zu diesem »Schlüssel« zusammen, und selbst ein
-gefiederten Räuber in den Lüften ist nicht sicher vor dem
+gefiederter Räuber in den Lüften ist nicht sicher vor dem
 treffsicheren Schuß sorgfältiger Kombinationen. —
 
 Das Achterschiff enthielt sechs Kabinen, Bad und zwei
@@ -983,7 +983,7 @@ immer noch in der Schlafkabine umherdrückte.
 
 »Eine übler Patron,« meinte Harald und verriegelte
 die Türen. »Durchsuchen wir erst mal die Kabinen …
-Wir wollen nichts versäumen, unser Leben zu Schützen.
+Wir wollen nichts versäumen, unser Leben zu schützen.
 Trinke und iß nur das, mein Alter, was unbedingt harmlos
 ist. Der Messerwerfer muß uns genügend Warnung
 ein.«
@@ -1068,7 +1068,7 @@ Kombinationen. Ich überlegte mir, weshalb wohl Lord Greengil,
 falls er ein Heuchler und Buids Feind sein sollte, bisher
 lediglich eine hochmütige Abneigung gegen Jasper bekundet
 hatte, — denn im Grunde war Mylord ja nach
-Gerdas Wiederauftauchen nicht anderes vorzuwerfen als
+Gerdas Wiederauftauchen nichts anderes vorzuwerfen als
 diese Briefe und Brieffälschungen und das ebenfalls gefälschte
 Telegramm, das die Jacht nach London gelockt hatte,
 damit dort die sechs Leute an Bord geschmuggelt werden
@@ -1185,7 +1185,7 @@ funkelten uns drohend an.
 Das war eben der wahre Broox, der Draufgänger, der
 Schmuggler, der Abenteurer …
 
-In Bombay hieß er nur Broox, der Falke. Das hätte
+In Bombay hieß er nur Broox, der Falke. Das hatte
 uns Buid mal erzählt.
 
 <@pagebreak/>
@@ -1225,7 +1225,7 @@ dient, die Gedanken zu verbergen.«
 »Da haben Sie recht,« nickte Harald und wandte sich
 nach links, wo der breite Schreibtisch stand. Davor war ein
 Teppich ausgebreitet, der jedoch nicht ganz bis an den
-Tisch reichte. Ein schmäler Streifen der hellen, gewichsten
+Tisch reichte. Ein schmaler Streifen der hellen, gewichsten
 Dielen war sichtbar. Leider auch ein paar Tropfen auf diesen
 Dielen. Harst bückte sich und verrieb einen Tropfen mit
 dem Zeigefinger, führte diesen an die Nase und hielt ihn
@@ -1267,7 +1267,7 @@ Schlüssel mit der anderen Hand Buid Jasper, der zögernd
 bemerkte:
 
 »Weshalb tragen Sie sie auf der Brust?! Das war
-doch, bisher nicht üblich …«
+doch bisher nicht üblich …«
 
 »Ich trage sie da, wo sie am besten aufgehoben sind,«
 brüllte Broox in jäher Wut los. »Was soll das alles?!
@@ -1444,7 +1444,7 @@ müssen. Murfy war der Blausäurespritze erlegen. Janzen
 hatte nur der Umstand vor demselben Schicksal bewahrt, daß
 er mit dem Kopfe nach der Wand hin fest geschlafen hatte …
 So hatte der dünne Strahl des Giftes, das wieder durch
-das Schlüsselloch Hineingespritzt worden, nur seine Wange
+das Schlüsselloch hineingespritzt worden, nur seine Wange
 und Nase getroffen und war nicht in den Mund gelangt.
 
 In Jan Zeertens Tasche aber steckte noch die Nickelspritze

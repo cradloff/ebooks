@@ -50,14 +50,14 @@ Vorbemerkung, — —
 
 Es war eine jener tropischen Nächte, die man nie vergißt
 … Es war der Zauber Indiens, der geheimnisvoll
-und unnennbar einzigartig ins umgab. Wir saßen auf
+und unnennbar einzigartig uns umgab. Wir saßen auf
 der Veranda des Bungalow Buid Jaspers … Vor uns
 senkte sich der Garten in breiten Terrassen und mit hellen
 Sandsteintreppen bis zum schilfumwucherten See hinab, dessen
 Spiegel ein einziges silbernes Flimmern war. Der Mond
 selbst stand hinter dem großen Wohnhause, aber die Palmen
 und Tudra-Bäume gleißten ebenfalls wie mit Silber übergossen,
-— — kein Lüftchen regte sich, nur vorn den fernen
+— — kein Lüftchen regte sich, nur von den fernen
 Hütten der Arbeiter kamen verworrene Laute herüber …
 
 Es war totenstill um uns.
@@ -80,7 +80,7 @@ Buid Jasper sagte ebenso weich: »Harst, die Frist ist abgelaufen
 … Heute wollten Sie endlich sprechen. Dieses
 Heute beginnt mit dieser Minute, und meine Lebensbahn ist
 um einen weiteren Tag verkürzt worden. — Sie haben damals
-auf See nachts Jan Zeertens Selbstmord erklärt, Sie
+auf See nach Jan Zeertens Selbstmord erklärt, Sie
 würden erst hier auf meiner Plantage am dritten Tage
 nach unserer Ankunft mir einige Fragen, die mich beunruhigen,
 beantworten. Inzwischen ist allerlei Neues geschehen,
@@ -109,7 +109,7 @@ Sie blieben stumm und spielten den Uninteressierten, Unbeteiligten,
 selbst als im Eisenbahnzuge während unserer
 Reise hierher auf der Station Mahara abermals eine Kugel
 in mein Schlafwagenabteil flog und mir das Ohr streifte —
-spät abends. Der Schufte war ein Inder und … entkam.
+spät abends. Der Schütze war ein Inder und … entkam.
 Sie … schwiegen. — Sie haben meine und Schrauts Geduld
 auf eine harte Probe gestellt. Schraut hat sich wiederholt
 bei mir bitter beklagt, daß Sie selbst mit ihm dieses
@@ -188,7 +188,7 @@ Greengils aufs engste verknüpft wäre. Sie soll eine Imabrassa,
 eine Besessene, sein und Chuna Dangi heißen. Er
 wollte ferner wissen, das Sie diese Greisin in ihrer Höhle
 regelmäßig besuchen. — Weshalb verheimlichten Sie uns
-all das? — Ich fühlte mit dadurch verletzt und gleichzeitig
+all das? — Ich fühlte mich dadurch verletzt und gleichzeitig
 auch insofern gestört, als mein Vertrauen an Ihre Aufrichtigkeit
 einen harten Stoß erlitt. Ich nahm mir daher vor,
 Ihren Charakter ein wenig genauer zu studieren und erst
@@ -225,12 +225,12 @@ meine Gründe zu würdigen wissen. Chuna Dangi ist die
 greise Mutter jener schönen Imalla, die einst von Sir
 Thomas Greengil entführt wurde. Sie mag heute weit über
 hundert Jahre alt sein … Aus ihrem Munde flog einst
-der Flucht gegen alle die, die das Blut Thomas Greengils
+der Fluch gegen alle die, die das Blut Thomas Greengils
 und Imallas in den Adern haben würden. Sie war schon
 damals eine Imabrassa, eine Hexe etwa, und ihr Fluch
 wirkte wie tödliches Gift, das wissen Sie. Als mein Vater
 hier die Plantage kaufte, glaubte er, sämtliche Verwandte
-Imallas seien langst gestorben. Als er dann selbst so jung
+Imallas seien längst gestorben. Als er dann selbst so jung
 verschied, hat meine Mutter uns einen versiegelten Umschlag
 hinterlassen, darin fanden wir unter anderem auch eine
 Niederschrift meines Vaters für uns drei Kinder. Er warnte
@@ -337,7 +337,7 @@ Autostraße für die Lastfahrzeuge der Plantage, erlaubte uns
 bis zu den Bergen in gestrecktem Galopp zu reiten. Für
 Harald und mich war dieser Ritt auf wundervollen Pferden
 ein lang entbehrter Genuß. Auch Buid als tadelloser Reiter
-schien jetzt vergessen zu begaben, wie sehr er sich anfänglich
+schien jetzt vergessen zu haben, wie sehr er sich anfänglich
 gegen diesen nächtlichen Ausflug gesträubt hatte. Als wir
 uns dem Bergpaß näherten, der durch Sprengungen in eine
 moderne Bergstraße verwandelt worden war, bog Buid nach
@@ -399,7 +399,7 @@ Harald klopfte auf sein Pistolenfutteral. »Dieses Mittel,
 lieber Jasper, ist so überzeugend, daß manche Menschen davor
 für alle Zeit verstummen.«
 
-Wir schritten davon. Unsere Pferde schraubten ängstlich,
+Wir schritten davon. Unsere Pferde schnaubten ängstlich,
 sie witterten den toten Stallgenossen, den wir als Fraß
 für die Geier in die nahe Schlucht geworfen hatten. —
 
@@ -415,7 +415,7 @@ Verrate durch keine Bewegung, daß etwas Besonderes vorgeht.«
 Nach weiteren fünf Minuten passierten wir eine Stelle,
 die in tiefstem Schlagschatten da lag. Hier ertönte von rechts
 aus nächster Nähe ein schwacher Pfiff, der dem kurzen
-schrilles Schrei der Nachtschwalbe glich. Harald zog mich
+schrillen Schrei der Nachtschwalbe glich. Harald zog mich
 schnell hinter einen größeren Felsblock und entsicherte seine
 Pistole. Die Winchesterbüchsen, die uns Buid geliehen hatte,
 waren bei den Pferden geblieben.
@@ -490,7 +490,7 @@ einen langen trockenen Zweig …
 Es war der alte Kniff, den schon der selige Karl May
 populär gemacht hat …
 
-Bei Karl May knallten dann eilt paar Schüsse, und die
+Bei Karl May knallten dann ein paar Schüsse, und die
 Mütze flog als Eindecker durch die Luft, und Old Shatterhand
 knallte mit seinem Maschinengewehr-Henry-Stutzen die schuftigen
 Sioux nieder.
@@ -616,7 +616,7 @@ Geräten. Das war ihre Wohnung gewesen.
 
 Der mittlere Raum enthielt sogar eine Art Schreibtisch,
 daneben ein Gestell aus Kupfer für Bücher. Es war gefüllt
-mit philosophischen Werken, Romanen, Lehrbüchern der Physik
+mit philosophischen Werken, Romanen, Lehrbüchern der Physik,
 Chemie und Medizin.
 
 Auf dem Schreibtisch standen: ein Tintenfaß, eine Brahmastatue
@@ -853,7 +853,7 @@ dick beklebt hatte.
 Der Affe biß hinein, spie aus, wischte sich die Lippen,
 <@pagebreak/>
 grunzte verärgert und warf das Brötchen in die Büsche.
-Wie toll stützte sich die übrige grünbraune Bande darüber
+Wie toll stürzte sich die übrige grünbraune Bande darüber
 her, doch auch sie verschmähten den Leckerbissen, und obwohl
 sie mit den Händen ebenfalls die Lippen gesäubert hatten,
 lagen wenige Minuten später drei von ihnen in Todeszuckungen
@@ -874,7 +874,7 @@ gewesen, heute noch weniger, da er immer wieder
 verstohlen nach uns hinstierte. Den einen Kreiselsprenger
 hatte er so dicht an die Veranda herangerückt, daß bei jedem
 Windstoß der Staubregen selbst über unseren Tisch hinwegflog,
-an sich eine Erquickung bei 35 Grad, hier oder eine
+an sich eine Erquickung bei 35 Grad, hier aber eine
 Fürsorge, die Harald offenbar nicht gefiel.
 
 Die Affen waren von der Brüstung geflüchtet. Sie
@@ -913,7 +913,7 @@ eine Dusche.
 Schade um die hübschen grünblauen Vögel!
 
 Erst kam eine und durchquerte den rieselnden Wasserstaub,
-den die Sonne traf und in alten Regenbogenfarben
+den die Sonne traf und in allen Regenbogenfarben
 schillern ließ.
 
 Die Taube pickte nach einem Stückchen Brot … Mit
@@ -1018,7 +1018,7 @@ Ich bin kein kleines dummes Mädel, Buid. Ich habe den
 Daseinskampf kennengelernt … Ich bin großzügig geworden
 …«
 
-»Gerda!!« Es lang wie ein Schrei der Erlösung.
+»Gerda!!« Es klang wie ein Schrei der Erlösung.
 »Gerda …!! Nie … nie hätte ich das zu hoffen gewagt …!«
 Seine Stimme fieberte … »Gerda, — ich bin ein Eroberer
 … Ich bin Lord Cecil Greengils Erbe geworden
@@ -1094,7 +1094,7 @@ Mitwisser, Gerda: Meinen Obergärtner Ramsa und die alte
 Hexe Chuna Dangi, die niemals Imallas Mutter war …
 Auch das erfand ich … Gestern nacht starb sie — durch
 einen Stein … Ich hatte mein Pferd die Talwand hinabgleiten
-lassen, und täuschte innere Verletzungen vor, eilte Harst
+lassen, ich täuschte innere Verletzungen vor, eilte Harst
 und Schraut dann voraus und … entfernte aus Chuna
 Dangis Schreibtisch alles, was mich hätte verraten können,
 — ich hatte die Alte bestochen … Ich packte ihre Papiere
