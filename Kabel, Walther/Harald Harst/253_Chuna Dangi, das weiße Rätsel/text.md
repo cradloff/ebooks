@@ -1414,452 +1414,452 @@ wegen …«
 <h2>1. Kapitel.</h2>
 <h3>Romantik.</h3>
 
-»Herr Harst, ul) rann mich ganz kurz fassen, Unsere Fuß,
-milienverhältnisse liegen ziemlich klar …«
-Sie sprach jetzt mit der ihre von Mutter Natur gnädig
+»Herr Harst, ich kann mich ganz kurz fassen. Unsere
+Familienverhältnisse liegen ziemlich klar …«
+
+Sie sprach jetzt mit der ihr von Mutter Natur gnädig
 <@pagebreak 37/>
 gespendeten echten Stimme, und die war wie Musik. Es war
-ei)t heller, klingender Sopran mit einer für eine Engländerin
-außerordentlich) klarer Wortbildung und einem seinen Timbre,
+ein heller, klingender Sopran mit einer für eine Engländerin
+außerordentlich klarer Wortbildung und einem feinen Timbre,
 in dem eine reine, große Seele mitzuschwingen schien.
-Klüger hatte Charlotte aus begreiflichen Gründen ihrer
+Bisher hatte Charlotte aus begreiflichen Gründen ihrer
 Stimme eine gewisse Schärfe verliehen und das Melodische
 unterdrückt. Sie fürchtete sich zu verraten, sie hatte ja
-Harst nach Karl Janzen gefragt, und. sie rechnete damit,
+Harst nach Karl Janzen gefragt, und sie rechnete damit,
 daß sein geübtes Ohr ihre Stimme sofort wiedererkennen
 würde. Diese Angst war nun gegenstandslos geworden.
-».».- ’Meine Mutter war eine geborene Gräfin Sausten
-mit es, und diese Jenseits, einst dänische Untertanen, verarmten
+
+»… Meine Mutter war eine geborene Gräfin Janssen
+mit ss, und diese Janssens, einst dänische Untertanen, verarmten
 durch den Krieg von 1864 vollständig. Der einzige
 Bruder meiner Mutter ist der Vater Karl Janzens, der
-den Adel abgelegt hat, da er als Sohn!leiner Beweises
-Leute erzogen wurde. Sein Vater besaß nur noch einen des
-erhaltenen Bauernhof droben zu der dänischen Grenze, all
-ist also mein rechter Getier, — Meine Mutter ging als
+den Adel abgelegt hat, da er als Sohn kleiner Bauersleute
+erzogen wurde. Sein Vater besaß nur noch einen
+bescheidenen Bauernhof droben an der dänischen Grenze. Karl
+ist also mein rechter Vetter. — Meine Mutter ging als
 Gouvernante nach England und heiratete sehr spät, fast
-vierzig Jahre alt, Sir Schwatzt Digall, den sie in London
-kennenlernte, als er, der indische Großfarmer, wieder eins
-mal London besuchte. So ist also Sir Edward Digall mein
+vierzig Jahre alt, Sir Edward Digall, den sie in London
+kennenlernte, als er, der indische Großfarmer, wieder einmal
+London besuchte. So ist also Sir Edward Digall mein
 Vater und ich das einzige Kind dieser Ehe, die leider nie
 recht glücklich war, da meine Mutter seit meiner Geburt
-kränkelte und ein schweres Nervenleiden allerlei Eigentliches
-lieferten zur Folge hatte. So war meine Mutter zum
+kränkelte und ein schweres Nervenleiden allerlei Eigentümlichkeiten
+zur Folge hatte. So war meine Mutter zum
 Beispiel leidenschaftliche Reiterin und verbrachte oft viele
-Jage ganz allein in der Wüste,: Das Zusammenleben, mit
-ihr wurde für meinen Vater immer schwieriger. Er mag.
-sehr darunter gelitten haben, S4 war noch Rind, und ich
+Tage ganz allein in der Wüste. Das Zusammenleben mit
+ihr wurde für meinen Vater immer schwieriger. Er mag
+sehr darunter gelitten haben. Ich war noch Kind, und ich
 besinne mich auf ihn nur als auf einen ernsten, verschlossenen
-»dann mit ergrautem Spitzbart und gütigen, traurigen
+Mann mit ergrautem Spitzbart und gütigen, traurigen
 Augen. Das Nervenleiden meiner Mutter steigerte sich
-schließlich zu allerhand Wahnideen. Nie sie für einige Zeit
+schließlich zu allerhand Wahnideen. Als sie für einige Zeit
 in ein Sanatorium gebracht werden sollte, verschwand sie
 <@pagebreak/>
 für immer. Alle Nachforschungen nach ihrem Verbleib waren
-erfolglos. Ich; wuchs heran, und als ich gerade mit vollendetem
-sechzehnten Lebensjahr für würdig erklärt worden
+erfolglos. Ich wuchs heran, und als ich gerade mit vollendetem
+sechzehnten Lebensjahr für mündig erklärt worden
 war, was nach indischen Gesetzen zulässig ist, starb mein
 Vater durch einen Sturz mit dem Pferde. — Ich konnte mich
 kaum auf meine Mutter besinnen, ich stand nun allein in
-der Welt da. In England hatte ja von meines Vaters
-Seite her keinerlei nähere Verwandte, und auch mit den:
-Angehörigen riesiger Mutter war jeder Briefwechsel Finger
-schlafen, Trotz meiner Jugend war im faul, 1.1413 gelbe,
-ständig und mit dem Farmbetrieb völlig vertraut. — Nun
-komme ich zu einem äußerst wichtiger Punkt. Mein Väter, …
-Du) seine traurige Ehe und deren Ungeklärtes, peng Frau
-eigenes Ende zu einem Deutschenhasser geworden, hatte ein
-Testament hinterlassen, in dem er in der Zerrissenheit seiner.
+der Welt da. In England hatte ich von meines Vaters
+Seite her keinerlei nähere Verwandte, und auch mit den
+Angehörigen meiner Mutter war jeder Briefwechsel eingeschlafen.
+Trotz meiner Jugend war ich jedoch durchaus selbständig
+und mit dem Farmbetrieb völlig vertraut. — Nun
+komme ich zu einem äußerst wichtiger Punkt. Mein Väter,
+durch seine traurige Ehe und deren ungeklärtes, noch traurigeres
+Ende zu einem Deutschenhasser geworden, hatte ein
+Testament hinterlassen, in dem er in der Zerrissenheit seiner
 Seele etwa folgendes festgelegt hatte: »Da meine Ehe mit
-einer Deutschen jv unglücklich verlaufen ist, da ich ferner die
+einer Deutschen so unglücklich verlaufen ist, da ich ferner die
 Neigung meines einzigen Kindes für alles Deutsche kenne,
-befürchte ich, daß sie vielleicht durch ’eine Ehe mit einem
-Deutschen ebenso umständlich werden könnte wie ich. Ich
+befürchte ich, daß sie vielleicht durch eine Ehe mit einem
+Deutschen ebenso unglücklich werden könnte wie ich. Ich
 möchte sie hiervor bewahren und bestimme daher, daß Charlotte,
 falls sie nicht aus besonderen Gründen vor ihrem
-3Zwanzigsten Jahre eine Ehe eingeht, nur einen Engländer:
-heiratet. Es wäre mein« Herzenswunsch, daß sie meinen!
-Felsen zweiten Grades, den Detektivinspektor Sohn Drebber
+zwanzigsten Jahre eine Ehe eingeht, nur einen Engländer
+heiratet. Es wäre mein Herzenswunsch, daß sie meinen
+Neffen zweiten Grades, den Detektivinspektor John Drebber
 in Kalkutta, heiratet. Sollte Charlotte meine Wünsche nicht
-berücksichtigen… so See ich sie hiermit auf den Pflichtteil,
-und hinterlasse insbesondere die Farm meinem obengenanntett
+berücksichtigen, so setze ich sie hiermit auf den Pflichtteil,
+und hinterlasse insbesondere die Farm meinem obengenannten
 Neffen, über den ich nur Günstiges in Erfahrung gebracht
 habe. Ich habe absichtlich keinerlei Beziehungen zu ihm
-unterhalten, es ist sogar fraglich, ob er überhaupt von;
-unserer entfernten Berwandtfäast etwas ahnt.« — Dieses
-Testament, Herr Harst, war nur ein handschriftliches, Stimme;
-Notar und Zeugen abgefaßt, flottem aber wohl gültig. 218;
-ich es gefunden und gelesen halte, schloß ich es wieder weg.
-
+unterhalten, es ist sogar fraglich, ob er überhaupt von
+unserer entfernten Verwandtschaft etwas ahnt.« — Dieses
+Testament, Herr Harst, war nur ein handschriftliches, ohne
+Notar und Zeugen abgefaßt, trotzdem aber wohl gültig. Als
+ich es gefunden und gelesen hatte, schloß ich es wieder weg.
 <@pagebreak/>
 In meinem Schmerz über meines Vaters Tod hatte ich für
-»reges recht verworrene und unklare Testament keinerlei
-Interesse, An Heiraten oder dergleichen dachte ich nicht.
-Ins Farm nahm bald alle meine Gedanken in Anspruch,
-Ich) war die alleinige geschlichen Erbin, und mir genügte das,
-zum. & das Gouvernementsgericht in Bikaner dies ohne
-weiteres anerkannte, Erst nach Monaten wollte ich das
-Testament nochmals in Ruhe lesen, Es war — — Vers
-Kinde, Es hatte in erneut Geheimfach des Schreibt
-Male meines Vaters gelegen, und es war mir völlig unverständlich,
+dieses recht verworrene und unklare Testament keinerlei
+Interesse. An Heiraten oder dergleichen dachte ich nicht.
+Die Farm nahm bald alle meine Gedanken in Anspruch.
+Ich war die alleinige gesetzliche Erbin, und mir genügte das,
+zumal das Gouvernementsgericht in Bikaner dies ohne
+weiteres anerkannte. Erst nach Monaten wollte ich das
+Testament nochmals in Ruhe lesen. Es war — — verschwunden.
+Es hatte in einem Geheimfach des Schreibtisches
+meines Vaters gelegen, und es war mir völlig unverständlich,
 wo es geblieben sein könnte. Aber auch das
-vergaß ich … Tür mich hatte das Testament keinerlei
-Bedeutung, Ich kannte Sohn Drebber nicht, ich las zuweilen
+vergaß ich … Für mich hatte das Testament keinerlei
+Bedeutung. Ich kannte John Drebber nicht, ich las zuweilen
 wohl in den Zeitungen von ihm, er war in Kalkutta
-sehr berühmt, seine Findigkeit wurde … immer wieder 7 speisten.
+sehr berühmt, seine Findigkeit wurde immer wieder gepriesen.
 — Abermals vergingen so zwei Jahre. Ich wurde
 achtzehn Jahre, ich lebte hier einsam und zufrieden nur der
-Arbeit. Ich liebte die Farm, ich liebte diese goldene »Freiheit,
-— man nannte mich nur »Chinin Digall, den Mann
+Arbeit. Ich liebte die Farm, ich liebte diese goldene Freiheit,
+— man nannte mich nur »Charly Digall, den Mann
 in Weiberröcken«, — es war ein Ehrentitel. Da erhielt ich
-plötzlich Besuch. Es war ein Inder, der mir in sehr geheimnisvollen
+plötzlich Besuch. Es war ein Inder, der mir in sehr geheimnisvoller
 Weise einen Brief übergab. Das Schreiben
 kam von meiner totgeglaubten Mutter. Der Inder gab mir
-dazu einige Erklärungen. Er sei nicht befugt, den Außenthallgort
+dazu einige Erklärungen. Er sei nicht befugt, den Aufenthaltsort
 meiner Mutter zu verraten, sie wünsche, weiterhin
-Dir die Welt als tot zu gelten. Dabei blieb er. — Meine
+für die Welt als tot zu gelten. Dabei blieb er. — Meine
 Mutter schrieb mir in zärtlichster Weise, und sie riet mir
 dringend, ihre Vorschläge genau zu befolgen. Es Hieß etwa
-in den! Schreiben: »Ich habe das Testament an mich geh
-Graf. Ob nicht etwa John Drebber ein Duplikat davon
-besitzt, ist ungewiß. Ich befürchte jedoch, erkennt zumindest
+in dem Schreiben: »Ich habe das Testament an mich genommen.
+Ob nicht etwa John Drebber ein Duplikat davon
+besitzt, ist ungewiß. Ich befürchte jedoch, er kennt zumindest
 den Inhalt, und du mußt darauf gefaßt sein, daß er sich dir
-eines Tages nähert. Ich beschwöre dich: Heirate keinen Aus
-Länder! Du denkst und fühlst deutsch, und eine Ehe mit
-Krabben wäre dein Unglück. Ich rate dir, allen späteren
+eines Tages nähert. Ich beschwöre dich: Heirate keinen Engländer!
+Du denkst und fühlst deutsch, und eine Ehe mit
+Drebber wäre dein Unglück. Ich rate dir, allen späteren
 <@pagebreak/>
 Weiterungen dadurch einen Riegel vorzuschieben, daß du
-nicht deinem Bettler Karl Janzen, der zurzeit in Kolombo auf
-Ceylon in einem Neederkontor arbeitet, eine Gewehr Schließer.
-Janzen ist zwar eine Abenteurernatur, Ader ein Barons
-vornehmer Charakter. Die Auskünfte, die ich über ihn es
-hielt, sind durchaus zuverlässig. Bedenke, welche Zukniff
+mit deinem Vetter Karl Janzen, der zurzeit in Kolombo auf
+Ceylon in einem Reederkontor arbeitet, eine Scheinehe schließt.
+Janzen ist zwar eine Abenteurernatur, aber ein durchaus
+vornehmer Charakter. Die Auskünfte, die ich über ihn erhielt,
+sind durchaus zuverlässig. Bedenke, welche Zukunft
 dir vielleicht droht, wenn du einen Menschenfänger wie
 Drebber heiraten müßtest, und du würdest es tun, denn
 du hängst an der Farm, sie ist ein Stück von dir selbst geworden,
 und du würdest sie verlieren, wolltest du dieser
-Verbrecherischen abweisen, … « — Es gibt nicht mehr viel
-zu berichten, Herr Harst. Denken Gewicht gering du
-mir, weil ich … auf diesen Handel einging, Ihr Sir Auch
+Verbrecherjäger abweisen …« — Es gibt nicht mehr viel
+zu berichten, Herr Harst. Denken Sie nicht gering von
+mir, weil ich … auf diesen Handel einging. Ich fuhr nach
 Kolombo, ich lernte Karl Janzen kennen, ich merkte, daß
-meine Mutter nicht zuviel gesagt hatte: Er war ein grüwÖndsanijtändiger
+meine Mutter nicht zuviel gesagt hatte: Er war ein grundanständiger
 Mensch, wir wurden gute Freunde und als ich
 ihm meine seltsame Lage schilderte, war er nach einigem
-Zögern einverstanden …««
+Zögern einverstanden …«
 
-Sie teilte den Kopf und ermordete flüchtig,
+Sie senkte den Kopf und errötete flüchtig,
 
-»Paar in einem Punkte war ich ihm gegenüber nicht
-aufricpgtig … Ich verschwieg ihm, wo im wohnte, er ahnte
-nicht, wo die Farm lag, ich hatte mir die nötigen Pariser
+»Nur in einem Punkte war ich ihm gegenüber nicht
+aufrichtig … Ich verschwieg ihm, wo ich wohnte, er ahnte
+nicht, wo die Farm lag, ich hatte mir die nötigen Papiere
 in Dehli besorgt, wo mein Vater ein Haus besaß …«
 
-Sie blickte wieder auf … »Tag mag Ihnen alles
-sehr romantisch und sehr phuantastisch klingen, und dociwar’s
-so sehr nüchtern — eine kühle Spekulation, nichts
+Sie blickte wieder auf … »Das mag Ihnen alles
+sehr romantisch und sehr phantastisch klingen, und doch
+war’s so sehr nüchtern — eine kühle Spekulation, nichts
 weiter. Indien ist ja so riesengroß, und der Name Digall
 ist gerade unter den Engländern in den Kolonien sehr häufig
-vertreten, — Wir heirateten in aller Stille, und eine Stunde
+vertreten. — Wir heirateten in aller Stille, und eine Stunde
 nach der amtlichen Eheschließung ging mein Dampfer nach
-Bombay ab. Janzen begleitete mich noch an Bord, trübte
-mir die Hand zum Kopfhieb und fragte nur noch: »Und —
-wann einer von uns nun’ heiraten möchte, Lotti, — wirst
-lich heiraten?! Wie soll ich dich dann finden, damit Tiere
-». « Ehe wieder getrennt wird?! Ich habe nicht nach deinem
+Bombay ab. Janzen begleitete mich noch an Bord, drückte
+mir die Hand zum Abschied und fragte nur noch: »Und —
+wenn einer von uns nun heiraten möchte, Lotti, — wirklich
+heiraten?! Wie soll ich dich dann finden, damit unsere
+… Ehe wieder getrennt wird?! Ich habe nicht nach deinem
 <@pagebreak/>
 Wohnsitz gefragt … Schreibe mir alle drei Monate postlagernd
 nach Bombay — bitte, tu’s bestimmt … Und ich
 schreibe dir alle drei Monate nach Dehli …« — So trennten
-wir aus,«
+wir uns,«
 
 Harald nickte ihr ernst zu. »Sie schrieben ihm nie, und
 Sie holten auch nie seine Briefe ab …«
 
-Wieder errötete. sie. »Nein … nie … Und das war
-schlecht von mir. Das habe ich nun eingesehen, — Jahre
-gingen. abermals hin. Dann erschien hier Sohn Drebber …«
-Sie flüsterte es ganz scheut … »Und … da begann die
-Zeit meiner ständigen Angst …««
+Wieder errötete sie. »Nein … nie … Und das war
+schlecht von mir. Das habe ich nun eingesehen. — Jahre
+gingen abermals hin. Dann erschien hier John Drebber …«
+Sie flüsterte es ganz scheu … »Und … da begann die
+Zeit meiner ständigen Angst …«
 
 »Und — Ihre Mutter?«
 
-Fertig Augen wurden feucht. Sie hob die Hände in verzweifelter
+Lottis Augen wurden feucht. Sie hob die Hände in verzweifelter
 Geste. »Vielleicht ist noch nie eine Frau so mit
-allen Mitteln gesucht worden wie sie … Ich habe Uns
-Summen. ausgegeben … Ich nahm mir die besten Anders«
-Detektive;, — Nach« zwei Jahren gab ich es auf. Ich»…
-habe meine Wasser nur als Tote wiedergesehen, und dabei
-hat sie keine hundertfünfzig Meilen Not hier nach Bitten zu
+allen Mitteln gesucht worden wie sie … Ich habe Unsummen
+ausgegeben … Ich nahm mir die besten Privatdetektive
+… Nach zwei Jahren gab ich es auf. Ich …
+habe meine Mutter nur als Tote wiedergesehen, und dabei
+hat sie keine hundertfünfzig Meilen von hier nach Osten zu
 in jener Höhle gewohnt … Erst die Radiomeldungen über
 Buid Jaspers Tod und den der Einsiedlerin brachten mich
-auf: die Vermutung, daß die angebliche Inderin meine unglückliche
-Mutter sein könnte. Da «— — holte ich ihre
+auf die Vermutung, daß die angebliche Inderin meine unglückliche
+Mutter sein könnte. Da — — holte ich ihre
 Leiche hierher … Ich habe meine Mutter im Parke neben
-meinem: Vater in dem. Marmormausoleum beigesetzt …
+meinem Vater in dem Marmormausoleum beigesetzt …
 Aber ich durfte nicht einmal um sie trauern … Mr.
 Drebber war ja hier, und … und ich fürchte ihn …«
 
 »Das haben Sie wirklich nicht nötig,« sagte eine ernste Stimme
-hinter uns, und das kleine Fenster des Bades
-Zimmers öffnete sie vollständig. Form Drebber, ein gänzlich
-veränderter Sollen Drebber, erschien im Fensterralymmen,
+hinter uns, und das kleine Fenster des Badezimmers
+öffnete sich vollständig. John Drebber, ein gänzlich
+veränderter John Drebber, erschien im Fensterrahmen,
 frisch rasiert, das Haar gescheitelt, in tadellosem weißen
 Tropenanzug und blendend zartem Kragen …
 
-Lotti Digall sprang auf und rannte wie gehabt davon,
+Lotti Digall sprang auf und rannte wie gehetzt davon,
 
-Harald « lächelte nur,
+Harald lächelte nur,
 
 <@pagebreak/>
 
-<h2>9. Kapitel.</h2>
+<h2>2. Kapitel.</h2>
 <h3>Der Pestkäfer.</h3>
 
 Drebber kam und setzte sich zu uns. Er tat es mit ruhiger
-Selbsiverständliahkeit.
+Selbstverständlichkeit.
 
 »Gott sei Dank,« sagte Harst. »Nun sind Sie erst wieder
 ganz der alte, lieber John.«
 
-»Irrtum … « meinte der Sektionschef trübe. »Das werde
+»Irrtum …« meinte der Sektionschef trübe. »Das werde
 ich nie wieder werden …«
 
 Harald schaute ihn lange an. »Sie haben alles gehört,
 John, was Lotti erzählte. Ließen Sie sich hierher versetzen?«
 
-»Sie denken an das beeilte Testament … Aber
-Sie sind auf falscher Fährte. Ich wußte nichts davon. Naß
-… höflich) hat Miß Digall das Gegenteil angenommen und behandelte
+»Sie denken an das verrückte Testament … Aber
+Sie sind auf falscher Fährte. Ich wußte nichts davon. Natürlich
+hat Miß Digall das Gegenteil angenommen und behandelte
 mich als Eheschleicher miserabel …« Er zündete
 eine Zigarette an und betrachtete seine Hände, die jetzt
 tadellos gepflegt erschienen. »Nur etwas ahnte ich, Harst:
 Diese Heirat mit Karl Janzen. Da die Briefe weder in
-Bechert noch in Bombay abgeholt wurden, öffnete die Post
-sie schriftlich, und weil der Inhalt recht verfänglich. erhalten
-und Unterschriften fehlten, wurden sie an das Zentral
-zJouvernement nach Kalkutta geschickt. Man vermutete die
+Dehli noch in Bombay abgeholt wurden, öffnete die Post
+sie schließlich, und weil der Inhalt recht verfänglich erschien
+und Unterschriften fehlten, wurden sie an das Zentralgouvernement
+nach Kalkutta geschickt. Man vermutete die
 Fährte irgend welcher Verbrecher gefunden zu haben. Ich
 bekam die Schreiben in die Hand, sie waren kurz, die in
 Dehli beschlagnahmten von einem Manne, der in seinen
-Letzten Briefen davon sprach, er wolle wieder frei sein,
+letzten Briefen davon sprach, er wolle wieder frei sein,
 obwohl zwischen ihm und der anderen noch nichts geklärt
-sei. 4«
+sei.«
 
-»Ja, das bezog sich auf Ganz ganz Liebe zu der Detektivin
+»Ja, das bezog sich auf Janzens Liebe zu der Detektivin
 Gerda Gandel,« warf Harst ein.
 
-»Drebber seufzte unmerklich, »Hier in Ghaggar fand ich
+Drebber seufzte unmerklich. »Hier in Ghaggar fand ich
 die eine Handschrift, die der Frau, — zufällig, Miß Digalls
-Schrift glitt … Und jetzt habe ich die Wie
+Schrift also … Und jetzt habe ich die Gewißheit.«
 
-Harst legte die Hand auf Johns Schulter. S8 sollte für
+Harst legte die Hand auf Johns Schulter. »Es sollte für
 <@pagebreak/>
 Sie doch eigentlich eine angenehme Gewißheit sein …! Wir
-wollen uns nichts vermehrten, alter John: Sie lieben Lotti
+wollen uns nichts vormachen, alter John: Sie lieben Lotti
 Digall.«
 
-Drebber nickte schwach, »Leider … Aber eine angenehme
+Drebber nickte schwach. »Leider … Aber eine angenehme
 Gewißheit?! Selbst angenommen, Lotti hätte mich
-»ein wenig gern: Es türmen sich Berge zwischen uns auf,
-Harst! Und diese. Hindernisse lassen sich nicht überwinden,
+ein wenig gern: Es türmen sich Berge zwischen uns auf,
+Harst! Und diese Hindernisse lassen sich nicht überwinden,
 weil meine dienstlichen Pflichten mit zu diesen Hindernissen
-gehören, … « Er zögerte etwas … »Ich will ein beiden
-nichts … verhehlen, Die Zote mit dem Stirnschuß, die ihr
-saht und da der Mörder — Janzen — dann verschleppte,
+gehören …« Er zögerte etwas … »Ich will euch beiden
+nichts verhehlen. Die Tote mit dem Stirnschuß, die ihr
+saht und die der Mörder — Janzen — dann verschleppte,
 kann nicht das Gespenst der Thar gewesen sein. The Ghost
-of the Thar ist … Lotti Digall, ich. habe die Beweise
-dafür, im habe geholt; noch« nicht die Beweise, daß Lotti
-Digall und Allan Peex es mit den Wüstenräubern halten,
-aber ich vermutest, — Ich bin kein Mann der Sentimenstalitäten,
+of the Thar ist … Lotti Digall, ich habe die Beweise
+dafür, ich habe jedoch noch nicht die Beweise, daß Lotti
+Digall *und* Allan Peex es mit den Wüstenräubern halten,
+aber ich vermute es. — Ich bin kein Mann der Sentimentalitäten,
 ihr Kennt mich: Die Pflicht ging mir einst über
-alles, Dann erhielt im den Dämpfer in Kalkutta, ich Buche
-ins Exil geschickt, obwohl- meine Vorgesetzten mich vor der
-farbigen Bande in Kalkutta auch anders hätten sollten
-können. Ich kam hierher, bis oben voll Groll und Herr
-Witterung, «««
+alles. Dann erhielt ich den Dämpfer in Kalkutta, ich wurde
+ins Exil geschickt, obwohl meine Vorgesetzten mich vor der
+farbigen Bande in Kalkutta auch anders hätten schützen
+können. Ich kam hierher, bis oben voll Groll und 
+Verbitterung …«
 
 Seine letzten Sätze klangen matt und unlogisch. Weshalb
-redete er von GSentimentalitäten?! Er the klüger getan,
-zu schweigen. Ich jedenfalls glaubte ihm nicht, Er wußte
-wohl am besten, daß Lotti oder Peex mit den Karawanen
-Rändern kaum im Bunde standen,
+redete er von Sentimentalitäten?! Er hätte klüger getan,
+zu schweigen. Ich jedenfalls glaubte ihm nicht. Er wußte
+wohl am besten, daß Lotti oder Peex mit den Karawanenräubern
+kaum im Bunde standen,
 
-»-…- Als ich; Lotti hier kennenlernte, war’s um mich
-geschehen, — Liebe, — — bisher für mich nichts als poetische
-Umschreibung Sinnes Naturtriebes. Über das rächte sich,
-ich begann an mir selbst zu spüren, was Liebe bedeutet,
-Ich vernachlässigte meine Pflichten, im? sah) einmal Lottis
-Handschrift, und mein: Herz ward noch schwerer. Sie hatte
-Gebzeimnisse, sie fürchtete mich, sie wich mir aus, und ich …
-umlauerte sie, iz folgte ihr bei ihren nächtlichen Ritten,
+»… Als ich Lotti hier kennenlernte, war’s um mich
+geschehen. — Liebe, — — bisher für mich nichts als poetische
+Umschreibung eines Naturtriebes. Aber das rächte sich,
+ich begann an mir selbst zu spüren, was Liebe bedeutet.
+Ich vernachlässigte meine Pflichten, ich sah einmal Lottis
+Handschrift, und mein Herz ward noch schwerer. Sie hatte
+Geheimnisse, sie fürchtete mich, sie wich mir aus, und ich …
+umlauerte sie, ich folgte ihr bei ihren nächtlichen Ritten,
 <@pagebreak/>
-dennoch sie war schlau, und sie entging mir stets, gegen ihr
+doch sie war schlau, und sie entging mir stets, gegen ihr
 Reitdromedar kommt kein Gaul auf, kein anderes Tier …«
 
-Er fuhr sich über die Stirn, auf der seine Perlen
+Er fuhr sich über die Stirn, auf der feine Perlen
 glänzten … »Sie war auch vorgestern nacht unterwegs,
 nachdem sie kaum mit ihren getreuen Radschputen und der
 Leiche ihrer Mutter zurückgekehrt war … — Harst, sie
 war unterwegs, vorgestern Nacht, als Janzen die andere
 Frau erschoß, die mit der Brille …« Er spielte mit seinem
 Monokel, das er am dünnen Seidenbande trug und das ihm
-in Kalkutta noch einen Spitznamen eingebracht hatte: Chamas
-Terrain der Zweite. — »Ich wette, sie hat sich mit Janzen
-großen, sie kehrte erst morgens heim … nein, erst vormittags
+in Kalkutta noch einen Spitznamen eingebracht hatte: Chamberlain
+der Zweite. — »Ich wette, sie hat sich mit Janzen
+getroffen, sie kehrte erst morgens heim … nein, erst vormittags
 sogar … Es mag elf Uhr gewesen sein.«
 
 »Das kann stimmen,« nickte Harst zu unser beider Erstaunen.
 »Wenn Sie aber vermuten, Lotti sei an dem Morde
-beteiligt oder Mitwisserin, so stimmt da s nicht ganz, lieber
+beteiligt oder Mitwisserin, so stimmt *das* nicht ganz, lieber
 John. — Klären wir die noch schwebenden Fragen zunächst.
 Seit wann spricht man hier von dem Thargespenst?« Er
 zog dabei langsam seine Pistole aus der Schlüsseltasche und
-ließ den Patronenrahmen herausspringen. ’Drebber hier
+ließ den Patronenrahmen herausspringen. Drebber schien
 diese Spielerei mit der kleinen Waffe nervös zu machen. Er
-erwiderte zerstreut: »Zeit Jahren, glaube ich … — Stecken
+erwiderte zerstreut: »Seit Jahren, glaube ich … — Stecken
 Sie doch das Ding wieder weg, Harst …!«
 
-»Nachher, John, Falten …« Er Frühe den Rahmen
-wieder in den Kolben zurück, und mit einen! Knacken schob
+»Nachher, John, nachher …« Er drückte den Rahmen
+wieder in den Kolben zurück, und mit einem Knacken schob
 sich die oberste Patrone in den Lauf. »Mithin könnte Lotti
 the Ghost sein — der Zeit nach. — Weshalb beargwöhnen
-Sie Lotti und Plan Peex? Haben Sie die beiden denn nachts
-einmal zusammen gesellen 2«
+Sie Lotti und Allan Peex? Haben Sie die beiden denn nachts
+einmal zusammen gesehen?«
 
 »Ja — wiederholt.«
 
 Harst zog die Mundwinkel mißbilligend herab. »Ich finde,
 Sie geben Ihre Auskünfte etwas zu sehr im Telegrammstil,
-John. Wir reden im Grunde Hier wie Saßen um den
-heißen « Brei herum. Sie wissen mehr als Sie sagen. Sie
-wollen Lotti liegen — und sich selbst! Sie haben sich doch
+John. Wir reden im Grunde Hier wie Katzen um den
+heißen Brei herum. Sie wissen mehr als Sie sagen. Sie
+wollen Lotti schonen — und sich selbst! Sie haben sich doch
 <@pagebreak/>
-sehr« verändert, Drebber, nicht zum Vorteil. Es ist zwecklos,
+sehr verändert, Drebber, nicht zum Vorteil. Es ist zwecklos,
 die Dinge klären zu wollen. Peex rückte so deutlich vorhin
-von Lotti ab, daß er lediglich) ihr Verehrer sein kann.
-Selbst wenn man unterstellen wollte, er hätte, seine Kater
-waren stets versichert gehabt und könnte daher als Thar.
-Bandit noch die Versicherungssumme mit einstreichen, will’s
+von Lotti ab, daß er lediglich ihr Verehrer sein kann.
+Selbst wenn man unterstellen wollte, er hätte seine Karawanen
+stets versichert gehabt und könnte daher als Tharbandit
+noch die Versicherungssumme mit einstreichen, will’s
 mir absolut, nicht in den Kopf, daß dieser semmelblonde,
-kleine Faßte mit Lotti dunkle Geschichten treibt … Zumal
-ich überzeugt bin, daß die Urkunde acht war, die Sie so
+kleine Fatzke mit Lotti dunkle Geschichten treibt … Zumal
+ich überzeugt bin, daß die Urkunde echt war, die Sie so
 eilfertig verbrannten …«
 
-Drebber lachte. »Sie war echt. Sie unterschätzen Er.
+Drebber lachte. »Sie war echt. Sie unterschätzen Mr.
 Peex. Er ist ein Wolf im Schafspelz.«
 
-Harst hielt die Pistole mit der Mündung nach der Bau
-nachkommend hin und fuhr mit dem linken Zeigefinger über
+Harst hielt die Pistole mit der Mündung nach der
+Barackenwand hin und fuhr mit dem linken Zeigefinger über
 den kurzen Lauf. »Hier ist ein Rostfleck … Ich muß die
-Waffe besser ölen, … ««
+Waffe besser ölen …«
 
 Drebber fügte mit kaltem Hohn hinzu: »Peex witterte
-in mir den Nebenbuhler … Da hat er »eben Mylord Eggingham
-einen Floh) ins Ohr gesetzt … — Mylord liebt mich
-nicht. Dort im Gouverneurpalast in Bikaner sind nur Bäutehrutscher
-in Gunst, So kam dieses famose Schriftstück zustande.«
+in mir den Nebenbuhler … Da hat er eben Mylord Eggingham
+einen Floh ins Ohr gesetzt … — Mylord liebt mich
+nicht. Dort im Gouverneurpalast in Bikaner sind nur Bauchrutscher
+in Gunst. So kam dieses famose Schriftstück zustande.«
 
-… Harald blickte Sohn wieder lange an.
+Harald blickte John wieder lange an.
 
-— »Drehen Sie da? mal den Kopf ein wenig nach links
-…- So, danke, John … Ihr ’Monokel Ast tadellos blank
-Die Wölbung ist nur gering, und ich kann in
+»Drehen Sie doch mal den Kopf ein wenig nach links
+… So, danke, John … Ihr Monokel ist tadellos blank
+… Die Wölbung ist nur gering, und ich kann in
 Ihrem Einglas das Fenster des Baderaumes wie im Spiegel
 sehen … Es ist halb angelehnt … Vorhin ließen Sie
 es offen.« Seine Stimme wurde überlaut, fast schrill: »Sollte
-die Person, die dort hinter den Fenster steht und uns des
-lautet, auch nur die geringste Bewegung machen, drücke
-im ab, Und ich treffe bestimmt …
-… Drebber und Ich fuhren aus den Korbsesseln. Im selben
+die Person, die dort hinter dem Fenster steht und uns belauscht,
+auch nur die geringste Bewegung machen, drücke
+ich ab. Und ich treffe bestimmt …«
+
+Drebber und Ich fuhren aus den Korbsesseln. Im selben
 Moment knallte auch schon der Schuß, die Milchglasscheibe
 zersplitterte, und Harst schnellte auf das Fenster zu, wollte
 <@pagebreak/>
-sich inetnzwängen …«.«« Über der Fensterrahmen gab: nicht
-na
+sich hineinzwängen … Aber der Fensterrahmen gab nicht
+nach.
 
 Drebber und ich rannten in die Baracke, wo wir mit
 Lipo zusammenstießen, der auf den Knall hin aus der
 Küche herbeigeeilt kam … Lipo hatte bereits die Tür zu
--Unseren Gastzimmer ausgerissen deutete nun mit weit offenem
-»Munde durch das Fenster …;Wir sahen »zwischen dem
-— Büschen hindurch eine Frau im hellbraunen Mantel mit
+Unserem Gastzimmer aufgerissen deutete nun mit weit offenem
+Munde durch das Fenster … Wir sahen zwischen den
+Büschen hindurch eine Frau im hellbraunen Mantel mit
 Kapuze, den sie hochgerafft hatte, auf ein ruhendes, gesatteltes
 und sehr helles Reitdromedar zustürmen … Im
 Nu war die Fremde im Sattel, das Tier jagte davon —
-zwischen den Eisstücken hindurch … Der lange Mantel
+zwischen den Viehhürden hindurch … Der lange Mantel
 flatterte hinterdrein …
 
-Wir drei standen »noch und staunten und starrten, als
+Wir drei standen noch und staunten und starrten, als
 hinter uns Harald sagte:
 
 »The Ghost of the Thar!! Zweite Auflage!«
 
 Dann drängte er Lipo beiseite und ging in den Baderaum.
-Hier war gegen das kleine Fenster die Marmors
-platte unseres Waschtisches als Kugelfang gestützt. Harsts
+Hier war gegen das kleine Fenster die Marmorplatte
+unseres Waschtisches als Kugelfang gestützt. Harsts
 Pistolenkugel hatte den Marmor nicht durchlöchert, sondern
-nur eine Bertkliefung mit abgesplitterten Rändern Sennora.
-gerufen,
+nur eine Vertiefung mit abgesplitterten Rändern hervorgerufen,
 
-»Blau!« nickte Drebber. »Sehr schlau …! — Was
-sahen Sie von dem Frauenzimmer, Harst?« Tun
+»Schlau!« nickte Drebber. »Sehr schlau …! — Was
+sahen Sie von dem Frauenzimmer, Harst?«
 
-»Nur zweimal den linken Ellenbogen … Wenn sie.
+»Nur zweimal den linken Ellenbogen … Wenn sie
 den Kugelfang nicht aufgestellt hätte, würde sie nun wohl
-einige Schulterschmerzen haben. Ich. hätte niemals geschossen,
-aber die Person führte Arges im Schilde …!« Er blickte
+einige Schulterschmerzen haben. Ich hätte niemals geschossen,
+aber die Person führte Arges im Schilde …!« Er bückte
 sich und hob eine kleine Hartgummispritze mit Nickelspritze
 auf. Sie war gefüllt, und als nun ein dünner Strahl in
-die Badewanne, zischte, verbreitete sich ein eigentümlich
+die Badewanne zischte, verbreitete sich ein eigentümlich
 scharfer Geruch, der nicht nur mir die Tränen aus den
 Augen trieb.
 
-»Die Badewanne ist hin,« sagte Drebber belustigt,
+»Die Badewanne ist hin,« sagte Drebber belustigt.
 »Wissen Sie, was das ist, Harst …? Das ist ein Geruch,
 <@pagebreak/>
-der erst nach; Monaten sich verflüchtigt, — das ist die Ausstattung
+der erst nach Monaten sich verflüchtigt, — das ist die Ausscheidung
 der Stinkdrüsen des indischen Pestkäfers, eines
 Insekts von Daumenlänge, der überall dort zu finden ist,
 wo große Schafherden weiden … Dieser Pestkäfer lebt
 tagsüber in der Erde, kommt nur nachts an die Oberfläche
-und wird nie vereinend Schafe zertreten, denn — er stinkt
+und wird nie von einem Schafe zertreten, denn — er stinkt
 zu sehr, und die Tiere fliehen ihn wirklich … wie die Pest.«
 
 Harald wich wie wir in das Zimmer zurück und schlug
 die Tür zu. »Das ist allerdings merkwürdig, meinte er
 und schaute dabei den kleinen Lipo zerstreut an. Auch die
-Spitze hatte er in die. Wanne geworfen, und Lipo hatte
+Spritze hatte er in die Wanne geworfen, und Lipo hatte
 sofort den Wasserhahn aufgedreht und den Abfluß halb
-geöffnet. »Weshalb wollte man Sie … so ausreißen,
-
-Drebber?« Aber sein Bis blieb auf Lipos faltigem Gesicht
-hasten.
+geöffnet. »Weshalb wollte man Sie … so anspritzen,
+Drebber?« Aber sein Blick blieb auf Lipos faltigem Gesicht
+haften.
 
 Der Chinese schloß die Augen und grinste töricht.
-John Drebber erwiderte achselzu&endi »Ein Thargespenst
-mit einer Spitze ist, so ungefähr das Ungewöhnlichste, das
-mir je begegnete …
+John Drebber erwiderte achselzuckend: »Ein Thargespenst
+mit einer Spritze ist, so ungefähr das Ungewöhnlichste, das
+mir je begegnete …«
 
-»Wir werden »jetzt Miß Digall unsere Aufwartung
-machen,« letzte Harald ab und musterte Lipo noch scharfer.
-»Nein gelber Herrn des Himmels, du darfst deine Augen
+»Wir werden jetzt Miß Digall unsere Aufwartung
+machen,« lenkte Harald ab und musterte Lipo noch schärfer.
+»Mein gelber Sohn des Himmels, du darfst deine Augen
 wieder öffnen,« — und er packte Lipos rechten Arm und
-schnurrte ihn nach oben und ließ ihn wieder sinken …
+schwenkte ihn nach oben und ließ ihn wieder sinken …
 
 Lipo wurde gelbgrün … »Was … was wünschen
 Mr. Harst,« stotterte er und trat rasch zurück.
 
-»Akt, — ich liebe es nur, deine Augen zu sehen … « «
-—» Komm’, Schraut, Lotti Digall wird sich freuen, …«
+»Ach, — ich liebe es nur, deine Augen zu sehen …
+— Komm’, Schraut, Lotti Digall wird sich freuen …«
 
 Drebber blickte von einem zum andern, schüttelte den Kopf
-und meinte: …
+und meinte:
 
 »Entschuldigt mich bei ihr … Ich war etwas hart
-und mitleidsglosg …
+und mitleidslos …
 
-»Sie waren ganz etwas anderes,« rief Harst schon von!
-Flur her … Fragen Sie nur Lipo danach, … « Er lachte
-merkwürdig und Saßnitz mir eilends voraus.
+»Sie waren ganz etwas anderes,« rief Harst schon vom
+Flur her … Fragen Sie nur Lipo danach …« Er lachte
+merkwürdig und schritt mir eilends voraus.
 
 <@pagebreak/>
 
