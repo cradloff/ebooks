@@ -1,64 +1,65 @@
-<@pagebreak 3/>
+<@pagebreak 1/>
 
-Der Schädel mit den Goldzähnen
+<#import "*/harst.ftl" as harst>
+<@harst.introshort/>
 
 <h2>1. Kapitel.</h2>
 <h3>Zähne.</h3>
 
-»Ich würde mir das Ding herausreißen lassen,« jagte
+»Ich würde mir das Ding herausreißen lassen,« sagte
 Harald abermals, nachdem mir auch unserer Mathilde sonst
 bewährtes Zahnschmerzmittel nicht geholfen hatte und ich
-Männer noch ein trainierender Weitstreckenläufer im Gemüsegarten
-hin und her gerannt war. »Bendig nahm: 1a ganz
-in der Nähe, und eine Wurzelhauibehandlung bleibt eine
-zweifelhafte Sache. Glückliche) der Mensch, der ein künstliches
+immer noch ein trainierender Weitstreckenläufer im Gemüsegarten
+hin und her gerannt war. »Bendig wohnt ja ganz
+in der Nähe, und eine Wurzelhautbehandlung bleibt eine
+zweifelhafte Sache. Glücklich der Mensch, der ein künstliches
 Gebiß hat. Zähne sind wie die alten Jungfern: Je älter, desto
-bissiger!« Er lachte mitleid8los. Und er dachte: Feigling!
+bissiger!« Er lachte mitleidslos. Und er dachte: Feigling!
 
-»Ich achte … t« Es war ein Gemischten Entschluß. Ich
+»Ich gehe …!« Es war ein heroischer Entschluß. Ich
 kenne Leute, die neben einer Dynamitpatrone mit brennendem
 Zünder schlafen würden und sich doch vor dem bequemen
-Warterstuhl eines Leibarztes fürchten.
+Marterstuhl eines Zahnarztes fürchten.
 
-Ich ging. —« Arthur Bendig, Zahntechniker, wohnte in
+Ich ging. — Arthur Bendig, Zahntechniker, wohnte in
 einem eigenen Häuschen in der Kissinger Straße. — Es
 war ihm auch nicht an der Wiege gesungen worden, daß
 er, der einstige Plantagenbesitzer, noch mit fünfzig Jahren
-umflattern müßte. Ihm hatte eine ganze Insel in der Südsee
-gehört. Mag dem Kriege stand er vor dem Nichts.
+umsatteln müßte. Ihm hatte eine ganze Insel in der Südsee
+gehört. Nach dem Kriege stand er vor dem Nichts.
 Er kam nach Berlin, wurde Zahntechniker, verzichtete auf
-alle Entschädigungsansprüche und erwarb für den Gr158
+alle Entschädigungsansprüche und erwarb für den Erlös
 <@pagebreak/>
-einer wunderbaren Sammlung melanejischer Raritäten das
-Häuschen, in dem er zusammen mit einem kanakischen Diener.
-der ihm die Treue bewahrt hatte, ganz zurückgezogen letztes
+einer wunderbaren Sammlung melanesischer Raritäten das
+Häuschen, in dem er zusammen mit einem kanakischen Diener,
+der ihm die Treue bewahrt hatte, ganz zurückgezogen lebte.
 Seine Praxis war gering. Bendig verstand es nicht, seine
-Patienten richtig anzupacken, er war ein sehr verschlossenes
+Patienten richtig anzupacken, er war ein sehr verschlossener
 Junggeselle, mittelgroß, sehnig, verblüffend frisch für seine
-nun sechsunddjünfzig Jahre, dabei in seinem Fach außer
-ordentlich tüchtig.
+nun sechsundfünfzig Jahre, dabei in seinem Fach außerordentlich
+tüchtig.
 
 Sein Wartezimmer, ein exotisches Museum, war leer,
 als Hamiti mich um elf Uhr vormittags einließ. Die Fenster
-standen offen, der Duft der Blumenveetic des Vorgartens
+standen offen, der Duft der Blumenbeete des Vorgartens
 drang herein und bekämpfte wirksam die Arztgerüche.
 
 Bendig hatte gerade einen Leidenden vor, ich hörte
 durch die Tür und den Vorhang gedämpftes Sprechen,
 Klirren von Instrumenten … Dann trat der Patient heraus,
 blickte mich flüchtig an und nahm Hut und Stock und
-verließ das Haus. Ich schaute ihm durch das Fenster neu.
-Es war ein älterer Mann mit grauem Bart, geringen.
-Buckel, schlicht geleitet, mit schleoppendem wilden Gang.
+verließ das Haus. Ich schaute ihm durch das Fenster nach.
+Es war ein älterer Mann mit grauem Bart, geringem
+Buckel, schlicht gekleidet, mit schleppendem müden Gang.
 
-Nach fünf Minuten Bestien Bendig und bat mich ins
-Operationszimmer. Meine Zahnsä:merzen waren natürlich
-wie weggeblasen Er drückte mir Ei« Hand. »Wo fehlt’s?«
+Nach fünf Minuten erschien Bendig und bat mich ins
+Operationszimmer. Meine Zahnschmerzen waren natürlich
+wie weggeblasen. Er drückte mir die Hand. »Wo fehlt’s?«
 
-Draußen!ck Lug die Flurglocke an. Hamiti schlich herein
-und meldete »Der Herr ist wieder Dr … Er hat seinen
+Draußen schlug die Flurglocke an. Hamiti schlich herein
+und meldete »Der Herr ist wieder da … Er hat seinen
 Schädel vergessen …« Hamitis Deutsch war einwandfrei.
-Er war ein Kanake mit hellbraunen »gingen Gesicht und
+Er war ein Kanake mit hellbraunem faltigen Gesicht und
 traurigen Augen.
 
 »Richtig, — hat er das Ding wirklich vergessen! Da
@@ -70,44 +71,45 @@ komische Käuze auf der Welt, Herr Schraut … Machen
 Sie den Mund weiter auf … Der Herr, der soeben hier
 war, hat einem Totenschädel das defekte Gebiß ergänzen
 lassen, zwei Goldbrücken, — — der Mann hat einen Spleen.«
+
 <@pagebreak/>
-… Ich Hatte keinen Spleen, sondern schielte nach der kleinen
-Spritze, die Bendig mir nun ins GaumensleiscH- jagte …
+Ich Hatte keinen Spleen, sondern schielte nach der kleinen
+Spritze, die Bendig mir nun ins Gaumenfleisch jagte …
 »Sie werden nichts spüren, Herr Schraut … Nur keine
 Angst!«
 
-Allein darauf war der morsche Backenzahn entfernt. Bendig
+Gleich darauf war der morsche Backenzahn entfernt. Bendig
 fragte: »Na?!«
 
-»Großartig!« lobte ich
+»Großartig!« lobte ich …
 
-— »ein Mark,« sagte Bendig, ich zahlte und verabschiedete
+»Zehn Mark,« sagte Bendig, ich zahlte und verabschiedete
 mich. Ich fühlte mich wie neugeboren. In der Tür
-drehte im mich nochmals um: »Wie war das doch mit
+drehte ich mich nochmals um: »Wie war das doch mit
 dem Totenschädel?!«
 
-Bendig säuberte die Instrumente. »Der Hirn kam vor
-drei Wochen zu mir und bestellte die Brüder für seinen
-Schädel. Er hat ihn, wi’ er behauptet, aus Indien mitgebracht.
+Bendig säuberte die Instrumente. »Der Herr kam vor
+drei Wochen zu mir und bestellte die Brücken für seinen
+Schädel. Er hat ihn, wie er behauptet, aus Indien mitgebracht.
 Es soll der Kopf seines Bruders sein …«
 
-Ich: schüttelte meinen Schädel. »Allerdings — —
-Spleen Was ist da? »Zaun?2«Unwillkürlich regte sie mein
-Sinn für Absonderliche-«3.
+Ich schüttelte *meinen* Schädel. »Allerdings — —
+Spleen! Was ist der Mann?« Unwillkürlich regte sich mein
+Sinn für Absonderliches.
 
 »Rentner Edward Folker, Zehlendorf, Waldstraße 16,
-dicht an der Krummen Lanke, — Morgen, Herr Schraut …«
+dicht an der Krummen Lanke. — Morgen, Herr Schraut …«
 
 Ich verstand den Wink. »Hoffentlich nicht auf baldiges
-Wiedersehen, Herr Bendig …
+Wiedersehen, Herr Bendig …«
 
-Hamiti öffnete wie die Haustür, die innen mit Eisenblech
+Hamiti öffnete mir die Haustür, die innen mit Eisenblech
 beschlagen war und zwei Patentschlössern hatte. Des
 alten Insulaners melancholische Augen wichen meinem Blick
-aus, als iGm ihm eine Mark in die Hand drückte und
+aus, als ich ihm eine Mark in die Hand drückte und
 meinte: »Euch geht’s wohl nicht besonders, Hamiti …?«
 
-»Schritt, Herr Schraut … Nichts zu tun. Mein Herr
+»Schlecht, Herr Schraut … Nichts zu tun. Mein Herr
 wird verkaufen müssen …«
 
 »Das Haus?«
@@ -118,43 +120,43 @@ Ich zögerte. Bendig war uns seit Jahren bekannt. Ich
 wollte ihm helfen. Ich hatte längst beabsichtigt, mir die
 Zähne einmal gründlich nachsehen zu lassen, aber die berüchtigte
 <@pagebreak/>
-Bohrmaschine ist Mut Richterlichen als eine Pistolen«
-inündung in Stirntolle.
+Bohrmaschine ist mir fürchterlicher als eine Pistolenmündung
+in Stirnhöhe.
 
 Ich machte kehrt. »Melde mich deinem Herrn wieder,
-Hamiti …’.«
+Hamiti …«
 
 Er starrte mich groß an. In seinen Augen erschien ein
-Ausdruck jähen Schreck. Er zauderte,
+Ausdruck jähen Schrecks. Er zauderte,
 
 »Der Tuwan ist vielleicht beschäftigt,« stotterte er.
 
 Die Tür zum Operationszimmer öffnete sich »Kommen
 Sie nur, — ich habe zwar dringende technische Arbeiten
-zu erledigen, aber — — haben Sie morsch Politische?«
+zu erledigen, aber — — haben Sie noch Wünsche?«
 
-So saß ich denn wieder auf dem verfänglichen Kur?!,
+So saß ich denn wieder auf dem verfänglichen Stuhl,
 der Bohrer surrte und Arthur Bendig meinte wortkarg wie
-immer: «Nase drei Zähne sind verloren … Mit trat
-Brüder sind die Lücken ausgefüllt, Preis: Zweihundert«-
-siebzig Mark …«
+immer: »Noch drei Zähne sind verloren … Mit drei
+Brücken sind die Lücken ausgefüllt, Preis: Zweihundertsiebzig
+Mark …«
 
-So wurde ich noch) drei Zähne und hundertfünfzig Mark
+So wurde ich noch drei Zähne und hundertfünfzig Mark
 Anzahlung los, Bendig nahm das Geld ohne große Dankesworte
-entgegen, »Ich kann es brauen, Herr Schraut, Übermorgen
-machen wir die Gipsabdrücce« Er setzte sie; an
-den Gesichts; und füllte ein Quittungsformular aus.
+entgegen. »Ich kann es brauchen, Herr Schraut, Übermorgen
+machen wir die Gipsabdrücke.« Er setzte sich an
+den Schreibtisch und füllte ein Quittungsformular aus.
 Ich stand dicht daneben. Da er den Kopf tief gebeugt hielt
 (er war kurzsichtig und trug einen modernen Kneifer mit
-Irrungen, machte ich eine Entdeckung, die freilich nichts
+Hornrand), machte ich eine Entdeckung, die freilich nichts
 zu bedeuten hatte und die höchstens für Bendigs Eitelkeit
 sprach: Sein grauer, voller Scheitel war eine sehr kunstvoll
 gearbeitete Perücke! Wahrscheinlich war er kahlköpfig
-wie so viele Leute, die ihr halbes Leben in den Tropen zum
-gebracht haben, Die Perücke hätte ich bei anderer Bele1chps
-jung und bei anderer Kopfhaltung nie als solche erkannt,
-Sie paßte vorzüglich. Nur die scharf ausgeprägte Scheitel«,
-Linie zeigte als Untergrund nicht wie sonst bei natürlichen;
+wie so viele Leute, die ihr halbes Leben in den Tropen zugebracht
+haben. Die Perücke hätte ich bei anderer Beleuchtung
+und bei anderer Kopfhaltung nie als solche erkannt.
+Sie paßte vorzüglich. Nur die scharf ausgeprägte Scheitellinie
+zeigte als Untergrund nicht wie sonst bei natürlichem
 Haarwuchs die weiße Kopfhaut, sondern das feinmaschige
 Gewebe, das jeder Perücke als Unterlage zum Befestigen
 der Haare dient,
@@ -162,23 +164,22 @@ der Haare dient,
 Es war dies nicht die einzige Beobachtung, die ich gerade
 <@pagebreak/>
 bei diesem harmlosen Hergang des Ausfüllens einer Quittung
-anstellen konnte, — Auf dem billigen eichenen Diplomaten«
-screibtisQm (der Berliner nennt diese Art Möbel »lackierte
-
-fertigten«) stand auch ein kleines Bild mit Glasrahmen:
+anstellen konnte. — Auf dem billigen eichenen Diplomatenschreibtisch
+(der Berliner nennt diese Art Möbel »lackierte
+Eierkisten«) stand auch ein kleines Bild mit Glasrahmen:
 ein Gewitter auf hoher See in dunklen Farben! — Bendig
-hatte es, als er zur Feder griff, beiseitegerückt, Ich sah
+hatte es, als er zur Feder griff, beiseitegerückt. Ich sah
 nun, als ich zufällig meine Augen seitwärts wandte, in dem
-»Schußtzglase des Bildes wie in einem Spiegel Bendigs
+Schutzglase des Bildes wie in einem Spiegel Bendigs
 Kneifergläser, dahinter seine eng zusammengekniffenen Lider,
-zwischen denen ein merkwürdig scharfer, prüfender Bis,
-der nicht der. Quittung, offenbar nur mir galt, Ich kam
+zwischen denen ein merkwürdig scharfer, prüfender Blick,
+der nicht der Quittung, offenbar nur mir galt. Ich kam
 mir wie ein ertappter Sünder vor, hüstelte und drehte mich
-halb um. Bendig schrieb seinen Namen — hatte: nicht einen
-Moment die Feder ruhen lassen. Er … trocknete die Finte mit
+halb um. Bendig schrieb seinen Namen — hatte nicht einen
+Moment die Feder ruhen lassen. Er trocknete die Tinte mit
 dem Löscher und sagte etwas lauter, als er sonst zu sprechen
 pflegte: »Bitte …!! Also dann Mittwoch …« Er hielt
-mir« die Quittung hin, ich steckte sie in die Tasche und reichte
+mir die Quittung hin, ich steckte sie in die Tasche und reichte
 ihm die Hand.
 
 »Wiedersehen … — Wann, — paßt es Ihnen, —
@@ -187,48 +188,48 @@ wie heute um zehn Uhr?«
 »Mir paßt es immer … Ich bin den Schmargendorfern
 nicht redselig genug. Sie wollen alle lange Geschichten aus
 der Südsee hören, womöglich Abenteuer nach Art Jack
-Londons. Ich habe auf Gwenda nichts erlebt, nur gearbeitet
+Londons. Ich habe auf Omaritu nichts erlebt, nur gearbeitet
 und … war Millionär …«
 
-Er lächelte bitter, Seine Augen, die von der Farbe
+Er lächelte bitter. Seine Augen, die von der Farbe
 verwaschenen blauen Stoffes waren, ruhten mit eigentümlich
 starrem Forschen auf meinem Gesicht, wie er ja überhaupt
 die Angewohnheit hatte, bei der Unterhaltung den
 anderen Teil nicht wirklich anzublicken, sondern unverkennbar
-einen Punkt über der Nasenwurzel zu sicheren, übrigens
-ein Ort, den auch viele erfahrene Krimmnalisten bei Verloren
-gegenüber Verbrechern anwenden sollen … Schon Harst
+einen Punkt über der Nasenwurzel zu fixieren, übrigens
+ein Ort, den auch viele erfahrene Kriminalisten bei Verhören
+gegenüber Verbrechern anwenden sollen. Schon Harst
 war dies an Bendig aufgefallen, und noch unlängst hatten
 wir darüber gesprochen,
 
 <@pagebreak/>
 Ein unbehagliches Gefühl beschlich mich. Ich wurde verlegen
 und verabschiedete mich Hastig. Mir entging nicht, daß
-des &Hhemaligen Pflanzers schmaler, harter Mund sich ironisch
-verzog, und im wir nun fest überzeugt, er müsse durch
-das spiegelte Glas des Bildes gesehen haben, welche Art«
-sieh ungeklärt sein Arbeiter für meine Augen gehabt hatte.
+des ehemaligen Pflanzers schmaler, harter Mund sich ironisch
+verzog, und ich war nun fest überzeugt, er müsse durch
+das spiegelnde Glas des Bildes gesehen haben, welche
+Anziehungskraft sein Scheitel für meine Augen gehabt hatte.
 
-Uns im in den Flur trat, verhandelte gerade der Kanake
+Als ich in den Flur trat, verhandelte gerade der Kanake
 Hamiti, der in einem abgelegten, ihm viel zu weiten hellen
 Anzug seines Herrn steckte, mit einer jungen Dame, deren
-elegante Erscheinung mich) überraschte, denn Bendigs wenige
+elegante Erscheinung mich überraschte, denn Bendigs wenige
 Patienten waren zumeist einfache Leute. Ich vernahm noch,
-wie Hamiti fast grob zu der!Glanken Fremden sagte: »Nein,
+wie Hamiti fast grob zu der schlanken Fremden sagte: »Nein,
 wenden Sie sich anderswohin!« Dann schlug er die Tür zu.
 
 Hamiti murmelte noch irgend etwas, das direkt feindselig
-klang, verschloß die Tür und Tollte nach reaht8 in
-die Privaträume verschwinden. Er fragte mich nicht bares
-hier im Flur war es ziemlich hinunter, und ich rief ihn
+klang, verschloß die Tür und wollte nach rechts in
+die Privaträume verschwinden. Er hatte mich nicht bemerkt,
+hier im Flur war es ziemlich dunkel, und ich rief ihn
 daher leise an. »Hamiti, mich wirst du wohl wo hinauslassen
-müssen … « —
+müssen …«
 
-Er fuhr herum, Seine Augen zeigten das Weiße vor
-Schreck, und unwillkürlich duckte er sitzt zusammen, als ob
-er mir an die Kehle springen wollte. Sei hellbraunes Je.
-sieht war förmlich entstellt, und seine Affenarme reckten sei
-mit einem Auf hoch, die Hände schlossen sich wie um einen
+Er fuhr herum. Seine Augen zeigten das Weiße vor
+Schreck, und unwillkürlich duckte er sich zusammen, als ob
+er mir an die Kehle springen wollte. Sei hellbraunes Gesicht
+war förmlich entstellt, und seine Affenarme reckten sich
+mit einem Ruck hoch, die Hände schlossen sich wie um einen
 unsichtbaren Gegenstand zusammen, — als ob er jemand
 erwürgte.
 
@@ -237,69 +238,69 @@ blöde und wischte sich mit der Linken über die Stirn …
 
 »Herr Schraut, ich kann keine blonden Frauen sehen …«
 flüsterte er scheu und öffnete wieder die Tür … »Kommen
-Sie gut beim, Herr Schraut … Ich …«
+Sie gut heim, Herr Schraut … Ich …«
 
-Seine Augen holten das große Privatauto auf der Straße
+Seine Augen hatten das große Privatauto auf der Straße
 erspäht, vor dem die junge Dame noch mit dem in Gelbgrau
-gefleivbeten Chauffeur verhandelte: Diese Augen
+gekleideten Chauffeur verhandelte. Diese Augen
 flammten abermals auf, und rasch drückte er die Tür wieder
 <@pagebreak/>
 ins Schloß. »Ich Hätte noch eine Bitte, Herr Schraut,«
-sagte er überstürzt und seltsam heiseren Tones. »Untere
-Rosen wollen nicht recht geborgen, … Sie verließen wohl
-von Blunrkenpflege Moor als wir. Vielleicht könnten Sie sich
+sagte er überstürzt und seltsam heiseren Tones. »Unsere
+Rosen wollen nicht recht gedeihen … Sie verstehen wohl
+von Blumenpflege mehr als wir. Vielleicht könnten Sie sich
 die Rosen einmal ansehen und uns einen Rat geben …«
 
-Hamitis primitives Manöver, ein Zufammeantreffen
+Hamitis primitives Manöver, ein Zusammentreffen
 meinerseits mit der Fremden zu verhindern, steigerte noch
-meinen Ersucht …
+meinen Argwohn …
 
-»Ich werde nachmittags kommen, Hamiti … öffnet«
+»Ich werde nachmittags kommen, Hamiti … öffne!«
 
 Er horchte zweifellos nach draußen, und als nun das
 Geräusch des Automotors sich rasch entfernte und erstarb,
 nickte er und verneigte sich:
 
-»Sehr liebenswürdig, Herr Schraut …-«
+»Sehr liebenswürdig, Herr Schraut …«
 
-Leider war von ’dem Auto nichts mehr zu sehen. Gedankenvoll
-bog ich in. den Feldweg ein, der am LaubenZzauyde
+Leider war von dem Auto nichts mehr zu sehen. Gedankenvoll
+bog ich in den Feldweg ein, der am Laubengelände
 entlangführt, und wie ich so das soeben Erlebte nochmals
-zergliederte, kam ich zu dem ganz bestimmten Belastet:
-Kannst lautete die junge Dame, hatte sie nicht verlassen
-wollen und hat!? auch verhütet, daß ich mir etwa die Nummer
+zergliederte, kam ich zu dem ganz bestimmten Resultat:
+Hamiti kannte die junge Dame, hatte sie nicht vorlassen
+wollen und hatte auch verhütet, daß ich mir etwa die Nummer
 des Wagens merken könnte. —
 
 Harst arbeitete im Gemüsegarten. Die Knorpelkirschen
-mußten abgenommen. werden, und Sepp Kittel, wissen kleiner
-Freund, tat; droben im uralten Baume und pfiff einen Gassenhauer-
-und füllte den Hängekorb mit Rötlichen schmerzenden
+mußten abgenommen werden, und Sepp Kittel, unser kleiner
+Freund, saß droben im uralten Baume und pfiff einen Gassenhauer
+und füllte den Hängekorb mit köstlichen schwarz-roten
 Früchten.
 
 Harald begrüßte mich mit einem gutmütig-ironischen
-Lächeln. »Na — Überstanden?!«
+Lächeln. »Na — überstanden?!«
 
-Schenken;399 die Quittung hervor und zeigte stolz auf Die
-dort vermerkte Summe. »Bier Zähne!! Allerhand!«
+Ich zog die Quittung hervor und zeigte stolz auf Die
+dort vermerkte Summe. »Vier Zähne!! Allerhand!«
 
-Er lachte, »Ein Geld!!« Aber sein Gesicht ward plötzlich
+Er lachte. »Ein Geld!!« Aber sein Gesicht ward plötzlich
 ernst.
 
 »Seit wann heißt Bendig denn Bydroop?! Unter der
 Quittung steht Arthur Bydroop, nicht Arthur Bendig.«
 
-Ich riß sie ihm aus der Hand. Ich stierte auf den. mir uns
-bekannten Namen.
+Ich riß sie ihm aus der Hand. Ich stierte auf den mir unbekannten
+Namen.
 
 <@pagebreak/>
-Bydroop?! In der Tat … Das ist recht eigenartig …
-Wie konnte Bendig nur so zerstreut sein?!
+»Bydroop?! In der Tat … Das ist recht eigenartig …
+Wie konnte Bendig nur so zerstreut sein?!«
 
 Da fiel mir die kleine Szene mit der Perücke, dem Bilde
 und Bendigs zugekniffenen Augen ein.
 
 »Harald, es ist das vielleicht doch nicht so eigenartig,
-inne ich »achte … Ich störte Bendig bei der Unterschrift,
+wie ich dachte … Ich störte Bendig bei der Unterschrift,
 ich lenkte ihn ab, und …«
 
 »Wie das?«
@@ -307,329 +308,328 @@ ich lenkte ihn ab, und …«
 Als ich Harst nun alles näher erklärte, sagte er mit
 allem Nachdruck: »Ja, du lenktest ihn ab, als er eben erst
 den Vornamen geschrieben hatte. In seiner Zerstreutheit
-schrieb er dann seinen … wahren Namen: Bydroops
+schrieb er dann seinen … wahren Namen: Bydroop!
 — Er heißt nicht Bendig. Gerade weil er zerstreut war und
-deine Entdeckt uns seiner Perücke ihn so stark ablenkte, schrieb
-er rein mechanisch ans es zu ahnen seinen wirklichen Na
-men. — Dieser Pflanzer aus der Südsee verdient einiges
+deine Entdeckung seiner Perücke ihn so stark ablenkte, schrieb
+er rein mechanisch ohne es zu ahnen seinen wirklichen Namen.
+— Dieser Pflanzer aus der Südsee verdient einiges
 Interesse …«
 
-»Faust desgleichen, Harald,« — und ich schilderte die
-zweite Szene … Er liebt keine blonden Frauen …
+»Hamiti desgleichen, Harald,« — und ich schilderte die
+zweite Szene »… Er liebt keine blonden Frauen …
 Aber die junge Dame mit dem blauen Auto war leider
 dunkelhaarig … Sie trug nur ein gelbes Strohhütchen,
-und das mag 9: mit! getäuscht haben.«
+und das mag Hamiti getäuscht haben.«
 
-Harst lehnte lich auf seinen Spaten, »Du bist unlogisch
-
-Erst behauptest du, er kennt sie. Wenn er sie kennt,
+Harst lehnte sich auf seinen Spaten, »Du bist unlogisch
+… Erst behauptest du, er kennt sie. Wenn er sie kennt,
 weiß er auch, ob sie blond oder dunkel ist. Sie müßte sich
 denn gerade das Haar gefärbt haben.«
 
 Sepp Kittel über uns im Kirschbaum, ein Bengel
-mit Führer Suchten, rief uns zu:
+mit wahren Luxohren, rief uns zu:
 
-»Das Auto kam ja vorhin den Feldweg entlang
-Herr Harst, ich liebe offene, wat mit Benzin zu tun hat.
-Meine große Sehnsucht ist ’n Motorrad … Das Auto
-hatte die Nummer 128&nbsp;044,« —
+»Das Auto kam ja vorhin den Feldweg entlang …
+Herr Harst, ich liebe allens, wat mit Benzin zu tun hat.
+Meine jroße Sehnsucht is ’n Motorrad … Das Auto
+hatte die Nummer 128&nbsp;045.« —
 
 Harst rief die Verkehrsabteilung des Polizeipräsidiums
 an.
 
-198&nbsp;048 gehörte Miß Gwenda Sollte r, Tochter des
+128&nbsp;046 gehörte Miß Gwenda *Folker*, Tochter des
 <@pagebreak/>
-Fensters Edward Folker, Berlin-»Zehlendorf, Waldstraße 26.
-Und das war der Mann, der für den Säbel seines Weitere
+Rentiers Edward Folker, Berlin-Zehlendorf, Waldstraße 16.
+Und das war der Mann, der für den Schädel seines Bruders
 zwei Goldbrücken bei Bendig hatte anfertigen lassen und den
-ich flüchtig im Wartezimmer Bendigs Gassen hatte.
+ich flüchtig im Wartezimmer Bendigs gesehen hatte.
 
 <h2>2. Kapitel.</h2>
 
 <h3>Therese, die Waschfrau.</h3>
 
-Insel Kittel — war zwölf Jahre alt, ein echter Berli’er
-Lausbub dazu,« aber ein vortrefflicher Sohn. Seine Major
+Josef Kittel war zwölf Jahre alt, ein echter Berliner
+Lausbub dazu, aber ein vortrefflicher Sohn. Seine Mutter
 war Witwe, Waschfrau und wohnte in dem Kellergeschoß
 jenes leeren Hauses in der Heiligendammer Straße in
-Schmargendorf, das durch die verzehrenden Wirkungen des
-Säwammes seit langem leer steht und mit seinen zerbrochenen
-Fensterscheiben und windschiefen Türen einen es trostlosen
-Anblick bietet, Ich glaube, jeder Schmargendorfer kennt es
+Schmargendorf, das durch die verhehrenden Wirkungen des
+Schwammes seit langem leer steht und mit seinen zerbrochenen
+Fensterscheiben und windschiefen Türen einen so trostlosen
+Anblick bietet. Ich glaube, jeder Schmargendorfer kennt es.
 So mancher Spaziergänger bleibt stehen und wundert
 sich, daß in dieser Zeit der Wohnungsknappheit für das
 zweistöckige Gebäude so gar nichts getan wird. Der Eigentümer
-hätte es wohl längst niederreißen lassen, aber Loch«.
-nungsfnappheit und Geldknappheit gehen Hand im Hand.
+hätte es wohl längst niederreißen lassen, aber
+Wohnungsknappheit und Geldknappheit gehen Hand in Hand.
 
 Frau Therese Kittel besorgte seit einem Jahr für uns
 die Wäsche. Frau Auguste Harst gehörte noch zu jenen etwas
 unmodernen Damen, die alle vier Wochen eine Waschfrau
 annehmen und sorgsam aufpassen, daß kein Chlor mit in
-die Hütte kommt. Sepp Kittel diente uns in Neue und
+die Bütte kommt. Sepp Kittel diente uns in Treue und
 Ergebenheit genau so lange. Gewiß, Harald hätte Frau
 Kittel mit Leichtigkeit eine Portierstelle irgendwo besorgen
 können. Sie lehnte ab. Sie liebte das verlassene Haus, sie war
-dort ihre eigene Herrin, wohnte Vielerlei und nannte das
-Scwammgebäude stets ihre Villa. Sie hakte eben ihre
+dort ihre eigene Herrin, wohnte mietfrei und nannte das
+Schwammgebäude stets ihre Villa. Sie hatte eben ihre
 Eigentümlichkeiten, die dürre Therese mit der Nickelbrille,
-und sie konnte genau so verträuk-grob werden. wie unsere
+und sie konnte genau so vertraut-grob werden, wie unsere
 <@pagebreak/>
-Erde Mathilde. Therese und Mathilde vertrugen sich im
-übrigen wie Hund und Katz’, aber die Katz war in diesem
-Falle Therese … Au ich schätzte sie nicht sehr, Sepp, ihr
+dicke Mathilde. Therese und Mathilde vertrugen sich im
+übrigen wie Hund und Katz’, aber die Katz’ war in diesem
+Falle Therese … Auch ich schätzte sie nicht sehr. Sepp, ihr
 ihr einziger Sprößling, war mir sympathischer.
 
 »Sepp,« sagte Harald aus der Tiefe seines Klubsessels
-Heraus, »du bist helle, du hast uns schon häufiger als Gas
-Alle gute Dienste geleistet …«
+Heraus, »du bist helle, du hast uns schon häufiger als Gehilfe
+gute Dienste geleistet …«
 
 »Stimmt, Herr Harst … und nun soll ich natürlich
 nach Zehlendorf zu Mr. Edward Folker … Und — —
-im inöcht’ schon, Herr Harst …!«
+ich möcht’ schon, Herr Harst …!«
 
 »Habe ich dich schon jemals zu Spitzeldiensten benutzt,
-Sepp?! — Niemals! Denn das hieße deine Klubsessels allzu
-früh in die Tiefen des …,«
+Sepp?! — Niemals! Denn das hieße deine Kinderseele allzu
+früh in die Tiefen des …«
 
-Sepp, voller und lang, immer mit leicht entzündeten
+Sepp, dürr und lang, immer mit leicht entzündeten
 Augen und einer blauroten Wippnase, murmelte respektlos:
-»Hirschen pflücken und Unkraut aussteigen und so was, «, —
-naß kann jeder … Ik mach’ mal …««
+»Kirschen pflücken und Unkraut ausreißen und so was, …
+daß kann jeder … Ick mecht’ mal …«
 
 »… Du möchtest offenbar Geld verdienen, mein Junge,
 das weiß ich … Ich wünschte, jeder Junge lieferte seiner
 Mutter so brav jeden Groschen ab wie du … Aber all
-keine Bitten und Andeutungen kenne ich schon. Du wirst
-nicht niemals ganz umstimmen, nein, — — und deshalb so«
-Krüge dich schon mit harmloseren Aufträgen, die deinen
-Fahren angemessen sind. Also — du wirst nachmittags mit
+deine Bitten und Andeutungen kenne ich schon. Du wirst
+mich niemals ganz umstimmen, nein, — — und deshalb begnüge
+dich schon mit harmloseren Aufträgen, die deinen
+Jahren angemessen sind. Also — du wirst nachmittags mit
 Schraut zu Herrn Zahntechniker Bendig …«
 
-a, der mit dem braunen Diener …
+»… ach, der mit dem braunen Diener …«
 
-»-.».- 1 — zu dem wirst du ein paar Vosensträuher
-tragen, und wenn du dann Zeit und Gelegenheit hast, eigenes
-den Taubenschlag Bendigs ein wenig von innen zu bis
-schlagen, habe ich nichts dagegen …«
+»… ja, — zu dem wirst du ein paar Rosensträucher
+tragen, und wenn du dann Zeit und Gelegenheit hast, einmal
+den Taubenschlag Bendigs ein wenig von innen zu besichtigen,
+habe ich nichts dagegen …«
 
-Sepp Kittel machte ein. sehr langes Gesicht,
+Sepp Kittel machte ein sehr langes Gesicht,
 
-»Tot, — — man bloß ’nen Taubenschlag …« meinte
+»Jott, — — man bloß ’nen Taubenschlag …« meinte
 er geringschätzig.
 
 »und wenn du in diesem Taubenschlag, Sepp,« sagte
 Harald zu meinem wachsenden Erstaunen mit eigentümlicher
 <@pagebreak/>
 Betonung, »vielleicht eine Taube austauschen kannst, so würde
-das nichts schaden, …«
+das nichts schaden …«
+
 Josef starrte ihn verständnislos an.
 
-Harald zog seine Börse, »Hier hast du vier Mark. Tür
+Harald zog seine Börse. »Hier hast du vier Mark. Für
 drei Mark bekommst du bei jedem Tierhändler eine echte
-Brieftaube, Die restliche Mark gehört dir.«
+Brieftaube. Die restliche Mark gehört dir.«
 
 Sepp schnüffelte ganz laut wie ein Igel, der Beute
-Bucht. Das war so eine Angewohnheit von ihm, das tat er
-immer, wenn er über eine Sache! Klarheit erlangt hatte.
-»Ich so, Nu verließ? ich …! Irr steckt die Taube unter die
-Jacke, und nachher ist ’8 eventunnell ne andere Taube —
-so w’ Sternen Falsch bloß. Kehren, — machen wir! Lob
+sucht. Das war so eine Angewohnheit von ihm, das tat er
+immer, wenn er über eine Sache Klarheit erlangt hatte.
+»Ach so, nu versteh’ ick …! Ick steck’ die Taube unter die
+Jacke, und nachher is ’s eventunnell ne andere Taube —
+so n’ kleener Tausch bloß. Scheen, — machen wir! Und
 wozu?«
 
-»Weil Herr Bendig Brieftauben von besonderer Art des
-ritt, und weil ich mir eine davon mal ansehen will
-
-— Nun geh? und pflücke wieder Kirschen und halte den
+»Weil Herr Bendig Brieftauben von besonderer Art besitzt,
+und weil ich mir eine davon mal ansehen will …
+— Nun geh’ und pflücke wieder Kirschen und halte den
 Mund,«
 
 Sepp griente vergnügt. »Muttern braucht so nötig ’n
-Paar neue Scharren … Wissen Sie, was Scharren sind:
-Pantoffeln! Tone Mark hab’ ich schon janz heimlich gespannt,
-und Nu kann ich ihr vom Wochenmarkt welche freien …«
-—» Harst langte nochmals in die Börse, aber unser Kleines
-Faktotum lehnte ab: »Nee, so war’s nicht gemeint …«
+Paar neue Schlorren … Wissen Se, was Schlorren sind:
+Pantoffeln! Eene Mark hab’ ich schon janz heimlich jespart,
+und nu kann ick ihr vom Wochenmarkt welche koofen …«
+— Harst langte nochmals in die Börse, aber unser Kleines
+Faktotum lehnte ab: »Nee, so war’s nich jemeint …«
 
 Selig zog er mit noch einer Mark ab. — Ich trat an
-Harsts Sessel heran, »Du, was ist’s mit Bendigs Tauben 2?!«
+Harsts Sessel heran. »Du, was ist’s mit Bendigs Tauben?!«
 
-Er nahm eine Zigarette, nasse eine, noch, eine — im
+Er nahm eine Zigarette, noch eine, noch eine — im
 ganzen acht, und legte sie auf die flache linke Hand, warf
-alle acht mit IJongleurgeschikliheit so in die Luft, daß
+alle acht mit Jongleurgeschicklichkeit so in die Luft, daß
 sie in den silbernen Kasten zurückfielen.
 
-Ich sagte nachdenklich: »Er hat also acht Sauber, und
-sie’ sind an ihren Schlag gewöhnt und kehren stets dorthin
-zurück, — Hast du dich schon längere Zeit mit Bendigs
+Ich sagte nachdenklich: »Er hat also acht Tauben, und
+sie sind an ihren Schlag gewöhnt und kehren stets dorthin
+zurück. — Hast du dich schon längere Zeit mit Bendigs
 Tauben beschäftigt?«
 
 »Allerdings, mein Alter … Seit acht Tagen genau,
-denn da fiel wir eben zum ersten Male etwas aus, als ich
+denn da fiel mir eben zum ersten Male etwas auf, als ich
 <@pagebreak/>
 an Bendigs Haus vorüberging. Es war Abend, und Hamiti,
 der so glänzend Deutsch spricht, trug einen Korb in der
 Hand, und in dem Korbe flatterten Tauben umher. Ich war
 dicht hinter ihm. Er sah mich nicht. Es regnete stark.
 Er schlug die Richtung nach der Heiligendammer Straße
-ein und verschwand in Nummer drei, Das ist das verfallene
+ein und verschwand in Nummer drei. Das ist das verfallene
 Schwammhaus.«
 
-Ich spitzte die Ohren, »Und dann? — Ich besinne mich,
-du wolltest damals durchaus noch an. »die Luft, wie du sagtest,
-es war ein scheußliches Wetter
+Ich spitzte die Ohren. »Und dann? — Ich besinne mich,
+du wolltest damals durchaus noch an die Luft, wie du sagtest,
+es war ein scheußliches Wetter …«
 
 »Es goß … Und Hamiti hatte seinen Schirm über den
-Kerl gedeckt, was seinem Gesicht schlecht bekam.« Er lächelte
+Korb gedeckt, was seinem Gesicht schlecht bekam.« Er lächelte
 mich an … »Manche Farbe Hält dem Regen nicht stand,
 und als Hamiti das Haus nach zehn Minuten wieder verließ
 und unter einer Laterne mir sein Profil zeigte, war
-seine Nase merkwürdig Hell … « …
+seine Nase merkwürdig hell …«
 
 »Abgewaschen?!«
 
 »Scheint so …«
 
-»Faust ist gefärbt?«
+»Hamiti ist gefärbt?«
 
 »Scheint so … — Seitdem interessiert mich Bendig.
 Aber wir hatten ja bis gestern mit der trostlos langweiligen
 Geschichte der Isolde Piersch zu tun … Niemals übernehme
-im wieder eine so alltägliche Sache, »obwohl ja Isolde das
-Feste, wechselte Reine Frauenzimmer ist, das uns je
-den Weg lief. Sohn ihre Pikanterie — äußerlich — entschädigte
+ich wieder eine so alltägliche Sache, obwohl ja Isolde das
+keckste, niedlichste kleine Frauenzimmer ist, das uns je
+den Weg lief. Doch ihre Pikanterie — äußerlich — entschädigte
 nicht für die trostlose Öde dieser Extratour des
-kleinen &räuleing.«
+kleinen Fräuleins.«
 
-Ich rückte mir den zweiten Sessel näher und!ließ mich
+Ich rückte mir den zweiten Sessel näher und ließ mich
 mit Schwung hineinfallen. »Harald, mal ehrlich … Was
 tat Hamiti, der also kein Kanake ist, in Nummer drei? War
-er etwa bei Zypresse Kittel?«
+er etwa bei Therese Kittel?«
 
-»In wüßte nicht, daß dort noch jemand wohnt …
-Es war elf Uhr. Bei Therese im Käpten brannte noch Licht.
-Leider hatte sie die Vorhänge der Kellerfenster so dicht Erschlossen,
+»Ich wüßte nicht, daß dort noch jemand wohnt …
+Es war elf Uhr. Bei Therese im Keller brannte noch Licht.
+Leider hatte sie die Vorhänge der Kellerfenster so dicht geschlossen,
 daß ich nichts sah und nur undeutlich eine
 <@pagebreak/>
 Männerstimme vernahm … Therese schrie einmal entsetzt
 auf: »Also abschlachten …?! Nur das nicht!!« Möglich,
 daß sich dies auf die Tauben bezog … Wie gesagt, dieses
-abendliche kleine Intermezzo gewinnt erst wie besondere Bedeutung
-… « Er lächelte mit der Linken den Zigarettenrauch
+abendliche kleine Intermezzo gewinnt erst heute besondere Bedeutung
+…« Er fächelte mit der Linken den Zigarettenrauch
 fort und fügte hinzu: »Du gehst also nachmittags zu
 Bendig und schenkst ihm acht Rosenstöcke, die wir übrig
 Haben. Sepp trägt sie. Ich werde Mr. Edward Folker besuchen
-— natürlich nicht als Harst. Der Totenkopf mit Golde
-drüben läßt so allerlei ahnen.«
+— natürlich nicht als Harst. Der Totenkopf mit Goldbrücken
+läßt so allerlei ahnen.«
 
-Mathilde kam und bat uns zu Tisch, Als wir durch
-den Hinterflur schritten, war die Küchentür weit offen. Um
+Mathilde kam und bat uns zu Tisch. Als wir durch
+den Hinterflur schritten, war die Küchentür weit offen. Am
 Fenstertisch saßen Therese Kittel und ihr Junge und ließen
-sich den Kalbsbkaten schmecken. Therese nickte uns zu, und
-ihre Brille rutschte die auf die Nasenspitze … Es war
+sich den Kalbsbraten schmecken. Therese nickte uns zu, und
+ihre Brille rutschte bis auf die Nasenspitze … Es war
 Waschtag. Der Kalbsbraten war weich, ich aß trotz der
-frischen Zahnlücken, nur das Gemüse’ ließ ich unberührt.
+frischen Zahnlücken, nur das Gemüse ließ ich unberührt.
 Frau Harst plauderte über die reiche Kirschenernte, und auf
-den Fensterbrettern der Veranda saßen wie immer die Spaten
+den Fensterbrettern der Veranda saßen wie immer die Spatzen
 und warteten auf ihren Anteil,
 
 Plötzlich kam die Mathilde hereingekeucht und kreischte
 gänzlich verstört:
 
-»Die Kitteln ist umgefallen, …!!«
+»Die Kitteln is umjefallen, …!!«
 
-Das hieß wohl: in Ohnmacht gefallen, —« und wir
+Das hieß wohl: in Ohnmacht gefallen, — und wir
 eilten in die Küche, indem wir wieder die Verandatreppe
 als nächsten Weg benutzten.
 
 Therese Kittel war schon wieder zu sich gekommen. Sie
-stierte uns von. unten verlegen an … »Der passiert mir
+stierte uns von unten verlegen an … »Det passiert mir
 manchmal …« sagte sie matt und wischte sich den Schweiß
 von der Stirn.
 
-Sepp stierte unverwandt in seinen, Hochgestellter und
+Sepp stierte unverwandt in seinen Kompotteller und
 rutschte auf seinem Stuhl hin und Her, als ob er ein
 schlechtes Gewissen hätte. Wir kehrten in die Veranda zurück,
 
-»Weißt du,« meinte Hart! auf der Treppe, »im möchte
+»Weißt du,« meinte Harst auf der Treppe, »ich möchte
 wetten, der Junge Hat in der Freude seines Herzens über
 <@pagebreak/>
-die zwei Mark zu neuen Scharren seiner Mutter von
+die zwei Mark zu neuen Schlorren seiner Mutter von
 dem geplanten Taubenaustausch etwas erzählt, und das
 ging Therese auf die Nerven … Ich war sehr unvorsichtig.«
 
-Gleich’ nach Tisch erklärte die dürre Kittel, sie müsse
+Gleich nach Tisch erklärte die dürre Kittel, sie müsse
 mal flink nach Hause, sie erwarte jemand, sie würde in einer
-halben Stunde wieder da sein. »S’ ist Ihnen doch roh;
+halben Stunde wieder da sein. »S’ ist Ihnen doch recht,
 Frau Harst … Mir will nämlich ’n Mann n’ Zentner
-Preßkohlen von ’8 Armenamt bringen … Sonst trifft er
+Preßkohlen von ’s Armenamt bringen … Sonst trifft er
 mir nie zu Hause an …«
 
-Sie 3909 ab, Sie hakte es sehr eilig, Aber noch eiliger
-Hatten wir es, Wir nahmen unsere Räder und jagten auf
+Sie zog ab. Sie hatte es sehr eilig. Aber noch eiliger
+Hatten wir es. Wir nahmen unsere Räder und jagten auf
 einem Umweg ihr voraus, stellten die Räder bei dem Bäcker
 in der Zoppoter Straße ein und waren mit Hilfe eines
 Dietrichs als erste in der elenden Kellerbehausung des leeren
 Hauses, die wir heute zum ersten Male betraten, schlossen
 Hinter uns wieder ab und schlichen durch Küche, Schlafraum
 und ein dunkles Gelaß lautlos bis zu dem vorderen
-Raum, Harst hob den uralten Teppich, der hier den Türvorhang
+Raum. Harst hob den uralten Teppich, der hier den Türvorhang
 vertrat, und … regte sich nicht mehr, schaute still
 auf die elegante junge Dame, die dort vor einer schäbigen
-Konnte k?viele und in der untersten Schieblade herumwühlte.
+Kommode kniete und in der untersten Schieblade herumwühlte.
 
-Ich traute meinen Augen nicht … Es war Sollte
+Ich traute meinen Augen nicht … Es war Isolde
 Piersch, Tochter des Zahnarztes aus Zehlendorf-Berlin,
 
-Harald Rüttelte, Sie schnellte empor, sie wurde Leichen
-blaß, ihr pikantes Jungengesicht drückte hellstes Entsetzen
+Harald hüstelte. Sie schnellte empor, sie wurde leichenblaß,
+ihr pikantes Jungengesicht drückte hellstes Entsetzen
 aus,
 
 Aber Harst winkte schon … »Frau Kittel kommt …
-Rasch?!« Er packte Isolde um die Taille und trug sie halb
-in den suchten Baum hinein und drängte sie hinter einen
-Bruder aufgeschichteten Stapel Brennholz, hinter dem wir
-Brei gerade Platz Hatten.
+Rasch!!« Er packte Isolde um die Taille und trug sie halb
+in den dunklen Raum hinein und drängte sie hinter einen
+sauber aufgeschichteten Stapel Brennholz, hinter dem wir
+drei gerade Platz Hatten.
 
 »Atmen Sie leiser!« warnte Harst. Isolde seufzte tief
 und lehnte sich so fest an mich daß ich schon fürchtete, sie
 würde umsinken.
 
-Eine Tür klappte … Rasche Schritte, … Die Kittel
+Eine Tür klappte … Rasche Schritte … Die Kittel
 <@pagebreak/>
-ging in den vorderen Raum. Ich hatte die Schiebkarre 42-
-schlossen. Sie merkte nichts, Der Teppich. versperrte uns den
+ging in den vorderen Raum. Ich hatte die Schieblade geschlossen.
+Sie merkte nichts. Der Teppich versperrte uns den
 Einblick, aber wir vernahmen ein Knarren, dann ein leises
-Schrillen, »utd dann Thereses Stimme;
+Schrillen, und dann Thereses Stimme:
 
-»Bitte Brabant, …«
+»Bitte Brabant …«
 
 Stille …
 
-Dann: »Ich c’est Dienste …« Darauf folgten einige
-Säße in einer mir gänzlich fremden Sprache …
+Dann: »Ici c’est Therese …« Darauf folgten einige
+Sätze in einer mir gänzlich fremden Sprache …
 
-Wieder erklang das leise Grellen, wieder das Knarren,
+Wieder erklang das leise Schrillen, wieder das Knarren,
 und die Waschfrau, die soeben Brabant angerufen und französisch
 gesprochen Hatte und die noch eine fremde Sprache
-Wege rechte, verließ ihre Kellerbehausung und schloß hinter
-…
+beherrschte, verließ ihre Kellerbehausung und schloß hinter
+sich ab.
 
 Harst glitt hinter dem Holzstoß hervor und schlüpfte in
-den Borberraum, rief dann: »Sie ist weg … Bitte, Kraus.
-sein Piersch, Sie können nun ebenfalls hereinkommen und
+den Vorderraum, rief dann: »Sie ist weg … Bitte, Fräulein
+Piersch, Sie können nun ebenfalls hereinkommen und
 Ihre Tätigkeit fortsetzen.«
 
-Isolde Zimmerte sich an mir fest …
+Isolde klammerte sich an mir fest …
 
-»Gott im Himmel, wäre ich nie hierher gekommen?«
+»Gott im Himmel, wäre ich nie hierher gekommen!«
 stöhnte sie.
 
-Harst hob den Teppich, »Bitte!! Sie werden uns nun
-wohl notwendig einiges erklären müsse?:1.«
+Harst hob den Teppich. »Bitte!! Sie werden uns nun
+wohl notwendig einiges erklären müssen.«
 
-3\. Mantel,
+<h2>3. Kapitel.</h2>
 
-Etwas viel auf einmal …
+<h3>Etwas viel auf einmal …</h3>
 
 »Es ist immerhin etwas eigentümlich, daß eine Waschfrau
 einen Telephonanschluß besitzt und fremde Sprachen
@@ -780,7 +780,7 @@ nicht im entferntesten nahe.
 
 Nacht einer Weile hörte ich Harst mich rufen. Ich betrat
 wieder das dunkle schmale Gelaß und fand ihn in dem geöffneten
-Versteck, in dem außer einem Bett,.Tisch, Schrank«
+Versteck, in dem außer einem Bett, Tisch, Schrank«
 den, Waschständer noch ein Telephon an der Wand hing.
 
 Isolde war verschwunden.
@@ -827,11 +827,11 @@ Er legte den Kopf so, daß der »Hals in den Kragen des
 Skeletts hineinpaßte, und meinte: »Also, Mr. Edward Folker
 der Zweite! Was hältst du davon?«
 
-»Ich Halte dies für das merkwürdigste Problem,.das uns
+»Ich Halte dies für das merkwürdigste Problem, das uns
 je.
 
 Harst verzog schmerzlich den Mund. Nichts war ihm
-gräßlicher, ah?? wenn man die Ausdrücke »Problem«, »Des
+gräßlicher, ah?! wenn man die Ausdrücke »Problem«, »Des
 Gattin« und »Kombination« gebrauchte. — »Überlasse das
 doch bitte dem alten Sherlock Holmes? sagte er dann stets.
 »In seinen ZSumore8ken mag dies am Plätze sein!« — Hier
@@ -880,7 +880,7 @@ schon erwähnte. Dieser blasse verbrauchte Mann mit der uns
 gefunden gelbfahlen Gesichtsfarbe, dem dünnen grauen KünstslersMopf
 und dem. noch dünneren Spitzbart und dem blaue«-
 lieben Kneifer auf unschöner dicker Nase empfing uns im Boys
-Arten, wo er Mit der Gartensprite die dürstende Erde
+Arten, wo er Mit der Gartenspritze die dürstende Erde
 tränkte. Er trug ein« Leinenjacke, die wohl rote aus den
 Tropen stammte, und schielte uns aus kleinen Augen erstaunt
 an. Er schielte beiderseits, und man wußte nie
@@ -964,7 +964,7 @@ großen Koffern verreist. Wohin, das war nicht zu Fenstern,
 <h3>Assistent Knobel.</h3>
 
 Eis war Herzen sechs Uhr nacdhnnittags, »8 uns das
-Auto in der Nähe des Grünkramkeller8 absetzte. Wir wollten
+Auto in der Nähe des Grünkramkellers absetzte. Wir wollten
 unsere Räder holen. Daheim hatten wir nur von ahnen
 Autotour gesprochen, auch Sepp war unser eiliges Aufs
 Bruch wohl kaum aufgefallen. Während der Fahrt von
@@ -1016,7 +1016,7 @@ schnell die Räder zur Straße empor. Da das Pflaster hi
 bis zur Zoppoter Straße einfach skandalös ist, schoben wi
 zunächst die Maschinen, kamen am Schwammhaus Unruhe
 und suchten verstohlen in die Kellerfenster hinein. Tieres
-schien rote.nicht daheim zu sein. Ich wollte mich den
+schien noch nicht daheim zu sein. Ich wollte mich den
 gerade in den Sattel schwingen, als Harst meinen Art
 
 e,
@@ -1034,7 +1034,7 @@ in das Gewächshaus, und Harald schritt die Reisen auf.
 Es was der niederträchtigste und hinterlistigste Attentatsversuch,
 den man jemals gegen uns ersonnen hatte.
 In den Luftschläuchen stecken kleine Dynamitpatronen mit
-Druczündern, Hätten wir uns in die Sättel geschwungen.
+Druckzündern, Hätten wir uns in die Sättel geschwungen.
 dann wären durch die Last unserer Körper die Batronenx
 explodiert und zumindest hätten wir schwere Forschungen
 davongetragen.
@@ -1045,7 +1045,7 @@ hingesehen hättest, würdest du bemerkt haben, daß vom
 Dache des Schwammhauses noch immer eine Telephonleitung.
 noch Wollten läuft und zwar bis zum Hause der dicken
 Heller … Die Heller war auch außerordentlich erregt über
-meine Frage, ob Karten … ch — still, der Sepp
+meine Frage, ob Karten … ich — still, der Sepp
 kommt …«
 
 Josef Kittel nahte vergnügt pfeifend, drei Pflückörbe
@@ -1064,7 +1064,7 @@ Wir traten ins Freie, Harald fragte den Zungen:
 »Schläfst du eigentlich immer sehr fest, Sepp?«
 
 »Ja Co …! Mutter füllt ja getrost Braunbier ab,
-und abends frieg’ ich immer ein Glas … Manchmal
+und abends krieg’ ich immer ein Glas … Manchmal
 schmeckt’s mw! bißchen bitter, aber meist ist ’8 gut …«
 
 »Bitter … so so … — Wo habt ihr eigentlich
@@ -1238,7 +1238,7 @@ Herr Knobel entsprang kaum der Vorstellung, die man
 sich von einem Großstadtdetektiv macht. Sein Äußeres
 wirkte geradezu nervenberuhigend. Er war klein, dünn und
 trug einen Lodensportanzug mit Gummikragen und einen
-hellblauen Schlips. Sein Gesicht hatte inädchenhafte Züge,
+hellblauen Schlips. Sein Gesicht hatte mädchenhafte Züge,
 seine braunen Augen hätte jede Filmdiva gebrauchen.
 können, und sein blonder, leicht gewellter Scheitel duftete
 nach Brennschere und Harst. Er aß zierlich und gewandt
@@ -1262,7 +1262,7 @@ spürt.«
 Knobel blickte Harst seelenvoll an und erwiderte: »Was
 eine Drahtschlinge werden soll, krümmt sich beizeiten.«
 
-Auf diese Weise ward die Tishunterhaltung mehr des
+Auf diese Weise ward die Tischunterhaltung mehr des
 Aufbinden Art, Aber Knobel»-Maxe war ein geriebener Bursche,
 und erst als wir bei einem Glase Mosel in Harsts Arbeitszimmer
 saßen, ließ Knobel die Maske fallen,
@@ -1312,7 +1312,7 @@ jeder beugen!«
 »Also — Sie streuen den Leuten Sand in die
 Augen « …«
 
-»Ja,« sagte Knobel sehr ernst. «Ich bin vom Ehrgeize
+»Ja,« sagte Knobel sehr ernst. »Ich bin vom Ehrgeize
 geplagt, und deshalb habe ich gewagt, mich selbst zum
 Zirkusklown gut zu frisieren, — so kann ich leichter schürfen,
 spüren. — Doktor Piersch/ ein Zahnarzt hager, bleich, vollführte
@@ -1443,7 +1443,7 @@ Harald reihte dem Chauffeur noch gewagt und kam
 hinter uns her geschlendert. »Wollen Sie uns hinten durch
 den Garten führen, Herr Knobel?«
 
-»It …« Knobels poetische Ader war versiegt.
+»Is …« Knobels poetische Ader war versiegt.
 
 Wir Schritten an der Villa vorüber. Die Abendröte am
 Himmel hatte Erbarmen mit dem geschwärzten Dachgebälk
@@ -1603,7 +1603,7 @@ Beispiel. — Immerhin, erzählen Sie bitte … Ich); bin
 einigermaßen gespannt. Und dann werde ich immer durstig.
 Der Rotwein ist gut. Folker hatte Bad. Nein — er hat
 Geld. Er hat heute früh von der hiesigen Filiale der Siebente-«
-Bank sein ganzes Guthaben abgehoben, fünfunddreißigtaufend
+Bank sein ganzes Guthaben abgehoben, fünfunddreißigtausend
 Frack.«
 
 »also um neun gleich nach Kassenersffnung, denn um
@@ -2263,7 +2263,7 @@ Verbindungen
 
 Das Auto hielt vier Häuser vor dem Grünkramkeller.
 Harst reichte dem Chauffeur zwanzig Mark. »Warten Sie
-hier,.!« — Es regnete auch hier in Strömen. Als wir
+hier…!« — Es regnete auch hier in Strömen. Als wir
 Davonschritten, tauchte neben uns eine kleine Gestalt auf.
 »Tag bin untröstlich,« jagte Max Knobel demütig, »daß
 im als blinder Passagier mitfahren mußte. Es war sein
@@ -2388,7 +2388,7 @@ sehen: Bydroop!«
 Doktor Arthur Bydroop, Königs. siamesischer Bezirksarzt ad,
 Schmargendorf, Kissinger Straße 78.«
 
-»Das ist ja die Niesenvilla neben der Bendigs!« rief
+»Das ist ja die Riesenvilla neben der Bendigs!« rief
 ich,
 
 Knobel klappte das Buch zu. »Das ist das Hauptquartier
@@ -2633,7 +2633,7 @@ Hineingezogen in eure elenden Betrügereien! Die beiden
 Erben zu beseitigen, — dazu wart ihr zu feige!! Aber meinen
 Vater niederzuknallen, der ganzandere3 vorhatte, als Harst
 
-in eine Falle zu locken, ch dem aber dieser unerhörte
+in eine Falle zu locken, ich dem aber dieser unerhörte
 Schwindel!Hon zuwider war und von dem ihr wohl Der«
 Rat befürchtetet, — der mich zu Therese in den Keller
 
@@ -2656,16 +2656,16 @@ doch Gefangensetzen von Boden Natur bei Bangkok befand sich
 aus der deutsche Steuermann Josef Kleist, der mehrere
 Jahre in den Bergen von Sicherung in Siam heimlich
 eine Goldfundstelle ausgebeutet hatte. Kleist hatte das gewonnene
-Gold sicher versteckt,.war ahnungslos in kultivierte
+Gold sicher versteckt…war ahnungslos in kultivierte
 Gegenden zurückgekehrt und wurde interniert. Er hatte
 <@pagebreak/>
 die Seinen ohne jede Nachricht gelassen, galt für tot. Seine
-Frau, von der er sich;!Chor früher getrennt hatte, war bartlos
+Frau, von der er schlichen früher getrennt hatte, war bartlos
 genug gewesen, die beiden Kinder Fremden zu überlassen:
 Gwenda kam zu einer entfernten Verwandten nach
 Bansin, die sich Kleid nannte, obwohl sie Kleist hieß. Insel
-Kleist wurde schon als Säugling ja einem Heim unter«
-gebracht. — Steuermann Kleist schloß sich im Gefangenenlager
+Kleist wurde schon als Säugling ja einem Heim untergebracht.
+— Steuermann Kleist schloß sich im Gefangenenlager
 an eine Anzahl von Deutschen an, die dort den Klub
 gegründet hatten. Als Kleist am Sumpffieber erkrankte und
 den Tod nahen fühlte, schrieb er noch eigenhändig zwei für
@@ -2738,7 +2738,7 @@ herausgekommen, —
 
 Frau Knobel hat Herbstmantel und Herbsthut ganz nach
 Unrecht kaufen können. Gwenda und Sepp haben Max
-Knobel eine Summe gesteuert,.die zu einem ganzen Wobei
+Knobel eine Summe gesteuert…die zu einem ganzen Wobei
 Haus hingereicht hätte.
 
 Der Klub Fell»—Ei-See wird noch immer im Zuchthaus
