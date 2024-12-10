@@ -634,29 +634,29 @@ wohl notwendig einiges erklären müssen.«
 »Es ist immerhin etwas eigentümlich, daß eine Waschfrau
 einen Telephonanschluß besitzt und fremde Sprachen
 beherrscht,« sagte Harst und beschaute den Holzkasten, der
-an der Wand hing und ein Wandschränkchen Darsteller
-sollte, »Hinter diesen Lumpen vermutet niemand einen Fernsprecher
+an der Wand hing und ein Wandschränkchen darstellen
+sollte. »Hinter diesen Lumpen vermutet niemand einen Fernsprecher
 … Finden Sie das alles nicht auch sehr merkwürdig,
 Fräulein Piersch?«
 
-Die saß in einem Korbsessel, der offenbar von einem.
+Die saß in einem Korbsessel, der offenbar von einem
 <@pagebreak/>
 Müllabladeplatz stammte, und schaute mit verkniffenem Munde
 zu Boden,
 
-… Konnten Sie verstehen, Fräulein Gleich, was die
+»… Konnten Sie verstehen, Fräulein Piersch, was die
 Kittel meldete?«
 
-Das junge Mädel, rank, schlank, rassig, — eine man
-deine Sportlady, erwiderte leise: »Ja —« sie sagte zuerst
-auf französisch: »Hier ist Anbetete.« Und dann — —
-das andere verstand ich nicht …
+Das junge Mädel, rank, schlank, rassig, — eine moderne
+Sportlady, erwiderte leise: »Ja — sie sagte zuerst
+auf französisch: »Hier ist Therese.« Und dann — —
+das andere verstand ich nicht …«
 
-Harst Frühe den Wandkasten zu »So?! Sie verstanden
-das nicht, .?! Hm — Sie sind doch in Bangkok aufs
-gewachsen, … Ihr Vater war dort Regierungsarzt … Er
-ist ja nicht. nur Zahnarzt. Sie wohnen erst vier Jahre in
-Zehlendorf. Therese sprach siamesisch … I:H werde ihr die
+Harst drückte den Wandkasten zu. »So?! Sie verstanden
+das nicht …?! Hm — Sie sind doch in Bangkok aufgewachsen
+… Ihr Vater war dort Regierungsarzt … Er
+ist ja nicht nur Zahnarzt. Sie wohnen erst vier Jahre in
+Zehlendorf. Therese sprach siamesisch … Ich werde ihr die
 Waschtage höher bezahlen müssen, denn eine so gebildete
 Waschfrau kann doch nicht mit fünf Mark pro Tag abgespeist
 werden.«
@@ -664,16 +664,16 @@ werden.«
 Er lehnte sich an das Spind neben dem Kasten. »Was
 suchten Sie in der Kommode?«
 
-Isolde wippte mit der Spitze ihres gelben Schusters.
-»Ich werde Ihnen nichts verraten, und worin Sie mich … «
+Isolde wippte mit der Spitze ihres gelben Schuhchens.
+»Ich werde Ihnen nichts verraten, und wenn Sie mich …
 mich …«
 
-»Im — gestatten Sie … Vor einer Woche verschwanden
+»Hm — gestatten Sie … Vor einer Woche verschwanden
 Sie aus der Villa Ihres Vaters und hinterließen einen
-Brief, daß Sie nach; Doberan zum Tennisturnier führen. Ihr
+Brief, daß Sie nach Doberan zum Tennisturnier führen. Ihr
 Vater rief abends in Doberan an. Sie waren nicht dort.
 Er kam zu uns, und wir suchten Sie sechs Tage ohne
-Erforschte Polizei wollte ihr Vater nicht benachrichtigen,
+Erfolg. Die Polizei wollte ihr Vater nicht benachrichtigen,
 da Sie schon Häufiger solche … Extratouren sich geleistet
 hatten — pardon! Dann tauchten Sie daheim wieder auf
 und erzählten, Sie wären mit Ihrem Selbstfahrer im Harz
@@ -682,31 +682,31 @@ Autoausflug mit der einen bedenklichen Seite, daß Sie
 Ihren Vater sieben Tage ohne jede Postkarte oder sonstige
 Nachricht ließen … — Schraut und ich hatten sechs Tage
 <@pagebreak/>
-zwecklos vertrödelt. Glauben Sie, daß ich an den Harz
+zwecklos vertrödelt. Glauben *Sie*, daß *ich* an den Harz
 glaube. Harst ist durchaus Harz-ungläubig.«
 
-Isolde hob das schmale Köpfchen, Ihre schwarz nach.
-gezogenen- Augenbrauen waren eng aneinander gerät, und
+Isolde hob das schmale Köpfchen. Ihre schwarz nachgezogenen
+Augenbrauen waren eng aneinander gerückt, und
 dazwischen lagen drei tiefe Stirnfalten. Sie blickte Harald
 kampflustig an. »Ich war im Harz!«
 
-»Sie waren vorhin sehr kleinmütig, »nun sind Sie nicht
+»Sie waren vorhin sehr kleinmütig, nun sind Sie nicht
 gerade großmütig, mein Fräulein … Sie sollten mir doch
 die Vergeudung von Hirnarbeit sparen. — Ihr »Harz« war
-dieser Raum hier … »Ei«
+dieser Raum hier …!!«
 
 Sie fuhr halb empor …
 
-»Zier?! Welt ein Unsinn«
+»Hier?! Welch’ ein Unsinn!«
 
 Harald betonte klar: »Sie waren hier!! Therese wußte das
-er Ich behaupte, man hat Sie hier gefangen gelten.«
+natürlich. Ich behaupte, man hat Sie hier gefangen gehalten.«
 
-Isolde lachte ironisch. »Märchen … »11«
+Isolde lachte ironisch. »Märchen …!!«
 
-»Ja …! Alle Märchen beginnen: Es war Erinnerst
-—» Sie kennen doch das Lied von Linke …? Sie kennen
-sicherlich rote weit mehr als dies … Wissen. Sie zum
+»Ja …! Alle Märchen beginnen: Es war einmal!!
+— Sie kennen doch das Lied von Linke …? Sie kennen
+sicherlich noch weit mehr als dies … Wissen Sie zum
 Beispiel, daß Hamiti, der Diener Arthur Bendigs, im Regen
 die Farbe wechselt?!«
 
@@ -714,31 +714,31 @@ Isolde biß sich auf die Unterlippe und stieß einen
 ächzenden Laut aus. Aber noch war ihre Widerstandskraft
 nicht gebrochen. »Wer … ist Hamiti?!« fragte sie kühn …
 
-»Das werden Sie mir sagen — sofort,« meinte Harst
-stärkeren Tones, »Vorläufig vermute ich nur, daß Hand
-Bendig Sie hierher verschleppt haben … Ist es
-oy1«
+»Das werden *Sie* mir sagen — sofort,« meinte Harst
+stärkeren Tones. »Vorläufig vermute ich nur, daß Hamiti
+und Bendig Sie hierher verschleppt haben … Ist es
+so?!«
 
 Sie erblaßte, und ein Zittern befiel sie. Sie stammelte
-tonlos: »Ich: … ich darf … nicht … sprechen …:« Gräßlich
+tonlos: »Ich: … ich darf … nicht … sprechen …« Plötzlich
 sprang sie auf und haschte nach Haralds Hand. Tränen
-liefen ihr über die leichtgepuderten: Wangen. »Seien Sie
-barmherzig …!! Es geh! um ein Menschenleben! Hätte mich
-Therese hier bemerkt, lehnte ich nicht mehr …!« Sie wandte
-und fiel Harald in die Arme. Sie schluchzte an einer Brust,
+liefen ihr über die leichtgepuderten Wangen. »Seien Sie
+barmherzig …!! Es geht um ein Menschenleben! Hätte mich
+Therese hier bemerkt, lebte ich nicht mehr …!« Sie wankte
+und fiel Harald in die Arme. Sie schluchzte an seiner Brust,
 <@pagebreak/>
-und es dauerte sehr lange, ehe sie sie beruhigt hatte,
+und es dauerte sehr lange, ehe sie sich beruhigt hatte,
 
-»Kommen Sie,,!« sagte sie dann, und es war erstaunlich,
+»Kommen Sie …!« sagte sie dann, und es war erstaunlich,
 welche Energie sie aufbringen konnte.
 
 Sie schloß die Küchentür mit einem Dietrich auf und
 ging durch den Flur zum Kellereingang der Westhälfte des
-leeren Schwanmnthauses. Ihre Haltung verriet, wie falsch es
-»gewesen wäre, etwa durchs Drohungen von ihr ein Geständnis
+leeren Schwammhauses. Ihre Haltung verriet, wie falsch es
+gewesen wäre, etwa durch Drohungen von ihr ein Geständnis
 zu erpressen. Sie schritt hastig mit etwas zurückgeworfenem
-Kopf, und man brauchte ihren Gesichtäausdru&X gar nicht
-zu sehen, um mit aller Beisitimmtheit erraten zu können,
+Kopf, und man brauchte ihren Gesichtsausdruck gar nicht
+zu sehen, um mit aller Bestimmtheit erraten zu können,
 daß sie niemals nachgeben würde und daß sie zu einem festen
 Entschluß gelangt war.
 
@@ -747,8 +747,8 @@ die Brennholz nötig gehabt hatten, waren dem Hauseigentümer
 liebenswürdigst bei den Abbruchsarbeiten zu Hilfe
 gekommen.
 
-Diese Keller waren bis auf faulende Stroh« und Zolzwoltehaufen
-leer. Südspitze Nässe bedeckte die Ziegel der?
+Diese Keller waren bis auf faulende Stroh- und Holzwollehaufen
+leer. Glitschige Nässe bedeckte die Ziegel des
 Fußbodenbelags. Der Regen fand hier durch die offenen
 Fenster ungehindert Zutritt,
 
@@ -759,114 +759,115 @@ Harst sagte leicht nickend: »Das ist eine später errichtete
 Rabitzwand, die man mauerähnlich überpinselt hat.«
 
 Das junge Mädchen meinte ernst: »Ja, — Sie haben
-gutes Augenmaß, Herr Harst.« Sie ging in die dunkelte
+gutes Augenmaß, Herr Harst.« Sie ging in die dunkelste
 Ecke, bückte sich und faßte mit dem Zeigefinger in eine breite
-Fuge der Ziegelsteine des Bodens, Sie spannte ihren Körper
+Fuge der Ziegelsteine des Bodens. Sie spannte ihren Körper
 an, ihr Arm krümmte sich, und ein Teil der Wand, ein
 Zackiges Stück, drehte sich nach außen.
 
-Harald, der vorsichtig in der Jüngling gewartet hatte,
+Harald, der vorsichtig in der Türöffnung gewartet hatte,
 schaltete seine Taschenlampe ein. Isolde war bereits hinter
 dieser unregelmäßig geformten Drehtür verschwunden.
 
-Zuweilen ist man zu vorsichtig. W3 das Wandstück sehr
+Zuweilen ist man zu vorsichtig. Als das Wandstück sehr
 rasch zuklappte, hatte es Harst, der die Kante noch gerade
 <@pagebreak/>
-packen konnte, fast die Finger abgeklemmt, — Ich sagte nur:
-»Sie Maus in der Fallen« Und eilte in den linken Neben.
-Raum, um Starkes Entweichen zu verhindern. Ich vermutete
-eine zweite ähnliche Tür, aber auch; das kam der Wahrheit
+packen konnte, fast die Finger abgeklemmt. — Ich sagte nur:
+»Die Maus in der Falle!!« Und eilte in den linken Nebenraum,
+um Isoldes Entweichen zu verhindern. Ich vermutete
+eine zweite ähnliche Tür, aber auch das kam der Wahrheit
 nicht im entferntesten nahe.
 
 Nacht einer Weile hörte ich Harst mich rufen. Ich betrat
 wieder das dunkle schmale Gelaß und fand ihn in dem geöffneten
-Versteck, in dem außer einem Bett, Tisch, Schrank«
-den, Waschständer noch ein Telephon an der Wand hing.
+Versteck, in dem außer einem Bett, Tisch, Schränkchen,
+Waschständer noch ein Telephon an der Wand hing.
 
 Isolde war verschwunden.
 
 Und doch enthielt das Versteck noch einen Bewohner.
-Auf dem schmalen’ eisernen Feldbett lag auf rotseidenen SteppdeiFe
+Auf dem schmalen eisernen Feldbett lag auf rotseidener Steppdecke
 ein prächtiger weißer Angorakater mit unwahrscheinlich
-dicken Kopf und riesengroßen klugen Augen. Der Lichtkegel
-der Taschenlampe ließ diese Augen gefährlich bitten.
+dickem Kopf und riesengroßen klugen Augen. Der Lichtkegel
+der Taschenlampe ließ diese Augen gefährlich blitzen.
 »Glas!« sagte Harst und warf den ausgestopften Kater auf
-dort Boden, hob die Steppdecke und das blütenweiße Endet
+den Boden, hob die Steppdecke und das blütenweiße Zudeck
+…
 
 Uns beiden lief es eiskalt über den Rücken. In dem Bett
 lag ein menschliches Skelett ohne Kopf.
 
-An sie hat ein präpariertes Skelett mit den üblichen
+An sich hat ein präpariertes Skelett mit den üblichen
 Messingdrähten, die die Knochen zusammenhalten, nichts
 Grausiges an sich. Dieses Skelett jedoch war bekleidet mit
-Kragen, Krawatte, Oberhemd, Frack nötig weiter — —
-und Lakschhauben ’und weißen Handschuhen. Das Oberhemd
-hoffte breit, die Weste war aufgeknöpft, ebenso die Fackel«
-los gebügelten Beinkleider. Man ganz also die Rippen, die
+Kragen, Krawatte, Oberhemd, Frack und so weiter — —
+und Lackschuhen und weißen Handschuhen. Das Oberhemd
+klaffte breit, die Weste war aufgeknöpft, ebenso die tadellos
+gebügelten Beinkleider. Man sah also die Rippen, die
 Backenknochen, die Wirbelsäule, und der Kopf fehlte. Ein
 Knochenmann ohne Kopf im Frack wirkt zumindest abstoßend.
 In dieser Umgebung, in diesem muffigem Gestank und unter
 diesen Umständen war Haralds leises: »Einfach scheußlich!«
 durchaus berechtigt.
 
-Die größte Überraschung kam noch. Harst befüllte ohne
+Die größte Überraschung kam noch. Harst befühlte ohne
 viel Respekt vor dem Bettinhaber die Kissen und brachte so
-einen Wachskopf zum Vorschein, der wirklich glänzend 9qc-
+einen Wachskopf zum Vorschein, der wirklich glänzend gearbeitet
 <@pagebreak/>
-arbeitet war. Ich rief sofort: »Das ist Mr. Edward Folker
+war. Ich rief sofort: »Das ist Mr. Edward Folker
 aus Zehlendorf, das ist der Mann, den ich bei Bendig flüchtig
 sah und der den Schädel mit den Goldbrücken vergessen
 hatte! Die Ähnlichkeit ist verblüffend!«
 
 Harald betrachtete den Kopf sehr genau. »Ein Irrtum
-ist ausgeschlossen.?«
+ist ausgeschlossen?«
 
 »Vollständig ausgeschlossen,« versicherte ich.
 
-Er legte den Kopf so, daß der »Hals in den Kragen des
+Er legte den Kopf so, daß der Hals in den Kragen des
 Skeletts hineinpaßte, und meinte: »Also, Mr. Edward Folker
 der Zweite! Was hältst du davon?«
 
 »Ich Halte dies für das merkwürdigste Problem, das uns
-je.
+je …«
 
 Harst verzog schmerzlich den Mund. Nichts war ihm
-gräßlicher, ah?! wenn man die Ausdrücke »Problem«, »Des
-Gattin« und »Kombination« gebrauchte. — »Überlasse das
-doch bitte dem alten Sherlock Holmes? sagte er dann stets.
-»In seinen ZSumore8ken mag dies am Plätze sein!« — Hier
+gräßlicher, als wenn man die Ausdrücke »Problem«, »Detektiv»
+und »Kombination« gebrauchte. — »Überlasse das
+doch bitte dem alten Sherlock Holmes!« sagte er dann stets.
+»In seinen Humoresken mag dies am Platze sein!« — Hier
 sagte er nur: »In der Tat, eine dunkle Geschichte!«
 
-Er breitete die Steppded’e wieder über den Knochenmann,
+Er breitete die Steppdecke wieder über den Knochenmann,
 nachdem er den Wachskopf ebenfalls wieder unter dem Kissen
-verborgen Hatte, Er strich die Decke glatt und legte den Ganz
-sorgloser an die alte Stelle. Das Tier war so ausgestopft,
-daß es einer schlafenden, zusammengeringelten Habe glich.
+verborgen Hatte. Er strich die Decke glatt und legte den Angorakater
+an die alte Stelle. Das Tier war so ausgestopft,
+daß es einer schlafenden, zusammengeringelten Katze glich.
 Dann leuchtete er den Ziegelboden ab und trat mit dem
 Absatz prüfend auf einzelne Steine. Es war nicht schwer,
 die Falltür zu finden. Sie bildete den Einschlupf für einen
 mit Brettern abgestützten Gang, der zu dem Stallgebäude
-des leeren Hauses führte, Der Stall enthielt auch eine Waschküche.
-Einst Hatte in dem Herde ein großer kupferner eine
-gemauerter Kessel gestanden. Der Kessel war entfernt worden,
-und in dem Loch? des Herdes lagen ein mit Sand und Steins
-Gen beklebtes rundes Brett: die Aus8gaängstür des Ganges!
+des leeren Hauses führte. Der Stall enthielt auch eine Waschküche.
+Einst Hatte in dem Herde ein großer kupferner eingemauerter
+Kessel gestanden. Der Kessel war entfernt worden,
+und in dem Loche des Herdes lagen ein mit Sand und Steinchen
+beklebtes rundes Brett: die Ausgangstür des Ganges!
 
 Wir kehrten in das Versteck zwischen Rabitzwand und
-Sand zurück. Wir fanden hier in dem Schränkchen: Gen
-ist, Konserven, einen Spirituskocher, Messer, Gabel,
+Sand zurück. Wir fanden hier in dem Schränkchen: Geschirr,
+Konserven, einen Spirituskocher, Messer, Gabel,
 <@pagebreak/>
-Löffel, einen Hellblausseidenen Damenschlafanzug, einen
-Schminkfkasten, drei Perücken, falsche Bärte, Klebstoff, Wachs
-zum Verändern der Nasenform und eine kleine Reporters
-Pistole nebst drei Rahmen Patronen, Wir ließen alles unberührt
-und wollten nun nach Zeölendorf zu Doktor Piersch
-radeln. Isolde war gedachten hinterlistig gewesen, uns die
+Löffel, einen hellblau-seidenen Damenschlafanzug, einen
+Schminkkasten, drei Perücken, falsche Bärte, Klebstoff, Wachs
+zum Verändern der Nasenform und eine kleine Repetierpistole
+nebst drei Rahmen Patronen. Wir ließen alles unberührt
+und wollten nun nach Zehlendorf zu Doktor Piersch
+radeln. Isolde war jedoch so hinterlistig gewesen, uns die
 Schläuche unserer Räder zu zerschneiden, und wir mußten die
 Räder nebenan in einem Grünkramladen abgeben. Eine Autotaxe
-brate uns über Dahlem nach Zehlendorf. Harald
-lehnte in seiner Ecke und rauchte und warf tief in Je
-danken die erst halb aufgerauchten Mirakulum auf die
+brachte uns über Dahlem nach Zehlendorf. Harald
+lehnte in seiner Ecke und rauchte und warf tief in Gedanken
+die erst halb aufgerauchten Mirakulum auf die
 Straße. Ich störte ihm nicht. Ich kenne ihn ja.
 
 Die Villa des Doktor Piersch lag abseits in einer neuen
@@ -874,23 +875,23 @@ Straße unweit der Krummen Lanke, jenes schmalen gewundenen
 Sees, der früher einmal mit dem weit größeren
 Schlachtensee in Verbindung gestanden haben mag.
 
-Doktor Tieres war uns kein Fremder, wie ich
-
-schon erwähnte. Dieser blasse verbrauchte Mann mit der uns
-gefunden gelbfahlen Gesichtsfarbe, dem dünnen grauen KünstslersMopf
-und dem. noch dünneren Spitzbart und dem blaue«-
-lieben Kneifer auf unschöner dicker Nase empfing uns im Boys
-Arten, wo er Mit der Gartenspritze die dürstende Erde
-tränkte. Er trug ein« Leinenjacke, die wohl rote aus den
+Doktor Piersch war uns kein Fremder, wie ich
+schon erwähnte. Dieser blasse verbrauchte Mann mit der ungesunden
+gelbfahlen Gesichtsfarbe, dem dünnen grauen Künstlerschopf
+und dem noch dünneren Spitzbart und dem bläulichen
+Kneifer auf unschöner dicker Nase empfing uns im Vorgarten,
+wo er Mit der Gartenspritze die dürstende Erde
+tränkte. Er trug eine Leinenjacke, die wohl noch aus den
 Tropen stammte, und schielte uns aus kleinen Augen erstaunt
 an. Er schielte beiderseits, und man wußte nie
 recht, an wen er das Wort richtete,
+
 »Sie, meine Herren?!« Und mit grimmigem Humor
-lose er hinzu: »Isolde ist allerdings wieder mal auf der
-nur … Heute früh fuhr sie na; Swinemünde zum Lauter
+fügte er hinzu: »Isolde ist allerdings wieder mal auf der
+Tour … Heute früh fuhr sie nach Swinemünde zum Tournier
 — vielleicht! Sie glauben ihr nicht, ich noch weniger,
-der die Mädels von Heute sind mit zweiundzwanzig die
-ommandeure ihrer Väter …«
+aber die Mädels von Heute sind mit zweiundzwanzig die
+Kommandeure ihrer Väter …«
 
 Er wischte sich die Hände mit seinem Taschentuche trocken
 und stellte die Spritze ab.
@@ -898,21 +899,20 @@ und stellte die Spritze ab.
 Harst sagte unvermittelt:
 
 <@pagebreak/>
-
 »Kennen Sie Edward Folker, Herr Doktor?«
 
-Piersch) nickte: »Ja … Er hat sich bei mir ’behans
-dein lassen. — Haben Sie an ihm etwas auszusetzen?«
+Piersch nickte: »Ja … Er hat sich bei mir behandeln
+lassen. — Haben Sie an ihm etwas auszusetzen?«
 Dazu lächelte er unmerklich …
 
-»Koch nicht, Herr Doktor … Was fehlte seinen
-Zähnen?’
+»Noch nicht, Herr Doktor … Was fehlte seinen
+Zähnen?«
 
 »Oh — allerlei … behauptete er. Plomben hätten
 genügt … Er wollte jedoch zwei Goldbrücken haben, und
 man soll den Leuten ihr Vergnügen lassen.«
 
-»Also waren die Brüder noch nicht nötig?«
+»Also waren die Brücken noch nicht nötig?«
 
 »Durchaus nicht … Folker hielt nichts von Plomben.«
 
@@ -921,29 +921,29 @@ man soll den Leuten ihr Vergnügen lassen.«
 »Vorgestern setzte ich ihm die zweite ein, und heute vormittag
 war er hier und sprach mir seine volle Zufriedenheit
 aus und bezahlte den Rest und ging. Ein seltsamer
-Kauz, der Wann …«
+Kauz, der Mann …«
 
-»Scheint so …« Harald warf mir einen langen Güte zu,
+»Scheint so …« Harald warf mir einen langen Blick zu,
 
 Doktor Piersch erklärte ernst: »Der Mann ist niemals
 normal! Er redete immerfort von seinen eingebildeten Krankheiten
-und äußerte wiederholt Selbstmordabsichten,« Pierschs
+und äußerte wiederholt Selbstmordabsichten.« Pierschs
 müde, tiefe, farblose Stimme pflegte nach den ersten Worten
-immer leiser zu. werden. Das Sprechen fiel ihm sichtlich
+immer leiser zu werden. Das Sprechen fiel ihm sichtlich
 schwer. Er war sehr kurzatmig,
 
 Harst verabschiedete sich. »Grüßen Sie bitte Fräulein
-Morde … auf Wiedersehen.«
+Isolde … auf Wiedersehen.«
 
-Der Doktor!eufzte,
+Der Doktor seufzte,
 
 Als wir wieder in das Auto stiegen, sprengte er bereits
 seinen Rasen von neuem und nickte uns freundlich nach und
 schielte gräßlich.
 
-Bis zu Folkers- weit größerer Villa brauchte daß Auto
+Bis zu Folkers weit größerer Villa brauchte das Auto
 nur vier Minuten. Auf der Straße Hielt die Feuerwehr,
-eine Unmenge Neugierigen umstanden den Brandplatz. Der
+eine Unmenge Neugieriger umstanden den Brandplatz. Der
 Dachstuhl des Hauses und der zweite Stock waren vernichtet,
 
 Eine Stunde darauf, um halb fünf, fand die Feuerwehr
@@ -951,197 +951,196 @@ im zweiten Stock die völlig verkohlte Leiche Folkers,
 <@pagebreak/>
 Die Polizei stellte fest, daß er sich im Flur an einer dünnen
 Stahldrahtschlinge an einem Wandhaken erhängt hatte. Der
-Kopf hing noch in der Schlinge, — Der Brand war angelegt
+Kopf hing noch in der Schlinge. — Der Brand war angelegt
 worden. Folker hatte um sich her Kisten und Bretter und
-Stroh aufgehäuft, alles mit Petroleum begossen und ansgezünver,
-und Oh dann in der Drahtschlinge sahst gerichtet.
+Stroh aufgehäuft, alles mit Petroleum begossen und angezündet,
+und sich dann in der Drahtschlinge selbst gerichtet.
 Das Personal der Villa hatte er mittags abgelohnt und
 weggeschickt. Seine Tochter war gleichfalls mittags mit zwei
-großen Koffern verreist. Wohin, das war nicht zu Fenstern,
+großen Koffern verreist. Wohin, das war nicht zu ermitteln,
 
 <h2>4. Kapitel.</h2>
 
 <h3>Assistent Knobel.</h3>
 
-Eis war Herzen sechs Uhr nacdhnnittags, »8 uns das
+Es war Herzen sechs Uhr nachmittags, als uns das
 Auto in der Nähe des Grünkramkellers absetzte. Wir wollten
-unsere Räder holen. Daheim hatten wir nur von ahnen
-Autotour gesprochen, auch Sepp war unser eiliges Aufs
-Bruch wohl kaum aufgefallen. Während der Fahrt von
+unsere Räder holen. Daheim hatten wir nur von einer
+Autotour gesprochen, auch Sepp war unser eiliger Aufbruch
+wohl kaum aufgefallen. Während der Fahrt von
 Zehlendorf nach der Heiligendammer Straße erging ich mich
 in den phantastischsten Vermutungen. Doch all das erwies
-sie als trügerisch. Kaum hatte ich irgendeine »Theorie«
+sich als trügerisch. Kaum hatte ich irgendeine »Theorie«
 gefunden, die dem verworrenen Tatsachenmaterial leidlich
-geredet wurde, es zerstörte Harald durch ein einziges Wort
-oder durch einen knappen Saß meine schillernden Seifenblasen.
+gerecht wurde, so zerstörte Harald durch ein einziges Wort
+oder durch einen knappen Satz meine schillernden Seifenblasen.
 Sie zerplatzten vor seiner sarkastischen Nüchternheit,
-vor seiner ungewohnt fühlslogischen Kritik. Er, der selbst
+vor seiner ungewohnt kühl-logischen Kritik. Er, der selbst
 so gern seine tastenden Gedanken ungezügelt schweifen ließ,
-war diesmal ein kalter Rechner, Selbst das eine, was er
-als wahr unterstellte: daß Isolde Tieres; von Bendig und
-Hamiti, dem Gefärbten, mit Wissen der rätselhaften Richtete
-Kittel in dem RabißtBersteck gefangen gehalten grübelten
+war diesmal ein kalter Rechner. Selbst das eine, was er
+als wahr unterstellte: daß Isolde Piersch von Bendig und
+Hamiti, dem Gefärbten, mit Wissen der rätselhaften Therese
+Kittel in dem Rabitz-Versteck gefangen gehalten
 worden sei, tat er mit einem ironischen: »Und das
 Skelett war ihr Kerkermeister!« ab. —
 
 <@pagebreak/>
 In dem Gemüsekeller hockte vorn an der Tür zwischen
-Körben mit Spinat, Salut, Kirschen und anderen vegetarischen
-Genüssen die unheimlich die Inhaberin und las mit einer
+Körben mit Spinat, Salat, Kirschen und anderen vegetarischen
+Genüssen die unheimlich dicke Inhaberin und las mit einer
 Nickelbrille auf der Nasenspitze eine Abendzeitung. Sie
 kannte uns nicht. Ihre Welt endete mit der Kellertreppe.
 Ein verwachsener, blöder Mensch, mit tierischen Zügen,
-den sie zärtlich Karten anredete, wohl ihr Sohn, half
+den sie zärtlich Karlchen anredete, wohl ihr Sohn, half
 ihr im Geschäft. Karlchen hockte im Hintergrund vor einer
 Kiste und schüttete einer Käuferin gerade Kartoffel in das
-Ne!. Die Frau ging, und die alte Heller rief nach hinten:
-»Falschen, bring’ für die Herrens die Räder … — Er
-hat die Schläuche geflickt,« »fügte sie keuchend hinzu …
-»Falschen ist sehr jeschiet …
+Netz. Die Frau ging, und die alte Heller rief nach hinten:
+»Karlchen, bring’ für die Herrens die Räder … — Er
+hat die Schläuche geflickt,« fügte sie keuchend hinzu …
+»Karlchen is sehr jeschickt …«
 
-»Er baut wohl auch Apparate für Radio, oder Helles
-plane … Radiotelephonie,« warf Harald gleichgültig hin.
+»Er baut wohl auch Apparate für Radio, oder Telephone
+… Radiotelephonie,« warf Harald gleichgültig hin.
 
-»Wat?! Telefong8?! Na Nu —, der ist mir neu …!
-Nee, — wie meinen Sie das — — Zeltstange? W Persiens
-haben wir, aber Karlchen … — — nee, er ist leider mit
-Korn nicht so recht in Ordnung …«
+»Wat?! Telefongs?! Na nu —, det is mir neu …!
+Nee, — wie meinen Sie das — — Telefongs? N’ Telefong
+haben wir, aber Karlchen … — — nee, er is leider mit
+’n Kopp nich so recht in Ordnung …«
 
-»Bedauerlich, Frau Heller … Wie lange haben Ei
+»Bedauerlich, Frau Heller … Wie lange haben Sie
 hier den Laden? Bringt er auch etwas ein?«
 
-Aber Kerlchen kam schon mit unseren Rädern, erste
-seine Mark als Trinkgeld, feixte entsetzlich, und wir trage
-schnell die Räder zur Straße empor. Da das Pflaster hi
-bis zur Zoppoter Straße einfach skandalös ist, schoben wi
-zunächst die Maschinen, kamen am Schwammhaus Unruhe
-und suchten verstohlen in die Kellerfenster hinein. Tieres
-schien noch nicht daheim zu sein. Ich wollte mich den
-gerade in den Sattel schwingen, als Harst meinen Art
+Aber Kerlchen kam schon mit unseren Rädern, erhielt
+seine Mark als Trinkgeld, feixte entsetzlich, und wir trugen
+schnell die Räder zur Straße empor. Da das Pflaster hier
+bis zur Zoppoter Straße einfach skandalös ist, schoben wir
+zunächst die Maschinen, kamen am Schwammhaus vorüber
+und äugten verstohlen in die Kellerfenster hinein. Therese
+schien noch nicht daheim zu sein. Ich wollte mich dann
+gerade in den Sattel schwingen, als Harst meinen Arm
+packte.
 
-e,
-»Nicht doch?! Wer wird so leichtfertig sein!«
-Ich schaute ihm verdutzt an. Er bückte sich und deutet
-schweigend auf eine merkwürdige eiförmige Aufstellung da
-Pneumatiks des Hinterrades, »Da — auch bei mir das
-selbe …!! — — Auto, halt.,«
+»Nicht doch!! Wer wird so leichtfertig sein!«
+
+Ich schaute ihn verdutzt an. Er bückte sich und deutete
+schweigend auf eine merkwürdige eiförmige Auftreibung des
+Pneumatiks des Hinterrades. »Da — auch bei mir das
+selbe …!! — — Auto, halt …«
 
 <@pagebreak/>
 Wir verluden die Räder, ließen uns zur Pforte des
 Gemüsegartens fahren, trugen die verdächtigen Maschinen
-in das Gewächshaus, und Harald schritt die Reisen auf.
+in das Gewächshaus, und Harald schritt die Reifen auf.
 
 Es was der niederträchtigste und hinterlistigste Attentatsversuch,
 den man jemals gegen uns ersonnen hatte.
-In den Luftschläuchen stecken kleine Dynamitpatronen mit
-Druckzündern, Hätten wir uns in die Sättel geschwungen.
-dann wären durch die Last unserer Körper die Batronenx
-explodiert und zumindest hätten wir schwere Forschungen
+In den Luftschläuchen steckten kleine Dynamitpatronen mit
+Druckzündern. Hätten wir uns in die Sättel geschwungen,
+dann wären durch die Last unserer Körper die Patronen
+explodiert und zumindest hätten wir schwere Verletzungen
 davongetragen.
 
 »Ich rechnete eigentlich mit vergifteten Nadeln in den
 Sattelfedern,« meinte Harst geringschätzig. »Wenn du genau
 hingesehen hättest, würdest du bemerkt haben, daß vom
-Dache des Schwammhauses noch immer eine Telephonleitung.
-noch Wollten läuft und zwar bis zum Hause der dicken
+Dache des Schwammhauses noch immer eine Telephonleitung
+nach Westen läuft und zwar bis zum Hause der dicken
 Heller … Die Heller war auch außerordentlich erregt über
-meine Frage, ob Karten … ich — still, der Sepp
+meine Frage, ob Karlchen … — — still, der Sepp
 kommt …«
 
-Josef Kittel nahte vergnügt pfeifend, drei Pflückörbe
+Josef Kittel nahte vergnügt pfeifend, drei Pflückkörbe
 über dem Arm.
 
 »Glaubst du, daß er eingeweiht ist,« flüsterte ich rasch …
 
-»Nein, niemals …«!«
+»Nein, niemals …!«
 
 Sepp wollte die Körbe im Gewächshaus absetzen. »Na
-— — endlich,« begrüßte er uns … »Ich hab’ da ne »seine
-Brieftaube besorgt, und Nu wird’s Zeit, Herr Schraut …
-Die Rosen hab’ ich auch schon in Säcke gestellt …«
+— — endlich,« begrüßte er uns … »Ich hab’ da ne feine
+Brieftaube besorgt, und nu wird’s Zeit, Herr Schraut …
+Die Rosen hab’ ich auch schon in Säcke jesteckt …«
 
-Wir traten ins Freie, Harald fragte den Zungen:
+Wir traten ins Freie. Harald fragte den Jungen:
 »Schläfst du eigentlich immer sehr fest, Sepp?«
 
-»Ja Co …! Mutter füllt ja getrost Braunbier ab,
+»Na ob …! Mutter füllt ja selbst Braunbier ab,
 und abends krieg’ ich immer ein Glas … Manchmal
-schmeckt’s mw! bißchen bitter, aber meist ist ’8 gut …«
+schmeckt’s ’n bißchen bitter, aber meist is ’s jut …«
 
 »Bitter … so so … — Wo habt ihr eigentlich
 früher gewohnt, mein Junge?«
 
-rüber?! Ich war doch ins Waisenhaus — Aber
+»Früher?! Ick war doch ins Waisenhaus — Aber
 Mutter will nicht, daß ich drüber rede … Mutter war …
 <@pagebreak/>
-war irgendwo …, Sie holte mir erst vor’n Jahr und …
+war irgendwo … Sie holte mir erst vor’n Jahr und …«
 
 »Schon gut … — Wo ist sie jetzt?«
 
 »Zum Hause … Eine Dame hat ihr hier an’s Telephon
 rufen lassen, und da ist sie schnell wegjegangen —
-neue Kundschaft, Herr Harst …««
+neue Kundschaft, Herr Harst …«
 
-»Kann wollen wir also aufbrechen. Ich komme mit …
-
-Ich will nur noch schnell! in meinem Arbeitszimmer etwas
-erledigen. Warte hier, Sepp …
+»Dann wollen wir also aufbrechen. Ich komme mit …
+Ich will nur noch schnell in meinem Arbeitszimmer etwas
+erledigen. Warte hier, Sepp …«
 
 Er erledigte in meinem Beisein folgendes: Er rief das
-Polizeirevier Schmargendorf an, Kriminalassistent Wirt, den
-wir gut. kannten, war rasch instruiert,
+Polizeirevier Schmargendorf an, Kriminalassistent Witt, den
+wir gut kannten, war rasch instruiert,
 
-Emil Wirt gehörte zu den modernen Polizeibeamten,
-die eine tadellose Ausbildung genießen und mit Luft und
-Liebe ihren Dienst tun, Dabei war er ein intelligenter Mensch
-und außerdem in seiner Art ein Sonderling. — Er Vers
-Agra?; sofort mit Zwei Kollegen Gondel das ShwammsHaus
+Emil Witt gehörte zu den modernen Polizeibeamten,
+die eine tadellose Ausbildung genießen und mit Lust und
+Liebe ihren Dienst tun. Dabei war er ein intelligenter Mensch
+und außerdem in seiner Art ein Sonderling. — Er versprach
+sofort mit Zwei Kollegen sowohl das Schwammhaus
 als auch den Gemüsekeller ganz unauffällig zu beobachten
 und besonders die Heller nebst Sohn nicht aus
-den Augen zu Waffen,
+den Augen zu lassen,
 
 Das war das Eine. Und das Andere: Er ließ sich
-mit dem Polizeipräsidium verbinden, Er verlangte Doktor
-Hans Lücke, den patenten Hans, Mitglied einer der MordXommissionen.
+mit dem Polizeipräsidium verbinden. Er verlangte Doktor
+Hans Lücke, den patenten Hans, Mitglied einer der Mordkommissionen.
 
 »Tag, Lücke … Ja, hier Harst … Lange nichts voneinander
 gehört … Wie geht’s? — Ich wollte Ihnen nur
 einen guten Rat geben … In Zehlendorf ist heute …
-— wie, Sie wissen schon? — Wer ist denn Knobel-»Maxe?!
-Der hat’s Ihnen gemeldet? Einen Brand und einen Selbst
-Nord meldet man doch nicht der Mordkommission 21«
+— wie, Sie wissen schon? — Wer ist denn Knobel-Maxe?!
+Der hat’s Ihnen gemeldet? Einen Brand und einen Selbstmord
+meldet man doch nicht der Mordkommission?!«
 
 Ich stand dicht neben Harald und hörte jedes Wort mit,
 
 »Sie alter Fuchs!!« vernahm ich Lückes Stimme …
--»- und dann gar nichts mehr. Er hatte abgehängt.
+— und dann gar nichts mehr. Er hatte abgehängt.
 
 Harst legte ebenfalls den Hörer weg. Er fragte mich:
-» du schon je etwas vom KnobelMare vernommen?)
-
+»Hast du schon je etwas vom Knobel-Maxe vernommen?!
 <@pagebreak/>
-Ich nicht! Wer mag das nur sein?! Nach Blies Andeutungen
+Ich nicht! Wer mag das nur sein?! Nach Lückes Andeutungen
 muß es ein Beamter sein.«
 
-»Mir war Knobel-Maxe sehr gleichgültig. Wichtiger war
-mir, das! ich; mich jetzt endlich mit einer Vermutung hervorwagen
-konnte, die ich sonst vorsichtig für mich Schatten
-wagte, »Harald, Edward Folker ist ermordet worden!« erklärte
+Mir war Knobel-Maxe sehr gleichgültig. Wichtiger war
+mir, daß ich mich jetzt endlich mit einer Vermutung hervorwagen
+konnte, die ich sonst vorsichtig für mich behalten
+hätte. »Harald, Edward Folker ist ermordet worden!« erklärte
 ich sehr bestimmt,
 
 Er fixierte mich scharf. »Beweis?!«
 
 »Mein Gefühl!« erwiderte ich prompt.
 
-»Kann fühlen wir dasselbe,« — und er ging mir voraus
+»Dann fühlen wir dasselbe,« — und er ging mir voraus
 in den Garten.
 
 Sepp hatte schon die Säcke mit den Rosen geschultert.
-U18 wir das Häuschen Arthur Bendigs erreicht hatten,
-sehen. wir auf der Straße einen Möbelwagen sicher … Ein
-p&»gar Leute trugen gerade einen Schrank und Bendigs Tue
-Bauernstuhl hinaus, und ein besser Gekleideter Herr, seines
-Zeichens Lombardl;jauginhaber und auf den Machen Siegfried
-Wien getauft, zeigte uns ein Schriftstück eines Notars: Wien
+Als wir das Häuschen Arthur Bendigs erreicht hatten,
+sahen wir auf der Straße einen Möbelwagen stehen … Ein
+paar Leute trugen gerade einen Schrank und Bendigs
+Operationsstuhl hinaus, und ein besser Gekleideter Herr, seines
+Zeichens Lombardhausinhaber und auf den Namen Siegfried
+Lion getauft, zeigte uns ein Schriftstück eines Notars: Lion
 hatte schon gestern Bendigs gesamte Möbel und sonstiges
 gekauft. Arthur Bendig und der gefärbte Hamiti jedoch
 waren unbekannt wohin … verzogen.
@@ -1150,74 +1149,74 @@ Wir sagten gar nichts,
 
 Nur Sepp fragte: »Na — und die Tauben?!«
 
-»Die hat Bendig mitgenommen,« sagte Wien.
+»Die hat Bendig mitgenommen,« sagte Lion.
 
 »und das Haus selbst?!« erkundigte sie Harald sehr
 gedehnt.
 
-»gleißt bis zu Bendigs Rüttelt leer. Das eine Hinterzimmer,
-in dem der braune Diener wohnte, ist einem Wir«-
-ter überlassen worden, der auch für den Garten sorgen wird.«
+»Bleibt bis zu Bendigs Rückkehr leer. Das eine Hinterzimmer,
+in dem der braune Diener wohnte, ist einem Wächter
+überlassen worden, der auch für den Garten sorgen wird.«
 
-»Danke, Herr Wien, … »’
+»Danke, Herr Lion, …«
 
 Sepp trottete mit den Rosen wieder hinter uns her,
 
-Harald hakte sie bei mir ein. »Tolle Geschichten, mein
-Alter … Die sämtlichen Leutchen leiden an … Losgelacht.
+Harald hakte sich bei mir ein. »Tolle Geschichten, mein
+Alter … Die sämtlichen Leutchen leiden an Reisesucht.
 Ich meine alle die, die bei diesem unklaren Spiel beteiligt
-sind. Ich fürchte, die Habe wird uns noch reichlich Kopfzerbrechen
+sind. Ich fürchte, die Sache wird uns noch reichlich Kopfzerbrechen
 <@pagebreak/>
-kosten, zumal Köpfe dabei eine so große Den
-Deutung haben, Ein Schädel kriegt Bordellen, — das
-konnte noch hingehen, Aber was dann folgte, der heutige
+kosten, zumal Köpfe dabei eine so große Bedeutung
+haben. Ein Schädel kriegt Goldbrücken, — das
+konnte noch hingehen. Aber was dann folgte, der heutige
 Tag, war denn doch ein wenig zu viel des Guten …
-Isolde, die Therese, die Sprachenkundige, das Skelett ohne
-Kopf, —« — ich werde das dahlzeim alles sauber notieren,
+Isolde, die Therese, die Sprachenkundige, das Skelett *ohne*
+Kopf, — — ich werde das daheim alles sauber notieren,
 auf meine Art … Und dann werden wir den Abend mit
-dem erbaulicßden Bemühen zubringen, die nötigen Berbindungsstriche
+dem erbaulichen Bemühen zubringen, die nötigen Verbindungsstriche
 Zwischen zwei Villen in Zehlendorf, einem Haus
-mit »Schwamm, einem Grünkramkeller und Bendigs Haus
-zu gilt»… «« Er drehte sich nach Sepp um. »Mein Junge,
-falls du nachher deine Mutter nicht daheim vorfinde und
+mit Schwamm, einem Grünkramkeller und Bendigs Haus
+zu ziehen …« Er drehte sich nach Sepp um. »Mein Junge,
+falls du nachher deine Mutter nicht daheim vorfindest und
 falls sie sich bis zehn Uhr nicht einstellt, kommst du zu
 uns, verstanden?«
 
 »Jawoll …! Aber sie kommt schon, Herr Harst … Sie
 ist ja so oft noch nachts auf Arbeit, die Mutter … Sie
-redet sich ab … Sie reinigt Büroräume …«
+rackst sich ab … Sie reinigt Büroräume …«
 
 »Manchmal Hilft sie wohl auch der dicken Heller?«
 
-»Der?! Nee, mit der ist sie spinnefeind …«!«
+»Der?! Nee, mit der is sie spinnefeind …!«
 
 »Und Karlchen, Karlchen Heller?!«
 
-»Not, der hat doch ’n Klaps, Herr Harst, …!! Der braucht
-so überall rum … den hat Mutter janz ferne …«
+»Jott, der hat doch ’n Klaps, Herr Harst, …!! Der kraucht
+so überall rum … den hat Mutter janz jerne …«
 
-»Umso?rinnt der häufiger zu euch?«
+»Also kommt der häufiger zu euch?«
 
 »Nein, so manchmal bloß …«
 
 »Haben die Hellers eine Angorakatze, Sepp?«
 
-»Schabt, jehabt … Sie haben sie verkauft … — — & war
-n’ Kater, weiß, aber der Korn war zu dick … G& war in?
-Schönheitsfehler, und die olle Hellern hat bloß »fünfzig
-Mark vor gekriegt … — fast der Karl, und der lügt
-nie, der ist zu dämlich zum Schwindeln …«
+»Jehabt, jehabt … Sie haben sie verkauft … — — S’ war
+n’ Kater, weiß, aber der Kopp war zu dick … S’ war n’
+Schönheitsfehler, und die olle Hellern hat bloß fünfzig
+Mark vor gekriegt … — sagt der Karl, und der lügt
+nie, der is zu dämlich zum Schwindeln …«
 
 Nun, über Karlchen waren wir beide entschieden anderer
 Ansicht. Karlchen hatte eine Art von Dynamitattentat vorbereitet,
 die durchaus Anerkennung verdiente. Vergiftete
-Sorten und vergiftete Will und Ehrliches, das ich bei
+Torten und vergiftete Milch und Ähnliches, das ich bei
 <@pagebreak/>
-Wallace gefunden habe, hätte Sollten zweifellos als arg
+Wallace gefunden habe, hätte Karlchen zweifellos als arg
 rückständig bezeichnet. —
 
 Als wir beim Abendbrot saßen (Sepp war mit dick
-belegten Stullen und einer noch dienen Bratkarbonade heimgeschickt
+belegten Stullen und einer noch dickeren Bratkarbonade heimgeschickt
 worden), meldete Mathilde Herrn Kriminalassistent
 Knobel.
 
@@ -1228,30 +1227,29 @@ Zehlendorf!!
 in Gelee mit Bratkartoffeln hat. Wenn ja, dann soll er
 hier am Tische Platz nehmen.«
 
-Mathilde seufzte: »Her Aal soll noch zu morgen reichen,
-Herr Harald …
+Mathilde seufzte: »Der Aal soll noch zu morgen reichen,
+Herr Harald …«
 
-… Trotzdem saß dann Max Knobel mit als Vierter in der
+Trotzdem saß dann Max Knobel mit als Vierter in der
 Veranda.
 
-Herr Knobel entsprang kaum der Vorstellung, die man
+Herr Knobel entsprach kaum der Vorstellung, die man
 sich von einem Großstadtdetektiv macht. Sein Äußeres
 wirkte geradezu nervenberuhigend. Er war klein, dünn und
 trug einen Lodensportanzug mit Gummikragen und einen
 hellblauen Schlips. Sein Gesicht hatte mädchenhafte Züge,
-seine braunen Augen hätte jede Filmdiva gebrauchen.
+seine braunen Augen hätte jede Filmdiva gebrauchen
 können, und sein blonder, leicht gewellter Scheitel duftete
-nach Brennschere und Harst. Er aß zierlich und gewandt
+nach Brennschere und Haaröl. Er aß zierlich und gewandt
 wie eine höhere Tochter, die soeben das Pensionat
 verlassen Hat, seine Hände waren manikürt, und bis auf
 besagten waschbaren Kragen und blauen Eisenschlips war
-Knobel ein sehr netter Max, Seine Ausdrucksweise bestach
-noch mehr, Er redete nur in allerlei unbekannten Ein
-taten,
+Knobel ein sehr netter Max. Seine Ausdrucksweise bestach
+noch mehr. Er redete nur in allerlei unbekannten Zitaten.
 
 »Gnädige Frau,« bedankte er sich für die Einladung zu
 Aal, Bratkartoffeln und Speise mit Johannisbeertunke, »wo
-nüt’ge Damen mild regieren, soll Maxe nie den Appetit
+güt’ge Damen mild regieren, soll Maxe nie den Appetit
 verlieren …«
 
 Harald leitete zu einem anderen Thema über … »Ein
@@ -1262,102 +1260,102 @@ spürt.«
 Knobel blickte Harst seelenvoll an und erwiderte: »Was
 eine Drahtschlinge werden soll, krümmt sich beizeiten.«
 
-Auf diese Weise ward die Tischunterhaltung mehr des
-Aufbinden Art, Aber Knobel»-Maxe war ein geriebener Bursche,
+Auf diese Weise ward die Tischunterhaltung mehr beruflicher
+Art. Aber Knobel-Maxe war ein geriebener Bursche,
 und erst als wir bei einem Glase Mosel in Harsts Arbeitszimmer
 saßen, ließ Knobel die Maske fallen,
 
-»Kerl Harst, Doktor Lücke sagte mir am Fernsprecher:
+»Herr Harst, Doktor Lücke sagte mir am Fernsprecher:
 Wer erst einmal Verdacht geschöpft, der wird von Ihnen
 nie geschröpft. Offener Skat ist Männertat.«
 
-»Bitte, — was wissen Sie, Herr »Knobel?«
+»Bitte, — was wissen Sie, Herr Knobel?«
 
-Knebel zog seinen Eisenschlips fester, indem er hinten
+Knobel zog seinen Eisenschlips fester, indem er hinten
 am Kragen das lose Ende packte …
 
-»Verhängt — — erwürgt?«
+»Verbürgt — — erwürgt!«
 
-Ich mußte lächeln, Das war wirklich ein gütiges Kerlchen.
+Ich mußte lächeln, Das war wirklich ein putziges Kerlchen.
 
-»Beweise 2?«
+»Beweise?«
 
 »Erstens … « erwiderte Knobel und streckte den rechten
 Daumen hoch. »Edward Folker hatte Geld! Wohl dem, der’s
-Gewalt, — Zweitens (der Zeigefinger Brahma gen Himmel)
-… « — Folker Hatte bange — schon lange, und Angst ist bitter,
+behält. — Zweitens (der Zeigefinger stach gen Himmel)
+… Folker Hatte bange — schon lange, und Angst ist bitter,
 daher die Eisengitter, und Angst wirkt desto echter, je mehr
-vorhanden sind der Wächter, — Drittens (der Mittelfinger
+vorhanden sind der Wächter. — Drittens (der Mittelfinger
 Leistete Daumen und Zeigefinger Gesellschaft) …: Folker
-wollte sich schon drücken vor seiner Feinde bösen Süden,
+wollte sich schon drücken vor seiner Feinde bösen Tücken,
 er hatte bestellt einen Reisepaß, das tut man nie zum Spaß.«
 
-»Ihre Schlußfolgerungen sind wertvoller als Ihre Keime,
-Herr Knebel … Beim Reimen nehmen ’ sie stets einen
-Kabel, Boy glättet die Worte und schabt alles weg, was …«
+»Ihre Schlußfolgerungen sind wertvoller als Ihre Reime,
+Herr Knobel … Beim Reimen nehmen sie stets einen
+Hobel, der glättet die Worte und schabt alles weg, was …«
 
-Knobel. unterbrach ihn. »Mein Vater war am Wartete
+Knobel unterbrach ihn. »Mein Vater war am Variete
 Blitzdichter und gehörte somit zum Artistengelichter, — vererbte
 Tugenden soll man ehren, besonders wenn sie nicht
 die Seele beschweren.«
 
-Er knöpfte plötzlich Gummikragen und Krawatte reichhaltig
+Er knöpfte plötzlich Gummikragen und Krawatte gleichzeitig
 <@pagebreak/>
-ab, und darunter kamen ein welcher maitigrüner
-Kragen eines seinen Sporthemdes und eine sein gemusterte
-Krawatte mit einer Perle als Nadel zum Vorschein, »I
-liebe es, »mich; lächerlich zu zeigen: Dem Witze muß sich
+ab, und darunter kamen ein weicher maisgrüner
+Kragen eines seiner Sporthemdes und eine fein gemusterte
+Krawatte mit einer Perle als Nadel zum Vorschein. »Ich
+liebe es, mich lächerlich zu zeigen: Dem Witze muß sich
 jeder beugen!«
 
 »Also — Sie streuen den Leuten Sand in die
-Augen « …«
+Augen …«
 
 »Ja,« sagte Knobel sehr ernst. »Ich bin vom Ehrgeize
 geplagt, und deshalb habe ich gewagt, mich selbst zum
 Zirkusklown gut zu frisieren, — so kann ich leichter schürfen,
-spüren. — Doktor Piersch/ ein Zahnarzt hager, bleich, vollführte
-diesen bösen Streich … « …
+spüren. — Doktor Piersch, ein Zahnarzt hager, bleich, vollführte
+diesen bösen Streich …«
 
 Harst war sichtlich erstaunt. »Wie kommen Sie auf
-Piersch 1«
+Piersch?!«
 
 »Folkers Tochter und das ganze Personal verschwanden
 mittags — sehr fatal … Ich sah den Piersch die Villa
-»ganz betreten, — er kam nicht wieder, was von Nöten, —
+dann betreten, — er kam nicht wieder, was von Nöten, —
 ich stand der Villa gegenüber, — wo blieb der Piersch, —
 ich wüßt’ es lieber?«
 
 »Sie meinen, er hat sich heimlich entfernt?«
 
-»Ja — durch den großen Garten … Da könnt’ ich
+»Ja — durch den großen Garten … Da konnt’ ich
 lange warten,«
 
-»Im — und welchen Vorteil hätte Doktor Piersch vom
+»Hm — und welchen Vorteil hätte Doktor Piersch vom
 Tode Folkers?!«
 
-»Ein Testament, das ich lauf’ fand, hat Piersch zum
+»Ein Testament, das ich heut’ fand, hat Piersch zum
 Erben mit benannt.«
 
-Harst schüttelte sanft den Kopf, »Herr Knobel, Ihre Ans
-sind in Ohren: Aber das stimmt nicht! Folker hatte eine
-Tochter, und wenn im Ihnen nun erzählt haben werde,
+Harst schüttelte sanft den Kopf. »Herr Knobel, Ihre Ansicht
+in Ehren: Aber das stimmt nicht! Folker hatte eine
+Tochter, und wenn ich Ihnen nun erzählt haben werde,
 was wir heute alles erlebten, werden Sie anders urteilen.«
 
-»34 bin gespannt …« Knobel nahm eine neue Zigarre,
+»Ich bin gespannt …« Knobel nahm eine neue Zigarre,
 »Ich bin dafür bekannt, ich bin immer gespannt …«
 
 »Wieviel Moselwein gehört dazu, Ihre Eigenart zu
-ertränken? Mit der Zeit werden angekurbelte Leiche, böse
+ertränken? Mit der Zeit werden ungehobelte Reime, böse
 Träume …! — Also — geben Sie acht …«
 
 <@pagebreak/>
 Harald erstattete Bericht und ließ nichts aus, begann
 mit dem verregneten, gefärbten Hamiti und den Tauben und
-Schloß mit Bendigs Modbiliarverkauf an Siegfried Wien
+schloß mit Bendigs Mobiliarverkauf an Siegfried Lion
 
 Knobel schmunzelte fortwährend und nickte fortwährend.
-»Jan — — und weiter, Herr Harst?! Ist das alles?! Das
-wußte im so ziemlich Punkt für Punkt schon längst! Ich
+»Na — — und weiter, Herr Harst?! Ist das alles?! Das
+wußte ich so ziemlich Punkt für Punkt schon längst! Ich
 weiß noch mehr: Es gibt gar keinen Edward Folker oder
 keinen Doktor Piersch, — wie Sie wollen, denn beide sind
 ein und dieselbe Person …!«
@@ -1366,7 +1364,7 @@ Selbst Harst blieb da der Mund weit offen …
 
 <h2>5. Kapitel.</h2>
 
-<h3>»Darf ich bekannt machen.</h3>
+<h3>»Darf ich bekannt machen …«</h3>
 
 Max Knobel, der mithin den Ehrentitel Knebel-Max
 nur deshalb erhalten Hatte, weil er eben so allerhand »aus
@@ -1606,7 +1604,7 @@ Geld. Er hat heute früh von der hiesigen Filiale der Siebente-«
 Bank sein ganzes Guthaben abgehoben, fünfunddreißigtausend
 Frack.«
 
-»also um neun gleich nach Kassenersffnung, denn um
+»also um neun gleich nach Kasseneröffnung, denn um
 halb zehn hat Edward Folker meinen Freund verarztet —
 unter dem Namen Arthur Bendig«—Bydroop.«
 
@@ -1691,7 +1689,7 @@ Parteien,«
 
 Knobel holte die dritte Flasche und warf einen traurigen
 Blick auf den Toten: »Wenn du noch reden könntest,
-du mein Ebenbild! Du warst ein großer Vetleidungs8«
+du mein Ebenbild! Du warst ein großer Verkleidungs-
 <@pagebreak/>
 Künstler …! Du warst ein Kanake und nebenbei ein Zahnarzt
 Doktor Piersch und heute warst du ich! Aber ich
@@ -1955,7 +1953,7 @@ dorthin zu kommen, falls Doktor Piersch ihn einmal anriefe
 oder auch dessen Tochter Isolde … — anriefe und
 nur die Worte spräche »Es wird Zeit!« — Ich selbst durfte
 ihn im übrigen dort in Schmargendorf nicht besuchen.
-Heute nun’ am frühen Vormittag erfolgte ein solcher Ans
+Heute nun am frühen Vormittag erfolgte ein solcher An-
 Ruf … »Hier Doktor Piersch! Es wird Tritt« Weiter
 nichts. Es war eine Frauenstimme, ob es Isolde war, weiß
 ich nicht, denn ich habe Isolde persönlich nie gesprochen,
@@ -2038,7 +2036,7 @@ hat sehr kleine schmale Füße, fast zu klein für einen
 Mann … Außerdem … ja, außerdem: Gauß besitzt einen
 Waffenschein für eine Repetierpistvcle Modell Jongster, Neuyork,
 Kaliber 6, — hier sehr selten in Deutschland, die
-Jongsterpistole …« Er faßte in Die Loderjoppe und zeigte
+Jongsterpistole …« Er faßte in Die Lodenjoppe und zeigte
 uns die Waffe … »Er hat sie weggeworfen bei seiner
 Flucht — durch die offene kleine Tür zum Flur auf den dort
 stehenden Korbsessel. Ich fand sie soeben, als ich Herrn
@@ -2718,7 +2716,7 @@ verschiedene Schönheitsfehler. Wie alle Verbrecher, denen
 beständig Entdeckung droht, waren Sie zu phantasievoll in
 Ihren Schutzmaßnahmen, Zwei Millionen rechtfertigen allerdings
 so manche Dummheit, — Zum Beispiel, — reden wir
-noch über das Skelett im Bett des Rabißverstecks, Natürlich
+noch über das Skelett im Bett des Rabitzverstecks, Natürlich
 wollten Sie das Skelett ursprünglich im Notfall für »Fall«
 Vers« Tod benutzen. Aber davon kamen Sie ab. Ein Skelett
 läßt sich nicht mit Fleischscheiben bekleben und »füllen« …
