@@ -832,7 +832,7 @@ der Zweite! Was hältst du davon?«
 je …«
 
 Harst verzog schmerzlich den Mund. Nichts war ihm
-gräßlicher, als wenn man die Ausdrücke »Problem«, »Detektiv»
+gräßlicher, als wenn man die Ausdrücke »Problem«, »Detektiv«
 und »Kombination« gebrauchte. — »Überlasse das
 doch bitte dem alten Sherlock Holmes!« sagte er dann stets.
 »In seinen Humoresken mag dies am Platze sein!« — Hier
@@ -1366,34 +1366,35 @@ Selbst Harst blieb da der Mund weit offen …
 
 <h3>»Darf ich bekannt machen …«</h3>
 
-Max Knobel, der mithin den Ehrentitel Knebel-Max
-nur deshalb erhalten Hatte, weil er eben so allerhand »aus
-ankurbeln« verstand, trank sein Glas leer und fügte Hinzu
+Max Knobel, der mithin den Ehrentitel Knobel-Max
+nur deshalb erhalten Hatte, weil er eben so allerhand »auszuknobeln»
+verstand, trank sein Glas leer und fügte Hinzu:
 »So tadellos der Moselwein auch schmeckt …«
 
-»»»-. Bitte, keinen Reim!« rief Harald dazwischen …
+»… Bitte, keinen Reim!« rief Harald dazwischen …
 
-Knobel lächelte nachsichtig. »Ich werde Ihnen die Zi
-geritten verbieten, Herr Harst …! Das Ware dasselbe, all
-ob … — na gilt, also Prosa … Wir wollen na
-Zehlendorf hinaus. Ich habe die Schlüssel der Villa Folker
-An Ort und Stelle läßt sich die Sache rascher erledigen, Ei
+Knobel lächelte nachsichtig. »Ich werde Ihnen die Zigaretten
+verbieten, Herr Harst …! Das Wäre dasselbe, als
+ob … — na gut, also Prosa … Wir wollen nach
+Zehlendorf hinaus. Ich habe die Schlüssel der Villa Folker.
+An Ort und Stelle läßt sich die Sache rascher erledigen. Sie
 werden ja auch den Toten sehen wollen …«
 
-Als wir im Auto sagten, — Knobel ritt auf dem vor
-deren Klappsitz mit dem Gesicht nach uns bin —4 fragte
-Harst zweifelt: Wenn Folker und Piersch ein und dieselb(
-Person gewesen wären, so müßte Piersch;, naß Ihrer Aufs
-Fassung der Sachlage auch tot sein …! Aber Piersch lebte noch
-als der Brand bereits wittere. Wir waren bei he nie
-Von ihm fuhren wir zur Villa Folker, Die Feuerwehr wo
-dort, und wir warteten eine volle Stunde inmitten der New)
-gierigen, bis wir hörten, was eigentlich geschehen war.!
+Als wir im Auto saßen, — Knobel ritt auf dem vorderen
+Klappsitz mit dem Gesicht nach uns hin — fragte
+Harst zweifelnd: Wenn Folker und Piersch ein und dieselbe
+Person gewesen wären, so müßte Piersch nach Ihrer Auffassung
+der Sachlage auch tot sein …! Aber Piersch lebte noch
+als der Brand bereits wütete. Wir waren bei Piersch.
+Von ihm fuhren wir zur Villa Folker. Die Feuerwehr war
+dort, und wir warteten eine volle Stunde inmitten der Neugierigen,
+bis wir hörten, was eigentlich geschehen war.«
 
 <@pagebreak/>
-Im Auto brannte die Deckenlampe. +
+Im Auto brannte die Deckenlampe.
+
 Knobel starrte Harst lange an, schüttelte den Kopf und
-meinte: »Das ist unmöglich! Doktor Piersch ist verstauten!«
+meinte: »Das ist unmöglich! Doktor Piersch ist verschwunden!«
 
 »Wann stellten Sie das fest?«
 
@@ -1402,131 +1403,131 @@ meinte: »Das ist unmöglich! Doktor Piersch ist verstauten!«
 »Nun, gegen halb fünf sprengte er jedenfalls noch in
 aller Seelenruhe seinen Garten, Herr Knobel.«
 
-»Dann ist er eben gleich; nach; Ihrem Besuch verduftet.
+»Dann ist er eben gleich nach Ihrem Besuch verduftet.
 Ich glaubte, Sie wären früher bei ihm gewesen.«
 
-»Ferner: Sie sprächen von dem Testament, in dem
-Folker den Doktor mit rund Hunderttausend Platz Legat
+»Ferner: Sie sprachen von dem Testament, in dem
+Folker den Doktor mit rund Hunderttausend Mark Legat
 bedeckt Hat. Wie wollen Sie dieses Testament logisch in
 die Sachlage einfügen?!«
 
-Knobels rosiges Gesicht nahm den Ausdruck tiefsten Miß
-belagert an. »Im — ich will nicht behaupten, daß ich
-in allem klar Breite … — Lassen Sie mich Rat das Wichtigste
+Knobels rosiges Gesicht nahm den Ausdruck tiefsten Mißbehagens
+an. »Hm — ich will nicht behaupten, daß ich
+in allem klar sehe … — Lassen Sie mich rasch das Wichtigste
 erzählen.« Er nahm den hellen Filzhut ab, und der
-Wind jagt? durch seine blonden Haare und trieb ihm eine
-Erde Locke in die Stirn.
+Wind jagte durch seine blonden Haare und trieb ihm eine
+dicke Locke in die Stirn.
 
 »Erzählen Sie besser nachher,« lehnte Harst ab und
 suchte in seinen Taschen nach seinem Feuerzeug. Dann
 rauchte er in seiner Ecke langsam und bedächtig und brütete
-vor sich hin. Seine Zigarette ging immer wieder aus,
+vor sich hin. Seine Zigarette ging immer wieder aus.
 Immer wieder mußte er sein Feuerzeug hervor holen und
-suchte zerstreut in dieser oder jener Tasche dann. Schloß«-
-ließ fiel es ihm sogar aus der Hand. Herr Knobel bückte
+suchte zerstreut in dieser oder jener Tasche danach. Schließlich
+fiel es ihm sogar aus der Hand. Herr Knobel bückte
 sich eilfertig … Es war noch Hell genug … Zu hell
 für Herrn Knobels obere Eigenart. Ich sah, wie Harst auf
-Knobels Gen! deutete … Ich setzt, daß Knobel im sauber
-rasierten Gericht einen dunklen Haaransatz unter den Zigarren
-KünjtlerloFen Hatte.
+Knobels Genick deutete … Ich sah, daß Knobel im sauber
+rasierten Genick einen dunklen Haaransatz unter den blonden
+Künstlerlocken Hatte.
 
-Das Auto Fiel! an der Ecke Waldstraße. Harst des
-sollte den Chauffeur, gab wie stets ein anständiges Trinkgeld
-und bot dem Chauffeur noch eine Zigarette an, Kinder
+Das Auto hielt an der Ecke Waldstraße. Harst bezahlte
+den Chauffeur, gab wie stets ein anständiges Trinkgeld
+und bot dem Chauffeur noch eine Zigarette an. Knobel
 <@pagebreak/>
-war mit mir schon ein paar Schritte voraus »gegangen und
-rief ungeduldig: »So kommen. Sie doch …
+war mit mir schon ein paar Schritte voraus gegangen und
+rief ungeduldig: »So kommen Sie doch …!!«
 
-Harald reihte dem Chauffeur noch gewagt und kam
+Harald reichte dem Chauffeur noch Feuer und kam
 hinter uns her geschlendert. »Wollen Sie uns hinten durch
 den Garten führen, Herr Knobel?«
 
-»Is …« Knobels poetische Ader war versiegt.
+»Ja …« Knobels poetische Ader war versiegt.
 
 Wir Schritten an der Villa vorüber. Die Abendröte am
 Himmel hatte Erbarmen mit dem geschwärzten Dachgebälk
-und üÜbergoß & mit rosigem Schein. Es roch hier noch
+und übergoß es mit rosigem Schein. Es roch hier noch
 nach Rauch … Im Vorgarten lagen allerhand Trümmer
-umher. Ein paar Neugierige standen rote am Gitter und
-selendertend nun weiter.
+umher. Ein paar Neugierige standen noch am Gitter und
+schlenderten nun weiter.
 
-Knobel geleitete uns über eine Baustelle —«-! das zweite
+Knobel geleitete uns über eine Baustelle — das zweite
 Grundstück rechts der Folker-Villa — in den Wald und
 schließlich an den rückwärtigen Zaun. Er schloß hier eine
-Pforte auf und versperrte sie hinter uns wieder, Rechts erhob
+Pforte auf und versperrte sie hinter uns wieder. Rechts erhob
 sich eine Gruppe Edeltannen, in deren Mitte eine
 weiße Gartenbank leuchtete. »Wir wollen noch warten,«
-meinte Herr Kabel auffällig zerstreut und offenbar sehr verstimmt.
-»Es ist besser, wir hatten’s noch dunkler werden.
+meinte Herr Knobel auffällig zerstreut und offenbar sehr verstimmt.
+»Es ist besser, wir lassen’s noch dunkler werden.
 Setzen wir uns.«
 
 »Wie Sie wollen …« Harst wählte die rechte Ecke
 der Bank, nahm den Hut ab und holte seinen Taschenspiegel
 hervor. »Mein Scheitel wird immer dünner … Sie können
 stolz sein auf Ihr Haar, Herr Knobel. Vor zwölf Jahren
-hatte ich ebenfall3z rosa so volles Haar … Alles geht
-dahin. Die Jahre melden sich. Man wird alt,« Er bürstete
-seinen Scheitel und legte ein Bein über das andere und,
+hatte ich ebenfalls noch so volles Haar … Alles geht
+dahin. Die Jahre melden sich. Man wird alt.« Er bürstete
+seinen Scheitel und legte ein Bein über das andere und
 stützte die Hand mit dem Spiegel auf das Knie,
 
-Herr Max Knobel betrachtete den Spiegel mit hintersten
+Herr Max Knobel betrachtete den Spiegel mit äußerster
 Mißbilligung. »Ich hätte Sie niemals für so eitel gehalten,«
 
 »Jedes zu seiner Zeit,« meinte Harald, — und ich
-wußte, daß er den dichten Tannen hinter uns nicht recht.
-traute, Ich traute Knobel ebenso wenig. Leute mit Perücken,
-Schätze im nicht. Als Arthur Bendig an seinem Schreibtisch!
+wußte, daß er den dichten Tannen hinter uns nicht recht
+traute. Ich traute Knobel ebenso wenig. Leute mit Perücken,
+schätze ich nicht. Als Arthur Bendig an seinem Schreibtisch
 <@pagebreak/>
 die Quittung schrieb und sich dabei verschrieb und nachher
-sieht Arthur Bendig Arthur Bydroop zt lesen war, da hatte
-ich Heute bereits einmal gegen Perücken ein Verurteilt gefaßt.
+statt Arthur Bendig Arthur Bydroop zu lesen war, da hatte
+ich Heute bereits einmal gegen Perücken ein Vorurteil gefaßt.
 
 Knobel lachte leise. »Ja, wir haben jeder seinen Spleen,
 — ein kleiner Spleen ist oft sehr schön …«
 
 »Ich ja,« nickte Harald. »Nur ein großer ist lästig. —
-Wer ade wacht die Villa denn nun?«
+Wer bewacht die Villa denn nun?«
 
 »Ich …«
 
-»und bei Arthur Bydroop aus ein Hauswächter …
-Wie steht’s mit Villa Piersch?’
+»und bei Arthur Bydroop auch ein Hauswächter …
+Wie steht’s mit Villa Piersch?«
 
 »Da ist der Diener da. — Gehen wir nun …«
 
-»Ganz recht … Die Leute dort im Nacdhybargarten sind.
-verschwunden,,«
+»Ganz recht … Die Leute dort im Nachbargarten sind
+verschwunden …«
 
-Villa Folker hakte un der Rückseite einen Wintergarten.
+Villa Folker hatte an der Rückseite einen Wintergarten.
 Knobel öffnete die Tür, und der Geruch nach kaltem Qualm
-schlug uns entgegen, »Kein Licht machen!« warnte Knobel,
-»Sonst verscheuchen wir … « — er Rüttelte … »na, lieh.
+schlug uns entgegen. »Kein Licht machen!« warnte Knobel,
+»Sonst verscheuchen wir …« — er hüstelte … »na, ich
 will mir die Überraschung nicht verderben,«
 
 »Nein, tun Sie das ja nicht!« sagte Harst ernsthaft und
 stieß mich leicht in die Rippen, was ganz überflüssig war,
-da ich die Pistole in der Jackkentaschx schon entsichert in der
-Hand Hielt, Ich war nur gespannt, in welcher Weise der
+da ich die Pistole in der Jackentasche schon entsichert in der
+Hand Hielt. Ich war nur gespannt, in welcher Weise der
 angebliche Knobel uns Hier … hineinlegen wollte …
 
-Er ging voran in ein dunkles Speisezimmer, Ich zauderte
+Er ging voran in ein dunkles Speisezimmer. Ich zauderte
 … Ich glaubte das leise Knarren einer Tür gehört
 zu haben. Harald schob mich vorwärts. Seine Hand tastete
 nach dem Lichtschalter. Ein Knacken — nochmals, und
 Krone und Deckenbeleuchtung flammten auf.
 
-Am Etuis) saß ein Herr, der das getreue Abbild uns«.
-jenes Knobels war, der jetzt entsetzt diesen anderen anstierte.
+Am Eßtisch saß ein Herr, der das getreue Abbild unseres
+Knobels war, der jetzt entsetzt diesen anderen anstierte.
 
-»Darf im bekannt machen, Herr War Knobel,« meinte
-Harald Übertrieben höflich. »Dort am Tisch der »hie Herr
-Knobel, den im durch den Chauffeur hierher bat … Hier
+»Darf ich bekannt machen, Herr Max Knobel,« meinte
+Harald Übertrieben höflich. »Dort am Tisch der echte Herr
+Knobel, den ich durch den Chauffeur hierher bat … Hier
 <@pagebreak/>
 der falsche Herr Knobel mit Perücke und sonstigen Zutaten
 und sehr schlechten Reimen …«
 
-Der Schlechte stand wortlos auf und trat auf den Nackten
-zu … « « Packte dessen Hände … Handschellen schwrappteun
+Der Echte stand wortlos auf und trat auf den Unechten
+zu … Packte dessen Hände … Handschellen schnappten
 ein …
 
 »So, einen hätten wir, Herr Harst,« sagte der Echte
@@ -1536,31 +1537,31 @@ sind. Wenn man …«
 Aus dem Wintergarten ein Ton, als ob jemand auf eine
 leere Blechbüchse schlägt …
 
-nobel der Unechte stieß einen stillen Schrei aus,
-und Harst riß mich zur Seite … Eine Kugel pfiff unansgenchm
-dicht vorüber, dann knallte aus schon Harsts Element,
-aber der Schüsse im Wintergarten sagte in langen
-Säßen durch den Garten davon, und der unechte Knobel
-lag Blei und still in des Echten mitleidigen Meinen.
+Knobel der Unechte stieß einen stillen Schrei aus,
+und Harst riß mich zur Seite … Eine Kugel pfiff unangenehm
+dicht vorüber, dann knallte auch schon Harsts Clement,
+aber der Schütze im Wintergarten jagte in langen
+Sätzen durch den Garten davon, und der unechte Knobel
+lag Bleich und still in des Echten mitleidigen Armen.
 
-Forst war hinter dem Flüchtling drein. Max Knobel
-schade ’traurig: »Er ist tot … Her:sHuß … Er braucht
+Harst war hinter dem Flüchtling drein. Max Knobel
+sagte traurig: »Er ist tot … Herzschuß … Er braucht
 keine Handschellen mehr. Nun — besser er als Sie beide,
-Herr Schraut, Zier ohne es ums Ganze.«
+Herr Schraut. Hier ging es ums Ganze.«
 
-Harald kehrte zurück. »Entscxüpft …! — Der Tote ist
-der gefärbte Hamiti, der Diener Arthur 3 Morgens.«
+Harald kehrte zurück. »Entschlüpft …! — Der Tote ist
+der gefärbte Hamiti, der Diener Arthur Bydroops.«
 
 »Bydroop?!« fragte Knobel sanft. »Das ist eine mir
 unbekannte Nummer.«
 
 »Sie irren sich, Herr Knobel. Sie kennen sowohl Bydroop
-als auf seinen Diener recht genau …«
+als auch seinen Diener recht genau …«
 
-»Das wäre seltsam,« sagte der Kriminalassi;tent und
-nahm dem Toten die Handscgellen ab.
+»Das wäre seltsam,« sagte der Kriminalassistent und
+nahm dem Toten die Handschellen ab.
 
-<@pagebreak/>
+<@pagebreak 37/>
 
 <h1>Das Mädchen ohne Namen</h1>
 
@@ -1568,48 +1569,48 @@ nahm dem Toten die Handscgellen ab.
 
 <h3>Gwenda.</h3>
 
-Knobel ließ Harald daß Berliner Präsidium anrufen.
-»Ich werde derweil raus Trinkbares suchen, Herr Harst.
-Ich könnte nie in Amerika leben, höchstens als Spritkbmuggler.
+Knobel ließ Harald das Berliner Präsidium anrufen.
+»Ich werde derweil etwas Trinkbares suchen, Herr Harst.
+Ich könnte nie in Amerika leben, höchstens als Spritschmuggler.
 Wie die Leute dort ohne Alkohol vegetieren —
-— erstaunlich?«
+— erstaunlich!«
 
 Er füllte drei Rotweingläser, nachdem er die Flasche
 entkorkt hatte. Den Toten hatten wir mit einem weißen
 Tischtuch bedeckt.
 
 Harst trat an den Mitteltisch. »Der Mann hätte uns
-so manches verraten … Sie sieben ihn stumm gemacht,
+so manches verraten … Sie haben ihn stumm gemacht,
 als der Anschlag mißglückte.«
 
-»Weihen wir ihm einen stillen Schluß,« meinte Knobel
+»Weihen wir ihm einen stillen Schluck,« meinte Knobel
 geradezu schmerzlich. »Wer ist Bydroop?«
 
-»Ein Zahntakmiker … Nun muß ich Ihnen alles
+»Ein Zahntechniker … Nun muß ich Ihnen alles
 noch einmal berichten. Oder besser, warten wir auf die
-Mordkommission. Dem Hinten habe ich erzählt, was es
-erzählen gab, ich merkte erst im Auto auf der Fahrt hierher,
+Mordkommission. Dem Toten habe ich erzählt, was es
+zu erzählen gab, ich merkte erst im Auto auf der Fahrt hierher,
 daß er unecht war. Er spielte seine Rolle glänzend,
-nur den Ort mit den Versen hätte er sich schenken können
-… «- Das machte mich sofort ein wenig gratis. Solche Originale
+nur den Trick mit den Versen hätte er sich schenken können
+… Das machte mich sofort ein wenig stutzig. Solche Originale
 Hat ein modernes Detektivkorps nicht.«
 
 Knobel blickte tiefsinnig in sein Glas. »Leider nein
-— .- Ich finde Originale anregend, Herr Harst. Sie zum
-Beispiel. — Immerhin, erzählen Sie bitte … Ich); bin
+… Ich finde Originale anregend, Herr Harst. Sie zum
+Beispiel. — Immerhin, erzählen Sie bitte … Ich bin
 <@pagebreak/>
 einigermaßen gespannt. Und dann werde ich immer durstig.
-Der Rotwein ist gut. Folker hatte Bad. Nein — er hat
-Geld. Er hat heute früh von der hiesigen Filiale der Siebente-«
-Bank sein ganzes Guthaben abgehoben, fünfunddreißigtausend
-Frack.«
+Der Rotwein ist gut. Folker hatte Geld. Nein — er *hat*
+Geld. Er hat heute früh von der hiesigen Filiale der Diskonto-Bank
+sein ganzes Guthaben abgehoben, fünfunddreißigtausend
+Mark.«
 
 »also um neun gleich nach Kasseneröffnung, denn um
 halb zehn hat Edward Folker meinen Freund verarztet —
-unter dem Namen Arthur Bendig«—Bydroop.«
+unter dem Namen Arthur Bendig-Bydroop.«
 
 »Ich werde immer durstiger,« murmelte der sanfte Knobel
-und holte eine Frische Flasche. »Also waren Bendig und
+und holte eine frische Flasche. »Also waren Bendig und
 Folker ein und dieselbe Person — — sehr spannend, das
 ist ein Glas wert … Prosit. — Und wer ist Hamiti?«
 
@@ -1618,80 +1619,79 @@ war er Doktor Gotthold Piersch, Zahnarzt, schielend, heiser,
 Vater von Isolde Piersch …«
 
 Max Knobel seufzte: »Etwas zu Mager, sonst frisch
+… Meine Frau wiegt hundertfünfzig. Aber Kinder haben
+wir nicht. — Sie machen ja ein so erstauntes Gesicht, Herr
+Schraut …«
 
-— Meine Frau wiegt hundertfünfzig. Aber Kinder haben
-wir nicht. — — Sie machen ja ein so erstauntes Gesicht, Herr
-Schraut …
-
-»Weil ich von alledem nichts ahnte …,«
+»Weil ich von alledem nichts ahnte …«
 
 »Dann gestatten Sie … Trinken Sie! Es dämpft das
 Erstaunen. Ich war nur ein einziges Mal in meinem
-Leben erstaunt, — als im mich verlobt Hatte, ich war
-nämlich unsyuldig daran, die Schuld trug das Weißbier,
+Leben erstaunt, — als ich mich verlobt Hatte, ich war
+nämlich unschuldig daran, die Schuld trug das Bockbier.
 Seitdem trinke ich nur noch Wein, wenn’s nichts kostet
-
-Wiederholen wir also: Folker und Bydroop sind eins,
-und Hamiti und Piersch sind auch eins, mithin stumpfen
-vier Personen zu. zweien zusammen …’
+… Wiederholen wir also: Folker und Bydroop sind eins,
+und Hamiti und Piersch sind auch eins, mithin schrumpfen
+vier Personen zu zweien zusammen …«
 
 »Sechs, Herr Knobel …!«
 
-Knobel sagte wie betend zur See empor. »Las wird
+Knobel schaute wie betend zur Decke empor. »Das wird
 eine dritte Flasche kosten …! — Sechs?!«
 
-Folker—Bendig-»Bydroop war auch noch Sollten
+»Ja … Folker—Bendig-Bydroop war auch noch Karlchen
 Keller, der Blöde, und Hamiti Piersch war noch Max
-nahe
+Knobel …«
 
-»Gott sie mir bei!« rief der echte Knobel. »Nun hab’
+»Gott steh’ mir bei!« rief der echte Knobel. »Nun hab’
 <@pagebreak/>
 ich drei Namen!!« Er rieb sich die Stirn … »Haben
 Sie noch mehr derartige Doppelwesen auf Lager, Herr Harst?«
 
-»Gewiß, … Eine Waschfrau namens Therese Kittel,
+»Gewiß … Eine Waschfrau namens Therese Kittel,
 die mehrere fremde Sprachen spricht und die sich bei uns
 als Spionin einschmuggelte und gleichzeitig Folkers Köchin
-war …
+war …«
 
-Ich ’hatte mich an den Tisch gesetzt und schrieb rasch
+Ich hatte mich an den Tisch gesetzt und schrieb rasch
 auf einen Zettel:
 
-Folker-Bendig gleich Bydroop — Karlchen Heller. Hamiti«
+Folker-Bendig gleich Bydroop = Karlchen Heller. Hamiti-Piersch
+† gleich Max Knobel,
 
-Piersch! gleich Max Knobel,
+Therese = Köchin bei Folker.
 
-Therese — Köchin bei Folker.
 Dann erwartete ich nachdem ich das Totenkreuz hinter
 »Piersch« recht dick gemalt hatte, das nächste Wunder.
 Haralds Blick streifte meinen Zettel, und er sprach das Folgende
 im Diktierton: »Also zwei Parteien, Spieler und
 Gegenspieler. Partei eins umfaßt alle bisher Genannten
-bis auf Therese Kittel. Sie ist Partei zwei …
+bis auf Therese Kittel. Sie ist Partei zwei …«
 
-Mir fiel der Bleistift aus der Hand, und nobel griff
-rasch nach seinem Rotweinglas. »Eine Waschfrau 9!« sagte
-er und betrachtete seine Marschierte, die bereits einen dunklen
+Mir fiel der Bleistift aus der Hand, und Knobel griff
+rasch nach seinem Rotweinglas. »Eine Waschfrau?!« sagte
+er und betrachtete seine Manschette, die bereits einen dunklen
 Rand hatte. »Wenn sie billig ist, engagiere ich sie …
 Ich fürchte nur, sie wird auch verduftet sein … Alles verduftet
 …!«
 
 Ich schrieb:
-Folker, Bendig, Dienst, Hamiti, Knobel
-kontra
-Therese!!
 
-Harst diktierte: »Therese Kittel, wahrscheinlich ein bereiteten
+<p class="pre centered">Folker, Bendig, Dienst, Hamiti, Knobel
+kontra
+Therese!!</p>
+
+Harst diktierte: »Therese Kittel, wahrscheinlich ein verkleideter
 Mann, Komplizen noch unbekannt, aber fraglos vorhanden.
-Wahrscheinlich steckt zum Beispiel die Grundfläche
-Händlerin Heller mit ihr unter einer Decke oder diente beiden
+Wahrscheinlich steckt zum Beispiel die Grünkramhändlerin
+Heller mit ihr unter einer Decke oder diente beiden
 Parteien,«
 
 Knobel holte die dritte Flasche und warf einen traurigen
 Blick auf den Toten: »Wenn du noch reden könntest,
-du mein Ebenbild! Du warst ein großer Verkleidungs-
+du mein Ebenbild! Du warst ein großer Verkleidungskünstler
 <@pagebreak/>
-Künstler …! Du warst ein Kanake und nebenbei ein Zahnarzt
+…! Du warst ein Kanake und nebenbei ein Zahnarzt
 Doktor Piersch und heute warst du ich! Aber ich
 lebe, und das ist mir angenehm.«
 
@@ -1699,133 +1699,130 @@ lebe, und das ist mir angenehm.«
 
 Harst war im Nu am Lichtschalter, aber die Tür zum
 Flur öffnete sich schon, und auf der Schwelle stand die junge
-Dame, die ich vormittags bei Bendig an der Haustür Gw
+Dame, die ich vormittags bei Bendig an der Haustür gesehen
+hatte:
 
-sehen hatte:
-Miß Gwenda Folker!
+<p class="centered">Miß Gwenda Folker!</p>
 
-»Miß Folker!!« rief ich, und Knobel seufzte: »Ich,
+»Miß Folker!!« rief ich, und Knobel seufzte: »Ach,
 sieh da: Fräulein Gwenda!!«
 
 Sie trug in der Rechten einen eleganten schmalen Hand
-Koffer und einen Hirn. In der Linken klirrte leise ein
-Achseln na. Sie war sehr bleich.
+Koffer und einen Schirm. In der Linken klirrte leise ein
+Schlüsselbund. Sie war sehr bleich.
 
-»Es … hat gebrannt?!« flüsterte sie sehr sein …
+»Es … hat gebrannt?!« flüsterte sie sehr scheu …
 
 Harst stellte sich so, daß sie die verhüllte Leiche nicht
-freut konnte. »Bitte Fräulein Folker, treten Sie näher
-Er Nahrung ihr Koffer und Schirm ab. Sie konnte sich kaum
-auf den Füßen halten, sie fiel auf den Stuhl und beim
+sehen konnte. »Bitte Fräulein Folker, treten Sie näher.
+Er nahm ihr Koffer und Schirm ab. Sie konnte sich kaum
+auf den Füßen halten, sie fiel auf den Stuhl und begann
 zu weinen.
 
-— »Ich glaube,« sagte Assistent Knobel überaus mild,
-»ich9 Glaube, Sie sind gerade zur rechten Zeit zurückgekehrt,
-Fräulein …
+»Ich glaube,« sagte Assistent Knobel überaus mild,
+»ich glaube, Sie sind gerade zur rechten Zeit zurückgekehrt,
+Fräulein …«
 
-Sie- schaute mit rinnenden Augen zu ihm auf. »dD
--. ich … hatte Verdacht geschöpft,« flüsterte sie …
-»Das alles ’war …!9 … seltsam …«
+Sie schaute mit rinnenden Augen zu ihm auf. »Ich
+… ich … hatte Verdacht geschöpft,« flüsterte sie …
+»Das alles war … so … seltsam …«
 
-»Was den?« fragte Knobel noch mitfühlender. »Ihren
-Koffer aber möchte ie doch besser in den Garten tragen
-
-Es gibt offen, die zuweilen explodieren, nachdem eine
-Kugel vorbei ging …
+»Was denn?« fragte Knobel noch mitfühlender. »Ihren
+Koffer aber möchte ich doch besser in den Garten tragen
+… Es gibt Koffer, die zuweilen explodieren, nachdem eine
+Kugel vorbei ging …«
 
 Gwenda starrte ihm verständnislos in das rosige Gesicht.
-»Explodieren …?! Wie … wie,
+»Explodieren …?! Wie … wie …«
 
-Harst sagte hastig: »Es war ein Scherz, Fräulein Tal
-
-der … — Kennen Sie mich«
+Harst sagte hastig: »Es war ein Scherz, Fräulein Folker
+… — Kennen Sie mich?«
 
 <@pagebreak/>
-»Rein, mein Herr … »Nur den Herrn da kenne ließ
-seit heute von Ansehen …
+»Nein, mein Herr … »Nur den Herrn da kenne ich
+seit heute von Ansehen …«
 
-Ich verbeugte mich. 36 Hamiti wies Sie kleinste grob
-ab. —ck» Was wollten Sie bei Bendig?«
+Ich verbeugte mich. »Ja, Hamiti wies Sie ziemlich grob
+ab … — Was wollten Sie bei Bendig?«
 
 Sie errötete und schlug die Augen nieder.
 
-»As, — — ich … kann nicht länger schweigen,«
-schlucd3zte sie … »Nein, ich will alles sagen … — Ich habe
+»Ach, — — ich … kann nicht länger schweigen,«
+schluchzte sie … »Nein, ich will alles sagen … Ich habe
 es satt, diesen Betrug weiter zu führen … — Die Herren
-ins wohl von der Polizei 2«
+sind wohl von der Polizei?«
 
-»Wälder, leider,« nickte Knobel wehmütig … Ihn sollte
+»Leider, leider,« nickte Knobel wehmütig … »Ich sollte
 eigentlich Bäcker werden wie mein Vater … Aber der
 Beruf lag mir nicht. Ich war zu ehrlich dazu, ich konnte
-ist mitansehen, daß die Strippen und Knüppel jeden
-Lag einer wurden, ich machte sie stets zu groß, und …
-—» aber haben Sie keine Angst vor uns, Fräulein. Wir
-ins sehr angenehme Männer, durchaus galant, besonders
-Herr Harst …
+nicht mitansehen, daß die Schrippen und Knüppel jeden
+Tag kleiner wurden, ich machte sie stets zu groß, und …
+— aber haben Sie keine Angst vor uns, Fräulein. Wir
+sind sehr angenehme Männer, durchaus galant, besonders
+Herr Harst …«
 
-»Bart … »er Oh mein Gott — — Harst!! Dz85 mußte
-so enden!« — und Gwenda weinte noch« kläglicher …
-»Hagere, … — Harst, ich. ich. — … — bin gar nicht Edward
-Folkers Tochter … «! Ich bin … bin ein … Mädchen
+»Harst …?! Oh mein Gott — — Harst!! Das mußte
+so enden!« — und Gwenda weinte noch kläglicher …
+»Herr … Harst, ich … ich … — bin gar nicht Edward
+Folkers Tochter … Ich bin … bin ein … Mädchen
+… ohne Namen.«
 
-— ohne Namen.«
-
-»Besser als ein Toter ohne Kopf,« warnende Knobel
+»Besser als ein Toter ohne Kopf,« murmelte Knobel
 in sein Rotweinglas hinein.
 
 Gwenda trocknete die Augen. »Im Grunde bin ich sehr
-froh, daß ich gerade Sie hier treffe, Herr Harst … Koffer
+froh, daß ich gerade Sie hier treffe, Herr Harst … Folker
 hatte vor Ihnen Angst, und Sie … Sie werden mich
-beschützen, Herr Harst, — Meine »Geschichte As schnell
-erkannt: Schlag bin ein Kind diskreter Herkunft. Wer Menge
+beschützen, Herr Harst. — Meine »Geschichte ist schnell
+erzählt: Ich bin ein Kind diskreter Herkunft. Wer meine
 Eltern waren, weiß ich nicht. Ich wuchs bei einer Pflegemutter
 in Bansin auf Usedom auf und galt als deren Enkelkind
-namens Gwendolin Kleid, Die Frau hatte ein kleines
-Zigarrengeschäft und ein eigenes Häuschen. Ins ich achtzehn
-Jahre alt war, starb sie. Da erst kam heraus, laß diese
-Auguste Kleid zwar Witwe war, aber nur einen Sohn,
+namens Gwendolin Kleitt. Die Frau hatte ein kleines
+Zigarrengeschäft und ein eigenes Häuschen. Als ich achtzehn
+Jahre alt war, starb sie. Da erst kam heraus, daß diese
+Auguste Kleitt zwar Witwe war, aber nur einen Sohn
 <@pagebreak/>
 gehabt hatte, der als Steuermann auf dem Meere ertrunken
-war. Die Polizei und das Gericht Konnten nicht ausmalen,
-Völker ich stammte. Nur ein einziger Brief der Frau
-Kleid gab einigen Aufschluß. Dieser Brief war von ihr
+war. Die Polizei und das Gericht Konnten nicht aufklären,
+woher ich stammte. Nur ein einziger Brief der Frau
+Kleitt gab einigen Aufschluß. Dieser Brief war von ihr
 an irgend jemand — die Anrede fehlte — geschrieben
-worden, den »Affe ersuchte, für mich weiter zu sorgen, da
+worden, den sie ersuchte, für mich weiter zu sorgen, da
 sie den Tod nahen fühlte. — Der Brief war entweder von
 ihr nicht abgeschickt worden oder sie hatte hierzu nicht mehr
-die Kraft Stadt. Ich habe mir dann mein Brot allein
-verdient, bis im vor zwei Jahren Edward Folker kennen
-lernte, Und … das war sehr eigentümlich, Herr Harst …«
+die Kraft gehabt. Ich habe mir dann mein Brot allein
+verdient, bis ich vor zwei Jahren Edward Folker kennen
+lernte. Und … das war sehr eigentümlich, Herr Harst …«
 
 Sie unterbrach sich und fragte zaghaft: »Ist Folker
 wirklich schon abgereist?!«
 
-Max Knebel antwortete — tief bekümmert und mitleidig:
+Max Knobel antwortete — tief bekümmert und mitleidig:
 »Ja, Fräulein, er ist sehr weit gereist — — ganz
 weit weg.«
 
-Sie verstand ihm falsch. »Er ist tot?« rief sie stockend,
-—» aber &s klang wenig schmerzlich.
+Sie verstand ihn falsch. »Er ist tot?« rief sie stockend,
+— aber es klang wenig schmerzlich.
 
-»Rein, er will nur tot sein, sogar doppelt tot, Fräulein
+»Nein, er will nur tot sein, sogar doppelt tot, Fräulein
 … Eigentlich starb er schon nachmittags oben im
 Flur …«
 
-Gwenda wurde behielt, »Folker führte ein Doppelleben!«
+Gwenda wurde lebhaft. »Folker führte ein Doppelleben!«
 
-»Er wollte ja auch doppelt sterben,« nickte War Knobel,
+»Er wollte ja auch doppelt sterben,« nickte Max Knobel.
 »Aber er starb nicht als Bendig …«
 
-»oh — Sie wissen, … 2?!«
+»oh — Sie wissen …?!«
 
 Harald trat neben sie. »Fräulein Gwenda, wissen Sie
 etwas über den Schädel mit den beiden Goldbrücken?«
 
-Sie blickte ihm verwundert an. »Ein … Schade,
+Sie blickte ihn verwundert an. »Ein … Schädel …
 mit Goldbrücken?! Nein, nein … Ich würde es Ihnen
 ja sagen, wenn ich etwas wüßte, Herr Harst … Wenn
 Folker entflohen ist, habe ich keinerlei Rücksicht mehr zu
-nähmen …
+nehmen …«
 
 So wurde Gwenda unsere große Hoffnung. Aber — —
 auch diese Hoffnung war trügerisch. Gwendas Erzählung
@@ -1953,8 +1950,8 @@ dorthin zu kommen, falls Doktor Piersch ihn einmal anriefe
 oder auch dessen Tochter Isolde … — anriefe und
 nur die Worte spräche »Es wird Zeit!« — Ich selbst durfte
 ihn im übrigen dort in Schmargendorf nicht besuchen.
-Heute nun am frühen Vormittag erfolgte ein solcher An-
-Ruf … »Hier Doktor Piersch! Es wird Tritt« Weiter
+Heute nun am frühen Vormittag erfolgte ein solcher Anruf
+… »Hier Doktor Piersch! Es wird Tritt« Weiter
 nichts. Es war eine Frauenstimme, ob es Isolde war, weiß
 ich nicht, denn ich habe Isolde persönlich nie gesprochen,
 kannte auMH Doktor Tieren nur von Ansehen. — Ich fuhr
@@ -2046,7 +2043,7 @@ Gwenda fiel weinend in ihre Sofaecke stille, ck
 <h2>8. Kapitel.</h2>
 <h3>Ocsauwiirer.</h3>
 
-Eine äußerst peinlicher Stille folgte. War Knebel stand
+Eine äußerst peinlicher Stille folgte. Max Knobel stand
 neben Gwenda und hatte ihr die Hand auf die Schulter
 gelegt, Ihr Schmerz mußte jeden rühren, Sie, die so ganz
 allein im Leben den bitteren Kampf der gehetzten Arbeitsbiene
@@ -2497,7 +2494,7 @@ Als wir die palastartige Villa vor uns hatten, sahen
 wir auf der Straße fünf elegante Privatautos warten, Im
 Erdgeschoß waren alle Räume erleuchtet.
 
-Knebel atmete hörbar tief auf. »Gott sei Dank, sie
+Knobel atmete hörbar tief auf. »Gott sei Dank, sie
 fühlen sich sicher!! Sie denken wohl, Herr Schraut habe
 die Quittung nicht näher geprüft oder doch dem Namen
 Bydroop keine Wichtigkeit beigemessen …«
@@ -2567,7 +2564,7 @@ Gemüsekörbe?!«
 
 Die ganze Bande hier verhielt sich bisher durchaus
 schweigsam. Einige lächelten sogar … Nur der Mörder,
-ist. Glatzköpfige, »Therese« war ein wenig sHweißig im See
+ist. Glatzköpfige, »Therese« war ein wenig schweißig im See
 
 Dann flog eine Seitentür auf, und Doktor Hans Lücke
 und vier Beamte traten ein — als sechster aber Baron
