@@ -1367,7 +1367,7 @@ Selbst Harst blieb da der Mund weit offen …
 <h3>»Darf ich bekannt machen …«</h3>
 
 Max Knobel, der mithin den Ehrentitel Knobel-Max
-nur deshalb erhalten Hatte, weil er eben so allerhand »auszuknobeln»
+nur deshalb erhalten Hatte, weil er eben so allerhand »auszuknobeln«
 verstand, trank sein Glas leer und fügte Hinzu:
 »So tadellos der Moselwein auch schmeckt …«
 
@@ -1837,10 +1837,10 @@ machte alles noch verworrener und dunkler,
 Was sie berichtete, werde ich später nebenher einfügen.
 — Die Mordkommission traf ein. Wir hörten draußen zwei
 Autos vorfahren. Harald führte Gwenda nach vorn in den
-Salon und!Floß die Schiebetüren.
+Salon und schloß die Schiebetüren.
 
 Die Villa war, um dies kurz zu streifen, sehr schlicht
-eingerichtet. Möbel, Teppiche, Wandschmuck — alles Dutzendware.«
+eingerichtet. Möbel, Teppiche, Wandschmuck — alles Dutzendware.
 
 Knobel-Maxe war den Herren vom Präsidium in den
 Flur entgegengegangen,
@@ -1854,96 +1854,96 @@ Lücke ging immer mehr ins einzelne, bis er über diesen
 ganzen, ereignisreichen Tag nebst den beiden Vorspielen
 völlig unterrichtet war. Als Vorspiele bezeichne ich hier
 erstens Pierschs Auftrag an uns, seine Tochter Isolde zu
-lassen, und zweitens Haralds kleines Erlebnis mit Ha
-mit! in jener Regennacht, in der er feststellte, daß der
-Mann nur gefärbt war, Harsts Annahme, Hamiti Piersch
+suchen, und zweitens Haralds kleines Erlebnis mit Hamiti
+in jener Regennacht, in der er feststellte, daß der
+Mann nur gefärbt war. Harsts Annahme, Hamiti-Piersch
 sei damals in Therese Kittels Kellerwohnung gewesen, hatte
-sich nun freilich als unzutreffend erwiesen, Hamiti konnte
+sich nun freilich als unzutreffend erwiesen. Hamiti konnte
 lediglich Therese nachspioniert haben.
 
-Lücke saß am Eßtisch und machte sich Notizen, »Schraut,
+Lücke saß am Eßtisch und machte sich Notizen. »Schraut,
 das ist wieder einmal eine Sache, die alle möglichen Mutmaßungen
 zuläßt. Eine Anzahl Leute spielt hier Doppelrollen
 — nein, sogar dreifache Rollen … Eine Villa
 brennt, man findet einen gänzlich verkohlten Leichnam mit
 abgerissenem Kopf, und unser tüchtiger Knobel behauptet,
 <@pagebreak/>
-der See sei nicht Edward Folker, der Villenbesitzer, sondern
+der Tote sei nicht Edward Folker, der Villenbesitzer, sondern
 ein Fremder.«
 
 Knobel sagte bescheiden: »Es ist so, Herr Doktor … Es
 ist nicht Folker … Der Kopf gehört überhaupt nicht zu
-dem Rumpf. Folker»-Bendig-Kerlchen war mittelgroß. Der
+dem Rumpf. Folker-Bendig-Karlchen war mittelgroß. Der
 Tote ist mindestens 1,80 groß. Außerdem — ich hatte ja
-Ton lange auf dieses Haus und seine Bewohner ein mißtrauisches
+schon lange auf dieses Haus und seine Bewohner ein mißtrauisches
 Auge geworfen — hatte Folker ein tadelloses Gebiß,
-und der Kopf, der verkohlte Kopf, »der nicht zu dem
+und der Kopf, der verkohlte Kopf, der nicht zu dem
 Rumpf gehört, hat zwei Goldbrücken, — — ja, Herr Schraut,
-zwei Goldbrücken, Nachher will ich den Herren »die Leiche
+zwei Goldbrücken. Nachher will ich den Herren die Leiche
 zeigen und einige Eigentümlichkeiten daran, die selbst das
-Feuer nicht austilgen konnte, Dieser Tote besteht also aus
-… — — Zwei Toten, zumindest aus einem Rumpf eines Ans
-braven und aus … den! Schädel, dem bewußten Schädel
-mit den Goldbrücken…«
+Feuer nicht austilgen konnte. Dieser Tote besteht also aus
+… zwei Toten, zumindest aus einem Rumpf eines Anderen
+und aus … dem Schädel, dem bewußten Schädel
+mit den Goldbrücken.«
 
 Lücke warf mir einen langen Blick zu. »Schraut, das
 ist so recht etwas für Harst … — Was treibt er nur dort
 drinnen bei Gwenda, dem Mädchen ohne Namen?!«
 
-Er schritt zur Schiebetür, richtete und trat ein. Ansahen
-saß bleich und matt in der (Sofaecke, Harst sei soeben hinausgegangen
-… — Sie Deutete auf eine Seitentür, »Das. da
-ist Folkers Arbeitszimniter.«
+Er schritt zur Schiebetür, öffnete und trat ein. Gwenda
+saß bleich und matt in der Sofaecke. Harst sei soeben
+hinausgegangen … — Sie Deutete auf eine Seitentür. »Das da
+ist Folkers Arbeitszimmer.«
 
-Gwenda verlor Asche Lücke gegenüber sehr bald alle
-Vergangenheit. — « … Es ging mir vor zwei Jahren
+Gwenda verlor auch Lücke gegenüber sehr bald alle
+Befangenheit. — »… Es ging mir vor zwei Jahren
 recht schlecht,« erklärte sie. »Ich hatte keine Stellung …
 Eines Tages im Juni saß ich recht verzweifelt auf einer
 Bank im Tiergarten, als ein Herr sich zu mir setzte, der
 mir von Ansehen schon bekannt war, da ich ihn in den
-letzten Tagen häufiger getroffen hatte, Wir kamen ins Gespräch,
+letzten Tagen häufiger getroffen hatte. Wir kamen ins Gespräch,
 er bot mir den Posten einer Sekretärin an, stellte
 aber die Bedingung, daß ich als seine Tochter gelten
 solle … Ich war damals seelisch sehr zermürbt, ich stand
-vor dem Nichts und mir war ablehnend, — ich wollte
-nur die Sorgen um das tägliche. Brot los werden, Anbetteln
+vor dem Nichts und mir war alles recht, — ich wollte
+nur die Sorgen um das tägliche Brot los werden. Außerdem
 <@pagebreak/>
 machte Folker auch einen so günstigen Eindruck auf mich,
 daß meine geringen Bedenken rasch schwanden. Armut ist
 ein trauriges Einschläferungsmittel für ein Gewissen, Herr
 Kriminalkommissar …«
 
-»und Reichtümer sind das!lockende, süße Fliegenpapier
-für alle … Gestiegen,« murmelte Knobel mit wehmütigem
+»und Reichtümer sind das lockende, süße Fliegenpapier
+für alle … Aasfliegen,« murmelte Knobel mit wehmütigem
 Lächeln. — Lücke schaute dieses waschechte Original von
-Kriminalassistent fragend an, »Glauben Sie, daß es Ufer
-um,
+Kriminalassistent fragend an. »Glauben Sie, daß es hier
+um …«
 
 Aber Knobel winkte ab. »Ich glaube zur Zeit nur an
-die Güte des Verweint drüben aus dem »Büfett.«
+die Güte des Rotweins drüben aus dem Büfett.«
 
 Gwenda lächelte ganz wenig. »So kam ich zu Folker
-— «. adl8 Tochter … Zunächst fiel mir in seinem Haushalt
-nichts Besonderes. auf. Ich hatte es sehr gut in dieser neuen
+… als Tochter … Zunächst fiel mir in seinem Haushalt
+nichts Besonderes auf. Ich hatte es sehr gut in dieser neuen
 Umgebung. Ein eigenes Auto war mir so etwa wie ein
-Traum … — »Aber mit der Zeit machte (mich verschiedenes
-da stutzig. Folker war so wenig daheim. Oft blieb
-er viele Tage weg. Dann kam die treue Köchin ins Haus,
+Traum … — Aber mit der Zeit machte mich verschiedenes
+doch stutzig. Folker war so wenig daheim. Oft blieb
+er viele Tage weg. Dann kam die treue Köchin ins Haus.
 Sie ließ Therese Kittel, und Folker mietete sie nur für
 den Tag. Sie hatte irgendwie eine eigene Wohnung. Erst
 Herr Harst sagte mir vorhin, daß sie in Schmargendorf in
-einem leeren Hause im Keller mit ihrem Sohne wohnt, Zuweilen
-bereitete sie das Eisen für Tage voraus und über.
-ließ es mir, das Mittag zu wärmen. Sie war eine sah:
+einem leeren Hause im Keller mit ihrem Sohne wohnt. Zuweilen
+bereitete sie das Essen für Tage voraus und überließ
+es mir, das Mittag zu wärmen. Sie war eine sehr
 stille Person und mir nie sympathisch. Folker hatte sie
 nur aus Mitleid eingestellt, sie verstand so gut zu bitten
-und saß) auch geradezu verhungert aus … Ich merkte
+und sah auch geradezu verhungert aus … Ich merkte
 sehr bald, daß sie allerlei Heimlichkeiten hier im Hause
 trieb. Einmal überraschte ich sie vor Folkers Schreibtisch.
-Sie gab vor, Staub zu wissen, aber ich hatte deutlich gehört,
+Sie gab vor, Staub zu wischen, aber ich hatte deutlich gehört,
 daß sie eine Schieblade bei meinem Eintritt hastig
 schloß. Inzwischen Hatte Folker mir anvertraut, daß er
-unter anderem Namen in der Kissinger Straße … in Schmargendorf
+unter anderem Namen in der Kissinger Straße in Schmargendorf
 ein Zahninstitut besäße. Er trug mir auf, sofort
 dorthin zu kommen, falls Doktor Piersch ihn einmal anriefe
 <@pagebreak/>
@@ -1951,233 +1951,233 @@ oder auch dessen Tochter Isolde … — anriefe und
 nur die Worte spräche »Es wird Zeit!« — Ich selbst durfte
 ihn im übrigen dort in Schmargendorf nicht besuchen.
 Heute nun am frühen Vormittag erfolgte ein solcher Anruf
-… »Hier Doktor Piersch! Es wird Tritt« Weiter
+… »Hier Doktor Piersch! Es wird Zeit!!« Weiter
 nichts. Es war eine Frauenstimme, ob es Isolde war, weiß
 ich nicht, denn ich habe Isolde persönlich nie gesprochen,
-kannte auMH Doktor Tieren nur von Ansehen. — Ich fuhr
+kannte auch Doktor Piersch nur von Ansehen. — Ich fuhr
 sofort nach der Kissinger Straße — zum ersten Male!
 Unser Chauffeur, der heute entlassen wurde, hatte keine
-Burg davon, daß »Bendig« und sein Dienstherr Folker
-ein und dieselbe Person waren, das merkte ich, Zu meiner
+Ahnung davon, daß »Bendig« und sein Dienstherr Folker
+ein und dieselbe Person waren, das merkte ich. Zu meiner
 Überraschung ließ mich der braune Diener nicht ein, fertigte
-mich sogar recht kurz ab … Trennten ja Zeuge,
+mich sogar recht kurz ab … Sie waren ja Zeuge,
 Herr Schraut. Aber er flüsterte mir trotzdem hastig zu:
 »Ist es Zeit?!« Ich nickte nur, und dann fuhr mich der
 Chauffeur wieder nach Hause …«
 
-»3 — wieder an unserem Grundstück vorüber,« warf
+»Ja — wieder an unserem Grundstück vorüber,« warf
 ich ein,
 
 Gwenda errötete tief. »Herbert Gauß, der Chauffeur
-rief mir 31, Tier wohne Harald Harst, … /« nickte sie verlegen.
-»Gauß war früher holländischen Baron, Herr Schraut
-… « .- Er Hatte alles verloren und mußte aus Not Chauffeur
-spielen … « Sie senkte den Blick … »Er … er war
+rief mir zu, hier wohne Harald Harst …« nickte sie verlegen.
+»Gauß war früher livländischer Baron, Herr Schraut
+… Er Hatte alles verloren und mußte aus Not Chauffeur
+spielen …« Sie senkte den Blick … »Er … er war
 der einzige, mit dem ich zuweilen über Folker vertraulich
-sprach, Es ging mir sehr nahe, daß er entlassen wurde …
+sprach. Es ging mir sehr nahe, daß er entlassen wurde …
 Er erzählte mir auf der Rückfahrt mancherlei von Ihrem
 Freunde. — Anderthalb Stunden später kehrte Folker heim.
-Er war auffällig Street, und das erste, was- er tat, war die
+Er war auffällig erregt, und das erste, was er tat, war die
 sofortige Kündigung der Hausangestellten. Er zahlte jedem
-dreifachen Monatslohn, und sie mußten sofort Strafsachen
-packen. Bis sie die Villa verlassen hatten, gab er mir z3witausend
-Mark und erklärte, er würde mir später sollen,
+dreifachen Monatslohn, und sie mußten sofort ihre Sachen
+packen. Bis sie die Villa verlassen hatten, gab er mir zweitausend
+Mark und erklärte, er würde mir später folgen,
 ich solle in Norderney eine Wohnung für den Rest des
 Sommers mieten … — Ich fühlte, daß er log. Ich löste
 <@pagebreak/>
-auch eine Fahrkarte bis Norderney, unterwegs Mulatten mir
-Bedenken, und in Hannover verließ ich den Zug uns kehrte
-zurück. — Wahr könnte ich beim besten Willen nicht ans
-geben. —« Herr Harst hat mir soeben hier einige überraschende
+auch eine Fahrkarte bis Norderney, unterwegs kamen mir
+Bedenken, und in Hannover verließ ich den Zug und kehrte
+zurück. — Mehr könnte ich beim besten Willen nicht angeben.
+— Herr Harst hat mir soeben hier einige überraschende
 Aufschlüsse gegeben: Piersch sei Bendigs Diener
 Hamiti gewesen — also Folkers Diener … Mir schwirrt
 der Kopf von alledem … Und Piersch sei hier von einem
 Fremden erschossen worden, nachdem er zu Herrn Harst
-als Beamter verkleidet gekommen, um ihm auszuhorchen …
-Mein Gott, was bedeutet das alles?!’«
+als Beamter verkleidet gekommen, um ihn auszuhorchen …
+Mein Gott, was bedeutet das alles?!«
 
 Knobel lächelte traurig. »Es gibt sehr schlechte Menschen
-auf der Welt und feste gute Schauspieler — zu gute!
-Piersch-Hamiti hat mich kopiert, aber er hat in Seinen gar
-Spritzer, und das tue ich nur Selten, zum Beispiel meiner
-Frau gegenüber: Schweigen ist die Waffe der Schauen,
+auf der Welt und sehr gute Schauspieler — zu gute!
+Piersch-Hamiti hat mich kopiert, aber er hat in Reinen gesprochen,
+und das tue ich nur Selten, zum Beispiel meiner
+Frau gegenüber: »Schweigen ist die Waffe der Schlauen,
 Reden die … Tugend der Frauen!« Doch dies Gebiet liegt
 Ihnen fern, Sie sind ja unverheiratet, Fräulein Gwenda
-Kleid — oder wie Sie sonst heißen mögen … Und
+Kleitt — oder wie Sie sonst heißen mögen … Und
 wenn Sie mal heiraten, kaufen Sie sich ein Schloß — —
-für das München … Der Baron Herbert von Gauß
+für das Mündchen … Der Baron Herbert von Gauß
 dürfte nichts dagegen haben. Halten Sie mich bitte nicht
 für taktlos … Aber — hier muß alles gesagt werden: Sie
 sind mit Gauß heimlich verlobt, und er begleitete Sie bis
 Hannover, meldete mir mein Kollege, dem ich Sie anvertraut
-hatte … Gauß kehrte auch mit Ihnen Kulis, und
+hatte … Gauß kehrte auch mit Ihnen zurück, und
 zurzeit dürfte er hier auf unserem Polizeirevier sitzen und
-darüber nachdenken, ob es wirklich) nötig war, Piersch Hamiti
-zu erschießen, …«
+darüber nachdenken, ob es wirklich nötig war, Piersch-Hamiti
+zu erschießen …«
 
-Gwenda knallte kam. »Das … soll Herbert getan
-haben 21«
+Gwenda schnellte hoch. »Das … soll Herbert getan
+haben?!«
 
-Knobel nickte trübe, »Es scheint so …«
+Knobel nickte trübe. »Es scheint so …«
 
 Lücke fragte erstaunt: »Wie, Sie haben Gauß wirklich
-im Verdacht 2?!«
+im Verdacht?!«
 
-Knobel jagte schmerzlich: »Dort aus dem Wintergarten
-kam der Schuß … nein, die Schüsse, denn auch mit
+Knobel sagte schmerzlich: »Dort aus dem Wintergarten
+kam der Schuß … nein, die Schüsse, denn auch wir
 <@pagebreak/>
-sollten beehrt werden … Der Wintergarten hat KieZ2streuung,
-Hinter den Palmenkübeln liegen drei PatronenGülsen,
-Dort ist Fuchs ein klarer Fußabdruck zu erkennen. Gauß
+sollten beehrt werden … Der Wintergarten hat Kiesstreuung.
+Hinter den Palmenkübeln liegen drei Patronenhülsen.
+Dort ist auch ein klarer Fußabdruck zu erkennen. Gauß
 hat sehr kleine schmale Füße, fast zu klein für einen
 Mann … Außerdem … ja, außerdem: Gauß besitzt einen
-Waffenschein für eine Repetierpistvcle Modell Jongster, Neuyork,
+Waffenschein für eine Repetierpistole Modell Jongster, Neuyork,
 Kaliber 6, — hier sehr selten in Deutschland, die
 Jongsterpistole …« Er faßte in Die Lodenjoppe und zeigte
 uns die Waffe … »Er hat sie weggeworfen bei seiner
 Flucht — durch die offene kleine Tür zum Flur auf den dort
 stehenden Korbsessel. Ich fand sie soeben, als ich Herrn
 Doktor Lücke entgegenging …«
-Gwenda fiel weinend in ihre Sofaecke stille, ck
 
-<h2>8. Kapitel.</h2>
-<h3>Ocsauwiirer.</h3>
+Gwenda fiel weinend in ihre Sofaecke zurück.
+
+<h2>3. Kapitel.</h2>
+<h3>Geschwister.</h3>
 
 Eine äußerst peinlicher Stille folgte. Max Knobel stand
 neben Gwenda und hatte ihr die Hand auf die Schulter
-gelegt, Ihr Schmerz mußte jeden rühren, Sie, die so ganz
+gelegt. Ihr Schmerz mußte jeden rühren. Sie, die so ganz
 allein im Leben den bitteren Kampf der gehetzten Arbeitsbiene
-ausgesprochen hatte, sollte nun aufs den Mann verlieren,
-der ihrem Dasein beglücenben Inhalt gegeben,
+ausgefochten hatte, sollte nun auch den Mann verlieren,
+der ihrem Dasein beglückenden Inhalt gegeben,
 
-Mir selbst wollte es nicht recht in den Kopf, daß Her«
-dort Gauß den Doktor Piersch (oder wie er sonst heißen
-mochten, erschossen haben sollte. Jede Tat erfordert ein
+Mir selbst wollte es nicht recht in den Kopf, daß Herbert
+Gauß den Doktor Piersch (oder wie er sonst heißen
+mochte), erschossen haben sollte. Jede Tat erfordert ein
 Motiv. Wo war hier der Anlaß zu diesen Schüssen zu
-Finger Hatte Gwenda uns noch Dinge verheimlicht, die
-Sessel Motiv geklärt hätten?! Möglich war das schon. Eine
-so dunkle, verworrene Sachlage wie hier, die noch unschätzbar
-Fragen offen ließ, mußte nachts düstere verborgene
+suchen?! Hatte Gwenda uns noch Dinge verheimlicht, die
+dieses Motiv geklärt hätten?! Möglich war das schon. Eine
+so dunkle, verworrene Sachlage wie hier, die noch unzählige
+Fragen offen ließ, mußte noch düstere verborgene
 Ableger haben — wie eine Giftpflanze, deren Blüten und
 <@pagebreak/>
 Früchte harmlos sind, während die Wurzel allein die Giftstoffe
 enthält.
 
-Lücke konnte neben der Tür, die in Felsens Kreise
-Zimmer führte. Dorthin war Harst gegangen. Was trieb
+Lücke lehnte neben der Tür, die in Folkers Arbeitszimmer
+führte. Dorthin war Harst gegangen. Was trieb
 er da?!
 
-»Ich höre sprechen … « sagte Lücke und faßte nach
-dem Türdrücker, Er wollte Gwenda und uns ablenken, Er
-stieß die Tür auf. Das Zimmer war strahlend heil. Im
+»Ich höre sprechen …« sagte Lücke und faßte nach
+dem Türdrücker. Er wollte Gwenda und uns ablenken. Er
+stieß die Tür auf. Das Zimmer war strahlend hell. Im
 Schreibsessel, das Gesicht nach der Tür hin, saß ein jüngerer
-Herr mit gesundem, offenem Gesicht. Neben ihm auf dem.
+Herr mit gesundem, offenem Gesicht. Neben ihm auf dem
 Schreibtisch hatte Harst Platz genommen. Er rauchte und
-nahm die Zigarette aus dem Munde. »Dutzend, Lücke
-2, … Sie gestatten: Baron Herbert Gauß — Herr Kriminalkommissar
-Doktor Lücke«
+nahm die Zigarette aus dem Munde. »N’Abend, Lücke
+… Sie gestatten: Baron Herbert Gauß — Herr Kriminalkommissar
+Doktor Lücke!«
 
-»Bett sei Dank,« rief hinter uns Assistent nobel.
-»Ich freue mich in Ihrem Interesse,- Fräulein: Kleid
-36 habe wich geirrt,«
+»Gott sei Dank,« rief hinter uns Assistent Knobel.
+»Ich freue mich in Ihrem Interesse, Fräulein Kleitt …
+Ich habe mich geirrt,«
 
 Aber Gwenda war schon in des Barons Armen und
 schluchzte an seiner Brust und stammelte unverständliche
 Worte.
 
-Harst zog die Augenbrauen hoch, Max Knobel schlich
-bekniffen 321 ihm hin und flüsterte: »Ich bin ein Stellt!
+Harst zog die Augenbrauen hoch. Max Knobel schlich
+bekniffen zu ihm hin und flüsterte: »Ich bin ein Esel!!
 Ich hielt Gauß für den Mörder?«
 
-»Westen Mörder?! Bisher gibt es zwei Rate …«
+»Wessen Mörder?! Bisher gibt es zwei Tote …«
 
-Hierbei nickte wehleidig. »Ja, der eine ist Doktor Piersch Hamiti,
-der andere Tote will Folker-Bendig-Karlchen Keller
-sein … Aber der Kopf paßt nicht zum Rumpf …
+Knobel nickte wehleidig. »Ja, der eine ist Doktor Piersch-Hamiti,
+der andere Tote will Folker-Bendig-Karlchen Heller
+sein … Aber der Kopf paßt nicht zum Rumpf …«
 
 Gwenda löste sich aus des Barons Armen und ließ
-sich von ihm zum Klubsofa führen, das nur mit Harstschen
+sich von ihm zum Klubsofa führen, das nur mit Kunstleder
 bezogen war.
 
-In der einen Ecke des Zimmers war ein grünen Vorhang
-an einer halbkreisförmigen Messingstange mit Messing ringen
+In der einen Ecke des Zimmers war ein grüner Vorhang
+an einer halbkreisförmigen Messingstange mit Messingringen
 befestigt und hing bis zum Fußboden hinab,
 
-»Kerl Knobel, Ihre Verdachtsgründe?« fragte Harald
+»Herr Knobel, Ihre Verdachtsgründe?« fragte Harald
 freundlich. »Wenn ein Mann wie Sie sich so grob irrt,
 <@pagebreak/>
-müsse. die Scheinbeweise recht eindrucksvoll gewesen sein.«
+müssen die Scheinbeweise recht eindrucksvoll gewesen sein.«
 
-»Schmale kleine Füße und diese « Pistole, erwiderte
-Knobel sanft lächelnd. »Irren ist Verschluß … Wanderer
-greift immer daneben«
+»Schmale kleine Füße und diese Pistole,« erwiderte
+Knobel sanft lächelnd. »Irren ist menschlich … Mancher
+greift immer daneben …«
 
-»Sie selten!« meinte Lücke und klopfte ihm auf die
+»*Sie* selten!« meinte Lücke und klopfte ihm auf die
 Schulter,
 
 »Ein Lob, das ich unterstreichen möchte,« betonte Harald
 und ging in jene grüne Ecke und lüftete ganz langsam den
 Vorhang. »Die kleinen schmalen Füße stimmen … Und
 die Pistole ist ebenso wichtig, — — und dies hier ist Frau
-Freies. Kittel, die von Baron Gauß im Walde abgefaßt
-wurde …
+Thereses Kittel, die von Baron Gauß im Walde abgefaßt
+wurde …«
 
 Er hob den Vorhang und zog ihn gleichzeitig zur Seite.
 
-M: alle starrten hin … Wir alle sahen auf einem
-Stuhl einen Herrn im Trat sitzen, der Durchgang Edward
+Wir alle starrten hin … Wir alle sahen auf einem
+Stuhl einen Herrn im Frack sitzen, der durchaus Edward
 Folker glich …
 
-»Eine Puppet!« rief Lücke … »Was soll das?!«
+»Eine Puppe!!« rief Lücke … »Was soll das?!«
 
-Er hätte es nicht zu rufen brauchen: Es war das bis
-kleidete Skelett aus dem Jahre-Versteck des Schwammhauses,
+Er hätte es nicht zu rufen brauchen: Es war das bekleidete
+Skelett aus dem Rabitz-Versteck des Schwammhauses,
 das hatte ich auf den ersten Blick erkannt.
 
 Harald sagte zu Gauß, und seine Stimme klang alles
 andere als vergnügt: »Herr Baron, man sollte derartige
-theatralische Effekte besser nicht inszenieren, Es war mein
+theatralische Effekte besser nicht inszenieren. Es war mein
 Gedanke … Therese Kittel hat erst die richtige Überraschung
 daraus gemacht. — Entschuldigen Sie, Lücke. Auf
 diesem Stuhl war die Frau festgebunden, die hier die Gegenspielerin
 all der anderen vielnamigen Personen war und
 ist. Jetzt halten diese Stricke ein Skelett im Frack fest …
-
 Ich muß sagen, — — das hatte ich nicht erwartet, und
+ich …«
 
-Urplötzlich Erlös da das Licht in allen Räumen …
+Urplötzlich erlosch da das Licht in allen Räumen …
 
 Wir standen sekundenlang regungslos … Ein leiser
 Aufschrei dann, ein dumpfer Fall … Das krachende zuschmettern
 einer Tür …
 
-Drei Taschenlampen flammten auf, Auf dem Teppich
+Drei Taschenlampen flammten auf. Auf dem Teppich
 <@pagebreak/>
 an der Tür zum Salon lag ein umgestürzter Stuhl, die
-Für selbst war von außen verschlossen.
+Tür selbst war von außen verschlossen.
 
-Gauß rief in jäher Angst: »Wo ist Gwenda?!’
+Gauß rief in jäher Angst: »Wo ist Gwenda?!«
 
 Jetzt erst bemerkten wir ihr Fehlen. Harst warf sich mit
 voller Kraft gegen die Flügeltür … Sie flog splitternd
 auf … Aus dem Eßzimmer Stimmen … Lichtkegel. Lückes
-Begleiter fragten, was Gefährten sei. Im Nu verteilten mit
-uns nein allen Seiten hin … Gauß und ich stürmten
-in den Garten, Der Himmel hatte sich schwarz bezogen, es
+Begleiter fragten, was geschehen sei. Im Nu verteilten wir
+uns nach allen Seiten hin … Gauß und ich stürmten
+in den Garten. Der Himmel hatte sich schwarz bezogen, es
 tröpfelte leicht … Wir rannten bis zur Hinterpforte. Sie
 war offen …
 
 Dumpfes Grollen … ein Blitz — — ein knatternder
-
-…
+Schlag …
 
 Zwischen den Kiefern huschten einen Hügel hinan drei
-Gestalten … Ein Wann trug Gwenda wie ein lebloses
-Bündel im ’Arm …
+Gestalten … Ein Mann trug Gwenda wie ein lebloses
+Bündel im Arm …
 
 Das Licht des Blitzes erlosch, und die Finsternis wurde
-doppelt!iHwer und hinderlich. Ich rannte gegen eine Kiefer,
-prallte zurück, —« Gauß stieß mich vollends zu Boden, wir
+doppelt schwer und hinderlich. Ich rannte gegen eine Kiefer,
+prallte zurück, — Gauß stieß mich vollends zu Boden, wir
 kollerten übereinander, sprangen wieder empor. Ein neuer
 Blitz … — aber der Wald verriet uns nichts, starr und
 steif standen die rauhen schlanken Stämme …
@@ -2187,134 +2187,135 @@ aus Eimern. Ich hörte Gauß in der Nähe rufen …
 Seine Stimme klang ferner und ferner. Es hatte keinen
 Zweck, in diesem peitschenden Regen, in diesem Gewittersturm,
 der die Kiefernwipfel pfeifend rauschen ließ, noch
-weiter zu suchen. Mühsam fand ich Witz in die Villa
+weiter zu suchen. Mühsam fand ich mich in die Villa
 zurück. Im Arbeitszimmer Folkers waren Lücke, Knobel
 und der Polizeiarzt vor der grünen Ecke versammelt. Der
-Stuhl mit der Skelettpuppe stand abseits, Die Mauer zeigte
+Stuhl mit der Skelettpuppe stand abseits. Die Mauer zeigte
 in der Ecke eine längliche große Öffnung, dahinter einen
 dunklen Raum, in dem nun Harsts Kopf erschien …
 
-Er kletterte vollends nach oben, »Eine schmale Treppe
-in einen Kellerraum mit Rabitzwand,« erklärte er wider.
+Er kletterte vollends nach oben. »Eine schmale Treppe
+in einen Kellerraum mit Rabitzwand,« erklärte er widerwillig.
 <@pagebreak/>
-willig. »Bitte — — steigen Sie nur hinab … Es lohnt.«
-ne Lücke schlottern das Loch, Knobel folgte, dann der
-eßt …
+»Bitte — — steigen Sie nur hinab … Es lohnt.«
 
-Mit hielt Harst zurück. »Noch Hause, mein Alter …!
-Sccleuniagst!! Ihr habt Gwenda nicht gefunden … Ich
+Lücke schlüpfte in das Loch, Knobel folgte, dann der
+Arzt …
+
+Mich hielt Harst zurück. »Nach Hause, mein Alter …!
+Schleunigst!! Ihr habt Gwenda nicht gefunden … *Ich*
 muß sie finden, oder — bei Gott — ich will nie mehr einem
-Geheimnis nachspüren, und wenn es sie?) um einen vertauschten
-Regenschirm handelte!!
+Geheimnis nachspüren, und wenn es sich um einen vertauschten
+Regenschirm handelte!!«
 
-Im strömende Regen wanderten wir einsam durch Nacht
+Im strömenden Regen wanderten wir einsam durch Nacht
 und Dunkelheit und Pfützen und lehmigen Brei eilends dem
 Bahnhof Zu. Ein Zufall dann: Wir sahen die Lichter eines
-Autos, Goß setzte ein Ehepaar vor einem Hause am. Markte
+Autos. Es setzte ein Ehepaar vor einem Hause am Markte
 ab, — wir stiegen ein … »Chauffeur, Heiligendammer
-Straße, Schmargendorf. Jahren Sie wie der Teufel — —
+Straße, Schmargendorf. Fahren Sie wie der Teufel — —
 zehnfache Taxe und ein Trinkgeld!«
 
-Es war ein alter Rumpelkasten von Autotaxe, Nicht
-einmal Heraushing hatte die Benzinkarre, Über der Chauffeur
+Es war ein alter Rumpelkasten von Autotaxe. Nicht
+einmal Beleuchtung hatte die Benzinkarre. Aber der Chauffeur
 Holte wirklich aus diesem altersschwachen Gaul das
 Letzte heraus.
 
 »Wir haben eine geringe Chance, mein Alter,« sagte
 Harst aus seiner Ecke heraus, und sein Feuerzeug sprühte
-auf. Er sv3. an seiner Zigarette und blies das Flammen
+auf. Er sog an seiner Zigarette und blies das Flämmchen
 aus. »Diese Chance ist das Telephon in Therese Kittels
-Kellerwohnsalon, Sie selbst wird sich dort mit ihrer Bande
+Kellerwohnsalon. Sie selbst wird sich dort mit ihrer Bande
 natürlich nicht mehr sehen lassen, und …«
 
-»Bande???« warf ic€ ein und schüttelte die Tropfen von
+»Bande?! warf ich ein und schüttelte die Tropfen von
 meinem Hut,
 
-»Ja, Bande. Glaubst du, sie steht allein da?! Ich
-nein?! Zunächst — sie ist keine »sie« Aber nennen wir sie
+»Ja, Bande. Glaubst du, sie steht allein da?! Ach
+nein! Zunächst — sie ist keine »sie«. Aber nennen wir sie
 weiter Therese. Gauß hat Riesenkräfte, und doch hat Therese
-ihm hart angesichts, als er sie erwischte. Er fesselte ihr die
+ihm hart zugesetzt, als er sie erwischte. Er fesselte ihr die
 Hände und schob sie vor sich her. Ich schaute gerade durch das
 Finster des Herrenzimmers in den Garten hinab, als Gauß
-sie der Villa näherte, und ich 303 Therese nach oben, …«
+sich der Villa näherte, und ich zog Therese nach oben …«
 
 »Was war denn eigentlich im Keller unten?«
 
 <@pagebreak/>
 »Nichts … Nur eine verborgene Tür zu den anderen
-Kellern, Lücke wird fluchen, aber diese eine Chance gebe
+Kellern. Lücke wird fluchen, aber diese eine Chance gebe
 ich nicht aus der Hand.«
 
-»öin — das Telephon?!«
+»Hm — das Telephon?!«
 
 »Nichts hm …!! Es ist mit Sicherheit anzunehmen,
-daß die die Heller ein doppeltes Spiel trieb, also beiden
-Parteien diente, Alles hängt davon ab, ob die Heller sich
-täuschen läßt … Karten, ihr angebissen Sohn, war
-Folker-Bendig-»Bydroop. Davon hat Therese nichts gewußt,
-als sie sich mit der Wien einließ und ihr das Telephon
-anvertraute, — Jagen wir besser die Herstellung der richtigen
-Verbindungen
+daß die dicke Heller ein doppeltes Spiel trieb, also beiden
+Parteien diente. Alles hängt davon ab, ob die Heller sich
+täuschen läßt … Karlchen, ihr angeblicher Sohn, war
+Folker-Bendig-Bydroop. Davon hat Therese nichts gewußt,
+als sie sich mit der Dicken einließ und ihr das Telephon
+anvertraute, — sagen wir besser die Herstellung der richtigen
+Verbindungen …«
 
 Das Auto hielt vier Häuser vor dem Grünkramkeller.
 Harst reichte dem Chauffeur zwanzig Mark. »Warten Sie
 hier…!« — Es regnete auch hier in Strömen. Als wir
 Davonschritten, tauchte neben uns eine kleine Gestalt auf.
-»Tag bin untröstlich,« jagte Max Knobel demütig, »daß
-im als blinder Passagier mitfahren mußte. Es war sein
+»Ich bin untröstlich,« sagte Max Knobel demütig, »daß
+ich als blinder Passagier mitfahren mußte. Es war kein
 Genuß, oben auf dem Wagendach zu liegen. Ich bin so naß,
 daß ich mich selbst erst auswinden muß,«
 
 Mein Erstaunen war ehrlich. Harst meinte nur: »Sie
-haben auch dafür einen seinen Fischer, wenn man andere
-Leute Vertrag will, Herr Knobel.«
+haben auch dafür einen feinen Riecher, wenn man andere
+Leute versetzen will, Herr Knobel.«
 
-»Ah, als Ehemann wird man hellh5rig, Herr Harst,«
-erwiderte Knobel und duckte sich wie ein nasser Pudel zusammen,
+»Ach, als Ehemann wird man hellhörig, Herr Harst,«
+erwiderte Knobel und duckte sich wie ein nasser Pudel zusammen.
 »Alle Kriminalbeamten sollten verheiratet sein.
 Ein Junggeselle lernt die Weiber nie richtig kennen, und
-bei fünfundsiebzig Prozent aller Kriminalfälle sah en Weiber
-eine Hauptrolle — hier die Gwenda Kleid,«
+bei fünfundsiebzig Prozent aller Kriminalfälle spielen Weiber
+eine Hauptrolle — hier die Gwenda Kleitt,«
 
 Aus einer Türnische löste sich ein Mann mit einer
-Pelerine heraus. »Emil Wirt,« flüsterte er hastig … »Wir
+Pelerine heraus. »Emil Witt,« flüsterte er hastig … »Wir
 haben nichts Verdächtiges bemerkt, Herr Harst …« Und
 rasch trat er wieder in den Schatten zurück.
 
-Dunkel und unheimlich erhob sie vor uns das Schwammhaus,
-Knobel sagte gehängt: »Es gefällt mir … In Romanen
+Dunkel und unheimlich erhob sich vor uns das Schwammhaus.
+Knobel sagte gedämpft: »Es gefällt mir … In Romanen
 <@pagebreak/>
-erfindet der Dichter solche Haufen. In Groß-Berlin
+erfindet der Dichter solche Häuser. In Groß-Berlin
 findet man sie in Wirklichkeit.«
 
 Die Kellerfenster rechts waren ohne Licht. Wir drangen
 lautlos in die Küche ein. Der Schlüssel hatte von innen im
 Schlosse gesteckt, und Harst hatte ihn mit der Schlüsselzange
 herumgedreht. Und doch waren wir nicht leise genug gewesen.
-Sepps in einer Ecke aufgestellte Bettstatt knarrte,
+Sepps in einer Ecke aufgestellte Bettstatt knarrte.
 »Wer ist da? Bist du’s Mutter?«
 
-»Harst!« —« Knobels Laterne beleuchtete den Jungen.
+»Harst!« — Knobels Laterne beleuchtete den Jungen.
 
-»ah — Sie …!! Mutter ist nicht da, Herr Harst …«
+»ach — Sie …!! Mutter ist nicht da, Herr Harst …«
 
-Harald trat zu ihm. »Mein lieber Junge, im möchte
+Harald trat zu ihm. »Mein lieber Junge, ich möchte
 dich einiges fragen. Du wirst nicht lügen.«
 
 »Nein, Herr Harst … Aber Mutter ist gut zu mir,
 und sie hat mir befohlen …«
 
-Ich weiß: Verschiedenes zu verschweigen! — Sie
-Dinge liegen nun aber so, daß die Wahrheit an den Lag
+»… Ich weiß: Verschiedenes zu verschweigen! — Die
+Dinge liegen nun aber so, daß die Wahrheit an den Tag
 will … — Sie ist gar nicht deine Mutter. Sie ist ein
-Mann.«!
+Mann.«
 
 Josefs mageres Gesicht verzog sich zu einem heiteren
 Lächeln. »Ein Mann?! Was Sie aber auch alles reden,
 Herr Harst!!«
 
 »Jedenfalls ist sie nicht deine Mutter … Sie hat heute
-jemand getötet, —« erschossen, und sie wollte auch Darauf
+jemand getötet, — erschossen, und sie wollte auch Schraut
 und mich töten.«
 
 Sepps kluge Knabenaugen weiteten sich. »Mein Gott,
@@ -2325,79 +2326,77 @@ meine Mutter, nur meine Pflegemutter …«
 
 Der Junge zögerte erst.
 
-»Insel Kleid,« sagte er leise.
+»Josef Kleitt,« sagte er leise.
 
-Knobel und im schlafen geradezu zusammen. Harald
+Knobel und ich schraken geradezu zusammen. Harald
 nickte nur:
 
-»Als — — doch!! Dann habe ich mich geirrt. Alle
+»Also — — doch!! Dann habe ich mich geirrt. Alle
 Leute in diesem Spiel, die mit Bendig verbündet waren
 <@pagebreak/>
-—» alle, auch Therese! — sind eine Partei. Die anderen
-sind zwei Geschwister: Insel und Gwenda Kleid?«
+— alle, auch Therese! — sind eine Partei. Die anderen
+sind zwei Geschwister: Josef und Gwenda Kleitt!«
 
-Knobel rieb sich energisch die Stirn. »Allewettert! 34
+Knobel rieb sich energisch die Stirn. »Allewetter!! Ich
 ahne was!! Sie denken aus an den Aufruf in den Zeitungen,
-Herr Harst?’«
+Herr Harst?«
 
 Harald blickte ihn scharf an. »Zwei Hirne arbeiten parallel,
 lieber Knobel …! Es stimmt!«
 
-ammeetknzetendumzgkngeuugd
-
-u. Kapitel.
-Der Klub Fell—Ei-See.
+<h2>4. Kapitel.</h2>
+<h3>Der Klub Frü-Si-Bea.</h3>
 
 Sepp hatte nach Harsts Hand gehascht. »Wie — ich
 habe eine Schwester?!«
 
-»Später reden wir — darüber, mein Junge … — Die
+»Später reden wir darüber, mein Junge … — Die
 Therese telephonierte oft … Ihr habt da vorn einen Apparat.
-Wie rief sie die die Heller an?«
+Wie rief sie die dicke Heller an?«
 
 »Durch vier Zeichen … Neben dem Apparat in dem
 Wandkasten ist ein schwarzes Aststück im Holz. Das ist
 ein Klingelknopf. Zweimal kurz, zweimal lang, — dann
-meldet sie die Heller … Und dann rief Mutter ihr immer
+meldet sich die Heller … Und dann rief Mutter ihr immer
 die Nummer zu, die sie haben wollte … meist war es
 dieselbe, aber ich hab’ sie vergessen … Aber das Amt war
-Pfalzburg «. ja … Pfalzburg 2324 — — ganz den
-stimmt …
+Pfalzburg … ja … Pfalzburg 2324 — — ganz bestimmt
+…«
 
-»Habt »ihr ein Fernsprechverzeichnis?
+»Habt ihr ein Fernsprechverzeichnis?«
 
-— «. Unten im Küchenschrank …
+»Ja … Unten im Küchenschrank …«
 
-Knobel ’holte das Buch heran und blätterte darin.
+Knobel holte das Buch heran und blätterte darin.
 
 »Was suchen Sie?« fragte Harst sichtlich gespannt.
 
 »Das, was Sie suchen würden …: Das, was Bendig
-auf die Quittung für Herrn Schraut schrieb — -« aus Berg
-sehen: Bydroop!«
+auf die Quittung für Herrn Schraut schrieb — — aus Versehen:
+Bydroop!«
 
-»Bravo …?«
+»Bravo …!«
 
-»Tat ihm schon?! Es gibt nur einen Bydroop hier …
+»Hat ihm schon! Es gibt nur einen Bydroop hier …:
 <@pagebreak/>
-Doktor Arthur Bydroop, Königs. siamesischer Bezirksarzt ad,
+Doktor Arthur Bydroop, königl. siamesischer Bezirksarzt a.&nbsp;D.,
 Schmargendorf, Kissinger Straße 78.«
 
 »Das ist ja die Riesenvilla neben der Bendigs!« rief
 ich,
 
 Knobel klappte das Buch zu. »Das ist das Hauptquartier
+der Bande!«
 
-der Bande!’
-»Zieht bis an, Sepp,« sagte Harst, »Seit mehr als
-zehn Jahren hat man. Ei und deine Schwester nieder
-trächtig betrogen … Es werden nun bessere Zeiten für
+»Zieh’ dich an, Sepp,« sagte Harst. »Seit mehr als
+zehn Jahren hat man dich und deine Schwester niederträchtig
+betrogen … Es werden nun bessere Zeiten für
 dich kommen, mein lieber Junge,«
 
-»St, du kannst dir ein Motorrad kaufen,« lächelte
-Knobel … »Bisher hast du nur Kataloge über Motorräder Art
+»Ja, du kannst dir ein Motorrad kaufen,« lächelte
+Knobel … »Bisher hast du nur Kataloge über Motorräder im
 Küchenschrank gesammelt. Jetzt wirst du dir auch ein Auto
-leisten können, — Ich denke, Herr Harst, ich echte den
+leisten können. — Ich denke, Herr Harst, ich schicke den
 Kollegen draußen zur Polizeiwache … Wir kreisen Nr. 78
 ein, und inzwischen kann auch Doktor Lücke hier sein, womit
 sie natürlich einverstanden sind.«
@@ -2406,92 +2405,91 @@ sie natürlich einverstanden sind.«
 Bydroop genau wie wir schon auf Kissinger 78 scharf gemacht
 worden ist.«
 
-Knobel seufzte kläglich. »Das wäre sehr schön
+Knobel seufzte kläglich. »Das wäre sehr schön …!«
 
 »Sie seufzen und sagen: schön?!«
 
-»Na ja, Herr Harst, … Doktor Lücke ist ein trefflich:
-Mann, und er würde nichts dagegen haben, daß mal
-Tau den wie Üblich bringend nötigen Herbsthut und Her!:.:
-
-Mantel schon jetzt Ende Juli kauft.«
+»Na ja, Herr Harst, … Doktor Lücke ist ein trefflicher
+Mann, und er würde nichts dagegen haben, daß meine
+Frau den wie Üblich dringend nötigen Herbsthut und Herbstmantel
+schon jetzt Ende Juli kauft.«
 
 Dann ging er eilends davon.
 
-Sepp- schlüpfte in seine Kleider und suchte rote eilte
-Zeltbahn hervor, die er bei schlechtem Wetter als Tube::
+Sepp schlüpfte in seine Kleider und suchte noch eine
+Zeltbahn hervor, die er bei schlechtem Wetter als Umhang
 zu tragen pflegte. Er war sehr aufgeregt, und immer wieder
-fragte? er nach Gwenda., Seine Augen leuchteten, und als
+fragte er nach Gwenda. Seine Augen leuchteten, und als
 Harald ihm versprach, er würde Gwenda noch in dieser
-Nacht sehen, Schufte er ein paar Tränen hinab,
+Nacht sehen, schluckte er ein paar Tränen hinab,
 
 »Zur Zeit, fügte Harst wohl aus Berechnung hinzu,
 »ist Gwenda allerdings entführt worden, also vorläufig verschwunden,
 <@pagebreak/>
-mein Junge. deshalb braust du dir aber keine
+mein Junge. deshalb brauchst du dir aber keine
 Sorgen zu machen.«
 
-Sepp starrte ihn entsetzt »an. »Wie — — entführt?
+Sepp starrte ihn entsetzt an. »Wie — — entführt?!«
 
-»Ja — von Therese …
+»Ja — von Therese …«
 
-»ob, — das hätte ich »he nicht zugetraut, das nicht?!
-Herr Harst, ich will nun auch noch« das Leute sagen: Die
-alte Heller ist Thereses Mutter, und Karlchen Keller mit’n
-Klaps ist gar nicht der Sohn von der dicken Mitten, sondern
-… ein seiner Herr, der mal so, mal so aussieht …
+»Oh, — das hätte ich ihr nicht zugetraut, das nicht!!
+Herr Harst, ich will nun auch noch das Letzte sagen: Die
+alte Heller ist Thereses Mutter, und Karlchen Heller mit’n
+Klaps ist gar nicht der Sohn von der dicken Alten, sondern
+… ein feiner Herr, der mal so, mal so aussieht …«
 
-»3X — mal wie Bendig, mal wie Folker … Kennst
+»Ja — mal wie Bendig, mal wie Folker … Kennst
 du die Namen?«
 
 »Und ob!! Die Herren gehören ja mit zum Vorstand
-des ’Frü-Ei-BeaKlubs, und dort macht die Therese rein,
-und die Herren … «.«
+des Frü-Si-Bea-Klubs, und dort macht die Therese rein,
+und die Herren …«
 
-»Fell-Ei-See, mein Alter, heißt nämlich: Früherer Sivamesischer
+»Frü-Si-Bea, mein Alter, heißt nämlich: Früherer Siamesischer
 Beamter …« erklärte Harald und fixierte mich
 neugierig,
 
-»Was?! — — Der Klub?! — Der Klub, da« jetzt am
+»Was?! — — *Der* Klub?! — Der Klub, der jetzt am
 1\. Juli wieder drei Tage in allen Zeitungen die großen …«
 
 »Wir wollen gehen,« — Harst wies auf die Tür. »Ich
-hätte den Schwindel mit den doppelten und dreifachen Pack
-irren und Persönlichkeiten niemals so rasch festgestellt, wenn
-ich nicht den Vorstand gekannt hätte, Interessant war mir
+hätte den Schwindel mit den doppelten und dreifachen Namen
+und Persönlichkeiten niemals so rasch festgestellt, wenn
+ich nicht den Vorstand gekannt hätte. Interessant war mir
 dieser Klub schon immer,« — er schloß hinter uns die Tür
-ab — »über ich hatte keinerlei Beweise. Erst die Brieftauben,
+ab — »aber ich hatte keinerlei Beweise. Erst die Brieftauben,
 die den Mitgliedern zum schriftlichen Verkehr untereinander
 dienten, und dann dein Abenteuer heute, mein
 Alter, brachte den Stein ins Rollen, — in diesem Falle
-also eine Luftzug, auf der sich jemand ovevriehentlich verstrich
-und seinen wahren Namen benutzte! Bendig Blatt
-dies natürlich sofort bemerkt, als er dir die &usgefüllte
+also eine Quittung, auf der sich jemand versehentlich verschrieb
+und seinen wahren Namen benutzte! Bendig hat
+dies natürlich sofort bemerkt, als er dir die ausgefüllte
 Quittung reichte, und da er sie dir nicht wieder abnehmen
 wollte, um die Sache nicht noch zu verschlimmern, gab er
-für alle Fälle das allgemeine Alarmsignal: »Es oft Zeit
-—» oder — es wird Zeit!« Daraufhin erst spielte sich all
+für alle Fälle das allgemeine Alarmsignal: »Es ist Zeit
+— oder — es wird Zeit!« Daraufhin erst spielte sich all
 <@pagebreak/>
 das ab, was uns so rätselhaft erschien, das heißt
 uns nicht, nur dir, denn Knobel zumindest war sehr bald
 im Bilde …«
 
-Wir warteten im Auto auf Knobel. Er kamt nach wenigen
+Wir warteten im Auto auf Knobel. Er kam nach wenigen
 Minuten,
 
 »Erledigt …« meldete er traurig. »Schade, es war
 ein so nettes Problem, wie man es nie wieder findet,
-Zumeist gibt es ja nur Einbrüche und derlei Kleinkram
+Zumeist gibt es ja nur Einbrüche und derlei Kleinkram …«
 
 Das Auto fuhr davon.
 
 Weit hatten wir’s nicht bis zur Kissinger 78. — Harst
-Ließ an der Ecke Davoser halten, Wir gingen zu Fuß weiter.
-Noch« zwei Leute schlossen sich uns an: Emil Wirt und
-an Kollege von ihm.
+Ließ an der Ecke Davoser halten. Wir gingen zu Fuß weiter.
+Noch zwei Leute schlossen sich uns an: Emil Witt und
+ein Kollege von ihm.
 
 Als wir die palastartige Villa vor uns hatten, sahen
-wir auf der Straße fünf elegante Privatautos warten, Im
+wir auf der Straße fünf elegante Privatautos warten. Im
 Erdgeschoß waren alle Räume erleuchtet.
 
 Knobel atmete hörbar tief auf. »Gott sei Dank, sie
@@ -2502,69 +2500,68 @@ Bydroop keine Wichtigkeit beigemessen …«
 »Haben Sie Lücke persönlich am Apparat gesprochen?«
 Fragte Harst, und wir betraten den Vorgarten.
 
-»Fein … Lücke war nicht mehr in der Villa Folker
-
+»Nein … Lücke war nicht mehr in der Villa Folker
 … Aber die anderen Herren waren dort noch tätig und
 wollten ihn benachrichtigen.«
 
-»Im — und wohin begab er sich?«
+»Hm — und wohin begab er sich?«
 
 »Das wußten die Herren ganz genau: Nach Schmargendorf,
 zu Ihnen, Herr Harst, — — also nicht zu Ihnen, sondern
 hierher!« Und er zeigte auf die Villa.
 
-Diese stand in einem großen Garten, der nach auswischen
-Geschmack angepflanzt, also ziemlich fahl war, Stoß
+Diese stand in einem großen Garten, der nach englischem
+Geschmack angepflanzt, also ziemlich kahl war. Trotz
 des Regens erkannten wir hinten im Garten einige Gestalten:
 Die Belagerer! — Hier kam keine Maus ungesehen
-ans Freie.
+ins Freie.
 
-Wirt und sein Kollege blieben im Vorgarten.
+Witt und sein Kollege blieben im Vorgarten.
 
 <@pagebreak/>
 Uns öffnete ein alter, weißhaariger Diener, blickte uns
 sehr hochmütig an und fragte nach unseren Wünschen.
 Knobel drängte ihn beiseite, machte die Tür zu und
-meinte nach flüchtigem Blick durch, die leere Vorhalle:
+meinte nach flüchtigem Blick durch die leere Vorhalle:
 
 »Zunächst wünsche ich Ihre Hände zu sehen … So
-… —. Nun gehen Sie mit den Handschellen in den Herr«
-Garten, lieber Freund …!! Kollege Wirt wird Sie freundlichst
-begrüßen … « Er riß die Tür auf und rief Wirt
+… Nun gehen Sie mit den Handschellen in den Vorgarten,
+lieber Freund …! Kollege Witt wird Sie freundlichst
+begrüßen …« Er riß die Tür auf und rief Witt
 Herbei.
 
 Dann folgte er uns und Sepp in den großen Salon …
 
-Zwölf Hörten waren hier versammelt, — — dazu
+Zwölf Herren waren hier versammelt, — — dazu
 einige Damen, darunter auch Isolde Piersch, alle in tadellosem
 Abenddreß.
 
 Unser jähes Eindringen kam ihnen völlig überraschend
 
 Harst schritt auf einen hageren, kahlköpfigen Herrn im
-Dja zu …
+Frack zu …
 
-Seine Pistole tippte dem Manne gegen das Krachend.
+Seine Pistole tippte dem Manne gegen das Frackhemd.
 
-»Guten Abend, Frau Therese, »!t«
+»Guten Abend, Frau Therese …!!«
 
-Knobel und im überwachten die Herrschaften, und Knobel
-sagte im Tone milden Vorwurf:
+Knobel und ich überwachten die Herrschaften, und Knobel
+sagte im Tone milden Vorwurfs:
 
 »Bitte — nur nicht etwa Dummheiten machen!! Nur
 nicht!! Sonst knallt’s! Und das wäre nicht schön … Es
-gäbe noch; mehr Tote
+gäbe noch mehr Tote …«
 
-In einen! Sessel saß eine unförmig dicke Dame mit
-rosig geschminkten Wangen und wundervoller weißer Weg
-rüde mit Reiherstutz.
+In einem Sessel saß eine unförmig dicke Dame mit
+rosig geschminkten Wangen und wundervoller weißer Perücke
+mit Reiherstutz.
 
 Harst lächelte sie an … »Frau Heller, wo — sind Ihre
 Gemüsekörbe?!«
 
 Die ganze Bande hier verhielt sich bisher durchaus
 schweigsam. Einige lächelten sogar … Nur der Mörder,
-ist. Glatzköpfige, »Therese« war ein wenig schweißig im See
+der Glatzköpfige, »Therese« war ein wenig schweißig im Gesicht.
 
 Dann flog eine Seitentür auf, und Doktor Hans Lücke
 und vier Beamte traten ein — als sechster aber Baron
@@ -2572,44 +2569,45 @@ und vier Beamte traten ein — als sechster aber Baron
 Gauß, der die blasse Gwenda am Arm führte und sie
 zärtlich stützte.
 
-Lücke Fratze Uns ironisch zu,
+Lücke nickte Uns ironisch zu,
 
 »Diesmal, Harst, waren wir vier Minuten früher zur
 Stelle … Ein Diener wollte das Alarmzeichen geben,
-als wir Nur den Heller eindrangen … Im Keller hatten
-wir Baron Gauß und Gwenda gefunden — Ihn gefesselt.
-—» Immerhin, Harst, — — halten Sie nun diesem famosen
-Klub keine? Schandtaten vor. In einigen Punkten sind Sie
+als wir durch den Keller eindrangen … Im Keller hatten
+wir Baron Gauß und Gwenda gefunden — sorgsam gefesselt.
+— Immerhin, Harst, — — halten Sie nun diesem famosen
+Klub seine Schandtaten vor. In einigen Punkten sind Sie
 da wohl besser im Bilde als ich.«
 
 Knobel steckte seine Pistole weg und meinte wehmütig:
-»Schade — — schade …!/?! Nun ist Ei? Sache aus …
-Aber so einigen Senf muß auch ich noch. beisteuern.«
+»Schade — — schade …!! Nun ist die Sache aus …
+Aber so einigen Senf muß auch ich noch beisteuern.«
 
 <h2>5. Kapitel.</h2>
 <h3>Der Steuermann Kleist.</h3>
 
-Harald wandte sich zunächst an die schlanke fesche Isolde,
-»Ist Ihr Name wirklich Isolde Piersch? Sind sie Polster
+Harald wandte sich zunächst an die schlanke fesche Isolde.
+»Ist Ihr Name wirklich Isolde Piersch? Sind sie Doktor
 Pierschs Tochter?«
 
-Sie lohte höhnisch auf. »Ja — warum nicht?! —
+Sie lachte höhnisch auf. »Ja — warum nicht?! —
 Wir haben Sie schön angeführt!! Papa wollte Sie nur
-kennenlernen und
+kennenlernen und …«
 
-»…-. und Papa ist Kot …« vollendete Harst sehr
+»… und Papa ist tot …« vollendete Harst sehr
 ernst. »Ich sehe ihn hier nicht, ich kann ihn auch nicht
 sehen, denn er liegt mit Herzschuß in der Villa Folker in
-Zehlendorf, erschossen durch Theodor Keller alias Therese
+Zehlendorf, erschossen durch Theodor Heller alias Therese
 Kittel.«
 
-Die Sandalen Herrschaften machten jetzt Gatte ältere
+Die feudalen Herrschaften machten jetzt ganz andere
 Gesichter,
-»Zucbtlausschreckt« murmelte Knobel ziemlich laut.
 
-Isolde … stierte Harst verstört an. »Ist das wahr … 7?’«
+»Zuchthausschreck!« murmelte Knobel ziemlich laut.
 
-»Leider … Ihr Vater wollte Miß und Schraut, als
+Isolde stierte Harst verstört an. »Ist das wahr …?!«
+
+»Leider … Ihr Vater wollte mich und Schraut, als
 <@pagebreak/>
 Knobel verkleidet, dem Herrn Theodor Heller vor die Pistole
 locken. Heller lauerte im Wintergarten. Aber der echte
@@ -2618,126 +2616,124 @@ Ihren Vater zuerst … Die anderen Schüsse gingen fehl.«
 
 Die kleine Katze von Sportmädel flog Theodor Heller ins
 Gesicht, aber er stieß sie roh zurück … »Närrin — der
-Schuß ging fehl)!«
+Schuß ging fehl!!«
 
-»Sie lügen — — lügen!« kreischte sie und stürzte sich a1:s
-einen anderen Herrn im dunklen Spitzbart und Glas.
-»Du bist mit daran schuld — — du, zu … Verbrecher!
+»Sie lügen — — lügen!« kreischte sie und stürzte sich auf
+einen anderen Herrn im dunklen Spitzbart und Glatze.
+»Du bist mit daran schuld — — du, du … Verbrecher!
 Du hast den ganzen Plan entworfen, du hast mich mit
 Hineingezogen in eure elenden Betrügereien! Die beiden
 Erben zu beseitigen, — dazu wart ihr zu feige!! Aber meinen
-Vater niederzuknallen, der ganzandere3 vorhatte, als Harst
-
-in eine Falle zu locken, ich dem aber dieser unerhörte
-Schwindel!Hon zuwider war und von dem ihr wohl Der«
-Rat befürchtetet, — der mich zu Therese in den Keller
-
-Gesichts, damit ich das andere Testament fände und …«
+Vater niederzuknallen, der ganz anderes vorhatte, als Harst
+in eine Falle zu locken, — dem aber dieser unerhörte
+Schwindel schon zuwider war und von dem ihr wohl Verrat
+befürchtetet, — der mich zu Therese in den Keller
+schickte, damit ich das andere Testament fände und …«
 — sie konnte nicht weiter, der Atem ging ihr aus und
-heulend warf sie sich zu Boden, mußte rasch hinaus
-getragen werden …
+heulend warf sie sich zu Boden, mußte rasch hinausgetragen
+werden …
 
 Der Mann, den sie zuletzt so hart beschuldigt hatte,
 war Arthur Bendig-Bydroop, einst Inselbesitzer, Millionär,
 nachher Betrüger, Fälscher …: Zusammen mit Theodor
 Heller das Haupt dieses Klubs ehemaliger Gefangener,
 
-—» Ich will hier die Zusammenhänge in aller Kürze
-erklären. War Knobels Ergänzungen schließen das Ganze,
+— Ich will hier die Zusammenhänge in aller Kürze
+erklären. Max Knobels Ergänzungen schließen das Ganze,
 
-Zu: Beginn des Weltkrieges wurden auch in Siam
-alle Deutschen in noch wehrfähigem Alter festgesetzt, In
-doch Gefangensetzen von Boden Natur bei Bangkok befand sich
+Zu Beginn des Weltkrieges wurden auch in Siam
+alle Deutschen in noch wehrfähigem Alter festgesetzt. In
+dem Gefangenlager von Bober Ratu bei Bangkok befand sich
 aus der deutsche Steuermann Josef Kleist, der mehrere
-Jahre in den Bergen von Sicherung in Siam heimlich
+Jahre in den Bergen von Tscharatta in Siam heimlich
 eine Goldfundstelle ausgebeutet hatte. Kleist hatte das gewonnene
-Gold sicher versteckt…war ahnungslos in kultivierte
+Gold sicher versteckt, war ahnungslos in kultivierte
 Gegenden zurückgekehrt und wurde interniert. Er hatte
 <@pagebreak/>
 die Seinen ohne jede Nachricht gelassen, galt für tot. Seine
-Frau, von der er schlichen früher getrennt hatte, war bartlos
+Frau, von der er sich schon früher getrennt hatte, war herzlos
 genug gewesen, die beiden Kinder Fremden zu überlassen:
 Gwenda kam zu einer entfernten Verwandten nach
-Bansin, die sich Kleid nannte, obwohl sie Kleist hieß. Insel
-Kleist wurde schon als Säugling ja einem Heim untergebracht.
+Bansin, die sich Kleitt nannte, obwohl sie Kleist hieß. Josef
+Kleist wurde schon als Säugling in einem Heim untergebracht.
 — Steuermann Kleist schloß sich im Gefangenenlager
 an eine Anzahl von Deutschen an, die dort den Klub
 gegründet hatten. Als Kleist am Sumpffieber erkrankte und
 den Tod nahen fühlte, schrieb er noch eigenhändig zwei für
-Deutschland rechtsgültige Testamente, Das eine bestimmte,
+Deutschland rechtsgültige Testamente. Das eine bestimmte,
 daß seine Kinder ihn beerben sollten. Er gab genau das
-Fenster des Goldes an, und zwar sollten die Mitglieder
-des Klubs nach Krieggende’ den Schloß bergen. — Das
-zweite Testament setzte als Erben den Klub Schlüssel-See
+Versteck des Goldes an, und zwar sollten die Mitglieder
+des Klubs nach Kriegsende den Schatz bergen. — Das
+zweite Testament setzte als Erben den Klub Frü-Si-Bea
 ein, falls Kleists Kinder nicht mehr leben sollten. Seine
-Frau erteilte er wegen Treubruchs und anderer grober
-sittlicher Verstöße, — Die Testamente nahm zuerst Arthur
+Frau enterbte er wegen Treubruchs und anderer grober
+sittlicher Verstöße. — Die Testamente nahm zuerst Arthur
 Bydroop an sich. Er entwarf den Plan, das Gold für die
-Klubmitglieder zu gewinnen. Nach Kriegsende falsche er
-Kleist Namen in »Klein«, damit die echten Erben nicht
-gefunden würden, Die ganzen Verschworenen siedelten sich
-in Berlin und Umgegend an und trafen die weitgehendster
-Vorsichtsmaßregeln, den Schwindel zu decken, Da sie das
+Klubmitglieder zu gewinnen. Nach Kriegsende fälschte er
+Kleists Namen in »Klein«, damit die echten Erben nicht
+gefunden würden. Die ganzen Verschworenen siedelten sich
+in Berlin und Umgegend an und trafen die weitgehendsten
+Vorsichtsmaßregeln, den Schwindel zu decken. Da sie das
 Gold heimlich aus Siam nicht wegschaffen konnten, mußten
 sie die Testamente bestehen lassen, freilich gefälscht. So kam
-das Gold zunächst nach Bangkok, wo eine ainericanische
-Firma es für eine halbe Million Dollar aufkaufte. —
+das Gold zunächst nach Bangkok, wo eine amerikanische
+Firma es für eine halbe Million Dollar aufkaufte, —
 also rund zwei Millionen Mark, die zum Dollarkurs in
-der Schweiz wertbeständig angelegt wurden, Zum Schein
-erließ der Klub jedes Jahr Zeitungsaufrufe naß den Kindern
-des Josef Klein, nicht Insel Drei st. Natürlich meldete sich
-niemand, Inzwischen hatte der Klub die beiden Kinder zu
-findig gemacht, und das Ränkespiel ging weiter, Wie Bis
-bevor nachher eingestand, hatten die Betrüger sei)Sender;9595
+der Schweiz wertbeständig angelegt wurden. Zum Schein
+erließ der Klub jedes Jahr Zeitungsaufrufe nach den Kindern
+des Josef Klei*n*, nicht Josef Klei*st*. Natürlich meldete sich
+niemand. Inzwischen hatte der Klub die beiden Kinder ausfindig
+gemacht, und das Ränkespiel ging weiter. Wie Bydroop
+nachher eingestand, hatten die Betrüger gerade vor
 <@pagebreak/>
-Bartlose größte Angst. Sie schienen sich; noch: mehr, indem
-sie das bereits verstorbene Mitglied Folker zum Gestein
+Harst die größte Angst. Sie sicherten sich noch mehr, indem
+sie das bereits verstorbene Mitglied Folker zum Schein
 weiterleben ließen — durch Bydroop-Bendig! Als nun durch
-die Quittung Entdeckung drohte, sollte »Folter«, der Gwenda
+die Quittung Entdeckung drohte, sollte »Folker«, der Gwenda
 zu sich genommen hatte, endgültig sterben, damit das Doppelspiel
-nicht von uns enthüllt würde, Auch hierauf waren
+nicht von uns enthüllt würde. Auch hierauf waren
 die Betrüger vorbereitet: »Folker« verbrannte mit dem
 Schädel mit den Goldkronen, und diese Goldkronen sollten
-beweisen, daß der verkohlte Leichnam, 5, Folker« gewesen sei, —
+beweisen, daß der verkohlte Leichnam, »Folker« gewesen sei, —
 
 »Als ich Rumpf und Kopf genau besichtigte,« sagte
 Knobel mit vorwurfsvollem Blick auf Bydroop, »sah ich
 sofort, daß zwei Halswirbel völlig fehlten. Mithin konnte
 der Schädel, den man übrigens mit Fleischstücken vorher
-beliebt hatte, damit der Trick recht echt wirke, nicht zu
-dem Rumpf gehören, Also war es ein Rumpf, den die Herrschaften
+beklebt hatte, damit der Trick recht echt wirke, nicht zu
+dem Rumpf gehören. Also war es ein Rumpf, den die Herrschaften
 sich irgendwo beschafft hatten. Dieser Rumpf war
 auch für »Folker« zu groß, Herr Bydroop. Sie hätten eben
-noch vorsichtiger sein müssen, Ihr Plan hatte überhaupt
+noch vorsichtiger sein müssen. Ihr Plan hatte überhaupt
 verschiedene Schönheitsfehler. Wie alle Verbrecher, denen
 beständig Entdeckung droht, waren Sie zu phantasievoll in
-Ihren Schutzmaßnahmen, Zwei Millionen rechtfertigen allerdings
-so manche Dummheit, — Zum Beispiel, — reden wir
-noch über das Skelett im Bett des Rabitzverstecks, Natürlich
-wollten Sie das Skelett ursprünglich im Notfall für »Fall«
-Vers« Tod benutzen. Aber davon kamen Sie ab. Ein Skelett
+Ihren Schutzmaßnahmen. Zwei Millionen rechtfertigen allerdings
+so manche Dummheit. — Zum Beispiel, — reden wir
+noch über das Skelett im Bett des Rabitzverstecks. Natürlich
+wollten Sie das Skelett ursprünglich im Notfall für »Folkers«
+Tod benutzen. Aber davon kamen Sie ab. Ein Skelett
 läßt sich nicht mit Fleischscheiben bekleben und »füllen« …
-—». Herr Harst kann Ihnen sicherlich Rock mehr Fehler
-aufzählen. Aber er wird hier kaum ein Helles für Herz
-breiter über richtige und falle Taktik bei Millionen
-Gaunereien halten wollen. Ich würde das auch nicht tun …«
+— Herr Harst kann Ihnen sicherlich noch mehr Fehler
+aufzählen. Aber er wird hier kaum ein Kolleg für Verbrecher
+über richtige und falsche Taktik bei Millionengaunereien
+halten wollen. Ich würde das auch nicht tun …«
 Er lächelte sanft und ging zu Gwenda und Sepp hin, die
 Hand in Hand auf dem Sofa saßen. »Meinen herzlichsten
-Glückwunsch,« sagte er fast gerührt. »Sie beide sind nun Nix
-Kanäle … Werden ’Sie grünlichen! Und aufs Sie, Herr
+Glückwunsch,« sagte er fast gerührt. »Sie beide sind nun Millionäre
+… Werden Sie glücklich! Und aufs Sie, Herr
 Baron! Die Ehe ist eine Lotterie … Sie haben einen
 <@pagebreak/>
 Haupttreffer in Aussicht, — ich spiele schon fünf Jahre
-ein Üchtellog, aber ich bin nur zweimal mit dem Freies
-herausgekommen, —
+ein Achtellos, aber ich bin nur zweimal mit dem Freilos
+herausgekommen …« —
 
 Frau Knobel hat Herbstmantel und Herbsthut ganz nach
-Unrecht kaufen können. Gwenda und Sepp haben Max
-Knobel eine Summe gesteuert…die zu einem ganzen Wobei
-Haus hingereicht hätte.
+Wunsch kaufen können. Gwenda und Sepp haben Max
+Knobel eine Summe geschenkt, die zu einem ganzen Modehaus
+hingereicht hätte.
 
-Der Klub Fell»—Ei-See wird noch immer im Zuchthaus
-mit Nähen von Säcken rührte und harmlos beschäftigt.
-Im beschäftige mich? zur Zeit mit dem blauen
-Geraten, — aber darüber sprechen wir das nächste
-»all,
+Der Klub Frü-Si-Bea wird noch immer im Zuchthaus
+mit Nähen von Säcken nützlich und harmlos beschäftigt.
+Ich beschäftige mich zur Zeit mit dem *blauen
+Schatten*, — aber darüber sprechen wir das nächste
+Mal.
