@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">3b9db92c-2686-499d-89b5-f6ba3bc7907e</entry>
+<entry key="title">Der Schädel mit den Goldzähnen</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">254</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Der Schädel mit den Goldzähnen
+
+»Ich würde mir das Ding herausreißen lassen,« sagte Harald abermals, nachdem mir auch unserer Mathilde sonst bewährtes Zahnschmerzmittel nicht geholfen hatte und ich immer noch ein trainierender Weitstreckenläufer im Gemüsegarten hin und her gerannt war. »Bendig wohnt ja ganz in der Nähe, und eine Wurzelhautbehandlung bleibt eine zweifelhafte Sache. Glücklich der Mensch, der ein künstliches Gebiß hat. Zähne sind wie die alten Jungfern: Je älter, desto bissiger!« Er lachte mitleidslos. Und er dachte: Feigling!
+
+»Ich gehe …!« Es war ein heroischer Entschluß. Ich kenne Leute, die neben einer Dynamitpatrone mit brennendem Zünder schlafen würden und sich doch vor dem bequemen Marterstuhl eines Zahnarztes fürchten.
+
+Das Mädchen ohne Namen
+
+Harst trat an den Mitteltisch. »Der Mann hätte uns so manches verraten … Sie haben ihn stumm gemacht, als der Anschlag mißglückte.«
+
+»Weihen wir ihm einen stillen Schluck,« meinte Knobel geradezu schmerzlich. »Wer ist Bydroop?«
+
+»Ein Zahntechniker … Nun muß ich Ihnen alles noch einmal berichten. Oder besser, warten wir auf die Mordkommission. Dem Toten habe ich erzählt, was es zu erzählen gab, ich merkte erst im Auto auf der Fahrt hierher, daß er unecht war. Er spielte seine Rolle glänzend, nur den Trick mit den Versen hätte er sich schenken können …«
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (254) Der Schädel mit den Goldzähnen.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1929</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
