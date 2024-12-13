@@ -12,126 +12,126 @@ durch den Fernsprecher leicht verzerrt, süß und melodisch und
 deutete auf ein sehr junges Geschöpf hin. Sie betonte, sie
 spräche von einer öffentlichen Telephonzelle aus, sie selbst
 besäße keinen Apparat, sie sei bettelarm und könnte uns
-herzlich?in Herzlich danken, falls wir ihr helfen wollten.
-» — — — Ich habe da? Grauen in einer Form kennen gelernt,
-die an die phantastischen Geschichten Edgar Post erinnert
+lediglich Herzlich danken, falls wir ihr helfen wollten.
+»… Ich habe das Grauen in einer Form kennen gelernt,
+die an die phantastischen Geschichten Edgar Poes erinnert
 … Ich lebe in einer Umgebung des Grauens und
 der bittersten Not und dunkler Rätsel, vielleicht wie ein
 helles Stiefmütterchen, das die Willkür des Schicksals in
 eine Grabkammer verpflanzt hat, — — darf ich also
-kommen?’ …
+kommen?«
 
-Der, die uns besuchen … wollte, versprach ich Verschwiegenheit
+Der, die uns besuchen wollte, versprach ich Verschwiegenheit
 und Rücksichtnahme. Sie möge getrost kommen.
 Mein Freund sei die Güte selbst, und damit sie sich
 nicht vor uns Männern scheue, würden wir Haralds Mutter
 <@pagebreak/>
 mit hinzuziehen und im halbdunklen Garten sitzen unter
-der Riesenkastunie in bequemen Rohrsesseln. —
+der Riesenkastanie in bequemen Rohrsesseln. —
 
 Sie kam um elf den Weg am Laubengelände entlang
-und schlüpfte darein; die Hinterpforte, verschleiert und in
+und schlüpfte durch die Hinterpforte, verschleiert und in
 einen leichten, weiten Mantel gehüllt, der nur ihre plumpen
 derben Schuhe und billige, sauber gestopfte Seidenstrümpfe
 sehen ließ.
 
 Mit der Grazie eines Kindes, das in sich selbst die
 ungeschriebenen Lehren des Taktes trägt, beugte sie sich Über
-die welke, seine Hand meiner mütterlichen Freundin und
-fühlte sie und sagte leise:
+die welke, feine Hand meiner mütterlichen Freundin und
+küßte sie und sagte leise:
 
 »Ich danke Ihnen.«
 
-Sie laß Zwanglos und vornehm da wie eine junge
+Sie saß Zwanglos und vornehm da wie eine junge
 fremdländische Königin. Ihre Bewegungen waren weich und
-zart abgetönt wie die Linien eines Wakteangemäldes, und
+zart abgetönt wie die Linien eines Watteaugemäldes, und
 ihre billigen hellen Zwirnhandschuhe deuteten trotz der
-plumpen Falten auf ein zierliczJes Händchen hin. Ihre
+plumpen Falten auf ein zierliches Händchen hin. Ihre
 Kopfhaltung war unbewußt sicher und energisch. Sie glich
 unseren modernen jungen Damen ebensowenig wie etwa
-ein schlichter, säöner Waldvogel einem verwöhnten, sich
+ein schlichter, schöner Waldvogel einem verwöhnten, sich
 aufblähenden Papagei gleicht. Wenn die Mädchenwelt von
 heute sich natürlicher gäbe, wäre es besser um Gegenwart
-und Zukunft bestellt. Mit der Theatrank’ des »unbedingt
+und Zukunft bestellt. Mit der Theatralik des »unbedingt
 Modern-Sein-Wollens« ist nichts getan. Wer Augen hat,
-sieht hinter getuschten Brauen, Wanzen, Lippen und schlank
-los dünner Nichtbekleidung nur immer dieselben Marionetten.
+sieht hinter getuschten Brauen, Wangen, Lippen und schamlos
+dünner Nichtbekleidung nur immer dieselben Marionetten.
 Man lächelt.
 
 »Herr Harst, im Grunde können Sie mir gar nicht
-helfen, nur raten, Ich hause in einer Ungehörig, die, falls
-nicht die Armut aus allen Ecken höhnte) hervotgrinste,
-zur Romantik und Träumerei anregen würde, Ich lebe
-zukam von mit drei Vorzusetzen. denen das Leid dieser Welt
-harmlos die Sinne getrübt hat, Ich lebe dauernd wie in einer
-Art von Trauerspicl mit ungewollt komischen, aber auch
-grauer vollen Szenen, Drei Mensch erhoben sich getrübten
+helfen, nur raten. Ich hause in einer Umgebung, die, falls
+nicht die Armut aus allen Ecken höhnisch hervorgrinste,
+zur Romantik und Träumerei anregen würde. Ich lebe
+zusammen mit drei Menschen, denen das Leid dieser Welt
+harmlos die Sinne getrübt hat. Ich lebe dauernd wie in einer
+Art von Trauerspiel mit ungewollt komischen, aber auch
+grauenvollen Szenen. Drei Mensch haben sich getrübten
 <@pagebreak/>
-Geistes Scheinwerfer geschaffen, und weil ich sie liebe, ist
+Geistes Scheinwelten geschaffen, und weil ich sie liebe, ist
 es mein einziges Bestreben, ihnen diese Welt des Scheins
-zu erhalten, Es sind liebe, gute Kranke,«
+zu erhalten. Es sind liebe, gute Kranke,«
 
 Sie schwieg. Ein Leuchtkäfer war ihr auf den linken
 Ärmel geflogen, und sie beugte den verschleierten Kopf
-und flüsterte: »Die Lämpchen der Elfen … Ich »liebe
+und flüsterte: »Die Lämpchen der Elfen … Ich liebe
 sie.«
 
-Denken Sie sich ein Haus, von dem man über
-ein blinkendes, in Sonne gevadetes Wasser schaut,« fuhr
-sie fort und blickte dem ents&gwindenden leuchtenden Punkte
-en nach, »Ein uraltes Haus, noch aus den Zeiten, all
+»… Denken Sie sich ein Haus, von dem man über
+ein blinkendes, in Sonne gebadetes Wasser schaut,« fuhr
+sie fort und blickte dem entschwindenden leuchtenden Pünktchen
+nach. »Ein uraltes Haus, noch aus den Zeiten, als
 Berlins Grenzen eng und behaglich waren. Mein Zimmer
-liegt im ersten Stock in einem turmartigen Anbau. Dicke
+liegt im ersten Stock in einem turmartigen Anbau. Die
 Möbel darin sind so klein und alt und dürftig wie die Fenster
-mit ihren grünliczden Scheiben. Ich schlafe in einem Bett
+mit ihren grünlichen Scheiben. Ich schlafe in einem Bett
 an der Rückwand, — ein Himmelbett mit einer langen bunten
-Vergangenheit. Ich sehe vor mir das ganze fünfedige Zimmer
+Vergangenheit. Ich sehe vor mir das ganze fünfeckige Zimmer
 und die drei Fenster, die ich nachts offen lasse, denn
-ich liebe die warmen Nächte und das Rauschen der Könnte
+ich liebe die warmen Nächte und das Rauschen der Bäume
 und das Plätschern des Springbrunnens. — Vor acht
-Tagen sah ich ihn zum ersten Male. Der Mond schien
+Tagen sah ich *ihn* zum ersten Male. Der Mond schien
 schräg in das Zimmer und zeichnete weiße Stellen auf
 die dunklen Eichendielen. Ich bin weder furchtsam noch
 abergläubisch. Nein, als der blaue Schatten plötzliches von
 dem Wandgemälde sich löste und herabschwebte und durch
-den Raum glitt und vor der Wandnische kniete und 3!!
-beten schien, glaubte ich, 03 sei vielleicht eine dicke Rand:
-Wolke, die aus Erhardts Küche käme … Eis war Herbei:,
-dies u vermuten. Aber ich war schlaftrunken und,,«
+den Raum glitt und vor der Wandnische kniete und zu
+beten schien, glaubte ich, es sei vielleicht eine dicke Rauchwolke,
+die aus Ehrhardts Küche käme … Es war Torheit,
+dies zu vermuten. Aber ich war schlaftrunken und …«
 
-»Wer ist Ehrhardt?« fragte Harald ganz gedämpft, un.
+»Wer ist Ehrhardt?« fragte Harald ganz gedämpft, um
 diese seltsame träumerische Stimmung nicht zu zerstören,
 die wie ein geheimnisvolles Fluidum von unserem Gaste
 ausging.
 
-Sie aber, deren Stimme tiefe Süße uns in Dann hielt,
-erhob sich langsam, und die seine Gestalt verlor jede Strafften,
+Sie aber, deren Stimme tiefe Süße uns in Bann hielt,
+erhob sich langsam, und die feine Gestalt verlor jede Straffheit,
 <@pagebreak/>
 die Schultern sanken, und mit einer traurigen Geste
 sagte die junge Fremde:
 
 »Verzeihen Sie, in vergaß mich, ich nannte einen
-bestimmten Namen, Herr Harst, und forderte dadurchg Ihre
+bestimmten Namen, Herr Harst, und forderte dadurch Ihre
 Frage heraus. Gnädige Frau, meine Herren … haben
 Sie Dank …«
 
 Sie wollte tatsächlich davongehen, aber Harald erklärte
 fast abbittend: »Entschuldigen Sie, — ich vergaß unsere
-Lereinbahrung … Nehmen Sie wieder Platz … — Darf
-ich Fragen stellen, die ledig! il? die Sache selbst angehen?«
+Vereinbarung … Nehmen Sie wieder Platz … — Darf
+ich Fragen stellen, die lediglich die Sache selbst angehen?«
 
-Sie fehlte sich bedächtig. und antwortete nicht sofort.
+Sie setzte sich bedächtig und antwortete nicht sofort.
 
-»It …« sagte sie schließlich. »Bitte, Herr Harst …
+»Ja …« sagte sie schließlich. »Bitte, Herr Harst …
 Fragen Sie … Nur nichts, wodurch Sie auf die Lage
 unseres Heims kommen könnten.«
 
-»Gut. Sie erwähnten ein Wandgemälde. Ich nehme
-an, es ist sehr groß, und es stellt Figuren in LebenSsgrsöße
+»Gut. — Sie erwähnten ein Wandgemälde. Ich nehme
+an, es ist sehr groß, und es stellt Figuren in Lebensgröße
 dar, zumindest enthält es wohl eine Frauengestalt in blauem
-losen. Je ade«
+losen Gewande …«
 
-»So ich —ck«
+»So ist’s …«
 
 »Dann sprachen Sie von einer Wandnische … Der
 blaue Schatten kniete dort und schien zu beten, es befindet
@@ -140,19 +140,19 @@ sich in der Nische also ein Altar …«
 »Ja, ein kleiner sehr alter Altar, wie man ihn sonst nur
 in rheinischen Schlössern antrifft.«
 
-»Ratte der blaue Schatten die Gestalt einer Frau?«
+»Hatte der blaue Schatten die Gestalt einer Frau?«
 
-»Fein, nein, — es war nur wie eine Schuftige hellblaue
+»Nein, nein, — es war nur wie eine duftige hellblaue
 Wolke … ganz durchsichtig … freilich doch auch wieder
 wie ein Mensch, der allerdings vollkommen verschwommene
 Konturen hat, etwa wie ein ganz unscharfes mattes Bild
 einer Laterna magica. Von Kopf und Gliedmaßen war nichts
-zu erkennen. Neun ich sagte: der Schatten schien zu knien
+zu erkennen. Wenn ich sagte: der Schatten schien zu knien
 und zu beten, so stimmt das nicht ganz. Ich müßte genauer
-nicht ausdrücken: Der blaue Schatten schrumpfte zusammen
-und neigte sich gegen das Kruzifix hin … 5«
+mich ausdrücken: Der blaue Schatten schrumpfte zusammen
+und neigte sich gegen das Kruzifix hin …«
 
-Harald wehrte eine Müde ab, »Und dann?k«
+Harald wehrte eine Mücke ab. »Und dann?!«
 
 <@pagebreak/>
 »Dann … kehrte der Schatten um und schwebte wieder
@@ -160,55 +160,55 @@ in das Wandgemälde hinein …«
 
 »Verschmolz also mit der blauen Frau des Gemäldes?«
 
-»Ja … Treffender läßt sich; das nicht bezeichnen:
-Schatten und Priesterin vereinigten sie, und ich sah nur
-noch das Gemälde. Ich war inzwischen ganz munter ge
-worden, Herr Harst. 35h saß aufrecht im Bei!, dessen Vor«
-hänge ich nie ganz schließe. Ich. fühlte ein unnennbares Graus
-en »… Ich zitterte, ich lernte ein Angstgefühl kennen, doch
-mir bis dahin völlig. fremd gewesen. Ich erhob mich und
-stürzte blindlings in den langen Flur und in Dit … —
-sie vorschwebte die weiteren Willen eines Namens, der
+»Ja … Treffender läßt sich das nicht bezeichnen:
+Schatten und Priesterin vereinigten sich, und ich sah nur
+noch das Gemälde. Ich war inzwischen ganz munter geworden,
+Herr Harst. Ich saß aufrecht im Bett, dessen Vorhänge
+ich nie ganz schließe. Ich fühlte ein unnennbares Grauen
+… Ich zitterte, ich lernte ein Angstgefühl kennen, das
+mir bis dahin völlig fremd gewesen. Ich erhob mich und
+stürzte blindlings in den langen Flur und in Dit …« —
+sie verschluckte die weiteren Silben eines Namens, der
 uns vielleicht ein wichtiger Fingerzeig gewesen wäre …
-—, — -.- in ein Zimmer, in dem jemand schlief,« verbesserte
+— »… in ein Zimmer, in dem jemand schlief,« verbesserte
 sie sich ohne jede Verlegenheit. »Aber wie sollte ich dort vor
-mir selbst, vor dieser unsinnigen Furcht Schuß finden?!
+mir selbst, vor dieser unsinnigen Furcht Schutz finden?!
 Die Person, die dort wohnt, hat lediglich ihre eigene Ideenwelt,
 und dann ist es auch gefährlich, so ohne weiteres bei
 ihr einzudringen, da sie sich Tiere hält, die …« — und
 wieder verstummte sie. »Jedenfalls, ich kehrte um und
 schaltete bei mir das Licht ein. Ich betrachtete das riesige
-Mosaikbild, im stieg auf einen Stuhl und befühlte die
+Mosaikbild, ich stieg auf einen Stuhl und befühlte die
 Umrisse der blauen Priesterin … — Ich lese sehr viel,
 Herr Harst, und für ein Mädchen wie mich, das den ganzen
 Tag nur Sorgen und Arbeit kennt, bringen schwere Romane
-keine Zerstreuung. In meinen abendlichen Feier«
-Stunden fluchte im mit einem phantasievollen Werke irgendeines
+keine Zerstreuung. In meinen abendlichen Feierstunden
+flüchte ich mit einem phantasievollen Werke irgendeines
 modernen Schriftstellers auf den Balkon meines
-Zimmers, der so winzig wie ein Scwalbennestlein ist,
+Zimmers, der so winzig wie ein Schwalbennestlein ist,
 und dann vergesse ich sehr bald das unendliche Elend und
-die grausame Monotonie eines Daseins, das nur ein b6ständiges
-Bewachen dreier harmloser Geistesrranker und ein
-sortdauerndes Anflehen des vierten ist, mich nicht zu verlassen.
-Ich — nun ich … « — fiel wurde armselig Her
-legen, weil sie sich) für ihr Feinempfinden zu sein herausstrimM
+die grausame Monotonie eines Daseins, das nur ein beständiges
+Bewachen dreier harmloser Geisteskranker und ein
+fortdauerndes Anflehen des vierten ist, mich nicht zu verlassen.
+Ich — nun ich …« — sie wurde ein wenig verlegen,
+weil sie sich für ihr Feinempfinden zu sehr herausstrich
 <@pagebreak/>
-— « … — im sagte mir sofort, nachdem ic€ mich etwas
+— … »… ich sagte mir sofort, nachdem ich mich etwas
 beruhigt hatte, daß es sich nur um ein Wesen von Fleisch
-und Blut handeln könnte und daß vielleicht die ’Mosaikze«
-statt der blauen Priesterin eine Geheimtür verberge. Aber
-nein Suchen und Betasten der blauen Steinchen und der
+und Blut handeln könnte und daß vielleicht die Mosaikgestalt
+der blauen Priesterin eine Geheimtür verberge. Aber
+mein Suchen und Betasten der blauen Steinchen und der
 Umgebung der Figur waren ergebnislos, ebenso das vorsichtige
-Abklopfen der Wand, die, da sie eine Liußenwand
-ist, hier für eine Geheimtür wie die unten im … — »sie
+Abklopfen der Wand, die, da sie eine Außenwand
+ist, sich für eine Geheimtür wie die unten im …« — sie
 hüstelte … — »Ich fand nichts,« schloß sie den Satz mit
 einem leichten Kopfschütteln. »Ich habe den blauen Schatten
-kann noch in den beiden Folgenden Nächten gesehen, und
+dann noch in den beiden Folgenden Nächten gesehen, und
 am vierten Tage erkrankte mein … erkrankte einer der drei
-Unglücklichen so schwer gar. Gehirngrippe, daß die betreffende
+Unglücklichen so schwer an Gehirngrippe, daß die betreffende
 Person noch heute mit dem Tode ringt. Gestern
-naht — ja gestern nacht genau um ein Uhr erschien wiederum
-der blaue Schatten, der die. Erkrankung angekündet
+nacht — ja gestern nacht genau um ein Uhr erschien wiederum
+der blaue Schatten, der die Erkrankung angekündet
 hatte, — abermals in derselben Weise. Da habe ich mich
 dann zu diesem Schritt aufgerafft und … rief Sie an,
 Herr Harst.«
@@ -217,29 +217,29 @@ Sie weinte nicht, aber ihre Stimmte verriet, wie schwer
 es ihr wurde, die Tränen zurückzudrängen.
 
 Frau Harst nahm ihre Hand. »Sie armes Kind,« sagte
-sie mit all ihrer mütterlichen Güte, »wahre es nicht besser,
+sie mit all ihrer mütterlichen Güte, »wäre es nicht besser,
 Sie würden Ihren Namen …«
 
-Haralds warnendes: »Aber Mann« kam zu spät.
+Haralds warnendes: »Aber Mama!« kam zu spät.
 
 Das Mädchen hatte sich hastig erhoben,
 
 »Ich fürchte, ich habe bereits zu viel verraten …
-Vergangen Sie es mir nicht … — im muß heim …«
+Verargen Sie es mir nicht … — ich muß heim …«
 
-Harald fragte schnell … »Ring der Erscheinung irgendein
+Harald fragte schnell … »Ging der Erscheinung irgendein
 Geräusch voraus?«
 
 Sie stand gesenkten Kopfes da,
 
-»Ein Geräusch …? — Ha … Und das — das ist vielleicht
-das Unheimlichste: Die Bäume draußen rauschten Stil
-der, die Efeuzweige schlugen gegen die Scheiben, obwohl die
+»Ein Geräusch …? — Ja … Und das — das ist vielleicht
+das Unheimlichste: Die Bäume draußen rauschten stärker,
+die Efeuzweige schlugen gegen die Scheiben, obwohl die
 <@pagebreak/>
 Nächte windstill waren … — — Herr Harst, was soll ich
 tun?«
 
-»Die Augen offen halten und mich) anrufen, falls der
+»Die Augen offen halten und mich anrufen, falls der
 blaue Schatten sich wieder dreimal zeigt und dann jemand
 der Ihrigen erkrankt.«
 
@@ -249,31 +249,31 @@ Sie huschte davon, sie lief fast.
 
 Harald hatte hinter ihr die Gartenpforte verschlossen
 und setzte sich wieder zu uns, nachdem er neben dem Sessel,
-den das Mädchen innegehabt, … etwas vom Boden aufgehoben
+den das Mädchen innegehabt, etwas vom Boden aufgehoben
 hatte: Ein schmales Papierröllchen.
 
-»Ein Straßenbahnfahrschein …« sagte er. Sein Feuers
-Zeug sprühte auf. Er las den Schein … »Sie kam vom
-Görlitzer Bahnhof … Der Schein ist um zehn Uhr geh
-lebt, Linie 191, also Görlitzer Bahnhof—Schmargendorf! —
+»Ein Straßenbahnfahrschein …« sagte er. Sein Feuerzeug
+sprühte auf. Er las den Schein … »Sie kam vom
+Görlitzer Bahnhof … Der Schein ist um zehn Uhr gelocht,
+Linie 191, also Görlitzer Bahnhof—Schmargendorf! —
 Es ist nicht zweckmäßig, kleines Fräulein, Fahrscheine in
-einen viel zu weiten Zwirnhandschuh zu stecken. Dieser Tannenhain
-wird uns das Suchen noch« mehr erleichtern Ich
+einen viel zu weiten Zwirnhandschuh zu stecken. Dieser Fahrschein
+wird uns das Suchen noch mehr erleichtern. Ich
 denke, morgen vormittag dürften wir alles wissen, was wir
-braunen. Das Mosaikgemälde, Professor Helmer und der
+brauchen. Das Mosaikgemälde, Professor Helmer und der
 See werden ein übriges tun.«
 
 Frau Harst fragte erstaunt: »Helmer?!«
 
-»Ja, liebe Mama, — Helmer ist der Direktor des ’Mär-
-fischen Museums, und daß er dieses alte Riesenmosaikbild
+»Ja, liebe Mama, — Helmer ist der Direktor des Märkischen
+Museums, und daß er dieses alte Riesenmosaikbild
 kennt, nehme ich mit Bestimmtheit an.«
 
 »Allerdings, mein Junge … — Und der blaue Schatten?!
 Wie denkst du darüber?«
 
 »Ich finde, der Schatten ist weit unwichtiger als der
-starke Wind, der sein Auftauchen entzündet…«
+starke Wind, der sein Auftauchen ankündet.«
 
 <@pagebreak/>
 
@@ -281,125 +281,125 @@ starke Wind, der sein Auftauchen entzündet…«
 <h3>Der helle Funke.</h3>
 
 Frau Harst sagte uns gute Nacht. Wir beide, von jeher
-Nachtvogel, blieben noch unter der Kastanie hier und gravierten,
+Nachtvögel, blieben noch unter der Kastanie sitzen und probierten,
 wie Mosel und Erdbeeren mit einem geringen Schuß
-süßen Burgundbers!schHmecen. Harsts Interesse für die Fremde
-schien erloschen. Er hatte vorhin nur noch erklärt: »Viel«-
-Zeit besitzt sie mehr Phantasie, als uns dienlich ist,«
+süßen Burgunders schmecken. Harsts Interesse für die Fremde
+schien erloschen. Er hatte vorhin nur noch erklärt: »Vielleicht
+besitzt sie mehr Phantasie, als uns dienlich ist,«
 und dann sprach er über die neuesten Ergebnisse psychischer
 Forschungen, über Geisteskrankheiten mit gesteigerter, aber
 eng begrenzter Intelligenz und über den Einfluß des Vollmondes
-auf sehr seinnervige Personen,
+auf sehr feinnervige Personen,
 
-Unwillkürlich blickte im zum Firmament empor, Der
+Unwillkürlich blickte ich zum Firmament empor. Der
 Mond stand schräg hinter dem dicken Turm des ehemaligen
-Ga2werk8 am Bahnhof Hohenzollerndamm.
+Gaswerks am Bahnhof Hohenzollerndamm.
 
-»Vollmond …« sagte im; nadpenklicn »Glaubst du
-etwa an eine Nondsüchtige, die den blauen Ehegatten spielt?«
+»Vollmond …« sagte ich nachdenklich. »Glaubst du
+etwa an eine Mondsüchtige, die den blauen Schatten spielt?«
 
-»Mein Ufer, ich denke an zweierlei. Erstens: An die
+»Mein Alter, ich denke an zweierlei. Erstens: An die
 Bemühungen verschiedener Damen, uns unbedingt kennen
 lernen zu wollen. Das Mädchen kann all das glatt erfunden
 haben. Zweitens: An die entfernte Möglichkeit eines
 Verbrechens, falls eben des Mädchens Angaben stimmen.
-Liegen verbrecherische Absätzen vor, so haben diese jetzt
-das kritische Stadium erreicht, Vielleicht käme unsere Hilfe
+Liegen verbrecherische Absichten vor, so haben diese jetzt
+das kritische Stadium erreicht. Vielleicht käme unsere Hilfe
 zu spät. Ich möchte jedenfalls morgen in aller Frühe Professor
 Helmer anrufen … Das alte Gebäude, in dem das
 Mädchen mit drei Geisteskranken und »Ehrhardt« haust,
-muß in der Nähe von Königoswusterhaufen zu finden sein,
-Nur dort gibt es so alte Bauten, nur dort hat der Vordaches
+muß in der Nähe von Königswusterhausen zu finden sein.
+Nur dort gibt es so alte Bauten, nur dort hat der Landadel
 einst Schlösser errichtet, die längst wieder verfallen
-sind. Ich will dir hier keinen historischen Vertrag halten,
+sind. Ich will dir hier keinen historischen Vortrag halten,
 ich …«
 
 <@pagebreak/>
-Vom Zaune her eine brüchige bessere Stimme: »Verzeihung,
+Vom Zaune her eine brüchige heisere Stimme: »Verzeihung,
 können Sie mir vielleicht sagen, wo Herr Harst
 wohnt?«
 
-Der Wert schob sich hinter dem Gasometer hervor, und
-der Mann am Zaun war kein!Hwärzlicher Streifen mehr.
+Der Mond schob sich hinter dem Gasometer hervor, und
+der Mann am Zaun war kein schwärzlicher Streifen mehr.
 
 »Ein Witzbold!« meinte ich …
 
 Harst stand auf und ging hin, ich folgte.
 
-Vor uns!üsteckte ein Mensch; mit einem lächerlichen
+Vor uns lüftete ein Mensch mit einem lächerlichen
 kleinen Kopf einen schäbigen Kalabreser und gestattete Einblick
 in sein blasses, stoppelbärtiges Gesicht.
 
 »Mein Name ist Ferdinand Funke … Entschuldigen
-Sie bitte den plumpen Seid … Aber ich habe in den
-Ort Jahren im Pensionat Sonnenburg viel verlernt. Laternen
-konnte im dort nichts, die Kollegen dort waren Zentimeter
-minderbegabt.« (Sowvnenburg ist ein bekanntes Zuchthaus.)
+Sie bitte den plumpen Trick … Aber ich habe in den
+drei Jahren im Pensionat Sonnenburg viel verlernt. Zulernen
+konnte ich dort nichts, die Kollegen dort waren zumeist
+minderbegabt.« (Sonnenburg ist ein bekanntes Zuchthaus.)
 
 Er stülpte seinen Künstlerfilz wieder auf und ließ ein
-meckerndes Laden hören.
+meckerndes Lachen hören.
 
-… Also: es ist erreicht, meine Sehnsucht ist erfüllt,
+»… Also: es ist erreicht, meine Sehnsucht ist erfüllt,
 im sehe Sie beide von Angesicht zu Angesicht. Nun
 kann ich ruhig sterben. Damit hat’s freilich noch Zeit.
-Beginnen Sie sich auf den Fall Funke, Herr Harst?«
+Besinnen Sie sich auf den Fall Funke, Herr Harst?«
 
 »Kommen Sie herein, Herr Funke … Ein Glas Bowle
 und eine Zigarre sind noch da.«
 
-»Und vielleicht ein Ertragen Wurst von zwei Pfund,
-Auf nüchternen Magen schmeckt keine Zigarre, — Sehr
+»Und vielleicht ein Endchen Wurst von zwei Pfund.
+Auf nüchternen Magen schmeckt keine Zigarre. — Sehr
 liebenswürdig … Ich erlaube mir …«
 
 Ich Holte ihm, was die Speisekammer bot: Vier kalte
-Bratflopse, Brot und Mutter,
+Bratklopse, Brot und Butter,
 
 Harald hatte eine Karbidlampe auf den Tisch gestellt.
 Ferdinand Funke aß schweigend mit aller Andacht und mit
-aller Gewandtheit. Bisher hatte er nur nachts Zweimal
+aller Gewandtheit. Bisher hatte er nur noch Zweimal
 »Danke« gesagt.
 
 »Die Welt hat mich schnell vergessen,« erklärte er nun
-ironis(s; und hob sein Glas. »Prosit, meine Herren …
+ironisch und hob sein Glas. »Prosit, meine Herren …
 <@pagebreak/>
 Seit drei Jahren und vier Monaten befinde ich mich endlich
 wieder in anständiger Gesellschaft.«
 
-»Sehr nett gesagt, Herr Funke, — War Ihr Fall so
+»Sehr nett gesagt, Herr Funke. — War Ihr Fall so
 berühmt?«
 
-»I3ch bin der Mörder Ferdinand Funke, der sein einziges
+»Ich bin der Mörder Ferdinand Funke, der sein einziges
 Kind ertränkte.« Er meckerte leise. »Das heißt: Die
 Gerechtigkeit, die das Fundament des Staates ist, hielt mich
 für schuldig. Sehe ich wie ein Mörder aus?«
 
-»Fein.! Aber wie ein geriebener Schwindler…«
+»Nein …! Aber wie ein geriebener Schwindler.«
 
-»Sande, Herr Harst. Ehrt mich. — Sie kennen den Tl
-Funke also:niht Ich war in Frankfurt an der Oder »:ciminaloberwachtmeister.
-Heute ist der Titel geändert::8«iminalassistent,
-aber die Gerechtigkeit ist dieselbe 70
-blieben: Über ihrem Sause steht der Spruch: Irren ist
-menschlich! Diesen Spruch sehen freilich nur AusSZerkorene
-wie ich. — Ich lebte friedlich in der Oberstock und ah
+»Danke, Herr Harst. Ehrt mich. — Sie kennen den Fall
+Funke also nicht. Ich war in Frankfurt an der Oder
+Kriminaloberwachtmeister. Heute ist der Titel geändert:
+Kriminalassistent, aber die Gerechtigkeit ist dieselbe geblieben:
+Über ihrem Hause steht der Spruch: Irren ist
+menschlich! Diesen Spruch sehen freilich nur Auserkorene
+wie ich. — — Ich lebte friedlich in der Oberstadt und tat
 niemand etwas zu Leide, der nicht anderen ein Leid antat.
-Dann verschwand an einem Dezeinbertage meine Ton o’,
-oberen Mutter mit einem leichtfertigen Patron auf u.:d
-davon gegangen war, Sie war hübsch und kokett, dies?
-Fragen, und im war nie eine Schönheit, Mein Kopf ist z!!
-kein geraten, Ich wirke!icherlich, Gerüchte leuchtet
-auf, im hätte mein Kind, damals sechzehn Jahre alt, Oheim«
-lie gehaßt — der Mutter weißen. Im März, als ein tote
-Arm der Oder anflaute, Jan? man Sinne Leiche, die v«
+Dann verschwand an einem Dezembertage meine Tochter,
+deren Mutter mit einem leichtfertigen Patron auf und
+davon gegangen war. Sie war hübsch und kokett, diese
+Frau, und ich war nie eine Schönheit. Mein Kopf ist zu
+klein geraten. Ich wirke lächerlich. — Gerüchte tauchten
+auf, ich hätte mein Kind, damals sechzehn Jahre alt, heimlich
+gehaßt — der Mutter wegen. Im März, als ein toter
+Arm der Oder auftaute, fand man eine Leiche, die von
 Krebsen, Aalen und Karpfen entsetzlich zugerichtet war:
-Meine Tochter Edith. — Ich wurde verhaftet, verhört, verurteilt
-Heute sollt war meine Strafzeit um. Ich hatte ist!
-Zuchthaus 102 Mark verdient. Ich schenkte sie dem erste
-Landstreicher, dem ich begegnete, Er hielt mich für Mr
-Worten geistesgestört und rannte glückstrahlend querfeldein.
+Meine Tochter Edith. — Ich wurde verhaftet, verhört, verurteilt.
+Heute früh war meine Strafzeit um. Ich hatte im
+Zuchthaus 102 Mark verdient. Ich schenkte sie dem ersten
+Landstreicher, dem ich begegnete. Er hielt mich für momentan
+geistesgestört und rannte glückstrahlend querfeldein.
 Sicherlich liegt er jetzt schwer betrunken in einem Straßengraben«
 
-Funke machte eine Pause und rauchte seine Zigarre van,
+Funke machte eine Pause und rauchte seine Zigarre an,
 
 »Ich habe Edith geliebt, und ich bin kein Mörder,«
 <@pagebreak/>
@@ -410,174 +410,172 @@ Das kalte Licht der Lampe grub in seine kittgrauen
 hageren Züge noch tiefere Schatten ein.
 
 Und kalt und erbarmungslos fügte er hinzu: »Ich werde
-ihn mit diesen meinen Händen erwürgen, den Schuft, —
+ihn mit diesen meinen Händen erwürgen, den Schuft. —
 Edith war mit fünfzehn Jahren voll entwickelt und ein
-reizendes Mädel, Sie hatte eine gute Schulbildung genossen
-und wurde auf Schloß Zernin Sekretärin des Rentmeisters,
+reizendes Mädel. Sie hatte eine gute Schulbildung genossen
+und wurde auf Schloß Zernin Sekretärin des Rentmeisters.
 Damals ahnte noch niemand, daß die Zernins vor dem
 Konkurs standen. Als Edith mir in ihren Briefen wiederholt
 schrieb, wie »nett« der junge Graf ihr gegenüber sei, ließ
-ich sie sofort nach Hause kommen. Das war im Oktober,
+ich sie sofort nach Hause kommen. Das war im Oktober.
 Im November veränderte sich Ediths Wesen und Benehmen
-vollständig, Sie wurde traurig und verschlossen, und eines
+vollständig. Sie wurde traurig und verschlossen, und eines
 Tages überraschte ich sie mit dem Bilde des Grafen Jobst,
-das sie inbrünstig küßte, Ich zerriß es, und seitdem hatte ich
-mein Kind verloren. Am 3, Dezember verschwand sie.«
+das sie inbrünstig küßte. Ich zerriß es, und seitdem hatte ich
+mein Kind verloren. Am 3. Dezember verschwand sie.«
 
 Harst betrachtete Funke entschieden mißbilligend. »Sie
 haben ein sehr schlechtes Gedächtnis, oder die Zeitungen sind
 falsch unterrichtet.« Er wies auf einige Blätter, die auf
 einem Liegestuhl unordentlich übereinandergeschichtet waren,
-»Fach den Pressemeldungen sind Sie bereits vor zehn Tagen
-entlassen worden, Aber Sie mögen Ihre Gründe dafür
-haben, diesen Zeitpunkt hier vor uns eines zu verschieben.
+»Nach den Pressemeldungen sind Sie bereits vor zehn Tagen
+entlassen worden. Aber Sie mögen Ihre Gründe dafür
+haben, diesen Zeitpunkt hier vor uns etwas zu verschieben.
 Immerhin, Sie machen uns … blauen Dunst vor, Herr
 Funke, vielleicht auch anderen. Wollen wir nicht lieber
 offen miteinander reden?«
 
 Funke schielte von unten nach Haralds verschlossenem
-Gesicht. Er wurde nervös, Seine muskulösen Hände spielten
-mit den Zipfeln seiner schäbigen Jacke, Sein langer dürrer
-Hals schien sich zu verkleinern. Er zog den Puppenfopf
-zwischen die Schultern und hatte nun unfehlbar etwas Nuß
-!nackerartiges an sich. »Ich wußte, daß Sie alles wußten,«
+Gesicht. Er wurde nervös. Seine muskulösen Hände spielten
+mit den Zipfeln seiner schäbigen Jacke. Sein langer dürrer
+Hals schien sich zu verkleinern. Er zog den Puppenkopf
+zwischen die Schultern und hatte nun unfehlbar etwas
+Nußknackerartiges an sich. »Ich wußte, daß *Sie* alles wußten,«
 <@pagebreak/>
 meinte er halb verlegen, halb pfiffig. »Wo sind die Zernins
 geblieben, Herr Harst?«
 
-»Her Nachrichtendienst in Ihrem Pensionat scheint schlecht
+»Der Nachrichtendienst in Ihrem Pensionat scheint schlecht
 funktioniert zu haben.«
 
-»Im Gegenteil … »tl« Funke meckerte stolz. »Im Gegenteil
-…! In Hatte da ein System ersonnen, stets neueste
+»Im Gegenteil …!« Funke meckerte stolz. »Im Gegenteil
+…! Ich Hatte da ein System ersonnen, stets neueste
 Zeitungen und Briefe einzuschmuggeln, das sich glänzend
-bewährte. Aber … ich selbst erhielt nie Gefängnisarzt,
+bewährte. Aber … ich selbst erhielt nie Gefängnispost.
 Von wem auch?! Lediglich die Zeitungen verschlang ich.
 Ein halbes Jahr nach meinem Eintritt in das Pensionat
 wurde Rittergut Zerninhof versteigert. Die Gräfin starb vor
-Gram — natürlich! Sie bitte bist talgig das übliche Leben
-dieser Agrardrohnen solltet …«
+Gram — natürlich! Sie hatte bist dahin das übliche Leben
+dieser Agrardrohnen geführt …«
 
 »Ihrer Ansicht!! Ich las es anders. Die Zernins sollen
 durchaus bescheiden und arbeitsam gelebt haben. — Die
-Gräfinntutiter starb aus Kummer Über den Verlust des
-Gutes und des Schlosses. Nase ihrem Begräbnis hat niemand
+Gräfinmutter starb aus Kummer Über den Verlust des
+Gutes und des Schlosses. Nach ihrem Begräbnis hat niemand
 mehr die anderen Zernins gesehen. Man sagt, ein
 Auto hätte sie abgeholt, nachdem die Beisetzung in aller
 Stille im Mausoleum der Familie im Park des Schlosses
-mit Erlaubnis des neuen Besitzers erfolgt war, Die Polizei
-stellte Ermittlungen an, die erfolglos blieben. Einige verlangten,
-die Zernins seien ins Ausland gegangen. Weg
-Ihren Prozeß betrifft, Herr Funke Einzelheiten sind mir
-allerdings enthalten. Sie sollen Ihre Tochter jedoch in der
-fehlten Zeit wie eine Gefangene in Ihrer Wohnung behandelt
+mit Erlaubnis des neuen Besitzers erfolgt war. Die Polizei
+stellte Ermittlungen an, die erfolglos blieben. Einige behaupten,
+die Zernins seien ins Ausland gegangen. — Was
+Ihren Prozeß betrifft, Herr Funke, Einzelheiten sind mir
+allerdings entfallen. Sie sollen Ihre Tochter jedoch in der
+letzten Zeit wie eine Gefangene in Ihrer Wohnung behandelt
 haben, Sie sollen den Grafen Jobst, als er zu Ihnen
-kam, mit einer Hundepeitsche die Treppe hin abgejagt haben.
-Der junge Graf konnte zu seinem (Glücks für die kritischen
+kam, mit einer Hundepeitsche die Treppe hinabgejagt haben.
+Der junge Graf konnte zu seinem Glück für die kritischen
 Tage ein einwandfreies Alibi beibringen, — Sie jedoch
-nicht! Sie verwickelten sich in Widersprüche, Sie halten das
-malt acht Tage Urlaub genommen, angeblich zu einer Weise
-rasch Berlin. Sie wurden jedoch in Frankfurt gesehen und
+nicht! Sie verwickelten sich in Widersprüche, Sie hatten damals
+acht Tage Urlaub genommen, angeblich zu einer Reise
+nach Berlin. Sie wurden jedoch in Frankfurt gesehen und
 trotz Ihrer Verkleidung erkannt. Ihr Prozeß erinnerte entfernt
-an den des Rechtsanwalt Bau, der die Frau Weiter,
+an den des Rechtsanwalt Hau, der die Frau Molitor,
 <@pagebreak/>
-seine Schwiegermutter, erschoß, Bau trug ebenfalls falschen
-Bart, wollte ebenfalls anderswo gewesen sein, Das Schwurgericht
+seine Schwiegermutter, erschoß. Hau trug ebenfalls falschen
+Bart, wollte ebenfalls anderswo gewesen sein. Das Schwurgericht
 nahm bei Ihnen mildernde Umstände und einfachen
-Vorschlag an. Sie kamen billig weg: Drei Jahre Zuchthaus?
+Totschlag an. Sie kamen billig weg: Drei Jahre Zuchthaus!
 Man erkannte durchaus Ihre vorbildliche Tüchtigkeit als
-Beamter an, hinan wußte allgemein, daß Sie Ihr Kind fast
+Beamter an, man wußte allgemein, daß Sie Ihr Kind fast
 abgöttisch geliebt hatten, man trug Ihnen jedoch mit Recht
 nach, daß Sie vor Gericht hartnäckig jede Angabe über den
 Zweck Ihres Urlaubs und über Ihren Aufenthalt in jenen
-Sagen verweigerten, Sie blieben bei Ihren Unschuldsbeteuerungen,
+Tagen verweigerten, Sie blieben bei Ihren Unschuldsbeteuerungen,
 obwohl …«
 
 Funke schnitt eine Grimasse, als ob er Leibgrimmen
 hätte.
 
 »Ja — — obwohl alle Indizien gegen mich sprachen!!
-Natürlich!! Sie reden wie ein Staatsanwalt, Herr Harst …
+Natürlich!! Sie reden wie ein Staatsanwalt, Herr Harst …!
 Aber Sie reden daneben.« Er schwieg und starrte in das
 Lampenlicht. Ein triumphierendes Lächeln verzog seinen
-Mund, »Ha — daneben …!! Denn — durch ein einziges
-Wort hätte im damals den Kopf aus der Schlinge suchen
-können. Ich schwieg. Ich werde weiter schweigen. Doch) —
+Mund. »Ja — daneben …!! Denn — durch ein einziges
+Wort hätte ich damals den Kopf aus der Schlinge ziehen
+können. Ich schwieg. Ich werde weiter schweigen. Doch —
 — die Welt wird von mir hören, vielleicht zu viel! Der
 Welt werden die Ohren dröhnen, wenn ich zum zweiten
-Mal vor den Geschworenen stehe und erst in der Berltyzands
-lang die Wahrheit preisgebe — ein Mörder und ein Schlüssel
+Mal vor den Geschworenen stehe und erst in der Verhandlung
+die Wahrheit preisgebe — ein Mörder und ein Schützer
 seiner Ehre!« Das Letzte sprühte wieder förmlich vor Haß.
-—» Er lachte — lachte sein unheimliches meckerndes Kichern.
+— Er lachte — lachte sein unheimliches meckerndes Kichern.
 »Ich werde ihn schon finden, den Herrn Jobst … In
 Frankfurt nannte man mich allgemein nicht Funke, sondern
-»Der helle Funke« — und das war ein Ehrentitel, Nach
-Berlin hatten sie mich längst versehen wollen, — ich dankte
-für die Auszeichnung. lz hing ahnt meinem Häuschen, an
-meinem Garten, an weilten Hühnern, Kaninchen und Tauben
-
+»Der helle Funke« — und das war ein Ehrentitel. Nach
+Berlin hatten sie mich längst versetzen wollen, — ich dankte
+für die Auszeichnung. Ich hing an meinem Häuschen, an
+meinem Garten, an meinen Hühnern, Kaninchen und Tauben
 … und an meinem Kinde, das ich rein erhalten wollte,
-das niemals den Sumpf der Großstadt Farnen Spuren
-sollte.« — Er hatte den Kopf langsam gesenkt … Keins
+das niemals den Sumpf der Großstadt kennen lernen
+sollte.« — Er hatte den Kopf langsam gesenkt … Seine
 <@pagebreak/>
-Stimme klang belegt wie von Tränen, die ungewohnt bleiben
-sollten. »Aus dem hellen Funken ist ein schwarzer, »Verrat.
-hier Funke geworden, der nur noch im Innern glüht.
-Aber diese Glut reicht aus für die Erfüllung eines Ahnung,
-den im vor mir selbst leistete in denselben Minuten, als
+Stimme klang belegt wie von Tränen, die ungeweint bleiben
+sollten. »Aus dem hellen Funken ist ein schwarzer, bemakelter
+Funke geworden, der nur noch im Innern glüht.
+Aber diese Glut reicht aus für die Erfüllung eines Schwurs,
+den ich vor mir selbst leistete in denselben Minuten, als
 man mir mein Urteil verkündete: Zuchthäusler! — Ich
-hätte damals frei gegrinst, schrieben die Zeitungen …
+hätte damals frech gegrinst, schrieben die Zeitungen …
 Möglich, daß ich gegrinst habe … Aber man bedenke:
 Da saß das Richterkollegium, da saßen die Geschworenen,
-da größte die Tribüne der Neugierigen, und — — über all
-diesen Leuten schwebte ich — mein anderes Ich — — uns
-sichtbar wie ein Schatten, — ich, ein Triumphator, der all
+da glotzte die Tribüne der Neugierigen, und — — über all
+diesen Leuten schwebte ich — mein anderes Ich — — unsichtbar
+wie ein Schatten, — ich, ein Triumphator, der all
 diese Superschlauen belächeln durfte, der … die Wahrheit
-wußte als einziger, im … der helle Funke!«
+wußte als einziger, ich … der helle Funke!«
 
-Er blickte auf. Seine bisher trüben Augen traumlosen,
-
-— — immer noch der helle Funde!! Hütet euch!!« —
+Er blickte auf. Seine bisher trüben Augen flammten
+»Ich — — immer noch der helle Funke!! Hütet euch!!« —
 
 Ein seltsamer Mensch …!
 
-Seine völlige Unausgeglichenheit ging wohl an beiden
-»ins der jähen Veränderung hervor, die sich) ohne jeden
-Übergang in seinem Benehme:. zeigte,
+Seine völlige Unausgeglichenheit ging wohl am besten
+aus der jähen Veränderung hervor, die sich ohne jeden
+Übergang in seinem Benehmen zeigte,
 
 Er richtete sich auf, er lächelte höflich, nahm sein Glas
-und trank Harald und mir zu, »Sie gestatten — — Ihr Wohl,
-meine Herren Gegner! — Sehen Sie, deshalb her ich Sie
-aufgesucht, …: Ich weiß, wir werden böse aneinander ne
-raten, Sie werden Jobst Zernin zu schützen suchen, ich
-werde ihn vernichten.« Er leerte sein Glas., Dann erhob er
+und trank Harald und mir zu. »Sie gestatten — — Ihr Wohl,
+meine Herren Gegner! — Sehen Sie, deshalb habe ich Sie
+aufgesucht …: Ich weiß, wir werden böse aneinander geraten.
+Sie werden Jobst Zernin zu schützen suchen, ich
+werde ihn vernichten.« Er leerte sein Glas. Dann erhob er
 sich … »Verzeihen Sie, ich muß mich empfehlen … Ich
-komme gerade Nr) zurecht … Wenn Sie mich begleiten
+komme gerade noch zurecht … Wenn Sie mich begleiten
 wollen — nur ein Stück den Feldweg entlang bis zu
 meinem Auto … Es wird Sie interessieren …«
 
-Harst sagte, rasch aufstehend: »Ich bin gespannt …,«
+Harst sagte, rasch aufstehend: »Ich bin gespannt …«
 
-Der helle Funke hatte es sehr eilig. Die sackartigen was
-gefransten Hosen scheiterten ihm um die mageren Beinen,
+Der helle Funke hatte es sehr eilig. Die sackartigen ausgefransten
+Hosen schlotterten ihm um die mageren Beine.
 Er gewann Vorsprung. Wir sahen ein helles offenes Auto
 weit vor uns auf dem Wege stehen, wir sahen Ferdinand
 <@pagebreak/>
-Funke dahinter verschwinden und behüten. Ich hielt Harald
+Funke dahinter verschwinden und sich bücken. Ich hielt Harald
 zurück. »Vorsicht!!«
 
-»Nicht doch …! Komm’ nur,
+»Nicht doch …! Komm’ nur …«
 
-Ein ’Mann richtete sich neben dem Auto wieder auf,
+Ein Mann richtete sich neben dem Auto wieder auf,
 ein Fremder in tadellosem Autodreß, Monokel eingeklemmt,
-durften Spitzbart i’mrahmte ein frisches Gesicht …
+dunkler Spitzbart umrahmte ein frisches Gesicht …
 
-»Gestatten … « sagte eine schnarrende blasierte ’Etim-
-Mag 4 … mein Name ist heller Funke …
+»Gestatten … « sagte eine schnarrende blasierte Stimme,
+»… mein Name ist heller Funke …
 
-— Er saß schon am Steuer. Der. Motor sprang am …
+Er saß schon am Steuer. Der Motor sprang an …
 »Bitte — im Wagen liegt Ihre namenlose Freundin, meine
-Herren … »’«
+Herren …!«
 
 Wir schnellten uns vorwärts, wir konnten gerade noch
 das Mädchen erkennen, das uns flehend anstarrte. Der
@@ -585,9 +583,7 @@ Wagen schoß vorwärts … —
 
 Wir hatten die Bekanntschaft eines Mannes gemacht,
 der sehr bald die ganze Welt aufhorchen ließ, wie er in
-seinen etwas wirren »Eden gedroht hatte.
-
-Nu Ich erst
+seinen etwas wirren Reden gedroht hatte.
 
 <h2>3. Kapitel.</h2>
 <h3>Die Auffahrt zur Tenne.</h3>
@@ -804,7 +800,7 @@ Auto einmal sehen?«
 Der langgestreckte Stall hatte ein breites Zoo und war
 zur Hälfte Scheune. Auf der Tenne stand der Wagen, und
 neben ihm kniete in einem blauen langen Kittel Edith Funke.
-Sie war nicht mehr ganz jung, und Schmuck?? und Puder
+Sie war nicht mehr ganz jung, und Schmuck?! und Puder
 konnten die Spuren der Jahre nicht völlig verbergen. Aber
 sie war hübsch; und zierlich), und ihre Augen erinnerten an
 die dunklen, seelenvollen Sterne der Inderinnen. Sie des
@@ -815,7 +811,7 @@ jene wegen aufgesucht hatte
 Die Tenne war roh Frechheit, und die Dielen mit zart
 bhalineum gestrichen. Es gab hier nichts besonderes zu sehen.
 Harald prüfte die Autospuren, die zur Hinterpforte führten,
-und Edith erklärte dazu, sie benutze stets die Hauptcinfahrt.
+und Edith erklärte dazu, sie benutze stets die Haupteinfahrt.
 Sie faßte den Vorfall sehr harmlos auf.
 
 Wir standen nun vor der Tenne auf dem breiten
@@ -1110,7 +1106,7 @@ Er erhob sich. Antwort blieb aus,
 
 Ich rate ihn. »Sei? dich wieder …!’
 
-»Irrtum,,t! Wetten, daß der helle Funke nicht
+»Irrtum ...!! Wetten, daß der helle Funke nicht
 schiefen wird?!«
 
 Er behielt recht,
@@ -1307,7 +1303,7 @@ Nach dem Tode der Gräfin Mutter blieben den der Familie
 vom folgende Mitglieder übrig, — erstens Graf Dietrich,
 zweitens Graf Jobst, drittens die Komtesse Edda. — Au’cr
 Fliesen dreien verschwand damals noch der Rentmeister h3
-Gutes Zerninhof, ein Junggeselle namens Karl Chinese.tt,
+Gutes Zerninhof, ein Junggeselle namens Karl Chinesen,
 der den Zernins bereits zwanzig Jahre gedient Latte und
 keinerlei nähere Angehörige besaß. — Dietrich Zernin ist
 fraglos eines natürlichen Todes gestorben, Wer ihn hier
@@ -1316,7 +1312,7 @@ wird der Kranke gewesen sein, von dein das Mädchen in Berg
 Wirkung mit dem blauen Schatten sprach. Dieses Wäscht
 ist Edith Funke, die Tochter des sollen Funkens, Als sie
 zu uns kam, erfand sie allerlei Einzelheiten über die Ört«-
-Urteil, die nicht stimmten, sie erfand den See und dazu»es
+Urteil, die nicht stimmten, sie erfand den See und Sohnes
 andere, sie war sogar so vorsichtig, einen Straße« »1;
 sabrsa;ein bei uns zu verlieren, der uns auf eine »:fragte
 Fährte bringen sollte. Ich sehe jetzt in vielem weit klarer
@@ -1330,7 +1326,7 @@ Er klappte den Deckel der Truhe zu und deutete auf
 ein schmiedeeisernes, kaum erkennbares Wappen, das mitten
 <@pagebreak/>
 auf dem Deckel angenietet war. »Das Wappen der Zernins,
-mein Alter,,t!! — Vielleicht hat man den Grafen Dietrich)
+mein Alter»t!! — Vielleicht hat man den Grafen Dietrich)
 hier in aller Stille und in allen Mitrechnen dergestalt,
 vielleicht ahnte niemand hier in Lankwitz, daß das
 Haus droben so viele Menschen mit so merkwürdigen Geheimnissen
@@ -1480,7 +1476,7 @@ seine Hiebe folgten blitzschnell hintereinander und geinüanren,
 uns für Minuten zu betäuben. Die Wirkung wäre wohl
 nachhaltiger gewesen, wenn wi« nicht unsere weichen Filzhüte
 aufgehabt hätten. Der Angreifer mußte durch; den
-dunklen Flur hereingeschlihen sein, halte die Tür trinken
+dunklen Flur hereingeschlichen sein, halte die Tür trinken
 uns ein wenig weiter größerer und dann zwei unbequeme
 Gaste sehr rasch abgetan. I sank genau wie Harst taumelnd
 nach vorn, die Taschenlupe entfiel mir und ich machte
@@ -1584,7 +1580,7 @@ in jenen Schuppen einschlug, wo die vorsorglichen Stadtväter
 die Statue der Berolina vorläufig untergestellt hatten. Aber
 es war ein kalter Schlag, und die Berolina schmolz nicht
 zu einem Metallklumpen zusammen. Andernfalls hätte der
-Streit um die Neuplazierung der Statue durchs höhere Gewalt
+Streit um die Neuplatzierung der Statue durchs höhere Gewalt
 ein Ende gefunden,
 
 Mr. Allan Ferguson war daheim. Im Hochparterre
@@ -1807,7 +1803,7 @@ sehen auch den Verschluß. Die Tür läßt sich naß d- yr
 Saite 1ufzichen, Meine. Frau hatte mir erklärt, 1.
 Kind könnte nur Furcht starke fest sie Seschäkfterungen dahin
 gebracht werden, daß sie Jobst Zernin aufgäbe und ihr Uns
-recht einsähe « Er versetzte dem Schirmgerippe einen St7
+recht einsähe « Er versetzte dem Schirmgerippe einen St?
 mit dem Fuße … »Ja der helle Funke war eben
 erhole. -p … Herr Hast, Meine Frau wollte das Besser,
 aber in. ins eigene Vernunft hätte r- he eilig den Unfug aha
@@ -1860,7 +1856,7 @@ uto
 
 »Ja — weiß Gott, Herr Harst: Schwer genug wurde mir’s,
 zu alledem zu schweigen. Gordon blieb bei Dita, und meine
-Frau und ich fuhren nach. Zehlendorf,.da gab es dann den
+Frau und ich fuhren nach Zehlendorf, da gab es dann den
 ersten Zwist zwischen uns. Doch — — Weiber machen aus
 uns Narren, und — — ich liebe meine Frau, ich …
 
@@ -1982,7 +1978,7 @@ Er stierte vor sich hin, er murmelte nur das eine: »Aber
 — « … über wozu — — wozu?! Was liegt meiner Frau an
 Dita?!« Und dann packte ihn die Angst um sein Kind.
 Er begann zu schluchzen … »Retten Sie sie … retten
-Sie sie,.!! Wo ist sie?!« Er kreischte, — er drohte uns
+Sie sich …!! Wo ist sie?!« Er kreischte, — er drohte uns
 zu verraten, er war völlig von Sinnen. — Harst preßte ihn
 die Hand auf den Mund …
 
@@ -2330,7 +2326,7 @@ Sie eigentlich den Grafen Dietrich Zernin vergiftet, Ferguson?«
 Jetzt verschnappte Mr. Allan sich. »Der ist ja verlor;
 wunden …,!« knurrte er bissig. Zu spät fiel Mr. Burton
 ihm ins ’Wort, »Halt’s Maul, du Idiot!!« — Das
-Berüältnis ewige:en Millionär und Sekretär schien ziemlich
+Berüältnis aufgetan Millionär und Sekretär schien ziemlich
 vertraut zu sein,
 
 »Irrtum, Mr… Ferguson,« sagte Harst und öffnete die
@@ -2363,7 +2359,7 @@ ebenfalls, daß das Haus einst ein Gutshaus gewesen war
 daß der Erbauer die Keller zur Lagerung von Miserabel
 bestimmt hatte. Sie waren hell und luftig, die Fenster Atem«
 (im groß, der Ziegelboden tadellos traten, die Wände dick
-gefälscht, und auch die Obftgestelle waren zum Teil noch vor.
+gefälscht, und auch die Obstgestelle waren zum Teil noch vor-
 landen.
 
 Hier nach einer Geheimtür suchen, die in verborgene
