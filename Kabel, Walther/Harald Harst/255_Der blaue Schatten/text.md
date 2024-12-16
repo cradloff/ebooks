@@ -1922,72 +1922,71 @@ Der Ärmste war leichenblaß und zitterte,
 wurden, — ich hatte kaum die Eisenstäbe da eingezogen,
 als in der Geheimtür ein Lichtstrahl erschien, — ein
 Schuß knallte, ich sank um, ich glaubte, es sei aus mit
-mir, — ich hörte mehrere Leute sprechen, — sie untersuchen
-mich, hielten mich für tot, trugen mich in die ’Müll«
-Grube, starrten mich ein, — zum Glück lag ich mit dem
-Kopf zu der Mauer und Konnte aha, sollte Pds
-wieder heraus und kletterte halbtot am &Tfeu empor und
+mir, — ich hörte mehrere Leute sprechen, — sie untersuchten
+mich, hielten mich für tot, trugen mich in die Müllgrube,
+scharrten mich ein, — zum Glück lag ich mit dem
+Kopf an der Mauer und Konnte atmen, — wühlte mich
+wieder heraus und kletterte halbtot am Efeu empor und
 <@pagebreak/>
 wollte mich hier ein wenig erholen, hoffte, man würde
-mich hier nicht Indien, auch nicht ahnen, daß ich; 11oc;ich am
-Leben, —« Herr Harst, — — die Wahrheit: Glauben
+mich hier nicht suchen, auch nicht ahnen, daß ich noch am
+Leben … — Herr Harst, — — die Wahrheit: Glauben
 Sie, daß meine Frau mich … — mich etwa … getäuscht
 hat?! Das kann ja nicht sein …! Gott im Himmel, —
 weshalb sollte sie wohl so schändliche …«
 
 Er drohte umzusinken. Die Stimme versagte ihm. Wir
-legten ihm rasch auf die Kiste, und der Ohnmachtsanfall
+legten ihn rasch auf die Kiste, und der Ohnmachtsanfall
 ging vorüber,
 
 »Funke,« sagte Harst mitleidig, »daß Ihre Frau hier
 ein schlau vorbereitetes Spiel getrieben hat, — mehr als
 das, — daß sie alles getan hat, Sie wieder ins Zuchthaus
 zu bringen, daß diese ganzen phantastischen Machenschaften
-nichts wie raffinierte Niedertrachgt waren, — Sie sehen
+nichts wie raffinierte Niedertracht waren, — Sie sehen
 das nun wohl selbst schon ein. Freilich: Der Zweck des
-Ganzen liegt für mich) im Dunkeln. Ich kann mir aus alledem
-beim besten Willen keinen Berg machen, kann Ihnen
+Ganzen liegt für mich im Dunkeln. Ich kann mir aus alledem
+beim besten Willen keinen Vers machen, kann Ihnen
 nur mitteilen, daß Ihr Kind sicherlich in Gefahr schwebt,
-daß der Mordanschlag auf Sie lediglich das Allahabad
-einer Kette von äußerst so Tau überlegten Zurüstungen gewesen
-ist, die Ihnen entweder wieder die Tore von Feuers
-Burg öffneten oder … Sie dem Tode in die Arme warfen!
-
-— Ähre Frau hat Sie absichtlich Furcht Liebesbeteuerungen
+daß der Mordanschlag auf Sie lediglich das Schlußglied
+einer Kette von äußerst schlau überlegten Zurüstungen gewesen
+ist, die Ihnen entweder wieder die Tore von Sonnenburg
+öffneten oder … Sie dem Tode in die Arme warfen!
+— Ihre Frau hat Sie absichtlich durch Liebesbeteuerungen
 genarrt, hat Sie dann uns gegenüber als den allein Schuldigen
-an einem angeblich: gegen den Grafen Jobst eingeleiteten
-Rachefeldzug hit:zustälen gewußt … Wären Sie
+an einem angeblich gegen den Grafen Jobst eingeleiteten
+Rachefeldzug hinzustellen gewußt … Wären Sie
 wirklich hier erschossen und verscharrt worden, so würde ich
-kaum vermutet haben, Sie könnten das Opfern eines Berg
-Erachtens geworden sein. ich hätte nach alledem, was dort
-ausgegangen ist, lediglich ungenannter, Sie wären geflüchtet.
+kaum vermutet haben, Sie könnten das Opfer eines Verbrechens
+geworden sein. ich hätte nach alledem, was
+vorausgegangen ist, lediglich angenommen, Sie wären geflüchtet.
 Niemand hätte den wahren Sachverhalt auch nur
 geahnt … Die Leute, die mit Ihrer Frau verbündet sind,
-haben jeden Schachzug aufs grinste berechnet, Man Flug
-uns nieder und schaffte uns in unseren Je« »liegenden …
-Man tat uns nichts weiter zuleide, denn den einzigen,
+haben jeden Schachzug aufs feinste berechnet. Man schlug
+uns nieder und schaffte uns in unseren Gemüsegarten …
+Man tat uns nichts weiter zuleide, denn — den einzigen,
 <@pagebreak/>
-der diese HZollenkomödie aufdecken konnte, glaubte man tot,
+der diese Höllenkomödie aufdecken konnte, glaubte man tot,
 stumm für alle Zeit: Sie!!«
 
-Funke hatte sich aufrecht ’gesezt. Er lagerte blöde …
+Funke hatte sich aufrecht gesetzt. Er lächelte blöde …
 Er stierte vor sich hin, er murmelte nur das eine: »Aber
-— « … über wozu — — wozu?! Was liegt meiner Frau an
+… aber wozu — — wozu?! Was liegt meiner Frau an
 Dita?!« Und dann packte ihn die Angst um sein Kind.
 Er begann zu schluchzen … »Retten Sie sie … retten
-Sie sich …!! Wo ist sie?!« Er kreischte, — er drohte uns
-zu verraten, er war völlig von Sinnen. — Harst preßte ihn
+Sie sie …!! Wo ist sie?!« Er kreischte, — er drohte uns
+zu verraten, er war völlig von Sinnen. — Harst preßte ihm
 die Hand auf den Mund …
 
 »Still, — sind Sie wahnsinnig!! Reißen Sie sich zusammen,
-Funke! Denken Sie an Ihren einstigen Ehren
-Namen! Wenn Dir Dita retten sollen, müssen wir noch
+Funke! Denken Sie an Ihren einstigen Ehrennamen!
+Wenn wir Dita retten sollen, müssen wir noch
 schlauer sein als diese Schurken, die hier nun als Mieter
 hausen und die sicherlich über einwandfreie Papiere verfügen
 … Nur mit List ist ihnen beizukommen, — sie
 würden leugnen, jemals Ihre Frau gekannt zu haben, —
 sie würden erklären, nichts davon zu wissen, daß Schraut
-und ich hier niedergeschlagen wurden, —« sie würden beweisen,
+und ich hier niedergeschlagen wurden, — sie würden beweisen,
 daß sie durchaus ehrbare Ausländer sind, — denn
 Ihre Frau und der angebliche Detektiv Percy Gordon
 werden nicht wieder auftauchen …«
@@ -2000,179 +1999,180 @@ satanischer Schläue.
 geschehen?«
 
 Er war mit einem Male wieder in Wahrheit der helle
-Runde geworden, Er strich sich langsam über die Stirn,
-und ganz bedächtig fügte er hinzu: »Wir wollen. von hier
+Funke geworden. Er strich sich langsam über die Stirn,
+und ganz bedächtig fügte er hinzu: »Wir wollen von hier
 verschwinden … Am besten, wir gehen zu Ihnen, Herr
 Harst, und beraten … Vorher aber müssen wir unbedingt
 den Müllhaufen wieder so herrichten, daß meine
-Flucht von den Schurken nicht entdeckt wird …
+Flucht von den Schurken nicht entdeckt wird …«
 
-»Das wird kaum nötig sein, Funke, Nach einer halben
+»Das wird kaum nötig sein, Funke. Nach einer halben
 <@pagebreak/>
 Stunde ist dieses Haus umzingelt … Ich werde Doktor
-Brücke vom Bahnhof Lankwitz aus benachrichtigen. Fühlen Sie
+Lücke vom Bahnhof Lankwitz aus benachrichtigen. Fühlen Sie
 sich kräftig genug, am Efeu Herabzuklettern?«
 
-Gleich darauf schlichen wir durch; den Park davon.
+Gleich darauf schlichen wir durch den Park davon.
 
-Das Polizeirevier Lankwitz liegt dem Bahnhof gegenüber
-Puls wir dort erstarren, erhob sich) »aus dem Scweibssessel
+Das Polizeirevier Lankwitz liegt dem Bahnhof gegenüber.
+Als wir dort erschienen, erhob sich aus dem Schreibsessel
 im Zimmer des Polizeihauptmanns eine schlanke
 Gestalt und ein Monokel glitzerte uns ironisch an …
 
-»Du Abend,« sagte Lücke etwas boshaft. »Wollt ihr etwa
+»N’Abend,« sagte Lücke etwas boshaft. »Wollt ihr etwa
 Mr. Allan Ferguson verhaften lassen?! So heißt ja wohl
-der amerikanische Multimillionär, der jetzt die Ehrhardt«
-Villa gemietet hat. Na, und Sie, Funke?! Wo haben
+der amerikanische Multimillionär, der jetzt die Ehrhardt-Villa
+gemietet hat. — Na, und Sie, Funke?! Wo haben
 Sie denn Ihre Freundin aus Zehlendorf, Kirchstraße 32 gelassen,
-hübsche Villa dort«
+— hübsche Villa dort«
 
 Harst schnitt ihm hastig das Wort ab. »Lücke, Sie mögen
 vieles wissen, alles wissen Sie nicht! Ich bitte Sie, sofort
 das Haus Grüner Weg 2 durch Ihre Leute einkreisen
-und — …»’
+und …«
 
-»Denke nicht daran!« Lücke wurde ernst. »Mr. Alten
-Ferguson ist nämlich schon eingekreist. Allerdings zu seiner
-eigenen Sicherheit, mein lieber Harst. Brille Amerikaner hat
-er sie an seine hiesige Botschaft um Hilfe gewandt, und
-diese wieder ersuchte uns heute, ihm eine Bande von Er««
-Fesseln. vom Leibe zu halten, die ihn seit Monaten »des
-betrat Ferguson ist Chikaigoer, und Sie kennen ja die
-dortigen Zustände, Die Erpressergesellschaften sind dort genau
-so gut organisiert wie die Polizei, »und ein Millionär,
+»Denke nicht daran!« Lücke wurde ernst. »Mr. Allan
+Ferguson *ist* nämlich schon eingekreist. Allerdings zu seiner
+eigenen Sicherheit, mein lieber Harst. Als Amerikaner hat
+er sich an seine hiesige Botschaft um Hilfe gewandt, und
+diese wieder ersuchte uns heute, ihm eine Bande von Erpressern
+vom Leibe zu halten, die ihn seit Monaten behelligt.
+Ferguson ist Chikagoer, und Sie kennen ja die
+dortigen Zustände. Die Erpressergesellschaften sind dort genau
+so gut organisiert wie die Polizei, und ein Millionär,
 der erst einmal mit den Brüdern zu tun bekommt, und
-nicht zahlt, kann sich in ein Mn9uscloc verkriechen, eine
+nicht zahlt, kann sich in ein Mauseloch verkriechen, eine
 Bleipille ist ihm auch da gewiß. Ferguson wohnte bisher
-hier im Dritter ließ aber in aller Stille durch seinen
+hier im Bristol, ließ aber in aller Stille durch seinen
 Sekretär die alte Ehrhardt’sche Villa mieten, die ihm ein
 Agent empfahl. Der Umzug nach Grüner Weg 2 fand in
-aller Stille heute spät a’ndsg statt, und Ferguson hofft
-nun, in dem alten Park 4 nicht dauernd seine Panzer
+aller Stille heute spät abends statt, und Ferguson hofft
+nun, in dem alten Park dort nicht dauernd seine Panzerweste
 <@pagebreak/>
-Weste tragen zu müssen, — Das wäre alles, Harst.« —
+tragen zu müssen. — Das wäre alles, Harst.« —
 Lücke hatte das linke Bein übergeschlagen und wippte mit
-der Fußspitze auf und ab, Seine Augen hingen an Ferdinand
+der Fußspitze auf und ab. Seine Augen hingen an Ferdinand
 Funkes arg mitgenommenem Anzug, und sichtlich interessiert
-fragte er nun: »Kommen Sie aus einem Mensch«
-Haufen, Funke?! Es scheint, Sie haben sich als bußfertiger
+fragte er nun: »Kommen Sie aus einem Kerichthaufen,
+Funke?! Es scheint, Sie haben sich als bußfertiger
 Sünder nicht nur das Haupt mit Asche bestreut … —
 Aber nehmt hoch Platz, — — Sie auch, Funke … Suchen
-»Sie noch immer den Grafen Jobst Zernin?!«
+Sie noch immer den Grafen Jobst Zernin?!«
 
-Funke trat las) ganz dicht vor Lücke hin,
+Funke trat rasch ganz dicht vor Lücke hin,
 
-»34 suche mein Kind, Herr Kriminaklkommissar, « rief
+»Ich suche mein Kind, Herr Kriminalkommissar,« rief
 er flehend. »Wir suchen es … wir, auch Harst und Schraut.
-Wo sind die Zernins jetzt 2«
+Wo sind die Zernins jetzt?«
 
-Lücke zog ein x die Augenbrauen hoch. »Ihr Kind lebt?!
-Dann … dank wäre dies nur eine Bestätigung einer längst
+Lücke zog etwas die Augenbrauen hoch. »Ihr Kind lebt?!
+Dann … dann wäre dies nur eine Bestätigung einer längst
 von mir gehegten Vermutung. Aber bei den Zernins und bei
-Ehrhardt ist sie nicht,! War’s etwa die Frau, die in Zehlendorf
-mit Ihnen in der …
+Ehrhardt ist sie nicht. War’s etwa die Frau, die in Zehlendorf
+mit Ihnen in der …«
 
 »Die Frau ist meine Frau!« stieß Funke immer erregter
-hervor. Sein Hilfe kriechenden Blick flog zu Harst hinüber,
+hervor. Sein Hilfe heischender Blick flog zu Harst hinüber,
 der sich in die eine Ecke des Sofas gesetzt hatte und die
-Augen halb geschlossen hielt, »Herr Harst, ich … ich begreife
-nicht, daß Sie sich so schweigsam verhalten, « …
+Augen halb geschlossen hielt. »Herr Harst, ich … ich begreife
+nicht, daß Sie sich so schweigsam verhalten …
 Sie werden Herrn Doktor Lücke weit besser alles erklären
-können als ich …
+können als ich …«
 
 »Vielleicht,« nickte Harald zerstreut. »Hören Sie zu, Lücke.
 Das, was wir erlebt haben, ist mindestens ebenso interessant
-wie die Arbeitsmethoden der Chikagoer »Grinsen«, so nennt
-man ja wohl die dortigen Erpresserbanden. Feinden Sie
+wie die Arbeitsmethoden der Chikagoer »Grinter«, so nennt
+man ja wohl die dortigen Erpresserbanden. Nachdem Sie
 uns vormittags verlassen hatten, fuhren Schraut und ich
 zum Grünen Weg Nr. 2, da der Vertreter der Automobilfirma
 …«
 
-Lücke beugte sich vor. »Na Nu, — ihr glaubtet an den
+Lücke beugte sich vor. »Na nu, — ihr glaubtet an den
 Schwindel, daß ein Fritz Funke, Privatdetektiv, dort wohne?!«
 
 <@pagebreak/>
-geirrt Funke steht da vor Ihnen, Lücke … Wann
-verließen die Zernins und Ehrhardt »aß Haus Nr. 2?«
+»Fritz Funke steht da vor Ihnen, Lücke … Wann
+verließen die Zernins und Ehrhardt das Haus Nr. 2?«
 
-»Heute gegen Sein Uhr vormittags …«
+»Heute gegen zehn Uhr vormittags …«
 
 »Wo blieben Sie dann?«
 
-»BELorläufig in einem Hotel, erklärte mir Untergingen.
-Wir werden sie schon aufstöbern Rentmeister Ehrhardt
+»Vorläufig in einem Hotel, erklärte mir Mr. Ferguson.
+Wir werden sie schon aufstöbern. Rentmeister Ehrhardt
 wird uns notwendig darüber Aufschluß geben müssen weshalb
 er die drei Zernins vor aller Welt verbarg und sogar
-sich selbst hier in Lankwitz unter anderem Namen anrichtete.
+sich selbst hier in Lankwitz unter anderem Namen anmeldete.
 Leider hörten wir dies alles erst durch die amerikanische
 Botschaft und durch Allan Fergusons Sekretär. Wir konnten
-nie! mehr zugreifen, Ehrhardt und die Zernins waren bereits
+nicht mehr zugreifen. Ehrhardt und die Zernins waren bereits
 ausgezogen,«
 
-Harst, der offenbar im Geiste rote anderen Dingen nachspürte,
-meinte achselzuckend »Aufgezogen?! — Fügen Sie
-ein »angeblich« hierzu, Lücke, und dann stimmt es, Ich
-behaupte, die drei Zernins d finden sich noch in dem Hause,
-und auch Dita Funke weil: »Ort, hoffentlich noch lebend,
-um ganz klar zu reden. denn Ferdinand Funke ist nur
-wie durch ein Wunder dem Tode entronnen — eine Breite,
-Lücke, und. diese Pille verabreichte ihm ohne Zweifel
-einer der Leute Fergusons« Harsts Stimme war immer
-Bösesten geworden Seine Geistesabwesenheit war gewunden,
-und seine nächste Frage klang wie Söywerthieb,
-der einen verschlungenen Knoten zertrennt, »Funke, haben
-Sie außer Frau und Kind sonst noch« nähere BVBerwanndte?«
+Harst, der offenbar im Geiste noch anderen Dingen nachspürte,
+meinte achselzuckend »Ausgezogen?! — Fügen Sie
+ein »angeblich« hierzu, Lücke, und dann stimmt es. Ich
+behaupte, die drei Zernins befinden sich noch in dem Hause,
+und auch Dita Funke weilt dort, hoffentlich noch lebend,
+um ganz klar zu reden, denn Ferdinand Funke ist nur
+wie durch ein Wunder dem Tode entronnen — eine Bleipille,
+Lücke, und diese Pille verabreichte ihm ohne Zweifel
+einer der Leute Fergusons.« Harsts Stimme war immer
+schärfer geworden. Seine Geistesabwesenheit war geschwunden,
+und seine nächste Frage klang wie Schwerthieb,
+der einen verschlungenen Knoten zertrennt. »Funke, haben
+Sie außer Frau und Kind sonst noch nähere Verwandte?«
 
-Ich hatte einen Bruder Er war Steward auf
-einem Küstendampfer in Etwa Er ist verschollen.«
+»Ich hatte einen Bruder. — Er war Steward auf
+einem Küstendampfer in China. Er ist verschollen.«
 
-»Er ist tot.« sagte Harst »Er ist bestimmt tot, Funke,
-Die Euch er?«
+»Er ist tot.« sagte Harst »Er ist bestimmt tot, Funke.
+Wie hieß er?«
 
-»sein Funke«
+»Fritz Funke«
 
 Lücke wurde ungeduldig. »Was soll das alles?! Sie
-wollen das nicht etwa ernsthaft behaupten, daß Ferguson
-ein Verbrecher ist. Harst?’«
+wollen doch nicht etwa ernsthaft behaupten, daß Ferguson
+ein Verbrecher ist, Harst?«
 
-»Ich behaupte es nicht? Ich weiß es jetzt. »Wenn Sie erst
+»Ich behaupte es nicht. Ich weiß es jetzt. Wenn Sie erst
 <@pagebreak/>
 Funkes und unsere Erlebnisse kennen, werden Sie stutzig
 werden. Ich will nicht viel Worte machen. Funkes durchgebrannte
-Frau hat ein Intrigenspiel inszeniert, das Mister
+Frau hat ein Intrigenspiel inszeniert, das bisher
 für mich unmöglich zu durchschauen war. Erst jetzt habe
-ich den roten Faden gefunden, der, … doch hören
+ich den roten Faden gefunden, der …  — doch hören
 Sie!« Und er berichtete alles, was Funke uns mitgeteilt
 hatte, erzählte dann auch unsere Abenteuer im Hause Nr. 2.
 »Nun, Lücke, — halten Sie Ferguson, den Millionär noch
 immer für einen Engel? Meinen Sie nicht auch, der Kerl
 steckt mit Edith Funke, der Mutter Ditas unter einer Decke?
-er nun traten Ihre Leute den Wachtdienst bei Ferguson
-an es
+— Wann traten Ihre Leute den Wachtdienst bei Ferguson
+an?«
 
-»Kurz bevor Sie drei hier erschienen.« sagte Lücke
+»Kurz bevor Sie drei hier erschienen …« sagte Lücke
 sehr gedehnt und stieß dann einen leisen Pfiff aus. »Lieber
 Harst, ich bin soeben aus allen Wolken gefallen …! Dieser
-Schlank auf Funke genügt … Meine Zweifel wachsen
-Brechen wir auf.« Er Satanas «:Mensch empor und ich lachte
-in seinen Gumminmiant?!. »Ich habe vier Leute im Park
+Schuß auf Funke genügt … Meine Zweifel wachsen …
+Brechen wir auf.« Er sprang elastisch empor und schlüpfte
+in seinen Gummimantel. »Ich habe vier Leute im Park
 und zwei im Hause selbst. Ich nehme noch drei Beamte
 hier vom Revier mit,«
 
-»Nicht drei, sondern alle irgendwie verfügbaren, »lose!
-Glauben Sie mir, es wird einen üblen Strauß geben. klaren
-Ferguson drückte vorbereitet sein … « —
+»Nicht drei, sondern alle irgendwie verfügbaren, Lücke!
+Glauben Sie mir, es wird einen üblen Strauß geben. Allan
+Ferguson dürfte vorbereitet sein …« —
 
-Als wir im strömenden Regen das Parktor einer hier,
-blieb Ferdinand Funke zunächst zurück, In den beiden Eine
-waren brannte rote Licht, und der Millionär, sein Gereist
+Als wir im strömenden Regen das Parktor erreichten,
+blieb Ferdinand Funke zunächst zurück. In den beiden Zimmern
+brannte noch Licht, und der Millionär, sein Sekretär
 und sein Freund sowie Frau Ferguson nebst Tochter hatten
-Ei: Batterie Flaschen auf dem Tische inzwischen wesentlich
-verachtet,
+die Batterie Flaschen auf dem Tische inzwischen wesentlich
+vermehrt.
 
 <@pagebreak/>
-z. Kapitel.
-Frau Zernin
+
+<h2>4. Kapitel.</h2>
+<h3>Frau Zernin</h3>
 
 Einer der Kriminalassistenten Fürs ließ uns ein. Unser
 Erscheinen störte die fünf Herrschaften nicht im geringsten.
