@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">4bf5b9b1-f301-4395-af8c-fe8161da91df</entry>
+<entry key="title">Der blaue Schatten</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">255</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Der blaue Schatten
+
+»… Denken Sie sich ein Haus, von dem man über ein blinkendes, in Sonne gebadetes Wasser schaut,« fuhr sie fort. »Ein uraltes Haus, noch aus den Zeiten, als Berlins Grenzen eng und behaglich waren. Mein Zimmer liegt im ersten Stock in einem turmartigen Anbau. Die Möbel darin sind so klein und alt und dürftig wie die Fenster mit ihren grünlichen Scheiben. Ich schlafe in einem Bett an der Rückwand, — ein Himmelbett mit einer langen bunten Vergangenheit. Ich sehe vor mir das ganze fünfeckige Zimmer und die drei Fenster, die ich nachts offen lasse, denn ich liebe die warmen Nächte und das Rauschen der Bäume und das Plätschern des Springbrunnens. — Vor acht Tagen sah ich ihn zum ersten Male. Der Mond schien schräg in das Zimmer und zeichnete weiße Stellen auf die dunklen Eichendielen. Ich bin weder furchtsam noch abergläubisch. Nein, als der blaue Schatten plötzliches von dem Wandgemälde sich löste und herabschwebte und durch den Raum glitt und vor der Wandnische kniete und zu beten schien, glaubte ich, es sei vielleicht eine dicke Rauchwolke, die aus Ehrhardts Küche käme …«
+
+Menschen von drüben
+
+»Halt — oder ich schieße!«
+
+Harsts energischer Anruf hatte denn auch einen doppelten, recht überraschenden Erfolg.
+
+Die Erscheinung erhob sich jäh wieder zu voller Größe und ebenso plötzlich bildete sie eine einzige lohende Feuersäule, die unter starkem Zischen in Sekunden wieder erlosch und nicht das Geringste mehr von dem blauen Schatten zurückließ. Der Lichtschein der aufflammenden »Gestalt« war so intensiv, daß ich die Augen schloß und unwillkürlich zurückprallte.  Dabei sank mir der linke Arm mit der Taschenlampe herab, und als ich die Lider wieder öffnete und den Lichtkegel auf den kleinen Altar richtete, bemerkte ich auf den Dielen lediglich ein Häuflein Asche — nichts weiter.
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (255) Der blaue Schatten.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1929</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
