@@ -570,8 +570,8 @@ Ein Mann richtete sich neben dem Auto wieder auf,
 ein Fremder in tadellosem Autodreß, Monokel eingeklemmt,
 dunkler Spitzbart umrahmte ein frisches Gesicht …
 
-»Gestatten … « sagte eine schnarrende blasierte Stimme,
-»… mein Name ist heller Funke …
+»Gestatten …« sagte eine schnarrende blasierte Stimme,
+»… mein Name ist heller Funke …«
 
 Er saß schon am Steuer. Der Motor sprang an …
 »Bitte — im Wagen liegt Ihre namenlose Freundin, meine
@@ -760,7 +760,7 @@ frische Luft sehr wenig, aber …«
 »Bemühen Sie sich nicht … — Herr Funke, Sie
 haben eine Enkelin?«
 
-Er lächelte glücklich. »Ja … »Die Tochter meiner Tochter
+Er lächelte glücklich. »Ja … Die Tochter meiner Tochter
 …«
 
 »Und sie heißt?«
@@ -1034,7 +1034,7 @@ Decke empor: »Ist Rauchen gestattet?«
 
 Keine Antwort, Funke ließ sich nicht anöden,
 
-»Also ist’s gestattet … « Er rieb sein Feuerzeug an.
+»Also ist’s gestattet …« Er rieb sein Feuerzeug an.
 — In demselben Moment Erlosch der Scheinwerfer oben,
 wurde jedoch sofort durchs eine elektrische Birne nebst Fassung
 ersetzt, die an zwei isolierten Drähten herabschwebte. Sie
@@ -1552,7 +1552,7 @@ war jedoch schon verschwunden, und mir blieb nichts anderes
 
 »Mama war noch auf,« erklärte er. »Ich habe ihr gesagt,
 wir hätten noch eine dringende Einladung. Mathilde solle
-uns Das Abendessen in mein Zimmer stellen,
+uns Das Abendessen in mein Zimmer stellen,«
 
 Gegen Harsts knappe Art ist schwer aufzukommen. Seufzend
 verließ ich mit ihm den trockenen Unterschlupf und
@@ -2209,8 +2209,7 @@ Der Millionär lachte. »Asche?! Sie scherzen.«
 »Kein Grund dazu, Mr. Ferguson. Möglich, daß der
 Hieb mit dem Gummiknüttel meine Geschmacksnerven etwas
 <@pagebreak/>
-lädiert hat. Verwenden Sie in Chikago mit Vorliebe Gummi-
-Knüttel?«
+lädiert hat. Verwenden Sie in Chikago mit Vorliebe Gummiknüttel?«
 
 Ferguson runzelte die hohe Stirn. »Ich verstehe Sie
 nicht ganz, Mr. Harst … Ich bin nie Polizist gewesen.
@@ -2222,11 +2221,11 @@ Preßkohlenasche.«
 
 Das Schweigen, das diesem erneuten Angriff folgte,
 war recht peinlich. Lücke saß tief zurückgelehnt in einem
-elenden Plüschsessel und beäugte die Mienen der fünf Herr-
-schaffen mit gespannter Erwartung. Aber es waren hartgesottene,
-alterprobte Sünder, und sie lächelten nur höf-
-sich, und Miß Mabel flötete süßlich: »Ihr Tod wäre ein
-unersetzlicher Verlust gewesen, Mr. Harst ..."
+elenden Plüschsessel und beäugte die Mienen der fünf Herrschaften
+mit gespannter Erwartung. Aber es waren hartgesottene,
+alterprobte Sünder, und sie lächelten nur höflich,
+und Miß Mabel flötete süßlich: »Ihr Tod wäre ein
+unersetzlicher Verlust gewesen, Mr. Harst …«
 
 »Ach nein,« sagte Harst und betrachtete seine glimmende
 Zigarette. »Unser Tod wäre außerordentlich vorteilhaft für
@@ -2244,8 +2243,8 @@ Ein Freund von Ihnen?«
 diesem Hause erschossen, Mr. Ferguson.«
 
 Die fünf Chikagoer staunten. Aber sie staunten allzu
-intensiv. Es ist nicht ganz leicht, gerade eine den Um-
-ständen entsprechende Überraschung zu heucheln.
+intensiv. Es ist nicht ganz leicht, gerade eine den Umständen
+entsprechende Überraschung zu heucheln.
 
 »Wie — um halb elf?!« rief Ferguson. »und — —
 hier?! Unmöglich! Kurz nach halb elf trafen wir hier ein
@@ -2273,7 +2272,7 @@ nur um Ihre Sicherheit, Mr. Ferguson. Sie werden von
 Erpressern verfolgt. Bei einem vielfachen Millionär ist
 manches zu holen. Erwarben Sie Ihr Vermögen im Kriege?«
 
-»Ja ...!«
+»Ja …!«
 
 »Hm — verzeihen Sie, irren Sie sich nicht? — Aber
 darüber können wir später reden. Denken Sie, die Mörder
@@ -2319,8 +2318,8 @@ erfand, um jede Spur hinter sich zu verwischen. Aber die
 Geheimtür wird schon vorhanden sein, hoffe ich. — Haben
 Sie eigentlich den Grafen Dietrich Zernin vergiftet, Ferguson?«
 
-Jetzt verschnappte Mr. Allan sich. »Der ist ja versch-
-wunden …!« knurrte er bissig. Zu spät fiel Mr. Burton
+Jetzt verschnappte Mr. Allan sich. »Der ist ja verschwunden
+…!« knurrte er bissig. Zu spät fiel Mr. Burton
 ihm ins Wort. »Halt’s Maul, du Idiot!!« — Das
 Verhältnis zwischen Millionär und Sekretär schien ziemlich
 vertraut zu sein,
@@ -2339,14 +2338,14 @@ Sie da?! Frau Dita Zernin?«
 vor dem deutschen Konsul in Oslo geschlossen worden. Die
 Heiratsurkunde fand ich heute in Ditas Zimmer. Dieser Ehe
 wegen sollten ja auch die Zernins beseitigt werden, auch
-Rentmeister Ehrhardt … — Kommen Sie, Funke ...
+Rentmeister Ehrhardt … — Kommen Sie, Funke …
 Gnade Gott diesen Schuften, wenn wir die Gesuchten nicht
 mehr lebend antreffen!«
 
 <@pagebreak/>
 
 <h2>5. Kapitel.</h2>
-<h3>Ferqunsons Abstieg.</h3>
+<h3>Fergusons Abstieg.</h3>
 
 Lücke, Funke und wir beide standen unten im Keller des
 alten Gebäudes. Diese weiten, tiefen Kellerräume bewiesen
@@ -2369,17 +2368,17 @@ meine Herren … Die Hauptperson ist Ferguson,
 Rechtsanwalt Ferguson aus Chikago … Burton ist sein
 Bürovorsteher gewesen, und Bellamoor einer seiner Schreiber
 … Frau Ferguson heißt in Wahrheit Liddy Burton
-und …"
+und …«
 
-«… und nun zeigen Sie uns die Geheimtür!« ver-
-langte Lücke energisch. "Sie sollen nach Möglichst ge-
-schont werden, Mabel … Leben die Gefangenen noch?«
+»… und nun zeigen Sie uns die Geheimtür!« verlangte
+Lücke energisch. »Sie sollen nach Möglichst geschont
+werden, Mabel … Leben die Gefangenen noch?«
 
 »Ich … hoffe … Hier im dritten Keller rechts
 ist die Tür … Dort, zwischen diesen Fliesen liegt der
 Hebel, Mr. Lücke … Aber seien Sie vorsichtig … Frau
 Funke und Percy Gordon sind unten als Wächter, und
-Gordon ist gefährlich,"
+Gordon ist gefährlich,«
 
 <@pagebreak/>
 »Ich auch,« nickte Lücke und entsicherte seine Dienstpistole.
@@ -2423,9 +2422,9 @@ spielte sich der vorläufige Schlußakt des Dramas ab. Als
 <@pagebreak/>
 wir dort mit Frau Edith und Percy Gordon erschienen,
 als hinter uns das junge Ehepaar Zernin und die Komtesse
-Edda eintraten, -- als Miß Mabel sich schuldbewußt in
-eine Ecke drückte, gab Allan Ferguson seine Sache end-
-gültig verloren. Er war ein Verbrecher besonderen Formats,
+Edda eintraten, — als Miß Mabel sich schuldbewußt in
+eine Ecke drückte, gab Allan Ferguson seine Sache endgültig
+verloren. Er war ein Verbrecher besonderen Formats,
 — das bewies er jetzt durch sein kaltblütiges Geständnis,
 
 Harst fragte ihn lediglich: »Sie waren Fritz Funkes, des
@@ -2437,10 +2436,10 @@ eingeweihten beiden Büroangestellten ließen Sie an dem
 Raube teilnehmen …«
 
 »Sie ersparen mir ein Geständnis,« nickte Ferguson
-seufzend. »Ich war bis dann ein ehrlichen Mensch ge-
-Wesen. Aber diese Erbschaft wirkte allzu verführerisch. Ich
+seufzend. »Ich war bis dann ein ehrlichen Mensch gewesen.
+Aber diese Erbschaft wirkte allzu verführerisch. Ich
 wußte, daß Fritz Funke für seinen Bruder als tot galt.
-Ja -- ich wurde zum Diebe an der Hinterlassenschaft, und
+Ja — ich wurde zum Diebe an der Hinterlassenschaft, und
 dieser erste Schritt vom geraden Wege führte mich in …
 die Hölle. Ich fürchtete tagtäglich eine Entdeckung meines
 Millionenbetruges, ich brütete immer neue Pläne aus,
@@ -2448,7 +2447,7 @@ diese Entdeckung für alle Zeit zu hintertreiben. Ich selbst
 war’s, der zuerst hier nach Deutschland reiste und Frau
 Edith Funke umgarnte. Ich wollte anfänglich von ihr nur
 erfahren, ob Ferdinand Funke tatsächlich seinen Bruder für
-tot hielt -- für verschollen. Diese Frau da« — er wies mit
+tot hielt — für verschollen. Diese Frau da« — er wies mit
 heftiger Gebärde auf die gewissenlose Gattin Ferdinands —
 »war jedoch hellhörig genug, mein Interesse für die Brüder
 Funke richtig zu werten. Ich hatte sie aushorchen wollen,
@@ -2468,13 +2467,13 @@ in meiner Tasche finden. Gewiß — dieser Vergleich sollte
 erzwungen werden, doch nicht mit den Mitteln, die Frau
 Edith und Gordon insgeheim anzuwenden beabsichtigten,
 um eine Teilung der vier Millionen Dollar zu verhindern.
-Ich bin ein Verbrecher, — ein Mörder wäre ich nie ge-
-worden. Verflucht sei der Tag, an dem Fritz Funke mir
+Ich bin ein Verbrecher, — ein Mörder wäre ich nie geworden.
+Verflucht sei der Tag, an dem Fritz Funke mir
 sein volles Vertrauen schenkte, verflucht sei meine Schwäche,
 die mich zum Erbschaftsbetrüger werden ließ! — Ich lüge
 nicht … Ich habe die Erbschaft bisher nicht angegriffen,
-nur die Zinsen verbraucht. Auch das wird sich als Wahr-
-heit herausstellen.«
+nur die Zinsen verbraucht. Auch das wird sich als Wahrheit
+herausstellen.«
 
 Frau Edith saß da und weinte, widersprach mit keiner
 Silbe. Vielleicht kam ihr erst jetzt die ungeheure Schändlichkeit
