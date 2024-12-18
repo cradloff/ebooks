@@ -2174,97 +2174,96 @@ vermehrt.
 <h2>4. Kapitel.</h2>
 <h3>Frau Zernin</h3>
 
-Einer der Kriminalassistenten Fürs ließ uns ein. Unser
+Einer der Kriminalassistenten Lückes ließ uns ein. Unser
 Erscheinen störte die fünf Herrschaften nicht im geringsten.
 Lücke stellte uns in aller Höflichkeit vor und erklärte ebenso
 liebenswürdig, wir drei wollten uns nur einmal das bewußte
-Mosaikbild droben im Stimmen ansehen.
+Mosaikbild droben im Eckzimmer ansehen.
 
-An den Amerikanern war äußerlich nichts auszusetzen…
+An den Amerikanern war äußerlich nichts auszusetzen.
 Ferguson mochte fünfzig Jahre alt sein und ist mit dem
-Paßvermerk »Keine besonderen Kennzeichen« genügend Ja
-patentiert. Seine Frau, auffallend jugendlich für eine bereits
-erwachsene Tochter, war eine nichtssagende Sonne
-bei!, und Miß Ferguson desgleichen. Fergusons Freund,
-Mr. Holländer, ein hagerer langer Kurze, hatte ein Rasselndes,
+Paßvermerk »Keine besonderen Kennzeichen« genügend charakterisiert.
+Seine Frau, auffallend jugendlich für eine bereits
+erwachsene Tochter, war eine nichtssagende Schönheit,
+und Miß Ferguson desgleichen. Fergusons Freund,
+Mr. Bellamoor, ein hagerer langer Bursche, hatte ein ungesundes,
 faltiges Gesicht, und der Sekretär Burton glich
-durchaus einem entgleisen Theologen, Sämtliche Herrschaften
-waren elegant gekleidet, trugen viel Hund, hatten angenehme
+durchaus einem entgleisen Theologen. Sämtliche Herrschaften
+waren elegant gekleidet, trugen viel Schmuck, hatten angenehme
 Manieren und verrieten in keiner Weise, daß
 etwa unser Auftauchen so mitten in der Nacht sie etwa
-beunruhigte, Wir wurden eingeladen Platz zu nehmen,
+beunruhigte. Wir wurden eingeladen Platz zu nehmen,
 Burton holte drei Rotweingläser, und wir saßen nun zu
 acht um den Tisch bei offenen Fenstern und bei der eintönigen
 Musik des draußen plätschernden Regens,
 
-»Diebe von Ihnen schon gehört, Mr. Harst,/« sagte Ferguson
-und hob sein Glas, »Ihr Wohl, weine Herren …
+»Habe von Ihnen schon gehört, Mr. Harst,« sagte Ferguson
+und hob sein Glas. »Ihr Wohl, meine Herren …
 Dieser deutsche Rotwein ist vorzüglich.«
 
-Harst trank und stellte sein Glas auf den Tisch zurück,
+Harst trank und stellte sein Glas auf den Tisch zurück.
 »Ich finde, er schmeckt nach Asche, Mr. Ferguson.«
 
-Der Millionär lachte. »Asche?! Sie lagerten.«
+Der Millionär lachte. »Asche?! Sie scherzen.«
 
-»Fein Grund dazu, Mr. Ferguson. Möglich, daß der
-Sieb mit dem Gummuiknättel weilte Geschinackdsnerven etwas
+»Kein Grund dazu, Mr. Ferguson. Möglich, daß der
+Hieb mit dem Gummiknüttel meine Geschmacksnerven etwas
 <@pagebreak/>
-lächelt hat, Verwenden Sie in Chikago mit Vorliebe Gummis
-Kutte?«
+lädiert hat. Verwenden Sie in Chikago mit Vorliebe Gummi-
+Knüttel?«
 
 Ferguson runzelte die hohe Stirn. »Ich verstehe Sie
 nicht ganz, Mr. Harst … Ich bin nie Polizist gewesen.
 Hat man Sie niedergeschlagen?«
 
-»Leider, Man hätte uns lieber gleich ummubringen sollen.
+»Leider. Man hätte uns lieber gleich umbringen sollen.
 Aber das hätte wohl zu viel Staub aufgewirbelt — oder
 Preßkohlenasche.«
 
 Das Schweigen, das diesem erneuten Angriff folgte,
 war recht peinlich. Lücke saß tief zurückgelehnt in einem
-elenden Plüschsessel und beäugte die Mienen der fünf Herr
+elenden Plüschsessel und beäugte die Mienen der fünf Herr-
 schaffen mit gespannter Erwartung. Aber es waren hartgesottene,
-alterprobte Sünder, und sie lächelten nur hör«
-sich, und Miß Mabel flötete süßlich: »Ihr Jod wäre ein
-menschlicher Verlust gewesen, Mr. Harst
+alterprobte Sünder, und sie lächelten nur höf-
+sich, und Miß Mabel flötete süßlich: »Ihr Tod wäre ein
+unersetzlicher Verlust gewesen, Mr. Harst ..."
 
-»Art nein,« sagte Harst und betrachtete seine glimmende
-Zigarette, »Unser Tod wäre außerordentlich vorteilhaft für
+»Ach nein,« sagte Harst und betrachtete seine glimmende
+Zigarette. »Unser Tod wäre außerordentlich vorteilhaft für
 gewisse Leute gewesen, Miß Ferguson. Tote reden nicht mehr.
-Auch Ferdinand Funke nahm seine Geheimnisse ut ins
+Auch Ferdinand Funke nahm seine Geheimnisse mit ins
 Grab.«
 
 Ich war erstaunt: Selbst dieser Hieb ging spurlos an
 den fünfen vorüber.
 
-Allan Ferguson fragte kühl: »Wer ist dieser Mr. Funke«
+Allan Ferguson fragte kühl: »Wer ist dieser Mr. Funke?
 Ein Freund von Ihnen?«
 
-»Gewiß. Er wurde heute abend gegen halb elf Hier ja.
+»Gewiß. Er wurde heute abend gegen halb elf Hier in
 diesem Hause erschossen, Mr. Ferguson.«
 
 Die fünf Chikagoer staunten. Aber sie staunten allzu
-intensiv. Es. ist nie! ganz leicht, gerade eine den Ums
+intensiv. Es ist nicht ganz leicht, gerade eine den Um-
 ständen entsprechende Überraschung zu heucheln.
 
-»Wie — um halb als?!« rief Ferguson. »und — —
-hier?! Unmöglich! Kurz nach halb elf trafen wir hier. ein
+»Wie — um halb elf?!« rief Ferguson. »und — —
+hier?! Unmöglich! Kurz nach halb elf trafen wir hier ein
 und besichtigten das ganze Haus.«
 
-»Auch die Müllgrube, Wer. Ferguson?«
+»Auch die Müllgrube, Mr. Ferguson?«
 
-»Müllgenben sind mir zu uninteressant,« lachte Ferguson
+»Müllgruben sind mir zu uninteressant,« lachte Ferguson
 <@pagebreak/>
 etwas gezwungen, und jetzt verrieten auch die übrigen
 vier ein gewisses Unbehagen,
 
-Brücke hüstelte und Hemmte sein Monokel fester ein,
+Lücke hüstelte und klemmte sein Monokel fester ein,
 »Harst, bitte — — rascheres Tempo! Diese Fühler reichen
 hin.« Er zog eine Pfeife aus der Westentasche, und auf
-den Trillerpfiff hin traten vier stramme frische S-chIatpowachtmeister
-und zwei Kriminalbeamte ein, Bisher ging
-alles nach; Wunsch, Die Neuankömmlinge schienen bei den
-
+den Trillerpfiff hin traten vier stramme frische Schupowachtmeister
+und zwei Kriminalbeamte ein. Bisher ging
+alles nach Wunsch. Die Neuankömmlinge schienen bei den
 Chikagoern recht unangenehme Empfindungen auszulösen.
 Es gab blasse, verzerrte Gesichter, und selbst Fergusons
 Frage, was dieses Polizeiaufgebot bedeute, klang sehr matt,
@@ -2274,22 +2273,22 @@ nur um Ihre Sicherheit, Mr. Ferguson. Sie werden von
 Erpressern verfolgt. Bei einem vielfachen Millionär ist
 manches zu holen. Erwarben Sie Ihr Vermögen im Kriege?«
 
-»Ja. »ck«
+»Ja ...!«
 
-»Im — verzeihen Sie, irren Sie sich nicht? — Aber
+»Hm — verzeihen Sie, irren Sie sich nicht? — Aber
 darüber können wir später reden. Denken Sie, die Mörder
 unseres Freundes Funke waren so leichtsinnig, einen nur
-Bewußtlosen im Müll zu verscharren. — »Funke, bitte!«
+Bewußtlosen im Müll zu verscharren. — Funke, bitte!«
 
 Funke stieg wie ein Gespenst durch das Fenster herein,
 
-Miß Mädel und Dja! Mama kreischten entsetzt auf, und
-die drei männlichen Ei hikagoer schwitzten plötzlich wie im
+Miß Mabel und Frau Mama kreischten entsetzt auf, und
+die drei männlichen Chikagoer schwitzten plötzlich wie im
 Dampfbad.
 
-Ferdinand Funke nein leider Keinerlei Rücksicht auf
-den bisherigen leichten Konversation 88on und brüllte See?
-guten wütend an: »W3 ist Dita, Sie Schurke?«
+Ferdinand Funke nahm leider Keinerlei Rücksicht auf
+den bisherigen leichten Konversationston und brüllte Ferguson
+wütend an: »Wo ist Dita, Sie Schurke?«
 
 Lücke hielt ihn nur gewaltsam zurück. Funke wäre sonst
 zu Tätlichkeiten übergegangen.
@@ -2297,220 +2296,219 @@ zu Tätlichkeiten übergegangen.
 »Das ist ja eine sehr merkwürdige Geschichte,« sagte
 Lücke kopfschüttelnd. »Sie lassen sich von der Polizei bewachen,
 Mr. Ferguson, und in Wirklichkeit kommt’s nun
-umgekehrt. — Schuft, die Handfesseln …«
+umgekehrt. — Schultz, die Handfesseln …!«
 
-Assistent Schutz näherte sich: Ferguson, Es gab noch
+Assistent Schultz näherte sich Ferguson. Es gab noch
 einige Weiterungen, bevor die Herrschaften der freundlichen
 <@pagebreak/>
 Aufforderung, sich die Handgelenke gegen Erpresser gleichfalls
-sichern zu Tassen, nachkamen. Ferguson redete »hierbei
-von Beschwerde an den Botschafter, — aber die Zunge gehört;
-te ihm nicht recht.
+sichern zu lassen, nachkamen. Ferguson redete hierbei
+von Beschwerde an den Botschafter, — aber die Zunge gehorchte
+ihm nicht recht.
 
-»Affe — wo ist Dita Funke?« fragte Witze jetzt in gänzNich
+»Also — wo ist Dita Funke?« fragte Lücke jetzt in gänzlich
 verändertem Tone.
 
 Die fünf hatten lediglich Interesse für den Fußboden,
-sterben vor sich) hin und schwiegen.
+stierten vor sich hin und schwiegen.
 
-»Gehen wir,« meinte Harst, »Dita entschlüpfte bei ihrem
-Besuch bei uns eine Bemerkun4y über eine Geheimtür …
+»Gehen wir,« meinte Harst. »Dita entschlüpfte bei ihrem
+Besuch bei uns eine Bemerkung über eine Geheimtür …
 Dita hat uns damals vieles angedeutet, was sie lediglich
 erfand, um jede Spur hinter sich zu verwischen. Aber die
 Geheimtür wird schon vorhanden sein, hoffe ich. — Haben
 Sie eigentlich den Grafen Dietrich Zernin vergiftet, Ferguson?«
 
-Jetzt verschnappte Mr. Allan sich. »Der ist ja verlor;
-wunden …,!« knurrte er bissig. Zu spät fiel Mr. Burton
-ihm ins ’Wort, »Halt’s Maul, du Idiot!!« — Das
-Berüältnis aufgetan Millionär und Sekretär schien ziemlich
+Jetzt verschnappte Mr. Allan sich. »Der ist ja versch-
+wunden …!« knurrte er bissig. Zu spät fiel Mr. Burton
+ihm ins Wort. »Halt’s Maul, du Idiot!!« — Das
+Verhältnis zwischen Millionär und Sekretär schien ziemlich
 vertraut zu sein,
 
-»Irrtum, Mr… Ferguson,« sagte Harst und öffnete die
-Flurtür. »Graf Dietrich ist durchaus standesgemäß weitläufig
-in einer Wappentruhe und in einer »Rüstung Festgesetzt
-worden, Als wir ihn im Kartoffelsalat fanden, erst
-wo Frau Dita Zernin und lief Ihnen leider in die Arme,
-
+»Irrtum, Mr. Ferguson,« sagte Harst und öffnete die
+Flurtür. »Graf Dietrich ist durchaus standesgemäß vorläufig
+in einer Wappentruhe und in einer Rüstung beigesetzt
+worden. Als wir ihn im Kartoffelkeller fanden, entfloh
+Frau Dita Zernin und lief Ihnen leider in die Arme,
 Mr. Ferguson.«
 
-Ferdinand Funke keuchte verstört; »Was — was reden
+Ferdinand Funke keuchte verstört: »Was — was reden
 Sie da?! Frau Dita Zernin?«
 
 »Gewiß, lieber Funke … Die Ehe ist vor zwei Jahren
 vor dem deutschen Konsul in Oslo geschlossen worden. Die
-Heiratsurkunde fand ich heute in Ditas Zimmer, Dieser Ehe
-wegen sollten ja auch die Zernins beseitigt werden, auch:
-Rentmeister Ehrhardt … — Kommen Sie, Funke
+Heiratsurkunde fand ich heute in Ditas Zimmer. Dieser Ehe
+wegen sollten ja auch die Zernins beseitigt werden, auch
+Rentmeister Ehrhardt … — Kommen Sie, Funke ...
 Gnade Gott diesen Schuften, wenn wir die Gesuchten nicht
 mehr lebend antreffen!«
 
 <@pagebreak/>
 
 <h2>5. Kapitel.</h2>
-<h3>Ferqgqunsons Abstieg.</h3>
+<h3>Ferqunsons Abstieg.</h3>
 
 Lücke, Funke und wir beide standen unten im Keller des
-alten Gebäudes, Diese weiten, tiefen Kellerräume bewiesen
-ebenfalls, daß das Haus einst ein Gutshaus gewesen war
-daß der Erbauer die Keller zur Lagerung von Miserabel
-bestimmt hatte. Sie waren hell und luftig, die Fenster Atem«
-(im groß, der Ziegelboden tadellos traten, die Wände dick
-gefälscht, und auch die Obstgestelle waren zum Teil noch vorhanden.
+alten Gebäudes. Diese weiten, tiefen Kellerräume bewiesen
+ebenfalls, daß das Haus einst ein Gutshaus gewesen war,
+daß der Erbauer die Keller zur Lagerung von Winterobst
+bestimmt hatte. Sie waren hell und luftig, die Fenster ziemlich
+groß, der Ziegelboden tadellos trocken, die Wände dick
+gekalkt, und auch die Obstgestelle waren zum Teil noch vorhanden.
 
 Hier nach einer Geheimtür suchen, die in verborgene
-Gelasse führte, mußte uns stundenlang aufhalten, Lücke kürzte
+Gelasse führte, mußte uns stundenlang aufhalten. Lücke kürzte
 das Verfahren ab. »Ich werde Miß Mabel holen. Das
 Mädel ist jung und wird nicht gern ins Zuchthaus wollen.«
 
-Mädel wollte allerdings nicht ins Zuchthaus. Sie spielte
+Mabel wollte allerdings nicht ins Zuchthaus. Sie spielte
 uns eine große Rührszene im Keller vor und schwor beim
 Andenken ihrer Eltern, daß sie lediglich Burtons Geliebte
 und nicht in alles eingeweiht sei. »ich bin nur eine Nebenfigur,
 meine Herren … Die Hauptperson ist Ferguson,
-Rechtsanwalt Ferguson aus Chikago … Wurden ist sein
-Bütürovorsteher gewesen, und Vollendet einer seiner Schreiber
-… Frau Ferguson heißt in Wahrheit Licht. Burton
-und …
+Rechtsanwalt Ferguson aus Chikago … Burton ist sein
+Bürovorsteher gewesen, und Bellamoor einer seiner Schreiber
+… Frau Ferguson heißt in Wahrheit Liddy Burton
+und …"
 
-… « Und nun zeigen Sie uns die Geheimtfür!« wert
-langte Lücke energisch … Sie sollen nach Möglichst gen
-
+«… und nun zeigen Sie uns die Geheimtür!« ver-
+langte Lücke energisch. "Sie sollen nach Möglichst ge-
 schont werden, Mabel … Leben die Gefangenen noch?«
-»In … hoffe … Hier im dritten Keller ’:ZHis
-ist die Tür … Dort, zwischen diesen Fliesen liegt der
 
+»Ich … hoffe … Hier im dritten Keller rechts
+ist die Tür … Dort, zwischen diesen Fliesen liegt der
 Hebel, Mr. Lücke … Aber seien Sie vorsichtig … Frau
-Funke und Pech Gordon sind unten als Wächter, und
-Gordon ist gefährlich,
+Funke und Percy Gordon sind unten als Wächter, und
+Gordon ist gefährlich,"
 
 <@pagebreak/>
-»Ich auch« nickte Lücke und entsicherte seine Dienstpistole.
+»Ich auch,« nickte Lücke und entsicherte seine Dienstpistole.
 »Es kommt nur darauf an, wer schneller abdrückt.«
 
-Harst flammte seine Messerklinge in die Fuge, und
-ein Viereck der Fliesen leutselig lautlos nach unten.
+Harst klemmte seine Messerklinge in die Fuge, und
+ein Viereck der Fliesen senkte sich lautlos nach unten.
 In der Öffnung lehnte eine Trittleiter, wir stiegen hinab
 und fanden unten eine Holztür, die nur eingeklinkt war.
-In dem zweiten Raume lag lediglich Gerümpel. Male?! deutete
-auf eine große, morsche Kiste, »Dort geht es weiter,«
+In dem zweiten Raume lag lediglich Gerümpel. Mabel deutete
+auf eine große, morsche Kiste. »Dort geht es weiter,«
 flüsterte sie scheu. — Der dritte Raum — vor dem Mauerloch
 hing innen ein alter Teppich — zeigte uns folgendes Bild:
-Kauf drei Matratzen lagen gefesselt und geknebelt Dita,
-Jobst und Ehrhardt, Auf einem Nehmen brannte eine
-Küchenlampe, »bei deren trübem Licht Frau Edith Funke
+Auf drei Matratzen lagen gefesselt und geknebelt Dita,
+Jobst und Ehrhardt. Auf einem Tischchen brannte eine
+Küchenlampe, bei deren trübem Licht Frau Edith Funke
 und Gordon … um Geld würfelten und sich dazu am
-Rotwein labten und Zigaretten rauchten. —»Eis kam hier zu
+Rotwein labten und Zigaretten rauchten. — Es kam hier zu
 keiner aufregenden Szene, nur Ferdinand Funke rief seiner
-Frau ein paar LPiebenSwünrdigkeiten ins blasse Gesicht, die
-nicht wiederzugeben sind. Böses Pistole Besänftigte selbst.
+Frau ein paar Liebenswürdigkeiten ins blasse Gesicht, die
+nicht wiederzugeben sind. Lückes Pistole Besänftigte selbst
 Mr. Gordon. Aber ergreifend waren das Wiedersehen
-zu sehen Vater und Kind und Funkes tiefe Rührung, als
-Graf Jobst ihm Zeit die Hand brüllte und ehrlich zugab,
+zwischen Vater und Kind und Funkes tiefe Rührung, als
+Graf Jobst ihm fest die Hand drückte und ehrlich zugab,
 Dita absichtlich die Verurteilung ihres Vaters verschwiegen
-zu haben, an der sich ja der nichts Wesentliches mehr
+zu haben, an der sich ja doch nichts Wesentliches mehr
 hatte ändern lassen,
 
-Es gab hier riet so manchen unklaren Punkt zu erschossen,
-über all diese Fragen traten vollkommen in den
+Es gab hier noch so manchen unklaren Punkt zu erörtern,
+aber all diese Fragen traten vollkommen in den
 Hintergrund gegenüber der einen Hauptfrage, weshalb der
-Chikagoer Advokat Ferguson und sein Anhang sie mit
+Chikagoer Advokat Ferguson und sein Anhang sich mit
 Frau Edith Funke verbündet und ganz offenbar die Beseitigung
-der Zernins, Ditas und des treuen alten Rand:
-meistens sich zum Endziel seiner ruchlosen Pläne Geschütz
+der Zernins, Ditas und des treuen alten Rentmeisters
+sich zum Endziel seiner ruchlosen Pläne gesetzt
 hatte.
 
 Oben in dem großen Zimmer, wo Ferguson und die
-anderen vier Chikagoer scharf bringst zurückgeblieben waren,
-spielte sich der vorläufige Flutet des Dramas ab. Als
+anderen vier Chikagoer scharf bewacht zurückgeblieben waren,
+spielte sich der vorläufige Schlußakt des Dramas ab. Als
 <@pagebreak/>
 wir dort mit Frau Edith und Percy Gordon erschienen,
-als hinter uns das junge Ehepaar Zernin und die Formlose
-Erde eintraten, als Miß Mädel sich schuldbewußt in
-eine Ecke Brücke, gab Allan Ferguson seine Sache euch
-gültig verloren, Er war ein Verbrecher besonderen Treppe
-Je — das bewies er jetzt durch sein kaltblütiges Geständnis,
+als hinter uns das junge Ehepaar Zernin und die Komtesse
+Edda eintraten, -- als Miß Mabel sich schuldbewußt in
+eine Ecke drückte, gab Allan Ferguson seine Sache end-
+gültig verloren. Er war ein Verbrecher besonderen Formats,
+— das bewies er jetzt durch sein kaltblütiges Geständnis,
 
 Harst fragte ihn lediglich: »Sie waren Fritz Funkes, des
-ehemaligen Stewards, Anwalt, nicht wahr? Fritz Furie
+ehemaligen Stewards, Anwalt, nicht wahr? Fritz Funke
 hatte es zu großem Reichtum gebracht und seinen Bruder
 Ferdinand zum Erben eingesetzt … Als Fritz Funke starb,
-Sausten Sie sich dessen Hinterlassenschaft an. Ihre mit
-eingeweihten beiden Büroangestellten ließen Sie an vom
-Raube teilnehmen …« …
+eigneten Sie sich dessen Hinterlassenschaft an. Ihre mit
+eingeweihten beiden Büroangestellten ließen Sie an dem
+Raube teilnehmen …«
 
 »Sie ersparen mir ein Geständnis,« nickte Ferguson
-seufzend. »Ich war bis dann ein ehrlichen Mensch »sei
-Wesen. Aber diese Erbschaft wirkte allzu verführereijch. im
-wußte, -Saß Fritz Funke für seinen Bruder als tot galt.
-Ja im wurde zum Diebe an der Hinterlassen säuft, und
+seufzend. »Ich war bis dann ein ehrlichen Mensch ge-
+Wesen. Aber diese Erbschaft wirkte allzu verführerisch. Ich
+wußte, daß Fritz Funke für seinen Bruder als tot galt.
+Ja -- ich wurde zum Diebe an der Hinterlassenschaft, und
 dieser erste Schritt vom geraden Wege führte mich in …
-die Hölle, Ich fürchtete tagtäglich eine Entdeckung meines
-Millionenbetruges, im brütete immer neue Pläne As,
-diese Entdeckung für alle Zeit zu hintertreiben, Ich gelöst
-war’s, der zuerst hier nach. Deutschland reiste und Flora
-&diib Funke umgarnte, Ich wollte anfänglich von ihr nur
-erfahren, ob Ferdinand Funke tatsGplily) seinen Bruder für
-tot hielt für verhängten. Diese Frau da« — er wies mit
+die Hölle. Ich fürchtete tagtäglich eine Entdeckung meines
+Millionenbetruges, ich brütete immer neue Pläne aus,
+diese Entdeckung für alle Zeit zu hintertreiben. Ich selbst
+war’s, der zuerst hier nach Deutschland reiste und Frau
+Edith Funke umgarnte. Ich wollte anfänglich von ihr nur
+erfahren, ob Ferdinand Funke tatsächlich seinen Bruder für
+tot hielt -- für verschollen. Diese Frau da« — er wies mit
 heftiger Gebärde auf die gewissenlose Gattin Ferdinands —
-»war gedehnt hellhörig genug, mein Interesse für die Brüder
-Funke richtig zu werten, Ich hakte sie aushorchen wollen,
-und es kam genau umgekehrt. Ich mußte sie!chließlih in
+»war jedoch hellhörig genug, mein Interesse für die Brüder
+Funke richtig zu werten. Ich hatte sie aushorchen wollen,
+und es kam genau umgekehrt. Ich mußte sie schließlich in
 alles einweihen, und sie, deren Hang nach Wohlleben und
-Luxus? anderen ungezügelt war wie ihr Gewissen keinerlei
+Luxus ebenso ungezügelt war wie ihr Gewissen keinerlei
 Hemmungen kannte, hat dann die nötigen Vorbereitungen
 getroffen, den Haupterben und seine Rechtsnachfolger in
 <@pagebreak/>
-unsere Gewalt zu bringen. Aber auch kleiner trieb sie ein
+unsere Gewalt zu bringen. Aber auch hierbei trieb sie ein
 falsches Spiel. Niemals habe ich einen Mord beabsichtigt,
-— Gordon schoß Ferdinand Funke gegen meinen Pavillon
-nieder, — 14 wollte lediglich mit Funke und seinem Kinde
+— Gordon schoß Ferdinand Funke gegen meinen Willen
+nieder, — ich wollte lediglich mit Funke und seinem Kinde
 einen Vergleich schließen und das Erbe unter uns teilen.
 Ich hatte alle Urkunden hierzu vorbereitet. Sie werden sie
 in meiner Tasche finden. Gewiß — dieser Vergleich sollte
 erzwungen werden, doch nicht mit den Mitteln, die Frau
-Edith und Gordon insgeheim anzuwenden’ beabsidpuigten,
-un eine Teilung der vier Millionen Dollar zu verhindern.
-Ich) bin ein Verbrecher, — ein Mörder wäre ich nie ach
-worden. Verflucht sei der Tag, an dem Fritz Wunsch mir
-ein volles Vertrauen schenkte, verflucht sei meine Schwäche,
-ie mich zum Erbschaftz5vctrüger werden ließ! — Ich lüge
-nicht … Ich. habe die Erbschaft bisher nicht awnzegriffen.
-nur die Zinsen verbraucht. Auch das wird sich als Wahr.
-Zeit herausstellen.«
+Edith und Gordon insgeheim anzuwenden beabsichtigten,
+um eine Teilung der vier Millionen Dollar zu verhindern.
+Ich bin ein Verbrecher, — ein Mörder wäre ich nie ge-
+worden. Verflucht sei der Tag, an dem Fritz Funke mir
+sein volles Vertrauen schenkte, verflucht sei meine Schwäche,
+die mich zum Erbschaftsbetrüger werden ließ! — Ich lüge
+nicht … Ich habe die Erbschaft bisher nicht angegriffen,
+nur die Zinsen verbraucht. Auch das wird sich als Wahr-
+heit herausstellen.«
 
-— Frau Endlich saß da und weinte, widersprach mit keiner
-Silbe. Vielleicht kühn ihr erst jetzt die ungeheure Schundlichfeit
+Frau Edith saß da und weinte, widersprach mit keiner
+Silbe. Vielleicht kam ihr erst jetzt die ungeheure Schändlichkeit
 ihres Charakters voll zum Bewußtsein,
 
 Ferdinand Funke nahm sein Kind bei der Hand und
-winkte seinen! Shuwicegersohne und Komtesse -Edda. »sehen
-wir …! In dieser Hast Bestie ich, Herr Harst wird uns
-wohl … für diese eine Nacht aufnehmen.«
+winkte seinem Schwiegersohne und Komtesse Edda. »Gehen
+wir …! In dieser Luft ersticke ich. Herr Harst wird uns
+wohl für diese eine Nacht aufnehmen.«
 
-Er hat seine verderbte Frau nicht wiedergesehen Sie
-starb im Gesängn!slazarett wenige Tage darauf an einem
-Herzleiden, das durch die Anstregungen ihrer Verhaftung sich
-plötzlich verschlimmert hatte, — Daß mein Freund Harst
+Er hat seine verderbte Frau nicht wiedergesehen. Sie
+starb im Gefängnislazarett wenige Tage darauf an einem
+Herzleiden, das durch die Anstrengungen ihrer Verhaftung sich
+plötzlich verschlimmert hatte. — Daß mein Freund Harst
 zwischen Dita und Jobst, als sie unsere Gäste waren, als
-seiner Diplomat vermitteln und Ditas Groll gegen ihren
+feiner Diplomat vermitteln und Ditas Groll gegen ihren
 allzu zärtlichen Gatten, der ihr des Vaters Verurteilung
-verheimlicht Hatte, geretteten mußte, ist im Grunde unwesentlich,
+verheimlicht Hatte, zerstreuen mußte, ist im Grunde unwesentlich.
 Liebe verzeiht vieles, und da der helle Funke
-seinem Schwiegersohn nichts nachtrug, Sowie aus Sich Liebe
-lila »phantasievolle Dita nicht länger zürnen, Funke hat
+seinem Schwiegersohn nichts nachtrug, konnte auch die liebliche
+phantasievolle Dita nicht länger zürnen. Funke hat
 <@pagebreak/>
 Gut Zerninhof nachher zurückgekauft, und im Schlosse Zerninhof
 kräht längst ein ganz junger Zernin die Wände lustig
-an. Frau Dita »leidet den kleinen Jobst jedoch nie in Blau,
+an. Frau Dita kleidet den kleinen Jobst jedoch nie in Blau.
 Sie hat eine Abneigung gegen die blaue Farbe, und auch
 Ferdinand Funke trägt nie blauseidene Krawatten. Man
-kann das verstehen, denke ich Wer einmal einen blauen
+kann das verstehen, denke ich. Wer einmal einen blauen
 Schatten erscheinen ließ oder wer gar vor ihm flüchtete,
 mag daran nicht mehr erinnert werden, besonders wenn
-man allseitig so glücklich ist wie die jetzigen Bewohner von,
-Zerninhof … «+…
+man allseitig so glücklich ist wie die jetzigen Bewohner von
+Zerninhof …
 
-Höchster Band:
-Pension Grabstein,
+
+<#import "*/harst.ftl" as harst>
+<@harst.naechsterband band="Pension Grabstein."/>
 
