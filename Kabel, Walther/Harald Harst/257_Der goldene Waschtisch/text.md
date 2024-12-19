@@ -1,125 +1,51 @@
-<@pagebreak/>
-<@pagebreak/>
--
-
-!
-
-…
-
-» Ww — zu (Dr
-…
-»den
-
-«
-r
-»an Sack 3,4 4) duliliihal … Mr
-— +« € ö
-
-…;
-z008, … bald
-
-7\. bc & — 45 »Y »4 4 … oh dir
-He Sie Es
-
-r
-
-2958217&nbsp;89561; 3921 ZzS8i1i1&nbsp;89593 jievgii’Ge
-
-+ Fx … M.
-1]
-+
-Je — 1;
-p.
-wo.
-p«
-4
-Kammeanemantatadenzaang
-u
-ie,
-F. 4 62. he
-…?
-&
-
-… Tieren Enge ne € 9 Irre zu
-… 7 p:.
-da ck »7
-»Au « y!!
-He. Ü
-He 4«.
-»ck « »TÜ
-e; »7: R; …
-ist Du
-St
-Er
-
-<@pagebreak/>
-Harald Harst
-Aus meinem Leben
-
-Band; 257
-
-Der goldene Waschtisch
-
-Erzählt von
-Max Schraut
-
-Verlag moderner Lektüre G, in. b, H.
-Berlin so 16, Michaelkirchstraße so
-<@pagebreak/>
-Nachdruck verboten, — Alle Rechte, einschließlich das
-Verfilmungsrecht, vorbehalten, — Copyright 1929 by
-Verlag moderner Lektüre G. in. b, H., Berlin So. 16
-
-Druck: P. Lehmann, G. in. b. H. Berlin Co. 168
-
-<@pagebreak/>
+<@pagebreak 3/>
 
 <h2>1. Kapitel.</h2>
 
 <h3>Auf der Herreninsel.</h3>
 
 Als der Fremdenführer, der zum Leidwesen der Hälfte
-der Schaulustigen nur allzu stark bayrischen Dialekt voran,
-im Prunkschlafzimmer König Ludwigs!!. auf den goldenen
+der Schaulustigen nur allzu stark bayrischen Dialekt sprach,
+im Prunkschlafzimmer König Ludwigs II. auf den goldenen
 Waschtisch deutete und wieder hervorhob, daß auch dieser
-genau wie das Prunkbett und ein Teil der Wandarabesxfken
+genau wie das Prunkbett und ein Teil der Wandarabesken
 sehr dick vergoldet sei, — als er auf die Waschgarnitur zeigte
 und mit einer gewissen gewohnheitsmäßigen Feierlichkeit die
-Worte »Meines Gold« über die andächtig gesenkten Köpfe
-der Fremden hjinschmetterte, hörte ein kleiner Mann mit einer
+Worte »Reines Gold« über die andächtig gesenkten Köpfe
+der Fremden hinschmetterte, hörte ein kleiner Mann mit einer
 dicken Knollennase in sauberer Chauffeurtracht neben sich
 einen klingenden Laut und schielte nach links auf die junge
-Tasche Dame, die über dem linken Arm einen leichten Gummimantel
+fesche Dame, die über dem linken Arm einen leichten Gummimantel
 trug und die rechte Hand in die Falten dieses Mantels
 versenkt hatte.
 
 »Sie hat eine Momentkamera darunter verborgen,« dachte
 der behäbige Chauffeur, dem auf der Oberlippe gegen alle
-Mode ein borstiger, rötlicher, langer Schnurrbart forschte.
+Mode ein borstiger, rötlicher, langer Schnurrbart sprießte.
 
 <@pagebreak/>
 Der Führer geleitete seine Herde in den Spiegelsaal
 mit den zahllosen Kronleuchtern und begann auch hier seine
 Erklärungen, umdrängt von den Neugierigen, deren Gesichter
-… gegenüber dieser phantastismchen Pracht den verschiedensten Ausdruck
+gegenüber dieser phantastischen Pracht den verschiedensten Ausdruck
 zeigten. Da gab es einige, die die Blasierten spielten,
 andere, die ironisch grinsten, als ob dieses reichste aller
 Schlösser der Welt ihrer modernen Denkungsart absolut nicht
 imponierte, — andere wieder, die in stiller Ergriffenheit
 des unglücklichen Geisteskranken Königs gedachten, der seinem
-Bayernlande diese unvergänglichen Denkmäler einer Fürst«
-Menschen Seele und dem gesamten deutschen Volke einen
+Bayernlande diese unvergänglichen Denkmäler einer künstlerischen
+Seele und dem gesamten deutschen Volke einen
 Richard Wagner als Musikheros hinterlassen hatte, denn ohne
-Ludwig 11. hätten Wagners Neider und Hasser den Schöpfer
-der urdeutschen Vertrauen niemals die steile, bittere NuhmeseLeiter
+Ludwig II. hätten Wagners Neider und Hasser den Schöpfer
+der urdeutschen Tondramen niemals die steile, bittere Ruhmesleiter
 erklimmen lassen … —
 
 Der Chauffeur studierte diese Gesichter wie aufgeschlagene
 Bücher und lächelte geringschätzig.
 
-Das aschblonde schlanke Mädel mit der blauen. Davoser
-Mütze auf dem Herren Bubikopf schien zu den Blasierten zu
-gehören, Teilnahmlos stand sie da, und selbst die viertausend
+Das aschblonde schlanke Mädel mit der blauen Davoser
+Mütze auf dem kecken Bubikopf schien zu den Blasierten zu
+gehören. Teilnahmlos stand sie da, und selbst die viertausend
 Wachskerzen der Kronleuchter machten keinen Eindruck auf
 sie. Viertausend, die nur zweimal im Sommer für die Fremden
 an bestimmten Tagen angezündet werden, wozu man
@@ -127,217 +53,218 @@ etwa vierzig Leute braucht, sonst wäre die erste Kerze bereits
 niedergebrannt, wenn man die letzte anzündet.
 
 Sie hatte ein rundliches frisches Gesicht, ein zierliches
-Näschen und blanke braune Rehaugen, war tadellos St
-wachsen, von knospenhafter Fülle und einer gewissen Strafssbeit
+Näschen und blanke braune Rehaugen, war tadellos gewachsen,
+von knospenhafter Fülle und einer gewissen Straffheit
 in Gang und Haltung, die auf regelmäßige sportliche
 Betätigung hindeutete. Dicht neben ihr hielt sich jetzt ein älterer
 Herr, unter dessen verblichenen Lodenmantel derbe
-Gebirgsschue und dicke Wadenstrümpfe zum Vorschein Name
+Gebirgsschuhe und dicke Wadenstrümpfe zum Vorschein kamen.
 Sein auffallend länglicher Kopf, umrahmt von einem dünnen
 grauen Vollbart, hatte finstere, aber durchgeistigte Züge,
-träumerische kleine Augen hinter einer altmodischen Goldleiste
+träumerische kleine Augen hinter einer altmodischen Goldbrille
 <@pagebreak/>
 und eine hohe Stirn, in die ein paar braune Strähnen
-der wnordentlichen Künstlermähne hinabfielen.
+der unordentlichen Künstlermähne hinabfielen.
 
 »Du hättest den Unsinn sein lassen sollen!« flüsterte er
 dem Mädchen gereizt zu.
 
-Der die Chauffeur hatte tadellose Ohren,
+Der dicke Chauffeur hatte tadellose Ohren,
 
 Das Mädchen blickte den Alten erstaunt an. »Nun, das
 war doch kein Verbrechen,« flüsterte sie zurück. »Manchmal
-bist du wirklich komisch, Vater …
+bist du wirklich komisch, Vater …!«
 
 Er wich ihren klaren Augen aus, rückte nervös seine
-Brille zurecht und zeigte so eine schmale, fast weiblicschlaufe
+Brille zurecht und zeigte *so* eine schmale, fast weiblich-schlanke
 Hand mit sauber gepflegten Nägeln.
 
-»Schweig’ bitte, Gisela … Ich wünsche hier Nicht aufs
-Auffallen,« erklärte er etwas freundlicher.
+»Schweig’ bitte, Gisela … Ich wünsche hier Nicht aufzufallen,«
+erklärte er etwas freundlicher.
 
-Der Chauffeur erinnerte sich jetzt plötzlich dunkel, dieser
+Der Chauffeur erinnerte sich jetzt plötzlich dunkel, dieses
 Paar bereits gestern irgendwo gesehen zu haben. Wo nur.
-War’s in Würdigen gewesen oder in der Eisenbahn währen.
-der Fahrt nach dem alten, so wundervoll gelegenen Städter:
-Rosenheim? — Nun, das war ja im Grunde auch gleicdzgültig,
-obwohl ihm selbst hier in diesem glanzvollen Druck«
-Saal so manches durch den Kopf ging, was er nicht recht begriffen
+War’s in München gewesen oder in der Eisenbahn während
+der Fahrt nach dem alten, so wundervoll gelegenen Städtchen
+Rosenheim? — Nun, das war ja im Grunde auch gleichgültig,
+obwohl ihm selbst hier in diesem glanzvollen Prunksaal
+so manches durch den Kopf ging, was er nicht recht begriffen
 hatte. Er hatte sich eben diese Urlaubsreise ein wenig
-anders vorgestellt. Aber sein Brotherr war schließlich Fein
-Durchschnittsmensch und folgte sehr oft der Eingebung da
-Augenblicks, — …
+anders vorgestellt. Aber sein Brotherr war schließlich kein
+Durchschnittsmensch und folgte sehr oft der Eingebung des
+Augenblicks, —
 
 Die Besichtigung war vorüber. Der Führer nahm einen
 neuen Schub Fremder in die sorgsam bewachten Prachträume
-hinein, in denen Millionenwerte angehäuft waren. —
+hinein, in denen Millionenwerte angehäuft waren.
 
-Direktor Zuge Harnisch trat mit seinem Chauffeur Melchior
+Direktor Hugo Harnisch trat mit seinem Chauffeur Melchior
 Schimmel auf die Schloßterrasse hinaus und schaute
 über die leider so verwahrlosten Anlagen und die zahlreichen
 Bronzestatuen hinweg auf die im Sonnenlicht funkelnde
-Fläche des Chiemsees. Der Durchblick durch die hohen Park«-
-Baume war nur schmal, Drüben am Ufer leuchteten im Baums«
-grün rote Ziegelduäcdyer und weiße Häuserfronten. Ein Dampfer
+Fläche des Chiemsees. Der Durchblick durch die hohen Parkbäume
+war nur schmal. Drüben am Ufer leuchteten im Baumgrün
+rote Ziegeldächer und weiße Häuserfronten. Ein Dampfer
 verließ gerade die Anlegestelle neben dem Hotel Westernacher
 <@pagebreak/>
 und steuerte dicht gefüllt der Herreninsel zu. Weiße Segeljachten
 und Ruderboote belebten die Wasserfläche, und links
-an der Ferne erhoben sich, in zart bläulichen Dunst gehüllt,
+in der Ferne erhoben sich, in zart bläulichen Dunst gehüllt,
 die bis zur halben Höhe bewaldeten Vorberge und wurden
 weiterhin überragt von kahlen felsigen Gipfeln, über die das
 dünne Gewölk dieses heißen Junitages dahinstrich und neidisch
 den Fernblick trübte.
 
-Direktor Harnisch) mit seinem blonden Spitzbart und gebräunten
-hageren Gesüßt war tief in Gedanken befindet …
+Direktor Harnisch mit seinem blonden Spitzbart und gebräunten
+hageren Gesicht war tief in Gedanken versunken.
 Zerstreut nahm er aus dem goldenen Etui, in dessen Hinterdeckel
 seltsamerweise ein abgeplattetes Bleigeschoß steckte, eine
-Zigarette mit KorkmundstüFck und drehte sich dann langem
+Zigarette mit Korkmundstück und drehte sich dann langsam
 um. Seine grauen Augen ruhten auf einem der Eingänge der
-Vorhalle, Dort lehnte an dem Allerlei ein älterer Mann in
-was echter, heimlich erscheinender Gebirglertracht, den vertrockneten
-Filz mit dem Gemsbart weit ins Genick geschoben,
+Vorhalle. Dort lehnte an dem Pfeiler ein älterer Mann in
+waschechter, schäbig erscheinender Gebirglertracht, den verregneten
+Filz mit dem Gamsbart weit ins Genick geschoben.
 Er rauchte eine kurze Pfeife und betrachtete andächtig den
 spitzen Kopf eines zottigen Hundes, der keiner bestimmten
-Rasse angehörte. Es war ein ganz gewöhnlicher Sorgloser.
+Rasse angehörte. Es war ein ganz gewöhnlicher Dorfköter.
 Pudelblut, Schäferhundblut, Boxerblut verliehen ihm ein
 recht komisches Aussehen,
 
 Direktor Harnisch, der noch gestern früh alles andere als
-Direktor gewesen, wandte sich seinem Chlyaufseur zu und sagte
-mit eigenartig gedämpfter Stimme, die im längst zur zweiten
+Direktor gewesen, wandte sich seinem Chauffeur zu und sagte
+mit eigenartig gedämpfter Stimme, die ihm längst zur zweiten
 Natur geworden: »Schimmel, es ist bestimmt Alarich Sepp,
 wenn er sich auch den grauen Schnauzbart angeklebt und die
 Augenbrauen beschnitten hat. Blicken Sie nicht hin, Schimmel.
 Sepp entgeht nichts. Sie wissen, daß er vom Chef
-stets nur in besonderer Mission verwandt wird, Der großen
-Menge ist er völlig unbekannt, und sogar im Präsidium Haus
-nen ihn nur die Auserwählten. Die Berliner Kriminalpolizei,
-braucht solch)e Kommissare, die sich immer im Dunkeln halten,
+stets nur in besonderer Mission verwandt wird. Der großen
+Menge ist er völlig unbekannt, und sogar im Präsidium kennen
+ihn nur die Auserwählten. Die Berliner Kriminalpolizei,
+braucht solche Kommissare, die sich immer im Dunkeln halten.
 Gerade ihre Tarnkappe ist ihre Stärke. Ich möchte wissen,
 was Sepp hier tut.«
 
-Dienst,« erwiderte Melchior Schimmel lakonisch;); und biß
+»Dienst,« erwiderte Melchior Schimmel lakonisch und biß
 <@pagebreak/>
 einer grünbraunen Brasil die Spitze ab. »Vielleicht Dienst,«
-juzwäcgte er seine »Behauptung ab. « Ich habe Sepp übrigens
-wo nie gesehen.«
+schwächte er seine Behauptung ab. »Ich habe Sepp übrigens
+noch nie gesehen.«
 
 »Ich nur dreimal, aber auf mein Personengedächtnis
-ist Verlaß,« meinte Harnisch sinnend. »Im — Dienst …?!
-Über Geier in Bayern?! Es sei denn, daß er hinter dem
-flüchtigen Rechtsanwalt Bikanir drein ist, der in Berlin so
-erheblich) viel unterschlagen hat. Man spricht von einer Million.
+ist Verlaß,« meinte Harnisch sinnend. »Hm — Dienst …?!
+Aber hier in Bayern?! Es sei denn, daß er hinter dem
+flüchtigen Rechtsanwalt Bisonty drein ist, der in Berlin so
+erheblich viel unterschlagen hat. Man spricht von einer Million.
 — Geben Sie mir Feuer, Schimmel.«
 
-Er blies den Zigarettenrauch geschweige von sie und
+Er blies den Zigarettenrauch stoßweise von sich und
 drehte sich wieder nach dem Portal um.
 
 Alarich Sepp hatte soeben Fräulein Gisela Arndt und
-ihren Vater begrüßt. Alle drei wohnten drüben in Westernacyers
+ihren Vater begrüßt. Alle drei wohnten drüben in Westernachers
 Hotel am See, wo auch Direktor Harnisch heute
 mittag abgestiegen war.
 
 Da jetzt ein Schwarm Touristen vorüberzog, machte
-auch der Erde Metertief Schimmel kehrt und fand sehr
+auch der dicke Melchior Schimmel kehrt und fand sehr
 rasch Kommissar Sepp aus der hin und her flutenden Menge
 heraus.
 
-»As ist ja die aschblonde Knipserin,« sagte er lächelnd,
-»am Prunkschlafzimmer ließ sie den Momentverschluß ihres
+»Das ist ja die aschblonde Knipserin,« sagte er lächelnd.
+»Im Prunkschlafzimmer ließ sie den Momentverschluß ihres
 unter dem Mantel verborgenen Kodaks spielen.«
 
 Direktor Harnischs scharfer Blick streifte seines Chauffeurs
-schweißiges Gesicht. »Ich jede keine Momentkamera … Da
+schweißiges Gesicht. »Ich sehe keine Momentkamera … Da
 — sie zieht den Mantel an, und Doktor Arndt hilft ihr.«
 
 »Wer — Doktor Arndt?!« fragte Schimmel sichtlich überrascht.
-»Kennen Sie den Alten den, Herr Direktor?«
+»Kennen Sie den Alten denn, Herr Direktor?«
 
 »Gewiß. Es wäre besser, lieber Schimmel, wenn Sie
 sie nicht lediglich für die Reichhaltigkeit von Speisenkarten
-interessieren würden. Doktor Arndt ist der. berühmte Chemiker,
+interessieren würden. Doktor Arndt ist der berühmte Chemiker,
 der als moderner Goldmacher monatelang alle Welt
 in Atem hielt, bis sich herausstellte, daß seine Methode,
-Quecksilber in Gold zu verwandeln, ein ziemlich) teures Berg
-Galgen ist. Er soll bei den weiteren Experimenten, sein Verfahren
+Quecksilber in Gold zu verwandeln, ein ziemlich teures Vergnügen
+ist. Er soll bei den weiteren Experimenten, sein Verfahren
 zu verbilligen, sein Vermögen verpulvert und nebenbei
 <@pagebreak/>
 auch sein Hirn etwas überanstrengt haben. Seit zwei
 Jahren schweigt alles von ihm. Er war eine Eintagsfliege
-wie so viele Erfinder, Wenn er eine neue Suppenwürze erfunden
+wie so viele Erfinder. Wenn er eine neue Suppenwürze erfunden
 hätte, wäre er vielleicht Millionär geworden, —
-vergleiche Macht.«
+vergleiche Maggi.«
 
-« Schimmel sog an seiner Giftnudel und meinte achselzuckend:
+Schimmel sog an seiner Giftnudel und meinte achselzuckend:
 »Soll ich alle Eintagsfliegen kennen?! Die Speisenkarte
-bei Westernacher ist gut, und heute mittag der Blatt
-13:9 — — eins all«
+bei Westernacher ist gut, und heute mittag der Bratfisch
+— — eins a!!«
 
-»Verfressene Seele! — — Sie hat seine Kamera, die
-Steine, und zu einer Momentaufnahme war auch das Licht
-im Prunksilafzimmer viel zu schwach. Wie kamen Sie auf
-einen Kabel, Schimmel?«
+»Verfressene Seele! — — Sie hat keine Kamera, die
+Kleine, und zu einer Momentaufnahme war auch das Licht
+im Prunkschlafzimmer viel zu schwach. Wie kamen Sie auf
+einen Kodak, Schimmel?«
 
-Wer die Chauffeur beobachtete, wie noch vier andere
-Hörten sie jeht Doktor Arndt, Gisela und Sepp anschlossen.
-Bis Heine Gesellschaft schlug langsam den Weg nach dem
+Der dicke Chauffeur beobachtete, wie noch vier andere
+Herren sich jetzt Doktor Arndt, Gisela und Sepp anschlossen.
+Die kleine Gesellschaft schlug langsam den Weg nach dem
 Schloßhotel der Herreninsel ein, das neben dem alten Schlosse
-Legt.
+liegt.
 
-Not Nickte so … « erwiderte Schimmel, »Es blickte so
-wie ein ’Montentverschfuß, Herr Direktor, ur« nachher im
-Opiegelset fauchte der Alte seine Gisela ziemlich grob an,
-… sie Bärte den Unsinn sein lassen sollen, er wolle hier nicht
-ja hielten.«
+»Es klickte so …« erwiderte Schimmel. »Es klickte so
+wie ein Momentverschluß, Herr Direktor, und nachher im
+Spiegelsaal fauchte der Alte seine Gisela ziemlich grob an,
+— sie hätte den Unsinn sein lassen sollen, er wolle hier nicht
+auffallen.«
 
-Harnischs Kopf fuhr herum. »Was sagte er? Nicht aufkam
-€]
+Harnischs Kopf fuhr herum. »Was sagte er? Nicht auffallen?!«
 
 »Ja — wörtlich … Ich habe Ohren wie ein Luchs …«
+
 »Und einen Magen wie ein Elefant, — Elefanten sind
 übrigens sehr kluge Tiere, mein lieber Schimmel.« Er nickte
 seinem Chauffeur freundlich zu und schritt der Gesellschaft
 Doktor Arndts nach. Schimmel blieb links neben ihm. »Sie
 haben da bei Westernacher einen Stammtisch der Märker,«
-fügte er ohne Übergang hinzu, »Arndt scheint der Vorstand
+fügte er ohne Übergang hinzu. »Arndt scheint der Vorstand
 zu sein. Es sind im ganzen sieben Märker.«
 
-» »Ja — dort vor uns sind sie … Ich sah) die Papptafel
-»auf dem runden Tisch in der Er des großen Saales: »Des
+»Ja — dort vor uns sind sie … Ich sah die Papptafel
+auf dem runden Tisch in der Ecke des großen Saales: »Belegt,
 <@pagebreak/>
-legt, Stammtisch der Märker«, — Trafen wir übrigens
+Stammtisch der Märker«. — Trafen wir übrigens
 Doktor Arndt gestern nicht in Rosenheim auf dem Bahnhof?«
 
-Direktor Harnisch lächelte etwas, »Allerdings, Aber nicht
+Direktor Harnisch lächelte etwas. »Allerdings. Aber nicht
 Doktor Arndt gab den Ausschlag.«
 
-Der Promenadenweg zum Schloßhotel war gerade leer,
-Harnisch Tyrann etwas lauter, nachdem er sich vorsichtig umgesehen
-hatte, »Ich will dir eins erklären, mein Alter … In
+Der Promenadenweg zum Schloßhotel war gerade leer.
+Harnisch sprach etwas lauter, nachdem er sich vorsichtig umgesehen
+hatte. »Ich will dir eins erklären, mein Alter … In
 Rosenheim erkannte ich zwei Leute auf dem Bahnhof, die ich
 noch in Sonnenburg vermutete, wo sie einige Jahre wegen
 unbefugten wiederholten Öffnens von Geldschränken abzusitzen
 hatten. Da diese beiden Knacker tadellos in Kluft und
 auch sehr gut maskiert waren, regte sich der alte Adam in
-mir. Deshyzalb mietete ich das Auto, steckte dich in Chauffeurtracht
+mir. Deshalb mietete ich das Auto, steckte dich in Chauffeurtracht
 und nahm mir vor, die beiden Gentlemen etwas im
 Auge zu behalten.«
 
 »Leider, murmelte Schimmel mißmutig. »Es sollte diesmal
 eine richtige Ferientour werden … Es sollte … Nun
-stocken wir bereits wieder mitten drin in der Arbeit. Du spielst
-Direktor, im Chauffeur, und das Dritten wir in Berlin billiger
+stecken wir bereits wieder mitten drin in der Arbeit. Du spielst
+Direktor, ich Chauffeur, und das hätten wir in Berlin billiger
 haben können … — Wo sind deine beiden Ganoven
-nun«
-arm Hotel Westernacher wohnen sie, und zur Zeit
+nun?«
+
+»Im Hotel Westernacher wohnen sie, und zur Zeit
 gehen sie dort vor uns mit Arndt und Sepp zum Schloßhotel.
-Außerdem sind sie heute in allen Ehren in die Stamm
-Tischrande der Märker aufgenommen worden.«
+Außerdem sind sie heute in allen Ehren in die Stammtischrunde
+der Märker aufgenommen worden.«
 
 Schimmel blieb stehen. »Donnerwetter!! Ob Sepp ahnt,
-was für Vöglein die beiden sind?1’
+was für Vöglein die beiden sind?!«
 
 »Wahrscheinlich nicht, denn Alarich Sepp befaßt sich kaum
 mit Geldschrankknackern, er dürfte sie kaum kennen, er ist nur
@@ -348,166 +275,164 @@ für exquisite Fälle in Reserve.«
 <h2>2. Kapitel.</h2>
 <h3>Der Fingerhut.</h3>
 
-Der ’Stammlisch saß dicht an der Brüstung des Schloß
+Der Stammtisch saß dicht an der Brüstung des Schloßhotelgartens
+und schwelgte in Kaffee und Kuchen und war
+sehr munter.
 
-Gas gedient und jschwelgte in Kaffee und Kuchen und war
-»Ohr munter.
-
-Whisky hatte den Herrn in waschechter Gebirglertracht
+Gisela hatte den Herrn in waschechter Gebirglertracht
 neben sich und redete ihn mit »Herr Professor« an. — Professor
-Oberst Ahn stopfte seine alte Tabakpfeife und sagte mit
-Je Augen vblinzeln? zu Gisela:
+Oberspahn stopfte seine alte Tabakpfeife und sagte mit
+den Augen blinzelnd zu Gisela:
 
 »Er bringt bestimmt Glück, Fräulein Arndt … Ihr
-jeder Hatten will zwar von derartigem Aberglauben nicht
-ich missen, aber … schaden kann es nichts …«
+lieber Vater will zwar von derartigem Aberglauben nicht
+viel wissen, aber … schaden kann es nichts …«
 
-sicher ihm auf der Bank hockte sein Musterexemplar von
-Sind und schaute Zuckerstückchen,
+Neben ihm auf der Bank hockte sein Musterexemplar von
+Hund und kaute Zuckerstückchen,
 
-gar« Schien Sie, Fräulein Arndt, »meine Rita nehme
-4H stets mit ins Gebirges, obwohl sie …
+»… Sehen Sie, Fräulein Arndt, meine Rita nehme
+ich stets mit ins Gebirges, obwohl sie …«
 
-»Ich, es ist eine Hündin?« rief Lies enttäuscht.
+»Ach, es ist eine Hündin?« rief Gisela enttäuscht.
 
 »Natürlich … Sie bringt mir Glück. Sie kostet mir
-2wo? ein Hundehütten, und ich als ehemaliger Sumatras«
-Angreifer muß sehr sparen. Sie ist mein Talisman, die Rita,«
+zwar ein Hundebillett, und ich als ehemaliger Gymnasialprofessor
+muß sehr sparen. Sie ist mein Talisman, die Rita,«
 
-Schein lachte. »Nur nicht um den Hals zu hängen …«
+Gisela lachte. »Nur nicht um den Hals zu hängen …«
 
-»Eltern,« sagte Professor Oskar Oberspahn ganz ernst und
-Fahrkarte heimlich Doktor Arndt zu … nein, aber in den
-Rucksack zu stehen … Mittelgröße bei Hunden ist am
-Dr?der, genau wie beim Menschen. Große oder Leine Menschen
-Haben durch ihre Leibez3länje stets ein ziemlich untrügliches,
-
-HKewrnzeithen an sich. Mittelmaß fällt nie auf.« Er schaute
+»Nein,« sagte Professor Oskar Oberspahn ganz ernst und
+zwinkerte heimlich Doktor Arndt zu, »… nein, aber in den
+Rucksack zu stecken … Mittelgröße bei Hunden ist am
+besten, genau wie beim Menschen. Große oder kleine Menschen
+Haben durch ihre Leibeslänge stets ein ziemlich untrügliches,
+Kennzeichen an sich. Mittelmaß fällt nie auf.« Er schaute
 träumerisch über den See zur Fraueninsel hinüber. Die
 Schornsteine des Klosters dort qualmten. »Sie brauen
-Ach ganz,« meinte er … »Der Klosterschnaps der frommen
-Genauestem ist berühmt, Trinken wir einen Schnaps …«
+Schnaps,« meinte er … »Der Klosterschnaps der frommen
+Schwestern ist berühmt. Trinken wir einen Schnaps …«
 
 <@pagebreak/>
 Gisela war starr. »Wer braut Schnaps, Herr Professor?!«
 
-Oberspahn streichelte seine Hündin und erwiderte breiter:
-»Metall sollen fromme Kloisterschwestern seinen Schnaps
-brauen?! -« Es ist Tatsache: Der Herrenhiemijeer Klosterschnaps
-ist gut, oder — — besser der Frauendziemseer, man
-darf das Wicht durcheinander werfen.« —
+Oberspahn streichelte seine Hündin und erwiderte heiter:
+»Weshalb sollen fromme Klosterschwestern keinen Schnaps
+brauen?! — Es ist Tatsache: Der Herrenchiemseer Klosterschnaps
+ist gut, oder — — besser der Frauenchiemseer, man
+darf das nicht durcheinander werfen.« —
 
 Zwei Tische weiter hatten Harnisch und sein Schimmel
 Platz genommen. Gerade als der Direktor leise erklärte:
 »Sepp nennt sich hier Oberspahn, Professor im Ruhestande
-Opfer Oberspahn,« trat ein der Herr in hielten Flanella na; ög
+Oskar Oberspahn,« trat ein der Herr in hellem Flanellanzug
 an den Tisch und fragte in gebrochenem Deutsch, ob die
 Herren gestatteten …
 
-»Ritt,« — und Harnisch rückte mehr an die Brüstung das
+»Bitte,« — und Harnisch rückte mehr an die Brüstung und
 fixierte den Fremden flüchtig.
 
 Der Herr hatte ein rotes Pausbackengesicht und einen
-rötlichen kurzen Vollbart, Das Haar war ausgesprochen
+rötlichen kurzen Vollbart. Das Haar war ausgesprochen
 rot, gescheitelt und sehr dicht. Das Gesicht wirkte unweigerlich
 komisch, da der Mann keine Augenbrauen hatte und
-das Fehlende durch einen Augenbrauenstift ersetzt war, Fuße?a
-dem trug der Herr seinen Hornkneifer ganz unten auf der
-Nase und platzte über den Rand der Gläser hinwegzublicken,
+das Fehlende durch einen Augenbrauenstift ersetzt war. Außerdem
+trug der Herr seinen Hornkneifer ganz unten auf der
+Nase und pflegte über den Rand der Gläser hinwegzublicken,
 wenn er mit jemandem sprach.
 
-Fauchend und pustend ließ er sich auf die Holzbank fallen
+Keuchend und pustend ließ er sich auf die Holzbank fallen
 und legte dann den Kopf tief ins Genick und spähte nach
 einer Kellnerin umher,
 
-»Freilain — — Frei … sein!!« Seine Stimme klang
-kurzatmig und piepsend, Er bestellte Kaffee und ein »leichtes
-Derart« …; und sagte dann zu Harst mit gemütlichem
-Grinsen: »Sie nennen auch in die Geehrter 2«
+»Freilain — — Frei…lein!!« Seine Stimme klang
+kurzatmig und piepsend. Er bestellte Kaffee und ein »belecktes
+Brrott« … und sagte dann zu Harst mit gemütlichem
+Grinsen: »Sie wonnen auch in die See-Hotel?«
 
-»a Mr. Tomy,« bestätigte Harnisch in englischer
+»Ja, Mr. Tomy,« bestätigte Harnisch in englischer
 Sprache.
 
-»Ich, wunderbar, — Sie sprechen englisch …! Woher
+»Oh, wunderbar, — Sie sprechen englisch …! Woher
 wissen Sie meinen Namen, Sir?«
 
 »Der Portier redete sie so an, Mr. Tomy. — Ich bin
 <@pagebreak/>
 Direktor Harnisch aus Berlin, — das da mein Chauffeur
-und Diener Melchior Schimmel …
+und Diener Melchior Schimmel …«
 
-Schimmel erhob sich und verbeugte sich vor dem Ergründen.
+Schimmel erhob sich und verbeugte sich vor dem Engländer.
 
 Mr. Georg Tomy entpuppte sich als ein äußerst redseliger
 Mann, der kein Hehl daraus machte, daß er durch den
-Krieg reich geworden. »Ich liebe Deutschland, Mr. Kannte«…).
+Krieg reich geworden. »Ich liebe Deutschland, Mr. Harnisch.
 Ich komme jedes Jahr jetzt hier nach Bayern, ich kenne jeden
-Berg, jedes Dorf … — Sind Sie auch Geschäftsmann
+Berg, jedes Dorf … — Sind Sie auch Geschäftsmann?
 Ich handele mit Häuten im großen.«
 
-»Ich beinahe auch,« erklärte Direktor Harnisch, »Aber
-nein Spezialfach sind Menschenhäute.«
+»Ich beinahe auch,« erklärte Direktor Harnisch. »Aber
+mein Spezialfach sind Menschenhäute.«
 
 Tomy schielte ihn über den Kneifer mißtrauisch an.
 
-». « « Menschenhäute, — aber unabgezogene,« fügte Harnisch
+»… Menschenhäute, — aber unabgezogene,« fügte Harnisch
 todernst hinzu.
 
-»Wie soll rum das verstehen?« Tomy schlackerte mit dein’
-op
+»Wie soll ich das verstehen?« Tomy schlackerte mit dem
+Kopf.
 
-»Ich habe in Berlin ein Stellenvermittlungsbüro,« -r-
-klärte Harnisch lieben3zwürdlg. »Zumeist vermittle ich einer
-ganz bestimmten Sorte von Leuten Stellen in Frauenhut
+»Ich habe in Berlin ein Stellenvermittlungsbüro,« erklärte
+Harnisch liebenswürdig. »Zumeist vermittle ich einer
+ganz bestimmten Sorte von Leuten Stellen in Sonnenburg
 oder ähnlichen einsamen, stillen Orten, wo die Leute unter
-Deutlicher Aussicht sich nützlich machen.« —.
+staatlicher Aufsicht sich nützlich machen.«
 
 Georg Tomy fragte geringschätzig: »Bringt denn das
 etwas ein?«
 
 »Es macht sich … Mein Kundenkreis ist groß.«
 
-Der feiste Engländer rührte in seiner Tasse, »Haben Sie:
-hier eine Filiale, Mr, Harnisch?«
+Der feiste Engländer rührte in seiner Tasse. »Haben Sie
+hier eine Filiale, Mr. Harnisch?«
 
-»»Noch nicht …
+»Noch nicht …«
 
-Tomy starrte in sein Milchtöpfchen. Um seine Lippe »n
-zarte es unmerklich).
+Tomy starrte in sein Milchtöpfchen. Um seine Lippen
+zuckte es unmerklich.
 
-»Sie waren vorhin das auch im Schloß?« fragte er
-gleichgültig. »Das Prunkschlafzimmer ist einfach munter«
-dar …« Er ab den Kopf und schaute Schimmel an, her
+»Sie waren vorhin doch auch im Schloß?« fragte er
+gleichgültig. »Das Prunkschlafzimmer ist einfach wunderbar
+…« Er hob den Kopf und schaute Schimmel an, der
 bisher drei Stücke Torte vertilgt hatte. »Mr. Schimmel, die
 Miß ist wunderbar hübsch, finden Sie nicht auch?«
 
 <@pagebreak/>
-Er grinste Geriebenheit. »Sie schienen Interesse für die
-Mit; zu haben. Dort vor uns ist sie … Ich liebe die deutschen
+Er grinste genießerhaft. »Sie schienen Interesse für die
+Miß zu haben. Dort vor uns ist sie … Ich liebe die deutschen
 jungen Damen.«
 
-Schimmel erwiderte bescheiden, Miß Gisela sei in der Ja!
-sehr nett, aber ihn hätte lediglich?) ein kleiner Irrtum die Miß
-genauer mustern lassen … »Ich glaubte, sie photographäerte
+Schimmel erwiderte bescheiden, Miß Gisela sei in der Tat
+sehr nett, aber ihn hätte lediglich ein kleiner Irrtum die Miß
+genauer mustern lassen … »Ich glaubte, sie photographierte
 heimlich den goldenen Waschtisch, Mr. Tomy …«
 
 Tomy schob seinen Hornkneifer höher. »Sie warf etwas
-unter das Prunkbett/ sagte er belustigt … »Wozu wohl?!
+unter das Prunkbett,« sagte er belustigt … »Wozu wohl?!
 Und was?! Es kann nur ein kleiner winziger Gegenstand
 gewesen sein, der beim Aufschlagen auf das Parkett einen
 merkwürdigen Ton hervorrief.« Er trank einen Schluck und
-strahlte. »Wunderbarer Kaffee …!!« …
+strahlte. »Wunderbarer Kaffee …!!«
 
-Harnisch zog sein Zigarettenetui hervor. »Sie erfundene:
-doch, Mr. Tomy … ««
+Harnisch zog sein Zigarettenetui hervor. »Sie erlauben
+doch, Mr. Tomy …«
 
-»Aber bitte …« Tomy beugte sich vor. »Am — weit
+»Aber bitte …« Tomy beugte sich vor. »Hm — was
 steckt denn da in der Rückseite des Etuis?«
 
 »Eine Pistolenkugel, ein kleines Andenken an einen
-meiner Kunden, Mr. Tomy, Der Mann hantierte etwas uns
-vorsichtig mit der Waffe, und nur das Etui bewahrte mich
-vor einem Loch in der Haut. Häute sind ja Ihr Strudel,
+meiner Kunden, Mr. Tomy. Der Mann hantierte etwas unvorsichtig
+mit der Waffe, und nur das Etui bewahrte mich
+vor einem Loch in der Haut. Häute sind ja Ihr Artikel,
 und Sie wissen: eine durchlöcherte Haut ist wertlos.«
 
 Der Engländer erstickte beinahe vor Lachen. »Sie sind
@@ -515,45 +440,46 @@ ein wunderbarer Mann, Mr. Harnisch. Sie haben Humor.
 Wir Engländer haben nur Kolonien und einen Spleen.
 Mein Spleen sind Detektivgeschichten.« Er faßte schnell in
 seine große abstehende Brusttasche und holte einen Band
-Edgar Wallace hervor, »Es ist meines Landsmannes Wallace
+Edgar Wallace hervor. »Es ist meines Landsmannes Wallace
 Grüner Bogenschütze, Mr. Harnisch. Wunderbarer Kriminalroman
 — wunderbar!! Kennen Sie ihn?«
 
 »Wen, den Roman oder Wallace? — Ersteren ja.«
 
-»Nichts wahr, die Burg ist doch; fabelhaft geschildert,
-Mr. Harnisch. Und zuletzt, wenn Artillerie ausfährt, dann …«
+»Nicht wahr, die Burg ist doch fabelhaft geschildert,
+Mr. Harnisch. Und zuletzt, wenn Artillerie auffährt, dann …«
 — er schielte Harnisch wieder mißtrauisch an. »Sie lachen
 ja?!« — er war recht verwirrt.
 
 <@pagebreak/>
-… »Mr. Tomy,« meinte Harnisch freundlich, »ich habe eben
-Sinn für Humor, und in diesem Falle ist Artillerie heult
+»Mr. Tomy,« meinte Harnisch freundlich, »ich habe eben
+Sinn für Humor, und in diesem Falle ist Artillerie doch
 etwas zu starker Tobak.«
 
-Der Engländer Dachluke angestrengt nach. »Ha, eigentlich
-haben Sie leicht … Ich stelle mir soeben vor, man würde
+Der Engländer dachte angestrengt nach. »Ja, eigentlich
+haben Sie recht … Ich stelle mir soeben vor, man würde
 hier Schloß Herrenchiemsee unter Feuer nehmen, weil sich
 dort Verbrecher fortgesetzt haben. Halten Sie es für möglich,
-dort nachts einzudringen?’
+dort nachts einzudringen?«
 
 Sein Blick hatte plötzlich etwas Lauerndes bekommen.
-Er senkte gern rasch den Kopf und fügte hinzu: »Natäurlich
+Er senkte gern rasch den Kopf und fügte hinzu: »Natürlich
 ist das ausgeschlossen … Die Bewachung soll sehr scharf
 sein.«
+
 Harnisch schaute seinen Schimmel vielsagend an und entgegnete
 gleichgültig: »Es wird wohl ausgeschlossen sein …«
 
-Tomy rückte die Kuchenplatte Alter und wählte mit Bedacht
+Tomy rückte die Kuchenplatte näher und wählte mit Bedacht
 aus. »Die Wächter haben wohl Hunde, Mr. Harnisch?«
 
-»Und Pistolen,-. Mr. Tomy.«
+»Und Pistolen, Mr. Tomy.«
 
 Tomy aß langsam und sagte nichts mehr. Die Antwort
-des Direktor Harnisch schien ihm mißfallen zu haben. Vorher
-drehte sich die Unterhaltung um harmlosere Dinge, Als
-Harnisch und sein Säcjzimmel sich dann verabschiedeten und
-an dem alten Kirchlein und den Wirtschaft33ebäuden vorüber
+des Direktor Harnisch schien ihm mißfallen zu haben. Nachher
+drehte sich die Unterhaltung um harmlosere Dinge. Als
+Harnisch und sein Schimmel sich dann verabschiedeten und
+an dem alten Kirchlein und den Wirtschaftsgebäuden vorüber
 der Bootsanlegestelle zuschritten, meinte der Direktor
 zu seinem behäbigen Freunde:
 
@@ -561,61 +487,61 @@ zu seinem behäbigen Freunde:
 dasselbe zu planen. Tomy ist genau so wenig Engländer wie
 wir, und sein Bart ist genau so gut angeklebt wie der meine.
 Tomy hält uns vielleicht für das, was er selbst ist. — Und
-noch eins: Tomy ist nicht allein hier. Im Seegrundes drüben.
-wohnen noch zwei (Engländer, und die drei Landsleute haben
-am!) ihren Stammumtisch.«
+noch eins: Tomy ist nicht allein hier. Im See-Hotel drüben
+wohnen noch zwei Engländer, und die drei Landsleute haben
+auch ihren Stammtisch.«
 
-Harnisch Harst blieb stellten. Weit und breit war niemand
+Harnisch-Harst blieb stehen. Weit und breit war niemand
 zu erblicken. Er faßte in die Tasche und hielt mir auf der
-flachen Hand einen kleinen Fingerhut hin, an den am Kopfe
-teil ein scharfer eiserner Dorn angenietet war. In dem
+flachen Hand einen kleinen Fingerhut hin, an den am Kopfteil
+ein scharfer eiserner Dorn angenietet war. In dem
 <@pagebreak/>
 Fingerhut steckte Watte, die feucht zu sein schien.
 
 »Dies warf Gisela Arndt unter das Prunkbett, und ich
-zischte es mit der Fußspitze wieder hervor,« sagte Harst.
+fischte es mit der Fußspitze wieder hervor,« sagte Harst.
 
-»Und — was soll dieses Eine?« Ich streckte die Finger
+»Und — was soll dieses Ding?« Ich streckte die Finger
 aus. In demselben Moment prallten wir beide auseinander.
-Aus den dichten Büschen, die den schmalen Weg Juni Bootssteg
+Aus den dichten Büschen, die den schmalen Weg zum Bootssteg
 einsäumten, war eine Kugel mit unheimlicher Sicherheit
 über Haralds Hand hinweggesaust und hatte den Fingerhut
-mit sich fortgerissen, Harsts Hand zeigte zwei blutige Stellen.
+mit sich fortgerissen. Harsts Hand zeigte zwei blutige Stellen.
 
 Wir rannten im Galopp weiter …
 
-Die zweite Kugel schlug mir ein So in den linken
-Formel. Einen Knall hakten wir nicht gehört.
+Die zweite Kugel schlug mir ein Loch in den linken
+Ärmel. Einen Knall hatten wir nicht gehört.
 
 Harst kettete das gemietete Boot los und stieß eilends ab,
 ruderte hinter den windschiefen hohen Bootsschuppen und
-sagte er! hier, wo wir gedeckt waren:
+sagte erst hier, wo wir gedeckt waren:
 
-Einer der Märker verließ vorhin den Tisch … Er hatte
-9lngelzeug bei sich, sauber verpackt in einem Leinenüberzug,
-Aber ich weckte, daß Alarich Sepp nicht ahnt, daß in dem
+»Einer der Märker verließ vorhin den Tisch … Er hatte
+Angelzeug bei sich, sauber verpackt in einem Leinenüberzug.
+Aber ich wette, daß Alarich Sepp nicht ahnt, daß in dem
 Ledersack seines Stammtischgenossen eine Luftbüchse außer
-den Angebissen verpackt war, — Halte das Boot fest …
-Ich werde mal um die Ecke des Bootsschuppens suchen …«
+den Angelstöcken verpackt war. — Halte das Boot fest …
+Ich werde mal um die Ecke des Bootsschuppens schauen …«
 
-Er zog den Kopf sofort wieder zurück. Sein Gesicht schlief,
+Er zog den Kopf sofort wieder zurück. Sein Gesicht verriet,
 daß er jemand bemerkt hatte.
 
 »Wer war’s, Harald?«
 
 »Es war einer von Georg Tomys Freunden … Machen
-wir, daß wir von hier wegkommen. Ich Hetze hier nie mehr
+wir, daß wir von hier wegkommen. Ich gehe hier nie mehr
 ohne meine Pistole aus.«
 
-Ich ruderte … Als wir den Pfad zum Bootssteg übersblickden
+Ich ruderte … Als wir den Pfad zum Bootssteg überblicken
 konnten, war niemand mehr zu setzen.
 
 Harst hielt die blutende Hand ins Wasser. Ich fragte:
-»Was sollte vor Fingerhut mit dem spitzen Dorn?«
+»Was sollte der Fingerhut mit dem spitzen Dorn?«
 
 »Wenn ich mir das erklären könnte,« entgegnete Harald
-finster, »so würde ich vielleicht Gisela Arndt durch den Vetter
-Gendarm verlassen lassen.«
+finster, »so würde ich vielleicht Gisela Arndt durch den Ortsgendarm
+verlassen lassen.«
 
 <@pagebreak/>
 
@@ -657,7 +583,7 @@ beiden erstklassigen Geldschrankknacker genannt, die Spitznamen:
 Blauveilchen und Koks-Ecke. — Ersterer ließ hier
 (es waren eben Gentlemen-Ganoven) Freiherr von Tschiska,
 während Koks-Ecke ist) mit dem schlichten Namen Hans von
-Rappart begnügte. Beide hatten als Beruf »Vankprofurijt«
+Rappart begnügte. Beide hatten als Beruf »Bankprokurist«
 aus Berlin angegeben. Mit Banken hatten sie ja auch in der
 Walther allerlei zu tun gehabt.
 
@@ -1035,7 +961,7 @@ Mensch mit eingefrorenem Grinsen, Intimus von zu ha
 6\. und 7. — zwei Freunde der beiden Sonnenburger.
 Londoner-Tisch:
 
-1\. Mr. Georg Tomy, angeblich Londoner Häutchändler,
+1\. Mr. Georg Tomy, angeblich Londoner Häutehändler,
 — der, schwarzen Kerl mit Hornkneifer, Spricht perfekt
 englisch, aber ohne jeden Londoner singenden Ton. — Hund:.
 Dobermann,
@@ -1130,7 +1056,7 @@ zitternd vor Grimm. »Sie sind ein … ein …
 
 »Freund von Ihnen, Mr. Schraut, « fügte er ein, ohne
 von dem Bogen aufzublicken … »Natürlich Kanon ich deutsch
-lesen. Scotland Yard kann keine halbgebildeten Oberinspekkoren
+lesen. Scotland Yard kann keine halbgebildeten Oberinspektoren
 brauchen. Ich war während des Krieges sogar in
 Deutschland tätig — gestrichen Nachrichtendienst … Sprache
 ich Londoner Dialekt, wäre ich sicherlich vor ein halb Dutzend
@@ -1153,7 +1079,7 @@ von« verschiedenen Juwelen.« Er reichte mir den Bogen
 zurück. »Danke … Ja, der arme Berington ist tot, Das
 Kreuz, das sie hinter seinen Namen gemacht haben, kommt
 auf Rapparts Rechnung. Man sollte die Herstellung von
-Nepetierlustbüchsen mit so großer Durchschlagskraft rundes«
+Repetierluftbüchsen mit so großer Durchschlagskraft rundes«
 birgt verbieten, aber die amerikanische Firma. verteilt 22 Prozent
 Dividende, und gerade die Chikagoer Verbrecher tragen
 viel zu diesem gesteigerten Aufsatz bei.« Er seufzte schmerzlich
@@ -1398,7 +1324,7 @@ Julius Bexington niederknallte, weil dieser den Überfall auf
 uns beobachtet hatte, bleibt glatter Mord. Rappart hat die
 Leiche dann natürlich sofort in die dichten Büsche neben kam
 <@pagebreak/>
-Ukerpfad geschleppt, Tomy fand den Toten dort und schaffte
+Uferpfad geschleppt, Tomy fand den Toten dort und schaffte
 »ihn in die Hütte, wo sein Dobermann untergebracht ist …
 Das alles ist an sich klar und eindeutig, und doch — ,— mich
 beschreibt ein Unbehagen, wenn ich den Dingen völlig auf
@@ -2107,7 +2033,7 @@ zuckte ein flüchtiges Lächeln auf. »Schloß Herreun&2iusee
 war mir nur Mittel zum Zweck, und Sie beide nach …
 
 Ich pflege meine Dispositionen so zu treffen, daß der Wegen
-sie nie durchschaut, Entschuldigen Sie: Eigenlod stinkt 047
+sie nie durchschaut, Entschuldigen Sie: Eigenlob stinkt 047
 Alten Sepp hat noch nie einen groben Schnitzer. geinätiüt.
 Ach wußte, daß Blauveilczen3 Bande irgendwo ein Weinhauses
 Versteck haben mußte, Diese Leute sind moderne Verbrecher.
@@ -2360,7 +2286,7 @@ spann, sind sie harmlos wie Kaninchen. — Herr Doktor
 Arndt, der Name des Lockvogels begann mit Y, — aber ich
 habe niemals dieses A zu Arndt ergänzt, sondern zu Alters
 spann. Es gab da mal vor Jahren einen gescheiterten Hamburger
-Rechtsanwalt Alderspohn, der ein getreues Ebcnbild
+Rechtsanwalt Alderspohn, der ein getreues Ebenbild
 Alarich Sepps war, jedoch Europa den Rücken Rechte
 und trotz aller Steckbriefe nie gefaßt wurde. Ich hatte in
 völlig vergessen, und erst als hier Herr Professor OberspalzitGepp
