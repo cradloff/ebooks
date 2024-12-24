@@ -107,7 +107,7 @@ bewirtschaften … Mutter wird mir schon verzeihen …
 Ich war ein Lausbub allezeit, nun hat mich die Fremde etwas
 glatt geschliffen und zahm gemacht … Also in zehn Tagen
 bin ich in Bombay. So lange wird Mr. Grablays Gattin Sie
-aufnehmen … « — —
+aufnehmen …« — —
 
 Das war am Abend des 4. August.
 
@@ -125,9 +125,9 @@ geheimnisvolle Persönlichkeit gewesen. Sie kam irgendwoher,
 altindischen Möbeln aus, — irgendwer hatte ihr
 moderne Romane, wissenschaftliche Werke und vieles andere
 verschafft. Sie starb als »Chuna Dangi«, und das bedeutet
-»Die ohne Namen« und müßte richtig. Chu na Dangi geschrieben
+»Die ohne Namen« und müßte richtig Chu na dangi geschrieben
 werden. Sie starb, weil Buid Jasper sie mit einem
-Stein schwer verletzte. Sie war unten im Tale, zwischen den
+Stein schwer verletzte. Sie war unten im Tale zwischen den
 grünen Büschen in aller Stille begraben worden, und dieses
 Tal lag nun im Mondesglanz zu unseren Füßen. — Janzen
 war mit einem Male recht still geworden.
@@ -160,7 +160,7 @@ Ich blickte Janzen forschend an. »Davon weiß ich
 nichts …« sagte ich ehrlich. »Harald ist kulturmüde …«
 
 »Hm, — aus dem Paket ist ein kleines Heft verschwunden
-…« flüsterte Janzen. »Ich hatte ja die Vorhandenen
+…« flüsterte Janzen. »Ich hatte ja die vorhandenen
 Schriftstücke genau gezählt … — Gerade dieses Heftchen
 fiel mir auf, denn es hatte einen Einband von Krokodilleder,
 Bauchseite, selbst gegerbt; — ein Deckel also, in den etwa
@@ -327,7 +327,7 @@ Elfenbeinfüßen … und ledergeflochtenen Sitzen und Rücklehnen.
 Harst hatte nur kurz erwähnt, daß er sofort nach dem
 Eindringen in die Büsche von mehreren Indern in langen
 braunen Mänteln gepackt worden sei. Man hatte ihn gefesselt
-und geknebelt und vorwärts bis zum Grabe gestreift. Ein
+und geknebelt und vorwärts bis zum Grabe geschleift. Ein
 Tuch, das man ihm über den Kopf geworfen hatte, hinderte
 ihn irgend etwas zu sehen. Nur eine melodische weiche
 Frauenstimme war an sein Ohr gedrungen, und diese Stimme
@@ -374,7 +374,7 @@ und mit diesem feinen Parfüm stieß ihn aus, als das
 Gesicht der Toten freigelegt worden war und sie diese Tote
 erkannte.«
 
-Aus Janzens Ecke kamt ein mehr geflüstertes: »Wahrscheinlich
+Aus Janzens Ecke kam ein mehr geflüstertes: »Wahrscheinlich
 — — wahrscheinlich!«
 
 Ich fragte ihn schroff: »Weshalb verschwiegen Sie mir
@@ -394,7 +394,7 @@ kamen, erfahren hatten, daß hier eine rätselhafte Greisin
 gehaust hatte. Diese Leute können von weit her gekommen
 sein. Zumindest können sie volle vierundzwanzig Stunden
 <@pagebreak/>
-unterwegs gewesen sein, Sie kannten diese Frau eben, und
+unterwegs gewesen sein. Sie kannten diese Frau eben, und
 das junge Weib, das mit ihrer zarten Stimme mich nach
 Janzen fragte, war trotzdem für Sekunden beim Anblick des
 Gesichtes der Toten so schmerzerfüllt und so verzweifelt, daß
@@ -470,7 +470,7 @@ gar nichts. Aber nun geh’ und sieh’ nach den Pferden …«
 
 Als ich den mittleren Raum mit einer Laterne verließ,
 glitt der Lichtstrahl auch nach links in den Hintergrund der
-Höhle, wo der zweite sommerliche Ausgang schräg nach oben
+Höhle, wo der zweite kaminartige Ausgang schräg nach oben
 lief, den wir verrammelt hatten.
 
 Die beiden flachen Felsstücke, die wir dort als Verschluß
@@ -564,7 +564,7 @@ gegen Durst widerstandsfähiger, für längere Ritte den Pferden
 vorzuziehen.
 
 Neben uns weideten riesige Schafherden. Wir befanden
-uns noch innerhalb der Weideflächen den Grenzgürtels. Trotzdem
+uns noch innerhalb der Weideflächen des Grenzgürtels. Trotzdem
 wachten wir abwechselnd. Meine Wache begann um
 12 Uhr. Die vier Stunden Schlaf hatten mir genügt. —
 Während meiner Wache sah ich zum ersten Male »The Ghost
@@ -614,7 +614,7 @@ Wollmantel, der über die Lenden ihres Dromedars hinabhängt
 …«
 
 Meine Zigarre schmeckte ihm, und er wurde immer redseliger.
-Er erzählte, das die Frau stets nachts auftauchte,
+Er erzählte, daß die Frau stets nachts auftauchte,
 bis dicht an die Hirtenfeuer heranreite und dann wieder
 davonjage. Noch nie hatte sie zu irgend jemandem ein Wort
 gesprochen. Sie sei bald hier, bald dort, und als letztens
@@ -641,7 +641,7 @@ melodischen Stimme identisch sein könnte … könnte!
 »… Sahib, diese Herden da und ich selbst gehören zur
 Ghaggar-Farm … Es sind zehn Meilen bis dorthin, und
 die Gebäude stehen am Westende des Ghaggar-Tales …
-Kannst du es? — Nun gut, du kennst es … Es war ein
+Kennst du es? — Nun gut, du kennst es … Es war ein
 großer, großer Fluß einst … Also du kennst es … —
 Woher kommt ihr?«
 
@@ -792,7 +792,7 @@ lange, abseits gelegene Wellblechbaracke deutete:
 
 Vor der einen Tür war ein weiß-rot gestreiftes Sonnenzelt
 aufgestellt. Unter dem Zelt lag in einem Klubsessel, die
-Füße auf die Tischkante geglättet, ein Beamter mit verwildertem
+Füße auf die Tischkante gestützt, ein Beamter mit verwildertem
 blonden Vollbart, einer Hornbrille und wirrem Scheitel.
 Er las in einer Zeitung riesigen Formats, drehte faul den
 Kopf nach uns hin und blinzelte uns eine Weile an. Wir
@@ -859,8 +859,8 @@ gelassen?! Und ist die Seife hier so knapp?!«
 
 »Mr. Harst, hier sein alles knapp — alles … Hier
 sein nur Stumpfsinn, Mr. Harst … Und das nicht gut.
-Bart wachsen doppelt schnell … « Er streichelte seine Backen,
-um die ein armseliger Stoppelbart grinste.
+Bart wachsen doppelt schnell …« Er streichelte seine Backen,
+um die ein armseliger Stoppelbart sproßte.
 
 »Bringe was zu trinken, Lipo,« befahl Drebber melancholisch.
 »Das Saufen habe ich mir auch schon angewöhnt
@@ -952,7 +952,7 @@ noch alle acht Tage … — Schraut, spülen Sie sich etwas
 fix ab … Lipo hat das Frühstück schon fertig, und ihr
 müßt spätestens um halb sieben der alten Hexe drüben eure
 Aufwartung machen, nachher reitet sie ihre Weideplätze
-ab und kommt vor drei war nicht heim … Ein verrücktes
+ab und kommt vor drei Uhr nicht heim … Ein verrücktes
 altes Frauenzimmer, diese Miß Digall …«
 
 Das war nämlich die Herrin der Ghaggar-Farm. Drebber
@@ -977,7 +977,7 @@ und ist doch nur ein stinkiger Ziegenbock …«
 
 Harst band die Krawatte vor dem Spiegel …
 
-»Wie heißt diese Miß Statur eigentlich mit Vornamen,
+»Wie heißt diese Miß Digall eigentlich mit Vornamen,
 John?«
 
 »Charlotte …!!«
@@ -1104,7 +1104,7 @@ auch nicht um einen Deut. Genau so nachlässig sagte er:
 »Hohe Ehre, Miß … Morgen, Mr. Peex … Auch
 <@pagebreak/>
 wieder im Lande?! Ist’s drüben in Sirsa so langweilig?
-— Gestatten, daß im bekannt mache: Miß Charlotte Digall,
+— Gestatten, daß ich bekannt mache: Miß Charlotte Digall,
 Besitzerin der Schaffarm, auf der jährlich sechstausend
 Schäflein geschoren werden, und Mr. Allan Peex, Großhändler
 in Landesprodukten und anderen Kleinigkeiten bis
@@ -1143,7 +1143,7 @@ Augen an. »Ah — — Sie?! Und wer erzählte es Ihnen?«
 Allan Peex erwiderte hochmütig: »Ein Hirt … Wollen
 Sie hier auch noch Maulkorbzwang einführen?«
 
-»Nur für Ziegenböcke. Mr. Peex, nicht für braune
+»Nur für Ziegenböcke, Mr. Peex, nicht für braune
 Hirten. — Miß, — welches Interesse haben Sie an der
 Toten?«
 
@@ -1176,7 +1176,7 @@ Sie hob den Kopf mit einem Ruck. Sie war tief errötet
 … Sie führte mit ihrer Reitgerte einen Lufthieb,
 daß der Gaul vorn stieg …
 
-»Ich kenne keine, Mörder,« antwortete sie in ohnmächtigem
+»Ich kenne keine Mörder,« antwortete sie in ohnmächtigem
 Grimm mit zitternden Lippen … »Und über meine
 Reisen bin ich Ihnen keine Rechenschaft schuldig! — Kommen
 Sie, Mr. Peex … England war einmal das Land der
@@ -1206,10 +1206,10 @@ war empörend. Er hatte wieder seine Liegestellung
 eingenommen, stopfte umständlich seine Pfeife und sagte zu
 dem Sergeant Mutley: »Schreiben Sie …
 
-> »Vor dem Chef der Sektion Ost des Polizei Dromedarreiterkorps
+> »Vor dem Chef der Sektion Ost des Polizei-Dromedarreiterkorps
 Mr. John Drebber erschienen heute unaufgefordert
 … 1\.) Miß Charlotte Digall, 23 Jahre alt, Besitzerin
-der Ghaggar-Farm, nicht vorbei straft, ledig, …
+der Ghaggar-Farm, nicht vorbestraft, ledig …
 
 Oder — pardon — irre ich mich, Miß …? Sind Sie
 doch verheiratet …?«
@@ -1270,7 +1270,7 @@ recht nicht bei einem polizeilichen Verhör!«
 
 Aber Peex lächelte nur amüsiert. »Zu einem Verhör
 muß ein Grund vorliegen, Mr. Drebber … Bisher haben
-Sie mir diesen Grund noch nicht genannt. Ich segele
+Sie mir diesen Grund noch nicht genannt. *Ich* segele
 nicht unter falscher Flagge, ich heiße John Peex, bin unverheiratet
 und Mitglied des Regierungsparlaments …«
 

@@ -20,8 +20,8 @@ Jetzt aber haben die berufsmäßigen Kritiker der
 Landesjugendämter Wiesbaden und Hamburg festgestellt,
 daß der Inhalt
 
-> auf krasse Sensation und verbrecherische
-Grausamkeit abgestellt sei,
+<p class="centered strong">auf krasse Sensation und verbrecherische
+Grausamkeit abgestellt sei,</p>
 
 und sie verlangen, daß der Verkauf unserer Bändchen verboten
 werden solle …
@@ -31,7 +31,7 @@ Freunde der Harald-Harst-Erzählungen schreibt:
 
 > »Ich bin Diplom-Ingenieur und habe wissenschaftliche
 Arbeiten geschrieben, außerdem habe ich die Welt
-wirklich gesehen, bin viele Jahre in Ausland, Ostindien,
+wirklich gesehen, bin viele Jahre in Rußland, Ostindien,
 Java u. a. gewesen. Ich lese die Harst-Erzählungen seit
 Jahren und muß sagen, daß diese für mich ein wahrer
 Genuß sind und wirklich Erholung und Entspannung

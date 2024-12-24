@@ -56,7 +56,7 @@ Seite her keinerlei nähere Verwandte, und auch mit den
 Angehörigen meiner Mutter war jeder Briefwechsel eingeschlafen.
 Trotz meiner Jugend war ich jedoch durchaus selbständig
 und mit dem Farmbetrieb völlig vertraut. — Nun
-komme ich zu einem äußerst wichtiger Punkt. Mein Väter,
+komme ich zu einem äußerst wichtigen Punkt. Mein Väter,
 durch seine traurige Ehe und deren ungeklärtes, noch traurigeres
 Ende zu einem Deutschenhasser geworden, hatte ein
 Testament hinterlassen, in dem er in der Zerrissenheit seiner
@@ -126,7 +126,7 @@ sind durchaus zuverlässig. Bedenke, welche Zukunft
 dir vielleicht droht, wenn du einen Menschenfänger wie
 Drebber heiraten müßtest, und du würdest es tun, denn
 du hängst an der Farm, sie ist ein Stück von dir selbst geworden,
-und du würdest sie verlieren, wolltest du dieser
+und du würdest sie verlieren, wolltest du diesen
 Verbrecherjäger abweisen …« — Es gibt nicht mehr viel
 zu berichten, Herr Harst. Denken Sie nicht gering von
 mir, weil ich … auf diesen Handel einging. Ich fuhr nach
@@ -260,7 +260,7 @@ of the Thar ist … Lotti Digall, ich habe die Beweise
 dafür, ich habe jedoch noch nicht die Beweise, daß Lotti
 Digall *und* Allan Peex es mit den Wüstenräubern halten,
 aber ich vermute es. — Ich bin kein Mann der Sentimentalitäten,
-ihr Kennt mich: Die Pflicht ging mir einst über
+ihr kennt mich: Die Pflicht ging mir einst über
 alles. Dann erhielt ich den Dämpfer in Kalkutta, ich wurde
 ins Exil geschickt, obwohl meine Vorgesetzten mich vor der
 farbigen Bande in Kalkutta auch anders hätten schützen
@@ -382,7 +382,7 @@ flatterte hinterdrein …
 Wir drei standen noch und staunten und starrten, als
 hinter uns Harald sagte:
 
-»The Ghost of the Thar!! Zweite Auflage!«
+»The Ghost of the Thar!! Zweite Auflage!!«
 
 Dann drängte er Lipo beiseite und ging in den Baderaum.
 Hier war gegen das kleine Fenster die Marmorplatte
@@ -397,7 +397,7 @@ sahen Sie von dem Frauenzimmer, Harst?«
 den Kugelfang nicht aufgestellt hätte, würde sie nun wohl
 einige Schulterschmerzen haben. Ich hätte niemals geschossen,
 aber die Person führte Arges im Schilde …!« Er bückte
-sich und hob eine kleine Hartgummispritze mit Nickelspritze
+sich und hob eine kleine Hartgummispritze mit Nickelspitze
 auf. Sie war gefüllt, und als nun ein dünner Strahl in
 die Badewanne zischte, verbreitete sich ein eigentümlich
 scharfer Geruch, der nicht nur mir die Tränen aus den
@@ -425,7 +425,7 @@ haften.
 
 Der Chinese schloß die Augen und grinste töricht.
 John Drebber erwiderte achselzuckend: »Ein Thargespenst
-mit einer Spritze ist, so ungefähr das Ungewöhnlichste, das
+mit einer Spritze ist so ungefähr das Ungewöhnlichste, das
 mir je begegnete …«
 
 »Wir werden jetzt Miß Digall unsere Aufwartung
@@ -456,11 +456,11 @@ merkwürdig und schritt mir eilends voraus.
 
 <h3>Das Digall-Mausoleum.</h3>
 
-Als wir um die Echte bogen und den Parkeingang vor
+Als wir um die Ecke bogen und den Parkeingang vor
 uns sahen, kamen von den Hürden her zwei Reiter angetrabt:
 Sergeant Mutley und Allan Peex, — eine Strecke
 hinter ihnen sechs Beamte des Dromedarkorps, die Karabiner
-schräg über den Spritzern.
+schräg über den Schenkeln.
 
 Harald blieb stehen. »Hm, die Sache wird windig, mein
 Alter …! Armer Drebber!! Mutley ist umgefallen, Peex
@@ -472,7 +472,7 @@ uns zu. Sein Gesicht verriet nichts Gutes. In seinen Augen
 las ich verstecktes Drohen und höhnischen Triumpf.
 
 »Oh — Drebbers Freunde!« rief er und zügelte seinen
-Fuchs. »Zu meinen Bedauern muß ich Sie ausquartieren.
+Fuchs. »Zu meinem Bedauern muß ich Sie ausquartieren.
 Drebbers Stelle nehme ich ein. Der Befehl seiner Lordschaft
 war echt. Sergeant Mutley hat vom Vorwerk Anschluß nach
 Bikaner bekommen und telephonisch bestätigt erhalten, daß …«
@@ -555,7 +555,7 @@ sanft gingen sie mit ihm nicht um.
 Mutley weinte verstohlen und nahm die Handschellen
 aus seinem Gurt. Drebber sagte zu uns: »Grüßt also Miß
 Lotti von mir — — Schade, der Artikel hier in der
-Dehli—Temps ist so interessant … Wo war ich doch nur
+Dehli-Temps ist so interessant … Wo war ich doch nur
 gerade …« Er setzte sich und las weiter.
 
 Allan Peex zischte wild: »Oh — das werden Sie
@@ -572,7 +572,7 @@ daß er nun wirklich hier insgeheim Räuberhauptmann
 spielt, aber ein merkwürdiger Zufall bleibt’s, daß
 die Banditen sich erst regten, als John hier eingezogen war.
 Ich habe allerdings, was diese Räuberbande betrifft, so
-meine besondere Vermutung eine ganz besondere, aber
+meine besondere Vermutung — eine ganz besondere, aber
 würde ich sie dir mitteilen, könntest du mit einigem Recht
 auch »Esel« sagen …«
 
@@ -617,12 +617,12 @@ waren Sie vorgestern nacht?«
 Ihr traten plötzlich Tränen in die Augen, und ihr
 Kopf sank hilflos nach vorn.
 
-»Quälen Sie mich doch nicht — Ich hatte mich so
+»Quälen Sie mich doch nicht. — Ich hatte mich so
 auf Ihren Besuch gefreut. Ich bin ja nur Deutsche, nur …
 Und gerade Sie beide …«
 
 Sie schwieg und lächelte Harald von unten matt an …
-»… gerade Sie beide sollten mir doch Helfen …«
+»… gerade Sie beide sollten mir doch helfen …«
 
 Harald gab ihre Hand frei.
 
@@ -637,7 +637,7 @@ ich es Ihnen sagen … Dort liegt das Mausoleum der
 Digalls …«
 
 Wir gingen weiter. Ein Bogengang von wildem Hopfen
-und jäh duftenden Gerga-Lianen führte zu der kupfernen
+und süß duftenden Gerga-Lianen führte zu der kupfernen
 Pforte des kleinen Marmorbauwerks. Lotti öffnete den einen
 <@pagebreak/>
 Türflügel ganz weit. Vier Stufen tiefer standen inmitten
@@ -683,7 +683,7 @@ Ihr Kopf schnellte hoch …
 
 »Oh — — Sie …«
 
-»… ich habe den Theatercoup sofern durchschaut,
+»… ich habe den Theatercoup sofort durchschaut,
 Fräulein Lotti … Deshalb hielt ich auch Schraut und
 den Hirten von der »Leiche« fern … — Sie hatten recht
 <@pagebreak/>
@@ -836,7 +836,7 @@ Disziplin: Jeder Pfiff hatte seine Bedeutung!
 
 Der arme Janzen war zurückgelassen worden. Ich blickte
 zurück. Er hatte sich aus dem glühenden Sande aufgerappelt
-und stand gebückter da und knotete seine Fesseln auf. Die
+und stand gebückt da und knotete seine Fesseln auf. Die
 Luft über dieser völlig kahlen Wüstenstrecke flimmerte so
 stark infolge der Sonnenhitze, daß seine Gestalt groteske
 Formen annahm und bisweilen wie weggewischt war. —
@@ -878,7 +878,7 @@ Lotti Digall wurde die südliche Hälfte der Terrasse durch
 Wolldecken zeltartig abgeteilt. Wir konnten hier sehr leicht
 überwacht werden, da es nur den schmalen Grat als Zugang
 gab. Vier der Banditen hockten sich, die Flinten über den
-Knien, neben uns nieder. Wo die Übrigen blieben, konnten
+Knien, neben uns nieder. Wo die übrigen blieben, konnten
 wir nicht feststellen. Der Anführer erschien dann etwa nach
 einer Stunde und beehrte uns nun zum ersten Male mit
 einer Ansprache. Der Mann hatte ein Paar stechende, schwarze
@@ -935,7 +935,7 @@ Er ist entflohen. Wir hätten auch ihn beinahe erwischt,
 als er nach Sirsa ritt.«
 
 Harald blickte den Mann eine Weile durchdringend an.
-»Lag mal, gräbst du oft nach Pestkäfern? Ich vermute das.
+»Sag’ mal, gräbst du oft nach Pestkäfern? Ich vermute das.
 Lipo hat eine schöne Käfersammlung, wie ich sah …«
 
 <@pagebreak/>
@@ -1053,7 +1053,7 @@ Thargespenst.
 Gerda Gandel erwiderte etwas verstört: »Ich bin Ihnen
 gefolgt … Ich sollte gleichzeitig untersuchen, ob John Drebber
 wirklich mit den Tharräubern in Verbindung stände
-und ob Miß Digall the Ghost of the Schnur sei. — Seit
+und ob Miß Digall the Ghost of the Thar sei. — Seit
 wann ist Ihnen bekannt, daß Allan Peex den Geist spielte?«
 
 »Genau so lange, Fräulein Gerda, wie ich weiß, daß
@@ -1067,7 +1067,7 @@ hatte die Verfolgung gegen Abend aufgegeben, und …«
 »Ja, mit Absicht … Es war ein verwickeltes Spiel,
 <@pagebreak/>
 das hier in Szene ging … Im Film wäre das schwer
-darzustellen, es müßten zu viel »Titel« einflickt werden,
+darzustellen, es müßten zu viel »Titel« eingeflickt werden,
 um die Sache zu klären. Sie wissen doch, was »Titel«
 sind: Die verbindenden Zwischenworte. Wir brauchen keine.
 Ich will in Ghaggar das Nötige erklären … — Machen Sie
@@ -1126,7 +1126,7 @@ vor. Hier kam es noch in dieser Nacht vor.
 Derweil saßen Harst, Lipo und ich im Zelt und tranken
 Sekt, der zu lauwarm war. Lipo grinste und meinte triumphierend:
 »Jetzt wird mein Herr seinen Abschied nehmen
-und den hohen Herren in Kalkutta gehörige was unter die
+und den hohen Herren in Kalkutta gehörig was unter die
 Nase reiben … Sie hatten ihn in die Wüste geschickt, und
 er fand hier die schönste weiße Blume ganz Indiens …«
 
