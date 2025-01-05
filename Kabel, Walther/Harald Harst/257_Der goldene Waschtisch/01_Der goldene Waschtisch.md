@@ -133,21 +133,21 @@ recht komisches Aussehen.
 Direktor Harnisch, der noch gestern früh alles andere als
 Direktor gewesen, wandte sich seinem Chauffeur zu und sagte
 mit eigenartig gedämpfter Stimme, die ihm längst zur zweiten
-Natur geworden: »Schimmel, es ist bestimmt Alarich Sepp,
+Natur geworden: »Schimmel, es ist bestimmt Alarich Gepp,
 wenn er sich auch den grauen Schnauzbart angeklebt und die
 Augenbrauen beschnitten hat. Blicken Sie nicht hin, Schimmel.
-Sepp entgeht nichts. Sie wissen, daß er vom Chef
+Gepp entgeht nichts. Sie wissen, daß er vom Chef
 stets nur in besonderer Mission verwandt wird. Der großen
 Menge ist er völlig unbekannt, und sogar im Präsidium kennen
 ihn nur die Auserwählten. Die Berliner Kriminalpolizei,
 braucht solche Kommissare, die sich immer im Dunkeln halten.
 Gerade ihre Tarnkappe ist ihre Stärke. Ich möchte wissen,
-was Sepp hier tut.«
+was Gepp hier tut.«
 
 »Dienst,« erwiderte Melchior Schimmel lakonisch und biß
 <@pagebreak/>
 einer grünbraunen Brasil die Spitze ab. »Vielleicht Dienst,«
-schwächte er seine Behauptung ab. »Ich habe Sepp übrigens
+schwächte er seine Behauptung ab. »Ich habe Gepp übrigens
 noch nie gesehen.«
 
 »Ich nur dreimal, aber auf mein Personengedächtnis
@@ -160,14 +160,14 @@ erheblich viel unterschlagen hat. Man spricht von einer Million.
 Er blies den Zigarettenrauch stoßweise von sich und
 drehte sich wieder nach dem Portal um.
 
-Alarich Sepp hatte soeben Fräulein Gisela Arndt und
+Alarich Gepp hatte soeben Fräulein Gisela Arndt und
 ihren Vater begrüßt. Alle drei wohnten drüben in Westernachers
 Hotel am See, wo auch Direktor Harnisch heute
 mittag abgestiegen war.
 
 Da jetzt ein Schwarm Touristen vorüberzog, machte
 auch der dicke Melchior Schimmel kehrt und fand sehr
-rasch Kommissar Sepp aus der hin und her flutenden Menge
+rasch Kommissar Gepp aus der hin und her flutenden Menge
 heraus.
 
 »Das ist ja die aschblonde Knipserin,« sagte er lächelnd.
@@ -207,7 +207,7 @@ im Prunkschlafzimmer viel zu schwach. Wie kamen Sie auf
 einen Kodak, Schimmel?«
 
 Der dicke Chauffeur beobachtete, wie noch vier andere
-Herren sich jetzt Doktor Arndt, Gisela und Sepp anschlossen.
+Herren sich jetzt Doktor Arndt, Gisela und Gepp anschlossen.
 Die kleine Gesellschaft schlug langsam den Weg nach dem
 Schloßhotel der Herreninsel ein, das neben dem alten Schlosse
 liegt.
@@ -259,14 +259,14 @@ haben können … — Wo sind deine beiden Ganoven
 nun?«
 
 »Im Hotel Westernacher wohnen sie, und zur Zeit
-gehen sie dort vor uns mit Arndt und Sepp zum Schloßhotel.
+gehen sie dort vor uns mit Arndt und Gepp zum Schloßhotel.
 Außerdem sind sie heute in allen Ehren in die Stammtischrunde
 der Märker aufgenommen worden.«
 
-Schimmel blieb stehen. »Donnerwetter!! Ob Sepp ahnt,
+Schimmel blieb stehen. »Donnerwetter!! Ob Gepp ahnt,
 was für Vöglein die beiden sind?!«
 
-»Wahrscheinlich nicht, denn Alarich Sepp befaßt sich kaum
+»Wahrscheinlich nicht, denn Alarich Gepp befaßt sich kaum
 mit Geldschrankknackern, er dürfte sie kaum kennen, er ist nur
 für exquisite Fälle in Reserve.«
 
@@ -324,7 +324,7 @@ darf das nicht durcheinander werfen.« —
 
 Zwei Tische weiter hatten Harnisch und sein Schimmel
 Platz genommen. Gerade als der Direktor leise erklärte:
-»Sepp nennt sich hier Oberspahn, Professor im Ruhestande
+»Gepp nennt sich hier Oberspahn, Professor im Ruhestande
 Oskar Oberspahn,« trat ein der Herr in hellem Flanellanzug
 an den Tisch und fragte in gebrochenem Deutsch, ob die
 Herren gestatteten …
@@ -519,7 +519,7 @@ sagte erst hier, wo wir gedeckt waren:
 
 »Einer der Märker verließ vorhin den Tisch … Er hatte
 Angelzeug bei sich, sauber verpackt in einem Leinenüberzug.
-Aber ich wette, daß Alarich Sepp nicht ahnt, daß in dem
+Aber ich wette, daß Alarich Gepp nicht ahnt, daß in dem
 Ledersack seines Stammtischgenossen eine Luftbüchse außer
 den Angelstöcken verpackt war. — Halte das Boot fest …
 Ich werde mal um die Ecke des Bootsschuppens schauen …«
@@ -562,7 +562,7 @@ Herr Direktor Harnisch, der zu Tisch nur den teuersten
 Rotwein trank und fabelhafte Trinkgelder gab, diktierte seinem
 Schimmel eine Stunde nach den heimtückischen Schüssen eine
 chiffrierte Depesche, die nach Berlin an einen Herrn Doktor
-Lücke abging. Der Text enthielt die Anfrage, ob Alarich Sepp,
+Lücke abging. Der Text enthielt die Anfrage, ob Alarich Gepp,
 der im Berliner Präsidium von den wenigen Eingeweihten
 stets »Das Mädchen aus der Fremde« genannt wurde, zur
 Zeit auswärts arbeite und vielleicht gar in Bayern. — Ich
@@ -588,7 +588,7 @@ aus Berlin angegeben. Mit Banken hatten sie ja auch in der
 Tat schon allerlei zu tun gehabt.
 
 Ob Professor Oskar Oberspahn (alias Kriminalkommissar
-A. Sepp) Blauveilchen und Koksede durchschaut hatte, ließ
+A. Gepp) Blauveilchen und Koksede durchschaut hatte, ließ
 Harst dahingestellt. Aber seiner Überzeugung nach waren
 die Schätze von Schloß Herrenchiemsee noch nie so bedroht
 gewesen wie jetzt, wo anscheinend zwei sachkundige Gruppen
@@ -801,7 +801,7 @@ Hündin ins Zimmer gehüpft.
 »Diese Nacht geht es los,« flüsterte Oberspahn, und
 sein Gesicht war mit einem Schlage völlig verändert.
 
-Er drückte mir die Hand. »Den Kriminalkommissar Sepp
+Er drückte mir die Hand. »Den Kriminalkommissar Gepp
 kennen wenige … Die ihn kennen, sitzen zumeist für lange
 Zeit in Nummer sicher.« Er nahm einen Stuhl und ließ
 sich bedächtig nieder.
@@ -813,13 +813,13 @@ Seine Maske als Professor im Ruhestande war fabelhaft.
 Seine Mitteilung, daß es in der Nacht losginge,
 ließ mich sogar den ermordeten Bexington vergessen.
 
-»Sepp und ich waren vorhin eine Weile am Märker-Stammtisch
+»Gepp und ich waren vorhin eine Weile am Märker-Stammtisch
 allein,« klärte Harst mich in kürze auf. »Ich
-hielt es für richtig, Sepp gegenüber die Maske zu lüften.
+hielt es für richtig, Gepp gegenüber die Maske zu lüften.
 Die Verantwortung für das, was geschehen kann, ist zu groß.«
 
-Alarich Sepp meinte schroff. »Vermeiden Sie besser
-den Namen Sepp. Ich bin Oberspahn. Hier haben die Wände
+Alarich Gepp meinte schroff. »Vermeiden Sie besser
+den Namen Gepp. Ich bin Oberspahn. Hier haben die Wände
 sicherlich Ohren.«
 
 Zu den liebenswürdigen Naturen gehörte er offenbar
@@ -847,7 +847,7 @@ als Nummer vier bis sieben Blauveilchen, Koksede und
 noch zwei von der Zunft, die ebenfalls die Urlauber spielen.
 — Kennen Sie diese beiden, Herr Harnisch?«
 
-Sepps durchdringende Blicke sprühten kalten Hohn. Ein
+Gepps durchdringende Blicke sprühten kalten Hohn. Ein
 unangenehmer Mensch.
 
 »… Sie kannten sie nicht, Sie kannten nur Blauveilchen
@@ -876,7 +876,7 @@ unsere Trümpfe bis zum Schluß zurückzubehalten. Ich will
 Sie nichts fragen, und Sie werden mich nichts fragen. —
 Wann also?«
 
-Sepp zupfte an seinen Gamslederbuchsen. »Um elf,«
+Gepp zupfte an seinen Gamslederbuchsen. »Um elf,«
 erwiderte er, aber er war sichtlich verstimmt. Es paßte ihm
 offenbar nicht, daß Harst so kurz angebunden war und ihm
 die Möglichkeit verriegelt hatte, uns auszupumpen. »Um
@@ -896,7 +896,7 @@ so, er bückte sich tief, streichelt seine Rita und meinte: »Sie
 haben sich wohl Blasen beim Rudern geholt, Herr Direktor?«
 
 »Es scheint so, Herr Professor …« — und sie lächelten
-sich zu, und Sepp schritt zur Tür, schob den Riegel auf
+sich zu, und Gepp schritt zur Tür, schob den Riegel auf
 und wandte sich nochmals um.
 
 »Es soll hier heute einen Toten gegeben haben, Herr
@@ -904,7 +904,7 @@ Direktor …«
 
 »Vielleicht gibt es noch einige, Herr Professor.«
 
-Sepp trat mit drei langen lautlosen Schritten wieder an
+Gepp trat mit drei langen lautlosen Schritten wieder an
 den Tisch und legte Harst die Hand auf die Schulter.
 
 »Wir wollen unseren Pakt abschwächen, mein Lieber …
@@ -915,13 +915,13 @@ noch weiter abschwächen … Weshalb verhaften Sie die
 vier Burschen nicht? Weshalb geben Sie Ihnen Gelegenheit
 einzubrechen?!«
 
-Alarich Sepp flüsterte gereizt: »Zum Teufel, mag es
+Alarich Gepp flüsterte gereizt: »Zum Teufel, mag es
 <@pagebreak/>
 bei dem Pakt bleiben! Ich will die halbe Million der Dresdener
 Bank finden, Sie … Amateur, Sie!«
 
 Harst schaute ihm verblüfft nach. Die Tür fiel zu, und
-lediglich der Qualm von Sepps kurzer Pfeife blieb zurück.
+lediglich der Qualm von Gepps kurzer Pfeife blieb zurück.
 
 »Ein sonderbarer Heiliger,« sagte Harald zu mir. »Ob
 er etwa vermutet, daß die Herren Baron von Tschiska und
@@ -947,7 +947,7 @@ enttäuscht, verbittert.
 2. Gisela *Arndt*, Tochter des zu 1., blond, hübsch, fesch,
 ehrliche Seele, sehr um den Vater besorgt.
 
-3. Professor Oskar *Oberspahn* — A. *Sepp*, grob
+3. Professor Oskar *Oberspahn* — A. *Gepp*, grob
 geradezu, dünkelhaft, anmaßend. — Und Hündin Rita.
 
 4. *Blauveilchen* — Baron von Tschiska, elegante
@@ -1068,11 +1068,11 @@ Er hatte eine Art an sich, die mich völlig entwaffnete.
 »Woher wissen Sie, daß ich Schraut bin?!« — Der
 wütende Ton gelang mir recht mäßig.
 
-»Ich habe gehorcht, als mein Kollege Sepp hier mit
+»Ich habe gehorcht, als mein Kollege Gepp hier mit
 Ihnen verhandelte,« erklärte er verblüffend ehrlich und deutete
 mit dem Daumen schräg nach hinten auf die Verbindungstür
 nach Haralds Zimmer. »Es hat mir viel Spaß gemacht …
-Mr. Sepp jagt denselben Leuten nach wie ich. Die beiden,
+Mr. Gepp jagt denselben Leuten nach wie ich. Die beiden,
 die sich hier Tschiska und Rappart nennen, haben auch in
 London gewirkt, und der Juwelier Abrams beklagt das Fehlen
 von verschiedenen Juwelen.« Er reichte mir den Bogen
@@ -1095,7 +1095,7 @@ mit dem kalten glitzernden Blick. Er hypnotisierte mich
 geradezu. Es kostete mich unglaubliche Anstrengung zu lügen.
 Ich hatte einen Moment wohl daran gedacht, die volle
 Wahrheit einzugestehen, doch die Erinnerung an Harsts Abmachung
-mit dem Alarich Sepp bestimmte mich dazu, auch
+mit dem Alarich Gepp bestimmte mich dazu, auch
 Tomy gegenüber die Trümpfe zurückzuhalten.
 
 »Sie ruderten etwas über den See, Mr. Tomy,« entgegnete
@@ -1110,15 +1110,15 @@ die Hütte eingerichtet … Wie gefiel Ihnen mein Dobermann?«
 — Ich wurde rot, — er redete weiter. »Der Hund
 ist höllisch scharf, aber meine Augen sind auch scharf. Der
 Kneifer ist Fensterglas. — Schade, alles verstand ich nicht,
-was Sie beide hier mit dem Kollegen Sepp flüsterten. Wann
-soll denn nach Sepps Meinung die Sache befingert werden?«
+was Sie beide hier mit dem Kollegen Gepp flüsterten. Wann
+soll denn nach Gepps Meinung die Sache befingert werden?«
 
 »Übermorgen nacht … — Weshalb geben Sie sich
-Sepp nicht zu Erkennen?!« Ich erwartete sehr viel von diesem
+Gepp nicht zu Erkennen?!« Ich erwartete sehr viel von diesem
 Angriff, aber der Verstoß verpuffte ohne sichtliche Wirkung,
 denn Tomy lachte kurz auf und feixte mich wohlwollend an.
-»Sie kennen Sepp nicht … Ich habe mehr wie genug
-von ihm gehört. Sepp würde mir gegenüber nicht eine Silbe
+»Sie kennen Gepp nicht … Ich habe mehr wie genug
+von ihm gehört. Gepp würde mir gegenüber nicht eine Silbe
 verlauten lassen. — Ich finde, Sie lügen ziemlich ungeschickt,
 Mr. Schraut. Ich hätte mit Ihnen beiden ganz gern zusammengearbeitet.
 Es wäre vorteilhaft. Zum Beispiel Gisela
@@ -1144,15 +1144,15 @@ er soll ja des öfteren seine eigenen Wege gehen
 oder rudern … Will er etwa die Antwort auf das Chiffretelegramm
 abholen? Wenn Sie mich vorher so gut gekannt
 hätten wie jetzt, hätten Sie beide das Geld für die Depesche
-an Doktor Lücke sparen können. Alarich Sepp ist hier, und
+an Doktor Lücke sparen können. Alarich Gepp ist hier, und
 Ihre Bekanntschaft mit ihm ist einwandfrei, es ist Kriminalkommissar
-Sepp.« Er beschnitt mit einer Nagelschere die verkohlte
+Gepp.« Er beschnitt mit einer Nagelschere die verkohlte
 Spitze der Zigarre, rauchte intensiv und erhob sich
 gemächlich. »Ich will nun gehen Mr. Schraut. Professor
-Oberspahn-Sepp weiß doch nichts von dem Toten in der
+Oberspahn-Gepp weiß doch nichts von dem Toten in der
 Hütte?«
 
-Diesmal sagte ich die Wahrheit. »Sepp weiß nichts von
+Diesmal sagte ich die Wahrheit. »Gepp weiß nichts von
 Ihnen, Mr. Tomy.«
 
 Er reichte mir die Hand. »Wüßte er’s, Mr. Schraut,
@@ -1254,7 +1254,7 @@ Um halb zehn aß ich im kleinen Gastzimmer einsam
 mein Abendbrot. Es regnete sacht. Der Mond würde ausbleiben
 … Aber die vier Berliner würden trotzdem das
 Boot benutzen und sicherlich zum letzten Mal für einige
-Jährchen. Alarich Sepp würde sie mit nach Berlin nehmen,
+Jährchen. Alarich Gepp würde sie mit nach Berlin nehmen,
 und Sonnenburgs Pforten würden sich ihnen wieder auftun.
 
 Vier …
@@ -1270,7 +1270,7 @@ Harnisch. Lückes Chiffretelegramm lautete:
 
 <@pagebreak/>
 
-> »Sepp mit Hund dort, ebenso Londoner Oberinspektor
+> »Gepp mit Hund dort, ebenso Londoner Oberinspektor
 Tomy, wie ich soeben erfahre. Viel Glück.
 
 <p class="right">Gruß Lücke.</p>
@@ -1281,8 +1281,8 @@ dem Porzellanstiefel schlugen Flammen und Qualm hoch,
 und Harst, dem ich derweil Bericht erstattet, sagte sehr gedehnt:
 
 »… Wie ich soeben erfahren habe!!« Der Satz gibt
-zu denken. Vielleicht halten uns Sepp und Tomy zum besten
-und sind längst miteinander einig. Sepp mag mit Lücke telephoniert
+zu denken. Vielleicht halten uns Gepp und Tomy zum besten
+und sind längst miteinander einig. Gepp mag mit Lücke telephoniert
 haben … Mir gefällt der Satz nicht …«
 
 Er kam der Wahrheit mit seiner Bemerkung über »Zum-Besten-Halten«
