@@ -1,5 +1,7 @@
 <@pagebreak 3/>
 
+<h1>Der blaue Schatten</h1>
+
 <h2>1. Kapitel.</h2>
 
 <h3>Nie sollst du mich befragen …</h3>
@@ -92,7 +94,7 @@ und das Plätschern des Springbrunnens. — Vor acht
 Tagen sah ich *ihn* zum ersten Male. Der Mond schien
 schräg in das Zimmer und zeichnete weiße Stellen auf
 die dunklen Eichendielen. Ich bin weder furchtsam noch
-abergläubisch. Nein, als der blaue Schatten plötzliches von
+abergläubisch. Nein, als der blaue Schatten plötzlich von
 dem Wandgemälde sich löste und herabschwebte und durch
 den Raum glitt und vor der Wandnische kniete und zu
 beten schien, glaubte ich, es sei vielleicht eine dicke Rauchwolke,
@@ -110,7 +112,7 @@ erhob sich langsam, und die feine Gestalt verlor jede Straffheit,
 die Schultern sanken, und mit einer traurigen Geste
 sagte die junge Fremde:
 
-»Verzeihen Sie, in vergaß mich, ich nannte einen
+»Verzeihen Sie, ich vergaß mich, ich nannte einen
 bestimmten Namen, Herr Harst, und forderte dadurch Ihre
 Frage heraus. Gnädige Frau, meine Herren … haben
 Sie Dank …«
@@ -167,7 +169,7 @@ Herr Harst. Ich saß aufrecht im Bett, dessen Vorhänge
 ich nie ganz schließe. Ich fühlte ein unnennbares Grauen
 … Ich zitterte, ich lernte ein Angstgefühl kennen, das
 mir bis dahin völlig fremd gewesen. Ich erhob mich und
-stürzte blindlings in den langen Flur und in Dit …« —
+stürzte blindlings in den langen Flur und in Dit…« —
 sie verschluckte die weiteren Silben eines Namens, der
 uns vielleicht ein wichtiger Fingerzeig gewesen wäre …
 — »… in ein Zimmer, in dem jemand schlief,« verbesserte
@@ -340,7 +342,7 @@ Er stülpte seinen Künstlerfilz wieder auf und ließ ein
 meckerndes Lachen hören.
 
 »… Also: es ist erreicht, meine Sehnsucht ist erfüllt,
-im sehe Sie beide von Angesicht zu Angesicht. Nun
+ich sehe Sie beide von Angesicht zu Angesicht. Nun
 kann ich ruhig sterben. Damit hat’s freilich noch Zeit.
 Besinnen Sie sich auf den Fall Funke, Herr Harst?«
 
@@ -455,7 +457,7 @@ bewährte. Aber … ich selbst erhielt nie Gefängnispost.
 Von wem auch?! Lediglich die Zeitungen verschlang ich.
 Ein halbes Jahr nach meinem Eintritt in das Pensionat
 wurde Rittergut Zerninhof versteigert. Die Gräfin starb vor
-Gram — natürlich! Sie hatte bist dahin das übliche Leben
+Gram — natürlich! Sie hatte bis dahin das übliche Leben
 dieser Agrardrohnen geführt …«
 
 »Ihrer Ansicht!! Ich las es anders. Die Zernins sollen
@@ -617,7 +619,7 @@ war ein blasses, feines Gesichtchen mit übergroßen Augen,
 so viel ich erkennen konnte. Diese Augen werde ich nicht
 vergessen. Sie standen sehr dicht zusammen und wurden
 von sehr starken, nicht getuschten Brauen überwölbt. Und
-dann der Mund: klein und voll und rot wie ein gedrilltes
+dann der Mund: klein und voll und rot wie ein geknifftes
 Rosenblatt.«
 
 »Werden Sie nicht poetisch, Harst! — Was sahen Sie
@@ -627,7 +629,7 @@ rohes Fleisch aus einer Rindslende?! — Kinder, warten
 wir ab. Was mich bei alledem einzig und allein interessiert,
 ist das Auto. Funke muß es gestohlen haben. Farbe?«
 
-»Graugelb … « Harst beschrieb den Wagen ganz genau,
+»Graugelb …« Harst beschrieb den Wagen ganz genau,
 und Lücke rief das Präsidium an. — Nein, es war kein auch
 nur entfernt ähnlicher Wagen als gestohlen gemeldet worden,
 auch von auswärts nicht.
@@ -789,7 +791,7 @@ steht hinten im Stall, dicht am rückwärtigen Zaun, wo es
 gleichfalls eine Einfahrt und einen Feldweg über die Wiesen
 gibt. — Edith hätte das nächtliche unbefugte Benutzen des
 Wagens vielleicht gar nicht bemerkt, wenn nicht der Staub
-auf dem Autos uns eine frische Hin- und Rückspur dies
+auf dem Auto uns eine frische Hin- und Rückspur dies
 verraten hätte. Wie lange und wann der Wagen in aller
 Stille entliehen wurde, können wir nicht angeben. Edith
 säubert ihn gerade. — Woher erhielten Sie beide von alledem
@@ -944,8 +946,8 @@ wie unser so vorsichtiger Gast, würde ich sagen: Funke
 hat uns geblufft, Funke hat das Mädchen zu uns geschickt
 aus noch nicht ersichtlichen Gründen. Aber — wäre es nur
 Bluff gewesen, dann hätte der Knebel sich als ganz überflüssiges
-Requisit erwiesen, — ich sah den Knobel nur zufällig
-bei der schwachen Beleuchtung. Funke hätte in weglassen
+Requisit erwiesen, — ich sah den Knebel nur zufällig
+bei der schwachen Beleuchtung. Funke hätte ihn weglassen
 <@pagebreak/>
 können. Ich möchte daher … — hallo, hörtest du?!«
 
@@ -1017,7 +1019,7 @@ der Bretterverkleidung droben eingefügt war.
 
 »Zurück!!« Auch *der* Befehl kam von oben.
 
-Harst bog den Kopf empor, »Funke, übertreiben Sie
+Harst bog den Kopf empor. »Funke, übertreiben Sie
 das Spiel nicht!!«
 
 »Zurück!!« Die Stimme klang dumpf und drohend.
@@ -1036,7 +1038,7 @@ Keine Antwort, Funke ließ sich nicht anöden.
 
 »Also ist’s gestattet …« Er rieb sein Feuerzeug an.
 — In demselben Moment erlosch der Scheinwerfer oben,
-wurde jedoch sofort durchs eine elektrische Birne nebst Fassung
+wurde jedoch sofort durch eine elektrische Birne nebst Fassung
 ersetzt, die an zwei isolierten Drähten herabschwebte. Sie
 berührte fast den Boden, und wir konnten sie auf den
 <@pagebreak/>
@@ -1065,7 +1067,7 @@ Mädchen dort nebenan sei unser Gast von Gestern abend …
 Haben Sie etwas gegen diese Unterstellung, heller Funke?
 
 Sie schweigen, also stimmt diese Annahme. Es ist also
-das Mädchen mit dem Schleier und den Andeutugnen. Wir
+das Mädchen mit dem Schleier und den Andeutungen. Wir
 sollen uns nicht mit ihr in Verbindung setzen. Aber wir
 sind Kavaliere, Funke. Wir können es nicht dulden, daß
 nebenan eine junge Dame im grünen Schatten dieser fiebrig-feuchten,
@@ -1080,7 +1082,7 @@ leiden an Schlaflosigkeit … Also, abends, Funke,
 Er blinzelte mich belustigt an. Seine eigentümliche
 <@pagebreak/>
 Heiterkeit blieb mir unverständlich. Nachdem er seine Zigarette
-aufgetaucht hatte, legte er sich auf das eine Bett
+aufgeraucht hatte, legte er sich auf das eine Bett
 und schlief Vorrat.
 
 Ich auch — auf dem anderen Bett. Gegenüber von Kugeln
@@ -1177,7 +1179,7 @@ Vater drei Jahre im Zuchthaus schmachten?!«
 
 Das Mädchen wurde geisterbleich.
 
-»… Im … Zucht … Haus?! Vater … im Zuchthaus?!
+»… Im … Zucht … haus?! Vater … im Zuchthaus?!
 Oh — das kann nicht wahr sein …!«
 
 Unter Harsts ernstem Blick sank sie weinend auf ihr
@@ -1186,7 +1188,7 @@ Bett und vergrub den Kopf in die Arme.
 <h2>5. Kapitel.</h2>
 <h3>Die Wappentruhe.</h3>
 
-In diesem schlanken Mädel steckte ein Riese an Energie,
+In diesem schlanken Mädel steckte ein Riese an Energie.
 Sie beherrschte sich sofort wieder, sie trocknete die Tränen,
 sie saß aufrecht da und starrte lange still vor sich hin.
 Ihre Züge waren gramerfüllt und verwirrt, zuweilen seufzte
@@ -1230,16 +1232,16 @@ drei Jahre Zuchthaus wegen Totschlags. — Und — wer sind
 Sie?!«
 
 Ihre großen Augen hafteten unverwandt an seinem
-Hageren Gesicht. Sie stöhnte leise auf. »Mein Gott!!« sagte
+hageren Gesicht. Sie stöhnte leise auf. »Mein Gott!!« sagte
 sie nur, und ihre Augen füllten sich langsam mit Tränen.
 »Mein Gott, — das ist grausam, das ist unmenschlich,
 — — das ist …« — sie verstummte und erhob sich rasch.
-»Verlangen -Sie von mir keine weiteren Erklärungen, Herr
+»Verlangen Sie von mir keine weiteren Erklärungen, Herr
 Harst. Mit alledem muß ich ganz allein fertig werden.
 Wenn Sie ein Herz haben, lassen Sie mich gehen und
 spüren Sie mir nicht weiter nach. Ich stehe hier vor
 Rätseln, die vielleicht …« — wieder brach sie mitten
-im Satze ab. Sie hatte den Kopf zur Sie gedreht und
+im Satze ab. Sie hatte den Kopf zur Seite gedreht und
 dorthin geschaut, wo der Lichtkegel meiner Taschenlampe in
 einer Ecke dieses Nebenraumes des Kartoffelkellers einen
 uralten verrosteten eisernen Kasten, eine eiserne Truhe aus

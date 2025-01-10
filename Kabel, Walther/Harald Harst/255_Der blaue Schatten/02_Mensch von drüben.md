@@ -75,7 +75,7 @@ tat’s hinter dem …«
 
 Leider sollte Harst seine recht interessanten Ausführungen
 zur Zeit nicht beenden dürfen. Wahrscheinlich hätte
-er noch einiges über den heilen Funken eingeflochten,
+er noch einiges über den hellen Funken eingeflochten,
 wahrscheinlich hätte er auch Edith in diesem Zusammenhang
 noch erwähnt. Er hatte ja offenbar den »Geist« weit
 genauer beobachtet als ich und sich ebenso bereits eine bestimmte
@@ -124,7 +124,7 @@ geworfen hatte — seine Körperkräfte waren erstaunlich
 und seine Gestalt von imponierendem Ausmaß —,
 hatten wir uns gegenseitig sehr bald von den dünnen Stricken
 befreit und standen nun naß bis auf die Haut inmitten
-niederstürzender Regenmassen, die jede Orientierung Unmöglich
+niederstürzender Regenmassen, die jede Orientierung unmöglich
 machten. Das Auto war längst auf und davon, und
 ein Staketenzaun, Unkraut und ein paar Bäume besagen
 bei solcher Finsternis sehr wenig. Dann loderte eine Feuersäule
@@ -439,7 +439,7 @@ Neigung für phantastische Pläne recht energisch sein kann,
 verlangte nun von mir, ich solle Dita auf jeden Fall entführen,
 damit nicht etwa Sie uns irgendwie hindernd in
 den Weg träten. So fand ich mich denn bei Ihnen ein,
-belog Sie, suchte Sie auszuhorchen, Dita war zur selben
+belog Sie, suchte Sie auszuhorchen. Dita war zur selben
 Zeit bereits unsere Gefangene. Sie haben sie ja im Auto
 gesehen. Auch das sollte so sein, — meine Frau meinte
 eben, wir müßten den Tatbestand nach Möglichkeit verwirren
@@ -664,7 +664,7 @@ Funkes arg mitgenommenem Anzug, und sichtlich interessiert
 fragte er nun: »Kommen Sie aus einem Kerichthaufen,
 Funke?! Es scheint, Sie haben sich als bußfertiger
 Sünder nicht nur das Haupt mit Asche bestreut … —
-Aber nehmt hoch Platz, — — Sie auch, Funke … Suchen
+Aber nehmt doch Platz, — — Sie auch, Funke … Suchen
 Sie noch immer den Grafen Jobst Zernin?!«
 
 Funke trat rasch ganz dicht vor Lücke hin.
