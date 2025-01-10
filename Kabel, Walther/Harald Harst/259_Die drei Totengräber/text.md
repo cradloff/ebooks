@@ -54,8 +54,8 @@ die im Hotel Bayernhof in Tölz allabendlich spielte,
 
 »Hektor Grandville,« sagte Harst und folgte ihm mit den
 Blicken. Der junge Künstler bog in den nahen Garten des
-Schloß-Kaffees ein. »Diese drei Grandvilles haben alle die-
-selben melancholischen Augen. Ihr Spiel ist vielleicht deshalb
+Schloß-Kaffees ein. »Diese drei Grandvilles haben alle dieselben
+melancholischen Augen. Ihr Spiel ist vielleicht deshalb
 seelisch so vertieft, weil sie ein geheimes Leid mit sich
 umhertragen.«
 
@@ -79,7 +79,7 @@ das Postauto erwarten. Ich schlug vor, noch bis
 Greiling zu wandern, — das dortige Gasthaus hätte eine
 verlockende Speisenkarte.
 
-»Bei dir gibt immer der Magen den Ausschlag!» sagte
+»Bei dir gibt immer der Magen den Ausschlag!« sagte
 Harst nachsichtig.
 
 In einer sandigen Schlucht vor dem Orte Greiling
@@ -100,8 +100,8 @@ Das Gewitter kam näher. Hier schien noch die Sonne,
 aber in wenigen Minuten würden wir pudelnaß sein.
 
 Grandville saß mit dem Rücken nach der Straße hin
-und hatte uns noch nicht gesehen. Er sprach mit einem weiß-
-bärtigen Zigeuner, der behaglich an einer Zigarre sog, die
+und hatte uns noch nicht gesehen. Er sprach mit einem weißbärtigen
+Zigeuner, der behaglich an einer Zigarre sog, die
 sicherlich ein Geschenk des Geigers war,
 
 »Er mag als Musiker Interesse für die Fahrenden
@@ -117,8 +117,8 @@ wenig verlegen. »Ah, Sie, Herr Harst …«
 
 <@pagebreak/>
 »Ja, Schraut und ich, Herr Grandville, — auch von
-Tegernsee kommend … Ich glaube Sie vormittags in Wies-
-See gesehen zu haben … Schraut trank einen Becher Jodquelle,
+Tegernsee kommend … Ich glaube Sie vormittags in Wiessee
+gesehen zu haben … Schraut trank einen Becher Jodquelle,
 ich war in die Vorberge geklettert. Auch dort lagerten
 Zigeuner, und Sie sprachen mit Ihnen, Herr Grandville,«
 
@@ -142,8 +142,8 @@ Das Zelt war im Nu fertig. Die drei Mark, die Harst
 spendete, machten selbst diese faulen Schlingel geläufig.
 
 Es regnete in Strömen. Wir hockten zu dreien unter der
-vielfach geflickten, geteerten Leinwand auf magerem Gras-
-Boden. Durch den Zelteingang sahen wir unaufhörlich Blitze
+vielfach geflickten, geteerten Leinwand auf magerem Grasboden.
+Durch den Zelteingang sahen wir unaufhörlich Blitze
 aufleuchten und konnten dann auch unsere Gesichtszüge für
 Sekunden unterscheiden.
 
@@ -162,15 +162,15 @@ fort. Harst erzählte von den westpreußischen und Berliner
 Zigeunerkolonien … Grandville ging in keiner Weise aus
 sich heraus, im Gegenteil, ihm schien dieses Thema nicht
 zu behagen. Sein melancholisches Gesicht, seine ausdrucksvollen
-träumerisch-schwermütigen Augen waren der Zelt-
-Öffnung zugekehrt, und wohl absichtlich begann er von den
-Mittenwalder Geigenbauern allerhand Interessantes zu be-
-richten. — Das Dorf Mittenwald an der Tiroler Grenze
+träumerisch-schwermütigen Augen waren der Zeltöffnung
+zugekehrt, und wohl absichtlich begann er von den
+Mittenwalder Geigenbauern allerhand Interessantes zu berichten.
+— Das Dorf Mittenwald an der Tiroler Grenze
 ist noch heute seiner Geigenbauindustrie wegen berühmt.
 Man passiert es auf dem Wege nach dem Bergpaß zum
 Inntal, und meine Leser und Freunde werden sich entsinnen,
-daß wir dort vor einem Jahr die Fährte eines Verbrecher-
-Paares wiederfanden.
+daß wir dort vor einem Jahr die Fährte eines Verbrecherpaares
+wiederfanden.
 
 Kaum hatte dann das Gewitter ausgetobt, als Grandville
 sich verabschiedete — mit auffälliger Hast und mit der
@@ -221,7 +221,7 @@ sagte in seinem wunderlichen Sprachenmischmasch: »War der
 junge Signore wirklich ein Musikant, Herr?«
 
 Harst betrachtete des Alten verwittertes Gesicht mit
-merklicher Neugier. »Er ist Geiger. — Wie heißen Sie?"
+merklicher Neugier. »Er ist Geiger. — Wie heißen Sie?«
 
 »Josef Lanos, Herr … — Kennen Sie den Signore
 genauer?«
@@ -279,8 +279,8 @@ Der Bengel blickte Harst verständnislos an, faßte an
 seinen Filz und trottete mit dem Bären dem Wagen nach.
 
 Eine halbe Stunde später lagen wir hinter dem Steinwall
-einer Wiese und beobachteten, wie die drei Zigeuner-
-wagen eilends auf schmalem Feldweg gen Süden Zogen,
+einer Wiese und beobachteten, wie die drei Zigeunerwagen
+eilends auf schmalem Feldweg gen Süden Zogen,
 nach den dicht bewaldeten Gaisacher Bergen.
 
 »Ich glaube, Hektor Grandville hat hier in ein Wespennest
@@ -289,7 +289,7 @@ Greiling Proviant, Wolldecken und eine Laterne. Ich werde
 für dich den Weg, den die Zigeuner nehmen, durch Grasbüschel
 kennzeichnen. Ich möchte die Leute im Auge behalten.
 Der Kerl neben dem Hunde und die Fidel verheißen
-so allerhand .,,«
+so allerhand …«
 
 <@pagebreak/>
 
@@ -297,8 +297,8 @@ so allerhand .,,«
 
 <h3>Das Mädchen aus dem Bärenkarren,</h3>
 
-Als wir morgens sechs Uhr nach einer ziemlich an-
-itrengenden Nacht in Tölz im Bayernhof eintrafen, empfing
+Als wir morgens sechs Uhr nach einer ziemlich anstrengenden
+Nacht in Tölz im Bayernhof eintrafen, empfing
 uns der Hausdiener mit der betrübenden Nachricht, daß
 Hektor Grandville von seinem gestrigen Ausflug nach Tegernsee
 nicht zurückgekehrt sei. Außerdem habe man auch bisher
@@ -325,8 +325,8 @@ Stunden zwecklos im Dickicht gelegen. Kein einziger des
 Trupps hatte sich entfernt, die Bande war bis Tagesanbruch
 vollzählig geblieben und hatte sich erst auf ihre Art hinter
 einem großen Felsen, der den Schein des Lagerfeuers nach
-dem Tale hin abfing, weidlich bei Schnaps und Würfels-
-spiel vergnügt und waren dann unter die Decken gekrochen,
+dem Tale hin abfing, weidlich bei Schnaps und Würfelspiel
+vergnügt und waren dann unter die Decken gekrochen,
 — für uns das Zeichen zum Aufbruch. Nichts
 hatten wir erlauscht, und jetzt waren wir so todmüde, daß
 <@pagebreak/>
@@ -352,8 +352,8 @@ denn das arme Vieh damit zu schaffen?!«
 »Du vergißt des Bären scharfe Nase, mein Alter …
 Es ist durchaus wahrscheinlich, daß er uns gewittert hat.
 Der Alte hatte ihn abseits von den Wagen angebunden, und
-die Bestie war ziemlich unruhig, als wir uns näher heran-
-wagten. Zigeuner als halbe Naturkinder beobachten scharf,
+die Bestie war ziemlich unruhig, als wir uns näher heranwagten.
+Zigeuner als halbe Naturkinder beobachten scharf,
 sind allzeit mißtrauisch. Ich fürchte, die Kerle wußten, daß
 wir neben dem kleinen Plateau im Dickicht steckten.«
 
@@ -369,8 +369,8 @@ und daß er ihnen durch eins der Weiber oder Kinder
 Nachricht sandte, dem Lager fern zu bleiben. Es ist auch nicht
 ausgeschlossen, daß dieser kleine Nachtrupp in der Nacht
 genau so frech die beiden älteren Grandvilles abfing …
-Man muß hier mit den Faktoren rechnen, die eben der sach-
-Lage nach als einzig richtig sich erweisen. Diese Sachlage
+Man muß hier mit den Faktoren rechnen, die eben der Sachlage
+nach als einzig richtig sich erweisen. Diese Sachlage
 <@pagebreak/>
 ist die: Drei gebildete Herren, Besitzer eines Gutes und
 nebenbei Barone, denn die Familie Grandville heißt mit
@@ -388,8 +388,8 @@ Verhalten uns gegenüber beweist, daß ihn unsere Gegenwart
 stört. Sofort nach Abzug des Gewitters fährt er davon
 und langt hier in Tölz nicht an,«
 
-ich sitze jetzt in der Sofaecke und nicke etwas geistesab-
-wesend. »Das alles ist zur Hälfte nur durch fadenscheinige
+ich sitze jetzt in der Sofaecke und nicke etwas geistesabwesend.
+»Das alles ist zur Hälfte nur durch fadenscheinige
 Indizien gestützt. Wir Haben in Tegernsee durch die
 Zeitungsnotiz über das verschwundene und nunmehr von
 fünf Vätern reklamierte Kind unsere Gedanken für diese
@@ -404,19 +404,19 @@ Harst nahm eine Zigarette und sagte bissig:
 immer. Möchtest du mir vielleicht erklären, wie der Bengel,
 der den Tanzbär am Seil führte, uns zurufen konnte, die
 Fiedel würde nicht verkauft?! Woher wußte der Bursche,
-der doch zu dem zweiräderigen Karren des Schwarzen ge-
-hörte, von Grandvilles Handel um die alte Geige?! Der
-Karren war weit zurück. Also muß Hektor auch diesen Nach-
-Trupp angesprochen haben. Vielleicht war dies für ihn ver-
-hängnisvoll. Vielleicht lag in dem überdachten Karren ein
+der doch zu dem zweiräderigen Karren des Schwarzen gehörte,
+von Grandvilles Handel um die alte Geige?! Der
+Karren war weit zurück. Also muß Hektor auch diesen Nachtrupp
+angesprochen haben. Vielleicht war dies für ihn verhängnisvoll.
+Vielleicht lag in dem überdachten Karren ein
 Motorrad und ein gefesselter und geknebelter Mann,«
 
 <@pagebreak/>
 Es gibt geringe Anlässe, die uns aus dumpfer Gleichgültigkeit
 im Nu aufrütteln. Wenn ich soeben noch Harsts
 ganze Theorie als haltlos verworfen hatte, so gewannen die
-Dinge nunmehr auch für mich ein gänzlich anderes Aus-
-sehen. Meine Müdigkeit war verflogen. So ergeht es mir
+Dinge nunmehr auch für mich ein gänzlich anderes Aussehen.
+Meine Müdigkeit war verflogen. So ergeht es mir
 stets. Ich erwärme mich schwer für einen neuen Fall. Bin
 ich erst warm geworden, so gleiche ich dem Schweißhund,
 der eine frische Spur aufgenommen hat,
@@ -425,14 +425,14 @@ der eine frische Spur aufgenommen hat,
 und läutete nach dem Stubenmädchen.
 
 »Anni, bitte schleunigst zwei Portionen Mokka extra
-stark …»
+stark …«
 
 »Und je zwei Eier, Schinken und sechs belegte Brote
 zum Mitnehmen verpackt,« ergänzte Harst befriedigt.
 
 Die blonde Anna mit dem Wuschelkopf sagte mißbilligend:
 
-»Ins Bett sollten’s gehen ...« Sie war sehr auf unser
+»Ins Bett sollten’s gehen …« Sie war sehr auf unser
 Wohl bedacht.
 
 »Später, Anni …«
@@ -448,7 +448,7 @@ hatte, war uns neu. Anni kam und meldete mit jenem säuerlichen
 Lächeln, hinter dem sich Neid verbirgt, Fräulein
 Gerda Gard,
 
-«… Das Fräulein ruft jeden Morgen den Herrn Hektor
+»… Das Fräulein ruft jeden Morgen den Herrn Hektor
 an, wann’s ins G’schäft kommt,« erläuterte Anni redselig.
 »Retoucheus’ ist sie beim Steindl droben … Heut’ war’s
 nix mit’m Morgengruß, und der Herr Roth hat ihr halt
@@ -482,7 +482,7 @@ wirklich schrecklich besorgt.«
 
 Harst trank einen Schluck Mokka. »Sie müssen es schon
 mir überlassen, den Dingen auf meine Art auf den Grund
-zu kommen, Fräulein Gard. -- Sie sind nicht aus Bayern?«
+zu kommen, Fräulein Gard. — Sie sind nicht aus Bayern?«
 
 Sie zögerte wieder. »Nein, aus Berlin …«
 
@@ -497,13 +497,12 @@ in Tegernsee gesehen? Er war doch dort … Er fährt viel
 zu oft mit seinem Rade umher.«
 
 Ihre Braunäuglein waren schlecht geschult. Sie konnte
-nicht recht schauspielern. Ihre Blicke bekamen etwas Hinter-
-hältiges.
+nicht recht schauspielern. Ihre Blicke bekamen etwas Hinterhältiges.
 
 »Wir sprachen ihn flüchtig,« erwiderte Harst vorsichtig.
 
 »und Sie beide waren die ganze Nacht weg, sagte der
-Hausdiener .,, Wissen Sie etwas? Ist Hektor etwas zugestoßen?«
+Hausdiener … Wissen Sie etwas? Ist Hektor etwas zugestoßen?«
 
 <@pagebreak/>
 Harst nickte. »Wir lieben es, mal eine Nacht im Freien
@@ -518,17 +517,17 @@ mitgenommen, obwohl ich …«
 »Weshalb fährt er so viel umher?«
 
 Sie senkte schnell den Kopf und hob die Schultern. »Oh,
-er ist sehr verschwiegen …"
+er ist sehr verschwiegen …«
 
 »Mithin vermuten Sie, er hält sich das Motorrad nicht
-lediglich zum Vergnügen …"
+lediglich zum Vergnügen …«
 
 Sie merkte, daß sie sich verplappert hatte, und sie
 beging nun abermals einen Fehler. Sie stand hastig auf.
 
-"… Ich muß ins Geschäft … Ich vermute gar nichts.
+»… Ich muß ins Geschäft … Ich vermute gar nichts.
 Wie sollte ich …?!« Und noch unaufrichtiger klang der
-Nachsatz: »Herr Grandville liebt die Natur …»
+Nachsatz: »Herr Grandville liebt die Natur …«
 
 »Und die Zigeuner …« fügte Harst hinzu.
 
@@ -541,24 +540,24 @@ in der Hand.
 
 »Ich … ich muß wirklich weg,« flüsterte sie geradezu
 verängstigt. »Weshalb starren Sie mich so an, Herr Harst?!
-Ich … ich ... glaubte, Sie seien so ganz anders, und nun
+Ich … ich … glaubte, Sie seien so ganz anders, und nun
 … quälen Sie mich durch allerlei Fragen, die …«
 
-«... Die jetzt erst beginnen,« sagte Harst drohend.
+»… Die jetzt erst beginnen,« sagte Harst drohend.
 »Setzen Sie sich wieder … Wo waren Sie gestern nachmittag
 gegen sechs Uhr?«
 
 Gerda Gards Wangen erbleichten. Ein Zittern lief über
 ihre Gestalt hin, ihre Hände griffen mit einem qualvollen
-Seufzer ins Leere. Harst sprang zu und legte die Ohn-
-mächtige auf den Diwan.
+Seufzer ins Leere. Harst sprang zu und legte die Ohnmächtige
+auf den Diwan.
 
 »Sie war in dem Bären-Karren,« meinte er leise
 <@pagebreak/>
 mir, als er ihr die Schläfen mit Toilettenessig rieb. »Ich
 wünschte, Lückes Brief wäre bereits in meinem Besitz. Dieser
 Fall spielt bis Berlin hinüber. Gerda Gard ist als Spionin
-Hier nach Tölz gekommen. Wer ist ihr Auftraggeber?!"
+Hier nach Tölz gekommen. Wer ist ihr Auftraggeber?!«
 
 Sie erwachte sehr bald, und Harst entließ sie nach
 einigen belanglosen Redensarten, ohne seine verfängliche
@@ -576,8 +575,8 @@ Rucksäcken und Bergstöcken Gerda Gard aus dem Badeteil
 in der unteren Marktstraße im Hause des Herrn Steindl
 verschwand und wir flüsternd berieten, wem wir ihre Überwachung
 anvertrauen könnten, erschien neben uns an dem
-Schaufenster der Papierhandlung, vor dem wir gerade stan-
-den, ein dicker Herr mit feistem, bärtigen Gesicht — einer
+Schaufenster der Papierhandlung, vor dem wir gerade standen,
+ein dicker Herr mit feistem, bärtigen Gesicht — einer
 der Tölzer »Salontiroler« zu dem die Älplertracht
 etwa so gut paßte wie zu einem rosigen Mastferkel, ein
 blanker Zylinderhut.
@@ -587,8 +586,8 @@ Sie mir vielleicht einen spannenden Roman empfehlen?«
 Er deutete auf die Bücher im Fenster. »Ich Schwärme für
 Kriminalromane, wissen Sie … Ich finde diese Art Lektüre
 so ungeheuer belustigend. Letztens las ich ein Buch, in
-dem eine kleine zierliche Retoucheuse mit braunen Sphinx-
-Augen mitwirkte, wissen Sie … Ich finde an sich Retoucheusen
+dem eine kleine zierliche Retoucheuse mit braunen Sphinxaugen
+mitwirkte, wissen Sie … Ich finde an sich Retoucheusen
 schon sehr interessant … Fremder Leute Gesichter
 verderben, — wer darf das wohl?! Und so ein
 kleines Mädel pinselt da einfach Menschenschicksale zurecht
@@ -599,8 +598,8 @@ Wir starrten den Salontölzer sprachlos an.
 Er lächelte munter. »Nicht wahr, Sie staunen?! Nun,
 andere Leute sind auch noch da, wissen Sie … Gestatten:
 Roderich Fell, Rentier … Zur Zeit Kurgast, Jodtrinker
-und bemitleidenswertes Opfer eines Masseurs, Ganz-
-massage, jeden zweiten Tag, — Preis drei Mark. — Das
+und bemitleidenswertes Opfer eines Masseurs, Ganzmassage,
+jeden zweiten Tag, — Preis drei Mark. — Das
 Haus da drüben, in dem Gerda Gard pinselt, hat nur einen
 <@pagebreak/>
 Ausgang. Überlassen Sie sie nur mir … Das Postamt
@@ -620,7 +619,7 @@ wissen Sie. Sie beide erkannte im sofort, außerdem hörte
 ich von Herrn Roth, daß Sie bei ihm abgestiegen sind.
 In Berlin wohne ich in der Neanderstraße, — dicke Luft
 dort, viel Benzin. Mir gegenüber haust dort Fräulein
-Gerda Gard, wissen Sie ...: Erste Etage, fünf Zimmer,
+Gerda Gard, wissen Sie …: Erste Etage, fünf Zimmer,
 Beruf: Photographin. Als ich sie wiedersah, kümmerte ich
 mich so ein wenig um ihre hiesigen … hm ja, Verhältnisse.
 Auch ich radle, um dünn zu werden. Wissen Sie, — gestern
@@ -642,8 +641,8 @@ Er nickte uns zu und ging an das andere Schaufenster. —
 Als das Mietauto mit uns gen Greiling jagte, sagte
 Harst kopfschüttelnd:
 
-»Wer ist Roderich Fell?! Ein Rentier aus Berlin, be-
-Hauptes er. Eine ziemlich naive Behauptung, finde ich. Er
+»Wer ist Roderich Fell?! Ein Rentier aus Berlin, behauptete
+er. Eine ziemlich naive Behauptung, finde ich. Er
 <@pagebreak/>
 sieht zwar wie ein biederer Bäckermeister aus, der sich nunmehr
 zur Ruhe gesetzt hat und das nötige Geld dazu hat.
@@ -671,7 +670,7 @@ Und er fügte selbst als Antwort hinzu, indem er sich,
 soll es Regen geben. Sie sehen wie zu kurz geratene
 Schlangen aus. Herr Roderich Fell würde unbedingt sagen:
 »Wissen Sie, — ich finde, es liegen hier sehr viel Teerschnecken
-umher …"
+umher …«
 
 »Was meinst du damit?« — ich hatte gerade am
 Wegrande einen gedrungenen Knaben sitzen sehen. »Du, war
@@ -684,9 +683,9 @@ im Tölzer Tageblatt von vorgestern wieder auf. Ein Anonymus
 berichtete da über die Alpenzigeuner und ihre Organisation
 und geheimen Zeichen. Sie sollen Teerschnecken
 mit dünnen Stäbchen auf den Wegen festspießen, und diese
-Schnecken sollen anderen Trupps bestimmte Nachrichten über-
+Schnecken sollen anderen Trupps bestimmte Nachrichten übermitteln.
 <@pagebreak/>
-Mitteln. Ich weiß nicht, ob das den Tatsachen entspricht, aber
+Ich weiß nicht, ob das den Tatsachen entspricht, aber
 ich habe hier bereits vier aufgespießte Weichtiere dieser
 Art bemerkt. Weißt du, ich finde das etwas viel für den
 Anfang, und der Zigeunerbengel war natürlich eine Schildwache
@@ -707,8 +706,8 @@ und scheinbar nur für seine nackten Füße Interesse hatte.
 
 Die Kirchturmuhr schlug elf, als zwei unfehlbar echte
 ältere Gebirgler mit Rucksäcken den Goldenem Adler durch
-die Hintertür verließen und eine leibhaftige Kuh den Feld-
-weg entlangtrieben, der sich bis zum Fuße der Gaisacher
+die Hintertür verließen und eine leibhaftige Kuh den Feldweg
+entlangtrieben, der sich bis zum Fuße der Gaisacher
 Berge durch Wiesen, Täler und kleine Gehölze schlängelte.
 
 Ich hatte noch nie eine Kuh getrieben, und anfänglich
@@ -760,12 +759,12 @@ Zigeuner dort im Bergwalde. Wir sind zwei Gelehrte, die
 gern die Sitten der Leute studieren möchten.«
 
 Zehn Mark sind für Älpler eine Menge Geld. Die
-Tochter erklärte dann auch, das wär' schon möglich, daß Zigeuner
+Tochter erklärte dann auch, das wär’ schon möglich, daß Zigeuner
 hier irgendwo lagerten, sie habe drüben in Gaisach
-heut früh fünf Teerschnecken am Wegrande gefunden — aufgespießt,
+heult früh fünf Teerschnecken am Wegrande gefunden — aufgespießt,
 und neben den Schnecken hätten im Lehm Grashalme
 <@pagebreak/>
-gelegen, und das täten halt die Zigeuner so ..,
+gelegen, und das täten halt die Zigeuner so …
 Man müsse sich gut mit ihnen stellen, denn schon so manche
 Scheune sei dort abgebrannt, wo man »dös Gelump« weggewiesen
 hab’, wenn sie bettelten.
@@ -784,11 +783,11 @@ vermochten die Angst des Mannes vor der schwarzen
 Schnecke nicht zu zerstreuen. Er schwieg hartnäckig, und nur
 die Deern, die uns noch zwei Pfund selbstgeräucherten Speck
 abließ, flüsterte uns beim Abschied heimlich zu, wir sollten
-grad' heut’ nicht die Zigeuner aufsuchen, heut' sei der
+grad’ heut’ nicht die Zigeuner aufsuchen, heut’ sei der
 24\. Juni und Sonnwendfest, und sie seien doch alles finstere
 Heiden und es ginge die Red’, sie schlachteten in dieser
 Nacht sogar Kinder ab — als Opfer für ihre Götzen und
-zu Ehren der schwarzen Schneke: ihres Oberhäuptlings …
+zu Ehren der schwarzen Schnecke: ihres Oberhäuptlings …
 Das sei schon wahr, denn ihr Vater wüßt ’s halt am besten.
 
 Dann eilte sie ins Haus zurück, und wir erkletterten
@@ -830,12 +829,12 @@ natürlichem Liebreiz Schönheitsrichter zu spielen.
 »Meine Nichten Vera und Helga von Gornack,« stellte
 Gisela zwanglos vor. »Sie, meine Herren, sind uns von
 Ansehen gut bekannt … Was eigentlich selbstverständlich
-ist ..."
+ist …«
 
 Harst erwiderte zurückhaltend: »Selbst in dieser Maske,
-gnädige Frau?« Die Witwenringe an Giselas Hand recht-
-fertigten diese Anrede. »Sollen Sie etwa mit Ihrem Fern-
-Glas den Weg von Tölz nach Greiling im Auge behalten
+gnädige Frau?« Die Witwenringe an Giselas Hand rechtfertigten
+diese Anrede. »Sollen Sie etwa mit Ihrem Fernglas
+den Weg von Tölz nach Greiling im Auge behalten
 haben, gnädige Frau? Oder sollte Herr Roderich Fell Ihnen
 durch seine Garde irgendwie signalisiert haben, daß Harst
 und Schraut im Anzuge seien?!«
@@ -850,8 +849,8 @@ hastig.
 »Ja … — Wissen Sie, ich finde daß auch ganz in
 der Ordnung, gnädige Frau,« nickte Harst.
 
-»Wissen Sie … finden Sie, — es ist Fells Lieblings-
-Redensart,« lächelte Gisela belustigend, wurde jedoch sofort
+»Wissen Sie … finden Sie, — es ist Fells Lieblingsredensart,«
+lächelte Gisela belustigend, wurde jedoch sofort
 <@pagebreak/>
 wieder ernst. »Fell hat tatsächlich signalisiert. Leider hat
 er aber auch gegen meine klare Anweisung gehandelt, Sie
@@ -862,52 +861,52 @@ der geneigte Ort, diese Dinge zu besprechen. Wenn Sie uns
 bitte folgen wollen … — Vermeiden Sie jedoch alle weichen
 Stellen des Bodens … Die Leute haben so scharfe Augen,
 und dieses Zeichen hier warnt genügend.« Sie deutete auf
-die Teershnecke und die Grashalme und begann dann die
+die Teerschnecke und die Grashalme und begann dann die
 Schlucht emporzuklimmen, indem sie stellenweise von Stein
 zu Stein sprang.
 
 Es wurde ein mühsamer, schweigsamer Anstieg bis zu
 der kleinen versteckten Almhütte, neben der acht Kühe und
 zwei Kälber in einem Gehege aus Bäumen und Steinen
-weideten. Keins der Tiere trug eine Glocke, und der ur-
-alte Hirt, der vor der Tür in der Sonne saß, mußte
+weideten. Keins der Tiere trug eine Glocke, und der uralte
+Hirt, der vor der Tür in der Sonne saß, mußte
 von Frau Gisela eine strenge Zurechtweisung hinnehmen,
 weil auf dem Herde feuchtes Holz brannte und der Schornstein
 allzu stark qualmte.
 
-Wl das war so merkwürdig, daß ich sogar für das
+All das war so merkwürdig, daß ich sogar für das
 Landschaftsbild zu meinen Füßen wenig Interesse aufbrachte.
 Man konnte von hier den Bogen der grünen Isar mit den
-bellen Sandbänken bis nach Sonderlich hin verfolgen, man
-saß die Benediktenwand grau und steil in den Himmel ragen,
-man »erkannte die fernen Spitzen des Karwendel, und
-hinter diesen in bläulichen seinen Dunst gehüllten Ketten
-lag Ausdruck, die -Andreas-Toter-Stadt,
+hellen Sandbänken bis nach Vorderriß hin verfolgen, man
+sah die Benediktenwand grau und steil in den Himmel ragen,
+man erkannte die fernen Spitzen des Karwendel, und
+hinter diesen in bläulichen feinen Dunst gehüllten Ketten
+lag Insbruck, die Andreas-Hofer-Stadt,
 
-»Etwas Neues zu melden, Nadel?« fragte die bildhübsche
+»Etwas Neues zu melden, Xaver?« fragte die bildhübsche
 Witwe dann den Alten, der auf den Knien ein
-langes Messingfernrohr zu Hegen hatte,
+langes Messingfernrohr zu liegen hatte,
 
-»Nichts, Frau Gräfin …
+»Nichts, Frau Gräfin …«
 
-»Ich werde das Feuer auslöschen, « meinte sie kurz.
-»Sie passen jetzt gut auf, Raver … Sobald am Mai«
-darin üÜt Greiling Klüger he je, in Aden Sir gar
+»Ich werde das Feuer auslöschen,« meinte sie kurz.
+»Sie passen jetzt gut auf, Xaver … Sobald am Maibaum
+in Greiling Flaggen hochgehen, melden Sie es.«
 
 <@pagebreak/>
 All das wurde immer merkwürdiger.
 
 Wir betraten die Hütte. Sie war durch eine Wand aus
-frischen »’Janunenzweigen, die man dicht ineinander verflochten
-hatte, in zwei Teile getrennt, Rechts befand sich der
+frischen Tannenzweigen, die man dicht ineinander verflochten
+hatte, in zwei Teile getrennt. Rechts befand sich der
 einfache Herd, ein Tisch, ein Stuhl und Xavers Lagerstatt,
-links … dagegen drei eiserne, zusammengeklappte Betten, ein
-größerer Tisch, vier Schemel, einige Weltferner und …
+links dagegen drei eiserne, zusammengeklappte Betten, ein
+größerer Tisch, vier Schemel, einige Melkeimer und …
 drei Damenfahrräder,
 
-… Die Gräfin ’ bat uns Platz zu nehmen, nachdem sie
-das Herdfeuer gedämpft hatte. »Berg, bleibe draußen bei
-Xaver,« befahl sie energisch. »Und: du, Helga, kannst die
+Die Gräfin bat uns Platz zu nehmen, nachdem sie
+das Herdfeuer gedämpft hatte. »Vera, bleibe draußen bei
+Xaver,« befahl sie energisch. »Und du, Helga, kannst die
 Schlucht bewachen.«
 
 Die jungen Mädchen verließen uns. Die Rucksäcke hatten
@@ -917,14 +916,14 @@ sie abgelegt.
 meine Herren,« erklärte Frau Gisela sehr sachlich und blickte
 Harst mit einer gewissen Neugier an. »Also Sie sind Herr
 Harst … Ich will ehrlich sein: Ich hätte weit lieber ohne Sie
-beide meine Aufgabe erledigt. Es ist so unendlich) viel Unklares
-bei alledem — — und Rohr) mehr rein Persönliches.«
+beide meine Aufgabe erledigt. Es ist so unendlich viel Unklares
+bei alledem — — und noch mehr rein Persönliches.«
 Sie errötete flüchtig.
 
 »Es scheint so, Frau Gräfin …« erwiderte Harst und
 stopfte seine kurze Pfeife. »Sie gestatten doch …«
 
-34G rauche selbst. — So, wie die Dinge jetzt liegen,
+»Ich rauche selbst. — So, wie die Dinge jetzt liegen,
 muß ich wohl offen sein.« In ihren dunklen Augen erschien
 ein düsterer Schimmer, und ihre gebräunte Hand fuhr nervös
 über die Tischplatte hin. »Ich weiß alles … Die drei
@@ -936,208 +935,207 @@ Harst lehnte sich mit den Unterarmen auf den Tisch
 und entgegnete nur: »Schraut und ich stehen hier vor
 einem Rätsel, das uns immer neue dunkle Seiten zeigt,
 Frau Gräfin. Wir sind angenehm überrascht, denn wir
-fürchteten, den drei Baronen könnte etwas zugestoßen sein.
+fürchteten, den drei Baronen könnte etwas zugestoßen sein.«
 
 <@pagebreak/>
-Gisela Gornack« lächelte bitter, »Glauben Sie nicht, daß
-ich Ihnen dieses Rätsel völlig lösen …?sagte, — leider nur
-zum geringsten Teil. Ich beschäftige mich damit. seit zwei
-Jahren, ich habe im Vorjahre diese Alm »gekauft, ich habe
+Gisela Gornack lächelte bitter. »Glauben Sie nicht, daß
+ich Ihnen dieses Rätsel völlig lösen könnte, — leider nur
+zum geringsten Teil. Ich beschäftige mich damit seit zwei
+Jahren, ich habe im Vorjahre diese Alm gekauft, ich habe
 diesmal meine Nichten mit hierher genommen und mich schon
 in Berlin im April mit Herrn Alarich Gepp in Verbindung
-gesetzt, mit dem Sie ja noch vor einer Woche in St. Wort
-zusammen waren,««
+gesetzt, mit dem Sie ja noch vor einer Woche in St. Moritz
+zusammen waren,«
 
-Harst richtete sich mit einem Nu auf.
+Harst richtete sich mit einem Ruck auf.
 
-»Gepp? Ist er hier?« …
+»Gepp? Ist er hier?«
 
-»Gier nicht, aber in Tölz, Gepp ist Roderich Fell.«
+»Hier nicht, aber in Tölz. Gepp ist Roderich Fell.«
 
 »Also doch,« nickte Harst. »Mir scheint, Frau Gräfin,
-Schraut und ich hier in letzter Zeit einiges Pech. Herr Gepp
+Schraut und ich haben in letzter Zeit einiges Pech. Herr Gepp
 holt die Trauben immer vor uns von der Rebe und gibt
 uns dann großmütig eine Kostprobe.«
 
 »In diesem Falle, Herr Harst, würde die Kostprobe
 sehr dürftig ausfallen, denn Herr Gepp tappt noch genau so
-im Dunklen wie Sie und im Die Grandvilles und ihr
+im Dunklen wie Sie und ich. Die Grandvilles und ihr
 Treiben müssen jedem Menschen unverständlich bleiben. —
 Lassen Sie mich erzählen … Wir sind Gutsnachbarn. Der
 Älteste, Achim, liebt mich, und Hektor und Charles Grandville
 würden sich ebenfalls wohl längst meinen Nichten erklärt
-haben, wenn eben nicht dieses vollkommen undurchw«-
-dringliche Geheimnis ihnen den Mund verschlösse. Im vorigen
+haben, wenn eben nicht dieses vollkommen undurchdringliche
+Geheimnis ihnen den Mund verschlösse. Im vorigen
 Winter, als Achim wieder einmal seine trüben Anwandlungen
-hatte, fragte im ihn geradezu, aus welchem
+hatte, fragte ich ihn geradezu, aus welchem
 Grunde er und seine Brüder so seltsam verschlossen seien
 und weshalb sie die letzten beiden Sommer angeblich im
-Vorgelände zugebracht hätten, Damals wäre es fast von seiner
-Seite zu einem Liebesgeständnis gekommen, Er nahm meine
+Auslande zugebracht hätten. Damals wäre es fast von seiner
+Seite zu einem Liebesgeständnis gekommen. Er nahm meine
 Hände und rief verzweifelt: »Gisela, wir drei tragen unmenschlich
 hart an einem finsteren Schicksal. Wir sind unserer
-wie die Sklaven … Ich darf nicht sprechen …!!’
-Und dann lief er mir davon — Die Folge war, daß ich,
-ist der Mai Punkte, einen Aufsatz. hing beauftragte, die
+wie die Sklaven … Ich darf nicht sprechen …!!«
+Und dann lief er mir davon. — Die Folge war, daß ich,
+als der Mai nahte, einen Privatdetektiv beauftragte, die
 <@pagebreak/>
 Grandvilles zu beobachten. Sie reisten am 13. Mai in aller
-Schlichen ab … nach Tölz, zum dritten Male, wir
-Detektiv feststellte. Ich mietete mich in Tegernsee ein.
-
+Heimlichkeit ab … nach Tölz, zum dritten Male, wie
+der Detektiv feststellte. Ich mietete mich in Tegernsee ein.
 Ich half die drei Brüder beständig überwachen, ich sah
 sie mit ihren Motorrädern die Umgegend durchstreifen, ich
 fand heraus, daß sie jeden Zigeunertrupp anhielten, sich
 mit den Zigeunern anfreundeten … Ich erfuhr weiter,
 daß sie in den beiden Vorjahren gerade in der Nacht vom 28.
-zum 25. Juni aus Tölz verschwunden waren, — ich, erlebte
-dasselbe im verflossenen Jahre mit ihnen, — am 25, Zum
+zum 25. Juni aus Tölz verschwunden waren, — ich erlebte
+dasselbe im verflossenen Jahre mit ihnen, — am 25. Juni
 abends waren sie wieder im Bayernhof, und dem Besitzer
 Roth erklärten sie, sie hätten sich in den Bergen verirrt
 und Pannen gehabt, — alles natürlich nur Ausreden. Der
-Sommer verging, und am 17, September waren sie wieder
-»infiziert Gute, besuchten mich erzählten von Jagden in
+Sommer verging, und am 17. September waren sie wieder
+auf ihrem Gute, besuchten mich erzählten von Jagden in
 Nordafrika … logen … logen und waren im übrigen
-noch bedrückten und ernster als zuvor, Daß im in Tegernsee
-in ihrer Nähe gewesen, ahnten sie nicht, — Ich raffte
-ich zu einem Entschluß auf. Ich liebe Schirm, er ist ein
+noch bedrückter und ernster als zuvor. Daß ich in Tegernsee
+in ihrer Nähe gewesen, ahnten sie nicht. — Ich raffte
+mich zu einem Entschluß auf. Ich liebe Achim, er ist ein
 Prachtmensch, er ist mir teuer. Ich hatte durch einen bekannten
 Herrn von Kommissar Gepp gehört, dem großen
-Alarich Gepp, bei noch nie einen Fehlschlag erlitten hat,
-dessen wahres Gesicht Freund kennt … Ich schrieb ihm.
-Er schrieb mit Maschine ’rück. Selbst die Unterschrift
-war getippt. Er sagte mir € Hilfe zu. Er würde sich zur
-rechten Zeit in Tölz eintraten Anblick mir als Roderich
+Alarich Gepp, der noch nie einen Fehlschlag erlitten hat,
+dessen wahres Gesicht niemand kennt … Ich schrieb ihm.
+Er schrieb mit Maschine zurück. Selbst die Unterschrift
+war getippt. Er sagte mir seine Hilfe zu. Er würde sich zur
+rechten Zeit in Tölz einfinden und sich mir als Roderich
 Fell nähern und mit mir beraten. Wir haben beraten,
 Herr Harst … Aber es ist nichts dabei herausgekommen,
-die drei -Grandvilles sind abermals verschwunden, und heute
-ist der 24, Juni, … 7« Sie seufzte leise, »Gepp hat nichts
-ausgerichter, und meine Wichten und ich; haben zwecklos
+die drei Grandvilles sind abermals verschwunden, und heute
+ist der 24. Juni, …« Sie seufzte leise. »Gepp hat nichts
+ausgerichtet, und meine Nichten und ich haben zwecklos
 drei Nächte hier in dieser Almhütte geschlafen und uns
 vor den Zigeunern versteckt, die jedes Jahr hier drüben am
 Berghang im Walde an dem großen Felsblock die Sonnenwende
-feiern und die Wege mit eklen Teerschne3en pflastern
+feiern und die Wege mit eklen Teerschnecken pflastern
 <@pagebreak/>
-1d ihre Kulturzeichen daneben legen. — Was haben die
-Krone von Grandville mit diesen Fahrenden zu tun!«
+und ihre Halmzeichen daneben legen. — Was haben die
+Barone von Grandville mit diesen Fahrenden zu tun?!«
 
 »Sie suchen etwas,« erwiderte Harst und blickte zur rohen
-Balkendecke des Sandebene empor, der über dem Hüttenkaume
+Balkendecke des Heubodens empor, der über dem Hüttenraume
 lag. Durch die nur oberflächlich mit Lehm vergitterten
 Ritzen der Balken hingen Halme herab, zwischen
-euer Kreuzspinnen ihre großen Netze gespannt hatten.
-»Sie suchen etwas, worüber ihnen nur die Zigeuner Au
-Luft geben könnten,« ergänzte Harst seine Antwort. »Dieses
+denen Kreuzspinnen ihre großen Netze gespannt hatten.
+»Sie suchen etwas, worüber ihnen nur die Zigeuner Auskunft
+geben könnten,« ergänzte Harst seine Antwort. »Dieses
 Etwas muß hier in der Nähe von Tölz abhanden gekommen
 sein, behaupte ich weiter, und es muß eine Reihe von Jahren
 zwischen diesem Ereignis und den jetzigen Bemühungen der
 Brüder Grandville verstrichen sein. Dieses »Ereignis«, also
-das Verschwinden eines Gegenstandes oder —«+« — er machte
-Kino kurze Pause und schaute die Gräfin Hornack sinnend
+das Verschwinden eines Gegenstandes oder —« — er machte
+eine kurze Pause und schaute die Gräfin Hornack sinnend
 an — »oder eines Menschen kann nur wenigen Zigeunern
 bekannt sein. Hektor Grandville tat gestern gegenüber der
-Truppe des alten Lagune so, als ob er eine Geige einhandeln
-wollte, Möglich, daß wirklich nun eine bestimmte
+Truppe des alten Lanos so, als ob er eine Geige einhandeln
+wollte. Möglich, daß wirklich nun eine bestimmte
 Geige von den Brüdern gesucht wird. Möglich, daß in der
 Geige vielleicht eine wertvolle Urkunde verborgen ist. Man
-kann hier eben sehr viele Möglichkeiten ableiten. —«- Was
-jagt Gepp zu alledem?«
+kann hier eben sehr viele Möglichkeiten ableiten. — Was
+sagt Gepp zu alledem?«
 
 »Genau das, was Sie soeben ausführten, Herr Harst,
-nur sprach er nie von einem Mengen, der verschwunden
-sein « könnte,« entgegnete Gisela Hornack mit einer hilf«
-losen Handbewegung,
+nur sprach er nie von einem Menschen, der verschwunden
+sein könnte,« entgegnete Gisela Hornack mit einer hilflosen
+Handbewegung,
 
 »So — er sprach nie von einem Menschen!« meinte
-jagten und hob wieder den Kopf. Oben auf dem Heuboden
-achte eine Maße, es raschelte im Heu, und das jämmerliche,
-stille Piepsen einer Maus verriet eine blutige Mäusetragüödie,
+Harald und hob wieder den Kopf. Oben auf dem Heuboden
+fauchte eine Katze, es raschelte im Heu, und das jämmerliche,
+stille Piepsen einer Maus verriet eine blutige Mäusetragödie.
 »Dann denkt er bestimmt an einen Menschen, Frau
-Gräfin. Gepp ist mir insofern geistesverwandt: Er benutzt!
+Gräfin. Gepp ist mir insofern geistesverwandt: Er benutzt
 das gesprochene Wort zum Umhüllen seiner Gedanken. Will
-man Gepps wahre Ansicht erfahren, muß man das Gegen«
+man Gepps wahre Ansicht erfahren, muß man das Gegenteil
 <@pagebreak/>
-teil von dem als richtig unterstellen, was er als möglich
-bezeichnet. — Ist jemals ein Mitglied der Familie Grandville.
+von dem als richtig unterstellen, was er als möglich
+bezeichnet. — Ist jemals ein Mitglied der Familie Grandville
 vielleicht in jungen Jahren verschollen?«
 
-»Fiel« erklärte Gisela sehr bestimmt. »Ich kenne die
+»Nie!« erklärte Gisela sehr bestimmt. »Ich kenne die
 Familie ganz genau. Sie besteht zur Zeit nur aus vier
 Männern, das sind die drei Brüder Grandville, Achim,
 Charles und Hektor und ihr Onkel Jerome Grandville, der
 jüngere Bruder ihres Vaters, ein armer schwachsinniger
 entmündigter Kranker, der auf dem Vorwerk des Gutes
-unter Aufsicht zweier Pflegen haust — — ein Gefangener gleichsam,
+unter Aufsicht zweier Pfleger haust — — ein Gefangener gleichsam,
 dem man die Zelle einer Irrenanstalt hat ersparen
-wollen. Die Eltern der Brüder sind seit Lanzen Jahren tot.
-—» Gepp hat nach diese Familienverhältnisse genau nachgeprüft
+wollen. Die Eltern der Brüder sind seit langen Jahren tot.
+— Gepp hat nach diese Familienverhältnisse genau nachgeprüft
 und nirgends einen Anhalt dafür gefunden, daß
 etwa irgendwie ein Zigeunerstamm im Leben der Familie
 eine Rolle gespielt haben könnte. Die Brüder selbst sind
 in diesem Punkte außerordentlich verschlossen. Ich habe im
-verflossenen Winter das Gesang) mehrfache auf Zigeuner
+verflossenen Winter das Gespräch mehrfache auf Zigeuner
 gebracht. Die Brüder lenkten sofort ab, das Thema war
-irren sichtlich unangenehm. — Vielleicht erscheint Ihnen
-mein Vorgehen in dieser Angelegenheit unmerklich und
-wenig zart. Herr Harst, das Lebensglück von sechs Verkehr
+ihnen sichtlich unangenehm. — Vielleicht erscheint Ihnen
+mein Vorgehen in dieser Angelegenheit unweiblich und
+wenig zart. Herr Harst, das Lebensglück von sechs Menschen
 ist eine starke Triebfeder. Ich will und muß die Grandvilles
-von diesem unseligen Fluchte — anders kann ihn es
-Licht bezeichnen — befreien und ihnen und meinen Nichten
-xd mir die Bahn zu besseren Tagen ebnen. Helfen Sie
-mir dabei. Es ist nicht die Selbstsucht meiner Liebe sein
+von diesem unseligen Fluche — anders kann ich es
+nicht bezeichnen — befreien und ihnen und meinen Nichten
+und mir die Bahn zu besseren Tagen ebnen. Helfen Sie
+mir dabei. Es ist nicht die Selbstsucht meiner Liebe zu
 Achim, die mich zu diesen romantischen Abenteuern verführt.
 Ich kämpfe für fünf andere Personen und mit für
-ihm, — Aber — verzeihen Sie, ich will nicht sentimental
+mich. — Aber — verzeihen Sie, ich will nicht sentimental
 werden. Ich bin hier auch eine schlechte Hausfrau … Sie
-»Wien einen Willkommentrunk nicht entbehren.« Sie erhob
-ich; und öffnete einen in die Balkenwand der Hütte geschickt
-Angebauten großen Schrank und stellte eine Likörflasche und
-»tet flache Gläschen auf den Tisch. Ich verfügte ihre
+sollen einen Willkommentrunk nicht entbehren.« Sie erhob
+sich und öffnete einen in die Balkenwand der Hütte geschickt
+eingebauten großen Schrank und stellte eine Likörflasche und
+drei flache Gläschen auf den Tisch. Ich verfolgte ihre
 <@pagebreak/>
-Bewegungen, und ich war enthält von der wunderbaren
+Bewegungen, und ich war entzückt von der wunderbaren
 Ausgeglichenheit ihrer Linien und Gesten. Achim Grandville
-war ein Narr, aus nur eine Minute zu zögern,
+war ein Narr, auch nur eine Minute zu zögern,
 dieses voll erblühte Weib in die Arme zu schließen und
-diese köstlichen Lippen zu küssen. — Sie füllte die Glas«-
-Heu, stellte die Flasche wieder hin, —« und draußen da ein
+diese köstlichen Lippen zu küssen. — Sie füllte die Gläschen,
+stellte die Flasche wieder hin, — und draußen da ein
 wütender Ausruf des alten Xaver. Wir eilten zur offenen
-Tür. Xaver behauptete, ihm hätte jemand ein Steinen
-ins Genick geworfen … »Kenterte Berg ist halt ein übers
-faltiges Madel.« — Aber ein war ringend? zu sehen,
-und Xaver brummte verlegen, es sei dann wohl ein Stein«
-Gen von dem mit groben Schindeln gedeckten und mit »Fell«
-brachen beschwerten Dach herabgerollt.
+Tür. Xaver behauptete, ihm hätte jemand ein Steinchen
+ins Genick geworfen … »Komtesse Vera ist halt ein übermütiges
+Madel.« — Aber Vera war nirgends zu sehen,
+und Xaver brummte verlegen, es sei dann wohl ein Steinchen
+von dem mit groben Schindeln gedeckten und mit Felsbrocken
+beschwerten Dach herabgerollt.
 
-Wir setzten uns wieder um den Tisch, und Gisela Gott
-na hob ihr Likörglas und trank uns zu:
+Wir setzten uns wieder um den Tisch, und Gisela Gornack
+hob ihr Likörglas und trank uns zu:
 
 »Auf treue Kameradschaft!«
 
-Harst hatte grüblerisch auf die weiß passionierte Tischplatte
-Geschehens und meinte auffällig hastig, indem er sich«,
-plötzlich der englisdven Sprache bediente: »Frau Gräfin,
+Harst hatte grüblerisch auf die weiß gescheuerte Tischplatte
+geschaut und meinte auffällig hastig, indem er sich
+plötzlich der englischen Sprache bediente: »Frau Gräfin,
 — trinken wir später … Erst möchte ich die Katze droben
 vom Heuboden verscheuchen. Sie stört mich.«
 
-Gisela Gornack warf ihm einen mißtrauischen Bis? 31
-und stellte ihr Gläschen unberührt wieder Hin, »Glauben
+Gisela Gornack warf ihm einen mißtrauischen Blick zu
+und stellte ihr Gläschen unberührt wieder Hin. »Glauben
 Sie, daß Gepp uns belauscht?!«
 
 »Gepp spricht perfekt englisch wie Sie und wie wir,
-Frau Gräfin. Die Maße droben sicherlich! nicht. Es kann
-auch ein Kater sein. — — Schraut, nimm dein? Pistole und
+Frau Gräfin. Die Katze droben sicherlich nicht. Es kann
+auch ein Kater sein. — — Schraut, nimm deine Pistole und
 wache draußen, und Sie, Gräfin, geben bitte hier auf die
-Weiter acht.«
+Leiter acht.«
 
-Er nahm die Leiter von dem Wandhaken und drückt:
-nicht ist die Falltür zum Heuboden auf und kletterte empor.
-Ich) eilte ins Freie und sagte Xaver Bescheid, der mit seinem
+Er nahm die Leiter von dem Wandhaken und drückte
+mit ihr die Falltür zum Heuboden auf und kletterte empor.
+Ich eilte ins Freie und sagte Xaver Bescheid, der mit seinem
 zahnlosen Munde ärgerlich brummte, auf dem Heuboden
-sei überhaupt seine Name,
+sei überhaupt keine Katze.
 
 <@pagebreak/>
 
 <h2>5. Kapitel.</h2>
-<h3>Dickste Chemie.</h3>
+<h3>Die böse Chemie.</h3>
 
 Ich wählte meinen Standort so, daß ich besonders die
 Rückseite der Hütte, an die der Bretterstall sich anlehnte,
@@ -1196,10 +1194,10 @@ sein. Er ließ sich jedoch. nichts merken, sondern sagte zu dem
 Zigeuner, dem auf der Oberlippe ein kleines schwarzes
 Bärten horchte: …
 
-»Fräulein Gard, Sie haben als. Netoucheuse mit allerhand
+»Fräulein Gard, Sie haben als Retoucheuse mit allerhand
 Chemikalien zu tun.«
 
-Stich beugte mich verdutzt vor.
+Ich beugte mich verdutzt vor.
 
 Gerda Gard?!
 
@@ -1236,7 +1234,7 @@ belegt, nicht ein loses Steinchen findet sich auf den Schindeln,
 und das Dach ist so schwach geneigt, daß ein Steinchen
 auch nie im Herabrollen Xaver hätte treffen können. — Ich
 kehrte mithin mit starkem Mißtrauen gegen die »Katze« und
-die bereits vollgesägenkten LikörgläShen in die Hütte zurück.
+die bereits vollgesägenkten Likörgläschen in die Hütte zurück.
 — Dritter Fehler: Sie hatten die Zwischenzeit dazu des
 nur, aus einem Tropffläschchen vom Heuboden her den
 Likör zu verdünnen, dabei waren aber verschiedene Tropfen
@@ -1517,7 +1515,7 @@ Burg, deren Enden sich beiderseits bis zum Hochwald ehe
 streckten. Die Männer lungerten untätig umher, die Kinder
 säuberten die Kessel, Kannen und Blechteller und verhielten
 sie auffällig still. Es wurde immer dunkler. Aus den Tälern
-trug der Abendwind GloFengeläute uns zu, mit ein später
+trug der Abendwind Glockengeläute uns zu, mit ein später
 Flieger, der über Tölz für irgendeine hervorragende Schokolade
 Reklame gemacht hatte, surrte am rötlichen Himmel
 zurück gen München.
@@ -2297,7 +2295,7 @@ Gepp winkte uns, und wir verließen den Friedhof.
 setzten uns draußen neben der Leiter zwischen die Feldrainbüsche
 und warteten. Gepp sagte nur: »Fest summt dir
 Wende! Sie werden reden müssen, die drei. Es war ein
-Kinbergrab, und ein Mädchen schläft dort, eine Grandville,
+Kindergrab, und ein Mädchen schläft dort, eine Grandville,
 behaupte ich.« Er seufzte. »Es ist betrüblich, wer!
 man noch immer im Dunkeln tappt. Sie an, Harst?«
 
@@ -2334,13 +2332,13 @@ Amen Sie auf Jerome Grandville, Harst?«
 der Anweisungen waren in Berlin eingezahlt, und Lücke
 telephonierte mir, daß Jerome Grandville schon früh entgleist
 <@pagebreak/>
-war: Betrug, Hodhstapelei, über 8 51 dann — geiste2Erantt«
+war: Betrug, Hochstapelei, über 8 51 dann — geiste2Erantt«
 
 Achim erklärte kurz: »Mein Vater war nie recht gesund.
 Vor zwanzig Jahren mußte er hier in Tölz eine
 Kur gebrauchen. Er verliebte gib; in eine blutjunge Zigeunerin,
-die Enkelin der schien schwarzen Schauecke Obs
-wohl verheiratet und Vater von drei Söhnen, mochte er
+die Enkelin der schien schwarzen Schauecke Obwohl
+verheiratet und Vater von drei Söhnen, mochte er
 das Mädchen zu seiner Geliebten. Sie gebar ihm ein Kind,
 und sie starb bei der Geburt, Auch das Kind lebte nur drei
 Jahre. Unser Vater ließ es hier begraben, es galt als eheliches
