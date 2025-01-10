@@ -352,7 +352,7 @@ Josef Kittel war zwölf Jahre alt, ein echter Berliner
 Lausbub dazu, aber ein vortrefflicher Sohn. Seine Mutter
 war Witwe, Waschfrau und wohnte in dem Kellergeschoß
 jenes leeren Hauses in der Heiligendammer Straße in
-Schmargendorf, das durch die verhehrenden Wirkungen des
+Schmargendorf, das durch die verheerenden Wirkungen des
 Schwammes seit langem leer steht und mit seinen zerbrochenen
 Fensterscheiben und windschiefen Türen einen so trostlosen
 Anblick bietet. Ich glaube, jeder Schmargendorfer kennt es.
