@@ -104,7 +104,7 @@ Ich verstand den Wink. »Hoffentlich nicht auf baldiges
 Wiedersehen, Herr Bendig …«
 
 Hamiti öffnete mir die Haustür, die innen mit Eisenblech
-beschlagen war und zwei Patentschlössern hatte. Des
+beschlagen war und zwei Patentschlösser hatte. Des
 alten Insulaners melancholische Augen wichen meinem Blick
 aus, als ich ihm eine Mark in die Hand drückte und
 meinte: »Euch geht’s wohl nicht besonders, Hamiti …?«
@@ -131,18 +131,18 @@ Ausdruck jähen Schrecks. Er zauderte.
 
 »Der Tuwan ist vielleicht beschäftigt,« stotterte er.
 
-Die Tür zum Operationszimmer öffnete sich »Kommen
+Die Tür zum Operationszimmer öffnete sich. »Kommen
 Sie nur, — ich habe zwar dringende technische Arbeiten
 zu erledigen, aber — — haben Sie noch Wünsche?«
 
 So saß ich denn wieder auf dem verfänglichen Stuhl,
 der Bohrer surrte und Arthur Bendig meinte wortkarg wie
 immer: »Noch drei Zähne sind verloren … Mit drei
-Brücken sind die Lücken ausgefüllt, Preis: Zweihundertsiebzig
+Brücken sind die Lücken ausgefüllt. Preis: Zweihundertsiebzig
 Mark …«
 
 So wurde ich noch drei Zähne und hundertfünfzig Mark
-Anzahlung los, Bendig nahm das Geld ohne große Dankesworte
+Anzahlung los. Bendig nahm das Geld ohne große Dankesworte
 entgegen. »Ich kann es brauchen, Herr Schraut. Übermorgen
 machen wir die Gipsabdrücke.« Er setzte sich an
 den Schreibtisch und füllte ein Quittungsformular aus.
@@ -227,7 +227,7 @@ müssen …«
 
 Er fuhr herum. Seine Augen zeigten das Weiße vor
 Schreck, und unwillkürlich duckte er sich zusammen, als ob
-er mir an die Kehle springen wollte. Sei hellbraunes Gesicht
+er mir an die Kehle springen wollte. Sein hellbraunes Gesicht
 war förmlich entstellt, und seine Affenarme reckten sich
 mit einem Ruck hoch, die Hände schlossen sich wie um einen
 unsichtbaren Gegenstand zusammen, — als ob er jemand
@@ -321,7 +321,7 @@ Aber die junge Dame mit dem blauen Auto war leider
 dunkelhaarig … Sie trug nur ein gelbes Strohhütchen,
 und das mag Hamiti getäuscht haben.«
 
-Harst lehnte sich auf seinen Spaten, »Du bist unlogisch
+Harst lehnte sich auf seinen Spaten. »Du bist unlogisch
 … Erst behauptest du, er kennt sie. Wenn er sie kennt,
 weiß er auch, ob sie blond oder dunkel ist. Sie müßte sich
 denn gerade das Haar gefärbt haben.«
@@ -535,7 +535,7 @@ und warteten auf ihren Anteil.
 Plötzlich kam die Mathilde hereingekeucht und kreischte
 gänzlich verstört:
 
-»Die Kitteln is umjefallen, …!!«
+»Die Kitteln is umjefallen …!!«
 
 Das hieß wohl: in Ohnmacht gefallen, — und wir
 eilten in die Küche, indem wir wieder die Verandatreppe
@@ -720,7 +720,7 @@ und Bendig Sie hierher verschleppt haben … Ist es
 so?!«
 
 Sie erblaßte, und ein Zittern befiel sie. Sie stammelte
-tonlos: »Ich: … ich darf … nicht … sprechen …« Plötzlich
+tonlos: »Ich … ich darf … nicht … sprechen …« Plötzlich
 sprang sie auf und haschte nach Haralds Hand. Tränen
 liefen ihr über die leichtgepuderten Wangen. »Seien Sie
 barmherzig …!! Es geht um ein Menschenleben! Hätte mich
@@ -763,7 +763,7 @@ gutes Augenmaß, Herr Harst.« Sie ging in die dunkelste
 Ecke, bückte sich und faßte mit dem Zeigefinger in eine breite
 Fuge der Ziegelsteine des Bodens. Sie spannte ihren Körper
 an, ihr Arm krümmte sich, und ein Teil der Wand, ein
-Zackiges Stück, drehte sich nach außen.
+zackiges Stück, drehte sich nach außen.
 
 Harald, der vorsichtig in der Türöffnung gewartet hatte,
 schaltete seine Taschenlampe ein. Isolde war bereits hinter
@@ -778,7 +778,7 @@ um Isoldes Entweichen zu verhindern. Ich vermutete
 eine zweite ähnliche Tür, aber auch das kam der Wahrheit
 nicht im entferntesten nahe.
 
-Nacht einer Weile hörte ich Harst mich rufen. Ich betrat
+Nach einer Weile hörte ich Harst mich rufen. Ich betrat
 wieder das dunkle schmale Gelaß und fand ihn in dem geöffneten
 Versteck, in dem außer einem Bett, Tisch, Schränkchen,
 Waschständer noch ein Telephon an der Wand hing.
@@ -868,7 +868,7 @@ Räder nebenan in einem Grünkramladen abgeben. Eine Autotaxe
 brachte uns über Dahlem nach Zehlendorf. Harald
 lehnte in seiner Ecke und rauchte und warf tief in Gedanken
 die erst halb aufgerauchten Mirakulum auf die
-Straße. Ich störte ihm nicht. Ich kenne ihn ja.
+Straße. Ich störte ihn nicht. Ich kenne ihn ja.
 
 Die Villa des Doktor Piersch lag abseits in einer neuen
 Straße unweit der Krummen Lanke, jenes schmalen gewundenen
@@ -963,7 +963,7 @@ großen Koffern verreist. Wohin, das war nicht zu ermitteln.
 
 <h3>Assistent Knobel.</h3>
 
-Es war Herzen sechs Uhr nachmittags, als uns das
+Es war gegen sechs Uhr nachmittags, als uns das
 Auto in der Nähe des Grünkramkellers absetzte. Wir wollten
 unsere Räder holen. Daheim hatten wir nur von einer
 Autotour gesprochen, auch Sepp war unser eiliger Aufbruch
@@ -1010,7 +1010,7 @@ haben wir, aber Karlchen … — — nee, er is leider mit
 »Bedauerlich, Frau Heller … Wie lange haben Sie
 hier den Laden? Bringt er auch etwas ein?«
 
-Aber Kerlchen kam schon mit unseren Rädern, erhielt
+Aber Karlchen kam schon mit unseren Rädern, erhielt
 seine Mark als Trinkgeld, feixte entsetzlich, und wir trugen
 schnell die Räder zur Straße empor. Da das Pflaster hier
 bis zur Zoppoter Straße einfach skandalös ist, schoben wir
@@ -1030,7 +1030,7 @@ selbe …!! — — Auto, halt …«
 <@pagebreak/>
 Wir verluden die Räder, ließen uns zur Pforte des
 Gemüsegartens fahren, trugen die verdächtigen Maschinen
-in das Gewächshaus, und Harald schritt die Reifen auf.
+in das Gewächshaus, und Harald schnitt die Reifen auf.
 
 Es was der niederträchtigste und hinterlistigste Attentatsversuch,
 den man jemals gegen uns ersonnen hatte.
@@ -1078,7 +1078,7 @@ war irgendwo … Sie holte mir erst vor’n Jahr und …«
 
 »Schon gut … — Wo ist sie jetzt?«
 
-»Zum Hause … Eine Dame hat ihr hier an’s Telephon
+»Zu Hause … Eine Dame hat ihr hier an’s Telephon
 rufen lassen, und da ist sie schnell wegjegangen —
 neue Kundschaft, Herr Harst …«
 
@@ -1151,14 +1151,14 @@ Nur Sepp fragte: »Na — und die Tauben?!«
 
 »Die hat Bendig mitgenommen,« sagte Lion.
 
-»Und das Haus selbst?!« erkundigte sie Harald sehr
+»Und das Haus selbst?!« erkundigte sich Harald sehr
 gedehnt.
 
 »Bleibt bis zu Bendigs Rückkehr leer. Das eine Hinterzimmer,
 in dem der braune Diener wohnte, ist einem Wächter
 überlassen worden, der auch für den Garten sorgen wird.«
 
-»Danke, Herr Lion, …«
+»Danke, Herr Lion …«
 
 Sepp trottete mit den Rosen wieder hinter uns her.
 
@@ -1192,7 +1192,7 @@ rackst sich ab … Sie reinigt Büroräume …«
 
 »Und Karlchen, Karlchen Heller?!«
 
-»Jott, der hat doch ’n Klaps, Herr Harst, …!! Der kraucht
+»Jott, der hat doch ’n Klaps, Herr Harst …!! Der kraucht
 so überall rum … den hat Mutter janz jerne …«
 
 »Also kommt der häufiger zu euch?«
@@ -1204,7 +1204,7 @@ so überall rum … den hat Mutter janz jerne …«
 »Jehabt, jehabt … Sie haben sie verkauft … — — S’ war
 n’ Kater, weiß, aber der Kopp war zu dick … S’ war n’
 Schönheitsfehler, und die olle Hellern hat bloß fünfzig
-Mark vor gekriegt … — sagt der Karl, und der lügt
+Mark for gekriegt … — sagt der Karl, und der lügt
 nie, der is zu dämlich zum Schwindeln …«
 
 Nun, über Karlchen waren wir beide entschieden anderer
@@ -1374,7 +1374,7 @@ verstand, trank sein Glas leer und fügte hinzu:
 »… Bitte, keinen Reim!« rief Harald dazwischen …
 
 Knobel lächelte nachsichtig. »Ich werde Ihnen die Zigaretten
-verbieten, Herr Harst …! Das Wäre dasselbe, als
+verbieten, Herr Harst …! Das wäre dasselbe, als
 ob … — na gut, also Prosa … Wir wollen nach
 Zehlendorf hinaus. Ich habe die Schlüssel der Villa Folker.
 An Ort und Stelle läßt sich die Sache rascher erledigen. Sie
@@ -1444,7 +1444,7 @@ den Garten führen, Herr Knobel?«
 
 »Ja …« Knobels poetische Ader war versiegt.
 
-Wir Schritten an der Villa vorüber. Die Abendröte am
+Wir schritten an der Villa vorüber. Die Abendröte am
 Himmel hatte Erbarmen mit dem geschwärzten Dachgebälk
 und übergoß es mit rosigem Schein. Es roch hier noch
 nach Rauch … Im Vorgarten lagen allerhand Trümmer
@@ -1485,7 +1485,7 @@ ich heute bereits einmal gegen Perücken ein Vorurteil gefaßt.
 Knobel lachte leise. »Ja, wir haben jeder seinen Spleen,
 — ein kleiner Spleen ist oft sehr schön …«
 
-»Ich ja,« nickte Harald. »Nur ein großer ist lästig. —
+»Ach ja,« nickte Harald. »Nur ein großer ist lästig. —
 Wer bewacht die Villa denn nun?«
 
 »Ich …«

@@ -76,7 +76,7 @@ vier Personen zu zweien zusammen …«
 Knobel schaute wie betend zur Decke empor. »Das wird
 eine dritte Flasche kosten …! — Sechs?!«
 
-»Ja … Folker—Bendig-Bydroop war auch noch Karlchen
+»Ja … Folker-Bendig-Bydroop war auch noch Karlchen
 Keller, der Blöde, und Hamiti Piersch war noch Max
 Knobel …«
 
@@ -114,7 +114,7 @@ Ich fürchte nur, sie wird auch verduftet sein … Alles verduftet
 
 Ich schrieb:
 
-<p class="pre centered">Folker, Bendig, Dienst, Hamiti, Knobel
+<p class="pre centered">Folker, Bendig, Piersch, Hamiti, Knobel
 kontra
 Therese!!</p>
 
@@ -144,8 +144,8 @@ hatte:
 »Miß Folker!!« rief ich, und Knobel seufzte: »Ach,
 sieh da: Fräulein Gwenda!!«
 
-Sie trug in der Rechten einen eleganten schmalen Hand
-Koffer und einen Schirm. In der Linken klirrte leise ein
+Sie trug in der Rechten einen eleganten schmalen Handkoffer
+und einen Schirm. In der Linken klirrte leise ein
 Schlüsselbund. Sie war sehr bleich.
 
 »Es … hat gebrannt?!« flüsterte sie sehr scheu …
@@ -775,7 +775,7 @@ Leute in diesem Spiel, die mit Bendig verbündet waren
 sind zwei Geschwister: Josef und Gwenda Kleitt!«
 
 Knobel rieb sich energisch die Stirn. »Allewetter!! Ich
-ahne was!! Sie denken aus an den Aufruf in den Zeitungen,
+ahne was!! Sie denken auch an den Aufruf in den Zeitungen,
 Herr Harst?«
 
 Harald blickte ihn scharf an. »Zwei Hirne arbeiten parallel,
@@ -935,7 +935,7 @@ die Quittung nicht näher geprüft oder doch dem Namen
 Bydroop keine Wichtigkeit beigemessen …«
 
 »Haben Sie Lücke persönlich am Apparat gesprochen?«
-Fragte Harst, und wir betraten den Vorgarten.
+fragte Harst, und wir betraten den Vorgarten.
 
 »Nein … Lücke war nicht mehr in der Villa Folker
 … Aber die anderen Herren waren dort noch tätig und
@@ -1081,7 +1081,7 @@ erklären. Max Knobels Ergänzungen schließen das Ganze.
 Zu Beginn des Weltkrieges wurden auch in Siam
 alle Deutschen in noch wehrfähigem Alter festgesetzt. In
 dem Gefangenlager von Bober Ratu bei Bangkok befand sich
-aus der deutsche Steuermann Josef Kleist, der mehrere
+auch der deutsche Steuermann Josef Kleist, der mehrere
 Jahre in den Bergen von Tscharatta in Siam heimlich
 eine Goldfundstelle ausgebeutet hatte. Kleist hatte das gewonnene
 Gold sicher versteckt, war ahnungslos in kultivierte
@@ -1157,7 +1157,7 @@ halten wollen. Ich würde das auch nicht tun …«
 Er lächelte sanft und ging zu Gwenda und Sepp hin, die
 Hand in Hand auf dem Sofa saßen. »Meinen herzlichsten
 Glückwunsch,« sagte er fast gerührt. »Sie beide sind nun Millionäre
-… Werden Sie glücklich! Und aufs Sie, Herr
+… Werden Sie glücklich! Und auch Sie, Herr
 Baron! Die Ehe ist eine Lotterie … Sie haben einen
 <@pagebreak/>
 Haupttreffer in Aussicht, — ich spiele schon fünf Jahre
