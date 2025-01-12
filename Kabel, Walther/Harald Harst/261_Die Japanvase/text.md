@@ -1,340 +1,318 @@
-<@pagebreak/>
-<@pagebreak/>
-<@pagebreak/>
-Harald Harst.
-Aus meinem Leben
+<@pagebreak 3/>
 
-Band: 261
-
-Die Japanvase
-
-Erzählt von
-Max Schraut
-
-S
-
-Verlag moderner Lektüre G. in. b. H.
-Berlin so 16, Michaelkirchstraße 2348
-<@pagebreak/>
-Liacveruck verboten. — Alle Rechte, einschließlich das
-Verfilmungsrecht, vorbehalten. — Copyright 1929 by
-Verlag moderner Lektüre G. in. b. H. Berlin so. 18
-
-Grad: PV. Lehmann, G. in. b. H., Berlin So. 1&
-
-<@pagebreak/>
+<h1>Die Japanvase</h1>
 
 <h2>1. Kapitel.</h2>
-<h3>Der Rükckloppler.</h3>
+<h3>Der Rückkoppler.</h3>
 
 Der Sommer schien nochmals beweisen zu wollen, daß der
 Name Oktober ihm durchaus nicht imponiere. Es war in
-der Tat sommerlich) warm, und als wir den Hühnerstall wie
+der Tat sommerlich warm, und als wir den Hühnerstall wie
 jeden Morgen revidierten, hatten auch unsere Hennen, die bei
 dem vorausgegangenen richtigen Oktoberwetter gestreikt hatten,
 sich wieder auf ihre Legepflicht besonnen, und in den Nestern,
-die das liebe »Federvieh. sich ganz gegen die Stallordnung
-in die Ballen Felswall gewühlt hatten, fanden wir an diesem
+die das liebe Federvieh sich ganz gegen die Stallordnung
+in die Ballen Torfmull gewühlt hatten, fanden wir an diesem
 fünften Oktober genau acht Uhr fünfundvierzig Minuten
 Nicht weniger als achtzehn Eier, was für einen Bestand von
 fünfundzwanzig Hennen und zwei Hähnen eine annehmbare
 Leistung darstellt,
 
 »Hole ein Körbchen mein Alter,« sagte Harst und strich
-
-sie über den leicht ergrauten «& »e. — Er schien über
-den Eierreichtum nicht Sinn — strich erbaut zu sein,
-oder er war in Gedanken noch« »r bei dem Fall Stieg, …
-
-der nun doch endgültig erledigt »war. Ich habe diese Geschichte
-einer Zwei-Millicn’n-Erbschaft unter dem Titel »Die
+sich über den leicht ergrauten Scheitel. — Er schien über
+den Eierreichtum nicht einmal sonderlich erbaut zu sein,
+oder er war in Gedanken noch immer bei dem Fall Grieg,
+der nun doch endgültig erledigt war. Ich habe diese Geschichte
+einer Zwei-Millionen-Erbschaft unter dem Titel »Die
 Frau aus Ceylon« gebracht. Eigentlich waren es ja zwei
 Frauen von der Märcheninsel im Indischen Ozean, aber die
-eine hatte eben mit jagten Raubplänen Pech gehabt, das,
-Erbe war nicht denen zugefallen, die als gesetzliche Nach«.
-Unberechtigte in Bereitschaft gehalten worden waren.
+eine hatte eben mit ihren Raubplänen Pech gehabt, das
+Erbe war nicht denen zugefallen, die als gesetzliche
+Nachlaßberechtigte in Bereitschaft gehalten worden waren.
 
 <@pagebreak/>
-Ich halte das Köchin. Als ich der dicken Mathilde,
-die gerade in der Küche das Frühstüdsgescmirr wusch, von
+Ich halte das Körbchen. Als ich der dicken Mathilde,
+die gerade in der Küche das Frühstücksgeschirr wusch, von
 dem Eiersegen berichtete, sagte sie prompt: »Dann gibt’s zu
-Mittag Bauernfrühstück … Wir haben Waschtag, und große
-Sachen kann ich nie herrichten.«
+Mittag Bauernfrühstück … Wir haben Waschtag, und jroße
+Sachen kann ich nich herrichten.«
 
 Mathilde ist der gute Geist des Hauses Harst, wenn sie
-Hat Laune ist,
+bei Laune ist,
 
-Aus ich in den Hühnerstall korbbewaffnet zurückkehrte,
+Als ich in den Hühnerstall korbbewaffnet zurückkehrte,
 waren von den achtzehn Eiern nur noch zehn gebrauchsfähig.
 Die anderen acht hatte Harald mit seinem Taschenmesser
-grob aufgehalst,
+grob angespickt,
 
-»Was Stall das?!
+»Was soll das?!
 
-Er sah mich eigentümlich an. »Es waren aufgeblasene,
+Er sah mich eigentümlich an. »Es waren ausgeblasene,
 mein Alter, und die Henne, die sie in die Nester verteilt
-als, änderte nicht, sondern redete wie wir.« …
+hatte, gackerte nicht, sondern redete wie wir.«
 
 Ich begriff,
 
-Ich nein eins der hohlen Eier und betrachtete es, Es
+Ich nahm eins der hohlen Eier und betrachtete es. Es
+war federleicht, und als ich es schüttelte, raschelte es im
+Innern. Das konnte kein noch nicht ausgekrochenes Hühnchen
+sein.
 
-war federleicht, und als ich es schüttelte, raschelte es in!
-Innern, Das konnte kein noch nicht ausgekrochenes Hühnchen
-
-Ritten
-»Papier?! sagte Harst. »Unsere Klienten bemühen sich,
+»Papier!« sagte Harst. »Unsere Klienten bemühen sich,
 uns in recht origineller Art ihre Beschwerden vorzutragen.«
-Wir erhielten so acht Festessen, die jeder eine Nummer
-trugen, Mit dieser »Morgenpost« begaben wir uns in Haralds
-Sieveitgzimmer, das bereits ’nach beim Kaminattentat wieder
-Leiblich hergerichtet war. Es roh allerdings noch stark nach
-Kleister, aber das tat nichts, nie. Torgenzigarren kämpften
+
+Wir erhielten so acht Zettelchen, die jeder eine Nummer
+trugen. Mit dieser »Morgenpost« begaben wir uns in Haralds
+Arbeitszimmer, das bereits nach dem Kaminattentat wieder
+leidlich hergerichtet war. Es roch allerdings noch stark nach
+Kleister, aber das tat nichts, unsere Morgenzigarren kämpften
 den faden Geruch schnell nieder.
+
 Die acht Zettel waren mit einer ungelenkten Bleistiftschrift
 beschrieben. Nicht alle. Da waren zwei, die ihre
 Besonderheit hatten,
+
 Das Ganze lautete:
-1\. Geehrte Herren; ich bin man bloß ein armer
+
+1. Geehrte Herren, ich bin man bloß ein armer
 Schlosserlehrling und wohne hier bei Großmuttern als
-nicht gern gesehener Fast.
+nicht jern gesehener Jast.
 
 <@pagebreak/>
-2\. Großmutter wohnt janz dicht bei der Beusselstraße.
+2. Großmutter wohnt janz dicht bei der Beusselstraße.
 Vielleicht kennen Sie sie gar nicht. Das ist auch
-ein Ningbahnlyof, und Plötzensee ist ziemlich nahe.
-(Plötzensee ist Gefängnis. -«-« Meine Anmerkung für
+ein Ringbahnhof, und Plötzensee ist ziemlich nahe.
+(Plötzensee ist Gefängnis. — Meine Anmerkung für
 auswärtige Freunde.)
 
-3\. Ich habe mir nun jedacht, Sie könnten mich nicht
-vorlassen, wenn schien in meine schäbige Kluft zu Ihnen
-käme und Ihnen die Geschickte erzählte. Ich habe einen
+3. Ich habe mir nun jedacht, Sie könnten mich nicht
+vorlassen, wenn ich so in meine schäbige Kluft zu Ihnen
+käme und Ihnen die Jeschichte erzählte. Ich habe einen
 Radioapparat, so ne alte Klamotte mit zwei Röhren
 und Schwenkspulen.
 
-z. Ich hab mir gedacht, die Eier werden Sie mehr
-interessieren als meine Wiese Persönlichkeit. Also: Mit
-dem Radiobastler hör’ im immer so um Ahne elf am
+4. Ich hab mir jedacht, die Eier werden Sie mehr
+interessieren als meine miese Persönlichkeit. Also: Mit
+dem Radiokasten hör’ ich immer so um Uhre elf am
 Dienstag und Freitag abend, wenn Berlin nicht sendet,
 so komische Rückkopplungspfiffe.
 
-5\. Ich lese Ihre Bücher sehr gern, und weil Sie
+5. Ich lese Ihre Bücher sehr jern, und weil Sie
 darin öfters das Morsealphabet erwähnt haben, hab
-ich mir eins besorgt, und da hab’ ich Nu jener?!, daß
+ich mir eins besorgt, und da hab’ ich nu jemerkt, daß
 die Rückkopplungspfiffe nicht ohne Sinn sein können.
 Es sind Morsezeichen.
 
-6\. Ich hab’ gestern abend folgendes mir zusammengestellt,
-w78 der Rückkoppler lang und kurz zusammen pfiff:
+6. Ich hab’ gestern abend folgendes mir zusammengestellt,
+was der Rückkoppler lang und kurz zusammen pfiff:
 »Wer immer in P. dies hört, sage Okara, daß
-die Ob. nicht zu finden ist. Er wird von mir für die
+die V. nicht zu finden ist. Er wird von mir für die
 Benachrichtigung Okaras 1000 Mark erhalten.«
 
-7\. Dies hegt der« Rückkoppler in Morsezeichen mindestens
-zehn Mal gepfiffen. — Ich dank«, es hegt was
+7. Dies hat der Rückkoppler in Morsezeichen mindestens
+zehn Mal gepfiffen. — Ich denk’, es hat was
 zu bedeuten. Was, weiß ich nicht. Ich kenne keinen
 Okara. Vielleicht kennen Sie ihn.
 
-8\. Meinen Namen inöcht’ ich verschweigen. Ich hab’
-Statur so allerpaund Gründe, meine Herren. Wenn Sie
+8. Meinen Namen möcht’ ich verschweigen. Ich hab’
+dazu so allerhand Gründe, meine Herren. Wenn Sie
 etwa zu Großmuttern kämen, gäb’s Krach, sie macht
 so allerhand, — — na Punkt dahinter. — Gruß —
-Ihr angelangter Paule. — Die Eier leg’ ich morgen
+Ihr ergebenster Paule. — Die Eier trag’ ich morgen
 <@pagebreak/>
-ganz früh zu Ihnen. Den Hühnerstall irieg’ ich schon
+ganz früh zu Ihnen. Den Hühnerstall krieg’ ich schon
 auf, ich bin ja Schlosser.«
 
 Wir hatten die Zettel kaum gelesen, als es im Flur
-surrte und Mathilde lyereinschwebte. Das Parkett stöhnte.
+läutete und Mathilde hereinschwebte. Das Parkett stöhnte.
 
 »Der Most ist da,« meldete sie mit ungeheurer Verachtung
 in der Miene.
 
-driminalassistent Most von unserem Revier stand mit
-Mathilde knatternd auf Kriegsfuß. Michael Most hatte für
-Gebildes Geschmack eine zu große, schlagfertige »Klappe«,
-Gar lautete Mathilde andauernd in gutmütigster Weise,
+Kriminalassistent Most von unserem Revier stand mit
+Mathilde dauernd auf Kriegsfuß. Michael Most hatte für
+Mathildes Geschmack eine zu große, schlagfertige »Klappe«.
+Er hänselte Mathilde andauernd in gutmütigster Weise,
 aber sie kannte in Punkto Fettleibigkeit keinen Spaß.
 
-Fort trat ein. Er sah nicht anders aus als immer. Er
-war goß einer von der alten Garde, eine fadenscheinige
-Neiaiszenz aus der Vorkriegszeit, zählte etliche fünfzig
+Most trat ein. Er sah nicht anders aus als immer. Er
+war noch einer von der alten Garde, eine fadenscheinige
+Reminiszenz aus der Vorkriegszeit, zählte etliche fünfzig
 Jahre und bildete im modernen Polizeibetrieb sozusagen
-xd BlioitamSmuseum. Er war Junggeselle, lang, hager,
-bartlos, ging gebückt, hatte außergewöhnlich muzkulöse Arme
-und Hände Handschuhnummer 1. — Seit! Gesicht?! Lieber
-Gott, darüber ließen sich Seiten schreiben. Von oben aufgetragen,
-Watte der Kopf eine Glatze, die noch« meine Billard
-!vors übertraf, Es folgten Augenbrauen, die geradezu küinmoerlicd
+das Altertumsmuseum. Er war Junggeselle, lang, hager,
+bartlos, ging gebückt, hatte außergewöhnlich muskulöse Arme
+und Hände Handschuhnummer 14. — Sein Gesicht?! Lieber
+Gott, darüber ließen sich Seiten schreiben. Von oben angefangen,
+hatte der Kopf eine Glatze, die noch meine Billardkugel
+übertraf. Es folgten Augenbrauen, die geradezu kümmerlich
 waren, dann Augen mit Hornbrille bewaffnet und
-errichteten. schläfrig, — (ins Stupsnase, ein breiter Mund
-und Verschollen und ein vorgeschobenes Kinn waren der
-ab Knie unschöne Nest,
+entschieden schläfrig, — eine Stupsnase, ein breiter Mund
+und Löffelohren und ein vorgeschobenes Kinn waren der
+ebenso unschöne Rest,
 
-»Morgen,« sagte Gabriel Most nur« deutete eine Verbeugung
-an und nahm ohne weiter!, »18 und eine Zigarre.
-— Wir kannten ihn schon sehr — und seine Ideen
-Welt beschränkte sich auf Sparen. Heu … ZiviltrachQt war
-voller auch etwas bunt zusammengewürfelt. Die Sachen
-Ratten einst Harst sofort, doch; Most war einen Kopf größer,
-Ad die Hafen daher stets zu kurz.
+»Morgen,« sagte Gabriel Most und deutete eine Verbeugung
+an und nahm ohne weiteres Platz und eine Zigarre.
+— Wir kannten ihn schon sehr lange und seine Ideenwelt
+beschränkte sich auf Sparen. Seine Ziviltracht war
+daher auch etwas bunt zusammengewürfelt. Die Sachen
+hatten einst Harst gehört, doch Most war einen Kopf größer,
+und die Hosen daher stets zu kurz.
 
-»Weshalb haben Sie denn meinen »abgelegten Smoking
-und meine verflossenen VJennisShosen und meine ehemalige
-Vollgas Weste an?!« »sagte Harst mit geringem Vorwurf.
+»Weshalb haben Sie denn meinen abgelegten Smoking
+und meine verflossenen Tennishosen und meine ehemalige
+hellgraue Weste an?!« sagte Harst mit geringem Vorwurf.
 
 <@pagebreak/>
-»Es ist warm,« sagte Most. »Die Hosen nassen zur
+»Es ist warm,« sagte Most. »Die Hosen passen zur
 Temperatur, und der Smoking betont die Feierlichkeit meines
 Anliegens,« erklärte der wunderliche Alte mit einem
 schwachen verlegenen Lächeln.
 
-»Schließen S!. los, Most …«
+»Schießen Sie los, Most …«
 
-Der Assistent betrachtete seine klobigen, Dienststiefel,
+Der Assistent betrachtete seine klobigen Dienststiefel,
 
 »Hm — es gibt was zu verdienen …« meinte er.
 
-Harald nickte. «&s gibt überall etwas zu verdienen.
+Harald nickte. »Es gibt überall etwas zu verdienen.
 Das Geld liegt auf der Straße.«
 
-»Das ist die dümmste Je« 18art, die ich kenne,« ricsfMost
-wütend. »Was habe im lacht schon alles angefange’s
-um ein paar Spargroschen »ammenzukraßen!! Ich +26«
-Kaninchen gezüchtet, — die wurden mir gestohlen, —
-hab’ Kanarienvogel gezüchtet, aber die Kanaillen Frist::
-nicht, ich hab’ Zimmer vermietet und in der Badestube? »w
-dem Hängeboden geschlafen, was wegen der Trittleiter gar
+»Das ist die dümmste Redensart, die ich kenne,« rief
+Most wütend. »Was habe ich nicht schon alles angefangen,
+um ein paar Spargroschen zusammenzukratzen!! Ich hab’
+Kaninchen gezüchtet, — die wurden mir gestohlen, — ich
+hab’ Kanarienvogel gezüchtet, aber die Kanaillen brüteten
+nicht, ich hab’ Zimmer vermietet und in der Badestube auf
+dem Hängeboden geschlafen, was wegen der Trittleiter an
 das obere Bett im Schlafwagen erinnerte, und ich hatte
-noch Scherereien der Kerle wegen, — ich hab’ ’Maschinenab«
-schritten in der dienstfreien Zeit angefertigt, und die Bestellen
+noch Scherereien der Kerle wegen, — ich hab’ Maschinenabschriften
+in der dienstfreien Zeit angefertigt, und die Besteller
 blieben die Bezahlung schuldig, — — reden Sie
 mir nicht von Geld auf der Straße liegen, Herr Harst, auch
-die Lotterie ist Dreck, ich bin nur wieder mit dem Stellung
-raus gekommen …! Aber jetzt …, 11«
+die Lotterie ist Dreck, ich bin nur wieder mit dem Freilos
+raus gekommen …! Aber jetzt …!!«
 
 Er zog eine Zeitung aus der Tasche.
 
-»Hier sitzen die Musikanten …
+»Hier sitzen die Musikanten …«
 
-Dreitausend Mark Belohnung!!
+<p class="centered em">Dreitausend Mark Belohnung!!</p>
 
-»As — sehen Sie, eine halbe Seite nimmt die Annonce
-ein …
+»Das — sehen Sie, eine halbe Seite nimmt die Annonce
+ein …«
 
-Dreitausend Mark Belohnung!!
-Gestohlen wurde vor unbestimmter Zeit aus einem
+<p class="centered em">Dreitausend Mark Belohnung!!</p>
+
+> Gestohlen wurde vor unbestimmter Zeit aus einem
 Antiquitätenladen eine alte Japanvase, Höhe fünfzig
 Zentimeter, größte Breite vierzig Zentimeter, hellblau
 mit goldenen Phantasievögeln, kurzem Hals, dessen
 Rand stark vergoldet ist. — Wiederbringer erhält
 obige Belohnung, ebenso der, der mir den Dieb so
 <@pagebreak/>
-nachweisen kann, daß ich wieder in Bett der Vase
+nachweisen kann, daß ich wieder in Besitz der Vase
 gelange. — Saulus Remscheid, Neanderstraße 302.
 
 Harst sagte achselzuckend:
 
 »Die Anzeige steht seit drei Monaten jeden dritten Tag
-in vier Berliner Blättern, und nach meiner Sdczätzung hat
-Herr Saulus Remscheid bisher an Annoncengebülhren kleine
-Achttausend Mark ausgegeben, bei dem Format kein Wunder.
-Haben Sie denn die Anzeige erst heute entdeckt, lieber Post?«
+in vier Berliner Blättern, und nach meiner Schätzung hat
+Herr Saulus Remscheid bisher an Annoncengebühren kleine
+sechstausend Mark ausgegeben, bei dem Format kein Wunder.
+Haben Sie denn die Anzeige erst heute entdeckt, lieber Most?«
 
 »Ja.« Er knetete seine Riesenfäuste. »Ich lese selten
 Zeitungen. Wenn Ich eine geschenkt bekomme oder finde oder
 — wie heute früh — meine Mieterin sie nicht mit ins
 Büro nimmt, ich habe nämlich die beiden Vorderzimmer
-wieder an eine Dame vermietet, etwas Tipp Langes, Herr
+wieder an eine Dame vermietet, etwas Tipp Toppes, Herr
 Harst, Engländerin und Korrespondentin bei der englischen
-Botschaft stier, eine Miß Gwenda Faferfoul, — hübscher
+Botschaft hier, eine Miß Gwenda Faferfoul, — hübscher
 Käfer, sie Hat gleich für ein halbes Jahr vorausbezahlt …
-Die ist nicht von der Sorte wie die beiden Vorgängen, die
+Die ist nicht von der Sorte wie die beiden Vorgänger, die
 Hausierer, — Kaufleute nannten sie sich …«
 
-Er schlichte über den Verlaufend.
+Er schielte über den Brillenrand.
 
-»Herr Harst, ich … weiß was über die Base.«
+»Herr Harst, ich … weiß was über die Vase.«
 
-… »Gratuliere!« meinte Harald trocken, denn dichter waren
-Mosts sämtliche Verfluchte, wirklich einmal einen Erfolg als
+»Gratuliere!« meinte Harald trocken, denn bisher waren
+Mosts sämtliche Versuche, wirklich einmal einen Erfolg als
 Detektiv zu buchen, fehlgeschlagen.
 
-Post zupfte seinen rosa Schlips zurecht. »Sie machen
-sich über mich lustig …
+Most zupfte seinen rosa Schlips zurecht. »Sie machen
+sich über mich lustig …«
 
 »Bewahre, dazu sind Sie mir zu wertvoll — als Original
 und alter Bekannter.«
 
 Most schüttelte zweifelnd den Kopf. »Wenn das nur
 stimmt … Alle Welt zieht mich durch den Kakao …
-sie Kollegen nennen mich Most mit dem Strich, weil ich
+Die Kollegen nennen mich Most mit dem Strich, weil ich
 so lang bin, und vereinen beides zu Mostrich. Meine Vorgesetzten
 dulden mich nur, ich bin überall fünftes Rad am
 Wagen, man kann mich nirgends brauchen, — ich rede nicht
 gern über diese Dinge: Mein Leben ist verpfuscht, ich wollte
-Schauspieler werden, mein Vater war jedoch) Wirklicher
+Schauspieler werden, mein Vater war jedoch Wirklicher
 <@pagebreak/>
-Geheimer Oberkanzlist mit neunzig Katz’ Gehalt und dreizehn
-Kindern, ich kam zum Kommst und später zur Polizei
+Geheimer Oberkanzlist mit neunzig Mark Gehalt und dreizehn
+Kindern, ich kam zum Kommiß und später zur Polizei
 und dort klebe ich noch heute. — — Die Gwenda Faferfoul
 bezahlt die Annonce.«, Den letzten Satz stieß er wie einen
 Trompetenton hervor,
 
-»Na Nu?!« meinte Harald ehrlich erstaunt. »Woher
+»Na nu?!« meinte Harald ehrlich erstaunt. »Woher
 wissen Sie denn das, lieber Most?!«
 
-Der hagere, vom Leben so bitter enttäuschte Mann Sees…
-kam um den Mund harte, scharfe Falten.
+Der hagere, vom Leben so bitter enttäuschte Mann bekam
+um den Mund harte, scharfe Falten.
 
-»Ehre denken, ich spioniere und schnüffelte meiner Mieterin
-nach …- Keineswegs. Wenn sie aber in den Papierkorb
-heute wieder eine zerrissene Quittung »von Saulus Remscheid
-über 800 Mark für vorausjagte Annoncengebühren
-hineinwirft und ich nun mal notwendig UYdhiswartefrau
+»Sie denken, ich spioniere und schnüffele meiner Mieterin
+nach … Keineswegs. Wenn sie aber in den Papierkorb
+heute wieder eine zerrissene Quittung von Saulus Remscheid
+über 800 Mark für verauslagte Annoncengebühren
+hineinwirft und ich nun mal notwendig Aufwartefrau
 spielen muß, so ist doch wirklich nichts dabei, daß ich beim
 Entleeren des Papierkorbes die Schnitzel genauer betrachte,
-weil immerhin aus Versehen …
+weil immerhin aus Versehen …«
 
-Harst winkte ab, »Papierkörbe, Most, gehören in jede
-
-er iminalgeschichte hinein, selbstredend …!! — Ihre Feste
-
-Stellung ist ganz interessant, aber ob sich; daraus Kapital
+Harst winkte ab. »Papierkörbe, Most, gehören in jede
+Kriminalgeschichte hinein, selbstredend …!! — Ihre Feststellung
+ist ganz interessant, aber ob sich daraus Kapital
 schlagen läßt, möchte ich bezweifeln, denn es ist doch schließlich
 nur eine Vermutung von Ihnen, daß die Quittung sich ausgerechnet
-auf die eigentümliche BVasenannonce bezieht.«
+auf die eigentümliche Vasenannonce bezieht.«
 
 Gabriel Most richtete sich in seinem Sessel kerzengrade
-auf. In seine bisher so scuhlafmüttzigen Augen trat ein uns gewöhnliches
+auf. In seine bisher so schlafmützigen Augen trat ein ungewöhnliches
 Feuer. Der ganze Mann schien wie mit einem
-Schlage verwandelt. Er hob die mächtige Hand zu eindruc’&«-
-voller Geste …
+Schlage verwandelt. Er hob die mächtige Hand zu eindrucksvoller
+Geste …
 
 »Herr Harst, das Leben hat mich bisher immer in den
-Hintergrund gedrängt, obwohl ich fühle, daß in mir uns
-geahnte Kräfte schlummern. Der Most war stets nur dazu
+Hintergrund gedrängt, obwohl ich fühle, daß in mir ungeahnte
+Kräfte schlummern. Der Most war stets nur dazu
 da, diebische Dienstboten zu vernehmen und ähnlichen Kleinkram
-zu erledigen, Hat man mir je ein Kapitalverbrechen
+zu erledigen. Hat man mir je ein Kapitalverbrechen
 anvertraut?! Nie!! Aber diesen Fall lasse ich mir nicht
 aus den Händen winden, darüber rede ich nur zu Ihnen
 <@pagebreak/>
 beiden, und die verstehen zu schweigen, Gott sei Dank. Es
 ist nicht Habgier, es ist nicht meine Sparwut, — es ist
-lediglich der heiße Wunsch, endlich einmal aus. meiner kläglichen
+lediglich der heiße Wunsch, endlich einmal aus meiner kläglichen
 Niederung des Daseins herauszutreten! Ich will denen
 da oben beweisen, daß ich etwas kann, ich will …« —
 er ließ die Hand sinken, wurde sehr rot, sehr verlegen, seine
 Gestalt sank in sich zusammen …
-»Ich … bin … verrückt … « sagte er verschämt.
-»Rein, Sie sind ein Verbindungsstück,« meinte Harald
-sehr ernst und wies auf die acht Zettel auf dem Tisch. »Rum
-weiß ich was dieser Zettelschreiber mit dem V. andeuten
 
+»Ich … bin … verrückt …« sagte er verschämt.
+
+»Nein, Sie sind ein Verbindungsstück,« meinte Harald
+sehr ernst und wies auf die acht Zettel auf dem Tisch. »Nun
+weiß ich, was dieser Zettelschreiber mit dem V. andeuten
 wollte:
-Die Japanvase!
 
--…»… op
+<p class="centered">Die Japanvase!</p>
 
 <h2>2. Kapitel.</h2>
 <h3>Die beiden Japaner.</h3>
@@ -342,66 +320,66 @@ Die Japanvase!
 Most fiel in den Sessel.
 
 »Wer — was?! — Ich bin ein Verbindungsstück?! Und
-— Zettel …?! Ah so, da liegen sie.
+— Zettel …?! Ah so, da liegen sie …«
 
-»».3q, lesen Sie. Und Sie brauchen sich nicht zu schämen,
-alter Freund — — « I9 habe Sie längst im Stillen bedauert
+»Ja, lesen Sie. Und Sie brauchen sich nicht zu schämen,
+alter Freund — — Ich habe Sie längst im Stillen bedauert
 und bewundert. Sie besitzen ein Allgemeinwissen, das
 einfach verblüffend ist, Sie bilden sich beständig weiter fort,
-Sie haben ehrliches Streben, und Sie …
+Sie haben ehrliches Streben, und Sie …«
 
-»Ich werde ja wieder rot, Herr Harst, 6 wehrte der seltsame
+»Ich werde ja wieder rot, Herr Harst,« wehrte der seltsame
 Mann bescheiden ab. »An mir ist doch wirklich nichts
 <@pagebreak/>
-irgendwie Bearlhtenöwertes — oder zu viel, die Kinder sind
+irgendwie Beachtenswertes — oder zu viel, die Kinder sind
 mir heute nachgelaufen, als ob ich ein Clown wäre. In
 Garderobenfragen mag ich gerade nicht zuständig sein, —
-die Spezialmarke über Kriminologie kenne ich alle, und
+die Spezialwerke über Kriminologie kenne ich alle, und
 daß ich Theoretiker geblieben bin, ist nicht meine Schuld,«
 
 Er nahm die Zettel und musterte sie sehr eingehend.
 »Das ist Papier aus einem überseeischen Geschäft,« murmelte
 er. »Von einer erstklassigen Firma, die keinen Schund verwendet
-…« Er Nicht jeden Zettel gegen das Licht. »Es
+…« Er hielt jeden Zettel gegen das Licht. »Es
 ist bestimmt englisches Fabrikat … Sehen Sie hier das
-Wasserzeichen. Und hier auf der Rückseite der Blätter ein
-kennt man noch die Spuren von Maschinenschrift, die sich,
+Wasserzeichen. Und hier auf der Rückseite der Blätter erkennt
+man noch die Spuren von Maschinenschrift, die sich,
 weil der Bogen frisch beschrieben, zusammengefaltet wurde,
-abgedrückt ht. Geben Sie mir doch mal ein Vergrößerungss
-Glas, Herr Harst …«
+abgedrückt hat. Geben Sie mir doch mal ein Vergrößerungsglas,
+Herr Harst …«
 
 »Das ist nicht mehr nötig, lieber Most … Ihre Untersuchung
 des Papiers deckt sich mit meiner eigenen, unsere Ergebnisse
-sind die gleichen — genau die gleichen, Der Zettelschreiber
+sind die gleichen — genau die gleichen. Der Zettelschreiber
 hat die untere Hälfte eines Briefes, der von der
-Londoner Firma Tower Bechert an die Berliner Maschinen
-Fabrik Löwe & Coup., Sidingenstraße, gerichtet war, abgerissen
-und für seine Nachricht an ’mich benutzt.«
+Londoner Firma Tower Broters an die Berliner Maschinenfabrik
+Löwe & Comp., Sickingenstraße, gerichtet war, abgerissen
+und für seine Nachricht an mich benutzt.«
 
 Inzwischen hatte Most auch den Inhalt der Zettel überflogen.
 
 Wir beobachteten ihn, und wir sorgten uns um ihn,
 denn sein faltiges Gesicht wurde blasser und blasser, seine
-Hände zitterten, seine Brille rutschte Sinn von der lächerlich
+Hände zitterten, seine Brille rutschte ihm von der lächerlich
 schmalen, allzu messerscharfen Nasenspitze, und mit einem
-ei sagte er dann, indem er die Zettel zu Boden flattern
-ich:
+Ächzen sagte er dann, indem er die Zettel zu Boden flattern
+ließ:
 
 »Okara war einer meiner Mieter, ein Japaner …«
 
-»As habe ich mir gedacht,« nickte Harst. »August hätte auch
+»Das habe ich mir gedacht,« nickte Harst. »Sonst hätte auch
 Miß Gwenda Faferfoul kaum bei Ihnen gemietet, Freund
-Post. Ihre Wohnunzi unter dem Dach hat zweifellos gute
-Luft, aber das Haus leidet unter AlterssEwäche, und Treppen
+Most. Ihre Wohnung unter dem Dach hat zweifellos gute
+Luft, aber das Haus leidet unter Altersschwäche, und Treppen
 <@pagebreak/>
-und Flure hätte der Wirt längst streichen lassen müssen,
+und Flure hätte der Wirt längst streichen lassen müssen.
 Außerdem riecht es im ganzen Treppenhaus immer nach
-Benzin und Schnaps und abgestandenem Bier, Kein Wunder:
-Im Parterre kannst links ein Schuhmacher, der ein Spezialist
+Benzin und Schnaps und abgestandenem Bier. Kein Wunder:
+Im Parterre haust links ein Schuhmacher, der ein Spezialist
 für Schuhfärben ist, und seine Farben duften eben
 nach Benzin. Rechts befindet sich die kleine Kneipe, vor der
 Freitags und Sonnabends die Frauen stehen und auf ihre
-Männer mit dem Wocdhenlohn warten. Meinen Sie, daß
+Männer mit dem Wochenlohn warten. Meinen Sie, daß
 eine junge Engländerin, die imstande ist, tausende für Annoncen
 springen zu lassen, solch’ eine Bude bezieht?! Sie
 hat eben gewußt, daß die beiden japanischen Hausierer bei
@@ -409,191 +387,190 @@ Ihnen gewohnt hatten, von denen der eine, wenn ich mich
 recht besinne, entflohen ist, während der andere, wegen des
 Einbruchs bei Milenz drei Jahres bekam.«
 
-… »Stimmt,« nickte Most eifrig. »Stimmt alles, Der Flüchtige
-heißt Sakatu, er entwich aus dem Untersuchungögesäggnis
-Moabit auf bisher ungalante Weise. Okara aber sitzt in
+»Stimmt,« nickte Most eifrig. »Stimmt alles. Der Flüchtige
+heißt Sakatu, er entwich aus dem Untersuchungsgefängnis
+Moabit auf bisher ungeklärte Weise. Okara aber sitzt in
 Plötzensee, und der Schlosserlehrling mit seiner Radioklamotte
 hat weit Wichtigeres aus der Luft aufgefangen, als
 er ahnt.«
 
-Most sog an seiner »Zigarre, die längst ausgegangen war,
-und sein Gesicht behielt ’ den jäh erwachten Ausdruck geistiger
+Most sog an seiner Zigarre, die längst ausgegangen war,
+und sein Gesicht behielt den jäh erwachten Ausdruck geistiger
 Regsamkeit unverändert bei.
 
-Harst blickte träumerisch den Rauchringen seiner Unsinn
-Datum nach, die ein wenig schnell zerflatterten, da beide
-Fenster nach dem Vorgarten innig weit offen standen und von
-kennen der Nordostwind in fauchenden Stößen ins Zimmer
-Tote
-39 lehnte am Schreibtisch, und ich dachte an einen Ro«-
-Man, den ich unlängst gelesen hatte, an die Lahore-Base, —
-ein eigentümliches Problem mit stark wollen Einschlag,
+Harst blickte träumerisch den Rauchringen seiner Mirakulum
+nach, die ein wenig schnell zerflatterten, da beide
+Fenster nach dem Vorgarten hin weit offen standen und von
+draußen der Nordostwind in fauchenden Stößen ins Zimmer
+fegte.
+
+Ich lehnte am Schreibtisch, und ich dachte an einen Roman,
+den ich unlängst gelesen hatte, an die Lahore-Vase, —
+ein eigentümliches Problem mit stark indischem Einschlag,
 überaus spannend, stellenweise sogar die Nerven im Übermaß
-kichernd. — Was war’s nun mit dieser Japanvase?!
+kitzelnd. — Was war’s nun mit dieser Japanvase?!
 Im Grunde stehe ich allen Kriminalfällen, in denen Vasen,
 Urnen, Schränke, Truhen und Ähnliches eine Rolle spielen,
 <@pagebreak/>
 äußerst ablehnend gegenüber. Das Feld ist zu abgegrast.
 Zumeist liegt in einer Vase dann ein Edelstein oder ein
-Dokument in einem doppelten Boden, und die ganze Ge-
-schlichte bleibt letzten Endes wässerig und phantasielos. Ver-
-Brecher mit reger Phantasie ein? selten. Die meisten arbeiten
+Dokument in einem doppelten Boden, und die ganze Geschichte
+bleibt letzten Endes wässerig und phantasielos. Verbrecher
+mit reger Phantasie sind selten. Die meisten arbeiten
 nach Schema F wie die Vielschreiber der einschlägigen Literatur.
-Leider bildet ’ tu’ auch Wallace keine Angenehme,
-abweicht er unbedingt an der Spitze der Romanfabrikanten
+Leider bildet da auch Wallace keine Ausnahme,
+obwohl er unbedingt an der Spitze der Romanfabrikanten
 marschiert.
 
 Harst meinte mit leicht gerunzelter Stirn: »Es bleiben
-einige Punkte zu erörtern, lieber Most, Befassen wir uns
-erst einmal mit Ihren verflossenen beiden Mietern. ’Wie
+einige Punkte zu erörtern, lieber Most. Befassen wir uns
+erst einmal mit Ihren verflossenen beiden Mietern. Wie
 lange wohnten sie bei Ihnen?«
 
-»Zwei Monate. Sie kamen genau am 6, Mai 16-3 zu
-mir. Ich hatte bis vorhin gar nicht daran gedacht, meine beiden
-Stuben zu vermieten und den Hängeboden zu beziehen, Sakatu
+»Zwei Monate. Sie kamen genau am 6. Mai 1926 zu
+mir. Ich hatte bis dahin gar nicht daran gedacht, meine beiden
+Stuben zu vermieten und den Hängeboden zu beziehen. Sakatu
 sprach leidlich deutsch und fließend englisch wie ich, allerdings
-verdanke ich mein Englisch. der Berlin-Schule, genau so
+verdanke ich mein Englisch der Berlitz-Schule, genau so
 meine anderen Sprachkenntnisse,«
 
 Ich warf Most einen erstaunten Blick zu. Der merkwürdige
-Mann hatte nie mit seinen: Fremdsprachen geplant,
+Mann hatte nie mit seinen Fremdsprachen geplant,
 
 »Sakatu bot mir für die Zimmer pro Monat hundertfünfzig
 Mark, und der Köder genügte. Die beiden Japaner
 waren ja auch so weit bescheidene, nette Leute, zogen mit ihren
-Hausiererköffern umher, vertreten riß ruhig, — bis der
-Krach kam. Sie besinnen Sir) auf den Einbruch bei Koma
-Verzierter Milenz ’ in Dahlem, Herr Harst … Milenz erwischte
+Hausiererkoffern umher, verhielten sich ruhig, — bis der
+Krach kam. Sie besinnen sich auf den Einbruch bei Kommerzienrat
+Milenz in Dahlem, Herr Harst … Milenz erwischte
 die beiden auf frischer Tat, und ich war meine Mieter
-!es, — sie bitten gedehnt im Voraus bezahlt, …«
+los, — sie hatten jedoch im Voraus bezahlt …«
 
-»Wie Gwenda Faferfoul,« nickte Harald. »Ihre Trüben
+»Wie Gwenda Faferfoul,« nickte Harald. »Ihre Stübchen
 stehen hoch im Preise und liegen hoch — bessere Mansarde,
-Aussicht über die Hundekehlenstraße hinweg nach dem Villen
-Vorort Dahlem hinein … »’« Erlegte das mit eigentümlicher
+Aussicht über die Hundekehlenstraße hinweg nach dem Villenvorort
+Dahlem hinein …« Er sagte das mit eigentümlicher
 Betonung,
 
-Post hatte gute Ohren und blickte ihn fragend an, »Hut,
+Most hatte gute Ohren und blickte ihn fragend an. »Hm,
 <@pagebreak/>
 glauben Sie, daß die Japaner und nun die Faferfoul, die
 erst fünf Wochen bei mir haust, deshalb dies Quartier liebten
-und lieben, weil man vom Fenster aus die Villa Milenz.
-steht?!«
+und lieben, weil man vom Fenster aus die Villa Milenz
+sieht?!«
 
-»Ich glaube es nicht, — es muß so sein. — Aber der
-folgen wir die Vorgänge weiter. Sakatu flieht, Okara bekommt
+»Ich glaube es nicht, — es muß so sein. — Aber verfolgen
+wir die Vorgänge weiter. Sakatu flieht, Okara bekommt
 drei Jahre aufgebrummt …«
 
 »Drei Jahre vier Monate,« verbesserte Most und spielte
-mit den Zetteln Paules, »Seine Strafzeit wäre bereits abgelaufen,
+mit den Zetteln Paules. »Seine Strafzeit wäre bereits abgelaufen,
 aber er hat in Plötzensee viermal auszubrechen
-»versucht und einmal einen Wärter angefallen, was ihm weitere
-Brei Monate eintrat. Man fand bei ihm auch Stahlsägen,
-Feilen und in einem Handbesen eingebaut einen Detektiv«
-Apparat, Die Zerstörer hatte er im Becken sehr schlau der«
-steckt.« ’ …
+versucht und einmal einen Wärter angefallen, was ihm weitere
+drei Monate eintrug. Man fand bei ihm auch Stahlsägen,
+Feilen und in einem Handbesen eingebaut einen Detektorapparat.
+Die Kopfhörer hatte er im Becken sehr schlau versteckt.«
 
 Es war uns nichts Neues, daß Sträflinge sich um jeden
 Preis heimlich eine Radioanlage zu beschaffen suchen und
-diese kann raffiniert verbergen. Ich will mich hierüber nicht
-näher auslassen. Ich verweste unter anderem auf einen Art
-übel in der. »Sendung«.
+diese dann raffiniert verbergen. Ich will mich hierüber nicht
+näher auslassen. Ich verweise unter anderem auf einen Artikel
+in der »Sendung«.
 
 Harst sagte in seiner ruhigen, selbstverständlichen Art:
-»Die Rückkopplungspfiffe, die Paule Auftrage und zu den
-Sätzen auf Zettel 6 zusammenstellte, waren für SchwarzSurer
+»Die Rückkopplungspfiffe, die Paule auffing und zu den
+Sätzen auf Zettel 6 zusammenstellte, waren für Schwarzhörer
 in den Zellen in Plötzensee bestimmt. Derjenige, der
-diese Nachricht, daß die V., also die Vase, gering nicht gefunden
-sei, aussandte, hoffte und hofft, daß einer der Gas
-längeren sie richtig deuten und Okara mitteilen wird. —
-Hiermit wäre der Punkt erledigt. — Der nächste: Der
+diese Nachricht, daß die V., also die Vase, noch nicht gefunden
+sei, aussandte, hoffte und hofft, daß einer der Gefangenen
+sie richtig deuten und Okara mitteilen wird. —
+Hiermit wäre *der* Punkt erledigt. — Der nächste: Der
 »Sender« der Nachricht ist natürlich Sakatu, und er muß
-irgendwo in Paules Nähe wohnen, Sonst könnte der die
+irgendwo in Paules Nähe wohnen. Sonst könnte der die
 Rückkopplungspfiffe nicht so klar vernehmen. Wir haben
 heute Mittwoch. Freitag abend dürfte Sakatu erneut »senden«.
-Dann werden Beamte des Nelchspostzentralamtes mit Peilgerätes
+Dann werden Beamte des Reichspostzentralamtes mit Peilgeräten
 Sakatu ausfindig machen, — falls inzwischen nicht
-noch mehr geschieht. — Nächster Punkt: Gwenda Faferfouls
+noch mehr geschieht. — Nächster Punkt: Gwenda Faferfoul
 <@pagebreak/>
 und der Händler Saulus Remscheid. Letzterer hatte eine Vase
-in seine: Trödlerladen. Sie wird unbekannt von wem
+in seinem Trödlerladen. Sie wird unbekannt von wem
 gestohlen. Nach allem, was uns nun an Tatsachenmaterial
-vorliegt, müssen die Agrarier an der Base genau Bagatelle
-starke Interesse haben wie Gwenda. Mit der Vase ist, dalagst
+vorliegt, müssen die Japaner an der Vase genau dasselbe
+starke Interesse haben wie Gwenda. Mit der Vase ist, vulgär
 ausgedrückt, etwas Besonderes los, Was? — Ich weiß
-es nicht!!!::- ahne es nicht. Ich weiß nur, daß Kommerzienrat
-Siegfried Milenz irgendwie mit allem in Verbindung.
+es nicht und ahne es nicht. Ich weiß nur, daß Kommerzienrat
+Siegfried Milenz irgendwie mit allem in Verbindung
 steht — irgendwie.«
 
-Gab!« Post lächelte fast selig. »Es ist ein Genuß,
--. Wien, Herr Harst.«
+Gabriel Most lächelte fast selig. »Es ist ein Genuß,
+Ihnen zuzuhören, Herr Harst.«
 
-»Zu: Sie das nicht, lieber Most. Not« vor vierzehn
-Tagen war Frau Attrappe Vernunft keineswegs ei:1zück«.
-als ich ihr vorhielt, daß sie für die wahre Erbin ihre Schwein
+»Sagen Sie das nicht, lieber Most. Noch vor vierzehn
+Tagen war Frau Adrienne Waranoff keineswegs entzückt,
+als ich ihr vorhielt, daß sie für die wahre Erbin ihre Schwester
 Sonja unterzuschieben gedachte. Und ob Kommerzienrat Milenz
 uns sehr freudig empfangen wird, bezweifele ich ebenfalls.
-Können Sie mitkommen, Wollen««
+Können Sie mitkommen, Most?«
 
-»Hein, ich habe ab. elf Uhr Dienst …«
+»Nein, ich habe ab elf Uhr Dienst …«
 
-— Die Schnarrdrossel mit der Messinggabel und dem Hörer
-meldete sich, Ich meldete mich auch, »Hier Harald Harst …«
+Die Schnarrdrossel mit der Messinggabel und dem Hörer
+meldete sich. Ich meldete mich auch. »Hier Harald Harst …«
 
-Eine Frauenstimme dann … kaum verständlich vor.
+Eine Frauenstimme dann … kaum verständlich vor
 Erregung.
 
 »Mein Vater … ist tot … Kommen Sie bitte sofort
 zu uns … sofort … Ich flehe Sie an … Die
 Polizei muß aus dem Spiel bleiben …«
 
-»Wer ist denn dort?« — Tun
+»Wer ist denn dort?«
 
-»Gisela Milenz …««
+»Gisela Milenz …«
 
 Ich winkte rasch Most zu und gab ihm den Hörer, deckte
 die Muschel zu. »Geben Sie auf die Stimme acht …
-Sagen Sie, daß wir kommen …« .-
+Sagen Sie, daß wir kommen …«
 
 Most horchte. Gisela Milenz sprach noch etwas …
 
-Als Most abhängte, sagte er« mit einem heiligen Kopfschütteln:
-’ Na
+Als Most abhängte, sagte er mit einem heftigen Kopfschütteln:
 
 »Es ist Gwenda Faferfouls Stimme.«
 
 Harald zog schon die Hausjacke aus.
 
 <@pagebreak/>
-»Tätlichen ist es Gisela Kutters. Ich habe nie etwas
-anderes vermutet, Wir kennen hier im Rundreise einer Meile
-so ziemlich alle Leute, und Gisela Milenz als wilde Autofthrerin
+»Natürlich ist es Gisela Milenz. Ich habe nie etwas
+anderes vermutet. Wir kennen hier im Umkreise einer Meile
+so ziemlich alle Leute, und Gisela Milenz als wilde Autofahrerin
 erfreut sich in Schmargendorf, Dahlem und Grunewald
 geringer Beliebtheit. Auf ihr Konto kommen etliche zehn
-Hunde, vier angelschrammkte Menschen, drei Zusammenpralle
-»».- « Vorwärts, mein Alter, die Vase beginnt mir Spaß
-Kranken.«
+Hunde, vier angeschrammte Menschen, drei Zusammenpralle
+… — Vorwärts, mein Alter, die Vase beginnt mir Spaß
+zu machen.«
 
-Most jagte zaudernd:
+Most sagte zaudernd:
 
 »Hm — und wenn dabei etwas abfällt?!«
 
-»Kriegen Lies in Ihre Sparbüchse, Freund Gabriel … « …
-Wiedersehe::.«
+»Kriegen Sie’s in Ihre Sparbüchse, Freund Gabriel …
+Wiedersehen.«
 
-<h2>8. Kapitel.</h2>
+<h2>3. Kapitel.</h2>
 
 <h3>Gisela.</h3>
 
-Die Villa Milenz ist ein Schloß. Der Garten ist ein Park,
-Per künstliche, mit Marmor eingefaßte Weiher und die kostbaren
-Marmorstatuen erregen Aussehen. Man spürt schon
-Buch den Zaun hindurch die Millionen.
+Die Villa Milenz ist ein Schloß. Der Garten ist ein Park.
+Der künstliche, mit Marmor eingefaßte Weiher und die kostbaren
+Marmorstatuen erregen Aufsehen. Man spürt schon
+durch den Zaun hindurch die Millionen.
 
 Siegfried Milenz verdankte seinen Reichtum den Zähnen
-seiner Mitmenschen. Er erfand die Zahnpaste Liane, und.
-&ine ungeheure Reklame machte die Mißlang»-Tuben weltberühmt.,
-ÜUndere’ Leute werden durch Eingeweide reich. Ich
+seiner Mitmenschen. Er erfand die Zahnpaste Milano, und
+eine ungeheure Reklame machte die Milano-Tuben weltberühmt.
+Andere Leute werden durch Eingeweide reich. Ich
 kenne Blinddarmspezialisten, die ohne den berüchtigten Wurmfortsatz
 niemals zu eigenen Villen und Autos gekommen
 wären. Das Geld liegt eben überall herum. Freund Most
@@ -602,122 +579,124 @@ hatte allerdings immer daneben gegriffen.
 
 Wir läuteten an der Gitterpforte,
 
-»Alte Rolläden sind geschlossen,« sagte Harald gedehnt,
+»Alle Rolläden sind geschlossen,« sagte Harald gedehnt,
 
-»Dann faßte er auf den Zerdrücken. Die Pforte war offen,
+»Dann faßte er auf den Tordrücker. Die Pforte war offen,
 
-Auch die Haupttür — merkwürdigerweise, Sie war sog
-gar nur angelehnt,
+Auch die Haupttür — merkwürdigerweise. Sie war sogar
+nur angelehnt,
 
-Harst rümpfte die Nase, »Gefällt mir nicht »… Oho
-wohl in der Vorhalle Licht brennt.« …
+Harst rümpfte die Nase. »Gefällt mir nicht … Obwohl
+in der Vorhalle Licht brennt.«
 
-Wir traten ein, Der Schlüssel steckte von innen. -.
+Wir traten ein. Der Schlüssel steckte von innen.
 
 »Schließe ab,« — er faßte nach hinten und entsicherte dann
-das Leine schwarze Ding.
+das kleine schwarze Ding.
 
-Im Hause Totenstille. Vor uns die geschmackvolle Vors
-Feinheit einer Schloßdlele: Perserteppiche, rum alles im mürrischen
+Im Hause Totenstille. Vor uns die geschmackvolle Vornehmheiten
+einer Schloßdiele: Perserteppiche, — alles im maurischen
 Stil.
 
 »Falle!« sagte Harst gedämpft.
 
 Ich ahnte das ebenfalls.
 
-»Flottem werden wir der Sache! auf den Grund gebe!,
-mein Alter
+»Trotzdem werden wir der Sache auf den Grund gehen,
+mein Alter …«
 
-»Besser »ihr « Ist bin stets für vorsichtiges Angreifen,
+»Besser nicht.« Ich bin stets für vorsichtiges Angreifen,
 
 Harald musterte argwöhnisch jeden Gegenstand. Im Hintergrunde
-führte eine Doppeltreppe in die oberen ’ Räume,
+führte eine Doppeltreppe in die oberen Räume,
 zwischen den Treppen war ein Kamin eingebaut im Bauernstil,
 — das Einzige, was hier nicht hineinpaßte. Die maurischen
 Papierlampen (innen brannten freilich elektrische Birnen)
 gaben ein mildes, beruhigendes Licht.
 
-»Es war natürlich gar. nicht Gisela Milenz, die ans
-gerufen hat,« meinte Harald und hielt die Pistole halb vorgestreckt.
-»Es wird die Miß gewesen sein, und ’irgendwo hier
-lauern Leute, die uns beide gern abtun möchten, weshalb?
+»Es war natürlich gar nicht Gisela Milenz, die angerufen
+hat,« meinte Harald und hielt die Pistole halb vorgestreckt.
+»Es wird die Miß gewesen sein, und irgendwo hier
+lauern Leute, die uns beide gern abtun möchten. weshalb?«
 
 In der Ferne irgendwo im Hause schrillte eine Glocke.
 
-Sie schrillte wiederholt und ich wurde nervös, Häßlich
-in der Villa kein Mensch befand, der taktmäßig hierher (ge
-hörte, war mit oller Bestimmtheit anzunehmen.
+Sie schrillte wiederholt und ich wurde nervös. Daß sich
+in der Villa kein Mensch befand, der rechtmäßig hierher gehörte,
+war mit aller Bestimmtheit anzunehmen.
 
 Nach einer Weile trommelte jemand an die dicke Eichentür
-und verlangte es Einlaß. Harst: sagte: »Most«
+und verlangte so Einlaß. Harst sagte: »Most!«
+
 <@pagebreak/>
-Und öffnete, stemmte aber den Fuß gegen die Für und
+Und öffnete, stemmte aber den Fuß gegen die Tür und
 beobachtete die Vorhalle weiter. — Es war Freund Gabriel.
-… Nicht der Engel Gabriel mit dem flammenden Gemerkt, Zwinkern
-Assistent Most in anj;prechenderer Tracht mit einem
+Nicht der Engel Gabriel mit dem flammenden Schwert, sondern
+Assistent Most in ansprechenderer Tracht mit einem
 sehr dicken Spazierstock. Den Anzug kannte ich. Er hatte
 Harst lange gedient.
 
 »Da bin ich. Ich war gerade auf der Revierwache angelangt,
 Herr Harst, als Sie anriefen.« Most war ganz
 außer Atem. »Wo ist der tote Milenz?«
-bei Harald schloß die Tür wieder ab. »Haben Sie eine Waffe
 
-sich«
+Harald schloß die Tür wieder ab. »Haben Sie eine Waffe
+bei sich?«
 
-Most hob den Strecke. »Ich brauche nichts weiter. Wenn
+Most hob den Stock. »Ich brauche nichts weiter. Wenn
 ich damit werfe oder schlage, setzt es nicht nur Beulen.« Sein
-Affenarm und die Hand Nr. 143 bekräftigten diese Behzaupstung.
-Ich habe Sie gar nicht hergerufen,«. erklärte Harald
+Affenarm und die Hand Nr. 143 bekräftigten diese Behauptung.
+
+»Ich habe Sie gar nicht hergerufen,« erklärte Harald
 flüsternd. »Man hat uns drei nur hierher locken wollen,
-alle drei, darauf kam es ihnen an, — Bleiben Sie nun vier
-in der Halle. Schraut und ich werden …
+alle drei, darauf kam es ihnen an. — Bleiben Sie nun hier
+in der Halle. Schraut und ich werden …«
 
 Wir lauschten …
 
-Von oben kam ein schmerzlich Stöhnen.
+Von oben kam ein schmerzliches Stöhnen.
 
 »Was war das?!«
 
 »Schwindel!« raunte Harst. »Bleibt besser beide hier …
-Und du, mein Alter, höhere nicht abzudrücken, wenn …«
+Und du, mein Alter, zögere nicht abzudrücken, wenn …«
 
 Auch den Satz sollte er nicht zu Ende führen.
 
 Der lange Gabriel, der bisher nur diebisches Hauspersonal
 verarzten durfte, hatte mit einer verblüffenden Fixigkeit und
-Sicherheit seinen Knüttel in Richtung des Kamin geschleudert,
-Es war ein offener Kamin, rußgeschwärzt, mit einem du Eisenhaken
-hängenden Kupferkessel, unter dem Holzscheite einige
-Schlechter waren. Die Hauptsache; Der Hintergrund des Kamins
+Sicherheit seinen Knüttel in Richtung des Kamin geschleudert.
+Es war ein offener Kamin, rußgeschwärzt, mit einem am Eisenhaken
+hängenden Kupferkessel, unter dem Holzscheite aufgeschichtet
+waren. Die Hauptsache: Der Hintergrund des Kamins
 war schwarz, und ein schwarzes Tuch hatte da als Vorhang
-für einen Menschen gedient, dem jetzt Abreise Bumerang
+für einen Menschen gedient, dem jetzt Gabriels Bumerang
 einen hellen Schrei entlockte.
 
 Dann wurde es jedoch wieder still. Der Stock war nach
 <@pagebreak/>
 vorn auf die Marmorfliesen zurückgeglitten. Der Vorhang
-bewegte sich nicht mehr, aber von oben ertönte abermals das?
-tiefe: Stöhnen.
+bewegte sich nicht mehr, aber von oben ertönte abermals das
+tiefe Stöhnen.
 
 Most war nicht mehr zu halten. Er stürmte vorwärts, er
-bückte sich nach seinem Bumerang. und … fiel vornüber
+bückte sich nach seinem Bumerang und … fiel vornüber
 und lag still, wie vom Blitz gefällt.
 
-»Tür auf — raus!« — Ader auch dazu war’s zu spät.
+»Tür auf — raus!« — Aber auch dazu war’s zu spät.
 Harald hatte mich beiseite gestoßen … Eine Glaskugel
 knallte gegen die Tür, zersplitterte, und ihr Inhalt bildete
 im Moment in Verbindung mit der Luft eine undurchdringliche
-Wolke schwarzen, beizenden Qualms … Stoß in die
+Wolke schwarzen, beizenden Qualms … stach in die
 Augen wie mit Messern, beizte die Schleimhäute … Ein
 Gefühl der Übelkeit trieb mir kalten Schweiß auf die Haut,
-im taumelte wie ein Trunkener, ich hörte irgendwo ein
+ich taumelte wie ein Trunkener, ich hörte irgendwo ein
 meckerndes Höllengelächter, eine Faust packte mich und riß
 mich wie einen Sack mit schleifenden Füßen harte Stufen
 hinan, schleuderte mich auf ein Bett,
 
-Schien konnte ich zunächst nichts, Die Tränendrüsen,
-spendeten ihr Naß zu reichlich Als ich dann nach Minuten
+Sehen konnte ich zunächst nichts. Die Tränendrüsen
+spendeten ihr Naß zu reichlich. Als ich dann nach Minuten
 wenigstens ein unklares Bild meiner Umgebung erhielt,
 erkannte ich mit fast ehrfürchtigem Staunen ein Boudoir
 von verwirrender Eleganz. Ich lag auf einem kostbaren Bett
@@ -729,96 +708,96 @@ Mein Staunen verwandelte sich in atemlose Verblüffung,
 als ich vor dem Frisiertisch mit den drehbaren Spiegeln einen
 Mann sitzen sah, der sich in aller Gemütsruhe seinen infam
 geschmacklosen rosa Eisenschlips zurechtrückte. Ich sah ihn
-in den Spiegeln dreimal, aber ein’1il hätte genügt. Es
-war der Engel Gabriel mit dem Dr langt, den er vor sich
-zwischen die silbernen Büchsen Büschen gelegt hatte,
+in den Spiegeln dreimal, aber einmal hätte genügt. Es
+war der Engel Gabriel mit dem Bumerang, den er vor sich
+zwischen die silbernen Büchsen und Döschen gelegt hatte,
 
-Ich richtete mich auf. Ein Blick … y) links: Auf dem Wünschen
-Diwan saß Harst und trat ie sich die rinnenden
-Tagen.
+Ich richtete mich auf. Ein Blick nach links: Auf dem türkischen
+Diwan saß Harst und trocknete sich die rinnenden
+Augen.
 
 <@pagebreak/>
-Er Ost drehte sich um. Der Schlips saß leidlich unter dem.
-Gumrmnmn ihres«-«., und Most sagte kopfschüttelnd: »Man sollte
-derartige Kamine baupvlizeilich verbieten, die einen so breiten
-Schloß und an der Einmündung in den Schornstein eine
+Most drehte sich um. Der Schlips saß leidlich unter dem
+Gummikragen, und Most sagte kopfschüttelnd: »Man sollte
+derartige Kamine baupolizeilich verbieten, die einen so breiten
+Schlot und an der Einmündung in den Schornstein eine
 Eisentür haben. Der Kerl ist entwischt. Ein Straßenkehrer
 sah einen Kaminkehrer die Villa verlassen.«
 
-ehe Angaben waren mir zu lückenhaft.
+Diese Angaben waren mir zu lückenhaft.
 
-»Freßkorb warfen Sie sich denn vor dem Kamin lang
-Hin?« fragte im rauh, aber der rauhe Ton ging auf das
+»Weshalb warfen Sie sich denn vor dem Kamin lang
+Hin?« fragte ich rauh, aber der rauhe Ton ging auf das
 Konto der Glaskugel.
 
-Most lächelte. dann. »Eine Pistole ist nicht angenehm,
-Herr S- Braut, und ich bemerkte’ die Pistole, Hat man erst
-ei Loch im Schädel, ist s meist zu spät. Daß der Kerl nicht
-Stoß, war natürlich eine Dummheit, und die Tränenbombe
+Most lächelte dünn. »Eine Pistole ist nicht angenehm,
+Herr Schraut, und ich bemerkte die Pistole. Hat man erst
+ein Loch im Schädel, ist’s meist zu spät. Daß der Kerl nicht
+schoß, war natürlich eine Dummheit, und die Tränenbombe
 war die zweite. Entweder tut man etwas ganz oder gar
-alt Ah bin gegen. Rauch sehr unempfindlich, da meine
-… Japaner … mich abgehärtet haben. Nachdem schritt meinem
-Stückchen sanft gegen den Bauwerken Vorhang im Kamin gesagt
-wagen halte und das Versteck leer fand, trug ich Sie beide
-hier peng oben in Gisela Milenz Kemenate, die anderen
-Türen waren nämlich verschlossen. Ausgerechnet- dies:!3 leise
-Sorge Gestatten war unversperrt. Ich hoffe, Sie haben sich
+nicht. Ich bin gegen Rauch sehr unempfindlich, da meine
+Zigarren mich abgehärtet haben. Nachdem ich mit meinem
+Stöckchen sanft gegen den schwarzen Vorhang im Kamin geschlagen
+hatte und das Versteck leer fand, trug ich Sie beide
+hier nach oben in Gisela Milenz Kemenate, die anderen
+Türen waren nämlich verschlossen. Ausgerechnet dieses lauschige
+Nestchen war unversperrt. Ich hoffe, Sie haben sich
 auf dem jungfräulichen Bett ganz wohl gefühlt, Herr Schraut.«
 
-Eidlich betrachtete die Krücke seines Eichenknüttels und
-fügte hinzu: »Der Bursche hat zumindest Nasenbluten gehabt,
-44 entdeckte in Kamin Blutspuren. Es wäre auch sonderbar,
+Gabriel betrachtete die Krücke seines Eichenknüttels und
+fügte hinzu: »Der Bursche hat zumindest Nasenbluten gehabt.
+Ich entdeckte in Kamin Blutspuren. Es wäre auch sonderbar,
 wenn meine Handgranate, zumal der Kerl ganz nett vor
 Schmerz quietschte, ergebnislos geschleudert worden wäre.«
-Er zitternde dann zu Harst hinüber. »Sie sind ja so still,
-Herr. Harst …,?f!! Stimmt etwas nicht?!«
+Er schaute dann zu Harst hinüber. »Sie sind ja so still,
+Herr Harst …?! Stimmt etwas nicht?!«
 
-». »Alles stimmt nicht, lieber Most.«
+»Alles stimmt nicht, lieber Most.«
 
-»Ja nur«
+»Na nu?!«
 
-— »Wellen Sie mir erklären, Metall man uns drei hier
-in die Villa: lockte un) dann unverständlicherweise schonte?!
+»Wollen Sie mir erklären, weshalb man uns drei hier
+in die Villa lockte und dann unverständlicherweise schonte?!
 Wenn der Japaner Sakatu, der doch zweifellos der »Sender«
 <@pagebreak/>
 ist und wahrscheinlich mit Gwenda Faferfoul Hand in Hand
-arbeitet, hier dies Intermezzo engagierte: Weshalb des
-prüfte er sich mit Tränengas?! — Sind wir ihm im Wege,
-hätte. er uns bequem abschießen können, denn die Idee mit
-dem sich/Warzen Vertrag im Kamin war gut.«
+arbeitet, hier dies Intermezzo arrangierte: Weshalb begnügte
+er sich mit Tränengas?! — Sind wir ihm im Wege,
+hätte er uns bequem abschießen können, denn die Idee mit
+dem schwarzen Vorhang im Kamin war gut.«
 
-Post nickte nachdenklich, »Ja, wir sind ihnen im Wege.
-Wahrscheinlich) bin ich beobachtet worden, wie ich zu Ihnen
+Most nickte nachdenklich. »Ja, wir sind ihnen im Wege.
+Wahrscheinlich bin ich beobachtet worden, wie ich zu Ihnen
 ging. Die Gesellschaft bekam es mit der Angst. Aber, aber —
-— nur diesen Qualm als Schreckmittel dann, — wirklich unsbegreislich!«
-Er zog eine Bastzigarrentasche hervor
+— nur diesen Qualm als Schreckmittel dann, — wirklich unbegreiflich!«
+Er zog eine Bastzigarrentasche hervor …
 
 Harst bat ihn flehentlich, auf die Zigarre zu verzichten.
-»Mir ist noch immer wenig gut zu Mute
+»Mir ist noch immer wenig gut zu Mute …«
 
-»Bitte, sie kosten zehn Pfennig das Stück, « protestierte
+»Bitte, sie kosten zehn Pfennig das Stück,« protestierte
 Most beleidigt. »Mein Kanarienvogel verträgt sogar den
-Neu.«
+Rauch.«
 
 Ich lächelte amüsiert. Es ist eine Wohltat, daß das
-Leben auch heitere Momente hat. +
+Leben auch heitere Momente hat.
 
-Harald hielt Most sein goldenes Zigarettenetui hin,
+Harald hielt Most sein goldenes Zigarettenetui hin.
 Aber es entglitt ihm, die Tür war aufgeflogen, und auf
-der Schwelle stand Gisela Milenz, in dem pikanten Buben«
-geriet einen drohenden Ausdruck, in der rechten Hand )-
-ein Eine, das man Scheintodpistole nennt. Hinter ihr baut«
-vierten die Umrisse der Spukgestalt eines Chauffeurs, der
-einen langen Schraubenschlüssel in der Faust Schwung, Zieht
-sah Vorschickt aus. Der moderne Elefant, Fasson Südwester,
-sowie der Pelzbesatz des Herbstmantels kleideten das nach.
-getuschte junge Gesicht sehr gut.
+der Schwelle stand Gisela Milenz, in dem pikanten Bubengesicht
+einen drohenden Ausdruck, in der rechten Hand so
+ein Ding, das man Scheintodpistole nennt. Hinter ihr dämmerten
+die Umrisse der Spukgestalt eines Chauffeurs, der
+einen langen Schraubenschlüssel in der Faust Schwang. Gisela
+sah totschick aus. Der moderne Filzhut, Fasson Südwester,
+sowie der Pelzbesatz des Herbstmantels kleideten das nachgetuschte
+junge Gesicht sehr gut.
 
-Harst erhob sich. »Gnädiges Fräulein, unsere Anwesen«-
-Zeit hier erfordert eine Erklärung. Mein Name ist Harst.«
+Harst erhob sich. »Gnädiges Fräulein, unsere Anwesenheit
+hier erfordert eine Erklärung. Mein Name ist Harst.«
 
-Die Wirkung dieser zwar losen Vorstellung war übers
-reichend. Gisela erbleichte und lehnte sich an den Türrahmen,
+Die Wirkung dieser zwar losen Vorstellung war überraschend.
+Gisela erbleichte und lehnte sich an den Türrahmen,
 
 »Harst …!« hauchte sie.
 
@@ -828,24 +807,24 @@ des Äußeren, die bereits dem Kenner genug verrät.
 
 <@pagebreak/>
 Es war Graf Caldenhover, der eifrigste Verehrer Giselas,
-eine Tcennisgröze von internationalem Ruf, — österreichischer
+eine Tennisgröße von internationalem Ruf, — österreichischer
 Aristokrat, verarmt, dann wieder aus eigener Kraft zu
 Vermögen gelangt. Jede Sportzeitung brachte seine Bilder,
-seine Zeitungen Züge mußten sich jedem einprägen. —
+seine schnittigen Züge mußten sich jedem einprägen. —
 Wir unterhalten gar keine Beziehungen zu Sportkreisen.
 Wir leben unser eigenes Dasein.
 
 Der Graf sagte empört: »Ich finde es unerhört, daß Sie
-Bier in ein so intimes Gemach einer jungen Dame eingedrängen
-sind, Herr Harst … Ihre Eigenmäctigkeiten sind
+hier in ein so intimes Gemach einer jungen Dame eingedrungen
+sind, Herr Harst … Ihre Eigenmächtigkeiten sind
 zuweilen denn doch etwas stark!«
 
-Herr!! sprang zu und fing die langsam umsinkende Gisela
+Harald sprang zu und fing die langsam umsinkende Gisela
 gerade noch rechtzeitig auf.
 
-ad. Kapitel.
+<h2>4. Kapitel.</h2>
 
-Der maurische Tonkrug.
+<h3>Der maurische Tonkrug.</h3>
 
 Ei? kam sehr bald wieder zu sich. »Es ist heute so
 Grollende Luft draußen.« sagte sie unten im Salon, wo wir
@@ -870,8 +849,8 @@ Dinge, und um solche geht es hier da, Meinen Sie
 nicht auch, gnädiges Fräulein?«
 
 Gisela hatte sich längst in die ihr gewohnte Rolle als
-Dame von Welt zurückgefunden. Sie war gemessen Erlebens-
-würdig, sie hatte angegeben, ihr Vater sei noch in der Sommervilla
+Dame von Welt zurückgefunden. Sie war gemessen Erlebens würdig,
+sie hatte angegeben, ihr Vater sei noch in der Sommervilla
 in Kladow draußen, woher sie und der Graf soeben
 kämen. — Das entsprach sicherlich der Wachen. Mit
 der Wahrheit entsprach ihre folgende Bemerkung: »Mein«
@@ -897,11 +876,11 @@ Most hüstelte. »Hm — ist Ihnen vielleicht nachher noch
 eingefallen, was die Japaner hier stehlen wollten, gnädige?
 Fräulein!« ZZ
 
-»Fein!!« Es klang bar! und ablehnend.
+»Fein!!« Es klang hart und ablehnend.
 
 Graf Caldenhover warf gelangweilt ein: »So Eigentum«
 sich das Abenteuer der Herren auch sein mag: Gnädiges
-Fräulein, es ist halb zwölf … Der IJennistrainer wartet.«
+Fräulein, es ist halb zwölf … Der Tennistrainer wartet.«
 
 <@pagebreak/>
 Gisela erhob sich. »Halb zwölf …?! Dann müssen uns
@@ -1076,7 +1055,7 @@ erledigen?!
 <h3>Dinge, die ich nicht begriff.</h3>
 
 … Sie öffnete uns selbst, die hagere Alte in dem abgetragenen
-schwarzen Seidenileid mit unmodernster Perlenstickerei,
+schwarzen Seidenkleid mit unmodernster Perlenstickerei,
 Ein whöbleicher Totenkopf mit überirdisch großen
 Bullen Augen grinste uns, umrahmt von schneeweißen, halblauten,
 gebrannten Locken, aus dem Dämmerlicht des kleinen
@@ -1500,7 +1479,7 @@ beten würden entschieden für die Beibehaltung stimmen,
 Not; die Und stumm und können die Todesangst nicht mehr
 mildern, die sie in den Krallen solch’ einer menschlichen
 Bestie ausgestanden haben … — Sie haben also ganz
-recht, mein lieber Most: T’ie BVerdienjtaussichten sind gleich
+recht, mein lieber Most: T’ie Verdienstaussichten sind gleich
 Null geworden. Es geht nur noch um die Ehre, Freund
 Gabriel …
 
@@ -1687,7 +1666,7 @@ Draht. Haben Sie das Grundstück verpachtet?«
 
 »Fein …« Patient Erstaunen über die Erörterung
 dieses Themas war nicht erheuchelt. »Die Fabrik ist innen
-vor Jahren halb ausgebrannt. Es war nur ein Nebenbetricb,
+vor Jahren halb ausgebrannt. Es war nur ein Nebenbetrieb,
 ein Versuchsobjekt. Die Polizei verbot dann die Fortführung
 chemischen Exrperimente in größerem Umfange wegen Gefährdung
 der Nachbargebäude. Augenblicklich stehe ich in
@@ -2116,7 +2095,7 @@ auslachen.«
 Es war jetzt kurz vor fünf. Ab glaubte, wir würden
 beurteilen, als Harald eine Taxe heranwinkte.
 
-»Beusselstraße Ecke Sicingen]traße — und Tempo, drei
+»Beusselstraße Ecke Sickingenstraße — und Tempo, drei
 Mark extra!«
 
 Diesmal hatten wir einen neuen guten Wagen erwischt.
@@ -2614,7 +2593,7 @@ Wert er auf sehr einfache Art Kenntnis erhalten hatte. Er
 kannte Saulus Remscheid, der nebenbei auch Hehlergesd. sie
 machte, und sicherlich wird er Remscheid gezwungen haben,
 <@pagebreak/>
-ihm über den angeblich bei dem Trödler erfolgten Vasendiebjtahl
+ihm über den angeblich bei dem Trödler erfolgten Vasendiebstahl
 die Wahrheit zu bekennen. So kam’s, daß Most
 den großzügigen Plan entwarf, durch diese Vase mit einem
 Schlag zu Geld zu kommen. Der erste Fehler, den er beging,
