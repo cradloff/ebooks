@@ -826,17 +826,17 @@ gerade noch rechtzeitig auf.
 
 <h3>Der maurische Tonkrug.</h3>
 
-Ei? kam sehr bald wieder zu sich. »Es ist heute so
-Grollende Luft draußen.« sagte sie unten im Salon, wo wir
+Sie kam sehr bald wieder zu sich. »Es ist heute so
+drückende Luft draußen,« sagte sie unten im Salon, wo wir
 nun versammelt waren, um in passender Umgebung das
-Vorlage durchzusprechen.
+Nötige durchzusprechen.
 
-Most, der sich wunderbar schnell in die Situation hineinlegt,
-erklärte seufzen?: »Es !;t sehr drückend. Immerhin, ich
+Most, der sich wunderbar schnell in die Situation hineinfand,
+erklärte seufzend: »Es ist sehr drückend. Immerhin, ich
 werde so leicht nicht ohnmächtig, aber das ist persönliche
-Veranlagung. Sie wissen nun ja, gnädiges Blättern, daß
+Veranlagung. Sie wissen nun ja, gnädiges Fräulein, daß
 wir drei durch eine Unbekannte, die sich für Gisela Milenz
-ausgab, schlechter gelockt worden sind. Die Gründe sind uns
+ausgab, hierher gelockt worden sind. Die Gründe sind uns
 <@pagebreak/>
 absolut unverständlich. Herr Harst, noch weniger ich sind
 zur Zeit mit irgendeinem Kriminalfall beschäftigt, der mit
@@ -844,42 +844,42 @@ Ihrem Herrn Vater oder dieser Villa in Zusammenhang stehen
 könnte.« — Most log überzeugend, Harald hatte es ihm
 freilich durch den vorausgegangenen Bericht sehr leicht gemacht.
 »Ich bin hier die einzige amtliche Person,« fügte Engel
-Gabriel trübe hinzu, »Ich eigne mich wenig für so vertauschte
-Dinge, und um solche geht es hier da, Meinen Sie
+Gabriel trübe hinzu. »Ich eigne mich wenig für so verzwickte
+Dinge, und um solche geht es hier doch. Meinen Sie
 nicht auch, gnädiges Fräulein?«
 
 Gisela hatte sich längst in die ihr gewohnte Rolle als
-Dame von Welt zurückgefunden. Sie war gemessen Erlebens würdig,
+Dame von Welt zurückgefunden. Sie war gemessen-liebenswürdig,
 sie hatte angegeben, ihr Vater sei noch in der Sommervilla
 in Kladow draußen, woher sie und der Graf soeben
-kämen. — Das entsprach sicherlich der Wachen. Mit
-der Wahrheit entsprach ihre folgende Bemerkung: »Mein«
+kämen. — Das entsprach sicherlich der Wahrheit. Nicht
+der Wahrheit entsprach ihre folgende Bemerkung: »Meine
 Ansicht kommt hier nicht in Frage, Herr Assistent, denn ich
-bin vollkommen Laie in Kriminalaffären.« — …
+bin vollkommen Laie in Kriminalaffären.«
 
-Most lächelte. »Natürlich … Sie haben nur — damals
+Most lächelte. »Natürlich … Sie haben nur damals
 den Einbruch miterlebt, und Sie kamen Ihrem Herrn Vater
 sehr energisch zu Hilfe, sonst wären die beiden Japaner
 wohl geflüchtet.«
 
-Giselas Bubengesicht überflog eine dunkle Wolke, »Ich
-denke nicht gern daran zurück, Herr Yssistent’
+Giselas Bubengesicht überflog eine dunkle Wolke. »Ich
+denke nicht gern daran zurück, Herr Assistent«
 
-»Erklärlich, sehr erklärlich … « und er blickte sie!charf
+»Erklärlich, sehr erklärlich …« und er blickte sie scharf
 an.
 
 Sie schlug sofort die Augen nieder, und ein Zucken lief
-um ihren Mund, als ob sie alle Energie auflöste, ihrer ins
-tiefen Erregung Herr zu werden,
+um ihren Mund, als ob sie alle Energie aufböte, ihrer inneren
+Erregung Herr zu werden,
 
 Most hüstelte. »Hm — ist Ihnen vielleicht nachher noch
-eingefallen, was die Japaner hier stehlen wollten, gnädige?
-Fräulein!« ZZ
+eingefallen, was die Japaner hier stehlen wollten, gnädiges
+Fräulein!«
 
-»Fein!!« Es klang hart und ablehnend.
+»Nein!!« Es klang hart und ablehnend.
 
-Graf Caldenhover warf gelangweilt ein: »So Eigentum«
-sich das Abenteuer der Herren auch sein mag: Gnädiges
+Graf Caldenhover warf gelangweilt ein: »So Eigentümlich
+das Abenteuer der Herren auch sein mag: Gnädiges
 Fräulein, es ist halb zwölf … Der Tennistrainer wartet.«
 
 <@pagebreak/>
@@ -888,64 +888,64 @@ die Herren schon entschuldigen …«
 
 Der Wink war deutlich.
 
-Als wir von dem Chauffeur. durch) die Vorhalle gleitet
+Als wir von dem Chauffeur durch die Vorhalle gleitet
 wurden (die Hausangestellten waren sämtlich in der
-Sommervilla draußen, nur der Hauswart bewachte den Uhrkette«
-Palast, war aber offienbar mit seiner Frau ebenfalls
+Sommervilla draußen, nur der Hauswart bewachte den Milenz-Palast,
+war aber offenbar mit seiner Frau ebenfalls
 weggelockt worden), blieb Harst vor einem niederen maurischen
-Tischen stehen, auf dem einer jener hohen Tonkrüge
-stand, wie sie die Araberinnen Nordafrikas zum Wasser«-
-holen benutzen. In dem Fensterlosen nötigen Fratze, der mit
-groben Linien und Breiten verziert war, leuchteten farbenfrohe
-Lesern.
+Tischchen stehen, auf dem einer jener hohen Tonkrüge
+stand, wie sie die Araberinnen Nordafrikas zum Wasserholen
+benutzen. In dem henkellosen rötlichen Kruge, der mit
+groben Linien und Kreisen verziert war, leuchteten farbenfrohe
+Astern.
 
 Harst sagte zu mir: »Ein seltenes Stück, mein Alter …«
-— und er fuhr mit dem ’Finzer über den Tonkrug hin und
+— und er fuhr mit dem Finger über den Tonkrug hin und
 drehte dabei den Kopf rückwärts …
 
-»Gnädiges Fräulein, wohl ein Reiseandenken …?!’
+»Gnädiges Fräulein, wohl ein Reiseandenken …?!«
 
-Von Gisela war nichts zu sehen, aber die eine Für war
+Von Gisela war nichts zu sehen, aber die eine Tür war
 nur angelehnt und öffnete sich jetzt langsam:
 
-Gisela stand leicmzenolaß auf der Schwelle.
+Gisela stand leichenblaß auf der Schwelle.
 
 Mühsam antwortete sie: »Ja — aus Tunis, Herr Harst.«
 
 »Das nahm ich an … — Wiedersehen …« — Der
 Chauffeur hatte die Haustür schon geöffnet, und wir traten
-ins Freie. Ich schaute empor zu dem klaren, blauen Herbstaunumel,
+ins Freie. Ich schaute empor zu dem klaren, blauen Herbsthimmel,
 durch den ein heller Riesenvogel leise surrend gen
 Flugplatz Tempelhof zog. Und hinter dem Gebilde der
-Ingenieurkunst zog eine dunkle Wolke halten, genau südwarts,
-oft ungehzeuerer Schwarm von Staren, die nun ebenfalls
+Ingenieurkunst zog eine dunkle Wolke daher, genau südwarts,
+ein ungeheuerer Schwarm von Staren, die nun ebenfalls
 wärmere Gefilde aufsuchten. Ich sah die nur noch schwach
 belaubten Bäume und das fahle Gelb und Braun und ersterbende
 Grün der Blätter … Der Herbst war wieder einmal
 da, und dieser schöne, trügerische eine Tag konnte nicht darüber
-hinwegtäuschen, daß Mutter Erde für uns zum Tintenflecke
-rüttelte, Und doch — ich freute mich dieser sonnigen
+hinwegtäuschen, daß Mutter Erde für uns zum Winterschlafe
+rüstete. Und doch — ich freute mich dieser sonnigen
 Herbststimmung mehr den je. In den Räumen der feudalen
 <@pagebreak/>
-Villa dort hatte im eigentümlich gefesselt, Es wehte dort
-ungangbar frostige Luft. Ich hatte dies dort drinnen nicht
-so recht empfunden, —x hier draußen wußte ich, was meine
-Seele bedrückt heulte: Die ganze Umgebung der Prachtzimmer,
+Villa dort hatte ich eigentümlich gefröstelt. Es wehte dort
+unnennbar frostige Luft. Ich hatte dies dort drinnen nicht
+so recht empfunden, — hier draußen wußte ich, was meine
+Seele bedrückt hatte: Die ganze Umgebung der Prachtzimmer,
 — Kälte strahlten sie aus wie eine Totengruft. Sonderbar
 war das,
 
-Ist stutzte vor meinen eigenen Gedanken. Hatte nicht
+Ich stutzte vor meinen eigenen Gedanken. Hatte nicht
 Gabriel Most gleichfalls etwas von »drückend« gesagt?!
 
 Hinter uns schlug klirrend die Gitterpforte zu. Wir
 schritten wortlos dahin, Most zwischen uns. Er hatte seinen
 Stock unter den muskelstrotzenden Arm geklemmt und putzte
-seinen Hinter.
+seinen Zwicker.
 
 »Das hätten wir hinter uns,« sagte er dann. »Ich möchte
-dort nicht: wohnen, nein, meine Mansarde gefällt mir besser.«
+dort nicht wohnen, nein, meine Mansarde gefällt mir besser.«
 
-»Orakelhaft,« sagte ich.
+»Grabesluft,« sagte ich.
 
 Er warf mir einen langen Blick zu.
 
@@ -953,7 +953,7 @@ Er warf mir einen langen Blick zu.
 
 »Ja.«
 
-»Woran mag es liegen, daß man die Empfindung hat?«
+»Woran mag es liegen, daß man *die* Empfindung hat?«
 
 Harst blieb stumm und schien gar nicht hinzuhören,
 
@@ -966,12 +966,12 @@ besonderem Tone zu,
 »Es liegt daran,« meinte er, »weil die Gespenster Irgendeiner
 dunklen Tat durch die Villa schleichen.«
 
-Most und ich blieben wie auf Kommando »stehen. Ein
-Lausbub mit einem geräuschvollen Roller sauste an uns?
+Most und ich blieben wie auf Kommando stehen. Ein
+Lausbub mit einem geräuschvollen Roller sauste an uns
 vorbei, und Most nahm nicht einmal davon Notiz.
 
-»Dunkle Hat?!« Engel Gabriel hatte keineswegs engelhafte
-Augen, »Welcher Art?!«
+»Dunkle Tat?!« Engel Gabriel hatte keineswegs engelhafte
+Augen. »Welcher Art?!«
 
 »Kommt weiter …« — Harst zog uns rasch hinter
 einen Bauzaun in der Hundekehlenstraße.
@@ -981,57 +981,59 @@ einen Bauzaun in der Hundekehlenstraße.
 Harald blickte einer gelbgrauen Selbstfahrerlimousine nach.
 
 <@pagebreak/>
-»las war Kommerzienrat Siegfried Milenz, und das
+»Das war Kommerzienrat Siegfried Milenz, und das
 Tempo des Wagens entspricht der Eile, mit der der Chauffeur
-ihn anrief, als Gisela in ihrem Boudoir ohnmächtig wurde,
+ihn anrief, als Gisela in ihrem Boudoir ohnmächtig wurde.
 Der Mann verschwand aus dem Flur, und am Treppenaufgang
 hängt ein Apparat. Ich hörte, wie er die Nummer
 Kladow 9289 verlangte. Ich brauche im Fernsprechverzeichnis
-gar nicht nachzusehen, — es ist Milenz’ Nummer, ich erstaunte
+gar nicht nachzusehen, — es ist Milenz’ Nummer, ich erkannte
 ihn am Steuer, und auch die Zeit stimmt: Vor vierzig
 Minuten telephonierte der Chauffeur, und in einer
-erben Stunde kann man von Kladow hier in unseren westlichsten
+halben Stunde kann man von Kladow hier in unseren westlichsten
 Vororten sein. — So, mein lieber Most, nun müssen
 wir Ihnen Lebewohl sagen … Sie ruft der Dienst, wir
 werden für Sie den Fall weiterverfolgen.«
 
-Engel Gabriel bog links ab. Harst winkte eine Tale
+Engel Gabriel bog links ab. Harst winkte eine Taxe
 Heran.
-»Chauffeur, Maschinenfabrik Löwe, Moabit … «.«
+
+»Chauffeur, Maschinenfabrik Löwe, Moabit …«
 
 »Weiß Bescheid, Herr.«
 
-Es war ein Kleinauto, ein Umgestalten mit stoßenden
+Es war ein Kleinauto, ein Rumpelkasten mit stoßenden
 Federn und Gratiszugabe von Benzingestank. Aber der
-Fahrer holte aus dem klapperigen Ding das Lehrer heraus,
+Fahrer holte aus dem klapperigen Ding das Letzte heraus,
 
-Harst rauchte in seiner Ehe und blickte zum Fenster
-hinaus. Die Vosenpracht am Saqmittpunst der drei Vororte
-Schmargendorf, Dahlem und Grunewald, Roseneck gekauft,
-war vorhin … Harst sagte gedanitenverloren: »Es
-Üt ein ganz interessanter Fall, mein Alter … Es wird noch
+Harst rauchte in seiner Ecke und blickte zum Fenster
+hinaus. Die Rosenpracht am Schnittpunkt der drei Vororte
+Schmargendorf, Dahlem und Grunewald, Roseneck getauft,
+war vorhin … Harst sagte gedankenverloren: »Es
+ist ein ganz interessanter Fall, mein Alter … Es wird noch
 viele Überraschungen geben.«
 
 Ich hatte Besonderes auf dem Herzen.
 
 »Harald, die maurische Tonvase da in der Vorhalle, —
+ist …«
 
-Alt …
-»Es geht hier um eine teure Japanvase, nicht um mittellos
+»Es geht hier um eine teure Japanvase, nicht um imitiertes
 Zeug,« unterbrach er mich unliebenswürdig,
 
-»Verteilt …«
-»Fein, — ich habe abzubitten,« meinte er schon wieder
+»Verzeih’ …«
 
-So herzlich) wie stets, »Du hattest nur meine Kette zerrissen.«
-»Gedankenkette, …«
+»Nein, — ich habe abzubitten,« meinte er schon wieder
+So herzlich wie stets. »Du hattest nur meine Kette zerrissen.«
+
+»Gedankenkette …«
 
 <@pagebreak/>
-»Ja …
+»Ja …«
 
-… Der Fest der Fahrt verlief schweigsam, und bei Löwe
-!na ehe trotz des Naubtiernam«+ x friedlich zu. Der Schlosserlehrling
-Paul Schimmel war unschwer durch die Personalabteilung
+Der Fest der Fahrt verlief schweigsam, und bei Löwe
+ging es trotz des Raubtiernamens friedlich zu. Der Schlosserlehrling
+*Paul Schimmel* war unschwer durch die Personalabteilung
 aufzustöbern. Man kam uns mit größter
 Liebenswürdigkeit entgegen und fragte nicht viel. Harsts Bitte,
 Paul Schimmel unsere Nachfragen zu verschweigen, würde
@@ -1041,14 +1043,13 @@ Unser Benzinkasten hielt dann in der Beusselstraße vor
 dem letzten Hause vor der Bahnüberführung, wo es weiter
 nach Plötzensee geht.
 
-Im Gartenhause vier Treppen, unter dem Bad, hing
-&ne Papptafel an einer Flurtür:
+Im Gartenhause vier Treppen, unter dem Dach, hing
+eine Papptafel an einer Flurtür:
 
-Ernestine Schimmel,
-Sprechstunden 10—1, 4-
+<p class="centered">Ernestine Schimmel,</p>
+<p class="centered">Sprechstunden 10—1, 4-</p>
 
 Was mochte Paules Großmutter in diesen Sprechstunden
-
 erledigen?!
 
 <h2>5. Kapitel.</h2>
@@ -1369,10 +1370,10 @@ trotzdem vielsagend genug.
 Polizei sein eingesperrt wegen falsche Papiere. Sie
 nicht heizen Faferfoul, Sie nicht aus England sind,
 <@pagebreak/>
-Sie nicht sind Korrespondentin in Botschaft, Sie sind
-Schwindlerin, stellen und betrügen. Sie werden bald
-sein reif für Herzlich, wenn Sie lieben Mut zu Helden«-
-haften Handschrift.«
+Sie nicht sind Korrespondentin in Botschaft. Sie sind
+Schwindlerin, stehlen und betrügen. Sie werden bald
+sein reif für Herzlich, wenn Sie lieben Mut zu Heldenhafter
+Handschrift.«
 
 Harst überlas das immer wieder.
 
@@ -1474,8 +1475,8 @@ Wer soll die ausgesetzte Belohnung bezahlen?!«
 »Oh,« meinte Harst und fuhr sich mit dem Zeigefinger
 über den Hals, »beim Gepeinigter brächte es schon was
 ein, aber die Todesstrafe ist nicht nur bei den Herrn März
-denn höchst unbeliebt, auch bei der Antlitz. Nur die Armer«-
-beten würden entschieden für die Beibehaltung stimmen,
+denn höchst unbeliebt, auch bei der Antlitz. Nur die Ermordeten
+würden entschieden für die Beibehaltung stimmen,
 Not; die Und stumm und können die Todesangst nicht mehr
 mildern, die sie in den Krallen solch’ einer menschlichen
 Bestie ausgestanden haben … — Sie haben also ganz
@@ -1509,8 +1510,8 @@ doch den Kürzeren ziehen und — na, versuchen wir’s!«
 »Etwas ziehen Sie sich!« — Harst lachte, und dann
 gingen wir.
 
-Im dritten Stock machte Harald am Treppen«-
-Flurfenster halt. »Dort — die- Villa Milenz, mein Alter …-
+Im dritten Stock machte Harald am Treppen-Flurfenster
+halt. »Dort — die- Villa Milenz, mein Alter …-
 <@pagebreak/>
 Freilich; nur das Da … Und es sollte mich wundern,
 wenn …« — aber den Rest verschluckte er.
@@ -1593,8 +1594,8 @@ wie diskrete Angelegenheit, die in keiner Weise für polizeiliche
 Feierten geeignet ist.« Er »vermied es, uns anzusehen.
 »Ich muß Sie daher bitten …
 
-»Art nötig,« unterbrach Harst ihn sehr kühl. »Eis«-
-Station ist selbstverständlich.«
+»Art nötig,« unterbrach Harst ihn sehr kühl. »Diskretion
+ist selbstverständlich.«
 
 Milenz spielte mit seinen Ringen, die er um den kleinen
 Finger drehte, altes, wieder ansteckte …
@@ -1707,8 +1708,8 @@ Milenz knickte sichtlich zusammen. »Nur das nicht, Herr
 Harst, — nur keine Mißverständnisse und keine Überempfindlichkeit,«
 bat er überstürzt. »Fragen Sie in Gottes
 Namen … Ich glaubte nur, daß die eigentümlichsten Ums
-stände des Diebstahls Ihnen wichtiger wären als eine Siegel«-
-Ruine nebst Unkraut und verrostetem Zaune … Kinder
+stände des Diebstahls Ihnen wichtiger wären als eine Siegespalme
+nebst Unkraut und verrostetem Zaune … Kinder
 spielen jetzt dort im Hofe, und ich habe nichts dagegen …«
 
 Trotzdem hatte er, mochte ihn auch. Harsts geringe
@@ -1734,8 +1735,8 @@ Vorbesitzer zwingen, die Vase wieder … pardon, den Krug
 wieder zurückgewinnen zu wollen?« Diese Säße, so harmlos
 sie Planken, veranlaßten Milenz zu einem deutlich) mißtrauischen
 forschenden Dick in Harsts unbewegte Züge. Aber
-Milenz blickt im übrigen stumm und beließ es bei einer un«-
-»Hafen Handbewegung.
+Milenz blickt im übrigen stumm und beließ es bei einer unseren
+Handbewegung.
 
 »… Was die leere Fabrik betrifft, Herr Kommerzienrat:
 Ein Konsortium will sie kaufen. Welches?«
@@ -2388,8 +2389,7 @@ Linie kamen nur Gisela Milenz und ihr Verlobter Graf
 Caldenhover in Betracht, Wie gesagt, es war ein engbegrenzter
 Kreis, und vorläufig blieb Sakatu für mich an erster Stelle.
 Wenn er Chef einer Abteilung der japanischen Geheimpolizei
-war, verstand er es auch, allerhand Masken grau«-
-legen.
+war, verstand er es auch, allerhand Masken anzulegen.
 
 Die Stunden bis zum Empfang unserer Gäste verflogen
 sehr schnell. Dann, kurz nach dem Abendessen, meldete Katz
