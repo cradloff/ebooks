@@ -1067,7 +1067,7 @@ Flurs wie ein übler Spuk entgegen.
 uns entgegenquoll, noch übler die geziert flötende Stimme
 Frau Ernestines …
 
-»Die Herren wünschen?"
+»Die Herren wünschen?«
 
 Mißtrauisch musterte sie uns.
 
@@ -1089,8 +1089,8 @@ Harst zückte die Brieftasche und legte vor die Alte
 fünfzig Mark hin — auf die gehäkelte Tischdecke, deren
 Sauberkeit zweifelhaft war,
 
-»Geben Sie mir eine Quittung,« sagte er kurz und Sachl-
-ich. »Einmalige Unterstützung für Paule, — vorläufig hat’s
+»Geben Sie mir eine Quittung,« sagte er kurz und Sachlich.
+»Einmalige Unterstützung für Paule, — vorläufig hat’s
 dabei sein Bewenden.«
 
 Der gelbe Totenkopf zerschmolz vor Seligkeit. Die
@@ -1113,7 +1113,7 @@ jetzt halb Ruine. Was mich fesselte, war eine Antenne,
 die auf dem Dache drüben gespannt war. Eine lose Ideenverbindung
 ließ mich an den Japaner Sakatu denken.
 
-»Bitte ..."
+»Bitte …«
 
 Sie schob Harald die Quittung hin.
 
@@ -1121,7 +1121,7 @@ Und dann erfuhr ich wieder einmal, wie rasch er stets
 das Richtige Zu treffen weiß. Er beobachtet unauffällig, trotzdem
 entgeht ihm nichts,
 
-»Ihr Geschäft macht sich, Frau Schimmel …"
+»Ihr Geschäft macht sich, Frau Schimmel …«
 
 »Danke, Herr … Die Leute haben immer so allerlei zu
 schreiben und zu fragen, und mein Mann war Rechtsanwalt.«
@@ -1130,12 +1130,12 @@ der glücklicheren Vergangenheit.
 
 Eine Art Auskunftei und Schreibbüro betrieb sie also.
 
-"… Viel fällt dabei nicht ab, aber man lebt …
-Das »Wie« ist gleichgültig …"
+»… Viel fällt dabei nicht ab, aber man lebt …
+Das »Wie« ist gleichgültig …«
 
 Harst deutete auf ein hohes Bücherregal. Oben stand ein
-Röhrenempfänger mit Schwenkspulen. »Gut, daß Paule Da-
-für Interesse hat, Frau Schimmel …"
+Röhrenempfänger mit Schwenkspulen. »Gut, daß Paule Dafür
+Interesse hat, Frau Schimmel …«
 
 In ihren Augen glomm geheime Abneigung auf. »Das
 einzige Vermächtnis meines Sohnes ist der Junge … Er
@@ -1233,8 +1233,8 @@ Dann kehrte sie zurück.
 Ihre Züge waren steinern, Ihre Augen suchten Festigkeit
 des Blickes vorzutäuschen,
 
-»Lassen Sie alle Bestechungsversuche, … « sagte sie geistes-
-abwesend. »Sie werden bei mir nichts ausrichten … Wenn
+»Lassen Sie alle Bestechungsversuche …« sagte sie geistesabwesend.
+»Sie werden bei mir nichts ausrichten … Wenn
 Sie mir versprechen, sich ganz ruhig zu verhalten und mich
 nicht anzuzeigen, können Sie nach zwei Stunden wieder
 davongehen. Tun Sie es nicht, so werden, Sie …« —
@@ -1252,7 +1252,7 @@ unserem Gedächtnis — unser Wort darauf!«
 
 Die Frau wurde vor Freude unnatürlich rot.
 
-»Ich … danke Ihnen ..."
+»Ich … danke Ihnen …«
 
 Sie sank in den verschlossenen Plüschsessel und drückte die
 Hände vor das flammende Gesicht,
@@ -1287,8 +1287,8 @@ Betrachten, riß ich die Vorhänge zur Seite.
 
 Die Kerle saßen verdächtig regungslos genau in derselben
 Stellung wie vorhin. Sie waren ungefährlicher als Flöhe.
-Es waren Wachspuppen, und nur die Pistolen und Schall-
-dumpfer waren echt. —
+Es waren Wachspuppen, und nur die Pistolen und Schalldämpfer
+waren echt. —
 
 Um halb drei verließen wir still die Wohnung, ohne
 Frau Schimmel wieder zu Gesicht bekommen zu haben.
@@ -1312,13 +1312,13 @@ Leider erschienen wir dann bei dem Trödler zu spät.
 Die Kriminalpolizei war vor einer Stunde gerufen worden,
 Remscheid war in seinem Laden erschossen worden.
 
-Harst erfuhr dies schon auf der Straße von einem an-
-deren Bewohner des Hauses,
+Harst erfuhr dies schon auf der Straße von einem anderen
+Bewohner des Hauses,
 
 Als wir abermals in einer Taxe saßen und gen Schmargendorf
 fuhren, meinte er nur (wir hatten den Laden gar
-nicht betreten): »Der Mann handelt durchaus nach fest-
-stehendem Programm. Wir müssen jetzt Miß Faferfoul kennen
+nicht betreten): »Der Mann handelt durchaus nach feststehendem
+Programm. Wir müssen jetzt Miß Faferfoul kennen
 lernen und Most die Neuigkeit unterbreiten, — er wird
 nicht sehr erbaut sein, glaube ich, Remscheid hätte uns sagen
 können, woher er einmal die Japanvase erhielt, und das
@@ -1867,7 +1867,7 @@ Kinder sind nicht vorhanden. — Milenz wollte zu
 Japan Handelsbeziehungen anknüpfen, seine Privatgesczäfte
 dort mißfielen jedoch den amtlichen Stellen,
 und man rief ihn bereits September 1925 zurück,
-Er gab die fkonsularische Laufbahn auf und war!: Witz
+Er gab die konsularische Laufbahn auf und war!: Witz
 der nur Großindustrieller.«
 
 — Auch das stimmt?’
@@ -2658,7 +2658,7 @@ gelegentlich betrachte, steigen Erinnerungen in mir auf, die
 »Nicht angenehmer Art sind.
 
 Paule Schimmel besucht- jetzt auf Haralds Kosten ein
-Technikum und hat es auch Boot sehr gut. Eine daukbarere
+Technikum und hat es auch Boot sehr gut. Eine dankbarere
 Seele wie ihn gibt es kaum.
 
 Nächsten Band:
