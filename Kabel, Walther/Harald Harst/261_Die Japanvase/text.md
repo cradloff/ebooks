@@ -1056,94 +1056,93 @@ erledigen?!
 <h3>Dinge, die ich nicht begriff.</h3>
 
 … Sie öffnete uns selbst, die hagere Alte in dem abgetragenen
-schwarzen Seidenkleid mit unmodernster Perlenstickerei,
-Ein whöbleicher Totenkopf mit überirdisch großen
-Bullen Augen grinste uns, umrahmt von schneeweißen, halblauten,
+schwarzen Seidenkleid mit unmodernster Perlenstickerei.
+Ein wachsbleicher Totenkopf mit überirdisch großen
+dunklen Augen grinste uns, umrahmt von schneeweißen, halblangen,
 gebrannten Locken, aus dem Dämmerlicht des kleinen
 Flurs wie ein übler Spuk entgegen.
 
 <@pagebreak/>
 Übel war auch der Katzengestank, der aus dem Flur
-ans entgegenquoll, vor« übler die geziert flötende Stimme
-Frau! Ernestines …
+uns entgegenquoll, noch übler die geziert flötende Stimme
+Frau Ernestines …
 
-»Die Herren wünschen
+»Die Herren wünschen?"
 
 Mißtrauisch musterte sie uns.
 
 Harst sagte gemütlich:
 
 »Wir sind von der Fürsorge, Frau Schimmel,
-Dankes wegen … ««
+Paules wegen …«
 
-Das hat). Die Alte witterte für ihren verwaisten Enkel
+Das half. Die Alte witterte für ihren verwaisten Enkel
 eine Unterstützung, bat uns in eine sogenannte gute Stube,
-»ie aufs malerischste mit Papierfächern, künstlichen Blumen,
-Oceidruckden und seltsamerweise mit einem Himmelbett mit
-geblümten geschlossenen Vorhängen, abgesehen von Rampe«
-vierten Sesseln und einem ehemaligen Spieltisch, ausgestattet
+die aufs malerischste mit Papierfächern, künstlichen Blumen,
+Öldrucken und seltsamerweise mit einem Himmelbett mit
+geblümten geschlossenen Vorhängen, abgesehen von ramponierten
+Sesseln und einem ehemaligen Spieltisch, ausgestattet
 war. Ich zählte hier vier Katzen, es roch aber nach
-feiere Dir!
+zwanzig.
 
-Harst hörte die Brieftasche und legte vor die Alte
-müßig Mark hin — auf die gehäkelte Tischdecke, deren
+Harst zückte die Brieftasche und legte vor die Alte
+fünfzig Mark hin — auf die gehäkelte Tischdecke, deren
 Sauberkeit zweifelhaft war,
 
-»Geben Sie mir eine Quittung,« sagte er kurz und Sache
-ich, »Einmalige Unterstützung für Paule, — vorläufig hat’s
-Jubel sein Bewenden.«
+»Geben Sie mir eine Quittung,« sagte er kurz und Sachl-
+ich. »Einmalige Unterstützung für Paule, — vorläufig hat’s
+dabei sein Bewenden.«
 
 Der gelbe Totenkopf zerschmolz vor Seligkeit. Die
-Schimmer war fraglos noch »sparsamer« als Freund Gabriel
+Schimmel war fraglos noch »sparsamer« als Freund Gabriel
 
-Las tat diese seltsame Vogelscheuche in ihren Sprechstunden?
+Was tat diese seltsame Vogelscheuche in ihren Sprechstunden?
 War sie Kartenlegerin?
 
-Sie schrieb die Quittung auf einer zerfetzten Schreibznterlage
-aus und ich sah ihre schlanken Hände und sah) ihre
+Sie schrieb die Quittung auf einer zerfetzten Schreibunterlage
+aus und ich sah ihre schlanken Hände und sah ihre
 faltenzerrissenen Züge: Das war eine Frau, die einst bessere
 Zeiten gekannt hatte,
 
-Ihre Schenkt war flott und zierlich. Sie war schreibgewandt.
+Ihre Schrift war flott und zierlich. Sie war schreibgewandt.
 
-Nein Bis irrte Mutter. Die beiden Fenster gingen auf
-ein er ».rgrundstüf hinaus, offenbar eine e!yemalige Fabrik,
-geh! halb Ruine. Was mich fesselte, war eine Antenne,
+Mein Blick irrte umher. Die beiden Fenster gingen auf
+ein Nachbargrundstück hinaus, offenbar eine ehemalige Fabrik,
+jetzt halb Ruine. Was mich fesselte, war eine Antenne,
 <@pagebreak/>
-je auf dem Dache drüben gespannt war. Trostlose Ideenverbindung
-ließ mich an den JapatnerSakatu denken.
+die auf dem Dache drüben gespannt war. Eine lose Ideenverbindung
+ließ mich an den Japaner Sakatu denken.
 
-»Bitte.
+»Bitte ..."
 
 Sie schob Harald die Quittung hin.
 
-Und dann erfu’mn ich wieder einmal, wie rasch er stets
-das »Nichtige Zu treffen weiß. Er beobachtet unauffällig, trotzdem
-entgeht im nichts,
+Und dann erfuhr ich wieder einmal, wie rasch er stets
+das Richtige Zu treffen weiß. Er beobachtet unauffällig, trotzdem
+entgeht ihm nichts,
 
-»he Geschäft macht sich, Frau Schimmel …
+»Ihr Geschäft macht sich, Frau Schimmel …"
 
-»Danke, Herr … Die Leute haben immer so Streich zu
+»Danke, Herr … Die Leute haben immer so allerlei zu
 schreiben und zu fragen, und mein Mann war Rechtsanwalt.«
 Ihre Augen starrten ins Leere und schauten sicherlich Bilder
-der glücklichsten Vergangenheit.
+der glücklicheren Vergangenheit.
 
 Eine Art Auskunftei und Schreibbüro betrieb sie also.
 
-… — « Viel fällt dabei nicht ab, aber man lebt …
-Das ’ »Wie« ist gleichgültig …
+"… Viel fällt dabei nicht ab, aber man lebt …
+Das »Wie« ist gleichgültig …"
 
-Harst deutete auf ein hohes »Bücherregal. Oben stand ein
-Röhrenempfänger mit Schwenkspulen. »Gut, daß Paule Das
-für Interesse hat, Frau Schimmel …
+Harst deutete auf ein hohes Bücherregal. Oben stand ein
+Röhrenempfänger mit Schwenkspulen. »Gut, daß Paule Da-
+für Interesse hat, Frau Schimmel …"
 
-In ihren Augen glomm geheime »Abneigung auf. »Das
-einzige Vermächtnis meines Gütiges ist der Junge … Er
+In ihren Augen glomm geheime Abneigung auf. »Das
+einzige Vermächtnis meines Sohnes ist der Junge … Er
 Hätte mir Besseres hinterlassen können. Ich will allein sein …
-
 Ich brauche Ruhe, und der Junge sitzt jeden Abend an dem
-fkächerlichen Kasten. Der Rundfunk ist nur für Menschen
-ohne Innenleben da, Ich brauche keine Zerstreuung und Ablenkung,«
+lächerlichen Kasten. Der Rundfunk ist nur für Menschen
+ohne Innenleben da. Ich brauche keine Zerstreuung und Ablenkung,«
 
 Sie war grenzenlos verbittert.
 
@@ -1158,22 +1157,22 @@ auch die Küchentür. Wir hörten die Wasserleitung rauschen,
 Harst war lautlos zu dem Himmelbett geschlichen und
 öffnete die Vorhänge.
 
-Er Stätte es besser nicht getan.
+Er hätte es besser nicht getan.
 
 Es war kein Bett, — hinter dem Betthimmel stand ein
 <@pagebreak/>
-Rufe, auf dem zwei Männer saßen … Viel war von
-Amen nicht zu erkennen: Bärtige Leute …
+Sofa, auf dem zwei Männer saßen … Viel war von
+ihnen nicht zu erkennen: Bärtige Leute …
 
-Aber eins sahen wir genau: Jeder hatte eine Mauser ja
+Aber eins sahen wir genau: Jeder hatte eine Mauser in
 der vorgestreckten Hand, und oben auf den Läufen steckten
-trichterförmige Schalldämpfer, « —
+trichterförmige Schalldämpfer.
 
 Hinter uns sagte Ernestine mit öligem Hohn:
 
-»Hände hoch!! Wir spaßen nicht?!«
+»Hände hoch!! Wir spaßen nicht!!«
 
-Blies andere hätte ich erwartet, niemals diesen Zwischenfall
+Alles andere hätte ich erwartet, niemals diesen Zwischenfall
 …
 
 Die Leute mit den Pistolen hatten ihre Schuldigkeit
@@ -1183,26 +1182,26 @@ Platz nahmen und die geblümten Vorhänge zufielen, waren
 wir so gut wie wehrlos.
 
 »Falls Sie um Hilfe rufen,« sagte die Frau jetzt mit
-starker Stimme, »Wollt es von dort« — und sie zeigte auf
-die Bordpäunge, »Unter mir steht die Wohnung leer und
-wird verankert, und über mir ist der Trockenboden. Es hätte
-einen Zweck.«
+starker Stimme, »knallt es von dort« — und sie zeigte auf
+die Vorhänge. »Unter mir steht die Wohnung leer und
+wird renoviert, und über mir ist der Trockenboden. Es hätte
+keinen Zweck.«
 
 Sie setzte sich uns gegenüber.
 
-»Stellen Sie mich wirklich für so dumm, Ihnen die
-Geschichte von den fünfzig (Mark Unterstützung zu glauben?!«
+»Hielten Sie mich wirklich für so dumm, Ihnen die
+Geschichte von den fünfzig Mark Unterstützung zu glauben?!«
 — Sie zerriß die Quittung und legte die fünfzig Mark vor
-Harald hin. »Ich brauchte Ihr Geld nicht, aber erst recht
+Harald hin. »Ich brauche Ihr Geld nicht, aber erst recht
 Habe ich keinerlei Bedarf für Spione. Kriminalbeamte sind
 Sie nicht … Ich besitze einige Menschenkenntnis. Wer
-sind Sie?!« …
+sind Sie?!«
 
 Harst erwiderte nach längerem Nachdenken:
 
 »Wie viel hat man Ihnen zugesagt? Ich gebe Ihnen das
 Doppelte. Ich bin Harald Harst und ein Mann von Wort.
-3H verspreche Ihnen außerdem vollste Verschwiegenheit.«
+Ich verspreche Ihnen außerdem vollste Verschwiegenheit.«
 
 Der gelbe Totenkopf erstarrte vor Überraschung.
 
@@ -1217,13 +1216,13 @@ Das Husten wiederholte sich — energischer.
 Und das waren die ersten Töne, die wir von unserem
 geheimnisvollen Gegenspieler hörten.
 
-Frau Edjzimmel stand zitternd auf. Ein: hilfloser Blick
+Frau Schimmel stand zitternd auf. Ein hilfloser Blick
 streifte uns …
 
 »Rühren Sie sich nicht!« sagte sie mehr flehend als
 drohend.
 
-Sie ging durch die nur angelehnte Tür … in den Wohnungsflur.
+Sie ging durch die nur angelehnte Tür in den Wohnungsflur.
 
 Wir horchten …
 
@@ -1234,16 +1233,16 @@ Dann kehrte sie zurück.
 Ihre Züge waren steinern, Ihre Augen suchten Festigkeit
 des Blickes vorzutäuschen,
 
-»Lassen Sie alle Bestechungsversuche, … « sagte sie geht: &
-abwesend, »Sie werden bei mir nichts aussprechen … Wenn
-Sie mir versprechen, sich ganz ruhig zu verboten und mich:
+»Lassen Sie alle Bestechungsversuche, … « sagte sie geistes-
+abwesend. »Sie werden bei mir nichts ausrichten … Wenn
+Sie mir versprechen, sich ganz ruhig zu verhalten und mich
 nicht anzuzeigen, können Sie nach zwei Stunden wieder
 davongehen. Tun Sie es nicht, so werden, Sie …« —
 sie zauderte — »bestimmt sterben.« Es kam ihr nur schwer
 über die Zunge. Man spürte geradezu, daß hinter ihr eine
 andere Macht drohe, vor der sie sich fürchtete.
 
-Harald betrachtete sie Lanze. Sie stützte sich auf eine
+Harald betrachtete sie lange. Sie stützte sich auf eine
 Sessellehne, und ihre Arme bebten, sie konnte sich kaum auf
 den Füßen halten.
 
@@ -1253,7 +1252,7 @@ unserem Gedächtnis — unser Wort darauf!«
 
 Die Frau wurde vor Freude unnatürlich rot.
 
-»Ich; … danke Ihnen
+»Ich … danke Ihnen ..."
 
 Sie sank in den verschlossenen Plüschsessel und drückte die
 Hände vor das flammende Gesicht,
@@ -1261,78 +1260,77 @@ Hände vor das flammende Gesicht,
 Draußen wurde leise eine Tür geschlossen. Es mußte die
 Flurtür sein. Der »Mann« hatte sich entfernt,
 
-I9 dachte an Kommerzienrat Siegfried Milenz, …«
-
+Ich dachte an Kommerzienrat Siegfried Milenz …
 <@pagebreak/>
-»weshalb hatte Harst uns beide, Most und mich, hinter den
+Weshalb hatte Harst uns beide, Most und mich, hinter den
 Bauzaun gezogen, weshalb hatte er von einer »dunklen Tat«,
-in Hause Milenz verübt, gesprochen?!
+im Hause Milenz verübt, gesprochen?!
 
 Frau Schimmel nahm uns dann schweigend die Fesseln
-ab und ging hinaus. Sie war unser sicher, Sie hatte lediglich
-auf den Resultaten an der Wand gedeutet und auf die Ziffer
+ab und ging hinaus. Sie war unser sicher. Sie hatte lediglich
+auf den Regulator an der Wand gedeutet und auf die Ziffer
 drei. — Um drei konnten wir gehen.
 
-Es war seine eigentümliche Situation. Mich gealterten
-die beiden Kerle hinter dem Betthimmel. Ich hüstelte gern
-
+Es war eine eigentümliche Situation. Mich genierten
+die beiden Kerle hinter dem Betthimmel. Ich hätte so gern
 etwas gesagt …
-Der Name Milenz lag mir förmlich auf der Zungen«
 
-sehe.
+Der Name Milenz lag mir förmlich auf der Zungenspitze.
+
 Als ich Harald anschaute, lachte er schmunzelnd,
 
-»Nur los, mein Alter … Die Sxrohypuppen sind taub.«
+»Nur los, mein Alter … Die Strohpuppen sind taub.«
 
 Ich war zuerst durchaus nicht im Bilde. Erst als Harald
-mich mit sanfter Ironie aufforderte, die Leute mir näher zu,
+mich mit sanfter Ironie aufforderte, die Leute mir näher zu
 Betrachten, riß ich die Vorhänge zur Seite.
 
-Die Kerle saßen verdächtig regungslos genau in! derselben
-Stellung wie vorhin. Sie waren ungefährlicher als Flöhe,
-Eis waren Wachspuppen, und nur die Pistolen und Schall«
+Die Kerle saßen verdächtig regungslos genau in derselben
+Stellung wie vorhin. Sie waren ungefährlicher als Flöhe.
+Es waren Wachspuppen, und nur die Pistolen und Schall-
 dumpfer waren echt. —
 
 Um halb drei verließen wir still die Wohnung, ohne
-Frau Eqcyimmel wieder zu Gesicht bekommen zu haben.
-Harst halte die zwei Stunden am Fenster gesessen und Homers
-Odyssee im Originaltext — aus dem Außenbord — gelesen
+Frau Schimmel wieder zu Gesicht bekommen zu haben.
+Harst hatte die zwei Stunden am Fenster gesessen und Homers
+Odyssee im Originaltext — aus dem Bücherbock — gelesen
 und mir einige Stellen vorgetragen. »Altgriechisch ist Musik,«
 Hatte er geschwärmt.
+
 In dem Auto, das uns zu Saulus Remscheid, Neanderstraße
 302, brachte, meinte er zwischen zwei Zigarettenzügen:
 
-»Natürlich Tal ich sofort, daß es Puppen waren, aber ich
-wollte unserem Manne nicht den sein vorbereiteten Spaß
-verderben. Billig ist ihm der Scherz nicht geworden, Bis
+»Natürlich sah ich sofort, daß es Puppen waren, aber ich
+wollte unserem Manne nicht den fein vorbereiteten Spaß
+verderben. Billig ist ihm der Scherz nicht geworden. Die
 Schimmel hat sicherlich ein paar tausende erhalten.«
 
-»Ich brauchte Zeit, die Dinge zu verdauen.
+Ich brauchte Zeit, die Dinge zu verdauen.
 
 Leider erschienen wir dann bei dem Trödler zu spät.
-
 <@pagebreak/>
 Die Kriminalpolizei war vor einer Stunde gerufen worden,
-Remscheid war in seinem Laden ersah. gen worden.
+Remscheid war in seinem Laden erschossen worden.
 
-Harst erfuhr dies schon auf der Straße von einem ans
+Harst erfuhr dies schon auf der Straße von einem an-
 deren Bewohner des Hauses,
 
-Als wir abermals in einer Tale saßen und gen Schnur«
-Senders fuhren, meinte er nur (wir Schatten den Laden gar
-nicht betreten): »Der Mann handelt durchaus nach feste
+Als wir abermals in einer Taxe saßen und gen Schmargendorf
+fuhren, meinte er nur (wir hatten den Laden gar
+nicht betreten): »Der Mann handelt durchaus nach fest-
 stehendem Programm. Wir müssen jetzt Miß Faferfoul kennen
-Leinen und Most die Neuigkeit unterbreiten, — er wird
+lernen und Most die Neuigkeit unterbreiten, — er wird
 nicht sehr erbaut sein, glaube ich, Remscheid hätte uns sagen
 können, woher er einmal die Japanvase erhielt, und das
 ist mit das Wichtigste.«
 
 Ich verstand ihn nicht ganz. Er war auch schwer zu verstehen,
 zumal er auf meine Bemerkung über Milenz nur die
-Achseln gehabt hatte.
+Achseln gezuckt hatte.
 
-<@pagebreak/>
-Der Mann
+<@pagebreak 34/>
+
+<h1>Der Mann</h1>
 
 <@pagebreak/>
 
