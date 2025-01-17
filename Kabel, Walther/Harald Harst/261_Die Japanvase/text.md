@@ -45,7 +45,7 @@ waren von den achtzehn Eiern nur noch zehn gebrauchsfähig.
 Die anderen acht hatte Harald mit seinem Taschenmesser
 grob angespickt,
 
-»Was soll das?!
+»Was soll das?!«
 
 Er sah mich eigentümlich an. »Es waren ausgeblasene,
 mein Alter, und die Henne, die sie in die Nester verteilt
@@ -581,7 +581,7 @@ Wir läuteten an der Gitterpforte,
 
 »Alle Rolläden sind geschlossen,« sagte Harald gedehnt,
 
-»Dann faßte er auf den Tordrücker. Die Pforte war offen,
+Dann faßte er auf den Tordrücker. Die Pforte war offen,
 
 Auch die Haupttür — merkwürdigerweise. Sie war sogar
 nur angelehnt,
@@ -1340,7 +1340,7 @@ Achseln gezuckt hatte.
 Wir kletterten die knarrenden Treppen zu Freund Mosts
 Vogelkäfig nach oben. Als wir läuteten, öffnete er sofort,
 
-»Gott sei Dank!!« stöhnte er. »Wo stecken Sie nur ...?
+»Gott sei Dank!!« stöhnte er. »Wo stecken Sie nur …?
 — Bitte, hier hinein, es ist dieser verdammten Miß Wohnzimmer
 … Ich sage ja, selbst mit dem Vermieten habe ich
 Pech! Sie ist weg, aber sie hat bezahlt …«
@@ -1384,11 +1384,11 @@ eifrig.
 fast traurig an. »Wirklich, Sie haben Pech, Sie Unglückswurm
 …«
 
-»Und gerade heute!« seufzte Most. »Ich habe mir vor-
-hin acht Tage Urlaub genommen. — ich wollte Ihnen beiden
+»Und gerade heute!« seufzte Most. »Ich habe mir vorhin
+acht Tage Urlaub genommen. — ich wollte Ihnen beiden
 doch helfen, — man mag doch nicht gern abseits stehen …«
 
-»... Wenn es Geld zu verdienen gibt …« nickte
+»… Wenn es Geld zu verdienen gibt …« nickte
 Harald harmlos.
 
 »Ganz recht … — Und als ich nach Hause komme,
@@ -1419,7 +1419,7 @@ Gabriel hüstelte. »Hm — in Gedanken?! Nun gut …«
 Er glaubte Harald nicht.
 
 <@pagebreak/>
-»... Remscheid war bedauerlicherweise nicht zu sprechen.«
+»… Remscheid war bedauerlicherweise nicht zu sprechen.«
 
 »Aber sein Laden ist doch den ganzen Tag geöffnet …«
 
@@ -1455,7 +1455,7 @@ von ihm in Erfahrung bringen, Herr Harst …!«
 noch lohnen, die Sache weiter zu verfolgen?! Die Belohnung
 war doch von der Faferfoul ausgesetzt, und …«
 
-»... Remscheid war nur der Strohmann, das stimmt, —
+»… Remscheid war nur der Strohmann, das stimmt, —
 und er kann nicht mehr reden, was für den Mann sehr
 gut ist … — Haben Sie eigentlich noch die Quittung
 über die Annoncengebühr, die Remscheid der Faferfoul
@@ -1481,7 +1481,7 @@ schildern, die sie in den Krallen solch’ einer menschlichen
 Bestie ausgestanden haben … — Sie haben also ganz
 recht, mein lieber Most: Die Verdienstaussichten sind gleich
 Null geworden. Es geht nur noch um die Ehre, Freund
-Gabriel …"
+Gabriel …«
 
 »Schade!« — und Most ließ den Kopf sinken. »Aber
 auch die Ehre ist etwas wert.« Er sprach mit zunehmender
@@ -1527,15 +1527,15 @@ Mieterin?«
 
 »Haben Sie mal mit ihr gesprochen?«
 
-»Ne ... Die war zu hochnäsig, die Olle, und sehr oft
-sah ich sie nicht …"
+»Ne … Die war zu hochnäsig, die Olle, und sehr oft
+sah ich sie nicht …«
 
-»Die Olle?!"
+»Die Olle?!«
 
 »Na ja, — ooch ’n Schleier und Schminke half da
-nicht mehr .,,! Det war ’n frisch aufgewichstes vorljet
+nicht mehr …! Det war ’n frisch aufgewichstes vorljet
 Jahrhundert mit Katzengestank … Pfui Deubel, — parfümiert und
-doch Katzenduft … — ekelhaft."
+doch Katzenduft … — ekelhaft.«
 
 Wir schritten davon.
 
@@ -1560,7 +1560,7 @@ wir möchten doch sofort zu ihm kommen,
 auf der Straße sagte er zu mir:
 
 »Wetten, daß der maurische Tonkrug gestohlen worden
-ist!" — Ich wollte darüber Aufschluß haben, wie Harst ausgerechnet
+ist!« — Ich wollte darüber Aufschluß haben, wie Harst ausgerechnet
 auf den Tonkrug käme …
 
 Er schwieg. —
@@ -1591,7 +1591,7 @@ zur Ruhe zwingt.
 »Meine Herren, es handelt sich um eine ebenso dringende
 wie diskrete Angelegenheit, die in keiner Weise für polizeiliche
 Recherchen geeignet ist.« Er vermied es, uns anzusehen.
-»Ich muß Sie daher bitten …"
+»Ich muß Sie daher bitten …«
 
 »Nicht nötig,« unterbrach Harst ihn sehr kühl. »Diskretion
 ist selbstverständlich.«
@@ -1602,8 +1602,8 @@ Finger drehte, abzog, wieder ansteckte …
 »Und Sie würden unter allen Umständen Verschwiegenheit
 bewahren?« fragte er zaudernd.
 
-»Ja, — falls nicht Kapitalverbrechen oder sonstige Um-
-stände durch unsere Diskretion vertuscht würden …«
+»Ja, — falls nicht Kapitalverbrechen oder sonstige Umstände
+durch unsere Diskretion vertuscht würden …«
 
 Er sagte »Umstände«, und er wählt jedes Wort mit
 Bedacht.
@@ -1612,32 +1612,32 @@ Seltsam.
 
 Milenz hüstelte nervös, »Es … es handelt sich nur
 und einen ganz gewöhnlichen maurischen Wasserkrug, Herr
-Harst …"
+Harst …«
 
-»Hm …!"
+»Hm …!«
 
 Harald wiederholte das sehr gedehnte »Hm«, und Milenz
 schoß das Blut zu Kopfe.
 
 »Tatsache!« stieß er hervor … »Es … es ist derselbe
 Krug, Herr Harst, — Sie waren ja schon vormittags unter
-wenig angenehmen Begleitumständen hier —, — also der-
-selbe Krug, dem Sie Beachtung schenkten, als Sie …"
+wenig angenehmen Begleitumständen hier —, — also derselbe
+Krug, dem Sie Beachtung schenkten, als Sie …«
 
 »Ja, — und Fräulein Gisela wurde sehr blaß,« bemerkte
 Harst so nebenbei.
 
 Milenz wurde noch nervöser.
 
-»Gisela … war … kränklich …"
+»Gisela … war … kränklich …«
 
-»Und fuhr mit dem Grafen Caldenhover zum Tennis-
-spiel … — Lassen wir das. Also der Krug ist gestohlen.
+»Und fuhr mit dem Grafen Caldenhover zum Tennisspiel
+… — Lassen wir das. Also der Krug ist gestohlen.
 Wann, wie?«
 
 <@pagebreak/>
 »Heute gegen ein Uhr mittags … Ich war allein hier
-in der Villa …"
+in der Villa …«
 
 »Sie kamen von Kladow herein auf den Anruf des
 Chauffeurs hin?«
@@ -1700,13 +1700,13 @@ Ich bin ja schließlich auch nicht Privatdetektiv, ich würde
 diese Berufsbezeichnung sogar energisch ablehnen, denn ich
 nehme nie Honorar, trage sogar die Unkosten und bin mithin
 Privatmann, der aus Liebhaberei sogenannte Probleme
-löst."
+löst.«
 
 Milenz knickte sichtlich zusammen. »Nur das nicht, Herr
 Harst, — nur keine Mißverständnisse und keine Überempfindlichkeit,«
 bat er überstürzt. »Fragen Sie in Gottes
-Namen … Ich glaubte nur, daß die eigentümlichsten Um-
-stände des Diebstahls Ihnen wichtiger wären als eine Ziegelruine
+Namen … Ich glaubte nur, daß die eigentümlichsten Umstände
+des Diebstahls Ihnen wichtiger wären als eine Ziegelruine
 nebst Unkraut und verrostetem Zaune … Kinder
 spielen jetzt dort im Hofe, und ich habe nichts dagegen …«
 
@@ -1784,7 +1784,7 @@ Leider habe ich ihn mir nicht genau betrachtet.«
 
 »Ich war ganz arglos. Der Monteur sagte, er werde nur
 nachmessen, wieviel Draht gebraucht würde. — Ich ließ ihn
-höchstens zwei Minuten allein, fand ihn nicht mehr, -- —
+höchstens zwei Minuten allein, fand ihn nicht mehr, — —
 und der Tonkrug war verschwunden, Haustür und Pforte
 Standen offen. Mehr weiß ich nicht — — leider.«
 
@@ -1797,8 +1797,8 @@ die ich Ihnen nicht beantworten kann, Herr Harst, unter
 keinen Umständen,«
 
 Harald schaute Milenz gerade in die Augen. »Dann
-werde ich selbst mir die Antwort geben: Weil dieser Ton-
-trug Lediglich die Umhüllung einer Japanvase war, die
+werde ich selbst mir die Antwort geben: Weil dieser Tonkrug
+Lediglich die Umhüllung einer Japanvase war, die
 Ihnen sehr gefährlich werden kann.«
 
 Milenz erbleichte so stark, daß sein Gesicht vollkommen
@@ -1852,7 +1852,7 @@ diesem Einbruch?«
 
 »Also als Sie merkten, daß Sie beobachtet wurden …«
 
-»Ja — durch Japaner …»
+»Ja — durch Japaner …«
 
 <@pagebreak/>
 Harald zog sein schmales Notizbuch hervor, blätterte
@@ -1867,10 +1867,10 @@ Kinder sind nicht vorhanden. — Milenz wollte zu
 Japan Handelsbeziehungen anknüpfen, seine Privatgeschäfte
 dort mißfielen jedoch den amtlichen Stellen,
 und man rief ihn bereits September 1925 zurück.
-Er gab die konsularische Laufbahn auf und ward Wie-
-der nur Großindustrieller.«
+Er gab die konsularische Laufbahn auf und ward Wieder
+nur Großindustrieller.«
 
-— Auch das stimmt?"
+— Auch das stimmt?«
 
 »Gewiß, Herr Harst, mit einer Einschränkung freilich,
 auf die ich hier nicht eingehen kann.«
@@ -1882,23 +1882,23 @@ die Schüsse, mit denen Sie Okara und Sakatu bedachten,
 gingen fehl, und Sakatu entfloh nachher, der andere sitzt
 in Plötzensee — nicht lange mehr … — Die Einzelheiten
 verdanken wir dem braven Most. — Hat Sakatu Sie
-nie wieder bedroht?
+nie wieder bedroht?«
 
 Milenz verneinte zögernd.
 
-»Sie fürchteten ihn aber?" fragte Harst Hartnäckig.
+»Sie fürchteten ihn aber?« fragte Harst Hartnäckig.
 
 Er bekam keine Antwort.
 
 »Nun gut, ich will nicht weiter in Sie dringen … Sie
 nehmen an, Sakatu hat den heutigen Diebstahl veranlaßt?«
 
-»Ja ... —« Milenz wurde wieder nervös. Harsts
+»Ja … —« Milenz wurde wieder nervös. Harsts
 Fragen drehten sich zu eng um den kitzlichen Punkt. »Wollen
 Sie noch mehr wissen, Herr Harst? Ich könnte Ihnen kaum
-noch sachdienliche Angaben machen …"
+noch sachdienliche Angaben machen …«
 
-»Sie irren sich. -- Brachten Sie diese Vase aus Japan
+»Sie irren sich. — Brachten Sie diese Vase aus Japan
 mit?«
 
 <@pagebreak/>
@@ -1911,9 +1911,9 @@ aus Yokohama hierher mitnahmen …« ergänzte Harald,
 Es war ein sehr altes Stück, sehr schön verziert. Als Sie
 merkten, daß Okara und Sakatu hinter Ihnen und der Vase
 her waren, als der erste Diebstahl durch Pistolenschüsse und
-Verhaftung ein schnelles Ende fand, trafen Sie mit …"
-— Harst machte eine atembeklemmende Pause — "... mit
-Saulus Remscheid ein besonderes Abkommen ..."
+Verhaftung ein schnelles Ende fand, trafen Sie mit …«
+— Harst machte eine atembeklemmende Pause — »… mit
+Saulus Remscheid ein besonderes Abkommen …«
 
 Alle bisherigen Attacken Harsts waren im Vergleich zu
 dieser Scheinangriffe gewesen.
@@ -1930,7 +1930,7 @@ Milenz hörte es nicht.
 
 »Kognak …«!« stöhnte er …
 
-»Geh' öffnen," flüsterte Harald.
+»Geh’ öffnen,« flüsterte Harald.
 
 Ich ließ ihn ungern auch nur für Sekunden mit dem
 Mörder Milenz allein, denn Milenz war »der Mann«,
@@ -1939,7 +1939,7 @@ daran zweifelte ich keinen Moment,
 Vor der Gitterpforte stand ein halbwüchsiger Bursche
 mit einem Briefe.
 
-»für den Herrn Kommerzienrat …"
+»für den Herrn Kommerzienrat …«
 
 »Von wem?«
 
@@ -1954,7 +1954,7 @@ Kerl, er schielte und sein Deutsch — na, ich danke! Ne Mark
 <@pagebreak/>
 jab er mir … Aber er suchte erst lang’ in sein Portmaneh,
 — ne Mark war ihm wohl zu viel, aber er hatte keen
-Kleinjeld …"
+Kleinjeld …«
 
 Ich trug den Brief hinein. Es war Großformat, feinstes
 Büttenpapier, aber Maschinenschrift:
@@ -2065,7 +2065,7 @@ beobachten … Die Villa Milenz verdient keine andere Bezeichnung.
 Ich bin ihm auf der Spur, Herr Harst, ich habe
 gute Beziehungen, er ist mit dem Selbstfahrer vor zwei
 Stunden davongerast … Wenn Saulus Remscheid noch
-reden könnte!!"
+reden könnte!!«
 
 »Ja — wenn …! — Wollen Sie hier den ganzen Tag
 Ihren Urlaub an der Laterne verbringen?!«
@@ -2076,14 +2076,14 @@ durch einen Bengel. Wissen Sie das?«
 
 »Ja, lieber Most, und er hat den Brief verbrannt.«
 
-»Ungelesen?" fragte Most schnell.
+»Ungelesen?« fragte Most schnell.
 
 »Ungelesen! Er hielt ihn für einen Reklamewisch, denke
-ich."
+ich.«
 
 Most verzog den Mund. »Ich lese jeden Brief.«
 
-»Ja, selbst in Papierschnitzeln … —« Wiedersehen, Herr
+»Ja, selbst in Papierschnitzeln … — Wiedersehen, Herr
 Konkurrent … Viel Glück!«
 
 Wir gingen weiter.
@@ -2135,11 +2135,11 @@ Er erschrak. »Herr … Harst?!«
 
 »Wo ist deine Großmutter?«
 
-»Sie klopft Teppiche aus — unten im Fabrikhof …
+»Sie klopft Teppiche aus — unten im Fabrikhof …«
 
-"Führe uns hin — etwas fix ...!«
+»Führe uns hin — etwas fix …!«
 
-»Ich … darf nicht …"
+»Ich … darf nicht …«
 
 »Weshalb nicht?«
 
@@ -2160,17 +2160,17 @@ den »Onkel«, und …«
 »Durch den zweiten Hof und den kaputten Bretterzaun.«
 
 Harst lief die Treppen hinab. Wir fanden uns leicht
-zurecht, und wir sahen auch im Bahnhof auf einem pro-
-visvrisden Gerüst einen fadenscheinigen Teppich hängen.
+zurecht, und wir sahen auch im Bahnhof auf einem provisorischen
+Gerüst einen fadenscheinigen Teppich hängen.
 Kinder spielten in der Nähe, — sie sagten, die Alte Schimmeln
 sei vor einer Weile nach der Fabrik gegangen … dort
 von der anderen Seite sei der Eingang.
 
 Unkraut, Gestrüpp, alte Fässer, Kisten halbverfault, —
-in der Fabrik kein Fenster heil, — — eine Ruine ...
+in der Fabrik kein Fenster heil, — — eine Ruine …
 
-Das Tor des Gebäudes, verrostetes Eisen, war nur an-
-gelehnt … Ein zementierter langer Flur … Mitten darin
+Das Tor des Gebäudes, verrostetes Eisen, war nur angelehnt
+… Ein zementierter langer Flur … Mitten darin
 lag Frau Schimmel auf dem Gesicht.
 
 Sie war tot. Sie hatte eine Schußwunde in der linken
@@ -2185,8 +2185,8 @@ trostloser Enttäuschung,
 
 Er nickte schwach und raffte sich auf.
 
-»Kinder, die spielen, haben wenig genaues Schätzungs-
-Vermögen für Zeitablauf. Die Schimmel ist mindestens schon
+»Kinder, die spielen, haben wenig genaues Schätzungsvermögen
+für Zeitablauf. Die Schimmel ist mindestens schon
 eine halbe Stunde tot. So lange muß es her sein, denn der
 Mann ist bereits anderswo tätig. Wenn wir nun schon
 einmal hier sind, wollen wir zum Boden emporsteigen. Noch
@@ -2202,8 +2202,8 @@ Die Zementtreppen waren im Mittelbau auffällig sauber,
 wie gefegt. Auch unten hatte ich dasselbe bemerkt. Es war
 kein Staub vorhanden, also auch keine Staubspuren. Wir
 vermieden jedes Geräusch, gelangten bis zum leeren niederen
-Bodenraum, der eine einzige flache Fläche bildete, nur durch-
-brachen von dem Gebälk und den Eisenstreben,
+Bodenraum, der eine einzige flache Fläche bildete, nur durchbrochen
+von dem Gebälk und den Eisenstreben,
 
 Wir fanden auch das Bodenfenster, durch das die isolierte
 Litze bis zu einem Balken gut versteckt hinlief. Man mußte
@@ -2218,8 +2218,8 @@ eng zusammengestellt.
 »Hier hat Sakatu gefunkt,« meinte Harst leise. »Sakatu,
 der natürlich mit zu dem »Konsortium« gehört, das gar
 nicht Daran denkt, die Fabrik zu kaufen, sondern nur die
-Schlüssel haben wollte und ein Recht, das Grundstück zu be-
-treten. Sakatu ist jedoch keineswegs …«
+Schlüssel haben wollte und ein Recht, das Grundstück zu betreten.
+Sakatu ist jedoch keineswegs …«
 
 Was Herr Sakatu keineswegs war, erfuhr ich Leider
 nicht, denn Leute, unter deren Füßen sich die Dielen plötzlich
@@ -2267,7 +2267,7 @@ Anzug ab und drückte mir stumm die Hand.
 »Wer war der Kerl?« fragte er dann.
 
 »Derselbe, den der Überbringer des Briefes an Milenz
-mir beschrieb."
+mir beschrieb.«
 
 »Ja — *der Mann*,« nickte er. »Der Mann, der an
 alles denkt … Hätte er uns dort hinabbefördert, und seine
@@ -2335,12 +2335,12 @@ Lücke nestelte an seiner schicken Krawatte. »Wiedersehen
 Er empfing uns in der Beusselstraße vor dem Hause. Er ist,
 was ich bin …«
 
-Harst beugte sich überraschend vor ...
+Harst beugte sich überraschend vor …
 
 »Japanischer Geheimpolizist?«
 
-»Mehr noch: Er ist der Leiter der Sektion B der ge-
-Heimen politischen Polizei in Tokio.«
+»Mehr noch: Er ist der Leiter der Sektion B der geheimen
+politischen Polizei in Tokio.«
 
 »und … und Okara?«
 
@@ -2373,8 +2373,8 @@ mir schrecklich. Ich war nie verlobt.
 
 Dann setzte sich Harald zu uns und füllte seine Tasse.
 »Mein Alter, Milenz hat einen zweiten Brief erhalten …
-ganz wie ich erwartete. Er wird um neun sich ebenfalls ein-
-finden. Ob er über die dann Anwesenden erfreut sein wird,
+ganz wie ich erwartete. Er wird um neun sich ebenfalls einfinden.
+Ob er über die dann Anwesenden erfreut sein wird,
 bezweifele ich, aber die Geschichte mit der Vase muß unbedingt
 ein Ende haben — so oder so.«
 
@@ -2391,8 +2391,8 @@ Wenn er Chef einer Abteilung der japanischen Geheimpolizei
 war, verstand er es auch, allerhand Masken anzulegen.
 
 Die Stunden bis zum Empfang unserer Gäste verflogen
-sehr schnell. Dann, kurz nach dem Abendessen, meldete Mat-
-Hilde als ersten den Kommerzienrat.
+sehr schnell. Dann, kurz nach dem Abendessen, meldete Mathilde
+als ersten den Kommerzienrat.
 
 »Legen Sie bitte gar nicht ab,« sagte Harald zu ihm.
 »Wir werden nachher doch sofort aufbrechen.«
@@ -2405,7 +2405,7 @@ habe aber auch den zweiten verbrannt.« Es klang etwas
 ironisch.
 
 »Das ist gleichgültig …« Harst horchte nach draußen,
-ein Auto fuhr vor. Er fügte schnell hinzu: "Ich weiß trotzdem,
+ein Auto fuhr vor. Er fügte schnell hinzu: »Ich weiß trotzdem,
 <@pagebreak/>
 was in den Briefen stand … Wie viel forderte der
 Mann für die Rückgabe der Vase?«
@@ -2415,13 +2415,13 @@ Milenz machte ein sehr langes Gesicht …
 »Woher wissen Sie das?!«
 
 »Oh — später reden wir im Zusammenhang darüber …
-Sie müssen scHon entschuldigen, daß auch Kriminalkommissar
+Sie müssen schon entschuldigen, daß auch Kriminalkommissar
 Doktor Lücke mit von der Partie ist … Auch den Japaner
 Sakatu werden Sie heute wiedersehen … Da — sie läuten
 schon …«
 
 Milenz Augen weiteten sich vor Schreck. »Das — das ist
-gegen die Abrede!« rief er empört. »Ich werde …" — er
+gegen die Abrede!« rief er empört. »Ich werde …« — er
 wollte zur Tür.
 
 »Bleiben Sie!« Harsts Ton konnte kaum schärfer sein,
@@ -2464,7 +2464,7 @@ feierlich. »Ich ahne, daß der Umstand, daß aus meiner
 Pistole eine Patrone fehlte, einen geradezu lächerlichen Verdacht
 auf mich gelenkt hat … Ich kann durch Zeugen beweisen,
 daß ich heute früh in Kladow in meinem Park
-nach einer Krähe schoß …»
+nach einer Krähe schoß …«
 
 »Brechen wir auf!« rief Harst, und ich sah, daß er
 Sakatu einen Patentdietrich in die Hand drückte. »Ich habe
@@ -2486,8 +2486,8 @@ Vor der Haustür stand Engel Gabriel in einem uralten
 Mantel, den er mit einer Strippe umgürtet hatte: Schlafrockersatz.
 
 »Donnerwetter, wen bringen Sie da …« — und er
-schien über Milenz und Lückes Anblick wenig erbaut, be-
-herrschte sich jedoch, zerfloß ebenso schnell in Liebenswürdigkeit
+schien über Milenz und Lückes Anblick wenig erbaut, beherrschte
+sich jedoch, zerfloß ebenso schnell in Liebenswürdigkeit
 und geleitete uns nach oben in »Miß Faferfoul« ehemaliges
 Wohnzimmer.
 
@@ -2513,9 +2513,9 @@ Wände haben überall Ohren …«
 »Hier nicht!« lachte Engel Gabriel. »Also — haben Sie
 das Geheimnis ergründet?«
 
-"Ja ...«
+»Ja …«
 
-»So?! Wirklich?! -- Und haben Sie auch den Mörder
+»So?! Wirklich?! — Und haben Sie auch den Mörder
 gefunden?«
 
 »Auch das … Er ist hier in Ihrer Wohnung …«
@@ -2531,7 +2531,7 @@ hier …«
 
 »Nein, wir kommen mit … Vorwärts! Ihr Hängeboden
 dort wird den Kerl anlocken … Ein Hängeboden
-ist ein gutes Versteck …
+ist ein gutes Versteck …«
 
 Lücke stürmte schon hinaus, drängte Most beiseite, und
 Most war sehr blaß, nicht mehr dunkelrot.
@@ -2540,13 +2540,13 @@ Wen fanden wir auf dem Hängeboden? — Ich wußte es
 vorher: Sakatu!
 
 Und Sakatu reichte Harst nun den großen Tonkrug
-zu ...
+zu …
 
 Das war die dritte Überraschung.
 
 Milenz wollte Most an die Kehle.
 
-»Schurke, also Sie sind der Erpresser!!"
+»Schurke, also Sie sind der Erpresser!!«
 
 »und der Mörder!« ergänzte Harst … »Hände nach
 hinten, Most, — das Spiel ist aus!«
@@ -2562,8 +2562,8 @@ Zeit, als Herr Milenz Generalkonsul in Yokohama war,
 wurden politische Urkunden von höchster Wichtigkeit gestohlen.
 Ein Beamter war durch eine fremde Macht bestochen worden,
 verbarg die Papiere im Doppelboden einer kostbaren Vase,
-die dann dem Diebe, der nachher hingerichtet wurde, ge-
-stohlen wurde. Nach mühseligen Nachforschungen ermittelten
+die dann dem Diebe, der nachher hingerichtet wurde, gestohlen
+wurde. Nach mühseligen Nachforschungen ermittelten
 wir, daß Herr Milenz die Vase gutgläubig erworben und
 mit nach Berlin genommen hatte. Wir mußten die Urkunden
 unbedingt ganz unauffällig zurückgewinnen. Inzwischen hatte
@@ -2578,15 +2578,15 @@ Weitere mag Herr Harst erklären.«
 
 Harald schilderte zunächst die gesamten Vorgänge, ohne
 eine Deutung der Einzelheiten zu geben. Erst dann besprach
-er verschiedene Hauptpunkte, die die eigentliche Lösung da-
-für brachten, wie er auf Gabriel Most als zweifelhaften Mit-
-Spielen gekommen war,
+er verschiedene Hauptpunkte, die die eigentliche Lösung dafür
+brachten, wie er auf Gabriel Most als zweifelhaften Mitspieler
+gekommen war,
 
 Der aufmerksamste Zuhörer war Most, er ließ kein Auge
 von Harst, und wiederholt nickte er Beifall oder schüttelte
 empört über seine begangenen Fehler den kahlen Kopf.
 
-»... Most lockte uns in die Villa Milenz, weil er
+»… Most lockte uns in die Villa Milenz, weil er
 hoffte, ich würde die Vase entdecken, von deren geheimem
 Wert er auf sehr einfache Art Kenntnis erhalten hatte. Er
 kannte Saulus Remscheid, der nebenbei auch Hehlergeschäfte
@@ -2627,7 +2627,7 @@ bringen und an einem bestimmten Dachbalken niederlegen und
 — ich hätte es auch getan …«
 
 Harst starrte den stolz grinsenden Most entsetzt an.
-»Most, Sie wollten auch Milenz in den Schacht stürzen!!"
+»Most, Sie wollten auch Milenz in den Schacht stürzen!!«
 
 »Natürlich! — Seltsame Frage von Ihnen!! Alle sollten
 <@pagebreak/>
@@ -2635,15 +2635,15 @@ sterben, die nur irgendwie mich verraten könnten. Achttausend
 Mark habe ich mir schon gespart, mit den 25&nbsp;000
 wären’s 33&nbsp;000 gewesen, — — ein Jammer, ein Jammer,
 all das ist nun umsonst gewesen, und … ich liebe das Geld,
-ich ...«
+ich …«
 
 »Sie sind irrsinnig,« sagte Doktor Lücke fast mitleidig.
 »Morgen wären Sie ohnedies in eine Anstalt übergeführt
 worden …«
 
 Sakatu trat auf den Kommerzienrat zu und reichte ihm
-die Hand. »Ich kann nur betonen, daß Sie in durchaus an-
-ständiger Form von Ihrer Macht, die Ihnen die Urkunden
+die Hand. »Ich kann nur betonen, daß Sie in durchaus anständiger
+Form von Ihrer Macht, die Ihnen die Urkunden
 verliehen, Gebrauch gemacht haben … Ein Geschäftsmann
 muß ein etwas weites Gewissen haben.«
 
