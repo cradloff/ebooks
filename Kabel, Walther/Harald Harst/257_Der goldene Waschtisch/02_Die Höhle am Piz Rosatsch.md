@@ -24,7 +24,7 @@ keine Charakteristik. Dick, schwammig, Hornkneifer …
 Sapiens laufen zu Millionen umher. Ich möchte nur wissen,
 was nachher werden wird, wenn wir die vier drüben im
 Schlosse feierlichst empfangen. Ich glaube, Tomy wird mit
-dabei sein, und dann werden der Außenseiter Sepp und
+dabei sein, und dann werden der Außenseiter Gepp und
 Georg Tomy uns gründlich auslachen. Weniger amüsant wird
 die Nacht für Herrn Hans von Rappart werden. Daß er den
 Julius Bexington niederknallte, weil dieser den Überfall auf
@@ -53,7 +53,7 @@ die Hunde der Schloßwächter irreführen?« fragte ich geradezu.
 »Wenn ein Hund das Prunkschlafzimmer betritt — und
 die Wächter haben nur Rüden für ihren verantwortungsvollen
 Nachtdienst als Begleiter —, dann würde dieser Hund,
-falls der Fingerhut noch unter dem goldenen Bett in dem,
+falls der Fingerhut noch unter dem goldenen Bett in dem
 Parkett stecken würde, sofort den Inhalt des Fingerhuts
 gewittert haben. Das Benehmen des Tieres würde den Wächter,
 der den ersten abendlichen Rundgang unternimmt, aufmerksam
@@ -105,7 +105,7 @@ kaum bemerkte, blieb sie mit schlaff herabhängenden Armen
 stehen und flüsterte stockend:
 
 »Ich … wußte mir keinen Rat, Herr Direktor …
-Sie waren heute an unseren Stammtisch so lieb zu mir …
+Sie waren heute an unserem Stammtisch so lieb zu mir …
 <@pagebreak/>
 Und auch Herr Schimmel hat heute …« — das Stimmchen
 versagte ihr.
@@ -211,7 +211,7 @@ zweiter hinab und lehnte den Fensterflügel wieder an. Wir
 tappten durch Pfützen und stolperten über Schotterhaufen.
 Die Raddampfer, ehrwürdige Museumsstücke, lagen ohne
 Licht an der Brücke. Wir begegneten keiner Seele. Am äußersten
-Ende der Brücke empfing uns Oberspahn-Sepps ärgerliches
+Ende der Brücke empfing uns Oberspahn-Gepps ärgerliches
 Flüstern.
 
 »Zum Teufel, wo bleiben Sie denn?! Rein ins Boot!
@@ -253,7 +253,7 @@ nichts. Ich wußte nur: Oberspahn und wir beide waren
 schmählich überrumpelt worden. Im Schloß war jetzt für
 die Verbrechersippe freie Bahn. Die nächtlichen Rundgänge
 waren eingestellt, und Harst hatte den Schuften die Arbeit
-erleichtert, wenn auch auf Veranlassung Alarich Sepps.
+erleichtert, wenn auch auf Veranlassung Alarich Gepps.
 
 <@pagebreak/>
 
@@ -282,18 +282,18 @@ Die Zeit verging, und die ruhelosen Gedanken umspielten
 mit beängstigender Klarheit die Vorgänge, die jetzt im Schlosse
 sich abspielen würden. Ich dachte nicht mehr an die zurückliegenden
 Ereignisse, nur noch an die gegenwärtigen. Die
-Schurken hatten fraglos gewußt, daß Oberspahn-Sepp sie im
+Schurken hatten fraglos gewußt, daß Oberspahn-Gepp sie im
 Schlosse hatte abfangen wollen und daß er Harald in besonderer
-Mission zu dem Oberverwalter geschickt oft hatte. Sie
+Mission zu dem Oberverwalter geschickt hatte. Sie
 würden ungestört die goldene Waschtischgarnitur und die
 kostbaren Statuetten und manches andere entführen, das
 wenig Raum beanspruchte. Ein überragendes verbrecherisches
 Genie hatte hier einen Plan vorbereitet, bei dem alle Chancen
-genaue erwogen waren. Alarich Sepp war diesem Genie erlegen
+genaue erwogen waren. Alarich Gepp war diesem Genie erlegen
 <@pagebreak/>
 genau wie wir. Der Trick mit dem Fingerhut war
-weise Voraussicht gewesen, falls man Sepp nicht wie gewünscht
-ausnutzen könnte. Aber Oberspahn-Sepp war zu
+weise Voraussicht gewesen, falls man Gepp nicht wie gewünscht
+ausnutzen könnte. Aber Oberspahn-Gepp war zu
 siegesgewiß gewesen, und Harsts Name und Paß hatten genügt,
 für Stunden das Schloß im Innern von Wächtern
 zu entblößen. Es war alles in allem ein Gaunerstreich, bei
@@ -302,12 +302,12 @@ dem die Gegenpartei kläglich abgeschnitten hatte.
 Ich schwitzte vor Aufregung. Ich malte mir aus, was
 weiter geschehen würde. Dieser Diebstahl mit seinen Einzelheiten
 konnte der Öffentlichkeit nicht verborgen bleiben.
-Schloß Herrenchiemsee war weltberühmt. Sepp und wir beide
+Schloß Herrenchiemsee war weltberühmt. Gepp und wir beide
 würden den Hohn und Spott der Tintenfische aller 
-Redaktionsstuben des Erdenrunds spüren. Alarich Sepp war
+Redaktionsstuben des Erdenrunds spüren. Alarich Gepp war
 als Beamter abgetan, es sei denn, daß er den Banditen die
-Beute wieder abjagte. Der goldene Waschtisch würde ihn
-daß Genick brechen.
+Beute wieder abjagte. Der goldene Waschtisch würde ihm
+das Genick brechen.
 
 Es regnete … Das Schilf rauschte, das Wasser des
 Sees plätscherte leise gegen die Bootsplanken.
@@ -426,7 +426,7 @@ heraus … Dann können Sie die Landschaft genießen
 Harst scheint zustimmend genickt zu haben. Koksede verhandelt
 weiter, und wir versprechen, was er verlangt. Er
 nimmt uns die Knebel und die Fesseln ab … Wir sehen
-… Es ist ein eleganten Wagen, breite Fenster, tadellos
+… Es ist ein eleganter Wagen, breite Fenster, tadellos
 <@pagebreak/>
 gefedert, — — wir sehen von Ehrwald aus die Zugspitze
 mit ihren gewaltigen hellen Gesteinsmassen … Ich erkenne
@@ -473,14 +473,14 @@ Neuyork der elektrische Stuhl — — für Mörder,« entgegnete
 Harst nur … — Koksede verzichtet auf weitere Konversation.
 Immerhin wissen wir jetzt, daß hinter uns ein zweites
 Auto mit »Engländern« dieselbe Straße benutzt, daß Alarich
-Sepp ebenfalls Dame spielen muß und daß Blauveilchen
+Gepp ebenfalls Dame spielen muß und daß Blauveilchen
 annimmt, wir würden bereitwilligst ein anständiges Lösegeld
 zahlen.
 
 <@pagebreak/>
 
 <h2>3. Kapitel.</h2>
-<h3>Die Hohle.</h3>
+<h3>Die Höhle.</h3>
 
 Finstermünz wird beinahe kritisch. Der Zöllner, der die
 Pässe revidiert und stempelt, ist von einem Schweizer Gendarm
@@ -626,20 +626,20 @@ meines Freundes herzlichst willkommen … Sie befinden
 sich hier in einer Höhle des Piz Rosatsch in zweitausend
 Meter Höhe über dem St. Moritz-Tal …«
 
-Bevor meine Augen sich vor an die grelle Beleuchtung
-gewöhnt haben, fällt irgendwo eine eiserne Tür krachend,
+Bevor meine Augen sich noch an die grelle Beleuchtung
+gewöhnt haben, fällt irgendwo eine eiserne Tür krachend
 ins Schloß. Wir sind allein …
 
 Nicht allein … In diesem Schlupfwinkel eines der
 verwegendsten Geldschrankspezialisten aller Zeiten sitzen uns
 mit bleichen Gesichtern Gisela Arndt, ihr Vater und Professor
-Oberspahn-Sepp gegenüber. Zwischen uns steht ein
+Oberspahn-Gepp gegenüber. Zwischen uns steht ein
 großer Holztisch … Die Höhle ist durch Bretterwände in
 drei Räume abgeteilt, ein jeder Raum hat elektrische Beleuchtung,
 elektrischen Ofen, Möbel, billige Teppiche …
 Ein elektrischer Kochherd ist auch vorhanden.
 
-Alarich Sepp, noch immer in der Maske des Oberspahn,
+Alarich Gepp, noch immer in der Maske des Oberspahn,
 meint mit beneidenswerter Sachlichkeit: »Nehmen
 wir uns erst mal gegenseitig die Fesseln ab … Vorläufig
 haben wir nun wohl Ruhe vor unseren freundlichen
@@ -660,7 +660,7 @@ Sie schmiegt sich an den hageren Chemiker, sie schluchzt
 an seiner Brust, und immer wieder klagt sie verzweifelt: »Oh,
 — wie konntest du das nur tun — wie konntest du nur!!«
 
-Alarich Sepp klappert mit Töpfen und Pfannen am
+Alarich Gepp klappert mit Töpfen und Pfannen am
 Herde. Er schneidet ein paar Konservenbüchsen auf.
 
 »Ihr Vater, Fräulein Gisela, hat sich durch Blauveilchen
@@ -673,13 +673,13 @@ nur vorbereitet, bleibt straffrei. Weinen Sie nicht … Hier
 sind Konserven … Wir haben nur Sie als Köchin. Ich
 jedenfalls kann mir nicht einmal ein Spiegelei zubereiten.
 In solchen Dingen bin ich Laie, in anderen auch, wie ich
-nun erkannt habe. Alarich Sepp ist von ein paar Gaunern
+nun erkannt habe. Alarich Gepp ist von ein paar Gaunern
 überlistet worden. Meine Laufbahn ist aus. — Hier …
 Eisbein in Gelee … Hier Kalbsgoulasch … Bitte …«
 
 Gisela Arndt küßte ihren Vater und trat ihr neues
 Amt an. Eine Viertelstunde später nahmen wir fünf Gefangenen
-die erste gemeinsame Mahlzeit ein. Sepp sprach
+die erste gemeinsame Mahlzeit ein. Gepp sprach
 über die Vorfälle am Chiemsee kein Wort mehr, und die
 Unterhaltung zwischen uns beiden und ihm drehte sich um
 die Schönheiten des Engadin. Doktor Arndt rührte keinen
@@ -710,13 +710,13 @@ Centime,« erklärte er sehr bestimmt und nahm noch ein
 Stückchen Zucker. »Oberinspektor Tomy wird unsere Fährten
 finden, und mein Bankkonto bleibt unversehrt.«
 
-»Optimist!« Sepp trommelte auf der Tischplatte. »Tomy
+»Optimist!« Gepp trommelte auf der Tischplatte. »Tomy
 wird uns nie finden, und nach drei Tagen haben wir hier
 den dauerhaftesten Rheumatismus, den man sich nur wünschen
 kann. Es hilft nichts, bester Harst … Sie müssen bluten.«
 
 »Bluten, damit Sie gesund werden,« nickte Harst mit
-eigentümlichem Augenzwinkern. »Ihnen, Herr Sepp, liegt sehr
+eigentümlichem Augenzwinkern. »Ihnen, Herr Gepp, liegt sehr
 viel an schleuniger Befreiung, damit Sie Ihr Schäfchen
 ins Trockene bringen können. Sie jagen der halben Million
 nach, hier werden Sie sie kaum finden, also drängt es Sie
@@ -726,7 +726,7 @@ obwohl ich wie gesagt mit aller Bestimmtheit auf den
 englischen Kollegen hoffe. Ich kann warten. Denken Sie
 sich etwas anderes aus, die Freiheit zu erringen.«
 
-Alarich Sepp hatte mit dem Daumen den Tabak in
+Alarich Gepp hatte mit dem Daumen den Tabak in
 seinem Pfeifenkopf fester gedrückt. Mir schien’s, als ob
 er Harsts Augen ausweiche. In seinem Verhalten lag ja
 auch eine gesunde Selbstsucht, die kaum verschleiert werden
@@ -738,7 +738,7 @@ zuckte ein flüchtiges Lächeln auf. »Schloß Herrenchiemsee
 war mir nur Mittel zum Zweck, und Sie beide auch …
 Ich pflege meine Dispositionen so zu treffen, daß der Gegner
 sie nie durchschaut. Entschuldigen Sie: Eigenlob stinkt, aber
-Alarich Sepp hat noch nie einen groben Schnitzer gemacht.
+Alarich Gepp hat noch nie einen groben Schnitzer gemacht.
 Ich wußte, daß Blauveilchens Bande irgendwo ein feudales
 Versteck haben mußte. Diese Leute sind moderne Verbrecher.
 Schlappmütze und rotes Halstuch, also Apachentyp, sind überwundener
@@ -758,23 +758,23 @@ zufrieden und gähnte ungeniert. »Warten wir ab,
 was Blauveilchen nachher verlangt … Ich lege mich nieder.
 Gute Nacht allerseits.«
 
-Er erhob sich reckte sich, steckte seinen Kneifer ein und
+Er erhob sich, reckte sich, steckte seinen Kneifer ein und
 <@pagebreak/>
 ging in den dritten Raum hinüber, wo drei einfache Klappbetten
 standen.
 
 Doktor Arndt und ich schauten ihm respektvoll nach.
-Weiß Gott, Alarich Sepp hielt seine Trümpfe allerdings
-zurück. Harst rief leise: »Sepp, — — einen Hochachtungsschluck!«
+Weiß Gott, Alarich Gepp hielt seine Trümpfe allerdings
+zurück. Harst rief leise: »Gepp, — — einen Hochachtungsschluck!«
 
 »Ein Scheck und ein Schreiben an Ihre Bank wären mir
-angenehmer,« ertönte Sepps vergnügte Stimme aus dem
+angenehmer,« ertönte Gepps vergnügte Stimme aus dem
 Nebenraum, und sein Bett knarrte und klirrte. — Auch der
 niedergedrückte Chemiker begab sich zur Ruhe. Die beiden
 Nebenräume hatten nur Vorhänge vor den Türöffnungen,
 und die Bretterwände reichten nicht ganz bis zur zackigen
 Höhlendecke empor. Als Doktor Arndt sich niederlegte, fluchte
-Sepp sehr unhöflich. »Sie könnten getrost leiser sein, zum
+Gepp sehr unhöflich. »Sie könnten getrost leiser sein, zum
 Teufel …! Oder bestellen Sie sich ein eigenes Zimmer.«
 
 Harst hob den Wasserkessel vom elektrischen Ofen und
@@ -876,7 +876,7 @@ das Schriftliche. Als er den Brief fertig hatte und
 als auf dem Scheck nur die Unterschrift fehlte, blickte er
 zu Koksede empor. »Die halbe Million gibt also uns fünf
 Gefangenen hier die Freiheit wieder, — nicht wahr: Dem
-Doktor, Gisela, dem Professor Oberspahn alias Sepp, Schraut
+Doktor, Gisela, dem Professor Oberspahn alias Gepp, Schraut
 und mir?«
 
 Koksede nickte mehrmals. »Natürlich — natürlich!« Er
@@ -887,7 +887,7 @@ Harst legte den Füllhalter neben den Scheck. »Schade,
 nochmals. Sie lügen, denn einer von uns fünfen ist nur
 Lockvogel …«
 
-Indem schlug Sepp den Vorhang zur Seite und kam
+Indem schlug Gepp den Vorhang zur Seite und kam
 <@pagebreak/>
 rasch herbei. Sein nadelscharfer Blick durchbohrte den scheu
 zurückweichenden Koksede. »Harst, — Arndts sogenannte Reue
@@ -901,15 +901,15 @@ jedoch Schlüssel und Pistolen noch rasch vom Tische aufgerafft.
 Die eiserne Tür schlug zu, und aus Giselas Raum
 ertönte ein verzweifeltes Weinen.
 
-»Armes Wurm!« sagte Sepp mitleidig und warf sich
+»Armes Wurm!« sagte Gepp mitleidig und warf sich
 auf den leeren Stuhl.
 
 <@pagebreak/>
 
 <h2>5. Kapitel.</h2>
-<h3>Alarich Sepps Rührei.</h3>
+<h3>Alarich Gepps Rührei.</h3>
 
-Sepp senkte die Stimme. »Ich habe auch das geahnt.
+Gepp senkte die Stimme. »Ich habe auch das geahnt.
 Arndt ist ein vollendeter Lump. Die Schufte hätten ihn
 und Gisela, wenn wir drei eingeschlafen wären, einfach hinausgelassen,
 die Tür wieder versperrt, die Schlösser von
@@ -917,7 +917,7 @@ außen verdorben und uns verhungern lassen — langsam, aber
 sicher. Ein Glück, daß Sie den Scheck nicht unterzeichnet
 haben, Harst.«
 
-Ich hatte mich zurückgelehnt und starrte Sepp verdutzt
+Ich hatte mich zurückgelehnt und starrte Gepp verdutzt
 an. Es war wenig Logik in diesen empörten Sätzen,
 und wie ein Mann von so geschultem Verstand derartige
 Widersprüche zutage fördern konnte, war mir unbegreiflich.
@@ -926,7 +926,7 @@ Ein so stummer Lockvogel wie er war noch nicht da
 gewesen. Harst hatte freilich als erster die Bezeichnung für
 Arndt gebraucht, und auch er war mir in dieser Hinsicht unverständlich.
 
-Harst entgegnete Sepp, indem er sinnend Sepps Hände
+Harst entgegnete Gepp, indem er sinnend Gepps Hände
 betrachtete, die mit dem vorläufig noch wertlosen Scheck
 spielten: »Wir werden uns schon den Rücken decken …
 Koksede wird mit neuen Vorschlägen zurückkehren, nachdem
@@ -934,7 +934,7 @@ er den großen Unbekannten, das Oberhaupt der Bande,
 gesprochen hat. Für alle Fälle wollen wir abwechselnd wachen.
 Der Grog hat mich müde gemacht.«
 
-Sepp sagte grob: »In solcher Lage trinkt man nicht! —
+Gepp sagte grob: »In solcher Lage trinkt man nicht! —
 Legen Sie beide sich nieder. Ich bleibe munter … Aber
 um die Sache dann rasch zu erledigen, schreiben Sie Ihren
 Namen hier unter den Wisch … Ich lege den Schreck in
@@ -968,45 +968,45 @@ einen dumpfen Fall …
 
 »Schraut, hierher!!«
 
-Harst hatte im Absprung Alarich Sepp, der bereits
+Harst hatte im Absprung Alarich Gepp, der bereits
 dicht vor der Tür gestanden hatte, umgerissen und kniete
-auf Sepps Rücken und hielt ihm die Hände fest.
+auf Gepps Rücken und hielt ihm die Hände fest.
 
 »Binden …!!«
 
 Geisterbleich erschien da Gisela neben uns … »Mein
 Gott, was tun Sie …?!«
 
-Harst sagte, indem er Sepps Beinkleider betastete und
+Harst sagte, indem er Gepps Beinkleider betastete und
 dann eine an einer Schnur befestigte kleine Repetierpistole
 hervorzog: »Professor Oberspahn wollte allzu selbständig handeln
 … Binden Sie Ihren Vater los.«
 
-Sepp saß nun mit schmerzlich-vorwurfsvoller Miene
+Gepp saß nun mit schmerzlich-vorwurfsvoller Miene
 am Tisch. »Ihre Scherze sind etwas derb, Herr Harst …«
 
 <@pagebreak/>
-»Im Vergleich zu denen, die Sie sich erlauben, Alderspohn
-spann, sind sie harmlos wie Kaninchen. — Herr Doktor
+»Im Vergleich zu denen, die Sie sich erlauben, Alderspohn,
+sind sie harmlos wie Kaninchen. — Herr Doktor
 Arndt, der Name des Lockvogels begann mit A, — aber ich
 habe niemals dieses A zu Arndt ergänzt, sondern zu Alderspohn.
 Es gab da mal vor Jahren einen gescheiterten Hamburger
 Rechtsanwalt Alderspohn, der ein getreues Ebenbild
-Alarich Sepps war, jedoch Europa den Rücken kehrte
+Alarich Gepps war, jedoch Europa den Rücken kehrte
 und trotz aller Steckbriefe nie gefaßt wurde. Ich hatte ihn
-völlig vergessen, und erst als hier Herr Professor Oberspahn-Sepp
+völlig vergessen, und erst als hier Herr Professor Oberspahn-Gepp
 des Schecks wegen so dringlich wurde, kam mir der
-Gedanke, Oberspahn-Sepp könnte vielleicht der große
+Gedanke, Oberspahn-Gepp könnte vielleicht der große
 Unbekannte und zwar Alderspohn sein. — Lieber Alderspohn,
-Bestien Sie mal die linke Hand … Weshalb immer die Hand
+öffnen Sie mal die linke Hand … Weshalb immer die Hand
 zur Faust ballen?!«
 
 In Alderspohns Hand lag ein zu einem schmalen Fidibus
 gefalteter Zettel, und darauf stand mit Bleistift geschrieben:
-»Laßt die Eisentür offen. Ich habe den Schreck. A.«
+»Laßt die Eisentür offen. Ich habe den Scheck. A.«
 
 »Diese Instruktion sollte durch das Schlüsselloch in Koksedes
-Finger gelangen,« meinte Harst. »Schraut, Knöpfe mal
+Finger gelangen,« meinte Harst. »Schraut, knöpfe mal
 Alderspohns Weste und Oberhemd auf …«
 
 An einem weißen Band hingen da zwei lange Schlüssel.
@@ -1045,11 +1045,11 @@ ist geglückt. Das Geld lag unter dem Steinherd in der Küche,
 die Bank kann sich freuen.«
 
 Harst schob mich vorwärts. »Du gestattest, daß ich dir
-in Mr. Georg Tomy den echten Sepp vorstelle, mein Alter,
-und Bubryton aus London dürften im Berliner Polizeipräsidium
+in Mr. Georg Tomy den echten Gepp vorstelle, mein Alter,
+und Bubryton und Bexington aus London dürften im Berliner Polizeipräsidium
 ebenfalls daheim sein.«
 
-Sepp-Tomy nahm Schnurrbart und Perücke ab …
+Gepp-Tomy nahm Schnurrbart und Perücke ab …
 Plötzlich ward auch sein dickes Gesicht recht schmal. »Herr
 Schraut, wenn Sie vielleicht gern Rührei essen … bitte …
 Harst mag die andere Rührszene erledigen. Ich höre und sehe
@@ -1057,7 +1057,7 @@ nichts, falls Doktor Arndt, Gisela und der Baron von
 Tschiska sich verflüchtigen … Ich wasche meine Hände an
 dem goldenen Waschtisch in Unschuld …«
 
-Sepp streichelte den Kopf seines Dobermann, der dicht
+Gepp streichelte den Kopf seines Dobermann, der dicht
 neben ihm saß, und in den Augen des Hundes war derselbe
 warme Schimmer wie in denen seines Herrn. — —
 

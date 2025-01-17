@@ -1,5 +1,7 @@
 <@pagebreak 3/>
 
+<h1>Der goldene Waschtisch</h1>
+
 <h2>1. Kapitel.</h2>
 
 <h3>Auf der Herreninsel.</h3>
@@ -32,7 +34,7 @@ zeigten. Da gab es einige, die die Blasierten spielten,
 andere, die ironisch grinsten, als ob dieses reichste aller
 Schlösser der Welt ihrer modernen Denkungsart absolut nicht
 imponierte, — andere wieder, die in stiller Ergriffenheit
-des unglücklichen Geisteskranken Königs gedachten, der seinem
+des unglücklichen geisteskranken Königs gedachten, der seinem
 Bayernlande diese unvergänglichen Denkmäler einer künstlerischen
 Seele und dem gesamten deutschen Volke einen
 Richard Wagner als Musikheros hinterlassen hatte, denn ohne
@@ -57,7 +59,7 @@ Näschen und blanke braune Rehaugen, war tadellos gewachsen,
 von knospenhafter Fülle und einer gewissen Straffheit
 in Gang und Haltung, die auf regelmäßige sportliche
 Betätigung hindeutete. Dicht neben ihr hielt sich jetzt ein älterer
-Herr, unter dessen verblichenen Lodenmantel derbe
+Herr, unter dessen verblichenem Lodenmantel derbe
 Gebirgsschuhe und dicke Wadenstrümpfe zum Vorschein kamen.
 Sein auffallend länglicher Kopf, umrahmt von einem dünnen
 grauen Vollbart, hatte finstere, aber durchgeistigte Züge,
@@ -139,7 +141,7 @@ Augenbrauen beschnitten hat. Blicken Sie nicht hin, Schimmel.
 Gepp entgeht nichts. Sie wissen, daß er vom Chef
 stets nur in besonderer Mission verwandt wird. Der großen
 Menge ist er völlig unbekannt, und sogar im Präsidium kennen
-ihn nur die Auserwählten. Die Berliner Kriminalpolizei,
+ihn nur die Auserwählten. Die Berliner Kriminalpolizei
 braucht solche Kommissare, die sich immer im Dunkeln halten.
 Gerade ihre Tarnkappe ist ihre Stärke. Ich möchte wissen,
 was Gepp hier tut.«
@@ -182,7 +184,7 @@ schweißiges Gesicht. »Ich sehe keine Momentkamera … Da
 »Kennen Sie den Alten denn, Herr Direktor?«
 
 »Gewiß. Es wäre besser, lieber Schimmel, wenn Sie
-sie nicht lediglich für die Reichhaltigkeit von Speisenkarten
+sich nicht lediglich für die Reichhaltigkeit von Speisenkarten
 interessieren würden. Doktor Arndt ist der berühmte Chemiker,
 der als moderner Goldmacher monatelang alle Welt
 in Atem hielt, bis sich herausstellte, daß seine Methode,
@@ -292,7 +294,7 @@ Neben ihm auf der Bank hockte sein Musterexemplar von
 Hund und kaute Zuckerstückchen.
 
 »… Sehen Sie, Fräulein Arndt, meine Rita nehme
-ich stets mit ins Gebirges, obwohl sie …«
+ich stets mit ins Gebirge, obwohl sie …«
 
 »Ach, es ist eine Hündin?« rief Gisela enttäuscht.
 
@@ -306,7 +308,7 @@ Gisela lachte. »Nur nicht um den Hals zu hängen …«
 zwinkerte heimlich Doktor Arndt zu, »… nein, aber in den
 Rucksack zu stecken … Mittelgröße bei Hunden ist am
 besten, genau wie beim Menschen. Große oder kleine Menschen
-haben durch ihre Leibeslänge stets ein ziemlich untrügliches,
+haben durch ihre Leibeslänge stets ein ziemlich untrügliches
 Kennzeichen an sich. Mittelmaß fällt nie auf.« Er schaute
 träumerisch über den See zur Fraueninsel hinüber. Die
 Schornsteine des Klosters dort qualmten. »Sie brauen
@@ -325,7 +327,7 @@ darf das nicht durcheinander werfen.« —
 Zwei Tische weiter hatten Harnisch und sein Schimmel
 Platz genommen. Gerade als der Direktor leise erklärte:
 »Gepp nennt sich hier Oberspahn, Professor im Ruhestande
-Oskar Oberspahn,« trat ein der Herr in hellem Flanellanzug
+Oskar Oberspahn,« trat ein dicker Herr in hellem Flanellanzug
 an den Tisch und fragte in gebrochenem Deutsch, ob die
 Herren gestatteten …
 
@@ -345,7 +347,7 @@ Keuchend und pustend ließ er sich auf die Holzbank fallen
 und legte dann den Kopf tief ins Genick und spähte nach
 einer Kellnerin umher.
 
-»Freilain — — Frei…lein!!« Seine Stimme klang
+»Freilain — — Frei…lain!!« Seine Stimme klang
 kurzatmig und piepsend. Er bestellte Kaffee und ein »belecktes
 Brrott« … und sagte dann zu Harst mit gemütlichem
 Grinsen: »Sie wonnen auch in die See-Hotel?«
@@ -459,7 +461,7 @@ etwas zu starker Tobak.«
 Der Engländer dachte angestrengt nach. »Ja, eigentlich
 haben Sie recht … Ich stelle mir soeben vor, man würde
 hier Schloß Herrenchiemsee unter Feuer nehmen, weil sich
-dort Verbrecher fortgesetzt haben. Halten Sie es für möglich,
+dort Verbrecher festgesetzt haben. Halten Sie es für möglich,
 dort nachts einzudringen?«
 
 Sein Blick hatte plötzlich etwas Lauerndes bekommen.
@@ -534,14 +536,14 @@ wir, daß wir von hier wegkommen. Ich gehe hier nie mehr
 ohne meine Pistole aus.«
 
 Ich ruderte … Als wir den Pfad zum Bootssteg überblicken
-konnten, war niemand mehr zu setzen.
+konnten, war niemand mehr zu sehen.
 
 Harst hielt die blutende Hand ins Wasser. Ich fragte:
 »Was sollte der Fingerhut mit dem spitzen Dorn?«
 
 »Wenn ich mir das erklären könnte,« entgegnete Harald
 finster, »so würde ich vielleicht Gisela Arndt durch den Ortsgendarm
-verlassen lassen.«
+verhaften lassen.«
 
 <@pagebreak/>
 
@@ -642,7 +644,7 @@ Enttäuschungen durchgemacht …«
 »Die bleiben niemandem erspart. Man soll die Hoffnung
 auf eine günstige Wendung nie aufgeben.«
 
-Sie schaute mich lange an, »Sie sehen so vertrauenerweckend
+Sie schaute mich lange an. »Sie sehen so vertrauenerweckend
 aus, Herr Schimmel, und wir sind nun doch Hausgenossen.
 Mein Zimmer liegt dem Ihren gerade gegenüber.
 Ich wollte heute Papas Pechsträhne endlich zerstören, und
@@ -818,7 +820,7 @@ allein,« klärte Harst mich in kürze auf. »Ich
 hielt es für richtig, Gepp gegenüber die Maske zu lüften.
 Die Verantwortung für das, was geschehen kann, ist zu groß.«
 
-Alarich Gepp meinte schroff. »Vermeiden Sie besser
+Alarich Gepp meinte schroff: »Vermeiden Sie besser
 den Namen Gepp. Ich bin Oberspahn. Hier haben die Wände
 sicherlich Ohren.«
 
@@ -872,7 +874,7 @@ Schriftsteller ist. Was er schreibt, sind Tagebücher von Fall
 zu Fall. Ich erkenne Ihre Überlegenheit ohne weiteres an,
 wir sind aber darin verwandte Seelen, daß wir, Sie und ich,
 <@pagebreak/>
-unsere Trümpfe bis zum Schluß zurückzubehalten. Ich will
+unsere Trümpfe bis zum Schluß zurückbehalten. Ich will
 Sie nichts fragen, und Sie werden mich nichts fragen. —
 Wann also?«
 
@@ -965,7 +967,6 @@ Mensch mit eingefrorenem Grinsen, Intimus von zu 4.
 — dicker, schwarzer Kerl mit Hornkneifer. Spricht perfekt
 englisch, aber ohne jeden Londoner singenden Ton. — Hund:
 Dobermann.
-
 <@pagebreak/>
 
 2. Mr. Julius *Bexington* †, angeblich Londoner Kaufmann,
@@ -1047,7 +1048,7 @@ ihn nicht verletzen, und als sich unsere Hände über dem
 Tisch ineinanderfügten, lag die meine wie in einem eisernen
 Schraubstock. Tomy griff mit der Linken nach meiner Übersicht
 über die beiden Stammtische, und mit einem nachsichtigen
-blinzeln seiner klaren Augen gab er meine Hand frei und
+Blinzeln seiner klaren Augen gab er meine Hand frei und
 überflog das Geschriebene.
 
 <@pagebreak/>
@@ -1114,7 +1115,7 @@ was Sie beide hier mit dem Kollegen Gepp flüsterten. Wann
 soll denn nach Gepps Meinung die Sache befingert werden?«
 
 »Übermorgen nacht … — Weshalb geben Sie sich
-Gepp nicht zu Erkennen?!« Ich erwartete sehr viel von diesem
+Gepp nicht zu erkennen?!« Ich erwartete sehr viel von diesem
 Angriff, aber der Verstoß verpuffte ohne sichtliche Wirkung,
 denn Tomy lachte kurz auf und feixte mich wohlwollend an.
 »Sie kennen Gepp nicht … Ich habe mehr wie genug
@@ -1236,7 +1237,7 @@ Er deutete eine Verbeugung an und ließ mich allein. Ich
 schaute ihm nach. Er hatte etwas sehr Selbstbewußtes in Gang
 und Haltung, ich möchte sagen auch eine natürliche Vornehmheit.
 Es war schade um ihn. Mit diesem Äußeren, mit
-angenehmen Stimme ein Gauner, — — ich beugte mich wieder
+angenehmer Stimme ein Gauner, — — ich beugte mich wieder
 zum Fenster hinaus, ich sah diesen Baron am Märker-Tisch
 Platz nehmen, ich sah, wie Gisela ihn anstrahlte …
 
@@ -1248,7 +1249,7 @@ Der Bootsmotor war gänzlich verschmutzt. Immerhin
 brachte ich ihn in Gang, und vorläufig würde er kaum streiken.
 
 Die Mondscheinfahrt mit Gisela würde nachher eine
-Weniger idyllische Fortsetzung ohne Gisela finden.
+weniger idyllische Fortsetzung ohne Gisela finden.
 
 Um halb zehn aß ich im kleinen Gastzimmer einsam
 mein Abendbrot. Es regnete sacht. Der Mond würde ausbleiben

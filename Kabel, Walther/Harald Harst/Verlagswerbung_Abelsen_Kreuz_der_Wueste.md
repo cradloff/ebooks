@@ -28,7 +28,7 @@ Alltagswege« gehen.
 Die Bändchen: »Abelsen, Abseits vom Alltagswege«
 sind durch jede Zeitschriftenhandlung zu
 beziehen. Man erhält dieselben auch gegen Voreinsendung
-von 50 Pfg, für einen Band portofrei vom
+von 50 Pfg. für einen Band portofrei vom
 <div style="font-size: x-large; text-align: center;">Verlag moderner Lektüre</div>
 <div style="font-size: large; text-align: center;">Berlin SO16 / Michaelkirchstraße 23a</div>
 

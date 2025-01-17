@@ -24,7 +24,7 @@ von Beginn an. Ich gehöre zu literarisch und künstlerisch
 sehr anspruchsvollen Kreisen, und es drängt mich,
 Ihnen zu sagen, welch großer Genuß diese Arbeiten bereiten.
 
-Herr K. P. in Oh. schreibt:
+Herr K. P. in Ch. schreibt:
 
 > Ich freue mich, Ihnen einmal selbst sagen zu können, wie
 viel Freude Sie mir und meinem Sohne durch die Lektüre
