@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">4134fed5-7730-4b48-9ede-fcece84447d4</entry>
+<entry key="title">Der goldene Waschtisch</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">257</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Der goldene Waschtisch.
+
+Als der Fremdenführer, der zum Leidwesen der Hälfte der Schaulustigen nur allzu stark bayrischen Dialekt sprach, im Prunkschlafzimmer König Ludwigs II. auf den goldenen Waschtisch deutete und wieder hervorhob, daß auch dieser genau wie das Prunkbett und ein Teil der Wandarabesken sehr dick vergoldet sei, — als er auf die Waschgarnitur zeigte und mit einer gewissen gewohnheitsmäßigen Feierlichkeit die Worte »Reines Gold« über die andächtig gesenkten Köpfe der Fremden hinschmetterte, hörte ein kleiner Mann mit einer dicken Knollennase in sauberer Chauffeurtracht neben sich einen klingenden Laut und schielte nach links auf die junge fesche Dame, die über dem linken Arm einen leichten Gummimantel trug und die rechte Hand in die Falten dieses Mantels versenkt hatte.
+
+Die Höhle am Piz Rosatsch
+
+Ich hörte zwei dumpfe Schläge … einen halb erstickten Schrei … Der dritte Schlag traf mich mitten auf die Schlappmütze … Ich fiel nach vorn … Ein Kerl riß mir die Arme nach hinten, — — Koksedes heiseres Organ drohte unzweideutig:
+
+»Ein Laut, und Sie spielen Gründling, Sie Schnüffler!! Der Chiemsee ist achtundsiebzig Meter tief …«
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (257) Der goldene Waschtisch.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1929</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
