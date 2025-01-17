@@ -8,7 +8,7 @@
 <entry key="group-position">${property.groupPosition}</entry>
 <entry key="language">de</entry>
 <entry key="description">
-${property.title}.
+${property.title}
 
 BESCHREIBUNGBESCHREIBUNGBESCHREIBUNG
 </entry>
