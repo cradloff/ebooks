@@ -738,7 +738,7 @@ erwartete als Antwort ein Kopfnicken zumindest.
 Harst erwiderte mit leichtem Gähnen:
 
 »Wenn ich nicht fürchten würde, morgen mit einigen kaputten
-Kochen im Bett zu liegen, würde ich Kriminal-Kommissar
+Kochen im Bett zu liegen, würde ich Kriminalkommissar
 Alarich Gepp sehr gern besuchen.«
 
 Ich starrte ihn verblüfft an. »Gepp?!«

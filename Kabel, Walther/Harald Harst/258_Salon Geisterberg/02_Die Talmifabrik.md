@@ -294,7 +294,7 @@ ich die Bande sehr schnell entlarven können.«
 Moritz knetete seine braunen, schmalen Hände und grinste
 schwach. »Darüber hab’ ich mir auch schon meinen Kopf
 angestrengt,« nickte er eifrig. »Es muß geben hier sozusagen e
-Takmifabrik, wo die Ganeffs sehr rasch anfertigen die unechten
+Talmifabrik, wo die Ganeffs sehr rasch anfertigen die unechten
 Stücke. Lady Hooys blauer Diamant, der Anhänger, war nachgemacht
 worden, Frau Billinx’ Brosche ebenso, und weiter noch drei
 andere Schmuckstücke … Nu, wer kann das so im Handumdrehen?! Das
