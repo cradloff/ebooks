@@ -199,7 +199,7 @@ einen Ballen Wäsche schleppte. Durch das breite Glasfenster des
 Daches fiel das Sonnenlicht auf sein gebräuntes, vergnügtes
 Gesicht. Moritz grüßte tief.
 
-»Erlauben Se, Herr Deisler, — hier dies sind die Herren aus ’m
+»Erlauben Se, Herr Deister, — hier dies sind die Herren aus ’m
 Albana, die Berliner … Herr Harst und Herr Schraut, — und da,
 das is der alte Herr Deister …«
 
@@ -279,7 +279,7 @@ rennt auch hier herum mit e Anhänger, wo is viele Tausende
 wert?! Das is wie Honig for die Wespen, sie kommen und wollen
 Honig stehlen, und der Moritz hat gewollt die Wespe
 verscheuchen.« Er blickte Harst forschend an. »Nich wahr, das
-’is Unsinn, Herr Harst?«
+is Unsinn, Herr Harst?«
 
 Harald schaute an Moritz vorüber in die grandiose Erhabenheit
 der weißen Bergspitzen. »Herr Seligfeld, es ist wahrscheinlich
@@ -335,7 +335,7 @@ mal ein paar Worte gewechselt.«
 Moritz blickte über seine Brille zu Harald empor. »Er lügt …!«
 meinte er beinahe haßerfüllt. »Er lügt wie gedruckt, der schöne
 Natzi … Mir hat er gesagt, er hätt’ nie nix bedient die Lady
-Hooy, und die Resi, was die erste Gehilfin unten is, hat gräd’
+Hooy, und die Resi, was die erste Gehilfin unten is, hat grad’
 gesagt, der Natzi lass’ nie nix ’nen andern an die feinen Damen
 ran, und das wär’ gemein wegen der Trinkgelder, sagt die Resi,
 was ein nettes Mädel is.«
@@ -497,7 +497,7 @@ Der angebliche Gepp betrat den Salon Deister.
 
 »Harald, er ging soeben hinein …«
 
-In das Haus … Die Haustür führt aber nicht nur in den Salon,
+»In das Haus … Die Haustür führt aber nicht nur in den Salon,
 sondern auch zu Moritz nach oben … — Komm’, vielleicht habe ich
 recht.«
 
@@ -516,7 +516,7 @@ Harst brummte etwas vor sich hin …
 »Wie meintest du?«
 
 »Die Tür, meine ich … Sie gefällt mir nicht, — keine Tür, die
-man so zuwirft …
+man so zuwirft …«
 
 Er hatte es sehr eilig, und oben bei Moritz klopfte er recht
 derb an und trat ein, obwohl sich drinnen niemand meldete.
@@ -555,7 +555,7 @@ Seligfeld.
 Gepp lächelte nur, und Harst sagte sichtlich amüsiert:
 »Natürlich — verkannt! Eine Krähe hackt der anderen doch mal die
 Augen aus.« Worauf Kriminalkommissar Gepp Harst mißbilligend
-anstarrte und meinte: »Sie sollten wiesen, daß es in der Schweiz
+anstarrte und meinte: »Sie sollten wissen, daß es in der Schweiz
 nur Raben und Dohlen gibt, Krähen sind selten.« Dann zog Gepp
 eine Tube Klebstoff hervor, klebte sich den Bart wieder fest,
 fischte unter dem Bett seinen Filz hervor und sagte gleichmütig:
@@ -648,7 +648,7 @@ in Samaden begegnete, hat mir strengstens befohlen, ich solle …«
 
 »… schweigen — natürlich.«
 
-»Oh - sie ist fürchterlich,« stöhnte der Ober. »Wenn sie hier
+»Oh — sie ist fürchterlich,« stöhnte der Ober. »Wenn sie hier
 absteigt, sehnen wir den Tag herbei, an dem sie wieder abreist.«
 
 »Wo wohnt sie denn jetzt?«
@@ -681,7 +681,7 @@ trotzdem empfangen.
 Der Salon Gwendolyn Hooys lag nach dem See hinaus. Die seidenen
 Fenstervorhänge waren der Sonne wegen geschlossen, und der
 schlanke Herr im grauen Anzug, der uns als Mr. Giles Tirom
-vorgestellt wurde, hatte ein fades, rasiertes Besicht und einen
+vorgestellt wurde, hatte ein fades, rasiertes Gesicht und einen
 sehr dünnen semmelblonden Scheitel. Sein randloses Monokel am
 Seidenband konnte diesen ausdruckslosen Zügen keinerlei Reiz
 verleihen, und sein Englisch klang so unverfälscht nach Londoner
@@ -887,7 +887,7 @@ Schemel nahm, packte sie gleichfalls zu, freilich zu spät.
 
 »Lady Hooy, ich werde mich nicht zum Richter über Ihre Taten
 aufwerfen,« meinte er kalt. »Jedenfalls sind Sie entlarvt, und
-es wäre gut, wenn Sie schleunigst fliehen wurden. Ich weiß, daß
+es wäre gut, wenn Sie schleunigst fliehen würden. Ich weiß, daß
 ein Mann, den Sie für Professor Termoolen hielten, Ihre
 Doppelrolle hier gekannt hat und daß Sie ihn töten wollten. Ich
 weiß auch, daß Sie Ihre Mitschuldigen nicht verraten werden. Den
@@ -927,7 +927,7 @@ Die grauhaarige Frau musterte uns flüchtig und lächelte
 kriecherisch.
 
 Harst trat ganz dicht auf sie zu. »Frau Deister, es wundert
-mich, daß Kommissar Gepp Sie noch nicht verhaften ließ« sagte er
+mich, daß Kommissar Gepp Sie noch nicht verhaften ließ,« sagte er
 ganz leise. »Sie haben Gepp hier oben im Mansardenstübchen
 niedergeschlagen. Sie hätten auch uns beide kaum wieder ins
 Freie gelassen, wenn wir Gepp nicht gefunden hätten.«

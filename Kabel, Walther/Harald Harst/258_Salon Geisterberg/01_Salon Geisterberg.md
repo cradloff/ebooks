@@ -1,3 +1,5 @@
+<h1>Salon Geisterberg</h1>
+
 <h2>1. Kapitel.</h2>
 
 <h3>Die Gletschermadonna.</h3>
@@ -610,7 +612,7 @@ heute ebenfalls auf dem Fex-Gletscher — in der östlichen
 kleineren Spalte … Er verbarg sich dort. Vielleicht weiß er
 mehr, als wir ahnen …«
 
-»Worüber?! Dieser Mensch?!« Gwendolyn Hooy schelte
+»Worüber?! Dieser Mensch?!« Gwendolyn Hooy lächelte
 verächtlich. »Er ist ein frecher aufdringlicher Hausierer …
 Ich kaufte ihm gleich am ersten Tage hier ein paar
 Postkarten ab … Denken Sie, vorgestern kam er in meinen
@@ -856,7 +858,7 @@ Rücksicht auf Natzis Verschlossenheit weiter.
 
 »Ich muß bedauern, mein Herr, ich habe mit Mr. Brance noch
 keine drei Worte gewechselt,« erklärte der junge Chef mit
-schwachem Achselzucken. Jedenfalls ist Mr. Brance den Tag
+schwachem Achselzucken. »Jedenfalls ist Mr. Brance den Tag
 über am Flusse, bei jedem Wetter … Wenn ich mir ein Urteil
 erlauben darf: Er ist sehr wenig zugänglich, und mit unserem
 dritten Mieter hat er bisher nur kühle Grüße ausgetauscht,
@@ -872,7 +874,7 @@ Auch unser dritter Mieter, Professor Termoolen aus
 Amsterdam, hat sich umsonst bemüht, Mr. Brance seine
 Begleitung aufzudrängen … — darf ich vorn das Haar noch
 kürzer schneiden, mein Herr? Bitte, hier ist der Spiegel …
-Sie entschuldigen, — eine Dame muß onduliert werben …«
+Sie entschuldigen, — eine Dame muß onduliert werden …«
 
 Natzis Rückzug geschah etwas plötzlich. Er ließ einen
 Jüngling von erstaunlicher Magerkeit die Arbeit vollenden,
@@ -895,7 +897,7 @@ buckligen Postkartenhändler. »Na, Ihr Kragen ist durch das
 Bad gestern abend entschieden eindrucksvoller geworden …«
 
 Moritz erhob sich rasch. »Nu, wie hat er gefallen die
-Herren?!« sprudelte er in seiner so sehr verblühenden
+Herren?!« sprudelte er in seiner so sehr verblüffenden
 Zielsicherheit hervor und blinzelte uns durch seine schiefe
 Brille verständnisvoll an. »Sehr ein patenter Herr, der
 schöne Natzi — sehr ein patenter Herr!« äffte er den Weaner
@@ -954,7 +956,7 @@ Geschäftszimmer kommen …«
 
 Er warf Moritz einen grimmen Blick zu …
 
-»Herr Harst, vier von den Amerikanern behaupten, sie feien
+»Herr Harst, vier von den Amerikanern behaupten, sie seien
 in dieser Nacht bestohlen worden …« — er dämpfte seine
 zitternde Stimme noch mehr. »Es handelt sich um Juwelen im
 Werte von vielen Tausenden, und die amerikanischen Detektive
@@ -1024,7 +1026,7 @@ Betonschacht ertränkt werden, und …«
 
 »Alle Detektive, die nichts taugen, sollten ersäuft werden,«
 sagte Harald und setzte sich in das spärliche Gras. »Wozu
-kriecht Ihr Detektiv in den Betonschicht?! War das nötig,
+kriecht Ihr Detektiv in den Betonschacht?! War das nötig,
 gnädige Frau?!«
 
 »Pfui, zerstören Sie mir doch nicht die Illusion,« meinte
@@ -1060,7 +1062,7 @@ Tomahsen?« fragte er vorwurfsvoll und blickte sie lange an.
 wissen schon … Die Imitation der Brosche der Frau Mabel
 Billinx …?«
 
-Gilda lag mit geschaffenen Augen im Liegestuhl. Ihre Wangen
+Gilda lag mit geschlossenen Augen im Liegestuhl. Ihre Wangen
 waren farblos, ihre Lippen zitterten, der Roman glitt ihr
 vom Schoße … Dann riß sie die Augen ganz weit auf. »Was —
 denken Sie von mir?« flüsterte sie und mit einem Male
@@ -1108,7 +1110,7 @@ Hütte besuchen … Du wirst etwas schwitzen, aber ich möchte
 nicht allein nach oben. Man kann nie wissen, ob nicht zwei
 Pistolen und vier Hände gebraucht werden.«
 
-Er legte ein Tempo vor, daß ich all meinen Atem zum klettern
+Er legte ein Tempo vor, daß ich all meinen Atem zum Klettern
 brauchte. Zum Fragen kam ich nicht. Dort, wo der vielfach
 gewundene steile Waldweg über St. Moritz-Bad plötzlich
 rechts abbiegt und sich in kahlen Felsschründen verliert,
@@ -1129,7 +1131,7 @@ früher als er. Es zog sich da ein schmaler Grat wie eine
 schräge Leiste in die Tiefe, vorüber an Felsnasen, auf denen
 noch Schnee lag, und allem Anschein nach handelte es sich
 hier um einen Weg, der von Menschenhand in besonders
-schwierigen Stellen durch Felsbrocken, die man in Sparten
+schwierigen Stellen durch Felsbrocken, die man in Spalten
 und Risse festgekeilt hatte, noch verbreitert worden war.
 Ich wollte Harst gerade auf meine Entdeckung aufmerksam
 machen, als hoch über uns ein schriller Schrei ertönte, —
