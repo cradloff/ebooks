@@ -1,28 +1,25 @@
 <@pagebreak/>
-Harald Harst: Aus meinem Leben
 
-Das Lied des Sterbens
-
-Erzählt von
-Max Schraut
+<#import "*/harst.ftl" as harst>
+<@harst.introshort/>
 
 <h2>1. Kapitel.</h2>
 <h3>Ein Badekostüm.</h3>
 
 Die Lady Hamilton entsprach in keiner Weise der Vorstellung,
 die man sich nach den überlieferten Bildern von
-dieser blendenck kennen Geliebten des berühmten englischen,
+dieser blendend schönen Geliebten des berühmten englischen
 einarmigen Seehelden Lord Nelson machen darf. Es handelt
 sich der um unsere Lady Hamilton, und das war eine
 Art Motorjacht, wenn man eine großsprecherische Bezeichnung
-wählen will. Eigentlich war es nur ein großer F«.hier,
+wählen will. Eigentlich war es nur ein großer Kutter,
 den sein Vorbesitzer eigenhändig vervollkommnet hatte. Wer
-dieser Vorbesitzer gewesen war, ist bekannt: Der dicke Herum
-Hat, Detektivinspektor in Bombay, nunmehr in Seligkeit
+dieser Vorbesitzer gewesen war, ist bekannt: Der dicke Charly
+Baat, Detektivinspektor in Bombay, nunmehr in Seligkeit
 und Sünden zu seinen Vätern durch eine wohlgezielte Kugel
-abgerufen, — Wir hatten den Benzinstänker von der Behörde
-als Geschenk erhalten, wir hatten aus Sifu, Bart
-chinesische.: Bootsjungen, mit übernommen, und zu vieren
+abgerufen. — Wir hatten den Benzinstänker von der Behörde
+als Geschenk erhalten, wir hatten auch Sifu, Baats
+chinesischen Bootsjungen, mit übernommen, und zu vieren
 gondelten wir von Baroda an einem klaren Novembermorgen
 bei einigen 35 Grad Hitze stillvergnügt den Fluß
 hinab.
@@ -34,21 +31,21 @@ dienstlich in Indien, wenn auch seine Mission durch eine
 Ladung Dynamit unvorschriftsmäßig erledigt worden war.
 Aber das sind olle Kamellen aus dem vorigen Abenteuer,
 
-Es war gegen Mittag, als wir uf dem stillen, trügerischen
-Wasser der Bucht von Cowboy unsere Lady stoppten
-und vor der grausamen Sonnenglut hinter eine.« Gewalttaten
-Inselchen Schutz suchten. Das Eiland lag mitten.
+Es war gegen Mittag, als wir auf dem stillen, trügerischen
+Wasser der Bucht von Cambay unsere Lady stoppten
+und vor der grausamen Sonnenglut hinter einen bewaldeten
+Inselchen Schutz suchten. Das Eiland lag mitten
 zwischen Korallenklippen etwa eine Seemeile vom Ostufer
-entfernt und war vielleicht bis dahin von beinahe Menschen
+entfernt und war vielleicht bis dahin von keines Menschen
 Fuß betreten worden. Die indischen Fischer mieden das
 Ufer genau so wie die Küstendampfer, und weit und breit
 waren weder Dorf noch Siedlung an dem kahlen Festlandgestade
 zu bemerken.
 
-Wir verkaufen den Benzinstänker in einer Bucht, und
+Wir vertäuten den Benzinstänker in einer Bucht, und
 das erste, das wir wahrnahmen, überraschte uns derart,
-daß Tür sein Monokel putzte, wieder einklemmte und meinte:
-»Bei Gott, ein schwarzseidener Badeanzug für Damen?«
+daß Lücke sein Monokel putzte, wieder einklemmte und meinte:
+»Bei Gott, ein schwarzseidener Badeanzug für Damen!«
 
 Das intime, elegante Ding war über einen Busch gebreitet.
 Aber da wir ringsum im Sande nichts von Fußspuren
@@ -56,301 +53,295 @@ entdecken konnten, konnte es nur durch einen Sturm
 hierher geweht worden sein.
 
 Lücke sagte kopfschüttelnd, als er es nun als erster befühlte:
-»Not feucht! Also Wind als Beförderungsmittel
-scheidet aus. Verstehen Sie das, Harst?’
+»Noch feucht! Also Wind als Beförderungsmittel
+scheidet aus. Verstehen Sie das, Harst?«
 
 Wir drei standen vor dem blühenden duftenden Strauche
 wie weiland Moses vor dem flammenden Busch und warteten
 auf eine Stimme der Erkenntnis.
 
 »Ich verstehe hier vieles nicht,« erwiderte Harst und
-zeigte auf einen Zigarettenstummel im Sande, Er hob ihn
-auf, »Von einer japanischen Firma aus Tokio … — Und
-dort, « Lücke, — wenn das keine Haarspange ’aus Golddraht
-ist, wie sie zu nur in Japan gefertigt werden, will ich …,«
+zeigte auf einen Zigarettenstummel im Sande. Er hob ihn
+auf. »Von einer japanischen Firma aus Tokio … — Und
+dort, Lücke, — wenn das keine Haarspange aus Golddraht
+ist, wie sie auch nur in Japan gefertigt werden, will ich …«
 
 Was er wollte, erfuhren wir nie.
 
 Der Boy Sifu, der an Bord zurückgeblieben war, rief
 <@pagebreak/>
-uns zu: »He, Missu Harst, — he — ich da große Segler
+uns zu: »He, Missu Harst, — he — — da große Segler
+auftauchen …«
 
-auftauchen …- ich Kreischen Nr
-
-Wir konnten von dem Schiffe vorläufig nur die Masken
-und Segel sehen. Der Rumpf wenn noch unkerhöolb des
+Wir konnten von dem Schiffe vorläufig nur die Masten
+und Segel sehen. Der Rumpf war noch unterhalb des
 Horizontes.
 
-»Na, wenn schon — — Segler!« meinte Lücke achselzuckend,
-»Dachstuhl brüllst du uns die magere Neuigkeit mit
+»Na, wenn schon — — Segler!« meinte Lücke achselzuckend.
+»Weshalb brüllst du uns die magere Neuigkeit mit
 so viel überflüssiger Lungenkraft zu, mein Sohn?!«
 
 »Sein Dschunke, Missu,« erstatte der magere, gerissene
-Bengel ganz aufgeregt. »Denken Missu Lücke an viel Old«
-rede in Baroda über Dschunke mit Toten an Bord …
+Bengel ganz aufgeregt. »Denken Missu Lücke an viel Gerede
+in Baroda über Dschunke mit Toten an Bord …«
 
-»Floß!« quittierte der lange patente Hans über Sifus
-Erinnerung an Beendeter Klasse. »Aufs der Polizeichef
-Kern schwor zwar auf das Totenschiff, das hier steuerlos
+»Blech!« quittierte der lange patente Hans über Sifus
+Erinnerung an Barodeser Klatsch. »Auch der Polizeichef
+Repp schwor zwar auf das Totenschiff, das hier steuerlos
 umhertreiben soll, aber derartiges Seemannsgarn hat nach
-all den Abenteurerromanen »und Filmen ähnlichen Eins«
-las noch mehr an Glaubwürdigkeit eingebüßt.«
+all den Abenteurerromanen und Filmen ähnlichen Einschlags
+noch mehr an Glaubwürdigkeit eingebüßt.«
 
-»Es soll eine Dschunke sein, saugte Harst unordentlich.
-»Sie soll die Beulenpest an Lord gehabt haben, und kein
-Wen wagt sich daher hinauf. Die Regierung schickte einen
+»Es soll eine Dschunke sein,« sagte Harst nachdenklich.
+»Sie soll die Beulenpest an Bord gehabt haben, und kein
+Mensch wagt sich daher hinauf. Die Regierung schickte einen
 Kreuzer aus, der sie torpedieren sollte, aber der Kreuzer
-fand sie nicht … Der äußere Zeit des Golfes von Tau
-bat ist ein Meer für sich.«
+fand sie nicht … Der äußere Teil des Golfes von Cambay
+ist ein Meer für sich.«
 
 Bei dem kaum spürbaren Winde kam der Segler sehr
 langsam näher. Es gereichte Sifu zur Ehre, daß er bereits
-auf so weite Entfernung nur an der Tadellos«- eines seiner
+auf so weite Entfernung nur an der Takelage eines seiner
 heimatlichen Fahrzeuge erkannt hatte,
 
 »Lassen wir Dschunke Dschunke sein,« meinte Lücke ärgerlich.
-»Mit interessiert der elegante Badeanzug weit mehr.«
+»Mich interessiert der elegante Badeanzug weit mehr.«
 
 »Sie sind verheiratet!!« lächelte Harst.
 
 »Gott sei Dank ja — und glücklich. Trotzdem darf ich
 mich doch wohl darüber wundern, wie ein feuchter Badeanzug,
-der Nest einer japanischen Zigarette und — eine japanische
+der Rest einer japanischen Zigarette und eine japanische
 Haarspange hier auf diese Urwaldinsel gelangt
 sind!«
 
 <@pagebreak/>
-Die Dschunke zeigte saß?Rauch den plumpen Rumpf mit
-den hohen Au’kvanten …
+Die Dschunke zeigte jetzt auch den plumpen Rumpf mit
+den hohen Aufbauten.
 
-»Wirf mir sein Fernglas zu, Sifu!« befahl Harst dem
+»Wirf mir mein Fernglas zu, Sifu!« befahl Harst dem
 Chinesenbengel.
 
-Bude befühlte wieder die seidene Schwimmhose. »Schraut,
-Sie sind nicht sog versessen auf den Pestkahn da drüben …
+Lücke befühlte wieder die seidene Schwimmhose. »Schraut,
+Sie sind nicht so versessen auf den Pestkahn da drüben …
 Sehen Sie etwas von Spuren im Sande?«
 
-»Nicht die Spuren von einer Spur,« — und das suchte.
+»Nicht die Spuren von einer Spur,« — und das stimmte.
 
-Harst hakte sein Glas auf den Segler gerichtet. »Die
-Decks!sind leer, die Dschunke reibt und … jetzt fallt
-sie nach Südwest! ab … Da ist keine Seele an Lord, das
+Harst hatte sein Glas auf den Segler gerichtet. »Die
+Decks sind leer, die Dschunke treibt und … jetzt fällt
+sie nach Südwest ab … Da ist keine Seele an Bord, das
 Schiff ist ein Spielball von Wind und Strömungen …«
 
-Er schraubt? das Glas wieder zusammen und tat es
-in saß braune Lederfutteral.
+Er schraubte das Glas wieder zusammen und tat es
+in das braune Lederfutteral.
 
-»So, Lücke, nun stellte ich zur Verfügung …«
+»So, Lücke, nun stehe ich zur Verfügung …«
 
-»Endlich? Die Sache muß aufgeklärt werden.«
+»Endlich! Die Sache muß aufgeklärt werden.«
 
-Wir sprachen wieder unser geliebtes Deutsch. Sifu be-
-herrschte nur den Kantondialekt und das östliche Hafenkauderwelsch,
+Wir sprachen wieder unser geliebtes Deutsch. Sifu beherrschte
+nur den Kantondialekt und das östliche Hafenkauderwelsch,
 dazu recht fließend Englisch.
 
 »Natürlich, Lücke, aber wir dürfen den Boy nicht allein
-auf der Prachtjacht fassen … Er ist unzuverlässig. Nur
-wenn er eine starke Hand mit einem Lauerte hinter sich
+auf der Prachtjacht lassen … Er ist unzuverlässig. Nur
+wenn er eine starke Hand mit einem Tauende hinter sich
 weiß, macht er keine Dummheiten. Ich werde hier bleiben,
 ihr beide umschreitet erst mal das Inselchen, sucht nach Fußspuren
 und folgt ihnen gegebenen Falles in das Dickicht.
 Seid aber vorsichtig und haltet eure Pistolen bereit. Es
-ist hier nicht? ganz geheuer, glaube ich.«
+ist hier nicht ganz geheuer, glaube ich.«
 
-Lücke lachte. »Sie denken wohl an StefensonF weltberühmten
-Roman »Die Schatzinsel«!? Er wurde erst welke
-berühmt, nachdem er urheberrechtlich frei war und jeder
+Lücke lachte. »Sie denken wohl an Stefensons weltberühmten
+Roman »Die Schatzinsel«! Er wurde erst weltberühmt,
+nachdem er urheberrechtlich frei war und jeder
 Verleger damit hausieren konnte. Sie wissen doch: Man
-welch’ da mit Totenschädeln umher, ein süßes Mädel war
-auch dabei, und das süßliche Ende fehlte auch« nicht: Der
-Pfarrer mit gezücktem Trauerhaus Aber der Roman ist
-auf, spielt auf einer Insel im Golf von Mexiko, wo es
+warf da mit Totenschädeln umher, ein süßes Mädel war
+auch dabei, und das süßliche Ende fehlte auch nicht: Der
+Pfarrer mit gezücktem Trauschein! Aber der Roman ist
+gut, spielt auf einer Insel im Golf von Mexiko, wo es
 <@pagebreak/>
-überhaupt keine Inseln gibt, und man! schießt mit Revolvern
+überhaupt keine Inseln gibt, und man schießt mit Revolvern
 und anderen Museumsinstrumenten …«
-Vielleicht hätte der lange Hans nach bewährten Methode
+
+Vielleicht hätte der lange Hans nach bewährter Methode
 seine ureigensten Ansichten über die Schatzinsel, unsere Insel
-hier: an! sonstige Nebensächlichkeiten noch minutenlang zum
-Dessen gegeben, wenig Harst nicht dazwischengefahren wäre.
-»Das verhüllen Sie durch diese Parlamentsrede, Bückte?
+hier und sonstige Nebensächlichkeiten noch minutenlang zum
+Besten gegeben, wenn Harst nicht dazwischengefahren wäre.
+»Was verhüllen Sie durch diese Parlamentsrede, Lücke?
+Heraus damit! ich kenne Sie!
 
-Benares damit! ich kenne. Sie!
-»Faden Sie einen seinen Fischer!!« Und Lücke Partie
-
+»Haben Sie einen feinen Riecher!!« Und Lücke klopfte
 den Tabak einer Zigarette auf dem Deckel seines silbernen
-Etuis fast, das in der Hitze von Baroda sich stark verfärbt
-hatte. »Ich wollte zum Schloß bemerken, daß auch ich
-Augen habe, Sie alter Heimlichtner, Sie?«
+Etuis fest, das in der Hitze von Baroda sich stark verfärbt
+hatte. »Ich wollte zum Schluß bemerken, daß auch ich
+Augen habe, Sie alter Heimlichtuer, Sie!«
 
-Was mich angeht, so stand« ich ziemlich schimmelige
+Was mich angeht, so stand ich ziemlich schimmerlos
 zwischen den beiden friedlichen Kampfhähnen. Wohinaus
 diese merkwürdige Unterredung führen würde, konnte ich
+nicht im entferntesten erraten.
 
-nicht im entferntesten erraten —
-Harst nickte leicht. »Dann Kenner Sie ja auch den Grund,
-
-Metall ich an Lord bleiben Filzhut weshalb ihr beide
+Harst nickte leicht. »Dann Kennen Sie ja auch den Grund,
+weshalb ich an Bord bleiben will und weshalb ihr beide
 die Pistolen zur Hand nehmen sollt. Schraut kennt ihn
 nicht, er schweigt nur aus angeborener Bescheidenheit.«
 
 Lücke warf mir einen halb mitleidigen Blick zu. »Er
 trägt eine Brille, aber selbst mit Brille schreibt er eine
-Klaue, die nur ein Keller nach hundertjährigem Berufsjubiläum
-lesen kann … — Schraut, raus mit der Plempek!’
+Klaue, die nur ein Setzer nach hundertjährigem Berufsjubiläum
+lesen kann … — Schraut, raus mit der Plempe!!«
 
-Aber die Dramas war in der Scheide eingerostet. Ich
-hakte mich umgeschaut, aber das Inselchen war nichts als
-Sand, Humnus&boden, Büsche, Bäume, Lianen — viel Palmen
-aller Art, viele indische Versuchen, einige Rieseneichen
+Aber die Plempe war in der Scheide eingerostet. Ich
+hatte mich umgeschaut, aber das Inselchen war nichts als
+Sand, Humusboden, Büsche, Bäume, Lianen — viel Palmen
+aller Art, viele indische Rotbuchen, einige Rieseneichen
 darunter,
 
-— »Bedauere,« sagte im; unterwürfig, und der scherzhafte
+»Bedauere,« sagte ich unterwürfig, und der scherzhafte
 Ton zauberte selbst auf Haralds Züge eine Spur von
-
 Lächeln.
-»Nun,« meinte er, »Lücke hat unterhalb der hastigen
+
+»Nun,« meinte er, »Lücke hat unterhalb der duftigen
 <@pagebreak/>
-Badeseide auch die Badekappe. im Gebüsch entdeckt, nehme
+Badeseide auch die Badekappe im Gebüsch entdeckt, nehme
 ich an.«
 
-Worauf der lange Hans in der Mitte des Leibes ein«
-knickte und die obere Hälfte dem Busche näherbraächte. »Donnerwetter
-— wirklich …!!« Er fischte die Kappe heran?:
-und seufzte. »Die hatte ich überselyxen, aber ich sah dafür
-Silbe verdächtigen Reinlichkeitätrieb. — Er zog sich gähnt
-!im seine weiß gewesene Jacke aus, tauchte sie ins Wasser
-und schwenkte sie hin und her — zum Trocknen, den
-Eindruck wollte er erwecken, aber der Eindryvck auf mich
+Worauf der lange Hans in der Mitte des Leibes einbohrte
+und die obere Hälfte dem Busche näherbrachte. »Donnerwetter
+— wirklich …!!« Er fischte die Kappe heraus
+und seufzte. »Die hatte ich übersehen, aber ich sah dafür
+Sifus verdächtigen Reinlichkeitstrieb. — Er zog sich nämlich
+seine weiß gewesene Jacke aus, tauchte sie ins Wasser
+und schwenkte sie hin und her — zum Trocknen, *den*
+Eindruck wollte er erwecken, aber der Eindruck auf mich
 war der eines Signale für die Dschunke, Schraut.«
 
 Wenn drei Leute vom Fach beieinander und zwei davon
-so ausgesprochene Originale sind wie Lücke und Herr.
+so ausgesprochene Originale sind wie Lücke und Harst,
 die einer dem andern gern faulen Zauber vormachen, wird
-das Präludium zu einem Kriminalfall zuweilen stark verletzt,
+das Präludium zu einem Kriminalfall zuweilen stark verjazzt,
 und es ergeben sich Dissonanzen, die dem dritten mißfallen.
--
-Ich war wütend, »Wir vertrödeln hier nur die Zeit …
+
+Ich war wütend. »Wir vertrödeln hier nur die Zeit …
 Sollte es stimmen, daß Sifus Wascharbeit noch einen Zweck
-halte außer dem Ertränken der Flöhe, die gerade ihn zu
-lieben scheinen, es wäre es wohl das einfachste, ihn Gründe
-(Schnitt ins Gebet zu nehmen, zumal er uns vordem so eifrig
+hatte außer dem Ertränken der Flöhe, die gerade ihn zu
+lieben scheinen, es wäre es wohl das einfachste, ihn gründlichst
+ins Gebet zu nehmen, zumal er uns vordem so eifrig
 vor dem Fahrwasser rund um das Eiland warnte … Ich
-hatte schon da das Gefühl, daß er die Insel Nennt. Bevor
-er als Boy) zu Harrt Bank kam, war er sichtlich in ebenso
+hatte schon da das Gefühl, daß er die Insel kennt. Bevor
+er als Boy zu Charly Baat kam, war er sichtlich in ebenso
 zweideutiger Stellung bei anderen zweideutigen Herrschaften,
-und
+und …«
 
-Harst bat Lücke um Jener. »Lieber Alter, nichts über«
-Oben — entschuldige die Unterbrechung … Ich bekenne reumütig,
-daß ich ein wenig geschwindelt habe, Die Dschunke
+Harst bat Lücke um Feuer. »Lieber Alter, nichts übereilen
+— entschuldige die Unterbrechung … Ich bekenne reumütig,
+daß ich ein wenig geschwindelt habe. Die Dschunke
 wendete erst auf Sifus Jackenschwenken Hin, und wenn ich
-auch; un Bord Leinen FZjundeschwanz bemerkte,!o sind doch
-zweifellos Leute an Bord, zu denen unser Sifu sehr enger
+auch an Bord keinen Hundeschwanz bemerkte, so sind doch
+zweifellos Leute an Bord, zu denen unser Sifu sehr enge
 Beziehungen unterhält. Es wäre jedoch gänzlich verfehlt,
-den Bengel durch sanfte Ermahnungen mit dem Flammende
+den Bengel durch sanfte Ermahnungen mit dem Tauende
 <@pagebreak/>
-zur Reden zu drin-.du., Tun wir so, 3l8 ob wir ihn für
-un Harmloses Schvfkoiadenpüppchen halten. Und jetzt —
-der Schwitzbad 1«
+zum Reden zu bringen. Tun wir so, als ob wir ihn für
+ein Harmloses Schokoladenpüppchen halten. Und jetzt —
+verschwindet!«
 
-Er nahm Lade die Badekappe ab und stelzte über die
-autraslenriffe, die bis zur Lady einen bequemen kurzen
-Dame Sicherer, an Bord.«
+Er nahm Lücke die Badekappe ab und stelzte über die
+Korallenriffe, die bis zur Lady einen bequemen kurzen
+Damm bildeten, an Bord.
 
-Fügte zog seine Dienstpistole, ein Ding von umfangreicher
-Plumpheit, an Vergleich zu der unsere?Leine Steuer? wie
-ein Feueranzünder — nein Feuerzeug in Pistozenform aus
-einem Ein-War?-»Vater aussieht.
+Lücke zog seine Dienstpistole, ein Ding von umfangreicher
+Plumpheit, im Vergleich zu der unsere kleine Clement wie
+ein Feueranzünder — nein Feuerzeug in Pistolenform aus
+einem Ein-Mark-Basar aussieht.
 
-»Schraut, ich bin entzückt,« sagte er. »Berlin ist schön, Andichten
-Ut schöner, diese Insel am schönsten …« Wir schritten
-rf dem weißen Gandsereifen am Ufer hin. »Urlaub gaben,
-Ruht Indien reisen, Urlaub und Dienst miteinander verbinden
-und mit aus beiden Drahtseilen auf dieser Hamilton
-auf Abenteuer ausziehen; ich bin einfach wagt«
+»Schraut, ich bin entzückt,« sagte er. »Berlin ist schön, Indien
+ist schöner, diese Insel am schönsten …« Wir schritten
+auf dem weißen Sandstreifen am Ufer hin. »Urlaub haben,
+nach Indien reisen, Urlaub und Dienst miteinander verbinden
+und mit euch beiden Prachtkerlen auf dieser Hamilton
+auf Abenteuer ausziehen; ich bin einfach weg!!«
 
-»Bis der Dämpfer kommt,« sagte ich als Älteren als
-mahnend, und damit er den « Dämpfer auch gleich sah,
+»Bis der Dämpfer kommt,« sagte ich als Älterer ermahnend,
+und damit er den Dämpfer auch gleich sah,
 schraubte ich den kleinen Trichter vorn auf die Mündung
-der Clement: Knalldämpfer, System Marsch, sehr praktisch
+der Clement: Knalldämpfer, System Maxim, sehr praktisch
 für Attentate, Raubüberfälle und ähnliche moderne Neigungen,
-zum Glück mit einem Mangel lebhafter: Das Zielen
-wird so stark erschwert, daß man sich erst gründlich erloschen
+zum Glück mit einem Mangel behaftet: Das Zielen
+wird so stark erschwert, daß man sich erst gründlich einschießen
 muß.
 
-Lücke pfiff vergnügt vor gut) hin. »Schraut, wir wir.
-den hier eine  liebreizende Jungfrau mit goldenem Haar
-finden,« — und dann pfiff er, da er doch die Japanspangeals
-Anregung hatte, den Walzer aus Sidney Anreiz uns
-verwüstlicher Operette »Die Geisha«. Ganz leise natürlich …:
+Lücke pfiff vergnügt vor sich hin. »Schraut, wir werden
+hier eine  liebreizende Jungfrau mit goldenem Haar
+finden,« — und dann pfiff er, da er doch die Japanspange
+als Anregung hatte, den Walzer aus Sidney Jones unverwüstlicher
+Operette »Die Geisha«. Ganz leise natürlich …
 
-»Jungfrauen sind selten -- ich meine Jungfrauen mit
+»Jungfrauen sind selten — ich meine Jungfrauen mit
 goldenem Haar,« drückte ich seine märchenhaften Hoffnungen
 herab. »Wenn wir hier etwas finden, wird es wohl ein geheimes
 Waffenlager der indischen Nationalisten sein oder
-ein Schmugglerdepot, in dem europäische Weine Ausweise
-ihrer Bestimmung harren … Der Weinzoll ist sehr so,
+ein Schmugglerdepot, in dem europäische Weine faßweise
+ihrer Bestimmung harren … Der Weinzoll ist sehr hoch,
 <@pagebreak/>
-und Französischer Champagner zum Patrizier kostet hier …
-topp …
+und Französischer Champagner zum Beispiel kostet hier …«
 
-Wir standen still. Wir hatten gleichzeitig auf einen!:
-Korallenriff, das steckt wie ein Brettersteg vorn Ufer zeewär!ts
+Stopp …
+
+Wir standen still. Wir hatten gleichzeitig auf einem
+Korallenriff, das sich wie ein Bootssteg vorn Ufer seewärts
 über dem Wasser hinzog, einen Angler bemerkt, der nicht
-weniger als fünf Angelstöe ausgelegt hatte,
+weniger als fünf Angelstöcke ausgelegt hatte,
 
-Es war ein alter Pariser steil, der hier zu der Ostseite
-der Insel in der prallen Sonne las, ein kleiner Grund
-bärtiges Scheusal mit einer Schnapsnase ans Gitter Kleine
-Brille, dazu in einer Kluft, die offenbar zu! alten Segeln
-zusammengenäht war. Ruf dem Kopfe trug er einen Ungeheuren
-Strohhut mit einst grün gewesenen Band, —
-einen Hut, wie ihn die Kalis ja den Plantagen auf Ceylon
-bevorzugen, weil die Riesenkrempe Kunst den Nacken
+Es war ein alter buckliger Kerl, der hier an der Südseite
+der Insel in der prallen Sonne saß, ein kleines graubärtiges
+Scheusal mit einer Schnapsnase und einer Hornbrille,
+dazu in einer Kluft, die offenbar aus alten Segeln
+zusammengenäht war. Auf dem Kopfe trug er einen Ungeheuren
+Strohhut mit einst grün gewesenem Band, —
+einen Hut, wie ihn die Kulis in den Plantagen auf Ceylon
+bevorzugen, weil die Riesenkrempe auch den Nacken
 schützt. Die Hosen hatte dieser Gentleman — es war ein
-Europäer — in hohe Wasserstiefel gestellt. Neben ihm
+Europäer — in hohe Wasserstiefel gesteckt. Neben ihm
 lagen ein starker Kescher mit Bambusstock, verschiedene rostige
-Blechbüchsen und eine ehrwürdige doppelläufige Vorderladepistole.«
+Blechbüchsen und eine ehrwürdige doppelläufige Vorderladerflinte.
 
-Er hatte uns nicht gehört, er war es eifrig bei seinem
-Sport, daß ihm sogar die Stummelpfeife ewigen den barg
-
-tragen Tilgen ausgegangen war. Er hatte nur Augen für
-
+Er hatte uns nicht gehört, er war so eifrig bei seinem
+Sport, daß ihm sogar die Stummelpfeife zwischen den bärtigen
+Lippen ausgegangen war. Er hatte nur Augen für
 die Schwimmer seiner Angeln, die knallrot gestrichen auf
 dem Wasser tanzten. Es war tadelloses Angelzeug, — ich
-verstehe etwas davon, und als er nun mit Geschichten Griff
-uns Schwung einen lacxsähulichen Fisch von zwei Pfund
-emporbeförderte, erwachte in mir der Gleiädxgesinnte, und ich
+verstehe etwas davon, und als er nun mit geschicktem Griff
+und Schwung einen lachsähnlichen Fisch von zwei Pfund
+emporbeförderte, erwachte in mir der Gleichgesinnte, und ich
 rief ihm ein anerkennendes »Bravo!« zu.
 
-Er drehte blitzartig den opf, — blitzartig lag er lang
+Er drehte blitzartig den Kopf, — blitzartig lag er lang
 auf dem Bauche, ließ Fisch Fisch sein und richtete seine
 Donnerbüchse auf uns.
 
 »Was seid ihr denn für Geister?!« grunzte er uns zu
-unserer Überraschung in … etwas nach holsteinischer Waterkant
-klingendem Deutsch; zu.
+unserer Überraschung in etwas nach holsteinischer Waterkant
+klingendem Deutsch an.
 
 »Berliner,« rief Lücke belustigt zurück. »Sagen Sie mal,
 <@pagebreak/>
-Frauen Sie zum Waden ein zwed&entipreceüdes Damenkostüm
-er«
+benutzen Sie zum Baden ein zweckentsprechendes Damenkostüm?!«
 
-»Sie haben ’n Vogel, betiteln Sie mir, — Sie!! Ich
-Male wie nicht …!«
+»Sie haben ’n Vogel, verstehn Sie mir, — Sie!! Ich
+bade nie nich …!«
 
-So sah er auch bei näherer Bein. Burg ach. — Sein
-Name war Fackel Schwester, behauptet« er nachher, und er
-wohne drüben auf dem Festland um einer Ruine,
+So sah er auch bei näherer Betrachtung aus. — Sein
+Name war Jakob Schneider, behauptete er nachher, und er
+wohne drüben auf dem Festland in einer Ruine,
 
-Er war selbst eine Ruine, dazu grob wie Wohnsalons
-und verschlossen wie ein Wandtresor.
-
-So in an in yl
+Er war selbst eine Ruine, dazu grob wie Bohnenstroh
+und verschlossen wie ein Banktresor.
 
 <h2>2. Kapitel.</h2>
-<h3>Mimosa Van.</h3>
+<h3>Mimosa San.</h3>
 
 Wir setzten uns zu ihm. Nach den wenigen Worten.
 die wir gewechselt hatten, nahm er von uns keinerlei Notiz
@@ -643,7 +634,7 @@ Auf euch beide hatte ich als Befreier gerechnet — gibgerccnet
 auf euch!«
 
 Lücke erwiderte nur: »Der Bengel Sifu hat das alles
-wohl vorausgeahnt, und wenn nun die Pestdschunke hberbeisignalisiert
+wohl vorausgeahnt, und wenn nun die Pestdschunke herbeisignalisiert
 wird, werden wir vielleicht nachts Hing kennen
 einen.«
 
@@ -2413,7 +2404,7 @@ raten, die Sache nicht zu übereilen und erst einmal …
 
 Harst sagte harmlos: 9 wegen Sie sich lang auf den Bißchen;
 <@pagebreak/>
--- auch Sie, Tran Grazia, und euch du mein H1«ct.
+— auch Sie, Tran Grazia, und euch du mein H1«ct.
 Bitte — los doch«
 
 Die Kreolin blieb eigen. »Wein Sie drei sich?; der ich« 2«
