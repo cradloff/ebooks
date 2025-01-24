@@ -153,7 +153,7 @@ Hektor Grandville, der abends im tadellosen Frack den
 Bogen führte, war ein sehr stiller verschlossener Mensch —
 genau wie seine beiden Brüder. — Wir wohnten im Bayernhof
 seit fünf Tagen, nachdem wir von St. Moritz durch
-das Engadin und Westtirol wieder noch Bayern zurückgekehrt
+das Engadin und Westtirol wieder nach Bayern zurückgekehrt
 waren. Die uralte romantische Stadt Tölz, die Isar,
 die nahen Berge und die Wälder hatten es uns nun einmal
 angetan.
@@ -184,7 +184,7 @@ Künstlers Hand fest umspannt. »Herr Grandville, Sie und
 Ihre Brüder sind nun bereits den dritten Sommer in Tölz.
 Sie drei sind am Tage dauernd mit Ihren Motorrädern
 unterwegs, sagte man mir … Man sagte mir auch, Sie
-sehen Berliner … Stimmt das?«
+seien Berliner … Stimmt das?«
 
 Hektor Grandville meinte ablehnend:
 
@@ -554,7 +554,7 @@ ihre Gestalt hin, ihre Hände griffen mit einem qualvollen
 Seufzer ins Leere. Harst sprang zu und legte die Ohnmächtige
 auf den Diwan.
 
-»Sie war in dem Bären-Karren,« meinte er leise
+»Sie war in dem Bären-Karren,« meinte er leise zu
 <@pagebreak/>
 mir, als er ihr die Schläfen mit Toilettenessig rieb. »Ich
 wünschte, Lückes Brief wäre bereits in meinem Besitz. Dieser
@@ -580,12 +580,12 @@ anvertrauen könnten, erschien neben uns an dem
 Schaufenster der Papierhandlung, vor dem wir gerade standen,
 ein dicker Herr mit feistem, bärtigen Gesicht — einer
 der Tölzer »Salontiroler« zu dem die Älplertracht
-etwa so gut paßte wie zu einem rosigen Mastferkel, ein
+etwa so gut paßte wie zu einem rosigen Mastferkel ein
 blanker Zylinderhut.
 
 »Grüß’ Gott …« sagte der Dicke keuchend. »Können
 Sie mir vielleicht einen spannenden Roman empfehlen?«
-Er deutete auf die Bücher im Fenster. »Ich Schwärme für
+Er deutete auf die Bücher im Fenster. »Ich schwärme für
 Kriminalromane, wissen Sie … Ich finde diese Art Lektüre
 so ungeheuer belustigend. Letztens las ich ein Buch, in
 dem eine kleine zierliche Retoucheuse mit braunen Sphinxaugen
@@ -617,7 +617,7 @@ er noch immer reichlich verwundert.
 gar kein Grund zum Erstauntsein vor. Sie wohnen im
 Bayernhof, ich gegenüber im Pensionat Blomberg. Ich kann
 Ihnen in die Fenster sehen, und ich sehe so ziemlich alles,
-wissen Sie. Sie beide erkannte im sofort, außerdem hörte
+wissen Sie. Sie beide erkannte ich sofort, außerdem hörte
 ich von Herrn Roth, daß Sie bei ihm abgestiegen sind.
 In Berlin wohne ich in der Neanderstraße, — dicke Luft
 dort, viel Benzin. Mir gegenüber haust dort Fräulein
@@ -763,7 +763,7 @@ gern die Sitten der Leute studieren möchten.«
 Zehn Mark sind für Älpler eine Menge Geld. Die
 Tochter erklärte dann auch, das wär’ schon möglich, daß Zigeuner
 hier irgendwo lagerten, sie habe drüben in Gaisach
-heult früh fünf Teerschnecken am Wegrande gefunden — aufgespießt,
+heut früh fünf Teerschnecken am Wegrande gefunden — aufgespießt,
 und neben den Schnecken hätten im Lehm Grashalme
 <@pagebreak/>
 gelegen, und das täten halt die Zigeuner so …
@@ -848,7 +848,7 @@ verrieten nun eine gewisse Bestürzung.
 »Haben, Sie Fell kennengelernt?« fragte Frau von Gornack
 hastig.
 
-»Ja … — Wissen Sie, ich finde daß auch ganz in
+»Ja … — Wissen Sie, ich finde das auch ganz in
 der Ordnung, gnädige Frau,« nickte Harst.
 
 »Wissen Sie … finden Sie, — es ist Fells Lieblingsredensart,«
@@ -988,14 +988,14 @@ Ich half die drei Brüder beständig überwachen, ich sah
 sie mit ihren Motorrädern die Umgegend durchstreifen, ich
 fand heraus, daß sie jeden Zigeunertrupp anhielten, sich
 mit den Zigeunern anfreundeten … Ich erfuhr weiter,
-daß sie in den beiden Vorjahren gerade in der Nacht vom 28.
+daß sie in den beiden Vorjahren gerade in der Nacht vom 24.
 zum 25. Juni aus Tölz verschwunden waren, — ich erlebte
 dasselbe im verflossenen Jahre mit ihnen, — am 25. Juni
 abends waren sie wieder im Bayernhof, und dem Besitzer
 Roth erklärten sie, sie hätten sich in den Bergen verirrt
 und Pannen gehabt, — alles natürlich nur Ausreden. Der
 Sommer verging, und am 17. September waren sie wieder
-auf ihrem Gute, besuchten mich erzählten von Jagden in
+auf ihrem Gute, besuchten mich, erzählten von Jagden in
 Nordafrika … logen … logen und waren im übrigen
 noch bedrückter und ernster als zuvor. Daß ich in Tegernsee
 in ihrer Nähe gewesen, ahnten sie nicht. — Ich raffte
@@ -1010,7 +1010,7 @@ rechten Zeit in Tölz einfinden und sich mir als Roderich
 Fell nähern und mit mir beraten. Wir haben beraten,
 Herr Harst … Aber es ist nichts dabei herausgekommen,
 die drei Grandvilles sind abermals verschwunden, und heute
-ist der 24. Juni, …« Sie seufzte leise. »Gepp hat nichts
+ist der 24. Juni …« Sie seufzte leise. »Gepp hat nichts
 ausgerichtet, und meine Nichten und ich haben zwecklos
 drei Nächte hier in dieser Almhütte geschlafen und uns
 vor den Zigeunern versteckt, die jedes Jahr hier drüben am
@@ -1069,7 +1069,7 @@ entmündigter Kranker, der auf dem Vorwerk des Gutes
 unter Aufsicht zweier Pfleger haust — — ein Gefangener gleichsam,
 dem man die Zelle einer Irrenanstalt hat ersparen
 wollen. Die Eltern der Brüder sind seit langen Jahren tot.
-— Gepp hat nach diese Familienverhältnisse genau nachgeprüft
+— Gepp hat auch diese Familienverhältnisse genau nachgeprüft
 und nirgends einen Anhalt dafür gefunden, daß
 etwa irgendwie ein Zigeunerstamm im Leben der Familie
 eine Rolle gespielt haben könnte. Die Brüder selbst sind
@@ -1230,7 +1230,7 @@ Katze und Maus, um das Rascheln des Heus vor
 uns zu begründen. Aber eine Katze, Fräulein Gard, faucht
 auf der Mäusejagd niemals. Das war der eine Fehler. Der
 zweite: Um uns für kurze Zeit vor die Hütte zu locken,
-warfen Sie Xaver ein Steinen ins Genick. — Wo sollte
+warfen Sie Xaver ein Steinchen ins Genick. — Wo sollte
 das Steinchen herkommen?! Das Dach ist mit Felsstücken
 belegt, nicht ein loses Steinchen findet sich auf den Schindeln,
 und das Dach ist so schwach geneigt, daß ein Steinchen

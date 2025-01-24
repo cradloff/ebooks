@@ -112,7 +112,7 @@ der schwarzen Schnecke scheuchte die jubelnde Menge
 im Halbkreis zurück.
 
 Der Weißbart entstieg dem Wagen. Seine Kleidung erinnerte
-an die malerische Tracht eines Theaterzigeunerhauptmanns,
+an die malerische Tracht eines Theaterzigeunerhauptmanns.
 <@pagebreak/>
 Sie war sauber und auf äußere Wirkung
 berechnet.
@@ -136,7 +136,7 @@ und die Tore schlossen sich wieder.
 »Ein uralter Trick, Gerda Gard,« sagte Harst zu unserer
 Wächterin. »Hölzerne Tore, mit Steinplatten benagelt,
 finden Sie als Tarnkappe für Höhlen in allen Weltteilen, wo
-Verbrecher über Unglückliche hausen. In Mexiko haben die
+Verbrecher oder Unglückliche hausen. In Mexiko haben die
 Moqui-Indianer schon zu den Zeiten der ersten Beutezüge der
 europäischen Kulturbringer ihre Schätze und Weiber und
 Kinder derart in Riesengrotten versteckt. In Tibet verborgen
@@ -192,7 +192,7 @@ stehen schlecht … Vielleicht liegen morgen früh nur noch
 ein paar Knöchlein von uns in der Asche eines Sonnenwendfeuers
 … Daß die schwarze Schnecke vor unseren
 Augen in die Höhle fuhr — warum fuhr er nicht gleich in
-die Hölle?! —, beunruhigt mich außerordentlich.«
+die Hölle?! — beunruhigt mich außerordentlich.«
 
 <@pagebreak/>
 
@@ -232,8 +232,8 @@ zu spüren, jedoch so unmerklich und so wenig echt
 <@pagebreak/>
 duftend, daß ich fast annehme, Gerda hat aus sich heraus
 den Mordbefehl der schwarzen Schnecke nur zum Schein
-Besorgen wollen. — Möglich, daß Eifersucht mitspielt …«
-fügt er schnell hinzu, da Lanos und Gerda sich uns näherten.
+befolgen wollen. — Möglich, daß Eifersucht mitspielt …«
+fügte er schnell hinzu, da Lanos und Gerda sich uns näherten.
 
 Der Alte löste wortlos unsere Fußfesseln, und seine
 Miene verriet dabei Bestürzung und auch eine gewisse
@@ -417,7 +417,7 @@ Ich als stummer Zuhörer rieb mir eine Weile kräftig
 die Stirn, bevor ich mich in die neue Sachlage hineinfand.
 Dann drückte Gepp auch mir die Hand und sagte in leichtem
 Plauderton: »Trinken Sie lieber Rotwein oder Tiroler
-Weißen? Die schwarze Schnecke ist vorzüglich verproviantiert,
+Weißen? Die schwarze Schnecke ist vorzüglich verproviantiert.
 Kommen Sie …«
 
 <@pagebreak/>
@@ -539,7 +539,7 @@ war. — Langweile ich Sie?«
 
 »Es geht …«
 
-»Ich konnte sofort zum Schluß. — Ich ließ den Wagen
+»Ich komme sofort zum Schluß. — Ich ließ den Wagen
 und den Primas im Dickicht zurück und trat mit Gerda
 Gard in Verbindung, die daran gewöhnt schien, daß die
 schwarze Schnecke auch den kultivierten Europäer darzustellen
@@ -580,7 +580,7 @@ an und sog dann kräftig an seiner Zigarre. »Was tun
 wir, Harst?!« meinte er mißmutig. »Soll ich eine Rakete
 draußen abbrennen?«
 
-»Das Heißt also, Sie haben Gendarmerie in Bereitschaft?«
+»Das heißt also, Sie haben Gendarmerie in Bereitschaft?«
 
 »Ja, dreißig Mann in Zivil, die als harmlose Sonnwendfestgenossen
 in vier Trupps auf den Nachbarhöhen
@@ -936,7 +936,7 @@ auf einige Punkte.«
 
 Nach Süden zu, wo das Karwendelgebirge den Hintergrund
 der scharfen Krümmung des Isartales bildet, lohten
-überall in den Verborgen die Feuer der Sonnenwende.
+überall in den Vorbergen die Feuer der Sonnenwende.
 Rechts auf dem Blomberg vor dem Blomberghaus flammten
 sogar drei Holzstöße.
 
@@ -1016,7 +1016,7 @@ Sie ist unkenntlich, der Kopf völlig zerschmettert — Gottesgericht.«
 
 »*Er*!« nickte Gepp. Und Harst ergänzte:
 
-»Ja, Ihr Onkel, meine Herren der angeblich geisteskranke
+»Ja, Ihr Onkel, meine Herren, der angeblich geisteskranke
 Bruder ihres verstorbenen Vaters.«
 
 »Jerome Baron Grandville,« — Gepp blinzelte den
@@ -1039,10 +1039,10 @@ verheiratet und Vater von drei Söhnen, machte er
 das Mädchen zu seiner Geliebten. Sie gebar ihm ein Kind,
 und sie starb bei der Geburt. Auch das Kind lebte nur drei
 Jahre. Unser Vater ließ es hier begraben, es galt als eheliches
-Kind eines Zigeunerpaares, Urkundenfälschungen belasteten
+Kind eines Zigeunerpaares. Urkundenfälschungen belasteten
 hierdurch unseres Vaters Gewissen. Der einzige,
 der seine Schuld kannte, war die schwarze Schnecke. Wir
-drei ahmten nichts von alledem, bis wir vor fünf Jahren
+drei ahnten nichts von alledem, bis wir vor fünf Jahren
 hier aus Tölz von der schwarzen Schnecke einen Erpresserbrief
 mit allerlei Andeutungen erhielten. Beigefügt waren
 Abschriften von Urkunden. Da an alledem zweifellos etwas
@@ -1077,12 +1077,12 @@ ich mich nicht irre, küßten sie sich auch.
 
 »Gehen wir und trinken wir im Bayernhof noch ein
 bis drei Flaschen Knallkümmel,« schlug Alarich Gepp vor.
-»Verlobungen ohne Sekt sind nicht gut möglich, … Eigentlich
+»Verlobungen ohne Sekt sind nicht gut möglich … Eigentlich
 ist es schade um diesen Jerome. Ich hätte ihn noch
 so manches zu fragen gehabt.«
 
 Jenseits des Waldes kroch über den hellen Weg ein
-schwarzes, Klebriges Ding. Gepp betrachtete diese schwarze
+schwarzes, klebriges Ding. Gepp betrachtete diese schwarze
 Schnecke mißbilligend und warf sie in die Wiese. »Du bist
 doch erledigt, Schwarzschneck. Tote kriechen nicht mehr umher.
 — Geben Sie mir eine Zigarette, Harst …«
