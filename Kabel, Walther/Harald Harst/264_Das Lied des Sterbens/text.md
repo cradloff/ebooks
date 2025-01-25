@@ -170,7 +170,7 @@ seine ureigensten Ansichten über die Schatzinsel, unsere Insel
 hier und sonstige Nebensächlichkeiten noch minutenlang zum
 Besten gegeben, wenn Harst nicht dazwischengefahren wäre.
 »Was verhüllen Sie durch diese Parlamentsrede, Lücke?
-Heraus damit! ich kenne Sie!
+Heraus damit! ich kenne Sie!«
 
 »Haben Sie einen feinen Riecher!!« Und Lücke klopfte
 den Tabak einer Zigarette auf dem Deckel seines silbernen
@@ -343,19 +343,19 @@ und verschlossen wie ein Banktresor.
 <h2>2. Kapitel.</h2>
 <h3>Mimosa San.</h3>
 
-Wir setzten uns zu ihm. Nach den wenigen Worten.
+Wir setzten uns zu ihm. Nach den wenigen Worten,
 die wir gewechselt hatten, nahm er von uns keinerlei Notiz
 mehr. Er steckte den Fisch ins Netz, versenkte dieses wieder
 ins Wasser, steckte einen neuen Wurm auf den Haken und
-zündete mit eilten! vorsintflutlichen Luntenfeuerzeug seine
-Pfeife an.«-
+zündete mit einem vorsintflutlichen Luntenfeuerzeug seine
+Pfeife an.
 
-Tode Batterie mir heimlich zu und grinste. Der besonderen
+Lücke zwinkerte mir heimlich zu und grinste. Den besonderen
 Unwillen des alten Sonderlings hatte Lückes Monokel
-erregt, obwohl die Hornbrille auch nur noch ein Thar
+erregt, obwohl die Hornbrille auch nur noch ein Glas
 hatte und statt des zweiten ein festgenähtes Lederstück, hinter
 dem eine leere Augenhöhle unter dem halb Herabgesunkenen
-Wich sichtbar wurde.
+Lid sichtbar wurde.
 
 Der liebenswürdige Jakob war einäugig.
 
@@ -368,69 +368,68 @@ knurrend: »Grad so lang, wie’s mir gefällt, Sie … Sie …
 
 »Danke!«
 
-»Bitte, gern Gashahn …« Er schielte den patenten Hans
+»Bitte, jern geschehn …« Er schielte den patenten Hans
 <@pagebreak/>
-geringschätzig von der Seite 83. »Ihr seid wohl Touristen ist
-Dann) legt »Dr aus — Kriegöschieper, Knalle Raffke und
+geringschätzig von der Seite an. »Ihr seid wohl Touristen?!
+Danach seht ihr aus — Kriegsschieber, Marke Raffke und
+Neureich …«
 
-Gewesen …
-»Was Ähnliches, Herr Begleiter … Eichen Sie ich.
-
+»Was Ähnliches, Herr Schneider … Sitzen Sie schon
 lange hier?«
 
-»Länger, als Ihre Gedanken roten, Sie … Sie …«
+»Länger, als Ihre Gedanken reichen, Sie … Sie …«
 
-». -« Weppelfatzke, — Erdteils — Bild schon ein paar
-Stunden … Hallo, — da beißt wieder ein Lage?«
+»… Äppelfatzke, — bitte!! — Also schon ein paar
+Stunden … Hallo, — da beißt wieder ein Lachs!«
 
-Der Alte hatte mit der Angel schon ergebenen und
-Kette Fisch Er. 2 in sein Netz …
+Der Alte hatte mit der Angel schon angehauen und
+steckte Fisch Nr. 2 in sein Netz.
 
 Gleich darauf fing er den dritten und vierten.
 
-Lücke warf mir einen belasteten Bis zu.
+Lücke warf mir einen besonderen Blick zu.
 
-… « … Sagen Sie mal, Herr Schwester, — die Angel.
-stelle ist ja glänzend!! Aber in den ersten Glucksen haben
-Sie nichts gefangen, und jetzt, — — da, Kurven sechs …
+»… Sagen Sie mal, Herr Schneider, — die Angelstelle
+ist ja glänzend! Aber in den ersten Stunden haben
+Sie nichts gefangen, und jetzt, — — da, Nummer sechs …
 Sitzen Sie wirklich schon so lange hier?«
 
-… Jakob blitzte ihn mit seinem einen, linken Auge tausend
+Jakob blitzte ihn mit seinem einen, linken Auge wütend
 an. »Sie sitzen hier jedenfalls schon viel zu lange! Sie
 stören mir!«
+
 »Mich, — pardon!«
 
-»Mir oder Per ist ganz egal — Sie stören mir! Nirgends
-bat man Ruhe … Scherz euch zum Deibel!
+»Mir oder mich ist janz egal — Sie stören mir! Nirgends
+hat man Ruhe … Schert euch zum Deibel!«
 
-»auf eine Frage noch, Herr Schneider … Ist diese
+»Nur eine Frage noch, Herr Schneider … Ist diese
 Insel bewohnt?«
 
 Ein unaussprechlich verachtungsvoller Blick traf den
 Schwätzer Lücke. »Hier in dreißig Meilen Umkreis gibt’s
-nur ein indisches »eines Dorf und meine Ruine, Sie.
-Steht das nicht in Ihrem Reiseführer? Dann Faust das
-Buch Absicht, Sie!« — Er zog wieder einen Prachtkerl aus
-dem blaugrünen Wasser, dessen milchige Streifen Museums«
-gedehnte Korallenbänke hindeuteten.
+nur ein indisches kleines Dorf und meine Ruine, Sie …!!
+Steht das nicht in Ihrem Reiseführer? Dann daugt das
+Buch nischt, Sie!« — Er zog wieder einen Prachtkerl aus
+dem blaugrünen Wasser, dessen milchige Streifen auf ausgedehnte
+Korallenbänke hindeuteten.
 
 Ich schmorte in der prallen Sonne. Lange hielt ich es hier
-Nicht mehr aus. Zum Glück erlhyzob Jakob sich und begann
+Nicht mehr aus. Zum Glück erhob Jakob sich und begann
 sein Zeug einzupacken. Ohne ein Wort des Abschieds stieg
-er zum Ufer hinab, schleppte aus dem Gebüsch einen Grasbaum,
+er zum Ufer hinab, schleppte aus dem Gebüsch einen Einbaum,
 <@pagebreak/>
 also einen aus einem Baumstamm hergestellten
-Rachen ins Wasser und ruderte noch Südost der Festlande
+Nachen ins Wasser und ruderte noch Südost der Festlandküste
+zu.
 
-fühlte zu …
-Lücke und ich hatten uns schleunigst in den Baum
-
-Schatten zurückgezogen.
+Lücke und ich hatten uns schleunigst in den Baumschatten
+zurückgezogen.
 
 »Ein ulkiger Knabe,« meinte ich ehrlich erheitert.
 
-»Ein Schwindler,« verbesserte Lücke. »Der Alte saß nicht
-malt bereits dort mehrere Stunden — ausgeschlossen …«
+»Ein Schwindler,« verbesserte Lücke. »Der Alte saß niemals
+bereits dort mehrere Stunden — ausgeschlossen …«
 
 Ich zeigte auf die Spuren im Sande. »Man sieht nur
 seine Fährten, Lücke … Weshalb sollte er lügen?«
@@ -438,18 +437,18 @@ seine Fährten, Lücke … Weshalb sollte er lügen?«
 »Das weiß ich noch nicht … — Setzen wir unseren
 Weg fort … Harst wird ohnedies bereits in Unruhe sein,
 wir haben mit Jakob eine Viertelstunde vertrödelt — oder
-nicht vertrödelt, Ich kann mich des Eindruck nicht erwehren,
-daß der Alte stier nur auf uns gewartet hat: Ich
-werde scharf aufpassen … Bisher fanden — wir im Riechende
+nicht vertrödelt. Ich kann mich des Eindruck nicht erwehren,
+daß der Alte hier nur auf uns gewartet hat: Ich
+werde scharf aufpassen … Bisher fanden wir im Ufersande
 Keinerlei Spuren, nicht einmal Andeutungen davon.
-In den Wald einzudringen ist unmöglich. Also … 7«
+In den Wald einzudringen ist unmöglich. Also …?«
 
-»- — « Wäre die Insel unbewohnt, wie der Jakob behauptete,
+»… Wäre die Insel unbewohnt, wie der Jakob behauptete,
 wenn wir auch weiterhin nichts von Fährten oder
 von einem Buschpfad bemerken.«
 
-»Ganz rächt … — Passen Wirtschaft auf … 3h
-Breite dabei: Jakob Schneider angelte als Spion und steht
+»Ganz recht … — Passen wir scharf auf … Ich
+bleibe dabei: Jakob Schneider angelte als Spion und steht
 irgendwie zu der verdufteten Dschunke in Beziehung«
 
 Wir brauchten noch zehn Minuten, dann sahen wir
@@ -457,21 +456,21 @@ die Bucht und unsere vertäute Lady wieder vor uns,
 
 Als wir jeden nach Harst Ausschau hielten, als wir
 schließlich an Bord gingen, lag da in der Kajüte der sauber
-gefesselte Bengel! Kultur mit wehleidigem Gesicht auf dem
-Fußboden, »intensiv—Wissen unter dem Kopf und den vierbeinigen
-Tisch über sich, an dessen Füße er noch« besonders
+gefesselte Bengel Sifu mit wehleidigem Gesicht auf dem
+Fußboden, hatte ein Kissen unter dem Kopf und den vierbeinigen
+Tisch über sich, an dessen Füße er noch besonders
 festgebunden war.
 
 »Wo ist Harst?« fragte ich banger Ahnungen voll.
 
-— Sifu winselte: »Weiß nicht, Missu -. Schraut … Er
+Sifu winselte: »Weiß nicht, Missu Schraut … Er
 <@pagebreak/>
-hat mich gefesselt. er sagte, er müsse das Fahrzeug Türloch
+hat mich gefesselt, er sagte, er müsse das Badezeug zurückbringen,
+die Dame würde es vermissen.«
 
-bringen, die Dame würde es vermissen.«
-»Damen Auch Lücke machte ein wenig geistreiches See
+»Dame?« Auch Lücke machte ein wenig geistreiches Gesicht.
 
-»Ha, — Dame sagte er … —
+»Ja, — Dame sagte er …«
 
 Lücke zog mich durch die enge Tür an Deck.
 
@@ -479,7 +478,7 @@ Lücke zog mich durch die enge Tür an Deck.
 Abwesenheit den Pfad ins Innere entdeckt. Suchen
 wir … Seine Spuren werden uns den Weg weisen. Sifu
 hat er nur sicher untergebracht, damit der Junge nicht etwa
-kam? der Lady davonrollte.«
+samt der Lady davontöffte.«
 
 Die Sachlage war allerdings ziemlich klar.
 
@@ -487,107 +486,109 @@ Unklar blieb nur — und das merkten wir sehr bald,
 wo und wie Harst in das Dickicht eingedrungen sein könnte.
 Von einem Pfad konnte keine Rede sein.
 
-Luke wurde ungemütlich. »Begreifen Sie das?f — Er
+Lücke wurde ungemütlich. »Begreifen Sie das?! — Er
 Hätte doch für uns einen Zettel zurücklassen können! Seine
-derb, Geheimniskrämerei!f — Ich habe Hunger. Binden
-wir Sifu los, damit er ein paar Konservenbüchsen de:
-Genick aufdreht ins ums Reis mit Huhn kocht, — morgen
-gib?s Huhn mit Reis, übermorgen wieder Reis mit Huhn.
-Ich kleine mich nach Erbsensuppe mit Eisbein, — es ist e’n
-Werft … « Land?«
+verd… Geheimniskrämerei!! — Ich habe Hunger. Binden
+wir Sifu los, damit er ein paar Konservenbüchsen das
+Genick aufdreht und uns Reis mit Huhn kocht, — morgen
+gibt’s Huhn mit Reis, übermorgen wieder Reis mit Huhn.
+Ich sehne mich nach Erbsensuppe mit Eisbein, — es ist ein
+verfl… Land!!«
 
-»Vorhin sangen Sie ein ander Lied,« meinte ich Ironie;«.
+»Vorhin sangen Sie ein ander Lied,« meinte ich Ironisch.
 
-Lücke stieg schon über den Korallendamm
+Lücke stieg schon über den Korallendamm …
 
 Ich hatte noch einen letzten Blick auf den blühenden
-Strauch geworfen, der nun keine Badeseide mehr trocknete,
-Nicht hinter dem großen Busch schimmerte der graue rasch«
-trage Stamm einer Eiche
+Strauch geworfen, der nun keine Badeseide mehr trocknete.
+Dicht hinter dem großen Busch schimmerte der graue mächtige
+Stamm einer Eiche
 
-»Lücke — hältst«
-»Was Forts?!« Er wandte nicht einmal! den Kopf.
+»Lücke — halt!!«
 
-»Harst hat doch einen Weg gefunden …
+»Was soll’s?!« Er wandte nicht einmal den Kopf.
+
+»Harst hat doch einen Weg gefunden …«
+
 »So?!« Jetzt drehte er sieht um.
-»Durch die Baumwipfel, Lücke. Mr. Hätten eigentlich
 
+»Durch die Baumwipfel, Lücke. Wir Hätten eigentlich
 sofort darauf kommen müssen.«
 
 <@pagebreak/>
-»Das stimmt?! — Also flink … wir wollen ihm das
+»Das stimmt! — Also flink … wir wollen ihm das
 Alleinsein mit der Dame schon versalzen!«
 
 Er hatte Huhn mit Reis und Reis mit Huhn gänzlich
 vergessen. — Es dauerte nicht lange, und wir entdeckten
-am Fuße der Eiche ein Schiffstau. das sich nach oben in den
-Resten verlor, Lücke Punkte als erster nach oben, und als
+am Fuße der Eiche ein Schiffstau, das sich nach oben in den
+Ästen verlor. Lücke turnte als erster nach oben, und als
 wir dann auf dem stärksten, dem Innern der Insel zugekehrten
 Ast entlang balancierten, stießen wir auf eine Bambusleiter,
 die als Laufplanke zu einer Palme hinüberführte.
 
-Es war ein außerordentliches geschickt’ angelegter Baum«-
-Pfad, der nötig schließlich »bis zur Grenze einer Lichtung
-brate, in deren Mitte sich eine kleine Felsgruppe und
-in dieser ein zierliches Bambu&shäus8hen mit einem Vorgärtchen,
-überaus zierlichen Zaun, einer Miniaturgrotte,
-allerhand Steinfiguren und sogar »mit einem Springbrunnen
-erhob, — all das elf Japan, all: das peinlich sauber, die
-Fenster blitzblank, hinter den Fenstern zartes Gardinen —
-— ein Idyll, das uns geradezu begeisterte …
+Es war ein außerordentlich geschickt angelegter Baumpfad,
+der uns so schließlich bis zur Grenze einer Lichtung
+brachte, in deren Mitte sich eine kleine Felsgruppe und
+in dieser ein zierliches Bambushäuschen mit einem Vorgärtchen,
+überaus zierlichem Zaun, einer Miniaturgrotte,
+allerhand Steinfiguren und sogar mit einem Springbrunnen
+erhob, — all das echt Japan, all das peinlich sauber, die
+Fenster blitzblank, hinter den Fenstern zarte Gardinen, —
+— ein Idyll, das uns geradezu begeisterte.
 
-»Reizend!« flüsterte Lücke, »Ein Paradies, Schraut«
+»Reizend!« flüsterte Lücke. »Ein Paradies, Schraut!«
 
-Wir stiegen auf einer Leiter zum grünen Gra8Hodern
+Wir stiegen auf einer Leiter zum grünen Grasboden
 herab. Wir gingen staunend durch diesen Garten Eden, wir
 sehen die Tür nur angelehnt und hörten sprechen. Ich erkannte
 Harsts Stimme … Er sprach englisch, die Worte
 waren nicht zu verstehen. Dann eine weiche Frauenstimme,
 — Lücke konnte sich nicht länger bezähmen und trat ein …
 
-»Gatten Tag … Es ist doch gestattet …«
+»Guten Tag … Es ist doch gestattet …«
 
 Es war nicht gestattet …
 
 Die Dame stand drei Schritt vor uns, hinter ihr stand
 Herr Jakob Schneider, und da sie und er Pistolen in den
-Händen hakten und Jakobs Gesichts Technik und eindeutige
+Händen hatten und Jakobs Gesichtsausdruck und eindeutige
 Aufforderung, die Arme hochzurecken, nichts Erfreuliches
-verhieß, waren wir beiden unvorsichtigen Prakiikusse See
-bunten drauf genau so sauber gefesselt wie Freund Harald,
-der in seinem Bandit Armsessel gerade nur den Kopf drehen
+verhieß, waren wir beiden unvorsichtigen Praktikusse Sekunden
+drauf genau so sauber gefesselt wie Freund Harald,
+der in seinem Bambusarmsessel gerade nur den Kopf drehen
 konnte,
 
 <@pagebreak/>
-Jakob hatte uns kiebenäwürdltast ebenfalls auf. Bambusstühle
-genötigt, und die Dame hakte unsere anders gearteten
+Jakob hatte uns liebenswürdigst ebenfalls auf Bambusstühle
+genötigt, und die Dame hatte unsere anders gearteten
 Wünsche sanft mit der Pistolenmündung abgelehnt.
 
-Die Dame wo? eine mittelgroße, zögerte Japanerin mit
+Die Dame war eine mittelgroße, schlanke Japanerin mit
 einem süßen Puppengesichtchen, gekleidet in einen lichtblauen
-goldbestickten Kimono mit Besucher Schärpe.
+goldbestickten Kimono mit weinroter Schärpe.
 
-Harst war ein Ekel, denn er satte ganz!ani gesagt:
-»Uhr seid genau so blind in die Falle getappt wie ich,
-ihr …« — daß Wort, das auf »ihr« folgte, lasse ich
-weg, aber &ck klang so ähnlich wie Ekel.
+Harst war ein Ekel, denn er hatte ganz laut gesagt:
+»Ihr seid genau so blind in die Falle getappt wie ich,
+ihr …« — das Wort, das auf »ihr« folgte, lasse ich
+weg, aber es klang so ähnlich wie Ekel.
 
 Jakob Schneider aber meinte mit seinem Kümmelbaß:
-»Na, kann ich angeln?! Feine Brei Fische haben wir da
-gefangen, Prachtheringe oder Straße … — Wer seid ihr?
+»Na, kann ich angeln?! Feine drei Fische haben wir da
+gefangen, Prachtheringe oder Stinte … — Wer seid ihr?
 Der da faselt allerlei, er hieße Harald Harst, was doch
 purer Schwindel ist. Harst kenne ich, der wohnt in Berlin
 irgendwo, und ihr seid … ja, was seid ihr?!«
 
-Die hübsche Geisha, deren seine Händen viel zu schade
+Die hübsche Geisha, deren feine Händen viel zu schade
 für den Kolben einer Pistole waren, hatte die Waffe noch
-immer in der Hand, schien jedoch mit Jakobs rauhem Berfehrä&fon
+immer in der Hand, schien jedoch mit Jakobs rauhem Verkehrston
 wenig einverstanden. Offenbar verstand sie ganz
-ganz deutsch, denn sie wandte sich nun an den einäugigen
+gut deutsch, denn sie wandte sich nun an den einäugigen
 Grobian und meinte in fließendem Englisch:
 
 »Mr. Schneider, bitte, wir wollen die Gentlemen darauf
-aufmerksam machen, daß jede Unwahrlyeit ihrerseits sehr
+aufmerksam machen, daß jede Unwahrheit ihrerseits sehr
 böse Folgen haben kann. — Meine Herren, wer sind Sie?«
 
 Lücke, der die Situation durchaus humoristisch nahm
@@ -595,57 +596,57 @@ und voll ehrlicher Bewunderung die süße Puppe anstarrte,
 erwiderte vergnügt:
 
 »Drei so leidlich anständige Kerle wie wir, Miß Mimosa
-Van, gibt es nicht so halb wieder, Mr. Jakob Schneider ausgenommen,
+San, gibt es nicht so bald wieder, Mr. Jakob Schneider ausgenommen,
 — er verdient freilich vor uns den Vorzug …
-Mit solcher Nase kann ich nicht aufwarten … Ich bin
-der Berliner Kriminalkommissar Doktor Hans ’Lücfe, —« hier
-in meiner Brusttasche steckt mein Baß zur gefälligen Eins
+Mit solcher Nase kann ich nicht aufwarten … — Ich bin
+der Berliner Kriminalkommissar Doktor Hans Lücke, — hier
+in meiner Brusttasche steckt mein Paß zur gefälligen Einsichtnahme,
 <@pagebreak/>
-sictrwhme, und Harst und Schraut sind in. derselben Weise
-behördlich; abarsteugetnt«
+und Harst und Schraut sind in derselben Weise
+behördlich abgestempelt.«
 
-Die »Gäste Ware unter Unglü. Untergang, oder saugen
+Die Pässe Waren unser Unglück. Anderswo, oder sagen
 wir besser unter normalen Umständen hilft einem ein Paß
-über alle Eawierigkeitor! Hinweg. Hier trat das Gegensihliahße
-ein. Kamin hatten Armlose Van und Jakob die
-Posse studiert, als sie recht bestüärzte Gesichter unseren und in
-eine Nase des freundlichen Gemaches (raten und eifrig miteinander
+über alle Schwierigkeiten Hinweg. Hier trat das Gegensätzliche
+ein. Kaum hatten Mimosa San und Jakob die
+Pässe studiert, als sie recht bestürzte Gesichter machten und in
+eine Ecke des freundlichen Gemaches traten und eifrig miteinander
 flüsterten,
 
 Das Ergebnis dieses Palavers war, daß der grobe
-Gottlieb-Jakob aus verkündete, wir müßten sofort diese Zelle
+Gottlieb-Jakob uns verkündete, wir müßten sofort diese helle
 Behausung mit einem Kühleren Gemach vertauschen.
 
-Zu stieg eine Steintreppe hinab, man drückte wie auf
-einen mit Gras gefüllten Sack, — Schritte entfernten lieh
-zRd eine Falltür oder dergleichen knallte zu.
+Ich stieg eine Steintreppe hinab, man drückte mich auf
+einen mit Gras gefüllten Sack, — Schritte entfernten sich
+und eine Falltür oder dergleichen knallte zu.
 
-Es war hier wirklich angenehm und kühl und danke!,
+Es war hier wirklich angenehm und kühl und dunkel,
 und als mir durch allerlei Kopfverrenkungen die Binde von
 den Augen gestreift hatte, sah ich absolut nichts, hörte nur
-Lücke neben mir sagen:«-
+Lücke neben mir sagen:
 
 »Das haben wir glänzend gemacht!!«
 
-Worauf auch Harst sich genau so ironisch; meldete:
+Worauf auch Harst sich genau so ironisch meldete:
 
-»Nun erzählt doch mal eure Erlebnisse, ihr Selben!!
-Auf euch beide hatte ich als Befreier gerechnet — gibgerccnet
+»Nun erzählt doch mal eure Erlebnisse, ihr Helden!
+Auf euch beide hatte ich als Befreier gerechnet — ausgerechnet
 auf euch!«
 
 Lücke erwiderte nur: »Der Bengel Sifu hat das alles
 wohl vorausgeahnt, und wenn nun die Pestdschunke herbeisignalisiert
-wird, werden wir vielleicht nachts Hing kennen
-einen.«
+wird, werden wir vielleicht noch China kennen
+lernen.«
 
-Eine Weile blieb es stumm. Dann Harst — mit« eigentümlicher
+Eine Weile blieb es stumm. Dann Harst — mit eigentümlicher
 Betonung: »Wollen wir wetten, Lücke, daß Sifu
 uns hier sehr bald Gesellschaft leisten wird?!«
 
 »Ich verzichte, denn das ist Unsinn,« sagte der patente
-Hang aus der Finsternis heraus.
+Hans aus der Finsternis heraus.
 
-Es war nicht Unsinn.«
+Es war nicht Unsinn.
 
 <@pagebreak/>
 
@@ -653,263 +654,259 @@ Es war nicht Unsinn.«
 <h3>Unter der Erde.</h3>
 
 Ich konnte Lückes ein wenig grobschrötige Ablehnung
-einer Wette allerdings verstehen, denn auch für mich Alter:
-lag es kaum dem geringsten Zweifel, daß Sitz, der da:
+einer Wette allerdings verstehen, denn auch für mich unterlag
+es kaum dem geringsten Zweifel, daß Sifu, der doch
 diese Insel kennen mußte, auch der Japanerin und dem
-Landsmann Jakob Sdpmeider kein Fremder sei.
+Landsmann Jakob Schneider kein Fremder sei.
 
 Ich suchte zu vermitteln, da das nun folgende Schweigen
-eine noch gereiztere Stimmung!schaffen konnte …
+eine noch gereiztere Stimmung schaffen konnte.
 
 »Lücke,« sagte ich versöhnlichen Tones, »wahrscheinlich
 meint Harst, daß die blaue Geisha und Jakob Schneider uns
 durch Sifus Einkerkerung über die wahren Zusammenhänge
-»noch mehr im ungewissen lassen wollen.«
+noch mehr im ungewissen lassen wollen.«
 
-Aber die Vermittlerrolle Theorie nicht.
+Aber die Vermittlerrolle klappte nicht.
 
-»Feine Rede davon,« erklärte Harald mit gedämpfter
-Stimme. Jakob ist kein Diplomat, sondern ein Draufgänger
+»Keine Rede davon,« erklärte Harald mit gedämpfter
+Stimme. »Jakob ist kein Diplomat, sondern ein Draufgänger
 und gibt sich mit derlei Spitzfindigkeiten nicht ab.«
 
 Lücke meldete sich nicht mehr, und die Mißstimmung war
-
 da.
 
-Ich hatte Zeit, nach irgendeinem wenn auch mochte
+Ich hatte Zeit, nach irgendeinem wenn auch noch so
 schmalen Lichtstreifen an der Decke — vielleicht schloß die
 Falltür nicht ganz fest — auszuspähen. Aber ich sah auch
-nicht den geringsten hellen. Punkt. Hier herrschte absolute
-Finsternis, der Raum war eine ideale Dunkelkaonmer.
+nicht den geringsten hellen Punkt. Hier herrschte absolute
+Finsternis, der Raum war eine ideale Dunkelkammer.
 
 Da ich mit den auf dem Rücken gefesselten Händen
-an der fühlen Felswand lehnte, konnte ich diese bequem
+an der kühlen Felswand lehnte, konnte ich diese bequem
 befühlen. Es war keine Ziegelmauer, es mußte Korallenkalk
-sein, die Oberfläche war rann und unregelmäßig, stellenweise
-hatte sie Köder und breite erhöhte Streifen. Der Raum
+sein, die Oberfläche war rauh und unregelmäßig, stellenweise
+hatte sie Höcker und breite erhöhte Streifen. Der Raum
 konnte sehr wohl aus dem Korallengestein ausgehauen sein.
 
 Unsere Atemzüge und das Tröpfeln von Wasser im
 <@pagebreak/>
-Yintergetnade der Höhle — oder was Co sonst war — dir.
-dicken die einzig vernehmbarer Latte,
+Hintergrunde der Höhle — oder was es sonst war — bildeten
+die einzig vernehmbaren Laute,
 
-Hältst — es möchten fünf Minuten … sein? den sein —
-wilde die Falltür Rebus über mir hochgeklappt. Plaudernden
-Ciynenschein statt) nie in Hie Augen, Tat Körper rollte
-die Treppe hiziab, die Falltür schlug zu, wird Harst sagte
+Dann — es möchten fünf Minuten verstrichen sein —
+wurde die Falltür rechts über mir hochgeklappt. Blendender
+Sonnenschein stach mir in die Augen, ein Körper rollte
+die Treppe hinab, die Falltür schlug zu, und Harst sagte
 halb triumphierend:
 
 »Da ist er …!«
 
-Gifte passendes Organ midete!ich sofort.
+Sifus quäkendes Organ meldete sich sofort.
 
-»oh — Mist- Harst, ich bin glückliches … Ost: sind
-hie!« Er war offenbar in größter Angst, uns sein Nach«-
-Satz bestätigte jedenfalls das ein?: Jakob Schneider war
+»oh — Missu Harst, ich bin glücklich … Sie sind
+hier!« Er war offenbar in größter Angst, und sein Nachsatz
+bestätigte jedenfalls das eine: Jakob Schneider war
 unserem Boy gänzlich fremd. — »Missu Harst, ein Mann
 kam da an Bord der Lady Hamilton, der mich furchtbar
-verprügelt hat. Er behauptete gesehen zu haben, wie (ich
+verprügelt hat. Er behauptete gesehen zu haben, wie ich
 der Pestdschunke mit meiner Jacke Signale gab, und ich
 habe die Jacke doch nur gewaschen. Er glaubte mir nicht,
 und er drohte mir, falls ich nicht eingestände, was ich von
-der Dschunke wüßte, mich an den Beinen an eine Korallen«
-zucke anzuhängen, an der immer ein »Dauer Karriere sich)
-umhertrieben. Missu Harst, mein Rücken tut schrecklich den,
+der Dschunke wüßte, mich an den Beinen an eine Korallenzacke
+anzuhängen, an der immer ein paar Haifische sich
+umhertrieben. Missu Harst, mein Rücken tut schrecklich weh,
 und sitzen werde ich wohl sehr lange nicht können, — es
 war ein alter Teufel, der Einäugige, und ich habe bei
-meinen Ihnen geschworen, mich zu rächen, falls ie am
-Leben bleibe.« Die letzten Sätze stieß er in Ohnmacht!! kam
+meinen Ahnen geschworen, mich zu rächen, falls ich am
+Leben bleibe.« Die letzten Sätze stieß er in ohnmächtigem
 Grimm hervor, und daß er hier nicht etwa heuchelte, zeigte
-sich später, als wir Gelegenheit hatten, uns seine Bestreite
-anzusehen, Lüde’s bissige Bemerkung: »Er wird wo! guten
+sich später, als wir Gelegenheit hatten, uns seine Kehrseite
+anzusehen. Lücke’s bissige Bemerkung: »Er wird wohl guten
 Grund gehabt haben, dich zu verhauen, Freund Sifu, du
 eingeseiftes Lügenmaul,« war daher für den in diesem Falle
 ausnahmsweise ehrlichen Jungen eine bittere Pille. Im
 Gegensatz zu Lücke sagte Harst nur ziemlich gleichgültig:
 »Dir wird auch ein Hai nicht den Mund öffnen, Sifu, das
-weiß ich Deine Angst vor doch Anderen ist größer …«
+weiß ich. Deine Angst vor dem Anderen ist größer …«
 
 Ich wurde aus diesem Hinweis auf eine Persönlichkeit,
 <@pagebreak/>
-die Form nur zu den Leuten der zeheimiisvollen Dschunke
-in Beziehung stehen konnte, nicht recht klug. Ich fand mied
-überhaupt: in dieser ganzen verworrener Geschichte nicht
-zurecht. Man denke: Da ist eine Insel, auf der in einen.
-zierlichen Häuschen »ins junge jede hübsche Japanerin 906bni
-— auf einer Lichtung, die nur durch die Nennt?innen zu
-erreichen ist. Da ist ferner ein sjuugrober deutscher Einsiedler
-— hier in Nordwestindiens! — der mit der Japanerin
-auf vertrautestem Fuße steht. Da ist dir Beiidiyzuike, von
-der man »sogar in Baroda allerlei zu berichten wischte, —
+die doch nur zu den Leuten der geheimnisvollen Dschunke
+in Beziehung stehen konnte, nicht recht klug. Ich fand mich
+überhaupt in dieser ganzen verworrener Geschichte nicht
+zurecht. Man denke: Da ist eine Insel, auf der in einem
+zierlichen Häuschen eine junge sehr hübsche Japanerin wohnt
+— auf einer Lichtung, die nur durch die Baumkronen zu
+erreichen ist. Da ist ferner ein saugrober deutscher Einsiedler
+— hier in Nordwestindien!! — der mit der Japanerin
+auf vertrautestem Fuße steht. Da ist die Pestdschunke, von
+der man sogar in Baroda allerlei zu berichten wußte, —
 eine Dschunke, also ein Schiffstyp, der in diesen Gewässern
-außerordentlich selten anzutreffen ist. Dr ist so allerlei
-drum und dran als rätselhaftes Belastet, und der vorläufige
-Abschluß heißt jsür yxvs Gefangenschaft in Frauen
-pechfinsteren Kerker. — Mein Bedarf an Abenteuerlichen!
-war deshalb auch bereits gedeckt, und ’ich hatte zur Zeit
+außerordentlich selten anzutreffen ist. Da ist so allerlei
+drum und dran als rätselhaftes Beiwerk, und der vorläufige
+Abschluß heißt für uns Gefangenschaft in einem
+pechfinsteren Kerker. — Mein Bedarf an Abenteuerlichem
+war deshalb auch bereits gedeckt, und ich hatte zur Zeit
 nur den heißen Wunsch nach einem anständigen Mittagessen
 und nach einem möglichst bequemen Diwan. Es mußte
 jetzt etwa vier Uhr nachmittags sein. Um neun hatten wir
-
-efrühstüdt. Mein Magen rebellierte. Der Strohsack war
-ein Diwan, und Luft sättigt nicht, selbst wenn sie kühl
-und genußfroh ist. Ganz gefühllos war sie zudem nicht,
+gefrühstückt. Mein Magen rebellierte. Der Strohsack war
+kein Diwan, und Luft sättigt nicht, selbst wenn sie kühl
+und geruchfrei ist. Ganz geruchfrei war sie zudem nicht,
 denn Sifu kauerte jetzt offenbar dicht zu meinen Füßen,
-und er roh stets nach Zwiebeln und schlechter Zigaretten.
+und er roch stets nach Zwiebeln und schlechten Zigaretten.
 
 Die Stille in unserem Kerker wurde lästig. Sifu stöhnte
-und wimmerte leise, das war Nerxrvenrz-izmittel, — keiner
+und wimmerte leise, das war Nervenreizmittel, — keiner
 sprach, jeder hing wohl seinen tiefschürfenden Gedanken nach:
 Was war mit diesem Inselchen und seinen Bewohnern
 eigentlich los?!
 
 Meine Versuche, die Fesseln zu lockern, hatte ich sehr
-bald aufgegeben, denn Jakob Schneider, zweifellos jecersfahrener
-und (eebefahrener Mann, hatte Schifferkunoteu geknüpft, die,
+bald aufgegeben, denn Jakob Schneider, zweifellos seeerfahrener
+und seebefahrener Mann, hatte Schifferknoten geknüpft, die,
 ohne die Stricke in die Haut zu pressen, doch wie Eisen
 hielten.
 
 Seltsam: Immer wieder hatte ich die unklare Vorstellung,
 <@pagebreak/>
-Eine?der bereits begegnet zu sein. Ich wühlte in
-mitten Gedächtnis, ich öffnete gelöst die verrostetsten Türen
-uralten Erinnerungszellen, — es Half nichts.
+Schneider bereits begegnet zu sein. Ich wühlte in
+meinem Gedächtnis, ich öffnete selbst die verrostetsten Türen
+uralter Erinnerungszellen, — es Half nichts.
 
-Deshalb, fragte ich nicht genau so hartnäckig immer
-aufs neue haften unsere Pässe, also die Tatsache, daß
-bückte und wir beide Leute vom »Fach« waren, diese uns
-günstige Wendung herbeigeführt?! Wären wir zum Beispiel
+Weshalb, fragte ich mich genau so hartnäckig immer
+aufs neue, hatten unsere Pässe, also die Tatsache, daß
+Lücke und wir beide Leute vom »Fach« waren, diese ungünstige
+Wendung herbeigeführt?! Wären wir zum Beispiel
 drei Reisende in Schmierseife, hätten die holde Mimosa
-Van und der Unholde Jakob uns laufen lassen, davon war
+San und der unholde Jakob uns laufen lassen, davon war
 ich überzeugt — auch davon, daß sie uns keinen Glauben
-schenken, nur ein Zufall hätte uns hierher geführt.
+schenkten, nur ein Zufall hätte uns hierher geführt.
 
-Gott sei Dank, der mürrische Lücke brach das peinvoll
+Gott sei Dank, der mürrische Lücke brach das peinvolle
 Schweigen und sagte schwer gereizt:
 
 »Zum Teufel, wie lange soll das hier so weitergehen?!«
 
-— Ich hätte geantwortet, aber sofort nach seinen höchste
-Ungeduld verratenden—Worten vernahmen wir droben hm
-Gardine gedämpfte Schüsse, ein paar schnell verhallende
-Schreie, noch zwei Schüsse — und … dann nichts mehr.
+Ich hätte geantwortet, aber sofort nach seinen höchste
+Ungeduld verratenden Worten vernahmen wir droben irgendwo
+gedämpfte Schüsse, ein paar schnell verhallende
+Schreie, noch zwei Schüsse — und dann nichts mehr.
 
 Harst erklärte aus der Finsternis heraus, die wie schwarze
 Tücher mich umgab, — seine Stimme kam aus anderer
 Richtung: »Sollte ich recht behalten, so leben jetzt einige
-Chinesen oder Japaner »ich! mehr … Wenn wir Pech
-haben, können wir hier verhungern …
+Chinesen oder Japaner nicht mehr … Wenn wir Pech
+haben, können wir hier verhungern …«
 
-Dieser Bemerkung, die mich an « feinen freien Magen
-erinnerte, schloß sich ein ersreulicrer« Lichtstrahl an. Harsts
-Taschenlampe blickte auf, und ich sah, daß er drüben an
-der Korallenwand stand und das Ohr an das rissige Kalk
-Gestein gepreßt hatte.
+Dieser Bemerkung, die mich an meinen leeren Magen
+erinnerte, schloß sich ein erfreulicher Lichtstrahl an. Harsts
+Taschenlampe blitzte auf, und ich sah, daß er drüben an
+der Korallenwand stand und das Ohr an das rissige Felsgestein
+gepreßt hatte.
 
 »Sie sind frei?« rief Lücke erstaunt.
 
-»Ich bin so frei, lieber Lücke. Begraben wir die« Guten?
-Art, schreien Sie jedoch nicht Ablauf, denn wir haben hier
-Nachbarn, von denen der ein« seine Klagelaute mit denen.
+»Ich bin so frei, lieber Lücke. Begraben wir die Streitaxt,
+schreien Sie jedoch nicht so laut, denn wir haben hier
+Nachbarn, von denen der eine seine Klagelaute mit denen
 Sifus vermischte. Ich werde euch sofort losbinden.«
 
 Er horchte noch eine Weile, und da Sifu sein Gewimmer
 einstellte, hörte auch ich eigentümlich gurgelnde
 <@pagebreak/>
-Töne, die etwa so (langen, als ob jemand bei der Morgentoilette
+Töne, die etwa so klangen, als ob jemand bei der Morgentoilette
 Zahnbürste, Zahnwasser und sonstiges zweckentsprechend
 benutzt.
 
-Harst sagte leise: »Es mit hier nebenan noch einen Anker«-
-irdischen Raum auf diesem uralten Koralleneiland geben.«
+Harst sagte leise: »Es muß hier nebenan noch einen unterirdischen
+Raum auf diesem uralten Koralleneiland geben.«
 
 Unser Raum war, wie ich feststellte, ein unregelmäßiges
-viereckiges Gewölbe von vielleicht acht Mieter Länge und
-sehe Meter Breite. Die Höhlendecke hing stellenweise sehr
-ließ? herab, hatte Zacken und Wülste, — es war eben eine
-natürliche Höhle, derer Wände war mit Werkzeugen grob
+viereckiges Gewölbe von vielleicht acht Meter Länge und
+sechs Meter Breite. Die Höhlendecke hing stellenweise sehr
+tief herab, hatte Zacken und Wülste, — es war eben eine
+natürliche Höhle, deren Wände man mit Werkzeugen grob
 geglättet hatte. Sie war bis auf unsere drei Strohsäcke
 und uns vier Gefangenen leer,
 
-Harst nahm. uns die Fesseln ab, Er knotete die Stricke
+Harst nahm uns die Fesseln ab. Er knotete die Stricke
 sauber auf, zog sie glatt und legte sie abseits.
 
-» Sifu stand mit Jammermiene da und rieb sich sein
-
-Achterteil. Winke fragte:
+Sifu stand mit Jammermiene da und rieb sich sein
+Achterteil. Lücke fragte:
 
 »Wie haben Sie sich freigemacht, Harst?«
 
 »Jakob übersah, daß ich sehr starke Handgelenke, aber
-sehr schmale Hände nahe,« erwiderte Harald und zeigte auf
-
-ins blutrünstigen zerschundenen Herholen. »Etwas Haut
-
+sehr schmale Hände habe,« erwiderte Harald und zeigte auf
+seine blutrünstigen zerschundenen Handrücken. »Etwas Haut
 hat es Ja gekostet, aber das tut nichts, denke ich.«
 
-Lade klopfte ihm auf die Schulter. »Ich freue mich,
+Lücke klopfte ihm auf die Schulter. »Ich freue mich,
+alter Kamerad …!! Haben Sie Dank. Und jetzt — nach
+oben!! Man hat uns ja den Inhalt unserer Taschen belassen,
+Mimosa San war gnädig, der reizende Käfer.«
 
-alter Kamerad …!! Haben Sie Dank, Und jetzt — nach
-oben?! Mark hat uns ja den Antwort unserer Taschen des
-
-Kaffee, Mimosa Van war gnädig, der reizende Käfer.«
 Er brachte seinen äußeren Menschen etwas in Ordnung,
-308 die Beinkleider glatt, zupfte an seiner Krawatte
-und Büchse sein Einglas, -,»Also los, Harst, nach« oben!«
-»Das wird nicht gehen, fürchte im … — bitte leiser!!«
+zog die Beinkleider glatt, zupfte an seiner Krawatte
+und putzte sein Einglas. »Also los, Harst, nach oben!«
+
+»Das wird nicht gehen, fürchte ich … — bitte leiser!!«
+
 Er stieg die aus Kalkziegeln sehr unsauber gemauerte,
-gelsänderlose Treppe hinan und betrachtete die Falltür, die
-ein. in eine viereckige Hoffnung eingepaßter Korallenblock
-»war. Er stemmte die linke Hand unter den Block, aber der
+geländerlose Treppe hinan und betrachtete die Falltür, die
+ein in eine viereckige Öffnung eingepaßter Korallenblock
+war. Er stemmte die linke Hand unter den Block, aber der
 regte sich nicht. Lücke half ihm dann, Sifu hielt die Taschenlampe,
 und ich reichte den beiden einen Sack als Polster.
-
 <@pagebreak/>
-Sie’ drückten mit den Schultern, sie versuchten alles Nützliche,
+Sie drückten mit den Schultern, sie versuchten alles Mögliche,
 der Stein regte sich nicht.
-»Jakob hat ihm oben beschwert,« sagte Harst ganz außer
 
+»Jakob hat ihn oben beschwert,« sagte Harst ganz außer
 Atem,
+
 »Rufen wir um Hilfe!« meinte Lücke eilfertig. »Wir
+werden doch nicht hier in diesem Loch …«
 
-werden doch nicht hier in hierauf Loch …
+Sifu krähte hastig:
 
-Sifu krähte lustig:
-»Missu Lücke, nur das nicht!! Nicht schreien, sonst …’
+»Missu Lücke, nur das nicht!! Nicht schreien, sonst …«
 
-Wir blickten ihn erstaunt an. Er wurde verlegen, das
+Wir blickten ihn erstaunt an. Er wurde verlegen, eine
 große Seltenheit bei ihm, und seine ruhelosen Augen
-schlossen sich, als ob er sich noch mein zu verraten fürchtete,
+schlossen sich, als ob er sich noch mehr zu verraten fürchtete,
 
 »Er denkt an die Schüsse und die Schreie, und er hat
 recht,« nickte Harst. »Warten wir ab, — Sifu, ziehe mal
+die Hosen aus.«
 
-die Hosen ans.«
-So ungemütlich die Situation -aue€ß war, Lücke lachte
+So ungemütlich die Situation auch war, Lücke lachte
 leise.
 
-Harst überzeugte sich, daß Sifu tat6&lich alle Ursache
+Harst überzeugte sich, daß Sifu tatsächlich alle Ursache
 hatte, weiche Sitzgelegenheiten vorzuziehen.
 
-Lücke schüttelte empört den … Kopf. »Eine Spielt,: den
-Jungen so zu schlagen! Der Jakob ist ein …
-— »Früher folterte man Menschen, um ein »Geständnis zu
-erpressen,« unkerbrachm Harald ihn. »Schneider wollte genau
-dasselbe erfahren, was ich gern wissen möchte, — Sifu, was
+Lücke schüttelte empört den Kopf. »Eine Rohheit, den
+Jungen so zu schlagen! Der Jakob ist ein …«
 
-Ins mit her Dschunke?«
+»Früher folterte man Menschen, um ein Geständnis zu
+erpressen,« unterbrach Harald ihn. »Schneider wollte genau
+dasselbe erfahren, was ich gern wissen möchte. — Sifu, was
+ist’s mit der Dschunke?«
+
 Sifu knöpfte seine Hose fest und beteuerte mit tausend
+Falscheiden, daß er gar nichts wüßte,
 
-Verscheiden, daß er gar nichts wüßte,
 
-Tracht Vewnnmund Statue kyzSaufil
+<h2>4. Kapitel.</h2>
 
-x. Kapitel.
-Grablays Freund,
-Es ist so sehr bequem für die Kollegen vom — Feder«
+<h3>Grablays Freund,</h3>
 
-Nacht, ihrer Gattin oder Sekretärin oder Freundin — alles
+Es ist so sehr bequem für die Kollegen vom — Federfach,
+ihrer Gattin oder Sekretärin oder Freundin — alles
 drei kommt im Grunde auf eins hinaus, wenn der Schriftsteller
 <@pagebreak/>
 nicht bereits siebzig zählt — in die Maschine einen
@@ -1672,7 +1669,7 @@ Hände von logischen Schlüssen jämmerlich zusammenstürzen!«
 
 »Das meine auch« flüsterte Lücke stark enttäuscht. »Je
 kenne Ihr Bauwerk nicht, lieber Harst, aber mir scheint,
-wir bewegen uns auf der Gleichheit Hedankenlinie.«
+wir bewegen uns auf der Gleichheit Gedankenlinie.«
 
 »Es ist Grazia,« sagte Grablay bestimmt. »zur ganz
 Bombay gibt es nur ein einziges Paar so einwandfreie Beine.
@@ -2476,8 +2473,8 @@ einen Glas und dem Lederhut, der Schnapsnase und allem
 Sonstigen Zubehör seiner persönlichen Eigenart,
 
 »Na, dann kommt nur rauf, ihr … ihr … fhnuffelnäsige
-Stelle, ihr« sagte er mit herzersrischender Grobheit.
-»Senkt nur nicht, daß eure kleinen Kunallboubons mir imponieren
+Stelle, ihr« sagte er mit herzerfrischender Grobheit.
+»Senkt nur nicht, daß eure kleinen Knallbonbons mir imponieren
 … Wer müht gehorcht, — — na, ihr seht ja
 die Karabiner, steckt eure Spielzeuge nur weg, ihr Dummer
 ganz, ihr!«
@@ -2562,7 +2559,7 @@ kommt zu spät. Ich weiß, daß du dich jämmerlich vor dem
 Manne fürchtetest, der seine Frau auf der Insel gefangen
 hielt und das Gerücht aufgesprengt hatte, sie sei bei einer
 Segeljacht im Sturm über Lord gewaschen worden, Dieser
-Mann heiratete vor vier Jahren Maitu Van, eine reiche
+Mann heiratete vor vier Jahren Maitu San, eine reiche
 japanische Waise, —!so las ich sein der halb vermoderten
 Zeitung in dem halb vermoderten Strohsack der zweiten Höhle
 der Insel. Der Mann, ein kaltblütiger gleißnerischer Schurke,
@@ -2609,10 +2606,10 @@ und dafür hab« ich europäische Zeugen, die …«
 James Berger mit seiner natürlichen Stimme, »Zu alledem
 Haube aus ich verschiedenes zu bemerken, meine Nerven,
 Ich war zunächst in Dosis ansässig, Maitu Hans Vater
-war mein Fertigt, er starb, und Maitu Van ließ sich von
+war mein Fertigt, er starb, und Maitu San ließ sich von
 Nautterfield das holde Köpfchen verdrehen … Ich war da.
 malt in Europa, nachher war’s zu spät, ich siedelte nach
-Turbane über, ich behielt Maitu Van stets im Auge. Ich
+Turbane über, ich behielt Maitu San stets im Auge. Ich
 habe nie an ihren Jod geglaubt, ich brauchte viele Monate,
 nur Nutterfield hinter seine Schliche zu kommen. Er hatte
 unter seinen Fahrzeugen, mit denen er seine Plantagenerzeugnisse
@@ -2672,7 +2669,7 @@ gerichtet, Langsam faßte er in die Vrusßikeice … Er hatte
 noch eine zweite kleine Pistole bei ein gehabt. Mochte er
 ein Schurke sein: Zu so kaltblütigen Selv’inmiord gehört
 Mut …
-»Mr. Berger, ie weiß, daß Sie Maitu Van über ai’-4
+»Mr. Berger, ie weiß, daß Sie Maitu San über ai’-4
 lieben … Werder: Sie Brüllen mit ihr, wenn Sie »14
 Frau Grazia einen schweren Schmerz mit dieser Heirat zufügen,
 denn auch sie liebt Sie, und — ich Kann das Meere
@@ -2683,7 +2680,7 @@ Er kletterte auf die Reling, ein Schuß knallte, ein. Körper
 versank in den grünblauen Wogen.
 
 Als der Schuß fiel, verstummte das Lied des Sterbens.
-In der Kajütentür erschien die reizende Maitu Van, schritt
+In der Kajütentür erschien die reizende Maitu San, schritt
 auf den verkleivbeten Berger zu und letzte Um die Arme
 um den Hals und küßte ihn.
 
