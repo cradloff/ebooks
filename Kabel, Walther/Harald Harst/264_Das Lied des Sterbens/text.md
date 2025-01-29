@@ -905,119 +905,119 @@ Falscheiden, daß er gar nichts wüßte,
 
 <h3>Grablays Freund,</h3>
 
-Es ist so sehr bequem für die Kollegen vom — Federfach,
+Es ist so sehr bequem für die Kollegen vom Federfach,
 ihrer Gattin oder Sekretärin oder Freundin — alles
 drei kommt im Grunde auf eins hinaus, wenn der Schriftsteller
 <@pagebreak/>
 nicht bereits siebzig zählt — in die Maschine einen
 Roman zu diktieren, der in den ersten zehn Seiten das
-später »ufzullärende Verbrechen dem Leser serviert. Das
+später aufzuklärende Verbrechen dem Leser serviert. Das
 Leben schreibt diese Romane anders. Gewiß, aktuelle Kriminalfälle
-sind häufig, sensationelle sind seiten. — Unser Fall
-begann mit Dämpfer (wie mochte sie wirklich heißen) noch
-feuchtem seidenen Badekostüöin. Mimosa hatte schadet, als
+sind häufig, sensationelle sind selten. — Unser Fall
+begann mit Mimosas (wie mochte sie wirklich heißen) noch
+feuchtem seidenen Badekostüm. Mimosa hatte gebadet, als
 unser Benzinstänker nahte, war eiligst unter Zurücklassung
-des intimen Anzugs geflüchtet, Jakob wer als Angler nur
-Salon gewesen, Sifu hatte der Dschunke gewinkt, — all
-das waren Ereignisse außerhalb des gewöhniichen!Rahmens,
-Harst hatte sich wieder auf seinen Strolysack gesetzt, und
-unser Boy laß neben ihm. Die Taschenlampe war eingeschaltet
-worden, um die Batterie zu schonen, e&8 war durch
-— und ungemütliche, und Gutes gedämpfte Worte, die den
+des intimen Anzugs geflüchtet, Jakob war als Angler nur
+Spion gewesen, Sifu hatte der Dschunke gewinkt, — all
+das waren Ereignisse außerhalb des gewöhniichen Rahmens,
+
+Harst hatte sich wieder auf seinen Strohsack gesetzt, und
+unser Boy saß neben ihm. Die Taschenlampe war ausgeschaltet
+worden, um die Batterie zu schonen, es war dunkel
+und ungemütlich, und Lückes gedämpfte Worte, die den
 »Fall« beleuchteten, verpufften, ohne Interesse zu erwecken.
-Ich Horchte beständig dorthin, w« die zweite Höhle von
+
+Ich Horchte beständig dorthin, wo die zweite Höhle von
 unserem Kerker nur durch eine dünne Scheidewand getrennt
-sein Fratze, ich hörte das merkwürdige Gurgeln, das zuweilen
+sein konnte, ich hörte das merkwürdige Gurgeln, das zuweilen
 In ein dumpfes Stöhnen überging, und ich zerbrach
 mir umsonst den Kopf darüber, wen Jakob Schneider dort
 nebenan eingesperrt haben könnte. Daß die Person einen
-Knebel trug, war Art der Art der Möge zu erkennen,
-Harald äußerte zu Tibet geistvollen Theorien keine
-Silbe, mir als dieser ihn nun geradezu fragte, was er
-denn von: der merkwürdigen Geschichte hielte, erwiderte Harst
-nur: …
-»Ich lege mich nicht gern allzu schnell auf eine des
-Mumie Ansicht fest, Lieder Lücke. Ich kann Ihnen nur
+Knebel trug, war an der Art der Töne zu erkennen,
+
+Harald äußerte zu Lückes geistvollen Theorien keine
+Silbe, und als dieser ihn nun geradezu fragte, was er
+denn von der merkwürdigen Geschichte hielte, erwiderte Harst
+nur:
+
+»Ich lege mich nicht gern allzu schnell auf eine bestimmte
+Ansicht fest, lieber Lücke. Ich kann Ihnen nur
 eins erklären: Wenn wir den Durchbruch bewerkstelligt haben
 werden, sind wir um nichts klüger.«
-» »Vollbracht, meinen Sie …« …
-»Rein, Durchbruch … Ein Ausbruch von hier ist unmöglich.
-Die Falltür ist zweifellos durch; Steine beschwert
+
+»Ausbruch, meinen Sie …«
+
+»Nein, Durchbruch … Ein Ausbruch von hier ist unmöglich.
+Die Falltür ist zweifellos durch Steine beschwert
 und verdeckt, und weil man so gar keine Miene macht,
 <@pagebreak/>
 unsern Nachbar oder unsere Nachbarn zu holen, muß die
-Lose: vielleicht schon wieder violetten worden sein. Jan
-zehn Minuten beginnen wie, die Wand drüben zu los
-&rbeiten.«
-Mühe beißend ich!. »Gut — also Durchbruch nach nebenan
-+ +1 Sind Sie glauben, wir gelungen dort ins Freie?«
+Insel vielleicht schon wieder verlassen worden sein. Nach
+zehn Minuten beginnen wir, die Wand drüben zu be-
+arbeiten.«
 
-6« …
+Lücke verstand jetzt. »Gut — also Durchbruch nach nebenan
+...! Und Sie glauben, wir gelangen dort ins Freie?«
 
-Mr wir’s, Vielleicht depeschieren Sie derweil nach
-Baroda um Haken, Meißel und Kammer, Instrumente, die
-wir brauchen dürften.« Brücke war schon wieder leicht zog
+"Ja."
 
+"Hoffen wir’s. Vielleicht depeschieren Sie derweil nach
+Baroda um Hacken, Meißel und Hämmer, Instrumente, die
+wir brauchen dürften.« Lücke war schon wieder leicht ge-
 reizt.
 
-»S8 wird auch ohne Depeschen gehen, « sagte Jacht, ohne
+»Es wird auch ohne Depeschen gehen,« sagte Harst, ohne
 weiter empfindlich zu sein.
 
 Es ging auch. — Die Höhlendecke hatte wie erwähnt
-Laden, und zwei davor! konnten wir abbrechen. Lücke und
-Harst als Altar?«e Männer Fährten die ersten Keulen Hitze
-gegen die Wand, Drüben eine Art Schrei, dann Stille,
+Zacken, und zwei davon konnten wir abbrechen. Lücke und
+Harst als starke Männer führten die ersten Keulenhiebe
+gegen die Wand. Drüben eine Art Schrei, dann Stille,
 
 »Weiter!« — und der patente Hans, der mit dem
-blonden Hans zwar nur den Vornamen gemeinsam hat und.
-nie Berufsboxer war, schwang seinen Kalkiteinschlegei, und
-mit Krachen und Poltern sich ein Sie Korallenmauer
-nach der anderen Seite hinein. —
+blonden Hans zwar nur den Vornamen gemeinsam hat und
+nie Berufsboxer war, schwang seinen Kalksteinschlegel, und
+mit Krachen und Poltern fiel ein Stück Korallenmauer
+nach der anderen Seite hinein.
 
-»Gtopp!t!« Harst streckte die Hand mit der Taschenlampe
-hindurch und beleuchtete den Nachbarsalon, Die Öffnung
+»Stopp!!« Harst streckte die Hand mit der Taschenlampe
+hindurch und beleuchtete den Nachbarsalon. Die Öffnung
 war groß genug, daß auch wir hindurch schauen konnten.
-Wir prallen beim Anblick der drei abgezehrten Gestalten,
-die dort auf Tausendern Stroh lagen, entsetzt zurück. Durch
+Wir prallten beim Anblick der drei abgezehrten Gestalten,
+die dort auf faulendem Stroh lagen, entsetzt zurück. Durch
 das Mauerloch kam ein fürchterlicher Gestank, und dies
 und die drei gefesselten Japaner dort — sie Hatten keine
 Knebel — entlockte Harst den unverständlichen Ausruf:
-»Wir sind immerhin einen Schritt vorwärtsgekommen1t«
+»Wir sind immerhin einen Schritt vorwärtsgekommen!«
 
 Lücke machte seiner Empörung in anderer Art Luft.
 
 »Wenn Jakob Schneider etwa die drei hier eingekerkert
-breit, verdient er fünf Jahre Zuchthaus!t«’
+hielt, verdient er fünf Jahre Zuchthaus!!«
 
-»Er wird seine Gründe gehabt haben,« — und Hart!
+»Er wird seine Gründe gehabt haben,« — und Harst
 <@pagebreak/>
 schob uns beiseite und schlug ein weiteres Mauerstück her
+aus.
 
-— —
-
-aus …
-Abermals geschah da etwas, hat die Dinge noch: mehr
-
+Abermals geschah da etwas, das die Dinge noch mehr
 verwirrte.
 
-Sifu zwängte sich blitzschnell durch die Vertrag, Harst
-
-packte ihn noch am linken Bein, aber der Junge riß sie; As
-
+Sifu zwängte sich blitzschnell durch die Öffnung, Harst
+packte ihn noch am linken Bein, aber der Junge riß sich los
 und lief zu den drei halbtoten Landsleuten hin, beugte sich
-über sie rundlichen ihnen etwas zuzuflüstern. Dann kehrte
-
+über sie und schien ihnen etwas zuzuflüstern. Dann kehrte
 er zu dem Mauerloch zurück, das für uns Erwachsene noch
 immer zu eng war, und meinte freudestrahlend: »Sie leben,
-Missu Harst … ist«
+Missu Harst …!!«
 
-Der Schlingel übertölpelte uns vollkommen, Er … schlug
+Der Schlingel übertölpelte uns vollkommen. Er … schlug
 zu, Harst flog die Taschenlampe aus der Hand, und bevor
 ich noch ein Zündholz angerieben hatte (Lücke und ich hatten
 unsere Taschenlampen leider auf der Lady Hamilton gelassen),
 — bevor Lücke aus Stroh eine Fackel gedreht hatte,
 hörten wir drüben allerhand Geräusche. Harst hämmerte
-Fuchs mit aller Kraft gegen die -Ränder der Öffnung, um
+auch mit aller Kraft gegen die Ränder der Öffnung, um
 ein neues Stück loszusprengen und Platz für uns zu schaffen.
 
 Es war zu spät.
@@ -1026,134 +1026,135 @@ Drüben plötzlich in einer Ecke eine breite Bahn Sonnenlicht,
 die sich viermal verdunkelte und uns die Schatten der
 nach oben enteilenden Flüchtlinge zeigte.
 
-Als wir nach fünf Winter endlich gleichfalls in den
+Als wir nach fünf Minuten endlich gleichfalls in den
 Nebenraum gelangt waren, fanden wir die Stricke der drei
 Japaner zerschnitten auf dem Lager aus Stroh: Sifu hatte
-nicht geflüstert, sondern den einen losgeschnitten, um: ihm
+nicht geflüstert, sondern den einen losgeschnitten, und ihm
 sein Messer in die Hand gedrückt, damit er auch die anderen
 befreie.
 
 Es gab hier außer dem Strohlager noch eine Blechkanne
-mit Trinkwasser, ein paar Blechteller mit Greisenhaften,
+mit Trinkwasser, ein paar Blechteller mit Speisenresten,
 eine offene alte Heringstonne, der ein bestialischer
 Gestank entstieg, und an der einen Wand einen Brettertisch
-
 und eine Bank.
+
 Während Lücke und ich mit bereitgehaltenen Pistolen
 <@pagebreak/>
-die Treppe hinausliefen, besichtigte Harald den Raum noch
+die Treppe hinaufliefen, besichtigte Harald den Raum noch
+genauer.
 
-Chaussee.
-Wir desto? sahen uns oben lagerten »eines Gelsirüpps
+Wir beide sahen uns oben inmitten eines Gestrüpps
+zwischen überwucherten Felsen am Rande der Lichtung, --
+von dem hübschen Bambushäuschen waren nur noch rauchende
+und zum Teil noch brennende Trümmer übrig, und die
+feinen japanischen Lackmöbel, die Kostbare Seidenbespannung
+der Wände — alles War dahin.
 
-zwischen überwuchertes Felsen am Kreise der »Sichtung …
-so: dem hübschen Bambushäuschen :»Seen nur es, « Orte
-und zum Teil noch brennende Trümmer übrig, »Ft die
-seinen japanischen Lackmöbel, die Kostbare Seidenbespannung
-der Wände — aller Ware dahin.
-
-Lücke und ich standen eine Weite reglos tv. Der kleine
-reizende Miniaturgarten — auch der war wie von Sandalen
-vertröstet, zertreten, die Figuren zerschlagen, der
-
+Lücke und ich standen eine Weile reglos da. Der kleine
+reizende Miniaturgarten — auch der war wie von Vandalen
+verwüstet, zertreten, die Figuren zerschlagen, der
 Springbrunnen mit rauchenden Bambusbalken angefüllt —
-eine Stätte brutaler Befürchtung!
-Lücke sagte leise, und die Erregung machte keine Stimme
-unsicher: »Das ist Barbarei!! Das Ut …
+eine Stätte brutaler Vernichtung!
 
-» … — — nur kopflos« ergänzte Harst hinter uns und ließ
+Lücke sagte leise, und die Erregung machte seine Stimme
+unsicher: »Das ist Barbarei!! Das ist …"
+
+»… nur logisch,« ergänzte Harst hinter uns und ließ
 seine Augen scheinbar gefühllos über das zerstörte kleine
-Paradies schweifen. »Es hat alles- einen Sinn, Lücke, ganz
+Paradies schweifen. »Es hat alles einen Sinn, Lücke, ganz
 gewiß, und ich hatte nichts anderes erwartet, nachdem man
 die drei Japaner hier zurückgelassen hatte. — Eilen wir,
-vielleicht finden wir »Sifu nebst- »Anhang noch, obwohl ich
+vielleicht finden wir Sifu nebst Anhang noch, obwohl ich
+es nicht glaube …"
 
-es nicht glaube …
-
-Wir lauten dann am Ufer entlang. Am Horizont bin
+Wir rannten dann am Ufer entlang. Am Horizont kein
 Segel — nichts, nur drüben nach dem Festlande zu schaukelte
-Jakob Schneiders Einbaum,!schwer beladen mit vier
+Jakob Schneiders Einbaum, schwer beladen mit vier
 Flüchtlingen.
 
 Es wurde abend, bevor wir ein Floß hergestellt und
 mit dessen Hilfe die Insel verlassen konnten. Als wir
 sie im Mondlicht entschwinden sahen, fragte Harst mit gutmütigem
 Spott:
-Insel er mein lieber Lücke, genügt Ihnen die Bekannter
-91«
+
+"Nun, mein lieber Lücke, genügt Ihnen die Schatzinsel?!"
 
 Doktor Lücke erwiderte nichts.
+
 Am folgenden Abend trafen wir mit der Bahn in
 <@pagebreak/>
-Bombay ein. Die Lady Hamilton eilt unseren Koffern
-sollten wir untersagt wiederfinden; … —
-Oberinspektor Grablay, John mit Vorkamen, blaue auf
-den grünen Abhängen de? Malabar Hülle jemals sicheres
-Bungalow, nicht gerade … eine Villa, geben immerhin ein,
-!luftiges und faltiges Läuschen. 59 sehr von uns er und
-Harst ehedem bei verschachern Fürsten erwiderte, aber
-friedliche Rivalen gewesen waren, Grobian hüllte es ne
-ewig nachgetragen, wenn wir nicht bei ihn abgestiegen wäre
-Wenn ich sage: lustiges Häuschen, so meine iz, das es
-dort niemals alkoholfrei zuging. Uralten und ein guter
-Tropfen waren und sind unzertreulat). Ach gibt Beute, jagt
-die der Alkohol LebenSobedia jung ist. Sie sind nicht Trinken,
-nein, sie sind sogar nie veschwipit, aber sie bezahlen ohne
-Anregung. Unsere alte dicke Praktische daheim trinkt den
-ganzen Tag über Bohnenkaffee. Wie viel,  finden wir nie
-ergründen können. Es inütjse:t etwa drei Liter sein, denn
-die auf dem Herde stehende … irdene Kanne, Format Ja«
-misienurne, enthält sicherlich es vier und ist nur für Mathilde
-ihre Anregung. — Bart Landes vuruzschnittlich dreißig
-Bares, sagt er, — zähle im mal heimlich die Stummel,
-sind es fünfzig. Ich setzte pro Zog meine sieben vis acht
+Bombay ein. Die Lady Hamilton mit unseren Koffern
+sollten wir anderswo wiederfinden. -- —
+
+Oberinspektor Grablay, John mit Vornamen, hatte auf
+den grünen Abhängen der Malabar Hills seinen eigenen
+Bungalow, nicht gerade eine Villa, aber immerhin ein
+luftiges und lustiges Häuschen. So sehr nun auch er und
+Harst ehedem bei verschiedenen Anlässen erbitterte, aber
+friedliche Rivalen gewesen waren, Grablay hätte es uns
+ewig nachgetragen, wenn wir nicht bei ihn abgestiegen wären.
+
+Wenn ich sage: lustiges Häuschen, so meine ich, das es
+dort niemals alkoholfrei zuging. Grablay und ein guter
+Tropfen waren und sind unzertrennlich. Es gibt Leute, für
+die der Alkohol Lebensbedingung ist. Sie sind nicht Trinker,
+nein, sie sind sogar nie beschwipst, aber sie brauchen eine
+Anregung. Unsere alte dicke Mathilde daheim trinkt den
+ganzen Tag über Bohnenkaffee. Wie viel, haben wir nie
+ergründen können. Es müssen etwa drei Liter sein, denn
+die auf dem Herde stehende irdene Kanne, Format Familienurne,
+enthält sicherlich so viel und ist nur für Mathilde
+da: *ihre* Anregung. — Harst raucht durchschnittlich dreißig
+Zigaretten, sagt *er*, — zähle ich mal heimlich die Stummel,
+sind es fünfzig. Ich setzte pro Tag meine sieben bis acht
 gewickelten Giftnudeln in Asche um. Der berühmte Sherlock
-Holmes, den der Erfinder, des durch die Druckmaschine
+Holmes, den der Erfinder des durch die Wringmaschine
 gegangenen Kriminalromans »Es ist unmöglich, von ihm
 nicht gefesselt zu sein!!« mehrfach bissig abgetan hat, soll
 Morphium gespritzt haben … Meine Giftnudeln sind harmloser,
-und John Grablays Weinkeller ist noch« harmloser.
+und John Grablays Weinkeller ist noch harmloser.
+
 Es war halb elf, das Abendessen war tadellos gewesen,
-und wir vier befanden uns in jener angenehmen Stirn«.
-uns, in der man selbst unangenxehmere Dinge mit äußerster
-Wurstigkeit erörtert. Grablay hatte die Diener weggeschitt,
+und wir vier befanden uns in jener angenehmen Stimmung,
+in der man selbst unangenehmere Dinge mit äußerster
+Wurstigkeit erörtert. Grablay hatte die Diener weggeschickt,
 und Harst begann Bericht zu erstatten. Der lange hagere
 Grablay hat nämlich genau so viel Geduld wie Ausdauer,
-und er hatte dorthin gemeint, er wolle die Geschichte von
+und er hatte vorhin gemeint, er wolle die Geschichte von
 <@pagebreak/>
 der geheimnisvollen Insel unbedingt genau und ohne
-Unterbrechungen hören …
+Unterbrechungen hören.
 
-Wir saßen auf der Ostveranda, unter uns lag das Lichkmeer
+Wir saßen auf der Ostveranda, unter uns lag das Lichtmeer
 der großen Hafenstadt, und dicht vor uns plätscherte
-im Garten Grablays BPrunkstü, der Springbrunnen, dem
-Ww) Bier in diesen meinen Erinnerungen bereits einige Seiten
+im Garten Grablays Prunkstück, der Springbrunnen, dem
+ich hier in diesen meinen Erinnerungen bereits einige Seiten
 früher gewidmet habe,
 
-Wir hatten auf dem Tische nur eine Lampe mit dicken
-lila Seidenschirm stehen, Herrn Lichtschein sehr sein zu Haralds
-Erzählung raste: Geheimni&ävolles Halbdunkel!
+Wir hatten auf dem Tische nur eine Lampe mit dichtem
+lila Seidenschirm stehen, deren Lichtschein sehr fein zu Haralds
+Erzählung paßte: Geheimnisvolles Halbdunkel!
 
-Lücke und Grablay, lieber einander fremd, hatten sich
-rosa) angefreundet, Der patente Hans gefällt überall. Daß
-man! ihm niemals den Kriminalkommissar anmerkt, wenn
-er sich als »Doktor Lücke« vorstellen läßt, ist kein Fehler.«
+Lücke und Grablay, bisher einander fremd, hatten sich
+rasch angefreundet. Der patente Hans gefällt überall. Daß
+man ihm niemals den Kriminalkommissar anmerkt, wenn
+er sich als »Doktor Lücke« vorstellen läßt, ist kein Fehler.
 
-Sohn Grablays mageres braunes schlaffes Gesicht mit
-den buschigen Braunen verriet durch nichts, ob ihn die Bett
+John Grablays mageres braunes schlaffes Gesicht mit
+den buschigen Braunen verriet durch nichts, ob ihn die Ge-
 schickte interessierte. Er trank mitunter einen Schluck Burgunder,
 füllte still unsere Gläser und spielte mit seinem
 zahmen Äffchen, das auf seinem Schoße hockte und an einer
-
-Lagune Kante.
+Banane kaute.
 
 Vom fernen Hafen der wunderbaren Inselstadt Bombay
-drang zuweilen das Herren einer Sirene herüber. In einer
+drang zuweilen das Heulen einer Sirene herüber. In einer
 Nachbarvilla dudelte der Lautsprecher, und irgendwo In dem
 Wäldchen am Abhang nach der Stadt zu schrie eine Riesenaffe.
 Die Straßenbahn, die Bombay mit den Malabar
 Hills verbindet, kroch wie eine feurige Raupe hin und her,
-anschickte in den Biegungen des Schienenstranges und ergänzte
+quietschte in den Biegungen des Schienenstranges und ergänzte
 das Jazzorchester nebenan.
 
 Harst war mit seinem Bericht fertig.
@@ -1164,116 +1165,112 @@ wollen, daß er die Sache langweilig finde. Er glotzte in
 den dunklen Garten hinab und schnatterte ganz leise.
 
 Grablay, dessen pomadigen Bewegungen man die verblüffende
-Gewandtheit seiner« trainierten Körpers kaum Furcht,
+Gewandtheit seines trainierten Körpers kaum ansieht,
 <@pagebreak/>
 hatte die Hände auf die Lehnen seines Korbsessel
-Begrüßt und sagte nun:
+gestützt und sagte nun:
 
-»Schade, — der Roman hätte einen besseren, Abschluß
+»Schade, — der Roman hätte einen besseren Abschluß
 verdient. Ihr könnt doch kaum hoffen, die hübsche Mimosa
-Tau irgendivs wieder aufzutreiben und sie höflichst zu
-fragen, Metall sie dort auf der Insel wohnte?«
+San irgendwo wieder aufzutreiben und sie höflichst zu
+fragen, weshalb sie dort auf der Insel wohnte?«
 
-Riese Bemerkung en?sprach so gar nicht Sohn Grablays
+Diese Bemerkung entsprach so gar nicht John Grablays
 geistiger Regsamkeit. Auf Harsts Geschichte hätte selbst ein
-Nichifacmiann hundert Fragen bereit gehabt.
+Nichtfachmann hundert Fragen bereit gehabt.
 
-Wovor einer von uns etwas erwidern konnte, war der
-fange John wie ein Tiger mit erstaunlichen Satz ans
-»einem Sessel über die Brüstung hinweg in den Garten De
-schnellt … Wir hörten einen Schrei, Grablays grimmean’
+Bevor einer von uns etwas erwidern konnte, war der
+lange John wie ein Tiger mit erstaunlichem Satz aus
+seinem Sessel über die Brüstung hinweg in den Garten ge-
+schnellt … Wir hörten einen Schrei, Grablays grimmen
 Fluch und sahen eine kleine Gestalt durch die Büsche gleiten,
 über den Zaun springen und auf einem Rade davonjagen,
 das im Straßengraben versteckt gewesen war. — Grablay
-hatte allen Grund wütend zu sein. Die Hand voll Pfeifen,
-die ihr der: Horcher. in die Augen geworfen hakte, war
-zwar durch« Grablays rasches Schließen der Lider, als er
-Mr verbücht’ge Handbewegung sah, ziemlich unwirksam geblieben,
-aber es ärgerte den Oberinspektor trotzdem. von
+hatte allen Grund wütend zu sein. Die Hand voll Pfeffer,
+die ihm der Horcher in die Augen geworfen hatte, war
+zwar durch Grablays rasches Schließen der Lider, als er
+die verdächtige Handbewegung sah, ziemlich unwirksam geblieben,
+aber es ärgerte den Oberinspektor trotzdem, von
 dem Bengel Sifu nur die Jacke erwischt zu haben
 
 »Er war glatt wie ein Aal,« sagte Grablay, nachdem
-wir Eise Viele prallte als zweifelt der Sifu gehörig Zureden
-erklärt hatten, »Ich werde sofort dem Hauptquartier keltphoaleren
+wir das Kleidungsstück als zweifelsfrei Sifu gehörig wieder
+erkannt hatten. »Ich werde sofort dem Hauptquartier telephonieren
 …«
 
-Harst drückt« in in den Sessel.
+Harst drückte ihn in den Sessel.
 
-»Es wäre zwecklos, Grablay … Ein Sifu hat Helserk&helfer
+»Es wäre zwecklos, Grablay … Ein Sifu hat Helfershelfer
 … Ich beobachtete ein Auto, das den Jungen anscheinend
 dort an der Straßenkreuzung aufnahm.«
 
 »Sie mögen recht haben … — Mein Affe hatte mich
-aufmerksam gemacht. Er ist in manchen Fällen gleiten als
-ein Polizeihund,« nickte der lange Sohn und fügte in
-seiner Davongleiten Art hinzu: »Ich werde aus der Sache
+aufmerksam gemacht. Er ist in manchen Fällen besser als
+ein Polizeihund,« nickte der lange John und fügte in
+seiner sprunghaften Art hinzu: »Ich werde aus der Sache
 <@pagebreak/>
-nicht recht Flug, Harst, Man könnte Brei verschiedene
+nicht recht klug, Harst. Man könnte drei verschiedene
 Theorien entwickeln …«
 
-Harst krümmte sich, als ob er Verlust hätte. Nichts
-ist ihm fürchterlicher als der Ausdruck »Schwere«. Mindestens
-ebenso sehr haßt er »Problem« und &hnliche Bezeichnungen.
-g …
+Harst krümmte sich, als ob er Leibweh hätte. Nichts
+ist ihm fürchterlicher als der Ausdruck »Theorie«. Mindestens
+ebenso sehr haßt er »Problem« und ähnliche Bezeichnungen.
 
-»Tiefe drei Theorien,« sagte er, erst mal nach« Luft
+»Diese drei Theorien,« sagte er, erst mal nach Luft
 schnappend, »also diese drei Möglichkeiten, die Ereignisse
-sinnvoll zu ordnen, hat bereits Lücke erörtert. Die Schwidrigfeit
+sinnvoll zu ordnen, hat bereits Lücke erörtert. Die Schwierigkeit
 dabei liegt hauptsächlich in den Schüssen und den
-Getreten, die wir in unserem Kerker hörten. Was ging vor,
-als dies geschah); — ein Kampf?! Zwischen wem? — Bö:
+Schreien, die wir in unserem Kerker hörten. Was ging vor,
+als dies geschah — ein Kampf?! Zwischen wem? — Be-
 Antworten Sie mir diese Frage genau, lieber Grablay,
 und das Ganze ist erledigt. Können Sie es nicht, bleiben
 es Stücke, die absolut nicht aneinander passen.«
 
-Er traf hiermit das Richtige. Auch Lücke erklärte, &s
-sei doch ausgeschlossen, daß etwa, falls die Bastschuhe Leute
-gelandet hätte, diese Leute mit Jakob Schneider sich herum
+Er traf hiermit das Richtige. Auch Lücke erklärte, es
+sei doch ausgeschlossen, daß etwa, falls die Pestdschunke Leute
+gelandet hätte, diese Leute mit Jakob Schneider sich herum-
+geschossen hätten.
 
-N
-…
-
-geschossen hatten.!! —
-Der Leser kann sich selbst unschwer über die Schmierige
-
-Seiten einer richtigen »Theorie« klar werden, wenn er nur
+Der Leser kann sich selbst unschwer über die Schmierig-
+keiten einer richtigen »Theorie« klar werden, wenn er nur
 an die verschiedenen widerspruchsvollen Einzelvorgänge denkt.
-Harst hatte jetzt auch seine damalige Annahme, Schwester
-hätte die Drei Tags elingelerfert, vorsichtig zurückgezogen,«
+Harst hatte jetzt auch seine damalige Annahme, Schneider
+hätte die Drei Japs eingekerkert, vorsichtig zurückgezogen,
 
 Grablay, dessen Augen nur wenig entzündet waren,
-meinte gegen elf Uhr, es sei jetzt die rechte Boot, Lücke
+meinte gegen elf Uhr, es sei jetzt die rechte Zeit, Lücke
 als Neuling Bombay bei Nacht und zwar den eleganteren
-Teil von Block Town, der Eingeborenenstadt, zu zeigen,
-wobei er das »Fragen?« sehr lang zerrte und mit den Augenbrauen
-humorvoll zuckte. »Paris ist nichts dagegen, Mr…
-Lücke, Allerdings kann ich mich so, wie ich hier sie, an
-den Stätten orientalischer Gelangte nicht recht zeigen, sonst
+Teil von Black Town, der Eingeborenenstadt, zu zeigen,
+wobei er das »elegant« sehr lang zerrte und mit den Augenbrauen
+humorvoll zuckte. »Paris ist nichts dagegen, Mr.
+Lücke. Allerdings kann ich mich so, wie ich hier sitze, an
+den Stätten orientalischer Bachanale nicht recht zeigen, sonst
 würde aus dem Bachanal sofort eine Vorführung für höhere
 Töchter aus der Kleinstadt, — die Großstadtjugend würde
-darin derartiges nicht mehr irgendwie sittlich belästigt,«
+durch derartiges nicht mehr irgendwie sittlich belästigt,«
 <@pagebreak/>
-fügte er Beißenden Spottet voll hinzu. »Damit wir jedoch
+fügte er Beißenden Spottes voll hinzu. »Damit wir jedoch
 dem Bengel Sifu trotzdem ein wenig Beachtung schenken,
 werde ich meinen Freund und halben Kollegen Berger rasch
 herbeirufen, einen ehemaligen Landsmann von Ihnen, jetzt
-Engländer und Inhaber einer Av&Skunftei nebst Zubehör,
+Engländer und Inhaber einer Auskunftei nebst Zubehör,
 — wenn jemand Sifu finden kann, das ist es dieser Berger,
-Fieber Fakir …«
+lieber Harst …«
 
-»Ich habe von ihm gehört …»’
-»Er ist erst vorgestern von einer Geschäftsreise zurück«
+»Ich habe von ihm gehört …»
 
+»Er ist erst vorgestern von einer Geschäftsreise zurück-
 gekehrt, wohnt dort drüben, vierte Villa, und ist in Bombay
 noch bekannten als ich, verfügt über Verbindungen,
 die selbst mir fehlen, und kann Ihnen genau sagen, wie
-mit den Finanzen jedes Kaufmanns von Kaschmir bis
-Ceylon hinab steht. Er hat in dieser Hinsicht eine Monopols …
+es mit den Finanzen jedes Kaufmanns von Kaschmir bis
+Ceylon hinab steht. Er hat in dieser Hinsicht eine Monopols-
 Stellung. Nebenbei handelt er mit allem, womit man nur
 handeln kann. Ich werde telephonieren.«
 
-». Kapitel.
-Das Möbelauto,
+<h2>5. Kapitel.</h2>
+
+<h3>Das Möbelauto,</h3>
 
 James Bergen erschien nach f7aum vier Minuten, ein
 mittelgroßer Mann mit dünnem Scheitel, leicht ergrauten
