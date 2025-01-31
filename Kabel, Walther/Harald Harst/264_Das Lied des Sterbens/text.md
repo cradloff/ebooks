@@ -919,7 +919,7 @@ feuchtem seidenen Badekostüm. Mimosa hatte gebadet, als
 unser Benzinstänker nahte, war eiligst unter Zurücklassung
 des intimen Anzugs geflüchtet, Jakob war als Angler nur
 Spion gewesen, Sifu hatte der Dschunke gewinkt, — all
-das waren Ereignisse außerhalb des gewöhniichen Rahmens,
+das waren Ereignisse außerhalb des gewöhnlichen Rahmens,
 
 Harst hatte sich wieder auf seinen Strohsack gesetzt, und
 unser Boy saß neben ihm. Die Taschenlampe war ausgeschaltet
@@ -953,18 +953,16 @@ und verdeckt, und weil man so gar keine Miene macht,
 <@pagebreak/>
 unsern Nachbar oder unsere Nachbarn zu holen, muß die
 Insel vielleicht schon wieder verlassen worden sein. Nach
-zehn Minuten beginnen wir, die Wand drüben zu be-
-arbeiten.«
+zehn Minuten beginnen wir, die Wand drüben zu bearbeiten.«
 
 Lücke verstand jetzt. »Gut — also Durchbruch nach nebenan
-...! Und Sie glauben, wir gelangen dort ins Freie?«
+…! Und Sie glauben, wir gelangen dort ins Freie?«
 
-"Ja."
+»Ja.«
 
-"Hoffen wir’s. Vielleicht depeschieren Sie derweil nach
+»Hoffen wir’s. Vielleicht depeschieren Sie derweil nach
 Baroda um Hacken, Meißel und Hämmer, Instrumente, die
-wir brauchen dürften.« Lücke war schon wieder leicht ge-
-reizt.
+wir brauchen dürften.« Lücke war schon wieder leicht gereizt.
 
 »Es wird auch ohne Depeschen gehen,« sagte Harst, ohne
 weiter empfindlich zu sein.
@@ -1045,7 +1043,7 @@ die Treppe hinaufliefen, besichtigte Harald den Raum noch
 genauer.
 
 Wir beide sahen uns oben inmitten eines Gestrüpps
-zwischen überwucherten Felsen am Rande der Lichtung, --
+zwischen überwucherten Felsen am Rande der Lichtung, —
 von dem hübschen Bambushäuschen waren nur noch rauchende
 und zum Teil noch brennende Trümmer übrig, und die
 feinen japanischen Lackmöbel, die Kostbare Seidenbespannung
@@ -1058,7 +1056,7 @@ Springbrunnen mit rauchenden Bambusbalken angefüllt —
 eine Stätte brutaler Vernichtung!
 
 Lücke sagte leise, und die Erregung machte seine Stimme
-unsicher: »Das ist Barbarei!! Das ist …"
+unsicher: »Das ist Barbarei!! Das ist …«
 
 »… nur logisch,« ergänzte Harst hinter uns und ließ
 seine Augen scheinbar gefühllos über das zerstörte kleine
@@ -1066,7 +1064,7 @@ Paradies schweifen. »Es hat alles einen Sinn, Lücke, ganz
 gewiß, und ich hatte nichts anderes erwartet, nachdem man
 die drei Japaner hier zurückgelassen hatte. — Eilen wir,
 vielleicht finden wir Sifu nebst Anhang noch, obwohl ich
-es nicht glaube …"
+es nicht glaube …«
 
 Wir rannten dann am Ufer entlang. Am Horizont kein
 Segel — nichts, nur drüben nach dem Festlande zu schaukelte
@@ -1078,14 +1076,14 @@ mit dessen Hilfe die Insel verlassen konnten. Als wir
 sie im Mondlicht entschwinden sahen, fragte Harst mit gutmütigem
 Spott:
 
-"Nun, mein lieber Lücke, genügt Ihnen die Schatzinsel?!"
+»Nun, mein lieber Lücke, genügt Ihnen die Schatzinsel?!«
 
 Doktor Lücke erwiderte nichts.
 
 Am folgenden Abend trafen wir mit der Bahn in
 <@pagebreak/>
 Bombay ein. Die Lady Hamilton mit unseren Koffern
-sollten wir anderswo wiederfinden. -- —
+sollten wir anderswo wiederfinden. — —
 
 Oberinspektor Grablay, John mit Vornamen, hatte auf
 den grünen Abhängen der Malabar Hills seinen eigenen
@@ -1142,8 +1140,8 @@ man ihm niemals den Kriminalkommissar anmerkt, wenn
 er sich als »Doktor Lücke« vorstellen läßt, ist kein Fehler.
 
 John Grablays mageres braunes schlaffes Gesicht mit
-den buschigen Braunen verriet durch nichts, ob ihn die Ge-
-schickte interessierte. Er trank mitunter einen Schluck Burgunder,
+den buschigen Braunen verriet durch nichts, ob ihn die Geschichte
+interessierte. Er trank mitunter einen Schluck Burgunder,
 füllte still unsere Gläser und spielte mit seinem
 zahmen Äffchen, das auf seinem Schoße hockte und an einer
 Banane kaute.
@@ -1181,8 +1179,8 @@ Nichtfachmann hundert Fragen bereit gehabt.
 
 Bevor einer von uns etwas erwidern konnte, war der
 lange John wie ein Tiger mit erstaunlichem Satz aus
-seinem Sessel über die Brüstung hinweg in den Garten ge-
-schnellt … Wir hörten einen Schrei, Grablays grimmen
+seinem Sessel über die Brüstung hinweg in den Garten geschnellt
+… Wir hörten einen Schrei, Grablays grimmen
 Fluch und sahen eine kleine Gestalt durch die Büsche gleiten,
 über den Zaun springen und auf einem Rade davonjagen,
 das im Straßengraben versteckt gewesen war. — Grablay
@@ -1221,18 +1219,18 @@ schnappend, »also diese drei Möglichkeiten, die Ereignisse
 sinnvoll zu ordnen, hat bereits Lücke erörtert. Die Schwierigkeit
 dabei liegt hauptsächlich in den Schüssen und den
 Schreien, die wir in unserem Kerker hörten. Was ging vor,
-als dies geschah — ein Kampf?! Zwischen wem? — Be-
-Antworten Sie mir diese Frage genau, lieber Grablay,
+als dies geschah — ein Kampf?! Zwischen wem? — Beantworten
+Sie mir diese Frage genau, lieber Grablay,
 und das Ganze ist erledigt. Können Sie es nicht, bleiben
 es Stücke, die absolut nicht aneinander passen.«
 
 Er traf hiermit das Richtige. Auch Lücke erklärte, es
 sei doch ausgeschlossen, daß etwa, falls die Pestdschunke Leute
-gelandet hätte, diese Leute mit Jakob Schneider sich herum-
-geschossen hätten.
+gelandet hätte, diese Leute mit Jakob Schneider sich herumgeschossen
+hätten.
 
-Der Leser kann sich selbst unschwer über die Schmierig-
-keiten einer richtigen »Theorie« klar werden, wenn er nur
+Der Leser kann sich selbst unschwer über die Schwierigkeiten
+einer richtigen »Theorie« klar werden, wenn er nur
 an die verschiedenen widerspruchsvollen Einzelvorgänge denkt.
 Harst hatte jetzt auch seine damalige Annahme, Schneider
 hätte die Drei Japs eingekerkert, vorsichtig zurückgezogen,
@@ -1257,74 +1255,71 @@ Engländer und Inhaber einer Auskunftei nebst Zubehör,
 — wenn jemand Sifu finden kann, das ist es dieser Berger,
 lieber Harst …«
 
-»Ich habe von ihm gehört …»
+»Ich habe von ihm gehört …«
 
-»Er ist erst vorgestern von einer Geschäftsreise zurück-
-gekehrt, wohnt dort drüben, vierte Villa, und ist in Bombay
+»Er ist erst vorgestern von einer Geschäftsreise zurückgekehrt,
+wohnt dort drüben, vierte Villa, und ist in Bombay
 noch bekannten als ich, verfügt über Verbindungen,
 die selbst mir fehlen, und kann Ihnen genau sagen, wie
 es mit den Finanzen jedes Kaufmanns von Kaschmir bis
-Ceylon hinab steht. Er hat in dieser Hinsicht eine Monopols-
-Stellung. Nebenbei handelt er mit allem, womit man nur
+Ceylon hinab steht. Er hat in dieser Hinsicht eine Monopolstellung.
+Nebenbei handelt er mit allem, womit man nur
 handeln kann. Ich werde telephonieren.«
 
 <h2>5. Kapitel.</h2>
 
 <h3>Das Möbelauto,</h3>
 
-James Bergen erschien nach f7aum vier Minuten, ein
+James Berger erschien nach kaum vier Minuten, ein
 mittelgroßer Mann mit dünnem Scheitel, leicht ergrauten
 Schläfen und einem eigentümlich starren, jedoch nicht unsympathischen
-Gesicht?.
+Gesicht.
 
-Er trug wie Bückte Monokel, war entstanden?sicheres« -.
-faltig gekleidet und alles in allem eine sehr ansprechende
-Persönlichkeit, nur sehr wortkarg. Sein Alter zu schätzen —
+Er trug wie Lücke Monokel, war außerordentlich sorgfältig
+gekleidet und alles in allem eine sehr ansprechende
+Persönlichkeit, nur sehr wortkarg. Sein Alter zu schätzen
 war unmöglich
 
-Uns drei Hantierte begrüßte er höflich, aber sehr q&- —
-messen. Er hakte vieles vom Engländer angenommen. Ihm
-fehlte die Ungezwungenheit, er war immer wie auf Frost!
-
-4
-
+Uns drei Landsleute begrüßte er höflich, aber sehr gemessen.
+Er hatte vieles vom Engländer angenommen. Ihm
+fehlte die Ungezwungenheit, er war immer wie auf Draht
 gezogen.
-— Harst heiratete nochmals unser »Erlebnis.
+
+Harst berichtete nochmals unser Erlebnis.
 
 <@pagebreak/>
-Becher streute Einige Fragen ist, deutete dann ein
-Achselzucken an uns sagte:
+Berger streute Einige Fragen ein, deutete dann ein
+Achselzucken an und sagte:
 
-»nagte! …! Strom Sie Betonte ja, Grablay,
-und hatten Sie die wies genau durchsuchen, Die Japanerin
-und de« alte Mann — richtig, Jakob Sdämelder hieß er
-ja weh? — ’waren. die Dryotyewaiter, Alles andere war
-Hinter für Harst Berechnet, so die Schüsse und Schreie,
-Sie bei angebliche: Gefangenen — und so weiter, Die
-Dschunke ist das Schiff der Bande, die jetzt natürlich also
-bat! haben und anderwioiin überfiedelien. Ich finde bei
-der Suche nichts Merkwürdiges. Der Boy Sifu ist natürlich
-zu Ihnen geschickt, Grablay« damit er ausspionlierte,
-was Sie zu ankerüchmen gedenken.«
+»Schmuggler …! Schicken Sie Beamte hin, Grablay,
+und lassen Sie die Insel genau durchsuchen. Die Japanerin
+und der alte Mann — richtig, Jakob Schneider hieß er
+ja wohl — waren die Depotverwalter. Alles andere war
+Bluff, für Harst Berechnet, so die Schüsse und Schreie,
+die drei angeblichen Gefangenen — und so weiter. Die
+Dschunke ist das Schiff der Bande, die jetzt natürlich abgebaut
+haben und anderswohin übersiedelten. Ich finde bei
+der Sache nichts Merkwürdiges. Der Boy Sifu ist natürlich
+zu Ihnen geschickt, Grablay, damit er ausspionierte,
+was Sie zu unternehmen gedenken.«
 
-Grablay lachte. »Viel hat er gilt Gehöft … Im übrigen
-Male ich gleich naß Kannte Ankunft der und seines ersten
+Grablay lachte. »Viel hat er nicht gehört … Im übrigen
+habe ich gleich nach Harsts Ankunft hier und seinen ersten
 kurzen Bemerkungen über die Insel eine Depesche nach
-Arm Du jener Bart gesandt, und von Wurm sind es bis
-zur Insel nur vier Stunden Fahrt. Vielleicht wir« jetzt
+dem Küstenort Burim gesandt, und von Burim sind es bis
+zur Insel nur vier Stunden Fahrt. Vielleicht wird jetzt
 schon das Eiland mit Buschmessern gründlichst durchstöbert.
-
-er weiß, was in den Dichten steckt.«
+Wer weiß, was in den Dickichten steckt.«
 
 »Vielleicht noch Schmugglerware, die man nicht mehr
-wegbringen konnte,« meinte »James Berger gleichgültig.
-»Trotzdem werde ich Sifu suchen lassen und zu finden.
-— Entschuldigen Sie mich, ich habe zu arbeiten, ich hohe
-nach meiner Reise sehr viel Rückstände. vorgefunden, —
+wegbringen konnte,« meinte James Berger gleichgültig.
+»Trotzdem werde ich Sifu suchen lassen und auch finden.
+— Entschuldigen Sie mich, ich habe zu arbeiten, ich habe
+nach meiner Reise sehr viel Rückstände vorgefunden, —
 auf Wiedersehen.«
 
-Er erhob. sich aus seinem Sessel, den er etwas in den
-Schatten gerät hatte, und verabschiedete sich.
+Er erhob sich aus seinem Sessel, den er etwas in den
+Schatten gerückt hatte, und verabschiedete sich.
 
 Ich hatte den Eindruck gewonnen, daß über seinem ganzen
 Wesen ein dunkler Schleier schlecht zu verhehlender Schwermut
@@ -1335,126 +1330,121 @@ Grablay gab ihm bis zur Gartenpforte das Geleit,
 so daß wir drei alte Kämpen getrost unsere Meinungen über
 James Berger austauschen konnten. Lücke meinte wenig
 <@pagebreak/>
-begeistert: »Grablay hält ihn für ein großer Lieh!, ich nicht.«
+begeistert: »Grablay hält ihn für ein großes Licht, ich nicht.«
 
-»Deshalb rückte er den Sessel6auch aus dem Richtfest
-ins Dunkel,« sagte Harst halb scherzend. Sein Wechselte
-klang jedoch bitter ernst; »Unterschätzten Sie ihn nicht, Lücke.
+»Deshalb rückte er den Sessel auch aus dem Lichtkreis
+ins Dunkel,« sagte Harst halb scherzend. Sein Nachsatz
+klang jedoch bitter ernst: »Unterschätzten Sie ihn nicht, Lücke.
 Kaufleute — und das ist er doch letzten Endes — haben
 ein weites Gewissen.«
 
 Ich glaubte Berger verteidigen zu müssen. »Es ist bei
-ihm wohl mehr die Seele als das Gewissen, Mathilde ich etwas
+ihm wohl mehr die Seele als das Gewissen,« meinte ich etwas
 scharf, denn Haralds herbe Kritik schien mir bitter ungerecht.
-un
 
 »Auch das,« sagte er genau so ernst und starrte in die
-Nacht hinaus, »Im Grunde bleibt es ja gleich; für uns:
+Nacht hinaus. »Im Grunde bleibt es ja gleich für uns:
 Er hat einen Defekt, einen doppelten … Man muß nur
 Augen haben, es zu bemerken. Und gerade deine Augen,
-mein lieber Alter, sollten da) durch; das Angeln geschärft
+mein lieber Alter, sollten doch durch das Angeln geschärft
 sein, trotz der Brille … Ein Schwimmer erfordert dauernde
-»Aufmerksamkeit, und manche Leute schwimmen in sehr unklaren
-Wasser.««-
+Aufmerksamkeit, und manche Leute schwimmen in sehr unklarem
+Wasser.«
 
-Lücke lachte. »Orakelhaft wie stets!! Neun Sie sich das
-nur abgewöhnten könnten Harst! Was sollen die. wohlgesetzten,
-aber dunklen Worte?1’— euer
+Lücke lachte. »Orakelhaft wie stets!! Wenn Sie sich das
+nur abgewöhnten könnten, Harst! Was sollen die wohlgesetzten,
+aber dunklen Worte?!«
 
-streifte die Asche seiner Zigarette ab. »Lücke, er
+Harst streifte die Asche seiner Zigarette ab. »Lücke, er
 trägt Monokel, Sie tragen Monokel, viele tragen es, Chamberlain
 ist ohne Monokel undenkbar, Berger auch. Mögen
-Sie meine Reden zu lodern finden, — den Vorwurf macht
-man sogar Stpaatöinännern —, einen tieferen Sinn haben
-Sie schon. Ich wundere mich nur, daß noch, kein Attentat
-auf uns versucht worden ist, aber ’das kommt sichtbar noch.«
+Sie meine Reden zu ledern finden, — den Vorwurf macht
+man sogar Staatsmännern —, einen tieferen Sinn haben
+sie schon. Ich wundere mich nur, daß noch kein Attentat
+auf uns versucht worden ist, aber das kommt sichtbar noch.«
 
 Lücke warf mir einen langen Blick zu. »Er glaubt an die
-
-Schmuggler, die uns Mr. James Perser servierte, Schraut!!
-Nun fehlt nur noch der vergrabene. Schatz, und daß man
-mit Totenschädeln schmeißt, aha Elefanten oder wie der
-Autor sonst heißt, — glänzend?! Die Herren Schauspiel
+Schmuggler, die uns Mr. James Berger servierte, Schraut!!
+Nun fehlt nur noch der vergrabene Schatz, und daß man
+mit Totenschädeln schmeißt, ala Stefenson oder wie der
+Autor sonst heißt, — glänzend!! Die Herren Schmuggler
 werden ausgerechnet für nichts das Risiko auf sich nehmen
 und Herrn Sifu mit Pfeffer hierher schicken! — Nein, Harst,
 <@pagebreak/>
-da kann ich uralt werden und alle Zähne können mir aus«
-sitzen, an  GScmnuquet werde ich immer zweifelnd Vielen
-Amateurdetektiv Tones Perser mag ja so weit ein guter
-weit und ein gerissener Kaufmann ihn, von unserem Ad
-statt Bericht er nichts. Schmuggler, die ihren Schlupfwinkel
-endet: sehen xb die ihr Warenlager räumen, sind
-hilflos, wenn sie die Wufmerksamkeit so unangenehmer
-Rate, wie wir es sind, nicht mehr auf ich ziehen. — Hinter
-vordem steckt anderes, und ich will nicht der patente Hans
-vom roten lag leise, wenn ich nicht sehr bald hinter den
-richtigen Dreh der Sache komme, Mir dämmert schon so
-etwas … +«
+da kann ich uralt werden und alle Zähne können mir ausfallen,
+an Schmuggler werde ich immer zweifeln! Dieser
+Amateurdetektiv James Berger mag ja so weit ein guter
+Kerl und ein gerissener Kaufmann sein, von unserem Geschäft
+versteht er nichts. Schmuggler, die ihren Schlupfwinkel
+entdeckt sehen und die ihr Warenlager räumen, sind
+heilfroh, wenn sie die Aufmerksamkeit so unangenehmer
+Leute, wie wir es sind, nicht mehr auf sich ziehen. — Hinter
+alledem steckt anderes, und ich will nicht der patente Hans
+vom roten Alex sein, wenn ich nicht sehr bald hinter den
+richtigen Dreh der Sache komme. Mir dämmert schon so
+etwas …«
 
 Harst blieb stumm. Aber der Blick, mit dem er Lückes
-starke Züge massierte, erschien mir reichlich herausfordernd.
-»Ja — — was damimert denn?« meinte er, als Grablay gerade
+scharfe Züge musterte, erschien mir reichlich herausfordernd.
+»Ja — — was dämmert denn?« meinte er, als Grablay gerade
 die Veranda wieder betrat.
 
 Auf diese Weise fand unser Gespräch ein vorzeitiges
 Ende. Später, viel später besann ich mich auf Harsts
 Äußerungen, und als er am Ende des Liedes des Sterbens
-betonte, wie er auf den »richtigen Dreh« gekommen sei —
+betonte, wie *er* auf den »richtigen Dreh« gekommen sei —
 wie und wann, da wußte ich, daß es von ihm nicht blasse
-Renomisterei war: Er hatte die Zufkammenhänge schon auf der
+Renomisterei war: Er hatte die Zusammenhänge schon auf der
 Insel halb durchschaut, den Ausschlag gab … ein Monokel.
 
 »Aufbruch, Herrschaften!« mahnte Grablay vergnügt.
-»Ich paßte mir nur noch einen Vollbart ins Gesicht und
+»Ich pazze mir nur noch einen Vollbart ins Gesicht und
 stülpe eine Perücke über, dann geht’s los … Macht euch
-fertig, steht aber getrost eure Knallbüchsen zu euch, wir
+fertig, steckt aber getrost eure Knallbüchsen zu euch, wir
 kommen durch Gegenden, in denen ein Messerstich, ein
-Stein am Bein und ein sumpfiger Kanal schon so Maus
-treu verschwinden ließen, bis dann im nächsten Jahr der
-Bagger ein paar traurige Reste wieder zu Tage forderte.
+Stein am Bein und ein sumpfiger Kanal schon so manchen
+verschwinden ließen, bis dann im nächsten Jahr der
+Bagger ein paar traurige Reste wieder zu Tage förderte.
 Vielleicht interessiert es euch: In Bombay gehen jedes Jahr
 rund dreihundert Menschen wie Stecknadeln im Sande spurlos
 <@pagebreak/>
-verloren. Ich möchte nicht, daß wir vier diese Stallluft
+verloren. Ich möchte nicht, daß wir vier diese Statistik
+um vier erhöhen,«
 
-um vier erhoben,«
-Zehn Minuten drang Telephon wir iä Greöblags helle
+Zehn Minuten drauf kletterten wir in Grablays hellblaues
+Dienstauto. Er wolle diesen Nachtbummel gleich mit
+zu einer Streife durch einige Verbrecherkneipen benutzen.
+Wir hatten nichts dagegen.
 
-blaues Dienstauto. Er wolle diesen Nacttbwinatel gleich sitzen
-einer Kreise bar) eisige Verbrezerkneipen deutet,
-Wir hatten nichts Papagei.
-
-Als wir die Malabar Stille Hinter uns hatten, fragte
-Harst den Oberinspektor, ob James Berger vielleicht eilte
-unglückliche Liebe gehabt bäte.
+Als wir die Malabar Hills Hinter uns hatten, fragte
+Harst den Oberinspektor, ob James Berger vielleicht eine
+unglückliche Liebe gehabt hätte.
 
 Grablay war sichtlich überrascht. »Wie kommen Sie
-denn darauf, Harst? — Es stimmt nämlich, er das eine Alle
-glückliche Liebe. Es gibt hier eine reiche Kreolin, eine Witwe
+denn darauf, Harst? — Es stimmt nämlich, er hat eine unglückliche
+Liebe. Es gibt hier eine reiche Kreolin, eine Witwe
 eines Kubaner Pflanzers, die von Berger gern geheiratet
-werden möchte. Die Frau macht ihn trank, sie verfolgt ihr
+werden möchte. Die Frau macht ihn krank, sie verfolgt ihr
 Ziel mit einer unglaublichen Beharrlichkeit, sie läßt nicht
-jeder, sie bleibt trotzdem, Dame, dabei ist sie Suchens
-
+locker, sie bleibt trotzdem Dame, dabei ist sie immens
 reich …«
+
 Er deutete halb rückwärts. »Sehen Sie dort den weißen
-
 Bau, das ist ihre Villa, ein Palast … Madame Grazia
-da la Nase ist blendend schön, und der gute James ist ein
-LkHnpletter Narr in diesem Punkte … Überhaupt, bei
-Weibern hat er fabelhaftes Glück — oder Ne, wie man’s
-
+da la Rocka ist blendend schön, und der gute James ist ein
+kompletter Narr in diesem Punkte … Überhaupt, bei
+Weibern hat er fabelhaftes Glück — oder Pech, wie man’s
 nimmt …«
 
 Lücke sagte ziemlich schroff: »Vielleicht hatte er bisher
-auch als Schmuggler zu viel Glü!!«
+auch als Schmuggler zu viel Glück!!«
 
 Ich verstand ihn sofort.
 
 Wir befanden uns gerade an einer ganz einsamen Stelle
 der Straße. Ein Möbelauto kam uns ratternd entgegen,
-beladen mit bellen Schränken, zwischen die als Schreiner«-
-Schuß Decken gelegt worden waren. Der Chauffeur schien
+beladen mit hellen Schränken, zwischen die als Scheuerschutz
+Decken gelegt worden waren. Der Chauffeur schien
 betrunken zu sein, der große Wagen fuhr im Zickzack, und
 unser Polizeifahrer stoppte daher und wollte ganz langsam
 vorüber. Als wir mit dem Lastauto dann auf einer Höhe
@@ -1464,40 +1454,37 @@ Gummibälle von dem Wagen herab …
 <@pagebreak/>
 Gummibälle … Gummiknüttel …
 
-—» Wir erwachten in einem Benzinstänker auf hoher
-See, — in einer höchst merkwürdigen Kajüte,,: Es war
-unsere Lady Hamilton, und Sifu, der Bengel, stank breitbeinig
-vor uns und grinste uns mit bodenloser Unverschämtes
+— Wir erwachten in einem Benzinstänker auf hoher
+See, — in einer höchst merkwürdigen Kajüte …: Es war
+unsere Lady Hamilton, und Sifu, der Bengel, stand breitbeinig
+vor uns und grinste uns mit bodenloser Unverschämtheit
+an.
 
-Zeit an.
-
-!
--
-
-Zwei Frauen, ein Mann
+<h1>Zwei Frauen, ein Mann</h1>
 
 <h2>1. Kapitel.</h2>
 
-<h3>Tiefebene Sicherung,! …</h3>
-— … Ich habe nicht die Fertigkeit des Kollegen, von
-dem man unmöglich nicht gefesselt sein kann, unsere kleinen
-Aus&sfsüge auf absonderliches Gebiet zart und duftig mit
+<h3>Die falsche Sicherung.</h3>
+
+… Ich habe nicht die Fertigkeit des Kollegen, von
+dem man unmöglich *nicht* gefesselt sein kann, unsere kleinen
+Ausflüge auf absonderliches Gebiet zart und duftig mit
 dem Rosenschimmer der Liebe zu umkränzen. Ich müßte
 im übrigen auch, wollte ich es tun, diesen Rosenschimmer
 hinzudichten, und ich habe nun einmal absolut keine Phantasie.
 Ich kann nur Tagebuch führen, — damit ist’s Schluß,
-Zuweilen kann ich auch bissig werden, wenn nun mich ans
-rempelt, aber zumeist schone ich meine Zähne für anständigere
-Lappen.
+Zuweilen kann ich auch bissig werden, wenn man mich anrempelt,
+aber zumeist schone ich meine Zähne für anständigere
+Happen.
 
-<@pagebreak/>
+<@pagebreak 36/>
 Ich erwachte als letzter. Der Chinesenlümmel, der mir
-eins über die Glatze versetzt hatte, hätte auf meine sh)aar«-
-schicken Aussicht nehmen sollen.
+eins über die Glatze versetzt hatte, hätte auf meine Haarlosigkeit
+Rücksicht nehmen sollen.
 
-Wir vier Leute vom Roch befanden uns also in der
+Wir vier Leute vom Fach befanden uns also in der
 schmachvollen Lage, uns von einem dreizehnjährigen dürren
-Brot mit lasterhaften Zügen und unverschämten Schlitzaugen
+Boy mit lasterhaften Zügen und unverschämten Schlitzaugen
 bewachen lassen zu müssen, und der Bengel Sifu
 schien auf die Pistole, die er in der schmierigen Pfote hielt,
 besonders stolz zu sein.
@@ -1505,544 +1492,540 @@ besonders stolz zu sein.
 Es war meine Clement.
 
 Ich erkenne sie sofort. Sie hat am Lauf unter dem
-Korn einen Rohrstock gehabt, die Stelle ist hell geblieben und
+Korn einen Rostfleck gehabt, die Stelle ist hell geblieben und
 scharf umgrenzt. Eigentlich hätte ich ja Sifu darauf aufmerksam
-»machen müssen, daß die Pistole genau wie ihr Herr
-seine Wurden hat. Aber ich dachte mir: »Schweige, wer weiß,
-
+machen müssen, daß die Pistole genau wie ihr Herr
+seine Mucken hat. Aber ich dachte mir: »Schweige, wer weiß,
 wozu es gut ist!«
-» Sifu sagte in großartigem Tone — offenbar waren mir
 
+Sifu sagte in großartigem Tone — offenbar waren mir
 seine einleitenden Sätze entgangen …
-… «. der wird an ein Tau gebunden und hinter der
 
+»… der wird an ein Tau gebunden und hinter der
 Lady hergeschleppt, bis ihn die Haie gefressen haben.«
 
 Wir vier saßen folgendermaßen in der nur durch eine
 schwankende Petroleumlampe erleuchteten Kajüte: Auf Backbord
 auf der Polsterbank Lücke und Harst, auf Steuerbord
 Grablay und ich, zwischen uns gefesselten Paaren war der
-Tisch, erst dem Teller und anderes standen.
+Tisch, auf dem Teller und anderes standen.
 
 Die Fenster waren von innen vernagelt worden, man
-hakte aber die Gardinen mit vor die Scheiben gepreßt,
-
+hatte aber die Gardinen mit vor die Scheiben gepreßt,
 so daß die Bretter nicht zu sehen waren.
 
 Sifu fuhr fort:
 
 »Zuerst wird Missu Oberinspektor Grablay essen …
-Ich werde Missu die eine Hand!osbinden, die schon auf dem
-Tische steck’
+Ich werde Missu die eine Hand losbinden, die schon auf dem
+Tische liegt.«
 
-Die So Schufte hatten uns sehr schlau sichergestellt. Unsere
-reiten Hände. wurden auf der Tischplatte durch zwei
-Riemen festgehalten, die durch Löcher in der Tischplatte hindurchgingen.,
+Die Schufte hatten uns sehr schlau sichergestellt. Unsere
+rechten Hände wurden auf der Tischplatte durch zwei
+Riemen festgehalten, die durch Löcher in der Tischplatte hindurchgingen.
 <@pagebreak/>
-Sifu konnte also mit der linker Hand die
-iemen!üsen, und hat! noch die Rechte mit der Pistole
+Sifu konnte also mit der linken Hand die
+Riemen lösen, und hatte noch die Rechte mit der Pistole
 frei und brauchte nur abzudrücken …
 
-Hm — — abdrücken …?!
+Hm — — abdrücken …!!
 
 Nun, Grablay aß also.
-Er würzte sein Mahl durch viele schöne Reden, die
 
+Er würzte sein Mahl durch viele schöne Reden, die
 für den Bengel Sifu und Konsorten so allerhand verhießen:
 Fünfzig mit einem Bambus rückwärts, fünfzig eine
 Etage höher auf den Rücken, dann als Sitzkissen einen
-offenen Sack mit gemahlenem Pfeffer, schließlich die Ans
-statt für verwahrloste farbige Kinder in Inhalt, wo man
+offenen Sack mit gemahlenem Pfeffer, schließlich die Anstalt
+für verwahrloste farbige Kinder in Subatt, wo man
 selbst die ärgsten Strolche zu fleißigen bescheidenen Menschen
-umrundet. Wie das gekünstelt, weiß im nicht. Ich denke,
+ummodelt. Wie das geschieht, weiß ich nicht. Ich denke,
 Bambusrohr spielt dabei eine bedeutende Rolle.
 
-Grablay sagte all das so trocken, — so humorvoll, daß
-nachher Lücke als dritter Gespeisten mit seinen Ergüssen
+Grablay sagte all das so trocken, so humorvoll, daß
+nachher Lücke als dritter Gespeister mit seinen Ergüssen
 sehr dagegen abfiel. Harst hatte geschwiegen.
 
 Als letzter kam ich an die Reihe.
 
-Sifu hakte wohl darauf Rücksicht genommen, daß ich auch
+Sifu hatte wohl darauf Rücksicht genommen, daß ich auch
 als letzter erwacht und noch nicht sehr bei Appetit war.
 
-Es gab nicht Huhn mit Vers und auch nicht Reis mit
+Es gab nicht Huhn mit Reis und auch nicht Reis mit
 Huhn, sondern Dörrfleisch, Hirsefladen und Margarine —
-eine englische Marke, die absolut nicht nach Mutter, sondern
-nach Wagcenschmier? rote«. Sie mochte schon etwas
+eine englische Marke, die absolut nicht nach Butter, sondern
+nach Wagenschmiere roch. Sie mochte schon etwas
 abgelagert sein.
 
-Also Sifu schnellte mir den rechten Armlos …
+Also Sifu schnallte mir den rechten Arm los …
 
-Ich wußte genau, wie im mich zu verhalten hakte. Ich
-sah nochmals hin: Die Sicherung meiner Pistole war …
-zurüä&gellappt, also hätte die Waffe schußfertig sein müssen.
+Ich wußte genau, wie ich mich zu verhalten hatte. Ich
+sah nochmals hin: Die Sicherung meiner Pistole war
+zurückgeklappt, also hätte die Waffe schußfertig sein müssen.
 
 War sie nicht.
 
-Im Gegenkeil: Sie war jetzt gesichert, wo sie hätte eilt«
-sichert sein müssen, und das war ihre persönliche Eigenart,
-zurückzuführen auf eine Reparatur, die im an ihr vor«
-
-genommen hakte.
+Im Gegenteil: Sie war jetzt gesichert, wo sie hätte entsichert
+sein müssen, und das war ihre persönliche Eigenart,
+zurückzuführen auf eine Reparatur, die ich an ihr vorgenommen
+hatte.
 
 <@pagebreak/>
-Ich mich das Messer, säbelte ein Stück Dörrfleisch los
-und sagte x Sifu:
+Ich nahm das Messer, säbelte ein Stück Dörrfleisch los
+und sagte zu Sifu:
 
-»Und dich hielt Harst für hesserungsfähig!! Deine schwarze
-Seele möge in die Zölle schien!«
+»Und dich hielt Harst für besserungsfähig!! Deine schwarze
+Seele möge in die Hölle fahren!«
 
 Ich hatte den Wasserkrug gepackt und hob ihn drohend
 empor.
+
 Sifu hob seinerseits die Pistole.
 
-»Ich schickte!« drohte er und hielt mir meine eigene
-
+»Ich schieße!« drohte er und hielt mir meine eigene
 Clement fast gegen die Schläfe.
-E? schoß nicht. Als je den Wasserkrug hingestellt
 
+Er schoß nicht. Als ich den Wasserkrug hingestellt
 hatte, griff ich blitzschnell nach links und bekam den Boy
 bei der Kehle. Ich bin kein Preisboxer, immerhin habe ich
-Kräfte, ie zum Abschnüren der Luft ausreichen.
+Kräfte, die zum Abschnüren der Luft ausreichen.
 
 Sifu wand sich unter meinen Fingern wie ein Aal
 und … drückte immer wieder ab.
 
-Maste er.
+Mochte er.
 
-So: »schlich verlor er doch das Bewußtsein.
+Schließlich verlor er doch das Bewußtsein.
 
 Grablay und Lücke waren starr über meine Verwegenheit,
 — Harst lächelte nur. Er hätte, da er meine Clement
 kannte, dasselbe versucht, wenn er günstiger gesessen hätte:
-Er hätte, « um Eis zu packen, an seinem Nachbar Lücke —
+Er hätte, um Sifu zu packen, an seinem Nachbar Lücke
 vorübergreifen und einen Arm von anderthalb Meter Länge
-haben müssen, …
+haben müssen.
 
-Sifu fand zusammen, ich zog ihn nahe heran, wartete
-uns, bis & sich nicht mehr rührte, — und gleich darauf
-waren wir vier!fret und durchsuchten den Kajütenschrank
+Sifu sank zusammen, ich zog ihn nahe heran, wartete
+noch, bis er sich nicht mehr rührte, — und gleich darauf
+waren wir vier frei und durchsuchten den Kajütenschrank
 nach harten Gegenständen.
 
-Was fanden wird? —« Alles, was wir in den Taschen
+Was fanden wir? — Alles, was wir in den Taschen
 gehabt Hatten.
 
-» sagte Sohn Grablay, als er seine Pistole zart«
-Ich »betrachtete, »jetzt kann der Tanz loslassen.«
+»So,« sagte John Grablay, als er seine Pistole zärtlich
+betrachtete, »jetzt kann der Tanz losgehen.«
 
 Wie viele Leute hier die Planken der Lady Hamilton
 durch ihre Anwesenheit schändeten, wußten wir nicht. Wir
-haften draußen an Deck sprechen gehört, wir halten am
+hatten draußen an Deck sprechen gehört, wir hatten am
 Schlingern der Lady die offene See gespürt, wir glaubten
 <@pagebreak/>
-wir einmal eine Frazeustimme zu vernehmen — — all
-das ’vuZ glieidaaeltta, 2ep8 hier Anhaftet zu Wert Schiff
-sind Zahwunddrigig Saßnitz, und jv viel Kerle verbarg diese
-Lady nickte, kurzes vier sie zu Steig,
+auch einmal eine Frauenstimme zu vernehmen — — all
+das war gleichgültig, denn vier Pistolen zu neun Schuß
+sind sechsunddreißig Schuß, und so viel Kerle verbarg diese
+Lady nicht, dazu war sie zu klein.
 
-Durst meinte Kutter ab, wir sollten erst einmal Zu
-schlau Ballen … &r wurde die Tür einmal Seinen.
+Harst meinte flüsternd, wir sollten erst einmal Ausschau
+halten … Er würde die Tür etwas öffnen.
 
-Wie gesagt: Diese »Jacht« war eilt Ding für sich, das
-einzige Gute an ihr war der starke Motor, und alles ans
-Vers war Stichwort.
+Wie gesagt: Diese »Jacht« war ein Ding für sich, das
+einzige Gute an ihr war der starke Motor, und alles andere
+war Flickwerk.
 
 Diese Staatskabine lag achtern, die Tür ging nach dem
-Zug zu auf, xd als wir uns neben Harst »drängten,
-als er leise die Tür Instinkte, sahen wir zuerst nur zwei
-reizende Füßchen la Lackschuhen …
+Bug zu auf, und als wir uns neben Harst drängten,
+als er leise die Tür aufklinkte, sahen wir zuerst nur zwei
+reizende Füßchen in Lackschuhen …
 
 »Donnerwetter!« knurrte Grablay entsetzt. »Das ist ja
 Madame Grazia de la Rocka!«
 
-Harst drückte die Für ebenso lautlos wieder zu.
+Harst drückte die Tür ebenso lautlos wieder zu.
 
-»Sie seinen ja mit Madame Grazias Unterpartie
-recht vertraut zu sein, alterIghn,« sagte er mit einem
-schwarzen Genießergrinsen. »Wenn es zuträfe, daß es die
-reiche Kreolin Ware, würde allerdings mein schönes Des
-Hände von logischen Schlüssen jämmerlich zusammenstürzen!«
+»Sie scheinen ja mit Madame Grazias Unterpartie
+recht vertraut zu sein, alter John,« sagte er mit einem
+schwachen Genießergrinsen. »Wenn es zuträfe, daß es die
+reiche Kreolin wäre, würde allerdings mein schönes Gebäude
+von logischen Schlüssen jämmerlich zusammenstürzen!«
 
-»Das meine auch« flüsterte Lücke stark enttäuscht. »Je
+»Das meine auch,« flüsterte Lücke stark enttäuscht. »Ich
 kenne Ihr Bauwerk nicht, lieber Harst, aber mir scheint,
-wir bewegen uns auf der Gleichheit Gedankenlinie.«
+wir bewegen uns auf der Gleichen Gedankenlinie.«
 
-»Es ist Grazia,« sagte Grablay bestimmt. »zur ganz
+»Es ist Grazia,« sagte Grablay bestimmt. »In ganz
 Bombay gibt es nur ein einziges Paar so einwandfreie Beine.
-Ihre Sticheleien, Harst, prallen im übrigen vor mir ab,
-denn als eingefleischter Junggeselle habe ich meine Flurwand
-Drangperiode längst hinter mir. Was jedoch Sonne
-Grazias Anwesenheit hier betrifft, so kann ihr nur betonen:
-Ich bin einfach; vom Donner gerührt! Wie kommt sie mit
-diesem Gesindel zusammen?! Ich. begreife es nicht.« …
+Ihre Sticheleien, Harst, prallen im übrigen von mir ab,
+denn als eingefleischter Junggeselle habe ich meine Sturm\-
+und Drangperiode längst hinter mir. Was jedoch Donna
+Grazias Anwesenheit hier betrifft, so kann ich nur betonen:
+Ich bin einfach vom Donner gerührt! Wie kommt sie mit
+diesem Gesindel zusammen?! Ich begreife es nicht.«
 
-»Oh Donna oder Madonna — sie wird Farbe bekennen
+»Ob Donna oder Madonna — sie wird Farbe bekennen
 müssen,« meinte Lücke rücksichtslos.
 
 <@pagebreak/>
-Und ich gab ihm darin recht. Was z34c7tie! wir hier?!
+Und ich gab ihm darin recht. Was zögerten wir hier?!
 Wozu?!
-»Alles muß einen Zweck haben,« ich machte Harsts uns
-seien Unteracehmungseiser ab. »Lob mit feurigen Pferden
-einen neuen Wagen probiert, ist ein Tor. — Was als
-für die Kreolin als Verbündete von Chinesen 1.43d Japanern 21
-Es ist an sich schon faul, wenn sich Hans und Hing verbünden.
-Sie lieben sich nie und nirgends, war bei großen
-Lumpereien, und als ich die Tür zuerst ein wenig zu
-weit öffnete, sah ich vorn vier Weile sitzen, je zwei Mikadound
-zwei Kantonmänner.« …
-Lücke betrachtete Finster seine Dienstpistole. »Oh Kap,
-ob Hin, mir gut der Zeigefinger. Ich bewundere Ihre
-Geduld, Oberinspektor. Fragen wir die .; Frau, abgemacht.«
 
-»Ja — und lassen wir — uns wunderschön anlügen!«
-meinte Harst mit betonter Geimächlichkeit. »Ich denke, wir
+»Alles muß einen Zweck haben,« schwächte Harsts unseren
+Unternehmungseifer ab. »Wer mit feurigen Pferden
+einen neuen Wagen probiert, ist ein Tor. — Was also
+tut die Kreolin als Verbündete von Chinesen und Japanern?!
+Es ist an sich schon faul, wenn sich Japs und Chins verbünden.
+Sie lieben sich nie und nirgends, nur bei großen
+Lumpereien, und als ich die Tür zuerst ein wenig zu
+weit öffnete, sah ich vorn vier Kerle sitzen, je zwei Mikado\-
+und zwei Kantonmänner.« …
+
+Lücke betrachtete Finster seine Dienstpistole. »Ob Jap,
+ob Chin, mir juckt der Zeigefinger. Ich bewundere Ihre
+Geduld, Oberinspektor. Fragen wir die Frau, abgemacht.«
+
+»Ja — und lassen wir uns wunderschön anlügen!«
+meinte Harst mit betonter Gemächlichkeit. »Ich denke, wir
 beobachten die Leute erst eine Weile. Es ist nicht schwer,
-… ein Los in die Tür zu bohren, es »braucht nicht groß
+ein Loch in die Tür zu bohren, es braucht nicht groß
 zu sein. Wir müssen vorher Gewißheit haben, wie Frau
-de la Rede mit den Piraten steht, die uns hier für
-gut versorgt halfen.« — —
-Grablay nickte, »Sie haben recht, Harst. — Womit
+de la Rocka mit den Piraten steht, die uns hier für
+gut versorgt halten.«
+
+Grablay nickte. »Sie haben recht, Harst. — Womit
 bohren wir?«
 
 Harst hatte schon seinen Koffer geöffnet, der in der einen
-Ecke zusammen mit dem Lückes und dem meinigen stand.
+Ecke zusammen mit dem Lückes und dem meinigen stand,
 hatte die Schlösser inzwischen aufgesprengt, den Inhalt
-durchwühlt und die Schhloßklappen wieder zugedrückt.
+durchwühlt und die Schloßklappen wieder zugedrückt.
 
-Die Ledertasche, Glas und länglich, enthielt alles Nötige.
+Die Ledertasche, flach und länglich, enthielt alles Nötige.
 
-Harst bohrte …
+Harst bohrte.
 
 Lücke hatte sich einen Schemel an die Tür gerückt und
 eine Zigarette angezündet.
 
 »Es ist Unfug, diese Trödelei,« murrte er unliebenswürdig.
-Es erging ihm wie so vielen anderen indem
-Gezogen: Seine Herren hatten gelitten, wir hatten ja auch
+Es erging ihm wie so vielen anderen in den
+Tropen: Seine Nerven hatten gelitten, wir hatten ja auch
 nicht gerade stille Tage hinter uns. Der Stern von Kabinur
 <@pagebreak/>
-war ein gefährliöäy: Rätsel gewesen, und bevor wir den
-wahren Leiter des Konsortiums zur Verwertung der Unterlag!
-»Sätze zur Strecke gebracht hatten, war der Jod in
-mancherlei Worte in unserer achten Tische gewesen,
+war ein gefährliches Rätsel gewesen, und bevor wir den
+wahren Leiter des Konsortiums zur Verwertung der Nazar-Bagi-Schätze
+zur Strecke gebracht hatten, war der Tod in
+mancherlei Form in unserer nächsten Nähe gewesen,
 
-Das So war fertig. Herabfällt so?Geschossen und den
-Zentrumsbohrer Zimmer wieder mit Speichel angefeuchtet,
-an! ein Punirsciyet im Holze zu verhüten, — im übrigen eine
-fast überflüssige Vorsicht, da die Wellen mit … der kleinen
-Lady Hamilton allerlei lärmende Stierte trieben.?
+Das Loch war fertig. Grablay hatte geholfen und den
+Zentrumsbohrer immer wieder mit Speichel angefeuchtet,
+um ein Knirschen im Holze zu verhüten, — im übrigen eine
+fast überflüssige Vorsicht, da die Wellen mit der kleinen
+Lady Hamilton allerlei lärmende Scherze trieben.
 
-Das Loch wenn fertig. Harst glättete es, und dann blickte
-Harst hindurch, trat beiseite, und nacheinander duftend wir
+Das Loch war fertig. Harst glättete es, und dann blickte
+Harst hindurch, trat beiseite, und nacheinander durften wir
 hindurchschauen …
 
-Ich als bescheidenste Seele als. letzter …
+Ich als bescheidenste Seele als letzter …
 
-Das machte nichts als.
+Das machte nichts aus.
 
-Was ich sah, hätte ist Über gar nicht gesehen,
+Was ich sah, hätte ich lieber gar nicht gesehen,
 
 <h2>2. Kapitel.</h2>
 <h3>Eine Belagerung.</h3>
 
-Donna Grazia de la Rocka mit den für jeden BeinWeitbewerb
+Donna Grazia de la Rocka mit den für jeden Bein-Wettbewerb
 vorgemerkten seidenflorbestrumpften Füßchen
 ruhte sehr bequem in einem freilich nicht ganz so eleganten
-Vorbehalt, wie er zu ihrer großen Toilette gepaßt hatte
+Bordstuhl, wie er zu ihrer großen Toilette gepaßt hatte
 
-Sie war schön. Es war jene tropische, feurige Schön«
-Zeit, die gerade den Nordländer so leicht berauscht. Es war
-eine Frau mit dem leicht gelblichen, dennoch rosigen Fein!
-der Sperlingen der Südstaaten Amerikas, wo die so häufig
-vertreten und noch häufiger so reich) sind. Ihre Augen mit
-den scharf nachgezogenen Brauen und reich übelgelaunten
+Sie war schön. Es war jene tropische, feurige Schönheit,
+die gerade den Nordländer so leicht berauscht. Es war
+eine Frau mit dem leicht gelblichen, dennoch rosigen Teint
+der Kreolinnen der Südstaaten Amerikas, wo die so häufig
+vertreten und noch häufiger so reich sind. Ihre Augen mit
+den scharf nachgezogenen Brauen und reich überschminkten
 Fältchen (ganz jung war Grazia nicht mehr) hatten das
-glänzend« Schwarz einer heißblütigen Seele. Nase, Mund,
+glänzende Schwarz einer heißblütigen Seele. Nase, Mund,
 Kinnpartie — alles wie modelliert. Und doch wirkte dieses
-Gesicht in seinem Gebamteindruck kalt — merkwürdig kalt. —
-
+Gesicht in seinem Gesamteindruck kalt — merkwürdig kalt, —
 <@pagebreak/>
-Co, als ob war. die kühle Berechnung einer jeden Schluck
-Zug sorgfältig prüfenden Natur deutlich spürte.
+so, als ob man die kühle Berechnung einer jeden Schachzug
+sorgfältig prüfenden Natur deutlich spürte.
 
-Ihr Abendkleid aus lila Tiere de China mit Kost
-baren Spitzen, allerletzte ’Mode, dazu ihre Räzxaze, Felsens
-Fette, Armbänder: las war Garderobe und Stimmung
+Ihr Abendkleid aus lila Crepe de Chine mit Kostbaren
+Spitzen, allerletzte Mode, dazu ihre Ringe, Perlenkette,
+Armbänder: Das war Garderobe und Stimmung
 für einen Ball, für ein Diner,
 
 Seltsame Bordtracht!
 
-Und zu diesem festlichen Gewand paßte de« Karaffe, alte,
-zerknitterte Südwester, den sie als Somnei:scmitz auf den
-Brausen Bubikopf gedrückt hatte, genau es wenig wie der
-schäbige Bordtracht.
+Und zu diesem festlichen Gewand paßte der schlaffe, alte,
+zerknitterte Südwester, den sie als Sonnenschutz auf den
+krausen Bubikopf gedrückt hatte, genau so wenig wie der
+schäbige Bordstuhl.
 
-Man hätte ein Etuis Segel über ihren Platz gespannt.
-Mit unter diesem elenden Sonnendach mit Geschlechter nach
-Löchern saß in einem noch, schäbigeren Liegestuhl ein Herr,
-der genau wie Grazia eine Zigarette rauchte, und eine,
+Man hatte ein Stück Segel über ihren Platz gespannt.
+Mit unter diesem elenden Sonnendach mit Teerflecken und
+Löchern saß in einem noch schäbigeren Liegestuhl ein Herr,
+der genau wie Grazia eine Zigarette rauchte, und einen
 Smoking trug …
 
 Ein Europäer, blond, mit schlaffen, blasierten, aber
 vornehmen Zügen. Sein bartloses Gesicht hätte an das
-Grablays8s und Lückes erinnern können, wenn nicht die
-Mienen dieser beiden für den. Menschenpenner Alter- der
-Masse der lässigen Wurstigkeit die starken Charaktere der«
-selten haben würden.
+Grablays und Lückes erinnern können, wenn nicht die
+Mienen dieser beiden für den Menschenkenner unter der
+Maske der lässigen Wurstigkeit die starken Charaktere verraten
+haben würden.
 
 Der Gentleman war mir vollkommen fremd. — Er unterhielt
-sich mit der Kreolin nicht gerade angelegt, zuweilen
+sich mit der Kreolin nicht gerade angeregt, zuweilen
 machte er wohl eine Bemerkung, die ihr mißfiel, denn sie
-Glühte ihn dann mit ablehnender Kälte an und ihre Augen
-brauen, nur dünne Striche, zogen sich an der Nasenwurzel
-bedrohlich naß oben.
-Was ich sonst sank! — Vorn hockten, wie Harald!chon.
+blickte ihn dann mit ablehnender Kälte an und ihre Augenbrauen,
+nur dünne Striche, zogen sich an der Nasenwurzel
+bedrohlich nach oben.
+
+Was ich sonst sah?! — Vorn hockten, wie Harald schon
 erwähnt hatte, vier Kerle in schmierigen Matrosenanzügen.
-Ihre kurzen weiten Hosen zeigten die nackten Schenkel, und!
-die Füße staken in ausgetretenen Leinenschuhen. Ader um
-den Leid trug ein jeder einen, Lederriemen mit zwei Pistolentaschen
-und einem langen Messer mit Holzgriff in Leder
+Ihre kurzen weiten Hosen zeigten die nackten Schenkel, und
+die Füße staken in ausgetretenen Leinenschuhen. Aber um
+den Leib trug ein jeder einen Lederriemen mit zwei Pistolentaschen
+und einem langen Messer mit Holzgriff in Lederscheide.
 
 <@pagebreak/>
 Diese Messer kannte ich. Chinesische Matrosen sind
 zumeist vorzügliche Messerwerfer, die Japaner bringen es
-in dieser Kunst oh weiter. An Lord der Schiffe langweilen
-sie sich »und treiben das Weiterreisen als Sport und
-Spiel. N8 Spiel um Gold … Ein Brett mit drei Kreiden
-»Kreisen ist die Scheibe, und zuweilen verlieren die gelben
+in dieser Kunst noch weiter. An Bord der Schiffe langweilen
+sie sich und treiben das Messerwerfen als Sport und
+Spiel. Als Spiel um Gold … Ein Brett mit drei Kreidekreisen
+ist die Scheibe, und zuweilen verlieren die gelben
 flinken spielwütigen Sonnensöhne bei diesem Preiswerfen die
-ganze euer,
+ganze Heuer,
 
-Die vier Burschen mochten als Gegner rosa hingehen.
-Aber was für uns peinlich »wer: Sie hatten zwischen sich
-eine? jener kleinen Maschinengewehre stehen, wie man sie
-für die Benutzung in gebirgigen Gegenden zum Irons&port
+Die vier Burschen mochten als Gegner noch hingehen.
+Aber was für uns peinlich war: Sie hatten zwischen sich
+eines jener kleinen Maschinengewehre stehen, wie man sie
+für die Benutzung in gebirgigen Gegenden zum Transport
 durch einen einzelnen Mann konstruiert hat. Ich weiß
-nicht, ob die belgischen Waffenfabriken. sie herstellen. Wahr« —
-Beharrlich stammte diese Kugelspritze aus Japan. Naher
-sahen wir, daß die Fabrikmarke mit einer »Feile entfernt
+nicht, ob die belgischen Waffenfabriken sie herstellen. Wahrscheinlich
+stammte diese Kugelspritze aus Japan. Nachher
+sahen wir, daß die Fabrikmarke mit einer Feile entfernt
 worden war. Die Mündung zeigte nach dem Heckaufbau,
-und da die Spritze zweifellos schußfertig war (der Patronenaut
-war eingeführt), hätte ein Angriff unsererseits sowohl —
+und da die Spritze zweifellos schußfertig war (der Patronengurt
+war eingeführt), hätte ein Angriff unsererseits sowohl
 Donna Grazia, dem Gentleman im Smoking und auch uns
-das Leben gekostet — sehr wahrscheinlich …
+das Leben gekostet — sehr wahrscheinlich.
 
-Ich gab das Guckloch frei und blickte meine Gefährten. mit
+Ich gab das Guckloch frei und blickte meine Gefährten mit
 sehr langem Gesicht an,
 
-»die sagte ehrlich: »Die Sache wäre böse abzzelaufen, 5.
-Sie hatten recht, Harst, — immer« erst prüfen …! 594
-bin durch; die Siedeglut in Baroda körperlich und geistig
-Mark? Heruntergekomimen, ich hatte mir Indien doch weniger
-aufreibend vorgestellt. — Wer ist der Mann im Zwecklos,
-Oberinspektor 2«
+Lücke sagte ehrlich: »Die Sache wäre böse abgelaufen …
+Sie hatten recht, Harst, — immer erst prüfen …! Ich
+bin durch die Siedeglut in Baroda körperlich und geistig
+stark heruntergekommen, ich hatte mir Indien doch weniger
+aufreibend vorgestellt. — Wer ist der Mann im Smoking,
+Oberinspektor?«
 
 Grablay stand mit eigentümlich versonnenem Gesicht da
 und rieb mit dem Zeigefinger zerstreut das Öl von dem
 Drücker seiner Pistole …
 
 »Ja,« sagte er und schüttelte leicht den Kopf, »das ist
-nun eine ganz merkwürdige Geschichte, meine Herren …«.
-Persönlich kenne im den Mann nicht, ich bin ihm nur einmal
+nun eine ganz merkwürdige Geschichte, meine Herren …
+Persönlich kenne ich den Mann nicht, ich bin ihm nur einmal
 <@pagebreak/>
-flüchtig irgendwo begegnet.- Wenn ich nur wüßte, wo …
+flüchtig irgendwo begegnet. Wenn ich nur wüßte, wo …
 Ich zergrübele mir bereits mein wertes Hirn, — warten
-Sie Euer, im? komme schon darauf, unsereiner hat doch ein
+Sie nur, ich komme schon darauf, unsereiner hat doch ein
 Gedächtnis wie ein Tresor mit einigen tausend Abteilungen,
 man muß nur den richtigen Schlüssel zu dem betreffenden
-Safe erst finden. Er ist in Bombay. jedenfalls nicht ansässig,
-aber er mit hier in Indien irgendwo sein Domizil
+Safe erst finden. Er ist in Bombay jedenfalls nicht ansässig,
+aber er muß hier in Indien irgendwo sein Domizil
+haben …«
 
-haben
+Harst Hörte gespannt zu.
 
-Harst ’Hörte gespannt zu.
-
-»Es ist unbedingt nötig, daß Sie sich besinnen, Grellrot,
+»Es ist unbedingt nötig, daß Sie sich besinnen, Grablay,
 unbedingt …« meinte er leicht nervös. »Es hängt alles
-von ihrer Auskunft ab … Wenn diese so empfahl!, wie
+von ihrer Auskunft ab … Wenn diese so ausfällt, wie
 ich hoffe, brauche ich mir keine Vorwürfe mehr zu machen,
 was meinen Verdacht gegen eine bestimmte Person betrifft.
-Ich bin stets sehr niedergeschlagen, wenn meine Schluß
-Folgerungen sich als. »verfehlt erweisen.«
+Ich bin stets sehr niedergeschlagen, wenn meine Schlußfolgerungen
+sich als verfehlt erweisen.«
 
 Grablay machte eine ruckartige Bewegung mit dem Kopf.
-»bb hab’s!« Seine Gestalt, die bisher halb gebeugt gewesen,
+»Ich hab’s!« Seine Gestalt, die bisher halb gebeugt gewesen,
 richtete sich mit auf. »Der Mann ist ein reicher
 Pflanzer aus Goa, also weit südlich von Bombay … Goa
-
 gehört den Portugiesen, — keine reine Freude für England,
-dieses fremde Gebiet inmitten englischen Besitzes, Aber
-was bist’s?! — Also — ein Plantagenbesitzer mit eigener
-feudalen Jacht … Vor mehreren Monaten sah ich ihn
-an Bark dieser Jacht am Viktoria-Dock in Bombay. Neben
-48m starb Donna Grazia, und anscheinend hatte er sie
-für eine Vergnügungstour als Gast bei sich Sein Name
-ist mir entfalten, …
+dieses fremde Gebiet inmitten englischen Besitzes. Aber
+was hilft’s?! — Also — ein Plantagenbesitzer mit eigener
+feudaler Jacht … Vor mehreren Monaten sah ich ihn
+an Bord dieser Jacht am Viktoria-Dock in Bombay. Neben
+ihm stand Donna Grazia, und anscheinend hatte er sie
+für eine Vergnügungstour als Gast bei sich. Sein Name
+ist mir entfalten …«
 
-» Harst sagte mit blanken Augen: —
+Harst sagte mit blanken Augen:
 
-»Reich Rutterfield!«
+»Percy Rutterfield!«
 
-Grablay starrte ihn verdutzt an. »Es stimmt. Reich
-Nutterfield …? Woher in aller Welt kennen Sie den
+Grablay starrte ihn verdutzt an. »Es stimmt. Percy
+Rutterfield …! Woher in aller Welt kennen Sie den
 Namen?«
 
 Harst deutete in die eine Ecke, wo die Jammergestalt des
 trügerischen Sifu eng gefesselt und mit einem Knebel im
 <@pagebreak/>
-Munde wie ein Häufchen Unglück lag und jetzt die Sitzungen
-ganz weit aufgerissen hatte, …
+Munde wie ein Häufchen Unglück lag und jetzt die Schlitzaugen
+ganz weit aufgerissen hatte.
 
 »Da — der Schreck für den Bengel ist nicht schlecht!
-Er hat verstanden, was ich sagte, — sein Bis ist eine neue
-Bestätigung, daß Reich Nutterfield der Richtige ist.«
+Er hat verstanden, was ich sagte, — sein Blick ist eine neue
+Bestätigung, daß Percy Rutterfield der Richtige ist.«
 
 »Inwiefern?« fragte — Lücke hastig. »Inwiefern der
-Nichtige 2?!«
+Richtige?!«
 
 Harst antwortete ausweichend: »Als man uns auf der
 Straße von den Malabar Hills nach Bombay so raffiniert
 niedergeschlagen hatte, und Ihren Chauffeur und Ihr Auto
-einfach liegen ließ, Grablay, — als ich so halb munter gq&
-worden und gerade von dem Möbelauto in die Lady Hamilton
-verfrachtet wurde, da glaubte ich diesen Namen von eigene
-der Banditen zu hören … Es muß wollten gewesen sein,
-nein, es war so, und nachher ging Ufer der Name immer
+einfach liegen ließ, Grablay, — als ich so halb munter geworden
+und gerade von dem Möbelauto in die Lady Hamilton
+verfrachtet wurde, da glaubte ich diesen Namen von einem
+der Banditen zu hören … Es muß wohl so gewesen sein,
+nein, es war so, und nachher ging mir der Name immer
 wieder durch den brummenden Kopf, ganz so, wie man an
-manchen Tagen fortwährend von einer bestistmten Melodie
-gleichsam gequält wird. Mir will, zum Beispiel heute der
-Geistes»-Wasser nicht von den Lippen, — ich könnte ihn
+manchen Tagen fortwährend von einer bestimmten Melodie
+gleichsam gequält wird. Mir will zum Beispiel heute der
+Geisha-Walzer nicht von den Lippen, — ich könnte ihn
 immer wieder pfeifen, natürlich ganz pianissimo und ganz
 langsam — als Trauerlied, — der Walzer soll ja auch
-den tiefen Schmerz des kleinen japanischen Jecehäusmädchen&
-ansehnlichen … soll … Und jetzt möchte im ihn zum
-Trauersang umkomponteren, Das Leben ist so hart und
-mitleidslos, und die Menschen sind 28 noch mehr
+den tiefen Schmerz des kleinen japanischen Teehausmädchens
+ausdrücken … soll … Und jetzt möchte ich ihn zum
+Trauersang umkomponieren. Das Leben ist so hart und
+mitleidslos, und die Menschen sind es noch mehr …«
 
-Wir drei schauten ihn verständnislos an, Seine letzten
-Sätze klangen so sentimental, und das ist er doch nie,«c
+Wir drei schauten ihn verständnislos an. Seine letzten
+Sätze klangen so sentimental, und das ist er doch nie …
 
 Lücke meinte argwöhnisch:
 
-»Wollen Sie uns ’zum Besten »holten,: Harst?! Was
+»Wollen Sie uns zum Besten halten, Harst?! Was
 soll der Geisha-Walzer?! Ich habe ihn gepfiffen, als wir
+beide, Schraut und ich, die Insel umschritten …«
 
-beide, Schraut und ich, die Insel umschritten …
-»Sann — pfiffen Sie … ein Lied des Sterbens,«
-
+»Dann — pfiffen Sie … ein Lied des Sterbens,«
 sagte Harst noch leiser. —
-… — — Deshalb habe ich den Titel gewählt:
 
-Das Lied des Sterbens.
+… Deshalb habe ich *den* Titel gewählt:
+
+<p class="centered">Das Lied des Sterbens.</p>
 
 <@pagebreak/>
-3, Kapitel.
-Der Pltüktagenbesißer.
 
-Eins seltsame beklommene Stimmung lagerte löst uns
-wie ans Geaitterwolke, die sich jeden Moment entladen
-danke.
-Grobian rieb wieder an seiner Pistole befand, und Lücke
-hatte ein schlecht angebrachtes Front Lächeln um den
+<h2>3. Kapitel.</h2>
+<h3>Der Plantagenbesitzer.</h3>
 
+Eins seltsame beklommene Stimmung lagerte über uns
+wie eine Gewitterwolke, die sich jeden Moment entladen
+konnte.
+
+Grablay rieb wieder an seiner Pistole herum, und Lücke
+hatte ein schlecht angebrachtes ironisches Lächeln um den
 Mund.
-Harst Jagte schroff, um uns auf andere Gedanken zu
 
+Harst sagte schroff, um uns auf andere Gedanken zu
 bringen:
 
-»Machen wir ein Ende? Ein Angriff hier durch die
-Für ist unmöglich, Die Kajüte, die der dicke Harrt Hat
+»Machen wir ein Ende! Ein Angriff hier durch die
+Tür ist unmöglich. Die Kajüte, die der dicke Charly Baat
 eigenhändig gezimmert hat, hat noch einen Ausgang zum
 Heck. Wir müssen dort hinaus und den Mann am Steuer
-in &ller Stille gegen einen von uns austauschen …«
+in aller Stille gegen einen von uns austauschen …«
 
-Kolonie durch das- Bohrloch.
+Er lugte durch das Bohrloch.
 
-… w«- + Die Kerle passen scharf auf … Donna Grazia
-und ihr Kavalier machen unentwegt … — Also Torwärter«
-Ha
+»… Die Kerle passen scharf auf … Donna Grazia
+und ihr Kavalier rauchen unentwegt … — Also vorwärts!«
 
-Er riegelte sie Tür beginnen ab. Bank hakte hfer’
-
-ein Monstrum von Riegel angebracht 006.2
+Er riegelte die Tür von innen ab. Baat hatte hier
+ein Monstrum von Riegel angebracht … —
 
 Die andere Tür, bedeutend kleiner, wurde nun ebenfalls
-erst einmal angebohrt, Es war dies ein kleines Wagnis, denn
-der Mann am Steuer stand bei den knappen Raumverhäitnisien
-der Lady kaum drei Schritt entfernt, —
+erst einmal angebohrt. Es war dies ein kleines Wagnis, denn
+der Mann am Steuer stand bei den knappen Raumverhältnissen
+der Lady kaum drei Schritt entfernt.
 
 Aber das Geräusch der gegen die Bordwände klatschenden
-Wellen und das Rattern des starken. Motors verhüteten eins
-vorzeitige Entdeckung unsere behutsamer Arbeit.
+Wellen und das Rattern des starken Motors verhüteten eine
+vorzeitige Entdeckung unserer behutsamen Arbeit.
 
 Als wir damit fertig, kam die neue Enttäuschung: Am
 Steuer lehnte ein Japaner, ein zweiter saß mit der Pfeife
 im Munde auf der Reling, ein Dritter hatte soeben einen
-Atmet Seewasser hochgehißt und wusch sie die Füße.
+Eimer Seewasser hochgehißt und wusch sich die Füße.
 
 <@pagebreak/>
-Kuh diese drei waren in gleicher Weise bewaffnet
-wie &ie anderen. Nur des Kugelspuren fehlte. Sie untere
-hielten sich halblaut, und sie fühlten sich offenbar genau
-In sicher wie ihre Donnernden am Bug. Sie waren es auch,
-—»- wie »ollen wir es mit des Mann aufnehmen, ohne daß,
-die 0a vorn aufmmnerkiam würden?!t!
+Auch diese drei waren in gleicher Weise bewaffnet
+wie die anderen. Nur der Kugelspucker fehlte. Sie unterhielten
+sich halblaut, und sie fühlten sich offenbar genau
+so sicher wie ihre Kameraden am Bug. Sie waren es auch,
+— wie sollten wir es mit drei Mann aufnehmen, ohne daß
+die da vorn aufmerksam würden?!
 
-Graublau fluchte …
-Harjt!Hier nachzudenken. Lade pfiff ganz pianissimo …
+Grablay fluchte …
 
-das die des Seidenes. Ich, der an! Fische lehnte und per
-Bengel Sifu gedaicfeivbolß betrachtete, »alte gedämxft, Eber
-stolz auf meine glorreiche Idee;
+Harst schien nachzudenken. Lücke pfiff ganz pianissimo …
+das Lied des Sterbens. Ich, der am Tische lehnte und den
+Bengel Sifu gedankenvoll betrachtete, sagte gedämpft, aber
+stolz auf meine glorreiche Idee:
 
-»Sifu muß hinaus« Dr
+»Sifu muß hinaus!«
 
 Harald drückte mir die Hand. »Bravo!«
 
-Tür und bei Odverinspeltor schauten gierig verstände
-vieles drein.
+Lücke und der Oberinspektor schauten ziemlich verständnislos
+drein.
 
-»Schraut meint, wir sollen Sifu zwingen, das na
-
-Ichinengewehr über Bord zu werfen,« erklärte Harald. »Gewiß,
-der Zunge ist unzuverlässig, aber vor einer Kugel
-bat er doch einen Heidenrespekt. — Sifu, mein Sohn …
-— er hob das klägliche Bündel hoch, und Sifu nickte berate
+»Schraut meint, wir sollen Sifu zwingen, das
+Maschinengewehr über Bord zu werfen,« erklärte Harald. »Gewiß,
+der Junge ist unzuverlässig, aber vor einer Kugel
+hat er doch einen Heidenrespekt. — Sifu, mein Sohn …«
+— er hob das klägliche Bündel hoch, und Sifu nickte bereits
 zum Zeichen seines Einverständnisses so eifrig, daß Grablay
 warnend gurgelte: »Ich würde dem Schlingel niemals trauen,
-Harke!«
+Harst!«
+
 »Oh — ich bin meines Schusses sicher, und das weiß
-Sifu. Sein Hinterkopf wird ihm zu schade für ein nettes.
-rundes kleines Loch sein …
+Sifu. Sein Hinterkopf wird ihm zu schade für ein nettes
+rundes kleines Loch sein …«
 
-Er nahm dem Jungen den Monokel aus dem Munde.
-
+Er nahm dem Jungen den Knebel aus dem Munde.
 Sifu hustete und krächzte dann:
-»Missu Harst können sich auf mich verlassen …« 535H
 
+»Missu Harst können sich auf mich verlassen … Ich
 bin treu.«
-— »So siehst du aus!« fuhr Lücke ihn empört an, »Du
-hast eigentümliche Vorstellungen von Freue!! Harst hatte
 
-es mit dir stets gut gemeint, du …’
+»So siehst du aus!« fuhr Lücke ihn empört an. »Du
+hast eigentümliche Vorstellungen von Treue!! Harst hatte
+es mit dir stets gut gemeint, du …«
+
 »Stopp, Lücke!« Harald knotete dem Boy die Fesseln
-
 auf. »Also, mein Sohn, bei dem geringsten Anzeichen von
 <@pagebreak/>
-Verrat gebt es dir schlecht. Du wirst rasch zur Tür hinausschlüpfen,
+Verrat geht es dir schlecht. Du wirst rasch zur Tür hinausschlüpfen,
 machst sie wieder zu, eilst ohne weiteres nach
-vorn und wirkt das Maschinengewehr ins Wasser. Hat
-sind wir bereits auch zur Steile, und deine seligen Seines
-Kollegen samt der schönen Frau? Grazia und Mr. Leicht)
-Nutterfield werden hübsch die Wärme hochrecken, anderes
-falls knallt es gleichfalls.«
+vorn und wirfst das Maschinengewehr ins Wasser. Dann
+sind wir bereits auch zur Stelle, und deine feinen Herren
+Kollegen samt der schönen Frau Grazia und Mr. Percy
+Rutterfield werden hübsch die Arme hochrecken, andernfalls
+knallt es gleichfalls.«
 
-Sifu grinste und massiert« seinen gefäytoollenen Hals.
+Sifu grinste und massierte seinen geschwollenen Hals.
 
-»Missu Harst, ich möchte wieder zu? machen, was ich
-an Ihnen
+»Missu Harst, ich möchte wieder gut machen, was ich
+an Ihnen …«
 
 »Danke. — Wenn du das ehrlich willst, beantworte mir
 eine Frage: Was hat Mr. Rutterfield mit der Insel zu
@@ -2053,160 +2036,162 @@ den Mund traurig nach unten.
 
 Diese Anzeichen waren uns nicht fremd.
 
-— Er wollte lügen.
+Er wollte lügen.
 
 Harst sagte denn auch mit erhobener Stimme: »Merke
-dir, — jetzt wollt t du lügen — natürlich! Daß wir von
+dir, — jetzt wolltest du lügen — natürlich! Daß wir von
 dir nicht die Wahrheit erfahren würden, war eigentlich selbstverständlich.
-Aber das ist sicher, mein Sohn: Ich tückischer!
-—» So, nun geh’ … Ich werde die Lampe vorher ausdrehen.
-Warte …
+Aber das ist sicher, mein Sohn: Ich schieße!!
+— So, nun geh’ … Ich werde die Lampe vorher ausdrehen.
+Warte …«
 
-Aber Sifu benutzte den kleinen russischen Fehler Haralds,
--» kaum wurde es dunkel, als er blitzschnell den Riegel
-zurückgestoßen und die Tür ganz weit ausgerissen hatte, —
+Aber Sifu benutzte den kleinen taktischen Fehler Haralds,
+— kaum wurde es dunkel, als er blitzschnell den Riegel
+zurückgestoßen und die Tür ganz weit aufgerissen hatte, —
 im Nu war er nach rechts um den Kajütaufbau herum …
 
 Das Sonnenlicht fiel in die Staatskabine hinein, und
-drüben der eine Chinese hockte schon. hinter dem KPugelspucker
+drüben der eine Chinese hockte schon hinter dem Kugelspucker
 und visierte …
 
-Wir standen im Hellen, wir waren. so verblüfft, daß
+Wir standen im Hellen, wir waren so verblüfft, daß
 wir uns nicht regten.
 
-Dann schob Harst mich; jedoch beiseite, war mit zwei
-
+Dann schob Harst mich jedoch beiseite, war mit zwei
 Sätzen vor Mr. Rutterfield, packte ihn am Kragen und stieß
 <@pagebreak/>
-ihn vor Ich her in die Reimte, schlug die Für zu und rief:
-… »Litt«
-Grablays Feuerzeug« funkte, dann wurde es hell, die
+ihn vor sich her in die Kajüte, schlug die Tür zu und rief:
 
-Zaun? brannte wieder.
-Harst Halte Unterlief? bereits die Zöänve auf dem Rücken
+»Licht!«
 
-gefesselt, und der Heer im tadeüvcien Säugling hatte vor
-Ucberrahkhung und Schreck keine Silbe dazu gesagt.
+Grablays Feuerzeug funkte, dann wurde es hell, die
+Lampe brannte wieder.
 
-Nun aber legte er so:
+Harst hatte Rutterfield bereits die Hände auf dem Rücken
+gefesselt, und der Herr im tadellosen Smoking hatte vor
+Überraschung und Schreck keine Silbe dazu gesagt.
 
-»Weise Herren, hier muß ein äußerst bedauerlicher Irr«
-zum obwalten …«
+Nun aber legte er los:
 
-»Schraut so,« sagte Harst trod’en,
+»Meine Herren, hier muß ein äußerst bedauerlicher Irrtum
+obwalten …«
+
+»Scheint so,« sagte Harst trocken,
 
 »Allerdings,« ereiferte sich Rutterfield, »Frau de la
-Rosa und ich befinde zu und genau in derselben traurigen
-Lage wie Sie …
+Rocka und ich befinden uns genau in derselben traurigen
+Lage wie Sie …«
 
-»Ah nein?! Wirklich er« — und ’Harst lachte ihm ins
+»Ah nein?! Wirklich?!« — und Harst lachte ihm ins
 Gesicht.
 
-Grablays rief da, — und er gab nur Buckel und meinen
+Grablays rief da, — und er gab nur Lückes und meinen
 Gedanken Ausdruck:
 
-»Über Harst, — das geht denn doch 31 weit … Wollen
-Sie wirklich als sicher annehmen, daß Rutterfield Bad die
-Dame mit den Gelben gemeinsame Sache gemacht haben Yk
+»Aber Harst, — das geht denn doch zu weit … Wollen
+Sie wirklich als sicher annehmen, daß Rutterfield und die
+Dame mit den Gelben gemeinsame Sache gemacht haben?!«
 
-Harst sagte achselzuckend: —
+Harst sagte achselzuckend:
 
-— »Sie sind für ein gemäßigtes Tempo, Oberinspektor …
-Gut, setzen Sie sich, Mr. Rutterfield, und betrachten As
+»Sie sind für ein gemäßigtes Tempo, Oberinspektor …
+Gut, setzen Sie sich, Mr. Rutterfield, und betrachten Sie
 sich als unseren Gast … Das Taschentuch um die Handgelenke
 wird sie ja vorläufig nicht weiter stören, hoffe
+ich …«
 
 Es klopfte — eine schrille Stimme schrie draußen:
 
 »Gebt ihn heraus!! Sonst schießen wir!!«
+
 Harst brach in ein nicht ganz echt klingendes Gelächter
+aus.
 
 »Ihr sollt ihn haben, aber nur unter einer Bedingung,«
-rief er und öffnete die Tür ein breites Stücke und streckte
+rief er und öffnete die Tür ein breites Stück und streckte
 die Hand mit der Pistole dem dreckigen Chinesen entgegen,
 der hier den Kapitän zu spielen schien.
-aus.
 
 <@pagebreak/>
 Der Kerl prallte zurück … Ich könnte durch die Türspalte
-gerade noch einen Bück’ auf Frau Grazias Gesicht
-werfen. Sie saß jetzt aufrecht 56, die Höre Herein, und sie
-hatte die Hände auf die Vornüber gekauft und glich mit der!
-halb gedachten Kopf einem sprungbereiten Märchen mit vorläufig
-noch eingezogenen Krallen. Spie Züge Furcht Bergmann
+gerade noch einen Blick auf Frau Grazias Gesicht
+werfen. Sie saß jetzt aufrecht da, die schöne Kreolin, und sie
+hatte die Hände auf die Armstützen gelegt und glich mit dem
+halb geduckten Kopf einem sprungbereiten Kätzchen mit vorläufig
+noch eingezogenen Krallen. Ihre Züge waren genau
 so gespannt, — sie verfolgte die Vorgänge mit eindeutigem
-groteske, — und was ich erwartet halte, Gesicht Million.
-ie schnellte hoch, sie rannte mit der Bachufer gegen den
-Chinesen, der bereits wieder in Sicht gekommen. war, sie
-rx bei uns und sank mit einem theatralischer Seufzer
-und einem fremden Spruch auf die Babordbank.
+Interesse, — und was ich erwartet hatte, geschah wirklich.
+Sie schnellte hoch, sie rannte mit der Schulter gegen den
+Chinesen, der bereits wieder in Sicht gekommen war, sie
+war bei uns und sank mit einem theatralischer Seufzer
+und einem fremden Spruch auf die Backbordbank.
 
-»M … Gerettet]! Diese Erpresser!! Meine Herren, ich
+»… Gerettet!! Diese Erpresser!! Meine Herren, ich
+bin glücklich …«
 
-in Billion …
-Harst schloß »die Tür und schob den Riegel vor.
-— »So, mehr wollte ich nicht, :— Sie wollte ich, Frau de
+Harst schloß die Tür und schob den Riegel vor.
 
-Note, — seien Sie uns herzlichst willkommen.«
+»So, mehr wollte ich nicht, — Sie wollte ich, Frau de
+la Rocka, — seien Sie uns herzlichst willkommen.«
 
 Lücke suchte in unserer Reiseapotheke, ganz Kavalier,
-ich einem Belebungsmittel. Grazia markierte einen Schwächenfall,
-aber im fand, daß ihre schauuspieleriscze Begabung
-echt gering war.
+nach einem Belebungsmittel. Grazia markierte einen Schwächenfall,
+aber ich fand, daß ihre schauspielerische Begabung
+recht gering war.
 
-»Bemühen Sie sich nicht, lieber Lücke,« meinte Harrt
+»Bemühen Sie sich nicht, lieber Lücke,« meinte Harst
 immer in demselben fast peinlichen ironischen Tone. »Wir
-wollen das Theater nicht voll dadurch eindrucksvoller gestalten,
+wollen das Theater nicht noch dadurch eindrucksvoller gestalten,
 daß wir uns dem kleinen Ensemble einfügen. Mr.
-Nutterfield als Heldentenor und Frau de la Rocka genügen,
+Rutterfield als Heldentenor und Frau de la Rocka genügen,
 letztere erfreut uns zur Zeit durch eine Wiedergabe der
-Szene aus Kabale und Liebe, in der …
+Szene aus Kabale und Liebe, in der …«
 
 Ein Riechsalz hätte nicht so prompt gewirkt wie diese
-beißenden Säße.
+beißenden Sätze.
 
 Die Kreolin fuhr empor …
 
 »Mein Herr, Sie sind kein Gentleman!«
 
 »Meine Gnädige, mein Name ist Harst, Harald Harst,
-ein: Abenteurer, ein Sucher von Sensationen und Senssjatiönchen,
+ein Abenteurer, ein Sucher von Sensationen und Sensatiönchen,
 ein Praktikus durch jahrzehntelange Übung, ein
 <@pagebreak/>
 leidlicher Menschenkenner und ein vorzüglicher Beobachter,
-ohne mir schmeicheln zu vollen … — Bitte, erzählen Sie
-Ihren Leiben&ioman, Sie finden dankbare Zuhörer. Oberinspektor
-Brabbelte besonders …«
+ohne mir schmeicheln zu wollen … — Bitte, erzählen Sie
+Ihren Leidensroman, Sie finden dankbare Zuhörer. Oberinspektor
+Grablay besonders …«
 
-Reich Rutterfield lautete recht anmaßend und die.
+Percy Rutterfield sagte so recht anmaßend und die
 Umstände völlig verkennend: »Bitte, nehmen Sie mir die
-Fessel ab — schleunigst!!« Und er warf Harst einen umstand
+Fessel ab — schleunigst!!« Und er warf Harst einen unglaublich
+geringschätzigen Blick zu,
 
-lich geringschätzigen wie zu,
-»Sah dem Roman, nicht vorher,« erklärte Harst verletzt«-
-ruhig. »Daß Frau da farblose in »dieser Kunst Toilette
-
-nicht eine Spazierfahrt unternommen hat, Du H sofort, …
-als das erste Guck’ los fertig war, Vielleicht el Sie zu,
-Mr. Ruatterfield, daß Sie ein Löchlein zum Entschlüpfen«
-bereit haben, ich fürchte sehr, die Nase Nepal bereits zu.
-—» Frau de la Nee, bitte. — — Bericht: Nie kamen
-Sie auf nie Lady Hamilton?«
+»*Nach* dem Roman, nicht vorher,« erklärte Harst seelenruhig.
+»Daß Frau de la Rocka in dieser grande Toilette
+nicht eine Spazierfahrt unternommen hat, wußte ich sofort,
+als das erste Guckloch fertig war. Vielleicht sehen Sie zu,
+Mr. Rutterfield, daß Sie ein Löchlein zum Entschlüpfen
+bereit haben, ich fürchte sehr, die Falle klappe bereits zu.
+— Frau de la Rocka, bitte. — — Bericht: Wie kamen
+Sie auf die Lady Hamilton?«
 
 »Durch brutale Gewalt!« rief sie mit flammenden Augen,
-und der Temperamentksan&8bruch war echt,
+und der Temperamentsausbruch war echt,
 
 <@pagebreak/>
 
-2\. Spiel.
-Die Pestdschunke,
+<h2>4. Kapitel.</h2>
 
-GSudländerinnen pflegen persönliche Erlebnisse in breitester
+<h3>Die Pestdschunke,</h3>
+
+Südländerinnen pflegen persönliche Erlebnisse in breitester
 Form mit vielen unnötigen Abschweifungen vorzutragen,
 Grazia de la Note hat dies nicht. Sie wog sagte jedes
 Vor« vorsichtig ob, sie hatte sich in dieser Beziehung verblüffend
 gut in der Gewalt. Es machte den Eindruck?!, als
-ob sie die Dinge möglichst unparteiisck schildern und ihre
+ob sie die Dinge möglichst unparteiisch schildern und ihre
 eigene Ansicht um jeden Preis zurückstellen. wollte.
 
 Sie war, so erzählte sie, am vergangenen Abend bei
@@ -2218,14 +2203,14 @@ den in Terrassen zum Meere abfallenden Garten ganz
 Graubart, Sie befand sich in gedrückter Stimmung, und
 18 Treiben in dem Salon, wo getanzt wurde, war 7hr
 unerträglich, Vis sie die Gartenpforte erreicht hatte, geh
-sollte sich Mr. Nutterfield zu ihr, der gleichfalls, da zufällig
+sollte sich Mr. Rutterfield zu ihr, der gleichfalls, da zufällig
 in Hamburg anwesend, von dem Konsul erst nachmiticgßs
 eingeladen worden war. Rutterfield machte ihr den
 Vorschlag, die zum Strande hinabzugehen, wo gerade ein«
 geboren? Fischer mit ihrer plumpen Barke gelandet waren
 und ihren Fang in Fischkästen taten. Sie lehnte ad, sie
 wolle nicht allzu lange der Gesellschaft fernbleiben, und
-Rutterfield ließ sie dann in taktwollster Weise allein, da
+Rutterfield ließ sie dann in taktvollster Weise allein, da
 er wohl merkte, daß sie zu einer gleichgültigen Unterhaltung
 nicht aufgelegt sei. Er verließ den Garten und stieg über die
 Felsen zum Strande herab, wo er in der Nähe des Bootes
@@ -2255,7 +2240,7 @@ hatte Scheck und Brief schreiben sollen, auch er hatte sich
 geweigert und die gelben Schufte ausgelacht, Er erklärte
 ihr, sie beide dürften auf keinen Fall nachgeben, die Erpresser
 würden es nicht wagen, Zwan&sämltel anzuwenden,
-— In der Tat schien Nutterfields Auftreten die Banditen unsicher
+— In der Tat schien Rutterfields Auftreten die Banditen unsicher
 gemacht zu haben. Man wies Grazia im Vorschiff
 den besten Raum an und gewährte ihr und ihrem Weiberrock«
 Gefährten volle Bewegungsfreiheit, Trotzdem wurden beide
@@ -2280,7 +2265,7 @@ uns flüchten.
 
 So weit Frau de la Rede.
 
-Reich Nutterfield bestätigte ihre Angaben und hakte
+Reich Rutterfield bestätigte ihre Angaben und hakte
 seinerseits nichts hinzuzufügen.
 
 Die Zwischenfragen, die Grablay und Lücke einstreuten,
@@ -2289,7 +2274,7 @@ fiel mir auf. Ich kenne ihn ja am besten. Er sann
 offenbar angestrengt über irgend etwas nach, sein Gesichtsausdruck
 änderte!ich dann und verriet eine gewisse Verlegenheit.
 
-Tag merkte, wie peinlich es ihm war, gegen Nutterfield
+Tag merkte, wie peinlich es ihm war, gegen Rutterfield
 so, ungerecht vorgegangen zu sein, und als er nun
 offen bekannte, durch völlig verfehlte Schlußfolgerungen zu
 diesem schlossen Benehmen gegen Rutterfield bestimmt war
@@ -2302,7 +2287,7 @@ verkneifen, klopfte ihm an die Schulter und meinte schließend:
 »Hinglitt ist besser als Bockbeinigkeit, Harst! Zum Glück
 
 Sie nicht an diesem Fehler. Sie glaubten, Mr.
-Nutterfield stehe mit den Gelben unter einer Decke, — na,
+Rutterfield stehe mit den Gelben unter einer Decke, — na,
 Schwamm drüber.«
 — Lücke lehnte an der Wand und. lächelte seltsam. Er
 war der einzige, der jetzt sehr Stil wurde und sich in keiner
@@ -2312,7 +2297,7 @@ wundern könnten, bereits.:te,
 
 E82 war jetzt zwölf Uhr: mittags. + Unsere Loge war.
 
-nie! gerade verheißungsvoll. Nutterfield erklärte, daß im
+nie! gerade verheißungsvoll. Rutterfield erklärte, daß im
 ganzen ne!: Seide »an Lord seien. Wenn das Maschinen«
 Gewehr — nicht so bedrohlich; bereitstände, würde man j? die
 Kerle einzeln abschießen hingen,
@@ -2390,7 +2375,7 @@ wir treffen, aber die nächsten Schüsse müssen den Patronengurt-ausschalten,
 — »Und ob!« grinste Lücke fidel. Die Kugelspritze hat
 dann keinen Abzug mehr und ist erledigt …
 
-Nutterfield wurde unruhig. »Hoffentlich schießen Sie nicht
+Rutterfield wurde unruhig. »Hoffentlich schießen Sie nicht
 daneben … Wenn die Kerle in Falle des Mißlingens
 uns unter Feuer nehmen, sind wir geliefert. Ich« würde doch
 
@@ -2412,7 +2397,7 @@ anderes als Wut.«
 
 »Wie Sie wünschen … — +« — und sie 1U…Hm auf dem
 Bastteoppich Platz, streckte ist lang, stütze Die Arme auf
-und ließ sich von Nutterfield Feuer geben und wachte
+und ließ sich von Rutterfield Feuer geben und wachte
 gleichfalls …
 
 Ich lag neben ihr. Sie blinzelte mir zu und flüsterte, ohne
@@ -2431,7 +2416,7 @@ Kugeln legten durch« die Wände, alle div zu so.
 Und die nächsten drei Schüsse ließen die Spritze draußen
 verstummen.
 
-Nutterfield rief begeistert: »Glänzend, meine Herren, —
+Rutterfield rief begeistert: »Glänzend, meine Herren, —
 —» nun werden wir die Kerle schon fassen.«
 Harst sagte merklich enttäuscht: »Oder auch nicht …
 Sie haben auf die Dschunke zugehalten, sie sind bereits dicht
@@ -2587,7 +2572,7 @@ er sich nur deshalb vorher selbst zum Schein am Ostrande
 überfallen ließ …«
 
 Sie schaute auch nicht ein einziges Mal zu Pech
-Nutterfield hinüber, der Dreck und unbekümmert mit Indern
+Rutterfield hinüber, der Dreck und unbekümmert mit Indern
 Lächeln an der Reling stand und mit einem Tauende spielte.
 Er versuchte nicht im geringsten, die gegen ihn gerichteten
 Angriffe abzuschwächen, er sagte nur in heraus&sorderndem
@@ -2608,7 +2593,7 @@ Nautterfield das holde Köpfchen verdrehen … Ich war da.
 malt in Europa, nachher war’s zu spät, ich siedelte nach
 Turbane über, ich behielt Maitu San stets im Auge. Ich
 habe nie an ihren Jod geglaubt, ich brauchte viele Monate,
-nur Nutterfield hinter seine Schliche zu kommen. Er hatte
+nur Rutterfield hinter seine Schliche zu kommen. Er hatte
 unter seinen Fahrzeugen, mit denen er seine Plantagenerzeugnisse
 versetzte, auch eine Dschunke, auf der nachher
 die Pest ausbrach. Er flüchtete von Bord, als die ganze
@@ -2642,7 +2627,7 @@ ich es so eilig. Mir lag daran Arena Hans neues Versteck
 zu entdecken, — ich war Zeuge des- Überfalles auf Frau
 
 la ’NoJa, die Fischer am Strande gehörten mit zu
-Nutterfields Gesindel, aber meine eigene Jacht lag bereit
+Rutterfields Gesindel, aber meine eigene Jacht lag bereit
 und folgte mit abgeblendeten Lichtern der Lady Hamilton…
 die südlichen Kurs nahm. Mein Ausguckmann entdeckte weit
 voraus die Dschunke, wir umfuhren die Lady Hamilton und
