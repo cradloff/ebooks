@@ -4,7 +4,7 @@
 
 <h3>Mac Alferlan aus Indien †</h3>
 
-Harsts plötzliche Vorliebe für die kleine Konditorei in der Nähe des Ringsbahnhofs Hohenzollerndamm war stark verdächtig. »Der Kaffee und der Kuchen sind vorzüglich, und die Pasteten noch besser,« sagte er wiederholt, — natürlich faule Ausrede. Gerade er wird kaum halbe Tage auf einem Fensterplatz inmitten schwatzender Menschen ausharren. Für Süßigkeiten hat er schon gar nichts übrig.
+Harsts plötzliche Vorliebe für die kleine Konditorei in der Nähe des Ringbahnhofs Hohenzollerndamm war stark verdächtig. »Der Kaffee und der Kuchen sind vorzüglich, und die Pasteten noch besser,« sagte er wiederholt, — natürlich faule Ausrede. Gerade er wird kaum halbe Tage auf einem Fensterplatz inmitten schwatzender Menschen ausharren. Für Süßigkeiten hat er schon gar nichts übrig.
 
 Das ging so volle fünf Tage lang. Einige Male hatte ich ihn begleitet, um herauszufinden, wen und was er dort beobachtete. Schließlich brachte mich ein Zufall der Wahrheit nahe, denn von ihm selbst war nichts zu erfahren. Es gibt eben Zeiten, wo er seine Geheimniskrämerei bis zu bockbeinigster Verschlossenheit treibt.
 
@@ -44,7 +44,7 @@ Was der alte Knork mir von diesem Inder mitteilte, erschien recht widerspruchsvo
 
 »Haben Sie das alles auch Harst geschrieben?« fragte ich etwas unvorsichtig.
 
-Er blieb stehen. Er hatte Augenbrauen wie Hängeschnurbärte, und unter diesem grauen Behang hervor warf er mir einen spöttischen Blick zu.
+Er blieb stehen. Er hatte Augenbrauen wie Hängeschnurrbärte, und unter diesem grauen Behang hervor warf er mir einen spöttischen Blick zu.
 
 »Kiek mal, min Söhn, — also belögen hättst du den ollen Knork! Keen Schimmer hättst du von den Brief, du oll Swindler, du …!« Er markierte den erbosten Leu, lenkte aber sofort wieder ein. »Na, nichts för ungaut, Mäxchen Schraut, — ich weiß ja, der Harald ist so einer von die janz feine Diplomatens oder Diplomingenieurs, — das muß doch wohl so halb dasselbe sein, nämlich vorn … Also er hat Ihnen den Brief verschwiegen. Dann können Sie mir auch gar nicht sagen, ob er in der Angelegenheit bereits irgendwelche Schritte unternommen hat, nicht wahr?« — Knorks Deutsch war genau so wunderlich wie der ganze Mann.
 
@@ -124,7 +124,7 @@ War Goßwarra (kein Inder verläßt so leicht seine Märchenheimat) nur Mac Alfe
 
 Eine dunkelblaue Benzlimousine fuhr vor der Konditorei vor. Ein junger Chauffeur sprang ab und half einer verschleierten Dame heraus, die mühsam mit tastenden Schritten in den Vorgarten kam und sich mit einem leisen Seufzer in einen Korbsessel fallen ließ — eine Kranke oder Genesende.
 
-Ich saß dich dabei.
+Ich saß dicht dabei.
 
 Sie sagte zu dem Chauffeur in einem leicht fremd klingenden Deutsch: »Parken Sie wieder drüben, Krüger … Nach einer halben Stunde holen Sie mich ab.«
 
@@ -219,7 +219,7 @@ Ein leiser Aufschrei folgte, dann klappte abermals eine Tür.
 
 Ich zögerte nicht lange.
 
-Ich läutete … — Flinke Schritte … »Wer es dort?« … Und ich: »Kaufmann Schmiedecke … Herr Balk ist hoffentlich daheim.«
+Ich läutete … — Flinke Schritte … »Wer ist dort?« … Und ich: »Kaufmann Schmiedecke … Herr Balk ist hoffentlich daheim.«
 
 Die Flurtür öffnete sich, und vor mir stand ein überschlankes blondes Mädel mit halb keckem, halb melancholischem Gesichtel.
 
@@ -345,7 +345,7 @@ Der Käpten war ziemlich kleinlaut. »Wissen Sie, Mäxchen, — wem galt das nun
 
 Er nickte versonnen. »Schon möglich …« Und noch grüblerischer fügte er hinzu: »Der Herr Legationsrat von Binger, Ehrhard<@refnote 4/> mit Vornamen, besitzt ein blaues Auto, und es ist auch ein Benz, der Stern oben am Kühler macht gerade die Marke leicht erkennbar. Überhaupt — — Binger!!« — und diesen Schlußworten folgte ein unverständliches Brummen.
 
-»Ich warf ihm einen forschenden Blick zu. »Haben Sie etwas gegen Binger?«
+Ich warf ihm einen forschenden Blick zu. »Haben Sie etwas gegen Binger?«
 
 Seine Knollennase zog sich wie bei einem Kaninchen kraus. »Mac war mein Freund, und Frau Susi war nicht meine Freundin, ich bin ihr nicht fein genug, ich habe keine polierten Fingernägel und trage Gummikragen und selten Manschetten, Oberhemden schon gar nicht, ich finde, ein Brettchen vor der Brust genügt … Na und Ehrhard von Binger, erst recht patente Nummer, Seidensocken, Lackpotten … er poussierte mit Susi, und wenn ich zu Mac kam, war ich dem Pärchen im Wege, — Binger sollte lieber um seine kranke Frau sich kümmern … Ihr Geld hat er eingesäckelt und verpulvert, sagt man, sie sollen bis an den Hals in Schulden stecken …«
 
@@ -355,7 +355,7 @@ Ich hatte sofort an die hüstelnde, heisere Schwindsüchtige gedacht. »Knork, i
 
 »Wie Inderin?!«
 
-»Weshalb fahren Sie deshalb so aus der Haut, Schrautchen? Frau von Binger stammt wohl aus Indien, aber sie lebte in London, und dort lernte Binger sie kennen und … lieben, na ja: Ein Mädchen mit vierzigtausend Pfund Vermögen und ohne jeden Anhang, Waise, klug, gebildet, sehr hübsch und vornehmen, bevor sie erkrankte, — da schnappt jeder Hecht zu, es glitzerte ja nach Gold …«
+»Weshalb fahren Sie deshalb so aus der Haut, Schrautchen? Frau von Binger stammt wohl aus Indien, aber sie lebte in London, und dort lernte Binger sie kennen und … lieben, na ja: Ein Mädchen mit vierzigtausend Pfund Vermögen und ohne jeden Anhang, Waise, klug, gebildet, sehr hübsch und vornehm, bevor sie erkrankte, — da schnappt jeder Hecht zu, es glitzerte ja nach Gold …«
 
 Wir bogen in den Feldweg zwischen Blücherstraße und Laubenkolonie Kolberg ein. Die Kleingärtner waren noch eifrig bei der Arbeit, ich kannte jeden einzelnen, man rief mir Grüße zu, und der alte Remmle, der seine Parzelle gerade gegenüber unserem Gemüsegarten hatte, trat an den Zaun und drückte mir die Hand … »Hören Sie, Herr Schraut, — da war so ’n Lümmel bei Ihnen im Garten und wollte Ihre Kürbisse klauen … Sie müssen die Hinterpforte verschlossen halten und besser aufpassen …«
 
