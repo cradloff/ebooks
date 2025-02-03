@@ -31,7 +31,7 @@ Erbe war nicht denen zugefallen, die als gesetzliche
 Nachlaßberechtigte in Bereitschaft gehalten worden waren.
 
 <@pagebreak/>
-Ich halte das Körbchen. Als ich der dicken Mathilde,
+Ich holte das Körbchen. Als ich der dicken Mathilde,
 die gerade in der Küche das Frühstücksgeschirr wusch, von
 dem Eiersegen berichtete, sagte sie prompt: »Dann gibt’s zu
 Mittag Bauernfrühstück … Wir haben Waschtag, und jroße
@@ -77,8 +77,8 @@ Das Ganze lautete:
 1. Geehrte Herren, ich bin man bloß ein armer
 Schlosserlehrling und wohne hier bei Großmuttern als
 nicht jern gesehener Jast.
-
 <@pagebreak/>
+
 2. Großmutter wohnt janz dicht bei der Beusselstraße.
 Vielleicht kennen Sie sie gar nicht. Das ist auch
 ein Ringbahnhof, und Plötzensee ist ziemlich nahe.
@@ -92,19 +92,19 @@ Radioapparat, so ne alte Klamotte mit zwei Röhren
 und Schwenkspulen.
 
 4. Ich hab mir jedacht, die Eier werden Sie mehr
-interessieren als meine miese Persönlichkeit. Also: Mit
+interessieren als meine mieße Persönlichkeit. Also: Mit
 dem Radiokasten hör’ ich immer so um Uhre elf am
 Dienstag und Freitag abend, wenn Berlin nicht sendet,
 so komische Rückkopplungspfiffe.
 
 5. Ich lese Ihre Bücher sehr jern, und weil Sie
-darin öfters das Morsealphabet erwähnt haben, hab
+darin öfters das Morsealphabet erwähnt haben, hab’
 ich mir eins besorgt, und da hab’ ich nu jemerkt, daß
 die Rückkopplungspfiffe nicht ohne Sinn sein können.
 Es sind Morsezeichen.
 
 6. Ich hab’ gestern abend folgendes mir zusammengestellt,
-was der Rückkoppler lang und kurz zusammen pfiff:
+was der Rückkoppler lang und kurz zusammenpfiff:
 »Wer immer in P. dies hört, sage Okara, daß
 die V. nicht zu finden ist. Er wird von mir für die
 Benachrichtigung Okaras 1000 Mark erhalten.«
@@ -198,7 +198,7 @@ Er zog eine Zeitung aus der Tasche.
 
 <p class="centered em">Dreitausend Mark Belohnung!!</p>
 
-»Das — sehen Sie, eine halbe Seite nimmt die Annonce
+»Da — sehen Sie, eine halbe Seite nimmt die Annonce
 ein …«
 
 <p class="centered em">Dreitausend Mark Belohnung!!</p>
@@ -385,7 +385,7 @@ springen zu lassen, solch’ eine Bude bezieht?! Sie
 hat eben gewußt, daß die beiden japanischen Hausierer bei
 Ihnen gewohnt hatten, von denen der eine, wenn ich mich
 recht besinne, entflohen ist, während der andere, wegen des
-Einbruchs bei Milenz drei Jahres bekam.«
+Einbruchs bei Milenz drei Jahre bekam.«
 
 »Stimmt,« nickte Most eifrig. »Stimmt alles. Der Flüchtige
 heißt Sakatu, er entwich aus dem Untersuchungsgefängnis
@@ -435,7 +435,7 @@ verdanke ich mein Englisch der Berlitz-Schule, genau so
 meine anderen Sprachkenntnisse.«
 
 Ich warf Most einen erstaunten Blick zu. Der merkwürdige
-Mann hatte nie mit seinen Fremdsprachen geplant.
+Mann hatte nie mit seinen Fremdsprachen geprunkt.
 
 »Sakatu bot mir für die Zimmer pro Monat hundertfünfzig
 Mark, und *der* Köder genügte. Die beiden Japaner
@@ -645,7 +645,7 @@ bei sich?«
 
 Most hob den Stock. »Ich brauche nichts weiter. Wenn
 ich damit werfe oder schlage, setzt es nicht nur Beulen.« Sein
-Affenarm und die Hand Nr. 143 bekräftigten diese Behauptung.
+Affenarm und die Hand Nr. 14 bekräftigten diese Behauptung.
 
 »Ich habe Sie gar nicht hergerufen,« erklärte Harald
 flüsternd. »Man hat uns drei nur hierher locken wollen,
@@ -746,7 +746,7 @@ auf dem jungfräulichen Bett ganz wohl gefühlt, Herr Schraut.«
 
 Gabriel betrachtete die Krücke seines Eichenknüttels und
 fügte hinzu: »Der Bursche hat zumindest Nasenbluten gehabt.
-Ich entdeckte in Kamin Blutspuren. Es wäre auch sonderbar,
+Ich entdeckte im Kamin Blutspuren. Es wäre auch sonderbar,
 wenn meine Handgranate, zumal der Kerl ganz nett vor
 Schmerz quietschte, ergebnislos geschleudert worden wäre.«
 Er schaute dann zu Harst hinüber. »Sie sind ja so still,
@@ -789,7 +789,7 @@ einen drohenden Ausdruck, in der rechten Hand so
 ein Ding, das man Scheintodpistole nennt. Hinter ihr dämmerten
 die Umrisse der Spukgestalt eines Chauffeurs, der
 einen langen Schraubenschlüssel in der Faust schwang. Gisela
-sah totschick aus. Der moderne Filzhut, Fasson Südwester,
+sah todschick aus. Der moderne Filzhut, Fasson Südwester,
 sowie der Pelzbesatz des Herbstmantels kleideten das nachgetuschte
 junge Gesicht sehr gut.
 
@@ -838,7 +838,7 @@ Veranlagung. Sie wissen nun ja, gnädiges Fräulein, daß
 wir drei durch eine Unbekannte, die sich für Gisela Milenz
 ausgab, hierher gelockt worden sind. Die Gründe sind uns
 <@pagebreak/>
-absolut unverständlich. Herr Harst, noch weniger ich sind
+absolut unverständlich. Herr Harst, noch weniger ich, sind
 zur Zeit mit irgendeinem Kriminalfall beschäftigt, der mit
 Ihrem Herrn Vater oder dieser Villa in Zusammenhang stehen
 könnte.« — Most log überzeugend, Harald hatte es ihm
@@ -925,7 +925,7 @@ Grün der Blätter … Der Herbst war wieder einmal
 da, und dieser schöne, trügerische eine Tag konnte nicht darüber
 hinwegtäuschen, daß Mutter Erde für uns zum Winterschlafe
 rüstete. Und doch — ich freute mich dieser sonnigen
-Herbststimmung mehr den je. In den Räumen der feudalen
+Herbststimmung mehr denn je. In den Räumen der feudalen
 <@pagebreak/>
 Villa dort hatte ich eigentümlich gefröstelt. Es wehte dort
 unnennbar frostige Luft. Ich hatte dies dort drinnen nicht
@@ -1009,7 +1009,7 @@ Fahrer holte aus dem klapperigen Ding das Letzte heraus.
 Harst rauchte in seiner Ecke und blickte zum Fenster
 hinaus. Die Rosenpracht am Schnittpunkt der drei Vororte
 Schmargendorf, Dahlem und Grunewald, Roseneck getauft,
-war vorhin … Harst sagte gedankenverloren: »Es
+war dahin … Harst sagte gedankenverloren: »Es
 ist ein ganz interessanter Fall, mein Alter … Es wird noch
 viele Überraschungen geben.«
 
@@ -1031,7 +1031,7 @@ so herzlich wie stets. »Du hattest nur meine Kette zerrissen.«
 <@pagebreak/>
 »Ja …«
 
-Der Fest der Fahrt verlief schweigsam, und bei Löwe
+Der Rest der Fahrt verlief schweigsam, und bei Löwe
 ging es trotz des Raubtiernamens friedlich zu. Der Schlosserlehrling
 *Paul Schimmel* war unschwer durch die Personalabteilung
 aufzustöbern. Man kam uns mit größter
@@ -1047,7 +1047,7 @@ Im Gartenhause vier Treppen, unter dem Dach, hing
 eine Papptafel an einer Flurtür:
 
 <p class="centered">Ernestine Schimmel,</p>
-<p class="centered">Sprechstunden 10—1, 4-</p>
+<p class="centered">Sprechstunden 10—1, 4—</p>
 
 Was mochte Paules Großmutter in diesen Sprechstunden
 erledigen?!
@@ -1283,7 +1283,7 @@ Als ich Harald anschaute, lachte er schmunzelnd.
 
 Ich war zuerst durchaus nicht im Bilde. Erst als Harald
 mich mit sanfter Ironie aufforderte, die Leute mir näher zu
-Betrachten, riß ich die Vorhänge zur Seite.
+betrachten, riß ich die Vorhänge zur Seite.
 
 Die Kerle saßen verdächtig regungslos genau in derselben
 Stellung wie vorhin. Sie waren ungefährlicher als Flöhe.

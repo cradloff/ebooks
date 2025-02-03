@@ -157,7 +157,7 @@ Gabriel …«
 auch die Ehre ist etwas wert.« Er sprach mit zunehmender
 Begeisterung: »Ich will denen da oben, die mich stets geduckt
 haben, die mich niemals an große Sachen heranließen, beweisen,
-daß Walther Most ein Detektiv von Klasse ist!«
+daß Gabriel Most ein Detektiv von Klasse ist!«
 
 »Bravo!«
 
@@ -188,7 +188,7 @@ wenn …« — aber den Rest verschluckte er.
 Unten vor der Haustür klopfte die Portierfrau die
 Fußmatte aus.
 
-Harst zückte den Zungen lockerer, ein Fünfmarkstück.
+Harst zückte den Zungenlockerer, ein Fünfmarkstück.
 
 »Sagen Sie mal, Sie kannten doch Herrn Mosts
 Mieterin?«
@@ -375,7 +375,7 @@ löst.«
 Milenz knickte sichtlich zusammen. »Nur das nicht, Herr
 Harst, — nur keine Mißverständnisse und keine Überempfindlichkeit,«
 bat er überstürzt. »Fragen Sie in Gottes
-Namen … Ich glaubte nur, daß die eigentümlichsten Umstände
+Namen … Ich glaubte nur, daß die eigentümlichen Umstände
 des Diebstahls Ihnen wichtiger wären als eine Ziegelruine
 nebst Unkraut und verrostetem Zaune … Kinder
 spielen jetzt dort im Hofe, und ich habe nichts dagegen …«
@@ -445,7 +445,7 @@ des Elektrizitätswerkes mit einer großen Werkzeugtasche. Daß
 wir hier Wechselstrom bekommen würden, wußte ich schon,
 und der Monteur …«
 
-»… Wie saß er aus?«
+»… Wie sah er aus?«
 
 »Etwas bucklig, blonder Spitzbart, roch nach Schnaps.
 Leider habe ich ihn mir nicht genau betrachtet.«
@@ -598,7 +598,7 @@ einer fernen Klingel hinein.
 
 Milenz hörte es nicht.
 
-»Kognak …«!« stöhnte er …
+»Kognak …!« stöhnte er …
 
 »Geh’ öffnen,« flüsterte Harald.
 
@@ -730,7 +730,7 @@ Most, Sie übertreffen sich selbst, Sie werden unbedingt
 berühmt werden. Ihre Maske ist großartig.«
 
 Engel Gabriel stieg aus dem Himmel herab und lachte
-kichernd. »Von hier aus kann im die Mörderbude tadellos
+kichernd. »Von hier aus kann ich die Mörderbude tadellos
 beobachten … Die Villa Milenz verdient keine andere Bezeichnung.
 Ich bin ihm auf der Spur, Herr Harst, ich habe
 gute Beziehungen, er ist mit dem Selbstfahrer vor zwei
@@ -773,7 +773,7 @@ Mark extra!«
 
 Diesmal hatten wir einen neuen guten Wagen erwischt.
 
-»Was willst da bei der Schimmel?« erkundigte ich mich
+»Was willst du bei der Schimmel?« erkundigte ich mich
 erstaunt.
 
 Er legte mir die Hand auf den Schenkel und blickte mich
@@ -789,7 +789,7 @@ Spiel nur gewinnen, wenn er seine Mitwisser beseitigt.«
 »Harald, wer ist’s?!«
 
 Er schwieg. — Als wir ausstiegen, sah ich drüben in einer
-Haustürnische einen elegant geleiteten jüngeren Japaner
+Haustürnische einen elegant gekleideten jüngeren Japaner
 stehen. Er mußte uns nicht recht trauen, denn er verschwand
 blitzschnell, als unsere Blicke sich kaum begegnet hatten. Sakatu
 etwa?! — Ich flüsterte Harald das Beobachtete zu,
@@ -819,7 +819,7 @@ auf … auf das Telephon aufpassen,« hauchte er. »Ich
 erzähle es nur Ihnen … Großmutter redet so oft mit …
 mit … ihm …«
 
-»Wer ist das?«,
+»Wer ist das?«
 
 Er schüttelte den Kopf. »Ich weiß nicht … Aber Großmutter
 … hat mit ihm Jeschäfte, sie nennt ihn immer nur
@@ -830,9 +830,9 @@ den »Onkel«, und …«
 »Durch den zweiten Hof und den kaputten Bretterzaun.«
 
 Harst lief die Treppen hinab. Wir fanden uns leicht
-zurecht, und wir sahen auch im Bahnhof auf einem provisorischen
+zurecht, und wir sahen auch im Fabrikhof auf einem provisorischen
 Gerüst einen fadenscheinigen Teppich hängen.
-Kinder spielten in der Nähe, — sie sagten, die Alte Schimmeln
+Kinder spielten in der Nähe, — sie sagten, die olle Schimmeln
 sei vor einer Weile nach der Fabrik gegangen … dort
 von der anderen Seite sei der Eingang.
 
@@ -1050,7 +1050,7 @@ ein Ende haben — so oder so.«
 
 Wir sprachen dann über harmlosere Dinge. In Gegenwart
 eines Brautpaares Mordtaten zu erörtern, ging wirklich
-nicht an, außerdem hätte Harald »den Mann«, ja doch
+nicht an, außerdem hätte Harald »den Mann« ja doch
 nicht näher bezeichnet. Ich hatte die Auswahl zwischen drei
 Personen: Siegfried Milenz, Sakatu oder einen anderen
 Japaner, eben den Menschen mit dem Buckel. In zweiter
@@ -1101,7 +1101,7 @@ Mann mit intelligenten Zügen und fast herrischen
 Augen. Ohne jede Verlegenheit begrüßte er Milenz, der
 mit eisiger Zurückhaltung dastand und auch Lücke kaum
 beachtete. »Wir kennen uns ja,« sagte Sakatu in fließendem
-Englisch. »Zuletzt sahen wir uns vor Gericht, … — ich als Angeklagter,
+Englisch. »Zuletzt sahen wir uns vor Gericht … ich als Angeklagter,
 Sie als Zeuge. Und heute?!«
 
 Milenz schwieg.
@@ -1325,7 +1325,7 @@ In Frau Harsts Damenzimmer im ersten Stock unseres
 Hauses steht auf einem Eichenständer eine wunderschöne
 Japanvase. Die Tonumhüllung ist entfernt. Wenn ich sie
 gelegentlich betrachte, steigen Erinnerungen in mir auf, die
-Nicht angenehmer Art sind.
+nicht angenehmer Art sind.
 
 Paule Schimmel besucht jetzt auf Haralds Kosten ein
 Technikum und hat es auch sonst sehr gut. Eine dankbarere
