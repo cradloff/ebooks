@@ -7,10 +7,10 @@
 Die Bezeichnung Kapuziner ist bekannt und berühmt.
 Die Kapuziner sind ein Zweig des großen Franziskanerordens
 und haben unter allen Mönchsorden die strengsten
-Vorschriften, Die Kapuzinerpredigt aus »Wallensteins Lager«
+Vorschriften. Die Kapuzinerpredigt aus »Wallensteins Lager«
 ist berühmt. Bekannt sind die Kapuzineräffchen, die zu der
 Familie der Rollschwanzaffen gehören. Weniger angenehm
-ist das Kapuzinerpulver, das aus Andacht, weißem Nieswurz,
+ist das Kapuzinerpulver, das aus Sabadill, weißem Nießwurz,
 Petersiliensamen und Anis hergestellt wird und gegen
 Kopfläuse (pardon) in die Haare gestreut wird. Ich hoffe,
 keiner meiner Leser wird es benötigen.«
@@ -56,20 +56,20 @@ ohnedies in Benares geschäftlich zu tun hatte,
 
 Die Personen, die in der Geschichte des Kapu Ziner
 eine Rolle spielen, habe ich jetzt bis auf drei bereits erwähnt.
-Es sollen der Hauptakteur, unser Boy Sifu uns
-der Kilo. Der Wasser Groll das gesamte Erlaubte in Sauste
-meines Berichts über die eigenartigen Vorginge, die sich um
+Es fehlen der Hauptakteur, unser Boy Sifu und
+der Miko. Der Leser soll das gesamte Ensemble im Laufe
+meines Berichts über die eigenartigen Vorgänge, die sich um
 Mr. Kapu Ziner wie Giftpflanzen rankten, noch kennen
 lernen — mit allen Eigentümlichkeiten, Schwächen, Stärken
 und … Gemeinheiten, —
 
 Ein richtiggehender Kriminalroman beginnt auf etwa
-Seite (; bis 1) mit dem nachher aufzuflärenden »Problem«,
+Seite 6 bis 10 mit dem nachher aufzuklärenden »Problem«.
 Der Held ist der Detektiv mit Sportmütze, Pfeife, Zigarette
--… und sog …
+… und so …
 
 <@pagebreak/>
--Mein Bericht beginnt auf Seite 3 mit dem großen Geheimnis,
+Mein Bericht beginnt auf Seite 3 mit dem großen Geheimnis,
 
 Wir Hatten im Kalkutta-Expreß drei Kabinen nebeneinander
 belegt. Die Wagen mit ihren vorzüglichen Lüftungsanlagen
@@ -77,32 +77,16 @@ sind das bequemste, das man den Reisenden bieten
 kann. Grablay war mit Konfekt, Blumen und allerhand sonstigen
 Aufmerksamkeiten für die beiden Damen auf dem
 Bahnhof erschienen, — wir traten die Fahrt in glänzender
-Stimmung um- 8 Uhr 10 abends an.
+Stimmung um 8 Uhr 10 abends an.
 
 Die Kabinen lagen so, wie die Skizze es zeigt. Der
 Wagen hatte, was ich schon auf dem Reisebureau gemerkt
 hatte, die ominöse Zahl 131326: Zweimal dreizehn gleich 26!!
 
--
--
--
-(»1 14&nbsp;115 116&nbsp;117i118&nbsp;1191/20121! 22 ich
+<div class="img"><img alt="Skizze des Wageninneren. Links befindet sich das Zugende, im Wagen kommen die Kabinen a / b, Nummer 14 bis 22, gefolgt von a 1 / b 1. Kabine 19 ist frei. Der Block der Kabinen ist links, unten und rechts von einem Gang umgeben. Auf der rechten Seite in Fahrrichtung befindet sich der nächste Wagen." src="01_WagenSkizze.png" style="width: 100%; height: auto;"/></div>
 
-As 7)
-
-Of 2 Kg 21 53 3.
-31 Orte
-07 —
-ZzII-itz-zt-iz-i1-1— Tisch)ich- -I
-GQ
-wo
-
-Gang
-
-» Fahrtrichtun::
-
-Die Doppelstricze bezeichnen die Türen, die einfachen
-Striche die Fenster. Wir hatten Kabinen 29, 21, 22. In h1,
+Die Doppelstriche bezeichnen die Türen, die einfachen
+Striche die Fenster. Wir hatten Kabinen 20, 21, 22. In b 1,
 dem Schaffnerabteil, war Sifu untergebracht, in b die eingeborene
 Zofe Donna Grazias.
 
@@ -111,76 +95,76 @@ ich, in 22 Lücke und James Berger. Nr. 19 war frei. 17 und
 18 hatte ein alter kranker Herr belegt, der mit seiner Pflegerin
 reiste, ein Kaufmann aus Benares, hörte ich von Sifu,
 <@pagebreak/>
-der überall schnell Bekanntschaften schloß. In 138, 15, 16
-lärmte eine Gesellschaft amerikanischen Neureicher: Vater, …
+der überall schnell Bekanntschaften schloß. In 14, 15, 16
+lärmte eine Gesellschaft amerikanischen Neureicher: Vater,
 Mutter, Sohn, Schwiegertochter und zwei halbwüchsige
 Töchter. Sie hatten einen Kofferempfänger mit und ließen
 den Lautsprecher bis nach zehn bei geöffneten Türen spielen.
 
-Als wir das Festland erreicht hatten, kam der Schaffner«
-und machte die Betten Furcht. Wir standen im Gange und
+Als wir das Festland erreicht hatten, kam der Schaffner
+und machte die Betten zurecht. Wir standen im Gange und
 unterhielten uns in bester Stimmung über allerlei Nichtigkeiten,
-Das Liebespaar Maitu San und Berger hielten.
+Das Liebespaar Maitu San und Berger hielten
 sich etwas abseits, und der hübschen Japanerin glückliche
 Augen strahlten mit dem inzwischen erschienenen Vollmond
 um die Wette,
 
 Die Landschaft, die der Zug durcheilte, war hügelig und
-zeigte weite Dschungelflächen. Erst in Kognak, wo die Südlinie
+zeigte weite Dschungelflächen. Erst in Manwad, wo die Südlinie
 nach Haidarabad abzweigt, hält der Zug zum ersten
-Male, — Gegen elf zogen die Damen sich in ihre Farbigen
+Male. — Gegen elf zogen die Damen sich in ihre Kabine
 zurück, wir Herren machten es uns bequem, ließen die Verbindungstür
 zwischen 21 und 22 offen (in der Skizze nicht
-vermerkt). rauchten und tranken zwei Flaschen dunklen Kaschmir«
-Weines, der ebenso blumig wie schwer war. Dann legten
+vermerkt), rauchten und tranken zwei Flaschen dunklen Kaschmir-Weines,
+der ebenso blumig wie schwer war. Dann legten
 wir uns nieder, ich mit einem Band Wallace, denn ohne
-Lektüre kann ich nicht einschlafen. Über die Geschichte von
+Lektüre kann ich nicht einschlafen. Aber die Geschichte von
 der gefiederten Schlange enttäuschte mich arg, in der Sache
 war kein rechter Schwung, ich drehte das Licht aus und
-wälzte mich mit dem Gesicht na; der Wand hin. Ich hatte
-das untere Bett und Trog meiner der freien Bettkante
+wälzte mich mit dem Gesicht nach der Wand hin. Ich hatte
+das untere Bett und Trotz meiner der freien Bettkante
 abgekehrten Lage sah ich mit einem Male im Dämmerschein
-des Nächtliches zwei Beine in weiten, violett-seidenen Triumphs
-sen herabtaumeln, und Harst stand mitten in der
+des Nachttisches zwei Beine in weiten, violett-seidenen Pyjamahosen
+herabtaumeln, und Harst stand mitten in der
 schmalen Kabine.
 
 Ich drehte den Kopf …
 
 »Was gibt’s?!«
 
-Er beugte sich über mich. »ich hörte etwas, mein Wer.
-Es klang wie ein Schrei …
+Er beugte sich über mich. »ich hörte etwas, mein Alter.
+Es klang wie ein Schrei …""
 
-Er hörte,
+Er horchte,
 
 <@pagebreak/>
-»-… Es kann der letzte Schmerzensschrei eines vom
-Zuge üÜberfahrenen Tieres gewesen sein, ich weiß es nicht,
+»… Es kann der letzte Schmerzensschrei eines vom
+Zuge überfahrenen Tieres gewesen sein, ich weiß es nicht.
 Der Wagen rattert stark, und ich begreife auch nicht, woher
 dieses dumpfe Dröhnen zuweilen kommt, es klingt …«
 
 Er schwieg, jemand hatte nicht allzuleise an die Tür
-gepocht, Als Harst öffnete, nicht ohne vorher die Pistole
-aus dem Nüchternes genommen zu haben, stand draußen
+gepocht. Als Harst öffnete, nicht ohne vorher die Pistole
+aus dem Kleidernetz genommen zu haben, stand draußen
 im halbdunklen Gang die Pflegerin des alten Herrn aus
-Ür, 18. —
+Nr. 18.
 
 Es war ein verblühtes Mädchen mit scharfen, harten
 Zügen, und jenem eingefrorenen Dulderlächeln, das so vielen
 gewerbsmäßigen Krankenschwestern eigen ist. Sie hatte einen
-bellen Gummimantel übergeworfen, ihr leicht ergrautes Haar
+hellen Gummimantel übergeworfen, ihr leicht ergrautes Haar
 steckte noch unter einer Netzhaube, und ihre bebenden Lippen
-vermoag;ten ’kaum das hervorzustammeln, was sie furchtbar
+vermochten kaum das hervorzustammeln, was sie furchtbar
 erschreckt hatte, als sie noch am Lager ihres halbgelähmten
-Pfleglings saß. Nach sie hatte einen Schrei gehört, aber
+Pfleglings saß. Auch sie hatte einen Schrei gehört, aber
 ganz deutlich, und sie schwor darauf, daß er aus der Nebenkabine
 gekommen sei,
 
 »Die ist unbelegt,« sagte Harst und fügte einige beruhigende
 Worte hinzu.
 
-»Kann war’s die Kabine Ihrer Damen, Mr. Harst,«
-beharrte sie verängstigt auf ihrer Behauptung. »Auch mein,
+»Dann war’s die Kabine Ihrer Damen, Mr. Harst,«
+beharrte sie verängstigt auf ihrer Behauptung. »Auch mein
 Dienstherr vernahm den Schrei …«
 
 »Woher kennen Sie meinen Namen, Miß?« wollte er,
@@ -195,35 +179,35 @@ Sie blickte nach links, nach Kabine 20 hin und gab uns
 auf diese Weise nochmals zu verstehen, daß sie fürchte,
 von dort sei der Schrei erklungen.
 
-Harald trat in den Gang und klopfte bei unseren Damen.
+Harald trat in den Gang und klopfte bei unseren Damen
 wiederholt an.
 
 <@pagebreak/>
 In demselben Moment hörten wir das Kreischen der
 Notbremse, der Zug verlangsamte sein Tempo und stand
-mit einem schrillen Aufkreischen der Brennen still. Gleichzeitig
+mit einem schrillen Aufkreischen der Bremsen still. Gleichzeitig
 öffnete sich die Tür des Schlafwagenabteils Nr. 20
 und Maitu San, die einen Kimono übergeworfen hatte,
 fiel Harst halb bewußtlos in die Arme. Ihr Gesicht war
 aschgrau und verzerrt, die Augen blickten wie die einer Irrsinnigen
 stier ins Leere, und das Einzige, das sie mühsam
-hervorbringen konnte, war ein kaum … verständliches:
+hervorbringen konnte, war ein kaum verständliches:
 »Grazia — — tot …!!« — dann verlor sie vollends das
-Bewußtsein, …
+Bewußtsein,
 
 Harst trug sie schnell in unsere Kabine, wo Berger sich
 dann um sie bemühte, während Lücke, inzwischen gleichfalls
-zur Stelle, zusammen mit dem Schaffner und dem Zugs
+zur Stelle, zusammen mit dem Schaffner und dem Zug-
 Führer die neugierigen Fahrgäste zurückhielt und den Wagen
-— es war der letzte des Einiges, abschloß.
+— es war der letzte des Zuges, abschloß.
 
-Kabine 20 wir leer. Das Fenster war zwei Handbreit
-offen, aber der Rollvorhang geschlossen. Grazia de la Yoga
+Kabine 20 war leer. Das Fenster war zwei Handbreit
+offen, aber der Rollvorhang geschlossen. Grazia de la Rocka
 war verschwunden,
 
 In der Kabine bemerkten wir nichts Auffälliges. Die
 beiden Betten der Damen — Maitu San hatte das obere
-innegehabt — waren nicht einmal besonders zerwühlt. Prozent-8
+innegehabt — waren nicht einmal besonders zerwühlt. Nirgends
 eine Spur von Blut, nirgends auch nur der geringste
 Anhaltspunkt dafür, was sie hier abgespielt haben mußte.
 Die Japanerin als Zeugin der Vorgänge war sehr bald
@@ -234,42 +218,42 @@ ihren Augen blieb dieser erschütternde Ausdruck wahnsinnigen
 Entsetzens. Sie mußte Furchtbares gesehen haben, denn
 wir kannten sie ja: Ihre Nerven besaßen eine außerordentliche
 Widerstandsfähigkeit, und um sie in einen derartigen
-Zustand zu versehen, gehörten schon Ereignisse gräßlichster
+Zustand zu versetzen, gehörten schon Ereignisse gräßlichster
 Art.
 
 Der ganze Zug wurde dann durchsucht, ebenso wurde
 <@pagebreak/>
 die Bahnstrecke zweitausend Meter zurück von hilfsbereiten
 einwandfreien Fahrgästen unter Lückes Leitung abgeschritten.
-Es war fast taghell, der Mond stand hob, und — — man.
-fand nichts — nichts! …
+Es war fast taghell, der Mond stand hoch, und — — man
+fand nichts — nichts!
 
 Harst bestand darauf, daß unser Wagen auf das Nebengeleise
-einer Zuckerfabrik geschoben und abgehängt würde,
-Bergers Einfluß war. es zu danken — er war weit über
-Bombay hinaus bekannt —, daß auch Künstliche Fahrgäste
+einer Zuckerfabrik geschoben und abgehängt würde.
+Bergers Einfluß war es zu danken — er war weit über
+Bombay hinaus bekannt —, daß auch sämtliche Fahrgäste
 sich legitimierten und persönlich in eine Liste eintragen mußten.
-Die Insassen der Kabinen 17, 18 und 13, 15, 16 wurden
+Die Insassen der Kabinen 17, 18 und 14, 15, 16 wurden
 anderswo untergebracht. Die amerikanischen Neureichs
-schimpften und benahmen Sir) geradezu pöbellyzaft, und der
+schimpften und benahmen sich geradezu pöbelhaft, und der
 alte kranke Herr aus Benares war auch nicht gerade sehr
 liebenswürdig, als er sein Bett verlassen und seine Beobachtungen
 — ebenso seine Pflegerin — zu Protokoll
 geben mußte.
 
-Nach) einem Aufenthalt von einer halben Stunde dampfte
+Nach einem Aufenthalt von einer halben Stunde dampfte
 der Zug ohne uns davon,
 
 Während Lücke nun den Fabrikbesitzer heraustrommelte,
 um nach Bombay an Grablay zu telephonieren (im Tale
 hinter der Zuckerfabrik lag eine ausgedehnte Ortschaft, sie
-hieß Jalnaroa), — während Berger bei der hilflosen Maitu.
-San blieb, gingen wir leise nochmals die Geleise entlang,
+hieß Jalnaroa), — während Berger bei der hilflosen Maitu
+San blieb, gingen wir beide nochmals die Geleise entlang,
 da Harald inzwischen berechnet hatte, daß der Schrei zumindest
 dreitausend Meter vor der Fabrik ertönt sein müsse.
 
-»Was hältst du von der Sache?« fragte ich nach einen
-Weile, da Harald absolut stumm neben mir her schritt! und die
+»Was hältst du von der Sache?« fragte ich nach einer
+Weile, da Harald absolut stumm neben mir her schritt und die
 Augen überall hatte.
 
 Wir gaben sehr scharf auf die Umgebung acht. Wir
@@ -277,7 +261,7 @@ hatten eine Karbidlaterne mit, die wir im Schaffnerabteil
 entdeckt hatten, und uns wäre kaum ein Blutfleck oder sonst
 etwas entgangen,
 
-Harst erwiderte, ohne die Zigarette aus dem Munde 31
+Harst erwiderte, ohne die Zigarette aus dem Munde zu
 nehmen: »Bevor wir nicht Maitu Sans Aussage haben,
 läßt sich überhaupt keine Ansicht äußern. Maitu Sans Nerven
 <@pagebreak/>
@@ -289,47 +273,48 @@ hin — mehr als das! Wenn er auch schändlich an ihr gehandelt
 hatte, Sie war erstaunlich beherrscht damals. Und
 heute?!«
 
-»Du meinst doch nicht, daß sie …
+»Du meinst doch nicht, daß sie …"
 
-»—. sie schauspielerte, — ja, « das meine ich, lieber
-Alter, und der Seidenschal, den sie um den Hals gen
-— schlugen hatte, gefiel mir auch nicht. Ich fürchte, wenn,
+»... sie schauspielerte, — ja, das meine ich, lieber
+Alter, und der Seidenschal, den sie um den Hals ge-
+schlugen hatte, gefiel mir auch nicht. Ich fürchte, wenn
 der Schal abgenommen wird, werden wir etwas Belastendes
 zu sehen bekommen.«
 
-»Was 71«
+»Was ?!«
 
 »Ich denke Würgemale …«
 
 Ich blieb stehen. »Du glaubst, daß Maitu San selbst …«
 — nein, der Gedanke war denn doch zu absurd.
 
-»Ich glaube, daß das da vor uns unser Sifu ist. Dxr
+»Ich glaube, daß das da vor uns unser Sifu ist. Der
 Bengel muß natürlich wieder auf eigene Faust sich betätigen.«
 
-Sifu saß am Abhang neben den Geleisen. Die Bahnstred’a
+Sifu saß am Abhang neben den Geleisen. Die Bahnstrecke
 Führte hier durch einen Einschnitt, und oben auf den Rändern
 der Anhöhen waren Zäune zu erkennen, hinter denen
 Kühe und Ziegen neugierig die Köpfe nach der grellen
-Karbidlaterne auftreten.
+Karbidlaterne ausreckten.
 
-Sifu, in sauberem Khaki Anzug mit versilberten Knöpfen,
-»auf die er besonders stolz war, erhob sich aus dem Grase,
+Sifu, in sauberem Khaki-Anzug mit versilberten Knöpfen,
+auf die er besonders stolz war, erhob sich aus dem Grase,
 und sagte mit pfiffigem Grinsen in seinem altklugen Jungengesicht:
 »Ich habe nichts angerührt, Missu Harst … Dort
 Liegt Maitu Sans japanischer Dolch: in dem kleinen Gestrüpp,
 und fünfzig Meter weiter zurück ist eine kleine langgezogene
-Blutspur zwischen den Gesellen zu sehen.«
+Blutspur zwischen den Geleisen zu sehen.«
 
 »Das freut mich aufrichtig,« nickte Harst plötzlich sehr
 Lebhaft. »Der Dolch genügt … Aber das Blut möchte
 ich mir ansehen.«
+
 <@pagebreak/>
 Weshalb ihn etwas erfreuen konnte, das doch nur
-einen Beweis gegen Maitu San darstellte, begriff ich nachts
+einen Beweis gegen Maitu San darstellte, begriff ich nicht
 recht.
 
-<h2>9. Kapitel.</h2>
+<h2>2. Kapitel.</h2>
 <h3>Der erste Verdacht.</h3>
 
 Sifu, unser Chinesenboy, hatte früher vollkommen unter
