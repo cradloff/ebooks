@@ -86,7 +86,7 @@ hatte, die ominöse Zahl 131326: Zweimal dreizehn gleich 26!!
 <div class="img"><img alt="Skizze des Wageninneren. Links befindet sich das Zugende, im Wagen kommen die Kabinen a / b, Nummer 14 bis 22, gefolgt von a 1 / b 1. Kabine 19 ist frei. Der Block der Kabinen ist links, unten und rechts von einem Gang umgeben. Auf der rechten Seite in Fahrrichtung befindet sich der nächste Wagen." src="01_WagenSkizze.png" style="width: 100%; height: auto;"/></div>
 
 Die Doppelstriche bezeichnen die Türen, die einfachen
-Striche die Fenster. Wir hatten Kabinen 20, 21, 22. In b 1,
+Striche die Fenster. Wir hatten Kabinen 20, 21, 22. In b&nbsp;1,
 dem Schaffnerabteil, war Sifu untergebracht, in b die eingeborene
 Zofe Donna Grazias.
 
@@ -110,7 +110,7 @@ Augen strahlten mit dem inzwischen erschienenen Vollmond
 um die Wette,
 
 Die Landschaft, die der Zug durcheilte, war hügelig und
-zeigte weite Dschungelflächen. Erst in Manwad, wo die Südlinie
+zeigte weite Dschungelflächen. Erst in Manmad, wo die Südlinie
 nach Haidarabad abzweigt, hält der Zug zum ersten
 Male. — Gegen elf zogen die Damen sich in ihre Kabine
 zurück, wir Herren machten es uns bequem, ließen die Verbindungstür
@@ -197,8 +197,8 @@ Bewußtsein,
 
 Harst trug sie schnell in unsere Kabine, wo Berger sich
 dann um sie bemühte, während Lücke, inzwischen gleichfalls
-zur Stelle, zusammen mit dem Schaffner und dem Zug-
-Führer die neugierigen Fahrgäste zurückhielt und den Wagen
+zur Stelle, zusammen mit dem Schaffner und dem Zugführer
+die neugierigen Fahrgäste zurückhielt und den Wagen
 — es war der letzte des Zuges, abschloß.
 
 Kabine 20 war leer. Das Fenster war zwei Handbreit
@@ -273,15 +273,15 @@ hin — mehr als das! Wenn er auch schändlich an ihr gehandelt
 hatte, Sie war erstaunlich beherrscht damals. Und
 heute?!«
 
-»Du meinst doch nicht, daß sie …"
+»Du meinst doch nicht, daß sie …«
 
-»... sie schauspielerte, — ja, das meine ich, lieber
-Alter, und der Seidenschal, den sie um den Hals ge-
-schlugen hatte, gefiel mir auch nicht. Ich fürchte, wenn
+»… sie schauspielerte, — ja, das meine ich, lieber
+Alter, und der Seidenschal, den sie um den Hals geschlungen
+hatte, gefiel mir auch nicht. Ich fürchte, wenn
 der Schal abgenommen wird, werden wir etwas Belastendes
 zu sehen bekommen.«
 
-»Was ?!«
+»Was?!«
 
 »Ich denke Würgemale …«
 
@@ -319,59 +319,59 @@ recht.
 
 Sifu, unser Chinesenboy, hatte früher vollkommen unter
 Percy Rutterfields Einfluß gestanden. (Wenn ich hier immer
-nur von Maitu Tau spreche, müßte ich genauer hinzufügen:
+nur von Maitu San spreche, müßte ich genauer hinzufügen:
 verwitwete Rutterfield.) Sifu war kein Unschuldsengel. Er
 hatte eine etwas wilde Vergangenheit, deren Schleier man
 besser nicht lüftete. Harald war in seiner Gutmütigkeit nach
 den Vorfällen auf der Pestdschunke für meinen Geschmack
-doch etwas zu weit gegangen, als er Sifu wieder in Hunden
+doch etwas zu weit gegangen, als er Sifu wieder in Gnaden
 aufnahm. Ich traute dem Bengel nicht. Er hatte Gaunern,
 Piraten und Mordgesellen gedient, er hatte in Baroda den
-Spion gespielt (der Leser kennt das »Konsortium« noch,
+Spion gespielt (der Leser kennt das »Konsortium« noch),
 — und nun hatte er eigenmächtig wie stets hier zuerst
 eine Waffe gefunden, deren schwache Blutspuren das
 Schlimmste für Donna Grazia fürchten ließen.
 
 Harst wickelte den Dolch vorsichtig in eine Zeitung ein,
-Cennzeichnete die Stelle, wo er gelegen hatte, und schritt
+kennzeichnete die Stelle, wo er gelegen hatte, und schritt
 weiter,
 
 Die Blutflecken auf dem Sande zwischen den Schienen
 waren bereits recht undeutlich geworden, nur auf einigen
-Schottersteinen fanden wir frische Spritzer. Harst bedeckte »diese
+Schottersteinen fanden wir frische Spritzer. Harst bedeckte diese
 Steine mit einem weiteren Zeitungsblatt und befahl Sifu,
-an dieser Stelle zu wachen.«
+an dieser Stelle zu wachen.
 
-Dann suchten wir nach Fährten neben den Gesellen.
+Dann suchten wir nach Fährten neben den Geleisen.
 In diesem Einschnitt stand das Gras an den flachen Abhängen
 <@pagebreak/>
-ziemlich so, und, falls jemand hier aus dem Zuge
+ziemlich hoch, und, falls jemand hier aus dem Zuge
 gesprungen oder ein Körper hinausgeworfen worden wäre,
 hätte man das unbedingt sehen müssen. Es waren keinerlei
 Spuren vorhanden. Das Gras war nirgends niedergedrückt.
 
-Wir schritten noch; langsamer die Strecke zurück, indem
-wir nun jeder an einer Seite de3Z-Bahnkörpers uns hielten.
+Wir schritten noch langsamer die Strecke zurück, indem
+wir nun jeder an einer Seite des Bahnkörpers uns hielten.
 Auch diese Nachsuche war umsonst. Als wir uns der Fabrik,
-einem rohen unschönen Ziegelbau, neben dem das »Haus
-für die Angestellten und den. Besitzer mitten im Busch lag,
-näherten und den auf dem Fabrifkgeleise stehendenSchlaswagen
-erkennen konnten, wurde gerade Maitu San aus
+einem rohen unschönen Ziegelbau, neben dem das Haus
+für die Angestellten und den Besitzer mitten im Busch lag,
+näherten und den auf dem Fabrikgeleise stehenden Schlafwagen
+erkennen konnten, wurde gerade Maitu San auf
 einer als Krankenbahre hergerichteten Leiter in das Haus
 getragen. Nebenher gingen Donna Grazias eingeborene Dienerin
 und der völlig geknickte James Berger, der in seiner
-beißen Liebe zu der Japanerin für uns als Unparteiischer
-Helfer ausschied, Neben dem Wagen saß Hans Lücke auf
+heißen Liebe zu der Japanerin für uns als unparteiischer
+Helfer ausschied. Neben dem Wagen saß Hans Lücke auf
 einem Prellbock, schlenkerte, wie es seine Gewohnheit war,
-mit den Beinen und paßte umständlich sein Monokel.
+mit den Beinen und putzte umständlich sein Monokel.
 Er Hatte bereits seinen Tropenanzug an und hatte, um den
 Hosenboden zu schonen, auf den Prellbock sein seidenes
-Taschentuch gelegt. Er steckte sein zweites Taschentuch; in
-die äußere Brusttasche, flammte seinen unvermeidlichen Scherben
-ein und meinte trocken: »Eure Gesichter besagen nicht.
+Taschentuch gelegt. Er steckte sein zweites Taschentuch in
+die äußere Brusttasche, klemmte seinen unvermeidlichen Scherben
+ein und meinte trocken: »Eure Gesichter besagen nichts.
 Ihr habt Grazia nicht gefunden. Grablay ist bereits mit
-dem Auto hierher unterwegs und läßt grüßen. — In
-Grunde war diese Katastrophe vorauszusehen. Es war Annahme,
+dem Auto hierher unterwegs und läßt grüßen. — Im
+Grunde war diese Katastrophe vorauszusehen. Es war Unnatur,
 daß zwei Frauen, die denselben Mann lieben und von
 denen die eine großmütig verzichtet, sich angefreundet Haben
 sollten. Das östliche Temperament, immer klug verhüllt,
@@ -379,7 +379,6 @@ hat sich, fürchte ich, entladen. — Was haben Sie da in
 der Zeitung, Harst?«
 
 »Maitu Sans blutigen Dolch … Sie kennen ja die
-
 Waffe. Berger schenkte sie Maitu San, und ob die liebliche
 Japanerin den Dolch unter dem Kopfkissen liegen hatte,
 <@pagebreak/>
@@ -390,37 +389,36 @@ Lücke nickte. »Stimmt … Ich war in Nr. 20 … Eine
 ganz eigentümliche Geschichte. Der Wagen ist übrigens ein
 älteres Modell und nur umgebaut, sogar sehr.«
 
-Harst blickte ihn forschend an. »Sie haben etwas gefunden
-2«
+Harst blickte ihn forschend an. »Sie haben etwas gefunden?«
 
 »Dafür bin ich Berliner Kriminalkommissar, und man
-sagt, daß außer Alarich Gepp im Roten Alter nur noch
+sagt, daß außer Alarich Gepp im Roten Alex nur noch
 eine exzellente Kraft neben all den guten vorhanden ist …
 Den Namen will ich aus angeborener Bescheidenheit nicht
-nennen, — Ich sagte mir, daß der Täter oder die Täterin
+nennen. — Ich sagte mir, daß der Täter oder die Täterin
 die Kabine weder durch das Fenster noch die Tür samt dem
 Opfer verlassen haben könnte. Die Tür war von innen verriegelt
-, …«
+…«
 
-Harst fiel ihm ins Wort, »Und das ist mit am wichtigsten,
+Harst fiel ihm ins Wort. »Und das ist mit am wichtigsten,
 Lücke.«
 
-»Im — ein Fehler ist’s, nichts weiter. Auch das Fenster
+»Hm — ein Fehler ist’s, nichts weiter. Auch das Fenster
 hätte herabgelassen werden müssen … Ich habe bereits
-nach) Kognak, wo. der Zug in einer Stunde eintreffen dürfte,
-ebenfalls telephoniert und gebeten, unter den Wagen zu
+nach Manmad, wo der Zug in einer Stunde eintreffen dürfte,
+ebenfalls telephoniert und gebeten, *unter* den Wagen zu
 suchen. Ich denke, man wird die arme Grazia im Gestänge
 eines Waggonunterbaues finden. Maitu Sans Schlafanzug,
 über den sie den Kimono geworfen hatte, ist zerrissen und
-zeigt Ölflecke, Die Japanerin treibt Sport, hat Muskeln
+zeigt Ölflecke. Die Japanerin treibt Sport, hat Muskeln
 zum Beneiden und …«
 
-Harst unterbrach ihn wiederum, »Ich verstehe … Sie
+Harst unterbrach ihn wiederum. »Ich verstehe … Sie
 meinen, sie hat den Körper unter das Gestänge des nächsten
-Wagens getragen. — Mein lieber Lücke, das Kunjiytük
+Wagens getragen. — Mein lieber Lücke, das Kunststück
 sollen Sie mir bei einem Zuge mit siebzig Kilometer Geschwindigkeit
 vormachen. Ich brächte das nicht fertig. Im
-Gange sind keine Blutspuren, und, …«
+Gange sind keine Blutspuren, und …«
 
 »Kommt mit!«
 
@@ -433,42 +431,42 @@ und starrten uns neugierig an.
 Lücke hob in Kabine 20 den Plüschläuferbelag des Bodens
 auf. »Da — die Nägel sind entfernt …!« sagte er nur.
 
-Unter dem Läuferstoff lag noch ein Belag von Tote, ein
-dem Linoleum ähnlichen Fabrikat, nur weicher, der und
-schalldämpfender. Die Streifen des Tote waren genau zu
+Unter dem Läuferstoff lag noch ein Belag von Cota, ein
+dem Linoleum ähnlichen Fabrikat, nur weicher, dicker und
+schalldämpfender. Die Streifen des Cota waren genau zu
 erkennen. In dem mittleren Streifen vor den Betten sah
-man zwei breitere Schnitte, — Lücke hob das Stück heraus
-und letzte den Holzboden frei. Auch dieser zeigte vier
+man zwei breitere Schnitte. — Lücke hob das Stück heraus
+und legte den Holzboden frei. Auch dieser zeigte vier
 Schnitte, noch ganz frisch. Es war mit einer Stichsäge eine
-Art Falltür hergestellt worden. Als Lücke sie h;ochklappte,
-sahen wir im Laternenschein einen Teil des Festgestellt
+Art Falltür hergestellt worden. Als Lücke sie hochklappte,
+sahen wir im Laternenschein einen Teil des Fahrgestells
 und auf einer eisernen Stange vier Bluttropfen, die verwischt
 waren. Außerdem fehlte auf dieser Stange sowie
 benachbarten Eisenbalken zum Teil der Staub.
 
 Harst kletterte durch das Loch und nahm die Laterne mit.
 Er entschwand unseren Blicken, wir blieben im Halbdunkel
-zurück, bis plötzlich in der Kabinentür Mr. Nat Erster mit
+zurück, bis plötzlich in der Kabinentür Mr. Nat Joster mit
 einer Petroleumleuchte auftauchte und sich uns würdevoll
 vorstellte:
 
-»Nathanael Fester, Polizeichef von Jalnaroa.«
+»Nathanael Joster, Polizeichef von Jalnaroa.«
 
-Mr. Erster hatte zweifellos eine vorzügliche Köchin.
-Er war klein und Ei und rosig braun und hatte vergnügte
+Mr. Joster hatte zweifellos eine vorzügliche Köchin.
+Er war klein und dick und rosig-braun und hatte vergnügte
 Schweinsäuglein in dem zur Zeit bartstoppeligen Rundgesicht.
 Daß er ein Eurasier, ein Mischling, war, sahen wir
 zunächst nicht.
 
-Fester hatte unter den linken Arm eine Aktenmappe geklemmt
-und hielt in der Linken außerdem noch« Tintenfaß
+Joster hatte unter den linken Arm eine Aktenmappe geklemmt
+und hielt in der Linken außerdem noch Tintenfaß
 und Federhalter,
 
 »Ich muß ein Protokoll aufnehmen,« erklärte er sehr höflich.
 »Wo ist die Tote?«
 
-Jesters Anzug und Frisur verrieten, daß er eiligst sein
-Bett verlassen hatte. Er war ohne Hut. Sein Lage war schwarz
+Josters Anzug und Frisur verrieten, daß er eiligst sein
+Bett verlassen hatte. Er war ohne Hut. Sein Haar war schwarz
 <@pagebreak/>
 und leicht gelockt. Seine Nase schimmerte verdächtig nach
 Reisschnaps.
@@ -476,39 +474,39 @@ Reisschnaps.
 »Die Tote ist zur Zeit noch abwesend,« erklärte Lücke
 dem ländlichen Kollegen.
 
-Fester bewunderte die Falltür im Boden. »Ist das in aller
+Joster bewunderte die Falltür im Boden. »Ist das in aller
 Schlafwagenabteilungen so?« fragte er erstaunt.
 
-»Tür gewöhnlich nicht, Mr. Fester.«
+»Für gewöhnlich nicht, Mr. Joster.«
 
-Der Die lächelte unmerklich! Ich gewann den Eindruck,
-daß er sich über Blies offensichtlich recht geringfügige Bewertung
+Der Dicke lächelte unmerklich! Ich gewann den Eindruck,
+daß er sich über Lückes offensichtlich recht geringfügige Bewertung
 seiner Person insgeheim belustigte.
 
 »Also ein vorbereiteter Mord, meine Herren,« sagte er
-schlich. »Man wird in Bombay nachforschen müssen, wer
-an diesen Wagen herankonnte, Die Falltür kann doch erst
+schlicht. »Man wird in Bombay nachforschen müssen, wer
+an diesen Wagen herankonnte. Die Falltür kann doch erst
 hergerichtet worden sein, nachdem Sie Ihre Kabinen zugewiesen
 oder bestellt hatten. Die Sägeschnitte sind ganz frisch.«
 
-Dumm war dieser Fester entschieden nicht.
+Dumm war dieser Joster entschieden nicht.
 
 »Da haben Sie recht …« — Harst stand im Gang und
-streckte Fester die Hand hin. »Ich denke, wir werden gut mit
-einander auskommen, Mr. Fester.«
+streckte Joster die Hand hin. »Ich denke, wir werden gut mit
+einander auskommen, Mr. Joster.«
 
-Fester stellte das Tintenfaß aus das Fenstertischchen, legte
-Mappe und Federhalter daneben und Frühe Haralds Hand.,
-»I4 weiß, wer Sie sind, meine Herren, — Mr. Berger erzählte
+Joster stellte das Tintenfaß auf das Fenstertischchen, legte
+Mappe und Federhalter daneben und drückte Haralds Hand.
+»Ich weiß, wer Sie sind, meine Herren, — Mr. Berger erzählte
 es mir. Es wird mir eine Ehre sein, und wenn ich
-mir gestatten darf, Sie zu mir einzuladen … ««
+mir gestatten darf, Sie zu mir einzuladen …«
 
-»Sehr liebenswürdig …
+»Sehr liebenswürdig …«
 
 Lücke fragte ungeduldig: »Fanden Sie etwas, Harst?«
 
 »Ja, Die Beweise, daß Donna Grazia nicht bis zum nächsten
-Wagen geschleppt wurde, Der Staub liegt überall gleichmäßig
+Wagen geschleppt wurde. Der Staub liegt überall gleichmäßig
 auf den Teilen des Unterbaus. Gewiß könnte ein
 Mann von besonderer Kraft und Gewandtheit einen leblosen
 Körper über die Eisenteile und Puffer bis zum folgenden
@@ -517,12 +515,12 @@ der Person möglich gewesen, an die Sie denken, lieber Lücke.«
 
 »Dann stehe ich vor einem Rätsel!«
 
-Nathanael Fester blickte Lücke daraufhin verwundert an,
+Nathanael Joster blickte Lücke daraufhin verwundert an,
 
 <@pagebreak/>
-»Das Rätsel ist Docht zur Hälfte gelöst, und die andere Hälfte
--y» nun, Frau Maitu San-Rutterfield hat sich bereits zu
-einer Aussage bequemt. I4 habe protokolliert …«
+»Das Rätsel ist Doch zur Hälfte gelöst, und die andere Hälfte
+— nun, Frau Maitu San-Rutterfield hat sich bereits zu
+einer Aussage bequemt. Ich habe protokolliert …«
 
 Das schien ihm das Wichtigste zu sein: Schwarz auf
 Weiß, Tinte, Feder, Papier,
@@ -551,42 +549,42 @@ kleine Dicke schob den Bogen wieder in seine Mappe zurück.
 Zweifel an der Selbständigkeit der Aussage hege. Insbesondere
 behauptete Frau Maitu San auf nochmaliges Befragen, daß
 sie nicht wüßte, wie der Dolch, ihr Eigentum, aus dem
-Koffer … « — er hüstelte — »hm, aus dem Koffer in die
+Koffer …« — er hüstelte — »hm, aus dem Koffer in die
 Hände des Mörders gelangt sein kann … Hm — und
-es war fast dunkel in der Kabine, meine Herren, und aUZsgerechnet
+es war fast dunkel in der Kabine, meine Herren, und ausgerechnet
 hat die Dame als einzige Zeugin den Dolch erkannt,
-sonst: nichts …,«
+sonst nichts …«
 
 Er schaute durch die Falltür auf den Sand und Schotter
 zwischen den Geleisen. »Es ist vieles hier sehr merkwürdig,
 <@pagebreak/>
-vieles … Ich bin ja Kugeln kleiner Polizeichef in einem
+vieles … Ich bin ja nur ein kleiner Polizeichef in einem
 Nest von knapp dreitausend farbigen Seelen, und ich habe
 mich zumeist nur mit Ziegenzucht und ein paar harmlosen
 Diebereien beschäftigt, ausgenommen den einen Fall, der
 mich mit Oberinspektor Grablay näher in Berührung brachte.
 Trotzdem bin ich in der einschlägigen Literatur, Kriminalwissenschaften,
-leichtes bewandert, ich habe alle bedeutenderen
+leidlich bewandert, ich habe alle bedeutenderen
 Werke in meiner Bibliothek, und …«
 
-» … —. haben Sie Erbarmen mit uns und schweifen Sie
+»… haben Sie Erbarmen mit uns und schweifen Sie
 nicht ab,« sagte Lücke etwas gereizt.
 
-Frau Maitu San trägt einen Schal,« fuhr Fester unbeirrt
+»Frau Maitu San trägt einen Schal,« fuhr Joster unbeirrt
 fort. Der englische Schriftsteller und Generalstaatsanwalt
-Sir Kuriert, erwähnt auf Seite 28 — es kann auch
-»8 sein — einen Fall, in dem die Täterin im Kampfe mit
-ihrem Opfer Kratzwunden an der Hand »erhielt und nur
+Sir Humsty, erwähnt auf Seite 28 — es kann auch
+58 sein — einen Fall, in dem die Täterin im Kampfe mit
+ihrem Opfer Kratzwunden an der Hand erhielt und nur
 Handschuhe trug …«
 
-Harst meinte ernst: »Mr. Fester, reden wir nicht um den
-»Kernpunkt der Sache herum, Sie halten Maitu San für die
+Harst meinte ernst: »Mr. Joster, reden wir nicht um den
+Kernpunkt der Sache herum. Sie halten Maitu San für die
 Mörderin, weil sie am Halse blaue Flecken hat …«
 
-»Nein, nicht Flecken, Araber und Flecken. — Donna
+»Nein, nicht Flecken, Kratzer und Flecken. — Donna
 Grazia soll sehr lange spitze lackierte Nägel geliebt haben,
 obwohl Nagellack als unfeiner Ersatz für wahre Nagelpflege
-gilt. —« Ich werde warten, bis Mr. Grablay eintrifft.«
+gilt. — Ich werde warten, bis Mr. Grablay eintrifft.«
 
 »Womit?« fragte Harst sehr gedehnt.
 
@@ -594,17 +592,17 @@ gilt. —« Ich werde warten, bis Mr. Grablay eintrifft.«
 mir das Wagengestell ansehen, aber ich mache es mit bequemer,
 diese Falltür ist etwas eng, es müßte ein sehr
 schlanker Mörder gewesen sein, der hier hindurchkam. —
-ob Frau Maitu San Beziehungen zu Eisenbahnwagen
-Büscheln in Bombay hat?!« …
+Ob Frau Maitu San Beziehungen zu Eisenbahnwagenwäschern
+in Bombay hat?!«
 
 Er verlangte keine Antwort, verließ den Wagen und
-hm) unten überall mit seiner Petroleumlampe herum, was
+kroch unten überall mit seiner Petroleumlampe herum, was
 ihm nicht ganz leicht wurde.
 
-»Zier ist jemand entlang geschlüpft,« rief er uns keuchend
-zu und zwängte sich über den abermaligen Gasbehälter des
+»Hier ist jemand entlang geschlüpft,« rief er uns keuchend
+zu und zwängte sich über den ehemaligen Gasbehälter des
 <@pagebreak/>
-Wagens hinweg, kennen noch« nicht abmontiert hatte, obwohl
+Wagens hinweg, den man noch nicht abmontiert hatte, obwohl
 die Beleuchtung jetzt elektrisch war. »Nur hier die eine
 Stange unter der Falltür, — das ist Blut, mithin ist die
 Leiche doch hinabgeworfen worden.«
@@ -615,17 +613,17 @@ Harst sagte leise: »Unterschätzen Sie ihn nicht … Theoretiker
 wie er finden sich zuweilen überraschend schnell in die
 Praxis hinein …«
 
-Schnaufend stand Nat Fester vor uns,
+Schnaufend stand Nat Joster vor uns,
 
 »Sie haben doch die Geleise weit genug abgesucht, Mr.
+Harst?«
 
-erst 2«
 »Ich habe den Dolch hier in der Tasche, und an der fraglichen
-Stelle sitzt mein Boy) bei den blutbespritzten Steinen
+Stelle sitzt mein Boy bei den blutbespritzten Steinen
 als Posten. Es sind von hier etwa zweitausenddreihundert
-Mieter, Mr. Erster.«
+Meter, Mr. Joster.«
 
-»Geben Sie mir den Dolch,« bat. Fester höflich. »Ich
+»Geben Sie mir den Dolch,« bat Joster höflich. »Ich
 werde ihn in Verwahrung nehmen …«
 
 »Gern, — bitte … — Und nun gehen wir am besten
@@ -633,6 +631,7 @@ zu Frau Maitu San, denke ich. Ich möchte ihr zwei Fragen
 vorlegen.«
 
 Der dicke Nat erklärte, er wolle besser noch hier bleiben.
+
 »… Ich finde, man sieht immer am meisten, wenn man
 allein ist, und den Schauplatz eines Verbrechens sollte man
 studieren wie eine Chiffreschrift.« Er lächelte bescheiden und
@@ -641,8 +640,8 @@ kletterte in den Wagen hinein. Harst sagte, als wir davongingen:
 so schwach zu erkennen, daß schon Jesters Laterne dazu nötig
 ist — oder nicht,« eine Bemerkung, die wenig Sinn zu haben
 schien, genau wie die folgende, die Harst nach etwa hundert
-Splitter tat, indem er sich umdrehte: »Die Ladebaracke der
-Fabrik liegt dem Wagen am nächsten … Da, Mr. Fester
+Schritten tat, indem er sich umdrehte: »Die Ladebaracke der
+Fabrik liegt dem Wagen am nächsten … Da, Mr. Joster
 läßt die Neugierigen verjagen … — Ob dies sein Auto
 ist?!« Auf dem Wege von dem Anschlußgeleise zum Wohnhause
 der Fabrik stand ein uralter Klapperkasten, so ein hochräderiges
@@ -650,32 +649,34 @@ Ding, wie es vielleicht vor fünfzehn Jahren schon
 <@pagebreak/>
 als Alteisen für einen Spottpreis zu haben war. Es war
 ein viersitziger offener Wagen mit einem Verdeck Patent
-Fester, denn die dazu benutzte brüchige Segelleinwand trug
-noch verwaschen die Inschrift in Riesenbuchstaben;:
-Nr. Jesters Ziegenzucht.«
+Joster, denn die dazu benutzte brüchige Segelleinwand trug
+noch verwaschen die Inschrift in Riesenbuchstaben:
+
+<p class="centererd">N. Josters Ziegenzucht.</p>
+
 Vielleicht hatte die Leinwand einmal als Reklameplakat
-gedient, Nat züchtete ja Ziegen, und man roch es, wenn
+gedient. Nat züchtete ja Ziegen, und man roch es, wenn
 man ihm nahekam. Er roch bockig. Im übrigen war das Auto
 giftgrün mit Ölfarbe gestrichen, nur die Kühlhaube war
 knallrot. Mir taten die Augen weh.
 
 <h2>3. Kapitel.</h2>
-<h3>… Die Pistole.</h3>
+<h3>Die Pistole.</h3>
 
 Im Erdgeschoß des auf der Waldlichtung erbauten Hauses
 waren alle Fenster hell. Um das Haus zogen sich Beete,
 die einen Garten vortäuschen sollten. Harst nannte dieses
-Heim scherzend »Villa Inder,« obwohl der Fabrikbesitzer,
+Heim scherzend »Villa Zucker,« obwohl der Fabrikbesitzer,
 ein wortkarger älterer Engländer, den berühmten Namen
-Livingstone trug. Seine Frau und Tochter erschien durch
+Livingstone trug. Seine Frau und Tochter ersetzten durch
 übertriebene Liebenswürdigkeit, was dem bitter-grämlichen
 Mr. Zucker an angenehmen Eigenschaften abging,
 
 Maitu San ruhte im Zimmer der Tochter auf einem
-Diwan, James Berger saß neben ihr und hielt Steine kleine
-Hand, Zwei elektriscge Lampen, eine Deckenlampe und eine
+Diwan. James Berger saß neben ihr und hielt ihre kleine
+Hand. Zwei elektrische Lampen, eine Deckenlampe und eine
 Tischlampe, beleuchteten die Liebenden. Aber Maitu Sans
-Gesicht lag mehr im Hatten.
+Gesicht lag mehr im Schatten.
 
 Als wir eintraten, hatte die zierliche Japanerin den Kopf
 noch weiter nach der Wand gedreht, und Bergers Benehmen
@@ -683,84 +684,82 @@ verriet ebenfalls wenig Freude über unser Erscheinen. Er,
 der in Bombay eine Auskunftei und vielfache andere Geschäfte
 <@pagebreak/>
 betrieb, war, wie ich schon im vorigen Bande betont
-be, ein sehr kluger, energischer Mensch von sympathischen
-Ad Azoren. In Bombay nannte man ihn zumeist den »kleinen
-See«, weil er wie sein Doppelgänger See Chamberlain auch
-ein Manches trug.
+habe, ein sehr kluger, energischer Mensch von sympathischem
+Äußeren. In Bombay nannte man ihn zumeist den »kleinen
+Joe«, weil er wie sein Doppelgänger Joe Chamberlain auch
+ein Monokel trug.
 
-Er sagte leise, irdenen uns flüchtig kniete: »Ich hoffe,
+Er sagte leise, indem er uns flüchtig zunickte: »Ich hoffe,
 Sie werden Maitu San nicht auch noch so rücksichtslos
-quälen, wie dies der kleine die Stöpsel Fester tat.«
+quälen, wie dies der kleine die Stöpsel Joster tat.«
 
 »Durchaus nicht,« erwiderte Harald und machte den
 Livingstone’schen Damen, die im Flur lauerten, die Tür
 vor der Nase zu. »Durchaus nicht, lieber Berger, — ich
-konnte betrunken, wir wollen das Gegenteil tun. — Wie
+könnte behaupten, wir wollen das Gegenteil tun. — Wie
 geht es Ihnen, Frau Maitu San?«
 
-Sie regte sich nicht und flüsterte nur: »Sehr schlecht … «
-Ich möchte östlichen und alles vergessen.«
+Sie regte sich nicht und flüsterte nur: »Sehr schlecht …
+Ich möchte schlafen und alles vergessen.«
 
 Wir standen vor dem Diwan, und ich fühlte, daß uns
-allen nicht rechts behaglich zumute war. — Das Zimmer
-zeigte eine Ausstattung, die an die Garderobe einer Schlaue
-Spielerin erinnert«. Die Bilder an den Wänden, dazu Fächer,
-ertönte Kränze und anderer Flitterkram deuteten auf künstlerische
-Neigungen der Kurzer-»-Höchster hin.
+allen nicht recht behaglich zumute war. — Das Zimmer
+zeigte eine Ausstattung, die an die Garderobe einer Schau-
+Spielerin erinnerte. Die Bilder an den Wänden, dazu Fächer,
+verdorrte Kränze und anderer Flitterkram deuteten auf künstlerische
+Neigungen der Zucker-Tochter hin.
 
-Harald meinte in. wärmstem Tone: »Es muß für Sie
-allerdings ersichtlich gewesen sein, Frau Maitu San …
+Harald meinte in wärmstem Tone: »Es muß für Sie
+allerdings entsetzlich gewesen sein, Frau Maitu San …
+Es ist auch durchaus begreiflich, daß Sie von dem Täter so
+wenig sahen. Den Dolch hat übrigens Sifu gefunden.«
 
-&8 ist auch durchaus begreiflich, daß Sie von dem Täter so
-wenig sehen. Den Dolch hat übrigens Sifu gefunden.«
-
-3’ie Japanerin begann zu weinen. Sie mochte immerhin
+Die Japanerin begann zu weinen. Sie mochte immerhin
 von europäischen Damen die Tränen als beste Waffe bereits
 übernommen haben.
 
-»Wissen Trockenen, daß Sie Ihren Dolch nicht aus dem
+»Wissen Sie genau, daß Sie Ihren Dolch nicht aus dem
 Koffer genommen hatten?« lautete Harsts erste harmlose
 Frage. — Harmlos?!
 
-»Ja — genau,« erklärte sie!chFluchzend.
+»Ja — genau,« erklärte sie schluchzend.
 
-»erweichen Ihrer beiden Koffer hatten Sie ihn eingeschlossen?
+»In welchen Ihrer beiden Koffer hatten Sie ihn eingeschlossen?
 In den neu gekauften?«
 
-»Nein … In den, den ich schon Tänzers Zeit besitze.«
+»Nein … In den, den ich schon längere Zeit besitze.«
 
 <@pagebreak/>
 »Also den mit dem Patentschloß. Ein sehr gutes Schloß,
 ein sehr schöner Krokodillederkoffer … Merkwürdig, daß der
-Täter da 8 Sdclloß!d leicht öffnen konnte. Die Schlüssel fand
-ich doch; unter Ihrer Bettmatratze, zwischen Kopfpolster und
-Matrose, genauer gesagt. Mit einem Dietrich ist das Schloß
-nicht zu öffnen, und Gewalt ist auch nicht angewandt war
-
-en.
+Täter *das* Schloß so leicht öffnen konnte. Die Schlüssel fand
+ich doch unter Ihrer Bettmatratze, zwischen Kopfpolster und
+Matratze, genauer gesagt. Mit einem Dietrich ist das Schloß
+nicht zu öffnen, und Gewalt ist auch nicht angewandt word-
+en."
 
 Berger sagte ärgerlich: »Das ist ja doch wieder ein förmliches
-Verhör!! Fester war schon so taktlos, Maitu San nach
+Verhör!! Joster war schon so taktlos, Maitu San nach
 dem Dolche auszuforschen, und …«
 
-Harst beschwichtigte ihn schnell, »Wir gehen ja schon
+Harst beschwichtigte ihn schnell. »Wir gehen ja schon
 wieder, lieber Berger … Nichts liegt mir ferner, als
-die angegriffenen Nerven Maitu Sans noch mehr zu schlagen.
+die angegriffenen Nerven Maitu Sans noch mehr zu schädigen.
 Die beiden Fragen sind mir durchaus genügend, der
 Koffer war mir mit die Hauptsache.«
 
-»Das begreife ich nicht, — und Berger starrte Harst
-argwöhnisch; an,
+»Das begreife ich nicht," — und Berger starrte Harst
+argwöhnisch an,
 
 Maitu San flüsterte Überstürzt:
 
 »Ich … ich kann mich ja auch irren … Der Dolch
 mag auch in dem anderen Koffer gelegen haben … Ich
-weiß es doch nicht so bestimmt! — Hattest du mir nur nie
+weiß es doch nicht so bestimmt! — Hättest du mir nur nie
 diesen Dolch in Bombay gekauft, James!«
 
 »oh, — das Geschenk soll Ihnen kein Unglück bringen,
-Frau Maitu San,« erklärte Harald vielleicht noch freundlichen
+Frau Maitu San,« erklärte Harald vielleicht noch freundlicher
 und weicher als vorhin. »Schlafen Sie nun … Ich
 möchte Ihnen am liebsten dieses harmlose Beruhigungsmittel
 geben …«
@@ -770,8 +769,8 @@ Sie lehnte schroff ab. »Nein, ich nehme nie Medikamente
 sie brach in ein hysterisches Schluchzen aus, das auf uns
 sehr peinlich wirkte,
 
-Berger traf mit uns vor das Haus. Der Mond war
-verschwunden. Die Berge von Notiz hatten ihn verdeckt.
+Berger trat mit uns vor das Haus. Der Mond war
+verschwunden. Die Berge von Nasik hatten ihn verdeckt.
 Es war dunkel und schwül. Ein heißer Glutwind kam von
 <@pagebreak/>
 Osten her und brachte die scharfen Gerüche der Fabrik mit
@@ -781,17 +780,17 @@ herüber. Eine Zuckerfabrik hat ihren besonderen Duft.
 
 »Nein … — Leider ist auch die kurze Aussprache mit
 Ihrer Braut nicht nach Wunsch verlaufen … Weshalb
-verheimlicht sie uns die Erz« und Würgespuren an ihrem
+verheimlicht sie uns die Kratz- und Würgespuren an ihrem
 Halse?! Ich denke, ich sprach so gütig mit ihr, daß sie ganz
 ehrlich hätte sein können. Sie ist mir unverständlich.«
 
 Berger schwieg und senkte den Kopf.
 
 Lücke, der stets für rasche Klärung der Sachlage ist,
-meinte ziemlich. scharf: »Rücksichten müssen hier ausgeschaltet
+meinte ziemlich scharf: »Rücksichten müssen hier ausgeschaltet
 werden. Sie haben den mehrfach um den Hals geschlungenen
 Schal gesehen, Berger, — Sie sahen auch zweifellos
-die Flecken und Klarstellen am Halse …«
+die Flecken und Kratzstellen am Halse …«
 
 Berger sagte dumpf: »Es wäre ein Wahnwitz, sie zu
 verdächtigen, Lücke … Ich weiß, was Sie andeuten wollen.
@@ -811,7 +810,7 @@ An demselben Vormittag kauften Sie, Berger, Maitu San
 den kostbaren, aber unauffälligen Dolch.«
 
 Unser Gespräch fand durch Mr. Livingstones Erscheinen
-ein vorzeitiges Ende, Er bat uns zu einem Morgenimbiß
+ein vorzeitiges Ende. Er bat uns zu einem Morgenimbiß
 ins Haus, obwohl die Dämmerung noch nicht einmal angebrochen
 war.
 
@@ -819,50 +818,50 @@ Es war auf der Veranda gedeckt worden, aber Harald
 wandte ein, er vertrüge die leichten Morgennebel nicht,
 <@pagebreak/>
 und so mußten die eingeborenen Diener im Salon den
-Frühstücks1’schz neu herrichten. — Ich hatte allen Grund,
+Frühstückstisch neu herrichten. — Ich hatte allen Grund,
 mich sehr über meinen Freund zu wundern. Er zog im
-Salon, einem schrecklich ges(chqmacklosen Raume, die Fenstervorhänge
+Salon, einem schrecklich geschmacklosen Raume, die Fenstervorhänge
 dicht zu und bat auch, die äußeren Glasfenster
 zu schließen. Die inneren hatten nur Gazebespannung. Mr.
 Livingstone schüttelte den Kopf, und wir anderen, die beiden
-Damen ausgenommen, ahnten dunkel, daß Harsts Kabelschen
+Damen ausgenommen, ahnten dunkel, daß Harsts Nebel-Scheu
 nur einen Grund haben könnte: Die Furcht vor
 einer heimtückischen Kugel oder einem sonstigen Angriff.
 
 Es war keine erfreuliche Kaffeestunde, da diese drei
 Livingstones, die hier in der Einsamkeit als einzige Europäer
-lauten, nur allzu gesprächig wurden, selbst der steife
-Mr. Inder taute auf und verlangte genaueste Angaben
-über jede Eingekittet des rätselhaften Verbrechens. Ich selbst
+hausten, nur allzu gesprächig wurden, selbst der steife
+Mr. Zucker taute auf und verlangte genaueste Angaben
+über jede Einzelheit des rätselhaften Verbrechens. Ich selbst
 hatte die Empfindung, als ob Harsts scheinbare Geistesabwesenheit
 — er beteiligte sich kaum an der Unterhaltung
 — lediglich gespannteste Aufmerksamkeit war. Er behielt die
 drei Fenster dauernd im Auge, und die dünnen, halb durchsichtigen
-Vorhänge genügten ihm als Schutz gegen den Duells
+Vorhänge genügten ihm als Schutz gegen den Einblick
 in den Salon offenbar gar nicht. — Berger wieder saß
 blaß und abgespannt da und schien sich mit allerlei berechtigten
 Zweifeln über Maitu San zu quälen. Der einzige
-Muntere war der unverwüstliche Lücke, der Miß Ethel Li«-
-bugsiere, einem verschrobenen farblosen Mädel, allerlei Fritz
+Muntere war der unverwüstliche Lücke, der Miß Ethel Livingstone,
+einem verschrobenen farblosen Mädel, allerlei Kri-
 minalfälle erzählte und dabei unglaublich log. Seemannslatein
 war gar nichts dagegen.
 
-In diese bis zur Hochspannung elektrisQ geladene Atmosphäre
+In diese bis zur Hochspannung elektrisch geladene Atmosphäre
 drang von draußen der Knall zweier Schüsse herein.
 Knall und Splittern von Glas erfolgten fast gleichzeitig,
 und über Harsts Stirn zog sich ein kaum merklicher
 rötlicher Strich hin, während hinter ihm ein gerahmter
-Sand für alle Zeit zwei Kugellöcher als Andenken be
+Öldruck für alle Zeit zwei Kugellöcher als Andenken behielt.
 
 <@pagebreak/>
-Das Einkreisen der Damen, Bildet blitzschnelle Verschwinden
-und die Tone einer Hupe zerflossen in eins.
+Das Aufkreischen der Damen, Lückes blitzschnelles Verschwinden
+und die Töne einer Hupe zerflossen in eins.
 
 Harst war sitzen geblieben. »Es ist Grablay,« sagte er nur,
 
-»und — der Schüsse?!« fragte Mr. Zucker aschfahl.
+»und — der Schütze?!« fragte Mr. Zucker aschfahl.
 
-Lückes Stimme erscholl im Garten. »Harst, hierher?!«
+Lückes Stimme erscholl im Garten. »Harst, hierher!!«
 
 Wir eilten hinaus und fanden Lücke mit der ohnmächtigen
 Maitu San im Arme unter dem einen Fenster des
@@ -872,9 +871,9 @@ Berger taumelte gegen die Hauswand. Er ahnte, was
 kommen würde …
 
 Lücke sagte unnachsichtig: »Ich fing sie gerade ab, als sie
-wieder in das Zimmer zurückfordern wollte … — Ihre
+wieder in das Zimmer zurückklettern wollte … — Ihre
 Geheimniskrämerei, Harst, wird nun wohl endgültig erledigt
-sein. Sie sahen voraus, daß Maitu San etwas Unternehmer
+sein. Sie sahen voraus, daß Maitu San etwas Unternehmen
 würde — gegen Sie!«
 
 Berger ächzte verzweifelt.
@@ -884,33 +883,33 @@ Pistole herbekommen haben?!«
 
 Livingstone, der scheu herbeigeschlichen war, bückte sich
 und hob zwei Meter vom Fenster entfernt eine Pistole
-von dem hellen Kie8wege auf. »Es ist meine Waffe, und
-sie lag zumeist in Ethels Nachtschränkchen, denn meines
+von dem hellen Kieswege auf. »Es ist meine Waffe, und
+sie lag zumeist in Ethels Nachtschränkchen, denn meine
 Tochter ist sehr ängstlich.«
 
 In diese trübe Szene trat John Grablay als neue Figur
 hinein.
 
 »Das scheint hier ja recht lebhaft herzugehen,« meinte
-er unvergleigich traten. »Ich habe die Schüsse gehört …
+er unvergleichlich trocken. »Ich habe die Schüsse gehört …
 Wer schoß auf wen?«
 
 Niemand antwortete, da Maitu San mit tiefem Seufzer
 wieder zu sich kam.
 
 Berger in seiner Enttäuschung und Verzweiflung konnte
-Eis nicht länger beherrschen. »Weshalb fürchtest du nun
-aus noch Harst zu ermorden?! schrie er ihr ins Gesicht.
-»wischen uns ist alles aus — alles!! Da — — dein Schal
+sich nicht länger beherrschen. »Weshalb suchtest du nun
+auch noch Harst zu ermorden?!" schrie er ihr ins Gesicht.
+»Zwischen uns ist alles aus — alles!! Da — — dein Schal
 <@pagebreak/>
 hat sich gelockert … Die arme Grazia hat sich verzweifelt
 verteidigt, dein Hals beweist es!«
 
 Grablay hatte seine große Taschenlampe eingeschaltet.
-Alle sahen wir nun die verräterischen Flecken und Drängten.
+Alle sahen wir nun die verräterischen Flecken und Kratzer.
 
 Maitu San blickte Berger traurig an. »Ich wünschte,
-ich wäre tot …« flüsterte sie. »So wahr ich) die liebe,
+ich wäre tot …« flüsterte sie. »So wahr ich dich liebe,
 James: Ich habe nicht geschossen, ich habe die Pistole weder
 gesehen noch berührt.«
 
@@ -919,17 +918,17 @@ klang unsäglich bitter.
 
 Sie erwiderte nichts, sie sprach überhaupt nichts mehr.
 
-Als jedoch nun auch der kleine Fester herbeikam und
+Als jedoch nun auch der kleine Joster herbeikam und
 nach kurzer leiser Beratung mit Grablay die einsam unter
 dem Fenster stehende Maitu San verhaftete, trat Harst
 an sie heran und raunte ihr ein paar Worte ins Ohr. Sie
-fuhr leicht zusammen. Über in ihren dunklen Augen erschien
+fuhr leicht zusammen. Aber in ihren dunklen Augen erschien
 dann ein besonderes Leuchten. Stolz und getrost bestieg
-sie Nat Erstens giftgrünes Auto und fuhr nach dem
-kleinen Gefängnis von Jalnaroa, —
+sie Nat Josters giftgrünes Auto und fuhr nach dem
+kleinen Gefängnis von Jalnaroa,
 
-da. Kapitel.
-Der Gasbehälter.
+<h2>4. Kapitel.</h2>
+<h3>Der Gasbehälter.</h3>
 
 »Was sagten Sie ihr, Harst?« fragte der lange Grablays
 mißmutig, als wir dann ganz unter uns in dem Salon
@@ -1197,7 +1196,7 @@ trinkt …!! — Wo wollten Sie hin?«
 
 »Zu Ihnen … Frau Grazia ist gefunden.«
 
-Fester lachte jetzt. »Wohl in dem Gallebitter … «!« —
+Joster lachte jetzt. »Wohl in dem Gallebitter … «!« —
 und er blinzelte zu Harald empor. »Ja, ich Theoretiker bin
 doch nicht so ganz unbeschlagen in derlei Dingen!«
 
@@ -1241,7 +1240,7 @@ dem Felsloch krumm gefesselt und geknebelt und seine La«.
 ferne so gestellt hatte, daß er im Schatten tote.
 
 Höhnisch deutete er nach oben. »Die Baumstämme habe
-ich rasch; wieder in Ordnung gebracht … Nun mag Fester
+ich rasch; wieder in Ordnung gebracht … Nun mag Joster
 <@pagebreak/>
 Kollegen suchen … Auch Grablay und Lücke, die Superschlauen,
 werden nichts ausrichten, gar nichts! Ich trage
@@ -1551,7 +1550,7 @@ Jester wurde rot vor Ärger. »Sprechen Sie sich doch ehrlich
 darüber aus …!« — Seine Gereiztheit blieb mir unverständlich.
 
 »Ehrlichkeit ist die Tugend derer, die nichts zu verheimliegen
-haben … Lieber Fester, ich bin selten ganz ehrlich,
+haben … Lieber Joster, ich bin selten ganz ehrlich,
 zumeist erst am Schluß, wenn es für die Schuldigen kein
 Entrinnen mehr gibt. Zum Beispiel, um etwas ehrlicher zu
 sein: Die Notbremse hängt aufs engste mit den beiden auf
@@ -1561,7 +1560,7 @@ Schüsse sind aus Livingstones Pistole abgefeuert worden, das
 Ne! fest. Was wollte Maitu San im Garten, — steht das
 Zeit 21«
 
-»Rein …« Fester hatte den Kopf in die Hand gestützt
+»Rein …« Joster hatte den Kopf in die Hand gestützt
 und grübelte vor sich hin. »Nein, sie hat erklärt, sie habe
 sich; nur ein wenig Bewegung machen wollen,«
 
@@ -1801,7 +1800,7 @@ hättet!«
 klappte nicht, die Nummer Sifu kam dazwischen. Ich hatte
 die Flaschen gezählt.«
 
-Fester leckte sich die Lippen und stierte ins Leere.
+Joster leckte sich die Lippen und stierte ins Leere.
 
 »… gezählt, — und ich ahnte diesen Scherz voraus.
 Er ist uralt. Vergifteter Kaffee und Schnaps sind die Waffen
@@ -1945,7 +1944,7 @@ Leute.«
 Jester fuhr hoch.- »Das nennen Sie »in Ordnung«, Mr.
 Harst 21«
 
-»Natürlich, in allerbester Ordnung, mein lieber Fester.
+»Natürlich, in allerbester Ordnung, mein lieber Joster.
 Nun brauchen Sie Ihre eigenen Beamten nicht zu »bemühen
 …«
 
@@ -2150,7 +2149,7 @@ Worauf der Oberinspektor nur knurrte:
 »Vielleicht schießt Sifu mir dann noch eine Kugel durch
 das dicke Fleisch; des Unterarms?! — Na — meinetwegen«
 
-Fester schien seine allerletzten Kräfte zu sammeln. Er
+Joster schien seine allerletzten Kräfte zu sammeln. Er
 brachte es wirklich fertig, sich nochmals aufzuraffen. Die Beamten
 ließen ihn los, und mit ausgebreiteten Armen kam
 er uns entgegen — ein elender Komödiant, der seine Rolle
@@ -2251,7 +2250,7 @@ Grablay richtete zum Schein an ihn einige Fragen.
 
 Plötzlich rief Harst warnend:
 
-»Fester ist verschwunden! Er kann nur die Treppe empor geflohen
+»Joster ist verschwunden! Er kann nur die Treppe empor geflohen
 sein!«
 
 Mr« stürmten hinterdrein …
@@ -2380,7 +2379,7 @@ daß die Bilder menschliczder Verruchtheit, die wir dort hinter
 uns soeben in den düsteren Zellen geschaut hatten, wirr wie
 etwas Unwirkliches, Abschreckend-»Traumhaftes vorkamen.
 
-Fester wandte sich halb zurück. »Mr. Harst, Sie erwähnten
+Joster wandte sich halb zurück. »Mr. Harst, Sie erwähnten
 doch in der Bibliothek eine Kiste … Wie ist’s damit?«
 
 »Richtig, die Kiste …! Ja, mein lieber Zettel, das bin
@@ -2443,7 +2442,7 @@ verstehen.«
 
 Wir gingen in Maitu Sans Zimmer, — die Vorhänge
 waren geschlossen, das elektrische Licht brannte, in einer Ecke
-stand der Käfig des Schwälbhens, und auf dem Diwan lag
+stand der Käfig des Schwälbchens, und auf dem Diwan lag
 Maitu San in beklagenswertem Zustande, während Berger
 und Donna Grazia hilflos auf die Schluchzende einredeten.
 
