@@ -55,9 +55,9 @@ Harst konnte seine Überraschung nicht verbergen …
 
 »Ja …«
 
-»Um so unbegreiflicher ich mir dann, daß Sie den Umschlag nicht öffnen …«
+»Um so unbegreiflicher ist mir dann, daß Sie den Umschlag nicht öffnen …«
 
-»So?!« Und Baat lächelte ironisch. »Ich lasse mir nicht gern vorher Winke gegeben, ich winke schon selbst, wenn es nötig ist. Meine Augen und Ohren sind vorzüglich, und unter meinen gelben Schweineborsten liegt ein Hirn, das sicher seine vier Pfund wiegt, — möglich, daß es noch mehr wiegt.«
+»So?!« Und Baat lächelte ironisch. »Ich lasse mir nicht gern vorher Winke geben, ich winke schon selbst, wenn es nötig wird. Meine Augen und Ohren sind vorzüglich, und unter meinen gelben Schweineborsten liegt ein Hirn, das sicher seine vier Pfund wiegt, — möglich, daß es noch mehr wiegt.«
 
 »Sie sind köstlich!« rief ich lachend, denn dieser Fettwanst, der plötzlich seine fraglos überreich vorhandene Faulheit sanft umhüllen wollte, wirkte mehr als spaßig. Nie im Leben glaubte ich es ihm, daß er nachts verkleidet Dienst getan hätte.
 
@@ -133,7 +133,7 @@ Eine breite Gasse von weiß getünchten Lehmhäusern, — alle vorn mit offener 
 
 In Japan sitzen sie noch heute in Käfigen, diese Kinder der Seligkeit, wie der Inder sehr zart sie benennt. Hier sah man nur die Köpfe — — und die verschiedenen Gentlemen, die Auswahl hielten.
 
-Aus den Häusern Grammophonklänge und leiser Gesang, Lachen, … Der Orient ist doch poetischer als unser Kultureuropa mit seinen fragwürdigen Vierteln und Hafengassen. Die rosarote Sünde trägt hier poetischere Formen.
+Aus den Häusern Grammophonklänge und leiser Gesang, Lachen … Der Orient ist doch poetischer als unser Kultureuropa mit seinen fragwürdigen Vierteln und Hafengassen. Die rosarote Sünde trägt hier poetischere Formen.
 
 Der dicke Charly fragte einen der diensthabenden Beamten, der sofort stramm stand, nach einem Herrn mit Koteletten und Einglas. Der Polizist, braun und stark wie ein Bär, deutete sofort auf ein Kaffee mit weit vorgebauter Veranda, die dicht besetzt war. Im Hintergrund auf einem Podium spielte eine europäische Jazzband, fünf Mann im Smoking … und vielleicht fünfzig Meter weiter hielten Frauen die Babys über den Gossenlöchern ab und knabberten Kühe das Gras in den Vorgärtchen.
 
@@ -263,7 +263,7 @@ Harst und mein Zimmer hatten eine Verbindungstür. Neben dem meinen lag unser »
 
 Er sog an seiner Zigarette und weidete sich an meinem Erstaunen. Es war vielmehr Bestürzung.
 
-»… Pi Mo, mein Alter, nannte ich einen windigen Patron. Ich hätte deutlicher sagen sollen: einen preßluftiger Patron!«
+»… Pi Mo, mein Alter, nannte ich einen windigen Patron. Ich hätte deutlicher sagen sollen: ein preßluftiger Patron!«
 
 »Wer?! Der … Schütze von der verflossenen Nacht?«
 
@@ -281,7 +281,7 @@ Er schnitt die Schnüre auf und entfernte sehr vorsichtig das Papier und besicht
 
 »Und — — dann?!«
 
-»Ja … dann?! Dann müssen wir wohl aufs neue unserer Haut zu Markte tragen, es hilft nichts …«
+»Ja … dann?! Dann müssen wir wohl aufs neue unsere Haut zu Markte tragen, es hilft nichts …«
 
 Die Strohhalmstücke kamen in eine leere Vase, Kästchen und Dolch in Harsts Koffer. Inzwischen waren mir die Fragen eingefallen, die ich schon bei Pi Mo an Harald hatte richten wollen. Da er augenblicklich in selten redefreudiger Stimmung war, begann ich, neben ihm vor seinem Koffer in seinem Schlafzimmer stehend: »Weshalb bist du in der verflossenen Nacht in der Nähe der kleinen Fabrik am Bergabhang gewesen?«
 
@@ -467,8 +467,8 @@ Wir bogen in den Weg zur Drogerie ein. Zu beiden Seiten gab es vereinzelte Büsc
 
 Die Drogerie, ein kläglicher Bau mit allzu protzigen Schaufenstern, ließen wir rechts liegen und näherten uns der Fabrik. Die Einfahrt in der Mauer war von dürftigen Anlagen umsäumt, über dem Tore leuchtete ein weißes Schild:
 
-<p class="centered em">Chemische Fabrik<br />
-John Steamer</p>
+<p class="centered em">Chemische Fabrik,</p>
+<p class="centered em">John Steamer.</p>
 
 Wir hatten links vom Tor ein Versteck gefunden. Schon nach zehn Minuten tauchten die Scheinwerfer eines Autos auf. Es waren John Steamer und Bessy. Steamer steuerte selbst den Wagen, ich sah ihn zum ersten Male, und ich hatte mir von ihm ein so ganz anderes Bild gemacht.
 
@@ -478,7 +478,7 @@ Bessy fuhr mit dem Auto durch das Tor, sie fuhr sehr sicher, dann knallten die T
 
 »Zur Zypresse,« sagte Harald nur.
 
-Es war nicht mehr weit bis dorthin. Wir hielten uns möglichst gedeckt, und Harald hatte längs die Clement entsichert im rechten Ärmel. Sein linker Arm war etwas flügellahm, er hatte sicherlich Schmerzen, ließ es sich aber nicht merken.
+Es war nicht mehr weit bis dorthin. Wir hielten uns möglichst gedeckt, und Harald hatte längst die Clement entsichert im rechten Ärmel. Sein linker Arm war etwas flügellahm, er hatte sicherlich Schmerzen, ließ es sich aber nicht merken.
 
 »Ich werde nach oben klettern,« entschied er. »Du paßt hier auf. Bleibe im Grase liegen … Ich will …«
 
@@ -516,7 +516,7 @@ Baat trug am Ringfinger der Rechten einen klobigen goldenen Siegelring mit golde
 
 »Erbarmung!! Muck?!« Harald ging auf den kalauernden Ton des Dicken anscheinend mit Freuden ein, obwohl der tote Chinese neben uns wohl andere Stimmung verlangt hätte. Tot ist tot, und Mensch bleibt Mensch, ob weiß, oder gelb oder schwarz. Der arme Teufel war ja doch nur als Opfer eines Mächtigeren gefallen, des Konsortiums und dessen Direktoren, und Baat hätte getrost weniger kräftig zuschlagen können.
 
-»Ja, Hans Muck aus Barmen, Motoren-Vertreter …« erwiderte Charly und horchte nach der Straße hin. Ein Auto fuhr sehr schnell vorüber, wir sahen durch die Büsche nur die Scheinwerfer blitzen. Es wandte sich der Stadt zu und mußte von der Mühle gekommen sein. Wir hörten auch Räderknarren und Karrengerumpel, und all die Geräusche geschäftigen Treiben galten ebenfalls der Wassermühle.
+»Ja, Hans Muck aus Barmen, Motoren-Vertreter …« erwiderte Charly und horchte nach der Straße hin. Ein Auto fuhr sehr schnell vorüber, wir sahen durch die Büsche nur die Scheinwerfer blitzen. Es wandte sich der Stadt zu und mußte von der Mühle gekommen sein. Wir hörten auch Räderknarren und Karrengerumpel, und all die Geräusche geschäftigen Treibens galten ebenfalls der Wassermühle.
 
 Baat fügte hinzu: »Muck hat eine künstliche Nase und sogar sein Kinn durch Wachs verändert … Er umschnüffelt die Fabrik, und soeben, als ich dem Chin da einen Denkzettel gab, verlor ich ihn aus den Augen.«
 

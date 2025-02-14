@@ -14,7 +14,7 @@ Dann tauchte der lange dürre James Repp tadellos in Weiß mit Achselstücken, �
 
 Repp sagte dienstlich: »Ich möchte die Herren zu einer Besprechung in die Direktion bitten. Ich bin über einen Teil der Vorgänge genau unterrichtet, und wenn Sie auch, Mr. Baat, sehr weitgehende Vollmachten haben, können Sie mich doch nicht ganz ausschalten.«
 
-Baats Gesicht war Essig. »Es gibt noch nicht zu besprechen …« Und er fuhr sich nervös über seinen Borstenscheitel.
+Baats Gesicht war Essig. »Es gibt noch nichts zu besprechen …« Und er fuhr sich nervös über seinen Borstenscheitel.
 
 »Doch!« meinte Harald milden Tones.
 
@@ -148,7 +148,7 @@ Der Farbige entfernte sich.
 
 Repp schaute zu der vor ihm stehenden Bessy auf und fragte kalt: »Woher wissen es, Miß Steamer?«
 
-»Durch Pi Mo …« Sie riß aus ihrem Handtäschchen ein Päckchen Pfundnoten heraus, einen sehr hohen Betrag. »*Ich* heuchele nicht, ich war bei Pi Mo, um ihn zu bestechen … Ich ahnte, daß er über Allan mehr wußte als alle anderen hier. Pi Mo’s Leute sahen, wie Allan von Ihren verkleideten Beamten in einen Lastkarren gefesselt hineingeworfen wurde. Das war eine Stunde nach dem Schuß auf Mr. Harst, als Allan auf dem Wege zum Mühle war.«
+»Durch Pi Mo …« Sie riß aus ihrem Handtäschchen ein Päckchen Pfundnoten heraus, einen sehr hohen Betrag. »*Ich* heuchele nicht, ich war bei Pi Mo, um ihn zu bestechen … Ich ahnte, daß er über Allan mehr wußte als alle anderen hier. Pi Mo’s Leute sahen, wie Allan von Ihren verkleideten Beamten in einen Lastkarren gefesselt hineingeworfen wurde. Das war eine Stunde nach dem Schuß auf Mr. Harst, als Allan auf dem Wege zur Mühle war.«
 
 Repp, der nur unmerklich errötet war, erwiderte nichts. Er wandte sich an Pi Mo.
 
@@ -196,7 +196,7 @@ Pi Mo wurde munter. »Ein paar meiner Angestellten, die von der Mühle Mehl geho
 
 Repp, der mir so allgemach ein kleines Rätsel wurde, sagte kühl:
 
-»Wenn ich Fairlan freilasse, wird Ihnen ein vielleicht weil größerer Schmerz zugefügt werden, Miß Steamer. Fairlan würde … durch irgendeinen Unfall, den ich kaum verhindern könnte, bestimmt sehr bald sterben.«
+»Wenn ich Fairlan freilasse, wird Ihnen ein vielleicht weit größerer Schmerz zugefügt werden, Miß Steamer. Fairlan würde … durch irgendeinen Unfall, den ich kaum verhindern könnte, bestimmt sehr bald sterben.«
 
 Bessy stierte ihn entgeistert an.
 
@@ -288,7 +288,7 @@ Repp, dem ich von Bessys bestimmter Behauptung, Fairlan sei von der Mühle aus n
 
 »Das ist Pi Mo’s Werk!! Der verfl… gelbe Hund hat den Mitwisser Steamer nun auch erledigt, genau wie Baat! Aber ich fasse ihn schon noch …«
 
-Harst blickte den Polizeichef ernst an. »Ich fürchte, Sie werden, Pi Mo nie mehr sehen, Mr. Repp … Möglich, daß man noch seinen Kopf findet … Möglich. Pi Mo ist mit in die Luft geflogen, denn der Generaldirektor des Konsortiums hat Lunte gerochen …«
+Harst blickte den Polizeichef ernst an. »Ich fürchte, Sie werden Pi Mo nie mehr sehen, Mr. Repp … Möglich, daß man noch seinen Kopf findet … Möglich. Pi Mo ist mit in die Luft geflogen, denn der Generaldirektor des Konsortiums hat Lunte gerochen …«
 
 »Ich verstehe Sie nicht …«
 
@@ -328,11 +328,11 @@ Repp lachte bissig. »Richtig, deine Ahnenreihe reicht um<@refnote 7/> die Erde 
 
 »… Weiß ich, wurde in Kalkutta aufgeknüpft, ungefähr fünf Morde … — Zeige uns die Mühle.«
 
-Der große Vorhof war mit Lastwagen, Kamelen, Eseln, schreienden Kulis und Mehlstaub angefüllt. Es herrschte hier eine wilde Geschäftigkeit. Jeder der Kunden wollte zuerst abgefertigt werden. Sie hatten die Explosion schon vergessen. Es waren viele Chinesen darunter, und die Mehlsäcke flogen die Rutschbahn von oberen Mühlensaal her herab wie eilige weiße Raupen in endlosem Zuge.
+Der große Vorhof war mit Lastwagen, Kamelen, Eseln, schreienden Kulis und Mehlstaub angefüllt. Es herrschte hier eine wilde Geschäftigkeit. Jeder der Kunden wollte zuerst abgefertigt werden. Sie hatten die Explosion schon vergessen. Es waren viele Chinesen darunter, und die Mehlsäcke flogen die Rutschbahn vom oberen Mühlensaal her herab wie eilige weiße Raupen in endlosem Zuge.
 
 Die Mühle war ein langgestreckter Bau, der mit der Hinterfront nur noch zehn Meter von dem Abhang entfernt war. Schräg über uns auf der Anhöhe lag der Nazar Bagh.
 
-Es war kein Wunder, saß es hier so geschäftig herging. Die Mühle hatte vier Turbinen von erheblicher Stärke, wenn auch in der Konstruktion schon etwas veraltet. Das Wasser kam aus einem meterdicken Rohr aus der Mitte des Abhangs in den Erdgeschoßraum hinab, und der Druck mußte sehr stark sein, — ich verstehe nicht viel von technischen Dingen, sah auch zum ersten Male eine Mühlenanlage mit Turbinen.
+Es war kein Wunder, daß es hier so geschäftig herging. Die Mühle hatte vier Turbinen von erheblicher Stärke, wenn auch in der Konstruktion schon etwas veraltet. Das Wasser kam aus einem meterdicken Rohr aus der Mitte des Abhangs in den Erdgeschoßraum hinab, und der Druck mußte sehr stark sein, — ich verstehe nicht viel von technischen Dingen, sah auch zum ersten Male eine Mühlenanlage mit Turbinen.
 
 Wir besichtigten den Maschinenraum, wir stiegen in die Keller hinab, wir ließen uns Zeit, und Harst schnüffelte in allen Winkeln umher. Die Mühle besaß eigene elektrische Beleuchtung, die Keller waren zumeist leer, ausgemauert und mit Licht versehen.
 
@@ -382,7 +382,7 @@ Repp wischte, und d’Amidas Gesicht zeigte vier durch Kollodium geschlossene Sc
 
 »Schuft!« sagte Repp. Doch der Lange hatte sein Gehirn, das sicherlich weniger wog als das Baats, schleunigst aufgefrischt und meinte wie ein Lamm: »Ach, nun verstehe ich Sie erst … Gewiß, unten im Mahlsaal flogen mir Scheibensplitter ins Gesicht …«
 
-Harst seufzte. »Sie verwechseln unten und oben … *Hier* flogen sie Ihnen ins Gesicht — Nicht unten! Sie hatten zu lange Mr. Fairlan und Bessy durch dieses Fenster beobachtet, mein Freund. — Betrachten Sie den Fußboden. Die Glassplitter sind schön gleichmäßig wie die Dielen überstäubt, aber Sie hätten nicht frisches Mehl dazu nehmen sollen, es riecht stets, während Mehlstaub, der hier allmählich sich angesammelt hätte, den Geruch längs verloren haben würde. Diese Mehlschicht hier am Fenster ist auch in der Farbe von der Umgebung verschieden — eben zu frisch, mein lieber d’Amida. — Und weiter: die Schicht wäre niemals so gleichmäßig auch über die Glasscherben verteilt worden, wenn diese Scherben nur von dem durch die Explosion aufgewirbelten Staub bedeckt worden wären. Schließlich …«
+Harst seufzte. »Sie verwechseln unten und oben … *Hier* flogen sie Ihnen ins Gesicht — Nicht unten! Sie hatten zu lange Mr. Fairlan und Bessy durch dieses Fenster beobachtet, mein Freund. — Betrachten Sie den Fußboden. Die Glassplitter sind schön gleichmäßig wie die Dielen überstäubt, aber Sie hätten nicht frisches Mehl dazu nehmen sollen, es riecht stets, während Mehlstaub, der hier allmählich sich angesammelt hätte, den Geruch längst verloren haben würde. Diese Mehlschicht hier am Fenster ist auch in der Farbe von der Umgebung verschieden — eben zu frisch, mein lieber d’Amida. — Und weiter: die Schicht wäre niemals so gleichmäßig auch über die Glasscherben verteilt worden, wenn diese Scherben nur von dem durch die Explosion aufgewirbelten Staub bedeckt worden wären. Schließlich …«
 
 … Kunstpause …
 
@@ -460,7 +460,7 @@ Die Mühle war in vollem Betrieb. Aber — — was von Säcken die Gleitbahn her
 
 Harst führte uns in den Turbinenraum. Die eine Turbine stand am äußersten Ende des Raumes nach dem Abhang zu.
 
-»Bitte — horchen Sie!« sagte Harst zu Repp und deutete auf das hohe Turbinengehäuse. »Diese Turbine läuft mich. Sie ist nur eine Attrappe …« Er öffnete die eine Seite, und wir sahen in eine leere Riesenbüchse hinein, aus der eine eiserne Leiter in einem runden Rohr schräg nach unten lief.
+»Bitte — horchen Sie!« sagte Harst zu Repp und deutete auf das hohe Turbinengehäuse. »Diese Turbine läuft nicht. Sie ist nur eine Attrappe …« Er öffnete die eine Seite, und wir sahen in eine leere Riesenbüchse hinein, aus der eine eiserne Leiter in einem runden Rohr schräg nach unten lief.
 
 Er zog seine Pistole, schaltete die Taschenlampe ein und erklärte kurz: »Die Anhöhe, auf der der Nazar steht, ist Fels, mit Sandstreifen durchsetzt. Das Konsortium arbeitet sich in einer solchen Sandschicht zu den Schatzgewölben empor. In dem Schacht, dessen Sandmengen Pi Mo als Mehl zu sich schaffen ließ und in den Fluß schüttete, stecken die Gesuchten. Es werden dort Räume vorhanden sein, die behaglich als Wohnung hergerichtet sind. — Steigen wir hinab …«
 
