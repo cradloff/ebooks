@@ -214,7 +214,7 @@ Es ist an sich schon faul, wenn sich Japs und Chins verbünden.
 Sie lieben sich nie und nirgends, nur bei großen
 Lumpereien, und als ich die Tür zuerst ein wenig zu
 weit öffnete, sah ich vorn vier Kerle sitzen, je zwei Mikado\-
-und zwei Kantonmänner.« …
+und zwei Kantonmänner.«
 
 Lücke betrachtete finster seine Dienstpistole. »Ob Jap,
 ob Chin, mir juckt der Zeigefinger. Ich bewundere Ihre
@@ -249,7 +249,7 @@ Tropen: Seine Nerven hatten gelitten, wir hatten ja auch
 nicht gerade stille Tage hinter uns. Der Stern von Kabinur
 <@pagebreak/>
 war ein gefährliches Rätsel gewesen, und bevor wir den
-wahren Leiter des Konsortiums zur Verwertung der Nazar-Bagi-Schätze
+wahren Leiter des Konsortiums zur Verwertung der Nazar-Bagh-Schätze
 zur Strecke gebracht hatten, war der Tod in
 mancherlei Form in unserer nächsten Nähe gewesen.
 
@@ -385,7 +385,7 @@ Harst hörte gespannt zu.
 
 »Es ist unbedingt nötig, daß Sie sich besinnen, Grablay,
 unbedingt …« meinte er leicht nervös. »Es hängt alles
-von ihrer Auskunft ab … Wenn diese so ausfällt, wie
+von Ihrer Auskunft ab … Wenn diese so ausfällt, wie
 ich hoffe, brauche ich mir keine Vorwürfe mehr zu machen,
 was meinen Verdacht gegen eine bestimmte Person betrifft.
 Ich bin stets sehr niedergeschlagen, wenn meine Schlußfolgerungen
@@ -402,7 +402,7 @@ feudaler Jacht … Vor mehreren Monaten sah ich ihn
 an Bord dieser Jacht am Viktoria-Dock in Bombay. Neben
 ihm stand Donna Grazia, und anscheinend hatte er sie
 für eine Vergnügungstour als Gast bei sich. Sein Name
-ist mir entfalten …«
+ist mir entfallen …«
 
 Harst sagte mit blanken Augen:
 
@@ -465,7 +465,7 @@ sagte Harst noch leiser. —
 <h2>3. Kapitel.</h2>
 <h3>Der Plantagenbesitzer.</h3>
 
-Eins seltsame beklommene Stimmung lagerte über uns
+Eine seltsame beklommene Stimmung lagerte über uns
 wie eine Gewitterwolke, die sich jeden Moment entladen
 konnte.
 
@@ -623,7 +623,7 @@ Lage wie Sie …«
 »Ah nein?! Wirklich?!« — und Harst lachte ihm ins
 Gesicht.
 
-Grablays rief da, — und er gab nur Lückes und meinen
+Grablay rief da, — und er gab nur Lückes und meinen
 Gedanken Ausdruck:
 
 »Aber Harst, — das geht denn doch zu weit … Wollen
@@ -651,7 +651,7 @@ die Hand mit der Pistole dem dreckigen Chinesen entgegen,
 der hier den Kapitän zu spielen schien.
 
 <@pagebreak/>
-Der Kerl prallte zurück … Ich könnte durch die Türspalte
+Der Kerl prallte zurück … Ich konnte durch die Türspalte
 gerade noch einen Blick auf Frau Grazias Gesicht
 werfen. Sie saß jetzt aufrecht da, die schöne Kreolin, und sie
 hatte die Hände auf die Armstützen gelegt und glich mit dem
@@ -661,7 +661,7 @@ so gespannt, — sie verfolgte die Vorgänge mit eindeutigem
 Interesse, — und was ich erwartet hatte, geschah wirklich.
 Sie schnellte hoch, sie rannte mit der Schulter gegen den
 Chinesen, der bereits wieder in Sicht gekommen war, sie
-war bei uns und sank mit einem theatralischer Seufzer
+war bei uns und sank mit einem theatralischen Seufzer
 und einem fremden Spruch auf die Backbordbank.
 
 »… Gerettet!! Diese Erpresser!! Meine Herren, ich
@@ -834,7 +834,7 @@ könnten, beteiligte.
 
 Es war jetzt zwölf Uhr mittags. — Unsere Lage war
 nicht gerade verheißungsvoll. Rutterfield erklärte, daß im
-ganzen neun Gelbe an Lord seien. Wenn das Maschinengewehr
+ganzen neun Gelbe an Bord seien. Wenn das Maschinengewehr
 nicht so bedrohlich bereitstände, würde man ja die
 Kerle einzeln abschießen können.
 
@@ -913,7 +913,7 @@ ausschalten, — ihr versteht mich?«
 dann keinen Abzug mehr und ist erledigt …«
 
 Rutterfield wurde unruhig. »Hoffentlich schießen Sie nicht
-daneben … Wenn die Kerle in Falle des Mißlingens
+daneben … Wenn die Kerle im Falle des Mißlingens
 uns unter Feuer nehmen, sind wir geliefert. Ich würde doch
 raten, die Sache nicht zu übereilen und erst einmal …«
 
@@ -923,12 +923,12 @@ Harst sagte harmlos: »Legen Sie sich lang auf den Fußboden,
 Bitte — los doch!«
 
 Die Kreolin blieb sitzen. »Wenn Sie drei sich der Gefahr
-aussehen — für uns alle, werde ich mich nicht verkriechen.«
+aussetzen — für uns alle, werde ich mich nicht verkriechen.«
 Es klang stolz und selbstbewußt, und wir lernten
 die schöne Frau von einer neuen Seite kennen.
 
 Aber Harst wurde energisch. »Ich muß dringender bitten,
-das Sie gehorchen, Frau de la Rocka. Leichtsinn ist etwas
+daß Sie gehorchen, Frau de la Rocka. Leichtsinn ist etwas
 anderes als Mut.«
 
 »Wie Sie wünschen …« — und sie nahm auf dem
@@ -1034,7 +1034,7 @@ nicht noch jemand die Strickleiter eilfertig emporgeklommen
 wäre und sich winselnd und heulend Harst zu Füßen
 geworfen hätte: Der Bengel Sifu!
 
-»Missa Harst,« jammerte er, »Sie waren immer freundlich
+»Missu Harst,« jammerte er, »Sie waren immer freundlich
 zu mir, und ich bin nicht so schlecht und undankbar, wie
 Sie es annehmen müssen … Ich hatte nur Angst vor
 *ihm*, entsetzliche Angst …«
@@ -1103,7 +1103,7 @@ schätzte er mich als Witwe falsch ein, — seine Mitgiftjägerei
 schlug kläglich fehl, auch später, und das Ende vom Liede
 war eben meine Entführung. Ich war nicht einen Augenblick
 im Zweifel, daß er die Sache arrangiert hatte und daß
-er sich nur deshalb vorher selbst zum Schein am Ostrande
+er sich nur deshalb vorher selbst zum Schein am Strande
 überfallen ließ …«
 
 Sie schaute auch nicht ein einziges Mal zu Percy
@@ -1157,7 +1157,7 @@ kurze Gefangenschaft, die ein unerwartetes Ende fand, nachdem
 Rutterfield Maitu San und mich nach heftigem Kampf
 überwältigt hatte. Er erkannte mich in meiner Verkleidung
 nicht, ich entfloh sofort wieder, gelangte nach Bombay zurück
-und er fuhr an jenem Abend, als Grablay mich zu sich bat,
+und erfuhr an jenem Abend, als Grablay mich zu sich bat,
 von Rutterfields Anwesenheit in der Stadt. Daher hatte
 ich es so eilig. Mir lag daran, Maitu Sans neues Versteck
 zu entdecken, — ich war Zeuge des Überfalles auf Frau

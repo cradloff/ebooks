@@ -10,7 +10,7 @@ Die Lady Hamilton entsprach in keiner Weise der Vorstellung,
 die man sich nach den überlieferten Bildern von
 dieser blendend schönen Geliebten des berühmten englischen
 einarmigen Seehelden Lord Nelson machen darf. Es handelt
-sich der um unsere Lady Hamilton, und das war eine
+sich hier um unsere Lady Hamilton, und das war eine
 Art Motorjacht, wenn man eine großsprecherische Bezeichnung
 wählen will. Eigentlich war es nur ein großer Kutter,
 den sein Vorbesitzer eigenhändig vervollkommnet hatte. Wer
@@ -33,7 +33,7 @@ Aber das sind olle Kamellen aus dem vorigen Abenteuer.
 
 Es war gegen Mittag, als wir auf dem stillen, trügerischen
 Wasser der Bucht von Cambay unsere Lady stoppten
-und vor der grausamen Sonnenglut hinter einen bewaldeten
+und vor der grausamen Sonnenglut hinter einem bewaldeten
 Inselchen Schutz suchten. Das Eiland lag mitten
 zwischen Korallenklippen etwa eine Seemeile vom Ostufer
 entfernt und war vielleicht bis dahin von keines Menschen
@@ -208,7 +208,7 @@ Lächeln.
 Badeseide auch die Badekappe im Gebüsch entdeckt, nehme
 ich an.«
 
-Worauf der lange Hans in der Mitte des Leibes einbohrte
+Worauf der lange Hans in der Mitte des Leibes einknickte
 und die obere Hälfte dem Busche näherbrachte. »Donnerwetter
 — wirklich …!!« Er fischte die Kappe heraus
 und seufzte. »Die hatte ich übersehen, aber ich sah dafür
@@ -216,7 +216,7 @@ Sifus verdächtigen Reinlichkeitstrieb. — Er zog sich nämlich
 seine weiß gewesene Jacke aus, tauchte sie ins Wasser
 und schwenkte sie hin und her — zum Trocknen, *den*
 Eindruck wollte er erwecken, aber der Eindruck auf mich
-war der eines Signale für die Dschunke, Schraut.«
+war der eines Signals für die Dschunke, Schraut.«
 
 Wenn drei Leute vom Fach beieinander und zwei davon
 so ausgesprochene Originale sind wie Lücke und Harst,
@@ -245,7 +245,7 @@ Beziehungen unterhält. Es wäre jedoch gänzlich verfehlt,
 den Bengel durch sanfte Ermahnungen mit dem Tauende
 <@pagebreak/>
 zum Reden zu bringen. Tun wir so, als ob wir ihn für
-ein Harmloses Schokoladenpüppchen halten. Und jetzt —
+ein harmloses Schokoladenpüppchen halten. Und jetzt —
 verschwindet!«
 
 Er nahm Lücke die Badekappe ab und stelzte über die
@@ -291,7 +291,7 @@ und französischer Champagner zum Beispiel kostet hier …«
 Stopp …
 
 Wir standen still. Wir hatten gleichzeitig auf einem
-Korallenriff, das sich wie ein Bootssteg vorn Ufer seewärts
+Korallenriff, das sich wie ein Bootssteg vom Ufer seewärts
 über dem Wasser hinzog, einen Angler bemerkt, der nicht
 weniger als fünf Angelstöcke ausgelegt hatte.
 
@@ -354,7 +354,7 @@ Lücke zwinkerte mir heimlich zu und grinste. Den besonderen
 Unwillen des alten Sonderlings hatte Lückes Monokel
 erregt, obwohl die Hornbrille auch nur noch ein Glas
 hatte und statt des zweiten ein festgenähtes Lederstück, hinter
-dem eine leere Augenhöhle unter dem halb Herabgesunkenen
+dem eine leere Augenhöhle unter dem halb herabgesunkenen
 Lid sichtbar wurde.
 
 Der liebenswürdige Jakob war einäugig.
@@ -420,7 +420,7 @@ sein Zeug einzupacken. Ohne ein Wort des Abschieds stieg
 er zum Ufer hinab, schleppte aus dem Gebüsch einen Einbaum,
 <@pagebreak/>
 also einen aus einem Baumstamm hergestellten
-Nachen ins Wasser und ruderte noch Südost der Festlandküste
+Nachen ins Wasser und ruderte nach Südost der Festlandküste
 zu.
 
 Lücke und ich hatten uns schleunigst in den Baumschatten
@@ -454,7 +454,7 @@ irgendwie zu der verdufteten Dschunke in Beziehung.«
 Wir brauchten noch zehn Minuten, dann sahen wir
 die Bucht und unsere vertäute Lady wieder vor uns.
 
-Als wir jeden nach Harst Ausschau hielten, als wir
+Als wir jedoch nach Harst Ausschau hielten, als wir
 schließlich an Bord gingen, lag da in der Kajüte der sauber
 gefesselte Bengel Sifu mit wehleidigem Gesicht auf dem
 Fußboden, hatte ein Kissen unter dem Kopf und den vierbeinigen
@@ -580,7 +580,7 @@ Der da faselt allerlei, er hieße Harald Harst, was doch
 purer Schwindel ist. Harst kenne ich, der wohnt in Berlin
 irgendwo, und ihr seid … ja, was seid ihr?!«
 
-Die hübsche Geisha, deren feine Händen viel zu schade
+Die hübsche Geisha, deren feine Händchen viel zu schade
 für den Kolben einer Pistole waren, hatte die Waffe noch
 immer in der Hand, schien jedoch mit Jakobs rauhem Verkehrston
 wenig einverstanden. Offenbar verstand sie ganz
@@ -605,7 +605,7 @@ in meiner Brusttasche steckt mein Paß zur gefälligen Einsichtnahme,
 und Harst und Schraut sind in derselben Weise
 behördlich abgestempelt.«
 
-Die Pässe Waren unser Unglück. Anderswo, oder sagen
+Die Pässe waren unser Unglück. Anderswo, oder sagen
 wir besser unter normalen Umständen hilft einem ein Paß
 über alle Schwierigkeiten hinweg. Hier trat das Gegensätzliche
 ein. Kaum hatten Mimosa San und Jakob die
@@ -615,14 +615,14 @@ flüsterten.
 
 Das Ergebnis dieses Palavers war, daß der grobe
 Gottlieb-Jakob uns verkündete, wir müßten sofort diese helle
-Behausung mit einem Kühleren Gemach vertauschen.
+Behausung mit einem kühleren Gemach vertauschen.
 
 Ich stieg eine Steintreppe hinab, man drückte mich auf
 einen mit Gras gefüllten Sack, — Schritte entfernten sich
 und eine Falltür oder dergleichen knallte zu.
 
 Es war hier wirklich angenehm und kühl und dunkel,
-und als mir durch allerlei Kopfverrenkungen die Binde von
+und als ich mir durch allerlei Kopfverrenkungen die Binde von
 den Augen gestreift hatte, sah ich absolut nichts, hörte nur
 Lücke neben mir sagen:
 
@@ -734,7 +734,7 @@ Ich wurde aus diesem Hinweis auf eine Persönlichkeit,
 <@pagebreak/>
 die doch nur zu den Leuten der geheimnisvollen Dschunke
 in Beziehung stehen konnte, nicht recht klug. Ich fand mich
-überhaupt in dieser ganzen verworrener Geschichte nicht
+überhaupt in dieser ganzen verworrenen Geschichte nicht
 zurecht. Man denke: Da ist eine Insel, auf der in einem
 zierlichen Häuschen eine junge sehr hübsche Japanerin wohnt
 — auf einer Lichtung, die nur durch die Baumkronen zu
@@ -995,8 +995,7 @@ hielt, verdient er fünf Jahre Zuchthaus!!«
 
 »Er wird seine Gründe gehabt haben,« — und Harst
 <@pagebreak/>
-schob uns beiseite und schlug ein weiteres Mauerstück her
-aus.
+schob uns beiseite und schlug ein weiteres Mauerstück heraus.
 
 Abermals geschah da etwas, das die Dinge noch mehr
 verwirrte.
@@ -1046,7 +1045,7 @@ Wir beide sahen uns oben inmitten eines Gestrüpps
 zwischen überwucherten Felsen am Rande der Lichtung, —
 von dem hübschen Bambushäuschen waren nur noch rauchende
 und zum Teil noch brennende Trümmer übrig, und die
-feinen japanischen Lackmöbel, die Kostbare Seidenbespannung
+feinen japanischen Lackmöbel, die kostbare Seidenbespannung
 der Wände — alles war dahin.
 
 Lücke und ich standen eine Weile reglos da. Der kleine
@@ -1091,7 +1090,7 @@ Bungalow, nicht gerade eine Villa, aber immerhin ein
 luftiges und lustiges Häuschen. So sehr nun auch er und
 Harst ehedem bei verschiedenen Anlässen erbitterte, aber
 friedliche Rivalen gewesen waren, Grablay hätte es uns
-ewig nachgetragen, wenn wir nicht bei ihn abgestiegen wären.
+ewig nachgetragen, wenn wir nicht bei ihm abgestiegen wären.
 
 Wenn ich sage: lustiges Häuschen, so meine ich, das es
 dort niemals alkoholfrei zuging. Grablay und ein guter
@@ -1149,7 +1148,7 @@ Banane kaute.
 Vom fernen Hafen der wunderbaren Inselstadt Bombay
 drang zuweilen das Heulen einer Sirene herüber. In einer
 Nachbarvilla dudelte der Lautsprecher, und irgendwo in dem
-Wäldchen am Abhang nach der Stadt zu schrie eine Riesenaffe.
+Wäldchen am Abhang nach der Stadt zu schrie eine Rieseneule.
 Die Straßenbahn, die Bombay mit den Malabar
 Hills verbindet, kroch wie eine feurige Raupe hin und her,
 quietschte in den Biegungen des Schienenstranges und ergänzte
@@ -1233,7 +1232,7 @@ Der Leser kann sich selbst unschwer über die Schwierigkeiten
 einer richtigen »Theorie« klar werden, wenn er nur
 an die verschiedenen widerspruchsvollen Einzelvorgänge denkt.
 Harst hatte jetzt auch seine damalige Annahme, Schneider
-hätte die Drei Japs eingekerkert, vorsichtig zurückgezogen.
+hätte die drei Japs eingekerkert, vorsichtig zurückgezogen.
 
 Grablay, dessen Augen nur wenig entzündet waren,
 meinte gegen elf Uhr, es sei jetzt die rechte Zeit, Lücke
@@ -1259,7 +1258,7 @@ lieber Harst …«
 
 »Er ist erst vorgestern von einer Geschäftsreise zurückgekehrt,
 wohnt dort drüben, vierte Villa, und ist in Bombay
-noch bekannten als ich, verfügt über Verbindungen,
+noch bekannter als ich, verfügt über Verbindungen,
 die selbst mir fehlen, und kann Ihnen genau sagen, wie
 es mit den Finanzen jedes Kaufmanns von Kaschmir bis
 Ceylon hinab steht. Er hat in dieser Hinsicht eine Monopolstellung.
@@ -1352,7 +1351,7 @@ Aufmerksamkeit, und manche Leute schwimmen in sehr unklarem
 Wasser.«
 
 Lücke lachte. »Orakelhaft wie stets!! Wenn Sie sich das
-nur abgewöhnten könnten, Harst! Was sollen die wohlgesetzten,
+nur abgewöhnen könnten, Harst! Was sollen die wohlgesetzten,
 aber dunklen Worte?!«
 
 Harst streifte die Asche seiner Zigarette ab. »Lücke, er
@@ -1361,7 +1360,7 @@ ist ohne Monokel undenkbar, Berger auch. Mögen
 Sie meine Reden zu ledern finden, — den Vorwurf macht
 man sogar Staatsmännern —, einen tieferen Sinn haben
 sie schon. Ich wundere mich nur, daß noch kein Attentat
-auf uns versucht worden ist, aber das kommt sichtbar noch.«
+auf uns versucht worden ist, aber das kommt sicher noch.«
 
 Lücke warf mir einen langen Blick zu. »Er glaubt an die
 Schmuggler, die uns Mr. James Berger servierte, Schraut!!
