@@ -41,6 +41,7 @@
 \bGing\b	Ring
 \bgesunden	gefunden
 \bha!\b	hat
+\bhakte\b	hatte
 \bHart\b	Harst
 \biH\b	ich
 \bIH\b	Ich
