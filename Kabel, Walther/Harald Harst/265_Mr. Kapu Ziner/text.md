@@ -13,7 +13,7 @@ Familie der Rollschwanzaffen gehören. Weniger angenehm
 ist das Kapuzinerpulver, das aus Sabadill, weißem Nießwurz,
 Petersiliensamen und Anis hergestellt wird und gegen
 Kopfläuse (pardon) in die Haare gestreut wird. Ich hoffe,
-keiner meiner Leser wird es benötigen.«
+keiner meiner Leser wird es benötigen.
 
 Mr. Kapu Ziner hat mit alledem nichts zu tun. Leider.
 Denn …
@@ -133,7 +133,7 @@ Ich drehte den Kopf …
 »Was gibt’s?!«
 
 Er beugte sich über mich. »ich hörte etwas, mein Alter.
-Es klang wie ein Schrei …""
+Es klang wie ein Schrei …«
 
 Er horchte,
 
@@ -545,7 +545,7 @@ Bett verlassen zu können. — Weiter kann ich nichts angeben.«
 — Folgt die Unterschrift, Ort, Datum und Zeit.
 — Das ist sehr wenig, meine Herren, finde ich,« — und der
 kleine Dicke schob den Bogen wieder in seine Mappe zurück.
-»So wenig,« fügte ich seufzend hinzu, daß ich ernsthafte
+»So wenig,« fügte ich seufzend hinzu, »daß ich ernsthafte
 Zweifel an der Selbständigkeit der Aussage hege. Insbesondere
 behauptete Frau Maitu San auf nochmaliges Befragen, daß
 sie nicht wüßte, wie der Dolch, ihr Eigentum, aus dem
@@ -571,7 +571,7 @@ Werke in meiner Bibliothek, und …«
 nicht ab,« sagte Lücke etwas gereizt.
 
 »Frau Maitu San trägt einen Schal,« fuhr Jester unbeirrt
-fort. Der englische Schriftsteller und Generalstaatsanwalt
+fort. »Der englische Schriftsteller und Generalstaatsanwalt
 Sir Humsty, erwähnt auf Seite 28 — es kann auch
 58 sein — einen Fall, in dem die Täterin im Kampfe mit
 ihrem Opfer Kratzwunden an der Hand erhielt und nur
@@ -2106,7 +2106,7 @@ Berger fragte entsetzt:
 
 »Wer sonst,« erwiderte Harst nur. »Kommt nur herüber,«
 rief er den beiden Mauergästen zu. »Der Schlußakt
-der Tragödie beginnt …
+der Tragödie beginnt …«
 
 James Berger holte die Leiter und lehnte sie an die
 Mauer. »Grablay, wo ist Maitu San?« flüsterte er scheu.
@@ -2370,37 +2370,37 @@ freundschaftlich unter den Arm.
 
 Wir schritten über die Straße in den Busch hinein. Die
 Sonne leuchtete so strahlend über dem kleinen Städtchen,
-daß die Bilder menschliczder Verruchtheit, die wir dort hinter
-uns soeben in den düsteren Zellen geschaut hatten, wirr wie
-etwas Unwirkliches, Abschreckend-»Traumhaftes vorkamen.
+daß die Bilder menschlicher Verruchtheit, die wir dort hinter
+uns soeben in den düsteren Zellen geschaut hatten, mir wie
+etwas Unwirkliches, Abschreckend-Traumhaftes vorkamen.
 
 Jester wandte sich halb zurück. »Mr. Harst, Sie erwähnten
 doch in der Bibliothek eine Kiste … Wie ist’s damit?«
 
-»Richtig, die Kiste …! Ja, mein lieber Zettel, das bin
-ich Ihnen noch schuldig geblieben, Sehen Sie, als Sie mich
+»Richtig, die Kiste …! Ja, mein lieber Jester, das bin
+ich Ihnen noch schuldig geblieben. Sehen Sie, als Sie mich
 fest schlafend glaubten, bin ich leise in Ihrem Arbeitszimmer
 gewesen und habe mit Donna Grazias Hausmeister telephoniert,
-er solle mir doch sofort als Eilgut oder durch eins
-Vertrauensperson Maitu Sans kleinen Kilo schien.«
+er solle mir doch sofort als Eilgut oder durch eine
+Vertrauensperson Maitu Sans kleinen Miko schicken.«
 
-»Kilo?«
+»Miko?«
 
-»Ja, ein Kilo ist eine Spielart der Kapuzineraffen;
-wird auch Kanaille genannt, lebt in Brasilien, ist sehr klingt
-wird leicht Turm und ist überaus zärtlich und stößt zwitschernde
-Töne aus. Maitu Sans Kilo heißt sehr poetisch, Stellen,
-Schwalbe, Schwalben, — die zwitschern ja auch. Dieser Kilo
+»Ja, ein Miko ist eine Spielart der Kapuzineraffen,
+wird auch Faunaffe genannt, lebt in Brasilien, ist sehr klug,
+wird leicht zahm und ist überaus zärtlich und stößt zwitschernde
+Töne aus. Maitu Sans Miko heißt sehr poetisch, Shallow,
+Schwalbe, Schwälbchen, — die zwitschern ja auch. Dieser Miko
 nun hing mit großer Liebe an Percy Rutterfield, dem toten
 Gatten Maitu Sans.«
 
-»Nun — und was sollte der Affe hier?« meinte Festen
+»Nun — und was sollte der Affe hier?« meinte Jester
 ahnungslos.
 
 »Ich hätte ihn sehr gut brauchen können. Jetzt brauche
 ich ihn nicht mehr. — Ist es nicht eigenartig, daß der flüchtige
 Verbrecher Mr. K. Ziner in der Liste der Fahrgäste des
-LuruSzuges sich als Mr. Kapu Ziner eingetragen hatte?!«
+Luxuszuges sich als Mr. Kapu Ziner eingetragen hatte?!«
 
 Jester nickte. »Sehr eigenartig, aber den Namen Kapu
 finden Sie in Indien häufiger.«
@@ -2410,21 +2410,21 @@ finden Sie in Indien häufiger.«
 
 »Die Kiste ist da,« sagte Grablay kurz. »Nicht nur die
 Kiste, der ganze Käfig sogar … Wenn nur erst Frau Grazias
-Juwelen zur Stelle waren!«
+Juwelen zur Stelle wären!«
 
 Harst schwieg dazu. — Wir überschritten jetzt jene Balkenbrücke,
 die uns so verhängnisvoll geworden, und Harald
-!legte dem neben ihm dahinziehenden Sifu den Arm nun
-die Schulter und Frühe den Jungen an sich. »Ich nenne,
-dich mit heim, mein Boy … Mein Haus hat gut für dich
+legte dem neben ihm dahintrabenden Sifu den Arm um
+die Schulter und drückte den Jungen an sich. »Ich nehme
+dich mit heim, mein Boy … Mein Haus hat auch für dich
 Platz, und du wirst, hoffe ich, dort nur Gutes lernen …«
 
-Als wir uns dem Bahnlinie der Fabrik näherten,
+Als wir uns dem Wohnhause der Fabrik näherten,
 kam uns Ethel Livingstone in heller Aufregung entgegengestürzt
 …
 
 »Maitu San hat sich erschießen wollen … Denken Sie
-nur!! Mr. Berger erschien gerade noch zur rechten Zeit ur]-
+nur!! Mr. Berger erschien gerade noch zur rechten Zeit und
 hat ihr die Pistole weggenommen … Nun hat Maitu San
 einen Weinkrampf und will nichts von Berger wissen und
 beschimpft ihn fast … Sie ist wie von Sinnen, sie schreit
@@ -2432,7 +2432,7 @@ immer, sie müsse sterben, und …«
 
 »Miß Ethel, es wird alles gut werden,« beruhigte Harst
 das flachshaarige Mädel. »Maitu San hatte allen Grund,
-sich; den Tod zu wünschen … Das werden Sie sehr bald
+sich den Tod zu wünschen … Das werden Sie sehr bald
 verstehen.«
 
 Wir gingen in Maitu Sans Zimmer, — die Vorhänge
@@ -2444,8 +2444,8 @@ und Donna Grazia hilflos auf die Schluchzende einredeten.
 Harst zog einen Stuhl heran, setzte sich und nahm Maitu
 Sans Hände in die seinen.
 
-»Sind, es liegt kein Grund mehr vor, daß Stelle nun
-Million sind,« meinte er sehr weich und zart. »Der Grund
+»Kind, es liegt kein Grund mehr vor, daß Sie so unglücklich
+sind,« meinte er sehr weich und zart. »Der Grund
 — — ist tot, Maitu San, endgültig tot.«
 
 Sie setzte sich aufrecht. Ihre Augen zeigten noch die
@@ -2453,75 +2453,75 @@ Qual der Zweifel.
 
 <@pagebreak/>
 »Kind, es ist so, wirklich … Percy Rutterfield, der als
-Mr. Kapu Ziner abermals seine Schurkenstreichs begann,
-nachdem er sich nur scheinbar auf der Bastschuhe erschossen
-hatte und nachher aus dem Wasser wieder heimliches an
-Bord geklettert sein muß. liegt im Gefängnis in Zelle 2J
-mit einem Schläfenschuß, den er sich selbst — — nicht beigelegt;
-t hat, Sondern den Nat Jester abfeuerte …
+Mr. Kapu Ziner abermals seine Schurkenstreiche begann,
+nachdem er sich nur scheinbar auf der Pestdschunke erschossen
+hatte und nachher aus dem Wasser wieder heimlich an
+Bord geklettert sein muß, liegt im Gefängnis in Zelle 22
+mit einem Schläfenschuß, den er sich selbst — — nicht beigebracht
+hat, Sondern den Nat Jester abfeuerte …«
 
-Der riesige Grablay rate zu, und Nat Jester lernte die
+Der riesige Grablay packte zu, und Nat Jester lernte die
 Unbequemlichkeit von Handschellen kennen.
 
-»— Maitu San, ich möchte die Vorgänge im Schlafs
-wagen und die späteren Ereignisse nur ganz kurz erörtern,
-— Donna Grazia liebte Berger, der sie jedoch; verschmähte
+»… Maitu San, ich möchte die Vorgänge im Schlafwagen
+und die späteren Ereignisse nur ganz kurz erörtern,
+— Donna Grazia liebte Berger, der sie jedoch verschmähte
 und nur Augen für seine kleine Japanerin hatte …« Harst
-vorhin keine Notiz davon, daß Grazia de la Rede mit einer
-Ohnmacht kämpfte, »Diese Grazia verzichtete nur zum Schein
+nahm keine Notiz davon, daß Grazia de la Rocka mit einer
+Ohnmacht kämpfte. »Diese Grazia verzichtete nur zum Schein
 auf James Berger. Sie war es, die Rutterfield an Bord der
 Pestdschunke verbergen half, und die nachher mit ihm, seiner
-Schwester und mit seinem Freunde Zettel den schändlichen
+Schwester und mit seinem Freunde Jester den schändlichen
 Plan entwarf, Maitu San in den Verdacht des Mordes
 zu bringen, womit ja auch der elenden Grazia sehr gedient
 war, durfte sie dann doch hoffen, Berger für sich zu erringen.
 — Ich hatte von alledem zunächst keine Ahnung. Sie,
 Maitu San, kannten Rutterfields Schwester, die hier
 in Kolombo gelebt hatte, persönlich gar nicht, und so wagte
-er es getrost, als Mr. Ziner im Schlafwagen den Trunkene
-nebst Pflegerin zu spielen. Er hat den Schlafwagen mit Peng
-beiden Falltüren verfolgen, nachdem Grazia ihm unsere Kqabinennummern
-mitgeteilt hatte. Doch — der seine Plan
-hatte einige Löcher … Ich: wurde stutzig, als Zettel unter
-dem Wagen unterbrach und dabei von dem Gasbehälter
+er es getrost, als Mr. Ziner im Schlafwagen den Kranken
+nebst Pflegerin zu spielen. Er hat den Schlafwagen mit den
+beiden Falltüren versehen, nachdem Grazia ihm unsere
+Kabinennummern mitgeteilt hatte. Doch — der feine Plan
+hatte einige Löcher … Ich wurde stutzig, als Jester unter
+dem Wagen umherkroch und dabei von dem Gasbehälter
 Staub und Blut wegwischte … Als Sie, Maitu San,
 über die Herkunft der Würgmale schwiegen, stieg mir ein
 neuer Verdacht auf: Rutterfield könnte noch am Leben sein,
-und sie hätten ihn vielleicht in der Kabine 20 bei dem vorgetäuschten
-Mordanfall erkannt, Ihr Benehmen bestätigte
+und sie hätten ihn vielleicht in der Kabine 20 bei dem
+vorgetäuschten Mordanfall erkannt. Ihr Benehmen bestätigte
 <@pagebreak/>
 diese Vermutung immer mehr. Als Jester Livingstones Pistole
 gestohlen hatte, mußte er Sie bei dem Verhör in den Garten
-bestellt haben … « —
+bestellt haben …«
 
 »Nein,« sagte Maitu San klar und hart, »Rutterfield
 pochte an mein Fenster und winkte mir. deshalb ging ich
-hinaus, und so lenkte sich. der Verdacht, auf Sie geschossen
+hinaus, und so lenkte sich der Verdacht, auf Sie geschossen
 zu haben, auf mich, Mr. Harst.«
 
 Ihr Blick suchte James Berger …
 
 »James, du wirst nun begreifen, wie entsetzlich unglücklich
 ich war, als ich Rutterfield noch am Leben wußte …
-Ja, ich erkannte ihn, ich schrie, da würgte er mich und be
-fahl mir zu schweigen. Ich befand mich so in einer Schrecks
-ließen Lage. Ich hatte dich, James, bereits als meinen Berg
-lobten betrachtet, ich war so froh gewesen, frei zu sein, und
+Ja, ich erkannte ihn, ich schrie, da würgte er mich und befahl
+mir zu schweigen. Ich befand mich so in einer schrecklichen
+Lage. Ich hatte dich, James, bereits als meinen Verlobten
+betrachtet, ich war so froh gewesen, frei zu sein, und
 plötzlich brachen all meine Glücksträume wieder zusammen.«
 
 Berger trat rasch zu ihr, beugte sich über sie, und sie
 schlang ihm die Arme um den Hals und küßte ihn.
 
 Wir anderen gingen still hinaus. Donna Grazia lehnte
-zwar Lückes Arm ab, aber der patente Haus sagte überhöflich:
+zwar Lückes Arm ab, aber der patente Hans sagte überhöflich:
 
-»Nur bis zum Gefängnis, Frau de la Rede … Damit
-Sie nicht noch Dummheiten machen!!
+»Nur bis zum Gefängnis, Frau de la Rocka … Damit
+Sie nicht noch Dummheiten machen!!«
 
-Nat Zettel, gefallene Größe von Jalnaroa, fand sich
-überraschend schnell in sein Schlaf.
+Nat Jester, gefallene Größe von Jalnaroa, fand sich
+überraschend schnell in sein Schicksal.
 
-»Mr. Harst,/« fragte er, bevor er abgeführt wurde, »weshalb
+»Mr. Harst,« fragte er, bevor er abgeführt wurde, »weshalb
 ließen Sie also den Affen kommen?«
 
 Harst erwiderte freundlich: »Sie werden nun ja doch
@@ -2531,7 +2531,7 @@ Jester, sollte mir helfen, Rutterfield aus Ihren Häftlingen
 überraschend herauszufinden, denn er hätte seinen Herrn
 auch in einer noch so guten Verkleidung erkannt. Sie
 kamen mir zuvor … Ihre beiden Schüsse auf Ihre Verbündeten
-machten den Kilo überflüssig.«
+machten den Miko überflüssig.«
 
 Jester schaute zur Sonne empor.
 
@@ -2539,12 +2539,12 @@ Jester schaute zur Sonne empor.
 »Ich war ein Stümper … Deshalb werde ich aufgeknüpft.
 Ich hätte Sie, Harst, unbedingt schon bei Livingstones
 beseitigen müssen. Dann wäre nichts an den Tag
-
 gekommen.«
-»Vielleicht … Sie haben eben Pech gehabt, Jester.«
-Eine Tote, darauf traten wir mit Lücke und Sifu die
 
+»Vielleicht … Sie haben eben Pech gehabt, Jester.«
+
+Eine Woche darauf traten wir mit Lücke und Sifu die
 Heimreise an.
 
-Nächster Band:
-Das Erbe der Brantings.
+<#import "*/harst.ftl" as harst>
+<@harst.naechsterband band="Das Erbe der Brantings."/>
