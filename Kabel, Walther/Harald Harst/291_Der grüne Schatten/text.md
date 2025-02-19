@@ -3,7 +3,7 @@
 <h3>Die Platinuhr.</h3>
 
 Sam Baer galt mit Recht für den besten Uhrmacher im
-nördlichsten Viertel der Milwaukee- Avenue. Das uralte
+nördlichsten Viertel der Milwaukee-Avenue. Das uralte
 Haus, in dem er seit vielen Jahren wohnte, war sein
 Eigentum und sein Stolz. Über der Haustür hatte Sam
 unter dem Firmenschild ein zweites anbringen lassen, das
@@ -13,19 +13,19 @@ Chicagos in diesem Stadtviertel durch Gottes Wohlwollen
 verschont geblieben. Allerdings hatte es im Oktober 1871,
 als die ungeheure Feuersbrunst das alte Chicago zerstörte
 und ein völlig neues, modernes entstehen ließ, in der
-Miwaukee-Avenue lediglich Holzhütten, Ställe,
+Milwaukee-Avenue lediglich Holzhütten, Ställe,
 Bretterhütten und ähnliche bescheidene Bauten gegeben,
 unter denen Sam Baers Ziegelsteinpalast damals wirklich
-wie ein Palas sich ausnahm. Doch Chicago wuchs und wuchs
-im Riesentempo sogar die Setter-Street, erhielt einen
+wie ein Palais sich ausnahm. Doch Chicago wuchs und wuchs
+im Riesentempo, sogar die Setter-Street, erhielt einen
 Wolkenkratzer mit zwölf Stockwerken, und der greise Sam
-Baer haßte nichts so sehr wie diesen Sky-Scraper, den man
+Baer haßte nichts so sehr wie diesen Skyscraper, den man
 ihm da vor die Nase gesetzt hatte und dessen Lichtreklame
 abends seine Vorderzimmer mit giftgrünen gleitenden
 Schatten erfüllte. Der alte Sam, seit langem Witwer und
 völlig vereinsamt, da seine Kinder und Enkelkinder in
 alle Winde verstreut und sehr reich geworden waren,
-mochte wohl in vielem ein Sonderling sein aber seine
+mochte wohl in vielem ein Sonderling sein, aber seine
 Ehrenhaftigkeit war über jeden Zweifel erhaben.
 
 An einem heißen Junivormittag betrat ein sehr junges
@@ -40,16 +40,16 @@ glattschleifen.
 nervös und blickte immer wieder durch das Schaufenster
 auf die Straße hinaus.
 
-Der alte Mann war Menschenkenner. Er merkte, das hier
+Der alte Mann war Menschenkenner. Er merkte, daß hier
 irgend etwas nicht stimmte. Das Mädchen war blond, sehr
 hübsch, hatte wundervolle braune Augen und war für Sams
 Geschmack allzu dürftig gekleidet. Ihm kam der Verdacht,
-sie könnte sich lediglich für diesen Gang ärmlich hergerichtet
+sie könnte sich lediglich für diesen Gang so ärmlich hergerichtet
 haben.
 
 Er schob die Brille in dem blassen, stillen
 Patriarchengesicht mit der welken Hand zurecht und sagte
-mit einer milden, weichen Stimme. »Sie haben doch einen
+mit einer milden, weichen Stimme: »Sie haben doch einen
 Ausweis, Miß? Ich habe noch nie ein so wundervolles Werk
 in Händen gehabt und auch nie einen solchen Auftrag
 angenommen.« Seine dunklen Augen begegneten denen des
@@ -70,7 +70,7 @@ Verkaufstisch und nahm jetzt mit einem schmerzlichen
 Lächeln den Telephonhörer empor.
 
 »Miß, diese Uhr steht auf der Liste«, meinte er
-bedauernd.  »Ich muß die Polizei verständigen.«
+bedauernd. »Ich muß die Polizei verständigen.«
 
 Das Mädchen sank kreidebleich in den Korbsessel und
 begann zu weinen.
@@ -80,13 +80,13 @@ an, ging um den Ladentisch herum und stellte sich vor das
 Mädchen hin.
 
 »Kind, wer hat Sie hergeschickt? Sie tun mir leid. Ich
-verstehe in Gesichtern zu lesen. Zu der Sorte, die für
+verstehe in Gesichtern zu lesen. Zu *der* Sorte, die für
 dunkle Geschäfte in Betracht käme, gehören Sie nicht.«
 
 Das Mädchen raffte sich auf und erwiderte stockend: »Ich
 — — habe die Uhr gefunden.«
 
-Sams Züge wurden härter »Dürfte das nicht eine kleine
+Sams Züge wurden härter. »Dürfte das nicht eine … kleine
 Unwahrheit sein?!«
 
 Sie schaute Ihn offen an. »Bei Gott — — nein! Es ist
@@ -95,10 +95,10 @@ keine Lüge. Die Uhr lag heute früh in unserem Briefkasten
 
 Sie kramte in ihrem Täschchen und brachte eine
 Monatskarte der Untergrundbahn zum Vorschein. »Da — ich
-heiße Verity Douglas und wohne Little Park Street bei
+heiße Verity Douglas und wohne Little Palk Street bei
 meiner Mutter, die jetzt krank ist. Ich  bin
 Stenotypistin bei Anwalt Grold und zur Zeit beurlaubt.
-Wir sind sehr arm, und Mutters Krankheit kostet sehr
+Wir … sind sehr arm, und Mutters Krankheit kostet sehr
 viel.«
 
 Ähnliche Märchen hatte Sam schon zu oft vernommen um
@@ -107,24 +107,22 @@ bereits Betrügerinnen begegnet, die noch engelhafter
 aussahen als diese angebliche Miß Douglas. So sehr er
 auch zunächst von diesem liebreizenden jungen Geschöpf
 eingenommen war, jetzt hielt er nicht mehr viel von ihren
-Tränen. Außerdem sprach das eine erschwerend mit, das der
+Tränen. Außerdem sprach das eine erschwerend mit, daß der
 Detektiv Sergeant Wallis vom nächsten Revier ihm vor
 einer Stunde eine lange Liste geraubter Schmucksachen
 gebracht und dazu lächelnd bemerkt hatte: »Großer
-Einbruch bei Frau Gardinett, lieber Baer. Wenn die Kerle
-auch kaum zu Ihnen kommen dürften um einzelne Beutestücke
+Einbruch bei Frau Gardinett, lieber Baer. — Wenn die Kerle
+auch kaum zu Ihnen kommen dürften, um einzelne Beutestücke
 zu veräußern, — — ich tue meine Pflicht, lesen Sie
 sich die Liste durch.« Dann war Wallis mit einem
 Händedruck davongegangen, um auch noch den Rest der
-Listen an Juweliere, Uhrmacher und Pfandleiber zu
+Listen an Juweliere, Uhrmacher und Pfandleiher zu
 verteilen.
 
 Verity Douglas fühlte das Mißtrauen des alten Mannes und
-trotzig und verletzt stieß sie hervor: Ich glaubte, ein
+trotzig und verletzt stieß sie hervor: »Ich glaubte, ein
 Freund hätte mir die Uhr diskret zugestellt, um uns zu
-helfen.
-
-Sehen Sie, hier ist der dicke Umschlag, in dem die Uhr im
+helfen. Sehen Sie, hier ist der dicke Umschlag, in dem die Uhr im
 Briefkasten lag …  Lesen Sie — es ist meine Adresse,
 und darunter steht — auch in verstellter Schrift:
 »Reisen Sie mit Ihrer Mutter aufs Land, wie es Ihnen der
@@ -148,10 +146,12 @@ Er trat an den Verkaufstisch, drückte auf einen Knopf,
 und durch die zweite Tür erschien ein ganz in Weiß
 gekleideter alter Chinese, der einen starken Bratengeruch
 mitbrachte. Shin Fo war Sams Koch und Faktotum und
-einziger Hausgenosse.  Der Greis und der nicht viel
-jüngere Chinese wechselten einige Sätze im reinsten
-Kantondialekt, und Shin Fo holte darauf seines Herrn
-Rock, Hut und Stock und übernahm die Aussicht im Laden.
+einziger Hausgenosse.
+
+Der Greis und der nicht viel jüngere Chinese wechselten
+einige Sätze im reinsten Kantondialekt, und Shin Fo holte
+darauf seines Herrn Rock, Hut und Stock und übernahm die
+Aufsicht im Laden.
 
 »Kommen Sie, Miß Douglas«, sagte Baer freundlich. »Ich
 werde Sie begleiten und die Sache in Ordnung bringen.«
@@ -163,10 +163,10 @@ eine äußerst peinliche Geschichte mit hineingeraten.
 Ihnen wird jedoch nichts geschehen wenn Ihre Angaben sich
 bewahrheiten, was ich … hoffe.«
 
-Verity warf den hübschen Kopf zurück, »Wie Sie wollen!
+Verity warf den hübschen Kopf zurück. »Wie Sie wollen!
 Ich wiederhole nur: Ich konnte mit gutem Grund die Uhr
 als diskretes Geschenk ansehen, denn …« — sie
-verstummte. »Nein, den Namen nenne ich nicht«, sagte sie
+verstummte. »Nein, den Namen nenne ich nicht«, fügte sie
 noch trotziger hinzu.
 
 »Gehen wir.«
@@ -182,14 +182,14 @@ waren.
 
 Verity Douglas, die sich doch ein wenig schuldbewußt
 fühlte, sah ein geschlossenes Auto dicht am Rande des
-Bürgersteiges langsam daherkommen, sah auch, das die Tür
+Bürgersteiges langsam daherkommen, sah auch, daß die Tür
 halb offen war und ein älterer Herr sich hinauslehnte,
 der ihr verstohlen zuwinkte. Sie hörte die halblauten
 hastigen Worte: »Einsteigen — wir befreien Sie!«, und
 ohne sich über ihr Tun Rechenschaft zu geben, gehorchte
-sie blindlings wurde in den Wagen gerissen, der dann
+sie blindlings, wurde in den Wagen gerissen, der dann
 sofort davonsauste und fiel auf den Rücksitz zwischen
-zwei gutgekleideten Männer, die ihr ohne weiteres ihr
+zwei gutgekleidete Männer, die ihr ohne weiteres ihr
 Handtäschchen abnahmen und ihr ein schwarzes Tuch über
 den Kopf warfen. In ihrem ersten Schreck stieß sie keinen
 Ton hervor, und als sie sich leidlich erholt hatte,
@@ -206,7 +206,7 @@ der City zu.
 Sam Baer war durch Veritys Flucht oder Entführung — er
 wußte selbst nicht, was er davon halten sollte —
 vollkommen überrascht worden. Leider war keine leere
-Autotaxe in der Nähe, so das er auch den Gedanken einer
+Autotaxe in der Nähe, so daß er auch den Gedanken einer
 Verfolgung aufgeben mußte. Er eilte mit langen schritten
 die Straße hinab, wurde von vielen Leuten gegrüßt, die
 der noch immer aufrechten würdigen Gestalt erstaunt
@@ -216,24 +216,26 @@ Morris von der Detektivzentrale zusammentraf. Morris
 rauchte behaglich eine pechschwarze Zigarre, die jeden
 normalen Menschen glatt umgeworfen hätte. Aber der
 untersetzte Kaptain mit der wuchtigen Preisringerfigur
-war ein Mann wie aus Eisen. Man sagte ihm nach, das seine
+war ein Mann wie aus Eisen. Man sagte ihm nach, daß seine
 Faust schon etliche und einige Gegner prompt erledigt
-hatte und Tatsache war, das er Carsaro Gullitti, den
+hatte und Tatsache war, daß er Carsaro Gullitti, den
 »Leutnant« des Gangsters Al Black die Pistole nach einer
 Ladehemmung so kräftig gegen die Stirn geworfen hatte,
 das die Ärzte Gullittis Schädel unmöglich mehr
 zusammenflicken konnten.
 
-»So eilig Mr. Baer?«, wunderte sich Morris schmunzelnd
+»So eilig Mr. Baer?«, wunderte sich Morris schmunzelnd.
 »Hat man etwa bei Ihnen eingebrochen?! — Na, kommen Sie
-nur mit ins Büro. Es ist ein Zufall, das ich gerade hier
-frische Luft schnappe.« Sam Baer schaute ihn Mißtrauisch
-an.  »Kaptain, Sie schnappen nie frische Luft, sondern
-nur nach fetten Bissen. Ich habe Ihnen eine seltsame
-Geschichte zu erzählen.«
+nur mit ins Büro. Es ist ein Zufall, daß ich gerade hier
+frische Luft schnappe.«
+
+Sam Baer schaute ihn Mißtrauisch an. »Kaptain, Sie
+schnappen nie frische Luft, sondern nur nach fetten
+Bissen. Ich habe Ihnen eine seltsame Geschichte zu
+erzählen.«
 
 »Sowas höre ich gern, alter Freund — Bitte, nach Ihnen,
-dem Alter die Ehre und die Ehrbarkeit.« —
+— Dem Alter die Ehre und die Ehrbarkeit.« —
 
 Inzwischen hatte der ausgemergelte Shin Fo im Uhrenladen
 seines Herrn einen Kunden empfangen, der dem Chinesen
@@ -252,7 +254,6 @@ bescheidene Stellungen hinaus gebracht hatte, so war er
 doch gerade durch das mehr freundschaftliche Verhältnis
 zu Samuel Baer, diesem stillen, gebildeten Greise,
 ebenfalls ein eifriger Autodidakt geworden.
-
 Diese beiden bejahrten Männer verbrachten ihre Abende
 zumeist über gelehrten Werke und disputierten mit der
 Ruhe abgeklärter Gemüter über ethische, religiöse und
@@ -276,12 +277,12 @@ sah auf dieser Hand eine Platinuhr mit Brillanten liegen.
 Grinsen, das sofort wieder verschwand. »Den Namen kenne
 ich nicht und Uhren kaufen wir nicht.«
 
-Er faste unter die Kante des Verkaufstisches, aber bevor
+Er faßte unter die Kante des Verkaufstisches, aber bevor
 er noch auf den dort befindlichen Auslöser des geheimen
 Türverschlusses drücken und mit der anderen Hand die
-Pistole aus der Weisen Jacke ziehen konnte bohrte ihm der
+Pistole aus der weißen Jacke ziehen konnte bohrte ihm der
 Fremde einen Revolverlauf in die Rippen und zischte
-drohend: »Hände hoch, Schlitzauge!!  Zahlst du oder
+drohend: »Hände hoch, Schlitzauge!! — Zahlst du oder
 zahlst du nicht? Du weißt, wer mich schickt. Stell’ dich
 nicht dumm!«
 
@@ -297,18 +298,18 @@ Zeitungshändler?!«
 
 Der alte Fo musterte den Fremden mit unverhohlener
 Geringschätzung. »Mister, wir haben hier kein Hehlernest,
-sondern eine Reparaturwerkstatt für Uhren. « sein Blick
+sondern eine Reparaturwerkstatt für Uhren …« Sein Blick
 senkte sich und blieb auf dem kostbaren Prunkstück
 haften, dessen Diamanten betörend funkelten. »Außerdem«,
 fügte er dann leiser hinzu, da der Geschäftssinn sich
-immer stärker in ihm regte, würden auch zweitausend
+immer stärker in ihm regte, »würden auch zweitausend
 Dollar genügen. Wollen wir uns abends um elf treffen,
-falls die Uhr Ihr Eigentum ist, natürlich nur dann.
-»Vielleicht irgendwo am Nordarm, am Kai, etwa in der
-Blanche Street.«
+— falls die Uhr Ihr Eigentum ist — natürlich nur dann.
+Vielleicht irgendwo am Nordarm, am Kai, etwa in der
+Blanche Street …«
 
 Der Fremde nickte kurz. Seine starren Augen wurden jetzt
-sogar Shin Fo unheimlich. Wenn du gelber alter Schuft
+sogar Shin Fo unheimlich. »Wenn du gelber alter Schuft
 mich irgendwo verrätst«, — meinte er, langsam rückwärts
 zur Tür schreitend, »wirst du noch heute zu viel Wasser
 schlucken! Merke dir das.«
@@ -317,7 +318,7 @@ Als er die Tür erreicht hatte, erschien draußen ein
 zweiter Mann, der die Tür aufstieß und blitzartig dem
 ahnungslosen Fo eine Hand voll Sand ins Gesicht
 schleuderte. Bevor der Chinese noch seine Augen säubern
-konnte fuhr draußen ein kleiner Sportzweisitzer mit
+konnte, fuhr draußen ein kleiner Sportzweisitzer mit
 Klappverdeck in wilder Jagd davon und verschwand um die
 Ecke.
 
@@ -362,19 +363,19 @@ Frau Douglas tatsächlich krank ist …«
 
 »Gern, sofort …«, — Shin Fo tat sehr entzückt, als er
 jedoch den Hörer weglegte, machte er ein sehr langes
-Gesicht und bedauerte aus lebhafteste, sich mit der
-Polizei eingelassen zu gaben. Er liebte einen ruhigen
+Gesicht und bedauerte aufs lebhafteste, sich mit der
+Polizei eingelassen zu haben. Er liebte einen ruhigen
 Lebenswandel am Tage über alles, und die ihm jetzt
 aufgebürdete Detektivrolle erschien ihm wie eine
 Herabsetzung. Er kleidete sich rasch zum Ausgehen um,
 verließ das Haus, nachdem er Fenster und Türgitter
-geschlossen hatte, und schlich auf seinen dicken Sohlen
-Mißmutig durch abgelegene Straßen, bis er die Little
-Polk-Street erreicht hatte. Vor der großen Mietskaserne
-blieb er stehen, betrat den Flur und sah sich hier
-urplötzlich dem rabiaten Fremden gegenüber, der ihn
-überrascht anblickte uns ihn dann leise anfuhr: »Lump,
-— schere dich zum Teufel!«
+geschlossen hatte, und schlich auf seinen dicken
+Filzsohlen mißmutig durch abgelegene Straßen, bis er die
+Little Polk-Street erreicht hatte. Vor der großen
+Mietskaserne blieb er stehen, betrat den Flur und sah
+sich hier urplötzlich dem rabiaten Fremden gegenüber,
+der ihn überrascht anblickte uns ihn dann leise anfuhr:
+»Lump, — schere dich zum Teufel!«
 
 Shin Fo erstarrte vor Schreck. Draußen flitzte wieder der
 Sportzweisitzer davon. Der Chinese trocknete sich den
@@ -406,7 +407,7 @@ Krankenschwester, die ihn höflich nach seinen Wünschen
 fragte.
 
 Der alte Herr Fo war wie gesagt durch eine harte
-Lebensschule gegangen.  Daseinskampf in der mannigfachen
+Lebensschule gegangen. Daseinskampf in der mannigfachen
 Form, wie Fo ihn durchgefochten, wird zum Brunnen von
 Weisheit.
 
@@ -420,7 +421,7 @@ Als Fo das eine Zimmer betrat, dessen Fenster, welche
 Seltenheit, auf einen alten Garten hinausgingen, dessen
 hohe Bäume freundlich mit frischem Blattgrün betupft
 waren, fand er in einem Lehnsessel am Fenster eine
-Kleine, korpulente Frau mit krankhaft gelbem Gesicht und
+kleine, korpulente Frau mit krankhaft gelbem Gesicht und
 dünnem, grauem Haar, die mit dunkel umrandeten Augen ihm
 matt entgegenschaute. Sie trug eine saubere Nachtjacke,
 ihre Hände hielten eine aufgeschlagene Bibel auf der
@@ -428,9 +429,11 @@ roten Steppdecke, die um ihren Leib gehüllt war.
 
 Fo betrachtete das welke, faltige und doch so gedunsene
 Gesicht und zog prüfend die Luft ein. Er dachte sich sein
-Teil. Er kannte diese Sorte von Kranken Gewohnheitstrinker,
+Teil. Er kannte diese Sorte von Kranken: Gewohnheitstrinker,
 durch schlechten Fusel gänzlich
-heruntergekommen!  »Frau Douglas«, sagte er trotzdem
+heruntergekommen!
+
+»Frau Douglas«, sagte er trotzdem
 äußerst freundlich.  »Ich überreiche Ihnen hier als
 Spende einer wohltätigen Anstalt zwanzig Dollar.«
 
@@ -439,11 +442,11 @@ stopfte sie sofort gierig in ihren Jackenausschnitt,
 ohne von Fo weiter Notiz zu nehmen.
 
 Fo räusperte sich. »Ihre Tochter Verity war vorhin in
-unserem Geschäft …  Einer Uhr wegen … Sie behauptete,
-die Uhr hätte sie morgens im Briefkasten gesunden.«
+unserem Geschäft … Einer Uhr wegen … Sie behauptete,
+die Uhr hätte sie morgens im Briefkasten gefunden.«
 
 »Sie … lügt immer«, krächzte die Kranke ohne besondere
-Teilnahme, »Verity ist in schlechte Hände geraten … Sie
+Teilnahme. »Verity ist in schlechte Hände geraten … Sie
 gehört zu einer Verbrecherbande … Ich bete hier jeden
 Tag zu Gott, daß die Blitze des Himmels diese Teufel
 töten möchten, die sich frecher Weise Grant-Gang nennen.«
@@ -457,14 +460,14 @@ Sie, was daraus entstehen könnte, wenn Ihre
 Anschuldigungen der Polizei zu Ohren kommen. Sie müssen
 auch schon im Interesse Ihres Kindes …«
 
-Die Kranke lachte so schrill auf, das Shin Fo
+Die Kranke lachte so schrill auf, daß Shin Fo
 zusammenzuckte.
 
-»Ich habe Beweise«, schrie sie überlaut, »Ich habe so
+»Ich habe Beweise«, schrie sie überlaut. »Ich habe so
 sichere Beweise, daß …«
 
 Die Pflegerin trat rasch hinzu. »Regen Sie sich nicht
-auf, Frau Douglas.. Und Sie, — bitte gegen Sie .." Sie
+auf, Frau Douglas … Und Sie, — bitte gehen Sie …« Sie
 drängte Fo schnell in den Flur und flüsterte ihm zu: »Sie
 ist ja nicht ganz bei Verstand … Entschuldigen Sie, —
 — vielen Dank, — — bitte, schweigen Sie über diese
@@ -495,13 +498,13 @@ vorgefunden und was sie in halbem Delirium geschwatzt
 hatte.
 
 Sam deutete auf das Telephon. »Melden Sie es Kaptain
-Morris … Es muß sein.  Morris glaubt bestimmt, daß
+Morris … Es muß sein. Morris glaubt bestimmt, daß
 es Mitglieder einer Bande waren, die Verity Douglas
 entführt haben, natürlich derselben Bande, die in der
 letzten Nacht das Pfandhaus der Millionärin Gilda
 Gardinett überfielen und die beiden Wächter erschossen
 und Frau Gardinett und das Personal in den Keller
-einsperrten.  Dieser neue, unerhörte Banditenstreich
+einsperrten. Dieser neue, unerhörte Banditenstreich
 dürfte ein noch kraftvolleres Durchgreifen des
 Spezialkommissars Hutter und seiner Leute veranlassen.
 Mit diesem Hutter, mein lieber Fo, ist nicht zu spaßen.
@@ -523,7 +526,7 @@ undurchsichtiges Spiel mit uns, — sind Sie nicht auch
 der Überzeugung?!«
 
 »Ja.« Und der Greis strich sich mit den Fingern leicht
-über die Stirn. »Ein …  sehr undurchsichtiges Spiel …
+über die Stirn. »Ein … sehr undurchsichtiges Spiel …
 begann nicht erst heute, Fo. Nein, in diesem Hause gehen
 Dinge vor, die mich sehr stark … belästigen.« Er
 spielte mit einer Lupe und fuhr leise fort: »Haben Sie
@@ -567,7 +570,7 @@ Und das traf auch zu.
 
 In diesem Hause wohnten eine Anzahl Herren, die alle
 einen äußerst soliden Eindruck machten und niemandem
-irgendwie auffielen. Die Garage, im Garten gelegen.
+irgendwie auffielen. Die Garage, im Garten gelegen,
 enthielt zwei Autos die ebenfalls nicht weiter ins Auge
 sprangen.
 
@@ -584,7 +587,7 @@ nacheinander prüfend an.
 »Setzen Sie sich«, sagte Kaptain Charly Greap-Hutter
 freundlich, und wies auf einen Stuhl neben dem seinen.
 
-Verity fragte ohne Scheu »Sind Sie Kaptain Hutter?«
+Verity fragte ohne Scheu: »Sind Sie Kaptain Hutter?«
 
 »Ja.«
 
@@ -599,15 +602,15 @@ Maskerade, Miß Douglas —, so, setzen Sie sich … Wir
 möchten nun von Ihnen wissen, was eigentlich mit dieser
 Uhr los ist, die da …«
 
-Verity unterbrach ihn: »Ich möchte zunächst fragen, wie
-Sie davon Kenntnis erhielten, daß ich die Uhr im
-Briefkasten gesunden hatte, denn das ist die Wahrheit.«
+Verity unterbrach ihn: »*Ich* möchte zunächst fragen, wie
+*Sie* davon Kenntnis erhielten, daß ich die Uhr im
+Briefkasten gefunden hatte, denn das ist die Wahrheit.«
 
 »Daran zweifeln wir nicht einen Augenblick«, lachte Greap
-ehrlich vergnügt.  »Wir haben die Uhr nämlich in den
+ehrlich vergnügt. »*Wir* haben die Uhr nämlich in den
 Briefkasten gesteckt, — das heißt, eigentlich hat jener
 Herr es getan …« Er zeigte auf einen jüngeren eleganten
-Menschen mit recht übermütigen Zügen, »Mr. Houston
+Menschen mit recht übermütigen Zügen. »Mr. Houston
 übermittelte Ihnen das …  Geschenk.«
 
 Stuart Houston schaute Verity strahlend an.
@@ -644,25 +647,25 @@ Gardinett auch die Armbanduhr abzunehmen, und nach
 längerer Beratung beschlossen wir auf Vorschlag Mr.
 Horters, jenes Herrn dort, der etwa wie ein kanadischer
 Dampferkapitän aussieht, jedoch weder Kanadier noch
-Seemann ist. sondern einen etwas anderen bekannten Namen
+Seemann ist, sondern einen etwas anderen bekannten Namen
 führt, diese Uhr zu einem Täuschungsmanöver zu benutzen.«
 
 Verity war starr. Aber auch empört.
 
-Greap sagte schnell hinzu »Nicht böse werden, Miß
+Greap fügte schnell hinzu: »Nicht böse werden, Miß
 Douglas. Denken Sie, daß es hier darauf ankommt, eine
-sehr gefährliche Bande unschädlich zu machen die leider
-stets so geschickt arbeitet, das wir auch nicht einen
+sehr gefährliche Bande unschädlich zu machen, die leider
+stets so geschickt arbeitet, daß wir auch nicht einen
 einzigen dieses »Gang«, noch weniger den Gangster kennen.
 In der hiesigen Verbrecherwelt gehen Gerüchte um, daß
 dieser Gangster ein Japaner sei.«
 
 Mr. Horter-Harst hüstelte warnend. Greap schwieg und
-wandte sich ihm um. »Habe ich zu viel gesagt?«, fragte er
+wandte sich ihm zu. »Habe ich zu viel gesagt?«, fragte er
 in deutscher Sprache, die Verity nicht beherrschte, wie
 er sehr wohl wußte.
 
-»Etwas zu viel. Ich möchte vorsichtiger sein, — lassen
+»Etwas zu viel. — Ich möchte vorsichtiger sein, — lassen
 Sie mich Miß Douglas den Rest mitteilen.«
 
 Verity betrachtete diesen Horter mit regstem Interesse.
@@ -674,25 +677,27 @@ Sie und Baer gegangen waren, anderswo unterbringen und
 zwar bei Ihrem Flurnachbar, dem japanischen Schuhmacher
 Taioto. Ihre Mutter ist dort sehr gut aufgehoben und wird
 aufs beste verpflegt. Ihre Wohnung ist ebenfalls sofort
-wieder besetzt worden. Sie selbst erhalten nachher, wenn
-der Fall »Grant-Gang« erledigt ist tausend Dollar. Bis
+wieder besetzt worden. — Sie selbst erhalten nachher, wenn
+der Fall »Grant-Gang« erledigt ist, tausend Dollar. Bis
 dahin müssen Sie sich freilich als unser Gast betrachten
-und mit dem nett noblierten Kellerraum nebst Bad sich
+und mit dem nett möblierten Kellerraum nebst Bad sich
 begnügen.«
 
-Also Gefangene!« sagte Verity mit blitzenden Augen
-»Mutter wird mich vermissen, und …« »Verzeihung, Ihre
-Mutter ist vollständig eingeweiht. Hier bitte diese
-Zeilen sind für Sie bestimmt — zu Ihrer Beruhigung.«
+Also — Gefangene!« sagte Verity mit blitzenden Augen.
+»Mutter wird mich vermissen, und …«
+
+»Verzeihung, Ihre Mutter ist vollständig eingeweiht. Hier
+— bitte diese Zeilen sind für Sie bestimmt — zu Ihrer
+Beruhigung.«
 
 Verity las den kurzen Brief, wurde rot und verlegen und
 meinte dann freimütig: »Sie sind sehr gut zu meiner
-Mutier gewesen, wie ich sehe …« Ihr traten Tränen in
+Mutter gewesen, wie ich sehe …« Ihr traten Tränen in
 die Augen. »Ich weiß, daß der kleine Japaner ein
 fleißiger, braver Mensch ist, besonders danke ich Ihnen
-aber dazu: daß Sie einen Spezialarzt hinzugezogen haben,
+aber dafür, daß Sie einen Spezialarzt hinzugezogen haben,
 der nun das Leiden meiner Mutter wesentlich günstiger
-beurteilt hat. Darf ich an meine Mutter einige Zeilen
+beurteilt hat. — Darf ich an meine Mutter einige Zeilen
 richten Mr. Horter?«
 
 »Gewiß. Der Brief wird durch uns besorgt werden und,
@@ -702,7 +707,7 @@ Hinterzimmer anweisen. Die Vorderräume dürfen Sie
 allerdings nicht betreten, denn …«
 
 Verity lachte keck. »Mr. Horter, ich weiß ja doch, daß
-ich mich in Kaptain Hutters Hauptquartier befinde, das
+ich mich in Kaptain Hutters Hauptquartier befinde, daß
 geheim bleiben soll. Ich verspreche Ihnen feierlich,
 nichts zu verraten, nicht zu fliehen, sondern Ihnen sogar
 nach Möglichkeit zu helfen.«
@@ -715,7 +720,7 @@ daß der Frechdachs Harry Houston ein lautes »Bravo«
 ausrief.
 
 Verity jedoch zeigte gerade für seinen Beifall wenig
-Verständnis. Abermals traf ihn ein bitterböser Blick Sehr
+Verständnis. Abermals traf ihn ein bitterböser Blick. Sehr
 ablehnend sagte sie zu ihm: »Gerade Sie sollten doch
 schweigen! Sie haben meine Bekanntschaft gesucht und sich
 an mich heran gedrängt, sogar unter anderem Namen. Sie
@@ -726,11 +731,11 @@ ja, Sie.«
 Houston-Baby (anders wurde er in der Elite kaum genannt)
 war jedoch nicht auf den Mund gefallen.
 
-»Miß Douglas. als ich Sie kennen lernte. versprach ich
+»Miß Douglas, als ich Sie kennen lernte, versprach ich
 Ihnen sehr bald, für Ihre Mutter etwas zu tun. Habe ich
 mein Versprechen nicht gehalten? Ihre Mutter wird gesund
 werden, und was uns beide betrifft: Ich bin ein treuer
-Freund, und sie… sie werden …«
+Freund, und Sie … Sie werden …«
 
 Verity senkte unter seinem zärtlich-übermütigen Lächeln
 rasch den Kopf. »Ich … werde Ihnen wohl verzeihen
@@ -1079,7 +1084,7 @@ und ließ wie vorhin ich den Spazierstock nachschleifen.
 »Harst!«, flüsterte Greap und drängte mich an das zweite
 Fenster. »Niederknien — Vorsicht!! Wenn Shin Fo die
 Verabredung einhält, ist zwar noch nicht viel gewonnen,
-immerhin etwas...«
+immerhin etwas…«
 
 Harst in der Maske vom Vormittag schritt dem Flußkai zu.
 Seine Gestalt zerrann sehr bald in dem Regendunst.
