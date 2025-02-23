@@ -802,7 +802,7 @@ Bennett« — Das Telephon stand unter meinem Sessel gut
 versteckt, und als es sich nun meldete, hörte ich zu
 meinem Erstaunen, daß Sam Baer Kaptain Morris soeben noch
 eine merkwürdige Geschichte von einem grünen,
-schattenhaften Wesen berichtet hatte, daß in seiner
+schattenhaften Wesen berichtet hätte, das in seiner
 Bibliothek im ersten Stock dreimal nachts aufgetaucht und
 wieder verschwunden sei. Harst, der mir das erzählte,
 enthielt sich jeder weiteren Äußerung hierzu. Als ich
@@ -812,7 +812,7 @@ könne niemals die Wirklichkeit erschöpfen, man müsse es
 sich abgewöhnen, heutigen Tages noch von
 Unwahrscheinlichkeiten zu sprechen. Da mußte ich ihm
 recht geben. — »Wirst du in dieser Beziehung etwas
-unternehmen«, fragte ich weiter. Er bejahte. »Wir beide
+unternehmen?«, fragte ich weiter. Er bejahte. »Wir beide
 werden spät abends zu Sam Baer übersiedeln und den grünen
 Schatten genauer unter die Lupe nehmen.«
 
@@ -875,7 +875,7 @@ Detektive der Zentrale besetzen lassen.
 
 Beim Durchsuchen der Taschen des Bewußtlosen, dem ich
 einen nassen Verband um den Kopf gelegt hatte, fand ich
-natürlich nichts, was über seine Person hatte Aufschluß
+natürlich nichts, was über seine Person hätte Aufschluß
 geben können.
 
 Als alter Praktikus ging ich jedoch sehr sorgfältig zu
@@ -902,7 +902,7 @@ den Kopf, während ich diesen »Stempel« mit wachsender
 Beunruhigung anstarrte.
 
 Ich hatte im Eifer der letzten Vorgänge jedoch eins nicht
-beachtet. Ich hatte die Tür schließen sollen — die
+beachtet. Ich hätte die Tür schließen sollen — die
 Flurtür angelehnt. Ich stand über dem Bewußtlosen gebeugt
 und schnellte herum, als hinter mir die dünne Stimme
 Taiotos erklang, eine Stimme, die nie den Tonfall änderte
@@ -912,18 +912,18 @@ Empfindungen des Sprechers verriet.
 »Es war unnötig gewesen, Mister, diese Umstände
 meinetwegen zu machen, falls dies der Fall sein sollte.«
 
-Ich starrte hin in das unergründliche Gesicht und fand
-zunächst keine Antwort.  Taioto war in einen blauen
+Ich starrte ihm in das unergründliche Gesicht und fand
+zunächst keine Antwort. Taioto war in einen blauen
 Straßenanzug gekleidet, trug tadellose Wäsche und wirkte
 beinahe etwas geckenhaft. Seine Augen ruhten sekundenlang
-auf der Puppe mit den billigen Wachskopf, dort am
-Fenster, diese kühlen Augen glitten weiter und blieben
+auf der Puppe mit dem billigen Wachskopf, dort am
+Fenster, — diese kühlen Augen glitten weiter und blieben
 auf den Schuhsohlen haften. Plötzlich schloß er die Lider
-zur engen Spalte, bückte sich und schier nur noch
+zur engen Spalte, bückte sich und schien nur noch
 Interesse für den Stempel zu haben.
 
 »Also doch« meinte er mehr zu sich selbst. Und den kühlen
-Blick in den meinen gelenkt. »Sie merken nun wohl, daß
+Blick in den meinen gesenkt. »Sie merken nun wohl, daß
 man Sie durchschaut hat. Ein Glück, daß die Pflegerin
 drüben bei mir war, als dieser Grant-Boy hier eindrang.
 
@@ -931,37 +931,36 @@ drüben bei mir war, als dieser Grant-Boy hier eindrang.
 paßte auf.«
 
 Ein kaum wahrnehmbares Lächeln verzog seine dünnen
-Lippen.  »Kaptain Hutter wird diesmal einen schweren
-stand haben. Der Grant-Gang ist keine
+Lippen. »Kaptain Hutter wird diesmal einen schweren
+Stand haben. Der Grant-Gang ist keine
 Achtgroschenjungen-Gesellschaft, wie man drüben in Ihrer
-Heimat sagt, Mister.  Ich habe Ihnen den Deutschen sofort
+Heimat sagt, Mister …  Ich habe Ihnen den Deutschen sofort
 angehört, und an die Zeitungsnotizen, daß Harst und
 Schraut einen Tripp nach Indien unternommen hätten, habe
-ich nie geglaubt. — Ich bin von Natur äußerst skeptisch
+ich nie geglaubt. Ich bin von Natur äußerst skeptisch
 veranlagt. Mr. Schraut, ich finde die Menschen bringen es
-am weitesten, die stets Mißtrauisch bleiben. Es ist dies
+am weitesten, die stets mißtrauisch bleiben. Es ist dies
 an sich ein unbequemer Charakterzug, denn solche Leute
 kommen nie zur rechten Lebensfreude, nie … Aber
 vielleicht gewinnen sie auch einiges, was wichtiger ist:
-Die verworrensten Schachpartien.
+Die verworrensten Schachpartien.«
 
 Mein Staunen schien ihm heimlich Freude zu bereiten.
-»Ich habe volles Verständnis dafür, das Sie nicht recht
+»Ich habe volles Verständnis dafür, daß Sie nicht recht
 schlau aus mir werden. Ich wäre ein Stümper, wenn ich je
 mein wahres Gesicht zeigte.«
 
 Wer sind Sie, Taioto?« Das war alles, was ich fragen
 konnte.
 
-»Schuhmacher, Mr Schraut … Ein ehrlicher Schuhmacher,
+»Schuhmacher, Mr. Schraut … Ein ehrlicher Schuhmacher.
 — Der Stempel hat mir noch gefehlt, vieles wußte ich,
-das nicht. Ich werde nicht mehr lange Schuhmacher sein.
-
-Haben sie Hutter aufgefordert, die Straße sperren zu
+*das* nicht. Ich werde nicht mehr lange Schuhmacher sein.
+— Haben sie Hutter aufgefordert, die Straße sperren zu
 lassen? — Also ja …  Auch überflüssig … Gewiß, es
 war ein Auto unten. Es ist bereits auf und davon.
 Widerrufen Sie den Befehl. Greap wird einsehen, daß es
-zwecklos ist, wenn Sie meinen Namen nennen.
+zwecklos ist, wenn Sie meinen Namen nennen …«
 
 »Greap?! — Der wahre Name des schneidigen
 Spezialkommissars wäre wohlbehütetes Geheimnis, glaubte
@@ -973,8 +972,13 @@ ich bis dahin.
 des politischen Geheimdienstes, Gruppe B., Mr. Schraut,
 — Oberst Taioto aus Tokio.«
 
-»Und Greap weiß das?« »Ja, seit vorgestern.« »Und Morris
-auch?« Er lächelte verschmitzt. »Nein. Es ist besser so.
+»Und Greap weiß das?«
+
+»Ja, seit vorgestern.«
+
+»Und Morris auch?«
+
+Er lächelte verschmitzt. »Nein. Es ist besser so.
 Und auch Sie vergessen das alles, bitte.  Nun rufen Sie
 Greap an, — ein sehr tüchtiger Mensch.«
 
@@ -983,24 +987,24 @@ Steppdecke der Puppe verborgen, das Telephon stand.
 
 Der Wachskopf meiner stummen Doppelgängerin hatte einige
 Kugellöcher, ebenso die eine Fensterscheibe. Die
-Geschosse waren glatt hindurchgegangen — saubere Arbeit,
+Geschosse waren glatt hindurchgegangen — saubere Arbeit.
 —
 
-Ich telephonierte »aber Greap war nicht mehr da. Baby
+Ich telephonierte, aber Greap war nicht mehr da. Baby
 Houston nahm die Meldung entgegen, auch ihm befahl ich,
-Taioto nur Greap gegenüber zu erwähnen »Wo ist Harst?«,
+Taioto nur Greap gegenüber zu erwähnen. »Wo ist Harst?«,
 schloß ich das Gespräch.
 
-»Mit Wilkiens und Smith um kleinen Wagen unterwegs.
+»Mit Wilkiens und Smith im kleinen Wagen unterwegs.«
 
 Als ich den Hörer weglegte, war Oberst Taioto nicht mehr
-im Zimmer Im Treppenflur hörte ich das Pochen seines
+im Zimmer. Im Treppenflur hörte ich das Pochen seines
 Schusterhammers aus der Nebenwohnung.  Dann erschienen
 Greap und drei der Elite mit einer großen Transportkiste,
 und mein Gefangener wurde unauffällig ins Hauptquartier
 geschafft. Charly Greap hatte sich den Grant-Stempel
-ebenfalls sehr genau angesehen und nur geäußert.
-»Taiotos Inkognito muß gewahrt werden. Wir sind hier an
+ebenfalls sehr genau angesehen und nur geäußert:
+»Taiotos Inkognito muß gewahrt werden. Wir sind hier
 einer ganz großen Sache auf der Spur. Ihre Rolle als Frau
 Douglas erübrigt sich fernerhin. Auch Frau Roxy wird
 abgelöst. Zwei von uns werden hier Wache beziehen.«
@@ -1010,7 +1014,7 @@ Freund Charly war nicht gerade sehr mitteilsam.
 Eine Stunde darauf saß ich im Hotel Bennett vor einem
 erlesenen Mittagessen.  Roxy kochte großartig. Verity
 Douglas und Charlys alter Vater leisteten mir
-Gesellschaft. Harst erschien bis um Abend nicht wieder,
+Gesellschaft. Harst erschien bis zum Abend nicht wieder,
 aber ein Brief von ihm bestellte mich zu halb elf in die
 Blanche Street in ein bestimmtes Haus dicht am Fluß.
 
@@ -1047,7 +1051,7 @@ leere Kiste.«
 Eine der Straßenlaterne warf durch die nassen Fenster
 geringe Lichtstreifen in das große Zimmer. Es stank hier
 wie in einer Menagerie. Ich schnüffelte, und Kaptain
-Charly meinte leise« »Ratten Schraut — — Ratten!! Der
+Charly meinte leise: »Ratten Schraut — — Ratten!! Der
 Fußboden ist halb verfault, und darunter hausen sie …«
 
 Ich erkannte an den Wänden als dunkle Striche noch zwei
@@ -1057,8 +1061,9 @@ Männer.
 
 »Wo waren Sie denn den Tag über, Charly?«, fragte ich
 etwas gereizt. »Ihr laßt mich da einfach allein mit
-unseren Revuegirls im Dachsbau zurück und …« Der
-Kaptain lachte still. »Revuegirls, nicht schlecht«, sagte
+unseren Revuegirls im Dachsbau zurück und …«
+
+Der Kaptain lachte still. »Revuegirls, nicht schlecht«, sagte
 er und sog Funken aus der Pfeife. »Wenn das unsere beiden
 Damen hörten!! — Was wir gemacht haben?!  Zwecklose
 Beobachtungen angestellt, Sam Baer verfolgt, Shin Fo
@@ -1068,15 +1073,15 @@ nicht aus den Augen gelassen mit Taioto konferiert.«
 
 »Oberst?! Kenne ich nicht. Nur Flickschuster …«
 
-»Blech, Ich weiß Bescheid.«
+»Blech. Ich weiß Bescheid.«
 
 »Wenn Sie Bescheid wüßten, Schraut, würden Ihnen die
 Haare zu Berge stehen.« Er sprach das so ernst, daß ich
 unwillkürlich den Hut abnahm. Ein Lichtstrahl traf meine
 Glatze, und Greap fügte zartfühlend hinzu: »Verzeihung,
 Ihnen kann nichts zu Berge stehen … Trotzdem: Diese
-Grund — Bande wird uns noch die Hölle heiß machen … —
-still das Signal …«
+Grant-Bande wird uns noch die Hölle heiß machen … —
+Still — das Signal …«
 
 Wir horchten. Draußen kam jemand den Bürgersteig entlang
 und ließ wie vorhin ich den Spazierstock nachschleifen.
@@ -1084,7 +1089,7 @@ und ließ wie vorhin ich den Spazierstock nachschleifen.
 »Harst!«, flüsterte Greap und drängte mich an das zweite
 Fenster. »Niederknien — Vorsicht!! Wenn Shin Fo die
 Verabredung einhält, ist zwar noch nicht viel gewonnen,
-immerhin etwas…«
+immerhin etwas …«
 
 Harst in der Maske vom Vormittag schritt dem Flußkai zu.
 Seine Gestalt zerrann sehr bald in dem Regendunst.
@@ -1095,7 +1100,7 @@ gestempelten Schuhsohlen einen intimen Zusammenhang
 vermuten, kann es Harst genau so ergehen wie meiner
 Vertreterin im Lehnsessel, es sei denn, daß …«
 
-»Es ist«, beruhigte mich Charly, »Die neu gelieferten
+»Es ist«, beruhigte mich Charly. »Die neu gelieferten
 Westen haben sogar Kragen und Leibwärmer und die Hüte
 …«
 
@@ -1116,7 +1121,7 @@ gespenstischen, ungewissen Vorgänge dort draußen auf dem
 Wasser.
 
 Am Nebenfenster knieten der Riese Wilkiens und
-Baby-Houston. Wir vier in diesem gestankerfüllten
+Baby Houston. Wir vier in diesem gestankerfüllten
 Moderraum wurden wie von magnetischer Kraft
 herumgerissen, als das Zimmer hinter uns mit einem
 Schlage in grellem, giftiggrünem Licht erstrahlte, und
@@ -1124,7 +1129,7 @@ wir nun mit halb geblendeten Augen eine Gestalt
 bemerkten, die in jeder spiritistischen Sitzung helle
 Begeisterung hervorgerufen hätte. Das war nicht Mann,
 nicht Weib, was da in der Tür sich aufgebaut hatte, — das
-war nur ein mit grünem Stoff behängtes Etwas, und von
+war nur ein mit grünem Stoff behängtes Etwas, und vor
 diesem »Gespenst« schien in der Luft eine Laterne zu
 schweben, die das »Etwas« so grell beleuchtete, —
 vielleicht anderthalb Meter vor der Gestalt hing die
@@ -1144,9 +1149,10 @@ diesmal die Vorteile der Jugend und der Gelenkigkeit für
 sich, — im Nu war er hinter dem grünen Schatten her, im
 Nu prallte er zurück und taumelte, einen anderen Mann in
 den Armen, wieder ins Zimmer hinein, fiel hintenüber und
-fluchte noch wilder als der Preisboxer Wilkiens.  Unsere
-Laternen blitzten auf, beleuchteten Baby und den anderen,
-und der andere war Harst, — bewußtlos. Die Augen
+fluchte noch wilder als der Preisboxer Wilkiens. 
+
+Unsere Laternen blitzten auf, beleuchteten Baby und den anderen,
+und der andere war … Harst, — bewußtlos, die Augen
 verdreht, mit herabhängendem Unterkiefer, halb
 abgerissenen falschen Bart und schief sitzender Perücke.
 
@@ -1162,36 +1168,39 @@ sondern eilten auf die Straße, um festzustellen, ob die
 Detektive draußen nicht das grüne Gespenst erwischt
 hätten. Die Straße war ja vollkommen unauffällig
 abgeriegelt gewesen, und die beiden Schüsse am Flussufer
-hatten die Beamten bestimmt aufmerksam machen müssen.  Zu
-unserem Erstaunen flüsterte unser schachmatter Patient
+hatten die Beamten bestimmt aufmerksam machen müssen.
+
+Zu unserem Erstaunen flüsterte unser schachmatter Patient
 nach einigen kräftigen Atemzügen: »Sorgt dafür, daß das
 Haus durchsucht wird … Es ist ein Weib, das mich
 Houston in die Arme warf … Und dann, — wie spät ist
-es?!« Greap musterte den so unerwartet wieder Aufgelebten
+es?!«
+
+Greap musterte den so unerwartet wieder Aufgelebten
 mit einigem Mißtrauen. »Waren Sie gar nicht bewußtlos,
 Harst?! Was ist eigentlich vorgefallen.« Als er Harst
 dabei gegen eine der leeren Kisten stützen wollte, rief
-er erschrocken! »Sie bluten ja?!« »Zum Glück..! Würden
-Sie nicht bluten, wenn man Sie über das Pflaster schleift
-und wie einen halb strangulierten Widder?! Und das taten
-die Leute. — Wie spät ist es?!« »Fünf Minuten nach elf«,
-erwiderte ich beklommen, denn Harsts offenbare Absicht,
-trotz seines jämmerlichen Zustandes noch Sam Baer einen
-Besuch abzustatten, wie er dies sich schon mittags
-vorgenommen, erschien mir unter diesen Umständen ein
+er erschrocken: »Sie bluten ja?!«
+
+»Zum Glück..! Würden Sie nicht bluten, wenn man Sie über
+das Pflaster schleift und wie einen halb strangulierten
+Widder?! Und das taten die Leute. — Wie spät ist es?!«
+
+»Fünf Minuten nach elf«, erwiderte ich beklommen, denn
+Harsts offenbare Absicht, trotz seines jämmerlichen Zustandes
+noch Sam Baer einen Besuch abzustatten, wie er dies sich schon
+mittags vorgenommen, erschien mir unter diesen Umständen ein
 freventliches Wagnis.
 
-Charly Greap hatte sich aus den Kistenrand gesetzt. »Sie
+Charly Greap hatte sich auf den Kistenrand gesetzt. »Sie
 sind erstaunlich frisch für einen Gasangriff, der Sie
 umschmeißen sollte, mein lieber Harst«, meinte er in
 engelhafter Ruhe.  »Was dieses Haus angeht, so machen Sie
 sich keine Kopfschmerzen weiter. Nicht eine Katze kneift
 von hier aus. Dieser grüne Narr — oder grüne Närrin —
-wird abgefaßt werden.
+wird abgefaßt werden. Was stieß Ihnen zu?!«
 
-»Was stieß Ihnen zu?!«
-
-»Nicht viel.« Harst hüstelte, »Ich ging bis zum Kairand
+»Nicht viel.« Harst hüstelte. »Ich ging bis zum Kairand
 und wartete. Dann erschien ein Motorboot, und ein Kerl,
 der vorn an der Spitze stand, hielt mir ein
 Schmetterlingsnetz mit langem Stiel hin und grunzte, es
@@ -1199,28 +1208,28 @@ lägen dreitausend Dollar drin. »Ehrlich Spiel unter
 Gaunern«, lautete seine Schlußbemerkung. »Her mit der
 Uhr!« Ich nahm das Päckchen Banknoten heraus und legte
 dafür die eingewickelte Platinuhr der verwitweten Frau
-Gilda Gardinett hinein. Daß Bambusstiel des Netzes eine
+Gilda Gardinett hinein. Daß der Bambusstiel des Netzes eine
 Röhre darstellte, durch die man mich irgendwie »anblasen«
 würde, um das ehrliche Spiel unter Gaunern unehrlich zu
-gestalten war vollkommen klar. Ich richtete mich danach,
+gestalten, war vollkommen klar. Ich richtete mich danach,
 hielt den Atem an, schloß die Augen und trat schnell
 zurück. Mit der zweiten Schufterei hatte ich nicht
 gerechnet. Mir flog von rückwärts eine Schlinge um den
-Hals als, ich konnte noch gerade die beiden Alarmschüsse
+Hals, ich konnte noch gerade die beiden Alarmschüsse
 abgeben, dann flog ich hintenüber, wurde sehr rasch über
 das Pflaster geschleift, verlor wohl auch für Minuten die
 Besinnung und wurde wie ein Ball Houston
 entgegengeschleudert, fühlte jedoch, daß unter den dünnen
-Hülle des grünen Schattens sich ein Weib verbarg,
+Hüllen des grünen Schattens sich ein Weib verbarg,
 allerdings ein Weib mit Riesenkräften. Ich lege wenig
 Wert darauf, ihr nochmals zu begegnen. — Das wäre alles
 … Die Maschinengewehrknallerei dürfte von dem Motorboot
 der Grant-Herren gekommen sein.«
 
-»Und die dreitausend Dollar und die Uhr sind futsch.«
+»Und die dreitausend Dollar und die Uhr sind futsch«,
 ergänzte Charly Greap äußerst wehmütig, aber mit Humor.
 
-»Sind nicht futsch … « Harst massierte seinen Hals … 
+»Sind nicht futsch …« Harst massierte seinen Hals … 
 
 »Was ich dem Kerl da ins Netz warf, war unehrlich Spiel
 unter Gaunern — ein flaches Steinchen in Papier, und
@@ -1260,7 +1269,7 @@ beleuchtete die Grant-Dame sich selbst.«
 nickte Harst und legte die Beweisstücke auf ein
 Fensterbrett.
 
-Wilkens breite Hünengestalt fauchte vom Flur her auf.
+Wilkiens breite Hünengestalt tauchte vom Flur her auf.
 »Entwischt Kaptain«, meldete er verärgert. »Keine Spur
 von dem grünen Clown. Hier im Hause wohnen nur ehrbare
 Bürger, und wenn nicht gerade der Teufel den Herrn Geist
@@ -1277,15 +1286,19 @@ gekündigt hat.«
 Greap trat rasch auf ihn zu. »Sie meinen —
 ausgekniffen?!«
 
+»Ja.«
+
 »Nein«, korrigierte Harst ebenso prompt. »Sollte sie
 trotzdem nicht mehr im Hauptquartier sein, so wäre das
 ein sehr bedrohliches Anzeichen. Ihre Mutter sollte stumm
 gemacht werden und der Grant Gangster fürchtet nichts so
-sehr als Verrat.« | »Hm..!« das war alles, was Greap
-dazu bemerkte.  »Hm — — Verrat!!«
+sehr als … Verrat.« 
 
-Wilkiens bemerkte schließlich! »Shin Fo war der einzige,
-von Ihrer Verabredung hier Kenntnis hatte, Shin Fo war
+»Hm …!« das war alles, was Greap dazu bemerkte.
+»Hm — — Verrat!!«
+
+Wilkiens bemerkte schließlich: »Shin Fo war der einzige,
+der von Ihrer Verabredung hier Kenntnis hatte. Shin Fo war
 bei der stellvertretenden Frau Douglas. Shin Fo …«
 
 »… ist ein kleiner Gauner, der auf eigene Rechnung
@@ -1329,7 +1342,6 @@ wolle … Und jetzt sind anderthalb Stunden verflossen
 …«
 
 »Armes Mädel!«, sagte Harst ungewohnt düsteren Tones.
-
 »Ich fürchte, sie ist ein Opfer der Wohltätigkeit
 geworden.«
 
@@ -1385,7 +1397,7 @@ dem Geständnis veranlaßt, daß er sich …« — Sam Baer
 blickte Harst lächeld an — »mit einem Herrn verabredet
 hatte der …«
 
-»… ich war«, — Harst verneigte sich leicht »Diese
+»… ich war«, — Harst verneigte sich leicht. »Diese
 Verabredung, Mr. Baer, ist auch eingehalten worden, es
 ging dabei recht lebhaft zu, es fielen etwa
 vierunddreißig Schüsse, und …«
@@ -1393,19 +1405,18 @@ vierunddreißig Schüsse, und …«
 Der Greis rief empört: »Shin Fo hat damit nichts zu tun
 — niemals! Ich begreife nicht, wie eine solche …«
 
-» … Verzeihung: Nur Shin Fo wußte von dem Rendezvous —
-und Sie«, fiel Harst ihm etwas kühl ins Wort. »Wo her
+»… Verzeihung: Nur Shin Fo wußte von dem Rendezvous —
+und Sie«, fiel Harst ihm etwas kühl ins Wort. »Woher
 hatte also eine Anzahl Banditen Gelegenheit, mich halb zu
 erdrosseln und … dreitausend Dollar für einen Stein
 einzutauschen?!«
 
 Der alte Sam wiegte unmerklich den Kopf hin und her.
-
 »Wie?! — Oh, da kann nur wieder der grüne Schatten am
 Werke gewesen sein.  Shin Fo muß belauscht worden sein —
 oder Shin Fo und ich.«
 
-»Wo nahmen Sie ihn ins Gebet«, fragte Harst genau so
+»Wo nahmen Sie ihn ins Gebet?« fragte Harst genau so
 gemessenen Tones.
 
 »Hier in der Bibliothek, und hier erschien der grüne
@@ -1414,19 +1425,17 @@ meinem eigenen Hause nicht mehr ganz sicher.  Dieser
 Mensch, der hier nachts Besuche abstattet, kann ebensogut
 am Tage sich irgendwie Zutritt verschaffen und horchen.«
 
-»Das wäre möglich, — Wo ist Shin Fo?«
+»Das wäre möglich. — Wo ist Shin Fo?«
 
 »In einem Kino. Ich habe ihn weggeschickt.«
 
- Greap-Hutter nickte hierzu bestätigend. »Fo ist nicht
+Greap-Hutter nickte hierzu bestätigend. »Fo ist nicht
 allein in dem Kino.  Einer meiner Leute sitzt neben ihm,
 saß wenigstens neben ihm. Fo wird überwacht.«
 
 »Damit rechnete er wohl«, meinte der Greis ohne jede
-Empfindlichkeit.
-
-»Wenn es Ihnen recht ist, ziehe ich jetzt die
-Rolljalousien empor. Bitte, dort ist mein Arbeitszimmer,
+Empfindlichkeit. »Wenn es Ihnen recht ist, ziehe ich jetzt
+die Rolljalousien empor. Bitte, dort ist mein Arbeitszimmer,
 dahinter mein Schlafzimmer. Die Türen lasse ich stets
 offen, und mein Bett steht so, das ich bis hier in die
 Bibliothek schauen kann.« Er öffnete die Vorbindungstür
@@ -1453,8 +1462,7 @@ ihn nicht, was auch geschehen mag. Es können Schüsse
 fallen, und wir wollen sie nicht gefährden.«
 
 »Wie Sie wünschen …« — der Greis seufzte leise.
-
-»Ich fürchte, Sie werden wenig Erfolg haben … sollte
+»Ich fürchte, Sie werden wenig Erfolg haben … Sollte
 dieser Fremde zu dem Grant-Gang gehören, wird auch mein
 Haus überwacht worden sein.«
 
@@ -1474,7 +1482,7 @@ Gebäude hier war mir zu geräuschlos. Die Haustür knarrte
 nicht, die Treppenstufen knarrten nicht, überall lagen
 dicke Läufer und Teppiche, die Zimmertüren waren offenbar
 tadellos geölt, kein Türgelenk kreischte, kein Drücker
-quietschte, die Rollläden liefen wie in Schmieröl, all
+quietschte, die Rollläden liefen wie in Schmieröl, — all
 das waren ja im Grunde Nichtigkeiten, aber sie gewannen
 Bedeutung, wenn man sich zu der Annahme verstieg, daß
 dieser sonderbare Heilige, Uhrmacher, Philosoph und
@@ -1502,10 +1510,11 @@ Mein Platz zwischen den Schränken war leider zum Horchen
 weniger geeignet. Der Straßenverkehr war noch sehr
 lebhaft, und das Geräusch der Autos, das Rattern von
 Lastzügen und das Aufheulen der Hupen drang allzu
-eindringlich bis in den oberen Flur. Die Zeit schlich.
-Die Zeit schleicht immer, wenn man wartet und die Nerven
-rebellieren unter der Anspannung aller Sinne. Mir wurde
-es nicht leicht, mein Gehör nicht durch die
+eindringlich bis in den oberen Flur.
+
+Die Zeit schlich.  Die Zeit schleicht immer, wenn man
+wartet und die Nerven rebellieren unter der Anspannung aller
+Sinne. Mir wurde es nicht leicht, mein Gehör nicht durch die
 Außengeräusche beeinflussen zu lassen und das Hirn
 gleichsam auszuschalten, um meine Ohren genau
 kontrollieren zu können.  Vieles flog mir blitzartig
@@ -1529,14 +1538,14 @@ noch bedrückendere hervor: was hatte man mit Verity
 Douglas im Sinn?! Sollte auch sie stumm gemacht werden?!
 Wir hatten sie immer wieder ausgeforscht, auch ihre
 Mutter, ob sie nicht irgend einen Grund wüßten, der diese
-Grant-Bande zu diesem Mißglücktem Anschlag veranlaßt
-haben könnte?! Gewiß. — da war ja zunächst die Person
+Grant-Bande zu diesem mißglücktem Anschlag veranlaßt
+haben könnte?! Gewiß, — da war ja zunächst die Person
 des angeblichen Flickschusters gewesen, die
 außerordentlich fragwürdig erschien, — die Person des
 Flurnachbarn der beiden einsamen Frauen. Aber auch Taioto
 — und welche Überraschung war das gewesen! — entpuppte
 sich als japanischer hoher Beamter mit Oberstenrang.
-Greap hatte mit Taioto längst zusammengearbeitet auch das
+Greap hatte mit Taioto längst zusammengearbeitet, auch das
 war Tatsache. Sie kam für Harst genau so vollkommen
 überraschend wie für mich. Charly Greap verstand zu
 schweigen. Aus welchem Grunde war Taioto bereits ein Jahr
@@ -1561,7 +1570,7 @@ jederzeit Feuer speien kann.
 
 Rasch huschte ich bis zur ersten Treppenstufe, kauerte
 mich hinter dem Geländerpfeiler zusammen. Ich hatte Shin
-Fo erkannt. Würde er sein Zimmer aussuchen? Würde er noch
+Fo erkannt. Würde er sein Zimmer aufsuchen? Würde er noch
 hier nach oben kommen und irgendwo spionieren? Ahnte er,
 daß wir dem grünen Schatten auflauerten?!
 
@@ -1570,7 +1579,7 @@ Finsternis …
 Auch nicht der winzigste Lichtstrahl fiel in dieses durch
 Eisen und Stahl gesicherte Haus. Ich wußte: Fo trug
 Filzsohlen, Fo würde die Treppe emporsteigen können, ohne
-daß etwas hören würde. Aber ich wollte wissen, was der
+daß ich etwas hören würde. Aber ich wollte wissen, was der
 Chinese unternahm. Ich streckte also den rechten Arm aus
 und sperrte die Treppe, ich würde schon rechtzeitig
 spüren, wenn jemand sich näherte. In der Linken hielt ich
@@ -1579,20 +1588,21 @@ mich nicht überrumpeln lassen.
 
 Dann — — unter mir ein ganz matter grünlicher Schein,
 lang gereckt, formlos trotzdem, — ein in der Luft
-schwebender grüner Fleck … Ein grüner Fleck, etwa wie
-eine grüne Lampe, über die man in mehrere Lagen
-Schleierstoff gebreitet hat.
+schwebender grüner Fleck …
+
+Ein grüner Fleck, etwa wie eine grüne Lampe, über die
+man in mehrere Lagen Schleierstoff gebreitet hat.
 
 Aber dieser Fleck wuchs, dehnte sich aus, schwebte näher.
 Lautlos … hing in der Luft wie ein breiter Strich …
 
 Kam näher …
 
-Immer näher …
+Immer näher.
 
-Und ich zog den Arm zurück. Ich lachte in der Finsternis
+Und ich zog den Arm zurück. — Ich lachte in der Finsternis
 das stille Lachen des Triumphes. Shin Fo, alter Bursche,
-ich habe dich!!
+— ich habe dich!!
 
 Und der grüne Schatten glitt an mir vorüber.
 
@@ -1613,7 +1623,7 @@ andere fiel mit dumpfem Krach zu Boden.
 Meine Taschenlampe blitzte auf. Drei Schritt nur … Der
 Schuft da wollte in den Mansardenstock fliehen.
 
-»Halt … ich schieße’«
+»Halt … ich schieße!«
 
 Jemand schlug mir den Arm hoch. Harst faucht mich grob
 an, was er mir an Unliebenswürdigkeiten auftischte,
@@ -1634,7 +1644,7 @@ entwischen?! Und — gab es nun drei »grüne Schatten«, die
 einander Konkurrenz machten?!
 
 Ich war nicht in der Laune, besonders höflich mit dem
-alten Chinesenknaben umzuspringen »Zum Teufel, was sollte
+alten Chinesenknaben umzuspringen. »Zum Teufel, was sollte
 die Maskerade, Fo?!«
 
 Er hielt sich das Kinn, betupfte die blutenden Lippen,
@@ -1653,7 +1663,7 @@ etwas gereizt. »Glauben wird mir ja doch nur er …«
 Ich packte ihn bei der Schulter. Vor der Brust baumelte
 ihm eine elektrische Taschenlampe, deren große Linse an
 den Seiten geschwärzt war, deren Mitte jedoch aus grünem
-Glas bestand. »Kommen Sie mit mein Sohn!«, befahl ich
+Glas bestand. »Kommen Sie mit, mein Sohn!«, befahl ich
 sehr kurz angebunden. »Mr. Baer mag Sie entlasten, wenn
 er kann.«
 
@@ -1664,7 +1674,7 @@ angewiesen worden war. Harst und Greap knieten neben ihm.
 
 Er war tot.
 
-Man hatte ihn von hinten erstochen Die Waffe steckte noch
+Man hatte ihn von hinten erstochen. Die Waffe steckte noch
 in der Wunde. Und diese Waffe war eine japanische
 Hutnadel mit einem Elfenbeinknopf, der in japanischer
 Schnitzerei einen Buddha darstellte. Die Nadel war Sam
@@ -1685,14 +1695,14 @@ erwischt hätten?«, fragte er etwas geistesabwesend.
 nachdenklich, »war ein Oberst und ein hoher Beamter.
 Namen will ich hier nicht nennen.«
 
-Charly Greap schob den Kopf erstaunt vor. »Der war es?!
+Charly Greap schob den Kopf erstaunt vor. »*Der* war es?!
 Und — was suchte er?!«
 
 »Das wissen Sie längst, ich erst seit heute, Platten
 suchte er!«
 
 Der jugendliche Kaptain und Spezialkommissar wandte sich
-langsam dem alten Chinesen zu »Shin Fo! Hören Sie mal her
+langsam dem alten Chinesen zu: »Shin Fo! Hören Sie mal her
 …! Ihren Herrn rufen Sie doch nicht mehr ins Leben
 zurück  …«
 
@@ -1701,8 +1711,8 @@ Fo hörte nicht, murmelte weiter seine Gebete, beugte sich
 Hutnadel und zog sie mit einem Ruck aus der kleinen
 Wunde. Durch den leblosen Körper lief ein Zucken.
 
-Fo sagte klar und selbstbewußt. Man hat dem Doktor Shin
-Fo, der es in Ox?ord zum Arzt und Doktor brachte, zwar
+Fo sagte klar und selbstbewußt: »Man hat dem Doktor Shin
+Fo, der es in Oxford zum Arzt und Doktor brachte, zwar
 wegen verschiedener leichtfertiger Streiche das
 Arztdiplom wieder entzogen. So viel weiß Doktor Fo doch
 noch. Mein Freund Sam wird weiterleben. Rührt ihn nicht
@@ -1715,8 +1725,9 @@ Er eilte davon, war in kurzem mit einem Fläschchen Jod
 wieder zurück und betupfte die Wunde. Abermals ging da
 durch des Greises Leib ein geringes Zucken.
 
-Greap fragte halb verlegen. »Fo, wissen Sie etwas von den
-Platten?«
+Greap fragte halb verlegen:
+
+»Fo, wissen Sie etwas von den Platten?«
 
 »Ja. Ich wollte sie heute endlich aus dem Hause schaffen
 und in den Fluß werfen. Ich machte deshalb die grüne
@@ -1724,7 +1735,7 @@ Maskerade, damit, falls ich dabei erwischt würde,
 keinerlei Verdacht auf meinen besten Freund fiele. Er
 sollte aus dem Spiele bleiben.«
 
-»Und wer brachte Ihnen die Platten?«
+»Und — wer — brachte Ihnen die Platten?«
 
 »Mir? Niemand. Aber Sam wurden sie ins Haus geschmuggelt.
 Von wem, das verriet er nie — Bitte, kommen Sie …«
@@ -1805,18 +1816,17 @@ sagte ziemlich schroff:
 Eine dünne Stimme bejahte.
 
 »Die letzten Sommermäntel taugen nichts«, sprach sie
-ebenso brüsk in die Muschel hinein. « Wenn Sie nicht
-bessert Ware liefern, muß ich …«
+ebenso brüsk in die Muschel hinein. »Wenn Sie nicht
+bessere Ware liefern, muß ich …«
 
 Indem kehrte die Sekretärin zurück.
 
-» … muß ich Sie von der Liste der Lieferanten
+»… muß ich Sie von der Liste der Lieferanten
 streichen. Wenn Sie glauben, daß für unsere
 Pflegebefohlenen der ärgste Schund gut genug sei, irren
 Sie sich. Die Sendung erhalten Sie jedenfalls zurück.«
 
-Sie hängte ab und sagte zu der ältlichen Sekretärin!
-
+Sie hängte ab und sagte zu der ältlichen Sekretärin:
 »Schicken Sie die von mir bemängelten Sommermäntel an
 Fraser u. Co. zurück, Miß Simpson. Schreiben Sie dazu,
 daß — — na, Sie haben ja gehört.«
@@ -1835,15 +1845,17 @@ beurlaubt.«
 »Ich möchte sie sehen … Wo sind die Papiere? — Danke
 … — Schicken Sie sie herein.«
 
-Gilda Gardinett blätterte in dem dünnen Aktenstück: Roxy
-Liston, Diebstahl ich.  R., ohne Angehörige.
+Gilda Gardinett blätterte in dem dünnen Aktenstück:
+
+<p class="centered pre">Roxy Liston, Diebstahl i. R.,
+ohne Angehörige.</p>
 
 Als diese Roxy Liston eintrat, nahm die Dame hinter dem
 Schreibtisch ihre goldene Stielbrille und betrachtete das
 blasse Mädchen mit freundlichem Interesse. »Setzen Sie
 sich, mein Kind …«
 
-Roxy Liston lächelte frech. »Ich bleibe stehen. Ich
+Roxy Liston lächelte frech. »Ich bleibe stehen. — Ich
 möchte gleich sagen, daß ich diesen Verein nicht bemühen
 will. Ich helfe mir schon selber fort. Für Almosen danke
 ich und Abwäscherin in einem Hotel will ich auch nicht
@@ -1855,11 +1867,11 @@ Frau Gardinett seufzte. »Mein armes, verirrtes Schäflein,
 — wissen Sie auch, daß …«
 
 Roxy stampfte mit dem Fuße auf. »Nochmals — — ich
-danke«, rief sie empört.  »Schäflein suchen Sie sich
+danke!«, rief sie empört.  »Schäflein suchen Sie sich
 anderswo … Mein Freund, der Japaner, ist sehr reich
 …«
 
-»Japaner?! — Auch das noch?!« Frau Gardinett war
+»Japaner?! — Auch *das* noch?!« Frau Gardinett war
 entsetzt.
 
 »Ja — Japaner … auch Menschen, bessere als die
@@ -1884,11 +1896,11 @@ und starrte stieren Blicks auf den Namen Roxy Liston.
 Diese Roxy lies kein Auge von ihr.
 
 »Ich kann dann wohl gehen«, sagte sie noch
-herausfordernder.-
+herausfordernder.
 
 »Einen … Augenblick bitte …«
 
-Sie hob den Kopf wieder und lehnte sich zurück, faste
+Sie hob den Kopf wieder und lehnte sich zurück, faßte
 nach einem der Klingelknöpfe am Rande der
 Schreibtischplatte und läutete.
 
@@ -1901,18 +1913,21 @@ Strafanstalt zurückgeschickt werden und …«
 Zwei Männer traten ein, — beide waren Frau Gardinett
 fremd, aber die Uniform kannte jedes Kind: Polizeibeamte.
 
-»Sie befehlen?«, fragte der eine. Gilda Gardinett
-erwiderte etwas unwillig: »Weshalb sind denn Johnston
-und Clarc abgelöst worden?!«
+»Sie befehlen?«, fragte der eine.
 
-Der stiernackige blonde Policeman erklärte kurz: »Heute
-verhaftet wegen Unregelmäßigkeiten im Dienst. Noch
-rascher als vorhin lies Frau Gilda den Kopf sinken.
+Gilda Gardinett erwiderte etwas unwillig: »Weshalb
+sind denn Johnston und Clarc abgelöst worden?!«
+
+Der stiernackige blonde Policeman erklärte kurz:
+
+»Heute verhaftet wegen Unregelmäßigkeiten im Dienst.«
+
+Noch rascher als vorhin lies Frau Gilda den Kopf sinken.
 »So?! Verhaftet?!« Sie hüstelte. »Auf … auf wessen
 Befehl?«
 
 »Auf Befehl Kaptain Hutters, des Spezialkommissars, Frau
-Gardinett. »Johnston und Clarc sollen sogar unter
+Gardinett. Johnston und Clarc sollen sogar unter
 Mordverdacht stehen. In der verflossenen Nacht ist der
 Uhrmacher Sam Baer, ein bekannter Wohltäter der Armen,
 hinterrücks mit einer Hutnadel erstochen worden, die
@@ -1954,40 +1969,46 @@ zu ehrlicher Arbeit zurückführen lassen.  Nehmen Sie das
 Mädchen also mit zur Revierwache. Ich werde Bericht
 einreichen.«
 
-Roxy machte eine fast unanständig — freche
+Roxy machte eine fast unanständig-freche
 Zwischenbemerkung.
 
 »Halten Sie den Mund!«, fuhr Wilkiens sie an. »Los denn
-— mitkommen. Sie sind verhaftet, und …« »Gehen Sie!«,
-rief Frau Gardinett müde. »Zum ersten Male erlebe ich
-eine so bittere Enttäuschung …«
+— mitkommen. Sie sind verhaftet, und …«
+
+»Gehen Sie!«, rief Frau Gardinett müde. »Zum ersten
+Male erlebe ich eine so bittere Enttäuschung …«
 
 Wilkiens verneigte sich. »Ich wünsche, daß Sie nicht noch
 bittere durchmachen, Frau Gardinett.«
 
-Die Tür fiel ins Schloß. Gilda Gardinett läutete wieder.
-Die Sekretärin trat ein.
+Die Tür fiel ins Schloß.
+
+Gilda Gardinett läutete wieder. Die Sekretärin trat ein.
 
 »Miß Simpson, ich will vorläufig nicht gestört werden.
 Die Vorstandssitzung beginnt um elf. Wenn alle Damen und
 Herren versammelt sind, benachrichtigen Sie mich.«
 
-Miß Simpson zögerte noch. »Frau Gardinett. ich habe Ihnen
+Miß Simpson zögerte noch. »Frau Gardinett, ich habe Ihnen
 eine traurige Mitteilung zu machen. Mr Baer, der uns so
 warmherzig unterstützte und …«
 
 »Ich weiß, … es ist gut … nein es tut mir natürlich
-sehr leid … Ich habe Kopfschmerzen « —
+sehr leid … Ich habe Kopfschmerzen.«
 
-Wieder klappte die Tür zu. Frau Gilda schlich hin und
-verriegelte sie, trat dann an den in die Mauer
-eingelassenen sehr großen Tresor und öffnete ihn. Das
-untere sehr geräumige Fach war leer. Sie bückte sich,
+Wieder klappte die Tür zu.
+
+Frau Gilda schlich hin und verriegelte sie, trat dann an
+den in die Mauer eingelassenen sehr großen Tresor und öffnete
+ihn.
+
+Das untere sehr geräumige Fach war leer. Sie bückte sich,
 tastete mit der Hand nach einem der Nietknöpfe der
-Rückwand und drückte stark. Die Rückwand gab nach Frau
-Gilda kroch hinein, zog hinter sich die Tür zu, bis das
-Schloß einschnappte und gelangte dann in ein gut
-möbliertes Zimmer des Nebenhauses.
+Rückwand und drückte stark.
+
+Die Rückwand gab nach Frau Gilda kroch hinein, zog
+hinter sich die Tür zu, bis das Schloß einschnappte und
+gelangte dann in ein gut möbliertes Zimmer des Nebenhauses.
 
 Hier trat sie vor einen hohen Spiegel, entkleidete sich
 fast vollständig, zog andere Sachen an, wischte Puder und
@@ -2008,6 +2029,7 @@ erdenklichen Mittel an, ihre Spur zu verwischen.
 
 Leider waren diese Mittel denen nicht fremd, die ihr
 heimlich im Auto, auf Fahrrädern und Motorrädern folgten.
+
 Inzwischen hatte Miß Simpson eine böse Überraschung
 erlebt. Die ältliche Dame, die so große Stücke auf Frau
 Gardinett hielt, sah plötzlich aus der Tür des
@@ -2022,17 +2044,17 @@ sehr eindringlich.
 
 Miß Simpson starrte ihnen entgeistert nach.
 
-Als wir die Straße betraten, meinte Harst nur — Roxy hat
-ihre Rolle glänze gespielt und unsere Signale sind
+Als wir die Straße betraten, meinte Harst nur: Roxy hat
+ihre Rolle glänzend gespielt und unsere Signale sind
 richtig verstanden worden.«
 
-An der Ecke des Milwaukee — Boulevard erwartete Houston
+An der Ecke des Milwaukee-Boulevard erwartete Houston
 uns. Er trug schon wieder Zivil.
 
-»Mr. Harst, sie hat sich nach Süden gewandt. Wir wollen
+»Mr. Harst, sie hat sich nach Süden gewandt. — Wir wollen
 zur Revierwache gehen, wohin Kaptain Greap uns Nachricht
 gibt. — Ich hätte nie gedacht, daß die Sache so
-glänzend klappen wurde. Nun erklären Sie mir aber auch
+glänzend klappen würde. Nun erklären Sie mir aber auch
 bitte, wodurch Sie den ersten Verdacht gegen Frau
 Gardinett schöpften.«
 
@@ -2055,7 +2077,7 @@ zu treiben.« Harst lächelte mich von der Seite an.
 
 Es stimmte.
 
-»Ich selbst,« fügte er hinzu »hatte nicht Gelegenheit
+»Ich selbst«, fügte er hinzu »hatte nicht Gelegenheit
 gehabt, den von Schraut niedergeboxten Jüngling näher zu
 befühlen, aber dessen so markiges Schweigen, er sprach ja
 kein Wort, erschienen mir reichlich verdächtig. Und bei
@@ -2063,8 +2085,9 @@ längerer Beobachtung kam ich zu demselben Resultat wie
 Schraut. Mit dieser Feststellung war auch nicht viel
 gewonnen. Sie müßten nun folgerichtig fragen, lieber
 Houston, wie die Brücke von dieser Halben zu Frau
-Gardinett geschlagen wurde.« »Das wollte ich auch«
-erklärte Baby eifrig.
+Gardinett geschlagen wurde.«
+
+»Das wollte ich auch« erklärte Baby eifrig.
 
 »In diesem Punkt arbeiten Greap und ich parallel. Der
 famose Einbruch bei der Millionärin Gilda Gardinett
@@ -2073,11 +2096,11 @@ sollten die beiden ständigen Wächter der umfangreichen
 Besitzung stumm gemacht werden. Die Leute hatten zu viel
 gesehen und gehört. Sie waren verheiratet und hatten
 ihren Frauen mancherlei erzählt. Bei diesen Fragen liefen
-Greap und ich zusammen. Frau Gardinett allzu häufige
+Greap und ich zusammen. Frau Gardinetts allzu häufige
 nächtliche Ausflüge bis zum frühen Morgen mußten den
-Wächtern auffallen, die nicht zum Gant — Gang gehörten.
-Der Gant — Gang bestand nur aus entlassenen weiblichen
-Strafgefangenen — oder besser diese besteht noch!
+Wächtern auffallen, die nicht zum Grant-Gang gehörten.
+Der Grant-Gang bestand nur aus entlassenen weiblichen
+Strafgefangenen — oder besser: diese besteht noch!
 Jedenfalls hatte diese Dame Gilda es sehr leicht, als
 Vorsitzende des bewußten Vereins sich das brauchbarste
 Material zu holen.«
@@ -2089,23 +2112,23 @@ konnten da zwei Fliegen mit einer Klatsche  geschlagen
 werden. Erstens wurden die armen Kerle stumm gemacht,
 zweitens war Frau Gilda dreifach und vierfach versichert
 und durfte damit rechnen bei der Sache nicht nur »die
-Beute«, sondern die Versicherungssumme zu verdienen.
+Beute«, sondern auch die Versicherungssumme zu verdienen.
 Nachfragen ergaben, daß die Platinuhr nicht versichert
 war. Und auch bei diesen Nachfragen liefen Greap und ich
 uns in die Arme und lachten nachher wie die Spitzbuben,
-das wir abermals auf denselben Gedanken gekommen waren.
+daß wir abermals auf denselben Gedanken gekommen waren.
 Weil die Uhr nicht versichert war, behielt die Gnädige
 sie am Arm.«
 
 »Unglaublich!«, entrüstete sich Baby. »Das Frauenzimmer
 ist ja …«
 
-»Was sie ist, ist bereits erwiesen, Gangster! Aber
-Beweise, Beweise..?! Und deshalb inszenierten Greap,
+»Was sie ist, ist bereits erwiesen: Gangster! — Aber
+Beweise, Beweise …?! Und deshalb inszenierten Greap,
 ich und Schraut diese heutige Vormittagsvorstellung mit
 Roxy Weylt-Liston. Die Gardinett fiel glatt darauf
 hinein. Der Name Taioto brachte sie vollkommen aus der
-Fassung, — Da wäre bereits das Revier, treten wir ein.
+Fassung. — Da wäre bereits das Revier, treten wir ein. —
 Die Schlußabrechnung mit Gilda wird Ihnen auch den Rest
 der Zusammenhänge erklären.«
 
@@ -2114,13 +2137,13 @@ eingegangene Ortsangaben bereit. Die erste besagte, daß
 der »Monteur« in der City in den Büroräumen einer
 zweifelhaften kleinen Maklerfirma die Verkleidung
 gewechselt habe und dann als älterer Herr im Auto die
-Michigan — Avenue hinabgefahren sei. — Zweite
+Michigan-Avenue hinabgefahren sei. — Zweite
 Meldung: Der ältere Herr betrat in der 18. Straße eine
 Filiale der Illinois-Bank und hebt eine halbe Million von
 seinem Konto ab, Name Mr. Ginett.  — Dritte Meldung:
 Der alte Herr fährt im Eiltempo nach Süden, unweit des
 Calumet-Parkes gelingt es ihm, die Verfolger
-abzuschütteln. -"- Vierte Meldung: Kaptain Hutter erwarte
+abzuschütteln. — Vierte Meldung: Kaptain Hutter erwarte
 Horter und Begleiter am Field-Haus im Calumet-Park.
 
 Das gab bei uns sehr lange Gesichter. Der Vogel war
@@ -2135,15 +2158,15 @@ Plötzlich legte er Houston die Hand auf den Arm. »Sie
 ließen sich doch von einem Angestellten des Büros des
 Vereins die Druckschriften geben. Zeigen Sie mal her. Ich
 will mir diese Werbeschriften mal ansehen, Baby …« Er
-zwinker’ Houston vergnügt an. »Sollte mich doch sehr
+zwinkerte Houston vergnügt an. »Sollte mich doch sehr
 täuschen, wenn wir nicht Gilda Gardinetts richtigen
 Schlupfwinkel fänden …  Aha, hier ist das Verzeichnis
 der wohltätigen Anstalten des Vereins: Schuhfabrik
 »Seligkeit«, Konfektionsgeschäft »Ewiger Frieden«,
-Erholungsheim »Paulus«, Gemüsefarm »Eintracht«, …
-famos!« Und dann zum Schluß unterm Strich: Privatstiftung
-Mr.  A. Ginetts: Erholungsheim »Zur Jungfrau«, Randon
-Street — Houston, kennen Sie die Randon Street?«;
+Erholungsheim »Paulus«, Gemüsefarm »Eintracht« …
+famos!! Und dann zum Schluß unterm Strich: Privatstiftung
+Mr. A. Ginetts: Erholungsheim »Zur Jungfrau«, Randon
+Street — Houston, kennen Sie die Randon Street?«
 
 »Gott sei es geklagt — ja! — Finstere Gegend, Mr. Harst,
 dicht am Calumet, viele Baracken, Bauterrains …«
