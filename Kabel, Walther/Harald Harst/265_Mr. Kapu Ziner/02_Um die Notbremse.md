@@ -113,7 +113,7 @@ Schmuck.«
 Wie war’s denn in Manmad?«
 
 »Der Zug wurde durchsucht. Mr. Ziner und seine
-Pflegerin waren nicht mehr im Zugs, nur noch ihre drei
+Pflegerin waren nicht mehr im Zuge, nur noch ihre drei
 leeren Koffer.«
 
 »Also ist Ziner nachts hier in Jalnaroa nach der Umquartierung
@@ -210,7 +210,7 @@ Berger war bleich geworden und sprang auf. »Das ist
 ja der helle Wahnsinn!! Ich … ich fahre nach Bombay,
 ich …«
 
-Harst drückte ihn in den Rohrsessel zurück. »Ruhe, Berger
+Harst drückte ihn in den Rohrsessel zurück. »Ruhe, Berger!
 Ruhe!! Warten Sie nur ab, die Notbremse wird ausgeschaltet
 — oder wieder eingeschaltet …«
 
@@ -280,7 +280,7 @@ kam Ihnen Sifus Eingreifen überraschend, mir nicht. Den
 Mann hier auf dem Baume hatte ich längst bemerkt und nie
 aus dem Auge gelassen. Wirklich, Sie sind zu aufgeregt. Es
 ist ja alles gut abgelaufen … Der Kerl war als Inder
-verkleidet ein langer hagerer Bursche … Er fiel langsam
+verkleidet, ein langer hagerer Bursche … Er fiel langsam
 wie eine madige Pflaume herab, — eigentlich ließ er
 sich herabfallen. — So, nun wollen wir wieder über die
 Mauer.« Er klopfte Sifu auf die Schulter. »Ein Glück,
@@ -360,7 +360,7 @@ hinzu: »Hiermit prüfen Ärzte und Gichtiger den Harnsäuregehalt
 des Urins. Färbt sich das Papier intensiv rot,
 ist viel Harnsäure vorhanden, färbt es sich blau, ist wenig
 da. Man kann mit diesem Papier aber auch Gifte feststellen.
-Gib doch mal dein Glas der, mein Alter … So … Ich
+Gib doch mal dein Glas her, mein Alter … So … Ich
 fülle es aus der harmlosen Flasche Pflaumenlikör, ich tauche
 diesen Streifen hinein, er verändert die Farbe nicht. Nun
 tauche ich den zweiten Streifen in mein Gläschen, gefüllt aus
@@ -904,7 +904,7 @@ Aber nun endlich begreife ich vieles …«
 Harst meinte noch leiser: »Er konnte es nur sein …
 Nur so war es zu erklären, daß Maitu San so hartnäckig
 über die Ursache der Würgemale an ihrem Halse schwieg und
-in den Livingston’schen Garten ging … — Wann schöpften
+in den Livingstone’schen Garten ging … — Wann schöpften
 Sie gegen Jester Verdacht?«
 
 »Als ich die Brücke über die Kluft öffnen ließ und unten

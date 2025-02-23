@@ -96,7 +96,7 @@ ich, in 22 Lücke und James Berger. Nr. 19 war frei. 17 und
 reiste, ein Kaufmann aus Benares, hörte ich von Sifu,
 <@pagebreak/>
 der überall schnell Bekanntschaften schloß. In 14, 15, 16
-lärmte eine Gesellschaft amerikanischen Neureicher: Vater,
+lärmte eine Gesellschaft amerikanischer Neureicher: Vater,
 Mutter, Sohn, Schwiegertochter und zwei halbwüchsige
 Töchter. Sie hatten einen Kofferempfänger mit und ließen
 den Lautsprecher bis nach zehn bei geöffneten Türen spielen.
@@ -122,7 +122,7 @@ Lektüre kann ich nicht einschlafen. Aber die Geschichte von
 der gefiederten Schlange enttäuschte mich arg, in der Sache
 war kein rechter Schwung, ich drehte das Licht aus und
 wälzte mich mit dem Gesicht nach der Wand hin. Ich hatte
-das untere Bett und Trotz meiner der freien Bettkante
+das untere Bett und trotz meiner der freien Bettkante
 abgekehrten Lage sah ich mit einem Male im Dämmerschein
 des Nachttisches zwei Beine in weiten, violett-seidenen Pyjamahosen
 herabtaumeln, und Harst stand mitten in der
@@ -171,7 +171,7 @@ Dienstherr vernahm den Schrei …«
 erstaunt über ihre Anrede, weniger freundlichen Tones wissen.
 
 »Ihr chinesischen Boy Sifu sprach mit mir … — Es
-muß etwas gesehen sein, Mr. Harst, so schreit kein Mensch
+muß etwas geschehen sein, Mr. Harst, so schreit kein Mensch
 im Traum, das war der Schrei einer Frau in höchster Todesangst
 …«
 
@@ -209,7 +209,7 @@ In der Kabine bemerkten wir nichts Auffälliges. Die
 beiden Betten der Damen — Maitu San hatte das obere
 innegehabt — waren nicht einmal besonders zerwühlt. Nirgends
 eine Spur von Blut, nirgends auch nur der geringste
-Anhaltspunkt dafür, was sie hier abgespielt haben mußte.
+Anhaltspunkt dafür, was sich hier abgespielt haben mußte.
 Die Japanerin als Zeugin der Vorgänge war sehr bald
 wieder zu sich gekommen, konnte jedoch keinerlei Angaben
 machen, sondern weinte nur wimmernd vor sich hin und
@@ -415,7 +415,7 @@ zum Beneiden und …«
 
 Harst unterbrach ihn wiederum. »Ich verstehe … Sie
 meinen, sie hat den Körper unter das Gestänge des nächsten
-Wagens getragen. — Mein lieber Lücke, das Kunststück
+Wagens getragen. — Mein lieber Lücke, *das* Kunststück
 sollen Sie mir bei einem Zuge mit siebzig Kilometer Geschwindigkeit
 vormachen. Ich brächte das nicht fertig. Im
 Gange sind keine Blutspuren, und …«
@@ -432,7 +432,7 @@ Lücke hob in Kabine 20 den Plüschläuferbelag des Bodens
 auf. »Da — die Nägel sind entfernt …!« sagte er nur.
 
 Unter dem Läuferstoff lag noch ein Belag von Cota, ein
-dem Linoleum ähnlichen Fabrikat, nur weicher, dicker und
+dem Linoleum ähnliches Fabrikat, nur weicher, dicker und
 schalldämpfender. Die Streifen des Cota waren genau zu
 erkennen. In dem mittleren Streifen vor den Betten sah
 man zwei breitere Schnitte. — Lücke hob das Stück heraus
@@ -474,7 +474,7 @@ Reisschnaps.
 »Die Tote ist zur Zeit noch abwesend,« erklärte Lücke
 dem ländlichen Kollegen.
 
-Jester bewunderte die Falltür im Boden. »Ist das in aller
+Jester bewunderte die Falltür im Boden. »Ist das in allen
 Schlafwagenabteilungen so?« fragte er erstaunt.
 
 »Für gewöhnlich nicht, Mr. Jester.«
@@ -872,7 +872,7 @@ kommen würde …
 Lücke sagte unnachsichtig: »Ich fing sie gerade ab, als sie
 wieder in das Zimmer zurückklettern wollte … — Ihre
 Geheimniskrämerei, Harst, wird nun wohl endgültig erledigt
-sein. Sie sahen voraus, daß Maitu San etwas Unternehmen
+sein. Sie sahen voraus, daß Maitu San etwas unternehmen
 würde — gegen Sie!«
 
 Berger ächzte verzweifelt.
@@ -1145,12 +1145,12 @@ Mr. Jester einen Zettel mitgegeben.
 
 Jalnaroa ist eine indische Kleinstadt wie tausend andere,
 aber sie liegt sehr hübsch zwischen grünen Hügeln und darf
-auf ihre neuen Bauten stolz sein. Vor der Stadt rechts erlebt
+auf ihre neuen Bauten stolz sein. Vor der Stadt rechts erhebt
 sich das Gemeindehaus, daneben das öffentliche Rasthaus,
 noch weiter nach Osten das Polizeigebäude und das
 Gefängnis.
 
-Berger war überglückliche. »Sie haben doch längst gewußt,
+Berger war überglücklich. »Sie haben doch längst gewußt,
 daß Donna Grazia lebte,« meinte er etwas naiv zu
 <@pagebreak/>
 Harst, der in Gedanken versunken vor uns quer durch den
