@@ -2185,9 +2185,9 @@ In den neu erschlossenen Südbezirken der Riesenstadt ist
 nun auch der Calumet-Fluß, der ebenso wie der Chicago in
 den Michigan-See fließt zu Ehren gekommen. Das fabelhafte
 rasante Wachstum der Michigan-Metropole hat bereits den
-großen Calumet-See,, ebenso den Wolf-See mit in Bebauung
+großen Calumet-See, ebenso den Wolf-See mit in die Bebauung
 hineingezogen.  Genau wie »Chicago« von dem indianischen
-Namen Checaqua, wilde Zwiebel, abgeleitet ist, stellt
+Namen Checagua, wilde Zwiebel, abgeleitet ist, stellt
 »Calumet« eine wohl allgemein bekannte Bezeichnung der
 Rothäute dar: Friedenspfeife!
 
@@ -2229,7 +2229,7 @@ reichen ahnungslosen Gardinett angelte, kennen zu lernen.
 Ich behaupte, das Weib ist dort! Hat das Heim Wasserfront
 am Calumet?«
 
-»Ja.. — Brechen wir daher auf.« Charly Greap war wenig
+»Ja. — Brechen wir daher auf.« Charly Greap war wenig
 hoffnungsfroh.
 
 »Überlassen Sie Schraut und mir die Wasserseite«, meinte
@@ -2238,7 +2238,7 @@ schon finden.«
 
 »Wiedersehen also.«
 
-»Wir beide eilten zu Fuß davon, bestiegen in der Eving
+Wir beide eilten zu Fuß davon, bestiegen in der Eving
 Avenue eine Taxe und hielten am sogenannten
 Turning-Bassin. An einem Steg lag eine Polizeibarkasse,
 die soeben vom Polizeidienst gegen die Alkoholschmuggler
@@ -2259,7 +2259,7 @@ ausweichen wollen.
 Jetzt wendete sie plötzlich, — unser Benzinkahn konnte
 ihr nachpfeifen, aber keine dreihundert Meter vor uns
 legte sie rechts an einem neuen kleinen Uferkai an, ohne
-das jedoch eine einzige Person das Boot verließ.
+daß jedoch eine einzige Person das Boot verließ.
 
 Die jetzt halb eingeweihten Beamten spürten plötzlich
 sehr erfreuliche Jagdlust. »Das ist das Heim«, rief der
@@ -2269,11 +2269,11 @@ dem neuen Kai hinab.
 
 Wir behielten die Jacht scharf im Auge.
 
-»Halbe Kraft!"*, befahl Harst. »Machen Sie für alle Fälle
+»Halbe Kraft!", befahl Harst. »Machen Sie für alle Fälle
 ein Maschinengewehr fertig.«
 
 Es passierte vorläufig jedoch nichts. Die drei
-Weißgekleideten Damen, die an Deck sichtbar waren, nahmen
+weißgekleideten Damen, die an Deck sichtbar waren, nahmen
 von uns keinerlei Notiz. Sie trugen weiße Blusen, sehr
 weite Leinenhosen und weiße Südwester — alles sehr
 schick und adrett.  Als wir näherkamen, schauten sie uns
@@ -2293,9 +2293,9 @@ Die drei Jungfrauen, alle sehr sonngebräunt und mit
 knallroten Lippen, wegrasierten Augenbrauen und schwarzen
 Ersatzstrichen, flüsterten kichernd miteinander.
 
-»Ja«, erwiderte die eine »Seid ihr Greifer?!«
+»Ja«, erwiderte die eine. »Seid ihr Greifer?!«
 
-Sie hatten die Polizeiflagge natürlich langst erkannt,
+Sie hatten die Polizeiflagge natürlich längst erkannt,
 und die Frage war eine Unverschämtheit. Wenn der »Verein«
 die entlassenen weiblichen Strafgefangenen in dieser
 Weise erzog, verdiente der ganze Vorstand eingesperrt zu
@@ -2304,7 +2304,7 @@ der Frau Vorsitzenden geahnt und wurde nachher völlig
 unbehelligt gelassen, da Zweck und Ziel des Vereins sowie
 die Art der Betätigung über jedes Lob erhaben waren.
 Anders verhielt es sich mit Mr. A. Ginetts eigener
-Gründung »Zur Jungfrau". Diese Jungfrau hatte böse
+Gründung »Zur Jungfrau«. Diese Jungfrau hatte böse
 Stacheln und war tatsächlich das Hauptquartier des
 Grant-Gang. Ich kann es getrost vorweg nehmen.
 
@@ -2316,8 +2316,10 @@ liebenswürdig.  — Die Sportladys machten sehr lange
 Gesichter. Ihnen schien plötzlich bewußt zu werden, daß
 die Polizeiaktion doch wohl ernstere Ursachen hätte. Sie
 erklärten sehr feierlich, Frau Gardinett sei ihnen nur
-flüchtig persönlich bekannt. »Flüchtig, das glaube seh’«
-— und dann durchsuchten wir das Boot und fanden
+flüchtig persönlich bekannt.
+
+»Flüchtig, das glaube ich!«, — und dann durchsuchten wir
+das Boot und fanden
 natürlich zunächst gar nichts. Inzwischen hatte Greap das
 Erholungsheim bereits gleichfalls vom Boden bis zum
 Keller sich angesehen und die achtzehn Zöglinge mit Hilfe
@@ -2331,24 +2333,27 @@ gesellten sich zu uns. »Wißt ihr«, meinte Greap in
 übelster Laune in der kleinen Jachtkajüte zu uns, »diese
 Fahrt der drei Mädels mit dem Motorboot muß doch zum
 Teufel irgend einen Zweck gehabt haben?! Weshalb kniffen
-sie vor der Polizeipinasse denn aus?« Hart betrachtete
-angelegentlich einen Wandschrank. Den er soeben geöffnet
-hatte. »Wie war denn dieser Mr. Ginett, die männliche
-Neugeburt Gildas, gekleidet?« Er brachte hinter zwei
-Regenmänteln einen grauen Herrenanzug zum Vorschein.
+sie vor der Polizeipinasse denn aus?«
+
+Hart betrachtete angelegentlich einen Wandschrank, den
+er soeben geöffnet hatte. »Wie war denn dieser Mr. Ginett,
+die männliche Neugeburt Gildas, gekleidet?« Er brachte hinter
+zwei Regenmänteln einen grauen Herrenanzug zum Vorschein.
 »Herr Gott!«, schrie Greap sofort, den hat »Ginett
 getragen!! — Himmel, hier ist ja auch der Kragen, die
 Krawatte, — — hier die Perücke, alles in die Taschen
-gestopft!« »Ja, dann …«, sagte Harst sehr gedehnt »dann
+gestopft!«
+
+»Ja, dann …«, sagte Harst sehr gedehnt »dann
 ist Frau Gilda neben allem anderen auch noch
 Schwimmkünstlerin! Natürlich war sie hier an Bord,
 natürlich hat sie schwimmend das Boot verlassen, und das
 wurde ihr leicht, drüben liegt ja eine kleine
 Flußbadeanstalt, sie hat sich einfach unter die Badenden
-gemischt, nachdem sie ein Strecke unter Wasser
+gemischt, nachdem sie eine Strecke unter Wasser
 geschwommen war.«
 
-Charly dessen Nerven heute etwas stark strapaziert waren,
+Charly, dessen Nerven heute etwas stark strapaziert waren,
 stürzte an Deck. Die drei Jachtladys erblaßten, als er
 wie ein Sturmbock auf sie losraste. »Wo ist Mr. A.
 Ginett?! Er war an Bord! Ich bringe euch ins Zuchthaus,
@@ -2383,10 +2388,10 @@ Der Mann wurde saugrob aber wir hatten keine Zeit, unsere
 Kenntnis von Kraftausdrücken zu bereichern, das
 Polizeiboot jagte weiter. Ein Auto trug uns dorthin, wo
 jetzt die allerletzte Hoffnung winkte, dieses allzu
-gerissene Weib noch zu erwischen. »Ich weiß genau« hatte
+gerissene Weib noch zu erwischen. »Ich weiß genau«, hatte
 Charly erklärt, »daß im Tresor des Vereins noch große
 Summen lagern. Zu Anfang ihrer Flucht wagte die Gardinett
-das Geld nicht mit zunehmen, weil sie fürchtete abgefaßt
+das Geld nicht mitzunehmen, weil sie fürchtete, abgefaßt
 zu werden. Jetzt hat sie den Weg wieder frei, wir haben
 leider dort keinen einzigen unserer Leute zurückgelassen
 — — Chauffeur, fahren Sie wie der Teufel, Sie fahren
@@ -2397,9 +2402,9 @@ Die Gardinett hatte allerhöchstens einen Vorsprung von
 zehn Minuten. Und unser Chauffeur holte aus dem Motor das
 allerletzte heraus, vermied belebte Straßen, zweimal
 wurden wir trotzdem angehalten, was einen Verlust von
-drei Minuten bedeutete, Endlich, nach fast einstündiger
+drei Minuten bedeutete. Endlich, nach fast einstündiger
 Fahrt, langten wir droben im Norden des Michigan-Park
-wieder an, das Auto | stoppte vor dem Hause in der Little
+wieder an, das Auto stoppte vor dem Hause in der Little
 Polk-Street, wir fegten die Treppe empor, wir jagten der
 armen Sekretärin im Vorzimmer einen furchtbaren Schrecken
 ein — zitternd beteuerte sie, Miß Gardinett sei nicht
@@ -2408,8 +2413,8 @@ hätten sich bereits wieder entfernt.
 
 Greap stieß die Tür des eleganten Privatbüros der großen
 Wohltäterin Gilda Gardinett auf. Hinter uns rief die
-Sekretärin noch: »Mr Shin Fo ließ sich nicht abweisen
-…«
+Sekretärin noch: »Mr. Shin Fo ließ sich nicht abweisen
+…!«
 
 »Shin Fo?! Der entgleiste Doktor?«
 
@@ -2422,20 +2427,22 @@ kleinen chinesischen Räucheraltäre in Form eines
 sitzenden Buddhas, die von Antiquitätensammlern so sehr
 gesucht und die so viel gefälscht werden.
 
-»Bei unserem hastigen Eindringen wandte Fo den Kopf,
+Bei unserem hastigen Eindringen wandte Fo den Kopf,
 betrachtete uns flüchtig und widmete sich wieder seinem
 Buddha, in dessen Bauch er ein Feuerchen von
 Räucherstäben angezündet hatte.
 
 Feiner wohlriechender Qualm entströmte dem halb
 geöffneten Munde und den Ohren und der Scheitelöffnung
-des dunkelbraunen, gebrannten Tonbildes in dünnen Faden.
+des dunkelbraunen, gebrannten Tonbildes in dünnen Fäden.
 Das Zimmer roch diskret nach Weihrauch.
 
 In den Tresor aber hatte dieser alte Mann, den mit Sam
 Baer mehr als nur die reiche Erfahrung vieler Jahre
 verband, verschiedene schreiend bunte chinesische
-Tempelfähnchen gehängt. Greap trat näher.
+Tempelfähnchen gehängt.
+
+Greap trat näher.
 
 »Hallo, Mr. Fo, — was bedeutet das?!«
 
@@ -2453,7 +2460,7 @@ zwei Stunden.«
 
 Greap wurde ungeduldig.
 
-»Bitte, halten Sie uns nicht auf …Was soll diese
+»Bitte, halten Sie uns nicht auf … Was soll diese
 seltsame Zeremonie, und …«
 
 Er schwieg.
@@ -2467,9 +2474,9 @@ Fo erklärte dann: »Kaptain, wir Chinesen vom alten Stamm
 lassen niemand sterben, ohne daß wir der scheidenden
 Seele die nötigen Ehren erweisen. — Mein Freund Sam hat
 mir in den letzten Augenblicken seines Lebens
-aufgetragen, Ihnen folgendes zu berichten.«
+aufgetragen, Ihnen folgendes zu berichten …«
 
-»Ist das so eilig? Sams Mörderin war Frau Gardinett. und
+»Ist das so eilig? Sams Mörderin war Frau Gardinett, und
 sie ist …«
 
 »Das weiß ich alles«, sagte Fo mit derselben eintönigen,
@@ -2482,14 +2489,14 @@ zusammengeraten, hätte dann deren Druckplatten
 mitgenommen und müsse daher sowohl die Polizei als auch
 die Fälscherbande fürchten. Sam lies sich überreden, er
 verbot mir, die Mansarde zu betreten, er weihte mich
-nicht ein, er brachte der Frau heimlich das Essen. und
+nicht ein, er brachte der Frau heimlich das Essen, und
 heimlich und verschleiert ging sie bei uns aus und ein.
 Es war Frau Gardinett selbst die nur spionieren wollte,
 weil …« — Shin Fo zauderte etwas — »weil sie mit mir
 verschwiegene Geschäfte in der Maske eines Mr. Ginett
 hatte machen wollen und weil sie wohl merkte, daß ich ihr
 fortan nicht mehr traute und ihr Tun belauerte. Nein, Sam
-hatte mir nichts anvertraut., auch ihn hatte das Weib
+hatte mir nichts anvertraut, auch ihn hatte das Weib
 getäuscht, erst vor seinem Tode wurde es ihm klar, wer
 die verschleierte ältere ärmliche Frau gewesen war. Die
 Gardinett, seine Mörderin! Nur von den Druckplatten hatte
@@ -2502,7 +2509,6 @@ vernahmen.
 »Was ist das?!«, fragte Greap Mißtrauisch …
 
 Wir schauten uns an, aber keiner fand eine Erklärung.
-
 Außerdem begann Shin Fo wieder zu husten … Und dann
 trat auch Oberst Taioto sehr hastig ein, hinter ihm her
 Verity Douglas und Baby Houston.
@@ -2521,18 +2527,18 @@ Greap warf Houston einen fragenden Blick zu.
 
 »Ich fuhr hinter Ihnen in einem zweiten Auto her, Kaptain
 …« Houston musterte dabei Shin Fo sehr scharf. Aber der
-alte Mann kümmerte sich dabei nicht um uns.«Kaptain, mir
+alte Mann kümmerte sich dabei nicht um uns. »Kaptain, mir
 war der der Gedanke gekommen, die Gardinett könnte hier
 noch diesen Tresor plündern wollen … Und da bin ich
 denn sofort ins Nebenhaus geeilt — in die Wohnung, in
-die man durch den Tresor gelangt …
+die man durch den Tresor gelangt …«
 
 Fo stand plötzlich auf.
 
 Er reckte sich höher, in seinem faltigen Gesicht lag ein
 Ausdruck unerbittlichen Hasses.
 
-»Sie hat gemordet«, sagte er schrill, »Sie nahm mir den
+»Sie hat gemordet«, sagte er schrill, »sie nahm mir den
 besten, einzigen Freud … Ich werde sehr einsam sein für
 den Rest meines Lebens … Sie ist tot.«
 
@@ -2542,7 +2548,7 @@ wissen Sie das?!«
 Ein dünnes, grausames Lächeln umzuckte Fos kleinen,
 harten Mund.
 
-»Ich weiß es nicht, ich nehme es an« meinte er und
+»Ich weiß es nicht, ich nehme es an«, meinte er und
 deutete auf Houston. »Sie wollten noch etwas sagen?«
 
 <h2>8. Kapitel.</h2>
@@ -2554,21 +2560,20 @@ waren drüben in der Wohnung! Der Pförtner sah Sie das
 Haus betreten und wieder verlassen!«
 
 »Ich leugne es nicht«, erwiderte der alte Mann und schob
-Houstons Hand von seiner Schulter. 
-
-»Haben Sie Respekt vor den Eltern, junger Mann, — noch
-mehr Respekt vor dem Alter.«
+Houstons Hand von seiner Schulter. »Haben Sie Respekt
+vor den Eltern, junger Mann, — noch mehr Respekt vor dem
+Alter!«
 
 Houston wurde rot. »Den habe ich schon. Aber
-weshalb haben Sie Shin Fo, drüben die eiserne Geheimtür
+weshalb haben Sie, Shin Fo, drüben die eiserne Geheimtür
 in der Mauer so fest durch Eisenbolzen verkeilt, daß sie
 sich nicht mehr öffnen läßt?«
 
 Fo überlegte. 
  
 »Weshalb? — sehen Sie, ich wußte seit heute von dieser
-Geheimtür …Ich war ja Frau Gardinetts Schatten. Ein
-weißer Schatten nur. Er strich über seinen blendend
+Geheimtür … Ich war ja Frau Gardinetts Schatten … Ein
+weißer Schatten nur …« Er strich über seinen blendend
 sauberen Anzug hin. »Ich dachte mir, sie würde
 zurückkehren und vielleicht das Geld des Vereins rauben
 wollen. Und da versperrte ich wenigstens den Zugang und
@@ -2578,24 +2583,27 @@ Oberst Taioto fragte genau so bedächtig:
 
 »Für wen brennen die Opferstäbchen, Mr. Fo?«
 
- »Für eine Mörderin«, erwiderte der Chinese leise.  »Ich
+»Für eine Mörderin«, erwiderte der Chinese leise.  »Ich
 fürchte, wir alle haben das Klopfen nicht richtig
-gedeutet …
+gedeutet …«
 
 Er schaute uns nacheinander an.
 
-»Oder — Weiß jemand eine bessere Erklärung als ich?«
+»Oder — weiß jemand eine bessere Erklärung als ich?«
 
-Harst schien etwas sagen zu wollen.  Fo fügte lebhafter
-hinzu »Sie kennen meine Erklärung noch nicht. Sie lautet:
+Harst schien etwas sagen zu wollen.
+
+Fo fügte lebhafter hinzu: »Sie kennen meine Erklärung
+noch nicht. Sie lautet:
 Ich glaube fast, daß Frau Gardinett bereits in dem
 unteren Tresorraum sich befand, als ich die Geheimtür
-drüben versperrte Ich glaube fast … ich weiß es nicht
-… es kann sein.« Dann hob er eine der Papierfähnchen
-hob.
+drüben versperrte. Ich … glaube fast, ich weiß es nicht
+… es kann sein.«
+
+Dann hob er eine der Papierfähnchen hoch.
 
 »Da — — die Schlüssel stecken … im Schloß, meine
-Herren … sehr seltsam … 
+Herren … sehr seltsam …«
 
 Greap schob ihn beiseite.
 
@@ -2608,7 +2616,7 @@ Fo ließ sich Zeit.
 »Schneller!!«
 
 Dann schloß Greap die beiden Schlösser auf, die schwere
-’Tür bewegte sich langsam und Greap prallte mit einem
+Tür bewegte sich langsam und Greap prallte mit einem
 halblauten Schreckensruf zurück.
 
 Im unteren Raume lag die zusammengekauerte Gestalt eines
@@ -2616,7 +2624,7 @@ Mannes … — Nein, kein Mann …:
 
 Gilda Gardinett!
 
-Und sie war tot, — erstickt elend erstickt …
+Und sie war tot, — erstickt … elend erstickt …
 
 »Oh, — — das ist sehr zu bedauern«, sagte der alte
 Chinese und rollte seine Papierfahnen zusammen. »Sehr zu
@@ -2634,7 +2642,7 @@ etwas kecken Art:
 
 »Gut, — der Grant-Gang ist erledigt. Die Insassen des
 Erholungsheimes »Zur Jungfrau« sind geständig. Zwei
-Fragen bleiben noch offen, Kaptain. und ich liebe nichts
+Fragen bleiben noch offen, Kaptain, und ich liebe nichts
 Offenes.« Dabei nahm er eine offene Flasche vom Tisch und
 füllte sein Glas mit Fruchtwasser, das eigentümlich
 scharf duftete.
@@ -2643,10 +2651,11 @@ scharf duftete.
 greisen Sam?«
 
 Greap blickte ihn ironisch an. »Baby, — die Frage ist zu
-töricht für einen Detektiv …« »Stimmt, — lassen wir
-sie also ruhen, natürlich wußte Sam eben zu viel über
-seinen Logiergast … — Zweite Frage: Weshalb sollte
-Frau Douglas erschossen werden?«
+töricht für einen Detektiv …«
+
+»Stimmt, — lassen wir sie also ruhen, natürlich wußte
+Sam eben zu viel über seinen Logiergast … — Zweite Frage:
+Weshalb sollte Frau Douglas erschossen werden?«
 
 Wieder verzog sich Charly Greaps Mund zu einem
 überlegenen Lächeln.
@@ -2683,9 +2692,11 @@ fielen die grünen Lichtreflexe der Reklame des
 Wolkenkratzers wie huschende Schatten über die stillen
 ehrwürdigen Züge des Toten.
 
-Wir blieben eine Weile, dann begleitete Fo uns so wieder
+Wir blieben eine Weile, dann begleitete uns Fo wieder
 hinab. In der Haustür sagte Harst leise aber sanft
-mahnend: »Lieber Fo, ich würde Ihnen raten, nicht
+mahnend:
+
+»Lieber Fo, ich würde Ihnen raten, nicht
 nochmals irgendwie hier Richter über Leben und Tod zu
 spielen.«
 
@@ -2696,9 +2707,6 @@ Die Tür klappte zu und der Lärm der Michigan-Avenue
 umfing uns mit tausend Geräuschen dieser großen, schönen,
 weiten Stadt.
 
+<#import "*/harst.ftl" as harst>
+<@harst.naechsterband band="Das Haus der Winde."/>
 
-
-
-
-
-Nächster Band:  Das Haus der Winde
