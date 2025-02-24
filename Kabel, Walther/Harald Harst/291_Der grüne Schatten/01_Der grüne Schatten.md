@@ -1,4 +1,4 @@
-<h2>1. Kapitel</h2>
+<h2>1. Kapitel.</h2>
 
 <h3>Die Platinuhr.</h3>
 
@@ -7,7 +7,7 @@ nördlichsten Viertel der Milwaukee-Avenue. Das uralte
 Haus, in dem er seit vielen Jahren wohnte, war sein
 Eigentum und sein Stolz. Über der Haustür hatte Sam
 unter dem Firmenschild ein zweites anbringen lassen, das
-in goldenen Buchstaben berichtete, das dies das einzige
+in goldenen Buchstaben berichtete, daß dies das einzige
 Gebäude der Setter-Street sei, das von dem Riesenbrande
 Chicagos in diesem Stadtviertel durch Gottes Wohlwollen
 verschont geblieben. Allerdings hatte es im Oktober 1871,
@@ -17,7 +17,7 @@ Milwaukee-Avenue lediglich Holzhütten, Ställe,
 Bretterhütten und ähnliche bescheidene Bauten gegeben,
 unter denen Sam Baers Ziegelsteinpalast damals wirklich
 wie ein Palais sich ausnahm. Doch Chicago wuchs und wuchs
-im Riesentempo, sogar die Setter-Street, erhielt einen
+im Riesentempo, sogar die Setter-Street erhielt einen
 Wolkenkratzer mit zwölf Stockwerken, und der greise Sam
 Baer haßte nichts so sehr wie diesen Skyscraper, den man
 ihm da vor die Nase gesetzt hatte und dessen Lichtreklame
@@ -89,7 +89,7 @@ Das Mädchen raffte sich auf und erwiderte stockend: »Ich
 Sams Züge wurden härter. »Dürfte das nicht eine … kleine
 Unwahrheit sein?!«
 
-Sie schaute Ihn offen an. »Bei Gott — — nein! Es ist
+Sie schaute ihn offen an. »Bei Gott — — nein! Es ist
 keine Lüge. Die Uhr lag heute früh in unserem Briefkasten
 …«
 
@@ -138,7 +138,7 @@ geschnitten?« fragte er sehr beunruhigt.
 »Nein … weshalb?«
 
 Die ehrlichen Mädchenaugen, die ihn erstaunt anblickten,
-machten ihn wieder schwankend. seine Lebenserfahrungen
+machten ihn wieder schwankend. Seine Lebenserfahrungen
 warnten ihn, aber die Gutmütigkeit seiner fast achtzig
 Jahre siegte trotz allem.
 
@@ -229,12 +229,12 @@ zusammenflicken konnten.
 nur mit ins Büro. Es ist ein Zufall, daß ich gerade hier
 frische Luft schnappe.«
 
-Sam Baer schaute ihn Mißtrauisch an. »Kaptain, Sie
+Sam Baer schaute ihn mißtrauisch an. »Kaptain, Sie
 schnappen nie frische Luft, sondern nur nach fetten
 Bissen. Ich habe Ihnen eine seltsame Geschichte zu
 erzählen.«
 
-»Sowas höre ich gern, alter Freund — Bitte, nach Ihnen,
+»Sowas höre ich gern, alter Freund. — Bitte, nach Ihnen.
 — Dem Alter die Ehre und die Ehrbarkeit.« —
 
 Inzwischen hatte der ausgemergelte Shin Fo im Uhrenladen
@@ -683,7 +683,7 @@ dahin müssen Sie sich freilich als unser Gast betrachten
 und mit dem nett möblierten Kellerraum nebst Bad sich
 begnügen.«
 
-Also — Gefangene!« sagte Verity mit blitzenden Augen.
+»Also — Gefangene!« sagte Verity mit blitzenden Augen.
 »Mutter wird mich vermissen, und …«
 
 »Verzeihung, Ihre Mutter ist vollständig eingeweiht. Hier
@@ -745,7 +745,7 @@ ja doch nichts nachtragen …«
 
 <h2>3. Kapitel.</h2>
 
-<h3>Der Grant — Stempel.</h3>
+<h3>Der Grant-Stempel.</h3>
 
 Der kleine, nicht mehr ganz junge Japaner Taioto hatte
 gegenüber der Wohnung der Frau Mary Douglas ebenfalls
@@ -798,7 +798,7 @@ sann wie gesagt über die heutigen Ereignisse nach, die
 mir völlig geläufig waren, da Greap heimlich eine
 Telephonleitung von diesem Zimmer ins Hauptquartier hatte
 legen lassen. Der Garten unten war ja der des »Hotel
-Bennett« — Das Telephon stand unter meinem Sessel gut
+Bennett«. — Das Telephon stand unter meinem Sessel gut
 versteckt, und als es sich nun meldete, hörte ich zu
 meinem Erstaunen, daß Sam Baer Kaptain Morris soeben noch
 eine merkwürdige Geschichte von einem grünen,
@@ -852,7 +852,7 @@ dem Gehör nach genau verfolgen, was der Eindringling tat.
 
 Was ich noch getan, gab den Ausschlag. Der Krankensessel
 war nicht leer. Auch daran hatten wir gedacht, eine
-stumme Vertreterin für mich zu beschaffen,
+stumme Vertreterin für mich zu beschaffen.
 
 Der ungebetene Gast hantierte außerordentlich geschickt
 mit einem Dietrich, öffnete die Flurtür, eine schmale
@@ -922,10 +922,10 @@ auf den Schuhsohlen haften. Plötzlich schloß er die Lider
 zur engen Spalte, bückte sich und schien nur noch
 Interesse für den Stempel zu haben.
 
-»Also doch« meinte er mehr zu sich selbst. Und den kühlen
+»Also doch!« meinte er mehr zu sich selbst. Und den kühlen
 Blick in den meinen gesenkt. »Sie merken nun wohl, daß
 man Sie durchschaut hat. Ein Glück, daß die Pflegerin
-drüben bei mir war, als dieser Grant-Boy hier eindrang.
+drüben bei mir war, als dieser Grant-Boy hier eindrang.«
 
 »Ich hatte mit etwas ähnlichem gerechnet, Mister, ich
 paßte auf.«
@@ -950,7 +950,7 @@ Mein Staunen schien ihm heimlich Freude zu bereiten.
 schlau aus mir werden. Ich wäre ein Stümper, wenn ich je
 mein wahres Gesicht zeigte.«
 
-Wer sind Sie, Taioto?« Das war alles, was ich fragen
+»Wer sind Sie, Taioto?« Das war alles, was ich fragen
 konnte.
 
 »Schuhmacher, Mr. Schraut … Ein ehrlicher Schuhmacher.
@@ -962,7 +962,7 @@ war ein Auto unten. Es ist bereits auf und davon.
 Widerrufen Sie den Befehl. Greap wird einsehen, daß es
 zwecklos ist, wenn Sie meinen Namen nennen …«
 
-»Greap?! — Der wahre Name des schneidigen
+Greap?! — Der wahre Name des schneidigen
 Spezialkommissars wäre wohlbehütetes Geheimnis, glaubte
 ich bis dahin.
 
@@ -1239,7 +1239,7 @@ auf das Papier hatte ich etwas geschrieben …«
 Gruß für den Grant-Gangster?«
 
 »Etwas Ähnliches … — Haben Sie vielleicht etwas
-Trinkbares zufällig bei sich, ganz zufällig.
+Trinkbares zufällig bei sich, ganz zufällig?«
 
 Greap hatte — — zufällig, und Harst trank unter
 Krächzen und Räuspern, wir halfen ihm auf die Beine, und
@@ -1262,7 +1262,7 @@ Draht von zwei Meter Länge mit Handgriff an dem einen
 Ende und mit einem Haken am anderen. Der Haken paßte in
 eine Öse an der Hinterseite der Laterne genau hinein.
 
-Kaptain Charly pfiff leise. Aha, also auf die Weise
+Kaptain Charly pfiff leise. »Aha ... also auf die Weise
 beleuchtete die Grant-Dame sich selbst.«
 
 »Und auf die Weise wird sie nicht gefunden werden,«
@@ -1438,7 +1438,7 @@ Empfindlichkeit. »Wenn es Ihnen recht ist, ziehe ich jetzt
 die Rolljalousien empor. Bitte, dort ist mein Arbeitszimmer,
 dahinter mein Schlafzimmer. Die Türen lasse ich stets
 offen, und mein Bett steht so, das ich bis hier in die
-Bibliothek schauen kann.« Er öffnete die Vorbindungstür
+Bibliothek schauen kann.« Er öffnete die Verbindungstür
 und deutete auf ein Ecksofa. »Setzen Sie sich dorthin,
 meine Herren … Wir werden im Finstern bleiben müssen.«
 
@@ -1446,7 +1446,7 @@ Das Emporziehen der Rollläden verursachte kein Geräusch.
 Sam Baer hatte vorher noch die Kerzen ausgelöscht, und
 als er wieder zu uns trat, war er selbst zu einem
 grünumschlossenen Schatten geworden, da die Lichtstrahlen
-der Reklame des Wolkenkraters, drüben durch die dünnen
+der Reklame des Wolkenkratzers, drüben durch die dünnen
 Tüllvorhänge sehr hell ins Zimmer fielen, was nur der
 Spiegelwirkung einiger Firmenschilder im ersten Stock des
 Hochhauses zuzuschreiben war.
@@ -1719,7 +1719,7 @@ noch. Mein Freund Sam wird weiterleben. Rührt ihn nicht
 an! Die Wunde muß sich von selbst schließen. Nur
 Jodtinktur werde ich darüber streichen, um eine
 Eiterbildung zu verhüten. Möglich, daß Sam eine Lähmung
-zurückbehält. — ich hoffe, es wird nicht der Fall sein.«
+zurückbehält, — ich hoffe, es wird nicht der Fall sein.«
 
 Er eilte davon, war in kurzem mit einem Fläschchen Jod
 wieder zurück und betupfte die Wunde. Abermals ging da
@@ -2044,7 +2044,7 @@ sehr eindringlich.
 
 Miß Simpson starrte ihnen entgeistert nach.
 
-Als wir die Straße betraten, meinte Harst nur: Roxy hat
+Als wir die Straße betraten, meinte Harst nur: »Roxy hat
 ihre Rolle glänzend gespielt und unsere Signale sind
 richtig verstanden worden.«
 
@@ -2171,7 +2171,7 @@ Street — Houston, kennen Sie die Randon Street?«
 »Gott sei es geklagt — ja! — Finstere Gegend, Mr. Harst,
 dicht am Calumet, viele Baracken, Bauterrains …«
 
-Harst spitzte die Ohren »Also doch — — Calumet!! Dieses
+Harst spitzte die Ohren. »Also doch — — Calumet!! Dieses
 Heim »Zur Jungfrau« dürfte das richtige sein. Lassen Sie
 an der nächsten Revierwache halten, legitimieren Sie sich
 und befehlen Sie, daß die Randon Street und das Heim
@@ -2203,7 +2203,7 @@ Als wir — es war inzwischen ein Uhr mittags geworden
 zusammentrafen, sahen wir auf dem nahen Fahrweg das große
 Auto aus dem Hauptquartier halten. Der Wagen war
 gepanzert, hatte kugelsichere Fenster und einen Motor,
-der den kleinen Wylt, dem tollkühnsten und sichersten
+der den kleinen Weylt, dem tollkühnsten und sichersten
 aller Chauffeure, unschwer jedes andere Auto überholen
 lies. — Greap begrüßte uns kurz. »Das Weib ist also
 durchgebrannt«, meinte er etwas nervös. »Immerhin bleibt
@@ -2226,7 +2226,7 @@ fünfzig  Detektive angefordert. Ich bin sehr gespannt,
 diese Burg der Frau Gilda, die früher schwarzes Haar
 hatte und Gerda hieß und sich in San Franzisco den
 reichen ahnungslosen Gardinett angelte, kennen zu lernen.
-Ich behaupte, das Weib ist dort! Hat das Heim Wasserfront
+*Ich* behaupte, das Weib ist dort! Hat das Heim Wasserfront
 am Calumet?«
 
 »Ja. — Brechen wir daher auf.« Charly Greap war wenig
@@ -2269,7 +2269,7 @@ dem neuen Kai hinab.
 
 Wir behielten die Jacht scharf im Auge.
 
-»Halbe Kraft!", befahl Harst. »Machen Sie für alle Fälle
+»Halbe Kraft!«, befahl Harst. »Machen Sie für alle Fälle
 ein Maschinengewehr fertig.«
 
 Es passierte vorläufig jedoch nichts. Die drei
@@ -2480,7 +2480,7 @@ aufgetragen, Ihnen folgendes zu berichten …«
 sie ist …«
 
 »Das weiß ich alles«, sagte Fo mit derselben eintönigen,
-traurigen Stimme. »ja, alles weiß ich jetzt. — Sam Baer
+traurigen Stimme. »Ja, alles weiß ich jetzt. — Sam Baer
 war ebenfalls Mitglied dieses Vereins. Vor einiger Zeit
 kam Frau Gardinett zu ihm, und beschwor ihn, einer armen
 Entgleisten, von der Polizei gesuchten Frau Unterkunft zu
@@ -2506,7 +2506,7 @@ Kaptain …«
 Wieder war es uns, als ob wir irgendwo ein Pochen
 vernahmen.
 
-»Was ist das?!«, fragte Greap Mißtrauisch …
+»Was ist das?!«, fragte Greap mißtrauisch …
 
 Wir schauten uns an, aber keiner fand eine Erklärung.
 Außerdem begann Shin Fo wieder zu husten … Und dann
@@ -2571,7 +2571,7 @@ sich nicht mehr öffnen läßt?«
 
 Fo überlegte. 
  
-»Weshalb? — sehen Sie, ich wußte seit heute von dieser
+»Weshalb? — Sehen Sie, ich wußte seit heute von dieser
 Geheimtür … Ich war ja Frau Gardinetts Schatten … Ein
 weißer Schatten nur …« Er strich über seinen blendend
 sauberen Anzug hin. »Ich dachte mir, sie würde
@@ -2678,7 +2678,7 @@ natürlich Oberst Taioto beobachten, vor dem die ehemalige
 Juwelendiebin und Fälscherin die größte Angst hatte. —
 So, noch etwas, Houston? — Nein?  Nun, ich für meine
 Person möchte nur noch betonen, daß wir an einem Ehepaar,
-an Roxy Woylt und ihrem Gatten, gerade genug haben, und
+an Roxy Weylt und ihrem Gatten, gerade genug haben, und
 daß ich meine Elite nicht so allmählich verheiratet sehen
 will … Vielleicht mache ich aber doch mit Ihnen noch
 eine Ausnahme.«

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">9812cd7c-3ac6-4651-856b-e41e40b835c2</entry>
+<entry key="title">Der grüne Schatten</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">291</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Der grüne Schatten
+
+An einem heißen Junivormittag betrat ein sehr junges Mädchen etwas scheu und verlegen Sams kleinen Parterreladen und wickelte hastig eine mit Brillanten besetzte, überaus kostbare Damenuhr aus Platin aus zerknittertem Seidenpapier und bat, Mr. Baer möge doch die Edelsteine herausnehmen und den Uhrdeckel glattschleifen.
+
+»Ich bin gezwungen die Steine zu verkaufen«, sagte sie nervös und blickte immer wieder durch das Schaufenster auf die Straße hinaus.
+
+Der alte Mann war Menschenkenner. Er merkte, daß hier irgend etwas nicht stimmte. Das Mädchen war blond, sehr hübsch, hatte wundervolle braune Augen und war für Sams Geschmack allzu dürftig gekleidet. Ihm kam der Verdacht, sie könnte sich lediglich für diesen Gang so ärmlich hergerichtet haben.
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (291) Der grüne Schatten.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1931</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
