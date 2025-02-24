@@ -4,7 +4,7 @@
 <h3>Verheißungsvoller Auftakt.</h3>
 
 Das internationale Publikum der ersten Klasse des
-schwimmenden Riesenhotels »Britannia<<, zumeist so schwer
+schwimmenden Riesenhotels »Britannia«, zumeist so schwer
 reiche Leute, das Armut ihnen schon bei flüchtigem Anblick
 verhaßt war, schenkte dem erbärmlichen alten arabischen
 Bettler, der da in der Sonnenglut auf dem Kai von Suez
@@ -21,7 +21,7 @@ zu betrachten, der der Horde aufgeputzter, schwatzender
 Nichtstuer mit einem Grinsen nachschaute, das ebensoviel
 fanatischen Haß wie unendliche Geringschätzung verriet.
 
-Wir waren in Genua an Bord der «Britannia« gekommen, da uns
+Wir waren in Genua an Bord der »Britannia« gekommen, da uns
 eine Depesche aus dem arabischen Hafenort Hodeida
 schleunigst auf eine Insel des berüchtigten Roten Meeres
 berief, die ich im vorigen Band eingehend geschildert habe.
@@ -40,7 +40,7 @@ gen Süden forderte.
 
 Harst beobachtete noch immer den Bettler.
 
-»Aus welchem Grunde interessiert er dich?», fragte ich etwas
+»Aus welchem Grunde interessiert er dich?«, fragte ich etwas
 ungeduldig, denn wir hatten uns noch die neuen Stadtteile
 der berühmten Kanalmetropole ansehen wollen.
 
@@ -62,7 +62,7 @@ achtern auf dem Tender auch einen sehr lauten Wortwechsel
 gab, schien der Messerwerfer bereits zur Rechenschaft
 gezogen zu worden — Näheres war allerdings nicht
 festzustellen, da sich dort am Heck ein Haufen wild
-durcheinander schreiender Menschen eng zusammen-geballt
+durcheinander schreiender Menschen eng zusammengeballt
 hatte.
 
 Aus dieser heftig gestikulierenden Masse ragte ein sehr
@@ -75,7 +75,7 @@ Großschiebern am leichtesten setzte Opfer ergattern.
 
 Colonel Steeps löste sich jetzt aus dem Knäuel und stelzte
 monokelfunkelnd über die Planke, begleitet von Miß Marry
-Jefferson, Chicago, — Papa … «Schweine en gros«,  achtzig
+Jefferson, Chicago, — Papa … »Schweine en gros«,  achtzig
 Millionen und eifriger Bridgespieler um hohe Einsätze, die
 der Colonel fast regelmäßig gewann.
 
@@ -86,8 +86,8 @@ er mitgenommen zu haben.
 
 Gleich darauf gesellte sich der äußerst erregte Mr. Thomas
 Whrig zu uns, ein vierschrötiger, aufdringlicher, älterer
-Mensch, der leider unser Kabinennachbar war.  »Lächerlich!»,
-kollerte Whrig hervor, «als ob ich absichtlich den Dolch
+Mensch, der leider unser Kabinennachbar war.  »Lächerlich!«,
+kollerte Whrig hervor, »als ob ich absichtlich den Dolch
 geschleudert hätte! Deshalb derartigen Krach zu machen!!
 Dieser Colonel Steeps sollte lieber vor seiner eigenen Tür
 kehren, der fade Bursche!«
@@ -98,11 +98,11 @@ Erklärung des unglücklichen Zufalls.
 
 » … Da war ein Händler, meine Herren, — der lange Dolch
 gefiel mir … Ich  prüfe Klinge und Griff, und als ich wie
-zum Probestoß ausholte, flog mir das Ding aus der Hand …» Er
+zum Probestoß ausholte, flog mir das Ding aus der Hand …« Er
 schmückte die Einzelheiten auf seine umständliche Art aus,
 die wir bereits kannten.
 
-»Lüge du und noch einer!», dachte ich, und musterte diesen
+»Lüge du und noch einer!«, dachte ich, und musterte diesen
 Londoner Heringshändler mit  vorsichtig-mißtrauischen Augen.
 Der stämmige Kerl hatte plötzlich eine Seite seines
 Charakters enthüllt, die mir neun war.
@@ -115,7 +115,7 @@ nicht genau ausbalanciert hat, auf dreißig Schritt beinahe
 einen alten Araber aufzuspießen, erfordert nicht geringe
 Fertigkeit.
 
-Thomas Whrig erschien mir aufrichtiger als «Oberst« Steeps,
+Thomas Whrig erschien mir aufrichtiger als »Oberst« Steeps,
 und der leider verschwundene Bettler dürfte, so mutmaßte
 ich, diesen Whrig weit besser einzuschätzen wissen wie wir
 bisher.
@@ -140,7 +140,7 @@ herum auszuhorchen.
 
 Das Thomas Whrig nicht Kaufmann war, erschien bereits
 erwiesen. Heringsgroßhändler in London üben sich kaum derart
-im Messerwerfen, wie unser «Freund« es zweifellos seit
+im Messerwerfen, wie unser »Freund« es zweifellos seit
 Jahren getan haben mußte.
 
 Der geeignete Moment ergab sich auf der Terrasse eines
@@ -152,16 +152,16 @@ Eisgetränke, unter uns auf der Straße flutete das
 Rassengemisch der ganzen Welt dahin, Händler heulten wie
 Besessene, Derwische tanzten, Fakire mogelten Zauberkünste,
 — — und über diesem asiatisch-afrikanischen Menschendunst
-schwebte als «Oberschicht« das Parfüin von Europäerinnen,
+schwebte als »Oberschicht« das Parfüm von Europäerinnen,
 die mit kindlicher Neugier und trotzdem forciert-blasierten
 Mienen dieses Treiben gierig in ihre übersättigten Nerven
 einsogen und lüstern den nackten, muskelstrotzenden
 Oberkörpern von Lastträgern mit verschleierten Blicken
 folgten.
 
-»Wohin reisen Sie eigentlich, Mr. Whrig?» Harald streute die
+»Wohin reisen Sie eigentlich, Mr. Whrig?« Harald streute die
 Frage in ein Gespräch über die indische
-Unabhängigkeitsbewegung ein. «Etwa nach Indien? Wollen Sie
+Unabhängigkeitsbewegung ein. »Etwa nach Indien? Wollen Sie
 Elefanten schießen oder mit dem Wurfmesser erlegen?«
 
 Da wir inkognito reisten, was stets seine Vorteile hat,
@@ -182,12 +182,12 @@ auseinandergefaltet und glattgestrichen.
 »Ich reise nach Bombay«, erklärte der dicke Whrig, der für
 das Stück Papier wenig Interesse zeigte.
 
-»Nicht nach Dartmoor?!» meinte Harst schmunzelnd, und hielt
+»Nicht nach Dartmoor?!« meinte Harst schmunzelnd, und hielt
 Whrig den Zettel hin, auf dem lediglich mit Bleistift dick
-und. groß «Dartmoor« geschrieben stand.
+und. groß »Dartmoor« geschrieben stand.
 
 Seltsam war die Wirkung, die der Name des bekannten
-englischen Gefängnisses auf unseren «Freund« ausübte.
+englischen Gefängnisses auf unseren »Freund« ausübte.
 
 Seine Augen quollen heraus, Sein rotes Gesicht ward käsig
 und die dicke Unterlippe zitterte und wippte wie der
@@ -202,7 +202,7 @@ Er bezahlte in nervöser Hast, rief ein Auto heran und fuhr
 zum Hafen.
 
 Harst verwahrte den Zettel sorgfältig in seiner Brieftasche
-und meinte leise: «Der Kerl hat mal in Dartmoor gesessen,
+und meinte leise: »Der Kerl hat mal in Dartmoor gesessen,
 behaupte ich!«
 
 »Ein Jammer, daß er nicht noch heute dort sitzt!«
@@ -216,14 +216,14 @@ stiernackigen Burschen hier mit Suez und dem arabischen
 Bettler von vorhin in äußerst verdächtiger Art verbinden.
 Der Messerwurf galt dem Bettler und ich wage zu behaupten,
 daß dieser Zettel auf Veranlassung des Bettlers uns auf den
-Tisch geschleudert wurde. Das Wort «Dartmoor« kann eine
+Tisch geschleudert wurde. Das Wort »Dartmoor« kann eine
 Warnung für Whrig gewesen sein, seine Künste anderswo zu
 versuchen, und sein eiliger Aufbruch, das wirst du zugeben,
 zeugt von einem miserablen Gewissen.«
 
 »Allerdings …«
 
-Um vier Uhr lief die «Britannia« in das Rote Meer ein, und
+Um vier Uhr lief die »Britannia« in das Rote Meer ein, und
 genau um fünf verbreitete sich in den Salons des Dampfers
 das Gerücht, Colonel Steeps habe sich erschossen, weil Miß
 Jeffersons Millionen für den gleichfalls an Bord anwesenden
@@ -237,7 +237,7 @@ zugesehen haben konnte, — so vornehm war er.
 Als uns dieses Gerücht zu Ohren kam, lagen wir in
 Bordstühlen in einer geschützten Ecke des Promenadendecks
 und unterhielten uns mit dem Schiffsarzt Dr. Morrell, der
-zunächst ganz so tat, als entbehre dieses inäßige Geschwätz
+zunächst ganz so tat, als entbehre dieses mäßige Geschwätz
 jeglicher Begründung.
 
 »Doktor, mal ehrlich«, sagte Harst und hielt Morrell seinen
@@ -248,7 +248,7 @@ Morrell warf nur einen Blick auf das dreimal gestempelte
 Papier, als er auch schon aufsprang und uns mit in das
 Allerheiligste, in die Kapitänskajüte, nahm.
 
-»Sir», meldete er dem Allgewaltigen der Britannia, «hier
+»Sir«, meldete er dem Allgewaltigen der Britannia, »hier
 sind zwei Herren, die uns helfen können.«
 
 Wir erfuhren so, daß sich Colonel Steeps bereits kurz hinter
@@ -296,18 +296,18 @@ Weibern ersten Klasse unangenehm war. In seinen Blicken lag
 etwas Gemeines, wenn er, angetan mit tadellosem Smoking,
 nach dem Abendessen in der Tür der Tanzdiele lehnte und
 geblähten Nüstern und glitzernden stieren Schellfischaugen
-das gewoge halb entkleideter «Damen« musterte und jenen
+das gewoge halb entkleideter »Damen« musterte und jenen
 undefinierbaren Duft heißer Frauenkörper in sich einsog.
 
 Mein ungläubiges Gesicht machte auf Harst gar keinen
 Eindruck. Er behielt sein unergründliches Lächeln bei nickte
-mir leicht zu, «Steeps ist der Gegenpol von Whrig. Mag der
+mir leicht zu, »Steeps ist der Gegenpol von Whrig. Mag der
 Kerl Falschspieler sein: Manieren hat er! Ich behaupte
 sogar, daß man aus diesem windigen Oberst, der warscheinlich
 den Titel einer Zulukafferrepublik verdankt, einen leidlich
 anständigen Menschen zurechtkneten könnte. Wäre er ein
 hartgesottener Schurke, dann hätte er sich niemals in dem
-Maße darüber ent-rüstet, das Whrig dem Bettler beinahe die
+Maße darüber entrüstet, das Whrig dem Bettler beinahe die
 große Spicknadel in die Kehle gejagt hätte. Du warst nicht
 zugegen, mein Alter, als die beiden sich zum ersten Male —
 Whrig kam ja wie wir in Genua an Bord — gegenübertraten und
@@ -321,7 +321,7 @@ Whrig kann sich nicht als Frau verkleiden, schon die
 Plattfüße würden ihn verraten, nicht einmal eine
 Schwiegermutter stärksten Kalibers könnte er darstellen.«
 
-»Also — Mordversuch auf jeden Fall?», fragte ich immer noch
+»Also — Mordversuch auf jeden Fall?«, fragte ich immer noch
 mit einigen Bedenken.
 
 »Ja, — Beginnen wir … schalte das Licht ein. Steeps ist
@@ -336,7 +336,7 @@ Schloßbeschlag. Die Kabine war musterhaft aufgeräumt, und da
 ihre Größe etwa der von drei Eisenbahnschlafabteilen
 entsprach, brauchten zwei Sachkundige nur kurze Zeit alles
 gründlichst um und um zu krempeln, um sogar eine Haarnadel
-oder ein paar Frauenhaare inühelos aufzustöbern, —  hätten
+oder ein paar Frauenhaare mühelos aufzustöbern, —  hätten
 gebraucht; Harst stand wie angeleimt da, rauchte gemütlich
 und lächelte, während draußen das Rote Meer seine kurzen,
 blaugrünen Wogen wütend gegen den stählernen Riesenhai warf,
@@ -352,25 +352,25 @@ Teppichmuster einen häßlichen Fleck, noch ziemlich frisch,
 aber das Rot begann sich bereits ins Bräunliche zu
 verfärben.
 
-»Harald!!« »Hm?!» — Das war alles …  …
+»Harald!!« »Hm?!« — Das war alles …  …
 
 »Weshalb stehen wir hier wie …«
 
-Er fiel mir ins Wort: «Wir werden diesen Whrig sehr schwer
-überführen können. Ich inöchte nur wissen, woher er den
+Er fiel mir ins Wort: »Wir werden diesen Whrig sehr schwer
+überführen können. Ich möchte nur wissen, woher er den
 Trick kennt. An sich ist er ja nicht neu, nur in dieser
-»Zusammensetzung», könnte man sagen, hat ihn noch niemand
+»Zusammensetzung«, könnte man sagen, hat ihn noch niemand
 versucht, — Fällt dir gar nichts auf hier?«
 
-»Nur etwas … : Das statt der üblichen, halb in die Decke
+»Nur etwas …: Das statt der üblichen, halb in die Decke
 eingelassenen Lampe eine solche an einer isolierten
 Seidenschnur vorhanden ist. Sie hängt sehr tief, Ein
-größerer Mann inüßte mit dem Kopf gegen die flache Glocke
+größerer Mann müßte mit dem Kopf gegen die flache Glocke
 stoßen, wenn er unvorsichtig ist.«
 
 Harsts Gesicht hatte jetzt jegliche Spur jenes
 unergründlichen Schmunzelns verloren. Er war ernst und
-sprach halblaut, trotzdem fast drohend. «Ganz recht, die
+sprach halblaut, trotzdem fast drohend. »Ganz recht, die
 Lampe hat Steeps natürlich anbringen lassen, weil ein
 Falschspieler genau wie ein Jongleur dauernd üben muß, um
 die Fingerfertigkeit nicht zu verlieren. Der berühmteste
@@ -403,8 +403,8 @@ hatte.«
 
 Ich konnte mir die Frage nicht verkneifen, was das alles mit
 dem Schuß auf Steeps zu tun hätte. Harst zuckte leicht die
-Achseln, «Es ist … Kleinarbeit, mein Alter, um die kein
-Kriminalist herum-kommt — — schaue dir bitte die
+Achseln, »Es ist … Kleinarbeit, mein Alter, um die kein
+Kriminalist herumkommt — — schaue dir bitte die
 Lampenglocke an.«
 
 Ich tat es. An dem Teil des Randes, der der Tür zugewandt
@@ -416,27 +416,27 @@ die mir vorher gar nicht aufgefallen waren.
 Colonel Steeps feudale Koffer her. Die Patentschlösser
 konnten uns kaum widerstehen, denn wir hatten von Kapitän
 die richtigen Schlüssel erhalten. Harst und Schraut hatte er
-sie anvertraut, den beiden «Fabrikbesitzern aus Berlin«
-wären sie verweigert worden.  »Schau — schau!», machte Harst
-zufrieden. «Da sind die Spiegel!«
+sie anvertraut, den beiden »Fabrikbesitzern aus Berlin«
+wären sie verweigert worden.  »Schau — schau!«, machte Harst
+zufrieden. »Da sind die Spiegel!«
 
 Ich war neben ihn getreten. Der eine Koffer enthielt nichts
-als das Handwerkszeug eines erst-klassigen Bolteschlägers.
+als das Handwerkszeug eines erstklassigen Bolteschlägers.
 Wie viel Bestechungsgeld mochte der Oberst gezahlt haben, um
 diesen Koffer unbeanstandet durch die Sperre zu bekommen!
 Zur Hälfte war er mit neuen Spielkarten angefüllt. und die
 sechs Klappspiegel mit Stativfüßen konnten nicht billig
 gewesen sein.
 
-»Fabelhaft!», meinte Harst ehrlich erstaunt. «Es ist unser
+»Fabelhaft!«, meinte Harst ehrlich erstaunt. »Es ist unser
 erstes Zusammentreffen mit einem Vertreter dieser
-Gaunerkategorie, und ich …  …» — er stoppte ab, bückte sich
+Gaunerkategorie, und ich …  …« — er stoppte ab, bückte sich
 und holte zwischen den sauber geschichteten Paketen
 Spielkarten ein dickes Bündel Banknoten hervor, alles
 Fünfzigpfundnoten, hielt einige gegen das Licht.
 
-»Fälschungen, mein Alter, sogar sehr inäßige Blüten, ich sah
-schon bessere.» Er steckte das Bündel in die Tasche.
+»Fälschungen, mein Alter, sogar sehr mäßige Blüten, ich sah
+schon bessere.« Er steckte das Bündel in die Tasche.
 
 »Es ist nicht unbedingt nötig, das diese Dinger dem Kapitän
 als dem Polizeigewaltigen an Bord zu Gesicht kommen. Steeps
@@ -449,13 +449,13 @@ sie durch das offene Kabinenfenster in die See.
 »So …  erledigt, Beobachtet hat das niemand, den bei der
 Hitze dürfte kein Mensch an Deck sein.«
 
-»Und — — der Trick?!», mahnte ich sanft.
+»Und — — der Trick?!«, mahnte ich sanft.
 
 Seine Antwort war nur ein Flüstern.
 
 »Die Pistole war unter der Lampenglocke befestigt, ein Draht
 führte vom Abzug durch das Fenster an Deck. Die Befestigung
-und der Draht waren so geschickt vereinigt, dass die Waffe
+und der Draht waren so geschickt vereinigt, daß die Waffe
 nach dem Schuß zu Boden fallen mußte. — Nicht wahr, das
 klingt alles sehr gekünstelt, mein Alter, aber die
 Porzellansplitter der Glocke lassen keine andere Deutung zu.
@@ -470,20 +470,20 @@ mit Säure beschmiert hat, um die Spuren der Feile zu tilgen.
 Begreifst du nun, weshalb Mr. Whrig so übereilt zu dem
 Schiffe zurückgekehrte, obwohl sein Eiskoblerglas noch halb
 gefüllt war? Nicht nur der Zettel mit der Aufschrift
-«Dartmoor« trieb ihn in die Flucht, — — er hatte hier an
+»Dartmoor« trieb ihn in die Flucht, — — er hatte hier an
 Bord allerlei Dinge zu erledigen, die er besser in
 Abwesenheit Steeps ausführen konnte, der ja Miß Jefferson
 den Hof machte und nicht ahnte, das der Tod hier auf ihn
 lauerte, — Na — überzeugt?!«
 
-»Ja, vollkommen! — Deine »Kleinarbeit», Harald, ist eine
+»Ja, vollkommen! — Deine »Kleinarbeit«, Harald, ist eine
 sehr große Leistung …!«
 
-Er winkte wenn ab. «Im Himmelswillen — leise! Wenn das einer
+Er winkte wenn ab. »Im Himmelswillen — leise! Wenn das einer
 jener ernsthaften Kritiker gehört hätte, die berufsmäßig
 nach Mängeln und Anstoß erregenden Stellen suchen, wärest du
 total aufgeschmissen. Große Leistung?! Ich werde noch an
-Größenwahn eingehen.» Er verschloß den Koffer, richtete sich
+Größenwahn eingehen.« Er verschloß den Koffer, richtete sich
 langsam auf und fügte gleichmütig hinzu: « Whrig hat also
 alles hier sehr gründlich für Steeps Empfang vorbereitet
 gehabt und dann oben an Deck, den ganz dünnen Draht in der
@@ -515,7 +515,7 @@ den Fahrgästen einfach einen Unfall beim säubern der Waffe
 als bisher einzig wahrscheinliche Erklärung bekannt zu
 geben.
 
-Ich hatte den Eindruck, daß der Kapitän von unserer «Kunst«
+Ich hatte den Eindruck, daß der Kapitän von unserer »Kunst«
 nach dieser Probe verdammt wenig hielt.
 
 Mochte er …!
@@ -524,7 +524,7 @@ Mochte er …!
 
 <h2>3. Kapitel.</h2>
 
-<h3>Marry Jefferson, «ein Fund«.</h3>
+<h3>Marry Jefferson, »ein Fund«.</h3>
 
 »Entschuldigen Sie, Miß …«
 
@@ -543,21 +543,21 @@ Der Hieb saß.
 
 Das kupferrote Mädel aus U. S. A. wurde blaß.
 
-»So?! Steeps … hat …», — die Stimme gehorchte ihr nicht …
+»So?! Steeps … hat …«, — die Stimme gehorchte ihr nicht …
 
 Ein Tränenstrom kam …
 
 In dieser Beziehung sind die blonden deutschen Gretchen und
 die kupferfarbenen Marrys doch alle gleich! Wenn Worte
-versagen, inüssen die Tränen ins Gesicht.
+versagen, müssen die Tränen ins Gesicht.
 
 Harst rückte einen Schifferstuhl näher und setzte sich, nahm
-Marrys Händchen und meinte so recht väterlich-gütig: «Miß
+Marrys Händchen und meinte so recht väterlich-gütig: »Miß
 Jefferson, um mal ehrlich zu sein …! Bitte, keine kleine
 oder kleinste Schwindelei … Die Sache ist zu ernst dazu.«
 
-Ich hatte Marry Jefferson, Vater «Schweine en gros«, achtzig
-Millionen, bisher für eine von vielen gehalten, für inäßigen
+Ich hatte Marry Jefferson, Vater »Schweine en gros«, achtzig
+Millionen, bisher für eine von vielen gehalten, für mäßigen
 Durchschnitt, wenn sie auch äußerlich bestechend wirkte.
 Wieder einmal hatte hier meine Menschenkenntnis versagt.
 
@@ -569,10 +569,10 @@ Klang, daß dies ganze zierlich-volle Persönchen wie mit
 einem Schlage gänzlich verwandelt schien.
 
 »Mein Herr, ich verstehe Ihre Andeutungen nicht, ich finde
-sie unverschämt … Sie riß ihre Hand zurück. «Verlassen Sie
+sie unverschämt … Sie riß ihre Hand zurück. »Verlassen Sie
 mich gefälligst … sofort!«
 
-Harst blieb sitzen. «Wenn ich Sie verlasse, gehe ich zum
+Harst blieb sitzen. »Wenn ich Sie verlasse, gehe ich zum
 Kapitän und fordere ihn auf, einmal den Steward zu fragen,
 wie viel sie diesem für sein Schweigen in die Linke
 drückten, — mit der Linken nimmt man Bestechungsgelder
@@ -598,12 +598,12 @@ kann?! Gewiß, sie handelten in der ersten Angst, als sie ihm
 Reichtümer verhießen, wenn er schwiege. Wird der Mann, der
 auf mich keinen besonders günstigen Eindruck gemacht hat,
 auch wirklich mit dem, was er an Geld erhielt und noch
-erhalten soll, zu-frieden sein?! Wird er nicht Erpressung
+erhalten soll, zufrieden sein?! Wird er nicht Erpressung
 versuchen und Sie schließlich zur Verzweifelung treiben?!
 Ihre Lage ist sehr ernst, Miß Jefferson, — ich darf Ihnen
 das nicht verhehlen. Der Verdacht, den Schuß auf Steeps
 abgegeben zu haben, muß an Ihnen hängen bleiben, falls nicht
-besonders glück-liche Umstände, zu denen ich eine völlige
+besonders glückliche Umstände, zu denen ich eine völlige
 Genesung Steeps rechne, sie genügend entlasten, und auch
 dann bleiben Sie rettungslos kompromittiert durch Ihren
 Besuch in des Obersten Kabine. Bedenken sie alles sehr
@@ -618,7 +618,7 @@ sie doch Vertrauen zu uns …! Ich will …«
 
 Aber Marrys Gesicht war steinerner denn je.
 
-»Wer sind Sie?! so wie Sie redet kein »Fabrikbesitzer». So
+»Wer sind Sie?! so wie Sie redet kein »Fabrikbesitzer«. So
 sind Fachmann auf anderem Gebiet und  …«
 
 »Das gebe ich zu«, erklärte Harst eindringlich. Vielleicht
@@ -643,13 +643,13 @@ gefährlich und drohend gewesen wären.
 Dann — auch die Wandlung trat fast urplötzlich ein und
 bewies des Mädchens erstaunliche Energie — lachte sie wie
 beschämt und sagte mit einem reizenden Schmollmündchen und
-halb koketten  Blick: «Ich bin ja töricht! Ich lasse mir
+halb koketten  Blick: »Ich bin ja töricht! Ich lasse mir
 hier  von Ihnen Geschichten erzählen, die keinerlei
 Anspruch auf Wirklichkeit haben, und ich merke gar nicht,
 daß Sie nur auf den Busch klopfen wollten … Das ist nicht
 nett von Ihnen, gar nicht nett, — ich habe von Ihnen so viel
-Gutes gelesen … Be-sonders in Bezug auf die Insel Manibar
-und jene Magda Harras, der Sie nachher zur Flucht ver-halfen
+Gutes gelesen … Besonders in Bezug auf die Insel Manibar
+und jene Magda Harras, der Sie nachher zur Flucht verhalfen
 und ihr noch einen Scheck gaben. Daß Sie mich nun hier über
 Dinge aushorchen wollen, die …«
 
@@ -690,30 +690,30 @@ Der Engländer bekam steife Nackenmuskeln.
 »Ich horche nie, — selbst ein Steward braucht sich nicht
 beleidigen zu lassen!«
 
-»Ganz recht … Ein ehrlicher Steward nicht.» Harst lächelte
-sehr unangenehm. «Aber Sie, mein Lieber, sind nicht ehrlich.
+»Ganz recht … Ein ehrlicher Steward nicht.« Harst lächelte
+sehr unangenehm. »Aber Sie, mein Lieber, sind nicht ehrlich.
 Wünschen Sie, daß wir diese Unterhaltung in Gegenwart des
 Kapitäns fortsetzen?«
 
-Burns nickte, «Von mir aus — ja!« Der Kerl war mehr als
+Burns nickte, »Von mir aus — ja!« Der Kerl war mehr als
 unverschämt.
 
 »Wie Sie wollen … folgen Sie uns … Oder besser, gehen Sie
 zwischen uns. Vielleicht hätten Sie Luft, irgend etwas
 verschwinden zu lassen …«
 
-»Vielleicht», grinste Burns.
+»Vielleicht«, grinste Burns.
 
-Der Allgewaltige der «Britannia« blickte uns dreien nicht
+Der Allgewaltige der »Britannia« blickte uns dreien nicht
 eben freundlich entgegen.
 
 »Setzen Sie sich …  … Was gibt es?! — Burns, haben Sie etwa
 verraten. Wer …«
 
-Harst griff schnell ein. «Kaptain Williams, ich inöchte Sie
+Harst griff schnell ein. »Kaptain Williams, ich möchte Sie
 bitten, Burns zu durchsuchen.«
 
-Williams lachte schallend, «Burns — — durchsuchen?! Das ist
+Williams lachte schallend, »Burns — — durchsuchen?! Das ist
 der beste Witz, den ich je gehört habe, — allerdings kenne
 ich auch wenige anständige Witze, mein Vorrat an Witzen
 stammt nämlich aus modernen Revuen, und ohne grobe Zoten
@@ -726,20 +726,20 @@ meine Bitte: Er soll durchsucht werden, weil … mir aus
 meiner Kabine verschiedenes verschwunden ist.«
 
 Williams, ohne Frage eine bierehrliche Haut und ein
-Gentleman, machte jetzt ein ganz merk-würdiges Gesicht.
+Gentleman, machte jetzt ein ganz merkwürdiges Gesicht.
 
-»Das ist … ist widersinnig«, erklärte er grob. «Und damit
-Sie dies einsehen, Mr.…«
+»Das ist … ist widersinnig«, erklärte er grob. »Und damit
+Sie dies einsehen, Mr…«
 
 »Hirth, — — Hirth aus Berlin …«
 
-»Ich was«, polterte der Herr der «Britannia« heraus.  »Sie
+»Ich was«, polterte der Herr der »Britannia« heraus.  »Sie
 sind Harst, und Burns ist Detektivsergeant von Scotland Yard
 und eigens zu dem Zweck hier an Bord, eine Bande von
 Falschspielern dingfest zu machen.«
 
 Burns, der es sich in seinem Sessel bequem gemacht hatte,
-zog nun die dünnen Augenbrauen etwas hoch, «Aha — — Harst!!
+zog nun die dünnen Augenbrauen etwas hoch, »Aha — — Harst!!
 Wirklich ein Witz!«
 
 Williams schien die Sache hiermit für erledigt zu halten.
@@ -750,17 +750,17 @@ jedoch lediglich eins feststellen. Daß Colonal Steeps ein
 berufsmäßiger Falschspieler und Vertreiber von Pfundblüten
 ist.«
 
-»Was sie sagen!!» Noch nie hat Harst so grenzenloses
+»Was sie sagen!!« Noch nie hat Harst so grenzenloses
 Erstaunen so trefflich geheuchelt, »Falschspieler?! Steeps?!
 — Entschuldigen Sie, Kaptain, ich wage das zu bezweifeln.
-Zunächst inöchte ich aber meine Angelegenheit erledigt
+Zunächst möchte ich aber meine Angelegenheit erledigt
 sehen. Mir fehlen zwei Platinringe mit Brillanten, ferner …«
 
 Holladay Burns war emporgeschnellt, stand da, stiert auf
 seine Hand … Er hatte wohl sein  Zigarettenetui aus der
 äußeren Jackentasche hervorholen wollen und hielt jetzt auf
 der flachen Hand zwei Ringe, wurde rot vor Wut, brüllte
-Harst an: «Die haben Sie mir in die Tasche bugsiert, Sie … —
+Harst an: »Die haben Sie mir in die Tasche bugsiert, Sie … —
 — Kaptain, ich …«
 
 Williams blies die Backen auf wie zwei Büstenhalter aus
@@ -769,7 +769,7 @@ braunem Zelluloid und pfiff drei Takte …  …
 »Verdammt, Burns, — ein Harst macht keine solchen Scherze!
 Wozu wohl auch?!«
 
-»Das inöchte ich auch gern wissen!», meinte der Besitzer der
+»Das möchte ich auch gern wissen!«, meinte der Besitzer der
 Ringe bissig. »Kaptain, Burns spielt hier Theater, Burns hat
 noch mehr nette Sächelchen bei sich, und um den Kopf aus der
 schlinge zu ziehen, verdächtigt er mich. Das verbitte ich
@@ -798,22 +798,22 @@ Wie kommen sie zu dem Bargeld?!«
 
 Holladay Burns schielte uns von unten herauf an.
 
-»Sie … werden … alle … an … mich denken!», sagte er mit
-schwerer Betonung; «Alle …!!«
+»Sie … werden … alle … an … mich denken!«, sagte er mit
+schwerer Betonung; »Alle …!!«
 
 Williams musterte ihn verächtlich.
 
 »Sie … Sandfloh, Sie!! Noch drohen?! Sie?!«
 
 »Oh, — dies ist nicht das ganze Sündenregister, Kaptain«,
-erklärte Harst ohne besondere Absicht — scheinbar. «Burns
+erklärte Harst ohne besondere Absicht — scheinbar. »Burns
 hat den Colonel Steeps als Falschspieler und Besitzer von
 Blüten denunziert. — Wie konnten Sie sich dies aus den
 Fingern saugen, Burns?! Der Oberst ist ein Ehrenmann und …«
 
 Holladay Burns großer Augenblick war gekommen.  »Kaptain, in
 Steeps kleinerem Koffer befinden sich etwa fünfhundert
-Spiele neuer Karten, wie sie hier auf der «Britannia« und
+Spiele neuer Karten, wie sie hier auf der »Britannia« und
 auf den anderen Dampfern der London-Hongkong-Linie benutzt
 werden, außerdem falsche Banknoten im Scheinwert von …«
 
@@ -832,19 +832,19 @@ eingesperrt wurde.
 
 Über alledem war der Abend angebrochen, und es wurde Zeit,
 daß wir uns zum Essen umkleideten. Kaptain Williams hatte
-uns noch versprochen, daß der kranke Steeps sorg- fältig
+uns noch versprochen, daß der kranke Steeps sorg- faltig
 bewacht werden würde, kein Fahrgast sollte ihn besuchen
 dürfen, — — so weit war alles in Ordnung.
 
 Als wir in unserer Mitschiffskabine allein waren, baute ich
-mich vor Harald auf und schnauzte ihn an! «Das war beinahe
+mich vor Harald auf und schnauzte ihn an! »Das war beinahe
 gemein von dir!! Mag dieser Burns ein Lump sein — das hatte
 er nicht verdient! Mag er von Marry Jefferson auch Geld und
 das Armband …  …«
 
 Ich brach jäh ab, den Harst drückte mir so kräftig die Hand
 auf den Mund, daß es fast ein Schlag war, — dazu zischte er
-mir ins Ohr: «Du Narr, vergiß nicht, daß Whrig nebenan
+mir ins Ohr: »Du Narr, vergiß nicht, daß Whrig nebenan
 wohnt! Du kannst mir das ganze Spiel verpatzt haben!«
 
 … Spiel?!
@@ -855,7 +855,7 @@ Ich war nur Zuschauer. Ich ahnte nichts von Harsts tieferen
 Gründen für sein unfaires Verhalten. Ich wußte nur, daß
 Whrig ein Messer geschleudert hatte, das ein alter
 arabischer Bettler es mitnahm und verschwand, daß Whrig und
-Steeps erbitterte Gegner waren, — - und dann die letzten
+Steeps erbitterte Gegner waren, — — und dann die letzten
 Vorfälle hier an Bord.
 
 Wo war da der berühmte rote Faden, der die Ereignisse als
@@ -878,7 +878,7 @@ Bevor wir in den Speisesaal gingen, packte Harst mich bei
 den Schultern, drehte mich herum und flüsterte herzlich:
 
 »Schließen wir wieder Frieden, Alterchen. — Marry Jefferson
-liebt Steeps, und Marry hatte er-fahren, das Burns ihn
+liebt Steeps, und Marry hatte erfahren, das Burns ihn
 entlarven wollte … In ihrer Angst ging sie in seine Kabine,
 und bei ihrem Temperament mußte es dabei etwas laut hergehen
 … — Ich will Steeps retten und Marry glücklich sehen … —
@@ -895,7 +895,7 @@ Menschen, der leider auf Abwege geraten war.
 <h3>Whrigs Flucht.</h3>
 
 Mr. Thomas Whrigs roter Schweinskopf ragte über einen hohen
-Stehkragen wie eine arg ver-schrumpelte Blutapfelsine mit
+Stehkragen wie eine arg verschrumpelte Blutapfelsine mit
 sorgfältig festgeklebten, strohblonden Haarresten — in
 Scheitelform — hinaus. Ich hatte die Stunde, in der uns der
 Obersteward ausgerechnet an Whrigs Tisch zwei Plätze anwies,
@@ -921,7 +921,7 @@ der wenigen war, die dieses ausgesprochende Ekel nicht ganz
 hatte abblitzen lassen. Nach Tisch drängte sich Whrig
 gleichfalls an uns beide heran, lud uns zu einem Drink an
 der Bar ein und erklärte schließlich gedämpften Tones, er
-habe uns Wichtiges mitzuteilen, wir inöchten ihn doch in
+habe uns Wichtiges mitzuteilen, wir möchten ihn doch in
 seine Kabine begleiten. Harst warf mir einen vorsichtigen
 schnellen Blick zu, als wir die Bar verließen. Ich ahnte so
 ungefähr, was kommen würde, und ich hatte recht.
@@ -935,34 +935,34 @@ innere Brusttasche und schob die Sicherung zurück.
 Wir saßen an einem kleinen Klapptisch, Whrig mit dem Rücken
 zur Tür, wir mit dem Rücken nach den beiden offenen runden
 Fenstern, durch die leider auch nicht ein einziges kühles
-Lüftchen hereinstrich. Das Rote Meer inüßte umgetauft
+Lüftchen hereinstrich. Das Rote Meer müßte umgetauft
 werden, es ist weder rot noch rosig, es ist ein Hexenkessel
 von Hitze und öden Uferstrecken und endlosen Korallenbänken
 und kahlen Inseln. Thomas Whrig bewirtete uns mit
 Eisgetränken, erstklassigen Zigarren und einer schlauen,
-wohl-gesetzten Rede über Oberst Baldur Steeps, wobei seine
+wohlgesetzten Rede über Oberst Baldur Steeps, wobei seine
 Schellfischaugen vor Hohn fast überliefen. Da der
 Kabinensteward die Getränke und die Zigarren aus der Bar
 geholt hatte, brauchten wir nicht zu fürchten, daß Whrig an
 uns ähnliche Künste versuchen würde wie an dem armen Steeps.
-Außer-dem konnte er kaum ahnen, wer wir in Wirklichkeit
+Außerdem konnte er kaum ahnen, wer wir in Wirklichkeit
 seien.
 
 »Meine Herren«, begann Whrig mit dem salbungsvollen Ton des
-waschechten künstlichen Biedermannes, «was halten Sie von
+waschechten künstlichen Biedermannes, »was halten Sie von
 dieser Geschichte?«
 
-»Welcher?», fragte Harst ziemlich gelangweilt und gähnte
+»Welcher?«, fragte Harst ziemlich gelangweilt und gähnte
 diskret.
 
-Whrig kam aus dem Text, «Es gibt doch nur ein Gesprächsthema
+Whrig kam aus dem Text, »Es gibt doch nur ein Gesprächsthema
 heute hier an Bord: Steeps’ Unfall beim Pistolenreinigen«,
 meinte er mit ärgerlichem Hüsteln.
 
 »Ich so … interessiert Sie eine solche Belanglosigkeit
-wirklich?!» Harst ließ wieder seinen ganzen Vorrat von
+wirklich?!« Harst ließ wieder seinen ganzen Vorrat von
 sonderbaren Mätzchen ins Treffen ziehen, und seine
-Wurstigkeit gegenüber dem «Unfall« des Colonel wirkte
+Wurstigkeit gegenüber dem »Unfall« des Colonel wirkte
 durchaus echt.
 
 Glaubte ich.
@@ -973,14 +973,14 @@ Versteckspiel, erklärte er mit einer feierlichen
 Handbewegung.  »Ich bemerkte zufällig, daß der Kapitän Sie
 beide in Steeps Kajüte einließ und zog daraus meine
 Schlüsse«. Sein schweißglänzendes Gesicht nahm den Ausdruck
-diabolischer Freude an. «Ich kenne Sie beide, und die
+diabolischer Freude an. »Ich kenne Sie beide, und die
 außerordentliche Achtung, die ich vor Ihnen beiden hege, hat
-mich dazu ver-anlaßt, gerade Ihnen etwas mitzuteilen, das
-den Fall Steeps …» — er suchte nach Worten — «in ein ganz
+mich dazu veranlaßt, gerade Ihnen etwas mitzuteilen, das
+den Fall Steeps …« — er suchte nach Worten — »in ein ganz
 neues Licht führt.«
 
-»Was Sie sagen!!», tat Harst außerordentlich verwundert,
-«Also haben Sie heute erst heraus-bekommen, wer wir sind …
+»Was Sie sagen!!«, tat Harst außerordentlich verwundert,
+»Also haben Sie heute erst herausbekommen, wer wir sind …
 …«
 
 »Ja … durch eine sehr einfache Schlußfolgerung. Der Kapitän
@@ -988,24 +988,24 @@ hätte zwei Fabrikbesitzer wohl kaum in Steeps’ Kabine
 geführt, und der Steward Holladay Burns wäre nie in Eisen
 gelegt worden, wenn …«
 
-Harst rief begeistert: »Fabelhaft!!» Doch seine überlaute
+Harst rief begeistert: »Fabelhaft!!« Doch seine überlaute
 Anerkennung für Thomas Whrigs rührigen Geist schwächte er
 sofort wieder ab, indem er nach einem Heft griff, das auf
-dem Nachttischchen lag, , «siehe da, — die Julinummer des
+dem Nachttischchen lag,, »siehe da, — die Julinummer des
 London Magazin«. Und hier — gerade diese Seiten haben Sie
 eifrigst gelesen, wie die Fingerabdrücke und die
 Zigarrenasche beweisen. Ausgerechnet auf diesen Seiten ist
 der Artikel abgedruckt, der die allerletzten Vorgänge auf
-der Insel Manibar be-handelt, und dies hier sind … Schraut
+der Insel Manibar behandelt, und dies hier sind … Schraut
 und ich, — zwei sehr gute, recht geschmeichelte Aufnahmen.
 Vor fünf Tagen sah ich Sie bereits mit diesem Heft an Deck,
 Mister Whrig, — offenbar wollten Sie die Photos mit den
 Originalen vergleichen, somit ist Ihnen nicht seit heute,
 sondern seit fünf Tagen bekannt, wer wir in Wahrheit sind, —
 — auch ganz einfache Schlußfolgerungen, wie Sie zugeben
-inüssen.«
+müssen.«
 
-Whrig grinste säuerlich. «Leider trügerische
+Whrig grinste säuerlich. »Leider trügerische
 Schlußfolgerungen, Mr. Harst. Weshalb sollte ich Sie
 anlügen? Was hätte ich davon?!«
 
@@ -1015,7 +1015,7 @@ Schulter hinweg auf das eine Fenster.
 
 Whrig flog empor.
 
-»Um Gotteswillen, was tun Sie?!», stotterte er mehr wütend
+»Um Gotteswillen, was tun Sie?!«, stotterte er mehr wütend
 als entsetzt. Sein Gesicht war aschfahl, seine Augen
 sprühten einen tückischen Haß, wie ihn nur erbärmliche
 Feiglinge verspüren, denen jede offene, aufrechte Tat und
@@ -1023,14 +1023,14 @@ jedes mannhafte Eintreten für gesetzwidrige Handlungen fremd
 ist.
 
 »Wenn Sie wieder einmal Gäste zu sich bitten, Mister Whrig«,
-meinte Harst mit beißendem Spott, «verhängen Sie doch den
+meinte Harst mit beißendem Spott, »verhängen Sie doch den
 großen Schrankspiegel. Das Gesicht, das für einen Moment vor
 dem Fenster erschien, wird durch seine Teufelsfratze dem
 Spiegelglas hoffentlich nicht geschadet haben, und der Arm,
 der durch dasselbe Fenster dann hier in die Kabine
 hereinragte, dürfte vorläufig keine Lustpistole benutzen
 dürfen, — — fürchte ich … — Was Sie selbst betrifft, Whrig
-…», Harsts Tonfall änderte sich jäh, «So rate ich Ihnen im
+…», Harsts Tonfall änderte sich jäh, »So rate ich Ihnen im
 Guten, die bewußte Sache aufzugeben. Falls Steeps sterben
 sollte, sind sie reif für den Henker, mein Lieber, Beweise,
 die einem Gerichtshof genügen, habe ich noch nicht gegen Sie
@@ -1043,14 +1043,14 @@ Harst den Weg, stellte sich vor die Tür und läutete
 gleichzeitig nach dem Steward.
 
 »Mr. Harst«, sagte er tief gekränkt und mit einem Pathos
-eines Unschuldsengels, «diese Vorfälle hier erfordern
+eines Unschuldsengels, »diese Vorfälle hier erfordern
 unbedingt eine strenge Untersuchung durch den Kapitän. Ihre
 verrückten Anschuldigungen weise ich voller Entrüstung
 zurück.
 
 Der Steward klopfte, trat ein. Harst hatte sich wieder
 gesetzt, ich behielt die Fenster im Auge. Harsts Andeutungen
-über die «bewußte« Sache hatte ich nicht verstanden, reimte
+über die »bewußte« Sache hatte ich nicht verstanden, reimte
 mir jedoch unschwer zusammen, das Thomas Whrig irgendwie mit
 den Dingen zu tun hätte, die auf Manibar geschehen sein
 mußten und die unseren Freund Percy Gollon zu dem Telegramme
@@ -1072,7 +1072,7 @@ dachte, fiel mir Gollons getreuer, von ihm unzertrennlicher
 Diener Abraham Shnout ein …
 
 War Shnout etwa der Bettler am Kai in Suez gewesen? Im
-nächsten Moment verwarf ich , innerlich sanft lächelnd,
+nächsten Moment verwarf ich, innerlich sanft lächelnd,
 diese Möglichkeit sofort als gänzlich verfehlt: Shnout war
 ein kleiner, dicker Kerl mit einem Pausbackengesicht, und
 der Bettler hatte kein Lot Fett auf den Knochen gehabt.
@@ -1086,7 +1086,7 @@ schnappte.
 Harst lächelte amüsiert und knipste sein Zigarettenetui auf,
 »Nun, Mr. Whrig, Sie wollten doch den Kapitän oder den
 ersten Offizier rufen lassen … Sie können überzeugt sein,
-daß hier an Bord der «Britannia« noch mehr Handschellen und
+daß hier an Bord der »Britannia« noch mehr Handschellen und
 Fußeisen und Ketten gibt. Steward, erfüllen Sie Mr. Whrigs
 sehnlichsten Wunsch und melden Sie dem Kapitän, daß hier in
 dieser Kabine abermals jemand beim Pistolensäubern beinahe
@@ -1127,12 +1127,12 @@ Sprüngen an dem anderen Fenster und schob den Kopf hindurch.
 
 Whrig duckte sich zusammen, schoß vorwärts, riß Harst
 zurück, — — im selben Augenblick traten der Kapitän und
-Zahlmeister der «Britannia« ohne anzuklopfen ein und bauten
+Zahlmeister der »Britannia« ohne anzuklopfen ein und bauten
 sich in ihren weißen Bordanzügen herausfordernd vor dem
 Tische auf.
 
-»Was ist denn nun schon wieder los?!», polterte der
-Allgewaltige des Dampfers reichlich grob. «Ist hier
+»Was ist denn nun schon wieder los?!«, polterte der
+Allgewaltige des Dampfers reichlich grob. »Ist hier
 geschossen worden? Es riecht nach Blättchenpulver, und …«
 
 Die Tür war nur angelehnt — leider. Und Whrig besaß doch
@@ -1147,7 +1147,7 @@ Und als wir dann durch die herausgeschlagene untere Füllung
 uns befreiten und an Deck stürmten, ertönte auch schon die
 Schiffssirene: Mann über Bord!
 
-Die «Britannia« stoppte. Aber Mr. Thomas Whrig war bereits
+Die »Britannia« stoppte. Aber Mr. Thomas Whrig war bereits
 von einem hinter dem Dampfer mit abgeblendeten Lichtern
 einherschleichenden kleinen flinken Fahrzeug aufgefischt
 worden. Von der Kommandobrücke aus beobachteten wir dieses
@@ -1156,15 +1156,15 @@ nun urplötzlich hinter dem fremden Schiffe, es konnte eine
 kleine, sehr schnelle Jacht sein mit schwarzen Anstrich —
 ein zweites, weißes Fahrzeug auftauchte, das der flüchtenden
 schwarzen dicht auf den Fersen war, sog der von Staunen jäh
-verstummte Kapitän prustend die Luft in den inächtigen
+verstummte Kapitän prustend die Luft in den mächtigen
 Brustkasten ein und platzte dann heraus:
 
 »Mr. Harst, — in drei Teufels Namen, — was bedeutet das?!«
 
 … Es kam noch besser … Keuchend und schwitzend erschien der
 Schiffsarzt. »Kaptain, unser Patient Steeps ist verschwunden
-… Ich … ich fand soeben …» — er muß erst Atem schöpfen —
-«den Lazarettgehilfen betäubt in Steeps Krankenkabine vor, —
+… Ich … ich fand soeben …« — er muß erst Atem schöpfen —
+»den Lazarettgehilfen betäubt in Steeps Krankenkabine vor, —
 das Bett ist leer.«
 
 Dampferkapitäne der großen Linien sind in allem Gentlemen.
@@ -1189,24 +1189,24 @@ wollte.«
 Kaptain, Zahlmeister und Arzt stierten ihn an, als
 zweifelten sie an seiner Zurechnungsfähigkeit. Aber seine
 knappen Erläuterungen änderten alles: Der Kapitän drückte
-ihm die Hand und meinte fast vergnügt: «Ein Segen, daß ich
+ihm die Hand und meinte fast vergnügt: »Ein Segen, daß ich
 Whrig los bin!! Der Satan hole ihn!! Steeps werden wir schon
 finden.«
 
 Über Colonel Baldur Steeps’ Fingerfertigkeit war nicht eine
 Silbe über Harsts Lippen gekommen.
 
-Die «Britannia« setzte die für eine halbe Stunde
+Die »Britannia« setzte die für eine halbe Stunde
 unterbrochene Fahrt wieder fort, und die Suche nach Steeps
 begann. Er wurde nicht gefunden. Der Lazarettgehilfe konnte
 nur angeben, daß in der Flasche Porter, die ihm jemand als
 Labsal geschickt, wahrscheinlich ein Betäubungsmittel
-enthalten gewesen. Der «Jemand« war nicht zu ermitteln.
+enthalten gewesen. Der »Jemand« war nicht zu ermitteln.
 
 Als wir beide gegen ein Uhr morgens endlich in unserer
 Kabine allein waren (der Kaptain hatte ein endloses
 Protokoll aufgenommen), warf sich Harst in einen Sessel und
-sagte leise und sichtlich unzufrieden: «Ein Bettler am Kai,
+sagte leise und sichtlich unzufrieden: »Ein Bettler am Kai,
 ein messerwerfender Heringshändler. ein Falschspieler, eine
 verliebte  Dollarmaid, zwei geheimnisvolle Schiffe, — —
 etwas reichlich all das, zumal auch Gollons Botschaft auch
@@ -1216,7 +1216,7 @@ Die Tür ging leise auf, und herein trat ein alter,
 graubärtiger Herr mit Brille, der in Suez an Bord gekommen
 war.
 
-Abraham Shnout fragt wehleidig. «Herr Harst, — es ist
+Abraham Shnout fragt wehleidig. »Herr Harst, — es ist
 entsetzlich … Ich schwitze so, daß der angeklebte Bart nicht
 halten will … Ich schwebe andauernd in Todesangst, daß er
 mir runterrutscht und mir am letzten Westenknopf als
@@ -1240,9 +1240,9 @@ getrieben?! — Ich auch nicht. Aber ich stelle mir das
 Flohhüten etwa so vor, als wenn man verurteilt ist, für
 Jungvermählte den Diener, Koch und Anstandsbaubau zu
 spielen, — letzteres nur deshalb, damit die Boys von der
-Jacht «Happy End«, die doch der Gnädigen gehört, und die
+Jacht »Happy End«, die doch der Gnädigen gehört, und die
 arabischen Bengels nicht allzu viel von dem andauernden
-Ge-knutsche im freien zu sehen kriegen und nicht noch
+Geknutsche im freien zu sehen kriegen und nicht noch
 zweideutige Bemerkungen machen! — Ich habe meinem Herrn nun
 doch bereits elf Jahre gedient, ich glaubte ihn zu kennen:
 Herr Harst, man lernt Menschen nie ganz kennen! Nie im Leben
@@ -1259,7 +1259,7 @@ hätte, so dunkle Geschichten aufzuklären, da hat er einfach
 gesagt: »Shnout, fahren Sie nach Hodeida und telegraphieren
 Sie an Harst. Er soll kommen … Ich habe keine Zeit.«
 
-»Also ich gondelte von Manibar mit der «Happy End« nach
+»Also ich gondelte von Manibar mit der »Happy End« nach
 Hodeida, — Sie kennen ja diesen  Hafenort. Der Whisky dort
 schmeckt wie Säuglingstee, und die sonstigen Schnäpse — —
 Allah würde sich würde sich im Grabe umdrehen; wenn er das
@@ -1281,11 +1281,11 @@ Abend war es. Als Frau Madge zwischen den Bäumen nicht mehr
 auftauchte, wurde mein Herr unruhig, suchte nach ihr, ruft,
 brüllt, die arabischen Bengels helfen suchen, mein Herr
 läuft zur Nordbucht, Sie wissen ja, auch dort kann ein
-Schiff ankern — und erblickt noch im Abend-rot den verfli …
+Schiff ankern — und erblickt noch im Abendrot den verfli …
 schwarzen Kasten, der mich so in Aufregung versetzt hatte.«
 
 Abraham stärkte sich durch einen gehörigen Schluck und spann
-das traurige Garn weiter, «Mit diesem schwarzen,
+das traurige Garn weiter, »Mit diesem schwarzen,
 unheimlichen Schoner hatte die Sache begonnen, Herr Harst.
 Es war ein Schoner, und im bemerkte ihn zuerst eines Abends
 vom Nordkap aus, vor der guten Angelstelle, — — Sie wissen
@@ -1298,9 +1298,9 @@ und — wieder erschien der schwarze Kasten, näherte sich der
 Bucht, und — — nicht eine Seele war an Deck zu bemerken. Ich
 sage Ihnen, es war unheimlich. Plötzlich ändert der Schoner
 den Kurs und verduftet wieder. Jetzt teilte ich meinem Herrn
-das Beobachtete mit. Was sagte er zu mir?! »Abraham», sagte
-er, «Ich werde den Schlüssel vom Vorratskeller fortan selbst
-verwahren!!» … Herr Harst, Tatsache, Mr. Gollon glaubte, ich
+das Beobachtete mit. Was sagte er zu mir?! »Abraham«, sagte
+er, »Ich werde den Schlüssel vom Vorratskeller fortan selbst
+verwahren!!« … Herr Harst, Tatsache, Mr. Gollon glaubte, ich
 hätte statt weißer Mäuse eine schwarze Wasserratte gesehen.
 — Ich war tief gekränkt, aber ich paßte desto besser auf.
 Die Geschichte gefiel mir gar nicht, und ich bat auch die
@@ -1316,7 +1316,7 @@ der dritten — endlich! — erschien der verdammte schwarze
 Kahn und … wollte in die Bucht hinein, der Mond schien sehr
 hell, die  Haifische in der Bucht hatten gerade
 Haifischfest, und … was rede ich viel … — ich … schoß …
-schoß immer wieder, und die Kugeln inüssen getroffen haben:
+schoß immer wieder, und die Kugeln müssen getroffen haben:
 Holz …! — denn an Deck war wieder keine Seele!! Immerhin,
 ich hatte den schwarzen Kahn verscheucht, aber für wie
 lange?! Nun nahm ich mir Mr. Percy mal gründlich vor, und
@@ -1328,13 +1328,13 @@ fürchten ließ. Ich mußte handeln. Ich handelte auch, noch
 nie bin ich Mr. Percy gegenüber grob geworden, diesmal lief
 mir die Galle über, und als ich ihn gehörig zurechtgestaucht
 hatte, besann er sich wieder auf sich selbst und wurde der
-Gollon von einst, - Sie wissen, die Londoner Unterwelt
+Gollon von einst, — Sie wissen, die Londoner Unterwelt
 nannte ihn immer nur den Nußknacker, mit Recht, — — was Mr.
 Percy anpackte, mußte die Schalen öffnen und den Kern
 freigeben. Manche von den Burschen, denen er so den Schädel
 aufknackte und die dann für lange Jahre Freiquartier
 bezogen, haben ihm bittere Rache geschworen, und … aber
-darauf komme ich nachher zurück. «Wie gesagt, mein Herr fand
+darauf komme ich nachher zurück. »Wie gesagt, mein Herr fand
 seine Energie wieder — in den Flitterwochen gebt vieles
 verloren —, schickte mich mit der Jacht nach Suez Ihnen
 entgegen, er selbst fuhr mit einem Kutter südwärts nach der
@@ -1342,7 +1342,7 @@ englischen Insel Kamaran, — Sie wissen ja, und wollte
 sämtliche Kriegsschiffe, die in Aden stationiert sind, auf
 die Beine bringen. Frau Madge ist ja schließlich die Tochter
 eines Lords, und daß das Gouvernement in Aden alles tun
-wird, diese Schufte mit ihrem schwarzen Kahn auf-zustöbern,
+wird, diese Schufte mit ihrem schwarzen Kahn aufzustöbern,
 ist selbstverständlich.«
 
 Abermals mußte Abraham erst die Whiskyflasche eingehender
@@ -1355,9 +1355,9 @@ Zuchthaus begnadigt wurde? Das Verfahren gegen ihn, der auf
 der Insel Manibar eine so üble Rolle gespielt hatte, wurde
 sehr beschleunigt, er kam in die Strafanstalt Dartmoor, und
 wurde bei Bodenkulturarbeiten verwendet. Vor drei Wochen
-wagte er an der Arbeits-stelle einen Fluchtversuch, ein
+wagte er an der Arbeitsstelle einen Fluchtversuch, ein
 Oberaufseher verfolgte ihn, beide versanken in einem
-unergründ-lichen Sumpfloch, und nur zwei anderen anderen
+unergründlichen Sumpfloch, und nur zwei anderen anderen
 Sträflingen gelang es, bei dieser Gelegenheit, zu
 entwischen. Gerade diese beiden schweren Jungens gehörten
 mit zu denen, die Mister Percy blutige Rache geschworen
@@ -1368,7 +1368,7 @@ haben.«
 Harst und ich wußten von alledem nichts.
 
 »Ist auch einwandfrei festgestellt«, meinte Harst sehr
-nachdenklich, «daß tatsächlich Tom Harras im Sumpf umkam?!
+nachdenklich, »daß tatsächlich Tom Harras im Sumpf umkam?!
 Harras kannte Manibar und die Korallenriffe ringsum so gut
 wie selten einer, und gerade weil das schwarze Fahrzeug, wie
 Sie erklärten, so sicher durch die gefährlichen Riffe
@@ -1379,10 +1379,10 @@ Racheplan inszeniert haben könnte, hinter dem meines
 Erachtens noch weit mehr steckt, als wir bisher übersehen
 können.«
 
-Shnout schüttelte den Kopf. «Tom Harras ist tot, ebenso der
+Shnout schüttelte den Kopf. »Tom Harras ist tot, ebenso der
 Oberaufseher jener Arbeitskolonne von Sträflingen. Die
 Leichen sind versunken, aber die Mütze Tom Harras lag am
-Rande des Sumpf-loches, außerdem ist der Vorgang ja auch von
+Rande des Sumpfloches, außerdem ist der Vorgang ja auch von
 anderen Aufsehern und von Sträflingen trotz des plötzlich
 aufgetauchten Nebels beobachtet worden. Herr Harst, sollten
 Sie noch zweifeln, daß die beiden anderen wirklich
@@ -1420,7 +1420,7 @@ wiederholte dieser seine letzte Frage  mit etwas unsicherer
 Stimme: »Nun, habe ich Recht?!«
 
 Harst blickte ihn voll an, schüttelte unmerklich den Kopf
-und entgegnete: «Leider nicht, lieber Abraham. Ich könnte
+und entgegnete: »Leider nicht, lieber Abraham. Ich könnte
 Ihnen sehr vieles mitteilen, was auch Ihre günstige
 Beurteilung der Sachlage erschüttern würde. Sparen wir uns
 jetzt alle überflüssigen Worte, — Haben Sie vorhin Whrigs
@@ -1430,9 +1430,9 @@ Flucht beobachtet?«
 Harst, aber die beiden Schiffe hinter uns kenne ich, oder
 kannte ich. Das eine war der schwarze, schnittige Schoner,
 das andere war unsere Jacht, die leider nicht ganz so flinke
-«Happy End«, wenn sie auch immerhin ihre 22 Knoten schafft.«
+»Happy End«, wenn sie auch immerhin ihre 22 Knoten schafft.«
 
-Harst erhob sich hastig. «Sie bleiben jetzt hier, Abraham.
+Harst erhob sich hastig. »Sie bleiben jetzt hier, Abraham.
 Schraut und ich wollen mal einen nächtlichen Besuch
 abstatten, der uns wahrscheinlich ein Stück vorwärts bringen
 wird.«
@@ -1449,9 +1449,9 @@ Sir Ernest Ropsal untergebracht, links ihr Vater, und die
 dafür näherten sich eben Phantasieziffern.
 
 Jede dieser Kabinen (ein sehr bescheidener Ausdruck, in
-Hotels sagt man »Appartement») bestand aus Wohnsalon,
+Hotels sagt man »Appartement«) bestand aus Wohnsalon,
 Schlafraum und Bad. Wir hatten uns diese komfortablen Räume
-der Wissenschaft halber angesehen, denn die «Britannia« war
+der Wissenschaft halber angesehen, denn die »Britannia« war
 ein ganz neues Schiff und enthielt so ziemlich alles, was
 nur irgend zur Bequemlichkeit, zur Zerstreuung und
 Sportbetätigung moderner Menschen nötig sein dürfte.
@@ -1473,18 +1473,18 @@ mit ihm datierte von Madges Hochzeit her.
 Auf Harsts klopfen öffnete sich die Salontür sofort, und Sir
 Ropsal, völlig angekleidet, ließ uns mit geheimnisvoller
 Miene eintreten, schloß die Tür, drückte uns die Hand und
-sagte gedämpft: «Ich habe Ihren Zettel erhalten, Mr. Harst,
+sagte gedämpft: »Ich habe Ihren Zettel erhalten, Mr. Harst,
 und Ihre Wünsche nach Möglichkeit durch meinen Sekretär
 erfüllen lassen. Kurz darauf ging eine Funkdepesche für mich
 ein, die mich sehr stark beunruhigt hat.«
 
-»Frau Gollons wegen«, warf Harst höflich ein. «Sir Ropsal,
-damit Sie im Bilde sind: «Gollons Diener ist in Suez
+»Frau Gollons wegen«, warf Harst höflich ein. »Sir Ropsal,
+damit Sie im Bilde sind: »Gollons Diener ist in Suez
 zugestiegen und hat uns soeben alles berichtet.«
 
 Der äußerst vornehme, englische Baronett, ein älterer Herr
 von straffen, militärischen Aussehen, war nicht weiter
-überrascht. «Setzen wir uns. — »Wie beurteilen Sie die
+überrascht. »Setzen wir uns. — »Wie beurteilen Sie die
 Aussichten, Frau Magde diesen Erpressern wieder abzujagen?
 Zunächst  meinerseits noch eine Erklärung: Das Rote Meer ist
 abgeriegelt und eine Suchflottille wird …«
@@ -1492,9 +1492,9 @@ abgeriegelt und eine Suchflottille wird …«
 Harst unterbrach ihn, »Verzeihung, Sir Ropsal, der Inhalt
 der Depesche, die Sie erhalten haben, kann nur sehr knapp
 gefaßt gewesen sein. Das Schiff, das Frau Gollon von Manibar
-entführte, war vorhin hinter uns her, und …» — seine
+entführte, war vorhin hinter uns her, und …« — seine
 weiteren Mitteilungen streiften nur flüchtig das Nötigste.
-«Die Aussichten, Frau Magde zu finden, erscheint mir
+»Die Aussichten, Frau Magde zu finden, erscheint mir
 vorläufig noch sehr gering, es sei denn, daß meine mehr
 instinktive Vermutung, es handele sich hier um weit
 verworrene Zusammenhänge, zuträfe. Um dies nachzuprüfen, muß
@@ -1528,22 +1528,22 @@ Erklärung: Marry hatte den Lazarettgehilfen bestochen, und
 Steeps war als Frau verkleidet mit Marrys Hilfe auf eigenen
 Füßen bis hierher gelangt.
 
-»Licht aus!», raunte Harst mir zu, nachdem er sich prüfend
+»Licht aus!«, raunte Harst mir zu, nachdem er sich prüfend
 umgeblickt hatte.
 
 Wir standen im Dunkeln. Steeps sägte weiter an dem harten
 Ast und ließ kaum eine Pause eintreten. Als Ehemann war er
 nur bei getrennten Schlafzimmern zu empfehlen.
 
-»Weshalb Licht aus?!», — meine Frage wurde durch einen
+»Weshalb Licht aus?!«, — meine Frage wurde durch einen
 harten Stoß Harsts unterbrochen, der mich fast zu Boden
 schleuderte.
 
 Wir kauerten hinter einem vorspringenden Wandspind, der
 zugleich Waschtoilette war …
 
-»Das Fenster ist offen …», flüsterte Harst etwas atemlos.
-«Ich sah einen Strick draußen vor dem Schutzgitter pendeln
+»Das Fenster ist offen …«, flüsterte Harst etwas atemlos.
+»Ich sah einen Strick draußen vor dem Schutzgitter pendeln
 …«
 
 Also deshalb! — Der Strick bedeutete Gefahr für Steeps, und
@@ -1561,13 +1561,13 @@ Fenster gelangen. Die Gitter bestanden nur aus starkem
 Messingdraht.
 
 Eine Weile später hörten wir das unverkennbare Geräusch
-einer starken Zange, die einen Messing-stab zerschneidet.
+einer starken Zange, die einen Messingstab zerschneidet.
 Wir reckten die Köpfe vor und gewahrten vor dem etwas
 helleren Fleck, den das Fenster bildete, einen Schatten, den
 Kopf eines Mannes mit grauem Spitzbart.
 
 Harst wollte Steeps, um dessen Leben es hier ging, keiner
-Gefahr aussetzen und raunte mir eiligst zu: «Du bleibst hier
+Gefahr aussetzen und raunte mir eiligst zu: »Du bleibst hier
 — ich fasse den Burschen draußen mit Sir Ropsals Hilfe ab.
 Sollte der Kerl Miene machen, zu schießen, so feuerst du
 zuerst. Gib genau acht.«
@@ -1588,7 +1588,7 @@ flog die Tür auf …
 Miß Marry stand vor mir, eine kleine Pistole in der Hand,
 und ihre Totenblässe verriet, daß sie ihr Spiel verlor gab.
 Entsetzt starrte sie mich an, — Sekunden mochte sie noch zum
-Äußersten ent-schlossen sein, hob die Waffe, ließ sie aber
+Äußersten entschlossen sein, hob die Waffe, ließ sie aber
 wieder sinken und sagte mit rührender Verzweiflung:
 
 »Wissen Sie auch, Mr. Schraut, daß Sie jetzt zwei Menschen
@@ -1607,13 +1607,13 @@ Wie sollte ich die Sachlage so schnell klären?!
 
 Da kam mir ein Gedanke.
 
-»Mr. Steeps«, sagte ich hastig, «all das, was Sie da in dem
+»Mr. Steeps«, sagte ich hastig, »all das, was Sie da in dem
 einen Ihrer Koffer verstaut hatten — es schienen kleine
 Gebetbücher, der Packung nach zu urteilen, zu sein — liegt
 längst auf dem Grunde des Noten Meeres, und kein Unbefugter
 ahnt hier, daß Sie … Jongleur mit solchen Gebetsbüchern
 waren, — kein Unbefugter, Sie verstehen, Mr. Steeps, und die
-Spiegel , die noch vorhanden sind, gebrauchten sie doch nur
+Spiegel, die noch vorhanden sind, gebrauchten sie doch nur
 zu photographischen Innenaufnahmen, um das Licht richtig zu
 verteilen, eine photographische Kamera lag ja ebenfalls in
 Ihrer Kabine …«
@@ -1638,7 +1638,7 @@ ein wenig beeinträchtigt, anderseits aber gewisse … hm ja,
 Verdachtsmomente beseitigt haben, die böswillige Leute
 unschwer gegen mich hatten ausnützen können.«
 
-Steeps lächelte dabei humorvoll - melancholisch. Dieses
+Steeps lächelte dabei humorvoll — melancholisch. Dieses
 Lächeln hatte uns von vornherein für ihn eingenommen, da es
 etwas einzigartig Kindlich-Naives, Ursprüngliches besaß und
 den Herren Colonel selbst dann nicht verlassen hatte, wenn
@@ -1655,7 +1655,7 @@ schnell und gründlich ihr Herz verlor.
 Sehr impulsiv streckte sie mir die Hand hin. Aber sie ließ
 sie mit einem leisen Schrei wieder sinken. In der
 Wandöffnung war ein Kopf erschienen, der nach flüchtigem
-Rundblick uns ernst zunickte und Steeps dann fragte; «Wie
+Rundblick uns ernst zunickte und Steeps dann fragte; »Wie
 fühlen Sie sich?«
 
 »Ausgezeichnet, bis auf die Kopfschmerzen, Herr Harst …«
@@ -1680,7 +1680,7 @@ Sir Ropsals Salon erschien, zeigte sein Anzug Spuren von
 frisch eingerührtem Gips, — er kam vom Kabinengang her,
 Marry hatte ihn durch ihren Salon herausgelassen.
 
-Steeps lag auf dem Divan, und Harsts erste Worte waren: «Der
+Steeps lag auf dem Divan, und Harsts erste Worte waren: »Der
 Mann, der Sie erschießen wollte, war diesmal nicht Thomas
 Whrig, sondern ein gewisser Tom Harras. Er ist tot, jemand
 hat ihm von oben, vom Bootsdeck, einen Bootshaken in den
@@ -1688,25 +1688,25 @@ Hals gestoßen.
 
 Baldur Steeps nahm diese Mitteilung sehr gelassen hin.
 
-»Das dachte ich mir, Herr Harst …», meinte er mit einen
+»Das dachte ich mir, Herr Harst …«, meinte er mit einen
 etwas verlegenen Blick, der Sir Ropsal galt.
 
-Der Baronett erklärte seinfühlig: »Mr. Steeps, vor mir
+Der Baronett erklärte feinfühlig: »Mr. Steeps, vor mir
 können sie ganz offen sprechen. Nachdem Harst mich mit
 seiner Bitte um strengste Diskretion ein wenig überrumpelt
 hat, werde ich unbedingt schweigen. Was ich von Ihnen
 persönlich halte, wird davon abhängen, wie Sie, ein Mann
-außer-ordentlicher Klugheit und anerkanntem
+außerordentlicher Klugheit und anerkanntem
 Organisationstalent, Falschspieler werden konnten …
-verzeihen Sie den harten Ausdruck.» Und zu Harst und mir
-gewendet fügte er hinzu: «Steeps ist mir kein Fremder. Er
+verzeihen Sie den harten Ausdruck.« Und zu Harst und mir
+gewendet fügte er hinzu: »Steeps ist mir kein Fremder. Er
 stammt aus Nordenshire, einem Städtchen bei Birmingham,
 meine Familie ist dort in der Nähe ansässig …«
 
 Jetzt war es an uns, reichlich überrascht zu sein. Harst
 meinte, dies alles träfe sich außerordentlich glücklich, und
 der Zufall sei doch noch immer der beste Bundesgenosse, —
-eine Ansicht, die Steeps sofort wehmütig - ironisch ablehnte
+eine Ansicht, die Steeps sofort wehmütig — ironisch ablehnte
 …
 
 »Meine Lebensgeschichte wird das Gegenteil beweisen, Herr
@@ -1727,10 +1727,10 @@ Ernest ihn als einen Bekannten aus Nordenshire vorläufig bei
 sich behielt, und daß Tom Harras, der totes Attentäter, bei
 Miß Jefferson einbrechen wollte — Wer Harras mit dem
 Bootshaken ermordete, weiß ich nicht. Eine andere Frage
-inöchte ich jedoch sofort klären: War Whrig der angeblich im
+möchte ich jedoch sofort klären: War Whrig der angeblich im
 Sumpf versunkene Oberaufseher aus Dartmoor?«
 
-Steeps bejahte dies. «Er war es. — Ich hatte das Pech, wegen
+Steeps bejahte dies. »Er war es. — Ich hatte das Pech, wegen
 unbefugten Waffenbesitzes, zumal die Polizei mir längst der
 … Gebetbücher wegen auf den Fersen war, für ein Jahr nach
 Dartmoor zu kommen und wurde erst vor vier Wochen vorzeitig
@@ -1753,42 +1753,42 @@ beiden anderen als Flüchtlings gemeldeten Sträflinge
 steckten. Busley-Whrig bat mich, ihn nicht zu verraten, ich
 hatte ja auch keinen Grund dazu und mußte froh sein, das der
 Detektiv Burns mich in Ruhe ließ, den Whrig gleichfalls für
-seinen Plan gewonnen zu haben schien.» - Baldur Steeps
+seinen Plan gewonnen zu haben schien.« — Baldur Steeps
 betastete seinen Verband und meinte mit der ihm eigenen
-melancholischen Ironie: «Whrigs Dank war die Pistolenkugel …
+melancholischen Ironie: »Whrigs Dank war die Pistolenkugel …
 Die Waffe hing unter der Lampenglocke, und ich bemerkte sie
 erst, als Marry die Kabine vorließ, beugte mich vor, — im
 selben Moment knallte der Schuß …«
 
 Steeps’ Mitteilungen hatten auf Sir Ernest sichtlich starken
 Eindruck gemacht. Der Baronett wollte jetzt näheres über
-jenes Bild hören, das der Lord angefertigt haben sollte. «Es
+jenes Bild hören, das der Lord angefertigt haben sollte. »Es
 kann sich nur um Lord Howard Barrington, den Vorgänger Lord
 Austins als Besitzer der Insel Manibar, handeln«, betonte
-Sir Ernest sehr eifrig, «Also um Frau Madge Gollons Vater,
+Sir Ernest sehr eifrig, »Also um Frau Madge Gollons Vater,
 meinem Freund, der auf Manibar verschwand und dessen Tod Sie
 erst restlos aufgeklärt haben, lieber Harst. Howard
 Barrington war allen schönen Künsten gänzlich abhold, nur
 als Zeichner versuchte er sich zuweilen, und aus seinem
 Nachlaß hat mir seine Tochter dem Testament gemäß eine
 riesige Aquarellskizze ausgehändigt, die ich jetzt nach
-Beendigung meines Urlaubes mit nach Aden nehme, - dort steht
+Beendigung meines Urlaubes mit nach Aden nehme, — dort steht
 das Zinkfutteral, das Bild ist zwei Meter breit und
-anderthalb Meter hoch und eine Jagdszene vor Tigerjagt mit
+anderthalb Meter hoch und eine Jagdszene vor Tigerjagd mit
 Elefanten, — also ein sehr abgenutztes Motiv. Trotzdem werde
 ich dieses Vermächtnis meines Freundes in Ehren halten und
 es einrahmen lassen, — — nun, Harst, sind Sie begierig auf
 das Bild?!«
 
-»Sie gestatten, Sir Ernest.» Harst hatte die Rolle bereits
+»Sie gestatten, Sir Ernest.« Harst hatte die Rolle bereits
 aus dem Zinkfutteral herausgezogen, und da das starke
 Aquarellpapier oben und unten mit Goldschleifen versehen
 war, rollte es sich von selbst auf und zeigte uns eine grob,
-aber genial hingehauene Skizze einer Tigerjagt: Einen
+aber genial hingehauene Skizze einer Tigerjagd: Einen
 springenden Tiger, einen Jagdelefanten mit einem Jäger, und
 als Staffage dichten Dschungel.
 
-»Sagen Sie mal, Steeps, genaueres über die Tigerjagt, die
+»Sagen Sie mal, Steeps, genaueres über die Tigerjagd, die
 Tom Harras erwähnte, wissen Sie nicht?«
 
 »Nein — nichts.«
@@ -1800,12 +1800,12 @@ Buchstaben, die sich zu Wörtern und Sätzen vereinigen
 ließen.
 
 »Lord Howard war ein Sportsmann«, meinte er mehr zu sich
-selbst. «Die Ruhe auf Manibar und die treffliche
+selbst. »Die Ruhe auf Manibar und die treffliche
 Angelegenheit gingen ihm über alles. Das, was Tom Harras da
 über wertvolle Altertümer gesprochen hat, kann sich nicht
 auf Manibar beziehen.«
 
-»Allerdings nicht«, pflichtete Sir Ropsal bei. «Manibars
+»Allerdings nicht«, pflichtete Sir Ropsal bei. »Manibars
 Ruinen sind längst sämtlich durchsucht. — Glauben Sie,
 Harst, daß dieses Bild etwa einen Hinweis auf die andere
 Insel darstellt?«
@@ -1817,8 +1817,8 @@ Geheimnis zu hüten. Tom Harras muß hiervon gewust haben,
 seine Kreaturen entführten Frau Madge jetzt nur deshalb, um
 von ihr das Geheimnis zu erpressen. Wir kommen also dem Kern
 des ganzen immer näher, und die wenigen Punkte, die noch zu
-klären wären, inüssen wir uns schon für Manibar aussparen,
-Sir Ernest.» Er rollte die große Zeichnung wieder zusammen,
+klären wären, müssen wir uns schon für Manibar aussparen,
+Sir Ernest.« Er rollte die große Zeichnung wieder zusammen,
 und da Steeps sich jetzt frischer fühlte, bat er diesen,
 seinen Lebenslauf kurz zu schildern:
 
@@ -1836,7 +1836,7 @@ begann, führte er absichtlich einen Zwist herbei und setzte
 ihn vor die Tür.
 
 » … Ich war bis dahin ein unverbesserlicher Optimist
-gewesen«, erklärte Steeps mit größter Bitterkeit. «Jetzt
+gewesen«, erklärte Steeps mit größter Bitterkeit. »Jetzt
 erst, als Larson mich kurzer Hand entließ, gingen mir die
 Augen auf: Larson hatte mich in schamloser Weise ausgenutzt
 und sein Schäfchen ins Trockene gebracht, — — ich stand als
@@ -1858,7 +1858,7 @@ meine Herren, und der Gedanke hat mich nie wieder
 losgelassen, mein elendes Handwerk als Falschspieler ist mir
 stets verhaßt gewesen, — das sind keine leeren Redensarten!«
 
-»Sir Ernest nickte bedächtig. «Ich wäre der letzte, der
+»Sir Ernest nickte bedächtig. »Ich wäre der letzte, der
 einen Stein auf Sie würfe, Steeps. Genau so, wie sie uns Ihr
 Abgleiten auf die schiefe Bahn schilderten, hörte ich es
 auch von anderer Seite in unserer Heimat. Aber auch Larson
@@ -1866,7 +1866,7 @@ dürfen Sie nicht zu hart verurteilen. Alle Multimillionäre
 sind über Leichen gegangen, bedenken Sie, daß solchen
 Naturen das Herz allmählich versteinert, und ob Larson nicht
 längst in all seinem Unglück bitter bereut, Sie in so
-unfairer Weise abgeschüttelt zu haben, — - ich inöchte dies
+unfairer Weise abgeschüttelt zu haben, — — ich möchte dies
 bejahen, denn jahrelanges Siechtum hat schon den
 verstocktesten, hinter einem Schein von Recht sich
 verschanzenden Sünder weich wie Wachs werden lassen.«
@@ -1875,7 +1875,7 @@ Er trat an den Diwan heran, drückte Steeps warm die Hand und
 wandte sich wieder Harst zu.
 
 »Jetzt etwas anderes … Die Ermordung jenes Tom Harras durch
-einen der Fahrgäste der »Britannia», der, wie Sie vorhin
+einen der Fahrgäste der »Britannia«, der, wie Sie vorhin
 erklärten, sehr schwer herauszufinden sein dürfte, ferner
 die Flucht Whrigs und die Festnahme Holladay Burns haben uns
 in der Hauptsache, und das ist die Befreiung Frau Madge
@@ -1886,7 +1886,7 @@ Sie zu tun, Harst?«
 
 »Schlafen zu gehen, Sir Ernest, und auch den braven Abraham
 Shnout zu Bett zu schicken«, erwiderte Harald mit diskretem
-Gähnen. «Wir werden uns später vor Manibar ausbooten lassen
+Gähnen. »Wir werden uns später vor Manibar ausbooten lassen
 und alles weitere von der Insel aus mit aller Energie
 betreiben. Gerade Manibar ist als Hauptquartier seiner
 zentralen Lage wegen sehr geeignet. — Gute Nacht …«
@@ -1917,7 +1917,7 @@ halber Finsternis da.
 
 Unweit der Stelle, wo der Mörder Tom Harras den Strick um
 einen Geländerpfosten gebunden gehabt hatte, ruhte kieloben
-der Stolz der »Britannia», der größte Kutter, ein
+der Stolz der »Britannia«, der größte Kutter, ein
 Rettungsboot mit allen Schikanen: Motor, Funkeinrichtung,
 Lufttanks und vollem Proviant.
 
@@ -1926,7 +1926,7 @@ kauerte im Schatten dieses Kutters, der auf den modernsten
 Gleitstützen ruhte, und befühlte eifrig die Schnüre der
 Persenning, die über das Kutterdeck gespannt waren.
 
-»Dem Mörder«, flüsterte er, «blieb keine Zeit zur Flucht, da
+»Dem Mörder«, flüsterte er, »blieb keine Zeit zur Flucht, da
 Harras Todesschrei sofort die Wachen herbeigelockt hatte.
 Williams wollte natürlich auch diese Boote hier durchsuchen,
 fand jedoch sämtliche Persennigschnüre vorschriftsmäßig
@@ -1971,7 +1971,7 @@ Maske am Kai?«
 
 Weil sie voraussah, daß ihr Bruder Suez passieren würde,
 weil sie den Schwindel von dem im Moor versunkenen Sträfling
-durchschaut hatte und - weil sie das Geheimnis kennt, das
+durchschaut hatte und — weil sie das Geheimnis kennt, das
 ihr Bruder Steeps gegenüber andeutete: Die andere Insel mit
 ihren Reichtümern: Sie wußte, daß Tom Harras alles aufbieten
 würde, diese kostbaren Antiquitäten sich anzueignen, deshalb
@@ -1983,7 +1983,7 @@ Suez, mir käme das Gesicht des Bettlers bekannt vor. Erst
 hier an Bord wieder gelang es mir, diese Züge des Bartes und
 der Perücke in klaren Vorstellungsbildern zu entkleiden und
 so das Antlitz jenes Mädchens herauszuschälen, der wir
-niemals wieder zu begegnen er-warteten …«
+niemals wieder zu begegnen erwarteten …«
 
 Er öffnete unsere Kabinentür.
 
@@ -2007,9 +2007,9 @@ widerstandsfähig. Eine scharfe Türkante konnte diesem
 Bullenknochen nicht viel anhaben, und die ganze Sache sah
 zunächst weit gefährlicher aus, als sie in Wirklichkeit war.
 
-Daß Shnout, nachdem mir ihn durch Waschen und Kompresser und
+Daß Shnout, nachdem mir ihn durch Waschen und Kompresse und
 viel zu viel Wasser, wie er hinterher schaudernd behauptete,
-wieder in dieses inäßig schöne Dasein bei vierzig Grad Hitze
+wieder in dieses mäßig schöne Dasein bei vierzig Grad Hitze
 zurückgerufen hatten, so gut wie gar nichts über seinen
 Zusammenstoß mit einem Eindringling, der sich einen Lappen
 vor das Gesicht gebunden hatte, anzugeben vermochte,
@@ -2024,7 +2024,7 @@ sich auf die grimmig und spiritusduftend hervorgestoßenen
 Sätze: »Ich saß hier ich döste so vor mich hin (die beiden
 Flaschen erwähnte er nicht), und mit einem Male ging leise
 die Tür auf, und der Kerl trat ein … Wie ein geölter Blitz
-war ich auf den Beinen (was ich stark anzweifeltch, wollte
+war ich auf den Beinen (was ich stark anzweifelten, wollte
 den Burschen packen, der war flinker, war wieder draußen,
 haut mir die Türkante gegen die Stirn, daß ich vor den Augen
 ganze Petroleumquellen brennen sah, ich stütze, bin
@@ -2034,7 +2034,7 @@ getrunken habe, schon als Säugling hatte ich Vorliebe für in
 Schnaps getauchte Zuckerschnuller … das war alles.«
 
 Harst bepflasterte Abrahams dicke Beule und die Wundränder
-und meinte anzüglich «Sie werden nicht wie ein geölter Blitz
+und meinte anzüglich »Sie werden nicht wie ein geölter Blitz
 zur Tür gestürmt sein, lieber Shnout, sondern Sie dürften
 bei dem Versuch, geölten Blitz zu markieren,
 vorwärtsgestolpert sein und dabei den Schädel weit
@@ -2044,7 +2044,7 @@ in Mitleidenschaft gezogen.«
 Abraham beteuerte hoch und heilig, der Kerl hätte ihm die
 Tür absichtlich gegen den Schädel geschmettert, eine
 Auffassung der Vorgänge, der Harst mit trockenem Humor
-widersprach. «Sie stolperten, Shnout … über zwei leere
+widersprach. »Sie stolperten, Shnout … über zwei leere
 Whiskyflaschen. und der Kerl mit dem Lappen, Shnout, würde
 Ihren Dickschädel verschont haben, wen nicht draußen im
 Kabinengang ein Steward erschienen wäre, der den fremden
@@ -2059,26 +2059,26 @@ Aquarellskizze, Riesenformat, die jetzt in einer Zinkhülse
 in Sir Ernests Kabine stand.
 
 Harst pfiff pianissimo ein paar Takte des Walzers aus
-»Rosenkavalier.» »Shnout, kennen Sie die Oper
-«Rosenkavalier« von Richard Strauß« fragte er
-augenzwinkernd.  »Ne, nur die »Fledermaus», Herr Harst, auch
+»Rosenkavalier.« »Shnout, kennen Sie die Oper
+»Rosenkavalier« von Richard Strauß« fragte er
+augenzwinkernd.  »Ne, nur die »Fledermaus«, Herr Harst, auch
 von Strauß. Den Gefängniswärter Frosch könnte ich tadellos
 spielen, wenn ich vorher …« er verschluckte den Rest, er
 wollte sich keine Blöße geben …
 
-»Schade», sagte Harst launig, «sehr schade … Ihr Kerl mit
+»Schade«, sagte Harst launig, »sehr schade … Ihr Kerl mit
 dem Lappen war so eine Art Rosenkavalier … Ich könnte Ihnen
 das näher ausspinnen … sehen Sie sich lieber dieses Bild
 an.«
 
-Shnouts Schweinsäuglein weiteten sich. «Das ist eine
+Shnouts Schweinsäuglein weiteten sich. »Das ist eine
 Photographie von der Tigerjagd, die Lord Howard Barrington
 zusammengepinselt hat — Komisch! Was soll das Bild?!«
 
 Harst setzte sich, und Abraham faste in die Hosentasche. Das
 Stück Priem, das er in den Mund schob, hätte für drei
 ausgewachsene Vollmatrosen gereicht. — »Shnout, besinnen Sie
-sich auf Magda Harras?», begann Harst von neuem.
+sich auf Magda Harras?«, begann Harst von neuem.
 
 »Und ob! Armes Mädel …! Eigentlich sollte sie ja mit vor
 Gericht, aber in Suez entfloh sie mit zwei saftigen Schecks,
@@ -2090,11 +2090,11 @@ Dschagal.«
 
 »Als was?! Dschagal?! Sie meinen wohl Schakal, obwohl …«
 
-»Nein, Dschagal, — das ist ein Ausdruck der Sinai - Araber
-für Bettler.» — Und nun berichtete Harst all das, was
+»Nein, Dschagal, — das ist ein Ausdruck der Sinai — Araber
+für Bettler.« — Und nun berichtete Harst all das, was
 Abraham noch nicht wußte.
 
-»Endlich!», meinte Shnout ordentlich erleichtert, «endlich
+»Endlich!«, meinte Shnout ordentlich erleichtert, »endlich
 ist dieser Tom Harras tot! In der Hölle wird es ein Fest
 geben, wenn er anlangt. Aber — Entschuldigen Sie — Ihre
 Beweise dafür, daß Magda Harras die Mörderin sei, erscheinen
@@ -2120,13 +2120,13 @@ Bleistiftzeilen:
 »Suchen Sie die andere Insel nach dieser Photographie. —
 Ihre stets dankbare M. H.«
 
-»Und jetzt«, erklärte Harst leichthin, «will ich auch
+»Und jetzt«, erklärte Harst leichthin, »will ich auch
 erläutern, wie ich auf Magda kam, wie ich sofort an sie
 dachte, als ich mit Sir Ernest das Bootsdeck erreicht hatte
 und die Persennigschnüre festzog, was ich nur tief gebückt
 tun konnte. Meine Nase verriet es mir, aus der schmalen
 Öffnung zwischen Kutter und Persenning drang ganz schwacher
-Parfümduft hervor. Magda hat stets das französische Parfüin
+Parfümduft hervor. Magda hat stets das französische Parfüm
 Peau d’ Espagne bevorzugt, und derartige Neigungen legt man
 schwer ab. — sind Sie zufrieden, Shnout?«
 
@@ -2140,8 +2140,8 @@ Harras hat keinen Mord begangen, man kann nicht einmal von
 einem Totschlag sprechen, der Stoß mit dem Bootshaken traf
 von ungefähr den Hals und verhinderte einen Mord … — So, nun
 verduften Sie, Shnout, Ihren Bart brauchen Sie nicht mehr
-vorzukleben, in der kommen-den Nacht werden wir ausgebootet
-und treffen auf Manibar ein.» -
+vorzukleben, in der kommenden Nacht werden wir ausgebootet
+und treffen auf Manibar ein.« —
 
 Das wir beide uns trotzdem nach Madge Harras gründlich
 umschauten, hatte seine triftigen Gründe. Harst wollte von
@@ -2155,7 +2155,7 @@ versagte meine sonst erstklassige Polizeihundnase
 vollständig.
 
 Der Abend kam, — Tom Harras Leiche wurde in aller stille ins
-Meer versenkt, und die «Britannia« schlängelte sich später
+Meer versenkt, und die »Britannia« schlängelte sich später
 im Mondschein mit halber Kraft durch die Korallenriffe und
 die zerklüfteten Eilande, stoppte, setzte einen Kutter aus,
 wir samt Gepäck wurden nach der Nordbucht von Manibar
@@ -2168,12 +2168,12 @@ Mann über Bord!!
 Harst raunte mir hastig zu:
 
 »Sie ist es …! Magda! — Wir werden nachher auf der
-Nordklippe bleiben … Ich muß Magda sprechen, falls sie …» —
-er schwieg eine Weile «falls sie den Haifischen entgeht …«
+Nordklippe bleiben … Ich muß Magda sprechen, falls sie …« —
+er schwieg eine Weile »falls sie den Haifischen entgeht …«
 
 Wie es um diese Meereshyänen um die Inselgruppen der
 arabischen Seite des Roten Moores bestellt ist, habe ich
-bereits in der «Versiegelten Insel« erwähnt. Gewiß, die
+bereits in der »Versiegelten Insel« erwähnt. Gewiß, die
 großen Arten der Haie sind hier selten, trotzdem kann auch
 schon ein Bursche von zwei Meter Länge einem Schwimmer
 gefährlich werden.
@@ -2217,11 +2217,11 @@ dürfte. Burns schweigt sich aus … Der Kerl hofft, befreit zu
 werden, seine Niedergeschlagenheit ist lediglich Komödie.
 Nun, Sir Ernest ist gewarnt … Ich rechne mit einem
 Gewaltstreich Whrigs, es gebt um seine Freiheit … um seinen
-Hals vielleicht … — Achtung, — — «still liegen — keine Hand
+Hals vielleicht … — Achtung, — — »still liegen — keine Hand
 rühren!! — Die Stimme kannte ich. Thomas Whrig oder Jack
 Busley war früher zur Stelle gewesen als wir …
 
-»Still liegen — — Hände nach hinten!» Gestalten huschten
+»Still liegen — — Hände nach hinten!« Gestalten huschten
 herbei, der Gestank schmieriger Araberkittel umwehte uns. Im
 Nu waren wir gefesselt, wurden in eine Seitenschlucht
 geschleppt, in ein Boot gestoßen, das sofort davonruderte …
@@ -2231,15 +2231,15 @@ hinein. Whrig hatte uns in die Kajüte schleppen lassen, und
 hier spielte dieses ölige Scheusal den tief bekümmerten
 Biedermann, dem es unendlich weh tun würde, wenn er uns etwa
 anseilen und im Fahrwasser des Schoners hinterdrein
-schleppen inüsse, — — falls Harst sich nicht bereit erkläre,
+schleppen müsse, — — falls Harst sich nicht bereit erkläre,
 die bewußte Insel suchen zu helfen.
 
 Die Lampe beschien seinen roten Schweinskopf, die
 Schellfischaugen glitzerten tückisch, und als Harst das
 Geforderte zu erfüllen versprach, wenn Frau Gollon sofort
 auf Manibar abgesetzt werden würde, ward der habgierige
-Whrig auf seine Art zum Kavalier … «Die Dame ist wieder hier
-an Bord«, erklärte er schleimig. «Ihr ist nichts zugestoßen,
+Whrig auf seine Art zum Kavalier … »Die Dame ist wieder hier
+an Bord«, erklärte er schleimig. »Ihr ist nichts zugestoßen,
 sie hat mir beim Andenken ihrer Eltern feierlich geschworen,
 daß sie die Insel nicht kenne, daß sie nur wisse, man würde
 das Eiland nur mit Hilfe der Jagdszene finden, jenes Bildes,
@@ -2251,12 +2251,12 @@ ein Boot sie nach Manibar zurückbrachte, während der Schoner
 nördlich zwischen den Inseln kreuzte.
 
 Wir standen an Deck, der Mond sank immer tiefer, Whrig
-faselte von den Reichtümern, die er durch Harst inühelos zu
+faselte von den Reichtümern, die er durch Harst mühelos zu
 ergaunern hoffte, — — der Mond sank noch tiefer, der Schoner
 stoppte, — — und da begab sich das Wunder …
 
 Vor uns lag eine Insel mit wild zerfressenen, schroffen
-Gestaden, hinter deren zackigen, tief ein-geschnittenen
+Gestaden, hinter deren zackigen, tief eingeschnittenen
 Uferhöhen das Nachtgestirn soeben verschwand und nur seinen
 milden Glanz wie eine helle Fläche zurückließ.
 
@@ -2265,7 +2265,7 @@ Harst hob jäh den Arm …
 »Dort — — dort, — — die Jagdszene!!«
 
 Mutter Natur hat sich manche Scherze durch seltsame
-Felsformationen geleistet, die oft Menschen-köpfen,
+Felsformationen geleistet, die oft Menschenköpfen,
 Tiergestalten, Burgen, Häusern, Reitern und anderem in ihren
 Umrissen glichen.
 
@@ -2287,9 +2287,9 @@ eingeschlossen, wir hörten das Klirren der Ankerketten, — —
 dann krachte eine Planke gegen Stein, — — und es ward still.
 
 Harst sagte im Dunkeln etwas allzu sehr witzelnd für meinen
-Geschmack: «Ich wette, es ist außer uns keine Seele an Bord.
+Geschmack: »Ich wette, es ist außer uns keine Seele an Bord.
 Die Kerle trauen einer dem anderen nicht. Falls sie wirklich
-Wertvolles finden, werden wir wohl die Junghaie inästen
+Wertvolles finden, werden wir wohl die Junghaie müssen
 helfen, mein Alter … Diese Fesseln sind zu stark, als daß
 wir sie abstreifen könnten, mich hat man hier noch an einen
 Eisenring festgebunden … — Hallo — — hörtest du?! Whrig hat
@@ -2306,18 +2306,18 @@ Magda Harras hielt die Laterne so, daß der Lichtschein ihr
 Gesicht traf. Wir erschraken, ihr Haar war grau, fast weiß
 geworden, ihre Züge faltig und vergrämt.
 
-»Herr Harst, — das ist aus mir geworden!», sagte sie
-traurig. «Ihr Geld habe ich … verschenkt … ich lebte in Suez
+»Herr Harst, — das ist aus mir geworden!«, sagte sie
+traurig. »Ihr Geld habe ich … verschenkt … ich lebte in Suez
 im Eingeborenenviertel, — wie, das ersparen Sie mir zu
 schildern. Mein Gewissen hat mich nie zu innerem Frieden
 gelangen lassen, bis — ich Mr. Steeps retten durfte — — und
 Brudermörderin ward … — Leben Sie wohl … Ich werde jetzt für
 immer …«
 
-Aber Harst hielt sie zurück, «Sie bleiben …! Wir brauchen
+Aber Harst hielt sie zurück, »Sie bleiben …! Wir brauchen
 Sie! Schnell, helfen Sie uns … Der Schoner muß heraus aus
 der Bucht, dann haben wir die ganze Bande in unsere Hand.
-Sie inüssen helfen, Miß Magda …!«
+Sie müssen helfen, Miß Magda …!«
 
 Sie half.
 
@@ -2337,7 +2337,7 @@ bedeutet.
 Sir Ernest Ropsal als Mann mit höchstem Titel und daher
 größtem Verstand leitete die Strafexpedition, die im
 Morgengrauen begann und die uns und zwölf gut bewaffnete
-Leute der Jacht «Happy End« sehr bald Mr. Whrig nebst
+Leute der Jacht »Happy End« sehr bald Mr. Whrig nebst
 farbigem Anhang in einem Talkessel der kleinen Insel finden
 ließ, wo die besessenen Narren in den Ruinen einer
 arabischen Moschee, die hier wohl einst von Flüchtlingen
@@ -2348,13 +2348,13 @@ suchte zu entfliehen, Sir Ernest schoß ihm als vorzüglicher
 Jäger eine Kugel niederträchtiger Weise durch das feiste
 Gesäß und eine zweite durch die Wade, so daß der einstige
 Oberaufseher von Dartmoor nachher wochenlang nur auf dem
-Bauch liegen konnte — bei seiner Korpulenz ein inäßiges
+Bauch liegen konnte — bei seiner Korpulenz ein mäßiges
 Vergnügen.
 
 Gewiß, die Ruinen bargen für den Forscher kostbare Schätze
 aller Art, — — aber Gold?!
 
-Nichts! — -
+Nichts! — —
 
 Das Steinhaus im grünen Tal von Manibar wird noch heute von
 ein paar arabischen Dienern und einer weißhaarigen, ernsten
@@ -2373,18 +2373,18 @@ ihrem Eheglück schwärmen und ihren Baldur verherrlichen, der
 jetzt schon seines Schwiegervaters rechte Hand geworden ist
 …«
 
-»Eine Hand«, sagte Harald da, «die die gewisse
-Fingerfertigkeit verlernt hat, mein Alter … — «Was schreibst
-du jetzt da eigentlich wieder zusammen?!» -
+»Eine Hand«, sagte Harald da, »die die gewisse
+Fingerfertigkeit verlernt hat, mein Alter … — »Was schreibst
+du jetzt da eigentlich wieder zusammen?!« —
 
 »Nichts Schönes … Ich bin gerade auf einen recht
 kennzeichnenden Titel für die Geschichte vom internationalen
 Bund für Volksaufklärung gekommen, — du weist doch noch, es
 war die Sache mit dem Radscha Guvar …«
 
-Harst lachte herzhaft … «Ich so, — — na, und der Titel?«
+Harst lachte herzhaft … »Ich so, — — na, und der Titel?«
 
-»Der Titel, hm, — — : Der gefleckte Tod.«
+»Der Titel, hm, — —: Der gefleckte Tod.«
 
 Er wurde sehr ernst.
 
