@@ -1,3 +1,5 @@
+<h1>Der grüne Schatten</h1>
+
 <h2>1. Kapitel.</h2>
 
 <h3>Die Platinuhr.</h3>
@@ -95,7 +97,7 @@ keine Lüge. Die Uhr lag heute früh in unserem Briefkasten
 
 Sie kramte in ihrem Täschchen und brachte eine
 Monatskarte der Untergrundbahn zum Vorschein. »Da — ich
-heiße Verity Douglas und wohne Little Palk Street bei
+heiße Verity Douglas und wohne Little Palk-Street bei
 meiner Mutter, die jetzt krank ist. Ich  bin
 Stenotypistin bei Anwalt Grold und zur Zeit beurlaubt.
 Wir … sind sehr arm, und Mutters Krankheit kostet sehr
@@ -240,7 +242,7 @@ erzählen.«
 Inzwischen hatte der ausgemergelte Shin Fo im Uhrenladen
 seines Herrn einen Kunden empfangen, der dem Chinesen
 gleich auf dem ersten Blick mißfiel. Der Mann sah wie ein
-Kapitän eines kanadischen Dampfers aus sprach ein
+Kapitän eines kanadischen Dampfers aus, sprach ein
 zweifelhaftes Englisch und besaß Augen wie ein Gauner,
 hinter dem die Polizei her ist.
 
@@ -255,7 +257,7 @@ doch gerade durch das mehr freundschaftliche Verhältnis
 zu Samuel Baer, diesem stillen, gebildeten Greise,
 ebenfalls ein eifriger Autodidakt geworden.
 Diese beiden bejahrten Männer verbrachten ihre Abende
-zumeist über gelehrten Werke und disputierten mit der
+zumeist über gelehrten Werken und disputierten mit der
 Ruhe abgeklärter Gemüter über ethische, religiöse und
 weltwirtschaftliche Fragen wie eingefleischte Fachleute.
 
@@ -374,7 +376,7 @@ Filzsohlen mißmutig durch abgelegene Straßen, bis er die
 Little Polk-Street erreicht hatte. Vor der großen
 Mietskaserne blieb er stehen, betrat den Flur und sah
 sich hier urplötzlich dem rabiaten Fremden gegenüber,
-der ihn überrascht anblickte uns ihn dann leise anfuhr:
+der ihn überrascht anblickte und ihn dann leise anfuhr:
 »Lump, — schere dich zum Teufel!«
 
 Shin Fo erstarrte vor Schreck. Draußen flitzte wieder der
@@ -766,7 +768,7 @@ zwischen den einzelnen Banden und bei ähnlichen
 zweifelhaften Vorfällen in der Nähe des Tatortes
 beobachtet worden. Besonders Kaptain Morris vom
 Raubdezernat hatte längst für seine Person die
-Überzeugung gewonnen, das Taioto ein Doppelleben führe.
+Überzeugung gewonnen, daß Taioto ein Doppelleben führe.
 Gerüchte, die der Polizei zu Ohren kamen, wollten wissen,
 daß ein geheimnisvoller Japaner der Gangster der
 sogenannten Grant-Bande wäre, die ihren Namen wenig
@@ -1051,7 +1053,7 @@ leere Kiste.«
 Eine der Straßenlaterne warf durch die nassen Fenster
 geringe Lichtstreifen in das große Zimmer. Es stank hier
 wie in einer Menagerie. Ich schnüffelte, und Kaptain
-Charly meinte leise: »Ratten Schraut — — Ratten!! Der
+Charly meinte leise: »Ratten, Schraut — — Ratten!! Der
 Fußboden ist halb verfault, und darunter hausen sie …«
 
 Ich erkannte an den Wänden als dunkle Striche noch zwei
@@ -1104,7 +1106,7 @@ Vertreterin im Lehnsessel, es sei denn, daß …«
 Westen haben sogar Kragen und Leibwärmer und die Hüte
 …«
 
-Er schwieg plötzlich und griff nach den Fensterriegel,
+Er schwieg plötzlich und griff nach dem Fensterriegel,
 öffnete den einen Fensterflügel und horchte auf das leise
 Knattern eines Motorbootes, das nicht mehr sichtbar
 wurde, weil der Regen dichter fiel  und auch Nebel
@@ -1154,7 +1156,7 @@ fluchte noch wilder als der Preisboxer Wilkiens.
 Unsere Laternen blitzten auf, beleuchteten Baby und den anderen,
 und der andere war … Harst, — bewußtlos, die Augen
 verdreht, mit herabhängendem Unterkiefer, halb
-abgerissenen falschen Bart und schief sitzender Perücke.
+abgerissenem falschen Bart und schief sitzender Perücke.
 
 Houston keuchte erbittert: »Man warf ihn mir entgegen,
 Kaptain — wie einen Sandsack.«
@@ -1270,7 +1272,7 @@ nickte Harst und legte die Beweisstücke auf ein
 Fensterbrett.
 
 Wilkiens breite Hünengestalt tauchte vom Flur her auf.
-»Entwischt Kaptain«, meldete er verärgert. »Keine Spur
+»Entwischt, Kaptain«, meldete er verärgert. »Keine Spur
 von dem grünen Clown. Hier im Hause wohnen nur ehrbare
 Bürger, und wenn nicht gerade der Teufel den Herrn Geist
 durch die Lüfte …«
@@ -1528,7 +1530,7 @@ hatte erschießen wollen.  Weshalb?! Wer hatte ein
 Interesse daran, eine Frau zu beseitigen, die halb
 gelähmt war und deren Lebenswandel ebenso tadelfrei und
 von Sorgen und Not beschwert gewesen wie selten bei einer
-der Unzähligen, die der kläglichen Kampf ums Dasein bis
+der Unzähligen, die den kläglichen Kampf ums Dasein bis
 zur letzten bittersten Neige ausgekostet hatte?! All das,
 was wir über die Frage bisher im engsten Kreise erörtert
 hatten, waren Mutmaßungen ohne jedes Fundament. Weshalb,
@@ -1798,7 +1800,7 @@ plötzlich auf etwas zu besinnen.
 »Lassen sie doch aus meinem Wagen sofort den Korb mit
 Lebensmitteln ins Hinterhaus zu Frau … wie heißt sie
 doch … Frau Douglas, richtig, Frau Douglas schaffen …
-Ich wünsche jedoch nicht, das davon irgendwie ein
+Ich wünsche jedoch nicht, daß davon irgendwie ein
 Aufsehen gemacht wird. Schicken sie Boots zu Frau Douglas
 …«
 
@@ -2006,7 +2008,7 @@ Das untere sehr geräumige Fach war leer. Sie bückte sich,
 tastete mit der Hand nach einem der Nietknöpfe der
 Rückwand und drückte stark.
 
-Die Rückwand gab nach Frau Gilda kroch hinein, zog
+Die Rückwand gab nach, Frau Gilda kroch hinein, zog
 hinter sich die Tür zu, bis das Schloß einschnappte und
 gelangte dann in ein gut möbliertes Zimmer des Nebenhauses.
 
@@ -2087,7 +2089,7 @@ gewonnen. Sie müßten nun folgerichtig fragen, lieber
 Houston, wie die Brücke von dieser Halben zu Frau
 Gardinett geschlagen wurde.«
 
-»Das wollte ich auch« erklärte Baby eifrig.
+»Das wollte ich auch«, erklärte Baby eifrig.
 
 »In diesem Punkt arbeiten Greap und ich parallel. Der
 famose Einbruch bei der Millionärin Gilda Gardinett
@@ -2111,7 +2113,7 @@ Material zu holen.«
 konnten da zwei Fliegen mit einer Klatsche  geschlagen
 werden. Erstens wurden die armen Kerle stumm gemacht,
 zweitens war Frau Gilda dreifach und vierfach versichert
-und durfte damit rechnen bei der Sache nicht nur »die
+und durfte damit rechnen, bei der Sache nicht nur »die
 Beute«, sondern auch die Versicherungssumme zu verdienen.
 Nachfragen ergaben, daß die Platinuhr nicht versichert
 war. Und auch bei diesen Nachfragen liefen Greap und ich
@@ -2183,7 +2185,7 @@ abgeriegelt und umstellt werden, aber ganz unauffällig.«
 
 In den neu erschlossenen Südbezirken der Riesenstadt ist
 nun auch der Calumet-Fluß, der ebenso wie der Chicago in
-den Michigan-See fließt zu Ehren gekommen. Das fabelhafte
+den Michigan-See fließt, zu Ehren gekommen. Das fabelhafte
 rasante Wachstum der Michigan-Metropole hat bereits den
 großen Calumet-See, ebenso den Wolf-See mit in die Bebauung
 hineingezogen.  Genau wie »Chicago« von dem indianischen
@@ -2335,11 +2337,12 @@ Fahrt der drei Mädels mit dem Motorboot muß doch zum
 Teufel irgend einen Zweck gehabt haben?! Weshalb kniffen
 sie vor der Polizeipinasse denn aus?«
 
-Hart betrachtete angelegentlich einen Wandschrank, den
+Harst betrachtete angelegentlich einen Wandschrank, den
 er soeben geöffnet hatte. »Wie war denn dieser Mr. Ginett,
 die männliche Neugeburt Gildas, gekleidet?« Er brachte hinter
 zwei Regenmänteln einen grauen Herrenanzug zum Vorschein.
-»Herr Gott!«, schrie Greap sofort, den hat »Ginett
+
+»Herr Gott!«, schrie Greap sofort, »den hat »Ginett«
 getragen!! — Himmel, hier ist ja auch der Kragen, die
 Krawatte, — — hier die Perücke, alles in die Taschen
 gestopft!«
