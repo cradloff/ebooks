@@ -39,7 +39,7 @@ an Schulter ausgefochten haben, hat uns einander noch näher
 gebracht.« Er wurde leicht gerührt. »Hoffentlich handelt es
 sich um nichts Gefährliches, Harst … Daß Sie auch immer
 Ihre heilen Knochen gratis für andere zu Markte tragen
-müssen!"
+müssen!«
 
 Harald zuckte die Achseln. »Anlage!! Mich reizt Brantings
 Geschichte. Sie ist mit alltäglich, keinesfalls gefährlich,
@@ -47,7 +47,7 @@ doch schwierig. — Schraut blickt mich wütend an …
 auch er weiß noch nichts. John Branting wünschte, daß ich
 selbst Schraut erst an Ort und Stelle einweihe. Und nun —
 leben Sie wohl, langer Hans, grüßen Sie die Heimat und
-meine Mutter und bleiden Sie nicht zu lange an Deck. Die
+meine Mutter und bleiben Sie nicht zu lange an Deck. Die
 Mittagshitze in Aden hat schon kräftigeren Naturen als
 Sie es sind, den Sonnenstich gebracht.«
 
@@ -179,7 +179,7 @@ Pfeifen und Krachen der miserablen Takelage. Es war
 ein Höllenlärm, und der unter dem Kajütaufbau rumorende
 Motor paßte sich vortrefflich in diese Superjazz ein.
 
-Ih schlafe in letzter Zeit überhaupt schlecht. Meine
+Ich schlafe in letzter Zeit überhaupt schlecht. Meine
 Nerven hatten durch den englischen Dschungel schwer gelitten.
 Die vier oder fünf Stunden die ich gefesselt in der
 glühenden Sonne gelegen hatte, waren unerträglich gewesen.
@@ -217,11 +217,11 @@ darauf los mordete, war derart verworren und unmöglich,
 daß mein kritischer Sinn sich gegen solchen Unsinn wehrte.
 Es hatte sich eben alles gegen mich verschworen. Sogar die
 Zigarre, sonst einziger Trost, war feucht wie eine frisch gerollte
-Fettnudel und ...
+Fettnudel und …
 
 Ich hatte sie gerade wütend in den Spüleimer geworfen,
 der hier den verschiedensten gemeinsamen Zwecken diente, als
-ih wie von einer Riesenwanze gebissen hochschnellte.
+ich wie von einer Riesenwanze gebissen hochschnellte.
 
 Nebenan brüllte John Branting wie ein Besessener …
 
@@ -267,7 +267,7 @@ schien unser neuer Freund aus seiner abgrundtiefen Verzweiflung
 in die Wirklichkeit sich zurückzufinden und stammelte
 vollkommen blöde:
 
-»Die … Papiere … sind ... weg!!"
+»Die … Papiere … sind … weg!!«
 
 Da begriff ich sein ganzes Elend …
 
@@ -279,7 +279,7 @@ Er nickte traurig …
 »Ich hielt sie auf der Brust für zuverlässig versteckt.
 <@pagebreak/>
 Niemand ahnte, daß ich einen flachen Lederbeutel dort trug,
-und …"
+und …«
 
 Sifu sagte da in seinem wenig angenehmen kreischenden
 Organ:
@@ -413,7 +413,7 @@ damit der Wirt sie nicht ihrer … Läuse wegen hinaussetzte,
 — auch sie waren an das Ungeziefer gewöhnt und
 mochten es nicht missen. Tatsache.
 
-Omar Blix' Trunkenheit war echt und gründlich Er
+Omar Blix’ Trunkenheit war echt und gründlich Er
 konnte sich kaum auf den Beinen halten, und der Mord
 machte daher auf ihn keinerlei Eindruck. Trotzdem schien
 Harald ihm irgendwie zu mißtrauen.
@@ -571,7 +571,7 @@ ohnedies schon bedrückt.«
 »Das ist unnötig, Miß Jane … Sie werden mir
 meine Auslagen zurückerstatten, wenn …«
 
-"… wenn dieser Schatz vom Monde herabfällt!« ergänzte
+»… wenn dieser Schatz vom Monde herabfällt!« ergänzte
 sie noch bitterer.
 
 <@pagebreak/>
@@ -633,7 +633,7 @@ wie ein Gummiball hochflog.
 
 Jane duckte sich plötzlich scheu zusammen,
 
-»Mäßige dich, John,« meinte sie ganz zahm. "Was sollen
+»Mäßige dich, John,« meinte sie ganz zahm. »Was sollen
 die deutschen Freunde von deinen Wutausbrüchen denken!
 Entschuldige, ich habe dich durch Margritts Erwähnung nicht
 kränken wollen …« Und zu uns gewandt: »Margritt Murray
@@ -694,27 +694,27 @@ etwa folgenden Inhalts:
 
 > da zur Zeit in Bombay wieder die Cholera herrscht
 und selbst im Europäerviertel die Todesfälle sich häufen,
-will ich Dir über unser Familiengehzeimnis alles Not
-wendige hier niederschreiben, bevor mich vielleicht der
+will ich Dir über unser Familiengeheimnis alles Notwendige
+hier niederschreiben, bevor mich vielleicht der
 Tod hinwegrafft. Ich habe Dir gegenüber häufiger angedeutet,
-daß die Brantings seit vielen, vielen Fahren
+daß die Brantings seit vielen, vielen Jahren
 um einen Schatz kämpfen, der einen Wert von mehreren
 Millionen haben soll. — Damit Du die Dinge richtig
 würdigen kannst, muß ich etwas weiter ausholen. —
 Einer unserer Ihnen, ein gewisser Philipp Branting,
 war ein unsteter Abenteurer und trat ums Jahr 1670
 zum nestorianischen Christentum über, das heutzutage
-nennen in kleinen Gemeinden in Asien, besonders
+nur noch in kleinen Gemeinden in Asien, besonders
 Arabien, Persien und Indien besteht. Der Patriarch
 <@pagebreak/>
 der Nestorianer schickte ihm als Missionar und Abt des
-auf der Insel damals noch vorhandenen Klosters n ich Sokotra.
-Als der Scheich von Beschnitt, dem die Insel zu
-jener Zeit gestörte, die Christen durch Gewalt zum
+auf der Insel damals noch vorhandenen Klosters nach Sokotra.
+Als der Scheich von Keschin, dem die Insel zu
+jener Zeit gehörte, die Christen durch Gewalt zum
 Mohammedanismus bekehrte, soll Philipp Branting
-die Schätze des Klosters vor dem Zugriff des Scheichs.
+die Schätze des Klosters vor dem Zugriff des Scheichs
 verborgen und, ohne das Versteck zu verraten, den Tod
-erlitten haben. Ein Brief von ihm, den ein portugiesischen
+erlitten haben. Ein Brief von ihm, den ein portugiesischer
 Kapitän durchschmuggelte, gelangte glücklich
 in Besitz des Bruders jenes Abtes Philipp Branting.
 Das Schreiben enthielt unklare Angaben über das
@@ -723,88 +723,89 @@ in späteren Jahren versuchen, den Millionenschatz zu
 bergen, der ausschließlich Eigentum Philipps sei, der
 ihn gesammelt hätte. Der besagte Brief ist im Original
 verloren gegangen, aber eine Abschrift der merkwürdigen
-Andeutungen über den Schaffner hat sich in
+Andeutungen über den Schatzort hat sich in
 unserer Familie bis auf mich vererbt. Die Abschrift
 auf echtem Pergament liegt bei.
 
-Unsere Verräter, auch mein Vater, haben nun
+> Unsere Vorväter, auch mein Vater, haben nun
 wiederholt versucht, den Schatz zu heben. Die Schwierigkeiten,
-die ihm) diesem Vorhaben entgegenstellten,
-waren jedoch stets unüberwindlich, Unter den farbigen
-Bewohnern von Sokotra, die nun fanatische Möglich
-geworden, h?! sich) das Gerücht von den Schätzen Halme
-bis erhalten, und die Sultane von Sokotra ließen
+die sich diesem Vorhaben entgegenstellten,
+waren jedoch stets unüberwindlich. Unter den farbigen
+Bewohnern von Sokotra, die nun fanatische Moslim
+geworden, hat sich das Gerücht von den Schätzen hartnäckig
+erhalten, und die Sultane von Sokotra ließen
 von jeher jeden frommen Europäer scharf überwachen,
 damit das Gold und die Juwelen nicht außer Landes
 gebracht würden.
 
-Wie in unserer Familie üblich, erfährst auch Du
+> Wie in unserer Familie üblich, erfährst auch Du
 diese Dinge erst bei Deinem fünfundzwanzigsten Geburtstag.
 Wenn Du Aussicht zu haben glaubst, den
 Schatz zu finden, so rate ich Dir, unter anderem Namen
 oder heimlich in der Nähe des Hafenortes Galonsir
 zu landen. Das Kloster lag in der Nähe des Dorfes
 <@pagebreak/>
-Wucherer, fünf Kilometer landeinwärts am Fuße steiler
-Berge. Ich betone jedoch d2ß8 die her hin Branting
-die Inschrift des Pergaments nie: ich deuten konnte,
-und bevor Du nicht eine einwinAreie Deutung h: ’raus-
-geflügelt haust, wäre die N’ise zwecklos.
+Maharof, fünf Kilometer landeinwärts am Fuße steiler
+Berge. Ich betone jedoch, daß bisher kein Branting
+die Inschrift des Pergaments richtig deuten konnte,
+und bevor Du nicht eine einwandfreie Deutung herausgeklügelt
+hast, wäre die Reise zwecklos.
 
-Wie ungeheuer Mitte will die Sultane von Sokotra,
-die geh! unter ergriff her Oder roh ist sitzen, allzeit
+> Wie ungeheuer mißtrauisch die Sultane von Sokotra,
+die jetzt unter englischer Oberhoheit stehen, allzeit
 Fremden gegenüber gewesen sind, mußte auch, um
-Dir dies nur als Warnung mitzuteilen, der deute…
-Forscher Georg Schweinfurths ersah ’en, der 1881 die
-Insel besuchte. Der Sultan Bergseite sich. im Spielte
-zu einer Expedition ins Innere zu Zeit-:n und ließ
+Dir dies nur als Warnung mitzuteilen, der deutsche
+Forscher Georg Schweinfurths erfahren, der 1881 die
+Insel besuchte. Der Sultan weigerte sich, ihm Kamele
+zu einer Expedition ins Innere zu leihen und ließ
 ihn dauernd überwachen. Erst als einer der Begleiter
-Schweinfurths auf den Gedanken kam. ein paar Raketen
+Schweinfurths auf den Gedanken kam, ein paar Raketen
 abzubrennen, packte den Sultan die Angst und
-die Kamele wurden zur BVBerfügung geht ist.
+die Kamele wurden zur Verfügung gestellt.
 
-Du ersiehst aus alledem daß ein planloses Suchen
+> Du ersiehst aus alledem, daß ein planloses Suchen
 nach dem Schatz zwecklos wäre. Anderseits vertraue Dich
-niemandem an — reichenden. denn es geh um die
-
-Ellbogen, und wir Brantings haben diesem Geheimnis
+niemandem an — niemandem, denn es geht um viele
+Millionen, und wir Brantings haben diesem Geheimnis
 bereits so viel Zeit und Geld geopfert, daß nicht
 etwa ein Fremder, der klüger ist als wir, die kostbare
-Frucht ernten soll. Hüte das Technik auch
-vor Jane, denn Frauen sind allzu prosaisch, und bisher
+Frucht ernten soll. Hüte das Geheimnis auch
+vor Jane, denn Frauen sind allzu redselig, und bisher
 hat keine Branting von dieser Familientradition
 etwas gewußt.
 
-Ich wünsche Dir Glück und Erfolg. Gottes Segen
+> Ich wünsche Dir Glück und Erfolg. Gottes Segen
 sei mit Dir,
 
-Dein Vater…
-Kaum hatte Harst die Wiedergabe diese? Briefes aus
-dem Gedächtnis beendet, als Jane auch schon erstarrt rief,
-— und sie gab nur- meinen eigenen Empfindungen Ausdruck:
-»Mr. — Harst, ich; bin verblüfft; wie tadellos Sie den
-Anstalt des Schreibens meines Vaters behalten haben!«
+<p class="right">Dein Vater.</p>
+
+Kaum hatte Harst die Wiedergabe dieses Briefes aus
+dem Gedächtnis beendet, als Jane auch schon erstaunt rief,
+— und sie gab nur meinen eigenen Empfindungen Ausdruck:
+
+»Mr. — Harst, ich bin verblüfft, wie tadellos Sie den
+Inhalt des Schreibens meines Vaters behalten haben!«
 
 <@pagebreak/>
-»Ja, fast wörtlich nickte John ebenfalls mit verwandelten
+»Ja, fast wörtlich,« nickte John ebenfalls mit verwunderten
 Augen.
 
 »Übungssache,« meinte Harald und blickte Jane flüchtig
-in das schone erregte Gesicht.
+in das schöne erregte Gesicht.
 
-Jane war in der Tat sehr rot und erhitzt, Ehe Hände
+Jane war in der Tat sehr rot und erhitzt, ihre Hände
 fanden keine Ruhe, und mit einem gewissen nervösen Mißtrauen
 fragte sie hastig:
 
 »John, überließest du Mr. Harst denn den Brief längere
-Zeit?
+Zeit?«
 
 »Nein …« John war unangenehm berührt durch seiner
-Schwester fast berückende Yceußerung. »Mr. Harst hat den
-Brief nur zweimal durchgelesen. Mr war dabei …«
+Schwester fast verletzende Äußerung. »Mr. Harst hat den
+Brief nur zweimal durchgelesen. Ich war dabei …«
 
 Harald lächelte ein wenig. »Miß Jane, bisher war Ihr
-Interesse für das Familiengelyeimnis äußerst gering. Jetzt
+Interesse für das Familiengeheimnis äußerst gering. Jetzt
 nun scheint …«
 
 »Verzeihung,« unterbrach sie ihn kühl, »wenn unser
@@ -814,182 +815,180 @@ eine Ausnahme machte.«
 
 »Allerdings …« Harst verneigte sich leicht. »Ihr Bruder
 setzte eben all seine Hoffnung auf mich und hat zugegeben,
-abfidtlilhßd mit demselben Dampfer wie wir von Bombay
-— abgefahren zu sein.«
+absichtlich mit demselben Dampfer wie wir von Bombay
+abgefahren zu sein.«
 
-»Nahmen das Pergament entziffert?« fragte sie abermals
+»Sie haben das Pergament entziffert?« fragte sie abermals
 fast gereizt.
 
-»Nein … Ich hätte es vielleicht fertig gelten. Nun
+»Nein … Ich hätte es vielleicht fertig gebracht. Nun
 ist es gestohlen, und leider kann ich mich auf die lateinischen
-Worte des Textes nicht meine so genau besinnen, wie es
+Worte des Textes nicht mehr so genau besinnen, wie es
 zu einer Deutung nötig wäre.«
 
 Jane drückte ihre Zigarette im Aschbecher aus. »Dann
 ist die Fortsetzung dieser Reise doch eigentlich überflüssig,«
-meinte sie seufzend. »Ich will nicht vernichten, daß meine
+meinte sie seufzend. »Ich will nicht verhehlen, daß meine
 Teilnahme für dieses Geheimnis sich gesteigert hat, — nein,
 diese Teilnahme ist erst erwacht. Wenn ein Mann wie
-Die, Mr. Harst, in Aden seine Reise unterbricht, muß
+Sie, Mr. Harst, in Aden seine Reise unterbricht, muß
 <@pagebreak/>
 wohl an der Sache etwas daran sein, und meines Vaters
 Brief klingt ja ebenfalls durchaus überzeugend.« Sie wurde
 jetzt recht lebendig, und schon an den leichten Falten um
-ihren etwas herben Mund und der gelangten Stirn erkannte
-ich »ihre völlige Sinnesänderung. Es wäre ja. auch
-unnatürlich gewesen, wenn sie gegenüber einem solchen Millionänsegen
-kalt geblieben wäre, »Scheinbar haben Sie also
-dennoch» Hoffnung, uns zu dem Schloß zu versperren, Mr.
+ihren etwas herben Mund und der gekrausten Stirn erkannte
+ich ihre völlige Sinnesänderung. Es wäre ja auch
+unnatürlich gewesen, wenn sie gegenüber einem solchen
+Millionensegen kalt geblieben wäre. »Scheinbar haben Sie also
+dennoch Hoffnung, uns zu dem Schatz zu verhelfen, Mr.
 Harst,« fügte sie gespannt hinzu. »Was enthielt der Brief
 denn noch weiter?«
 
 »Das Pergament und einen Bericht Ihres Großvaters
 väterlicherseits über eine mißglückte Expedition nach Sokotra.
+…«
 
 »Und das Pergament, doch die Hauptsache? Sie sagten,
 es seien lateinische Worte gewesen …«
 
 »Ja. Und sie schienen genau so sinnlos aneinander
-geteilt zu sein wie die auf der Rückseite der Rechnung,
-die wir unter der Lagerstatt! des Mörders fanden.«
+gereiht zu sein wie die auf der Rückseite der Rechnung,
+die wir unter der Lagerstatt des Mörders fanden.«
 
 »War eine Zeichnung dabei?«
 
-»Rein … Es waren etwa fünfzehn Worte … Sonst
+»Nein … Es waren etwa fünfzehn Worte … Sonst
 nichts …«
 
-»SeHS8zehn,« verbesserte John Branting, der immer wieder
+»Sechzehn,« verbesserte John Branting, der immer wieder
 seine Schwester nicht eben liebevoll musterte.
 
 Jane wandte sich an ihn, und ihre Stimme klang
 spöttisch und bevormundend: »Du hättest das Pergament
 abschreiben sollen und die Abschrift irgendwo verwahren
-müssen. Werk ein Leichtsinn auch-, Margritt Murray
+müssen. Welch ein Leichtsinn auch, Margritt Murray
 ins Vertrauen zu ziehen! So etwas kannst nur du
 tun, weiß Gott. Überhaupt die ganze Verlobung! Doch —
-an alledem ist nichts mehr 3y -entern, und. die eine Trage
-bleibt: Hat es nahm« Zweck, auf diesem elenden Schiff unser
+an alledem ist nichts mehr zu ändern, und die eine Frage
+bleibt: Hat es noch Zweck, auf diesem elenden Schiff unser
 Leben zu wagen — für nichts?! Jeder Sturm würde die
-Barke zum Wrack machen …«.«
+Barke zum Wrack machen …«
 
-Harst lachte leise. »Miß -Taue, verteilt!! Sie … In
-diesen Dingen denken Frauen ’doHh nicht logisch genug. Der
+Harst lachte leise. »Miß Jane, verzeihen Sie … In
+diesen Dingen denken Frauen doch nicht logisch genug. Der
 <@pagebreak/>
-Dieb und Mörder ist entflohen. Er wird mit ’dem seetüchtigen
-Boot zweifellos Sokotra besuchen. Er hegt ferner
-einen Verbündeten hier an Bord …
+Dieb und Mörder ist entflohen. Er wird mit dem seetüchtigen
+Boot zweifellos Sokotra besuchen. Er hat ferner
+einen Verbündeten hier an Bord …«
 
-»Blix!« rief Jane leise. »Den Schurken Blix«
+»Blix!« rief Jane leise. »Den Schurken Blix!«
 
 »und deshalb, Miß Jane, werden wir zusehen, ob
-End das Pergament und den Mörder nicht auf Sokotra
-indem.«
+wir das Pergament und den Mörder nicht auf Sokotra
+finden.«
 
-Sie nickte eifrig. »Ich verstehe: »Blix wird sich mit ihm
-treffen, und Sie werden dann …
+Sie nickte eifrig. »Ich verstehe: Blix wird sich mit ihm
+treffen, und Sie werden dann …«
 
 »Warten wir ab, warten wir ab,« mahnte Harst. »Lassen
-wir Blix nicht ahnen, daß wir ihm mißtrauen. Wir belegt
-noch fünf Ratschläge vor uns, da kann viel geschehen.«
+wir Blix nicht ahnen, daß wir ihm mißtrauen. Wir haben
+noch fünf Reisetage vor uns, da kann viel geschehen.«
 
-Jane strahlte jetzt. »Mr. Harst, ich bin Ihnen so unendlich?
+Jane strahlte jetzt. »Mr. Harst, ich bin Ihnen so unendlich
 dankbar …! Wenn John und ich nur aus diesen
-dürftigen Verhältnissen irgendwie herauskämen! Dann fünfte
+dürftigen Verhältnissen irgendwie herauskämen! Dann könnte
 John heiraten, und …«
 
 John sagte bissig: »Ja, und du könntest mehr Staat und
-Luxus treiben, und deine eigenen Zukunftöpläne würden …«
+Luxus treiben, und deine eigenen Zukunftspläne würden …«
 
-Er schwieg unter ihrem drohenden Bis.
+Er schwieg unter ihrem drohenden Blick.
 
-Sie sagte traurig: Das ist nun Johns Dank für meine
-Aufopferung?! Deinetwegen wäre wo9l niemand Käufer in
+Sie sagte traurig: »Das ist nun Johns Dank für meine
+Aufopferung!! Deinetwegen wäre wohl niemand Käufer in
 unserem jämmerlichen Laden geworden!! Wer hat uns beide
-ernährt?! Ich!!« —
+ernährt?! Ich!!«
 
-Zehn wurde rot und murmelte eine Entschuldigung.
+John wurde rot und murmelte eine Entschuldigung.
 
-Bei näherer Bekinntschaft waren die beiden ein sehr
+Bei näherer Bekanntschaft waren die beiden ein sehr
 eigenartiges Geschwisterpaar.
 
-Ja in Da
+<h2>4. Kapitel.</h2>
 
-kü. Kapitel.
+<h3>Sifu kocht Erbsen.</h3>
 
-Sifu kocht Erbsen.
-Vieles blieb zwischen uns un Muscheln rochen. Ich für meine
-
-Person teilte Janes offenbar b’sirhanven Verdacht, daß der
-Römern und Dieb nur durch) H3.).415 Braut Kenntnis von der
+Vieles blieb zwischen uns unausgesprochen. Ich für meine
+Person teilte Janes offenbar bestehenden Verdacht, daß der
+Mörder und Dieb nur durch Johns Braut Kenntnis von der
 <@pagebreak/>
-Wichtigkeit der Schriftstücke und von deren Fenster im
+Wichtigkeit der Schriftstücke und von deren Versteck im
 Brustbeutel erhalten haben könnte, — dies war ja zweifellos
-aufs Haralds Annahme.
+auch Haralds Annahme.
 
 Wir trennten uns. Wir waren müde und überreizt, und
-Harst allein zeigte sich frisch; und besonnen wie immer,
-Er wollte bis Mittag an Der die Aufsicht übernehmen. Jane
+Harst allein zeigte sich frisch und besonnen wie immer.
+Er wollte bis Mittag an Deck die Aufsicht übernehmen. Jane
 zog sich in ihre Kammer zurück, ich legte mich nieder, und
 John tat dasselbe nebenan. Sifu, der ein kleiner, zäher
 Allerweltskerl war, wollte fernerhin den Koch spielen und
 begab sich in die Kombüse,
 
 Es war heller Tag geworden, als ich einschlief. Ich hatte
-noch ein paar Seiten des Kompost gelesen und mein Lager
+noch ein paar Seiten des Romans gelesen und mein Lager
 neu eingemottet. Die Wanzen, Flöhe und Läuse benahmen
 sich anständig.
 
 An diesem Tage geschah nichts Bemerkenswertes. Omar
-Sitz hatte einen fürchterlichen Kater und spielte das Unschuldslamm.
+Blix hatte einen fürchterlichen Kater und spielte das Unschuldslamm.
 Er rasierte sich sogar und sah nachher verhältnismäßig
-sauber aus, Sehr komische wirkte es, wie er
+sauber aus. Sehr komische wirkte es, wie er
 mit Jane zu flirten suchte. Sie hielt ihn zum Narren, und
 der alte Gauner betrank sich vor Seligkeit von neuem. Der
-Tod seines Steuermanns focht ihn nicht im geringsten an,
-Er hatte für den Mord selbst im nüchternen Auftaucht wenig
+Tod seines Steuermanns focht ihn nicht im geringsten an.
+Er hatte für den Mord selbst im nüchternen Zustand wenig
 Interesse gezeigt, und es war ihm offenbar sehr lieb, daß
-Harald die vorschriftsmäßigen Eintragungen ins Schisss8tagebuch
+Harald die vorschriftsmäßigen Eintragungen ins Schiffstagebuch
 erledigt hatte.
 
 Der Abend kam heran. Die Brise wurde steifer, und der
 neue Steuermann, einer der vier Araber namens Bayra
 ibn Saud, ein Herkules mit starkem Negerblut, hatte die
 Vorsegel einziehen lassen. Omar Blix lag wieder im Laderaum
-und verschlief seinen erneuten Rausch, und Sifu be
-möchte sich in der winzigen Kombüse um die Abendmahlzeit,
-während wir vier Europäer in den Liegestühlen die h;zraufskommende
+und verschlief seinen erneuten Rausch, und Sifu bemühte
+sich in der winzigen Kombüse um die Abendmahlzeit,
+während wir vier Europäer in den Liegestühlen die heraufkommende
 Wolkenwand mißtrauisch beobachteten.
 
-Sifus Kopf erschien bin« Kombüsenniedergang. »Wissen
+Sifus Kopf erschien im Kombüsenniedergang. »Missu
 Schraut, bitte … Der Petroleumkocher brennt nicht …«
 
 <@pagebreak/>
 Die Barke hatte keinen Kochofen, sondern einen dreiflammigen
 Petroleumkocher, den Harst neu in Aden besorgt
-hatte, Der bisherige lag auf dem Grund des Wassers
+hatte. Der bisherige lag auf dem Grund des Wassers
 im Hafen von Aden, und die Fische mochten das verrostete
-Fang anstaunen.
+Ding anstaunen.
 
 Ich stieg in Sifus Reich hinab. Es stimmte, der Kocher
 versagte. Hielt man einen Streichholz an den Docht, so zischte
 es und erlosch,
 
-In dem einen Besser lagen große arabische Erbsen,
+In dem einen Kessel lagen große arabische Erbsen,
 bereits vorgequollen, im zweiten ein Stück Hammelfleisch,
 im dritten sollte das Teewasser vorbereitet werden.
 
 Ich schraubte die Brenner von dem Kocher ab.
 
-»Sifu, du Esel, du hast ja Wasser statt Petroleum hineingegossen
-!!’
+»Sifu, du Esel, du hast ja Wasser statt Petroleum hineingegossen!«
 
 Sifu glotzte mich lange an. »Ich?! Ich habe gar nichts
-Binelingegofsen!’
+hineingegossen!«
 
-Er Schwur hoch; und heilig, die Bassin? seien noch voll
+Er schwur hoch und heilig, die Bassins seien noch voll
 Petroleum gewesen, — er holte rasch die Petroleumkanne,
-und nachdem ich die Dachte gehörig ausgeholt hatte, füllte
-ich selbst die Bassins, wobei im mir so meine Gedanken Über
+und nachdem ich die Dochte gehörig ausgedrückt hatte, füllte
+ich selbst die Bassins, wobei ich mir so meine Gedanken Über
 diese Wasserfüllung machte — leider nicht die richtigen.
 
 Ich rieb ein Zündholz an …
@@ -997,34 +996,34 @@ Ich rieb ein Zündholz an …
 Daß Sifu und ich damals nicht bei lebendigem Leibe verbrannten,
 war ein Wunder.
 
-Aus dem Bassin schoß eine Flamme hoch, — es platte
+Aus dem Bassin schoß eine Flamme hoch, — es platzte
 mit lautem Krach. Ich hatte Sifu sofort zur Treppe gerissen,
-und wir Namen mit geringen Brandwunden davon.
+und wir kamen mit geringen Brandwunden davon.
 
 Im Nu war die Kombüse ein Feuermeer,
 
 Alles stürzte herbei, — nur Bayra mußte am Steuer
 bleiben, und Blix träumte weiter von Janes wundervollen
-Augen und den ungezählten Schnapsslaschen.
+Augen und den ungezählten Schnapsflaschen.
 
 Wir anderen arbeiteten im Eiltempo, schleppten Ballastsäcke
 herauf, und Harst gelang es auch, mit Hilfe des Sandes
 wenigstens die Explosion der großen Petroleumkanne zu verhüten,
 
 <@pagebreak/>
-Wir fahren schwarz und verräuchert aus, unsere Anzüge
+Wir sahen schwarz und verräuchert aus, unsere Anzüge
 waren hin, Janes weißes Kleid war nur noch als Putzlappen
 verwendbar,
 
 Schon der Qualmgeruch hatte mir bewiesen, daß hier ein
 ganz niederträchtiger neuer Schurkenstreich vorlag. Harst
 brauchte den Geschwistern, Sifu und mir nicht zu erklären,
-wie diese Explosion möglich gewesen, wir hatten uns schont.
+wie diese Explosion möglich gewesen, wir hatten uns schon
 selbst das Nötige zusammengereimt.
 
 Jemand hatte absichtlich Wasser in die Bassins des
 Kochers gelassen, damit Sifu die Bassins aus der kleinen
-Blechflasche frisch füllen müßte, die der Schuf! mit einem
+Blechflasche frisch füllen müßte, die der Schuft mit einem
 starken Zusatz Gasolin versehen hatte, wahrscheinlich auch
 noch mit reinem Benzin.
 
@@ -1032,13 +1031,13 @@ Wer?!
 
 Wir hatten Blix geweckt, und seine Hände und seine
 blaue Jacke rochen nach Gasolin. Aus dem Laderaum hatte
-er durch« den Vorratsraum unbemerkt in die Kombüse gelangen
+er durch den Vorratsraum unbemerkt in die Kombüse gelangen
 können.
 
-Harst sagte zu dem vertattert Dastehenden mit unheimlicher
+Harst sagte zu dem verdattert Dastehenden mit unheimlicher
 Ruhe:
 
-»Blix, weshalb wollten Sie die Barke in Brand stehen?
+»Blix, weshalb wollten Sie die Barke in Brand stecken?
 Ohne den Sand aus den Ballastsäcken wäre die Omalla jetzt
 eine einzige Flammensäule.«
 
@@ -1048,132 +1047,132 @@ Der dürre, verwitterte Käpten wurde plötzlich ganz nüchtern.
 Aber dieser Schwur wurde nicht beendet,
 
 Harst donnerte den Alten an: »Mensch, ich lasse Sie
-binden, daß Ihnen: das Blut Mutter Haut quillt!! Ihr Kumpan,
+binden, daß Ihnen das Blut aus der Haut quillt!! Ihr Kumpan,
 der Mörder, ist natürlich mit dem Boot in der Nähe
-und hätte Sie aufgenommen, wir anderen wären elend
+und hätte *Sie* aufgenommen, wir anderen wären elend
 ersoffen!! Und das wollten Sie!«
 
-Diese Szene spielte sich an Der im rötlichen Glanz des
+Diese Szene spielte sich an Deck im rötlichen Glanz des
 Abendhimmels ab, gegen den die von Osten heraufziehenden
 Unwetterwolken scharf abstachen.
 
 <@pagebreak/>
-Au die drei dienstfreien Araber waren Zeugen. Aufs
-üe murrte und hätten Blix am liebsten aufgeknüpft.
+Auch die drei dienstfreien Araber waren Zeugen. Auch
+sie murrte und hätten Blix am liebsten aufgeknüpft.
 
 Blix fluchte jetzt sämtliche Register aufwärts und abwärts.
 Die gegen ihn gerichteten Beschuldigungen hatten ihm
-an förmliche Raserei versetzt. Er Geschimpfe Harst auf die
+in förmliche Raserei versetzt. Er beschimpfte Harst auf die
 unerhörteste Art, er nahm keinerlei Rücksicht darauf, daß
-eine junge Dame zugegen war, und erst Janes geringChätziges
+eine junge Dame zugegen war, und erst Janes geringschätziges
 »Schämen Sie sich! Und Sie wollen ein Gentleman
-Fein?!« brachten ihn zur Besinnung.
+sein?!« brachten ihn zur Besinnung.
 
 Was ich niemals erwartet hatte, das geschah jetzt:
-Blix wurde jäh ein völlig anderer, — Ich hatte den Mann
+Blix wurde jäh ein völlig anderer. — Ich hatte den Mann
 ganz falsch eingeschätzt, wir alle hatten es getan. Er gehörte,
 wie sich nun zeigte, zu jener Unzahl entgleister Existenzen,
 die im fernen Osten ihre Schande unter anderem Namen
-und Furche ihre ganze Persönlichkeit Hinter einem
-Neuen Ehrfurcht verbergen.
+und auch ihre ganze Persönlichkeit Hinter einem
+Neuen Schein-Ich verbergen.
 
-Dieser schmierige Kapitän und Besitzer einer noch schwierigsten,
+Dieser schmierige Kapitän und Besitzer einer noch schmierigeren,
 von Ungeziefer wimmelnden Barke kehrte jetzt das
 Heraus, was er einmal in besseren Zeiten gewesen war:
-Atem gebildeten, taktvollen, kühl-beherrschten Europäer und
+Den gebildeten, taktvollen, kühl-beherrschten Europäer und
 Engländer.
 
 Mit leichter Verlegenheit schaute er an sich herab,
-—» was er da sah, war niederdrückend. Dann schaute er
+— was er da sah, war niederdrückend. Dann schaute er
 Jane Branting an, verbeugte sich und meinte: »Über zwanzig
-Jahre bin ich hier in den Gewässern zwischen Mahnte und
+Jahre bin ich hier in den Gewässern zwischen Malaka und
 Suez der … Trunkenbold Blix. Vor diesen zwanzig Jahren
 liegen einige, die ich, Sproß einer uralten schottischen
-Aldels&samilie, im Zuchthaus verbrachte. Vor dieser ZuchtFSausgzeit
+Adelsfamilie, im Zuchthaus verbrachte. Vor dieser Zuchthauszeit
 aber liegt ein Leben in Glanz und Freuden, in
-Arbeit und Erfolg. Tür die Welt ist jener Mann, den eine
-Verkettung widriger Umstände ins Zuchkljaus brachte, tot
+Arbeit und Erfolg. Für die Welt ist jener Mann, den eine
+Verkettung widriger Umstände ins Zuchthaus brachte, tot
 und verschollen. Zum Glück. Denn ich war verheiratet, und
 meine Kinder sollten nie erfahren, daß ihr Vater Schmach
 und Schande über ein makelloses Geschlecht häufte. — Sie,
-277 ich Branting, haben bereits heute nachmittag, als Sie
+Miß Branting, haben bereits heute nachmittag, als Sie
 <@pagebreak/>
-sich über meine altmodische Galanterie lustig zu machen Geliebten,
-die Erinnerung an das Einst geweckt gelabt. Tür
+sich über meine altmodische Galanterie lustig zu machen beliebten,
+die Erinnerung an das Einst geweckt gehabt. Für
 jeden Gescheiterten kommen Stunden der Reue und Sehnsucht.
-Ich habe diese Gefühle durch Insel weggeschwemmt.
+Ich habe diese Gefühle durch Fusel weggeschwemmt.
 Was jetzt jedoch mir hier in Ihrer Gegenwart, die mich
-an meinJöchterHhen unwillkürlich erinnerte — es mag nun
+an mein Töchterchen unwillkürlich erinnerte — es mag nun
 in Ihrem Alter sein, —, zum Vorwurf gemacht wird, nehme
-in nicht ruhig hin. Verzeihen Sie mein unglaubliches Begonnen,
+ich nicht ruhig hin. Verzeihen Sie mein unglaubliches Benehmen,
 Mr. Harst. Ich bitte in aller Form ab. Sie werden
 Beweise haben — Scheinbeweise, die mich belasten,
 denn Sie dürften kaum grandios mir Mitwisserschaft an
 einem Morde und Brandstiftung vorwerfen. Ich erkläre
 Ihnen feierlich …« (und Stimme, Haltung und Gesichtsausdruck
 imponierten geradezu), »daß ich mit alledem nichts
-zu schaffen habe, und daß ich seit jenem Unglück, tags mein
-Kugeln zerstörte, nie mehr Fuchs nur die geringste Lumperei
+zu schaffen habe, und daß ich seit jenem Unglück, das mein
+Dasein zerstörte, nie mehr auch nur die geringste Lumperei
 begangen, habe — nie mehr! Ich will noch hinzufügen,
-ß
+daß …«
 
 Es war mir unbegreiflich, wie Harst, sonst ein so guter
 Menschenkenner, diesen Blix, der vielleicht nur Mitgefühl
 verdiente, jetzt mit einem so unschönen ironischen Auflachen
-unterbrechen konnte. Vorhin unverständlichen aber war, daß
+unterbrechen konnte. Noch unverständlicher aber war, daß
 er gleichzeitig seine Pistole hervorzog, sie entsicherte und
 Unzweideutig drohend rief:
 
-»Tür sentimentale Komödien ist hier weder Zeit noch
-Ort, Omar Blix! — Wollen Sie gefressen oder nicht? Ich
+»Für sentimentale Komödien ist hier weder Zeit noch
+Ort, Omar Blix! — Wollen Sie gestehen oder nicht? Ich
 habe ein sehr probates, wenn auch gesetzwidriges Mittel,
 Geständnisse zu beschleunigen. Ich werde Ihnen etwas ins
 Ohr flüstern, aber seien Sie Überzeugt: Eine einzige verdächtige
 Bewegung, und Sie haben Gelegenheit, sich noch
-heute mit dem ermordeten — Steuermann auf dem Meeres
-Grunde zu begrüßen. — Hände hohl — Schraut, sollte
-Blix seine Pfoten auch nur fünf Zentimeter Denken, so
-drückt auch du ab. Doppelt genäht hält besser.«
+heute mit dem ermordeten Steuermann auf dem Meeresgrunde
+zu begrüßen. — Hände hoch! — Schraut, sollte
+Blix seine Pfoten auch nur fünf Zentimeter senken, so
+drückst auch du ab. Doppelt genäht hält besser.«
 
-Harst pflegt sich für gewöhnlich einer zwar zwangloser,
+Harst pflegt sich für gewöhnlich einer zwar zwanglosen,
 <@pagebreak/>
-aber niemals allzu lästigen AukLdruF&sweise zu bedienen,
+aber niemals allzu lässigen Ausdrucksweise zu bedienen.
 Ich wunderte mich über diese letzte Redensart. Sie paßte
 so gar nicht zu ihm. Immerhin — ich tat wie befohlen.
-Blix hatte sich verfärbt, jedoch; gehorsam die Arme hochgereckt,
+Blix hatte sich verfärbt, jedoch gehorsam die Arme hochgereckt,
 und Harst trat dicht an ihn heran, flüsterte ihm etwas
-ins Ihr — es konnten kaum drei Säße sein —, und erreichte
+ins Ohr — es konnten kaum drei Sätze sein —, und erreichte
 damit etwas, das mir erst recht unverständlich war,
 
-Blix schoß eine »Blutwelle bis zum Haaransatz ins Gesinnt.
+Blix schoß eine Blutwelle bis zum Haaransatz ins Gesicht.
 Er wurde beängstigend blaurot, seine Züge erstarrten,
 seine Augen, weit aufgerissen und vom Trunk rot geädert,
 suchten Janes in diesem Moment hochmütig-triumphierendes
 Antlitz.
 
-»Kanaille!« stieß Blix Reverend hervor … »Also,
+»Kanaille!« stieß Blix keuchend hervor … »Also,
 du hast den Zettel unter dem Lager gefunden, du hast
 mich hineingelegt!! Warte du, wir rechnen ab!! Du kennst
-Omar Blix nicht?!«
+Omar Blix nicht!!«
 
 Harst war zurückgetreten, aber seine halb erhobene Pistole
-Hielt den Kalender in Schach.
+Hielt den Rasenden in Schach.
 
 Jane lachte und wandte sich achselzuckend ab …
 
-»Ziert«
+»Tier!!«
 
 »Bindet ihn,« befahl Harst den Matrosen.
 
 Blix biß die schwarzgerauchten Zahnstummel so fest zusammen,
-daß es knirschte. Er leistete geheim keinen Widerstand,
+daß es knirschte. Er leistete jedoch keinen Widerstand,
 wurde dann unten im Laderaum noch besonders festgebunden
 und — — blieb stumm.
 
 Erst viel später sollte auch ich diesen Mann und die
 Bedeutung dieser Szene voll durchschauen.
 
-Harst heulte sich an Jane gewandt.
+Harst hatte sich an Jane gewandt.
 
 »Es war kein restloses Geständnis,« meinte er. »Aber
 ich bin zufrieden. Man soll für den Anfang nicht zu viel
@@ -1181,32 +1180,32 @@ verlangen. — Sie werden es mir nicht verargen, daß ich
 Sie mit als kleine Folter benutze, Miß Jane … Blix
 Drohungen sind lächerlich. Er wird Ihnen nichts anhaben,
 dafür sorge ich schon. Jetzt wollen wir aber einmal nach dem
-Boot Ausschau halten, es muß in der Nähe Bein, es völlig
+Boot Ausschau halten, es muß in der Nähe sein, es sollte
 <@pagebreak/>
 ja Blix aufnehmen …« Er suchte mit dem Fernrohr den
-ganzen Horizont ab, Es war noch hell genug, mit dem guten
+ganzen Horizont ab. Es war noch hell genug, mit dem guten
 Glase selbst ein so winziges Fahrzeug zu erspähen. Das Boot
 war nirgends zu bemerken.
 
 Indessen hatten Sifu und Jane die Kombüse mit Hilfe
 der Matrosen notdürftig aufgeräumt. Von dem Petroleumkocher
-war nur goß ein Brenner benutzbar, und so mußten
-wie uns dann mit einem Konservengericht benutzen, das
+war nur noch ein Brenner benutzbar, und so mußten
+wir uns dann mit einem Konservengericht begnügen, das
 nicht eben schmackhaft war.
 
-Das Unwetter, das sich«!schon vorher doch sterben Barometerfall
+Das Unwetter, das sich schon vorher durch starken Barometerfall
 angekündet hatte, kam rasch herauf. Der Wind
 wuchs in wenigen Minuten zum Sturm an, und die Barke
-flog mit gerefften Segeln wie ein Pfeil durchs die schäumende
-See. Es war. trotz ihrer äußeren Verwahrlosung ein famoses
+flog mit gerefften Segeln wie ein Pfeil durch die schäumende
+See. Es war trotz ihrer äußeren Verwahrlosung ein famoses
 Fahrzeug, und wenn auch die Wogen andauernd über Bord
 schlugen, gab es in diesen kritischen zwei Stunden doch
-nicht einen einzigen. Augenblick ernsthafter Gefahr.
+nicht einen einzigen Augenblick ernsthafter Gefahr.
 
 John Branting lag schwer seekrank in seiner Kajüte. Wir
 anderen warteten bis nach Mitternacht, wir saßen in unserer
 Kabine und sprachen über gleichgültige Dinge. Dann
-zog sich auch; Raum Abflauen des Sturmes die müde, wortkarge
+zog sich auch nach Abflauen des Sturmes die müde, wortkarge
 Jane in ihre Kammer zurück, und wir beide begaben
 uns an Deck, das noch vor Nässe troff. Der Mond war hinter
 dem abziehenden Gewölk erschienen, und wie zu heiterem
@@ -1217,7 +1216,7 @@ dem Gehör. Er kannte jeden Schlager … Es wirkte so
 heimatlich, hier zwischen Arabien und Afrika »Ich küsse
 Ihre Hand, Madame« zu hören.
 
-Sifu paßte mit der Linken »die Tiegel, mit der Rechten
+Sifu putzte mit der Linken die Tiegel, mit der Rechten
 trieb er seine Mundharmonika zwischen den Lippen hin
 und her: Ein Bild des Friedens und der Behaglichkeit! —
 Ihm war ein Sturm genau so gleichgültig, wie die offenbare
@@ -1228,36 +1227,36 @@ und für sich. Der Schlingel war ein krasser Egoist, und ob
 unsere Obstkonserven vor ihm sicher waren, bezweifelte ich
 sehr stark.
 
-»Herr schlafen!« rief Harald ihm die Kombüsentreppe
-hinab zu …
+»Geh’ schlafen!« rief Harald ihm die Kombüsentreppe
+hinab zu.
 
 Er blinzelte zu uns nach oben. »Ich muß erst noch
-Wissen Käpten Essen bringen,« erklärte er, indem er seine
+Missu Käpten Essen bringen,« erklärte er, indem er seine
 Harmonika in die Tasche schob. »Käpten Blix ist zwar ein
-Schurke, aber auch iz? war ein schlechter Junge … Alles
-ändert sich, Wissen Harst …«
+Schurke, aber auch ich war ein schlechter Junge … Alles
+ändert sich, Missu Harst …«
 
 »Da hast du wohl recht … Also gute Nacht …«
 
-Wir sprachen dann noch mit Bayra wegen der Deenwache,
-und gegen ein Uhr morgens lag ich endlich, nachdem,
-icq mich grünlich abgeseift, und Harald mir die Brandwunden
-bepflastert hatte, wieder in meinem Bett! und las wieder
+Wir sprachen dann noch mit Bayra wegen der Deckenwache,
+und gegen ein Uhr morgens lag ich endlich, nachdem
+ich mich grünlich abgeseift, und Harald mir die Brandwunden
+bepflastert hatte, wieder in meinem Bett und las wieder
 den bewußten Roman und rauchte nach schlechter Gewohnheit
-eine Zigarre. Ich überlegte mir zwischendurc& die Ereignisse
+eine Zigarre. Ich überlegte mir zwischendurch die Ereignisse
 des Tages und fand heraus, daß der Schatz des Nestorianers
-Philipp Branting mich weit mehr erregte, als daß Buch
+Philipp Branting mich weit mehr erregte, als das Buch
 mit seinen an den Haaren herbeigezogenen Verwicklungen.
-Dann tra? Sifu leise ein, kletterte in die dritte Etage empor
+Dann trat Sifu leise ein, kletterte in die dritte Etage empor
 und flüsterte etwas über Omar Blix Sehnsucht nach Whisky
-… Harst schlief. Oder er tat wenigstens so. Ich trennte
-die Petroleumlampe aus, breitete mich selbst nach; der Wand,
+… Harst schlief. Oder er tat wenigstens so. Ich drehte
+die Petroleumlampe aus, drehte mich selbst nach der Wand,
 schloß die Augen und begann als Schlafmittel zu zählen.
 Bei Dreihundert setzten meine Gedanken aus … Aber
-irgendein Geräusch) machte mich wieder munter. Ich, hob
+irgendein Geräusch machte mich wieder munter. Ich hob
 den Kopf und lauschte.
 
-Dann sah ich, daß die Tür zum Deck ’sich langsam
+Dann sah ich, daß die Tür zum Deck sich langsam
 öffnete … Mondschein fiel in breiter Bahn herein, — und
 eine Gestalt schlüpfte hinaus und drückte die Tür wieder
 zu: Harst!
@@ -1267,9 +1266,9 @@ zu: Harst!
 <h2>5. Kapitel.</h2>
 <h3>Der Rollfilm.</h3>
 
-Ich) kenne meine Pappenheimer, ich kenne Harst am
+Ich kenne meine Pappenheimer, ich kenne Harst am
 allerbesten. Aber diesmal sollte er nicht wieder mit mir
-Versteck spielen. Ich … folgte ihm noch leiser. Und im hatte
+Versteck spielen. Ich folgte ihm noch leiser. Und ich hatte
 Glück: Er verschwand gerade in der Kombüse.
 
 Ob er Obstkonserven naschen wollte?! Wohl kaum!
@@ -1283,7 +1282,7 @@ die dritte Tür zum Laderaum offen.
 
 Harst saß neben Käpten Blix. Zwischen beiden stand eine
 Laterne auf den Säcken, und Blix nahm gerade einen
-langen Schirm aus der Vierkantigen. Er war ohne Handfesseln,
+langen Schluck aus der Vierkantigen. Er war ohne Handfesseln,
 und sein Gesicht verriet ein Behagen, das nicht
 lediglich dem Schnaps zuzuschreiben sein konnte.
 
@@ -1301,15 +1300,15 @@ wollen.
 Aber sein Tun und Treiben dort nebenan blieb mir
 zunächst unklar. Er packte aus der Kiste, die ebenfalls in
 Aden an Bord gekommen war, allerhand kleinere eingewickelte
-Gegenstinde aus, und einst dieser -Gegenstände war
+Gegenstände aus, und einer dieser Gegenstände war
 eine … Dunkelkammerlampe aus rotem Glas zum Entwickeln
 von photographischen Platten oder Filmen.
 
-Wie ich noch so in meinem Winkel stehe und war überlege,
+Wie ich noch so in meinem Winkel stehe und mir überlege,
 <@pagebreak/>
 was mein Freund wohl mit der photographischen Ausrüstung
-vorhaben mag,?narrt ganz leise die Kombüsentreppe
-und jemand kommt die Stufen abwärts, Die Person
+vorhaben mag, knarrt ganz leise die Kombüsentreppe
+und jemand kommt die Stufen abwärts. Die Person
 ist nicht zu erkennen. Ich bemerke nur einen Schatten, etwas
 von einem blonden Bart und eine vorgestreckte Hand mit
 einer Pistole.
@@ -1318,31 +1317,30 @@ Diese Pistole hebt sich … die Gestalt beugt sich
 vor, zielt, — und ich kann gerade noch zuspringen und ihr
 den Arm hochschlagen. Der Schuß knallt, ich erhalte einen
 Fußtritt vor den Leib, die Kombüsentür kracht ins Schloß,
-und Harst … beleuchtet wie Häuflein Unglück, der ich
-mitten in der Zinkbütte mit dem Abwauschwasser liege und
-das Empfinden habe, als ob mir der Blinddarm stark bereithielt
-bei.
+und Harst … beleuchtet mich Häuflein Unglück, der ich
+mitten in der Zinkbütte mit dem Abwaschwasser liege und
+das Empfinden habe, als ob mir der Blinddarm stark verrutscht
+sei.
 
 »Was tust du hier?«
 
 Harald kann scheußlich ironisch werden. In diesem Falle
-Gotte jedoch ich die Trümpfe in der Hand, so wenig dekorativ
-
+hatte jedoch ich die Trümpfe in der Hand, so wenig dekorativ
 ich auch in meiner Stellung, besser in meiner Lage wirken
 mochte. Er schien anzunehmen, meine Waffe hätte sich aus
 Unachtsamkeit entladen, und als ich ihm zurief, ein Fremder
 Habe ihn zu erschießen versucht, war er mit zwei Sätzen
-an Der, — zu spät natürlich. Kostbare Sekunden waren
+an Deck, — zu spät natürlich. Kostbare Sekunden waren
 verloren gegangen.
 
 Ich rappelte mich empor …
 
 Am Steuer lehnte der Herkules Bayra ibn Saud, Harst
-Eiland vor ihm, Bayra erklärte, er habe nur den Schuß
+stand vor ihm, Bayra erklärte, er habe nur den Schuß
 gehört, es sei zu dunkel, um jemand sehen zu können …
 
 Es war dunkel. Der Mond hatte sich hinter Wolken
-verkrochen, und der ganze Himmel war mit seinen Schleiern
+verkrochen, und der ganze Himmel war mit feinen Schleiern
 überzogen. Die Wetterlage hatte sich abermals verschlechtert.
 
 Bayras knappe Antworten gefielen mir nicht: Der Mann
@@ -1355,20 +1353,20 @@ Harst schritt der Großluke zu. Wir mußten dabei den Heckaufbau
 umgehen. Die kleine Kammertür Janes öffnete sich
 nach dem Heck zu, wie ich bereits erwähnt habe. Zwischen
 dieser Tür und dem erhöhten Platz für das Steuer und dem
-Steuermann standen ein KompaßstoFX, eine Ankerwinde und
-der huhgeflappte Deckel der Luke, durch die man zu dem
-Motor hinab gelangte, Die Luke war nach Abflauen des
+Steuermann standen ein Kompaßstock, eine Ankerwinde und
+der hochgeklappte Deckel der Luke, durch die man zu dem
+Motor hinab gelangte. Die Luke war nach Abflauen des
 Sturmes wieder geöffnet worden, damit die Gasolindünste
 einen besseren Abzug hätten.
 
-Janes Kopf tauchte. hinter dem winzigen Fenster auf.
+Janes Kopf tauchte hinter dem winzigen Fenster auf.
 Sie rief uns leise an. »Ich hörte einen Schuß … Ich kann
 nicht einschlafen …« sagte sie offenbar sehr verängstigt.
-»Ist schon Trapper etwas geschehen?!«
+»Ist schon wieder etwas geschehen?!«
 
 »Leider, Miß Jane.« Wir traten näher an das Fenster
 heran. »Wenn Sie wach waren,« fügte Harald hinzu, »dürften
-Sie vielleicht Schritte gehört haben, Ob Bayra seinen
+Sie vielleicht Schritte gehört haben. Ob Bayra seinen
 Platz verlassen hatte?«
 
 Er sprach sehr leise.
@@ -1380,28 +1378,28 @@ Auf wen wurde geschossen?«
 »Auf mich — in der Kombüse, Miß Jane. — Entweder
 hat das Boot mit dem flüchtigen Mörder heimlich sich der
 Omalla genähert und angelegt und seinen Insassen für kurze
-Zeit uns als gefährlichen Nachtbesuch gespendet, oder Büro
+Zeit uns als gefährlichen Nachtbesuch gespendet, oder Blix
 hat es fertig bekommen, seine Fesseln zu lösen und den
 Mordversuch zu begehen. Wir werden das sofort feststellen.«
 
-Jane bat, uns begleiten zu dürfen. »Es ist ser so un
-heimlich an Bord … Jedes Geräusch läßt mich hochfahren
+Jane bat, uns begleiten zu dürfen. »Es ist hier so unheimlich
+an Bord … Jedes Geräusch läßt mich hochfahren
 …«
 
-Sie verließ ihre Kammer durchs die andere Tür, die in
-Blixr’ Kajüte- mündete. — ich -.
+Sie verließ ihre Kammer durch die andere Tür, die in
+Blixr’ Kajüte mündete.
 
-Als sie bei uns war, sagte sie feufzend:’
+Als sie bei uns war, sagte sie seufzend:
 
-»John schläft ganz fest. Die Seekrankheit hat ihm sehr
-mitgenommen. Ich wünscht, wir würden umkehren …«
+»John schläft ganz fest. Die Seekrankheit hat ihn sehr
+mitgenommen. Ich wünschte, wir würden umkehren …«
 
 <@pagebreak/>
-»Ost das Ihr Ernst?!« Harald beleuchtete die Sperrhakery
-der Großluke, Beide Haken waren offen.
+»Ist das Ihr Ernst?!« Harald beleuchtete die Sperrhaken
+der Großluke. Beide Haken waren offen.
 
 Jane entgegnete erregt: »Es ist mein Ernst … Ich
-verzichte auf die geringe Aussicht, Millionäriwm zu werden,
+verzichte auf die geringe Aussicht, Millionärin zu werden.
 Ich bin ziemlich widerstandsfähig, aber diese Vorgänge hier
 auf der Barke zermürben mich.«
 
@@ -1409,19 +1407,19 @@ auf der Barke zermürben mich.«
 hoch und stützten ihn fest. Links am Lukenrand hing eine große
 Laterne. Ich zündete sie an, und wir stiegen die Leiter hinab.
 Jane trug über ihrem Schlafanzug einen dunklen Mantel,
-und an den bloßen Füßen indische buntgestikte Schuhchen,
+und an den bloßen Füßen indische buntgestickte Schuhchen,
 ohne Absätze.
 
 Blix Lager befand sich gleich rechter Hand. Er schlief
 sehr fest, schnarchte, und Harst mußte ihn erst mehrmals
 rütteln. »Was gibt’s?!« knurrte er.
 
-Wir untersuchten seine Fesseln. Sie waren so jeder
+Wir untersuchten seine Fesseln. Sie waren so locker
 geschlungen, daß er die Hände bequem herauswinden konnte.
 
 »Man hat auf mich geschossen,« sagte Harst drohend.
-»Blix, wo blieben Sie die Pistole und den blonden falschen
-Bart, den Sie umgenommen Zigarren? Reden Sie, Wann, —
+»Blix, wo haben Sie die Pistole und den blonden falschen
+Bart, den Sie umgenommen hatten? Reden Sie, Mann, —
 ich lasse Sie in Eisen legen!«
 
 Omar Blix starrte zu Harald empor,
@@ -1430,10 +1428,10 @@ Er lachte grimmig. »Also das ist’s!! Wieder hat das
 Frauenzimmer mich wohl belauert! Der Satan hole euch
 alle!! Dort unter dem Kistendeckel in der Holzwolle liegt
 meine Pistole. Das nächste Mal soll schon einer von euch
-daran glauben! Mich bekommt ihr lebend nicht nach See
-kalten, und ihr — nun, ihr werdet erst recht vorigen ersaufen!«
+daran glauben! Mich bekommt ihr lebend nicht nach Sokotra,
+und ihr — nun, ihr werdet erst recht vorher ersaufen!«
 
-Seine glühenden Augen ruhten Haßerfüllt auf Jane.,
+Seine glühenden Augen ruhten Haßerfüllt auf Jane.
 — Ich nahm die Waffe an mich, Harst band Blix doppelt und
 dreifach und sagte, als wir den Laderaum verließen: »Die
 Luke und die Türen werden wir durch Schlösser sichern …
@@ -1441,18 +1439,18 @@ Hier ein Bord ist jemand, der mit Blix im Bunde ist.«
 
 Oben an Deck stand die Jammergestalt John Brantings
 <@pagebreak/>
-… «« … Er lehnte an der Reling, und die Seekrankheit. schien
+… Er lehnte an der Reling, und die Seekrankheit schien
 ihn abermals gepackt zu haben.
 
 Allzu fest hatte er doch wohl nicht geschlafen.
 
-… Ich: hatte das scheußliche Gefühl, nur von Fenstern
-und Heuchlerin umgeben zu sein.
+Ich hatte das scheußliche Gefühl, nur von Verrätern
+und Heuchlern umgeben zu sein.
 
-Als ich nachher — wir hatten alle Zugänge zum Lattenzaun
-nun durch« Vorlegeschlösser gesichert — Blix’ Pistole
-in unserer Kajüte besichtigte, fand ich den Patronenralynen
-gefüllt, und nicht eine Patrone, fehlte. Der Lauf Rock auch
+Als ich nachher — wir hatten alle Zugänge zum Laderaum
+nun durch Vorlegeschlösser gesichert — Blix’ Pistole
+in unserer Kajüte besichtigte, fand ich den Patronenrahmen
+gefüllt, und nicht eine Patrone fehlte. Der Lauf Roch auch
 nicht nach Pulverschleim, war aber auch nicht frisch gesäubert.
 
 Harald schaute mir zu und meinte leise:
@@ -1460,12 +1458,12 @@ Harald schaute mir zu und meinte leise:
 »Du bist auf ganz falscher Fährte, mein lieber Alter!«
 
 Von der dritten Etage der Betten mischte sich Freund
-Sifus Stimme ein. »Wissen Harst, ich habe inzwischen alles,
+Sifus Stimme ein. »Missu Harst, ich habe inzwischen alles,
 was du zum Entwickeln des Films brauchst, hierher gebracht.
 Ich fand, der Rollfilm war hier sicherer als im Vorratsraum.«
 
 Harald blickte den Jungen scharf an. »Mir scheint, man
-sollte dich auf eine Polizeischule schicken?!« Aber auch er
+sollte dich auf eine Polizeischule schicken!« Aber auch er
 flüsterte nur und ging hin und drückte Sifu die Hand,
 
 Ich wußte nichts von einem Rollfilm. Ich wußte nur,
@@ -1474,132 +1472,131 @@ hatte, da unsere alte Kamera nicht mehr ganz zuverlässig
 war,
 
 Harst verhängte das Fenster und die Tür und zündete
-die Dunkelkuammerlampe an.
+die Dunkelkammerlampe an.
 
 Zehn Minuten später kannte ich das Geheimnis des
 gestohlenen Pergamentblattes.
 
-<@pagebreak/>
+<@pagebreak 36/>
 
-Die Gräber von Maharef
+<h1>Die Gräber von Maharef</h1>
 
 <h2>1. Kapitel.</h2>
 
 <h3>Die Rätsel häufen sich.</h3>
 
-Drei Tage noch, und zwar drei durchaus friedliche Tags
+Drei Tage noch, und zwar drei durchaus friedliche Tage,
 und im Lichte der ersten Sonnenstrahlen lag die Nordwestecke
 von Sokotra vor uns,
 
-Vieles Kap, San Bahn genannt, ist weit weniger ins
+Dieses Kap, San Bedu genannt, ist weit weniger ins
 Auge springend als das etwas westlichere, fünfzig Meter
-hohe Klippeneiland Ihrer allerlei, das durchaus schneeweißen
+hohe Klippeneiland Sseel el Heissi, das durchaus schneeweißen
 Marmorfelsen gleicht: Die zu vielen Tausenden hier
 nistenden Seevögel haben es mit ihrem Unrat über und
-über getüncht, und die Die dieser Guanoschicht soll stellenweise
+über getüncht, und die Dicke dieser Guanoschicht soll stellenweise
 über fünf Meter betragen. Mit dem Glase konnten
 wir auch die Gebirgsketten des Innern, die endlosen Wälder
 und vereinzelte Sandsteppen erkennen. Sokotra hat etwa
 die Größe der Rheinpfalz, nämlich 180 Kilometer lang und
 38 Kilometer breit. Die Bewohner, Araber, Suaheli und Inder,
-schätzt man auf 120095, sie sind meist fanatische Möglich.
+schätzt man auf 12&nbsp;000, sie sind meist fanatische Moslim.
 Es ist wissenschaftlich nachgewiesen, daß die Insel einst eine
 Brücke zwischen Arabien und Afrika bildete, bis vulkanische
 Einflüsse diese Landverbindung versinken ließen und nur
 noch Sokotra übrig blieb.
 
-Zum Glücks konnten wir nirgends ein Segel oder am
+Zum Glück konnten wir nirgends ein Segel oder am
 Strande einen Menschen erspähen. Die Sonne war soeben
 erst aufgegangen, und eiligst liefen wir in eine Bucht der
-Guscnoinsel Ihrer allerlei ein, da wir erst nachts auf denn
+Guanoinsel Sseel el Heissi ein, da wir erst nachts auf dem
 eigentlichen Inselufer zu landen gedachten.
 
-Die durch; unsere Barke aufgescheuchten Seevögel erhoben
-sich in RViesenschwärmen kreischend in die Lüfte, beruhigten
+Die durch unsere Barke aufgescheuchten Seevögel erhoben
+sich in Riesenschwärmen kreischend in die Lüfte, beruhigten
 <@pagebreak/>
 sich jedoch sehr bald wieder, als wir sie nicht
 weiter belästigten.
 
-Die Bucht bot uns vollkommenen Schuß, auch gegen die
-Sonne, Die Ufer stiegen steil aus dem Wasser auf, und nur
+Die Bucht bot uns vollkommenen Schutz, auch gegen die
+Sonne. Die Ufer stiegen steil aus dem Wasser auf, und nur
 ganz besonderes Pech konnte uns den Eingeborenen verraten.
 
 Harst hatte während der drei Tage weder mit mir noch
 mit Sifu über die Ereignisse an Bord weiter gesprochen.
 Ich wußte nun, daß er heimlich das Pergament photographiert
-und dann in jener Nacht den entwickelten Film sorgsam, versteckt
+und dann in jener Nacht den entwickelten Film sorgsam versteckt
 hatte. Sifu und mir hatte er strengstes Stillschweigen
 anbefohlen. Die sechzehn lateinischen Wörter auf dem Pergament
 lauteten:
 
-Wels Mille Arg Moos Mons Magnus
-Genuß Setzen Pedes Sol Drei Rock
-Septem Sol Setzen Pecunia.
+<p class="centered">Urbs Mille Ara Mors Mons Magnus
+Caput Dezem Pedes Sol Tres Nox
+Septem Sol Dezem Pecunia.</p>
 
 Deutsch also:
 
-Stadt tausend Adler Tod Berg groß
+<p class="centered">Stadt tausend Adler Tod Berg groß
 Kopf zehn Füße Sonne drei Nacht
-sieben Sonne zehn Geld.
+sieben Sonne zehn Geld.</p>
 
-Daraus!ließ sich beim besten Willen kein Vers machen.
-349 hatte mir die Wörter in der richtigen Reihenfolge
+Daraus ließ sich beim besten Willen kein Vers machen.
+Ich hatte mir die Wörter in der richtigen Reihenfolge
 gemerkt und hatte so manche Stunde zwecklos über deren
 Sinn nachgegrübelt.
 
-Ob Harst den Sinn herausgefunden hatte? Er behyjauptete
+Ob Harst den Sinn herausgefunden hatte? Er behauptete
 nein, aber ich traute ihm nicht, er spielte stets mit verdeckten
 Karten, und vieles gab es außerdem noch hier an
-Bord, das so merkwürdigwiderspruchsvell und verwirrend
+Bord, das so merkwürdig widerspruchsvoll und verwirrend
 war. —
 
 Wir waren also vorläufig in der Guanobucht vor
-Anker gegangen. Die Seevögel nahmen auf uns wenig Aussicht,
-und ihre feuchten Grüße. zwangen uns, ein Segel als
-Schatten auszuspannen. Unter diesem Segel frühstückten
+Anker gegangen. Die Seevögel nahmen auf uns wenig Rücksicht,
+und ihre feuchten Grüße zwangen uns, ein Segel als
+Schutzdach auszuspannen. Unter diesem Segel frühstückten
 wir vier Europäer, Sifu bediente uns äußerst vergnügt,
 und der fünfte Europäer, Omar Blix, jetzt wieder mit Stoppelbart
 <@pagebreak/>
 und daher Igel, durfte abseits frische Luft schnappen,
 bewacht von dem dunklen Riesen Bayra ibn Saud, der
-vor ihm hockte, Reisfladen, aß und seinen Revolver bereit
+vor ihm hockte, Reisfladen aß und seinen Revolver bereit
 hielt.
 
 Blix sah elend aus. Die Gefangenschaft war ihm schlecht
-bekommen. Möglich auch, daß der ohnmächtige Grimm in
-innerlich zerfressen hatte. Wenn er zu uns hinüberschielts,
-lag tödlichen Haß in seinen entzündeten Augen.
+bekommen. Möglich auch, daß der ohnmächtige Grimm ihn
+innerlich zerfressen hatte. Wenn er zu uns hinüberschielte,
+lag tödlicher Haß in seinen entzündeten Augen.
 
 Jane nahm von ihm keinerlei Notiz. Nur John hatte
 heute ein gutes Wort für ihn eingelegt, und Harst hatte
-schließlich gestattet, daß Blix an Deck käme, Die Hände hatte er
-frei, die Füße und Knie waren mit geteerten Stehen umwunden.
+schließlich gestattet, daß Blix an Deck käme. Die Hände hatte er
+frei, die Füße und Knie waren mit geteerten Stricken umwunden.
 
 Jane war die Seereise glänzend bekommen. Sie war
 frisch, gebräunt und wieder voller Hoffnung. Ihre Stimmung
 blieb allerdings sehr ungleich. Zuweilen verfiel sie in dumpfes
 Sinnen und gab dann kaum Antwort. Auch John Branting
-war kaum wiederzuerkennen. Sein -Körper war straffer geworden,
+war kaum wiederzuerkennen. Sein Körper war straffer geworden,
 das Weichliche in seinen Zügen war verschwunden,
 wenn auch die Sommersprossen sich vermehrt hatten. Er entwickelte
 stets einen fabelhaften Appetit, und wenn er unbeobachtet
 war, nahm er aus seiner Brieftasche eine Photographie
-hervor, bekam verliebte Augen und küßte das Bild,
+hervor, bekam verliebte Augen und küßte das Bild.
 Es gehörte nicht viel Kombinationstalent dazu, in dieser
-Photograptkie jene Margritt Murray zu vermuten, die in
+Photographie jene Margritt Murray zu vermuten, die in
 dem Verdacht stand, durch unvorsichtige Äußerungen über
 den Brustbeutel uns die Gegner in diesem Spiel um Millionen
 auf den Hals gehetzt zu Haben,
 
-Wir frühstückten. Daß der Mokka etwas nach Katze
-so machte, lag wohl an Sifus Unkenntnis im Säubern von
-Kochtöpfen. Beim Kaffee war das nicht weiter unanjJenchm.
-Ernsthafter wurde dieser BeigesOmack jedoch bei Puddingen,
-Reisspeisen und Ähnlichem, die zuweilen nach« weiß Gott
+Wir frühstückten. Daß der Mokka etwas nach Kakao
+schmeckte, lag wohl an Sifus Unkenntnis im Säubern von
+Kochtöpfen. Beim Kaffee war das nicht weiter unangenehm.
+Ernsthafter wurde dieser Beigeschmack jedoch bei Puddingen,
+Reisspeisen und Ähnlichem, die zuweilen nach weiß Gott
 was dufteten.
 
-Jane erörterte heute wieder einmal das Schalttische.
-
+Jane erörterte heute wieder einmal das Schatzthema.
 <@pagebreak/>
 Harst gab bereitwilligst Auskunft. Er meinte, der Dieb des
 Pergaments würde wohl in Maharef in einer Verkleidung
@@ -1611,39 +1608,39 @@ Und was werden wir beginnen?«
 
 Er war bereits bei der Zigarette angelangt. »Wir?!
 Wenn Sie Schraut und mich meinen, so darf ich Ihnen
-verraten, daß wir beide zunächst allein das Terrain sank
-Tieren werden. Wir müssen die Barke irgendwo in der
+verraten, daß wir beide zunächst allein das Terrain sondieren
+werden. Wir müssen die Barke irgendwo in der
 Nähe von Galonsir, einem offenbar günstigen Hafenort, in
-dieser Nacht verbergen, Auf der Karte habe ich da ein paar
-Buchten und Flüsse entdeckt, und … «.«
+dieser Nacht verbergen. Auf der Karte habe ich da ein paar
+Buchten und Flüsse entdeckt, und …«
 
 Die Fortsetzung blieb aus. Ich hatte zufällig gerade zu
 Blix und Bayra hinübergeschaut und daher Blix’ frechen,
 verwegenen Streich mit beobachtet.
 
 Bayra stieß einen grellen Wutschrei aus, als Blix ihm
-mit der Faust den Revolver aus der Hand schlug und ebene
-so geschwind über die Reling auf eine Felszunge sprang,
-Wer ihm die Fußfesseln so weit zerschnitten bitte, daß
+mit der Faust den Revolver aus der Hand schlug und eben-
+so geschwind über die Reling auf eine Felszunge sprang.
+Wer ihm die Fußfesseln so weit zerschnitten hatte, daß
 er nur die Beine zu spreizen brauchte, um sie loszuwerden,
 blieb ein Rätsel.
 
-Harst flog zur Reling. Not fixer war jedoch Jane,
+Harst flog zur Reling. Noch fixer war jedoch Jane,
 und sie, die ihre Liliputpistole seit der letzten abenteuerlichen
 Nacht stets in der Außentasche ihres Sportrockes trug, feuerte
 auch als erste auf den Flüchtling.
 
-Das heißt: sie wollte feuern. Nur das Zündhyütdyen der
+Das heißt: sie wollte feuern. Nur das Zündhütchen der
 Patrone Knallte, und die Pistole versagte.
 
-Dann schoß Harst. Blix war »jedoch schon halb hinter
+Dann schoß Harst. Blix war jedoch schon halb hinter
 den Klippen verschwunden, und die drei Kugeln splitterten
-lediglich Guanostüen ab und schgeuchten die Vögel auf,
+lediglich Guanostücken ab und scheuchten die Vögel auf,
 
-Burg wieder war dem Kapitän sofort gefolgt, nachdem
+Byra wieder war dem Kapitän sofort gefolgt, nachdem
 er sich von dem zweiten Fausthieb, der sein Kinn etwas
 verschoben hatte, leidlich zu sich selbst zurückgefunden hatte.
-Her Igel besaß sicherlich Bärenkräfte, und wenn man den
+Der Igel besaß sicherlich Bärenkräfte, und wenn man den
 <@pagebreak/>
 anmaßenden Bayra als Tiger bezeichnen will, so mochten
 diese Tiernamen ganz gut zu den beiden Personen passen.
@@ -1651,15 +1648,15 @@ Kaum hatte der Araber mit dem Negereinschlag die Klippen
 erreicht, als der Bär sich abermals meldete: Ein Stein von
 einem halben Zentner flog gegen des Tigers gewölbte Brust
 und erledigte ihn derart, daß Blix uns entkam. Wir suchten
-die Guanoinsel natürlich ab, — jeder beteiligte sie daran,
-doch; als wir uns einzeln und paarweise auf der trüben
+die Guanoinsel natürlich ab, — jeder beteiligte sich daran,
+doch als wir uns einzeln und paarweise auf der trüben
 Olala wieder einfanden, machten wir lange Gesichter. Blix
 war futsch, wie Harald sich ausdrückte, und Jane, die schöne
 Jane, war sehr bleich und zeigte ihre Pistole herum: Aus
 den Patronen war das Pulver entfernt worden! Bayras
-Brustkasten Grotte an Umfang erheblich zugenommen. Die
+Brustkasten hatte an Umfang erheblich zugenommen. Die
 Geschwulst war derart, daß nur ein Mensch von Bayras
-Knospenden ohne Rippenbrüche& den Steinwurf hatte überstehen
+Knochenbau ohne Rippenbrüche den Steinwurf hatte überstehen
 können.
 
 Still und bedrückt saßen wir vier wieder unter dem
@@ -1668,13 +1665,13 @@ bombardiert, und Harst äußerte jetzt allerlei Bedenken, ob
 nicht vielleicht durch die Schüsse jemand von der Hauptinsel
 hinübergelockt werden könnte. »Dann ist unser Aufenthalt
 hier verraten, und unsere Aussichten vermindern
-Biß um weitere dreißig Prozent, je ans Ziel zu gelangen.
-Blix’ Flucht bewerte ihm ebenfalls mit dreißig, den Diebstahl
+sich um weitere dreißig Prozent, je ans Ziel zu gelangen.
+Blix’ Flucht bewerte ich ebenfalls mit dreißig, den Diebstahl
 des Pergaments ebenso hoch, es bleiben also nur noch
 zehn Prozent Wahrscheinlichkeit, falls …«
 
-Jane nahm diese Sätze nicht ernst, Sie rief gereizt:
-»Machen Sie noch« Scherze?! Ich denke, wir sollten besser
+Jane nahm diese Sätze nicht ernst. Sie rief gereizt:
+»Machen Sie noch Scherze?! Ich denke, wir sollten besser
 Bayra ein wenig nachdrücklich ausfragen, dann käme wohl
 heraus, wer Blix die Arme bis auf dünne Fäden zerschnitten
 hatte!«
@@ -1694,15 +1691,15 @@ freundliches Lächeln, mit dem er Harst anfuhr: »Ich kann
 doch wohl beschenken, wen ich will …!«
 
 Eine schwüle Pause entstand. Harsts schaute ins Leere,
-
-Kind ich dachte an seine Worte in ’jener Nacht, als ich
-Blix Pistole besichtigt hatte: »Du bist auf ganz falscher
+und ich dachte an seine Worte in jener Nacht, als ich
+Blix' Pistole besichtigt hatte: »Du bist auf ganz falscher
 Fährte!« Ich hatte damals näheren Aufschluß verlangt,
-—»- er hatte nur die Achseln gezuckt: »Später!! Wenn ich
+— er hatte nur die Achseln gezuckt: »Später!! Wenn ich
 selbst ganz klar sehe.«
-— Ich fand mich in diesen Wirrnissen und Widersprüchen
+
+Ich fand mich in diesen Wirrnissen und Widersprüchen
 nicht mehr zurecht. Es war ja doch ausgeschlossen, daß
-John etwa gegen uns intrigierte! Gut welchem Grunde
+John etwa gegen uns intrigierte! Aus welchem Grunde
 wohl?!
 
 Nachher bot sich mir die Gelegenheit, Harald hierüber
@@ -1711,8 +1708,8 @@ unterschätzt, sogar sehr. Er arbeitet jetzt auf eigene Faust
 an der Aufklärung von Fragen, die längst gelöst sind.
 Findest du, daß ein Riese wie Bayra durch einen solchen
 Steinwurf gleich in die Knie zu sinken brauchte?! Da —
-er gescheuert jetzt zusammen mit den anderen das Deck, und
-er kann kaum Schimmerten haben. Er ist eben bestochen worden.
+er scheuert jetzt zusammen mit den anderen das Deck, und
+er kann kaum Schmerzen haben. Er ist eben bestochen worden.
 Blix sollte fliehen. Nur Johns Taktik ist zu durchsichtig.«
 
 Ich war ehrlich entsetzt. »Wie, glaubt er, daß wir …«
@@ -1722,19 +1719,19 @@ Augen, als Jane die entleerten Patronen zeigte?! Dieses
 Mißtrauen galt besonders mir, und — — John hatte
 in diesem Falle den Richtigen erwischt.«
 
-Er drehte sich kurz um und schlenderte nach; vorn 3n.
-den scheuerwütigen Farbigen. Ich ’skarrte ihm mit offenem
+Er drehte sich kurz um und schlenderte nach vorn zu
+den scheuerwütigen Farbigen. Ich starrte ihm mit offenem
 Munde nach.
 
-Nun wurde ich erst roch;t nicht schlau aus alledem.
+Nun wurde ich erst recht nicht schlau aus alledem.
 Wie zum Hohn erklangen aus der Kombüse die sanften
 <@pagebreak/>
 Töne der Mundharmonika Freund Sifus. Er spielte —
-der Himmel mochte wissen, wo er den uralten »Gassenhauer
+der Himmel mochte wissen, wo er den uralten Gassenhauer
 aufgeschnappt hatte: »Wenn du denkst du hast’n, springt
-er aus dem Kasten, wenn du denkst du hast ihn schon, rennt.
-er weg, der SchwiegerJohn …« — Wenigstens kenne ich
-zu der Melodie den Zeit …
+er aus dem Kasten, wenn du denkst du hast ihn schon, rennt
+er weg, der Schwiegersohn …« — Wenigstens kenne ich
+zu *der* Melodie *den* Text …
 
 <h2>2. Kapitel.</h2>
 
@@ -1754,7 +1751,7 @@ rückte meinen Stuhl ganz nannte heran. Sie hatte so wundervolle
 Hände … Überhaupt: Der Mann, den Jane liebte,
 war zu beneiden.
 
-Und wie mir dies so durch» den Kopf ging, da fiel
+Und wie mir dies so durch« den Kopf ging, da fiel
 mir eine Bemerkung ein, die John bei der wenig schönen
 Szene zwischen Jane und ihm begonnen, aber nicht be
 endet bitte, wenizstmmns nicht so, daß man daraus bestimmte
@@ -1840,7 +1837,7 @@ in weißer Tropenuniform, mit zwei Pistolen am Ledergurt …
 und einem Spazierstos aus Bambusrohr mit Gazellenhornkrücke,
 kletterte flink zu uns an Deck.
 
-Davidson war der Typ des selbstbewußten Wüterich8.
+Davidson war der Typ des selbstbewußten Wüterichs.
 Ohne zu grüßen trat er vor uns hin,
 
 »Was tun Sie hier, he?«
@@ -1884,7 +1881,7 @@ imponierte. Wenn er wenigstens noch lächerlich gewirkt hätte!
 Keine Rede! Er hatte ein paar funkelnde Augen im Kopf
 wie eine pfiffige Ratte, und er glich auch entfernt diesem
 schädlichen Nager, — die Nase war lang und spitz und
-pflegte die Luft schhnüffelnd einzuziehen.
+pflegte die Luft schnüffelnd einzuziehen.
 
 Was tun?! — Gar nichts, — gehorchen!
 
@@ -1909,7 +1906,7 @@ den Augen ließ.
 Galonsir ist ein romantisch gelegener kleiner Hafenplatz.
 Rasch Südost zieht sich in die mit Palmenhainen bedeckten
 Berge ein breites, von einem Bache durchslossfenes Tal hin
-ein, an der breiten Mündung hat der Shwemmsand eine
+ein, an der breiten Mündung hat der Schwemmsand eine
 natürliche Mole geschaffen, und wenn auch der im Dornenbusch
 versteckte Ort zumeist nur aus Lehm-. und Steinsäulen
 besteht, so machen doch die neuen Hafenanlagen, Gebäude,
@@ -2056,7 +2053,7 @@ worden. David merkte das und gab es auf, mir gelinde
 Sticheleien zu versetzen.
 
 »Wie brachten Sie es fertig, die Depesche abzusenden 2«
-wandte er sich wieder an das aussichtsreihere UAuskunsftsbüro.
+wandte er sich wieder an das aussichtsreichere Auskunsftsbüro.
 
 Harst blickte mich abbittend an. »Ich mußte überaus vorsichtig
 sein. Ich heulte Bayra ins Vertrauen gezogen, einen
@@ -2073,7 +2070,7 @@ hatte entdecken können.
 
 Harst erzählte hierauf die gesamten Ereignisse, beginnend
 mit unserer Bekanntschaft mit den Geschwistern — bis zu
-Käpten Blix leicht erflärlicher. »Flucht. Sein Bericht war
+Käpten Blix leicht erklärlicher. »Flucht. Sein Bericht war
 eine trockene ’Aneinanderreihung der Tatsachen ohne jeden
 Kommentar,
 
@@ -2244,7 +2241,7 @@ Ah. Kapitel.
 Die leere Kiste,
 
 David der Kleine rannte davon und schloß uns ein. Der
-Schein mußte gewahrt werden,.Ich trank mein Glas leer, mir
+Schein mußte gewahrt werden…Ich trank mein Glas leer, mir
 war die Kehle troXengewotden …
 
 Jane!! Mörderin!! — Es war kaum vorstellbar. Dieses
@@ -2345,7 +2342,7 @@ derausgschlug. Die Luft war mir zu pestilenzialisch. Das
 Klirren der Scherben draußen hatte den einen Erfolg, daß
 ein Aufseher hereingestürzt kam und mich mit Schmähungen
 überhäufte. Ich erwiderte ihm in deutscher Sprache, und
-ausgerechnet dieser Mordskrah sollte die Situation insofern
+ausgerechnet dieser Mordskrach sollte die Situation insofern
 klären, als nebenan — die Lehmmauer war recht brüchig —
 plötzlich Janes Stimme ertönte …
 
@@ -2373,7 +2370,7 @@ sogen — mit Doppelschlinge.«
 Es war schon recht dunkel, und da bemerkte ich ihre
 Schenkt sie, als sie jäh zurückfuhr und dann nach dem Fenster
 zu davontaumelte. Ich störte das Stroh ihres Lagers rascheln
-und dann ein hemmungslosfes Schluchzen …
+und dann ein hemmungsloses Schluchzen …
 
 Anderes lenkte mich ab. Durch das zertrümmerte Fenster
 vernahm ich ein schnarrendes, fehlendes Organ, dazu das
@@ -2413,7 +2410,7 @@ bestätigen.
 
 Ich glaube kaum, daß jemals ein Schutz mit so unckgeheurem
 Lärm gesucht worden ist. wie der Philipp Brantings.
-Diese Art Schaßfucherei fiel vollkommen aus dem bewährten
+Diese Art Schatzsucherei fiel vollkommen aus dem bewährten
 Rahmen heraus: Totenstille, Dunkelheit, schleichende
 Schritte, Fackelschein, Totenschädel — und so weiter. (Einzelheiten
 sind in jedem besseren Finster nachzulesen.)
@@ -2441,7 +2438,7 @@ Wolltet Exemplare fand, in deren Kinde eingeschnittene Inschriften
 aus dem Jahre 1640 erkennbar waren.
 
 Harst ließ den ort8undigen David direkt auf die alten
-hZriftlichen Höhlengräber an den hellen Fels8abhängen aus
+hZriftlichen Höhlengräber an den hellen Felsabhängen aus
 Halten. Erst als wir diese Steilwände, wo der Worauf
 stellenweise von hellem porösem Gestein überzogen ist, der
 reicht hatten, befahl er den Beamten zurückzubleiben. Er
@@ -2542,7 +2539,7 @@ Ende war. Harst schwieg
 
 Um neun Uhr vorm tags! hier wir fünf, Blix, David,
 John und wir beide, zu in Ne yi28anwali und Notar Doktor
-Beclerson, dem Johnes r des Vaters Johns, zugleich dem
+Beclerson, dem Jahres r des Vaters Johns, zugleich dem
 Brotherrn Margritt Mittags.
 
 Beclerson wohnte in einer Seitenstraße in der Nähe
@@ -2626,7 +2623,7 @@ in dem 44h wichtige Dokumente verwahre. Ich »habe Miß
 Murray vollstes Vertrauen »geschenkt, und …
 
 John stöhnte verzweifelt: »Margritt?! Auch da r Schlag
-noch für mich!?«
+noch für mich!!«
 
 »Rufen Sie sie …« sagte »Harst befehlend. »Hier muß
 Klarheit geschaffen werden …
