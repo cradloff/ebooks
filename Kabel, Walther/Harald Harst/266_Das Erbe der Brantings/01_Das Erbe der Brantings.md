@@ -19,7 +19,7 @@ dieses vorsintflutlichen Seglers verstaut, und es hieß Abschied
 nehmen.
 
 »Glauben Sie, daß es mir leicht wird, diesen Abstecher
-nach Nokotra zu machen und daheim das Weihnachtsfest
+nach Sokotra zu machen und daheim das Weihnachtsfest
 zu versäumen, lieber Lücke?!« meinte Harst begütigend.
 »Keineswegs! Ich bliebe wirklich lieber hier an Bord der
 Sussex mit all seinem Komfort eines schwimmenden Luxushotels,
@@ -42,7 +42,7 @@ Ihre heilen Knochen gratis für andere zu Markte tragen
 müssen!«
 
 Harald zuckte die Achseln. »Anlage!! Mich reizt Brantings
-Geschichte. Sie ist mit alltäglich, keinesfalls gefährlich,
+Geschichte. Sie ist nicht alltäglich, keinesfalls gefährlich,
 doch schwierig. — Schraut blickt mich wütend an …
 auch er weiß noch nichts. John Branting wünschte, daß ich
 selbst Schraut erst an Ort und Stelle einweihe. Und nun —
@@ -102,7 +102,7 @@ sich nur alle acht Wochen rasierte und sein Stoppelbart
 zur Zeit etwa sechs Wochen hinter sich hatte), daß die
 Kammer für die kühle Jane als Schlafraum hergerichtet
 wurde und daß John Branting mit Blix die eine Kajüte
-benutzen, wir und Sifu die andere, was nur möglich war,
+benutzten, wir und Sifu die andere, was nur möglich war,
 wenn wir drei dreietagig schliefen.
 
 Sifu, der entschieden Witz besaß, taufte die Barke sofort
@@ -151,7 +151,7 @@ Motor brachten uns schneller vorwärts. Wir Passagiere
 dösten in den neu gekauften Liegestühlen unter einem
 Sonnensegel träge vor uns hin. Ich las einen Roman, Jane
 <@pagebreak/>
-tat gar nichts, Harst und John spielten Schacht, und Sifu
+tat gar nichts, Harst und John spielten Schach, und Sifu
 versuchte einen Hai zu angeln.
 
 Vor der Nacht graute mir. Harst hatte zwar in weiser
@@ -551,7 +551,7 @@ jeden Sinn für Romantik geraubt. Wenn man über zwei
 Jahre in einem kleinen Zigarrenladen gestanden hat und die
 frechen, anzüglichen Reden des Matrosenvolkes hinnehmen
 mußte, wenn man in London dazu einen Großonkel hat, der
-ein sehr wohlhabender Mann, aber ein widerlichen Geizhals
+ein sehr wohlhabender Mann, aber ein widerlicher Geizhals
 ist, der seine einzigen Verwandten in Bombay ruhig
 hungern ließ, dann wird man unsäglich bitter und …
 schließlich gleichgültig. Ich glaube an keinen Schatz. Mein
@@ -639,7 +639,7 @@ Entschuldige, ich habe dich durch Margritts Erwähnung nicht
 kränken wollen …« Und zu uns gewandt: »Margritt Murray
 ist mit John heimlich verlobt, leider ganz aussichtslos,
 denn ihr Vater hinterließ ihr nur Schulden … Sie ist
-Stenotypistin bei dem Notar Leclerson, der den geheimnisvollen
+Stenotypistin bei dem Notar Beclerson, der den geheimnisvollen
 Brief in Verwahrung hatte.«
 
 Daß das Verhältnis zwischen den Geschwistern so schlecht
@@ -701,13 +701,13 @@ daß die Brantings seit vielen, vielen Jahren
 um einen Schatz kämpfen, der einen Wert von mehreren
 Millionen haben soll. — Damit Du die Dinge richtig
 würdigen kannst, muß ich etwas weiter ausholen. —
-Einer unserer Ihnen, ein gewisser Philipp Branting,
+Einer unserer Ahnen, ein gewisser Philipp Branting,
 war ein unsteter Abenteurer und trat ums Jahr 1670
 zum nestorianischen Christentum über, das heutzutage
 nur noch in kleinen Gemeinden in Asien, besonders
 Arabien, Persien und Indien besteht. Der Patriarch
 <@pagebreak/>
-der Nestorianer schickte ihm als Missionar und Abt des
+der Nestorianer schickte ihn als Missionar und Abt des
 auf der Insel damals noch vorhandenen Klosters nach Sokotra.
 Als der Scheich von Keschin, dem die Insel zu
 jener Zeit gehörte, die Christen durch Gewalt zum
@@ -745,7 +745,7 @@ Schatz zu finden, so rate ich Dir, unter anderem Namen
 oder heimlich in der Nähe des Hafenortes Galonsir
 zu landen. Das Kloster lag in der Nähe des Dorfes
 <@pagebreak/>
-Maharof, fünf Kilometer landeinwärts am Fuße steiler
+Maharef, fünf Kilometer landeinwärts am Fuße steiler
 Berge. Ich betone jedoch, daß bisher kein Branting
 die Inschrift des Pergaments richtig deuten konnte,
 und bevor Du nicht eine einwandfreie Deutung herausgeklügelt
@@ -783,7 +783,7 @@ Kaum hatte Harst die Wiedergabe dieses Briefes aus
 dem Gedächtnis beendet, als Jane auch schon erstaunt rief,
 — und sie gab nur meinen eigenen Empfindungen Ausdruck:
 
-»Mr. — Harst, ich bin verblüfft, wie tadellos Sie den
+»Mr. Harst, ich bin verblüfft, wie tadellos Sie den
 Inhalt des Schreibens meines Vaters behalten haben!«
 
 <@pagebreak/>
@@ -845,7 +845,7 @@ Harst,« fügte sie gespannt hinzu. »Was enthielt der Brief
 denn noch weiter?«
 
 »Das Pergament und einen Bericht Ihres Großvaters
-väterlicherseits über eine mißglückte Expedition nach Sokotra.
+väterlicherseits über eine mißglückte Expedition nach Sokotra
 …«
 
 »Und das Pergament, doch die Hauptsache? Sie sagten,
@@ -1061,7 +1061,7 @@ Auch die drei dienstfreien Araber waren Zeugen. Auch
 sie murrte und hätten Blix am liebsten aufgeknüpft.
 
 Blix fluchte jetzt sämtliche Register aufwärts und abwärts.
-Die gegen ihn gerichteten Beschuldigungen hatten ihm
+Die gegen ihn gerichteten Beschuldigungen hatten ihn
 in förmliche Raserei versetzt. Er beschimpfte Harst auf die
 unerhörteste Art, er nahm keinerlei Rücksicht darauf, daß
 eine junge Dame zugegen war, und erst Janes geringschätziges
@@ -1078,7 +1078,7 @@ neuen Schein-Ich verbergen.
 
 Dieser schmierige Kapitän und Besitzer einer noch schmierigeren,
 von Ungeziefer wimmelnden Barke kehrte jetzt das
-Heraus, was er einmal in besseren Zeiten gewesen war:
+heraus, was er einmal in besseren Zeiten gewesen war:
 Den gebildeten, taktvollen, kühl-beherrschten Europäer und
 Engländer.
 
@@ -1103,7 +1103,7 @@ jeden Gescheiterten kommen Stunden der Reue und Sehnsucht.
 Ich habe diese Gefühle durch Fusel weggeschwemmt.
 Was jetzt jedoch mir hier in Ihrer Gegenwart, die mich
 an mein Töchterchen unwillkürlich erinnerte — es mag nun
-in Ihrem Alter sein, —, zum Vorwurf gemacht wird, nehme
+in Ihrem Alter sein —, zum Vorwurf gemacht wird, nehme
 ich nicht ruhig hin. Verzeihen Sie mein unglaubliches Benehmen,
 Mr. Harst. Ich bitte in aller Form ab. Sie werden
 Beweise haben — Scheinbeweise, die mich belasten,
@@ -1113,7 +1113,7 @@ Ihnen feierlich …« (und Stimme, Haltung und Gesichtsausdruck
 imponierten geradezu), »daß ich mit alledem nichts
 zu schaffen habe, und daß ich seit jenem Unglück, das mein
 Dasein zerstörte, nie mehr auch nur die geringste Lumperei
-begangen, habe — nie mehr! Ich will noch hinzufügen,
+begangen habe — nie mehr! Ich will noch hinzufügen,
 daß …«
 
 Es war mir unbegreiflich, wie Harst, sonst ein so guter
@@ -1355,7 +1355,7 @@ nach dem Heck zu, wie ich bereits erwähnt habe. Zwischen
 dieser Tür und dem erhöhten Platz für das Steuer und dem
 Steuermann standen ein Kompaßstock, eine Ankerwinde und
 der hochgeklappte Deckel der Luke, durch die man zu dem
-Motor hinab gelangte. Die Luke war nach Abflauen des
+Motor hinabgelangte. Die Luke war nach Abflauen des
 Sturmes wieder geöffnet worden, damit die Gasolindünste
 einen besseren Abzug hätten.
 
@@ -1435,7 +1435,7 @@ Seine glühenden Augen ruhten haßerfüllt auf Jane.
 — Ich nahm die Waffe an mich, Harst band Blix doppelt und
 dreifach und sagte, als wir den Laderaum verließen: »Die
 Luke und die Türen werden wir durch Schlösser sichern …
-Hier ein Bord ist jemand, der mit Blix im Bunde ist.«
+Hier an Bord ist jemand, der mit Blix im Bunde ist.«
 
 Oben an Deck stand die Jammergestalt John Brantings
 <@pagebreak/>

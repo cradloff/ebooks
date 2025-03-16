@@ -416,7 +416,7 @@ Zeit bei David verraten zu können, war auch eins der vielen
 Rätsel, die nachher so einfache Erklärung fanden. — John
 Branting war natürlich sehr niedergeschlagen, Jane blieb
 unsichtbar, sie hatte sich in ihre Kammer zurückgezogen und
-kaum die Tränen zurückdrängen Können — Tränen der Wut.
+kaum die Tränen zurückdrängen können — Tränen der Wut.
 Ihr war es sicherlich noch nie passiert, daß ein Mann von
 ihrer Schönheiten absolut keine Notiz nahm wie dieser kleine
 David, der nun auf dem Achterdeck seines eleganten Kutters
@@ -608,13 +608,13 @@ In dem Moment wußte ich es.
 »Jane Branting,« sagte ich anstelle Harsts.
 
 Harald nickte. »Ganz recht, mein Alter … Wie bist
-du nun der Wahrheit nahe gekommen.«
+du nun der Wahrheit nahe gekommen?«
 
 »Wer sollte Janes Patronen taub gemacht haben?!«
 erklärte ich nur.
 
 David Davidson zerbiß seine Zigarre und schüttelte
-immer wieder den Schädel. »Unbegreiflich?! Jane Branting?!
+immer wieder den Schädel. »Unbegreiflich!! Jane Branting?!
 Wie merkten Sie das, Harst?«
 
 Der lächelte und sagte: »Die Zeit war zu kurz, Davidson.
@@ -635,7 +635,7 @@ Bilde.«
 
 »Aber ich!« — Harst und David schauten mich überrascht
 an. »Ja — im Bilde, denn ich habe Jane ein kleines
-Herzensgeheimnis entlockt, daß Tom Blaakpool heißt.«
+Herzensgeheimnis entlockt, das Tom Blaakpool heißt.«
 
 Da fuhr der biblische David wie von der Tarantel gestochen
 hoch. David in der Bibel tötete Goliath mit einer
@@ -843,7 +843,7 @@ Rauchen. Er betrachtete uns gleichmütig. — Wir befanden
 uns in dem »Rathause« von Galonsir, und der Stall war
 das frühere Gefängnis, das jetzt nur noch für solche Sträflinge
 vorbehalten war, deren Vergehen ausschließlich in
-das Justizbereich des Sultans fielen. Ob David uns unter
+den Justizbereich des Sultans fielen. Ob David uns unter
 den vorliegenden Umständen würde helfen können, war
 fraglich, denn die Beamten des Dicken hüteten sich, irgendeine
 Formalität zu verletzen. Wir wurden regelrecht im
@@ -1177,7 +1177,7 @@ echte Stücke davon, — ich bin selbst Münzensammler. Sultan
 Daschid von Sokotra ließ diese Goldmünzen mit dem behelmten
 Frauenkopf etwa im Jahre 1630 prägen. Das ist sehr
 lange her. Aber Sie, Mr. Beclerson, haben vor einem
-Jahr eine Seereise mit unbekannten Ziel gemacht, und
+Jahr eine Seereise mit unbekanntem Ziel gemacht, und
 das ist noch nicht lange her, Grablay konnte es noch feststellen,
 auch, daß Sie nach dieser Reise all Ihre Schulden
 bezahlten und sich fürstlich einrichteten. Diese Münze stammt
