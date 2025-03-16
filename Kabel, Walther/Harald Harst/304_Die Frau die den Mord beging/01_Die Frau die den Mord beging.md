@@ -140,7 +140,7 @@ unseren stämmigen Begleiter, der mehr nach einem
 reichgewordenen Schlächtermeister ausschaute, von hinten
 herum auszuhorchen.
 
-Das Thomas Whrig nicht Kaufmann war, erschien bereits
+Daß Thomas Whrig nicht Kaufmann war, erschien bereits
 erwiesen. Heringsgroßhändler in London üben sich kaum derart
 im Messerwerfen, wie unser »Freund« es zweifellos seit
 Jahren getan haben mußte.
@@ -295,9 +295,9 @@ Heringshändler besaß an Bord nicht eine einzige nähere
 Bekannte, die Damen gingen ihm noch geflissentlicher aus dem
 Wege wie die Herren. Whrig strahlte geradezu eine freche
 Lüsternheit aus, die sogar den übersättigten mondänen
-Weibern ersten Klasse unangenehm war. In seinen Blicken lag
+Weibern der ersten Klasse unangenehm war. In seinen Blicken lag
 etwas Gemeines, wenn er, angetan mit tadellosem Smoking,
-nach dem Abendessen in der Tür der Tanzdiele lehnte und
+nach dem Abendessen in der Tür der Tanzdiele lehnte und mit
 geblähten Nüstern und glitzernden stieren Schellfischaugen
 das Gewoge halb entkleideter »Damen« musterte und jenen
 undefinierbaren Duft heißer Frauenkörper in sich einsog.
@@ -310,7 +310,7 @@ sogar, daß man aus diesem windigen Oberst, der wahrscheinlich
 den Titel einer Zulukaffernrepublik verdankt, einen leidlich
 anständigen Menschen zurechtkneten könnte. Wäre er ein
 hartgesottener Schurke, dann hätte er sich niemals in dem
-Maße darüber entrüstet, das Whrig dem Bettler beinahe die
+Maße darüber entrüstet, daß Whrig dem Bettler beinahe die
 große Spicknadel in die Kehle gejagt hätte. Du warst nicht
 zugegen, mein Alter, als die beiden sich zum ersten Male —
 Whrig kam ja wie wir in Genua an Bord — gegenübertraten und
@@ -318,7 +318,7 @@ sich erkannten. Die Veränderung in Whrigs Zügen war
 scheußlich, der dicke Kerl glich einem Delinquenten, der den
 Henker sieht. Mithin fürchtet er Steeps, und Furcht und Haß
 sind allernächste Verwandte. Wenn hier nun eine Frau diese
-Kabine verließ, beweist das nur, das Whrig doch unter dem
+Kabine verließ, beweist das nur, daß Whrig doch unter dem
 weiblichen Personal eine sehr intime Bekanntschaft hat. Ein
 Whrig kann sich nicht als Frau verkleiden, schon die
 Plattfüße würden ihn verraten, nicht einmal eine
@@ -502,7 +502,7 @@ ausgesprochen hatte …«
 
 »Mit der kleinen Jefferson, sie war natürlich die Dame, die
 der Steward sah und nicht erkannte, — wir werden sie nachher
-mal etwas ausfragen. Sie vorließ also die Kabine, die Sache
+mal etwas ausfragen. Sie verließ also die Kabine, die Sache
 klappte zum Glück jedoch nur halb, die Patrone taugte
 nichts, und Steeps wird hoffentlich mit dem Leben
 davonkommen. — So, unsere Tätigkeit hier wäre beendigt.  Ich
@@ -639,7 +639,7 @@ Marry Jeffersons rot getuschtes Mündchen blieb eine ganze
 Weile weit offen, ihre Blicke verrieten alles andere als
 Freude, und als schließlich über diese vollen, sinnlichen
 Lippen ein einzelnes Wort schlüpfte, war es nicht das, was
-wir er erwartet hatten.
+wir erwartet hatten.
 
 »Schrecklich!!«, stieß Marry hervor. Ihre Miene unterstrich
 noch diesen Ausdruck, und ihre Angst vor uns hätte etwas
@@ -1059,7 +1059,7 @@ zurück, und …«
 Der Steward klopfte, trat ein. Harst hatte sich wieder
 gesetzt, ich behielt die Fenster im Auge. Harsts Andeutungen
 über die »bewußte« Sache hatte ich nicht verstanden, reimte
-mir jedoch unschwer zusammen, das Thomas Whrig irgendwie mit
+mir jedoch unschwer zusammen, daß Thomas Whrig irgendwie mit
 den Dingen zu tun hätte, die auf Manibar geschehen sein
 mußten und die unseren Freund Percy Gollon zu dem Telegramme
 an uns veranlaßt hatten. Gewiß, es war dies meinerseits eine
@@ -1094,7 +1094,7 @@ schnappte.
 Harst lächelte amüsiert und knipste sein Zigarettenetui auf.
 »Nun, Mr. Whrig, Sie wollten doch den Kapitän oder den
 ersten Offizier rufen lassen … Sie können überzeugt sein,
-daß hier an Bord der »Britannia« noch mehr Handschellen und
+daß es an Bord der »Britannia« noch mehr Handschellen und
 Fußeisen und Ketten gibt. Steward, erfüllen Sie Mr. Whrigs
 sehnlichsten Wunsch und melden Sie dem Kapitän, daß hier in
 dieser Kabine abermals jemand beim Pistolensäubern beinahe

@@ -238,7 +238,7 @@ nicht zu verraten. Ropsal war mit Lord Barrington, Vater
 Frau Madges, befreundet gewesen, und unsere Bekanntschaft
 mit ihm datierte von Madges Hochzeit her.
 
-Auf Harsts klopfen öffnete sich die Salontür sofort, und Sir
+Auf Harsts Klopfen öffnete sich die Salontür sofort, und Sir
 Ropsal, völlig angekleidet, ließ uns mit geheimnisvoller
 Miene eintreten, schloß die Tür, drückte uns die Hand und
 sagte gedämpft: »Ich habe Ihren Zettel erhalten, Mr. Harst,
@@ -483,7 +483,7 @@ kann am besten meine Angaben bestätigen.«
 
 <h2>3. Kapitel.</h2>
 
-<h3>Wer war es?.</h3>
+<h3>Wer war es?</h3>
 
 Bevor Steeps, der doch ein wenig erschöpft war, uns einen
 Überblick über die Tragik seines Daseins gab, hatte Harst
@@ -503,7 +503,7 @@ unbefugten Waffenbesitzes, zumal die Polizei mir längst der
 … Gebetbücher wegen auf den Fersen war, für ein Jahr nach
 Dartmoor zu kommen und wurde erst vor vier Wochen vorzeitig
 begnadigt. Ich lag in Dartmoor zwei Nächte in einer
-Doppelzelle, und da Harras wußte, das ich sehr bald
+Doppelzelle, und da Harras wußte, daß ich sehr bald
 entlassen werden würde, suchte er mich zu bewegen, für seine
 Flucht alle nötigen Vorbereitungen zu treffen. Er erging
 sich in dunklen Andeutungen über eine Insel im Roten Meer,
@@ -517,7 +517,7 @@ Person Whrigs wiedererkannte, wurde mir sofort klar, daß
 jener Tom Harras mit seinen phantastischen Märchen bei
 Busley ein willigeres Ohr gefunden hatte, daß beide
 entflohen waren und daß in dem Sumpfloch in  Wahrheit die
-beiden anderen als Flüchtlings gemeldeten Sträflinge
+beiden anderen als Flüchtlinge gemeldeten Sträflinge
 steckten. Busley-Whrig bat mich, ihn nicht zu verraten, ich
 hatte ja auch keinen Grund dazu und mußte froh sein, daß der
 Detektiv Burns mich in Ruhe ließ, den Whrig gleichfalls für
@@ -542,7 +542,7 @@ Nachlaß hat mir seine Tochter dem Testament gemäß eine
 riesige Aquarellskizze ausgehändigt, die ich jetzt nach
 Beendigung meines Urlaubes mit nach Aden nehme, — dort steht
 das Zinkfutteral, das Bild ist zwei Meter breit und
-anderthalb Meter hoch und eine Jagdszene vor: Tigerjagd mit
+anderthalb Meter hoch und stellt eine Jagdszene vor: Tigerjagd mit
 Elefanten, — also ein sehr abgenutztes Motiv. Trotzdem werde
 ich dieses Vermächtnis meines Freundes in Ehren halten und
 es einrahmen lassen, — — nun, Harst, sind Sie begierig auf
@@ -815,7 +815,7 @@ Auffassung der Vorgänge, der Harst mit trockenem Humor
 widersprach. »Sie stolperten, Shnout … über zwei leere
 Whiskyflaschen, und der Kerl mit dem Lappen, Shnout, würde
 Ihren Dickschädel verschont haben, wenn nicht draußen im
-Kabinengang ein Steward erschienen wäre, der den fremden
+Kabinengang ein Steward erschienen wäre, der den Fremden
 zwang, eiligst wieder in die Kabine zu schlüpfen. So kam Ihr
 Unfall zustande, nur so …«
 
@@ -926,7 +926,7 @@ erstklassig sein, und, selbst was den Parfümgeruch betraf,
 versagte meine sonst erstklassige Polizeihundnase
 vollständig.
 
-Der Abend kam, — Tom Harras’ Leiche wurde in aller stille ins
+Der Abend kam, — Tom Harras’ Leiche wurde in aller Stille ins
 Meer versenkt, und die »Britannia« schlängelte sich später
 im Mondschein mit halber Kraft durch die Korallenriffe und
 die zerklüfteten Eilande, stoppte, setzte einen Kutter aus,
@@ -944,7 +944,7 @@ Nordklippe bleiben … Ich muß Magda sprechen, falls sie« —
 er schwieg eine Weile — »falls sie den Haifischen entgeht …«
 
 Wie es um diese Meereshyänen um die Inselgruppen der
-arabischen Seite des Roten Moores bestellt ist, habe ich
+arabischen Seite des Roten Meeres bestellt ist, habe ich
 bereits in der »Versiegelten Insel« erwähnt. Gewiß, die
 großen Arten der Haie sind hier selten, trotzdem kann auch
 schon ein Bursche von zwei Meter Länge einem Schwimmer
