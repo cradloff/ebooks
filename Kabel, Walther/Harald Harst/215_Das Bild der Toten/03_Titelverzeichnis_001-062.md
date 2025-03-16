@@ -6,7 +6,7 @@
 <tr><td style="width:50%">1. Zwei Taschentücher.  </td><td style="width:50%">32. Der sprechende Kopf.</td></tr>
 <tr><td>2. Das Geheimnis des Szentowo-Sees.       </td><td>33. Das Geheimnis des Scheiterhaufens.</td></tr>
 <tr><td>3. Der Mord i. Sonnenschein.              </td><td>34. Die Gefangene von Trawalkor.</td></tr>
-<tr><td>4. Die Jagd auf einen Namen.              </td><td>35. Die Eishöle in Nepal.</td></tr>
+<tr><td>4. Die Jagd auf einen Namen.              </td><td>35. Die Eishöhle in Nepal.</td></tr>
 <tr><td>5. Liu Sings Geheimnis.                   </td><td>36. Der Mord im Warenhause.</td></tr>
 <tr><td>6. Der Tigerwagen.                        </td><td>37. Der Spielklub W. W.</td></tr>
 <tr><td>7. Ruine Blinkenstein.                    </td><td>38. Ein gefährlicher Auftrag.</td></tr>
