@@ -1482,20 +1482,20 @@ Auch Harst war sprachlos,
 <h2>1. Kapitel.</h2>
 <h3>Zwei Kreuze.</h3>
 
-»Gehen Sie jetzt nach Hause, Fräulein Zinner, grüße
-Sie Ihre Eltern und Ihren Verlobten und bestellen Bär
+»Gehen Sie jetzt nach Hause, Fräulein Zinner, grüßen
+Sie Ihre Eltern und Ihren Verlobten und bestellen Sie
 Ihrem Vater, daß ich leider falsch unterrichtet war. Sie
 sind ja gar nicht verhaftet worden. Das freut mich«
 
 Das junge Mädchen starrte uns hilflos an. Sie war
 zweifellos sehr hübsch, eine weiche, zarte Schönheit zeichnete
-sie aus, nur kam diese unter dem alten Hut, dem Dürren
+sie aus, nur kam diese unter dem alten Hut, dem wirren
 Haar und einem mottenzerfressenen Pelzkragen hier kaum
 zur Geltung.
 
 Gepp fuhr herzlich fort: »Um Remmele brauchen Sie sich
 nicht weiter zu kümmern … das besorge ich schon. — Wie
-siebt er denn aus?«
+sieht er denn aus?«
 
 Sie war so verschüchtert, daß sie Gepp nicht verstand.
 »Wie Sam aussieht? Ob — er ist …«
@@ -1504,14 +1504,14 @@ Ihre Augen leuchteten zärtlich auf.
 
 »Nicht Sam, sondern Tobias,« lachte Gepp.
 
-»Ich — der, — der sieht jeden Tag anders aus …-
+»Ach — der, — der sieht jeden Tag anders aus …
 Und es ist mir nie gelungen, ihm zu folgen oder sonst etwas
 Wichtiges zu beobachten …«
 
-Harst fragte vielleicht noch herzlicher: »Liebes Fräulein.
+Harst fragte vielleicht noch herzlicher: »Liebes Fräulein,
 wann verschwand denn das Aktenstück?«
 
-»Ich weiß es nicht … Es mag seiner Monate her
+»Ich weiß es nicht … Es mag zwei Monate her
 <@pagebreak/>
 sein … Der Papa ist nur froh, daß der Herr sich nicht
 Mehr gemeldet hat.«
@@ -1524,44 +1524,44 @@ Mehr gemeldet hat.«
 
 »Ich … ich glaube … Alfred Lory oder so ähnlich …
 Nein, nicht Lory, sondern Loring, ich besinne mich, daß ich
-immer an Fortging dachte, an den Komponisten von »Gar und
+immer an Lortzing dachte, an den Komponisten von »Zar und
 Zimmermann« …«
 
-Gepp zupfte Harst am Formel. »Wir fallen auf …
-Leben Sie wohl. Fräulein Zinner …«
+Gepp zupfte Harst am Ärmel. »Wir fallen auf …
+Leben Sie wohl, Fräulein Zinner …«
 
-Wir schauten ihr nach, wie sie sich scheu durch das?
+Wir schauten ihr nach, wie sie sich scheu durch das
 Menschengewühl der Mittagsstunde mit ihrem Körben voller
 Papierblumen den Weg bahnte.
 
-Gepp verabschiedete sie, denn wir mußten zu Tisch.
+Gepp verabschiedete sich, denn wir mußten zu Tisch.
 Mathilde hatte uns dringend gebeten, um zwei daheim zu
 sein, es gäbe Fisch …
 
 »Sie ziehen also Aal grün dem Tobias vor,« meinte
 Gepp ironisch. »Ich nicht … Grüß Gott, Kinder … Fortan
-heißt alle die Parole: Getrennt kämpfen, vereint siegen!«
+heißt also die Parole: Getrennt kämpfen, vereint siegen!«
 
 Er sprang schon die Stufen des Eckhauses empor …
 
-Harst faßte mich unter. »Lieber Alter, im? will mir noch
+Harst faßte mich unter. »Lieber Alter, ich will mir noch
 schnell eine Herzflasche kaufen … Drüben ist ja eine Filiale
 der Firma Pech.«
 
-»Brieftasche?! Du meins! wohl Likör?«
+»Herzflasche?! Du meinst wohl Likör?«
 
-Er … zog mich mit sich, und er kaufte wirklich zwei sogenannte
-Herzsflas)en, das sind flache, gewölbte Blechflaschen,
-in die man Eisstüfhgen hineintut und die bei Herzleiden
+Er zog mich mit sich, und er kaufte wirklich zwei sogenannte
+Herzflaschen, das sind flache, gewölbte Blechflaschen,
+in die man Eisstückchen hineintut und die bei Herzleiden
 an einer Schnur um den Hals getragen werden.
 
 Wir fuhren nach Hause. Im Auto verlangte ich energisch
 Aufschluß. »Was sollen die Dinger, Harald?!«
 
-»als stehen sehr große Aufregungen bevor,« meinte er
+»Uns stehen sehr große Aufregungen bevor,« meinte er
 durchaus ernst. »Da ist es besser, wir tragen die Flaschen
-unter dem Hemd, die Kälte beruhigt, und die Anti-Sprache.-
-G. wird uns wirklich viel zu schaffen machen.«
+unter dem Hemd, die Kälte beruhigt, und die Anti-Kareck-A.-G.
+wird uns wirklich viel zu schaffen machen.«
 
 <@pagebreak/>
 Auf weitere Erörterungen ging er nicht ein.
@@ -1572,42 +1572,42 @@ genug, Missu Harst … Es ist geglückt.«
 
 »Na, und wo blieb er?«
 
-Ich stand wieder mal als Attrappe dabei …
+Ich stand wieder mal als Attrappe dabei.
 
-»ob, ich mußte mächtig treten … Es fuhr sich sehr
+»oh, ich mußte mächtig treten … Es fuhr sich sehr
 schwer in dem Schnee, der ganz naß war von dem Salz
 der Straßenbahn … Das Auto jagte nur so davon.« Sifu
-sachte. »Und wo es hielt, Missu Harst, raten Sie.,«!
+lachte. »Und wo es hielt, Missu Harst, raten Sie .,.!
 Drüben am schwarzen Weg jenseits der Laubenkolonien …
 Und der Fensterputzer stieg nicht aus, sondern ein buckliger
 Mann … Die Leiter ließ er im Auto. Er ging dann in die
 Kolonie Feierabend hinein und gleich links in die vierte
 Laube, und er kam nicht wieder heraus. Ich war sehr vorsichtig
-… « « Niemand hat mich beachtet. Ich hatte den großen
+… Niemand hat mich beachtet. Ich hatte den großen
 leeren Pappkarton auf dem Rücken … ganz wie Sie befohlen
-hatten, und nachts die Müßte mit dem Schild hatte ich
-auf …
+hatten, und auch die Mütze mit dem Schild hatte ich
+auf …"
 
 Sifu blähte sich vor Stolz,
 
-Ich war jetzt im Bilde: Harst hatte Sifu als Spion! vor
+Ich war jetzt im Bilde: Harst hatte Sifu als Spion vor
 Zinners Haus bestellt, und Sifu hatte den Fensterputzer mit
-viel Geschickt »beschattet«.
+viel Geschick »beschattet«.
 
 »Dafür schenke ich dir fünfzig Mark, Junge!« — und
 Harst drückte ihm die Hand. »Die eilige Flucht des Fensterputzers
-fiel dir natürlich auf … Fahrt du noch etwas?«
+fiel dir natürlich auf … Sahst du noch etwas?«
 
 Sifu, Kind eines der gerissensten Völker des Erdenrunds,
-hatte ein so typisch; chinesisches Gesicht, daß er närgends
-ohne Maskierung als Berliner Botenjunge bitte gelten
+hatte ein so typisch chinesisches Gesicht, daß er nirgends
+ohne Maskierung als Berliner Botenjunge hätte gelten
 können. Am verräterischsten war seine Augenpartie, und ich
-begriff nun auch, weshalb aus seiner Brusttasche ein Beil. mittlerer
-herausragte, das ich sehr gut kannte, Es gehörte mir
+begriff nun auch, weshalb aus seiner Brusttasche ein Brillenfutteral
+herausragte, das ich sehr gut kannte. Es gehörte mir
 und enthielt meine blaue große Sonnenschutzbrille.
 
 Sifu hatte ein ewiges unmerkliches Lächeln um die
-Lippen. Seit er bei un? war, hatte er sehr an Körpergewicht
+Lippen. Seit er bei uns war, hatte er sehr an Körpergewicht
 <@pagebreak/>
 zugenommen, und seine Kräfte und Gelenkigkeit standen in
 bestem Verhältnis zu seiner Schlauheit und Waghalsigkeit. Er
@@ -1615,92 +1615,92 @@ nickte leicht. »Ich sah etwas, Missu Harst … Der Mann,
 der sich im Auto umgezogen und den blonden Bart gegen
 einen dunklen vertauscht hatte, hinkte leicht. Er schleppte den
 linken Fuß etwas nach. Außerdem …« — er liebte die
-Kunstpausen wie jeder erfahrene Erzähler — « « « « Außerdem
-hat das Haus des Missu Zinner eine Besonderheit. »Er
+Kunstpausen wie jeder erfahrene Erzähler — «... Außerdem
+hat das Haus des Missu Zinner eine Besonderheit.» Er
 grinste stärker … »Unten ist doch ein Laden im Keller mit
 Radiosachen … Als ihr beide eine Weile in dem Hause
 wart, leuchtete im Kellerfenster eine grüne elektrische Lampe
-auf, die auf einem Brett zusammen mit sechs anderen aufgebracht
+auf, die auf einem Brett zusammen mit sechs anderen angebracht
 war. Nach einer Weile wieder — es waren mindestens
 zehn Minuten — leuchtete noch eine gelbe Lampe
-auf. Schenke, das geschah Güterwagen, und es klang auch
+auf. Ich denke, das geschah euretwegen, und es kann auch
 eine Warnung für Leute gewesen sein, die Zinner besuchen
 wollten. Es kam nämlich eine Dame bis an das Kellerfenster,
-sie hatte es sehr eilig und trug einen Schleier, aber Bein
+sie hatte es sehr eilig und trug einen Schleier, aber Beim
 Anblick der Lampen machte sie wie erschrocken halt und
 kehrte um. Die Dame trug zwar einen anderen Pelz, aber
-es war da) Miß Kareck, bestimmt. Wen ich einmal genau
-betrachte. den erkenne ich schon an den Bewegungen wieder,
+es war doch Miß Kareck, bestimmt. Wen ich einmal genau
+betrachte, den erkenne ich schon an den Bewegungen wieder,
 und die Miß geht steif wie ein Storch und trägt den Kopf
-sehr naß rückwärts?.«
+sehr nach rückwärts.«
 
 Harst pfiff durch die Zähne.
 
 »Schau’ an …!! Das würde ja mit eine Erklärung für
-Zinners schlechtes Augenmaß sein«
+Zinners schlechtes Augenmaß sein!«
 
 … Eine Bemerkung, die ich nicht begriff, — nur eins
-hatte im von Harsts dunklen Worten bei Zinner nun verstanden:
-Bescheid er von »Säzlitzauge« geredet hatte. Damit
+hatte ich von Harsts dunklen Worten bei Zinner nun verstanden:
+Weshalb er von »Schlitzauge« geredet hatte. Damit
 war Sifu gemeint gewesen.
 
 Mathilde rief zu Tisch. Während der Mahlzeit war Harst
-ziemlich schweigsam, und im mußte Frau Harst Bericht
+ziemlich schweigsam, und ich mußte Frau Harst Bericht
 erstatten. Die alte Dame ist von jeher unsere Vertraute gewesen.
 Wir pflegen mit ihr alles zu besprechen, und nur
 <@pagebreak/>
-wenn ein Fall« irgendwie bedrohlichen wird, verschweigen wir
-die Gefahr, die wir für uns argwöhnen, denn es bliebe der
-würdigen Matrone noch angstwollere Stunden bereiten, als
+wenn ein Fall irgendwie bedrohlichen wird, verschweigen wir
+die Gefahr, die wir für uns argwöhnen, denn es hieße der
+würdigen Matrone noch angstvollere Stunden bereiten, als
 sie sie ohnedies durchzukämpfen hat, wollten wir restlos aufrichtig
-sein, Um so mehr wunderte es mich, daß Harald plötzlich
+sein. Um so mehr wunderte es mich, daß Harald plötzlich
 sagte, indem er ihre Hand leise streichelte:
 
-»Liebe Mama, ich möchte dich Erbitten, in den nächsten
-Sagen das Haus nicht zu verlassen und auch den Gärten
-nicht zu betreten. Ebenso werde ich Mathilde und Sifu zuweilen,
+»Liebe Mama, ich möchte dich bitten, in den nächsten
+Tagen das Haus nicht zu verlassen und auch den Garten
+nicht zu betreten. Ebenso werde ich Mathilde und Sifu anweisen,
 niemand, wer es auch sei, in das Haus zu lassen,
 ausgenommen natürlich einwandfrei bekannte Personen wie
 etwa Gepp und ähnliche. Besonders müssen wir gegenüber
-Gas« und Elektrizitätskassierern, die ja leider so häufig«
+Gas- und Elektrizitätskassierern, die ja leider so häufig
 wechseln, vorsichtig sein. Schraut hat dir ja den Fall Kareck
-soeben vorgetragen. Du warst entsetzt, das; hinan den verstorbenen
+soeben vorgetragen. Du warst entsetzt, daß man den verstorbenen
 Großindustriellen so zahlloser Morde verdächtigt.
 Schraut vergaß, die Hauptsache zu erwähnen: Auch wir sind
 gewarnt worden. Die drei Krähen, mögen sie nun Gift gefressen
-haben oder nicht, hingen unbedingt mit diesen gefährlichen
+haben oder nicht, hängen unbedingt mit diesen gefährlichen
 Dingen eng zusammen. Nicht wahr, du erfüllt mir
-meine Bitte, du zeigst dich auch am besten nicht am Fenster«:
+meine Bitte, du zeigst dich auch am besten nicht am Fenster«
 
 Frau Harst blickte ihren großen Jungen lange an. »Harald,
 ich werde gehorchen … Steht es wirklich so schlimm?!«
 
-Er stocherte zerstreut mit dem Löffel in dem ReiSsauflaufß
+Er stocherte zerstreut mit dem Löffel in dem Reisauflauf
 herum, der Nachspeise.
 
-… »Schlimmer als irgend jemand ahnt —. Oder vielmehr:
-einer ahnt etwas und verkroch sich im Schreibtisch«
+»Schlimmer als irgend jemand ahnt — Oder vielmehr:
+einer ahnt etwas und verkroch sich im Schreibtisch!«
 
 »Hältst du etwa Zinner für Karecks Mitschuldigen?« fragte
 sie geradezu.
 
-»Rein.« Und ohne Übergang begann er von anderen…
+»Nein.« Und ohne Übergang begann er von anderen,
 harmloseren Dingen zu sprechen.
 
-Nach Tisch, es mochte drei Uhr sein, läutete Gepp an,
-Wir rauchten gerade bei Harst in den Klubsesseln die Verdauungsnikotinstengel,
-und ich war sanft eingeschlummert,
+Nach Tisch, es mochte drei Uhr sein, läutete Gepp an.
+Wir rauchten gerade bei Harst in den Klubsesseln die
+Verdauungsnikotinstengel, und ich war sanft eingeschlummert.
 Die Klingel der Fernstrippe weckte mich, Harst stand schon
 <@pagebreak/>
 mit dem Hörer am Schreibtisch, und ich lauschte seinen
-Worten mit wachsender Spannung. Dann hängte er ad,
+Worten mit wachsender Spannung. Dann hängte er ab,
 setzte sich und schaltete die Ständerlampe ein. Draußen
 schneite es sanft, und die frühe Dunkelheit nahte.
 
 »Gepp meldete, daß Herr Tobias Remmele heute früh
 abgereist ist, unbekannt wohin. Er hatte dort am Potsdamer
-Erz zwei Zimmer mit Flureingang. und war. als Kaufmann
-aus Merseburg gemeldet, Natürlich gibt es in Merseburg
+Eck zwei Zimmer mit Flureingang, und war als Kaufmann
+aus Merseburg gemeldet. Natürlich gibt es in Merseburg
 keinen Remmele, und Gepp hätte sich die Anfrage sparen
 können. — Zweitens: Der Herr, der heute hier als Doktor
 Heinz Seefeld den Karton abholte, war nicht Doktor Seefeld,
@@ -1708,18 +1708,19 @@ sondern ein Mensch mit einem gefälschten Ausweis. Seefeld
 selbst ist noch nicht wieder aufgetaucht. — Drittens: Frau
 Elvira Zinner ist tot.«
 
-So ließ die Zigarre vor Schnee fallen.
-… Sie starb auf der Straße, zehn Schritt von ihrem
+Ich ließ die Zigarre vor Schreck fallen.
+
+"… Sie starb auf der Straße, zehn Schritt von ihrem
 Hause entfernt, an Herzschlag …«
 
 Ich hob meine Zigarre auf und meinte ganz benommen:
-»Auch Totschläger
+»Auch Herzschlag?"
 
-»30 … Die Anti-Kareck-A.-G. ist sehr fuhr?«, — Gepp
-Ft wie vor den Kopf geschlagen, — Zinner rief ihn an »Schlepp
-Haar dort, der Doktor soll halb irre sein … Erweichen.!«
+»Ja … Die Anti-Kareck-A.-G. ist sehr rührig ... Gepp
+ist wie vor den Kopf geschlagen. — Zinner rief ihn an. Gepp
+war dort, der Doktor soll halb irre sein … Arme Helene!«
 
-»Und … noch etwas?« Die Zigarre schwante nur naht
+»Und … noch etwas?« Die Zigarre schmeckte mir nicht
 mehr, ich legte sie weg.
 
 »Noch etwas, ja … Ich hatte Sifu zu dem Fensterputzer
@@ -1727,132 +1728,131 @@ Geschickt, gleich nach Tisch.«
 
 »In die Kolonie Feierabend?«
 
-»Ja … « — Du schliefst sehr schön, mein Alter. Sifu war
-Hier im Zimmer. Er kann sehr leise sein. Ich? hatte ihm befohlen,
+»Ja … Du schliefst sehr schön, mein Alter. Sifu war
+Hier im Zimmer. Er kann sehr leise sein. Ich hatte ihm befohlen,
 durch die Kolonie Kolberg, die an Feierabend grenzt,
-sich an Ne Rückseite der vierten’ Laube anzupirschen. Er
+sich an die Rückseite der vierten Laube anzupirschen. Er
 sollte lediglich feststellen, ob der Fensterputzer etwa die Laube
 von hinten über Kolberg wieder verlassen hat. Er fand frische
 Spuren im Schnee. Der Mann ist also sehr bald wieder
-weggegangen — von hinken. Die. Laube vier linker Hand ist
+weggegangen — von hinten. Die Laube vier linker Hand ist
 <@pagebreak/>
-eine der halbmassiven Winterlauben, in denen dort so Ziele
-Leute wohnen. Sie soll sehr hübsch sein, sagte Sifu, oder
-es sind zwei Hunde da, und das ist störend. »Ich werde jetzt
-unser Postamt anrufen und fragen, wer dort haust, Stearin
-Ort weiß ich bereits: Die Laube sei unlängst in anderen
+eine der halbmassiven Winterlauben, in denen dort so viele
+Leute wohnen. Sie soll sehr hübsch sein, sagte Sifu, aber
+es sind zwei Hunde da, und das ist störend. Ich werde jetzt
+unser Postamt anrufen und fragen, wer dort haust. Diese
+Antwort weiß ich bereits: Die Laube sei unlängst in anderen
 Besitz übergegangen, und der neue Bewohner erhielte keine
 Briefe.«
 
-Er stand auf, schaltete rasch die Lampe aus, ging uns
+Er stand auf, schaltete rasch die Lampe aus, ging und
 schloß die Eisenläden der beiden Fenster und drehte dann erst
 die Deckenbeleuchtung an und telephonierte. Er sprach mit dem
 Postschaffner, der jenen Bezirk bestellte, persönlich, und die
-Antwort lautete, wie er es vermutet hatte, Die Laube war
+Antwort lautete, wie er es vermutet hatte. Die Laube war
 verkauft worden, der neue Besitzer sei ein älterer Mann, ein
 pensionierter Beamter von auswärts … Name unbekannt.
 
 »Wir haben vor Gepp etwas voraus,« sagte Harst und
 nahm wieder Platz. »Gepp jagt Remmele nach, und wir wissen,
-wo Remmele steckt: Laube vier?!«
+wo Remmele steckt: Laube vier!«
 
-»las hatte ich mir auch schon gedacht, daß es Remmele
-sei …« Ich sonst die Wahrheit. Manchmal schwindele ich
-auch. »Remmele ist Harsts Mörder,« fügte ich vorsichtiger
+»Das hatte ich mir auch schon gedacht, daß es Remmele
+sei …« Ich sprach die Wahrheit. Manchmal schwindele ich
+auch. »Remmele ist Karecks Mörder,« fügte ich vorsichtiger
 hinzu. »Remmele hat die Päckchen geschickt, Remmele sandte
 Gepp zum Hohn den Papagei, und Armin Zinner vergeht
 vor Todesangst.«
 
-»Der letzte Saß ist der einzig richtige, lieber Alter …«
+»Der letzte Satz ist der einzig richtige, lieber Alter …«
 — Harsts Stimme klang sehr geistesabwesend,
 
-Es klopfte, und Sifu erschien mit den beiden erschlagenen.
-»Ich habe sie mit EisstüFh&zen gefüllt, Missu Harst, und
-wieder zugeschraubt … « — Er grinste dazu infam, er hielt
+Es klopfte, und Sifu erschien mit den beiden Herzflaschen.
+»Ich habe sie mit Eisstückchen gefüllt, Missu Harst, und
+wieder zugeschraubt …« — Er grinste dazu infam, er hielt
 uns offenbar für übergeschnappt, derartige Dinger auf der
 Brust zu tragen.
 
 »Lege sie in mein Schlafzimmer an das offene Fenster.«
-Und als Sifu wieder eintrat: »Hole vom Kleister drei Pfund
-Schachtel … Hier hast du Geld …«
+Und als Sifu wieder eintrat: »Hole vom Fleischer drei Pfund
+Gehacktes … Hier hast du Geld …«
 
 Sifu verschwand,
 
-»Hunde fressen das am liebsten. mein Alter …«
+»Hunde fressen das am liebsten, mein Alter …«
 
 <@pagebreak/>
 Ich wußte, welche Hunde er meinte,
 
-»Wann willst du Remmele deine Antrittsvisite abstatten
-2«
+»Wann willst du Remmele deine Antrittsvisite abstatten?«
 
-»Sehr bald … Es muß noch dunkler werden. Dem.
-Wetterbericht nachts wird auch der Schneefall zunehmen. —
-Ich frische nur wissen, wo Doktor Heinz Seefeld steckt …«
-Das Wette jagte er in so eigentümlichem Ton, daß ich aufmerksam
-wurde« Ich mochte « nicht voreilige Fragen stellen
+»Sehr bald … Es muß noch dunkler werden. Dem
+Wetterbericht nach wird auch der Schneefall zunehmen. —
+Ich möchte nur wissen, wo Doktor Heinz Seefeld steckt …«
+Das Letzte sagte er in so eigentümlichem Ton, daß ich aufmerksam
+wurde. Ich mochte nicht voreilige Fragen stellen
 und überlegte mir, ob Harst etwa auch gegen diesen Herrn,
-der er Anwärter war, Verdacht hegte. Wenn »Remmele«
-nicht.;t der Mörder sein sollte, hatte ich peng die Auswahl
-knien en Zinner, Sam Barger und … ja vielleicht jenem
-Pferd Lot … 4, der mit Zinner wegen des Patents 100&nbsp;832
-v«. handelt Watte und … aus verschwunden war. Eine
-setz. sehr dunkle Geschichte …! Sollte ich nun noch Doktor
+der erst Anwärter war, Verdacht hegte. Wenn »Remmele«
+nicht der Mörder sein sollte, hatte ich noch die Auswahl
+zwischen Zinner, Sam Barger und … ja vielleicht jenem
+Alfred Loring, der mit Zinner wegen des Patents 100&nbsp;832
+verhandelt hatte und … auch verschwunden war. Eine
+sehr, sehr dunkle Geschichte …! Sollte ich nun noch Doktor
 Heinz Seefeld einreihen?!
 
 »Glaubst du, daß die A.-G. Seefeld geschnappt hat?« —
 ich begnügte mich mit dieser Frage,
 
-»Rein, ich kenne nur Gepps Taktik, mein Alter.« Er
-Schmunzelte. »Ich mag mich irren, gewiß, aber … fiel dir zum
-Hain Sprecher nichts auf?«
+»Nein, ich kenne nur Gepps Taktik, mein Alter.« Er
+Schmunzelte. »Ich mag mich irren, gewiß, aber … fiel dir an
+Sam Barger nichts auf?«
 
 »Er sprach fließend deutsch …«
 
-»It, und wie alt schätztest du ihn?«
+»Ja, und wie alt schätztest du ihn?«
 
-» »ärmer zu Jagen … Vielleicht Ende zwanzig.«
+»Schwer zu sagen … Vielleicht Ende zwanzig.«
 
-»ins setzte Ringe?«
+»Und seine Ringe?«
 
-»Ringer!«
+»Ringe?!«
 
-»30 … — — Gepp sprach über den ihm zugeteilten Seefeld
-sah wegwerfend. — Ich y1v« im Adreßbuch nachgesehen.
-Es so: Tür einen Doktor juris Heinz Garn von Seefeld,
-es bB 48 kleine. Seefeld« sein, und Sam Bergen trug
-einen Wappenring am Finger von ganz alter Form. Ersteigen
-4x ist schicke z03ppertringe Natürliches mußte einangebliuv:
-uralten Seefeld den Karton hier abgeholt haben, da
-Der sagte als Barger seinen Schwiegervater besuchen mußte.
-Ja, Marsch Gepp ist sehr scharf hinter Kareck hergewesen,
+»Ja … Gepp sprach über den ihm zugeteilten Seefeld
+sehr wegwerfend. — Ich habe im Adreßbuch nachgesehen.
+Es gibt nur einen Doktor juris Heinz Baron von Seefeld,
+es kann also Heinz Seefeld sein, und Sam Barger trug
+einen Wappenring am Finger von ganz alter Form. Engländer
+tragen keine Wappenringe Natürliches mußte ein angeblich
+unechter Seefeld den Karton hier abgeholt haben, da
+Der echte als Barger seinen Schwiegervater besuchen mußte.
+Ja, Alarich Gepp ist sehr scharf hinter Kareck hergewesen,
 <@pagebreak/>
 und seine Weiberfeindschaft wird wohl einen starken Stoß
 erhalten haben, als sein Gehilfe Seefeld sich so rasch in
 Helene verliebte, was durchaus verständlich ist.«
 
-Ich konnte hierzu nur mißbilligend äußern: »Weg hat
-
+Ich konnte hierzu nur mißbilligend äußern: »Also hat
 sich Seefeld-Barger als Spion in die Familie Zinner eingeschlichen!
-Ich finde das empörend, besonders diese Berlobungk
+Ich finde das empörend, besonders diese Verlobung!
 Wie wird das arme Mädel das hinnehmen?!«
-» Harst erwiderte erst nach einer Weile: »Wenn die Krivisnalpolizea
-auch nahm«; zartfühlend und nur vornehm vor
-gehen soll, würden noch mehr Verbrecher ungestraft umGerlaufen.
+
+Harst erwiderte erst nach einer Weile: »Wenn die Kriminalpolizei
+auch noch zartfühlend und nur vornehm vor-
+gehen soll, würden noch mehr Verbrecher ungestraft umherlaufen.
 Ich glaube, Helene weiß über »Sam Barger« genau
-Bescheid, nur eine weiß sie nicht, daß Seefeld Barger zunächst
+Bescheid, nur eins weiß sie nicht, daß Seefeld-Barger zunächst
 lediglich Interesse für Vater Zinner hatte …
 
 Er drückte seine Zigarette in der Aschenschale aus. »Es
-wird Zeit … Sifu ist mit Hacfleischg bereits da … «/«
+wird Zeit … Sifu ist mit Hackfleisch bereits da …«
 
 Auch ich hatte die Haustür zufallen hören.
 
-»Sifu?’ rief Harald,
+»Sifu?" rief Harald,
 
 Niemand meldete sich.
 
-Im Flur lag Sifu auf dem Läufer, neben ihm! das eingewickelte
+Im Flur lag Sifu auf dem Läufer, neben ihm das eingewickelte
 Fleisch und ein kleiner Karton. In dem Karton
 lag auf Holzwolle eine tote Feldmaus mit einem Zettel im
 Maul, auf den Zettel waren zwei Kreuze gemalt.
@@ -1862,161 +1862,161 @@ auch uns zum Tode verurteilt. Sie hat heute schon ein
 Urteil vollstreckt … Die tote Feldmaus Zinners bezog sich
 auf Elvira Zinner …«
 
-29, Kapitel,
+<h2>2. Kapitel.</h2>
 
-Sein Besuch
+<h3>Sein Besuch</h3>
+
 Sifu war von hinten niedergeschlagen worden, als er
 die Haustür kaum aufgeschlossen hatte. Zum Glück hatte er
 einen sehr dauerhaften Schädel, und nach einer Stunde
-war er schon wieder auf den Beinen. Von dem Angreifen
-Gatte er nichts gesehen und gehört. Eis schneite in so dickem
+war er schon wieder auf den Beinen. Von dem Angreifer
+hatte er nichts gesehen und gehört. Es schneite in so dicken
 <@pagebreak/>
-Finden, daß wir nur noch ein sehr schwache maßlose Fährte
+Flocken, daß wir nur noch ein sehr schwache nutzlose Fährte
 fanden. Mit am unangenehmsten war, daß der Fremde Sifu
 Die Schlüssel abgenommen hatte. Wir hatten an der Haustür,
 die innen dick gepanzert war, zwei Sicherheitsschlösser mit
-langen Stangenrltegeln.
+langen Stangenriegeln.
 
 Harst telephonierte sofort unseren Schlosser an. Wir beschäftigen
 stets dieselben Handwerker, und Meister Kanke versprach,
-unverzüglich zwei Gesellen zu schien, die andere
+unverzüglich zwei Gesellen zu schicken, die andere
 Schlösser anbringen würden.
 
-Unsere Stimmung war »etwas gedrückt, Frau Harst war.
+Unsere Stimmung war etwas gedrückt, Frau Harst war
 entsetzt, und unsere dicke Mathilde bewies ihr gutes Herz
-bei der Pflege Sitte,! den sie sonst nicht rede: leiden konnte,
+bei der Pflege Sifus, den sie sonst nicht recht leiden konnte.
 Er war ihr zu frech … Und sie war zu sehr Haustyrannin,
 die gute Seele.
 
 In dieser Stimmung war selbst Harst vorläufig alle
-Luft vergangen, Laube 4 von innen zu bewundern, außerdem
+Lust vergangen, Laube 4 von innen zu bewundern, außerdem
 wollten wir auch besser dabei sein, wenn die Gesellen
 Meister Kankes die Schlösser auswechselten. Wir saßen wieder
 in Haralds Arbeitszimmer, die Herzstärkung stand auf dem
-Wissen, und ich trank den dritten Kognak. Aber das
+Tischchen, und ich trank den dritten Kognak. Aber das
 flaue Gefühl um die Magengegend wollte nicht weichen.
 
 Harst war zweifellos nervös,
 
 Mit einem Male ging er in sein Schlafzimmer und
-holte die beiden BlecheiSbeutel, — Ich lehnte schaudernd ab.
-—» »Du wirst das Ding umhängen!« sagte er fast grob und
+holte die beiden Blecheisbeutel. — Ich lehnte schaudernd ab.
+— »Du wirst das Ding umhängen!« sagte er fast grob und
 deutete auf den Karton mit den Mäusen …
 
 Ich tat ihm den Gefallen. Ich trug zum ersten Male
 eine Herzflasche, aber ich hatte sie über das Unterhemd
 gehängt. Ein vierter Kognak beseitigte das Frostgefühl, — und
-den finster trank ich zusammen mit Gepp, der mit wahrer
+den fünften trank ich zusammen mit Gepp, der mit wahrer
 Leichenbittermiene erschienen war. »N’ Abend, Kinder …
-
 Ich werde weiße Haare bekommen …!« — Graue hatte er
 schon, er war wieder anders maskiert, und sein künstlicher
 Bauch war ebenso imponierend wie die dicke rote Nase. Er
-Betrachtete still die tote Maus und den Zettel. Harst »erzählte
+Betrachtete still die tote Maus und den Zettel. Harst erzählte
 <@pagebreak/>
-Sifus Mitgeteilt und fügte hinzu: »Ich möchte euch bitten,
+Sifus Mißgeschick und fügte hinzu: »Ich möchte euch bitten,
 eure Pistolen in die Jackentaschen zu stecken und zwar entsichert.
-Die A.-O. Gar etwas vor.«
+Die A.-G. hat etwas vor.«
 
 Gepp sagte: »Mein Gehrock hat keine Außentaschen, nur
-Flecke und weite Formel. — Was befürchten Sie?«
+Flecke und weite Ärmel. — Was befürchten Sie?«
 
-»So manches … Es war nicht Meister Kanke, mit eng
-ich am Telephon sprach man ahmte nur seine Stimme nach,
+»So manches … Es war nicht Meister Kanke, mit dem
+ich am Telephon sprach man ahmte nur seine Stimme nach.
 Unsere Leitung ist angezapft worden, und die A.-G. wird
-zwei Wwirekioren schien … Da — es läute! schön … —
-Halter Die fix im Hintergrund, Gepp. Es ist sicherer.«
+zwei Direktoren schicken … Da — es läutet schon …
+Halten Sie sich im Hintergrund, Gepp. Es ist sicherer.«
 
 Er ging öffnen und ließ Zwei Leute herein, die jeder eine
-groß- Ast Ehe In 9; 0 Du 7 4 He ins
+große Werkzeugkiste trugen.
 
-»Von Kanke,« sagte der eine. »F’ Abend, Herr Harst …
+»Von Kanke,« sagte der eine. »N’ Abend, Herr Harst …
 Dann dürfen wir wohl anfangen.«
 
-Es waren junge. kräftiger Burschen, — ich hätte sie unser
+Es waren junge, kräftige Burschen, — ich hätte sie unbedingt
 für harmlos gehalten.
 
-fanden wir an.« Mitte erst …
+"Ja, fangen wir an,« nickte Harst …
 
-Pistole redete eilte Irr:)auf verständliche Sofa
+Seine Pistole redete eine durchaus verständliche Sprache
 
-»Hände da!«
+»Hände hoch!«
 
-Die Langten zauderten. Gepp schob Harst Toilette …
+Die Burschen zauderten. Gepp schob Harst beiseite …
 
-»Kiel mal an, die Brüder Proviant?«!! Na, Ei; 49,
-hebt man lieber die öfteren tot … einer So Erle Arme
-ist zu lang. und meine Wodurch ij kurz.«
+»Kiek mal an, die Brüder Wroblewski!! Na, Kinder,
+hebt man lieber die Pfoten hoch … Euer Vorstrafenregister
+ist zu lang, und meine Geduld ist kurz.«
 
 Sie gehorchten …
 
-»Herr Kommissar.« meinte der ein? aHseizuaim, 315
-hab gleich nicht recht mitmachen wollen 3002 Uaitjenü Winter
-sind stille Feld, un? verwundert 13 1 angezahlt.«
+»Herr Kommissar,« meinte der eine achselzuckend, "ich
+hab' gleich nich' recht mitmachen wollen, aber tausend Mark
+sind ville Jeld, und dreihundert hat er angezahlt.«
 
-Gepp betastete ihre Taschen. Nur sie sagen keine Waffen
+Gepp betastete ihre Taschen. Aber sie hatten keine Waffen
 bei sich.
 
-an 19 mit-: Gepp »verstehe! Ihr seid ja von .-:?
-tat Ab 00 Dr finster stier neue Explosion ganz
-bringen für 12 euer Zastraggeoer zu; Einbringt hat —
-ein seiner Gedanke!! — Wer ist der reiche Mann …?
-Kommt Ader hier i13 Warme …«
+"So, so," nickte Gepp, »verstehe! Ihr seid ja von der
+Geldschrankknackergilde, ihr solltet hier neue Schlösser anbringen,
+für die euer Auftraggeber auch Schlüssel hat --
+ein feiner Gedanke!! — Wer ist der reiche Mann …?
+Kommt aber hier ins Warme …«
 
-Die Brüder Wroblewski benahmen sie sehr verständig.
+Die Brüder Wroblewski benahmen sich sehr verständig.
 <@pagebreak/>
 Gepp wußte mit ihnen umzugehen. »Schraut, einen Kognak
 für die armen Opfer eigener Dummheit! Sagt nur, wie
-konntet ihr euch nur hier zu Harst hineinwagen?! Eurer
-Dummheit lüftet mich geradezu. Wer war’s also?«
+konntet ihr euch nur hier zu Harst hineinwagen?! Eure
+Dummheit rührt mich geradezu. Wer war’s also?«
 
-Sie« kannten den Mann natürlich nicht. Er hatte sie« erst
-vor drei Stunden- in einer Kaschemme angeworben und
+Sie kannten den Mann natürlich nicht. Er hatte sie erst
+vor drei Stunden in einer Kaschemme angeworben und
 hatte sie für fünf Uhr hier in die Blücherstraße bestellt, wo
-sie Näheres stören würden.
+sie Näheres hören würden.
 
-Gepp trieb. ihnen, sich, auf zwei Stühle am Kamin zu
-setzen. Er winkte uns in eine Er.
+Gepp befahl ihnen, sich auf zwei Stühle am Kamin zu
+setzen. Er winkte uns in eine Ecke.
 
-»Hört mal, den Auftraggeber legen wir hinein …
+»Hört mal, den Auftraggeber legen wir hinein …"
 
-»Das wollte ich auch,« nicht Schacht. »Die Brücke Düster uns
-Schweigen verspreczden und die Schlösser auswechseln. Ein
+»Das wollte ich auch,« nickte Harst. »Die Brüder müssen uns
+Schweigen versprechen und die Schlösser auswechseln. Ein
 Versuch, den Mann zu fangen, wenn er den Wroblewskis
-den Rest des Geldes gibt. wäre zwecklos, der Herr Generaldirektor
+den Rest des Geldes gibt, wäre zwecklos, der Herr Generaldirektor
 der A.-G. ist zu schlau. Aber wenn die Brüder sich
 richtig benehmen, fangen wir ihn nachts … Er wird
 kommen.«
 
 »Und ob!« bekräftigte Gepp.
 
-» Sie Wroblewskis waren froh, auf diese Weise mit einem
+Die Wroblewskis waren froh, auf diese Weise mit einem
 blauen Auge davonzukommen, waren mit allem einverstanden,
 begannen ihre Arbeit und brauchten etwa eine Stunde, dann
 schoben sie ab. Harst hatte jedem noch eine Handvoll Zigarren
 geschenkt.
 
 Gepp hockte im Sessel wie eine alte Eule. »Kinder,
-das ist ein Kampf ’List gegen List, das macht Spaß! Ich beneide
-euch ordentlich um die Nachbar … Am liebsten bliebe
+das ist ein Kampf List gegen List, das macht Spaß! Ich beneide
+euch ordentlich um die Nacht … Am liebsten bliebe
 Ich hier, aber das würde der Generaldirektor merken. Muß
-das ahnt raffinierter Kunde sein! — Und nun, — was mich
-zu euch Gefährt hat … Der Tod der Elvira Zinner hat
+das ein raffinierter Kunde sein! — Und nun, — was mich
+zu euch Geführt hat … Der Tod der Elvira Zinner hat
 mich arg mitgenommen, der Tochter wegen … Die arme
-nette Helene hat ja kein? Ahnung …«
+nette Helene hat ja keine Ahnung …«
 
 Harst gähnte. »Ich denke, wir wollten getrennt kämpfen,
-Gepp. Paßbild reden Sie also?! Wir schwindeln uns ja
-doch nur gegenseitig an. Sie schien Ihren Baron Seefeld
+Gepp. Weshalb reden Sie also?! Wir schwindeln uns ja
+doch nur gegenseitig an. *Sie* schicken Ihren Baron Seefeld
 <@pagebreak/>
 als Sam Barger zu Zinners, und ich schicke meinen Sifu
 hinter dem Fensterputzer drein … Entweder volle Ehrlichkeit
 oder gar nichts.«
 
-Gepp schielte Hang! feixend an. »Also haben Sie’s doch
+Gepp schielte Harst feixend an. »Also haben Sie’s doch
 herausgefunden! Seefeld ist ein tüchtiger Kerl, nur daß
 er sich verlobt hat, nehme ich ihm übel. Nach zehnjähriger
-Ehe ist jede Frau ja doch nur nachts Frau, Mantels mehr
+Ehe ist jede Frau ja doch nur noch Frau, niemals mehr
 Geliebte, und dann ereifert sie sich, daß der Gänserich Seitensprünge
 macht! In der »Glocke« heißt es zwar, daß die
 Leidenschaft flieht, und die Liebe bleibt, ja — welche Liebe?!
@@ -2026,7 +2026,7 @@ wußte durch Seefeld natürlich schon gestern, daß ein Mann
 die Rosen in das Auto Karecks geworfen hat. Seefeld konnte
 den Kerl leider nicht erwischen.«
 
-»Trichter, denn es war der Mörder Karecks!«
+»Leider, denn es war der Mörder Karecks!«
 
 Wir starrten Harst wortlos an. Er wiederholte: »Es
 war der Mörder! Ich kenne ihn.«
@@ -2039,122 +2039,122 @@ Gepp goß sich rasch einen Kognak ein.
 
 »In dieser Nacht?«
 
-»IQ …«
+»Ja …«
 
-»Dann bin ich zufrieden. Profit.«
+»Dann bin ich zufrieden. Prosit.«
 
-»Nun erzählen Sie uns, was Sie über das Baten!
-Nr. 100832 wissen.«
+»Nun erzählen Sie uns, was Sie über das Patent
+Nr. 100&nbsp;832 wissen.«
 
 »Gern … — Es ist nicht viel. Ein gewisser Alfred
 Loring kam vor Wochen zu Zinner und tat sehr geheimnisvoll.
 Er wünschte eine neue Konstruktion eines Bildfunksenders
-sich patentieren zu lassen. Zinner legte ein Akten
-Stück mit der Nr. 100832 an, und nachdem Loring ihm
+sich patentieren zu lassen. Zinner legte ein Akten-
+Stück mit der Nr. 100&nbsp;832 an, und nachdem Loring ihm
 immer nur Teilzeichnungen der Erfindung vorgelegt hatte,
-wurde eines Rechts bei Zinner eingebrochen und nur gerade
+wurde eines Nachts bei Zinner eingebrochen und nur gerade
 das Aktenstück gestohlen. Loring, der nie seine Adresse angegeben
-hatte, ließ sich nicht mehr sehen, Zinner zeigte den
+hatte, ließ sich nicht mehr sehen. Zinner zeigte den
 <@pagebreak/>
-Einbruchs nicht an, hatte aber gegen jenen Tobias Remmele
+Einbruch nicht an, hatte aber gegen jenen Tobias Remmele
 Verdacht geschöpft, der ebenfalls eines Patents wegen
-verschiedentlich bei ihm gewesen war. Er ließ Besitzer Remmele
+verschiedentlich bei ihm gewesen war. Er ließ daher Remmele
 durch seine Tochter beobachten …«
 
-»Fall! Wie konnte das Mädel sich) dazu hergeben?«
+»Halt! Wie konnte das Mädel sich dazu hergeben?«
 
 Gepp zuckte die Achseln. »Lieber Harst, Sie lieben Ihre
 Mutter über alles, und Helene Zinner, die von ihren habgierigen
-Eltern Zimmer in dein Glauben belassen wurde, sie
+Eltern immer in dem Glauben belassen wurde, sie
 seien arm, hing an ihren Eltern ebenso innig und wollte
-dem Vater die Ausgaben für einen Detektiv ersparen. Tür
-den Charakter Helenes spricht auch; noch« ihr Fleiß. sie hat
+dem Vater die Ausgaben für einen Detektiv ersparen. Für
+den Charakter Helenes spricht auch noch ihr Fleiß, sie hat
 mit ihrer Tanzschule ebenfalls Geld verdienen helfen, sie
 hat von ihrem Sam jedes Geschenk zurückgewiesen, obwohl
-Seefeld. reich ist … Ein Mustermädel, das gar nicht in
+Seefeld reich ist … Ein Mustermädel, das gar nicht in
 Unsere heutige Zeit hineinpaßt. — Was die Beobachtung
-Remmeles betraf, trat sie nichts ausgerichtet.«
+Remmeles betraf, hat sie nichts ausgerichtet.«
 
 »Remmele war der Fensterputzer,« sagte Harst trocken.
-»Remmele ist der Generaldirektor der A.—G.«
+»Remmele ist der Generaldirektor der A.-G.«
 
 »Also der Mörder?«
 
 »Wessen? Wir haben zwei Tote, Gepp. Der eine ist
 Kareck, die zweite ist Frau Zinner, der dritte … ja, wer
-wird der dritte sein?! Ich fürchte … Armin Zinner?
+wird der dritte sein?! Ich fürchte … Armin Zinner!"
 
 Gepp griff langsam nach seiner Zigarre.
 
 »Zinner?! — dann … dann gibt es hier drei Parteien,
 Harst, nämlich die A.-G., Zinner nebst Frau und wir,
-die Vertreter der sogenannten Gerechtigkeit. Ich beginne Künstlich
-zu begreifen, wenn im auch noch nicht ganz klar
+die Vertreter der sogenannten Gerechtigkeit. Ich beginne
+allmählich zu begreifen, wenn ich auch noch nicht ganz klar
 sehe.«
 
-»Auch das kommt, … — Jetzt zu Luzie Kareck …« — Harst
-stützte das Kinn in die Hand. »Verzehrte Seefeld dort« als
+»Auch das kommt … — Jetzt zu Luzie Kareck …« Harst
+stützte das Kinn in die Hand. »Verkehrte Seefeld dort als
 Sam Barger?«
 
-»Nein … — Gepp war! Harst. einem mißtrauischen »Blick
-zu. »Seefeld kannte Karecks schon lange. Luzie legte ihn
+»Nein …" Gepp warf Harst einen mißtrauischen Blick
+zu. »Seefeld kannte Karecks schon lange. Luzie legte ihm
 allerhand niedliche Fallstricke, um ihn vor den Traualtar
-zu schleppen, aber er schätzte diese Damen aus W… W. sah
+zu schleppen, aber er schätzte diese Damen aus W. W. sehr
 <@pagebreak/>
 daneben … Er hat manchmal ganz vernünftige Ansichten,
 Daß er als Sam Barger dem Doktor Zinner die Würmer aus
 Der Nase ziehen wollte, ahnten die Karecks natürlich nicht,
-und auch die Verlobung hat er verheimlicht, muß:« er ja
-ach tun, da er nur Helene eingeweiht hatte, die ihrerseits
-nicht ahnte, weshalb »Sam« bei ihren Eltern verkehrte,
-Auch er war als »Erfinder« zu Zinner in Beziehungen ge
-treten. — Haben Sie irgendeinen Argwohn 303en Luzie
+und auch die Verlobung hat er verheimlicht, mußte er ja
+auch tun, da er nur Helene eingeweiht hatte, die ihrerseits
+nicht ahnte, weshalb »Sam« bei ihren Eltern verkehrte.
+Auch er war als »Erfinder« zu Zinner in Beziehungen ge-
+treten. — Haben Sie irgendeinen Argwohn gegen Luzie?"
 
 Harst antwortete nicht sofort.
 
 »Und Sie?« fragte er dann sehr gedehnt.
 
-Gepp schüttelte den Kopf. »Feine Spur! — Sie reden
+Gepp schüttelte den Kopf. »Keine Spur! — Sie reden
 Übrigens wieder wie die Katz um den heißen Brei herum …
-Tages wollen Sie von Luzie Kareck?! Diese eisige Schön
+Was wollen Sie von Luzie Kareck?! Diese eisige Schön-
 Zeit, die nun als Waise erst recht dem forschen Heinz nachjagen
 wird, kann doch unmöglich mit diesen blutigen Dingen
 etwas zu tun haben!«
 
 Harst wich einer direkten Antwort aus. »Ich bin nun
-genügend informiert … Ich werde Ihnen jetzt einen Falls
-man anfertigen, lieber Gepp. Ich habe nämlich keine Luft,
+genügend informiert … Ich werde Ihnen jetzt einen Talis-
+man anfertigen, lieber Gepp. Ich habe nämlich keine Lust,
 Demnächst an Ihrem Begräbnis teilzunehmen, und daß auch
-Ihnen ein jähes Ende droht, ist so somit, wie dort eine
-tote Maus mit dem verfänglichen Zettel liest.«
+Ihnen ein jähes Ende droht, ist so gewiß, wie dort eine
+tote Maus mit dem verfänglichen Zettel liegt.«
 
-Gepps Gesicht wurde sehr lang. »Na nu ich?! Ich habe
-da; nur einen Papagei geschenkt vbokommen und morgen
-stelle ich ihn ins Brdezimmer … Vielleicht lernt er auch
-Das Rauschen des Wassers nachahmen. 0as würde sehr ulkig
-Klippen ins Talisman?! Was wir das eng?«
+Gepps Gesicht wurde sehr lang. »Na nu ... ich?! Ich habe
+doch nur einen Papagei geschenkt bekommen und morgen
+stelle ich ihn ins Badezimmer … Vielleicht lernt er auch
+Das Rauschen des Wassers nachahmen. Das würde sehr ulkig
+klingen. Und Talisman?! Was soll das denn?«
 
-Harst ging schwer Hand hinaus. Wir Person 010888 Edw
-Oben im Laboratorium. — — dann i27 8 Hm
-Sitzen hoch: …
+Harst ging schweigend hinaus. Wir hörten seine Schritte
+Oben im Laboratorium. — — dann fuhren wir von unseren
+Sitzen hoch …
 
-Oben war. ein Schuß gefallen
+Oben war ein Schuß gefallen ...
 
-Mir rasten in den »Flur !.-,’ / wir rate. 0:0
-Fanden die eiserne Tür weit Hirn. war vom er, u 2. Eis
+Wir rasten in den Flur ... wir jagten nach oben ... wir
+Fanden die eiserne Tür weit offen, vor dem großen Schreib-
 Tisch stand Harald und hielt beide Fäuste gegen Sie Brust
-Gepreßt — leichenblaß, nach Atem ringend, …«
+Gepreßt — leichenblaß, nach Atem ringend …
 
 <@pagebreak/>
-In der schlaff herabhängen&en Hand hielt er noch die
-Pistole, die Luft roh nach namenlosen Pulver …
+In der schlaff herabhängenden Hand hielt er noch die
+Pistole, die Luft roch nach rauchlosem Pulver …
 
 Er schaute uns seltsam hilflos an. Er stammelte matt:
-»Er … war … hier … Wir waren … Narren.
-Er kam … jetzt schon, nicht erst nachts. Er hat die Haustür
+»Er … war … hier … Wir waren … Narren ...
+Er kam jetzt schon, nicht erst nachts. Er hat die Haustür
 Leise geöffnet, er hatte ja die Schlüssel … Der Tod stand
-vor mir, und ich wäre erledigt gewesen … « Er deutete
-auf ein paar Glas&splitter auf der Türschwelle. »Das ließ
+vor mir, und ich wäre erledigt gewesen …« Er deutete
+auf ein paar Glassplitter auf der Türschwelle. »Das ließ
 er zurück … Er wird über das Dach entwischt sein. —
 Wissen Sie, was Herzflimmern ist, Gepp?«
 
@@ -2166,13 +2166,13 @@ Gepp bückte sich und hob ein paar der Glassplitter auf.
 »Herzflimmern?! Natürlich … Leute, die durch elektrischen
 Strom sterben, enden durch Herzflimmern, wie die
 Ärzte eine bestimmte Art von Lähmung der Herznerven
-nennen, Die Bezeichnung stammt aus Amerika, wo man den
+nennen. Die Bezeichnung stammt aus Amerika, wo man den
 elektrischen Stuhl bevorzugt, — mir ist ein einfacher Rohrstuhl
 lieber.«
 
 Harst lächelte schwach. »Ich … hatte ganz geringes
 Herzflimmern … Sekundenlang war ich ohne Besinnung.
-Aber …! … ich lebe, und Er ist nun wohl waffenlos …
+Aber … ich lebe, und *Er* ist nun wohl waffenlos …
 Die Kugel traf.«
 
 Gepp betrachtete die Glassplitter genauer.
@@ -2180,14 +2180,14 @@ Gepp betrachtete die Glassplitter genauer.
 »Die sind von einer Linse … Der Kerl hatte wohl
 irgendeinen neuartigen Starkstromakkumulator bei sich?«
 
-»Ja, etwas ähnliches … Das Patent! Nr. 100832 …
-Auf Dieselbe Weise starb ’Kared, starb Frau Zinner …
-Daß ich lebe. ist ein Wunder.«
+»Ja, etwas ähnliches … Das Patent Nr. 100&nbsp;832 …
+Auf Dieselbe Weise starb Kareck, starb Frau Zinner …
+Daß ich lebe, ist ein Wunder.«
 
 Gepp sagte kaltblütig: »Ich werde mal den Boden absuchen
-… Mir gut der rechte Zeigefinger …« Er holte
+… Mir juckt der rechte Zeigefinger …« Er holte
 seine Dienstpistole hervor, »und Sie, Schraut, bringen Harst
-gering unten
+nach unten ..."
 
 <@pagebreak/>
 »Nein!« Harald setzte sich auf einen der Stühle. »Es
@@ -2199,7 +2199,7 @@ Nachher schickte er uns weg. »Ich will für alle Fälle doch
 den Talisman anfertigen … Setzt euch in mein Zimmer.
 Ein Glück, daß wir dort leise sprachen. Er kann nichts
 verstanden haben, sonst würden wir ihn nie fassen … Geht
-nur … Ich schließe mich ein. es ist keine Gefahr mehr …«
+nur … Ich schließe mich ein, es ist keine Gefahr mehr …«
 
 Wir mußten ihm den Willen tun.
 
@@ -2221,13 +2221,13 @@ zerstörte, Harst schützte uns durch Staniolblenden von
 Schokoladentafeln …«
 
 »Ich weiß …« Er stand auf. »Schraut, wir wollen
-die Haustür doch lieber irgendwie durch; eine Stange abstützen,
+die Haustür doch lieber irgendwie durch eine Stange abstützen,
 damit der Kerl …«
 
 Das Telephon meldete sich …
 
 Es war die liebliche Anastasia, die ihrem Herrn berichtete,
-daß soeben ein Karton mit einer toten Maus und einem.
+daß soeben ein Karton mit einer toten Maus und einem
 Zettel mit einem Kreuz vom Postboten abgegeben worden sei
 
 Gepp sagte: »Schmeißen Sie das Zeug in den Ofen,
@@ -2237,23 +2237,23 @@ ihn ins Badezimmer … Wiedersehen.«
 Und zu mir: »Also auch ich!! — Schraut, die A.-G. muß
 auffliegen, der Generaldirektor fällt mir auf die Nerven,
 <@pagebreak/>
-obwohl ich keine liebe. Wenn Sie diesen Kriminalfall einmal
-schildern, betonen Sie, daß Alarich Gepp all wird …
-Harst weiß Bescheid, ich nicht, Sie nicht, — es ist! ein Skandal,
-Schraut, ich muß dahinter kommen?«
+obwohl ich keine habe. Wenn Sie diesen Kriminalfall einmal
+schildern, betonen Sie, daß Alarich Gepp alt wird …
+Harst weiß Bescheid, ich nicht, Sie nicht, — es ist ein Skandal,
+Schraut, ich muß dahinter kommen!«
 
 Wir stützten die Tür ab, wir gingen auch noch auf
 den Boden, wir fanden ein Bodenfenster offen, es war viel
 Schnee hineingeweht, draußen schneite es unaufhörlich. Trotzdem
 erkannten wir noch die Spuren des Flüchtlings auf den
-Dachziegeln. Er war bis zum Küchenanbau hinabgerutschä
+Dachziegeln. Er war bis zum Küchenanbau hinabgerutscht
 — er war über alle Berge, aber diese Berge lagen nahe,
-in der Kolonie Feierabend, und in Nr. 8 würden wir den
+in der Kolonie Feierabend, und in Nr. 4 würden wir den
 Mann wohl einkreisen können,
 
 Harst brachte den Talisman für Gepp. Es war ein Stück
 Leinwand von Handgröße, in die etwas Hartes eingenäht war.
-Zwei Bänder hinten daran.
+Zwei Bänder hingen daran.
 
 »Binden Sie es um, Gepp …!«
 
@@ -2264,52 +2264,52 @@ Er befühlte den Talisman.
 
 »Allerdings … Und in unsere Herzflaschen habe ich
 gleichfalls dünne Bleiplättchen hineingetan … zu dünne
-… — … Zu wenig …«
+… zu wenig …«
 
 Er lag im Sessel und stützte die Stiefel auf das Kamingitter.
 »Gepp, binden Sie es um …! — Ich möchte nochmals
 über Luzie Kareck mit Ihnen sprechen.«
 
 »In Gottes Namen …« Er drehte sich um und legte
-den Seltsamen an. »Mein Wollhemd ist nicht mehr ganz
-einwandfrei. Ich möchte ein den Anblick ersparen Anastasia
-geht intimer bunte Blicken auf die Löcher. Im Wollhemd
+den Talisman an. »Mein Wollhemd ist nicht mehr ganz
+einwandfrei. Ich möchte euch den Anblick ersparen. Anastasia
+näht immer bunte Flicken auf die Löcher. Im Wollhemd
 sehe ich wie eine gefleckte Hyäne aus … Luzie würde mich
 verachten. Was ist’s mit ihr?!«
 
 »Ich verschwieg Ihnen etwas, Alarich. Sie wollte heute
 zu Zinner, aber vor dem Hause machte sie kehrt, weil in
-dem Schaufenster des Radiogesziftes «Anoden-dTeller» zwei
+dem Schaufenster des Radiogeschäftes «Anoden-Keller» zwei
 Lampen glühten … Sifu beobachtete auch dies. Die
 <@pagebreak/>
 Lampen waren Signale, und Luzie kannte diese Signale. Sie
-war verschleiert und trug einen alten Pelzmantel, Was
+war verschleiert und trug einen alten Pelzmantel. Was
 wollte sie bei Zinner? Woher kannte sie die Warnungssignale
-Zinners?k«
+Zinners?!«
 
 Gepp knöpfte seinen Bratenrock zu und nahm wieder
-Platz. »Haben Sie noch; mehr derartiges auf Lager?! — Nein.
-Nun, dann sage ich: Jahren wir zu ihr! Oder wollen Sie
+Platz. »Haben Sie noch mehr derartiges auf Lager?! — Nein.
+Nun, dann sage ich: Fahren wir zu ihr! Oder wollen Sie
 nach Laube vier?«
 
-»Nein … —.- Er ist nicht dort … Er hat sicherlich
-noch« ein Quartier. — Jahren wir«
+»Nein … *Er* ist nicht dort … Er hat sicherlich
+noch ein Quartier. — Fahren wir!«
 
-Harst läutete nach Sifu und erteilte ihm besondere Answeisungen.
+Harst läutete nach Sifu und erteilte ihm besondere Anweisungen.
 »Herr Gepp wird sofort ein paar Beamte schicken,
-mein Junge, Du läßt sie nur ein, wenn sie dir das Kennwort
+mein Junge. Du läßt sie nur ein, wenn sie dir das Kennwort
 »Gepp« durch die Tür zurufen.«
 
 Alarich telephonierte an unsere Revierwache. Unser Haus
 war gesichert.
 
-Wir … stapften durch den hohen Schnee und fanden erst
-erst an der Ecke eine Autotaxe. Harst besah sich den Wagen
+Wir stapften durch den hohen Schnee und fanden erst
+an der Ecke eine Autotaxe. Harst besah sich den Wagen
 erst sehr genau, bevor wir einstiegen. —
 
 Luzie Karecks Diener meldete uns an. Wir wurden in
-einen Damensalon geführt, dessen moderne Kahlheit und!
-Unbehaglichen schon allein erkältend wirkte.
+einen Damensalon geführt, dessen moderne Kahlheit und
+Unbehaglichkeit schon allein erkältend wirkte.
 
 Luzie war nicht allein. Ein schlanker Herr mit blassem,
 blasiertem Gesicht und fatalem eingefrorenen Lächeln wurde
@@ -2320,11 +2320,11 @@ Vertrauter … Vor ihm habe ich keine Geheimnisse, Herr
 Harst … Herr Ganter ist erst heute auf meine Depesche
 Hin aus München hierher zurückgekehrt.«
 
-Gepp in seinem Bratenrock vom Jahre 1888 massierte
+Gepp in seinem Bratenrock vom Jahre 1888 musterte
 Ganter auffallend lange, hüstelte, seufzte und meinte kopfschüttelnd:
 »Gestatten Sie, gnädiges Fräulein, — ich möchte
 als Beamter betonen, daß Herr Ganter doch vielleicht durch
-unsere Unterhaltung stark gelangweilt werden dürfte — in
+unsere Unterhaltung stark gelangweilt werden dürfte — hm
 ja, — gelangweilt, denn wir wollen über bunte elektrische
 <@pagebreak/>
 Lampen, Signale, alte Pelzmäntel und einen Keller sprechen,
@@ -2332,14 +2332,14 @@ alles Dinge, die Herrn Ganter kaum interessieren dürften.«
 
 Luzie mochte als Dame von Welt sich sehr gut in der
 Gewalt haben. Hier versagten ihre Nerven. Ihr Gesicht verlor
-alle Farbe, ihre Augen ruhten geradezu entsetzt aus Alarich
+alle Farbe, ihre Augen ruhten geradezu entsetzt auf Alarich
 Gepps künstlich-bärtigem Gesicht.
 
 Ganter erhob sich. »Ich werde mich verabschieden, gnädiges
-Fräulein …« Er voran geziert! und behandelte uns
+Fräulein …« Er sprach geziert und behandelte uns
 als Luft.
 
-»Treiben Sie!« hauchte Luzie völlig verwirrt …
+»bleiben Sie!« hauchte Luzie völlig verwirrt …
 
 »Ganz wie Sie befehlen …«
 
@@ -2347,8 +2347,8 @@ Gepp musterte ihn abermals. »Gut, mag er bleiben …«
 Er war mit einem Male nur Beamter. Seine Stimme klang
 hart. »Sie wollten heute mittag Zinner besuchen, Fräulein
 Kareck. Sie sind in der Neanderstraße gesehen worden. Sie
-machten jedoch kehrt, als Sie im Schaufenster des Anoden Kellers
-die beiden Lampen leuchten ganzen. Es war ein Signal.
+machten jedoch kehrt, als Sie im Schaufenster des Anoden-Kellers
+die beiden Lampen leuchten sahen. Es war ein Signal.
 Woher kannten sie es?«
 
 Luzie Kareck saß steif da und erwiderte ablehnend: »Ich
@@ -2360,84 +2360,81 @@ einmal bei Zinner — früher?«
 
 »Nie! Das werden die Leute bestätigen. Was sollte ich
 dort. Ich kenne sie nicht einmal von Ansehen — nein, Herrn
-Zinner sah) ich; doch einmal bei meinem Vater.«
+Zinner sah ich doch einmal bei meinem Vater.«
 
 Gepp nickte melancholisch. »Ja, die beiden waren eng
-liiert … Er schaute schon wieder dem üÜbereleganten Prokuristen
+liiert … Er schaute schon wieder dem übereleganten Prokuristen
 in die Augen, der im Smoking war.
 
-»Herr Ganter, waren Sie häufiger bei Zinner?«
+»Herr Ganter, waren *Sie* häufiger bei Zinner?«
 
-»Alt. Fall, Herr Kriminalkommissar Gepp … Zinners
-sind sein Umgang für Leute von einigem Kulturbedürfnis.«
-Dabei  betrachmtete er ironisch Gepps Harmonikahosen.
+»Niemals, Herr Kriminalkommissar Gepp … Zinners
+sind kein Umgang für Leute von einigem Kulturbedürfnis.«
+Dabei betrachtete er ironisch Gepps Harmonikahosen.
 
-— Gepp’ blickte zur Seite … Dann wandte er wieder den
-Kopf, und wie »eine « Explosion fuhren seine Worte dem
+Gepp blickte zur Seite … Dann wandte er wieder den
+Kopf, und wie eine Explosion fuhren seine Worte dem
 <@pagebreak/>
 Prokuristen ins fade Antlitz. »Sie lügen! Ich hatte Zinners
 Haus lange Zeit beobachtet, Sie waren dort, aber … verkleidet!!«
 
-Ganter lachte trocken. »Ich vertiefte mich nie … Ich
-war nie bei Zinner, den ich kaum kenne. Sie alter, Herr
-Kommissar, dürften für diesen Vorwurf der Lüge … «.«
+Ganter lachte trocken. »Ich verkleide mich nie … Ich
+war nie bei Zinner, den ich kaum kenne. Sie aber, Herr
+Kommissar, dürften für diesen Vorwurf der Lüge …«
 
-Gepp war aufgestanden. Er konnte erstaunlich flink sein,
-Ehe er’s Ganter versah, hatte er ihm eine … tadellos g0oarbeitete
-blonde SceitelperüFke vom Kopf gerissen.
+Gepp war aufgestanden. Er konnte erstaunlich flink sein.
+Ehe sich’s Ganter versah, hatte er ihm eine tadellos gearbeitete
+blonde Scheitelperücke vom Kopf gerissen.
 
-Gunter war fast kahl.
+Ganter war fast kahl.
 
 Und jetzt war er auch noch bleicher,
 
-Genua gab ihm die Perücke zurück. »Sie verkleiden sich
+Gepp gab ihm die Perücke zurück. »Sie verkleiden sich
 nie, denke ich …« Und dann folgte die zweite Attacke …
 Er griff Ganter in die Brusttasche (die eine Seite des
-Schößlings stand weit ab) und riß ein flaches langes Päckchen
-heraus, …
+Smokings stand weit ab) und riß ein flaches langes Päckchen
+heraus,
 
 Luzie flog hoch, — Harst hielt sie fest, — sie kreischte …
 sie schlug um sich …
 
 Es war widerlich.
 
-Dann- fiel sie in den Sessel und zischte Ganter wütend
-
-»In wollte es verbrennen …! Nun … nun … wird
-alles an den Lag kommen … Aber ich weiß, weshalb Sie
-mir heute den Umschlag aus dem Gesteinsart brachten, Sie
-… Sie … Erpresser, Sie Mitgiftjäger! Ihre aufdringslihßen
+Dann fiel sie in den Sessel und zischte Ganter wütend
+an: »Ich wollte es verbrennen …! Nun … nun … wird
+alles an den Tag kommen … Aber ich weiß, weshalb Sie
+mir heute den Umschlag aus dem Geheimfach brachten, Sie
+… Sie … Erpresser, Sie Mitgiftjäger! Ihre aufdringlichen
 Bewerbungen konnten nur so zum Ziele führen!«
 
-Ganter lächelte höhnisch, setzte Juli seine Perücke auf
-und sagte zu Gepp: »Sie haben da Herrn Harsts Privatnotizen
+Ganter lächelte höhnisch, setzte ruhig seine Perücke auf
+und sagte zu Gepp: »Sie haben da Herrn Karecks Privatnotizen
 über seine Patentankäufe und über die Art seines
 Verkehrt mit Zinner, den ich auf Karecks Befehl verschiedentlich
-verkleidet aufsuchen mußte, weil mein Chef den Patentsanwalt
+verkleidet aufsuchen mußte, weil mein Chef den Patentanwalt
 im Verdacht hatte, einige Erfinder, hm …
 beraubt zu haben. In den Notizen steht auch verschiedenes
 Über die Signale, die Sie erwähnten. Es stimmt nicht, daß
-ich erst heute nachmittag von München eintraf, im kam
-morgens mit dem Es-Zug an, und erst naht Durchsicht dieser
+ich erst heute nachmittag von München eintraf, ich kam
+morgens mit dem D-Zug an, und erst nach Durchsicht dieser
 <@pagebreak/>
-Notizen wollte Fräulein Nacht zu Zinner, um ihn zu
+Notizen wollte Fräulein Kareck zu Zinner, um ihn zu
 bewegen, ihren Vater zu schonen, falls die Polizei diese
 Patentankäufe nachprüfen sollte. Deshalb kannte Fräulein
 Kareck auch das Warnungssignal und kehrte um. Ich selbst
 stehe diesen Dingen vollkommen fern. Ich teilte auch nie
 meines Chefs Verdacht, daß Zinner … ein Mörder sei, ich
-»- -…- nahm eher an …« — er zögerte — »daß Kareck selbst
+… nahm eher an …« — er zögerte — »daß Kareck selbst
 nicht ganz reine Hände hätte und mich nur zu Zinner
-schickte, um meinen Argwohn gegen ihn selbst zu, zerstreuen.«
+schickte, um meinen Argwohn gegen ihn selbst zu zerstreuen.«
 
-Luzie Kareck war Ohnmacht vom Sessel auf den, Teppich
+Luzie Kareck war ohnmächtig vom Sessel auf den Teppich
 geglitten.
 
-«.
+<h2>4. Kapitel</h2>
 
-kg. Kapitel
-
-Der Mann hinter der Zeitung.
+<h3>Der Mann hinter der Zeitung.</h3>
 
 Gepp sagte trüben Tones, als wir mit hochgeklappten
 Krägen den Kurfürstendamm hinabschritten und die weißen
