@@ -424,7 +424,7 @@ elf Uhr das Lokal. Es war eine Kneipe in der Michaelkirchstraße
 dicht an der Michaelkirchbrücke. Morgens fischte man
 ihn tot aus dem Fluß, das Geld war verschwunden, und
 Kareck verdiente mit des Toten Erfindung hunderttausende.
-Die Frau — ich fasse mich ganz kurz — nahim Raubmord
+Die Frau — ich fasse mich ganz kurz — nahm Raubmord
 <@pagebreak/>
 an, aber meine zuständigen Kollegen hatten gemeint, dem
 stark Angetrunkenen könnte die Brieftasche auch aus der
@@ -782,7 +782,7 @@ da — —!!« Und er deutete auf das dritte Schild …
 
 <p class="centered em">Helene Zinner,</p>
 <p class="centered">Tanzschule,</p>
-<p class="centered">Gymnastik, Körperflege.</p>
+<p class="centered">Gymnastik, Körperpflege.</p>
 
 »Allerhand!« pflichtete ich bei.
 
@@ -1577,7 +1577,7 @@ Ich stand wieder mal als Attrappe dabei.
 »oh, ich mußte mächtig treten … Es fuhr sich sehr
 schwer in dem Schnee, der ganz naß war von dem Salz
 der Straßenbahn … Das Auto jagte nur so davon.« Sifu
-lachte. »Und wo es hielt, Missu Harst, raten Sie .,.!
+lachte. »Und wo es hielt, Missu Harst, raten Sie …!
 Drüben am schwarzen Weg jenseits der Laubenkolonien …
 Und der Fensterputzer stieg nicht aus, sondern ein buckliger
 Mann … Die Leiter ließ er im Auto. Er ging dann in die
@@ -1586,7 +1586,7 @@ Laube, und er kam nicht wieder heraus. Ich war sehr vorsichtig
 … Niemand hat mich beachtet. Ich hatte den großen
 leeren Pappkarton auf dem Rücken … ganz wie Sie befohlen
 hatten, und auch die Mütze mit dem Schild hatte ich
-auf …"
+auf …«
 
 Sifu blähte sich vor Stolz,
 
@@ -1615,8 +1615,8 @@ nickte leicht. »Ich sah etwas, Missu Harst … Der Mann,
 der sich im Auto umgezogen und den blonden Bart gegen
 einen dunklen vertauscht hatte, hinkte leicht. Er schleppte den
 linken Fuß etwas nach. Außerdem …« — er liebte die
-Kunstpausen wie jeder erfahrene Erzähler — «... Außerdem
-hat das Haus des Missu Zinner eine Besonderheit.» Er
+Kunstpausen wie jeder erfahrene Erzähler — »… Außerdem
+hat das Haus des Missu Zinner eine Besonderheit.« Er
 grinste stärker … »Unten ist doch ein Laden im Keller mit
 Radiosachen … Als ihr beide eine Weile in dem Hause
 wart, leuchtete im Kellerfenster eine grüne elektrische Lampe
@@ -1710,13 +1710,13 @@ Elvira Zinner ist tot.«
 
 Ich ließ die Zigarre vor Schreck fallen.
 
-"… Sie starb auf der Straße, zehn Schritt von ihrem
+»… Sie starb auf der Straße, zehn Schritt von ihrem
 Hause entfernt, an Herzschlag …«
 
 Ich hob meine Zigarre auf und meinte ganz benommen:
-»Auch Herzschlag?"
+»Auch Herzschlag?«
 
-»Ja … Die Anti-Kareck-A.-G. ist sehr rührig ... Gepp
+»Ja … Die Anti-Kareck-A.-G. ist sehr rührig … Gepp
 ist wie vor den Kopf geschlagen. — Zinner rief ihn an. Gepp
 war dort, der Doktor soll halb irre sein … Arme Helene!«
 
@@ -1837,8 +1837,8 @@ Ich finde das empörend, besonders diese Verlobung!
 Wie wird das arme Mädel das hinnehmen?!«
 
 Harst erwiderte erst nach einer Weile: »Wenn die Kriminalpolizei
-auch noch zartfühlend und nur vornehm vor-
-gehen soll, würden noch mehr Verbrecher ungestraft umherlaufen.
+auch noch zartfühlend und nur vornehm vorgehen
+soll, würden noch mehr Verbrecher ungestraft umherlaufen.
 Ich glaube, Helene weiß über »Sam Barger« genau
 Bescheid, nur eins weiß sie nicht, daß Seefeld-Barger zunächst
 lediglich Interesse für Vater Zinner hatte …
@@ -1848,7 +1848,7 @@ wird Zeit … Sifu ist mit Hackfleisch bereits da …«
 
 Auch ich hatte die Haustür zufallen hören.
 
-»Sifu?" rief Harald,
+»Sifu?« rief Harald,
 
 Niemand meldete sich.
 
@@ -1936,7 +1936,7 @@ Dann dürfen wir wohl anfangen.«
 Es waren junge, kräftige Burschen, — ich hätte sie unbedingt
 für harmlos gehalten.
 
-"Ja, fangen wir an,« nickte Harst …
+»Ja, fangen wir an,« nickte Harst …
 
 Seine Pistole redete eine durchaus verständliche Sprache
 
@@ -1950,16 +1950,16 @@ ist zu lang, und meine Geduld ist kurz.«
 
 Sie gehorchten …
 
-»Herr Kommissar,« meinte der eine achselzuckend, "ich
-hab' gleich nich' recht mitmachen wollen, aber tausend Mark
+»Herr Kommissar,« meinte der eine achselzuckend, »ich
+hab’ gleich nich’ recht mitmachen wollen, aber tausend Mark
 sind ville Jeld, und dreihundert hat er angezahlt.«
 
 Gepp betastete ihre Taschen. Aber sie hatten keine Waffen
 bei sich.
 
-"So, so," nickte Gepp, »verstehe! Ihr seid ja von der
+»So, so,« nickte Gepp, »verstehe! Ihr seid ja von der
 Geldschrankknackergilde, ihr solltet hier neue Schlösser anbringen,
-für die euer Auftraggeber auch Schlüssel hat --
+für die euer Auftraggeber auch Schlüssel hat —
 ein feiner Gedanke!! — Wer ist der reiche Mann …?
 Kommt aber hier ins Warme …«
 
@@ -1978,7 +1978,7 @@ sie Näheres hören würden.
 Gepp befahl ihnen, sich auf zwei Stühle am Kamin zu
 setzen. Er winkte uns in eine Ecke.
 
-»Hört mal, den Auftraggeber legen wir hinein …"
+»Hört mal, den Auftraggeber legen wir hinein …«
 
 »Das wollte ich auch,« nickte Harst. »Die Brüder müssen uns
 Schweigen versprechen und die Schlösser auswechseln. Ein
@@ -2049,8 +2049,8 @@ Nr. 100&nbsp;832 wissen.«
 »Gern … — Es ist nicht viel. Ein gewisser Alfred
 Loring kam vor Wochen zu Zinner und tat sehr geheimnisvoll.
 Er wünschte eine neue Konstruktion eines Bildfunksenders
-sich patentieren zu lassen. Zinner legte ein Akten-
-Stück mit der Nr. 100&nbsp;832 an, und nachdem Loring ihm
+sich patentieren zu lassen. Zinner legte ein Aktenstück
+mit der Nr. 100&nbsp;832 an, und nachdem Loring ihm
 immer nur Teilzeichnungen der Erfindung vorgelegt hatte,
 wurde eines Nachts bei Zinner eingebrochen und nur gerade
 das Aktenstück gestohlen. Loring, der nie seine Adresse angegeben
@@ -2082,7 +2082,7 @@ Remmeles betraf, hat sie nichts ausgerichtet.«
 
 »Wessen? Wir haben zwei Tote, Gepp. Der eine ist
 Kareck, die zweite ist Frau Zinner, der dritte … ja, wer
-wird der dritte sein?! Ich fürchte … Armin Zinner!"
+wird der dritte sein?! Ich fürchte … Armin Zinner!«
 
 Gepp griff langsam nach seiner Zigarre.
 
@@ -2096,7 +2096,7 @@ sehe.«
 stützte das Kinn in die Hand. »Verkehrte Seefeld dort als
 Sam Barger?«
 
-»Nein …" Gepp warf Harst einen mißtrauischen Blick
+»Nein …« Gepp warf Harst einen mißtrauischen Blick
 zu. »Seefeld kannte Karecks schon lange. Luzie legte ihm
 allerhand niedliche Fallstricke, um ihn vor den Traualtar
 zu schleppen, aber er schätzte diese Damen aus W. W. sehr
@@ -2107,8 +2107,8 @@ Der Nase ziehen wollte, ahnten die Karecks natürlich nicht,
 und auch die Verlobung hat er verheimlicht, mußte er ja
 auch tun, da er nur Helene eingeweiht hatte, die ihrerseits
 nicht ahnte, weshalb »Sam« bei ihren Eltern verkehrte.
-Auch er war als »Erfinder« zu Zinner in Beziehungen ge-
-treten. — Haben Sie irgendeinen Argwohn gegen Luzie?"
+Auch er war als »Erfinder« zu Zinner in Beziehungen getreten.
+— Haben Sie irgendeinen Argwohn gegen Luzie?«
 
 Harst antwortete nicht sofort.
 
@@ -2116,19 +2116,19 @@ Harst antwortete nicht sofort.
 
 Gepp schüttelte den Kopf. »Keine Spur! — Sie reden
 Übrigens wieder wie die Katz um den heißen Brei herum …
-Was wollen Sie von Luzie Kareck?! Diese eisige Schön-
-Zeit, die nun als Waise erst recht dem forschen Heinz nachjagen
+Was wollen Sie von Luzie Kareck?! Diese eisige Schönheit,
+die nun als Waise erst recht dem forschen Heinz nachjagen
 wird, kann doch unmöglich mit diesen blutigen Dingen
 etwas zu tun haben!«
 
 Harst wich einer direkten Antwort aus. »Ich bin nun
-genügend informiert … Ich werde Ihnen jetzt einen Talis-
-man anfertigen, lieber Gepp. Ich habe nämlich keine Lust,
+genügend informiert … Ich werde Ihnen jetzt einen Talisman
+anfertigen, lieber Gepp. Ich habe nämlich keine Lust,
 Demnächst an Ihrem Begräbnis teilzunehmen, und daß auch
 Ihnen ein jähes Ende droht, ist so gewiß, wie dort eine
 tote Maus mit dem verfänglichen Zettel liegt.«
 
-Gepps Gesicht wurde sehr lang. »Na nu ... ich?! Ich habe
+Gepps Gesicht wurde sehr lang. »Na nu … ich?! Ich habe
 doch nur einen Papagei geschenkt bekommen und morgen
 stelle ich ihn ins Badezimmer … Vielleicht lernt er auch
 Das Rauschen des Wassers nachahmen. Das würde sehr ulkig
@@ -2138,11 +2138,11 @@ Harst ging schweigend hinaus. Wir hörten seine Schritte
 Oben im Laboratorium. — — dann fuhren wir von unseren
 Sitzen hoch …
 
-Oben war ein Schuß gefallen ...
+Oben war ein Schuß gefallen …
 
-Wir rasten in den Flur ... wir jagten nach oben ... wir
-Fanden die eiserne Tür weit offen, vor dem großen Schreib-
-Tisch stand Harald und hielt beide Fäuste gegen Sie Brust
+Wir rasten in den Flur … wir jagten nach oben … wir
+Fanden die eiserne Tür weit offen, vor dem großen Schreibtisch
+stand Harald und hielt beide Fäuste gegen Sie Brust
 Gepreßt — leichenblaß, nach Atem ringend …
 
 <@pagebreak/>
@@ -2150,7 +2150,7 @@ In der schlaff herabhängenden Hand hielt er noch die
 Pistole, die Luft roch nach rauchlosem Pulver …
 
 Er schaute uns seltsam hilflos an. Er stammelte matt:
-»Er … war … hier … Wir waren … Narren ...
+»Er … war … hier … Wir waren … Narren …
 Er kam jetzt schon, nicht erst nachts. Er hat die Haustür
 Leise geöffnet, er hatte ja die Schlüssel … Der Tod stand
 vor mir, und ich wäre erledigt gewesen …« Er deutete
@@ -2187,7 +2187,7 @@ Daß ich lebe, ist ein Wunder.«
 Gepp sagte kaltblütig: »Ich werde mal den Boden absuchen
 … Mir juckt der rechte Zeigefinger …« Er holte
 seine Dienstpistole hervor, »und Sie, Schraut, bringen Harst
-nach unten ..."
+nach unten …«
 
 <@pagebreak/>
 »Nein!« Harald setzte sich auf einen der Stühle. »Es
@@ -2279,7 +2279,7 @@ verachten. Was ist’s mit ihr?!«
 
 »Ich verschwieg Ihnen etwas, Alarich. Sie wollte heute
 zu Zinner, aber vor dem Hause machte sie kehrt, weil in
-dem Schaufenster des Radiogeschäftes «Anoden-Keller» zwei
+dem Schaufenster des Radiogeschäftes »Anoden-Keller« zwei
 Lampen glühten … Sifu beobachtete auch dies. Die
 <@pagebreak/>
 Lampen waren Signale, und Luzie kannte diese Signale. Sie
@@ -2438,29 +2438,29 @@ geglitten.
 
 Gepp sagte trüben Tones, als wir mit hochgeklappten
 Krägen den Kurfürstendamm hinabschritten und die weißen
-Flecken uns anlangten: »Die Notizen Karecks liefern keinerlei
+Flocken uns umtanzten: »Die Notizen Karecks liefern keinerlei
 Beweis für direkte Betrügereien, denen die Erfinder zum
-Opfer fielen. Es gibt viele Geschäftsleute, die sich »keinerlei
-Gewissen daraus machen, genau so zu handeln, wie »Bare,
-unterstützt durchs Zinner, es tat. Die beiden haben den be
-Hdauernswerten, unpraktischen Patentnehmern stets sehr schlau
+Opfer fielen. Es gibt viele Geschäftsleute, die sich keinerlei
+Gewissen daraus machen, genau so zu handeln, wie Kareck,
+unterstützt durch Zinner, es tat. Die beiden haben den
+bedauernswerten, unpraktischen Patentnehmern stets sehr schlau
 eingeredet, daß die Erfindungen so gut wie wertlos seien,
 Haben die Leute erst abgewiesen, haben sie hingehalten und
 durch allerlei niederträchtige Mittel mürbe gemacht, bis
 die Betreffenden für ein Butterbrot die Arbeit vieler Jahre
-verkauften. Moralisch; ist Kareck natürlich gerichtet, denn
+verkauften. Moralisch ist Kareck natürlich gerichtet, denn
 den Inhalt seiner Notizen der Öffentlichkeit vorenthalten,
-Hieße nichts anderes als ähnliche Tränen noch zu Abscheu«-
-Motoren Streichen ermuntern. Karecks Habgier, Geiz und
+Hieße nichts anderes als ähnliche Hyänen noch zu Abscheulicheren
+Streichen ermuntern. Karecks Habgier, Geiz und
 Schamloser Zynismus werden noch durch die Randbemerkungen
-zu den einzelnen Fällen fraß beleuchtet. Er »hat
+zu den einzelnen Fällen kraß beleuchtet. Er hat
 genau ausgerechnet, was die Patente in Wirklichkeit wert
-gewesen sind. was er daran verdient hat und noch. verdienen
+gewesen sind, was er daran verdient hat und noch verdienen
 <@pagebreak/>
-würde, — Pfui Teufel, und ein solcher Kerl war
+würde. — Pfui Teufel, und ein solcher Kerl war
 nun Ehrendoktor zweier Universitäten, spielte im gesellschaftlichen
-und politischen Leben die erste Geige und .- —
-verrate einsam in seinem Auto!! Nennt man das eine gebührende
+und politischen Leben die erste Geige und — —
+verreckte einsam in seinem Auto!! Nennt man das eine gebührende
 Strafe für solchen Halunken?!«
 
 Gepp ereiferte sich selten. Heute war er bis oben mit
@@ -2470,52 +2470,50 @@ ihren Wällen von Gold und guten Beziehungen schamlos
 die Armen aussogen. Unser Abschied von Luzie und diesem
 Ekel von Ganter war daher auch mehr als frostig gewesen.
 Luzie hatte entschieden sehr viel von ihrem Vater geerbt —
-schon bei dessen Lebzeiten, — nichts innerlich Braunes. Sie
-war kalt, berechnend, voller Hochmut. Seine von Seefeld
+schon bei dessen Lebzeiten, — nichts innerlich Schönes. Sie
+war kalt, berechnend, voller Hochmut. Heinz von Seefeld
 hatte sie durchschaut, auf die Millionen verzichtet und ein
-Mädchen gewählt. das ihm sicherlich über Gepps Frist von
-zehn Jahren hinaus auch innige Geliebte bleibe! würde.
+Mädchen gewählt, das ihm sicherlich über Gepps Frist von
+zehn Jahren hinaus auch innige Geliebte bleiben würde.
 
 Die frische Winterluft tat uns wohl. Lautlos glitten
-Autos und Autobusse an uns vorüber Der fallende Schnee
-dämpfte allen Lärm. alle Lichtfülle, gab der breiten Prachtstraße
-etwas Geheimnisvolles. An der Kaiser-Wilhelm»-Gedächtniskirche
-beratschlagten wir über die Fortsetzung uns
-jener Arbeit. Harst sagte sehr zweckmäßig, drüben läge da€
-Pschorrbräu, und ein gutes Abendbrot könnte uns nicht…t?
+Autos und Autobusse an uns vorüber. Der fallende Schnee
+dämpfte allen Lärm, alle Lichtfülle, gab der breiten Prachtstraße
+etwas Geheimnisvolles. An der Kaiser-Wilhelm-Gedächtniskirche
+beratschlagten wir über die Fortsetzung unserer
+Arbeit. Harst sagte sehr zweckmäßig, drüben läge das
+Pschorrbräu, und ein gutes Abendbrot könnte uns nichts
 schaden. Aber er war vorsichtig und mißtrauisch und hielt
 immer wieder nach Verfolgern Ausschau.
 
-Wir wählten einen stillen Strich. Gepp taute nach dem
-zweiten halben Liter und einer RNioesenportion Eisbein etwas
+Wir wählten einen stillen Ecktisch. Gepp taute nach dem
+zweiten halben Liter und einer Riesenportion Eisbein etwas
 auf. Seine bissigen Bemerkungen über das moralisch defekte
-Duett Kater- Zinner milderten sich.
+Duett Kareck-Zinner milderten sich.
 
-Harald war ziemlich wortkarg. Er! als er sein »Schnitzel
-bewältigt hatte, und die Zigarette an die Reiz zum,
+Harald war ziemlich wortkarg. Erst als er sein Schnitzel
+bewältigt hatte, und die Zigarette an die Reihe kam,
 fragte er leise, indem er sich zu Gepp über den Tisch beugte:
 »Wem gehört der Anoden-Keller?«
 
 Gepp betrachtete gerade sein Gesicht im Handspiegel.
-
 <@pagebreak/>
 Aber der angeklebte Bart hatte der Schneenässe widerstanden.
-
-»Dem Bruder Elviras,« erwiderte er und kniff die »Augen
+»Dem Bruder Elviras,« erwiderte er und kniff die Augen
 klein. »Es ist ein Mann, der sicherlich nicht ahnt, wie sehr
-seine Schwester mit in all dem Schmutz herumwühlte. »Daß er
-die Signallampen in seinem Fenster duldete, will nickte besagen.
+seine Schwester mit in all dem Schmutz herumwühlte. Daß er
+die Signallampen in seinem Fenster duldete, will nichts besagen.
 Man wird ihm die Einrichtung harmlos begründet
-haben.««
+haben.«
 
-Harst, lächelte zweifelnd. »Ich möchte ihn kennen kennen
-— da
+Harst lächelte zweifelnd. »Ich möchte ihn kennen kennen
+— bald!«
 
-Alarich köpfte seine Zigarre. »Na — und Laube Nr. he«
+Alarich köpfte seine Zigarre. »Na — und Laube Nr. 4?!«
 ermunterte er zu energischeren Taten.
 
-»Oh — die scheidet aus. Der Generaldirektor der Umstarrt««
-A.-G. wird sich diese Nacht wieder ernstlich um sein
+»Oh — die scheidet aus. Der Generaldirektor der Anti-Kareck-A.-G.
+wird sich diese Nacht wieder ernstlich um sein
 Patent bemühen, nehme ich an.«
 
 »Orakelhaft, zu orakelhaft. Reden Sie deutsch, Harst! —
@@ -2524,62 +2522,62 @@ Bemühen?«
 »Ja. Das hängt mit den Linsensplittern zusammen.«
 
 Gepp schaute mich an. »Schraut, er spielt wieder Versteck
-mit uns. Man könnte aus sagen Blinde Kuh. Aber
+mit uns. Man könnte auch sagen Blinde Kuh. Aber
 ich bin keine Kuh. Meine hohen Herren behaupten, ich sei
-ein bissiger Ausgelotet. Da habe im mal gesagt, die klügsten
+ein bissiger Rasseköter. Da habe ich mal gesagt, die klügsten
 Hunde hielten eine Schafherde zusammen, und da hat mein
 Chef wortlos mein Zimmer verlassen.« Er grinste vergnügt.
-»Schraut, — Harst hält uns für Schafböcke. Zeigen wir, daß,
+»Schraut, — Harst hält uns für Schafböcke. Zeigen wir, daß
 wir Hörner haben. Stellen wir logische Schlußfolgerungen
 auf. Sherlock Holmes brauchte dazu eine Geige, eine Morphiumspritze
-und eine Tabakpfeife. Das ist veraltet, Ich
+und eine Tabakpfeife. Das ist veraltet. Ich
 brauche nur eins …« — er tippte sich mit dem Zeigefinger
 gegen die Stirn … »Gehirnschmalz!! — Er will
-zu Elviras Bruder, der den ergötzlicher Namen Traugott
-Saffran trägt, — Frau« Gott dem Saffran, denkt Hart!.
+zu Elviras Bruder, der den ergötzlichen Namen Traugott
+Saffran trägt, — trau’ Gott dem Saffran, denkt Harst.
 Was hofft er da zu finden? — Geben Sie mir ein Streichholz,
 Schraut … Wenn der Kellner noch mal meinen Gehrock
-bewundert, werde im grob. — Ober, noch eine halbe
-Maß … Haben Sie Luft, meinen Gehrock zu kaufen?
-
+bewundert, werde ich grob. — Ober, noch eine halbe
+Maß … Haben Sie Lust, meinen Gehrock zu kaufen?
 <@pagebreak/>
 Dann kommen Sie zu mir, ich bin der Kriminalkommissar
-Marsch Gepp …« Der Ober wurde blaurot und verduftete.
-Gepp lochte hinterdrein. »Also er will zu Frau Gott dem
-Hoffen … Der Seefeld meint auch, Saffran sei einwandfrei,
+Alarich Gepp …« Der Ober wurde blaurot und verduftete.
+Gepp lachte hinterdrein. »Also er will zu Trau Gott dem
+Saffran … Der Seefeld meint auch, Saffran sei einwandfrei,
 und ganz dumm ist Heinz Sehfeld — mit h —
 nicht, obwohl er lackierte Nägel, Bügelfalten und seidene
 Oberhemden hat. Ich glaube, er badet auch jeden Tag.
-Ihr nicht.«
+Ich nicht.«
 
-»Er sollte als Sam Barger seinen Wappenring nicht
+»Er sollte als Sam Barger seinen Wappenring *nicht*
 tragen,« meinte Harald und musterte die Gäste mit merklicher
 Eindringlichkeit.
 
 »Ah so, — also daher!« brummte Gepp. Er trank mit
--Behagen seine Blume. »Harst, wollen Sie nicht freundlichst
+Behagen seine Blume. »Harst, wollen Sie nicht freundlichst
 Ihren Schlachtplan näher skizzieren?«
 
 »Gern. Nur vorher eine Bitte … Dort drüben sitzt
--.ein älterer Herr hinter einer Zeitung. Wenn ich mich nicht
-eine, kam er nach uns und trägt auch jetzt den Wappenring.«
+ein älterer Herr hinter einer Zeitung. Wenn ich mich nicht
+irre, kam er nach uns und trägt auch jetzt den Wappenring.«
 
-— Gepp riß den Mund auf. »Seefeld?
-… — «- Die Maske ist nicht schlecht … — Gehen Sie
-»zu ihm und laden Sie ihm freundlichst ein, bei uns Platz
+Gepp riß den Mund auf. »Seefeld?!«
+
+»Ja… Die Maske ist nicht schlecht … — Gehen Sie
+zu ihm und laden Sie ihn freundlichst ein, bei uns Platz
 zu nehmen. Ich habe gewisse Leute lieber dicht vor mir.«
 
 Gepp war geradezu bestürzt. »Harst, um Himmelswillen,
 — — etwa Seefeld?!«
 
-»Edlen Sie ihn, aber erregen Sie kein Aufsehen. Er muß
+»Holen Sie ihn, aber erregen Sie kein Aufsehen. Er muß
 mitkommen, gerade er,«
 
-Gepp erhob sich zögernd. Er ging durch die Tischreikyen
+Gepp erhob sich zögernd. Er ging durch die Tischreihen
 und beugte sich über den eifrigen Zeitungsleser, der ihn
 Kühl durch eine graue Brille musterte. Dann zog Seefeld ein
 Papier aus der Tasche, Gepp las es, gab es ihm zurück und
-Kam wieder zu uns. Sein Gesicht war Gewitterwolke …
+Kam wieder zu uns. Sein Gesicht war Gewitterwolke.
 
 »Er hat den Polizeidienst quittiert,« sagte er dumpf. »Er
 zeigte mir die Bescheinigung des Chefs, daß er mit dem
@@ -2587,29 +2585,29 @@ Heutigen Tage ausgeschieden ist, er war ja nur Anwärter.«
 
 Harst schwieg erst. Dann meinte er kurz: »Ich Werde
 <@pagebreak/>
-mich mal zu ihm sehen … Im Schachspiel gibt es den,
+mich mal zu ihm setzen … Im Schachspiel gibt es den
 sogenannten Zugzwang,«
 
-… Er blieb etwa fünf Minuten an Seefelds Tisch, dann
+Er blieb etwa fünf Minuten an Seefelds Tisch, dann
 zahlte der Baron und kam mit zu uns, nahm mit knapper
-Verbeugung Platz und erklärte, sich an Gepp verkroch: »Ich
-Habe zwar Herrn. Harsts Andeutungen nicht verstanden, aber
-Pistolen mich doch veranlaßt, seinen Na! zu befolgen. Ich
+Verbeugung Platz und erklärte, sich an Gepp wendend: »Ich
+Habe zwar Herrn Harsts Andeutungen nicht verstanden, aber
+sie haben mich doch veranlaßt, seinen Rat zu befolgen. Ich
 werde Sie begleiten.«
 
-— Gepp blickte ihn traurig an. »Ich bin bitter enttäuscht,
-Seefeld. Hoffentlich artet diese Enttäuschung nicht von aus
+Gepp blickte ihn traurig an. »Ich bin bitter enttäuscht,
+Seefeld. Hoffentlich artet diese Enttäuschung nicht noch aus
 und wird amtliche Notwendigkeit …«
 
 Ein trübes Lächeln verzog Seefelds Mund. »Bedauere,
 — ich bin Privatmann und äußere mich zu nichts, Herr
 Gepp.«
 
-Zwei sehr peinliche Stunden verrannen in gequälter, un
-bedeutender Unterhaltung. Um halb elf brachen wir auf.
+Zwei sehr peinliche Stunden verrannen in gequälter,
+unbedeutender Unterhaltung. Um halb elf brachen wir auf.
 
 Im Auto bemerkte ich, daß Harst seine Pistole verborgen
-Hatte, Seefeld saß neben mir, und ich hatte das scheußliche
+Hatte. Seefeld saß neben mir, und ich hatte das scheußliche
 Gefühl, neben einem Mörder zu sitzen, der uns alle an
 Kaltblütigkeit und Verstellungskunst übertraf,
 
@@ -2619,29 +2617,29 @@ Kaltblütigkeit und Verstellungskunst übertraf,
 
 Wir gingen die letzten zwanzig Schritt zu Fuß und
 Standen nun in dem Kellereingang von Traugott Saffrans
-Radiosachen. Harst schaute sich um, aber die Straße war leer.
-Der Wind setzte von den Dächern die Schneeschleier herab,
+Radioladen. Harst schaute sich um, aber die Straße war leer.
+Der Wind fegte von den Dächern die Schneeschleier herab,
 und in diesem Hundewetter war wirklich nicht einmal ein
 hundegesperrter Hund nebst Maulkorb, Leine und Besitzer
-zu« leben.
+zu sehen.
 
 Harst öffnete die Tür mit dem Patentdietrich. Saffran
 schlief im Hofgebäude — irgendwo. Wir traten schnell
 ein, Harst versperrte die Tür wieder und schaltete seine
-Tasenlanpe ein.«
+Taschenlampe ein.
 
 <@pagebreak/>
-Der Anoden-Keller hatte hohe Warengestelle, zwei Neben
-Träume … Viele Lautsprecher und Apparate standen aufgereiht
+Der Anoden-Keller hatte hohe Warengestelle, zwei Nebenräume
+… Viele Lautsprecher und Apparate standen aufgereiht
 auf den Gestellen. — Harst flüsterte, indem er auf
 einen leeren Platz auf einem der obersten Bretter deutete:
-»» Dort etwa muß droben in Zinners Büro der Riesentresor
+»Dort etwa muß droben in Zinners Büro der Riesentresor
 sich befinden. Seine Größe war für mich nicht in Einklang
-mit der Breite und Höhe der Türen und Fenster zu bringen,
+mit der Breite und Höhe der Türen und Fenster zu bringen.
 Wer Augenmaß besitzt, mußte sich sagen, daß der Panzerschrank
 unmöglich als Ganzes in das Büro hineingeschafft
 worden sein kann. Zinner ist selbst technisch erfahren. Er
-bat das Ding allein gebaut, lackiert und ihm das Aussehen
+hat das Ding allein gebaut, lackiert und ihm das Aussehen
 eines Panzerschrankes gegeben. Es wird Holz sein,
 das mit Eisenblech überzogen ist. Dieses Monstrum muß
 einem besonderen Zwecke dienen, dachte ich weiter. Und
@@ -2649,17 +2647,17 @@ es stimmt. — Halte die Lampe, Schraut.« Er kletterte an
 dem Warengestell bis zur Decke empor und betastete die
 rissigen, gekalkten Ziegel, preßte die eine Hand flach gegen
 das Mauerwerk und drückte ein Brett hoch, das lediglich
-Ziegelsteine vortäuschte. — E? war eine Falltür, und gleich
+Ziegelsteine vortäuschte. — Es war eine Falltür, und gleich
 darauf hatten wir durch den »Tresor«, der im Innern ebenfalls
-täuschend ähnlich aussah und mehrere Sätzen … hatte,
+täuschend ähnlich aussah und mehrere Fächer hatte,
 Zinners Büro betreten. Die Rolläden waren herabgelassen,
-— im Hause regte sich nichts. Als ich den Lichtkegel dar
-Lampe zufällig über den Schreibtisch gleiten ließ, sah ihm aus
-dessen Öffnung zwei schäbige Filzpantoffeln, graue Boden
+— im Hause regte sich nichts. Als ich den Lichtkegel der
+Lampe zufällig über den Schreibtisch gleiten ließ, sah ich aus
+dessen Öffnung zwei schäbige Filzpantoffeln, graue Socken
 und zerknitterte Hosen herausragen.
 
 Doktor Armin Zinner hockte in der Öffnung. Er war
-tot. Neben — ihm stand ein Bauer mit einem schläfrigen
+tot. Neben ihm stand ein Bauer mit einem schläfrigen
 Kanarienvogel. — Gepp sagte beklommen: »Er ist noch warm.
 Er kann kaum eine halbe Stunde tot sein …«
 
@@ -2674,67 +2672,67 @@ Seefeld erwiderte dumpf: »Ich lehne eine Antwort ab!«,
 es ist so,«
 
 Wir hatten den Toten auf das Sofa gelegt. Wir standen
-mit dem Rücken nachts der Flurtür, und von dorther Eingang
+mit dem Rücken nach der Flurtür, und von dorther erklang
 eine harte Stimme:
 
-»Fände höchst«
+»Hände hoch!!«
 
 Ein blondbärtiger Mann war’s, der in der rechten Hand
-einen länglichen Kasten mit einer großen Linse vorn und. in
+einen länglichen Kasten mit einer großen Linse vorn und in
 Der Linken eine Pistole mit Schalldämpfer hielt.
 
 »Gehorchen Sie!!« — und es war ein Etwas in diesem
 Organ, das uns bezwang. Wir streckten die Arme empor
 und betrachteten scheu den unheimlichen Gegner, dessen große
-kceuchtane Augen uns förmlich in Dann schlugen.
+leuchtende Augen uns förmlich in Bann schlugen.
 
 »Ich will Ihnen alles Nötige erklären, meine Herren,«
-begann er mit eisiger Sachlichkeit, »Vielleicht hat Herr Harst
+begann er mit eisiger Sachlichkeit. »Vielleicht hat Herr Harst
 die Zusammenhänge bereits herausgefunden. Ich nehme dies
-an weil Sie meinen Laubenschlupfwinkel nicht aufgesucht
-Latten, sondern hierher gekommen sind. Ich kam früher …
+an, weil Sie meinen Laubenschlupfwinkel nicht aufgesucht
+hatten, sondern hierher gekommen sind. *Ich* kam früher …
 Es galt, auch Zinner zu bestrafen. — Ich warne Sie, meine
-Herren … Ich schieße oder. was nachts schlimmer wäre,
-ich lasse diesen Apparat spielen. in dem der sichere Tod
-feuert. — Mein Name tut nichts zur Satze. Ich nannte
-mich hie. bei Zinner Alfred Loring, ich Kante mich auch
+Herren … Ich schieße oder was noch schlimmer wäre,
+ich lasse diesen Apparat spielen, in dem der sichere Tod
+lauert. — Mein Name tut nichts zur Sache. Ich nannte
+mich hier bei Zinner Alfred Loring, ich nannte mich auch
 Tobias Remmele. Ihnen dürfte bekannt sein, daß der englische
-Heulte: Tiere vor drei Jahren einen Apparat vorführte,
-mit dem er« — durch eine besonders Art Strahlen —
-auf zuerst, Motor Entfernung Pulver, Dynamit, kurz —
-gen Opfergabe! zur Explosion brachte. Seine Erfindung
+Chemiker Clarc vor drei Jahren einen Apparat vorführte,
+mit dem er — durch eine besonders Art Strahlen —
+auf zwanzig Meter Entfernung Pulver, Dynamit, kurz —
+jeden Sprengstoff zur Explosion brachte. Seine Erfindung
 blieb trotzdem wertlos, da die Strahlen nur auf diese kurze
-Entfettung wirkten. Tiere wurde bald vergessen, sein Apparat
+Entfernung wirkten. Clarc wurde bald vergessen, sein Apparat
 war nur ein gefährliches Spielzeug. Ich bin ebenfalls
 Chemiker, bin ein armer Teufel allzeit gewesen, aber in
 mir brannte die Flamme des Ehrgeizes und … vielleicht
-die des Genies, Ich hungerte und experimentierte. Ja; he
-Über zwei Jahre mich bemüht, Tieres Erfindung zu verbessern.
+die des Genies. Ich hungerte und experimentierte. Ich habe
+Über zwei Jahre mich bemüht, Clarcs Erfindung zu verbessern.
 <@pagebreak/>
-Es gelang mir, In einer öden Heide stellte ich Versuche
+Es gelang mir. In einer öden Heide stellte ich Versuche
 an. Mein Apparat brachte Pulver auf tausend Meter
-zur Explosion. Ich war begeistert, aber — ich war auf.
-Ich hatte bereits von Zinner gehört, der gute Bezielyzungen
+zur Explosion. Ich war begeistert, aber — ich war arm.
+Ich hatte bereits von Zinner gehört, der gute Beziehungen
 zu Industriemagnaten haben sollte. Ich Selbst mochte meine
 Erfindung keinem Staate als neues Kriegskampfmittel anbieten,
-denn mein Apparat mußte. die gesamten Kampf
-Methoden völlig umwerfen. un9 ich fürchtete, jedes Kriegsministerium.
-würde mich einfach … verschwinden lassen,
-— Zinner wußte mein Vertrauen ’schmählich zu Häuschen,
+denn mein Apparat mußte die gesamten Kampfmethoden
+völlig umwerfen, und ich fürchtete, jedes Kriegsministerium
+würde mich einfach … verschwinden lassen.
+— Zinner wußte mein Vertrauen schmählich zu täuschen.
 Nachdem ich ihm den Apparat vorgeführt hatte, nachdem er
-ein Aktenstück Nr. 100832 angelegt hatte, schlug er mich hier
+ein Aktenstück Nr. 100&nbsp;832 angelegt hatte, schlug er mich hier
 in diesem Raum eines Nachts heimtückisch mit einer Eisenstange
-nieder, trug mich) in einem Koffer bei strömcnckn
-Regen mit Hilfe seiner Frau bis zum nahen Fluß rund
+nieder, trug mich in einem Koffer bei strömendem
+Regen mit Hilfe seiner Frau bis zum nahen Fluß und
 warf mich hinein. Der Koffer schwamm davon, — Zinner
 Hatte wohl gehofft, er würde sofort versinken, aber ich kam
-wieder zu mir und rettete mich. Öl
+wieder zu mir und rettete mich.«
 
 Der Unbekannte machte eine Pause. »Ich muß noch
 etwas erwähnen, das Wichtigste. Nicht ich, sondern Zinner
 fand zufällig heraus, daß die Strahlen, die ich Ypsilonstrahlen
-genannt hatte, zugleich auf Tiere tödlich wirkten.
-wenn der durch das Linsensystem konzentrierte Strahl aus
+genannt hatte, zugleich auf Tiere tödlich wirkten,
+wenn der durch das Linsensystem konzentrierte Strahl auf
 die Herzgegend fiel. Zinners hatten einen Hund, und der
 Hund starb — — an Herzschlag, nach ihm Katzen, Mäuse,
 Ratten, sogar ein altes Pferd.«
@@ -2743,31 +2741,31 @@ Harst unterbrach den Fremden. »Nur Bleiplatten schützen
 gegen Ihre Ypsilonstrahlen. deshalb kam ich heute mit
 dem Leben davon, als Zinner den Apparat auf mich gerichtet
 hatte … Ich zerschoß die Linsen, Zinner flüchtete …
-Zinner ermordete auch mit dem Apparat seinen Gesicht« sie
-Freund Kareck, da er merkte, daß Gepp ihm nachspürte. Kareck
+Zinner ermordete auch mit dem Apparat seinen Geschäftsfreund
+Kareck, da er merkte, daß Gepp ihm nachspürte. Kareck
 sollte stumm gemacht werden. Zinner warf die Rosen in das
 Auto, nachdem er Kareck vorher »bestrahlt« hatte. Die Rosen
 <@pagebreak/>
-mich das Amylnytrit sollten die Polizei auf eine falsche
+und das Amylnytrit sollten die Polizei auf eine falsche
 Spur lenken.«
 
-Der Fremde nickte. »Ja — und ich schickte an »Diner
+Der Fremde nickte. »Ja — und ich schickte an Zinner
 die toten Tiere, und Zinner, der wohl ahnte, daß ich an
-am Leben, griff diesen Gedanken auf und sandte Bare schottische
-Päckchen. Ich versuchte wiederholt, meinen. Apparat
+am Leben, griff diesen Gedanken auf und sandte Kareck ähnliche
+Päckchen. Ich versuchte wiederholt, meinen Apparat
 ihm zu stehlen. Ich brach hier ein, — das Aktenstück Nummer
 100&nbsp;832 hat er verbrannt, — ich fand nichts, bis ich gestern
 nacht entdeckte, daß der Tresor, an den ich mich nicht heranwagte,
-nur eine Attrappe « war. Dennoch entdeckte ich den
-Apparat nicht …
+nur eine Attrappe war. Dennoch entdeckte ich den
+Apparat nicht …«
 
-»Sie hatten noch einen zweiten,« warf »Harald ein …
+»Sie hatten noch einen zweiten,« warf Harald ein.
 »und damit töteten Sie Frau Zinner, damit töteten Sie
-jetzt auch Zinner selbst.« —
+jetzt auch Zinner selbst.«
 
 »Sie hatten es verdient, die beiden, Herr Harst. — Ich
 will nur noch bemerken, daß ich beide Apparate vernichten
-werde … Mr selbst wird man niemals finden. Ich) habe
+werde … Mich selbst wird man niemals finden. Ich habe
 Zinner jetzt genügend Bargeld abgenommen, um ein neues
 Leben beginnen zu können. Mein Ehrgeiz ist auch tot,
 von den Ypsilonstrahlen wird nie wieder jemand etwas hören
@@ -2777,33 +2775,32 @@ oder spüren — mein Wort darauf!«
 
 »Ich, Herr Gepp.«
 
-»Besten Dank … Es ist ein hübsches Tier, und …-«
+»Besten Dank … Es ist ein hübsches Tier, und …«
 
 Gepp verstummte …
 
-So? unseren Füßen zerplatzte eine Glaskugel, — das.
-List ging aus, giftige Dämpfe erfüllten den Raum, — —
+Vor unseren Füßen zerplatzte eine Glaskugel, — das
+Licht ging aus, giftige Dämpfe erfüllten den Raum, — —
 als wir den Flur halb betäubt erreichten, stand die Haustür
 weit offen. — —
 
-Der nun mit den Ypsilonstrahlen ist nie ermittelt
+Der Mann mit den Ypsilonstrahlen ist nie ermittelt
 worden, auch seine Helfershelfer nicht.
 
 Gepps Papagei spricht jetzt sehr deutlich die Worte:
 »Guten Morgen, Herr Kriminalrat!« — Gepp ist tatsächlich
-besonders worden.
+befördert worden.
 
 <@pagebreak/>
 Seefeld und Helene leben irgendwo auf einem Gut in
-Pommern, Luzie Kareck soll sich in Italien eine Villa Die
-sanft haben.
+Pommern, Luzie Kareck soll sich in Italien eine Villa gekauft
+haben.
 
-»Manchmal habe ich so das Gefühl, als ob Harald doch
-wüßte, wer der Mann ’mit den Todesstrahlen. ist.!
+Manchmal habe ich so das Gefühl, als ob Harald doch
+wüßte, wer der Mann mit den Todesstrahlen ist.
 
 Ich mag mich täuschen …
 
-Nächster Band:
-
-Die Rahmenantennse
+<#import "*/harst.ftl" as harst>
+<@harst.naechsterband band="Die Rahmenantenne."/>
 
