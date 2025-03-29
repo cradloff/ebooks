@@ -1083,20 +1083,21 @@ Casablanca nach Berlin zurückgekehrt war. —
 
 <h3>Hulda, die zweimal starb.</h3>
 
-Ins wir heimkehrten, war Mathilde glänzender Laune.
+Als wir heimkehrten, war Mathilde glänzender Laune.
 Die Globus-Leute waren abgezogen, das ganze Haus
-Doch nach Seife und Terpentin, auf dem Parkett hätte
-man GÖdlittsichub laufen können, und im Wintergarten
-Wartete unser ein opulzante3 Mahl.
+roch nach Seife und Terpentin, auf dem Parkett hätte
+man Schlittschuh laufen können, und im Wintergarten
+Wartete unser ein opulentes Mahl.
 
 Haralds Mutter legte mir wie stets das größte
-Center auf den Teller. »Lieber Schraut, Sie sehen gänzä
-.:) verstört aus, und Harald … lächelt.«
+Schnitzel auf den Teller. »Lieber Schraut, Sie sehen gänzlich
+verstört aus, und Harald … lächelt.«
+
 <@pagebreak/>
 Harald lächelte wirklich. »Ich habe Grund dazu, Mama.
 Es gibt nichts Anregenderes als einen Kriminalfall, von
 dem man noch nicht recht wußte, ob es überhaupt ein
-»Fall« sei. Ätzt weiß ich es bestimmt. Wenn mich aber
+»Fall« sei. Jetzt weiß ich es bestimmt. Wenn mich aber
 jemand fragen würde, was ich von der Sache halte, müßte
 ich ehrlich erklären: Mein Name ist Hase, — ich weiß von
 gar nichts!«
@@ -1108,24 +1109,24 @@ zu niemals einen so gesegneten Appetit entwickeln. Dann
 würden deine Gedanken den Magen betrügen, und deine
 Laune läge unter dem Gefrierpunkt.«
 
-»Die die des Herrn Passus Stephani, Futteral,
-Doktor beiden Rechte, Rechtsanwalt, zugelassen bei den
-Amtsgerichten Berlin 1, Um, ist, 1V, V, Vl, — und so
+»Wie die des Herrn Justus Stephani, Justizrat,
+Doktor beider Rechte, Rechtsanwalt, zugelassen bei den
+Amtsgerichten Berlin I, II, III, IV, V, VI, — und so
 weiter, — zur Zeit ist mir nicht mehr gegenwärtig, wie
-viele Amtsgerichte wir der haben, nur das eine weiß
+viele Amtsgerichte wir hier haben, nur das eine weiß
 ich bestimmt: Stephani hat alle Aussicht, sich demnächst
 ins Privatleben zurückziehen zu können und zwar in eines
 unserer Zuchthäuser.« Er sagte das mit ironischer Geringschätzung,
-und mein erstaunter Bis veranlaßte ihn zu der
-Schlufßbemerkfung: »Stephani besitzt einen so schlechten Ruf,
-daß sein Hund von ihm einen Knochen annehmen würde,
+und mein erstaunter Blick veranlaßte ihn zu der
+Schlußbemerkung: »Stephani besitzt einen so schlechten Ruf,
+daß kein Hund von ihm einen Knochen annehmen würde,
 — seine Klientel besteht aus all den kleinen Dieben und
 Gaunern, die von den Kanonen der Zunft höchstens zum
 Schmierestehen benutzt werden, — nicht einmal das möchte
 ich annehmen. Er verteidigt Zuhälter, Taschendiebe, Fledderer
 — ähnliche erbärmliche Wichte, die nicht den Mut
 besitzen, etwas zu wagen. Man hegt seit langem Verdacht,
-Haß er nebenbei den Hehler spielt. Ihm gehört in der
+daß er nebenbei den Hehler spielt. Ihm gehört in der
 Paulsborner Straße jene kleine verkommene Villa, deren
 Garten nach hinten zu an einen Bauhof stößt. Der Mann
 Ist seit langem reif für das Schwurgericht, aber — seine
@@ -1135,36 +1136,36 @@ die Kriminalpolizei. Wenn man ihn mal gefaßt zu haben
 glaubte, treten stets Zeugen auf, die für ihn tausend
 Meineide schwören. In jenen Kreisen, in denen er als
 Anwalt so gesucht ist, nennt man ihn nur den Ziegenbock,
-— man gebt für ihn durch Feuer, ganze Verbrecherviertel
-wetteifern miteinander, Jan herauszuhauen. —
-In dem Augenblick, als wir erfuhren, daß sollte Das
-Meister bei ihm Stenotypistin gewesen, bevor sie zu Egon
+— man geht für ihn durchs Feuer, ganze Verbrecherviertel
+wetteifern miteinander, ihn herauszuhauen. —
+In dem Augenblick, als wir erfuhren, daß Isolde Backmeister
+bei ihm Stenotypistin gewesen, bevor sie zu Egon
 von Croß kam, habe ich mich in aller Stille mit Stephani
 weit mehr beschäftigt, als du es ahnst, mein lieber Alter.
-Zwei vom Globus — auch das ist dir neu — sind. dauernd
+Zwei vom Globus — auch das ist dir neu — sind dauernd
 hinter ihm her. Er ist, behaupte ich, der Hauptmacher bei
 diesen bisher so undurchsichtigen Vorfällen, er bereitet
 jetzt den großen Fischzug vor, auf den seine Habgier
 längst gehofft hat, dann die Seele dieses Menschen ist
-vom Geiz zerfressen, falls er überhaupt reiche eine Seele
-daß! Alles traue ich ihm zu, — seine Ontelligenz triumphierte
+vom Geiz zerfressen, falls er überhaupt noch eine Seele
+hat! Alles traue ich ihm zu, — seine Intelligenz triumphierte
 bisher über hunderte von Kriminalbeamten. Er
 ist eine echte Großstadtgiftpflanze, — nur in Millionenstädten
 können derartige Schmarotzer existieren. Frage
-Freund Bechert nach ihm, frage Lücke, Herr, all die
-anderen ersten Kräfte: vom Roten Alex: Sie werden
-die Fäuste ballen und grimme Gletscher schneiden und
-die Achseln Luken. Stephani ist wie ein hochmoderner
+Freund Bechert nach ihm, frage Lücke, Gepp, all die
+anderen ersten Kräfte vom Roten Alex: Sie werden
+die Fäuste ballen und grimme Gesichter schneiden und
+die Achseln zucken. Stephani ist wie ein hochmoderner
 Tresor, unangreifbar. Wer nicht das Zauberwort des
-Kombinatiopnsschlojjes kennt, diesen Tresor zu öffnen, wird
+Kombinationsschlosses kennt, diesen Tresor zu öffnen, wird
 nie das Innere sehen. Ich … glaube das Zauberwort
 zu kennen, und ich werde nicht ruhen noch rasten, bis
 dieser Kerl zur Strecke gebracht ist. Im übrigen heißt
 dieses Zauberwort …« — Kurze Pause —
 
-»Isolde!« ergänzte im atemlos.
+»Isolde!« ergänzte ich atemlos.
 
-»Ja, Blickte! — — Was bringen Sie denn da,
+»Ja, Isolde! — — Was bringen Sie denn da,
 Mathilde?«
 
 »Eine Depesche …«
@@ -1173,31 +1174,32 @@ Er riß sie ihr aus der Hand, öffnete sie und las …
 
 <@pagebreak/>
 Sein Gesicht wurde hart, ehern.
-»Armer Schütz!« meinte er leise … »Armer ferner
-Gesund …!! Seine Frau depeschiert mir:
 
-Wein Mann verschwunden, als er Einschreibebrief an
+»Armer Schütz!« meinte er leise … »Armer ferner
+Freund …!! Seine Frau depeschiert mir:
+
+> Mein Mann verschwunden, als er Einschreibebrief an
 Sie abgehen lassen wollte. Hiesige Polizei machtlos. —
 Ermordete Deutsche jetzt zweifelsfrei erkannt als eine
 Touristin Hulda Arndt aus Berlin, wohnhaft hier in
-Casablanca seit sieben Monaten, sIchriftstellerte, lebte
-auf großem Fuße, hatte Villa am Meer gemietet, Burg
+Casablanca seit sieben Monaten, schriftstellerte, lebte
+auf großem Fuße, hatte Villa am Meer gemietet, burgähnlichen
+Bau mit drei Türmen. — Bitte kommen. —
 
-ähnlichen Bau mit drei Türmen. — Bitte kommen. —
-PG Hanna Schütz.
-… Das vierte Opfer also — — der »vier«, und sicher
+> Gruß Hanna Schütz.
 
-lich nicht das letzte,« fügte Harst hinzu und »läutete nach
+… Das vierte Opfer also — — der »vier«, und sicherlich
+nicht das letzte,« fügte Harst hinzu und läutete nach
 Mathilde, die bereits wieder in ihre Regionen der Kochtöpfe
-zurüsgekehct war. »Mathilde, bringen Sie mir bitte
+zurückgekehrt war. »Mathilde, bringen Sie mir bitte
 den ersten Band des Berliner Adreßbuches — etwas
 beschleunigt.«
 
-Unsere brave Die schleppte den Riesenband herbei
-und erinnerte brummend an den noch nicht!ervierten
-Nachttisch, Griespudding mit Gruchttunke.
+Unsere brave Dicke schleppte den Riesenband herbei
+und erinnerte brummend an den noch nicht servierten
+Nachtisch, Griespudding mit Fruchttunke.
 
-3H für meine Person verzichte,« erklärte Harald
+»Ich für meine Person verzichte,« erklärte Harald
 zerstreut und blätterte eifrig unter A … — »Arndt,
 Hulda, Näherin, — fällt aus, — Arndt, Hulda, Konfitürengeschäft,
 — fällt aus, — — halt, hier … Arndt,
@@ -1209,105 +1211,106 @@ Frau Harst fragte gespannt: »Deine Annahme, daß
 diese Frau starb, weil sie die Postkarten beförderte, ist
 nun doch völlig widerlegt worden, mein lieber Junge?!«
 
-»hin Gegenteil,« lautete seine höchst unbefriedigende
+»Im Gegenteil,« lautete seine höchst unbefriedigende
 Antwort, »diese meine Annahme, die zunächst lediglich
 reine Gefühlssache war, ist nunmehr durch verschiedenes
 erhärtet worden, liebe Mutter.« Er stand mit dem Adreßbuch
 im Arm neben dem Tisch und erwartete als guter
 <@pagebreak/>
 Sohn die notwendige zweite Frage. Frau Auguste Harst
-rückte sich nervös das schwarze Häubchen auf dem weiten
-Matronenscheitel zuerst und meinte etwas vermied: »D’ in.
-… — — dann finde ich mich 14 diesen Dir gen schon gar nicht?
+rückte sich nervös das schwarze Häubchen auf dem weißen
+Matronenscheitel zurecht und meinte etwas verwirrt: »Dann
+… dann finde ich mich in diesen Dingen schon gar nicht
 mehr zurecht, Harald … Isolde Backmeister wurde doch
-niemals gefangen gebauten, da an dich gerichtete Karte
-war ein Scherz, die an Croß Gesandte stammt nicht von
-ihr, somit kann auch diese Hulda Arndt nicht Sefangennwärterin
+niemals gefangen gehalten, die an dich gerichtete Karte
+war ein Scherz, die an Croß gesandte stammt nicht von
+ihr, somit kann auch diese Hulda Arndt nicht Gefangenenwärterin
 gespielt haben … Nein, die Sachlage ist mir zu
-verworren …« —
+verworren …«
+
 Harald entgegnete leise: »Scheint verworren — j!&cint
-Isolde war eins Gefangene, — daß sie es jetzt leugnet,
-daß nichts auf sie, sie mag nachts immer unter fremd
-Einfluß stehen. oh hätte nie geglaubt, Stephani bereit
-bei ihr vorzufind2an — und wenn, nicht so … so als
-willkommenen Gast, der in &Ssoldes Zimmer seine Zigarre
-rauchte, denn er hatte dort geraucht. Was. nach dieser
+Isolde *war* eine Gefangene, — daß sie es jetzt leugnet,
+hat nichts auf sich, sie mag noch immer unter fremdem
+Einfluß stehen. Ich hätte nie geglaubt, Stephani bereits
+bei ihr vorzufinden — und wenn, nicht so … so als
+willkommenen Gast, der in Isoldes Zimmer seine Zigarre
+rauchte, denn er hatte dort geraucht. Was nach dieser
 Zigarre, die er bei unserem Eintritt hastig zum Fenster
 Hinauswarf — das eine Fenster stand offen —, alles
 geschah, war … Theater, liebe Mutter. Schlechtes Theater,
-Szenen aus einem Rährstüs mit Stephani als bösem
-Dämon und Isolde als verlangten Unschuld … Sogar der
+Szenen aus einem Rührstück mit Stephani als bösem
+Dämon und Isolde als verkannter Unschuld … Sogar der
 Geschäftsbote von Wertheim mit den Riesenpaketen war
 Schwindel, der Mann trug zwar die Wertheimuniform,
 aber unten auf der Straße wartete kein Lieferauto des
 Kaufhauses, weit und breit war nichts davon zu sehen,
-—» nach; diesem Auto hielt ich Ausschau, mein
-Alter, und entdeckte Dieter Berlins, Kunstmaler, der auch
-in Casablanca Beweisen war und nun vorläufig vernehmungsunfähig
+— nach diesem Auto hielt ich Ausschau, mein
+Alter, und entdeckte Dieter Jelling, Kunstmaler, der *auch*
+in Casablanca gewesen war und nun vorläufig vernehmungsunfähig
 ist. — Mama, wenn du so liebenswürdig
-sein wolltest, unsere Koffer zu Paten … Wir
-reisen abends über Basel—Nizza nach Nacheilte … Inzwischmen
-dürfte auch Gern von Croß reisefähig geworden
-sein, Agrarier sind zäh, und der Baron ist diesseits
+sein wolltest, unsere Koffer zu packen … Wir
+reisen abends über Basel—Nizza nach Marseille … Inzwischen
+dürfte auch Egon von Croß reisefähig geworden
+sein, Agrarier sind zäh, und der Baron ist vielleicht
 zäher, als wir denken … Wiedersehen, liebe Mutter.«
 
 <@pagebreak/>
 In der Autotaxe, die uns nach der Elsholzstraße
 brachte, genoß Harst als Nachtisch sieben Zigaretten, die er
-in Wahrheit »fraß«. So raucht nur ein Mensch, dessen
+in Wahrheit »fraß«. *So* raucht nur ein Mensch, dessen
 Gedanken galoppieren. Ich kannte das schon an ihm.
-Hätte ich jetzt eine? Frage an ihn gerichtet, — er würde
+Hätte ich jetzt eine Frage an ihn gerichtet, — er würde
 sie überhört haben.
 
 Das Auto hielt vier Häuser vor dem Ziel, schräg
 gegenüber dem Kammergericht. Wir ließen die Taxe
 warten. Der Chauffeur war uns kein Fremder. Wir nehmen
-zumeist die Haltestelle der Kraftdroschkfen am Ehrenplatz
+zumeist die Haltestelle der Kraftdroschken am Elsterplatz
 in Anspruch. Das hat seine Vorteile. — Vielleicht
-ist ’es bezeichnend für meinen Freund, daß er nie daran
-gehabt hat, sich einen eigenen Wagen zuzulegen. Manchmal
+ist es bezeichnend für meinen Freund, daß er nie daran
+gedacht hat, sich einen eigenen Wagen zuzulegen. Manchmal
 habe ich sanft angetippt und hierzu geraten. Seine
-Antwort war stets die gleich?: »Ein eigenes Auto für uns
+Antwort war stets die gleiche: »Ein eigenes Auto für uns
 wäre wie ein Aushängeschild, es hätte mehr Nachteile
-als Verteilt, ganz abgesehen davon, daß es der schlichten
+als Vorteile, ganz abgesehen davon, daß es der schlichten
 Tradition meiner Familie widerspräche.«
 
 Elsholzstraße 78 war eines jener Gebäude, die noch
 zu einer Zeit entstanden waren, als man in besseren
 Miethäusern von Marmortreppen, Grotten mit Springbrunnen
 und ähnlichen Ausputz anbringen konnte. Des
-Hauswart entstammte ebenfalls aus dieser Zeit einer ’ge-
-stehenden Währung, er trug einen Patriarchenbart und
-hatte ein humorvolles Blinzeln ja den Augen.
+Hauswart entstammte ebenfalls aus dieser Zeit einer
+gesicherten Währung, er trug einen Patriarchenbart und
+hatte ein humorvolles Blinzeln in den Augen.
 
-»grau Hulda Arndt?!« — und er ward? sehr ernst.
+»Frau Hulda Arndt?!« — und er wurde sehr ernst.
 »Meine Herren, da kommen Sie um ein Jahr zu spät.
-Frau Arndt verstarb genau vor elf Monaten, ihre Sicebenzimmerwohnung
-bat jetzt jemand anders inne, ein Fräulein
+Frau Arndt verstarb genau vor elf Monaten, ihre Siebenzimmerwohnung
+hat jetzt jemand anders inne, ein Fräulein
 Backmeister …«
 
-»nickte Backmeister?« fragte Harald gleichgültig.
+»Isolde Backmeister?« fragte Harald gleichgültig.
 
-»Stimmt … Iso’de Backmeister — sehr reich, meine
-Herren, immer. auf Reisen, in der Wohnung halten sich
+»Stimmt … Isolde Backmeister — sehr reich, meine
+Herren, immer auf Reisen, in der Wohnung halten sich
 jetzt nur ihr Chauffeur und der alte Diener Stephan
-auf, —« so als Wächter wissen Sie … Arabische n gibt’«
+auf, — so als Wächter wissen Sie … Einbrechen gibt’s
 <@pagebreak/>
 da nicht« — er musterte uns von oben bis unten — »es
 sind auch Hunde da, Eisentüren, Gitter, Alarmglocken.«
 
 Harst lachte. »Wir sind keine Gauner, — wir sind
 nur Beamte der Feuerversicherung. Es ist da noch eine
-Prämie von der Frau Arndt oder ihren Geben zu bezahlen
-… Meer sind die Geben?«
+Prämie von der Frau Arndt oder ihren Erben zu bezahlen
+… Wer sind die Erben?«
 
-»Na — doch das Fräulein holde Backmeister, ihre
-Nichte … Sehen Sie nur rauf … Der Diener Stephan
-ist zu Hause …«-
+»Na — doch das Fräulein Isolde Backmeister, ihre
+Nichte … Gehen Sie nur rauf … Der Diener Stephan
+ist zu Hause …« —
 
 Im zweiten Stock läuteten wir jedoch zunächst umsonst.
 Wir hörten die Baßstimmen großer Hunde, wir
-merkten auch, daß der Deckel des Tatsache. in Her« Tür …
+merkten auch, daß der Deckel des Guckloches in der Tür
 zur Seite geschoben wurde.
 
 »Öffnen Sie!« rief Harald energisch.
@@ -1317,7 +1320,7 @@ benutzt, dann grinste uns durch die Türspalte ein fahles,
 bartloses Totenkopfgesicht an … Zwei Schäferhunde
 knurrten, eine brüchige Stimme fragte höflich:
 
-»Damit kann ich dienen, meine Herren?«
+»Womit kann ich dienen, meine Herren?«
 
 Das Märchen von der Versicherungsprämie hätte uns
 diese Festung niemals zugänglich gemacht. Harst erklärte
@@ -1325,164 +1328,157 @@ gedämpft, wer wir seien, zeigte auch seinen Ausweis vor.
 
 Der alte Diener in der Livreejacke ließ uns wirklich
 ein, nachdem er die Hunde beim Halsband genommen
-Lotte, — führte uns in einen wunderbaren Salon im
+hatte, — führte uns in einen wunderbaren Salon im
 Biedermeierstil mit kostbaren Gemälden und Teppichen
-Und hat uns Platz zu Kabinen, indem er von zwei Sesseln
-die Leinwandhüllen Triefende. Wir setzten uns, — der
+Und bat uns Platz zu nehmen, indem er von zwei Sesseln
+die Leinwandhüllen entfernte. Wir setzten uns, — der
 Alte stand vier Schritt vor uns, ein höhnisches Grinsen
-lief über sein wächsernes Gesicht, — — seine Gestalt her-,
-rann mir vor den Augen, — — ein Schwindelgefühl riß
+lief über sein wächsernes Gesicht, — — seine Gestalt zerrann
+mir vor den Augen, — — ein Schwindelgefühl riß
 mich hinab in die Tiefen schwerer Bewußtlosigkeit.
 
 — — Als die von Haralds Mutter benachrichtigte
 Polizei am Abend die Wohnungstür aufbrechen ließ,
-sagen wir in dem Salon auf dem nahen Fußboden.
+lagen wir in dem Salon auf dem nackten Fußboden.
 
 <@pagebreak/>
 Zwei Stunden nach unserem Gespräch mit dem Hauswart
 waren drei Möbelwagen erschienen, der Diener hatte
 die Wohnung angeblich in Isolde Backmeisters Auftrag
-gesündigt, die Miete für den Rest der Mietzeit bezahlt,
-und — — Das Nest war leer, niemand wußte, wohin
+gekündigt, die Miete für den Rest der Mietzeit bezahlt,
+und — — das Nest war leer, niemand wußte, wohin
 der Diener Stephan, der Chauffeur, die Hunde und die
 Möbel verschwunden waren … —
 
 Dies berichtete uns Freund Lücke, der als guter
 Freund die Ermittlungen in die Hand genommen hatte.
 
--
-
-ld « wund —
-… u« ck —.-
-
 <h2>5. Kapitel.</h2>
 
-<h3>Die Bruderschaft Stephan!.</h3>
+<h3>Die Bruderschaft Stephani.</h3>
 
 Harald ruhte im Klubsessel, ich auf dem Diwan, —
 der patente Hans saß auf dem Schreibtisch, schlenkerte mit
-den langen Beinen und sagte in seiner drastischer Art:
-»Saß ihr alten gewiegten Kerle aber auch so glatt in die
-Falle kriechen mußtet!! Kinder, im hätte unbedingt Verdacht
-geschnorrt!«
+den langen Beinen und sagte in seiner drastischen Art:
+»Daß ihr alten gewiegten Kerle aber auch so glatt in *die*
+Falle kriechen mußtet!! Kinder, ich hätte unbedingt Verdacht
+geschöpft!«
 
-»6D?!« Harst war peng ebenso schachmatt wie ich.
-»Saß man in dem Salon zwei Sessel als Giftgasbläser
+»So?!« Harst war noch ebenso schachmatt wie ich.
+»Daß man in dem Salon zwei Sessel als Giftgasbläser
 Hergerichtet hatte, konnten wir nicht gut vorausahnen. —
-Tale Möbelfirma besorgte den ÄAbtransport?«
+Welche Möbelfirma besorgte den Abtransport?«
 
-»Keine. — Auf den Wagen stand »Gerettet« als
-Firmenbezeichnung. Gerettet gibt’s nicht. Weiß Gott,
+»Keine. — Auf den Wagen stand »Schrotter« als
+Firmenbezeichnung. Schrotter gibt’s nicht. Weiß Gott,
 wo die Wagen her waren.«
 
-»Saft weiß es, und Stephani auch, lieber Lücke,«
-meinte Harst müde und. gähnte. »Stephani ist eben das
+»Gott weiß es, und Stephani auch, lieber Lücke,«
+meinte Harst müde und gähnte. »Stephani ist eben das
 Haupt einer Bande, von deren Machtmitteln ihr vom
-Noten Alex keinen Schimmer habt.«
+Roten Alex keinen Schimmer habt.«
 
 »Oh — einen blassen Schimmer doch wohl,« seufzte
 Lücke und putzte sein Monokel. »Leider zu blaß, der
-Schimmer … Dem Schuft ist nicht beizukommen … ;.«
+Schimmer … Dem Schuft ist nicht beizukommen …«
 
 <@pagebreak/>
-»Waren Sie bei Geölte Backmeister im Pensionat
+»Waren Sie bei Isolde Backmeister im Pensionat
 Drake?« warf ich nun meinerseits ein. — Ich fand das
 Tempo dieser Aussprache denn doch zu schleppend.
 
-Lücke erwiderte sehr gedehnt: »Natürlich war hoch dort.
+Lücke erwiderte sehr gedehnt: »Natürlich war ich dort.
 Ihre Frau Mutter, Harald, war ja über alles genau informiert,
 besser als Hubert Huß, — ja, ich traf gestern
 abend Fräulein Backmeister dort an und ihre Erklärungen
 genügten mir durchaus. — Als ihre Tante Hulda Arndt,
 geschiedene Frau Justizrat Stephani …«
 
-Harst hatte sich aufgerichtet. »Geschiedene Stephani?!k
-— Nun wird die Sache noch dunkler!!« tief or dazwischen.
+Harst hatte sich aufgerichtet. »Geschiedene Stephani?!
+— Nun wird die Sache noch dunkler!!« tief er dazwischen.
 
-»- … Als ihre Tante gestorben war, fand man ein
-Testament, das erst naß vier Monaten eröffnet werden
-sollte. Am Tage der Testamentseröffnung war Geölte
+»… als ihre Tante gestorben war, fand man ein
+Testament, das erst nach vier Monaten eröffnet werden
+sollte. Am Tage der Testamentseröffnung war Isolde
 in Berlin, und dieser Tag war der zwölfte November
-des Vorjahres, also zwei Tage nach Dichtes »Flucht«
-aus Crossenstein … Geölte wurde Alleinerbin, Üübernabm
+des Vorjahres, also zwei Tage nach Isoldes »Flucht«
+aus Crossenstein … Isoldes wurde Alleinerbin, übernahm
 die Wohnung in der Elsholzstraße, mietete neues
-Personal und … verreiste. Sie hatte mit Hulda Arndt Stephani
+Personal und … verreiste. Sie hatte mit Hulda Arndt-Stephani
 stets auf sehr schlechtem Fuße gestanden, und
 sie betonte auch, daß sie sich in der großen Wohnung
 niemals wohlfühlen würde, deshalb sei sie auch jetzt
-wieder bei Drakes abgestiegen. — Kurz und. gut: Der
-Diener Stephan Hause und der Chauffeur haben die
-Unschwer, Gemälde und Kunstschätze gestohlen, sind verduftet,
-Isolde weint ihnen keine Träne na, sie hat nur
+wieder bei Drakes abgestiegen. — Kurz und gut: Der
+Diener Stephan Zwack und der Chauffeur haben die
+Möbel, Gemälde und Kunstschätze gestohlen, sind verduftet,
+Isolde weint ihnen keine Träne nach, sie hat nur
 Gedanken für ihre neue Wohnung und ihre Hochzeit,
-Eine: Daß sie eure beiden ihren Reichtum verschwiegen
 — — ich finde an ihr nichts zu bemängeln, höchstens das
 Eine: Daß sie euch beiden ihren Reichtum verschwiegen
-daß, sie besitzt drei Millionen Mark, immerhin ein Batzen
-
-Old.«
+hat, sie besitzt drei Millionen Mark, immerhin ein Batzen
+Geld.«
 
 Harald sagte: »Sie besitzt es — noch! Wie lange
 sie Besitzerin bleibt, darüber wird wohl jemand anders
 bestimmen.«
 
 <@pagebreak/>
-— »Stephani?!«
+»Stephani?!«
 
 »Vielleicht … — Geben Sie mir ein Glas Rotwein
-—, lieber Lücke … 3ch darf! nicht länger krank sein.
-Es, ist die höchste Zeit, daß wir abreisen … Behalten
+—, lieber Lücke … Ich darf nicht länger krank sein.
+Es ist die höchste Zeit, daß wir abreisen … Behalten
 Sie all die fragwürdigen Herrschaften hier im Auge …!
-— Dr ist Egon von Croß?«
+— Wo ist Egon von Croß?«
 
 Lücke füllte gerade die Weingläser. »Hm — das
-wollte im euchm erst auftischen, wenn ihr wieder ganz
+wollte ich euch erst auftischen, wenn ihr wieder ganz
 mobil seid … Croß ist gestern nachmittag ein Uhr von
-der Unfallstation entlassen worden, bestieg eine Autotaxe.
-und wollte zu euch … Auch er ist … verschwundenn,
+der Unfallstation entlassen worden, bestieg eine Autotaxe
+und wollte zu euch … Auch er ist … verschwunden,
 besser, er ist entführt worden … Wir hatten
 abends dann große Konferenz beim Chef, — wir sind
 mit allen verfügbaren Kräften hinter dieser Bande her,
 die irgendeinen großen Schlag vorbereitet, — hinter einem
-Phantom sind wir her, denn — — wo zugeben?! Die
-SEcHimmeldroschie Dich gesucht, das dunkelgrüne Auto,
+Phantom sind wir her, denn — — wo zupacken?! Die
+Schimmeldroschke wird gesucht, das dunkelgrüne Auto,
 der Kerl, der auf Croß feuerte, der Kerl, der den Maler
-Reling niederschoß, — Huß und seine Garde dessen uns,
+Jelling niederschoß, — Huß und seine Garde helfen uns,
 der Globus ist ja das beste und einwandfreieste Detektivinstitut
-von Berlin, — Stephani ist von mir in aller
+von Berlin. — Stephani ist von mir in aller
 Höflichkeit ausgefragt worden, er hat mich überhöflich
 hinauskomplimentiert, er erklärte, das Vermögen seiner
 geschiedenen Frau Hulda, geborene Arndt, stamme aus
 Spekulationen, er sei bei der vor anderthalb Jahren erfolgten
 Scheidung als allein schuldiger Teil — körperliche
 Mißhandlung — befunden worden, er brauche keine fremden
-Millionen, er sei selbst Millionär,« — Pferde Backmeister
+Millionen, er sei selbst Millionär,« — Isolde Backmeister
 habe er nie als angeheiratete Verwandte anerkannt,
 sie sei eine scheinheilige Kröte — — und so weiter.
 — Diese Unterredung war wie gesagt durchaus einseitig,
 ich kam kaum zu Worte, nur Stephani redete, dann öffnete
 er die Tür seines sogenannten Sprechzimmers, — —
-und ich machte, daß ich seltsam, im habe gute Nerven,
-der Kerl ließ mich fiebern, ich spürte den überlegenen
+und ich machte, daß ich fortkam, ich habe gute Nerven,
+*der* Kerl ließ mich fiebern, ich spürte den überlegenen
 <@pagebreak/>
 Hohn, den niederträchtigen Spott, — — er begleitete
 mich bis zur Haustür seiner stinkenden Villa, rief mir
-noch nach: »Trüben Sie Harst von der Bräüderichaft
+noch nach: »Grüßen Sie Harst von der Brüderschaft
 Stephani, Herr Doktor … Natürlich nimmt er an, ich sei
 so etwas wie der Präsident einer ganzen Bande von
-Suchen! Grüßen Sie ihn und sagen Sie ihm, er soll
+Schurken! Grüßen Sie ihn und sagen Sie ihm, er soll
 seiner Phantasie die Flügel stutzen, — wer zu lange
 Flügel hat, verbrennt sich leicht, — Ikaros flog mit seinen
 mit Wachs zusammengeklebten Schwingen der Sonne entgegen
-und — — das Bachs schmolz und er stürzte ab.
+und — — das Wachs schmolz und er stürzte ab.
 Auch in Casablanca ist es sehr heiß!!« — Sein meckerndes
 Lachen verfolgte mich die ganze stille Paulsborner Straße
-entlang … Halsschnitt, dieser Mensch ist mehr als ein
-Satan, ist d2e3 Teufels Großvater, — er drohte Ihnen
-ganz unverblümt, und im zog ab wie ein begossener Pudel.
+entlang … Harst, Harst, dieser Mensch ist mehr als ein
+Satan, ist des Teufels Großvater, — er drohte Ihnen
+ganz unverblümt, und ich zog ab wie ein begossener Pudel.
 Wir haben die Villa ja schon ein dutzendmal eingekreist
 gehabt, jeden Winkel durchstöbert, — alles umsonst,
-Harst!! Nun rappeln war sich auf, nun drehen Sie dieser
+Harst!! Nun rappeln *Sie* sich auf, nun drehen *Sie* dieser
 Bestie den Hals um!«
 
 Wenn ein Mann wie Hans Lücke so sprach, wenn
@@ -1490,73 +1486,72 @@ er, der stets so vornehm Ausgeglichene, die Worte so
 wenig behutsam wählte, und sein Monokel so schief saß,
 dann mußte ihn Stephanis Benehmen bis ins Tiefste
 aufgerüttelt haben. Aber — ebenso schnell fand er sich
-zu sich selbst zurück, holte fauchend Luft, griff etwas gedient
-naß einer Zigarette und sagte nur noch: »Herr
-
+zu sich selbst zurück, holte fauchend Luft, griff etwas geziert
+nach einer Zigarette und sagte nur noch: »Herr
 Justizrat Stephani wird die Fittiche verlieren, hoffe ich.
 Jetzt legen Sie los, Harst. Wie steht’s mit alledem?«
 Er reichte uns die gefüllten Gläser, wir tranken, und
-draußen im Weinspalier zankten riß unsere Sperlinge
+draußen im Weinspalier zankten sich unsere Sperlinge
 mit lustigem Eifer. Die Sonne schien in das Zimmer hinein,
 es war jetzt vormittags neun Uhr, soeben setzte die
-alte englismGe Standuhr rasselnd zum Schlagen ein …
+alte englische Standuhr rasselnd zum Schlagen ein …
 
 Da erwiderte Harst, indem er sich erhob und sich
 reckte und dehnte: »Es gibt eine Stephani-Bruderschaft,
 <@pagebreak/>
 es muß eine geben. Das Verbrechertum organisiert sich
-immer straffer, sucht und- findet Anschluß bis in gebildete
+immer straffer, sucht und findet Anschluß bis in gebildete
 Kreise, — Inflation, Not, Armut, Verbitterung haben
 den Boden gedüngt, aus dem die Giftpilze hochschießen,
-die den harmlosen, eßbaren äußerlich glichen. Genußsucht,
-Gier nach Luxus, Wohlleben, Arbeitsscheu, seelische Talmündung
+die den harmlosen, eßbaren äußerlich gleichen. Genußsucht,
+Gier nach Luxus, Wohlleben, Arbeitsscheu, seelische Zermürbung
 und Verseuchung fördern dieses Wachstum. Studierte
 Männer fahren als Chauffeure, spielen Kellner,
-dunkleren mit allerlei Tand, betteln, — das Unterste ist
+hausieren mit allerlei Tand, betteln, — das Unterste ist
 zu Oberst gekehrt, die Stützen der Gesellschaft wanken,
-Freue und Redlichkeit und Undbestehlichkfeit sind vielvelädyelte
+Treue und Redlichkeit und Unbestechlichkeit sind vielbelächelte
 Phrasen geworden, schrankenlose Selbstsucht regiert
 die Welt, die Völker plündern einander aus, alberne
 Propheten predigen schleimige Weisheit von Versöhnung,
-Haß aller gegen alle scheint über die Erde, — — das
+Haß aller gegen alle schleicht über die Erde, — — *das*
 ist die Zeit, Lücke, die Geschehnisse gebären kann, vor
 denen wir mit staunendem Grauen stehen! Diese Zeit
 gebar einen Stephani und seine Bruderschaft. Sie existiert,
 diese Bande satanischer Frechheit und Schlauheit, aber
-sie verbirgt sich hinter gleißneriscgen Masken. Die Kaschemmenbrüder,
-die Stephani da zum Empfang des
+sie verbirgt sich hinter gleißnerischen Masken. Die
+Kaschemmenbrüder, die Stephani da zum Empfang des
 Baron Croß aufgeboten hatte, damit alle Autotaxen besetzt
 seien, — diese armseligen Zwerge der Berliner Unterwelt
-spielen in dieser Organisation nur die Rollen von
+spielen in *dieser* Organisation nur die Rollen von
 Gelegenheitsstatisten. Das Hirn der Bande setzt sich aus
 Intellektuellen zusammen, und das Zentrum dieses Hirns
-ist Doktor Ausflug Stephani. — Lücke, Sie kommen mit
+ist Doktor Justus Stephani. — Lücke, Sie kommen mit
 nach Casablanca!«
 
-… Er kam mit. — Wir durchjagten im Flugzeug Frankreich,
+Er kam mit. — Wir durchjagten im Flugzeug Frankreich,
 Spanien, wir landeten im Flugzeug in Tanger,
 wir erreichten gerade noch den Passagierdampfer nach
 Casablanca, und auf dem Dampfer sprachen wir lang
 und breit über das, was wir wußten, was wir nun,
-drei Leute vom Ja, zergliederten und zusammenzufügen
+drei Leute vom Fach, zergliederten und zusammenzufügen
 trachteten zu einem übersichtlichen Bilde. — An Bord des
 <@pagebreak/>
 schönen, flinken, sauberen Dampfers schrieb ich in späten
 Abendstunden all dies nieder und notierte mir anderes,
-was noch nicht in diese Sescrchichte der Rahmenantenne
+was noch nicht in diese Geschichte der Rahmenantenne
 hineingehörte, — zum Beispiel Harst’s sehr bestimmte
 Behauptung: »Isolde Backmeister ist Mitglied der Brüderschaft
 Stephani, — ob gezwungen oder freiwillig, bleibt
 sich gleich. Der Wertheim-Bote sollte uns nur veranlassen,
-uns von Geölte zu verabschieden. Die Angaben, das Leben
+uns von Isolde zu verabschieden. Die Angaben, das Leben
 dieses Mädchens sind voll von Widersprüchen. Stephanis
-Grobheit ihr gegenüber war Spiegelfechterei …
+Grobheit ihr gegenüber war Spiegelfechterei …«
 
-Er jagte noch anderes, da er gefiel sich dabei wieder
+Er sagte noch anderes, doch er gefiel sich dabei wieder
 in seiner wenig angenehmen Art unklarer Andeutungen.
 
-Mir galt als Hauptfrage: Wer war die in Casablanca
-ermordete ältere Reihe Dame?! Hulda Arndt, geschiedene
+*Mir* galt als Hauptfrage: Wer war die in Casablanca
+ermordete ältere reiche Dame?! Hulda Arndt, geschiedene
 Stephani?! Die war doch bereits in Berlin
 verstorben, war eingeäschert worden, ein einwandfreier
 Arzt hatte den Totenschein ausgestellt, wir hatten drei
@@ -1564,13 +1559,13 @@ Photographien von ihr mit auf die Reise genommen.
 Wir wußten: Auch die geschiedene Stephani hatte geschriftstellert,
 Reisebeschreibungen aus ihrer Feder waren
 in ersten Berliner Blättern erschienen, sie war ein ruheloser
-Seist gewesen, sie hatte alle Spöttelte besucht, ihre
-Ecke mit Stephani hatte nur drei Jahre gewährt, und
-sie war den Bildern nach eine recht ansprechende Ort
-Steigung gewesen. Wie konnte sie ein Scheusal wie
+Geist gewesen, sie hatte alle Erdteile besucht, ihre
+Ehe mit Stephani hatte nur drei Jahre gewährt, und
+sie war den Bildern nach eine recht ansprechende Erscheinung
+gewesen. Wie konnte sie ein Scheusal wie
 Stephani heiraten?!
 
-Rätsel über Rätsel …
+Rätsel über Rätsel … — —
 
 Und nun saßen wir im Salon der Frau Hanna Schütz
 und …
@@ -1580,16 +1575,16 @@ und …
 <h2>6. Kapitel.</h2>
 <h3>Der festgefahrene Wagen.</h3>
 
-… — — Und erfuhren von ihr, nachdem sie meine Niederschrift
-schOweigend hingenommen hatte, so gut wie nichts
+… Und erfuhren von ihr, nachdem sie meine Niederschrift
+schweigend hingenommen hatte, so gut wie nichts
 Neues. Aber sie war hoffnungsfroh und hilfsbereit, —
 sie wollte nicht, daß wir auf demselben Wege zur Stadt
 zurückkehrten und womöglich abermals beschossen würden,
-Je stellte uns die Motorjacht ihres Mannes zur Verfügung,
+sie stellte uns die Motorjacht ihres Mannes zur Verfügung,
 und sie riet uns dringend, den Chef der Kriminalpolizei
-von Casablanca aufzusuchen. « … Sie werden
+von Casablanca aufzusuchen. »… Sie werden
 erstaunt sein, meine Herren, wenn Sie Iomak-Bey kennen
-lernen … oh möchte Ihnen die Überraschung nicht
+lernen … Ich möchte Ihnen die Überraschung nicht
 verderben.«
 
 Wir schieden von ihr mit einer Herzlichkeit, wie diese
@@ -1603,7 +1598,7 @@ war eine kleine Heldin.
 Von dem Bootssteg der Bucht winkte sie uns noch
 lange nach … —
 
-Es war kurz naß acht Uhr, als wir den Polizeipalast
+Es war kurz nach acht Uhr, als wir den Polizeipalast
 am großen Platze betraten und uns bei Iomak-Bey
 melden ließen.
 
@@ -1614,24 +1609,23 @@ Abkömmlinge der grimmen Vandalen, die einst bis Nordafrika
 vorgestoßen waren und deren Blut sich noch heute
 in diesen blonden Nachkommen weitervererbt.
 
-Iomak-Bett war jung, straff, — ein Weltmann,
+Iomak-Bey war jung, straff, — ein Weltmann,
 <@pagebreak/>
 vielseitig gebildet. Er repräsentierte so recht das neue
 Casablanca.
 
 »Ihre Ankunft ist mir bereits gemeldet worden,«
 sagte er in tadellosem Englisch. »Die Berliner Kriminalpolizei
-hat mir eine Depesche Gesichts, die aus für Sie
+hat mir eine Depesche Geschickt, die auch für Sie
 manches Interessante enthält.« — Er bot uns Zigaretten
 und eisgekühlte Getränke an, nahm dann das Depeschenformular
 vom Schreibtisch und las uns einige Sätze vor:
-» — — — Detektiv Huß vom Globus ist seit vorgestern vorhanden
+»… Detektiv Huß vom Globus ist seit vorgestern verschwunden
 … Stephani geht seinen Geschäften in alter
-
-Eise nach … Von Baron Croß nichts zu ermitteln …
+Weise nach … Von Baron Croß nichts zu ermitteln …
 Isolde Backmeister hat sich entschlossen, die Wohnung in
-der Gl3abolzstraße wieder zu beziehen und hat eine ganz
-neue Einrichtung gekauft … Dieter Schlug, Kunstmaler,
+der Elsholzstraße wieder zu beziehen und hat eine ganz
+neue Einrichtung gekauft … Dieter Jelling, Kunstmaler,
 verweigert jede Aussage und ist außer Gefahr …
 Die drei Möbelwagen sind leer auf der Straße nach
 Bornstedt bei Potsdam aufgefunden worden, ein Unbekannter
@@ -1652,57 +1646,57 @@ Er betrachtete die Bilder sehr genau. »Es ist die hier
 Ermordete,« sagte er mit aller Bestimmtheit. »Sie wurde
 tot im Garten ihrer Villa dicht an der Mauer nach dem
 Meere zu aufgefunden. Sie war erstochen worden, außerdem
-fand sich um ihren Hals ein Lebenszeit mit einer
+fand sich um ihren Hals ein Lederstrick mit einer
 Schlinge. Dar Mörder hat oben auf der Mauer gelegen,
-bat ihr die Schlag? über den Kopf geworfen und sie
+hat ihr die Schlinge über den Kopf geworfen und sie
 dann erstochen. Der Täter ist ein Europäer gewesen, seine
 <@pagebreak/>
-Spuren ließen sich bis zur Eingeborenenstadt verfolgen.
+Spuren ließen sich bis zur Eingeborenenstadt verfolgen,
 er ist von verschiedenen Leuten gesehen, jedoch nicht erkannt
 worden … Er trug braune Wildlederhandschuhe,
 einen Anzug aus grauem Flanell, weiße Schuhe, die mit
 Kreide eingerieben waren, und eine Brille. — Raubmord
-lies: nicht vor. Der Mann selbst ist unauffindbar.«
+liegt nicht vor. Der Mann selbst ist unauffindbar.«
 
 Hans Lücke schien sich heimlich über diesen Kollegen zu
 amüsieren, der hier so überaus höflich, aber auch sehr
-sein).sicher seine nutzlose Weisheit zum besten gab. »Trug
-der Mann auch weiße Boden?!« fragte er ironisch.
+selbstsicher seine nutzlose Weisheit zum besten gab. »Trug
+der Mann auch weiße Socken?!« fragte er ironisch.
 
-Format-Bey blickte Lücke etwas starr an. Er hatte
+Iomak-Bey blickte Lücke etwas starr an. Er hatte
 graublaue Augen, dieser Vandalensprößling, und sie konnten
-schön stehend werden, fand ich. — »Ich erwähnte
-die Gnzlyvei:en nur der Handschuhe wegen,« meinte der
-Krimnalckef frostig. »Wer hier bei solcher Arbeit Handschuhe
-träg:, Furcht?! weniger verräterische Fingerabdrücke
+sehr stechend werden, fand ich. — »Ich erwähnte
+die Einzelheiten nur der Handschuhe wegen,« meinte der
+Kriminalchef frostig. »Wer hier bei solcher Arbeit Handschuhe
+trägt, Fürchtet weniger verräterische Fingerabdrücke
 als eine Spur seiner irgendwie verstümmelten Hände,
-Je. Lüge. Der Mörder sprang von der hohen Mauer
+Mr. Lücke. Der Mörder sprang von der hohen Mauer
 herab, fiel nach vorn auf die Hände, und in der Gartenerde
 und an einem scharfen Stein entdeckte ich die Spuren
-der erwähnen braunen Wildlederhandschmubhe und«
-er züögerie ein wenig — »und die Anzeichen dafür,
-daß der linke Mittelfinger in dem Handschuh nur ausgemalt
+der erwähnen braunen Wildlederhandschuhe und« —
+er zögerte ein wenig — »und die Anzeichen dafür,
+daß der linke Mittelfinger in dem Handschuh nur ausgestopft
 war.«
 
 Lücke schoß das Blut ins Gesicht.
 
 »Verzeihen Sie, Iomak-Bey, — ich ziehe den Hut
-in GörfurMHt vor Ihren Fähigkeiten. Doktor Passus
-Großen! fehlt der halb? linke Mittelfinger.«
+in Ehrfurcht vor Ihren Fähigkeiten. Doktor Justus
+Stephani fehlt der halbe linke Mittelfinger.«
 
-Wir blickten ne überrascht an. »Stepl;zani hat Berlin
-seit Monaten nicht verlassen,« meinte Harald sehr ge
-dehnt. »Bar der Mörder glatt rasiert, Iomak Bey?«
+Wir blickten uns überrascht an. »Stephani hat Berlin
+seit Monaten nicht verlassen,« meinte Harald sehr gedehnt.
+»War der Mörder glatt rasiert, Iomak-Bey?«
 
-»uv weiß in nicht … Er trug einen großen
-Panamahut mit herunter geschlagener Krempe und einen
-Quartier Seid:enschal über dem Gesicht. Du? Brillengläser
+»Das weiß ich nicht … Er trug einen großen
+Panamahut mit heruntergeschlagener Krempe und einen
+dunklen Seidenschal über dem Gesicht. Die Brillengläser
 glänzten im Laternenlicht. Frau Arndt wurde um halb
 <@pagebreak/>
 zehn Uhr abends ermordet und schon wenige Minuten
 später von einem ihrer Diener aufgefunden.«
 
-»Seltsam!« meinte Tür. »Von wem hatte sie die
+»Seltsam!« meinte Lücke. »Von wem hatte sie die
 Villa gemietet?«
 
 »Von Musir Omar, dem reichen Kaufmann, in dessen
@@ -1710,7 +1704,7 @@ Familie Isolde Backmeister trotz ihrer Millionen Gouvernante
 spielte,« erklärte Iomak mit besonderer Betonung.
 »Auch der Ingenieur Karl Müller verkehrte sowohl bei
 Frau Arndt als auch bei Musir Omar, — gegen ihn ist
-nichts einzuwenden, er verliebte sich hier in Miß Geschweifter
+nichts einzuwenden, er verliebte sich hier in Miß Backmeister
 und die Verlobung wurde im Excelsior in größtem
 Stil festlich begangen, die halbe Europäerkolonie war
 mit dabei, auch ich … Ich würde weder Miß Backmeister
@@ -1733,17 +1727,17 @@ Weshalb?! Sie erzählte, sie sei aus Crossenstein entflohen,
 weil der Baron zudringlich wurde und weil sie
 einen anderen liebte — einen anderen, den sie erst hier
 kennen lernte, also den Ingenieur Karl Müller. Sie
-fügt unvorsichtig, und der Wertheim-Bote, der keiner war,
+lügt unvorsichtig, und der Wertheim-Bote, der keiner war,
 und Stephanis Zigarre, in ihrem Zimmer geraucht, belasten
-sie ebenso. Kennen, — wo ist das richtige Ende
+sie ebenso. Dennoch, — wo ist das richtige Ende
 dieses Knäuels?! — Iomak-Bey, wer bewohnt jetzt
 die Villa am Strande?«
 
-»Öle steht leer, Mr. Harst. Es ist auch nur ein qaeräumiges
+»Sie steht leer, Mr. Harst. Es ist auch nur ein geräumiges
 <@pagebreak/>
 Holzhaus mit Steinfundament, errichtet aus
-dem Wind eines Dreimasters, den Musir Omar kaufte.
-Auf dem Dachtürmchen befindet Sieg eine große WindLBarfe,
+dem Wrack eines Dreimasters, den Musir Omar kaufte.
+Auf dem Dachtürmchen befindet sich eine große Windharfe,
 die aber sehr schlecht konstruiert sein muß, denn
 sie gibt selbst bei Sturm keinen Ton von sich.«
 
@@ -1751,11 +1745,11 @@ sie gibt selbst bei Sturm keinen Ton von sich.«
 
 »Ja, — was sollte es anders sein?! Es ist eine Art
 Kasten, innen sind blanke Drähte gespannt … Musir
-sagt stets, es sei seine Windharfe. Besser: Er »sagte es,
-— er ist jetzt gelähmt und nur telephonisch; erreichbar.«
+sagt stets, es sei seine Windharfe. Besser: Er sagte es,
+— er ist jetzt gelähmt und nur telephonisch erreichbar.«
 
-»Ganz interessant,« nickte Harst. »Windharfen »sind
-so poetisch … — Nun, ich werde sie ja sieben …
+»Ganz interessant,« nickte Harst. »Windharfen sind
+so poetisch … — Nun, ich werde sie ja sehen …«
 
 Draußen senkte sich die Nacht über die junge Großstadt
 herab. Laternen, Bogenlampen flammten auf, irgendwo
@@ -1763,13 +1757,13 @@ schlug eine Uhr etwas blechern neun Schläge.
 — Iomak-Bey erhob sich und schaltete die Deckenbeleuchtung
 ein. Sein Dienstzimmer war groß und praktisch
 eingerichtet, es hätte jedem europäischen Polizeipalast
-zur Ziert? gereicht.
+zur Zierde gereicht.
 
-Somak zog dann die Vorhänge zu. Die Porzellanringe
-klirrten, und in dieses Klirren mischte sich? das Splittern
+Iomak zog dann die Vorhänge zu. Die Porzellanringe
+klirrten, und in dieses Klirren mischte sich das Splittern
 von Glas und ein dumpfes Klatschen gegen eine
 Schranktür. Harst fuhr mit dem Finger über das linke
-Ohr, — der Finger war blutig. »Ich danke Ihnen, Anmelden,
+Ohr, — der Finger war blutig. »Ich danke Ihnen, Iomak-Bey,
 — wir saßen hier in zu greller Beleuchtung, der
 Schuß kam von drüben her — von einem Dache, und nur
 zwei Zentimeter nach rechts fehlten, und die Stephani Bruderschaft
@@ -1777,7 +1771,7 @@ hätte mich ausgelöscht gehabt.«
 
 Der Kriminalchef ging gelassen zu dem Schrank und
 betrachtete das Loch. »Karabinerkugel, Mr. Harst …
-Wie viel Schüsse fielen auf Ohr Auto?«
+Wie viel Schüsse fielen auf Ihr Auto?«
 
 Wir drei waren überrascht. »Sie wissen?!« meinte
 Harst und drückte sein Taschentuch gegen das linke Ohr.
@@ -1786,120 +1780,117 @@ Harst und drückte sein Taschentuch gegen das linke Ohr.
 auflauerten. Sie hatten leider zu gute Reitdromedare,
 <@pagebreak/>
 und meine Beamten blieben zurück.« Er setzte sich wieder,
-schien noch; etwas hinzufügen zu wollen, wurde jedoch
-durchs das schrille Signal einer gewaltigen Autohupe
-abgelegt … »Feuer!« meinte er ruhig. »Es brennt
-immer im Ciageborz2nenviertel, — wir haben eine tadellose
+schien noch etwas hinzufügen zu wollen, wurde jedoch
+durch das schrille Signal einer gewaltigen Autohupe
+abgelenkt … »Feuer!« meinte er ruhig. »Es brennt
+immer im Eingeborenenviertel, — wir haben eine tadellose
 Berufsfeuerwehr, Schiebeleitern, Motorspritzen …
-nur« — er lächelte schmächtig — »nur hat die weite Stadtverwaltung,
-Allah segne sie, bei dar Anlage der Waliserleitung
-da Zutrauen so weit entfernt voneinander angeordnet,
-daß zuweilen die Schaurige nicht roten, —
-wir sind eben eine aufblühende Großstadt, keine aufgeblähte
+nur« — er lächelte schwach — »nur hat die weise Stadtverwaltung,
+Allah segne sie, bei dar Anlage der Wasserleitung
+die Hydranten so weit entfernt voneinander angeordnet,
+daß zuweilen die Schläuche nicht reichen, —
+wir sind eben eine aufblühende Großstadt, keine aufgeblühte
 …«
 
-Wir lachten herzlich. — Steward-Bey fügte hinzu:
+Wir lachten herzlich. — Iomak-Bey fügte hinzu:
 »Das ist kein Witz, meine Herren, das ist Tatsache. —
-Doch kommen wir auf unseren Fall zurück. Der Armer?!
-Dung Frau Arndts folgte das Versäumten des Mr.
-Schütz. Auch dabei hat die Polizei, habe ich verjagt.
-Die näheren Umstand? kennen Sie. Schütz wollte einen
+Doch kommen wir auf unseren Fall zurück. Der Ermordung
+Frau Arndts folgte das Verschwinden des Mr.
+Schütz. Auch dabei hat die Polizei, habe ich versagt.
+Die näheren Umstände kennen Sie. Schütz wollte einen
 Brief persönlich zur Post bringen, er ging zu Fuß zur
-Stadt, quittierte also auch jene Schlucht, in der Ihnen
-jetzt aufgelauert wurde, und ward nicht nieste gesehen.
+Stadt, passierte also auch jene Schlucht, in der Ihnen
+jetzt aufgelauert wurde, und ward nicht mehr gesehen.
 Seine Gattin vertraute mir an, daß Sie, Mr. Harst,
-an ihn ein? telegraphische Anfrage gerichtet hätten, und
+an ihn eine telegraphische Anfrage gerichtet hätten, und
 daß auch der mit verschwundene Brief für Sie bestimmt
-ganzen sei. Suchen damals erfuhr in also, daß Sie sich
+gewesen sei. Schon damals erfuhr ich also, daß Sie sich
 für Frau Arndt irgendwie interessierten. Ich verdoppelte
 meine Untersuchungen und erreichte trotzdem nichts. Den
-Noch und Mr. Schätz’ Bersagwind2on miteinander in Augenmerk;
-ans zu bringen, war unter diesen Umständen
+Mord und Mr. Schütz’ Verschwinden miteinander in Zusammenhang
+zu bringen, war unter diesen Umständen
 nicht schwer.«
 
-Er Unart? durch das Stillen des Telephons unterbrochen.
+Er wurde durch das Schrillen des Telephons unterbrochen.
 
 »Entschuldigen Sie …« — er nahm den Hörer ab,
--’und sein Gesicht weitere sich ärgerlich. Er legte den Hörer
-auf die Kabel zurück und sagte gereizt: »Es brennt
+und sein Gesicht verzog sich ärgerlich. Er legte den Hörer
+auf die Gabel zurück und sagte gereizt: »Es brennt
 <@pagebreak/>
-in der Eingeborenenstadt, — ein Steinen, alter Speicher,
-Sdchurfenhände haben die Schläuche zerschnitten, — man
-läßt also brennen, was brennt, — — Weitab!!« und er
-3\.Ehe die Achseln. (Mektub bedeutet: »Es steht geschrieben«
-also etwa »Da ist nichts zu machen!«) »rüber, als wir
+in der Eingeborenenstadt, — ein kleiner, alter Speicher,
+Schurkenhände haben die Schläuche zerschnitten, — man
+läßt also brennen, was brennt, — — Mektub!!« und er
+zuckte die Achseln. (Mektub bedeutet: »Es steht geschrieben«
+also etwa »Da ist nichts zu machen!«) »Früher, als wir
 noch keine Wasserleitung hatten, wurde die Spitze stets
-von einem Wajser:ankwagen begleitet, meine Knarren …
-
+von einem Wassertankwagen begleitet, meine Herren …
 Jetzt … stehen die Hydranten zu weit auseinander, aber
-Der Tankwagen bleibt dennoch; daheim. Die Europäer
-
+Der Tankwagen bleibt dennoch daheim. Die Europäer
 spotten darüber — mit Recht, sie nennen unsere Wehr
-nur immer die »Modernes el Na«, Spritze Dogge Wasser,
-und jetzt — — auch vor die Schläuccge unbrauchbar!!
-
+nur immer die »Makeinsch el Ma«, Spritze ohne Wasser,
+und jetzt — — auch noch die Schläuche unbrauchbar!!
 —, hoffentlich entsteht kein größerer Brand …«
 
-Mit der »Srodöstadt« Casablanca hatte es da) wohl
+Mit der »Großstadt« Casablanca hatte es doch wohl
 noch gute Wege, schien es mir.
 
-Abermals trat gen? Stille ein, die etwas so peinlich
-Grollendes an sich hatte.
+Abermals trat jene Stille ein, die etwas so peinlich
+Bedrückendes an sich hatte.
 
-Wir glichen d2zn Insassen eines Wagens, der sich
+Wir glichen den Insassen eines Wagens, der sich
 im Schlamm festgefahren hatte, den außerdem dichter
-verwendet Nebel umgibt.
+drohender Nebel umgibt.
 
 Harsts nur leicht verletztes Ohr Blutete nicht mehr.
-
-Er hielt das ist rot betupfte Taschentuch) in der Hand
+Er hielt das jetzt rot betupfte Taschentuch in der Hand
 und betrachtete mit halb zugekniffenen Augen die roten
 Flecken.
-… »Ich möchte mir die Windharfen-Villa ansehen,« sagte
-er dann zu Somak-Bey. »Können Sie die Schlüssel sofort
+
+»Ich möchte mir die Windharfen-Villa ansehen,« sagte
+er dann zu Iomak-Bey. »Können Sie die Schlüssel sofort
 besorgen? Und hat das Polizeigebäude einen Hinterausgang?«
 
-»Die Schlüssel wird Musir Omar sofort schien,« erklärte
+»Die Schlüssel wird Musir Omar sofort schicken,« erklärte
 der Polizeichef, »und Hinterausgänge, — natürlich,
-Mr. Harst, ein modz2rnes Polizeihaus ohne Ausgänge,
+Mr. Harst, ein modernes Polizeihaus ohne Ausgänge,
 die dem Publikum verborgen sind, wäre ein Unding.«
 
 Er rief den arabischen Großkaufmann an.
 
-»on wenigen Minuten ist ein Bote der,« meinte er
+»In wenigen Minuten ist ein Bote hier,« meinte er
 zufrieden. »Haben Sie sonst noch Wünsche, Mr. Harst?!«
 
 <@pagebreak/>
 »Ich hätte sie gehabt, gewiß … Aber das Verschwinden
-des Detektivs Huß. genügt mir,« erwiderte
+des Detektivs Huß genügt mir,« erwiderte
 Harald immer noch etwas geistesabwesend.
 
 »Wie das?!« fragte Lücke erstaunt. »Die Brüderschaft
 schnappt immer mehr Leute weg, und …«
 
-»Fuß machte sich freiwillig unsichtbar,« erklärte
+»Huß machte sich freiwillig unsichtbar,« erklärte
 Harald und nahm eine neue Zigarette.
 
-Lücke, Iomak!, ich — wir starrten, »ihn lange an.
-Lücke rief: »Sollte dieser Huß etwa …
+Lücke, Iomak, ich — wir starrten, ihn lange an.
+Lücke rief: »Sollte dieser Huß etwa …«
 
-»0 — — er sollte …« nickte ’Harst mit einem
+»Ja — — er sollte …« nickte Harst mit einem
 zweideutigen Lächeln. »Er ist der Mann, der nirgends
 auffällt, er ist scheinbar »weiße Salbe«, wie man zu
 sagen pflegt, dabei ist er zu allem brauchbar, er macht
-aber nichts aus seiner Person, er sorgt nur für sein Spiritus
-und für seinen guten Ruf …
+aber nichts aus seiner Person, er sorgt nur für sein Institut
+und für seinen guten Ruf …«
 
-Lücke schüttelte langsam den Kopf … »»G8 Ware Uns
-
-glaublich, — aber es wäre immerhin möglich … Huß
-als Verbündeten Stephanis, — das wäre ein seines Gewann!«
+Lücke schüttelte langsam den Kopf … »Es Wäre Unglaublich,
+— aber es wäre immerhin möglich … Huß
+als Verbündeten Stephanis, — das wäre ein feines Gespann!«
 
 »Ohne Zweifel!« sagte Harald plötzlich sehr ernst.
+
 Dann kamen die Schlüssel.
 
-T. Kapitel.
-Der Tresor.
+<h2>7. Kapitel.</h2>
+<h3>Der Tresor.</h3>
 
 Iomak-Bey führte uns ja d’e He seltsame. dann du-H
 eine eiserne Kellertür auf einen Hof, öffnete hier eine
@@ -2015,7 +2006,7 @@ kurze Enden freilich, und nicht genügend, « unbequeme
 Kater zu Bestien … —« Gehen wir …
 
 »Ja, etwas entdeckt?« fragte Lücke « Slängweilt, als
-wir nun die Grdgeschoßräum? durchschritten. Somak-Fest
+wir nun die Grdgeschoßräum? durchschritten. Iomak-Bey
 war in der Diele geblieben.
 
 Harst meinte achselzuckend: »Es hängen hier überall
@@ -2089,10 +2080,10 @@ ein Nachtschränkchen, auf der Marmorplatte ein Parfümzerstäuber,
 eine kleine Wasserkaraffe, nett half gefüllt,
 ein Glas, ein Röhrchen mit Tabletten und ein Telephon.
 — Harst nahm das nur noch halb gefüllte Röhren und
-sagte zu Somak: »General, ein Schlafmittel, ein deutsches
+sagte zu Iomak: »General, ein Schlafmittel, ein deutsches
 Fabrikat … Ich) will hier nicht Ihren Lehrer spielen,
 Iomak-Bey, aber vielleicht nützt es Seinen Doch einmal:
-Die in Berlin eingeäsherte Frau Arndt benutzte ebenfalls
+Die in Berlin eingeäscherte Frau Arndt benutzte ebenfalls
 General, sie war mit den Nerven völlig fertig … Ich
 Habe mit dem Arzt gesprochen, der sie behandelt hat —
 nur telephonisch, nur kurz, aber ich fragte, ob die Patientin
@@ -2112,7 +2103,7 @@ sie brauchte …«
 
 Er schüttelte die Tabletten in die flache Linke.
 
-»Bitte …! Lernen Sie nachts nenn’ Somak! — Dies
+»Bitte …! Lernen Sie nachts nenn’ Iomak! — Dies
 hier war die oberste Tablette in dem Röhrchen. Lieber
 wohl die Größe der anderen, aber sie schillert gelblich.«
 Er warf sie in das Wasserglas und goß Wasser hinein.
@@ -2127,7 +2118,7 @@ eingebettet gewesen. Die Bruderschaft hatte für Frau
 Arndt eben mehrere Todesarten bereit und … wählte
 die ungeeignetste, die Leute sind nervös geworden, als
 die Postkarten den Baron und mich doch erreicht hatten. —
-Was ist das dort für ein Riesenschrank, Somak-’Bey?«
+Was ist das dort für ein Riesenschrank, Iomak-’Bey?«
 
 Der Kriminalchef blickte stark verwirrt auf das weiß
 bediente Ungetüm. »ah — der Strand, — das …
