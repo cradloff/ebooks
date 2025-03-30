@@ -989,11 +989,11 @@ Mensch.
 meinte sie etwas nachdenklich, »einige Aufklärungen schuldig.
 Ich betone: Unter diesen Umständen!! — Was Sie
 mir da über die Bewachung Ihres Hauses, über den
-»Maler« in Crossenstein, über den Kpofferdiebstahl und
+»Maler« in Crossenstein, über den Kofferdiebstahl und
 jene Leute erzählt haben, die Sie als die »vier« bezeichnen,
 hat mit meiner Person und mit der an Sie
 leider abgesandten Postkarte nichts zu tun. An den Baron
-habe ich keine Karte geschickt. Wie sollte ich auch?! Die
+habe *ich* keine Karte geschickt. Wie sollte ich auch?! Die
 Karte an Sie war lediglich … Übermut, sozusagen …
 aufs Glatteis führen — eine Neckerei. Mein Verlobter
 Karl Müller würde Ihnen das bestätigen. Er ist heute
@@ -1452,7 +1452,7 @@ geschiedenen Frau Hulda, geborene Arndt, stamme aus
 Spekulationen, er sei bei der vor anderthalb Jahren erfolgten
 Scheidung als allein schuldiger Teil — körperliche
 Mißhandlung — befunden worden, er brauche keine fremden
-Millionen, er sei selbst Millionär,« — Isolde Backmeister
+Millionen, er sei selbst Millionär, — Isolde Backmeister
 habe er nie als angeheiratete Verwandte anerkannt,
 sie sei eine scheinheilige Kröte — — und so weiter.
 — Diese Unterredung war wie gesagt durchaus einseitig,
@@ -1892,24 +1892,24 @@ Dann kamen die Schlüssel.
 <h2>7. Kapitel.</h2>
 <h3>Der Tresor.</h3>
 
-Iomak-Bey führte uns ja d’e He seltsame. dann du-H
+Iomak-Bey führte uns in die Kellerräume, dann durch
 eine eiserne Kellertür auf einen Hof, öffnete hier eine
-Leine Mauerpforte und deutete auf einen schmalen Gang
+kleine Mauerpforte und deutete auf einen schmalen Gang
 zwischen zwei Parkmauern. »Hier sind wir sicher, meine
-Herren … In zehn Minuten stehen wir vor dem Park
-Tor der Villa.«
+Herren … In zehn Minuten stehen wir vor dem Parktor
+der Villa.«
 
 Es war inzwischen vollkommen dunkel geworden. Der
 Himmel war bewölkt, vom Ozean Her zogen schwere
 <@pagebreak/>
-Stüber heran, der Wind pfiff hohl und in unregelmäßigen
-töten
+Wolken heran, der Wind pfiff hohl und in unregelmäßigen
+Stößen.
 
 Iomak wollte seine große Taschenlampe einschalten.
 »Lassen Sie das!« warnte Harst. »Behalten wir die
 Mauerkronen im Auge …«
 
-Es war sehr finster. ’Dieser abendliche Ausflug in
+Es war sehr finster. Dieser abendliche Ausflug in
 einer mir völlig fremden Umgebung mit den Gedanken
 an die schießfreudige Bruderschaft als Zugabe fiel mir
 auf die Nerven. Meine Hand stahl sich sacht in die
@@ -1917,13 +1917,13 @@ Schlüsseltasche, und die Clement wanderte in die Jackentasche.
 Lücke ging hinter mir als letzter, und auch er,
 hörte ich, ließ die Sicherung seiner Pistole zurückschnellen.
 
-Ausgerechnet störten wir hier zwischen den hoben
-— Mauern auch noch ein Katenpaar auf … Sie flüchteten,
-—»- Lücke fluchte, Harst … sandte dreimal diskret aus,
+Ausgerechnet störten wir hier zwischen den hohen
+Mauern auch noch ein Katzenpaar auf … Sie flüchteten,
+— Lücke fluchte, Harst … sandte dreimal diskret aus,
 ich auch.
 
 Dann ein Stück Bohnenfeld, dahinter ein dunkles
-langgestrecktes Gebäude, eine heile Mauer, Baumkronen,
+langgestrecktes Gebäude, eine helle Mauer, Baumkronen,
 in der Mauer ein breites Holztor, daneben eine kleine
 Pforte.
 
@@ -1931,8 +1931,8 @@ Pforte.
 Gegenstände an Bindfäden. Der Wind ließ
 sie hin und her pendeln.
 
-»&röscel» erklärte der Chef leise. »Musir Omar hält
-streng an dz2n alten Bräuchen fest. Der Frosch ist ein
+»Frösche!« erklärte der Chef leise. »Musir Omar hält
+streng an den alten Bräuchen fest. Der Frosch ist ein
 Wassertier, und deshalb hat das Feuer vor ihm Angst.
 So schützte man im alten Casablanca die Häuser.«
 
@@ -1947,24 +1947,24 @@ Dieleneinrichtung, nur der kahle Ziegelboden störte. —
 Die dunkel gestrichenen Holzwände waren zum Teil
 <@pagebreak/>
 mit buntem Rupfen bespannt. Im Hintergrunde der Diele
-liefen zwei schmale Treppen mit reich geschnitzten Holländern
+liefen zwei schmale Treppen mit reich geschnitzten Geländern
 in den Oberstock empor, zwischen den Treppen in
 der Hinterwand blinkte eine Glastür, die in den Hinterflur
 führte. —
 
 »Schließen Sie die Tür wieder ab und lassen Sie
-den Schlüssel tiefen, Iomak-Bey,« sagte Harst gedämpft.
-»Gitter von uns mag sich dort an die Glastür stellen, wir
-wollen auch überall dies Licht einschalten … Mir gefällt
+den Schlüssel stecken, Iomak-Bey,« sagte Harst gedämpft.
+»Einer von uns mag sich dort an die Glastür stellen, wir
+wollen auch überall das Licht einschalten … Mir gefällt
 hier Verschiedenes nicht …«
 
 Der Kriminalchef meinte beruhigend: »Sie brauchen
-nichts zu fürchten, Mr. Harst. Das Grundstück ist von Zwölf
-meiner besten — Leute umstellt. Ich hielt diese Borjyichtmaßregel
-für angebracht.
+nichts zu fürchten, Mr. Harst. Das Grundstück ist von zwölf
+meiner besten Leute umstellt. Ich hielt diese Vorsichtmaßregel
+für angebracht.«
 
 Lücke hatte sich eine Zigarette angezündet. »Es riecht
-hier so eigentümlich,« und er zog die schmale Nase Kraus
+hier so eigentümlich,« und er zog die schmale Nase kraus
 und Schnupperte.
 
 »Frau Hulda Arndt hielt sehr viele Katzen,« beeilte
@@ -1976,7 +1976,7 @@ ein und stieß die Glastür auf. »Lücke, bleiben Sie bitte
 mit Iomak-Bey hier oben. Ich möchte mir mit Schraut
 erst einmal die Keller ansehen.«
 
-Es gab nur drei Koellergelasse. Sie waren leer.
+Es gab nur drei Kellergelasse. Sie waren leer.
 Harst beleuchtete die getünchten Mauern und fuhr an
 manchen Stellen mit dem Zeigefinger über die Furche
 Hin. »Hier riecht es nicht so … eigentümlich, mein Alter,«
@@ -1984,14 +1984,14 @@ sagte er wie erstaunt. »Ich Hatte hier unten etwas Besonderes
 zu finden geglaubt, aber ich habe mich doch wohl
 getäuscht.«
 
-»Was?7!!« fragte im geradezu.
+»Was?!« fragte ich geradezu.
 
-»Im — vielleicht Kampferspiritus oder Zelluloddabfälle
+»Hm — vielleicht Kampferspiritus oder Zelluloidabfälle
 … alte Filmstreifen in Menge. Musir Omar
 gehören die beiden größten Kinos der Stadt, wie ich
 <@pagebreak/>
 an den grellen Plakaten am Uhrturm im Vorübergehen
-las ich
+las …«
 
 Ich verstand diese Andeutungen nicht recht. »Hegst du
 gegen den alten Großkaufmann irgendwie Verdacht?!«
@@ -2002,19 +2002,19 @@ zog sie hervor. »Ich verdächtige vorläufig jeden — sogar
 diesen blonden höflichen Polizeichef,« erwiderte er zerstreut
 und streckte die linke Hand mit der Taschenlampe
 in die Kiste hinein. »Aha — doch Abfälle alter Filme,
-kurze Enden freilich, und nicht genügend, « unbequeme
-Kater zu Bestien … —« Gehen wir …
+kurze Enden freilich, und nicht genügend, unbequeme
+Kater zu Bestien … — Gehen wir …«
 
-»Ja, etwas entdeckt?« fragte Lücke « Slängweilt, als
-wir nun die Grdgeschoßräum? durchschritten. Iomak-Bey
+»Na, etwas entdeckt?« fragte Lücke gelangweilt, als
+wir nun die Erdgeschoßräume durchschritten. Iomak-Bey
 war in der Diele geblieben.
 
 Harst meinte achselzuckend: »Es hängen hier überall
-für meinen Gelingt allzu viel Vorhänge — auch in der
-Diele … Gewiß, es ist Hinweis Seid? … wirst behaglich.
-Standen — ich möchte kein Streichholz ’an all diese Draperien
+für meinen Geschmack allzu viel Vorhänge — auch in der
+Diele … Gewiß, es ist schwere Seide … wirkt behaglich.
+Trotzdem — ich möchte kein Streichholz an all diese Draperien
 halten, mein lieber Lücke.« Er rieb den Stoff
-knienden den Fingerspitzen … »Bleiben Sie mit Ihrer
+zwischen den Fingerspitzen … »Bleiben Sie mit Ihrer
 Zigarette fünf Schritt entfernt … Es ist Kartuschenseide
 vom Kriege her, Pulverbeutelseide, populär gesagt,
 — sehr unpopulär, das Zeug, es flammt schneller auf
@@ -2029,247 +2029,246 @@ waren Sie doch sicherlich wiederholt hier im Hause.
 Gab es da auch schon all diese Vorhänge, Draperien und
 Seidenstoffbespannungen?«
 
-… denke,« erklärte der Marokkaner, schaute sich
-um. ruhte. »Hier ist wohl kaum etwas verändert worden.
+»Ich … denke,« erklärte der Marokkaner, schaute sich
+um, nickte. »Hier ist wohl kaum etwas verändert worden,
 <@pagebreak/>
 Mr. Harst. Musir Omar durfte das auch gar nicht tun,
-ne Haus steht ja noch immer unter polizeilichen Schutz
+das Haus steht ja noch immer unter polizeilichem Schutz
 Sozusagen.«
 
-»Ader die Schlüssel hatten Sie nicht mehr … Nun,
+»Aber die Schlüssel hatten Sie nicht mehr … Nun,
 das macht nichts.«
 
 Harst spielte mit seiner Taschenlampe, schaltete sie ein
-und belzguchtete und verdunkelte so abwechselnd die Treppen
-mit ihren dicken Läufern, nickte schwach und sagte nur?
-»Dieben wir nach oben … Lücke, Sie bleiben jetzt hier in
+und beleuchtete und verdunkelte so abwechselnd die Treppen
+mit ihren dicken Läufern, nickte schwach und sagte nur:
+»Gehen wir nach oben … Lücke, Sie bleiben jetzt hier in
 der Vorhalle … Sollte irgend etwas geschehen, geben
-Sie uns sofort ein Signal durch drei Schüsse. By fürchte,
+Sie uns sofort ein Signal durch drei Schüsse. Ich fürchte,
 es wird etwas geschehen. Diese Villa ist mir unheimlich.
 Die bewußte Bruderschaft wurde gestört, als sie die
-Grau ermordete, die natürlich auf Nimmerwiedersehen verschwinden
-solle. Ein schwerer Stein, ein Stil, ein Boot,
+Frau ermordete, die natürlich auf Nimmerwiedersehen verschwinden
+sollte. Ein schwerer Stein, ein Strick, ein Boot,
 — und der Atlantik hätte für die Bande all diese Schwierigkeiten
 beseitigt. So aber … — die Dinge klären
-sich eben, und ein Steinchen reiht sich ans Quer das
+sich eben, und ein Steinchen reiht sich ans andere, das
 Dominospiel wird wohl glatt aufgehen, falls nicht … —
 doch, warten wir ab!«
 
 Er eilte die Stufen der linken Treppe hinan, bückte
 sich, hob den Läuferstoff auf und lachte kurz … »Sehr
-verschwenderisch! Sehr!! Seide unter dem seinen Plüschläufer,
-sogar vier Schichten …! — Sie hätten da besser
-110\. hier umsehen sollen, Iomak-Bey, wirklich! Der Seitenteil
+verschwenderisch! Sehr!! Seide unter dem feinen Plüschläufer,
+sogar vier Schichten …! — Sie hätten doch besser
+sich hier umsehen sollen, Iomak-Bey, wirklich! Der Seidenstoff
 liegt noch nicht lange, die Falten an den Enden sind
-noch rückt platt gedrückt …« Dann rief er dem langen
-Hans zu: »Tür, — Augen auf!! Und Ohren zurück
-Diese Bude »ist wie ein Scheiterhaufen!!«
+noch nicht platt gedrückt …« Dann rief er dem langen
+Hans zu: »Lücke, — Augen auf!! Und Ohren auf!!
+Diese Bude ist wie ein Scheiterhaufen!!«
 
 Iomak starrte Harst verständnislos an. »Soll ich …
-mein? Leute hereinholen, Mr. Harst?«
+meine Leute hereinholen, Mr. Harst?«
 
 »Nein, nein, — ich bin froh, daß sie draußen sind …
-sehr froh …
+sehr froh …«
 
-Auch her oben gab es eine Art Diele, auch hier oder.
-schalteten wir überall das Licht ein und begannen mit wer
+Auch hier oben gab es eine Art Diele, auch hier oben
+schalteten wir überall das Licht ein und begannen mit der
 <@pagebreak/>
 Besichtigung des großen Zimmers, das Frau »Arndt«
 als Schlafraum gedient hatte. Neben dem Prachtbett stand
 ein Nachtschränkchen, auf der Marmorplatte ein Parfümzerstäuber,
-eine kleine Wasserkaraffe, nett half gefüllt,
+eine kleine Wasserkaraffe, noch half gefüllt,
 ein Glas, ein Röhrchen mit Tabletten und ein Telephon.
-— Harst nahm das nur noch halb gefüllte Röhren und
-sagte zu Iomak: »General, ein Schlafmittel, ein deutsches
-Fabrikat … Ich) will hier nicht Ihren Lehrer spielen,
-Iomak-Bey, aber vielleicht nützt es Seinen Doch einmal:
+— Harst nahm das nur noch halb gefüllte Röhrchen und
+sagte zu Iomak: »Veronal, ein Schlafmittel, ein deutsches
+Fabrikat … Ich will hier nicht Ihren Lehrer spielen,
+Iomak-Bey, aber vielleicht nützt es Ihnen Doch einmal:
 Die in Berlin eingeäscherte Frau Arndt benutzte ebenfalls
-General, sie war mit den Nerven völlig fertig … Ich
+Veronal, sie war mit den Nerven völlig fertig … Ich
 Habe mit dem Arzt gesprochen, der sie behandelt hat —
 nur telephonisch, nur kurz, aber ich fragte, ob die Patientin
 vielleicht schon vorher an Medikamente gewöhnt gewesen
-sei. Er erwähnte dies hier: Bemogelst Er habe es. in der
-Schieblade des NachttisMHhens der Kranken mehr zufällig
-bemerkt. — Sie, einmal-Bey, würden nun vielleicht zu
+sei. Er erwähnte dies hier: Veronal! Er habe es in der
+Schieblade des Nachttischchens der Kranken mehr zufällig
+bemerkt. — Sie, Iomak-Bey, würden nun vielleicht zu
 dem irrigen Schluß gelangen, es handele sich doch um
 dieselbe Person, um dieselbe Frau Arndt. Das trifft
 nur bedingt zu. Frau Arndt in Berlin verstarb an Grippe.
 Aber — es war nicht Frau Arndt, es war nur irgendeine
 Person, die man dem Arzt als Frau Arndt zeigte.
 Als er sie besuchte, war sie schon bewußtlos. In der
-Nacht drauf starb sie. Die Orte Frau Arndt starb — —
+Nacht drauf starb sie. Die echte Frau Arndt starb — —
 hier. Sie war hierher gekommen, weil die Bruderschaft
 sie brauchte …«
 
 Er schüttelte die Tabletten in die flache Linke.
 
-»Bitte …! Lernen Sie nachts nenn’ Iomak! — Dies
-hier war die oberste Tablette in dem Röhrchen. Lieber
+»Bitte …! Lernen Sie noch mehr Iomak! — Dies
+hier war die oberste Tablette in dem Röhrchen. Sie hat
 wohl die Größe der anderen, aber sie schillert gelblich.«
 Er warf sie in das Wasserglas und goß Wasser hinein.
 Die Tablette zerfiel langsam. Harst schüttelte das Glas,
-ro) daran und hielt es Iomak hin.
+roch daran und hielt es Iomak hin.
 
-»Bittermandelgeruch!« jagte der Chef dumpf …
+»Bittermandelgeruch!« sagte der Chef dumpf …
 
-»Allerdings:, Blausäure, Graubart, das in Lackschuh
+»Allerdings: Blausäure, Cyankali, das in Zuckerguß
 <@pagebreak/>
 eingebettet gewesen. Die Bruderschaft hatte für Frau
 Arndt eben mehrere Todesarten bereit und … wählte
 die ungeeignetste, die Leute sind nervös geworden, als
 die Postkarten den Baron und mich doch erreicht hatten. —
-Was ist das dort für ein Riesenschrank, Iomak-’Bey?«
+Was ist das dort für ein Riesenschrank, Iomak-Bey?«
 
 Der Kriminalchef blickte stark verwirrt auf das weiß
-bediente Ungetüm. »ah — der Strand, — das …
+lackierte Ungetüm. »Ach — der Schrank, — das …
 das ist nur eine Holzverkleidung für einen in die Mauer
 eingelassenen Tresor mit Kombinationsschloß. Musir Omar
-ließ das Ding auf Wunsch Frau Arndts aus einer hineinsehen
+ließ das Ding auf Wunsch Frau Arndts aus einer spanischen
 Fabrik kommen. Ich hatte bis dahin noch nie einen
 so gewaltigen Tresor gesehen. Leider läßt er sich nicht
 öffnen, da niemand das Stichwort des Schlosses kennt.«
 
 »So so …« — und Harst hob den Hörer von
-der Telephongabel ’ab.
+der Telephongabel ab.
 
-Wollen Sie jemand anrufen?« fragte Iomak hastig.
+»Wollen Sie jemand anrufen?« fragte Iomak hastig.
 
-Harald horchte und winkte mit der Hand erreichen
-ab. Er weiteres zwei Minuten, drei Minuten …
+Harald horchte und winkte mit der Hand energisch
+ab. Er wartete zwei Minuten, drei Minuten …
 
-»normal-Bett, war der Apparat bisher in Ordnung?«
+»Iomak-Bey, war der Apparat bisher in Ordnung?«
 meinte er leise.
 
-»Vergessen bestimmt noch … Da habe ich ihn selbst
+»Vorgestern bestimmt noch … Da habe ich ihn selbst
 benutzt …«
 
 »und jetzt ist er … tot, gänzlich tot, — kein Surren,
-kein Schnurren, kein Knochen. — Hm, — ist die Villa
-ehrlich, In an das Telephonmast angeschlossen?«
+kein Schnurren, kein Knacken. — Hm, — ist die Villa
+oberirdisch an das Telephonnetz angeschlossen?«
 
-»Na -.
+»Ja …«
 
-»Dann …!Rufen Sie bitte Hinunter … Ihre Leute
-sollen die Leitung sofort zerschneiden …
+»Dann … laufen Sie bitte Hinunter … Ihre Leute
+sollen die Leitung sofort zerschneiden …«
 
 »Wozu das?!«
 
 »Laufen Sie, sage ich!!«
 
 Der Chef zauderte, dann murmelte er überstürzt:
-»Ich verstehe … — und rannte in den Flur
+»Ich verstehe …« — und rannte in den Flur
 
-Harst war schon vor dem weißen Schraut« und öffnete
+Harst war schon vor dem weißen Schrank und öffnete
 beide Türen, — wir sahen den braun lackierten Tresor,
-— gut zwei Meter hoch, mindestens so. breit und tief.
-
+— gut zwei Meter hoch, mindestens so breit und tief.
 <@pagebreak/>
-Es war. eine uns fremde Konstruktion, links blinkte ein
+Es war eine uns fremde Konstruktion, links blinkte ein
 Messingknopf, darüber lagen etwas vertieft die sechs vernickelten
 Rädchen des Buchstabenschlosses dicht beieinander.
-Harald drehte das eine, es heulte am Buchstaben.
+Harald drehte das eine, es hatte acht Buchstaben.
 
-»Ad!!« sagte er. »Und jene Rädchen … Also ein
+»Acht!« sagte er. »Und sechs Rädchen … Also ein
 Stichwort mit sechs Buchstaben, und Isolde …«
 
-Von unten her der scharfe, Knall von Schüssen …
+Von unten her der scharfe Knall von Schüssen …
 
 Drei Schüsse …
 
 Wir waren herumgefahren … Wir sahen grellen
-Lichtschein im Flur, wir sahen, wie der Flurläufer urplö3zlich
+Lichtschein im Flur, wir sahen, wie der Flurläufer urplötzlich
 mit starkem Zischen aufflammte, wie die Vorhänge
 der Tür blitzschnell auflohten, wie das Flammenmeer die
 Seidenbespannung der Wände ergriff, wie durch die in
 Qualm und Flammenzungen gehüllte Tür zwei Gestalten
 auf uns zu taumelten …
 
-3ch Gab es … Harst fingerte an dem Grelodhiop
-herum … Ich war mehr Bildsäule als Moos), ich so
-Bildet geschwärztes Gesicht, is) sah Iomak zum Fenster
-warten, — aber auch dort flammten schon die Vorhänge
+*Ich* sah es … Harst fingerte an dem Tresorschloß
+herum … Ich war mehr Bildsäule als Mensch, ich sah
+Lückes geschwärztes Gesicht, ich sah Iomak zum Fenster
+wanken, — aber auch dort flammten schon die Vorhänge
 mit jenem häßlichen Fauchen auf, das wie das Knurren
 eines Untiers klang.
 
 Iomak prallte zurück … »Vergittert!!« stammelte er.
-»By vergaß es, — vergittert!«
+»Ich vergaß es, — vergittert!«
 
 »Und unten brennt alles lichterloh wie durch ein
 Zauberwort!« brüllte Lücke und drängte sich an mich.
 »Schraut, das ist … das Ende!! Die Schurken haben …«
 
-Das Zimmer glich bereits einem Badofen. Jeder
-Atemzug schmerzte … Giftige gelobte Fäuste sog man
-in die Lungen ein! … — —
+Das Zimmer glich bereits einem Backofen. Jeder
+Atemzug schmerzte … Giftige grünliche Dünste sog man
+in die Lungen ein! … —
 
 Dann Harsts Stimme: »Hierher — — hinein mit
-ausritt« — Eine Faust packte mich, — ich flog — prallte
+euch!!« — Eine Faust packte mich, — ich flog — prallte
 gegen kaltes Metall … Ein anderer flog halb über
 mich, — dann fiel die Tresortür zu …
 
-Bier Männer kauerten in dem Stahlgehäuse dicker
+Vier Männer kauerten in dem Stahlgehäuse dicht
 nebeneinander …
 
 <@pagebreak/>
 Eine Taschenlampe leuchtete uns …
 
 Lücke sagte benommen: »Wir … müssen hier …
-doch ersticken …! Bier — — in diesem Eisenkasten — —
-hier! —, wie lange wird die Luft für uns reichen?!«
+doch ersticken …! Vier — — in diesem Eisenkasten —
+vier! —, wie lange wird die Luft für uns reichen?!«
 
 <h2>8. Kapitel.</h2>
 
-<h3>Naß dem Brande.</h3>
+<h3>Nach dem Brande.</h3>
 
 Die Feuerwehr war damals sehr bald zur Stelle.
 Halb Casablanca fand sich ein … Niemand begriff,
-wie die Holzvilla in so kurzer Zeit so beurteilen an allen
-Eden und Enden brennen konnte … Die Feuerwehr war
+wie die Holzvilla in so kurzer Zeit so lichterloh an allen
+Ecken und Enden brennen konnte … Die Feuerwehr war
 machtlos. Die Bruderschaft Stephani hatte dafür gesorgt,
-daß sein einziger Schlauch mehr bei! war, und der Tankwagen
-— — gegenüber der Glut, gegenüber dem
+daß kein einziger Schlauch mehr heil war, und der Tankwagen
+— — gegenüber *der* Glut, gegenüber *dem*
 Sturme?!
 
 Zwei Stunden nur, und das Gebäude krachte in sich
 zusammen … Vor dem ungeheuren Funkenregen zerstoben
 die Neugierigen … Dann setzte Gewitterregen
-ein, — Wolkenbruch setzte vom Himmel ganze Bäche
+ein. — Wolkenbruch fegte vom Himmel ganze Bäche
 herab, — die Stätte der Verwüstung wurde überschwemmt,
 Wasser besiegte den Todfeind Feuer, — das Unwetter
 verjagte auch die letzten Neugierigen, auch Wehr und
 Polizei zogen ab, — den vier Männern, deren verkohlte
 Leichen zwischen den qualmenden Trümmern lagen, war
-ja da) nicht mehr zu dessen.
+ja doch nicht mehr zu helfen.
 
 Aber kurz vor dem Brande war im Norden der
 Stadt ein von Tanger kommendes Flugzeug gelandet, dem
-zwei Fremde entstiegen. Es war vor einem Wäldchen niedergegangen,
-und Führer und Monteur blieben bei dem
+zwei Fremde entstiegen. Es war vor einem Wäldchen
+niedergegangen, und Führer und Monteur blieben bei dem
 Eindecker zurück, die beiden Passagiere eilten der Stadt
-zu, wurden Zeugen der Feuersbrunst, hörten, daß. vier
+zu, wurden Zeugen der Feuersbrunst, hörten, daß vier
 Unglückliche in der Villa mit umgekommen seien.
 
-Einsam und öde lag2qn nach Mitternacht Park und
+Einsam und öde lagen nach Mitternacht Park und
 <@pagebreak/>
-Brandruine da. Es goß noch immer in Strömen. Ader
+Brandruine da. Es goß noch immer in Strömen. Aber
 unter dem überhängenden Dache eines an die Mauer
 angeklebten Geräteschuppens standen die beiden Herren
-in triefenden Gummimänteln, triefenden Mützen … (So
+in triefenden Gummimänteln, triefenden Mützen … (*So*
 hat’s mir der eine nachher erzählt.) Standen und flüsterten.
-Der. Orkan pfiff über ihnen in den Baumwipfeln, der
-Orkan pflügte ihnen die Worte von den Lippen … Zuweilen
-brach mit hellem Krachen eine überschlanke Palme,
+Der Orkan pfiff über ihnen in den Baumwipfeln, der
+Orkan pflückte ihnen die Worte von den Lippen … Zuweilen
+brach mit hellem Krachen eine überschlanke Palme.
 Der abgebrochene Teil pendelte hin und her, — ein neuer
 Windstoß trennte ihn vollends von dem regennassen
-Stumpf, — polternd fiel er »in die Büsche oder auf den
+Stumpf, — polternd fiel er in die Büsche oder auf den
 Mauerrand …
 
-»ob glaube niemals, Haß sie tot sind, Baron,« wiederholte
+»Ich glaube niemals, daß sie tot sind, Baron,« wiederholte
 Hubert Huß noch nachdrücklicher. »Vielleicht stecken
 sie in den Kellern und zeigen sich absichtlich nicht. Harst
-rechnete ja bestimmt mit irgendeinem teuflisch entkommenen
+rechnete ja bestimmt mit irgendeinem teuflisch ersonnenen
 Anschlag, und daß er sich leichtfertig in die Holzvilla
-Hineingewagt haben sollte — ausgeflossen!«
+Hineingewagt haben sollte — ausgeschlossen!«
 
 Egon von Croß erwiderte nur: »Die Keller liegen
 voller Balken … Auch der Tresor ist bis in den Keller
@@ -2277,37 +2276,37 @@ Hinabgesaust, hörte ich die Leute erzählen … Ich kann
 Ihren Optimismus nicht teilen, Herr Huß.«
 
 »Kommen Sie!« sagte der Mann vom Globus kurz.
-»die leben! Und — wenn sie tot sind, Baron: Harst hat
+»Sie leben! Und — wenn sie tot sind, Baron: Harst hat
 mir ein paar Winke gegeben! Die Schuldigen werden dann
-baumeln, so wahr ich Hubert Huß beiße!«
+baumeln, so wahr ich Hubert Huß heiße!«
 
 Sie schlichen der Rückseite der Ruine zu, — sie
-treiben über Balken, Bretter, Dachziegel … So gelangten
-sie wirklich in die Keller hinein, gelangten ’vor den Tief
+krochen über Balken, Bretter, Dachziegel … So gelangten
+sie wirklich in die Keller hinein, gelangten vor den schief
 liegenden Tresor, über dessen Tür sich ein paar verkohlte
-Balkenstüre festgeklemmt hatten.
+Balkenstücke festgeklemmt hatten.
 
-Huß’ Taschenlampe blinkte über dieses Chaos bin.
+Huß’ Taschenlampe blinkte über dieses Chaos hin.
 
 »Ein Riesenschrank, Baron!« meinte er kopfschüttelnd.
-»Am — hier an der Rückseite, sehen Sie, zweiLöherchHen.
+»Hm — hier an der Rückseite, sehen Sie, zwei Löcherchen
 <@pagebreak/>
--… Und Drahtenden … Das hier ist doch AntennenÜtze,
+-… Und Drahtenden … Das hier ist doch Antennenlitze,
 Baron … Merkwürdig!«
 
 »Still!!«
 
-Im Nu hatte Fuß seine Lampe ausgeschaltet.
+Im Nu hatte Huß seine Lampe ausgeschaltet.
 
-Sie horten … Und sie hörten — hörten ein Poltern
+Sie horchten … Und sie hörten — hörten ein Poltern
 … Stimmen — leise —, hörten Harsts klares
-Flüstern: »Roch ein Stück!«
+Flüstern: »Noch ein Stück!«
 
 »Harst!« rief Egon von Croß jubz2lnd.
 
 Ein dünner Lichtstrahl nun … ein Kopf …
 
-»Ab! — — Huß und der Baron, — guten Abend, —
+»Ah! — — Huß und der Baron, — guten Abend, —
 ganz programmgemäß fast! Ich betone: Fast!!«
 
 Händeschütteln, erregtes Durcheinanderfragen …
@@ -2316,24 +2315,24 @@ Händeschütteln, erregtes Durcheinanderfragen …
 Harst gedämpft. »Leider immer noch nicht genügend.
 In dem Tresor — bitte kriechen Sie hinein, Huß, ganz
 interessant — war zwischen der doppelten Rückwand ein
-starker kleiner Kurzwellensender und ’Gmpfänger aufgestellt
-… Und dort, lieber Huß, — die Sauerstoffstahlflasche
-hat? sich wohl Frau Arndt verschafft, nachdem
+starker kleiner Kurzwellensender und Empfänger aufgestellt
+… Und dort, lieber Huß, — *die* Sauerstoffstahlflasche
+hatte sich wohl Frau Arndt verschafft, nachdem
 sie gemerkt hatte, das sie nachts ihres Lebens nicht mehr
-sicher war … Sie bat in dem Tresor geschlafen, behaupte
-ich … Da liegen noch die Decken und Kisten …
-In dem Stahlbett, das sich geh von innen öffnen lies,
+sicher war … Sie hat in dem Tresor geschlafen, behaupte
+ich … Da liegen noch die Decken und Kissen …
+In *dem* Stahlbett, das sich auch von innen öffnen lies,
 war sie vor der Bruderschaft Stephani sicher … Am
 Tage wagte sie sich ins Freie, — leider. Und — —
 starb, nahm aber das Geheimnis des Stichwortes mit ins
-Trab. Es lautete Isolde … Meinerseits war’s ein
-blitzäbhnlicher Einfall, daß ich gerade im richtigen Moment
-an Isolde dachte: Sechs Buchstabens!!«
+Grab. Es lautete *Isolde* … Meinerseits war’s ein
+blitzähnlicher Einfall, daß ich gerade im richtigen Moment
+an Isolde dachte: Sechs Buchstaben!!«
 
-»Gott schont?! mir ein neues Hirn, — ich verstehe von
+»Gott schenke mir ein neues Hirn, — ich verstehe von
 alledem kein Wort!« murmelte der Baron, über einen
-so Warzen Balken gelehnt und in den Tresor hineinkopiert.
-»Was ist das — Brtitderschaft Stephani?!«
+schwarzen Balken gelehnt und in den Tresor hineinstarrend.
+»Was ist das — Bruderschaft Stephani?!«
 
 »Nichts Angenehmes,« meinte Harst und klemmte ein
 Balkenstück zwischen die Türspalte. »Das sind Leute,
@@ -2343,25 +2342,25 @@ mehrere Mordversuche und manches andere auf ihrem
 Konto haben. Das sind moderne Raubritter, Baron, allermodernste
 … — Sie aber, — ein neues Hirn haben
 Sie wirklich nicht nötig … Ihr bisheriges genügt. Dieser
-Ort eignet sich jede) wenig zu langatmigen Erklärungen.
-— Kommen Sie wieder heraus aus dem Kasten, Huß?
+Ort eignet sich jedoch wenig zu langatmigen Erklärungen.
+— Kommen Sie wieder heraus aus dem Kasten, Huß!
 Wir wollen nun dem Hauptmacher der Bruderschaft ein
-wenig auf den Leib Rücken. Format-Bey meint zwar, der
+wenig auf den Leib rücken. Iomak-Bey meint zwar, der
 edle Herr lasse sich von niemandem sprechen, da er seit
 anderthalb Jahren gelähmt sei …«
 
-»Musir Omar?!« staunte der Kriminalchef rechts ungläubig.
+»Musir Omar?!« staunte der Kriminalchef recht ungläubig.
 
 »Kein anderer! — Raus aus dem Keller, meine
 Herren! Es scheint mit dem Regen nachzulassen, und dann
-werden sich auch wieder Neugierige einfinden’… Spielten
+werden sich auch wieder Neugierige einfinden … Kriechen
 Sie voran, Huß, — das Haus hat sich zu sehr verändert,
-als daß ichG mich darin noch zurechtfinden könnte.«
+als daß ich mich darin noch zurechtfinden könnte.«
 
 Wir kamen in den Park. Hans Lücke sagte höflich:
-»Faden Sie vielleicht noch — eine Zigarette. Iomak-Bey?
+»Haben Sie vielleicht noch eine Zigarette, Iomak-Bey?
 Ich sehne mich nach Nikotin. Meine Nerven sind etwas angegriffen,
-und …« —
+und …«
 
 Harst hatte ihm schnell die Hand auf den Mund
 gelegt.
@@ -2371,13 +2370,16 @@ seltsame Prozession entlang … Es tröpfelte nur noch.
 Laternenlicht beleuchtete den Krankenfahrstuhl, in dem
 ein weißbärtiger Marokkaner ruhte. Ein Diener hielt einen
 großen Schirm über ihn ausgespannt, vier weitere Diener
-begleiteten ihren Herrn, den reisen, reichsten Mann
+begleiteten ihren Herrn, den reichen, reichsten Mann
 aus Casablanca: Musir Omar Bey, den Gelähmten, der
-keinen Besucher mehr empfing, der keinen Ätzt duldete,
+keinen Besucher mehr empfing, der keinen Arzt duldete,
 der vom Bett aus sein Unternehmen leitete … So hatte
 es uns der Kriminalchef schon vorher berichtet.
+
 <@pagebreak/>
-alt Die Prozession mit den drei großen Laternen machte
+Die Prozession mit den drei großen Laternen machte
+halt.
+
 Eine andere Prozession kroch durch die Büsche ganz
 nahe heran.
 
@@ -2388,28 +2390,27 @@ ihn auf … Entfernt die Apparate … Beeilt euch …
 Vielleicht ist die Tür durch den Fall von selbst aufgesprungen
 …«
 
-Das Organ kannte ich …
+*Das* Organ kannte ich …
 
-Das war Doktor Ausflug Stephani! In hätte meinen
+Das war Doktor Justus Stephani! Ich hätte meinen
 Kopf darauf wetten mögen.
 
-»Hände voll!« — Lücke war mit seinen langen
+»Hände hoch!!« — Lücke war mit seinen langen
 Beinen schon neben dem einen Laternenträger … Lücke
 schlug zu, — aber es war verfrüht … Musir Omar
-
 hatte sich vorgesehen … Seine Hände fuhren unter
 Der Decke hoch, die er sich über den Schoß gebreitet hatte.
 
 Iomak-Bey drückte schneller ab …
 
 Der Gelähmte sackte nach vorn zusammen, die Pistolen
-entfielen ihm… er kollerte auf den nassen Weg und
-klatschte mit doch Gesicht in eine große Pfütze. Seine Diener
+entfielen ihm, er kollerte auf den nassen Weg und
+klatschte mit dem Gesicht in eine große Pfütze. Seine Diener
 rührten sich nicht …
 
-Harst hob den Toten empor, Grotte ihn um, —
-die Nässe hatte den nur angeklebten Bart gelodert, —
-der Sturm zerpflüte die Bartfetzen …
+Harst hob den Toten empor, drehte ihn um, —
+die Nässe hatte den nur angeklebten Bart gelockert, —
+der Sturm zerpflückte die Bartfetzen …
 
 Ohne Bart war Musir Omar Bey Zweifellos dem
 Anwalt Doktor Stephani sehr, sehr ähnlich.
@@ -2420,97 +2421,96 @@ Anwalt Doktor Stephani sehr, sehr ähnlich.
 
 <h3>Ein Gesunkener.</h3>
 
-Justizrat Doktor Ausflug Stephani saß vier Tage später
-
+Justizrat Doktor Justus Stephani saß vier Tage später
 gegen neun Uhr abends in seinem Sprechzimmer hinter
-dem mit Akten betreten Schreibtisch und sog nachdenklich
+dem mit Akten bedeckten Schreibtisch und sog nachdenklich
 an einer Zigarre.
-… Der matte Schein der grünen Schreibtischlampe fiel
+
+Der matte Schein der grünen Schreibtischlampe fiel
 auf das blasse Gesicht eines hübschen schlanken Mädels,
 das leise vor sich hinweinend in dem Rohrsessel lehnte,
 der für die fragwürdigen Klienten des Anwalts bestimmt
 war …
 
-»Jagd habe dich nicht angerufen und herbestellt, Thea,«
-jagte Stephani nun bissig. »Ich will nichts mit euren
-ermutigen Geschichten zu tun haben — nichts! Mir traut
+»Ich habe dich nicht angerufen und herbestellt, Thea,«
+sagte Stephani nun bissig. »Ich will nichts mit euren
+schmutzigen Geschichten zu tun haben — nichts! Mir traut
 man freilich das Allerschlechteste zu, mich belauert man,
 draußen stehen die Herren Hüter des Gesetzes herum
-und bewachen mein Haus … Mögen fiel!« Er lachte
+und bewachen mein Haus … Mögen sie!!« Er lachte
 Schrill … »Aber dir kann ich nur den einen guten Rat
-geben: Verschwinde!! Ich rief bis nicht her, — also
-ist’s eine Falle — für dicht«
+geben: Verschwinde!! *Ich* rief dich nicht her, — also
+ist’s eine Falle — für dich!«
 
-Thea rate den Schreibtischrand mit zitternden Händen
-… »Oh) — ich … bin … so in Angst,« wimmerte
+Thea packte den Schreibtischrand mit zitternden Händen
+… »Oh — ich … bin … so in Angst,« wimmerte
 sie. »Seit Tagen keine Nachricht aus Casablanca,
 — der Sender schweigt … Kein Signal — nur fremde
-Morsezeichen, nicht uns re Zeichen … Und — — ich
+Morsezeichen, nicht unsere Zeichen … Und — — ich
 bereue, Onkel, — ich möchte alles ungeschehen machen,
-—» ich ahnte nicht, daß er so … so kaltblütig morden
+— ich ahnte nicht, daß *er* so … so kaltblütig morden
 könnte, — ich habe mich überreden, verführen lassen, —
-ich liebe ja nur Dieter Schlug, und Müller gilt mir nichts,
-— nie hätte ich mich mit ihm verlobt, wenn er’s nicht
+ich liebe ja nur Dieter Jelling, und Müller gilt mir nichts,
+— nie hätte ich mich mit ihm verlobt, wenn *er’s* nicht
 befohlen hätte, damit der Betrug noch besser verschleiert
 <@pagebreak/>
 würde, denn Ingenieur Karl Müller spielte in Casablanca
-eine große Rolle …
+eine große Rolle …«
+
 »und gehörte mit zu der seinen Bruderschaft! Ja
-
-— er auch, damit du es weißt, — er Stoß hier deinen
+— er auch, damit du es weißt, — er schoß hier deinen
 Kunstmaler nieder, Thea, — — er!! Er spielte das große
-Spiel mit — pfui Gewicht!! — Flieh’, sage 1H dir, oder
-die kommst ins Gefängnis! Nur Harst kann dich hierher
+Spiel mit — pfui Teufel!! — Flieh’, sage ich dir, oder
+du kommst ins Gefängnis! Nur Harst kann dich hierher
 gelockt Haben, — in Casablanca soll er verbrannt sein,
-
 ich glaube das nicht! — Flieh’, — ich will dir Geld
 geben, in deine Wohnung darfst du nicht mehr zurück …
-Ich will dir einen Paß aushändigen, obwohl du’s wahr
-konnte verdient Das!, daß …
+Ich will dir einen Paß aushändigen, obwohl du’s wahrlich
+nicht verdient hast, daß …«
 
-schwieg, — — « lachte …
-»Es … ist zu spät,« sagte er leise … « »die sind
-schon« im Hause … — Herein!«
-Die Tür ging g auf, —« eine Hand tastete nach »dem
+… Er schwieg, — — horchte …
 
-Lichtschalter, die elektrisqme Krone brannte und beleuchtete
+»Es … ist zu spät,« sagte er leise … »Sie sind
+schon im Hause … — Herein!«
+
+Die Tür ging auf, — eine Hand tastete nach dem
+Lichtschalter, die elektrische Krone brannte und beleuchtete
 das fast ärmlich eingerichtete Büro.
 
-»Ab — Herr Doktor Lücke,« krächzte Stephani und
+»Ah — Herr Doktor Lücke,« krächzte Stephani und
 blickte den Eintretenden höhnisch entgegen. »Bringen Sie
 mir vielleicht Grüße von meinem lieben Zwillingsbruder
 Richard?! Wie geht es ihm in Casablanca?! Mimt er
-Rock immer den Musir Omar Bey?! — Bitte, nur näher,
+noch immer den Musir Omar Bey?! — Bitte, nur näher,
 meine Herren …«
 
 Hinter Lücke und Harst schob ich nun auch die echte
 Isolde Backmeister ins Zimmer, die wir aus Musirs
-gute ebenso wohlbehalten wie Freund Schütz gerettet
+Haus ebenso wohlbehalten wie Freund Schütz gerettet
+hatten.
 
-alten.
-
-… Bitte — nehmen Sie Platz …« Stephan!
+»… Bitte — nehmen Sie Platz …« Stephani
 hatte sich erhoben …
 
-Thea war spurlos verschwunden.
+*Thea* war spurlos verschwunden.
 
-… Isolde — — du?!« Er streckte ihr beide, Hände
-entgegen … — »Kind, Kind, — deinetwegen habe ich
-frisch gesorgt … deinetwegen Gas ich meinem schurkischen
+»… Isolde — — du?!« Er streckte ihr beide Hände
+entgegen … »Kind, Kind, — deinetwegen habe ich
+mich gesorgt … deinetwegen gab ich meinem schurkischen
 Bruder einen sehr eindeutigen Wink … Hätte er dir
 <@pagebreak/>
 ein Härchen gekrümmt, hätte ich alles verraten, denn —
-ich wußte Bescheid, ich werde gut bedient von meinen
-Kormoran, — es sind zwar alles Gauner und Diebe,
+*ich* wußte Bescheid, ich werde gut bedient von meinen
+Freunden, — es sind zwar alles Gauner und Diebe,
 aber dankbar sind sie, dankbarer als mancher Schuft mit
-sogenannter fle&enloser Weste …
+sogenannter fleckenloser Weste …«
 
-!’ Isolde Backmeister hielt Stephanis Hand, mit der
+Isolde Backmeister hielt Stephanis Hand, mit der
 anderen Hand umklammerte sie den Arm Egon von
-Croß’, der genau wie Lücke und ich noch immer »nicht
-so ganz im Bild? war.
+Croß’, der genau wie Lücke und ich noch immer nicht
+so ganz im Bilde war.
 
-»Sekt euch!« Jagte Stephani dann befehlend. »Da
+»Setzt euch!« sagte Stephani dann befehlend. »Da
 sind Stühle, — schön sind sie nicht, — meine Frau
 wünschte Polstersessel, sie wünschte sich alles …«
 
@@ -2519,50 +2519,50 @@ Er warf sich in seinen Stuhl und lächelte bitter.
 »So — schießen Sie los, Harst … Was haben
 Sie noch auf dem Herzen?! Haben Sie Richard erwischt?«
 
-»Er … ist tot,« meinte Harald sanft. »Herr Futteral,
-’Ihr Zwillingsbruder starb durch eine Kugel des
-Kriminalchef von Casablanca …
+»Er … ist tot,« meinte Harald sanft. »Herr Justizrat,
+Ihr Zwillingsbruder starb durch eine Kugel des
+Kriminalchefs von Casablanca …«
 
 »Also … doch!« nickte Stephani grimmig. »Tot!
-Endlich!! Verdient hatte er es längst … —« Von mir
-konnten Sie gleicht gut verlangen, daß ich ihn verraten
+Endlich!! Verdient hatte er es längst … — Von mir
+konnten Sie nicht gut verlangen, daß ich ihn verraten
 sollte. Er war immerhin mein Zwillingsbruder. Ich habe
-lange genug versucht, ihn zu besseren. Es glühte mir nicht.
-Er sank immer mehr …
+lange genug versucht, ihn zu bessern. Es glückte mir nicht.
+Er sank immer mehr …«
 
-»ja —.— und schließlich … stahl er Ihnen noch die
+»ja — — und schließlich … stahl er Ihnen noch die
 Frau, die Sie geliebt haben, Herr Justizrat,« meinte
 Harst noch leiser. »Nicht Sie waren der Habgierige, wie
 wir alle glaubten, — Ihre Frau war’s! Und sie war nicht
-ohne Reize, war zwanzig Jahre jünger, — sie unterlag
+ohne Reize, war zwanzig Jahre jünger, — *sie* unterlag
 ebenfalls dem Millionentaumel — genau wie das
-Mädchen, das in … Casablanca nachher »Geölte Backmeister«
-spielte …
+Mädchen, das in Casablanca nachher »Isolde Backmeister«
+spielte …«
 
-Stephani Halls hie Linke über die Augen gedeckt und
+Stephani hatte die Linke über die Augen gedeckt und
 regte sich nicht.
 
 »Alles das, was anfänglich so dunkel und undurchsichtig
 <@pagebreak/>
-erschien,« fuhr Harst lebhafter fort, »flüchtete sich
-bereits ein wenig, als Müller, Ingenieur seines Gescheut,
+erschien,« fuhr Harst lebhafter fort, »lichtete sich
+bereits ein wenig, als Müller, Ingenieur seines Zeichens,
 den Baron zu erschießen suchte. Dieser Anschlag bewies
-mir, daß der Baron mit der angeblichen Sehfelde, die mir
+mir, daß der Baron mit der angeblichen Isolde, die mir
 den Rohrpostbrief geschickt hatte, nicht zusammentreffen
-sollte, — Croß Platte liefert erkannt, daß es nicht die
-Isolde war, in die er sich verliebt hatte: — Und Ohre
+sollte, — Croß hätte sofort erkannt, daß es nicht *die*
+Isolde war, in die er sich verliebt hatte: — Und Ihre
 Bemerkung Lücke gegenüber von der »Bruderschaft Stephani«,
 Herr Justizrat, gab mir einen weiteren Wink.
-Noch hervor wir naß Casablanca abreisten, hatte ich in
+Noch hervor wir nach Casablanca abreisten, hatte ich in
 aller Stille ermittelt, daß Ihr Bruder mehrmals vorbestraft
 und zuletzt als Buchhalter bei Musir Omar tätig
-gewesen. Diele Stellung hat er schließlich dazu benutzt,
+gewesen. Diese Stellung hat er schließlich dazu benutzt,
 den gelähmten Musir völlig auszuschalten, — er sperrte
 ihn mit Hilfe der bestochenen Dienerschaft in den Kellerräumen
 ein, er selbst ward Musir Omar Bey, er wollte
 allmählich des echten Musirs gesamten Besitz veräußern
-und das Vermögen nach Europa schaffen. Er. verbündete
-sie; mit Ihrer geschiedenen Frau, mit dem Hosenrein
+und das Vermögen nach Europa schaffen. Er verbündete
+sich mit Ihrer geschiedenen Frau, mit dem Ingenieur
 Müller, einem genau so habgierigen, gewissenlosen Schurken,
 — so gelangte Frau Hulda Arndt zu ihren Millionen,
 die sie dann ihrer Nichte hinterließ, als die Steuerbehörde
@@ -2571,67 +2571,67 @@ Millionen eigentlich stammten. Da erkrankte Frau Hulda
 Arndt, — aber die Kranke war nicht sie selbst, sondern
 eine Bettlerin, die schon halbtot an ihrer Tür um eine
 warme Mahlzeit gebeten hatte und die dann als Hulda
-Arndt eingeäschert wurde. So wurde Geölte Backmeister
-Millionenerbin, so kam’s, daß Isolde, durfte die Nachfragen
-der Steuerbehörden verwirrt und ihres Reichtumsseür
-bald überdrüssig, die Stellung bei Baron Croß annahm,
-— so kam’s, daß Pferde eines nachts tatsächlich
-aus Crossenstein entfloh, weil in jener Nacht die von jähe
-bisher doch für tot gehaltene Hulda Arndt an ihr, Fenster
-sagte und ihr die Wahrheit enthüllte und das günstiges
+Arndt eingeäschert wurde. So wurde Isolde Backmeister
+Millionenerbin, so kam’s, daß Isolde, durch die Nachfragen
+der Steuerbehörden verwirrt und ihres Reichtums
+sehr bald überdrüssig, die Stellung bei Baron Croß annahm,
+— so kam’s, daß Isolde eines nachts tatsächlich
+aus Crossenstein entfloh, weil in jener Nacht die von ihr
+bisher doch für tot gehaltene Hulda Arndt an ihr Fenster
+pochte und ihr die Wahrheit enthüllte und das gänzlich
 <@pagebreak/>
 verstörte junge Mädchen überredete, sie zu begleiten.
 In Casablanca wurde Isolde dann in der Villa Musirs
 gefangen gehalten, da eine andere Isolde nun in die Erscheinung
 treten mußte, damit das Vermögen unauffällig
-wieder an Richard Stephani zurückfallen könnte.
+wieder an *Richard* Stephani zurückfallen könnte.
 Hulda Arndt war Isoldes Wächterin, sie hatte immerhin
 noch ein wenig Herz, sie beförderte die beiden Postkarten,
 sie ahnte nicht, daß der eine Empfänger, ich, ausgerechnet
 der Mann war, den Richard Stephani am meisten fürchtete.
 Sie wurde ermordet, — inzwischen war hier in Berlin
 die andere »Isolde« aufgetaucht, von der wir bisher
-sehr wenig wissen …
+sehr wenig wissen …«
 
-Der Futteral ließ die Hand sinken. »Ah — das
+Der Justizrat ließ die Hand sinken. »Ah — *das*
 wissen Sie also doch nicht!« meinte er rauh. »Von mir
-werden Sie nichts erfahren, meine Herren, — ich bin Verteidigen,
-nicht öffentlicher Ankläger.«
+werden Sie nichts erfahren, meine Herren, — ich bin
+Verteidiger, nicht öffentlicher Ankläger.«
 
 Der grüne Vorhang zwischen zwei Bücherschränken
 bewegte sich, — ein blasses Geschöpf trat hervor …
 
-»34 bin … Thea Seiner,« sagte sie irgend, «— ich
+»Ich bin … Thea Gorner,« sagte sie stockend, »— ich
 bin ein uneheliches Kind des Rechnungsrates Backmeister.
-Ich schäme mich dessen, was Ah, unterstützt durch meine
+Ich schäme mich dessen, was ich, unterstützt durch meine
 Ähnlichkeit mit Isolde und verführt durch Frau Arndts
-Geldversprechungen, getan habe, — ichg bereue alles —
-alles, — ich habe den Kunstmaler Reling ehrlich geliebt
-und wollte mit für ihn reich werden … Ihre Tränen
-flossen … —« Sie hat nachher milde Richter gefunden,
-und auch Dieter Reling, der sie nicht verraten wollte und
+Geldversprechungen, getan habe, — ich bereue alles —
+alles, — ich habe den Kunstmaler Jelling ehrlich geliebt
+und wollte mit für ihn reich werden …« Ihre Tränen
+flossen … — Sie hat nachher milde Richter gefunden,
+und auch Dieter Jelling, der sie nicht verraten wollte und
 nur deshalb schwieg, hat ihr verziehen … — —
 
 Wenn jetzt einmal die Feuerwehr an unserem stillen
 Heim vorüberläuft — es geschieht selten, zum Glück —,
-dann denke Ah stets an die berühmte »Modernen el
-Na« in Casablanca und an die … Windharfe auf dem
-Dachte der Holzvilla dort, — an jene Windharfe, die
-seine Windharfe war, sondern eine Rahmenantenne, wie
+dann denke ich stets an die berühmte »Makeinsch el
+Ma« in Casablanca und an die … Windharfe auf dem
+Dache der Holzvilla dort, — an jene Windharfe, die
+keine Windharfe war, sondern eine Rahmenantenne, wie
 Harst damals nachts auf den ersten Blick erkannte …
-
 <@pagebreak/>
 Es war die Antenne für den Empfänger in dem großen
 Tresor, mit dem wir in den Keller hinabsausten … —
 Und dies über die Rahmenantenne habe ich mir absichtlich
 bis zuletzt aufgespart. Jeder »Titel« einer Geschichte
-steht ganz vorn, — nicht geh? Erklärung für einen Titel
+steht ganz vorn, — nicht jede Erklärung für einen Titel
 steht wie hier … ganz hinten. Es ist schwer, Titel zu
 finden. Es ist noch schwerer, einen so umfangreichen
 Gaunerstreich auf einen Raum von zweiundsechzig Seiten
 zusammenzudrängen.
-Getrachtet
 
-Nächster Band:
-Die Nachtgespenster.
+Tatsache!
+
+<#import "*/harst.ftl" as harst>
+<@harst.naechsterband band="Die Nachtgespenster."/>
 
