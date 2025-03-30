@@ -6,10 +6,10 @@
 <h2>Einleitung.</h2>
 
 Wie die Rahmenantenne nebst Zubehör — und
-Hier ist »Zubehör« das wichtigere — damals nach Casablanca
+hier ist »Zubehör« das wichtigere — damals nach Casablanca
 eingeschmuggelt wurde, ist nie völlig aufgeklärt
 worden, spielt im übrigen auch kaum eine Rolle bei dieser
-Verworrenen Geschichte, die anfänglich durchaus einem
+verworrenen Geschichte, die anfänglich durchaus einem
 gänzlich verhedderten buntscheckigen Wollknäuel glich. —
 
 Man sollte ja eigentlich in solchen Falle die Dinge
@@ -120,7 +120,7 @@ ging’s, — immer weiter gen Westen, denn Freund
 Schütz’ ausgedehnte Handelsniederlassung lag draußen an
 einer kleinen Meeresbucht. Er war Vertreter einer bekannten
 Bremer Großfirma, und unsere Beziehungen
-Hatten sich bisher lediglich auf Briefe, Karten und Geschenke
+hatten sich bisher lediglich auf Briefe, Karten und Geschenke
 beschränkt, — Geschenke, die er uns sandte.
 Garantiert echte marokkanische Raritäten.
 
@@ -207,7 +207,7 @@ nicht … — Wir müßten dann gerade die alte Sau verkaufen
 … Und Schweine werden heute schlechter bezahlt
 als Schweinereien. Außerdem, — lohnt die Geschichte
 wirklich eine so weite, kostspielige Fahrt?! Im Grunde
-kann es uns doch Herzlichst Schnuppe sein, ob dieser
+kann es uns doch herzlichst Schnuppe sein, ob dieser
 Backmeister aus … aus …«
 
 »Casablanca …« ergänzte der Rittergutsbesitzer und
@@ -398,7 +398,7 @@ Sie Wertgegenstände im Koffer?«
 
 »Das kann ich beim besten Willen nicht behaupten,«
 erklärte Egon mehr belustigt als ärgerlich. »Der Dieb
-wird ein Herr langes Gereicht machen, hoffe ich …«
+wird ein sehr langes Gesicht machen, hoffe ich …«
 
 »Nun also …!« — und der Beamte grinste gleichfalls.
 — —
@@ -441,7 +441,7 @@ Auto da, alles durch die Galgenvögel prompt besetzt,
 nur die eine Droschke dann … — und in der Wilmersdorfer
 Straße fischten sie den Koffer. Es war wieder das
 grüne Auto, Herr Harst … Leider konnte ich mit dem
-Motorrad nicht so schnell Hinterdrein, — am Kurfürstendamm
+Motorrad nicht so schnell hinterdrein, — am Kurfürstendamm
 entwischte es mir.«
 
 Hubert Huß feixte. »Die Nummer ändern die »vier«
@@ -511,10 +511,10 @@ Bauchgrimmen!
 
 »Herr Baron,« meinte er dann auch, »ich bin nicht
 Detektiv … Ich bin ein wohlhabender Gerichtsassessor
-a.&nbsp;D. mit einer starten Neigung für das Ungewöhnliche.
+a.&nbsp;D. mit einer starken Neigung für das Ungewöhnliche.
 Wenn Sie einen Detektiv brauchen, müssen Sie sich an
 den Herrn wenden, der im Vorgarten mit dem Spaten
-Hantierte und jetzt der Droschke folgt, die Sie benutzt
+hantierte und jetzt der Droschke folgt, die Sie benutzt
 haben. Herr Hubert Huß ist der Inhaber der Berliner
 Detektei »Globus«.«
 
@@ -899,7 +899,7 @@ einer Weise an, als ob er sie fressen wollte. Ganz steif
 saß er auf seinem Stuhl und sagte zu ihr mit unglaublicher
 Rücksichtslosigkeit:
 
-»und da schwindeln Sie hier etwas von … übermütigem
+»Und da schwindeln Sie hier etwas von … übermütigem
 Scherz zusammen, Sie … Sie … kleine giftige
 Kröte!! Glauben Sie, Sie können hier drei Männern,
 denen der Wind des Lebens die Augen geklärt hat,
@@ -946,7 +946,7 @@ daß ich auf jede Verteidigung verzichte. Als ich Crossenstein
 verließ, hatte ich meine sehr ernsten Gründe dafür.
 Der Baron stellte mir nach, obwohl ich ihm wiederholt
 erklärt hatte, daß ich einen anderen liebe. Wäre ich nicht
-Heimlich abgereist, so …«
+heimlich abgereist, so …«
 
 »Wer half Ihnen?« fragte Stephani hämisch. »Oder
 haben Sie Ihre Koffer allein zur Bahnstation getragen?!«
@@ -957,7 +957,7 @@ Ich werde die Namen nennen, falls Herr Harst es
 wünscht. Ihnen antworte ich überhaupt nicht mehr, Herr
 Justizrat, und da Ihre Aufgabe hier erfüllt ist, würden
 Sie mich sehr verpflichten, wenn Sie sich Ihren Klienten
-Nicht weiter entziehen wollten. Dort — — ist die Tür!«
+nicht weiter entziehen wollten. Dort — — ist die Tür!«
 
 Stephani erhob sich langsam. Seine knochige Hand
 <@pagebreak/>
@@ -978,7 +978,7 @@ achselzuckend:
 
 »Er ist zuweilen nicht ganz normal … Das entschuldigt
 ihn. Die Anwaltskammer hat sich mit ihm schon
-Häufiger beschäftigen müssen, als es seinem guten Rufe
+häufiger beschäftigen müssen, als es seinem guten Rufe
 zuträglich ist.«
 
 Sie nahm wieder Platz. Ihre Ruhe gefiel mir. Es
@@ -1002,7 +1002,7 @@ Ausbau des Elektrizitätswerks leitet. Nach meiner »Flucht«
 aus Crossenstein begab ich mich zunächst hier nach Berlin,
 habe fünf Tage hier bei Drake gewohnt und fuhr dann
 nach Casablanca, wo ich bei dem reichen arabischen
-Händler Musier Omar Bey Gouvernante war. Ich kehrte
+Händler Musir Omar Bey Gouvernante war. Ich kehrte
 <@pagebreak/>
 jetzt nach Berlin zurück, um mit Karl, meinem Verlobten,
 eine Wohnung zu mieten, die Möbel und anderes einzukaufen
@@ -1046,7 +1046,7 @@ auf die Schulter.
 Der Fremde fuhr herum und zeigte uns sein keckes,
 männliches Gesicht.
 
-»und Sie?!« fragte er ablehnend.
+»Und Sie?!« fragte er ablehnend.
 
 »Ich bin Harald Harst, — Sie trugen in Crossenstein
 <@pagebreak/>
@@ -1074,7 +1074,7 @@ Unfallstation brachten.
 Die Kugel einer Luftpistole war ihm rechts über dem
 Herzen schräg in die Lunge eingedrungen. Der Arzt ließ
 ihn sofort in ein Krankenhaus bringen, da der Patient
-Operiert werden mußte. In seiner Brieftasche fanden wir
+operiert werden mußte. In seiner Brieftasche fanden wir
 einen Paß für Dieter Jelling, Kunstmaler. Aus dem
 Paß ging hervor, daß Jelling erst vor zwei Wochen aus
 Casablanca nach Berlin zurückgekehrt war. —
@@ -1087,7 +1087,7 @@ Als wir heimkehrten, war Mathilde glänzender Laune.
 Die Globus-Leute waren abgezogen, das ganze Haus
 roch nach Seife und Terpentin, auf dem Parkett hätte
 man Schlittschuh laufen können, und im Wintergarten
-Wartete unser ein opulentes Mahl.
+wartete unser ein opulentes Mahl.
 
 Haralds Mutter legte mir wie stets das größte
 Schnitzel auf den Teller. »Lieber Schraut, Sie sehen gänzlich
@@ -1129,7 +1129,7 @@ besitzen, etwas zu wagen. Man hegt seit langem Verdacht,
 daß er nebenbei den Hehler spielt. Ihm gehört in der
 Paulsborner Straße jene kleine verkommene Villa, deren
 Garten nach hinten zu an einen Bauhof stößt. Der Mann
-Ist seit langem reif für das Schwurgericht, aber — seine
+ist seit langem reif für das Schwurgericht, aber — seine
 teuflische Schlauheit spottet jeglicher Beobachtung durch
 <@pagebreak/>
 die Kriminalpolizei. Wenn man ihn mal gefaßt zu haben
@@ -1205,7 +1205,7 @@ Hulda, Näherin, — fällt aus, — Arndt, Hulda, Konfitürengeschäft,
 — fällt aus, — — halt, hier … Arndt,
 Hulda, Rentnerin, W57, Elsholzstraße 78, das könnte
 sie sein — — könnte. — Am besten ist, wir fahren sofort
-Hin, mein Alter, und erkundigen uns an Ort und Stelle.«
+hin, mein Alter, und erkundigen uns an Ort und Stelle.«
 
 Frau Harst fragte gespannt: »Deine Annahme, daß
 diese Frau starb, weil sie die Postkarten beförderte, ist
@@ -1236,7 +1236,7 @@ bei ihr vorzufinden — und wenn, nicht so … so als
 willkommenen Gast, der in Isoldes Zimmer seine Zigarre
 rauchte, denn er hatte dort geraucht. Was nach dieser
 Zigarre, die er bei unserem Eintritt hastig zum Fenster
-Hinauswarf — das eine Fenster stand offen —, alles
+hinauswarf — das eine Fenster stand offen —, alles
 geschah, war … Theater, liebe Mutter. Schlechtes Theater,
 Szenen aus einem Rührstück mit Stephani als bösem
 Dämon und Isolde als verkannter Unschuld … Sogar der
@@ -1315,7 +1315,7 @@ zur Seite geschoben wurde.
 
 »Öffnen Sie!« rief Harald energisch.
 
-Eine Sicherheitskette klirrte, Zwei Schlüssel wurden
+Eine Sicherheitskette klirrte, zwei Schlüssel wurden
 benutzt, dann grinste uns durch die Türspalte ein fahles,
 bartloses Totenkopfgesicht an … Zwei Schäferhunde
 knurrten, eine brüchige Stimme fragte höflich:
@@ -1330,7 +1330,7 @@ Der alte Diener in der Livreejacke ließ uns wirklich
 ein, nachdem er die Hunde beim Halsband genommen
 hatte, — führte uns in einen wunderbaren Salon im
 Biedermeierstil mit kostbaren Gemälden und Teppichen
-Und bat uns Platz zu nehmen, indem er von zwei Sesseln
+und bat uns Platz zu nehmen, indem er von zwei Sesseln
 die Leinwandhüllen entfernte. Wir setzten uns, — der
 Alte stand vier Schritt vor uns, ein höhnisches Grinsen
 lief über sein wächsernes Gesicht, — — seine Gestalt zerrann
@@ -1366,7 +1366,7 @@ geschöpft!«
 
 »So?!« Harst war noch ebenso schachmatt wie ich.
 »Daß man in dem Salon zwei Sessel als Giftgasbläser
-Hergerichtet hatte, konnten wir nicht gut vorausahnen. —
+hergerichtet hatte, konnten wir nicht gut vorausahnen. —
 Welche Möbelfirma besorgte den Abtransport?«
 
 »Keine. — Auf den Wagen stand »Schrotter« als
@@ -1592,7 +1592,7 @@ nur zwischen Deutschen im Auslande aufkommt, die eben
 das Herz auf dem rechten Fleck haben. Diese fast zarte
 Frau, die jetzt für ihren Mann die umfangreichen Geschäfte
 weiterführte, einen großen Hausstand zu leiten
-und drei halberwachsene Kinder zu hüten Hatte,
+und drei halberwachsene Kinder zu hüten hatte,
 war eine kleine Heldin.
 
 Von dem Bootssteg der Bucht winkte sie uns noch
@@ -1616,7 +1616,7 @@ Casablanca.
 
 »Ihre Ankunft ist mir bereits gemeldet worden,«
 sagte er in tadellosem Englisch. »Die Berliner Kriminalpolizei
-hat mir eine Depesche Geschickt, die auch für Sie
+hat mir eine Depesche geschickt, die auch für Sie
 manches Interessante enthält.« — Er bot uns Zigaretten
 und eisgekühlte Getränke an, nahm dann das Depeschenformular
 vom Schreibtisch und las uns einige Sätze vor:
@@ -1668,7 +1668,7 @@ graublaue Augen, dieser Vandalensprößling, und sie konnten
 sehr stechend werden, fand ich. — »Ich erwähnte
 die Einzelheiten nur der Handschuhe wegen,« meinte der
 Kriminalchef frostig. »Wer hier bei solcher Arbeit Handschuhe
-trägt, Fürchtet weniger verräterische Fingerabdrücke
+trägt, fürchtet weniger verräterische Fingerabdrücke
 als eine Spur seiner irgendwie verstümmelten Hände,
 Mr. Lücke. Der Mörder sprang von der hohen Mauer
 herab, fiel nach vorn auf die Hände, und in der Gartenerde
@@ -1714,7 +1714,7 @@ Stellung als Erzieherin annimmt.«
 
 Wir schwiegen eine Weile, — wir hatten wohl alle
 vier das peinliche Empfinden, daß wir stets nur in
-Nebelschwaden hineintasteten. Wir fanden nichts Sichtbares,
+Nebelschwaden hineintasteten. Wir fanden nichts Greifbares,
 alles zerrann in Nichts — immer wieder.
 
 Vom Platze her vernahmen wir das Gekreisch von
@@ -1825,7 +1825,7 @@ also etwa »Da ist nichts zu machen!«) »Früher, als wir
 noch keine Wasserleitung hatten, wurde die Spitze stets
 von einem Wassertankwagen begleitet, meine Herren …
 Jetzt … stehen die Hydranten zu weit auseinander, aber
-Der Tankwagen bleibt dennoch daheim. Die Europäer
+der Tankwagen bleibt dennoch daheim. Die Europäer
 spotten darüber — mit Recht, sie nennen unsere Wehr
 nur immer die »Makeinsch el Ma«, Spritze ohne Wasser,
 und jetzt — — auch noch die Schläuche unbrauchbar!!
@@ -1841,7 +1841,7 @@ Wir glichen den Insassen eines Wagens, der sich
 im Schlamm festgefahren hatte, den außerdem dichter
 drohender Nebel umgibt.
 
-Harsts nur leicht verletztes Ohr Blutete nicht mehr.
+Harsts nur leicht verletztes Ohr blutete nicht mehr.
 Er hielt das jetzt rot betupfte Taschentuch in der Hand
 und betrachtete mit halb zugekniffenen Augen die roten
 Flecken.
@@ -1881,7 +1881,7 @@ sagen pflegt, dabei ist er zu allem brauchbar, er macht
 aber nichts aus seiner Person, er sorgt nur für sein Institut
 und für seinen guten Ruf …«
 
-Lücke schüttelte langsam den Kopf … »Es Wäre Unglaublich,
+Lücke schüttelte langsam den Kopf … »Es wäre unglaublich,
 — aber es wäre immerhin möglich … Huß
 als Verbündeten Stephanis, — das wäre ein feines Gespann!«
 
@@ -1900,7 +1900,7 @@ Herren … In zehn Minuten stehen wir vor dem Parktor
 der Villa.«
 
 Es war inzwischen vollkommen dunkel geworden. Der
-Himmel war bewölkt, vom Ozean Her zogen schwere
+Himmel war bewölkt, vom Ozean her zogen schwere
 <@pagebreak/>
 Wolken heran, der Wind pfiff hohl und in unregelmäßigen
 Stößen.
@@ -1965,12 +1965,12 @@ für angebracht.«
 
 Lücke hatte sich eine Zigarette angezündet. »Es riecht
 hier so eigentümlich,« und er zog die schmale Nase kraus
-und Schnupperte.
+und schnupperte.
 
 »Frau Hulda Arndt hielt sehr viele Katzen,« beeilte
 sich der höfliche Iomak-Bey zu erklären.
 
-»und Musir Omar hat sie wohl durch die Windharfe
+»Und Musir Omar hat sie wohl durch die Windharfe
 verjagt,« warf Harald ohne besondere Betonung
 ein und stieß die Glastür auf. »Lücke, bleiben Sie bitte
 mit Iomak-Bey hier oben. Ich möchte mir mit Schraut
@@ -1979,8 +1979,8 @@ erst einmal die Keller ansehen.«
 Es gab nur drei Kellergelasse. Sie waren leer.
 Harst beleuchtete die getünchten Mauern und fuhr an
 manchen Stellen mit dem Zeigefinger über die Furche
-Hin. »Hier riecht es nicht so … eigentümlich, mein Alter,«
-sagte er wie erstaunt. »Ich Hatte hier unten etwas Besonderes
+hin. »Hier riecht es nicht so … eigentümlich, mein Alter,«
+sagte er wie erstaunt. »Ich hatte hier unten etwas Besonderes
 zu finden geglaubt, aber ich habe mich doch wohl
 getäuscht.«
 
@@ -2034,7 +2034,7 @@ um, nickte. »Hier ist wohl kaum etwas verändert worden,
 <@pagebreak/>
 Mr. Harst. Musir Omar durfte das auch gar nicht tun,
 das Haus steht ja noch immer unter polizeilichem Schutz
-Sozusagen.«
+sozusagen.«
 
 »Aber die Schlüssel hatten Sie nicht mehr … Nun,
 das macht nichts.«
@@ -2082,10 +2082,10 @@ ein Glas, ein Röhrchen mit Tabletten und ein Telephon.
 — Harst nahm das nur noch halb gefüllte Röhrchen und
 sagte zu Iomak: »Veronal, ein Schlafmittel, ein deutsches
 Fabrikat … Ich will hier nicht Ihren Lehrer spielen,
-Iomak-Bey, aber vielleicht nützt es Ihnen Doch einmal:
+Iomak-Bey, aber vielleicht nützt es Ihnen doch einmal:
 Die in Berlin eingeäscherte Frau Arndt benutzte ebenfalls
 Veronal, sie war mit den Nerven völlig fertig … Ich
-Habe mit dem Arzt gesprochen, der sie behandelt hat —
+habe mit dem Arzt gesprochen, der sie behandelt hat —
 nur telephonisch, nur kurz, aber ich fragte, ob die Patientin
 vielleicht schon vorher an Medikamente gewöhnt gewesen
 sei. Er erwähnte dies hier: Veronal! Er habe es in der
@@ -2143,13 +2143,13 @@ meinte er leise.
 »Vorgestern bestimmt noch … Da habe ich ihn selbst
 benutzt …«
 
-»und jetzt ist er … tot, gänzlich tot, — kein Surren,
+»Und jetzt ist er … tot, gänzlich tot, — kein Surren,
 kein Schnurren, kein Knacken. — Hm, — ist die Villa
 oberirdisch an das Telephonnetz angeschlossen?«
 
 »Ja …«
 
-»Dann … laufen Sie bitte Hinunter … Ihre Leute
+»Dann … laufen Sie bitte hinunter … Ihre Leute
 sollen die Leitung sofort zerschneiden …«
 
 »Wozu das?!«
@@ -2157,7 +2157,7 @@ sollen die Leitung sofort zerschneiden …«
 »Laufen Sie, sage ich!!«
 
 Der Chef zauderte, dann murmelte er überstürzt:
-»Ich verstehe …« — und rannte in den Flur
+»Ich verstehe …« — und rannte in den Flur.
 
 Harst war schon vor dem weißen Schrank und öffnete
 beide Türen, — wir sahen den braun lackierten Tresor,
@@ -2268,11 +2268,11 @@ Hubert Huß noch nachdrücklicher. »Vielleicht stecken
 sie in den Kellern und zeigen sich absichtlich nicht. Harst
 rechnete ja bestimmt mit irgendeinem teuflisch ersonnenen
 Anschlag, und daß er sich leichtfertig in die Holzvilla
-Hineingewagt haben sollte — ausgeschlossen!«
+hineingewagt haben sollte — ausgeschlossen!«
 
 Egon von Croß erwiderte nur: »Die Keller liegen
 voller Balken … Auch der Tresor ist bis in den Keller
-Hinabgesaust, hörte ich die Leute erzählen … Ich kann
+hinabgesaust, hörte ich die Leute erzählen … Ich kann
 Ihren Optimismus nicht teilen, Herr Huß.«
 
 »Kommen Sie!« sagte der Mann vom Globus kurz.
@@ -2291,7 +2291,7 @@ Huß’ Taschenlampe blinkte über dieses Chaos hin.
 »Ein Riesenschrank, Baron!« meinte er kopfschüttelnd.
 »Hm — hier an der Rückseite, sehen Sie, zwei Löcherchen
 <@pagebreak/>
--… Und Drahtenden … Das hier ist doch Antennenlitze,
+-… und Drahtenden … Das hier ist doch Antennenlitze,
 Baron … Merkwürdig!«
 
 »Still!!«
@@ -2399,7 +2399,7 @@ Kopf darauf wetten mögen.
 Beinen schon neben dem einen Laternenträger … Lücke
 schlug zu, — aber es war verfrüht … Musir Omar
 hatte sich vorgesehen … Seine Hände fuhren unter
-Der Decke hoch, die er sich über den Schoß gebreitet hatte.
+der Decke hoch, die er sich über den Schoß gebreitet hatte.
 
 Iomak-Bey drückte schneller ab …
 
@@ -2412,7 +2412,7 @@ Harst hob den Toten empor, drehte ihn um, —
 die Nässe hatte den nur angeklebten Bart gelockert, —
 der Sturm zerpflückte die Bartfetzen …
 
-Ohne Bart war Musir Omar Bey Zweifellos dem
+Ohne Bart war Musir Omar Bey zweifellos dem
 Anwalt Doktor Stephani sehr, sehr ähnlich.
 
 <@pagebreak/>
@@ -2438,7 +2438,7 @@ schmutzigen Geschichten zu tun haben — nichts! Mir traut
 man freilich das Allerschlechteste zu, mich belauert man,
 draußen stehen die Herren Hüter des Gesetzes herum
 und bewachen mein Haus … Mögen sie!!« Er lachte
-Schrill … »Aber dir kann ich nur den einen guten Rat
+schrill … »Aber dir kann ich nur den einen guten Rat
 geben: Verschwinde!! *Ich* rief dich nicht her, — also
 ist’s eine Falle — für dich!«
 
@@ -2457,12 +2457,12 @@ befohlen hätte, damit der Betrug noch besser verschleiert
 würde, denn Ingenieur Karl Müller spielte in Casablanca
 eine große Rolle …«
 
-»und gehörte mit zu der seinen Bruderschaft! Ja
+»Und gehörte mit zu der seinen Bruderschaft! Ja
 — er auch, damit du es weißt, — er schoß hier deinen
 Kunstmaler nieder, Thea, — — er!! Er spielte das große
 Spiel mit — pfui Teufel!! — Flieh’, sage ich dir, oder
 du kommst ins Gefängnis! Nur Harst kann dich hierher
-gelockt Haben, — in Casablanca soll er verbrannt sein,
+gelockt haben, — in Casablanca soll er verbrannt sein,
 ich glaube das nicht! — Flieh’, — ich will dir Geld
 geben, in deine Wohnung darfst du nicht mehr zurück …
 Ich will dir einen Paß aushändigen, obwohl du’s wahrlich
@@ -2530,7 +2530,7 @@ sollte. Er war immerhin mein Zwillingsbruder. Ich habe
 lange genug versucht, ihn zu bessern. Es glückte mir nicht.
 Er sank immer mehr …«
 
-»ja — — und schließlich … stahl er Ihnen noch die
+»Ja — — und schließlich … stahl er Ihnen noch die
 Frau, die Sie geliebt haben, Herr Justizrat,« meinte
 Harst noch leiser. »Nicht Sie waren der Habgierige, wie
 wir alle glaubten, — Ihre Frau war’s! Und sie war nicht
