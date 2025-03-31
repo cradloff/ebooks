@@ -13,18 +13,16 @@ Als die Zeit vorschritt und Jochem Pasings Zunge nach dem achten Grog erst so re
 
 Dann stoppte er ab, und unter den dicken grauen Augenbrauen hervor blitzte er uns aus nadelscharfen jungen blanken Pupillen vielsagend an.
 
-»… Vielleicht am Ende, wer kann’s wissen, gäb’s Arbeit für Sie,« ergänzte er schmunzelnd. »Erzählen — nee!! sehen sollen Sie, — selbst sehen, meine Herren! Es mag an alledem nichts daran sein … Ich will Ihnen nicht die Unbefangenheit rauben.« — Jochem konnte, wenn er wollte, sehr gut auch mit dem Hochdeutsch fertig werden. »Augenblicklich haben Sie kaum etwas zu tun, — so ist’s doch. Also — — weshalb nicht?! Der Wetterbericht lautet gut, meine Motorjacht ist seeklar, mein Angelzeug auch, für Zeitvertreib sorge ich schon, und das meine Nina tadellos kocht — —« — er klopfte sich auf das bescheidene Bäuchlein — »— ich hab im letzten Jahr fünfzehn Pfund zugenommen, seit meine Enkelin aus dem Pensionat zurückgekehrt ist, — Sie kennen sie nur so als halbflügge Deern mit zwei langen blonden Zöpfen, — aus Kindern werden junge Damen, — die Nina ist ein Prachtmädel, sie ist ja auch als einzige von der Familie Pasing übrig geblieben …« — Wenn er hierauf zu sprechen kam, umdüsterten sich seine verwitterten Züge. Seine Frau war sehr früh gestorben, sein einziger Sohn ging mit einem Dreimaster bei Kap Horn unter, seine Schwiegertochter wurde vor Gram trübsinnig und nahm sich selbst das Leben, indem sie in einem kleinen Boot auf das Meer hinausruderte und dem Herbstorkan die Henkerarbeit überließ. So war dem Käpten nur das eine Enkelkind geblieben, er hatte es großgezogen, seine Nina war sein Augapfel, für die Deern war nichts zu teuer, er hatte sie unglaublich verwöhnt, wir hatten sie freilich nur als Backfisch in Erinnerung, was er aber über seinen Liebling jetzt so in aller Umständlichkeit berichtete, stimmte uns sehr nachdenklich.
+»… Vielleicht am Ende, wer kann’s wissen, gäb’s Arbeit für Sie,« ergänzte er schmunzelnd. »Erzählen — nee!! Sehen sollen Sie, — selbst sehen, meine Herren! Es mag an alledem nichts daran sein … Ich will Ihnen nicht die Unbefangenheit rauben.« — Jochem konnte, wenn er wollte, sehr gut auch mit dem Hochdeutsch fertig werden. »Augenblicklich haben Sie kaum etwas zu tun, — so ist’s doch. Also — — weshalb nicht?! Der Wetterbericht lautet gut, meine Motorjacht ist seeklar, mein Angelzeug auch, für Zeitvertreib sorge ich schon, und das meine Nina tadellos kocht — —« — er klopfte sich auf das bescheidene Bäuchlein — »— ich hab im letzten Jahr fünfzehn Pfund zugenommen, seit meine Enkelin aus dem Pensionat zurückgekehrt ist, — Sie kennen sie nur so als halbflügge Deern mit zwei langen blonden Zöpfen, — aus Kindern werden junge Damen, — die Nina ist ein Prachtmädel, sie ist ja auch als einzige von der Familie Pasing übrig geblieben …« — Wenn er hierauf zu sprechen kam, umdüsterten sich seine verwitterten Züge. Seine Frau war sehr früh gestorben, sein einziger Sohn ging mit einem Dreimaster bei Kap Horn unter, seine Schwiegertochter wurde vor Gram trübsinnig und nahm sich selbst das Leben, indem sie in einem kleinen Boot auf das Meer hinausruderte und dem Herbstorkan die Henkerarbeit überließ. So war dem Käpten nur das eine Enkelkind geblieben, er hatte es großgezogen, seine Nina war sein Augapfel, für die Deern war nichts zu teuer, er hatte sie unglaublich verwöhnt, wir hatten sie freilich nur als Backfisch in Erinnerung, was er aber über seinen Liebling jetzt so in aller Umständlichkeit berichtete, stimmte uns sehr nachdenklich.
 
 »Ich hätte durchaus nichts gegen einige Ferientage an der See einzuwenden,« meinte Harald auf Jochems Einladung hin. »Nur wäre eins zu bedenken. Sollte es sich bei dem, was es dort in Swinemünde vielleicht aufzuklären gäbe, um sehr ernste Dinge handeln, so wäre es durchaus verfehlt, wollten Schraut und ich dort unter unseren Namen auftreten. — Sie verstehen doch, lieber
 Käpten.«
 
-Pasing nickte und kraute seinen grauen Vollbart.
-»Es ist was Ernstes, bestimmt.« erwiderte er mit seinem tiefen Baß. »Sie werden ja selbst beobachten können … Sie sollen das Zimmer gerade gegenüber bekommen.«
+Pasing nickte und kraute seinen grauen Vollbart. »Es ist was Ernstes, bestimmt,« erwiderte er mit seinem tiefen Baß. »Sie werden ja selbst beobachten können … Sie sollen das Zimmer gerade gegenüber bekommen.«
 
 Mehr war aus ihm nicht herauszuquetschen. Was er nicht sagen wollte, sagte er nicht. —
 
-Der Abendzug war spärlich besetzt. Jochem mit seinem neuen künstlichen Fuß benutzte die dritte Wagenklasse, wir beide hatten ein leeres Abteil Zweiter gefunden. —
-Der Kapitän Pasing war für uns ein Fremder geworden, und wir selbst — nun, es waren altbewährte Masken und Namen, die von uns eigentlich nur noch die inneren Menschen übrig gelassen hatten.
+Der Abendzug war spärlich besetzt. Jochem mit seinem neuen künstlichen Fuß benutzte die dritte Wagenklasse, wir beide hatten ein leeres Abteil Zweiter gefunden. — Der Kapitän Pasing war für uns ein Fremder geworden, und wir selbst — nun, es waren altbewährte Masken und Namen, die von uns eigentlich nur noch die inneren Menschen übrig gelassen hatten.
 
 In Eberswalde hielt der D-Zug längere Zeit. Hier bekamen wir Gesellschaft, einen sehr patenten jüngeren Herrn, der etwas atemlos eintrat, seinen eleganten Handkoffer ins Netz hob, in die eine Polsterecke an der Tür sank und sich die Stirn betupfte und den ihm folgenden Gepäckträger durch einen Wink anwies, den größeren Koffer ihm gegenüber zu verstauen. Eiligst bezahlte er den Mann, — die Wagentüren wurden zugeschlagen, die Maschine ruckte an, und der Zug glitt weiter gen Norden.
 
@@ -70,10 +68,10 @@ In solchen Augenblicken handelt man rein automatisch. Das Hirn verarbeitet die �
 
 Harst hatte nicht nur warnend den Kopf geschüttelt. Wichtiger noch war die merkwürdige Art, wie er die halb erhobene rechte Hand schloß.
 
-Ich drückte den Deckel des Feuerzeuges mit dem Daumen herab ...
+Ich drückte den Deckel des Feuerzeuges mit dem Daumen herab …
 
 »Verbindlichsten Dank,« sagte ich zu dem Eleganten.
-»Aber Benzinfeuerzeuge benutze ich grundsätzlich nicht ... Ich finde, der Zigarettentabak zieht an und bekommt Benzingeschmack …«
+»Aber Benzinfeuerzeuge benutze ich grundsätzlich nicht … Ich finde, der Zigarettentabak zieht an und bekommt Benzingeschmack …«
 
 Er schaute von seiner Zeitschrift auf.
 
@@ -85,12 +83,12 @@ Harst war verschwunden, zwei Damen gingen draußen im Gange vorüber.
 
 Bedeutung?! Welche?! — War das Feuerzeug gefährlich gewesen?!
 
-Plötzlich ging’s da wie ein leichter Ruck durch den Zug, die Bremsen kreischten, — der Zug hielt mitten auf der Strecke. Ich beugte mich zum Fenster hinaus ... Vor uns war eine Landstraße, links ein Dorf, — -- Harsts Stimme hinter mir: »Hierher — schnell!«
+Plötzlich ging’s da wie ein leichter Ruck durch den Zug, die Bremsen kreischten, — der Zug hielt mitten auf der Strecke. Ich beugte mich zum Fenster hinaus … Vor uns war eine Landstraße, links ein Dorf, — — Harsts Stimme hinter mir: »Hierher — schnell!«
 
 Er hatte das Gangfenster geöffnet … Er winkte.
 Ich war im Moment neben ihm …
 
-Zwei Männer liefen quer über eine Wiese vom Zuge nach der Landstraße hinüber, wo ein großes, offenes Auto hielt, -- — sprangen hinein, dar Chauffeur gab Vollgas, der Wagen sauste davon, verschwand in einer Staubwolke.
+Zwei Männer liefen quer über eine Wiese vom Zuge nach der Landstraße hinüber, wo ein großes, offenes Auto hielt, — — sprangen hinein, dar Chauffeur gab Vollgas, der Wagen sauste davon, verschwand in einer Staubwolke.
 
 Einer der Flüchtlinge war der Patente gewesen. Ob er oder sein Gefährte die Notbremse gezogen hatte, war gleichgültig. —
 
@@ -113,7 +111,7 @@ Auf dem Wohnungsnachweis fragten wir zum Schein nach einem billigen Zimmer dicht
 <h2>2. Kapitel.</h2>
 <h3>Was Harst beobachtete.</h3>
 
-»Nina Pasing erkannte uns nicht. Wir hätten sie auch nicht wiedererkannt. Hübsch war sie geworden, aber Großvater Jochems Erziehung oder besser Verziehung hatte aus dem fidelen, kecken, vorlauten Backfisch eine junge Dame von vorbildlicher Unnahbarkeit und anmaßender Unliebenswürdigkeit gemacht.
+Nina Pasing erkannte uns nicht. Wir hätten sie auch nicht wiedererkannt. Hübsch war sie geworden, aber Großvater Jochems Erziehung oder besser Verziehung hatte aus dem fidelen, kecken, vorlauten Backfisch eine junge Dame von vorbildlicher Unnahbarkeit und anmaßender Unliebenswürdigkeit gemacht.
 
 Schade.
 
@@ -125,8 +123,7 @@ Die blonde Nina, Bubikopf, sehr schick, entschwebte, und Jochem führte uns auf 
 
 Jochem schleppte herbei, was er in der Speisekammer noch auffinden konnte. Die Hauptsache war der Spirituskocher, — die Rumflasche war frisch entkorkt, im Hause herrschte Stille, die neuen Gäste und ihr Wirt saßen nun bei halblauter eifriger Unterhaltung zusammen.
 
-Der Käpten war von den Erlebnissen der Rückfahrt noch derart erfüllt, daß es für ihn nur ein Gesprächsthema gab: Der Schreck, den er bekommen hatte, als sein Nachbar in dem Raucherabteil Dritter plötzlich von der Bank gerutscht war und dann hinausgetragen wurde …
-»Es war geradezu unheimlich, lieber Herr Harst …!«
+Der Käpten war von den Erlebnissen der Rückfahrt noch derart erfüllt, daß es für ihn nur ein Gesprächsthema gab: Der Schreck, den er bekommen hatte, als sein Nachbar in dem Raucherabteil Dritter plötzlich von der Bank gerutscht war und dann hinausgetragen wurde … »Es war geradezu unheimlich, lieber Herr Harst …!«
 
 »Himmel — oder noch besser: Herr Rat!« mahnte Harald eindringlich.
 
@@ -145,8 +142,8 @@ Dem Käpten fiel die Zigarre aus dem Munde und rollte über den Teppich. Ich hob
 
 »Entschuldigen Sie, — dazu reicht mein Schädel nicht aus, das verstehe ich nicht,« murmelte Jochem und leerte mit unsicherer Hand sein Glas.
 
-»sie werden es verstehen …« Harald beugte sich vor. »Auch Schraut ist noch nicht ganz im
-Bilde … -- Als Sie uns nach dem Mittagessen hier zu sich einluden und andeuteten, daß es für uns hier Arbeit geben könnte, rief ich, ohne weiter davon ein Aufhebens zu machen, ein gewisses Institut an, dessen Angestellte gute Augen, Ohren und einen klaren Kopf haben müssen. Einer dieser Leute war nachher auf dem Stettiner Bahnhof am Fahrkartenschalter und steckte mir einen Zettel zu. — Bitte, lesen Sie …«
+»Sie werden es verstehen …« Harald beugte sich vor. »Auch Schraut ist noch nicht ganz im
+Bilde … — Als Sie uns nach dem Mittagessen hier zu sich einluden und andeuteten, daß es für uns hier Arbeit geben könnte, rief ich, ohne weiter davon ein Aufhebens zu machen, ein gewisses Institut an, dessen Angestellte gute Augen, Ohren und einen klaren Kopf haben müssen. Einer dieser Leute war nachher auf dem Stettiner Bahnhof am Fahrkartenschalter und steckte mir einen Zettel zu. — Bitte, lesen Sie …«
 
 Pasing setzte seine Brille auf und las stockend:
 
@@ -185,7 +182,7 @@ Pasing stierte vor sich hin …
 
 »Also — — wir … drei … sollten sterben,« meinte er mit schwerer Zunge …
 
-»Wir drei — ja! Wir drei, denn die beiden Verbrecher nahmen an, Sie hätten Schraut und mir Ihre verdächtigen Beobachtungen bereits mitgeteilt. Deshalb!! — Und weil diese Leute so raffiniert vorgingen, weil sie mit so raffinierten Mitteln arbeiteten, weil es ferner nicht nur zwei, sondern sicherlich mehr sind — denken Sie an den Chauffeur des gelben Mercedes, Käpten! — daher behaupte ich, ohne Ihre Beobachtungen bisher zu kennen: Es handelt sich hier um eine ganz große Sache, natürlich um Geld, Geldeswert, — es muß sich um große Summen handeln, denn einer Lappalie wegen werden kaum derartige Vorkehrungen getroffen, die drei Menschen auslöschen sollen!«
+»Wir drei — ja! Wir drei, denn die beiden Verbrecher nahmen an, Sie hätten Schraut und mir Ihre verdächtigen Beobachtungen bereits mitgeteilt. Deshalb!! — Und weil diese Leute so raffiniert vorgingen, weil sie mit so raffinierten Mitteln arbeiteten, weil es ferner nicht nur zwei, sondern sicherlich mehr sind — denken Sie an den Chauffeur des gelben Mercedes, Käpten! — Daher behaupte ich, ohne Ihre Beobachtungen bisher zu kennen: Es handelt sich hier um eine ganz große Sache, natürlich um Geld, Geldeswert, — es muß sich um große Summen handeln, denn einer Lappalie wegen werden kaum derartige Vorkehrungen getroffen, die drei Menschen auslöschen sollen!«
 
 Der alte Kapitän machte ein rührend hilfloses Gesicht.
 »Lieber Gott,« sagte er kläglich, »und … und eigentlich sind mir doch nur die Kakteen der alten Jungfer drüben aufgefallen, wirklich nur die Kakteen und das andere, das auch nur etwas merkwürdig ist …«
@@ -205,7 +202,7 @@ Pasing stärkte sich erst … Dann begann er …
 
 »Einen Augenblick …!«
 
-Harst senkte den Kopf und saß eine Weile regungslos. Er rauchte, schien angestrengt nachzudenken, fragte dann den Alten: Kannte Kröger Sie bei Namen?«
+Harst senkte den Kopf und saß eine Weile regungslos. Er rauchte, schien angestrengt nachzudenken, fragte dann den Alten: »Kannte Kröger Sie bei Namen?«
 
 »Mag sein … Ich weiß es nicht …«
 
@@ -272,11 +269,11 @@ Nina duckte sich scheu zusammen. Harst schloß die Tür, nachdem er den Warner w
 
 Nina Pasing, in ihrem schwarzseidenem Pyjama mit dunkellila Besatz, in Brokatschuhchen und mit einem Bubikopfnetz über dem Haar, hatte von Großvater Jochem unweigerlich eins geerbt: Den pommerschen Dickschädel! — Der anfängliche Schreck verflog bei ihr sehr schnell, sie richtete sich in dem Sessel kerzengerade auf, schlang die Hände um das linke, etwas hochgezogene Knie und glich in dieser Stellung einem jener koketten Bilder, die man von Filmgrößen dritten Ranges so oft in illustrierten Zeitschriften »unter dem Strich« als Reklame für Wäsche, Seife, Parfüm oder Schuhe findet.
 
-selbst als Großvater sie erneut angrobste: »Setz' dich anständig hin« erschien nur ein geringschätziges Lächeln auf ihrem kecken Gesicht.
+Selbst als Großvater sie erneut angrobste: »Setz’ dich anständig hin« erschien nur ein geringschätziges Lächeln auf ihrem kecken Gesicht.
 
 »Niemand hat mich angestiftet,« erklärte sie kampflustig. »Ich bin auch soeben erst aus meinem Zimmer die Treppe emporgekommen … Das ist die Wahrheit.«
 
-»Soeben — ein dehnbarer Begriff,« meinte Harald scharf. »Die kleine Glühbirne und meine Armbanduhr lügen nicht … -- Weshalb verließen Sie Ihr Zimmer?«
+»Soeben — ein dehnbarer Begriff,« meinte Harald scharf. »Die kleine Glühbirne und meine Armbanduhr lügen nicht … — Weshalb verließen Sie Ihr Zimmer?«
 
 Nina rümpfte das Näschen. »Ich kenne ältere Herren, die bessere Manieren haben,« sagte sie spitz. »Auf *den* Ton reagiere ich überhaupt nicht, Herr Rat …«
 
@@ -299,7 +296,7 @@ Harst erwiderte ebenso leise: »Ja, ich höre es … Ich hörte es auch vorhin s
 
 »Im Dunkeln?« fragte Harst etwas zweifelnd.
 
-»Ja, gewiß … Ich finde mich auch ohne Licht hier in unserem Hause überall zurecht … Da — — da sind …"
+»Ja, gewiß … Ich finde mich auch ohne Licht hier in unserem Hause überall zurecht … Da — — da sind …«
 
 Man mußte ganz scharf achtgeben, wollte man die schwachen Klopftöne vernehmen. Mir schien’s, daß sie von unten kämen, aber ich hätte dies auch nicht mit Bestimmtheit sagen können.
 
@@ -309,7 +306,7 @@ Der Käpten meinte brummend: »Sie schwindelt gern, — — aber jetzt redet sie
 
 »Großvater!!« Nina Pasing war mit einem Schlage wieder die gereizte kleine Katze von vorhin. »Ich will nicht, daß du über meine Mutter hier vor Fremden Andeutungen machst, die du kaum begründen kannst, — du hast meine Mutter nie leiden mögen, du bist ungerecht und hegst gegen sie Vorurteile, die …«
 
-Kapitän Pasing sagte schroff: »Laß das begraben sein! Ich weiß, was ich weiß … Mir macht auch eine vom Theater nichts vor … mir nicht! Vielleicht war ich damals nicht streng genug, — diese Ehe hätte nie, — — doch, was ereifere ich mich! Ich bin auch dir gegenüber zu weich gewesen, vielleicht sind mir erst heute die Augen aufgegangen, einmal kommt ja bei jedem die Erkenntnis, es bedarf nur eines äußeren Anlasses … Ich habe dich verzogen, Kind, — nie hättest du mir so über den Kopf wachsen dürfen, — -- wir wollen uns beide umstellen, Kind, wir haben ja nur uns, wir sind die letzten Pasings, und es gab eine Zeit, als diese Pasings zu fünf und sechs ihre Dreimaster und Dampfer durch alle Meere führten …« Seine Stimme war immer zärtlicher geworden, er war aufgestanden, er wartete, — und das blonde Mädel folgte dem besseren Gefühl ihres Herzens und flog ihm in die Arme, begann leise zu weinen und war nur noch Sanftmut und zartes Anlehnungsbedürfnis.
+Kapitän Pasing sagte schroff: »Laß das begraben sein! Ich weiß, was ich weiß … Mir macht auch eine vom Theater nichts vor … mir nicht! Vielleicht war ich damals nicht streng genug, — diese Ehe hätte nie, — — doch, was ereifere ich mich! Ich bin auch dir gegenüber zu weich gewesen, vielleicht sind mir erst heute die Augen aufgegangen, einmal kommt ja bei jedem die Erkenntnis, es bedarf nur eines äußeren Anlasses … Ich habe dich verzogen, Kind, — nie hättest du mir so über den Kopf wachsen dürfen, — — wir wollen uns beide umstellen, Kind, wir haben ja nur uns, wir sind die letzten Pasings, und es gab eine Zeit, als diese Pasings zu fünf und sechs ihre Dreimaster und Dampfer durch alle Meere führten …« Seine Stimme war immer zärtlicher geworden, er war aufgestanden, er wartete, — und das blonde Mädel folgte dem besseren Gefühl ihres Herzens und flog ihm in die Arme, begann leise zu weinen und war nur noch Sanftmut und zartes Anlehnungsbedürfnis.
 
 Diese Nina gefiel mir. Sie schauspielerte nicht, — unsereiner besitzt immerhin einige Menschenkenntnis.
 
@@ -325,7 +322,7 @@ Harald verzog die Lippen ein wenig. »Daß doch Frauen immer an Ratten und Mäus
 
 »Ja — unten im Flur, — für alle Gäste, Herr Rat.«
 
-»Dann … es ist halb eins, — wollen wir uns beeilen … Sie kommen wohl mit, Herr Kapitän … Und Sie legen sich wieder hübsch artig in Ihre Koje, Fräulein Nina ... Diese Ratten dürften nichts für junge Mädchen sein …«
+»Dann … es ist halb eins, — wollen wir uns beeilen … Sie kommen wohl mit, Herr Kapitän … Und Sie legen sich wieder hübsch artig in Ihre Koje, Fräulein Nina … Diese Ratten dürften nichts für junge Mädchen sein …«
 
 Sie sagte uns gehorsam Gute Nacht und huschte davon. Großvater Pasing bekam noch einen langen Kuß.
 
@@ -354,7 +351,7 @@ Fenster, beleuchtete die Wände, rückte Kisten und Kartoffelsäcke von ihren Pl
 
 Als wir jedoch das Zimmer betraten, waren die Herrschaften leider schon fertig, — von der Wand war ein tadelloser Wasserbüffelkopf mit mächtigen Hörnern herabgenommen und auf das Sofa gelegt worden, und Pasings in die Mauer eingelassener Tresor war aufgesprengt, die Tür stand offen … der Inhalt war umhergestreut, zumeist Papiere …
 
-Der Käpten fiel prustend vor Lachen in einen Korbsessel. »Werden die lange Gesichter gemacht haben!! Meine Wertsachen sind im Banktresor ganz sicher, und mein Bargeld — na, das findet so leicht niemand. Arme Kerle, — — so viel Arbeit um nichts! — Durch das Fenster vom Hof aus sind sie eingedrungen, — da, man sieht’s, -- — Nina sagte schon immer, ich sollte mir einen Hund anschaffen …« Er schmunzelte so recht schadenfroh. »Wenn die Leutchen doch von mir den Schlüssel erbeten hätten, — nun ist das Schloß verdorben, das ist der ganze Schaden.«
+Der Käpten fiel prustend vor Lachen in einen Korbsessel. »Werden die lange Gesichter gemacht haben!! Meine Wertsachen sind im Banktresor ganz sicher, und mein Bargeld — na, das findet so leicht niemand. Arme Kerle, — — so viel Arbeit um nichts! — Durch das Fenster vom Hof aus sind sie eingedrungen, — da, man sieht’s, — — Nina sagte schon immer, ich sollte mir einen Hund anschaffen …« Er schmunzelte so recht schadenfroh. »Wenn die Leutchen doch von mir den Schlüssel erbeten hätten, — nun ist das Schloß verdorben, das ist der ganze Schaden.«
 
 Harst blickte auf seine Armbanduhr. »Pasing, es ist gleich eins … Schink und ich wollen nach oben, — vielleicht können wir das Auto beobachten, obwohl ich kaum glaube, das es sich nochmals zeigen wird. Ordnen sie hier Ihre Papiere und suchen Sie festzustellen, ob irgend etwas fehlt, rühren Sie aber die Tresortür nicht an … Auf Wiedersehen …«
 
@@ -382,13 +379,13 @@ Ich vergaß alles Übrige …
 
 Das Auto!!
 
-Es glitt näher — näher, nun sahen wir den Kühler hinter dem Baume auftauchen. — im selben Moment packte mich jemand, schleuderte mich zurück, — ein klirrender Krach folgte …
+Es glitt näher — näher, nun sahen wir den Kühler hinter dem Baume auftauchen. — Im selben Moment packte mich jemand, schleuderte mich zurück, — ein klirrender Krach folgte …
 
 »Das wird lustig!« meinte Harst, der mich wieder aufrichtete. »Die Kerle sind vielseitig …«
 
 Draußen sah ich einen Moment ein grelles Licht aufblitzen … ich hörte das Surren des Motors, es entfernte sich, verstummte …
 
-»*Die* sehen wir in *dem* Auto niemals wieder, wenigstens nicht hier in der Hafengasse,« -- — und Harst schaltete die billige dreiarmige Krone ein.
+»*Die* sehen wir in *dem* Auto niemals wieder, wenigstens nicht hier in der Hafengasse,« — — und Harst schaltete die billige dreiarmige Krone ein.
 
 Mein erster Blick galt der Frau am Boden. Sie hatte jetzt die Augen offen, sie hatte die Hände auf die Dielen gestützt, sie atmete hastig, ihr Mund verzerrte sich im Kampf gegen das Schwächegefühl, daß sie niederzuringen suchte.
 
@@ -418,13 +415,13 @@ Harst nickte. »Das konnte nicht ausbleiben, Fräulein Balke … Aus meinem Koff
 
 »Einbrecher?!« Sie erhob sich halb. »Hier Einbrecher?! Dann … ziehe ich aus …« Sie zitterte, ihre Augen waren übergroß, — — wenn sie schauspielerte, tat sie’s in der Vollendung, und sie schauspielerte natürlich, — für mich bestand darüber kein Zweifel.
 
-Sie fiel in den Sessel zurück. »Das … ist schrecklich, — es ist hier bei Pasings so behaglich, aber meine Nerven, — — seien Sie froh, meine Herren, wenn Sie nicht an Schlaflosigkeit leiden …! Ich hatte mich bereits bei Fräulein Nina beklagt, — ich hatte dann eine Weile am offenen Fenster Atemgymnastik getrieben, — — ich konnte nicht einschlafen, konnte nicht, — — Pasing sollte nachsehen, was eigentlich hier im Hause die Ruhe störte. Hörten Sie es auch? Wo ist der Kapitän? Und -- — führen Sie wirklich so gräßliche Dinge wie Gasbomben …«
+Sie fiel in den Sessel zurück. »Das … ist schrecklich, — es ist hier bei Pasings so behaglich, aber meine Nerven, — — seien Sie froh, meine Herren, wenn Sie nicht an Schlaflosigkeit leiden …! Ich hatte mich bereits bei Fräulein Nina beklagt, — ich hatte dann eine Weile am offenen Fenster Atemgymnastik getrieben, — — ich konnte nicht einschlafen, konnte nicht, — — Pasing sollte nachsehen, was eigentlich hier im Hause die Ruhe störte. Hörten Sie es auch? Wo ist der Kapitän? Und — — führen Sie wirklich so gräßliche Dinge wie Gasbomben …«
 
 »… *Glas*bomben …«
 
 »… *Glas*bomben bei sich?! Wozu?! Wozu?!« Sie zeigte sich vollkommen fahrig, ihre Worte überstürzten sich, sie gestikulierte wie eine Irre, und ihre Augen behielten den seltsam stieren, entsetzten Ausdruck bei …
 
-»… Ich ziehe aus … Oder — Fräulein Nina muß mit mir in einem Zimmer schlafen … Sie werden das begreifen, meine Herren … Eine alleinstehende Frau -- — und diese Nacht!! Meine ganze Erholung ist hin, — — Gott sei Dank, der Kapitän!«
+»… Ich ziehe aus … Oder — Fräulein Nina muß mit mir in einem Zimmer schlafen … Sie werden das begreifen, meine Herren … Eine alleinstehende Frau — — und diese Nacht!! Meine ganze Erholung ist hin, — — Gott sei Dank, der Kapitän!«
 
 Jochem Pasing stand als Salzsäule auf der Schwelle.
 
@@ -446,7 +443,7 @@ Harst musterte die seinen Glassplitter der Bombe.
 
 »Wie gesagt, mein Alter,« meinte er leise, »der Elegante war tadellos ausgerüstet. Sein Handkoffer enthielt drei von diesen netten Glaskügelchen, ferner eine amerikanische Preßluftpräzisionspistole, schließlich noch ein zweites dieser niedlichen silbernen Feuerzeuge … All das ist nun in unserem Besitz, und ich würde nicht einen Moment zaudern, von diesen Dingen abermals Gebrauch zu machen, nachdem die Herrschaften vorhin so kaltschnäuzig zwei Präzisionspistolen spielen ließen und doch nur dem Glasermeister etwas zu verdienen gaben.«
 
-»Wofür ich dir noch nachträglich verbindlichst danke,« sagte ich in demselben erfreulichen, erfrischenden Kalauerton. -- Nichts kann über das Bewußtsein, in ernster Gefahr zu schweben und sich auf weitere gefaßt machen müssen, so wunderbar hinweghelfen, als ein billiger Scherz, sogar der billigste.
+»Wofür ich dir noch nachträglich verbindlichst danke,« sagte ich in demselben erfreulichen, erfrischenden Kalauerton. — Nichts kann über das Bewußtsein, in ernster Gefahr zu schweben und sich auf weitere gefaßt machen müssen, so wunderbar hinweghelfen, als ein billiger Scherz, sogar der billigste.
 
 Harald nickte Beifall. »Es würde uns jede Freude an so kleinen niedlichen Sächelchen nebst Zubehör gründlich verderben, wollten wir solche Zwischenfälle tragisch nehmen. — Bitte, bewege dich vorsichtiger … Es liegen hier nämlich noch zwei unversehrte Glasbomben umher, — ich werde sie besser aufheben und wegpacken. Ich verließ doch als letzter das Zimmer, als wir die Einbrecherjagd begannen … Ich platzierte die drei Kugeln in weiser Voraussicht derart, daß die Balke alle Aussicht hatte, auf die eine zu treten, bevor sie selbst hier eine kleine Silvesterüberraschung für uns vorbereiten konnte. Ihre linke Schlafrocktasche stand erheblich ab. Allah mag wissen, was sie darin verbarg, im glaube, es wird etwas Ähnliches gewesen sein, wie die Glaskügelchen, nur mit Patentverschluß, geräuschloses allmähliches Ausströmen geruchloser Narkosedünste ermöglichend. — Ein schlaues Frauenzimmer« — er ging und bückte sich zweimal — »Ein sehr schlaues Frauenzimmer, leider für eine Filmdiva schon zu alt, aber für die Sprechbühne immer noch verwendbar, — heutzutage ist siebzig erst das richtige Alter für jugendliche Liebhaberinnen. Der Einbruch unten war trefflich inszeniert, der Klopfgeist hat mir den meisten Spaß gemacht, du wirst natürlich den Kniff auch durchschaut haben.«
 
@@ -458,19 +455,19 @@ Harald nickte Beifall. »Es würde uns jede Freude an so kleinen niedlichen Säc
 
 Harst knipste sein Zigarettenetui auf, rauchte ein paar Züge und streute die Asche auf die Tischdecke, nicht in den Aschbecher.
 
-»Kalkstaub!« sagte er dann und deutete auf die Asche.  »Unter der Uhr steht ein Tischchen, auf dem Tischchen steht ein dunkler japanischer Zierkasten, auf dem Deckel lag Kaltstaub, mein Alter, — jeder Regulator hat bekanntlich unten an den Seiten Stellschrauben, um die Pendelschwingungen ausgleichen zu können, und die Wände in Jochems Boudoir sind nur gestrichen … Die Schrauben kratzten an der Wand entlang, und die Kratzer zeigten mir auch, wie schief dieses alte Erzeugnis der Uhrenbranche gehangen hatte. Weiter: Da hier im Hause alles blitzsauber ist, da jeden Morgen Staub gewischt wird, konnte das Kalkmehl auf dem Japankasten nur heute im Laufe des Tages sich in so verdächtiger Menge angesammelt haben. Ich hoffe, daß meine kleinen Geistesfunken dich überzeugen.«
+»Kalkstaub!« sagte er dann und deutete auf die Asche.  »Unter der Uhr steht ein Tischchen, auf dem Tischchen steht ein dunkler japanischer Zierkasten, auf dem Deckel lag Kalkstaub, mein Alter, — jeder Regulator hat bekanntlich unten an den Seiten Stellschrauben, um die Pendelschwingungen ausgleichen zu können, und die Wände in Jochems Boudoir sind nur gestrichen … Die Schrauben kratzten an der Wand entlang, und die Kratzer zeigten mir auch, wie schief dieses alte Erzeugnis der Uhrenbranche gehangen hatte. Weiter: Da hier im Hause alles blitzsauber ist, da jeden Morgen Staub gewischt wird, konnte das Kalkmehl auf dem Japankasten nur heute im Laufe des Tages sich in so verdächtiger Menge angesammelt haben. Ich hoffe, daß meine kleinen Geistesfunken dich überzeugen.«
 
 »Vollkommen!« sagte ich schmunzelnd. »Nichts bereitet mir mehr Freude, als deinen Geistesfäden nachtasten zu dürfen …« Ich mischte mir einen Grog. Es war schade um das noch immer heiße Wasser.
 
 »Dann taste nur weiter, mein Alter … Die Balke hat den Tresor mit einem Nachschlüssel geöffnet und den Einbruch nur vorgetäuscht.«
 
-Er blätterte in der Schweinslederscharteke. »Ja … Sie wird von dem richtigen Schlüssel einen Abdruck genommen haben, und einer ihrer Freunde oder Untergebenen, wie man sie nennen will, feilte das Falsifikat zurecht. Sie verbog die Tresortür, sie verbog den Schloßriegel — das ist im Augenblick getan —, und sie öffnete das Fenster nach dem Hofe zu, im Fensteröffnen ist sie groß, in ihrem Zimmer war auch das eine Fenster offen, sie wollte ja Luft schnappen — — sagte sie, — sie sagt sehr viel … — Und wenn du nun fragen willst, weshalb sie das Klopfen inszenierte und den Tresor öffnete,« — er hielt das Buch empor — »dies hier beantwortet Frage zwei, — Frage eins beantworte ich dahin: Wir sollten hier aus unserem Zimmer gelockt werden, nachdem die Balke draußen vor der Tür eine geraume Weile gelauscht hatte, denn Nina hat nicht gelogen, Nina ließ den »Warner« nicht aufleuchten, Nina verscheuchte nur die Balke, ohne es zu ahnen, löste also die andere ab, und das weitere ergab sich von selbst: Therese schlich hier ins Zimmer, wollte uns einen Streich spielen, — wer andern eine Grube gräbt, tritt selbst auf Bomben, und das von unserer neuen Freundin durchaus unerwünschte Resultat war eine Bekanntschaft mit einer zeitweilig kampfunfähigen älteren Maid im hellblauseidenen gesteppten Schlafrock, ihr späteres Erwachen, ihre bescheidene Unschuldskomödie und — — für später ein abgrundtiefer Haß gegen uns beide … — Ein sehr altes Buch, dies hier, so eine Art Familienchronik … Aber nicht der Familie Pasing, sondern der »Familie Mattiessen, die auch sämtlich Seeleute waren ...«
+Er blätterte in der Schweinslederscharteke. »Ja … Sie wird von dem richtigen Schlüssel einen Abdruck genommen haben, und einer ihrer Freunde oder Untergebenen, wie man sie nennen will, feilte das Falsifikat zurecht. Sie verbog die Tresortür, sie verbog den Schloßriegel — das ist im Augenblick getan —, und sie öffnete das Fenster nach dem Hofe zu, im Fensteröffnen ist sie groß, in ihrem Zimmer war auch das eine Fenster offen, sie wollte ja Luft schnappen — — sagte sie, — sie sagt sehr viel … — Und wenn du nun fragen willst, weshalb sie das Klopfen inszenierte und den Tresor öffnete,« — er hielt das Buch empor — »dies hier beantwortet Frage zwei, — Frage eins beantworte ich dahin: Wir sollten hier aus unserem Zimmer gelockt werden, nachdem die Balke draußen vor der Tür eine geraume Weile gelauscht hatte, denn Nina hat nicht gelogen, Nina ließ den »Warner« nicht aufleuchten, Nina verscheuchte nur die Balke, ohne es zu ahnen, löste also die andere ab, und das weitere ergab sich von selbst: Therese schlich hier ins Zimmer, wollte uns einen Streich spielen, — wer andern eine Grube gräbt, tritt selbst auf Bomben, und das von unserer neuen Freundin durchaus unerwünschte Resultat war eine Bekanntschaft mit einer zeitweilig kampfunfähigen älteren Maid im hellblauseidenen gesteppten Schlafrock, ihr späteres Erwachen, ihre bescheidene Unschuldskomödie und — — für später ein abgrundtiefer Haß gegen uns beide … — Ein sehr altes Buch, dies hier, so eine Art Familienchronik … Aber nicht der Familie Pasing, sondern der Familie Mattiessen, die auch sämtlich Seeleute waren …«
 
 »Entschuldige: Das Buch nachher, jetzt nur noch: Wo war die Balke, als du ihr Zimmer betratst und Fenster und Laden offen fandest?«
 
-Harst nickte flüchtig auf. »Ach so, — wo sie war …?! — draußen auf der Straße ... Sie wollte doch Atemgymnastik treiben. Ihr Eifer hatte sie bis über die Straße an Therese Rankes Haustür gelockt ... Als ich hinausblickte, wurde die Tür gerade geöffnet. Gertrud Balke mußte doch, nachdem sie ein Weniges von unserer Unterhaltung aufgeschnappt hatte, die alte Mamsell mit den Kakteen und dem famosen Brutkasten vor uns warnen … Ich hoffe, du siehst das ein und trägst ihr das nicht weiter nach … Und natürlich kehrte sie sofort zurück, — die Brutkastenlampen wurden auf Signal »Vorsicht!« geschaltet, vielleicht auch noch auf Signal: »Achtung — — schießt!!« und dann kam eben der nächste Akt: Besuch hier bei uns, Tritt auf Glas, Ohnmacht, Theater, — — da ist ja endlich auch Jochem …«
+Harst nickte flüchtig auf. »Ach so, — wo sie war …?! — draußen auf der Straße … Sie wollte doch Atemgymnastik treiben. Ihr Eifer hatte sie bis über die Straße an Therese Rankes Haustür gelockt … Als ich hinausblickte, wurde die Tür gerade geöffnet. Gertrud Balke mußte doch, nachdem sie ein Weniges von unserer Unterhaltung aufgeschnappt hatte, die alte Mamsell mit den Kakteen und dem famosen Brutkasten vor uns warnen … Ich hoffe, du siehst das ein und trägst ihr das nicht weiter nach … Und natürlich kehrte sie sofort zurück, — die Brutkastenlampen wurden auf Signal »Vorsicht!« geschaltet, vielleicht auch noch auf Signal: »Achtung — — schießt!!« und dann kam eben der nächste Akt: Besuch hier bei uns, Tritt auf Glas, Ohnmacht, Theater, — — da ist ja endlich auch Jochem …«
 
-Der Käpten schlüpfte herein, drückte die Tür zu, schaute starr auf die Schweinslederchronik und sagte beklommen: »Herrschaften, mein Haus ist ja das reine Zuchthaus!! Einbruch, Schwindel, Lug, Trug und … und aus Mattiessens Familienbuch fehlen ausgerechnet *die* beiden Seiten. Das waren nämlich gerade die beiden Blätter, auf denen Georg Mattiessen irgend etwas in Zahlen statt in Buchstaben niedergeschrieben hatte … Was, weiß ich nicht. Ich hab’ das Buch gekauft, als Mattiessens Sachen nach seinem Tode versteigert wurden. Ich kaufte auch noch anderen Kram … Er hatte eine Menge Andenken gesammelt, Waffen, Bronzen, japanische Lackkästchen … — Weshalb starren Sie mich so an, Herr ... Herr Rat?!«
+Der Käpten schlüpfte herein, drückte die Tür zu, schaute starr auf die Schweinslederchronik und sagte beklommen: »Herrschaften, mein Haus ist ja das reine Zuchthaus!! Einbruch, Schwindel, Lug, Trug und … und aus Mattiessens Familienbuch fehlen ausgerechnet *die* beiden Seiten. Das waren nämlich gerade die beiden Blätter, auf denen Georg Mattiessen irgend etwas in Zahlen statt in Buchstaben niedergeschrieben hatte … Was, weiß ich nicht. Ich hab’ das Buch gekauft, als Mattiessens Sachen nach seinem Tode versteigert wurden. Ich kaufte auch noch anderen Kram … Er hatte eine Menge Andenken gesammelt, Waffen, Bronzen, japanische Lackkästchen … — Weshalb starren Sie mich so an, Herr … Herr Rat?!«
 
 Harst entgegnete sehr gedehnt: »In Zahlen also, — so … so! Vielleicht wäre das die Hauptfährte, lieber Käpten …«
 
@@ -486,9 +483,9 @@ Dann fehlen zwei Seiten, eben die, die heute nacht gestohlen wurden, und Matties
 
 > »Ich habe mich schwer vergangen gegen das Gesetz, nun lebe im hier in Swinemünde wie ein Ausgestoßener, — ich bin nicht mehr Kapitän, nur noch ein menschliches Wrack.«
 
-Es folgen Einzelheiten über sein einsames Leben, über sein Häuschen und über seine Reue ..."
+Es folgen Einzelheiten über sein einsames Leben, über sein Häuschen und über seine Reue …«
 
-Er überflog das Geschriebene … »Nein, bis zur letzten Zeile findet man nichts von Wichtigkeit, es sei denn, daß man die häufigen Bemerkungen über seine Gewissensbisse beachten könnte ..."
+Er überflog das Geschriebene … »Nein, bis zur letzten Zeile findet man nichts von Wichtigkeit, es sei denn, daß man die häufigen Bemerkungen über seine Gewissensbisse beachten könnte …«
 
 Jochem nickte ernst. »Kein Wunder, daß er die hatte — die Gewissensbisse! Ein betrunkener Kapitän, der sein Schiff im Orkan so jämmerlich führt, das es wegsackt und nur er allein gerettet wird, — — würden sie sich das nicht zu Herzen nehmen?!«
 
@@ -498,9 +495,9 @@ Harst erwiderte nichts. Er legte das Buch beiseite … Er schien über etwas nac
 
 »Wer?! Na — hier unser Auktionator Mendelstein … Mattiessens Nichte, die einzige Erbin, konnte doch den ganzen Kram nicht mitschleppen, ihr lag auch nichts daran, sie wollte bares Geld sehen, deshalb wurde auch das Häuschen verkauft …«
 
-»Ein Auktionator muß eine Liste führen …« murmelte Harald. »Wir werden ja sehen … Es wird schon eins ins andere greifen … — Übrigens,« wandte er an Pasing, »-- wo verwahrten sie den Tresorschlüssel?«
+»Ein Auktionator muß eine Liste führen …« murmelte Harald. »Wir werden ja sehen … Es wird schon eins ins andere greifen … — Übrigens,« wandte er an Pasing, »— wo verwahrten sie den Tresorschlüssel?«
 
-»dort, wo er hingehört, am Schlüsselring in der Achtertasche meiner Büxen, — nachts lag er auf dem Nachttischchen …«
+»Dort, wo er hingehört, am Schlüsselring in der Achtertasche meiner Büxen, — nachts lag er auf dem Nachttischchen …«
 
 »Ja dann — dann hatte sie es leicht, lieber Käpten. Nämlich die Gertrud Balke, denn die hat die Seiten gestohlen …«
 
@@ -562,8 +559,7 @@ Harst antwortete nicht. Er ging um den Schuppen herum. Hinten war noch ein klein
 
 »Rauf!« kommandierte Harst.
 
-Dieses Fensterlein hatten die Herrschaften nicht verhängt. Spinngewebe, Schmutz und Vogelunrat in weißen Streifen machten das Fenster zur Mattscheibe. Aber wir endeckten noch ein Löchlein, und was wir drinnen sahen,
-hätte jeden Filmregisseur reizen können.
+Dieses Fensterlein hatten die Herrschaften nicht verhängt. Spinngewebe, Schmutz und Vogelunrat in weißen Streifen machten das Fenster zur Mattscheibe. Aber wir entdeckten noch ein Löchlein, und was wir drinnen sahen, hätte jeden Filmregisseur reizen können.
 
 Links war ein Verschlag für eine Ziege. Der Ziegenkopf ragte über den Verschlag hinaus, und die einfältigen Augen der Milchspenderin musterten ahnungslos den Tisch in der Mitte und die drei Frauen, die bei einer Petroleumlampe etwas besichtigten. Was, war nicht zu erkennen. — Daß die Hühner diese nächtliche Störung übel vermerkt hatten, war kein Wunder, denn die drei Damen dort am Tisch im Lampenlicht schienen wenig friedlich zu verhandeln.
 
@@ -636,13 +632,13 @@ Jochem fiel grollend ein: »Das stimmt … Kröger kaufte verschiedene Möbelst�
 
 »Auch das ist richtig!« bestätigte Jochem triumphierend. »Ich hätte es Ihnen früher erzählen sollen, aber ich dachte nicht daran, das Frauenzimmer war nur drei Tage dort in Ostswine bei Kröger, der auch vermietete, und …«
 
-»Schweigen Sie!!« Die Frau trat rasch einen Schritt vor. »Oh — jetzt haben Sie sich selbst das Grab gegraben, Herr Harst, -- — Sie Narr!! Also so weit sind Sie schon mit Ihren Schlußfolgerungen gediehen!! Schade um einen so klugen Kopf!!« Ihre bisherige Ruhe war verschwunden. Sie hatte die Selbstbeherrschung verloren … »Sie Narr! Vielleicht hätte ich mich mit Geringerem begnügt … Jetzt …«
+»Schweigen Sie!!« Die Frau trat rasch einen Schritt vor. »Oh — jetzt haben Sie sich selbst das Grab gegraben, Herr Harst, — — Sie Narr!! Also so weit sind Sie schon mit Ihren Schlußfolgerungen gediehen!! Schade um einen so klugen Kopf!!« Ihre bisherige Ruhe war verschwunden. Sie hatte die Selbstbeherrschung verloren … »Sie Narr! Vielleicht hätte ich mich mit Geringerem begnügt … Jetzt …«
 
 Harst sagte, als ob er den Satz von vorhin ohne Unterbrechung fortführte: »… dann wird Alarich Gepp ein Steinchen zum andern fügen, es werden Mauern auswachsen, und zum Schluß werden Sie in einer Zuchthauszelle sitzen und sehr nachdenklich gestimmt sein. Alarich Gepp ist der Beste vom Roten Alex, Fräulein Balke … Mag der Balken im Auge eines Menschen noch so klein und noch so verfault sein, Fräulein Balke, — Gepp sieht alles, von ihm kann jeder lernen, und dabei hat er noch eins vor allen anderen voraus: sein wahres Gesicht kennt niemand, man verwendet ihn nur für besondere Fälle, er hat acht Namen und acht Wohnungen, und wenn Sie im Berliner Polizeipräsidium noch so gute Bekannte haben: Nur drei höchste Beamte könnten Ihnen »Gepp« zeigen. Er ist ein wunderbarer Mann, — er ist wie Nebel. *Den* greifen sie nie.«
 
 Die Seitentür knarrte, zwei Männer schlüpften herein.
 
-Die Frau winkte kurz. »schafft sie ins Boot … Bindet sie fest … — Wo ist der Motor?«
+Die Frau winkte kurz. »Schafft sie ins Boot … Bindet sie fest … — Wo ist der Motor?«
 
 Einer der Leute schleppte sich mit einem Außenbordmotor.
 
@@ -701,7 +697,7 @@ Nur in Ninas Zimmer lag ein blondes Mädel mit leichtem Fieber zu Bett, hatte kr
 Harald füllte seine Kaffeetasse aufs neue und sagte zu mir: »Lieber Alter, ich möchte jetzt Gedankenleser sein. Wie mag es wohl in Therese Rankes Hirn aussehen?! — Jedenfalls: Das große Schauspiel hat begonnen! Der erste Erfolg ist da: Therese Ranke dürfte drüben halb ohnmächtig in einem Sessel liegen und sich verzweifelt den Kopf zermartern, wie es nur möglich sein kann, daß Tote wieder lebendig werden und ganz so tun, als ob sie die verflossene Nacht gemütlich in ihren Betten zugebracht hätten. Der Schreck für die alte Mamsell muß entsetzlich gewesen sein. Aber wir werden sie nur auf diese Weise mürbe bekommen. Der andere Schreck dürfte ihre Widerstandskraft vollkommen lähmen, und falls auch
 das nicht genügt, bleibt uns noch das letzte Mittel: Das Auto und die Kakteen. Es mag ja grausam sein, eine Menschenseele so zu foltern, ich hatte auch erst meine Bedenken gegen die Idee, dieses trügerische Spiel einzuleiten. Aber drei Tote — — drei Morde, und noch Mordversuche: Das Konto ist überbelastet, jede Rücksicht hat eine Grenze.«
 
-Vielleicht …« seine Stimme wurde träumerisch — »vielleicht sind wir, was die alte Mamsell betrifft… auch so halb auf falscher Fährte … halb! Ich weiß nicht recht, — Ninas Schilderung war ja infolge des Fiebers etwas wirr. Aber Ninas … nun ja … Ninas Verlogenheit, grob gesagt, ist nicht zu trauen. Das Mädel kämpft zäh um ihr Geheimnis.«
+»Vielleicht …« seine Stimme wurde träumerisch — »vielleicht sind wir, was die alte Mamsell betrifft… auch so halb auf falscher Fährte … halb! Ich weiß nicht recht, — Ninas Schilderung war ja infolge des Fiebers etwas wirr. Aber Ninas … nun ja … Ninas Verlogenheit, grob gesagt, ist nicht zu trauen. Das Mädel kämpft zäh um ihr Geheimnis.«
 
 »Das du als vorliegend vermutest,« warf ich ein.
 
@@ -729,7 +725,7 @@ Man kommt hier eine Strecke über offenes Gelände, dann wieder in dichten Wald 
 
 Die beiden Männer blieben plötzlich stehen. Sie waren etwa zehn Schritt von uns entfernt. — »Volle Deckung!« flüsterte Harst. »Die Schufte führen Arges im Schilde … Da — — der Deckel hebt sich … Also doch!!«
 
-In der Kiste stand geduckt eine Frau in einem dunkelseidenen Gunmmimantel mit einem schmucklosen grüngrauen Filzhut auf dem ergrauten Haar … Das bleiche Gesicht, die schroffen Züge, die eigenartig starren Augen: Es war Gertrud Balke!
+In der Kiste stand geduckt eine Frau in einem dunkelseidenen Gummimantel mit einem schmucklosen grüngrauen Filzhut auf dem ergrauten Haar … Das bleiche Gesicht, die schroffen Züge, die eigenartig starren Augen: Es war Gertrud Balke!
 
 Harst hob den Arm … »Rühren Sie sich nicht, ich …«
 
@@ -747,7 +743,7 @@ Der »Ersatz« verschwand wieder unter dem Kistendeckel, und Harst schaute der S
 <h2>9. Kapitel.</h2>
 <h3>Andere Werte.</h3>
 
-... Will man den Leser fesseln, darf man die Lösung des »Problems« nur vorsichtig andeuten. Ich habe hier alle Gespräche weggelassen, die auf den Kern der Sache anspielen. Ich hoffe, daß meine Freunde bereits bei einiger Aufmerksamkeit den richtigen Pfad aus diesem Labyrinth von selbst gefunden haben. Dieser Pfad führt zu der »allzu schweren Ladung« des Schiffes, das Kapitän Mattiessen im Orkan so schlecht befehligte, daß es mit Mann und Maus sank, ihn allein ausgenommen. —
+… Will man den Leser fesseln, darf man die Lösung des »Problems« nur vorsichtig andeuten. Ich habe hier alle Gespräche weggelassen, die auf den Kern der Sache anspielen. Ich hoffe, daß meine Freunde bereits bei einiger Aufmerksamkeit den richtigen Pfad aus diesem Labyrinth von selbst gefunden haben. Dieser Pfad führt zu der »allzu schweren Ladung« des Schiffes, das Kapitän Mattiessen im Orkan so schlecht befehligte, daß es mit Mann und Maus sank, ihn allein ausgenommen. —
 
 Es war mittags gegen zwölf. Auf unserem Balkon bei Jochem Pasing saßen wir beide unter der herabgelassenen Markise, scheinbar in Zeitungen vertieft …
 
@@ -785,7 +781,7 @@ Lateinische Buchstaben … alles sehr geschickt gemacht … — Und doch war das
 
 Vier Uhr morgens …
 
-Der Hof des Häuschens war bequem von hinten durch einen anderen Hof zu erreichen. Eine verschleierte Frauengestalt wagte diesen Weg, als es gerade im Osten leicht zu dämmern begann. Die Frau eilte zur Hintertür des Häuschens, — sie war halb offen, eine zitternde Stimme fragte aus der Finsternis des Flurs: »Um Gott, was bedeutet das alles?! Sie noch hier?! Und die … die drüben?! sie wollten sie für zwei Tage fortschaffen. Wie … geht es Nina?!«
+Der Hof des Häuschens war bequem von hinten durch einen anderen Hof zu erreichen. Eine verschleierte Frauengestalt wagte diesen Weg, als es gerade im Osten leicht zu dämmern begann. Die Frau eilte zur Hintertür des Häuschens, — sie war halb offen, eine zitternde Stimme fragte aus der Finsternis des Flurs: »Um Gott, was bedeutet das alles?! Sie noch hier?! Und die … die drüben?! Sie wollten sie für zwei Tage fortschaffen. Wie … geht es Nina?!«
 
 Um die Hausecke glitten drei Männer, — eine Taschenlampe blitze auf, Therese Ranke sank stöhnend zusammen, die Verschleierte fing sie auf … die Verschleierte sagte gütig:
 
@@ -804,7 +800,7 @@ Aufrecht saß sie im Bett in einem hellen Schlafanzug, eine blonde Herrenperück
 Kommissar Richard und erwähnte, daß Sie den Zettel mitgenommen haben müßten … so wurde auch Richard vor kurzem auf Sie aufmerksam …«
 
 Das Weib nickte, zuckte die Achseln. »Wenn Sie es behaupten, — vielleicht war es so,« höhnte sie mit verstecktem Triumph. »Ich leugne auch nicht, daß ich dann zu Pasing übersiedelte, das ich mir zwei Berliner Verbrecher als Verbündete verpflichtete, denn Georg Mattiessens Vergangenheit war in aller Munde, — ich sagte mir sofort, daß sein Schiff damals irgendeinen reichen Fahrgast oder gar einen Edelsteinschmuggler oder einen Dieb mit reicher Beute an Bord gehabt haben müsse. Ich ließ Frau Nina Pasing das Häuschen durchsuchen, — ich selbst suchte nach dem Familienbuch und entdeckte endlich den Wandtresor und stahl gestern nacht die beiden Seiten mit der Geheimschrift. Ja — ich gebe alles zu, alles, — denn die Enttäuschung, die ich erlebte, die soll auch euch werden, ihr Schnüffler!! Hat die blonde Nina euch erzählt, daß sie mir die Blätter doch wieder entriß und sie zusammengeballt in die Ecke schleuderte?!« … Ein wahnwitziges Gelächter folgte … »In die Ecke, wo die Ziege stand …! Und das Vieh schnappte zu — ich wollte hin, Nina hielt mich fest … Nun sucht das
-Geheimnis im Magen der Ziege -- — oder sonstwo!!« Abermals dieses gräßliche Lachen … Vorbote des Wahnsinns …
+Geheimnis im Magen der Ziege — — oder sonstwo!!« Abermals dieses gräßliche Lachen … Vorbote des Wahnsinns …
 
 — Gerda Bink, die sich auch des Pseudonyms Gertrud Balke bediente, starb dann auch in einer Irrenanstalt. Um ein Nichts hatte sie ihr eigenes Leben und das anderer zerstört. Alle Nachforschungen nach der Kassette, deren Vorhandensein diese unselige Frau in ihrer blinden Habgier nur vermutet hatte, waren genau so ergebnislos wie die nach Georg Mattiessens wahren Geheimnis. Harst neigte der Ansicht zu, daß die Bink keinem bloßen Phantom nachgejagt habe, das tatsächlich irgendwo von Mattiessens Wertsachen vergraben sein müßten. Alarich Gepp zweifelt hieran. Ich selbst möchte mich Haralds Meinung anschließen. Vielleicht liegen wirklich irgendwo in der Plantage im Dickicht Brillanten und
 Gold … vielleicht! In Nina Pasings Häuschen haben wir nichts gefunden.
