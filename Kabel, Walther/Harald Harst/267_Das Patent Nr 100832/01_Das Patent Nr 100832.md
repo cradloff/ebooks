@@ -138,7 +138,7 @@ nicht.«
 
 »Weil Ihr Vater dadurch in ein ungünstiges Licht käme?«
 
-Sie blickte Harst Zeit an. »Vielleicht. Großindustrielle wie
+Sie blickte Harst fest an. »Vielleicht. Großindustrielle wie
 er haben niemals eine glatte Lebensbahn … Große Vermögen
 sprießen nur aus vernichteten Existenzen auf. —
 Mein Vater hatte Feinde, und in den letzten Wochen war
@@ -323,7 +323,7 @@ denn bei seinem Geiz — — und so weiter … Als das
 Auto dann vor dem Hause Zinners in der Neanderstraße
 hielt und der Chauffeur vor Schreck zum Schupo rannte,
 nahm ich die drei Rosen an mich. Das Mädchen muß sie
-ihm hineingeworfen begaben … Hier sind sie …« Er zog
+ihm hineingeworfen haben … Hier sind sie …« Er zog
 aus der Innentasche seines Bratenrockes ein Päckchen hervor.
 »Vorsicht … die Dinger sind eingepudert … Was
 für ein Teufelszeug es ist, muß erst unser Chemieprofessor
@@ -343,7 +343,7 @@ der Sonne, aber wenn einer achtzig Millionen besitzt, muß
 man schon sehr überzeugende Beweise beibringen. Als ich
 mal vor meinem Chef über Kareck eine sanfte Andeutung
 <@pagebreak/>
-machte, geriet der rein aus den Häuschen.« Er schwieg und
+machte, geriet der rein aus dem Häuschen.« Er schwieg und
 starrte ins Kaminfeuer. »Schraut der Mann hat mindestens
 ein Dutzend Leute umgebracht.«
 
@@ -434,8 +434,8 @@ Tasche gerutscht sein. Wie gesagt: Die Leiche war einwandfrei.
 beim besten Willen nicht teilen. — Sagte ich. — Ich dachte
 anders. Ich zog über Kareck Erkundigungen ein. Wie ich
 das mache, ohne daß es auffällt, — wie ich bis zu den
-Geheimakten der Kareck-A.—G. vordrang, — meine Sache.
-Dafür bin ich Alarich Gepp. Die Kareck-A.—G., stellte ich
+Geheimakten der Kareck-A.-G. vordrang, — meine Sache.
+Dafür bin ich Alarich Gepp. Die Kareck-A.-G., stellte ich
 fest, hatte in den letzten zwei Jahren eine ganze Menge
 Patente aller Art erworben. Einzelne davon sehr billig,
 sehr. Ich hatte eine Liste der Erfinder und prüfte nun jede
@@ -511,7 +511,7 @@ nicht mit den gewöhnlichen Mitteln, wir vom Roten
 Alex … Bei uns geht alles nach bewährter Schablone. Es
 wird verhört, protokolliert, seziert, chemisch untersucht, unendlich
 viel wird geschrieben, Tinte fließt in Strömen …
-Wir leisten trotzdem Vorbildliches. Untere Kriminalpolizei
+Wir leisten trotzdem Vorbildliches. Unsere Kriminalpolizei
 ist berühmt. Ich gehöre mit dazu, und ich werde wohl demnächst
 Kriminalrat werden. Aber die Mörder, Kinder, die
 werden mich auslachen und mir vielleicht einen Papagei
@@ -553,7 +553,7 @@ Beinbrüche. — Nun werde ich pflichtgemäß Meldung
 erstatten.«
 
 Er ging zum Schreibtisch und griff nach dem Telephonhörer,
-ließ ihm aber noch auf der Gabel, wandte den kleinen
+ließ ihn aber noch auf der Gabel, wandte den kleinen
 Kopf zurück und fragte: »Harst, werden Sie mir helfen?«
 
 »Nein.«
@@ -583,7 +583,7 @@ Krähen.
 
 »Sehen Sie, Gepp, die fielen von den Ästen wie überreife
 Pflaumen, — es war genau vier Minuten vor Luzies
-Eintreffen hier. Ich sagte mir gleich, daß das etwas zur
+Eintreffen hier. Ich sagte mir gleich, daß das etwas zu
 bedeuten haben müsse.«
 
 Gepp hob eins der Tiere auf und summte dazu: »Ich
@@ -674,7 +674,7 @@ wie sie starben.«
 »Hm … ich will ja nicht allzu neugierig sein, Harst,
 aber so eine kleine Andeutung aus alter Freundschaft …«
 
-Harald legte Alarich die Hand schwer auf die Schulter,
+Harald legte Alarich die Hand schwer auf die Schulter.
 »Gepp, Siegfried Kareck starb nicht durch die Rosen …!
 Das Blumenmädchen war nur ein Ablenkungsmanöver. Man
 wußte Sie auf Ihrem Rade hinter Karecks Auto, und man
@@ -877,7 +877,7 @@ in der Tat. Ich habe von Ihnen gehört.«
 
 »Hoffentlich recht viel …!«
 
-Zinners nur angedeutete Augenbrauen oben sich, und
+Zinners nur angedeutete Augenbrauen hoben sich, und
 die Stirnfalten waren wie Wülste geworden.
 
 »Mich interessieren kriminelle Dinge nicht,« meinte er
@@ -1132,7 +1132,7 @@ Woher hat Ihre Gattin den Titel?«
 
 Zinner wurde blaurot. »Sie … sie war Primadonna
 am fürstlichen Theater in Sigmaringen — bitte!! — Was
-Soll meine Frau hier?«
+soll meine Frau hier?«
 
 »Ach, das möchte ich ihr lieber selbst sagen …«
 
@@ -1259,7 +1259,7 @@ daß Frauen diesen prächtigen, lässigen Gentleman nicht beachteten.
 Sein Auftauchen brachte das Ehepaar Zinner sofort zur
 Besinnung. Elvira und Armin, soeben noch bis zur äußersten
 Grenze eines jähen Nervenzusammenbruchs verstört, blickten
-in geradezu strahlend an.
+ihn geradezu strahlend an.
 
 Gepp saß wie ein lauernder Fuchs da und musterte den
 Herrn mit fachlichem Interesse.
@@ -1362,7 +1362,7 @@ nur: »Jemanden, der in dem Eckhause Potsdamer
 Straße wohnt.«
 
 »Danke. Wenn es nicht wahr ist, schadet es nichts,
-denn …« — Gepp mochte eine Pause — »die erste Verhaftung
+denn …« — Gepp machte eine Pause — »die erste Verhaftung
 im Fall Kareck ist bereits erfolgt. Fräulein Helene
 Zinner machte weiter keine Schwierigkeiten, und nachher
 wird *sie* schon die Wahrheit sagen.«
@@ -1471,7 +1471,7 @@ beobachtete Helene Zinner?« fragte er. »Sie wissen es doch.«
 sofort die Wahrheit gestanden. In dem Eckhaus Potsdamer
 Straße wohnt als Untermieter ein Herr Tobias Remmele …
 Rem … me … le, und Zinner nimmt an, daß dieser
-Remmele ihm das Aktenstück über das Patent Nr. 100&nbsp;532
+Remmele ihm das Aktenstück über das Patent Nr. 100&nbsp;832
 gestohlen hat.«
 
 Auch Harst war sprachlos.

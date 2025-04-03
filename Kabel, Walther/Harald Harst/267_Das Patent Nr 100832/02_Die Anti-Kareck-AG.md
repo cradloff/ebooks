@@ -54,7 +54,7 @@ Gepp zupfte Harst am Ärmel. »Wir fallen auf …
 Leben Sie wohl, Fräulein Zinner …«
 
 Wir schauten ihr nach, wie sie sich scheu durch das
-Menschengewühl der Mittagsstunde mit ihrem Körben voller
+Menschengewühl der Mittagsstunde mit ihrem Körbchen voller
 Papierblumen den Weg bahnte.
 
 Gepp verabschiedete sich, denn wir mußten zu Tisch.
@@ -192,7 +192,7 @@ Großindustriellen so zahlloser Morde verdächtigt.
 Schraut vergaß, die Hauptsache zu erwähnen: Auch wir sind
 gewarnt worden. Die drei Krähen, mögen sie nun Gift gefressen
 haben oder nicht, hängen unbedingt mit diesen gefährlichen
-Dingen eng zusammen. Nicht wahr, du erfüllt mir
+Dingen eng zusammen. Nicht wahr, du erfüllst mir
 meine Bitte, du zeigst dich auch am besten nicht am Fenster.«
 
 Frau Harst blickte ihren großen Jungen lange an. »Harald,
@@ -201,7 +201,7 @@ ich werde gehorchen … Steht es wirklich so schlimm?!«
 Er stocherte zerstreut mit dem Löffel in dem Reisauflauf
 herum, der Nachspeise.
 
-»Schlimmer als irgend jemand ahnt —. Oder vielmehr:
+»Schlimmer als irgend jemand ahnt. — Oder vielmehr:
 einer ahnt etwas und verkroch sich im Schreibtisch!«
 
 »Hältst du etwa Zinner für Karecks Mitschuldigen?« fragte
@@ -395,7 +395,7 @@ einen sehr dauerhaften Schädel, und nach einer Stunde
 war er schon wieder auf den Beinen. Von dem Angreifer
 hatte er nichts gesehen und gehört. Es schneite in so dicken
 <@pagebreak/>
-Flocken, daß wir nur noch ein sehr schwache nutzlose Fährte
+Flocken, daß wir nur noch eine sehr schwache nutzlose Fährte
 fanden. Mit am unangenehmsten war, daß der Fremde Sifu
 die Schlüssel abgenommen hatte. Wir hatten an der Haustür,
 die innen dick gepanzert war, zwei Sicherheitsschlösser mit
@@ -445,7 +445,7 @@ Gepp sagte: »Mein Gehrock hat keine Außentaschen, nur
 Flecke und weite Ärmel. — Was befürchten Sie?«
 
 »So manches … Es war nicht Meister Kanke, mit dem
-ich am Telephon sprach man ahmte nur seine Stimme nach.
+ich am Telephon sprach, man ahmte nur seine Stimme nach.
 Unsere Leitung ist angezapft worden, und die A.-G. wird
 zwei Direktoren schicken … Da — es läutet schon …
 Halten Sie sich im Hintergrund, Gepp. Es ist sicherer.«
@@ -665,7 +665,7 @@ Oben war ein Schuß gefallen …
 
 Wir rasten in den Flur … wir jagten nach oben … wir
 fanden die eiserne Tür weit offen, vor dem großen Schreibtisch
-stand Harald und hielt beide Fäuste gegen Sie Brust
+stand Harald und hielt beide Fäuste gegen die Brust
 gepreßt — leichenblaß, nach Atem ringend …
 
 <@pagebreak/>
@@ -1029,7 +1029,7 @@ die Signallampen in seinem Fenster duldete, will nichts besagen.
 Man wird ihm die Einrichtung harmlos begründet
 haben.«
 
-Harst lächelte zweifelnd. »Ich möchte ihn kennen kennen
+Harst lächelte zweifelnd. »Ich möchte ihn kennen lernen
 — bald!«
 
 Alarich köpfte seine Zigarre. »Na — und Laube Nr. 4?!«
@@ -1104,7 +1104,7 @@ kam wieder zu uns. Sein Gesicht war Gewitterwolke.
 
 »Er hat den Polizeidienst quittiert,« sagte er dumpf. »Er
 zeigte mir die Bescheinigung des Chefs, daß er mit dem
-Heutigen Tage ausgeschieden ist, er war ja nur Anwärter.«
+heutigen Tage ausgeschieden ist, er war ja nur Anwärter.«
 
 Harst schwieg erst. Dann meinte er kurz: »Ich werde
 <@pagebreak/>
@@ -1221,7 +1221,7 @@ lauert. — Mein Name tut nichts zur Sache. Ich nannte
 mich hier bei Zinner Alfred Loring, ich nannte mich auch
 Tobias Remmele. Ihnen dürfte bekannt sein, daß der englische
 Chemiker Clarc vor drei Jahren einen Apparat vorführte,
-mit dem er — durch eine besonders Art Strahlen —
+mit dem er — durch eine besondere Art Strahlen —
 auf zwanzig Meter Entfernung Pulver, Dynamit, kurz —
 jeden Sprengstoff zur Explosion brachte. Seine Erfindung
 blieb trotzdem wertlos, da die Strahlen nur auf diese kurze
@@ -1273,7 +1273,7 @@ und das Amylnytrit sollten die Polizei auf eine falsche
 Spur lenken.«
 
 Der Fremde nickte. »Ja — und ich schickte an Zinner
-die toten Tiere, und Zinner, der wohl ahnte, daß ich an
+die toten Tiere, und Zinner, der wohl ahnte, daß ich noch
 am Leben, griff diesen Gedanken auf und sandte Kareck ähnliche
 Päckchen. Ich versuchte wiederholt, meinen Apparat
 ihm zu stehlen. Ich brach hier ein, — das Aktenstück Nummer
