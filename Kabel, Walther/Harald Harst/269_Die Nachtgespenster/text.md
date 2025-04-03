@@ -1,6 +1,7 @@
-<@pagebreak 3/>
+<@pagebreak/>
 
-<h1>Die Nachtgespenster</h1>
+<#import "*/harst.ftl" as harst>
+<@harst.introshort/>
 
 <h2>1. Kapitel.</h2>
 
