@@ -971,12 +971,12 @@ ungenaue Auskünfte losgeworden.«
 <h3>Die Nachtgespenster.</h3>
 
 Zacharias Rummel, den seine Kollegen vom Globus
-immer nur Hehlerin nannten, erschien bereits nach einer
-halben Stunde bei uns, hoch zu Motorrad, mit Sopziussit,
+immer nur Sacharin nannten, erschien bereits nach einer
+halben Stunde bei uns, hoch zu Motorrad, mit Soziussitz,
 auf dem eine Dame klebte.
 
-Mr. waren an diesen Aufzug schon gewöhnt. Zacharias
-»arbeitete« nur mit seiner « Tochter. zusammen.
+Wir waren an diesen Aufzug schon gewöhnt. Zacharias
+»arbeitete« nur mit seiner Tochter zusammen.
 Selten wird es wohl zwischen einem Witwer und abgebauten
 Polizeisekretär und seinem einzigen Kinde ein
 so inniges berufliches Verhältnis geben wie zwischen
@@ -984,32 +984,30 @@ Rummel und seiner blonden Anni.
 
 Es sah so hübsch unverfänglich aus, wenn die beiden
 auf der tadellosen Maschine durch die Straßen sausten …
-Es sah auch jetzt so glänzend zufallartig a::- daß das
+Es sah auch jetzt so glänzend zufallartig aus, daß das
 Benzinroß ausgerechnet vor unserem Hause die Puste
-verlor, und Harald beim Besichtigen der Rosenstöe im
-Je ren sich höflich erkundigte, ob der Schaden ernsterer
-die …
+verlor, und Harald beim Besichtigen der Rosenstöcke im
+Vorgarten sich höflich erkundigte, ob der Schaden ernsterer
+Art sei …
 
-Boten und Anni hofften davon, Harst kam in mein
+Vater und Anni töfften davon, Harst kam in mein
 <@pagebreak/>
 Zimmer, meinte gemütlich: »Arminchen und der Hinkende
-haben sich in der Konditorei »Dahlem« in der Bucht:-
-Seitenstraße getroffen und sitzen noch dort … haben
+haben sich in der Konditorei »Dahlem« in der Hundekehlenstraße
+getroffen und sitzen noch dort … haben
 Kaffee, Pasteten bestellt … — die Sache macht sich … —
 — Hast du Lücke angerufen?«
 
-»3 … Wir treffen uns um zehn Uhr vor dem
+»Ja … Wir treffen uns um zehn Uhr vor dem
 Bahnhof in Erkner. Lücke ist im übrigen durchaus im
-Bilde, was den Tod Lady Jane »Lavandys und die
+Bilde, was den Tod Lady Jane Lavandys und die
 beiden schwarzen Frauen angeht …
 
-»So?!« Harald blickte auf seine »Armbanduhr. »Halb
-fünf … Um halb sechs können wir bei dem Rechts
-
-Anwalt sein … Mach« di fertig, nimm alles Nötige
+»So?!« Harald blickte auf seine Armbanduhr. »Halb
+fünf … Um halb sechs können wir bei dem Rechtsanwalt
+sein … Mach’ dich fertig, nimm alles Nötige
 mit, ich besorge eine Taxe … Wir fahren zunächst zum
-Schein nach Charlottenburg, —« wir werden ja sehen,
-
+Schein nach Charlottenburg, — wir werden ja sehen,
 ob wir verfolgt werden … Ich habe Anni schon Bescheid
 gesagt … Sie soll Punkt halb acht den Rechtsanwalt
 anrufen und Bericht erstatten …«
@@ -1023,56 +1021,56 @@ bemühen.
 Dort trafen wir mit Gurlitts Arzt zusammen, Der
 uns im Flur leise erklärte, der Patient sei nicht mehr
 zu retten: Vergiftung, offenbar durch verdorbene Wurst.
-»Mir unverständlich,« meinte der Sanitätsrat trübe, »wir
-Gurlitt die Leberwurst vor) anrühren konnte … Er hatte
+»Mir unverständlich,« meinte der Sanitätsrat trübe, »wie
+Gurlitt die Leberwurst noch anrühren konnte … Er hatte
 sie von einem Klienten, einem Bauer, zugeschickt bekommen
 …«
 
-»st Gurlitt noch bei Bewußtsein?« fragte Harst
+»Ist Gurlitt noch bei Bewußtsein?« fragte Harst
 schnell.
 
 »Nein … Ich habe alles Mögliche versucht, ich
 habe noch einen Kollegen hinzugezogen, — die Erkrankung
-trat heute mittag erst ein … Das Herz ist!
+trat heute mittag erst ein … Das Herz ist
 zu schwach.«
 
 <@pagebreak/>
 Gurlitt war Junggeselle. — Seine Wirtschafterin
 schlich weinend herbei.
 
-Die Wurst war tadellos,« schluchzte sie …
+»Die Wurst war tadellos,« schluchzte sie …
 »Morgens kam das Paket, und ich gab Herrn Rechtsanwalt
 zwei belegte Brote mit … Er hat sie zum
 Frühstück gegessen … Und … kam … schon … halbtot
-heim und!egte sich zu Bett. — Die Wurst war wirklich
-einwandfrei … — Daß sie jetzt so stark riecht, — ich
-bGegreife es nicht …
+heim und legte sich zu Bett. — Die Wurst war wirklich
+einwandfrei … Daß sie jetzt so stark riecht, — ich
+begreife es nicht …«
 
 »Ich möchte sie sehen,« bat Harald energisch. »Haben
 Sie den Pappkarton noch aufbewahrt, auch den Postabschnitt?
-— Gut, auch die zeigen Sie uns mal …
+— Gut, auch die zeigen Sie uns mal …«
 
 Wir gingen in die Küche. Von weitem sah die
-große, Erde, stark angeräucherte Landleberwurst einfach
-versperrt aus, — in der Nähe stank sie beträchtlich.
+große, dicke, stark angeräucherte Landleberwurst einfach
+verlockend aus, — in der Nähe stank sie beträchtlich.
 
 Harst trat mit ihr ans Fenster. »Sagen Sie, Frau
-Winter, — kannten Sie den Postboten; der das Paket
-rate?«
+Winter, — kannten Sie den Postboten, der das Paket
+brachte?«
 
-»Gewiß, Herr Harst …
+»Gewiß, Herr Harst …«
 
-»Soeben Sie mir nun den Postabschnitt … —« Im
+»Geben Sie mir nun den Postabschnitt … — Hm
 — in Grünheide aufgegeben … Grünheide kennen wir.
-Ob der Bauer Schütz wohl Telephon bat?«
+Ob der Bauer Schütz wohl Telephon hat?«
 
-»30 …««
+»Ja …«
 
 »Ich werde ihn dann anrufen …«
 
 Fünf Minuten darauf wußten wir, daß Großbauer
-Schutz nicht der Spender der Leberwurst und des noch
-Beigefügten Rollschinkens war.
+Schütz *nicht* der Spender der Leberwurst und des noch
+beigefügten Rollschinkens war.
 
 Harald ließ sich mit der Postagentur Grünheide
 verbinden.
@@ -1080,71 +1078,70 @@ verbinden.
 Der Beamte, der gestern nachmittag das Paket angenommen
 hatte, war gerade anwesend und erklärte,
 Ein älterer Herr habe für Schütz das Paket besorgt, der
-Herr wohne wohl als Sopmmergast bei Schütz, — ja, es
-fett ein großer, hagerer Mann gewesen, aber gehinkt
-Hätte or nicht …
+Herr wohne wohl als Sommergast bei Schütz, — ja, es
+sei ein großer, hagerer Mann gewesen, aber gehinkt
+Hätte er nicht …
 
 <@pagebreak/>
 »Herr Sanitätsrat, benachrichtigen Sie die Polizei,«
-meinte Harald daraufhin. »Die Wurst ist durch Ptomain:
-Gift, das man hineinspritzte, vergiftet worden. Vor Absender
-hat genau berechnet, daß der Zerjezungsprozeß
+meinte Harald daraufhin. »Die Wurst ist durch Ptomain-Gift,
+das man hineinspritzte, vergiftet worden. Der Absender
+hat genau berechnet, daß der Zersetzungsprozeß
 durch das Ptomain erst nach etwa sechzehn Stunden
 beginnen würde.«
 
 Frau Winter stand schreckensbleich dabei.
 
 »Ein Glück, daß ich keine Leberwurst anrühre!! Aber
-Herr Rechtsanwalt liebt sie … gerad? Landleberwurst.«
+Herr Rechtsanwalt liebt sie … gerade Landleberwurst.«
 
 »Ein Beweis, wie genau der Mörder unterrichtet
-war,« jagte Harst grimmen Tones. »Aber — er soll es
+war,« sagte Harst grimmen Tones. »Aber — er soll es
 büßen!«
 
 Der Sanitätsrat war vollständig verstört. »Wer …
 wer aber sollte gerade Gurlitt nach dem Leben trachten?!
-Er war überall beliebt …«,
+Er war überall beliebt …«
 
 Harst hörte kaum hin. »Haben Sie ihm schon
-Kampferspritzen gegeben?ck — Versuchen Sie es nochmals.
+Kampferspritzen gegeben? — Versuchen Sie es nochmals.
 In solch verzweifeltem Fall muß man das Äußerste
-an … Ich bin Laie, gewiß, aber mir sind Fälle besorgt,
+tun … Ich bin Laie, gewiß, aber mir sind Fälle bekannt,
 daß bei Ptomain-Vergiftungen eine ganz schwache
 Strychninlösung Wunder tat. Nehmen Sie Strychnin, —
 ein Gift bekämpft das andere … Zögern Sie nicht,
 Herr Sanitätsrat … Und sollte Gurlitts Befinden sich
 bessern — Frau Winter, geben Sie acht! — dann darf
-seine Menschenseele davon erfahren! Richten auch Sie
-ich danach, Herr SGäünitätsrat! Ah werde dann zwei
+keine Menschenseele davon erfahren! Richten auch Sie
+sich danach, Herr Sanitätsrat! Ich werde dann zwei
 Leute hier in der Wohnung postieren … Gurlitts Leben
+bleibt bedroht.«
 
-Treibt bedroht.« …
-— Wir saßen untätig in des jungen Anwalts Art
-Wartezimmer. Wir warteten … Kurz vor halb acht trat
+— Wir saßen untätig in des jungen Anwalts Arbeitszimmer.
+Wir warteten … Kurz vor halb acht trat
+der Arzt ein.
 
-Her Arzt ein.
 »In der Tat — ein Wunder!« rief er leise. »Meine
-
 Herren, der Puls geht ruhiger … Ich hoffe Gurlitt durchzubringen
 …«
 
 Er ließ sich erschöpft in eine Sofaecke fallen. »Nun
 <@pagebreak/>
-gen Sie mir um Gotteswillen: Wer war dieser Schurke?!
-Wer schickte das Paket ab?« …
+sagen Sie mir um Gotteswillen: Wer war dieser Schurke?!
+Wer schickte das Paket ab?«
 
 Harst erwiderte leise: »Das tat derselbe Mann, der
-einen Bambusfloß mit Silberkrücke benutzt und …
+einen Bambusstock mit Silberkrücke benutzt und …«
 
 Der Arzt schnellte hoch.
 
 »Bambus — — Silberkrücke, — und lang und hager,
-— den kenne ich, das ist der Kunstmaler Belter, der
+— *den* kenne ich, das ist der Kunstmaler Belter, der
 hier seit zwei Jahren wohnt … Der besitzt einen solchen
-Stock, und …
+Stock, und …«
 
-Das Telephon auf dem Schreibtisch; läutete. —
-Es war halb acht. Ich? nahm den Hörer …
+Das Telephon auf dem Schreibtisch schnurrte. —
+Es war halb acht. Ich nahm den Hörer …
 
 »Hallo, — hier Schraut … Ah — Sie sind’s, Fräulein
 Anni … Nun?!«
@@ -1153,7 +1150,7 @@ Anni … Nun?!«
 konnten nicht mehr eingreifen … Es ging alles so schnell.
 Plinz ist von dem Langen in der Konditorei … vergiftet
 worden … Er entkam in einem sehr eleganten
-dunkelblauen Auto …
+dunkelblauen Auto …«
 
 »Ist Plinz tot?« fragte ich atemlos.
 
@@ -1168,23 +1165,23 @@ ihm das Gift bei?«
 
 »Das weiß ich nicht … Die Ärzte im Sanatorium
 meinen, es sei Ptomain gewesen, das ja ganz geschmacklos
-ist … Plinz erhielt sich plötzlich, der Nr. ade ließ
-Kognak bringen und lief dann hinaus, um euren Arzt
-zu holen … Garten sah) jedoch, wie er in das Auto
+ist … Plinz erbrach sich plötzlich, der Fremde ließ
+Kognak bringen und lief dann hinaus, um einen Arzt
+zu holen … Vater sah jedoch, wie er in das Auto
 schlüpfte …«
 
 »Danke vorläufig … Schluß …«
 
-Harst wandte sich halb um. »Herr Sanitätsrat, wo«
-wohnt der Maler Bester hier? Hat er ein Auto? Einen
+Harst wandte sich halb um. »Herr Sanitätsrat, wo
+wohnt der Maler Belter hier? Hat er ein Auto? Einen
 Chauffeur?«
 
 <@pagebreak/>
-»Ja, ja Er wohnt in der letzten Seinen Villa
-naß Woltersdorf zu … ganz allein …
+»Ja, ja Er wohnt in der letzten kleinen Villa
+nach Woltersdorf zu … ganz allein …«
 
-»Dann …, werden wir den Burschen sofort abfassen.
-— Entschuldigen Sie uns …
+»Dann … werden wir den Burschen sofort abfassen.
+— Entschuldigen Sie uns …«
 
 Wir eilten zur Polizeiwache.
 
@@ -1195,37 +1192,38 @@ Gewitter den Himmel völlig verfinstert Hatte.
 Aber — das Nest war leer …
 
 In Belters Atelier, dem großen Dachbodenraum
-mit schrägem Riesenfenster, lag auf einem billigen Eichenschreibtisch
-ein Zettel — — verstellte Schrift, deutsch:
+mit schrägem Riesenfenster, lag auf einem billigen
+Eichenschreibtisch ein Zettel — — verstellte Schrift, deutsch:
 
-Sieben Sie sich keine Mühe, Herr Harst, — wir
+> Geben Sie sich keine Mühe, Herr Harst, — wir
 wechseln das Quartier.
-» Belter.
+
+<p class="centered">Belter.</p>
 
 Bei der genauen Durchsuchung des Hauses fanden
 wir in einem Kleiderschrank mit doppelter Hinterwand
 zwei schwarze, halblange Damenmäntel, zwei schwarze
-Kleider, Hüte, Blusen, Gerufen und Schminken …
+Kleider, Hüte, Blusen, Perücken und Schminken …
 
-»Die Ausstattung der Nachtgespenster!« sagt? Harst
+»Die Ausstattung der Nachtgespenster!« sagte Harst
 zu den Polizeibeamten. »Und hier in dieser Handtasche,
-— bitte, haben Sie schon einmal feinere Einbrechererfzeuge
+— bitte, haben Sie schon einmal feinere Einbrecherwerkzeuge
 gesehen?!«
 
 <h2>5. Kapitel.</h2>
-<h3>Befehl an Bettlern D.</h3>
+<h3>Befehl an Sektion D.</h3>
 
-Ein toller Gewittersturm setzte über den großen Mügzelsee
-und schrie seine las elenden Trabanten zu indem
-»öänitzkanal hinein. Es regnete wie aus Eimern. Grelle
-Ihrige kämpften mit ihren Feuergarben zwecklos gegen
-»ie unheimliche Finsternis an.
+Ein toller Gewittersturm setzte über den großen Müggelsee
+und schickte seine fauchenden Trabanten auch in dem
+Löcknitzkanal hinein. Es regnete wie aus Eimern. Grelle
+Blitze kämpften mit ihren Feuergarben zwecklos gegen
+die unheimliche Finsternis an.
 
-Blies Nixe schlich langsam durch das windgepeitschte
+Lückes Nixe schlich langsam durch das windgepeitschte
 Wasser und die grauen, glitzernden Regenschnüre. Am
 <@pagebreak/>
 Steuer stand ein Kriminalassistent im Ölmantel und
-mit Ölkappe, Gang vorn neben dem kleinen Scheinwerfer
+mit Ölkappe, ganz vorn neben dem kleinen Scheinwerfer
 hockte ein zweiter und suchte die Dunkelheit mit geübten
 Blicken zu durchdringen. In der kleinen Kajüte saßen
 vier Männer und ein blondes, liebes, fesches Mädel:
@@ -1241,153 +1239,153 @@ und undurchsichtig.
 
 »Rechtsanwalt Gurlitt ist vorläufig vernehmungsunfähig,
 ebenso Herr Plinz,« meinte Lücke jetzt und rührte
-in seinem Grogglas. »Oh Gurlitt oder Plinz uns weiterhelfen
-können, besuchst? ich auch. Verwandte besitzt Lady
-Jane nicht mehr, mithin bleibt nur die Frau übrig.
-die sich Gussow nannte und die die Schallplatte und di?
-Zeitung zu euch brachte und ein; auf das Gichtbein doch
-Starkes aufmerksam machte. — Wer ist diese Gussow?7
-Der einzige, der hierüber vielleicht Auskunft geben könnte.
+in seinem Grogglas. »Ob Gurlitt oder Plinz uns weiterhelfen
+können, bezweifle ich auch. Verwandte besitzt Lady
+Jane nicht mehr, mithin bleibt nur die Frau übrig,
+die sich Gussow nannte und die die Schallplatte und die
+Zeitung zu euch brachte und euch auf das Gichtbein des
+Starkes aufmerksam machte. — Wer ist diese Gussow?
+Der einzige, der hierüber vielleicht Auskunft geben könnte,
 ist der alte Fischer Karl Marx, der Wächter des Löcknitzhauses.
 Gurlitts Personal weiß nichts von einer intimen
-Freundin der toten Lady, sein Mensch weiß etwas über
+Freundin der toten Lady, kein Mensch weiß etwas über
 sie. Jane Lavandy hat zweifellos ihre Dienstboten absichtlich
 jeden Monat gewechselt, sie sollten nicht bei ihr
-warm werden, sie sollten keine Belegend … finden, das
+warm werden, sie sollten keine Gelegenheit finden, das
 Leben und Treiben ihrer Herrin näher kennen zu lernen.
 Lady Jane hat sich mit undurchdringlichen Schleiern umgeben.
 Jeder Versuch, all diesen Dingen, die so widerspruchsvoll
-und vieldeutig sind, auf den Freund zu kommen.
+und vieldeutig sind, auf den Grund zu kommen,
 ist vorläufig nutzlose Kraftvergeudung. Die auf die Schallplatte
 aufgetragene hellere Schicht, die an Harst die Bitte
-richtete, das Löcknitzhaus zu besuchen, war von eine:
+richtete, das Löcknitzhaus zu besuchen, war von einer
 <@pagebreak/>
-Person besprochen worden, die nicht dieses Fesseln
+Person besprochen worden, die *nicht* dieses Fräulein
 »Gussow« sein kann, sondern nur Jane Lavandy selbst.
 Harst und Schraut hätten die Stimme der Gussow wiedererkannt.
-Also muß wohl die Lady diesen Hilferufdo1
+Also muß wohl die Lady diesen Hilferuf der
 Platte anvertraut haben, als sie noch lebte, eine etwas
 sehr umständliche Art, jemand um Hilfe anzugehen, andererseits
-auch) wieder eine Methode, dicke man als sehr
+auch wieder eine Methode, die man als sehr
 vorsichtig bezeichnen kann und die durchaus dem sonstigen
 Verhalten dieser rätselhaften Frau entspricht. — Wir
-haben dann nachts den Storchenzettel zu beachten. Dieser,
+haben dann noch den Storchenzettel zu beachten. Dieser,
 weit wichtiger, nennt einen bestimmten Namen, eine Firma
 in Casablanca: Rapsom! Aber auch der Zettel enthält
 nur Andeutungen. Die Schreiberin, die ihn anscheinend
-in Marokko an dem Storchenbein befestigte, fürchte:
+in Marokko an dem Storchenbein befestigte, fürchtet
 »Rapsom« über alle Maßen. Sie möchte Rapsoms dunkle
 Taten aufdecken lassen, sie begnügt sich trotzdem mit einer
-inhaltsloser Denunziation, macht zur Vorsicht, schreibt mit
+inhaltslosen Denunziation, mahnt zur Vorsicht, schreibt mit
 verstellter Schrift und nennt ihren Namen nicht. — Daß
-die »Nachtgespenster« Abgesandte Rapsoms sind, daß Lady.
-Lavandy in Rapsom nebst Anhang erbitterte Feinde sieht.
-— das hat Harst schon in seinem Bericht mit eina0csloGten.
-Ich wiederhole hier ledig! ich eng zusammengedrängt
-Harsts Ausführungen. — Ins letztes haben
+die »Nachtgespenster« Abgesandte Rapsoms sind, daß Lady
+Lavandy in Rapsom nebst Anhang erbitterte Feinde sieht,
+— das hat Harst schon in seinem Bericht mit eingeflochten.
+Ich wiederhole hier lediglich eng zusammengedrängt
+Harsts Ausführungen. — Als letztes haben
 wir dann … den Fledermauswalzer, mit das Merkwürdigste
 in der bunten Kette der uns bekannten Tatsachen.
 — Zweifellos haben Lady Lavandy und diese
-»Gussow« diese Platte gewählt und die andere Seite
-mit der helleren Schicht über?paar und Harst ins Haus
-gebracht. Sie rechneten damit, daß vor &Fledermauswaizer
-Vorspiel werden würde und so der »Armeebefehl« Harst
+»Gussow« *diese* Platte gewählt und die andere Seite
+mit der helleren Schicht überzogen und Harst ins Haus
+gebracht. Sie rechneten damit, daß der Fledermauswalzer
+gespielt werden würde und so der »Armeebefehl« Harst
 und Schraut gleichfalls bekannt würde. Was enthielt
 nun dieser Befehl? Leider tauchte der falsche Herr von
-Relett-Sartow sehr zur Unzeit auf, es konnte kein Stopp
-Gramm dieses »Befehls« angefertigt werden, die Platt.
+Relett-Sartow sehr zur Unzeit auf, es konnte kein Stenogramm
+dieses »Befehls« angefertigt werden, die Platte
 wurde von dem Hinkenden gestohlen, und wir müssen uns
 <@pagebreak/>
 auf Harsts und Schrauts Gedächtnis verlassen. Wiederholen
 Sie doch bitte »den Befehl«, lieber Harst …«
 
 Mein Freund, auf einem Klappstuhl sitzend, trank
-einen Schlaf Grog und zählte ziemlich wörtlich »die
+einen Schluck Grog und zählte ziemlich wörtlich »die
 Befehle« auf:
 
 An Sektion D., — C., den 2. Januar 1925.
 
-1\. Die letzte Lieferung war zum Teil unbrauchbar.
+1. Die letzte Lieferung war zum Teil unbrauchbar.
 Es ist unbedingt nur Ware auszuwählen, die
 Ohne Duplikate ist. Hinsichtlich der Annoncen muß
-ein geschnittenen Text gewählt werden.
+ein geschickterer Text gewählt werden.
 
-2\. Die Organisation ist zu erweitern. Jedes Totenstill
+2. Die Organisation ist zu erweitern. Jedes Warenstück
 muß zunächst durch ortsansässige Mitglieder
 genau geprüft werden. Hartes Material scheidet
 aus.
 
-3\. Es ist unbedingt zu vermeiden, beim Ankauf der
+3. Es ist unbedingt zu vermeiden, beim Ankauf der
 Ware von vornherein ein zu hohes Gebot abzugeben.
 Dies erregt nur Verdacht.
 
-4\. Die Organisation muß Anschluß an erste Gesellschaftsschichten
+4. Die Organisation muß Anschluß an erste Gesellschaftsschichten
 suchen, möglichst an Verarmte mit
 klingenden Namen und Titeln, die den Ankauf
 fördern.
 
-5\. Die Unkosten werden zu groß. Die anderen Der
-dienstmöglichkeiten müssen besser ausgebaut werden.
+5. Die Unkosten werden zu groß. Die anderen
+Verdienstmöglichkeiten müssen besser ausgebaut werden.
 Es ist ratsam, Fachleute heranzuziehen, die
 jedoch nicht als Mitglieder aufzunehmen sind.
 
-Das Haupt.
+<p class="centered">Das Haupt.</p>
 
 Harst machte eine kurze Pause, rauchte zwei Züge
-aus seiner Zigarette und fügte hinzu: »Die »harrende
+aus seiner Zigarette und fügte hinzu: »Die knarrende
 Stimme, die diesen »Befehl« der Platte anvertraute,
 sprach englisch, mit dem unverkennbar singenden Tonfall
 des echten Londoners. Sektion D. bedeutet Sektion Deutschland,
-— &G. bedeutet Casablanca, das Datum beweist,
+— C. bedeutet Casablanca, das Datum beweist,
 daß die Organisation bereits auf eine längere Tätigkeit
-zurüäblickt. — Betrachten wir nun den Inhalt des Brief!!
-s an Doktor D. Wir sehen hier dieselbe vorsichtige
+zurückblickt. — Betrachten wir nun den Inhalt des Befehls
+an Sektion D. Wir sehen hier dieselbe vorsichtige
 <@pagebreak/>
 Ausdrucksweise, deren sich auch Lady Lavandy befleißigte.
 Die Art der Ware Ist nicht genannt. Vielleicht handelt es
-sich; um Diamanten, natürlich um gestohlene oder sonst:
-wie ergaunerte Steine, Vielleicht gibt sich) die Organisation
-mit Edelsteins!Mmuggel nach den Bereinigten Staaten ab,
+sich um Diamanten, natürlich um gestohlene oder sonstwie
+ergaunerte Steine, Vielleicht gibt sich die Organisation
+mit Edelsteinschmuggel nach den Vereinigten Staaten ab,
 ein sehr einträgliches Geschäft. Befehl 5 ist am klarsten:
 »Das Haupt« verlangt, daß Sektion D. gewerbsmäßige
 Verbrecher, Einbrecher und Diebe mit heranzieht. — Aber
-auch dies hilft uns nicht viel. Wenden wir uns vor Hauptfrage
+auch dies hilft uns nicht viel. Wenden wir uns der Hauptfrage
 zu: Wie kam diese Platte in Lady Lavandys Besitz?
 — Daß die Lady der Organisation nicht angehörte,
 nehme ich als erwiesen an. Sie kann die Platte also nur
-durch List an sie gebracht haben und kannte deren Geheimnis,
+durch List an sich gebracht haben und kannte deren Geheimnis,
 das heißt den in den Walzer eingefügten Befehl.
 — Woher wußte sie dies? — Sie muß in Casablanca
 gewesen sein, wo die Firma Rapsom »das Haupt« darstellt,
 sie muß zu der Firma, als deren alleiniger Inhaber
-im internationalen Firmennachschlagewerk Sohn Gottorpp
+im internationalen Firmennachschlagewerk John Gottorpp
 Rapsom, siebzig Jahre, englischer Staatsangehöriger, verzeichnet
 ist, Beziehungen irgendwelcher Art unterhalten
 haben, sie hat auch die hiesigen Vertreter der Organisation,
-Herrn Kunstmaler Belter und Herrn GCGhaufseur
-Bilder Schmidt, recht genau gekannt: Die Nachtgespenster,
+Herrn Kunstmaler Belter und Herrn Chauffeur
+Viktor Schmidt, recht genau gekannt: Die Nachtgespenster,
 die Einbrecher, die Straßenräuber und Schwindler.
 Ob diese beiden Leute in der Organisation eine hervorragende
 Rolle spielen, ob Belter Leiter der Sektion
 D. ist, bleibt vorläufig gleichgültig. — Das wäre nun
 wohl alles, was zunächst erörtert worden müßte. Wir
-sehen, daß wir durch Lady Lavandy Moder durch Fräulein
+sehen, daß wir durch Lady Lavandy oder durch Fräulein
 Gussow auf eine internationale Verbrecherbande aufmerksam
-gemacht worden sind. die in allen Weltteilen
-ihre Filialen haben dürft?, die offenbar glänzend geleitet
+gemacht worden sind, die in allen Weltteilen
+ihre Filialen haben dürfte, die offenbar glänzend geleitet
 wird, die die Vorsicht so weit treibt, durch Schallplatten,
-die doch nur in Casablanca angefertigt worden Klippen,
+die doch nur in Casablanca angefertigt worden können,
 <@pagebreak/>
 ihre Sektionen zu leiten, — die mit Mord und Verbrechen
 gegen ihre Feinde vorgeht und vielleicht zur Zeit
 die bedeutendste Bande dieser Art ist. Ihr beizukommen —
 in dieser Hinsicht warnt der Storchenzettel nicht zu eindringlich
 —, dürfte sehr schwer sein. Wollte man etwa
-den an sich trefflichen Verstaubten Kriminalpolizei in
+den an sich trefflichen Vorstand der Kriminalpolizei in
 Casablanca, unseren Freund Iomak Bey, durch ein Radiogramm
 auf Rapsom scharf machen, wäre die Sache von
-vornherein verpatzt. Iomak wäre diesem Langsam nie gewachsen.
-Wenn Sie, lieber Lücke, und Ohre hohen Herren
+vornherein verpatzt. Iomak wäre diesem Rapsom nie gewachsen.
+Wenn Sie, lieber Lücke, und Ihre hohen Herren
 im Roten Alex nichts dagegen hätten, würden …«
 
 Würden …
@@ -1395,75 +1393,73 @@ Würden …
 Der Satz wurde im wahrsten Sinne des Wortes zerschnitten
 …
 
-Von draußen her ein gellender Frei:
+Von draußen her ein gellender Schrei:
 
-»Ächtung — — stoppen!«
+»Achtung — — stoppen!«
 
 Dann ein Krachen, Splittern …
-Film flog von meinem Wundertest quer über den
 
-ich
+Ich flog von meinem Wandsofasitz quer über den
+Tisch …
 
-Der Bug eines anderen Motorbootes- hatte uns mit
-voller Kraft mittschiffs getroffen, — ein Alle, daß die
+Der Bug eines anderen Motorbootes hatte uns mit
+voller Kraft mittschiffs getroffen, — ein Glück, daß die
 elektrischer Beleuchtung nicht versagte, ein Glück, daß wir
 noch in wilder Hast an Deck gelangen konnten …
 
 Dann sank die arme eingedrückte Nixe wie ein Bleiklumpen
-in die Dies, wir hatten jeder genug mit sich
-selbst zu tun, um bei diesem Unwetter das Land zu Streich
-cm, obwohl die Rettungsringe uns leicht über Wasser
-hielten, — wir hatten keine Ahnung, in welchem Teil?
-des langen Löcknitzkanals wir uns befanden. wir kamen
-bei dieser Finsternis auseinander, ohrbotänb:nck« Donner
-übertönte unsere Rufe, man sah nicht die 2;und vor
-Augen, — ich schwamm nach rechts hinüber. merkt auf gut
-Grün, — ich hoffte so auf das bebaute Ufer der Höchst
+in die Tiefe, wir hatten jeder genug mit sich
+selbst zu tun, um bei diesem Unwetter das Land zu erreichen,
+obwohl die Rettungsringe uns leicht über Wasser
+hielten, — wir hatten keine Ahnung, in welchem Teile
+des langen Löcknitzkanals wir uns befanden, wir kamen
+bei dieser Finsternis auseinander, ohrbetäubender Donner
+übertönte unsere Rufe, man sah nicht die Hand vor
+Augen, — ich schwamm nach rechts hinüber, mehr auf gut
+Glück, — ich hoffte so auf das bebaute Ufer der Löcknitz
 zu stoßen, und — ich stieß wirklich auf etwas — auf scharfe
-Zacken. auf ein bis ins Wasser hinabreichendes Eisengitter,
+Zacken, auf ein bis ins Wasser hinabreichendes Eisengitter,
 <@pagebreak/>
-meine Stirn bekam eine böse Schramme ad, dann
-zog im? mich langsam empor, kletterte auf die Uferböschung,
-schüttelte mich wie ein nasser Pudel und dankte mein’in
-Schöpfer, daß dieser Unfall so glimpflich abgehäutet: war.
+meine Stirn bekam eine böse Schramme ab, dann
+zog ich mich langsam empor, kletterte auf die Uferböschung,
+schüttelte mich wie ein nasser Pudel und dankte meinem
+Schöpfer, daß dieser Unfall so glimpflich abgelaufen war.
 
 Unfall?!
 
 In diesem Augenblick stieg ein besonderer Verdacht
 in mir auf. War nicht auch Lady Lavandys Ruderboot
 gerammt worden, hatte man nicht die Tote mit halb zerschmettertem
-Kopf aus denn Wasser aufgefischt?!
+Kopf aus dem Wasser aufgefischt?!
 
 Neben mir ein Plätschern, — im Regennebel unklar
 eine Gestalt …
 
 »Herr Schraut?!« flüsterte die blonde Anni vom
-Schufte und lachte leise … »Seien Sie Kavalier, halten
-Sie mich fest, meine Röte stecken in den Eisenspitzen,
-man sieht, die Frauenröä? sind noch immer zu lang, und
+Soziussitz und lachte leise … »Seien Sie Kavalier, halten
+Sie mich fest, meine Röcke stecken in den Eisenspitzen,
+man sieht, die Frauenröcke sind noch immer zu lang, und
 ein Mädel wie ich sollte nur Sportbeinkleider tragen …
-
-— So, danke, da wären wir …! — Hallo, was grinst da
+So, danke, da wären wir …! — Hallo, was grinst da
 denn über uns durch die Finsternis?! Das muß eine Marmorstatue
 sein, und stimmt dies, so hat uns beide ein
-blinder Zufall ausgerechnet an das Ufer des Löädcdnithauses
+blinder Zufall ausgerechnet an das Ufer des Löcknitzhauses
 geworfen!«
 
 Ein Bündel von Blitzen zerriß die Finsternis …
-
-… Wir erkannten die oben auf der Böschung im Tannenhalbrund
-stehenden Marmorfiguren, wir sahen flüchtig ’wic
-eine Wissen den weiß gestrichenen kleinen Bootssteg, —
-kein Zweifel, — es war das Wortlaut.
+Wir erkannten die oben auf der Böschung im Tannenhalbrund
+stehenden Marmorfiguren, wir sahen flüchtig wie
+eine Vision den weiß gestrichenen kleinen Bootssteg, —
+kein Zweifel, — es war das Löcknitzhaus.
 
 Meine Gefährtin raunte mir unternehmungslustig zu:
-»Herr Schraut, hier gibt’s Lorbeeren zu ernten …! Dicke
+»Herr Schraut, hier gibt’s Lorbeeren zu ernten …! Die
 Gelegenheit wollen wir uns nicht entgehen lassen!«
 
 Anni Rummel war ein Prachtmädel, — aber eins
-überlassen wir, vergaß sie: Wir waren naß bis auf die
+übersahen wir, vergaß sie: Wir waren naß bis auf die
 Haut, das Gewitter hatte empfindliche Kühle gebracht, es
-hatte vorhin gelagert, der Sturm war eisig, und wir
+hatte vorhin gehagelt, der Sturm war eisig, und wir
 hatten den Grog in der Kajüte nicht umsonst getrunken.
 
 Anni schien mein Schweigen richtig zu deuten.
@@ -1473,79 +1469,79 @@ Anni schien mein Schweigen richtig zu deuten.
 Kleider finden, Herr Schraut … Welches Kellerfenster
 war’s doch — das dritte nach Osten zu?«
 
-»Ohr Gedächtnis bewundere im, Annichen … Also
-dann — vorwärts! Grafen wir die Lorbeeren …«
+»Ihr Gedächtnis bewundere ich, Annichen … Also
+dann — vorwärts! Ernten wir die Lorbeeren …«
 
 Ich half ihr die steile, nasse Böschung hinan. Sie
 sagte halb scherzend: »Es können auch saure Trauben werden,
 Herr Schraut … Schadet nichts! Sauer macht lustig.«
 
-Vater Zacharias war um dieses Mädel mit der unverwüstlicher
+Vater Zacharias war um dieses Mädel mit der unverwüstlichen
 Laune zu beneiden.
 
 <h2>6. Kapitel.</h2>
 
 <h3>Das warme Bett.</h3>
 
-… « « Drittes Kellerfenster nach Osten zu …
+… Drittes Kellerfenster nach Osten zu …
 
-Wir hatten eine Weile oder auf der Böschung gewartet
+Wir hatten eine Weile oben auf der Böschung gewartet
 und gehofft, das noch einer der Gefährten sich
 einfinden würde, dann waren wir vor einem erneuten
 eisigen Hagelschauer schleunigst der Villa zugeeilt, wobei
-wir uns freilich nicht nach? den Angaben der Schallplatte
+wir uns freilich nicht nach den Angaben der Schallplatte
 richteten. Wie sollten wir auch bei diesem Wetter
 und Dieser Finsternis den Hauptweg vermeiden?! Wo
-war hier Haupt« und Übermensch?! Wir kannten beide
-die Villa nur von der Wasserseite von gelegentliären
-Ausflügen nach Grünheide. Decken fiel sie ins Auge 1 her
-Schatten wirkte so märchenhaft anheimelnd, die .:… inräorsiguren,
-dunklen Tannen, Trauerweiden, Tische alte
-Platanen mit sonstigen Rind?, ein traulicher Zauberinsel
-mit Kordsesseln, dichte Büsche, dahinter ein helles Gebäude
-mit Türmchen und Andern und einem sauberen
-SäPiicserdaM?: Das war so der Eindruck von der Wassergrotte
-»er 621 Regnerisch ein.
+war hier Haupt- und Nebenweg?! Wir kannten beide
+die Villa nur von der Wasserseite von gelegentlichen
+Ausflügen nach Grünheide. Jedem fiel sie ins Auge, schon
+der Garten wirkte so märchenhaft anheimelnd, die Marmorfiguren,
+dunklen Tannen, Trauerweiden, dicke alte
+Platanen mit scheckiger Rinde, ein traulicher Laubenplatz
+mit Korbsesseln, dichte Büsche, dahinter ein helles Gebäude
+mit Türmchen und Erkern und einem sauberen
+Schieferdach: Das war so der Eindruck von der Wasserseite
+her bei Sonnenschein.
 
 <@pagebreak/>
 Jetzt war’s Nacht, und welch eine Nacht! Berlin
 und Umgegend hat selten ein Unwetter erlebt wie damals.
 
-Gewiß, — meine ausgelöschte Taschenlampe, die ich
+Gewiß, — meine wasserdichte Taschenlampe, die ich
 Hin und wieder einschaltete, zeigte uns zu unseren Füßen
 große Pfützen und gelben groben Kies … Vielleicht
-war’s der Hauptweg, den wir nicht benutzen sollten,
+war’s der Hauptweg, den wir *nicht* benutzen sollten,
 aber wir waren froh, als wir endlich an der Ostseite
-der Villa Das dritte Kellerfenster ’entdeäst und festgestellt
+der Villa Das dritte Kellerfenster entdeckt und festgestellt
 hatten, daß es das richtige sein mußte. Es war durch
 starke Eisengitter gesichert. Die Gitterstäbe waren jedoch
-nur lose in die Mauer eingebeult, und das Gitter ließ
-sich) als Ganzes herausheben. Anni kletterte als erste
-hinein, ich folgte, sie hatte jagen eine leere Kiste zurecht geschoben,
-damit ich da? Gitter bequem wieder einfügen
-sagte …
+nur lose in die Mauer eingedrückt, und das Gitter ließ
+sich als Ganzes herausheben. Anni kletterte als erste
+hinein, ich folgte, sie hatte schon eine leere Kiste zurecht geschoben,
+damit ich das Gitter bequem wieder einfügen
+könnte.
 
 Wir froren. Anni hatte ihre Sportkappe im Wasser
-eingebüßt, der blonde Bupikopf war zur traurigen, nassen,
+eingebüßt, der blonde Bubikopf war zur traurigen, nassen,
 strähnigen Perücke geworden, — zähneklappernd flüsterte
 sie: »Ich habe nur einen Wunsch — trockene Sachen!«
 
-»Dann fahren Sie schleunigst nach dem traten gelegten
+»Dann fahren Sie schleunigst nach dem trocken gelegten
 Amerika, dort sind alle Regenschirmhändler pleite
-und alle Likörglasfabrikanten …
+und alle Likörglasfabrikanten …«
 
 »Mäßig!« meinte die ehrliche Anni und wandte sich
 der Holztür dieses Kellerraumes zu. Ich fand, sie war
 hinsichtlich Kalauern ziemlich anspruchsvoll. — Die Tür
-war nur eingestürzt, wir kamen bei Taschenlampenbeleuchtung
+war nur eingeklinkt, wir kamen bei Taschenlampenbeleuchtung
 in einen Kellergang, wir erreichten die Treppe,
 die nach oben führte, — auch die eigentliche Kellertür war
-unverschlossen, und wir standen nun in einem läuserbelegten
+unverschlossen, und wir standen nun in einem läuferbelegten
 Hinterflur, in dem sich die Wärme Des heißen
 Junitages noch gehalten hatte. — Im Hause war alles
 totenstill. Nur draußen rumorte der Sturm, — Hagel
-Pritsche gegen die herabgelassenen Rolläden, Bäume
-knarrten, kreischend drehte sich oben auf dem Hauptarm
+peitschte gegen die herabgelassenen Rolläden, Bäume
+knarrten, kreischend drehte sich oben auf dem Hauptturm
 die Windfahne …
 
 <@pagebreak/>
@@ -1557,54 +1553,54 @@ Anni deutete auf die Pendelglastür:
 helfen. Aber mir?!«
 
 »Wäre es das erstemal, daß Sie Frauenkleider
-tragen — im denke nicht!« erwiderte sie prompt. »Vorwärts
+tragen — ich denke nicht!« erwiderte sie prompt. »Vorwärts
 also …!«
 
 Sämtliche Türen waren unverschlossen. Wir durchschritten
 die Zimmer, wir vermieden jedes Geräusch, aber
 hier im Erdgeschoß gab es nur Wohnräume, die behaglich,
-aber einfach) eingerichtet waren. In dem kleinen
+aber einfach eingerichtet waren. In dem kleinen
 Damensalon stand ein praktischer Schreibtisch, der nicht
 nur Zierstück war. Ich konnte dem Verlangen nicht widerstehen,
 die dort liegenden Zeitungen und Papiere flüchtig
-durch kühlstem, ich fand auch, wonach im suchte: Einen
-Zettel, der eine Lohnquittung Darstellte für Lady) Janes
+durchzublättern, ich fand auch, wonach ich suchte: Einen
+Zettel, der eine Lohnquittung Darstellte für Lady Janes
 letzte Köchin, von Mylady geschrieben, unterschrieben von
-einer ungeheuren Hand, — ich fand auch eine Unterschrift
+einer ungelenken Hand, — ich fand auch eine Unterschrift
 Lady Lavandys, und das, worauf es mir ankam,
 war nun zweifelsfrei festgestellt: Der Storchenzettel rührte
 auch von ihr her, — gewiß, die Handschrift war dort
 verändert worden, aber für ein kundiges Auge zeigten
-sich dennoch genügend Übereinstimmungen beider Erleichterten.
+sich dennoch genügend Übereinstimmungen beider Schriftarten.
 — »Jane Lavandy hat dem Storch den Zettel
-rum den Fuß befestigt,« raunte im Anni zu, die ungeduldig
+um den Fuß befestigt,« raunte ich Anni zu, die ungeduldig
 neben mir stand und meine Taschenlampe hielt.
 
-»Ja irren Sie sich,« meint? dieses eigenartige Mädel
-sehr kühl. »Den Zettel hat Fräulein »Gussow« »festigt,
+»Da irren Sie sich,« meinte dieses eigenartige Mädel
+sehr kühl. »Den Zettel hat Fräulein »Gussow« befestigt,
 nicht Lady Jane, — diese schrieb ihn freilich, aber Ihren
-Star Papa fing ’die andere ein und legte ihm den Verband
+Storchpapa fing die andere ein und legte ihm den Verband
 um. Vater und ich, Herr Schraut, sind schon seit
 Anfang Mai hinter den Nachtgespenstern her, und dieses
-unser Privatvergnügen zeitigte einige Erfolg?, unter anderem
-den einen, daß wir eines Karte einer voctahleiertn
+unser Privatvergnügen zeitigte einige Erfolge, unter anderem
+den einen, daß wir eines Nachts einer verschleierten
 <@pagebreak/>
 Frau bis Schmargendorf folgten, wo sie Ihre beiden
-Störche auf sehr: einsame Weise zähmte …«
+Störche auf sehr einfache Weise zähmte …«
 
 Ich starrte das Mädel sprachlos an. »Zähmte?!«
 
 »Ja — sie hatte eine Gaspatrone mit, sie betäubte
-die Störe, sie kletterte nach oben in das halb fertige
+die Störche, sie kletterte nach oben in das halb fertige
 Nest, — was sie dort tat, konnten Vater und ich freilich
-Pirat erkennen, sie blieb aber eine ganze Weile oben …
-Also bat sie den Verband dem Storch angelegt, sie,
+nicht erkennen, sie blieb aber eine ganze Weile oben …
+Also hat sie den Verband dem Storch angelegt, sie,
 von der wir leider nichts weiter wissen, denn diese Frau
 war ungeheuer schlau und vorsichtig. Aber Lady Jane
 war es bestimmt nicht, — die war einen Kopf größer
 und weit stattlicher in der Figur.«
 
-Ich war so vor den Kopf geschlagen, daß ich lebhaft;
+Ich war so vor den Kopf geschlagen, daß ich lebhaft
 vor mich hinmurmelte: »Allerdings, — der Verband
 fiel uns erst später auf … Weshalb aber schwiegen Sie
 in der Kajüte hierüber?!«
@@ -1612,29 +1608,29 @@ in der Kajüte hierüber?!«
 »Weil Vater und ich die Belohnung für uns allein
 haben wollten, — wir sind arm, Herr Schraut, Vaters
 kleine Pension und das mäßige Gehalt beim Globus reichen
-nicht hin noch her, und Kommerzienrat Putz hat doch
+nicht hin noch her, und Kommerzienrat Pütz hat doch
 wegen des Einbruchs in sein Landhaus, bei dem sämtliche
 Perser und alles Silber gestohlen wurden, zweitausend
 Mark ausgesetzt. Glauben Sie, Vater und ich
-aber nur aus Ehrgeiz all die Nächte geopfert?! Ich
+haben nur aus Ehrgeiz all die Nächte geopfert?! Ach
 nein! Das Geld lockte, Vater fehlt ein neuer Anzug, mir
 ein Sommerkostüm, unsere Wohnung ist erbärmlich, wir
-jenen uns nach einem Vorort hinaus … Es war eine
-bittere Enttäuschung für uns, als wir heute erfuhren.
+sehnen uns nach einem Vorort hinaus … Es war eine
+bittere Enttäuschung für uns, als wir heute erfuhren,
 daß Herr Harst die Nachtgespenster verscheucht hat …
-Denn nur diese haben die Villa Putz ausgeplündert — —
+Denn nur diese haben die Villa Pütz ausgeplündert —
 dort drüben in Woltersdorf … Trotzdem hoffen wir
 noch immer, Herr Schraut. Diese internationale Bande
-aufzuheben, — das dürft? noch mehr einbringen, und
+aufzuheben, — das dürfte noch mehr einbringen, und
 deshalb müssen Sie es mir nicht verargen, woran ich
-zu« hier so etwas für mein ei. jenes Dort arbeite.«
+auch hier so etwas für mein eigenes Konto arbeite.«
 
 <@pagebreak/>
 Sie blickte mich offen und frei an, und unwillkürlich
-streckte im; ihr die Hand hin.
+streckte ich ihr die Hand hin.
 
 »Unter diesen Umständen, Fräulein Anni, biete ich
-Ihnen in Haralds Namen dreitausend Mark für Ohre
+Ihnen in Haralds Namen dreitausend Mark für Ihre
 weitere Hilfeleistung.«
 
 »Oh — — wirklich?!« Ihr Gesichtchen strahlte.
@@ -1646,52 +1642,51 @@ wir konnten sie schon brauchen.
 »Wirklich, Fräulein Anni! Also — abgemacht! Was
 wissen Sie noch?!«
 
-»Saß ich … friere und zumindest einen ausgewachsenen
+»Daß ich … friere und zumindest einen ausgewachsenen
 Schnupfen bekommen werde … Später rede
 ich gern, — jetzt danke ich nur an trockene Sachen.«
 
 Ich blinzelte ihr zu. »Wie wär’s — da nebenan im
-Speisezimmer … so ein kleiner Einbruch) in das Büfett.
-sein?! Lady Jane so ganz ohne Alkohol ausgekommen
-ein?!«
+Speisezimmer … so ein kleiner Einbruch in das Büfett.
+Sollte Lady Jane so ganz ohne Alkohol ausgekommen
+sein?!«
 
 Das Büfett spendete uns jedem zwei Glas Portwein.
 Eine billige Sorte war es nicht. Im Gegenteil …
 
-Wie glühend? Lava rann uns der Wein ins Blut.
+Wie glühende Lava rann uns der Wein ins Blut.
 
 Dann schritten wir die Treppe empor, — und entdecken
-droben ein Schlafzimmer, das« uns viel zu raten
+droben ein Schlafzimmer, das uns viel zu raten
 aufgab.
 
-Als ich die Tür vorsichtig geöffnet ’- »te, drang
+Als ich die Tür vorsichtig geöffnet hatte, drang
 mir sofort zarter Parfümgeruch in die Nase. — Meine
 Nase ist gut. Besser als die Haralds. — Ich spürte außerdem
-noch etwas: Seen besonderen Duft, den ein brutales
+noch etwas: Jenen besonderen Duft, den ein *benutztes*
 Damenschlafgemach enthält …
 
-It: der Mitte an der rechten Wand stand ein breite«
+In der Mitte an der rechten Wand stand ein breites
 französisches Bett aus Kaukasisch-Nußbaum, auch die anderen
 Möbel waren genau so modern und elegant. —
 Das Bett war mit einer lilaseidenen Steppdecke belegt.
-Auf dem Frisiertisch mit den beiden drehbaren Seiten spiegeln
+Auf dem Frisiertisch mit den beiden drehbaren Seitenspiegeln
 lagen silberne Bürsten, standen silberne Flacons.
-
 <@pagebreak/>
-Den Boden verhüllte ein heller, dicker Smyrna, — Stich
+Den Boden verhüllte ein heller, dicker Smyrna, — auch
 hier waren die Vorhänge geschlossen und die Rolläden
 herabgelassen.
 
 »Schalten Sie das Licht ein, Fräulein Anni …«
 — Ich wollte die Batterie meiner Taschenlampe schonen.
 
-Ich ging zu dem NacdhhttisHhen und berührte die
+Ich ging zu dem Nachttischchen und berührte die
 Birne des Kipplämpchens.
 
 Die Birne war warm.
 
-Ist hob die Steppdecke ab, die etwas unordentlich
-ausgebreitet war, faßte unter das leichte Daunendedäbett.
+Ich hob die Steppdecke ab, die etwas unordentlich
+ausgebreitet war, faßte unter das leichte Daunendeckbett.
 
 Das Bett war warm …
 
@@ -1704,42 +1699,42 @@ Sie kam näher, prüfte auch ihrerseits die Bettwärme.
 
 »Sie haben recht,« nickte sie verwirrt. »Wer aber?!«
 
-»Lady Jane Lavandy!« sagte ich schlich.
+»Lady Jane Lavandy!« sagte ich schlicht.
 
 Anni senkte den Kopf. Sie machte ein bitter enttäuschtes
-Gesicht. »Auch den Triumph haben Sie mir nun
+Gesicht. »Auch *den* Triumph haben Sie mir nun
 abgenommen, Herr Schraut …« meinte sie widerwillig.
 »Vater und ich ahnten, daß nicht Lady Jane die Tote
-mit dem zerschmeotterten Kopf war, sondern nur die Köchin
-Worte Maierbach, die angeblich plötzlich gekündigt hat.
-Die Quittung unten auf doch Schreibtisch war »Marsch
+mit dem zerschmetterten Kopf war, sondern nur die Köchin
+Marie Maierbach, die angeblich plötzlich gekündigt hat.
+Die Quittung unten auf dem Schreibtisch war »Marie
 Maierbach« unterzeichnet. Die Polizei hat sich täuschen
 lassen, weil die Köchin sowohl Wäsche als auch Kleider
-Lady Jenes trug. Marie Maierbach Dieb sehr viel aus
-ihr Meuterei, hatte tadellos gepflegte Hände und genau
+Lady Janes trug. Marie Maierbach hielt sehr viel auf
+ihr Äußeres, hatte tadellos gepflegte Hände und genau
 so dunkelblondes Haar wie ihre Herrin, die ihr sicherlich
 die Kleidungsstücke geschenkt hatte. Vater und ich kannten
 Mylady von Ansehen sehr gut, und als die Tote geborgen
-wurde, waren wir mit dabei. Uns fiel auf, daß die Tische
-plumpe Stiefel trug und keinerlei Ringe an
-Fingern hatte, obwohl Jane Lavandy stets auf Dir«
+wurde, waren wir mit dabei. Uns fiel auf, daß die Tote
+plumpe Stiefel trug und keinerlei Ringe an den
+Fingern hatte, obwohl Jane Lavandy stets auf dem
 linken Mittelfinger einen eigentümlichen breiten Goldreif
 <@pagebreak/>
 mit drei Smaragden trug. Wir nahmen an, daß die
-Köchin abends mit dem Boot vielleicht nach dem Löädnitzsa
-löschen zum Tanz hinüberrudern wollte, — die Feinde
-Lady Jenes hielten sie bei dem starken Nebel für das
+Köchin abends mit dem Boot vielleicht nach dem Löcknitzschlößchen
+zum Tanz hinüberrudern wollte, — die Feinde
+Lady Janes hielten sie bei dem starken Nebel für das
 Auserkorene Opfer, rammten das Boot und glaubten Jane
-Lavandy getötet zu haben …
+Lavandy getötet zu haben …«
 
 »Genau dasselbe vermute ich,« sagte ich gedämpft.
-»Lady Jane und ihre Bootsleute »Gussow«, auch eine
+»Lady Jane und ihre Vertraute »Gussow«, auch eine
 sehr rätselhafte Person, kamen überein, die Polizei nicht
-über diesen Antun aufzuklären. So wurde Marie Maierbach
-beerdigt — als Lady Dame, — und diese wieder
-bat hier heute geschlafen, behütet von dem alten Fischer
+über diesen Irrtum aufzuklären. So wurde Marie Maierbach
+beerdigt — als Lady Jane, — und diese wieder
+hat hier heute geschlafen, behütet von dem alten Fischer
 Karl, der mit eingeweiht ist. — Ziehen Sie nun trockene
-Sachen an, ich geh? derweil hier im ersten Stoß ein
+Sachen an, ich gehe derweil hier im ersten Stock ein
 wenig Umschau halten …«
 
 Die übrigen Räume boten nichts Interessantes. Ich
@@ -1750,70 +1745,70 @@ haben mußte. Im Schrank hing alles, was ich brauchen
 konnte: Ein Anzug, ein Mantel, — — die Wäsche freilich
 fehlte.
 
-35) kehrte zu Anni zurück.
+Ich kehrte zu Anni zurück.
 
-Sie war bereits mit Umkleiden fertig, —. sie drehte
+Sie war bereits mit Umkleiden fertig, — sie drehte
 sich um, während ich nun meinerseits das nasse Zeug
 ablegte und in seidene Damenunterwäsche und viel zu
-enge Florstrümpf? schlüpfte. Der Chauffeuranzug gute
+enge Florstrümpfe schlüpfte. Der Chauffeuranzug paßte
 leidlich.
 
 Anni, diese treffliche Partnerin, hatte sich auf den
-Bettrand gesetzt, derweil ich sekundenlang vor dem Frisiertisch;
+Bettrand gesetzt, derweil ich sekundenlang vor dem Frisiertisch
 eine höchst lächerliche Figur spielte. Ein etwas
 korpulenter Herr unter Mittelgröße, angetan mit zarten
-Seidenes: flackern und einer spitzenbeseüten »Kombination«
-bildet durchaus kein ernststimmendes Dreisach5ild in den
-Striegeln einer großen Dame.
+Seidenschlüpfern und einer spitzenbesetzten »Kombination«
+bildet durchaus kein ernststimmendes Dreifachbild in den
+Spiegeln einer großen Dame.
 
 <@pagebreak/>
 Ich konnte mich nunmehr wieder ihr zuwenden, nachdem
-ich. die Ärmel und die Beinkleider der Berufstracht
+ich die Ärmel und die Beinkleider der Berufstracht
 etwa Dreißig Zentimeter umgekrempelt hatte. Mir war
 inzwischen ein neuer Gedanke gekommen, der unbedingt
-ans TDägeSsSlicht wollte, so undankbar er auch gegenüber
+ans Tageslicht wollte, so undankbar er auch gegenüber
 der Besitzerin dessen war, was ich unter dem Chauffeuranzug
 trug. Möglich, daß auch der Portwein das seinige
 zu diesem geistigen Galoppsprung beitrug.
 
 »Anni,« sagte ich mit tiefer Grabesstimme, an der
-wohl der nähende Schnupfen schuld war, »Anni, haben
-Sie und Ohr lieber Vater nachts nie daran gedacht, daß
+wohl der nahende Schnupfen schuld war, »Anni, haben
+Sie und Ihr lieber Vater nachts nie daran gedacht, daß
 immerhin die Möglichkeit besteht, daß Lady Jane und
-ihre rätselhafte Freundin mit den Nacghtgespenstern geineinsaite
+ihre rätselhafte Freundin mit den Nachtgespenstern gemeinsame
 Sache gemacht haben könnten, — das heißt
-also, daß wir vielleicht in. Lady Lavandy die wahre
+also, daß wir vielleicht in Lady Lavandy die wahre
 Leiterin der Sektion D. vor uns haben?!«
 
-Annis belustigtes Lächeln über meine Metamvbrphose
-Gewand im Nu. »Herr Gott … — auch das haben Sie
+Annis belustigtes Lächeln über meine Metamorphose
+schwand im Nu. »Herr Gott … — auch das haben Sie
 entdeckt!« rief sie klagend. »Vater sagte vorhin heimlich
 zu mir: »Kind, wir wissen, daß Lady Jane lebt, daß
-sie mit ihrem Beogräbnis einen ungeheuerlichen Betrug
+sie mit ihrem Begräbnis einen ungeheuerlichen Betrug
 in Szene gesetzt hat …! Kind, wenn sie nun Harst
-Lediglich durch; all diese Mätzchen, Storch, Schallplatte
-und Hinkenden, geblufft hätte und selbst eine Diebcesbciferin
+Lediglich durch all diese Mätzchen, Storch, Schallplatte
+und Hinkenden, geblufft hätte und selbst eine Diebeshelferin
 wäre?! Bedenke, ihre nächtlichen Wohltätergänge
-— gaben einen tadellosen Vorwand ab, gerade bei Dunkelheit
+gaben einen tadellosen Vorwand ab, gerade bei Dunkelheit
 hier und dort aufzutauchen! Sie verteilte Hunderte
 unter die Armen und stahl vielleicht Tausende von den
 Reichen!« — So sprach Vater, und nun hauen Sie in
 dieselbe Kerbe, Herr Schraut! Es ist entsetzlich! Es gibt
-dann seine Organisation Rapsom, alles das ist Schwindel,
+dann keine Organisation Rapsom, alles das ist Schwindel,
 es gibt nur eine Sektion D. hier in Berlin, wenn wir
 dieses Quartett so nennen wollen, — es gibt nur Lug
 und Trug und frechen Bluff, der lediglich Sie beide,
 die Polizei und uns auf eine falsche Fährte und ins Verderben
 <@pagebreak/>
 locken sollte! Denken Sie auch an die Mordversuche
-an Gurlitt und Plinz!!l Die wußten zu viel, — die
+an Gurlitt und Plinz!! *Die* wußten zu viel, — die
 sollten auch sterben!«
 
 Sie war völlig niedergedrückt, das arme Mädel,
-in deren jungem Gemüt Welt und Menschen drei wohl
-in Theater Verzerrung letzten!!
+in deren jungem Gemüt Welt und Menschen doch wohl
+in idealer Verzerrung lebten!!
 
-Ah setzte mich neben sie …
+Ich setzte mich neben sie …
 
 Wir schauten uns an … Wir waren beide reichlich
 verstört. Diese neueste Wendung der Dinge hatte uns
@@ -1822,40 +1817,40 @@ niedergeschmettert.
 Entsetzt fuhren wir mit einem grellen Schrei empor.
 
 Jemand hatte meine Wade berührt … nein —
-hineingelassen …
+hineingekniffen …!
 
 Entgeistert sahen wir, wie sich unter dem Bett ein
-
 nasser angegrauter Kopf hervorschob, — ein Mann in
 schwarzer Frauentracht …
-Harst]
+
+Harst!
 
 Er erhob sich, musterte uns eigentümlich und meinte:
-»So lag so schon warm in dem Bett und war nachts beim
-ersten Kapitel des ’ berühmten Kriegstagebuches: »Im
+»Ich lag so schön warm in dem Bett und war noch beim
+ersten Kapitel des berühmten Kriegstagebuches: »In
 der Latrine täglich Neues«, fünfhundertste Auflage, als
-die Blockes anschlug … bis dort oben, ein Alarmsignal
+die Glocke anschlug … die dort oben, ein Alarmsignal
 offenbar, das ihr ausgelöst habt, als ihr den Weg
 hierher fandet … — Entschuldigt, daß ich mich nicht
 meldete … Aber in diesem Kostüm schämte ich mich
 meiner zweifelhaften Berühmtheit. Sie brauchen nicht
 rot zu werden, Annichen, — ich lag mitten unter dem
-Bett mit dem Kopf nach der Wand zu … Ach sah nur
-drei Minuten lang Ihr? nahen Füßchen, und die kt :::n
-sich wirklich sehen lassen, Annichen. Im übrigen sind rot
+Bett mit dem Kopf nach der Wand zu … Ich sah nur
+drei Minuten lang Ihre nackten Füßchen, und die können
+sich wirklich sehen lassen, Annichen. Im übrigen sind drei
 Viertel Eurer Kombinationen verfehlt. Nur eins stimmt:
 Lady Jane lebt und Marie Maierbach wurde irrtümlich
 beseitigt. Die Organisation Rapsom existiert also, und von
-Flusse ist wirklich keine Rede.«
+Bluff ist wirklich keine Rede.«
 
 Ich schwieg erst. Dann sagte ich bestimmt: »Ich werde
 <@pagebreak/>
 den Portwein herausholen … Ich glaube, auch Anni hat
-eine Herzstärkung nötig. Deine Art Überraschungen, Lieder
-Harald, greisen die Nerven etwas an.«
+eine Herzstärkung nötig. Deine Art Überraschungen, Lieber
+Harald, greifen die Nerven etwas an.«
 
 <h2>7. Kapitel.</h2>
-<h3>»Mädchen, denen ich Küsse geraubt …«.</h3>
+<h3>»Mädchen, denen ich Küsse geraubt …«</h3>
 
 … Vor einiger Zeit hat mir der Sohn einer uns
 befreundeten Familie ein Geographiebuch gebracht, in dem
@@ -2189,7 +2184,7 @@ den Scherz, die Buchstaben in grellen Farben leuchten
 zu lassen. — Das Portal, dem Zugang zu einer Festung
 gleitend, gewährt Einblick in die hinter dem Hauptgebäude
 liegenden Höfe, Warenspeicher und zeigt Reihen
-von Lastautos, elektris!ch;E Aufzüge, große Shwingtkräne,
+von Lastautos, elektrische Aufzüge, große Shwingtkräne,
 eine elektrische Verladebahn, ein Menschengewimmel ohne
 gleichen, — — mir wurde doch etwas eigentümlich zumute,
 als ich diese großzügige Aufmachung gewahrte.
@@ -2223,7 +2218,7 @@ fallen stechenden Blick.
 
 Ich war auf jede Art geschäftlichen Aussprache gründlich
 vorbereitet. Ich hatte meine Rolle genau studiert, ich
-konnte selbst die knifflihsten Fragen getrost beantworten.
+konnte selbst die knifflichsten Fragen getrost beantworten.
 
 Mr. See Smith ging dann mich anmelden. Als er
 hinter der breiten Flügeltür verschwunden war, pochte
