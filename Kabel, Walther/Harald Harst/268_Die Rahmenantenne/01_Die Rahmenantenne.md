@@ -12,7 +12,7 @@ worden, spielt im übrigen auch kaum eine Rolle bei dieser
 verworrenen Geschichte, die anfänglich durchaus einem
 gänzlich verhedderten buntscheckigen Wollknäuel glich. —
 
-Man sollte ja eigentlich in solchen Falle die Dinge
+Man sollte ja eigentlich in solchem Falle die Dinge
 hübsch der Reihe nach erzählen und nicht gerade zuerst
 *den* Faden herausgreifen, der ausgerechnet über Tanger
 nach der am Atlantik gelegenen afrikanischen Großstadt
@@ -24,7 +24,7 @@ daraus eine moderne Großstadt und ein vielbesuchter
 Touristenort geworden — mit elektrischem Licht, Gas,
 Wasserleitung, Luxushotels, einer Feuerwehr mit Motorfahrzeugen,
 mit prachtvollen Läden, hinter deren Verkaufstischen
-zumeist Tunesier mit einem Fez von lächerlicher
+zumeist Tunesier mit einem Fes von lächerlicher
 <@pagebreak/>
 Winzigkeit auf dem geschäftstüchtigen Haupte die
 Kunden und das nimmermüde Telephon mit ausgesuchtester
@@ -45,7 +45,7 @@ fest und begrüßte das Wahrzeichen Casablancas, den
 auf einer Bastion erbauten hohen Uhrturm, mit erneutem
 Sirenengeheul.
 
-An der Reling lehnten mittschiffs drei Herren. Europäer,
+An der Reling lehnten mittschiffs drei Herren, Europäer,
 sonngebräunt, hell gekleidet, scheinbar Touristen.
 Ihre Pässe lauteten auf Schweizer Namen, aber sie
 sprachen leise miteinander in einem durchaus dialektfreien
@@ -69,7 +69,7 @@ was Verdächtiges, Harst?«
 — Und doch wette ich tausend gegen eins, daß die
 <@pagebreak/>
 Stephani-Bruderschaft uns längst aufs Korn genommen
-hat! Hier aus diesem schönen, bequemen Dampfer schienen
+hat! Hier auf diesem schönen, bequemen Dampfer schienen
 die Herrschaften allerdings nicht vertreten zu sein, —
 doch der Teufel traue unter diesen Umständen selbst
 der noch so blöde dreinschauenden englischen Miß! Ich
@@ -197,7 +197,7 @@ Höhe erhoben. Also — nichts für ungut, — es bleibt bei
 dem Titel …
 
 <@pagebreak/>
-… Als Egon von Croß, allerletzten des alten Geschlechts
+… Als Egon von Croß, allerletzter des alten Geschlechts
 der Freiherrn von Croß-Crossenstein, sich mit
 dem Gedanken einer Berliner Reise trug, hatte der Rentmeister
 des Gutes, achttausend Morgen, zumeist Sandboden
@@ -255,7 +255,7 @@ Kroll grinste behaglich. »Na — nischt für ungut, Herr
 Worauf Egon von Croß halb emporsprang und rief:
 »Harst?! Aus Berlin?!«
 
-»Nein. Herr Baron, — aus Stettin …«
+»Nein, Herr Baron, — aus Stettin …«
 
 Egon fiel aufseufzend in die Sofaecke zurück. »Ich
 glaubte schon, Sie wären … — aber das ist ja natürlich
@@ -526,7 +526,7 @@ an, — dann vielleicht …
 »Hm … ich verstehe nicht ganz,« sagte Croß ehrlich
 und langte zerstreut in die Zigarrenkiste, die ich ihm
 hinhielt. »Verbindlichsten Dank, Herr Schraut … —
-Entschuldigen Sie, Herr Harst, im bin wirklich nicht ganz
+Entschuldigen Sie, Herr Harst, ich bin wirklich nicht ganz
 im Bilde … Droschke … verfolgen?! Huß mit Spaten?!
 Das alles kommt mir zu plötzlich … zu …«
 
@@ -722,7 +722,7 @@ Er faßte in die Innentasche seiner blauen Jacke …
 
 Und fuhr hoch …
 
-»Herr Gott, … Der Umschlag mit der Postkarte
+»Herr Gott … Der Umschlag mit der Postkarte
 und den beiden Photographien ist weg …!!«
 
 Er suchte verzweifelt … Es änderte nichts an der
@@ -859,7 +859,7 @@ Schmutz von Wochen. Eingeknöpft in einen schäbigen Gehrock
 mit Seidenaufschlägen, die wie Spiegel glänzten, behaftet
 mit einem widerlichen Tabak- und Spirituosendunst,
 — nein, Doktor Stephani, Justizrat, Notar, paßte in die
-Heutige Zeit nicht mehr hinein. Irgendwo in Hinterpommern
+heutige Zeit nicht mehr hinein. Irgendwo in Hinterpommern
 hätte er vielleicht noch vor schlichten kritischen
 Blicken bestanden, für Berlin war er einfach unmöglich,
 er konnte kaum Praxis haben, denn er wirkte abstoßend
@@ -1048,7 +1048,7 @@ männliches Gesicht.
 
 »Und Sie?!« fragte er ablehnend.
 
-»Ich bin Harald Harst, — Sie trugen in Crossenstein
+»Ich bin Harald Harst. — Sie trugen in Crossenstein
 <@pagebreak/>
 denselben Mantel, denselben Hut. Dort hießen Sie
 Dieter Jelling … Und jetzt?!«
@@ -1228,7 +1228,7 @@ ihr, somit kann auch diese Hulda Arndt nicht Gefangenenwärterin
 gespielt haben … Nein, die Sachlage ist mir zu
 verworren …«
 
-Harald entgegnete leise: »Scheint verworren — j!&cint
+Harald entgegnete leise: »Scheint verworren — scheint!
 Isolde *war* eine Gefangene, — daß sie es jetzt leugnet,
 hat nichts auf sich, sie mag noch immer unter fremdem
 Einfluß stehen. Ich hätte nie geglaubt, Stephani bereits
@@ -1277,8 +1277,8 @@ Tradition meiner Familie widerspräche.«
 
 Elsholzstraße 78 war eines jener Gebäude, die noch
 zu einer Zeit entstanden waren, als man in besseren
-Miethäusern von Marmortreppen, Grotten mit Springbrunnen
-und ähnlichen Ausputz anbringen konnte. Des
+Miethäusern noch Marmortreppen, Grotten mit Springbrunnen
+und ähnlichen Ausputz anbringen konnte. Der
 Hauswart entstammte ebenfalls aus dieser Zeit einer
 gesicherten Währung, er trug einen Patriarchenbart und
 hatte ein humorvolles Blinzeln in den Augen.
@@ -1395,14 +1395,14 @@ genügten mir durchaus. — Als ihre Tante Hulda Arndt,
 geschiedene Frau Justizrat Stephani …«
 
 Harst hatte sich aufgerichtet. »Geschiedene Stephani?!
-— Nun wird die Sache noch dunkler!!« tief er dazwischen.
+— Nun wird die Sache noch dunkler!!« rief er dazwischen.
 
 »… als ihre Tante gestorben war, fand man ein
 Testament, das erst nach vier Monaten eröffnet werden
 sollte. Am Tage der Testamentseröffnung war Isolde
 in Berlin, und dieser Tag war der zwölfte November
 des Vorjahres, also zwei Tage nach Isoldes »Flucht«
-aus Crossenstein … Isoldes wurde Alleinerbin, übernahm
+aus Crossenstein … Isolde wurde Alleinerbin, übernahm
 die Wohnung in der Elsholzstraße, mietete neues
 Personal und … verreiste. Sie hatte mit Hulda Arndt-Stephani
 stets auf sehr schlechtem Fuße gestanden, und
@@ -1673,7 +1673,7 @@ als eine Spur seiner irgendwie verstümmelten Hände,
 Mr. Lücke. Der Mörder sprang von der hohen Mauer
 herab, fiel nach vorn auf die Hände, und in der Gartenerde
 und an einem scharfen Stein entdeckte ich die Spuren
-der erwähnen braunen Wildlederhandschuhe und« —
+der erwähnten braunen Wildlederhandschuhe und« —
 er zögerte ein wenig — »und die Anzeichen dafür,
 daß der linke Mittelfinger in dem Handschuh nur ausgestopft
 war.«
@@ -1883,7 +1883,7 @@ und für seinen guten Ruf …«
 
 Lücke schüttelte langsam den Kopf … »Es wäre unglaublich,
 — aber es wäre immerhin möglich … Huß
-als Verbündeten Stephanis, — das wäre ein feines Gespann!«
+als Verbündeter Stephanis, — das wäre ein feines Gespann!«
 
 »Ohne Zweifel!« sagte Harald plötzlich sehr ernst.
 
@@ -1919,7 +1919,7 @@ hörte ich, ließ die Sicherung seiner Pistole zurückschnellen.
 
 Ausgerechnet störten wir hier zwischen den hohen
 Mauern auch noch ein Katzenpaar auf … Sie flüchteten,
-— Lücke fluchte, Harst … sandte dreimal diskret aus,
+— Lücke fluchte, Harst … spuckte dreimal diskret aus,
 ich auch.
 
 Dann ein Stück Bohnenfeld, dahinter ein dunkles
@@ -2003,7 +2003,7 @@ diesen blonden höflichen Polizeichef,« erwiderte er zerstreut
 und streckte die linke Hand mit der Taschenlampe
 in die Kiste hinein. »Aha — doch Abfälle alter Filme,
 kurze Enden freilich, und nicht genügend, unbequeme
-Kater zu Bestien … — Gehen wir …«
+Kater zu ersticken … — Gehen wir …«
 
 »Na, etwas entdeckt?« fragte Lücke gelangweilt, als
 wir nun die Erdgeschoßräume durchschritten. Iomak-Bey
@@ -2077,7 +2077,7 @@ schalteten wir überall das Licht ein und begannen mit der
 Besichtigung des großen Zimmers, das Frau »Arndt«
 als Schlafraum gedient hatte. Neben dem Prachtbett stand
 ein Nachtschränkchen, auf der Marmorplatte ein Parfümzerstäuber,
-eine kleine Wasserkaraffe, noch half gefüllt,
+eine kleine Wasserkaraffe, noch halb gefüllt,
 ein Glas, ein Röhrchen mit Tabletten und ein Telephon.
 — Harst nahm das nur noch halb gefüllte Röhrchen und
 sagte zu Iomak: »Veronal, ein Schlafmittel, ein deutsches
@@ -2291,7 +2291,7 @@ Huß’ Taschenlampe blinkte über dieses Chaos hin.
 »Ein Riesenschrank, Baron!« meinte er kopfschüttelnd.
 »Hm — hier an der Rückseite, sehen Sie, zwei Löcherchen
 <@pagebreak/>
--… und Drahtenden … Das hier ist doch Antennenlitze,
+… und Drahtenden … Das hier ist doch Antennenlitze,
 Baron … Merkwürdig!«
 
 »Still!!«
@@ -2302,7 +2302,7 @@ Sie horchten … Und sie hörten — hörten ein Poltern
 … Stimmen — leise —, hörten Harsts klares
 Flüstern: »Noch ein Stück!«
 
-»Harst!« rief Egon von Croß jubz2lnd.
+»Harst!« rief Egon von Croß jubelnd.
 
 Ein dünner Lichtstrahl nun … ein Kopf …
 
@@ -2457,7 +2457,7 @@ befohlen hätte, damit der Betrug noch besser verschleiert
 würde, denn Ingenieur Karl Müller spielte in Casablanca
 eine große Rolle …«
 
-»Und gehörte mit zu der seinen Bruderschaft! Ja
+»Und gehörte mit zu der feinen Bruderschaft! Ja
 — er auch, damit du es weißt, — er schoß hier deinen
 Kunstmaler nieder, Thea, — — er!! Er spielte das große
 Spiel mit — pfui Teufel!! — Flieh’, sage ich dir, oder
@@ -2550,10 +2550,10 @@ den Baron zu erschießen suchte. Dieser Anschlag bewies
 mir, daß der Baron mit der angeblichen Isolde, die mir
 den Rohrpostbrief geschickt hatte, nicht zusammentreffen
 sollte, — Croß hätte sofort erkannt, daß es nicht *die*
-Isolde war, in die er sich verliebt hatte: — Und Ihre
+Isolde war, in die er sich verliebt hatte. — Und Ihre
 Bemerkung Lücke gegenüber von der »Bruderschaft Stephani«,
 Herr Justizrat, gab mir einen weiteren Wink.
-Noch hervor wir nach Casablanca abreisten, hatte ich in
+Noch bevor wir nach Casablanca abreisten, hatte ich in
 aller Stille ermittelt, daß Ihr Bruder mehrmals vorbestraft
 und zuletzt als Buchhalter bei Musir Omar tätig
 gewesen. Diese Stellung hat er schließlich dazu benutzt,
