@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">a678e15a-786b-4634-8081-6e74430335c6</entry>
+<entry key="title">Die Rahmenantenne</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">268</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Die Rahmenantenne
+
+Wie die Rahmenantenne nebst Zubehör — und hier ist »Zubehör« das wichtigere — damals nach Casablanca eingeschmuggelt wurde, ist nie völlig aufgeklärt worden, spielt im übrigen auch kaum eine Rolle bei dieser verworrenen Geschichte, die anfänglich durchaus einem gänzlich verhedderten buntscheckigen Wollknäuel glich. —
+
+Man sollte ja eigentlich in solchem Falle die Dinge hübsch der Reihe nach erzählen und nicht gerade zuerst den Faden herausgreifen, der ausgerechnet über Tanger nach der am Atlantik gelegenen afrikanischen Großstadt Casablanca führt. Immerhin bildet »Weiße Hütte« (Casa blanca) das Zentrum dessen, was uns eine Postkarte an netten Abenteuern bescherte. —
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (268) Die Rahmenantenne.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1929</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
