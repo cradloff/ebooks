@@ -141,7 +141,7 @@ hatte, damit »die Unterhaltung nebenan« ausgeschaltet
 würde.
 
 Das Zimmer war leer. Aber die Schiebetür nach
-der Bibliothek stand Halb offen …
+der Bibliothek stand halb offen …
 
 Auch dort niemand …
 
@@ -211,14 +211,14 @@ Auslöser ausschaltete und dann entschwand, ist dieselbe
 Braunäugige, die gestern hier war, als deine Mutter
 und Mathilde auf den Wochenmarkt gegangen waren,
 wo das Kalbfleisch pro Pfund fünfzehn Pfennige billiger
-Ist …«
+ist …«
 
 »Kohlköpfe sind dort auch billiger,« brummte Harald
 anzüglich.
 
 »Ich habe nur einen Kahlkopf, — jedenfalls kam
 die Dame gestern mit einem so unsinnigen Verlangen zu
-Uns, daß …«
+uns, daß …«
 
 Harst winkte ab. »Bitte, mäßige das Tempo. Du vergißt
 die Begleitumstände … Du schriebst in deinem
@@ -369,12 +369,12 @@ deswegen, weil ich bei der Mondscheinfahrt blieb.
 
 Ich bedauerte es aufrichtig, ihn derart geärgert zu
 <@pagebreak/>
-Haben. Er war ein Prachtkerl, er hatte seine kleinen
+haben. Er war ein Prachtkerl, er hatte seine kleinen
 Schrullen, aber er blieb einer der besten Kriminalkommissare
 vom Präsidium Berlin, — er machte nach keiner
 Seite hin Kotau, er war reich, war Jurist gewesen, war
 glücklich verheiratet, liebte sein Frauchen und seinen Beruf
-Über alles und hatte sich neuerdings in Zehlendorf eine
+über alles und hatte sich neuerdings in Zehlendorf eine
 kleine Villa zugelegt und buddelte genau wie wir in seiner
 freien Zeit im Garten und trug selbst beim Düngen seiner
 Gurken und Kürbisse das unvermeidliche Einglas.
@@ -397,7 +397,7 @@ den Gefängniswärter Frosch mimte.
 
 Ich legte die Platte auf, setzte das Grammophon in
 Gang und pfiff leise die mir so vertrauten Eingangstakte
-mit. Aber jäh brach ich ab — auch Die Musik, und an
+mit. Aber jäh brach ich ab — auch die Musik, und an
 Stelle des Walzers hörte ich eine knarrende, unangenehme
 Stimme im reinstem Londoner Englisch seltsame Dinge
 vortragen.
@@ -490,7 +490,7 @@ Tochter gewesen sein kann.«
 Der alte Herr nahm die Karte mit der linken Hand entgegen.
 
 »Da sind ja allerlei Flecken drauf!« stieß er ärgerlich
-Hervor. »Jane würde doch niemals eine so schmutzige Karte
+hervor. »Jane würde doch niemals eine so schmutzige Karte
 benutzt haben …! Wie sah die Dame denn aus?!« Seine
 Stimme klang jetzt merklich gereizt.
 
@@ -518,7 +518,7 @@ plötzlich so niederträchtig-höhnisch an, daß ich unklar
 irgendeinen ebenso niederträchtigen Streich vorausahnte.
 
 »Also Sie sind Herr Max Schraut, — fabelhaft interessant
-…!» meinte er trotzdem ganz harmlos und hob
+…!« meinte er trotzdem ganz harmlos und hob
 ein wenig sein Bambusrohr, so daß die Stockzwinge kaum
 ein Meter von meinem Gesicht entfernt war.
 
@@ -589,13 +589,13 @@ der neuesten Berliner Skandalzeitung,« meinte
 er genau so bedrückt wie vorhin. »Das Blatt hat ein Gutes:
 Es bringt keine Politik, sondern nur »Fälle« aus allen
 Gesellschaftsschichten. Dabei sind die Redakteure und Reporter
-nicht nur findige Köpfe, Sondern für Gegenwartsmenschen
+nicht nur findige Köpfe, sondern für Gegenwartsmenschen
 auch verhältnismäßig vornehm. Sie verschweigen
 zumeist die Namen und begnügen sich mit Andeutungen
 über Ort und Personen. Der Titel »Weltecho« ist allerdings
 <@pagebreak/>
 etwas anmaßend. Die Frau, die sich Gussow nannte
-und die gestern und Heute bei uns war, ließ das Blatt
+und die gestern und heute bei uns war, ließ das Blatt
 auf dem Sessel liegen, in dem sie zunächst Platz genommen
 hatte, — absichtlich ließ sie es liegen. Es ist so gefaltet,
 daß der betreffende Artikel mir ins Auge fallen mußte.
@@ -608,7 +608,7 @@ die für die Armen und Kranken ihrer Umgebung mehr
 getan hat, als bisher die Öffentlichkeit ahnte. Es handelt
 sich um die geschiedene Gattin eines englischen Aristokraten,
 um eine geborene Deutsche, die seit zwei Jahren
-eine der schönsten Willen am L.-Kanal bei E. bewohnte.
+eine der schönsten Villen am L.-Kanal bei E. bewohnte.
 Sie hat, wie nun bekannt geworden ist, ihren Reichtum
 dazu verwandt, in aller Heimlichkeit die Wohltäterin zu
 spielen. Tief verschleiert erschien sie regelmäßig dort,
@@ -714,7 +714,7 @@ Plinz und war nur deshalb zu uns gekommen, weil er
 einige Tatsachen mitteilen wollte, die er in seinem Artikel
 verschwiegen hätte — sagte er.
 
-Wir saßen im Wintergarten, Mathilde Hatte den
+Wir saßen im Wintergarten, Mathilde hatte den
 Kaffeetisch gedeckt, Frau Auguste Harst hatte sich in ihre
 oberen Räume zurückgezogen, und Armin Plinz, ahnungslos,
 daß die Lady uns bereits stark beschäftigte, sprach
@@ -734,10 +734,10 @@ dieses Unfalls, dem die beiden Finanzgrößen mit
 ihren Damen — nicht Frauen — und ein Chauffeur zum
 Opfer fielen. Ich zog den leider bereits toten Chauffeur
 <@pagebreak/>
-Heraus, ich alarmierte die Feuerwehr, ich verkaufte die
+heraus, ich alarmierte die Feuerwehr, ich verkaufte die
 Sensation an ein Berliner Morgenblatt, und von da an
 blieb mir das Glück treu. Mit meinem Rade gondelte ich
-durch die Straßen, in jedem Zigarrenladen Hatte ich eine
+durch die Straßen, in jedem Zigarrenladen hatte ich eine
 Nachrichtenzentrale, — vor vier Monaten bot mir das
 Weltecho die Stelle des Lokalredakteurs an, ich blieb
 jedoch Reporter, ich wollte frei sein, ich gab das Geheimnis
@@ -860,7 +860,7 @@ scheinbare Verfolgung … — Es ist ja nicht der erste
 Versuch sogenannter witziger Köpfe, mich aufs Glatteis
 zu führen. Ich lege alledem nicht die geringste Bedeutung
 bei, zumal der Hinkende mit Mitteln arbeitete, die bedauernswert
-Überaltert sind. Er nahm im übrigen nicht
+überaltert sind. Er nahm im übrigen nicht
 <@pagebreak/>
 nur die Schallplatte, sondern auch die Visitenkarte mit,
 auf der ich mehr zum Spaß einige Fingerabdrücke sichtbar
@@ -1001,7 +1001,7 @@ Kaffee, Pasteten bestellt … — die Sache macht sich … —
 »Ja … Wir treffen uns um zehn Uhr vor dem
 Bahnhof in Erkner. Lücke ist im übrigen durchaus im
 Bilde, was den Tod Lady Jane Lavandys und die
-beiden schwarzen Frauen angeht …
+beiden schwarzen Frauen angeht …«
 
 »So?!« Harald blickte auf seine Armbanduhr. »Halb
 fünf … Um halb sechs können wir bei dem Rechtsanwalt
@@ -1018,7 +1018,7 @@ war nicht im Bureau. Der Vorsteher sagte uns, er sei
 erkrankt, — wir müßten uns schon in die Privatwohnung
 bemühen.
 
-Dort trafen wir mit Gurlitts Arzt zusammen, Der
+Dort trafen wir mit Gurlitts Arzt zusammen, der
 uns im Flur leise erklärte, der Patient sei nicht mehr
 zu retten: Vergiftung, offenbar durch verdorbene Wurst.
 »Mir unverständlich,« meinte der Sanitätsrat trübe, »wie
@@ -1077,10 +1077,10 @@ verbinden.
 
 Der Beamte, der gestern nachmittag das Paket angenommen
 hatte, war gerade anwesend und erklärte,
-Ein älterer Herr habe für Schütz das Paket besorgt, der
+ein älterer Herr habe für Schütz das Paket besorgt, der
 Herr wohne wohl als Sommergast bei Schütz, — ja, es
 sei ein großer, hagerer Mann gewesen, aber gehinkt
-Hätte er nicht …
+hätte er nicht …
 
 <@pagebreak/>
 »Herr Sanitätsrat, benachrichtigen Sie die Polizei,«
@@ -1177,7 +1177,7 @@ wohnt der Maler Belter hier? Hat er ein Auto? Einen
 Chauffeur?«
 
 <@pagebreak/>
-»Ja, ja Er wohnt in der letzten kleinen Villa
+»Ja, ja … Er wohnt in der letzten kleinen Villa
 nach Woltersdorf zu … ganz allein …«
 
 »Dann … werden wir den Burschen sofort abfassen.
@@ -1187,7 +1187,7 @@ Wir eilten zur Polizeiwache.
 
 Eine halbe Stunde drauf war die Villa Belter umzingelt.
 In zwei Zimmern brannte Licht, da ein heraufziehendes
-Gewitter den Himmel völlig verfinstert Hatte.
+Gewitter den Himmel völlig verfinstert hatte.
 
 Aber — das Nest war leer …
 
@@ -1244,7 +1244,7 @@ können, bezweifle ich auch. Verwandte besitzt Lady
 Jane nicht mehr, mithin bleibt nur die Frau übrig,
 die sich Gussow nannte und die die Schallplatte und die
 Zeitung zu euch brachte und euch auf das Gichtbein des
-Starkes aufmerksam machte. — Wer ist diese Gussow?
+Storches aufmerksam machte. — Wer ist diese Gussow?
 Der einzige, der hierüber vielleicht Auskunft geben könnte,
 ist der alte Fischer Karl Marx, der Wächter des Löcknitzhauses.
 Gurlitts Personal weiß nichts von einer intimen
@@ -1342,9 +1342,9 @@ zurückblickt. — Betrachten wir nun den Inhalt des Befehls
 an Sektion D. Wir sehen hier dieselbe vorsichtige
 <@pagebreak/>
 Ausdrucksweise, deren sich auch Lady Lavandy befleißigte.
-Die Art der Ware Ist nicht genannt. Vielleicht handelt es
+Die Art der Ware ist nicht genannt. Vielleicht handelt es
 sich um Diamanten, natürlich um gestohlene oder sonstwie
-ergaunerte Steine, Vielleicht gibt sich die Organisation
+ergaunerte Steine, vielleicht gibt sich die Organisation
 mit Edelsteinschmuggel nach den Vereinigten Staaten ab,
 ein sehr einträgliches Geschäft. Befehl 5 ist am klarsten:
 »Das Haupt« verlangt, daß Sektion D. gewerbsmäßige
@@ -1491,7 +1491,7 @@ einfinden würde, dann waren wir vor einem erneuten
 eisigen Hagelschauer schleunigst der Villa zugeeilt, wobei
 wir uns freilich nicht nach den Angaben der Schallplatte
 richteten. Wie sollten wir auch bei diesem Wetter
-und Dieser Finsternis den Hauptweg vermeiden?! Wo
+und dieser Finsternis den Hauptweg vermeiden?! Wo
 war hier Haupt- und Nebenweg?! Wir kannten beide
 die Villa nur von der Wasserseite von gelegentlichen
 Ausflügen nach Grünheide. Jedem fiel sie ins Auge, schon
@@ -1508,11 +1508,11 @@ Jetzt war’s Nacht, und welch eine Nacht! Berlin
 und Umgegend hat selten ein Unwetter erlebt wie damals.
 
 Gewiß, — meine wasserdichte Taschenlampe, die ich
-Hin und wieder einschaltete, zeigte uns zu unseren Füßen
+hin und wieder einschaltete, zeigte uns zu unseren Füßen
 große Pfützen und gelben groben Kies … Vielleicht
 war’s der Hauptweg, den wir *nicht* benutzen sollten,
 aber wir waren froh, als wir endlich an der Ostseite
-der Villa Das dritte Kellerfenster entdeckt und festgestellt
+der Villa das dritte Kellerfenster entdeckt und festgestellt
 hatten, daß es das richtige sein mußte. Es war durch
 starke Eisengitter gesichert. Die Gitterstäbe waren jedoch
 nur lose in die Mauer eingedrückt, und das Gitter ließ
@@ -1537,7 +1537,7 @@ war nur eingeklinkt, wir kamen bei Taschenlampenbeleuchtung
 in einen Kellergang, wir erreichten die Treppe,
 die nach oben führte, — auch die eigentliche Kellertür war
 unverschlossen, und wir standen nun in einem läuferbelegten
-Hinterflur, in dem sich die Wärme Des heißen
+Hinterflur, in dem sich die Wärme des heißen
 Junitages noch gehalten hatte. — Im Hause war alles
 totenstill. Nur draußen rumorte der Sturm, — Hagel
 peitschte gegen die herabgelassenen Rolläden, Bäume
@@ -1564,7 +1564,7 @@ Damensalon stand ein praktischer Schreibtisch, der nicht
 nur Zierstück war. Ich konnte dem Verlangen nicht widerstehen,
 die dort liegenden Zeitungen und Papiere flüchtig
 durchzublättern, ich fand auch, wonach ich suchte: Einen
-Zettel, der eine Lohnquittung Darstellte für Lady Janes
+Zettel, der eine Lohnquittung darstellte für Lady Janes
 letzte Köchin, von Mylady geschrieben, unterschrieben von
 einer ungelenken Hand, — ich fand auch eine Unterschrift
 Lady Lavandys, und das, worauf es mir ankam,
@@ -1764,7 +1764,7 @@ Spiegeln einer großen Dame.
 <@pagebreak/>
 Ich konnte mich nunmehr wieder ihr zuwenden, nachdem
 ich die Ärmel und die Beinkleider der Berufstracht
-etwa Dreißig Zentimeter umgekrempelt hatte. Mir war
+etwa dreißig Zentimeter umgekrempelt hatte. Mir war
 inzwischen ein neuer Gedanke gekommen, der unbedingt
 ans Tageslicht wollte, so undankbar er auch gegenüber
 der Besitzerin dessen war, was ich unter dem Chauffeuranzug
@@ -1786,7 +1786,7 @@ entdeckt!« rief sie klagend. »Vater sagte vorhin heimlich
 zu mir: »Kind, wir wissen, daß Lady Jane lebt, daß
 sie mit ihrem Begräbnis einen ungeheuerlichen Betrug
 in Szene gesetzt hat …! Kind, wenn sie nun Harst
-Lediglich durch all diese Mätzchen, Storch, Schallplatte
+lediglich durch all diese Mätzchen, Storch, Schallplatte
 und Hinkenden, geblufft hätte und selbst eine Diebeshelferin
 wäre?! Bedenke, ihre nächtlichen Wohltätergänge
 gaben einen tadellosen Vorwand ab, gerade bei Dunkelheit
@@ -1858,7 +1858,7 @@ seltsame Dinge zu lesen sind. Man sollte es nicht für
 möglich halten, daß der Schuljugend amtlich ein so haarsträubenden
 Unsinn über fremde Länder verzapft wird.
 — In diesem »Lehrbuch« steht unter anderem über Marokko,
-daß Des Sultans Residenzstadt Fes sei, daß Seine
+daß des Sultans Residenzstadt Fes sei, daß seine
 braune Majestät die altorientalischen Sitten streng respektiert,
 sich in seinem Schlosse mit märchenhaft-veralteter
 Abgeschlossenheit von seinem Volke fernhalte, daß
@@ -1922,7 +1922,7 @@ Heimlichkeit gedrückt, waren für diesen Feldzug gegen
 die Firma Rapsom besser vorbereitet denn je. Mit unserem
 <@pagebreak/>
 Freunde Iomak-Bey, Leiter der hiesigen Kriminalpolizei,
-hatte ein lebhafter Austausch von Chiffrierten
+hatte ein lebhafter Austausch von chiffrierten
 Radiogrammen stattgefunden, dessen Folgen sich nun darin
 zeigten, daß unsere Koffer die Zollsperre uneröffnet
 passierten.
@@ -1951,7 +1951,7 @@ große Sache gegangen wäre, hätte ich in dieser Weise
 nie mitgemacht, Schrautchen. Aber es mußte sein.«
 
 Während Lücke noch futterte, pochte es drüben an die
-durch einen Schrank verstellte Verbindungstür Zu meiner
+durch einen Schrank verstellte Verbindungstür zu meiner
 Konkurrenz. Ich rückte den Schrank ab, entfernte den
 Vorhang, und Harst und ein blonder, hellhäutiger Gentleman,
 sowie ein zweiter gefärbter Araber traten ein:
@@ -1962,7 +1962,7 @@ Gepp sah noch echter als der lange Hans Lücke aus.
 Der blonde Eingeborene, in dem sich das Germanenblut
 der in Nordafrika vor vielen Jahrhunderten zurückgebliebenen
 <@pagebreak/>
-Vandalen siegreich erhalten Hatte, war Iomak
+Vandalen siegreich erhalten hatte, war Iomak
 Bey, der oberste der »Dschin Ibliß«, der Dämonen
 des Teufels, wie die Casablancaer Farbigen die Detektive
 nennen. — Kein Wunder, daß dem einfachen Volke die
@@ -2051,7 +2051,7 @@ denn doch nicht, Harstchen … Ich weiß Bescheid.«
 
 »Dann — schweigen Sie bitte,« meinte Harald sehr
 nachdrücklich. »Ich liebe es nicht, wenn jemand Früchte,
-die ich gepflückt Habe, vorzeitig verschenkt. Alles muß
+die ich gepflückt habe, vorzeitig verschenkt. Alles muß
 erst reif werden, lieber Gepp. Sie sind in dieser Hinsicht
 für die hohen Tiere vom Roten Alex auch kein angenehmer
 Früchtesammler, in dem Punkte gleichen wir uns.«
@@ -2161,7 +2161,7 @@ Imbißstätten mit leuchtenden Eisblöcken in den Fenstern
 (bei dreißig Grad Hitze, mit Hilfe elektrischer Kälteerzeuger!)
 — drüben an der alten Mauer, teilweise in diese
 <@pagebreak/>
-Hineingebaut, denn sie ist bis sieben Meter hoch: Verkehrsbüros,
+hineingebaut, denn sie ist bis sieben Meter hoch: Verkehrsbüros,
 Polizeiwache, Büro der Städtischen Omnibusse,
 Zeitungskioske, Zigarrenläden, auch eine Riesentafel, von
 bunten Glühbirnen umgeben, mit den Ankündigungen
@@ -2193,7 +2193,7 @@ Aber dann erinnerte ich mich an die Ereignisse in
 Berlin, an all die seltsamen Geschehnisse, an die Mordanschläge,
 an die Sektionsbefehle, und mit einem Schlage
 war ich wieder Herr meiner Nerven … Ich warf einen
-Blick auf den Musterkoffer, — — diesem Ungestüm entströmte
+Blick auf den Musterkoffer, — — diesem Ungetüm entströmte
 gleichfalls ein Wunderfluid von Kraft und Energie.
 
 Der arabische Pförtner trug meine Karte in das
@@ -2261,7 +2261,7 @@ verneigte mich vor Rapsom …
 
 Das war er also!!
 
-Als ich ihm in das greise Gesicht geschaut Hatte,
+Als ich ihm in das greise Gesicht geschaut hatte,
 war ich wieder Herrn meiner selbst. Er deutete auf einen
 Sessel neben dem Riesenschreibtisch (das Monstrum glich
 vollkommen dem im Vorzimmer) und rückte seine Brille
@@ -2331,14 +2331,14 @@ Vorhang der Schnurrbarthaare erkennen konnte.
 »… Sie haben dort eine Bekannte, Mr. Rapsom,
 — wenigstens hörte ich durch einen Postbeamten, daß
 Sie Lady Lavandy regelmäßig Geld senden,« — ich sagte
-das mit Etwas erhobener Stimme, ich hatte mir sehr viel
+das mit etwas erhobener Stimme, ich hatte mir sehr viel
 davon versprochen …
 
 Aber auch diese offene Attacke machte keinerlei Eindruck
 auf ihn.
 
 »So … so, Lady Lavandy,« meinte er nur. »Sie
-ist tot, stand in den Zeitungen, begraben. Sie Hatte
+ist tot, stand in den Zeitungen, begraben. Sie hatte
 Kapital in meine Firma gesteckt … Persönlich ist sie mir
 fremd, Mr. Schark.«
 
@@ -2515,7 +2515,7 @@ daß Lady Lavandy noch lebt, — als er erkannte, daß
 sein Stündlein geschlagen habe, schluckte er Gift … Es
 muß blitzartig gewirkt haben.«
 
-Vom Fenster her Gepps Ironische Stimme:
+Vom Fenster her Gepps ironische Stimme:
 
 »Weniger umständlich, Harst …! Sie spannen Ihre
 Hörer auf die Folter.«
@@ -2528,7 +2528,7 @@ ihn auf den Rücken.
 der Gatte Lady Janes …« erklärte er schlicht. »Er ist
 der wahre Chef der Firma, ist das Haupt der internationalen
 Mädchenhändlerbande. Er, einst ein Spieler,
-Trunkenbold und Wüstling, Gründete mit den Resten des
+Trunkenbold und Wüstling, gründete mit den Resten des
 Vermögens seiner Gattin die Firma Rapsom, indem er
 selbst dabei nur eine Nebenfigur spielte und einen taubstummen
 alten Diener seiner Familie als Strohmann vorschickte:

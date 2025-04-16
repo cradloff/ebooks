@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">e6619c45-532c-477e-9157-dae7b214bf8b</entry>
+<entry key="title">Die Nachtgespenster</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">269</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Die Nachtgespenster
+
+»Glaubst du an die vielgenannte »Duplizität von Ereignissen«?« fragte Harst drei Tage nach der Erledigung des Falles der Rahmenantenne morgens bei der Gartenarbeit.
+
+Er hatte den Spaten in die Erde gestoßen und betrachtete prüfend das lange Erdbeerbeet, das uns vier Jahre reife Früchte getragen hatte und nun dem Schicksal aller überalterter Erdbeerbeete zum Opfer gefallen war. Es war umgegraben worden. Es hatte diese Pietätlosigkeit nicht ruhig hingenommen, sondern uns an diesem drückend heißen Junimorgen so manchen Tropfen Schweiß entlockt.
+
+Haralds unvermittelte Frage gab mir Gelegenheit, gleichfalls die Arbeit zu unterbrechen. Er hatte den Blick von dem umgegrabenen Beet gehoben und schaute zu der Kastanie empor. Papa Storch war vorhin mit einem fetten Frosch im Schnabel heimgekehrt und stand jetzt auf zwei Beinen auf seinem Ast und klapperte laut und triumphierend.
+
+»Er bedankt sich,« meinte Harst lächelnd, bevor ich noch seine Frage beantworten konnte. Sein Lächeln besagte so allerlei. Ich blickte schärfer hin …
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (269) Die Nachtgespenster.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1929</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
