@@ -735,7 +735,7 @@ ihren Damen — nicht Frauen — und ein Chauffeur zum
 Opfer fielen. Ich zog den leider bereits toten Chauffeur
 <@pagebreak/>
 Heraus, ich alarmierte die Feuerwehr, ich verkaufte die
-Sensation an ein Berliner Motrgenblatt, und von da an
+Sensation an ein Berliner Morgenblatt, und von da an
 blieb mir das Glück treu. Mit meinem Rade gondelte ich
 durch die Straßen, in jedem Zigarrenladen Hatte ich eine
 Nachrichtenzentrale, — vor vier Monaten bot mir das
@@ -1857,276 +1857,272 @@ befreundeten Familie ein Geographiebuch gebracht, in dem
 seltsame Dinge zu lesen sind. Man sollte es nicht für
 möglich halten, daß der Schuljugend amtlich ein so haarsträubenden
 Unsinn über fremde Länder verzapft wird.
-— In diesem »Lehrbuch« steht unter anderem über Antreffe,
+— In diesem »Lehrbuch« steht unter anderem über Marokko,
 daß Des Sultans Residenzstadt Fes sei, daß Seine
 braune Majestät die altorientalischen Sitten streng respektiert,
 sich in seinem Schlosse mit märchenhaft-veralteter
-Abgeschlossenheit von seinem Wolke fernhalte, daß
-der wichtigste Hafen Tanger sei und die Metallenen nur
+Abgeschlossenheit von seinem Volke fernhalte, daß
+der wichtigste Hafen Tanger sei und die Marokkaner nur
 mit Datteln, Fellen, Feigen, Raritäten handeln und der
-Einfache moderner Ondustrieerzeugnisse ablehnend gegenüberstehen.
+Einfuhr moderner Industrieerzeugnisse ablehnend gegenüberstehen.
 
 Ich hätte diese Sätze schon in den vorigen Band
-Auflachen können, in dem ich meinen Freunden und
-Leichen in Tropen Umrissen ein Bild des Haupthafens
-Unreifes, Casablanca, zeichnete, — in dem ich diese
+einflechten können, in dem ich meinen Freunden und
+Lesern in groben Umrissen ein Bild des Haupthafens
+Marokkos, Casablanca, zeichnete, — in dem ich diese
 durchaus moderne Großstadt mit den geringen Mängeln
 ehrlich schilderte, die ein so rasches Aufblühen notwendig
-zur Folge hat. oh erwähnte die Hafenanlagen, die Prachtstraße,
-die alt? Mauer, die Luxushotels, die Feuerwehr,
-Las, Wasser, Elektrizität, Autos, Autobusse, Telephon,
+zur Folge hat. Ich erwähnte die Hafenanlagen, die Prachtstraße,
+die alte Mauer, die Luxushotels, die Feuerwehr,
+Gas, Wasser, Elektrizität, Autos, Autobusse, Telephon,
 Radiostation, Kinos, Jazzmusik und die etwas knappen
 Hydranten und die zerschnittenen Schläuche, die bunten
-Kinox’afate unten am Uhrturm, die Verkehrspolizei. die
+Kinoplakate unten am Uhrturm, die Verkehrspolizei, die
 <@pagebreak/>
 eleganten Europäerviertel … Vieles andere streifte ich
 noch — streifte, denn ich schreibe keine Reiseschilderungen,
-ich bringe nur das, wüst in das Gesamtbild hineingehört.
+ich bringe nur das, was in das Gesamtbild hineingehört.
 
-Der Sultan hat seine Residenz in Rabat, Herr LehrtbucrßjHreiber,
+Der Sultan hat seine Residenz in Rabat, Herr Lehrbuchschreiber,
 er ist ein durchaus moderner Monarch,
 der im Auto durch sein Land saust. — Autos, Maschinen
-und allermodernste sonstige Ondustrieerzeugnisse werden in
-Casablanca, dem wichtigsten Hafen der ganzen Noxrdwsostfüste
-Afrikas, täglich ausgeladen, Radioapparate weiden
-neuerdings eifrig begehrt, der Sultan hat das Professoren
-über eine vielseitige Ausstellung landwirtschaftlichen Maschinen
+und allermodernste sonstige Industrieerzeugnisse werden in
+Casablanca, dem wichtigsten Hafen der ganzen Nordwestküste
+Afrikas, täglich ausgeladen, Radioapparate werden
+neuerdings eifrig begehrt, der Sultan hat das Protektorat
+über eine vielseitige Ausstellung landwirtschaftlicher Maschinen
 übernommen, — er trägt zwar Landestracht, aber
-im Übrigen …
+im übrigen …
 
 Dieses Casablanca sah uns nun im Verlauf von
 vier Wochen zum zweiten Male.
 
 Nicht uns allein. Und doch auch nicht uns. Die Herren,
 die an einem glühend heißen Julitage dort landeten, sahen
-uns etwa so schottisch wie Mussolini einem Republikanr
+uns etwa so ähnlich wie Mussolini einem Republikaner
 vom Nordpol.
 
-Es waren zwei Lernen, die sich offenbar nicht näher
+Es waren zwei Herren, die sich offenbar nicht näher
 kannten, die in all dem Höllenlärm am Kai keine Notiz
 voneinander nahmen und deren Riesenmusterkoffer den
-Reklameaufdruä bekannter Großfirmen der Beleuchtungsindustrie
+Reklameaufdruck bekannter Großfirmen der Beleuchtungsindustrie
 trugen — also Konkurrenten.
 
 Außerdem war da noch ein älterer vornehmer Herr
-mit einer Begleiterin, die eine schlich aufgemachte Pflegerintracht
-diesem farbigen und weißen Bölkergewimme! zeigte.
-Araber, Mauren, Tuaregs aus der Wüste, würdevoll:
-Marokko-Juden, Chinesen, Mischlinge, Neger, Liest.1-
-bitten, — — — in Casablanca findet man jede Rasse, jedes
+mit einer Begleiterin, die eine schick aufgemachte Pflegerintracht
+diesem farbigen und weißen Völkergewimmel zeigte.
+Araber, Mauren, Tuaregs aus der Wüste, würdevolle
+Marokko-Juden, Chinesen, Mischlinge, Neger, Riffkabylen,
+— — in Casablanca findet man jede Rasse, jedes
 Volk vertreten.
 
 Wir hatten daheim in Berlin nach altem Rezept
-Stellvertreter zurückschaffen, hatten uns nachts in aller
+Stellvertreter zurückgelassen, hatten uns nachts in aller
 Heimlichkeit gedrückt, waren für diesen Feldzug gegen
 die Firma Rapsom besser vorbereitet denn je. Mit unserem
 <@pagebreak/>
 Freunde Iomak-Bey, Leiter der hiesigen Kriminalpolizei,
-hatte ein lebhafter AustausQ von Chiffrierten
+hatte ein lebhafter Austausch von Chiffrierten
 Radiogrammen stattgefunden, dessen Folgen sich nun darin
 zeigten, daß unsere Koffer die Zollsperre uneröffnet
 passierten.
 
-Getrennt fuhren wir zum feudalen Excelsior- Hotel
+Getrennt fuhren wir zum feudalen Excelsior-Hotel
 am Großen Platz. Freudig begrüßte ich die alte, uralte
 Stadtmauer, die Europäer und Eingeborene trennt. Weniger
 freudig schaute ich nach den Brandruinen der Villa
-Oman aus. Oman war tot. Friede seiner Asche.
+Omar aus. Omar war tot. Friede seiner Asche.
 
-Im Excelsior nahm im zwei Zimmer im ersten Stock.
-Daß mein Konkurrent die Nebenzimmer … belegte, störte
+Im Excelsior nahm ich zwei Zimmer im ersten Stock.
+Daß mein Konkurrent die Nebenzimmer belegte, störte
 mich nicht. Mein Musterkoffer wurde ins Schlafzimmer
-geschleppt, ich lachte, frühstückte, bedeutete nachher doch
+geschleppt, ich badete, frühstückte, bedeutete nachher dem
 Kellner, daß ich schlafen wolle, schloß die Türen ab,
 verhängte die Schlüssellöcher und öffnete den Koffer. Ihm
-entstieg ein etwas stark durchgerüttelter Maule in vornehmen
-Tracht. Das einzig?, das zu diesem gut gefärbten
-Heimritt paßte, war das Monokel.
+entstieg ein etwas stark durchgerüttelter Maure in vornehmer
+Tracht. Das einzige, das zu diesem gut gefärbten
+Herrn paßte, war das Monokel.
 
 Lücke reckte und dehnte sich, musterte den Frühstückstisch
 und nahm Platz. »Ich bin wie gekocht,« meinte er.
-»So poetisch der Koffer auch hergerichtet ist, — es weilt
+»So praktisch der Koffer auch hergerichtet ist, — es war
 kein Vergnügen. Wenn’s nicht gerade um diese ganz
 große Sache gegangen wäre, hätte ich in dieser Weise
-nie mitsamt … « Schränkchen. Aber es mußte sein.«
+nie mitgemacht, Schrautchen. Aber es mußte sein.«
 
-Während Lücke noch zitterte, pochte es drüben an die
+Während Lücke noch futterte, pochte es drüben an die
 durch einen Schrank verstellte Verbindungstür Zu meiner
-Konkurrenz. Ich Küste den Schrank ad, entfernte den
-Vorhang, und Harst und ein blonder, hellhäutigen Gestirnen,
-solche ein zweiter gefärbter Araber traten oft:
-Der Insasse von Haralds Musterkoffer, mit ungesärb;cin
-Namen Alarich Gepp, Berlin, — vom Noten Alex.
-Gepp sah noch eher als der lange Hans Lücke als.
+Konkurrenz. Ich rückte den Schrank ab, entfernte den
+Vorhang, und Harst und ein blonder, hellhäutiger Gentleman,
+sowie ein zweiter gefärbter Araber traten ein:
+Der Insasse von Haralds Musterkoffer, mit ungefärbtem
+Namen Alarich Gepp, Berlin, — vom Roten Alex.
+Gepp sah noch echter als der lange Hans Lücke aus.
 
 Der blonde Eingeborene, in dem sich das Germanenblut
-der in Nordafrika vor vielen Jahrhunderten seitlich
+der in Nordafrika vor vielen Jahrhunderten zurückgebliebenen
 <@pagebreak/>
-gebliebenen Sandalen sogleich erhalten Hatte, war Iomak
-Bey, der böseste der »Diebin Abriß«, der Dämonen
+Vandalen siegreich erhalten Hatte, war Iomak
+Bey, der oberste der »Dschin Ibliß«, der Dämonen
 des Teufels, wie die Casablancaer Farbigen die Detektive
-nennen. — Kein Wunder, daß dem einfachen Wolke die
+nennen. — Kein Wunder, daß dem einfachen Volke die
 modernen Polizeimethoden abergläubischen Schrecken einflößen.
-Iomak war’s, der in der Stadt eine Fingerabdruckkfartotheft,
-ein Vebrecheralbum und vieles andere einführte.
+Iomak war’s, der in der Stadt eine Fingerabdruckkartothek,
+ein Verbrecheralbum und vieles andere einführte.
 Die Schnelligkeit, mit der diese mustergültige Kriminalpolizei
 eines Landes, das im »Lehrbuch« so etwa als
 halbfinsteres Innerafrika geschildert ist, die Gauner und
-Bösewichte fängt, hat ihr den Ehrentitel »Berlin Abriß«
+Bösewichte fängt, hat ihr den Ehrentitel »Dschin Ibliß«
 eingetragen.
 
-Allgemeines Händeschütteln — vorsichtiges lüstern,
+Allgemeines Händeschütteln — vorsichtiges Flüstern,
 — dann nahmen wir Platz, und Iomak erstattete, etwas
 mißmutig an seiner Zigarre saugend, Bericht über die
-Großfirma Rapsom wackeren Inhaber Sohn Gottorpp
+Großfirma Rapsom und deren Inhaber John Gottorpp
 Rapsom.
 
 »Meine Herren, — Sie sind da zweifellos auf dem
-Holzwege … Rapsom ist einwandfrei …
+Holzwege … Rapsom ist einwandfrei …«
 
-Er wurde zum warmen VBeorieidiger des bejahrten
-Engländers, der hier seit sechs Jahren ein Uns: hernehmen
-leitete, das jeden Industriezweig erfaßt?, dem das einzige
-Warenhaus der Stadt gehörte, ein — Goschäftspalast von
+Er wurde zum warmen Verteidiger des bejahrten
+Engländers, der hier seit sechs Jahren ein Unternehmen
+leitete, das jeden Industriezweig erfaßte, dem das einzige
+Warenhaus der Stadt gehörte, ein Geschäftspalast von
 fünf Stockwerken, — das Straußenfarmen besaß, das große
-Summen für gemeinnützige Zwecke Stricke … — Wenn
+Summen für gemeinnützige Zwecke stiftete … — Wenn
 ein Mann wie Iomak Bey derart für eine Firma eintrat,
-konnte es auf unserer Seite nur lange Gesichter gab: …
+konnte es auf unserer Seite nur lange Gesichter geben.
 
-Gepp, der glänzendste Kriminalist von Spree.-:Ösen,
+Gepp, der glänzendste Kriminalist von Spreeingen,
 streichelte bedenklich sein Riechorgan. »Kinder, sollte …«
 und er schaute Harst vorwurfsvoll an …
 
 Harst sagte leise, aber bestimmt: »Ich habe Beweise!«
 
-Verschiedene Augenpaare hingen an seinen künstlich bärtigen
+Verschiedene Augenpaare hingen an seinen künstlich-bärtigen
 Lippen und an seiner schwarzen Intelligenzbrille.
-»»Ich habe untrügliche Beweise,« wiederholte er. »Als
+»Ich habe untrügliche Beweise,« wiederholte er. »Als
 wir damals in der Villa Lavandy am Löcknitzkanal waren,
 <@pagebreak/>
-als ich vor Schraut und Anni dort eindrang, allein v«
-ihnen das Schlafzimmer betrat,« — Kunstpause — »ra
+als ich vor Schraut und Anni dort eindrang, als ich vor
+ihnen das Schlafzimmer betrat,« — Kunstpause — »da
 fand auch ich die Birne der Nachttischlampe und das Bett
 warm … Es hatte dort jemand geschlafen, natürlich
-Lady ans, die Totgeglaubte. Die Alarmglocke hatte sie
+Lady Jane, die Totgeglaubte. Die Alarmglocke hatte sie
 gewarnt, sie war geflüchtet. Die Alarmglocke muß mit
 sämtlichen Türen und Fenstern, Dachluken und Dachfenstern
 in Verbindung gestanden haben, mit Kellergittern und
-Vorhaben. Lady Jane durfte sich also ganz sicher fühlen.
+Rolläden. Lady Jane durfte sich also ganz sicher fühlen.
 Als sie vor mir flüchtete — wohin, weiß ich nicht, denn
 wir haben ja weder sie noch die »Gussow« finden können
 —, vergaß sie die Alarmglocke auszuschalten. So wurde
 ich vor euch beiden gewarnt, mein lieber Alter, — in dem
 Bett habe ich nie gelegen, mich nur umgezogen, kroch
 unter das Bett und schaltete meine Taschenlampe ein, da
-ich mich wunderte, daß das Bett unten nicht wie losließ
+ich mich wunderte, daß das Bett unten nicht wie üblich
 Matratzen, mit Stoff überspannt, sondern eine Verkleidung
 von dunkel gebeiztem Sperrholz hatte …«
 
 »Oller Geheimniskrämer!« murmelte Lücke erbost.
 
 Harst ließ sich nicht stören. »Als wir dann die Villa
-durch suchten, als ihr unten im Dachgeschoß wart und
+durchsuchten, als ihr unten im Dachgeschoß wart und
 ich mich abgesondert hatte, warf ich alle Betten heraus
 und kippte die Doppelmatratze hoch. So fand ich ein niederes,
-Ader ausgedehntes Geheimfach, in dem eine ganze
+aber ausgedehntes Geheimfach, in dem eine ganze
 Menge eigenartiger Dinge versteckt waren, unter anderem
-auch vier Schallplatten mit Sektionäöbesehlen …«
+auch vier Schallplatten mit Sektionsbefehlen …«
 
-Alarich Gepp. jetzt vornehmer Araber wie Lüge,
+Alarich Gepp, jetzt vornehmer Araber wie Lücke,
 grinste triumphierend. »Deshalb hat er auch das kleine
-Krfsergrammophon in meinen Behälter mit verstaut!
+Koffergrammophon in meinen Behälter mit verstaut!
 Aber so ganz auf den Kopf gefallen sind wir doch nicht,
-Bartlosen. Die vier Schallplatten hatten Sie ja sehr sorgfältig
-unter dem Futter meines zeitweiligen Reisetasche
+Harstchen. Die vier Schallplatten hatten Sie ja sehr sorgfältig
+unter dem Futter meines zeitweiligen Reisekäfigs
 verborgen … Man muß sich doch Zerstreuung schaffen.
-IJ habe die Platten aufgelegt … Die erste begann mit
+Ich habe die Platten aufgelegt … Die erste begann mit
 der Lysistrata-Ouvertüre von Paul Linke und ging dann
 <@pagebreak/>
 in den Sektionsbefehl über … Die drei anderen waren
-scheinbar Gassenhauer, die eine trug den Ausdruck:
-»Mädchen, denen im Küsse geraubt … — Er blickte
-
+scheinbar Gassenhauer, die eine trug den Aufdruck:
+»Mädchen, denen ich Küsse geraubt …« — Er blickte
 Harald scharf an. »Nein, so ganz dumm ist der alte Gepp
-denn da nicht, Beistehen … In »weiß Bescheid.«
+denn doch nicht, Harstchen … Ich weiß Bescheid.«
 
-Dann — schweigen Sie bitte,« meinte Harald sehr
-nachGdrüdlih. »Ich liebe es nicht, wenn jemand Früchte,
+»Dann — schweigen Sie bitte,« meinte Harald sehr
+nachdrücklich. »Ich liebe es nicht, wenn jemand Früchte,
 die ich gepflückt Habe, vorzeitig verschenkt. Alles muß
 erst reif werden, lieber Gepp. Sie sind in dieser Hinsicht
 für die hohen Tiere vom Roten Alex auch kein angenehmer
 Früchtesammler, in dem Punkte gleichen wir uns.«
 
-Lücke zog die vornehme Nase kraus. »Alter, wir
+Lücke zog die vornehme Nase kraus. »Also, wir
 werden ausgeschaltet, Iomak und Schraut, wir drei …!
-
-Von mir. aus — — schnuppe! Ich habe Geduld. — Was
-fanden Sie noch, Harst?« —
+Von mir aus — — schnuppe! Ich habe Geduld. — Was
+fanden Sie noch, Harst?«
 
 »Mappen mit Zeitungsausschnitten … Und diese
 Ausschnitte paßten zu dem Gassenhauer »Mädchen, denen
-ich Küsse geraubt … —. Sie paßten so genau, daß
-keinerlei Zweifel mehr ’auffoininen konnten …
+ich Küsse geraubt …« — Sie paßten so genau, daß
+keinerlei Zweifel mehr aufkommen konnten …«
 
-»zweierlei — worüber?!« warf Tür »gähnend ein.
-
+»Zweifel — worüber?!« warf Lücke gähnend ein.
 »Wenn Sie nicht antworten wollen, Harst, — — von mir:
-Geschenkt!«
+geschenkt!«
 
-Format-Bey, durchaus moderner »Gentleman, meinte
+Iomak-Bey, durchaus moderner Gentleman, meinte
 beschwichtigend: »Wir wollen das Kombinationsschloß von
 damals nicht vergessen, Mr. Lücke. Ohne Harst wären
-wir gegen unseren Willen feucrubestattet worden — kein
+wir gegen unseren Willen feuerbestattet worden — kein
 angenehmer Tod.«
 
-»Dies stimmt …« Lücke lächelte nachsichtig. »Die
+»Das stimmt …« Lücke lächelte nachsichtig. »Die
 Zeitungsausschnitte können nur jene Annoncen gewesen
-sein, die die Sektion D. zweckmäßiger entwerfen … Alte.
-Auch) ich bin nicht so ganz auf »den Korn gefallen …! —
+sein, die die Sektion D. zweckmäßiger entwerfen sollte.
+Auch ich bin nicht so ganz auf den Kopp gefallen …! —
+Was fanden Sie noch, Harst?«
 
-Was fanden Sie noch, Harst? ist?
-
-»Rostanweisungsabi&niite über Geldsendungen an
-Lady: Jane — eine Ganze Menge. Jane Lavandy hat hierüber
-und über ihr: Spenden genau Buch geführt. Sie hat
+»Postanweisungsabschnitte über Geldsendungen an
+Lady Jane — eine Ganze Menge. Jane Lavandy hat hierüber
+und über ihre Spenden genau Buch geführt. Sie hat
 <@pagebreak/>
 nie ein Millionenvermögen besessen, sondern stets nur
-Sei dzuwendungen hier aus Casablanca erhalten von der
-Firma Sohn So. Rapsom, erhebliche Beträge.«
+Geldzuwendungen hier aus Casablanca erhalten von der
+Firma John G. Rapsom, erhebliche Beträge.«
 
-Tür pfiff leise durch die Zähne. »Also so läuft di
+Lücke pfiff leise durch die Zähne. »Also so läuft der
 Hase!! Sollten dann Zacharias Rummel, Vater und
 Tochter, nicht doch das Richtige getroffen haben?!«
 
-Alarich Gepp mehrere höhnisch: »Und ob sie das
-Richtige getroffen haben!! Bater’ und Tochter sind verdammt
-helle … — Ich denke, wir beenden dieses Geladen.
+Alarich Gepp meckerte höhnisch: »Und ob sie das
+Richtige getroffen haben!! Vater und Tochter sind verdammt
+helle … — Ich denke, wir beenden dieses Palaver.
 Es bleibt bei unserem Programm … Schraut
 besucht als Vertreter der Glühlampenfabrik Nordstern
-Punkt zwölf mit seinem Musterköffer&en Mr. Sohn Es.
-Person, »zehn Minuten später läßt sich der Konkurrent
+Punkt zwölf mit seinem Musterköfferchen Mr. John G.
+Rapsom, zehn Minuten später läßt sich der Konkurrent
 von der Firma Osram melden, zehn Minuten darauf erscheinen
-wir anderen … — ’Sagen Sie mal, Mr. 39-
-mal, Sie schilderten vorhin »den alten Rapsom als ein
+wir anderen … — Sagen Sie mal, Mr. Iomak,
+Sie schilderten vorhin den alten Rapsom als ein
 Original erster Güte … Der Mann läßt sich also nur
-in seinem Büro sprechen, »pflegt keinerlei Verkehr und lebt
+in seinem Büro sprechen, pflegt keinerlei Verkehr und lebt
 ganz einsam in einer Villa am Strande …«
 
-Der oberste der »Berlin Abriß« nickte … »Er hat
+Der oberste der »Dschin Ibliß« nickte … »Er hat
 einen ausgewachsenen Spleen, aber er ist ein glänzender
 Geschäftsmann. In dem Vorzimmer seines Büros sitzt
 sein Sekretär und Diener und Haushofmeister, auch ein
-Engländer, — ein groben Kerl, — der bewacht seinen
+Engländer, — ein grober Kerl, — der bewacht seinen
 Herrn, der läßt niemand so leicht vor. Wenn ich’s mir
-recht überlege: Etwas eigentümliche Gebräuche herrichten
+recht überlege: Etwas eigentümliche Gebräuche herrschen
 bei der Firma! Dieser Diener-Sekretär ist auch Koch,
 Chauffeur, Prokurist … Ich weiß nicht, was er alles
-ist … Der Mann heißt So? Smith und soll für Trinkgelder
-zugänglich) sein … Merken Sie sich das, Mr.
-Harst, und Sie als Konkurrent erst recht, Mr. Braut.«
+ist … Der Mann heißt Joe Smith und soll für Trinkgelder
+zugänglich sein … Merken Sie sich das, Mr.
+Harst, und Sie als Konkurrent erst recht, Mr. Schraut.«
 
-Gepp feixte zu ehemals letzter Äußerung wie ein
-Oktoberfußs. »Gilt das Schmiergelder-Ne! men hier bei
+Gepp feixte zu Iomaks letzter Äußerung wie ein
+Oktoberfuchs. »Gilt das Schmiergelder-Nehmen hier bei
 Ihnen etwa für unmoralisch, Iomak-Bey?! Dann sind Sie
 kein moderner Staat. Bei uns nimmt man im Vorzimmer,
 <@pagebreak/>
@@ -2141,50 +2137,50 @@ behandeln lassen.«
 <h3>Die Firma Rapsom.</h3>
 
 Ein Hotelboy, braun wie eine Kaffeebohne, aber
-in himmelblauem Dreß mit Skizzen Mütze, schob den
-leiten Handwagen mit Kugellagerrädern und Pneumatiks,
-zu] dem mein Musterkoffermonstrum und der kleinere
+in himmelblauem Dreß mit schicker Mütze, schob den
+leichten Handwagen mit Kugellagerrädern und Pneumatiks,
+auf dem mein Musterkoffermonstrum und der kleinere
 Koffer stoßsicher auf weichen Decken ruhte, über das
 tadellose Pflaster des Großen Platzes, über den der Verkehr
 in regstem Tempo, sorgsam überwacht von glänzend
-uniformierten Polizeibeamten, ununterbrochen dDabinflutete.
-Autos, Autobusse, Lastautos, Motorräder, hochbzeladene
+uniformierten Polizeibeamten, ununterbrochen dahinflutete.
+Autos, Autobusse, Lastautos, Motorräder, hochbeladene
 Kamel- und Eselkarren, Reiter auf prächtigen Pferden,
 ganze Kamelkarawanen stauten sich zu einem bunten Walle
 an, sobald einer der Verkehrsbeamten die Hand hob.
-TV 2rkeirsinseln sicherten die zahlreichen Fußgänger, —
+Verkehrsinseln sicherten die zahlreichen Fußgänger, —
 Kandelaber, Laternen, Bogenlampen, in der Luft ein
-paar Flieger, die schmetternde Marschmusik eines vor Überziehenden
+paar Flieger, die schmetternde Marschmusik eines vorüberziehenden
 Infanterieregiments, Hupenlärm, Gebrüll
 der Straßenhändler, grelle Sonne, — in großen Schaufenstern
-farbenfrohe gesMmmadvolle Auslagen, Bei-:n5mittelgeschäfte
-mit den verlodzndijten Dingen, Fuß …:erraten
-mit funkelnden Schätzen, Kaffees mit schriller 53433-
-Musik, mit Tischreihen unter schattenspendenden Vergessen,
-Irabißstärtten mit leuchtunden GiSbiöcken in den Fenstern
-(bei dreißig Grad Hitze, mit Hilfe elekiwrischer Kälteerzeuger!)
+farbenfrohe geschmackvolle Auslagen, Lebensmittelgeschäfte
+mit den verlockendsten Dingen, Juwelierläden
+mit funkelnden Schätzen, Kaffees mit schriller Jazzmusik,
+mit Tischreihen unter schattenspendenden Vorzelten,
+Imbißstätten mit leuchtenden Eisblöcken in den Fenstern
+(bei dreißig Grad Hitze, mit Hilfe elektrischer Kälteerzeuger!)
 — drüben an der alten Mauer, teilweise in diese
 <@pagebreak/>
 Hineingebaut, denn sie ist bis sieben Meter hoch: Verkehrsbüros,
 Polizeiwache, Büro der Städtischen Omnibusse,
-Zeitungskioske, Zigarrenläden, auch) eine Riesentafel, von
+Zeitungskioske, Zigarrenläden, auch eine Riesentafel, von
 bunten Glühbirnen umgeben, mit den Ankündigungen
 sportlicher Ereignisse, — und jenseits der Mauer das
 alte Casablanca, die Eingeborenenstadt, wie sie dem
 Lehrbuchschreiber wohl noch aus papierwurmzerfressenen
-Schalteten vorgeschwebt haben mag: Da 8 ist Casablanca!!
+Scharteken vorgeschwebt haben mag: *Das* ist Casablanca!!
 
 Schräg gegenüber dem ehrwürdigen Uhrturm, vor
 dem stets eine Schar Straßenphotographen auf Opfer
 lauert, erhebt sich der neue imposante Bau der Firma
-I. so. Rapsom. Oben auf dem Dache sieht man das RiesendrabdtschHild,
+J. G. Rapsom. Oben auf dem Dache sieht man das Riesendrahtschild,
 das die Leuchtbuchstaben des Namens Rapsom
-festhält, und selbst bei Tage leistet sich das Wortlaut
+festhält, und selbst bei Tage leistet sich das Welthaus
 den Scherz, die Buchstaben in grellen Farben leuchten
 zu lassen. — Das Portal, dem Zugang zu einer Festung
-gleitend, gewährt Einblick in die hinter dem Hauptgebäude
+gleichend, gewährt Einblick in die hinter dem Hauptgebäude
 liegenden Höfe, Warenspeicher und zeigt Reihen
-von Lastautos, elektrische Aufzüge, große Shwingtkräne,
+von Lastautos, elektrische Aufzüge, große Schwingkräne,
 eine elektrische Verladebahn, ein Menschengewimmel ohne
 gleichen, — — mir wurde doch etwas eigentümlich zumute,
 als ich diese großzügige Aufmachung gewahrte.
@@ -2194,8 +2190,8 @@ Luxusjacht, zwei Flugzeuge, dreihundert Büroangestellte
 besaß, ein … Verbrecher?!
 
 Aber dann erinnerte ich mich an die Ereignisse in
-Berlin, an all die seltsamen Geschehnisse, an die Mordanschlags,
-an die Seltiopnsbefehle, und mit einem Schlage
+Berlin, an all die seltsamen Geschehnisse, an die Mordanschläge,
+an die Sektionsbefehle, und mit einem Schlage
 war ich wieder Herr meiner Nerven … Ich warf einen
 Blick auf den Musterkoffer, — — diesem Ungestüm entströmte
 gleichfalls ein Wunderfluid von Kraft und Energie.
@@ -2204,36 +2200,36 @@ Der arabische Pförtner trug meine Karte in das
 Allerheiligste. Ich saß in einem Vorraum, zusammen
 mit mehreren Fremden, ich mußte warten, aber ich hatte
 <@pagebreak/>
-Glück, die Leute vor mir wurden von Mr. Zoo Smith
+Glück, die Leute vor mir wurden von Mr. Joe Smith
 abgefertigt, — dann betrat ich das Vorzimmer und
 stand diesem vielseitigen Manne gegenüber, der wie ein
-Zerberus seinen &ilmächtigen Herrn behütete.
+Zerberus seinen allmächtigen Herrn behütete.
 
 Smith war ein hagerer Engländer mit dünnem, leicht
 angegrautem Spitzbart, sehr straffer Haltung, mit Hornbrille,
 tadellos angezogen, sehr gemessen in jeder Bewegung,
-sehr kühl und förmlich, — alles in allem keine unsympatbhijc&che
+sehr kühl und förmlich, — alles in allem keine unsympathische
 Erscheinung, ohne Erregung, aber mit etwas
-fallen stechenden Blick.
+kaltem stechenden Blick.
 
 Ich war auf jede Art geschäftlichen Aussprache gründlich
 vorbereitet. Ich hatte meine Rolle genau studiert, ich
 konnte selbst die knifflichsten Fragen getrost beantworten.
 
-Mr. See Smith ging dann mich anmelden. Als er
+Mr. Joe Smith ging dann mich anmelden. Als er
 hinter der breiten Flügeltür verschwunden war, pochte
 mein Herz ein wenig schneller. Ich tastete vorsichtig nach
-meiner linken Brusttasche. Harald hatte mir Peinigend geraten,
-die Clement zu entsichern und die Habe aufzuknöpfen.
+meiner linken Brusttasche. Harald hatte mir dringend geraten,
+die Clement zu entsichern und die Jacke aufzuknöpfen.
 Unserem Programm nach mußte es ja zu
-etwas erregten Szenen kommen, und ob Sohn G. Rapsom
-so ohne weiteres die Waffen stecken würde, bezweifelte
-ich denn da sehr stark. Jedenfalls: Ich fühlte
+etwas erregten Szenen kommen, und ob John G. Rapsom
+so ohne weiteres die Waffen strecken würde, bezweifelte
+ich denn doch sehr stark. Jedenfalls: Ich fühlte
 mich keineswegs behaglich, zumal der große Musterkoffer
 noch nicht zur Stelle war. Meine allgemeine Gemütsverfassung
-entsprach; durchaus nicht den zweifellos bösen
-Minuten, denen ich entgegenging. Es war per’nliches.
-Pech, daß meine Nerven gerade jetzt wieder —:eilten.
+entsprach durchaus nicht den zweifellos bösen
+Minuten, denen ich entgegenging. Es war persönliches
+Pech, daß meine Nerven gerade jetzt wieder streikten.
 Es stand hier ungeheuer viel auf dem Spiel, denn die
 geringste Unsicherheit meinerseits konnte mich verdächtig
 machen, und, war Rapsom erst einmal gewarnt, würde
@@ -2241,34 +2237,34 @@ unsere großangelegte Aktion wirkungslos wie ein Feuerwerk
 verpuffen.
 
 Ich schaute mir das Vorzimmer an. Da war der
-Schreibtisch Tee Smith rechts an der Wand neben
+Schreibtisch Joe Smiths rechts an der Wand neben
 der Tür in das Allerheiligste, ein Schreibtisch von riesigen
 <@pagebreak/>
-Abmessungen, Gedeiht mit Papieren, Büchern, Katz
-logen. Rechts stand ein Selbstanschlußtelephon, dahin::
+Abmessungen, bedeckt mit Papieren, Büchern, Katalogen.
+Rechts stand ein Selbstanschlußtelephon, dahinter
 ein großes Schaltbrett mit bunten Stöpseln. Ein Ledersofa,
-Klubsessel, echte Teppiche, Schränke. Lederstühle,
-eine elektrisQe Krone, — all das interessierte mich im
-Grunde sehr wenig. Es war eben ein eleganter. praktischer,
+Klubsessel, echte Teppiche, Schränke, Lederstühle,
+eine elektrische Krone, — all das interessierte mich im
+Grunde sehr wenig. Es war eben ein eleganter, praktischer,
 etwas nüchterner Raum. Die gepolsterten Türen, die
 Milchglasscheiben der Fenster, in der einen Ecke ein Radioapparat,
 Netzanschlußgerät, — meine Augen glitten achtlos
 über diese Dinge hin, — was ich suchte, fand ich
-nicht: eilt Grammophon! Allerdings wäre es ja auch
+nicht: ein Grammophon! Allerdings wäre es ja auch
 sträflicher Leichtsinn von diesen Herrschaften gewesen, eine
-sollte Sprechmaschine hier ganz offen aufzubauen.
+solche Sprechmaschine hier ganz offen aufzubauen.
 
-Dann tat sich die Tür wieder aus, Mr. Smith machte
+Dann tat sich die Tür wieder auf, Mr. Smith machte
 eine einladende Handbewegung, und ich schritt an ihm
-vorüber, die Tür schloß sie, ich drehte mich nach rechts,
+vorüber, die Tür schloß sich, ich drehte mich nach rechts,
 verneigte mich vor Rapsom …
 
 Das war er also!!
 
 Als ich ihm in das greise Gesicht geschaut Hatte,
 war ich wieder Herrn meiner selbst. Er deutete auf einen
-Sessel neben dem RiesenshreibtisM (das Monstrum glich
-vollkommen dem im Vorzimmer) und Alte sein? Brille
+Sessel neben dem Riesenschreibtisch (das Monstrum glich
+vollkommen dem im Vorzimmer) und rückte seine Brille
 zurecht …
 
 Das war er also!!
@@ -2278,7 +2274,7 @@ mit einem Munde, der unter dem Haarwald völlig
 verschwand, mit einem blassen, durchgeistigten Gesicht,
 dessen Ausdruck beinahe melancholisch war, mit wilden,
 zugekniffenen Augen, einer hohen Stirn, einem fast kahlen
-Kopf und eingesunkenen Schläfen. Er trug einen bellen
+Kopf und eingesunkenen Schläfen. Er trug einen hellen
 leichten Anzug, in der grauseidenen Krawatte eine Perle,
 an den schmalen Händen seltsamerweise Handschuhe …
 Er saß hinter diesem Schreibtischmonstrum, das schräg
@@ -2295,15 +2291,15 @@ sagen von erlesenem Geschmack, — alles von einer sanften
 Farbenharmonie.
 
 Dann, es mochten zwei, drei Minuten vergangen sein,
-begann Sohn Gottorpp Rapsom zu sprechen. Es war
+begann John Gottorpp Rapsom zu sprechen. Es war
 eine leise verschwommene, etwas heisere Stimme, sie hatte
 nichts von jener brutalen Härte an sich, die ich von der
 Schallplatte her kannte. Eigentlich klang sie seltsam farblos,
 unpersönlich. Ich war enttäuscht.
 
-»Nr. Scharf, wir haben bisher Glühbirnen nicht
-am Lager geführt …- Aber bei günstigen Einkaufsbedingungen
-ließe sich immerhin dem Gedanken Nähertreten,
+»Mr. Schark, wir haben bisher Glühbirnen nicht
+am Lager geführt … Aber bei günstigen Einkaufsbedingungen
+ließe sich immerhin dem Gedanken nähertreten,
 diesen Neuartikel aufzunehmen.« Seine geschraubte
 Ausdrucksweise enttäuschte mich noch mehr. Spielte der
 Mann etwa Komödie?! Machte er sich über mich lustig?!
@@ -2311,15 +2307,15 @@ Das sollte der Chef einer großen Firma und einer noch
 größeren Verbrecherorganisation sein?!
 
 Er fügte hinzu — und sein Ton blieb gleich farblos:
-»Kennen Sie Casablanca schon, Mr. Shark?! — So
+»Kennen Sie Casablanca schon, Mr. Schark?! — So
 war doch Ihr Name?« Er griff plötzlich sehr hastig nach
 meiner Karte, die vor ihm auf dem Schreibtisch lag. Er
-führte sie dicht vor die Augen und nickte … »Ja, Shark.
+führte sie dicht vor die Augen und nickte … »Ja, Schark.
 Das klingt fast englisch …«
 
 Ich durfte jetzt nicht länger zögern. Ich mußte zum
-Angriff vorgehen. »Ich bin Berliner, Mr. Rapsom. 2«neu
-gesagt, ich wohne bei Berlin, in Erkner … Seiner,
+Angriff vorgehen. »Ich bin Berliner, Mr. Rapsom, genau
+gesagt, ich wohne bei Berlin, in Erkner … Erk-ner,
 unweit vom Löcknitzkanal …«
 
 Er schaute mich gänzlich gleichgültig an.
@@ -2332,8 +2328,8 @@ In dem Moment machte ich eine seltsame Beobachtung
 sie blieben stets halb geöffnet, soweit ich dies unter dem
 Vorhang der Schnurrbarthaare erkennen konnte.
 
-… Sie haben dort eine Bekannte, Mr. Rapsom,
-— wenigstens hörte im durch«? einen Postbeamten, daß
+»… Sie haben dort eine Bekannte, Mr. Rapsom,
+— wenigstens hörte ich durch einen Postbeamten, daß
 Sie Lady Lavandy regelmäßig Geld senden,« — ich sagte
 das mit Etwas erhobener Stimme, ich hatte mir sehr viel
 davon versprochen …
@@ -2344,14 +2340,14 @@ auf ihn.
 »So … so, Lady Lavandy,« meinte er nur. »Sie
 ist tot, stand in den Zeitungen, begraben. Sie Hatte
 Kapital in meine Firma gesteckt … Persönlich ist sie mir
-fremd, Mr. Sack.«
+fremd, Mr. Schark.«
 
-In saß so, daß ich die Rückseite des Schreibtisches
+Ich saß so, daß ich die Rückseite des Schreibtisches
 vor mir hatte. Die Schreibtischöffnung war hier hinten
 durch eine Bespannung aus Seide verschlossen. Daran
 war weiter nichts Auffälliges. — Nur etwas anderes
 wirkte eigentümlich. An der hinteren Kante der Schreibtischplatte
-war ein schwarz spielten kleiner Apparat festgeschraubt,
+war ein schwarz lackierter kleiner Apparat festgeschraubt,
 an dessen Achse ein handlanges Stück einer
 weißen Zelluloidplatte etwa in Form eines spitzwinkligen
 Dreiecks mit abgerundeten Ecken befestigt war. Diese
@@ -2361,83 +2357,82 @@ senkrecht stehen.
 
 Rapsom starrte auf das Signal, hüstelte, beugte sich
 vor, rückte den Schreibsessel näher heran und ergriff
-ein Schriftstück, las und Frühe auf einen der vier bunten
-Knöpfe am Sandstrand der Schreibtischplatte. Dann nahm
+ein Schriftstück, las und drückte auf einen der vier bunten
+Knöpfe am Vorderrand der Schreibtischplatte. Dann nahm
 er einen Tintenstift und strich in dem Schreiben etwas
 aus, korrigierte es, — mich hatte er vollkommen vergessen.
 — Oder … wollte er nur Zeit gewinnen?!
 
-»Nr. Rapsom!« sagte ich laut … »Mr. Rapsom.
+»Mr. Rapsom!« sagte ich laut … »Mr. Rapsom,
 diese Frau im Boot ist ermordet worden, aber die Mörder
-erwischten die Falsche, es war Lady Jenes Köchin …!«
+erwischten die Falsche, es war Lady Janes Köchin …!«
 
 <@pagebreak/>
 Ich hätte ebenso gut gegen eine Steinmauer sprechen
 können. — Er tat, als wäre er taub … Er strich wieder
 einen Satz aus …
 
-Und da — machte ich die zweite eigenartige He- —
-Obachtung. So tief er den Kopf auch über das Schreiben
+Und da — machte ich die zweite eigenartige Beobachtung.
+So tief er den Kopf auch über das Schreiben
 gebeugt haben mochte, — seine Augen ruhten auf der
 senkrecht stehenden Signalscheibe … Und diese klappte
-jetzt lautlos nach unten, drehte ist dann zweimal nach
+jetzt lautlos nach unten, drehte sich dann zweimal nach
 rechts herum und hing in der Anfangsstellung still.
 
 Die Tür öffnete sich, Rapsom wandte den Kopf,
 Mr. Smith trat schnell ein …
 
-Verbeugte sich sehr tief und reihte Rapsom eine
-alte.
+Verbeugte sich sehr tief und reichte Rapsom eine
+Karte.
 
 »Der Vertreter der Firma Osram, Berlin, bittet
 eine Offerte machen zu dürfen …«
 
-Rapsom nickte mehrmals, Ins Smith zog sich zurück,
+Rapsom nickte mehrmals, Joe Smith zog sich zurück,
 und die Tür fiel zu, Rapsom beschäftigte sich wieder mit
-dem Scriftstüs, — — und mit meiner Geduld war’s
+dem Schriftstück, — — und mit meiner Geduld war’s
 zu Ende.
 
 Ich stand auf …
 
 Aber — das Signal schnellte wieder empor, — —
 ich zauderte noch, mein Blick begegnete dem Des Greises,
-ich las in seinen Augen grimme Wut, ein? drohende
+ich las in seinen Augen grimme Wut, eine drohende
 Handbewegung seinerseits forderte, ich solle wieder Platz
-
 nehmen, — doch er hatte sich verrechnet, ich schrie ihm
 wütend ins Gesicht:
-»Hörten Sie, — — es war die Köchin, M. Rani
 
-vom! Mylady lebt, wo sie ist, weiß niemand …!!«
+»Hörten Sie, — — es war die Köchin, Mr. Rapsom!
+Mylady lebt, wo sie ist, weiß niemand …!«
 
-Er sprang ernster, — ein Stoß gegen die Schulter
+Er sprang empor, — ein Stoß gegen die Schulter
 schleuderte mich zurück, ich fiel halb in den Sessel, dann
-sagte Rapsom, und im sollen Jugendlich bemerkte ich
+sagte Rapsom, und im selben Augenblick bemerkte ich
 Harst in der halb geöffneten Tür: »Wiederholen Sie den
-letzten Satz, Nr. Hart …! Bitte!!«
+letzten Satz, Mr. Schark …! Bitte!!«
 
 Harald zog die Tür zu und musterte uns erstaunt.
 Dann lachte er, stieß die Tür wieder auf, blickte in das
 <@pagebreak/>
-Vorzimmer und eilte hinein, verriegelte dort die Tü,
+Vorzimmer und eilte hinein, verriegelte dort die Tür,
 drehte auch den von innen steckenden Schlüssel um und
-909 ihn ab und kehrte zu uns zurück. Nur ich hatte dies
-erobernden können, Rapsom hätte erst nach; dem Fenster
-zu um den so unpraktisch aufgestellten Schreibtisch; herumgehen
+zog ihn ab und kehrte zu uns zurück. Nur ich hatte dies
+beobachten können, Rapsom hätte erst nach dem Fenster
+zu um den so unpraktisch aufgestellten Schreibtisch herumgehen
 müssen …
 
-Sohn G. Rapsom hatte sie gesetzt, machte eine einladende
+John G. Rapsom hatte sich gesetzt, machte eine einladende
 Bewegung nach einem zweiten Sessel hin und
 sprach genau dieselben Worte nochmals: »Wiederholen
-Sie den leisten Satz, Mr. Scharf, bitte!!«
+Sie den letzten Satz, Mr. Schark, bitte!!«
 
 Harst lächelte noch immer … »Lieber Alter,« meinte
-er in deutscher Sprache, »du Gewühlt hin hier ganz umsonst
-… Der »Winker« da am Sccreibtisch; hängt nach
+er in deutscher Sprache, »du bemühst dich hier ganz umsonst
+… Der »Winker« da am Schreibtisch hängt nach
 unten … Es ist alles in Ordnung. Also wiederhole nur
 den Satz … Aber« — und jetzt benutzte er das Englische
 — »sollte hier irgendwie Unvorhergesehenes sich
-ereignen, so drücke. ja) zuerst ab
+ereignen, so drücke ich zuerst ab …«
 
 Aus seinem rechten Ärmel glitt ihm die kleine Pistole
 in der Hand, — diese Hand hob sich ein wenig, so daß
@@ -2446,14 +2441,14 @@ die Mündung auf die Seidenbespannung gerichtet war.
 Ich begriff nichts von alledem. »Harald, was soll
 das?!« brachte ich nur hervor.
 
-»Tun gut,« nickte er, »hier ist der Schlüssel, —
+»Nun gut,« nickte er, »hier ist der Schlüssel, —
 lasse die anderen herein, die Gebäude sind von der Polizei
-umstellt, wir: können den Schlußakt ja auch abkürzen.
+umstellt, wir können den Schlußakt ja auch abkürzen.
 Aber die Musterkoffer müssen mit herein, sorge dafür …«
 
-Und nachts stärker lächelnd:
+Und noch stärker lächelnd:
 
-»Sie Glühbirnen werden auch dir Klarheit bringen.
+»*Die* Glühbirnen werden auch dir Klarheit bringen.
 Also — — vorwärts!«
 
 <@pagebreak/>
@@ -2462,34 +2457,34 @@ Also — — vorwärts!«
 
 <h3>Eine Frau, die schweigen wollte …</h3>
 
-Im Vorraum standen Lücke, Gepp, Kriminalchef Format
+Im Vorraum standen Lücke, Gepp, Kriminalchef Iomak
 Bey und Zacharias Rummel nebst Tochter Anni in
-PslegerintracMt. Es standen da auch die beiden Riesenkoffer,
+Pflegerintracht. Es standen da auch die beiden Riesenkoffer,
 neben diesen vier stämmige braune Polizeibeamte,
-die ganz so aussahen, als ob zwar?! von ihnen ein Pianino
+die ganz so aussahen, als ob zwei von ihnen ein Pianino
 vier Treppen hoch befördern könnten.
 
 Diese ganze Versammlung marschierte nun in das
 Allerheiligste der Weltfirma Rapsom, — auch die Koffer
 wurden hineingetragen …
 
-Harst war hier so recht in seinem Clement. Er spielte
+Harst war hier so recht in seinem Element. Er spielte
 den Regisseur, er wies jedem seinen Platz an.
 
-Ton OG. Rapsom saß hinter dem Schreibtisch, kalkweiß,
+John G. Rapsom saß hinter dem Schreibtisch, kalkweiß,
 auf der Stirn die Schweißperlen, ein Bild des
-stürzten Gewissens, ein geschlagenen Mann, der seine
+schlechten Gewissens, ein geschlagener Mann, der seine
 Sache verloren gibt.
 
 Alarich Gepp lehnte am Fenster und lutschte an
 seiner Zigarre, — Lücke war übernervös, Iomak machte
-verwunderte Augen und die beiden Unzertrennlicher, Vater
-und Tochter, hatten stark verängstigt auf dem Wandsofa.
+verwunderte Augen und die beiden Unzertrennlichen, Vater
+und Tochter, hockten stark verängstigt auf dem Wandsofa.
 
 Harst begann, — und urplötzlich war er sehr ernst
 und fast feierlich:
 
-»Mr. Rapsom, geben Sie zu, unter dem 2«. Mantel
+»Mr. Rapsom, geben Sie zu, unter dem Deckmantel
 eines ausgedehnten kaufmännischen Unternehmens Mädchenhandel
 getrieben zu haben?«
 
@@ -2501,63 +2496,62 @@ schweißige Stirn und … schwieg.
 »Antworten Sie!!«
 
 <@pagebreak/>
-Sohn G. Rapsom sank plötzlich der Kopf auf die
-Brust … Seine Hand bekehrte die Augen …
+John G. Rapsom sank plötzlich der Kopf auf die
+Brust … Seine Hand bedeckte die Augen …
 
-Der Mann Beamte.
+Der Mann weinte.
 
 Harst beugte sich herab, packte die Seidenbespannung
 der Schreibtischöffnung, riß sie weg, und — — wir
-!aßen in der geräumigen Öffnung einen Menschen
-Zwerg, sahen ein gräßlich verzerrtes Gesicht …
+sahen in der geräumigen Öffnung einen Menschen
+lauern, sahen ein gräßlich verzerrtes Gesicht …
 
-Es war See Smith, Annimmt Diener, Sekretär, Prokurist,
+Es war Joe Smith, Rapsoms Diener, Sekretär, Prokurist,
 Chauffeur, Koch …
 
-»So!!« meinte Harald leise. »Er hat es vorgezogen,
+»Tot!« meinte Harald leise. »Er hat es vorgezogen,
 sich zu vergiften. Als du dem Programm nach erwähntest,
 daß Lady Lavandy noch lebt, — als er erkannte, daß
 sein Stündlein geschlagen habe, schluckte er Gift … Es
-ins blitzartig geh.:«: »ck6en.«
+muß blitzartig gewirkt haben.«
 
-Vom Fenster Hof Gepps Ironie Stimme:
+Vom Fenster her Gepps Ironische Stimme:
 
 »Weniger umständlich, Harst …! Sie spannen Ihre
-Hörer auf die Folter.« «
+Hörer auf die Folter.«
 
 Harald zog langsam den schlappen Körper des Toten
-aus der Schreibtischöffnung auf den Teppich) und legte
+aus der Schreibtischöffnung auf den Teppich und legte
 ihn auf den Rücken.
 
 »Dieser Mann ist Lord Charles Emery Lavandy,
-der Gatte Lady Jenes …« erklärte er schlicht. »Er ij!
+der Gatte Lady Janes …« erklärte er schlicht. »Er ist
 der wahre Chef der Firma, ist das Haupt der internationalen
 Mädchenhändlerbande. Er, einst ein Spieler,
-Trunkenbold und Wüstling, Gründer? mit den Festen des
+Trunkenbold und Wüstling, Gründete mit den Resten des
 Vermögens seiner Gattin die Firma Rapsom, indem er
 selbst dabei nur eine Nebenfigur spielte und einen taubstummen
-alten Signal seiner Familie als Strohmann vorjPidte:
+alten Diener seiner Familie als Strohmann vorschickte:
 John Gottorpp Rapsom, der jetzt dort bittere
-
-Tränen weint, — ein Bemitleidenswerter, ein willen
-!Bootes Werkzeug, ein … Uneingeweihter, behaupte ich!
-—» Rapsom, der Einsame, der Schweigsame, der Einsiedler,
+Tränen weint, — ein Bemitleidenswerter, ein willenloses
+Werkzeug, ein … Uneingeweihter, behaupte ich!
+— Rapsom, der Einsame, der Schweigsame, der Einsiedler,
 ist taubstumm. Dies ahnte ich nicht, ich wußte nur,
-als ich das Vorzimmer betrat und 3092 Smith gegenüber
-stand, daß ich Lord Lavandy vor mir hatte. In dem Bettversteck
+als ich das Vorzimmer betrat und Joe Smith gegenüberstand,
+daß ich Lord Lavandy vor mir hatte. In dem Bettversteck
 <@pagebreak/>
-des Löcknitzhauses fand ich nämlich auch Photograpöien
+des Löcknitzhauses fand ich nämlich auch Photographien
 des Lords und … seiner Tochter … — Der
-Winker dort am Schreibtisch) gab Rapsom die nötigen
+Winker dort am Schreibtisch gab Rapsom die nötigen
 Signale …«
 
 Alarich Gepp trat jetzt näher. »Sie haben es doch
-fertig gebrachmt, Harst, auch mein Interesse zu ernsten.
+fertig gebracht, Harst, auch mein Interesse zu erwecken.
 Ich hatte mir den Fall einfacher vorgestellt.« Er schaute
 dem Toten ins Gesicht … »Also — Lavandy sprach stets,
 wenn man Rapsom sprechen zu hören glaubte … Mithin
 hat die Verbindungswand der beiden Zimmer ein Loch,
-eine Geheimtür, und »See Smith« kroch durch seinen
+eine Geheimtür, und »Joe Smith« kroch durch seinen
 Schreibtisch in diesen hinein …! — Fabelhafte Idee!
 Eine taubstumme greise Strohpuppe als Chef, der im
 Notfall alles ausbaden mußte, der nichts von den Annoncen
@@ -2567,97 +2561,95 @@ ahnte, der in blinder Treue seinem Herrn gehorchte,
 Gepp wandte sich Rapsom zu und begann in der
 Fingersprache mit ihm zu reden. Der alte Mann mit
 seinem tränenfeuchten Gesicht wirkte erschütternd, erhob
-sich taumelnd, kam um den SdreibtisMm herum, drückte
+sich taumelnd, kam um den Schreibtisch herum, drückte
 Gepp die Hand und kniete dann neben dem Toten nieder,
 faltete die Hände und weinte abermals.
 
 Harst gab den Polizeibeamten einen Wink, — sie
 schlossen die Koffer auf, — Harald kehrte das Seidentuch
-über das Gesicht dar Leiche, und … zwei verschleierte
-Frauengestalten entstiegen den schlagfertig zu öffnenden
+über das Gesicht der Leiche, und … zwei verschleierte
+Frauengestalten entstiegen den schrankartig zu öffnenden
 Koffern.
 
-»Ansah … « — Harald geleitete die eine zu
-einem entfernteren Sessel, »Ihr Gatte hat sich. selbst
+»Mylady …« — Harald geleitete die eine zu
+einem entfernteren Sessel, »Ihr Gatte hat sich selbst
 gerichtet …«
 
-Die Frau hob ’den Schleier, — ein vergrämtes, früh
+Die Frau hob den Schleier, — ein vergrämtes, früh
 gealtertes blasses Gesicht ward sichtbar … Auch die
 andere zeigte uns ihre verstörten, regelmäßigen Züge:
 Es war das Mädchen, das uns zweimal aufgesucht hatte!
 
-»Helene. bitte … hier neben mir ist dein Blut.«
+»Helene, bitte … hier neben mir ist dein Platz,«
 <@pagebreak/>
-sagte Lady Sage schluchzend. »Ich bin am Ende meiner
+sagte Lady Jane schluchzend. »Ich bin am Ende meiner
 Kräfte, und doch bin ich froh, daß nun endlich all die
 Heimlichkeiten aufhören. — Meine Herren, dies hier ist
-Helene Gussow, die Erzieherin meiner jetzt acht Jahr«
+Helene Gussow, die Erzieherin meiner jetzt acht Jahre
 alten Tochter, die sich zurzeit in einem Berliner Pensionat
-befindet und vordem mit Helene in Woltersdorf wohnte.
+befindet und vordem mit Helene in Woltersdorf wohnte,
 wo ich für beide ein kleines Haus gemietet hatte. Alles
-übrige mag Ohren Herr Harst berichten.«
+übrige mag Ihnen Herr Harst berichten.«
 
 Er tat’s, er faßte sich ganz kurz. »Lady Jane blieb
-knallt nur ihres Kindes wegen noch bei ihrem Manne
-und galt hier als Frau Smith. Uns sie dann zufällig vor
+zunächst nur ihres Kindes wegen noch bei ihrem Manne
+und galt hier als Frau Smith. Als sie dann zufällig vor
 zwei Jahren erfuhr, daß die Firma Rapsom nebenbei
 auch Mädchenhandel betrieb, floh sie sofort mit ihrem
 Kinde nach Berlin und lebte in Erkner als Wohltäterin
-Dr Armen, indem sie das Geld ihres Mannes den Notleidenden
-spendete. Ihren Gatten wegen Mäcko2nhandols
+der Armen, indem sie das Geld ihres Mannes den Notleidenden
+spendete. Ihren Gatten wegen Mädchenhandels
 anzuzeigen, verbot ihr die Rücksicht auf ihr Kind …
-Aber diese falsche Rüsichtnahme redete ihr dann Helene
+Aber diese falsche Rücksichtnahme redete ihr dann Helene
 Gussow aus, — Lady Jane schrieb ihrem Gatten, daß
 er entweder sein schändlich Treiben aufgeben solle oder
 gewärtig sein könne, daß sie ihn den Behörden verriete.
 Seine Antwort war … der Mordanschlag auf seine Frau,
-dem die arme Köchin zum Opfer fiel. —’ Ich selbst fand in
-dem Fettpolster damals auch Mylady verborgen, —
+dem die arme Köchin zum Opfer fiel. — Ich selbst fand in
+dem Bettversteck damals auch Mylady verborgen, —
 ich kam mit ihr überein, mir bei der Entlarvung Lavandy Smiths
-zu helfen, — sie und Fräulein Sultana fuhren
+zu helfen, — sie und Fräulein Gussow fuhren
 hierher, inzwischen sind in Berlin jetzt auch Belter und
 sein Chauffeur verhaftet worden, deren Schlupfwinkel
 Mylady kannte. — Ich glaube kaum, daß ich noch etwas
 hinzuzufügen brauchte. Wer die Entwicklung der Dinge
-kennt, wird auch die Zusammenhänge vor einzelnen Ereignisse
-leicht überschauen und sich di?! Lücken ergänzen
+kennt, wird auch die Zusammenhänge der einzelnen Ereignisse
+leicht überschauen und sich die Lücken ergänzen
 können. — Lady Jane weiß, daß hier in den Kellern
 der Villa Rapsom all das Material zu finden ist, das
-zur Verachtung der ganzen Organisation genügen wird.
-
+zur Verhaftung der ganzen Organisation genügen wird.
 <@pagebreak/>
 Das ist die Aufgabe der hiesigen Polizei und die der
 anderen Staaten. Der Sender hier steht Ihnen zur Verfügung,
 lieber Gepp … Sie und Lücke und Iomak-Bey
-mögen das Weitere erledigen. — Sonnigen Sie, Astloch,
-—» kommen Sie, Fräulein Gussow, — — dieses Zimmer
-soll Sie nicht länger seelisch bedeuten … Die Firma
+mögen das Weitere erledigen. — Kommen Sie, Mylady,
+— kommen Sie, Fräulein Gussow, — — dieses Zimmer
+soll Sie nicht länger seelisch bedrücken … Die Firma
 Rapsom ist tot … Es werden keine Schallplatten mehr
-von hier aus versenkt werden.« — —
+von hier aus versandt werden.« — —
 
 Daß die kleine tapfere Anni ihr Sommerkostüm erhielt,
 daß Vater Zacharias sich ein eigenes Häuschen
-im gut erwerben konnte, sei nur noch nebenbei erwähnt.
--
-… « — Wer setzt einmal den Löcknitzkanal entlangfährt
+im Grünen erwerben konnte, sei nur noch nebenbei erwähnt.
+
+… Wer jetzt einmal den Löcknitzkanal entlangfährt
 und im Garten des Löcknitzhauses einen Greis und ein
-frohes Kind den Dampfern, -Nachbarn und Motorbooten
+frohes Kind den Dampfern, Paddlern und Motorbooten
 nachschauen sieht, der geht in der Annahme nicht fehl,
-daß Tonkin Gottorpp Rapsom der treueste Hüter der kleinen
+daß John Gottorpp Rapsom der treueste Hüter der kleinen
 Jane Evelyn Lavandy geworden ist. Außerdem macht
-es ganz den Eintraf, als ob aus Rechtsanwalt Gurlitt
+es ganz den Eindruck, als ob aus Rechtsanwalt Gurlitt
 und Helene Gussow sehr bald ein glückliches Paar werden
-wird. Letztens war auch vor gründlich bekehrte, jetzt sehr
+wird. Letztens war auch der gründlich bekehrte, jetzt sehr
 bescheidene und höfliche Armin Plinz bei uns. Er hat
-die Journalistik fallen lassen und »studiert Philologie,
-Hauptsachen Geschichte und Erdkunde. Ich habe ihm geraten,
+die Journalistik fallen lassen und studiert Philologie,
+Hauptfächer Geschichte und Erdkunde. Ich habe ihm geraten,
 seine Doktorarbeit über »Marokko als moderner
 Kulturstaat« zu schreiben.
 
 Es ist unbedingt nötig, daß die Schüler endlich erfahren,
 wo der Sultan in Wahrheit seine Residenz hat.
 
-Posten Band:
-Die leuchtende Eule.
-
-Buchdrutikerel P. Lehmann G. in. b. H., Berlin So 16
+<#import "*/harst.ftl" as harst>
+<@harst.naechsterband band="Die leuchtende Eule."/>
+<@harst.druck/>
