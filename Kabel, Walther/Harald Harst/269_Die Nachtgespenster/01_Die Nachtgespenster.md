@@ -469,7 +469,7 @@ dünne Lippen, eine starke Nase, sehr buschige Augenbrauen
 und volles, graues gescheiteltes Haupthaar.
 
 »Es schien so?!« meinte er mit leichtem Kopfschütteln.
-»Die soll ich das verstehen?!«
+»Wie soll ich das verstehen?!«
 
 Harst und ich saßen an der anderen Tischseite —
 auch in Klubsesseln.
@@ -666,7 +666,7 @@ niemand) in der dortigen Gegend das Gerücht von den
 beiden Nachtgespenstern umging, zwei schwarzgekleideten,
 <@pagebreak/>
 verschleierten Frauen, die auch nur nachts auftauchten
-und die man mit den Zahllosen Einbrüchen und Überfällen
+und die man mit den zahllosen Einbrüchen und Überfällen
 in E. und dessen Umgebung in Verbindung bringen
 wollte. Der Volksmund taufte sie »Nachtgespenster<@refnote 1/>«,
 — daß es Lady L. *nicht* gewesen, steht nunmehr wohl
@@ -747,7 +747,7 @@ auch Anschluß in Erkner, hörte schon vor einem Jahr von
 der geheimnisvollen Wohltäterin und den beiden Nachtgespenstern,
 wochenlang habe ich mich jede Nacht in
 Erkner und Umgegend herumgetrieben, ich witterte einen
-fetten Happen, aber — der hing zu hoch, im traf weder
+fetten Happen, aber — der hing zu hoch, ich traf weder
 die Spenderin noch die Gespenster … Ich gab es auf. Bis
 nun der Tod Lady Lavandys auf der Löcknitz mich abermals
 nach Erkner führte.«
@@ -866,7 +866,7 @@ nur die Schallplatte, sondern auch die Visitenkarte mit,
 auf der ich mehr zum Spaß einige Fingerabdrücke sichtbar
 gemacht hatte …«
 
-Plinz lehnte … »Es gibt in der Tat unverschämte
+Plinz lachte … »Es gibt in der Tat unverschämte
 Klienten, Herr Harst, haben Sie denn die Fingerabdrücke
 photographiert?«
 
@@ -875,7 +875,7 @@ Hinkende steckten unter einer Decke … Man täuscht mich
 nicht so leicht, wirklich nicht, Herr Plinz. Wer mir ein X
 für ein U machen will, muß schon ein wenig genialer sein.«
 
-»Ja haben Sie vollkommen recht,« beeilte sich Herr
+»Da haben Sie vollkommen recht,« beeilte sich Herr
 Armin zu erklären. »Selbstredend ein Bluff!! Selbstredend!«
 Dabei hielt er es nicht einmal für nötig, nach
 den Einzelheiten zu fragen, er war also anderweit sehr
@@ -910,7 +910,7 @@ Er schaute mich mißtrauisch an. »Sollte das … ein
 Gegenhieb sein?!« meinte er wieder sehr von oben herab.
 
 »Keineswegs … Aus den Jahren, wo man den
-Rohrstock anwendet, sind Sie doch schon heraus Herr
+Rohrstock anwendet, sind Sie doch schon heraus, Herr
 Plinz, — ein so berühmter Reporter wie Sie!! — Was
 verdienen Sie eigentlich hierfür?«
 
@@ -1213,7 +1213,7 @@ gesehen?!«
 <h2>5. Kapitel.</h2>
 <h3>Befehl an Sektion D.</h3>
 
-Ein toller Gewittersturm setzte über den großen Müggelsee
+Ein toller Gewittersturm fegte über den großen Müggelsee
 und schickte seine fauchenden Trabanten auch in dem
 Löcknitzkanal hinein. Es regnete wie aus Eimern. Grelle
 Blitze kämpften mit ihren Feuergarben zwecklos gegen
@@ -1307,7 +1307,7 @@ An Sektion D., — C., den 2. Januar 1925.
 
 1. Die letzte Lieferung war zum Teil unbrauchbar.
 Es ist unbedingt nur Ware auszuwählen, die
-Ohne Duplikate ist. Hinsichtlich der Annoncen muß
+ohne Duplikate ist. Hinsichtlich der Annoncen muß
 ein geschickterer Text gewählt werden.
 
 2. Die Organisation ist zu erweitern. Jedes Warenstück
@@ -1621,8 +1621,8 @@ daß Herr Harst die Nachtgespenster verscheucht hat …
 Denn nur diese haben die Villa Pütz ausgeplündert —
 dort drüben in Woltersdorf … Trotzdem hoffen wir
 noch immer, Herr Schraut. Diese internationale Bande
-aufzuheben, — das dürfte noch mehr einbringen, und
-deshalb müssen Sie es mir nicht verargen, woran ich
+auszuheben, — das dürfte noch mehr einbringen, und
+deshalb müssen Sie es mir nicht verargen, wenn ich
 auch hier so etwas für mein eigenes Konto arbeite.«
 
 <@pagebreak/>
@@ -1644,7 +1644,7 @@ wissen Sie noch?!«
 
 »Daß ich … friere und zumindest einen ausgewachsenen
 Schnupfen bekommen werde … Später rede
-ich gern, — jetzt danke ich nur an trockene Sachen.«
+ich gern, — jetzt denke ich nur an trockene Sachen.«
 
 Ich blinzelte ihr zu. »Wie wär’s — da nebenan im
 Speisezimmer … so ein kleiner Einbruch in das Büfett.
@@ -1724,7 +1724,7 @@ mit drei Smaragden trug. Wir nahmen an, daß die
 Köchin abends mit dem Boot vielleicht nach dem Löcknitzschlößchen
 zum Tanz hinüberrudern wollte, — die Feinde
 Lady Janes hielten sie bei dem starken Nebel für das
-Auserkorene Opfer, rammten das Boot und glaubten Jane
+auserkorene Opfer, rammten das Boot und glaubten Jane
 Lavandy getötet zu haben …«
 
 »Genau dasselbe vermute ich,« sagte ich gedämpft.
@@ -1846,7 +1846,7 @@ Bluff ist wirklich keine Rede.«
 Ich schwieg erst. Dann sagte ich bestimmt: »Ich werde
 <@pagebreak/>
 den Portwein herausholen … Ich glaube, auch Anni hat
-eine Herzstärkung nötig. Deine Art Überraschungen, Lieber
+eine Herzstärkung nötig. Deine Art Überraschungen, lieber
 Harald, greifen die Nerven etwas an.«
 
 <h2>7. Kapitel.</h2>
@@ -1855,7 +1855,7 @@ Harald, greifen die Nerven etwas an.«
 … Vor einiger Zeit hat mir der Sohn einer uns
 befreundeten Familie ein Geographiebuch gebracht, in dem
 seltsame Dinge zu lesen sind. Man sollte es nicht für
-möglich halten, daß der Schuljugend amtlich ein so haarsträubenden
+möglich halten, daß der Schuljugend amtlich ein so haarsträubender
 Unsinn über fremde Länder verzapft wird.
 — In diesem »Lehrbuch« steht unter anderem über Marokko,
 daß des Sultans Residenzstadt Fes sei, daß seine
@@ -2083,7 +2083,7 @@ Auch ich bin nicht so ganz auf den Kopp gefallen …! —
 Was fanden Sie noch, Harst?«
 
 »Postanweisungsabschnitte über Geldsendungen an
-Lady Jane — eine Ganze Menge. Jane Lavandy hat hierüber
+Lady Jane — eine ganze Menge. Jane Lavandy hat hierüber
 und über ihre Spenden genau Buch geführt. Sie hat
 <@pagebreak/>
 nie ein Millionenvermögen besessen, sondern stets nur
@@ -2262,7 +2262,7 @@ verneigte mich vor Rapsom …
 Das war er also!!
 
 Als ich ihm in das greise Gesicht geschaut hatte,
-war ich wieder Herrn meiner selbst. Er deutete auf einen
+war ich wieder Herr meiner selbst. Er deutete auf einen
 Sessel neben dem Riesenschreibtisch (das Monstrum glich
 vollkommen dem im Vorzimmer) und rückte seine Brille
 zurecht …
@@ -2396,7 +2396,7 @@ zu Ende.
 Ich stand auf …
 
 Aber — das Signal schnellte wieder empor, — —
-ich zauderte noch, mein Blick begegnete dem Des Greises,
+ich zauderte noch, mein Blick begegnete dem des Greises,
 ich las in seinen Augen grimme Wut, eine drohende
 Handbewegung seinerseits forderte, ich solle wieder Platz
 nehmen, — doch er hatte sich verrechnet, ich schrie ihm
