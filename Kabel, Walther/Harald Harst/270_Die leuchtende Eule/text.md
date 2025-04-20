@@ -72,7 +72,7 @@ geben, Kind?!«
 
 <@pagebreak/>
 »Vater, mit einem Bohrer, Durchmesser 0,5, kann
-man spionieren — Durch ein Loch. Ich habe Herrn Schraut
+man spionieren — durch ein Loch. Ich habe Herrn Schraut
 zwar erklärt, ich wollte nur einen Gummiabsatz an meinem
 Schuh erneuern — und so weiter, aber das war Schwindel
 …«
@@ -1010,7 +1010,7 @@ meinem Testamentsvollstrecker. Ich habe zwei gleichlautende
 Testamente den heute an meine Mutter und
 an meinen Freund General Warren Powder, London,
 gerichteten Briefen anvertraut. — Mein Vermögen,
-von der City-Bank, London verwaltet wird, beträgt
+das von der City-Bank, London verwaltet wird, beträgt
 etwa eine halbe Million Pfund Sterling. Hiervon
 sollen erhalten
 
@@ -1032,16 +1032,16 @@ London, 10&nbsp;000 — zehntausend — Pfund,
 Olden, London.
 
 > Sollte Letztgenannte vor mir sterben, so soll der ihr
-zustehende Nacklcßanteil gleichmäßig unter die Erben
+zustehende Nachlaßanteil gleichmäßig unter die Erben
 1—4 verteilt werden, mit der einen Einschränkung,
-daß der zu 4. genannte Herein insgesamt nur 20000
+daß der zu 4. genannte Verein insgesamt nur 20&nbsp;000
 — zwanzigtausend — Pfund Sterling erhält.
 
 <p class="centered">Percy Richard Mac Olden,</p>
 <p class="centered">Oberst a. D.</p>
 
 Allan Fraser begann kläglich zu schluchzen … Der
-Inder beschattete die Augen nicht der Hand, auch er war
+Inder beschattete die Augen mit der Hand, auch er war
 tief gerührt.
 
 In dieses Schweigen, das nur durch Frasers leises
@@ -1051,7 +1051,7 @@ Weinen gestört wurde, platzte ein Beamter hinein. Er
 <@pagebreak/>
 »Die Dame bittet sofort vorgelassen zu werden.«
 
-Die Karte trug den Ausdruck;
+Die Karte trug den Aufdruck:
 
 <p class="centered">Elsa Morfax</p>
 
@@ -1073,7 +1073,7 @@ Sie hatte vorgebaute Zähne, dünne Lippen, einen
 Anflug von Schnurrbart, kalte, stechende, hochmütige
 Augen und hielt sich gerade wie ein Ladestock. Sie
 grüßte nicht, sie schaute uns alle der Reihe nach an,
-zog einen Stuhl herbei, setze sich und sagte zu Iomak:
+zog einen Stuhl herbei, setzte sich und sagte zu Iomak:
 
 »Sie sind der Chef der Kriminalabteilung … Ich
 hörte, Oberst Mac Olden ist erschossen worden. Bitte teilen
@@ -1147,7 +1147,7 @@ Unbeteiligten, dem lediglich der Tod seines Wohltäters
 nahe ging. Diese Trauer um Mac Olden war nicht erheuchelt.
 So weit bin ich doch Menschenkenner. —
 
-Miß Morfax’ Frage ah den Kriminalchef blieb zunächst
+Miß Morfax’ Frage an den Kriminalchef blieb zunächst
 unbeachtet. Frasers seltsames Benehmen hatte sowohl
 Iomak als auch Harst übergenug Stoff zum Nachdenken
 gegeben. Die unsympathische Frau wiederholte
@@ -1207,7 +1207,7 @@ der Schreck in die Knochen fuhr! Die Sache liegt ja
 fünf Jahre zurück …«
 
 »Hm, man sollte Ihnen lieber keine Pistole anvertrauen,
-mein guter Fraser,« sagte Harald mehr scherzhaft.
+mein guter Fraser,« sagte Harald mehr scherzend.
 
 Hiermit war auch das Thema erledigt, und wir
 wandten uns anderen Dingen zu, durchsuchten Mac
@@ -1224,7 +1224,7 @@ nichts, gar nichts.
 
 Nach diesem Telephongespräch mit Iomak sagte Harald
 zu Zacharias Vater und Tochter und mir: »Wir
-rennen hier gegen Granitmauern an … In solchem Fall
+rennen hier gegen Granitmauern an … In solchem Falle
 muß man Sprengstoff verwenden. — Anni, — bitte Ihre
 Meinung?!«
 
@@ -1241,7 +1241,7 @@ lautete Haralds ernste Antwort.
 <h3>Eine Quittung vom Himmel.</h3>
 
 Nach dem Mittagessen hielten wir auf der Terrasse
-die gewohnte Siesta … Zacharias Rummel schlief in seinem
+die gewohnte Siesta. Zacharias Rummel schlief in seinem
 Liegestuhl den Schlaf der Gerechten. Der schwere Marokkanerwein
 will in bescheidenen Quantitäten getrunken
 werden. — Anni stichelte an einem Florstrumpf herum,
@@ -1273,16 +1273,16 @@ meinte vorhin, der Tod Frau Mac Oldens hätte doch
 Allan Frasers Erbteil verdächtig erhöht.«
 
 »Allerdings,« sagte ich. »Und Fraser war nicht im
-Hotel, als der Oberst starb, Fraser holte Zigaretten
+Hotel, als der Oberst starb, Fraser holte Zigaretten,
 behauptete *er*. Er wird auch Zigaretten geholt haben,
 aber wie lange er wegblieb, läßt sich nicht mehr kontrollieren.«
 
-Sie blickte mich an. »Vater betonte, bei einem Mord
+Sie blickte mich an. »Vater betonte, bei einem Morde
 müßte man stets fragen: Wem zum Vorteil? — In
 diesem Falle ist Fraser sehr reich geworden, denn auch
 das Vermögen Frau Mac Oldens war dem Sohne, dem
 Oberst, bereits vor dessen Tod zugefallen, mithin wird
-auch das ganze große Vermögen zur Verteilung gelangen.
+auch das ganze große Vermögen zur Verteilung gelangen."
 
 »Hm, — sollten diese Gedanken nicht Ihrem Köpfchen
 entsprungen sein?!« — und ich drohte ihr scherzend
@@ -1356,7 +1356,7 @@ er nichts mehr hinzufügte, bis Anni begeistert rief: »Herr
 Harst, daß Sie an die Briefbogen dachten, war einer
 Ihrer besten Einfälle!«
 
-Harald preßte die Lippe zusammen. Sein Gesicht
+Harald preßte die Lippen zusammen. Sein Gesicht
 umwölkte sich. »Sagen Sie das nicht, Kind … Der Gedanke
 an sich mag gut gewesen, nur, wie ich schon betonte,
 die sofortige Entnahme der Lage Briefpapier war übereilt
@@ -1369,7 +1369,7 @@ Sie beide dürfen nicht hierbleiben. Eine Frau hindert
 unsere Bewegungsfreiheit, wir müßten Rücksichten nehmen,
 wir — um ganz offen zu sein — sind hier weit schwerer
 bedroht, als Sie es ahnen, woran ich schuld bin — ich
-das Briefpapier dort, die beiden weiteren Testamente
+und das Briefpapier dort, die beiden weiteren Testamente
 also.«
 
 Das blonde Mädel reckte sich höher. Mit einer unmerklichen
@@ -1395,7 +1395,7 @@ doch etwas überrascht zu sein.
 »Selbst wenn ich Ihnen eine reife Frucht vor der
 Nase wegpflücke?!« — Jetzt war sie durchaus ernst.
 
-Harst hatte den Kopf gehoben und zuckte ganz wenig,
+Harst hatte den Kopf gehoben und nickte ganz wenig,
 erhob sich halb im Korbsessel und blickte in die Baumkronen
 hinein. Etwas wie steigende Unruhe zeigte sich
 auf seinem hageren, braunen Gesicht.
@@ -1529,7 +1529,7 @@ Oberst mich in seine Dienste nahm. Man rühmt mir
 nach, der beste Detektiv im Osten gewesen zu sein. Das
 ist übertrieben, meine Herren, denn auch mir glückte es
 nicht, den Mann zu finden, den Mac Olden suchte. Er
-suchte in allen Erdwinkeln, wir arbeiteten getrennt und
+suchte in allen Erdenwinkeln, wir arbeiteten getrennt und
 doch vereint. Der Mann, den wir finden wollten, war …«
 
 »… Mac Oldens Bruder Charly Oskar,« fiel
@@ -1554,14 +1554,14 @@ wurde, muß Oskar Mac Olden sich irgendwie
 vorher davon Kenntnis verschafft haben, er verkehrte
 ja noch immer in der besten Gesellschaft, seine Stellung
 als Rechtsanwalt schuf ihm überall günstige Verbindungen.
-Der Dampfer, der die Goldlisten in einer Bucht unweit
+Der Dampfer, der die Goldkisten in einer Bucht unweit
 Dover an Bord nahm, erreichte niemals das europäische
 Festland. Seit jener Nacht war der jüngere Mac Olden
 verschwunden. Gerüchte tauchten auf, daß das Schiff im
 <@pagebreak/>
 Kanal geentert, die Besatzung ermordet und das Gold,
 zehn Millionen, von einer fremden Jacht entführt worden
-sei. Beweise ließen sie nicht erbringen, alles blieb
+sei. Beweise ließen sich nicht erbringen, alles blieb
 bloße Vermutung, alle Nachforschungen zerrannen in
 Nichts, — schließlich begnügte man sich mit der Annahme,
 daß der plötzlich aufgekommene nächtliche Orkan
@@ -1660,7 +1660,7 @@ wurden. — Haben Sie den heutigen Zettel zur Hand,
 Mr. Harst? — So, danke … Sie sehen hier, daß dieser
 nicht von mir herrührende Zettel diese Merkmale der
 Echtheit gleichfalls aufweist. Der erste, zweite und fünfte
-Buchstabe fallen auf, sind sehr kräftig … Die Mörder Mac
+Buchstabe fallen auf, sind sehr kräftig. Die Mörder Mac
 Oldens haben also sogar diesen einfachen Trick, Fälschungen
 der Mitteilungen zu verhüten, herausgefunden
 und mit angewandt. Wie sie dahinter gekommen sind,
@@ -1673,13 +1673,13 @@ fügte hinzu: »Daß Sie, Doktor Sakore und Mr.
 Fraser keine Verräter sind, daß Sie beide Treue halten
 und alles getan haben, was zum Nutzen des Ganzen
 <@pagebreak/>
-erforderlich hier, — daran zweifele ich keinen Augenblick.«
+erforderlich schien, — daran zweifele ich keinen Augenblick.«
 
 »Das wäre ja auch mehr als verletzend für uns!«
 sagte Fraser achselzuckend. »Was der Oberst von uns
 hielt, hat er durch sein Testament bewiesen … Ich bedauere
 nur, daß Sie leer ausgegangen sind, Fung Li.
-Ich werde mich jedoch nicht Lumpen lassen, ich schenke
+Ich werde mich jedoch nicht lumpen lassen, ich schenke
 Ihnen zwanzigtausend Pfund.«
 
 Der kleine Chinamann strahlte geradezu.
@@ -1694,7 +1694,7 @@ bin ich auf dem Flugplatz. — Fahren wir zur Stadt
 zurück, Doktor Sakore.«
 
 Als das Auto mit den dreien verschwunden war,
-trat Harst an die Brüstung und blickte in das Bowlenglas
+trat Harst an die Brüstung und blickte in das Bombenloch
 hinab. »Wir wollen es nicht zuschütten, Iomak,«
 sagte er. »Wer Ohren hatte, zu hören, verstand den
 Doppelsinn mancher Sätze des wackeren Chinesen. Vielleicht
@@ -1767,7 +1767,7 @@ Togo, das östliche Nachbargebiet der Goldküste.
 
 Goldküste, ein enorm reiches Land, — natürlich englische
 Kolonie. Accra, vor zwanzig Jahren ein Hafenort
-von 17&nbsp;000 Einwohnern, — heute sind’s Dreißigtausend
+von 17&nbsp;000 Einwohnern, — heute sind’s dreißigtausend
 etwa, heute residiert der englische Gouverneur in
 dem benachbarten Christiansborg, das ebensogut ein eleganter
 Villenvorort Londons sein könnte.
@@ -1815,7 +1815,7 @@ Sprachen:
 
 Verbote sind dazu da, übertreten zu werden.
 
-Fung Li sagte abgeklärt: »Der Dienst und ich haben
+Fung Li sagte abgeklärt: »Der Oberst und ich haben
 immer geraucht, wir sind sehr viel geflogen, man muß
 nur die Fenster etwas öffnen, daumenbreit …« Er rollte
 sich eine Zigarette und verstaute seine drei Koffer. »Was
@@ -1857,7 +1857,7 @@ Er zog den einen Koffer herbei.
 »Helfen Sie mir — — schnell …«
 
 Unter Anzügen und Wäsche lag ein kleines Maschienengewehr,
-ein Spielzeug fast. »Man borgte es
+ein Spielzeug fast. -- »Man borgte es
 mir in Casablanca,« erklärte der Chinese sachlich. »Allerneueste
 Konstruktion, Lütticher Fabrikat, für Gebirgstruppen
 bestimmt …«
@@ -1868,7 +1868,7 @@ Araber.
 Der Kugelspucker schob seine lange Nase zum Fenster
 hinaus, der Patronengurt wurde eingeführt, Fung Li
 meinte kaltschnäuzig: »Die da drüben werden schleunigst
-verduften … — Mir liegt nichts daran, sie zum Absturz
+verduften … Mir liegt nichts daran, sie zum Absturz
 zu bringen, wir finden sie besser lebend in Accra wieder.«
 
 Das Sportflugzeug war achthundert Meter entfernt,
@@ -1936,7 +1936,7 @@ Freund, Berty Scammon. Sein Auto stand bereit, wir
 bogen in eine dunkle Straße von Jamestown, der Eingeborenenstadt,
 ein, und der Chauffeur fuhr langsamer.
 Einzelne Laternen glotzten durch die gewitterschwere Finsternis,
-aus grell bemalten Kneipen erklang das Brüllen
+aus grell bemalten Kneipen erklang das Gröhlen
 betrunkenen Gesindels, aus Lehmhütten keiften Weiberstimmen,
 dann brach ein Platzregen los, der uns im
 Augenblick durchnäßte. Aus einer Seitenstraße erschien
@@ -1945,7 +1945,7 @@ Antilopenfelltrommeln, dann ein Baldachin, unter dem ein
 bunt herausgeputzter Häuptling saß … Ein infernalischer
 Lärm übertönte das Prasseln des Regens, — Stocklaternen
 blinkten — im Nu war die Straße gesperrt, das
-Auto dicht, und der Niggerhäuptling brüllte Major
+Auto hielt, und der Niggerhäuptling brüllte Major
 Scammon irgend etwas zu.
 
 »Es ist Memhe, der König von Jamestown,« flüsterte
@@ -1991,7 +1991,7 @@ funkelnden Hand. Die englische Kolonialregierung
 verlangt nämlich sehr energisch von den Herren
 Oberhäuptlingen und Unterhäuptlingen bei festlichen Gelegenheiten
 Landestracht. Das berührt seltsam. Der Zweck
-dieser Berechnung ist mir nicht klar geworden, Major
+dieser Verordnung ist mir nicht klar geworden, Major
 Scammon antwortete ausweichend.
 
 König Memhe hatte sich inzwischen erstaunlich schnell
@@ -2011,7 +2011,7 @@ mich des Eindrucks nicht erwehren, daß Memhe jene
 Zeiten nicht vergessen hatte, wo der Sultan von Kumassi
 den Engländern erbitterte Kämpfe geliefert hatte, —
 und die Hauptstadt des Aschanti-Landes liegt nur dreihundert
-Kilometer entfernt … All dies war jedoch
+Kilometer entfernt … -- All dies war jedoch
 im Augenblick ganz bedeutungslos gegenüber der für
 uns recht peinlichen Tatsache, daß sich im Gefolge dieses
 Tyrannen von Jamestown ein uns nur zu bekanntes
@@ -2028,7 +2028,7 @@ Da trat der kleine Fung Li, der sich bisher hinter
 Haralds immerhin langer Gestalt verborgen hatte, rasch
 hervor und sagte mit sanfter Stimme:
 
-»… Dies die Herren Harst und Schraut, und
+»… Dies die Herren Harst und Schraut, -- und
 ich soll Ihnen, Mr. Cracer, einen letzten Gruß von Mac
 Olden bestellen … Was … macht … die … Wilhelminje?!«
 
@@ -2136,7 +2136,7 @@ Majors braunem Gesicht …
 Scammon sagte laut, und seine Stimme klang wie
 Stein an Stein, hart, sprühend vor Grimm: »Fung Li,
 — Sie werden gerächt werden! So wahr ich Mac Olden
-liebte, — Diese Schurken werden baumeln.«
+liebte, — diese Schurken werden baumeln.«
 
 Ein sanftes Lächeln umspielte Fung Li’s dünne
 Lippen … Er schloß die Augen, er lag ganz still, —
@@ -2186,10 +2186,10 @@ ist erwiesen, daß der Fetisch früher durch Menschenopfer
 bei guter Laune erhalten wurde, — jetzt sollen es nur
 Ziegen sein, die ihr Leben an diesem Tage lassen müssen,
 aber seltsamerweise verschwinden regelmäßig vor dem
-Fest zwei oder drei … Fremde, mit Vorliebe verlodderte
+Fest zwei oder drei Fremde, mit Vorliebe verlodderte
 Weiße von jener Sorte, die in den Kolonien sich allein
 noch sicher fühlen dürfen und irgendwo in einer Niggerhütte
-versteckt hausen. Man sagt (und Kenner der
+versteckt hausen. -- Man sagt (und Kenner der
 Verhältnisse behaupten es allen Ernstes), daß der goldene
 Stuhl noch immer mit Menschenblut gewaschen wird, —
 daß kein Neger hierüber ein Sterbenswörtchen verraten
@@ -2291,58 +2291,60 @@ Strafe.
 
 <h3>Der andere Mac Olden.</h3>
 
-Taue« Herzens Stadthaus lag auf einem kahlen
-Hügel, war ein einstöckigen Bau aus hellen Ziegeln mit
-hohen Fundamenten, —. die Wirtschaftsgebäude nur
-Bretterhäu:2:, aber das ganze umgeben von einer ungewöhnlich
-hoben Mauer mit Stacheldrahtverlängerung.
+James Cracers Stadthaus lag auf einem kahlen
+Hügel, war ein einstöckiger Bau aus hellen Ziegeln mit
+hohen Fundamenten, — die Wirtschaftsgebäude nur
+Bretterhäuser, aber das ganze umgeben von einer ungewöhnlich
+hohen Mauer mit Stacheldrahtverlängerung.
 An jeder Hausseite hing an dem weit überragenden Zinkdach
 eine elektrische Bogenlampe, weiße Ampeln, noch
 immer tot, ohne Strom, — das ganze Haus dunkel …
 
 Die Signalhupen der Polizeiautos heulten durch die
-
 Nacht, — die Schwarzen schleppten Leitern herbei, —
 wir standen vor dem eisernen Torweg, Scammon drückte
 auf den Klingelknopf …
-— Die Antwort war ein rasendes Schnellfeuer aus den
+
+Die Antwort war ein rasendes Schnellfeuer aus den
 finsteren Fenstern, — Menschenleiber torkelten von der
 Mauerkrone, Schmerzensschreie schrillten, — aber der
-besessene schlüpfte Wall von Leibern, aufgepeitscht durch
+besessene schwarze Wall von Leibern, aufgepeitscht durch
 König Memhes tollen Grimm, achtete nicht der Toten
 und Sterbenden …
 
 Fackeln flogen auf die Holzdächer der Stallungen,
 einigen Kerlen gelang der Sprung in den Hof, — das
-versperrte ei;iserne Tor flog auf, —. Handgranaten der
+versperrte eiserne Tor flog auf, — Handgranaten der
 <@pagebreak/>
 Polizei sausten gegen die Mauern, explodierten, — von
-den Autos rasierten Maschinengewehre, — sandten ihren
-Bleiregen streichend über Fenster und Befanden …
+den Autos rasselten Maschinengewehre, sandten ihren
+Bleiregen streichend über Fenster und Veranden …
 
 Die Hölle war los …
 
-Von der Stadt der kam Verstärkung, der gerade
+Von der Stadt her kam Verstärkung, der gerade
 im Hafen ankernde Kreuzer Belfast schickte zweihundert
 Mann, — Herren im Abendanzug tauchten, vom Klub
 herbeieilend, mit allerlei Waffen auf …
 
 Und die schwarze Welle, durch nichts mehr zurückgehalten,
-uns ein acc beiseite stoßend, flutete gegen die
+uns einfach beiseite stoßend, flutete gegen die
 Hausmauern, brandete empor zu den Fenstern …
 
 Es gab kein Halten mehr.
-Der schwarze Pöbel von Jamestown letzte nach
-t
+
+Der schwarze Pöbel von Jamestown lechzte nach
+Blut ... --
 
 Achselzuckend hielt Major Scammon uns zurück …
-— »Bleiben Sie!« sagte er hart. »Von denen dort drinnen
+
+»Bleiben Sie!« sagte er hart. »Von denen dort drinnen
 werden wir keinen mehr ins Verhör nehmen können.
-Soll ich die Netz?r niederknallen lassen?!«
+Soll ich die Neger niederknallen lassen?!«
 
-Die Schuppen. brannten …
+Die Schuppen brannten …
 
-Im Hause reiten finstere Teufel, vor uns nun ebenfalls
+Im Hause rasten finstere Teufel, vor uns nun ebenfalls
 eine lebende Mauer … Dann flammten die Bogenlampen
 auf, beleuchteten zugleich mit den Polizeischeinwerfern
 die Stätte des Grauens …
@@ -2356,22 +2358,22 @@ den schwarzen Damm, wir stürmten mit, — hinein durch
 die zertrümmerte Haustür …
 
 Die Neger verschwanden wie Gespenster … Aber
-23 war zu spät. Scammon kannte seine Brut …
+es war zu spät. Scammon kannte seine Brut …
 
 Nur Cracer lebte noch … Eines jener kostbaren
 Schwerter mit Elfenbeingriff, wie die Aschanti-Schmiede
-sie einst bHerstelltein. steckte ihm bis zum Griff in der
-rechten Brustseite … Er lag quer über. einem Diwan,
-b.:1:’gen Schaum »auf den Lippen … Wir standen vor
+sie einst herstellten, steckte ihm bis zum Griff in der
+rechten Brustseite … Er lag quer über einem Diwan,
+blutigen Schaum auf den Lippen … Wir standen vor
 <@pagebreak/>
-ihm … Ein letzter entsetzlicher Flut gurgelte über die
-farblosen Lippen …-
+ihm … Ein letzter entsetzlicher Fluch gurgelte über die
+farblosen Lippen …
 
-»Sucht doch das Gold — findet es, — und Fahrt
-zur Hölle!« …
+»Sucht doch das Gold — sucht es, — und fahrt
+zur Hölle!«
 
-So starb James Cracer, der bei Oberst Mac Olden
-ermorden ließ, den wir auf dem Dampfer getroffen hat
+So starb James Cracer, der den Oberst Mac Olden
+ermorden ließ, den wir auf dem Dampfer getroffen hat-
 ten, als er von London zurückkehrte, wo er die Beseitigung
 Frau Mac Oldens vorbereitet hatte … —
 
@@ -2379,23 +2381,23 @@ Genug des Grausigen.
 
 Leuchtend stieg die Sonne über der wieder beruhigten
 Eingeborenenstadt empor. Ein enger Polizeikordon schloß
-das halb verwüstete, halb ausgeplünde:te Haus des Verbrechens
+das halb verwüstete, halb ausgeplünderte Haus des Verbrechens
 gegen die Außenwelt ab.
 
-Die Negerbevölkerung rüttelte zum Homovo-Fest,
-Dumpfer Trommelwirbel erklang aus dem Gewirr der
-Gassen und Gäßchen, Böllerschüsse begrüßten das Tagesreisen,
+Die Negerbevölkerung rüstete zum Homovo-Fest,
+dumpfer Trommelwirbel erklang aus dem Gewirr der
+Gassen und Gäßchen, Böllerschüsse begrüßten das Tagesgestirn,
 ganze Salven aus uralten Flinten leiteten den
 Tag des Aberglaubens ein. Diese Neger sind im Grunde
 unreife Kinder, unfertige Menschen, — äußere Eindrücke
-sind ihnen alles, bis in ihr Inneres dringt nur Das,
-was das ererbte Blut ihnen mittag?: Fetischdienst, uneingestandene
-Angst vor den alten Göttern, die neben
-Dem Christengott regieren.
+sind ihnen alles, bis in ihr Inneres dringt nur das,
+was das ererbte Blut ihnen mitgab: Fetischdienst,
+uneingestandene Angst vor den alten Göttern, die neben
+dem Christengott regieren.
 
-Tür uns hatte der Rest der — Nacht keine Ruhe gespendet.
+Für uns hatte der Rest der Nacht keine Ruhe gespendet.
 Major Scammon hatte König Memhe als kluger
-Politiker, als -Kenner der Volksseele öffentlich im Schein
+Politiker, als Kenner der Volksseele öffentlich im Schein
 der Bogenlampen gedankt und die Hand gedrückt. Memhe
 von Jamestown war geschwollen vor Eitelkeit und Wichtigtuerei,
 — noch nie hatte er beweisen können, daß all
@@ -2403,7 +2405,7 @@ diese Tausende von heimlichen Fanatikern ihm so blindlings
 ergeben waren. Er hatte Richter gespielt, unter den
 Kugeln und Speeren und Messern seiner Leute waren
 Cracers Verbündete hingesunken wie kranke, überreife
-alt …
+Saat.
 
 <@pagebreak/>
 Scammon machte weiter kein Hehl daraus, daß ihm
@@ -2411,44 +2413,44 @@ dieser Ausgang endlose Gerichtsverhandlungen erspart
 hatte. Aber — es war noch nicht alles getan.
 
 In James Cracers großem Arbeitszimmer hatten am
--’ langen Tisch diese geldgierigen Schurken gesessen und beraten.
+langen Tisch diese geldgierigen Schurken gesessen und beraten.
 Aus den Papieren, die wir fanden, schälte sich
 das Bild vergangener Schandtaten klar heraus. Diese
-Piraten, keiner dem anderen trauend, in steter Furcht! vor
+Piraten, keiner dem anderen trauend, in steter Furcht vor
 ihrem unerbittlichen Verfolger Mac Olden, hatten sich
 gegen Verrat des Einzelnen gesichert. Mitten auf dem
 Tische stand eine Stahlkassette. Ihren Inhalt zu verbrennen,
 fanden die Banditen keine Zeit mehr. Das Unheil
 der Vergeltung war über sie hereingebrochen wie eine
 Sturmflut, die Kassette enthielt das von allen Beteiligten
-Unterzeichnete Dokument ihrer Schuld.
+unterzeichnete Dokument ihrer Schuld.
 
-ie Schrift lautete:
+Die Schrift lautete:
 
-Wir, die wir dieses Geständnis unterschrieben haben,
-damit keiner von uns je Verrat öde, erklären Folgendes:
+> Wir, die wir dieses Geständnis unterschrieben haben,
+damit keiner von uns je Verrat übe, erklären Folgendes:
 Charly Oskar Mac Olden, jüngerer Bruder des Oberst
 Mac Olden, war Mitglied eines kleinen Klubs in London,
 in dem sich Männer und Frauen zweifelhaften Rufes zusammengetan
-hatten. Zu ihnen gehörte auch Dramas
+hatten. Zu ihnen gehörte auch James
 Cracer, einst Hausmeister der Familie Mac Olden, dann
 Plantagenbesitzer unweit Accra, Goldküste. Als Cracer
 einmal wieder die Heimat besuchte, teilte ihm Oskar Mac
 Olden, damals schon mit seiner Familie zerfallen, ohne
 bestimmte Absicht mit, daß der Golddampfer nach drei
 Tagen heimlich in See gehen würde. Cracer und die anderen
-Klubmitglieder beschlossen, das Gold zu rauben,
+Klubmitglieder beschlossen, das Gold zu rauben.
 Cracer gab das Geld her, den holländischen Dampfer
 Wilhelminje zu chartern, Bob Fennon übernahm die
 Führung des Schiffes, und in jener Nacht überfielen wir
 den Golddampfer, töteten die Besatzung, brachten die
 Goldkisten auf die Wilhelminje und verbargen nachher den
-Raub, indem wir einander schworen, den Satz erst dann
+Raub, indem wir einander schworen, den Schatz erst dann
 <@pagebreak/>
 zu teilen, wenn wir keine Entdeckung mehr zu fürchten
 hätten. Wir wollten uns nicht durch größere Geldausgaben
 verdächtig machen. Jedes Jahr kamen wir einmal
-zusammen, entnahmen dem Satze kleinere Beträge und
+zusammen, entnahmen dem Schatze kleinere Beträge und
 berieten, was gegen Oberst Mac Olden, der uns nachspürte,
 zu unternehmen sei. Wir suchten ihn zu beseitigen,
 — er war vorsichtig, — wir bestachen schließlich seinen
@@ -2456,41 +2458,43 @@ Kammerdiener Allan Fraser, der ihn vergiften sollte.
 Fraser kannte persönlich niemanden von uns, die Unterhandlungen
 mit ihm hatte Elsa Morfax verkleidet geführt.
 — Charly Oskar Mac Olden, dem wir den großen
-Tipp verdankten, hatte sich? an dem Gewaltstreich nicht
+Tipp verdankten, hatte sich an dem Gewaltstreich nicht
 beteiligen wollen, drohte mit Verrat und wurde stumm
 gemacht. Einige drangen darauf, ihn zu töten, die meisten
-waren dagegen, und er wurde- für alle Zeiten in sicheren
+waren dagegen, und er wurde für alle Zeiten in sicheren
 Gewahrsam gebracht. — Wir bekennen, daß wir alle
 gleich schuldig sind.
-Accra, im Februar 1926.
-(Folgen die Unterschriften.)
+
+> Accra, im Februar 1926.
+
+<p class="centered">(Folgen die Unterschriften.)</p>
 
 Ein zweites Dokument ähnlicher Art, begonnen in
-dieser Schreensnaht, war nicht zu Ende geführt worden.
+dieser Schreckensnacht, war nicht zu Ende geführt worden.
 
-»Dir bekennen des weiteren, daß wir alle auch
+»*Wir* bekennen des weiteren, daß wir alle auch
 an dem Tode des Oberst Mac Olden die gleiche Schuld
 tragen, daß wir es nunmehr auch auf das Vermögen
-der. Mac Oldens abgesehen und Allan Fraser bestimmt
+der Mac Oldens abgesehen und Allan Fraser bestimmt
 hatten, ein Testament zu fälschen, das ihm den Hauptanteil
-des Gebet sicherte. Cracer traf mit Elsa Morfax
+des Erbes sicherte. Cracer traf mit Elsa Morfax
 in London zusammen, wo Bob Fennon auf ein bestimmtes
 Telegramm der Morfax hin, gerichtet an ihre Zeitung,
-&rxau Mac Olden töten sollte. Am nächsten Tage sollte
+Frau Mac Olden töten sollte. Am nächsten Tage sollte
 dann der Oberst in Casablanca sterben. — Ein Anschlag
 auf den Deutschen Harald Harst mißlang, ebenso ein
-ernster. Das Flugzeug mit dreien von uns zerschellte. Nur
+zweiter. Das Flugzeug mit dreien von uns zerschellte. Nur
 einer gelangte noch lebend nach Casablanca und sandte
 <@pagebreak/>
 uns die Warnung, daß Harst unterwegs nach Accra sei.
-Dieses Kabel traf soeben für Cracer ein, der sich darausfshin
-in ’den Palast Memhes begab, wo, wie wir wußten,
-die Deutschen und …
+Dieses Kabel traf soeben für Cracer ein, der sich daraufhin
+in den Palast Memhes begab, wo, wie wir wußten,
+die Deutschen und …"
 
-Hier Grad die Niederschrift ab.
+Hier brach die Niederschrift ab.
 
 Um diesen Beratungstisch der Verbrecher saßen jetzt
-acht Männer Herum, die nichts von dem in der Eingeborenenstadt
+acht Männer herum, die nichts von dem in der Eingeborenenstadt
 erwachenden Festtrubel vernahmen. Ihre
 Gedanken beschäftigten sich mit ernsteren Dingen.
 
@@ -2500,78 +2504,77 @@ kleinen Versammlung.
 »Mr. Harst, Sie erzählten, das Sportflugzeug sei
 Ihnen entkommen,« sagte er fragend.
 
-»das sagte im nicht,« erwiderte Harald bedächtig.
+»Das sagte ich nicht,« erwiderte Harald bedächtig.
 »Fung Li teilte uns mit, der Eindecker ginge im Gleitflug
-nieder. Fung Li täuschte sich, er hatte doch Wohl
+nieder. Fung Li täuschte sich, er hatte doch wohl
 besser getroffen, als er annahm.«
 
-Seine Gjäzellenz fragte weiter: »Wer erschoß Mac
+Seine Exzellenz fragte weiter: »Wer erschoß Mac
 Olden?«
 
-Harst schwieg erst. »Dieser Mord, Exzellenz, wo«
-Blau vorbereitet, das nur ein kleiner Fehler der Mörder,
-die sich auf Cracers Jacht befanden, mich) auf die richtige
+Harst schwieg erst. »Dieser Mord, Exzellenz, war so
+schlau vorbereitet, daß nur ein kleiner Fehler der Mörder,
+die sich auf Cracers Jacht befanden, mich auf die richtige
 Spur brachte. Sie wollten Mac Olden von der Jacht aus
 mit einem Maschinengewehr und mit runden Geschossen
 töten. Ein Teil der Baumkrone der Platane im Garten
 der Villa Rapsom war ihnen im Wege. Sie lichteten die
-Krone, um freies Schußfeld zu Haben, sie getreten den!
-mit einem großen Schalldämper auf der Mündung, sie
+Krone, um freies Schußfeld zu haben, sie feuerten dann
+mit einem großen Schalldämpfer auf der Mündung, sie
 feuerten zuerst über das etwa neunhundert Meter entfernte
 Ziel hinweg, durchlöcherten die Seidenschirme —
-und tragen. Mac Olden erhielt drei Kugeln. — So Billard
-er — — als Soldat vor den Feinde.«
+und trafen. Mac Olden erhielt drei Kugeln. — So starb
+er — als Soldat vor dem Feinde.«
 
 Exzellenz blickte Harst bittend an. »Werden Sie
 <@pagebreak/>
-uns nachts dem Schatz und nach dem unglücklichen Bruder
+uns nach dem Schatz und nach dem unglücklichen Bruder
 des Oberst suchen helfen?«
 
 Harst zögerte wieder. »Ich fürchte, das Suchen wäre
 zwecklos, Exzellenz. Ich rate, versprechen Sie Miß Morfax
 milde Bestrafung, und sie wird alles verraten. Es ist
 der einfachste Weg, der schnellste. Telegraphieren Sie an
-Iomak-Bey, und Iomak wird Miß Kneifer zu einem
+Iomak-Bey, und Iomak wird Miß Morfax zu einem
 Geständnis bringen.« —
 
-Abends, als ganz Accra von dem Brüllen der
+Abends, als ganz Accra von dem Gröhlen der
 Trunkenen widerhallte, traf Iomaks Antwort ein. Die
 Kisten waren in einem Geheimkeller unter den niedergebrannten
 Schuppen verborgen, Charly Oskar Mac Olden,
-ein Gescheiterten, jetzt ein reuiger, gebrochener Mann,
+ein Gescheiterter, jetzt ein reuiger, gebrochener Mann,
 wurde in einer Hütte im Dickicht unweit der Plantage
 Cracers gefunden, einer früheren Fetischhütte in einem
 heiligen Hain, den kein Schwarzer zu betreten wagte. Er
 war dort angeschmiedet wie ein wildes Tier, er war
-schneeweiß geworden, sechs zahle hatte er in Gasthaus
+schneeweiß geworden, sechs Jahre hatte er in Gestank
 und Unrat zugebracht.
 
-Er erholte sie bald, er erbte die Millionen der Mac
-Oldens, er belohnte Doktor Rabiater Sakore aus glänzendste,
-er gab sein Riesenvermögen zur Werke der
+Er erholte sich bald, er erbte die Millionen der Mac
+Oldens, er belohnte Doktor Rabradri Sakore aufs glänzendste,
+er gab sein Riesenvermögen für Werke der
 Liebe hin und blieb in Accra und bewirtschaftet einsam
 und menschenscheu eine kleine Plantage — noch heute.
 
-Allan Fraser büßt in einem englischen Zu )tdauuv,
-die »leuchtende Eule hat Harst sich ausgebeten …
+Allan Fraser büßt in einem englischen Zuchthaus, --
+die leuchtende Eule hat Harst sich ausgebeten …
 
-Wer uns einmal besucht, wird sie aus der lauteten
-Schreibtischecke finden. ’Wenn mein Freund ihren Stern
+Wer uns einmal besucht, wird sie auf der rechten
+Schreibtischecke finden. Wenn mein Freund ihren Stecker
 an die Lichtleitung anschließt und die Augen des Tieres
-glühen und der seine Duft verdampfender ’Tannenchysenz
-»das Zimmer füllt, brauche ich nur die Augen zu schließen
+glühen und der feine Duft verdampfender Tannenessenz
+das Zimmer füllt, brauche ich nur die Augen zu schließen:
 
-All die wider Szenen im seinen Accra werden dann
-wieder lebendig, ich sehe Memhe, den König, aufs den
-Fenster stehen sind höre seine Posaunenstimme …
+All die wilden Szenen im fernen Accra werden dann
+wieder lebendig, ich sehe Memhe, den König, auf dem
+Fenster stehen und höre seine Posaunenstimme …
 
 <@pagebreak/>
 Die Eule hält den Kopf etwas schief. Die Alten
-nannten sie den Vogel der Feigheit. Unsere Eule war ein
+nannten sie den Vogel der Weisheit. Unsere Eule war ein
 Vogel kalter verbrecherischer Berechnung. Jetzt ist sie
 nur noch Andenken und … Rauchverzehrer. —
 
-Nächster Band«:
-Die Fallreep der alten Mantel.
-
-Buchdruckerei P. Lehmann G. in. b. H., Berlin so I6
+<#import "*/harst.ftl" as harst>
+<@harst.naechsterband band="Die Kakteen der alten Mamsell."/>
+<@harst.druck/>
