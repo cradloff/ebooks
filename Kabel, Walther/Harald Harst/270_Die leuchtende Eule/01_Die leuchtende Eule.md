@@ -990,7 +990,7 @@ und hielt den ausgebreiteten Briefbogen über die Flamme.
 Das Papier wurde gelb … Aber der Erfolg blieb aus.
 
 Da drehte er den Bogen um und bräunte die leere
-Innenseite. »Was ich vermutet hatte, geschah: Auf dem
+Innenseite. Was ich vermutet hatte, geschah: Auf dem
 verfärbten Papier traten deutlich braune Buchstaben hervor.
 
 »Mac Olden hat mit Milch geschrieben,« meinte Harst.
@@ -1282,7 +1282,7 @@ müßte man stets fragen: Wem zum Vorteil? — In
 diesem Falle ist Fraser sehr reich geworden, denn auch
 das Vermögen Frau Mac Oldens war dem Sohne, dem
 Oberst, bereits vor dessen Tod zugefallen, mithin wird
-auch das ganze große Vermögen zur Verteilung gelangen."
+auch das ganze große Vermögen zur Verteilung gelangen.«
 
 »Hm, — sollten diese Gedanken nicht Ihrem Köpfchen
 entsprungen sein?!« — und ich drohte ihr scherzend
@@ -1849,7 +1849,7 @@ entgegen.
 »Es wird der Bombenschmeißer sein,« meinte Harald.
 »Man hat uns also doch aufgelauert …«
 
-Fung Li nahm sein Fernglas. »Er ist's … Die
+Fung Li nahm sein Fernglas. »Er ist’s … Die
 Bande denkt an alles … Ich auch.«
 
 Er zog den einen Koffer herbei.
@@ -1857,7 +1857,7 @@ Er zog den einen Koffer herbei.
 »Helfen Sie mir — — schnell …«
 
 Unter Anzügen und Wäsche lag ein kleines Maschienengewehr,
-ein Spielzeug fast. -- »Man borgte es
+ein Spielzeug fast. — »Man borgte es
 mir in Casablanca,« erklärte der Chinese sachlich. »Allerneueste
 Konstruktion, Lütticher Fabrikat, für Gebirgstruppen
 bestimmt …«
@@ -1897,7 +1897,7 @@ wichtig. Natürlich habe ich die Signaleule gleichfalls am
 Fenster des Hotel Excelsior bemerkt, — ein guter Gedanke,
 diese leuchtende Eule … Man lernt doch immer
 wieder etwas Neues, und man staunt, wie sehr ein solcher
-Kampf um Millionen die Phantasie anfeuert. -- Die
+Kampf um Millionen die Phantasie anfeuert. — Die
 Morfax gehört mit zu den Piraten.«
 
 Fung Li liebte derartig knappe Schlußsätze. »Auch
@@ -1958,7 +1958,7 @@ ist immer so vor dem Homovo.«
 Er sprach für uns in Rätseln.
 
 <@pagebreak/>
-»... König Memhe lädt uns ein, das Gewitter
+»… König Memhe lädt uns ein, das Gewitter
 in seinem Palast abzuwarten. Ich kann nicht gut ablehnen
 …«
 
@@ -2011,7 +2011,7 @@ mich des Eindrucks nicht erwehren, daß Memhe jene
 Zeiten nicht vergessen hatte, wo der Sultan von Kumassi
 den Engländern erbitterte Kämpfe geliefert hatte, —
 und die Hauptstadt des Aschanti-Landes liegt nur dreihundert
-Kilometer entfernt … -- All dies war jedoch
+Kilometer entfernt … — All dies war jedoch
 im Augenblick ganz bedeutungslos gegenüber der für
 uns recht peinlichen Tatsache, daß sich im Gefolge dieses
 Tyrannen von Jamestown ein uns nur zu bekanntes
@@ -2028,7 +2028,7 @@ Da trat der kleine Fung Li, der sich bisher hinter
 Haralds immerhin langer Gestalt verborgen hatte, rasch
 hervor und sagte mit sanfter Stimme:
 
-»… Dies die Herren Harst und Schraut, -- und
+»… Dies die Herren Harst und Schraut, — und
 ich soll Ihnen, Mr. Cracer, einen letzten Gruß von Mac
 Olden bestellen … Was … macht … die … Wilhelminje?!«
 
@@ -2067,7 +2067,7 @@ dem seltsamen Thronsessel aus Elefantenknochen
 und Leder und blitzenden Goldbeschlägen glich für Sekunden
 einer Totenkammer. Totenstille herrschte. Harst
 und ich sperrten die Türen ab, Major Scammon hatte
-langsam eine Pistole zum Vorschein gebracht, -- er
+langsam eine Pistole zum Vorschein gebracht, — er
 <@pagebreak/>
 war einer jener alten Kolonialkämpen, die nichts mehr
 überraschen kann.
@@ -2110,8 +2110,8 @@ Scammon nickte und trat an den Apparat, nahm
 den Hörer ab …
 
 Im selben Moment erlosch das Licht …
-<@pagebreak/>
 
+<@pagebreak/>
 Harsts Stimme schrillte warnend: »Vorsicht, Major,
 — hier …«
 
@@ -2157,7 +2157,7 @@ trotzdem der Abgott der Jamestown-Bewohner war.
 »ich wußte nicht, daß Cracer die Tür dort hinter dem
 <@pagebreak/>
 Vorhang des Thronsessels kannte … Es muß ein Fremder
-hier eingedrungen sein …" —
+hier eingedrungen sein …« —
 
 Diese Nacht war die, in der Accra seit Jahren seine
 größte Sensation erlebte.
@@ -2189,7 +2189,7 @@ aber seltsamerweise verschwinden regelmäßig vor dem
 Fest zwei oder drei Fremde, mit Vorliebe verlodderte
 Weiße von jener Sorte, die in den Kolonien sich allein
 noch sicher fühlen dürfen und irgendwo in einer Niggerhütte
-versteckt hausen. -- Man sagt (und Kenner der
+versteckt hausen. — Man sagt (und Kenner der
 Verhältnisse behaupten es allen Ernstes), daß der goldene
 Stuhl noch immer mit Menschenblut gewaschen wird, —
 daß kein Neger hierüber ein Sterbenswörtchen verraten
@@ -2242,7 +2242,7 @@ Fenstern, — die Scheiben zersplitterten unter einem Steinhagel,
 hunderte von halb verrückten, halb betrunkenen
 Schwarzen umschwärmten das Haus, — Vorderlader
 spuckten ihren Bleihagel, Wurfmesser fuhren in die Vorhänge
-...
+…
 
 Wir alle hatten uns lang hingeworfen. Memhes erdiges
 Gesicht zuckte in wahnsinniger Wut …
@@ -2334,7 +2334,7 @@ Hausmauern, brandete empor zu den Fenstern …
 Es gab kein Halten mehr.
 
 Der schwarze Pöbel von Jamestown lechzte nach
-Blut ... --
+Blut … —
 
 Achselzuckend hielt Major Scammon uns zurück …
 
@@ -2373,8 +2373,8 @@ farblosen Lippen …
 zur Hölle!«
 
 So starb James Cracer, der den Oberst Mac Olden
-ermorden ließ, den wir auf dem Dampfer getroffen hat-
-ten, als er von London zurückkehrte, wo er die Beseitigung
+ermorden ließ, den wir auf dem Dampfer getroffen hatten,
+als er von London zurückkehrte, wo er die Beseitigung
 Frau Mac Oldens vorbereitet hatte … —
 
 Genug des Grausigen.
@@ -2489,7 +2489,7 @@ einer gelangte noch lebend nach Casablanca und sandte
 uns die Warnung, daß Harst unterwegs nach Accra sei.
 Dieses Kabel traf soeben für Cracer ein, der sich daraufhin
 in den Palast Memhes begab, wo, wie wir wußten,
-die Deutschen und …"
+die Deutschen und …«
 
 Hier brach die Niederschrift ab.
 
@@ -2551,12 +2551,12 @@ schneeweiß geworden, sechs Jahre hatte er in Gestank
 und Unrat zugebracht.
 
 Er erholte sich bald, er erbte die Millionen der Mac
-Oldens, er belohnte Doktor Rabradri Sakore aufs glänzendste,
+Oldens, er belohnte Doktor Rabradi Sakore aufs glänzendste,
 er gab sein Riesenvermögen für Werke der
 Liebe hin und blieb in Accra und bewirtschaftet einsam
 und menschenscheu eine kleine Plantage — noch heute.
 
-Allan Fraser büßt in einem englischen Zuchthaus, --
+Allan Fraser büßt in einem englischen Zuchthaus, —
 die leuchtende Eule hat Harst sich ausgebeten …
 
 Wer uns einmal besucht, wird sie auf der rechten

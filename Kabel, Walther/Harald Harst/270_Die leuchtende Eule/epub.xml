@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">cca32993-8fb5-4a05-99f5-e7035d0834c4</entry>
+<entry key="title">Die leuchtende Eule</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">270</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Die leuchtende Eule
+
+»Annichen, — mal ehrlich, Kind, — Sie haben etwas auf dem Herzen, nicht wahr?«
+
+Zunächst erfolgte keine Antwort. Vater Zacharias hatte sich langsam umgedreht. Sein mageres Gesicht mit den scharfen Schauspielerzügen (die Tätigkeit bei der Detektei »Globus« hatte dem Polizeisekretär a. D. alles Bürokratische genommen) verriet Überraschung. »Ich wüßte nicht, was Anni auf dem Herzen haben sollte,« sagte er bedächtig. »Obwohl mir auf der Herfahrt von Tanger auf dem Dampfer einiges auffiel. — Weshalb ließest du dir eigentlich von Herrn Schraut den Bohrer geben, Kind?!«
+
+»Vater, mit einem Bohrer, Durchmesser 0,5, kann man spionieren — durch ein Loch. Ich habe Herrn Schraut zwar erklärt, ich wollte nur einen Gummiabsatz an meinem Schuh erneuern — und so weiter, aber das war Schwindel …«
+
+»Die Eule?!« warf Harald ein und schrieb weiter.
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (270) Die leuchtende Eule.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1929</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
