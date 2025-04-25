@@ -41,7 +41,7 @@ großer überdachter Terrasse, gepflegtem Garten, hoher
 Steinmauer und einer Fülle einheimischer Bäume und
 Büsche. Die neue Dienerschaft, die Iomak für uns besorgt
 hatte, waren zumeist würdige Araber, der Koch ein
-Chinese, der Gärtner ein Mischling von Ziemlich heller
+Chinese, der Gärtner ein Mischling von ziemlich heller
 Haut und straffem Haar.
 
 Von der Terrasse konnte man eine Motorjacht beobachten,
@@ -548,7 +548,7 @@ dumpfen Knallen. — Der Arzt entschied: Aus nächster
 Nähe ermordet! Er kam zu diesem Trugschluß durch die
 Ausschußöffnungen. — Der Mörder ist sehr schlau vorgegangen.«
 
-»und muß ein miserabler Schütze sein,« fügte Iomak
+»Und muß ein miserabler Schütze sein,« fügte Iomak
 hinzu. »Da — acht Kugellöcher im Schirm! Dazu
 die drei tödlichen Treffer, ferner die Kugel, die den
 Tischrand traf: Der Mensch hatte zwei Pistolen bei sich!«
@@ -1905,7 +1905,7 @@ dieser James Cracer ist Mitglied der Bande, ferner der
 Bruder der Morfax in Accra. Sie hat ihn ja durch
 die Depesche vor Ihnen gewarnt, Mr. Harst.«
 
-»und Allan Fraser?« fragte Harald, indem er seine
+»Und Allan Fraser?« fragte Harald, indem er seine
 chiffrierten Notizen einsah.
 
 Fung Li’s Gesicht verzog sich verächtlich. »Nur eine
