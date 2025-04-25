@@ -19,6 +19,7 @@
 \bBieter\b	Meter
 \bC3\b	Es
 \bden!	dem
+\bdice\b	dicke
 \bdien\b	dicken
 \b(\d+)[l1i]en\b	$1ten
 \bdom\b	doch
