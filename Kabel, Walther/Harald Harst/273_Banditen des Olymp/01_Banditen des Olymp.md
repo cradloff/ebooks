@@ -198,7 +198,7 @@ Seine merkwürdig energische Art machte mich stutzig. »Nun gut,« meinte ich nu
 
 Ich wurde so Zeuge eines sehr eigentümlichen Zwischenfalles. Tobias schraubte die Lampe in der Fassung so locker, daß auch sie erlosch, schaltete dann einen Leuchtstab ein, nahm seine Waffe in die rechte Hand und suchte das Gewächshaus nach dem Eindringling ab. Zuerst fand er nichts. Aber links neben der Tür lagen zwei Strohmatten, — er hob sie empor, und der Lichtkegel zeigte auch mir, dem heimlichen Lauscher, Isolde Remmeles schlanke Gestalt und ihr pikantes Gesichtchen. Sie hatte sich rasch aufgerichtet, und was sie nun halblaut ohne jede Verlegenheit hervorstieß, gab mir neue Rätsel auf …
 
-»Onkel, lch danke dir, daß du Herrn Schraut weggeschickt hast … Ich konnte nicht anders, ich muß endlich die Wahrheit erfahren, — — du … du … bist … mein Vater — — mein Vater!! Herr Gott, ich — — habe noch einen Vater, — — und ich habe es gefühlt, daß du …«
+»Onkel, ich danke dir, daß du Herrn Schraut weggeschickt hast … Ich konnte nicht anders, ich muß endlich die Wahrheit erfahren, — — du … du … bist … mein Vater — — mein Vater!! Herr Gott, ich — — habe noch einen Vater, — — und ich habe es gefühlt, daß du …«
 
 Sie hatte sich ihm an die Brust geworfen. Tränen erstickten ihre Stimme …
 

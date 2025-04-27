@@ -1,38 +1,6 @@
-<strong>Anmerkungen:</strong>
+<div class="anmerkungen">Anmerkungen:</div>
 
-<ol class="rteindent1">
+<@footnote 1 "01_Banditen des Olymp.md">Siehe auf Wikipedia unter Trikala.</@footnote>
 
-<li><a href="#R1" name="A1" id="A1">↑</a> Siehe auf Wikipedia unter Trikala.</li>
-
-<li><a href="#R2" name="A2" id="A2">↑</a> Das Zahlenwunder wird auch als Zyklische Zahl bezeichnet.</li>
-
-</ol>
-
-</div></div></div>  </div>
-
-  <div class="clearfix">
-
-          <div class="links"></div>
-
-      </div>
-
-</div>
-
-  </div>
-
-</div>
-
-  </div>
-
-          </div>
-
-                          </div></div></div></div> <!-- /.left-corner, /.right-corner, /#squeeze, /#center -->
-
-    </div> <!-- /#container -->
-
-  </div> <!-- /#wrapper -->
-
-  </body>
-
-</html>
+<@footnote 2 "01_Banditen des Olymp.md">Das Zahlenwunder wird auch als Zyklische Zahl bezeichnet.</@footnote>
 
