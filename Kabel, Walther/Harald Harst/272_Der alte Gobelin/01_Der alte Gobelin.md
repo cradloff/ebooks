@@ -1,11 +1,5 @@
-<h1>Der alte Gobelin</h1>
-
-
-
-<p class="centered"><span style="font-size:14px">Erzählt von</span></p>
-
-<p class="centered"><span style="font-size:20px">Max Schraut</span></p>
-
+<#import "*/harst.ftl" as harst>
+<@harst.introshort/>
 
 <h2>1. Kapitel.</h2>
 
@@ -117,7 +111,7 @@ Es war ein sehr nachdenklicher Pagel, der in seinem Laubenhäuschen zurückblieb
 
 Zeitungslöwen, die sich mit der von Conan Doyle erfundenen Figur des Sherlock Holmes eingehender beschäftigt haben, vermuten, daß Sir Doyle diese vor dreißig Jahren etwa modernen Detektivromane nicht erfunden, sondern dazu als Muster den berühmtesten Detektiv Londons Frank Castle Froest gewählt hat.
 
-Genau wie ich hier stets tatsächlich existierende Personen und Örtlichkeiten schildere (Abweichungen in bezug auf Namen und Kleinigkeiten muß ich schon aus Gründen der Diskretion mir zur Pflicht machen), — genau so ist Frank Froest die berühmteste Persönlichkeit des Londoner Polizeihauptquartiers gewesen.<sup><a href="#VA1" name="VR1" id="VR1">[*1]</a></sup> In seiner Glanzzeit um das Jahr 1890 nannte man ihn häufig den wahren Sherlock Holmes. Wir lernten ihn erst kennen, als er im Ruhestande in seiner idyllischen Villa ganz seinen privaten Neigungen sich hingab. Im Jahre 1922 trafen wir mit ihm aus Anlaß des Falles Warbatth zusammen. Er war ein unscheinbarer, kleiner, breitschulteriger Mann mit borstigem Schnurrbart und ebenso borstigem, kurzgeschnittenem Kopfhaar, hatte ein rundliches, frisches, vergnügtes Gesicht und glich durchaus einem wohlhabenden Rentner und Kaufmann a. D., — nichts erinnerte an seinen Beruf, seine glänzende Laufbahn und — nicht zu vergessen — seine ungeheuren Körperkräfte. Er war Amateurboxer, dessen Faust besser wirkte als ein Gummiknüttel. Damals klagte er uns, daß noch immer Privatpersonen ihn in Anspruch zu nehmen suchten. Er lehnte jedoch selbst die verlockendsten Honorarangebote ab. Auch Warbatth interessierte ihn nicht. Trotzdem wechselten wir gelegentlich Briefe, blieben also immerhin in lockerer Verbindung. —
+Genau wie ich hier stets tatsächlich existierende Personen und Örtlichkeiten schildere (Abweichungen in bezug auf Namen und Kleinigkeiten muß ich schon aus Gründen der Diskretion mir zur Pflicht machen), — genau so ist Frank Froest die berühmteste Persönlichkeit des Londoner Polizeihauptquartiers gewesen.<@refnote 1/> In seiner Glanzzeit um das Jahr 1890 nannte man ihn häufig den wahren Sherlock Holmes. Wir lernten ihn erst kennen, als er im Ruhestande in seiner idyllischen Villa ganz seinen privaten Neigungen sich hingab. Im Jahre 1922 trafen wir mit ihm aus Anlaß des Falles Warbatty zusammen. Er war ein unscheinbarer, kleiner, breitschulteriger Mann mit borstigem Schnurrbart und ebenso borstigem, kurzgeschnittenem Kopfhaar, hatte ein rundliches, frisches, vergnügtes Gesicht und glich durchaus einem wohlhabenden Rentner und Kaufmann a. D., — nichts erinnerte an seinen Beruf, seine glänzende Laufbahn und — nicht zu vergessen — seine ungeheuren Körperkräfte. Er war Amateurboxer, dessen Faust besser wirkte als ein Gummiknüttel. Damals klagte er uns, daß noch immer Privatpersonen ihn in Anspruch zu nehmen suchten. Er lehnte jedoch selbst die verlockendsten Honorarangebote ab. Auch Warbatty interessierte ihn nicht. Trotzdem wechselten wir gelegentlich Briefe, blieben also immerhin in lockerer Verbindung. —
 
 Als wir nun nach den vielversprechenden Vorfällen bei Gustav Pagel den Weg betraten und die wenigen Schritte bis zur Laube des Ziegenvaters schweigend zurücklegten (zwischen Pagels und Jaromir Zwanczas Besitz lag nur ein schmales verwahrlostes Laubengrundstück), lehnte an einer Pumpe, die längst nicht mehr benutzt wurde, ein einfach gekleideter alter Mann mit grauem Schifferbart und dunkler Hornbrille und schob gerade in eine photographische Kamera einen neuen Filmstreifen ein. Der Mann blickte nur flüchtig auf und summte behaglich irgendeinen Fox vor sich hin. Ich sagte schon, daß dieser Wintertag etwa in den Monat September hineinpaßte. Das leichte Gewölk hatte sich zerteilt, die Sonne schien, und die Pelzhändler beteten sicherlich zu Jehovah, dieser unnatürlichen Witterung ein Ende zu machen.
 
@@ -241,7 +235,7 @@ Sie hielt wacker mit uns Schritt. Wir überquerten den Kolberger Platz, — drü
 
 Harald erwiderte mit größter Höflichkeit: »Ich glaube, ich hätte Sie mehr zu fragen als Sie mich, Mr. Froest. Was haben Sie photographiert?«
 
-Froest entgegnete ausweichend: »Ein Stilleben und einen Gentleman ohne Golfstöcke. Das wird Sie kaum interessieren. Bei der Nachlaßversteigerung wird man die Golfstöcke berücksichtigen müssen. — Spielen Sie auch Golf, Miß Saalfield, oder haben Sie sich ganz der modernen Kunst gewidmet, Menschen recht ähnlich wiederzugeben? Das ist schwer, sehr schwer, sage ich Ihnen. Der beste Maler, den ich kannte, war der Frauenmörder Crippen, der tatsächlich jeden Tag anders aussah. <em>Ich</em> sah immer gleich aus, und schließlich flüchtete Crippen mit dem Dampfer »Montrose« nach Kanada. Leider war’s zu einer Zeit, als Marconi die Funkerei bereits so weit gefördert hatte, daß die Montrose als eins der ersten Schiffe einen Empfänger an Bord hatte. Ich funkte dem Dampfer das Nötige, und Crippen wurde bei der Landung verhaftet und zurückgebracht und gehenkt.<@refnote 1/> Seine Geliebte, Miß Le Neve, eine unschuldsvolle Taube, entging demselben Schicksal lediglich durch die Kunst der Anwälte. Ich war sehr unzufrieden damit. Nun, vielleicht gibt es heute nicht mehr so tüchtige Verteidiger und so rücksichtslose Detektivoberinspektoren, wie ich einer war.«
+Froest entgegnete ausweichend: »Ein Stilleben und einen Gentleman ohne Golfstöcke. Das wird Sie kaum interessieren. Bei der Nachlaßversteigerung wird man die Golfstöcke berücksichtigen müssen. — Spielen Sie auch Golf, Miß Saalfield, oder haben Sie sich ganz der modernen Kunst gewidmet, Menschen recht ähnlich wiederzugeben? Das ist schwer, sehr schwer, sage ich Ihnen. Der beste Maler, den ich kannte, war der Frauenmörder Crippen, der tatsächlich jeden Tag anders aussah. <em>Ich</em> sah immer gleich aus, und schließlich flüchtete Crippen mit dem Dampfer »Montrose« nach Kanada. Leider war’s zu einer Zeit, als Marconi die Funkerei bereits so weit gefördert hatte, daß die Montrose als eins der ersten Schiffe einen Empfänger an Bord hatte. Ich funkte dem Dampfer das Nötige, und Crippen wurde bei der Landung verhaftet und zurückgebracht und gehenkt.<@refnote/> Seine Geliebte, Miß Le Neve, eine unschuldsvolle Taube, entging demselben Schicksal lediglich durch die Kunst der Anwälte. Ich war sehr unzufrieden damit. Nun, vielleicht gibt es heute nicht mehr so tüchtige Verteidiger und so rücksichtslose Detektivoberinspektoren, wie ich einer war.«
 
 Heloise Saalfield rief leise: »Erzählen Sie doch nicht so gräßliche Dinge!! — Hat Doktor Lücke etwas entdeckt? Was wollte der Mann hier? Wie ist er eingedrungen?« —
 
@@ -265,7 +259,7 @@ Die Ateliertür wurde aufgerissen. Ein jüngerer Herr, hinter ihm der Schupowach
 
 Heloise Saalfield sagte eisig: »Sie sind ein erbärmlicher Heuchler, Richard …! Wüßte ich, wo der Gobelin ist, könnte ich auch diese niederträchtige Anklage zurückweisen. Banks ist leider tot. Es ist entsetzlich, daß sich alles gegen mich verschworen hat.« Sie drehte den Kopf, und ihre graublauen Augen suchten die Haralds. »Wenn Sie mir nicht helfen, ist alles verloren! Helfen Sie mir — und schweigen Sie! Die anderen kennen keine Rücksicht.«
 
-Harst streckte ihr die Hand hin. »Es mag Ihnen vorläufig genügen: Ich glaube Ihnen!«
+Harst streckte ihr die Hand hin. »Es mag Ihnen vorläufig genügen: *Ich* glaube Ihnen!«
 
 Lücke mischte sich sehr dienstlich ein. »Kein Wort mehr!! Miß Saalfield, folgen Sie Assistent Krögel. — Krögel, unser Auto steht draußen. Seien Sie aber vorsichtig, rate ich Ihnen. Ich lasse mich nicht verblüffen, durch nichts beirren.« —
 
@@ -373,7 +367,7 @@ Harald lachte: »Ja, es war sehr gut, daß ich Freund Pagel riet, die Verwendung
 
 <h3>Die drei Parteien.</h3>
 
-Unsere gänzlich verdutzten Gesichter nötigten ihm nur ein schwaches Lächeln ab. »Entschuldigen Sie mein Eindringen,« meinte er höflich. »Ich hätte geläutet und mich bemerkbar gemacht, aber die Umstände waren dagegen. Hätte ich mich in dem hell erleuchteten Wintergarten gezeigt, würde ich nicht mehr leben, und Sie beide wahrscheinlich auch nicht mehr.« Er streifte den linken Ärmel hoch. Er hatte um den Unterarm ein Taschentuch geknotet, es war blutig. »Von einer Kugel, Harst … Das war die Quittung für mein Betreten Ihres Gemüsegartens … Hätte ich nicht sehr flink die Hintertür Ihres Hauses aufbekommen, würde ich draußen mit einem gefährlicheren Loch in einem edleren Körperteil liegen. Der Kerl tut ganze Arbeit, weiß Gott. Hier haben Sie eiserne Fensterläden, und die sind geschlossen — zum Glück. Nun lauert der Bursche da draußen irgendwo und möchte uns gern auslöschen. Ich beneide ihn nicht, — — bei <em>dem</em> Wetter im Freien! Ein Schnupfen ist ihm sicher, — später eine Zelle, und wär’s ein Engländer und wäre Berlin London, würde er es aus der Zelle nicht weit bis zur Höllenfahrt haben. — Setzen Sie sich doch. Meine Kollegen und Untergebenen von einst titulierten mich meistens Mr. Parlament, — ich rede gern und viel, jeder hat seine Methode, der eine macht’s mit Wortkargheit, der andere mit einer flinken Zunge. Ich sage Ihnen: Als ich Jabry Balfour<@refnote 2/>, der die Kleinigkeit von sieben Millionen Pfund erschwindelte, ein Jahr lang verfolgte, mußte ich wie ein Wasserfall reden. Der Gentleman war in Argentinien, ich spielte den Professor der Botanik, — — nun, ich erwischte ihn, leicht war das nicht. — Sie verstehen doch: Ich mußte in Ihrem Eßzimmer hinter dem Wandschirm bleiben. Der Kerl durfte nicht wissen, daß ich ins Haus geschlüpft war. Ich beobachtete Sie beide. Hätte sich einer von Ihnen den Fenstern genähert, würde ich gerufen haben. So aber ist es besser. Der Halunke soll naß wie eins Katze werden.«
+Unsere gänzlich verdutzten Gesichter nötigten ihm nur ein schwaches Lächeln ab. »Entschuldigen Sie mein Eindringen,« meinte er höflich. »Ich hätte geläutet und mich bemerkbar gemacht, aber die Umstände waren dagegen. Hätte ich mich in dem hell erleuchteten Wintergarten gezeigt, würde ich nicht mehr leben, und Sie beide wahrscheinlich auch nicht mehr.« Er streifte den linken Ärmel hoch. Er hatte um den Unterarm ein Taschentuch geknotet, es war blutig. »Von einer Kugel, Harst … Das war die Quittung für mein Betreten Ihres Gemüsegartens … Hätte ich nicht sehr flink die Hintertür Ihres Hauses aufbekommen, würde ich draußen mit einem gefährlicheren Loch in einem edleren Körperteil liegen. Der Kerl tut ganze Arbeit, weiß Gott. Hier haben Sie eiserne Fensterläden, und die sind geschlossen — zum Glück. Nun lauert der Bursche da draußen irgendwo und möchte uns gern auslöschen. Ich beneide ihn nicht, — — bei <em>dem</em> Wetter im Freien! Ein Schnupfen ist ihm sicher, — später eine Zelle, und wär’s ein Engländer und wäre Berlin London, würde er es aus der Zelle nicht weit bis zur Höllenfahrt haben. — Setzen Sie sich doch. Meine Kollegen und Untergebenen von einst titulierten mich meistens Mr. Parlament, — ich rede gern und viel, jeder hat seine Methode, der eine macht’s mit Wortkargheit, der andere mit einer flinken Zunge. Ich sage Ihnen: Als ich Jabry Balfour<@refnote/>, der die Kleinigkeit von sieben Millionen Pfund erschwindelte, ein Jahr lang verfolgte, mußte ich wie ein Wasserfall reden. Der Gentleman war in Argentinien, ich spielte den Professor der Botanik, — — nun, ich erwischte ihn, leicht war das nicht. — Sie verstehen doch: Ich mußte in Ihrem Eßzimmer hinter dem Wandschirm bleiben. Der Kerl durfte nicht wissen, daß ich ins Haus geschlüpft war. Ich beobachtete Sie beide. Hätte sich einer von Ihnen den Fenstern genähert, würde ich gerufen haben. So aber ist es besser. Der Halunke soll naß wie eins Katze werden.«
 
 — Wir hatten inzwischen die erste Überraschung überwunden. Harst fragte geradezu: »Wer ist’s?«
 
@@ -658,16 +652,6 @@ Hierin hatte Robert Saalfield sich jedenfalls nicht verrechnet.
 
 Nächster Band:
 
-<p class="centered"><a href="http://www.walther-kabel.de/node/67"><strong>Banditen des Olymp.</strong></a></p>
-
-
-<p class="centered">Druck: P. Lehmann, G.&nbsp;m.&nbsp;b.&nbsp;H., Berlin SO 16.</p>
-
-<strong>Anmerkung des Verlages:</strong>
-
-<ol class="rteindent1">
-
-<li class="rtejustify"><a href="#VR1" name="VA1" id="VA1">↑*</a> Frank F. ist kürzlich im Alter von 73 Jahren in seinem Landhaus in Weston gestorben. 34 Jahre gehörte er als Oberinspektor Scotland Yard an. 1892 verhaftete er den Millionenbetrüger Balfour nach einer romantischen Jagd. Als er 1912 den Abschied nahm, erhielt er vom König Georg ein eigenhändiges Dankschreiben.</li>
-
-</ol>
+<@harst.naechsterband band="Banditen des Olymp."/>
+<@harst.druck/>
 
