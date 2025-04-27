@@ -1,21 +1,3 @@
-<h1>Banditen des Olymp</h1>
-
-
-
-<p class="centered"><span style="font-size:14px">Erzählt von</span></p>
-
-<p class="centered"><span style="font-size:20px">Max Schraut</span></p>
-
-
-<p class="centered">Verlag moderner Lektüre G.&nbsp;m.&nbsp;b.&nbsp;H.<br />
-Berlin SO 16, Michaelkirchstraße 23a</p>
-
- 
-
-<p class="centered">Nachdruck verboten. — Alle Rechte, einschließlich das Verfilmungsrecht, vorbehalten. — Copyright 1929 by Verlag moderner Lektüre G.&nbsp;m.&nbsp;b.&nbsp;H., Berlin SO 16.<br />
-Druck: P. Lehmann, G.&nbsp;m.&nbsp;b.&nbsp;H., Berlin SO 16.</p>
-
-<p class="centered"></p>
 
 <h2>1. Kapitel.</h2>
 
@@ -50,7 +32,7 @@ Der Marchese sprach die letzten Sätze in völlig verändertem Tone. Man spürte
 
 »Ahlenzos war noch ein ganz junger Bursche, als von den Räubern des Olymp der deutsche Ingenieur Richter verschleppt wurde. Dieser Fall liegt viele Jahre zurück. Arbulos leistete schon damals den Banditen Spionendienste. Auf seinen Kopf ist nunmehr eine Belohnung von zehntausend Drachmen ausgesetzt, die einer wohltätigen Anstalt zugute kommen sollen.«
 
-Er erhob sich. »Ihr Freund hätte fraglos mitgemacht, Herr Schraut. Es ist sehr schade, daß er erkrankt ist. sehr schade …! — Darf ich einmal Ihr Telephon benutzen?«
+Er erhob sich. »Ihr Freund hätte fraglos mitgemacht, Herr Schraut. Es ist sehr schade, daß er erkrankt ist, sehr schade …! — Darf ich einmal Ihr Telephon benutzen?«
 
 »Bitte sehr …« Ich deutete auf den Schreibtisch und rückte ihm auch den Apparat und den Schreibsessel zurecht. Er verlangte das Amt Brabant und dann die Nummer 19 91. »… Es ist die Nummer meiner Villa.« sagte er leise zu mir. »Hallo — hier Pragazza …« Zu meinem Erstaunen gebrauchte er jetzt die deutsche Sprache … »Bist du es, Mafalda? Bestelle doch Aristide, daß er sofort den Flugplatz Tempelhof davon verständigt, daß …« — Pause, — er beugte sich über die Schreibtischplatte und sprach dann hastig weiter: »— daß das große Flugzeug nicht nötig ist, es genügt eine kleinere schnellere Maschine, da die Herren Harst und Schraut mich nicht begleiten können … Du hast mich verstanden? — Also bitte sofort … Es wäre eine unnötige Ausgabe … Ich fahre von hier in den Klub.«
 
@@ -290,9 +272,9 @@ Er führte mich an das Hinterfenster, das matt erleuchtet war.
 
 In der Stube vor dem einfachen Tisch saß auf einem schäbigen Sessel Harald Harst und … schrieb.
 
-»Das ist … <em>er</em>!" flüsterte Tobias. »Ich wünschte, jeder hätte einen so gesunden Blinddarm wie Ihr schlauer Freund, der sogar Professoren für seine Pläne gewinnt.«
+»Das ist … <em>er</em>!« flüsterte Tobias. »Ich wünschte, jeder hätte einen so gesunden Blinddarm wie Ihr schlauer Freund, der sogar Professoren für seine Pläne gewinnt.«
 
-<p class="centered"><span style="font-size:14px">4. Kapitel.</span></p>
+<h2>4. Kapitel.</h2>
 
 <h3>Der Mann, der schreibt …</h3>
 
@@ -344,7 +326,7 @@ Der schreibende Mann am Tische legte den Bleistift hin und meinte kopfschütteln
 
 »Der Glasermeister wird sich freuen. — Sehr nett von euch, — nur überflüssig …«
 
-Er schob einen Bogen Papier zur Seite. und unter dem Papier kam ein Pistölchen zum Vorschein, das genau dem Remmeles glich und in jedem Ärmel Platz hatte.
+Er schob einen Bogen Papier zur Seite, und unter dem Papier kam ein Pistölchen zum Vorschein, das genau dem Remmeles glich und in jedem Ärmel Platz hatte.
 
 <h2>5. Kapitel.</h2>
 
@@ -386,7 +368,7 @@ Man mußte es Porsch zugestehen, daß er zu alledem ein ungeheuer dummes Gesicht
 
 »… ja, dann …« nickte Harst, »dann befahl er Ihnen heute abend, wie Sie sich bei telephonischen Anfragen zu verhalten hätten, — das erzählten Sie mir schon. Sie sollten allgemeine Redensarten gebrauchen oder grob werden, also das Rezept für alle Parlamentarier mit feisten Diäten.«
 
-Peter Porsch grinste. »Sie gefallen mir eigentlich, Herr Harst, Sie haben Witz, Sie sagen einem peinliche Dinge mit buntem Zuckerwerk umhüllt. — Was sagen Sie dazu. daß Muffelberg mich regelmäßig jeden Abend um zehn oben in mein Kämmerchen einschloß, daß das Fenster dort Innenladen aus Eisen hat und daß die Tür mit Blech benagelt ist und zwei Patentschlosser besitzt?! Was sagen Sie ferner dazu, daß mein Chef mich jeden Abend untersuchte, ob ich nicht ein Messer mit nach oben genommen hätte?! Wie finden Sie es, daß dieser falsche Krüppel — Ihnen gegenüber bin ich ehrlich — bei mir einen Restposten im Walde versteckt gehaltener falscher Dollarnoten beschlagnahmte und daß er mich dadurch fest in der Hand hatte! Ich hätte die Blüten natürlich verbrannt, denn wer fünf Jahre Zuchthaus hinter sich hat, wer im Leben ganz allein dasteht wie ich …« — seine Stimme schwankte leicht — »der ist kuriert, — ich wollte raus aus dem Sumpf, ich hatte das Bestreben, ehrlich zu bleiben, ich hätte ihm beinahe die Hand geküßt, als er mir Arbeit und Unterkunft bot. — — und was wurde aus alledem?! Nun sitze ich wieder drin, ich habe Ihnen. wie mir Muffelberg heute abend telephonisch weiter befahl, aufgelauert, ich habe Sie schändlich gezwungen, sich an den Tisch zu setzen. Sie mußten die Depesche, die ich Ihnen vorlegte, ebenso wie die Abschrift Ihrer Depesche, die Sie bei sich hatten, zu lösen versuchen … und dann kehrten Sie den Spieß um, dann mußte ich meine Pistole wegwerfen … — ich wünsche Muffelberg zum Teufel!!«
+Peter Porsch grinste. »Sie gefallen mir eigentlich, Herr Harst, Sie haben Witz, Sie sagen einem peinliche Dinge mit buntem Zuckerwerk umhüllt. — Was sagen Sie dazu. daß Muffelberg mich regelmäßig jeden Abend um zehn oben in mein Kämmerchen einschloß, daß das Fenster dort Innenladen aus Eisen hat und daß die Tür mit Blech benagelt ist und zwei Patentschlosser besitzt?! Was sagen Sie ferner dazu, daß mein Chef mich jeden Abend untersuchte, ob ich nicht ein Messer mit nach oben genommen hätte?! Wie finden Sie es, daß dieser falsche Krüppel — Ihnen gegenüber bin ich ehrlich — bei mir einen Restposten im Walde versteckt gehaltener falscher Dollarnoten beschlagnahmte und daß er mich dadurch fest in der Hand hatte! Ich hätte die Blüten natürlich verbrannt, denn wer fünf Jahre Zuchthaus hinter sich hat, wer im Leben ganz allein dasteht wie ich …« — seine Stimme schwankte leicht — »der ist kuriert, — ich wollte raus aus dem Sumpf, ich hatte das Bestreben, ehrlich zu bleiben, ich hätte ihm beinahe die Hand geküßt, als er mir Arbeit und Unterkunft bot. — — und was wurde aus alledem?! Nun sitze ich wieder drin, ich habe Ihnen, wie mir Muffelberg heute abend telephonisch weiter befahl, aufgelauert, ich habe Sie schändlich gezwungen, sich an den Tisch zu setzen. Sie mußten die Depesche, die ich Ihnen vorlegte, ebenso wie die Abschrift Ihrer Depesche, die Sie bei sich hatten, zu lösen versuchen … und dann kehrten Sie den Spieß um, dann mußte ich meine Pistole wegwerfen … — ich wünsche Muffelberg zum Teufel!!«
 
 Harst nickte leicht und schaute den kleinen Kerl lange an. »Sie scheinen nicht zu lügen … Und was sollte werden, wenn ich die Telegramme entziffert hätte?«
 
@@ -650,7 +632,7 @@ Wir fanden Haralds Arbeitszimmer leer. Auf dem Sofatisch lag ein Zettel:
 
 > Herzliche Grüße
 
-> > > das dankbare Ehepaar
+> > das dankbare Ehepaar
 
 Tobias Remmele und Frau hatten sich also entfernt. Wahrscheinlich saßen sie jetzt zu dreien mit Isolde in dem traulichen Wohnzimmer hinter dem Laden und freuten sich ihrer Wiedervereinigung, vielleicht war auch Günther Garlant dabei, der sicherlich mit Isolde insgeheim einig sein mochte.
 
@@ -715,5 +697,6 @@ Vier Tage darauf konnte man in den Zeitungen lesen, daß »die verschleppte Diva
 Die Öffentlichkeit hat sich über diesen eigenartigen smarten Streich weidlich amüsiert. Andere aber hatten dadurch ihr Lebensglück zurückgefunden: Remmeles sind frohe Menschen, die hübsche Isolde als Braut Günther Garlants ist noch hübscher geworden, und Arbulos Ahlenzos schickte Harst vor einer Woche eine kostbare goldene kleine Statue der Göttin Venus. Ich glaube kaum, daß die Statue ehrlich erworben ist, aber — wie sollen wir sie dem Absender wieder zustellen?! Arbulos’ Adresse ist stets unbekannt. Vorläufig liegt die Venus bei uns im Tresor. Vielleicht meldet sich der, dem sie geraubt wurde, vielleicht schlägt auch einmal für Arbulos die kritische Stunde. Dann können wir die Statue an ein griechisches Zuchthaus zurückschicken.
 
 
-Nächster Band: <strong>Der Skatklub Treffbube.</strong>
+<#import "*/harst.ftl" as harst>
+<@harst.naechsterband band="Der Skatklub Treffbube."/>
 
