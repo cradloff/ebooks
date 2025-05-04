@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">08470d65-567a-4aa3-b705-157145503c61</entry>
+<entry key="title">Der alte Gobelin</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">272</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Der alte Gobelin
+
+Es war wohl ein Zufall, daß wir an jenem so unwahrscheinlich milden Dezembertage unseren Vormittagsspaziergang durch das weite Laubengelände unternahmen, das wie eine Oase, wie eine fremde Welt, sich zwischen den bebauten Straßen in glücklicher Weite hinzieht. Wie lange noch?! Der Moloch Bauwut wird auch diese Stätte des Friedens vielleicht sehr bald verschlingen. — Wir hatten hier eine ganze Menge Bekannte, einige davon erwähnte ich bereits, andere blühten noch als Veilchen für die Öffentlichkeit im Verborgenen, alles bescheidene, naturfreudige Leute, alle mäßig begütert, alle dankbar für ein freundliches Wort, für einen Rat in Gartenangelegenheiten. Einer der höflichsten, stillsten Einsiedler dieser heute seltenen Klasse von Menschen war der alte Pagel, Lokomotivführer außer Diensten, Witwer, Besitzer eines Laubenhäuschens mit zwei Stübchen, Stall, fünfzehn Obstbäumen, Flächengröße vierhundert Quadratmeter, — man ahnt nicht, was auf solche vierhundert Quadratmeter, 20:20 Meter, alles hinaufgeht.
+
+Pagel war ein hagerer Mann, der Aufenthalt im Freien, die Gartenarbeit und die mäßige Lebensweise bekamen dem Siebziger vortrefflich.
+
+Wir sahen ihn zwischen den winterlich kahlen Bäumen und Büschen schon von weitem. Er hatte seine Erdbeerbeete liebevoll mit stark duftendem Kuhdünger versorgt, von dem eine mächtige Fuhre innen am weißen Zaune lag, — leider lag auch einiges draußen und störte die trübe, feuchtwarme Winterluft durch Ammoniakdünste.
+
+Pagel schleppte gerade eine Forke voll des nützlichen Kuhstallauskehrs zu den Beeten. Er bückte sich, — ein tüchtiger Laubenkolonist schont seine Hände nicht, — er belegte die Pflanzen im Kreise mit dem fruchtbringenden Kuhprodukt, — wir waren noch zwanzig Schritt entfernt, plötzlich sank er vornüber, focht mit den Armen in der Luft herum, lag still …
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (272) Der alte Gobelin.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1929</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
