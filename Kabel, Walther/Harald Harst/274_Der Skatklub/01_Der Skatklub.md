@@ -46,7 +46,7 @@ er zuckte die Achseln — »die Polizei ist vortrefflich,
 die Diebe und Gauner haben magere Monate … Ich
 werde Sie im Auto mitnehmen. Wo soll ich Sie absetzen?«
 
-Harst schaute auf die Armbanduhr, »Noch etwas
+Harst schaute auf die Armbanduhr. »Noch etwas
 früh, van Baargen … Wir gehen zu Fuß. Lassen
 Sie sich nicht aufhalten …«
 
@@ -87,7 +87,7 @@ Patschuli. Ein widerlicher Bursche.
 »Danke …«
 
 Er begann an dem Ventilator zu probieren, der
-seit gestern versagte. Die Veranda Hatte ein lichtblaues
+seit gestern versagte. Die Veranda hatte ein lichtblaues
 Dach aus geripptem Glas, und der Luftwedel glich einem
 großen Propeller und war über dem Mitteltisch angebracht.
 
@@ -150,9 +150,9 @@ verbieten. Das leise Peng, das so dumpf
 klingt, wie ein Schlag auf eine blecherne Kuchenform,
 erschwert entschieden die Feststellung der Schußrichtung.«
 
-Ich war sprachlos
+Ich war sprachlos.
 
-»… Und Dann — gestern abend nach der Heimkehr,
+»… Und dann — gestern abend nach der Heimkehr,
 mein Alter, passierte Nummer zwei. Die Leute
 sind wie gesagt Anfänger, miserable Schützen, miserable
 Regisseure. Wer sich auf solche Dinge einläßt, sollte erst
@@ -163,7 +163,7 @@ besserem Erfolg.«
 »Was passierte?« Ich war etwas stark benommen.
 
 <@pagebreak/>
-»Ach — eine Kleinigkeit … Wir Haben doch Metallbetten
+»Ach — eine Kleinigkeit … Wir haben doch Metallbetten
 in unserem Zimmer …«
 
 Er sog belustigt an seiner Zigarette. Der Park hatte
@@ -175,7 +175,7 @@ Unheil anrichten. Die Wespen hatten mich gewarnt. Nach
 einem solchen Zwischenfall pflege ich mißtrauisch zu werden.
 Die Drähte lagen unter den hübschen bunten Bastteppichen,
 aber Li Fu hätte dünnere Drähte wählen
-sollen, die Teppiche hatten Falten. — Ich bin Nur neugierig,
+sollen, die Teppiche hatten Falten. — Ich bin nur neugierig,
 was sie nun anstellen werden.«
 
 Wir gingen weiter. An der Ostmauer des Parkes
@@ -245,9 +245,9 @@ Bord der Macarida unterbringen … — Merkwürdig,
 wie gut Bandelow über des Holländers Finanzen Bescheid
 <@pagebreak/>
 wußte, aber gerade in den Schifferkneipen fließen
-so allerhand Gerüchte zusammen … — Er schaute sich
+so allerhand Gerüchte zusammen …« — Er schaute sich
 um, er schien noch immer von Mißtrauen erfüllt, er
-Hielt die rechte Hand immer in der Jackentasche, wo
+hielt die rechte Hand immer in der Jackentasche, wo
 sicherlich der schwarze Spucker steckte. Nun trat er zurück
 in den Pavillon, ließ die Sonnenvorhänge herab und
 setzte sich, knipste seine Taschenlampe an und hielt mir
@@ -262,7 +262,7 @@ Aber gleichzeitig flog etwas durch die Tür uns
 vor die Füße …
 
 Wir prallten zurück, — es war nur ein Stück Baumast,
-auf dem … ein Treffbube aufgespießt war,
+auf dem … ein Treffbube aufgespießt war.
 
 <h2>2. Kapitel.</h2>
 
@@ -377,7 +377,7 @@ Unter dem Bett hervor rinnt ein dünner roter Faden.
 Ich habe im Moment meine Kaltblütigkeit zurückgefunden,
 ich bin vollkommen ruhig, schließe das Fenster,
 schließe die Tür ab, nehme den Schlüssel mit und eile
-zurück zum Pavillon,
+zurück zum Pavillon.
 
 Harst ist nicht da. Ich rufe. Ich erhalte Antwort
 von der Zinne der Mauer, dort sitzt er — auf einem
@@ -415,7 +415,7 @@ Harald schob den weichen Leinenkragen etwas beiseite.
 Um des Chinesen Hals lag ein dünner geteerter
 Strick, die Schlinge war ganz eng zusammengezogen, und
 das Strickende war kurz abgeschnitten worden. Trotzdem
-Hatte sich die Schlinge nicht gelöst, da der frische Teer
+hatte sich die Schlinge nicht gelöst, da der frische Teer
 sie zusammengehalten hatte.
 
 »Ein sehr kaltblütiger Mörder,« sagte Harald und
@@ -492,7 +492,7 @@ und rief die Polizei an.
 Um dreiviertel elf war Mr. Robert Doster, Polizeichef,
 mit seinem Stabe von Mitarbeitern eingetroffen.
 Harst gab zu Protokoll, daß ich den Hausmeister des
-Zwischenfalls mit dem Propeller wegen nochmals Hatte
+Zwischenfalls mit dem Propeller wegen nochmals hatte
 sprechen wollen und dabei den Mord entdeckt, auch den
 Mörder noch gesehen hätte.
 
@@ -500,7 +500,7 @@ Ich bestätigte dies.
 
 Mr. Doster legte keinerlei Wert darauf, daß wir
 der polizeilichen Feinarbeit beiwohnten. Mr. Doster war
-Überhaupt schlechter Laune. Er war im Frack und mit
+überhaupt schlechter Laune. Er war im Frack und mit
 <@pagebreak/>
 Bekannten im Schwarzen Kater gewesen. Er duftete nach
 Sekt, Zigaretten und Tanzgirl-Parfüm. Diese Unterbrechung
@@ -556,7 +556,7 @@ sind noch heute das größte Ärgernis für alle
 Verkehrspolizisten) fragte er mich nur, ob der Schlüssel
 von Li Fu’s Zimmer von innen gesteckt hätte. — Als
 ich bejahte, fügte er hinzu: »Sahst du, daß das Bett
-Ursprünglich anderthalb Meter weiter nach dem Fenster
+ursprünglich anderthalb Meter weiter nach dem Fenster
 zu gestanden hatte? Es lag dort Staub, der Boden
 war nicht abgetreten, — der Mörder schob also das Bett
 nur über den Toten, um ihn deinen Augen zu entziehen.
@@ -695,7 +695,7 @@ Harst, Sie hegen den gleichen Verdacht?«
 
 Ich war erstaunt, daß Harald dies zugab.
 
-Gollon schaute in sein Notizbuch, »Wie lange ist
+Gollon schaute in sein Notizbuch. »Wie lange ist
 Li Fu in Ihren Diensten gewesen, Mr. van Baargen?«
 
 Der hatte sich völlig verfärbt. Seine Lippen zuckten.
@@ -709,7 +709,7 @@ Gollon sagte frostig: »Bitte — Mr. Gollon …
 nicht Inspektor. — War Ihnen bekannt, daß Li Fu einen
 Pappbauch trug?«
 
-Baargen Zögerte. »Seit … kurzem …«
+Baargen zögerte. »Seit … kurzem …«
 
 <@pagebreak/>
 »Hm, — und Sie wunderten sich nicht darüber?«
@@ -773,7 +773,7 @@ seine Dampfer mit dem neuen Giftgas Pyoxin ausräuchern!«
 
 Gollon liebte heftige schnelle Angriffe. Im Nu wandte
 er sich wieder dem Holländer zu. »Weshalb ließen Sie
-Heute eine Stahlflasche Pyoxin von Ihrem Frachtdampfer,
+heute eine Stahlflasche Pyoxin von Ihrem Frachtdampfer,
 der übermorgen nach Singapore in See geht, hierher
 bringen?«
 
@@ -806,7 +806,7 @@ Gollon lächelte zum erstes Male. Es war nur das
 flüchtige Wetterleuchten eines geringschätzigen Lächelns,
 aber es besagte genug.
 
-»… Sie haben die gesamte Dienerschaft verhört,
+»… Sie haben die gesamte Dienerschaft verhört.
 Wem erteilte Mr. Baargen den Befehl, daß die Stahlflasche
 hierher geschafft würde?«
 
@@ -819,7 +819,7 @@ Frau den Auftrag gegeben zu haben, und die Dame
 wird ihrem Gatten ebenso gewiß den Rücken decken.
 Im Krankenzimmer werden Sie sich längst verständigt
 haben.« Er warf Baargen einen feindseligen Blick zu.
-»an dem Sachverhalt ändert sich also nichts, Mr. Harst.
+»An dem Sachverhalt ändert sich also nichts, Mr. Harst.
 Ich gehe sogar noch weiter und behaupte, Baargen hat
 auch den Überfall auf seine Frau herbeigeführt, sie
 war ihm genau so gefährlich wie Li Fu, sie wußte
@@ -847,7 +847,7 @@ Derart schurkische Pläne müssen doch eine Ursache haben.«
 <@pagebreak/>
 Der Inspektor nickte. »Gewiß … Auch das habe ich
 mir überlegt. Baargen steht vor dem Konkurs, seine
-Firma, eigentlich ist’s ja nur die Firma Rüsserholm, Die
+Firma, eigentlich ist’s ja nur die Firma Rüsserholm, die
 er weiterführte, hat starke Verluste erlitten. Man redet
 insgeheim seit Wochen davon. Sein Kredit ist erschüttert.
 Er ist Spieler, er wettet hoch, er wird von allen Seiten
@@ -856,11 +856,11 @@ Freunde hat, die auf ihn schwören. Ich halte mit meiner
 Meinung in keiner Weise hinterm Berge. Ich behaupte,
 er hat irgendeine gesetzwidrige geschäftliche Transaktion
 vor, die, so fürchtete er, von Ihnen durchschaut werden
-könnte Oder wahrscheinlich schon durchschaut worden ist.«
+könnte oder wahrscheinlich schon durchschaut worden ist.«
 
 »Sie irren sich,« erklärte Harald mit Nachdruck.
 »Ich kann beschwören, daß dies nicht der Fall ist. In
-Diesem Punkte sind Sie unbedingt auf falscher Spur.«
+diesem Punkte sind Sie unbedingt auf falscher Spur.«
 
 »Und die richtige?« fragte der Inspektor stark.
 
@@ -885,7 +885,7 @@ Sie in den Park?« fragte er unsicher.
 »Über die östliche Mauer … Ich hatte diese Villa
 längst ins Auge gefaßt … Ich warnte Harst und Schraut
 vor dem Pavillon. Ich unterhielt mich dann mit Harst,
-er saß auf der Mauer, ich hatte den Mörder verfolgt,
+er saß auf der Mauer, ich hatte den Mörder verfolgt.
 <@pagebreak/>
 Er entwischte mir leider. Es war ein Europäer in Lackschuhen,
 die Beinkleider hatte er hochgekrempelt, darüber
@@ -993,7 +993,7 @@ stehen, der uns von Berlin nur dem Namen nach bekannt
 war. Klaas Bandelow war einst im Polizeipalast
 am Alexanderplatz eine große Nummer gewesen, das
 wußten wir. Von seiner Tätigkeit als Privatdetektiv
-Hatten wir nie etwas vernommen.
+hatten wir nie etwas vernommen.
 
 »Herr Bandelow, die Treffbuben erwähnen Sie auf
 keinen Fall!«
@@ -1098,7 +1098,7 @@ Minuten vor zehn ermordet.«
 
 Doster gähnte wieder. »Unsinn! Eine Frau!! Als
 ob eine Frau die Kraft besäße, einen Chinesen mit einer
-Schlinge zu erwürgen und einen solchen Messerstoß Zu
+Schlinge zu erwürgen und einen solchen Messerstoß zu
 führen! Ausgeschlossen!«
 
 Jack Gollon lehnte an einem Schränkchen und
@@ -1122,7 +1122,7 @@ entfernt haben. Näheres weiß Frau Sherman nicht.«
 Der Polizeichef überlegte. »Dann,« sagte er plötzlich
 unerwartet energisch, »dann freilich … — Sie haben
 mich stutzig gemacht, Gollon, — Tennisspielerin, — dieser
-Anruf, ihre Abwesenheit zur kritischen Zeit, — — Verhaften
+Anruf, ihre Abwesenheit zur kritischen Zeit. — — Verhaften
 wir sie! Jetzt kann ich’s verantworten. Die Beweise
 sind zu belastend. — Vorwärts, jede Rücksicht
 fällt fort … Sie wird geweckt … Mein Auto steht
@@ -1199,7 +1199,7 @@ hat etwas bemerkt.«
 
 Harst kniete vor dem Koffer. »Gollon, Sie sollten
 diesen Chef nicht unterschätzen …« Er legte seine
-Oberhemden zurecht, »Der Herr ist doch schließlich nicht
+Oberhemden zurecht. »Der Herr ist doch schließlich nicht
 lediglich durch Innenpolitik hier Polizeichef geworden.«
 
 Der Inspektor öffnete den Kleiderschrank. »Doster war
@@ -1334,7 +1334,7 @@ Loa hatten wir auf das Sofa gebettet.
 »Das hat geklappt wie ’ne Kastagnette,« schmunzelte
 der alte Herr. »Sie hätten die Polizeiuniform anbehalten
 sollen, Frau van Baargen … Das hätte mir
-langatmige Erklärungen erspart …
+langatmige Erklärungen erspart …«
 
 Sie schaute ihn groß an. »Wie konnten Sie nur
 wissen, daß … es so weit kommen würde?!«
@@ -1380,12 +1380,12 @@ Als wir dann ins Freie traten, brannte in dem
 Zimmer noch immer Licht. Aber die Lampe war so hergerichtet
 worden, daß sie die Schatten von drei Männern,
 die scheinbar um einen Tisch saßen, ganz verschwommen
-auf die Vorhänge warf. Die Gestalten bewegten Sich zuweilen,
+auf die Vorhänge warf. Die Gestalten bewegten sich zuweilen,
 — die Standuhr und einige Drahte hätten die
 Frage der Beweglichkeit vor Puppen leicht gelöst.
 
 Über dem Flusse lagen bereits Morgennebel, auch
-die Insel war in Die grauen Schleier eingehüllt, und
+die Insel war in die grauen Schleier eingehüllt, und
 vorsichtig begaben wir uns nach der entgegengesetzten
 <@pagebreak/>
 Inselseite, wo ein dichtes Gebüsch uns vier und den
@@ -1437,7 +1437,7 @@ des braven Burschen.
 
 Das Surren kam näher, verstummte, — wir reckten
 die Köpfe hoch, durch den Nebel glitt ein großer Vogel
-im steilen Gleitflug herab, — dann genau Über der
+im steilen Gleitflug herab, — dann genau über der
 Inselvilla — nur zwanzig Meter über ihr, setzte der
 Motor wieder ein, ein dumpfer Krach, ein noch dumpferer
 Knall, — — das Licht in dem Zimmer erlosch, Harst
@@ -1574,7 +1574,7 @@ Bandelow verneigte sich übertrieben. »Hut ab!
 Stimmt! Er sagte sogar noch mehr, nämlich daß die Zahl
 der Gäste und der Mitglieder …«
 
-»… leider eine gewisse Zahl nicht Übersteigen
+»… leider eine gewisse Zahl nicht übersteigen
 dürfe … Und diese Zahl sei erreicht, deshalb könnte
 er zu seinem Bedauern Sie nicht mehr aufnehmen …
 — Fragte er nach Ihrem Beruf?«
@@ -1634,7 +1634,7 @@ Treffbube bei Schang tagte, daß »Schang« ein
 Spitzname für Jean war, daß die Skatbrüder biedere
 Leute waren, — alles ganz einwandfrei, nur eben …
 Mache, Theater, aufgezogen für Sie, um Ihren Verdacht
-zu zerstreuen, — Stimmt’s?!«
+zu zerstreuen. — Stimmt’s?!«
 
 <@pagebreak/>
 »Wie die Faust aufs Auge!« sagte der alte Herr
@@ -1653,7 +1653,7 @@ Aber — gesehen hatte ihn keiner …!«
 Harst lachte schallend. »Soll man’s für möglich halten!
 Die Umstände!! Und alles nur, damit Sie die
 Annonce nicht weiter beachten sollten! So was nennt
-Man dummschlau. — Und die Fortsetzung?«
+man dummschlau. — Und die Fortsetzung?«
 
 »War noch toller, Harst! Die Polizei hatte nun doch
 an diesem »Wohltäter«, der mich überfallen und einen
@@ -1774,7 +1774,7 @@ mit, auf die meine Tante Helene Rüsserholm in
 Berlin genau so viel Anspruch hatte. Hainisch ist dann
 verschwunden, er hat Berlin anscheinend nicht erreicht,
 und daß er mit Alfred Schmidt identisch sei, erscheint
-doch Sehr fraglich.«
+doch sehr fraglich.«
 
 Bandelow sagte etwas schroff: »Schmidt, der Wohltäter,
 hat an der hatten Hand einen schiefen Finger, der
@@ -1800,10 +1800,10 @@ der englischen Konzession mag das Weitere entscheiden.
 
 <@pagebreak/>
 »Die Polizei schwärmt,« sagte der junge Chinese
-grinsend. »Es war Schwer, zu Frau Gudson zu gelangen,
+grinsend. »Es war schwer, zu Frau Gudson zu gelangen,
 aber der Heilige Affe hat viele Schlupflöcher.«
 
-»das glaube ich.« Harst öffnete das Bündel. »Tschu,
+»Das glaube ich.« Harst öffnete das Bündel. »Tschu,
 nimm einen Kahn vom Ufer und hole das Motorboot.
 Wir fahren zurück.«
 
@@ -1819,7 +1819,7 @@ herausgeredet?«
 »Gar nicht, Mr. Harst. Sie hat angegeben, sie
 wüßte von nichts, — wer will ihr das Gegenteil beweisen,
 — sie hat eben geglaubt, ihre Hotelgäste lägen friedlich
-zu Bett, — nach dem Motorboot hat niemand gefragt.
+zu Bett, — nach dem Motorboot hat niemand gefragt.«
 
 »Nun also! — Dann beeile dich, Tschu … — Hier
 sind Ihre Sachen, Frau van Baargen …«
@@ -1833,7 +1833,7 @@ begann …
 »Frau van Baargen, das Verhalten Ihrer Dienerschaft
 richtete sich gegen Sie als Deutsche, nicht wahr?«
 
-»Ja …« Sie trat Hinter dem Vorhang hervor, aber
+»Ja …« Sie trat hinter dem Vorhang hervor, aber
 sie war sehr blaß und verlegen, und sie ging schnell
 ins Freie und blickte über die Felder hinweg, — es war
 wieder sehr sonderbar.
@@ -1843,7 +1843,7 @@ Harst und packte sein Rasierzeug weg. »Frau van Baargen,
 — woher rührt die Entfremdung zwischen Ihnen
 und Ihrem Gatten?«
 
-»das … das erörtere ich sehr ungern, Herr Harst.
+»Das … das erörtere ich sehr ungern, Herr Harst.
 Wäre ich Ihnen nicht zu so großem Dank verpflichtet,
 <@pagebreak/>
 würde ich nicht Herrn Bandelow noch dankbarer sein,
@@ -1861,13 +1861,13 @@ beiseite geschafft wurden, daß Sie darum wußten und
 daß Sie mit Hainisch noch immer in Verbindung ständen.
 Das war’s!«
 
-Sie errötete tief und nickte, »Ja, das ist’s …«
+Sie errötete tief und nickte. »Ja, das ist’s …«
 
 »Und er?« fragte Harald, indem er neben sie trat
 und sein Zigarettenetui aufklappte. »Und Ihr Gatte?
 Was hatten Sie Ihrerseits gegen ihn?«
 
-Sie schaute zu Boden, »Ich … nehme an, er …
+Sie schaute zu Boden. »Ich … nehme an, er …
 belog mich in vielem.« Ihre langen Wimpern glänzten
 von Tränen, aber sie raffte sich zusammen und fügte
 hastig hinzu: »Er hatte … Spielkarten in seiner Brieftasche,
@@ -1875,7 +1875,7 @@ Treffbuben … Und gerade diese Karte, Herr
 Harst, kannte ich von meinem Vater her nur zu gut.
 Mein Vater spielte sehr gern Skat, und unser größter
 Dampfer hieß »Treffbube«, — mit diesem Dampfer floh
-Hainisch damals … Das Schisf soll torpediert worden
+Hainisch damals … Das Schiff soll torpediert worden
 sein — im Kanal an der englischen Küste …«
 
 Bandelow und ich vergaßen über alledem das
@@ -1937,7 +1937,7 @@ Er holte Bandelows Zettel mit den aufgeklebten
 drei Annoncen aus der Tasche. »Da — lesen Sie die
 dritte, Frau Loa … Sie erschien am 10. März, am
 10\.&nbsp;3., als Alfred Hainisch schon verhaftet war …
-Diese Dritte Anzeige wird den Mörder an den Galgen
+Diese dritte Anzeige wird den Mörder an den Galgen
 bringen.«
 
 <p class="centered em">Skatklub Treffbube.</p>
@@ -1975,7 +1975,7 @@ vergrämt aus, als er aber Frau Loas freiem strahlenden
 Blick begegnete, schritt er auf sie zu und schloß sie fest
 <@pagebreak/>
 in die Arme. Gollon schob ihn jedoch schnell wieder
-beiseite. »solche Szenen gehören nicht hierher,« sagte
+beiseite. »Solche Szenen gehören nicht hierher,« sagte
 er grob. »Was soll das Ganze überhaupt, Sir Pedrace?!«
 Selbst den Generalkonsul respektierte er nicht.
 
@@ -2188,7 +2188,7 @@ gar nicht?!«
 <@pagebreak/>
 Doster errötete. »Verzeihen Sie … — Aber mir
 ist die Lust am Skat vergangen … Ich brauche Bewegung
-…"
+…«
 
 Er stand auf und schritt zur Brücke, stieg die Treppe
 empor und stellte sich neben den Steuermann.
@@ -2198,7 +2198,7 @@ Wenn ich an Jack Gollon dachte, mußte ich lächeln, und
 meine Augen wanderten dann nach dem Kombüseneingang.
 
 Harst sagte: »Gehen wir in unsere Kabine … Ich
-möchte dir etwas zeigen …"
+möchte dir etwas zeigen …«
 
 Der Frachtdampfer hatte nur am Heck acht Passagierkabinen.
 Freund Bandelow war gleich nach dem Frühstück
@@ -2256,7 +2256,7 @@ doch bedeutungslos …«
 Der Abend kam. Die See war ruhig, der Sonnenuntergang
 war ein Zauberspiel von Farben, und unser
 Flitterwochenschiff schlich mit elf Knoten durch einen
-rosigen Farbenrausch. ich unterhielt mich mit dem bärtigen
+rosigen Farbenrausch. Ich unterhielt mich mit dem bärtigen
 chinesischen Koch, einem alten Burschen, der sich
 nie an Deck zeigte und dem Freund Tschu, der Zuverlässige,
 helfend zur Seite stand. Ich saß auf einer Kiste
@@ -2379,7 +2379,7 @@ vor Singapore den deutschen Dampfer »Hamburg« durch
 Signale verständigt hatten, befand sich der Polizeichef
 gerade wieder in jenem Stadium, daß er erst zu spät
 merkte, daß die »Hamburg« ein deutsches Schiff war.
-Als er es merkte, verfärbte er sich. Und — -- schwieg.
+Als er es merkte, verfärbte er sich. Und — — schwieg.
 Unser bisheriges zwangloses Beisammensein, unsere Skatpartien
 und sonstigen Zerstreuungen fielen nunmehr weg,
 da Doster hier an Bord einen nach Suez reisenden Landsmann
@@ -2389,7 +2389,7 @@ und scharfer Brille, ein stiller Mensch, dem Dosters
 Zudringlichkeit sichtlich mißfiel. — Fünf Tage darauf
 machte die Hamburg am Kai in Suez fest, besagter Mr.
 Smidtson wollte im abendlichen Dunkel rasch an Land,
-am Fallreep standen wir drei vom Fach, -- eine Hand
+am Fallreep standen wir drei vom Fach, — eine Hand
 packte zu, riß Mr. Smidtson den angeklebten Bart ab,
 <@pagebreak/>
 — es war Doster, und der echte Smidtson lag gefesselt
@@ -2407,7 +2407,7 @@ Wenn ich die letzten Vorgänge nur ganz kurz gestreift
 habe, so geschah’s in der Überzeugung, daß der Leser,
 der schließlich doch hier zu eigenem Nachdenken angeregt
 werden soll, sicherlich längst den wahren Sachverhalt
-Durchschaut hat. — — Harst hatte seinen Zweck vollkommen
+durchschaut hat. — — Harst hatte seinen Zweck vollkommen
 erreicht: Doster hatte sich zwei neue Blößen gegeben,
 das Netz hatte sich zugezogen, er saß fest. Es
 muß für diesen schlauen Schurken eine Höllenqual gewesen
@@ -2418,11 +2418,10 @@ mit Handschellen, bewacht von Kriminalbeamten, war er
 äußerlich kaum mehr wiederzuerkennen. Abgemagert, mit
 eingefallenen Wangen und flackernden Augen, farblos,
 von wilden Befürchtungen gepeinigt, — so begann für
-ihn die entscheidende Stunde seines verbrecherischen Da-
-eins.
+ihn die entscheidende Stunde seines verbrecherischen Daseins.
 
-Wie zum Hohn herrschte an dem Tage das wunder-
-vollste Wetter. Die Fenster des prächtigen Salons standen
+Wie zum Hohn herrschte an dem Tage das wundervollste
+Wetter. Die Fenster des prächtigen Salons standen
 weit offen, im Garten, in den Hecken, in den blühenden
 Büschen sangen und schmetterten Finken, Zeisige, Amseln.
 Das regelmäßige Pochen eines Buntspechtes auf
@@ -2438,8 +2437,8 @@ Jungfrau mit einem Uhugesicht, — seinen Diener Bleske,
 seinen englischen Chauffeur Gamberlay, schließlich die
 Köchin Manhardt, eine dicke Person mit scheinheiligen
 Augen, die dauernd die Hände gefaltet hielt. Bleske
-und die Manhardt waren Deutsche, — die beiden eng-
-lischen Hausgenossen beherrschten jedoch ebenfalls die
+und die Manhardt waren Deutsche, — die beiden englischen
+Hausgenossen beherrschten jedoch ebenfalls die
 deutsche Sprache. Diese vier Personen hatte die Berliner
 Polizei in der Villa belassen, jedoch dauernd ein scharfes
 Auge auf sie gehabt, da Bandelow schon vor seiner
@@ -2458,8 +2457,8 @@ Kriminalkommissar Doktor Lücke, zwei Kriminalassistenten,
 der alte Klaas Bandelow und wir beide, also
 eine ganz stattliche Versammlung, hier vereinigt auf Harsts
 besonderen Wunsch. — Vor Lücke auf dem Tische lag
-Bandelows saubere Niederschrift der gesamten Vor-
-gänge, — es waren viele große Bogen, bedeckt mit einer
+Bandelows saubere Niederschrift der gesamten Vorgänge,
+— es waren viele große Bogen, bedeckt mit einer
 feinen, festen Handschrift, eingeheftet in einen blauen
 Deckel, auf dem in großen Buchstaben »Der Skatklub
 Treffbube« zu lesen war. Daß im Nebenzimmer hinter
@@ -2495,8 +2494,8 @@ Mr. Harst, — ich traute ihm nicht, wir machten Halbpart,
 ich setzte ihm meine Schwester Jane und einen
 Bekannten sowie dessen Mutter als Spione ins Haus,
 er mußte es sich gefallen lassen, denn er hatte Bleske,
-einen mitgeretteten Matrosen des Dampfers, einen Mit-
-wisser, ohnedies schon auf dem Nacken, — die Manhardt
+einen mitgeretteten Matrosen des Dampfers, einen Mitwisser,
+ohnedies schon auf dem Nacken, — die Manhardt
 ist dessen Tante, und all diese Leute — das war der
 Skatklub Treffbube, der wahre Skatklub mit dem großen
 Vereinsvermögen, das …«
@@ -2521,7 +2520,7 @@ Hainisch wußte nichts von diesem Kartenaustausch. Hainisch
 und Sie hatten lediglich zu Ihrer beider Sicherheit die
 Annoncen verabredet, die auch nur den Zweck hatten,
 ganz unauffällig Ihnen in Shanghai Nachricht zu geben,
-daß keinerlei Gefahr drohe. Sie waren eben Überaus
+daß keinerlei Gefahr drohe. Sie waren eben überaus
 vorsichtig, zu vorsichtig, — die letzte Anzeige rückten
 *Sie* ein, eine Kabelanfrage Inspektor Gollons, der Ihnen
 längst mißtraute, beim hiesigen Abendkurier ergab, daß
@@ -2559,9 +2558,9 @@ von der Macarida, trat ein, hinter ihm Jane Doster …
 — Robert Doster fuhr hoch, — — stierte das junge
 Weib aus irren Augen an. »Betrogene Betrüger,« sagte
 Harst schärfsten Tones. »Ihre Hauptspionin war nicht
-zuverlässig, Doster. Eine Liebelei mit Hainisch, -- Jane
+zuverlässig, Doster. Eine Liebelei mit Hainisch, — Jane
 wußte längst, wo die fehlenden anderthalb Millionen
-steckten, — Lückes Beobachtungen vollendeten hier Das
+steckten, — Lückes Beobachtungen vollendeten hier das
 Werk: Jane war zu dem Kneipwirt Jean Pinzke geflüchtet,
 wo der harmlose Skatklub, die Attrappe, tagte.
 Dort fand Lücke das Geld in Janes Mansardenstube:
