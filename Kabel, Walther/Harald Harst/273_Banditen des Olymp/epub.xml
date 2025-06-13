@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">236d8c8b-ebcd-4970-8845-0facce4e7b5c</entry>
+<entry key="title">Banditen des Olymp</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">273</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Banditen des Olymp
+
+So elend er sich damals auch fühlte, er hatte doch noch Interesse für das merkwürdige Auslandstelegramm. Am Nachmittag suchte er dann Professor Grabert, Blinddarmspezialist, auf, lehnte meine Begleitung energisch ab und meinte, am besten wäre es, der Wurmfortsatz würde operativ entfernt, das Ding belästige ihn schon eine ganze Weile, er habe nur nicht darüber gesprochen. Seit heute nacht seien die Schmerzen jedoch bedenklich geworden.
+
+Daß Haralds Mutter in äußerster Sorge auf telephonischen Bescheid wartete, daß die Stimmung bei uns sehr gedrückt war, — kein Wunder weiter. Um sechs rief dann der Professor persönlich an. »Kein Grund zur Beunruhigung, vorläufig Bettruhe und genaue Beobachtung …«
+
+Als Frau Harst und ich um halb sieben in Graberts Privatklinik eintrafen, fanden wir unseren Patienten im obersten Stockwerk in einem Zimmer mit Balkon untergebracht. Er lag im Bett, trug einen neuen dunklen Schlafanzug, hatte eine Eisblase auf dem Bauche und meinte bedauernd, die Depesche könnte unter diesen Umständen in den Papierkorb wandern.
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (273) Banditen des Olymp.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1929</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
