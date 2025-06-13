@@ -13,7 +13,7 @@ zweihundert und ist unter Mittelmaß.
 
 Es wurde also eine Anzeige eingerückt:
 
-Haustochter gesucht — und so weiter …
+> Haustochter gesucht — und so weiter …
 
 An diesem Tage mußte die Erbsensuppe weggegossen
 werden, und Mathilde hatte verheulte Augen und sagte
@@ -40,9 +40,9 @@ und ähnliches nach dem Lagerschuppen zurücktransportierte,
 befand sich in der Nähe und alarmierte die Polizei und
 die Feuerwehr.
 
-Dies lasen wir morgens am 6. Lauter unter Aller neuestes
-in den Zeitungen, die auch unsere Haustody)terAnzeige
-veröffentlizien.
+Dies lasen wir morgens am 6. Januar unter Allerneuestes
+in den Zeitungen, die auch unsere Haustochter-Anzeige
+veröffentlichten.
 
 Ich saß am Schreibtisch und blätterte in einem Buche.
 
@@ -76,8 +76,10 @@ feste Anstellung.
 Die beigefügte Photographie zeigte ein zartes, liebliches
 <@pagebreak/>
 Geschöpf mit großen fragenden Augen. Die ebenfalls
-beigefügten Empehlungsschreiben waren erstklassig.
+beigefügten Empfehlungsschreiben waren erstklassig.
+
 Eine Depesche ging an Anni Bartel ab samt Reisegeld.
+
 Jetzt ergab sich Mathilde in ihr Schicksal, und das
 Mittagessen, Bierkarpfen, war einwandfrei.
 
@@ -88,7 +90,7 @@ Anni war Sonne. Anni überwand Mathilde,
 Anni konnte alles …
 
 Sie hatte ihr Zimmer oben neben dem Laboratorium,
-sie war flink wie ein Wiesel, bescheiden wie ein Beilen,
+sie war flink wie ein Wiesel, bescheiden wie ein Veilchen,
 fröhlich wie ein Zeisig, klug wie ein Bienchen: Eine Perle!
 
 Abends saßen wir mit ihr im Wintergarten mit ihr
@@ -96,24 +98,24 @@ um den Tisch in Korbsesseln unter Palmen, draußen wütete
 ein Schneesturm, Mathilde hatte sogar Kuchen gebacken,
 Anni erzählte …
 
-Sie hatte sich unter fremden Leuten herumaestoßen,
-ihr einziger Bruder war im Kriege verschwollen.
+Sie hatte sich unter fremden Leuten herumgestoßen,
+ihr einziger Bruder war im Kriege verschollen.
 
-… Stenotypistin war ich, Sekretärin, Statistin
-beim »Theater, Verkäuferin ich alles war ich,« sage sie
+"… Stenotypistin war ich, Sekretärin, Statistin
+beim Theater, Verkäuferin -- alles war ich,« sagte sie
 traurig. »Niemand behielt mich lange … Ich bin zu
-offen, ich trage das Herz auf der Zunge, ich kann seine
-Ungerechtigkeit dulden, erst recht keine zweideutigen Annäherungsversuche
-…
+offen, ich trage das Herz auf der Zunge, ich kann keine
+Ungerechtigkeit dulden, erst recht keine zweideutigen
+Annäherungsversuche …"
 
-Sie stopfte unsere Toten dabei und blickte nur hin
+Sie stopfte unsere Socken dabei und blickte nur hin
 und wieder von ihrer Arbeit auf.
 
 Die Annäherungsversuche waren mir durchaus verständlich.
 
 Ein reizendes, liebes Geschöpf.
 
-»Gossenburg liegt dicht bei M … « warf Harald ein.
+»Gossenburg liegt dicht bei M.,« warf Harald ein.
 Er spielte mit seiner Mutter Schach.
 
 »Ja.« Anni blickte ihn flüchtig an.
@@ -121,29 +123,28 @@ Er spielte mit seiner Mutter Schach.
 »Liebe Mama, — matt gesetzt!«
 
 <@pagebreak/>
-»Wie immer, mein Bange.« Die alte Dame packte
+»Wie immer, mein Junge.« Die alte Dame packte
 die Figuren weg.
 
-»Schoß ist für mich Ersatz für andere Berechnungen,
+»Schach ist für mich Ersatz für andere Berechnungen,
 Fräulein Bartel …« Er nickte ihr zu. »Bei uns herrscht
-fest Flaute. Gestern war ein alter Herr hier, dem auf
+jetzt Flaute. Gestern war ein alter Herr hier, dem auf
 der Durchreise gerade in M. sein Hündchen aus dem Zuge
 sprang und gestohlen wurde. Es gibt Leute, die uns sogar
 wegen stehen gelassener Regenschirme besuchen und dann
 mit langen Gesichtern abziehen.«
 
-»ach habe gar kein Interesse für Kriminalgeschichten,
-meinte Anni kurz. »Ich lege nur Literatur, Das
-arme Hündchen …! Ach habe Tiere so »sehr gern.
-Konnten Sie denn ’vem Herrn nicht helfen? Woher war
+»Ich habe gar kein Interesse für Kriminalgeschichten,"
+meinte Anni kurz. »Ich lese nur Literatur. Das
+arme Hündchen …! Ich habe Tiere so sehr gern.
+Konnten Sie denn dem Herrn nicht helfen? Woher war
 er?!«
 
 »Aus Gossenburg,« erklärte Harald gleichgültig.
 
 Annis Kopf flog empor. »Das ist merkwürdig. Auch
-aus Gossenburg?! Vielleicht kenne im ihm? Wie dies er
-
-eng?«
+aus Gossenburg?! Vielleicht kenne ich ihm? Wie hies er
+denn?«
 
 »Er hieß Peter Warze.«
 
@@ -159,17 +160,17 @@ gewesen sein, dann aber die Stimme verloren haben, ich
 glaube er nannte sich damals Petrowitsch Sorani … Also
 der war bei Ihnen … Kommt er nochmals her?«
 
-Ihre Abneigung ’gegen diesen Mann, der also doch
+Ihre Abneigung gegen diesen Mann, der also doch
 existierte und den Harald empfangen haben mochte, als
 ich gestern nachmittag beim Schneider zur Anprobe war,
 mußte einen tieferen Grund haben. Sie gab dies auch
 nachher mit größter Offenheit zu. »Er versuchte meinen
 <@pagebreak/>
-guten Ruf zu untergraben, er brachte mich ins Gerade.
+guten Ruf zu untergraben, er brachte mich ins Gerede,
 er war schamlos genug zu behaupten, daß ich zu dem
-jungen Silvestra Beziehungen unterhielte … Eine voraus
-Lüge!« Ihr Gesicht wurde von dunkler Rote Übergossen.
-Ihre Stimme schwankte, ein paar Tränen sie
+jungen Silvestra Beziehungen unterhielte … Eine infame
+Lüge!« Ihr Gesicht wurde von dunkler Röte Übergossen.
+Ihre Stimme schwankte, ein paar Tränen er-
 schienen in ihren langen Wimpern.
 
 »Aber liebes Kind, das hätte Ihnen doch sehr
@@ -180,52 +181,53 @@ geborgen. — Harald, du wirst den Menschen doch nicht
 mehr empfangen?«
 
 »Nein, ich habe ihm sogar die Tür gewiesen, ich
-hielt ihn für einen Spion, er macht? so eigentümliche
+hielt ihn für einen Spion, er machte so eigentümliche
 Andeutungen,« erklärte Harald und blickte wieder in die
-Wochenschrift, die stets Sinn besonderen Abschnitt für
+Wochenschrift, die stets einen besonderen Abschnitt für
 Radioamateure bringt …
 
-Nannte Kopf hob sich mit einem Nu. »Spion?!
+Annis Kopf hob sich mit einem Ruck. »Spion?!
 Eigentümliche Andeutungen …?! — Das klingt so geheimnisvoll.«
+
 »Ja. Aber Sie haben recht, es ist besser, junge Mädchen
 halten sich von kriminellen Dingen fern.« Er schaute
-ich auf … »Ich gewann nur den Eindruck, daß er
-wisse Verdachtsmomente, die ihm über den Tod der
-Eichen Leute des Lastautos aufgestiegen sein mögen,
-on mir bestätigt haben wollte. Er sprach zu viel über
-As Unglück in M., über den schrecklichen Tod der ach!
-ureigensten … Dabei ist doch bereits erwiesen, daß die
-Chauffeur angetrunken waren und infolge des Eine
-verbarg den Weg verfehlten und über die Bordschwelle
-ins durch den Balkenzaun in den Fluß rasten.« Er gähnte
-erstatten. »So alte Herren wie Peter Warze haben eben
+nicht auf … »Ich gewann nur den Eindruck, daß er
+gewisse Verdachtsmomente, die ihm über den Tod der
+beiden Leute des Lastautos aufgestiegen sein mögen,
+von mir bestätigt haben wollte. Er sprach zu viel über
+das Unglück in M., über den schrecklichen Tod der acht
+Autoinsassen … Dabei ist doch bereits erwiesen, daß die
+Chauffeure angetrunken waren und infolge des Scheetreibens
+den Weg verfehlten und über die Bordschwelle
+und durch den Balkenzaun in den Fluß rasten.« Er gähnte
+verstohlen. »So alte Herren wie Peter Warze haben eben
 viel freie Zeit … Er liest zu viel Kriminalromane.
-Ut, daß Sie es nicht tun, Fräulein Anni …«
+Gut, daß Sie es nicht tun, Fräulein Anni …«
 
 Harst hatte die Zeitschrift weggelegt und den Kopf
 <@pagebreak/>
-leicht in die Hand gestützt. Der linke Ärmel der Hausecke
+leicht in die Hand gestützt. Der linke Ärmel der Hausjacke
 war ihm etwas herabgerutscht, und seine Armbanduhr
 lag frei. Ich sah, daß sie kurz vor zehn Uhr zeigte,
-sah aber zu, daß er wiederholt auf das Zifferblatt blickte.
+sah aber auch, daß er wiederholt auf das Zifferblatt blickte.
 
-»Besuch Peter Warze-Sorani denn einen Hund?«
+»Besaß Peter Warze-Sorani denn einen Hund?«
 fragte er plötzlich.
 
 Anni krauste leicht die Stirn.
 
-»H glaube …« erwiderte sie ärgerlich. »Wenn
+»Ich glaube …« erwiderte sie ärgerlich. »Wenn
 wir doch nur das Ekel ausschalten wollten!«
 
 In demselben Augenblick erklang dicht vor den
 Fenstern des Wintergartens auf dem Hofe das heisere,
-tägliche, schrille Heulen eines kleinen Hundes.
+klägliche, schrille Heulen eines kleinen Hundes.
 
 Anni fuhr empor. Ihr Gesicht verlor jede Farbe.
 
 »Was — war das, Herr Harst?!« flüsterte sie scheu.
 
-»Wir werden. nachsehen … Vielleicht wirklich ein
+»Wir werden nachsehen … Vielleicht wirklich ein
 verlaufenes Hündchen … — Ich werde allein gehen,
 mein Alter. Fräulein Anni könnte sich hier sonst fürchten.«
 
@@ -237,12 +239,12 @@ Gesicht mit den Händen …
 
 Harst kehrte sehr bald zurück.
 
-»ach habe nichts gefunden,« erklärte er und trocknete
+»Ich habe nichts gefunden,« erklärte er und trocknete
 seine schneefeuchten Hände. »Ein böses Weiter …!! Armer
-Feiner Hund, er mag vor mir geflohen sein … — Ihr
+kleiner Hund, er mag vor mir geflohen sein … — Ich
 denke, wir gehen nun auch zur Ruhe.«
 
-— Ich wußte jetzt, daß sich hier bei uns Dingo
+— Ich wußte jetzt, daß sich hier bei uns Dinge
 vorbereiteten, die keine Parodie werden konnten.
 
 Das Leben schreibt seine Romane mit ganz uneigennütziger
