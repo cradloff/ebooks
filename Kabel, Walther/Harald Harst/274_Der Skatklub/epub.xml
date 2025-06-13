@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">5b40630a-1b05-4167-b3c2-b6e6d0f39304</entry>
+<entry key="title">Der Skatklub</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">274</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Der Skatklub
+
+Fregattenkapitän Sir Ernest Bolwyn, kommandiert zum englischen Ostasiengeschwader, hatte uns bei einem ihm befreundeten holländischen Kaufmann untergebracht. Die durchaus europäische Villa mit uraltem Park war ein ideales Heim. Von dort aus besichtigten wir das alte Schanghai, das uns weit mehr interessierte. Jene engen Straßen im Chinesenviertel, in denen die Fußgänger den Autos nur ausweichen können, indem sie in die Hauseingänge flüchten, verbergen in finsteren Höfen und ineinander geschachtelten uralten Häuschen die Unterwelt dieser rührigen, fröhlichen Hafenstadt am Pazifik.
+
+Dies war nun unser vierter Abend in Schanghai. Übermorgen wollten wir mit einem Frachtdampfer, der Baargen gehörte, zunächst heimwärts nach Singapore.
+
+»Also in den Klub kommen Sie nicht mit?« fragte Arid van Baargen leichthin. »Sie wollen wieder ins Hafenviertel … Ich fürchte, Sie werden dort kaum auf Sensationen stoßen. Die Kneipen sind sehr langweilig, das wissen Sie ja, und das Gesindel dort« — er zuckte die Achseln — »die Polizei ist vortrefflich, die Diebe und Gauner haben magere Monate … Ich werde Sie im Auto mitnehmen. Wo soll ich Sie absetzen?«
+
+Harst schaute auf die Armbanduhr. »Noch etwas früh, van Baargen … Wir gehen zu Fuß. Lassen Sie sich nicht aufhalten …«
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (274) Der Skatklub.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1929</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
