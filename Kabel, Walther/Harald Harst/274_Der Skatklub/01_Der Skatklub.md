@@ -100,7 +100,7 @@ hatte Gummihandschuhe an, offenbar verstand er etwas
 von Kleinmotoren. Immerhin war es eine Rücksichtslosigkeit,
 ausgerechnet in unserer Gegenwart hier herumzubasteln.
 Zwei Diener, Japaner, hielten die Leiter, obwohl
-dies Überflüssig war. — Das Ganze war nichts weiter
+dies überflüssig war. — Das Ganze war nichts weiter
 als die übliche Bewachung, die uns galt.
 
 Harst schaute gelassen zu. Sein Blick richtete sich
@@ -295,7 +295,7 @@ Harst leuchtete den Raum nochmals gründlich ab.
 Die Balken der Decke, die den Fußboden des Pavillons
 trugen, dienten den Fledermäusen als Ruheplatz. Es
 hingen da gut zwanzig hellbraune Flattertiere, einige
-flogen aus durch das Fenster aus und ein, — der
+flogen auch durch das Fenster aus und ein, — der
 Schlauch war an ein Wasserleitungsrohr angeschraubt,
 das an der Wand befestigt war und die Erde hinablief.
 
@@ -459,8 +459,7 @@ ein bunter Kragen, ein bunter Selbstbinder.
 
 2. Ein Paar gelbe Halbschuhe, seidene Socken.
 
-<@pagebreak/>
-3. Eine Brieftasche mit einem Paß, mit achthundert
+3. <@pagebreak/> Eine Brieftasche mit einem Paß, mit achthundert
 Dollar, mit Briefen, die an den Paßinhaber gerichtet
 waren. Dieser hieß Edward Howard Tschungolin, Kaufmann
 aus Singapore, Bont-Street 16. — Der Paß war
@@ -640,7 +639,7 @@ wieder Glanz und Ausdruck. »Es ist … entsetzlich, Herr
 Harst … Und … und ich begreife nicht, wie Loa
 sich dorthin verirren konnte … nach … *der* Gegend,
 und allein … Was wollte sie dort …?! Was?! Sie
-war doch bei Frau Sherman … Ich rief vorn Klub
+war doch bei Frau Sherman … Ich rief vom Klub
 bei Shermans an … gegen halb zehn, Loa sprach mit
 mir, — — ich … ich verstehe nichts von alledem, gar
 nichts … Was wollte sie in der Nähe der Spelunke?!«
@@ -726,7 +725,7 @@ und … ich … fürchtete ihn auch …«
 »Ah, — — und weshalb?«
 
 Baargen seufzte unmerklich. »Das … das hatte
-ich So mehr im Gefühl. Der Mensch war mir unheimlich.«
+ich so mehr im Gefühl. Der Mensch war mir unheimlich.«
 
 »Was Sie sagen!! Und trotzdem schickten Sie ihn
 oft nach Singapore, damit er dort Ihre Filiale inspiziere?!
@@ -1075,7 +1074,7 @@ suchen haben, immer nur Scherereien!«
 Das war eine Frechheit uns gegenüber. Mochten die
 Sätze auch so gefaßt sein, daß man sie auch auf die
 Holländer beziehen konnte: Der Gedanke an das im
-Kriege verlorene Kiautschau lag doch zu nahe. — Es
+Kriege verlorene Kiautschou<@refnote 1/> lag doch zu nahe. — Es
 war dies so etwa derselbe »friedfertige, versöhnliche
 Ton«, dem wir schon im Klub begegnet waren, — es
 blieb eine Taktlosigkeit, und die politische Einstellung
@@ -1166,7 +1165,7 @@ gerade mit dem Kofferpacken begannen, flog die Tür
 auf, — es war Jack Gollon.
 
 »Frau van Baargen ist entflohen!« rief er, aber es
-war ihm weder Bestürzung noch Ärger anzumerken,
+war ihm weder Bestürzung noch Ärger anzumerken.
 »Doster tobt … Insofern hat er ja recht, unerklärlich
 bleibt diese Flucht. Die Dame hat sich im Dunkeln in
 aller Stille angekleidet, — das erkennt man an dem
@@ -1238,7 +1237,7 @@ Doster?! Donnerwetter — — allerhand Achtung!«
 Harst schloß den Koffer und erhob sich. Er betrachtete
 Bandelow eine Weile wie ein Wundertier und nickte
 dann. »Ich glaube, wir beide riechen dieselbe Fährte,
-Landsmann! Um so neugierigen bin ich auf Ihre Geschichte
+Landsmann! Um so neugieriger bin ich auf Ihre Geschichte
 über den Treffbuben.«
 
 Eine halbe Stunde später fuhren wir nach etwas
@@ -1279,7 +1278,7 @@ mit dem weiblichen Kürassier, verschwand mit ihr, kam
 wieder …
 
 »Nehmen Sie nur das Nötigste mit,« sagte er geheimnisvoll.
-Er selbst Trug eine Art Rucksack.
+Er selbst trug eine Art Rucksack.
 
 »Ich weiß,« meinte Harald. »Die drei Radler hinter
 uns …«
@@ -1381,8 +1380,8 @@ Zimmer noch immer Licht. Aber die Lampe war so hergerichtet
 worden, daß sie die Schatten von drei Männern,
 die scheinbar um einen Tisch saßen, ganz verschwommen
 auf die Vorhänge warf. Die Gestalten bewegten sich zuweilen,
-— die Standuhr und einige Drahte hätten die
-Frage der Beweglichkeit vor Puppen leicht gelöst.
+— die Standuhr und einige Drähte hätten die
+Frage der Beweglichkeit der Puppen leicht gelöst.
 
 Über dem Flusse lagen bereits Morgennebel, auch
 die Insel war in die grauen Schleier eingehüllt, und
@@ -1734,8 +1733,8 @@ Bernhard Rüsserholm als einem schlauen Fuchs … Es
 fielen noch andere Titulationen, die jeder Deutsche auf
 sich beziehen konnte. Vielleicht hätten die Gentlemen die
 Sache nicht erwähnt, aber sie bot eine so feine Gelegenheit,
-den Boches eins auszuwischen — immer nach der
-schönen Melodie »Friede auf Erden, und der Entente
+den Boches<@refnote/> eins auszuwischen — immer nach der
+schönen Melodie »Friede auf Erden, und der Entente<@refnote/>
 ein Wohlgefallen — Amen!« So erfuhr ich, daß bei
 Kriegsausbruch der alte Herr Rüsserholm in weiter Voraussicht
 der Entwicklung der Dinge hier in Ostasien seinen
@@ -1743,7 +1742,7 @@ Prokuristen Alfred Hainisch mit den Barbeständen der
 Firma heimlich mit falschem Paß nach Berlin geschickt
 haben sollte, um sein Vermögen vor dem zu erwartenden
 Zugriff der Herrschaften, die zehn Jahre früher beim
-Boxeraufstand jubelnd »The German of the Front!«
+Boxeraufstand jubelnd »The German of the Front!«<@refnote/>
 — Die Deutschen an die Front! — gebrüllt hatten, zu
 retten … Die Herrschaften fühlten sie um diese Millionen
 betrogen, obwohl’s doch nur ein bescheidener Bissen
@@ -1777,7 +1776,7 @@ und daß er mit Alfred Schmidt identisch sei, erscheint
 doch sehr fraglich.«
 
 Bandelow sagte etwas schroff: »Schmidt, der Wohltäter,
-hat an der hatten Hand einen schiefen Finger, der
+hat an der linken Hand einen schiefen Finger, der
 Mittelfinger steht nach links, schlecht verheilter Bruch.«
 Er blickte starr auf den Wandschirm, aber wir sahen unten
 nur zwei reizende nackte Füßchen, der Kopf zeigte sich nicht,
@@ -2057,7 +2056,7 @@ Jack Gollon fuhr wie ein Blitz hoch. »Wie, Sie
 infamer Mensch wollen hier etwa …«
 
 <@pagebreak/>
-Harst war schon neben … ihm, riß ihn zum Fenster
+Harst war schon neben ihm, riß ihn zum Fenster
 und raunte ihm einige Sätze zu, deren Inhalt auf den
 Inspektor einen ganz besonderen Eindruck machte, denn
 sein Gesicht wurde erst fahl, dann dunkelrot, und die
@@ -2265,7 +2264,7 @@ rauchte eine Zigarette und sprach sehr leise. Er hatte
 eine stark vorgebaute Mundpartie, die freilich durch den
 zotteligen grauen Bart verdeckt wurde. Dieser Koch hatte
 zuweilen ein unangenehmes Grinsen auf seinem schmutzig-gelben
-Gesichts, und als er jetzt sagte, Jack Gollon würde
+Gesicht, und als er jetzt sagte, Jack Gollon würde
 hoffentlich nicht Selbstmord verüben, grinste er noch
 <@pagebreak/>
 stärker. — Er trug Filzschuhe von gewaltiger Größe,
