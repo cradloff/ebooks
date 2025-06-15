@@ -1,4 +1,7 @@
-<@pagebreak 3/>
+<@pagebreak/>
+
+<#import "*/harst.ftl" as harst>
+<@harst.introshort/>
 
 <h1>Das Schaltbild für sechs Röhren</h1>
 
@@ -52,7 +55,7 @@ wollte. Dieser Kampf Limburg-Silvestra währt
 nun schon ein Jahr.«
 
 Mich interessiert die Großindustrie nicht. Ich bin
-Kleinindustrieller mit der Feder,
+Kleinindustrieller mit der Feder.
 
 Nachher gingen wir in den verschneiten Grunewald
 und aßen vorsichtshalber in der alten Fischerhütte am
@@ -169,7 +172,7 @@ nachher mit größter Offenheit zu. »Er versuchte meinen
 guten Ruf zu untergraben, er brachte mich ins Gerede,
 er war schamlos genug zu behaupten, daß ich zu dem
 jungen Silvestra Beziehungen unterhielte … Eine infame
-Lüge!« Ihr Gesicht wurde von dunkler Röte Übergossen.
+Lüge!« Ihr Gesicht wurde von dunkler Röte übergossen.
 Ihre Stimme schwankte, ein paar Tränen erschienen
 in ihren langen Wimpern.
 
@@ -240,7 +243,7 @@ Gesicht mit den Händen …
 Harst kehrte sehr bald zurück.
 
 »Ich habe nichts gefunden,« erklärte er und trocknete
-seine schneefeuchten Hände. »Ein böses Weiter …!! Armer
+seine schneefeuchten Hände. »Ein böses Wetter …!! Armer
 kleiner Hund, er mag vor mir geflohen sein … — Ich
 denke, wir gehen nun auch zur Ruhe.«
 
@@ -291,7 +294,7 @@ daß er sein Klavierspiel beendet hatte.
 
 Er trat neben mich und schaute wieder auf die Armbanduhr.
 
-»Um elf …« meinte er nur,
+»Um elf …« meinte er nur.
 
 Eine sehr naheliegende Ideenverbindung brachte mich
 auf das jämmerlich heulende Hündchen.
@@ -346,7 +349,7 @@ kam ohne Mohrchen zurück.«
 
 In meinem Kopf vergrößerte sich das Chaos.
 »Wollen wir die Dinge nicht besser der Reihe nach durchsprechen,«
-schlug ich vor.«
+schlug ich vor.
 
 »Bevor wir nicht Peter Soranis Mitteilungen entgegengenommen
 haben, bliebe alles Stückwerk. Er weiß ohne
@@ -365,7 +368,7 @@ Draußen heulte Mohrchen.
 Die Front unseres Hauses lag unter Wind, und das
 hohe Dach fing die Sturmstöße ab, so daß man hier in
 den Vorderzimmern von dem Toben der winterlichen Elemente
-wenig merkte,
+wenig merkte.
 
 Wir lauschten.
 
@@ -431,7 +434,7 @@ winselte leise und schnupperte argwöhnisch. Dann schlich
 es zu Anni hin, wich zurück, knurrte und bellte heiser,
 wich noch weiter zurück und verkroch sich in der Schreibtischöffnung.
 
-»und — Sorani?« fragte ich ungeduldig.
+»Und — Sorani?« fragte ich ungeduldig.
 
 »Verschwunden. Bringen wir Anni nach oben …
 Sorani ist zweifellos niedergeschlagen und entführt worden,
@@ -554,7 +557,7 @@ sechsten Röhre durch Striche verbunden?! — Sehr merkwürdig!«
 gehabt haben. Sorani hätte sie sonst nicht durch einen
 Schneeball an den Fensterladen geklebt.«
 
-»und sie nicht seinen Häschern entzogen!« pflichtete
+»Und sie nicht seinen Häschern entzogen!« pflichtete
 Harald mir bei. »Wie gesagt, aus seinen Äußerungen
 mir gegenüber war sehr wenig zu entnehmen, lediglich
 das eine: Der Tod der beiden Leute des Lastautos und
@@ -641,7 +644,7 @@ bezogen, aus und klebte sie in eine unserer Sammelmappen.
 Wir hatten telephonisch aus M. auch das dortige
 Hauptblatt bestellt, weil die Lokalpresse das Autounglück
 und den Gasmord natürlich weit eingehender gebracht
-Hatte. Ich hatte auch diese Artikel sofort studiert, aus
+hatte. Ich hatte auch diese Artikel sofort studiert, aus
 ihnen ging jedoch einwandfrei hervor, daß die Polizei,
 was den Tod der Art Ertrunkenen betraf, lediglich den
 Chauffeuren die Schuld beimaß, die in ihrem angesäuselten
@@ -858,7 +861,7 @@ Klingel befestigt. Mit Tinte stand darauf:
 Harald wandte seine Taschenlampe der Bodentreppe
 zu. »Die Tür hat ein Sicherheitsschloß … Wir wollen
 auf das Glasdach … Dort ist ein Lüftungsfenster …
-Und Ich bin schlank.«
+Und ich bin schlank.«
 
 Auf dem Trockenboden entliehen wir eine Wäscheleine.
 Die Dachluke war verschlossen, aber unsere Schlüssel passen
@@ -923,7 +926,7 @@ Kümmel, das Glas, ein Aschbecher mit Zigarettenresten
 leisteten einer elektrischen Schreibtischlampe mit grüner
 Glasglocke, unter der nur eine trübe Birne brannte, und
 <@pagebreak/>
-einem Notizblock nebst Bleistift freundlichst-trostlos Gesellschaft
+einem Notizblock nebst Bleistift freundlichst-trostlos Gesellschaft.
 Der Wachstuchüberzug des Tisches war zerrissen.
 
 Er nahm den Notizblock und las, was auf das obere
@@ -1180,7 +1183,7 @@ das andere aber umgekippt dicht daneben mit den Rädern
 nach oben gelegen habe. Das Verdeck des ersten war halb
 eingedrückt — ein Beweis, daß das zweite im Sturz
 auf jenes aufgeprallt war. Die Leichen waren schon vorher
-durch Taucher geborgen worden,
+durch Taucher geborgen worden.
 
 <@pagebreak/>
 An der Skizze fiel mir etwas auf: Es waren die
@@ -1267,7 +1270,7 @@ sich in die Lippe, ein Tropfen Blut erschien, — der
 Schmerz gab ihr die Selbstbeherrschung zurück.
 
 »Ich … werde Ihr … Haus verlassen,« sagte sie
-kaum vernehmbar … Morgen früh … verlassen …!«
+kaum vernehmbar … »Morgen früh … verlassen …!«
 Ihre Gedanken waren nur halb bei dem, was sie sprach.
 
 »Sie werden bleiben,« erklärte ich kurz. »Sie haben
@@ -1480,7 +1483,7 @@ Sie senkte den Kopf und zitterte.
 
 Ich hatte längst gemerkt, daß es hier nach einem
 eigenartigen milden Parfüm roch, ganz schwach nur …
-In der Nacht roch es nicht nach Parfüm,
+In der Nacht roch es nicht nach Parfüm.
 
 Ich betrat wieder das Stübchen, nachdem ich im
 Atelier den Schrank geöffnet und auch unter das Sofa
@@ -1639,10 +1642,10 @@ geschickter, oder besser: Sagen Sie die Wahrheit!«
 »Gern. Er ist unterwegs nach M.« Silvestras Gesicht
 beunruhigte mich. »Er hat ein Flugzeug benutzt. Leider
 kann ich Ihnen im übrigen sehr wenig mitteilen. Harst
-Hüllte sich in Schweigen, nachdem wir uns ausgesprochen
+hüllte sich in Schweigen, nachdem wir uns ausgesprochen
 hatten.«
 
-»Nachdem er ausgesprochen hatte und Sie ihn weggeschafft
+»Nachdem *er* ausgesprochen hatte und Sie ihn weggeschafft
 haben — wie Peter Sorani!« Ich wurde bissig.
 »Wie haben Sie das fertiggebracht?! Wieder mit Ihrem
 Auto! Aloysia hat wohl geholfen. War noch eine zweite
@@ -1756,7 +1759,7 @@ ist das?!« Der Ton gelang mir vorzüglich, erstaunter
 konnte kein Pechvogel sein, der plötzlich von dem Tode
 einer Erbtante hört.
 
-Ich war ein Pechvogel
+Ich war ein Pechvogel.
 
 Über uns klirrte das Glas des gewölbten Fensters,
 ein halber Ziegelstein und Splitter fielen herab, — um
@@ -1801,7 +1804,7 @@ Bartel hier zu Harst schickten,« verlangte einer der
 Herren aus M. sehr dienstlich.
 
 Silvestra, der sich vorbildlich bescheiden benahm,
-Ohne dabei in jene peinliche Überhöflichkeit zu verfallen,
+ohne dabei in jene peinliche Überhöflichkeit zu verfallen,
 die als schuldbewußte Kriecherei hätte aufgefaßt werden
 können, erwiderte ebenso sachlich: »Verschiedene geringfügige
 Umstände warnten mich davor, mich allzu sicher
@@ -1879,7 +1882,7 @@ Aber dieses seltsame Zusammentreffen, daß die
 Zeichnung in der vorigen Nacht durch einen Schneeball
 an den Fensterladen geklebt wurde, daß also Harst sie
 finden sollte, rückt die Tatsache in ein bedenkliches Licht.
-ich will Sorani nicht verdächtigen, immerhin … —
+Ich will Sorani nicht verdächtigen, immerhin … —
 aber hören Sie weiter, meine Herren. Ich verbrachte den
 Tag also in M. mit meiner Braut zusammen, wir waren
 im Walhalla-Theater, das läßt sich ja unschwer alles
@@ -1905,7 +1908,7 @@ Vollbart gewesen …«
 
 Der Beamte aus M. betrachtete Umschlag und Briefbogen
 … »Sehr seltsam …!« Er überflog die wenigen
-Zeilen »Verstellte Schritt … Das erkennt man auf den
+Zeilen. »Verstellte Schrift … Das erkennt man auf den
 ersten Blick …« — Dann las er ganz laut:
 
 <@pagebreak/>
@@ -1915,7 +1918,7 @@ nur Sie haben ein Interesse daran, die Autos
 unter der dünnen Eisdecke des Flusses verschwinden
 zu lassen!«
 
-»ja — der Brief, Herr Kommissar,« erklärte Hektor
+»Ja — der Brief, Herr Kommissar,« erklärte Hektor
 Silvestra mit mühsam unterdrückter Erregung, »hatte mich
 gleichsam auf das Unglück vorbereitet. Nun werden sie
 verstehen, weshalb ich geradezu wie vor den Kopf geschlagen
@@ -2105,7 +2108,7 @@ Die ○ ○ auf der Promenade bedeuten Linden, das
 ◆ ist die Laterne. Das / / / / des Geländers ist das
 verschiebbare, vorher zertrümmerte Balkenstück. —
 
-Dieses Balkenstück war bereits wieder ersetzt Worden.
+Dieses Balkenstück war bereits wieder ersetzt worden.
 Ich blickte auf den zugefrorenen Fluß hinab. Das
 Loch im Eise war längst verschwunden, der Schnee deckte
 alles mit seiner gleichmäßigen weißen Decke zu.
@@ -2127,7 +2130,7 @@ auf meine Umgebung zu achten! Wie hatte ich mich nur
 einem Sicherheitsgefühl hingeben können, das unter diesen
 Umständen mir das Leben kosten konnte! Der Mörder,
 der seine Tat so bis ins einzelne vorbereitet gehabt
-Hatte, dieser Peter Sorani, den ich bisher nicht einmal
+hatte, dieser Peter Sorani, den ich bisher nicht einmal
 von Angesicht zu Angesicht geschaut hatte, würde mich
 auslöschen, wo und wie sich ihm nur die Gelegenheit dazu
 bot. Gasflasche, Giftpfeil im Atelier, — — er verfügte
@@ -2180,7 +2183,7 @@ edlen Gesichts, das leider frühzeitig durch Not, Sorgen
 und Enttäuschungen jede Farbe verloren und tiefe Kerben
 des grausamen Schicksalsgriffels zurückbehalten hatte. Seltsam
 an ihr waren die übergroßen, fieberig leuchtenden
-dunklen Augen und die scharf nach Unten herabgezogenen
+dunklen Augen und die scharf nach unten herabgezogenen
 Mundwinkel.
 
 Sie sprang auf und umarmte Anni, küßte sie, drückte
@@ -2302,7 +2305,7 @@ leichten Schneefall, und ich will das Drama am Fluß
 unter möglichst gleichen Umständen rekonstruieren. Der
 hiesige Polizeipräsident ist bereits eingeweiht. Die Straße
 und die Anlagen werden um zehn Uhr in weitem Umkreis
-abgesperrt, Dann werden die Herren von der
+abgesperrt, dann werden die Herren von der
 Polizei in zwei Autos denselben Weg zurücklegen …
 Sie können mit dabei sein, Herr Sorani. — Also nun die
 Fragen … Erstens: Weshalb Annis Angst vor dem
@@ -2435,7 +2438,7 @@ Tod und — — ein Feuer!«
 <@pagebreak/>
 Ich starrte ihn verdutzt an … »Feuer?!«
 
-»ja, Er hofft … Ich war nur kurze Zeit bei
+»Ja. Er hofft … Ich war nur kurze Zeit bei
 ihm. Meine Fragen beunruhigten ihn. Er ahnt, daß ich
 die Bedeutung dieses Holzspeichers kenne. Nun …
 lauert er, vielleicht mit dem Blasrohr, vielleicht
@@ -2450,7 +2453,7 @@ Schloßsicherung herausgedreht hatte.
 »Die Türgelenke habe ich geölt,« hauchte er. »Der
 Mann erwartet uns vorn am Haupttor …«
 
-Wir traten ein, — wir schlüpften Hinein, Harald
+Wir traten ein, — wir schlüpften hinein, Harald
 zog die Pforte zu, nahm meine Hand und tastete sich
 vorwärts. Ich hielt die Pistole bereit. Meine Nerven
 waren zum Reißen gespannt. Muffiger Duft von Leinwand
@@ -2653,6 +2656,5 @@ Notizen und die Schaltskizze weg. Wir haben nie mehr
 nach einer Haustochter annonciert, und gegen Sechsröhrenempfänger
 habe ich eine leise Abneigung.
 
-<#import "*/harst.ftl" as harst>
 <@harst.naechsterband band="Der Ball der Toten."/>
 
