@@ -1116,15 +1116,15 @@ Schlafzimmer allein …
 
 <h3>Aloysia und Anni.</h3>
 
-Als ich durch den schnarrenden Weder ermuntert
-rund e, verwünschte ich Gedankengang sämtliche Annis der
-t.
+Als ich durch den schnarrenden Wecker ermuntert
+wurde, verwünschte ich sekundenlang sämtliche Annis der
+Welt.
 
 Ich führte dann Mohrchen — es war schon hell
 geworden — in den Garten, wo er alles erledigte, was
 Hündchen erledigen sollen, — ich rief dann das Fernsprechamt
 an, ließ mich (wie mit Harst vereinbart) mit
-der Antlitz verbinden und bat, unseren Apparat sofort
+der Aufsicht verbinden und bat, unseren Apparat sofort
 zu sperren. Nur Anrufe von mir persönlich sollten vermittelt
 werden. Nach einigem Hin und Her war auch
 das geregelt, und ich war nun sicher, daß Anni von der
@@ -1136,29 +1136,29 @@ außen abgeriegelt. Vorn wachten zwei Leute, hinten wachten
 zwei, — je einer hatte ein leichtes Motorrad in
 Bereitschaft.
 
-Am FrühstüFästismM gab es lange Gesichter, als ich
+Am Frühstückstisch gab es lange Gesichter, als ich
 Harald bei den Damen entschuldigte und von der Hamburg-Reise
 geheimnisvoll sprach. Anni war munter und
 <@pagebreak/>
 redselig, die langen Gesichter klärten sich auf, Mohrchens
-heftiges Wesen trug viel dazu bei, die Stimmung wieder
-zu heben. ’:
+herziges Wesen trug viel dazu bei, die Stimmung wieder
+zu heben.
 
 Frau Harst lächelte nachsichtig, als Anni dann über
 ihre Angst vor Mohrchens kläglichem Geheul sprach und
 die Sache wieder ins Lächerliche zog.
 
 Nein, — Schauspielerin hätte Anni nie werden
-können, es reihte bei ihr nicht einmal zur Spionin kleinsten
+können, es reichte bei ihr nicht einmal zur Spionin kleinsten
 Ausmaßes. Ihre scheuen Augen mir gegenüber straften
 ihr törichtes Geplapper Lügen.
 
 Trotzdem tat sie mir leid. Sie war hübsch und elegant,
 sie hatte eine angenehme Stimme, sie war rosig wie
-ein Maimorgen, und die Schauten unter den Augen erhöhten
+ein Maimorgen, und die Schatten unter den Augen erhöhten
 nur noch den Reiz dieses holden Antlitzes. Daß
-Mohrchen sie zunächst anknurrte, scherzte sie scheinbar
-sehr, aber ihre unermüdlichen Versuche, sein Sandebene
+Mohrchen sie zunächst anknurrte, schmerzte sie scheinbar
+sehr, aber ihre unermüdlichen Versuche, sein Hundeherz
 zu erobern, gelangen überraschend schnell.
 
 Nachher schlängelte ich mich mit Mohrchen zu
@@ -1166,7 +1166,7 @@ Mathilde in die Küche.
 
 Die Morgenzigarre und die Zeitungen kamen an
 die Reihe. Mohrchen spielte mit einem Gummiball und
-war treuester.
+war kreuzfidel.
 
 Ich nahm zuerst die Zeitung aus M. vor, die
 unter Kreuzband geschickt wurde. Der tragische Autounfall
@@ -1175,39 +1175,38 @@ und das Wichtige daran war eine genaue Skizze der
 Straße und des Flußufers sowie eine Photographie der
 beiden Automobile, wie sie gerade durch Kräne gehoben
 wurden. In dem Artikel hieß es, daß das eine Auto
-sich mit den Rädern in den Flußschlamm eingenäht hatte,
-das andere aber umgekippt dicht daneben mit den Rätseln
-nach oben gelegen habe. Das Herbst des ersten war halb
+sich mit den Rädern in den Flußschlamm eingewühlt hatte,
+das andere aber umgekippt dicht daneben mit den Rädern
+nach oben gelegen habe. Das Verdeck des ersten war halb
 eingedrückt — ein Beweis, daß das zweite im Sturz
 auf jenes aufgeprallt war. Die Leichen waren schon vorher
 durch Taucher geborgen worden,
 
 <@pagebreak/>
-An der Ekstase fiel mir etwas auf: Es waren die
-Radspuren der beiden Autos, die von der Notiz?! in dem
-frisch gefallenen Schnee noch« recht deutlichM hatten erkannt
+An der Skizze fiel mir etwas auf: Es waren die
+Radspuren der beiden Autos, die von der Polizei in dem
+frisch gefallenen Schnee noch recht deutlich hatten erkannt
 werden können, mit eingezeichnet. Diese Radspuren verliefen
 vollständig geradeaus, — also auf den Fluß zu.
-Ein neuer Beweise, daß keine Rede davon sein konnte,
-daß) etwa das Lastauto dem vorderen Wagen an der Wegbiegung
-na) links als Hindernis die Straße gesperrt
-alte.
+Ein neuer Beweis, daß keine Rede davon sein konnte,
+daß etwa das Lastauto dem vorderen Wagen an der Wegbiegung
+nach links als Hindernis die Straße gesperrt
+hätte.
 
 Der Fall wurde immer rätselhafter dadurch.
 
 Ich schnitt die Skizze und den Artikel aus und klebte
-sie säuberlich in die Sammelmappe ein. oh saß dabei
-an Haralds Sreibtisch, und erst ein kühler Lufthauch
+sie säuberlich in die Sammelmappe ein. Ich saß dabei
+an Haralds Schreibtisch, und erst ein kühler Lufthauch
 von rechts ließ mich den Kopf wenden. In der Tür stand
 Anni, — sie war eingetreten ohne anzuklopfen, und sie
-hielt es nicht einmal für nötig, sie diejserhalb zu entschuldigen.
-Ihr Gesicht verriet zornige Erregung, sie versuche
-meinem erstaunten Blick mit einem bitteren Aus
-
-en …
+hielt es nicht einmal für nötig, sich dieserhalb zu entschuldigen.
+Ihr Gesicht verriet zornige Erregung, sie begegnete
+meinem erstaunten Blick mit einem bitteren Auflachen
+…
 
 »Ich wollte telephonieren,« sagte sie sehr gereizt und
-schloß die Tür mit überflüssigen Schwung und trat dicht
+schloß die Tür mit überflüssigem Schwung und trat dicht
 an den Schreibtisch heran. »Das Amt erklärte, der Anschluß
 sei gesperrt … Außerdem …« — sie stockte,
 wurde verlegen, und stieß noch gereizter hervor: »Ich
@@ -1217,49 +1216,49 @@ will jedenfalls telephonieren, Herr Schraut.«
 einem Haushalt wie hier bei uns sind gewisse Vorsichtsmaßregeln
 unbedingt nötig.«
 
-Sie preßte die Lippen zusammen. Ihre Trugen
-drohten, ihre ganze Haltung war Empörung und Feindselig’eit,
-»Gestern abend habe im doch noch telephonieren
-sagen,« sagte sie höhnisch.
+Sie preßte die Lippen zusammen. Ihre Augen
+drohten, ihre ganze Haltung war Empörung und Feindseligkeit,
+»Gestern abend habe ich doch noch telephonieren
+können,« sagte sie höhnisch.
 
 Auch darauf war ich vorbereitet. »Gewiß, — in der
-Macht kam jedoch die Depesche, und Harst befahl mir,
+Nacht kam jedoch die Depesche, und Harst befahl mir,
 das Amt zu verständigen.«
 
 <@pagebreak/>
 »Merkwürdig! Also nicht meinetwegen?!«
 
-»Kur im allgemeinen …«
+»Nur im allgemeinen …«
 
 »Das ist Redensart!«
 
 »Bitte also — Amt und Nummer? — Sie sagten
 gestern doch, Sie hätten hier keine Bekannten.«
 
-»öd … will nur ein Geschäft anrufen …«
+»Ich … will nur ein Geschäft anrufen …«
 
 »Tun Sie es … Meine Anwesenheit wird Sie dann
 kaum stören …«
 
-»Das beißt mithin, daß ich hier …« — und wieder
-brach sie ab, ihre Ehe waren über den Schreibtisch
+»Das heißt mithin, daß ich hier …« — und wieder
+brach sie ab, ihre Blicke waren über den Schreibtisch
 geglitten, und auf dem aufgeschlagenen Sammelband lag
-die Sdcraltskizze.
+die Schaltskizze.
 
 Ich beobachtete sie genau. Sie verfärbte sich. Sie
 hatte sich schlecht in der Gewalt, sie war ohne Zweifel eine
 sehr impulsive Natur und eignete sich schon deshalb nicht
 für die Rolle, die sie hier bei uns, unterstützt durch
-Hektor Silvestras Kunstgriffe (vergleiche Gmpseohlungsschreiben)
+Hektor Silvestras Kunstgriffe (vergleiche Empfehlungsschreiben)
 spielen sollte.
 
 Ich sagte leichthin: »Sie wundern sich, daß wir
 Hektor Silvestras Zeichnung in Besitz haben … Wir
-— — … besten noch mehr Beweise.«
+… besitzen noch mehr Beweise.«
 
 Die Wirkung blieb nicht aus. Anni stützte sich mit
 beiden Händen auf den Schreibtisch, ihr Oberkörper pendelte
-sein und her, ihre Wangen waren grau, ihre Augen
+hin und her, ihre Wangen waren grau, ihre Augen
 stierten weit aufgerissen auf den Zeichenkarton, der durch
 die Nässe etwas zerknittert war. Ich fürchtete, sie würde
 wieder in Ohnmacht fallen, und ich hielt mich sprungbereit,
@@ -1267,7 +1266,7 @@ sie aufzufangen. Aber ihre Oberzähne bohrten
 sich in die Lippe, ein Tropfen Blut erschien, — der
 Schmerz gab ihr die Selbstbeherrschung zurück.
 
-»Ich … werde Ohr … Haus verlassen,« sagte sie
+»Ich … werde Ihr … Haus verlassen,« sagte sie
 kaum vernehmbar … Morgen früh … verlassen …!«
 Ihre Gedanken waren nur halb bei dem, was sie sprach.
 
@@ -1280,19 +1279,18 @@ können Sie überzeugt sein.«
 
 Sie wiederholte geistesabwesend, ganz leise:
 
-»Polizei!!« Und dann lächelte sie unsäglichm bitter.
-»Haben Sie sich also da; von Peter Warze einwieln
-hatten? Das hätte ich nie geglaubt, ich hätte Sie für
-
+»Polizei!!« Und dann lächelte sie unsäglich bitter.
+»Haben Sie sich also doch von Peter Warze einwickeln
+lassen? Das hätte ich nie geglaubt, ich hätte Sie für
 … klüger gehalten, Sie beide …!«
 
-»Sande! — Wir prüfen alles genügend, Fräulein
+»Danke! — Wir prüfen alles genügend, Fräulein
 Bartel, wir haben geprüft, und das Resultat ist traurig
 — für Sie! Sie suchen einen alten Mann zu belasten,
 der gestern spät abends entführt, vielleicht … getötet
 wurde. Sie haben dessen Hund vergiften wollen, — sein
 jämmerliches Heulen versetzt sie in Todesschrecken …
-Sie haben weit einer Taschenlampe signalisiert!«
+Sie haben mit einer Taschenlampe signalisiert!«
 
 Und auch dieser letzte Satz war ein Hieb, der saß.
 
@@ -1304,11 +1302,11 @@ starrte mich lange an.
 Dann fragte sie mit hohler Stimme:
 
 »Wo … ist … Aloysia Brackmüller? Hält Harst
-sie bewacht 121«
+sie bewacht?!«
 
 Ich erkannte, sie wußte alles. Ich überlegte blitzschnell.
 
-»Ja!« sagte iq) rauh. »Weshalb noch weiter diese
+»Ja!« sagte ich rauh. »Weshalb noch weiter diese
 jämmerliche Komödie?! Sie brauchen gar nicht zu versuchen,
 diese Aloysia anzurufen. Wir werden hinübergehen
 … Ziehen Sie sich an … sofort!«
@@ -1320,20 +1318,21 @@ auszuspielen …
 »Was Ihre gestrigen Signale betrifft, — darf ich
 Ihnen die Meldung an Aloysia vorlesen?«
 
-Ich nahm den Zettel aus der Tasche, den -NotiFblodzettel
+Ich nahm den Zettel aus der Tasche, den Notizblockzettel
 mit der kritzlichen Schrift.
 
 <@pagebreak/>
-Hund bei Harst. Hat vielleicht schon Argwohn.
-Sofort Hektor Welt ins. — Morgen aber«? halb
-Zwölf wieder. Grotte Vorsicht. Warze muß für
-immer TF.
 
-».-… Hier — ein Kreuz hinter Warze! Und er
+> Hund bei Harst. Hat vielleicht schon Argwohn.
+Sofort Hektor Meldung. — Morgen abend halb
+Zwölf wieder. Größte Vorsicht. Warze muß für
+immer †.
+
+»… Hier — ein Kreuz hinter Warze! Und er
 war schon niedergeschlagen und im Auto weggeschleppt
-worden, Das ist … Mordbefehl, Fräulein Bartel!«
+worden. Das ist … Mordbefehl, Fräulein Bartel!«
 
-24 blickte sie durchdringend an.
+Ich blickte sie durchdringend an.
 
 Aber in ihren Zügen zeigte sich nur ein fassungsloses
 Erstaunen.
@@ -1345,31 +1344,30 @@ fester Stimme.
 
 »Ich … darf nicht,« meinte sie schluchzend. »Ich
 komme mit … Mag Aloysia alles entscheiden … Ich
-
 … ich hatte mit ihr ein harmloses Winkzeichen als Morgengruß
 vereinbart … Es blieb aus. Daher wußte ich,
 daß … Harst drüben war. Ich … kann dies alles nicht
 mehr ertragen … Peter Warze ist ein Teufel! Ich habe
 seinen Hund nie vergiftet … Woher sollte ich Arsenik
 nehmen? Weshalb zeigte er mich nicht bei der Polizei an?!
-Und Aloysia hatte doch auch kein Gift zur Hand. es sei
-denn Berrnaltableiten, ein Schlafmittel, sie schläft sehr
-schlecht, die Ärmste … Auch meine Nerven laben darunter
-gelitten, sie ging nachts so Ost ja unseren« Zimmer
+Und Aloysia hatte doch auch kein Gift zur Hand, es sei
+denn Veronaltabletten, ein Schlafmittel, sie schläft sehr
+schlecht, die Ärmste … Auch meine Nerven haben darunter
+gelitten, sie ging nachts so oft ja unserem Zimmer
 hin und her …«
 
 Jetzt weinte sie.
 
-Und wieder stieg das Mitleid in mir so, wieder
-um tat sie mir leid.
+Und wieder stieg das Mitleid in mir hoch, wiederum
+tat sie mir leid.
 
-Also: Aloysia skizzierte, der Name war richtig!
+Also: Aloysia existierte, der Name war richtig!
 
 »Wer ist diese Person?!« fragte ich weit sanfter.
 
 »Eine arme, vom Leben enttäuschte Malerin, jetzt
-Reklamegeichnerm,« erwiderte Anni unter Tränen. »Eine
-aus, Oh, atemlos Seele, bettelarm wie ich …«
+Reklamezeichnerin,« erwiderte Anni unter Tränen. »Eine
+gute, harmlose Seele, bettelarm wie ich …«
 
 Ich ergriff ihrer Hand.
 
@@ -1377,10 +1375,10 @@ Ich ergriff ihrer Hand.
 »Anni, seien Sie endlich ganz offen … Hektor Silvestra
 schickte Sie beide hierher, es ist doch so …«
 
-Mit einem Schlage war sie gänzliHd verwandelt.
+Mit einem Schlage war sie gänzlich verwandelt.
 
 »Nein!« rief sie schrill. »Niemand schickte mich hierher!
-I4 werde all das doch ertragen, — — ihm Sie,
+Ich werde all das doch ertragen, — — tun Sie,
 was Sie wollen!«
 
 Ich hatte die Schlacht nur halb gewonnen.
@@ -1392,25 +1390,26 @@ Ein böser, feindseligen Blick traf mich.
 <h2>6. Kapitel.</h2>
 
 <h3>Der grüne Fleck.</h3>
-Im Hausflur stand der Erde Klammer, unser Freund,
 
-und putzte die Messingkugeln des Je landete. ’ -.
-»Morgen, Herr Schraut …
+Im Hausflur stand der dicke Klammer, unser Freund,
+und putzte die Messingkugeln des Geländers.
+
+»Morgen, Herr Schraut …«
+
 »Morgen, Klammer …« — Seine Stellung als
-
 Verwalter schloß die Pflichten eines Hauswarts mit ein.
 
 Er musterte Anni, verbeugte sich vor ihr, drehte sich
 halb um, blinzelte mir zu und trat zur Seite, raunte mir
-hastig ins Ohr: »Ich habe mich genau nach Har)ts Anz
-gedrungen gerichtet … Er ist oben …«
+hastig ins Ohr: »Ich habe mich genau nach Harsts Anordnungen
+gerichtet … Er ist oben …«
 
 Als wir vor der Ateliertür standen, als ich läutete
 und drinnen im kleinen Flur die Glocke schrillte, lehnte
-sich Anni kraftlos an die »Wand und flüsterte voraus
+sich Anni kraftlos an die Wand und flüsterte vorwurfsvoll:
 
-voll:
-»Sie … sind. sehr hart!«
+»Sie … sind … sehr hart!«
+
 Drinnen blieb es still. Ich läutete nochmals, nochmals
 …
 
@@ -1420,31 +1419,31 @@ auch für alle Fälle die Clement in die Linke …
 
 Doch erst die Schlüsselzange half mir. Ich drehte
 den von innen steckenden Schlüssel um, stieß die Tür auf
-und schaltete sofort das Licht ein. Der klein? Flur war leer.
+und schaltete sofort das Licht ein. Der kleine Flur war leer.
 
 Ein banges Gefühl beschlich mich. Ich schob Anni
 vorwärts, schloß von innen ab, zog die Schlüssel heraus,
 öffnete Küche, Bad, — — leer.
 
-Dann. erst betrat ich das helle Atelier. Breite Streifen
-Sonne fielen durch das groß?, zum Teil verschneite Fenster.
+Dann erst betrat ich das helle Atelier. Breite Streifen
+Sonne fielen durch das große, zum Teil verschneite Fenster.
 
-Ich hatte an die verflossene Nacht. Ich hielt die
+Ich dachte an die verflossene Nacht. Ich hielt die
 Pistole vorgestreckt, ich musterte jeden Winkel …
 
-Au in dieser Tür steckte ein Schlüssel, ich versperrte
+Auch in dieser Tür steckte ein Schlüssel, ich versperrte
 sie, und der Schlüssel glitt in meine Tasche.
 
-Anni hatte sie mit unsicheren Bewegungen auf einen
+Anni hatte sich mit unsicheren Bewegungen auf einen
 wackligen Schemel gesetzt und sah zum Erbarmen bleich
-aus … 5 0.
+aus …
 
-Ich wußte jetzt: Hier war abermals ein niederträchtigen
+Ich wußte jetzt: Hier war abermals ein niederträchtiger
 Streich verübt worden. Harald war nicht mehr hier.
-Nicht« mehr. Klammer irrte sich. Ich ahnte, daß Harst
-Bestelle Auto kennen gelernt haben dürfte, in dem Peter
+Nicht mehr. Klammer irrte sich. Ich ahnte, daß Harst
+dasselbe Auto kennen gelernt haben dürfte, in dem Peter
 Sorani entführt und das Weib gestern nacht entflohen
-war, als ich hinter ihr her die Treppen by:nabstürmte.
+war, als ich hinter ihr her die Treppen hinabstürmte.
 
 Aber — es mußte jemand hier sein!
 
@@ -1453,12 +1452,12 @@ Ich war vorsichtig.
 Ich prüfte nochmals jeden Winkel, dann stieß ich die
 Tür nach der Stube auf.
 
-Ein Blick nach« dem Bett …
+Ein Blick nach dem Bett …
 
-Die Koffer Aloysias lagen nachts auf dem Bett, waren
-fiebert verschlossen.
+Die Koffer Aloysias lagen noch auf dem Bett, waren
+jedoch verschlossen.
 
-Ich blieb in der Tür stehen und überschaute den’
+Ich blieb in der Tür stehen und überschaute den
 kleinen Raum.
 
 Leer.
@@ -1467,65 +1466,65 @@ Scheinbar leer.
 
 Ich drehte mich plötzlich um … Anni stand dicht
 <@pagebreak/>
-Inder mir. Mein Blick scheuchte sie zurück. »Setzen Sie
-ich dorthin!« Ich zeigte auf das Sofa. »Die Gastspiel?
-st nicht mehr gefährlich, weil sie leer ist, Fräulein
-Bartel 11«
+hinter mir. Mein Blick scheuchte sie zurück. »Setzen Sie
+sich dorthin!« Ich zeigte auf das Sofa. »Die Gasflasche
+ist nicht mehr gefährlich, weil sie leer ist, Fräulein
+Bartel!!«
 
-Sie schlich mit hängenden Schultern zum Ofen …-
+Sie schlich mit hängenden Schultern zum Ofen …
 Und ich rückte das Tischchen dicht vor sie hin.
 
-»Wenn Sie aufstehn — — ich warne Sie!!«
+»Wenn Sie aufstehen — — ich warne Sie!!«
 
 Sie senkte den Kopf und zitterte.
 
-oh bitte längst gemerkt, daß es hier nach einen!
-eigenartigen milden Parfüm roch, ganz schlau) nur’…
+Ich hatte längst gemerkt, daß es hier nach einem
+eigenartigen milden Parfüm roch, ganz schwach nur …
 In der Nacht roch es nicht nach Parfüm,
 
 Ich betrat wieder das Stübchen, nachdem ich im
-Atelier den Schrank geöffnet und auf unter das Sofa
-gebückt hatte. Andere Versteckte gab es hier nicht.
+Atelier den Schrank geöffnet und auch unter das Sofa
+geblickt hatte. Andere Verstecke gab es hier nicht.
 
 Meine Stimmung war derart, daß mir der Zeigefinger
-leise suchte. Wer immer sie hier verbarg, — ich
+leise juckte. Wer immer sich hier verbarg, — ich
 würde mich nicht überrumpeln lassen.
 
-Ich musterte das, Bett,, die Koffer, den elenden
--Kleiderschrank, … 4 3 Ich. probierte. den … Schlüssel, riß die
-
+Ich musterte das Bett, die Koffer, den elenden
+Kleiderschrank … Ich probierte den Schlüssel, riß die
 Tür auf …
 
-Dann bückte ich mich. Auch unter dem Bett: lag
+Leer.
+
+Dann bückte ich mich. Auch unter dem Bett lag
 niemand. Ich wurde nervös. Ich wies den Gedanken von
-mir, daß — er (wer?!) durch die Lüftungsscheibe gc&flüchtet
+mir, daß — er (wer?!) durch die Lüftungsscheibe geflüchtet
 sein könnte, über das Dach. Die Scheibe war
 gänzlich verschneit.
 
 Meine Augen ruhten mißtrauisch auf dem Bett. Die
-Steppdecke lag schief, die Koffer darauf lagen aus einer
-Erhöhung. Ich prüfte ihr Gewicht, sie waren »gepackt,
-trocknen, — ich stellte sie beiseite.
+Steppdecke lag schief, die Koffer darauf lagen auf einer
+Erhöhung. Ich prüfte ihr Gewicht, sie waren gepackt,
+schwer, — ich stellte sie beiseite.
 
 Um Anni im Auge behalten zu können, trat ich in
 die offene Tür …
 
 Ich starrte auf das Sofa … Anni war verschwunden.
-Ich lief zur Flurtür: Offen, nur eingeklinkt, .:— lief durch)
+Ich lief zur Flurtür: Offen, nur eingeklinkt, — lief durch
 den Flur, — die Außentür auch nur eingeklinkt!
 
 <@pagebreak/>
 Anni war lautlos entwischt. Sie mußte Nachschlüssel
 bei sich gehabt haben. Ich hatte mich blamiert. Ich
-horchte … Hm Treppenhaus war alles still …
+horchte … Im Treppenhaus war alles still …
 
 Sie verfolgen?!
 
 Wohl aussichtslos … Das Haus hatte noch einen
 Hofausgang nach den Kohlenplätzen hin, und die Wächter
-geh Instituts vor unserem Hause würden nichts gesehen
-
-aber.
+des Instituts vor unserem Hause würden nichts gesehen
+haben.
 
 Das Bett!
 
@@ -1537,16 +1536,16 @@ Ich brüllte scharf:
 sich gedeckt. Raus mit Ihnen, oder ich versuche, ob ein
 Stahlmantel 6,9 Federbetten bewältigt!«
 
-Die Steppdecke hob sich, wurde samt dem Bechert
+Die Steppdecke hob sich, wurde samt dem Deckbett
 zurückgeworfen.
 
-Ich zielte … Aber im war derart verblüfft, daß
+Ich zielte … Aber ich war derart verblüfft, daß
 ich vielleicht ebenso verwirrt aussah wie der elegante
 Herr, der jetzt auch die Beine hervorzog und sich auf
 die Bettkante setzte.
 
 Er trug eine dunkle weiche englische Reisemütze, einen
-helfen Sportpelze und Waschküche mit Gamaschen, scharf
+hellen Sportpelz und Lackschuhe mit Gamaschen, scharf
 gebügelte blaue Beinkleider und tadellose Wildlederhandschuhe.
 Er konnte dreißig Jahre alt sein, hatte ein frisches,
 bartloses Gesicht und klare dunkle Augen, eine kühne Nase
@@ -1556,61 +1555,61 @@ und eine nicht minder energische Mundpartie.
 
 Er lächelte gezwungen.
 
-»Doktor Silvestra …«
+»Hektor Silvestra …«
 
-»Bleiben Sie sitzen!« rief 1H drohend.
+»Bleiben Sie sitzen!« rief ich drohend.
 
 Als er trotzdem in die Pelztasche greifen wollte,
 drückte ich ab …
 
 Die Kugel durchschlug ihm den Ärmel.
 
-»Hände hob!«
+»Hände hoch!«
 
 <@pagebreak/>
 Er gehorchte, aber er war kaum erschrocken, mehr
 verdutzt und überrascht.
 
-»die werden das ganze Haus alarmieren!« sagte er
+»Sie werden das ganze Haus alarmieren!« sagte er
 ärgerlich.
 
-»Las will ich gerade …
+»Das will ich gerade …«
 
-»Sann verkennen Sie die Sachlage … In meiner
-Tasche steht ein Zettel von Harsts Hand. Ich vermutete
+»Dann verkennen Sie die Sachlage … In meiner
+Tasche steckt ein Zettel von Harsts Hand. Ich vermutete
 die Polizei hier, nicht Sie!«
 
 »Was Sie sagen!! Der Zettel wird wohl aus Metall
 sein und einen Lauf haben, Herr Silvestra! Stehen Sie
 auf und drehen Sie sich um!«
 
-Er tat’s mit einem erneuten Lächeln. »Rechts steht
+Er tat’s mit einem erneuten Lächeln. »Rechts steckt
 der Zettel,« sagte er höflich.
 
 Ich griff in die Tasche und erlebte die dritte Überraschung.
 
 Ich faltete das Papier auseinander. Haralds Handschrift
-ist kaum zu fälschen, es gestern, daß jemand tagelang
+ist kaum zu fälschen, es sei denn, daß jemand tagelang
 übt.
 
-»Hektor S. handelt mit meinem Einverständnis.
-Richte Ei! danach. — H.«
+> »Hektor S. handelt mit meinem Einverständnis.
+Richte dich danach. — H.«
 
 Was bedeutete das nun wieder?!
 
 »Haben Sie gelesen?« fragte Silvestra leicht ironisch.
 
-»Ja. Aber …
+»Ja. Aber …«
 
 »Es war nur eine allgemeine Vorsichtsmaßregel,
-Herr »Schraut.«
+Herr Schraut.«
 
-»Je?! — — Sehen Sie sich wieder!« Die
+»So?! — — Setzen Sie sich wieder!« Die
 Situation war für mich peinlich. Zum Glück schien der
 Schuß nicht gehört worden zu sein. Bisher regte sich nichts
 im Hause.
 
-Silvestra setzte sie. »Herr Schraut, ich habe Ihren
+Silvestra setzte sich. »Herr Schraut, ich habe Ihren
 Freund heute hier gesprochen, als ich Aloysias Koffer
 holen wollte. Er ist nach M. unterwegs.«
 
@@ -1620,7 +1619,7 @@ Harst erpreßt. Das ist’s. Beinahe hätten Sie mich geblufft,
 <@pagebreak/>
 aber die Stahlflasche nachts hat mich gründlich
 gewarnt. — Sie haben auch vorhin gelogen, als Sie
-behaupteten, Sie sausten nicht mich hier vermutet. Anni
+behaupteten, Sie hätten nicht mich hier vermutet. Anni
 war doch bei mir, Anni sprach hier mit mir …«
 
 »Unter einem Zudeck und einer Steppdecke hört man
@@ -1630,11 +1629,11 @@ wirklich nichts, Herr Schraut.« Er wurde ernst und nachdenklich.
 »Wenn sie Pech gehabt hat und ich Glück, ist sie
 ein paar Privatdetektiven in die Arme gelaufen.«
 
-»Oh, das wäre nicht schlimm,« meint? er zerstreut.
-»3D bin mit Anni verlobt.«
+»Oh, das wäre nicht schlimm,« meinte er zerstreut.
+»Ich bin mit Anni verlobt.«
 
 »Das interessiert mich im Augenblick wirklich nicht,
-Herr Silvestra. Wo ist Barett — Lücken Sie jedoch etwas
+Herr Silvestra. Wo ist Harst? — Lügen Sie jedoch etwas
 geschickter, oder besser: Sagen Sie die Wahrheit!«
 
 »Gern. Er ist unterwegs nach M.« Silvestras Gesicht
@@ -1644,19 +1643,19 @@ Hüllte sich in Schweigen, nachdem wir uns ausgesprochen
 hatten.«
 
 »Nachdem er ausgesprochen hatte und Sie ihn weggeschafft
-haben — wie Peter Sorani!« Ich wurde billig.
-»Wie haben Sie das fertiggebracht?! Wieder mit Reichten
+haben — wie Peter Sorani!« Ich wurde bissig.
+»Wie haben Sie das fertiggebracht?! Wieder mit Ihrem
 Auto! Aloysia hat wohl geholfen. War noch eine zweite
 Stahlflasche da?«
 
 »Es hat keinen Zweck,« meinte er noch zerstreuter
-und zuckte dir Achseln: »Sie- glauben mir »nicht … »Ich
-werde mit Ihnen kommen. H3 Letzter. zu … zumeist her, ’Herr
+und zuckte die Achseln: »Sie glauben mir nicht … Ich
+werde mit Ihnen kommen. Es ist hier zu … unsicher, Herr
 Schraut.«
 
 Er schnellte dann so plötzlich hoch, schlug mir so
-jäh unter den Arm und riß; mich hinter den Schrank,
-daß: ich endgültig der Besiegte war. Er hatte Riesenkräfte,
+jäh unter den Arm und riß mich hinter den Schrank,
+daß ich endgültig der Besiegte war. Er hatte Riesenkräfte,
 meine Pistole war auf das Bett geflogen, ich
 war wehrlos.
 
@@ -1667,10 +1666,9 @@ Waffe bemächtigt, und ich gab in dem Augenblick für
 mein Leben nicht einen Pfifferling mehr.
 
 Silvestra tat gerade das, was ich nie vermutet hätte.
-Er kümmerte sich?) um mich überhaupt nicht mehr, von
-+ lugte vorsichtig um die Türkante in das Atelier
-
-mein.
+Er kümmerte sich um mich überhaupt nicht mehr, sondern
+lugte vorsichtig um die Türkante in das Atelier
+hinein.
 
 »Nichts mehr!« flüsterte er … »Die Person ist weg.
 Ich hätte wetten mögen, daß es Peter Sorani war,
@@ -1678,15 +1676,15 @@ ich sah nur einen Spazierstock und eine Hand drüben
 in der Spalte der Flurtür … Aber der Spazierstock
 hatte keine Zwinge, Herr Schraut, sondern ein Loch.«
 
-Er wandte sich mir zu. »Da — bitte!« …
+Er wandte sich mir zu. »Da — bitte!«
 
-Seine Hand deutete auf einen grünen Fischer auf der
+Seine Hand deutete auf einen grünen Fleck auf der
 dunkelroten, verfärbten Tapete. »Ich glaube, das ist das
-Wollbüschel eines « Blasrohrpfeiles, Herr Schraut …
+Wollbüschel eines Blasrohrpfeiles, Herr Schraut …
 Verzeihen Sie meinen scheinbaren Angriff. Ich kenne diese
 Mörderbande nicht, aber Harst hatte mich gewarnt.«
 
-Er gab mir meine Distel? zurück. »Die Person wird
+Er gab mir meine Pistole zurück. »Die Person wird
 den Angriff kaum wiederholen. Ich bin sehr in Sorge
 Annis wegen.« Er lächelte trübe. »Und ich habe allen
 Grund dazu. Irgendeine unheimliche Macht arbeitet gegen
@@ -1697,19 +1695,19 @@ da galt Ihnen.«
 
 Ich blickte ihn lange an. Log er?! Spielte er Komödie?!
 
-Hoch zog den Blasrohrpfeil heraus. Die nadelscharfe
-Spitze war etwas krumm gebogen und es hafteten Kalkstcildgen
-daran. Ecke wischte sie behutsam weg und sah,
+Ich zog den Blasrohrpfeil heraus. Die nadelscharfe
+Spitze war etwas krumm gebogen und es hafteten Kalkteilchen
+daran. Ich wischte sie behutsam weg und sah,
 daß die Spitze einen bräunlichen, klebrigen Belag hatte.
 
 »Gift,« meinte Silvestra sachlich. »Ich habe nichts
-anderes erwartet. »Erst, das Sie ins Jenseits befördern
-alle.«
+anderes erwartet. Gift, das Sie ins Jenseits befördern
+sollte.«
 
-Jetzt glaubte ich ihm. Mir fiel plötzlich ein. daß
+Jetzt glaubte ich ihm. Mir fiel plötzlich ein, daß
 <@pagebreak/>
 Freund Klammer mit so besonderer Betonung gesagt hatte:
-»Er ist oben.« Und das hatte sich nicht auf Harald beziehen
+»*Er* ist oben.« Und das hatte sich nicht auf Harald beziehen
 können. Ich hatte die Situation gänzlich falsch
 beurteilt.
 
@@ -1721,18 +1719,18 @@ hätte, ohne daß der Hauswart eingeweiht war, wohl kaum
 mit Aloysias Koffern das Gebäude verlassen können.
 Harst ist erst vor einer Stunde gegangen. Er fragte mich
 so allerlei, — ich wurde nicht klug daraus, ehrlich gestanden.
-Gott legte er wohl ebenfalls Verdacht gegen mich),
+Erst hegte er wohl ebenfalls Verdacht gegen mich,
 als ich aber erklärte, die Schaltskizze sei mir gestohlen
 worden, änderte sich sein Benehmen … Er erwähnte
 das unvollendete Schaltbild. Ein jeder Mensch reitet sein
 Steckenpferd, — ich bin eifriger Radiobastler in meinen
-Mußestunden, und … — Vorstellt«
+Mußestunden, und … — Vorsicht!!«
 
-Tor war im Nu wieder im Bett, warf die Decken
+Er war im Nu wieder im Bett, warf die Decken
 über sich.
 
 Ich begriff ebenso schnell, legte die Koffer auf die
-Steppdecke und ordnete« das Bett.
+Steppdecke und ordnete das Bett.
 
 Im Flur Stimmen …
 
@@ -1740,7 +1738,7 @@ Die Tür ging auf.
 
 Es waren zwei Kriminalbeamte aus M. und ein
 Berliner Kriminalassistent. Dieser kannte mich. »Sind Sie
-allein h)ier, Herr Schraut?«
+allein hier, Herr Schraut?«
 
 »Ja. Schon eine halbe Stunde. Ich habe alles
 durchsucht, ich vermutete Harst hier.« Das besagte nicht
@@ -1755,8 +1753,8 @@ hielte sich hier verborgen.«
 »Mörder?! Silvestra?! — Was soll das?! Wer
 <@pagebreak/>
 ist das?!« Der Ton gelang mir vorzüglich, erstaunter
-konnte kein Pechvogel sein, der plötzlich von denn Tode
-einer Schlanke hört.
+konnte kein Pechvogel sein, der plötzlich von dem Tode
+einer Erbtante hört.
 
 Ich war ein Pechvogel
 
@@ -1766,24 +1764,24 @@ den Ziegelstein war ein Fetzen Papier gebunden …
 
 Aus dem Papier stand:
 
-Er liegt im Bett!
+<p class="centered">Er liegt im Bett!</p>
 
-»Dort habe ich allerdings nicht nach« Harst gesucht,«
-sachte ich) freimütig.
+»Dort habe ich allerdings nicht nach Harst gesucht,«
+lachte ich freimütig.
 
 Als die Beamten Hektor Silvestra abführten, sagte
 der Assistent zu mir:
 
-»die werden wohl Herrn Kriminalkommissar Bechert
+»Sie werden wohl Herrn Kriminalkommissar Bechert
 einiges erklären müssen, Herr Schraut, — er wartet
 unten.«
 
-»Sann kommen Sie bitte mit zu uns hinüber …
+»Dann kommen Sie bitte mit zu uns hinüber …
 Meine Erklärungen werden etwas lang ausfallen, und
-Herr -Silvestra wird auch nicht still sein, hoffe ich.«
+Herr Silvestra wird auch nicht still sein, hoffe ich.«
 
-Der sympathische junge Chef der Silvestra- A.-G. bestätigte
-dies. »Ich werde sprechen … Ach hätte es nur
+Der sympathische junge Chef der Silvestra-A.-G. bestätigte
+dies. »Ich werde sprechen … Ich hätte es nur
 schon früher tun sollen.« —
 
 <h2>7. Kapitel.</h2>
@@ -1796,10 +1794,10 @@ Silvestra, der noch erstaunter auf den Karton blickte. »Das
 habe ich nur zum Teil gezeichnet. Es sollte ein Schaltbild
 <@pagebreak/>
 für einen großen Fernempfänger werden. Die Buchstaben
-und einzelne Striche stammen nicht. von mir.«
+und einzelne Striche stammen nicht von mir.«
 
 »Dann erzählen Sie erst mal, weshalb Sie Fräulein
-Bartel hier zu Harst schicken,« verlangte einer der
+Bartel hier zu Harst schickten,« verlangte einer der
 Herren aus M. sehr dienstlich.
 
 Silvestra, der sich vorbildlich bescheiden benahm,
@@ -1810,18 +1808,18 @@ Umstände warnten mich davor, mich allzu sicher
 zu fühlen. Ich war der einzige — mit der einzige, der
 an dem Tode der Herren Interesse hatte. Die sechs Verunglückten
 waren die Hauptvertreter des Limburg-Konzerns,
-ihre ganze Kampfesweise gegen die Silvestra Werke
-war unvornehm gewesen. Das weiß jeder. Ach befand
+ihre ganze Kampfesweise gegen die Silvestra-Werke
+war unvornehm gewesen. Das weiß jeder. Ich befand
 mich an jenem Tage, in jener Nacht in M., ich erfuhr
 noch in der Nacht, daß die Polizei die Zeitungen
-absichtlich fallen informierte, daß die zerbrochenen Balken
+absichtlich falsch informierte, daß die zerbrochenen Balken
 des Flußufergeländers zu einem sogenannten Schiebestück
-des Geländers gehörten, das sich zwecks leichteren Des
-Ladens von Frachtkähnen am Ufer fünf Meter breit öffnen
+des Geländers gehörten, das sich zwecks leichteren Beladens
+von Frachtkähnen am Ufer fünf Meter breit öffnen
 ließ. Ich erfuhr weiter, daß diese beiden Schiebestücke, die
-in eisernen Bändern liefen, offenbar vorher durch; das
+in eisernen Bändern liefen, offenbar vorher durch das
 Lastauto absichtlich zertrümmert worden waren, indem
-man die beiden Eile auf die Bordschwelle legte und die
+man die beiden Stücke auf die Bordschwelle legte und die
 Räder des Lastautos darüber rollen ließ. Dann erst
 waren die Stücke auf das Eis des Flusses geworfen worden.
 Es fanden sich eben noch Holzsplitter neben der
@@ -1829,29 +1827,30 @@ Bordschwelle hinter der Straßenbiegung.«
 
 Die Beamten aus M. tauschten einen besonderen Blick
 aus. »Und wie erfuhren Sie davon?« fragte der eine.
-»Teil ich mit Fräulein Bartel nachts aus einem
+
+»Weil ich mit Fräulein Bartel nachts aus einem
 Kaffee kam, weil wir in den Anlagen stehen blieben und
 alles beobachteten — das heißt: Die Arbeit der Kriminalpolizei.
 <@pagebreak/>
-ihm hätte mich nicht in dieser Weise versteckt
+Ich hätte mich nicht in dieser Weise versteckt
 gehalten, wenn eben nicht die eigentümlichen Vorgänge
-am Morgen, auf die im schon andeutungsweise hinwies,
+am Morgen, auf die ich schon andeutungsweise hinwies,
 mich direkt gewarnt hätten. Ich wurde nämlich morgens
-halb neun in meiner Wohnung in F. telephonisch) angerufen,
-zu einer Zeit, in der ich regelmäßig Bade. Es meldete
-sich?) daher auch mein Diener und berichtete mir,
+halb neun in meiner Wohnung in F. telephonisch angerufen,
+zu einer Zeit, in der ich regelmäßig bade. Es meldete
+sich daher auch mein Diener und berichtete mir,
 es sei Fräulein Anni Bartel gewesen und sie ließe mich
-bitten, vor; heute zu ihr naß M. zu kommen, sie habe
+bitten, noch heute zu ihr nach M. zu kommen, sie habe
 mir sehr Wichtiges mitzuteilen. — Ich bin mit Anni
 gegen den Willen meiner Mutter und meiner Angehörigen
 seit Monaten heimlich verlobt. Anni ist Waise, Anni
 war zu stolz, sich den Meinen aufzudrängen oder etwa
 von mir Geldunterstützungen anzunehmen. Sie lebte mit
 Aloysia Brackmüller, einer verblühten, vergrämten Zeichnerin,
-zusammen in einem sehr bescheidenen Zimmer. Alls
+zusammen in einem sehr bescheidenen Zimmer. Als
 ich in M. eintraf und Anni aufsuchte, stellte sich heraus,
 daß sie gar nicht telephoniert hatte. Wir freuten uns
-trotzdem unseres Zusammenseins. Acht erzählte ihr, daß
+trotzdem unseres Zusammenseins. Ich erzählte ihr, daß
 vormittags kurz vor meiner Abfahrt aus F. Peter Sorani
 bei mir gewesen war, den ich entlassen hatte, nachdem
 wir das Walhalla-Theater in der Zwangsversteigerung der
@@ -1860,17 +1859,17 @@ unmöglich, — unverträglich, rechthaberisch, nebenbei
 verbittert und träge und unpünktlich. Er klagte mir
 seine angebliche Not und bat um Geld. Ich warf ihn
 hinaus, denn ich hatte inzwischen gehört und auch die
-Beweise dafür erhalten, daß er nur aus Herz in der
+Beweise dafür erhalten, daß er nur aus Geiz in der
 elenden Mansardenkammer mit seinem Kinde hauste und
 ein Vermögen von fast hunderttausend Mark versteuerte
-Fels gelegentlich in Lokalen dritten Ranges wahre Orgien
-eierte.«
+und gelegentlich in Lokalen dritten Ranges wahre Orgien
+feierte.«
 
 Der Kommissar aus M. nickte. »Das stimmt, Herr
 Silvestra. Und weil es stimmt, erscheint mir Peter Soranis
-Auftauen hier in Berlin und seine Einmischung in diese
+Auftauchen hier in Berlin und seine Einmischung in diese
 <@pagebreak/>
-Mordaffäre in der Tat etwas eigentümlich. — Jahren
+Mordaffäre in der Tat etwas eigentümlich. — Fahren
 Sie fort, bitte.«
 
 »Daß auch Sorani die angefangene Schaltskizze von
@@ -1879,8 +1878,8 @@ erwiesen. Bisher hatte ich ihr Verschwinden kaum beachtet.
 Aber dieses seltsame Zusammentreffen, daß die
 Zeichnung in der vorigen Nacht durch einen Schneeball
 an den Fensterladen geklebt wurde, daß also Harst sie
-finden sollte, ruht die Tatsache in ein bedenklizes Licht.
-sich will Sorani nicht verdächtigen, immerhin … —
+finden sollte, rückt die Tatsache in ein bedenkliches Licht.
+ich will Sorani nicht verdächtigen, immerhin … —
 aber hören Sie weiter, meine Herren. Ich verbrachte den
 Tag also in M. mit meiner Braut zusammen, wir waren
 im Walhalla-Theater, das läßt sich ja unschwer alles
@@ -1894,34 +1893,35 @@ auch die Holzsplitter, die so verräterisch waren, — und
 ich gestehe, daß es mich eiskalt überlief … Und zwar
 dieses Briefes wegen.«
 
-Er faßte in die Innentasche seiner Weste.!
+Er faßte in die Innentasche seiner Weste.
 
 »Bitte … Dieser Brief wurde mir während des
-zweiten Aktes der alten Posse »Arbeit und Bertram« in
+zweiten Aktes der alten Posse »Robert und Bertram« in
 die Loge geworfen … Lesen Sie nur …« Seine Stimme
-schwenkte merklich. »Lesen Sie, lesen Sie vor, Herr Kenntnissen
+schwenkte merklich. »Lesen Sie, lesen Sie vor, Herr Kommissar
 … Die Logenschließerin behauptete nachher, der
 Überbringer sei ein buckliger alter Herr mit fuchsigem
 Vollbart gewesen …«
 
 Der Beamte aus M. betrachtete Umschlag und Briefbogen
 … »Sehr seltsam …!« Er überflog die wenigen
-Zeilen »Darstellte Schritt … Das erkennt man auf den
+Zeilen »Verstellte Schritt … Das erkennt man auf den
 ersten Blick …« — Dann las er ganz laut:
 
 <@pagebreak/>
-»Hüten Sie sich! Ihre Mordpläne sind bekannt,
+
+> »Hüten Sie sich! Ihre Mordpläne sind bekannt,
 nur Sie haben ein Interesse daran, die Autos
-unter der dünnen Zitterte des Flusses verschwinden
+unter der dünnen Eisdecke des Flusses verschwinden
 zu lassen!«
 
 »ja — der Brief, Herr Kommissar,« erklärte Hektor
 Silvestra mit mühsam unterdrückter Erregung, »hatte mich
 gleichsam auf das Unglück vorbereitet. Nun werden sie
-verstehen, weshalb ich geradezu wie vor den Kopf ge
-schlagen war, als Anni und ich die Bestätigung der Anz
-aber des Schreibens gleichsam vor Augen hatten. Wir
-östlichen still davon, ich war in sehr gedrückter Stimmung,
+verstehen, weshalb ich geradezu wie vor den Kopf geschlagen
+war, als Anni und ich die Bestätigung der Angaben
+des Schreibens gleichsam vor Augen hatten. Wir
+schlichen still davon, ich war in sehr gedrückter Stimmung.
 Anni erging es nicht anders, wir ahnten, daß sich hier
 ein unheimliches Gewitter über mir zusammenzöge, ich
 wollte mich dann von Anni vor ihrem Hause verabschieden,
@@ -1932,17 +1932,17 @@ Uhr morgens verließ, kam mir der Gedanke, die beiden
 Leute des Lastautos, das aus dem Theater einen Teil
 der Dekorationen in den Schuppen zurückgebracht hatte und
 dessen Chauffeur und Begleitmann die einzigen Zeugen
-des Unfalls gewesen waren, persönlich auszufragen Wie
+des Unfalls gewesen waren, persönlich auszufragen. Wie
 Sie wissen, stehen der große Schuppen, die Garage und
 der Wohnanbau auf einem Grundstück hinter einem hohen
-Plankenzaun. Gegen halb vier war ich an Ort und Stelle
+Plankenzaun. Gegen halb vier war ich an Ort und Stelle.
 Ich suchte mir, da am Torweg des Zaunes keine Glocke
 vorhanden ist … an der Ostseite einen Platz, wo ich Ziegelsteine,
 die dort bei einem Neubau aufgestapelt waren,
-zu einer möglichst bequemen Treppe Maschinisten. Dies
-nahm wieder geraume Zeit in Anspruch). Dann über
-kletterte ich den Zaun, wobei ich mir noch an dem Stacheldraht
-oben den Ulster zerriß, sprang drüben in eine hohle
+zu einer möglichst bequemen Treppe aufschichtete. Dies
+nahm wieder geraume Zeit in Anspruch. Dann überkletterte
+ich den Zaun, wobei ich mir noch an dem Stacheldraht
+oben den Ulster zerriß, sprang drüben in eine hohe
 Schneewehe, eilte zu dem Wohnanbau und klopfte gegen
 das Fenster. Der Chauffeur und der Theaterarbeiter
 mußten ja längst daheim sein. Es schneite nur noch schwach,
@@ -1950,31 +1950,30 @@ mußten ja längst daheim sein. Es schneite nur noch schwach,
 nachher hörte auch dieses geringe Herabrieseln der Schneeflocken
 auf. Ich betone dies aus einem besonderen Grunde.
 — Ich klopfe nochmals, dann gehe ich zur Tür, sie ist nur
-angelehnt, ich zünde ein Streichholz an, im bin in einer
-winzigen Kühe, rechts geht es in den Lohn- und Schlafraum
+angelehnt, ich zünde ein Streichholz an, ich bin in einer
+winzigen Küche, rechts geht es in den Wohn- und Schlafraum
 des Chauffeurs und des Theaterarbeiters, — dieser
 war zugleich Verwalter des Schuppens, — ich schalte
 das Licht ein, ich sehe in den Betten zwei Leute liegen,
 starker Gasgeruch quillt mir entgegen, ich reiße die Fenster
 auf, — die beiden Leute waren tot, das erkannte ich sehr
-bald. Ich bin wie vom Donner gerührt, — unersättlich
+bald. Ich bin wie vom Donner gerührt, — urplötzlich
 wird mir klar, das dieser Besuch hier auf dem Grundstück
 als Belastungsmaterial gegen mich bedeuten könnte,
-
-— in meiner Verstörtheit laufe ich zwölf zum Zaun,
+— in meiner Verstörtheit laufe ich zurück zum Zaun,
 nehme eine Leiter mit, — und als ich gerade die Ziegelsteintreppe
 drüben hinabstolpere, brüllt mich der Wächter
 des Neubaus an, — ich stürme davon, halte mir die
-Hand vor das Gesicht, ernste atemlos den nächsten
+Hand vor das Gesicht, erreiche atemlos den nächsten
 Autotaxenstand, fahre zum Hotel, lasse meinen Chauffeur
 benachrichtigen und fahre völlig von Sinnen gegen sieben
-Uhr morgens nach F. zurück … — H3 war dies eine
+Uhr morgens nach F. zurück … — Es war dies eine
 ungeheure Torheit, ich hätte zur Polizei gehen sollen,
 aber ich befand mich in einer geistigen Verfassung,
 in der jede Kritik des eigenen Handelns ausgeschaltet war.
 — Ich habe dann in meiner Wohnung in F. gesessen und
 gegrübelt und gegrübelt und mich zu keinem Entschluß
-aufpassen können. Die Schlinge lag mieteten um den
+aufraffen können. Die Schlinge lag mir schon um den
 Hals, — irgendein Teufel hatte mich in eine Lage gebracht,
 aus der ich kein Entrinnen fand, — in meiner
 völligen Zerfahrenheit suchte ich Trost und Rat bei Anni,
@@ -1989,25 +1988,27 @@ hatte sich ohnedies auf ihrer Freundin Rat um die Stelle
 bewerben wollen, — wir besprechen die Einzelheiten,
 Aloysia will gleichfalls helfen, meine Braut soll hier bei
 Harst erst einmal feststellen, wie Harst den Fall beurteilt
-und ob ich mich ihm anvertrauen kann … So erwidern
-sich die ferneren Einzelheiten, .— ich Jahre in
+und ob ich mich ihm anvertrauen kann … So entwickeln
+sich die ferneren Einzelheiten, — ich fahre in
 mein gewohntes Hotel in M., ich merke, daß ich bereits
 überwacht werde, in jedem Menschen steckt ein Stück
 Verbrecher und Hochstapler, — ich verschwinde heimlich,
 schicke Anni noch einen Brief, sie solle sofort reisen, Gefahr
 drohe, — ich begebe mich auf Umwegen hier nach
 Berlin, quartiere mich drüben in Schmargendorf bei einer
-alten Dame ein, ich lese die Zeitungen, in keinem ’Bericht
+alten Dame ein, ich lese die Zeitungen, in keinem Bericht
 finde ich meinen Namen, ich weiß, was das bedeutet, —
 die Polizei führt die Öffentlichkeit irre, man sucht mich,
-ich bin ein Verfolgten, — heute früh kommt Aloysia
+ich bin ein Verfolgter, — heute früh kommt Aloysia
 zu mir, überreicht mir nur einen Zettel, verschwindet wieder,
 — hier ist er, — sie hat lediglich gekritzelt:
-»Ich bin gestern nacht von jemandem aus dem
-Atelier gelöst worden, scheinbar von Ihnen, nachher
+
+> »Ich bin gestern nacht von jemandem aus dem
+Atelier gelockt worden, scheinbar von Ihnen, nachher
 verfolgte mich Schraut … Vorsicht!! Holen
 Sie meine Koffer ab. Ich habe Angst. Der Schlüssel
 zum Atelier liegt unter der Matte.«
+
 Ich wagte den Gang, ich wollte Aloysia schützen, als
 ich das Atelier öffnete, stand eine Frau vor mir: Harst!
 — Ich habe mich ihm rückhaltlos anvertraut. — Das
@@ -2019,7 +2020,7 @@ konnten Sie nur so vollständig den Kopf verlieren?! —
 Daß Sie schuldlos sind, ist selbstverständlich. Wären Sie
 ein Mensch mit größerer Ruhe, mit besseren Nerven
 gegenüber so unerwarteten Geschehnissen, würde ich vielleicht
-wandte Ihrer Angaben bezweifeln. So aber, —
+manche Ihrer Angaben bezweifeln. So aber, —
 <@pagebreak/>
 nein, — zerreißen Sie nur Ihren Haftbefehl, Kollege.
 Der Schuldige ist Peter Sorani. Freilich, wie er die
@@ -2029,12 +2030,12 @@ gelöst hat, hoffe ich bestimmt, wir werden in kurzem
 ganz klar sehen.«
 
 Als die Beamten aus M. und Hektor Silvestra sich
-gerate verabschieden wollten, klopfte es leise, — Frau
+gerade verabschieden wollten, klopfte es leise, — Frau
 Harst trat ein, — sie, die hier niemals eine Unterredung
 stört. Sie winkte mir nur, ich folgte ihr in den Flur.
 
 »Lieber Schraut, Anni hat auch mir gebeichtet,
-Anni« ist im Wintergarten, — rufen Sie Herrn Silvestra.«
+Anni ist im Wintergarten, — rufen Sie Herrn Silvestra.«
 
 Was das Brautpaar sich im Wintergarten zu sagen
 hatte, weiß ich nicht.
@@ -2054,8 +2055,8 @@ Ermittlungen übernommen.
 Unterwegs unterhielten wir drei Leute vom Fach uns
 zumeist über die ungelöste Frage, wie die Autos in den
 zugefrorenen Fluß geraten sein könnten. Die Herren aus
-M. betonten, daß die Chauffeure wohl ein wenig q:2-
-trunken hatten, aber niemals so betrunken gewesen seien,
+M. betonten, daß die Chauffeure wohl ein wenig getrunken
+hatten, aber niemals so betrunken gewesen seien,
 <@pagebreak/>
 daß sie den Weg hätten verfehlen können. Über die Frage
 der Schuld der beiden durch Gas getöteten Leute des
@@ -2080,42 +2081,33 @@ zunächst mit zu ihr zu kommen, ihre Wirtin habe stets ein
 Zimmer frei, und sie fürchte sich vor dem Alleinsein. Wir
 bestiegen also eine Autotaxe, und Anni, der ich so sehr
 viel abzubitten hatte, befahl dem Chauffeur, den Weg
-am Flusse entlang zu wählen, ich wollte mir die Steile
-doch einmal ansehen, wo das unerklärlixe Verbrechen
+am Flusse entlang zu wählen, ich wollte mir die Stelle
+doch einmal ansehen, wo das unerklärliche Verbrechen
 geschehen war. Im Auto öffnete ich die Hutschachtel,
-Matrosen hatte darin sehr bequem Platz gehabt, war
-kreuzfidel, und ich versprach mir von seiner seinen Hundenase
+Mohrchen hatte darin sehr bequem Platz gehabt, war
+kreuzfidel, und ich versprach mir von seiner feinen Hundenase
 so allerlei. Peter Sorani war nicht entführt worden,
-das stand ebenfalls fest, er hatte uns gründlich genarrruc,
-und eine innere Stimme sagte mir, daß wir ihn der in
-M. irgendwo« aufstöbern würden.
+das stand ebenfalls fest, er hatte uns gründlich genarrt,
+und eine innere Stimme sagte mir, daß wir ihn hier in
+M. irgendwo aufstöbern würden.
 
 Das Auto hielt dann. Ich stieg aus. Es war kalt
-und frostige, jede Einzelheit war zu unterscheiden. Die
+und frostklar, jede Einzelheit war zu unterscheiden. Die
 Skizze des Schauplatzes in der Zeitung war sehr genau
 gewesen, wie ich mich nun durch Augenschein überzeugen
 <@pagebreak/>
 konnte. Der Leser wird aus der untenstehenden Wiedergabe
 der Skizze leicht klug werden — vielleicht ganz klug.
 
-Kg
-Anlagen Tau]
-ne Ermannen 3 pro
-Co & O 8e- Ne Fluß
-Graf Sofatische
-»25 Straße nach der
-020
-es
-Q
-Bottich wer c Jemanden
--»die Co
+<div class="img"><img alt="Unfallskizze. Auf der linken Seite macht die Straße nach der Vorstadt einen rechten Winkel von links nach oben. Links oben befindet sich eine Anlage mit Edeltannen. Auf der rechten Seite geht die Promenade senkrecht nach oben, in der Mitte auf der rechten Seite befindet sich die Unfallstelle. Das verschiebbare Balkenstück ist mit 5 Schrägstrichen angedeutet." src="Unfallskizze.png" style="width: 100%; height: auto;"/></div>
 
-Die Co auf der Promenade bedeuten Linden, das
-ist die Laterne. Das / / / / des Geländers ist das
-verschiebbare, vorher zertrümmerte Balkenstüick. —
-Dieses Balkenstück war bereits wieder ersetzt Wort.
-en. Ich blickte auf den zugefrorenen Fluß »hinab. Das
-Loch im Eise war längst verschwunden, der .»Sahara deckte
+Die ○ ○ auf der Promenade bedeuten Linden, das
+◆ ist die Laterne. Das / / / / des Geländers ist das
+verschiebbare, vorher zertrümmerte Balkenstück. —
+
+Dieses Balkenstück war bereits wieder ersetzt Worden.
+Ich blickte auf den zugefrorenen Fluß hinab. Das
+Loch im Eise war längst verschwunden, der Schnee deckte
 alles mit seiner gleichmäßigen weißen Decke zu.
 Anni saß im Auto, — sie empfände ein Grauen vor dieser
 Stätte, hatte sie mit bebender Stimme erklärt, und ich
@@ -2125,48 +2117,48 @@ und versanken wieder in ihren Gehirnzellen, —
 ich sah Hektor Silvestra mich beiseite reißen, ich sah den
 grünen Wollfleck an der roten verschossenen Tapete, den
 Giftpfeil, der mich hatte töten sollen — mich, Haralds
-Freund, den zweiten gefährlichen Spuren, den der Mörder
-Lichtete.
+Freund, den zweiten gefährlichen Spürer, den der Mörder
+fürchtete.
 
 <@pagebreak/>
 Und da — war ich mit einem Schlage wieder in der
-Gegenwart … Welch’ ein Leichtsinn von mir, so wen!]
+Gegenwart … Welch’ ein Leichtsinn von mir, so wenig
 auf meine Umgebung zu achten! Wie hatte ich mich nur
-einem Sicherheitsgefühl hingeben können, das unter Wissen
+einem Sicherheitsgefühl hingeben können, das unter diesen
 Umständen mir das Leben kosten konnte! Der Mörder,
-der seine Tat so bis ins einzelne vorderen?! gehabt
-Hatte, dieser Peter Sorani, den ich bisher nicht einer
+der seine Tat so bis ins einzelne vorbereitet gehabt
+Hatte, dieser Peter Sorani, den ich bisher nicht einmal
 von Angesicht zu Angesicht geschaut hatte, würde mich
 auslöschen, wo und wie sich ihm nur die Gelegenheit dazu
 bot. Gasflasche, Giftpfeil im Atelier, — — er verfügte
 über genug Waffen, er schreckte vor nichts zurück, — —
-meine Augen glitten mißtrauten umher, aber lieh des
-merkte nichts Verdächtiges … Totenstill war’s hier …
+meine Augen glitten mißtrauisch umher, aber ich bemerkte
+nichts Verdächtiges … Totenstill war’s hier …
 
 Bedächtig kehrte ich zu der Autotaxe zurück, warf
-noch einen Brücke nach rechts die Promenade entlang —
+noch einen Blick nach rechts die Promenade entlang —
 dorthin, — wo wir die Fahrt nach Gossenburg fortsetzen
 würden. Und da — täuschte ich mich?! — glitt da nicht
-eine Gestalt auf den Weg, stand dort nicht ein bestieg
+eine Gestalt auf den Weg, stand dort nicht ein helles
 Auto?! Der Schnee blendete, — — jetzt vernahm ich doch
-ein Surren, — — es war das Auto, es entschwai:1d,
-und meine durchs Argwohn doppelt geschärften Sinne
+ein Surren, — — es war das Auto, es entschwand,
+und meine durch Argwohn doppelt geschärften Sinne
 warnten mich eindringlicher als bisher.
 
 »Kommen Sie ganz langsam hinter mir her gefahren,«
-befahl ich dem Chauffeur und schritt rasa) davon, die
+befahl ich dem Chauffeur und schritt rasch davon, die
 Augen überall, — kam zu der Stelle, wo etwa der fremde,
 so seltsam helle Wagen gehalten hatte, prallte zurück …
 
 Quer über die Straße von Baum zu Baum war eine
-weiße die Leine gespannt, und mitten über der Straße
+weiße dicke Leine gespannt, und mitten über der Straße
 hing etwa ein Meter über dem Boden an der Leine ein
 weißer Stoffetzen.
 
 Stoffetzen?! — Ich beleuchtete ihn mit der Taschenlampe,
-ich sah: Es war eine Dynamitpatrone mit Nest)-
-Zündung! Wäre unsere Autotaxe gegen die Leine M?
-fahren, würden wir in Atome zerrissen worden sein!
+ich sah: Es war eine Dynamitpatrone mit Reißzündung!
+Wäre unsere Autotaxe gegen die Leine gefahren,
+würden wir in Atome zerrissen worden sein!
 
 <@pagebreak/>
 Ich zerschnitt die Schnur, nahm den Explosivkörper in
@@ -2180,19 +2172,19 @@ Zimmer im zweiten Stock hatte Flureingang, sie öffnete,
 und am Tische unter der brennenden Lampe saß Aloysia
 Brackmüller über ein Zeichenbrett gebeugt, neben ihr
 Harald, die Zigarette im Munde, noch im Mantel, er war
-soeben erst h)ier angelangt.
+soeben erst hier angelangt.
 
-Die Brackmüller mußte einst eine Schönheit gewogen
+Die Brackmüller mußte einst eine Schönheit gewesen
 sein. Ihre Züge zeigten noch jetzt die reinen Linien eines
 edlen Gesichts, das leider frühzeitig durch Not, Sorgen
-und Enttäuschungen jede Ja-’ verloren und tiefe Kerben
-des grausamen Schidsalsgrifj) elf zurückbehalten hatte. Seltsam
+und Enttäuschungen jede Farbe verloren und tiefe Kerben
+des grausamen Schicksalsgriffels zurückbehalten hatte. Seltsam
 an ihr waren die übergroßen, fieberig leuchtenden
-bluffen Augen und die scharf nach Unten herabgezogenen
+dunklen Augen und die scharf nach Unten herabgezogenen
 Mundwinkel.
 
-Sie sprang auf und umarmte Anni, »küßte sie, drückte
-mir die Hand, begrüßte mich mit verstaut verlegen vorgebrachten
+Sie sprang auf und umarmte Anni, küßte sie, drückte
+mir die Hand, begrüßte mich mit der etwas verlegen vorgebrachten
 Bemerkung, daß sie sich ihrer Aufgabe in Berlin
 nicht gewachsen gefühlt habe und daher Hals über
 Kopf zurückgereist sei.
@@ -2202,11 +2194,11 @@ Anni und betonte halb scherzend, irren sei nun einmal
 menschlich, und er hätte sich gründlich geirrt …
 
 Anni berichtete sofort von der Dynamitfalle auf
-der Straße … »Lot, es war schrecklich, — und Herr
+der Straße … »Loy, es war schrecklich, — und Herr
 Schraut hielt das furchtbare Ding nachher im Arm wie
-eine kostbare Vase …
+eine kostbare Vase …«
 
-Lot Brackmüller sagte hart: »Soranis Konto wächst,
+Loy Brackmüller sagte hart: »Soranis Konto wächst,
 — schade, daß ein solcher Bösewicht nur auf Lebenszeit
 ins Zuchthaus wandert.«
 
@@ -2215,16 +2207,16 @@ ins Zuchthaus wandert.«
 Handbewegung. »Vielleicht fängt er sich einmal in seiner
 eigenen Todesschlinge. — Lege gar nicht ab, mein Alter,
 die Damen werden uns entschuldigen, wir haben noch sehr
-viel vor. Zunächst möchte im mir Soranis Mansardenkammer
+viel vor. Zunächst möchte ich mir Soranis Mansardenkammer
 ansehen, dann das Grundstück, auf dem die beiden
 Helfer nachher durch Gas vergiftet wurden, — auch zum
-Wo nun müssen wir noch, — — auf Wiedersehen
+Polizeipräsidium müssen wir noch, — — auf Wiedersehen
 also …« —
 
 Zwischen zwei hohe Mietskasernen eingeklemmt lag
 neben Annis Haus ein altes, zweistöckiges, schmales Gebäude.
 — Es gab hier keinen Hauswart, wir stiegen
-ungeh)indert die Treppen empor, — ganz oben hing an
+ungehindert die Treppen empor, — ganz oben hing an
 einer braunen Tür eine schmierige Visitenkarte: Peter
 Sorani, Opernsänger. Das elende Türschloß bedeutete
 nichts. Wir traten ein. Harald schaltete die Lampe ein,
@@ -2233,7 +2225,7 @@ wir blickten uns um …
 Klägliche Möbel, eisige Kälte, Staub überall, Verwahrlosung
 …
 
-Aber Mohren, den ich an der Leine hatte, winselte
+Aber Mohrchen, den ich an der Leine hatte, winselte
 freudig und begrüßte so, treue anspruchslose Hundeseele,
 das Heim seines Herrn, in dem es nur ein einziges
 Prunkstück gab: Einen altmodischen riesigen Stehspiegel,
@@ -2243,54 +2235,54 @@ zum Boden hinab, hatte unten eine breite Konsole, auf
 der Herr Warze seine Kochtöpfe deponiert hatte. Es waren
 uralte verbeulte Emailletöpfe, eine verrostete Pfanne.
 Eine Büchse Konserven, noch gefüllt, erweiterte das Stilleben.
-Ein Gesehen wieder war auf ein Ecktischchen gestellt,
+Ein Gaskocher wieder war auf ein Ecktischchen gestellt,
 und Harsts Interesse für diese Dinge erschien mir
 etwas überflüssig. »Glaubst du, daß diese Kochgelegenheit
 je benutzt wurde?!« fragte er mit leiser Stimme, aber
 klarer Ironie. »Da, der Gasschlauch ist derart brüchig,
-laß er — hier sind sogar zwei Löcher — seit langem
-kein Las durchgelassen haben kann.« Er beugte sie tiefer
+daß er — hier sind sogar zwei Löcher — seit langem
+kein Gas durchgelassen haben kann.« Er beugte sich tiefer
 <@pagebreak/>
-und roch an dem Schnarchende, das er von der Füllte
+und roch an dem Schlauchende, das er von der Tülle
 gezogen hatte. »Keine Spur von Gasgeruch, natürlich
 nicht!« Dann wandte er sich wieder dem Riesenspiegel zu,
 der mit ungeheuren Eisenstäben nachlässig an der Wand
 befestigt war. Er betastete die Haken, — plötzlich drehte
-sich ter Spiegel ins Zimmer hinein, und dahinter sahen
+sich der Spiegel ins Zimmer hinein, und dahinter sahen
 wir ein tiefes Mauerloch, einen von Laienhand hergestellten
 Durchschlupf in die dritte Etage des Nachbarhauses,
-saßen auf: Bretter als Abschluß, — es war ebenfalls
+sahen auch Bretter als Abschluß, — es war ebenfalls
 ein Spiegel, aber die Rückseite, und standen nun in einem
 modern eingerichteten Schlafzimmer mit einem Bett. Harst
-hatte Mohren in den Arm genommen und hielt dem
-jetzt noch lebhafteren Flechten die Schaute zu. Wir kamen
-hin einen Flur, wir sahen zwei Türen mit matten Glas-.
-Scheiben, die eine war erleuchtet, und in dem äußerst behaglichen
+hatte Mohrchen in den Arm genommen und hielt dem
+jetzt noch lebhafteren Tierchen die Schnauze zu. Wir kamen
+in einen Flur, wir sahen zwei Türen mit matten Glasscheiben,
+die eine war erleuchtet, und in dem äußerst behaglichen
 Herrenzimmer überraschten wir einen grauhaarigen
 Mann, der lesend und rauchend in einem Klubsessel
 saß. Er sprang auf, sein bartloses Künstlergesicht
-färbte sich tiefrot, er lächelte plötzlich, verneigte sich … —
+färbte sich tiefrot, er lächelte plötzlich, verneigte sich …
 »Haben Sie mich also doch gefunden, Herr Harst!«
 
 »Oh — schon vor anderthalb Stunden zum ersten
 Male, Herr Sorani … Hier heißen Sie freilich, der Sie
-sehr geschickt einen Doppelnamen führen, Paar Worm,
+sehr geschickt einen Doppelnamen führen, Paul Worm,
 Rentner, ein Name, der Ihnen ebenfalls zusteht, da Sie
 ein Adoptivkind sind. Ihre Adoptiveltern hießen Warze,
 Ihre Mutter hieß Worm. Ich habe in den wenigen Stunden
 in M. so allerlei Arbeit hinter mir, und jetzt wollte
-iq) meinem Freunde Schraut nur einen Teil dieser Arbeit
+ich meinem Freunde Schraut nur einen Teil dieser Arbeit
 vorführen.«
 
 Sorani war tadellos gekleidet. Er streckte die Hände
 aus, — Mohrchen war nicht mehr zu halten, er nahm
-einen Hund, drückte ihn an sie, herzte ihn, in seinen
-von etwas altersmatten Augen schimmerten Tränen.
+seinen Hund, drückte ihn an sich, herzte ihn, in seinen
+schon etwas altersmatten Augen schimmerten Tränen.
 
 Dann wies er auf zwei andere Sessel. »Nehmen Sie
 Platz, meine Herren … — Ich bin nicht der gesuchte
 <@pagebreak/>
-Mordbube. ’Ich wünschte, ich würde ihn kennen, und ich
+Mordbube. Ich wünschte, ich würde ihn kennen, und ich
 wüßte, wie der Schurke die beiden Autos in den Fluß
 beförderte. Das Problem beschäftigt mich dauernd.« Er
 tippte mit dem Finger auf Zeitungsausschnitte, Notizen
@@ -2305,23 +2297,23 @@ Auch ich hatte Sorani zunächst in Verdacht, eine
 Kleinigkeit warf diese Annahme um und brachte mich
 auf die richtige Fährte. — Vielen Dank, Herr Sorani,
 — sehr gern nehme ich die Zigarre an. Unsere Zeit ist
-knapp … Tür den Abend meldete die Wetterwarte
+knapp … Für den Abend meldete die Wetterwarte
 leichten Schneefall, und ich will das Drama am Fluß
-unter möglichst gleiten Umständen rekonstruieren Der
+unter möglichst gleichen Umständen rekonstruieren. Der
 hiesige Polizeipräsident ist bereits eingeweiht. Die Straße
 und die Anlagen werden um zehn Uhr in weitem Umkreis
 abgesperrt, Dann werden die Herren von der
 Polizei in zwei Autos denselben Weg zurücklegen …
 Sie können mit dabei sein, Herr Sorani. — Also nun die
-Fragen … Gestank: Weshalb Annis Angst vor dem
+Fragen … Erstens: Weshalb Annis Angst vor dem
 kläglichen Geheul Ihres tadellos dressierten Hündchens?«
 
 »Weil ich ihr auf der Straße begegnete, als ich mit
-Matratzen zum Tierarzt lief. Mohrchen schrie vor Schmerzen.
+Mohrchen zum Tierarzt lief. Mohrchen schrie vor Schmerzen.
 Ich rief Anni erklärend zu: »Vergiftet!« und die
 Wirkung war erschreckend und eindeutig. Sie taumelte
 gegen die Hauswand, sie zitterte, nie sah ich ein so geisterbleiches
-Gesicht. Deshalb hielt ich sie für die GiftMmischcherin.
+Gesicht. Deshalb hielt ich sie für die Giftmischerin.
 Sie war beim Walhalla-Theater, und sie hatte
 mich stets wie einen Aussätzigen gemieden und mich mit
 größter Geringschätzung behandelt, — wahrscheinlich hatte
@@ -2333,61 +2325,61 @@ vom Schreibtisch Silvestras, sondern aus der Tasche des
 mit Gas getöteten Lastwagenchauffeurs. Das Schaltbild
 kann nur die tief verschleierte Dame Silvestra gestohlen
 haben, die kurz vor mir bei ihm war. Ich kenne die Frau
-… nicht. Daß sie mit den Mördern im Bunde steht, ist sicher.
+nicht. Daß sie mit den Mördern im Bunde steht, ist sicher.
 — Ich will mich, was die übrigen Punkte betrifft, ganz
 kurz fassen. Der Vater Silvestras und ich waren Freunde.
 Als ich noch auf der Höhe meiner Laufbahn als Opernsänger
 stand, lieh ich ihm zur Gründung der Farbwerke
 hunderttausend Mark. Nachher bestritt er den Empfang
 des Darlehns, obwohl er inzwischen Millionär geworden.
-Erst nach seinem Tode fand ich endlich die Darlehnsurkunde
+Erst nach seinem Tode fand ich endlich die Darlehnsurkunde.
 Hektor zahlte mir das Geld zurück. Er bat mich,
 den Ruf des Toten zu schonen, — so begann ich dieses
 Doppelleben lediglich aus Rücksicht auf den Sohn eines
 … Betrügers. Die Welt sollte nicht erfahren, daß ich
 zu Vermögen gelangt war. Mein Besuch bei Silvestra am
-5\. Lauter Halt lediglich der Empfangnahme der noch nicht —
+5\. Januar galt lediglich der Empfangnahme der noch nicht
 gezahlten Zinsen. — Und nun zu den Mordtaten selbst.
-By war am fünften nachts in meiner Stammkneipe gewesen,
-ich kehrte durch) die Anlagen am Flusse heim,
-ich sah 5;echter — unser gegenseitiges Verhältnis war bei
+Ich war am fünften nachts in meiner Stammkneipe gewesen,
+ich kehrte durch die Anlagen am Flusse heim,
+ich sah Hektor — unser gegenseitiges Verhältnis war bei
 aller äußerlichen Höflichkeit recht gespannt — in Annis
 Gesellschaft mit dem Polizeibeamten sprechen, ich merkte
 ihm an, wie verstört er war, ich schöpfte Verdacht, wartete
 vor Annis Haus, schlich ihm nach, sah ihn über
-den Zaun klettern, zurückkehren und vor dem Hausmacher
-fließen, wagte mich selbst in den Anbau hinein, fand die
+den Zaun klettern, zurückkehren und vor dem Bauwächter
+fliehen, wagte mich selbst in den Anbau hinein, fand die
 beiden Toten, durchsuchte ihre Taschen, — der tote
 Chauffeur hatte die Schaltskizze in seiner Lederjoppe, die
-am Ofen hing. Ich) nahm das Schaltbild mit, ich hielt
-Helfer für den Urheber der beiden Verbrechen, ich besitze
-als Worm ein Auto, ich fuhr nach Berlin zu Nehmen,
-da im auch Anni dorthin abreisen sah, ich wollte durch
+am Ofen hing. Ich nahm das Schaltbild mit, ich hielt
+Hektor für den Urheber der beiden Verbrechen, ich besitze
+als Worm ein Auto, ich fuhr nach Berlin zu Ihnen,
+da ich auch Anni dorthin abreisen sah, ich wollte durch
 <@pagebreak/>
 Sie den Schuldigen überführen lassen, — Anni war
 Spionin, Sie wissen es, — ich wandte den Trick mit
-Mohren an, sie mürbe zu machen, und in schien Vorgarten
+Mohrchen an, sie mürbe zu machen, und in Ihrem Vorgarten
 wurde ich jählings niedergeschlagen, zu meinem
-eigenen Auto geschleppt, gefesselt, — — die Rechten
+eigenen Auto geschleppt, gefesselt, — — die urechten
 Hintertreppenfilmszenen, Herr Harst: Ein vermummter Kerl
 nahm mir unter Drohungen das Ehrenwort ab, nach M.
 zurückzukehren. Mein Leben hing damals im einsamen verschneiten
-Gelände zweifellos un einem sehr dünnen Jäddicken.
-Der Kerl war nicht Hektor, er ließ mich laufen,
-er fuhr mit meinem ’:Bagen davon, ich betrat meine Mansarde
-nicht mehr, — Peter Sorani. sollte nie mehr auftauchen.
+Gelände zweifellos an einem sehr dünnen Fädchen.
+Der Kerl war *nicht* Hektor, er ließ mich laufen,
+er fuhr mit meinem Wagen davon, ich betrat meine Mansarde
+nicht mehr, — Peter Sorani sollte nie mehr auftauchen.
 — Das ist meine Geschichte. — Daß ich als
 Sorani Bart, Perücke und Brille trug, — ich war Komödiant,
 und es ist Unsinn zu behaupten, jeder falsche Bart
 sei zu erkennen. Wünschen Sie noch mehr Einzelheiten?«
 
-»Sein. Ihre Angaben waren mir sehr wertvoll.
-Mir fehlte noch ein Verbindungsglied in der Beweiskette,
+»Nein. Ihre Angaben waren mir sehr wertvoll.
+Mir fehlte noch ein Verbindungsglied in der Beweiskette.
 Sie lieferten es mir, — nun kenne ich den Grund des
-satanischen Hasses, den der Mörder gegen Helfer Silvestra
-legt. Der tote Kommerzienrat Silvestra hat nicht allein
-an Ihnen Schulter; gehandelt. Sein Sohn sollte büßen,
-sollte vor Gericht Ein ungeheurer Abgrund von raffinierter
+satanischen Hasses, den der Mörder gegen Hektor Silvestra
+hegt. Der tote Kommerzienrat Silvestra hat nicht allein
+an Ihnen schurkisch gehandelt. Sein Sohn sollte büßen,
+sollte vor Gericht. Ein ungeheurer Abgrund von raffinierter
 Verworfenheit, die an Irrsinn grenzt, tut sich
 vor uns auf.« Harst blickte düster vor sich hin. »Es fragt
 sich, ob der Täter jemals zur Verantwortung gezogen
@@ -2400,13 +2392,13 @@ Vergifteten …« Er holte zwei Päckchen Banknoten hervor.
 »Unter dem Herd, unter einer gelockerten Kachel lagen
 diese zwanzigtausend Mark. Ich suchte danach, sie mußten
 <@pagebreak/>
-irgendwo zu finden sein, und HerdversteFfe haben bei
+irgendwo zu finden sein, und Herdverstecke haben bei
 einfachen Leuten stets eine Rolle gespielt.«
 
 Sorani schaute Harst bittend an. »Wer ist der
 Mörder?«
 
-»Der, der Ohren Hund vergiften wollte … Er haßt
+»Der, der Ihren Hund vergiften wollte … Er haßt
 Tiere, er sagte es mir selbst, und das Kläffen Mohrchens
 wird diese kranken Nerven gepeinigt haben, da er es
 täglich hörte …«
@@ -2415,8 +2407,8 @@ Sorani schüttelte verständnislos den Kopf. —
 
 Gleich darauf verabschiedeten wir uns.
 
-Ich machte keinerlei Versuch, den Namen zu exwkfahren.
-Harst hätte ihm doch nicht genannt. Außerdem
+Ich machte keinerlei Versuch, den Namen zu erfahren.
+Harst hätte ihn doch nicht genannt. Außerdem
 glaubte ich ihn zu kennen … Ich fröstelte in der frischen
 Winterluft, als wir dem abgelegenen Grundstück zuschritten.
 
@@ -2425,7 +2417,7 @@ Winterluft, als wir dem abgelegenen Grundstück zuschritten.
 <h3>Der große Schuppen.</h3>
 
 Es schneite ganz wenig. Wir erreichten das Tor
-See Bretterzaunes, im sah den großen langen Speicher
+des Bretterzaunes, ich sah den großen langen Speicher
 für die Theaterrequisiten, die Nebengebäude, — der
 Dietrich ließ uns ein, Harald zog die Pistole und schaute
 sich um. »Vorsicht!«
@@ -2433,53 +2425,53 @@ sich um. »Vorsicht!«
 Die frische dünne Schneeschicht zeigte uns, als wir
 den Schuppen umkreisten, eine breite Fährte — jemand
 war vom Ostwinkel des Zaunes zur Schuppentür gelaufen.
-Nur eine Spur zur Tür — keine Rückgrat.
+Nur eine Spur zur Tür — keine Rückspur.
 
 »Damit rechnete ich, deshalb sagte ich es,« flüsterte
 Harald. »Nun steckt er da drinnen und … lauert! Es
-ist für ihn die einzige Möglichkeit, sich zu retten! Unter
-chTZod und — — ein Feuer!«
+ist für ihn die einzige Möglichkeit, sich zu retten! Unser
+Tod und — — ein Feuer!«
 
 <@pagebreak/>
 Ich starrte ihn verdutzt an … »Feuer?!«
 
 »ja, Er hofft … Ich war nur kurze Zeit bei
-ihm. ’Meine ’Sragen beunruhigten ihm. Er ahnt, daß ich
+ihm. Meine Fragen beunruhigten ihn. Er ahnt, daß ich
 die Bedeutung dieses Holzspeichers kenne. Nun …
 lauert er, vielleicht mit dem Blasrohr, vielleicht
-mit« Giftgas, vielleicht mit einer anderen Teufelei.
-—» Komm’, der Schuppen hat noch einen Zugang, und
+mit Giftgas, vielleicht mit einer anderen Teufelei.
+— Komm’, der Schuppen hat noch einen Zugang, und
 den habe ich heute schon einmal benutzt.«
 
 Wir schlichen zur Rückseite. Eine Bretterpforte, kaum
-erkennbar, öffnete sich erst, als Harald lautlos die Schattierung
-’herausgedreht hatte.
+erkennbar, öffnete sich erst, als Harald lautlos die
+Schloßsicherung herausgedreht hatte.
 
 »Die Türgelenke habe ich geölt,« hauchte er. »Der
-Mann erwartet uns vorn am Haupttor …
+Mann erwartet uns vorn am Haupttor …«
 
 Wir traten ein, — wir schlüpften Hinein, Harald
-sog die Pforte zu, nahm meine Hand und tastete sich
+zog die Pforte zu, nahm meine Hand und tastete sich
 vorwärts. Ich hielt die Pistole bereit. Meine Nerven
 waren zum Reißen gespannt. Muffiger Duft von Leinwand
 und Farbe, — Eiseskälte, — Finsternis … Und Schritt
 für Schritt vorwärts …
 
-Dann vor uns ein ganz matter Lichtschein. PhantastischGe
+Dann vor uns ein ganz matter Lichtschein. Phantastische
 Bäume, nur beklebte Holzrahmen, täuschten die
 Konturen von Büschen vor, — ein ausgestopftes Pferd
 glotzte uns aus gläsernen Augen an, ein Schwanenwagen
 zeigte seine grotesken Umrisse, eine Hausfront
 aus Pappe stand schräg an einem Balken, und hinter
-ihr feuerte ein Mann
+ihr kauerte ein Mann …
 
 Die kleine Petroleumlaterne, die er neben sich stehen
-hatte, war mit einem Suchte starb bedeckt. Der Mann war
+hatte, war mit einem Tuche halb bedeckt. Der Mann war
 bärtig, bucklig, trug Brille, Schlapphut und dunklen Mantel.
 In der Hand hielt er eine helle Schnur, die sich
-nach den! Tor zu in der Finsternis verlor. Die Bedeutung
+nach dem Tor zu in der Finsternis verlor. Die Bedeutung
 dieser Schnur ahnte ich. Der Mann arbeitete jetzt mit
-Dynamit. Tür Geld ist alles zu haben, selbst zwei Helfer,
+Dynamit. Für Geld ist alles zu haben, selbst zwei Helfer,
 die nachher stumm gemacht werden.
 
 <@pagebreak/>
@@ -2489,7 +2481,7 @@ kauernden Gestalt betrug vielleicht fünf Meter.
 Er drückte meinen Arm, brachte seinen Mund an
 mein Ohr …
 
-»Bleibe hier … Ich werde die Schnur verschneiten.«
+»Bleibe hier … Ich werde die Schnur zerschneiden.«
 
 Er bückte sich, er kroch nach rechts davon …
 
@@ -2499,7 +2491,7 @@ Totenstille herrschte — unheimliche Stille …
 
 Der Mörder wartete, horchte … Mein Herz jagte.
 Ich hob den Arm, zielte … Sollte der Mann auch nur
-Miene machen, ander schlaff hängenden Schnur zu reiten,
+Miene machen, an der schlaff hängenden Schnur zu reißen,
 würde ich schießen …
 
 Minuten verstrichen …
@@ -2510,7 +2502,7 @@ Dann weit vorn ein Poltern … Harst mußte einen
 Gegenstand umgestoßen haben, — der Mann fuhr hoch,
 lugte um die Hauskulisse, — — und stieß dabei die Kulisse
 um … sah es nicht, sah nicht das Flämmchen des in
-Brand ’geratenen, auslaufenden Petroleums …
+Brand geratenen, auslaufenden Petroleums …
 
 Eine Flamme schoß hoch …
 
@@ -2520,8 +2512,8 @@ Requisiten …
 
 Uralte Lumpen von Vorhängen lohten auf …
 
-Jetzt begriff im, was früher ein Bühnenbrand be
-deutet hatte.
+Jetzt begriff ich, was früher ein Bühnenbrand bedeutet
+hatte.
 
 Im Nu ein Feuermeer …
 
@@ -2530,53 +2522,53 @@ Im Nu war ich hinter dem wie versteinert Dastehenden
 
 Packte ihn …
 
-Er schnellte »herum … Ein Wutschrei, — Stahl
+Er schnellte herum … Ein Wutschrei, — Stahl
 von oben fielen brennende Lumpen herab, der Qualm
 verhüllte alles, — ich fühlte den Schmerz einer böse
-stehenden Stichflamme, floh zur Pforte, — hinter mir ein
-brodelnder, knisternder, fauchender Höllenofen, ein wahnwitzigen
+zischenden Stichflamme, floh zur Pforte, — hinter mir ein
+brodelnder, knisternder, fauchender Höllenofen, ein wahnwitziger
 <@pagebreak/>
 Schrei — — eine Weiberstimme, dann ein
-Knaben, Brechen, Splittern …
-stille …
+Krachen, Brechen, Splittern …
+
+Stille …
 
 Ich stand im Freien … Ich stierte in die Glut hinein.
 Ich vernahm ein scharfes dünnes Zischen, Tröpfeln …
-Wassermassen schossen von den Dachbalken nieder, )Völker
+Wassermassen schossen von den Dachbalken nieder, stärker
 wurde der gelbe Qualm, — — Harst mußte den Hahn
 der Sprengvorrichtung umgedreht haben, der Schuppen
 wurde unter Wasser gesetzt, die Glut erlosch, die Zugluft
 trieb den Rauch hinaus, — was wir dann ins Freie
 trugen, war ein entstellter, verbrannter Körper … eine
+Leiche.
 
-ihr.
-
-Harst blickte zum Himmel empor. »Das Sessel hat
-gesprochen, mein Alter … Sie ist tot … — Komm«.
+Harst blickte zum Himmel empor. »Das Schicksal hat
+gesprochen, mein Alter … Sie ist tot … — Komm’,
 es ist Zeit, die Herren warten.«
 
 Es schneite stärker … Wir schritten rasch der Stadt
-zu. »Die Beweisstücke aus dem Suppen habe ich vormittags
-mit einem »Kriminalbeamten, den ich zum
-Schweigen verpflichtete, beiseite geschafft …« Summe
-Harald, als wir uns dem Flusse näherten. »Sei) jetzt
+zu. »Die Beweisstücke aus dem Schuppen habe ich vormittags
+mit einem Kriminalbeamten, den ich zum
+Schweigen verpflichtete, beiseite geschafft …« sagte
+Harald, als wir uns dem Flusse näherten. »Geh jetzt
 diese Straße entlang … Du wirst dann die Herren und
 die Autos treffen … Setze dich neben den Chauffeur
-in den vorderen Wagen … Ich… richte rasch alles
+in den vorderen Wagen … Ich … richte rasch alles
 her. Es ist sehr einfach, mein Alter … Aber es war
 ein Teufelsstreich.« —
 
-Helm Uhr … Große Absperrung, viel Publikum,
+Zehn Uhr … Große Absperrung, viel Publikum,
 viele Fragen …
 
 Die beiden offenen Polizeiautos glitten den Weg
 entlang, der auch zu der neuen Villenkolonie führte, wo
 die Herren vom Limburg-Konzern gewohnt hatten. Wir
 fuhren sehr langsam … Linker Hand erschienen die Anlagen,
-die verschneiten Edeltannen … Ich blickte, scharf
-hin … G8 waren jetzt nicht drei Edeltannen, sondern
+die verschneiten Edeltannen … Ich blickte scharf
+hin … Es waren jetzt nicht drei Edeltannen, sondern
 sechs, und die neu erschienenen drei standen so, daß
-ie die Biegung der Straße nach Norden zu. verdeckten, —
+sie die Biegung der Straße nach Norden zu verdeckten, —
 <@pagebreak/>
 und es waren Edeltannen aus Pappe, Bühnenbäume. Die
 Straßenlaterne war ausgedreht, eine Papplaterne,
@@ -2588,19 +2580,19 @@ nach Norden erst hinter der letzten Pappedeltanne vermuten,
 und die erhob sich dicht an der Lücke in dem
 Balkenzaun.
 
-So waren damals die beiden Privatwagen in vertrat
-befördert worden. Die Schaltskizze mit ihren sechs
-Röhren hatte die Mörderin für ihre Holfershyelfer ergänzt,
-damit diese wüßten, wie sie die Attrappen aufzubau;n
+*So* waren damals die beiden Privatwagen in den
+Fluß befördert worden. Die Schaltskizze mit ihren sechs
+Röhren hatte die Mörderin für ihre Helfershelfer ergänzt,
+damit diese wüßten, wie sie die Attrappen aufzubauen
 hatten, die sich ja sehr schnell wieder auf dem Lastauto
-Vertrauen ließen.
+verstauen ließen.
 
-Man vergleiche Schaltbild und Skizze, und man als.
-kennt unschwer die Zusammenhänge. Die letzten drei
-»Rohren« lud die drei Edeltannen aus Pappe, der
-zeigt bei Biegung der Straße an, das LX ist die Laterne,
+Man vergleiche Schaltbild und Skizze, und man erkennt
+unschwer die Zusammenhänge. Die letzten drei
+»Röhren« sind die drei Edeltannen aus Pappe, der Pfeil
+zeigt die Biegung der Straße an, das L† ist die Laterne,
 die ausgelöscht werden mußte, B ist die Bordschwelle,
-der Zaun, L. die Papplaterne, F der Fluß. —
+Z der Zaun, L. die Papplaterne, F der Fluß. —
 
 Und am Flußufer auf der Promenade gab Harst
 die letzten Erklärungen ab. »Aloysia Brackmüller, deren
@@ -2608,14 +2600,14 @@ Vater Chemiker und Erfinder war, und die daher mancherlei
 technische Kenntnisse besaß, war die Geliebte des
 Kommerzienrats Silvestra. Als er ihrer überdrüssig war,
 ließ er sie in Not und Armut verkommen. Ihr Haß ging
-auf den Sohn über, der sie reichlich unterstützte,!Chor um
+auf den Sohn über, der sie reichlich unterstützte, schon um
 einen öffentlichen Skandal zu vermeiden. Sie wurde
 geisteskrank, — ihre Augen verrieten mir, daß sie irre
-war. Hinzu kam noch eins wahnwitzige Leidenschaft für
-Sektor Silvestra, eine krankhafte, hysterische Liebe. Als
+war. Hinzu kam noch eine wahnwitzige Leidenschaft für
+Hektor Silvestra, eine krankhafte, hysterische Liebe. Als
 ich bei ihr war und ihr dies auf den Kopf zusagte, brach
-sie in Tränen aus. Ich konnte sie jedoch nicht anders übers-.
-führen als durch den Beweis, daß sie den Speicher kannte«
+sie in Tränen aus. Ich konnte sie jedoch nicht anders überführen
+als durch den Beweis, daß sie den Speicher kannte,
 <@pagebreak/>
 daß sie ihn und Schraut und mich vernichten wollte.
 Leider mißlang mein Plan insofern, als Aloysia selbst den
@@ -2623,44 +2615,44 @@ Tod fand. — Was Annis Angst vor dem Geheul des
 Hündchens betrifft, so gibt es dafür nur eine Erklärung:
 Sie ahnte, daß Aloysia das Tierchen vergiftet hatte und
 daß diese Gift, Arsenik besaß. — Ich möchte zum Schluß
-betonen, daß diese entsetzlichen Verließen in milderem
+betonen, daß diese entsetzlichen Verbrechen in milderem
 Lichte erscheinen, wenn man den Geisteszustand der Mörderin
 berücksichtigt. Ihre unglaubliche Kaltherzigkeit, ihre
 erstaunliche Raffiniertheit, ihre Erfindungsgabe und der
 bis ins Kleinste ausgearbeitete Mordplan sind für den
 Irrenarzt weit mehr von Interesse als für uns. —
-Hätte einer der Herren nahm etwas zu fragen? — Nun,
+Hätte einer der Herren noch etwas zu fragen? — Nun,
 dann mögen die unheilvollen Requisiten wieder weggeschafft
 werden. Das Schaltbild bitte ich mir zum Andenken
 aus.«
 
-Gitter der Herren meinte gesperrt: »Und wann
+Einer der Herren meinte zögernd: »Und wann
 schöpften Sie gegen dieses arme Weib Verdacht, Herr
 Harst?«
 
-»am Atelier … Durch den Notizblock. Das, was
+»Im Atelier … Durch den Notizblock. Das, was
 Anni Bartel wirklich signalisiert hatte, war auf den obersten
-Zettel des Bündel gekritzelt worden, und diesen
+Zettel des Blockes gekritzelt worden, und diesen
 Zettel verbrannte Aloysia, — zwischen den Zigarettenstummeln
 lag noch ein Teil des verkohlten Zettels, und
-was ich darauf noch lesen konnte, entsprach nicht denn
+was ich darauf noch lesen konnte, entsprach nicht dem
 Text des zweiten Zettels, den Aloysia frei erfunden hatte,
-um Hektor peng mehr zu belasten. — Ich. denke, wir
+um Hektor noch mehr zu belasten. — Ich denke, wir
 fahren zur Stadt zurück … Der Nachtzug geht um
-elf, und ich) möchte morgen daheim sein, meine Mutter
+elf, und ich möchte morgen daheim sein, meine Mutter
 hat Geburtstag …« —
 
 Vier Wochen darauf erhielten wir eine Einladung zur
 Hochzeit Annis und Hektors. Wir mußten absagen …
-Wir stecken bis über die Ohren in den dunklen Fragen
+Wir steckten bis über die Ohren in den dunklen Fragen
 des Falles »Ball der Toten«. —
 
 <@pagebreak/>
 … Mathilde ruft zum Essen. Ich schließe meine
 Notizen und die Schaltskizze weg. Wir haben nie mehr
-nach; einer Haustochter annonciert, und gegen Sechsröhrenempfänger
-habe ich eine? leise Abneigung.
+nach einer Haustochter annonciert, und gegen Sechsröhrenempfänger
+habe ich eine leise Abneigung.
 
-Nächster Band:
-Der Ball der Toten.
+<#import "*/harst.ftl" as harst>
+<@harst.naechsterband band="Der Ball der Toten."/>
 
