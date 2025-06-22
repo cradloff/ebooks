@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">ff1a8019-b800-46f1-bc43-9f3b8b520068</entry>
+<entry key="title">Das Schaltbild für sechs Röhren</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">275</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Das Schaltbild für sechs Röhren
+
+Die Entscheidung fiel am 5. Januar, als Mathilde beim Fensterputzen von der Leiter stürzte und nur infolge ihrer Fettpolster glimpflich davonkam. Sie wiegt annähernd zweihundert und ist unter Mittelmaß.
+
+Es wurde also eine Anzeige eingerückt:
+
+Haustochter gesucht — und so weiter …
+
+An diesem Tage mußte die Erbsensuppe weggegossen werden, und Mathilde hatte verheulte Augen und sagte zu unserer ständigen Aufwartung, einer bescheidenen jüngeren Person: »Frau Lopitz, das wird nicht gut!« Sie sagte das im Flur, als wir vorübergingen.
+
+An demselben 5. Januar nachts zwölf Uhr ereignete sich in der Industriestadt M. jenes furchtbare Unglück, dem sechs sehr bekannte Persönlichkeiten der Farbenindustrie zum Opfer fielen, außerdem die beiden Chauffeure der Privatautos, in denen die Herren zu dreien gesessen hatten.
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (275) Das Schaltbild für sechs Röhren.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1929</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+

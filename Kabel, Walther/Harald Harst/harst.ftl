@@ -5,7 +5,7 @@ Einbinden mit:
 
 Verwendung:
 <@harst.kkb band="5" titel="Die Schildkröte"/>
-<@harst.introshort2/>
+<@harst.introshort/>
 <@harst.naechsterband band="Der nächste Band."/>
 <@harst.druck/>
 -->
