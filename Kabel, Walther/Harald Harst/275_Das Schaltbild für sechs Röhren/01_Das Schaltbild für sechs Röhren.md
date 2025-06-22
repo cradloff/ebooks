@@ -3,8 +3,6 @@
 <#import "*/harst.ftl" as harst>
 <@harst.introshort/>
 
-<h1>Das Schaltbild für sechs Röhren</h1>
-
 <h2>1. Kapitel.</h2>
 
 <h3>Haustochter gesucht …</h3>
@@ -146,7 +144,7 @@ er?!«
 »Aus Gossenburg,« erklärte Harald gleichgültig.
 
 Annis Kopf flog empor. »Das ist merkwürdig. Auch
-aus Gossenburg?! Vielleicht kenne ich ihm? Wie hieß er
+aus Gossenburg?! Vielleicht kenne ich ihn? Wie hieß er
 denn?«
 
 »Er hieß Peter Warze.«
@@ -403,7 +401,7 @@ ungeschminkt preiszugeben.
 »Ein Mord, fürchte ich!«
 
 Anni sagte nur mit einem gekünstelten Seufzer: »Das
-Ist … furchtbar!«
+ist … furchtbar!«
 
 Ja, das war furchtbar, aber in anderer Hinsicht, als
 die goldblonde Anni es gemeint hatte.
@@ -477,7 +475,7 @@ noch nie zugestoßen …« …
 Harald höflich. »Sie haben hier für frische Luft gesorgt,
 das ist sehr verständig. Mathilde hatte den Boden zu
 stark gewachst, auch mir ist der Terpentingeruch unerträglich.
-Legen die sich jetzt nieder, Fräulein Anni … Morgen
+Legen Sie sich jetzt nieder, Fräulein Anni … Morgen
 werden Sie frisch und munter sein. Gute Nacht.«
 
 Er hatte die Tür schon halb geöffnet, als unten in
@@ -646,7 +644,7 @@ Hauptblatt bestellt, weil die Lokalpresse das Autounglück
 und den Gasmord natürlich weit eingehender gebracht
 hatte. Ich hatte auch diese Artikel sofort studiert, aus
 ihnen ging jedoch einwandfrei hervor, daß die Polizei,
-was den Tod der Art Ertrunkenen betraf, lediglich den
+was den Tod der acht Ertrunkenen betraf, lediglich den
 Chauffeuren die Schuld beimaß, die in ihrem angesäuselten
 Zustand mit unvorschriftsmäßiger Geschwindigkeit gefahren
 waren und die Straßenbiegung nach links nicht rechtzeitig
@@ -890,7 +888,7 @@ hinab. Nach einer Weile öffnete er das kleine Fenster,
 zog die lose herabhängende Leine empor, ließ sie in das
 Atelier gleiten, winkte mir und verschwand.
 
-Es war ausgeschlossen, daß im mit meinem Sportpelz
+Es war ausgeschlossen, daß ich mit meinem Sportpelz
 durch das Fenster hindurchkonnte. Es blieb mir nichts anderes
 übrig, ich mußte den Pelz ablegen.
 
@@ -907,7 +905,7 @@ Die Frau schlief.
 
 Auf dem Tische neben ihr stand die Erklärung für
 ihr melodisches dumpfes Schnarchen in Gestalt einer
-Flasche Kümmel und eines noch halb gefüllten Fernglases.
+Flasche Kümmel und eines noch halb gefüllten Weinglases.
 Die Frau hatte einen Mantel mit Pelzkragen an,
 trug dazu eine schwarze Filzkappe mit schwarzem herabgezogenem
 Schleier, — die Hände hatte sie in die pelzbesetzten
@@ -1044,7 +1042,7 @@ In die Rückenlehne des kleinen Sofas war eine Hutnadel
 mit breitem Knopf hineingestoßen. Als wir es von
 der Wand rückten, sahen wir, daß die Spitze der Hutnadel
 den Hebel der kleinen Gasstahlflasche aufgedrückt
-haben müßte. Das Weib hatte sich also nur stärker zurückzulehnen
+haben mußte. Das Weib hatte sich also nur stärker zurückzulehnen
 brauchen, dann öffnete sich der Hebel, und das
 Gas strömte uns durch den Schlauch entgegen.
 
@@ -1356,7 +1354,7 @@ nehmen? Weshalb zeigte er mich nicht bei der Polizei an?!
 Und Aloysia hatte doch auch kein Gift zur Hand, es sei
 denn Veronaltabletten, ein Schlafmittel, sie schläft sehr
 schlecht, die Ärmste … Auch meine Nerven haben darunter
-gelitten, sie ging nachts so oft ja unserem Zimmer
+gelitten, sie ging nachts so oft in unserem Zimmer
 hin und her …«
 
 Jetzt weinte sie.
@@ -1386,7 +1384,7 @@ was Sie wollen!«
 
 Ich hatte die Schlacht nur halb gewonnen.
 
-Ein böser, feindseligen Blick traf mich.
+Ein böser, feindseliger Blick traf mich.
 
 »Kommen Sie mit!« befahl ich streng.
 
@@ -1765,7 +1763,7 @@ Ich war ein Pechvogel.
 ein halber Ziegelstein und Splitter fielen herab, — um
 den Ziegelstein war ein Fetzen Papier gebunden …
 
-Aus dem Papier stand:
+Auf dem Papier stand:
 
 <p class="centered">Er liegt im Bett!</p>
 
@@ -1901,7 +1899,7 @@ Er faßte in die Innentasche seiner Weste.
 »Bitte … Dieser Brief wurde mir während des
 zweiten Aktes der alten Posse »Robert und Bertram« in
 die Loge geworfen … Lesen Sie nur …« Seine Stimme
-schwenkte merklich. »Lesen Sie, lesen Sie vor, Herr Kommissar
+schwankte merklich. »Lesen Sie, lesen Sie vor, Herr Kommissar
 … Die Logenschließerin behauptete nachher, der
 Überbringer sei ein buckliger alter Herr mit fuchsigem
 Vollbart gewesen …«
@@ -1940,7 +1938,7 @@ Sie wissen, stehen der große Schuppen, die Garage und
 der Wohnanbau auf einem Grundstück hinter einem hohen
 Plankenzaun. Gegen halb vier war ich an Ort und Stelle.
 Ich suchte mir, da am Torweg des Zaunes keine Glocke
-vorhanden ist … an der Ostseite einen Platz, wo ich Ziegelsteine,
+vorhanden ist, an der Ostseite einen Platz, wo ich Ziegelsteine,
 die dort bei einem Neubau aufgestapelt waren,
 zu einer möglichst bequemen Treppe aufschichtete. Dies
 nahm wieder geraume Zeit in Anspruch. Dann überkletterte
