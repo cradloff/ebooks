@@ -17,7 +17,7 @@ den großen Hochstapler zu spielen suchte.
 
 Er wohnte seit langem in unserer Nähe, wo er ein kleines Häuschen,
 ererbt von ehrlichen Eltern, sein eigen nannte und Garten und
-Haus, auch anerkennenswert, Musterhaft in Ordnung hielt, falls
+Haus, auch anerkennenswert, musterhaft in Ordnung hielt, falls
 er eben nicht gerade gezwungen war, sein dürftiges Heim und seine
 beiden Papageien unserem Schutze anzuvertrauen, was leider regelmäßig
 jedes Jahr geschah.
@@ -37,7 +37,7 @@ unfehlbar auf eine neue drohende »Ferienreise« des nunmehr Vierzigjährigen
 hin. Fritz Knüppel sollte eine »Detektei« gegründet haben, und
 als wir gestern zufällig an seinem Häuschen vorübergekommen waren,
 hatten wir tatsächlich neben der Gartenpforte ein Riesenschild
-mit der ehrpusseligen<@refnote 1/> Verheißung bemerkt, das die
+mit der ehrpusseligen<@refnote 1/> Verheißung bemerkt, daß die
 Detektei »Gloria« Ermittlungen, Auskünfte und Beobachtungen in
 vornehmster Art gegen mäßige Gebühren erledige.
 
@@ -62,14 +62,14 @@ Knüppel wehrte mit einer wundervollen Geste energisch ab. »Herr
 Harst, ich bin jetzt endgültig kuriert!«
 
 »Waren Sie in einer Heilanstalt, lieber Knüppel? Nehmen Sie Platz,
-Sie Unglückswurm … Legen Sie Ihren Mottenpelz ab Und — — schämen
+Sie Unglückswurm … Legen Sie Ihren Mottenpelz ab und — — schämen
 Sie sich in Ihre schwarze Seele hinein, — wie konnten Sie nur
 ausgerechnet den neuen Blödsinn mit der »Gloria« ersinnen?!«
 
 Knüppel setzte sich, griff mit tadellos gepflegter Hand nach
 einer Zigarette, lehnte auch den  Kognak nicht ab, schmunzelte
 vielsagend, zog seine echt juchtenlederne Brieftasche (aus einem
-Ein- Mark-Basar) und breitete auf dem Tische sorgfältig elf Papierschnipsel
+Ein-Mark-Basar) und breitete auf dem Tische sorgfältig elf Papierschnipsel
 aus, die er eben so sorgfältig zu einer Karte größeren Formats
 zusammenschob.
 
@@ -93,7 +93,7 @@ Kostümfest höflichst einzuladen.
 
 <p class="centered">Es wird gebeten, maskiert zu erscheinen.</p>
 
-<p class="centered">Beginn Pünktlich acht Uhr.</p>
+<p class="centered">Beginn pünktlich acht Uhr.</p>
 
 »Na?!« fragte Knüppel triumphierend und schaute uns noch strahlender
 an.
@@ -119,7 +119,7 @@ den einen Brief, stopfte den Umschlag in die Manteltasche, las
 diese Karte hier, schrak merklich zusammen und zerriß sie dann
 mit grimmer Hast und warf die Fetzen auf dem Boden, trampelte
 wütend mit dem Fuße auf den Papierschnitzeln umher und rannte
-davon — rannte, Herr Harst …! — sein Benehmen veranlaßte mich,
+davon — rannte, Herr Harst …! — Sein Benehmen veranlaßte mich,
 die Papierstücke ebenso eilig wie unauffällig aufzuheben und
 dem Herrn zu folgen. Er schien inzwischen ruhiger geworden zu
 sein, machte kehrt und suchte nach den Papierfetzen, erkundigte
@@ -131,7 +131,7 @@ ihm drein. Er verschwand in dem Hause Sulzaer Str. 102, bekanntlich
 ein ganz altes verwahrlostes Grundstück, das Gebäude gleicht
 mehr einem Stall, und an der Gartenpforte bemerkte ich ein Porzellanschild
 »Dr. J. Schindel«. — Nach gründlichem Überlegen entschied ich
-mich dahin, Ihnen den Fall vorzutragen, denn sowohl diese Höchst
+mich dahin, Ihnen den Fall vorzutragen, denn sowohl diese höchst
 eigentümliche gerippte Einladung als auch das ganze Verhalten
 Schindels gaben mir sehr zu denken. Wie Ihnen vielleicht bekannt
 ist, habe ich für Ihre spezielle Neigung für alles Absonderliche
@@ -140,7 +140,7 @@ stets nicht nur das größte Verständnis bezeugt …«
 »… gezeigt, — — zerbrechen Sie sich nicht die Zunge!«
 
 »… gezeigt, sondern bin auch selbst in dieser Hinsicht so sehr
-auf den Geschmack gekommen, das ich die »Gloria« gründete, ein
+auf den Geschmack gekommen, daß ich die »Gloria« gründete, ein
 durchaus ehrenwertes Unternehmen, das sich bereits lebhaftesten
 Zuspruchs aus allen Kreisen der Bevölkerung erfreut …«
 
@@ -151,7 +151,7 @@ verdient habe — — Ehrenwort, mindestens so viel … und ehrlich!« —
 
 Offen gestanden begriff ich Harald nicht recht. Knüppels Gefasel
 fiel *mir* auf die Nerven, — Harst dagegen musterte den Gloria-Inhaber
-schon wieder mit eigentümlich weltentrückten Blick und meinte
+schon wieder mit eigentümlich weltentrücktem Blick und meinte
 ohne die bisherige bissige Ironie:
 
 »Und die Anliegen Ihrer Klienten?«
@@ -217,25 +217,25 @@ merklich unsicher, also dürften Sie ab »16« falsch nummeriert
 haben. Her damit!«
 
 Knüppel schnappte nach Luft, aber er gehorchte und Harald las
-nun seinerseits vor.
+nun seinerseits vor:
 
 > *Sechzehn*. Miß Agna Tompson aus London zur Zeit Pension Derbler,
 Am Zoo, Beobachtung des Rentners Doktor Ignaz Schindel, Sulzaer
 Straße, täglicher telephonischer Bericht, Hansa 1213, Vorschuß
-zweihundert Mark, Am 28. November, strengste Verschwiegenheit
+zweihundert Mark. Am 28. November, strengste Verschwiegenheit
 gefordert, Ältere Dame, verschleiert, gebrochenes Deutsch, bucklig,
-hingt links, elegant gekleidet, — Ausdrücklicher Befehl, Ignaz
+hingt links, elegant gekleidet. — Ausdrücklicher Befehl, Ignaz
 Schindel nie aus den Augen zu lassen und jede Kleinigkeit zu
 melden, Absicht und Zweck der Tompson mir undurchsichtig.
 
-Horst steckte den Zettel in die Tasche.
+Harst steckte den Zettel in die Tasche.
 
 »Ja, mein lieber Knüppel, — Sie sehen, ich habe Ihnen doch einen
 Knüppel zwischen Ihre gebügelten Beine geworfen …! Und nun
 legen Sie los. Was haben Sie der Miß in diesen zehn Tagen über
 Schindel melden können?«
 
-»Nichts,« sagte der Gloria-Mann kläglich. »so gut wie nichts.
+»Nichts,« sagte der Gloria-Mann kläglich. »So gut wie nichts.
 Schindel ist ein verkrachter Mediziner, war mal Arzt, hatte Unglück
 und kam vor die Geschworenen, die für seine Nächstenliebe wenig
 Verständnis zeigten, zwei Jahre Zuchthaus!! Vor vier Monaten
@@ -246,7 +246,7 @@ mit niemandem, bekommt wenig Post, bleibt nachts sehr lange auf
 und sitzt an seinem Schreibtisch — ich sah den Schatten auf den
 Vorhängen —, züchtet Kaninchen, hat nur zwei Zimmer des Hauses
 möbliert, raucht sehr viel, meist lange Pfeife, unterstützt heimlich
-Arme und Kranke und gewährte letztens einer ermittelten Familie
+Arme und Kranke und gewährte letztens einer ermitierten Familie
 bei sich Unterkunft. — Das wäre alles.«
 
 Fritze Knüppel atmete keuchend, da er all diese Sätze im Salopptempo
@@ -258,7 +258,7 @@ einen zweiten Papierfünfziger spendete:
 
 »Sie werden telephonieren und erklären, Ihr Bericht müsse mündlich
 erstattet werden, Miß  Tompson soll um acht heute zu Ihnen kommen,
-— — und dann werden auch wir zur stelle sein — heimlich, Knüppel,
+— — und dann werden auch wir zur Stelle sein — heimlich, Knüppel,
 heimlich! — so, und nun dürfen Sie sich verabschieden.«
 
 <h2>2. Kapitel.</h2>
@@ -272,9 +272,9 @@ Sarkasmus.
 
 »Wenn dich, lieber Alter, die Morgenzeitung mehr interessiert
 als Knüppels äußerst wichtiger Klientenzettel,« meinte er, während
-er sich zum Ausgeben fertig machte, »wage ich es kaum, dich aufzufordern,
+er sich zum Ausgehen fertig machte, »wage ich es kaum, dich aufzufordern,
 mich zum Pensionat Derbler zu begleiten. Du unterschätzt die
-Angelegenheit offenbar. Du hast ja gehört, das ich soeben das
+Angelegenheit offenbar. Du hast ja gehört, daß ich soeben das
 Restaurant Hubertusstock anrief und fragte, ob der Saal für den
 12ten abends frei sei, worauf man mir antwortete, der Saal sei
 bestellt und es fände ein Kostümfest statt. Die seltsame Einladung
@@ -299,12 +299,12 @@ Die Derbler war eine blendende blonde Erscheinung, raffiniert
 schlicht gekleidet, vollendete Dame mit weichen Bewegungen und
 weichem Organ.
 
-»Ich bedauere sehr, es ist kein Zimmer frei,« sagte sie liebenswürdig
+»Ich bedauere sehr, es ist kein Zimmer frei,« sagte sie liebenswürdig.
 »Ich habe zumeist Dauermieter — zum Glück, erst am 13ten wird
 das Balkonzimmer frei, das jetzt eine Londoner Dame bewohnt.«
 
 »Gnädige Frau, unter diesen Umständen ist es besser, wir lassen
-die Maske fallen,« meinte er mit leichten Lächeln.
+die Maske fallen,« meinte er mit leichtem Lächeln.
 
 Seltsamerweise löste diese Bemerkung bei der Hausherrin offenbar
 ein starkes Mißbehagen aus, sie fixierte Harst sehr durchdringend
@@ -314,7 +314,7 @@ in anderer Absicht hierher?«
 Ihre überschlanken Hände waren jetzt so fest ineinander verschlungen,
 daß die zartblauen Adern unschön hervortraten. —
 Harst hielt diesem durchbohrenden Blick mit einem vielsagenden
-Schmunzeln stand und erwiderte mit halb ironischer Verneigung.
+Schmunzeln stand und erwiderte mit halb ironischer Verneigung:
 »Unsere Namen lauten etwas anders, gnädige Frau, und an unserem
 Äußeren ist auch so manches nicht ganz echt. Ich bin Harald
 Harst, und dieser gemütliche Herr ist ein viel angefeindeter
@@ -323,7 +323,7 @@ literarischer Schmierfink: Max Schraut!«
 Sie nickte mir mit warmen Augen zu, und *der* Blick war Balsam
 für mein subtiles Gewissen. Man verwindet es schwer, mitunter
 von Leuten, die ihre Berechtigung zum Kritikerberuf erst nachweisen
-müßten, mit feigen Phrasen belästigt werden.
+müßten, mit feigen Phrasen belästigt zu werden.
 
 »Womit kann ich Ihnen also dienen, Herr Harst?« wandte sie sich
 meinem Freunde wieder zu. »Überlege ich’s mir recht, so könnte
@@ -333,7 +333,7 @@ Zimmer auch tatsächlich benutzen und nicht wie Miß Tompson meist
 erst nach Mitternacht heimkehren und früh morgens wieder verschwinden,
 angeblich zum Besuch der Museen und Schlösser. Das wäre im übrigen
 auch alles, was ich von der ältlichen, sehr verschlossenen Dame
-weiß. «
+weiß.«
 
 »Oh, es genügt mir …«, meinte Harst genau so harmlos wie bisher.
 »Welche Telephonnummer haben Sie, gnädige Frau?«
@@ -345,7 +345,7 @@ jemand und entfernt sich wieder. Vor Mitternacht kehrt sie nie
 heim — eine etwas eigentümliche Lebensführung, die mir nicht
 recht gefällt. -- Liegt irgend etwas gegen die Engländerin vor?«
 
-»Nichts Bedenkliches,« erklärte Harst. »Es sei denn, das man
+»Nichts Bedenkliches,« erklärte Harst. »Es sei denn, daß man
 erführe, die Dame besäße eine Schreibmaschine, mit der sie vielleicht
 Einladungen zu Kostümfesten tippt.«
 
@@ -381,10 +381,10 @@ alle gleich verlegen und alle — im Besitz der gleichen Einladung
 zum Ball der Toten.
 
 Frau Anna Schulze. Zoppoter Straße 99, übernahm als die Zungenfertigste
-die feierliche Aussprache. »Herr Harst, wir vier sind aus´n Verein
+die feierliche Aussprache. »Herr Harst, wir vier sind aus’n Verein
 der Katzenfreunde. Heut’ morgen kriegen wir die Karten zu dem
-Ball … Bitte, hier sind sie. Die Gnatzte kam sofort zu mir, und
-nachher stellte sich raus, daß auch Herr Wendt und Herr Pisutzke
+Ball … Bitte, hier sind sie. Die Gnatzke kam sofort zu mir, und
+nachher stellte sich raus, daß auch Herr Wendt und Herr Pisutzki
 so ’ne Dinger erhalten hatten. Da sagte eben der Wendt, wir jehn
 alle zusammen zu Herrn Harst, der weiß Bescheid.«
 
@@ -404,7 +404,7 @@ mehr Auftauenden wortreich mitgeteilt wurden, die wärmste Anteilnahme
 und bemerkte schließlich, er würde Nachfrage halten, ob es mit
 dem angekündigten Ball seine Richtigkeit habe.
 
-»Auf Wiedersehen also, — Ich besuche Sie morgen oder übermorgen,«
+»Auf Wiedersehen also, — ich besuche Sie morgen oder übermorgen,«
 — hiermit war das Quartett entlassen.
 
 Er trat ans Fenster und blickte ihnen nach, wie sie redselig
@@ -418,7 +418,7 @@ So dachte ich, und vom Fenster her sagte mein Freund, der wieder
 einmal meine Gedanken erraten hatte: »Es werden sich daher noch
 einige weitere Geladene einfinden, und das wollte ich, mein Alter.«
 
-Am Nachmittag beschäftigte er sich dann Stundenlang mit unseren
+Am Nachmittag beschäftigte er sich dann stundenlang mit unseren
 Sammelmappen von Zeitungsausschnitten, rief auch Freund Lücke
 im Roten Alex an und bat um Auskunft über Doktor Ignaz Schindel.
 Es traf zu, daß Schindel vor längerer Zeit zu drei Jahren Zuchthaus
@@ -446,7 +446,7 @@ den prägnanten Kopf Dantes darstellte — Dutzendware eben.
 Der vernachlässigte Holzzaun bot weiter keine Schwierigkeiten,
 wir stiegen hinüber und näherten uns dem Hause. Doktor Schindel
 schrieb sehr eifrig, wie wir nun aus der Nähe feststellten, zuweilen
-lehnte er sich zurück, dann verschwand der Schatten vollkommenen,
+lehnte er sich zurück, dann verschwand der Schatten vollkommen,
 und nur die dunklen Flecken der Statuetten blieben unverändert.
 
 Harst zog unter dem Mantel eine klobige Pistole hervor. Es war
@@ -480,7 +480,7 @@ neugierig. — Läuten wir.«
 
 Wir schritten die fünf Stufen zur Haustür empor, im Flur drinnen
 schrillte die Glocke, und über der Tür wurde das schmale vergitterte
-Fenster hell — Eine mürrische Baßstimme rief: »Was wollen sie?
+Fenster hell. — Eine mürrische Baßstimme rief: »Was wollen sie?
 — Ich empfange keine Besuche.«
 
 »Wenn Sie uns nicht sofort einlassen, lieber Freund«, meinte
@@ -521,7 +521,7 @@ jehört, det is schändlichste Verleumdung …«
 
 »Mag sein. — Wann kommt der Doktor zurück?«
 
-Josef Fromm schöpfte wieder Hoffnung »Nie vor acht, Herr Harst …«
+Josef Fromm schöpfte wieder Hoffnung. »Nie vor acht, Herr Harst …«
 
 »Dann haben wir ja Zeit, lieber Fromm. Nehmen wir Platz. Wenn
 Sie ehrlich sind, verrate ich Sie nicht, obwohl der große Raubzug
@@ -529,7 +529,7 @@ bei Juwelier Berger geradezu nach Vergeltung schreit, für eine
 Million Schmuck hat selten eine Kolonne erbeutet.«
 
 Fromm wischte sich den Schweiß von der Stirn, lachte bitter und
-meinte seufzend »Quatsch — ne Million!! Nischt haben wir davon
+meinte seufzend: »Quatsch — ne Million!! Nischt haben wir davon
 jehabt, n’ Dreck hat der Schuft uns bezahlt, und …«
 
 »Das will ich genauer hören, lieber Fromm. Also bitte …«
@@ -544,7 +544,7 @@ Josef Fromm war keineswegs der Mann, etwa direkt zuzugeben, daß
 er bei dem Einbruch bei Berger u. Co. mit beteiligt gewesen.
 Er hatte alles nur »von fern vernommen«. Damals hatte die bekannte
 Juwelierfirma die Juwelen des ehemals herzoglichen Hauses G.
-Ausgestellt, um vielleicht einen amerikanischen Kriegsgewinnler
+ausgestellt, um vielleicht einen amerikanischen Kriegsgewinnler
 während der Reisezeit als Käufer anzulocken. Die Kolonne Pirsch
 hatte ihrerseits mit beispielloser Frechheit in einer Sonnabendnacht
 die Tresors im betonierten Keller erbrochen, nachdem der Wächter
@@ -565,7 +565,7 @@ da war nu nischt mehr bei zu machen, der Schuft war verduftet,
 und ick war froh, als mir so rein zufällig der Doktor begegnete,
 den ick so etwas kannte … Er hat mir mal behandelt, er war doch
 Naturheilkundiger … Mir lag was dran, ne Weile janz zurückgezogen
-zu leben, und er bestellte mir also für´n nächsten Tag hierher
+zu leben, und er bestellte mir also für’n nächsten Tag hierher
 und ich hab’ seitdem heimlich hier jewohnt und den Vertreter
 for ihm gemimt, wenn er wegging — und er ist sehr viel weg.
 Det jeht nu schon fast vier Monate so, Herr Harst, und bis heute
@@ -588,7 +588,7 @@ Fromm, der auf einem windschiefen Rohrsessel hockte, zog den
 Schlafrock fester um die hageren Glieder. Es war echt kalt hier
 in der kleinen Diele, und ein seltsamer Geruch — wie nach Apotheke
 — durchzog das alte Gebäude. »Herr Harst,« sagte Fromm nachdrücklich,
-»Ich träume das nicht, das is Tatsache … Manchmal in der Nacht
+»ich träume das nicht, das is Tatsache … Manchmal in der Nacht
 höre ich das fürchterliche Kreischen, und nur immer nachts, und
 dann ziehe ich mir die Bettdecke über die Ohren und … schwitze
 vor Angst … Es passiert ja  nicht oft, aber wenn ich so im Bett
@@ -599,7 +599,7 @@ in eine Zuchthauszelle …«
 Er hatte die Hände zwischen den Knien gefaltet und stierte trübe
 vor sich hin. Er atmete mit halb offenem Munde, und aus seiner
 Brust kam bei jedem Atemzug ein gurgelndes Röcheln, das seine
-Behauptung voll bestätigte, wie schlecht es mit feiner Gesundheit
+Behauptung voll bestätigte, wie schlecht es mit seiner Gesundheit
 bestellt sei …
 
 Harst hatte das Kinn in die Hand gestützt und betrachtete Josef
@@ -624,7 +624,7 @@ jedoch auf sehr vertrautem Fuße steht. Die beiden kennen sich
 zweifellos schon längere Zeit, er behandelt sie sogar mit einem
 gewissen Respekt, wie er ja  überhaupt kein schlechter Mensch
 ist und moralisch wohl hoch über mir steht, obwohl seine  Lebensführung
-hier mich geradezu vor unlöslichen Rätsel stellt. Ich bin ja
+hier mich geradezu vor unlösliche Rätsel stellt. Ich bin ja
 schließlich durch meine Vorbildung befähigt, Menschen und Dinge
 richtiger zu beurteilen, als meine Freunde dies Vermögen, aus
 Schindel werde ich nicht klug, in seinem Charakter zeigen sich
@@ -639,12 +639,12 @@ gegen zehn nach Hause, schloß sich sofort mit der Menke in sein
 Arbeitszimmer ein und schrie und tobte dort wie ein Besessener.«
 
 Harst lächelte fein. »Ja, der Ball der Toten wird ihm auf die
-Nerven gefallen sein — Wissen Sie etwas darüber?«
+Nerven gefallen sein. — Wissen Sie etwas darüber?«
 
 »Nichts! — Ball der Toten?! Das klingt wie der Titel eines Schauerromans.
 Nein, ich …«
 
-»Schon gut. — Noch zwei Fragen, dann verabschieden wir uns —
+»Schon gut. — Noch zwei Fragen, dann verabschieden wir uns. —
 Glauben Sie, daß Schindel der Hehler war, der die Kolonne Pirsch
 so niederträchtig betrog?«
 
@@ -697,7 +697,7 @@ für dieses Pflaster geradezu gefährlichem Tempo.
 »Hm!« meinte Harald gedehnt … »Allzu hastig!! Nummernschild verhängt,
 — schon faul!«
 
-Er hatte es plötzlich sehr eilig
+Er hatte es plötzlich sehr eilig.
 
 »Komm’, — die Sache stimmt nicht …!«
 
@@ -770,7 +770,7 @@ Ein klingendes Lachen folgte …
 »Ich bin froh, daß die Tompson Fersengeld gegeben hat, lieber
 Herr Harst … Sie können das Zimmer ganz billig haben …«
 
-»Vielen Dank,« erklärte Harald bitter »Ich hatte so sehr auf
+»Vielen Dank,« erklärte Harald bitter. »Ich hatte so sehr auf
 den Ball der Toten gefreut, gnädige Frau. Der wird nun wohl abgesagt
 werden … Wiedersehen …«
 
@@ -778,7 +778,7 @@ Er legte den Hörer auf die Gabel und wandte sich dem Sofa zu,
 auf das — wir Fritze Knüppel gebettet hatten.
 
 Graf Düppel saß aufrecht da, seine hellen Augen waren mit einem
-Ausdruck ungeheurem Entsetzten auf Harald gerichtet. Mühselig
+Ausdruck ungeheurem Entsetzen auf Harald gerichtet. Mühselig
 stammelnd stieß er hervor:
 
 »Das … das hätten Sie nicht tun sollen, Herr Harst … Sie … haben
@@ -800,7 +800,7 @@ roch etwas Süßlich-Fades, und schlug bewußtlos hintenüber.
 Tage später in Haralds Arbeitszimmer und schlenkerte mit den
 langen Beinen.
 
-»Sie sind ein roher Mensch, lieber Lücke.« meinte Harst sehr
+»Sie sind ein roher Mensch, lieber Lücke,« meinte Harst sehr
 matt. »Mitgefühl verdienen wir, nicht Hohn und Spott. Trotzdem
 danken wir Ihnen für Ihre Krankenvisite …«
 
@@ -808,22 +808,22 @@ danken wir Ihnen für Ihre Krankenvisite …«
 heute wenigstens schon so weit auf dem Damm seid, eure geschätzten
 Zungen bewegen zu können. Was war denn nun eigentlich da bei
  Knüppel los? Ihre Frau Mutter ruft mich spät abends an, ist
-im heller Angst um euch, im jage im Auto zu Knüppel, finde das
+in heller Angst um euch, ich jage im Auto zu Knüppel, finde das
 Büro der glorreichen Gloria in unglaublichem Zustande vor, und
-euch beide zwischen Stühlen, Blut, Zeitungen, Papieren und Zigarettenasche
-mehr tot als lebendig.
+euch beide zwischen Stühlen, Blut, Zeitungen, Papieren und
+Zigarettenasche mehr tot als lebendig.
 Knüppel selbst ist futsch, ihr beide habt Gas geschluckt. Drei
 Ärzte pumpen euch allerlei Zeugs ein, mein hoher Chef befiehlt
 schleunigste Aufklärung der mysteriösen Affäre, Ihre Frau Mutter
 erzählt etwas sehr romanhafte Dinge und … also, was ist los?«
 
-Harst stöhnte leise »Lücke, Sie sind ein Folterknecht! Ich kann
+Harst stöhnte leise: »Lücke, Sie sind ein Folterknecht! Ich kann
 kaum erst wieder »Mama« sagen, und Sie verlangen auch schon von
 mir einen genauen Bericht über die dunkelste Angelegenheit, die
 mich je beschäftigt hat.«
 
 »Pardon — mein hoher Chef verlangt es! Die Zeitungen sind voll
-von witzsprühenden Artikeln über den Hochstabler-Detektiv »Graf
+von witzsprühenden Artikeln über den Hochstapler-Detektiv »Graf
 Düppel«, die Tintenfische ziehen Sie und Schraut und die Polizei
 durch die mehr oder weniger plombierten Zähne, alle Welt wartet
 auf Ihre Genesung, und mich hat man dazu ausersehen, dieser
@@ -834,7 +834,7 @@ Harst blinzelte in die trübe Wintersonne hinaus. »Ich weiß nicht
 mehr, als meine Mutter Ihnen erzählte, Lieber Lücke …«
 
 Lücke, elegant wie immer, kniff das linke, monokelfreie Auge
-zu und beschaute seine Stielspitzen. »Das Gas ist durch das Schußloch
+zu und beschaute seine Stiefelspitzen. »Das Gas ist durch das Schußloch
 in den Fensterscheiben ins Zimmer gespritzt worden, — kein Gas,
 richtiger gesagt, sondern ein flüssiges, aber blitzschnell verdunstendes
 und ebenso blitzschnell wirkendes neues Präparat aus irgend einer
@@ -863,7 +863,7 @@ Die veranstalten stets ihre Treibjagden auf eigene Rechnung und
 wenn Sie zum Schluß die erlegten Hasen auch regelmäßig abliefern,
 so sind’s doch immer ihre Hasen und das paßt mir nicht!« — So
 wird er reden, Kinder, und der Mann redet nie ins Unreine.« Hinter
-dem Monokel hervor traf uns ein langer Blick. »Das ihr die Hälfte
+dem Monokel hervor traf uns ein langer Blick. »Daß ihr die Hälfte
 verschweigt, ist klar …  Wenn ihr aber denkt, daß Hans Lücke auf
 ’n Kopp jefallen is, irrt ihr euch. Ihr mögt eure Gründe haben,
 ich will sie gelten lassen, ohne sie zu kennen, aber der patente
@@ -872,9 +872,9 @@ Lacher auf seiner Seite hat.«
 
 Harst hielt Lückes leicht gereiztem Blick ruhig stand.
 »Ich verrate niemand, der mir vertraut und der bereits mit einem
-Fuß im Grabe steht.« meinte er versöhnlichen Tones. »Also keine
+Fuß im Grabe steht,« meinte er versöhnlichen Tones. »Also keine
 Feindschaft, lieber Lücke, mir ist das Lügen noch nie so schwer
-geworden wie heute, seien Sie Überzeugt, wir werden Sie vielleicht
+geworden wie heute, seien Sie überzeugt, wir werden Sie vielleicht
 sehr bald brauchen. Sagen Sie das auch Ihrem Chef.«
 
 Lücke schmunzelte plötzlich und begann leise einen Choral zu
@@ -911,7 +911,7 @@ die schwer Leidenden zu spielen und das Gerücht, wir seien noch
 bettlägerig, auch fernerhin aufrecht zu erhalten.
 
 Harst war mit den von mir gefälschten Einladungen sehr zufrieden.
-»Sie — werden genügen, uns Einlaß zu verschaffen, mein Alter.«
+»Sie — werden genügen, uns Einlaß zu verschaffen, mein Alter,«
 sagte er schmunzelnd. »Wenn ich mich nicht irre, kommen dort
 auch schon unsere Kostüme.«
 
@@ -926,7 +926,7 @@ gehörige wollige Katzenkluft nebst wundervollen Schwänzen.
 »Na — gefallen sie dir?!« Harst blickte mich fragend von der
 Seite an. Irgend etwas in seinen Augen erregte meine Aufmerksamkeit.
 Er war mit einem Male überraschend ernst, fast bedrückt. »Möglich,
-das wir in diesen Tierverkleidungen sehr bittere Dinge erleben.
+daß wir in diesen Tierverkleidungen sehr bittere Dinge erleben.
 Ich fürchte, hinter alledem steht die schemenhafte Kolonne Adolf
 Pirsch,— was weiß man von ihnen — nichts! Es können Ausländer
 sein, die Tompson mit dazu gehören, und der Einbruch bei Juwelier
@@ -949,7 +949,7 @@ poetischer Name, — eine Herzogin Hedwig soll den Stein als Morgengabe
 erhalten haben, die Ehe wurde jedoch sehr unglücklich, und die
 Herzogin Hedwig-Hadwiga soll den Freitod auf schreckliche Art
 gewählt haben: Sie verschluckte den Stein samt der Goldfassung
-und siechte an einen Magenleiden dahin. Man berichtete weiter,
+und siechte an einem Magenleiden dahin. Man berichtete weiter,
 ihr Gatte habe nach ihrem Tode durch ihr Testament die Wahrheit
 erfahren und heimlich nachts die Gruft betreten, die Leiche mit
 dem Schwerte geöffnet, den Stein herausgenommen und ihn wieder
@@ -963,7 +963,7 @@ zahlen, der Herzog Gustav von G. erhielt genau eine Million zweimalhundertausend
 Mark … — Langweilen dich diese Einzelheiten? Langweilen sie dich
 ebenso wie Knüppels Klientenliste?!«
 
-Ich faste Harst sehr derb bei der obersten Verschnürung seiner
+Ich faßte Harst sehr derb bei der obersten Verschnürung seiner
 Hausjoppe. »Du bist ein unverbesserlicher Schwindler!« sagte
 ich ärgerlich. »Und du willst mir vorreden, daß du noch immer
 keinen Faden gefunden hast, an dem sich das wirre Knäuel hübsch
@@ -1017,7 +1017,7 @@ Schindel?«
 Die Kranken hatten es sehr eilig, als erste in den Salon zu gelangen,
 denn es läutete bereits an der Haustür, und Fräulein Frühling
 schien recht ungeduldig zu sein. Zwei Hocker hinter dem großen
-Wandschirm am Kamin nahmen uns auf, an wir wurden Zeugen einer
+Wandschirm am Kamin nahmen uns auf, und wir wurden Zeugen einer
 Unterredung, die die Dinge leider noch mehr komplizierte.
 
 Frau Harsts gütige Stimme leitete die Aussprache mit behutsamer
@@ -1026,17 +1026,17 @@ durch Krankheit verhindert, Sie zu empfangen. Sie können jedoch
 auch mir ganz offen Ihr Herz ausschütten, ich werde nicht weniger
 verschwiegen sein als Harald, und er wird von mir alles erfahren.«
 
-Eine kurze Pause folgte. »Gnädige Frau, mir ist bekannt, das
+Eine kurze Pause folgte. »Gnädige Frau, mir ist bekannt, daß
 Herr Harst einen … Unfall erlitten hat,« erklärte eine angenehme,
-klare Stimme mit genau so vorsichtigem Abwägen der Worte, »Trotzdem
+klare Stimme mit genau so vorsichtigem Abwägen der Worte. »Trotzdem
 flehe ich Sie an, gnädige Frau, mir Gelegenheit zu gewähren,
 Ihrem Sohn persönlich meine Sorgen mitteilen zu dürfen, es hängt
 unendlich viel davon ab, — oh, mehr als Sie ahnen …« Die angenehme
 klare Stimme vibrierte stark, und ich konnte mir unschwer vorstellen,
-das ein Paar seelenvolle Augen sich langsam mit Tränen füllten.
+daß ein Paar seelenvolle Augen sich langsam mit Tränen füllten.
 
 Frau Harst schien an dem jungen Besuch Gefallen zu finden. Ein
-langes Leben hat Haralds Mutter zu guten Menschenkennerin gemacht,
+langes Leben hat Haralds Mutter zur guten Menschenkennerin gemacht,
 und wenn je eine Matrone imstande ist, ein verschlossenes Herz
 ganz sanft gesprächig werden zu lassen, so ist’s meine mütterliche
 Freundin.
@@ -1046,17 +1046,17 @@ Freundin.
 dabei, ob Sie mir Ihre Nöte anvertrauen oder meinem großen Jungen,
 — vielleicht wird es Ihnen sogar leichter, mir, die ich als Frau
 Ihnen doch seelisch näherstehe, sich zu eröffnen … Harald wird
-mir hierin wohl hierin wohl beipflichten, also bitte liebes Fräulein,
+mir hierin wohl beipflichten, also bitte liebes Fräulein,
 — — und nicht weinen, Tränen mögen zuweilen den Schmerz lindern,
 häufig sind sie nur Hemmnisse einer richtigen Würdigung dessen,
 was uns bewegt.«
 
 »Oh — Sie haben recht, gnädige Frau, ich darf auch nicht Zeichen
-verraten, es steht zu viel auf dem Spiel … Meinen Namen kennen
-Sie, Gerda Frühling, — es ist jedoch nur mein Künstlername, in
- Wahrheit heiße ich Gerda Schindel und bin das einzige Kind des
+von Schwäche verraten, es steht zu viel auf dem Spiel … Meinen Namen
+kennen Sie, Gerda Frühling, — es ist jedoch nur mein Künstlername, in
+Wahrheit heiße ich Gerda Schindel und bin das einzige Kind des
 früheren Arztes Doktor Ignaz Schindel, der lediglich durch seine
-Gutmütigkeit in eine schmutzige Angelegenheit mit hinein- gezogen
+Gutmütigkeit in eine schmutzige Angelegenheit mit hineingezogen
 wurde, die ihm … schwere Strafe eintrug. Meine Mutter starb damals
 vor Gram, ich wuchs bei der Schwester meiner Mutter auf, einer
 verbitterten, verarmten Frau, die mir zunächst meines Vaters
@@ -1088,8 +1088,8 @@ denn das Folgende kam kaum verständlich heraus.
 »Und dieser Mann, gnädige Frau, ist jetzt gestorben … Gestern
 kehrte meine Tante, die leider ihr Äußeres vollkommenen vernachlässigt,
 gänzlich verstört heim und beichtete mir auf mein energisches
-Drängen hin, daß Josef Fromm an Schwindsucht verschieben sei
-und das Vater nicht wisse, wie er den Toten, der doch unangemeldet
+Drängen hin, daß Josef Fromm an Schwindsucht verschieden sei
+und daß Vater nicht wisse, wie er den Toten, der doch unangemeldet
 bei ihm wohnte, aus dem Hause schaffen könnte. Das Schlimmste
 bei alledem ist ja, daß dieser Fromm — auch das erfuhr ich erst
 gestern — ein steckbrieflich verfolgter Verbrecher war. Mein
@@ -1101,7 +1101,7 @@ Einladung handeln, — mehr weiß ich nicht. — Versetzen Sie sich
 nur in meine Lage, gnädige Frau: Ein Toter im Hause meines Vaters,
 ein Verbrecher, — und mein Vater hat dem Manne Unterschlupf gewährt
 und weiß nun nicht, wie er, ohne mir indirekt zu schaden, diese
-Verhängnisvolle Sache regeln könnte. Gibt er der Polizei den
+verhängnisvolle Sache regeln könnte. Gibt er der Polizei den
 Tatbestand bekannt, wird er unter Anklage gestellt, dann werde
 auch ich in die Dinge mit hineingezogen werden, und das ist seine
 größte Angst, — seine eigene Person ist ihm völlig gleichgültig,
@@ -1120,7 +1120,7 @@ ersparen, er hat den todkranken Fromm nur aus reiner Herzensgüte
 bei sich aufgenommen und ihn auch ärztlich behandelt, aber Fromm
 richtete sich in keiner Weise nach Vaters Anordnungen, rauchte,
 trank, las die halben Nächte, — vielleicht ahnte der Ärmste,
-das ihm doch nicht mehr zu helfen war, er soll einst als Schriftsteller
+daß ihm doch nicht mehr zu helfen war, er soll einst als Schriftsteller
 recht Gutes geleistet haben, geriet dann jedoch auf die schiefe
 Bahn und soll zuletzt für eine Verbrecherbande Spitzeldienste — oder wie
 man es nennt, geleistet haben. Seit vorgestern hab ich meinen
@@ -1137,11 +1137,11 @@ Harsts, die Verzweifelte vorläufig zu trösten, schlugen gänzlich
 fehl. Gerda Schindel weinte herzzerreißend, und ich fand es unter
 diesen Umständen für durchaus richtig, daß Harald sich erhob,
 sehr geräuschvoll den Wandschirm beiseite rückte und sich der
-weinenden näherte, die bei seinem Anblick hochfuhr und ihn mit
+Weinenden näherte, die bei seinem Anblick hochfuhr und ihn mit
 schlaff herabhängenden Armen wie ein Gespenst anstarrte.
 
 Frau Harst entfernte sich still, und wir waren mit Gerda allein.
-— sie war keine Schönheit, hatte jedoch ein pikantes Gesicht
+— Sie war keine Schönheit, hatte jedoch ein pikantes Gesicht
 mit dunklen Augen und einem köstlich geschnittenen Mund.
 
 Harst streckte ihr zwanglos die Hand hin. »Es liegt kein Grund
@@ -1157,13 +1157,13 @@ wird, und deshalb ist es besser, Sie verabschieden sich sofort
 wieder. Überlassen Sie nur uns alles Weitere, — Sie haben mein
 Versprechen, und das halte ich.«
 
-Die eigenartig suggestive Kraft der Persönlichkeit Haralds verfehle
+Die eigenartig suggestive Kraft der Persönlichkeit Haralds verfehlte
 auch hier ihre Wirkung nicht. Eine wahrhaft Getröstete und Zuversichtliche
 bedankte sich mit warmen Worten und schritt leichteren Fußes
 unsere stille Straße hinab.
 
-Wir blinkten ihr nach, und nur etwas beunruhigte uns plötzlich:
-Eine kleine dunkle Limousine mit einen bärtigen Manne am Steuer
+Wir blickten ihr nach, und nur etwas beunruhigte uns plötzlich:
+Eine kleine dunkle Limousine mit einem bärtigen Manne am Steuer
 raste an unserem Hause vorüber und sauste dicht hinter der jungen
 Sängerin in kurzer Kurve auf den Bürgersteig …
 
@@ -1219,7 +1219,7 @@ Der Verfolger hatte uns verloren, aber wir hörten in der Nähe
 einen besonderen Pfiff und das kurze Anschlagen eines Hundes.
 
 »Lücke und seine Garde — natürlich,« flüsterte Harst ärgerlich.
-»Es ist ein Jammer, das im Roten Alex so tatenfrohe Intelligenz
+»Es ist ein Jammer, daß im Roten Alex so tatenfrohe Intelligenz
 vertreten ist. — Vorwärts …! Der Schnee fällt zu dicht. Auch
 der Hund wird die Witterung verlieren.«
 
@@ -1250,7 +1250,7 @@ und Schiebeböden zum leichteren Reinigen der Käfige.
 Es roch hier auch sehr stark nach Kaninchen, aber meine feine
 Nase, — ich wünschte, daß alles an mir so fein wäre! — nahm doch
 noch einen schärferen tierischen Geruch wahr, und nach längerem
-Schnüffeln raunte Harald zu:
+Schnüffeln raunte ich Harald zu:
 
 »Es stinkt nach Katzen!«
 
@@ -1266,7 +1266,7 @@ bezeichnen könne.
 entspricht nicht der Tiefe der Käfige, es dürfte eine zweite
 Reihe Einzelboxen sich auf der Rückseite befinden.«
 
-Wir fasten zu, und der große Kasten rollte zur Seite.
+Wir faßten zu, und der große Kasten rollte zur Seite.
 
 Die Rückseite enthielt tatsächlich genau so viel Käfige, und
 fast jeder war besetzt.
@@ -1287,7 +1287,7 @@ Ich las mit wachsendem Mißbehagen:
 
 Auf einer anderen Tafel in derselben festen klaren Männerschrift:
 
-> »Gustav Wendt, Berkaer Str. 3. — 15, Nov, — Oper, 16. Nov.«
+> »Gustav Wendt, Berkaer Str. 3. — 15. Nov. — Oper. 16. Nov.«
 
 Ich fand immer mehr bekannte Namen, und mit einem Schlage wurde
 mir die Bedeutung der gräßlichen Schreie, die Fromm gehört hatte,
@@ -1310,7 +1310,7 @@ uns war …: Frau Hulda Blank, Misdroyer Str. 68. — Du siehst, Schindel
 hat dieses Tier noch nicht operiert … Es steckt hinter dem Namen
 und der Adresse lediglich das gestrige Datum.«
 
-Harald öffnete jetzt diesen diesen Käfig und faßte mit seiner
+Harald öffnete jetzt diesen Käfig und faßte mit seiner
 behandschuhten Hand vorsichtig hinein, streichelte die feiste
 Katze, hob sie empor und knöpfte sie sich unter den Ulster.
 
@@ -1367,7 +1367,7 @@ Rechts von uns tauchten die matten Strahlenbündel eines lautlos
 dahingleitenden Autos auf. Der Wagen fuhr langsam, undeutlich
 erkannte ich vorn den bärtigen Chauffeur jener kleinen dunklen
 Limousine, auf dem Trittbrett stand ein Herr im Sportpelz, —
-wie ein Schatten verschwand das Auto, — dann knallte ein Dumpfer
+wie ein Schatten verschwand das Auto, — dann knallte ein dumpfer
 Schuß, — es konnte auch das Geräusch eines platzenden Reifens
 sein, und das Geknatter eines Motorrades lebte urplötzlich auf
 und entfernte sich rasch nach dem Rathaus hin.
@@ -1379,7 +1379,7 @@ Um halb sechs waren wir wieder daheim, die Katze wurde oben in
 unser Laboratorium gebracht, das mit seiner Eisentür und den
 eisernen Fensterladen durchaus einbruchssicher ist. Wir sperrten
 das Tier in eine große Kiste, ich holte Milch, Fleisch und Holzwolle,
-und Harald macht es unserem neuen Gast so gemütlich wie irgend
+und Harald machte es unserem neuen Gast so gemütlich wie irgend
 möglich.
 
 »Würdest du mir nun vielleicht erklären, was das alles bedeutet?«
@@ -1409,7 +1409,7 @@ zu gefährden.
 Er hob den Kopf und blickte mich an. Er streichelte die Katze
 noch immer.
 
-»Ich ersuche dich, mein Alter, etwas zärtlicher mit ihr zu sein,
+»*Ich* ersuche dich, mein Alter, etwas zärtlicher mit ihr zu sein,
 — streichele sie nur, vielleicht findest du, daß ihr Fell noch
 elektrischer ist als das anderer Kätzchen. Ich jedenfalls fühle,
 wie aus diesem Fell, das unter meinen Händen leise knistert,
@@ -1418,7 +1418,7 @@ ein nebelverscheuchender Sonnenstrahl in mein Hirn fällt.«
 »Verzeih’, — du bist albern!« sagte ich schroff und warf mich
 in einen Sessel neben dem warmen Ofen.
 
-»Vielleicht heißt sie … Tompson.« sagte Harst mit besonderer
+»Vielleicht heißt sie … Tompson,« sagte Harst mit besonderer
 Betonung. »Vielleicht … Es würde dann wenigstens eine Tompson
 in diesem Spiel geben.«
 
@@ -1433,7 +1433,7 @@ auf. »Es gab nie eine Tompson, mein Alter.«
 
 »Bestimmt ein verkleideter Mann, das sahst du ja. Der lange Mantel,
 der ungeheure Schlapphut, der riesige Bart …« Sein Feuerzeug
-knistere und er sog den Zigarettenrauch behaglich in die Lungen
+knisterte und er sog den Zigarettenrauch behaglich in die Lungen
 ein. »Es wird ein fabelhaftes Kostümfest werden …!«
 
 »Und — Ignaz Schindel wird erscheinen?« — ich strich der Katze
@@ -1445,7 +1445,7 @@ gedämpfter Motor.
 Eine geraume Weile saßen wir dann in Nachdenken versunken da, meine
 Gedanken umspielten die Person dieses gescheiterten Arztes, der so viele
 Widersprüche in seiner Person und in seinem Charakterbilde vereinigte.
-Wenn ich mir seines Kindes warmherziges Eintreten für ihn vergegenwärtige,
+Wenn ich mir seines Kindes warmherziges Eintreten für ihn vergegenwärtigte,
 wenn ich mir vorstellte, wie temperamentvoll diese pikante Gerda
 Frühling-Schindel, deren Tante eine üble Schlange war, den Vater
 verteidigt hatte, — wenn ich an Josef Fromms Schilderung der
@@ -1459,7 +1459,7 @@ sprangen über zu der Witzblattfigur des verschwundenen Gloria-Begründers
 Fritze Knüppel und zu der kleinen dunklen Limousine mit dem bärtigen
 Chauffeur, — dreimal hatten wir sie nun gesehen, das erste Mal
 hatte sie zweifellos unten in der Forckenbeckstraße den Pistolenschützen,
-der auf Knüppel nur mit  halben Erfolg abgedrückt hatte, eilends
+der auf Knüppel nur mit halbem Erfolg abgedrückt hatte, eilends
 davongeführt, heute dann hatte das Auto Gerda Schindel zu rammen
 gesucht, und jetzt nachmittags schien der Herr, der auf dem Trittbrett
 stand, wohl dem Manne eine neue Kugel zugedacht gehabt haben,
@@ -1486,7 +1486,7 @@ Ich hätte wohl noch mehr gefragt, aber Mathilde tauchte in der
 Tür auf und bat zum Abendbrot. Beim Anblick der Katze erstarrte
 unsere Dicke zur Bildsäule. Sie haßt Katzen. Sie liebt die in
 unserem Garten zahllos nistenden Vögel, und selbst im Winter
-haben wir stets Überreich gefiederte Gäste, Drosseln, Meisen,
+haben wir stets überreich gefiederte Gäste, Drosseln, Meisen,
 Hänflinge, Sperlinge, und jeder Vogel findet einen reich gedeckten
 Tisch.
 
@@ -1505,7 +1505,7 @@ Karton hin. »Da — drei flache Gasmasken, Max Schraut — zwei für
 uns, unter den Pappkatzenköpfen zu tragen, eine für … — aber
 das wirst du ja sehen.«
 
-Es klopfte, — Der Masseur war ein Herr, der allerhöchstens bei
+Es klopfte. — Der Masseur war ein Herr, der allerhöchstens bei
 sehr kritischen Anlässen einen Gegner mit den Fäusten bearbeitet
 hatte. Es war ein Konkurrent von Knüppel, Inhaber der bekannten
 Detektei Globus, den wir schon häufiger bemüht hatten. Harald
@@ -1526,7 +1526,7 @@ Sorgen, und schließlich erklärte sie zögernd, sie würde froh
 sein, wenn wir erst wieder heil und gesund von dem unheimlichen
 Fest heimgekehrt wären.
 
-Harald nahm ihre Hand und lächelte etwas gezwungen »Liebe Mama,
+Harald nahm ihre Hand und lächelte etwas gezwungen. »Liebe Mama,
 uns wird nichts zustoßen — uns nicht, aber daß dieser Fall ganz
 friedlich verlaufen wird, wage ich nicht zu hoffen. — Ich hätte
 noch eine Bitte: Mathilde mag diese Nacht mit in deinem Zimmer
@@ -1551,7 +1551,7 @@ Harst legte Messer und Gabel hin und trommelte nervös gegen den
 Tellerrand. »Ja, es ist um so bedauerlicher, als dieser alte
 Herr, obwohl er Katzen einfing und mit Drahtschlinge und Leinwandsack
 die Straßen nach Dunkelwerden unsicher machte und sicherlich
-auch in die Hausflure und Höfe eindrang, äußerst Liebevoll mit
+auch in die Hausflure und Höfe eindrang, äußerst liebevoll mit
 den Tieren umging und dafür sorgte, das jeder tief trauernde
 Katzenbesitzer später sein Tier zurückerhielte. Schraut ist da
 auf die völlig abwegige Vermutung gekommen, Schindel hätte die
@@ -1607,7 +1607,7 @@ in den westlichen Vororten Berlins überhaupt nicht zu, und dieser
 Schneefall sorgte noch weiter dafür, daß die stillen vornehmen
 Villenstraßen wie tot dalagen. Wir kamen an den Gärtnereien unweit
 der Hubertusallee vorüber, — ein Hund heulte irgendwo, ein paar
-Übereifrige Sportler hatten sich die Langhölzer untergeschnallt
+übereifrige Sportler hatten sich die Langhölzer untergeschnallt
 und glitten über Frau Holles weiße Decke wie Gespenster dahin.
 
 Kurz vor dem »Hubertusstock«, vor dem zwei elektrische Ampeln
@@ -1683,7 +1683,7 @@ Box gut aufgehoben waren …
 Was sollte das Ganze eigentlich?
 
 Ich zählte die alten Leutchen und die schlichten Masken … Es
-mochten ihrer vierzig sein. Nun, denen gefiel´s, die saßen, aßen,
+mochten ihrer vierzig sein. Nun, denen gefiel’s, die saßen, aßen,
 tranken — — alles genoß. Miß Tompson (?) hatte ja bezahlt …
 Wer war Miß Tompson, wo war sie?!
 
@@ -1693,7 +1693,7 @@ Ich langweilte mich und schlängelte mich zu den alten Leutchen
 hinüber, Frau Anna Schulze, die damalige Wortführerin, empfing
 mich sofort mit holdem Grinsen.
 
-»N´ Abend, Herr Schraut … Auch da?«
+»N’ Abend, Herr Schraut … Auch da?«
 
 Ich war mehr verblüfft als erschrocken.
 
@@ -1725,7 +1725,7 @@ Der englische Walzer lebte gerade von neuem auf.
 Ich faßte schnell unter den Pappkopf, schob die Gasmaske zurecht
 und verneigte mich dann. Die Frau trug ein paar Nelken von gelber
 Farbe in der rechten Hand, beim Tanzen legte sie mir diese Hand
-leicht auf die Schulter, — im war nicht mehr gelangweilt, im
+leicht auf die Schulter, — ich war nicht mehr gelangweilt, ich
 ahnte etwas, ich schielte nach den Nelken hin, die auf meiner
 Schulter wippten, und ich sah, daß die Frau jetzt die Blüten
 umfaßt hatte, und daß der eine grüne Stengel ein dünner grüner
@@ -1816,7 +1816,7 @@ Gerda Schindel war nicht die Frau gewesen, die mich zum Tanze
 aufgefordert hatte. Sie hatte hier eine Doppelgängerin gehabt,
 aber es war nicht möglich, dieses Weib noch abzufassen. Hinter
 der Nische war eins der Fenster nur angelehnt, auf dem beschneiten
-Fensterbrett zeigten sich deutliche Spuren, das jemand hier hinausgestiegen
+Fensterbrett zeigten sich deutliche Spuren, daß jemand hier hinausgestiegen
 und im Schneetreiben draußen entkommen war.
 
 <h2>8. Kapitel.</h2>
@@ -1845,7 +1845,7 @@ reden begann, warf er mir einen schmerzlichen Blick zu.
 »Ich will Schraut nicht etwa die Schuld zuschieben, daß die Dinge
 diesen tragischen Verlauf nahmen,« meinte er zu Kriminaldirektor
 Schrötter, der mit sehr offiziellem Gesicht in seinem Rohrsessel
-lehnte. »Ich hatte von vornherein damit gerechnet, das Fräulein
+lehnte. »Ich hatte von vornherein damit gerechnet, daß Fräulein
 Gerda Schindel ihren Vater begleiten würde, ich erkannte das
 Paar schon in der Garderobe und setzte mich sofort zu ihnen in
 die Nische, um sie zu schützen. Ich hatte auch für den Doktor
@@ -1880,18 +1880,18 @@ geht ein Licht auf, Harst … Es stimmt schon, wir sind seit langem
 hinter einer geheimnisvollen Persönlichkeit her, die zweifellos
 bei allen großen Juwelendiebstählen Abnehmer der Beute gewesen
 ist, — eine Persönlichkeit, die genau so schwer zu fassen war
-wie die Kolonne Pirsch, von der wir aus nur immer allerlei Unangenehmes
+wie die Kolonne Pirsch, von der wir auch nur immer allerlei Unangenehmes
 hören, ohne je ein Mitglied der Bande gefaßt zu haben …«
 
 »Ganz recht,« nickte Harst und schob den Eisbeutel auf seinem
 Hinterhaupt mehr nach vorn. »Dieser Hehler muß Fritz Knüppel
-sein, und ich bin auf sehr Eigentümliche Art dahinter gekommen,
+sein, und ich bin auf sehr eigentümliche Art dahinter gekommen.
 Knüppel brachte uns die Papierfetzen der Einladung zum heutigen
 Ball, nachmittags suchten wir ihn auf, das wissen Sie, und fanden
 ihn mit einem Streifschuß in seinem sogenannten Büro vor. Sie
-wissen weiter, das wir ihn auf das Sofa legten, daß ich mit Frau
+wissen weiter, daß wir ihn auf das Sofa legten, daß ich mit Frau
 Derbler telephonierte, nachdem »Miß Tompson« uns eindeutig verhöhnt
-hatte, das Knüppel ins zwischen erwacht war und plötzlich die
+hatte, das Knüppel inzwischen erwacht war und plötzlich die
 Lampe zerschlug.«
 
 »Bitte — kürzer!!« warf der gereizte Kriminalchef ein.
@@ -1899,10 +1899,10 @@ Lampe zerschlug.«
 »Kaum war es dunkel im Zimmer als jemand das flüssige Gas uns
 ins Gesicht spritzte — nicht durch das Schußloch im Fenster —
 die Spuren hat Knüppel später absichtlich hervorgerufen —, sondern
-Knüppel tat es selbst … Ich spürte genau, das der feuchte kalte
+Knüppel tat es selbst … Ich spürte genau, daß der feuchte kalte
 Strahl mich von der Seite traf, niemals vom Fenster her.« Harst
 blickte den Kriminalchef jetzt mit einem versöhnlichen Lächeln
-an »Knüppel wollte uns beseitigen, weil er aus meinem Telephongespräch
+an. »Knüppel wollte uns beseitigen, weil er aus meinem Telephongespräch
 mit Frau Derbler sehr richtige Schlüsse zog. Sie haben doch die
 Liste der Ballgäste noch in der Hand, Herr Direktor, es ist jeder
 einzelne notiert worden mit Namen und Adresse … Wollen Sie einmal
@@ -1935,15 +1935,15 @@ Es hat nie eine Miß Tompson gegeben, Frau Derbler war diese Person,
 die nie existierte. Frau Derbler ist die Seele der Kolonne Pirsch
 und die Schützin, die Knüppel niederknallen wollte, da sie irgendwie
 gemerkt hatte, das »Graf Düppel« hinter das Geheimnis ihres Pensionats
-gekommen war — Die kleine dunkle Limousine, die damals durch
-die Forckenbeckstraße sauste gehört dem Ingenieur Schmidt, wie
+gekommen war. — Die kleine dunkle Limousine, die damals durch
+die Forckenbeckstraße sauste, gehört dem Ingenieur Schmidt, wie
 die Detektei Globus für mich bereits festgestellt hat, dieser
 Schmidt war Ingenieur in einer Geldschrankfabrik, — dies wieder
 erklärte die glänzende Arbeit der Kolonne Pirsch bei Juwelier
 Berger, bei dem Raub der herzoglichen Kleinodien, die von Knüppel
 als maskiertem Hehler aufgekauft wurden.«
 
-»Donnerwetter!!« rief Lücke kopfschüttelnd »Es gibt doch wirklich
+»Donnerwetter!!« rief Lücke kopfschüttelnd. »Es gibt doch wirklich
 noch Kriminalfälle, die in keine Schablone passen!! — Weiter,
 Harst!«
 
@@ -1951,11 +1951,11 @@ Harst!«
 — Wir kommen nun zu der tragischen Figur des Doktor Schindel
 …«
 
-»Des Katzenfängers!« nickte Lücke, »Auch ich war im Stall, Harst,
+»Des Katzenfängers!« nickte Lücke. »Auch ich war im Stall, Harst,
 leider nach Ihnen …!«
 
 »Oh — nicht leider, zum Glück, denn Knüppel war auch da, und
-er hätte Sie stumm gemacht — — Also Doktor Schindel … Hier muß
+er hätte Sie stumm gemacht. — — Also Doktor Schindel … Hier muß
 ich nun doch etwas eingehender berichten.« Er erzählte alles,
 was wir mit Josef Fromm, mit Gera Frühling-Schindel und in dem
 Kaninchenstall erlebt hatten.
@@ -1963,7 +1963,7 @@ Kaninchenstall erlebt hatten.
 »Und weshalb nahmen Sie gerade die Katze der Frau Hulda Blank
 mit zu sich nach Hause?« meinte der Kriminalchef erstaunt.
 
-Harst entgegnete prompt »Weil dies die richtige Katze war … Knüppel
+Harst entgegnete prompt: »Weil dies die richtige Katze war … Knüppel
 war uns ja kein Fremder. Wir hatten seine Papageien in Pflege,
 wenn er mal wieder »Ferien« machte, er besaß auch eine graue
 Katze mit schwarzen Flecken, und all die Katzen, die der Doktor
@@ -1995,15 +1995,15 @@ mit …«
 
 »Herr Direktor,« sagte Harst sehr ernst, »das will ich Ihnen
 bei mir daheim erklären. Der Polizeiarzt mag uns begleiten. —
-Das Knüppel die elegante Frau war, die mit Schraut tanzte, wissen
+Daß Knüppel die elegante Frau war, die mit Schraut tanzte, wissen
 Sie, — daß Knüppel mir aber vor seiner Flucht hier durch das
 Fenster mein Schlüsselbund abnahm, wissen Sie noch nicht. Er
-will eben *die* Katze von wir holen … — Bitte, fahren wir in Ihrem
+will eben *die* Katze von mir holen … — Bitte, fahren wir in Ihrem
 Auto zu mir … Fräulein Gerda Schindel möchte ich gleichfalls
 mitnehmen, sie dürfte bei meiner Mutter besser aufgehoben sein
 als bei ihrer Tante.«
 
-Lücke, der inzwischen seine Verkleidung als alter Klavierspieler,
+Lücke, der inzwischen seine Verkleidung als alter Klavierspieler
 abgelegt hatte und im Smoking einfach fabelhaft aussah, putzte
 mit einem unmerklichen Grinsen sehr umständlich sein Monokel
 und meinte mit einem langen Blick auf das so ziemlich geräumte
@@ -2084,7 +2084,7 @@ Der Mann vom Globus und Lückes Kriminalbeamte waren einander
 nicht fremd. Sie begrüßten sich schmunzelnd, Knüppel durfte am
 Tisch Platz nehmen, und da noch zwei Flaschen Rotwein überflüssigerweise
 umherstanden, brauchten die drei Leute wenigstens nicht trocken
-die Rückkehr des Hausherren zu erwarten, — Der vierte mußte zusehen
+die Rückkehr des Hausherren zu erwarten, — der vierte mußte zusehen
 und saß mit verbissener Miene da. —
 
 So fanden wir Fritz Knüppel vor, als wir nach kurzer Autofahrt
@@ -2130,7 +2130,7 @@ zumeist Blüten angedreht, und die Wut dieser in ihrer Art ebenfalls
 nach dem unbekannten geheimnisvollen Hehler forschen. Diese Ermittlungen
 der größtenteils aus Gebildeten sich zusammensetzenden Kolonne
 hatten ein unsicheres Ergebnis, sie beargwöhnten Knüppel, und
-Melitta Derbler erschien daher als Miß Tompson bei ihm und beauftragte,
+Melitta Derbler erschien daher als Miß Tompson bei ihm und beauftragte
 ihn zum Schein mit der Beobachtung Doktor Schindels, um eben
 näheren Anschluß an den Verdächtigen zu gewinnen. Der Argwohn
 mag zur Gewißheit geworden sein, als Knüppels Katzenjagd begann,
@@ -2144,19 +2144,19 @@ war überzeugt, auch er würde erscheinen, schon aus Neugier, sich
 aber natürlich dort gleichsam genügend zu schützen wissen. —
 Nicht wahr, Knüppel, Sie bekamen doch eine Karte?«
 
-»Ja — leider! Als ich von dem Gang zu Ihnen Heimkehrte, fand
-ich die Karte vor. Wir war’s nur lieb, daß ich Sie aufgesucht
+»Ja — leider! Als ich von dem Gang zu Ihnen heimkehrte, fand
+ich die Karte vor. Mir war’s nur lieb, daß ich Sie aufgesucht
 hatte, denn daß auch Sie erscheinen würden, wußte ich, und …«
 — er lachte hart. »Na, zu geschwätzig will ich doch nicht werden,
 Herr Harst.«
 
-»Auch nicht nötig,« — Harst behandelte den feigen Mörder als
+»Auch nicht nötig.« — Harst behandelte den feigen Mörder als
 Luft. »Melitta Derbler suchte Sie dann nachmittags zu erschießen,
 weil sie von Ihrer Seite Verrat befürchtete: Die Kolonne Pirsch
 sollte ein Phantom bleiben. — Sie wird sehr erstaunt gewesen
 sein, als Schraut und ich in Knüppels Büro halbtot aufgefunden
 wurden, und sie entschloß sich daher, den »Ball« doch stattfinden
-zu lassen, weil sie uns für noch allzu krank hielt, daran Teilzunehmen.
+zu lassen, weil sie uns für noch allzu krank hielt, daran teilzunehmen.
 Ihre Absicht war, den großen Hehler Knüppel unter den Gästen
 herauszufinden und sich seiner zu bemächtigen, um nötigenfalls
 durch Zwang, wenn eben die Durchsuchung des Grundstücks nicht
@@ -2164,8 +2164,8 @@ gelang, alles Wissenswerte zu erpressen. Diese Durchsuchung verhinderte
 ich, indem ich sechs Leute vom Globus in Knüppels
 Häuschen postierte, die die Freunde der Derbler verscheuchten,
 — vier Herren im Frack betraten den Saal erst um halb zehn, und
-das waren eben Melittas Verbündete, die er ergebnislos aus
-der Forckenbeckstraße sich einfanden, — Ich glaube, Herr Direktor,
+das waren eben Melittas Verbündete, die ergebnislos aus
+der Forckenbeckstraße sich einfanden. — Ich glaube, Herr Direktor,
 bis auf das Geheimnis der grauen, gefleckten Katzen ist nun alles
 geklärt.«
 
@@ -2191,7 +2191,7 @@ sie in ein lebendes Katzenfell einzunähen, aber muß dann dieses
 lebende Versteck sorgfältig hüten, sonst kneift es aus und findet
 anderswo liebevollere Pflege …«
 
-Harst nickte ihm zu, »stimmt, Lücke, — so war’s … Deshalb hatten
+Harst nickte ihm zu. »Stimmt, Lücke, — so war’s … Deshalb hatten
 alle grauen Katzen mit schwarzen Flecken in Schmargendorf und
 Umgebung in den letzten Monaten schwer unter Nachstellungen zu
 leiden …«
@@ -2218,7 +2218,7 @@ Wohltätigkeit allseits gerühmt wird, so glaube ich diesem interessanten
 Problem des Balles der Toten einen versöhnlichen, frohen Abschluß
 gegeben zu haben.
 
-Das die Kolonne Pirsch *nicht* gefaßt wurde, das die famose Pension
+Daß die Kolonne Pirsch *nicht* gefaßt wurde, daß die famose Pension
 der schönen Melitta Derbler beim Eintreffen der Beamten leer
 war und auch stets leer blieb, war für Harst und Lücke der einzige
 bittere Beigeschmack des ungewöhnlichen Kriminalfalles.
