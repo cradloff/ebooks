@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">60716f6a-7d61-49be-bbcd-785e0609f46d</entry>
+<entry key="title">Der Ball der Toten</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">276</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Der Ball der Toten
+
+Als Fritz Knüppel am jenem trüben Dezembertage gegen elf Uhr vormittags bei uns erschien, wunderten wir uns über sein schäbig-elegantes Kostüm genau so sehr wie über seine strahlende Miene. Fritz Knüppel ist von jeher ein erlesener Pechvogel gewesen. Seine vielfachen Unternehmungen endeten regelmäßig vor der Strafkammer, und wenn an diesem seltsamen Gescheiterten überhaupt irgend etwas anzuerkennen war, so war’s lediglich die durch nichts zu erschütternde Ausdauer, mit der er nach Absitzung einiger Monate Freiquartier stets wieder den großen Hochstapler zu spielen suchte.
+
+Knüppel hatte seine betrübliche Laufbahn als »Stift« bei einem Rechtsanwalt begonnen und hier eine solche Vorliebe für noch unbenutzte Briefmarken und fremde Manteltaschen bewiesen, daß die hohe Behörde ihn in eine Fürsorgeanstalt steckte, aus der Fritze schließlich »gänzlich ausgekocht« entlassen wurde und sofort ein pompöses Darlehnsvermittlungsbüros nach berühmten Mustern eröffnete, was ihm die ersten drei Monate Freiquartier eintrug.
+
+Jetzt stand er vor uns in einem einst elegant gewesenen Sportpelz, in tadellos gebügelten, ausgefransten Hosen, in zerplatzten Lackschuhen mit hellgrauen Gamaschen darüber, mit höchst unmodernem hohen Stehkragen und himmelblauem Binder, einen schäbigen hellen Velourhut graziös schwenkend, das magere Gesicht strahlend vor Lebensfreude und höchst unangebrachtem Selbstbewußtsein, die blauen Augen weit aufgerissen, da das Monokel im rechten um zwei Nummern zu groß war, pomadeduftend, den blonden Scheitel tief durchgezogen.
+
+»Große Sache!!« platzte er atemlos heraus. »Meine Herren, mit Verlaub, — auch eine blinde Henne findet mal ein Korn, und Gott Zufall hat mir da vorhin einen »Fall« beschert, der …«
+
+»… der wieder in Plötzensee enden wird,« führte Harald den Satz schmunzelnd zu Ende, — Plötzensee ist eine Strafanstalt in Berlin N.
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (276) Der Ball der Toten.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1929</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
