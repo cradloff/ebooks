@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">70ee4add-a445-4e3e-8de4-1e093a8257a0</entry>
+<entry key="title">Pension Grollmatz</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">277</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Pension Grollmatz
+
+Der April verabschiedete sich damals nach einer Reihe von heißen Tagen mit seinem ureigensten Gesicht: Aprilwetter!! — Es regnete, es war bitter kalt, es stürmte, die bereits grün betupften Bäume und Sträucher protestierten ächzend und knarrend gegen diesen Umschwung der Witterung, und die beiden Landstreicher, die da in ihrer schäbigen Kluft, in löcherigen Gummimänteln und zerbeulten schwarzen Filzhüten die einsame Straße entlangschlurften, sprachen kaum ein Wort miteinander, duckten sich vor jedem neuen Regenguß zusammen und blieben schließlich unter einem offenen Schuppen auf einer Anhöhe stehen und blickten durch die dunkle Nacht fröstelnd in die Ferne, wo eine Anzahl heller Punkte und unklare Umrisse eines Kirchturmes ein Städtchen nur vermuten ließen. Links neben diesem, hinter einer schmalen Waldkulisse, erhob sich eine Reihe von Baulichkeiten, die durch eine helle Mauer zu einem großen geschlossenen Quadrat vereinigt waren.
+
+Die beiden Landstreicher labten sich jetzt aus einer großen Schnapsflasche, rissen ein paar üble Witze über jene staatliche Besserungsanstalt und schienen hier im Trockenen langsam wieder aufzuleben.
+
+»Ne mieße Bleibe,« meinte der größere der beiden Kunden. »Aber immer noch besser als bei Mutter Jrün … Kieken wir uns mal det Hotel jenauer an.«
+
+Sie tappten auf den Strohberg zu, und als sie dabei den Ackerwagen umschritten, hob sich über den Rand des Wagenkastens vorsichtig ein Kopf hinweg, der schon durch den tadellosen Velourhut nicht recht in diese dürftige Umgebung hineinpaßte. Der Mann, der in dem Wagenkasten kauerte, trug außerdem einen blendend zarten Kragen und ein Monokel und roch sehr diskret nach einem teuren Herrenparfüm.
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (277) Pension Grollmatz.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1929</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
