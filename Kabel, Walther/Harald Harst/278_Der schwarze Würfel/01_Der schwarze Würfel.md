@@ -251,7 +251,7 @@ eines kleinen Schuhs von spitzer Form mit hohen Absätzen.
 Diese Fährte verlor sich nachher auf einem
 Seitenweg des verwilderten Parkes. —
 
-Als der behäbige Kreisarzt erschien, sagte er nur achselzucknd:
+Als der behäbige Kreisarzt erschien, sagte er nur achselzuckend:
 »Herzlähmung, — war vorauszusehen.«
 
 <h2>2. Kapitel.</h2>
@@ -340,7 +340,7 @@ eingeweiht wurde und daß ich hier mit euch gemeinsam
 den Fall aufklären soll. Natürlich hat der Landrat
 nicht alles erfahren …«
 
-»Dem Himmel sei Dank.« sagte Harst. »Diese streng vertraulichen
+»Dem Himmel sei Dank,« sagte Harst. »Diese streng vertraulichen
 Mitteilungen kenne ich. »Zunächst erfährt’s der Landrat,
 dann die Landrätin, dann der Sekretär, dann …«
 
@@ -414,7 +414,7 @@ zum Schein hingelegt worden?«
 
 »Ja.«
 
-»Hm, mag sein, obwohl ich das mit recht verstehe, —
+»Hm, mag sein, obwohl ich das mit recht verstehe. —
 Was sollten die acht Würfel?«
 
 Und jetzt erfuhr ich etwas, was auch mir völlig neu
@@ -667,7 +667,7 @@ Güddicke erledigte dann seine üblichen Bücklinge, als
 er vor uns stand. »Herr Harst, der Leo verdient Wichse
 … Sie gestatten doch …«
 
-»Nein. — helfen Sie uns lieber, das Auto ein Stück
+»Nein. — Helfen Sie uns lieber, das Auto ein Stück
 vorwärtszuschieben. Der Motor versagt, und hier in
 der prallen Sonne kann der Chauffeur an dem Ding nicht
 herumdoktern. Drüben ist Schatten.«
@@ -713,7 +713,7 @@ vor wie bisher.
 »Ja. — Wäre Ihr Leo imstande, eine Fährte zu verfolgen,
 wenn wir ihm an dem Zinkzylinder Witterung nehmen ließen?«
 
-»Bestimmt, Herr Harst.« sein Blick streifte Bechert.
+»Bestimmt, Herr Harst.« Sein Blick streifte Bechert.
 »Ich gehe wohl nicht fehl, wenn ich vermute, daß Herr
 Chauffeur Beste Kriminalbeamter ist?«
 
@@ -914,7 +914,7 @@ wir zu ihm traten, schaute er starr und geistesabwesend
 auf eine zerplatzte lange Eichentafel an der bröckeligen
 nassen Wand, um die herum Reste von Kränzen hingen
 und die tief eingekerbt die Namen der hier beigesetzten
-Unmündigen Zugehörigen des Hauses derer von Bomst enthielt.
+unmündigen Zugehörigen des Hauses derer von Bomst enthielt.
 
 Zwölf Namen …
 
@@ -1074,7 +1074,7 @@ da sie aus einer adligen Familie jüngsten Datums stammte,
 »Nicht sonderlich … Nur — wo blieb denn das große Vermögen
 der geborenen Kaldenhoven?!«
 
-Der Pfarrer hob die Hände zu einer vieldeutenden Geste.
+Der Pfarrer hob die Hände zu einer vieldeutigen Geste.
 »Das weiß so recht niemand,« Herr Harst. Tatsache ist,
 das Frau Erna, geborene Kaldenhoven, als Kind einer
 Bremer Patrizierfamilie viel zu praktisch dachte, als
@@ -1171,7 +1171,7 @@ sie legte nur Patience, zankte mit den Dienstboten,
 die jeden Monat wechselten, und nur in allerletzter
 Zeit spielte sie mit Würfeln und las vielerlei, obwohl
 sie zum Beispiel Sue im Urtext gar nicht lesen konnte,
-Dazu fehlten ihr die Sprachkenntnisse. Ich besuchte
+dazu fehlten ihr die Sprachkenntnisse. Ich besuchte
 sie häufiger, besonders nach ihrer Übersiedlung in
 das Parkhaus, — die Versteigerung des Gutes hatte sichtlich
 ihren Geist verwirrt, sie redete allerlei, was ich
@@ -1192,7 +1192,7 @@ Geschwistern, die von dem Geistlichen den Kirchenschlüssel
 holen wollten, da Horst von Bomst die Absicht hatte,
 auch diese Nacht bei der Leiche Totenwache zuhalten.
 Sie waren schwarz gekleidet, trugen Tannenkränze und
-zeigten keinerlei übertriebene Trauter. Horst von Bomst
+zeigten keinerlei übertriebene Trauer. Horst von Bomst
 meinte in seiner kühl-bescheidenen Art, es sei in seiner
 Familie von jeher Brauch gewesen, am Sarge eines Angehörigen
 die Nacht zu verbringen, die Großmutter hätte zwar
@@ -1460,7 +1460,7 @@ Dutzend Kugellöcher …« sie war entsetzt. »Wem galten
 denn die Schüsse?!«
 
 »Uns,« sagte Harst leise. »Eine Frage, Herr von Bomst
-…« Er sprach etwas hastiger, scheinbar beunruhigt,
+…« Er sprach etwas hastiger, scheinbar beunruhigt.
 »Haben Sie in den zwei Stunden, die sie hier nun bereits
 Totenwache halten, etwas Verdächtiges bemerkt, ich
 meine vielleicht ein Geräusch, irgend etwas Besonderes?«
@@ -1552,7 +1552,7 @@ hierher führte.«
 »Bestimmt ist es so!« erklärte Harald und setzte sich
 wieder, schraubte die Laterne heller und lehnte sich
 bequem zurück. »Der Instinkt vermag mehr als die geschulte
-Vernunft, — — Die Katze war also schon vorgestern abhanden
+Vernunft, — — die Katze war also schon vorgestern abhanden
 gekommen?«
 
 »Ja …« Adelheid konnte sich gar nicht beruhigen. »Ja
@@ -2070,7 +2070,7 @@ ihren geschmeidige Leib verlockend zeigt. Das eine
 Auge des Würfels bildet zugleich das Herz der Tänzerin,
 und in diesem steckt ein Dolch, — ein etwas gruseliges
 Bild, das an Carmen erinnert. Ich nehme an, es ist
-eine Konfektattrappe ober dergleichen … Wir, Harst und
+eine Konfektattrappe oder dergleichen … Wir, Harst und
 ich, sahen sie erst, als wir vorhin Ihre Schwester
 in das Parkhaus begleiteten und dann noch das Zimmer
 der Toten betraten. Dieser schwarze Würfel steht da
@@ -2096,7 +2096,7 @@ Heuchler, sondern auch den dringenden Wunsch, ihn vollends
 zu entlarven und dabei eine Hauptrolle zu spielen.
 
 Bomst hatte mich unterbrochen. »Es war beim besten
-Willen nichts von ihr zu erfahren, — oh, sie war Zäh,
+Willen nichts von ihr zu erfahren, — oh, sie war zäh,
 und in dem alten Leibe steckte noch eine erstaunliche
 Energie, und sie hätte mir fast mit ihren zarten, welken
 Händen die Augen ausgekratzt, als ich …«
@@ -2378,7 +2378,7 @@ klirren … sprang ins Wasser …
 Sie sah die erhobene Waffe … Mit einem frechen Auflachen
 wandte sie mir den Rücken, warf sich ins Wasser, hoffte
 wohl, in dem dichten Schilf zu entkommen. — Das Röhricht
-stand hier zu Dicht … Ich erwischte sie, — wie eine
+stand hier zu dicht … Ich erwischte sie, — wie eine
 tückische Bestie fuhr sie auf mich los, und erst ein
 gründlicher Hieb mit dem Kolben der Waffe brachte sie
 zur Vernunft.
