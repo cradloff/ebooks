@@ -132,7 +132,7 @@ ein ganz altes verwahrlostes Grundstück, das Gebäude gleicht
 mehr einem Stall, und an der Gartenpforte bemerkte ich ein Porzellanschild
 »Dr. J. Schindel«. — Nach gründlichem Überlegen entschied ich
 mich dahin, Ihnen den Fall vorzutragen, denn sowohl diese höchst
-eigentümliche gerippte Einladung als auch das ganze Verhalten
+eigentümliche getippte Einladung als auch das ganze Verhalten
 Schindels gaben mir sehr zu denken. Wie Ihnen vielleicht bekannt
 ist, habe ich für Ihre spezielle Neigung für alles Absonderliche
 stets nicht nur das größte Verständnis bezeugt …«
@@ -259,7 +259,7 @@ einen zweiten Papierfünfziger spendete:
 »Sie werden telephonieren und erklären, Ihr Bericht müsse mündlich
 erstattet werden, Miß  Tompson soll um acht heute zu Ihnen kommen,
 — — und dann werden auch wir zur Stelle sein — heimlich, Knüppel,
-heimlich! — so, und nun dürfen Sie sich verabschieden.«
+heimlich! — So, und nun dürfen Sie sich verabschieden.«
 
 <h2>2. Kapitel.</h2>
 
