@@ -87,7 +87,7 @@ Rücken ein langes Leinenfutteral an einem Riemen, — es konnte
 Golfstöcke enthalten.
 
 Unbekümmert schaltete er seine Lampe ein und wollte die scheinbar
-schlafenden durch) ein energisches »Hallo — Achtung — — Polente!!«
+Schlafenden durch ein energisches »Hallo — Achtung — — Polente!!«
 (Polente = Polizei.)
 
 Wie ein Blitz fuhren die beiden Pennbrüder hoch.
@@ -231,7 +231,7 @@ Nicht Knüppel sollte befreit werden, sondern der ehemalige
 Techniker Herbert Roth, der als einziges Mitglied der
 berüchtigten Kolonne Pirsch Ende Februar zufällig verhaftet
 worden konnte und zu zwei Jahren Zuchthaus verurteilt wurde. —
-Unseren Lesern dürfte noch bekannt sein, das Fritz Knüppel im
+Unseren Lesern dürfte noch bekannt sein, daß Fritz Knüppel im
 September vorigen Jahres die Kolonne Pirsch, nach dem Einbruch
 bei dem Juwelier Berger, Unter den Linden, um die Beute
 betrogen und nachher den früheren Arzt Doktor Schindel ermordet
@@ -286,11 +286,11 @@ der Bogenschütze, und die Frau wurden noch nachts auf dem
 Bahnhof Mießdorf gesehen, sind seitdem jedoch auch
 verschwunden. — Herbert Roth, der bei alledem sozusagen der
 Geprellte ist, verweigert hartnäckig irgendwelche Angaben über
-die Art und Waise, wie er sich mit seinen Freunden verständigt
+die Art und Weise, wie er sich mit seinen Freunden verständigt
 hat. Als er hörte, daß gerade Knüppel der glücklich Entwischte
 sei, bekam er einen förmlichen Tobsuchtsanfall und stieß gegen
 Knüppel sehr verfängliche Drohungen aus. — Leider besteht wenig
-Hoffnung, das man K.’s wieder habhaft wird.  Er ist als
+Hoffnung, daß man K.’s wieder habhaft wird.  Er ist als
 glänzender Verkleidungskünstler bekannt. Auch die vier
 »Befreier« dürften kaum zu fassen sein, denn die Kolonne Pirsch
 ist vielleicht noch sicherer in irgendeinem Schlupfwinkel
@@ -313,7 +313,7 @@ eben Pechvögel, mein Alter …  Und dann noch dieses Wetter! Da
 das Geräusch eines nahenden Autos, daß dann offenbar vor unserer
 Gartenpforte halt machte.
 
-Harst warf mir einen langen Blick zu. »Lückes Mercedes wagen
+Harst warf mir einen langen Blick zu. »Lückes Mercedeswagen
 — unverkennbar! Schon faul!!«
 
 Ich ging öffnen. Der patente Hans schüttelte mir kräftig die
@@ -410,7 +410,7 @@ war Herr Emil Lemke auf dem Berliner Pflaster wohl doch nicht,
 und als Geschäftsmann mochte er sogar recht brauchbar und tüchtig
 sein. »Ich will mich nicht herausstreichen,« fuhr er grüblerisch
 fort, »aber auch wir Kleinstädter haben offene Augen. Jedenfalls
-glaubte im zu bemerken, daß die Dame dem Taxichauffeur heimlich
+glaubte ich zu bemerken, daß die Dame dem Taxichauffeur heimlich
 ein Zeichen gab, und die vielzitierte innere Stimme riet mir,
 dieses Auto nicht zu benutzen, zumal die Dame mich plötzlich
 bat, sie doch bis zur Halenseer Brücke  mitzunehmen. Als ich
@@ -490,10 +490,10 @@ eines Gestrauchelten, der immer tiefer sinkt, schließlich zu
 Zuchthaus verurteilt wird und durch die Liebe zu der Tochter
 des Anstaltsgeistlichen gebessert wird …«
 
-»… Ich wußte, das sowohl Fritz Knüppel als auch Herbert Roth
+»… Ich wußte, daß sowohl Fritz Knüppel als auch Herbert Roth
 im Zuchthaus Kollnau saßen,« spann Harst den bunten Faden etwas
 lebhafter fort. »Wir alle hatten Graf Düppel sehr falsch eingeschätzt,
-und da ich nunmehr seine verbrecherisch Intelligenz kannte, da
+und da ich nunmehr seine verbrecherische Intelligenz kannte, da
 ich ferner damit rechnete, daß er irgendwie auszubrechen versuchen
 würde, schickte ich einen Angestellten der Detektei Globus für
 alle Fälle nach Kollnau als »Frühlingsgast« und begeisterten
@@ -509,8 +509,8 @@ empört: »Und der Mensch hat sich als Ingenieur in mein Haus eingeschlichen
 und hat meiner Lissie den Kopf verdreht!! Ein Detektiv nur!!
 Unerhört, — — Frechheit!!«
 
-Harst beruhigte ihn freundlich. Blank leistet etwas, das merkte
-ich, als er uns eine Nummer Ihrer Zeitung mit vom Roman »Durch
+Harst beruhigte ihn freundlich. »Blank leistet etwas, das merkte
+ich, als er uns eine Nummer Ihrer Zeitung mit dem Roman »Durch
 Nacht zum Licht« zuschickte und in seinem »beigefügten Bericht
 erwähnte, der Anstaltsdirektor in Kollnau habe gestattet, daß
 gerade dieser Roman den Gefangenen seiner ganzen Tendenz wegen
@@ -543,7 +543,7 @@ Fortsetzungen vom 15. und 16. April. Ich habe die anrüchigen
 Stellen rot unterstrichen. Der Autor M. Attila schildert, wie
 der entgleiste Romanheld in eine gut gesicherte Villa einbrechen
 will, wie er durch Pfeilschüsse eine Strickleiter am Balkon befestigt,
-wie der Einbruch) mißlingt, da der Dieb in dem Balkonzimmer eine
+wie der Einbruch mißlingt, da der Dieb in dem Balkonzimmer eine
 Jugendfreundin aus besseren Tagen sitzen sieht, wie ihn die Reue
 packt und er den Rest der Nacht in einer halb offenen Scheune
 unweit einer Schonung verbringt.«
@@ -570,7 +570,7 @@ Gentleman kennen, der Ihr Bruder hätte sein können, lieber Lücke.«
 
 »Danke, sehr schmeichelhaft!«
 
-»… Der Mann warb uns als Gehilfen an, wir sollten schmiere stehen,
+»… Der Mann warb uns als Gehilfen an, wir sollten Schmiere stehen,
 wir rechneten mit einem vollen Erfolg, da ich inzwischen auch
 in der Schonung ein Auto und darin eine Dame entdeckt hatte.
 Als der Mann seine vier Pfeile verblüffend geschickt abgeschossen
@@ -623,7 +623,7 @@ oben am sogenannten Markt, für das ehemalige Dorf reicht das
 aus, im Sommer freilich wohnen dort sehr viel Sommerfrischler,
 Herr Lemke. — Ich wette, Harst, daß wir noch erfahren, wer das
 Paket aufgab.« Die drei Flaschen Rotwein, die ich dann aus dem
-Keller holte, besänftigten den Herr Vorleger so weit, daß er sogar
+Keller holte, besänftigten den Herrn Verleger so weit, daß er sogar
 zugab, Harry Blank sei wirklich ein netter Kerl gewesen und es
 würde ihm sehr leid tun, wenn Harry etwas zugestoßen wäre, zumal
 Lissie für Blank geradezu schwärme und ein ehemaliger Kandidat
@@ -698,7 +698,7 @@ Wahl war schwer.«
 »Nun, ob ich mir Zeit lassen sollte, die niedergeboxten Herren
 Harst und Schraut zu massieren oder ob ich dem Ausreißer nachjagen
 sollte. Ich entschied mich für das letztere, denn das Auto hatte
-beträchtlichen Vorsprung. Jetzt sehe ich ja auch, das meine Entscheidung
+beträchtlichen Vorsprung. Jetzt sehe ich ja auch, daß meine Entscheidung
 die richtige war. — Ich könnte Ihnen nun sehr genau schildern,
 meine Herren, wie es mir gelang, stets hinter dem Auto zu bleiben.
 Es war eine tolle Fahrt, sie endete in der Nähe von Berlin —
@@ -746,7 +746,7 @@ Hilfe des Bogenschützen während eines heftigen Regens. Der Aufseher,
 der um die Mauer patrouillierte, wurde mit einem Armbrustpfeil
 im Herzen tot aufgefunden.« —
 
-Um ein Uhr morgens führen wir im Polizeiauto zum Flugplatz, und
+Um ein Uhr morgens fuhren wir im Polizeiauto zum Flugplatz, und
 bereits um halb fünf früh landeten wir glatt auf einer großen
 Wiese unweit der Stadt und begaben uns zu Emil Lemke, dessen
 hübsche Villa in der neuen Vorstadt hart am Kollnau-See in einem
@@ -979,7 +979,7 @@ fielen, und in tiefster Finsternis erreichten wir drüben die
 hohe Mauer des Parkes der Pension Grollmatz, im Nu waren wir
 trotz der oben im Zement gebetteten Glassplitter hinüber, und
 bevor noch das Gewitter ernsthaft zu toben begann, kauerten wir
-drei auf einem Überdachten Altan an der Seefront des uralten,
+drei auf einem überdachten Altan an der Seefront des uralten,
 schloßartigen Gebäudes und sahen durch die schmalen Spalten sehr
 dichter Fenstervorhänge in einen Saal hinein, der strahlend erleuchtet
 war und in dem sich nach den Klängen eines großen Grammophons
@@ -1003,7 +1003,7 @@ von den … Damen kenne ich … Vor kurzem saßen sie noch in den
 Nepplokalen am Kurfürstendamm in Berlin …«
 
 Eine zackige Feuersäule schoß knatternd herab und schlug in eine
-Hohe Kiefer ein …
+hohe Kiefer ein …
 
 Im Saal hatten die Tänzerinnen halt gemacht, Blank stellte das
 Grammophon ab, und die übermütige Gesellschaft versammelte sich
@@ -1046,7 +1046,7 @@ und blieb in der unteren Türfüllung haften.
 Harst fuhr empor, zog die Clement aus der Manteltasche und wartete
 an der äußeren Altanbrüstung den nächsten Blitz ab. Als dieser
 niederfuhr, streckte er zwar den Arm aus, drückte jedoch nicht
-ab, und eine Handbewegung besagte mir, das der Schütze geflohen
+ab, und eine Handbewegung besagte mir, daß der Schütze geflohen
 sei. Ein Pfiff rief drei Beamte herbei, plötzlich war auch Lücke
 zur Stelle, und Wendt erwachte erst bei dem nächsten Arzt, der
 zu der Gehirnverletzung ein sehr bedenkliches Gesicht machte.
@@ -1121,7 +1121,7 @@ in die Butter?« fragte er bereits in weit versöhnlicherem Tone.
 
 Harst zögerte etwas. Er schien sich die Antwort genau zu überlegen.
 »Ich wollte die Wirkung auf die um den Frühstückstisch versammelten
-Personen erproben, und die Probe glückte. Jemand würde unter
+Personen erproben, und die Probe glückte. Jemand wurde unter
 der Schminke totenblaß …«
 
 »Wie — — Frau Dora Lemke?!« flüsterte Lücke ganz entsetzt. »Aber
@@ -1177,7 +1177,7 @@ Beauftragten wurde, denn ich habe dort drei Leute vom »Globus«
 unauffällig untergebracht — all das, nachdem Blank mir die Romanfortsetzungen
 geschickt hatte. Das ehemalige Schloß besitzt sehr ausgedehnte
 Kellerräume, lieber Lücke, — leider haben die Globusleute bisher
-nichts herausgefunden, wie Frau Dora Lemke es fertig bringt,
+nicht herausgefunden, wie Frau Dora Lemke es fertig bringt,
 nachts ihre Schwester heimlich zu besuchen, ohne die Straße zu
 überschreiten. Es muß also eine Verbindung zwischen der Villa
 Lemke und dem Stift geben, die unter der Erde verläuft. Ich mag
@@ -1186,7 +1186,7 @@ Romane verseucht, ebenso wenig in den Mund nehmen wie »Problem«
 »Kombinieren« und ähnliche Rüstzeuge von Detektivgeschichtenfabrikanten.
 Trotzdem: Solch eine geheime Verbindung besteht, und sie ist
 um so eher möglich, als der Grund und Boden der Lemke’schen Villa
-einst Stiftseigentum war und an jener stelle ein Kavaliershaus
+einst Stiftseigentum war und an jener Stelle ein Kavaliershaus
 des Schlosses gestanden haben soll. — Vielleicht begreifen Sie
 nun, wie dunkel die ganzen Zusammenhänge noch sind und wie behutsam
 man vorgehen muß, wenn man die Kolonne Derbler nicht verscheuchen
@@ -1224,7 +1224,7 @@ gegen die von innen verriegelte Tür gelehnt und vor die beiden
 kleinen Fenster kreuz und quer dünne Drähte gezogen — auch von
 innen, sogar vor die Vorhänge, und an diese Drähte kleine Glöckchen
 befestigt, wie man sie Stubenhündchen an das Halsband hängt.
-Der Draht und die Glöckchen hatte der vielseitige Harry Blank
+Den Draht und die Glöckchen hatte der vielseitige Harry Blank
 beschafft.
 
 Wir schliefen bis acht Uhr, um halb neun fanden wir uns bei wundervollem
@@ -1309,7 +1309,7 @@ sprang auf und eilte zu ihr hin. Sie war ganz liebevollste Besorgnis.
 …«
 
 »Mir fehlt gar nichts,« sagte die Frau mit unnatürlich schriller
-Stimme. »Wirklich, — deine sorge ist gänzlich überflüssig, nur
+Stimme. »Wirklich, — deine Sorge ist gänzlich überflüssig, nur
 Herr Harst hat mich ein wenig erschreckt.«
 
 Lissie kehrte bedrückt zu ihrem Platz zurück.
@@ -1319,8 +1319,8 @@ liebenswürdig. »Ich bin in der Tat kein angenehmer Gast, gnädige
 Frau. Fritz Knüppel, ein anerkannter Verkleidungskünstler, bemüht
 sich hier jedoch ganz umsonst, denn ich bin auf alles vorbereitet,
 und es müßte jemand schon eine völlig neuartige Methode erfinden,
-mir das Lebenslicht auszublasen, und neue Methoden sind sehr
- auszutüfteln. Sie wissen ja, Knüppel operierte in dem Kriminalfall
+mir das Lebenslicht auszublasen, und neue Methoden sind sehr schwer
+auszutüfteln. Sie wissen ja, Knüppel operierte in dem Kriminalfall
 »Ball der Toten« mit einer Mottenspritze, — ich glaube, hier
 wird es ähnlich sein … Ich werde dort oben in den Ästen sicherlich
 einen Gummiball mit Mundstück entdecken, gefüllt mit flüssigem
@@ -1387,7 +1387,7 @@ Mauerstücke … Hofften Sie hier Fritz Knüppel zu finden?!«
 
 »Oh — vielleicht.« Harst deutete auf die mächtigen Türangeln
 und dann auf das Türschloß. »Frisch geölt, Herr Lemke … Ölt
-man Türen, die nur zu einem Schuttverbau führen?!«
+man Türen, die nur zu einem Schuttverhau führen?!«
 
 Emil Lemke machte ein sehr langes Gesicht. »Ich bin überrascht
 …!« murmelte er und trat auf die breite Steinschwelle und schaute
@@ -1414,7 +1414,7 @@ dicht an die Eisentür.
 Tür?! Wozu?!«
 
 »Fragen wir die Hausangestellten,« schlug Harst vor. »Diese Sache
-mißfällt mir gründlich, irgend etwas steckt dahinter, und im
+mißfällt mir gründlich, irgend etwas steckt dahinter, und ich
 gebe mich nicht eher zufrieden, bis ich ganz klar sehe.«
 
 »Ich auch nicht!« ereiferte sich der Hausherr. »Beginnen wir
@@ -1500,7 +1500,7 @@ und Frau Dora Lemke trat ein …
 
 Daß sie gehorcht hatte, sah man schon ihren verzerrten, mühsam
 beherrschten Zügen an. Sie begrüßte Lücke sehr förmlich und sagte
-dann, indem sie sich an einen Schrank lehnte, um irgendwo halt
+dann, indem sie sich an einen Schrank lehnte, um irgendwo Halt
 zu finden, — ihre Stimme klang wieder unnatürlich schrill und
 farblos:
 
@@ -1568,7 +1568,7 @@ Geh’ — — zum Teufel, — — laß uns allein!«
 
 Er packte sie und riß sie hoch …
 
-»Komm´, — deine Nervenkrisen kenne ich. Das verfluchte Morphium!!
+»Komm’, — deine Nervenkrisen kenne ich. Das verfluchte Morphium!!
 In ein Sanatorium mußt du … Komm’!!«
 
 Sie ließ sich willig hinausführen, — abermals schmetterte die
@@ -1580,7 +1580,7 @@ Tür ins Schloß, und Lücke blickte uns entgeistert an …
 sehr ernst. »Ich wußte ja, daß eine Katastrophe droht. Sie ist
 schon im Gange. Und — es ist meine Schuld.« Seine Stimme sank
 zu leisestem Flüstern herab. »Ich hätte die Jacke durch Blank
-nicht stehlen lassen sollen … Aber im mußte sie doch in Sicherheit
+nicht stehlen lassen sollen … Aber ich mußte sie doch in Sicherheit
 bringen. Sie ist nicht mehr im Hause, sondern im Tresor der hiesigen
 Landschaftsbank. Die Geschichte von der Brieftasche ist natürlich
 Schwindel. — Steckt eure Pistolen in die Jackentaschen und entsichert
@@ -1615,7 +1615,7 @@ Lücke schaute Harst forschend an. »Ist das wahr?«
 Emil Lemke eilte händefuchtelnd die Terrassentreppe hinab und
 schrie schon von weitem:
 
-»Ich weiß, ich habe mich; wie ein Rohling benommen. Entschuldigen
+»Ich weiß, ich habe mich wie ein Rohling benommen. Entschuldigen
 Sie nur … Aber Sie ahnen nicht, was ich zu leiden habe …«
 
 Er stand blaß und schweigend vor uns …
@@ -1828,7 +1828,7 @@ in aller Hast ihr Frühstück unterbrochen. Während ich noch einen
 flachen Tiegel suchte, in dem das Wasser am schnellsten kochen
 mußte, entdeckte ich auf dem Küchenbüfett eine halb gefüllte
 Kaffeekanne. Der Kaffee war sehr dunkel und noch lauwarm, behutsam
-schmeckte ich ihn erst mit der Zungenspitze, im hatte ja auch
+schmeckte ich ihn erst mit der Zungenspitze, ich hatte ja auch
 genügend Grund mißtrauisch zu sein, besonders nach diesem zweiten,
 freilich nur eingeleiteten Versuch, uns durch den Bocksbeutel
 zu vergiften. Ich überschaute diese letzten Ereignisse und ihr
@@ -1838,13 +1838,13 @@ jeden Verdacht, er sei mit der Kolonne verbündet, fallen lassen,
 — die drei Flaschen Bocksbeutel hatten uns gründlich ausschalten
 sollen, plötzlich kamen ihm doch wieder Bedenken gegen diese
 allzu leicht nachweisbare Methode, die Gegner zu beseitigen,
-er ging mit »Karl« in den Keller, und hier ereilte in sein Geschick
+er ging mit »Karl« in den Keller, und hier ereilte ihn sein Geschick
 durch die Hand eines seiner Kumpane, die ihn vielleicht als nunmehr
 lästig los sein wollten …
 
 Ich eilte mit der Kaffeekanne nach oben, wir flößten Frau Dora
 vier Tassen voll ein, wir benutzten noch andere drastische Mittel,
-und gerade als sie die Augen ausschlug, kam Lissie hereingestürmt,
+und gerade als sie die Augen aufschlug, kam Lissie hereingestürmt,
 blaß, verstört, über der linken Wange einen roten schmalen Strich
 …
 
@@ -1915,10 +1915,10 @@ Villa bezog, allzu vertrauensselig auch ganz neues Personal angestellt,
 und all diese Leute waren ohne Ausnahme langgesuchte Verbrecher
 … Bleiben sie jetzt bei Ihrer Mutter … — Sie entschuldigen uns,
 gnädige Frau … Wir haben noch einiges zu erledigen, und seien
-Sie überzeugt, das dieser Tag so enden wird, wie ich es für vorteilhaft
+Sie überzeugt, daß dieser Tag so enden wird, wie ich es für vorteilhaft
 halte. Ängstigen Sie Ihre Tochter nicht etwa unnötig durch vorschnelle
 Vermutungen …« Er schaute Frau Dora vielsagend an. »Verlassen
-Sie diese Raume nicht, riegeln Sie sich ein, und öffnen Sie nur
+Sie diese Räume nicht, riegeln Sie sich ein, und öffnen Sie nur
 uns … Geschieht etwas Unerwartetes, so rufen Sie zum Fenster
 hinaus, Lückes Beamte werden zur Stelle sein …«
 
@@ -2022,7 +2022,7 @@ sprechen, es wäre schließlich auch unnötig, denn ich überschaue
 die Zusammenhänge auch ohne ihre Beichte. Sie hat nichts davon
 gewußt, daß Lemke seit Jahren der engste Verbündete der etwas
 sagenhaften Kolonne Pirsch war, daß er seinen raschen Aufstieg
-der erfolgreichen »Arbeit« der Kolonne verdankte, das er diese
+der erfolgreichen »Arbeit« der Kolonne verdankte, daß er diese
 Villa nur als Notunterschlupf für seine Freunde bauen ließ. Nein,
 von alledem ahnte die Frau nichts, und als dann Herbert Roth
 Ihnen in die Finger geriet und verknackt wurde und hier nach
@@ -2051,7 +2051,7 @@ Na — den sehen wir nie wieder, glaube ich.«
 etlichen Mammon sich reserviert gehabt haben, — — Friede seiner
 zukünftigen Asche, Frau Dora interessiert mich mehr. Die arme
 Frau und auch Lissie sowie die Oberin Anastasia sollen wie gesagt,
-wenn es nah mir ginge, in keiner Weise bloßgestellt werden. Sogar
+wenn es nach mir ginge, in keiner Weise bloßgestellt werden. Sogar
 Lemkes verfängliches Treiben ließe sich im Interesse der Frauen
 bemänteln, wenn nur Ihrerseits, lieber Lücke, etwas guter Wille
 gezeigt würde …«
@@ -2085,7 +2085,7 @@ nichts Neues, ich vermutete es gleich, daß Frau Dora diesen Weg
 benutzte.« — Er bückte sich und packte eine Eisenklammer, die
 scheinbar nur zwei Mauersteine der Türumrahmung zusammenhielt.
 Die Eisenklammer lies sich ein Stück herausziehen, und Harst
-traut rasch zur Seite, — die Schwelle klappte, nach unten und
+trat rasch zur Seite, — die Schwelle klappte nach unten und
 gab einen viereckigen Schacht und eine schmale, steile Treppe
 frei.
 
