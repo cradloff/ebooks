@@ -86,7 +86,7 @@ wurden, als dies meinem Freunde lieb war. Wir suchten
 also Seitenstraßen auf, und Harsts tastende Fragen
 verstummten allmählich, da der Alte John keinerlei
 befriedigende Antwort zu geben vermochte. Er nahm an,
-daß die Wurst nicht mehr »einwandfrei gewesen, die
+daß die Wurst nicht mehr einwandfrei gewesen, die
 eine Köchin am Morgen dem Ziehhunde gespendet hatte.
 
 Harald sprach von anderen Dingen, und als wir
@@ -176,7 +176,7 @@ Grinsen zuckte um seinen Mund. Er faßte in die Tasche
 seiner schmierigen Jacke und zog einen englischen Paß
 hervor.
 
-»Sie würden mir nicht glauben … sagte er in eigentümlich
+»Sie würden mir nicht glauben …« sagte er in eigentümlich
 »gekautem« Deutsch … »Da, lesen Sie. Lord Ralph Stoorgard,
 letzter der Familie Stoorgard von Stoorgard-Weslie-Castle
 … allerletzter … alles verjeut, — war nicht mehr viel
@@ -380,7 +380,7 @@ die Teebüchse wieder herbeizuschaffen.
 
 »Was ich tun kann, wird geschehen,« versicherte
 er, hängte ab und meinte mit einem leichten Zwinkern:
-»Ja — Die leere Teebüchse!! Wetten, daß sie ein Geschenk
+»Ja — die leere Teebüchse!! Wetten, daß sie ein Geschenk
 eines Herren war, mit dem Fräulein Amstetten einst
 sehr befreundet gewesen und den sie nun wieder gern
 zurückerobern möchte?! Sie wirft das Andenken weg,
@@ -389,7 +389,7 @@ Laune schwindet, und der Verehrer soll nicht merken,
 daß sein Geschenk einen Schuttberg ziert!!« —
 
 *Der* Verehrer war jedoch schon vor neun Monaten
-sanft entschlafen. —« Das erfuhren wir sehr bald.
+sanft entschlafen. — Das erfuhren wir sehr bald.
 
 <h2>2. Kapitel.</h2>
 
@@ -461,7 +461,7 @@ gefahren wäre.
 sprechen, Fräulein Bartsch.«
 
 Die junge Inhaberin dort hinter dem Schreibtisch
-trug einen abscheulichen Grünen Jumper und hatte knallrote
+trug einen abscheulichen grünen Jumper und hatte knallrote
 Backen und eine unschöne Boxernase. Sie klopfte mit
 einem Bleistift einen Wirbel auf ein langes Kontobuch
 und rief gereizt:
@@ -474,7 +474,7 @@ finde das so unerhört einfältig, außerdem …«
 »Verzeihung, Sie haben doch wohl noch die Adresse
 des jungen Menschen, Fräulein Bartsch.«
 
-»Natürlich, — — hier — einen Augenblick … sofort.
+»Natürlich, — — hier — einen Augenblick … sofort.«
 Sie kramte in den Papierstößen, zog ein Buch hervor
 und schlug es auf.
 
@@ -506,7 +506,7 @@ steckt immer etwas dahinter! — Ich werde telephonieren.«
 zurück. »Dort ist das Fernsprechverzeichnis, dort der
 Apparat. Im übrigen werde ich Sie nachher …«
 
-»… ja — *Nachher*!« Und Harst ließ sich mit dem für
+»… ja — *nachher*!« Und Harst ließ sich mit dem für
 Hauptstraße 203 zuständigen Revier verbinden und fragte
 an, ob Nr. 203 ein Produktenhändler Meier und ein Fritz
 Meier im zweiten Hofgebäude wohne.
@@ -534,7 +534,7 @@ sie wüßten nichts über ihn.
 beide recht,« meinte Harald achselzuckend. »Ein Betrüger
 — kein Meier, und auch der Vater Meier von demselben
 Kaliber. Unter diesen Umständen wird die Teebüchse
-nie mehr auftauchen. sie war von Gold und sehr wertvoll,
+nie mehr auftauchen. Sie war von Gold und sehr wertvoll,
 aber ich hoffe, Fräulein Amstetten wird keinen Schadenersatzprozeß
 gegen Sie anstrengen, da Sie selbst die Betrogene sind.
 Begraben wir die Sache also … Ich …«
@@ -549,7 +549,7 @@ Büchse wiederfinden! Haben Sie hier etwas ausgerichtet?«
 »Nein und ja,« entgegnete Harst bedächtig. »Von
 wem erhielten Sie sie geschenkt, gnädiges Fräulein?«
 
-»Die junge Dame lehnte sich an den Türrahmen und
+Die junge Dame lehnte sich an den Türrahmen und
 kämpfte gegen das aufsteigende Schluchzen an.
 
 »Von … von Sir Francis Stoorgard-Weslie, der …
@@ -748,7 +748,7 @@ euch her?!«
 
 »Zwei — zwei blaue Engel.«
 
-Lücke warf einen scharfen Blick über die Straße,
+Lücke warf einen scharfen Blick über die Straße.
 »Hm — blaue Radler?! Seit wann betreibt das Institut
 Spitzelei?!«
 
@@ -785,7 +785,7 @@ Ralph hat als »Amstetten« jetzt die Teebüchse, und
 die bewußte Decke ist groß genug, daß auch noch die
 blaue Chefin darunter Platz hat.«
 
-»Genau dasselbe wollte ich sagen.« meinte Harst.
+»Genau dasselbe wollte ich sagen,« meinte Harst.
 »Die Dinge liegen klar. Ralph kam zu uns, nachdem er
 uns und Garmatzki beobachtet hatte, belauschte uns
 vom Ankleidezimmer aus, traf danach seine Dispositionen
@@ -885,7 +885,7 @@ Mir brach der Angstschweiß aus …
 
 »Harald, lebst Du?!«
 
-Mehr denn je! — Warte, ich helfe dir. Wir sind
+»Mehr denn je! — Warte, ich helfe dir. Wir sind
 allein …«
 
 Wenn ich auch nur einen Deut von den letzten Vorfällen
@@ -962,7 +962,7 @@ die sich nie abfassen lassen, die in besten Kreisen
 verkehren, zum Schein einen »Beruf« haben und der Polizei
 viel zwecklose Arbeit bereiten.
 
-Der Mann hieß Adalbert von Kraus, sollte österreichischer
+Der Mann hieß Adalbert von Krauß, sollte österreichischer
 Rittmeister gewesen sein, sollte einst Güter in Steiermark
 besessen haben, — jetzt hatte er ein Automobil mit
 einem winzigen Laden in der Köpenicker Straße im Südosten
@@ -1001,10 +1001,10 @@ des »Wassers«. Dann knallen drei leise Schüsse …«
 »Sieben,« sagte Harst.
 
 »Gut, sechs oder sieben Schüsse, — die Kerle flüchten,
-Kraus fällt tot um, alles wird still … — *Sie* behaupten,
+Krauß fällt tot um, alles wird still … — *Sie* behaupten,
 daß es vier Leute gewesen sein mögen, Schraut meint
 fünf, — jedenfalls mengte sich ein Gegner der fünf
-ein und verscheuchte sie und lies einen Toten zurück.
+ein und verscheuchte sie und ließ einen Toten zurück.«
 
 »Es gab zwei Tote,« erklärte Harst. »Ich wollte
 das nicht protokollieren lassen. Es soll ganz geheim
@@ -1020,7 +1020,7 @@ schmutzigen Limousine schlecht weggewaschene Blutflecken
 auf den Polstern und vier lange blonde Frauenhaare
 gefunden worden seien.
 
-Assistent Schirmer bemerkte bescheiden »Es wäre
+Assistent Schirmer bemerkte bescheiden: »Es wäre
 ja auch sonderbar, wenn Therese Bartsch vom Blauen
 Eildienst nicht mit dabei gewesen wäre.« Auch er war
 in die Vorfälle des verflossenen Tages eingeweiht worden.
@@ -1059,7 +1059,7 @@ auch bei uns also, und bei uns bekam sie keine Verbindung
 … — So? Die Teebüchse ist ihr abends um neun Uhr durch
 einen Dienstmann zugestellt worden … Na, da wird sie
 sich gefreut haben … Das teilte sie Ihnen mit, und
-das wollte sie uns melden. — Wie gebt es Ihnen Übrigens?
+das wollte sie uns melden. — Wie geht es Ihnen übrigens?
 Waren Sie sehr erschrocken? — Oh nein, ich meine nicht
 der Teebüchse wegen … Und Ihr Haar ist auch noch in
 Ordnung? — Freut mich … Wiedersehen …«
@@ -1137,7 +1137,7 @@ nicht zur Ruhe gegangen, sie lasse bitten.
 Die Chefin saß in ihrem Privatbüro wieder im geheimnisvollen
 Dämmerlicht hinter dem Schreibtisch.
 
-»Guten Abend, — bitte … Die kreischende Stimme
+»Guten Abend, — bitte …« Die kreischende Stimme
 und der giftgrüne Jumper und die Brille hatten nicht
 an ihrer Unschönheit verloren.
 
@@ -1165,7 +1165,7 @@ Ihnen nicht Bescheid gesagt?«
 Strafgefangene an und handele auch demgemäß. Die größten
 Schurken laufen frei umher.«
 
-»Ganz sicher,« nickte Lücke, »In dem Punkt sind
+»Ganz sicher,« nickte Lücke. »In dem Punkt sind
 wir uns einig. Aber in anderen Punkten, fürchte ich,
 wird es Differenzen geben, Fräulein Bartsch. — Schraut,
 schalten Sie doch bitte mal die Deckenlampe ein.«
@@ -1190,7 +1190,7 @@ sehen, das Fensterbrett interessiert ihn sehr …«
 
 Therese lächelte nur. »Bitte, ich bin heute aber
 in der Küche ausgeglitten … Daher diese Schramme unter
-dem Haar, die ich mit Watte und Pflaster bedeckte.
+dem Haar, die ich mit Watte und Pflaster bedeckte.«
 
 Für Therese war das Halbdunkel günstiger gewesen.
 Sie sah sehr derb und bäuerisch aus.
@@ -1208,7 +1208,7 @@ meinte Schirmer todernst. »Sie haben bei Ihrem nächtlichen
 Gang dieses Fenster benutzt, und das Haus hat zwei
 Eingänge. Sie haben in einem Auto gesessen und waren
 mit dabei, als jemand von Herrn Harst »das Wasser«
-verlangte«
+verlangte.«
 
 Therese grinste breit. »Sie haben Phantasie!!«
 
@@ -1273,7 +1273,7 @@ flitzen …«
 Therese fiel zurück … »Und?!«
 
 »Fing ihn, brachte ihn zum Präsidium, lieferte
-den lieben alten Bekannten ab, »Ihren zweiten Schreiber,
+den lieben alten Bekannten ab, Ihren zweiten Schreiber,
 genannt Zahnkünstler, weil er früher bei Ärzten und
 Zahnärzten Pelze stahl — — als Patient. — Pech, nicht
 wahr?! — Der brave Edgar Künstler hat bereits alles
@@ -1319,8 +1319,8 @@ Sie!«
 
 Und er sauste in die Versenkung hinab, das Dielenstück
 klappte zu, und sehr bald trat Schirmer vom Hauptbüro
-her wieder ein. »Durch den Keller entwischt, das verfl
-… Frauenzimmer!! — schlau, sehr schlau. Die war auf
+her wieder ein. »Durch den Keller entwischt, das verfl…
+Frauenzimmer!! — Schlau, sehr schlau. Die war auf
 alles vorbereitet. Kusine in Brasilien — — Blech!!
 Es gibt nur eine Therese, und ich kenne sie, es ist
 diese hier, nur als Vogelscheuche herausgeputzt. —
@@ -1337,7 +1337,7 @@ nicht schon vor einer Stunde, als Harst Sie einweihte?!«
 
 Schirmer zupfte an seiner Perücke. »Oh, im wollte
 auch einmal nach Harst’scher Methode arbeiten und
-meine Trümpfe nicht gleich ausspielen. entschuldigen
+meine Trümpfe nicht gleich ausspielen. Entschuldigen
 Sie, Herr Doktor, unsereiner hat doch auch Ehrgeiz
 …«
 
@@ -1355,7 +1355,7 @@ nun kennen wir die Kerls, die »das Wasser« verlangten.
 Therese hat Albert v. Krauß angeworben gehabt, und
 …«
 
-»… Wer erschoß Krauß?!« fragte Harald »rasch und
+»… Wer erschoß Krauß?!« fragte Harald rasch und
 blickte dabei Schirmer fest in die Augen. »Haben Sie
 noch einen Trumpf im Spiel, lieber Schirmer?«
 
@@ -1378,7 +1378,7 @@ Doktor …«
 
 »Therese merkte wohl, daß Herr Harst »das Wasser«
 nicht herausgeben würde, sie sah ihr Spiel verloren,
-»und … beim Tontaubenschießen in Monte hatte sie stets
+und … beim Tontaubenschießen in Monte hatte sie stets
 die meisten Treffer …«
 
 Lücke zog die Nase kraus. »Schwache Beweise, Schirmer
@@ -1410,7 +1410,7 @@ gefüllt war.
 »Mein Alter, das hier ist »das Wasser«! — Hiernach
 suchte man.«
 
-Die eine Partei wollte es rauben, die andere den
+»Die eine Partei wollte es rauben, die andere den
 Raub verhüten, und einer dieser Gegenpartei erschoß
 Albert von Krauß!«
 
@@ -1431,7 +1431,7 @@ ganz raffinierte Tricks annahm.
 
 »Schirmer!« erklärte ich. »Schirmer kann sehr gut
 der heimliche Verbündete der Therese Bartsch sein.
-Die merkwürdige »zufällige« »Verhaftung des »Zahnkünstlers«
+Die merkwürdige »zufällige« Verhaftung des »Zahnkünstlers«
 gibt sehr zu denken …«
 
 Harst gähnte ungeniert.
@@ -1480,20 +1480,20 @@ der neben seinem Bett saß. Ich lehnte daneben am Spiegelschrank.
 im Arbeitszimmer zu erbrechen,« gab er mit matter Stimme
 an. »Um den Tresor nicht zuwecklos  demolieren zu lassen,
 öffnete ich ihn und entfernte alle wertvollen Andenken
-und ließ ihn offen«
+und ließ ihn offen.«
 
 Lücke fragte schnell: »Also  auch das »Wasser«
 entfernten Sie, — seien Sie mal ehrlich, Harst …«
 
-»Ich habe nie in dem Tresor Wasser aufbewahrt,
+»Ich habe nie in dem Tresor Wasser aufbewahrt.
 — Also — ich ließ den Stahlschrank offen und setzte
 mich in den Sessel, verriegelte auch die Tür nicht
-… Ich muß dann doch eingeschlafen sein, — Ich bekam
+… Ich muß dann doch eingeschlafen sein, — ich bekam
 den Hieb von hinten über den bloßen Kopf und stürzte
 sofort auf den Teppich. — Mehr weiß ich nicht, und
 das kann ich beschwören.«
 
-Lüde nagte höchst unzufrieden an der Unterlippe.
+Lücke nagte höchst unzufrieden an der Unterlippe.
 »Schraut, Sie fanden die Hintertür zum Hof weit offen?«
 
 »Ja …«
@@ -1507,7 +1507,7 @@ Lüde nagte höchst unzufrieden an der Unterlippe.
 »Das haben Sie nun schon dreimal gefragt, Lücke
 …!«
 
-Der patente Hans hüstelte, »Seien Sie nicht so
+Der patente Hans hüstelte. »Seien Sie nicht so
 empfindlich, Schrautchen! Ihr beide spielt so gern
 Versteck. — Ich kann nur annehmen, daß Schirmer dem
 Einbrecher folgte und daß dieser dann Schirmer niederknallte,
@@ -1559,7 +1559,7 @@ meinte nur, er habe keinen Kopf, sondern einen Bienenkorb
 …
 
 Auf seiner Steppdecke lagen Gerda Amstettens wundervolle
-Rosen. Sie Hatte Harald anrufen wollen, Frau Harst
+Rosen. Sie hatte Harald anrufen wollen, Frau Harst
 hatte ihr das Nötige mitgeteilt, und während meiner
 Abwesenheit war sie persönlich im Auto vorgefahren
 und hatte die Rosen abgegeben, dazu einen herzlichen
@@ -1588,7 +1588,7 @@ ein Einbrecher erschien er Morgens ein Uhr im Arbeitszimmer,
 wo ich noch las und rauchte.
 
 »Herr Schraut, schlagen Sie keinen Krach,« bat
-er. Sie kennen mich … Ich bin …«
+er. »Sie kennen mich … Ich bin …«
 
 »Sie sind der frechste Halunke auf Gottes Erdboden,
 und Sie werden sicherlich im Zuchthaus enden, — erst
@@ -1733,7 +1733,7 @@ märkischem Sande sprossen Obstbäume, Beeren, Sträucher,
 bunte Blumen … Welch’ ungeheuere zähe Arbeit hinter
 alledem sich verbarg, ahnten nur die Ihnen eben jene
 ähnliche Arbeit ein Schätzungsvermögen für diese Mühe
-und diese Freude an der Natur bescherte, wie uns!«
+und diese Freude an der Natur bescherte, wie uns!
 
 Harst schritt auf dem linken Fußgängerweg dahin
 und schien das Laubengelände dauernd zu beobachten.
@@ -1865,7 +1865,7 @@ den Kopf etwas vorgeschoben.
 John zauderte. »Ich weiß nicht recht … Meine Augen
 sind nicht mehr die besten … Mir schien es so, als
 ob drüben am Zaun ein grauer Schatten entlangglitt
-… «
+…«
 
 Daß *der* Schatten Erfindung war, nahm ich bestimmt
 an.
@@ -1883,7 +1883,7 @@ eingewühlt.«
 
 »Er ist erschossen worden,« meinte Harst leise.
 
-»Das vermutete ich, — genau wie Assistent Schirmer«
+»Das vermutete ich, — genau wie Assistent Schirmer.«
 
 »Und Adalbert von Krauß!«
 
@@ -1983,7 +1983,7 @@ heraus,« meinte er ohne besondere Betonung. »Wir wollen
 hier voreinander nicht allzu behutsam sein. Die Dinge
 drängen dem Ende entgegen.«
 
-Ich horchte auf. — John ward verlegen, »Woher
+Ich horchte auf. — John ward verlegen. »Woher
 vermuten Sie, daß ich das Richtige herausfand, Herr
 Harst?«
 
@@ -2026,7 +2026,7 @@ Das war wiederum eine seltsame Frage.
 »Nein.« Und jetzt lächelte der Alte glücklich
 vor sich hin. »Ich kenne ein Land, in dem man nicht
 zu neugierig ist, und ich kenne einen Kapitän, der
-mein Freund ist«
+mein Freund ist.«
 
 »Ja, dann — — reisen Sie bald,« sagte Harst ernst.
 
@@ -2113,7 +2113,7 @@ Sein Monokel funkelte Harst spöttisch an, und seine
 linke Hand winkte Harst ebenso spöttisch zu. »Also
 los, Herr Garmatzki … Bitte — jede Einzelheit.«
 
-Der alte John verbeugte sich. »Gern, Herr Doktor
+Der alte John verbeugte sich. »Gern, Herr Doktor.
 — Es war so gegen acht Uhr morgens, als ich damals
 mit meinem Hundewagen von hier aufbrach …«
 
@@ -2192,7 +2192,7 @@ sich sparen können, Lücke.«
 Der patente Hans warf ihm einen besonderen Blick
 zu. »Scheint so … Schließen wir also das Kapitel »Büchse«
 und wenden wir uns nach diesen theoretischen Kalkulationen
-der Praxis zu. »Herr Garmatzki, ich muß Ihr Grundstück
+der Praxis zu. Herr Garmatzki, ich muß Ihr Grundstück
 durchsuchen. Ihre Rolle bei diesem heutigen Mord ist
 unklar. Besitzen Sie Schußwaffen?«
 
@@ -2367,7 +2367,7 @@ Mühe auf seine Maske verwandt hatte.
 
 Harst grüßte …
 
-»Verzeihung, Ihr Vater ist doch in Kissingen,
+»Verzeihung, Ihr Vater ist doch in Kissingen,«
 meinte er durchaus höflich. »Ich bin Harst … Ist Ihr
 Herr Vater plötzlich zurückgekehrt?«
 
@@ -2380,9 +2380,9 @@ Sie prallte zurück … sie schrie leise auf …
 hier mein lieber Schraut, elende Schreiberseele, angefeindet,
 verleumdet, geliebt, gelobt, verehrt … Denn: Von der
 Parteien Haß und Gunst verzerrt, schwankt sein Charakterbild
-in der Geschichte, — Die Parteien sind in diesem Falle
+in der Geschichte. — Die Parteien sind in diesem Falle
 nicht politischer Art, sondern die Leserschaft und
-die Vorkämpfer für die Buchverteuerung, Motto, Kein
+die Vorkämpfer für die Buchverteuerung, Motto: Kein
 Buch unter drei Mark, damit auch die minderbemittelten
 Klassen endlich das Lesen verlernen.«
 
@@ -2401,7 +2401,7 @@ vorzüglichen Aussehen und …
 »… übrigens haben Sie glänzend Maske gemacht,
 Sie gleichen Papa verblüffend.«
 
-»Vielleicht war das Absicht, meinte Harst und
+»Vielleicht war das Absicht,« meinte Harst und
 schaute zu, wie Gerda mit zierlichen Fingern Liköre,
 Zigaretten und Keks zurechtstellte.
 
@@ -2454,7 +2454,7 @@ Gläschen und trank von jedem einen winzigen Schluck.
 »Bin ich nicht wirklich nett, Herr Harst?!« —
 und sie griff nach einer Zigarette.
 
-»Sehr nett … Nur, — entschuldigen Sie schon, Wo
+»Sehr nett … Nur, — entschuldigen Sie schon. Wo
 haben sie Ihren Opalring gekauft? Das muß ein sehr
 altes Stück sein … Die Brillanten um den Riesenopal
 haben nur noch wenig Feuer, und ich glaube fast, in
@@ -2464,11 +2464,11 @@ der berühmten Borgia-Sammlung in Florenz sah ich einen
 Gerda schüttelte den Kopf.
 
 »Nein, — ein Aberglaube, — den ziehe ich nie vom
-Finger.
+Finger.«
 
 »Wie einen Trauring, — verstehe, Sie waren ja
 auch mit Sir Francis Stoorgard verheiratet, wie ich
-hörte«
+hörte.«
 
 Das frische kecke Gesicht der Tennismeisterin
 verlor jede Farbe.
@@ -2553,7 +2553,7 @@ diese unwürdige Behandlung, ich werde …«
 
 Lücke sagte schroff: »Kommen Sie mit, Sie sind
 verhaftet. *Sie* schickten Albert von Krauß nach dem
-»Wasser«. Sie schickten dann auch Schirmer hin,« —
+»Wasser«. Sie schickten dann auch Schirmer hin, —
 Ihre Beziehungen zu diesen beiden jetzt Toten sind
 erwiesen. Was das »Wasser« bedeutet, ist mir noch unklar
 … Das schadet nichts. Harst wird jetzt sprechen.«
@@ -2641,7 +2641,7 @@ mit Wasser und Spiritus ausgespült, da ich sofort vermutete,
 die goldenen Innenwände der Büchse seien mit Gift dünn
 bestrichen — einem sehr kräftigen Gift. — Gold verfärbt
 sich *nicht* unter der Einwirkung dieses Giftes, die
-Büchse erschien leer und harmlos, — Ich untersuchte
+Büchse erschien leer und harmlos. — Ich untersuchte
 das Spülwasser, und ich stellte fest, daß es mit Gift
 gesättigt war, — die Wissenschaft nennt dieses furchtbare
 Gift Amylcyan. Es ist ohne Geschmack, es ist farblos,
@@ -2697,7 +2697,7 @@ zu.
 
 Sie … blieb stumm. Zuckte nur die Achseln …
 
-»… Die drei glücklichen Spieler starben, und Gerda
+… Die drei glücklichen Spieler starben, und Gerda
 und ihr Vater beraubten die Toten und wußten alles
 so geschickt einzurichten, daß keinerlei Verdacht auf
 sie fiele. Aber Lord Ralph Stoorgard, der mit zu diesem
@@ -2730,11 +2730,11 @@ Rächer spielen will.
 
 Er weiß nun, daß die Teebüchse das Geheimnis des
 Todes seines Bruders birgt, er weiß es durch Gerdas
-Eifer, die Büchse zurückzuerlangen. —« Gerda wieder,
+Eifer, die Büchse zurückzuerlangen. — Gerda wieder,
 die auch mit Krauß und Schirmer im Bunde war, erhält
 die Büchse zurück, merkt, daß ich das Gift ausgespült
 habe und schickt uns Krauß und ein paar Kerle auf den
-Hals, — Kraus fordert »das Wasser«, — im selben Augenblick
+Hals, — Krauß fordert »das Wasser«, — im selben Augenblick
 erschießt der stille Gegner Ralph ihn mit einer amerikanischen
 Liliputpistole.
 
@@ -2796,7 +2796,7 @@ erst hier in Berlin alles gebeichtet, und er erkrankte
 Wohl ihm, — er ist tot. — Auch mein Bündnis mit Krauß
 und Schirmer leugne ich nicht. Ich habe Krauß begleitet,
 als er Harst und Schraut überfallen ließ, — ich sah
-den Schatten, der Kraus erschoß und der auch auf mich
+den Schatten, der Krauß erschoß und der auch auf mich
 feuerte … Hier am Oberarm streifte mich die Kugel,
 und ich konnte kaum das Auto nach der Köpenicker Straße
 zurückbringen. — — Ich erwarte nichts mehr vom Leben
@@ -2832,7 +2832,7 @@ die leider nicht leer gewesen war …
 Auch die Teebüchse nicht. — —
 
 Johns Andenken für uns ist Thras, und Gerdas Andenken
-für das Präsidium ist die alte Japanische Teebüchse,
+für das Präsidium ist die alte japanische Teebüchse,
 die im Kriminalmuseum steht.
 
 Nächstens will ich von Garkas nächtlichem Abenteuer
