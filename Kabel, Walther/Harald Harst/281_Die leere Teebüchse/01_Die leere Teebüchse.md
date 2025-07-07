@@ -290,7 +290,7 @@ sondern auch mit Hilfe unserer Requisiten gründlichst
 maskiert, wie die herausgezogenen Schiebladen des einen
 Schrankes und die Schminkstifte und der Klebstoff auf
 dem Tisch verrieten. Dann war der Gauner durch das
-Fenster über den Hof entwischt. Ob er noch andere Kleidungstücke
+Fenster über den Hof entwischt. Ob er noch andere Kleidungsstücke
 mitgenommen hatte, ließ sich so in aller Eile nicht
 feststellen. Ich lief nach oben zu Harst, in der Tür
 zum Laboratorium prallten wir fast aneinander. Harst
@@ -497,7 +497,7 @@ und …«
 sich jetzt zum zweiten Male. Zuerst traten Sie für
 die Schuldlosigkeit »Meiers« sehr warm ein, dann fanden
 Sie ihn »unerhört einfältig«, — und jetzt redeten Sie
-wieder von »Dienst zu meiner vollsten zufriedenheit
+wieder von »Dienst zu meiner vollsten Zufriedenheit
 versehen,« — mir stößt derartiges auf, Fräulein Bartsch,
 und Sie können mir glauben, wenn mir etwas auffällt,
 steckt immer etwas dahinter! — Ich werde telephonieren.«
@@ -623,7 +623,7 @@ dem Chauffeur, hinter uns herzufahren. Wir schritten
 die Nürnberger Straße hinab, Gerda zwischen uns, und
 von ihr erfuhren wir jetzt genaueres über die drei
 Todesfalle in Nizza und Monte. Sie hatte sich wieder
-einigermaßen gefast, und ihre Bewegungen hatten wieder
+einigermaßen gefaßt, und ihre Bewegungen hatten wieder
 das Lässige, Federnde, das den tadellos trainierten
 Körper verriet.
 
@@ -981,7 +981,7 @@ Mann mit einer billigen Perücke über dem haarlosen
 Schädel und vorbildlicher Schweigsamkeit. Er war erst
 vor einem Jahr nach Berlin versetzt worden, hatte zuerst
 im Spieler-Dezernat gearbeitet und war nun Lückes Reserve-Mordkommission
-zugeteilt worden. Er sah aus wie ein lederleidender
+zugeteilt worden. Er sah aus wie ein leberleidender
 kleiner Schuster.
 
 Wir tranken Mokka, Kognak, aßen allerlei Konserven,
@@ -1144,7 +1144,7 @@ an ihrer Unschönheit verloren.
 Sie deutete auf ein paar Stühle und spielte wieder
 mit dem Bleistift.
 
-Lüke trat dicht an den Schreibtisch heran. »Es
+Lücke trat dicht an den Schreibtisch heran. »Es
 ist etwas sehr dunkel hier … Waren Sie heute abend
 noch ausgegangen?«
 
@@ -1478,7 +1478,7 @@ der neben seinem Bett saß. Ich lehnte daneben am Spiegelschrank.
 
 »Ich vermutete einen neuen Versuch, meinen Tresor
 im Arbeitszimmer zu erbrechen,« gab er mit matter Stimme
-an. »Um den Tresor nicht zuwecklos  demolieren zu lassen,
+an. »Um den Tresor nicht zwecklos demolieren zu lassen,
 öffnete ich ihn und entfernte alle wertvollen Andenken
 und ließ ihn offen.«
 
@@ -1605,7 +1605,7 @@ handfeste Artikel haben … *Die* Unkosten müssen gedeckt
 werden.« Er zeigte auf seine zerrissenen Beinkleider.
 »Ihre Bodenluken sind keine Salontüren … Und auf dem
 Dach müssen sie einen Promenadenweg anlegen. Aber der
-Kognat ist gut.«
+Kognak ist gut.«
 
 Er trank den zweiten.
 
@@ -1636,7 +1636,7 @@ und zog die Tür zu.
 
 »Garka, pellen sie sich aus — fix!!«
 
-Der Reporter stierte Harfst noch immer ungläubig
+Der Reporter stierte Harst noch immer ungläubig
 an. »Gratuliere, es scheint Ihnen ja bereits sehr gut
 zu gehen — sehr gut!«
 
@@ -2306,7 +2306,7 @@ war selbstlos. Fremde Leute sorgten für das Kind, —
 der Großvater galt für sie als tot, bis … bis eben
 die Teebüchse auftauchte.«
 
-»Davon bereife ich verdammt wenig!« polterte Lücke
+»Davon begreife ich verdammt wenig!« polterte Lücke
 heraus. »Wenn Sie schon das Wort »Teebüchse« in den
 Mund nehmen, kribbeln mir die Nerven.«
 
@@ -2316,7 +2316,7 @@ Mund nehmen, kribbeln mir die Nerven.«
 Der verschlafene Chauffeur der Taxe war froh,
 noch eine Fuhre zu bekommen.
 
-»Dahlem, Rotterstraße,« befahl Harft.
+»Dahlem, Rotterstraße,« befahl Harst.
 
 Zum Glück war es kein Benzinaffenkäfig, sondern
 ein großer Viersitzer.
@@ -2419,7 +2419,7 @@ weise lag es zwischen Geschäftspapieren auf dem Schreibtisch
 der Resi Bartsch.«
 
 »Wirklich?! Das ist allerdings sehr merkwürdig.
-Wie kommt diese … Dame zu Papas Photogrphie?« Sie füllte
+Wie kommt diese … Dame zu Papas Photographie?« Sie füllte
 die Likörgläser.
 
 »Ich fürchte,« sagte Harst leise, »ich werde Resi
@@ -2602,7 +2602,7 @@ auf andere Art, — mein Wort darauf!«
 
 Dieser Mut war verraucht.
 
-Gerda führ zurück …
+Gerda fuhr zurück …
 
 »Sie … Sie wollen mich töten?! Das … das wäre
 … feige! Das wäre …«
