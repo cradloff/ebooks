@@ -172,13 +172,13 @@ Adelheid schnell. »Großmutter öffnet nicht, und …«
 Bomst verneigte sich leicht. »Entschuldigen Sie mein
 Kostüm … Der Kellnerfrack stand mir besser.« Er lächelte
 bitter. »Weshalb öffnet sie nicht, Adi?!« Er schaute
-im das Zimmer hinein und schrak merklich zusammen. —
+in das Zimmer hinein und schrak merklich zusammen. —
 
 Fünf Minuten später hatten wir die Zimmertür mit einem
 Bohrer und einem Draht geöffnet. In dem Sessel am Fenster
 lehnte eine alte Frau in einem perlenbestickten uralten
 Seidenkleid mit viel billigem Spitzenschmuck. Ihr Kopf
-hing schief. Sie wir tot. Das faltige, strenge Gesicht,
+hing schief. Sie war tot. Das faltige, strenge Gesicht,
 die trüben aufgerissenen Augen zeigten einen Ausdruck
 wilden Entsetzens. Noch nie sah ich ein Totenantlitz,
 daß so deutlich die allerletzte Erkenntnis widerspiegelte,
@@ -261,7 +261,7 @@ Als der behäbige Kreisarzt erschien, sagte er nur achselzuckend:
 Herrn Erich Güddickes Hauptvergnügen bestand darin,
 seine echt goldene Uhr aus dem 10-Mark-Basar dauernd
 aufzuziehen, um mit dem an diesem fragwürdigen Wertstück
-baumelnden dreifarbigen Bierzipfel prunken zu können.
+baumelnden dreifarbigen Bierzipfel<@refnote 1/> prunken zu können.
 Der liebe Gott mochte wissen, weshalb Siegfried Stahlbein
 ausgerechnet dieses Genie als Inspektor für unser Gut
 engagiert hatte. Güddicke mochte ja von der Stoppelhopserei
@@ -371,7 +371,7 @@ Nürnberg und Ingolstadt hätte es ihn beinahe erwischt
 Sie waren die ärgsten Konkurrenten in den beiden
 Reserve-Mordkommissionen, sie schnappten einander die
 Erfolge weg wie bissige Köter und waren im Grunde doch
-die dickste Freude, gaben es nur nie zu und gefielen
+die dickste Freunde, gaben es nur nie zu und gefielen
 sich in den leicht mißzudeutenden Rollen neidischer Lästerer.
 
 Es war eine wunderschöne Waldlichtung, auf der wir
@@ -402,7 +402,7 @@ und betonte, daß es wirklich ein Zufall gewesen, daß
 er seine kleine flache Momentkamera in der Tasche gehabt
 hätte. »Das Buch, das halb auf der herausgezogenen
 Schieblade lag, war ein französischer Roman im Urtext
-von Eugen Sue, eins der schlüpfrigsten Werke des Franzosen.
+von Eugen Sue<@refnote/>, eins der schlüpfrigsten Werke des Franzosen.
 Auf dem dreietagigen Bücherbrett an der Wand konnte
 ich noch feststellen, wo das Buch herausgezogen war.
 Es hatte dort in der wenig passenden Nachbarschaft
@@ -414,7 +414,7 @@ zum Schein hingelegt worden?«
 
 »Ja.«
 
-»Hm, mag sein, obwohl ich das mit recht verstehe. —
+»Hm, mag sein, obwohl ich das nicht recht verstehe. —
 Was sollten die acht Würfel?«
 
 Und jetzt erfuhr ich etwas, was auch mir völlig neu
@@ -470,7 +470,7 @@ und gebe ihm plötzlich X-Beine, dann kann er nicht
 laufen, er ist an O-Beine von Kindheit gewöhnt.«
 
 Die Sängerin wurde sichtbar. Sie hatte ein Körbchen
-in der Linken, pflügte Erdbeeren, ging tief gebückt
+in der Linken, pflückte Erdbeeren, ging tief gebückt
 und glänzte in allen Regenbogenfarben wie üblich. Aber
 Holzpantinen trug sie nicht, vielmehr sehr geflickte
 Spangenschuhe von unergründlicher Kouleur.
@@ -484,7 +484,7 @@ Sie stand da und lächelte unglaublich dumm. Ihre stockigen
 schwarzen Zähne ließen den stets offenen Mund noch
 größer erscheinen.
 
-»Ich geh’ schon,« sagte sie verlegen … »Ich bin mit
+»Ich geh’ schon,« sagte sie verlegen … »Ich bin mit’s
 Rad hergekommen, und der Förster kriegt mich nich …«
 
 Sie machte kehrt und schritt schwerfällig davon.
@@ -551,7 +551,7 @@ Papierstücke, die wie Papiersohlen aussehen, auf die
 Spuren. Es sind genaue Ausschnitte jener verdächtigen
 Fährte unter dem angelehnten Fensterflügel.«
 
-Bechert und ich entdeckten das, was wir zu diesen Vergleich
+Bechert und ich entdeckten das, was wir zu diesem Vergleich
 brauchten, zwanzig Schritt nach Osten zu im Walde an
 einer kahlen, lehmigen Senkung.
 
@@ -616,7 +616,7 @@ nirgends eine noch so schwache Fährte.
 
 Dieser Anschlag auf uns bewies weiter, daß der Betreffende,
 ob nun Mann oder Weib, niemals in Kreisen zu suchen
-war, denen zum Beispiel Marie Kunze an- gehörte. Für
+war, denen zum Beispiel Marie Kunze angehörte. Für
 ein Stubenmädchen von ihrer Schlichtheit war es unmöglich,
 sich eine Dynamitpatrone mit einem Druckzünder zu verschaffen.
 Hier war eben eine höhere Intelligenz am Werke, und
@@ -742,7 +742,7 @@ die Angelkähne. Auch der vielbeschäftigte Stahlbein
 huldigte, wie er uns mal verschämt mitgeteilt hatte,
 dem Angelsport und besaß auch drüben ein Sommerhäuschen.
 
-Wir führen im Auto nach Norden um den See und hielten
+Wir fuhren im Auto nach Norden um den See und hielten
 vor dem Restaurant. Eine Nachfrage bei dem Inhaber
 hatte auch keinerlei Erfolg. Auf der Straße der kleinen
 Kolonie trafen wir dann unseren »Freund« Siegfried
@@ -801,8 +801,8 @@ wappengeschmückte Gestühl gegenüber der Kanzel. Hier
 auf diesen Plätzen hatten die Herren von Bomst-Bomstel
 feierlich steif mit ihren Angehörigen den Worten über
 Demut und Nächstenliebe gelauscht und dann daheim gepraßt
-und gesündigt und das Erbe fleißigerer Väter leicht
-fertig vertan. Dicke verschossene Samtvorhänge umgaben
+und gesündigt und das Erbe fleißigerer Väter leichtfertig
+vertan. Dicke verschossene Samtvorhänge umgaben
 diesen adligen Käfig, auf den schrägen Banktischen
 lagen noch Gesangbücher mit dicken elfenbeinernen oder
 metallenen Einbänden von vielleicht hohem Kunstwert,
@@ -836,7 +836,7 @@ abgeschlossen.
 »Wozu das, Harald?!« Ich flüsterte, denn in dieser
 Umgebung wäre jeder laute Ton eine Nervenpein gewesen.
 
-Er reckte wieder den Arm aus, und mit eisernen Griff
+Er reckte wieder den Arm aus, und mit eisernem Griff
 drückte er mich tief unter die Bank und …
 
 Dicht vor uns ein nie geahntes hartes blechernes Klopfen
@@ -1030,7 +1030,7 @@ Gespräch mit dem kleinen  feschen Kriminalassistenten
 Wendt, begrüßten diesen herzlich und wandten uns dem
 Pfarrhause zu. Wendt schritt mit Harst voraus, die
 beiden sprachen sehr eifrig miteinander, dann bat Wendt
-seinen Vorgesetzten Becher beiseite, und Harst und
+seinen Vorgesetzten Bechert beiseite, und Harst und
 ich betraten das Pfarrhaus, um den Schlüssel der Kirche
 wieder abzuliefern.
 
@@ -1058,7 +1058,7 @@ Bremen, sehr reich, trotzdem der nunmehr Verstorbenen
 als Schwiegertochter nicht willkommen, wie ich selbst
 mehrfach aus dem Munde der alten Dame hörte. Diese
 Frau Erna von Bomst, geboren Kaldenhoven, verstarb,
-als im kaum ein Jahr hier in Bomstdorf amtierte. Sie
+als ich kaum ein Jahr hier in Bomstdorf amtierte. Sie
 war lungenleidend, lebte zumeist in der Schweiz, in
 Davos und kehre erst als Todeskandidatin heim, hielt
 sich hier nur eine Woche auf, begab sich in ein Sanatorium
@@ -1069,14 +1069,14 @@ nachtrauerte, als er nach vier Jahren bei einer Treibjagd
 ums Leben kam, nachdem er nochmals geheiratet hatte.
 Auch seine zweite Frau mißfiel der alten Dame gründlich,
 da sie aus einer adligen Familie jüngsten Datums stammte,
-— doch das interessiertet Sie wohl kaum.«
+— doch das interessiert Sie wohl kaum.«
 
 »Nicht sonderlich … Nur — wo blieb denn das große Vermögen
 der geborenen Kaldenhoven?!«
 
 Der Pfarrer hob die Hände zu einer vieldeutigen Geste.
-»Das weiß so recht niemand,« Herr Harst. Tatsache ist,
-das Frau Erna, geborene Kaldenhoven, als Kind einer
+»Das weiß so recht niemand, Herr Harst. Tatsache ist,
+daß Frau Erna, geborene Kaldenhoven, als Kind einer
 Bremer Patrizierfamilie viel zu praktisch dachte, als
 daß sie ihr Geld etwa den kostspieligen Extravaganzen
 ihres Mannes zur Verfügung gestellt hätte. Im Gegenteil,
@@ -1175,7 +1175,7 @@ dazu fehlten ihr die Sprachkenntnisse. Ich besuchte
 sie häufiger, besonders nach ihrer Übersiedlung in
 das Parkhaus, — die Versteigerung des Gutes hatte sichtlich
 ihren Geist verwirrt, sie redete allerlei, was ich
-nicht begriff, anderseits lies sie durch mich an ihre
+nicht begriff, anderseits ließ sie durch mich an ihre
 beiden Enkelkinder depeschieren, das war vor … ja,
 vor einer Woche, — nach Basel, und Adelheid und Horst
 trafen denn auch vorvorgestern ein und machten mir
@@ -1190,7 +1190,7 @@ die letzte Ehre erweisen.«
 — Als wir das Pfarrhaus verließen, begegneten wir den
 Geschwistern, die von dem Geistlichen den Kirchenschlüssel
 holen wollten, da Horst von Bomst die Absicht hatte,
-auch diese Nacht bei der Leiche Totenwache zuhalten.
+auch diese Nacht bei der Leiche Totenwache zu halten.
 Sie waren schwarz gekleidet, trugen Tannenkränze und
 zeigten keinerlei übertriebene Trauer. Horst von Bomst
 meinte in seiner kühl-bescheidenen Art, es sei in seiner
@@ -1207,7 +1207,7 @@ zu mir, indem er seinen Arm in den meinen schob:
 Motiv des Mordes gefunden. Es geht hier um das Millionenvermögen
 Erna Kaldenhovens, und auch der Täter und seine Verbündeten
 scheinen entdeckt worden zu sein — scheint. Wendt erzählte
-mir vorhin, daß dieser Güddicke ihm, als wir kaum die
+mir vorhin, daß dieser Güddicke ihn, als wir kaum die
 Durchsuchung des Kirchleins begonnen hatten, unter
 einem Vorwand von der Kirchentür hinter die Kirche
 auf den Friedhof geschickt habe … Wendt merkte, das
@@ -1248,7 +1248,7 @@ Geschöpf an einem verbrecherischen Unternehmen von
 der Unklarheit dieses »Würfel-Falles« beteiligt sein
 sollte. Und doch sprachen untrügliche Beweise dafür.
 Die Kunze hatte die Würfel im Walde heimlich geknipst,
-die Fußspuren vor dem Fenstern des Parkhauses und die
+die Fußspuren vor den Fenstern des Parkhauses und die
 des Mädchens waren bestimmt die gleichen, nur sie konnte
 die Greisin getötet haben. Hätte nun lediglich ein
 brutaler Mord mit einer einfachen Waffe vorgelegen,
@@ -1266,7 +1266,7 @@ in aller Stille vergrößert und uns auch unschwer solche
 der Kunze beschafft. Beide Art Fingerspuren waren die
 gleichen. Die Beweiskette war so gut wie geschlossen.
 Trotzdem hatte Harst dringend vor raschem Zugreifen
-gewarnt. Becher war einverstanden, vorerst noch abzuwarten,
+gewarnt. Bechert war einverstanden, vorerst noch abzuwarten,
 denn die Motive der Tat lagen noch allzu sehr in Dunkel
 gehüllt. Mit der Vermutung, es handele sich bei alledem
 um das Vermögen Erna Kaldenhovens, war nicht viel anzufangen.
@@ -1281,13 +1281,13 @@ Würfel-Frage gelöst hatten. Wendt und der zweite Kriminalassistent,
 die sich drüben in der Kolonie am See eingemietet hatten,
 würden Stahlbein nicht aus dem Auge lassen, und wir
 hier im Herrenhaus überwachten Güddicke und Marie.
-Das diese ebenfalls nur genau wie der »Kipp-Erich«
+Daß diese ebenfalls nur genau wie der »Kipp-Erich«
 eine sorgfältig einstudierte Rolle spielte, konnte
 kaum mehr bezweifelt werden.
 
 Nachdem Marie den Salon verlassen hatte, erhob sich
 Harst nach einer Weile und schlug Adelheid von Bomst
-und mir vor, einmal nach der Kirche hinüberzugeben.
+und mir vor, einmal nach der Kirche hinüberzugehen.
 
 Adelheid schritt schweigend zwischen uns dahin, — irgend
 etwas schien sie zu bedrücken, und in ihrer so sympathisch-ehrlichen
@@ -1318,7 +1318,7 @@ das verschwundene Millionenvermögen Ernas wieder aufzufinden. Sprecht
 jedoch zu niemandem hierüber. Ein seltsamer Zufall hat mich in
 dieser Angelegenheit auf eine schwache
 Spur gebracht. Sobald Aussicht besteht, daß diese Hoffnung
-verwirklicht werden kann, erfahrt Ihr genaueres. Vergeßt
+verwirklicht werden kann, erfahrt Ihr Genaueres. Vergeßt
 den alten Groll zwischen uns, ich kann euch nur versichern, daß
 ich euch absichtlich so jung in die Welt hinausschickte, damit
 ihr lerntet, auf eigenen Füßen zu stehen und ehrlich zu arbeiten. Ich
@@ -1379,7 +1379,7 @@ Wir wanderten der Ersparnis halber von der Bahnstation
 zu Fuß zum Parkhaus, überraschten Großmama mit den
 acht Würfeln, die jetzt leider verschwunden sind, und
 nur Horsts energischem Drängen war es zu danken, daß
-sie uns dann dies Wenige mitteile. Wir erfuhren auch
+sie uns dann dies Wenige mitteilte. Wir erfuhren auch
 nicht eine Silbe mehr von ihr, sie verschanzte sich
 stets hinter der fadenscheinigen Ausrede, derart wichtige
 Dinge solle man allmählich ausreifen lassen. — Ja,
@@ -1409,7 +1409,7 @@ irgendeiner unbekannten Gefahr. Wenn nun dieser so
 überaus geschäftstüchtige, redselige, fixe Siegfried
 Stahlbein nicht genügend scharf überwacht worden ist,
 wenn er Wendt und dessen Kollegen sich entzog und neuerdings
-mit einer Pistole 9.er Schnellfeuerübungen im großen
+mit einer Pistole hier Schnellfeuerübungen im großen
 abhielt und die erledigte, die ihm sichtlich unbequem
 waren, und auch nachher den eingeweihten Beamten auf
 den Leib rückte, wenn er eben restlos ganze Arbeit
@@ -1500,7 +1500,7 @@ blickte die blonde Adelheid erwartungsvoll an.
 —  man wird mich deshalb noch umbringen!« Alle Fragen
 unserseits, hierüber doch Näheres zu erklären, waren
 vergeblich. Wir gewannen daher irrigerweise den Eindruck,
-Großmaas Geist habe zuweilen nicht mehr die Fähigkeit,
+Großmamas Geist habe zuweilen nicht mehr die Fähigkeit
 …«
 
 »Still!«
@@ -1535,7 +1535,7 @@ trotzdem einen leisen Schrei aus …:
 
 »Schweig’ doch!« fuhr Horst von Bomst sie unwirsch
 an. »Gewiß, es ist Großmamas Katze, — seit gestern
-war sie verschwunden, nein, schon seit vorgestern …
+war sie verschwunden, nein, schon seit vorgestern …«
 
 Harst rührte sich nicht. Die Katze blinzelte uns an,
 tat dann einen langen Satz nach rückwärts und verschwand
@@ -1569,7 +1569,7 @@ doch zweifellos darauf hin.«
 ich nichts behaupten will …«
 
 Die weitere Aussprache hatte denn auch keinerlei Ergebnis,
-das dunkel um das verschwundene Vermögen jener so tief
+das Dunkel um das verschwundene Vermögen jener so tief
 verbitterten Erna von Bomst-Kaldenhoven blieb undurchdringlich,
 und nach einer weiteren Viertelstunde verabschiedeten
 wir uns von Horst von Bomst und kehrten zum Herrenhause
@@ -1603,7 +1603,7 @@ in die Kirche hinein? — Das sind zwei Fragen, die vielleicht
 alles umstoßen!«
 
 Ich war derart erstaunt über diese seltsamen Äußerungen,
-das ich gar nicht bemerkte, wie der kleine Wendt schattengleich
+daß ich gar nicht bemerkte, wie der kleine Wendt schattengleich
 neben uns erschien.
 
 »Sie entwickelt den Film,« flüsterte er hastig. »Kommen
@@ -1667,7 +1667,7 @@ Fritz Bechert fragte nichts, beugte sich nur über die
 Bewußtlose und leuchtete ihr mit seiner Taschenlampe
 ins Gesicht.
 
-Ungefährlich,« erklärte Harst und beobachtete seinerseits
+»Ungefährlich,« erklärte Harst und beobachtete seinerseits
 Becherts ein wenig sonderbares Verhalten. Als dieser
 nun ein Taschentuch hervorzog und dazu eine flache
 Büchse, fügte Harst hinzu:
@@ -1718,7 +1718,7 @@ kam im Boot herüber …«
 
 Harst schrak sichtlich zusammen.
 
-»Hoffentlich gehen sie nicht in die, Kirche …« Er wandte
+»Hoffentlich gehen sie nicht in die Kirche …« Er wandte
 sich rasch an Wendt. »Bleiben Sie hier, Wendt. Nehmen
 Sie Ihre Dienstpistole und machen sie den Zeigefinger
 rechtzeitig krumm, schließen Sie auch hinter uns ab
@@ -1732,7 +1732,7 @@ und Rindern waren die einzigen Geräusche in dieser
 silberklaren Mondnacht. Die Mondscheibe war inzwischen
 über die Wipfel des Parkes emporgeschlichen und streute
 ihren milden Glanz über die Ärmlichkeit dieses ebenfalls
-so verwilderte, unordentlichen Hofes, auf dem Ackerwagen,
+so verwilderten, unordentlichen Hofes, auf dem Ackerwagen,
 Eggen, Pflüge und eine gänzlich verrostete Lokomobile
 fast zwecklos unterstanden.
 
@@ -1882,8 +1882,8 @@ auszutilgende Gefühl der eigenen Erniedrigung durch
 eine Tätigkeit, die weder ihrem Bildungsgrade, noch
 weniger dem im geheimen stets wachen Hochmut einer
 bevorzugten Kaste entsprach, — also Zwittergeschöpfe,
-aus der Bahn geschleudert, vielleicht von glühenden
-Haß gegen das Schicksal erfüllt und stets bereits,
+aus der Bahn geschleudert, vielleicht von glühendem
+Haß gegen das Schicksal erfüllt und stets bereit,
 dieses Geschick rücksichtslos zu meistern!
 
 Vielleicht …
@@ -1899,7 +1899,7 @@ Marie Kunze, die so gut mit der Momentkamera umzugehen
 wußte und die dann geholfen oder doch gewußt hatte
 von jenem tückischen Sprengzylinder …
 
-Genau wie Erich Güddicke auch, der mit seinen schmissen,
+Genau wie Erich Güddicke auch, der mit seinen Schmissen,
 seinem Bierzipfel, seiner »goldenen« Uhr und seiner
 Überhöflichkeit kokettierte und dennoch nicht  genügend
 Verstellungskunst besaß, seine Rolle unbeirrt durch
@@ -1984,7 +1984,7 @@ von Bomst hatte *nicht* geschlafen, sein rechter Schuh
 zeigte an der Innenseite und am Absatz noch eine leichte
 Lehmkruste.
 
-Bevor er sich wieder ausgerichtet hatte, war ich einen
+Bevor er sich wieder aufgerichtet hatte, war ich einen
 Schritt zurückgetreten und schob wie fröstelnd beide
 Hände in die Taschen meiner derben Sportjacke. Es beruhigte
 meinen etwas beschleunigten Puls fast augenblicklich,
@@ -2007,14 +2007,14 @@ Es erschien mir nicht angebracht, den heimtückischen
 Schuß auf Marie Kunze gänzlich abzuleugnen.
 
 »Kriminalkommissar Bechert — Sie wissen über ihn bereits
-Bescheid — wünschte, das von dieser ländlichen Eifersuchtskomödie,
+Bescheid — wünschte, daß von dieser ländlichen Eifersuchtskomödie,
 die freilich leicht auch Tragödie hätte werden können,
 nicht viel Aufhebens gemacht würde. Das Hausmädchen
 Marie Kunze scheint da von einem verschmähten Liebhaber
 überfallen worden zu sein, und Bechert meinte, der
 Betreffende sei hier in dieser Richtung geflüchtet.«
 
-»Bomst kniff die dunklen Augen klein und starrte gedankenvoll
+Bomst kniff die dunklen Augen klein und starrte gedankenvoll
 auf den Sarg.
 
 »Ist … sie tot?« fragte er durchaus uninteressiert.
@@ -2039,7 +2039,7 @@ beschlich mich, daß diese beiden Männer aus irgendwelchen
 Gründen von Bomst *auch* erledigt worden sein könnten,
 — bei Marie Kunze war’s ihm mißglückt, — diesem Burschen
 da vor mir in der scheinheiligen Trauertracht konnte
-man jede Untat zutrauen. Für mich stand es fest, das
+man jede Untat zutrauen. Für mich stand es fest, daß
 auch er es gewesen, der die Tote derart brutal verstümmelt
 hatte. Jeglicher Verdacht gegen den fixen, redseligen,
 o-beinigen Stahlbein war längst zerstreut, mochte der
@@ -2080,7 +2080,7 @@ lagen noch französische Romane dicht an die Wand gepreßt.«
 
 Bomst erhob sich rasch und stützte sich auf die Brüstung.
 
-»Glaubt Ihr Freund, das der schwarze Würfel irgendwie
+»Glaubt Ihr Freund, daß der schwarze Würfel irgendwie
 zu dem Geheimnis der anderen Würfel in Beziehung steht?«
 
 Ich log nicht, als ich erwiderte: »Harst mag das Ding
@@ -2145,7 +2145,7 @@ harmloser Schacherer, daß …«
 
 »Oh — man täuscht sich oft … Wir wissen bestimmt, Herr
 von Bomst — aber bitte allerstrengste Diskretion —,
-daß gestern am spätnachmittag der Inspektor Güddicke,
+daß gestern am Spätnachmittag der Inspektor Güddicke,
 den wir an der Kirchentür postiert hatten, diesen Stahlbein
 heimlich aus der Kirche entschlüpfen ließ!! Unglaublich,
 wie …!!«
@@ -2239,8 +2239,8 @@ für eine Katze geeignet ist.«
 Seltsam, die Erwähnung der Katze ließ Bomst wieder
 aufleben.
 
-»Das Vieh!!« zischte er wütend. »Das auch das elende
-Vieh hier auftauchen mußte!«
+»Das Vieh!!« zischte er wütend. »Daß auch das elende
+Vieh hier auftauchen mußte!!«
 
 »Ja, und mit dem Strick um den Hals, — das war das
 Entscheidende, Bomst … — oder besser *nicht* »Bomst«,
@@ -2293,8 +2293,8 @@ sie also hier hinein gelangt?! — Nun, ich hoffe, wir
 werden jetzt den Weg finden, auf dem sie gestern verschwanden,
 Gramsch, nachdem Sie uns so nachdrücklich beschossen
 hatten. Das Poltern, das wir hörten, führte mich auf
-die falsche Spur, im glaubte, sie wären durch die Gewölbe
-entkommen … — stehen Sie auf! — Vorwärts — — oder wir
+die falsche Spur, ich glaubte, Sie wären durch die Gewölbe
+entkommen … — Stehen Sie auf! — Vorwärts — — oder wir
 helfen nach.«
 
 Harst schritt zur Kirchentür, neben der links die Treppe
@@ -2361,8 +2361,8 @@ Marie Kunzes Kammer, — ich hielt mich nicht lange auf,
 das Mädchen war bei Bewußtsein, und im Galopp stürmte
 ich durch den jetzt mondhellen Park zum einsamen Wohnhause
 der verblichenen Frau von Bomst. Eine innere Stimme
-sagte mir, das »Adelheid« bereits irgendwie gewarnt
-worden war, das sie geflüchtet wäre, — ich eilte am
+sagte mir, daß »Adelheid« bereits irgendwie gewarnt
+worden war, daß sie geflüchtet wäre, — ich eilte am
 Parkhaus vorüber bis zum Rande der Seeböschung.
 
 Meine Augen sind nicht die besten, und doch erspähte
@@ -2467,7 +2467,7 @@ des Todes der Frau Hortensie von Bomst.
 
 Die beiden falschen Geschwister waren spät abends im
 Parkhaus eingetroffen und hatten die Greisin, die natürlich
-sofort den Betrug merkte, überwältigt und ge- fesselt
+sofort den Betrug merkte, überwältigt und gefesselt
 und durch Drohungen gezwungen, das Geheimnis des Deckels
 der Würfel-Bonbonniere preiszugeben und am Tage wie
 gewöhnlich in ihrem Sessel am Fenster zu bleiben, aber
@@ -2546,11 +2546,11 @@ auf der Spur war … Gesucht werden Sie ja von allen
 Seiten, Alma Dunkert. Lücke erfuhr an der Unfallstelle,
 daß zwei Reisende eine Brieftasche unter den Trümmern
 gefunden und mit ihr spurlos und eiligst verschwunden
-waren. Er depeschierte nach Berlin, das ein Herr von
+waren. Er depeschierte nach Berlin, daß ein Herr von
 Bomst die Brieftasche vermisse, und das Berliner Präsidium
 telegraphierte an Bechert, — so erfuhren wir Ihre wirklichen
 Namen. Sie sehen, der Zufall oder besser das zufällige
-Eingreifen Lückes, der eigentlich Urlaub hatte, erleichtere
+Eingreifen Lückes, der eigentlich Urlaub hatte, erleichterte
 uns hier die Arbeit ganz wesentlich.«
 
 Die Dunkert kicherte höhnisch.
@@ -2600,7 +2600,7 @@ fiel vor Wut in Schreikrämpfe. —
 — Daß Bomstdorf heute wieder den Bomst-Bomstel gehört,
 daß für Bechert, Lücke, Wendt und Golm sowie die übrigen
 Helfer und Vertrauten der Geschwister erhebliche Sümmchen
-gespendet wurden, das der o-beinige Stahlbein seitdem
+gespendet wurden, daß der o-beinige Stahlbein seitdem
 noch redseliger ist und das Dorfkirchlein gründlich
 renoviert wurde, — eigentlich selbstverständlich.
 
