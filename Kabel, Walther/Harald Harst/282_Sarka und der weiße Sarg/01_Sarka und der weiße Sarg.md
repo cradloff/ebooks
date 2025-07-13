@@ -43,7 +43,7 @@ getrunken gehabt, — — Bierlaune!!«
 
 »Das würde er denn doch nicht wagen,« erklärte ich zum
 soundsovielten Male, und ich war auch wirklich überzeugt,
-daß Otto Sarka, »Reporter bei der »Nachtpost«, Berlin,
+daß Otto Sarka, Reporter bei der »Nachtpost«, Berlin,
 niemals trotz seiner mannigfachen losen Streiche selbst in
 Pilsener-Laune die Frechheit aufbrächte, uns derart zum
 Narren zu halten.
@@ -141,9 +141,9 @@ Das Fräulein am Schreibtisch blätterte in ihren Papieren
 und seufzte schmerzlich.
 
 »Zimmer 24 … bitt’ schön, — aber der Herr ist leidend,
-die Eisenbahnfahrt ist ihm, scheint’s, Schlecht bekommen …
+die Eisenbahnfahrt ist ihm, scheint’s, schlecht bekommen …
 Er schläft, bitt’ schön, — einen Arzt wollt’ er nicht haben, er
-hat zu mir gesagt, das san So zuweilen Anfälle bei ihm, die
+hat zu mir gesagt, das san so zuweilen Anfälle bei ihm, die
 gingen vorüber, bitt’ schön — also Zimmer 24, die Herren,
 der Schlüssel hängt dort …«
 
@@ -159,7 +159,7 @@ Weste, Jacke, Kragen, Krawatte, aber mit feudalen braunen
 Halbschuhen mit weißen Steppnähten, Seidensocken und sehr
 modernen gelbbraunen Flanellhosen und farbenfrohem seidenem
 Oberhemd der bedauernswerte Patient den Mund halb
-offen, unheimlich Schnarchend, die Hände über dem minimalen
+offen, unheimlich schnarchend, die Hände über dem minimalen
 Bauche gefaltet, und an diesen Händen, besser am linken
 kleinen Finger funkelten zwei kostbare Brillantringe …
 
@@ -179,7 +179,7 @@ nur die alles erklärenden Worte:
 Für Leser, die Abstinenzler sind, gestatte ich mir zu bemerken,
 daß das »Mäuse-Stadium« bei Nichtabstinenzlern den
 äußersten Grad von Betrunkenheit darstellt, das gefürchtete
-»Mäuse-Sehen.« — Ich Sah schon häufiger »Mäuse«, muß
+»Mäuse-Sehen.« — Ich sah schon häufiger »Mäuse«, muß
 ich zu meiner Unehre gestehen. Das dürfte jedoch niemand
 weiter interessieren, das sind Privatangelegenheiten und
 -ungelegenheiten.
@@ -207,7 +207,7 @@ sind immer einwandfrei.
 
 Harst ignorierte den billigen Witz. »Es war sehr leichtfertig
 von der Hotelsekretärin, den Schlüssel am Schlüsselbrett
-hängen zu lassen …!« Und Sein überaus ernster Ton
+hängen zu lassen …!« Und sein überaus ernster Ton
 benahm mir jegliche Luft zu neuen Anspielungen auf Ottochens
 Alkoholzustand.
 
@@ -222,7 +222,7 @@ an … Aufgesprengt mit einem dünnen Stemmeisen.«
 
 Er schloß die Koffer und winkte mir. »Kathi wird warten,
 komm nur, mein Alter, es ist nicht gerade notwendig, daß der
-Verdacht, Stemmeisen zu Solchen Zwecken zu benutzen, auf
+Verdacht, Stemmeisen zu solchen Zwecken zu benutzen, auf
 uns fällt.«
 
 Wir verließen Nr. 24, und obwohl ich vieles zu fragen
@@ -274,7 +274,7 @@ sehr gelehrte Dinge, die in jedem Reiseführer stehen, und
 dieses finstere Ekel von Nachbar saß noch immer an seinem
 Tisch und kaute mit prächtigen Hauern ein blutiges Rindsfilet
 und trank einen Syphon mit ganz wenig Rotwein und
-kümmerte sich um gar nichts,
+kümmerte sich um gar nichts.
 
 Mein Schienbein schmerzte, Kathi brachte den Nachtisch,
 <@pagebreak/>
@@ -293,7 +293,7 @@ sich der Fremde, der in einem wunderbaren Sportanzug steckte,
 und schlenderte gemütlich davon. Er hatte sehr breite Schultern,
 sehr lange Arme, er ging etwa so wie ein Boxer dritter
 Güte, der durch jede Bewegung die verhaltene Kraft kundtun
-möchte,
+möchte.
 
 »Kathi, wohnt der hier?«, fragte Harald.
 
@@ -311,7 +311,7 @@ Lächeln. »Der Mann hatte frische Kratzwunden an den
 Händen … — Gehen wir.«
 
 Meinte Sherlock Holmes-Begabung brachte die Kratzwunden
-Sofort mit zwei mittels Stemmeisen erbrochenen Koffern
+sofort mit zwei mittels Stemmeisen erbrochenen Koffern
 in engste Verbindung.
 
 <@pagebreak/>
@@ -333,7 +333,7 @@ Unser Mann bummelte auf Umwegen zur Talfer-Brücke,
 die nach dem Badeteil von Bozen, Gries, führt. Auf der
 Brücke blieb er stehen und lehnte sich über das Geländer, sog
 an seiner Zigarre und betrachtete das wasserarme, steinige
-Flußbett, dem man es kaum Ansieht, daß es auch sehr heimtückische
+Flußbett, dem man es kaum ansieht, daß es auch sehr heimtückische
 Wassermassen in die Eisack wälzen kann.
 
 Wir drückten uns hinter ein Denkmalpostament vor der
@@ -362,11 +362,11 @@ in die Tiefe gefallen, gerade noch auf die Steine hart
 am Bachrand.« (Die Talfer wird Bach betitelt. Gleichgültig.)
 
 Was dann weiter geschah, verlieh dem Gorilla entschieden
-ein dickes Fragezeichen,
+ein dickes Fragezeichen.
 
 Der Mann überschritt die Brücke vollends, wandte sich
 nach links, stieg eine der Ufertreppen hinab und holte seinen
-Stock,
+Stock.
 
 Wir sahen alles ziemlich deutlich. Aber Harst pfiff leise
 durch die Zähne und schien noch mehr gesehen zu haben.
@@ -388,11 +388,11 @@ Rückenzeichnung … — Hallo, unser Freund eilt der Stadt
 wieder zu, — ziehen wir uns zurück, behalten wir ihn jedoch
 im Auge … Du hinter mir her, zwei fallen mehr auf als
 einer, und ich gebe dir Brief und Siegel: Der da hält das
-ganze Geheimnis des weißen Sarges in Seiner Hand!«
+ganze Geheimnis des weißen Sarges in seiner Hand!«
 
 Zunächst ereignete sich nichts Aufregendes.
 
-»Der Mann vor uns benutzte enge Seitengäßchen, durchschritt
+Der Mann vor uns benutzte enge Seitengäßchen, durchschritt
 die in Bozen häufigen, vor den alten Patrizierhäusern
 geheimnisvoll-halbdunkel mit wuchtigen Steinsäulen romantisch
 <@pagebreak/>
@@ -403,7 +403,7 @@ Sieben-Uhr-Geschäftsschluß kennt Italien nicht, jedenfalls nicht für
 Lebensmittel, überall diese phantastischen gemütlichen Bogenlampen,
 Lärm, Singen, Grammophons, Radiogeräusche, verschwiegene
 Zugänge zu behaglichen Weinstuben, Karabinieri
-in ihrer farbenfrohen Tracht, sämtlich sehr höflich, Sehr gemessen,
+in ihrer farbenfrohen Tracht, sämtlich sehr höflich, sehr gemessen,
 sehr schlank und stattlich. — Dann der Walther-Platz
 wieder: Militärkonzert wie jeden Abend, quirlende Menschenmassen,
 alles leicht beschwingt, alles still vergnügt, nirgends ein
@@ -448,7 +448,7 @@ Kassierer schaut uns sehr verdutzt an.
 »Ja, ich möchte die Polizei anrufen … Sie gestatten
 wohl …«
 
-Harst kann sehr kurz angebunden sein,
+Harst kann sehr kurz angebunden sein.
 
 Schon nach zehn Minuten, der erste Akt ist noch nicht zu
 Ende, wird aus jener Loge ganz still ein scheinbar Schlafender
@@ -465,9 +465,9 @@ worden?«
 Die noch anwesenden drei Kriminalbeamten (Bozen wimmelt
 von ihnen, meist gebieterischen Aufpassern) starren ihn
 hilflos an. Der Polizeiarzt scheint mit seiner Untersuchung
-fertig zu Sein und erklärt ebenso unsicher:
+fertig zu sein und erklärt ebenso unsicher:
 
-»Ich finde nichts Verdächtiges, Herr Harst.
+»Ich finde nichts Verdächtiges, Herr Harst.«
 
 »Und die feinen nassen Tröpfchen im Gesicht?«
 
@@ -489,7 +489,7 @@ Ganges mit ihrer Kollegin sich unterhalten.
 
 Signor Vantuppi ist jetzt durchaus wieder auf der Höhe.
 Einen nervösen Nichtskönner setzt diese Regierung nicht auf
-einen So verantwortungsvollen Posten.
+einen so verantwortungsvollen Posten.
 
 »Herr Harst«, sagt der liebenswürdige Chef mit etwas
 forschendem Blick auf die in dem Sessel sehr gelassen zurückgelehnte
@@ -499,11 +499,11 @@ nicht ganz unbekannt … Sind Sie … beruflich hier?«
 
 »Ich habe keinen Beruf, Herr Vantuppi«, erwiderte
 Harst harmlos. »Wir wollen weiter nach Venedig und haben
-hier in Bozen lediglich für einen Tag die Reise unterbrochen«
+hier in Bozen lediglich für einen Tag die Reise unterbrochen.«
 
 Der kleine Chef mit dem vollen schwarzen Haar und den
 hageren Zügen, die jetzt undurchdringlich blieben wie Bessemer
-Stahl, Fragte trotzdem noch, ob wir über den Toten vielleicht
+Stahl, fragte trotzdem noch, ob wir über den Toten vielleicht
 zufällig noch etwas wüßten. Er fragte das so im Plauderton,
 ohne jede verdächtige Färbung der angenehm weichen
 Stimme. Aber so gerissene Kunden wie wir sind stets auf
@@ -511,7 +511,7 @@ der Hut.
 
 »Der Herr wohnte wie wir im »Zentral« und aß neben
 uns im Vorgarten Abendbrot«, erklärte Harst ohne Zögern.
-»Er fiel uns auf, er hatte sehr markante Züge«
+»Er fiel uns auf, er hatte sehr markante Züge.«
 
 »Und dann?« Vantuppi betrachtete seine sehr schmalen
 Hände.
@@ -532,12 +532,12 @@ die Umstände dieses Giftmordes aufzuklären.«
 <@pagebreak/>
 Vantuppi lehnte am Schreibtisch und warf seinem Polizeiarzt
 ein paar halblaute italienische Worte zu — eine geringe
-Unhöflichkeit, da er wußte, daß wir das Italienische nur Sehr
+Unhöflichkeit, da er wußte, daß wir das Italienische nur sehr
 unvollkommen beherrschten.
 
 Harst erhob sich sofort aus dem Sessel. »Verzeihung,
 brauchen Sie uns noch?« Das war eine unmißverständliche
-Rüge, Vantuppi fühlte das, lenkte sofort ein und Sagte noch
+Rüge, Vantuppi fühlte das, lenkte sofort ein und sagte noch
 höflicher: »Ich wollte den Doktor nur zu Ihrem Landsmann
 Sarka ins Hotel schicken. Fremde Journalisten erfreuen sich
 bei uns im allgemeinen geringerer Beliebtheit, und die unsichtbare
@@ -546,7 +546,7 @@ ahnen, meine Herren.« Man hätte schon taub sein müssen,
 die versteckte Warnung nicht zu hören. »Ihr Landsmann
 traf krank hier ein, lehnte jede ärztliche Hilfe ab, und — —
 hier ist ein Raubmord verübt worden, woran auch ich nicht
-Länger zweifle.«
+länger zweifle.«
 
 Harst entgegnete prompt, und die Handbewegung, mit der
 er seine Worte unterstrich, war ein angesichts dieses Toten
@@ -554,7 +554,7 @@ sehr achtungsvoller Ersatz für ein heiteres Lächeln. »Die Diagnose
 bei Sarka lautet einwandfrei auf schwerste Trunkenheit.
 Sarka verträgt ungeheure Mengen Alkohol und wird
 niemals die Gewalt über seine Glieder verlieren, nur über
-sein Hirn,«
+sein Hirn.«
 
 Vantuppi und die anderen Italiener machten aus ihrer
 Verblüffung kein Hehl.
@@ -569,9 +569,9 @@ wenn nicht zwei weitere Beamte in Zivil eingetreten wären
 und ihm leise längere Meldungen erstattet hätten.
 
 Der Chef schickte sie wieder hinaus und befahl einem der
-drei anderen, die Taschen des Toten zu leeren,
+drei anderen, die Taschen des Toten zu leeren.
 
-Ich habe nun Ein sehr feines Gefühl für elektrisch geladene
+Ich habe nun ein sehr feines Gefühl für elektrisch geladene
 unklare Situationen. Mochte der Signore Chef sich
 <@pagebreak/>
 auch noch so tadellos in der Gewalt haben: Seine Züge waren
@@ -610,7 +610,7 @@ Wachszündhölzchen hin.
 
 »Man sollte einen guten Tabak nie durch Benzinfeuerzeug
 oder Paraffin gefährden«, sagte Harst ganz sachlich. »Ich
-benutzte nur immer einen Fidibus, — und er hatte in die Brusttasche
+benutzte nur immer einen Fidibus«, — und er hatte in die Brusttasche
 gefaßt und sehr flink ein Blatt Papier eng zusammengefaltet,
 nahm dem Chef das Hölzchen ab und hielt den Fidibus
 an die Flamme. Das Papier lohte auf, die Zigarette
@@ -673,7 +673,7 @@ richtiger gewesen. Der Mörder muß, obwohl sehr kühn, sehr
 viel schlechte Kriminalromane gelesen haben. Wer lenkt denn
 den Verdacht so plump auf andere, Herr Vantuppi?!«
 
-Jammerschade, daß der sonst so sympathische Chef So bockbeinig
+Jammerschade, daß der sonst so sympathische Chef so bockbeinig
 war.
 
 »Redensarten!!«, meinte er schroff. »Waren Sie nicht
@@ -689,9 +689,9 @@ daß sämtliche Fremde, die heute hier der Carmen-Vorstellung
 beiwohnen, sich genügend nach Theaterschluß ausweisen,
 notiert werden und daß das Theater bis dahin von
 niemandem verlassen werden darf? Das wäre doch die Nächstliegende
-Maßnahme gewesen,«
+Maßnahme gewesen.«
 
-Vantuppis sehr betretene Mine genügte als Antwort,
+Vantuppis sehr betretene Mine genügte als Antwort.
 
 »Und dann, Herr Vantuppi, — fragen Sie doch einmal
 den Kassierer und den Karabinieri vor dem Theater, ob nicht
@@ -868,7 +868,7 @@ Der Chef schob ihm rasch zwei Päckchen zu. »Sie werden
 zufrieden sein, Harst, — die Erlaubnisscheine und ein Ausweis
 für Sie beide als gern gesehene Helfer der Polizei sind
 auch mit dabei. — Weshalb seit gestern zehn Uhr?«, fragte
-er dann sehr interessiert,
+er dann sehr interessiert.
 
 Harst lächelte ein wenig. »Um zehn wurde die bewußte
 kleine Spritze mit dem Rest des Giftes gefunden — in unserer
@@ -892,7 +892,7 @@ bei solchen Herrschaften. Deshalb erbat ich von Ihnen die
 Waffen, deshalb werde ich hier auf der Straße nie den Mund
 auftun, wenn jemand in der Nähe ist, denn *die* Spritze wird
 nicht die einzige ihrer Art sein und läßt sich ganz versteckt
-handhaben, etwa von einem vorüberfahrenden Auto aus«
+handhaben, etwa von einem vorüberfahrenden Auto aus.«
 
 »Sie haben sehr gute Nerven«, sagte der Chef etwas
 beklommen. »Rechnen Sie wirklich mit einem Attentat?«
@@ -907,10 +907,10 @@ aber vorsichtig sein. — Die Liste darf ich wohl behalten?«
 
 »Gewiß. Und werden Sie etwas unternehmen, — ich
 meine, werden Sie mich weiter unterstützen?« Vantuppis Frage
-war mehr ein Flehen,
+war mehr ein Flehen.
 
-»Natürlich. — Hören Sie mal genau hin, Vantuppi«
-—« und Harst beugte sich vor und sprach noch leiser und entwickelte
+»Natürlich. — Hören Sie mal genau hin, Vantuppi …«
+— und Harst beugte sich vor und sprach noch leiser und entwickelte
 einen Plan, der den Signore Chef in maßloses Erstaunen
 versetzte.
 
@@ -923,7 +923,7 @@ Er schritt davon, er wußte bisher nichts von Sarkas
 *Venedig*-Depesche, nichts von Garrings Hand und deren
 Bedeutung, nichts von den acht Importen und den genau
 fünfzig Diamanten. — Ich wußte das alles, aber was Harst
-*noch* ich wußte, wußte auch ich nicht … —
+*noch* wußte, wußte auch ich nicht … —
 
 Es wurde ein geruhsamer Vormittag. Wir blieben im
 Hotel, aßen um ein Uhr in Kathis Revier ein solides Mittag
@@ -941,7 +941,7 @@ wir wieder gewissermaßen gefeit, da das ganze Hotel wußte,
 daß wir mit der Drahtseilbahn auf den Colle, zu deutsch
 Kohlern, wollten und da der mit Vantuppi vereinbarte Plan
 sich auf die Vermutung aufbaute, jene Mördersippe würde
-die Spione auch in das »Zentral« eingeschmuggelt haben,
+die Spione auch in das »Zentral« eingeschmuggelt haben.
 
 Im Vorraum des kleinen Bahngebäudes warteten außer
 uns nur sechs Personen, drei waschechte Tiroler aus den
@@ -958,7 +958,7 @@ der Tiroler Zugspitz-Bahn (von Ehrwald aus), — hier gibt
 es keine kahlen, ungeheuren Abgründe, hier blickt man senkrecht
 nur auf kleine Schutthalden, Wälder, Büsche und besonders
 Nadelbäume, über deren Wipfel der Schwebewagen oft
-So dicht hinweggleitet, daß man die Zweige greifen könnte.
+so dicht hinweggleitet, daß man die Zweige greifen könnte.
 Aber der Fernblick ist schon während der Auffahrt von großartigem
 Reichtum der Landschaftsbilder. Im Tale unten sieht
 man Bozen-Gries liegen, weiße Schneehäupter tauchen auf,
@@ -975,7 +975,7 @@ Minuten allerhöchster Nervenanspannung, es war fünfzehn
 Minuten lang ein Spiel mit dem Tode, und es geschah nichts,
 gar nichts. Vantuppi hatte seine Beamten ganz umsonst überall
 im Walde und an den Abhängen so gut versteckt, daß wir
-nicht einen einzigen sahen,
+nicht einen einzigen sahen.
 
 Diese Probe aufs Exempel war mithin ein Fehlschlag.
 Wir hatten uns den Gegnern sozusagen als Zielscheibe ganz
@@ -1007,13 +1007,13 @@ sie auf seinen Schoß, brachte sie wieder zum Vorschein und
 schob sie hinter den Tortenteller.
 
 Der Pistolenlauf war kaum zu bemerken, Harst behielt
-die Hand an dieser gefährlichen Servierte, und wir warteten.
+die Hand an dieser gefährlichen Serviette, und wir warteten.
 
 Nichts ereignete sich. Fünf Minuten verstrichen — zehn
 Minuten …
 
 »Sie haben Lunte gerochen«, sagte Harst bitter enttäuscht.
-»und es waren doch die beiden einzigen, die hier in Betracht
+»Und es waren doch die beiden einzigen, die hier in Betracht
 <@pagebreak/>
 kamen, Vantuppis Liste enthielt nur zwei Nummern, denen ich
 Beachtung schenkte.«
@@ -1023,9 +1023,9 @@ nur sehr biedere Namen und sonstige Angaben gefunden.
 
 »Frau Therese Nordeck, Rentiere, nebst Tochter Gitta,
 aus Berlin, seit gestern vormittag in Bozen, Hotel-Restaurant
-Funivio Colle, von Venedig eingetroffen, — und wir sitzen
+Funivia Colle, von Venedig eingetroffen, — und wir sitzen
 hier auf der Terrasse des Funivia Colle, mein Alter, sitzen
-hier Schon viel zu lange, ich werde mal nachsehen, was die
+hier schon viel zu lange, ich werde mal nachsehen, was die
 Damen dort auf ihrem Zimmer treiben, von dem aus man
 bequem an einem Strick durch das Fenster ein- und aussteigen
 kann, wenn man etwa heimlich ein Theater besuchen will —
@@ -1074,12 +1074,12 @@ Ich sehe nicht gern geistlose Züge, und damals wird in dem
 meinen sicherlich kein Geist zu entdecken gewesen sein!
 
 Also eine … alte Flinte als Fensterstütze hatte uns beide
-so gründlich irregeführt, daß Selbst Harst, — — und da erkannte
+so gründlich irregeführt, daß selbst Harst, — — und da erkannte
 ich den Humor der Situation und lachte die Franzi und
 den Pflaumenschnaps sehr fidel an, worauf diese Franzi mir
 einen Blick zuwarf, der lange auf meiner Glatze haftete.
 
-Ich wurde schnell wieder ernst,
+Ich wurde schnell wieder ernst.
 
 »Nordeck heißen die Damen, Franzi, — haben die das
 Zimmer dort?«, meinte ich würdevoll.
@@ -1094,9 +1094,9 @@ Also abgereist!!
 
 Und dann kehrte auch schon Harald zurück, Zigarette
 im Mundwinkel, vergnügt feixend, was mich sehr in Erstaunen
-setzte,
+setzte.
 
-»Du, sie sind heute mittag abgereist«, platzte er heraus,
+»Du, sie sind heute mittag abgereist«, platzte er heraus.
 
 »Kunststück!! Wo doch Vantuppi, dies Genie, gerade hier
 sein Hauptquartier aufgeschlagen und seine Helden von hier
@@ -1111,7 +1111,7 @@ dem Bahnhof gelassen hast und nur mit einer Handtasche beschwert
 bist! Unter den Augen Vantuppis haben sich diese
 beiden Nordecks aus dem Staube gemacht, — nun, wir tun
 das gleiche … Bezahlen wir! Die ganze Geschichte läßt
-sich nur in Venedig Selbst aufklären.« —
+sich nur in Venedig selbst aufklären.« —
 
 Signore Vantuppi erfuhr nichts von den Nordecks,
 machte aber ein sehr langes Gesicht, als wir mit dem Abendzug
@@ -1137,7 +1137,7 @@ Der Zug rückte an, Vantuppi stand mit einem Gesicht
 da wie ein Jäger, der nicht einmal die Nebenröhre finden
 kann, und Harst winkte mit dem Taschentuch so lange, bis
 vom Bozener Bahnsteig auch wirklich gar nichts mehr zu
-sehen war. Dann warf er sich aufatmend in Seine Fensterecke,
+sehen war. Dann warf er sich aufatmend in seine Fensterecke,
 musterte flüchtig zwei inzwischen in unserem Abteil erschienene
 Mitreisende, labte sich an einer Zigarette, gähnte
 heftig und meinte ganz arglos: »Therese und Gitta Nordeck
@@ -1154,7 +1154,7 @@ im Schwindeln. So, wie er diese Sätze soeben ausgesprochen
 hatte, mußte auch der hellhörigste Staatsbürger
 mit dunkelster Vergangenheit, daher mit überreichen Erfahrungen
 im Überklettern sämtlicher Strafprozeßhürden unweigerlich
-überzeugt Sein, daß dieses endgültige Verzichten
+überzeugt sein, daß dieses endgültige Verzichten
 durchaus ehrlich gemeint sei. — Für wen aber dieser Aufwand
 an Virtuosität im Lügen?! Für mich?! — Nein. Dazu
 arbeite ich denn doch schon zu lange mit Harst zusammen.
@@ -1174,7 +1174,7 @@ Berlins.
 Sie spielten mit Strohmann. Sie spielten mit Begeisterung,
 und der magere Papa mit dem schlauen Fuchsgesicht,
 beginnender Glatze und Hornbrille verfiel des öfteren in jenen
-Wedding-Jargon (Berlin d. j., dunkelste Jejend), der unfehlbar
+Wedding-Jargon (Berlin d. J., dunkelste Jejend), der unfehlbar
 an eigenartigen Kraftsprüchen seinesgleichen sucht. —
 Das Söhnchen, noch patenter in Kluft als Papachen und mit
 dem wieder in beängstigende Mode gekommene Gardeleutnant-Monokel
@@ -1195,7 +1195,7 @@ Erster hineingeschleudert haben konnte, blieb mir unverständlich.
 
 Und als dann noch Herr Theodor Nußstrauch-Vater sich
 mir höflich zuwandte und nach durchaus salonfähigem Bückling
-Seinen Namen ohne Wedding-Jargon und anschließend die
+seinen Namen ohne Wedding-Jargon und anschließend die
 Bitte mir unterbreitete, doch als dritter Mann den Skat zu
 beleben, — als Harst die Zeitung sinken ließ und darauf tatsächlich
 eine Partie zu vieren zustande kam, — als ferner
@@ -1205,7 +1205,7 @@ Villa in Berlin-Dahlem, den drei Autos, der großen Motorjacht
 und den beiden Rennpferden und von der Mama, die mit
 »Tilly« in St. Moritz im »Excelsior« geblieben sei, eine längere
 Milchpause im Skat ausfüllte und Nußstrauch der Ältere
-Diese Aufzählung der Familiengüter durch die Erwähnung des
+diese Aufzählung der Familiengüter durch die Erwähnung des
 Rittergutes Nissenkolt bei Eberswalde genau so unaufdringlich
 erzählte, da schmolz selbst das Eis des Mißtrauens von
 Haralds Herz …
@@ -1242,7 +1242,7 @@ aber keine nachteiligen Foljen, denn der Kollege von Ihnen …«
 … Wir spielten weiter, und es ergab sich, daß Vater
 und Sohn direkt von Innsbruck kamen, von wo aus sie telegraphisch
 zwei Kabinen erster Klasse für den morgen abend
-von Venedig abgehenden Fiume-Dampfer bestellt hatten
+von Venedig abgehenden Fiume-Dampfer bestellt hatten.
 
 Wie gesagt: Durchaus harmlose Berliner, die beiden, —
 Harsts und meinen bescheidenen Naturen kannten sie nicht,
@@ -1257,7 +1257,7 @@ Abteil, hinter Trient brachen wir den Skat ab und verdunkelten
 die Lampe, um in den Polsterecken ein Nickerchen zu
 machen …
 
-Ich Schlief ein, erwachte, hörte Stationen ausrufen …
+Ich schlief ein, erwachte, hörte Stationen ausrufen …
 »Bassano« … schlief wieder ein und erspähte erst, als der
 Zug bereits die Station Mestre, der Beginn der langen
 <@pagebreak/>
@@ -1295,7 +1295,7 @@ hineingelegt.
 Die so wundervoll klingende, leider für den praktischen
 Gebrauch jedoch vollkommen widersinnige Redensart, daß das
 Auge der Spiegel der Seele sei, fand hier wieder einmal eine
-gründliche Widerlegung durch die beiden angeblichen Nußsträußer
+gründliche Widerlegung durch die beiden angeblichen Nußsträucher
 — Würde sich im Auge jedes Hochstaplers oder
 Verbrechers besseren Formats der Charakter dieser Herrschaften
 tatsächlich widerspiegeln, dann hätte die Polizei die
@@ -1307,7 +1307,7 @@ traurigem Zustand auf der schmalen Polsterbank dieser zugigen
 Kajüte erwachten und beim Lichte einer pendelnden Petroleumlampe
 uns gegenüber zwei Männer erkannten, die die braunen
 Pfoten auf den schmalen Tisch gelegt hatten und nicht Skat zu
-zweien, Sondern mit einem altehrwürdigen verrosteten Trommelrevolver
+zweien, sondern mit einem altehrwürdigen verrosteten Trommelrevolver
 spielten. Diese Leute waren mit dem Kennwort
 »Hafengelichter« genügend geschildert, — der sie umgebende
 Fuselduft, ihr verhunztes Englisch, die hageren Gaunervisagen,
@@ -1367,7 +1367,7 @@ Depesche, und der Sack wartet dort schon. Der Zettel war
 übrigens in einer großen Flasche mit breitem Hals drin, in
 <@pagebreak/>
 der sich noch ein eingeschalteter Leuchtstab befand — eine
-kleine Leuchtboje — Sehr schlau!« prahlte der Kerl großspurig.
+kleine Leuchtboje — sehr schlau!« prahlte der Kerl großspurig.
 
 Harst legte die mit Stricken gefesselten Hände gleichfalls
 auf die Tischplatte und fragte höflich:
@@ -1395,7 +1395,7 @@ Wir lasen in derselben verstohlen Handschrift:
 »Meine Herren, Sie können überzeugt sein, daß die Zusage,
 Sie beide in Venedig an Land zu setzen, unbedingt eingehalten
 werden wird. Wir sind leider gezwungen gewesen,
-ganz gegen unsere Sonstigen Geschäftsgepflogenheiten in diesem
+ganz gegen unsere sonstigen Geschäftsgepflogenheiten in diesem
 Falle zu stärkeren Mitteln zu greifen. Wir wissen auch,
 daß es ungeheuren Lärm geben würde, wenn Sie beide spurlos
 verschwänden, und wir möchten gerade mit Ihren Freunden
@@ -1451,7 +1451,7 @@ zwischen den Fingern hielt, kannte ich nicht.
 Die Kerle saßen uns dicht gegenüber, und so war es denn
 weiter kein Kunststück, auf die kurze Entfernung zu treffen.
 Allerdings meldeten sich hier nicht die verrosteten Trommelrevolver,
-Sondern der dicke, schwarze, harmlose Füllhalter …
+sondern der dicke, schwarze, harmlose Füllhalter …
 
 Ich hatte das kommen sehen …
 
@@ -1473,7 +1473,7 @@ nur Wasser und Finsternis.
 
 Nach einer Weile erschien Harald und schickte mich in
 die Kajüte. »Die beiden sind versorgt … Im Wandschrank
-findest du Kleider und Waffe. Ziehe dich um. ich werde
+findest du Kleider und Waffe. Ziehe dich um. Ich werde
 nach dem armen Teufel suchen, den ich vorhin über Bord
 boxte. Es widerstrebt mir, ihn ersaufen zu lassen.«
 
@@ -1485,14 +1485,14 @@ renommiert) sicherlich in höchster Todesangst gegen die schlammige
 Flut kämpfte. Die Lagune zwischen Venedig und Festland
 zeigt bei Ebbe genug Schlammbänke.
 
-ich stieg die Treppe hinab, schlug die dicken Vorhänge
+Ich stieg die Treppe hinab, schlug die dicken Vorhänge
 auseinander und fand auf dem Wandsofa zwei kläglich
 stöhnende Burschen, zu Bündeln zusammengeschnürt, jeder mit
 einem nassen Lappen auf den Augen. Ich fand auf dem
 Tische auch die ominöse Füllfeder, und obwohl ich sehr fror
 und nach trockenen Kleidern mich sehnte, besichtigte ich doch
 zunächst Haralds neuestes Patent. Daß er in Bozen noch in
-Zwei Läden Einkäufe besorgt hatte, wußte ich, daß er aber
+zwei Läden Einkäufe besorgt hatte, wußte ich, daß er aber
 den neuen Füllhalter heimlich zur Spritze umgewandelt hatte,
 sah ich erst vorhin, als mir das Herz etwas stark zu klopfen
 begann. Diese Verwandlung in eine Spritze war primitiv,
@@ -1506,7 +1506,7 @@ gerechnet, bei denen dieses mit einer leichten Essiglösung gefüllte
 Instrument einen Gegner zweckmäßig und rechtzeitig
 blenden könnte, — wie geschehen.
 
-Ich sog mich um. Meine Gedanken waren dabei ausschließlich
+Ich sah mich um. Meine Gedanken waren dabei ausschließlich
 wieder mit den bisherigen Zwischenfällen und Ereignissen
 des großen Sarka-Problems beschäftigt. — Ich bin
 mit Ausdrücken wie »Problem« und so weiter sehr vorsichtig.
@@ -1514,7 +1514,7 @@ Hier hat diese Bezeichnung in der Nebenbedeutung »verzwickter
 Kriminalfall« seine Berechtigung. Allein schon die
 fünfzig Diamanten in dem Zigarrenpäckchen, die Harst »weggefunden«
 und sicher verstaut hatte, dann Sarkas Entführung
-und der alte Filzhut im Talfer-Bach, der einen »Feuersalamander»
+und der alte Filzhut im Talfer-Bach, der einen »Feuersalamander«
 und keinen Krebs beherbergt haben sollte, schließlich
 als Vorspiel Ottochens Depesche, — das alles war eine derartige
 undurchsichtige Häufung von merkwürdigsten Vorgängen,
@@ -1554,8 +1554,8 @@ zu übergeben, nicht fruchtete. — Harst blieb geduldig.
 
 »Meine lieben Freunde«, sagte er mit ganz sanfter Ironie,
 »Ihr rechnet mithin auf Hilfe, bevor wir noch Venedig erreichen
-können, das heißt also, eure beiden Chefs, die Nußsträucher.
-werden sich Sofort nach Ankunft in einen vielleicht feudalen
+können, das heißt also, eure beiden Chefs, die Nußsträucher,
+werden sich sofort nach Ankunft in einen vielleicht feudalen
 Motorkutter begeben haben und … beobachten uns, dieses
 Boot, warten auf ein Signal eurerseits und dürften mit einem
 Nachtglas aus weiter Entfernung diesen als Fischerkahn zurechtgemachten
@@ -1565,7 +1565,7 @@ hier an Bord noch ein winziges Laternchen brennen habt.«
 
 Keine Antwort — — nur freches Grinsen.
 
-"Ihr seid Trottel«, meinte Harst noch heiterer. »Euer
+»Ihr seid Trottel«, meinte Harst noch heiterer. »Euer
 violettes Laternchen dort vorn am Bug habe ich längst bemerkt.
 Dieses kennzeichnet euer Boot. Aber nun — auf
 welches Signal hin kommen die Chefs herbei? Sagt es nur
@@ -1588,18 +1588,18 @@ Strauch, der in Berlin zwei Jahre Zuchthaus bekam, Generaldirektor
 des berüchtigten Mitteleuropäischen Diamantenkonzerns,
 auch Midiako genannt!! Mir geht ein weiteres Licht
 auf, doch das mag euch beide nicht davon abhalten, endlich
-mit der Wahrheit herauszurücken. ich muß die Signale
+mit der Wahrheit herauszurücken. Ich muß die Signale
 kennen lernen, und wenn ich euch einer etwas schmerzhaften
 Prozedur unterwerfen müßte. — — Schade, wieder nur ein
 ablehnendes Kopfschütteln … Schraut, gib doch mal dort die
 alte große Kneifzange her und hänge sie über den Lampenzylinder,
-nur mit den Zangen natürlich, denn das anderee Ende,
+nur mit den Zangen natürlich, denn das andere Ende,
 die Handgriffe, dürfen nicht heiß werden. Tue es nur, —
 ich weiß, du denkst, sie wird zu langsam genügend warm …
 Keine Sorge, wir haben ja Zeit, und gerade die Ohren sind
 sehr empfindlich. Früher schnitt man üblere Halunken einfach
-die Ohren ab, das soll Sogar noch sehr häufig zur Zeit
-des Türkenregimes in Dalmatien vorgekommen Sein … Vielleicht
+die Ohren ab, das soll sogar noch sehr häufig zur Zeit
+des Türkenregimes in Dalmatien vorgekommen sein … Vielleicht
 habt ihr beide auch in eurer Ahnenreihe einige Leute
 ohne Ohren gehabt … So genial, diese Schläfenanhängsel mit
 einer heißen Zange wegzubrennen, waren die Türken doch
@@ -1648,8 +1648,8 @@ sehen, ob ihr ganz ehrlich seid. Also was wißt ihr?«
 
 Der Dalmatiner änderte urplötzlich seine bisherige rüde
 Ausdrucksweise. Er sprach jetzt ein ganz einwandfreies
-Deutsch, er nahm auch eine andere, zwanglos-vornehme Hal-
-jung an, stützte die Brust leicht gegen den Tisch, und erklärte
+Deutsch, er nahm auch eine andere, zwanglos-vornehme Haltung
+an, stützte die Brust leicht gegen den Tisch, und erklärte
 freimütig: »Mein Freund und ich sind ehemalige montenegrinische
 <@pagebreak/>
 Offiziere, Herr Harst … Als Montenegro als selbständiger
@@ -1702,7 +1702,7 @@ halten und zwei Leute herauszufischen, die etwa bei Brückenbogen
 geworfen werden würden … Alles weitere ist Ihnen bekannt,
 Herr Harst. Mehr vermag ich nicht anzugeben, es sei denn,
 daß Sie das Risiko auf sich nehmen und die Motorjacht durch
-das Signal herbeirufen wollen, die sich Tatsächlich in der Nähe
+das Signal herbeirufen wollen, die sich tatsächlich in der Nähe
 befindet. Dieses Risiko wäre zu groß, Herr Harst, — die
 Motorjacht hat sicherlich eine Menge Leute an Bord, ich
 keine Sie nicht, ich kann nur warnen: Wir beide, Sie beide
@@ -1715,7 +1715,7 @@ werden, nicht einer käme mit dem Leben davon.«
 »Nur die Gelbscheibe der kleinen Laterne am Bug durch
 eine rote austauschen, die rote fünf Minuten an ihrem Platze
 lassen, und dann eine grüne benutzen. — Falls Sie so leichtsinnig
-Sein wollen, Herr Harst, — ich kam nur nochmals
+sein wollen, Herr Harst, — ich kam nur nochmals
 warnen …!«
 
 »Ist es eine größere Motorjacht?«, — Harst schien bereits
@@ -1744,7 +1744,7 @@ ist wieder flott, die Flut kommt, aber von der Jacht ist nichts
 zu bemerken, obwohl der Regen fast ganz nachgelassen hat.
 Ich fürchte, Strauch hat Verdacht geschöpft, als wir die kurze
 Strecke zurückfuhren und Sonnhuber herausfischten, — auch
-dessen Hilferufe mögen von der Jacht aus gehört worden Sein.
+dessen Hilferufe mögen von der Jacht aus gehört worden sein.
 Wir tun am richtigsten, den Inhalt der Depesche Sarkas preiszugeben.«
 
 »Wie meinst du das?!«, fragte ich stark verwundert.
@@ -1765,12 +1765,12 @@ Ich hätte als Chronist diese Geschichte auch mit der Depesche
 beginnen können, hätte die urdeutsche Behaglichkeit
 unseres Heims und die heiterere Seite dieses Auftakts des
 »Sarg-Problems« schildern können, denn bei uns zu Hause
-trägt immer irgend etwas zum leichten Schwung des Froh-
-Sinns bei. Zumindest unsere brave alte Mathilde, Köchin,
+trägt immer irgend etwas zum leichten Schwung des Frohsinns
+bei. Zumindest unsere brave alte Mathilde, Köchin,
 Haustyrannin in eins, die sich von Venedig zum Beispiel die
 extravagantesten Vorstellungen macht. Es ist auch nicht etwa
 meinerseits ein Bluff zur Erhöhung der Spannung, nur erst
-das bewußte Telegramm in Erscheinung treten zu lassen
+das bewußte Telegramm in Erscheinung treten zu lassen.
 
 »Was tun Sie, Herr Harst?«, fragte der eine Unteragent
 des Midiako sehr ängstlich, als er lediglich noch die Feder
@@ -1786,7 +1786,7 @@ Harald nur, ohne die kratzende Feder pausieren zu lassen.
 Gehorsam. Es wird Ihr Schade nicht sein. Ich
 halte mein Wort, die italienische Polizei wird Sie beide
 laufen lassen, und meinerseits sollen Sie sogar noch etwas Geld
-erhalten, damit Sie ...«
+erhalten, damit Sie …«
 
 »Wir schwören!«, riefen beide gleichzeitig. »Wir wollen
 heraus aus diesem Verbrecherkonsortium«, fügte der bisherige
@@ -1801,14 +1801,14 @@ Tiefe nach oben führt. — So, nun hören Sie mal zu:
 Harst, Berlin-Schmargendorf, Blücherstraße 10, Deutschland.
 — Erinnern Sie dringend an den Roman »Der weiße
 Sarg«, bringen Sie ihn mir bitte hierher mit, erwarte Sie
-Sofort, gründliche Aussprache nötig, Inhalt des Romans muß
+sofort, gründliche Aussprache nötig, Inhalt des Romans muß
 durch Sie geändert werden, da sonst keine große Aussage zu
 hoffen ist, Hauptkapitel über Zuchthaus besonders wichtig. —
-Otto Sarka, Palazzo Serretti, Venedig, bei Signora Bronzell.«
+Otto Sarka, Palazzo Ferretti, Venedig, bei Signora Bronzell.«
 
 Harst hatte den Inhalt tadellos behalten, nicht ein Wort
 fehlte, obwohl die Depesche längst im Bozener Theater zu
-Asche geworden war,
+Asche geworden war.
 
 Die beiden Subagenten machten höchst fragwürdige Gesichter
 zu dieser Vorlesung, — fragwürdig hier nicht in übertragenem
@@ -1816,7 +1816,7 @@ Sinne gemeint. Der Redegewandtere sagte mißtrauisch:
 »Davon verstehe ich nichts …! Stimmt der Wortlaut
 wirklich?«
 
-»Wirklich!«, bekräftigte Harst. «Ich treibe hier ehrlich
+»Wirklich!«, bekräftigte Harst. »Ich treibe hier ehrlich
 Spiel. Natürlich ist dieser Wortlaut anders zu deuten. Sarka
 konnte unmöglich ungeschminkte Tatsachen depeschieren, mithin
 verschleierte er diese. Ein weißer Sarg ist der Hauptpunkt
@@ -1862,8 +1862,8 @@ vielleicht …«
 
 »Den Gedanken habe ich Ihnen unstreitig vorweggenommen.
 — Nun zu ebenso wichtigen Dingen. Wir werden
-jetzt für alle Fälle signalisieren. Es ist ja natürlich Zwecklos,
-denn die bewußte JAcht ist längst wieder zu den Pfählen
+jetzt für alle Fälle signalisieren. Es ist ja natürlich zwecklos,
+denn die bewußte Jacht ist längst wieder zu den Pfählen
 vor dem Palazza Ferretti vertäut …«
 
 »Verzeihung — nicht vertäut«, korrigierte der Mann
@@ -1888,7 +1888,7 @@ keinen Pfifferling …«
 
 »Oh, — ich verstehe Sie vollkommen Herr Harst … Sie
 können uns unbedingt vertrauen, wir sind beide glücklich
-vorheiratet, wir haben liebe Kinder, und wenn unsere Frauen
+verheiratet, wir haben liebe Kinder, und wenn unsere Frauen
 wüßten, daß wir …«
 
 »— ja, daß die Midiako in Bozen einen amerikanischen
@@ -1906,8 +1906,8 @@ Gelbscheibe der Gaslaterne gegen eine rote aus.
 Es war jetzt halb zwei Uhr morgens. Noch eine halbe
 Stunde, und das Boot lief bei klarem Himmel durch den
 Chiara-Kanal unter der Eisenbahnbrücke zum Marinehafen
-in den Canal Grande, den Großen Kanal, ein, der die Insel-
-Stadt Venedig in Form eines riesigen Fragezeichens als Hauptwasserstraße,
+in den Canal Grande, den Großen Kanal, ein, der die Inselstadt
+Venedig in Form eines riesigen Fragezeichens als Hauptwasserstraße,
 sozusagen als »Straßenbahndamm« durchzieht (das
 klingt widersinnig, ist aber so), denn Venedig kennt keine
 Straßenbahnen, keine Autos, keine Pferdedroschken, keine
@@ -1970,8 +1970,8 @@ Flut, die durch Orangenschalen, Küchenabfälle und sonstige für
 die Seitenkanäle (samt dem leichten Modergestank) fast notwendigen
 Dinge verziert ist. — »Das bringt Glück«, meint
 Harald mit philosophischem Gleichmut, — inzwischen hat er
-Aloys Sonnhuber schon einige Lirescheine in die Hand ge-
-drückt, und der arme Teufel verduftet blitzschnell im Gewirr
+Aloys Sonnhuber schon einige Lirescheine in die Hand gedrückt,
+und der arme Teufel verduftet blitzschnell im Gewirr
 der engen Gäßchen. Wir haben ihn nie wiedergesehen. Und
 die Midiako fand ihn auch nicht — Gott sei Dank. Nach
 einem halben Jahr schrieb er an uns eine Postkarte aus New
@@ -2000,8 +2000,8 @@ warf uns etwas Weißes vor die Füße und lief davon.
 
 Harst hob den Briefumschlag auf, wir gingen bis zur
 nächsten hölzernen Laterne und entzifferten die Beilage zu
-unserem Gepäckaufbewahrungsschein. — Wieder die der-
-stellte Handschrift, die wir schon kannten, wieder nur das
+unserem Gepäckaufbewahrungsschein. — Wieder die verstellte
+Handschrift, die wir schon kannten, wieder nur das
 anmaßende Geschreibsel der Nußsträucher:
 
 > »Wir raten Ihnen dringend, die ganze Sache auf sich beruhen
@@ -2009,7 +2009,7 @@ zu lassen. Sonst …!! — —<br/>
 Anbei der Schein.«
 
 »Da hat Ihr Strauch ganz recht damit«, sagte Harst im
-Weitergehen. »Natürlich lassen Wir die Sache jetzt ruhen, da
+Weitergehen. »Natürlich lassen wir die Sache jetzt ruhen, da
 sie im Grunde erledigt ist. Komm mein Alter, holen wir unser
 Gepäck … Im Hotel Doxe Venior werden wir erwartet.«
 
@@ -2035,21 +2035,21 @@ schuldig. — Portier, bitte unsere Koffer … danke, Sie
 können wieder gehen.«
 
 Vantuppi machte ein sehr enttäuschtes Gesicht. »Wir
-hofften, Sie würden nun endlich …"
+hofften, Sie würden nun endlich …«
 
 Der eine Kofferdeckel flog schon hoch. Harst warf mir
 alles Nötige zu und begann sich zu entkleiden. »Also gut,
 Vantuppi, — kennen Sie die Midiako?«
 
-»Natürlich!! Das war einmal …"
+»Natürlich!! Das war einmal …«
 
-»War nicht — — ist, besteht noch, Verehrtoster. Hauptquartier
+»War nicht — — ist, besteht noch, Verehrtester. Hauptquartier
 hier in Venedig jetzt … Sarka hat da in ein Wespennest
 gegriffen, ihm sind an den Fingern diverse Diamanten
 kleben geblieben … — Nun passen Sie gründlich auf. Wenn
 wir beide durch den Nebenausgang das Hotel wieder verlassen
 haben, begeben Sie sich hier mit ihren Begleitern zur
-Polizei und bitten, daß der Palazzo Serretti, der keine fünfzig
+Polizei und bitten, daß der Palazzo Ferretti, der keine fünfzig
 Meter nach Osten zu ebenfalls hier am Canal Grande liegt,
 ganz unauffällig umzingelt wird: Auf der Wasserseite und
 auf der Landseite. — Auf der Wasserseite mag ein Frachtkahn
@@ -2058,7 +2058,7 @@ und die Seiten am besten auch durch Leute in Zivil.
 Aber ganz unauffällig!!«
 
 <@pagebreak/>
-»Soll geschehen …!« Vantuppi strahlte ordentlich
+»Soll geschehen …!« Vantuppi strahlte ordentlich.
 
 »Die Sache ist die …«, — Harst zog schon ein Paar
 Sporthosen an — »daß Theodor und Georg Nusche die vor
@@ -2070,9 +2070,9 @@ vorher oder gleichzeitig aus dem Palazzo erhebliche Mengen
 »Ware« des Konzerns mit sich nahmen. Garring, der unseren
 Freund Sarka von Berlin mitgebracht hatte, wurde ermordet,
 man stahl ihm gleichzeitig Edelsteine, »Ware«. — Hier sind
-andere Steine — bitte … Er öffnete seine Kragenschachtel,
+andere Steine — bitte …« Er öffnete seine Kragenschachtel,
 die einen doppelten Boden hatte, und übergab Vantuppi das
-Päckchen. »Fünfzig Stück, gefunden in Sarkas Koffer. --
+Päckchen. »Fünfzig Stück, gefunden in Sarkas Koffer. —
 Es sind natürlich nicht die Steine, die dem Amerikaner das
 Leben kosteten, nein, — was da die dunkel verschleierte Frau
 aus der aufgeschnittenen Tasche Garrings kriechend herausholte,
@@ -2085,7 +2085,7 @@ Glauben schenken, aber Schraut kann Ihnen dies bestätigen.«
 Der Signore Chef und die beiden anderen Beamten aus
 Bozen lächelten allerdings diskret. — Ich nicht. — Mir war
 plötzlich ein Licht aufgegangen, freilich hatte ein anderer es
-angezündet. ich sagte mit dem ganzen Schwergewicht eines
+angezündet. Ich sagte mit dem ganzen Schwergewicht eines
 Genies, das sich mit fremden Federn schmückt: »Allerdings,
 die Sache ist sehr einfach … Garring und Sarka verließen
 Venedig sehr schleunig und jeder allein, Sarka fuhr über
@@ -2099,8 +2099,7 @@ ereilt wurde. — So war’s.«
 <@pagebreak/>
 Vantuppi starrte wortlos auf die prachtvollen Edelsteine.
 Nur einer seiner Begleiter fragte mit anerkennenswerter
-Geistesgegenwart: »Und wer erbrach Sarkas Koffer im Zen-
-trat-Hotel?«
+Geistesgegenwart: »Und wer erbrach Sarkas Koffer im Zentral-Hotel?«
 
 Nun saß ich mit meiner Weisheit fest. Harst, der schon
 einen dunklen Sportkragen an sein dunkles Oberhemd knüpfte,
@@ -2136,10 +2135,10 @@ zu entleeren … Und nun werden Sie fragen, Vantuppi: Wer
 war die Dame? — Es war jene Gitta Nordeck, die oben auf
 <@pagebreak/>
 dem Colle wohnte und die mit ihrer Mutter auch im Theater
-gewesen war, sich nach dem Morde nur für kurze Zeit ent-
-lernte, um ihren Verbündeten Befehle zu geben, Sarka zu ent-
-führen, was dann auch durch den sehr rührigen Midiako ge-
-schah, sie selbst kehrte in anderem Mantel in das Theater zurück,
+gewesen war, sich nach dem Morde nur für kurze Zeit entfernte,
+um ihren Verbündeten Befehle zu geben, Sarka zu entführen,
+was dann auch durch den sehr rührigen Midiako geschah,
+sie selbst kehrte in anderem Mantel in das Theater zurück,
 sie hatte nichts Verdächtiges mehr bei sich, die Beute
 hatte sie draußen ihren Leuten ausgehändigt die Spitze lag
 in unserer Loge, — — wollen Sie noch etwas wissen, dann gedulden
@@ -2150,11 +2149,11 @@ auch an den Kragen …«
 Durch den Wirtschaftsausgang des Hotel Doxe Venior
 schlüpften wir auf den kleinen Platz, der sich bis zum Canal
 Grande hinunterzieht, schritten dann rechts auf dem schmalen
-Kai dahin, kamen zu der diskret verborgenen kleinen Leichen-
-Halle vorüber, von der aus nachts per Schiff in aller Stille
+Kai dahin, kamen zu der diskret verborgenen kleinen Leichenhalle
+vorüber, von der aus nachts per Schiff in aller Stille
 die Särge nach der Friedhofs-Insel von Venedig (im Nordosten
 der Stadt gelegen) geschafft werden und standen dann
-vor dem schmalen, äußerlich so armseligen Palazzo Serretti,
+vor dem schmalen, äußerlich so armseligen Palazzo Ferretti,
 dessen linke Vorderfront neben dem von Marmorsäulen flankierten
 Portal vollständig durch das verwitterte, bis zum
 Wasser der Kanalabzweigung hinabreichende Flügeltor des
@@ -2162,10 +2161,10 @@ Jachthafens eingenommen wurde, — — finster und drohend
 lag das uralte Gebäude da, eingezwängt zwischen ebenso armseligen
 Bauten, und doch mit seinen geschlossenen Fensterladen
 und seiner hab zerbrochenen Steintreppe und den matt schillernden
-Löwenköpfen des Einganges unheimlich wirkend
+Löwenköpfen des Einganges unheimlich wirkend.
 
 Harst deutete auf eine unweit vertäute Gondel. »Vorwärts,
-nur keine Sekunde verlieren … !« — Im Nu war die
+nur keine Sekunde verlieren …!« — Im Nu war die
 Gondel von den Pfählen gelöst, im Nu ruderten wir in die
 Kanalabzweigung hinein, ich stand ganz vorn in der Gondel,
 ich streckte die Arme vor, damit sie nicht gegen die Wasserseite
@@ -2173,7 +2172,7 @@ rannte, — das Schloß der Tür war neu, aber ein Patentdietrich
 arbeitet rasch und sicher in geübter Hand, wir
 zogen den einen Torflügel auf, — — hinein, — — Licht,
 <@pagebreak/>
-— Taschenlampe, da lag die JAcht, doch nur ein bescheidener
+— Taschenlampe, da lag die Jacht, doch nur ein bescheidener
 Motorkutter, — der Lichtkegel fiel rechts auf eine kleine
 Pforte in der Mauer …
 
@@ -2198,8 +2197,8 @@ nichts überhasten. Die Kriminalbeamten können vor zwanzig
 Minuten kaum eintreffen. Ich fürchte, diese Pforte wird eine
 Alarmvorrichtung haben. Halte mal die Lampe …«
 
-Er zog ein flaches Etui hervor, setzte aus den Einzel-
-stöcken einen Zentrumsbohrer zusammen und bohrte über dem
+Er zog ein flaches Etui hervor, setzte aus den Einzelstöcken
+einen Zentrumsbohrer zusammen und bohrte über dem
 Schließloch ein Loch, dann ein zweites, drittes … bis er mit
 der Hand hindurchreichen konnte.
 
@@ -2208,14 +2207,14 @@ Drähte … Anscheinend eine sehr primitive, wenn auch wirksame
 Vorrichtung … Die werden wir sofort stumm machen.«
 Er nahm das Dolchmesser … »So, der eine Draht ist zerschnitten,
 nun erst werde ich die Pforte aufdrücken … so …
-— ein dunkler Gang, -- -- leise, wenn wir auch Gummisohlen
+— ein dunkler Gang, — — leise, wenn wir auch Gummisohlen
 haben. Und noch etwas: Sollten wir die Bande wirklich
 überraschen, dann werden keine Kugeln gespart! — Bleibe
 dicht hinter mir …«
 
 Der kurze, gewölbte muffige Gang endete in einer kleinen
 Vorhalle, aus der eine breite stelle Marmortreppe, mit neuen
-roten Läufern belegt, nach oben führte,
+roten Läufern belegt, nach oben führte.
 
 Wir horchten angestrengt, vernahmen auch undeutlich
 eine einzelne Stimme, schlichen die Treppe empor und kamen
@@ -2225,7 +2224,7 @@ in deutscher Sprache drohenden Tones sagen, — und *die*
 <@pagebreak/>
 Stimme kannten wir: »Das ist alles Schwindel, Sie junger
 Tintenklexer!! Wo sind die Steine? Denken Sie gefälligst
-an Garrings Ende, Sie ...!! Wir werden Sie so lange unter
+an Garrings Ende, Sie …!! Wir werden Sie so lange unter
 Wasser tauchen, daß Ihr Hirn wieder weich wird!«
 
 Worauf der zuweilen so unglaublich schnoddrig klingende
@@ -2251,7 +2250,7 @@ jubelte: »Der Palazza ist eingezingelt, keine Ratte kommt heraus!«,
 — mindestens zwanzig Beamte verteilten sich in den
 Fluren, — eine kurze Schießerei, gellende Schreie, — wir
 nahmen Sarka die Fesseln ab, — »Nett von euch!«, bedankte
-er sich, — er Sah doch etwas stoppelbärtig und elend aus, —
+er sich, — er sah doch etwas stoppelbärtig und elend aus. —
 »Sehr nett von euch, die Schufte sind allzu versessen auf
 Edelsteine, — aha, da kommen schon einige Gefangene, — —
 glänzend gemacht! — Habt ihr vielleicht einen Kognak da?«
@@ -2260,7 +2259,7 @@ Leider hatten wir weder einen Kognak noch auch Georg
 Nusche »bei uns«, — der war irgendwie entwischt.
 
 Harst winkte mir. »Komm, — die Haupttreppe war
-leer ... — Trug Nusche wieder Weiberkleider, lieber
+leer … — Trug Nusche wieder Weiberkleider, lieber
 Sarka?«
 
 »Ja, — — genau wie als Gitta Nordeck in Bozen, dieser
@@ -2268,27 +2267,27 @@ Komödiant, dieser verkrachte Damenimitator, dieser …«
 
 <@pagebreak/>
 Harst rannte in die Vorhalle hinab, in den Gang zum
-kLeinen Jachthafen hinein, — — die Gondel fehlte, das Wassertor
+kleinen Jachthafen hinein, — — die Gondel fehlte, das Wassertor
 halb offen, draußen auf dem Kai kein einziger Beamter …
 
 Und dann — das war Haralds beste Taktik — liefen wir
 durch die engen Gassen immer parallel zum Canal Grande dem
 Zentrum der Lagunenstadt zu …
 
-»... Nusche wird sich hüten, in einen Seitenkanal einzubiegen",
+»… Nusche wird sich hüten, in einen Seitenkanal einzubiegen«,
 keuchte Harst … »Wir müssen unbedingt vor ihm
 die Rialto-Brücke erreichen …«
 
-So Sonderbar es erscheinen mag: Aber den Canal Grande
+So sonderbar es erscheinen mag: Aber den Canal Grande
 führt nur *eine* Brücke, und das ist die alte schöne Rialto-Brücke
 mit ihrem reichen Marmorschmuck.
 
-Atemlos stürmten wir schließlid auf diese einzigartige
+Atemlos stürmten wir schließlich auf diese einzigartige
 historische Brücke hinauf, — gerade zur rechten Zeit, denn
 von Norden her schoß jetzt eine Gondel unter der Brücke
 hindurch, — es war ohne Zweifel »unsere Gondel«, aber hinten
 stand keine Frau, sondern ein »Pappa«, ein Gondelier. — —
-ich rief schrill hinab, der Kerl solle sofort landen, — — dann
+Ich rief schrill hinab, der Kerl solle sofort landen, — — dann
 sah ich auch bereits Harst vom Brückengeländer in das Wasser
 springen, gleichzeitig erschien unter dem Verdeck eine Frauengestalt,
 — — warf sich ins Wasser, — es half aber nichts,
@@ -2296,7 +2295,7 @@ Beamte sperrten das Ufer, und Herr Georg Nusche sowie der
 »Pappa«, die verkleidete Signora Gardina Bronzell, bekamen
 Gratisarmbänder, und hiermit war es aus mit der
 Midiako: Die Häupter der Organisation waren sämtlich verhaftet
-worden, —
+worden. —
 
 »Die Geschichte ist sehr einfach«, erzählte Otto Sarka
 eine Stunde später einem gespannt lauschenden Auditorium.
@@ -2309,7 +2308,7 @@ hierher, er stieg im Hotel Bauer-Grünwald ab, ich erkundigte
 mich absichtlich nach einem billigeren Logis, wir wollten eben
 <@pagebreak/>
 getrennt vorgehen. Ein Gepäckträger empfahl mir das Fremdenheim
-Serretti, und So langten wir ganz ahnungslos in
+Ferretti, und so langten wir ganz ahnungslos in
 die Höhle der Löwen, das heißt, es waren noch keine Löwen
 da, aber Signora Bronzell erhielt mehrere Depeschen, und
 ein paar davon erwischte ich und fand, daß die eine von Berlin
@@ -2351,11 +2350,11 @@ meinte der kleine Vantuppi unheimlich vergnügt.
 mit einem halben Zentner schleppen … — Angenehme Ruhe,
 meine Herren, — morgen feiern wir Sieg!«
 
-»Und nicht zu knapp!«, beteuerte Ottochen und gähnte
+»Und nicht zu knapp!«, beteuerte Ottochen und gähnte.
 
 Dann gingen wir schlafen.
 
-ich schlief wie ein Toter unter meinen Moskitovorhängen
+Ich schlief wie ein Toter unter meinen Moskitovorhängen
 und in dem vorzüglichen Bett und verwechselte im
 Traum immer den Midiako mit dem Mikado, mit dem Kaiser
 von Japan, und einen weißen Kutter mit einem weißen Sarg …
