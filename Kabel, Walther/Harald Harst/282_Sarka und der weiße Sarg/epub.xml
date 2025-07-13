@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">d7bebc23-c6b2-44ba-b863-824b83a78aa7</entry>
+<entry key="title">Sarka und der weiße Sarg</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">282</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Sarka und der weiße Sarg
+
+Nun saßen wir doch im Vorgarten des Zentral-Hotels in Bozen, ließen uns den blauen »Muskateller«, einen der schönsten Weine der Bozener Weinberge, schmecken und plauderten mit der schwarzen Kathi über Heiteres und Trübes, wie das so unter guten alten Bekannten üblich ist, blickten durch die Efeuwände hinaus auf die engen belebten Gassen dieser urdeutschen Stadt, die jetzt in Bozano umgetauft ist, seitdem die Italiener hier in Südtirol die neuen Herren sind, — es war ein köstlich milder Juniabend, wir fühlten kaum mehr, daß es eine recht aufregende Reise Berlin—München—Kufstein—Innsbruck—Brenner-Paß—Bozen hinter uns lag, wir hatten hier im Zentral wieder unser altes Zimmer Nr. 23 bekommen, und der unnennbare schlichte Zauber dieser wundervollen Umgebung, dieses gesegneten Tales sorgten schon dafür, daß selbst der mürrische Harst, der zunächst von Otto Sarkas Depesche nichts hatte wissen wollen, allmählich aufgetaut war und der Kathi einige nette harmlose Schmeicheleien über ihr unverändert frisches Aussehen unter das kecke Näschen rieb.
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (282) Sarka und der weiße Sarg.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1929</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
