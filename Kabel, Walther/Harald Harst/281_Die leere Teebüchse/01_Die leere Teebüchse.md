@@ -84,7 +84,7 @@ und nicht nur die Ungleichheit der drei Männergestalten,
 sondern auch insbesondere der brave Thras mehr beachtet
 wurden, als dies meinem Freunde lieb war. Wir suchten
 also Seitenstraßen auf, und Harsts tastende Fragen
-verstummten allmählich, da der Alte John keinerlei
+verstummten allmählich, da der alte John keinerlei
 befriedigende Antwort zu geben vermochte. Er nahm an,
 daß die Wurst nicht mehr einwandfrei gewesen, die
 eine Köchin am Morgen dem Ziehhunde gespendet hatte.
@@ -93,7 +93,7 @@ Harald sprach von anderen Dingen, und als wir
 uns dann von dem alten Manne verabschiedeten (er wohnte
 in unserer Nähe in einer der Zugangsstraßen zum Breitenbachplatz),
 gab es noch einen kleinen lebhaften Disput über eine
-offenbar echt japanische, etwas verbeule Teebüchse,
+offenbar echt japanische, etwas verbeulte Teebüchse,
 die John heute als herrenlos beruflich annektiert hatte.
 
 Harst wollte sie für ein »Museum« erwerben, er sammelt
@@ -119,11 +119,11 @@ eine Unterredung bat.
 
 Gerda Amstetten war der ausgesprochene Typ der
 Sportlady von heute. Ihr Vater gehörte zu den Finanzgrößen
-Berlins, Gerdas Name stand in jedem Tennis- turnierbericht,
+Berlins, Gerdas Name stand in jedem Tennisturnierbericht,
 sie war mit ihrem Sportzweisitzer vorgefahren und trat
 recht bestimmt auf.
 
-»Meine Nina ist ein Schaf,« erklärte sie derb,
+»Meine Nina ist ein Schaf,« erklärte sie derb.
 »Denken Sie, die Büchse schenkte mir ein bekannter
 Asienforscher, und nur weil ich sie in einer Augenblickslaune
 hinausbeförderte, hat Nina sie dem Müllhaufen überliefert.
@@ -357,7 +357,7 @@ Geheimrat Amstetten habe die Sendung persönlich am
 Gartentor seiner Villa in Empfang genommen.
 
 »Danke … Wir werden vielleicht bei Ihnen nachher
-vorsprechen,« meinte Harst dem geschwätzigen Fräulein.
+vorsprechen,« meinte Harst zu dem geschwätzigen Fräulein.
 
 Hierauf ließ er sich mit Amstettens verbinden.
 Fräulein Gerda wurde von der Zofe Nina, die von ihrer
@@ -415,7 +415,7 @@ in andere Hände übergegangen, Herr Harst. Die Inhaberin
 ist jetzt ein Fräulein Therese Bartsch, frühere Stenotypistin.
 Gegen das Unternehmen liegt nichts vor.«
 
-Das Büro der »Blauen« war im einem Erdgeschoßladen
+Das Büro der »Blauen« war in einem Erdgeschoßladen
 untergebracht, über dessen Schaufenster ein riesiger
 hellblauer Radler, ein Automat, dauernd die Pedale
 trat. Auch sonst war für Außenreklame gesorgt, die
@@ -447,7 +447,7 @@ Dame im Dämmerlicht und starrte uns durch gewölbte
 Brillengläser ärgerlich an.
 
 »Ah, — Sie Herr Harst … Nehmen Sie bitte Platz,
-meine Herren … So … das ist ja eine Scheußliche Geschichte
+meine Herren … So … das ist ja eine scheußliche Geschichte
 mit Fräulein Amstetten, — sie hat soeben hier angerufen
 … Aber unser Bote ist durchaus schuldlos, er konnte
 nicht ahnen, daß der vornehme alte Herr an der Pforte
@@ -768,7 +768,7 @@ fragte er dann. »Grau?«
 »Ja.«
 
 »Geheimrat Amstetten besitzt einen grauen Spitzbart
-und ein Geheimkonto bei uns,« sagte Lüde ganz leise
+und ein Geheimkonto bei uns,« sagte Lücke ganz leise
 und putzte sein Monokel. »Der alte Herr verdient drei
 …« — und er malte mit dem Finger ein Fragezeichen in
 die Luft. »Tatsache …! Eine sehr eigentümliche Finanzgröße
@@ -842,7 +842,7 @@ Schirmen waren uns etwa so ähnlich wie ein Spatz einem
 Rotkehlchen.
 
 Harst öffnete die Gartenpforte. Der Feldweg zeigte
-blinkende Wasserpfützen, und die stille ringsum, nur
+blinkende Wasserpfützen, und die Stille ringsum, nur
 eintönig unterbrochen durch das Rauschen der Regenfäden,
 bedrückte mich seltsam. Ich habe mit meinen dumpfen
 Vorahnungen noch immer recht gehabt.
@@ -917,7 +917,7 @@ deutlich einiges über »Mörderhaus«, »verrückten Betrieb«
 und ähnliche Dinge.
 
 Harst schloß die Tür, durchsuchte die Taschen
-des Toten mit einigen Gliederverrenkungen nach den
+des Toten mit einigen Gliederverrenkungen nach dem
 Schlüssel der Handschellen, und gleich darauf waren
 wir die Armbänder los.
 
@@ -941,7 +941,7 @@ drei, einer mitten in der Stirn, der zweite unter dem
 linken Schläfenhaar, der dritte unter dem rechten.
 
 Harst schüttelte dazu den Kopf. »Eine Pistole
-von so winzigem Kaliber habe im bisher nicht kennen
+von so winzigem Kaliber habe ich bisher nicht kennen
 gelernt. Sieh’ dir die Einschüsse an! Kaum ein paar
 Tropfen Blut, und dann noch diese unheimliche Treffsicherheit!«
 
@@ -953,7 +953,7 @@ absichtlich zum Schmalzscheitel mit Stirntolle zurechtgekämmt
 und die Röte des Gesichts war Schminke.
 
 Lücke brachte drei Beamte und einen Arzt mit.
-In aller stille wickelte sich das übliche traurige
+In aller Stille wickelte sich das übliche traurige
 Zeremoniell einer polizeilichen Tatbestandsaufnahme
 ab. Einer der Kriminalassistenten erkannte den Toten:
 Es war ein übel  beleumundeter Spieler und Tagedieb,
@@ -988,7 +988,7 @@ Wir tranken Mokka, Kognak, aßen allerlei Konserven,
 rauchten und »befühlten« den Fall v. Krauß von allen
 Seiten.
 
-Lücke sagte aus der Tiefe seines Klubsessels heraus
+Lücke sagte aus der Tiefe seines Klubsessels heraus:
 »Harst, Sie werden mir niemals einreden, daß Sie nicht
 wüßten, wie diese Dinge zu erklären sind. Sie beide
 werden überfallen, spazieren gefahren, man nimmt Ihnen
@@ -1025,7 +1025,7 @@ ja auch sonderbar, wenn Therese Bartsch vom Blauen
 Eildienst nicht mit dabei gewesen wäre.« Auch er war
 in die Vorfälle des verflossenen Tages eingeweiht worden.
 
-Harst sagte nur: »Die Blauen haben auch Nachtdienst,
+Harst sagte nur: »Die Blauen haben auch Nachtdienst.
 Rufen Sie mal an, Herr Schirmer.«
 
 Während der Assistent noch auf die verschlafene
@@ -1052,9 +1052,9 @@ Strippe zu reden.
 die Inhaberin des Eildienstes anwesend? — Ah, sie selbst,
 Fräulein Bartsch … Einen Augenblick …«
 
-Harst hatte sich erhoben und nahm den Hörer. Hier
+Harst hatte sich erhoben und nahm den Hörer. »Hier
 Harst … Ich wollte nur etwas fragen … Hat Fräulein
-Amstetten bei Ihnen angerufen? — Ja? — »Wie schade, —
+Amstetten bei Ihnen angerufen? — Ja? — Wie schade, —
 auch bei uns also, und bei uns bekam sie keine Verbindung
 … — So? Die Teebüchse ist ihr abends um neun Uhr durch
 einen Dienstmann zugestellt worden … Na, da wird sie
@@ -1188,7 +1188,7 @@ nicht so aussehe … Und das ist Kriminalassistent Schirmer,
 ein kleiner Herr mit einem sehr feinen Riecher. Sie
 sehen, das Fensterbrett interessiert ihn sehr …«
 
-Therese lächelte nur. »Bitte, ich bin heute aber
+Therese lächelte nur. »Bitte, ich bin heute abend
 in der Küche ausgeglitten … Daher diese Schramme unter
 dem Haar, die ich mit Watte und Pflaster bedeckte.«
 
@@ -1200,7 +1200,7 @@ Schmutzflecke, vier verwischte Tropfen Blut und der
 Abdruck einer erdigen nassen Hand.«
 
 Die Bartsch kniff die Lippen schmal. »Und was
-schließen Sie daraus?«- fragte sie angriffslustig.
+schließen Sie daraus?« fragte sie angriffslustig.
 
 »Oh — nur das eine: Sie sind nicht in der Küche,
 sondern auf dem glatten Boden der Wahrheit ausgeglitten,«
@@ -1223,14 +1223,14 @@ Harst deutete auf die zweite Tür. »Holen Sie aus
 Fräulein Bartsch’ Wohnräumen sämtliche Schuhe herbei,
 Herr Schirmer. Zur Zeit trägt das Fräulein  Hausschuhchen.
 Natürlich werden *die* Schuhe schon gesäubert sein, aber
-gerade in meinen Gemüsegarten und auf dem Hofe liegt
+gerade in meinem Gemüsegarten und auf dem Hofe liegt
 viel gelber Zierkies auf den Wegen, und es könnte immerhin
-möglich sein, das davon etwas am Absatz haften geblieben
-ist. Außerdem suchen Sie nach einen regennassen Mantel
+möglich sein, daß davon etwas am Absatz haften geblieben
+ist. Außerdem suchen Sie nach einem regennassen Mantel
 und Hut.«
 
 Therese zuckte die Achseln. »Sparen Sie sich die
-Mühe,« sagte sie schroff, »Gut, ich bin anderthalb
+Mühe,« sagte sie schroff. »Gut, ich bin anderthalb
 Stunden im Regen spazieren gegangen und leider in den
 Anlagen am Wittenbergplatz von einem Handtaschendieb
 angefallen und sogar geschlagen worden. Ich pflege
@@ -1300,7 +1300,7 @@ an. Sie ordnete rasch die Papiere auf dem Schreibtisch,
 schob den Stuhl zurück, und plötzlich erloschen die
 Krone und die grüne Lampe, wir hörten ein dumpfes Knarren,
 — — dann hatte Lücke schon seine Taschenlampe eingeschaltet.
-Aber Therese Bartsch war verschwunden. Schirner rannte
+Aber Therese Bartsch war verschwunden. Schirmer rannte
 wütend hin und her, Lücke desgleichen, Harst schob
 die Papiere auf dem Schreibtisch beiseite und zeigte
 auf einen weißen Knopf, drückte und das Licht flammte
@@ -1335,13 +1335,13 @@ Lion und Francis Stoorgard mehr wissen als wir!«
 Lücke rief ärgerlich: »Warum sagten Sie dies alles
 nicht schon vor einer Stunde, als Harst Sie einweihte?!«
 
-Schirmer zupfte an seiner Perücke. »Oh, im wollte
+Schirmer zupfte an seiner Perücke. »Oh, ich wollte
 auch einmal nach Harst’scher Methode arbeiten und
 meine Trümpfe nicht gleich ausspielen. Entschuldigen
 Sie, Herr Doktor, unsereiner hat doch auch Ehrgeiz
 …«
 
-»Und die anderen Trümpfe, sie Imitator?!«
+»Und die anderen Trümpfe, Sie Imitator?!«
 
 Schirmer verneigte sich. »Unten in dem Keller,
 hier unter uns, steht ein Bett und Sonstiges … In dem
@@ -1351,7 +1351,7 @@ ließ er dies zurück — bitte: Den Paß Lord Ralph Stoorgards!!«
 
 »Was Sie für Dusel haben!« meinte Lücke und nahm
 den Paß. »Wirklich, stimmt, des Lords Paß. — Harst,
-nun kennen wir die Kerls, die »das Wasser« verlangten.
+nun kennen wir die Kerle, die »das Wasser« verlangten.
 Therese hat Albert v. Krauß angeworben gehabt, und
 …«
 
@@ -1581,10 +1581,10 @@ Nachts wachte ich bei ihm. Draußen patrouillierte
 Geheimpolizei. Unser Grundstück glich einer Festung.
 Auch die Kanonen fehlten nicht, die Reporter-Kanonen,
 die um jeden Preis Bresche schießen wollten. Nur einer
-gelangte ins Haus, der schneidige, fixe Garka von der
+gelangte ins Haus, der schneidige, fixe Sarka von der
 »Fahrgast«, — durch die Baumkronen war er aufs Dach
 gekrochen und durch eine Bodenluke eingestiegen. Wie
-ein Einbrecher erschien er Morgens ein Uhr im Arbeitszimmer,
+ein Einbrecher erschien er morgens ein Uhr im Arbeitszimmer,
 wo ich noch las und rauchte.
 
 »Herr Schraut, schlagen Sie keinen Krach,« bat
@@ -1595,7 +1595,7 @@ und Sie werden sicherlich im Zuchthaus enden, — erst
 zweiundzwanzig und *so* unverschämt!! Nehmen Sie Platz,
 Sie Küken!«
 
-Garka war ein netter Kerl.
+Sarka war ein netter Kerl.
 
 Er goß sich einen Kognak ein, nahm eine Zigarre,
 — alles ohne viel zu fragen, und legte dann los:
@@ -1609,7 +1609,7 @@ Kognak ist gut.«
 
 Er trank den zweiten.
 
-Ich brachte die Flasche in Sicherheit. Otto Garka
+Ich brachte die Flasche in Sicherheit. Otto Sarka
 wurde mir denn doch zu handgreiflich. Er nahm das nicht
 weiter übel, im Gegenteil. »Dafür erzählen sie mir
 nun, was eigentlich los ist. Die Polizei hüllt sich
@@ -1618,7 +1618,7 @@ und …«
 
 Die nur angelehnte Tür nach Haralds Schlafzimmer
 öffnete sich langsam, wir starrten erstaunt auf die
-schlanke Gestalt im bellen Schlafanzug und mit verbundenem
+schlanke Gestalt im hellen Schlafanzug und mit verbundenem
 Kopf …:
 
 Harst!!
@@ -1630,29 +1630,29 @@ weißt, und unter dem Fenster steht eine Leiter, damit
 einer der Beamten hin und wieder einen Blick auf mein
 Bett werfen kann, — Lücke ist ungeheuer besorgt, er
 fürchtet, ich könnte gestohlen werden … soeben war
-die Wacht auf der Leiter, und Sie, Herr Garka, — guten
+die Wache auf der Leiter, und Sie, Herr Sarka, — guten
 Abend übrigens — kommen mir wie gerufen.« Er trat ein
 und zog die Tür zu.
 
-»Garka, pellen sie sich aus — fix!!«
+»Sarka, pellen sie sich aus — fix!!«
 
 Der Reporter stierte Harst noch immer ungläubig
 an. »Gratuliere, es scheint Ihnen ja bereits sehr gut
 zu gehen — sehr gut!«
 
-»Pellen Sie sich aus!« Harst preßte Garkas Hand
+»Pellen Sie sich aus!« Harst preßte Sarkas Hand
 so kräftig, daß der junge Reporter einen Solotango
 vorführte. »Ich meine das im Ernst, verstehen Sie mich!
 Sie sollen mich im Bett vertreten. — Hier, rein in
 meinen Schlafanzug! Schraut, hole Schminken … Wir müssen
 ihn noch zurechtstutzen … Er sieht zu gesund aus. Und
 Gnade Ihnen Gott, wenn Sie nicht mit Ihrem Eisbeutel
-nachher im Bett ganz still liegen! Etwas fixer, Garka
+nachher im Bett ganz still liegen! Etwas fixer, Sarka
 … Sie können stolz sein, Sie werden nachher als erster
 das Rätsel der leeren Büchse dem Publikum unterbreiten
 dürfen …«
 
-Garka beeilte sich fabelhaft. Die Sache machte
+Sarka beeilte sich fabelhaft. Die Sache machte
 ihm Spaß. Nur zwei Kognaks verlangte er noch, bekam
 sie auch … —
 
@@ -1660,7 +1660,7 @@ Derweilen machten auch wir uns fertig. Harst legte
 Wert auf erstklassige Masken. Er war rühriger denn
 je.
 
-Garka qualmte Zigaretten … Er nahm Vorschuß auf
+Sarka qualmte Zigaretten … Er nahm Vorschuß auf
 die Stunden der Enthaltsamkeit.
 
 »Sie sind fabelhaft, Herr Harst …! Einen Kopf
@@ -1675,7 +1675,7 @@ zu …«
 so sehr kurze Haut …«
 
 Er kroch ins Bett, die Tür wurde angelehnt, die
-Nachttischlampe war heruntergekippt, und Garka lag
+Nachttischlampe war heruntergekippt, und Sarka lag
 im Schatten.
 
 »Wohin geht’s?« flüsterte ich …
@@ -1683,7 +1683,7 @@ im Schatten.
 »Zuerst zu dem Antiquitätensammler John, mein
 Alter, dann zu Gerda Amstetten, die ich noch einiges
 zu fragen habe. — Vorwärts — — über das Dach …! Denselben
-Weg, den dieser fixe Garka wählte …«
+Weg, den dieser fixe Sarka wählte …«
 
 Als wir über das Dach den hohen Bäumen zurutschten,
 hatte sich der Mond wieder hinter Wolken verkrochen,
@@ -1691,11 +1691,11 @@ und es tröpfelte leicht. Wir gelangten unbemerkt
 auf das Nachbargrundstück, dasselbe, das für uns bereits
 eine besondere Rolle gespielt hatte. Es war anläßlich
 des raffinierten Mordes, bei dem ein Sonnenschirm,
-der naher auf dem Komposthaufen lag, die Waffe abgab.
+der nachher auf dem Komposthaufen lag, die Waffe abgab.
 —
 
 Dann wanderten wir ruhigen Tempos John Garmatzkis
-kleinem Häuschen zu, daß da so abgelegen mitten im
+kleinem Häuschen zu, das da so abgelegen mitten im
 Grünen an einsamer Straße sich erhebt. John würde sich
 sehr wundern, wenn wir um diese ungewöhnliche Visitenzeit
 auftauchten — mochte er! Ein neuer Verdacht war in
@@ -1708,12 +1708,12 @@ Geiste offenbar anderswo …
 Die Nacht war lau und dunkel, die lange holperige
 Straße völlig leer — leer wie die Teebüchse!
 
-Ja … Teebüchse!! Natürlich hatte auch Garka vorhin,
+Ja … Teebüchse!! Natürlich hatte auch Sarka vorhin,
 veranlaßt durch Harsts Bemerkung, darüber näheres hören
 wollen. Bisher wußten ja nur Lücke und John, außer
 uns, von dem echt goldenen bemalten Teebehälter, und
 der, der noch davon gehört hatte, dieser üble Georg
-Schirmer mit der Biedermannsmiene, war tot. Garka war
+Schirmer mit der Biedermannsmiene, war tot. Sarka war
 mit den Worten vertröstet worden, auch das Ding käme
 an die Reibe, vorerst solle er den Mund halten.
 
@@ -1727,11 +1727,11 @@ stillgelegte Gasfabrik, rechts, nach Süden zu, die
 weite Fläche der Gärten fleißiger Kleinsiedler. Im
 Kriege war dieses Gelände von rührigen Kartoffelpflanzern
 aus einer Wüstenei in fruchtbare Äcker verwandelt
-worden, halb entstanden dort die ersten Lauben, die
+worden, bald entstanden dort die ersten Lauben, die
 Siedler schlossen sich zu Vereinen zusammen, und auf
 märkischem Sande sprossen Obstbäume, Beeren, Sträucher,
 bunte Blumen … Welch’ ungeheuere zähe Arbeit hinter
-alledem sich verbarg, ahnten nur die Ihnen eben jene
+alledem sich verbarg, ahnten nur die, denen eben
 ähnliche Arbeit ein Schätzungsvermögen für diese Mühe
 und diese Freude an der Natur bescherte, wie uns!
 
@@ -1750,7 +1750,7 @@ Gewiß, sie sind arg zusammengeschmolzen, die Mördersippe,
 es ist eine schreckenerregende Hand, die diese Mitspieler
 lenkt und schiebt und bezahlt und …«
 
-Das donnernde knattern eines miserablen Motorrades
+Das donnernde Knattern eines miserablen Motorrades
 erklang hinter uns … kam rasch näher …
 
 Harst fuhr herum …
@@ -1803,7 +1803,7 @@ verkündete, — und ich wähle diesen Ausdruck mit Bedacht:
 sie fraß ihn selbst, und der Unhold ist tot.«
 
 Diese Feierlichkeit entsprach so wenig unserem
-Freunde John Garmatzki, das erst Harsts Ausruf: »Sie
+Freunde John Garmatzki, daß erst Harsts Ausruf: »Sie
 sind’s, lieber Garmatzki?!« mich emportrieb.
 
 John stand auf der einen Radbuchse und fügte harmlos
@@ -1901,7 +1901,7 @@ nur das Unbegreifliche mahnt uns an die Rache der Götter.
 sich freut!! Wie sehr!!«
 
 Selbst des Hundes stürmische dankbare Zärtlichkeit
-konnte meine Gedanken nicht ablenkten.
+konnte meine Gedanken nicht ablenken.
 
 John Garmatzki hatte Vorsehung gespielt, John
 verteidigte die Flasche mit dem »Wasser«, — — weshalb
@@ -1989,7 +1989,7 @@ Harst?«
 
 »Weil nur so der Tod der drei Leute zu erklären
 ist, Garmatzki. Der, der diese Pistole 4,9 benutzt,
-verteidigt diese »Frage« bis; zur äußersten Konsequenz.«
+verteidigt diese »Frage« bis zur äußersten Konsequenz.«
 
 John rieb ein Zündholz an. Seine Hand zitterte.
 
@@ -2009,7 +2009,7 @@ sehr unsicher.
 tadele Sie nicht, weil Sie vorsichtig sind. Ich will
 Sie nicht aushorchen. Es gibt gewisse Umstände, vor
 denen ich mein Hirn streifen lasse. — Der Wein ist
-gut, Ihr Wohl, lieber Garmatzki.«
+gut. — Ihr Wohl, lieber Garmatzki.«
 
 »Ich … ich … danke Ihnen,« flüsterte der alte
 Mann mit bebender Stimme.
@@ -2050,7 +2050,7 @@ Autos.
 
 »Harald, ich möchte endlich wissen, wer …«
 
-»Sei froh, das du nichts weißt. — Gehen wir hinaus.«
+»Sei froh, daß du nichts weißt. — Gehen wir hinaus.«
 
 Der Regen hatte fast völlig nachgelassen. Dem
 großen Polizeiauto entstiegen fünf Herren.
@@ -2088,7 +2088,7 @@ nicht so durchdringend zu mustern, Herr Kommissar …
 
 »Hoffentlich nicht!«
 
-Als das Protokoll ausgenommen wurde, schränkte
+Als das Protokoll aufgenommen wurde, schränkte
 der Alte seine ursprüngliche Behauptung dahin ein,
 daß er drüben am Zaun einen Schatten bemerkt habe,
 der auch ein Mann gewesen sein könnte.
@@ -2161,7 +2161,7 @@ ausgemistet. Vielleicht gibt’s da was Brauchbares.«
 für Thras doch etwas Trinkwasser zu bringen. Er tat’s,
 und als ich den Abfall sortierte, entdeckte ich die
 Büchse, die mir sofort gefiel. Leider fing mein Hund
-stark zu winseln an, ich merkte, das er Gift gefressen
+stark zu winseln an, ich merkte, daß er Gift gefressen
 haben mußte, — dann kamen die Herren Harst und Schraut,
 und ihnen danke ich das Leben meines Tieres. — Wünschen
 Sie noch mehr Einzelheiten, Herr Doktor?«
@@ -2170,11 +2170,11 @@ Lücke strich sich über die Stirn.
 
 »Man greift hier bei Gott immer ins Leere!« sagte
 er enttäuscht. »Harst, damit Sie es wissen: Ich habe
-abends die Büchse vom Fräulein Amstetten eingefordert,
+abends die Büchse von Fräulein Amstetten eingefordert,
 ich war selbst da, Sie gab sie mir sofort heraus und
 lachte vergnügt, als ich ihr andeutete, diese Büchse
-müsse unbedingt bei diesem verd … Rattenkönig von Vorfällen
-von aufklärender Bedeutung sein. Sie fragte auch Ihren
+müsse unbedingt bei diesem verd… Rattenkönig von Vorfällen
+von aufklärender Bedeutung sein. Sie fragte auch Ihrem
 Ergehen, und ich kann nur sagen: »Das fesche Mädel
 war sehr traurig über Ihre Blessur.«
 
@@ -2197,7 +2197,7 @@ durchsuchen. Ihre Rolle bei diesem heutigen Mord ist
 unklar. Besitzen Sie Schußwaffen?«
 
 »Ja, zwei Beduinenflinten, zwei Steinschloßpistolen
-und eine afrikanische Elefantenbüchse, « erwiderte
+und eine afrikanische Elefantenbüchse,« erwiderte
 der alte John bescheiden. »Ich fürchte, daß ich mit
 diesen Waffen schwerlich einen Menschen töten könnte,
 ohne selbst ernstlich in Gefahr zu geraten.«
@@ -2414,8 +2414,8 @@ Gerda blickte Harst scharf an …
 
 »Absicht?! Inwiefern? Kennen Sie denn meinen Vater?«
 
-»Ja, ich habe mir sein Bild verschafft. Seltsamer
-weise lag es zwischen Geschäftspapieren auf dem Schreibtisch
+»Ja, ich habe mir sein Bild verschafft. Seltsamerweise
+lag es zwischen Geschäftspapieren auf dem Schreibtisch
 der Resi Bartsch.«
 
 »Wirklich?! Das ist allerdings sehr merkwürdig.
@@ -2566,7 +2566,7 @@ Er zog Lücke beiseite und flüsterte ihm etwas
 zu.
 
 In aller Stille wurde Gerda fortgeführt. Sie hat
-die Villa nie wiedergesehen Sie starb an Grippe in
+die Villa nie wiedergesehen. Sie starb an Grippe in
 der Frauenabteilung des Zuchthauses von W. —
 
 Lücke war vorausgefahren und schickte uns eine
@@ -2630,8 +2630,8 @@ Schäferhund herbei und legte sich Harst zu Füßen.
 
 Er streichelte ihn. »Armer Kerl, du wärest beinahe
 das vierte Opfer geworden! — Meine Herren, die Einleitung
-kennen Sie, Schraut und im treffen John Garmatzki,
-und Garmatzki erwähnt, worauf Schraut nicht achtete,
+kennen Sie, Schraut und ich treffen John Garmatzki,
+und Garmatzki erwähnt, worauf Schraut nicht achtet,
 daß der Hund aus der Teebüchse Wasser gesoffen habe.«
 
 Er griff nach der Flasche mit dem »Wasser«.
@@ -2674,7 +2674,7 @@ Francis lernt dort Gerda und ihren Vater kennen, die
 völlig verarmt sind und nur durch den Verkauf von Schmuck
 die Hotelrechnungen begleichen können. Sir Francis
 verliebt sich in Gerda, spielt genau wie Gaupa und
-Lion mit unerhörten Glück … — Gerda heiratet Francis,
+Lion mit unerhörtem Glück … — Gerda heiratet Francis,
 und noch am selben Abend stirbt er als erster. Amylcyan
 ist im Körper kaum nachzuweisen. Jedenfalls versagen
 die dortigen Behörden.
@@ -2697,11 +2697,11 @@ zu.
 
 Sie … blieb stumm. Zuckte nur die Achseln …
 
-… Die drei glücklichen Spieler starben, und Gerda
+»… Die drei glücklichen Spieler starben, und Gerda
 und ihr Vater beraubten die Toten und wußten alles
 so geschickt einzurichten, daß keinerlei Verdacht auf
 sie fiele. Aber Lord Ralph Stoorgard, der mit zu diesem
-Erlesenden Kreise gehörte und stets mit Pech spielte,
+erlesenen Kreise gehörte und stets mit Pech spielte,
 hatte sich in Gaupas Sekretärin verliebt: Resi Bartsch.
 — Resi wird Verdacht geschöpft haben, aber da Lord
 Ralph mittellos dastand, konnten sie zunächst nichts
@@ -2783,7 +2783,7 @@ Dann — und das war das Erstaunliche an diesem
 Weibe — richtet sie sich straff auf.
 
 »Es ist wahr,« sagte sie ganz laut. »Alles ist
-wahr. Ich selbst tötete die drei, im konnte ohne Reichtum
+wahr. Ich selbst tötete die drei, ich konnte ohne Reichtum
 und Luxus nicht leben, ich wurde fast wahnsinnig, als
 mein Vater mir erklärte, daß wir bettelarm geworden.
 Auch ich spielte in Monte und … verlor. Da kam noch
@@ -2814,7 +2814,7 @@ bisher nicht ermittelt seien… — sie wurden nie ermittelt.
 Sie leben in Frieden und Glück im fernen Lande.
 
 Wir beide gingen dann in Harsts Arbeitszimmer
-hinab, um Otto Garka, den Kranken-Stellvertreter, aus
+hinab, um Otto Sarka, den Kranken-Stellvertreter, aus
 dem Bett zu entlassen und von der Eisblase zu befreien.
 
 Das war vorerst nicht möglich.
@@ -2825,7 +2825,7 @@ grob, als wir ihn aufweckten.
 
 Harst mußte also auf dem Diwan schlafen.
 
-Garka erwachte erst abends sieben Uhr, und auch
+Sarka erwachte erst abends sieben Uhr, und auch
 dann gab es noch einen Kampf um die Kognakflasche,
 die leider nicht leer gewesen war …
 
@@ -2835,9 +2835,9 @@ Johns Andenken für uns ist Thras, und Gerdas Andenken
 für das Präsidium ist die alte japanische Teebüchse,
 die im Kriminalmuseum steht.
 
-Nächstens will ich von Garkas nächtlichem Abenteuer
+Nächstens will ich von Sarkas nächtlichem Abenteuer
 erzählen … Vielleicht unter dem Titel:
 
-<p class="em centered">Garka und der weiße Sarg.</p>
+<p class="em centered">Sarka und der weiße Sarg.</p>
 
 <@harst.druck/>
