@@ -13,7 +13,7 @@ durch die Efeuwände hinaus auf die engen belebten Gassen
 dieser urdeutschen Stadt, die jetzt in Bozano umgetauft ist,
 seitdem die Italiener hier in Südtirol die neuen Herren sind,
 — es war ein köstlich milder Juniabend, wir fühlten kaum
-mehr, daß es eine recht aufregende Reise
+mehr, daß eine recht aufregende Reise
 Berlin—München—Kufstein—Innsbruck—Brenner-Paß—Bozen hinter uns lag,
 wir hatten hier im Zentral wieder unser altes Zimmer Nr. 23
 bekommen, und der unnennbare schlichte Zauber dieser wundervollen
@@ -26,7 +26,7 @@ unverändert frisches Aussehen unter das kecke Näschen rieb.
 Kathi mußte dann an anderen Tischen bedienen, wir waren
 allein und studierten die Speisekarten — bitte: Zwei Karten,
 <@pagebreak/>
-denn im Italienischen sind wir durchaus Anfänger, und, wir
+denn im Italienischen sind wir durchaus Anfänger, und wir
 mußten daher auch Karte Nr. 2, in deutscher Sprache *ohne
 Preise*, zu Rate ziehen, — ein ganz netter Trick dieses
 vielgehaßten, so unerhört tüchtigen Mussolini, der Fremde und
@@ -83,8 +83,8 @@ absolut echtem Erstaunen:
 
 »Es stimmt«, nickte Harald und blickte auf die beiden
 Speisekarten und senkte die Stimme … »Es stimmt nur zu
-sehr, und ich wäre nie abgereist, meine mir dieser reiche »Amerikaner«,
-der da »zufällig« unseren Ottos in einer Kneipe
+sehr, und ich wäre nie abgereist, wenn mir dieser reiche »Amerikaner«,
+der da »zufällig« unseren Otto in einer Kneipe
 kennengelernt und ihn sofort begeistert in sein dollargepanzertes
 Herz eingeschlossen und mit runden tausend Mark für
 zwei Wochen angeworben haben soll, nicht äußerst verdächtig
@@ -112,10 +112,10 @@ eines reichen Yankee, beinahe …! Es fehlte nur noch die
 kurze Pfeife zwischen den dünnen Lippen und die durch Kaugummi
 aufgetriebene Backe!
 
-Kathi erschien jetzt sehr gelegen, wir bestellen das Abendessen,
+Kathi erschien jetzt sehr gelegen, wir bestellten das Abendessen,
 und Kathi schrieb hastig das Gewünschte auf ihren
 Küchenblock und sagte so nebenbei: »Mir fallt’s grad’ ein, —
-da is heult an Landsmann von Ihnen angekommen, wissen’s,
+da is heut an Landsmann von Ihnen angekommen, wissen’s,
 auch an Berlina, — sehr krank, — schad’, sehr krank, aber
 von an Doktor will er nichts wissen, der feine Herr, der, —
 er schläft halt, — — aber sehr krank war er, wissen’s, wie
@@ -208,7 +208,7 @@ sind immer einwandfrei.
 Harst ignorierte den billigen Witz. »Es war sehr leichtfertig
 von der Hotelsekretärin, den Schlüssel am Schlüsselbrett
 hängen zu lassen …!« Und sein überaus ernster Ton
-benahm mir jegliche Luft zu neuen Anspielungen auf Ottochens
+benahm mir jegliche Lust zu neuen Anspielungen auf Ottochens
 Alkoholzustand.
 
 Er klappte den Kofferdeckel empor. Das Innere zeigte
@@ -310,7 +310,7 @@ Harst sagte, seine Zigarette anzündend:
 Lächeln. »Der Mann hatte frische Kratzwunden an den
 Händen … — Gehen wir.«
 
-Meinte Sherlock Holmes-Begabung brachte die Kratzwunden
+Meine Sherlock Holmes-Begabung brachte die Kratzwunden
 sofort mit zwei mittels Stemmeisen erbrochenen Koffern
 in engste Verbindung.
 
@@ -1217,9 +1217,9 @@ Generaldirektor Theo Nußstrauch nebst Nachwuchs
 machten Gesichter wie Säuglinge, denen die Amme aus Versehen
 statt des Schnullers eine Zigarre in das Mündchen
 steckt. — »Spione?!!«, rief Georg, der Sprößling, mit einem
-unnachahmlichen schliefen Grinsen. »Pardon, wie soll ich
+unnachahmlichen geistlosen Grinsen. »Pardon, wie soll ich
 <@pagebreak/>
-das vorstehen, Herr … Herr, — pardon, wie war doch Ihr
+das verstehen, Herr … Herr, — pardon, wie war doch Ihr
 Name? Richtig … Harst …«
 
 Harst besänftigte die beiden sehr bald, indem er ihnen
@@ -1245,7 +1245,7 @@ zwei Kabinen erster Klasse für den morgen abend
 von Venedig abgehenden Fiume-Dampfer bestellt hatten.
 
 Wie gesagt: Durchaus harmlose Berliner, die beiden, —
-Harsts und meinen bescheidenen Naturen kannten sie nicht,
+Harsts und meinen bescheidenen Namen kannten sie nicht.
 Nußstrauch las nur das Börsenblatt und das Fachblatt für
 die Schuhindustrie (sein Betätigungsfeld waren eben Fußbekleidungen
 vom Wasserstiefel bis hinauf zum elegantesten
@@ -1295,7 +1295,7 @@ hineingelegt.
 Die so wundervoll klingende, leider für den praktischen
 Gebrauch jedoch vollkommen widersinnige Redensart, daß das
 Auge der Spiegel der Seele sei, fand hier wieder einmal eine
-gründliche Widerlegung durch die beiden angeblichen Nußsträucher
+gründliche Widerlegung durch die beiden angeblichen Nußsträucher.
 — Würde sich im Auge jedes Hochstaplers oder
 Verbrechers besseren Formats der Charakter dieser Herrschaften
 tatsächlich widerspiegeln, dann hätte die Polizei die
@@ -1341,7 +1341,7 @@ am 14. d. M. abends nach Berlin an Sie aufgab, schriftlich
 wortgetreu unseren Freunden an Bord des Motorbootes
 aushändigen. Geben Sie sich bitte keinerlei Illusionen
 hin, daß Sie sich etwa retten können. An Bord
-befinden sie fünf Leute, mit denen wir seit langem in
+befinden sich fünf Leute, mit denen wir seit langem in
 engster geschäftlicher Verbindung stehen.
 
 <p class="centered">Generaldirektor Nußstrauch und Sohn,</p>
@@ -1390,9 +1390,9 @@ dies zur Beruhigung überreichen. — Wollen Sie also?«
 Harst überlegte sehr lange. »Ja, ich will … Aber erst
 den zweiten Zettel …!«
 
-Wir lasen in derselben verstohlen Handschrift:
+Wir lasen in derselben verstellten Handschrift:
 
-»Meine Herren, Sie können überzeugt sein, daß die Zusage,
+> »Meine Herren, Sie können überzeugt sein, daß die Zusage,
 Sie beide in Venedig an Land zu setzen, unbedingt eingehalten
 werden wird. Wir sind leider gezwungen gewesen,
 ganz gegen unsere sonstigen Geschäftsgepflogenheiten in diesem
@@ -1597,7 +1597,7 @@ nur mit den Zangen natürlich, denn das andere Ende,
 die Handgriffe, dürfen nicht heiß werden. Tue es nur, —
 ich weiß, du denkst, sie wird zu langsam genügend warm …
 Keine Sorge, wir haben ja Zeit, und gerade die Ohren sind
-sehr empfindlich. Früher schnitt man üblere Halunken einfach
+sehr empfindlich. Früher schnitt man üblen Halunken einfach
 die Ohren ab, das soll sogar noch sehr häufig zur Zeit
 des Türkenregimes in Dalmatien vorgekommen sein … Vielleicht
 habt ihr beide auch in eurer Ahnenreihe einige Leute
@@ -1689,7 +1689,7 @@ kennen wir Unterorgane die Zentrale dieser Organisation
 nicht mehr. Strauch hat als eigentlicher Leiter des Ganzen die
 beiden Jahre Zuchthaus glänzend ausgenutzt und den »Midiako«
 nun vollständig in eine Europa und Amerika umfassende
-Verbrecherorganisation umgewandelt. Aus das ist Tatsache.
+Verbrecherorganisation umgewandelt. Auch das ist Tatsache.
 <@pagebreak/>
 Wir beide hier in Venedig freilich sind nur Handlanger geblieben,
 wir erhalten unsere Befehle nie direkt, sondern stets
@@ -1705,7 +1705,7 @@ daß Sie das Risiko auf sich nehmen und die Motorjacht durch
 das Signal herbeirufen wollen, die sich tatsächlich in der Nähe
 befindet. Dieses Risiko wäre zu groß, Herr Harst, — die
 Motorjacht hat sicherlich eine Menge Leute an Bord, ich
-keine Sie nicht, ich kann nur warnen: Wir beide, Sie beide
+kenne Sie nicht, ich kann nur warnen: Wir beide, Sie beide
 und der Sonnhuber droben würden einfach alle niedergeknallt
 werden, nicht einer käme mit dem Leben davon.«
 
@@ -1715,7 +1715,7 @@ werden, nicht einer käme mit dem Leben davon.«
 »Nur die Gelbscheibe der kleinen Laterne am Bug durch
 eine rote austauschen, die rote fünf Minuten an ihrem Platze
 lassen, und dann eine grüne benutzen. — Falls Sie so leichtsinnig
-sein wollen, Herr Harst, — ich kam nur nochmals
+sein wollen, Herr Harst, — ich kann nur nochmals
 warnen …!«
 
 »Ist es eine größere Motorjacht?«, — Harst schien bereits
@@ -1752,7 +1752,7 @@ Wir tun am richtigsten, den Inhalt der Depesche Sarkas preiszugeben.«
 »Warte nur ab …« — Und er setzte sich wieder an den
 Tisch, nahm Papier, Federhalter und eine neue Feder und
 schrieb in deutscher und englischer Sprache den getreuen Wortlaut
-jenes Telegramme nieder, das uns in all diese Ungelegenheiten
+jenes Telegramms nieder, das uns in all diese Ungelegenheiten
 verwickelt hatte …
 
 <@pagebreak/>
@@ -1854,7 +1854,7 @@ langen Blick. »Nimmt sie denn jeden Fremden auf?«
 Der Montenegriner hob die Schultern. »Keine Ahnung,
 Herr Harst. Weshalb aber nicht?!«
 
-»Besitz das Fremdenheim ein eigenes Motorboot?«
+»Besitzt das Fremdenheim ein eigenes Motorboot?«
 
 »Ja, eine mittelgroße weiße Jacht, — das stimmt. —
 Hallo, da kommt mir ein Gedanke …! Die Jacht könnte
@@ -1863,13 +1863,13 @@ vielleicht …«
 »Den Gedanken habe ich Ihnen unstreitig vorweggenommen.
 — Nun zu ebenso wichtigen Dingen. Wir werden
 jetzt für alle Fälle signalisieren. Es ist ja natürlich zwecklos,
-denn die bewußte Jacht ist längst wieder zu den Pfählen
+denn die bewußte Jacht ist längst wieder an den Pfählen
 vor dem Palazza Ferretti vertäut …«
 
 »Verzeihung — nicht vertäut«, korrigierte der Mann
 eifrig, und es war bei ihm der ehrliche Eifer eines Menschen
 der die »Leiter« wieder emporsteigen möchte, »der alte Marmorkasten
-hat von früher her ein Wassertopf und ein eingebautes
+hat von früher her ein Wassertor und ein eingebautes
 Wassergewölbe, darin liegt die Jacht stets …«
 
 »Sehr gut, — also das Signal, dann warten wir eine
@@ -1920,7 +1920,7 @@ sie auch noch so oft besucht haben. Erbaut auf 118 kleinen
 Inseln mitten im Meer, mitten in der riesigen Lagune, die sich
 von der kleinen südwestlichen Inselstadt Chioggia weit über
 die umliegenden Lagunenstädtchen Murano, Burano und
-wie sie alle heißen gen Norden erstickt, — erbaut auf
+wie sie alle heißen gen Norden erstreckt, — erbaut auf
 Pfahlrosten, durchzogen von zahllosen Kanälen, über die 452
 Brücken führen …
 
@@ -1931,7 +1931,7 @@ als selbständiges Staatswesen beherrschte, die noch heute Kunstschätze
 und Bauten aufweist, die, von den Jahrhunderten geheiligt,
 nicht ihresgleichen haben. — Venedig beschreiben, auch
 nur den Versuch zu machen, seiner Eigenart gerecht zu werden:
-Ein Zweckloses Unterfangen! Viele haben es versucht … Ich
+Ein zweckloses Unterfangen! Viele haben es versucht … Ich
 besinne mich auf eine Frau, die mit Vorliebe ihre Kriminalromane
 in Venedig spielen ließ, auf die Gräfin Eughenia von
 Adlerfeld-Ballestrem. Ihre Romane sind vergessen, — auch
@@ -1961,7 +1961,7 @@ Zettel mit seiner Adresse in die Hand drückte.
 
 Adresse?! Welche?!, fällt es mir in diesem Augenblick
 ein, aber da Signore Bonzo schon mit gemilderter Grobheit
-(wie vereinbart) »Jetzt können Sie verschwinden!«, ruft klettere
+(wie vereinbart) »Jetzt können Sie verschwinden!« ruft, klettere
 auch ich auf die Treppe und bin nun wirklich auf venezianischem
 Boden, und als wenig erwünschte Empfangsdame saust mir
 eine riesige Wasserratte über die durchweichten braunen
@@ -2017,7 +2017,7 @@ Das Hotel war geschlossen. Aber gleich nach dem ersten
 <@pagebreak/>
 Läuten öffnete der Nachtportier die Tür, ließ uns ein, schloß
 wieder ab und flüsterte hastig: »Herr Harst? — Dann bitte
-hier hinein …« — Eine halbe Treppe hoher lag das Büro.
+hier hinein …« — Eine halbe Treppe höher lag das Büro.
 Dort brannte Licht, dort saßen drei Herren, dort sprang der
 kleine Vantuppi beglückt aus seinem Sessel hoch.
 
@@ -2120,7 +2120,7 @@ Koffer hastig und wollte wieder hinaus, traf jedoch in der Tür
 mit Garring zusammen, der sie festzuhalten suchte, sie zerkratzte
 ihm dabei die Hände, stieß ihn mit erstaunlicher Körperkraft
 in das Zimmer hinein, schloß schnell ab und flüchtete. Garring
-wieder, der Seine heikle Lage angesichts der offenen Koffer erkannte,
+wieder, der seine heikle Lage angesichts der offenen Koffer erkannte,
 der anderseits auch sein Geheimnis vor der Polizei
 nicht preisgeben wollte, da er dessen Tragweite nicht kannte,
 schlich mit Hilfe eines Nachschlüssels hinaus und setzte sich dann
@@ -2140,7 +2140,7 @@ um ihren Verbündeten Befehle zu geben, Sarka zu entführen,
 was dann auch durch den sehr rührigen Midiako geschah,
 sie selbst kehrte in anderem Mantel in das Theater zurück,
 sie hatte nichts Verdächtiges mehr bei sich, die Beute
-hatte sie draußen ihren Leuten ausgehändigt die Spitze lag
+hatte sie draußen ihren Leuten ausgehändigt die Spritze lag
 in unserer Loge, — — wollen Sie noch etwas wissen, dann gedulden
 Sie sich … Auf Wiedersehen … Und meine Wünsche
 bitte genau befolgen, Vantuppi, sonst geht es uns vielleicht
@@ -2160,7 +2160,7 @@ Wasser der Kanalabzweigung hinabreichende Flügeltor des
 Jachthafens eingenommen wurde, — — finster und drohend
 lag das uralte Gebäude da, eingezwängt zwischen ebenso armseligen
 Bauten, und doch mit seinen geschlossenen Fensterladen
-und seiner hab zerbrochenen Steintreppe und den matt schillernden
+und seiner halb zerbrochenen Steintreppe und den matt schillernden
 Löwenköpfen des Einganges unheimlich wirkend.
 
 Harst deutete auf eine unweit vertäute Gondel. »Vorwärts,
@@ -2213,7 +2213,7 @@ haben. Und noch etwas: Sollten wir die Bande wirklich
 dicht hinter mir …«
 
 Der kurze, gewölbte muffige Gang endete in einer kleinen
-Vorhalle, aus der eine breite stelle Marmortreppe, mit neuen
+Vorhalle, aus der eine breite steile Marmortreppe, mit neuen
 roten Läufern belegt, nach oben führte.
 
 Wir horchten angestrengt, vernahmen auch undeutlich
@@ -2278,7 +2278,7 @@ Zentrum der Lagunenstadt zu …
 keuchte Harst … »Wir müssen unbedingt vor ihm
 die Rialto-Brücke erreichen …«
 
-So sonderbar es erscheinen mag: Aber den Canal Grande
+So sonderbar es erscheinen mag: Über den Canal Grande
 führt nur *eine* Brücke, und das ist die alte schöne Rialto-Brücke
 mit ihrem reichen Marmorschmuck.
 
