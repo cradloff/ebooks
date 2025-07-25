@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">2c278ca5-75a2-4e80-9e2a-b55ec8d354cb</entry>
+<entry key="title">Die leere Teebüchse</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">281</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Die leere Teebüchse
+
+John Garmatzki war Altertumsforscher. Sein Handwerkszeug bestand aus einem Hundewägelchen, ein paar Säcken, einer Hacke und den eigenen Augen und Händen. Der dürre kleine Mann, der stets in einem Aufzuge umherlief, das mildtätige Seelen ihm so manches Scherflein zustecken wollten, nahm nie eine Gabe an. Er verdiente auf den Schuttabladeplätzen und den sonstigen Orten seiner ehrlichen Findertätigkeit übergenug für seine Anspruchslosigkeit.  Wir trafen ihn oft, wenn wir vormittags spazieren gingen, er hatte eine feine Nase dafür, wo es etwas zu ergattern gab. Leere Baustellen, auf denen die Nachbarn freundlichst verwanzte Matratzen, unbrauchbares Geschirr und ähnliche tote Dinge abluden, bevorzugte er mit Vorliebe, und gerade die westlichen Vororte Berlins, die Villenviertel, spendeten ihm so manches »Wertstück«, das in anderen Stadtteilen kaum als unbrauchbar weggetan worden wäre.
+
+Diesen John trafen wir wieder einmal an einem milden Maitage draußen an der Grenze von Dahlem und Zehlendorf, wo er auf einem schmalen, unbebauten Landstreifen zu unserem Erstaunen neben einem Berg toter Dinge und neben seinem Hunde kniete und verzweifelt das in wilden Zuckungen sich windende Tier durch Einflößen von schwarzem Kaffee wieder auf die Beine bringen wollte.
+
+Er sah uns, er winkte, rief atemlos:
+
+»Thras muß Gift gefressen haben …!«
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (281) Die leere Teebüchse.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1929</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+

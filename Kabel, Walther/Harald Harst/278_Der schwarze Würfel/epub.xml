@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">772e4c00-9f77-4545-83ef-3cd3d971b2b6</entry>
+<entry key="title">Der schwarze Würfel</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">278</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Der schwarze Würfel
+
+Das wir damals mit dem in der Zwangsversteigerung erworbenen Rittergut Bomstdorf zugleich auch die Verpflichtung übernommen hatten, die Vorbesitzerin nebst Anhang bis zu ihrem Ableben in dem sogenannten Parkhause wohnen zu lassen, hatte uns bei den Vorverhandlungen mit dem Güteragenten Siegfried Stahlbein nicht weiter gestört. Harst kaufte das durch die Verschwendungssucht der Herrn von Bomst-Bomstel bis auf 1300 Morgen zusammengeschmolzene Gut ja auch weniger für sich als für Frau Lissie Blank, die mit ihrem Gatten noch in Italien hochzeitsreiste.
+
+An einem etwas trüben Junimorgen verlegten wir dann unseren Haushalt bis auf weiteres nach Bomstdorf.
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (278) Der schwarze Würfel.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1929</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
