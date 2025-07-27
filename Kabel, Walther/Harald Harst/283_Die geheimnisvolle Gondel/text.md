@@ -1,12 +1,7 @@
 <@pagebreak/>
 
-<@pagebreak/>
-Harald Harst: Aus meinem Leben
-
-Die geheimnisvolle Gondel
-
-Erzählt von ckMax
-Schraut
+<#import "*/harst.ftl" as harst>
+<@harst.introshort/>
 
 <h2>1. Kapitel.</h2>
 
@@ -44,7 +39,7 @@ raunte uns vertraulich an der Tür zu, daß der Signore Sarka
 die Nacht über auf vier Stühlen im Lokal geschlafen habe.
 
 »Schämen Sie sich!«, meinte Harald leise zu dem blonden
-Wüstling, der uns aus verquollenen Augen fidel angrinste,
+Wüstling, der uns aus verquollenen Augen fidel angrinste.
 »Sie blamieren hier das Deutschtum in Venedig, Sie …«
 
 »Reden Sie keinen Stuß!«, blähte sich der Reporter der
@@ -55,7 +50,7 @@ der Polizei dankbar die Hand gedrückt, gestern brachten die
 Zeitungen endlose Artikel über die glorreiche Vernichtung des
 Midiako, die Kerle dieses Gaunerkonsortiums sitzen hinter
 Schloß und Riegel und meine Verdienste stinken fast gen
-Himmel, den Gestank ist stets nachhaltiger und reicht weiter
+Himmel, denn Gestank ist stets nachhaltiger und reicht weiter
 als Edelduft. — Setzen Sie sich. Ich bin gerade beim Frühschoppen,
 habe schon sechs marinierte Heringe, zwei gesottene
 Tintenfische und …«
@@ -68,310 +63,306 @@ Ottochens Gesicht blitzartig veränderte.
 vor dem zuständigen Kriminalchef entwischt.«
 
 Eins mußte man ja diesem begabten Jüngling lassen:
-See es darauf ankam, war er wieder im Nu auf der
-
-die
+Wenn es darauf ankam, war er wieder im Nu auf der
+Höhe!
 
 »Donnerwetter — die Idioten!«, rief er und rieb sich
 kräftig die matten Augen.
 
 »Urteilen Sie nicht zu streng«, mahnte Harst und nippte
-an Seinem Pilsner. »Venedig war ja einst ein reguläres
+an seinem Pilsner. »Venedig war ja einst ein reguläres
 <@pagebreak/>
 Mördernest, in dem Dolch und Gift die Beziehungen unter
 den ehrgeizigen Patriziergeschlechtern regelten. Heute ist es
-Sremdeustadt, beinahe unheimlich »brav, kein Kaufmann oder
-Kellner schmiert einen Reisenden mit falschen Lirestücken an
-mithin hat auch die Polizei so eine Art Winterschlaf be.
-Tonnen, mithin war es kein Wunder, daß dieser gerissene
+Fremdenstadt, beinahe unheimlich brav, kein Kaufmann oder
+Kellner schmiert einen Reisenden mit falschen Lirestücken an,
+mithin hat auch die Polizei so eine Art Winterschlaf begonnen,
+mithin war es kein Wunder, daß dieser gerissene
 Georg Nusche die Gefangenenwärter durch seinen plötzlichen
 Krampfanfall täuschte, daß sie ihn in eine Aktenkammer
 trugen und einen Arzt holten, der dann natürlich nur die
-Akten zu kurieren hatte: Nusche war durch das Fenster hin.
-abgeklettert, hatte eine unten in einem engen Kanal liegende
+Akten zu kurieren hatte: Nusche war durch das Fenster
+hinabgeklettert, hatte eine unten in einem engen Kanal liegende
 Gondel bestiegen und ist seitdem abgängig …«
 
-Sarka bestellte beim Kellner einen Syphon und Zwei
+Sarka bestellte beim Kellner einen Syphon und zwei
 Zitronen, schob sein Bierglas weg und meinte leichthin:
 
-»ach begreife die Bedeutung dieser Flucht für mich durch.
-aus, lieber Herr Harst.« Sein frisches Gesicht mit den blauen
-runden Puppenaugen und dem!stark vorgebauten Unterkiefer
-der sprechen Stupsnase und dem ewigen stellen Grinsen war
-gänzlich verwandelt, »Georg Nusche wird mich für die endgültige
+»Ich begreife die Bedeutung dieser Flucht für mich durchaus,
+lieber Herr Harst.« Sein frisches Gesicht mit den blauen
+runden Puppenaugen und dem stark vorgebauten Unterkiefer
+der frechen Stupsnase und dem ewigen fidelen Grinsen war
+gänzlich verwandelt. »Georg Nusche wird mich für die endgültige
 Pleite des Mitteleuropäischen Diamantenkonzerns,
-Midiako genannt, verantwortlich machen und mir dennoch!
-freundlichst ein paar Kugeln in die Nippen jagen — oder
+Midiako genannt, verantwortlich machen und mir demnächst
+freundlichst ein paar Kugeln in die Rippen jagen — oder
 jagen wollen, denn Otto Sarka ist kein Karnickel, das sich
-so ohne weiteres abknallen läßt. Schaute Ihnen für Ihre
-Warnung. — Ober, quetschen Sie mir den Fast beider Zitronen
+so ohne weiteres abknallen läßt. Ich danke Ihnen für Ihre
+Warnung. — Ober, quetschen Sie mir den Saft beider Zitronen
 in das Glas, spritzen Sie den Gespritzten mit hinein,
-und in zehn Minuten bin ich fähig, einer achttägigen Schwurgerichtsverhandlung
-gegen die gewiegtesten Berliner Groß«-
-Schieber nebst Anhang zu folgen, — Kunststück: Gerichts««
-Reporter!«
+und in zehn Minuten bin ich fähig, einer achttägigen
+Schwurgerichtsverhandlung gegen die gewiegtesten Berliner
+Großschieber nebst Anhang zu folgen, — Kunststück: Gerichtsreporter!«
 
 Er trank das alkoholfreie Zitronenglas mit drei langen
 Schlucken und unter fürchterlichen Grimassen leer und wischte
-sich die etwas dicken Lippen ab. »So, Tiere Harst, nun kann
-es losgehen. Was tun wir? Den auch Sie und Schrautchen
+sich die etwas dicken Lippen ab. »So, Herr Harst, nun kann
+es losgehen. Was tun wir? Denn auch Sie und Schrautchen
 sind entschieden mit bedroht.«
 
 <@pagebreak/>
-»Kaum«, und Harst nahm eine Zigarette. »Wein
-Kenntnis der Psyche der großen Verbrecherwelt ist denn Dock
+»Kaum«, und Harst nahm eine Zigarette. »Meine
+Kenntnis der Psyche der großen Verbrecherwelt ist denn Doch
 zu tiefgründig — hübscher Ausdruck übrigens — tiefgründig
-als daß ich diesem geriebenen Tasche die Dummheit zutraute
-die soeben erst wiedergewonnene Freiheit aus Spiel und sich
+als daß ich diesem geriebenen Nusche die Dummheit zutraute
+die soeben erst wiedergewonnene Freiheit aufs Spiel und sich
 selbst der Gefahr auszusetzen, daß die italienische Justiz ihn
 in die nordafrikanische, höchst ungemütliche Strafkolonie
 schickt. — Nein, lieber Sarka, Georg Nusche wird zunächst
-so unsichtbar und untätig wie möglich bleiben, aber …
+so unsichtbar und untätig wie möglich bleiben, aber …«
 
 Sarka ergänzte prompt: »… aber später wird er desto
-eifriger Sein!«
+eifriger sein!«
 
 »Das ja, und deshalb, mein Sohn, werden wir ihn hier
-irgendwie auszuziehen suchen. Aus Venedig kommt er nicht
-heraus, Geld hat er nicht, mithin …
+irgendwie aufzufischen suchen. Aus Venedig kommt er nicht
+heraus, Geld hat er nicht, mithin …«
 
-… wird er als erstes irgendwo versehentlich eine fremde
-für öffnen und als Schlafwandler nach allem greifen, was
-Wert hat, er war ja auch Hoteldieb, er war alles, dieser aha-,
-Kemenate frühere Damentimnitator. Ich besinne mich noch genau,
+»… wird er als erstes irgendwo versehentlich eine fremde
+Tür öffnen und als Schlafwandler nach allem greifen, was
+Wert hat, er war ja auch Hoteldieb, er war alles, dieser phänomenale
+frühere Damenimitator. Ich besinne mich noch genau,
 wie er vor sechs Jahren im Wintergarten in Berlin auftrat
-und wie das Publikum »Schwindels« brüllte, weil er
+und wie das Publikum »Schwindel!!« brüllte, weil er
 so verblüffend der verflossenen …«
 
-»… Lassen Sie Verstohlenes ruhen, gehen Sie in Ihr
-Hotel, ziehen Sie sich um, Patronen Sie sich und kommen
+»… Lassen Sie Verflossenes ruhen, gehen Sie in Ihr
+Hotel, ziehen Sie sich um, rasieren Sie sich und kommen
 Sie auf die Piazzetta, wo Schraut und ich Sie erwarten
 werden. Wir fahren zum Lido hinaus, die Adria freut sich
-Ton, unsere werten Körper sanft Umwegen zu dürfen
-un«
+schon, unsere werten Körper sanft umwogen zu dürfen
+und …«
 
 Sarka warf ihm einen sehr mißtrauischen Blick zu. »Sie
 sind so poetisch, lieber Harst. — Glauben Sie, daß Nusche auf
 dem Lido steckt?«
 
-»Gehen Viel«
+»Gehen Sie!!«
 
 Ottochen zahlte und verschwand.
 
 Harald lobte das Pilsner, betrachtete die anderen Gäste
 und meinte dann sehr gedämpften Tones: »Auf dem Lido
-herrscht jetzt Hochbetrieb, die Hotels sind gefüllt, und wenn.
-
+herrscht jetzt Hochbetrieb, die Hotels sind gefüllt, und wenn
 <@pagebreak/>
-Nusche Aussicht hat, irgendwo das innig nötige Kleingeld
+Nusche Aussicht hat, irgendwo das ihm so nötige Kleingeld
 zu ergattern, dann ist er dort. Vorgestern traf der amerikanische
-Rundreisedampfer mit 900 retten Brieftaschen und
-einer ganzen Guwelenausstelling ein, das Excelsior-Hotel ist
-vollgestopft mit Millionären, und —«
+Rundreisedampfer mit 900 fetten Brieftaschen und
+einer ganzen Juwelenausstellung ein, das Excelsior-Hotel ist
+vollgestopft mit Millionären, und — —«
 
 Er griff nach seinem Glase, trank und blinzelte mir zu.
 
 Soeben hatte ein rundes Dutzend Dollargäste lärmend die
-bekannte Bierstube betreten, hinterher Siam noch ein zweiter
-Schwarm, die Herrschaften ’verteilien sich, und ausgerecwnet
-Lebten sich an unseren Tisch ein Ehepaar mit zwei tadellos
+bekannte Bierstube betreten, hinterher kam noch ein zweiter
+Schwarm, die Herrschaften verteilten sich, und ausgerechnet
+setzten sich an unseren Tisch ein Ehepaar mit zwei tadellos
 gefärbten Töchtern, und der liebe Pa begann sofort mit uns
-eine Unterhaltung, redete Harst vertraulich mit »Old Hirn«
-un und verriet schon nach den ersten Sätzen, daß er meinen
-&reund mit einem der Passagiere das Zuilivnärsteamers verwechselte.
-Als Harst dieser Zentrum richtig stellte, fiel die
-ganze vierköpfige Gar ihre.« — Kastell zu« Ellen Wolken.
+eine Unterhaltung, redete Harst vertraulich mit »old Jim«
+an und verriet schon nach den ersten Sätzen, daß er meinen
+Freund mit einem der Passagiere das Millionärsteamers verwechselte.
+Als Harst diesen Irrtum richtig stellte, fiel die
+ganze vierköpfige Familie Bulgeroll allen Wolken.
 
-»Rein, diese Star: in: 8.41, rief Sau Bulgeroll, Kaffee
-en gros aus Posten, ist, — pugläubiggr: Einigen, »Mister
-Harst, Sie sehen unsere. 3 Freude Du Austin zum Verwechseln
-ähnlich. — Sir? en? nun) vorn Brüder 17«
+»Nein, diese Ähnlichkeit", rief Frau Bulgeroll, Kaffee
+en gros aus Boston, mit ungläubigem Staunen. »Mister
+Harst, Sie sehen unserem Freude Jim Austin zum Verwechseln
+ähnlich. — Sind Sie auch von drüben?«
 
-»Rein, von Berlin …
+»Nein, von Berlin …«
 
-Die vier Bulgerolls 15:37 den Kühle, die Töchter setzten
-hochmütige Entente-Gestickten auf, und »gar. »Kaffee en gros«
-klatschte die plombierten ); euer und murmelte etwas von
-»Garten Abneigung gegen G ’rmany« »7 — worauf Harst seinem
-Stuhl einen Dreh nach der ruderten Seite gab und dem Kellner
-winkte, der jedoch recht Fest steht war. Nur &rau
-Bulgeroll Sah das Zahllose vieles « chJenchn »1s ein, trommelte
-sehr energisch; mit der Lorgnette As den « &jcmberher und Sagte
-sehr höflich: »Mr. Harst, mein Mann hat zu einer Schwindelfirma
+Die vier Bulgerolls wurden kühler, die Töchter setzten
+hochmütige Entente-Gesichter auf, und Mr. »Kaffee en gros«
+fletschte die plombierten Hauer und murmelte etwas von
+»starker Abneigung gegen Germany«, — worauf Harst seinem
+Stuhl einen Dreh nach der anderen Seite gab und dem Kellner
+winkte, der jedoch recht beschäftigt war. Nur Frau
+Bulgeroll Sah das Taktlose dieses Benehmens ein, trommelte
+sehr energisch mit der Lorgnette auf den Aschbecher und Sagte
+sehr höflich: »Mr. Harst, mein Mann hat an einer Schwindelfirma
 in Berlin viel Geld eingebüßt.« Und zu ihren lieben
 Kindern gewandt: »Mr. Harst ist mir eine sehr angenehme
-Bekanntschaft, — ihr versteht mich wohl, im las heute früh
+Bekanntschaft, — ihr versteht mich wohl, ich las heute früh
 über die letzten kriminellen Vorfälle hier in Venedig im
-Corriere einen langen Artikel, — Verzeihung, Sie sind doch
+Corriere einen langen Artikel. — Verzeihung, Sie sind doch
 <@pagebreak/>
-Wen Mr. Harst, das Bild in der Zeitung war sehr
-steckt.«
+dieser Mr. Harst, das Bild in der Zeitung war sehr
+schlecht.«
 
-»da«, bestätigte Harald kühl, sehr kühl. Und er winkte
-dem Ober nochmals.!
+»Ja«, bestätigte Harald kühl, sehr kühl. Und er winkte
+dem Ober nochmals.
 
-Dazwischen hatte der stark verlegene Pa ein paar Ansichtskarten
+Inzwischen hatte der stark verlegene Pa ein paar Ansichtskarten
 ausgebreitet und suchte offenbar nach seiner
-Brieftasche. Er suchte innen erregter, die ganze &Samilie
-bekam bestürzte Gesichter, »Pa wurde wild, fluchte, redete von.
-Kreditbrief und fünftausend Lire und achthy)undert Dollar und
-dein goldenen &üllhalter, aber das »Portefeuille blieb unauffindbar,
+Brieftasche. Er suchte immer erregter, die ganze Familie
+bekam bestürzte Gesichter, Pa wurde wild, fluchte, redete von
+Kreditbrief und fünftausend Lire und achthundert Dollar und
+dem goldenen Füllhalter, aber das Portefeuille blieb unauffindbar,
 
 Harst hatte seinem Stuhl schon wieder einen entgegengesetzten
-’Dreß gegeben, und sein gutes Herz ließ ihn mitfühlend
-fragen, indem er eine unausgezogene Photographie
-von Georg Nusche, gestern hier von der ’Polizei hergestellt, dem
-völlig vertatterten ’Pa unter die Nase hielt:
+Dreh gegeben, und sein gutes Herz ließ ihn mitfühlend
+fragen, indem er eine unaufgezogene Photographie
+von Georg Nusche, gestern hier von der Polizei hergestellt, dem
+völlig vertatterten Pa unter die Nase hielt:
 
 »begegneten Sie heute diesem eleganten Herrn ohne
-Hut»
+Hut?«
 
-»er. Sohn Bulgeroll!tierte die tadellose Photographie
+Mr. John Bulgeroll stierte die tadellose Photographie
 verdutzt an.
 
-»Ja, vorhin auf dem Markusplatl; … Der Herr zeigte
+»Ja, vorhin auf dem Markusplatz … Der Herr zeigte
 mir, wie man sich die Maiskörner auf die Schultern schütten
-müsse, omi die Tauben sich …
+müsse, damit die Tauben sich …«
 
-Ah so, — damit nicht die Tauben sich auf die Schultern
-sehen, sondern damit der freundliche Herr Ihnen die Brieftasche
+»Ach so, — damit nicht die Tauben sich auf die Schultern
+setzen, sondern damit der freundliche Herr Ihnen die Brieftasche
 stehlen konnte. Der Mann ist nämlich einer der verflossenen
 Direktoren der Midiako.«
 
-Bulgeroll erhob sich rasch. »Ich muß den Kreditbrigf
-sperren lassen, — auch) mein Paß war dabei, und …
+Bulgeroll erhob sich rasch. »Ich muß den Kreditbrief
+sperren lassen, — auch mein Paß war dabei, und …«
 
-»Rasen Sie von hier aus die Bank an. Welche?«
+»Rufen Sie von hier aus die Bank an. Welche?«
 
-»Baron d’dtalia«, stöhnte Pa und wischte sich Weg
-Schweiß ab … »Bitte, tun Sie es, Mr. Harst, ich … ich …
+»Banca d’Italia«, stöhnte Pa und wischte sich den
+Schweiß ab … »Bitte, tun Sie es, Mr. Harst, ich … ich …«
 
 »Kommen Sie mit, Nusche hat wieder einmal einen
-Geniestreich begangen … Er hat Ihre Große, er wird …
-aber kommen die.
+Geniestreich begangen … Er hat Ihre Größe, er wird …
+aber kommen Sie …«
 
 <@pagebreak/>
 Als die beiden aus der Telephonzelle zurückkehrten, war
-Mr. övchn Bulgeroll sehr bleich.
+Mr. John Bulgeroll sehr bleich.
 
 Nusche hatte die Unterschrift glänzend gefälscht und nur
-»25000 Lire« abgehoben.
+»55000 Lire« abgehoben.
 
-» Kein Wunder, daß der Bostoner Millionär — er wäre
-sonst ein schlechter Geschäftseingang gewesen — sofort Harald
+Kein Wunder, daß der Bostoner Millionär — er wäre
+sonst ein schlechter Geschäftsmann gewesen — sofort Harald
 die Hälfte der Summe bot, wenn er dem Halunken den Raub
-wieder abjagte. »An dem »Paß liegt mir am meisten«, erklärte
+wieder abjagte. »An dem Paß liegt mir am meisten«, erklärte
 er schon wieder recht beherrscht.
 
-»Ich werde sehen, was sich tun läßt«, — damit veradIoiedeten
-wir uns, und Miß Lizzie und Miß Dorthin bombardierten
+»Ich werde sehen, was sich tun läßt«, — damit verabschiedeten
+wir uns, und Miß Lizzie und Miß Doritty bombardierten
 Harst mit schmachtenden Blicken,
 
 Wir schlenderten die Gasse entlang, traten auf den im
 grellen Sonnenlicht unerträglich heißen Markusplatz hinaus
-und schauten eine Weile dem uns So wohlbekannten Treiber
+und schauten eine Weile dem uns So wohlbekannten Treiben
 vor der Markuskirche zu. Die Photographen hatten viel
-Arbeit, die Verkäufer der Hüten mit den 7« Na. stolpern
-schalteten Zweilirestücke, die reizenden Tauben kletterten hin
+Arbeit, die Verkäufer der Düten mit den Maiskörnern
+scheffelten Zweilirestücke, die reizenden Tauben kletterten hin
 und her, — der Markusplatz wäre ja ohne diese zahmen
 Taubenschwärme, die droben in den Marmorzacken der Kirche
 und des benachbarten Dogenpalastes nisten, undenkbar,
 die gehören zu ihm, wie die Blattknospen zum Frühling, sie
 verleihen diesem einzigartigen, von Prachtbauten umgebenen,
-mit Marmor ausgelegten wundervollen« Mittelpunkt oveneziunischen
-Lebens erst die besondere, historisch — zarte Note.
-»miese Taube, fast alle brauchten, sollen die Nachkommen jener
-Brieftauben sein, die dem Dogen Handeln bei der Belagerung
-von »Sandig (Insel Kreta) 1204 wichtige Nachrichten überInüchten.
+mit Marmor ausgelegten wundervollen« Mittelpunkt venezianischen
+Lebens erst die besondere, historisch-zarte Note.
+Diese Tauben, fast alle blaugrau, sollen die Nachkommen jener
+Brieftauben sein, die dem Dogen Dandolo bei der Belagerung
+von Candia (Insel Kreta) 1204 wichtige Nachrichten überbrachten.
 
 Harst sog nachdenklich an seiner erloschenen Zigarette.
 
-»Oh er wohl Kleider einkaufen wird?«, meinte er gedankenverloren.
-»oh denke, wir fragen einmal in den nahen
-Ausschalten so etwas nach, mein Alter …«
+»Ob er wohl Kleider einkaufen wird?«, meinte er gedankenverloren.
+»Ich denke, wir fragen einmal in den nahen
+Geschäften so etwas nach, mein Alter …«
 
-Durch den Uhrturm an der Nordseite der ’Piazza Ei San
-arco betraten wir die Merceria, die »Leipziger« von
+Durch den Uhrturm an der Nordseite der Piazza di San
+Marco betraten wir die Merceria, die »Leipziger« von
 <@pagebreak/>
-Venedig … Hier Laden an Lag, eleganteste Schaufenster
-Pro räumlicher Beschränkung, ce’:n Menschengewimmel wie
+Venedig … Hier Laden an Laden, eleganteste Schaufenster
+trotz räumlicher Beschränkung, ein Menschengewimmel wie
 in keiner anderen Geschäftsstraße der Welt, — denn keine
 Straßenbahn, kein Auto, kein Radler wird hier zum Schrecken
-der 8ußgänger. Die ganze Merceria ist nur etwaige breit
+der Fußgänger. Die ganze Merceria ist nur etwa so breit
 wie etwa zwei »Elektrische«, — die ebenso belebten Seitengassen
 noch schmäler …
 
-Harst betrat ein Damenkouektionsgeschäft, — im ganzen
-fragten wir uns!9 durch etwa »?ein Läden durch, aber erst
-der letzte, bescheidenste? brachte & trotz.
+Harst betrat ein Damenkonfektionsgeschäft, — im ganzen
+fragten wir uns so durch etwa zehn Läden durch, aber erst
+der letzte, bescheidenste brachte Erfolg.
 
 »Ja, ein Herr das hier für seine Frau sehr viel eingekauft,
-— er hatte einen Gepäcktriger und zwei Koffer mit«,
-erklärte die Anhaben n.
+— er hatte einen Gepäckträger und zwei Koffer mit«,
+erklärte die Inhaberin.
 
 »Und wie Sah er aus?«
 
-Die Beschreihui 1 bewies, daß Nusche sich inzwischen
-äußerlich gründlich bewandert hatte: Spitzbart, Hut, anderen
-Anzug, Hornbrille, r: setzte, — — »Ein &ranzo]e«, meinte
-die Spielerin.
+Die Beschreibung bewies, daß Nusche sich inzwischen
+äußerlich gründlich verwandelt hatte: Spitzbart, Hut, anderen
+Anzug, Hornbrille, rote Nase, — — »Ein Franzose«, meinte
+die Inhaberin.
 
-»Leider nicht«, Jagte Harst, bedankte sich und schritt
+»Leider nicht«, sagte Harst, bedankte sich und schritt
 hinaus.
 
-Kurz vor zwölf »aßen wir auf dem nach dem Hafen zu
+Kurz vor zwölf saßen wir auf dem nach dem Hafen zu
 offenen Teil der Piazza, Piazzetta genannt, auf einer der
 Marmorbänke im Schatten und warteten auf Ottochen.
 
-Ich blickte zum?Uhrturm hinüber, wo über dem Zifferblatt
-mit 24-Stunden:ahlon links und rechts in Riesenkasten
-in länglichen Euren Ei« Stunde bar. die Minutenzahl (diese alle
-fünf Minuten) hervortpringt. Die bronzenen RNiesJengestalten
-auf der oberen Platt ’orm mit schien Hämmern, holten brave
-zum Schlage aus (zu sehen den Figuren hängt die gewaltige
-Glocken, und da … trat eine ältere Dame auf uns zu, die
+Ich blickte zum Uhrturm hinüber, wo über dem Zifferblatt
+mit 24-Stundenzahlen links und rechts in Riesenzahlen
+in länglichen Türen die Stunde bzw. die Minutenzahl (diese alle
+fünf Minuten) hervorspringt. Die bronzenen Riesengestalten
+auf der oberen Plattform mit ihren Hämmern, holten gerade
+zum Schlage aus (zwischen den Figuren hängt die gewaltige
+Glocke), und da … trat eine ältere Dame auf uns zu, die
 mit ihrem hellgrauen Schleier und ihrer schlicht-vornehmen
-Kleidung niemals an den Vertilger so ungeheurer Alkohol mengen
+Kleidung niemals an den Vertilger so ungeheurer Alkoholmengen
 erinnert hätte
 
-»Sie gestatten, das ich »Platte« nehme«, sagte sie humorvoll
+»Sie gestatten, das ich »Piazza« nehme«, sagte sie humorvoll
 und setzte sich.
 
 <@pagebreak/>
 Es war Otto Sarka.
 
-Harst musterte ihn. »Worin Sohn, Sie werden noch mal
+Harst musterte ihn. »Mein Sohn, Sie werden noch mal
 berühmt werden!«
 
-»Mein Kind«, flötete der Frechdachs, »ich zähle!sechzig
+»Mein Kind«, flötete der Frechdachs, »ich zähle sechzig
 Lenze und könnte beinahe Urgroßmutter sein.«
 
-»Kopfrechnen schwach«, wies Harst «- die Möglichkeit grünlich.
-»Wein Sie denken, auf diese Weise Georg Nusches
-Kugeln zu entgehen, irren Sie Sir Haben Sie übrigens derartige
+»Kopfrechnen schwach«, wies Harst die Möglichkeit zurück.
+»Wenn Sie denken, auf diese Weise Georg Nusches
+Kugeln zu entgehen, irren Sie sich. Haben Sie übrigens derartige
 Scherze schon häufiger gemacht und Weiberkleidung
 getragen?«
 
 Die »Dame« blieb erst still … »Ehrlichen gestanden — schon
 oft«, erwiderte Ottochen dann zu unserer größten Überraschung.
 Er war sichtlich sehr verlegen. »Sie wissen, daß meine Eltern
-recht früh verstarben, daß zwei Garten mich erzogen, alle
-Güngferlein eines kleinen Städtchens an der Versagte, einem
-Stübchen, das sich mit dem Amazonenstrom absolut nicht der
-
-!Eichen läßt, und diese lieben Garten, die mich jetzt als Verdienen
+recht früh verstarben, daß zwei Tanten mich erzogen, alle
+Jüngferlein eines kleinen Städtchens an der Persante, einem
+Flüßchen, daß sich mit dem Amazonenstrom absolut nicht vergleichen
+läßt, und diese lieben Tanten, die mich jetzt als Verlorenen
 aus ihren Herzen gestrichen haben, arbeiteten stets
 nur Puppenkleider für alle kleinen lieben süßen Mägdlein
 und — — ich mußte Modellpuppe spielen, an mir wurde Farbenwirkung
 und Faltenwurf und Spitzengarnierungen ausprobiert,
 bis ich, von allen Mitschülern verlacht und nur noch
-»der Mannequin« genannt, mit siebzehn Gatten auskniff,
+»*der* Mannequin« genannt, mit siebzehn Jahren auskniff,
 und …«
 
 »Das weitere kennen wir schon«, unterbrach Harst ihn mit
 viel Wärme und Teilnahme. — Sarkas Aufstieg bis zu einem
 der beste Gerichtsreporter war beinahe ein Roman amerikanischen
-Anschautet. An diesem jungen Burschen steckte
+Zuschnittes. In diesem jungen Burschen steckte
 eben ein ungeheurer Lebenstrieb, er war verwachsen mit seiner
 Zeit, er paßte sich nicht ihrem Tempo an, sondern er war
 selbst »Tempo«, mochte auch dahinter als Kraftquelle zum Teil
@@ -382,91 +373,91 @@ ihn reichlich für die viele Mühe, die er sich mit seiner glänzenden
 Maskierung gegeben hatte. — Daß diese »vornehme alte
 <@pagebreak/>
 Dame« für uns später recht verhängnisvoll werden sollte,
-ahnten wir nicht. &ön gehobener Stimmung bestiegen wir
-beide einen der Lido-Dampfer, und Otto Sarka Falls wenige
-Meter von uns entfernt und studierte eifrig einen Reise;jührer,
-—» —»ckDir kannten uns nicht mehr.
+ahnten wir nicht. In gehobener Stimmung bestiegen wir
+beide einen der Lido-Dampfer, und Otto Sarka saß wenige
+Meter von uns entfernt und studierte eifrig einen Reiseführer,
+— — Wir kannten uns nicht mehr.
 
-<h2>9. Kapitel.</h2>
+<h2>2. Kapitel.</h2>
 
-<h3>»… Und ein Mann sjschnupft Puder.</h3>
+<h3>… Und ein Mann schnupft Puder.</h3>
 
-»… Lido …
+… Lido …
 
-2ido?! — Man sollte es nicht für möglich halten, oder
-es. ist so: Ich habe gebildete Leute gesprochen, die ganz unbefangen
+Lido?! — Man sollte es nicht für möglich halten, aber
+es ist so: Ich habe gebildete Leute gesprochen, die ganz unbefangen
 meinten, der Lido sein ein Fluß, andere wieder hielten
 »Lido« für so eine Art Rummelplatz in Venedig selbst.
 Überhaupt, mit der Allgemeinbildung der meisten Menschen
-im Sache »Erdkunde«, also auch Städtekunde, ist es, sagen
+im Fache »Erdkunde«, also auch Städtekunde, ist es, sagen
 wir es ehrlich, miserabel bestellt. Da sind wir Deutschen beinahe
-noch als Gelehrt? zu betrachten, aber die anderen lieben
-Freunde jenseits der Grenze?! Einfach hahnebüchen!l! Von
+noch als Gelehrte zu betrachten, aber die anderen lieben
+Freunde jenseits der Grenze?! Einfach hahnebüchen!! Von
 zehn Franzosen könnte vielleicht einer halbwegs raten, daß
-Kvinigsberg und Ostpreußen zusammengehören, mindestens fünf
+Königsberg und Ostpreußen zusammengehören, mindestens fünf
 würden Königsberg in die Nähe von Potsdam verlegen und
-die festbinden vier würden zu] Minen Berg in Oberbayern
-raten. — Es ist So. Wer das bestreitet, ist über sein PosJemuckel,
+die restlichen vier würden auf einen Berg in Oberbayern
+raten. — Es ist So. Wer das bestreitet, ist über sein Posemuckel,
 und mag es Berlin heißen, nicht hinausgekommen.
 
-Affe Lido …
+Also Lido …
 
-Man steigt zum ’Beispiel an der Dampferhaltestelle Piazza
-Ei San Waren auf die Elektrisch« oder Untergrundbahn oder
+Man steigt zum Beispiel an der Dampferhaltestelle Piazza
+di San Marco auf die Elektrische oder Untergrundbahn oder
 den Autobus von Venedig, nämlich den Dampfer, und dann
-fährt man sehr behaglich etwa zwanzig Munition südwärts,
-bis die Willen und Kissen und Autos und Pferdedroschken
-der So viel Lido vor einem auftauchen, der Dampfer lautet,
+fährt man sehr behaglich etwa zwanzig Minuten südwärts,
+bis die Villen und Alleen und Autos und Pferdedroschken
+der *Insel* Lido vor einem auftauchen, der Dampfer landet,
 und eine völlig andere Welt umgibt uns. Der erste Eindruck
 <@pagebreak/>
 ist der eines Sehr eleganten Villenvorortes mit prächtigen
 Gärten, breiten Straßen, (elektrische Straßenbahn! — man
 traut Seinen Augen nicht), — aber man braucht nur die eine
 Hauptstraße hinabzuwandern und das offene Adriatische
-Meer, die Blaue Adria, hielt vor uns — mit feinsandigem
-Strand, mit großen Badeanstalten mit Hotels, Kessel, —
-und by?g? man dann rechts ab, strebt in der Ferne die massige
-Seitenfront jenes Luxus]remdenheims in den strahlenden Hin
-me! hinein, das hier nicht einigem Recht sich »Excelsior«, das
+Meer, die Blaue Adria, liegt vor uns — mit feinsandigem
+Strand, mit großen Badeanstalten mit Hotels, Kaffees, —
+und biegt man dann rechts ab, strebt in der Ferne die massige
+Seitenfront jenes Luxusfremdenheims in den strahlenden Himmel
+hinein, das hier mit einigem Recht sich »Excelsior«, das
 Beste vom Besten, nennt.
 
-Dorthin war, um es gleich zu Dasein, dieser Allerweltskerl
-von Sarka als tadellos verkleideter Spion vorangelchickt
-worden, dorthin dursten Obst wir uns nicht wagen, den
+Dorthin war, um es gleich zu sagen, dieser Allerweltskerl
+von Sarka als tadellos verkleideter Spion vorangeschickt
+worden, dorthin durften selbst wir uns nicht wagen, denn
 Georg Nusche kannte uns beide nur zu gut, und einem internationalen
-Gauner seines Ertrages gegenüber waren »Perücken,
-Barte, Schminke und sonstige Hilfsmittel zur Verhaftung des
-ergattern Sechs ziemlich wertlos, Ui Sarka war das etwas
-älteres, den daß der je auf den Gedanken Kommen könnte,
+Gauner seines Schlages gegenüber waren Perücken,
+Bärte, Schminke und sonstige Hilfsmittel zur Verhüllung des
+eigenen Ichs ziemlich wertlos. Mit Sarka war das etwas
+anderes, den daß der je auf den Gedanken Kommen könnte,
 eine bejahrte Lady zu mimen, würde der Exgeneraldirektor
 des Midiako ihm niemals zutrauen.
 
 Nachdem wir in dem Restaurant des großen Bades sehr
-gut diniert hatten, mieteten wir eins der blauen Badehuusden,
+gut diniert hatten, mieteten wir eins der blauen Badehäuschen,
 erste Reihe, dicht am Meer. Es gibt dort verschiedene
-Unternehmer, die diese völlig als »Wochenendhäuser« ein
-gerichteten sauberen Bretterhütten für einen Tag, eine Woche
+Unternehmer, die diese völlig als »Wochenendhäuser« eingerichteten
+sauberen Bretterhütten für einen Tag, eine Woche
 oder länger abgeben und die Preise nach »erste«, »zweite« oder
-»dritte« Reihe und nach Große und Ausstattung!tasseln. Die
+»dritte« Reihe und nach Größe und Ausstattung staffeln. Die
 Farbe der Häuschen, blau, rot oder grün oder gelb, ist zugleich
 das Kennzeichen der einzelnen Unternehmer. Wir hatten
 »blau« gewählt, ganz vornehm, Luxusausstattung, zwei Räume,
 Veranda, zwei schmale Klappbetten, Rohrsessel, elektrisches
-Licht, wir sausten Badeanzüge, Badeschuhe, Bademäntel,
-und nach einem längeren Schläfchen unter einem Sommervilla
-nahmen wir seit beachten wieder einmal das erste Bad in der
+Licht, wir kauften Badeanzüge, Badeschuhe, Bademäntel,
+und nach einem längeren Schläfchen unter einem Sonnenpilz
+nahmen wir seit Jahren wieder einmal das erste Bad in der
 vielgepriesenen Adria, deren hoher Salzgehalt leider (im
 <@pagebreak/>
-Juni) auch der Wasserväarme gleichkommt — zu warm,
-»lauer See«, jagte Harald, als wir wieder im Schatten unseres
+Juni) auch der Wasserwärme gleichkommt — zu warm,
+»lauer Tee«, sagte Harald, als wir wieder im Schatten unseres
 Pilzes dicht vor unserer Veranda uns trocknen ließen, —
-der Wind war auch nur mäßig. Wir!sprachen über allerlei,
-es war sehr heiß, und die lieben Nachbarn, zumeist &Sremde,
+der Wind war auch nur mäßig. Wir sprachen über allerlei,
+es war sehr heiß, und die lieben Nachbarn, zumeist Fremde,
 trugen nicht gerade dazu bei, unseren Nerven die uns nach
 den letzten Tagen so notwendige Ruhe zu bringen. — Harst
 fluchte leise.
 
-Dergestalt war also das Beispiel all dessen, was sich
+Dergestalt war also das Vorspiel all dessen, was sich
 wie ein bunter Reigen fernerhin abspielen sollte.
 
 Es wurde vier Uhr, fünf Uhr …
@@ -474,17 +465,17 @@ Es wurde vier Uhr, fünf Uhr …
 Wer nicht kam, war Ottochen.
 
 Wir saßen nun in unseren schreiend farbenfreudigen
-Bademänteln im nahen Kaffee und tranken Mokka mit Ga3zmusik,
-aßen schmale Seidenstückchen, die nicht für einen schmalen
+Bademänteln im nahen Kaffee und tranken Mokka mit Jazzmusik,
+aßen schmale Tortenstückchen, die nicht für einen schmalen
 Geldbeutel berechnet waren, — ringsum schlemmten die Dollarkönige
-aus U. S. A., kokettierten bademantelumhüllte »Stationsnamen,
-räkelten sich Engländer, Slawen, Ungarn; eine
-sehr gemischte Gesellschaft. »2
+aus U.&nbsp;S.&nbsp;A., kokettierten bademantelumhüllte Italienerinnen,
+räkelten sich Engländer, Slawen, Ungarn: eine
+sehr gemischte Gesellschaft.
 
 Ottochen kam nicht.
 
 Er hätte uns unbedingt sofort aus dieser Völkerschau
-herausfinden müssen, den schon unsere Kostüme (ein Zeisig-.
+herausfinden müssen, denn schon unsere Kostüme (ein Zeisig
 war ein Sperling im Vergleich zu uns!) konnten einem spähenden
 Blick nicht entgehen.
 
@@ -499,100 +490,99 @@ war.
 Wir verschlossen die Villa, und etwa um ein Viertel
 sieben betraten wir die Vorhalle des »Excelsior«, des Hauptgebäudes.
 Die sogenannte Dependance ist noch großer. —
-Vorhalle?! Vestibül?! Nein — ein RNiesenraum, eine Ausstellung
+Vorhalle?! Vestibül?! Nein — ein Riesenraum, eine Ausstellung
 von Klubsesseln, Perserteppichen, behaglichen Eckchen,
 Tischen aus allerhand wundervollen Holzarten …
-<@pagebreak/>
-Links neben dem Einga’1g saß hinter einer Art Lederriemen;
-(das einzige Geschmackloses ein sehr vornehmen Herr
-und überschaute zufrieden die auch hier überreich vorhandene
-Völkerschau. —
 
-» Harslt!sprach den Signale englisch an, fragte nach einer
+<@pagebreak/>
+Links neben dem Eingang saß hinter einer Art Ladentisch
+(das einzige Geschmacklose) ein sehr vornehmer Herr
+und überschaute zufrieden die auch hier überreich vorhandene
+Völkerschau.
+
+Harst sprach den Signore englisch an, fragte nach einer
 Verwandten von uns, beschrieb Ottochen sehr genau.
 
-»Ei … 9 …!«, nickte der Herr Vizedirektor der Karawanserei
+»Si … Si …!«, nickte der Herr Vizedirektor der Karawanserei
 mit dem ganzen Stolz eines Mannes, der von
-Berufswegen alles sehen malt, noch mehr übersehen muß und
-sich deshalb Detektivaugei angewöhnt hat. »Die Dame
-fragte mich nach neuen Gärten, mein Herr, und offenbar hat
+Berufswegen alles sehen muß, noch mehr übersehen muß und
+sich deshalb Detektivaugen angewöhnt hat. »Die Dame
+fragte mich nach neuen Gästen, mein Herr, und offenbar hat
 sie der Lady Gallstone, die heute nachmittag zwei Uhr hier
 eintraf, einen Besuch abgestattet …«
 
-»Zart flüsterte banger Ahnungen voll; »Welches Arm-.
-wer?«
+Harst flüsterte banger Ahnungen voll: »Welches Zimmer?«
 
-»Appartement vier, Vertraut, zweiter Stock«, erklärte
+»Appartement vier, Seefront, zweiter Stock«, erklärte
 der Vice mit sichtlichem Unbehagen. »Stimmt da irgend
 etwas nicht, mein Herr?««
 
 Harald reichte ihm schweigend den Ausweis, den uns der
-Kriminalchef in Bozen vor fünf Tagen sfreoiudiichst ausgestellt
+Kriminalchef in Bozen vor fünf Tagen freundlichst ausgestellt
 hatte, und der Vice verfärbte sich. Auch er hatte
-wohl den Corriere da lag Herrn gelesen — genau wie die
-diebenswürdige Frau Bulgeroll, Gattin von Sohn Bulgeroll,
-Kaffee en gros …
+wohl den Corriere da la Serra gelesen — genau wie die
+liebenswürdige Frau Bulgeroll, Gattin von John Bulgeroll,
+Kaffee en gros.
 
-»Ach komme mit«, Jagte der Hoteldirektor äußerst beunruhigt
-…
+»Ich komme mit«, sagte der Hoteldirektor äußerst beunruhigt.
 
 Und dazu hatte er alle Ursache, denn was wir im Salon
-der »Lady Gallstone« fanden, war wenig angenehm …
+der »Lady Gallstone« fanden, war wenig angenehm.
 
 Vor kurzem hatten wir, ebenfalls in einem Hotel, unseren
 lieben jungen Freund Sarka in Bozen in einem Zustand angetroffen,
 den Harst als »Mäuse-Stadium« gekennzeichnet
 hatte. Hier nun lagen die Dinge weit tragischer, denn in
-einem Sessel saß die« ältere Dame, noch immer verschleiert,
-aber unter dem Schleier blinkte etwas sehr Weißes, Tatkräftiges,
-und die ganze Stellung der zwanglos durchschossenen
+einem Sessel saß die ältere Dame, noch immer verschleiert,
+aber unter dem Schleier blinkte etwas sehr Weißes, Watteartiges,
+und die ganze Stellung der zwanglos hingegossenen
 <@pagebreak/>
-Gestalt Sonne man auch als Anzeichen einer diesen Bewußtlosigkeit
+Gestalt konnte man auch als Anzeichen einer tiefen Bewußtlosigkeit
 deuten. — Harst riß mit einem Ruck den Schleier
 samt dem Hute herab, zugleich auch den feuchten Wattebausch,
-der jedoch Keinerlei Bruch verbreitete.
+der jedoch Keinerlei Geruch verbreitete.
 
 Der Hoteldirektor war Sehr geistesgegenwärtig zu den
 hohen Fenstern geeilt, hatte die Wolkenstores emporgezogen
-und die Fenster geregnet.
+und die Fenster geöffnet.
 
-»Haben Sie ganz sein gemahlenen Presse in der Hotelküche?«,
+»Haben Sie ganz fein gemahlenen Pfeffer in der Hotelküche?«,
 fragte Harst ihn mit einem So ernsten Blick, daß der
-Die trotz der Eigenart dieses Anblies Sofort davoneilte.
+Vice trotz der Eigenart dieses Wunsches Sofort davoneilte.
 Sehr viel zu diesem beschleunigten Tempo des so weltgewandten,
 gemessenen Herrn mochte auch Sarkas bedrohlich
 grau-gelbe Hautfarbe beitragen.
 
 »Legen wir den armen Kerl dort auf den Diwan«, winkte
-mir Harst dann zu. »Oh noch etwas zu retten sein wird, bezweifele
-ich … Rühre die Watte Moloch an … Das ist kein
-Puder, der da unserem Otto unter der Nase haltet … l« …
+mir Harst dann zu. »Ob noch etwas zu retten sein wird, bezweifele
+ich … Rühre die Watte nicht an … Das ist kein
+Puder, der da unserem Otto unter der Nase haftet …!«
 
-Der Hoteldirektor war im Nu zurück, Er fragte nicht
-viel, — der Wann mochte schon so Kapitel miterlebt haben,
-das andere nur unter den Sensationsnachrichten der Zeitungen
-indem.
+Der Hoteldirektor war im Nu zurück. Er fragte nicht
+viel, — der Mann mochte schon so manches miterlebt haben,
+was andere nur unter den Sensationsnachrichten der Zeitungen
+finden.
 
-Der Perser half prompt. Sarka begann zu niesen,
-die Ochleimhuute der Nase reagierten noch zu] den starken
+Der Pfeffer half prompt. Sarka begann zu niesen,
+die Schleimhäute der Nase reagierten noch auf den starken
 Reiz, aber die Augen blieben geschlossen und die bleigraue
-Gesichtsfarbe traf vor) deutlicher hervor.
+Gesichtsfarbe trat noch deutlicher hervor.
 
-Alles Herren erschienen lautlos und diskret, der eine der
+Zwei Herren erschienen lautlos und diskret, der eine der
 Hoteldetektiv, der andere einer der Ärzte des Millionärsteamers,
 ein jüngerer sympathischer Amerikaner, der gleichfalls
 im Excelsior wohnte. Weniger gefiel mir der kleine
-dicke Signore Colassa, der mit seinem ausgeschvemimten Gesicht
-und mit den starren Glotzaugen einen uns langst bekannten
-yp vertrat: Den jener Jjoteldetektive, die es als
-persönliche Berechtigung auffassen, wenn irgend jemand ihnen
+dicke Signore Colassa, der mit seinem aufgeschwemmten Gesicht
+und mit den starren Glotzaugen einen uns längst bekannten
+Typ vertrat: Den jener Hoteldetektive, die es als
+persönliche Beleidigung auffassen, wenn irgend jemand ihnen
 irgendwie einmal etwas zu tun gibt. Und diese Störenfriede
 waren wir.
 
 <@pagebreak/>
 Der Arzt beendete seine Untersuchung sehr schnell.
 
-»Es ist richtig, es liegt Vergiftung vor, Mr. Harst«, Vergiftung
+»Es ist richtig, es liegt Vergiftung vor, Mr. Harst, Vergiftung
 durch irgend ein Zyankalipräparat in Pulverform …
 Da, — angefeuchtet riecht dieses Pulver intensiv nach bitteren
 Mandeln.«
@@ -600,74 +590,74 @@ Mandeln.«
 Harst hatte derweil den Sessel, den Teppich vor dem Sessel
 und einen zweiten Sessel mit der Taschenlampe abgeleuchtet.
 Auf dem dunklem Perser zeichnete sich dicht vor Sarkas
-Unglückssessel ein fast daumenlanger grauer dünner Strich ad.
+Unglückssessel ein fast daumenlanger grauer dünner Strich ab.
 
 Signore Colassa, den Bauch vorgeschoben, die Hände in
 den Beinkleidertaschen, fragte etwas anmaßend: »Wer soll
-denn nun diese Lady Goallsitono gewesen sein«?! — Gegen die
-Dame war nichts empmwvenden. Ich verwickele jeden neuen
+denn nun diese Lady Gallstone gewesen sein?! — Gegen die
+Dame war nichts einzuwenden. Ich verwickele jeden neuen
 Gast zunächst in ein Probegespräch …«
 
-»Kam genügte diese Probe diesmal entschieden gar
-nicht«, erklärte Harst, ohne sich weiter um von Signore mit
-den tadellosen Beinkleidern und der mustergültig standen
-blauen dachte zu kümmern, »Diese Lady war ein gewisser
-Georg Wische, — vielleicht lasen Sie den Namen in von
+»Dann genügte diese Probe diesmal entschieden gar
+nicht«, erklärte Harst, ohne sich weiter um den Signore mit
+den tadellosen Beinkleidern und der mustergültig sitzenden
+blauen Jacke zu kümmern. »Diese Lady war ein gewisser
+Georg Nusche, — vielleicht lasen Sie den Namen in den
 Zeitungen, ich denke, er besagt genug.«
 
-Colassa war mit einem Schlage völlig verwandelt. »Oh«,
+Colassa war mit einem Schlage völlig verwandelt. »Oh,
 — verzeihen Sie, ich …«
 
-»Kommen Sie mit in das Schlafzimmer, -»-’ Sie werden
+»Kommen Sie mit in das Schlafzimmer, — Sie werden
 dort zwei neue Koffer finden, die sehr elegante Damengarderobe
-enthalten. Leider habe ich mich nicht auch in Herrenkonfektionsgeschäften
-erkundigt, Nusche wird auch Anzüge
+enthalten. Leider habe ich mich nicht auch in
+Herrenkonfektionsgeschäften erkundigt, Nusche wird auch Anzüge
 eingekauft haben …«
 
 Das Schlafzimmer bot einen etwas wüsten Anblick dar.
 Lady Gallstone hatte offensichtlich in höchster Eile die Kleidung
-gewechselt. Aus der &risiertoilette lagen noch Schminkstifte,
+gewechselt. Auf der Frisiertoilette lagen noch Schminkstifte,
 Bartwolle, zwei Herrenperücken und anderes umher.
 
 »Der Kerl hat sich wieder als Mann herausstaffiert«,
-meinte Colassa triumphierend, »Herr Harst, ich telephoniere
+meinte Colassa triumphierend. »Herr Harst, ich telephoniere
 sofort an die Polizei … Ich bin durchaus im Bilde, ich bin
 ein alter Praktikus und …«
 
 <@pagebreak/>
-»»»… Alt mögen Sie sein«, warf Harst Auto nebenbei
-hin und beschäftigte sich mit dem Einhalt der Koffer und mit
+»… Alt mögen Sie sein«, warf Harst nur so nebenbei
+hin und beschäftigte sich mit dem Inhalt der Koffer und mit
 den umhergestreuten Damentoiletten.
 
-kaum Glück schien Herr Colassa nicht sehr empfindlich
+Zum Glück schien Herr Colassa nicht sehr empfindlich
 zu sein. Er verduftete wortlos und wurde von dem Hotelvice
 abgelöst, der uns bald verzweifelt beschwor, doch nur ja
 dafür zu sorgen, daß das Hotel nicht etwa geschädigt würde,
-—»- — sehr begreiflich von ihm, denn dieser Vorfall konnte
-die ganze ainerikarvijche Hotelbelegschaft vielleicht verscheuchen.
-spanischen hatte der Arzt durch Kampferinjektionen und
+— — sehr begreiflich von ihm, denn dieser Vorfall konnte
+die ganze amerikanische Hotelbelegschaft vielleicht verscheuchen.
+Inzwischen hatte der Arzt durch Kampferinjektionen und
 andere Mittel die Herztätigkeit des Vergifteten wieder etwas
 angeregt, und nach einer peinvollen halben Stunde, in der jeden
 Augenblick bei dem Patienten eine kritische Wendung hatte
-eintreten können, atmeten wir also? erleichtert auf, als Sarka
+eintreten können, atmeten wir alle erleichtert auf, als Sarka
 für Sekunden die Lider hob und uns stier anblickte. — Der
 Doktor erklärte, die Gefahr sei beseitigt, wir sollten uns nicht
 weiter beunruhigen, unser Landsmann besäße offenbar einen
 sehr widerstandsfähigen Körper.
 
-Das traf zu. Otto Sarka war nickte-Leicht tot zu
+Das traf zu. Otto Sarka war nicht so Leicht tot zu
 kriegen, selbst nicht durch ein Zyanpräparat.
 
 Bisher hatten die Vorgänge hier in diesem Luxusappartement
-(drei Zimmer, eigenes Bach noch keine unerwünschte
+(drei Zimmer, eigenes Bad) noch keine unerwünschte
 Aufmerksamkeit erregt. Der Arzt würde schweigen,
 und auch die dann eintreffenden vier Kriminalbeamten aus
 Venedig erschienen so unauffällig wie nur möglich. Eine Stadt,
-die zum größten Teil nur von den Fremden lebt, nimmt Alters
+die zum größten Teil nur von den Fremden lebt, nimmt stets
 Rücksichten auf den Reisezustrom. Was andere Städte sich
 merken sollten, die weniger vernünftig regiert werden,
 
-Signore Colassa war übrigens nicht wieder aufgetaucht,
+Signore Colassa war übrigens nicht wieder aufgetaucht.
 Wahrscheinlich erholte er sich bereits von diesen ungewohnten
 Aufregungen durch eine Tasse Mokka und ein paar Zigaretten.
 
@@ -677,10 +667,10 @@ wie zielbewußter Herr. »Bitte, wie denken Sie über dieses
 Giftattentat?«, fragte er Harst und betrachtete still die noch
 immer reglose Gestalt unseres trunkfesten Freundes.
 
-»Die Dinge können sich nette abgespielt haben«, entgegnete
+»Die Dinge können sich nur so abgespielt haben«, entgegnete
 Harst bereitwilligst. »Wir hatten Sarka hier nach
 dem Hotel geschickt, wir hatten ihn gewarnt, nichts auf eigene
-Saust zu unternehmen, falls er Georg Nusche hier vorfinden
+Faust zu unternehmen, falls er Georg Nusche hier vorfinden
 sollte. Sarka hat sich leider hieran nicht gekehrt, sondern hat
 sich Lady Gallstone von Angesicht zu Angesicht ansehen wollen,
 die ihm wohl verdächtig vorgekommen war. Nusche-Gallstone
@@ -688,20 +678,20 @@ war Sarka erheblich überlegen, muß ihn zweifellos getäuscht
 haben und bot ihm eine Zigarette an, während beide
 dort in den Sesseln saßen. Unser Landsmann ahnte nichts
 Böses, rauchte, wurde bewußtlos, und die Zigarette entfiel
-ihm. Dorf auf dem Teppich brannte sie weiter, verbrannte
+ihm. Dort auf dem Teppich brannte sie weiter, verbrannte
 restlos samt dem Korkmundstück. Nusche hatte das
-odyanpulver bei der Hand, drückte es samt dem Wattebausch
-dem Ohnmächtigen unter die Nase, 109 den Schleier wieder
+Zyanpulver bei der Hand, drückte es samt dem Wattebausch
+dem Ohnmächtigen unter die Nase, zog den Schleier wieder
 darüber und raubte Sarka den Lederpompadour und entfloh,
 nachdem er sich umgekleidet hatte. In dem Pompadour befanden
 sich mindestens fünfzehntausend Lire,«
 
 Der Beamte nickte beipflichtend. »Er entfloh in Männertracht,
-als Mann, —!o meinen Sie doch, Herr Harst?«
+als Mann, — so meinen Sie doch, Herr Harst?«
 
-»»» Wahrscheinlich.«
+»Wahrscheinlich.«
 
-»Gestimmt, denn der Zustand des &risiertisches beweist
+»Bestimmt, denn der Zustand des Frisiertisches beweist
 das. Wir werden auf einen elegant angezogenen älteren
 Herrn mit grauem Vollbart fahnden, — die Bartwolle von
 dem Frisiertisch rührt von einem frisch angeklebten grauen
@@ -710,35 +700,37 @@ Bart, der mit einer Schere zurechtgestutzt wurde, her.«
 »Ohne Zweifel«, — und Harst beugte sich über Sarka, der
 abermals für kurze Zeit die Augen geöffnet hatte,
 
-»See fühlen Sie sich?«
+»Wie fühlen Sie sich?«
 
 Sarka brachte es fertig, verzerrt zu lächeln.
 
 Es war immerhin ein Fortschritt.
 
 Nach einer Stunde wurde er in aller Stille in ein Krankenhaus
-in Venedig gebracht. Auf der Terrasse des Cxcelkanischen
-<@pagebreak/>
-Gäste sowie das andere internationale Publikum
+in Venedig gebracht. Auf der Terrasse des Excel
 
-verfolgten mit stillem Behagen das allmähliche Aufflammen —
-der Lampen das Hotelsteges, der so weit in die Adria hin ausgebaut
+<@pagebreak/>
+[hier fehlt Text im Original]
+
+amerikanischen Gäste sowie das andere internationale Publikum
+verfolgten mit stillem Behagen das allmähliche Aufflammen
+der Lampen das Hotelsteges, der so weit in die Adria hinausgebaut
 ist, daß sogar große Dampfer dort anlegen können. —
 Ein Schwerkranker fuhr zur selben Zeit zur Landestelle der
 Polizeikutter, und wir beide warteten, bis unser Kutter unseren
 Freund auf seiner Krankenbahre heranführte. Wir
 wußten ihn in besten Händen. Es mochte zehn Uhr abends
-sein, als wir unser blaues Badvehäuschen sehr gut verproviantiert
+sein, als wir unser blaues Badehäuschen sehr gut verproviantiert
 wieder betraten. Unsere Absicht war, Nusche durch
 andere Mittel zur Strecke zu bringen, als man sie dem gut
-geleiteten Spanier einer Stadt von 182&nbsp;000 Einwohnern zumuten
-darf. Die Fände der Behörden sind durch — Rücksichten
-auf Fernglas; hielte Beschränkung der Ermittlungsmethoden
+geleiteten Apparat einer Stadt von 182&nbsp;000 Einwohnern zumuten
+darf. Die Hände der Behörden sind durch Rücksichten
+auf paragraphierte Beschränkung der Ermittlungsmethoden
 nur zu eng gebunden.
 
 <h2>3. Kapitel.</h2>
 
-<h3>»Und im Schatten liegt ein anderer …</h3>
+<h3>… Und im Schatten liegt ein anderer …</h3>
 
 Es war damals eine zauberhaft schöne Nacht. »Mondnacht
 auf dem Lido« — den Walzer hat leider noch niemand
@@ -1222,7 +1214,7 @@ zählte folgende Dinge in meinem eifrig arbeitenden Hirn auf:
 
 1\. Bulgeroll wird »erleichtert«. Nusche ist entflohen.
 
-2\. Ottochen Sarka!spielte »Dame« und schnupft Zuanpulver,
+2\. Ottochen Sarka!spielte »Dame« und schnupft Zyanpulver,
 und wir beobachten nachher Einmal Gorrs
 Experiment mit der Laterne von Nr. 12a aus zum Meeres
 hin Signale!
@@ -1561,7 +1553,7 @@ gesperrt worden.
 
 Im Schlafzimmer unter dem Unterbett des sauber zugehalten
 Bettes lag der tote Bevollmächtigte, einen Wattebausch
-auf dem Gesicht, — wieder das unheimliche ZyanPulver,
+auf dem Gesicht, — wieder das unheimliche Zyanpulver,
 dieser weiße, tödliche Puder.
 
 <@pagebreak/>
