@@ -17,7 +17,7 @@ jedoch, seinen jungen lebhaften Geist zu Gedankenflügen anzufeuern,
 die bei ernsten Gelegenheiten wenig nutzbringend
 waren.
 
-zum Glück — ja, sehr zum Glück litt dieser Otto Sarka
+Zum Glück — ja, sehr zum Glück litt dieser Otto Sarka
 an perpetuierlichem Dalles. Und da Bier und Likör Geld
 kosten und Gastwirte ungern pumpen, wurde Ottochens Alkohollaster
 meist stark »beschnitten«, wie gesagt, zum Glück.
@@ -112,7 +112,7 @@ sind entschieden mit bedroht.«
 
 <@pagebreak/>
 »Kaum«, und Harst nahm eine Zigarette. »Meine
-Kenntnis der Psyche der großen Verbrecherwelt ist denn Doch
+Kenntnis der Psyche der großen Verbrecherwelt ist denn doch
 zu tiefgründig — hübscher Ausdruck übrigens — tiefgründig
 als daß ich diesem geriebenen Nusche die Dummheit zutraute
 die soeben erst wiedergewonnene Freiheit aufs Spiel und sich
@@ -174,7 +174,7 @@ Freund mit einem der Passagiere das Millionärsteamers verwechselte.
 Als Harst diesen Irrtum richtig stellte, fiel die
 ganze vierköpfige Familie Bulgeroll allen Wolken.
 
-»Nein, diese Ähnlichkeit", rief Frau Bulgeroll, Kaffee
+»Nein, diese Ähnlichkeit«, rief Frau Bulgeroll, Kaffee
 en gros aus Boston, mit ungläubigem Staunen. »Mister
 Harst, Sie sehen unserem Freude Jim Austin zum Verwechseln
 ähnlich. — Sind Sie auch von drüben?«
@@ -187,8 +187,8 @@ fletschte die plombierten Hauer und murmelte etwas von
 »starker Abneigung gegen Germany«, — worauf Harst seinem
 Stuhl einen Dreh nach der anderen Seite gab und dem Kellner
 winkte, der jedoch recht beschäftigt war. Nur Frau
-Bulgeroll Sah das Taktlose dieses Benehmens ein, trommelte
-sehr energisch mit der Lorgnette auf den Aschbecher und Sagte
+Bulgeroll sah das Taktlose dieses Benehmens ein, trommelte
+sehr energisch mit der Lorgnette auf den Aschbecher und sagte
 sehr höflich: »Mr. Harst, mein Mann hat an einer Schwindelfirma
 in Berlin viel Geld eingebüßt.« Und zu ihren lieben
 Kindern gewandt: »Mr. Harst ist mir eine sehr angenehme
@@ -207,7 +207,7 @@ ausgebreitet und suchte offenbar nach seiner
 Brieftasche. Er suchte immer erregter, die ganze Familie
 bekam bestürzte Gesichter, Pa wurde wild, fluchte, redete von
 Kreditbrief und fünftausend Lire und achthundert Dollar und
-dem goldenen Füllhalter, aber das Portefeuille blieb unauffindbar,
+dem goldenen Füllhalter, aber das Portefeuille blieb unauffindbar.
 
 Harst hatte seinem Stuhl schon wieder einen entgegengesetzten
 Dreh gegeben, und sein gutes Herz ließ ihn mitfühlend
@@ -215,7 +215,7 @@ fragen, indem er eine unaufgezogene Photographie
 von Georg Nusche, gestern hier von der Polizei hergestellt, dem
 völlig vertatterten Pa unter die Nase hielt:
 
-»begegneten Sie heute diesem eleganten Herrn ohne
+»Begegneten Sie heute diesem eleganten Herrn ohne
 Hut?«
 
 Mr. John Bulgeroll stierte die tadellose Photographie
@@ -257,11 +257,11 @@ er schon wieder recht beherrscht.
 
 »Ich werde sehen, was sich tun läßt«, — damit verabschiedeten
 wir uns, und Miß Lizzie und Miß Doritty bombardierten
-Harst mit schmachtenden Blicken,
+Harst mit schmachtenden Blicken.
 
 Wir schlenderten die Gasse entlang, traten auf den im
 grellen Sonnenlicht unerträglich heißen Markusplatz hinaus
-und schauten eine Weile dem uns So wohlbekannten Treiben
+und schauten eine Weile dem uns so wohlbekannten Treiben
 vor der Markuskirche zu. Die Photographen hatten viel
 Arbeit, die Verkäufer der Düten mit den Maiskörnern
 scheffelten Zweilirestücke, die reizenden Tauben kletterten hin
@@ -270,7 +270,7 @@ Taubenschwärme, die droben in den Marmorzacken der Kirche
 und des benachbarten Dogenpalastes nisten, undenkbar,
 die gehören zu ihm, wie die Blattknospen zum Frühling, sie
 verleihen diesem einzigartigen, von Prachtbauten umgebenen,
-mit Marmor ausgelegten wundervollen« Mittelpunkt venezianischen
+mit Marmor ausgelegten wundervollen Mittelpunkt venezianischen
 Lebens erst die besondere, historisch-zarte Note.
 Diese Tauben, fast alle blaugrau, sollen die Nachkommen jener
 Brieftauben sein, die dem Dogen Dandolo bei der Belagerung
@@ -301,11 +301,11 @@ der letzte, bescheidenste brachte Erfolg.
 — er hatte einen Gepäckträger und zwei Koffer mit«,
 erklärte die Inhaberin.
 
-»Und wie Sah er aus?«
+»Und wie sah er aus?«
 
 Die Beschreibung bewies, daß Nusche sich inzwischen
 äußerlich gründlich verwandelt hatte: Spitzbart, Hut, anderen
-Anzug, Hornbrille, rote Nase, — — »Ein Franzose«, meinte
+Anzug, Hornbrille, rote Nase. — — »Ein Franzose«, meinte
 die Inhaberin.
 
 »Leider nicht«, sagte Harst, bedankte sich und schritt
@@ -324,7 +324,7 @@ zum Schlage aus (zwischen den Figuren hängt die gewaltige
 Glocke), und da … trat eine ältere Dame auf uns zu, die
 mit ihrem hellgrauen Schleier und ihrer schlicht-vornehmen
 Kleidung niemals an den Vertilger so ungeheurer Alkoholmengen
-erinnert hätte
+erinnert hätte.
 
 »Sie gestatten, das ich »Piazza« nehme«, sagte sie humorvoll
 und setzte sich.
@@ -376,7 +376,7 @@ Dame« für uns später recht verhängnisvoll werden sollte,
 ahnten wir nicht. In gehobener Stimmung bestiegen wir
 beide einen der Lido-Dampfer, und Otto Sarka saß wenige
 Meter von uns entfernt und studierte eifrig einen Reiseführer,
-— — Wir kannten uns nicht mehr.
+— — wir kannten uns nicht mehr.
 
 <h2>2. Kapitel.</h2>
 
@@ -397,7 +397,7 @@ zehn Franzosen könnte vielleicht einer halbwegs raten, daß
 Königsberg und Ostpreußen zusammengehören, mindestens fünf
 würden Königsberg in die Nähe von Potsdam verlegen und
 die restlichen vier würden auf einen Berg in Oberbayern
-raten. — Es ist So. Wer das bestreitet, ist über sein Posemuckel,
+raten. — Es ist so. Wer das bestreitet, ist über sein Posemuckel,
 und mag es Berlin heißen, nicht hinausgekommen.
 
 Also Lido …
@@ -410,9 +410,9 @@ bis die Villen und Alleen und Autos und Pferdedroschken
 der *Insel* Lido vor einem auftauchen, der Dampfer landet,
 und eine völlig andere Welt umgibt uns. Der erste Eindruck
 <@pagebreak/>
-ist der eines Sehr eleganten Villenvorortes mit prächtigen
+ist der eines sehr eleganten Villenvorortes mit prächtigen
 Gärten, breiten Straßen, (elektrische Straßenbahn! — man
-traut Seinen Augen nicht), — aber man braucht nur die eine
+traut seinen Augen nicht), — aber man braucht nur die eine
 Hauptstraße hinabzuwandern und das offene Adriatische
 Meer, die Blaue Adria, liegt vor uns — mit feinsandigem
 Strand, mit großen Badeanstalten mit Hotels, Kaffees, —
@@ -540,15 +540,15 @@ und die ganze Stellung der zwanglos hingegossenen
 Gestalt konnte man auch als Anzeichen einer tiefen Bewußtlosigkeit
 deuten. — Harst riß mit einem Ruck den Schleier
 samt dem Hute herab, zugleich auch den feuchten Wattebausch,
-der jedoch Keinerlei Geruch verbreitete.
+der jedoch keinerlei Geruch verbreitete.
 
-Der Hoteldirektor war Sehr geistesgegenwärtig zu den
+Der Hoteldirektor war sehr geistesgegenwärtig zu den
 hohen Fenstern geeilt, hatte die Wolkenstores emporgezogen
 und die Fenster geöffnet.
 
 »Haben Sie ganz fein gemahlenen Pfeffer in der Hotelküche?«,
 fragte Harst ihn mit einem So ernsten Blick, daß der
-Vice trotz der Eigenart dieses Wunsches Sofort davoneilte.
+Vice trotz der Eigenart dieses Wunsches sofort davoneilte.
 Sehr viel zu diesem beschleunigten Tempo des so weltgewandten,
 gemessenen Herrn mochte auch Sarkas bedrohlich
 grau-gelbe Hautfarbe beitragen.
@@ -645,7 +645,7 @@ Doktor erklärte, die Gefahr sei beseitigt, wir sollten uns nicht
 weiter beunruhigen, unser Landsmann besäße offenbar einen
 sehr widerstandsfähigen Körper.
 
-Das traf zu. Otto Sarka war nicht so Leicht tot zu
+Das traf zu. Otto Sarka war nicht so leicht tot zu
 kriegen, selbst nicht durch ein Zyanpräparat.
 
 Bisher hatten die Vorgänge hier in diesem Luxusappartement
@@ -655,7 +655,7 @@ und auch die dann eintreffenden vier Kriminalbeamten aus
 Venedig erschienen so unauffällig wie nur möglich. Eine Stadt,
 die zum größten Teil nur von den Fremden lebt, nimmt stets
 Rücksichten auf den Reisezustrom. Was andere Städte sich
-merken sollten, die weniger vernünftig regiert werden,
+merken sollten, die weniger vernünftig regiert werden.
 
 Signore Colassa war übrigens nicht wieder aufgetaucht.
 Wahrscheinlich erholte er sich bereits von diesen ungewohnten
@@ -684,7 +684,7 @@ Zyanpulver bei der Hand, drückte es samt dem Wattebausch
 dem Ohnmächtigen unter die Nase, zog den Schleier wieder
 darüber und raubte Sarka den Lederpompadour und entfloh,
 nachdem er sich umgekleidet hatte. In dem Pompadour befanden
-sich mindestens fünfzehntausend Lire,«
+sich mindestens fünfzehntausend Lire.«
 
 Der Beamte nickte beipflichtend. »Er entfloh in Männertracht,
 als Mann, — so meinen Sie doch, Herr Harst?«
@@ -698,7 +698,7 @@ dem Frisiertisch rührt von einem frisch angeklebten grauen
 Bart, der mit einer Schere zurechtgestutzt wurde, her.«
 
 »Ohne Zweifel«, — und Harst beugte sich über Sarka, der
-abermals für kurze Zeit die Augen geöffnet hatte,
+abermals für kurze Zeit die Augen geöffnet hatte.
 
 »Wie fühlen Sie sich?«
 
@@ -707,7 +707,7 @@ Sarka brachte es fertig, verzerrt zu lächeln.
 Es war immerhin ein Fortschritt.
 
 Nach einer Stunde wurde er in aller Stille in ein Krankenhaus
-in Venedig gebracht. Auf der Terrasse des Excel
+in Venedig gebracht. Auf der Terrasse des Excelsior
 
 <@pagebreak/>
 [hier fehlt Text im Original]
@@ -733,7 +733,7 @@ nur zu eng gebunden.
 <h3>… Und im Schatten liegt ein anderer …</h3>
 
 Es war damals eine zauberhaft schöne Nacht. »Mondnacht
-auf dem Lido« — den Walzer hat leider noch niemand
+auf dem Lido« — *den* Walzer hat leider noch niemand
 geschrieben. — Die Miniaturveranda der neuen blauen Mietvilla
 Harst lag in Silberlicht getaucht da, die Adria funkelte
 wie mit Sternen bestreut, die vom flimmernden Firmament
@@ -751,15 +751,15 @@ auf …
 
 »Da bin ich … — Sehr merkwürdig, das alles, meine
 Herren … Verstehe nichts von alledem, stehe aber zur Verfügung
-— Sehr gern, werde auch schweigen — selbstverständlich!«
+— sehr gern, werde auch schweigen — selbstverständlich!«
 
 Bulgeroll roch entschieden nach Sekt.
 
 »Kommen Sie bitte herein«, — … und Harst drehte in
 unserem »Salon«, Größe 3 mal 3, erst das Licht an, nachdem
-er die Tür verriegelt hatte,
+er die Tür verriegelt hatte.
 
-Der Mr. Kaffee en gros fiel Seufzend in einen Korbsessel.
+Der Mr. Kaffee en gros fiel seufzend in einen Korbsessel.
 »Eigentlichen hatte ich mich mit meinem Freunde Austin
 verabredet, Mr. Harst … So um elf auf dem Markusplatz,
 Herrenbummel ohne Damen … Es soll da eine Tanzbar geben,
@@ -779,7 +779,7 @@ Harst berichtete in sehr knapp gehaltenen Sätzen die
 Vorgänge im Excelsior. »Es dürfte kaum gelingen, Nusches
 auf die gewöhnliche Art habhaft zu werden, Mr. Bulgeroll.
 Ich brauche Ihre Unterstützung«, schloß er seine Mitteilungen,
-die den Millionär zweifellos ernüchterten,
+die den Millionär zweifellos ernüchterten.
 
 »Reden Sie«, sagte er kurz angebunden. »Der Kerl muß
 ins Loch, unbedingt. Ich habe mir zwar bereits vom hiesigen
@@ -854,7 +854,7 @@ diese Tür und die offene Veranda eine breite Lichtbahn auf
 den hellen Sand fiel. Aber dieses übergrelle Licht — ich betone
 übergrell — schien nicht recht zu wollen, wie der Mieter
 dort wollte: Es erlosch, flammte wieder auf, erlosch von
-neuem, — — und so fort,
+neuem, — — und so fort.
 
 Harst stand plötzlich neben mir.
 
@@ -868,7 +868,7 @@ Meer.
 
 »Gib acht!«
 
-Ich Sah es schon. — In weiter Ferne blitzte nun gleichfalls
+Ich sah es schon. — In weiter Ferne blitzte nun gleichfalls
 ein Lichtstrahl auf, erlosch, kam wieder, erlosch, — immer
 in gleichen Zwischenräumen, und genau acht Mal.
 
@@ -922,7 +922,7 @@ auf Wiedersehen, Pa … Gehe nur …! Austin und Bulgeroll
 <@pagebreak/>
 [hier fehlt Text im Original]
 
-wo ihr euch amüsieren wollt,«
+wo ihr euch amüsieren wollt.«
 
 Ich hatte gerade das Auge an dem Astloch und bemerkte
 deutlich, daß der Herr Papa plötzlich ein sehr beklommenes
@@ -936,7 +936,7 @@ aus der Konstruktion manches lernen.«
 Harald zog mich zur Seite.
 
 »Verschwinden wir schleunigst, mein Alter … Ich möchte
-diesen Mann nicht aus den Augen verlieren,« —
+diesen Mann nicht aus den Augen verlieren.« —
 
 Der letzte Lido-Dampfer verläßt die Anlegestelle Santa
 Maria Elisabetta erst gegen ein halb ein Uhr nachts. Jedenfalls
@@ -1026,7 +1026,7 @@ er wissen.
 der Hudson-Bank und Präsident verschiedener Konzerne …«
 
 »Hoffentlich nicht des Midiako«, scherzte Harst und wurde
-plötzlich Sehr vergnügt, pfiff leise den Walzer mit und hatte
+plötzlich sehr vergnügt, pfiff leise den Walzer mit und hatte
 durchaus nichts dagegen, daß wir drei nunmehr in jene Tanzbar
 wanderten, die in einer ganz engen Seitengasse der Hauptgeschäftsstraße
 ein ganzes Haus einnimmt: Erdgeschoß Kaffee,
@@ -1097,7 +1097,7 @@ Gerade dieses seltsame Verhalten des Amerikaners
 machte uns aufmerksam. Hätte dort vielleicht ein Betrunkener
 oder ein irgendwie Verunglückter gelegen (Trunkene
 sieht man in Venedig kaum), so würde Gorr niemals in so
-verdächtiger Eile davongestürmt sein,
+verdächtiger Eile davongestürmt sein.
 
 »Er kennt den Mann«, sagte Harald leise. »Schauen
 wir uns den Toten an, — er ist tot, fürchte ich.«
@@ -1105,15 +1105,15 @@ wir uns den Toten an, — er ist tot, fürchte ich.«
 »Wer?!« Und diese Frage war berechtigt.
 
 »Jim Austin, mein Doppelgänger, denke ich …«, entgegnete
-er und schaltete Seine Taschenlampe ein,
+er und schaltete seine Taschenlampe ein.
 
 Es war Austin, und er war tot.
 
 Harst führte mich rasch hinüber zu dem Laubengang am
-Dogenpalast,
+Dogenpalast.
 
 »Wir wissen nichts«, meinte er strengen Tones. »Komm
-nur, ich möchte feststellen, ob Gorr zum Lido fährt,«
+nur, ich möchte feststellen, ob Gorr zum Lido fährt.«
 
 Am Molo knatterte gerate ein Motorboot davon, nahm
 jedoch die Richtung auf den großen Luxusdampfer »Dollarika«,
@@ -1147,7 +1147,7 @@ Bord gekommen war, lag noch an der Schiffstreppe.
 
 Wir blieben in einiger Entfernung, ließen die Gondel
 treiben und beobachteten die Vorgänge am Fallreep. Es gab
-da sehr bald allerlei zu sehen, und wenn Harst nicht So vorsichtig
+da sehr bald allerlei zu sehen, und wenn Harst nicht so vorsichtig
 gewesen wäre, die Gondel etwas weiter ab zu rudern,
 wären wir sicherlich mit der Motorjacht zusammengeraten, die
 nun das sich entfernende Motorboot ablöste. Diese kleine
@@ -1192,7 +1192,7 @@ abwegig.
 
 »Abwarten!«
 
-Harst schien plötzlich sehr Zerstreut zu sein. »Wenn man
+Harst schien plötzlich sehr zerstreut zu sein. »Wenn man
 nur an Bord könnte«, meinte er ärgerlich.
 
 In demselben Moment tauchte vor uns eine Polizeibarkasse
@@ -1207,7 +1207,7 @@ unseren Blicken.
 Als wir nach diesem Fehlschlag am Molo anlangten und
 in unsere eigenen Gummimäntel schlüpften, war unsere Laune
 so ziemlich auf dem Gefrierpunkt angelangt. Die tausend
-Lire waren Zweifellos verpulvert. Ein Motorstänker mit
+Lire waren zweifellos verpulvert. Ein Motorstänker mit
 einem überhöflichen Bootsmann brachte uns zum Lido zurück.
 Um vier Uhr morgens lagen wir in unseren schmalen Betten
 des Badehäuschens »Villa Harst«, erste Reihe Nr. 9.
@@ -1300,7 +1300,7 @@ Die drei betraten unsere Miniaturvilla, im »Salon« wurde
 <@pagebreak/>
 es sehr eng, Ottochen war kreuzfidel und roch nach Rotwein,
 und der Chef und Kontarini, übrigens ein Prachtkerl, waren
-das Gegenteil von kreuzfidel. Sie Saßen in den Korbsesseln
+das Gegenteil von kreuzfidel. Sie saßen in den Korbsesseln
 wie Leichenträger, und Sarka, stets Gentleman, wenn nüchtern,
 nahm Rücksicht und bemühte sich, gleichfalls den Umständen
 entsprechend dreinzuschauen. Er erzählte ohne Scheu
@@ -1431,7 +1431,7 @@ Harst ein.
 »Um drei Viertel acht … Er …«
 
 »… hatte Leute mitgebracht, die das Gold umladen
-Sollten?«
+sollten?«
 
 »Ja. Zehn Mann, alles Beamte aus Rom.«
 
@@ -1456,7 +1456,7 @@ hinaus.«
 Arconi die Sache?«
 
 Kontarini dachte nach. »Etwa um drei nachmittags
-muß es gewesen Sein.«
+muß es gewesen sein.«
 
 »Kannte einer von Ihnen Sirigni bereits vorher?«
 
@@ -1490,7 +1490,7 @@ Nun war die Reihe, die ehrlich Erstaunten nicht nur
 vorzutäuschen, an uns. Harst meinte etwas ärgerlich:
 
 »Austin wurde doch in dieser Nacht auf der Piazzetta
-erstochen … Wir Sahen die Leiche, und sie muß doch gefunden
+erstochen … Wir sahen die Leiche, und sie muß doch gefunden
 worden sein.«
 
 »Nichts ist gefunden worden!!«, behauptete der Chef sehr
@@ -1542,7 +1542,7 @@ Vollmachten waren derart umfassend, daß wir …«
 
 »Nun gut, mag sein … Jeder denkt einmal daneben.
 Ich zum Beispiel glaubte, Austin sei ermordet worden, weil
-er mir etwas ähnlich Sah, und das war eine gänzlich verfehlte
+er mir etwas ähnlich sah, und das war eine gänzlich verfehlte
 Annahme, wie sich jetzt herausgestellt hat. Austin
 wurde nur deshalb erstochen, vermute ich, weil er von Nusche-Sirigni
 verlangte, mit an Bord der Dollarika genommen zu
@@ -1584,7 +1584,7 @@ mit einem gelinden Verweis, »daß Gallstone-Nusche nicht als
 Mann das Hotel verlassen hat und daß die Bartwolle und
 all das andere lediglich Mittel zur Täuschung der Verfolger
 sein sollten. — Was würden Sie nunmehr tun?« Harst wird
-Selten ironisch, ihm liegt das nicht, er bemüht sich stets, nie
+selten ironisch, ihm liegt das nicht, er bemüht sich stets, nie
 irgend jemand zu kränken. Dieser Hotelüberwachungsgentleman
 hatte einen Dämpfer längst verdient.
 
@@ -1614,14 +1614,14 @@ Gemächer neben denen Arconis gewählt, also im teuersten
 Teil des Riesenhotels, und nur ein Zufall konnte ihm Kenntnis
 von den Schätzen der »Dollarika« verschafft haben, worauf
 er dann mit gewohnter Umsicht, Rücksichtslosigkeit und
-Schnelligkeit Seine Entschlüsse gefaßt hatte.
+Schnelligkeit seine Entschlüsse gefaßt hatte.
 
 Signore Viktore Colassa schielte zu dem Toten hinüber,
 musterte die einwandfreien Bügelfalten seiner Beinkleider
 und fügte hinzu: »Das wissen Sie fraglos besser als ich, Herr
-Harst, was hier zu geschehen hat. Ihre Praktische Erfahrung
+Harst, was hier zu geschehen hat. Ihre praktische Erfahrung
 übertrifft die meine ganz bedeutend.« Er verneigte sich sehr
-höflich und lächelte bescheiden, Sehr bescheiden.
+höflich und lächelte bescheiden, sehr bescheiden.
 
 — Meine lieben Leser, die ich gern zu eigenem Nachdenken
 anrege, werden sich wohl bereits von selbst gesagt haben,
@@ -1644,7 +1644,7 @@ Wie lange sind Sie hier schon Detektiv, verehrtester Signore
 Colassa?«
 
 »Fünf Jahre, fünf volle Jahre«, meinte der Fette recht
-stolz. Und in dieser Zeit ist hier nichts — nichts vorgekommen,
+stolz. »Und in dieser Zeit ist hier nichts — nichts vorgekommen,
 was irgendwie …«
 
 »Ganz recht, — im Hotel nicht, aber — entschuldigen Sie
@@ -1702,12 +1702,12 @@ herum und ich steckte es zu mir …«
 — entfernten Sie es?! Es fehlt nämlich.
 — Schraut, laß dir Colassas Zimmer zeigen, durchsuche
 den Papierkorb, er hat das Firmenschildchen abgekratzt, sehr
-fest Saß es nicht, das sieht man an den Klebstoffresten.«
+fest saß es nicht, das sieht man an den Klebstoffresten.«
 
 Ich war in wenigen Minuten wieder zurück. Drei Stückchen
 goldgepreßten, bedruckten Papiers brachte ich mit, außerdem
 noch eine, für Colassa vernichtende Neuigkeit, die ich
-dem »Midiakodirektor« verdankte: »Colassa hatte dafür gesorgt,
+dem »Midiakodirektor« verdankte: Colassa hatte dafür gesorgt,
 daß »Lady Gallstone« die Zimmer neben Mr. Arconi
 erhielt und war der Lady beim Auspacken behilflich gewesen.
 
@@ -1734,10 +1734,10 @@ Ihnen als dem Hoteldetektiv traute er. So also
 wurde Sirigni ermordet — mit Ihrer Hilfe!«
 
 Viktore Colassa brach unter der Wucht dieser Beweise
-vollkommen zusammen. Seine letzte Rettung Sah er in einem
+vollkommen zusammen. Seine letzte Rettung sah er in einem
 umfassenden Geständnis. Er gab alles zu. Leute von seiner
 Erbärmlichkeit pflegen, wenn ihnen die Krücken ihrer Niedertracht
-weggerissen werden, unter Angsttränen So ziemlich die
+weggerissen werden, unter Angsttränen so ziemlich die
 volle Wahrheit zu bekennen. Er schwor bei allen Heiligen,
 daß Nusche den Herrn aus Rom nur zu betäuben versprochen
 hätte, — über den Anschlag auf die Goldbarren wisse er nichts,
@@ -1754,7 +1754,7 @@ Küste als Sträfling — —
 
 Der Kriminalchef, Kontarini und wir beide trafen den
 noch ganz ahnungslosen Mr. Arconi auf einem der Tennisplätze
-des Hotels,
+des Hotels.
 
 Er brach das Doppelspiel mit Lizzie Bulgeroll, Papa
 Bulgeroll und Doritty sofort ab. Sein durchaus amerikanisches
@@ -1819,8 +1819,8 @@ allerdings weiter kein Wunder. Sarka hörte
 das Signal, schaute scharf zu uns hinüber und schwamm uns
 entgegen. Harald wechselte nur wenige Worte mit ihm, Ottos
 Puppenaugen weiteten sich, dann machte er kehrt, und dieses
-ganze Zwischenspiel verlief So schnell, daß es kaum irgend
-jemandem aufgefallen Sein konnte. — Wir bogen um die Nordspitze
+ganze Zwischenspiel verlief so schnell, daß es kaum irgend
+jemandem aufgefallen sein konnte. — Wir bogen um die Nordspitze
 der Insel in die Lagune ein, ließen die äußerst stark befestigte
 kleine Insel San Andrea rechts liegen, und erreichten
 die Haltestelle am Marcusplatz gerade beim Stundenschlag —
@@ -1899,7 +1899,7 @@ Vorwärts, zunächst die nötigen Einkäufe. Daß wir bereits
 im Hotel Doxe Venior ein Zimmer und am Lido eine Villa
 haben, soll uns nicht hindern, nunmehr als Engländer mit
 sehr frischen Koffern noch im Bauer-Grünwald abzusteigen.
-Es liegt so bequem am Markusplatz und am Canal Grande.
+Es liegt so bequem am Markusplatz und am Canal Grande.«
 
 Zwei Engländer logierten ab drei Uhr im Bauer-Grünwald,
 aßen auf der wunderschönen Gartenterrasse Mittag, beobachteten
@@ -1913,7 +1913,7 @@ Piazzetta in seinem Blute, das Dolchmesser steckte ihm noch
 in der Brust, die Augen waren verdreht, alles …«
 
 »Eine wenig delikate Bemerkung zum Käse«, sagte ich und
-blickte ihn etwas mißtrauisch an,
+blickte ihn etwas mißtrauisch an.
 
 Er fuhr in demselben unpassenden Ton fort: »Als nächster
 wird Gorr sterben, fürchte ich, Mr. Thomas Gorr, der mit zu
@@ -1980,7 +1980,7 @@ Geschmack hängt vollkommen von der Kunst des Mixers ab.
 — Der stämmige Wirt servierte das Getränk persönlich und
 brachte auch gleich eine Schale tadellosen Kuchens zur Auswahl
 mit. Er sprach ein wenig englisch, wahrscheinlich hatte
-Sein abgelegenes Lokal noch nie so vornehme Ausländer gesehen,
+sein abgelegenes Lokal noch nie so vornehme Ausländer gesehen,
 die in Spenderlaune sogar jedem der drei Männer am
 Schanktisch (es schienen Frachtkahnschiffer zu sein) je drei
 Päckchen Macedonia aushändigen ließen, was uns wieder die
@@ -1991,7 +1991,7 @@ etwas wortarme Unterhaltung möglich war. Sie klagten sehr
 über die schlechten Zeiten, schimpften auf die Franzosen (von
 dem Haß der modernen Italiener gegen Frankreich macht sich
 der Durchschnittsdeutsche kaum eine richtige Vorstellung), und
-So ganz allmählich glitt das Gespräch in weniger kommerzielle
+so ganz allmählich glitt das Gespräch in weniger kommerzielle
 und politische Bahnen hinüber, unauffällig gelenkt von einem
 Manne, der diesen braven Sizilianern nicht nur blauen Adriadunst
 vormachte, sondern auch Fragen einzuflechten versteht, die
@@ -2034,7 +2034,7 @@ sehr gefriert, und vor sechs Uhr wird das Motorboot den Kahn
 kaum abschleppen, auch das Boot gehört den beiden, Herr,
 und ohne Bartolomeo und Mario kann der Fremde nichts
 machen, sie sind die Frachtschiffer, Herr, und die Polizei paßt
-Sehr scharf auf … Vorhin ist sogar unser Obstkahn durchsucht
+sehr scharf auf … Vorhin ist sogar unser Obstkahn durchsucht
 worden, — die heilige Jungfrau mag wissen, weshalb.«
 
 Nun, wir wußten es …
@@ -2056,7 +2056,7 @@ Harst mußte wohl längst dasselbe angenommen haben,
 denn er gab dem Frachtschiffer durch ein paar scherzhafte Redewendungen
 zu verstehen, daß er die Polizei nicht gerade liebe,
 sei es nun die Londoner oder die Pariser oder die italienische.
-»Ein Polizist bleibt ein Schreckgespenst Selbst für die Ehrlichen«,
+»Ein Polizist bleibt ein Schreckgespenst selbst für die Ehrlichen«,
 — und die Schiffer nickten und grinsten, und die
 nächste Bemerkung Harsts war noch bezeichnender für seine
 Erkenntnis, daß er hier doch vielleicht allzu eifrig vorgegangen
@@ -2075,7 +2075,7 @@ Die Signora deutete auf die Telephonzelle im Hintergrunde
 des langgestreckten Raumes, die statt einer Tür einen
 dicken Friesvorhang hatte. — Ich hegte berechtigte Zweifel,
 ob Haralds Ablenkungsmanöver noch Erfolg haben würden.
-Er erhob sich, Schlenderte nach hinten und siehe da — der
+Er erhob sich, schlenderte nach hinten und siehe da — der
 stattliche Kaffeebesitzer folgte ihm. »Sie werden mit meinem
 Apparat vielleicht nicht recht fertig werden«, meinte er
 höflich.
@@ -2111,7 +2111,7 @@ in der Zeitung gelesen? Leider darf man die »Dollarika«
 nicht besichtigen. Wir versuchten es vormittags, — — verdammte
 Polizei natürlich wieder!«
 
-ich fühlte, daß ihr Mißtrauen schwand. »Wen kennen
+Ich fühlte, daß ihr Mißtrauen schwand. »Wen kennen
 Sie von den Amerikanern?«, meinte sie nur noch neugierig.
 
 Ich schien nachzudenken. »Einen Mr. Augin oder Austin,
@@ -2119,7 +2119,7 @@ dann noch dessen Freund mit einem schwer zu behaltenden
 Namen — — Bulgeroll oder so ähnlich und verschiedene
 Damen …«
 
-jetzt verriet sie sich vollständig.
+Jetzt verriet sie sich vollständig.
 
 Wir hörten Harst in der Zelle sprechen, die Signora saß
 mit dem Rücken nach dorthin, ich sah, daß der breite, faltenreiche
@@ -2129,7 +2129,7 @@ seltsamen Art sichtbar wurden. Meine Aufmerksamkeit war
 <@pagebreak/>
 daher sehr geteilt, und hätte dieses äußerlich recht anziehende
 Weib nicht durch die folgenden Sätze sich diese empfindliche
-Blöße gegeben, würde ich wohl noch erstaunter gewesen Sein,
+Blöße gegeben, würde ich wohl noch erstaunter gewesen sein,
 — denn die Füße des Signore dort in der Zelle erschienen
 abermals, verschwanden wieder, und es machte ganz den Eindruck,
 als ob der Mann kniete.
@@ -2149,7 +2149,7 @@ so laut und dringend, daß ich zu der aufhorchenden Venezianerin
 achselzuckend sagte: »Mein Kollege scheint mit dem
 Hoteldiener nicht gerade sanft umzuspringen …«
 
-Dann erschien Harst auch schon
+Dann erschien Harst auch schon.
 
 »Ihr Mann will noch telephonieren«, sagte er nur. »All
 diese Hoteldiener sind Esel …«
@@ -2159,7 +2159,7 @@ nötigen Wink.
 
 Er nickte nur, machte der Signora noch ein Kompliment
 über das prächtige Erbstück von Tuch und bot ihr ganz unvermittelt
-achttausend Lire dafür,
+achttausend Lire dafür.
 
 »Herr, Sie scherzen …!« Die Habgier flackerte in den
 dunklen Augen auf.
@@ -2221,7 +2221,7 @@ eins übrig: Die Goldbarren sicher zu stellen.« —
 
 Der von Harst in der Telephonzelle durch Herzgrubenstoß
 niedergeboxte Kaffeetier saß nach zehn Minuten nebst
-Seiner Signora etwas bleich wieder hinter dem Ausschank. Das
+seiner Signora etwas bleich wieder hinter dem Ausschank. Das
 Lokal schien friedlich —, volkstümlich wie bisher. Nur die
 sechs Gäste an den Tischen waren Kriminalbeamte, und die drei
 Herren an dem Ladentisch waren Kontarini und wir beide.
@@ -2236,7 +2236,7 @@ die in den Hohlziegeln verborgenen Barren. —
 
 Es wurde fünf Uhr. Nusche kam nicht. Mr. Austin,
 der droben in seinem Zimmer mit zwei Beamten hätte Skat
-spielen können, wartete umsonst,
+spielen können, wartete umsonst.
 
 Wir auch.
 
@@ -2253,7 +2253,7 @@ ereignete.
 
 Kurz nach fünf kam die Meldung, daß Bartolomeo und
 Mario an Bord erschienen seien und eifrig nach ihrem Wohltäter,
-dem Ziegelsteinkäufer, Ausschau hielten,
+dem Ziegelsteinkäufer, Ausschau hielten.
 
 Harst erklärte, noch zehn Minuten warten zu wollen.
 »Dann fahren wir hin, Kontarini, dann hat Nusche doch
@@ -2317,7 +2317,7 @@ Befehl des Herrn erst herausgesucht.«
 heute nachmittag hier an Bord als wir beide, — die
 Polizei hat doch aufgepaßt, Herr, und die alte Dame, die auf
 dem Bollwerk stand und die Ziegel besichtigte, Herr, die ging
-doch Sofort weiter …«
+doch sofort weiter …«
 
 Die Kriminalbeamten bejahten auch dies. Trotzdem wollte
 Harald genau wissen, wo sie gestanden hatte.
@@ -2377,7 +2377,7 @@ und alte Blechbüchsen, Steine, faulendes Holz und ein
 paar arme Fische bis auf den Ufersteg flogen — ein harmloses
 Bombardement, obwohl die Tatsache an sich schon genügte,
 Nusche für Lebenszeit zu einer schönen eisernen Fußkette und
-zu einem Gratisaufenthalt in Nordafrika zu verhelfen,
+zu einem Gratisaufenthalt in Nordafrika zu verhelfen.
 
 »Der Schurke!«, rief Kontarini erregt.
 
@@ -2406,7 +2406,7 @@ in dem eisernen Öfchen Reste einer verschrumpelten schwarzen
 Masse und viel Holzasche.
 
 »Verbranntes Leder von den Koffern, die die Barren
-enthielten«, sagte Harst zu Kontarini. »Ist Innen klar, daß
+enthielten«, sagte Harst zu Kontarini. »Ist Ihnen klar, daß
 <@pagebreak/>
 Nusche die Koffer doch von der später versenkten Jacht hier
 auf den Kahn überlud?!«
@@ -2507,8 +2507,8 @@ Der Triester zuckte nicht mit der Wimper.
 
 »Nein, — wer ist das?!«
 
-Dann wurde Sein braungelbes Gesicht plötzlich grau. Er
-stierte Seitwärts … Ein paar Leute in Zivil hatten Soeben
+Dann wurde sein braungelbes Gesicht plötzlich grau. Er
+stierte seitwärts … Ein paar Leute in Zivil hatten Soeben
 einen bereits beladenen zweiten Kutter, der davonfahren wollte,
 angehalten.
 
@@ -2533,7 +2533,7 @@ zuschritten, als wir drüben aus der kleinen Veranda von
 Nr. 12a unseren Otto und die hübsche Evy in eifrigster Unterhaltung
 bemerkten, sagte Harald mit stillem Bedauern: »Wissen
 Sie, Kontarini, den Thomas Gorr möchte ich am liebsten laufen
-lassen, schon deshalb, weil er Seine Tochter so ehrlich vergöttert
+lassen, schon deshalb, weil er seine Tochter so ehrlich vergöttert
 …«
 
 <@pagebreak/>
@@ -2544,7 +2544,7 @@ Wir waren bemerkt worden, Sarka winkte, kam uns entgegen
 im Loch, viele andere auch, Nusche ist leider entwischt«,
 und Harst deutete auf Evy. »Wo ist Thomas Gorr«?«
 
-Sarka machte Sein unschuldigstes Gesicht. »Oh — er ging
+Sarka machte sein unschuldigstes Gesicht. »Oh — er ging
 vorhin baden …«
 
 »So! Sie sollten ihn doch nicht aus den Augen lassen,
