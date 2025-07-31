@@ -1891,43 +1891,43 @@ starrte uns wortlos nach.
 
 <h2>6. Kapitel.</h2>
 
-<h3>An einer Telephonzelle erscheinen Süße.</h3>
+<h3>In einer Telephonzelle erscheinen Füße.</h3>
 
-Draußen auf der belebten Liste Ei Spann sagte Harald
-ganz heiter: »Scapatta, den Namen wollen wir uns merken
+Draußen auf der belebten Liste di Spagna sagte Harald
+ganz heiter: »Scapatta, den Namen wollen wir uns merken …
 Vorwärts, zunächst die nötigen Einkäufe. Daß wir bereits
-im Hotel Doxe Sennor ein Zimmer und am Lido eine Villa
+im Hotel Doxe Venior ein Zimmer und am Lido eine Villa
 haben, soll uns nicht hindern, nunmehr als Engländer mit
 sehr frischen Koffern noch im Bauer-Grünwald abzusteigen.
-Es l legt so bequem am 7larkusplatz und am Sattel Grande.
+Es liegt so bequem am Markusplatz und am Canal Grande.
 
-Euer Engländer logierten ab drei Uhr im Bauer- ’Erün-
-welch aßen auf der wunderschönen Gartenterrasse Mittag, beobachteten
+Zwei Engländer logierten ab drei Uhr im Bauer-Grünwald,
+aßen auf der wunderschönen Gartenterrasse Mittag, beobachteten
 die Gondeln und Dampfer auf dem Kanal und
 sprachen so unverfälscht Londoner Akzent, daß nur ein ganz
 gerissener Horcher zwei Deutsche vermutet hätte.
 
 Harst genoß den Roquefort mit der Zärtlichkeit des
-Kenners. »Arm Austin, mein Doppelgänger, schwamm auf der
+Kenners. »Jim Austin, mein Doppelgänger, schwamm auf der
 Piazzetta in seinem Blute, das Dolchmesser steckte ihm noch
-in der Brust, die Augen waren verdreht, alles.
+in der Brust, die Augen waren verdreht, alles …«
 
 »Eine wenig delikate Bemerkung zum Käse«, sagte ich und
 blickte ihn etwas mißtrauisch an,
 
 Er fuhr in demselben unpassenden Ton fort: »Als nächster
-wird Gorr sterben, suchte ich, Er. Clowns Gorr, der mit zu
+wird Gorr sterben, fürchte ich, Mr. Thomas Gorr, der mit zu
 den Millionären gehört, aber nicht mehr Millionär ist. Arconi
-vertraute mir an, daß Gorr durch versetzte Spekulationen
-ungeheure Verluste erlitten bat. Er war mithin für den
-Wandsofa leicht zu gewinnen. Er Ruf mir leid, der kleine Gorr,
-—» machte einen ganz sympathischen Eindruck, fand ich, jedvufalls
-liebt er seine Evy sehr — sehr, — — daß er aber nach
+vertraute mir an, daß Gorr durch verfehlte Spekulationen
+ungeheure Verluste erlitten hat. Er war mithin für den
+Midiako leicht zu gewinnen. Er tut mir leid, der kleine Gorr,
+— machte einen ganz sympathischen Eindruck, fand ich, jedenfalls
+liebt er seine Evy sehr — sehr, — daß er aber nach
 uns Badehäuschen 120 mietete, daß er, ein harmloses Gemüt,
-hoffte, wir würden seine Laternenexperimente übergeben
-— — armer Gelächelt Nusche wird ihn nun als Überreste
+hoffte, wir würden seine Laternenexperimente übersehen
+— — armer Schächer!! Nusche wird ihn nun als Überflüssig
 <@pagebreak/>
-Es falls nicht gerade Sarka sehr gut aufpaßt. Was
+abtun, falls nicht gerade Sarka sehr gut aufpaßt. Was
 ich hoffe.«
 
 Er war mit dem Roquefort fertig und griff nach einem
@@ -1944,51 +1944,51 @@ seine etwas kunterbunten Gedanken fort. »Nusche hat sogar
 Polizeibeamte in seinem Solde. Signore Scapatta läßt sich
 seit vier Tagen auch bei Schenkenberger rasieren — wie wir.
 Was werden wir noch alles hören?! Nächstens werde ich vielleicht
-feststellen, daß selbst du zum Midiako Beziehungen umschattet.
+feststellen, daß selbst du zum Midiako Beziehungen unterhältst.
 Und ich auch. Was ja auch zutrifft. Nur daß unsere
 Beziehungen zu dem wieder aufgelebten Konzern keineswegs
 freundschaftliche sind. Im Gegenteil, — es wird höchste Zeit,
 daß wir mit den Herrschaften endgültig Schluß machen. —
 Den Kaffee trinken wir in der Barnaba-Gasse, wo der kleine
-Gorr die Ratte Gottes, — Kellner zahlen …«
+Gorr die Ratte tottrat. — Kellner zahlen …«
 
 Wir schritten über den jetzt noch stilleren Markusplatz.
-Hier konnte sich kein Spion vor uns verbergen, 25 war niemand
+Hier konnte sich kein Spion vor uns verbergen, es war niemand
 hinter uns her, und nach zehn Minuten betraten wir
-beiden Engländer das volkstümliche Kaffee in der Barnaba Gasse,
-aus dem Mr. Gorr in der. Nacht so sorglos herausgekommen
-war. — Das!chlichte, aber blitzsaubere Lokal
+beiden Engländer das volkstümliche Kaffee in der Barnaba-Gasse,
+aus dem Mr. Gorr in der Nacht so sorglos herausgekommen
+war. — Das schlichte, aber blitzsaubere Lokal
 war bis auf drei Leute, die am Stammtisch ihren »Kaffee
 espresso« (schwarz) tranken, lediglich durch den Herrn Wirt
-und dessen Gattin belebt, zwei typische Begossener, — er im
+und dessen Gattin belebt, zwei typische Venezianer, — er im
 halsfreien, seidenen Hemd, sie in ein langes farbenfreudiges
-Euch gehüllt, — eines von jenen Erbstücken, die der Fremde
-kaum für einen phantastischen Preis erhält. Wir setzen uns
+Tuch gehüllt, — eines von jenen Erbstücken, die der Fremde
+kaum für einen phantastischen Preis erhält. Wir setzten uns
 <@pagebreak/>
-an eins der Tischchen, — — hier flüchten wir dreißig Millionen
+an eins der Tischchen, — — hier suchten wir dreißig Millionen
 Lire in Gold, auch das mag phantastisch klingen, aber der
 Erfolg gab Harald schließlich doch recht, wenn auch dieser
 Erfolg sehr teuer erkauft werden sollte.
 
-»euer Wischte«, bestellte Harst, indem er mit einem
+»Zwei Mischio«, bestellte Harst, indem er mit einem
 Hornkneifer auf der Nase eifrig in seinem neu gekauften englischen
 Reiseführer blätterte.
 
-»Tische« gibt es in solcher Güte nur in Gehalten. Es
-ist dies nämlich) Kaffee und Schokolade gemischt. aber der
+»Mischio« gibt es in solcher Güte nur in Italien. Es
+ist dies nämlich Kaffee und Schokolade gemischt, aber der
 Geschmack hängt vollkommen von der Kunst des Mixers ab.
 — Der stämmige Wirt servierte das Getränk persönlich und
-brachte auch gleicht eine Schale tadellosen Kuchens zur Auswahl
-mit. Entsprach ein wenig englisch, wahrscheinlich hatte
+brachte auch gleich eine Schale tadellosen Kuchens zur Auswahl
+mit. Er sprach ein wenig englisch, wahrscheinlich hatte
 Sein abgelegenes Lokal noch nie so vornehme Ausländer gesehen,
 die in Spenderlaune sogar jedem der drei Männer am
-Schanktisch (es schienen FSgrachtkahnschiffer zu sein) je drei
+Schanktisch (es schienen Frachtkahnschiffer zu sein) je drei
 Päckchen Macedonia aushändigen ließen, was uns wieder die
 Tischgemeinschaft dieser einfachen, dankbaren Leute eintrug,
 die zweifellos einst bei der Kriegsmarine gedient hatten, denn
-sie konnten gerade!so viel von der englischen Sprache, daß eine
+sie konnten gerade so viel von der englischen Sprache, daß eine
 etwas wortarme Unterhaltung möglich war. Sie klagten sehr
-über die schlechten Zeiten, s!chimpften auf die Franzosen (von
+über die schlechten Zeiten, schimpften auf die Franzosen (von
 dem Haß der modernen Italiener gegen Frankreich macht sich
 der Durchschnittsdeutsche kaum eine richtige Vorstellung), und
 So ganz allmählich glitt das Gespräch in weniger kommerzielle
@@ -1996,94 +1996,94 @@ und politische Bahnen hinüber, unauffällig gelenkt von einem
 Manne, der diesen braven Sizilianern nicht nur blauen Adriadunst
 vormachte, sondern auch Fragen einzuflechten versteht, die
 bei all ihrer Gleichgültigkeit einen tiefen Sinn haben können.
-Untier erfuhren wir denn bei einer Zweilitertonne »Hing
-Diener«, Portwein, daß die ehrbare Gilde der Frachtkahnschiffer
+Und so erfuhren wir denn bei einer Zweilitertonne »Vino
+bianco«, Weißwein, daß die ehrbare Gilde der Frachtkahnschiffer
 morgen der heiligen Madonna im linken Seitenraum
 der Markuskirche (ein vergoldetes Madonnenrelief) ein Dutzend
 dicke echte Wachskerzen spenden werde …
 
 »Bartolomeo und Mario haben Glück gehabt und ihren
 <@pagebreak/>
-Ziegelsteinkahn, der keine tans’nd Lire wert ist, gestern sehr
+Ziegelsteinkahn, der keine tausend Lire wert ist, gestern sehr
 gut verkauft«, erklärte der eine der bereits sehr vergnügten
-Begossener … «&ünftausend haben Sie begonnen, und fünftausend
-bekommen sie noch, grotesk die Ladung Steine in San
-Sultana erst in die Lastautos verfrachtet ist … Sehen Sie,
-Herr, da war handelte ein Fremder bei Bartolomeo, der die
+Venezianer … »Fünftausend haben Sie bekommen, und fünftausend
+bekommen sie noch, sobald die Ladung Steine in San
+Giuliano erst in die Lastautos verfrachtet ist … Sehen Sie,
+Herr, da war heute so ein Fremder bei Bartolomeo, der die
 alten Ziegel vom Abbruch des eingestürzten Seitenflügels des
-Palazzo Goldene wegschoassen sollte, — versenken Herr …
-Aber der &remde, ein sehr reicher Amerikaner, will die Steine
-für den Bau seiner Villa bei San Sultana benutzen, es sind
+Palazzo Gordana wegschaffen sollte, — versenken Herr …
+Aber der Fremde, ein sehr reicher Amerikaner, will die Steine
+für den Bau seiner Villa bei San Giuliano benutzen, es sind
 uralte große Hohlziegel, Herr … Sie wissen ja, die Paläste
 und die Häuser ruhen auf Planken, und deshalb brannte man
-früher nur &Sohlziogel …«
+früher nur Hohlziegel …«
 
 »Ich weiß«, nickte Harst. »Wo liegt denn Bartolomeos
-Glückskahn zur »Zeit? Solch einen Hohlziegel würden wir
-auch gern als Anrannten kaufen …«
+Glückskahn zur Zeit? Solch einen Hohlziegel würden wir
+auch gern als Andenken kaufen …«
 
-»Oh — draußen am Kamiaregio, Herr, am LoeonardaKanal.
-Und Ziecelsteine sind genug da, ganz vollgepackt ist
+»Oh — draußen am Kannaregio, Herr, am Leonardo-Kanal.
+Und Ziegelsteine sind genug da, ganz vollgepackt ist
 der Kahn, und die Leute des reichen Herrn werden wohl
 nichts dagegen haben, daß Ihr auch ein paar Steine aussucht,
-manche davon haben noch allerlei Zuschritten und Bilder,
-Neliesköpfe, Herr … Fahrt nur nachher mit einer Gondel
-hinaus, Herr … ätzt habt noch Zeit. Bartolomeo und Mario
-schlafen noch, sie hüben sehr gefriert, Herr, — Ohr versteht …
+manche davon haben noch allerlei Inschriften und Bilder,
+Reliefköpfe, Herr … Fahrt nur nachher mit einer Gondel
+hinaus, Herr … Ihr habt noch Zeit. Bartolomeo und Mario
+schlafen noch, sie haben sehr gefriert, Herr, — Ihr versteht …
 sehr gefriert, und vor sechs Uhr wird das Motorboot den Kahn
 kaum abschleppen, auch das Boot gehört den beiden, Herr,
-und ohne Bartolymeo und Zigarre kann der Fremde nichts
-machen, sie sind die Frachtschiffer, Herr, und Ei« Polizei paßt
-Sehr scharf auf … Vorhin ist sogar unser O’stkahn durchsucht
-worden, — die heilige Dünsten mag wii:’en, weshalb.«
+und ohne Bartolomeo und Mario kann der Fremde nichts
+machen, sie sind die Frachtschiffer, Herr, und die Polizei paßt
+Sehr scharf auf … Vorhin ist sogar unser Obstkahn durchsucht
+worden, — die heilige Jungfrau mag wissen, weshalb.«
 
 Nun, wir wußten es …
 
 Und während der schon stark angeheiterte Obstschiffer
-weiter schwatzte, toobachtete ich etwas, das mir gar nicht gefiel.
+weiter schwatzte, beobachtete ich etwas, das mir gar nicht gefiel.
 Der Wirt hatte sich über den Schanktisch gelehnt, hörte
-andächtig zu, und seine liebe Gattin tat das glei’de. Zuweilen
+andächtig zu, und seine liebe Gattin tat das gleiche. Zuweilen
 <@pagebreak/>
-stießen sie sich unn’erkliß mit den Ellbogen an, zuweilen schien
-der Wirt dem redefreudigen Schiffer ins Wort sollen zu
-wollen. Offenbar war das Ehepaar!chon vorher über den
-Viegelsteinkahn weit besser unterrichtet Chinesen als die drei
-von der Gilde, und diese geriebenen beiden Begossener dort
-neben den blanken Kupferke!seln mit Kaffee und Schokolade
-waren leider allzu rasch mißi:oyisch geworden.
+stießen sie sich unmerklich mit den Ellbogen an, zuweilen schien
+der Wirt dem redefreudigen Schiffer ins Wort fallen zu
+wollen. Offenbar war das Ehepaar schon vorher über den
+Ziegelsteinkahn weit besser unterrichtet gewesen als die drei
+von der Gilde, und diese geriebenen beiden Venezianer dort
+neben den blanken Kupferkesseln mit Kaffee und Schokolade
+waren leider allzu rasch mißtrauisch geworden.
 
-Harst mußte wohl läng’t dasselbe angenommen« haben,
-denn er gab dem Frachtschiffer durch ein paar scherzhafte Vedewendungen
-zu verstehen, daß or die Polizei nicht gerade Lied,
-sei es nun die Londoner oder die »Pariser oder die italienische.
-»Ein »Polizist bleibt ein Ich. ekgreipenjt Selbst für die Ehrlichen«,
-— und die Schleier nickten und grinsten, und die
-nächste Bemerkung Harsts war noch bezeichnenden für seine
+Harst mußte wohl längst dasselbe angenommen haben,
+denn er gab dem Frachtschiffer durch ein paar scherzhafte Redewendungen
+zu verstehen, daß er die Polizei nicht gerade liebe,
+sei es nun die Londoner oder die Pariser oder die italienische.
+»Ein Polizist bleibt ein Schreckgespenst Selbst für die Ehrlichen«,
+— und die Schiffer nickten und grinsten, und die
+nächste Bemerkung Harsts war noch bezeichnender für seine
 Erkenntnis, daß er hier doch vielleicht allzu eifrig vorgegangen
-sei: »ckch denke soeben daran, — wir werden kann mehr den
-finden, uns um diese Ziege:!Stein-Andenlteon zu bemühen …
-Wir« reisen abends halb neun mit dem Stufe.-Dampfer weiter,
-und wir möchten hier noch sonst einige obere volkstümliche
-Lokale besuchen, — wir sind »Sevakxteure eines Londoner Magazins,
+sei: »Ich denke soeben daran, — wir werden kaum mehr Zeit
+finden, uns um diese Ziegelstein-Andenken zu bemühen …
+Wir reisen abends halb neun mit dem Fiume-Dampfer weiter,
+und wir möchten hier noch schnell einige andere volkstümliche
+Lokale besuchen, — wir sind Redakteure eines Londoner Magazins,
 und unser Chef zahlt uns die Spesen nicht umsonst.«
 Er gähnte herzhaft, lächelte der Signora am Ladentisch zu
-und fragte, ob er nicht telephonieren-kömne. »Unsere Koffer
-missen um sechs an Bord sein, der Hoteldiener könnte es
+und fragte, ob er nicht telephonieren könne. »Unsere Koffer
+müssen um sechs an Bord sein, der Hoteldiener könnte es
 vergessen, und wir haben nachher Scherereien mit der Zollabfertigung.«
 
-Die Signora deutete auf die Telephonzelle im Hinter
-Grunde des langgestreckten Raumes, die Sicht einer Tür einen
-dicken Iriesvorhang hatte. — Ich hegte berechtigte Zweifel,
+Die Signora deutete auf die Telephonzelle im Hintergrunde
+des langgestreckten Raumes, die statt einer Tür einen
+dicken Friesvorhang hatte. — Ich hegte berechtigte Zweifel,
 ob Haralds Ablenkungsmanöver noch Erfolg haben würden.
-Er erhob sich, Schleuderte nach hinten und siehe da — der
-stattliche Kasseebesier folgte ihm. »Sie werden mit meinem
-bö. vielleicht nicht redet fertig werden«, meinte er
-Strich
+Er erhob sich, Schlenderte nach hinten und siehe da — der
+stattliche Kaffeebesitzer folgte ihm. »Sie werden mit meinem
+Apparat vielleicht nicht recht fertig werden«, meinte er
+höflich.
 
-Harst wandte den Kopf zurück, und sein harmloses Augen
+Harst wandte den Kopf zurück, und sein harmloses Augenblinzeln
 <@pagebreak/>
-blinzeln war geradezu eine Glanzleistung der Schauspielerkunst.
-»du zweien werden wir wohl Anschluß bekommen«, —
+war geradezu eine Glanzleistung der Schauspielerkunst.
+»Zu zweien werden wir wohl Anschluß bekommen«, —
 und er hob den Vorhang und gewährte dem Signora liebenswürdigst
 den Vortritt in den recht geräumigen Holzverschlag,
 der nebenbei noch als Abstellkammer benutzt wurde.
@@ -2098,10 +2098,11 @@ kokette Lächeln war Lüge, und diese imposante Venezianerin
 verriet sich noch weiter, als sie sofort fragte, wo wir abgestiegen
 seien.
 
-ie Eingebung des Augenblicks riet mir zu der gleichülfigen
+Die Eingebung des Augenblicks riet mir zu der gleichgültigen
 Antwort: »Im Excelsior, Lido, — etwas laut zur
-Zeit, zu viel Amerikaner …« …
-— Siqgnoras Augenlider hoben sich blitzschnell.
+Zeit, zu viel Amerikaner …«
+
+Signoras Augenlider hoben sich blitzschnell.
 
 »Kennen Sie einige Gäste?«
 
@@ -2110,101 +2111,101 @@ in der Zeitung gelesen? Leider darf man die »Dollarika«
 nicht besichtigen. Wir versuchten es vormittags, — — verdammte
 Polizei natürlich wieder!«
 
-sich fühlte, daß ihr Mißtrauen schwand. »Wen kennen
-die von den Amerikanern?«, meinte sie nur noch neugierig.
+ich fühlte, daß ihr Mißtrauen schwand. »Wen kennen
+Sie von den Amerikanern?«, meinte sie nur noch neugierig.
 
-Ach schien nachzudenken. »Einem Mr. Ungarn oder Austin,
-dann noch dessen Freund mit einem schwer. zu belastenden
+Ich schien nachzudenken. »Einen Mr. Augin oder Austin,
+dann noch dessen Freund mit einem schwer zu behaltenden
 Namen — — Bulgeroll oder so ähnlich und verschiedene
 Damen …«
 
-Gebt verriet sie sich vollständig.
+jetzt verriet sie sich vollständig.
 
-Wir hörten Harst in der Zelle sprechen, die Signora!saß
-mit dem Rücken nach dorthin, ich sah, daß der breite, Zahlenreihe
+Wir hörten Harst in der Zelle sprechen, die Signora saß
+mit dem Rücken nach dorthin, ich sah, daß der breite, faltenreiche
 Vorhang sich stark bewegte und daß für Sekunden unten
-am Rande die grauen Leinenschuhe des Desertiert in einer
+am Rande die grauen Leinenschuhe des Kaffeetiers in einer
 seltsamen Art sichtbar wurden. Meine Aufmerksamkeit war
 <@pagebreak/>
 daher sehr geteilt, und hätte dieses äußerlich recht anziehende
 Weib nicht durch die folgenden Sätze sich diese empfindliche
 Blöße gegeben, würde ich wohl noch erstaunter gewesen Sein,
-—» denn die Füße des Signore dort in der &elle erschienen
+— denn die Füße des Signore dort in der Zelle erschienen
 abermals, verschwanden wieder, und es machte ganz den Eindruck,
-als ob der Mann kniete …- —
+als ob der Mann kniete.
 
 »Im Excelsior soll ja heute vormittag ein Toter aufgefunden
 worden sein, — — wissen Sie etwas darüber?«
 
 Sie schaute mich gespannt an. »Sie irren sich«, meinte
-im ohne Baronesse. »Gestern fand man dort einen betäubten
-Deutschen, der Doteldetektiv erwähnte es Ritters vertraulich.
-Sie verwechseln die …! im
+ich ohne Interesse. »Gestern fand man dort einen betäubten
+Deutschen, der Hoteldetektiv erwähnte es streng vertraulich.
+Sie verwechseln die …«
 
 Harsts Stimme in der Zelle ließ mich verstummen.
 
 »Schicken Sie sie sofort ab — sofort!«, und das klang
-so laut und dringend, daß ich zu der aushorchen den Venezianerin
-achselzuckend sagte: »Mein Kollege kichernd mit dem
-Hoteldiener nicht gerade sanft umzuspringen …«.
+so laut und dringend, daß ich zu der aufhorchenden Venezianerin
+achselzuckend sagte: »Mein Kollege scheint mit dem
+Hoteldiener nicht gerade sanft umzuspringen …«
 
-Dann« erschien Harst auch: schon
+Dann erschien Harst auch schon
 
 »Ihr Mann will noch telephonieren«, sagte er nur. »All
-diese Hoteldiener sind Esel …« …
+diese Hoteldiener sind Esel …«
 
 »Und die vom Excelsior besonders«, gab ich ihm den
 nötigen Wink.
 
-» Er nickte nur, machte der Signora noch ein Kompliment
-über das prächtige Erbstück von Euch und bot ihr ganz unvermittelt
-achttausend Lire dafür,«
+Er nickte nur, machte der Signora noch ein Kompliment
+über das prächtige Erbstück von Tuch und bot ihr ganz unvermittelt
+achttausend Lire dafür,
 
 »Herr, Sie scherzen …!« Die Habgier flackerte in den
 dunklen Augen auf.
 
-Ah dann zehntausend …«, sagte er und zog die Brieftasche.
+»Also dann zehntausend …«, sagte er und zog die Brieftasche.
 
-Dieses seine Spiel, dessen Einzelheiten ich zunächst ganz
+Dieses feine Spiel, dessen Einzelheiten ich zunächst ganz
 falsch beurteilt hatte, überblickte ich erst jetzt vollkommen.
 Es war keine Fahrlässigkeit von Harst gewesen, als er die
 Schiffer so verdächtig ausgeforscht hatte, von Anfang an hatte
 er das Ehepaar durch diese Taktik hineinlegen wollen. Ihm
 <@pagebreak/>
 war es darauf angekommen, die Verbindung dieses harmlosen
-kleinen Kessel mit der Midiako, mit Georg Nusche, nachzuweisen,
-und sein jetzigen Handel um das Tuch war ein Handel
+kleinen Kaffees mit der Midiako, mit Georg Nusche, nachzuweisen,
+und sein jetziger Handel um das Tuch war ein Handel
 um Millionen.
 
-Gehntausendl!! — Die Signora war verblüfft, wurde vollständig
+Zehntausend!! — Die Signora war verblüfft, wurde vollständig
 von der verfänglichen Stille hinter dem Vorhang der
-Helle abgelenkt.
+Zelle abgelenkt.
 
 Harst redete weiter auf sie ein, zählte die großen Tausendlirebanknoten
 mit den roten Stempeln umständlich auf den
 Tisch, lachte, scherzte … »Soll ich noch tausend zulegen,
 Signora, oder soll ich das Dutzend vollmachen?«
 
-… Hinter dem Vorhang hervor kam ein tiefes Stöhnen …
+Hinter dem Vorhang hervor kam ein tiefes Stöhnen …
 
-Das Weib!schnellte herum. Aber eine Hand, die trotz
-ihrer Gepflegtheit blaue &Slecken hinterlassen kann, drückte die
+Das Weib schnellte herum. Aber eine Hand, die trotz
+ihrer Gepflegtheit blaue Flecken hinterlassen kann, drückte die
 Signora auf den Stuhl zurück, und die andere Hand brachte
-keine Tausendlirescheine, Flandern eine dicke Schnur zum Vorschein.
+keine Tausendlirescheine, sondern eine dicke Schnur zum Vorschein.
 »Binden, Schraut!«
 
-Die Kasseetiere kreischte wie toll. Aus den Wirtxschaftsräumen
+Die Kaffeetiere kreischte wie toll. Aus den Wirtschaftsräumen
 tauchte eine Köchin, ein halbwüchsiger Bursche
-und ein verschlossenen, sehr seiner Gent in Seidenen Pyjama
+und ein verschlafener, sehr feiner Gent in seidenem Pyjama
 auf, aber die Situation war bereits entschieden: In den Eingang
 drängten sich junge, stramme Zivilisten, Kontarini war
 einer der ersten, die dem Weibe den Mund stopften, das
-Personal und der Gent standen bleich an der Wand und singen
-mit den emporgereckten Händen &liegen — oder auch nicht, —
+Personal und der Gent standen bleich an der Wand und fingen
+mit den emporgereckten Händen Fliegen — oder auch nicht, —
 im Nu war das Haus von der Kriminalpolizei besetzt, und im
-ersten Stock, der »Privatwohnung des Besitzers, holte Harst
+ersten Stock, der Privatwohnung des Besitzers, holte Harst
 aus einem Kleiderschrank zu Kontarinis Erstaunen eine durchaus
-lebendige Leiche hervor: Mr. hin Austin, den Toten von
+lebendige Leiche hervor: Mr. Jim Austin, den Toten von
 der Piazzetta!
 
 »Ich sagte ja«, meinte Harst mehr zu mir gewandt, »Schafblut
@@ -2213,7 +2214,7 @@ ist billiger, und eine Gummiblase noch billiger.«
 Kontarini begriff sofort. »Der Mord war also Schwindel!«
 
 »Gewiß, ein sehr netter Schwindel sogar. Austin ist
-genau!jo pleite wie Mr. Gorr, und es bleibt uns jetzt nach
+genau so pleite wie Mr. Gorr, und es bleibt uns jetzt nach
 <@pagebreak/>
 Aushebung dieses neuen Hauptquartiers des Midiako nur noch
 eins übrig: Die Goldbarren sicher zu stellen.« —
@@ -2221,8 +2222,8 @@ eins übrig: Die Goldbarren sicher zu stellen.« —
 Der von Harst in der Telephonzelle durch Herzgrubenstoß
 niedergeboxte Kaffeetier saß nach zehn Minuten nebst
 Seiner Signora etwas bleich wieder hinter dem Ausschank. Das
-Lokal schien friedlich —, volkstürmlich wie bisher. Nur die
-sechs Gäste an den Erschien waren Kriminalbeamte, und die drei
+Lokal schien friedlich —, volkstümlich wie bisher. Nur die
+sechs Gäste an den Tischen waren Kriminalbeamte, und die drei
 Herren an dem Ladentisch waren Kontarini und wir beide.
 Signore hatte es vorgezogen, sofort die Wahrheit zu bekennen
 … Er hatte natürlich Harst in der Telephonzelle seinerseits
@@ -2230,12 +2231,12 @@ erledigen wollen, dann mich, er hatte sofort Verdacht geschöpft,
 aber nur das eine hatte er niemals vermutet: daß er
 der Genasführte war! — Um fünf, gestand er weiter, wollte
 Nusche Mr. Austin von hier abholen. Und dann sollte der
-Oiegelkahn gen Sultana in Fahrt gesetzt werden — mit ihm
+Ziegelkahn gen Giuliano in Fahrt gesetzt werden — mit ihm
 die in den Hohlziegeln verborgenen Barren. —
 
-Es ward?y fünf Uhr. Nusche kam nicht. Mr. Austin,
+Es wurde fünf Uhr. Nusche kam nicht. Mr. Austin,
 der droben in seinem Zimmer mit zwei Beamten hätte Skat
-spielen »können, wartete umsonst,
+spielen können, wartete umsonst,
 
 Wir auch.
 
@@ -2243,43 +2244,45 @@ Wir auch.
 
 <h2>7. Kapitel.</h2>
 
-<h3>»Und Kontarini liebt Hummerscheren.</h3>
+<h3>… Und Kontarini liebt Hummerscheren.</h3>
 
--Kontarinis Leute beobachteten längst den &Srachtkahn,
+Kontarinis Leute beobachteten längst den Frachtkahn,
 hielten auch ein Motorboot bereit und gaben in Abständen
 telephonisch Nachricht, ob sich dort am Mestre-Kanal Neues
 ereignete.
 
 Kurz nach fünf kam die Meldung, daß Bartolomeo und
 Mario an Bord erschienen seien und eifrig nach ihrem Wohltäter,
-dem Ziegelsteinhäuser, Ausschau hielten,
+dem Ziegelsteinkäufer, Ausschau hielten,
 
-Harst erklärte, noch zehn lauten warten zu wollen.
-»Dann Jahren wir hin, Kontarini, dann hat Nusche doch
+Harst erklärte, noch zehn Minuten warten zu wollen.
+»Dann fahren wir hin, Kontarini, dann hat Nusche doch
 Argwohn geschöpft.«
 
-Noch vor Ablauf der zehn Minuten erschien ein Straßen junge
+Noch vor Ablauf der zehn Minuten erschien ein Straßenjunge
 in dem Kaffee mit einem Brief für Harst.
 
 Das Schreiben lautete:
 
-»Öse geehrter Herr Harst,
-ich bedauere außerordentlich, Ihnen mitteilen zu müssen,
+<p class="centered">»Sehr geehrter Herr Harst,</p>
+
+> ich bedauere außerordentlich, Ihnen mitteilen zu müssen,
 daß ich stets gegenüber meinem Hauptquartier ein Zimmer
 miete. Der Anmarsch der Polizei blieb mir ebensowenig
-verborgen wie &öhre liebenwüurdigen Bemühungen
-um den &Srachtkahn, der natürlich nicht die Goldbarren
-enthält. Als Sie und ehe Freund die Signale beobachteten,
+verborgen wie Ihre liebenswürdigen Bemühungen
+um den Frachtkahn, der natürlich nicht die Goldbarren
+enthält. Als Sie und Ihr Freund die Signale beobachteten,
 die ich mit Gorr austauschte — hell und dunkel, nicht
 kurz und lang, aber doch Morsezeichen, änderte ich meine
 Pläne. Ich hatte ohnedies nie die Absicht, Austin und
 Gorr an der Beute teilnehmen zu lassen.
-Verbindlichst
-Ihr Georg Nusche.
+
+<p class="centered">Verbindlichst</p>
+
+<p class="right">Ihr Georg Nusche.</p>
 
 Kontarini war entsetzt. »Dann ist ja alles vergeblich
-
-gewesen, Herr Harst! Wo steckt das Gold!«
+gewesen, Herr Harst! Wo steckt das Gold?!«
 
 <@pagebreak/>
 Harst war nur etwas enttäuscht. »Also geht die Jagd
@@ -2293,24 +2296,24 @@ Nusche den Kahn kaufte … Sehen wir uns das Ding einmal
 an.«
 
 Wir fuhren im Polizeiboot zum Mestre-Kanal, und der
-fange, tief beladene Frachtkahn mit seinen Meinen brüchiger
+lange, tief beladene Frachtkahn mit seinen Reihen brüchiger
 uralter Ziegel lag noch am Nordufer des Leonardo-Kanals
-dicht an der Einmündung vertäut. Die beiden &Srachtschifser
+dicht an der Einmündung vertäut. Die beiden Frachtschiffer
 waren wenig beglückt über den Polizeibesuch. »Wir sind
 schuldlos«, beteuerten sie immer wieder …
 
-»Glaube ich!«, beruhigte Harst und!schritt zwischen den
+»Glaube ich!«, beruhigte Harst und schritt zwischen den
 Ziegelsteinen hindurch. »Mario, eine Frage … Lag der Kahn
 in der vergangenen Nacht ohne Aussicht hier?«
 
-»Herr« an den Ziegeln vergriff sich niemand«, meinte der
-ah bedrückt. »Sie sollten da) als Schutt im Lagunensumpf
+»Herr, an den Ziegeln vergriff sich niemand«, meinte der
+Schiffer bedrückt. »Sie sollten doch als Schutt im Lagunensumpf
 versenkt werden, und wir haben die besten Steine auf
-Besen! des Herrn erst herausgesucht.«
+Befehl des Herrn erst herausgesucht.«
 
 »Und er nicht hier?« Mario fixierte den Schiffer durchdringend.
 
-»ach sagte schon: Nein! Und ich lüge nicht. Es war niemand
+»Ich sagte schon: Nein! Und ich lüge nicht. Es war niemand
 heute nachmittag hier an Bord als wir beide, — die
 Polizei hat doch aufgepaßt, Herr, und die alte Dame, die auf
 dem Bollwerk stand und die Ziegel besichtigte, Herr, die ging
@@ -2320,94 +2323,90 @@ Die Kriminalbeamten bejahten auch dies. Trotzdem wollte
 Harald genau wissen, wo sie gestanden hatte.
 
 »Dort neben dem Pfahl, Herr … Ja, rechts von dem
-Pfahl … Es Dar eine …«
+Pfahl … Es war eine …«
 
 <@pagebreak/>
-»Und wo Stande! ihr beide, Mario?«
+»Und wo standet ihr beide, Mario?«
 
 »Hinten, Herr, — am Steuer!«
 
 »Also dort, wo auch die Beamten am Kai auf der Treppe
 saßen. — Bitte«, wandte er sich hastig an Kontarini und mich,
 »sorgt dafür, daß umgehend jeder den Kahn verläßt — auch
-ihr! »Besitz euch …! &ch stelle die’ies Verlangen wahrlich nicht
-ohne Grund … Verjschwintett1«
+ihr! Beeilt euch …! Ich stelle dieses Verlangen wahrlich nicht
+ohne Grund … Verschwindet!!«
 
 Wenn Harst mit solcher Dringlichkeit etwas fordert, liegt
-stets eine unmittelbare Gefahr vor. &Gch wollte daher wider
-sprechen, wollte bei ihm bleiben, — er wurde grob. »dicht
+stets eine unmittelbare Gefahr vor. Ich wollte daher widersprechen,
+wollte bei ihm bleiben, — er wurde grob. »Zieht
 euch alle bis zur Wassertreppe zurück … Kontarini, lassen
-Sie den Verkehr auf dem Usferwege sperren.«
+Sie den Verkehr auf dem Uferwege sperren.«
 
 Es geschah. — Harst war unseren Blicken entzogen. Wir
 warteten in nervöser Spannung, — ich hatte Kontarini bedeutet,
-daß die »a’e Dame« sich herrscht Nusche gewesen sei,
-»Harst befürchtet Omen Anschlag, und er wird wohl richtig
-vermuten. «— Wann war die Dame hier, Mario, und hatte
+daß die »alte Dame« sich herrscht Nusche gewesen sei,
+»Harst befürchtet einen Anschlag, und er wird wohl richtig
+vermuten. — Wann war die Dame hier, Mario, und hatte
 sie etwa ein Päckchen in der Hand?«
 
 »Es mag gegen ein viertel fünf gewesen sein, oder halb
-fünf, Herr. die tr’iq nur eine Handtasche und einen Regenschirm
+fünf, Herr. Sie trug nur eine Handtasche und einen Regenschirm
 und ein Fernglas.«
 
 »Und — ging sie auch mit den drei Gegenständen wieder
-weiter? — Bedenkt: daß der Pfahl sie euren Blicken halb
-entzog. « Sie kann etwas in den Kahn geworfen haben, ohne
+weiter? — Bedenkt, daß der Pfahl sie euren Blicken halb
+entzog. Sie kann etwas in den Kahn geworfen haben, ohne
+daß …«
 
-aß…
-
-Hm selben Moment wurde auch Harst schon wieder sichtbar.
+Im selben Moment wurde auch Harst schon wieder sichtbar.
 Eine recht große Handtasche flog im Bogen in den
-Kanal und versank j5sort. Harst rief uns zu, und der grimme
+Kanal und versank sofort. Harst rief uns zu, und der grimme
 Humor in seiner Stimme klang klarer als jemals bei ähnlichen
-Anlässen: »E’was Herr schwer, das Ding — und zu
+Anlässen: »Etwas sehr schwer, das Ding — und zu
 dick … Uhrwerk, Batterie und Sprengstoff wogen gut fünf
-Pfund. Am Bügel war ein schwarzer dreifacher Seideiusoden
-befestigt Nusche by die Tasche an diesem Faden in den
+Pfund. Am Bügel war ein schwarzer dreifacher Seidenfaden
+befestigt. — Nusche hat die Tasche an diesem Faden in den
 <@pagebreak/>
 Schiffsraum hinabgleiten lassen … Entweder explodiert das
 Ding im Schlamm des Kanals, oder die Batterie versagt infolge
 der Nässe.«
 
 Sie versagte nicht. Er hatte kaum den Satz beendet, als
-»mitten im Leonardo-Sattel eine haust je Fontäne empor
-sprang und alte Blechbüchse:1, Steine, faulendes Holz und ein
-paar arme &Sische bis auf der Tiefstes großen — ein harmloses
-Bombardement, obwohl die Tatsache a. sich seit genügte,
-Nusche für Lebenszeit zu ei er schönen Flecken Fuchtelte und
-zu einem Gratisaufenthalt in Worvasrika zu verlassen,
+mitten im Leonardo-Kanal eine haushohe Fontäne emporsprang
+und alte Blechbüchsen, Steine, faulendes Holz und ein
+paar arme Fische bis auf den Ufersteg flogen — ein harmloses
+Bombardement, obwohl die Tatsache an sich schon genügte,
+Nusche für Lebenszeit zu einer schönen eisernen Fußkette und
+zu einem Gratisaufenthalt in Nordafrika zu verhelfen,
 
-»Der Schulter«, rief Kontarini eng l.
+»Der Schurke!«, rief Kontarini erregt.
 
-Harst zuckte nur die Allein. »Halt originell«, zeigte
-er. »Nusche ist vogel;zrei. Es haben flog bessere Mystischen
-als er in der Not zu Hölle’w’aschinen zog. essen. — Durch; Wochen
-wir des Kahn einmal ganz gründlich.«
+Harst zuckte nur die Achseln. »Halbe Notwehr«, meinte
+er. »Nusche ist vogelfrei. Es haben schon bessere Menschen
+als er in der Not zu Höllenmaschinen gegriffen. — Durchsuchen
+wir den Kahn einmal ganz gründlich.«
 
 Da es in Venedig keine Pferde, keine Autos, keine
-Wagen gibt, malt alles, aber auch alles nicht steckt Kissen transportiert
-werden. Bergzüge Und in & mal Grande und in
-den breiteren Seitenkunaien nie Streich, Lastkähne mit
-Motor werten neuerdings euch Diwan denkt.
+Wagen gibt, muß alles, aber auch alles mittels Schiffen transportiert
+werden. Schleppzüge sind im Canal Grande und in
+den breiteren Seitenkanälen nicht Seltenes. Lastkähne mit
+Motor werden neuerdings auch schon benutzt.
 
-Dieser Kahn hatte sicherlich ein Sie: Bemalten hinter sich.
-Wer alle suchten, — am Ufer sammelten !::) Scharen von Neugierig«,
-der Begossener ha; es nie eilig, man lachte, scherzte,
-—y» Gischhänoler mit ihren Kiepen auf beim Kopf? blieben stehen,
-aus den Slawen Kiepen kratl:belie zuweile:i ein Riesenhummer
-hervor, purzelte auf das Pflaster, — wir Juchten. — Nein,
+Dieser Kahn hatte sicherlich ein Menschenalter hinter sich.
+Wir alle suchten, — am Ufer sammelten sich Scharen von Neugierigen,
+der Venezianer hat es nie eilig, man lachte, scherzte,
+— Fischhändler mit ihren Kiepen auf beim Kopf blieben stehen,
+aus den flachen Kiepen krabbelte zuweilen ein Riesenhummer
+hervor, purzelte auf das Pflaster, — wir suchten. — Nein,
 die Goldbarren waren bestimmt nicht in den Hohlziegeln verborgen,
-ein? solche Menge Barren hätte sich hier versehen
-!alten, aber es war nichts Wertvolles zu finden, lediglich am
-Heck in der elenden Kajüte der beiden Schleier fand Harst
-in dem eisernen Stehen Reste einer verscyrumpelten!chwarzen
-Waise und viel Barkasse.
+eine solche Menge Barren hätte sich hier verstecken
+lassen, aber es war nichts Wertvolles zu finden, lediglich am
+Heck in der elenden Kajüte der beiden Schiffer fand Harst
+in dem eisernen Öfchen Reste einer verschrumpelten schwarzen
+Masse und viel Holzasche.
 
-»Zerbranntes Labor An den Kost«, die die Barren
-
-k)
-
-enthielten«, jagte Harst zu ontagriui. »Ost Innen klar, 866
+»Verbranntes Leder von den Koffern, die die Barren
+enthielten«, sagte Harst zu Kontarini. »Ist Innen klar, daß
 <@pagebreak/>
 Nusche die Koffer doch von der später versenkten Jacht hier
 auf den Kahn überlud?!«
@@ -2416,23 +2415,22 @@ auf den Kahn überlud?!«
 Züge verrieten die Angst, daß das Gold für immer verloren
 sein könnte.
 
-»Wartet«
+»Mario!!«
 
-Der Schleier trat in die Kajüte.
+Der Schiffer trat in die Kajüte.
 
 »Mario«, fragte Harst, »ihr habt doch gewiß jeder eure
 besondere Art, den Kahn zu vertäuen und die Knoten der Taue
-ja Schlingen. Besieh dir einmal die Knoten. Etwas schnell,
+zu schlingen. Besieh dir einmal die Knoten. Etwas schnell,
+bitte …!«
 
-ihre … l«
-
-Mario und Bartolomeo schworen tausend Erde, daß die
+Mario und Bartolomeo schworen tausend Eide, daß die
 Knoten nicht von ihnen herrührten. »Der Kahn liegt hier
 seit drei Tagen, Herr, aber jemand muß ihn inzwischen doch
-anderswohin gebracht haben und dann wieder zuriickgerudert
+anderswohin gebracht haben und dann wieder zurückgerudert
 oder geschleppt haben.«
 
-»Das wollte ich wissen. — Es ist gut, — gehen Sie nur
+»Das wollte ich wissen. — Es ist gut, — gehen Sie nur!«
 
 Harst hatte sich auf den fettigen Holzstuhl gesetzt. »Kontarini,
 Nusche hat bestimmt zehn Leute zur Verfügung, das
@@ -2441,155 +2439,155 @@ die Schatzkammer der »Dollarika« geleert. Er kennt Venedig
 wie seine Tasche, er spricht das Italienische wie ein Italiener,
 er spricht noch fünf andere Sprachen, er hat hundert Gesichter
 und Gestalten und in seinem Hirn ein ganzes Warenhaus
-von netten kleinen Einfallen. Ein Genie in seiner Art.
-Er rauchte, sich eine Zigarette an. »Welchen Spezialartikel
+von netten kleinen Einfällen. Ein Genie in seiner Art.«
+Er rauchte sich eine Zigarette an. »Welchen Spezialartikel
 aus diesem Warenhaus mag er jetzt wohl hervorgesucht haben,
 um uns zu täuschen. Hier ist das Gold nicht. Wo ist es?! —
-Kennen Sie »Müssen, Psychologie des Verbrechens«? Es
-gibt umfangreichere Werke dieser Art, Ihr Landsmann Lomsbroso
-schrieb etwas Ähnliches, aber gerade Waffen betont
+Kennen Sie »Wulffen, Psychologie des Verbrechens«? Es
+gibt umfangreichere Werke dieser Art, Ihr Landsmann Lombroso
+schrieb etwas Ähnliches, aber gerade Wulffen betont
 die nie ausbleibende Verbrecherdummheit, jene Fehler, die auch
 dem gewitztesten Burschen das Genick brechen. Hier hatten
-Sie einen dieser Keller: Die Knoten der Taue! — Sehen Sie,
+Sie einen dieser Fehler: Die Knoten der Taue! — Sehen Sie,
 <@pagebreak/>
 Nusche wagte es nicht und durfte es nicht wagen, mit der
-Acht selbst nachts einen der Seitenkanäle zu befahren, die
-Acht wäre ausgefallen. Also verlud er das Gold in den unbeaufsichtigten
+Jacht selbst nachts einen der Seitenkanäle zu befahren, die
+Jacht wäre aufgefallen. Also verlud er das Gold in den unbeaufsichtigten
 Kahn und er und seine Leute ruderten den
 Kahn anderswohin. Wohin?!« — Er hatte seinen englischen
 Reiseführer aufgeschlagen. »Hier diese Karte von Venedig
-ist Ohr genau. Dies ist die Barnaba-Gasse, dies das kleine
+ist sehr genau. Dies ist die Barnaba-Gasse, dies das kleine
 Kaffee, dies hier muß das gegenüberliegende Haus sein, in
 dem Nusche ein Zimmer gemietet hatte. Wie Sie sehen, geht
 das Grundstück bis zum Gardona-Kanal hindurch, hat also eine
 Wasserfront.«
 
-Kontarini bestätigte das. «&Gch kenne das Haus, — es
-sind drei Gebäude mit zwei Hafen, und die Wasserfront hat
+Kontarini bestätigte das. »Ich kenne das Haus, — es
+sind drei Gebäude mit zwei Höfen, und die Wasserfront hat
 ein Hummergroßhändler gemietet, der die Hummer in den bekannten
-Erstorben hauptsächlich nach den lombardischen
+Eiskörben hauptsächlich nach den lombardischen
 Städten liefert, ein Exportgeschäft von bedeutendem Ruf,
-lieber Harst, Der Inhaber ist ein zugewanderter Erregter,
+lieber Harst. Der Inhaber ist ein zugewanderter Triester,
 seine Motorkutter und Spezialwagen zählen in die Dutzende.«
 
 »Seit wann betreibt er das Geschäft?« fiel Harst ein und
-näherte Ich der Tür der Kajüte.
+näherte sich der Tür der Kajüte.
 
-»Vielleicht fünf Jahre …« …
+»Vielleicht fünf Jahre …«
 
-»Dann ’gebe ich Ihnen den guten Rat«, meinte Harst
-sehr bestimmt, »Sofort das ganze Grundstück einkreisen zu lassen,
+»Dann gebe ich Ihnen den guten Rat«, meinte Harst
+sehr bestimmt, »sofort das ganze Grundstück einkreisen zu lassen,
 aber wirklich sofort und etwas modernes Tempo, lieber Kontarini.«
-Er bückte l ich,!hob die Bastmatte, die hier als
+Er bückte sich, hob die Bastmatte, die hier als
 Teppich diente, zurück und hob eine schwarze Hummerschere
-auf. »Bitte — glauben Sie, daß Mario und sein &Sreund sich
-Tummeln leisten können?! Glauben Sie, daß diese Schere
-hier, die noch nicht einmal riecht, sehr lange hier liegt?( —
+auf. »Bitte — glauben Sie, daß Mario und sein Freund sich
+Hummern leisten können?! Glauben Sie, daß diese Schere
+hier, die noch nicht einmal riecht, sehr lange hier liegt?! —
 Hallo, Bartolomeo, auf ein Wort … Habt ihr beide hier einmal
 in letzter Zeit Hummer gegessen oder verstaut gehabt?!« —
-Der Schiffer verneine halb belustigt. »Herr, wir sind arme
+Der Schiffer verneinte halb belustigt. »Herr, wir sind arme
 Leute … Ein kleiner Hummer kostet schon acht bis neun Lire,
 und die Schere da stammt von einem Mittelexemplar zu zwölf
-sie.
+Lire.«
 
 <@pagebreak/>
 Kontarini hatte es plötzlich sehr eilig. —
 
 Das Polizeiboot legte um sieben Uhr im Gardona-Kanal
-an einem großen Kutter an, der am schmalen Viertel vertäut
-war. Mehrere Leute trugen triefende Versandkorbe in den
-Kutter, und drüben im Hofeingangs des Exportgeschäftes stand
-mit einer Zigarette im Hunde der Signore Inhaber und blickte
-uns freundlichst entgangen.
+an einem großen Kutter an, der am schmalen Uferkai vertäut
+war. Mehrere Leute trugen triefende Versandkörbe in den
+Kutter, und drüben im Hofeingang des Exportgeschäftes stand
+mit einer Zigarette im Munde der Signore Inhaber und blickte
+uns freundlichst entgegen.
 
-Kontarini war durchaus im Bilde. »Tagen Sie, Passito,
+Kontarini war durchaus im Bilde. »Sagen Sie, Passito,
 kennen Sie einen gewissen Nusche, Georg Nusche?«
 
-Vor Erregter zuckte nicht mit der Wimper.
+Der Triester zuckte nicht mit der Wimper.
 
-»Nein, — wer ist daher«
+»Nein, — wer ist das?!«
 
 Dann wurde Sein braungelbes Gesicht plötzlich grau. Er
-stierte Seitwärts … Ein paar Reimte in Stuhl hatten Soeben
+stierte Seitwärts … Ein paar Leute in Zivil hatten Soeben
 einen bereits beladenen zweiten Kutter, der davonfahren wollte,
 angehalten.
 
 Kontarini lächelte bissig. »Dieser Herr hier, Passito, ist
-der Signore Harst … Er riet mir. die Hummerkörbe eingangs
+der Signore Harst … Er riet mir, die Hummerkörbe einmal
+zu revidieren. Sie haben doch nichts dagegen, hoffe ich. Wir
+möchten nur die Stückzahl feststellen …«
 
-zu revidieren, Sie haben da« nichts dagegen, holte ich. Wir
-machten nur die Stüumzahl feststellen …«
-
-Wieder schleppten zwei Redete einen Korb gerade vorüber.
-»Salt«, befahl Kontarini. »Stellt ihn hin …«
+Wieder schleppten zwei Leute einen Korb gerade vorüber.
+»Halt«, befahl Kontarini. »Stellt ihn hin …«
 
 Die Leinwand und die oberen Eisstücke wurden entfernt.
-Obenauf lagen faule, Stimme Riesenhummer, unten aber
+Obenauf lagen faule, arme Riesenhummer, unten aber
 lagen zwanzig Goldbarren …
 
-Passito und seine zehn Arbeiter sowie sein Diüropersonal
-sollten den Gardona-Sattel so bald nicht wiedersehen, — —
+Passito und seine zehn Arbeiter sowie sein Büropersonal
+sollten den Gardona-Kanal so bald nicht wiedersehen, — —
 
 Als wir gegen halb neun bei einem jener zauberhaft
 schönen Sonnenuntergänge auf unsere blaue Lido-Badevilla
-zuschritten, als wir drüben aus der kleinen T’oranda von
-Nr. 12a unseren Otto und die hübsche Evy in eifrigsten Unterhaltung
-bemerkten, jagte Harald mit stillem Bedauern: »Wissen
-die, Kontarini, den Einmal Gorr möchte ich am liebsten laufen
-lassen, schon deshalb, weil er Steine Tochter so ehrlich vergöttert
+zuschritten, als wir drüben aus der kleinen Veranda von
+Nr. 12a unseren Otto und die hübsche Evy in eifrigster Unterhaltung
+bemerkten, sagte Harald mit stillem Bedauern: »Wissen
+Sie, Kontarini, den Thomas Gorr möchte ich am liebsten laufen
+lassen, schon deshalb, weil er Seine Tochter so ehrlich vergöttert
 …«
 
 <@pagebreak/>
 Wir waren bemerkt worden, Sarka winkte, kam uns entgegen
 … »Nun?! Wie steht es?«
 
-0, ie Millionen sind da, der Ecke von der Piazzetta sitzt
-
-Loch«, viele andere auch, Nusche ist leider entwischt«,
-und Harst deutete auf Evy. »Wo ist Einmal Gorr«?«
+»Die Millionen sind da, der Tote von der Piazzetta sitzt
+im Loch, viele andere auch, Nusche ist leider entwischt«,
+und Harst deutete auf Evy. »Wo ist Thomas Gorr«?«
 
 Sarka machte Sein unschuldigstes Gesicht. »Oh — er ging
-vorhin baden …
+vorhin baden …«
 
 »So! Sie sollten ihn doch nicht aus den Augen lassen,
-die Prachtstück von Repariert«
+Sie Prachtstück von Reporter!!«
+
 Ottochen zwinkerte in das Abendrot. »Sollte ich etwa
 hinter ihm her schwimmen?! Ich glaube, ein Boot nahm ihn
 auf, genau weiß ich es nicht … Ich will dies jedenfalls Evy
-gegenüber!! staunten, denn mir scheint, die Adria wird sehr
+gegenüber behaupten, denn mir scheint, die Adria wird sehr
 bald eine Leiche an Land spülen, und ich werde dann ein liebes
-ahnungsloscs Brüder zu trösten haben …« Seine Stimme
+ahnungsloses Mädel zu trösten haben …« Seine Stimme
 vibrierte leicht, und sein braves, ehrliches, deutsches Gesicht
-ne weit besser seine Gedanken, als er es aus!sprechen
-
+verriet weit besser seine Gedanken, als er es aussprechen
 durfte. —
 
-möchte nicht sentimental werden. Otto hatte wirklich
-Steht viel Trost zu spenden, und klarer half dabei Ton
+Ich möchte nicht sentimental werden. Otto hatte wirklich
+sehr viel Trost zu spenden, und Harst half dabei. Evy
 Sarka mag heute noch nicht wissen, daß ihr Vater freiwillig
-d& Tod suchte, nachdem er durch Sarka über die Lage der
-Dinge anfgrklärkf worden war.
+den Tod suchte, nachdem er durch Sarka über die Lage der
+Dinge aufgeklärt worden war.
 
-Boy Sarka …
+Evy Sarka …!
 
-Diese Geschichte liegt ja weit zurück, und die ganze DollarikaSchaftzkammerafsärge
-wurde jener Zeit aus leicht begreiflichen
-Gründen totgeschwiegen. —
+Diese Geschichte liegt ja weit zurück, und die ganze
+Dollarika-Schatzkammeraffäre wurde jener Zeit aus leicht
+begreiflichen Gründen totgeschwiegen. —
 
 Vor mir liegt eine Postkarte aus einem Villenvorort
 New Yorks … von Otto und Evy Sarka, — eine Photographie
-ihres behaglichen Heims, Boy auf der Terrassentreppe
-Eiland, im Arm ein Bündel Spitzen, aus dem ein winziges
+ihres behaglichen Heims, Evy auf der Terrassentreppe
+sitzend, im Arm ein Bündel Spitzen, aus dem ein winziges
 Babygesichtchen hervorlugt.
 
-Box mir liegt aber noch ein anderes Andenken: Ein uralter
+Vor mir liegt aber noch ein anderes Andenken: Ein uralter
 <@pagebreak/>
 Hohlziegel von dem abgebrochenen Seitenflügel eines
-venezianischen Palazzo. ö&n diesen Stein sind unschöner Worte
+venezianischen Palazzo. In diesen Stein sind unschöne Worte
 eingekratzt … Aber das gehört nicht mehr hierher, das gehört
 nicht zu der
 
-Geheimnisvollen Gondel
+<p class="centered">Geheimnisvollen Gondel</p>
+
 und zu Georg Nusches letztem Geniestreich.
 
-Buchdruckerei P, Lehmann G. w. b. H … Berlin so 16
+<#import "*/harst.ftl" as harst>
+<@harst.druck/>
