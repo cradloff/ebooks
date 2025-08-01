@@ -12,7 +12,7 @@ in die weichen Polster, sprachen über Literatur …
 
 Tiepolo Kontarini, Unterchef der venezianische Kriminalpolizei,
 rezitierte eine Stelle aus Aretino, — seine Stimme
-war weich und einschmeichelnd, und Sein edel geschnittenes
+war weich und einschmeichelnd, und sein edel geschnittenes
 Gesicht zeigte den Ausdruck stiller Träumerei.
 
 »… Noch niemals war dieser Himmel so bezaubernd gefärbt.
@@ -76,19 +76,19 @@ Schmerz.«
 schließlich alle reicheren Venezianerinnen kennen mußte.
 
 »Eine Ausländerin wohl«, entgegnete er nur. »Es wohnen
-im Sommer So zahllose Fremde drüben am Lido …«
+im Sommer so zahllose Fremde drüben am Lido …«
 
 Die Gondel landete an der Freitreppe des ehemaligen
 Palazzo Kontarini, der mit seiner schmalen Marmorfront
 und dem kleinen Garten seit vielen Jahren, als die einzige
 Nobile-Familie verarmte, in fremde Höhe übergegangen war.
 Der letzte des Geschlechts bewohnte nur als Mieter das Erdgeschoß,
-lebte Sehr bescheiden und unterhielt keinerlei Verkehr
+lebte sehr bescheiden und unterhielt keinerlei Verkehr
 mit dem feisten derartigen Besitzer, einem reichen englischen
 Kriegsverdiener, der droben in den drei Stockwerken
 mit Frau und Töchtern hauste und sich wütend ärgerte, daß
 der letzte Kontarini durch die Klauseln des Verkaufvertrages
-nicht hinauszugraulen war und Sowohl die Wassertreppe als
+nicht hinauszugraulen war und sowohl die Wassertreppe als
 auch den Garten allein benutzen durfte. Mr. Simmons mußte
 sich mit dem anderen Ausgang nach der Foscari-Gasse begnügen,
 einem Gäßchen, das vielleicht zwei Meter breit war,
@@ -164,7 +164,7 @@ Pfeilen bedenken?! Hier?! Und dann …« — er machte eine
 Kunstpause — »diese Gondel mit dem bleichen Gespenst im
 schwarzen altmodischen Seidenkleide gefällt mir auch nicht …«
 
-»Das sind Keine Beweise. — Es müßte erst festgestellt
+»Das sind keine Beweise. — Es müßte erst festgestellt
 werden, ob die Pfeilspitze wirklich vergiftet ist …«
 
 Harst erhob sich wortlos, ging zum Schreibtisch und stellte
@@ -228,7 +228,7 @@ eine ganz kurze Zeitspanne, um dieses verschwommene Laterna-Magica-Bild
 in seiner Wichtigkeit zu erfassen.
 
 Eine schlanke Gestalt, eine Frau, von der nur der Oberkörper
-sichtbar war, handhabte dort so einwandfrei, So zweifelsfrei
+sichtbar war, handhabte dort so einwandfrei, so zweifelsfrei
 ein Blasrohr, daß jedes Kind sehr bald herausgefunden
 hätte, was dieses Bild darstellte: Ein Probeschießen nach einer
 uns natürlich unsichtbaren Scheibe.
@@ -237,8 +237,8 @@ Genau war zu erkennen, daß die Frau, deren graziöse
 Bewegungen beim Gebrauch des Blasrohrs fast besänftigend
 auf unsere sehr begreifliche Erregung wirkten, sehr lange und
 sehr sicher zielte, — daß sie ebenso bedächtig einen neuen Pfeil
-in die Mündung schob und So Pfeil auf Pfeil in die Scheibe
-jagte,
+in die Mündung schob und so Pfeil auf Pfeil in die Scheibe
+jagte.
 
 <@pagebreak/>
 Kontarini flüsterte heiser: »Es ist Gitta Simmons, sie ist
@@ -309,7 +309,7 @@ Sie vom Küchenfenster aus das Bild an der Mauer?«
 
 Mario nickte. »Miß Brigitta hat schon gestern abend
 fünf Minuten lang in ihrem Zimmer mit dem Blasrohr geübt.
-Vielleicht hätte ich es den Herren mitteilen sollen,«
+Vielleicht hätte ich es den Herren mitteilen sollen.«
 
 Harst verfolgte die sich kräuselnde Rauchwolke seiner Zigarette.
 »Aus welchem Grunde halten Sie eine Meldung der
@@ -340,7 +340,7 @@ sitzen, das uns in den letzten drei Nächten bei der Heimkehr
 begegnete — heute auch.«
 
 Harst trommelte nachdenklich auf die Tischplatte. Sein
-schmales, braunes Gesicht hatte um den Mund harte Linien,
+schmales, braunes Gesicht hatte um den Mund harte Linien.
 
 Kontarini sagte verdächtig eifrig: »Miß Gitta ist also nicht
 diese … Attentäterin!«
@@ -350,7 +350,7 @@ blinzelte dann dem alten Mario vertraulich zu. »Sie haben
 doch auch die Gondel mit der gespensterhaften Dame in Schwarz
 mit dem Malteserhündchen gesehen, lieber Mario?« — Es
 war das eine eigentlich sehr überflüssige Frage. So schien es
-mir,
+mir.
 
 Mario bekreuzigte sich schnell. »Herr Harst«, und seine
 Stimme klang scheu und ängstlich, »der Herr Marchese hätte
@@ -367,7 +367,7 @@ Ausgeburt der abergläubischen Köpfe meiner Vorfahren …«
 Der Greis schüttelte wie warnend den weißen Charakterkopf.
 »Herr Marchese, die Geschichte unserer Inselstadt,
 die einst die mächtigste Republik des Mittelmeeres war, enthält
-So viel dunkle Geheimnisse, daß unsereiner, der auf siebzig
+so viel dunkle Geheimnisse, daß unsereiner, der auf siebzig
 Jahre des Lebens zurückblickt, an vieles glauben gelernt hat,
 <@pagebreak/>
 was die Jugend belächelt. Ich habe drei schlaflose Nächte
@@ -393,7 +393,7 @@ Ich fühlte einen harten Stoß gegen die Brust …
 
 »Taschenlampe!«, rief Harst …
 
-Ich Schaltete die meine ein, und Kontarini und ich sahen,
+Ich schaltete die meine ein, und Kontarini und ich sahen,
 das Harst den runden Tisch wie einen Schild nach der offenen
 Gartentür hin emporhielt …
 
@@ -470,7 +470,7 @@ sinnend. »Gibt es Reproduktionen dieses Bildes, Kontarini?«
 »Ja … Sie bekommen sie in jedem Postkartengeschäft
 zu kaufen.«
 
-»und ist die Sage von der schönen Giovanna noch heute
+»Und ist die Sage von der schönen Giovanna noch heute
 sehr bekannt?«
 
 »Wohl kaum, dafür hat Venedig zu zahlreiche unheimliche
@@ -652,8 +652,8 @@ dort oben in dem kleinen Kuppelraum des Treppenschachtes?«
 
 Kontarini stutzte. »Nur einmal, Harst, — bestimmt!«
 
-»und kennt Mario die Treppe? Würde er vielleicht
-emporgestiegen Sein?«
+»Und kennt Mario die Treppe? Würde er vielleicht
+emporgestiegen sein?«
 
 »Das würde er ohne meine Erlaubnis nie tun, dafür lege
 ich meine Hand ins Feuer«, sagte der Marchese ohne Zögern.
@@ -731,13 +731,13 @@ Plattform eingefügt, und in der Innenwand zeigte sich eine
 kleine Nische mit einer Eisentür.
 
 Harsts Taschenlampe beleuchtete die Tür, — in demselben
-Moment Schaltete er die Lampe wieder aus: Die Tür stand
+Moment schaltete er die Lampe wieder aus: Die Tür stand
 eine Handbreit offen!
 
 Fast gleichzeitig vernahmen wir über uns ein Knistern,
 etwas Sand oder Mörtel rieselte herab, und in dieser undurchdringlichen
 Finsternis dachte ich an die wenig angenehmen
-Giftpfeile und entsicherte rasch meine Pistole,
+Giftpfeile und entsicherte rasch meine Pistole.
 
 Dann droben ein leiser Aufschrei, — Harsts Stimme, —
 ein Lichtstrahl …
@@ -745,7 +745,7 @@ ein Lichtstrahl …
 »Kommt bitte!«
 
 Kontarini stürmte mir voran, er nahm immer mehrere
-Stufen in langem Satz, Seine Eile war begreiflich: Der leise
+Stufen in langem Satz, seine Eile war begreiflich: Der leise
 Schrei war aus einer Frauenkehle gekommen!
 
 Im sogenannten Kuppelraum oben, der fast einer kleinen
@@ -810,10 +810,10 @@ vordem?!«
 festen Tones.
 
 »Danke, Miß Simmons. — Sie würden uns sehr verpflichten,
-wenn Sie Strengstes Schweigen über diese unsere
+wenn Sie strengstes Schweigen über diese unsere
 Begegnung und über den Schacht bewahren wollten. Es
 dürften von Ihrer Verschwiegenheit einige Menschenleben abhängen,
-So weit ich die Sachlage beurteilen kann …«
+so weit ich die Sachlage beurteilen kann …«
 
 Auch jetzt zeigte Gitta Simmons keinerlei Überraschung,
 wenigstens keine echte. Das geringe Maß von Heuchelei, das
@@ -835,7 +835,7 @@ Treppe hinab.
 
 »Verzeihung, — würden Sie unten in Ihren Räumen
 einmal nachsehen, ob keiner der Dienerschaft Ihnen etwa
-folgte«, bat Harst mit feinem Lächeln, »Und — würden Sie
+folgte«, bat Harst mit feinem Lächeln. »Und — würden Sie
 uns dann an dem Eisentürchen erwarten, Miß Simmons?«
 
 »Gern«, — und sie huschte davon, — Kontarini schüttelte
@@ -851,7 +851,7 @@ mit verblichenem Sammet überzogenen unteren Brettes.
 »Ja … für ein Gebetbuch …«
 
 »Allerdings, das Büchlein liegt noch darin … sehr alt,
-Sehr abgegriffen und für den, der den Betschemel nicht gerade
+sehr abgegriffen und für den, der den Betschemel nicht gerade
 umdreht, unsichtbar.« Er schlug das Büchlein auf, blätterte
 darin … »Ich ahnte es, Kontarini … Als ich gestern hier
 oben war, lagen eng zusammengefaltet in diesem mit Verschluß
@@ -890,7 +890,7 @@ sehr spät heim. Ich hatte Kopfschmerzen vorgeschützt.«
 Worauf Harald launig bemerkte: »Eine Schützin schützt
 leicht etwas vor …«, — was wiederum, ein flüchtiges Erröten
 zur Folge hatte. Und dann sah Gitta allerliebst und
-garnicht mehr So eisig-kühl aus.
+garnicht mehr so eisig-kühl aus.
 
 Harst zeigte ihr den Weg.
 
@@ -923,7 +923,7 @@ Sie hier hinein?«
 
 Hans Lücke seufzte leicht. »Der Rotwein ist vorzüglich!
 — Also dann — gut: Durch die Eisentür im zweiten Stock,
-während Sie Miß Simmons oben gerade So ein wenig ausfragten
+während Sie Miß Simmons oben gerade so ein wenig ausfragten
 …«
 
 <@pagebreak/>
@@ -967,8 +967,8 @@ mehr … Miß Simmons, zunächst ist die Reihe an Ihnen.
 Wie kamen Sie auf den Gedanken, uns durch Ihre Blasrohrschießübungen
 <@pagebreak/>
 zu warnen? Es handelte sich nur um
-Warnungen, das hatte ich Sofort gemerkt, denn gestern wie
-heute hatten Sie die Beleuchtung So eingerichtet, daß Ihr
+Warnungen, das hatte ich sofort gemerkt, denn gestern wie
+heute hatten Sie die Beleuchtung so eingerichtet, daß Ihr
 Fenster und Sie selbst als Filmbild auf die Mauer drüben
 fallen mußten. Sie hantierten auch mit dem Blasrohr so nahe
 am Fenster, daß jeder Verdacht, Sie könnten etwa mit den
@@ -976,11 +976,11 @@ weit gefährlicheren Herrschaften der gleichen Sportneigung
 etwas zu tun haben, hinfällig wurde.«
 
 Gitta Simmons erwiderte mit unmerklicher Befangenheit:
-»Ja — es Sollte allerdings eine Warnung sein, denn …«
+»Ja — es sollte allerdings eine Warnung sein, denn …«
 — sie zauderte, und ihr Gesicht wurde einen Ton bleicher —
 »denn … auch auf mich wurde geschossen, meine Herren …
 Haben Sie das kleine Motorboot gesehen, das Ihnen auch
-heute begegnete? Ich Saß darin, ich und unser Diener Edward
+heute begegnete? Ich saß darin, ich und unser Diener Edward
 Stales, eigentlich mein Diener, denn ich bin insofern ganz selbständig,
 als ich aus meines Vaters erster Ehe stamme und
 von dem Bruder meiner Mutter eigenes Vermögen erbte.
@@ -1094,8 +1094,8 @@ fragte ich nach einer Weile, und er erwiderte sofort:
 <@pagebreak/>
 die ihn haben möchten. Die Gondel mit der bleichen Frau
 bleibt die Hauptsache. Ich möchte dir zu erwägen geben, daß
-ein Verbrecher von Nusches Großformat niemals zu Solchen
-Gespenstermätzchen greifen würde, um Sein Ziel zu erreichen,
+ein Verbrecher von Nusches Großformat niemals zu solchen
+Gespenstermätzchen greifen würde, um sein Ziel zu erreichen,
 oder sich doch wenigstens die Wege bis zum Ziel zu ebnen, —
 und auf diesem Wege liegen wir als harte Steine, die man mit
 Giftbolzen beschießt …«
@@ -1113,13 +1113,13 @@ Kanalufer Luftbüchsen benutzen …«
 Giovanna. Irgend jemand hat diese Giovanna samt Gondel,
 Gondoliere und Hund — vergiß das Malteserhündchen nicht! —
 wieder aufleben lassen … Nusche?! Ich sagte schon, ich bezweifele,
-daß er So umständlich vorgehen würde. Was soll
+daß er so umständlich vorgehen würde. Was soll
 die Gondel, wenn nicht auch von dort geschossen würde?!«
 
 »Das stimmt allerdings«, gab ich widerwillig zu. »Aber
 Miß Gittas Behauptung, aus der Barke seien die Pfeile
 nicht gekommen, deckt sich mit meinen eigenen Beobachtungen.
-Ich Sah die Gondel heute abend ganz deutlich, ich faßte
+Ich sah die Gondel heute abend ganz deutlich, ich faßte
 sie schon von weitem ins Auge. Weder die bleiche Frau noch
 der Gondoliere handhabten irgend etwas, das zum Abfeuern
 eines Solchen Pfeiles geeignet wäre. Daran ist nun mal nichts
@@ -1147,7 +1147,7 @@ in einem Tresor, dann … dann hätte Nusche ein bestimmtes
 Ziel, dann würde er dem Tresor zu Leibe gehen … Aber
 Schatzsucher spielen?!«
 
-ich konnte ihm wiederum nur beipflichten.
+Ich konnte ihm wiederum nur beipflichten.
 
 Wir schwiegen eine geraume Weile. In dem großen alten
 Hause war es totenstill. Auch draußen. Das kurze Gewitter
@@ -1179,19 +1179,19 @@ sie wird Vorsorge treffen, daß …«
 Harsts leises warnendes Handheben ließ mich verstummen.
 
 Er erhob sich, schlich zur Tür, über deren Drücker er
-Seine Reisemütze gelegt hatte. Das Schlüsselloch war recht
+seine Reisemütze gelegt hatte. Das Schlüsselloch war recht
 groß.
 
 Lauschend stand er da, regte sich nicht, zuckte schließlich
 leicht die Achseln und setzte sich wieder.
 
-»ich glaubte Schritte im Flur zu hören …«
+»Ich glaubte Schritte im Flur zu hören …«
 
 »Ich hörte nichts.«
 
 Er lehnte sich zurück und starrte vor sich hin. Sein Blick
 ruhte auf seiner Armbanduhr … Es war kurz vor ein Uhr
-morgens,
+morgens.
 
 »Gehe zu Bett«, flüsterte er plötzlich. »Ich werde doch
 in den Schacht emporsteigen. Ich nehme mir eine Steppdecke
@@ -1204,7 +1204,7 @@ vom Tisch und war schon an der Tür, drehte den Lichtschalter,
 und das Zimmer versank in Finsternis …
 
 Ich vernahm einige schwache Geräusche, dann blitzte vor
-mir eine dünne weiße Lichtbahn auf, und ich Sah Harst im
+mir eine dünne weiße Lichtbahn auf, und ich sah Harst im
 Flur stehen … Er winkte …
 
 »Hörst du?«
@@ -1218,7 +1218,7 @@ Gestern noch haben wir darüber …«
 »… gelacht, — heute werden wir nicht lachen, — leise!!«
 
 Wir bogen nach links in den sich hier verengenden
-Flur ein,
+Flur ein.
 
 <@pagebreak/>
 Harsts Lampe beleuchtete Marios Tür, sie war nur angelehnt.
@@ -1244,9 +1244,9 @@ langer Hautschnitt.
 Ich weckte Kontarini. Als Mario sich etwas erholt hatte,
 konnte er uns nur mitteilen, daß ihn jemand im Schlaf gewürgt,
 gefesselt und dann gefoltert habe, damit er verriete, wo
-die fünf fehlenden Chronikblätter zu finden seien,
+die fünf fehlenden Chronikblätter zu finden seien.
 
-»… Ich Sah nichts von dem Menschen, der eine Maske
+»… Ich sah nichts von dem Menschen, der eine Maske
 trug … Es kann ein Italiener gewesen sein … Er hatte
 ein schwarzes Tuch umgelegt … Als ich bei allen Heiligen
 schwor, nichts verraten zu können, stach er zu und eilte hinaus
@@ -1275,7 +1275,7 @@ Gefahr wir hier schwebten. Wir hatten die Falltür hinter
 uns geschlossen, das Wasser stieg sehr schnell, Harst trommelte
 umsonst gegen die Eisentür, Gitta mußte uns hören, falls …
 sie noch lebte, — ob jemand anders diese dröhnenden Schläge
-vornehmen würde, war bei der Dicke des Gemäuers Sehr
+vornehmen würde, war bei der Dicke des Gemäuers sehr
 zweifelhaft.
 
 Und … das Wasser stieg.
@@ -1283,7 +1283,7 @@ Und … das Wasser stieg.
 Wir sahen es unter uns blinken, wir waren gänzlich
 durchnäßt, der Wasserstrahl traf oben einen Teil des Geländers
 und zerstiebte zu feinem Sprühregen, die Hauptmenge
-aber Sauste als kompakter gleißender laufender Strang in
+aber sauste als kompakter gleißender laufender Strang in
 die Tiefe.
 
 Wir hasteten nach oben, — und schon auf der Höhe des
@@ -1327,7 +1327,7 @@ Haupthähne von Gas und Wasser unten im Keller abstellen.
 Bleibt so lange hier.«
 
 Der lange Haus ist kein Parlamentarier. Kürze — —
-Würze, — und weg war er,
+Würze, — und weg war er.
 
 »Offenbar«, sagte Harald, »ist Lückes Rolle hier als
 Koch beendet. Man wird seine wahre Natur entdeckt haben.
@@ -1354,7 +1354,7 @@ Mann hätte die ganze Herrlichkeit beinahe fallen lassen.
 die Tür zu Miß Gittas Zimmer«, befahl Harst so eindeutig
 energisch, daß der englische Diener prompt gehorchte. Von
 Ansehen kannte er uns bestimmt … Ob er wohl ahnte, daß
-hier nicht alles so war, wie es Sein sollte?! Es schien fast so.
+hier nicht alles so war, wie es sein sollte?! Es schien fast so.
 Seine Dienstbeflissenheit war zu widerspruchslos gegenüber
 zwei triefenden Fremden, die hier nichts zu Suchen hatten.
 Gittas Tür war nur eingeklinkt.
@@ -1389,7 +1389,7 @@ Herr Harst? — Sie sind doch Herr Harst …?«
 »Leider«, sagte dieser Harst mit einer übertiefen Verbeugung.
 <@pagebreak/>
 »In gewissen Momenten ist es für gewisse Leute
-Sehr peinlich, daß ich Harst bin und als Harst hart vorgehe. —
+sehr peinlich, daß ich Harst bin und als Harst hart vorgehe. —
 Würden Sie bitte Ihre Tochter hier auf den Diwan legen …
 Wir sind zu naß und zu erschöpft«, log er kaltblütig.
 
@@ -1463,7 +1463,7 @@ könnt eure kleinen Spucker bereit halten …«
 »Er will uns loswerden«, lächelte Harst im Flur. »Man
 nennt das: Konkurrenz ausschalten. Ich glaube, er ist auf
 derselben Spur wie ich, der gute Hans, aber doch nicht so
-vollständig auf der richtigen, er Übersieht die feinen Farbunterschiede.
+vollständig auf der richtigen, er übersieht die feinen Farbunterschiede.
 Zwischen blond und rotblond ist eine zarte Abstufung
 vorhanden.«
 
@@ -1593,7 +1593,7 @@ gar nicht vorteilhafter handeln.«
 
 »Das stimmt«, nickte Harst. »Nur ist Ihnen da der Fehler
 unterlaufen, daß Sie sich als Eigentümer eintragen ließen.
-Nun, das wird sich berichtigen lassen,«
+Nun, das wird sich berichtigen lassen.«
 
 Simmons dünne Lippen zuckten. »Allerdings — ein Versehen
 …« — aber seine Stimme klang ein wenig belegt.
@@ -1627,14 +1627,14 @@ geheimen Hintertüren, Herr Simmons, genügen nicht zum Durchschlüpfen.
 Lord Fitzmoor, der hier etwa 3000 Pfund Sterling
 verlor, wünscht keinen öffentlichen Skandal, und die italienischen
 Herrschaften, die Sie hierher gelockt haben, erst recht nicht,
-zumal sich darunter berühmte Namen Finden. In dieser
+zumal sich darunter berühmte Namen finden. In dieser
 Hinsicht werden Sie also mit einem blauen Auge davonkommen.«
 
 Simmons hob die Schultern. »Herr Harst, ich habe niemand
 zum Hazard verleitet, ich werde sofort …«
 
 »Sie werden hier bleiben, Herr Simmons, obwohl Sie
-wahrscheinlich Später noch Sehr lange sitzen müssen, fürchte ich.
+wahrscheinlich später noch sehr lange sitzen müssen, fürchte ich.
 — Punkt drei also: Der Schatz der Kontarinis!«
 
 Simmons riß den Mund auf. »Schatz?! — — Schatz?!«
@@ -1645,7 +1645,7 @@ entstanden?!«
 »Ja, das will ich.« Harsts Stimme rief bei Simmons
 ein leichtes nervöses Lidflattern hervor. »Sie waren heute
 im Theater. Nach Ihrer Heimkehr haben Sie, da Sie die
-obere Geheimtür durch Lücke bewacht Fanden, und da Ihre
+obere Geheimtür durch Lücke bewacht fanden, und da Ihre
 Tochter Gitta Ihnen bei der Benutzung der unteren Geheimtür
 im Wege war, Gitta betäubt …«
 
@@ -1653,7 +1653,7 @@ im Wege war, Gitta betäubt …«
 Simmons flog hoch. »Herr, Sie sind wahnsinnig!«, kreischte
 er … »Dort … hinaus mit Ihnen, — ich …«
 
-Harst spielte plötzlich Sehr zärtlich mit etwas Schwarzem,
+Harst spielte plötzlich sehr zärtlich mit etwas Schwarzem,
 das nur ein Auge hatte …
 
 Simmons stierte hin. Er wurde leichenblaß. »Das …
@@ -1697,7 +1697,7 @@ er hat Garnasso ein wenig angeschrammt, Genaues weiß ich
 noch nicht …«
 
 <@pagebreak/>
-»Es scheint so«, lächelte Simmons und zeigte seine Bläckzähne,
+»Es scheint so«, lächelte Simmons und zeigte seine Bläckzähne.
 »Nun — — und noch etwas?!«
 
 »Ja … Hier an dem Stoff der Maske zwei Haare …«
@@ -1745,7 +1745,7 @@ von Geheimtüren, nichts von einem Schacht, ich …«
 <@pagebreak/>
 »Beweise?«, warf Harst ein. »Erbringen Sie mir den
 Beweis, daß Sie etwa um dreiviertel eins hier am Schreibtisch
-Saßen, und …«
+saßen, und …«
 
 »Das kann ich nicht. Wie sollte ich auch?!«, — Simmons
 schaute nachdenklich auf seine Schreibmaschine. Rechts
@@ -1758,7 +1758,7 @@ Gesprochene wiederholen.
 
 Simmons Blick wandte sich bedächtig der Maschine zu.
 Er krauste die Stirn, stützte das Kinn in die Hand und …
-lächelte plötzlich sehr zufrieden,
+lächelte plötzlich sehr zufrieden.
 
 »Einen Augenblick, Herr Harst … Ich habe vorhin
 verschiedene Briefe, die meine Sekretärin morgen nachschreiben
@@ -1819,7 +1819,7 @@ für Wohnungseinbrüche und Tresorknacken sei.
 Als der Beamte gegangen, meinte Lücke, nunmehr dritter
 Gast des liebenswürdigen Marchese, etwas verwundert:
 »Komisch, daß der Knabe nicht aufzustöbern ist, ich habe ihm
-Sein Gebiß entschieden stark gelockert, und seine Lippen müßten
+sein Gebiß entschieden stark gelockert, und seine Lippen müßten
 blaue Pflaumen sein.«
 
 »Venedig ist nicht Berlin«, sagte Harst und schlenderte
@@ -1906,11 +1906,11 @@ es finster.«
 
 »Pardon«, korrigierte Lücke, »mein Geist leuchtete …«
 
-»Das kam nur sehr schwach gewesen Sein, denn als ein
+»Das kam nur sehr schwach gewesen sein, denn als ein
 Blick auf Ihre Armbanduhr, Leuchtzeiger, Ihnen die Zeit verriet,
 kurz vor dreiviertel eins, und als sich um diese Zeit
 die Tür öffnete und jemand hereinschlüpfte, den Sie nach dem
-intensiven Zigarettendunst Seiner Kleider für Garnasso hielten,
+intensiven Zigarettendunst seiner Kleider für Garnasso hielten,
 als ausgerechnet da Ihre Taschenlampe versagte und die kleine
 Birne durchbrannte, da brannte Ihnen der der Kerl durch,
 <@pagebreak/>
@@ -1942,7 +1942,7 @@ Minuten nach eins, und da lagen in Garnassos Zimmer
 Maske, Umhang und Blut.«
 
 »Ja — von meinem arg ramponiertun Schienbein … Es
-muß ein Absatz eines Damenschuhes gewesen Sein, der mir die
+muß ein Absatz eines Damenschuhes gewesen sein, der mir die
 Schramme riß …«
 
 »Natürlich, — Frau Simmons Absatz, — Kraftdamen
@@ -1958,7 +1958,7 @@ von Leisertreter u. Stillersohn zu vierzehn Mark sind unweigerlich
 verdorben.«
 
 Harst lächelte unmerklich. Hans Lückes kleine Scherze
-wirkten So angenehm versöhnlich.
+wirkten so angenehm versöhnlich.
 
 »Nun zum Schluß: *Sechs*: Die beiden Haare in der
 Maske, die Sherlock Holmes-Haare, wie Simmons sie betitelte.
@@ -2063,7 +2063,7 @@ Flurtür her übertönte des Marchese verzichtvolles Klagelied:
 »Hier ist die Brennschere …!!«
 
 Der treue Alte mit der verbundenen Stirn hätte wohl
-noch mehr hinzugefügt, doch der trostlose Blick Seines Herrn
+noch mehr hinzugefügt, doch der trostlose Blick seines Herrn
 ließ ihn verstummen.
 
 »Dann«, jagte Kontarini und raffte sich auf, »werde ich
@@ -2090,7 +2090,7 @@ Gesichtern zurück.
 <h3>Als Harst den Hund ausblies …</h3>
 
 Die Wassermassen, die sich in dem Schacht angesammelt
-Hatten, waren ganz von selbst durch ein bisher von welken
+hatten, waren ganz von selbst durch ein bisher von welken
 Blättern verstopft gewesenes Luftloch dicht über dem Boden
 des Schachtes in den Garten geströmt und hatten mit ihrem
 kräftigen Strahl ein Rosenbeet völlig zerwühlt und eine tiefe
@@ -2123,7 +2123,7 @@ dann wieder arm und … Verbrecher wurde? Merken Sie
 sich das: Er war Kürschner! — Und jetzt denke ich, schicken Sie
 Ihre gesamte Garde dort in der Foscari-Gasse heim. Es ist
 mein Wunsch, daß Simmons sich unbeengt fühlt. Wir werden
-ihm Sogar nachmittags in aller Form einen Besuch abstatten.
+ihm sogar nachmittags in aller Form einen Besuch abstatten.
 Der Mann soll durchaus glauben, wir hielten Georg Nusche
 für den Hauptakteur und Garnasso für dessen Werkzeug, —
 was ja auch wohl zutrifft oder zutraf.« —
@@ -2158,7 +2158,7 @@ zu zwanzig Lire mit Trüffelbutter.«
 <@pagebreak/>
 Gegen elf Uhr — ich hatte bereits das sechste, Lücke das
 siebente Pilsener in Arbeit — tauchte ein Beamter in Zivil
-auf und setzte sich zu uns. Er tat sehr geheimnisvoll, Schmunzelte
+auf und setzte sich zu uns. Er tat sehr geheimnisvoll, schmunzelte
 anderseits aber auch recht belustigt. »Wir haben die
 Gespenstergondel erwischt, meine Herren, — vor kaum zehn
 Minuten, im Foscari-Kanal …«
@@ -2200,7 +2200,7 @@ Mario wartete an der Anlegestelle der Piazzetta mit der
 <@pagebreak/>
 Gondel seines Herrn. Der Mond stand schräg über der Markuskirche,
 der ganze Zauber dieser venezianischen Nächte umgab
-uns, der Dogenpalast mit Seinen wuchtigen Säulen und
+uns, der Dogenpalast mit seinen wuchtigen Säulen und
 zierlichen Marmorarbeiten war an sich schon ein Märchen,
 der Hafen, belebt von Fahrzeugen aller Art, — drüben die
 Kuppeln von Maria Della Salute, — langsam bogen wir in
@@ -2210,7 +2210,7 @@ Jazzmusik tönte herüber, dann umfing uns die Stille des
 Kanals, diese seltsame, friedliche Stille, — Palast an Palast
 glitt vorüber, aus den Seitenkanälen kamen lautlos andere
 Gondeln hervor, die Gondoliere riefen ihre althergebrachten
-Signale, ein Dampfer rauschte vorbei, aus Schmalen, schmalsten
+Signale, ein Dampfer rauschte vorbei, aus schmalen, schmalsten
 Ufergassen erklang Musik — — ganz verschwommen, und
 droben am Firmament stand die Mondscheibe, glitzerten ferne
 Welten …
@@ -2234,7 +2234,7 @@ unschädlich wie die, die schon im Lauf steckt.«
 Mario brüllte an der Einmündung des Foscari-Kanals
 das übliche »Scia!« (Achtung) und dann noch lauter »Stai!«
 (rechts ausbiegen) — und das galt einer Gondel, die uns
-überraschend Schnell entgegenkam, genau wie gestern nacht, —
+überraschend schnell entgegenkam, genau wie gestern nacht, —
 nur das kleine Motorboot fehlte.
 
 Zwanzig Meter noch … fünfzehn … zwölf, — da flog
@@ -2245,7 +2245,7 @@ schwenkte herum, flüchtete dem Ufer zu, — — und
 der Rest war kurzer, wilder Tumult, noch ein paar Schüsse —
 wir hatten das geschminkte Weib gepackt, die Perücke flog
 davon, und Austin Simmons sagte höhnisch: »Zu spät —
-hier sitzt der Giftpfeil« Und er hob den Kopf, — in der
+hier sitzt der Giftpfeil!« Und er hob den Kopf, — in der
 Haut des Halses steckte ein rotes Wollbüschelchen, das sicheren
 Tod bedeutete.
 
@@ -2266,7 +2266,7 @@ benutzt, der es auf den Juwelenschatz der Kontarinis
 abgesehen hatte. In der Nacht vom 3. zum 4. Juli
 wurde dieser Hund durch einen Schuß des Signore H. Harst
 durchlöchert, der Pfeil drang Simmons in den Hals,
-und er, Sowie seine Frau, die die »Geistergondel« gerudert
+und er, sowie seine Frau, die die »Geistergondel« gerudert
 hatte, ferner fünf Mitverschworene wurden festgenommen.
 Simmons starb nach kurzer Zeit, seine Frau
 erhängte sich, und die übrigen Verbrecher wurden auf
@@ -2321,7 +2321,7 @@ der beiden, die gestern im Palazzo ermordet wurden, je gefunden
 werden, bezweifele ich …« —
 
 Er behielt recht. Die Verhafteten wußten nichts oder
-Schwiegen, — — Georg Nusche dürfte also einem noch
+schwiegen, — — Georg Nusche dürfte also einem noch
 schlaueren Verbrecher zum Opfer gefallen sein. Man hat nie
 wieder etwas von ihm gehört.
 
