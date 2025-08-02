@@ -9,7 +9,7 @@ Beim Aufräumen der alten Bauerntruhe in meinem
 Schlafzimmer, die bis oben mit verblichenen Dingen
 vollgestopft ist, finde ich ein umfangreiches, versiegeltes
 Paket mit der Aufschrift von meiner Hand: »Zurücklegen!
-Der Fall ’Pixcell« nebst Fortsetzungen«.
+Der Fall »Pixcell« nebst Fortsetzungen«.
 
 Merkwürdig, daß ich diese Niederschriften so ganz
 vergessen hatte, obwohl das Hauptthema ihres Inhalts
@@ -23,7 +23,7 @@ piano weiter und hört mir geduldig zu. Er ist in der
 letzten Zeit noch magerer geworden. Das Grau an den
 Schläfen beschönigt kein kurzer Haarschnitt mehr. »Ach
 so, — Fall Pixcell!«, nickte er. »Im Grunde heute moderner
-denn je... Zeige mal her, mein Alter...« — Er blätterte
+denn je … Zeige mal her, mein Alter …« — Er blätterte
 in dem Manuskript »Das Siegel Salomonis« und fügt hinzu:
 »Ich gebe dir recht, das alles dürfte die Welt heute
 mehr interessieren als damals, wo doch kein Zeitungsleser
@@ -33,7 +33,7 @@ Monaten erlebten, mußte auf Zweifel stoßen. — Also
 gut — meinen Segen hast du!« — Auf diese Weise geriet
 »Das Siegel Salomonis« als erstes in die Druckpresse.
 
-*                 *                  *
+<hr/>
 
 Auf dem öffentlichen Schießstand für Bogenschützen
 im Washington-Park übten ein paar Damen und Herren,
@@ -67,7 +67,7 @@ als Schild benutzte. Der Schütze eilte zu ihr, es gab
 eine etwas erregte Szene, ein Parkwächter mischte sich
 ein, und die Dame mit ihrem durchlöcherten Schirm schritt
 stolz und unnahbar davon, während der unglückliche
-Schütze mit einem Achselzucken die Zehndollarnote nieder
+Schütze mit einem Achselzucken die Zehndollarnote wieder
 einsteckte, die er der Südländerin offenbar als Schadenersatz
 angeboten hatte.
 
@@ -107,7 +107,7 @@ kleiner korpulenter Mann, der eine Art Dienermütze
 trug. Er hatte es sehr eilig, sein feistes Gesicht
 drückte starke Erregung aus, und überaus höflich fragte
 er die Dame, ob sie vielleicht ein Flacon Riechsalz
-bei sich hätte, sein Herr sei soeben ohnmächtig geworden...
+bei sich hätte, sein Herr sei soeben ohnmächtig geworden …
 Dabei deutete er durch die Büsche auf den Nebenweg,
 wo ein Rollstuhl mit einem älteren Herrn einsam in
 der Sonne stand.
@@ -124,7 +124,7 @@ Auch dies scheinbar nur Episode ohne jede Bedeutung
 — scheinbar.
 
 Der alte Herr, der inzwischen wieder zu sich gekommen
-war, winkte energisch ab...
+war, winkte energisch ab …
 
 »Geh mit dem Zeug zum Teufel, Schlump! Riechfläschchen
 — — noch besser! Das ist was für alte Weiber!«
@@ -138,15 +138,15 @@ Ausländer, Ihr Englisch verrät es fast.«
 Der kleine dicke Mann, der eine billige Nickelbrille
 trug, reichte ihr das Riechfläschchen, bedankte sich
 mehrmals und grinste dann nachsichtig. »Deutscher,
-Miß... Mein Herr und ich... Hamburger... Er meint es
-nicht so, der Kapitän, mein Chef, 2018... Grob aber
-ehrlich, Habe mich daran gewöhnt, Miß... Werde auch
-grob, und die Sache ist ausgeglichen ...« Er zwinkerte
-fidel mit den kurzsichtigen Aeuglein. »Was ich noch
+Miß … Mein Herr und ich … Hamburger … Er meint es
+nicht so, der Kapitän, mein Chef, 2018 … Grob aber
+ehrlich, Habe mich daran gewöhnt, Miß … Werde auch
+grob, und die Sache ist ausgeglichen …« Er zwinkerte
+fidel mit den kurzsichtigen Äuglein. »Was ich noch
 sagen wollte, Miß, — soeben kroch da ein halbwüchsiger
 Bengel in einem grünen Anzug hier aus den Büschen,
-rannte weg — — dorthin... Wohl so ein Handtaschenschnapper,
-denke ich mir... Also dann — besten Dank, Miß...«
+rannte weg — — dorthin … Wohl so ein Handtaschenschnapper,
+denke ich mir … Also dann — besten Dank, Miß …«
 
 Er grüßte und schritt zu dem rotnasigen, im übrigen
 sehr bleichen Kranken zurück.
@@ -225,7 +225,7 @@ Pixcell deutsche Gäste bei sich?«
 
 Die schwarze mit dem berühmten Namen der Gattin
 des Trojanerhelden Hektor erwiderte prompt: »Seit drei
-Tagen, Miß... Ein alter Freund Mr. Pixcells und dessen
+Tagen, Miß … Ein alter Freund Mr. Pixcells und dessen
 Diener bewohnen das Häuschen an der Ufermauer. Mr.
 Pixcell hat sie von seiner Europareise mitgebracht.
 Sein Vater war ja selbst Deutscher.«
@@ -234,7 +234,7 @@ Ann Gostyl scheute sich, weitere Fragen zu tun.
 Sie betrachtete die Negerin mit grüblerischen Blicken,
 kaute nervös die volle Unterlippe und sagte schließlich:
 »Du könntest für mich einen Gang besorgen, Andromeda.
-Du bist nun drei Jahre bei mir, und...«
+Du bist nun drei Jahre bei mir, und …«
 
 »Ja, genau so lange, wie der junge Mister Pixcell
 verschwunden ist«, schaltete die Schwarze mit einigem
@@ -252,14 +252,14 @@ um erst einmal durch den Türspion zu schauen und dann
 dem flott uniformierten Boten eines Eildienstinstituts
 einen Brief abzunehmen.
 
-»Miß, hier ein Brief — bitte...«
+»Miß, hier ein Brief — bitte …«
 
 Ann Gostyl drehte sich im Schreibsessel schwerfällig
 um. Sie nahm den Brief gleichgültig entgegen. Die Anschrift
 war getippt, die Briefkopf lässig zugeklebt. Der Umschlag
 enthielt einen zerknitterten Zettel.
 
-»Gehen Sie, — Es... ist gut, Andromeda«, keuchte
+»Gehen Sie, — es … ist gut, Andromeda«, keuchte
 sie mit geradezu übermenschlicher Anstrengung.
 
 Die Schwarze schlich bedrückt hinaus. In diesem
@@ -299,7 +299,6 @@ der wenigen der Riesenstadt, das bisher nicht der Grundstückspekulation
 zum Opfer gefallen war. Nur ein Mann wie John Pixcell
 konnte es sich leisten, einen so umfangreichen Park
 mit so wundervollen Alleen,
-
 Rasenflächen, Fontänen und Pavillons zu unterhalten
 und gleichsam beständig auf einem Sommersitz zu wohnen,
 abgeschlossen von dem lärmenden Treiben dieses ruhelosen
@@ -336,7 +335,7 @@ und nun wieder von seinem blonden Liebling Gwenda sprach,
 seinem zweiten Kinde, Chesters Zwillingsschwester,
 die ihm gleichfalls geraubt worden war. Dies lag vierzehn
 Monate zurück, und in diesen vierzehn Monaten hatte
-Sohn Pixcell genau dreizehn Briefe erhalten, stets
+John Pixcell genau dreizehn Briefe erhalten, stets
 mit fast genau demselben Wortlaut: Es ginge ihr gut,
 nur müßte er unbedingt wieder zwanzigtausend Dollar
 an »die Leute« zahlen, sonst würde sie niemals wieder
@@ -348,9 +347,9 @@ darin eingepreßt die etwas verschwommene Gestalt eines
 Königs auf einem breiten Throne, als Umschrift aber
 die lateinischen Worte:
 
-Sapiens Rex Salomo.
+<p class="centered em">Sapiens Rex Salomo.</p>
 
-(Der weise König Salomo.)
+<p class="centered">(Der weise König Salomo.)</p>
 
 Was alles die Detektivpolizei Chicagos in diesen
 drei Jahren schon seit dem Verschwinden des jungen
@@ -408,11 +407,11 @@ Schlump trat ein.
 Art, »Wat for’n Wind weht dich hierher?! Was gibt es?«
 
 Schlump mit seiner Nickelbrille machte eine Art
-Kratzfuß. »Käpten, sie sein all do, die Herrens...
+Kratzfuß. »Käpten, sie sein all do, die Herrens …
 Ich lach’ mir rein schief, wenn ich so den Schlump
 mir ankieke, Käpten, und denn segg ich so tau mi: »Korl,
-Korl, wie hebst du dir nich verändert!!« — Entschuldigen
-sie, Herr Pixcell, aber komisch is die sach’, und wenn
+Korl, wie hebst du dir *nich* verändert!!« — Entschuldigen
+sie, Herr Pixcell, aber komisch is die Sach’, und wenn
 mir früher jemand so was erzählte oder wenn ich Jo
 was in ’n Buch las, dann dacht’ ich immer: Quatsch
 — — reiner Quatsch!! Nu is ’s doch nicht Quatsch!«
@@ -420,12 +419,12 @@ was in ’n Buch las, dann dacht’ ich immer: Quatsch
 »Wollen die Herren mich sprechen?«, fragte der
 Millionär sichtlich gespannt.
 
-»Ja, Herr Pixcell... Herr Käpten Brömmel läßt
-bitten...« Und Schlump riß die Tür auf und stand stramm
+»Ja, Herr Pixcell … Herr Käpten Brömmel läßt
+bitten …« Und Schlump riß die Tür auf und stand stramm
 und grinste den Käpten Brömmel äußerst belustigt an.
 Ihm machte die ganze Sache einen Riesenspaß. Er verdiente
 einen schönen Batzen Geld, und das bißchen Komödiespielen,
-—na, der Karl Schlump war ja auch nicht gerade auf
+na, der Karl Schlump war ja auch nicht gerade auf
 den Kopf gefallen!! Und wenn es auch mit dem Augenlicht
 nicht mehr so recht wollte, und wenn es auch in Hamburg
 in dem winzigen Häuschen weit schöner gewesen war als
@@ -442,7 +441,7 @@ die beiden doch irgend einen Erfolg zu buchen.«
 Er nickte auch Karl Schlump freundlich zu, schritt
 über den kleinen Flur und klopfte an.
 
-»Bitte...«
+»Bitte …«
 
 In diesem Vorderzimmer, das noch von Tageshelle
 erfüllt war, saß am Fenster hinter den dichten Stores
@@ -473,10 +472,11 @@ und seiner strohblonden Perücke glänzend maskiert war.
 — Hier ist der Zettel. Sie sehen, daß er nichts weiter
 enthält als die harmlosen Sätze:
 
-Suche Anschluß nach besonderem Bericht
+<p class="centered">Suche Anschluß nach besonderem Bericht</p>
 
-Maifield oberste Nummer im Schachklub. Weniger
-harmlos ist der darunter gesetzte Stempel der Michi-Bande,
+<p class="centered">Maifield oberste Nummer im Schachklub.</p>
+
+Weniger harmlos ist der darunter gesetzte Stempel der Michi-Bande,
 der ja durchaus den uns üblichen Siegeln des Königs
 Salomo gleicht — bis auf die lateinische Umschrift.
 Hiermit, denke ich, ist erwiesen, daß Miß Gostyl, die
@@ -491,9 +491,8 @@ an Kaptain Greap weitergeben und im Garten den Erfolg
 beobachten. Falls er nichts sieht, wird die Negerin
 Andromeda etwas beobachten können, — tausend Dollar
 sind für die schwarze ein Vermögen. — Mein lieber Alter,
-verschwinde nun... Und auch Sie, Herr Pixcell, müssen
+verschwinde nun … Und auch Sie, Herr Pixcell, müssen
 in Ihre Villa zurückkehren. Kommen Sie nach Dunkelwerden
-
 wieder, bis dahin lasse im den Sinn dieser Mitteilung
 über den »Schachklub« erraten zu haben.«
 
@@ -507,10 +506,10 @@ ein Advokat namens Lincoln Bellimer.«
 John Pixcell schnellte von seinem Sessel hoch,
 stützte sich auf die Armlehnen und rief heiser und
 mit einem entsetzten Flackern in den trüben Augen:
-»Wie, Bellimer... ?! Lincoln Bellimer?! Das war ja
+»Wie, Bellimer …?! Lincoln Bellimer?! Das war ja
 meines Sohnes Chester Studienfreund!«
 
-»Allerdings... Und Bellimer hat den Verkehr in
+»Allerdings … Und Bellimer hat den Verkehr in
 Ihrem Hause eingestellt, nachdem Ihr Sohn verschwunden
 war«, meinte Harst ohne jede Schärfe. Und doch konnte
 man diesen Sätzen eine doppelte Bedeutung geben.
@@ -518,7 +517,7 @@ man diesen Sätzen eine doppelte Bedeutung geben.
 Der Millionär nickte widerwillig und bemühte sich
 krampfhaft, seiner Erregung Herr zu werden.
 
-»Dann... dann wäre also auch Bellimer mit im Komplott«,
+»Dann … dann wäre also auch Bellimer mit im Komplott«,
 sagte er mit einer Stimme, die genau so farblos war
 wie sein verfallenes Gesicht. Dieser Mann, der erst
 fünfundfünfzig zählte, glich einem Siebzigjährigen.
@@ -536,7 +535,7 @@ Auf seine letzte Bemerkung über Lincoln Bellimer
 erwiderte Harst so obenhin: »Ich würde Sie vor voreiligen
 Schlußfolgerungen warnen. Schraut und ich sind erst
 drei Tag hier, — trotzdem glaube ich bereits behaupten
-zu dürfen, das es sehr viel unangenehme Ueberraschungen
+zu dürfen, das es sehr viel unangenehme Überraschungen
 geben wird.«
 
 Pixcell lies die verquollenen Augenlider herabklappen
@@ -563,7 +562,6 @@ Pixcells dachte, zu dem sie überhaupt in einem recht
 unpersönlichen Verhältnis stand. Sie war, obwohl selbst
 ohne jedes Vermögen, keineswegs auf seine Großmut angewiesen,
 da ihre Freundin Gwenda über sehr hohe
-
 eigene Einkünfte verfügte, die aus einer Erbschaft
 von Mutterseite herstammten. Die verschwundene Gwenda
 hatte Dolly Peac für alle Fälle pekuniär durchaus sichergestellt.
@@ -572,7 +570,7 @@ hatte Dolly Peac für alle Fälle pekuniär durchaus sichergestellt.
 scharfen erneuten Blick nach Pixcell hin.
 
 Der Millionär stierte sie, sich jäh aufrichtend,
-feindselig an. » Wie kommst du hierher?! Ich habe dir
+feindselig an. »Wie kommst du hierher?! Ich habe dir
 doch befohlen, das Gartenhaus möglichst zu meiden.«
 
 »Gebeten haben Sie mich, — befehle lasse ich mir
@@ -583,7 +581,7 @@ in ein ganz neues Licht gerückt wurde. »Ich fand soeben
 in der Vorhalle«, fügte sie etwas versöhnlicher hinzu,
 »diesen Brief — leider wohl wieder eines der Erpresserschreiben,
 zu denen meine arme Gwenda gezwungen wird. Er war in
-den Briefkasten geworfen worden. Bitte... da ist er.«
+den Briefkasten geworfen worden. Bitte … da ist er.«
 
 Harst winkte mir verstohlen zu. Ich mußte leider
 das Zimmer verlassen. Zunächst eilte ich zur Wasserpforte
@@ -600,7 +598,7 @@ in unserer Nachbarschaft wiederzusehen. —
 
 Harst und ich bewegten uns hier auf einem uns
 völlig fremden Boden. Die Stadtpläne von Chicago hatten
-wir allerdings schon während der Ueberfahrt Bremen-Newyork
+wir allerdings schon während der Überfahrt Bremen-Newyork
 gründlich studiert und geradezu auswendig gelernt.
 Als wir Pixcells Auftrag annahmen, waren wir uns durchaus
 darüber im klaren, daß ein Kampf gegen die Chicagoer
@@ -615,7 +613,7 @@ der Union und der größte Eisenbahnknotenpunkt des Erdrundes
 wurde, und mit seinen wundervollen Riesenparken und
 mit seiner grandiosen Front von Wolkenkratzern ein
 echt amerikanisches großzügiges Gepräge gibt. — Für
-die Oeffentlichkeit waren wir unterwegs nach Indien.
+die Öffentlichkeit waren wir unterwegs nach Indien.
 Unsere Abreise und unsere Ankunft hier waren so glänzend
 vorbereitet worden, daß niemand der zahlreichen Dienerschaft
 der Villa Pixcell ahnen konnte, daß im Gartenhause
@@ -653,9 +651,9 @@ mir mit einer Stimme, die mir durch Mark uns Bein ging,
 überlaut zu, daß sich die Negerin Andromeda soeben
 vor ihren Augen erschossen habe. Dann wurde sie ohnmächtig,
 fiel halb über das Balkongeländer und hing dort, Kopf
-nach unten, wie eine Tote...
+nach unten, wie eine Tote …
 
-Auf die Wirkung des Tintenstift-Kreuzes hatte
+Auf *die* Wirkung des Tintenstift-Kreuzes hatte
 ich allerdings nicht gerechnet. Ich lief ins Gartenhaus,
 rief Pixcell in der Villa telephonisch an und bat ihn,
 die Detektivpolizei zu verständigen.
@@ -669,14 +667,12 @@ dem Namen nach Privatsekretär des Bürgermeisters von
 Chicago, eines Mannes von untadeligem Ruf, der als
 Stadtoberhaupt in gewissen Fragen völlig uneingeschränkte
 Bewegungsfreiheit
-
-besaß. Das Ueberhandnehmen des organisierten Verbrechertums
+besaß. Das Überhandnehmen des organisierten Verbrechertums
 hatte ihn schließlich dazu veranlaßt, diesen jungen,
 unbekannten Greap, der bis dahin in Neuyork durch die
 Mißgunst seiner Vorgesetzten auf bescheidenstem Posten
 niedergehalten worden war, in aller Stille nach Chicago
 zu importieren und
-
 ihn ebenso heimlich mit Vollmachten auszustatten,
 wie sie nicht einmal der Chef der Detektivpolizei besaß.
 
@@ -698,7 +694,7 @@ werden könnte.
 Greaps Erscheinen wirkte zuerst grotesk. Der dürre
 Bursche sah wie ein ungesäuberter Kanalisationsarbeiter
 aus. Er setzte sich vorsichtig auf einen Stuhlrand
-und teilte uns in sehr knapper Form alles Nötige mit...
+und teilte uns in sehr knapper Form alles Nötige mit …
 »Ich verfüge über zwölf mir unbedingt treu ergebene
 Leute. Die Villa Pixcell steht unter ständiger Beobachtung.
 Schon gestern abend wußten wir, daß hier im Gartenhause
@@ -728,11 +724,11 @@ nebst Anschlußszenen im Washington-Park. Und diesen
 ersten Erfolg durfte Harst ausschließlich für sich
 buchen. —
 
-Ueber alledem war es Abend geworden. Im Keller
-des Pixcell’chen  Gartenhauses hob sich der Balkendeckel,
-der über einer Oeffnung des Abflußkanals für die Parkfontänen
+Über alledem war es Abend geworden. Im Keller
+des Pixcell’schen  Gartenhauses hob sich der Balkendeckel,
+der über einer Öffnung des Abflußkanals für die Parkfontänen
 lag. Charly Greap stieg heraus, schüttelte Schlamm
-und Wasser von sich, legte den triefenden Oelanzug
+und Wasser von sich, legte den triefenden Ölanzug
 ab und stellte die Wasserstiefel nebenbei. Was sich
 nunmehr beim Lichte der Taschenlampe zeigte, war ein
  bartloser Jüngling im Smoking mit blondem, kurzgeschnittenem
@@ -745,15 +741,15 @@ sich setzte.
 berichtet er. »Kaptain Morris wollte natürlich sofort
 zupacken, der Bürgermeister in Person verhinderte dies,
 also ich, und Morris spuckte Feuer und Rauch. — Was
-halten Sie von  diesem... Selbstmord, Mr. Harst?!«
+halten Sie von  diesem … Selbstmord, Mr. Harst?!«
 
 Die Fensterläden waren geschlossen, innen hingen
 noch je drei dicke Wolldecken, — der Raum war gegen
 Lauscher absolut gesichert. — Harst reichte Greap den
 neuesten Brief der armen Gwenda Pixcell. »Was halten
-Sie davon? — Die Erpresser haben sich diesmal verfrüht.
+Sie *davon*? — Die Erpresser haben sich diesmal verfrüht.
 Bisher kamen die Briefe stets um das Monatsende, heute
-haben wir erst den 18. Mai. — Lesen Sie..!«
+haben wir erst den 18. Mai. — Lesen Sie ...!«
 
 »Das schreiben lautete: »Lieber Pa, ich kann dir
 nur berichten, daß es mir gut geht, wie du auch aus
@@ -772,25 +768,25 @@ auch frecher: Michigan-Avenue!! Natürlich könnten wir
 den Motorradler abfassen.«
 
 »Könnten — ja — werden es auch tun, da dieses
-Schreiben nicht auf Befehl des Michi-Gang von Gwenda
+Schreiben *nicht* auf Befehl des Michi-Gang von Gwenda
 verfaßt wurde. Eine dritte Partei beginnt hier mitzuspielen.«
 
 Charly Greap betrachtete den Brief nochmals. »Die
 Handschrift mag gefälscht sein, aber die Photographie
 ist echt. Das Bild ist sogar in einer Gartenecke ausgenommenen,
 man sieht die jungen Blättchen der Büsche neben dem
-Kopf, und...«
+Kopf, und …«
 
-»... Die Tränenspuren auf den Zeilen«, bemerkte
+»… Die Tränenspuren auf den Zeilen«, bemerkte
 Harst mit Nachdruck. »Hier haben Sie die ersten dreizehn
-Erpresserbriefe samt Stempel und Bildern... Pixcell
+Erpresserbriefe samt Stempel und Bildern … Pixcell
 übergab sie mir mit einigem Wiederstreben. Verständlich,
 sehr verständlich, daß er sich ungern von diesen Schreiben
 trennt.«
 
 Der hagere Greap blickte Harst prüfend an. »Sollten
 Sie denselben Verdacht hegen wie ich?!«, meinte er
-leise. »Sie wissen ja, daß Sohn Pixcell gerade vor
+leise. »Sie wissen ja, daß John Pixcell gerade vor
 drei Jahren, als sein Sohn Chester verschwand, für
 kurze Zeit durch verfehlte Spekulation eigentlich durch
 einen freilich nicht mehr recht nachzuweisbaren Rückgriff
@@ -811,7 +807,7 @@ Monaten hat er nicht einen einzigen unbeobachteten
 Schritt getan. Er geht ja selten genug aus, meist hockt
 er über seinen Briefmarken oder wandert ruhelos im
 Park oder in der Villa umher. — Decken wir unsere Karten
-gegenseitig auf, meine Herren... Nur kein Versteckspiel!
+gegenseitig auf, meine Herren … Nur kein Versteckspiel!
 Bitte, äußern Sie sich.«
 
 Harst nickte zustimmend. »Ich werde mich äußern.
@@ -827,7 +823,7 @@ Pixcell hat auch Ihnen die ersten dreizehn Briefe vorgelegt,
 Mr. Greap. Eins bei all diesen Schreiben entging Ihnen,
 nämlich daß in jedem Brief bei neun aufeinanderfolgenden
 Worten die Anfangsbuchstaben das Wort »Salomonis« ergeben.
-Da — prüfen Sie... — Hier bei diesem vierzehnten fehlt
+Da — prüfen Sie … — Hier bei diesem vierzehnten fehlt
 »Salomonis«. Und drittens: Vergleichen Sie jetzt die
 beigelegten Photographien Miß Gwendas. Die dreizehn
 ersten Bilder dürften von einem Apparat mit Bildgröße
@@ -841,12 +837,12 @@ die sich übrigens auch, was die Schrift angeht, durch
 Vergleichung unschwer feststellen läßt. Nur das Bild
 ist echt, der Stempel Salomoms ist auch nachgemacht.
 Mithin: Eine dritte Partei will die Sache für sich
-ausbeuten,und zu dieser dritten Partei gehört Miß Ann
+ausbeuten, und zu dieser dritten Partei gehört Miß Ann
 Gostyl genau so, wie sie zu dem echten Michi-Gang gehört.
-Die Gostyl, behaupte ich; hat dieses Bild Nr. 14 heimlich
+Die Gostyl, behaupte ich, hat dieses Bild Nr. 14 heimlich
 hergestellt, und die Gostyl kennt Miß Gwendas Versteck,
 die Negerin Andromeda aber, behaupte ich weiter, starb
-an Stelle ihrer Herrin: Die Kugel war der Gostyl zugedacht!’
+an Stelle ihrer Herrin: Die Kugel war der Gostyl zugedacht!«
 
 »Weshalb?« — Kaptain Charly Greap war ein Mann
 ganz nach unserem Geschmack. Redensarten gab es bei
@@ -869,7 +865,7 @@ dazu ist die Korruption zu groß, die wahren Drahtzieher
 sitzen ebenso hoch oben, daß selbst der angeblich so
 lange Arm der Justiz bis zu ihnen nicht emporreicht.«
 
-»Und dieser Drahtzieher ist Sohn Pixcell?« Greap
+»Und dieser Drahtzieher ist John Pixcell?« Greap
 ging ohne Umwege auf sein Ziel los.
 
 Harst drückte seinen Zigarrenrest im Aschbecher
@@ -891,10 +887,10 @@ an Miß Gostyl herrührt?«
 Sie die Schlüssel zu der Wohnung der Gostyl? Ist dort
 alles so belassen, wie Kaptain Morris es vorfand?«
 
-»Alles... Hier sind die Schlüssel. Wollen wir
+»Alles … Hier sind die Schlüssel. Wollen wir
 aufbrechen?« Greap erhob sich lebhaft. »Stillsitzen
 ist mir gräßlich«, fügte er temperamentvoll hinzu.
-»Die Oelstoffaunzüge haben Sie ja erhalten. Besser
+»Die Ölstoffaunzüge haben Sie ja erhalten. Besser
 durch einen verschlammten Tunnel kriechen, als Spitzfindigkeiten
 austüfteln.«
 
@@ -911,15 +907,15 @@ eine zusammengefaltete Zeitung, die er auf den Mitteltisch
 neben ein paar Bücher legte.
 
 Greap schmunzelte jungenhaft. »Das sicherste Versteck!!
-— Ich darf mir wohl noch eine Zigarette nehmen...«
+— Ich darf mir wohl noch eine Zigarette nehmen …«
 
-Wir gütigen ins Schlafzimmer, in dem lediglich
+Wir gingen ins Schlafzimmer, in dem lediglich
 ein Schrank, zwei eiserne, zusammengeklappte Betten,
 Gartenstühle und mancherlei Gerümpel umherstand. Das
 »wirkliche« Schlafzimmer drüben jenseits des Flures
 bewohnten eben der echte Brömmel und der echte Schlump.
 Dies hier war nur sogenannter Abstellraum. — Wir schlüpften
-in die Oelanzüge, streiften Gummistiefel über und waren
+in die Ölanzüge, streiften Gummistiefel über und waren
 in knapp vier Minuten fertig. Als Harst die Tür zum
 Vorderzimmer öffnete, schlug er sie sofort wieder zu,
 sprang zur Seite und riß mich gleichfalls mit. Ich
@@ -928,7 +924,7 @@ war, — ich hatte auch das häßliche Schwirren gehört
 und hinter uns das Klatschen der in die Wand einschlagenden
 Kugel.
 
-Horst drehte am Lichtschalter, und aus wir standen
+Harst drehte am Lichtschalter, und aus wir standen
 im Dunkeln.
 
 »Verhalte dich still!!« Sein Mund war dicht an
@@ -948,13 +944,13 @@ durch die gebüschgedeckte Hintertür gerechnet hatte.
 
 Unsere Taschenlampen zeigten uns die dünnen zerbrochenen
 Stäbe und die eingestürzte Erdschicht, — die Grube
-war gut drei Meter tief und zementiert, aber... der,
+war gut drei Meter tief und zementiert, aber … der,
 der uns da ins Garn gegangen, war noch flinker gewesen:
 Die Grube war leer! — Nicht einmal Fußspuren waren
 zu finden.
 
-»Der kam auf Socken!«, sagte Harst erbittert,
-»Ein Jammer, daß er uns entging... Nun ist es zu spät.«
+»*Der* kam auf Socken!«, sagte Harst erbittert,
+»Ein Jammer, daß er uns entging … Nun ist es zu spät.«
 
 Greap hatte bereits die Besinnung wiedererlangt,
 als wir das Vorderzimmer betraten. Er war von hinten
@@ -965,25 +961,25 @@ Die Briefe aber waren verschwunden, — die Zeitung
 hatte der Anschleicher auf das Sofa geworfen.
 
 Harst nahm den Telephonhörer (Gartenhaus und Villa
-hatten eine besondere Leitung) und rief Sohn Pixcell
-an. »Hallo — — hier Brömmel... Was treibst du, alter
-Freund?. Noch munter?«
+hatten eine besondere Leitung) und rief John Pixcell
+an. »Hallo — — hier Brömmel … Was treibst du, alter
+Freund? Noch munter?«
 
 Pixcell erwiderte, er säße mit Dolly und dem Hausmeister
 Cools über den Wirtschaftsabrechnungen.
 
 »Dann schicken Sie doch mal Cool’s mit den Baldriantropfen,
-aber sofort..!«
+aber sofort ...!«
 
 Harst hängte ab, Greap lächelte und rieb sich
 seine Beule, und ich meinte verstört: »Hältst du Cools
 für zuverlässig, Harald?«
 
-»Der ist genau so zuverlässig, wie mein Augenmaß...
+»Der ist genau so zuverlässig, wie mein Augenmaß …
 Kommt mit ins Schlafzimmer. — Dort sitzt die Kugel
-in dem Wandputz... Der Schütze muß ein Riese gewesen
+in dem Wandputz … Der Schütze muß ein Riese gewesen
 sein. Sie sitzt zwei Meter, dreißig Zentimeter über
-dem Fußboden, und ich messe nur 1,79... Entweder Riese,
+dem Fußboden, und ich messe nur 1,79 … Entweder Riese,
 Sauschütze, oder vor Aufregung gänzlich vertattert
 oder alles drei zusammengenommenen!«
 
@@ -1002,11 +998,11 @@ Mr. Pixcell und Miß Dolly über den Abrechnungen? Und
 hat sich einer von Ihnen dreien entfernt — — vor fünf
 Minuten etwa?«
 
-»Nein, Mr. Harst, —— wir sind seit neun Uhr in
+»Nein, Mr. Harst, — wir sind seit neun Uhr in
 des Herrn Bibliothek, und keiner verließ auch nur für
 Sekunden den Raum.«
 
-»Ich danke Ihnen, Cools... Es bleibt bei den Baldriantropfen,
+»Ich danke Ihnen, Cools … Es bleibt bei den Baldriantropfen,
 Sie verstehen mich.« — Cools verneigte sich und ging
 davon. Ich verschloß die Tür, und dann stiegen wir
 in den Keller hinab.
@@ -1037,7 +1033,7 @@ Greap sie nicht zu viel gelobt hatte.
 Diele Kajüte war sehenswert. Was die moderne Technik
 irgend nur für die Verbrecherjagd erfunden hatte, war
 hier anzutreffen: Allerbeste  Fünfröhrenempfänger,
-Lampen für Lichtsignale, Maschinengewehre, Panzerwesten.
+Lampen für Lichtsignale, Maschinengewehre, Panzerwesten,
 gepanzerte harmlose Filzhüte, Gasmasken, Handgranaten,
 Vergasungsapparate, Chemikalien, Photokameras, Vergrößerungsapparate
 — vieles andere noch. — Trotzdem konnte dieser Gemüsekahn
@@ -1106,15 +1102,15 @@ ab«, bat er dann höflich. — Die Negerin drehte das
 Gas aus, nahm eine Gabel, lehnte sich gegen den Herd
 und aß und berichtete — etwas undeutlich, dennoch für
 uns sehr vielsagend: »Sie meinen die Geschichte mit
-dem Frauenzimmer, Mister... Das war vor einer halben
+dem Frauenzimmer, Mister … Das war vor einer halben
 Stunde vielleicht. Ich war soeben erst zu mir gekommen
 und saß noch im Salon auf dem Parkett im Dunkeln. Mit
 einem Male wurde die Fensterscheibe der Balkontür eingedrückt,
-wohl mit einem Seifenpflaster, Mister... Eine Hand
+wohl mit einem Seifenpflaster, Mister … Eine Hand
 langte durch das Loch, schloß auf, und dann trat ein
-Weib ein...« Andromedas Augen wurden Kugeln. »Ein Weib
+Weib ein …« Andromedas Augen wurden Kugeln. »Ein Weib
 — — eine gräßliche Fratze, Mister, — ich hatte mich
-schnell erhoben und das Licht eingeschaltet... Da kniff
+schnell erhoben und das Licht eingeschaltet … Da kniff
 sie aus, — ich hinterher, am Balkon hing ein Strick
 mit einem Haken, und das Weib rannte über den Hof und
 verschwand. Dann habe ich erst mal einen Brandy aus
@@ -1136,29 +1132,29 @@ Können Sie das Weib näher beschreiben?«
 Die Schwarze überlegte lange. »Ich denke, Mister,
 sie trug wohl so eine der neuen Gummimasken, die es
 auch in den Papiergeschäften zu kaufen gibt, denn solch
-eine Fratze hat kein lebender Mensch.
+eine Fratze hat kein lebender Mensch.«
 
 »Und wie war das nun mit dem Schuß aus dem Schlafzimmer,
 Andromeda?«
 
 »Ich, — — Miß Gostyl war so sehr unglücklich,
-weinte so und verbrannte ein Stück Papier... — Ich...
+weinte so und verbrannte ein Stück Papier … — Ich …
 ich schaute durch das Schlüsselloch, Mister, und dann
 ging ich hinein, weil sie mir leid tat, ich sprach
 zu ihr. Sie wandte mir den Rücken zu, und da sah ich
 zwischen den Vorhängen der Schlafzimmertür eine Hand
-mit einer Pistole...«
+mit einer Pistole …«
 
 »Eine Männerhand?«
 
 Wieder überlegte die Negerin sehr gründlich.
 
-»Das kann ich nicht bejahen, Mister... Es kann
+»Das kann ich nicht bejahen, Mister … Es kann
 auch eine Frauenhand gewesen sein, — ich sprang ja
 auch sofort zur Seite, schrie, — — und weiter weiß
 ich gar nichts. Nur die Kreidestriche und das bißchen
 Blut im Salon werden mir viel Arbeit machen, — Wo ist
-Miß Gostyl!?« — Sie schien doch mehr an ihrer Herrin
+Miß Gostyl?!« — Sie schien doch mehr an ihrer Herrin
 zu hängen, als wir gedacht hatten. — Greap klärte sie
 mit wenigen Worten auf. Andromeda war ganz entsetzt
 darüber, daß sie womöglich schon im Leichenschauhause
@@ -1230,18 +1226,18 @@ Er ging und leuchtete die Außenwand ab, von der
 wir sämtliche Kisten weggerückt hatten.
 
 »Suchen Sie eine Geheimtür oder einen geheimen
-Telephonanschluß?«, fragte Greap seicht ironisch. »Mit
+Telephonanschluß?«, fragte Greap leicht ironisch. »Mit
 derlei Dingen befassen sich unsere Gangsters nicht,
-das mag sich in Romanen sehr hübsch lesen, aber...«
+das mag sich in Romanen sehr hübsch lesen, aber …«
 
 »Bitte!!« — und Harst zog eine kleine Tür aus
 Eisen auf, die außen vollkommen mit Schimmelpilzen
 bedeckt war. »Das Haus hat mal Ofenheizung gehabt,
 nachher wurde infolge Anlage von Zentralheizung dieser
-Schornstein überflüssig... Es ist ein Schornstein,
+Schornstein überflüssig … Es ist ein Schornstein,
 Greap, und — bitte — hier ist die Telephonsteckdose
 und hier sind neu eingegipste Steigeisen. — Schraut,
-den Apparat...«
+den Apparat …«
 
 Er stöpselte die Schnur ein und lauschte. Er hielt
 ihn so, daß wir mithören mußten, falls die Lautstärke
@@ -1258,24 +1254,24 @@ Es war Dolly Peacs klare, helle Stimme.
 Nun war ich an der Reihe. Ich kannte die Stimme
 der Gostyl, und ich war der bessere Stimmenimitator.
 
-»Dolly, ich bin hierhergeschlichen... Etwas Neues?«
+»Dolly, ich bin hierhergeschlichen … Etwas Neues?«
 
-»Ja — ja...« Dolly Peac sprach sehr hastig. »Zunächst
-warne ich dich vor »unseren Gästen, — es sind nicht
+»Ja — ja …« Dolly Peac sprach sehr hastig. »Zunächst
+warne ich dich vor unseren Gästen, — es sind nicht
 zwei, sondern vier, und die beiden, die noch im Gartenhause
 wohnen, sind die Berliner Harst und Schraut — auch
 als Kapitän Brömmel und Diener Schlump maskiert. Dann
 — ich habe heute endlich die Stelle im Park gefunden,
-Ann... Nur mit Hilfe von Chesters Foxterrier.... Die
-Stelle liegt in dem großen Rosenbeet hinter der Venus-Fontäne...
+Ann … Nur mit Hilfe von Chesters Foxterrier … Die
+Stelle liegt in dem großen Rosenbeet hinter der Venus-Fontäne …
 Verdächtig war es mir ja schon immer, das »er« dieses
 Rosenbeet so verwildern lies. Wenn nur erst wieder
 hier mehr Ruhe herrscht und wir mehr Bewegungsfreiheit
-haben, graben wir nach... — Wie war das heute mit dem
+haben, graben wir nach … — Wie war das heute mit dem
 Anschlag auf dich, Ann? Wird die Polizei nicht etwa
 irgend eine Spur finden, die uns verrät?! Sei nur vorsichtig
- und..., ——du, ich glaube, »er« horcht wieder... Vorsicht...
-Schluß...«
+und … — du, ich glaube, »er« horcht wieder … Vorsicht …
+Schluß …«
 
 Ein Knacken im Hörer, und dann starrten wir drei
 uns wortlos an.
@@ -1301,7 +1297,7 @@ Pelcherson in Betracht, den der Pförtner als ruhigen,
 freundlichen Junggesellen mit Brille, Glatze und Schmerbauch
 schilderte.
 
-»Uebrigens ist Mr. Pelcherson vor wenigen Minuten
+»Übrigens ist Mr. Pelcherson vor wenigen Minuten
 mit einem Koffer davongegangen und hat mir seine Wohnungsschlüssel
 übergeben. Er verreist für längere Zeit.«
 
@@ -1312,18 +1308,18 @@ zwischen Dolly und mir abgehört, und die neue Eisentür
 lag in seinem Schlafzimmer hinter einem Schrank.
 
 Harst mahnte zur Eile. »Greap, jetzt gilt es,
-ob wir schnell genug nach Miß Gostyls Büro kommen...
+ob wir schnell genug nach Miß Gostyls Büro kommen …
 Ich gebe für ihr Leben keinen Pfennig!! Pelcherson
-ist der Gangster, und... — aber kommen Sie..!! Galopp!
+ist der Gangster, und … — aber kommen Sie ...!! Galopp!
 Es geht um ein Menschenleben!«
 
 In der Autotaxe sagte Greap keuchend:
 
 »Wenn Sie glauben, daß ich von alledem etwas begreife,
 irren Sie sich, Mr. Harst. Wer ist Pelcherson?! Der
-Gangster des Michi-Gang?! Oder..«
+Gangster des Michi-Gang?! Oder ...«
 
-»... Ganz wer anderes..! — Geben Sie dem Chauffeur
+»… Ganz wer anderes ...! — Geben Sie dem Chauffeur
 eins in die Rippen, — oder bei Gott: Wir kommen zu
 spät!«
 
@@ -1340,17 +1336,17 @@ zwei Läden, der eine gehörte Miß Ann Gostyl.
 Neben dem Eingang nach der Straße zu leuchtete
 ein Riesenreklameschild mit der Aufschrift:
 
-Stellenvermittlung
+<p class="centered em">Stellenvermittlung</p>
 
-für weibliches Hauspersonal
+<p class="centered">für weibliches Hauspersonal</p>
 
-für Diener, Lohndiener, Krankenpflegerinnen
+<p class="centered">für Diener, Lohndiener, Krankenpflegerinnen</p>
 
-und Aushilfen.
+<p class="centered">und Aushilfen.</p>
 
-Inhaberin: A. Gostyl.
+<p class="centered em">Inhaberin: A. Gostyl.</p>
 
-Geöffnet von 7—2 Uhr nachts.
+<p class="centered">Geöffnet von 7—2 Uhr nachts.</p>
 
 Es war noch nicht zwei, und der an der Glastür
 lehnende Detektiv, der Greaps Ausweis und dessen Besitzer
@@ -1374,7 +1370,7 @@ Was wünschen Sie?«
 
 Greap schritt ohne weiteres auf die Tür im Hintergrunde
 zu. »Dies ist doch wohl Miß Gostyls Privatkontor?«
-Er klopfte...
+Er klopfte …
 
 »Sie schläft schon«, murrte der Schreiber. »Vielleicht
 schläft sie auch nicht — — bei dem Verdacht!«
@@ -1397,53 +1393,53 @@ das Fenster ebenso, und das Gitter draußen zerschnitten,
 — eine Stümperarbeit, Greap! Jedes Kind sieht, daß
 hier eine Stahlsäge schon vor langer Zeit gearbeitet
 hat, — alles Lug und Trug!« Er lief in das Büro zurück,
-winkte uns... Der bucklige Schreiber war nicht mehr
-da. — Er stürzte in den Vorraum... Der Chinese glotzte
+winkte uns … Der bucklige Schreiber war nicht mehr
+da. — Er stürzte in den Vorraum … Der Chinese glotzte
 uns blöde an.
 
 »Hat der Schreiber das Haus verlassen?«, fauchte
 Charly Greap den bunten Affen grimmig an.
 
-»Nein, Mister, nein... Mister Grant kam hier nicht
-vorbei...«, stotterte der opiumduftende Halunke und
+»Nein, Mister, nein … Mister Grant kam hier nicht
+vorbei …«, stotterte der opiumduftende Halunke und
 verzog die dünnen Lippen zu einem untertänigen Grinsen.
 
 Harst riß die Eingangstür auf. Der Detektiv stand
 noch draußen. »Haben Sie den Schreiber Grant bemerkt?
 Er muß hier vorbeigekommen sein.«
 
-»Grant?! Ach so — der alte lächerliche Kerl...
+»Grant?! Ach so — der alte lächerliche Kerl …
 Nein, — nur ein Herr mit einem Koffer stieg soeben
-in ein Privatauto...«
+in ein Privatauto …«
 
-Wir rannten auf die Straße... — Eine Verfolgung
+Wir rannten auf die Straße … — Eine Verfolgung
 war zwecklos.
 
 Greap befahl dem Beamten, den Chinesen mit zur
 Wache zu nehmen und das Nötige zu veranlassen. »Miß
-Gostyl ist nämlich erschossen worden... — Hatten Sie
+Gostyl ist nämlich erschossen worden … — Hatten Sie
 sich überzeugt, ob sie nicht flüchten könnte?« sein
 scharfer Ton berührte den pomadigen, gut genährten
 Mann sehr wenig.
 
-»Ich möchte nochmals Ihre Legitimation sehen...«,
+»Ich möchte nochmals Ihre Legitimation sehen …«,
 erklärte er argwöhnisch. »Ein Kaptain Emmery Hutter
 von unserer Gruppe ist mir gänzlich unbekannt.« Der
 Mensch war halb und halb im Recht, aber Greaps Nerven
 gingen mit ihm durch.
 
-»Sie verdammter Narr halten uns nur auf... Ist
+»Sie verdammter Narr halten uns nur auf … Ist
 Ihnen der Geheimbefehl nicht mehr in Erinnerung, daß
 einem neu eingetretenen Kaptain des Detektivkorps,
 der sich durch besondere Legitimation ausweisen wird,
 unbedingt zu gehorchen ist? — Vorwärts, — weg mit dem
-Chinesen... Das Revier soll sofort einen Arzt und Leute
+Chinesen … Das Revier soll sofort einen Arzt und Leute
 senden.«
 
 Das half. Der Mann bekam flinke Beine, und wir
 kehrten in das Büro zurück. Dicht hinter der Milchglastür
-blieb Harst stehen. »Vorsicht, Greap... Wir wollen
-nicht noch eine zweite Dummheit machen... Wenn einer
+blieb Harst stehen. »Vorsicht, Greap … Wir wollen
+nicht noch eine zweite Dummheit machen … Wenn einer
 von uns bei der Toten geblieben wäre, hätten wir Mr.
 Grant Allan Pelcherson erwischt. Der Kerl ist durch
 das Fenster entwischt, aber das er überhaupt noch hier
@@ -1457,20 +1453,20 @@ Zischen entweichenden Gases.
 
 Am Eingang des Geschäftspalastes stand der Nachtportier
 neben seinem Logenfenster. »Sie haben doch Telephon
-in Ihrer Loge... ?« Greaps Auftreten war keineswegs
-mehr jungenhaft. »Ich werde telephonieren... Und Sie
+in Ihrer Loge …?« Greaps Auftreten war keineswegs
+mehr jungenhaft. »Ich werde telephonieren … Und Sie
 warten hier das Eintreffen der Polizei ab und melden,
-daß niemand die Räume der Gostyl ohne Gasmaske betritt...«
+daß niemand die Räume der Gostyl ohne Gasmaske betritt …«
 Er verschwand in der Loge, war sehr bald wieder bei
-uns und zog uns hinter einen der dicken Steinpfeiler...
+uns und zog uns hinter einen der dicken Steinpfeiler …
 »Sobald ich über den Gehsteig laufe, folgen Sie mir
-einzeln — aber etwas flink! — Hallo, das ging schnell...
+einzeln — aber etwas flink! — Hallo, das ging schnell …
 Da ist der Wagen. Auf meine Leute ist Verlaß.«
 
-Das Auto hielt... Es sah etwas eigenartig aus,
+Das Auto hielt … Es sah etwas eigenartig aus,
 — die Tür flog auf, Greap schoß vorwärts, ich als zweiter,
 dann Harst, — und dann knallte es hinter uns auch bereits
-wie im Schützengraben... Eine grobe Limousine flog
+wie im Schützengraben … Eine grobe Limousine flog
 vorüber, — unser Wagen ruckte an, wendete kurz, und
 ebenso plötzlich knatterte es auch bei uns. Der Mann
 neben dem Chauffeur bediente das Maschinengewehr, die
@@ -1557,7 +1553,7 @@ die Anlagen und bemerkten dann schon von weitem in
 dem Rosenbeet eine Gestalt, die sehr behutsam dort
 einen Spaten handhabte.
 
-Greap hielt uns zurück. »Zweifellos ist das Sohn
+Greap hielt uns zurück. »Zweifellos ist das John
 Pixcell, und wenn Pixcell nicht selbst der Gangster
 der Michi-Bande ist, will ich für alle Zeit Abstinenzler
 werden!«, flüsterte er sehr Selbstbewußt. »Ihre Theorie
@@ -1565,7 +1561,7 @@ in Ehren, Mr. Harst, — aber Pelcherson war und ist
 nur zweite Nummer, — Pixcell, die Dolly Peac, die Gostyl,
 der Hausmeister Cools, — alle stecken unter einer Decke!
 Alle diese Herrschaften kennen das Versteck der armen
-Gwenda, und...«
+Gwenda, und …«
 
 Harst erwiderte schnell: »Kommen Sie, Sie sollen
 jetzt den Rechtsanwalt Lincoln Bellimer kennen lernen,
@@ -1576,7 +1572,7 @@ wir, Greap und ich, versperrten dem Mann im Rosenbeet
 den Rückzug.
 
 »Guten Abend, Mr. Bellimer«, sagte Harst halblaut.
-»Haben Sie die Leiche schon gefunden’
+»Haben Sie die Leiche schon gefunden?«
 
 Der Mann flog herum, aber die stets etwas lähmende
 Aussicht auf drei Pistolenmündungen entmutigte ihn
@@ -1596,15 +1592,17 @@ Salomon, wie?! Oder durch den Michi-Gangster, was dasselbe
 ist! Verrechnen Sie sich nur nicht! Her mit den Handgelenken.«
 
 Bellimer betrachtete Harst und mich sehr eingehend.
-»Wohl Mr. Kaptain Brömmel nebst Diener Schlump... sehr
-ehrenvolle Bekanntschaft... Muß Europa dem Sternenbanner
+»Wohl Mr. Kaptain Brömmel nebst Diener Schlump …! Sehr
+ehrenvolle Bekanntschaft … Muß Europa dem Sternenbanner
 zu Hilfe kommen, um ein paar Schuldlose zu verhaften?!«
 In diesen  Worten lag ein gutmütiger Spott, der nicht
-beleidigen wollte. Greap ergriff den Spaten. »Sie haben
-ja bereits tüchtig vorgearbeitet... Ein anständiges
-Loch... Sollte das Opfer des weisen Salomo schnell
+beleidigen wollte.
+
+Greap ergriff den Spaten. »Sie haben
+ja bereits tüchtig vorgearbeitet … Ein anständiges
+Loch … Sollte das Opfer des weisen Salomo schnell
 anderswo verscharrt werden? — Mr. Harst, vielleicht
-packen Sie mit zu...«
+packen Sie mit zu …«
 
 Schon nach den ersten Spatenstößen gab es einen
 hohlen Klang. »Wie — eine Kiste?!«, rief Greap erstaunt.
@@ -1614,7 +1612,7 @@ freigelegt haben.«
 »Von dieser länglichen Kiste«, meinte Harst so
 nebenher, »stehen noch vier in dem Saal neben unserem
 Gartenhaus. Sie dürften zum Transport einiger Marmorfiguren
-des Parkes verwandt worden sein. — Vorsicht, Greap...
+des Parkes verwandt worden sein. — Vorsicht, Greap …
 Vorsicht! Das Holz des Deckels ist bereits etwas angefault.«
 
 Ich stand neben Bellimer, der mit seinen gefesselten
@@ -1628,10 +1626,10 @@ behaupten, daß ich es war, der damals im Washington-Park
 den Pfeil in Miß Gostyls Lederschirm abschoß?«
 
 Mein prüfender Blick veranlaßte ihn zu dem Nachsatz:
-»Davon hängt ja schließlich sehr viel ab... Ein schmales
+»Davon hängt ja schließlich sehr viel ab … Ein schmales
 Sportgesicht wie das meine mit leichter Hakennase und
 etwas dicken blonden Brauen und so kennzeichnenden
-Kinnfalten ist, glaube ich, leicht zu kopieren...«
+Kinnfalten ist, glaube ich, leicht zu kopieren …«
 
 Ich antwortete nicht, denn die vollendete Heuchelei
 all der Personen, die nunmehr zweifelsfrei als Mitglieder
@@ -1643,7 +1641,7 @@ trat ich mehr zur Seite und beobachtete, wie Harst
 und Charly Greap die Kiste jetzt völlig von Erde befreiten
 und dann heraushoben. Wenige Minuten später stand sie
 in dem Stallgebäude, der Deckel war geöffnet, und ein
-starker Geruch von Formalin strömte uns entgegen. Ueber
+starker Geruch von Formalin strömte uns entgegen. Über
 den Körper war eine Decke gebreitet, und als Greap
 diese emporhob, erblickten wir im Laternenschein den
 völlig angekleideten Körper eines Mannes von etwas
@@ -1685,7 +1683,7 @@ viel ausgeplaudert haben.«
 Lincoln Bellimers eigentlich sehr sympathisches
 Gesicht verzog sich zu einer unklaren Grimasse. Seine
 Stimme war scharf und haßerfüllt, als er ohne Zögern
-erwiderte: »John Pixcell mag ein Gangster sein... Gehen
+erwiderte: »John Pixcell mag ein Gangster sein … Gehen
 Sie und verhaften Sie ihn,— einen Mörder fassen Sie
 da auf keinen Fall!«
 
@@ -1697,9 +1695,9 @@ dem richtigen Wege sein?!«
 »Ich bin so gewiß auf dem einzig richtigen Wege,
 daß ich Ihnen den guten Rat erteile, Bellimer vorläufig
 als Gefangenen bei uns im Gartenhause unterzubringen,
-John Pixcell nicht zu verhaften und den Polizeikordon
+John Pixcell *nicht* zu verhaften und den Polizeikordon
 heimzuschicken. Die Sache, lieber Hutter, ist noch
-nicht spruchreif. Jede  Uebereilung Ihrerseits könnte
+nicht spruchreif. Jede Übereilung Ihrerseits könnte
 uns den Mörder Miß Gostyls entgehen lassen!«
 
 Bellimer zuckte auffällig zusammen. Seine Augen
@@ -1708,8 +1706,8 @@ fragte er beklommen.
 
 »Leider, Mr. Bellimer. Außer dem Michi-Gang macht
 ja jetzt hier auch eine zweite Bande mit einem ebenso
-unbekannten Oberhaupt viel von sich reden, der Ghost-Gang...
-(etwa gleich »Gespenster-Bande’). Einige Zeitungen
+unbekannten Oberhaupt viel von sich reden, der Ghost-Gang …
+(etwa gleich »Gespenster-Bande«). Einige Zeitungen
 sagen, der Ghost-Gang sei eine Erfindung der Witzblätter.
 Ich fürchte, das sind sehr blutige Witze, ohne daß
 die Herren Journalisten es ahnen. Ein Siegel Salomonis
@@ -1755,26 +1753,26 @@ paar Stühle beiseite und machte es seinem Herrn bequem,
 lies zwei Eislimonaden nebst Gebäck bringen und sagte
 tief aufatmend zu Käpten Brömmel, der trotz seiner
 Blässe ganz fidele Augen hatte: »Käpten, dat is hier’n
-annern Snack as di uns dahüm in Hambörg... Gottesdonner,
+annern Snack as di uns dahüm in Hambörg … Gottesdonner,
 die Autos!!«
 
 Dann zog er seine Pfeife hervor, stopfte sie umständlich
 und beeilte sich auch keineswegs, als der gelähmte
 Kapitän ihn an seine Pflicht erinnerte. »Karl, denken
 Sie an den armen John! Der sah heut früh wie Braunbier
-und Spucke aus..!«
+und Spucke aus ...!«
 
 Karl Schlump visierte quer über die Straße.
 
-»Hatt ihm schon, Käpten... Da is sein Schild:
+»Hatt ihm schon, Käpten … Da is sein Schild:
 L. Bellimer, Rechtsanwalt. — Bequeme Aussicht haben
-wir hier...«
+wir hier …«
 
 In Lincoln Bellimer Büroräumen links im ersten
 Stock waren soeben drei Herren erschienen, die den
 Vorzimmerboy nach dem Chef fragten. — »Noch nicht anwesend«,
 erklärte der Boy und öffnete die Tür zum Wartezimmer.
-»Aber der Bürovorsteher könnte vielleicht...«
+»Aber der Bürovorsteher könnte vielleicht …«
 
 »Schon gut«, und Charly Greap mit dem schönen
 unechten Schnurrbart betrat das Zimmerchen, in dem
@@ -1790,7 +1788,7 @@ sehr sorgfältig Mister »Hutters« Ausweis studiert hatte.
 er dann und nahm gleichfalls Platz. »Sein Ausbleiben
 beunruhigt mich sehr, ich habe schon dreimal in seiner
 Wohnung angerufen, Mr. Bellimer läßt mich sonst nie
-ohne Nachricht...« Sein rosiges, rundes Gesicht mit
+ohne Nachricht …« Sein rosiges, rundes Gesicht mit
 der dicken Unterlippe, die wie eine Pflaume herabhing
 und alle Goldzähne sehen ließ, war ehrlich besorgt.
 Er hatte tadellos gepflegte schmale Hände, trug allerdings
@@ -1800,16 +1798,16 @@ fest schlossen. »Ist denn irgend etwas geschehen«,
 fragte er noch unsicherer, als Hutter-Greap hartnäckig
 schwieg.
 
-» Wie lange sind Sie hier schon Bürovorsteher?«,
+»Wie lange sind Sie hier schon Bürovorsteher?«,
 wollte Greap wissen. »Ihr Name ist doch Wellington
-Smoes... Können Sie mir einige Auskünfte über Bellimers
+Smoes … Können Sie mir einige Auskünfte über Bellimers
 Privatleben geben?«
 
 Der alte Smoes beugte sich bestürzt vor. »Also
 ist doch etwas passiert!! — Ich bin so lange bei Mr.
 Bellimer, wie er Anwalt ist, vier Jahre. Vorher war
 ich fünfzehn Jahre bei der Anwaltsfirma Henderson,
-Bronce-Miller. Ueber meines Chefs Privatleben weiß
+Bronce-Miller. Über meines Chefs Privatleben weiß
 ich gar nichts. Mich interessieren nur meine Akten.
 Je älter man wird, desto mehr verwächst man mit seiner
 Arbeit. — Kaptain Hutter, bitte, seien Sie doch ehrlich:
@@ -1819,16 +1817,16 @@ gescheuerten Schenkel fallen.
 
 Aber Greap blieb ein Buch mit sieben Siegeln.
 
-»Dann etwas anderes, Mr. Smoes... Ihr Chef verwaltet
+»Dann etwas anderes, Mr. Smoes … Ihr Chef verwaltet
 jetzt das Vermögen der beiden Kinder John Pixcells.
 Dieser gab die Verwaltung nach dem Verschwinden seines
-Sohnes ab...«
+Sohnes ab …«
 
 »Verzeihung: Erst ein Jahr später, Kaptain Hutter.
 Sollten Zweifel bestehen, ob dieses große Vermögen
 noch unangetastet ist, so könnte nur Mr. Bellimer persönlich
 die Bücher, Belege und die bei der Central-Bank deponierten
-Wertpapiere...«
+Wertpapiere …«
 
 Greap hatte abgewinkt. »Das mag später mal geprüft
 werden. — Ich habe mich über Ihre Person sehr genau
@@ -1844,7 +1842,7 @@ sich bereits eine ganz bestimmte Ansicht gebildet zu
 haben, hält damit aber zurück. — Und ich hatte hinzufügen
 können: »Mir gegenüber auch.«
 
-»... Also abweichender Auffassung, Mr. Smoes.
+»… Also abweichender Auffassung, Mr. Smoes.
 Zum Beispiel behauptet mein Kollege, daß Mr. Bellimer
 allerdings früher sehr häufig den Bogenschießplatz
 im Waschington-Park besuchte, in letzter Zeit kaum
@@ -1857,14 +1855,14 @@ gestern nachmittag bereits um fünf Uhr der großen Segelregatta
 wegen. Mr. Bellimer entfernte sich kurz vor fünf, kehrte
 gegen ein viertel acht zurück, besprach noch mit mir
 einige Prozeßsachen und verabschiedete sich wieder.
-Ich selbst...« er lächelte wie entschuldigend — »habe
+Ich selbst …« er lächelte wie entschuldigend — »habe
 kein Interesse für Sport.«
 
 »Das glaube ich Ihnen unbesehen«, sagte Greap
 belustigt. »Nun noch etwas: Bellimer soll, wie ich
 von anderer Seite hörte, Gwenda Pixcell geliebt haben.«
 
-Smoes nickte. »Ja. Und die junge Dame liebt ihn...
+Smoes nickte. »Ja. Und die junge Dame liebt ihn …
 Sie war sehr oft hier bei uns im Büro, und wir alle
 freuten uns bereits auf eine baldiges Verlobung. Es
 war ein furchtbarer Schlag für Mr. Bellimer, als die
@@ -1873,7 +1871,7 @@ Miß entführt worden war.«
 Harst hatte bisher geschwiegen. »Mr. Smoes, —
 wie äußerte sich bei  Bellimer diese seelische Depression?«,
 fragte er in seinem besten Englisch. — Aber der alte
-Mann horchte trotzdem auf. »Sie sind Ausländer...?«,
+Mann horchte trotzdem auf. »Sie sind Ausländer …?«,
 meinte er erstaunt.
 
 Greap kam Harst zu Hilfe. »Das ist hier gleichgültig.
@@ -1886,7 +1884,7 @@ Sportmädel, wie es Gwenda Pixcell war, von einem Mann
 Mann seinen Schmerz kaum äußerlich zeigen. Dazu besitzt
 mein Chef zu viel Energie. Nur seine Ruhelosigkeit,
 seine Nervosität, die Vernachlässigung seiner Praxis
-und die Abneigung gegen jeden Sport fielen mir, auf—
+und die Abneigung gegen jeden Sport fielen *mir* auf --
 ich betone: Mir! — Mehr hätte ich dazu nicht zu sagen.«
 
 Greap erhob sich elastisch. »Haben Sie noch Fragen,
@@ -1899,12 +1897,12 @@ Das Büro umfaßte sechs Räume. Ganz hinten am Ende
 eines langen Flurs lag neben den Waschräumen ein einzelnes
 Zimmer. Der Boy, der uns begleitete, erklärte, das
 hier Mr. Smoes wohne. Der Bengel sagte das mit merklicher
-Geringschätzung. »... Aus Geiz wohnt er hier...«, —
+Geringschätzung. »… Aus Geiz wohnt er hier …«, —
 und um diesen frechen Satz abzuschwächen: »Aber sonst
-ist er ein sehr netter Mann...«
+ist er ein sehr netter Mann …«
 
 Harald lachte. »Und du verdienst eins aus dein
-vorlautes Maul, mein Sohn...«
+vorlautes Maul, mein Sohn …«
 
 Wir machten kehrt. Mitten in dem größten Zimmer,
 wo drei Tippdamen und drei männliche Angestellte saßen,
@@ -1913,13 +1911,13 @@ schienen ihn zu interessieren. — Als wir die Treppen
 hinabstiegen, meinte Greap neugierig: »Na, etwas entdeckt,
 Mr. Harst?«
 
-»Ja. — Warten Sie hier...« Er eilte wieder die
+»Ja. — Warten Sie hier …« Er eilte wieder die
 halbe Treppe empor und verschwand hinter dem Lift,
 kehrte sehr bald zurück und sagte leise: »Sie werden
 sehen, Greap: Es passiert etwas!!«
 
-» Wo?!« Und der Kaptain kicherte jungenhaft. »Draußen
-etwa?! Bei dem Aufgebot meiner Getreuen’! — Ich versichere
+»Wo?!« Und der Kaptain kicherte jungenhaft. »Draußen
+etwa?! Bei *dem* Aufgebot meiner Getreuen?! — Ich versichere
 Ihnen: Die Panzerwesten und die verdammten Hüte hätten
 wir im Kahn liegen lassen können.«
 
@@ -1939,7 +1937,7 @@ und anscheinend nach einer Wespe schlug. — Auch Harst
 hatte hingeschaut.
 
 »Greap, rasch in das Auto«, sagte er seltsam gepresst
-und stieß den jungen Kaptain vorwärts...
+und stieß den jungen Kaptain vorwärts …
 
 Nicht schnell genug: Das wilde Knattern von Schüssen
 erklang, — die Passanten schrien vor Angst, im Nu waren
@@ -1955,7 +1953,7 @@ die sofort hinter uns die Straße abriegeltet, — genau
 dasselbe geschah drüben an der Ecke der Federal-Street,
 — die Schießerei wurde noch lebhafter, wir sprangen
 hinaus, aber schon ertönte ein Knall, der den Glasermeistern
-viel Verdienst brachte, Gebrüll... Schüsse... , dann
+viel Verdienst brachte, Gebrüll … Schüsse …, dann
 lähmende Stille.
 
 Greaps Kopfstreifschuß war schnell verbunden,
@@ -1969,7 +1967,7 @@ aber noch, daß der vorsorgliche Karl Schlump klugerweise
 seinen verehrten Kapitän lang auf den Boden der Kaffeeterrasse
 und sich daneben gelegt hatte.
 
-Wir drei gingen wieder zur Deaborn-Street zurück,
+Wir drei gingen wieder zur Dearborn-Street zurück,
 in dem allgemeinen Aufruhr kümmerte sich niemand um
 uns, zumal auch einige Passanten verwundet waren und
 jetzt Polizei in ganzen Trupps herbeigeeilt kam.
@@ -1981,7 +1979,7 @@ schießlustigen Gang-Brüder, leider nur ein Bruchteil!
 
 Greap drückte Harsts Hand. »Bei Gott, Sie haben
 also doch recht behalten! Ich bin nun erheblich klüger
-geworden. Auch das Nachbarschild hat mich interessiert...«
+geworden. Auch das Nachbarschild hat mich interessiert …«
 Er lächelte Harst an und fügte hinzu: »Aus der Bude
 kommt mir  keine Maus mehr heraus! — Wilkiens — stopp!«
 Er flüsterte dem Mann neben dem Chauffeur etwas zu.
@@ -1992,8 +1990,8 @@ worden war.
 
 Die Negerin war bereits operiert und lag in einem
 blendend weißen Bett in einem Einzelzimmer, — natürlich
-war es eine Negerklinik, Chef und Aerzte und Personal
-waren sämtlich farbige. Die allerfreieste Republik
+war es eine Negerklinik, Chef und Ärzte und Personal
+waren sämtlich Farbige. Die allerfreieste Republik
 der Welt hält bekanntlich mit eiserner Rücksichtslosigkeit
 an den alten Rassenvorurteil fest — vielleicht mit
 Recht, denn die Verniggerung Amerikas wäre nur noch
@@ -2027,9 +2025,9 @@ Und wie ein Halbtoter sank er hier in Vorderzimmer
 in einen Sessel. Wir hatten ihm die Hand gereicht,
 — Greap konnte sich hierzu nicht herbeilassen, sondern
 begann sofort sehr dienstlich: »Mr. Pixcell, — bitte,
-hier mein Ausweis... Ich mache Sie darauf aufmerksam,
+hier mein Ausweis … Ich mache Sie darauf aufmerksam,
 daß Ihre Angaben gegen Sie verwertet werden könnten.
-—« Geben Sie zu, Ihren Adoptivsohn Chester Pixcell
+— Geben Sie zu, Ihren Adoptivsohn Chester Pixcell
 erschossen zu haben?«
 
 Harst wollte dem Unglücklichen diese furchtbaren
@@ -2073,7 +2071,7 @@ Sohn sich erschoß, dessen Abschiedbrief mit den Worten
 schließt: Vater, sorge dafür, daß Gwenda das fürchterliche
 nie erfährt, sie würde nie mehr fröhlich sein können,
 da auch sie befürchten würde, von derselben ererbten
-Seuche befallen zu werden«. Lieber Hutter, das ist
+Seuche befallen zu werden. Lieber Hutter, das ist
 Tragik!! Und daß Mr. Pixcell damals in seiner Verstörtheit
 dann nachts den Entschluß faßte, den Toten heimlich
 zu bestatten und dadurch Gwenda vor der Gefahr des
@@ -2086,7 +2084,7 @@ Teilnahme. Er trat auf den weinenden alten Mann zu,
 gab ihm die Hand und redete in aufrichtigem Mitgefühl
 auf ihn ein.
 
-Harst erhob sich. »Ich werde Bellimer holen...
+Harst erhob sich. »Ich werde Bellimer holen …
 Bellimer muß sich verpflichten, über die Vorgänge in
 der letzten Nacht zu schweigen. Ich bin unbedingt dafür,
 daß Chester wieder in aller Stille beerdigt wird und
@@ -2097,7 +2095,7 @@ Der junge Anwalt setzte sich. Von Pixcell nahm
 er keinerlei Notiz.
 
 »Mr. Bellimer, lesen Sie diesen Brief Ihres Freundes
-Chester ...«, — Harst blickte ihn dabei auffallend
+Chester …«, — Harst blickte ihn dabei auffallend
 scharf an. »Ich glaube, Sie werden nachher Mr. Pixcell
 sehr viel abzubitten haben.«
 
@@ -2116,14 +2114,14 @@ er zum Sofa, schlug die Hände vor das Gesicht und stöhnte
 verzweifelt:
 
 »Das — — das habe ich nicht geahnt!! Das — — habe
-ich nicht gewollt!! Arme... arme Gwenda!«
+ich nicht gewollt!! Arme … arme Gwenda!«
 
 Greap stand mit etwas vorgeschobenem Kopfe da
 und belauerte jede Bewegung Bellimers.
 
 »Was haben Sie nicht gewollt?! — Reden Sie, Bellimer!!«,
 sagte er hart. »Und bedenken Sie, das es hier um Ihren
-Kopf geht! Sie... Heuchler!! Sie erbärmlicher Heuchler!!
+Kopf geht! Sie … Heuchler!! Sie erbärmlicher Heuchler!!
 Sie sind selbst der Gangster der Michi-Bande, dabei
 bleibe ich!!«
 
@@ -2139,18 +2137,18 @@ das erfährt niemand!«
 John Pixcell wankte bis zum Sofa. Seine zitternden
 Finger krallten sich in Bellimers Jacke.
 
-»Du — — lügst, mein Junge..! Ich kenne dich besser!
-Du und ein Verbrecher?! Das ist... lächerlich! Aber
+»Du — — lügst, mein Junge ...! Ich kenne dich besser!
+Du und ein Verbrecher?! Das ist … lächerlich! Aber
 ich weiß, was du verschweigen willst! Auch Gwenda ist
-tot... auch sie ist mir genommen worden!« Unter den
+tot … auch sie ist mir genommen worden!« Unter den
 Lauten dieser tränenerstickten Stimme preßte Bellimer
 die Fäuste gegen die Ohren und schrie wie ein Besessener:
 
-»Sie lebt — — sie lebt..!! Beim barmherzigen Gott,
-— — sie lebt!! Aber jetzt wäre es besser, sie... wäre
+»Sie lebt — — sie lebt ...!! Beim barmherzigen Gott,
+— — sie lebt!! Aber jetzt wäre es besser, sie … wäre
 auch tot!! — Und mehr erfährt niemand von mir — — niemand!
-Ich will weg von hier... Mr. Harst, führen Sie mich
-zurück in die Kammer, — — oder ich gehe allein... ich
+Ich will weg von hier … Mr. Harst, führen Sie mich
+zurück in die Kammer, — — oder ich gehe allein … ich
 gehe schon!«
 
 Mit seltsam steifen Schritten verließ er das Zimmer,
@@ -2168,7 +2166,7 @@ sprach Harst ganz leise und ganz langsam:
 
 »Unter diesen Umständen ist es ratsam, sofort
 Schluß zu machen. — Mr. Pixcell, wollen Sie uns bitte
-begleiten... Ich werde Sie zu dem Gangster der Michi-Bande
+begleiten … Ich werde Sie zu dem Gangster der Michi-Bande
 führen, zu dem großen König Salomo. Glauben Sie mir,
 wir werden den Erpresser nicht einmal mit der Hand
 zu bedrohen brauchen, geschweige denn mit einer Waffe.
@@ -2180,8 +2178,8 @@ der abgeschossene Zettel verraten, Mr. Harst. Und »die
 Hand« verriet mir auch einiges. Aber — — Miß Gwenda
 dort?! Ausgeschlossen!«
 
-»Wir werden sehen’, sagte Harst mit leichtem Zucken
-um die Mundwinkel, Bellimer soll ebenfalls mitkommen...
+»Wir werden sehen«, sagte Harst mit leichtem Zucken
+um die Mundwinkel, Bellimer soll ebenfalls mitkommen …
 Ein Bart ist schnell vorgeklebt. Das Siegel Salomonis
 wird nie mehr Erpresserbriefe stempeln.
 
@@ -2202,7 +2200,7 @@ bittender Blick entwaffnete ihn.
 Inzwischen war schon in aller Stille Greaps Panzerauto
 in den Wirtschaftshof der Villa bereitgestellt worden.
 Als der schwarze Wagen, der übrigens nicht die Polizeiabzeichen
-trug, aus der Deaborn-Street in die Harrison-Street
+trug, aus der Dearborn-Street in die Harrison-Street
 einbog, war hier von dem Feuergefecht vor anderthalb
 Stunden nichts mehr zu spüren, — der Verkehr flutete
 dahin wie sonst, das Tempo der Lebenskraft der Michigan-Stadt
@@ -2242,11 +2240,11 @@ an Lincoln Bellimer, der finster und verschlossen dastand.
 »Bitte Ihre Schlüssel«, sagte Kaptain Greap kurz. —
 An dieser zweiten Tür war ein Messingschild befestigt:
 
-Schachklub »König«. (King)
+<p class="centered em">Schachklub »König«. (King)</p>
 
-Vorsitzender O. Maifield.
+<p class="centered">Vorsitzender O. Maifield.</p>
 
-Anmeldungen 9—1, 5—7.
+<p class="centered">Anmeldungen 9—1, 5—7.</p>
 
 Der junge Anwalt zögerte, drehte sich halb um
 und rief Harst leise zu, der gerade mit dem Bürgermeister
@@ -2284,7 +2282,7 @@ Anzeichen dunkler Vorgänge: Auf dem Bett lag mit blutender
 Kopfwunde ein niedliches Kammerzöfchen, gefesselt,
 gebunden und geknebelt. — Harst war mit zwei Sprüngen
 neben dem Bett, fühlte nach dem Puls der Besinnungslosen,
-während hinter ihm Sohn Pixcell entsetzt aufschrie:
+während hinter ihm John Pixcell entsetzt aufschrie:
 »Das ist ja Molly, Gwendas frühere Zofe!!« — Harst
 hatte dem Mädchen bereits die Fesseln abgenommen. Ein
 Beamter blieb bei ihr, wir eilten in das nächste Zimmer
@@ -2294,7 +2292,7 @@ John Pixcell mich fast roh beiseite, lief an dein langen,
 grünüberzogenen Tisch mit den schweren Sesseln vorüber
 und blieb zitternd vor einem erhöhten, baldachinüberdachten
 Thronsessel stehen, auf dem in altertümlicher Tracht
-eine Wachsfigur saß, mit der Krone Salomonis auf dem
+eine Wachsfigur saß, mit der Krone Salomonis' auf dem
 Haupte. — so lebensgetreu, daß man zunächst an ein
 Wesen von Fleisch und Blut glauben konnte.
 
@@ -2313,15 +2311,15 @@ hier ist der Versammlungssaal des Michi-Gang. Gestern
 hat der Anführer des Ghost-Gang, der Konkurrenz, endlich
 Miß Gostyl, die zweien Herren diente, gewisse Befehle
 durch den abgeschossenen Zettel erteilt. Im übrigen,
-Mr. Bellimer, teile ich jetzt durchaus Ihre Befürchtungen...
-Schnell... zu Ihnen hinüber, der Schurke, den wir fassen
+Mr. Bellimer, teile ich jetzt durchaus Ihre Befürchtungen …
+Schnell … zu Ihnen hinüber, der Schurke, den wir fassen
 wollen, scheint doch Mittel und Wege gefunden zu haben,
 uns einen bösen Streich zu spielen.«
 
 Charly Greap stieß Smoes’ Bürotür auf, — leer!
 Ein Versteck gab es hier nicht. — Wir eilten durch
 die Räume und den Flur bis zu Smoes’ Wohnzimmer. Wildeste
-Unordnung hier... Zertretener Kalkstaub auf den Dielen
+Unordnung hier … Zertretener Kalkstaub auf den Dielen
 und auf dem Teppich.
 
 An der linken Wand stand ein großer Schrank. Hinter
@@ -2344,31 +2342,33 @@ mitgenommen. Obwohl nun auch der Ausgang nach der Polk-Street
 bewacht worden war, hatte der Mann die Sperre mit Hilfe
 eines besonderen Ausweises des Bürgermeisters passiert.
 Dieser Ausweis war natürlich eine geschickte Fälschung
-gewesen. Wir standen auf dem Garagenhofe, es gab sehr
+gewesen.
+
+Wir standen auf dem Garagenhofe, es gab sehr
 betretene Gesichter, zu langen Aussprachen war jetzt
 erst recht keine Zeit, und John Pixcells unsichere
 Frage, ob seine Gwenda von diesem Smoes anderswohin
 verschleppt worden sei, beantwortete der gereizte Greap
 mit einem wenig höflichen: »Herr Gott, — begreifen
-Sie denn noch nicht!!! Sie war zunächst überhaupt nicht
+Sie denn noch nicht!! Sie war zunächst überhaupt nicht
 verschleppt worden, sie war der Gangster der Michi-Bande,
 jetzt jedoch hat dieser dreifache Schuft von Smoes
 sowohl sie als auch die Freundin Dolly Peac gewaltsam
-mitgenommenen... spät genug wurde ich mir über die
-Zusammenhänge klar,—da, fragen Sie den Herrn!! Angenehm
+mitgenommenen … Spät genug wurde ich mir über die
+Zusammenhänge klar, -- da, fragen Sie *den* Herrn!! Angenehm
 sind die nötigen Erklärungen gewiß nicht!«
 
 Pixcell starrte uns hilflos an. »Meine Gwenda
-soll... soll ein Gangster gewesen sein?! Das ist doch...
+soll … soll ein Gangster gewesen sein?! Das ist doch …
 Wahnwitz!«
 
 »Das ist leider Tatsache, wenn auch mit Einschränkungen«,
-warf Bellimer noch gereizter hin. »Mr. Harst, Sie haben
+warf Bellimer noch gereizter hin. »Mr. Harst, *Sie* haben
 diesen abgefeimten Halunken zu diesen Gewaltstreich
-getrieben und...«
+getrieben und …«
 
 »Kommen Sie!«, — Harst war wieder aufgelebt. »In
-Pelchersons Zimmer hingen viele Wassersportbilder...«
+Pelchersons Zimmer hingen viele Wassersportbilder …«
 
 Eine telephonische Anfrage bei dem Pförtner des
 Hauses Hasker-Street bestätigte, daß Pelcherson allerdings
@@ -2384,28 +2384,28 @@ zum Lincoln-Park.
 »Karl«, sagte ’Käpten Brömmel zu seinem treuen
 Gefährten, »Karl, du hast deine Sach’ gut gemacht.
 Aber der Harst hatte dich auch tadellos instruiert,
-Karl... Donnerwetter — die Scheeterei dann! Weist,
-Karl, bi us in Hambörg is ’s doch friedlicher!« Sie
+Korl … Donnerwetter — die Scheeterei dann! Weist,
+Korl, bi us in Hambörg is ’s doch friedlicher!« Sie
 waren so allmählich bis an den Lincoln-Park gelangt,
 da des alten Seemanns Herz nach dem Anblick flotter
 Jachten sich sehnte.
 
-Karl Schlump grinste zufrieden vor sich hin. »Käpten,
+Korl Schlump grinste zufrieden vor sich hin. »Käpten,
 der Kierl oben im Fenster bei dem Rechtsverdreher Bellimer
 hat en dollen Schreck gekriegt, als so mit einem Mal
-die Knallerei losging... Der Kierl winkt mit die Pfote,
+die Knallerei losging … Der Kierl winkt mit die Pfote,
 jenau wie Harst vermuten tun täte, und ich winkte mit
 der Pfote — — dat war’n Spaß, Käpten! Und dann kam
-der jrote Plumps-Plumps, und das Auto wurd’ zu Klamotten...
-— Also dat is hie so der Jachthafen, Käpten... Piekfein,
+der jrote Plumps-Plumps, und das Auto wurd’ zu Klamotten …
+— Also dat is hie so der Jachthafen, Käpten … Piekfein,
 — — hm, aber unmodsch sein diese Chicagoer! Da, kieken
 se hin, Käpten, — — die kloppen ihre Teppiche voll
-auf’n Michigan-See aus’! Dunnerwetter, und in so’n
-feinen Benzinkahn schleppt der Mister die Teppiche...
-Da — — an den Anlegesteg, Käpten,... Und drüben steht
-ein Auto... Kraft hat der Mister, alle Achtung!!! Nu
-holt er noch’n Koffer... Und nu — — Wieder’n dicker
-Teppich...«
+auf’n Michigan-See aus!! Dunnerwetter, und in so’n
+feinen Benzinkahn schleppt der Mister die Teppiche …
+Da — — an den Anlegesteg, Käpten … Und drüben steht
+ein Auto … Kraft hat der Mister, alle Achtung!! Nu
+holt er noch’n Koffer … Und nu — — Wieder’n dicker
+Teppich …«
 
 Er hatte den Krankenstuhl inzwischen näher herangeschoben.
 Der Mann mit der Mütze sah die beiden erst, als sie
@@ -2420,21 +2420,21 @@ blutroten Kopf, brüllte wie ein Stier, besann sich
 auf jüngere Zeiten, wo er als Steward so manchen frechen
 Farbigen gehörig verhauen hatte, rannte wie ein losgeschnellter
 Pfeil auf die Brücke zu und riß die ihm von Harst anvertraute
-Pistole aus der Tasche...
+Pistole aus der Tasche …
 
 »Mistkerl — stopp, oder eck scheet!!«, brüllte
-er nochmals...
+er nochmals …
 
 Das Boot knatterte bereits davon.
 
 Aber Karl Schlump wußte jetzt, was in den Teppichen
 steckte. Er war nicht dumm, der gemütliche Steward
-a. D., und er kannte ja die Tragödie des Hauses Pixcell
+a.&nbsp;D., und er kannte ja die Tragödie des Hauses Pixcell
 ganz genau.
 
 Keuchend lehnte er am Geländer der Brücke, hob
-den rechten Arm... Schuß auf Schuß schickte er dem
-Halunken nach... — und traf nicht!
+den rechten Arm … Schuß auf Schuß schickte er dem
+Halunken nach … — und traf nicht!
 
 »Mistkierl — — stopp!!« — und in seiner blinden
 Wut warf er die Pistole dem Boote nach.
@@ -2459,7 +2459,7 @@ stoppen mußte. Diesmal war die Jugend flinker als das
 besonnene Alter, diesmal leistete Kaptain Greap-Hutter
 jenes Heldenstück, das ihn, der fernerhin mehr Phantom
 des Schreckens als Wirklichkeit blieb, populär machte.
-»»Bleiben Sie sitzen!!«, und er allein schnitt dem
+»Bleiben Sie sitzen!!«, und er allein schnitt dem
 Flüchtling den Weg ab, schritt mit erhobener Waffe
 auf ihm zu, obwohl Pelcherson den Koffer niedergestellt
 und in jeder Hand einen langen Coldrevolver im Anschlag
@@ -2500,7 +2500,7 @@ solche Treffer ist der beste Chirurg machtlos.
 
 »Sind Sie des Teufels«, entschlüpfte es dem herbeieilenden
 Stadtoberhaupt. »Greap, er hatte ja die Hände erhoben,
-und...«
+und …«
 
 »Oh, dann muß ich im dem Moment an einer Sehstörung
 gelitten haben«, sagte Charly Greap kopfschüttelnd.
@@ -2508,15 +2508,15 @@ gelitten haben«, sagte Charly Greap kopfschüttelnd.
 im übrigen ist es für viele eine heilsame Lehre.« Greap
 schob die Waffe in die Tasche, denn vom Bootssteg her
 vernahmen wir laute Rufe und eine klingende Mädchenstimme,
-die immer wieder »Vater, mein lieber Vater..!« rief.
+die immer wieder »Vater, mein lieber Vater ...!« rief.
 —
 
-Spät abends saßen Brömmel, Schlump. Kaptain Greap
+Spät abends saßen Brömmel, Schlump, Kaptain Greap
 und wir beide noch im Gartenhause bei einer echt Hambörgschen,
 nicht absolut alkoholfreiem Grog zur Nachfeier beieinander.
 
 »Euer Fehler hier«, sagte Harst aus den Qualmwolken
-verschiedener Tabakfabrikate heraus, »war der... Wenn
+verschiedener Tabakfabrikate heraus, »war der … Wenn
 ihr die Erpresserbriefe sofort chemisch untersucht
 hättet, würdet ihr herausgefunden haben, daß all die
 Tränenspuren auf all den Schreiben gewöhnliches Wasser
@@ -2535,7 +2535,7 @@ Vermutungen dieses an sich sehr schneidigen und sympathischen
 Mädels —, werden Bellimer kaum hindern, sie zu heiraten,
 schätze ich, zumal für Gwenda keine Gefahr vererbter
 Krankheit vorliegt, wie Bellimer bereits sehr diskret
-festgestellt hat... Im übrigen beweist dieser Fall
+festgestellt hat … Im übrigen beweist dieser Fall
 wieder einmal, daß die moderne Kosmetik und Theatermaskenkunst
 es einem schlauen Burschen sehr leicht macht, sogar
 Lincoln Bellimer zu spielen und Pfeile abzuschießen,
@@ -2547,15 +2547,15 @@ war er Nicolas Grant. Schreiber im Stellenvermittlungsbüro
 Ein solches Vermittlungsbüro mit seinem ewigen Hin
 und Her von Menschenmaterial ist der beste Deckmantel
 für eine Verbrecherorganisation. — Sollen Sie nun eigentlich
-weiter vor der Oeffentlichkeit als Gangster-Fänger
+weiter vor der Öffentlichkeit als Gangster-Fänger
 verborgen bleiben, lieber Greap?«
 
-»Ja. Es muß wohl sein...«, und Charly seufzte
+»Ja. Es muß wohl sein …«, und Charly seufzte
 unmerklich.
 
 Harst lachte ihm heiter zu. »Stimmt, Dolly Peac
-hat verdammt hübsche Augen..! — Trösten Sie sich, auch
-Sie entgehen der Ehe nicht... Vorläufig müssen Sie
+hat verdammt hübsche Augen ...! — Trösten Sie sich, auch
+Sie entgehen der Ehe nicht … Vorläufig müssen Sie
 sich allerdings mit Brömmel 1 und 2 und Schlump 1 und
 2 als Ersatz begnügen. Wir wollen Ihnen noch so ein
 wenig helfen.«
@@ -2563,15 +2563,15 @@ wenig helfen.«
 Greap erwiderte zunächst nichts. Dann sagte er
 wieder in seiner so überaus sympathischen, frischen,
 jungenhaften Art: »Helfen?! Ist auch verdammt nötig,
-Mr. Harst... Der Zettel, den mir Wilkins vor fünf Minuten
+Mr. Harst … Der Zettel, den mir Wilkins vor fünf Minuten
 brachte, enthielt die Meldung, daß Mr. Jonathan Sheamers
 Luxusjacht »Star ob Michigan« vor einer Stunde samt
 vierzig Gästen, behängt mit Brillanten im Taxwert von
 acht Millionen, gekapert und entführt worden ist. Ich
-fürchte, das wird Scherereien geben...«
+fürchte, das wird Scherereien geben …«
 
 »Große Scherereien«, nickte Harst, »zumal hier
-anscheinend die allerreichsten Schafe geschoren wurden...«
+anscheinend die allerreichsten Schafe geschoren wurden …«
 
-Nächster Band: Der blinde Geiger.
+Nächster Band: *Der blinde Geiger*.
 
