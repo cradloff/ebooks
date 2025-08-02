@@ -140,7 +140,7 @@ trug, reichte ihr das Riechfläschchen, bedankte sich
 mehrmals und grinste dann nachsichtig. »Deutscher,
 Miß … Mein Herr und ich … Hamburger … Er meint es
 nicht so, der Kapitän, mein Chef, 2018 … Grob aber
-ehrlich, Habe mich daran gewöhnt, Miß … Werde auch
+ehrlich. Habe mich daran gewöhnt, Miß … Werde auch
 grob, und die Sache ist ausgeglichen …« Er zwinkerte
 fidel mit den kurzsichtigen Äuglein. »Was ich noch
 sagen wollte, Miß, — soeben kroch da ein halbwüchsiger
@@ -445,7 +445,7 @@ Er nickte auch Karl Schlump freundlich zu, schritt
 
 In diesem Vorderzimmer, das noch von Tageshelle
 erfüllt war, saß am Fenster hinter den dichten Stores
-Kapitän a. D. Anton Brömmel Nr. 2. — Und unweit davon
+Kapitän a.&nbsp;D. Anton Brömmel Nr. 2. — Und unweit davon
 saß in einen Klubsessel Karl Schlump Nr. 2 und rauchte
 eine dicke Zigarre.
 
@@ -482,7 +482,7 @@ Salomo gleicht — bis auf die lateinische Umschrift.
 Hiermit, denke ich, ist erwiesen, daß Miß Gostyl, die
 Ihr Haus damals unter einem Vorwand verließ, mit dem
 Michi-Gang, also den Entführern und Erpressern, zusammenarbeitet.
-Um ihr nun — Ich verfolge dabei bestimmte Absichten
+Um ihr nun — ich verfolge dabei bestimmte Absichten
 — einen heilsamen Schreck einzujagen, soll sie diesen
 Zettel sofort zurückerhalten. Der Umschlag ist schon
 getippt, ich male hier nur noch neben das Siegel ein
@@ -548,7 +548,7 @@ mehr menschliche Ruine, es waren nur noch Trümmer,
 morsche Steine, die jeder Fußtritt zu Staub zerfallen
 läßt.
 
-Ein leises Klopfen, — Ich stand bereits an der
+Ein leises Klopfen, — ich stand bereits an der
 Flurtür, und in ihrer lautlosen graziösen Art trat
 Miß Dolly Peac ein, Gwendas Herzensfreundin, eine Waise,
 die seit Jahren bei Pixcell wohnte. Sie war Vollblutamerikanerin,
@@ -604,7 +604,7 @@ Als wir Pixcells Auftrag annahmen, waren wir uns durchaus
 darüber im klaren, daß ein Kampf gegen die Chicagoer
 Gangsters (Bandenführer) und ihren bürgerlichen Anhang
 und ihre politischen heimlichen Freunde kein harmloses
-Florettfechten werden würde. Die ganze Weit ist inzwischen
+Florettfechten werden würde. Die ganze Welt ist inzwischen
 darüber informiert worden, was die Chicagoer Gangs
 zu bedeuten haben: Eine ungeheure Schande für eine
 Großstadt wie dieses Chicago, das in hundert Jahren
@@ -622,7 +622,7 @@ brauchte eben Ruhe, und dieser Teil des Gartens sollte
 von niemandem betreten werden. — Was die andere Seite
 der doppelten Persönlichkeiten Brömmel und Schlump
 betraf, hatte der Zufall bei der Herrichtung der notwendigen
-Masken für Hart und mich mitgeholfen. Die Kunst der
+Masken für Harst und mich mitgeholfen. Die Kunst der
 Verkleidung ist heute so weit vorgeschritten, daß es
 albern wirkt, wenn Romanschreiber behaupten, jede Perücke
 und jeder falsche Bart sowie Schminkennachhilfen im
@@ -733,7 +733,7 @@ ab und stellte die Wasserstiefel nebenbei. Was sich
 nunmehr beim Lichte der Taschenlampe zeigte, war ein
  bartloser Jüngling im Smoking mit blondem, kurzgeschnittenem
 Haar und verwaschen  blaue Augen. So erschien er Punkt
-Zehn bei uns, drückte uns die Hand und zog seine scharf
+zehn bei uns, drückte uns die Hand und zog seine scharf
 gebügelte Smokingbeinkleider sorgfältig hoch, als er
 sich setzte.
 
@@ -751,7 +751,7 @@ Sie *davon*? — Die Erpresser haben sich diesmal verfrüht.
 Bisher kamen die Briefe stets um das Monatsende, heute
 haben wir erst den 18. Mai. — Lesen Sie ...!«
 
-»Das schreiben lautete: »Lieber Pa, ich kann dir
+»Das Schreiben lautete: »Lieber Pa, ich kann dir
 nur berichten, daß es mir gut geht, wie du auch aus
 der beigefügten Photographie siehst. Schicke am 19.
 Mai durch den treuen Cools (das war der Hausmeister
@@ -949,7 +949,7 @@ der uns da ins Garn gegangen, war noch flinker gewesen:
 Die Grube war leer! — Nicht einmal Fußspuren waren
 zu finden.
 
-»*Der* kam auf Socken!«, sagte Harst erbittert,
+»*Der* kam auf Socken!«, sagte Harst erbittert.
 »Ein Jammer, daß er uns entging … Nun ist es zu spät.«
 
 Greap hatte bereits die Besinnung wiedererlangt,
@@ -1153,7 +1153,7 @@ Wieder überlegte die Negerin sehr gründlich.
 auch eine Frauenhand gewesen sein, — ich sprang ja
 auch sofort zur Seite, schrie, — — und weiter weiß
 ich gar nichts. Nur die Kreidestriche und das bißchen
-Blut im Salon werden mir viel Arbeit machen, — Wo ist
+Blut im Salon werden mir viel Arbeit machen. — Wo ist
 Miß Gostyl?!« — Sie schien doch mehr an ihrer Herrin
 zu hängen, als wir gedacht hatten. — Greap klärte sie
 mit wenigen Worten auf. Andromeda war ganz entsetzt
@@ -1503,7 +1503,7 @@ Anblick der von Lichtreklamen funkelden Michigan-Avenue
 genießt, spürt sofort den rasenden Pulsschlag dieser
 Wunderstadt, die in hundert Jahren das erreichte und
 überflügelte, wozu etwa London ein halbes Jahrtausend
-gebrauchte, Verdienen, leben, — hier spürt man es!
+gebrauchte. Verdienen, leben, — hier spürt man es!
 Sieht man diese Ungeheuer von Wolkenkratzern, diesen
 nimmermüden Verkehr in den Straßen, diesen Luxus neben
 kläglichster Armut, diese raffinierte Ausnutzung jeder
@@ -1516,7 +1516,7 @@ alle Länder, — hier wird das Phantastische zu nüchterner
 Tatsache, die blutige Sensation zu unabwendbarer Notwendigkeit.
 Wo Millionen, Milliarden an Geld kreisen und locken,
 finden sich auch die Habichte ein wie über einem reichen
-Herbstlichen Kartoffelacker voller leckerer Rebhühner.
+herbstlichen Kartoffelacker voller leckerer Rebhühner.
 Amerika, das Geburtsland der Riesentruste, des erbitterten
 Wirtschaftskampfes, gebar zwangsläufig auch die Konzerne
 der Gesetzesbrecher. Mit alltäglichen Mittel konnten
@@ -1556,7 +1556,7 @@ einen Spaten handhabte.
 Greap hielt uns zurück. »Zweifellos ist das John
 Pixcell, und wenn Pixcell nicht selbst der Gangster
 der Michi-Bande ist, will ich für alle Zeit Abstinenzler
-werden!«, flüsterte er sehr Selbstbewußt. »Ihre Theorie
+werden!«, flüsterte er sehr selbstbewußt. »Ihre Theorie
 in Ehren, Mr. Harst, — aber Pelcherson war und ist
 nur zweite Nummer, — Pixcell, die Dolly Peac, die Gostyl,
 der Hausmeister Cools, — alle stecken unter einer Decke!
@@ -2293,7 +2293,7 @@ grünüberzogenen Tisch mit den schweren Sesseln vorüber
 und blieb zitternd vor einem erhöhten, baldachinüberdachten
 Thronsessel stehen, auf dem in altertümlicher Tracht
 eine Wachsfigur saß, mit der Krone Salomonis' auf dem
-Haupte. — so lebensgetreu, daß man zunächst an ein
+Haupte, — so lebensgetreu, daß man zunächst an ein
 Wesen von Fleisch und Blut glauben konnte.
 
 »Gwenda!!«, kreischte John Pixcell so grell, daß
