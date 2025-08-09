@@ -100,7 +100,7 @@ und ich genügen. Der Treffpunkt mit Morris ist ja ein
 für allemal vereinbart.«
 
 Charly Greap machte aus seinem Erstaunen kein
-Hehl. Weshalb Sie beide, Harst?! Das kann doch Wilkiens
+Hehl. »Weshalb Sie beide, Harst?! Das kann doch Wilkiens
 allein besorgen.«
 
 »Ich habe meine Gründe. Die … Zwiebel gefällt
@@ -119,7 +119,7 @@ Bach den niedergebrannten Holzplatz begrenzt, sah ich
 in dem dünnen Nebel zwei Gestalten, die mit Taschenlampen
 operierten. Lassen Sie uns Morris holen, lieber Greap,
 wir alte Knaben haben auch etwas von Checagua im Blute,
-etwas Indianischen Spürsinn, Kenntnis in Anschleichen
+etwas Indianischen Spürsinn, Kenntnis im Anschleichen
 und einen untrüglichen Instinkt für drohende Gefahr,
 — allerdings mit Zwiebelduft können wir nicht aufwarten,
 den lieben die Deutschen nicht.«
@@ -138,7 +138,7 @@ an dem Bart und Schnurrbart befestigt waren.
 
 »Mag sein, — komm Schraut, wir werden uns beeilen.«
 
-Greap zuckte leicht die Achseln, »Wie Sie wollen,…
+Greap zuckte leicht die Achseln. »Wie Sie wollen …
 Ich begleite Sie.« Und dieser Nachsatz bewies, daß
 er durch Harsts ungewisse Vorahnungen doch mit angesteckt
 worden war.
@@ -217,11 +217,11 @@ Rüden mit echtem Wolfsbluteinschlag seit langem für
 Kanada und die Vereinigten Staaten aufzieht.
 
 Weylt hielt die Tiere, die uns anknurrten, mit
-scharfem Ruck zurück, »Ich war bis unten am Bach, Mr.
+scharfem Ruck zurück. »Ich war bis unten am Bach, Mr.
 Harst«, flüsterte er. »Es mögen Lumpensammler gewesen
 sein … Trotzdem — irgend etwas liegt in der Luft, die
 Hunde sind so unruhig, und vor kurzem war es mir, als
-ob ich von weither«, -- er deutete nach Nordost — »einen
+ob ich von weither«, — er deutete nach Nordost — »einen
 Schrei hörte. Mag auch eine verschlafene Krähe gewesen
 sein, das Viehzeug hat es hier auf tote Katzen und
 Fleischabfall am Bachrand abgesehen — ekelhaft!«
@@ -521,12 +521,12 @@ hinpfiff.
 
 Er sandte mir einen scharfen Blick zu.
 
-"... Also ... wilde Zwiebel, du Racker!! Eigentlich müßte ich
-blonder Satan sagen..."
+»… Also … wilde Zwiebel, du Racker!! Eigentlich müßte ich
+blonder Satan sagen …«
 
 Und damit schritt er zum Wandtisch,
 hob den Hörer vom Telephon und sprach in die Muschel:
-»Hallo, -- — hier Außenwache … Kaptain, ein feiner Fang!
+»Hallo, — — hier Außenwache … Kaptain, ein feiner Fang!
 Wilde Zwiebel!! Schicken Sie doch bitte noch zwei Mann
 hierher. Die Geschichte ist brenzlich. Offenbar sind
 wir verraten worden.«
@@ -541,13 +541,13 @@ oder Checa Gua besser … also Checa Gua-Gang, und die
 Banditen sollen sehr viel mit Weibern operieren, sollen
 hübsche Mädels verschwinden lassen, — sie kennen
 ja die Preise: Für erste Ware zehntausend Dollar! —
-nun erzählen Sie mal schnell, aber leise.«
+Nun erzählen Sie mal schnell, aber leise.«
 
 Mein Bericht schien ihn durchaus gleichgültig
 zu lassen. »Böse Sache für das Mädel da«, knurrte er
 nur. »Erstens wird sie natürlich keinen Waffenschein
 haben, und ihre Pistole ist allzu tadellos geölt, nämlich
-auch mit Patronen, und zweitens wird man sie über Morris'
+auch mit Patronen, und zweitens wird man sie über Morris’
 Marterpfahlzustand so eingehend verhören, daß sie bestimmt
 ihre Komplicen, die Herren Lassowerfer, nennt, und
 dann das Ende vom Liede: Sehr vollgeschüttelt Maß Zuchthaus!!
@@ -658,8 +658,8 @@ mochte im Vergleich zu mir noch als Caruso-Platte gelten
 können. »Wißt ihr, wer sie war?«, quälte ich hervor.
 
 Greaps erheblich umwölktes Gesicht tauchte nun
-ebenfalls auf, »Wer war es denn? Wilkiens ist noch
-ohnmächtig"
+ebenfalls auf. »Wer war es denn? Wilkiens ist noch
+ohnmächtig.«
 
 »Roxy Liston, Steuermann des Schönheitsvierers,
 Meisterschwimmerin — — und so!«, erklärte ich unter
@@ -732,18 +732,18 @@ dieser Weylt ist! Na warte, Bürschchen!«
 
 Harst rauchte in seiner Ecke und warf wie warnend
 ein: »Vielleicht gewinnt die Sache nachher ein ganz
-anderes Aussehen!
+anderes Aussehen!«
 
 Wir befanden uns noch droben in der Norfolk-Street,
 — hinter uns her kam ein schweres Motorrad in unheimlichem
 Tempo.
 
 Mochte der Fahrer auch Autobrille tragen, Greap
-kannte seine Leute, »Das war Tom Weylt!«, rief er in
+kannte seine Leute. »Das war Tom Weylt!«, rief er in
 ungeheurer Erregung. »Wilkiens, jagen Sie den Taxichauffeur
 zum Teufel, fahren Sie!!«
 
-»Der blonde Hüne meinte nur bitter: »Kaptain,
+Der blonde Hüne meinte nur bitter: »Kaptain,
 Weylt holt niemand ein. Aber — der Teufel wird ihn
 holen, den Halunken!«
 
@@ -873,7 +873,7 @@ mich hier im Büro ein. Sie sehen, daß die Fenster durch
 Eisenläden von innen gesichert sind, dort steht der
 Geldschrank des Klubs, der häufiger annehmbare Summen
 enthält — annehmbar für Langfinger, Mr. Hutter.« Sie
-lächelte über den billigen Scherz. Ich machte mir 
+lächelte über den billigen Scherz. »Ich machte mir 
 dieser ganzen Sache wegen weiter keine Kopfschmerzen,
 — weshalb auch?! Nach einiger Zeit jedoch hörte ich
 — ich saß im Dunkeln hier —, daß die Tür ganz leise
@@ -915,7 +915,7 @@ Also das war es! Sie hatte Sorge, ihren Posten
 als Trainerin zu verlieren.
 
 »Das wäre allerdings außerordentlich rücksichtslos
-von dem Klubvorstand<<, meinte Harst liebenswürdig.
+von dem Klubvorstand«, meinte Harst liebenswürdig.
 »Eine Rücksichtslosigkeit, Miß Gizty, die bestimmt
 unterbleiben wird, dafür wird Kaptain Hutter seinen
 Einfluß schon einsetzen. — Kommen Sie, Hutter, schauen
@@ -925,7 +925,7 @@ können der Miß Gesellschaft leisten.«
 Als wir drei draußen in der Vorhalle standen,
 die gleichzeitig als Wohndiele sehr behaglich eingerichtet
 war, trat Charly Greap dicht an Harst heran und flüsterte:
-»Was halten Sie von alledem?<<
+»Was halten Sie von alledem?«
 
 Die Antwort erfolgte noch leiser. »Ich finde,
 es riecht hier stark nach Zwiebel, mein lieber Greap,
@@ -957,7 +957,7 @@ Tür des Haupteingangs vorsichtig ins Schloß.
 Es gab da zwei Riegel, und im schob sie vor.
 
 Ich hatte das Gefühl, daß mein Freund mit unangenehmen
-Zwischenfällen rechnete, »Weißt du«, sagte er gedämpft,
+Zwischenfällen rechnete. »Weißt du«, sagte er gedämpft,
 »die Sache Weylt war mir ja von vornherein klar.
 Tom Weylt und Roxy Liston sind ein Liebespaar, er hatte
 sie für die Zeit seiner Wache in die Nähe des Hauptquartieres
@@ -976,7 +976,7 @@ könnte daraus allerhand schließen, aber — im warne!
 Was mir zu denken gibt, Weylts Motorradfahrt hierher.
 Ich glaube fast, er …« — Harst brach mitten im Satz
 ab. »Wer, meinst du, nagelte Kaptain Morris an den
-Marterpfahl, wer suchte Miß Bekka zu erstechen?!- Dieselbe
+Marterpfahl, wer suchte Miß Bekka zu erstechen?! Dieselbe
 Hand tat es, und ob diese Hand, die die ungeheure Kraft
 besaß, gerade nach Checa Gua duftete, bezweifle ich.
 Morris fand in dem leeren Vierer eine leere Zwiebel
@@ -1222,7 +1222,7 @@ das versprochen, was wirklich geschah: Wir kamen, wir
 drei, Greap, und wir sollten Giftpillen erhalten und
 in die Ewigkeit hinüberschlummern …«
 
-Greap nickte, »Das stimmt, das sehe ich ein. —
+Greap nickte. »Das stimmt, das sehe ich ein. —
 Ich werde telephonieren. Das Frauenzimmer nehmen wir
 mit in unser Zementquartier, und die da auf dem Bett
 kommt ins Polizeigefängnis.«
@@ -1248,7 +1248,7 @@ Seil über den Weg gespannt?!«
 Greap besaß heute wenig Sinn für Ironie.
 
 »Unsinn«, platzte er heraus. »Also was mir über
-den »Kleinen Greifer« bekannt ist? so hieß er nämlich
+den »Kleinen Greifer« bekannt ist? So hieß er nämlich
 in Newyork bei den lieben Freunden, die uns unseren
 Beruf erst ermöglichen. Er war schon dort auf Manhattan
 ein verteufelt scharfer Knabe, sage ich Ihnen. Er diente
@@ -1290,9 +1290,9 @@ von der Dutzendware bei der Gestochenen. Übrigens,
 Mr. Harst: Der Kaptain raunte mir soeben zu, er hätte
 sich da über Miß Gizty eine besondere Theorie gebildet.«
 
-»So?!« — Hm, ob er auch annimmt, daß diese Trainerin
+»So?! — Hm, ob er auch annimmt, daß diese Trainerin
 mit den Muskeln eines Preisringers Messer acht Zentimeter
-tief in eine Pappel stößt?!’
+tief in eine Pappel stößt?!«
 
 Wilkiens lachte knurrend. »Ich jedenfalls nehme
 das an, und der Kaptain ist auch nicht auf den Kopf
@@ -1384,7 +1384,7 @@ Visitenkarte. Harst steckte es eiligst zu sich.
 
 Ich blendete die Laterne ab.
 
-»Gehen wir … Mir ist heiß geworden …<<, — und er
+»Gehen wir … Mir ist heiß geworden …«, — und er
 fächelte sich mit dem steifen Filzhut, der leider mehrere
 Pfund wog, Kühlung zu.
 
@@ -1460,7 +1460,7 @@ noch eine Fabrik für Patentmedizinen haben. Dieser
 Doktor Foulton Barbellere fristete sein Dasein als
 Vertrauensarzt verschiedener Sportvereinigungen und
 wohnte in allernächster Nähe im Klubhaus des Rudervereins
-»Chicago 1919«, Er war ein gesprächiger, liebenswürdiger
+»Chicago 1919«. Er war ein gesprächiger, liebenswürdiger
 Junggeselle, aber sein galliger Humor und seine bittere
 Selbstironie, die sich in schlagfertigen, geistvollen
 Sätzen äußerte, enthüllten zuweilen seinen Seelenzustand.
@@ -1607,7 +1607,7 @@ Leute zwischen fünfzig und sechzig.
 »… Als ich mich in das Bootshaus eingeschlichen
 und mich umgezogen hatte, begab ich mich zu dem Stelldichein
 mit Tom … Und … das war mit am furchtbarsten, meine
-Herren, -- — ich sollte … Tom bestehlen!!«
+Herren, — — ich sollte … Tom bestehlen!!«
 
 Greap gab ihr abermals einen Schluck Wein zu trinken.
 Sie stand dicht vor einer endgültigen Ohnmacht, ihre
@@ -1631,7 +1631,7 @@ Harst säuberte bedächtig das Zinkplättchen mit
 seinem Taschentuch und hielt es dann mir und Greap
 hin.
 
-»Auch die umstehenden Elite-Leute beugten sich
+Auch die umstehenden Elite-Leute beugten sich
 vor.
 
 Auf der einen Seite des Täfelchen war roh eingestanzt:
@@ -1695,13 +1695,13 @@ sollen, lieber Greap.«
 
 »Auch da …«
 
-»Nicht genügend. —« Und dann: Wie starb Bekka
+»Nicht genügend. — Und dann: Wie starb Bekka
 Gizty? Herzschwäche?«
 
 Alle blickten wir Harst unsicher an.
 
 »Lieber Greap, Sie sind Achtundzwanzig, ich bin
-Vierzig. Mit sechzundzwanzig verlor ich meine Braut
+Vierzig. Mit Sechsundzwanzig verlor ich meine Braut
 und quittierte den Justizdienst und wurde, was ich
 noch heute bin: Privatmann mit dunkler Praxis, die
 mir nichts als  Dank und von den dunklen Elementen
@@ -1720,7 +1720,7 @@ Wutanfall jäh verstummte und sich emporrichtete. Vergleichen
 wir die Zeit, so ergibt sich, daß damals, das heißt,
 als die Gizty hochschnellte, Roxy Liston noch nicht
 hier war, sie kam erst dreißig Minuten später und weinte
-und jammerte sehr echt."
+und jammerte sehr echt.«
 
 Er sog an seiner Zigarette. »Die Gizty starb durch
 einen Stich, der sie von unten her auf dem Sofa im
@@ -1809,7 +1809,7 @@ die vorgewölbte Brust — eines Weibes! Es war Bekka
 Gizty, — Sie haben sie mir ja beschrieben, Hutter.
 Sie holte zu einem zweiten Stiche aus, und der hätte
 mich erledigt, aber — ein Wunder geschah, von Süden
-her schrie eine helle Stimme: Vorsicht, Checa Gua,
+her schrie eine helle Stimme: »Vorsicht, Checa Gua,
 — — fliehen!!« Und da rissen die Schufte aus! — Wer
 schrie, frage ich?! Wer rettete mich? Ohne Zweifel
 war es ein Weib, es war, denke ich, Roxy Liston!«
@@ -1974,7 +1974,7 @@ wie ein Washington, Grant, Logan … —
 
 Das Auto hielt.
 
-Hier im Vorderteil am Seeufer war es noch still,
+Hier im Vorderteil am Seeufer war es noch still.
 Verschlafen standen die Detektive umher, die hier gewacht
 hatten.
 
@@ -1995,10 +1995,10 @@ Wilkiens schließt auf, macht Licht, und wir gehen
 die Treppen hinan. Wilkiens erklärt, er würde sich
 mal etwas im Kellerchen umtun. Oben im Flur begegnet
 uns der stämmige Bootswart mit Besen und Schaufel.
-Ein Staubsauger steht auf dem Läufer, »Ich wollte gerade
+Ein Staubsauger steht auf dem Läufer. »Ich wollte gerade
 absaugen, Kaptain …«
 
-»Absaugen?! Absaufen!!, witzelt Charly. »Nein,
+»Absaugen?! Absaufen!!«, witzelt Charly. »Nein,
 — bleiben Sie getrost, der Flur interessiert uns nicht.«
 Er schließt Miß Bekkas Zimmer auf, in dem die Billardkugel
 ein Mädchen niederwarfen, das nun im Polizeilazarett
@@ -2036,7 +2036,7 @@ etwas sehr breit ist.
 Greap sieht zu. Das Zündholz erlischt sofort.
 Der Staubsauger schnurrt weiter.
 
-»Hm …!, macht Harst. »Wollen wir wetten, daß der
+»Hm …!«, macht Harst. »Wollen wir wetten, daß der
 Bootswart entweder tot oder betäubt ist?«
 
 Charly will zur Tür, wird gepackt, zurückgerissen
@@ -2173,10 +2173,10 @@ und der kleine alte Herr mit dem kahlen Schädel und
 dem trüben Gesicht kommt ärgerlich herangestelzt.
 
 »Eine ganz verdammte Bude dies!«, schimpft er
-aufgebracht. »Man kommt überhaupt nicht mehr zum schlafen!
-»Was ist denn jetzt wieder los, Kaptain Hutter? — Morgen
+aufgebracht. »Man kommt überhaupt nicht mehr zum Schlafen!
+Was ist denn jetzt wieder los, Kaptain Hutter? — Morgen
 meine Herren … Wahrhaftig, ich bin kein Unmensch, aber
-in meinem Alter,— Sie verstehen … man braucht Schlaf
+in meinem Alter, — Sie verstehen … man braucht Schlaf
 und Ruhe.«
 
 Er untersucht den Bootswart und läßt sich das
@@ -2260,7 +2260,7 @@ Der Doktor deutete ein Achselzucken an. »Ich wünsche
 Ihnen ja alles Gute, aber … — ehrlich! — ich verspreche
 mir nicht viel von Ihren Maßnahmen. Sam Yoel — falls
 er noch lebt — wird noch mehr Staubsauger-Ideen zur
-Verfügung haben, denke ich. — Er war nicht niedergeschlagen,
+Verfügung haben, denke ich ...« — Er war nicht niedergeschlagen,
 nur sehr gleichgültig gegen alles, was seiner wartete.
 Er stopfte sich seine billige, alte Holzpfeife und
 rauchte gelassen einen noch billigeren Tabak, vor dessen
@@ -2291,7 +2291,7 @@ heiteren Morgen ein wenig heiterer Stimmung zu Greaps
 Hauptquartier zurück. Keiner sprach, wir waren hundemüde
 und abgespannt, und unser Schweigen enthielt nicht
 die oft zitierte Beredsamkeit. Wir standen einem großen
-Rätsel gegenüber, — Als wir zu Fuß über die öden, wüsten
+Rätsel gegenüber. — Als wir zu Fuß über die öden, wüsten
 Bauparzellen zum Wache hinabschritten, sagte Harst
 ganz unvermittelt: »Wissen Sie, was ein »stilles« Konto
 ist, Greap?«
@@ -2320,7 +2320,7 @@ Ich schlief noch wie ein Toter, als ein furchtbarer
 Krach mich hochfahren ließ.
 
 »Nur ein schweres Gewitter«, beruhigte Wilkiens,
-der einen Hörer übergestülpt hatte. "Es muß in der
+der einen Hörer übergestülpt hatte. »Es muß in der
 Nähe eingeschlagen haben … schlafen Sie nur ruhig weiter,
 Mr. Schraut … Es ist erst sieben Uhr nachmittags, und
 wahrscheinlich gibt es wieder eine sehr lebhafte Nacht.«
@@ -2472,7 +2472,7 @@ sagte sehr unhöflich und deutete auf die Flügeltür,
 wo Wilkiens grinsend seinen Kugelspucker montierte
 und drei andere von der Elite ihre Pistolen liebevoll
 streichelten, — *sehr* unhöflich sagte er! »Bleiben Sie
-sitzen! Keiner verläßt den Saal!!’
+sitzen! Keiner verläßt den Saal!!«
 
 »Unerhört — — Vergewaltigung … Frechheit …« —
 aber der empörte Chor verstummte, als Wilkiens den
@@ -2481,12 +2481,12 @@ Lauf des Spuckers herumschwenkte.
 Die Hausdurchsuchung begann. Greap mit dem Hunde
 am Riemen ließ sich jetzt durch das Gejammer der Bootswartsfrau
 nicht stören, das Weib war von Sinnen oder betrunken,
-… »Nette Perle für »Chicago 1920« …!, sagte Kaptain
+… »Nette Perle für »Chicago 1920« …!«, sagte Kaptain
 Greap-Hutter etwas drohend.
 
-Als wir dann auch als letzten der Bootsraum betraten,
+Als wir dann auch als letzten den Bootsraum betraten,
 wo die schmalen, sauber geölten Einer, Zweier, Vierer
-und Achter wie verwöhnte Damen sehr zart aus Gestellen
+und Achter wie verwöhnte Damen sehr zart auf Gestellen
 ruhten, als Greap die Flügeltüren, die zu den Bootsbrücken
 nach dem See führten, aufschieben ließ, zeigte der
 endlose Michigan uns das wunderbare Bild einer lächelnden
@@ -2563,8 +2563,8 @@ im Teppichgewebe liegen lassen, und wenn es noch so
 wenige sind. Und alte Stiefel tragen und derart schäbige
 Hosen und dann noch mit einer Blechmarken-Todesdrohung
 operieren, — — oberfaul!! Nun befindet sich Ihre Oberzwiebel
-unterwegs nach Newyork … selbstredend auch verkleidet,
-— Selbstredend mit der ganzen Vereinskasse … Die im
+unterwegs nach Newyork … Selbstredend auch verkleidet,
+— selbstredend mit der ganzen Vereinskasse … Die im
 Mauerwerk versteckte Schatulle ist nämlich leer. Houston,
 zeigen Sie mal, wie leer sie ist!«
 
