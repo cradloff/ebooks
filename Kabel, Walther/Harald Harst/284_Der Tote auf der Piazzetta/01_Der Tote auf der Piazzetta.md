@@ -81,10 +81,10 @@ im Sommer so zahllose Fremde drüben am Lido …«
 Die Gondel landete an der Freitreppe des ehemaligen
 Palazzo Kontarini, der mit seiner schmalen Marmorfront
 und dem kleinen Garten seit vielen Jahren, als die einzige
-Nobile-Familie verarmte, in fremde Höhe übergegangen war.
+Nobile-Familie verarmte, in fremde Hände übergegangen war.
 Der letzte des Geschlechts bewohnte nur als Mieter das Erdgeschoß,
 lebte sehr bescheiden und unterhielt keinerlei Verkehr
-mit dem feisten derartigen Besitzer, einem reichen englischen
+mit dem feisten derzeitigen Besitzer, einem reichen englischen
 Kriegsverdiener, der droben in den drei Stockwerken
 mit Frau und Töchtern hauste und sich wütend ärgerte, daß
 der letzte Kontarini durch die Klauseln des Verkaufvertrages
@@ -454,7 +454,7 @@ Mithin für Venedigs blutige Vergangenheit eine sehr
 wenig neuartige Geschichte.
 
 Harst betrachtete trotzdem das Bild mit ungewöhnlichem
-Interesse. Die Figur der Giovanna war von dem Dieser freilich
+Interesse. Die Figur der Giovanna war von dem Maler freilich
 äußerst liebevoll behandelt worden, ein Mondstrahl, der
 zwischen Gewölk auf dem Canal Grande und die Gondel herabfiel,
 beleuchtete das geisterhaft bleiche Gesicht sehr scharf,
@@ -514,7 +514,7 @@ bekommen?«
 Die Tür fiel ins Schloß. — Kontarini fragte leise: »Was
 bedeutete diese Hunger-Episode, Harst?!«
 
-»Daß Sie Ihren eigenen Palazzo oder auch Ihrem einfachen
+»Daß Sie Ihren eigenen Palazzo oder auch Ihren einfachen
 Familienstammsitz sehr wenig kennen … Oder — — daß Sie
 ein wenig heucheln, mein lieber Freund.«
 
@@ -592,7 +592,7 @@ also auf der noch vorhandenen steht, sollen Sie selbst sehen
 und hören.«
 
 Er stand etwas müde auf, öffnete den breiten, schweren,
-überreich geschnitten Bücherschrank, dessen Eichenholz im Laufe
+überreich geschnitzten Bücherschrank, dessen Eichenholz im Laufe
 der Jahrhunderte eine braungrüne Farbe angenommen hatte,
 und entnahm einem in den Schrank eingebauten, ebenso altertümlichen
 Eisenkasten mit drei Kunstschlössern ein dickes, großes
@@ -613,7 +613,7 @@ begann mitten in einem Satz:
 Hoffnung mehr, das Verschwundene jemals wiederzufinden,
 und es wäre zweckloses Bemühen, daß die unseres
 Geschlechts, die nach mir diese Chronik füllen werden, dem
-durch eine Kranke in krankhaften Wahn vielleicht im
+durch eine Kranke in krankhaftem Wahn vielleicht im
 Meere Versenkten nachjagen und suchen und suchen, wie
 ich gesucht habe.«
 
@@ -622,7 +622,7 @@ Kontarini lehnte sich zurück und erklärte weiter: »Mündliche
 die Edelsteine haßte, weil ihr Verlobter mit einem Dolche,
 dessen Griff reich mit Diamanten und Smaragden verziert
 war, ermordet wurde. Man nimmt an, sie habe mit Hilfe
-des ihr Sehr ergebenen Gondelführers die Eisentruhe eines
+des ihr sehr ergebenen Gondelführers die Eisentruhe eines
 nachts in ihre Gondel getragen und die Truhe irgendwo
 über Bord geworfen. — Ich bezweifele dies. Die Truhe …!«
 — er blätterte in der Chronik zurück — »wog etwa drei
@@ -630,7 +630,7 @@ Zentner. Hier ist sie beschrieben: Ein Eisenkasten von ein
 Meter Länge, sechzig Zentimetern Höhe und Breite mit zwei
 Deckeln. Der obere von Eisen, mit Silber und Kupfer verziert,
 der innere ohne Gelenke, nur an Handgriffen herauszuheben
-und ebenfalls mit Kunstschlösser versehen und aus
+und ebenfalls mit Kunstschlössern versehen und aus
 reinem Messing, fünf Zentimeter dick. — Ich bezweifele deshalb
 die Vermutung meiner Ahnen, die Truhe sei versenkt
 worden, weil sie für zwei Personen zu schwer war. Sie wurde
@@ -692,7 +692,7 @@ etwas zeigen.«
 Ich möchte hier meinen Lesern und Freunden etwas in
 Erinnerung rufen. Die Zeitungen im Mai 1922 berichteten
 darüber ausführlich. — Viele der jetzigen Hotels in Venedig
-sind alte, umgebaute Palazzi. In einem Solchen Hotel stieg
+sind alte, umgebaute Palazzi. In einem solchen Hotel stieg
 im Mai 1929 ein Amerikaner ab, ein Journalist, der ein kleines
 billiges winkliges Zimmer nahm. Der Mann hatte Interesse
 für diese uralten Bauten, und da rechts und links von
@@ -785,7 +785,7 @@ diesen Schacht kennt?«
 
 Gitta Simmons verneinte sofort. »Ich fand die Tür
 im Wandgetäfel ganz zufällig. Diese Tür liegt in dem Alkoven,
-der an mein Zimmer stoßt.«
+der an mein Zimmer stößt.«
 
 »Und in diesem Zimmer übten Sie heute Blasrohr schießen
 …«
@@ -841,6 +841,7 @@ uns dann an dem Eisentürchen erwarten, Miß Simmons?«
 »Gern«, — und sie huschte davon, — Kontarini schüttelte
 energisch den Kopf, und ich meinte nur leise: »Komisch — sie
 ist beruhigt!«
+
 <@pagebreak/>
 »Wie ich, mein Alter«, und Harst ging zu dem kleinen
 Betschemel, hob ihn empor und zeigte uns die Unterseite des
@@ -870,7 +871,7 @@ Stockwerkes gab es genau dieselbe Plattform, Nische und
 Eisentür wie eine Treppenwindung tiefer. Hier blieb Harst
 stehen. Er holte aus der Tasche zwei Schloßsicherungen hervor
 — von jener Art, die sich in die Schlüssellöcher einschrauben
-fassen. Im Nu hatte er sie befestigt. »So, jetzt kann der
+lassen. Im Nu hatte er sie befestigt. »So, jetzt kann der
 Betreffende diese Tür nicht benutzen, Kontarini, und die zweite
 unten wird Gitta bewachen. — Was liegt hinter dieser Tür?«
 
@@ -888,7 +889,7 @@ etwas geringschätzig, dies »die anderen«) kehren immer erst
 sehr spät heim. Ich hatte Kopfschmerzen vorgeschützt.«
 
 Worauf Harald launig bemerkte: »Eine Schützin schützt
-leicht etwas vor …«, — was wiederum, ein flüchtiges Erröten
+leicht etwas vor …«, — was wiederum ein flüchtiges Erröten
 zur Folge hatte. Und dann sah Gitta allerliebst und
 garnicht mehr so eisig-kühl aus.
 
@@ -1041,7 +1042,7 @@ durch Umbau abgeschlossen und daß die Gartenseite
 des Palastes, auch der Vorsprung des Schachtes, mit echtem
 Wein, Efeu und anderen Kletterpflanzen bis zur halben Höhe
 des zweiten Stockwerks dicht bewachsen waren. Der Schacht
-hatte in der Größe des Daches einen Schornstein, der in den
+hatte in der Höhe des Daches einen Schornstein, der in den
 Mauern des Schachtes emporlief und dem Rauch der Küchenfeuer
 früher Abzug gewährte. Er galt als Ganzes für einen
 Schornstein, der nunmehr nach Anlage von Kochgasleitungen
@@ -1080,7 +1081,7 @@ an einen Einzigen ihr Herz verschenken und dieses heiße Herz
 unter der Maske eisiger Zurückhaltung verbergen. Ein famoses
 Mädel jedenfalls, und was ich tun kann, — sie soll
 ihren schlanken Tiepolo haben!« Er sagte das alles so warm
-und voll ehrlichen Gefühls, da ich recht gut merkte, wie sehr
+und voll ehrlichen Gefühls, daß ich recht gut merkte, wie sehr
 ihm noch in dieser Stunde die Erinnerung an sein eigenes kurzes
 Liebesglück vorschwebte.
 
@@ -1122,7 +1123,7 @@ nicht gekommen, deckt sich mit meinen eigenen Beobachtungen.
 Ich sah die Gondel heute abend ganz deutlich, ich faßte
 sie schon von weitem ins Auge. Weder die bleiche Frau noch
 der Gondoliere handhabten irgend etwas, das zum Abfeuern
-eines Solchen Pfeiles geeignet wäre. Daran ist nun mal nichts
+eines solchen Pfeiles geeignet wäre. Daran ist nun mal nichts
 zu rütteln.«
 
 Harsts Mundwinkel zogen sich nach unten. »Alsdann
@@ -1296,7 +1297,7 @@ herausschrauben, du trommele gegen die Tür … Nur zu!! Es
 geht hier ums Leben, und …«
 
 Wir prallten zurück, — die Tür flog auf, und vor uns
-stand in einem Sehr eleganten schwarzseidenen Schlafanzug mit
+stand in einem sehr eleganten schwarzseidenen Schlafanzug mit
 violetten Aufschlägen der patente Hans …
 
 Sein Monokel funkelte böse, und seine Stimme war noch
@@ -1326,7 +1327,7 @@ Simmons-Gefilde zurückkehrte. Ich werde jetzt zunächst die
 Haupthähne von Gas und Wasser unten im Keller abstellen.
 Bleibt so lange hier.«
 
-Der lange Haus ist kein Parlamentarier. Kürze — —
+Der lange Hans ist kein Parlamentarier. Kürze — —
 Würze, — und weg war er.
 
 »Offenbar«, sagte Harald, »ist Lückes Rolle hier als
@@ -1356,7 +1357,7 @@ energisch, daß der englische Diener prompt gehorchte. Von
 Ansehen kannte er uns bestimmt … Ob er wohl ahnte, daß
 hier nicht alles so war, wie es sein sollte?! Es schien fast so.
 Seine Dienstbeflissenheit war zu widerspruchslos gegenüber
-zwei triefenden Fremden, die hier nichts zu Suchen hatten.
+zwei triefenden Fremden, die hier nichts zu suchen hatten.
 Gittas Tür war nur eingeklinkt.
 
 Nur …!
@@ -1367,7 +1368,7 @@ das Licht einschalteten, lag die blonde Gitta wie leblos in
 ihren Kleidern auf dem Bett.
 
 Harst beruhigte mich. »Nur betäubt — keine äußeren
-Verletzungen, Puls tadellos,« — Und zu dem Diener, der ehrlich
+Verletzungen, Puls tadellos.« — Und zu dem Diener, der ehrlich
 entsetzt dabeistand: »Holen Sie sofort einen Arzt — sofort!
 Kümmern Sie sich um nichts anderes, und etwas flinke Beine,
 sonst sitzen Sie sehr bald in einer Zelle, mein Lieber!«
@@ -1425,7 +1426,7 @@ am Spieltisch? Es ging da recht lebhaft her … Wohl recht
 hohe Einsätze beim Roulette, nicht wahr?! Verliert der junge
 Lord Fitzmoor noch immer? Und ist Sir Hawances Pechsträhne
 noch nicht zu Ende? Ich glaube, es gibt hier in Italien
-ein Sehr unangenehmes Gesetz gegen heimliche Glücksspiele,
+ein sehr unangenehmes Gesetz gegen heimliche Glücksspiele,
 und wenn ich mich nicht sehr irre, kann die Polizei sogar den
 Zwangsverkauf von Häusern anordnen, deren Besitzer Hazard
 dulden, was bei Ihnen unbedingt vorliegt … Meiner
@@ -1521,7 +1522,7 @@ Sehr peinliches Schweigen folgte.
 Der Lord winkte einem anderen Herrn. »Howard, verlassen
 wir dieses Haus …!«
 
-Euch andere Damen und Herren machten jetzt aus ihrer
+Auch andere Damen und Herren machten jetzt aus ihrer
 Empörung weiter kein Hehl. Er gab eine sehr geräuschvolle
 Szene …
 
@@ -1534,7 +1535,7 @@ sehen.«
 
 »Dann bitte ich Sie, Mylord, die Spielverluste der anständigen
 Gäste notieren zu wollen und dafür zu sorgen, daß
-niemand den Saal verläßt. Ich schickte Ihnen einige Beamte
+niemand den Saal verläßt. Ich schicke Ihnen einige Beamte
 herauf … Wiedersehen, Mylord.«
 
 Einige der »Herrschaften« waren grau angelaufen und
@@ -1581,7 +1582,7 @@ verriet nichts. Der Mann hatte sich fabelhaft in der
 Gewalt.
 
 Harst schlug ein Bein über das andere und musterte seine
-nassen Schuhe. »Gut, reden wir vernünftig. Mir Soll es recht
+nassen Schuhe. »Gut, reden wir vernünftig. Mir soll es recht
 sein. — Sie sind seit Jahren pleite, Herr Simmons … Wie gewonnen,
 so zerronnen. Unrecht Gut gedeihet nicht. Diesen
 Palazzo kauften Sie von dem Vermögen Ihrer Tochter
@@ -1615,7 +1616,7 @@ die …«
 sein Quälgeist nachsichtig. »Sie müssen da unbedingt
 unterscheiden lernen zwischen einer besten Gesellschaft, die sich
 lediglich selbst für die beste hält, und für die wirklich beste,
-die eine Sehr feine Witterung für Pseudogentlemen hat, die
+die eine sehr feine Witterung für Pseudogentlemen hat, die
 sich durch äußeren Lack und jene ebenfalls überlackierte Frechheit
 und Anmaßung, deren Ursprung in Banknoten zu suchen
 ist, nie täuschen läßt. Taktgefühl wird ererbt, und erben
@@ -1689,7 +1690,7 @@ gefunden. — Und Ihre Beweise?«
 »Bitte!«
 
 Harst zog die zusammengefaltete schwarze Gesichtsmaske
-aus der Tasche…
+aus der Tasche …
 
 »Dieses Ding und den Umhang ließen Sie in Guido
 Garnassos Zimmer zurück, Lücke ließ sich täuschen, ich fürchte,
@@ -1737,7 +1738,7 @@ Stirnlöcher schieße. — — Guten Abend …«
 
 Simmons machte eine gebieterische Handbewegung.
 »Bleiben Sie, Herr Harst. Dieser Unsinn muß aus der Welt
-geschafft worden. Ihre Verdächtigungen treffen mich in keiner
+geschafft werden. Ihre Verdächtigungen treffen mich in keiner
 Weise. Ich habe dieses Zimmer seit der Rückkehr aus dem
 Theater nicht verlassen, ich hatte zu arbeiten. Ich weiß nichts
 von Geheimtüren, nichts von einem Schacht, ich …«
@@ -1798,7 +1799,7 @@ Harst drehte sich an der Tür nochmals um.
 
 »Simmons«, sagte er ernst, »wir reden später noch darüber,
 und dann wird kein Choral gespielt werden, dann
-lautet vielleicht ein Armsünderglöcklein … Auf Wiedersehen.«
+läutet vielleicht ein Armsünderglöcklein … Auf Wiedersehen.«
 
 Simmons tippte weiter.
 
@@ -1826,7 +1827,7 @@ blaue Pflaumen sein.«
 im Garten hin und her. — Der Frühstückstisch war in der
 Laube gedeckt. »Venedig, lieber Lücke, enthält mehr Verstecke,
 als unser Spreeathen …« Er blieb vor uns stehen.
-»Ich habe Soeben komprimiert …«
+»Ich habe soeben komprimiert …«
 
 »Kombiniert«, verbesserte Lücke. »Wir müssen ihn noch
 mal in die Tertia schicken, Schraut.«
@@ -1906,7 +1907,7 @@ es finster.«
 
 »Pardon«, korrigierte Lücke, »mein Geist leuchtete …«
 
-»Das kam nur sehr schwach gewesen sein, denn als ein
+»Das kann nur sehr schwach gewesen sein, denn als ein
 Blick auf Ihre Armbanduhr, Leuchtzeiger, Ihnen die Zeit verriet,
 kurz vor dreiviertel eins, und als sich um diese Zeit
 die Tür öffnete und jemand hereinschlüpfte, den Sie nach dem
@@ -1941,12 +1942,12 @@ unfreiwillig durch die Geheimtür … und das war genau sechzehn
 Minuten nach eins, und da lagen in Garnassos Zimmer
 Maske, Umhang und Blut.«
 
-»Ja — von meinem arg ramponiertun Schienbein … Es
+»Ja — von meinem arg ramponierten Schienbein … Es
 muß ein Absatz eines Damenschuhes gewesen sein, der mir die
 Schramme riß …«
 
 »Natürlich, — Frau Simmons Absatz, — Kraftdamen
-treten sehr fest zu, — Frau Simmons brauchte also Maske und
+treten sehr fest zu, — Frau Simmons brachte also Maske und
 Mantel in Simmons Zimmer … Sie zeigten mir Ihre Wunde,
 Lücke, ein sehr großer Riß, Sie ahnten wohl selbst nicht, wie
 sehr Sie bluteten.«
@@ -1973,7 +1974,7 @@ was wir fanden.«
 Harst fand in dem Schlafzimmer eine sogenannte Leuchtsonne.
 Und sie war noch warm. Da erklärte er mir: »Hiermit hat
 Simmons sein Haar nach dem Färben in kurzem getrocknet.«
-Das Sah ich ein. Wir fanden ferner vor dem Waschtisch auf
+Das sah ich ein. Wir fanden ferner vor dem Waschtisch auf
 der Bastmatte fünf Haare von Simmons Sardellen, also lange
 Haare, und die waren zur Hälfte blond, zur Hälfte rötlich
 blond, ganz schwach rötlich blond. Mithin waren sie Simmons
@@ -2066,7 +2067,7 @@ Der treue Alte mit der verbundenen Stirn hätte wohl
 noch mehr hinzugefügt, doch der trostlose Blick seines Herrn
 ließ ihn verstummen.
 
-»Dann«, jagte Kontarini und raffte sich auf, »werde ich
+»Dann«, sagte Kontarini und raffte sich auf, »werde ich
 die drei Simmons sofort verhaften lassen.«
 
 Harst legte ihm die Hand schwer auf die Schulter. »Das
