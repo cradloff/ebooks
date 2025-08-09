@@ -347,9 +347,9 @@ getragen?«
 Die »Dame« blieb erst still … »Ehrlichen gestanden — schon
 oft«, erwiderte Ottochen dann zu unserer größten Überraschung.
 Er war sichtlich sehr verlegen. »Sie wissen, daß meine Eltern
-recht früh verstarben, daß zwei Tanten mich erzogen, alle
+recht früh verstarben, daß zwei Tanten mich erzogen, alte
 Jüngferlein eines kleinen Städtchens an der Persante, einem
-Flüßchen, daß sich mit dem Amazonenstrom absolut nicht vergleichen
+Flüßchen, das sich mit dem Amazonenstrom absolut nicht vergleichen
 läßt, und diese lieben Tanten, die mich jetzt als Verlorenen
 aus ihren Herzen gestrichen haben, arbeiteten stets
 nur Puppenkleider für alle kleinen lieben süßen Mägdlein
@@ -428,7 +428,7 @@ Georg Nusche kannte uns beide nur zu gut, und einem internationalen
 Gauner seines Schlages gegenüber waren Perücken,
 Bärte, Schminke und sonstige Hilfsmittel zur Verhüllung des
 eigenen Ichs ziemlich wertlos. Mit Sarka war das etwas
-anderes, den daß der je auf den Gedanken Kommen könnte,
+anderes, denn daß der je auf den Gedanken kommen könnte,
 eine bejahrte Lady zu mimen, würde der Exgeneraldirektor
 des Midiako ihm niemals zutrauen.
 
@@ -489,7 +489,7 @@ war.
 
 Wir verschlossen die Villa, und etwa um ein Viertel
 sieben betraten wir die Vorhalle des »Excelsior«, des Hauptgebäudes.
-Die sogenannte Dependance ist noch großer. —
+Die sogenannte Dependance ist noch größer. —
 Vorhalle?! Vestibül?! Nein — ein Riesenraum, eine Ausstellung
 von Klubsesseln, Perserteppichen, behaglichen Eckchen,
 Tischen aus allerhand wundervollen Holzarten …
@@ -515,7 +515,7 @@ Harst flüsterte banger Ahnungen voll: »Welches Zimmer?«
 
 »Appartement vier, Seefront, zweiter Stock«, erklärte
 der Vice mit sichtlichem Unbehagen. »Stimmt da irgend
-etwas nicht, mein Herr?««
+etwas nicht, mein Herr?«
 
 Harald reichte ihm schweigend den Ausweis, den uns der
 Kriminalchef in Bozen vor fünf Tagen freundlichst ausgestellt
@@ -547,7 +547,7 @@ hohen Fenstern geeilt, hatte die Wolkenstores emporgezogen
 und die Fenster geöffnet.
 
 »Haben Sie ganz fein gemahlenen Pfeffer in der Hotelküche?«,
-fragte Harst ihn mit einem So ernsten Blick, daß der
+fragte Harst ihn mit einem so ernsten Blick, daß der
 Vice trotz der Eigenart dieses Wunsches sofort davoneilte.
 Sehr viel zu diesem beschleunigten Tempo des so weltgewandten,
 gemessenen Herrn mochte auch Sarkas bedrohlich
@@ -784,11 +784,11 @@ die den Millionär zweifellos ernüchterten.
 »Reden Sie«, sagte er kurz angebunden. »Der Kerl muß
 ins Loch, unbedingt. Ich habe mir zwar bereits vom hiesigen
 Konsulat einen neuen Paß besorgt und den Kreditbrief telegraphisch
-überall Sperren lassen, aber die Anzapfung ärgert
+überall sperren lassen, aber die Anzapfung ärgert
 mich trotzdem.«
 
 »Verständlich … — Also geben Sie acht. Man muß
-Nusche eine Falle Stellen. Veranlassen Sie, der Sie doch einer
+Nusche eine Falle stellen. Veranlassen Sie, der Sie doch einer
 <@pagebreak/>
 der führenden Männer dieser Mittelmeerfahrt sind, daß die
 Zeitungen in Venedig noch morgen früh eine ganz genaue
@@ -897,7 +897,7 @@ nur durch die Umstände zu entschuldigenden Spionage, und wir
 sahen in dem »Salon« an dem kleinen Tischchen (ganz wie bei
 uns) eine zierliche Blondine mit kindlich reinen Zügen und
 einen älteren mageren kleinen Herrn mit fröhlichen Augen
-und frischen, sympathischem Gesicht durchaus friedlich beieinander
+und frischem, sympathischem Gesicht durchaus friedlich beieinander
 sitzen, — Amerikaner ohne Zweifel und, wie wir
 sehr bald merkten, ebenfalls Teilnehmer der Mittelmeerfahrt
 der »Dollarika«.
@@ -952,7 +952,7 @@ einem der kleinen Restaurants in der Nähe des Denkmals
 Viktor Emanuels kurze Zeit Platz, trank eine Limonade,
 bezahlte sofort und ließ nachher das noch halb gefüllte Glas
 stehen und schien am Hafenkai eine ganz bestimmte Gondel
-zu Suchen.
+zu suchen.
 
 Wir hatten hinter dem Denkmal Deckung gefunden und
 beobachteten nun, wie ein ziemlich zerlumpter alter Gondelführer
@@ -1115,8 +1115,8 @@ Dogenpalast.
 »Wir wissen nichts«, meinte er strengen Tones. »Komm
 nur, ich möchte feststellen, ob Gorr zum Lido fährt.«
 
-Am Molo knatterte gerate ein Motorboot davon, nahm
-jedoch die Richtung auf den großen Luxusdampfer »Dollarika«,
+Am Molo knatterte gerade ein Motorboot davon, nahm
+jedoch die Richtung auf den großen Luxusdampfer »Dollarika«.
 
 Ein verschlafener Gondelführer, der noch auf Nachtschwärmer
 rechnete, war sehr erstaunt, als ein schlanker Herr
@@ -1126,7 +1126,7 @@ Poppe begriff dann sehr schnell. Er half uns in die Gondel
 und trollte sich vergnügt heim. Er hatte ein glänzendes Geschäft
 gemacht, und sicherlich würde er nun den Tausender
 rasch noch in einer der kleinen Molokneipen umwechseln und
-die fremden Signori preisen, die So furchtbar reich waren,
+die fremden Signori preisen, die so furchtbar reich waren,
 daß sie einfach für drei Tage tausend Lire Gondelmiete
 zahlten.
 
@@ -1233,7 +1233,7 @@ Austin, den Doppelgänger, und rudern zur
 »Dollarika.«
 
 4. Die Jacht des Midiako legt am Millionärsschiff an,
-Gorr ist zu Bord der »Dollarika«, ein Polizeiboot verjagt
+Gorr ist an Bord der »Dollarika«, ein Polizeiboot verjagt
 uns.
 
 Alles nur Programmpunkte … Punkte nur … Aus
@@ -1660,13 +1660,13 @@ die an Italien grenzen, registriert mein Gedächtnis etwa zehn
 Fälle, die stark anrüchig sind und deren besonderer Duft sich
 bis hier ins Excelsior zieht, glaube ich … — Gebrauchen Sie
 immer Peau d’ Espagne als Parfüm, Signore Colassa?! Auch
-der Duft ich sehr nachhaltig.«
+der Duft ist sehr nachhaltig.«
 
 Colassa glotzte Harst wie ein gereizter Haifisch an. »Ich
 … ich möchte denn doch sehr nachdrücklich betonen, daß ich
 nie Peau d’ Espagne benutze«, stotterte er mit schlotternden
 Knien. »Sie … Sie verdächtigen mich hier in geradezu unerhörter
-Art und Weise, und ich …« …
+Art und Weise, und ich …«
 
 Harst sagte plötzlich sehr scharfen Tones: »In dem Geschäft,
 wo Nusche gestern vormittag die Damengarderobe einkaufte,
@@ -1769,7 +1769,7 @@ finden? Wo, meinen Sie, steckt dieser Verbrecher jetzt?«
 
 Arconi fragte dann den Kriminalchef nach den bisher getroffenen
 Maßnahmen aus. »Und die Jacht?«, rief er ungeduldig,
-»die Jacht muß den auch zu …«
+»die Jacht muß doch auch zu …«
 
 Harst fiel ein: »Die liegt irgendwo an einer tiefen Stelle
 der Lagune, Mr. Arconi. Überlegen Sie sich einmal: Was
@@ -1823,7 +1823,7 @@ ganze Zwischenspiel verlief so schnell, daß es kaum irgend
 jemandem aufgefallen sein konnte. — Wir bogen um die Nordspitze
 der Insel in die Lagune ein, ließen die äußerst stark befestigte
 kleine Insel San Andrea rechts liegen, und erreichten
-die Haltestelle am Marcusplatz gerade beim Stundenschlag —
+die Haltestelle am Markusplatz gerade beim Stundenschlag —
 zwölf Uhr mittags. In der glühenden Sonnenhitze war die
 Piazzetta wie leer gefegt. Nur die freundlichen Tauben flogen
 hin und her, unter den Colonnaden des Dogenpalastes schlenderten
@@ -1893,7 +1893,7 @@ starrte uns wortlos nach.
 
 <h3>In einer Telephonzelle erscheinen Füße.</h3>
 
-Draußen auf der belebten Liste di Spagna sagte Harald
+Draußen auf der belebten Lista di Spagna sagte Harald
 ganz heiter: »Scapatta, den Namen wollen wir uns merken …
 Vorwärts, zunächst die nötigen Einkäufe. Daß wir bereits
 im Hotel Doxe Venior ein Zimmer und am Lido eine Villa
@@ -1923,7 +1923,7 @@ ungeheure Verluste erlitten hat. Er war mithin für den
 Midiako leicht zu gewinnen. Er tut mir leid, der kleine Gorr,
 — machte einen ganz sympathischen Eindruck, fand ich, jedenfalls
 liebt er seine Evy sehr — sehr, — daß er aber nach
-uns Badehäuschen 120 mietete, daß er, ein harmloses Gemüt,
+uns Badehäuschen 12a mietete, daß er, ein harmloses Gemüt,
 hoffte, wir würden seine Laternenexperimente übersehen
 — — armer Schächer!! Nusche wird ihn nun als Überflüssig
 <@pagebreak/>
@@ -1950,7 +1950,7 @@ Beziehungen zu dem wieder aufgelebten Konzern keineswegs
 freundschaftliche sind. Im Gegenteil, — es wird höchste Zeit,
 daß wir mit den Herrschaften endgültig Schluß machen. —
 Den Kaffee trinken wir in der Barnaba-Gasse, wo der kleine
-Gorr die Ratte tottrat. — Kellner zahlen …«
+Gorr die Ratte tottrat. — Kellner, zahlen …«
 
 Wir schritten über den jetzt noch stilleren Markusplatz.
 Hier konnte sich kein Spion vor uns verbergen, es war niemand
@@ -2084,7 +2084,7 @@ Harst wandte den Kopf zurück, und sein harmloses Augenblinzeln
 <@pagebreak/>
 war geradezu eine Glanzleistung der Schauspielerkunst.
 »Zu zweien werden wir wohl Anschluß bekommen«, —
-und er hob den Vorhang und gewährte dem Signora liebenswürdigst
+und er hob den Vorhang und gewährte der Signora liebenswürdigst
 den Vortritt in den recht geräumigen Holzverschlag,
 der nebenbei noch als Abstellkammer benutzt wurde.
 
@@ -2304,7 +2304,7 @@ schuldlos«, beteuerten sie immer wieder …
 
 »Glaube ich!«, beruhigte Harst und schritt zwischen den
 Ziegelsteinen hindurch. »Mario, eine Frage … Lag der Kahn
-in der vergangenen Nacht ohne Aussicht hier?«
+in der vergangenen Nacht ohne Aufsicht hier?«
 
 »Herr, an den Ziegeln vergriff sich niemand«, meinte der
 Schiffer bedrückt. »Sie sollten doch als Schutt im Lagunensumpf
@@ -2344,7 +2344,7 @@ Sie den Verkehr auf dem Uferwege sperren.«
 
 Es geschah. — Harst war unseren Blicken entzogen. Wir
 warteten in nervöser Spannung, — ich hatte Kontarini bedeutet,
-daß die »alte Dame« sich herrscht Nusche gewesen sei,
+daß die »alte Dame« sicherlich Nusche gewesen sei,
 »Harst befürchtet einen Anschlag, und er wird wohl richtig
 vermuten. — Wann war die Dame hier, Mario, und hatte
 sie etwa ein Päckchen in der Hand?«
@@ -2389,13 +2389,13 @@ wir den Kahn einmal ganz gründlich.«
 Da es in Venedig keine Pferde, keine Autos, keine
 Wagen gibt, muß alles, aber auch alles mittels Schiffen transportiert
 werden. Schleppzüge sind im Canal Grande und in
-den breiteren Seitenkanälen nicht Seltenes. Lastkähne mit
+den breiteren Seitenkanälen nichts Seltenes. Lastkähne mit
 Motor werden neuerdings auch schon benutzt.
 
 Dieser Kahn hatte sicherlich ein Menschenalter hinter sich.
 Wir alle suchten, — am Ufer sammelten sich Scharen von Neugierigen,
 der Venezianer hat es nie eilig, man lachte, scherzte,
-— Fischhändler mit ihren Kiepen auf beim Kopf blieben stehen,
+— Fischhändler mit ihren Kiepen auf dem Kopf blieben stehen,
 aus den flachen Kiepen krabbelte zuweilen ein Riesenhummer
 hervor, purzelte auf das Pflaster, — wir suchten. — Nein,
 die Goldbarren waren bestimmt nicht in den Hohlziegeln verborgen,
@@ -2508,7 +2508,7 @@ Der Triester zuckte nicht mit der Wimper.
 »Nein, — wer ist das?!«
 
 Dann wurde sein braungelbes Gesicht plötzlich grau. Er
-stierte seitwärts … Ein paar Leute in Zivil hatten Soeben
+stierte seitwärts … Ein paar Leute in Zivil hatten soeben
 einen bereits beladenen zweiten Kutter, der davonfahren wollte,
 angehalten.
 
@@ -2542,7 +2542,7 @@ Wir waren bemerkt worden, Sarka winkte, kam uns entgegen
 
 »Die Millionen sind da, der Tote von der Piazzetta sitzt
 im Loch, viele andere auch, Nusche ist leider entwischt«,
-und Harst deutete auf Evy. »Wo ist Thomas Gorr«?«
+und Harst deutete auf Evy. »Wo ist Thomas Gorr?«
 
 Sarka machte sein unschuldigstes Gesicht. »Oh — er ging
 vorhin baden …«
