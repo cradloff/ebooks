@@ -1968,7 +1968,7 @@ hier, vom See aus in langer Front geschaut, verlieren
 das Nüchtern-Häßliche.
 
 Und dann der Lincoln-Park! Nur einer von unzähligen
-Denkmaler darin, vor denen Jungamerika mit Recht bewundernd
+Denkmäler darin, vor denen Jungamerika mit Recht bewundernd
 steht, — Helden der Befreiungskriege, Nationalheroen
 wie ein Washington, Grant, Logan … —
 
@@ -2260,7 +2260,7 @@ Der Doktor deutete ein Achselzucken an. »Ich wünsche
 Ihnen ja alles Gute, aber … — ehrlich! — ich verspreche
 mir nicht viel von Ihren Maßnahmen. Sam Yoel — falls
 er noch lebt — wird noch mehr Staubsauger-Ideen zur
-Verfügung haben, denke ich ...« — Er war nicht niedergeschlagen,
+Verfügung haben, denke ich …« — Er war nicht niedergeschlagen,
 nur sehr gleichgültig gegen alles, was seiner wartete.
 Er stopfte sich seine billige, alte Holzpfeife und
 rauchte gelassen einen noch billigeren Tabak, vor dessen
@@ -2594,7 +2594,7 @@ Hutter, telephonieren Sie nach Newyork an die Polizei
 und die Manhattan-Bank … Sam Yoel wird mit einem Flugzeug
 unterwegs sein … Aber die Depesche fliegt schneller,
 und er fliegt ins Loch und nachher in die Hölle, wohin
-diese Bestie auch gehört. — sagen Sie, Weylt, — war
+diese Bestie auch gehört. — Sagen Sie, Weylt, — war
 Ihr Vater gebürtiger Chicagoer?«
 
 »Ja. Und er war sehr unglücklich verheiratet,
