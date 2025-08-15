@@ -2321,7 +2321,7 @@ hatte sich wohl Frau Arndt verschafft, nachdem
 sie gemerkt hatte, das sie nachts ihres Lebens nicht mehr
 sicher war … Sie hat in dem Tresor geschlafen, behaupte
 ich … Da liegen noch die Decken und Kissen …
-In *dem* Stahlbett, das sich auch von innen öffnen lies,
+In *dem* Stahlbett, das sich auch von innen öffnen ließ,
 war sie vor der Bruderschaft Stephani sicher … Am
 Tage wagte sie sich ins Freie, — leider. Und — —
 starb, nahm aber das Geheimnis des Stichwortes mit ins

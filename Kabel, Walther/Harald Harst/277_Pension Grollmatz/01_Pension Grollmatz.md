@@ -51,7 +51,7 @@ die Scheune, und erst als Wind und Regen einmal eine Atempause
 machten, vernahm der Mann im Wagen lautes, sägendes Schnarchen,
 schwang sich geschickt aus seinem Versteck auf den schmutzigen
 Lehmboden der Scheune und näherte sich behutsam den beiden Schläfern,
-schaltete eine Taschenlampe ein und lies nur einen dünnen Strahl
+schaltete eine Taschenlampe ein und ließ nur einen dünnen Strahl
 zwischen den Fingern hindurch auf die bärtigen, verwilderten
 Gesichter fallen.
 
@@ -2084,7 +2084,7 @@ die aus einer einzigen Platte besteht, mitgeteilt, — für mich
 nichts Neues, ich vermutete es gleich, daß Frau Dora diesen Weg
 benutzte.« — Er bückte sich und packte eine Eisenklammer, die
 scheinbar nur zwei Mauersteine der Türumrahmung zusammenhielt.
-Die Eisenklammer lies sich ein Stück herausziehen, und Harst
+Die Eisenklammer ließ sich ein Stück herausziehen, und Harst
 trat rasch zur Seite, — die Schwelle klappte nach unten und
 gab einen viereckigen Schacht und eine schmale, steile Treppe
 frei.

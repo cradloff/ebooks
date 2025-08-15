@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">b353495b-57b1-42fe-a8ba-f5bd8dc2589a</entry>
+<entry key="title">Das Siegel Salomonis</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">285</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Das Siegel Salomonis
+
+Beim Aufräumen der alten Bauerntruhe in meinem Schlafzimmer, die bis oben mit verblichenen Dingen vollgestopft ist, finde ich ein umfangreiches, versiegeltes Paket mit der Aufschrift von meiner Hand: »Zurücklegen!  Der Fall »Pixcell« nebst Fortsetzungen«.
+
+Merkwürdig, daß ich diese Niederschriften so ganz vergessen hatte, obwohl das Hauptthema ihres Inhalts heute aktueller denn je ist. Damals gab es für mich sehr triftige Gründe, diese Aufzeichnungen vorläufig in der Versenkung verschwinden zu lassen. — Ich nehme das Paket und gehe hinüber in Harsts Arbeitszimmer.  Aus der Bibliothek, wo auch der Bechsteinflügel steht, klingen mir Gralsmotive entgegen. Harst spielt ganz piano weiter und hört mir geduldig zu. Er ist in der letzten Zeit noch magerer geworden. Das Grau an den Schläfen beschönigt kein kurzer Haarschnitt mehr. »Ach so, — Fall Pixcell!«, nickte er. »Im Grunde heute moderner denn je … Zeige mal her, mein Alter …« — Er blätterte in dem Manuskript »Das Siegel Salomonis« und fügt hinzu: »Ich gebe dir recht, das alles dürfte die Welt heute mehr interessieren als damals, wo doch kein Zeitungsleser so recht an diese »Unterwelt« glauben wollte. Europa hatte andere Sorgen. Vieles von dem, was wir in jenen Monaten erlebten, mußte auf Zweifel stoßen. — Also gut — meinen Segen hast du!« — Auf diese Weise geriet »Das Siegel Salomonis« als erstes in die Druckpresse.
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (285) Das Siegel Salomonis.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1930</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
