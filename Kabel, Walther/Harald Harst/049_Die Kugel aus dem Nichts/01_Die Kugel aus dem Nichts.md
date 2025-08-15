@@ -1300,7 +1300,7 @@ Sektion, der ich nicht beiwohnen sollte.«
 
 »Bedauere, Harald. Hier versage ich.«
 
-»Die Sektion, die er so eilig ausführen lies, war der
+»Die Sektion, die er so eilig ausführen ließ, war der
 erste Schritt zur Verteidigung, den Thimal tat. — Wer verteidigt
 sich? — Einer, der einen Angriff fürchtet.«
 

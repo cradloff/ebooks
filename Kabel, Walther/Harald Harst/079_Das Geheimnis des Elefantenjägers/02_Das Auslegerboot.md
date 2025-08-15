@@ -1558,7 +1558,7 @@ sind ihm einmal heimlich gefolgt. Sie wollten dann diese
 goldenen Gerätschaften mit Hilfe Makuros fortschaffen.
 Ihre Gattin und Kadugawa kamen dahinter und zwangen
 Sie, auf die Ausführung dieses Vorhabens zu verzichten.
-Ihre Gattin lies Sie scheinbar sterben — durch Mord,
+Ihre Gattin ließ Sie scheinbar sterben — durch Mord,
 wollte Sie so für alle Zeit —«
 
 Barnlay unterbrach Harst, indem er Lady Edith sanft

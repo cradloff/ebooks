@@ -235,7 +235,7 @@ vornüber und verschwand mit Kopfsprung im Wasser.
 Ich hatte mich schnell erhoben und war an die Reling getreten.
 Nach etwa zwei Minuten tauchte der Inder wieder auf,
 winkte mit dem rechten Arm nach uns hin, schwamm zur
-Treppe, legte dort auf der obersten Stufe etwas nieder, lies
+Treppe, legte dort auf der obersten Stufe etwas nieder, ließ
 sich ins Wasser zurückgleiten und kam nicht wieder zum Vorschein.
 
 Auch Towler war nun aufgesprungen.

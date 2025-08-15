@@ -1895,7 +1895,7 @@ der japanischen Geheimpolizei.«
 Frau Gardinett senkte rasch den Kopf über das Aktenstück
 und starrte stieren Blicks auf den Namen Roxy Liston.
 
-Diese Roxy lies kein Auge von ihr.
+Diese Roxy ließ kein Auge von ihr.
 
 »Ich kann dann wohl gehen«, sagte sie noch
 herausfordernder.
@@ -1924,7 +1924,7 @@ Der stiernackige blonde Policeman erklärte kurz:
 
 »Heute verhaftet wegen Unregelmäßigkeiten im Dienst.«
 
-Noch rascher als vorhin lies Frau Gilda den Kopf sinken.
+Noch rascher als vorhin ließ Frau Gilda den Kopf sinken.
 »So?! Verhaftet?!« Sie hüstelte. »Auf … auf wessen
 Befehl?«
 
@@ -2207,7 +2207,7 @@ Auto aus dem Hauptquartier halten. Der Wagen war
 gepanzert, hatte kugelsichere Fenster und einen Motor,
 der den kleinen Weylt, dem tollkühnsten und sichersten
 aller Chauffeure, unschwer jedes andere Auto überholen
-lies. — Greap begrüßte uns kurz. »Das Weib ist also
+ließ. — Greap begrüßte uns kurz. »Das Weib ist also
 durchgebrannt«, meinte er etwas nervös. »Immerhin bleibt
 uns noch eine Chance.  Mr. A. Ginett, also diese feine
 Gardinett, hat hier in der Nähe …«
@@ -2490,7 +2490,7 @@ Entgleisten, von der Polizei gesuchten Frau Unterkunft zu
 gewähren. Sie wäre schuldlos mit Falschmünzern
 zusammengeraten, hätte dann deren Druckplatten
 mitgenommen und müsse daher sowohl die Polizei als auch
-die Fälscherbande fürchten. Sam lies sich überreden, er
+die Fälscherbande fürchten. Sam ließ sich überreden, er
 verbot mir, die Mansarde zu betreten, er weihte mich
 nicht ein, er brachte der Frau heimlich das Essen, und
 heimlich und verschleiert ging sie bei uns aus und ein.
