@@ -1,21 +1,21 @@
-<@pagebreak/>
+<@pagebreak 3/>
 
 <h1>Der Calumet-Gang</h1>
 
 <h2>1. Kapitel.</h2>
 
-<h3>Drei Schauplätze.,-.</h3>
+<h3>Drei Schauplätze.</h3>
 
-»Feigheit«, Jagte der gern ein wenig dozierende Kaptain
-Charly Greap an jenem Abend in dieser etwas seltsamen Umigebung,
-«- … — Feigheit ist das Übermaß von Selbsterhaltungstrieb
-in einer Persönlichkeit, der jedes Idol fehlt.«
+»Feigheit«, sagte der gern ein wenig dozierende Kaptain
+Charly Greap an jenem Abend in dieser etwas seltsamen Umgebung,
+»… Feigheit ist das Übermaß von Selbsterhaltungstrieb
+in einer Persönlichkeit, der jedes Ideal fehlt.«
 
 Aus seinem jugendlichen Munde nahmen sich solche Binsenwahrheiten
-.etwas eigenartig aus.
+etwas eigenartig aus.
 
 Wir saßen hier zu sieben am schlicht gedeckten Holztisch
-in den verräucherten Gewölben. Die Petroleummsaimpe war]
+in den verräucherten Gewölben. Die Petroleumlampe warf
 ein mildes, friedliches Licht Über Männer mit scharfen, zum
 Teil harten Zügen. Dasselbe Licht blinkte in grelleren Reflexen
 drüben auf blanken Metallteilen der verschiedensten
@@ -25,131 +25,137 @@ Zigaretten wie leise wallende, graubraune Schleier, und in den
 Gläsern vor uns duftete ein Getränk, das nicht ganz ohne Alkohol
 war. Die Gesundheit Kaptain Greap-Hutters und seiner
 Getreuen erforderte ärztliche Rezepte über Soundso viele
-&laschen medizinischen Weines pro Tag.
+Flaschen medizinischen Weines pro Tag.
 
-Der Detektiv. Houston, einer der jüngsten der Runde,
+Der Detektiv Houston, einer der jüngsten der Runde,
 erklärte auf Greaps Bemerkung hin: »Dann bin ich in der
-vergangenen Nacht … feige gewesen, Kaptain, Sie hatten
+vergangenen Nacht … feige gewesen, Kaptain. Sie hatten
 mich durch die Spelunken im Calumet-Viertel geschickt, und
 da ist mir beim Heimweg etwas zugestoßen, wovon ich bisher
 nicht sprach, da es mit unserem Spezialdienst nichts zu tun
 hat.« Er blickte tiefsinnig in sein Glas und drehte sich mit
 fixen Fingern, ohne hinzusehen, eine frische Zigarette. »Das
 war So, Kaptain …«, fuhr er sehr schlicht fort. »Ich kam mit
-dem Motorrad so gegen zwei Uhr durch eins Seitenstraße der
+dem Motorrad so gegen zwei Uhr durch eine Seitenstraße der
 <@pagebreak/>
 Milwaukee-Avenue. Ich fahre zumeist abgelegene Wege, weil
-da leichter etwas für uns zu fischen ist, und im Jahre Stets
+da leichter etwas für uns zu fischen ist, und ich fahre Stets
 langsam.«
 
-»Was man So … langsam nennt«, brannte Sergeant
+»Was man So … langsam nennt«, brummte Sergeant
 Wilkiens und grinste,
 
-»… Vor einer Haustür Gab ich ein Mädchen stehen, das
+»… Vor einer Haustür sah ich ein Mädchen stehen, das
 hilflos und sichtlich verstört um sich blickte, als suche es nach
-einem Nebenan, Sie trug ein Häubchen und ein Schürzchen
-wie die Hosen in besseren Häusern — — oder schlechteren,
-wie man es nimmt, Geld stinkt oft. Ach hielt an und fragte,
+einem Policeman. Sie trug ein Häubchen und ein Schürzchen
+wie die Zofen in besseren Häusern — — oder schlechteren,
+wie man es nimmt. Geld stinkt oft. Ich hielt an und fragte,
 was los sei.«
 
-»Das haben Sie niemals gefragt, Sie verliebter Gering!«,
-warf Wilkiens grob-ehrlic ein.
+»Das haben Sie niemals gefragt, Sie verliebter Hering!«,
+warf Wilkiens grob-ehrlich ein.
 
-Houston lieh sich nicht stören. »Das Mädchen erklärte
+Houston ließ sich nicht stören. »Das Mädchen erklärte
 weinend, ihre Herrin sei soeben gestorben, sie habe den Arzt
 gerufen, und sie erwarte dessen Eintreffen hier auf der Straße,
-
-sie sich in dem leeren Hause mit der Toten allein füllte.
-Ich schaute mir das Haus Begleiter an, es war ein alles, kleines
+da sie sich in dem leeren Hause mit der Toten allein fürchte.
+Ich schaute mir das Haus genauer an, es war ein altes, kleines
 Gebäude mit Vorgarten, dahinter mußte eine Fabrik liegen,
-denn ’der sehr hohe Schornstein ragte über das Schieferdach
+denn der sehr hohe Schornstein ragte über das Schieferdach
 weit hinaus. Im ersten Stock waren zwei Fenster erleuchtet,
 die Tür stand offen. — Ich fragte das junge, verschüchterte
-Ding, weshalb sie denn Annahme, daß ihre Herrin tot sei.
+Ding, weshalb sie denn annähme, daß ihre Herrin tot sei.
 Die Antwort war ein Schluchzen und ein Gestammel, aus dem
-ich mir zusammenreimte, die Dame Je! seit Tagen an Lungenentzündung
-erkrankt gewesen. — »Kommen Sie mit« « Jagte
+ich mir zusammenreimte, die Dame sei seit Tagen an Lungenentzündung
+erkrankt gewesen. — »Kommen Sie mit«, sagte
 ich zu ihr. »Es kann auch ein Ohnmachtsanfall sein.« — Ich
 stellte mein Rad in den Vorgarten, und das Mädchen geleitete
 mich die Treppen hinan, drückte eine Tür im ersten Stock noch
 weiter auf und schob mich hinein. Das Zimmer war ein
-elegantes Schlafgemach mit einem Bett, in dem Bei! lag
-eine Frau mit weit ausgerissenen Augen, ihr Gesicht war
-wachsbleich, aber zu den Backenknochen hatte sie knallrote
-Stecken wie eine Schwindsüchtige. Ich trat Weile nachher, und
+elegantes Schlafgemach mit einem Bett, in dem Bett lag
+eine Frau mit weit aufgerissenen Augen, ihr Gesicht war
+wachsbleich, aber an den Backenknochen hatte sie knallrote
+Flecken wie eine Schwindsüchtige. Ich trat leise näher, und
 <@pagebreak/>
-plötzlich. schnellte. die Kranke aus beim Bett, sammelte auf mich
-zu und umklammerte reinen Stall und würgte mit …
+plötzlich schnellte die Kranke aus dem Bett, taumelte auf mich
+zu und umklammerte meinen Halse und würgte mich …«
 
-Wilkiens laue drvbnaend, »dritte Houston, wie viele
-Brauchte hatten Sie beiseite veilöteidt Das ist Kino, Sie,
-oder.«… Besessenheit
+Wilkiens lachte dröhnend. »Little Houston, wie viele
+Brandys hatten Sie heimlich verlötet?! Das ist Kino, Sie,
+oder … Versoffenheit!«
 
-Stuart Houston. besaß eine bereichert werfe »runde, »Die
-Frau hatte Riese: straffe, Kaptain, —. es »Unrecht die Kruste
-einer Wahnosmnign oder einer Gterpetdrag … Sie Gieberdolixium
-entwickeln Traurig da kurz’pos dem Tode Ost …«
+Stuart Houston besaß eine beneidenswerte Ruhe. »Die
+Frau hatte Riesenkräfte, Kaptain, — es waren die Kräfte
+einer Wahnsinnigen oder einer Sterbenden … Im Fieberdelirium
+entwickeln Kranke noch kurz vor dem Tode oft …«
 
-»Weiter … (« kannte Greap.
+»Weiter …!« mahnte Greap.
 
-»3 drängte sie zurück, rate die. Haie: bejahende, und …
-fühlte dabei ein Grauen, das ich bisher: wie kannte, denn die
-Hände der Ärmsten waren eiskalt und klebrig von Schweiße
-Ich stieß sie von mir, sie fiel über das Bei, verdrehte die
-Augen und lag Still. Da … riß ich als,; Terrain, lernte
-davon, auf die Straße hinab, wo das Nötigen gerade von aus
-seinem Auto anasteigonden ist begrüßte, Vor Herren fragte
-mich höflich, ob die Frau (atjächlich tot sei, ich sie nur,
-bestieg mein Rad und fuhr eilends von dannen, Und das war
-Feigheit, Kaptain … Ich Tasche mich geradezu
-Hast…der dem jungen Houston gegenüber- ein Tische saß,
-fragte jetzt, indem er sich weit vorbeugte:. so sauste gestern
-nacht. Wiese Windjacke. an, lieber Houston?«
+»Ich drängte sie zurück, packte die Handgelenke, und …
+fühlte dabei ein Grauen, das ich bisher nie kannte, denn die
+Hände der Ärmsten waren eiskalt und klebrig von Schweiß.
+Ich stieß sie von mir, sie fiel über das Bett, verdrehte die
+Augen und lag Still. Da … riß ich aus, Kaptain, rannte
+davon, auf die Straße hinab, wo das Mädchen gerade den aus
+seinem Auto aussteigenden Arzt begrüßte. Der Herr fragte
+mich höflich, ob die Frau tatsächlich tot sei, ich nickte nur,
+bestieg mein Rad und fuhr eilends von dannen. Und das war
+Feigheit, Kaptain … Ich schäme mich geradezu.«
 
-… »Knien. 6ie. den. Namen der Straße; in der. das Haus
+Hast, der dem jungen Houston gegenüber am Tische saß,
+fragte jetzt, indem er sich weit vorbeugte: »Hatten Sie gestern
+nacht diese Windjacke an, lieber Houston?«
 
+»Ja …«
+
+»Kennen Sie den Namen der Straße, in der das Haus
 lag?«
-»Hm — es kann die Holt »Street gewesen Sein ;. — An
-der. Nähe dort war es bestreut.«
-» »Stehen Sie Saal. ohne Windjacke aus, Houston« + bat
-Harst sehr höflich.
-»Rann?7l — — Über bitte … hier ist sie.«
-Die Windjacke wurde auf dem Tisch ausgebreitet, und
-Harst deutete auf einen rötlichen &Sle an dar indem Achsel.
-»Seewindes«, Jagte er nur.
-Kaptain Greaps Gesicht und Stirn bekamen tiefe Farben.
 
+»Hm — es kann die Holt-Street gewesen Sein … — In
+der Nähe dort war es bestimmt.«
+
+»Ziehen Sie mal Ihre Windjacke aus, Houston«, bat
+Harst sehr höflich.
+
+»Nanu?! — — Aber bitte … hier ist sie.«
+
+Die Windjacke wurde auf dem Tisch ausgebreitet, und
+Harst deutete auf einen rötlichen Fleck an der linken Achsel.
+
+»Schminke!«, sagte er nur.
+
+Kaptain Greaps Gesicht und Stirn bekamen tiefe Narben.
 <@pagebreak/>
-Laie meinen?!!«, — und er tauschte mit Harst einen langen
+»Sie meinen?!«, — und er tauschte mit Harst einen langen
 Blick.
 
-»Ach meine, daß man eine Kranke nicht schminkt — für
-gewöhnlich nicht schminkt … Ich ich auch die Würgespuren zu
+»Ich meine, daß man eine Kranke nicht schminkt — für
+gewöhnlich nicht schminkt … Ich sah auch die Würgespuren an
 Ihrem Halse, Houston. Was Sie da erlebt haben, gefällt mir
-nicht recht, Kommen Sie, suchen wir das Haus.
+nicht recht. Kommen Sie, suchen wir das Haus.«
 
-Greap hob die Jacke empor und Herr die rötliche Stelle …
+Greap hob die Jacke empor und beroch die rötliche Stelle.
 »Stimmt — — Fettschminke, parfümiert!«
 
-Andern glitt aus der äußeren linken Brusttasche etwas
+Indem glitt aus der äußeren linken Brusttasche etwas
 heraus und fiel klirrend in Greaps Weinglas.
 
 »Oh — ohne Nagelfeile, Houston!«
 
 Der Detektiv blickte hin. »Das ist nicht meine Nagelfeile,
-Tal ein kleines Ding benutzen nur Weiber.« …
+solch ein kleines Ding benutzen nur Weiber.«
 
-Harst nahm Greap die Seile aus der Hand und meinte
-bedächtig: »Das ist eine sehr seltsame Nagelfeile … l«
+Harst nahm Greap die Feile aus der Hand und meinte
+bedächtig: »Das ist eine sehr seltsame Nagelfeile …!«
 
 Die Männer ringsum erhoben sich. Alles steckte die
 Köpfe zusammen, — —
 
-—» Schauplatz Nr. 1: Gewölbe eines niedergebrannten
+— Schauplatz Nr. 1: Gewölbe eines niedergebrannten
 großen Sägewerks im Nordosten Chicagos. — —
 
 … Es war gegen elf Uhr, als ein großes, etwas sonderbar
-gebautes Auto langsam durch die Elenden-Street fuhr,
+gebautes Auto langsam durch die Cleaver-Street fuhr,
 die der Holt-Street parallel läuft.
 
 Houston hielt scharf Ausschau.
@@ -157,143 +163,158 @@ Houston hielt scharf Ausschau.
 »Stopp — das ist das Haus.«
 
 Die Straße war wenig belebt, ein leichter warmer Regen
-rieselte herab, und die Passanten ’achteten Farm auf die flatterten,
-die nun den Vorgarten betraten und die Stufen zu
+rieselte herab, und die Passanten achteten kaum auf die fünf
+Herren, die nun den Vorgarten betraten und die Stufen zu
 der altmodischen, reich geschnitzten Haustür emporstiegen.
 
-Greap läutete, läutete nochmals. Nach endlosen Zeit
-wurde der eine Cürsliügel Chinas geöffnet, und aus der &Finuster-
-nie der Vorhalle krächzte uns jemand wütend an:
+Greap läutete, läutete nochmals. Nach endloser Zeit
+wurde der eine Türflügel etwas geöffnet, und aus der Finsternis
+der Vorhalle krächzte uns jemand wütend an:
 
 »Was wollen Sie, zum Teufel?!«
 
-Greaps Laterne blitzte auf. »Detektivpolizei«, jagte er
-Kur), »Lassen Sie uns ein!«
+Greaps Laterne blitzte auf. »Detektivpolizei«, sagte er
+Kurz. »Lassen Sie uns ein!«
 
-Hm Licht der Laterne sahen wir für einen Augenblick ein
+Im Licht der Laterne sahen wir für einen Augenblick ein
 <@pagebreak/>
-verschrumpeltes Greisengeosiht mit einem wirren Bartwald
-mild ebenso zerzausten weißen Haarsträhnen und einen sonst
-kahlen- spitzen ’Birnenschädel.
+verschrumpeltes Greisengesicht mit einem wirren Bartwald
+und ebenso zerzausten weißen Haarsträhnen und einen sonst
+kahlen spitzen Birnenschädel.
 
-— »Verdammt — eine Schönheit!«, flüsterte Wilkiens hinter
-mir. —
+»Verdammt — eine Schönheit!«, flüsterte Wilkiens hinter
+mir.
+
 Der Alte war beiseite getreten. »Polizei?«, krähte er.
-»Was haben Sie hier zu flachen? Haben Sie einen Befehl,
-dieses Haus …
+»Was haben Sie hier zu suchen? Haben Sie einen Befehl,
+dieses Haus …«
 
 Greap sagte sehr scharf: »Hier Kaptain Hutter vom Sonderdezernat
 … Hier mein Ausweis … mit Lichtbild. Öffnen
 Sie, oder wir brechen die Tür auf!«
 
-Der alte Mann. in seinem schäbigen Schlafrock hockte uns
-in der Vorteil? in einem der Sessel gegenüber. Er hatte stark
+Der alte Mann in seinem schäbigen Schlafrock hockte uns
+in der Vorhalle in einem der Sessel gegenüber. Er hatte stark
 entzündete Augen, nur noch Zahnstummel im Munde und
 sicherlich schmierige Hände mit schmutzigen Krallennägeln.
 
-— »Das Haus gehört Frau Wanderleer«, erklärte er jetzt
-bereitwilligst. »Der verwitweten Frau Lydia Wanderleer. Ach
-bin der Hausmeister Abel Braham, »eine Herrin ist zur
-Zeit in Europa, Hier wohnt jetzt außer mir nur noch meine
-&Srau, Kaptain, — da können Sie die Nachbarn fragen …«
-Wir sind ehrliche Leute, und.
+»Das Haus gehört Frau Wanderleer«, erklärte er jetzt
+bereitwilligst. »Der verwitweten Frau Lydia Wanderleer. Ich
+bin der Hausmeister Abel Braham. Meine Herrin ist zur
+Zeit in Europa. Hier wohnt jetzt außer mir nur noch meine
+Frau, Kaptain, — da können Sie die Nachbarn fragen …
+Wir sind ehrliche Leute, und …«
 
-— « Wo waren Sie gestern nacht, Mr. Braham««
+»Wo waren Sie gestern nacht, Mr. Braham?«
 
 »Gestern? — Bei meinen Kindern draußen in Evanston,
 mein Ältester hat dort eine kleine Gemüsefarm.«
 
-»und das Haus Gen Sie unbewacht?«
+»und das Haus ließen Sie unbewacht?«
 
 Der Alte feixte seltsam. »Kaptain, in dieses Haus kommt
 kein Dieb … Mr. Wanderleer schützt es.«
 
-»Wer? Mr. Wanderleer? Ost das der Sohn Ihrer
-Herrin?««
+»Wer? Mr. Wanderleer? Ist das der Sohn Ihrer
+Herrin?«
 
-»Rein. Das ist der tote Mr. Allan Franc 9Pandersfeer,
-— er erschoß sich, weil er glaubte, er litte zu Aussah, an Lepra.«
+»Nein. Das ist der tote Mr. Allan Franc Wanderleer,
+— er erschoß sich, weil er glaubte, er litte an Aussatz, an Lepra.«
 
 Greap schüttelte den Kopf. »Lächerlich, — Sie glauben
 also, die Einbrecher würden aus Angst vor der Lepra fernbleiben?!
-Mr. Braham, das ist Unfug! — Sie und Ihre &Srau
+Mr. Braham, das ist Unfug! — Sie und Ihre Frau
 waren also gestern nicht hier?«
 
 <@pagebreak/>
-»Rein;. wir kehrten erst heute mittag zurück.«
-»Dann, — Feigen Sie uns das Schlafzimmer Ihrer
-eilig.
+»Nein, wir kehrten erst heute mittag zurück.«
 
-»4 er alte Schlurfte auf seinen Pantoffeln, »vor uns.
-»der. Houston flüsterte rasch: »Da —« das ist die Gurt«
+»Dann, — — zeigen Sie uns das Schlafzimmer Ihrer
+Herrin.«
 
-— + Und. gerade diese Tür öffnete der Alte auch,!hastete das«
-»Licht ein und ’gab uns den Weg. frei, .-
+Der alte Mann schlurfte auf seinen Pantoffeln vor uns
+her. Houston flüsterte rasch: »Da — das ist die Tür!«
 
-2« »5 Wer« elegante Raum war!adellos in Ordnung, das Bett,
-bedeckt; — Nirgends etwas Verdächtiges.
-Mr. Abel Braham fragte bescheiden: »Soll« denn hier:
-»etwas vorgefallen. sein, Mr. Hutter?«?
-Trick »p Vielleicht …: wich Greap-Hutter aus, und Harst fügte.
+Und gerade diese Tür öffnete der Alte auch, schaltete das
+Licht ein und gab uns den Weg frei.
 
-»hinzu: »sagen Als uns ein Bild Ehren Herrin zeigen, Ein.
-neueres Bild?«  …
-» »Pflaumen- &Gie bitte … gleich nebenan im Salon …:« Je
-Steg ’Es war eine Kahinettfphotographie einer hübschen, jungen.
-577 So 48
-»Na, Houston?!«: Ei
-». Der Detektiv starrte das Bild lange an,
-»Mein!«, sagte er merkwürdig heiser.
-73: Dann winkte er uns beiseite,
-… Tränlein, das Bild … ist die Kammerzofe, bei Gott!!
-Die ’ Zofe, die auf den Arzt wartete,«
-… Nach einer Stunde hatten wir das Haus genau durchsucht
+Der elegante Raum war tadellos in Ordnung, das Bett
+bedeckt, — nirgends etwas Verdächtiges.
+
+Mr. Abel Braham fragte bescheiden: »Soll denn hier
+etwas vorgefallen sein, Mr. Hutter?«
+
+»Vielleicht …", wich Greap-Hutter aus, und Harst fügte
+hinzu: »Können Sie uns ein Bild Ihrer Herrin zeigen, Ein
+neueres Bild?«
+
+»Kommen Sie bitte … gleich nebenan im Salon …«
+
+Es war eine Kabinettphotographie einer hübschen, jungen
+Frau.
+
+»Na, Houston?!«
+
+Der Detektiv starrte das Bild lange an,
+
+»Nein!«, sagte er merkwürdig heiser.
+
+Dann winkte er uns beiseite,
+
+»Kaptain, das Bild … ist die Kammerzofe, bei Gott! —
+Die Zofe, die auf den Arzt wartete,«
+
+Nach einer Stunde hatten wir das Haus genau durchsucht
 und nichts gefunden.
-» Wir verabschiedeten uns von dem Alten, der uns verwirrt
-und. beklommen mit allerlei »Fragen quälte und keine Antwort
-e erhielt. — —
-weil Schauplatz Nr. 2: Das Schlafzimmer der Lydia Wanderleer.
-—» —
-»Hinter Auto glitt davon, jedoch nicht weit. Harst und ich
+
+Wir verabschiedeten uns von dem Alten, der uns verwirrt
+und beklommen mit allerlei Fragen quälte und keine Antwort
+erhielt. — —
+
+— Schauplatz Nr. 2: Das Schlafzimmer der Lydia Wanderleer.
+— —
+
+Unser Auto glitt davon, jedoch nicht weit. Harst und ich
 stiegen aus und bezogen vor dem Hause Posten,
+
 Greap hatte mit sehr richtigem Verständnis für die Sachlage
-vorhin erklärt: »Ich glaube, wir sind hier einer’ ganz ins
+vorhin erklärt: »Ich glaube, wir sind hier einer ganz infamen
 <@pagebreak/>
-kamen Schurkerei auf die Spur gekommen!« Er hatte auch
+Schurkerei auf die Spur gekommen!« Er hatte auch
 dementsprechend seine Anordnungen getroffen. Die kleine Fabrik
-hinter dem Wohnhaus der &Sran Wanderleer gehörte
+hinter dem Wohnhaus der Frau Wanderleer gehörte
 mit zu dem Grundstück, wie wir gesehen hatten. Den Hausmeister
 Abel Braham danach zu fragen, hatten wir uns gehütet,
-denn wir trauten ihm nicht, Sogar Stuart Houston,
-das Lady, wie der Riese Wilkiens ihn häufig nannte, war
+denn wir trauten ihm nicht. Sogar Stuart Houston,
+das Baby, wie der Riese Wilkiens ihn häufig nannte, war
 stark voreingenommen gegen diese Spottgeburt von weißem
-Haar. und An Ruderboot, Greap und. die anderen wollten zusehen,
+Haar und Unsauberkeit. Greap und die anderen wollten zusehen,
 ob sie nicht von der Rückseite irgendwie das Grundstück
-betreten könnten. Ein untröstlichen Anstatt, daß hier
-tatsächlich die bösesten Geschichten sich abgespielt hätten, trennte
-unser aller Eisen gewaltig an. Der geringe Regen war uns
+betreten könnten. Ein untrüglicher Instinkt, daß hier
+tatsächlich die bösesten Geschichten sich abgespielt hätten, spornte
+unser aller Eifer gewaltig an. Der geringe Regen war uns
 nur günstig.
 
-Grgendwo schlug eine Turmuhr Mitternacht, es mochte
+Irgendwo schlug eine Turmuhr Mitternacht, es mochte
 die Uhr einer Schule sein. Das Haus vor uns, das man als
 Villa hätte bezeichnen können, lag dunkel und nichtssagend
-da, Harst und ich drückten uns gegenüber in den Torbogen
+da. Harst und ich drückten uns gegenüber in den Torbogen
 einer Hofeinfahrt und verschmolzen im Schatten zum dunklen
 Klumpen, auf den kein Vorübergehender achtete. Dann kam
-auch schon ein Nebenan die Straße entlang, blieb in der
+auch schon ein Policeman die Straße entlang, blieb in der
 Nähe stehen und schaute nur flüchtig hin, als sich das eiserne
 Tor des Grundstückes links neben dem Vorgarten kreischend
 öffnete. Gleichzeitig glitt eine große Limousine herbei, schwenkte
-in den Torweg eilt, und dieses wurde wieder angelehnt, nicht
+in den Torweg ein, und dieses wurde wieder angelehnt, nicht
 geschlossen. Der Uniformierte setzte Seinen Rundgang fort,
 ein zweites Auto erschien, verschwand auf dem Grundstück,
 inzwischen mußte der, der die eisernen Torflügel öffnete, die
 Türgelenke wohl geölt haben, denn das Kreischen von Metall
 auf Metall unterblieb. Wir zählten So im ganzen vierzehn
 Autos, Harst kontrollierte an der Armbanduhr ihr Eintreffen,
-sie erschienen ganz genau in Abständen von drei Minuten,
-Um dreiviertel! eins kam das letzte, das fünfzehnte, ein kleiner
-flinker Sportzweisitzer mit aufgeklapptem Verdeckt.
+sie erschienen ganz genau in Abständen von drei Minuten.
+Um dreiviertel eins kam das letzte, das fünfzehnte, ein kleiner
+flinker Sportzweisitzer mit aufgeklapptem Verdeck.
 
 Es war mehr ein Zufall, daß ich nach einiger Zeit an dem
 <@pagebreak/>
@@ -301,11 +322,13 @@ Fabrikschornstein emporblickte. Er glich in dem stärker herabfallenden
 Regen einem dunkleren, verschwommenen Strich,
 aber ganz oben glühte jetzt eine Lichtreklame, bestehend aus
 farbigen elektrischen Lampen:
-Wanderleers Schokolade,
-die allerbestell
-Die Lampen waren wohl auf einer Tafel aus Drähte
 
-Geflecht montiert, von diesem Geflecht war nichts zu sehen, die
+<p class="centered em">Wanderleers Schokolade,</p>
+
+<p class="centered">die allerbeste!!</p>
+
+Die Lampen waren wohl auf einer Tafel aus Drahtgeflecht
+montiert, von diesem Geflecht war nichts zu sehen, die
 Leuchtkörper schienen in der Luft zu schweben.
 
 »Harald — — da oben«, machte ich ihn auf die Reklame
@@ -314,11 +337,11 @@ aufmerksam.
 »Weiß schon … — Dort kommt das Baby über die
 Mauer.«
 
-Stuart Houston näherte sich schnell, »Mr. Harst, der Kaptain
-läßt öligen bestellen, daß wir vor den Autoinsassen in
-der leeren Fabrik waren, Die Leute haben im Erdgeschoß drei
+Stuart Houston näherte sich schnell. »Mr. Harst, der Kaptain
+läßt Ihnen bestellen, daß wir vor den Autoinsassen in
+der leeren Fabrik waren. Die Leute haben im Erdgeschoß drei
 Räume als Klubzimmer eingerichtet, es handelt sich um Spiritisten,
-um eine okkultistische Bereinigung offenbar. — Was
+um eine okkultistische Vereinigung offenbar. — Was
 würden Sie tun?«
 
 »Falls ihr nicht bemerkt seid, Sofort von der Zentrale
@@ -330,28 +353,31 @@ eifrig. »Also gut, ich werde es dem Kaptain bestellen.«
 
 Um halb drei begann die Abfahrt der Autos. Die Motorradler
 waren längst in der Nahe verteilt. Als letzter fuhr
-der Sportzweisitzer davon. Damm erschien Greap bei uns …
-»Tatsache — — piritistische Sitzung mit Medium, Harmonium,
-ChorgeJang — — wie üblich«, sagte er enttäuscht. »Und ich
+der Sportzweisitzer davon. Dann erschien Greap bei uns.
+»Tatsache — — spiritistische Sitzung mit Medium, Harmonium,
+Chorgesang — — wie üblich«, sagte er enttäuscht. »Und ich
 hatte mir schon eingebildet, hier ein neues Banditennest ausheben
 zu können. Die Teilnehmer waren Damen und Herren
-der oberen Zehntausend — So von drei Millionen aufwärts.
-Alte in großer Toilette, nun? Fünfundzwanzig Personen.«
+der oberen Zehntausend — so von drei Millionen aufwärts.
+Alle in großer Toilette, rund fünfundzwanzig Personen.«
 
-Harst deutete auf von Schornstein, »Etwas aufzuheben
+Harst deutete auf den Schornstein. »Etwas auszuheben
 <@pagebreak/>
-gibt es hier sicherlich, lieber Greap. Die Lichter laue hatte
-vorher Autoauffahrt die Eigentümlichkeit, daß einzelne Buchstaben,
-versagten, und ich habe in der Tasche auf eilten Notizblock
-ungefesselt. Die Dinge hier liegen doch« wohl noch
-weit übler, als wir nach Houstons Erlebnis annehmen. van
-Zudem flog die Haustür auf und eine alt Frau, rannte
-kreischend in den Vorgarten. H. Sir
-… »Mord … Mord …!!« Sie schrie wie »wohin
-Stimme schnappte über, aber Wilkiens Handypraplenomn
-genug den Mund zu. — — « Maus Es
-Schauplatz Nr. 3: Das Grundstück in der »4 or
-—. eine Villa ein eine einstige Schokoladenfabrik: 2? -…
+gibt es hier sicherlich, lieber Greap. Die Lichtreklame hatte
+*vor* der Autoauffahrt die Eigentümlichkeit, daß einzelne Buchstaben,
+versagten, und ich habe in der Tasche auf einem Notizblock
+mitgekritzelt. Die Dinge hier liegen doch wohl noch
+weit übler, als wir nach Houstons Erlebnis annahmen.«
+
+Indem flog die Haustür auf und eine alt Frau rannte
+kreischend in den Vorgarten.
+
+»Mord … Mord …!!« Sie schrie wie wahnsinnig, ihre
+Stimme schnappte über, aber Wilkiens Hand preßte ihr rasch
+genug den Mund zu. — —
+
+Schauplatz Nr. 3: Das Grundstück in der Cleaver-Street,
+— eine Villa — eine einstige Schokoladenfabrik.
 
 <@pagebreak/>
 
@@ -359,303 +385,299 @@ Schauplatz Nr. 3: Das Grundstück in der »4 or
 <h3>Vordem Rembrandt.</h3>
 
 Chicagos trauriger Ruf als »Verbrecherstadt« wird zumeist
-übertrieben, Wo emsige Bienen Honig sammeln, finden
-sich auch die Hornissen ein. Diese Metropole am MWichigauOce,
+übertrieben. Wo emsige Bienen Honig sammeln, finden
+sich auch die Hornissen ein. Diese Metropole am Michigan-See,
 reich, riesengroß, großzügig, wehrt sich gegen die Pest
 der Unterwelt mit allen Mitteln.
 
-ist allen Mitteln sucht aber auch diese Unterwelt, insbesondere
-die Straße organisierten Gangs (Banden) mit ihren
-Hühnern (Gangsters) dort zu ernten, wo &teiß und rücksichtslos]
-e ’Dollarjaqd reiche Beute verheißen,
+Mit allen Mitteln sucht aber auch diese Unterwelt, insbesondere
+die straff organisierten Gangs (Banden) mit ihren
+Führern (Gangsters) dort zu ernten, wo Fleiß und rücksichtslose
+Dollarjaqd reiche Beute verheißen,
 
 Von diesem immerwährenden Kampf zwischen Gesetz und
-Gangsters merkt die Öffentlichkeit im allgemeinen wenig,
+Gangsters merkt die Öffentlichkeit im allgemeinen wenig.
 Nur die Zeitungen melden dem schlichten Bürger dies oder
-jenes in sensationeller Aufmachung, zumeist mit einem!tanken
-Schuß sentimentaler Noimarntik dabei, denn das ausstehende
+jenes in sensationeller Aufmachung, zumeist mit einem starken
+Schuß sentimentaler Romantik dabei, denn das aufstrebende
 Volk der Welt, das in hundert Jahren Millionenstädte schuf,
-ist nebenher noch das einzige der Kulturnationen. das den öden
+ist nebenher noch das einzige der Kulturnationen, das den öden
 Materialismus durch einen zarten Hauch von Sentimentalität
 und romantischer Neigung abschwächt.
 
-dieses Chicago ist, lehrt ein einziger Spaziergang
+*Was* dieses Chicago ist, lehrt ein einziger Spaziergang
 über die prächtige Michigan-Avenue dicht am Seeufer. Und
 diese Michigan-Avenue schritten am folgenden Vormittag zwei
 altere, bärtige Herren entlang, offenbar Touristen, Fremde.
-Vor dem veunstinstitut mit der breiten &Sreitreppe und den
-beiden riesigen Broncelöwen blieben seidenen, blätterten in.
-ihrem Reiseführer und betraten den gewaltigen Bau. schlenderten
+Vor dem Kunstinstitut mit der breiten Freitreppe und den
+beiden riesigen Broncelöwen blieben sie stehen, blätterten in
+ihrem Reiseführer und betraten den gewaltigen Bau, schlenderten
 durch die Säle und machten in Saal 32 links vom Treppenhaus,
-bald und setzten sich auf eins der Endloses. Ihnen gegenüber
-hing Rembrandts »stehen hinter der Tür«.
+halt und setzten sich auf eins der Rundsofas. Ihnen gegenüber
+hing Rembrandts »Mädchen hinter der Tür«.
 
 Trotz des schönen Wetters waren nur wenig Besucher
 anwesend. Die beiden fremden Herren betrachteten still das
 <@pagebreak/>
-alte Kunstwerk und!Ülterfen!Eise miteinander. Die Weihe
+alte Kunstwerk und flüsterten leise miteinander. Die Weihe
 des Raumes mit seinen Kunstschützen verbot jedes lautere
-Wort.« Die Herren schwelgten wohl als Kenner in den.
-Schönheiten der alten Meister, —«+: hätte jedoch jemand
+Wort. Die Herren schwelgten wohl als Kenner in den
+Schönheiten der alten Meister, — hätte jedoch jemand
 ihrer Unterhaltung beigewohnt, würde er sehr erstaunt, Sehr
 bestürzt und doch sicherlich Sehr neugierig gewesen sein.
 
 Der eine, hagere, hakennasige sagte gerade:
 
-»Warten wir geduldig … Es ist noch nie gelassen, daß
+»Warten wir geduldig … Es ist noch nie geschehen, daß
 man ein Gemälde Rembrandts in einer spiritistischen Sitzung
 beschwört. Natürlich nicht das Gemälde, sondern das unbekannte
 Modell des großen Malers. Wilkiens versicherte,
 ganz genau alles gehört zu haben. Auf ihn ist Verlaß. Das
 Medium soll dann aus dem Trancezustand plötzlich geschrien
-haben: »Um zwölf … um zwölf!« — Es ij noch nicht zwölf, —
-wir werden sehen, 1 mein Alter,«
+haben: »Um zwölf … um zwölf!« — Es ist noch nicht zwölf, —
+wir werden sehen, mein Alter,«
 
 ich blickte auf die Armbanduhr: Zwanzig Minuten vor
-z1vö
-»Gib mir noch einmal dein? Notizen über die Reklame
-Tafel«, bat ich, »Vielleicht komme ich hinter den: Sinn dieser
-Ltuchtsiguale,
+zwölf!
 
-Tv- Harst legte den Zettel in den »Hühner durch das Kunstinstitut«
-und reichte iha’ mir, nachdem er sich mißtrauisch um
-gesehen hatte.
+»Gib mir noch einmal deine Notizen über die Reklametafel«,
+bat ich. »Vielleicht komme ich hinter den Sinn dieser
+Lichtsignale,«
 
-Wanderleers Schokolade
-die allerbester!
+Harst legte den Zettel in den »Führer durch das Kunstinstitut«
+und reichte ihn mir, nachdem er sich mißtrauisch umgesehen
+hatte.
+
+<p class="centered">Wanderleers Schokolade</p>
+<p class="centered">die allerbeste!!</p>
 
 In diesen Worten waren verschiedene Buchstaben in der
 zweiten Niederschrift weggelassen:
 
-helleres Schokolade,
-die allerbeste!!
+<p class="centered">W&nbsp;nderleers Schokolade</p>
+<p class="centered">die allerbeste!!</p>
 
 Dann:
 
-Man leere Scheitellocke,
-die allerbeste!!
+<p class="centered">Wan&nbsp;leers Schokolade</p>
+<p class="centered">die allerbeste!!</p>
 
-Jedenfalls ergaben die Lücken insgesamt schließlich soll.
-Handel:.
+Jedenfalls ergaben die Lücken insgesamt schließlich folgendes:
 
 <@pagebreak/>
-Au der leer Schiebe.
+<p class="centered">An der leer &nbsp; Schiebe.</p>
 
-Um diese von Harst derart zusammengestohlen »Lücken«
+Um diese von Harst derart zusammengestellten »Lücken«
 hatte es noch gestern nacht in Greaps Hauptquartier ein großes
 Raten gegeben.
 
-Harst raunte mir zu: »verblich dir nicht den Kopf .,
+Harst raunte mir zu: »Zerbrich dir nicht den Kopf …
 Vorläufig ist das zwecklos.«
 
-Ich) besitze eine gewisse Hartnäckigkeit. Zimmer wieder
-überflog ich das Geschriebene, und plötzlich kam mir, die Erleuchtung.
+Ich besitze eine gewisse Hartnäckigkeit. immer wieder
+überflog ich das Geschriebene, und plötzlich kam mir die Erleuchtung.
 
 »Harald!«
 
-»Bitte …
+»Bitte …«
 
-»Sitte Frage: Kannst du nicht übersehen hoben, daß auch
-noch die vier Buchstaben lud e hinterher versagten?«
+»Eine Frage: Kannst du nicht übersehen haben, daß auch
+noch die vier Buchstaben *lade* hinterher versagten?«
 
-Er blickte mich. überrascht an und begriff sofort.
+Er blickte mich überrascht an und begriff sofort.
 
-»Möglich ist es … ’Du deutet an Schiebelade! Das erqäbe
-einen Sag’ An dor!vory1y) Schiebelade! — Nicht schlecht.
-Aber was soll Wasser« Er schwieg eine Quelle. »Vergegenwärtigen
-wir uns die- Ereignisse: Houston-Bahn wird nachts
-in die Villa Wanderleer von einer Zofe eingelassen, By,
-zweifellos die Witwe Wanderleer war, angeblich zur eilt Na
+»Möglich ist es … Du denkst an Schiebelade! Das ergäbe
+einen Sinn. An der leeren Schiebelade! — Nicht schlecht.
+Aber was soll das?!« Er schwieg eine Weile. »Vergegenwärtigen
+wir uns die Ereignisse: Houston-Baby wird nachts
+in die Villa Wanderleer von einer Zofe eingelassen, die
+zweifellos die Witwe Wanderleer war, angeblich zur Zeit in
 Europa auf Reisen. Letzte Karte von ihr vor drei Wochen
-an Abel Braham und &Sraiut aus Lugano. Houston findet im
+an Abel Braham und Frau aus Lugano. Houston findet im
 Schlafzimmer geschminkte Sterbende, die ihn würgt, die ihm
-
-aber auch heimlich die Nagelfeile in die Buustia]che schiebt.
-Die Frau Soll eine brünette Schönheit gewesen sein, Jagt
-Houston. Ach sage, sie ist ermordet worden! — Und die gestrige
-Nacht gab mir recht. Die alte Alma Braham Kunst, als sie
+aber auch heimlich die Nagelfeile in die Brustasche schiebt.
+Die Frau Soll eine brünette Schönheit gewesen sein, sagt
+Houston. Ich sage, sie ist ermordet worden! — Und die gestrige
+Nacht gab mir recht. Die alte Alma Braham findet, als sie
 in einem eingebauten Wandschrank ein Schlafmittel sucht,
-hinter Kleidern eine Cote, nur mit Hinein Hemd bekleidet. die
-rennt aus die Straße, und wir stellen durch Spielen fest, daß
-es die »Geschminkte« ist. Die Ärzte erklang sehr bald:
-Vergiftung durch ein Arsenikpräparat. Auswischen hatte Tuch
+hinter Kleidern eine Tote, nur mit einem Hemd bekleidet. Sie
+rennt auf die Straße, und wir stellen durch Houston fest, daß
+es die »Geschminkte« ist. Die Ärzte erklären sehr bald:
+Vergiftung durch ein Arsenikpräparat. Inzwischen hatte sich
 noch der Spiritistenklub »Okkulte Welten« in von drei
 Räumen der sonst leeren Fabrik eingefunden und beschwört
-
 <@pagebreak/>
-»Das Mädchen hinter der Tür« von Rembrandt. In der &a-
-Blick wohnt lediglich der Klubdiener, ein alter Chinese. Wer
-dir Reklametafel bedient hat, war nicht zu ermitteln, da die
+»Das Mädchen hinter der Tür« von Rembrandt. In der Fabrik
+wohnt lediglich der Klubdiener, ein alter Chinese. Wer
+die Reklametafel bedient hat, war nicht zu ermitteln, da die
 Leitung erst ausgegraben werden muß, was zur Zeit geschieht.
 Brahams Angaben, daß er mit Frau gestern nacht bei seinem
-Sohne war, staunen. Es stimmt auch, daß &rau Wanderleers
+Sohne war, stimmen. Es stimmt auch, daß Frau Wanderleers
 Gatte sich vor einem Jahr erschoß, weil er irrtümlich glaubte,
 er litte an Lepra, an Aussatz. Die Klubmitglieder sind sämtlich
 einwandfrei, reich und stadtbekannt. Das Medium wieder
-war das Berufsmedium Honoria Castelli, auch einwandfrei.-
-Nun mache dir einen Berg aus alledem!«
+war das Berufsmedium Honoria Castelli, auch einwandfrei. —
+Nun mache dir einen Vers aus alledem!«
 
 Ein paar Damen und Herren kamen in die Nähe, und wir
 mußten das Gespräch abbrechen.
 
 Es war zu heiß hier im Saal, eine wohltuende Müdigkeit
 setzte auch einen grübelnden Geist in einen Zustand träumerisch-zwanglosen
-Schweigens der Gedanken. Ach sah nicht mehr
+Schweigens der Gedanken. Ich sah nicht mehr
 das berühmte Rembrandtbild, sondern das gelbe Totengesicht
-der Unbekannten mit den grauenvoll geschminkten roten Backen,
+der Unbekannten mit den grauenvoll geschminkten roten Backen.
 Ich rief mir Einzelheiten ins Gedächtnis zurück, oder besser:
-Sie flogen mir zu wie die wenigen &liegen, die hier umherturnten,
-— Genau Wanderleer hatte die Schokoladenfabrik
-nach dem Freitod ihres Mannes eingehen Rassen, sie war sehr
-reich, sie Sollte nach Europa Zofe, Chauffeur und eine ’Bo-
-kaufte mitgenommen haben, wie der schmierige Hausmeister
+Sie flogen mir zu wie die wenigen Fliegen, die hier umhersurrten.
+— Frau Wanderleer hatte die Schokoladenfabrik
+nach dem Freitod ihres Mannes eingehen lassen, sie war sehr
+reich, sie Sollte nach Europa Zofe, Chauffeur und eine Bekannte
+mitgenommen haben, wie der schmierige Hausmeister
 Braham berichtet hatte, und er log sicherlich nicht, wenigstens
 nicht, was Dinge betraf, die sich nachprüfen ließen. Im
-vorigen …?! — Aber &Srau Lydia war nicht mehr in Europa,
+übrigen …?! — Aber Frau Lydia war nicht mehr in Europa,
 Houston-Baby besaß als hervorragender Detektiv auch
-ein vorztigliches Personengedächtnis: Lydia ’Wanderlee: war,
-dir »ne« gewesen, die auf den Arzt gewartet hatte
-olles natürlich Lügen, — der »Arzt« hatte die Leiche wegschaffen
+ein vorzügliches Personengedächtnis: Lydia Wanderleer war
+die »Zofe« gewesen, die auf den Arzt gewartet hatte —
+alles natürlich Lügen, — der »Arzt« hatte die Leiche wegschaffen
 sollen, das nahm auch Greap an, aber Houstons Einmischung
-hatte die Mörder scheu gemacht, und sie Bergwüsten sich
-damit, die Ecke in der Hinterwohnung ’Brahams zu verbergen
-und entflohen. Greap wieder hatte noch nachts zu die Polizei
+hatte die Mörder scheu gemacht, und sie begnügten sich
+damit, die Tote in der Hinterwohnung Brahams zu verbergen
+und entflohen. Greap wieder hatte noch nachts an die Polizei
 <@pagebreak/>
 in Lugano gefunkt, und es mußte sich sehr bald herausstellen,
-wann &rau Lydia die Person »Seeblick« verlassen hatte.
-Auch der Name der &reundin war bereits ermittelt, die sie
-begleitete. Eine Miß: Julia Coolp, frühere Buchhalterin in
-der Fabrik Wanderleers, u …
+wann Frau Lydia die Pension »Seeblick« verlassen hatte.
+Auch der Name der Freundin war bereits ermittelt, die sie
+begleitete. Eine Miß Julia Coolp, frühere Buchhalterin in
+der Fabrik Wanderleers.
 
-So wie meine … Gedanken ziellos hin und her. schweiften,
-genau. so. verworren waren auch die Fäden des ganzen Falles
-mit den »vier Scoupläßen« — als vierter war noch die
+So wie meine Gedanken ziellos hin und her schweiften,
+genau so verworren waren auch die Fäden des ganzen Falles
+mit den »*vier* Schauplätzen« — als vierter war noch die
 leere Fabrik hinzugekommen, von der nur die ehemaligen Kontorräume
 an den Klub »Okkulte Welten« vermietet worden
-waren, Lydia Wanderleer gehörte dem Klub nicht an, kannte
+waren. Lydia Wanderleer gehörte dem Klub nicht an, kannte
 wohl einige Mitglieder, mit denen sie Verkehr unterhielt, —
-da. hatte Braham erklärt, und der Klubvorstand hatte dies
-»bestätigt.! …
+so hatte Braham erklärt, und der Klubvorstand hatte dies
+bestätigt.
 
-… Plötzlich leuchtete in meinem dämmerigen Hirn abermals
-ein Lämpchen auf: Vielleicht war die Cote gar jene Julia
-Coolp, die ehemalige Buchhalterin!l«:
+Plötzlich leuchtete in meinem dämmerigen Hirn abermals
+ein Lämpchen auf: Vielleicht war die Tote gar jene Julia
+Coolp, die ehemalige Buchhalterin!!
 
 Lag das nicht Sehr nahe?! Daß das Ehepaar Braham die
-
-Cote nicht wiedererkannt hatte, wollte gar nichts besagen.
-Die Leiche war sehr entstellt, das dunkle Haar hatte halb über,
+Tote nicht wiedererkannt hatte, wollte gar nichts besagen.
+Die Leiche war sehr entstellt, das dunkle Haar hatte halb über
 dem gräßlich geschminkten Gesicht gelegen, und die alten Leutchen
-in ihrer Angst hatten vielleicht nicht recht hingeschaut.:
+in ihrer Angst hatten vielleicht nicht recht hingeschaut.
 
-»Harald!«: … u:
+»Harald!«
 
--» « »Du, mir ist da Soeben ein besonderer Gedanke gern
+»Bitte …«
+
+»Du, mir ist da Soeben ein besonderer Gedanke gekommen:
 Vielleicht könnte die Vergiftete die Freundin Lydias
+sein!«
 
-ein:! 2 …
-
-… — Er blickte mich von der Seite an. »Endlich — Natürlich
+Er blickte mich von der Seite an. »Endlich! — Natürlich
 ist sie es. Daß Greap nicht sofort daran gedacht hat, wunderte
 mich sehr. Das dunkle Haar ist nämlich gefärbt, die Coolp
-war genau so blond wie Lydia, die Herrin-Zose’
+war genau so blond wie Lydia, die Herrin-Zofe.«
 
 Seine knappe Ausdrucksweise erforderte zumeist schärfste
-Aufmerksamkeit und viele selbständige Ergänzungen …
+Aufmerksamkeit und viele selbständige Ergänzungen.
 
-»in. Greap kommt natürlich sehr bald dahinter«, fügte
+»… Greap kommt natürlich sehr bald dahinter«, fügte
 er hinzu und musterte die Besucher. »Oder aber — er ahnt
 <@pagebreak/>
-aber wir ja by der Parole »Getrennt marschieren, vereint
-tragen« sehr gilt abgeschnitten.«
+es bereits und schweigt, was an sich nichts schadet. Bisher
+haben wir ja bei der Parole »Getrennt marschieren, vereint
+schlagen« sehr gut abgeschnitten.«
 
 »Allerdings …« — Und ich dachte an die Vorgänge Ende
-Woche, als wir »die große Zwiebel« erledigt hatten, eine
+der Woche, als wir »die große Zwiebel« erledigt hatten, eine
+der abscheulichsten Banden Chicagos, deren Verbrechen sogar
+in den Kreisen der Unterwelt Haß und Verachtung geweckt
+hatten.
 
-bereits und schweigt, was an sich nichts schadet, Bisher
-
-abscheulichsten Banden Chicagos, deren Verbrechen sogar
-den Kreisen der Unterwelt Haß und Verachtung geweckt
-Garten.
-
-»zuerst!« Harst drückte meinen Arm …
+»Zwölf!!« Harst drückte meinen Arm …
 
 Der Saal war fast leer.
 
-Langsam zum ein junges Mädchen, sehr diskret-osegant
-kleidet, auf unseren Platz zu und blieb vor dem Gemälde
-Ehen. Über selbst Rembrandts göttliche Kunst konnte diese
-Lande, pikante Miß nicht fesseln. Sie drehte suchend den
-opf hin und her »… etwas Scheues lag in ihrem Benehmen.
+Langsam kam ein junges Mädchen, sehr diskret-elegant
+gekleidet, auf unseren Platz zu und blieb vor dem Gemälde
+stehen. Aber selbst Rembrandts göttliche Kunst konnte diese
+schlanke, pikante Miß nicht fesseln. Sie drehte suchend den
+Kopf hin und her … etwas Scheues lag in ihrem Benehmen.
 
-Euer Inmitten vergingen.
+Zwei Minuten vergingen …
 
 Drei Minuten …
 
-— Die Miß wurde immer nervöser.
+Die Miß wurde immer nervöser.
 
-Gräßlich stand Harst lautlos auf, trat neben sie und
-stierte:
+Plötzlich stand Harst lautlos auf, trat neben sie und
+flüsterte:
 
-» Die Nagelfeile?«
+»Die Nagelfeile?!«
 
-— Sie fuhr herum,
+Sie fuhr herum,
 
 »Ah … — also doch … Geben Sie sie mir — schnell …«
 
-Harst drückte ihr. etwas in die Hand.
+Harst drückte ihr etwas in die Hand.
+
 »Wie geht es, Miß«, — aber das Mädchen ließ
+ihn stehen und hastete davon.
 
-in stehen und. hastete davon …
-
-Ein jüngerer Herr, der sich bisher im Hintergrunde gegolten
+Ein jüngerer Herr, der sich bisher im Hintergrunde gehalten
 (es war Houston-Baby) blieb auf Harsts Wink hinter
-»t.
+ihr.
 
-»Was … gabst du ihr?!«, fragte im überrascht, denn auf
-Riese Wendung vor Dinge war ich nicht vorbereitet.
+»Was … gabst du ihr?!«, fragte ich überrascht, denn auf
+diese Wendung der Dinge war ich nicht vorbereitet.
 
-»Meine Nagelfeile«, lächelte er,
+»*Meine* Nagelfeile«, lächelte er,
 
-»Und mal
+»Und nun?!«
 
 »Wird Houston uns nachher berichten, was die nette Miß
-ist meiner Seile angestellt hat,«
+mit meiner Feile angestellt hat,«
 
 <@pagebreak/>
 Er schaute sich um …
 
-Sprung wieder auf. »Schnell, — — das bedeutet Gefahr
-für die Ärmste …
+Sprang wieder auf. »Schnell, — — das bedeutet Gefahr
+für die Ärmste …«
 
-ön langen Schritten erreichten wir die Freitreppe …
+In langen Schritten erreichten wir die Freitreppe …
 
 Houston stieg gerade in ein Auto, das einem kleinen diskreten
-Panzer wagen Sehr ähnlich sah. Die Miß mit Harsts
-Seile winkte eine leere Taxe heran, Harst lief auf sie zu,
-rollte sie am Arm und zog sie mit sich. Kaum hatte er sie in
-Fensters Wagen gestoßen, als ein anderes Auto vorüber glitt,
+Panzerwagen Sehr ähnlich sah. Die Miß mit Harsts
+Feile winkte eine leere Taxe heran. Harst lief auf sie zu,
+packte sie am Arm und zog sie mit sich. Kaum hatte er sie in
+Houstons Wagen gestoßen, als ein anderes Auto vorüberglitt …
 
 Gedämpftes Knattern von Schüssen …
 
-— Ein. Gaurtspucker arbeitet mit — Schalldämpfer …
+Ein Gurtspucker arbeitet mit Schalldämpfer …
 
-Alex bei uns am Steuer saß Wilkiens, und wir Saßen
-hinter Stahl und lngelfestem Glas, und das große Auto bekam
-Seiten, bevor es noch den zweiten Broncelöwen der Freitreppe
+Aber bei uns am Steuer saß Wilkiens, und wir Saßen
+hinter Stahl und kugelfestem Glas, und das große Auto bekam
+Feuer, bevor es noch den zweiten Broncelöwen der Freitreppe
 passiert hatte. Wilkiens bediente den Gurtspucker mit
 dem linken Fuß, — Reifen knallten, der fremde Wagen raste
-Tage: einen Kandelaber,
+gegen einen Kandelaber,
 
-Im &nnern lagen drei tote Gentlemen, bei deren Anblick,
+Im Innern lagen drei tote Gentlemen, bei deren Anblick
 Wilkiens erfreut durch die Zähne pfiff.
 
-… »Ah — also die Böglein!l Alle drei vom CalunetGang,
+»Ah — also *die* Vöglein!! Alle drei vom Calumet-Gang,
 alle drei … Schade — mausetot!«
 
-Polizei sperrte die Michigan—Avenue .,
+Polizei sperrte die Michigan—Avenue …
 
-Tausende von Neugierigen standen in der Ferne. wich die
+Tausende von Neugierigen standen in der Ferne, wie die
 Mauern …
 
 Chicago hatte eine neue Sensation.
@@ -663,13 +685,13 @@ Chicago hatte eine neue Sensation.
 Aber die rührigen Reporter waren auf Vermutungen
 angewiesen.
 
-Netz) zwei Stunden hallte d! die City von dem Gebrüll der
+Nach zwei Stunden hallte die City von dem Gebrüll der
 Extrablätterverkäufer wieder …
 
 <@pagebreak/>
 
 <h2>3. Kapitel.</h2>
-<h3>- ’ö8Sunjpektor Lewys.</h3>
+<h3>Inspektor Lewys.</h3>
 
 Wir gedachten in beim sehr feudalen Testament Harmonie
 zu Mittag zu Eisen, wir wollten schließlich) auch ein 
@@ -1232,7 +1254,7 @@ alte Greap und die blutjunge Gwenda Bellington waren und
 blieben verschwunden,
 
 Dazwischen hatten Harst, Wilkiens und ich längst mit
-dem kleinen Danzerauto die Elenden-Street erreicht. Die
+dem kleinen Panzerauto die Elenden-Street erreicht. Die
 Straße war noch abgeriegelt, der ganze Häuserblock umstellt.
 Als wir die Wanderleer-Villa betraten, kam uns der krächzende,
 hüstelnde Braham entgegen. »Eine richtige Verbrecherhöhle
