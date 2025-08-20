@@ -693,169 +693,168 @@ Extrablätterverkäufer wieder …
 <h2>3. Kapitel.</h2>
 <h3>Inspektor Lewys.</h3>
 
-Wir gedachten in beim sehr feudalen Testament Harmonie
-zu Mittag zu Eisen, wir wollten schließlich) auch ein 
-na! die vergniiglivere Seite Chicagos Kennen lernen, im
-ersten Stoß dicht an der Brüstung fanden wir eine leeren
-Tisch, der uns den Blick über die anderen Länge dieses
-wundervollen, dein Gotte Lucullus geweihßhteit Nundihcaters gestattete.
+Wir gedachten in dem sehr feudalen Restaurant Belmonte
+zu Mittag zu essen, wir wollten schließlich auch einmal
+die vergnüglichere Seite Chicagos Kennen lernen, im
+ersten Stock dicht an der Brüstung fanden wir einen leeren
+Tisch, der uns den Blick über die anderen Ränge dieses
+wundervollen, dem Gotte Lucullus geweihten Rundtheaters gestattete.
 — Theater klingt etwas merkwürdig für eine Gaststätte,
-aber ein vollendeter Bergtales läßt sie nicht finden.
+aber ein passenderer Vergleich läßt sich nicht finden.
 Unter uns im Erdgeschoß rauschte ein Bach über Felsen hinab,
-auf denen echte lebende Wildenten saßen, eine Bäume und
-Sträucher wuchsen aus bellen Zierkies hervor, zärtliche Tauben
-gurrten vor ihren Fesseln, volle Birkounbräücken spannten sich
-über den Bach, dicke Goldfische schwonunean in dem klaren
+auf denen echte lebende Wildenten saßen, echte Bäume und
+Sträucher wuchsen aus hellem Zierkies hervor, zärtliche Tauben
+gurrten vor ihren Nestern, helle Birkenbrücken spannten sich
+über den Bach, dicke Goldfische schwammen in dem klaren
 Wasser, und andere Goldfische hielten in dem Paradies dort
-andern die Tische besetzt: Chicagos obere Vierhundert hatten
+unten die Tische besetzt: Chicagos obere Vierhundert hatten
 diesen Raum für sich allein reserviert, Millionär, Milliardär
-saß da mit Familie, Bekannten, Ausgang und ließ den Dollar
-rollen: Theater der—Großen, der Tastete, der Neureichs,
-würde ein schlechter Beobachter Jagen, aber der amerikanische
-Gebundenen ist anderen Schlages als die drüben in Germany:
+saß da mit Familie, Bekannten, Anhang und ließ den Dollar
+rollen: Theater der Protzen, der Raffkes, der Neureichs,
+würde ein schlechter Beobachter sagen, aber der amerikanische
+Selfmademan ist anderen Schlages als die drüben in Germany:
 Er verbindet den Begriff »Smart« und »Geschäft« unbedingt
-mit dein der Strengster Exklusivität. In diese demokratischen
-»Geldadelskreise« Stirn mit unsauberer Weste hineinzugelangen,
-ist schwer, Sehr leicht ist es, wieder hinauszusliegen, sobald der
-3Zetressende irgendwie die Behörden unliebsaim beschäftigt.
+mit dem der strengsten Exklusivität. In diese demokratischen
+»Geldadelskreise« etwa mit unsauberer Weste hineinzugelangen,
+ist schwer, Sehr leicht ist es, wieder hinauszufliegen, sobald der
+Betreffende irgendwie die Behörden unliebsam beschäftigt.
 »Geld stinkt nicht« trifft hier nur insofern zu, als es nicht
-»öffentlich« übel durften darf … Immerhin etwas gummiartige
-moralische Anwandlungen, —«- doch Gummi jedoch, und wer
-so dumm betrügt, daß er Sir fassen läßt, wird unbartaherzig
-»geschnitten«, Das ist das. eine Problem, Das andere: Das …
+»öffentlich« übel durften darf. Immerhin etwas gummiartige
+moralische Anwandlungen, — doch Gummi federt, und wer
+so dumm betrügt, daß er sich fassen läßt, wird unbarmherzig
+»geschnitten«. Das ist das eine Problem, Das andere: Das
 <@pagebreak/>
-Rasseproblem, die Negerfrage, tritt in Chicago weniger!
-
+Rasseproblem, die Negerfrage, tritt in Chicago weniger in
 Erscheinung.
 
-Also Geschenke … Seeufer-Boulevard, Nähe Trank
-l in-Street. Was hier der Quadratmeter Baugrund kostet
+Also Belmonte … Jackson-Boulevard, Nähe Franklin-Street.
+Was hier der Quadratmeter Baugrund kostet
 weiß ich nicht. —
 
-— Baby Houston hatte uns, da die junge Miß ihren Name
-nicht nannte und auch ihr Handtäschchen keinen sonstigen Aufs
-Schluß über ihre Persönlichkeit gab, mit ins Hauptquartie
-genannten,
+Baby Houston hatte uns, da die junge Miß ihren Namen
+nicht nannte und auch ihr Handtäschchen keinen sonstigen Aufschluß
+über ihre Persönlichkeit gab, mit ins Hauptquartier
+genommen,
 
-… Der Kellner besser rote uns eins der Extrablätter da
+Der Kellner besorgte uns eins der Extrablätter des
+»Michigan-Postkuriers«, und wir bekamen so einen weiteren
+Beweis für Reporterphantasie.
 
-Michigan-Postkuriers«, und wir belauerten einen weiter!
-Beweis für Reporterphantasie, …
 Da stand:
-Überfall auf. eine Agentin des Geheimkommissars -.
-Kutter in der Zilimwigan-Avenue,«
+
+> Überfall auf eine Agentin des Geheimkommissars
+Hutter in der Michigan-Avenue.
 
 Ganz dicke Überschrift, noch dickere Trugschlüsse, gespickt
-mit billigen Bemerkungen über die »grenzenlose Wl
-für« dieses Kaptain Gitter… der es wage, die allmächtig)
-Presse Aha Verhalten,«
+mit billigen Bemerkungen über die »grenzenlose Willkür«
+dieses Kaptain Hutter, der es wage, die allmächtige
+Presse auszuschalten.
 
-Pärchen …
+Alles Märchen …
 
-Bart meinte lachend: »Ich will nicht so unfein sein, un;
-das P in ein & verwandeln, aber auch dann wird das Korn
-der Cinfenkulis das Stadtoberhaupt nicht verschlucken um
-etwa windelweich wieder hergeben. Der Mann hält an Kutter
-fest, und hinter ihm stets die Legion der anständigen Bürger.
-Er musterte dann kritisch seine Winterabend seufzte: »Schraut
-unser schöner Weinkeller daheim, da lagert noch« so manche!
-Tröpfchen, das einfach klassisch ist …!« Und dann las er noch!
-malt den heute Weib eingetroffenen Brief seiner Mutter, nie!
-dein die dicxxe Mathilde offenbar mit einem Göänsekiel ge:
-schmiert hatte: »Heilgehilfe Flusse, und Herr Schraut schob
-sich zu viel essen, Ohr wert zu bin.«
+Harst meinte lachend: »Ich will nicht so unfein sein, und
+das P in ein F verwandeln, aber auch dann wird das Korps
+der Tintenkulis das Stadtoberhaupt nicht verschlucken und
+etwa windelweich wieder hergeben. Der Mann hält an Hutter
+fest, und hinter ihm stets die Legion der anständigen Bürger.«
+Er musterte dann kritisch seine Limonade und seufzte: »Schraut,
+unser schöner Weinkeller daheim, da lagert noch so manches
+Tröpfchen, das einfach klassisch ist …!« Und dann las er nochmals
+den heute früh eingetroffenen Brief seiner Mutter, unter
+dem die dicke Mathilde offenbar mit einem Gänsekiel geschmiert
+hatte: »Herhzehlije Jrüsse, und Herr Schraut soll
+nich zu viel essen, ehr werd zu dhick.«
 
-Wenn solle Priese, stets für uns beide bestimmt, ein
-trafen, konnte Harst sehr, schritt werden, und ich — —
-Heimweh, echtes Heimweh! Zäh!sehnte mich nach unsere!
+Wenn solle Briefe, stets für uns beide bestimmt, eintrafen,
+konnte Harst sehr, sehr still werden, und ich — —
+Heimweh, echtes Heimweh! Ich sehnte mich nach unserem
 <@pagebreak/>
-Garten, den Spargelbeeten, den. Treibhäusern … und meiner
-mütterlichen Freundin. Heimat blieb« Heimat, wenn es auch,
+Garten, den Spargelbeeten, den Treibhäusern und meiner
+mütterlichen Freundin. Heimat blieb Heimat, wenn es auch
+eine Heimat in Ketten war. —
 
-eine Heimat in Ketten war, «—.
-
-Daß hier bei: Harmonie auch jene Herren verkehrten (oben
-im dritten Fang); die nicht gerade allgemein beliebt waren,
-wußte und weiß ein. jeder. Dich Parasiten der Metropole, dieGaugsters,
-laufen ja, nicht: mit Ballonmütze, rotem Halstuch
-und Wollsweater herum und essen auch nicht Tisch mit dem
-Messer oder balancierte Kartoffelstücke mit demselben Wasser
-in den Mund. Es…Wind äußerlich Kavaliere, Besitzer von
-Spielhöllen, Bordellen, Opimnlhoöhlen,; — insgeheim leben sie«
-ihr zweites Leben, unterjocht, bezahlen. ihren Anhang, bereiten
-große Sischzügevor, Schicken ihre Autos mit bewegte
-retten Gentlemen weit ins Land, knallen Bankbeamte nieder,
+Daß hier bei Belmonte auch jene Herren verkehrten (oben
+im dritten Rang), die nicht gerade allgemein beliebt waren,
+wußte und weiß ein jeder. Die Parasiten der Metropole, die
+Gangsters, laufen ja, nicht mit Ballonmütze, rotem Halstuch
+und Wollsweater herum und essen auch nicht Fisch mit dem
+Messer oder balancierte Kartoffelstücke mit demselben Messer
+in den Mund. Es sind äußerlich Kavaliere, Besitzer von
+Spielhöllen, Bordellen, Opiumhöhlen, — insgeheim leben sie
+ihr zweites Leben, unterirdisch, bezahlen ihren Anhang, bereiten
+große Fischzüge vor, Schicken ihre Autos mit bewaffneten
+Gentlemen weit ins Land, knallen Bankbeamte nieder,
 schreiben Erpresserbriefe, lassen Menschen spurlos verschwinden,
-bekämpfen die anderen Gange…un9 «— werden sie mal geklappt,
-so ist das notwendige Alibi mit braven &eugen (Stück zu
-1000 Dollar) und unbequem Vermeiden rasch fix und fertig,
-und das Ende: &reisprucy oder Koffers zehn Monate wegen
-unbefugten Waffenbesites! — Das Spionagenetz dieser großer
-Gangsters Ist Licht minder such’ apsgehildet. Ihre Beziehungen
-reichen bis ganz nach, oben, — nur Los dem Büro des Bürgermeisters
-Körpers. sie ab, versagen sie: Dort ist für sie nichts zu
-holen! —. Daß die gesamten Gentlemen dieser Sorte — durch
-Kaptain Hutter, der für sie eine schreckliche sagenhafte See
-statt blieb, so allmählich in eine Raserei von Wut verfielen,
-war weiter ’kein »Wunder. Drohbriefe zu das Stadtoberhaupt
-waren jetzt an der Tagesordnung, Der stille, ruhige
-Mann lachte darüber, Gestern noch hatte er Kaptain Greap Hutter
+bekämpfen die anderen Gangs, und — werden sie mal geklappt,
+so ist das notwendige Alibi mit braven Zeugen (Stück zu
+1000 Dollar) und unbraven Meineiden rasch fix und fertig,
+und das Ende: Freispruch oder höchstens zehn Monate wegen
+unbefugten Waffenbesitzes! — Das Spionagenetz dieser großen
+Gangsters Ist nicht minder gut ausgebildet. Ihre Beziehungen
+reichen bis ganz nach oben, — nur vor dem Büro des Bürgermeisters
+stoppen sie ab, versagen sie: Dort ist für sie nichts zu
+holen! — Daß die gesamten Gentlemen dieser Sorte durch
+Kaptain Hutter, der für sie eine schreckliche sagenhafte Gestalt
+blieb, so allmählich in eine Raserei von Wut verfielen,
+war weiter kein Wunder. Drohbriefe an das Stadtoberhaupt
+waren jetzt an der Tagesordnung. Der stille, ruhige
+Mann lachte darüber. Gestern noch hatte er Kaptain Greap-Hutter
 auf dem üblichen geheimen Wegen zwei solcher Wische
-zustellen lassen, der. eine unterzeicgnet »Quoll, Ehe] des Gas
-immer-Gang«, der andere »Kapitel, Hättest des Kultur-Gang«,
+zustellen lassen, der eine unterzeichnet »Onoli, Chef des
+Calumet-Gang«, der andere »Honstel, Führer des Kultur-Gang«,
 
-»Vulkan«—Gang war ein Witz für- sich!!
-Bau dieser Bande hatte noch kein Mensch etwas-gehört,
+»Kultur«-Gang war ein Witz für sich!!
 
+Von dieser Bande hatte noch kein Mensch etwas gehört.
 <@pagebreak/>
 Greap hielt den Brief für einen schlechten Scherz, aber Harst
-hatte nur gesagt: »Zu den Akteur«
+hatte nur gesagt: »Zu den Akten!«
 
 Wir waren gerade beim Nachtisch angelangt, als einige
-Herren erschienen und uns höflich baten, mit ins Büro da
+Herren erschienen und uns höflich baten, mit ins Büro des
 Restaurants zu kommen. Drei waren es, weiter hinten noch
 drei, und der eine wies sich als Inspektor der Detektivpolizei
 Aus.
 
 Harst zog seinen Ausweis hervor, und der trug eine
-Unterjschrist und mehrere Stempel,
+Unterschrift und mehrere Stempel,
 
-»Bitte … oh bin Harry Horter, zugeteilt dem Spezialkommissar
-Kaptain Hutter. Wein Freund desgleichen.« +
+»Bitte … Ich bin Harry Horter, zugeteilt dem Spezialkommissar
+Kaptain Hutter. Mein Freund desgleichen.«
 
-Inspektor Lewys war dick und patzig. «&Sälschungen sind
+Inspektor Lewys war dick und patzig. »Fälschungen sind
 an der Tagesordnung«, grinste er hämisch. »Machen Sie
-kein Aussehen … Kommen Sie mit!«
+kein Aufsehen … Kommen Sie mit!«
 
-Harst blieb sehr ruhig. »Fälschungen auf dem — »Tapfer
+Harst blieb sehr ruhig. »Fälschungen auf *dem* Papier
 sind unmöglich, denn es trägt den Namenszug des Bürgermeisters
-als Wasserzeichen. Uoberzeugen Sie sich.«
+als Wasserzeichen. Überzeugen Sie sich.«
 
-Lewys lief blau an. »Wenn Sie nicht sofort ausstehen,
-gellt es eine unliebsame Szene. Ich verhafte Sie wegen un]
-besuchen Waffentragens, Fälschung und Diebstahl.«
+Lewys lief blau an. »Wenn Sie nicht sofort aufstehen,
+gibt es eine unliebsame Szene. Ich verhafte Sie wegen unbefugten
+Waffentragens, Fälschung und Diebstahl.«
 
-Harst blickte mich zu und sagte auf Deutsch:
+Harst blickte mich an und sagte auf Deutsch:
 
-»Bestellte Arbeit! Wollen sehen …
+»Bestellte Arbeit! Wollen sehen …«
 
-Ein Zug vorn Herren bewegte sich zum Büro. Kaum war)
-die Tür geschlossen, als Lewys grinsend seinen acht Bescheint
+Ein Zug von Herren bewegte sich zum Büro. Kaum war
+die Tür geschlossen, als Lewys grinsend seinen acht Heloten
 unsere Ausweise hinhielt.
 
-»Da — gefälscht! Kein Wasserzeichen!«
+»Da — gefälscht!! Kein Wasserzeichen!«
 
-Und zu uns: »Arme hohl! Sonst knallt es.
+Und zu uns: »Arme hoch!! Sonst knallt es …!«
 
-Er selbst durchsuchte uns, und daß er See Ton He?
-stimmtes suchte, war uns sehr bald klar.
+Er selbst durchsuchte uns, und daß er etwas ganz
+Bestimmtes suchte, war uns sehr bald klar.
 
 Genauer sind wir noch nie visitiert worden.
 
-klarer behielt sein untrügliches Lächeln bei. Er grinste
+Harst behielt sein untrügliches Lächeln bei. Er grinste
 direkt schadenfroh, als der Fettwanst aus unseren Taschen auch
-zwei fremde Portefeuilles hervorzauberte. Er hatte steht weit
-Ärmel und war zweifellos bei Bellachini in die Lehre gegangen;
+zwei fremde Portefeuilles hervorzauberte. Er hatte sehr weite
+Ärmel und war zweifellos bei Bellachini in die Lehre gegangen,
 
 »Taschendiebe!«, prustete Lewys erfreut.
 
@@ -863,92 +862,100 @@ zwei fremde Portefeuilles hervorzauberte. Er hatte steht weit
 »Ein Herr hat Sie denunziert, der Sie auf der Untergrundbahn
 »arbeiten« sah.«
 
-Grotten schien Mr. Lewys enttäuscht zu sein. Er suchte
-noch« immer, befühlte jede Nacht, befühlte sogar unsere Perücken,
+Trotzdem schien Mr. Lewys enttäuscht zu sein. Er suchte
+noch immer, befühlte jede Naht, befühlte sogar unsere Perücken,
 feixte über unsere Verkleidung, machte billige Witze
-und. zauberte zuletzt aus Harsts Jackenfutter noch etwas hervor:
+und zauberte zuletzt aus Harsts Jackenfutter noch etwas hervor:
 Ein Pappstück wie eine Garderobenmarke, aber mit
 einem eingepreßten Stempel:
 
-Kapitel, K.-G.
+<p class="centered">Honstel, K.-G.</p>
 
-»Glänzend!«, frohlockte er … »K.-G … l! Kultur-Gang!
-Esse von der Sorte seid ihr! — »Handschellen her.«
-klopfte es. »Draußen bleiben!«, brüllte er wütend,
-Es Klaps ’e nochmals, und dann flog die ganze Milchglasscheibe
+»Glänzend!«, frohlockte er … »K.-G. …!! Kultur-Gang!
+Also von der Sorte seid ihr! — Handschellen her.«
+
+Da klopfte es. »Draußen bleiben!«, brüllte er wütend,
+
+Es Klopfte nochmals, und dann flog die ganze Milchglasscheibe
 der Tür heraus und in der zackigen Öffnung standen
 ein paar Herren mit sehr unangenehmen Pistolen, ganz vorn
 ein sehr jugendlicher, schlanker mit dickem Schnurrbart und
 Intelligenzbrille: Greap. — oder besser Hutter, denn Hutter
 trug Schnurrbart und Brille. Greap nie.
 
-… »Mahlzeit(«, sagte Kutter gemütlich. Das hatte er von
+»Mahlzeit!«, sagte Hutter gemütlich. Das hatte er von
 uns gelernt. Es klingt zuweilen verdammt ironisch.
 
-»Er faßte Schlüssel und Riegel von innen, öffnete und trat
-mit ’seinen drei Mann ein, »Wilkiens, hängen Sie Ihren
-Mantel vor das. überflüssige Loch. — Was geht hier vor?«
+Er faßte Schlüssel und Riegel von innen, öffnete und trat
+mit seinen drei Mann ein, »Wilkiens, hängen Sie Ihren
+Mantel vor das überflüssige Loch. — Was geht hier vor?«
 Er hielt Mr. Lewys seinen Ausweis hin. »Wie kommen Sie
-dazu, die beiden Herren zu verlassen?! Wer ich bin, wissen
+dazu, die beiden Herren zu verhaften?! Wer ich bin, wissen
 Sie nun …!« Charly Greaps Stimme kündete Gewitter an.
 
-d: Igel: zog Tanzes blieb Radio und sechs. »Denunzierten,
-Kaptain … & Riesendiebstahl …  Es laufen jetzt So viele
-Schufte mit.
+Inspektor Lewys blieb patzig und frech. »Denunzianten,
+Kaptain … Taschendiebstahl …  Es laufen jetzt So viele
+Schufte mit …«
 
-Greaps Stirn bekam dicke Kerben. Über Harst zog ihn
-rasch beiseite und flüsterte mit ihm. -«
+Greaps Stirn bekam dicke Kerben. Aber Harst zog ihn
+rasch beiseite und flüsterte mit ihm.
 
-— Mr. Lewys begann seicht zu schwitzen.
+Mr. Lewys begann leicht zu schwitzen.
+
 Doch das Gewitter blieb aus.
-»Ein Versehen, Gnspektor«, sagte Greap freundlich.
+
+»Ein Versehen, Inspektor«, sagte Greap freundlich.
 
 <@pagebreak/>
-»Orte, ein Uöbersehen der Wasserzeichen im Papier der Aus
+»Und — ein Übersehen der Wasserzeichen im Papier der Ausweise,
+— das mag an der Beleuchtung gelegen haben.«
 
-»weise, -« das mag an der Beleuchtung gelegen haben.«
-»- 7 »Sicherlich!«, Läutete Gewiß liebenswürdig. »oh bitte
-»vielmals um Entschuldigung, ich handelte in gutem Glauben,
-ich! bin, vom Taschendiebdezernat …
+»Sicherlich!«, säuselte Lewys liebenswürdig. »Ich bitte
+vielmals um Entschuldigung, ich handelte in gutem Glauben,
+ich bin vom Taschendiebdezernat …«
 
 Harst stand vor einem Spiegel und rückte seine Perücke
-zurecht. »Ich trage Ihnen nichts nach, Mr. Lewys … —.+ Pflicht
-»bebt. Auge
+zurecht. »Ich trage Ihnen nichts nach, Mr. Lewys … Pflicht
+bleibt Pflicht …«
 
-Bewies Schwitzte wie im römischen Bad. »Kaptain Hutter,
-bitte er Vers ruinieren Sie mich nicht… melden Sie die. Sache
-»nicht, Sonst; »4 fliege ich hinaus«
-»unbemannte, Eis stiegen nicht hinaus …- Ich bin ’kein.
-Unmensch. Ich lasse die Leute lieber hineinfliegen als ’hinaus-
-stiegen«, Schenkte er behaglich. »Die Brieftaschen und die
-Marko: ’vom Flurtür-Sang hat man Mr. Horter natürlich in
-dem 11«Bahngedränge absichtlich zugesteckt … — Sehen Sie,
-»Lewys. wir. vom Sonderdezernat. haben bestimmte Grundsätze.
-Und« einer davon lautet, daß keiner’ von uns je unbeschütt
-bleibt, selbst wenn er bei ’Belmonte speist. Ich saß drüben auch
-im ersten Rang, und meine Leute sind allemal zur, Hand. Ne!
+Lewys Schwitzte wie im römischen Bad. »Kaptain Hutter,
+bitte — — ruinieren Sie mich nicht, melden Sie die Sache
+nicht, Sonst … fliege ich hinaus!«
 
-Stube bin die Milchglasscheibe,«
-Zu 3 30 —« die bezahle ich«, beeilte sich Lewys zu belagern,
-3: A Das!! ist nennen Ihnen «…«— Kommen Sie, Hocker
-»Sie ’ waren ja gerade erst. beim Böse, und es. fehlen noch« das
-Flüchtete und der Mokka.«
-»Er winkte Wilkiens unauffällig zu, und nach biederem
-Landeten: mit Mr. Lewys, dem kleinen Bellachini, nahmen
-wir unsere- Plätze wieder ein. »Greap folgte Ohr 4 halb und.
-Spielte den dritten Mann am Tisch, —
+»Bewahre, Sie fliegen nicht hinaus … Ich bin kein
+Unmensch. Ich lasse die Leute lieber hineinfliegen als hinausfliegen«,
+scherzte er behaglich. »Die Brieftaschen und die
+Marke vom Kultur-Gang hat man Mr. Horter natürlich in
+dem U-Bahngedränge absichtlich zugesteckt … — Sehen Sie,
+Lewys, wir vom Sonderdezernat haben bestimmte Grundsätze.
+Und einer davon lautet, daß keiner von uns je unbeschützt
+bleibt, selbst wenn er bei Belmonte speist. Ich saß drüben auch
+im ersten Rang, und meine Leute sind allemal zur Hand … —
+Schade um die Milchglasscheibe,«
 
-»Tracht, was wollte der Schuft?««.
+»Oh — die bezahle ich«, beeilte sich Lewys zu beteuern,
 
-»Hie Nagelfeile natürlich … Darstellte- Arbeit, Fieber.
-Greap, klappte nur richtet,« Und er streckte die sinke Hand
-ans, ’deren Finger er gerade geschlossen hielt, ö)snete Zeige
-und Mittelfinger, und auf das Erschlug fiel die kleine verrostete
-Regulierte mit ihren ausgeblasenen Rändern,
+»Das ist nett Ihnen … — Kommen Sie, Horter …
+Sie waren ja gerade erst beim Käse, und es fehlen noch das
+Fruchteis und der Mokka.«
+
+Er winkte Wilkiens unauffällig zu, und nach biederem
+Händedruck mit Mr. Lewys, dem kleinen Bellachini, nahmen
+wir unsere Plätze wieder ein. »Greap folgte sehr bald und
+Spielte den dritten Mann am Tisch,
+
+»Harst, was wollte der Schuft?«
+
+»Die Nagelfeile natürlich … Bestellte Arbeit, lieber
+Greap, klappte nur nicht recht.« Und er streckte die linke Hand
+aus, deren Finger er gerade geschlossen hielt, öffnete Zeige\-
+und Mittelfinger, und auf das Tischtuch fiel die kleine verrostete
+Nagelfeile mit ihren ausgebrochenen Rändern,
 
 <@pagebreak/>
-4\. Kapitel.
-Überfall
+
+<h2>4. Kapitel.</h2>
+<h3>Überfall!!</h3>
 
 … Es war Abend geworden,:Ickm großen Gewölbe des Hauptquartiers
 hockte trübselig das junge, elegante Mädchen aus
@@ -2482,7 +2489,7 @@ alles wohl beweisen müssen, Kaptain Hutter … 6ckchH erkläre
 alle Ihre Verdächtigungen für baren Unsinn 7 … Auf leere
 Anbieten hin verurteilt kein Gericht, und …«
 
-Greap-Kutter ’holke wortlos Wanderleers letzten Brief
+Greap-Hutter ’holke wortlos Wanderleers letzten Brief
 an Julia Coolp aus der Tasche. »Den Brief gab mir ohne
 Tochter Lydia«, Jagte er gleichmütig, »Lydia hat es vorgezogen,
 wirklich alles zu gestehen, und auch Ihre Kinder
