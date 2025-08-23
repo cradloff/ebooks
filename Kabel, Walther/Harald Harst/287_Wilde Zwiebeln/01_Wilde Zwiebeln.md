@@ -49,11 +49,11 @@ Zufalls hatte sie hierher geweht, und in kurzem war
 zwischen den Amerikanern und ihnen ein so treues, inniges
 Kameradschaftsverhältnis entstanden, daß auch sie sich
 mit zu Kaptain Greaps Elite rechnen durften, die ja
-nur die Ausgabe hatte, dem Verbrecherunwesen in Chicago
-in aller stille ein Ende zu bereiten. Mit den bisher
+nur die Aufgabe hatte, dem Verbrecherunwesen in Chicago
+in aller Stille ein Ende zu bereiten. Mit den bisher
 angewendeten Mitteln war dies nicht möglich gewesen,
 die Beziehungen der Gangsters, der Bandenführer, reichten
-in die höchsten Kreise hinaus, Bestechlichkeit, Gleichgültigkeit
+in die höchsten Kreise hinauf, Bestechlichkeit, Gleichgültigkeit
 und Angst vor den Banditen taten noch ein übriges,
 bis endlich der Bürgermeister dieser wunderbaren, allermodernsten
 Riesenstadt den jungen, unbekannten Detektiv Charly
@@ -86,7 +86,7 @@ und behielt daher die erste Meldung für mich. Folgendes
 ist geschehen.«
 
 So erfuhren wir von dem unklaren Unheil, das den
-Schönheitsvierer betroffen hatte. — »Das Büro des oberen
+Schönheitsvierer betroffen hatte. — »Das Büro des obersten
 Chefs teilte mir noch mit, daß Morris sofort zur Stelle
 war, das Boot genau durchsuchte und in dem Boot nur
 eine wilde Zwiebel fand, deren indianischer Name bekanntlich
@@ -119,7 +119,7 @@ Bach den niedergebrannten Holzplatz begrenzt, sah ich
 in dem dünnen Nebel zwei Gestalten, die mit Taschenlampen
 operierten. Lassen Sie uns Morris holen, lieber Greap,
 wir alte Knaben haben auch etwas von Checagua im Blute,
-etwas Indianischen Spürsinn, Kenntnis im Anschleichen
+etwas: Indianischen Spürsinn, Kenntnis im Anschleichen
 und einen untrüglichen Instinkt für drohende Gefahr,
 — allerdings mit Zwiebelduft können wir nicht aufwarten,
 den lieben die Deutschen nicht.«
@@ -167,7 +167,7 @@ gen Norden.
 Auf den sehr heißen Tag war eine recht kühle,
 neblige Nacht gefolgt. Es war jetzt kurz vor halb zwölf,
 und die ganze Umgebung lag finster und unheimlich da
-mit ihren traurigen Trümmern dieses im Flammen ausgegangenen
+mit ihren traurigen Trümmern dieses in Flammen aufgegangenen
 umfangreichen Fabrikgebäudes, zu dem auch eine Kistenfabrik
 gehört hatte. Die Firma war in Konkurs geraten, das
 Terrain war weiterveräußert worden, — ein Strohmann
@@ -272,7 +272,7 @@ mich auch, ich sah die nach vorn gerichteten Lauscher,
 ich sah das gesträubte Genickhaar, die Augen waren
 weit aufgerissen und leuchteten wie Opale.
 
-»Kommen Sie mit!« entschied im kurz. »Dort drüben
+»Kommen Sie mit!« entschied ich kurz. »Dort drüben
 im Gestrüpp und in den Müllbergen geht etwas vor …«
 
 Aber der Detektiv lachte nur, — mir klang es etwas
@@ -318,7 +318,7 @@ Zinkwände überall größere und kleinere Löcher aufwiesen.
 Der faulige Gestank, der gerade feuchten Müllmassen
 anhaftet, war durch den Nebel wie an den Boden gebannt.
 Meine Nase spürte deutlich süßlichen Verwesungsgeruch,
-aber meine Rase ist auch allzeit fein genug gewesen,
+aber meine Nase ist auch allzeit fein genug gewesen,
 sogar schwache Beimischungen anderer Gerüche unterscheiden
 zu können.
 
@@ -422,7 +422,7 @@ war und ganz verstört vor sich hin weinte.
 Roxy Liston, Stenotypistin in dem Riesenwarenhaus und
 gleichzeitig »Steuermann« des Schönheitsvierers!
 
-<h2>9. Kapitel.</h2>
+<h2>2. Kapitel.</h2>
 
 <h3>Miß Bekkas Verletzung.</h3>
 
@@ -445,7 +445,7 @@ alles Nötige war dort vorhanden.
 
 Harst und Greap trugen ihn, ich führte das Mädchen
 hinterdrein, das sich kaum auf den Füßen halten konnte
-und so jämmerlich schluchze, daß bei mir doch das Mitleid
+und so jämmerlich schluchzte, daß bei mir doch das Mitleid
 die Oberhand gewann und ich sie leise fragte:
 
 »Was wollten Sie eigentlich hier um Mitternacht
@@ -559,7 +559,7 @@ Nichts wirkte grotesker als dieses blonden Riesen
 Vorliebe für Diminutive wie Pistölchen, Panzerautochen
 und ähnliche. Allerdings benutzte er sie nur dann,
 wenn die Luft ganz brenzlich roch und damit zu rechnen
-war, daß in aller nächster Minute eine kugelsichere
+war, daß in allernächster Minute eine kugelsichere
 Weste mehr wert war als ein ganzes Paket Dollarnoten.
 Am erbittertsten zeigte sich Wilkiens gegen eine Sorte
 »Kollegen«, die die rechte Hand niemals wissen ließen,
@@ -633,11 +633,11 @@ Geruch, der mich warnte …
 
 »Achtung, — — ins Freie, hier ist …«, — der Rest
 des Satzes war wohl nur ein klangloses Stammeln, alles
-umher drehte sich blitzschnell, im glaubte, draußen
+umher drehte sich blitzschnell, ich glaubte, draußen
 noch das dumpfe Pong … Pong … Pong von Schüssen zu
 hören, — — als ich zu mir kam, lag ich auf einer der
 Pritschen im Hauptquartier und hatte eine Sauerstoffmaske
-vor dein Gesicht.
+vor dem Gesicht.
 
 Harst beugte sich besorgt noch tiefer hinab.
 
@@ -651,7 +651,7 @@ nach kurzem Feuergefecht entschwand der Gasarbeiter
 samt der Miß im dicken Nebel: Pech!!«
 
 Mochte es mir auch noch so wüst im Schädel sein,
-diese Nachricht trieb mich hoch. Ich streifte wir die
+diese Nachricht trieb mich hoch. Ich streifte mir die
 Maske ab. Meine Stimme war kein Tenor oder Bariton,
 für Schallplatten geeignet, — eine krächzende Krähe
 mochte im Vergleich zu mir noch als Caruso-Platte gelten
@@ -698,7 +698,7 @@ wieder völlig frischen Wilkiens eine längere Erörterung
 unverrichteter Sache heimkehrten, erklärte Charly Greap
 sehr energisch, daß er vorläufig gar nicht daran denke,
 sein Hauptquartier zu wechseln, mochte es auch den
-Zwiebelbrüdern bekannt sei.
+Zwiebelbrüdern bekannt sein.
 
 Tom Weylt war hiermit nicht recht einverstanden.
 »Kaptain, — es bleibt eine sehr kitzliche Geschichte
@@ -770,7 +770,7 @@ noch empörender. Der Messerstich saß rechts neben dem
 Herzen und war nur eine Schmarre, die mit elf Nadeln
 leicht zu flicken war. Auch den Blutverlust würde die
 Verletzte bald verwinden, erklärte der herbeigerufene
-Arzt, den strengstes Schweigen zur Pflicht gemacht
+Arzt, dem strengstes Schweigen zur Pflicht gemacht
 wurde.
 
 <h2>3. Kapitel.</h2>
@@ -897,7 +897,7 @@ auf Wilkiens.
 
 Wilkiens sagte schmunzelnd: »Ein Segen, daß ich
 ein lückenhaftes Alibichen habe … ein Segen!« Und seine
-blau grauen Augen, in denen die Ehrlichkeit eines unbestechlichen
+blaugrauen Augen, in denen die Ehrlichkeit eines unbestechlichen
 Charakters bescheiden leuchtete, strahlten vor Übermut.
 »Wer wohnt denn noch hier im Klubhaus, Miß?«, fügte
 er ebenso gutgelaunt hinzu.
@@ -933,14 +933,14 @@ und draußen irgendwo im Park wird es wohl nach Benzin
 und Blut riechen.«
 
 Der schlanke Kaptain, jungenhaft im Äußerem,
-Stahl uns geistige Regsamkeit im Innern, meinte bedrückt:
+Stahl und geistige Regsamkeit im Innern, meinte bedrückt:
 »Sie glauben, daß das alte Spiel der Gangsters, lästige
 Zeugen stumm zu machen, sich hier wiederholt hat?«
 
 »Ja, ich fürchte, das Weylt mit seinem Motorrad
 in dem Nebel nicht sehr weit gekommen ist, Greap. Teilen
 wir uns die Arbeit. Suchen Sie draußen, Schraut und
-ich suchen hier im Bootshaus. Ich denke, sowohl sie
+ich suchen hier im Bootshaus. Ich denke, sowohl Sie
 wie wir werden etwas finden, das uns vor neue Rätsel
 stellt.«
 
@@ -954,7 +954,7 @@ Tür des Haupteingangs vorsichtig ins Schloß.
 
 »Riegele von innen ab«, meinte Harst zu mir.
 
-Es gab da zwei Riegel, und im schob sie vor.
+Es gab da zwei Riegel, und ich schob sie vor.
 
 Ich hatte das Gefühl, daß mein Freund mit unangenehmen
 Zwischenfällen rechnete. »Weißt du«, sagte er gedämpft,
@@ -972,7 +972,7 @@ euch betäubt und seine blonde Roxy laufen lassen —
 Eins bleibt unverständlich: Sein brutales Vorgehen
 im Interesse dieses Mädchens! Es ist ausgerechnet das
 eine von fünf Rudergirls, das sich gerettet hat. Man
-könnte daraus allerhand schließen, aber — im warne!
+könnte daraus allerhand schließen, aber — ich warne!
 Was mir zu denken gibt, Weylts Motorradfahrt hierher.
 Ich glaube fast, er …« — Harst brach mitten im Satz
 ab. »Wer, meinst du, nagelte Kaptain Morris an den
@@ -1358,7 +1358,7 @@ mit der Pfote zum Abschied winken lassen. Auch wir
 gehören zum Sonderdezernat, und hier steht wörtlich
 geschrieben: »Ist befugt, auf eigene Verantwortung
 alles das anzuordnen, was besondere Umstände erfordern.«
-Glauben Sie, das ein Drahtseilattentat auf einen der
+Glauben Sie, daß ein Drahtseilattentat auf einen der
 Leute Kaptain Hutters eine Alltäglichkeit ist?! Nein,
 Kugeln aus Pistolen und Maschinengewehren zählen wohl
 zu landläufigen Vorkommnissen, aber ein Drahtseil,
@@ -1408,7 +1408,7 @@ Harst lachte bitter. »Und ich sage Ihnen im Vertrauen,
 daß der Gestürzte mit einer langen Stange hier vom
 Wege aus einen Hieb über den Kopf bekam, daß die Stange
 ein großer Bootshaken von sechs Meter Länge war und
-das der eiserne Haken den Körper hier auf den Weg schleifte,
+daß der eiserne Haken den Körper hier auf den Weg schleifte,
 ohne daß die drei Kerle den Rasen betraten, nur die
 Rasenkante! Wenn Sie sich die Fährten nochmals ansehen,
 werden Sie die Löcher finden, die die Bootshakenspitze
@@ -1449,7 +1449,7 @@ schwer verletzten Mädchen.
 sehr nervös. »Überhaupt ist es mir wenig angenehm,
 daß ich hierher gerufen wurde. Mit dem Checagua-Gang
 und all den anderen Banden möchte ich nichts zu schaffen
-haben.« Er war ein älterer Mann mit einen von Sorgen
+haben.« Er war ein älterer Mann mit einem von Sorgen
 und Schicksalsschlägen zermürbten Gesicht. Dennoch
 hatte er sich jene reine Menschengüte erhalten, die
 zumeist den studierten Arzt von all jenen Scharlatanen
@@ -1464,7 +1464,7 @@ wohnte in allernächster Nähe im Klubhaus des Rudervereins
 Junggeselle, aber sein galliger Humor und seine bittere
 Selbstironie, die sich in schlagfertigen, geistvollen
 Sätzen äußerte, enthüllten zuweilen seinen Seelenzustand.
-Alles im allem ein interessanter Mann, der offenbar
+Alles in allem ein interessanter Mann, der offenbar
 seine Vaterstadt Chicago besser kannte als ein zunftmäßiger
 Fremdenführer.
 
@@ -1501,7 +1501,7 @@ Erst als Harst ihm versprach, selbst Hutter davon nichts
 mitzuteilen, wurde Barbellere etwas offenherziger.
 
 »Ohne Zweifel waren jene Räume eine geheime Opiumhöhle.
-An derlei netten Lokalen, wo die ganz Reichen im aller
+An derlei netten Lokalen, wo die ganz Reichen in aller
 Stille ihren Lastern fröhnen, ist hier genau so wenig
 Mangel vorhanden wie an Bordellen … — Was mir in dem
 Raum, in dem die Verwundeten lagen, außer dem typischen
@@ -1598,7 +1598,7 @@ Sie schlug die Hände vor das Gesicht und weinte.
 
 »Bei Gott!«, stöhnte sie, »Yoel hätte mich ermordet,
 wenn ich nicht gehorcht hätte. Wenn Sie ihn kennen
-würden, meine Herren, — — ob, es ist ein Teufel!!«
+würden, meine Herren, — — oh, es ist ein Teufel!!«
 
 Ihre Beschreibung des zweifellos gut verkleideten
 Yoel half uns gar nichts. Sie paßte auf hunderttausend
@@ -1660,7 +1660,7 @@ Männerschluck Whisky, — — abgemacht!«
 
 Nun saßen wir mit Greap, Morris und Wilkiens bei
 starkem Kaffee und Zigarren und Zigaretten beieinander
-und erörterten das Gesehene. Vor uns lag der blecherne
+und erörterten das Geschehene. Vor uns lag der blecherne
 Beweis, daß Tom Weylt, den wir alle gern gehabt, der
 gerissenste von uns gewesen.
 
@@ -1819,14 +1819,14 @@ Bekka aber glich auf ein Haar dem sagenhaften Sam Yoel!!
 Wenn ich eine Meinung äußern soll: Die Gizty war das
 Oberhaupt der »Zwiebeln«, und eine »Zwiebel« tötete
 sie auf die von Ihnen angegebene Art, Mr. Horter, damit
-Bekka nichts verraten könnte, da Kollegs Hutter ihr
+Bekka nichts verraten könnte, da Kollege Hutter ihr
 sicherlich beim Verhör böse zugesetzt hat.«
 
 Keiner sagte etwas. Auch dies alles mußte erst
 geistig verarbeitet werden.
 
 Morris, der nicht gerade viel Geduld besaß, polterte
-heraus: Nun, Hutter, — — und Sie?!«
+heraus: »Nun, Hutter, — — und Sie?!«
 
 Charly Hutter-Greap deutete auf den alten Mann,
 der etwas abseits saß und der hier als Edgar Parker
@@ -1963,7 +1963,7 @@ zum Tempel hinaus …
 Tempo … Tempo!! Leben, genießen, reich werden!!
 Die Seuche des ödesten Materialismus, der keine großen
 heiligen Regungen kennt, erstirbt niemals in dieser
-Stadt von berauschender Schönheit. Wolkenkrater wie
+Stadt von berauschender Schönheit. Wolkenkratzer wie
 hier, vom See aus in langer Front geschaut, verlieren
 das Nüchtern-Häßliche.
 
@@ -2001,7 +2001,7 @@ absaugen, Kaptain …«
 »Absaugen?! Absaufen!!«, witzelt Charly. »Nein,
 — bleiben Sie getrost, der Flur interessiert uns nicht.«
 Er schließt Miß Bekkas Zimmer auf, in dem die Billardkugel
-ein Mädchen niederwarfen, das nun im Polizeilazarett
+ein Mädchen niederwarf, das nun im Polizeilazarett
 liegt. Bisher weiß niemand, wer sie ist. Chicago ist
 zu groß.
 
@@ -2085,7 +2085,7 @@ Argwohn geschöpft haben würde. — Zu langen Erörterungen
 ist hier keine Gelegenheit. Das verdammte Ding von
 Staubsaugerkessel duscht noch immer seinen Giftodem
 in die Luft und wird zunächst ins Freie getragen. Harst
-läuft damit die zweite Treppe hinab, läufst durch den
+läuft damit die zweite Treppe hinab, läuft durch den
 Bootsraum und nach draußen auf den Bootssteg und wirft
 den gefährlichen Kessel ins Wasser. Greap kriecht wie
 ein Seehund über den frisch gebohnerten Fußboden des
@@ -2156,7 +2156,7 @@ Und beide blinzeln sich an wie zwei Verschwörer.
 Mann den Ort unauffällig bewachen.«
 
 »Was Sie klug sind, — — acht Mann sind besser,
-schätze ich, drei im einem Motorboot, fünf als Parkarbeiter,
+schätze ich, drei in einem Motorboot, fünf als Parkarbeiter,
 — die Zwiebeln sollen abends geerntet werden, und keiner
 soll sie uns stehlen.«
 
@@ -2192,7 +2192,7 @@ und hört still zu. Harst zeigt ihm flüchtig die Zinkblechplatte
 und verbirgt sie wieder im Hutfutter. Nur von dem Buche
 schweigt er oder vergißt es zu erwähnen.
 
-Barbelleres faltiges Gesicht, unrasiert und armselig
+Barbellers faltiges Gesicht, unrasiert und armselig
 wie seine Kleidung, wendet sich bedächtig Kaptain Greap
 zu. »Sie haben mir Vertrauen  entgegengebracht, meine
 Herren«, sagte er immer noch etwas widerwillig, »ich
@@ -2208,7 +2208,7 @@ auf einen so bejahrten Mann. Sterben müssen wir alle
 Ebenso bedächtig und in sein Schicksal ergeben
 zieht er aus der Tasche ein Zinkplättchen etwa von
 derselben Größe hervor und reicht es Charly Greap.
-»Da — das soll wohl mein Todesurteil sein« Er lächelt
+»Da — das soll wohl mein Todesurteil sein!« Er lächelt
 müde. »Ich fand es in meinem Briefkasten, als ich jetzt
 hierher gerufen wurde. Ich sah etwas Weißes im dem
 Briefkasten, es war ein gewöhnlicher Umschlag ohne
@@ -2277,7 +2277,7 @@ aus dem Korbsessel nach vorn auf den Bastteppich. Die
 Kugel hatte ihm nur die linke Schulter und den Knochen
 gestreift, aber der Schreck hatte den alten Mann doch
 umgeworfen. Er war nicht bewußtlos, er war sogar beschämt
-über seine Schlappheit, wie er sich aus drückte.
+über seine Schlappheit, wie er sich ausdrückte.
 
 Die Jagd nach dem Attentäter blieb ergebnislos.
 
@@ -2292,7 +2292,7 @@ Hauptquartier zurück. Keiner sprach, wir waren hundemüde
 und abgespannt, und unser Schweigen enthielt nicht
 die oft zitierte Beredsamkeit. Wir standen einem großen
 Rätsel gegenüber. — Als wir zu Fuß über die öden, wüsten
-Bauparzellen zum Wache hinabschritten, sagte Harst
+Bauparzellen zum Bache hinabschritten, sagte Harst
 ganz unvermittelt: »Wissen Sie, was ein »stilles« Konto
 ist, Greap?«
 
@@ -2304,7 +2304,7 @@ kommen Sie auf dieses Thema, Harst?!«
 
 »Das werden Sie abends erfahren. Die Manhattan-Bank
 in Newyork verwaltet vier solcher stillen Konten. In
-dem bewußten Buche las ich, das schätzungsweise zwei
+dem bewußten Buche las ich, daß schätzungsweise zwei
 bis drei Millionen Dollar allein im Staate Newyork
 auf solchen stillen Konten lagern, das heißt, daß deren
 Besitzer entweder tot oder im Irrenhause sind oder
@@ -2313,7 +2313,7 @@ haben. Das gäbe einen hervorragenden Romanstoff. Schraut,
 merke dir das … falls du mal …«
 
 »Schreibe den Roman selbst«, — das war nicht sehr
-liebenswürdig von mir, aber übermüdete Menschen lasen
+liebenswürdig von mir, aber übermüdete Menschen lassen
 sich nicht gern verulken. —
 
 Ich schlief noch wie ein Toter, als ein furchtbarer
@@ -2332,9 +2332,9 @@ Bild«, sagte ich anzüglich und trat näher, indem ich
 in meine Jacke schlüpfte und die blonde Roxy scharf
 musterte. Sie senkte schnell den Kopf, und ich hätte
 etwas darum gegeben, wenn ich in diesem Augenblick
-ihre Gedanken hatte lesen können.
+ihre Gedanken hätte lesen können.
 
-»Setze dich und benimm dich anständig« meinte
+»Setze dich und benimm dich anständig«, meinte
 Harst ungewohnt gereizt. »Du hast keinen Grund …«
 
 Wozu ich keinen Grund haben sollte, — das übertönte
@@ -2377,7 +2377,7 @@ und Trümmer zu hüten gab.
 
 Nach fünf Minuten setzten wir uns in Marsch. Es
 goß in Strömen, der Regen hatte ganze Tümpel gebildet,
-die Finsternis war unheimlich, aus tief ziehenden Gewölk
+die Finsternis war unheimlich, aus tief ziehendem Gewölk
 zuckten blendende Blitze hernieder, wir patschten durch
 Nässe und Schlamm und kleine neue Bäche, Greap führte
 den uns noch gebliebenen gesunden Polizeihund an der
@@ -2402,7 +2402,7 @@ und sich mit in das Auto geklemmt hatte.
 eben näher, und ich ahnte schon, daß uns Dunkelheit
 und Regen einen Streich spielen würden. Ich hatte an
 der Vorderseite des Klubhauses die Wache, im ersten
-Stock rechts liegen Doktor Barbelleres Zimmer, und
+Stock rechts liegen Doktor Barbellers Zimmer, und
 ich hatte mit ihm vereinbart, daß er von seinem Bett
 aus mit dem Wasserglas oder der Wasserflasche eine
 Scheibe einwerfen sollte, falls er sich irgendwie bedroht
@@ -2416,8 +2416,8 @@ Mitgliederversammlung angesetzt worden, und …«
 »Kürzer!!«
 
 »Verzeihung — also kürzer. Gerade als der Regen
-wie aus Traufen herabflutete, hörte im oben eine Scheibe
-klirren, zu sehe war gar nichts, ich pfiff Alarm, und
+wie aus Traufen herabflutete, hörte ich oben eine Scheibe
+klirren, zu sehen war gar nichts, ich pfiff Alarm, und
 dann flog ich die Treppe empor. Des Doktors Zimmertür
 stand weit offen, die Bettdecke lag mitten im Zimmer,
 eine frische Blutspur lief vom Bett zur Tür, der Teppich
@@ -2437,14 +2437,14 @@ insgeheim noch ein schnelleres Fahrzeug, was ich füglich
 bezweifele, und wenn …, dann wird der Gurtspucker loslegen
 und den anderen Kahn rasch in ein Sieb verwandeln.«
 
-»… Und dann wird der Kahn wegsacken oder explorieren,
+»… Und dann wird der Kahn wegsacken oder explodieren,
 und wir haben das Nachsehen!«, brummte Wilkiens gekränkt.
 »Hätten Sie mich nur machen lassen, Kaptain, — als
-das Gewitter auszog, wollte ich hin und nach dem Rechten
+das Gewitter aufzog, wollte ich hin und nach dem Rechten
 schauen, aber …« — der Rest war ein ärgerliches Gemurmel.
 
 Harst sog an einer Zigarette und warf so nebenbei
-ein: »Houston, wenn Sie unter Barbelleres Fenstern
+ein: »Houston, wenn Sie unter Barbellers Fenstern
 gestanden haben: Vernahmen Sie ein Hämmern oder Pochen?«
 
 »Ja … Als es in der Ferne zu donnern begann. Das
@@ -2471,7 +2471,7 @@ Herren am langen Beratungstisch, rauchend, etwas nervös,
 sagte sehr unhöflich und deutete auf die Flügeltür,
 wo Wilkiens grinsend seinen Kugelspucker montierte
 und drei andere von der Elite ihre Pistolen liebevoll
-streichelten, — *sehr* unhöflich sagte er! »Bleiben Sie
+streichelten, — *sehr* unhöflich sagte er: »Bleiben Sie
 sitzen! Keiner verläßt den Saal!!«
 
 »Unerhört — — Vergewaltigung … Frechheit …« —
@@ -2514,7 +2514,7 @@ sich das Viereck, und die Abendsonne warf ihre letzten
 rosigen Strahlen in die Finsternis hinab. Da standen
 Kaninchenkäfige mit fetten Insassen, deren Augen rötlich
 aufglühten, da lagen Benzinkannen, alte Taue, alte
-ausgerollte Segel, leere Kisten.
+aufgerollte Segel, leere Kisten.
 
 Harst sprang hinab, Greap hinterdrein, — der Hund
 drängte nach, heulte, winselte, — — und dann verschwanden
@@ -2537,7 +2537,7 @@ Zwiebel Chicagos!«
 
 <h3>Das Konto wird nicht »still«.</h3>
 
-Aber Foulton Barbellers war nicht zu finden. Was
+Aber Foulton Barbellere war nicht zu finden. Was
 gefunden wurde, waren allerlei Papiere, in Benzinkannen
 mit doppeltem Boden versteckt! Papiere, die den Herren
 oben im Klubsaal die Gesichter blutleer machten … Eine
@@ -2610,7 +2610,7 @@ kräftig auf die Schulter. »Da, die Sonne scheint …
 Mag Miß Roxy Ihnen das Gesicht säubern … Dann geht
 in den Park und freut euch, Kinder! Geht nur!« —
 
-Doktor Foulton Barbellerer vergiftete sich, als
+Doktor Foulton Barbellere vergiftete sich, als
 er in der Manhattan-Bank die Zinkblechmarke ohne »Acht«
 vorzeigte und ein paar Herren dafür dringendes Interesse
 verrieten. — Das Konto Weylt wurde kein »stilles Konto«,
