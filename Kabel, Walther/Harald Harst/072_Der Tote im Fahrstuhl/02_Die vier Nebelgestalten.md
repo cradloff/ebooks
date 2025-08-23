@@ -875,7 +875,7 @@ Harald, der Lenk bisher von unserem Besuch bei der
 Schriftstellerin nichts mitgeteilt hatte.
 
 »Ganz recht, Herr Harst,« nickte Renborn. »Auch der
-Herr auf dem Kajütaufbau lies dann eine elektrische
+Herr auf dem Kajütaufbau ließ dann eine elektrische
 Taschenlampe eine Weile länger und kürzer aufleuchten.
 Hierauf wurden die Fenster wieder dunkel. Aber die Jacht
 blieb noch auf demselben Fleck liegen, entfernte sich erst,

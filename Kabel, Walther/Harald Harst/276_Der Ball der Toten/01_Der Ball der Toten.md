@@ -2177,7 +2177,7 @@ Harst winkte dem Polizeiarzt zu. »Herr Doktor, dort ist Chloroform,
 Tier … Sie finden da auch ein ärztliches Besteck, Nähseide und
 Sonstiges …«
 
-Die Katze lies sich von Harst ohne sträuben aus der Kiste heben,
+Die Katze ließ sich von Harst ohne sträuben aus der Kiste heben,
 und die Narkose war in kurzem beendet. In den großen Experimentiertisch
 wurden vier Nägel eingeschlagen, die Pfoten der Katze band Harst
 mit Mullbinden fest, und der Arzt hielt abwartend ein Messer

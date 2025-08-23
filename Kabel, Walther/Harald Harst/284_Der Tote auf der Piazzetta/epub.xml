@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">41eeb696-f999-434f-8091-f8976d8bb904</entry>
+<entry key="title">Der Tote auf der Piazzetta</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">284</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Der Tote auf der Piazzetta
+
+Unsere Gondel trieb langsam mit der Strömung den Canal Grande hinab, trieb dahin durch die unaussprechlich schöne Farbensinfonie dieses Sonnenabends, und wir drei, zurückgelehnt in die weichen Polster, sprachen über Literatur …
+
+Er rief den Gondoliere einen Befehl zu, und wir bogen in den Foscari-Kanal ein, der Gondoliere brüllte sein übliches »Scia!!« (Achtung!), die Dunkelheit war sehr tief, und die Farbenorgie am Himmel war wie weggewischt.
+
+»Scia!!«, — und doch wären wir beinahe mit der anderen Gondel zusammengeprallt, in der eine einzelne Dame mit schneeweißem Haar saß, auf den Schoß ein Malteserhündchen, das sie dauernd streichelte. Nicht einen Blick schenkte sie uns, sie war versunken in schmerzliche Gedanken, ihr Gesicht zeigte harte Linien des Leides, und als der Lichtschein eines vorbeisausenden Motorbootes sie traf, erkannte ich in ihr dieselbe Frau, die uns nun schon zweimal abends begegnet war, wenn wir mit unserem liebenswürdigen Gastgeber Kontarini von einem frohen Bummel vom Markusplatz heimgekehrt waren.
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (284) Der Tote auf der Piazzetta.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1929</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+

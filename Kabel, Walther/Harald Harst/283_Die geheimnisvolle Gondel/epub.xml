@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">bb801dd7-43a2-49b9-b995-28d63a57ff99</entry>
+<entry key="title">Die geheimnisvolle Gondel</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">283</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Die geheimnisvolle Gondel
+
+Otto Sarka von der »Nachtpost« war zweifellos ein kleines Genie. Aber er mußte nüchtern sein. Was selten der Fall war. Trotzdem konnte man ihn keinen Trinker nennen.  Dazu vertrug er zuviel. Wenn er zehn Glas Pilsner und fünf Schnäpse intus hatte, war er nur animiert. Mehr als animiert wurde er nie. Leider genügte dieses Stadium jedoch, seinen jungen lebhaften Geist zu Gedankenflügen anzufeuern, die bei ernsten Gelegenheiten wenig nutzbringend waren.
+
+Damals in Venedig waren die ganzen sonstigen oder gewöhnlichen Verhältnisse unseres lieben Otto infolge des überreichen Honorars seines leider sehr plötzlich zu seinen Ahnen versammelten Herrn und Meisters total auf den Kopf gestellt.  Otto hatte Geld die Hülle und Fülle. Otto war aus der Bierstube in der Seitenstraße des Markusplatzes einfach nicht mehr herauszubekommen. An jenem Vormittag, als wir beide soeben mit dem Fahrstuhl vom Campanile wieder hinabgeglitten und, böser Ahnungen voll, in die erwähnte Bierstube hineingesteuert waren, fanden wir dieses Unglückswurm noch auf genau demselben Stuhle vor, den er gestern abend halb zwölf beim Abschied innegehabt hatte. Der Kellner raunte uns vertraulich an der Tür zu, daß der Signore Sarka die Nacht über auf vier Stühlen im Lokal geschlafen habe.
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (283) Die geheimnisvolle Gondel.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1929</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
