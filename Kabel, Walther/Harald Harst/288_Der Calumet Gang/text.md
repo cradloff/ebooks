@@ -957,33 +957,33 @@ Nagelfeile mit ihren ausgebrochenen Rändern,
 <h2>4. Kapitel.</h2>
 <h3>Überfall!!</h3>
 
-… Es war Abend geworden,:Ickm großen Gewölbe des Hauptquartiers
+Es war Abend geworden. Im großen Gewölbe des Hauptquartiers
 hockte trübselig das junge, elegante Mädchen aus
-dem Kunstinstitut., Wir saßen ihr gegenüber, und abermals
-versuchte Harst. sie zu einem Geständnis zu bewegen.
+dem Kunstinstitut. Wir saßen ihr gegenüber, und abermals
+versuchte Harst, sie zu einem Geständnis zu bewegen.
 
 »Miß, vergessen Sie nicht, daß Sie ohne mich jetzt tot
-waren«, Jagte or gütig. ;»zehn dem Rembrandt-Saal hatte ich
+wären«, sagte er gütig. »In dem Rembrandt-Saal hatte ich
 schon vor Ihrem Eintreffen einen älteren Herrn bemerkt,
-der mir verdächtig erschien. Als Sie sich entfernten. verschwand
+der mir verdächtig erschien. Als Sie sich entfernten, verschwand
 auch er, und ich schloß daraus, daß man Sie … stumm machen
 wollte, da für Gewisse Leute nicht alles nach Wunsch gegangen
-war. Die Pech e versagte eben. Steigerten eine Nagelfeile
-vor ’dem Bild ausgehändigt erhalten, aber nicht von einem
-Herrn. Und- weil ein Herr Ihnen etwas zusteckte. glaubten
+war. Die Regie versagte eben. Sie sollten eine Nagelfeile
+vor dem Bild ausgehändigt erhalten, aber nicht von einem
+Herrn. Und weil ein Herr Ihnen etwas zusteckte, glaubten
 gewisse Leute, mit Ihnen besser Schluß machen zu müssen, damit
-Sie nichts. verrieten, — deshalb die Schießerei und die drei
+Sie nichts verrieten, — deshalb die Schießerei und die drei
 Toten und der beschädigte Kandelaber. Das Auto ist auch
-unbrauchbar. Aber … Sie leben. Wer sind Sie’?!« …
+unbrauchbar. Aber … *Sie* leben. Wer sind Sie?!«
 
-Das blasse Gesichtchen mit den dunklen, ’miiden, abgehalten
-Augen wurde noch trotziger. Nur die Schlosse Körperhaltung
+Das blasse Gesichtchen mit den dunklen, müden, abgehetzten
+Augen wurde noch trotziger. Nur die schlaffe Körperhaltung
 blieb.
 
 Harst legte seine Zigarette in die Ascheschale und nahm
 einen langen Zettel aus einem Aktenumschlag.
 
-Es war das Verzeichnis der Teilnehmer an der!piriftistischen
+Es war das Verzeichnis der Teilnehmer an der spiritistischen
 Sitzung.
 
 Harst las halblaut die Namen vor.
@@ -993,110 +993,109 @@ Starrkopfes.
 
 »Miß Gwenda Bellington …«
 
-Flüchtige Röte!choß ihr bis zur Stirne empor,
+Flüchtige Röte schoß ihr bis zur Stirne empor,
 
 »Also Sie sind Gwenda Bellington«, meinte Greap freundlich.
 <@pagebreak/>
 »Tochter von Thomas Ralph Bellington, Konservenfabriken,
 dreißig Millionen … — Geben Sie es zu?«
-Sekt Saß die Kleine jetzt.
 
-Sie weinte, Schluchzte, — — es genügte uns …
+Jetzt Saß die Kleine fest.
 
-Ader wenn wir geglaubt hatten, dadurch einen Schritt
-weiferzukommen, irrten wir uns, Die Hartnäckigkeit, mit der
-fein Stehen ihr Geheimnis verteidigte, war geradezu Her
+Sie weinte, Schluchzte, — — es genügte uns.
 
-kannst
+Aber wenn wir geglaubt hatten, dadurch einen Schritt
+weiterzukommen, irrten wir uns. Die Hartnäckigkeit, mit der
+dieses Mädchen ihr Geheimnis verteidigte, war geradezu erstaunlich.
 
-Sie wurde schließlich wieder in den. besonderen Raum geführt,
+Sie wurde schließlich wieder in den besonderen Raum geführt,
 wo sie unter Bewachung Roxy Listons verblieb.
 Roxy war die Braut des kleinen Thomas Weylt, eines der
-»besten von Greaps Elitetruppe. Mit Roxy und Greap waren
-»wir fünfzehn Leute, die zum Sonderdezernat gehörten. Rechnete
+besten von Greaps Elitetruppe. Mit Roxy und Greap waren
+wir fünfzehn Leute, die zum Sonderdezernat gehörten. Rechnete
 man noch Greaps Vater mit, wurden es sechzehn.
 
-Charly stopfte sich seine Pfeife und war sehr mißmutig’
+Charly stopfte sich seine Pfeife und war sehr mißmutig.
 »Harst«, sagte er schleppenden Tones, »diese Geschichte ist wie
 ein schlapper Gummiball. Man packt zu, und überall gibt es
-Eindrücke, — man packt nochmals zu, und die alten Einbohrte
+Eindrücke, — man packt nochmals zu, und die alten Eindrücke
 verschwinden und neue tauchen auf.«
 
-Drüben am Apparatetisch saß der kleine fixe Wagnis und
+Drüben am Apparatetisch saß der kleine fixe Weylt und
 hatte die Hörer übergezogen. Soeben flammten drei Lämpchen
-auf, und Weylt meldete nach kurzem Horchen: …
+auf, und Weylt meldete nach kurzem Horchen:
 
-»Kaptain, das Baby und Smith sind Operetten Honig
-bis zur Taktik gefolgt. Lewys ist über den Hinterzaun des
+»Kaptain, das Baby und Smith sind Inspektor Lewys
+bis zur Fabrik gefolgt. Lewys ist über den Hinterzaun des
 Grundstückes geklettert. Baby wünscht Verhaltungsmaßregeln.«
 
-»Weiter beobachten«, entschied Greap und lacht? uns
-plötzlich sehr verzwickt an. »Noch ein Lichtblick endlich! Sie
-hatten ganz recht, Harst: Vor Schuft Lewys ist mit dabei!«
+»Weiter beobachten«, entschied Greap und lachte uns
+plötzlich sehr vergnügt an. »Doch ein Lichtblick endlich! Sie
+hatten ganz recht, Harst: Der Schuft Lewys ist mit dabei!«
 
-»Dabei?!« Harst rauchte Still.
+»Wobei?!« Harst rauchte Still.
 
-Greap fluchte. »Stimmt — — »wobei?! — Worum geht es
-eingenistet?! — Nr — — Geduld! Die Fabrik hat Gespenster,
-die alles sehen, »rid die vergiftete Julia Coolp wird gerächt
-werden,
+Greap fluchte. »Stimmt — — wobei?! — Worum geht es
+eigentlich?! — Na — — Geduld! Die Fabrik hat Gespenster,
+die alles sehen, und die vergiftete Julia Coolp wird gerächt
+werden,«
 
-Er langte nach dem Aktfeustick, »Hier ist die Depesche
+Er langte nach dem Aktenstück. »Hier ist die Depesche
 aus Lugano«, brummte er kopfschüttelnd. »Lydia Wanderleer
 <@pagebreak/>
 und Miß Coolp nebst Bedienung wohnen noch dort … Sehr
-seltsam! Und hier im Leichenkeller liegt dahin Coolp, und das
-Baby will die Wanderleer erkannt haben — als Spiel Harst
+seltsam! Und hier im Leichenkeller liegt Julia Coolp, und das
+Baby will die Wanderleer erkannt haben — als Zofe! Harst
 Harst, die Sache wächst uns über den Kopf.«
 
-»Mir Pirat«, weinte der Zigarettenraucher getrost und
-blickte auf die Armbanduhr. »um halb elf brechen wir auf …
+»Mir nicht«, meinte der Zigarettenraucher getrost und
+blickte auf die Armbanduhr. »um halb elf brechen wir auf …«
 
-»Wohin?«.
+»Wohin?«
 
 Aber Weylt rief schon wieder:
 
-»Reue Altans vom Bahn: Lewys ist tot!«
+»Neue Meldung vom Baby: Lewys ist tot!«
 
-Wir fuhren hoch.«
+Wir fuhren hoch.
 
-… Strich beobachtete, wie Lewys eiligst wieder über
-den Zaun kletterte, plötzlich fiel er wie ein Sandten hinab:
+»… Smith beobachtete, wie Lewys eiligst wieder über
+den Zaun kletterte, plötzlich fiel er wie ein Sandsack hinab:
 Schuß durch den Kopf!«
 
-Greap. Stützte aus Geheimtelephon. »Hallo, … hier der
+Greap Stützte ans Geheimtelephon. »Hallo, … hier der
 Kaptain selbst … Beide Straßen absperren lassen … Wir
-kommen … Alles so lassen, wi? es ist.«
+kommen … Alles so lassen, wie es ist.«
 
 Dann trat er auf Harst zu,
 
-… »Hatten die das vorausgeahnt?
+»Hatten die das vorausgeahnt?
 
-»gab«
+»Ja!«
 
 »Ich auch!«
 
-Und. plötzlich zwinkerten beide sich he und Greap sagte
-Halblaut: »Alter Freund, ich bin nicht auf den Kopf gelauert«
+Und plötzlich zwinkerten beide sich zu, und Greap sagte
+Halblaut: »Alter Freund, ich bin nicht auf den Kopf gefallen!«
 
-»Das weiß ich, lieber Grog«. Über Sie könnten leicht vorn
-einem … Gaul lassen … Diebe wir die Panzerwesten an. Es
-wird wohl Chinas lebhaft hergehen. Der Calumet-Gang, glaube
-ich, wird Ich mächtig ausfragen, den Totengräbern was zu
-verdienen zu geben. Mann kennt den Calumet »Gangster nicht,
-war rät hin und her. schleimte ihn …««.
+»Das weiß ich, lieber Greap. Aber Sie könnten leicht von
+einem … Zaun fallen … Ziehen wir die Panzerwesten an. Es
+wird wohl etwas lebhaft hergehen. Der Calumet-Gang, glaube
+ich, wird sich mächtig anstrengen, den Totengräbern was zu
+verdienen zu geben. Mann kennt den Calumet-Gangster nicht,
+man rät hin und her. Ich kenne ihn …«
 
-Greap nachts ein Sehr langes Gesicht.
+Greap machte ein Sehr langes Gesicht.
 
-»Dann wissen Sie von mehr als l«
+»Dann wissen Sie noch mehr als ich!«
 
-1« Sein, — Nr … Sie Tischherr die Karten falsch … Flecken
-Sie sie: du der Füllte maß der Bube liegen — in der
-Mittel«
+»Nein, — nur … Sie mischen die Karten falsch … Merken
+Sie sich: In der Mitte muß der Bube liegen — in der
+Mitte!«
 
-Schon wieder Besitz helle Stimme da:
+Schon wieder Weylts helle Stimme da:
 
-»Kaptain, der Oberchef wünscht Eid zu sprechen …«
+»Kaptain, der Oberchef wünscht Sie zu sprechen …«
 
 <@pagebreak/>
 Greap meldete sich …
@@ -1106,135 +1105,136 @@ Greap meldete sich …
 Er horchte …
 
 »Bedauere, das geht nicht«, erklärte er. »Gewiß, wir
-haben Miß Bellington hier, aber sie noch Hause zu entlassen,
+haben Miß Bellington hier, aber sie nach Hause zu entlassen,
 hieße alles aufs Spiel setzen, auch ihr Leben! Soeben ist Lewys
-erschossen worden, und Lewys suchte auch die Nagelfeile, — Eck
+erschossen worden, und Lewys suchte auch die Nagelfeile. — —
 Danke, — — Schluß.«
 
-Er kehrte zu uns zurück. »Der. Bürgermeister ist einverstanden,
-daß die Bellington der bei uns bleibt, — Also —
-»Ausbruch!«
+Er kehrte zu uns zurück. »Der Bürgermeister ist einverstanden,
+daß die Bellington hier bei uns bleibt. — Also —
+Aufbruch!«
 
-— Diese versetzte Mainacht war Geranien Unfreundlich wie
-die gestrige. Wir hatten draußen auf dem Fetzen Ruinenfeld
+Diese vorletzte Mainacht war genau so Unfreundlich wie
+die gestrige. Wir hatten draußen auf dem weiten Ruinenfeld
 regelmäßig zwei Wachen und zwei Polizeihunde, eine Vorsichtsmaßregel,
-die sehr notwendig war, da Greaps erstes.
-Hauptquartier durch) Spione ermittelt worden war und daher
-ausgegeben werden mußte. Bis zum Feldweg im Nordwesten
-war des eine ziemliche Strecke zu laufen, der Boden warrausgeweiht,
+die sehr notwendig war, da Greaps erstes
+Hauptquartier durch Spione ermittelt worden war und daher
+aufgegeben werden mußte. Bis zum Feldweg im Nordwesten
+war es eine ziemliche Strecke zu laufen, der Boden war aufgeweicht,
 die Luft feuchtwarm und schwer. Regendunst lastete
 über der ganzen Gegend, und der Lichtschein der City im
 Süden war kaum zu erkennen. Offenbar goß es dort in
 Strömen. Man darf nie vergessen, daß die Seefront Chicagos
 etwa vierzig Kilometer lang ist, das sind fünf deutsche
 Meilen. Hier draußen im Nordwesten begann bereits die
-Welt der Vororte und Formen und Villenkolonien,
+Welt der Vororte und Farmen und Villenkolonien,
 
 Als wir die einsame alte Pappel erreichten, die für uns
 ein willkommenes Merkzeichen war, da ihr halb verfaulter
-Stamm mit Lernten tiefen Löchern ganze. Kolonien von Leuchtkäfern
+Stamm mit seinen tiefen Löchern ganze Kolonien von Leuchtkäfern
 beherbergte, deren übergroße Menge nachts ein mattes,
-gespensti]sches Licht spendete, lehnte dort ein sittsamen Mann
-an beim Baume und begrüßte uns durch kurzen leisen Zuruf: …
-Kaptain Morris, der das Heiligtum festlich zwischen Oberchef
+gespenstisches Licht spendete, lehnte dort ein einsamer Mann
+an dem Baume und begrüßte uns durch kurzen leisen Zuruf:
+Kaptain Morris, der das Verbindungsglied zwischen Oberchef
 und Hauptquartier darstellte.
 
 »Der Wagen steht bereit, auch der kleine ist drüben«,
-jagte Morris bedeutsam. »Die Hornissen ]’hwäarmeun diese
+sagte Morris bedeutsam. »Die Hornissen schwärmen diese
 <@pagebreak/>
-Nacht, meine Leute waren indem Südspelunken, es verriet
+Nacht, meine Leute waren in den Südspelunken, es herrscht
 da verdächtige Leere. Gerade die Lokale, wo die uns bekannten
 Mitglieder vom Calumet—Gang verkehren, sind wie ausgefegt.«
 
-Harst hatte »Morris die Hand gedrücumt, Er wendete sie
-an Greap. »Wissen Sie,« lassen Sie &öhre Elite lieber hier,
+Harst hatte Morris die Hand gedrückt. Er wendete sich
+an Greap. »Wissen Sie, lassen Sie Ihre Elite lieber hier.
 Ich wittere Böses, ich glaube, die Person Gwenda Bellingtons
-letzten Herrschaften ein Fuchsgesicht wert. Hören Sie
-»auf mich, Greap, … Und: wenn Morris wo ein übriges tun
-will, mag er unser Hauptgrund Tier ich in ganz weitem Umfange um,
-Kreisen. Dreißig Man werden genügen.«
+ist den Herrschaften ein Nachtgefecht wert. Hören Sie
+auf mich, Greap. Und wenn Morris noch ein übriges tun
+will, mag er unser Hauptquartier in ganz weitem Umfange umkreisen.
+Dreißig Man werden genügen.«
 
-… Greap. auf Knie. »Bart müßte unser »setzte entdeckt
-Sein, Harst …+ Benares entnehmen Sie sagt« …
+Greap zauderte. »Dann müßte unser Versteck entdeckt
+Sein, Harst … Woraus entnehmen Sie das?«
 
--»,, »Kommen. Sie mit«. +
-Er führte uns zehn Schritt zurück und deutete uf eine
-Pappel. »Was sehen Sie?!«- …
+»Kommen Sie mit«.
 
-Wir waren sieben Leute mit geschultert Guten,
+Er führte uns zehn Schritt zurück und deutete auf eine
+Pappel. »Was sehen Sie?!«
 
-»Heck sehe nichts Besonderes«, rothaarig Greap doch Diwan
-beunruhigt. — +
+Wir waren sieben Leute mit geschulten Augen,
 
-»und im Sehe droben einen Droht im zweiten rechten Ast.
-Blicken Sie scharf hin… Es werden zwei Drähte sein … Hing
-Telephonleitung, Suchen wir den Apparat …
+»Ich sehe nichts Besonderes«, erklärte Greap doch etwas
+beunruhigt.
 
-» »Unten war der Stamm völlig hohl und mit »Laub, Unkraut
-und Holzmehl. ausgefüllt, Wilkiens wühlte scheu mit den Händen
-in beim unappetitlichen Gemenge.
+»und ich Sehe droben einen Draht im zweiten rechten Ast.
+Blicken Sie scharf hin. Es werden zwei Drähte sein … eine
+Telephonleitung. Suchen wir den Apparat …«
+
+Unten war der Stamm völlig hohl und mit Laub, Unkraut
+und Holzmehl ausgefüllt. Wilkiens wühlte scheu mit den Händen
+in dem unappetitlichen Gemenge.
 
 »Bei Gott, — — ein Telephon, — — in einem Kasten!«
 
-… Harsts Scharfe Stimme fügte hinzu: »Wilkiens, Bechert,
-—. r—. Auflage im Lausschritili«:
+Harsts Scharfe Stimme fügte hinzu: »Wilkiens, Weylt,
+— — zurück im Laufschritt!!«
 
-Morris dröhnendes Lachen folgte, »An die Möglichkeit
-Solcher Schweinerei habe ich. schon gedacht. Zwanzig Mann,
-zwanzig Hunde liegen hier herum bereit +… Auch der alte
-Morris hat mal einen ’guten Gedanken …«
+Morris dröhnendes Lachen folgte. »An die Möglichkeit
+Solcher Schweinerei habe ich schon gedacht. Zwanzig Mann,
+zwanzig Hunde liegen hier herum bereit … Auch der alte
+Morris hat mal einen guten Gedanken …«
 
-Vielleicht hätte er nahm einige noch bessere Gedanken entwickelt,
+Vielleicht hätte er noch einige noch bessere Gedanken entwickelt,
 aber zwei kurze Detonationen aus der Richtung des
-Hauptquartiers jagten uns wie eine Meute Wölfe wieder ist
+Hauptquartiers jagten uns wie eine Meute Wölfe wieder in
 die Wüstenei des leeren Bauterrains hinein.
 
 <@pagebreak/>
 Über unseren Köpfen aber zischte die von Morris geworfene
-Handrakete gen Himmel, drei blendende Leuchtkugeln’
+Handrakete gen Himmel, drei blendende Leuchtkugeln
 spie sie aus, und was weiter geschah, war Stoff für acht Tage
 für die ganze amerikanische Presse. —
 
 Rasendes Maschinengewehrfeuer knatterte, Handgranaten
-explodierten, ein Scheinwerfer beichtete auf, und rund um die
+explodierten, ein Scheinwerfer leuchtete auf, und rund um die
 Ruinen des Kesselhauses des einstigen Sägewerks blitzte und
 knallte es ohne Atempause. Wir rannten durch den schlammigen
 Bach, Morris brüllte warnend: »Hinwerfen!! Hinwerfen!!« —
-Der Dreck sollte unter den zischenden Geschossen hoch, dann
-kam ein Knäuel von Menschen dahergerasit — — der klägliche
+Der Dreck spritzte unter den zischenden Geschossen hoch, dann
+kam ein Knäuel von Menschen dahergerast — der klägliche
 Rest der Angreifer, noch zwölf Mann …
 
-die Sprengen wie die Hafen, suchten Deckung hinter den
+Sie Sprangen wie die Hasen, suchten Deckung hinter den
 Holztrümmern, hinter halb verkohlten Bretterstapeln …
 
 Greap lag neben mir …
 
-Charly Greap Jagte leise: »Abwarten!!«
+Charly Greap sagte leise: »Abwarten!!«
 
-Wieder sagte die Kugelspritze über uns bleierne Dank
-hinweg … »re
+Wieder fegte die Kugelspritze über uns bleierne Saat
+hinweg …
 
-Gellende Schreie … Ort paar Kerle knickten um …
+Gellende Schreie … Ein paar Kerle knickten um …
 
-Kam feuerte Kaptain Greap — — Schuß zu] Schuß, ohne
-Erbarmen, — — — — dann glitt ein Polizeiauto mit eöcheimversern
+Dann feuerte Kaptain Greap — Schuß auf Schuß, ohne
+Erbarmen, — — dann glitt ein Polizeiauto mit Scheinwerfern
 über den Brandplatz …
 
-Auch Morris schloß, den Ellbogen aufgestützt, und qrimimig
-rief er dazu: »An die Nacht soll das Gesindel denken!!«
+Auch Morris schoß, den Ellbogen aufgestützt, und grimmig
+rief er dazu: »An *die* Nacht soll das Gesindel denken!!«
 
-Greap antwortete ebenso erbittert: »litt dem Deuten
+Greap antwortete ebenso erbittert: »Mit dem Denken
 wird es wohl nichts mehr werden, Morris!! Dies ist die
-Quittung für die Calumet-Brüder für die Ausrüstung der
-sechs harmloj)en Cascheidiebe in Farmer Bronuce’s Scheune!!«
+Quittung für die Calumet-Brüder für die Füsilierung der
+sechs harmlosen Taschendiebe in Farmer Bronce’s Scheune!!«
 
-Das Jener verstummte. Männer mit Gulden erschienen
-— hin und wieder noch ein Klub, — hin und wieder das
-drohende Aufheulen eines der Rücken …
+Das Feuer verstummte. Männer mit Hunden erschienen
+— hin und wieder noch ein Schuß, — hin und wieder das
+drohende Aufheulen eines der Rüden …
 
-Ins wir die Steintreppe erreichten, die zwischen Balken
-und Gestrüpp und Schuft in die Gewölbe hinabjäihrte, fanden
-mit zerfetzte Körper, Cote, — und fanden er Atem Opfer,
+Als wir die Steintreppe erreichten, die zwischen Balken
+und Gestrüpp und Schutt in die Gewölbe hinabführte, fanden
+wir zerfetzte Körper, Tote, — — und fanden *einen* Toten,
 <@pagebreak/>
 den einzigen auf unserer Seite: Einen der Wachtposten. Der
 andere war mit einem Ziegelstein niedergeschlagen worden …
@@ -1249,170 +1249,166 @@ Greap war totenbleich. Seine Augen suchten etwas …
 
 Wir anderen standen stumm.
 
-Er sah’s seinen Vater, der hier als Thar Parker Tor —
-Wächter gespielt hatte.
+Er suchte seinen Vater, der hier als Edgar Parker Torwächter
+gespielt hatte.
 
-Morris winkte uns …
+Morris winkte uns.
 
-Draußen rief er seinen Leuten Befehle zu … — »Polizeiverstärkung
-traf ein … &ünf, sechs Scheinwerfer arbeiteten.
+Draußen rief er seinen Leuten Befehle zu … — Polizeiverstärkung
+traf ein … Fünf, sechs Scheinwerfer arbeiteten.
 Zwei Stunden lang wurde jeder Winkel durchstöbert: Der
 alte Greap und die blutjunge Gwenda Bellington waren und
 blieben verschwunden,
 
 Dazwischen hatten Harst, Wilkiens und ich längst mit
-dem kleinen Panzerauto die Elenden-Street erreicht. Die
+dem kleinen Panzerauto die Cleaver-Street erreicht. Die
 Straße war noch abgeriegelt, der ganze Häuserblock umstellt.
 Als wir die Wanderleer-Villa betraten, kam uns der krächzende,
 hüstelnde Braham entgegen. »Eine richtige Verbrecherhöhle
 haben Sie aus dem Hause gemacht«, murrte er gereizt.
-»Ironie Nacht bat man mehr Ruhe, die Nachbarn behandeln
+»Keine Nacht hat man mehr Ruhe, die Nachbarn behandeln
 mich schon wie einen Genossen von Mördern und Dieben,
-un
+und …«
 
 »Das wird sehr bald ein Ende haben, mein Lieber«, unterbrach
 Harst den Redeschwall mit verdächtiger Freundlichkeit.
-»&Gühren Sir uns durch die Hintertür auf den Hof. — Haben
-Sie einen Klub gehört?«
+»Führen Sie uns durch die Hintertür auf den Hof. — Haben
+Sie einen Schuß gehört?«
 
 »Schuß! Nichts habe ich gehört. Danach hat schon der
 junge freche Herr da draußen gefragt, die Polizei wird immer
-geingebildeter, der Respekt vor weißen Haaren …
+eingebildeter, der Respekt vor weißen Haaren …«
 
-»Sammeln Sie sich Ihre Haare mal, dann wird auch der
+»Kämmen Sie sich Ihre Haare mal, dann wird auch der
 Respekt kommen!«, meinte Wilkiens grob.
 
-Abel Braham schlurfte voraus in den Humterslur, Die
+Abel Braham schlurfte voraus in den Hinterflur. Die
 <@pagebreak/>
 Küchentür stand offen, und vor dem Gasherd stand Frau Alma
 Braham in ähnlichem Aufzuge wie ihr Herr Gemahl und rührte
 mit Einem Löffel in einem Aluminiumtiegel, in dem eine braune
-Grunde dampfte und Blasen schlug. Es roch stark nach Kaffee
-— und: Röstbrot. — … Harst blieb stehen. »Guten Abend, Frau …
-Braham … An ihrem Alter sollte man besser im Bett bleiben.
-Wenn Sie jetzt mochten kräftigen Kaffee trinken, werden Sie
-»gar nicht Schlafen können,«
+Tunke dampfte und Blasen schlug. Es roch stark nach Kaffee
+und Röstbrot. — Harst blieb stehen. »Guten Abend, Frau
+Braham … In ihrem Alter sollte man besser im Bett bleiben.
+Wenn Sie jetzt noch so kräftigen Kaffee trinken, werden Sie
+gar nicht Schlafen können,«
 
-… Ich betrachtete mir. die hagere, gedruckte Gestalt zum
+Ich betrachtete mir die hagere, gebeugte Gestalt zum
 ersten Male genauer. Ich hatte ihrem Manne doch Unrecht
-getan: Sie war noch schmieriger als Herr Abel!l -Die rote.
-»Male, die Hängebacken, die Erregungen hinter der schief sitzenden
-Vickelbriile, deren eines Glas einen Sprung hatte, das dünne
-grauweiße Haar, in vier. Köpfchen geflochten und mit einer
-»Fangen Haarnadel befestigt, dazu 5 ie Hände, — — es bliebunbegreijlich,
-daß eine junge. Witwe wie Lydia Wanderleer,
+getan: Sie war noch schmieriger als Herr Abel! Die rote
+Nase, die Hängebacken, die Triefaugen hinter der schief sitzenden
+Nickelbrille, deren eines Glas einen Sprung hatte, das dünne
+grauweiße Haar, in vier Zöpfchen geflochten und mit einer
+langen Haarnadel befestigt, dazu *die* Hände, — — es blieb
+unbegreiflich, daß eine junge Witwe wie Lydia Wanderleer,
 die doch zweifellos Dame von Welt war, ein so verkommenes
 altes Ehepaar um sich duldete, von dem es hieß, daß Geiz und
-»Habgier die hervorstehendsten Merkmale seien … —
+Habgier die hervorstehendsten Merkmale seien.
 
-» Die schmierige Bette! lächelte abscheulich und sagte mit
+Die schmierige Vettel lächelte abscheulich und sagte mit
 einem grauenvoll wirkenden Rest von Koketterie: »Alte Leute
-sehnen sich nicht nach dem Bett, Mister … l««:
+sehnen sich nicht nach dem Bett, Mister …!«
 
-… Harst ging weiter. — Im Garten, der an den Fabrikhof
-senkte, brannten vier von der Polizei aufgestellte elektrische.
-Augen mit Stromzuführung von einem der draußen einige
-
-Stellten Scheinwerferwagen. Mitten in dem völlig vernachlässigten
-Hintergarten, dessen Lassen und Beete als ’Park-
-platt für die Autos: des Spiritistenklubs dienten, erhob sich
+Harst ging weiter. — Im Garten, der an den Fabrikhof
+grenzte, brannten vier von der Polizei aufgestellte elektrische
+Lampen mit Stromzuführung von einem der draußen aufgestellten
+Scheinwerferwagen. Mitten in dem völlig vernachlässigten
+Hintergarten, dessen Rasen und Beete als Parkplatz
+für die Autos des Spiritistenklubs dienten, erhob sich
 ein zierlicher Pavillon, und in diesem erhöhten Glashäuschen
 hatte man hinter der Wandverkleidung die Schalter für die
 Lichtreklame gefunden, nachdem man den Kahlen Garten und
-So? bis zum Fabrikschornstein hin aufgegraben hatte. Ein
+Hof bis zum Fabrikschornstein hin aufgegraben hatte. Ein
 Detektiv saß hier als Wache, keiner von Greaps Leuten. Er
-grüßte, und wir schritten weiter bis zur Mauerpforte, die ich?
+grüßte, und wir schritten weiter bis zur Mauerpforte, die in
 die Parallelstraße führte. Die Tür war jetzt offen, und acht
 <@pagebreak/>
 Meter links von dieser Tür fanden wir auf dem Bürgersteig
-draußen vier Herren und den toten erschossenen Gnspektor
+draußen vier Herren und den toten erschossenen Inspektor
 Lewys. Die Herren waren unser Baby Houston, unser Detektiv
-Schnitt, der Chef der Detektivpolizei und ein großer
-stattlicher Mann mit strengen Zügen. Der Millionär Berlins
+Smith, der Chef der Detektivpolizei und ein großer
+stattlicher Mann mit strengen Zügen. Der Millionär Bellington.
 
-Ton.
-
-… Die seit langem bestehende Eifersucht zwischen dem Detektivchef
+Die seit langem bestehende Eifersucht zwischen dem Detektivchef
 und Charly Greap kam hier uns gegenüber kaum
-zum Ausdruck, Kaum, — etwas doch, in Kleinigkeiten. »Was
-soll der Bellington hier?«, sagte er wütend. »Bach wollte ihn
+zum Ausdruck. Kaum, — etwas doch, in Kleinigkeiten. »Was
+soll der Bellington hier?«, sagte er wütend. »Ich wollte ihn
 wegschicken, aber er hat einen Wisch vom Bürgermeister.
 Wenn der Mann sich um sein Kind sorgt, braucht er hier nicht
 umherzuschnüffeln.«
 
 »Hat er das?«, fragte Harst ebenso leise.
 
-… »Ja — und anmaßend benahm er sich — — unerhört(«
-». Harst trat auf Bellington zu. »Kaptain Hutter sendet
-mich als seinen Vertreter hierher«, meinte er sehr förmlich,
-»Gewisse Erkundigungen ergaben, daß Sie, Mr. ’Bellington,
+»Ja — und anmaßend benahm er sich — — unerhört!«
+
+Harst trat auf Bellington zu. »Kaptain Hutter sendet
+mich als seinen Vertreter hierher«, meinte er sehr förmlich.
+»Gewisse Erkundigungen ergaben, daß Sie, Mr. Bellington,
 nur der Stiefvater Miß Gwendas sind. Sie heirateten erst eine
-Cousine, dann deren Schwester, und gerade Ehre erste Frau
-war sehr reich.«! …
+Cousine, dann deren Schwester, und gerade Ihre erste Frau
+war sehr reich.«
 
 Das steinerne, farblose Gesicht Bellingtons verzog sich
-verächtlich. »Was soll das?! Ich kenne nicht einmal schien
-Namen … »’. »Hier ist ein Schreiben des Bürgermeisters, das
+verächtlich. »Was soll das?! Ich kenne nicht einmal Ihren
+Namen … Hier ist ein Schreiben des Bürgermeisters, das
 mir …«
 
 Harst zerriß es. »Der hohe Herr, der Gott sei Dank ein
 strenges, gerechtes und ehrliches Regiment führt, hat Kaptain
 Hutters Entschließungen durchaus gebilligt und diesen Erlaubnisschein
-außer Kraft gesetzt. — Sind Sie besagt, Schußwaffen
-zu tragen?««
+außer Kraft gesetzt. — Sind Sie befugt, Schußwaffen
+zu tragen?«
 
 Bellingtons Gesicht wurde blaurot. Eine unbändige,
 Zügellose Wut flackerte in seinen Augen, seine Fäuste fuhren
 empor, im gleichen Moment packte ein Stärkerer zu: Wilkiens,
 <@pagebreak/>
-»und Bellingtons leiser Aufschrei vermischte sich mit dem metallischen
+und Bellingtons leiser Aufschrei vermischte sich mit dem metallischen
 Zuschnappen von Handschellen.
 
 »Durchsucht ihn!«
 
-… Houston brachte böse lächelnd ans Bellingtons Taschen
-»wer kleine Pistolen und ein Dolchmesser mit Scheide zum
-»Forschern.
+Houston brachte böse lächelnd aus Bellingtons Taschen
+zwei kleine Pistolen und ein Dolchmesser mit Scheide zum
+Vorschein.
 
-». »Roch nicht alles«, sagte Harst drohend, — ein Griff,
+»Noch nicht alles«, sagte Harst drohend, — ein Griff,
 und er riß Bellington den großen Filzhut ab und fing
-
-vom Kopfe Bellingtons herabgleitende Pistole mit der Ahnten
-
+vom Kopfe Bellingtons herabgleitende Pistole mit der Linken
 auf,
 
-Der. Millionär wurde aschfahl, als. der Patronenrahmen
-heraussuchte und eine Patrone fehlte. »Riecht nach Blättchonpulveor,
+Der Millionär wurde aschfahl, als der Patronenrahmen
+herausschnellte und eine Patrone fehlte. »Riecht nach Blättchenpulver,
 der Lauf, Mr. Bellington …« Harst schaute dem
-»blassen Mann gerade in die Augen.
+blassen Mann gerade in die Augen.
 
 »Bei Gott, — ich fand die Waffe dort im Garten, und
 es war eine ungeheure Torheit von mir, sie zu verbergen,
 um sie nachher dem Detektivchef, meinem Bekannten, zu geben,
-zu, dem ich mehr Vertrauen habe als zu Kaptain Hutter …
+zu dem ich mehr Vertrauen habe als zu Kaptain Hutter …«
 — Bellington sagte dies mit aller Überzeugungstreue.
 
-»oh habe kein Vertrauen zu Ihnen«, erhielte Harst,
-»Mit dieser Wasser wurde Lewys erschossen, — — Sie sind
-verhaftet! — Smith, niemand!pricht mehr ein Wort mit
+»Ich habe kein Vertrauen zu Ihnen«, erklärte Harst.
+»Mit dieser Waffe wurde Lewys erschossen, — — Sie sind
+verhaftet! — Smith, niemand spricht mehr ein Wort mit
 Bellington. Stellen Sie sich mit ihm abseits.«
 
-»Tresor«, krähte Abel Braham, der alles mit angesehen
-hatte, »Endlich geht es auch mal den aufgeblasenen Goldsachen
-€ an den Kragen!«
+»Bravo!«, krähte Abel Braham, der alles mit angesehen
+hatte. »Endlich geht es auch mal den aufgeblasenen Geldsäcken
+an den Kragen!«
 
-»Schienen Sie sich zum Träufelt«, fuhr Harst ihn an. »Was
-tun &ie hier von?! Weg mit &ähnen!» —
+»Scheren Sie sich zum Teufel!«, fuhr Harst ihn an. »Was
+tun Sie hier noch?! Weg mit Ihnen!«
 
-Und Wilkiens grinste als- ’Nacdsatz: »reinmachen, Ihr
+Und Wilkiens grinste als Nachsatz: »Brahamchen, Ihr
 Frauchen wartet in der Küche mit dem Mokkachen …«
 
 <@pagebreak/>
 
 <h2>5. Kapitel.</h2>
-<h3>Das Bei?!.</h3>
+<h3>Das Bett.</h3>
 
-Die Kugel hatte Lewys in den Hinterkopf getroffen,
+Die Kugel hatte Lewys in den Hinterkopf getroffen.
 Er war wohl sofort tot gewesen. Baby Houston beschrieb uns,
 wie Lewys über die Mauer geklettert und dann herabgestürzt
 war. Der Schuß konnte nur aus dem Wanderleer-Grundstücke
