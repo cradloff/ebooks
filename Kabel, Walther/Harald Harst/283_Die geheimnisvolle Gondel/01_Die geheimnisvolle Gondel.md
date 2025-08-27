@@ -708,10 +708,8 @@ Es war immerhin ein Fortschritt.
 
 Nach einer Stunde wurde er in aller Stille in ein Krankenhaus
 in Venedig gebracht. Auf der Terrasse des Excelsior
-
 <@pagebreak/>
-[hier fehlt Text im Original]
-
+spielte bereits wieder die Jazzkapelle, und die
 amerikanischen Gäste sowie das andere internationale Publikum
 verfolgten mit stillem Behagen das allmähliche Aufflammen
 der Lampen das Hotelsteges, der so weit in die Adria hinausgebaut
@@ -918,10 +916,8 @@ Das Mädel protestierte lebhaft. »Angst?! Ich?!« Und
 sie reckte ihre Arme hoch, die Ärmel fielen zurück und zeigten
 uns eine tadellos kräftige Muskulatur. »Gut, — dann also —
 auf Wiedersehen, Pa … Gehe nur …! Austin und Bulgeroll
-
 <@pagebreak/>
-[hier fehlt Text im Original]
-
+und Smidtson sind wohl mit dabei … Ich kann mir denken,
 wo ihr euch amüsieren wollt.«
 
 Ich hatte gerade das Auge an dem Astloch und bemerkte
