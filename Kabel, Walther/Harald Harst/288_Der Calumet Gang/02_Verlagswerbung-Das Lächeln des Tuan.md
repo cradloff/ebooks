@@ -1,6 +1,6 @@
 <@pagebreak 63/>
 
-<div class="img"><img alt='Buch-Cover des Romans "Das Lächeln des Tuan" von Gino F. von Moellwitz. Auf dem Bild ist eine mit Blumenkränzen und einem Lendenschurz bekleidete Insulanerin abgebildet, die einen lächelnden Mann in weißer Tropenkleidung anlächelt.' src="Das-Lächeln-des-Tuans.jpg" style="width: 100%; height: auto;"/></div>
+<div class="img"><img alt='Buch-Cover des Romans "Das Lächeln des Tuan" von Gino F. von Moellwitz. Auf dem Bild ist eine mit Blumenkränzen und einem Lendenschurz bekleidete Insulanerin abgebildet, die einen lächelnden Mann in weißer Tropenkleidung anlächelt.' src="Das-Laecheln-des-Tuan.jpg" style="width: 100%; height: auto;"/></div>
 
 <@pagebreak/>
 

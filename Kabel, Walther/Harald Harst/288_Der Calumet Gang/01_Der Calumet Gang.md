@@ -16,7 +16,7 @@ etwas eigenartig aus.
 
 Wir saßen hier zu sieben am schlicht gedeckten Holztisch
 in den verräucherten Gewölben. Die Petroleumlampe warf
-ein mildes, friedliches Licht Über Männer mit scharfen, zum
+ein mildes, friedliches Licht über Männer mit scharfen, zum
 Teil harten Zügen. Dasselbe Licht blinkte in grelleren Reflexen
 drüben auf blanken Metallteilen der verschiedensten
 Apparate, aufgebaut auf zwei Wandtischen. Unter der zementierten
@@ -24,7 +24,7 @@ Decke hing der Qualm von Pfeifen, Zigarren und
 Zigaretten wie leise wallende, graubraune Schleier, und in den
 Gläsern vor uns duftete ein Getränk, das nicht ganz ohne Alkohol
 war. Die Gesundheit Kaptain Greap-Hutters und seiner
-Getreuen erforderte ärztliche Rezepte über Soundso viele
+Getreuen erforderte ärztliche Rezepte über soundso viele
 Flaschen medizinischen Weines pro Tag.
 
 Der Detektiv Houston, einer der jüngsten der Runde,
@@ -35,15 +35,15 @@ da ist mir beim Heimweg etwas zugestoßen, wovon ich bisher
 nicht sprach, da es mit unserem Spezialdienst nichts zu tun
 hat.« Er blickte tiefsinnig in sein Glas und drehte sich mit
 fixen Fingern, ohne hinzusehen, eine frische Zigarette. »Das
-war So, Kaptain …«, fuhr er sehr schlicht fort. »Ich kam mit
+war so, Kaptain …«, fuhr er sehr schlicht fort. »Ich kam mit
 dem Motorrad so gegen zwei Uhr durch eine Seitenstraße der
 <@pagebreak/>
 Milwaukee-Avenue. Ich fahre zumeist abgelegene Wege, weil
-da leichter etwas für uns zu fischen ist, und ich fahre Stets
+da leichter etwas für uns zu fischen ist, und ich fahre stets
 langsam.«
 
-»Was man So … langsam nennt«, brummte Sergeant
-Wilkiens und grinste,
+»Was man so … langsam nennt«, brummte Sergeant
+Wilkiens und grinste.
 
 »… Vor einer Haustür sah ich ein Mädchen stehen, das
 hilflos und sichtlich verstört um sich blickte, als suche es nach
@@ -95,7 +95,7 @@ entwickeln Kranke noch kurz vor dem Tode oft …«
 fühlte dabei ein Grauen, das ich bisher nie kannte, denn die
 Hände der Ärmsten waren eiskalt und klebrig von Schweiß.
 Ich stieß sie von mir, sie fiel über das Bett, verdrehte die
-Augen und lag Still. Da … riß ich aus, Kaptain, rannte
+Augen und lag still. Da … riß ich aus, Kaptain, rannte
 davon, auf die Straße hinab, wo das Mädchen gerade den aus
 seinem Auto aussteigenden Arzt begrüßte. Der Herr fragte
 mich höflich, ob die Frau tatsächlich tot sei, ich nickte nur,
@@ -111,7 +111,7 @@ nacht diese Windjacke an, lieber Houston?«
 »Kennen Sie den Namen der Straße, in der das Haus
 lag?«
 
-»Hm — es kann die Holt-Street gewesen Sein … — In
+»Hm — es kann die Holt-Street gewesen sein … — In
 der Nähe dort war es bestimmt.«
 
 »Ziehen Sie mal Ihre Windjacke aus, Houston«, bat
@@ -174,7 +174,7 @@ der Vorhalle krächzte uns jemand wütend an:
 »Was wollen Sie, zum Teufel?!«
 
 Greaps Laterne blitzte auf. »Detektivpolizei«, sagte er
-Kurz. »Lassen Sie uns ein!«
+kurz. »Lassen Sie uns ein!«
 
 Im Licht der Laterne sahen wir für einen Augenblick ein
 <@pagebreak/>
@@ -198,8 +198,8 @@ in der Vorhalle in einem der Sessel gegenüber. Er hatte stark
 entzündete Augen, nur noch Zahnstummel im Munde und
 sicherlich schmierige Hände mit schmutzigen Krallennägeln.
 
-»Das Haus gehört Frau Wandeleer«, erklärte er jetzt
-bereitwilligst. »Der verwitweten Frau Lydia Wandeleer. Ich
+»Das Haus gehört Frau Wanderleer«, erklärte er jetzt
+bereitwilligst. »Der verwitweten Frau Lydia Wanderleer. Ich
 bin der Hausmeister Abel Braham. Meine Herrin ist zur
 Zeit in Europa. Hier wohnt jetzt außer mir nur noch meine
 Frau, Kaptain, — da können Sie die Nachbarn fragen …
@@ -210,15 +210,15 @@ Wir sind ehrliche Leute, und …«
 »Gestern? — Bei meinen Kindern draußen in Evanston,
 mein Ältester hat dort eine kleine Gemüsefarm.«
 
-»und das Haus ließen Sie unbewacht?«
+»Und das Haus ließen Sie unbewacht?«
 
 Der Alte feixte seltsam. »Kaptain, in dieses Haus kommt
-kein Dieb … Mr. Wandeleer schützt es.«
+kein Dieb … Mr. Wanderleer schützt es.«
 
-»Wer? Mr. Wandeleer? Ist das der Sohn Ihrer
+»Wer? Mr. Wanderleer? Ist das der Sohn Ihrer
 Herrin?«
 
-»Nein. Das ist der tote Mr. Allan Franc Wandeleer,
+»Nein. Das ist der tote Mr. Allan Franc Wanderleer,
 — er erschoß sich, weil er glaubte, er litte an Aussatz, an Lepra.«
 
 Greap schüttelte den Kopf. »Lächerlich, — Sie glauben
@@ -245,7 +245,7 @@ Mr. Abel Braham fragte bescheiden: »Soll denn hier
 etwas vorgefallen sein, Mr. Hutter?«
 
 »Vielleicht …«, wich Greap-Hutter aus, und Harst fügte
-hinzu: »Können Sie uns ein Bild Ihrer Herrin zeigen, Ein
+hinzu: »Können Sie uns ein Bild Ihrer Herrin zeigen, ein
 neueres Bild?«
 
 »Kommen Sie bitte … gleich nebenan im Salon …«
@@ -255,14 +255,14 @@ Frau.
 
 »Na, Houston?!«
 
-Der Detektiv starrte das Bild lange an,
+Der Detektiv starrte das Bild lange an.
 
 »Nein!«, sagte er merkwürdig heiser.
 
-Dann winkte er uns beiseite,
+Dann winkte er uns beiseite.
 
 »Kaptain, das Bild … ist die Kammerzofe, bei Gott! —
-Die Zofe, die auf den Arzt wartete,«
+Die Zofe, die auf den Arzt wartete.«
 
 Nach einer Stunde hatten wir das Haus genau durchsucht
 und nichts gefunden.
@@ -271,18 +271,18 @@ Wir verabschiedeten uns von dem Alten, der uns verwirrt
 und beklommen mit allerlei Fragen quälte und keine Antwort
 erhielt. — —
 
-— Schauplatz Nr. 2: Das Schlafzimmer der Lydia Wandeleer.
+— Schauplatz Nr. 2: Das Schlafzimmer der Lydia Wanderleer.
 — —
 
 Unser Auto glitt davon, jedoch nicht weit. Harst und ich
-stiegen aus und bezogen vor dem Hause Posten,
+stiegen aus und bezogen vor dem Hause Posten.
 
 Greap hatte mit sehr richtigem Verständnis für die Sachlage
 vorhin erklärt: »Ich glaube, wir sind hier einer ganz infamen
 <@pagebreak/>
 Schurkerei auf die Spur gekommen!« Er hatte auch
 dementsprechend seine Anordnungen getroffen. Die kleine Fabrik
-hinter dem Wohnhaus der Frau Wandeleer gehörte
+hinter dem Wohnhaus der Frau Wanderleer gehörte
 mit zu dem Grundstück, wie wir gesehen hatten. Den Hausmeister
 Abel Braham danach zu fragen, hatten wir uns gehütet,
 denn wir trauten ihm nicht. Sogar Stuart Houston,
@@ -306,11 +306,11 @@ Nähe stehen und schaute nur flüchtig hin, als sich das eiserne
 Tor des Grundstückes links neben dem Vorgarten kreischend
 öffnete. Gleichzeitig glitt eine große Limousine herbei, schwenkte
 in den Torweg ein, und dieses wurde wieder angelehnt, nicht
-geschlossen. Der Uniformierte setzte Seinen Rundgang fort,
+geschlossen. Der Uniformierte setzte seinen Rundgang fort,
 ein zweites Auto erschien, verschwand auf dem Grundstück,
 inzwischen mußte der, der die eisernen Torflügel öffnete, die
 Türgelenke wohl geölt haben, denn das Kreischen von Metall
-auf Metall unterblieb. Wir zählten So im ganzen vierzehn
+auf Metall unterblieb. Wir zählten so im ganzen vierzehn
 Autos, Harst kontrollierte an der Armbanduhr ihr Eintreffen,
 sie erschienen ganz genau in Abständen von drei Minuten.
 Um dreiviertel eins kam das letzte, das fünfzehnte, ein kleiner
@@ -323,7 +323,7 @@ Regen einem dunkleren, verschwommenen Strich,
 aber ganz oben glühte jetzt eine Lichtreklame, bestehend aus
 farbigen elektrischen Lampen:
 
-<p class="centered em">Wandeleers Schokolade,</p>
+<p class="centered em">Wanderleers Schokolade,</p>
 
 <p class="centered">die allerbeste!!</p>
 
@@ -344,7 +344,7 @@ Räume als Klubzimmer eingerichtet, es handelt sich um Spiritisten,
 um eine okkultistische Vereinigung offenbar. — Was
 würden Sie tun?«
 
-»Falls ihr nicht bemerkt seid, Sofort von der Zentrale
+»Falls ihr nicht bemerkt seid, sofort von der Zentrale
 fünfzehn Detektive anfordern und die Autos verfolgen lassen,
 damit wir unauffällig die Namen der Wageninsassen erfahren.«
 
@@ -393,7 +393,7 @@ der Unterwelt mit allen Mitteln.
 Mit allen Mitteln sucht aber auch diese Unterwelt, insbesondere
 die straff organisierten Gangs (Banden) mit ihren
 Führern (Gangsters) dort zu ernten, wo Fleiß und rücksichtslose
-Dollarjaqd reiche Beute verheißen,
+Dollarjaqd reiche Beute verheißen.
 
 Von diesem immerwährenden Kampf zwischen Gesetz und
 Gangsters merkt die Öffentlichkeit im allgemeinen wenig.
@@ -423,8 +423,8 @@ alte Kunstwerk und flüsterten leise miteinander. Die Weihe
 des Raumes mit seinen Kunstschützen verbot jedes lautere
 Wort. Die Herren schwelgten wohl als Kenner in den
 Schönheiten der alten Meister, — hätte jedoch jemand
-ihrer Unterhaltung beigewohnt, würde er sehr erstaunt, Sehr
-bestürzt und doch sicherlich Sehr neugierig gewesen sein.
+ihrer Unterhaltung beigewohnt, würde er sehr erstaunt, sehr
+bestürzt und doch sicherlich sehr neugierig gewesen sein.
 
 Der eine, hagere, hakennasige sagte gerade:
 
@@ -435,36 +435,40 @@ Modell des großen Malers. Wilkiens versicherte,
 ganz genau alles gehört zu haben. Auf ihn ist Verlaß. Das
 Medium soll dann aus dem Trancezustand plötzlich geschrien
 haben: »Um zwölf … um zwölf!« — Es ist noch nicht zwölf, —
-wir werden sehen, mein Alter,«
+wir werden sehen, mein Alter.«
 
-ich blickte auf die Armbanduhr: Zwanzig Minuten vor
+Ich blickte auf die Armbanduhr: Zwanzig Minuten vor
 zwölf!
 
 »Gib mir noch einmal deine Notizen über die Reklametafel«,
 bat ich. »Vielleicht komme ich hinter den Sinn dieser
-Lichtsignale,«
+Lichtsignale.«
 
 Harst legte den Zettel in den »Führer durch das Kunstinstitut«
 und reichte ihn mir, nachdem er sich mißtrauisch umgesehen
 hatte.
 
-<p class="centered">Wandeleers Schokolade</p>
+<p class="centered">Wanderleers Schokolade</p>
+
 <p class="centered">die allerbeste!!</p>
 
 In diesen Worten waren verschiedene Buchstaben in der
 zweiten Niederschrift weggelassen:
 
 <p class="centered">W&nbsp;nderleers Schokolade</p>
+
 <p class="centered">die allerbeste!!</p>
 
 Dann:
 
 <p class="centered">Wan&nbsp;leers Schokolade</p>
+
 <p class="centered">die allerbeste!!</p>
 
 Jedenfalls ergaben die Lücken insgesamt schließlich folgendes:
 
 <@pagebreak/>
+
 <p class="centered">An der leer &nbsp; Schiebe.</p>
 
 Um diese von Harst derart zusammengestellten »Lücken«
@@ -474,7 +478,7 @@ Raten gegeben.
 Harst raunte mir zu: »Zerbrich dir nicht den Kopf …
 Vorläufig ist das zwecklos.«
 
-Ich besitze eine gewisse Hartnäckigkeit. immer wieder
+Ich besitze eine gewisse Hartnäckigkeit. Immer wieder
 überflog ich das Geschriebene, und plötzlich kam mir die Erleuchtung.
 
 »Harald!«
@@ -490,8 +494,8 @@ Er blickte mich überrascht an und begriff sofort.
 einen Sinn. An der leeren Schiebelade! — Nicht schlecht.
 Aber was soll das?!« Er schwieg eine Weile. »Vergegenwärtigen
 wir uns die Ereignisse: Houston-Baby wird nachts
-in die Villa Wandeleer von einer Zofe eingelassen, die
-zweifellos die Witwe Wandeleer war, angeblich zur Zeit in
+in die Villa Wanderleer von einer Zofe eingelassen, die
+zweifellos die Witwe Wanderleer war, angeblich zur Zeit in
 Europa auf Reisen. Letzte Karte von ihr vor drei Wochen
 an Abel Braham und Frau aus Lugano. Houston findet im
 Schlafzimmer geschminkte Sterbende, die ihn würgt, die ihm
@@ -512,7 +516,7 @@ wohnt lediglich der Klubdiener, ein alter Chinese. Wer
 die Reklametafel bedient hat, war nicht zu ermitteln, da die
 Leitung erst ausgegraben werden muß, was zur Zeit geschieht.
 Brahams Angaben, daß er mit Frau gestern nacht bei seinem
-Sohne war, stimmen. Es stimmt auch, daß Frau Wandeleers
+Sohne war, stimmen. Es stimmt auch, daß Frau Wanderleers
 Gatte sich vor einem Jahr erschoß, weil er irrtümlich glaubte,
 er litte an Lepra, an Aussatz. Die Klubmitglieder sind sämtlich
 einwandfrei, reich und stadtbekannt. Das Medium wieder
@@ -529,15 +533,15 @@ das berühmte Rembrandtbild, sondern das gelbe Totengesicht
 der Unbekannten mit den grauenvoll geschminkten roten Backen.
 Ich rief mir Einzelheiten ins Gedächtnis zurück, oder besser:
 Sie flogen mir zu wie die wenigen Fliegen, die hier umhersurrten.
-— Frau Wandeleer hatte die Schokoladenfabrik
+— Frau Wanderleer hatte die Schokoladenfabrik
 nach dem Freitod ihres Mannes eingehen lassen, sie war sehr
-reich, sie Sollte nach Europa Zofe, Chauffeur und eine Bekannte
+reich, sie sollte nach Europa Zofe, Chauffeur und eine Bekannte
 mitgenommen haben, wie der schmierige Hausmeister
 Braham berichtet hatte, und er log sicherlich nicht, wenigstens
 nicht, was Dinge betraf, die sich nachprüfen ließen. Im
 übrigen …?! — Aber Frau Lydia war nicht mehr in Europa,
 Houston-Baby besaß als hervorragender Detektiv auch
-ein vorzügliches Personengedächtnis: Lydia Wandeleer war
+ein vorzügliches Personengedächtnis: Lydia Wanderleer war
 die »Zofe« gewesen, die auf den Arzt gewartet hatte —
 alles natürlich Lügen, — der »Arzt« hatte die Leiche wegschaffen
 sollen, das nahm auch Greap an, aber Houstons Einmischung
@@ -549,14 +553,14 @@ in Lugano gefunkt, und es mußte sich sehr bald herausstellen,
 wann Frau Lydia die Pension »Seeblick« verlassen hatte.
 Auch der Name der Freundin war bereits ermittelt, die sie
 begleitete. Eine Miß Julia Coolp, frühere Buchhalterin in
-der Fabrik Wandeleers.
+der Fabrik Wanderleers.
 
 So wie meine Gedanken ziellos hin und her schweiften,
 genau so verworren waren auch die Fäden des ganzen Falles
 mit den »*vier* Schauplätzen« — als vierter war noch die
 leere Fabrik hinzugekommen, von der nur die ehemaligen Kontorräume
 an den Klub »Okkulte Welten« vermietet worden
-waren. Lydia Wandeleer gehörte dem Klub nicht an, kannte
+waren. Lydia Wanderleer gehörte dem Klub nicht an, kannte
 wohl einige Mitglieder, mit denen sie Verkehr unterhielt, —
 so hatte Braham erklärt, und der Klubvorstand hatte dies
 bestätigt.
@@ -565,7 +569,7 @@ Plötzlich leuchtete in meinem dämmerigen Hirn abermals
 ein Lämpchen auf: Vielleicht war die Tote gar jene Julia
 Coolp, die ehemalige Buchhalterin!!
 
-Lag das nicht Sehr nahe?! Daß das Ehepaar Braham die
+Lag das nicht sehr nahe?! Daß das Ehepaar Braham die
 Tote nicht wiedererkannt hatte, wollte gar nichts besagen.
 Die Leiche war sehr entstellt, das dunkle Haar hatte halb über
 dem gräßlich geschminkten Gesicht gelegen, und die alten Leutchen
@@ -621,7 +625,7 @@ flüsterte:
 
 »Die Nagelfeile?!«
 
-Sie fuhr herum,
+Sie fuhr herum.
 
 »Ah … — also doch … Geben Sie sie mir — schnell …«
 
@@ -637,12 +641,12 @@ ihr.
 »Was … gabst du ihr?!«, fragte ich überrascht, denn auf
 diese Wendung der Dinge war ich nicht vorbereitet.
 
-»*Meine* Nagelfeile«, lächelte er,
+»*Meine* Nagelfeile«, lächelte er.
 
 »Und nun?!«
 
 »Wird Houston uns nachher berichten, was die nette Miß
-mit meiner Feile angestellt hat,«
+mit meiner Feile angestellt hat.«
 
 <@pagebreak/>
 Er schaute sich um …
@@ -653,7 +657,7 @@ für die Ärmste …«
 In langen Schritten erreichten wir die Freitreppe …
 
 Houston stieg gerade in ein Auto, das einem kleinen diskreten
-Panzerwagen Sehr ähnlich sah. Die Miß mit Harsts
+Panzerwagen sehr ähnlich sah. Die Miß mit Harsts
 Feile winkte eine leere Taxe heran. Harst lief auf sie zu,
 packte sie am Arm und zog sie mit sich. Kaum hatte er sie in
 Houstons Wagen gestoßen, als ein anderes Auto vorüberglitt …
@@ -662,12 +666,12 @@ Gedämpftes Knattern von Schüssen …
 
 Ein Gurtspucker arbeitet mit Schalldämpfer …
 
-Aber bei uns am Steuer saß Wilkiens, und wir Saßen
+Aber bei uns am Steuer saß Wilkiens, und wir saßen
 hinter Stahl und kugelfestem Glas, und das große Auto bekam
 Feuer, bevor es noch den zweiten Broncelöwen der Freitreppe
 passiert hatte. Wilkiens bediente den Gurtspucker mit
 dem linken Fuß, — Reifen knallten, der fremde Wagen raste
-gegen einen Kandelaber,
+gegen einen Kandelaber.
 
 Im Innern lagen drei tote Gentlemen, bei deren Anblick
 Wilkiens erfreut durch die Zähne pfiff.
@@ -695,7 +699,7 @@ Extrablätterverkäufer wieder …
 
 Wir gedachten in dem sehr feudalen Restaurant Belmonte
 zu Mittag zu essen, wir wollten schließlich auch einmal
-die vergnüglichere Seite Chicagos Kennen lernen, im
+die vergnüglichere Seite Chicagos kennen lernen, im
 ersten Stock dicht an der Brüstung fanden wir einen leeren
 Tisch, der uns den Blick über die anderen Ränge dieses
 wundervollen, dem Gotte Lucullus geweihten Rundtheaters gestattete.
@@ -716,13 +720,13 @@ Selfmademan ist anderen Schlages als die drüben in Germany:
 Er verbindet den Begriff »Smart« und »Geschäft« unbedingt
 mit dem der strengsten Exklusivität. In diese demokratischen
 »Geldadelskreise« etwa mit unsauberer Weste hineinzugelangen,
-ist schwer, Sehr leicht ist es, wieder hinauszufliegen, sobald der
+ist schwer, sehr leicht ist es, wieder hinauszufliegen, sobald der
 Betreffende irgendwie die Behörden unliebsam beschäftigt.
 »Geld stinkt nicht« trifft hier nur insofern zu, als es nicht
 »öffentlich« übel durften darf. Immerhin etwas gummiartige
 moralische Anwandlungen, — doch Gummi federt, und wer
 so dumm betrügt, daß er sich fassen läßt, wird unbarmherzig
-»geschnitten«. Das ist das eine Problem, Das andere: Das
+»geschnitten«. Das ist das eine Problem. Das andere: Das
 <@pagebreak/>
 Rasseproblem, die Negerfrage, tritt in Chicago weniger in
 Erscheinung.
@@ -734,7 +738,7 @@ weiß ich nicht. —
 Baby Houston hatte uns, da die junge Miß ihren Namen
 nicht nannte und auch ihr Handtäschchen keinen sonstigen Aufschluß
 über ihre Persönlichkeit gab, mit ins Hauptquartier
-genommen,
+genommen.
 
 Der Kellner besorgte uns eins der Extrablätter des
 »Michigan-Postkuriers«, und wir bekamen so einen weiteren
@@ -782,7 +786,7 @@ Messer oder balancierte Kartoffelstücke mit demselben Messer
 in den Mund. Es sind äußerlich Kavaliere, Besitzer von
 Spielhöllen, Bordellen, Opiumhöhlen, — insgeheim leben sie
 ihr zweites Leben, unterirdisch, bezahlen ihren Anhang, bereiten
-große Fischzüge vor, Schicken ihre Autos mit bewaffneten
+große Fischzüge vor, schicken ihre Autos mit bewaffneten
 Gentlemen weit ins Land, knallen Bankbeamte nieder,
 schreiben Erpresserbriefe, lassen Menschen spurlos verschwinden,
 bekämpfen die anderen Gangs, und — werden sie mal geklappt,
@@ -790,7 +794,7 @@ so ist das notwendige Alibi mit braven Zeugen (Stück zu
 1000 Dollar) und unbraven Meineiden rasch fix und fertig,
 und das Ende: Freispruch oder höchstens zehn Monate wegen
 unbefugten Waffenbesitzes! — Das Spionagenetz dieser großen
-Gangsters Ist nicht minder gut ausgebildet. Ihre Beziehungen
+Gangsters ist nicht minder gut ausgebildet. Ihre Beziehungen
 reichen bis ganz nach oben, — nur vor dem Büro des Bürgermeisters
 stoppen sie ab, versagen sie: Dort ist für sie nichts zu
 holen! — Daß die gesamten Gentlemen dieser Sorte durch
@@ -814,10 +818,10 @@ Wir waren gerade beim Nachtisch angelangt, als einige
 Herren erschienen und uns höflich baten, mit ins Büro des
 Restaurants zu kommen. Drei waren es, weiter hinten noch
 drei, und der eine wies sich als Inspektor der Detektivpolizei
-Aus.
+aus.
 
 Harst zog seinen Ausweis hervor, und der trug eine
-Unterschrift und mehrere Stempel,
+Unterschrift und mehrere Stempel.
 
 »Bitte … Ich bin Harry Horter, zugeteilt dem Spezialkommissar
 Kaptain Hutter. Mein Freund desgleichen.«
@@ -839,7 +843,7 @@ Harst blickte mich an und sagte auf Deutsch:
 »Bestellte Arbeit! Wollen sehen …«
 
 Ein Zug von Herren bewegte sich zum Büro. Kaum war
-die Tür geschlossen, als Lewys grinsend seinen acht Heloten
+die Tür geschlossen, als Lewys grinsend seinen acht Heloten<@refnote 1/>
 unsere Ausweise hinhielt.
 
 »Da — gefälscht!! Kein Wasserzeichen!«
@@ -854,7 +858,7 @@ Genauer sind wir noch nie visitiert worden.
 Harst behielt sein untrügliches Lächeln bei. Er grinste
 direkt schadenfroh, als der Fettwanst aus unseren Taschen auch
 zwei fremde Portefeuilles hervorzauberte. Er hatte sehr weite
-Ärmel und war zweifellos bei Bellachini in die Lehre gegangen,
+Ärmel und war zweifellos bei Bellachini in die Lehre gegangen.
 
 »Taschendiebe!«, prustete Lewys erfreut.
 
@@ -874,13 +878,13 @@ einem eingepreßten Stempel:
 »Glänzend!«, frohlockte er … »K.-G. …!! Kultur-Gang!
 Also von der Sorte seid ihr! — Handschellen her.«
 
-Da klopfte es. »Draußen bleiben!«, brüllte er wütend,
+Da klopfte es. »Draußen bleiben!«, brüllte er wütend.
 
-Es Klopfte nochmals, und dann flog die ganze Milchglasscheibe
+Es klopfte nochmals, und dann flog die ganze Milchglasscheibe
 der Tür heraus und in der zackigen Öffnung standen
 ein paar Herren mit sehr unangenehmen Pistolen, ganz vorn
 ein sehr jugendlicher, schlanker mit dickem Schnurrbart und
-Intelligenzbrille: Greap. — oder besser Hutter, denn Hutter
+Intelligenzbrille: Greap — oder besser Hutter, denn Hutter
 trug Schnurrbart und Brille. Greap nie.
 
 »Mahlzeit!«, sagte Hutter gemütlich. Das hatte er von
@@ -894,7 +898,7 @@ dazu, die beiden Herren zu verhaften?! Wer ich bin, wissen
 Sie nun …!« Charly Greaps Stimme kündete Gewitter an.
 
 Inspektor Lewys blieb patzig und frech. »Denunzianten,
-Kaptain … Taschendiebstahl …  Es laufen jetzt So viele
+Kaptain … Taschendiebstahl …  Es laufen jetzt so viele
 Schufte mit …«
 
 Greaps Stirn bekam dicke Kerben. Aber Harst zog ihn
@@ -918,9 +922,9 @@ Harst stand vor einem Spiegel und rückte seine Perücke
 zurecht. »Ich trage Ihnen nichts nach, Mr. Lewys … Pflicht
 bleibt Pflicht …«
 
-Lewys Schwitzte wie im römischen Bad. »Kaptain Hutter,
+Lewys schwitzte wie im römischen Bad. »Kaptain Hutter,
 bitte — — ruinieren Sie mich nicht, melden Sie die Sache
-nicht, Sonst … fliege ich hinaus!«
+nicht, sonst … fliege ich hinaus!«
 
 »Bewahre, Sie fliegen nicht hinaus … Ich bin kein
 Unmensch. Ich lasse die Leute lieber hineinfliegen als hinausfliegen«,
@@ -931,9 +935,9 @@ Lewys, wir vom Sonderdezernat haben bestimmte Grundsätze.
 Und einer davon lautet, daß keiner von uns je unbeschützt
 bleibt, selbst wenn er bei Belmonte speist. Ich saß drüben auch
 im ersten Rang, und meine Leute sind allemal zur Hand … —
-Schade um die Milchglasscheibe,«
+Schade um die Milchglasscheibe.«
 
-»Oh — die bezahle ich«, beeilte sich Lewys zu beteuern,
+»Oh — die bezahle ich«, beeilte sich Lewys zu beteuern.
 
 »Das ist nett Ihnen … — Kommen Sie, Horter …
 Sie waren ja gerade erst beim Käse, und es fehlen noch das
@@ -942,7 +946,7 @@ Fruchteis und der Mokka.«
 Er winkte Wilkiens unauffällig zu, und nach biederem
 Händedruck mit Mr. Lewys, dem kleinen Bellachini, nahmen
 wir unsere Plätze wieder ein. Greap folgte sehr bald und
-Spielte den dritten Mann am Tisch,
+spielte den dritten Mann am Tisch.
 
 »Harst, was wollte der Schuft?«
 
@@ -950,7 +954,7 @@ Spielte den dritten Mann am Tisch,
 Greap, klappte nur nicht recht.« Und er streckte die linke Hand
 aus, deren Finger er gerade geschlossen hielt, öffnete Zeige\-
 und Mittelfinger, und auf das Tischtuch fiel die kleine verrostete
-Nagelfeile mit ihren ausgebrochenen Rändern,
+Nagelfeile mit ihren ausgebrochenen Rändern.
 
 <@pagebreak/>
 
@@ -967,7 +971,7 @@ wären«, sagte er gütig. »In dem Rembrandt-Saal hatte ich
 schon vor Ihrem Eintreffen einen älteren Herrn bemerkt,
 der mir verdächtig erschien. Als Sie sich entfernten, verschwand
 auch er, und ich schloß daraus, daß man Sie … stumm machen
-wollte, da für Gewisse Leute nicht alles nach Wunsch gegangen
+wollte, da für gewisse Leute nicht alles nach Wunsch gegangen
 war. Die Regie versagte eben. Sie sollten eine Nagelfeile
 vor dem Bild ausgehändigt erhalten, aber nicht von einem
 Herrn. Und weil ein Herr Ihnen etwas zusteckte, glaubten
@@ -993,16 +997,16 @@ Starrkopfes.
 
 »Miß Gwenda Bellington …«
 
-Flüchtige Röte schoß ihr bis zur Stirne empor,
+Flüchtige Röte schoß ihr bis zur Stirne empor.
 
 »Also Sie sind Gwenda Bellington«, meinte Greap freundlich.
 <@pagebreak/>
 »Tochter von Thomas Ralph Bellington, Konservenfabriken,
 dreißig Millionen … — Geben Sie es zu?«
 
-Jetzt Saß die Kleine fest.
+Jetzt saß die Kleine fest.
 
-Sie weinte, Schluchzte, — — es genügte uns.
+Sie weinte, schluchzte, — — es genügte uns.
 
 Aber wenn wir geglaubt hatten, dadurch einen Schritt
 weiterzukommen, irrten wir uns. Die Hartnäckigkeit, mit der
@@ -1033,23 +1037,23 @@ Grundstückes geklettert. Baby wünscht Verhaltungsmaßregeln.«
 plötzlich sehr vergnügt an. »Doch ein Lichtblick endlich! Sie
 hatten ganz recht, Harst: Der Schuft Lewys ist mit dabei!«
 
-»Wobei?!« Harst rauchte Still.
+»Wobei?!« Harst rauchte still.
 
 Greap fluchte. »Stimmt — — wobei?! — Worum geht es
 eigentlich?! — Na — — Geduld! Die Fabrik hat Gespenster,
 die alles sehen, und die vergiftete Julia Coolp wird gerächt
-werden,«
+werden.«
 
 Er langte nach dem Aktenstück. »Hier ist die Depesche
-aus Lugano«, brummte er kopfschüttelnd. »Lydia Wandeleer
+aus Lugano«, brummte er kopfschüttelnd. »Lydia Wanderleer
 <@pagebreak/>
 und Miß Coolp nebst Bedienung wohnen noch dort … Sehr
 seltsam! Und hier im Leichenkeller liegt Julia Coolp, und das
-Baby will die Wandeleer erkannt haben — als Zofe! Harst
+Baby will die Wanderleer erkannt haben — als Zofe! Harst
 Harst, die Sache wächst uns über den Kopf.«
 
 »Mir nicht«, meinte der Zigarettenraucher getrost und
-blickte auf die Armbanduhr. »um halb elf brechen wir auf …«
+blickte auf die Armbanduhr. »Um halb elf brechen wir auf …«
 
 »Wohin?«
 
@@ -1063,11 +1067,11 @@ Wir fuhren hoch.
 den Zaun kletterte, plötzlich fiel er wie ein Sandsack hinab:
 Schuß durch den Kopf!«
 
-Greap Stützte ans Geheimtelephon. »Hallo, … hier der
+Greap stürzte ans Geheimtelephon. »Hallo, … hier der
 Kaptain selbst … Beide Straßen absperren lassen … Wir
 kommen … Alles so lassen, wie es ist.«
 
-Dann trat er auf Harst zu,
+Dann trat er auf Harst zu.
 
 »Hatten die das vorausgeahnt?«
 
@@ -1076,7 +1080,7 @@ Dann trat er auf Harst zu,
 »Ich auch!«
 
 Und plötzlich zwinkerten beide sich zu, und Greap sagte
-Halblaut: »Alter Freund, ich bin nicht auf den Kopf gefallen!«
+halblaut: »Alter Freund, ich bin nicht auf den Kopf gefallen!«
 
 »Das weiß ich, lieber Greap. Aber Sie könnten leicht von
 einem … Zaun fallen … Ziehen wir die Panzerwesten an. Es
@@ -1114,7 +1118,7 @@ Er kehrte zu uns zurück. »Der Bürgermeister ist einverstanden,
 daß die Bellington hier bei uns bleibt. — Also —
 Aufbruch!«
 
-Diese vorletzte Mainacht war genau so Unfreundlich wie
+Diese vorletzte Mainacht war genau so unfreundlich wie
 die gestrige. Wir hatten draußen auf dem weiten Ruinenfeld
 regelmäßig zwei Wachen und zwei Polizeihunde, eine Vorsichtsmaßregel,
 die sehr notwendig war, da Greaps erstes
@@ -1127,7 +1131,7 @@ Süden war kaum zu erkennen. Offenbar goß es dort in
 Strömen. Man darf nie vergessen, daß die Seefront Chicagos
 etwa vierzig Kilometer lang ist, das sind fünf deutsche
 Meilen. Hier draußen im Nordwesten begann bereits die
-Welt der Vororte und Farmen und Villenkolonien,
+Welt der Vororte und Farmen und Villenkolonien.
 
 Als wir die einsame alte Pappel erreichten, die für uns
 ein willkommenes Merkzeichen war, da ihr halb verfaulter
@@ -1151,22 +1155,22 @@ Ich wittere Böses, ich glaube, die Person Gwenda Bellingtons
 ist den Herrschaften ein Nachtgefecht wert. Hören Sie
 auf mich, Greap. Und wenn Morris noch ein übriges tun
 will, mag er unser Hauptquartier in ganz weitem Umfange umkreisen.
-Dreißig Man werden genügen.«
+Dreißig Mann werden genügen.«
 
 Greap zauderte. »Dann müßte unser Versteck entdeckt
-Sein, Harst … Woraus entnehmen Sie das?«
+sein, Harst … Woraus entnehmen Sie das?«
 
 »Kommen Sie mit«.
 
 Er führte uns zehn Schritt zurück und deutete auf eine
 Pappel. »Was sehen Sie?!«
 
-Wir waren sieben Leute mit geschulten Augen,
+Wir waren sieben Leute mit geschulten Augen.
 
 »Ich sehe nichts Besonderes«, erklärte Greap doch etwas
 beunruhigt.
 
-»und ich Sehe droben einen Draht im zweiten rechten Ast.
+»Und ich sehe droben einen Draht im zweiten rechten Ast.
 Blicken Sie scharf hin. Es werden zwei Drähte sein … eine
 Telephonleitung. Suchen wir den Apparat …«
 
@@ -1176,11 +1180,11 @@ in dem unappetitlichen Gemenge.
 
 »Bei Gott, — — ein Telephon, — — in einem Kasten!«
 
-Harsts Scharfe Stimme fügte hinzu: »Wilkiens, Weylt,
+Harsts scharfe Stimme fügte hinzu: »Wilkiens, Weylt,
 — — zurück im Laufschritt!!«
 
 Morris dröhnendes Lachen folgte. »An die Möglichkeit
-Solcher Schweinerei habe ich schon gedacht. Zwanzig Mann,
+solcher Schweinerei habe ich schon gedacht. Zwanzig Mann,
 zwanzig Hunde liegen hier herum bereit … Auch der alte
 Morris hat mal einen guten Gedanken …«
 
@@ -1204,7 +1208,7 @@ Der Dreck spritzte unter den zischenden Geschossen hoch, dann
 kam ein Knäuel von Menschen dahergerast — der klägliche
 Rest der Angreifer, noch zwölf Mann …
 
-Sie Sprangen wie die Hasen, suchten Deckung hinter den
+Sie sprangen wie die Hasen, suchten Deckung hinter den
 Holztrümmern, hinter halb verkohlten Bretterstapeln …
 
 Greap lag neben mir …
@@ -1225,7 +1229,7 @@ rief er dazu: »An *die* Nacht soll das Gesindel denken!!«
 
 Greap antwortete ebenso erbittert: »Mit dem Denken
 wird es wohl nichts mehr werden, Morris!! Dies ist die
-Quittung für die Calumet-Brüder für die Füsilierung der
+Quittung für die Calumet-Brüder für die Füsilierung<@refnote/> der
 sechs harmlosen Taschendiebe in Farmer Bronce’s Scheune!!«
 
 Das Feuer verstummte. Männer mit Hunden erschienen
@@ -1258,12 +1262,12 @@ Draußen rief er seinen Leuten Befehle zu … — Polizeiverstärkung
 traf ein … Fünf, sechs Scheinwerfer arbeiteten.
 Zwei Stunden lang wurde jeder Winkel durchstöbert: Der
 alte Greap und die blutjunge Gwenda Bellington waren und
-blieben verschwunden,
+blieben verschwunden.
 
 Dazwischen hatten Harst, Wilkiens und ich längst mit
 dem kleinen Panzerauto die Cleaver-Street erreicht. Die
 Straße war noch abgeriegelt, der ganze Häuserblock umstellt.
-Als wir die Wandeleer-Villa betraten, kam uns der krächzende,
+Als wir die Wanderleer-Villa betraten, kam uns der krächzende,
 hüstelnde Braham entgegen. »Eine richtige Verbrecherhöhle
 haben Sie aus dem Hause gemacht«, murrte er gereizt.
 »Keine Nacht hat man mehr Ruhe, die Nachbarn behandeln
@@ -1286,12 +1290,12 @@ Abel Braham schlurfte voraus in den Hinterflur. Die
 <@pagebreak/>
 Küchentür stand offen, und vor dem Gasherd stand Frau Alma
 Braham in ähnlichem Aufzuge wie ihr Herr Gemahl und rührte
-mit Einem Löffel in einem Aluminiumtiegel, in dem eine braune
+mit einem Löffel in einem Aluminiumtiegel, in dem eine braune
 Tunke dampfte und Blasen schlug. Es roch stark nach Kaffee
 und Röstbrot. — Harst blieb stehen. »Guten Abend, Frau
 Braham … In ihrem Alter sollte man besser im Bett bleiben.
 Wenn Sie jetzt noch so kräftigen Kaffee trinken, werden Sie
-gar nicht Schlafen können,«
+gar nicht Schlafen können.«
 
 Ich betrachtete mir die hagere, gebeugte Gestalt zum
 ersten Male genauer. Ich hatte ihrem Manne doch Unrecht
@@ -1300,7 +1304,7 @@ Nase, die Hängebacken, die Triefaugen hinter der schief sitzenden
 Nickelbrille, deren eines Glas einen Sprung hatte, das dünne
 grauweiße Haar, in vier Zöpfchen geflochten und mit einer
 langen Haarnadel befestigt, dazu *die* Hände, — — es blieb
-unbegreiflich, daß eine junge Witwe wie Lydia Wandeleer,
+unbegreiflich, daß eine junge Witwe wie Lydia Wanderleer,
 die doch zweifellos Dame von Welt war, ein so verkommenes
 altes Ehepaar um sich duldete, von dem es hieß, daß Geiz und
 Habgier die hervorstehendsten Merkmale seien.
@@ -1360,7 +1364,7 @@ außer Kraft gesetzt. — Sind Sie befugt, Schußwaffen
 zu tragen?«
 
 Bellingtons Gesicht wurde blaurot. Eine unbändige,
-Zügellose Wut flackerte in seinen Augen, seine Fäuste fuhren
+zügellose Wut flackerte in seinen Augen, seine Fäuste fuhren
 empor, im gleichen Moment packte ein Stärkerer zu: Wilkiens,
 <@pagebreak/>
 und Bellingtons leiser Aufschrei vermischte sich mit dem metallischen
@@ -1375,7 +1379,7 @@ Vorschein.
 »Noch nicht alles«, sagte Harst drohend, — ein Griff,
 und er riß Bellington den großen Filzhut ab und fing
 vom Kopfe Bellingtons herabgleitende Pistole mit der Linken
-auf,
+auf.
 
 Der Millionär wurde aschfahl, als der Patronenrahmen
 herausschnellte und eine Patrone fehlte. »Riecht nach Blättchenpulver,
@@ -1411,8 +1415,8 @@ Frauchen wartet in der Küche mit dem Mokkachen …«
 Die Kugel hatte Lewys in den Hinterkopf getroffen.
 Er war wohl sofort tot gewesen. Baby Houston beschrieb uns,
 wie Lewys über die Mauer geklettert und dann herabgestürzt
-war. Der Schuß konnte nur aus dem Wandeleer-Grundstück
-gekommen Sein,
+war. Der Schuß konnte nur aus dem Wanderleer-Grundstück
+gekommen sein.
 
 Harst trat wieder auf Bellington zu. Es war infolge der
 Scheinwerfer trotz des Sprühregens taghell. »Haben Sie für
@@ -1430,7 +1434,7 @@ Bellington sagte hochmütig: »Halten Sie mich etwa für
 einen Gangster?! Dann sind Sie ein …«
 
 »Bitte, wir wollen keinen Kaschemmenton aufkommen lassen.
-— Sie waren mit Allan Franc Wandeleer befreundet?«
+— Sie waren mit Allan Franc Wanderleer befreundet?«
 
 »Ja.«
 
@@ -1442,7 +1446,7 @@ Freunde.«
 Harst nickte leicht. Seine Augen betasteten Bellingtons
 beherrschte Züge. »Noch eine Frage …« Er sprach sehr leise.
 
-»Glauben Sie an Wandeleers Selbstmord?«
+»Glauben Sie an Wanderleers Selbstmord?«
 
 »Nein!«
 
@@ -1465,7 +1469,7 @@ worden.
 Photographie des berühmten Mediums Honoria Castelli stehen
 bleibend, das in prächtigem Silberrahmen die mit schwarzer
 Seide bespannte Wand zierte, »wie lange haust der Geisterbeschwörerklub
-hier? Ein Jahr etwa … Es stimmt doch,«
+hier? Ein Jahr etwa … Es stimmt doch.«
 
 »Sehr wohl, Mister«.
 
@@ -1476,7 +1480,7 @@ ironisch an.
 »Lassen Sie doch das Katzbuckeln und Dienern, Doktor
 Fo …!«
 
-Der Gelbe zuckte nicht mit der Wimper,
+Der Gelbe zuckte nicht mit der Wimper.
 
 »Sie sind Doktor Fo Beng, politischer Detektiv der
 chinesischen Gesandtschaft in Washington, zur Zeit beurlaubt.«
@@ -1487,7 +1491,7 @@ sieht dem anderen gleich.«
 
 »Das ist möglich, aber Sie sind Doktor Fo Beng, ein sehr
 gelehrter Herr, den Mr. Bellington beauftragte, den Tod Allan
-Franc Wandeleers aufzuklären. Vor uns brauchen Sie nicht
+Franc Wanderleers aufzuklären. Vor uns brauchen Sie nicht
 Versteck zu spielen, Doktor Fo. — Was haben Sie bisher
 erreicht? Auf Ihre Veranlassung mietete der Klub »Okkulte
 Welten« diese Räume. Sie wollten Frau Lydia nahe sein.
@@ -1502,7 +1506,7 @@ ehrt mich. Ich weiß leider sehr wenig bisher, leider,
 Ahnen« — er verneigte sich dreimal mit über der Brust gekreuzten
 Händen —, »daß sie mir Erleuchtung schenken möchten.
 Eins ist mir allerdings bekannt: Die Europareise Frau Lydia
-Wandeleers war Bluff, sie ist hier in Chicago, und in Lugano
+Wanderleers war Bluff, sie ist hier in Chicago, und in Lugano
 wohnen die Stellvertreterinnen Lydias und der toten
 Julia Coolp. Die Regie scheint nicht ganz geklappt zu haben.«
 
@@ -1510,9 +1514,9 @@ Julia Coolp. Die Regie scheint nicht ganz geklappt zu haben.«
 Regie versagte. Dieser junge Mann hier« — er deutete auf
 Baby Houston — »verwirrte den Herrschaften das Netz ein
 wenig. — War Inspektor Lewys der angebliche Arzt, — den
-Frau Wandeleer erwartete?«
+Frau Wanderleer erwartete?«
 
-Der Doktor Fo bejahte,
+Der Doktor Fo bejahte.
 
 »Und wo steckt Frau Lydia?«
 
@@ -1522,7 +1526,7 @@ weihen. Ich weiß es nicht. Sie sind zu schlau, die …« — er
 zögerte etwas — »die Führer vom Calumet-Gang.«
 
 Harst lächelte wieder. »Doktor Fo, das Lügen ist eine
-nationale Eigentümlichkeit Ihres Volkes. — Auf Wiedersehen,«
+nationale Eigentümlichkeit Ihres Volkes. — Auf Wiedersehen.«
 
 »Das trifft zu« — und Fo verneigte sich.
 
@@ -1549,7 +1553,7 @@ wieder schlafen. Ein unheimlicher Mensch.«
 
 »Allerdings«, bestätigte Harst gedankenvoll. »Dasselbe
 meint auch Bellington, dem ich meine Weisheit über Fos Rolle
-hier verdanke,«
+hier verdanke.«
 
 Im Hinterflur der Villa roch es noch stärker nach Mokka
 und nach Röstbrot. In der Küche saß das Musterehepaar am
@@ -1578,7 +1582,7 @@ man nicht erst vierzig zu sein.«
 »Ich bin erst achtunddreißig, Kleiner«, korrigierte der
 Riese Wilkiens schwer gekränkt.
 
-Harst gab Houston den Brief, »Da — etwas fix, mein
+Harst gab Houston den Brief. »Da — etwas fix, mein
 Lieber! Und — Vorsicht …!«
 
 Baby grinste kühn. »Da muß einer schon sehr früh aufstehen,
@@ -1594,7 +1598,7 @@ Ein heiserer Aufschrei — ein Fluch, — wir stürmten hinab,
 unsere Laternen zeigten Houston, der matt neben der Tür
 lehnte und sich die Augen rieb. Dicht neben der Schulter
 steckte in der Türfüllung ein langes Dolchmesser, wie es chinesische
-oder japanische Varieteekünstler benutzen,
+oder japanische Varieteekünstler benutzen.
 
 »Pfeffer«, stöhnte Houston … »Meine Augen … meine
 Augen!«
@@ -1622,23 +1626,23 @@ und sonstiges.
 »Sie kühlen jetzt Mr. Houston weiter die Augen«, befahl
 Harst.
 
-»und — wollen Sie nicht das Haus nach dem Schuft
+»Und — wollen Sie nicht das Haus nach dem Schuft
 durchsuchen?«, krächzte Abel voller Angst.
 
-»Nicht nötig, — das Messer Sagt genug …« Er beugte
+»Nicht nötig, — das Messer sagt genug …« Er beugte
 sich zu Houston hinab und raunte ihm etwas ins Ohr. Die
 alte Vettel am Tisch putzte ihre Brille und winselte wie ein
 halbtoter Hund. Es war eine denkwürdige Szene.
 
 »So«, meinte Harst droben im Schlafzimmer, »die Tür
-bleibt offen, du stellst dich in die Tür, Und sobald ein schwarzer
+bleibt offen, du stellst dich in die Tür, und sobald ein schwarzer
 Kerl auftaucht, schießt du. Abgemacht.«
 
-»und du?!«
+»Und du?!«
 
 <@pagebreak/>
 »Ich werde das Bett mir vornehmen. Dieses Prunkbett
-der Frau Wandeleer hütete ein Geheimnis, um das nur
+der Frau Wanderleer hütete ein Geheimnis, um das nur
 Julia Coolp wußte.«
 
 Ich gab Harst schnell ein Zeichen, — es kam jemand leise
@@ -1689,12 +1693,12 @@ Harst setzte sich auf einen Hocker. »Sie suchen das Versteck
 der Feile, Greap?«
 
 »Natürlich. Julia Coolp wurde doch nur hierher geschafft,
-damit sie der Frau Wandeleer, ihrer »treuen« Freundin, das
+damit sie der Frau Wanderleer, ihrer »treuen« Freundin, das
 Versteck zeige. Bis dahin wurde Julia Coolp irgendwo gefangen
 gehalten. Als man sie dann hierher brachte, hatte sie
 das Gift bereits ahnungslos geschluckt, es wirkte allerdings
 zu schnell, und die Coolp, den sicheren Tod ahnend, weigerte
-sich, das Versteck zu nennen. Lydia Wandeleer, die ihre
+sich, das Versteck zu nennen. Lydia Wanderleer, die ihre
 Pläne durchkreuzt sah, flüchtete aus Entsetzen vor dem Todeskampf
 der Ärmsten auf die Straße und begegnete dort unserem
 Houston. — So war es … Und der »Arzt« war Lewys, der
@@ -1707,7 +1711,7 @@ rauchen, Greap? Bitte …«
 Charly warf die Betten auf die Dielen und legte sich
 dann auf die Matratze, mit dem Kopf auf das Keilkissen.
 
-»Ja, So lag auch die Coolp, als das teuflische Spiel vor
+»Ja, so lag auch die Coolp, als das teuflische Spiel vor
 drei Monaten begann«, bestätigte Harst und beobachtete des
 jungen, geschmeidigen Kaptains Handbewegungen. »Hier wurde
 die Coolp überfallen, hier warf man sie auf das Bett, und da
@@ -1725,10 +1729,10 @@ verschwindet, der Kantenriß schließt sich … Dort ist das Versteck.«
 <@pagebreak/>
 Harst trat neben ihn.
 
-»ja, die geringe Pfuscharbeit hat viel Menschenleben
+»Ja, die geringe Pfuscharbeit hat viel Menschenleben
 gekostet. Ich wette, die Bande hat stets nur in den Schnitzereien
 gesucht. — Also auch das wäre erledigt.« Er half Greap
-die Betten wieder zurücklegen und setzte sich wieder,
+die Betten wieder zurücklegen und setzte sich wieder.
 
 Kaptain Charly Greap lehnte an der Rückwand des
 Bettes und sog langsam an seiner Zigarette.
@@ -1740,17 +1744,17 @@ mir alles … Das war für mich eine Überraschung.«
 das Wurfmesser, das mit Houston abrechnen sollte?«
 
 Greap blinzelte ihm zu. »Keine falsche Weichenstellung,
-Harst! Wir verstehen uns doch, Wenn ich Fo mit einem
+Harst! Wir verstehen uns doch. Wenn ich Fo mit einem
 Korkenzieher die Wahrheit aus dem Hirn herausholen könnte,
 würde sich ergeben, daß Julia Coolp und Fo Verbündete waren
 und daß Mr. Bellington ein Strohmann ist.«
 
-»Ganz gewiß«, nickte Harst,
+»Ganz gewiß«, nickte Harst.
 
 Wilkiens brummte anerkennend: »Verdammt, hier kann 
 man lernen, das ist ein praktischer Lehrgang für Detektive! —
 Darf ich noch etwas Senf hinzutun? Ich glaube, die arme
-Julia hat Allan Franc Wandeleer heimlich geliebt, sie war
+Julia hat Allan Franc Wanderleer heimlich geliebt, sie war
 Buchhalterin bei ihm, und dann lernte er Lydia kennen, Lydia,
 geborene Lewys — ja, Lewys, meine Herren, eine sehr feine
 Sippe, die Lewys, haben mit Löwen nichts zu tun, eher mit
@@ -1803,7 +1807,7 @@ Taschenlampe.
 
 Ich behielt nach dem kurzen Blick in die Runde wieder
 die Stelle im Auge, wo die offene Türöffnung sich befinden
-mußte. Vielleicht Sah ich als erster den hellen langen Fleck,
+mußte. Vielleicht sah ich als erster den hellen langen Fleck,
 <@pagebreak/>
 der sich rasch näherte und die verschleierten Umrisse einer
 schwach erleuchteten Gestalt annahm, eines Menschen.
@@ -1823,68 +1827,68 @@ drei Lampen auf.
 In der Tür lehnte in einem schwarzen, priesterrockähnlichen
 Gewand der alte gelehrte Chinese, und von hinten war ihm
 ein langes Durchmesser durch die linke Schlagader und die
-Kehle gefahren, So daß die Spitze vorn rechts herausragte.
+Kehle gefahren, so daß die Spitze vorn rechts herausragte.
 
 Fo lächelte dazu wie ein Weiser.
 
 Und dieses Lächeln, in dem die Gleichgültigkeit gegen den
 Tod und die Ehrlichkeit eines langen Lebens machtvoll sich
 kundtaten, war wie eine Weihe dieser Sterbestunde für den
-Mann, der den Mord an Allan Franc Wandeleer hatte aufklären
+Mann, der den Mord an Allan Franc Wanderleer hatte aufklären
 sollen.
 
 Fo lächelte, und das Blut strömte in roten Bächlein über
 das schwarze, trügerische Geistergewand auf die Dielen und
-tropfte Schwer und leise klingend in die sich rasch bildende
+tropfte schwer und leise klingend in die sich rasch bildende
 düstere Pfütze edelsten Lebenssaftes.
 
 Männer vom Schlage Greaps und Wilkiens, die doch
 wahrlich den Tod in jeglicher Form gesehen und vielleicht
 pflichtgemäß verschenkt hatten, erstarrten vor dieser ungeheuerlichen
 Energie, die den sterbenden Leib des alten Chinesen fast
-straff aufrecht erhielt,
+straff aufrecht erhielt.
 
 Ein Mann wie Harst saß versteinert da, und die hervorragende
-Messerspitze schien seine Augen wie ein Magnet festzuhalten
+Messerspitze schien seine Augen wie ein Magnet festzuhalten.
 
 Fo lächelte.
 
 <@pagebreak/>
 Das Lächeln jener Weisen, die den Blick bereits in das
-Jenseits gerichtet haben
+Jenseits gerichtet haben.
 
 Dann — und auch das waren nur Sekunden — schnellte
 der Riese Wilkiens nach dem Tisch hin, riß mit der Linken
 die eine Laterne weg und lief mit so lautlosen Schritten, wie
 sie kein Leichtgewichtathlet fertiggebracht hätte, an Fo vorüber
-zur Treppe,
+zur Treppe.
 
 Auch Greap raffte sich auf.
 
 Dann polterte irgend etwas, das der Chinese in der Hand
 gehalten hatte, auf die Dielen. Es war ein Stahlzylinder,
-von dem die Kappe abgeschraubt war,
+von dem die Kappe abgeschraubt war.
 
 Greap stutzte.
 
 Harst stand ebenso plötzlich neben Doktor Fo, nahm ihn
 in die Arme und trug ihn sanft auf das verhängnisvolle Bett,
 das in diesem wildbewegten Gangsterdrama eine so merkwürdige
-Rolle spielte,
+Rolle spielte.
 
 Fo war nicht mehr zu helfen. Seine umflorten Augen
 hingen an denen Harsts, der sich über ihn beugte. Der Chinese
 bemühte sich krampfhaft, von irgend etwas zu sprechen, aber
 es gelang ihm nicht, nicht Worte entquollen den dünnen Lippen,
 sondern die rote Überfülle des Blutes, die diesen alten Leib
-noch bewundernswert straff und regsam erhalten hatte,
+noch bewundernswert straff und regsam erhalten hatte.
 
 Greap hatten den Stahlzylinder aufgehoben und drehte
 ihn nachdenklich zwischen den Fingern. Ich wußte, was Fo für
 uns getan, weshalb das Licht erloschen war, weshalb er sterben
 mußte: *Der* Zylinder, im Zimmer unter uns zur Explosion
 gebracht, hätte uns ausgetilgt, hätte die Vorderseite der Villa
-zusammenbrechen lassen wie ein Spielzeughäuschen,
+zusammenbrechen lassen wie ein Spielzeughäuschen.
 
 Dann trat Kaptain Greap langsam an die andere Seite
 des Bettes und nahm des Chinesen Hand.
@@ -1898,18 +1902,18 @@ Greaps Gesicht wurde fahl vor Erregung, und in diesem jungen
 Antlitz zeigten ich die tiefen Falten er einer machtvollen, drohenden
 Willensanspannung.
 
-Noch immer hielt er die schlaffe Hand,
+Noch immer hielt er die schlaffe Hand.
 
 »Tot«, sagte er leise, und er legte sie behutsam quer über
 die Brust und legte auch den linken Arm gekreuzt über den
-anderen,
+anderen.
 
 Dann trafen sich seine und Harsts Augen über der Leiche.
 
 »Harst, und die Bedeutung der Feile?«, fragte er zum
-ersten Mal,
+ersten Mal.
 
-Noch nie hatte er diese Frage gestellt,
+Noch nie hatte er diese Frage gestellt.
 
 »Später — — nicht hier« erwiderte der, der jetzt ganz
 sanft über Doktor Fo’s Hände strich. »Es findet alles seine
@@ -1926,11 +1930,11 @@ ihm Smith und Wilkiens, traten ein.
 
 Bellington ging ohne Zaudern auf das Bett zu und hob
 die gefesselten Arme und senkte sie sacht auf Doktor Fos
-runzlige Stirn,
+runzlige Stirn.
 
 Die harten Züge dieses Mannes, der im Wirtschaftskampf
 die Seele verloren zu haben schien, glätteten sich und nahmen
-den Ausdruck tiefsten Trauer an,
+den Ausdruck tiefsten Trauer an.
 
 Wilkiens flüsterte mir zu: »Nichts gefunden … Dieses
 Haus ist behext … Jetzt stehen an jeder Tür, an jedem Fenster
@@ -1948,27 +1952,27 @@ Schleier, die das Geheimnis des unheimlichen Gangsters der
 Calumet-Bande noch verhüllten.
 
 »… Meine Herren, er war der vornehmste Charakter,
-Der mir je begegnet ist, — — Ehre seinem Andenken! Ehre
-auch der armen Julia Coolp, die meinen Freund Wandeleer
+der mir je begegnet ist, — — Ehre seinem Andenken! Ehre
+auch der armen Julia Coolp, die meinen Freund Wanderleer
 geliebt hat und die doch mit ansehen mußte, wie er sich in
 dieses elende Frauenzimmer vergaffte, das moralisch tiefer
 stand als die gemeinste Verbrecherin — — schon damals! Aber
-Wandeleer war blind, es gibt ein Sklaventum, das schlimmer
+Wanderleer war blind, es gibt ein Sklaventum, das schlimmer
 ist als Eisenketten und Peitsche: Leidenschaft, Gier!!«
 
-Harst Schwieg eine Weile.
+Harst schwieg eine Weile.
 
 »Es gibt noch Ärgeres, Mr. Bellington …« — Er
 flüsterte … »Weit Ärgeres, und *die* Gefahr für empfängliche
 Gemüter wird leider stets unterschätzt. — Ich denke,
 Greap, Smith bringt jetzt Mr. Bellington zu seinem Kinde …
 und dann verschwinden die Handschellen, die ja doch nur täuschen
-Sollten …«
+sollten …«
 
-Smith und Bellington entfernten ich wortlos,
+Smith und Bellington entfernten ich wortlos.
 
 Auf uns dreien, die wir hier bei dem Toten zurückblieben,
-lag es immer noch wie ein Bann
+lag es immer noch wie ein Bann.
 
 Greap legte den Stahlzylinder behutsam auf das kleine
 Wandsofa in eine Kissenvertiefung wird deckte ein anderes
@@ -1976,11 +1980,11 @@ buntes Kissen darüber. Harst nahm eine neue Zigarette, Wilkiens
 putzte bedächtig die Linse seiner Laterne mit dem Taschentuch,
 und ich schaute unverwandt in Doktor Fos starres Antlitz.
 Vieles wäre wohl anders geborenen, wenn Doktor Fo
-rechtzeitig alles uns mitgeteilt — alles,
+rechtzeitig alles uns mitgeteilt — alles.
 
 Vielleicht wäre es anders gekommen …
 
-Ich konnte es nicht beurteilen, nicht ganz. Ich Sah noch
+Ich konnte es nicht beurteilen, nicht ganz. Ich sah noch
 nicht klar genug.
 
 Harst stand da und rauchte. Er ging plötzlich zum Lichtschalter,
@@ -1988,7 +1992,7 @@ drehte das Licht aus, schloß die Tür und bat Wilkiens,
 die Laterne abzublenden. Er zog die Fenstervorhänge
 noch dichter zu, und in der so entstandenen Dunkelheit ruhte
 <@pagebreak/>
-Es dem Bett Lydia Wandeleers eine gespenstisch leuchtende
+auf dem Bett Lydia Wanderleers eine gespenstisch leuchtende
 Gestalt.
 
 Der schwarze Stoff des langen, weiten Gewandes, das
@@ -2034,7 +2038,7 @@ allzu eifrig und selbstsüchtig beschäftigt hatten.
 <@pagebreak/>
 
 <h2>7. Kapitel.</h2>
-<h3>Wandeleers Brief.</h3>
+<h3>Wanderleers Brief.</h3>
 
 Unten in der Küche fanden wir Baby Houston in leidlich
 guter Verfassung vor. Das schmierige Ehepaar hockte am
@@ -2055,7 +2059,7 @@ ist so eng umzingelt, daß nicht einmal eine Ratte durchschlüpfen
 könnte.«
 
 Abel Braham knurrte grämlich: »Es gibt hier keine
-Ratte. Frau Wandeleer hat sogar letztens die Fabrik mit
+Ratte. Frau Wanderleer hat sogar letztens die Fabrik mit
 Gas säubern lassen.«
 
 »Letztens, — das mag lange her sein … — Also gute
@@ -2088,7 +2092,7 @@ Wilkiens verschloß hinter uns die Haustür. In der
 Cleaver-Street herrschte Ruhe, das neugierige Publikum
 hatte sich bereits verlaufen, es regnete stärker, Detektive in
 Gummimänteln standen mit vier Schritt Abstand Posten, und
-nur Ein paar Reporter lungerten wie hungrige Wölfe umher
+nur ein paar Reporter lungerten wie hungrige Wölfe umher
 und suchten irgendein Wort aufzuschnappen. Aber es
 waren Schlechte Zeiten für die Herren, was im Hause
 geschehen, wußte niemand als wir und der Mörder, und Inspektor
@@ -2100,11 +2104,11 @@ war. Weylt, der kleine forsche Weylt, öffnete
 uns die Tür und meldete freudig, daß es Roxy Liston trotz
 des Streifschusses recht gut ginge. — Arthur Ellis Thomas
 Weylt war mir nebst Kaptain Charly und dem ulkigen Wilkiens
-von der Elite am meisten ans Herz gewachsen,
+von der Elite am meisten ans Herz gewachsen.
 
 Wir fuhren zur Field-Street. Ganz in der Nähe führte
 die nordwestliche Bahnstrecke vorüber, das Rollen schwerer
-Güterzüge drang durch die nächtliche Stille, — hier Schien die
+Güterzüge drang durch die nächtliche Stille, — hier schien die
 Riesenstadt doch zu schlafen, diese nimmermüde, gewaltige Metropole
 mit dem verwirrenden Lebenstempo.
 
@@ -2125,7 +2129,7 @@ Seiten Vorstrafen und Polizeiberichte.«
 
 Ich in meiner Ecke labte mich an einer Zigarette, obwohl
 sie mir nicht recht schmeckte. Ich konnte das Bild des so
-gefaßt sterbenden alten Fo nicht vergessen,
+gefaßt sterbenden alten Fo nicht vergessen.
 
 Greap begann von neuem: »Also, Harst, da wie nun unter
 uns sind: Was bedeutet die kleine Nagelfeile?«
@@ -2134,7 +2138,7 @@ uns sind: Was bedeutet die kleine Nagelfeile?«
 gelassen. »Ich vermute das wenigstens.«
 
 »Zwang …« murmelte der junge Kaptain nachdenklich.
-»Sie glauben also, daß Wandeleer seine Frau bald durchschaute
+»Sie glauben also, daß Wanderleer seine Frau bald durchschaute
 und sein Vermögen … ihr … entzog?«
 
 »Ja.«
@@ -2142,20 +2146,20 @@ und sein Vermögen … ihr … entzog?«
 Wilkiens meinte äußerst interessiert: »Man lernt … man
 lernt immer noch dazu …!«
 
-Baby Houston stichelte ironisch: »Schade, Daß Sie damit
+Baby Houston stichelte ironisch: »Schade, daß Sie damit
 so spät anfangen, Sie Vierzigjähriger.«
 
-»Achtunddreißig!!«, fauchte der Sergeant,
+»Achtunddreißig!!«, fauchte der Sergeant.
 
 Harst fügte dem kurzen »Ja« etwas lebhafter hinzu:
 »Der Calumet-Gang, hörte ich, macht erst seit etwa zwölf
-Monaten von sich reden. Franc Wandeleer erschoß sich vor
+Monaten von sich reden. Franc Wanderleer erschoß sich vor
 zwölf Monaten.«
 
 »Wurde erschossen«, verbesserte Greap eifrig.
 
-»Das steht noch nicht fest. Ich möchte Sogar eher annehmen,
-daß er wirklich Selbst Hand an sich legte, allerdings
+»Das steht noch nicht fest. Ich möchte sogar eher annehmen,
+daß er wirklich selbst Hand an sich legte, allerdings
 — nicht ganz ohne Mithilfe anderer. — Kennen Sie die Wirkungen
 von Pamarin?«
 
@@ -2174,21 +2178,21 @@ Im Auto hörte man keinen Atemzug. Alle waren starr
 vor Abscheu und Entsetzen.
 
 »… Sie, Wilkiens, haben ja die Akten des Selbstmörders
-Wandeleer inzwischen eingesehen. Hatte Wandeleer
+Wanderleer inzwischen eingesehen. Hatte Wanderleer
 Fäulniserscheinungen an den Gliedmaßen?«
 
 Der Riese stieß rauh hervor: »Ja — an den linken
 Zehen … Das steht im Sektionsprotokoll.«
 
-»Also ist Wandeleer durch seine Frau in den Tod gehetzt
+»Also ist Wanderleer durch seine Frau in den Tod gehetzt
 worden«, schloß Harst scheinbar vollkommen gefühllos. Aber
 diese Kälte galt nur der Verbrecherin. »Sie verdient keine
 Schonung …!!«
 
 Greap lachte hart. »Ich kann Ihnen noch etwas ergänzen,
-Harst. Bellington erzählte mir vorhin, daß die Wandeleers
+Harst. Bellington erzählte mir vorhin, daß die Wanderleers
 früher beide dem Spiritistenklub »Okkulte Welten« angehört
-haben und daß bei einer der Sitzungen Frau Wandeleer seinen
+haben und daß bei einer der Sitzungen Frau Wanderleer seinen
 eigenen Tod prophezeiht erhielt — durch seinen eigenen »Geist«,
 
 »Ja«, sagte Harst nur, »man zwang ihm die Pistole mit
@@ -2208,7 +2212,7 @@ zu dem Behältnis, wo es lagert, ist die kleine Nagelfeile.«
 
 »Ja. Wer diese kurze Feile genau betrachtet, merkt, daß
 sie von kundiger Hand verändert wurde, bis sie in ein Yale-Schloß
-paßte. Wandeleer, behaupte ich, gab die Feile zusammen
+paßte. Wanderleer, behaupte ich, gab die Feile zusammen
 mit einem Brief Julia Coolp, oder er schickte ihr
 beides kurz vor seinem Tode zu. Nach seinem Tode fand Lydia,
 angeblich geborene Lewys, keinen blanken Heller mehr vor,
@@ -2221,7 +2225,7 @@ Hauptrolle spielte …«
 »Wer?«, platzte Wilkiens heraus.
 
 Baby Houston sagte hochnäsig: »Sie hätten früher in
-diese Lehre gehen Sollen: Die Hauptperson ist Miß Honoria
+diese Lehre gehen sollen: Die Hauptperson ist Miß Honoria
 Castelli, das Medium, zu der wir jetzt zu nächtlicher Visite
 fahren.«
 
@@ -2231,7 +2235,7 @@ fahren.«
 
 »Baby, Mäulchen halten, mein Söhnchen, sonst gibt es
 ein Backpfeifchen aufs Popochen!«, schmunzelte Wilkiens, ohne
-weiter gekränkt zu sein,
+weiter gekränkt zu sein.
 
 Der Wagen hielt, das letzte Stück gingen wir zu Fuß.
 Miß Castelli wohnte im ersten Stock eines neueren Hauses,
@@ -2255,7 +2259,7 @@ Wir gingen durch die sehr vornehme Vierzimmerwohnung,
 die Zofe blieb stets hinter uns, im Schlafzimmer zog Harst
 die Steppdecke vom Bett: Die Betten waren nicht bezogen!
 
-»Ihre Herrin schläft wohl sehr Selten hier!«
+»Ihre Herrin schläft wohl sehr selten hier!«
 
 Das Mädchen wurde verlegen.
 
@@ -2264,7 +2268,7 @@ ist hier aus, und wenn Sie noch etwas für sich retten wollen,
 gestehen Sie uns alles, was Sie wissen.«
 
 <@pagebreak/>
-Das liebe Kind markierte törichterweise Unschuldslämmchen,
+Das liebe Kind markierte törichterweise Unschuldslämmchen.
 
 »Handschellen, Wilkiens!!«
 
@@ -2273,7 +2277,7 @@ Wilkiens packte zu.
 »Oh — ich will alles sagen«, kreischte die Zofe verzweifelt.
 
 »Danke, nicht mehr nötig, — wir wissen alles, und Sie
-wissen nicht die Hälfte, — Zur nächsten Wache mit ihr. Rufen
+wissen nicht die Hälfte. — Zur nächsten Wache mit ihr. Rufen
 Sie das Revier an.«
 
 Kaptain Charly Greap war Stein. Das Später heulte,
@@ -2285,8 +2289,8 @@ zum Vorschein. »Ist dies etwa Ihre Schwester Lydia?«
 Das junge Weib nickte widerwillig.
 
 »Hören Sie mal zu«, — Harst sprach bedeutend freundlicher.
-»Miß Julia Coolp hatte von Wandeleer einen Brief
-kurz vor seinen Tode erhalten, Stimmt das?«
+»Miß Julia Coolp hatte von Wanderleer einen Brief
+kurz vor seinen Tode erhalten. Stimmt das?«
 
 »Ja …«
 
@@ -2341,7 +2345,7 @@ doch nur Sie geliebt, Julia.
 
 <p class="right">Ihr</p>
 
-<p class="right">Franc Wandeleer.</p>
+<p class="right">Franc Wanderleer.</p>
 
 <@pagebreak/>
 
@@ -2349,10 +2353,10 @@ doch nur Sie geliebt, Julia.
 
 <h3>Der Schornstein.</h3>
 
-Als wir die Villa Wandeleer wieder erreichten, begann
+Als wir die Villa Wanderleer wieder erreichten, begann
 es hell zu werden. Der neue Tag zog herauf, und obwohl es
 erst fünf Uhr war, besaß Greap doch die Rücksichtslosigkeit,
-das Ehepaar Braham wieder herauszutrommeln,
+das Ehepaar Braham wieder herauszutrommeln.
 
 »Aufstehen!!«, rief er durch die Tür. »Der Kessel muß
 geheizt werden, Vater Braham! Etwas fix bitte!!«
@@ -2396,7 +2400,7 @@ mit der Lichtreklametafel oben am Schornstein zusammen. Ich
 wußte, daß er bei der nächtlichen Durchsuchung der Klubräume
 sich für einige Zeit auch hier aufgehalten hatte. Ob er etwa
 Besonderes entdeckt hatte, war mir unbekannt. Das große
-Rätselraten um den Fall Wandeleer war ja von den Beteiligten
+Rätselraten um den Fall Wanderleer war ja von den Beteiligten
 mit ganz überflüssigem Aufwand von gegenseitigem
 Verheimlichen der Teilerfolge betrieben worden.
 
@@ -2404,7 +2408,7 @@ Wilkiens drückte das erste, kreischende Rohr zurück,
 und wir blickten gespannt nach oben. Wir sahen nichts als
 oben das Schornsteinloch und ein rundes Stück des Morgenhimmels.
 Die Steigeisen zur Reparatur der Esse waren außen
-angebracht,
+angebracht.
 
 »Wundervolle Aussicht!« rief Wilkiens. »Schwarze
 Mauern und ein bißchen Äther — allerhand!«
@@ -2415,7 +2419,7 @@ Er wollte das Rohr so belassen, wie es jetzt gedreht war.
 Harst. »Und jetzt — — Feuer in den Kessel … Etwas flink.
 Inzwischen wird wohl auch Houston mit der Badewanne erscheinen
 … Und Sie, Weylt, holen mal ein paar Detektive
-von der Straße. Sie Sollen die Esse beobachten. Hell genug
+von der Straße. Sie sollen die Esse beobachten. Hell genug
 ist es jetzt ja.«
 
 »Es wird noch heller werden«, meinte Charly Greap und
@@ -2434,7 +2438,7 @@ einen glänzenden Spaß.
 <@pagebreak/>
 Ich beobachtete die Gesichter der braven Brahams, und
 was ich da bemerkte, gab zu denken. Das Ehepaar schwitzte
-nämlich
+nämlich.
 
 Schwitzte Angst … — Wovor?! Angst?! — Gewiß,
 sie hatten guten Grund, sich reichlich unbehaglich zu fühlen,
@@ -2445,7 +2449,7 @@ ganz aufgeregt, daß in halber Höhe der Esse Rauch hervordringe.
 Gleichzeitig traf Baby Houston mit der Waschbütte
 ein. »Seifen Sie Frau Braham ab«, meinte Harald.
 
-»Der Kessel brennt flotter«, brüllte Wilkiens im Hintergrunde,
+»Der Kessel brennt flotter«, brüllte Wilkiens im Hintergrunde.
 
 Frau Braham wehrte sich gegen die Reinigungsprozedur
 mit allen Kräften … Es half ihr alles nichts, und so allmählich
@@ -2475,14 +2479,14 @@ Abscheu: »Sie vergifteten Julia Coolp, Sie erschossen Lewys,
 der Ihr eigener Sohn war. Sie töteten Doktor Fo, Sie sind
 der Gangster der Calumet-Bande, und Ihre Kinder waren
 <@pagebreak/>
-Ihre Unterführer. Droben in der Esse hatte Lydia Wandeleer
+Ihre Unterführer. Droben in der Esse hatte Lydia Wanderleer
 ihr Versteck — hatte!! Was Wilkiens für das Loch
 der Esse hielt, war ein Spiegel, über dem Spiegel liegt der
 Fußboden des Verstecks. — Löschen Sie das Feuer, Wilkiens,
-Mr. Horter hat sich in einem Punkte geirrt: Lydia Wandeleer
+Mr. Horter hat sich in einem Punkte geirrt: Lydia Wanderleer
 ist nicht dort oben, Lydia sitzt bereits in Haft, sie war
 die Zofe, die wir bereits in der feudalen Wohnung der
-»Castelli« antrafen«
+»Castelli« antrafen.«
 
 Er zwinkerte Harst etwas triumphierend zu. »Getrennt
 marschieren, vereint schlagen, — und der Calumet-Gang ist
@@ -2498,11 +2502,11 @@ alles wohl beweisen müssen, Kaptain Hutter … Ich erkläre
 alle Ihre Verdächtigungen für baren Unsinn … Auf leere
 Indizien hin verurteilt kein Gericht, und …«
 
-Greap-Hutter holte wortlos Wandeleers letzten Brief
+Greap-Hutter holte wortlos Wanderleers letzten Brief
 an Julia Coolp aus der Tasche. »Den Brief gab mir Ihre
 Tochter Lydia«, sagte er gleichmütig. »Lydia hat es vorgezogen,
 wirklich alles zu gestehen, und auch Ihre Kinder
-draußen in Highland-Park Sowie die Stellvertreter in Lugano
+draußen in Highland-Park sowie die Stellvertreter in Lugano
 sind bereits verhaftet.«
 
 Das Medium Castelli war unnatürlich bleich geworden.
@@ -2510,10 +2514,10 @@ Das Medium Castelli war unnatürlich bleich geworden.
 »Und — — der Schlüssel?«, quälte sie stockend hervor.
 
 »Ach so — die Nagelfeile …! Die hat Mr. Horter im
-Hutfutter. Heute vormittag wird der von Franc Wandeleer
+Hutfutter. Heute vormittag wird der von Franc Wanderleer
 in der Bank deponierte Schrankkoffer geöffnet werden.
-Wandeleer besaß etwa zehn Millionen. Ich glaube, sie
-werden noch vollzählig da Sein, aber nicht für Sie! — Wilkiens
+Wanderleer besaß etwa zehn Millionen. Ich glaube, sie
+werden noch vollzählig da sein, aber nicht für Sie! — Wilkiens
 — — abführen!! Fort mit den beiden!!«
 
 Vater Braham heulte und wehklagte. Er war vielleicht
@@ -2537,16 +2541,16 @@ hatten eben ganz bestimmt damit gerechnet, die Feile
 in jener Nacht von Julia Coolp zu erhalten, als Houston-Baby
 durch sein Erscheinen den Dingen eine andere Wendung gab.
 Die kleine Feile mußte ja vorerst verborgen bleiben, denn Lydia
-Wandeleer war für die Öffentlichkeit in der Schweiz- und
-mußte doch erst zurückkehren, bevor sie als Witwe Wandeleer
+Wanderleer war für die Öffentlichkeit in der Schweiz- und
+mußte doch erst zurückkehren, bevor sie als Witwe Wanderleer
 dein Schatz des Schrankkoffers haben durfte.
 
 Es wurde für uns ein sehr unruhiger Morgen und Vormittag.
 Das Hauptquartier Greaps mußte verlegt werden —
 wohin, das mag einem späteren Bericht vorbehalten bleiben.
-In dem Koffer lag noch eine letztwillige Verfügung Wandeleers
+In dem Koffer lag noch eine letztwillige Verfügung Wanderleers
 für den Fall, daß Julia Coolp die Erbschaft ablehne.
-Die Wandeleer-Millionen fielen So der Stadt und milden
+Die Wanderleer-Millionen fielen so der Stadt und milden
 Stiftungen zu.
 
 Gegen Abend, nachdem wir einige Stunden geschlafen
@@ -2574,7 +2578,7 @@ Charly Greap blickte träumerisch in die Ferne.
 »Das, Wilkiens, war das erste Anzeichen, daß die Bande
 vom Calumet uns überfallen sollte … Als ein Befehl für
 einen Beobachter. Wenn Sie für »leer« »niedergebrannt«
-setzen, und wenn Sie von Schieblade das »lade« getrost weglassen.
+setzen, und wenn Sie von Schieblade das »lade« getrost weglassen
 und bei »Schiebe« bleiben, wie die Originalmeldung
 lautete, wenn Sie sich daran erinnern, daß das Sägewerk
 »Schiebe u. Co.« firmierte, dann … ja dann begreifen Sie wohl
@@ -2606,11 +2610,11 @@ von Vierzig!«
 »Und betrunken — ich?! Das wäre gelacht! Sie Grünspecht
 vielleicht, aber nicht ich, zumal da bereits wieder etwas nicht
 recht in Ordnung ist und wir unseren Verstand nüchtern halten
-müssen,«
+müssen.«
 
-Greap blickte ihn fragend an,
+Greap blickte ihn fragend an.
 
-»Was ist nicht in Ordnung?«, fragte er etwas beunruhigt,
+»Was ist nicht in Ordnung?«, fragte er etwas beunruhigt.
 
 Der Hüne Wilkiens erwiderte sehr ernst: »Lesen Sie mal
 diese Anzeigen im Michigan-Recorder, Kaptain … — Dahinter
@@ -2633,7 +2637,7 @@ Houston nur zwei, und Baby hatte unsichere Beine. Da nahm
 der Riese ihn unter den Arm und sagte gutmütig: »Siehst du,
 Kindchen, — — du bist voll, nicht ich!!«
 
-Baby Houston schämte sich und Schwieg ausnahmsweise.
+Baby Houston schämte sich und schwieg ausnahmsweise.
 
 Nächster Band: *Der blaugrüne Walfisch*.
 
