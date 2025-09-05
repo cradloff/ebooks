@@ -1,6 +1,6 @@
 <@pagebreak 3/>
 
-Der blaugrüne Walfisch
+<h1>Der blaugrüne Walfisch</h1>
 
 <h2>1. Kapitel.</h2>
 <h3>Eine Begegnung auf dem Wasser.</h3>
@@ -9,7 +9,7 @@ Das Bankgeschäft von Fraser u. Co. in der Michigan-Avenue
 war eine der ältesten Firmen dieser Art in Chicago.
 Derzeitiger Alleininhaber war Mr. Anatol Fraser, ein Mann
 in den besten Jahren, der neben seinem Beruf nur eine Leidenschaft
-hatte: Seine Gemäldegalerie, — — Wenn man diese Vorliebe
+hatte: Seine Gemäldegalerie. — Wenn man diese Vorliebe
 für Werke alter Meister als »bescheiden« bezeichnet,
 muß man freilich hervorheben, daß Anatol Fraser ein Vermögen
 von rund zwanzig Millionen besaß und daß sein von
@@ -18,395 +18,399 @@ abwarf, der dem frischen, sympathischen Junggesellen ebenfalls
 die Möglichkeit gab, sehr erhebliche Summen in seine Gemäldesammlung
 zu stecken. Für seine eigene Person lebte er äußerst
 anspruchslos, und das Unheil, das ihn in der Nacht vom 2. zum
-3\. Juni traf, erweckte mir allgemeine Teilnahme,
+3\. Juni traf, erweckte nur allgemeine Teilnahme,
 
 In dieser Nacht ereignete sich folgendes. Der Nachtpförtner
 des neunstöckigen Hauses hatte gegen elf Uhr (es
-war ein OSomtabench die telephonische Mitteilung erhalten, da
+war ein Sonnabend) die telephonische Mitteilung erhalten, daß
 seine Frau an akuter Blinddarmentzündung schwer erkrankt
-sei. Ein Arzt Doktor Muschel hatte ihn hiervon in Kenntnis
-ganzes! und ihn gebeten, sofort naß Hause zu kommen. Der
-bestürzte ’Psörtner rief] daraufhin einen der beiden Hausdetektive
+sei. Ein Arzt Doktor Mittchell hatte ihn hiervon in Kenntnis
+gesetzt und ihn gebeten, sofort nach Hause zu kommen. Der
+bestürzte Pförtner rief daraufhin einen der beiden Hausdetektive
 herbei und erklärte ihm, er würde einen guten Bekannten
-als ’Borkreter schicken. Als der in der Michigan-’Avenue sehr
-aufgeprallt eine leere Autotaxe bestieg, winkte ihm der Detektiv
-noch fröstelnd nach. Eine halbe Stunde später meldete sich
+als Vertreter schicken. Als der in der Michigan-Avenue sehr
+aufgeregt eine leere Autotaxe bestieg, winkte ihm der Detektiv
+noch tröstend nach. Eine halbe Stunde später meldete sich
 <@pagebreak/>
-bei diesem der Vertreter, den der Vachkpsörtner seinem Versprochen
-gemäß ’n die City geschickt hatte. Gegen ein Uhr
-morgens Dritte Mr. Anatol Grafen dann persönlich heim,
-er bewohnte »den dritten Stock des schmalen hoben Gedudel.
-Tau seinem Entsetzen fand er in der Wertvolle frische Blutspuren,
-lauter? den Pförtner bereits, lautete jedoch« umkrallt.
-Die Tür der Fuge war verschlossen.
+bei diesem der Vertreter, den der Nachtpförtner seinem Versprechen
+gemäß in die City geschickt hatte. Gegen ein Uhr
+morgens kehrte Mr. Anatol Fraser dann persönlich heim,
+er bewohnte den dritten Stock des schmalen hohen Gebäudes.
+Zu seinem Entsetzen fand er in der Vorhalle frische Blutspuren,
+läutete den Pförtner heraus, läutete jedoch umsonst.
+Die Tür der Loge war verschlossen.
 
-Fackel Fragen eilte durch) den Noberneingang, der für ihn
-allein reserviert war, zu; die Straße zurück und rief einem
-Polieewman derbe!, schickte ihn zur nächsten Polizeiwache und
-begab sich wieder in die Vorhalle., Er war als Macht von
-hohem persönlfichemm Mut und großer Kaltblütigkeit wohlbekannt
-und kennt? es bei seiner Körperkraft und Gewandtheit
-mit ein vor Angreifern wohl aufnehmen. Die Tür des
-Roboneinganges hatte er angelehnt gelassen.
+Anatol Fraser eilte durch den Nebeneingang, der für ihn
+allein reserviert war, auf die Straße zurück und rief einen
+Policeman herbei, schickte ihn zur nächsten Polizeiwache und
+begab sich wieder in die Vorhalle. Er war als Mann von
+hohem persönlichem Mut und großer Kaltblütigkeit wohlbekannt
+und konnte es bei seiner Körperkraft und Gewandtheit
+mit ein paar Angreifern wohl aufnehmen. Die Tür des
+Nebeneinganges hatte er angelehnt gelassen.
 
-Fünf Kind! er später fragen acht Detektive ein, Fanden
-Mr. Tropfen aus den ersten Augen der Treppe bewußtlos auf,
-durch Minen Kopfhieb übel zugerichtet. In der Pförtnerloge
-befand sich niemand, zu die beiden Hausdetektive waren verschwunden.
-Ort der Wohl: Zug Mr. Kraters aber fehlten aus
-dem Gemäldesaal kühn wertvollen Bilder, Sie waren
-will »Seitenlinie aus dem Rahmen gelöst mich gestohlen
-W6TDEN,
+Fünf Minuten später trafen acht Detektive ein, Fanden
+Mr. Fraser auf den ersten Stufen der Treppe bewußtlos auf,
+durch einen Kopfhieb übel zugerichtet. In der Pförtnerloge
+befand sich niemand, auch die beiden Hausdetektive waren verschwunden.
+In der Wohnung Mr. Frasers aber fehlten aus
+dem Gemäldesaal sämtliche wertvollen Bilder. Sie waren
+mit Sachkenntnis aus dem Rahmen gelöst und gestohlen
+worden,
 
-Ins Mr. Großer nach einer Stunde unter den Händen eines
-Arztes wieder zu sich kam, formte er lediglich angeben, daß er
+Als Mr. Fraser nach einer Stunde unter den Händen eines
+Arztes wieder zu sich kam, konnte er lediglich angeben, daß er
 die Treppe habe emporsteigen wollen und hinterrücks niedergeschlagen
-werde: sei. Inzwischen Hatten die polizeilichen Ermittlungen«
-bereits die weite bedeutungsvolle Leiche aus
-Siegt gebracht, daß der »Nachtpförtner Mr. ’Bealk in dem
-Garten seines Hänschens in einem der nordwestlichen Vororte
-mit eine Schiff durch den Kopf zwar noch lebend, aber in
-äußerst besorgniserregendem »Zustand durch einen Nachbar zufällig
-in einem Gebüsch entlockt worden war. Der Taxichauffeur,
-der Derart na!: Halse gefahren, konnte die ersten
-genaueren Knaben über div Vorfälle- zu Protokoll geben,
+worden sei. Inzwischen Hatten die polizeilichen Ermittlungen
+bereits die neue bedeutungsvolle Tatsache ans
+Licht gebracht, daß der Nachtpförtner Mr. Bealk in dem
+Garten seines Häuschens in einem der nordwestlichen Vororte
+mit eine Schuß durch den Kopf zwar noch lebend, aber in
+äußerst besorgniserregendem Zustand durch einen Nachbar zufällig
+in einem Gebüsch entdeckt worden war. Der Taxichauffeur,
+der Bealk nach Hause gefahren, konnte die ersten
+genaueren Angaben über die Vorfälle zu Protokoll geben,
 <@pagebreak/>
-da Genick sich ihm in seiner Herzensangst um das Ergehen
-seiner Frau während vor Fahrt anvertraut und ihn zur Eile
-angetrieben hatte. — Einen Arzt Doktor Muschel gab es
-nicht, Breite &Srau war völlig gesagt, U19 die Detektivpolizei
-war daher der Überzeugung, daß man Bedenkt lediglich
-weggelockt habe, »’um »beim Stellvertreter« Gelegenheit zu
-geben, zu? die Detektive zu beseitigen und seine Diebesgettossen
+da Bealk sich ihm in seiner Herzensangst um das Ergehen
+seiner Frau während der Fahrt anvertraut und ihn zur Eile
+angetrieben hatte. — Einen Arzt Doktor Mittchell gab es
+nicht, Bealks Frau war völlig gesund, und die Detektivpolizei
+war daher der Überzeugung, daß man Bealk lediglich
+weggelockt habe, um »dem Stellvertreter« Gelegenheit zu
+geben, auch die Detektive zu beseitigen und seine Diebesgenossen
 in das Haus einzulassen.
 
-Die Dienstboten Mr. Frasers schliefen Linken im Seifen
-kluge! und harten nicht das grinste Verdächtige gehört,
+Die Dienstboten Mr. Frasers schliefen hinten im Seitenflügel
+und hatten nicht das grinste Verdächtige gehört,
 
 Außer fünfzehn Gemälden, darunter zwei Rubens, zwei
-Mantel, drei Wortlaut, zwei Rembrandks und Omen viel ganzes
-erschien Dorthin selben noch die Gewesen vor Mutter
-das Mr. Anatol! Gräser und Mine Gewehre Kassette, in der hauptsächlich
-ältere Goldmünzen gelogen Hatten, — —
+Martes, drei Watteau, zwei Rembrandts und einen viel 
+angezweifelten Böcklin fehlten noch die Juwelen der Mutter
+des Mr. Anatol Fraser und eine zweite Kassette, in der hauptsächlich
+ältere Goldmünzen gelegen Hatten, — —
 
-&n herstellen Nacht landete eine jsechmuke Segeljacht
-Dünen halb zwölf in docmthasen des nördlichen Teiles
-des schönen Lincoln-Parkes, und. stört Herren begaben sich
-im Anbruch dieser sah unterbrochenen Segelpartie in- einem
-Privatautos, das aus ein gewartet hatte, vom einem bescheidenen
-Hotel in der nördlichen Finanzen — Atome, das anfangs!
-in andere Hunde sibergegatgen war. Es war Mohr eine
-Stentdeipension, die der Schlosser gründlich horunterqewirtjWoitet
-hold, »Das vierstündige Haus lag. in Einem winzigen
-Getreten Bad wurde von den neueren, sicheren Nachbarn
-förmlich ’erdrückt.
+In derselben Nacht landete eine schmucke Segeljacht
+gegen halb zwölf im Jachthafen des nördlichen Teiles
+des schönen Lincoln-Parkes, und fünf Herren begaben sich
+im Anbruch dieser jäh unterbrochenen Segelpartie in einem
+Privatauto, das aus ein gewartet hatte, nach einem bescheidenen
+Hotel in der nördlichen Milwaukee-Avenue, das unlängst
+in andere Hände übergegangen war. Es war Mehr eine
+Fremdenpension, die der Vorbesitzer gründlich heruntergewirtschaftet
+hatte. Das vierstöckige Haus lag in Einem winzigen
+Gärtchen und wurde von den neueren, stolzeren Nachbarn
+förmlich erdrückt.
 
 An der eisernen Vorgartentür war ein Riesenschild
 angebracht (mit zum Teil zerplatzten Buchstaben):
 
-Privathoke! 8 Kennen.
-Billig. Sauber. Komfort.
-Auf Wunsch Keller Verpflegung.
+<p class="centered em">Privathotel J. Bennett.</p>
+<p class="centered">Billig. Sauber. Komfort.</p>
+<p class="centered">Auf Wunsch volle Verpflegung.</p>
 
 Fünf Steinstufen führten zu zwei traurigen Magnolienbüschen
-vorüber zur Hausflur empor, in der sich ein quadratisches
+vorüber zur Haustür empor, in der sich ein quadratisches
 Guckloch für den Portier befand. — Einer der Herren
 <@pagebreak/>
-säuselte, die Klappe steuerte sich, und dann ging auch die Haustür
+läutete, die Klappe öffnete sich, und dann ging auch die Haustür
 auf, die seltsamerweise innen schwer gepanzert war,
 
-Die Herren begrüßten den Portier sehr kamoeradschastlich
-durch Handschlag, mich einer von ihnen, der bisher einen
-dicken, blonden Schnurrbart und »Brille getragen hatte, legte
-jetzt beides ab und meinte zu doch alten Pförtner:
+Die Herren begrüßten den Portier sehr kameradschaftlich
+durch Handschlag, und einer von ihnen, der bisher einen
+dicken, blonden Schnurrbart und Brille getragen hatte, legte
+jetzt beides ab und meinte zu dem alten Pförtner:
 
-»Du wunderst dich, daß antun schnell zurück sind, Vater …
-Es hat sich jedoch etwas Ereignis!, das mit …«
+»Du wunderst dich, daß wir so schnell zurück sind, Vater …
+Es hat sich jedoch etwas Ereignet, das uns …«
 
-»Ilweierlsei hat sich erstens!«, korrigierte ein anderer
-… der merkwürdigen Hotelgäste. »Wir reden darüber besser
+»Zweierlei hat sich ereignet«, korrigierte ein anderer
+der merkwürdigen Hotelgäste. »Wir reden darüber besser
 in aller Ruhe, Mr. Greap.«
 
-»Da bin ich neugierig«, sagte der alle Herr wenig begeistert.
-»oh schade, uns ins von der letzten Sache her noch
-ein wonmiq Ausspannen gut.«
+»Da bin ich neugierig«, sagte der alte Herr wenig begeistert.
+»Ich schätze, uns tut von der letzten Sache her noch
+ein wenig Ausspannen gut.«
 
-Der ohne Schnurrbart ler hielt ihn nebst Brille noch in
-der Hauch wandte lich an den Jüngsten.
+Der ohne Schnurrbart (er hielt ihn nebst Brille noch in
+der Hand) wandte sich an den Jüngsten.
 
-»Houston, hängen Sie das Schild draußen auf, Die Farbe
+»Houston, hängen Sie das Schild draußen auf. Die Farbe
+wird wohl schon trocken sein.«
 
-wird wohl sconefrocken sein.«
 Gleich darauf prangte neben dem Hotelschild ein zweites:
-»» ist auf weiteres
-alles besetzt.«
 
-Es war ein sehr sonderbares Hotel, Es halte achtzehn
-Fremdenzimmer, aber kann die Hälfte war davon bewohnt.
-da dem ganzen Haus??, zu dem auch eine unterirdische geräumige
+<p class="centered pre">»Bis auf weiteres
+alles besetzt.«</p>
+
+Es war ein sehr sonderbares Hotel. Es hatte achtzehn
+Fremdenzimmer, aber kaum die Hälfte war davon bewohnt.
+In dem ganzen Hause, zu dem auch eine unterirdische geräumige
 Garage gehörte, wohnten zur Zeit nur sechzehn Herren
-und eine junge, viel zu hübsche Bockig, die übrigens schon
-morgen einem der Herren auf Grund besonderer Lizenz heiraten
+und eine junge, viel zu hübsche Köchin, die übrigens schon
+morgen einen der Herren auf Grund besonderer Lizenz heiraten
 würde.
-An dem sogenannten Grseslsschastszmmer saßen dann diese
-Bewohner bis auf zwei, die draußen Wache hattet, um den
-Langen Tisch bei geschliffenen erhielten Fensterläden beieinander
-Und erörterten Diva Erlebnisse der Segelpartie der eins.
+
+In dem sogenannten Gesellschaftszimmer saßen dann diese
+Bewohner bis auf zwei, die draußen Wache hatten, um den
+langen Tisch bei geschlossenen eisernen Fensterläden beieinander
+Und erörterten die Erlebnisse der Segelpartie der fünf.
 
 Kaptain Charly Greap, Spezialkommissar zur Bekämpfung
 der Gangsters, hatte vor sich auf dem Tisch vier Zeitungsausschnitte
 <@pagebreak/>
-liegen, die er nun zunächst seinen Vater, dein Pforte
+liegen, die er nun zunächst seinem Vater, dem Pförtner,
+reichte,
 
-ter, reichte,
-»Wie werde Floß sie infiziert«, erklärte er, »der ja die
+»Wie verdanken sie Wilkiens«, erklärte er, »der ja die
+Presseabteilung unter sich hat.«
 
-Nr Fesselte: lang müsse f: bat.«
+Sergeant Wilkiens grinste ein wenig. »Presseabteilung
+klingt großartig! In Wahrheit bin ich dazu verurteilt, alle
+Zeitungen auf verdächtige Anzeigen zu durchsuchen.«
 
-Sereaun!t Verdient grinste ei? forsch. »Dresscabteilung
-singt großartig! da Wahrheit bin im dazu verurteilt, alle
-Betrügern auf verdächtige Anzeigen zu durchsuchen.«
+Kaptain Greaps harmloses frisches Jungengesicht verzog
+sich zu einem flüchtigen Lächeln. Dann fügte er hinzu, indem
+er die Mienen seiner Getreuen mit zufriedenem Blick Überflog:
+»Es wird Arbeit geben … Irgend etwas steckt dahinter.
+Die Anzeigen, die Wilkiens gesammelt hat, stammen aus den
+vier letzten Abendausgaben des Michigan-Recorder. — Harst,
+lesen Sie mal vor …«
 
-Dunkeln Greaps harmloses frisches Jungengesicht verzog
-sich zu einem fMüchtivgen Tagelohn, Dann fügte er hinzu, indem
-er die Mienen seine: Getreuen mit zusriedevenm Blick Überflog!
-»Es wird Arbeit geben … Irgend etwas leckt dahinter.
-Die Anzeigers. div Wilkiens gesammelt bat stammen aus bei
-vier retten Abendausgaben des Wichtigen-Recorder. — Harst,
-
-losen Sie mal vor.
-— Ein Herr mit -»graumelierten Spitzbart nahm aus Miß
+Ein Herr mit graumelierten Spitzbart nahm aus Miß
 Roxy Listons zarter Hand die Zettel entgegen. »Also Nr. 1:
-5000 Dollar gesucht —
-gegen erstklassige Sicherheit nur bis 3. bunt d. I.
-5509 zurück. — Angebote unter »Liegen 126« an
-die Ernst.
 
-»Seines Geschäft!«, belustigte Sich der breite Ton Begriff,
-der brennt neben Miß Roxy!soß und den Arm um ihre Stuhllehne
+<p class="centered em">5000 Dollar gesucht</p>
+<p class="centered">gegen erstklassige Sicherheit nur bis 3. Juni d. J.
+5500 zurück. — Angebote unter »Blagru 126« an</p>
+<p class="centered">die Exped. d. Z.</p>
+
+»Feines Geschäft!«, belustigte Sich der kleine Tom Weylt,
+der dicht neben Miß Roxy saß und den Arm um ihre Stuhllehne
 gelegt hatte. Er durfte das, er war ihr Verlobter.
 
-»gar.
-3000 Dollar gesucht.
-gegen gute Sicherheit. 33062 bis 1. Juli zurück.
-Angebote unter »Himmel 126« zu die Cxped, d. I.
-Strand Houston, das Baby, meckerte sonst: »Mr. Goa
+»Nr. 2:
+
+<p class="centered em">3000 Dollar gesucht.</p>
+<p class="centered">gegen gute Sicherheit. 3300 bis 1. Juli zurück.
+Angebote unter »Gruwal 126« an die Exped. d. Z.</p>
+
+Stuart Houston, das Baby, meckerte sanft: »Mr. Gru
 wird bescheidener!«
 
 »Nr. 3:
-na 29000 Dollar gesucht
-Sicherheit vorhanden … 2200 Zurück bis 1. Juli, Angebote
-zu »Wollte 120« zu Ernst. d, 3.
+
+<p class="centered em">2000 Dollar gesucht</p>
+<p class="centered">Sicherheit vorhanden. 2200 Zurück bis 1. Juli. Angebote
+an »Walbla 126« an Exped. d. Z.</p>
 
 <@pagebreak/>
-Roxy rief leise: »Da sollst mich nicht immer bunten,
-Ton! — Es bleibt bei »196«, und &as ist auffällig.«
+Roxy rief leise: »Du sollst mich nicht immer kneifen,
+Tom! — Es bleibt bei »126«, und das ist auffällig.«
 
-»Ja«, sagte Wilkiens mit tiefen Bad, »das Al! auch
-eine Schusterei.«
+»Ja«, sagte Wilkiens mit tiefen Baß, »das ist irgend
+eine Schufterei.«
 
-»Er.
-50900 Dollar goeosucht
+»Nr. 4:
 
-erstklassige Sicherheit. 5500 zurück bis 1, das.
-Angebote zu »Grüble 126« an die Cxped. d. &.
+<p class="centered em">5000 Dollar gesucht</p>
+
+<p class="centered">erstklassige Sicherheit. 5500 zurück bis 1. Juli.
+Angebote an »Grubla 126« an die Exped. d. Z.</p>
 
 »Und jetzt, Wilkiens, reden Sie«, bat Harst und legte die
-Geitung5aus; Mitte auf den Eilen. »Ehre. kehre gehüllt,
-und Vielfach es, der auf Mister ’Blawal Kam.«
+Zeitungsausschnitte auf den Tisch. »Ehre, wem Ehre gebührt,
+und Sie sind es, der auf Mister Blawal Kam.«
 
 Der Riese Wilkiens strich sich über den blonden Bürstenschädel.
-»Tor sieben Monaten wurde auf doch See ist der Wendete
-eine Spritjschmugglerjadt abgefaßt«, erzählte er sehr
-bedächtig. »Der Kaptain nannte sich Blawal, Genick Greap
-Blawal. Er hatte auch »Papiere, die auf diesen Meinen läuteten,
-sie waren tadellos gefälscht. Damals Behörde ie; noch
-zur Wasserpolizei, und auch das war ein munteres Neben, bei
-dem 25 ob! Kugeln wie Hagelgeschosse regnete. Aber das
-jetzige Leben ist noch schöner, Kapnfuin Piano, damit Öse
-nicht denken, ich sehnte Miß gab dein »Krebsen« zurück.
-Was »Krebse« sind, Mr. Holt: dürfte Fluch winkt fremd Tor.
-Gehorchte Krebse sind und! ich/echt, aber »Kreise« war ein
-schlechter Ehrentitel für gewisse Kollegen, die mit den Bootes
-bessere gemeinsame Dame machten, mit den chOrvritschutuggiern
-eben. Neun ein verdächtiges Fahrzeug auftauchte, Krebsten
+
+»Vor sieben Monaten wurde auf dem See ist der Nordecke
+eine Spritschmugglerjacht abgefaßt«, erzählte er sehr
+bedächtig. »Der Kaptain nannte sich Blawal, Georg Green
+Blawal. Er hatte auch Papiere, die auf diesen Namen lauteten,
+sie waren tadellos gefälscht. Damals gehörte ich noch
+zur Wasserpolizei, und auch das war ein munteres Leben, bei
+dem es oft Kugeln wie Hagelgeschosse regnete. Aber das
+jetzige Leben ist noch schöner, Kaptain Greap, — damit Sie
+nicht denken, ich sehnte mich nach dem »Krebsen« zurück.
+Was »Krebse« sind, Mr. Harst, dürfte Ihnen nicht fremd sein.
+Gekochte Krebse sind nicht schlecht, aber »Krebse« war ein
+schlechter Ehrentitel für gewisse Kollegen, die mit den Bootleggers
+gemeinsame Sache machten, mit den Spritschmugglern
+eben. Wenn ein verdächtiges Fahrzeug auftauchte, krebsten
 die üblen Kollegen eben nach rückwärts und Sahen und hörten
-nichts. Ein Kammer war es, daß dieser dacbtkaptain »Blawal
-auskneifen konnte. Na, die Schuldigen sitzen dafür und klaren
-Pappkartons und nähen Säcke und Schulter Sralisverpllegung.
-Einem Monat davon? wurde ich hier zur »Elite« berufen. Wofür
+nichts. Ein Jammer war es, daß dieser Jachtkaptain Blawal
+auskneifen konnte. Na, die Schuldigen sitzen dafür und kleben
+Pappkartons und nähen Säcke und erhalten Gratisverpflegung.
+Einen Monat darauf wurde ich hier zur »Elite« berufen. Dafür
 danke ich Ihnen, Kaptain Greap, das war und ist eine
-uszeichuug. Den Mister ’Blawal hatte ich längst vergessen
-
+Auszeichnung. Den Mister Blawal hatte ich längst vergessen.
 <@pagebreak/>
-Aber Wiese. vier komischen Anzeigen erwartet wich wieder
-des Tempel; selten Hm! der in des Lügen die Heimtücke
-wo den Wort her Bai. All die vier »Geldgesuche«, behaupte
-ich, Hinduart unfaires uns verkappte »Befehle nun eine Oquierbande,
-die fü Sorgfältig Hüter, irgendwie als »Fang« qufmtallein,-
-also bis organisierter Verbrecherklub. — So, mehr
-kam dir) ich saugen.«
+Aber diese vier komischen Anzeigen erinnerten mich wieder
+an den schwarzhaarigen Kerl, der in den Augen die Heimtücke
+und den Mord sehen hat. All die vier »Geldgesuche«, behaupte
+ich, sind nichts anderes als verkappte Befehle an eine Gaunerbande,
+die sich Sorgfältig Hütet, irgendwie als »Gang« aufzufallen,
+also als organisierter Verbrecherklub. — So, mehr
+kann ich nicht sagen.«
 
-»Das ist fürs eilte ’wenigl«, meinte die hübsche Roxy
-en tauscht.
+»Das ist fürs erste wenig!«, meinte die hübsche Roxy
+enttäuscht.
 
-Greap« schüttelte energisch den Kopf. »Das wird!ojort
-sehr viel werden, Miß Liston, dein auf der Heimfahrt von
+Greap schüttelte energisch den Kopf. »Das wird sofort
+sehr viel werden, Miß Liston, denn auf der Heimfahrt von
 der Segelpartie hatten wir eine seltsame Begegnung, die uns
 etwas außer Atem brachte. Wir sahen nämlich eine Jacht,
 die ohne Lichter mit dunklen Segeln, nicht weißen, von Norden
 dahergeschlichen kam. Als wir sie anriefen, wendete sie sofort
-und steuerte mich dem Winde gen Osten, Sie hielt uns Kegels
-recht zum Narren, — sobald wir in etwa Pistolenschußnähe
-gekommen waren, entwischte sie uns wieder, — »wir feuerten,
-und Wilkiens ließ eine Leuchtrakete steigen …
+und steuerte mit dem Winde gen Osten. Sie hielt uns regelrecht
+zum Narren, — sobald wir in etwa Pistolenschußnähe
+gekommen waren, entwischte sie uns wieder, — wir feuerten,
+und Wilkiens ließ eine Leuchtrakete steigen …«
 
-»Und da erkannte ich am Steuer den schweren Schuft
-mit dem schwarzen. Zigeunerschnurrbart, den Brigant«, nie]
-Wilkiens erbost. »Er war es bestimmt … l Aber — — die
-Jacht war!schueller, und mit einem Male war sie wie durch
-Zauberhand verschwunden. Da Fehlten wir un.«
+»Und da erkannte ich am Steuer den schwarzen Schuft
+mit dem schwarzen Zigeunerschnurrbart, den Blawal!«, rief
+Wilkiens erbost. »Er war es bestimmt …! Aber — — die
+Jacht war schneller, und mit einem Male war sie wie durch
+Zauberhand verschwunden. Da kehrten wir um.«
 
 Eine Weile herrschte Schweigen in dem großen Zimmer,
-dessen eine Ecke von zwei großen Eichen mit allerhand Apparaten,
-Stchalttaseln, Drähten und Schnallen eingeuoytmen
+dessen eine Ecke von zwei großen Tischen mit allerhand Apparaten,
+Schalttafeln, Drähten und Schnüren eingenommen
 wurde.
-»Harst meint«, erklärte Charly Greap dann, »daß Wislkiens
-Innentür zutrifft und daß die »Geldgesuche«« Geheimbefehle
+
+»Harst meint«, erklärte Charly Greap dann, »daß Wilkiens
+Annahme zutrifft und daß die »Geldgesuche«« Geheimbefehle
 an die Mitglieder eines »Gang« darstellen. Er glaubt
 sogar, daß die erste Anzeige die wichtigste sei und daß in dieser
 oder der folgenden Nacht mit irgendeinem Gewaltstreich
-des Blawal zu rechnen ist. Er stößt seine Behauptungen darauf,
+des Blawal zu rechnen ist. Er stützt seine Behauptungen darauf,
 <@pagebreak/>
-daß in der e/Wien Anzeige der 3. Juli genannt ist, und morgen
+daß in der ersten Anzeige der 3. Juli genannt ist, und morgen
 haben wir den dritten Juli.«
 
-»Deute«, verbesserte Harst und blickte auf seine Arinban0
-»Es Ab 0,30 Morgens, meine Serien »Der Entfuhr Tag
+»Heute«, verbesserte Harst und blickte auf seine Armbanduhr.
+»Es ist 0,30 morgens, meine Herren. Der kritische Tag
+ist da.«
 
-Ut da
-
-Über doch Tische schwebte der Faust von Grafen, Zigaretten
+Über dem Tische schwebte der Dunst von Zigarren, Zigaretten
 und Pfeifen.
 
-Durch das Zimmer klang vor etwas die; bare Ton der
-alten Standuhr, des vielleicht wertvollsten Üobelstäkes hier:
-Zwei Schläge — — 0,301
+Durch das Zimmer klang der etwas blecherne Ton der
+alten Standuhr, des vielleicht wertvollsten Möbelstückes hier:
+Zwei Schläge — — 0,30!
 
-Wie eine Wissen tauchte da vor mir, geweckt durch? der
-Klang der Standuhr, ein anderes Bild auf? Harsts Arbeitszimmer
-daheim ist Genua, ein tranken Name, so erfüllt bist
-mannigfachen Erinnerungen, daß eigentlich jeder Fußbreit »Parkett,
-jeder Quaudrotsuß der Wände, jedes Fenster, ade Tür
-eine lange Geschichte erzählen Könntest,
+Wie eine Vision tauchte da vor mir, geweckt durch den
+Klang der Standuhr, ein anderes Bild auf: Harsts Arbeitszimmer
+daheim in Germany, ein trauter Raum, so erfüllt von
+mannigfachen Erinnerungen, daß eigentlich jeder Fußbreit Parkett,
+jeder Quadratfuß der Wände, jedes Fenster, jede Tür
+eine lange Geschichte erzählen Könnten,
 
-Möglich, daß Ruck dieser Raus hier seine kleinen Wiltagsromane
-erlebt hatte. Möglichen, daß die ’Beriegung von
-Greaps Hauptquartier hierher nach »Hotel »Benutzt« diesem
-Hause den starken »Pulsschlag des Abeuteuerliibeyn stiller Verbrecherjagd
+Möglich, daß auch dieser Raum hier seine kleinen Alltagsromane
+erlebt hatte. Möglich, daß die Verlegung von
+Greaps Hauptquartier hierher nach »Hotel Bennett« diesem
+Hause den starken Pulsschlag des Abenteuerlichen stiller Verbrecherjagd
 bescheren würde,
 
-Alte, alle hatte den Klängen der Standuhr gelauscht.
+Alle, alle hatte den Klängen der Standuhr gelauscht.
 
-Diese Tone zitterten noch Turm die schwebenden, tuanzelnden
-Rauchwölkchen, als auf dem eilten Gitters mit hellem
-Anrufen sich einer der Apparate meldete, sah selbsttätig einschaltete,
-und ein langer »Papierstreifen abzulaufen begann.
+Diese Töne zitterten noch durch die schwebenden, tänzelnden
+Rauchwölkchen, als auf dem einen Ecktisch mit hellem
+Schnurren sich einer der Apparate meldete, sich selbsttätig einschaltete,
+und ein langer Papierstreifen abzulaufen begann.
 
 Greaps jetzt drittes geheimes Hauptquartier war mit dem
-Büro des Oberihauptes der Riesenstadt dar!) Telephon und
-gelegten), durch Sender und Bliukverstäudigung dauernd der
+Büro des Oberhauptes der Riesenstadt durch Telephon und
+Telegraph, durch Sender und Blinkverständigung dauernd verbunden.
 
-runden
-Ton Weylt, dem es mit oblag, haltmachen eutgegeizunehinen,
-sprang auf und eilte dorthin, wo die blanke Japanerin
-wie ein leise klappernden Nachen das schmale Papier
+Tom Weylt, dem es mit oblag, Mitteilungen entgegenzunehmen,
+sprang auf und eilte dorthin, wo die blanke Apparatur
+wie ein leise klappernden Rachen das schmale Papierband
+ausspie.
 
-band ausspie.
-Unter allgemeiner nervöser Opoanuuig und Reglosigkeit
+Unter allgemeiner nervöser Spannung und Reglosigkeit
 <@pagebreak/>
-begann Weylt die Geheimschrift zu übersehen. So erfuhren
-wir von den Vorgängen. im &raser-Hause, und dank jagte
+begann Weylt die Geheimschrift zu übersetzen. So erfuhren
+wir von den Vorgängen im Fraser-Hause, und dann jagte
 anderthalb Stunden lang eine neue Meldung die andere, bis
-in großen Umrissen die nackten Tatsachen der Geschehnisse ’auch
-bei 175 sauber zu Papier gebracht worden waren. Kurz nach
-zwei Uhr morgens wurde Charly Greap persönlich ich vom oder
-hier Chef am Telephon verlangt.
+in großen Umrissen die nackten Tatsachen der Geschehnisse auch
+bei uns sauber zu Papier gebracht worden waren. Kurz nach
+zwei Uhr morgens wurde Charly Greap persönlich vom obersten
+Chef am Telephon verlangt.
 
 Greap erklärte kurz, er hätte den Fall ohnedies seinerseits
-untersucht. Dann wäünlchfe er dem vielgeplagten, allseits
-desselben Bürgermeister sehr höflich gesegnete Nachtruhe und
-längere ab.
+untersucht. Dann wünschte er dem vielgeplagten, allseits
+beliebten Bürgermeister sehr höflich gesegnete Nachtruhe und
+hängte ab.
 
 »Also können wir nun an die Arbeit gehen«, wandte er
 sich dem Tische wieder zu. »Die Gemälde waren mit anderthalb
 Millionen versichert, der Gesamtverlust des Bankiers
-Munde! &raser beträgt rund zwei Millionen, verschwunden sind
-die beiden Detektive der Bank, im Freiheit liegt der Nacht
+Anatol Fraser beträgt rund zwei Millionen, verschwunden sind
+die beiden Detektive der Bank, im Sterben liegt der Nachtportier
+und …«
 
-Portier und.
 Greap schwieg plötzlich. Man sah es seinem Gesichtsausdruck
-an. daß irgend ein besonderer Gedanke sich unvermittelt
-in die Beide seiner einstigen Worte eingodrängt haben müsse.
-Gas noch so überraschend jugendlich wirkende Gesicht veränderte
-sie, — ich kannte diese Wandlungsfähigkeit seiner
-Ohne bereits, ich hatte diesen Mann, der noch vor Monaten
-in Newyork ein durch Berufener« ticdergehaltener schlichter
+an, daß irgend ein besonderer Gedanke sich unvermittelt
+in die Kette seiner flüssigen Worte eingedrängt haben müsse.
+Das noch so überraschend jugendlich wirkende Gesicht veränderte
+sich, — ich kannte diese Wandlungsfähigkeit seiner
+Züge bereits, ich hatte diesen Mann, der noch vor Monaten
+in Newyork ein durch Berufsneid niedergehaltener schlichter
 Detektivsergeant gewesen und den dann erst der hiesige Bürgermeister
 als einen auf die Chicagoer Gangster gänzlich Fremden
-auf den verantwortungsvollen Posten eines annehmen
-Spezialkommissars berufen hatte, in so mancher kritischen Streifen
+auf den verantwortungsvollen Posten eines geheimen
+Spezialkommissars berufen hatte, in so mancher kritischen Situationen
 beobachtet, und nie hatte dieser Charly Greap-Hutter
 versagt …
-Seine Anden.!lebten jetzt die Harsts, und dann erst führte
-er den unkferbrochynen Kahle zu Ende: »… und noch) einer wird
-sterben, fürchte ich! Der Taxichauffeur, Er weiß zu viel,
 
-…«
+Seine Augen suchten jetzt die Harsts, und dann erst führte
+er den unterbrochenen Satz zu Ende: »… und noch einer wird
+sterben, fürchte ich: Der Taxichauffeur. Er weiß zu viel,
+und …«
 
-»ach
 <@pagebreak/>
 Wieder unterbrach er sich. »Sind Sie nicht gleicher Meinung,
-Harst?« Dr
+Harst?«
 
-»lehrreich. Ich glaubte, Sie würden den Schlußsatz anders
-gestalten. Mir ist 196 als Brücke zu Blawal wichtiger,
+»Vielleicht. Ich glaubte, Sie würden den Schlußsatz anders
+gestalten. Mir ist 126 als Brücke zu Blawal wichtiger,
 denn in den vier Anzeigen wiederholt sich regelmäßig diese
-Jahr, und Mr: Anatol Kraters Haus hat die Nummer Michigan-Avenue
-12€. Das aber kann kein bloßer Zufall sein,
-wem men weiter berücksichtigt, daß in der ersten Annonce
-ausgerechnet auch das Datum des heutigen Tages vorkommt?
-und daß Absichtlich die merkwürdigen Sennorita »Blau«,
-»Hinweis«, »Falle« und »Stühle« mit »Ehepaar« zur
-Hälfte übereinstimmen. Wollte man die Phantasie schweigen
-lassen, so bunte man noch) unser Zusammentreffen aus dem
-Michigan-Jede mit Brannte seltsamen Lärms als weiteren
-Beweis für des »schwarzen Forts« Mittäterschal! bei dem
-großen Bilder&iclstaß! ausbeuten,«
+Zahl, und Mr. Anatol Frasers Haus hat die Nummer Michigan-Avenue
+126\. Das aber kann kein bloßer Zufall sein,
+wenn man weiter berücksichtigt, daß in der ersten Annonce
+ausgerechnet auch das Datum des heutigen Tages vorkommt
+und daß schließlich die merkwürdigen Kennworte »Blagru«,
+»Gruwal«, »Walbla« und »Grubla« mit »*Blawal*« zur
+Hälfte übereinstimmen. Wollte man die Phantasie schweifen
+lassen, so könnte man noch unser Zusammentreffen auf dem
+Michigan-See mit *Blawals* seltsamer Jacht als weiteren
+Beweis für des »schwarzen Kerls« Mittäterschaft bei dem
+großen Bilderdiebstahl ausdeuten,«
 
-Charly Greap nickte mit unmerklichen! Lächeln. »Weiß
-Tod?, Harst, wir beide sind meist wie zwei Newnpsorde, die sich
-ein totes Nennen liefern.« Er hob die Niederschrift des »Falles
-Fragen« vom Tisch und deutete auf eine Bleistiftnotiz neben
-dem Verstaut des ersten Telegramms, »die Hoheit, ich habe
+Charly Greap nickte mit unmerklichem Lächeln. »Weiß
+Gott, Harst, wir beide sind meist wie zwei Rennpferde, die sich
+ein totes Rennen liefern.« Er hob die Niederschrift des »Falles
+Fraser« vom Tisch und deutete auf eine Bleistiftnotiz neben
+dem Wortlaut des ersten Telegramms. »Sie sehen, ich habe
 hier die »126« am Rande viermal hingekritzelt und dazu eine
-Klammer, deren Spitze ist! die? Worte ausläuft: »Kraters Haus«.
-ein Ihr.«
+Klammer, deren Spitze in die Worte ausläuft: »Frasers Haus«.
+— Mithin …«
 
 Harst drückte eine Zigarette in der Aschenschale breit.
 »Mithin …« — er erhob sich langsam — »werden wir wohl
-anfangen müssen, Wir sind ja hier Kein Parlament …«
+anfangen müssen. Wir sind ja hier Kein Parlament …«
 
-Ein besseres, frisches Lachen folgte. »7
+Ein heiteres, frisches Lachen folgte.
 
-Und dann singen wir an.
+Und dann fingen wir an.
 
 <@pagebreak/>
 
 <h2>2. Kapitel.</h2>
 <h3>Al Clarc, der Bankräuber …</h3>
 
-Mr. Anatol &Sraser, Chef] des Bankhauses &raser u. Co.,
+Mr. Anatol Fraser, Chef des Bankhauses Fraser u. Co.,
 das nur erstklassige Kundschaft hatte, lag gegen drei Uhr morgens
 in seinem Arbeitszimmer mit verbundenen Kopf auf
 einem Diwan und rauchte trotz des strengen Verbarg des
@@ -578,7 +582,7 @@ Grace Cro!lbornus blasses Gesicht wechselte auch nicht im
 geringsten den jpöttisch-hochmiitigen Ausdruck.
 »Nun — und?!«, fragte sie herausfordernd.
 
-»Oh — — auf eine &rage noch: träumen Sie oho Alibi
+»Oh — — auf eine Frage noch: träumen Sie oho Alibi
 sagen. elf Al: abends und wer Uhr morgens nachweisen?«
 
 »Not Ich wo?« allein mit meinem Auto unterwegs.«
@@ -688,7 +692,7 @@ sondern weh von einer Riesengrotte.«
 
 Lichte war geglückt, —’ alias war umsonst gewesen. Lediglich
 eine Freude milderte die Enttäuschung: Vor Nachtportier
-Derart vom &Sraser-Raus lebte noch, uns die Letzte leistet,
+Derart vom Fraser-Raus lebte noch, uns die Letzte leistet,
 ihn durchiubekommen. ’Aber kannst?!
 
 Vor Coxichoussoeur zum 26i/viel, der den Nachtportier
@@ -717,7 +721,7 @@ Kumpan konnte ihn aus noch undurchsichtigen Gründen niedergeknalitf
 haben. Jedenfalls vermißte Grace Crosborn ein Diamantkollier.
 Möglich, daß ne! dem Streit um diese Beute Al
 Clarcs Partner sehr kurzen Prozeß gemacht hatte. — Was die
-im Flur vor Gräser-Wohnung ausgebauten Hindernisse betraf,
+im Flur vor Fraser-Wohnung ausgebauten Hindernisse betraf,
 konnte niemandem der Anfassen der Wohnung nachgewiesen
 worden, daß gerade er den Lassen und die Bank derart heimtückisch
 aufgestellt und das »Licht ausgeschaltet hätte. ’Baby
@@ -742,7 +746,7 @@ Fluge um sein junges Frauchen zu beneiden Roxy gab. Liston,
 all); wie der wundervollste Frühlingstag. ans und nahm unsere
 <@pagebreak/>
 Glückwünsche und Wilkiens zarte Anspielungen auf Hotel
-Kennen als &litkerwochenquartier ist aller Harmlosigkeit und
+Kennen als Flitkerwochenquartier ist aller Harmlosigkeit und
 mit größter Selbstverständlichkeit hin. Urplötzlich erschienen
 wie hinschauten! Sektkelche und ein paar Flaschen »Sruchtsprude!«,
 wir stießen mit den Gdungvermählten an, Greap hielt
@@ -787,7 +791,7 @@ gaben die Begleitung 11 Greaps schwer gereizten Worten:
 »Das Haken wir davon daß wir h’er unser die Fenster alle
 Eise ließen! Sollte Winter Hauptquartier etwa schon wieder
 verloren worden gen?!«
-Er doppelte sich dann ein &enster hinaus. »Falle, Smith!«
+Er doppelte sich dann ein Fenster hinaus. »Falle, Smith!«
 Smith der die Wache hatte, kam gemächlich um die Hausecke
 geschleudert,
 »Dunkeln Sie
@@ -795,7 +799,7 @@ geschleudert,
 sein!«
 Smith, Nummer die Ruhe!otbst, Niete mir
 
-jemand’? Es muß ein &Sremder eingestiegen
+jemand’? Es muß ein Fremder eingestiegen
 »Dem habe
 
 ich Denn gemacht, Kapfam!vWar so ein Bursche von! Einem
@@ -843,10 +847,10 @@ Sekt warnen wir noch ratloser.
 
 Gesang schritt ruhelos auf und ab. »Alltag können wir
 damit rechnen, daß der höchst unbeliebte Spezialkommissar
-Kap?ein Kutter baldigst von seinen «&Sreunden» überreich mit
+Kap?ein Kutter baldigst von seinen »Freunden« überreich mit
 Handyqranaten, Bombe und zerrissen Dingen, die das Leben
 plötzlich stark verkürzen, beschenkt wird! Ich kann wohl sagen,
-so langsam gräbt wir diese Gräser-Tasche auf die Nerven)«
+so langsam gräbt wir diese Fraser-Tasche auf die Nerven)«
 
 Es lag eine erstaunliche Unrecht in Greaps Wortes,
 Gerade er, ein überaus Arbeiter Denker, hätte sich gar) anders
@@ -879,7 +883,7 @@ Büro A. P.
 Gleiches, sie wurden zur Vorsicht jeden dritten Tag umgestellt.
 Die 3 bedeutete des Datum.)
 
-Anatol Gräser in seinem Privatkontor soeben erschossen
+Anatol Fraser in seinem Privatkontor soeben erschossen
 aufgefunden. Offenbar Selbstmord. Waise noch in seiner
 Hand. Auf Schreibtisch begonnenen Blies] Kraters, darunter
 farbigen Stempel, der etwa Böcklin- Gemälde gleicht. Sofort
@@ -925,7 +929,7 @@ hatte, und das vorn munterte WMaschinengeiwehr, stets GOurteljpucker
 genannt, war in letzter Zeit den Herren Gangsters
 arg an! die Nerven gegangen. —
 
-Wir sausten die Alilwaukee-Sprung hinab, vorbei am
+Wir sausten die Milwaukee-Sprung hinab, vorbei am
 großen Westbahnhof, kamen in die um diese Stunde allzu
 belebte City, schlossen zu Schlummern vorüber, deren nüchterne
 Zweckmäßigkeit anderswo strafend aufgefallen wäre, — hier
@@ -944,7 +948,7 @@ vor der Avenue und in die öffentlichen Bäder gelockt
 hatten.
 Dann schwenkte der Wagen in eine breite, marmoreingefaßte
 Toreinfahrt hinein, fuhr durch ein langes Gewölbe
-und hielt auf dem Hofe der &raser-Bank. — In der Vorhalle
+und hielt auf dem Hofe der Fraser-Bank. — In der Vorhalle
 empfing uns Kaptain Morris von der Detektivpolizei,
 der einzige, der in alles, was Person und Mitarbeiter und
 <@pagebreak/>
@@ -996,7 +1000,7 @@ Owischenfall eintrat. Greap wandte sich ziemlich scharf an
 Morris.
 
 »ob denke, es sollte Hier alles unberührt bleiben?(«,
-sagte er stark gereizt. »Wo ist der Brief &rasers, auf dem
+sagte er stark gereizt. »Wo ist der Brief Frasers, auf dem
 sich der Stange! des Mystisches befunden haben soll?«
 
 Der weit ältere Morris erwiderte ebenso knapp und
@@ -1007,7 +1011,7 @@ Ihnen ist: der Vorhalle aus. Der angefangene Brief lag dort
 neben dem großen Schreibblock Büttenpapier, Schmalzig bin.
 ich auch etwas erstaunt, daß der Brief verschwunden ist.«
 
-Greap war beeilte sibernervös. »Miß Ihrem «&mmwerbin«
+Greap war beeilte sibernervös. »Miß Ihrem »Immerhin«
 schossen Sie mir den Brief nicht zurück, Morris! Wie lauteiz’
 das Schreiben?«! …
 
@@ -1040,7 +1044,7 @@ Es war eine sehr peinliche Szene angesichts des Toten.
 
 <@pagebreak/>
 »Natürlich sah ich den Stempel, da stand auch »Blawal«
-— natürlich, — ich glaubte, der Stempel rührte von &raser
+— natürlich, — ich glaubte, der Stempel rührte von Fraser
 her … Die Annahme lag doch sehr nahe, den — — da,
 betrachten Sie mal dieses Löschblatt, Kaptain Hutter, das hat
 Tropfen übte den noch feuchten Stempel gelegt, um sich die
@@ -1050,12 +1054,12 @@ Greap betupfte sich die Stirn. »Es … es ist … hier
 scheußlich heiß …«, sagte er in ganz veränderten Tone. »Ich
 bin heute nicht ganz auf der Höhe, scheint mir … Entschuldigen
 Sie, Morris, — — diese Geschichte gebt mir sehr nahe.«
-Er streckte ihm die Hand hin. »Also — was halte Gräser noch:
+Er streckte ihm die Hand hin. »Also — was halte Fraser noch:
 geschrieben … an diesen Hinsah?«
 
 Morris war ein gutmütiger Mann. »Sehr vernäünustig,
 daß Sie einlenken, Greap …« Wir waren hier ganz unter
--yus, und er ließ die Anrede »Hutter« nunmehr fallen. «&Srajor
+-yus, und er ließ die Anrede »Hutter« nunmehr fallen. »Fraser
 hatte ungefähr folgendes geschrieben:
 
 Mr. Blawal,«
@@ -1089,7 +1093,7 @@ mit dem Sternen Gesicht machte nicht viel Worte. »Ich
 Laube an die Existenz einer Bande, die ganz im geheimen gleitet,
 Greap, Die Vorhalle der letzten Nacht haben mir dies
 zur Gewißheit gemacht. Der Diebstahl, die Ermordung Al
-Clarcs in dem Zimmer Miß Crolborns und der Tod &rasers
+Clarcs in dem Zimmer Miß Crolborns und der Tod Frasers
 hier, — das hängt erstes aus innigste miteinander zusammen,
 das ist eben Gangster-Arbeit.« —
 
@@ -1104,7 +1108,7 @@ paar.« …
 Greap winkte lässig ab. »Die beiden Löcher sah ich
 schon … Gut, sie liegen so, daß. eine Kugel vom offenen
 Fenster vom Hose her sie verursacht haben kann … Aber,
-dann hätte Gräser die Kugel von’vorn erhaltet haben müssen.«
+dann hätte Fraser die Kugel von’vorn erhaltet haben müssen.«
 »Er kann gerade den Kopf gedreht haben«, sagte Morris
 prompt. »Schaffen Sie den Einschuß an. Sie finden keinerlei
 Pulverspuren. Die Kugel kam aus weiter Entfernung —
@@ -1167,7 +1171,7 @@ Meister …
 Tresor fragte nur: »Nafkiürlich!’ -«— Morris, Ihre Leute
 Gabeln die beiden Besinnen fassen. Wie ist das möglich?!«
 
-»Alles ist möglich, wenn das &Sraser-Haus einen zweiten
+»Alles ist möglich, wenn das Fraser-Haus einen zweiten
 Ausgang nach der Volk -Street besitzt, von dem man erst eines
 erzählt, wenn es zu spukt ist, Hielten Ausgang!soil gerade Miß
 Grace immer Vorstadt haben, aber das erzählte der Pförtner
@@ -1177,7 +1181,7 @@ Terrain Greap hatte dies Saiten auf der Stirn.
 
 00, das hätte uns schon in der Nacht gesagt werden]
 <@pagebreak/>
-missen. Nicht einmal Gräser tat es. Sehr auffällig das — —
+missen. Nicht einmal Fraser tat es. Sehr auffällig das — —
 die vieles. — Harst, Ihr Bootssteg?«
 
 » Wahrscheinlicher getan wie das, 1,45 Sie tun wollen:
@@ -1225,7 +1229,7 @@ scheinen Sir doch mehr zu wissen als ich …
 <@pagebreak/>
 »Erheblich mehr, aber — es ist kein erhebendes Gefühl
 für mich, dieses Erhebliche, es kapituliert mich mehr, ehrlich
-gesagt«. &r drückte diesen Gleichklang von erheblich und
+gesagt«. Er drückte diesen Gleichklang von erheblich und
 »erbebend« — im Englischen anders aus, sagt noch: schlossen.
 Im Deutschen muß ich mich mit. diesen Worten begnügen. Sie
 Mitteln trotzdem.
@@ -1274,7 +1278,7 @@ Zweiteilige eine große Rolle. Die dort in der Nahe befindlichen
 Inseln sind ist Gegners Indianerromanen (Lederstrumpf) vielfach
 erwähnt. Da das Nordufer des Baron-Sees wurde
 gehört, ist der Siisssverkehr und … der Wkohol):in geh
-äußerst lebhaft. Große &Sracht- und ’Possagierdum; iz! 59-
+äußerst lebhaft. Große Fracht- und ’Possagierdum; iz! 59-
 Jahren den See, den man getrost als Binnensee bezeichnen
 kann. Bei Nord- oder Nordoststurm (und Chicago, die
 »Durchsah!«) kann ein Lied davon gingen, tobt der Nötigen See
@@ -1334,7 +1338,7 @@ zu fördern. vergessen.«
 
 Du meinem Erstaunen entgegnete Houston Freund: »Rein,
 —» das Mittel warteten richtig, es ist besser, daß Anatol
-Gräser sich erschoß. Der Wann hat uns machte grob belogen.
+Fraser sich erschoß. Der Wann hat uns machte grob belogen.
 Er sagte. er sei aus dem Klub gekommen »elf or 8’e »Blutspuren
 in der Vorhalle fand und dem … niedergeschlagen wurde.
 Der Knüttel war merkwürdigerweise die scharfe Hatte des
@@ -1347,21 +1351,21 @@ hat den Stempel aus einem Sitz Puemnatikqmumi geschnitten,
 <@pagebreak/>
 Greap war holte Da stolz allein unterwegs und
 Matrosen- Haus. er hatte sich ja alle Doppelschlüssel aufgeboten,
-er »angelte« den Bogen Büttenpapier, und als &raser
+er »angelte« den Bogen Büttenpapier, und als Fraser
 von Stempel fand, schrieb er mit l;ervorragender Kaltblütigkeit
 den Seltsamen Briesonsoang mit »Harpington« als Ablenkendes
 und jagte sich die Kugel in die Schläfe. Miß Grace
 aber wollte Mord vortäuschen, öffnete das Fenster, durchlöcherte
 den Lampenschirm, sänbert2s den Einschuß mit Schwamm
 und Wasser und entfloh. mit dem verdammten Bild und dem
-alten Bishop. &Ich: schätze, Ihr Freund Harst hat Ihnen vorhin
+alten Bishop. Ich: schätze, Ihr Freund Harst hat Ihnen vorhin
 am Strick genau denselben »Herzog gehalten.«
 
 Ich nickte nur.
 
 »Vielleicht«, meinte Baby Houston sinnend, »daß er schreit
-auch erklärt, daß Gräser den Bankräuber Al Clarc erschoß
-und im &lur die Hindernisse Ausbeute … Ich gehe jede Wolke
+auch erklärt, daß Fraser den Bankräuber Al Clarc erschoß
+und im Flur die Hindernisse Ausbeute … Ich gehe jede Wolke
 ein, daß des sich so verhalf. Ach will Ihnen auch noch etwas
 sagen, Mr. Schrank: Es gibt eine Blawal- Bande. Greap hat
 durch Strich aus dem Büro des Bürgermeisters die Geheimakten
@@ -1401,7 +1405,7 @@ noch nix;?t. Was mich betrifft, so neige ich der Ansicht zu,
 Angreifer sbchrieb den seltsamen Brief absichtlich, um der Polizei
 einer Wink zu geben. Alles wollte er nicht offenbaren.
 Ttielseicht —« das ist eine sehr wenig zuverlässige Annahme
-von! mir — beginnt sich Gräser in Erpresserbanden.«
+von! mir — beginnt sich Fraser in Erpresserbanden.«
 
 Sausten nahm eine neue Zigarette. »Dann — war auch
 er eilt Schlucke, Mr. Schraut, war Helfershelfer dieses Blawal
@@ -1415,8 +1419,8 @@ kamt ihr! das Genick brechen,«
 
 Unser Mann ganz vorn, der auch ein Fernrohr bediente,
 rief uns zu: »Focht in Sicht! Große Jacht mit zwei Masten
-und beschlagenen Segeln. Haust Nordnordost. Es kann &ra-
-Vers Sack sein.«
+und beschlagenen Segeln. Haust Nordnordost. Es kann Frasers
+Versteck sein.«
 
 »Auf, ich werde Greap benachrichtigen«, — und Schiffes
 die kleine Treppe hinab. In der ersten Kajüte (dahinter lagen
@@ -1433,7 +1437,7 @@ meinte er ziemlich matt. »Ich hatte den »Brief verschwinden
 lassen, und ich habe den Stempel …
 
 »Danke, — bekommt Nach es Mister :, lieber Greap, Jetzt
-siegt Orinqenderes vor. Die &Sraser-Jacht ist in Sicht,«
+siegt Orinqenderes vor. Die Fraser-Jacht ist in Sicht,«
 
 Die beiden Schmerzten hoch.
 
@@ -1455,7 +1459,7 @@ Teil in Sonnenlicht getaucht?f. aber Dach Norden zu hauchte or
 sehr düster und unheimlich drein, man konnte genau Bekennern,
 wie weit der Regen begreife vorgerückt war. Dinge Reogongrenze
 zeichnete sich so scharf ab, daß sich aus die Tinte Fall
-berechnen ließ, wagt die Gräser-Jacht von der Finsternis
+berechnen ließ, wagt die Fraser-Jacht von der Finsternis
 verschluckt werden würde.
 
 »Wir kommen zu Spur«, meint«. Greap grimmig, »St dein
@@ -1504,7 +1508,7 @@ was da vor uns nahte, waren die Vorposten des Orkans, —
 
 gebrauchte Striche, kleine Westen/»und — — dem verschluckte
 ein Gipfel der Kistenweise auch dir Dame …
-»Chicago 11« raste durch die &Klut … Wir kamen näher,
+»Chicago 11« raste durch die Flut … Wir kamen näher,
 
 —» Urplötzlich dem ein ’Prassein. Plätschern, — der Sche’nwerser
 bitte auf, die ’Regenschinire blinkten wie Perlenketten.
@@ -1521,13 +1525,13 @@ und in der Kajüte bereits ein halb Meter Wasser,
 
 Wir hatten gestoppt. Harst und Houston schwarzen sich
 zurück zu Bord. vor »Berge Washington« sank immer Schnellen,
-kenterte und zuckte wie ein Bleiklolz weg. &n der Achterbordwand
+kenterte und zuckte wie ein Bleiklotz weg. In der Achterbordwand
 <@pagebreak/>
 bitte wir unter der Wasserlinie ein großes Sarges
 Loch erkannt.
 
 »Die verdauen die:;wenden « Fault. war«, Lauernde Greap
-in verbissener ’Seutl, »Las Kommt &avon. Leim Die kanadischen
+in verbissener ’Seutl, »Las Kommt davon. Leim Die kanadischen
 Klüger ihr.; Stiche 15 liede:by herrichten Suchen wo Grace
 und »Pikant Welch ne? Wohnung, bei Berg Unwetter Mut
 Schwinawesten bin vom See anzuvertrauen!«
@@ -1644,7 +1648,7 @@ Der Glauben der »Atlanta« verschwand mit uns gen
 
 Und dieser Kutter war nicht. »Chicago 11«, hatte nur
 einem Hilfsmotor, ein Klappverdeck und krebste durch das
-Wasser wie eine lahme &lunder. Es war kalt, wir lagen ja
+Wasser wie eine lahme Flunder. Es war kalt, wir lagen ja
 Wolldecken gehüllt und verstohlen zu Schlafen, aber die Kanaille
 von Motor war Eiter jenes Lärmapparate, die Sogar
 Tote aufwecken könnten. Müdigkeit und ein Glas Modizinalivein
@@ -1741,7 +1745,7 @@ Rasenslächv es lag still und dunkel da, der Rohe! hatte sich
 hier in dieser Lichtung Korb dichter msammettzebraut, wir
 horchten, irgendwo in der Ferne klügste ein Hund und von den
 Kanälen zwischen den Inseln ertönte das dumpfe Guten eines
-Dampfers. der vielleicht eine Anzahl &löße schleppte … Harst
+Dampfers. der vielleicht eine Anzahl Flöße schleppte … Harst
 trennte sich von uns, machte zweimal die Runde um das Haus
 und kehrte mit der Meldung zurück, daß nach Süden zu in
 dem Orte. Herr unten verschwommene Lichter blinkten und daß
@@ -1785,7 +1789,7 @@ Rufen und innen. Diele Entdeckung machte auch Harst Blutig.
 » Wenn bis Gute hier so felsenfest daraus bauen, daß Gott
 ihr Eigentum seinen schützen wird, ist dies entweder äußerst!
 bin berechneter ’Bln]s oder aber die unumstößliche Gewißheit,
-das — — — es Hier nichts zu stehlen gibt.« &r lachte leise und
+das — — — es Hier nichts zu stehlen gibt.« Er lachte leise und
 zog Charly Greap zur Seite, »Gestalten Sie mal, lieber
 <@pagebreak/>
 Freund, Sie stehen hier auf einem eisernen Gutskontor, und
@@ -1832,7 +1836,7 @@ Alarmvorrichtungen ausgestattet ist, womöglich gar mit Selbstsmüssen
 und ähnlichen Knalleffekten. Verfallen Sir große
 Luft, dieses elektrische Zauberschloß zu durchsuchen, Greap’?«
 
-Kaptain Charly stieß die eine Kontortür mit dem &uße
+Kaptain Charly stieß die eine Kontortür mit dem Fuße
 auf und leuchtete in das Zimmer hinein. Vier Tische. Akteuböcke,
 zwei Schreitmaschinen und links an der Wand ein
 mächtigen Tresor modernster Bauart: Das war d’e »Kasse«
@@ -1844,7 +1848,7 @@ Jdordanbriider doch nicht. daß sie ihre Schätze offen zv’qou,«
 Winkel neben der Kasse befand sich eine Tür: »Privatbüro.
 Anmeldung im Büro.«
 
-Auch die Tür bekam einen &Sußtfritt, — und zu unserem
+Auch die Tür bekam einen Fußtritt, — und zu unserem
 Erstaunen war dieser Raum nicht leer.
 
 An einem mächtigen Schreibtisch saß ein alter Herr, der
@@ -1920,7 +1924,7 @@ Erzengel.
 
 Auch Sumersett hob den Arm. »Hinauf mit Schraut
 Sofort!« Seine Innige überschlug sich vor Grimm. »Goa,
-ich bin allein in der Kirche ist Zrühgottesdienst … Aber
+ich bin allein in der Kirche ist Frühgottesdienst … Aber
 wehe Ihnen, wen: Sie es wagen, irgendwie hier …«
 
 Er brach Kur) ab, ließ den Arm sinken, musterte uns nochmals
@@ -1937,7 +1941,7 @@ nicht.
 Greap wurde ebenso unsicher.
 
 Harst beugte sich vor und rief dem Greis sehr scharf
-akzentuiert zu: »Leugnen Sie Mr. Anatol! Gräser aus Chicago,
+akzentuiert zu: »Leugnen Sie Mr. Anatol! Fraser aus Chicago,
 den Bankier?«
 
 Des alten Mannes Kopf schnellte wieder kam. Seine Züge
@@ -1945,10 +1949,10 @@ wurden finster und feindselig.
 
 »Ach kenne ihn und kenne ihr ich! … Es ist mein Stiefsohn,
 wir stehen jedoch in Keiner Verbindung miteinander. —
-Hat Gräser endlich einmal der Arm der Gerechtigkeit gepackt?
+Hat Fraser endlich einmal der Arm der Gerechtigkeit gepackt?
 Das würde nicht nur freuen, den er ist ein …«, — abermals
 verstummte er, und sein Gesicht zeigte schmerzliche Enttäuschung:
-»Rein, — &Sraser ist zu schlau; zu klug …! &Ich Mönche auch
+»Rein, — Fraser ist zu schlau; zu klug …! Ich Mönche auch
 nicht, daß man ehrliche Namen mit dem eines … Bilderdiebes
 gemeinsam meint. Bitte, meine Herren, verlassen Sie
 mich. Von mir erfahren Sie nichts — gar nichts! Sparen
@@ -2051,18 +2055,18 @@ Pistolen wieder ein und hoben artig die Arme, einige besonders
 Widerborstge hatten es freilich erst aus Wilkiens noch
 nachdrücklichste Mahnung.
 
-Harst stand dicht vor dem &raser-Doppelgänger.
+Harst stand dicht vor dem Fraser-Doppelgänger.
 
 »Wer sind Sie?!«
 
-»Allan &Srajer», erklärte der gutgekleidete Mann mit.
+»Allan Fraser«, erklärte der gutgekleidete Mann mit.
 hochmütiger Kopfbewegung, die eigentümlich an Grace Problems
 ganze Art erinnerte.
 
-»Ein Bruder Anatol &Srasers?«
+»Ein Bruder Anatol Frasers?«
 
 <@pagebreak/>
-»Zwillingsbruder«, erklärte Allan Gräser noch hochmütiger.
+»Zwillingsbruder«, erklärte Allan Fraser noch hochmütiger.
 »Und Sie, Mister?. Auch Polizist?!« Das war
 frechen Hob!.
 
@@ -2083,7 +2087,7 @@ unter der Sonne, das.
 
 Was folgte, war Tumult. Stücke, — — und &sucht …
 
-Alten &rafer hatte sich blitzschnell über die Rückenlehne
+Allan Fraser hatte sich blitzschnell über die Rückenlehne
 des Gestillt geschwungen, Halle blitzschnell eine an der Kirchen wand
 angebrachte große Marmortafel mit goldener Inschrift
 wie eine Tür ausgerissen, war hindurchgeschlüpft, und hatte
@@ -2113,7 +2117,7 @@ und Houston raschelte und schlug wie ein Kloß zu Boden.
 Fragte, der vor uns dreihundert Wetter Vorsprung hatte,
 rannte auf die Brücke, an der eine mittelgroße da!. der
 laut lag. Sie konnte nur sehr oberflächlich befestigt gewesen
-sein, Gräser hatte sie im Nu 108 — der Motor sprang an,
+sein, Fraser hatte sie im Nu 108 — der Motor sprang an,
 die Jacht glitt in den Nebel der Bucht Gittern …
 
 Roch anderes geschah.
@@ -2139,7 +2143,7 @@ Detonationen …
 
 »Hallo — — meine Pflegt«, jubelte Houston. »Spalte
 ich nicht, daß sie an Dock sieben!! — — Dort liegt ein Kleines
-Motorboot, Käpten … Vielleicht- ist &er Stänker Fahrt- …
+Motorboot, Käpten … Vielleicht- ist der Stänker Fahrt- …
 derart!«
 
 Er war 05 … Wir knatterten davon, — zu sehen war
@@ -2175,7 +2179,7 @@ lebend. Der Bursche soll gosundgepjleqf werden ihr einen
 anderen lotsen Gong’«
 
 Mieder schlossen lich die Nebelschleier. um wieder in der
-&orne e’n dumpfer Knall, doch eine Grotte, hochschießende Fontäne
+vorne e’n dumpfer Knall, doch eine Grotte, hochschießende Fontäne
 folgte.
 
 »Der Benzinkank!’«, kannte Pension finster. »Schuhe, auf
@@ -2246,7 +2250,7 @@ stets veihe’mlicht worden?! Weshalb?h1«
 Sumersett vollkommen Fassungslos zu. überhaupt,
 was geh! hier vor?! oh begreife nichts von diesem weiß ten
 Eindringen der »Polizei in diese Kirche. die …«
--. die mit zu einem Banditennest zählt, Miß &raser«
+-. die mit zu einem Banditennest zählt, Miß Fraser«
 ergänzte Greap den Satz mit milderer Stumme. »Offenbar
 <@pagebreak/>
 sind Sie und der alle Er, Sumersett vollkommen Flur, 48-
@@ -2305,19 +2309,19 @@ Wie zum Hohn hatte die Sonne inzwischen den Nebel
 ver)atbeucht und warf breite Lichtfluten durch die hohen Fenster
 auf die voernäachtioten Gesichter Kaptain Greaps Und eines
 Greises Steinen Elite. Div Telephonleitung zum FSoeltlauyd hatte
-Chicago, Mlilwaukoo Bad andere Studie der UÜimyenend be
+Chicago, Milwaukee Bad andere Studie der UÜimyenend be
 stimmte ’Hesohle vermittelt, und Überall da, wo die trennen
 Jordanbrüder ihre meist abseits gelegenen Niederlassungen
 hatten, wurden diese Verbrechernester in aller Eile und Stille
 ausgehoben, Die ganze Sekte der Brüder vom Heimat Jordan,
 eine Gründung das einzigartig wtkelligeut-verderbien
-Allan &raser, war eine große Verbrecherorganisation, zweifellos
+Allan Fraser, war eine große Verbrecherorganisation, zweifellos
 die bedeutendste, die hier in den Nordoststaaolen je He
 wirkt hatte. Das Erstoualichste dieses »Gang« und famos
 hingen Gangsters Allan Großer war die verblüffende Je
 jschidilichkeit gewesen, mit der die weitvecnveigte Bande jeden
 Verdacht von sich abwendet und die Schuld am den zahllosen
-Untaten anderen »Bootes« zugeschoben hatte. Allan &raser
+Untaten anderen »Bootes« zugeschoben hatte. Allan Fraser
 hatte Gib selbst stets im Hintergrund gehalten, die Werft galt
 als kleines Musterunternehmen, die Insel für ein Paradies
 höchst sicherer Arbeite!. Zu Wahrheit war auch nicht ein
@@ -2361,8 +2365,8 @@ irgendwie angezweifelt werden«, begann er ohne jede Schätze.
 die Entwicklung der Dinge wie eine kunstvolle Schachpartie
 mit bearbeite! und lediglich Kaptain Hutter zuweilen zu diesem
 oder jenem Zuge geratet. Die ’Borgelihichte des Ganzen
-liegt jJünszehn Jahr« zurück. Die verwitwete &Srau Auge
-Gräser hatte zwei Söhne, Alltag und Anatol, Zwillinge, jedoch)
+liegt jJünszehn Jahr« zurück. Die verwitwete Frau Auge
+Fraser hatte zwei Söhne, Alltag und Anatol, Zwillinge, jedoch)
 in bei Charakteranlagen völlig verschieden. Allan hatte den
 einbüßen, anständigen. ruhigen Bruder von jeher, zumal dieser
 <@pagebreak/>
@@ -2374,7 +2378,7 @@ Vermögen für die Ansprüche einer Stadt wie Chicago nicht
 genügte. &n Verreist lernte da Witwe Grafen dein reichen
 Senderl’ng Sam Innersten kennen, dessen Ceichtaläuiakeit
 in der Folgezeit von den Hand in Hand arbeitenden Mutter
-und Sohn schaurige ausgenutzt wurde. Allan &rajser, verheirafoet
+und Sohn schaurige ausgenutzt wurde. Allan Fraser, verheirafoet
 und Vater zusteckt Tochter, wurde in demselben Sache
 Witwer. als Zumeist die Gutes Harpington auf Anraten
 Seiner Frau kaufte. Was Allan aus dieser Insel und Werft
@@ -2387,7 +2391,7 @@ Fragen bereits wieder als reicher Mann gelten konnte, traten
 seine Mutter und sen Bruder Allan mit Geldsordeiungen an
 ihn heran. Er lehnte je b’s zu o’nom gewissen Grade ab,
 da er inzwischen unzweideutige Beweise beeilt erhalten hatte,
-daß drei versuchte Cresoreoinbrüche bei der Gräser« Bank ledig
+daß drei versuchte Cresoreoinbrüche bei der Fraser« Bank ledig
 lich auf seinen ortakundigen Bruder zurückzuführen seien, Er
 gab Mutter und Bruder eine beträchtliche Summe, stellte abopx
 die Bedingung, daß ihm kahle Grace. se’ne Nichte, die or
@@ -2403,7 +2407,7 @@ die ihm jJeinerzeitf bei der Erbauseinandersetzung alle Rechte
 <@pagebreak/>
 an der damals wertlosen Bankabgelreten hatten. Leider
 übertrugen die beiden diesen Haß auch: sehr geschickt auf
-Künstler?f und Lizzie &Sraser, denen sie vortäuschen. Anatol
+Künstler?f und Lizzie Fraser, denen sie vortäuschen. Anatol
 habe eine bei der Erbauseinandersetzung betrogen. Und leider
 beide sich bei Anatol mittlerweile die Sammlerwut für kostbare
 alte Gemälde derart entwickelt, daß er während einer
@@ -2421,14 +2425,14 @@ näher entäußern möchte. Zedernholz b’vöok dabei das urspriü’gliche
 Bild völlig erhalten, 1xd das neue kann in’s eine löse
 Geflnloidschicht nachher wieder abgezogen werden. Vor Ganzer
 Maler wählte als Deckbild Bückling viel angejweiselten
-Blaugrünen Walfisch. Anatol &Srafer bereits dieses Doppelbild
+Blaugrünen Walfisch. Anatol Fraser bereits dieses Doppelbild
 die »machen« Böcklin und wies ihm nachher einen Thron
 platt in seinem Saale an. Aber mit dieser einen Unredlichkeit
 hofft er sich Mutter und Bruder ans Messer geliefert. Sie
 haften ihn auch in Europa beobachten fassen. und sie besaßen
 nun eine Waffe gegen ihn, drohten ihm mit Bloßstellung und
-erpressen von ihm große Summen, denn sowohl Frau &Srasor-
-Sumersett?! wie Allan Gräser waren leidenhastliche Spieler
+erpressen von ihm große Summen, denn sowohl Frau SrasorSumersett?!
+wie Allan Fraser waren leidenhastliche Spieler
 und häufige Besucher verschiedensten Spielhöllen. Ihre Answichnunge.:
 beweisen das, wenn diese auch vorsichtshalber in
 Hissen niedergoeschrieben sind und wie harmlose Privo!kontobücher
@@ -2445,11 +2449,11 @@ Die Jordanbrüder, deren Treiben Arzte! kannte,
 holten nun zu einem Gewaltstreich aus. Wie unter ihnen üblich,
 halte Allan Fraser, der Gangster, seine Chicagoer Filiale durch
 Veitungsannoncen von dem Termin das geplanten Eindruck
-in das Gräser-Haus verständigt. Die ’Anroncen sind bis auf
-die erste unwichtig. &n dieser war der Tag des Einbruch
+in das Fraser-Haus verständigt. Die ’Anroncen sind bis auf
+die erste unwichtig. In dieser war der Tag des Einbruch
 angegeben, die übrigen dienten nur dazu, der Filiale mitzuteilen,
 daß der Plan nicht fallen gelassen sei. Aus reiner
-Nioedertracht hatte Allan Gräser inzwischen sich als »Blawal«,
+Nioedertracht hatte Allan Fraser inzwischen sich als »Blawal«,
 »Zumal« und so werfen eines Decknamens bedient, der lediglich
 aus Wortteilen des »Brenzlichen Arabisches« bestand.«
 
@@ -2466,7 +2470,7 @@ der tauchten und große Morgen Alkohol! befördern
 konnte. Kaptain Kutter war wie ich schon in jener Nacht auf den
 Gedanken gekommen, daß die Jacht ein Tauchboot sei, Die
 VRaummstöße dieses Belgisches hat ja »Hiervon 11« also sehr
-gespürt. — Was geschah um im &raser-haust Der Nachtportier,
+gespürt. — Was geschah um im Fraser-haust Der Nachtportier,
 der Gott so! Dank mit dem Leben danonkemimen wird,
 wurde fortgesetzt und angeschossen. Sein Stellvertreter, ein
 Vordanbruder, war ein Menschen von markanter Körperkraft.
@@ -2476,7 +2480,7 @@ und der Diebstahl der Kassetten sowie die Plünderung
 vor Zimmer der tatsächlich abwesenden Miß Grace vollzog
 <@pagebreak/>
 sie in aller Stille. Die Banditen verließen unbeobachtet das
-&Sraser-Haus wund eilten in den Grund-«Park, wo zu einem
+Fraser-Haus wund eilten in den Grund-«Park, wo zu einem
 Bootssteg der »Braune!« mit Allan Fraser wartete. Al
 Clarc deckte seinen Genossen den Rückzug, hielt sich jedoch
 zu fange noch »im Hause auf und …« — Harst machte hier
@@ -2490,7 +2494,7 @@ General Hilfe die soeben heimqekehrtf wär und den Schuß von
 oben gehört hatte. trug er den Toten in Graces Zimmer in
 einen Schrank, ohne daß er gewahr wurde, was Al Clarc
 unter dem Mantel verborgen hatte: Das Bild — gerade das
-Bild, auf das es dem Gangster der &Iordanbrüder angekommen
+Bild, auf das es dem Gangster der Jordanbrüder angekommen
 war! Den blaugrünen Walsisch!l Paß Mittel für
 weitere Erpressungen!« ck
 
@@ -2499,7 +2503,7 @@ Harst löste Kapkfa’in Charly als Ankläger wieder ab.
 ins Vertrauen Gegnerin hatten, irgendwie Al Tieres
 Leiche unser unverdächkigen Umsinken im Tresor-Haus auffinden
 lassen, Beiwerk gab Bishop. der Hanztteistor. die
-Schiffes ab die Houston in den &lur lockten. Wir fanden Al
+Schiffes ab die Houston in den Flur lockten. Wir fanden Al
 Clarc in Grabes Zimmer, aber dort wo er lag, war überhaupt
 kein frisches Blut zu finden, un? daß der Mann schon
 längere Zeit Kot, war unschwer kaltzustellen. Nun kam für
@@ -2536,7 +2540,7 @@ verstehen mich wohl, Kleinere dadurch ein paar Gewehre Zuchthaus,
 schwache ich.« — —« …
 
 Am übernächsten Morgen sahen Greap, seine Sie uns
-wir wieder im Hotel Bengel dein &rühbstiiik, Die versetzte
+wir wieder im Hotel Bengel dein Frühstück, Die versetzte
 blonde Roxy Dehli bediente uns. Houston lud Wilkiens
 lagen sich wieder einmal mit bissig harmlosen Becher Klugen
 den Haaren. Das Baby war frecher den so, und als
