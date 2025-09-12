@@ -412,262 +412,261 @@ Und dann fingen wir an.
 
 Mr. Anatol Fraser, Chef des Bankhauses Fraser u. Co.,
 das nur erstklassige Kundschaft hatte, lag gegen drei Uhr morgens
-in seinem Arbeitszimmer mit verbundenen Kopf auf
-einem Diwan und rauchte trotz des strengen Verbarg des
+in seinem Arbeitszimmer mit verbundenem Kopf auf
+einem Diwan und rauchte trotz des strengen Verbots des
 Arztes in aller Gemütsruhe eine Zigarre.
 
-Fragen war ein Mann: Mitte der Vierzig, war der
-Typ des vornehmen amerikani)c her Großkaufmanns, der sich
-bemüht, nicht nur smart, sondern zu) Gentleman zu sein.
+Fraser war ein Mann: Mitte der Vierzig, war der
+Typ des vornehmen amerikanischen Großkaufmanns, der sich
+bemüht, nicht nur smart, sondern auch Gentleman zu sein.
 
-Au Kämpfen des Diwans hatte seine Privatsekretärin,
-ein junges, überschlankes Mädchen« mit etwas hochmütig-verschlossenen
-Zügen Pfg genommen. Miß Grace Crosborn war
-eine Wichte Kreuzers und hatte ihre Wohnung gleichfalls im
-Hause. Sie stellte als Weib die allermodernste Spieler? von
+Zu Häupten des Diwans hatte seine Privatsekretärin,
+ein junges, überschlankes Mädchen mit etwas hochmütig-verschlossenen
+Zügen Platz genommen. Miß Grace Trolborn war
+eine Nichte Frasers und hatte ihre Wohnung gleichfalls im
+Hause. Sie stellte als Weib die allermodernste Spielart von
 Blaustrumpf vor, beteiligte sich an der Politik, fand es verächtlich,
 sich von dem reichen Onkel ohne Gegenleistung ihrerseits
-durchütfern zu lassen und stand in dem Rufe, die eigentliche
+durchfüttern zu lassen und stand in dem Rufe, die eigentliche
 Herrin des Bankgeschäftes zu sein.
 
-— Seiner waren hier anwesend: Kaptain Hutter, wir beide,
-und als Anhören der junge Houston, von Fidibus stets Baby
-Houston genannt.«
+Ferner waren hier anwesend: Kaptain Hutter, wir beide,
+und als Zuhörer der junge Houston, von Wilkiens stets Baby
+Houston genannt.
 
 Hutter-Greap hatte sich legitimiert, trug wieder Schnurrbart
-und Brille und spielte hervorragend den eifriger Schwätzer,
-hinter dessen Redeschwall die innere Hohlheit sich verbergen!oll.
-—» Was Fraser uns mitteilte, war uns längst bekannt, aber
-wir kalten so, als ob wir erst von ihm die wertvollsten Aufschlüsse
+und Brille und spielte hervorragend den eifrigen Schwätzer,
+hinter dessen Redeschwall die innere Hohlheit sich verbergen soll.
+— Was Fraser uns mitteilte, war uns längst bekannt, aber
+wir taten so, als ob wir erst von ihm die wertvollsten Aufschlüsse
 erhielten.
 
-— Miß Grace Crosborn, von Greap höflich gefragt, ob sie
+Miß Grace Trolborn, von Greap höflich gefragt, ob sie
 nichts Verdächtiges gehört habe, erwiderte merklich ablehnend,
-sie sei erst um zwei Uhr morgens heimgekehrt …
+sie sei erst um zwei Uhr morgens heimgekehrt.
 
 <@pagebreak/>
-»oh möchte mir den Semcidejoal ansehen«, bat Harz
-daraus!, der hier wie immer Herren hieß.
+»Ich möchte mir den Gemäldesaal ansehen«, bat Harst
+darauf, der hier wie immer Horter hieß.
 
-»ihre … Ach werde dem Diener läuten«, rothaarig Ei,
-rotblonde Miß, die ihr Haar ganz Kurz ge; ’chnitten und »Sicherheit
-Erde: Hm Herrenanzug mußte sie entzückend aussehen
+»Bitte … Ich werde dem Diener läuten«, erklärte die
+rotblonde Miß, die ihr Haar ganz Kurz geschnitten und gescheitelt
+trug: Im Herrenanzug mußte sie entzückend aussehen
 
-»Co wurde Wort derart Tagen, von Spuren an Ort und
-
-folge einige Auskünfte zu erhalten«, erklärte Harst eine!
-20 Schulter.
+»Ich würde Wert darauf legen, von Ihnen an Ort und
+Stelle einige Auskünfte zu erhalten«, erklärte Harst einen
+Ton schärfer.
 
 Grace musterte ihn flüchtig. »Wir Sie wollen … Bitte!«
 
-Die Wohnung Viertel Kraters war mit die eleganteste
-und geschmackvollste, die ich je Zeichen habe. Als wir von
-Saal betretet den die Diebe mit den bei den Hausdetektiven
-erbeuteten Schlüsseln gebreitet hatten, fanden wir die leeren
-Bilderrahmen an den Wänden sehen. Der Saal hatte indirekte,
-sehr heile Beleuchtung, und die hier oh) verbliebenen
-Gemälde kamen voll zur Geltung. — Harst schritt langsam alt
-den Wanden entlang, während wir in der Mitte des Saales
-liehen geblieben waren.
+Die Wohnung Anatol Frasers war mit die eleganteste
+und geschmackvollste, die ich je gesehen habe. Als wir den
+Saal betraten, den die Diebe mit den bei den Hausdetektiven
+erbeuteten Schlüsseln geöffnet hatten, fanden wir die leeren
+Bilderrahmen an den Wänden stehen. Der Saal hatte indirekte,
+sehr helle Beleuchtung, und die hier noch verbliebenen
+Gemälde kamen voll zur Geltung. — Harst schritt langsam an
+den Wänden entlang, während wir in der Mitte des Saales
+stehen geblieben waren.
 
-Dann machte er half und deutete auf einen recht breiten
-Goldrahmen: »Vor Anrüchig, daß diese so Kunstverständigen
-Gauner aus Sei Div! angeiweiselten Böcklin »Der bsiangrüne
-Walfisch« mitgehen hießen, ckch kenne die Geschichte dieses
-Bildes, darf in seinem allegorischen Entwurf etwa dem »Schwerer
-im Walde« gleicht. Man hört es für Mine Fälschung, man
-schreibt es dem franmzösischon Macrineataler Garten zu, der
-durch dieses Wort Böcklin veralbern wollte. Das Motiv ist
-ja nicht eigenartig genug: Ein Walfisch, der durch eine hochschäumende
+Dann machte er halt und deutete auf einen recht breiten
+Goldrahmen: »Merkwürdig, daß diese so kunstverständigen
+Gauner auch den viel angezweifelten Böcklin »Der blaugrüne
+Walfisch« mitgehen hießen. Ich kenne die Geschichte dieses
+Bildes, das in seinem allegorischen Entwurf etwa dem »Schweigen
+im Walde« gleicht. Man hält es für eine Fälschung, man
+schreibt es dem französischen Marinemaler Cuvier zu, der
+durch dieses Werk Böcklin veralbern wollte. Das Motiv ist
+ja auch eigenartig genug: Ein Walfisch, der durch eine hochschäumende
 blaugrüne Meereswoge schwimmt und daher selbst
-matt blaugrün schillert. Es existieren nicht einmal Regen düsteren
-von diesem Bilde, so ablehnend stehen die Kunstsachverständinren
+matt blaugrün schillert. Es existieren nicht einmal Reproduktionen
+von diesem Bilde, so ablehnend stehen die Kunstsachverständigen
 ihm gegenüber.«
 
-Miß Grace Crosborn schwieg dazu, Sie hatte. sich gelangweilt
-in einen Sessel Gesetz und Bitte ihr Monokel, das sie:
-an Dünger Setdräaischur und Goldhäkchen vor der sonst gerundeten
-Brust trug. Tore all stark betonte Teilnahmlosigkeit
+Miß Grace Trolborn schwieg dazu. Sie hatte sich gelangweilt
+in einen Sessel Gesetzt und putzte ihr Monokel, das sie
+an dünner Seidenschnur und Goldhäkchen vor der sanft gerundeten
+Brust trug. Ihre allzu stark betonte Teilnahmlosigkeit
 <@pagebreak/>
-wirkte vortrug. gerünliglt. Sie gefiel wir nicht, diese
-Angabe; 2 Füge Deine, Vers dunkle Sitzen Wunder: voll lange
-»Wimpern hatte!, Sie Büchlein wirkücwb kurzsichtig zu sein.
+wirkte unbedingt gekünstelt. Sie gefiel mir nicht, diese
+unnahbare junge Dame, deren dunkle Augen wundervoll lange
+Wimpern hatten. Sie schien wirklich kurzsichtig zu sein.
 
-Dorf stank so vier Vor dem leer Kabinen, hob ihyu
-je?! empor und verreiste das Messingschild mit der eingravierten
-Erhofft:
+Harst stand noch immer Vor dem leer Rahmen, hob ihn
+jetzt empor und betrachtete das Messingschild mit der eingravierten
+Schrift:
 
-Mylord Worin, Der blaugrüne Walfisch.
+<p class="centered">Arnold Böcklin. Der blaugrüne Walfisch.</p>
 
-Dann Eiche er bei Tal … dann und Arme ’56 verkehrt
-auf den Tone: Bucklig ich als zog Diner Grimmig der zurück
-gebogen Rüge. mit Heu die Hinterwand des Bündel befestigt
-suchen, Efeu Setzte! hervor, Dr: van; er9 gefaltet war.
+Dann drehte er den Rahmen um und legte ihn verkehrt
+auf den Teppich, bückte sich und zog hinter einem der zurückgebogenen
+Nägel, mit denen die Hinterwand des Bildes befestigt
+gewesen, einen Zettel hervor, der ganz eng gefaltet war.
 
-»Das ist seltsam«, Lugte er und lud langsam auf das Ji.
-Er Weile Tage Papier geduldet und schüttelte wider oft den
-Kopf. »Hier sieht mit Linie in offenbar verstellte Schritt
-eins winziges Wort … 22035 es bedeutet, weiß ck: nicht. Ich
+»Das ist seltsam«, sagte er und kam langsam auf uns zu.
+Er hatte das Papier geschüttelt und schüttelte wiederholt den
+Kopf. »Hier steht mit Tinte in offenbar verstellter Schrift
+ein einziges Wort … Was es bedeutet, weiß ich nicht. Ich
 kann jedoch nur annehmen, daß die Diebe den Zettel zurückließen,
-natürlich in ganz bestimmter Absicht. ’Da,- lesen Sie,
-Kaptain Hutter, Allerdings steht bitter dem Wort noch eine
-Gab!, aber die besagt ebenfalls nichts.«
+natürlich in ganz bestimmter Absicht. Da, lesen Sie,
+Kaptain Hutter. Allerdings steht hinter dem Wort noch eine
+Zahl, aber die besagt ebenfalls nichts.«
 
-Greap hoch und machte das listige Gier, das zum wich …
-überraschte, sehr geisiesgegeuwärg nicht.
+Greap las und machte das listige Spiel, das auch mich
+überraschte, sehr geistesgegenwärtig mit.
 
-»Sowohl«, rief er … »Weshalb 5:871«
+»Blawal«, rief er … »Was soll das?!«
 
-Grace Crosborn gähnte diskret.
+Grace Trolborn gähnte diskret.
 
-»Blawal 111213, — — Miß Crosborn, haben Sie den
+»Blawal 111213, — — Miß Trolborn, haben Sie den
 Namen je gehört?!«
 
-»Welchen Namen? — Verzeihung, ich hörte ruht recht
-hin, Kaptain, Meine Gedanken warst ailderiSio08«, Sie stand
-auf und trat naher.
+»Welchen Namen? — Verzeihung, ich hörte nicht recht
+hin, Kaptain. Meine Gedanken waren anderswo«. Sie stand
+auf und trat näher.
 
 Greap schaute ihr voll ins Gesicht. »Sie haben offenbar
-sehr wenig Baronesse für diesen Verlust Schrei Onkels …«,
-sagte er wir jener zweiten Stimme, die ihm eigen war, Und
-diese Stimme konnte hart und rücksichtslose klingen wie das
-Organ eines Poetischen, da« sehr. getan weiß, was er will.
+sehr wenig Interesse für diesen Verlust Ihres Onkels …«,
+sagte er mit jener zweiten Stimme, die ihm eigen war. Und
+diese Stimme konnte hart und rücksichtslos klingen wie das
+Organ eines Menschen, der sehr genau weiß, was er will.
 
-Grace schien plötzlich ihr Benehmen Anden zu wollen,
-»ach stehe Ihrem Berufe ganz sein, Kaptain Kutter, ich habe
+Grace schien plötzlich ihr Benehmen ändern zu wollen.
+»Ich stehe Ihrem Berufe ganz fern, Kaptain Hutter, ich habe
 <@pagebreak/>
 noch nicht einen einzigen Kriminalroman gelesen«, meinte sie
-mit deutlübein Spott — als Kampfanlage verschloß. »Uhr
-scheint, die Herren vom VDetektivkbrps haben doppelte Gesichter
-und sehr geschickte Finger. Mr. Herren schob den Zettel
-soeben selbst hinter der Wage!, wie ich zufällig beobachtete.
-Mithin sollte »Blawal« —!so sagten Sie doch, Kaptain — auf
-mich segelt eine Wirkung ausüben. Diese Wirkung ist auch
-eingetreten:; Ach gestatte mir, Ihre Methode zu belächeln, meine
-Perlen.«
+mit deutlichem Spott — als Kampfansage zweifellos. »Mir
+scheint, die Herren vom Detektivkorps haben doppelte Gesichter
+und sehr geschickte Finger. Mr. Horter schob den Zettel
+soeben selbst hinter den Nagel, wie ich zufällig beobachtete.
+Mithin sollte »Blawal« — so sagten Sie doch, Kaptain — auf
+mich irgend eine Wirkung ausüben. Diese Wirkung ist auch
+eingetreten: Ich gestatte mir, Ihre Methode zu belächeln, meine
+Herren.«
 
 Sie trug einen dunklen kostbaren langen Morgenrock mit
-halber Schleppe, dessen dünne Seide Sir) wie ein Gestell
-jetzt um ihre schlanken Glieder schmiegte. Ihr Antlitz war
+halber Schleppe, dessen dünne Seide sich wie ein Trikot
+fest um ihre schlanken Glieder schmiegte. Ihr Antlitz war
 bleich und durchgeistigt, sie hatte jetzt den Kopf leicht zurückgeworfen
-und — das fehlte noch gerade! — klemmute mit
-grazivjem Schwung das randlose Monokel ein und betrachtete
-Harst mit überlegenem Hoch.-
+und — das fehlte noch gerade! — klemmte mit
+graziösem Schwung das randlose Monokel ein und betrachtete
+Harst mit überlegenem Hohn.
 
-Und das hatte sie nicht tun sollen. Wobei ging eben das
-Temperament mit ihr durch, und sie hüstelte einen Zipfel des
-Düstere, der ihr Spurlos verbarg.
+Und das hätte sie nicht tun sollen. Dabei ging eben das
+Temperament mit ihr durch, und sie lüftete einen Zipfel des
+Schleiers, der ihr Inneres verbarg.
 
 Harst lächelte auch …
 
 »Doppeltes Gesicht …«, sagte er sehr gedehnt. »Ja, das
-trifft zu, ne; Crosborn. Sahen Sie je erneuten primitiven
-Menschen, daß es nur ein Gesicht hätte?! Wohl kaum. Sie
-müßten den ganz tief hinabsteigen in die Region der geistig
-ganz Armen. da geistvoller, je’ mehr Gesichter. Wir spielen ja
+trifft zu, Miß Trolborn. Sahen Sie je einen so primitiven
+Menschen, daß es nur *ein* Gesicht hätte?! Wohl kaum. Sie
+müßten denn ganz tief hinabsteigen in die Region der geistig
+ganz Armen. Je geistvoller, je mehr Gesichter. Wir spielen ja
 alle im Leben Komödie, wir — sagen wir — Durchschnittskämpfer.
-Hm übrigen: Sie hätten Deteklivgescmhichten lesen
-sollen, Miß, dann hatten Sie nicht so arge Schnitzer bei Ihrem
+Im übrigen: Sie hätten Detektivgeschichten lesen
+sollen, Miß, dann hätten Sie nicht so arge Schnitzer bei Ihrem
 hoffentlich ersten Ausflug in das Reich der dunklen Naturen
-gemacht. Wehr erster Fehler war Ehre über schraubte Ceilnoahmlosigkeit,
-Ihr zweiter war das »Pflaster dort auf der
-Zugezogene Ihres rechten Daumens, Ihr dritter, daß Sie die
-Entstehen dort auf schien Morgenrock Geranien übersahen
-wie die auf dem Böcklin« Rahmen dort. Der erste Fehler war
+gemacht. Ihr erster Fehler war Ihre überschraubte Teilnahmlosigkeit,
+Ihr zweiter war das Pflaster dort auf der
+Innenseite Ihres rechten Daumens, Ihr dritter, daß Sie die
+Blutflecken dort auf Ihrem Morgenrock genau so übersahen
+wie die auf dem Böcklin-Rahmen dort. Der erste Fehler war
 der schlimmste.«
 
 <@pagebreak/>
-Grace Cro!lbornus blasses Gesicht wechselte auch nicht im
+Grace Trolborns blasses Gesicht wechselte auch nicht im
+geringsten den spöttisch-hochmütigen Ausdruck.
 
-geringsten den jpöttisch-hochmiitigen Ausdruck.
 »Nun — und?!«, fragte sie herausfordernd.
 
-»Oh — — auf eine Frage noch: träumen Sie oho Alibi
-sagen. elf Al: abends und wer Uhr morgens nachweisen?«
+»Oh — nur eine Frage noch: Können Sie Ihr Alibi
+zwischen elf Uhr abends und zwei Uhr morgens nachweisen?«
 
-»Not Ich wo?« allein mit meinem Auto unterwegs.«
+»Nein! Ich war allein mit meinem Auto unterwegs.«
 
-»Danke, 2118.« Harst verbeugte sich. »Kaptain Hutter
-meinst mit, oho Zimmer zu sieben.«
+»Danke, Miß.« Harst verbeugte sich. »Kaptain Hutter
+wünscht nun, Ihr Zimmer zu sehen.«
 
-und Greap erklärte noch schwarzen: »Allerdings wünsche
-ich As «€
+und Greap erklärte noch schärfer: »Allerdings wünsche
+ich das.«
 
 Sie stand Sekundenlang regungslos. Jetzt war doch das
-eingetreten, was kommen mußte: Ihre Nerven streikten. Die
+eingetreten, was kommen mußte: Ihre Nerven streikten. Sie
 mochte bisher mit ungeheurer Willensanstrengung sich beherrscht
-haben, und aus diesem Übermaß von innerem Sich Bezwingen
-war jeder Sehlgrüjf in hinein Verhalten entstanden.
+haben, und aus diesem Übermaß von innerem Sich-Bezwingen
+war jeder Fehlgriff in Ihrem Verhalten entstanden.
 Nun aber brach sie zusammen.
 
 Ich habe Selten einen So fruchtbaren Kampf in einem
-weiblichen Antlitz beobachten dürfen. wie hier. Die wollte nicht
-unterliegen, sie krallte die Nägel in die Handflächen, Al; sich
+weiblichen Antlitz beobachten dürfen wie hier. Sie wollte nicht
+unterliegen, sie krallte die Nägel in die Handflächen, biß sich
 die Unterlippe blutig, aber ihre unnatürliche Blässe, das Zittern
-der seinen Nasenflügel, das Vibrieren der Augenlider und
-das Juden der Wangenmuskeln zeigten deutlich, was ix ihr
+der feinen Nasenflügel, das Vibrieren der Augenlider und
+das Zucken der Wangenmuskeln zeigten deutlich, was in ihr
 vorging.
 
-Ein Zufall jedoch kam ihr zu Hilfe?.
+Ein Zufall jedoch kam ihr zu Hilfe.
 
 Die eine Tür tat sich auf, und der Hausmeister Mr.
-Kraters, ein ehrwürdiger Greis mit dem Benehmen eines
-englischen Herzogs, näherte sich uns und meldete sehr Verzeihen:
+Frasers, ein ehrwürdiger Greis mit dem Benehmen eines
+englischen Herzogs, näherte sich uns und meldete sehr gemessen:
 
 »Kaptain Hutter, soeben habe ich bei einem Rundgang
-durch die Wohnräume festgestellt, daß auch Miß Croliborns
+durch die Wohnräume festgestellt, daß auch Miß Trolborns
 Gemächer erbrochen und durchsucht worden sind. Ich glaube
-sogar, die Einbrecher sind von zu der Arbeit, ich habe mich
-nachts hinausgewagt, und …«
+sogar, die Einbrecher sind noch an der Arbeit, ich habe mich
+nicht hineingewagt, und …«
 
-Harst lächelte Greap zu, und Greap förderte den vornehmen
-Nr. Bishop zu.
+Harst lächelte Greap an, und Greap lächelte den vornehmen
+Mr. Bishop an.
 
-»Die Einbrecher sind bestimmt nicht mehr zu der Arbeit«,
+»Die Einbrecher sind bestimmt nicht mehr an der Arbeit«,
 <@pagebreak/>
-sagte Greap ironisch. »Wo haben Sie Geiz Zugrunde, Nr,
-Bishop? — Bitte — eines flink, wir wollen es Arbeit.«
+sagte Greap ironisch. »Wo haben Sie Ihr Zimmer, Mr.
+Bishop? — Bitte — etwas flink, wir wollen es sehen.«
 
-»Gern, meine Her den,« Entstellte bei! Erstaunten verehren
-Mittag. »Ei fürchte nur, südlichen werden …
+»Gern, meine Herren …« Er spielte den Erstaunten geradezu
+virtuos. »Ich fürchte nur, inzwischen werden …«
 
-Grgendws in der Lösung war ein Schutz Sessel en.
-Ein zweiter so! sie … Kam Stürmte Dankt Houston gen in
-den Zur, der vorhin hell gewesen, — wir hörten ein Poltern,
-einen Krach, eine! dumpfen Soll und eigen wäilendean Blut.
+Irgendwo in der Wohnung war ein Schuß gefallen …
+Ein zweiter folgte … Dann Stürmte Baby Houston schon in
+den Flur, der vorhin hell gewesen, — wir hörten ein Poltern,
+einen Krach, einen dumpfen Fall und einen wütenden Fluch.
 
-Wie Harst die Taschenlampe- eintwaitety uns den langen
-Flur ableuchtete, lag Baby Houston aus dein Läufer: Er war
-über einen dort quer über den Am 9 gelegten langem Bojen
-gestolpert. Fünf Harst? weiter lag eine altmodisiye Polsterbank
+Als Harst die Taschenlampe einschaltete und den langen
+Flur ableuchtete, lag Baby Houston auf dem Läufer: Er war
+über einen dort quer über den Gang gelegten langen Besen
+gestolpert. Fünf Schritt weiter lag eine altmodische Polsterbank
 als zweites Hindernis.
 
-Die Schüsse Türen von links der ertönt, naht von rechts,
-und links sagen Flucht neben dem Gemäldesaal die drei »Prunkzimmer
-der Miß Grace mit dein Monokel.
+Die Schüsse waren von links her ertönt, nicht von rechts,
+und links lagen dicht neben dem Gemäldesaal die drei Prunkzimmer
+der Miß Grace mit dem Monokel.
 
-Im Salon dieser fragwürdigen Dame rannten wir einen
-Flecke:: gekleideten jüngeren Her! mitten aus Deut Teppich mit
-frischem Sibläfensihuß,
+Im Salon dieser fragwürdigen Dame fanden wir einen
+elegant gekleideten jüngeren Herrn mitten auf dem Teppich mit
+frischem Schläfenschuß,
 
-Baby Houston, der ein wandelndes ’Berbrecheralbum war,
-erklärte Sofort: »Das ist der »Bankräuber Al Clarc, der vor
-drei Monaten aus dem Zuchthaus aufschloß.«
+Baby Houston, der ein wandelndes Verbrecheralbum war,
+erklärte Sofort: »Das ist der Bankräuber Al Clarc, der vor
+drei Monaten aus dem Zuchthaus ausbrach.«
 
-Als wir Briefe belasteten, stellte sich heraus, das er
+Als wir Al Clarc betasteten, stellte sich heraus, daß er
 unter dem weiten, leichten Ulster das zweifelhafte Böcklingemälde
 um den Leib gerollt trug.
 
-»Houston, holen Sie Wilkiens und Weilt herauf«, befahl
-Tresor mit etwas belegter Stimme. »Das scheint hier ja
-eine äußerst gefährliche Gegend zu sein …
+»Houston, holen Sie Wilkiens und Weylt herauf«, befahl
+Greap mit etwas belegter Stimme. »Das scheint hier ja
+eine äußerst gefährliche Gegend zu sein …«
 
-Harst erschien erst jetzt, er hatte sich Teil gelassen, und
+Harst erschien erst jetzt, er hatte sich Zeit gelassen, und
 musterte nur oberflächlich den Toten und das Gemälde und
-jagte achselzuckend: »ckch habe wir erlaubt, Miß Grace und
-Mr. Bishop jeden in ein Badezimmern einsperren, Es ist
+sagte achselzuckend: »Ich habe mir erlaubt, Miß Grace und
+Mr. Bishop jeden in ein Badezimmern einzusperren. Es ist
 nicht gerade nötig, daß sie sich über das, was sie uns vorlügen
-wollen, vorher noch verständigen, versucht haben sie es.«
+wollen, vorher noch verständigen, — versucht haben sie es.«
 
 <@pagebreak/>
 
@@ -693,7 +692,7 @@ sondern weh von einer Riesengrotte.«
 Lichte war geglückt, —’ alias war umsonst gewesen. Lediglich
 eine Freude milderte die Enttäuschung: Vor Nachtportier
 Derart vom Fraser-Raus lebte noch, uns die Letzte leistet,
-ihn durchiubekommen. ’Aber kannst?!
+ihn durchzubekommen. ’Aber kannst?!
 
 Vor Coxichoussoeur zum 26i/viel, der den Nachtportier
 nach Hause gefahren hatte und der boessaäandig bwobachtet werdet
@@ -718,7 +717,7 @@ Dollar seinerzeit bezahlt. Wer Al Clarc erschossen hatte,
 sich firm ebenfalls mit einiger Sicherheit vermuten. Wahrscheinlich
 war Al Clarc nicht allein gewesen. und um sein
 Kumpan konnte ihn aus noch undurchsichtigen Gründen niedergeknalitf
-haben. Jedenfalls vermißte Grace Crosborn ein Diamantkollier.
+haben. Jedenfalls vermißte Grace Trolborn ein Diamantkollier.
 Möglich, daß ne! dem Streit um diese Beute Al
 Clarcs Partner sehr kurzen Prozeß gemacht hatte. — Was die
 im Flur vor Fraser-Wohnung ausgebauten Hindernisse betraf,
@@ -746,7 +745,7 @@ Fluge um sein junges Frauchen zu beneiden Roxy gab. Liston,
 all); wie der wundervollste Frühlingstag. ans und nahm unsere
 <@pagebreak/>
 Glückwünsche und Wilkiens zarte Anspielungen auf Hotel
-Kennen als Flitkerwochenquartier ist aller Harmlosigkeit und
+Kennen als Flitterwochenquartier ist aller Harmlosigkeit und
 mit größter Selbstverständlichkeit hin. Urplötzlich erschienen
 wie hinschauten! Sektkelche und ein paar Flaschen »Sruchtsprude!«,
 wir stießen mit den Gdungvermählten an, Greap hielt
@@ -885,7 +884,7 @@ Die 3 bedeutete des Datum.)
 
 Anatol Fraser in seinem Privatkontor soeben erschossen
 aufgefunden. Offenbar Selbstmord. Waise noch in seiner
-Hand. Auf Schreibtisch begonnenen Blies] Kraters, darunter
+Hand. Auf Schreibtisch begonnenen Blies] Frasers, darunter
 farbigen Stempel, der etwa Böcklin- Gemälde gleicht. Sofort
 Untersuchung einleiten. Bankgebäude bereits unauffällig
 Kastell. — Zeit 1,15 nahm.
@@ -956,13 +955,13 @@ Arbeitsmethode des Geheimkommissars betraf, eingeweib! war,
 mit stummen Händedruck.
 
 Greap eilte ungeduldig Voraus. « Das vorgehe, große
-Privatbüro Anatol Kraters lag leichter Hand vor) dem Hole
+Privatbüro Anatol Frasers lag leichter Hand vor) dem Hole
 hinaus im Erdgeschoß.
 
 »Wer entdeckte den Selbstmord?«, fragte Harst unseren
 Freund Morris etwas zaudernd.
 
-»Miß Grace Crosborn«, erwiderte der »eherne« Morris
+»Miß Grace Trolborn«, erwiderte der »eherne« Morris
 ebenso, zögernd. »Eine etwas eigentüimfinde junge Tante, finde
 
 »Es gibt einen Herrn, der noch viel eigentiun’ »schien in,
@@ -1093,7 +1092,7 @@ mit dem Sternen Gesicht machte nicht viel Worte. »Ich
 Laube an die Existenz einer Bande, die ganz im geheimen gleitet,
 Greap, Die Vorhalle der letzten Nacht haben mir dies
 zur Gewißheit gemacht. Der Diebstahl, die Ermordung Al
-Clarcs in dem Zimmer Miß Crolborns und der Tod Frasers
+Clarcs in dem Zimmer Miß Trolborns und der Tod Frasers
 hier, — das hängt erstes aus innigste miteinander zusammen,
 das ist eben Gangster-Arbeit.« —
 
@@ -1191,7 +1190,7 @@ Den Schritten otiieikuiter bereit halten lassen!« …
 weinen Sie?« —
 
 »30 … Oh hoffe, wir fassen Miß Grace und den Hausmeister
-von ab, falls nicht gerade Kraters Perivatjacht eines
+von ab, falls nicht gerade Frasers Perivatjacht eines
 von den Banknoten Al, die lich hier einige Wirkender in
 Hamburg bei Diwan u. Los bauen ließ: Garantiert: dreißig
 Knoten Wuwaolgeschwindig8eit.« Zum
@@ -1428,7 +1427,7 @@ Büchse und eine kleinere Kajüten saßen Kaptain Charly und
 Herr? an dem rundet Sofatisch und machen Gesichter wie die
 Worten aus dem Morgenland, denen kein Stern den richtigen
 Weg zeigt. Vor ihnen lag ein zerknittertes Blatt Büttenpapier
-mit verwischten Waoaslstempet: Kraters Abschiedsbvries!
+mit verwischten Waoaslstempet: Frasers Abschiedsbvries!
 
 Harst rauchte kalt. Ein Schreckens Zeichen. Und Charly
 <@pagebreak/>
@@ -1837,8 +1836,8 @@ und ähnlichen Knalleffekten. Verfallen Sir große
 Luft, dieses elektrische Zauberschloß zu durchsuchen, Greap’?«
 
 Kaptain Charly stieß die eine Kontortür mit dem Fuße
-auf und leuchtete in das Zimmer hinein. Vier Tische. Akteuböcke,
-zwei Schreitmaschinen und links an der Wand ein
+auf und leuchtete in das Zimmer hinein. Vier Tische. Aktenböcke,
+zwei Schreibmaschinen und links an der Wand ein
 mächtigen Tresor modernster Bauart: Das war d’e »Kasse«
 der Wort. — Greap ging leise hinein und verfrachtete die
 Wände und den Tresor. »Der ist verschlossen«, sagte or
@@ -2027,7 +2026,7 @@ Störung.
 Ich hatte inzwischen Zeit, mir die vier Personen anzusehen,
 die in eurem einzelnen Gestühl dicht am Altar saßen.
 Ich traute Ruinen Augen kaum, als ich dort zwischen einer
-älteren Dame und einem jungen Brötchen Anatol Kraters
+älteren Dame und einem jungen Brötchen Anatol Frasers
 Ebenbild schon sah Tote Unehelichen Partie verdüstert,
 daß sich sofort Harst lose ausstieß und ihm auf jenen Man!
 ammerkjam machte. Harst blickte scharf bin und winkte daran]
@@ -2236,7 +2235,7 @@ lagert
 und Puder war ihr Gesicht ohne jede Spur von Farbe,«
 
 »Und Miß Lizzie, — ist sie« eine Schwester von Mietgarage,
-die sich Crosborn nennt? »Dich Ähnlichkeit ist ziemlich
+die sich Trolborn nennt? »Dich Ähnlichkeit ist ziemlich
 Spielbank.«
 
 Die Frau mit den harten, scharfen dicken Stich haßersiüllt
@@ -2388,7 +2387,7 @@ der ’Briider vom Heiligen Fortan, vielleicht der raffinierteste
 Trick, der je zur Verschleierung gesetzwidrigen Handelns äausogeklügelf
 wurde. — Nach ein vor Jahren, als Anatol
 Fragen bereits wieder als reicher Mann gelten konnte, traten
-seine Mutter und sen Bruder Allan mit Geldsordeiungen an
+seine Mutter und sen Bruder Allan mit Geldforderungen an
 ihn heran. Er lehnte je b’s zu o’nom gewissen Grade ab,
 da er inzwischen unzweideutige Beweise beeilt erhalten hatte,
 daß drei versuchte Cresoreoinbrüche bei der Fraser« Bank ledig
@@ -2397,7 +2396,7 @@ gab Mutter und Bruder eine beträchtliche Summe, stellte abopx
 die Bedingung, daß ihm kahle Grace. se’ne Nichte, die or
 stets väterlich geliebt hatte, für immer überlassen bliebe. Er
 wollte sie aus der verbrecherischen Atmosphäre von Harpington
-befreien. Grace kam in sein Haus. als Grace Crosborn,
+befreien. Grace kam in sein Haus. als Grace Trolborn,
 angebl’ch als eine ’Berwandie einer Seitenlinie der &5»Ufers.
 Der Name Fraser ist hier so Beweis. daß man den Propheten
 Allan nicht mehr Mr dem Abkömmling der angesehenen Chicagoer
