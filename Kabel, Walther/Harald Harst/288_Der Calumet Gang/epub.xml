@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">282560d5-9b5e-454c-8d11-d115a8d2e06c</entry>
+<entry key="title">Der Calumet Gang</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">288</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Der Calumet Gang
+
+»Feigheit«, sagte der gern ein wenig dozierende Kaptain Charly Greap an jenem Abend in dieser etwas seltsamen Umgebung, »… Feigheit ist das Übermaß von Selbsterhaltungstrieb in einer Persönlichkeit, der jedes Ideal fehlt.«
+
+Aus seinem jugendlichen Munde nahmen sich solche Binsenwahrheiten etwas eigenartig aus.
+
+Wir saßen hier zu sieben am schlicht gedeckten Holztisch in den verräucherten Gewölben. Die Petroleumlampe warf ein mildes, friedliches Licht über Männer mit scharfen, zum Teil harten Zügen. Dasselbe Licht blinkte in grelleren Reflexen drüben auf blanken Metallteilen der verschiedensten Apparate, aufgebaut auf zwei Wandtischen. Unter der zementierten Decke hing der Qualm von Pfeifen, Zigarren und Zigaretten wie leise wallende, graubraune Schleier, und in den Gläsern vor uns duftete ein Getränk, das nicht ganz ohne Alkohol war. Die Gesundheit Kaptain Greap-Hutters und seiner Getreuen erforderte ärztliche Rezepte über soundso viele Flaschen medizinischen Weines pro Tag.
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (288) Der Calumet Gang.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1930</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
