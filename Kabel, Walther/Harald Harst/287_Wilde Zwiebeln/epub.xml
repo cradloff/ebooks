@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">2766bbaf-f1ce-458d-9810-ac621e74b5b9</entry>
+<entry key="title">Wilde Zwiebeln</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">287</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Wilde Zwiebeln
+
+In Wassersportkreisen hieß er nur der Schönheitsvierer.  Man hätte sagen sollen »Fünfer«, denn auch die Miß, die am Steuer saß, war ein entzückendes Girl.
+
+Der Vierer gehörte dem Damenruderverein des riesigen Warenhauses von Marshall Field u. Co., Ecke Washington-Street.  Am Donnerstag gegen acht Uhr abends hatte der Schönheitsvierer das Bootshaus zu kurzer Trainingsfahrt bei völlig windstillem Wetter verlassen. Da der Michigan-See ohne jede Welle glatt wie ein Spiegel dalag und nirgends ein Anzeichen eines drohenden Gewitters vorhanden war, hatten die fünf vielbeneideten entzückenden Mädels sich schließlich doch weiter vom Lande weggewagt, wurden von der im Mai meist rasch hereinbrechenden Dunkelheit und zudem noch von einem starken Nebel überrascht, und erst bei Mondaufgang fand eine Segeljacht den leeren Rennvierer und schleppte ihn nach Chicago ein, benachrichtigte die Polizei und gab die Mitteilung von dem seltsamen Ereignis auch an einige Zeitungsberichterstatter weiter.
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (287) Wilde Zwiebeln.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1930</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
