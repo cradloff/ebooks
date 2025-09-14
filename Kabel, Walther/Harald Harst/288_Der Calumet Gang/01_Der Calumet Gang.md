@@ -78,7 +78,7 @@ wachsbleich, aber an den Backenknochen hatte sie knallrote
 Flecken wie eine Schwindsüchtige. Ich trat leise näher, und
 <@pagebreak/>
 plötzlich schnellte die Kranke aus dem Bett, taumelte auf mich
-zu und umklammerte meinen Halse und würgte mich …«
+zu und umklammerte meinen Hals und würgte mich …«
 
 Wilkiens lachte dröhnend. »Little Houston, wie viele
 Brandys hatten Sie heimlich verlötet?! Das ist Kino, Sie,
@@ -102,7 +102,7 @@ mich höflich, ob die Frau tatsächlich tot sei, ich nickte nur,
 bestieg mein Rad und fuhr eilends von dannen. Und das war
 Feigheit, Kaptain … Ich schäme mich geradezu.«
 
-Hast, der dem jungen Houston gegenüber am Tische saß,
+Harst, der dem jungen Houston gegenüber am Tische saß,
 fragte jetzt, indem er sich weit vorbeugte: »Hatten Sie gestern
 nacht diese Windjacke an, lieber Houston?«
 
@@ -140,7 +140,7 @@ Greap hob die Jacke empor und beroch die rötliche Stelle.
 Indem glitt aus der äußeren linken Brusttasche etwas
 heraus und fiel klirrend in Greaps Weinglas.
 
-»Oh — ohne Nagelfeile, Houston!«
+»Oh — Ihre Nagelfeile, Houston!«
 
 Der Detektiv blickte hin. »Das ist nicht meine Nagelfeile,
 solch ein kleines Ding benutzen nur Weiber.«
@@ -382,7 +382,7 @@ Schauplatz Nr. 3: Das Grundstück in der Cleaver-Street,
 <@pagebreak/>
 
 <h2>2. Kapitel.</h2>
-<h3>Vordem Rembrandt.</h3>
+<h3>Vor dem Rembrandt.</h3>
 
 Chicagos trauriger Ruf als »Verbrecherstadt« wird zumeist
 übertrieben. Wo emsige Bienen Honig sammeln, finden
@@ -393,7 +393,7 @@ der Unterwelt mit allen Mitteln.
 Mit allen Mitteln sucht aber auch diese Unterwelt, insbesondere
 die straff organisierten Gangs (Banden) mit ihren
 Führern (Gangsters) dort zu ernten, wo Fleiß und rücksichtslose
-Dollarjaqd reiche Beute verheißen.
+Dollarjagd reiche Beute verheißen.
 
 Von diesem immerwährenden Kampf zwischen Gesetz und
 Gangsters merkt die Öffentlichkeit im allgemeinen wenig.
@@ -500,7 +500,7 @@ Europa auf Reisen. Letzte Karte von ihr vor drei Wochen
 an Abel Braham und Frau aus Lugano. Houston findet im
 Schlafzimmer geschminkte Sterbende, die ihn würgt, die ihm
 aber auch heimlich die Nagelfeile in die Brustasche schiebt.
-Die Frau Soll eine brünette Schönheit gewesen sein, sagt
+Die Frau soll eine brünette Schönheit gewesen sein, sagt
 Houston. Ich sage, sie ist ermordet worden! — Und die gestrige
 Nacht gab mir recht. Die alte Alma Braham findet, als sie
 in einem eingebauten Wandschrank ein Schlafmittel sucht,
@@ -508,7 +508,7 @@ hinter Kleidern eine Tote, nur mit einem Hemd bekleidet. Sie
 rennt auf die Straße, und wir stellen durch Houston fest, daß
 es die »Geschminkte« ist. Die Ärzte erklären sehr bald:
 Vergiftung durch ein Arsenikpräparat. Inzwischen hatte sich
-noch der Spiritistenklub »Okkulte Welten« in von drei
+noch der Spiritistenklub »Okkulte Welten« in den drei
 Räumen der sonst leeren Fabrik eingefunden und beschwört
 <@pagebreak/>
 »Das Mädchen hinter der Tür« von Rembrandt. In der Fabrik
@@ -579,7 +579,7 @@ in ihrer Angst hatten vielleicht nicht recht hingeschaut.
 
 »Bitte …«
 
-»Du, mir ist da Soeben ein besonderer Gedanke gekommen:
+»Du, mir ist da soeben ein besonderer Gedanke gekommen:
 Vielleicht könnte die Vergiftete die Freundin Lydias
 sein!«
 
@@ -690,7 +690,7 @@ Aber die rührigen Reporter waren auf Vermutungen
 angewiesen.
 
 Nach zwei Stunden hallte die City von dem Gebrüll der
-Extrablätterverkäufer wieder …
+Extrablätterverkäufer wider …
 
 <@pagebreak/>
 
@@ -769,7 +769,7 @@ dem die dicke Mathilde offenbar mit einem Gänsekiel geschmiert
 hatte: »Herhzehlije Jrüsse, und Herr Schraut soll
 nich zu viel essen, ehr werd zu dhick.«
 
-Wenn solle Briefe, stets für uns beide bestimmt, eintrafen,
+Wenn solche Briefe, stets für uns beide bestimmt, eintrafen,
 konnte Harst sehr, sehr still werden, und ich — —
 Heimweh, echtes Heimweh! Ich sehnte mich nach unserem
 <@pagebreak/>
@@ -780,7 +780,7 @@ eine Heimat in Ketten war. —
 Daß hier bei Belmonte auch jene Herren verkehrten (oben
 im dritten Rang), die nicht gerade allgemein beliebt waren,
 wußte und weiß ein jeder. Die Parasiten der Metropole, die
-Gangsters, laufen ja, nicht mit Ballonmütze, rotem Halstuch
+Gangsters, laufen ja nicht mit Ballonmütze, rotem Halstuch
 und Wollsweater herum und essen auch nicht Fisch mit dem
 Messer oder balancierte Kartoffelstücke mit demselben Messer
 in den Mund. Es sind äußerlich Kavaliere, Besitzer von
@@ -805,7 +805,7 @@ waren jetzt an der Tagesordnung. Der stille, ruhige
 Mann lachte darüber. Gestern noch hatte er Kaptain Greap-Hutter
 auf dem üblichen geheimen Wegen zwei solcher Wische
 zustellen lassen, der eine unterzeichnet »Onoli, Chef des
-Calumet-Gang«, der andere »Honstel, Führer des Kultur-Gang«,
+Calumet-Gang«, der andere »Honstel, Führer des Kultur-Gang«.
 
 »Kultur«-Gang war ein Witz für sich!!
 
@@ -891,7 +891,7 @@ trug Schnurrbart und Brille. Greap nie.
 uns gelernt. Es klingt zuweilen verdammt ironisch.
 
 Er faßte Schlüssel und Riegel von innen, öffnete und trat
-mit seinen drei Mann ein, »Wilkiens, hängen Sie Ihren
+mit seinen drei Mann ein. »Wilkiens, hängen Sie Ihren
 Mantel vor das überflüssige Loch. — Was geht hier vor?«
 Er hielt Mr. Lewys seinen Ausweis hin. »Wie kommen Sie
 dazu, die beiden Herren zu verhaften?! Wer ich bin, wissen
@@ -939,7 +939,7 @@ Schade um die Milchglasscheibe.«
 
 »Oh — die bezahle ich«, beeilte sich Lewys zu beteuern.
 
-»Das ist nett Ihnen … — Kommen Sie, Horter …
+»Das ist nett von Ihnen … — Kommen Sie, Horter …
 Sie waren ja gerade erst beim Käse, und es fehlen noch das
 Fruchteis und der Mokka.«
 
@@ -992,7 +992,7 @@ Sitzung.
 
 Harst las halblaut die Namen vor.
 
-Greap, Willens und ich belauern das Gesicht des kleinen
+Greap, Wilkiens und ich belauern das Gesicht des kleinen
 Starrkopfes.
 
 »Miß Gwenda Bellington …«
@@ -1086,10 +1086,10 @@ halblaut: »Alter Freund, ich bin nicht auf den Kopf gefallen!«
 einem … Zaun fallen … Ziehen wir die Panzerwesten an. Es
 wird wohl etwas lebhaft hergehen. Der Calumet-Gang, glaube
 ich, wird sich mächtig anstrengen, den Totengräbern was zu
-verdienen zu geben. Mann kennt den Calumet-Gangster nicht,
+verdienen zu geben. Man kennt den Calumet-Gangster nicht,
 man rät hin und her. Ich kenne ihn …«
 
-Greap machte ein Sehr langes Gesicht.
+Greap machte ein sehr langes Gesicht.
 
 »Dann wissen Sie noch mehr als ich!«
 
@@ -1147,7 +1147,7 @@ sagte Morris bedeutsam. »Die Hornissen schwärmen diese
 <@pagebreak/>
 Nacht, meine Leute waren in den Südspelunken, es herrscht
 da verdächtige Leere. Gerade die Lokale, wo die uns bekannten
-Mitglieder vom Calumet—Gang verkehren, sind wie ausgefegt.«
+Mitglieder vom Calumet-Gang verkehren, sind wie ausgefegt.«
 
 Harst hatte Morris die Hand gedrückt. Er wendete sich
 an Greap. »Wissen Sie, lassen Sie Ihre Elite lieber hier.
@@ -1295,7 +1295,7 @@ Tunke dampfte und Blasen schlug. Es roch stark nach Kaffee
 und Röstbrot. — Harst blieb stehen. »Guten Abend, Frau
 Braham … In ihrem Alter sollte man besser im Bett bleiben.
 Wenn Sie jetzt noch so kräftigen Kaffee trinken, werden Sie
-gar nicht Schlafen können.«
+gar nicht schlafen können.«
 
 Ich betrachtete mir die hagere, gebeugte Gestalt zum
 ersten Male genauer. Ich hatte ihrem Manne doch Unrecht
@@ -1321,7 +1321,7 @@ Hintergarten, dessen Rasen und Beete als Parkplatz
 für die Autos des Spiritistenklubs dienten, erhob sich
 ein zierlicher Pavillon, und in diesem erhöhten Glashäuschen
 hatte man hinter der Wandverkleidung die Schalter für die
-Lichtreklame gefunden, nachdem man den Kahlen Garten und
+Lichtreklame gefunden, nachdem man den kahlen Garten und
 Hof bis zum Fabrikschornstein hin aufgegraben hatte. Ein
 Detektiv saß hier als Wache, keiner von Greaps Leuten. Er
 grüßte, und wir schritten weiter bis zur Mauerpforte, die in
@@ -1513,7 +1513,7 @@ Julia Coolp. Die Regie scheint nicht ganz geklappt zu haben.«
 »Das wußte ich längst, und das mußte wohl so sein. Die
 Regie versagte. Dieser junge Mann hier« — er deutete auf
 Baby Houston — »verwirrte den Herrschaften das Netz ein
-wenig. — War Inspektor Lewys der angebliche Arzt, — den
+wenig. — War Inspektor Lewys der angebliche Arzt, den
 Frau Wanderleer erwartete?«
 
 Der Doktor Fo bejahte.
@@ -1616,7 +1616,7 @@ behandeln.«
 Die beiden Schmierfinken hatten sich vor Angst eingeriegelt.
 Houston berichtete dann, daß er von dem Messerwerfer
 wenig gesehen habe. »Ein Kerl in langem Mantel mit
-Schwarzen Vollbart — — aalglatt … Schade, das ich vorbeischoß …«
+schwarzem Vollbart — — aalglatt … Schade, daß ich vorbeischoß …«
 
 Frau Alma Braham saß heulend am Küchentisch. Desto
 geschäftiger war ihr lieber Mann, freilich redete er dabei
@@ -1788,7 +1788,7 @@ die Spitze glühte stärker auf, und dieser glühende Punkt hatte
 in der Finsternis ein Gegenüber: Wo Greap am Bettrande
 stand.
 
-Seltsam gratis: Keiner von uns suchte Deckung, lediglich
+Seltsam genug: Keiner von uns suchte Deckung, lediglich
 das Rascheln von Kleidern verriet, daß, da die abgeblendeten
 Laternen zu fern, stille Hände nach den Taschenlampen griffen.
 
@@ -1814,7 +1814,7 @@ schwach erleuchteten Gestalt annahm, eines Menschen.
 
 Auf der Schwelle machte das Wesen halt, — kurze lautlose
 beklemmende Stille, als ob ein Geist aus dem Jenseits
-herbei geschwebt wäre, — dann ein zischendes, hastiges Flüstern,
+herbeigeschwebt wäre, — dann ein zischendes, hastiges Flüstern,
 unverkennbar Doktor Fos Stimme:
 
 »Erschrecken Sie nicht, — ich habe das Licht ausgeschaltet,
@@ -1899,7 +1899,7 @@ Der Sterbende wandte den Blick und lächelte weiter —
 ganz unmerklich. Dann schloß er die Augen und lag still.
 Greaps Gesicht wurde fahl vor Erregung, und in diesem jungen
 <@pagebreak/>
-Antlitz zeigten ich die tiefen Falten er einer machtvollen, drohenden
+Antlitz zeigten sich die tiefen Falten einer machtvollen, drohenden
 Willensanspannung.
 
 Noch immer hielt er die schlaffe Hand.
@@ -1969,17 +1969,17 @@ Greap, Smith bringt jetzt Mr. Bellington zu seinem Kinde …
 und dann verschwinden die Handschellen, die ja doch nur täuschen
 sollten …«
 
-Smith und Bellington entfernten ich wortlos.
+Smith und Bellington entfernten sich wortlos.
 
 Auf uns dreien, die wir hier bei dem Toten zurückblieben,
 lag es immer noch wie ein Bann.
 
 Greap legte den Stahlzylinder behutsam auf das kleine
-Wandsofa in eine Kissenvertiefung wird deckte ein anderes
+Wandsofa in eine Kissenvertiefung und deckte ein anderes
 buntes Kissen darüber. Harst nahm eine neue Zigarette, Wilkiens
 putzte bedächtig die Linse seiner Laterne mit dem Taschentuch,
 und ich schaute unverwandt in Doktor Fos starres Antlitz.
-Vieles wäre wohl anders geborenen, wenn Doktor Fo
+Vieles wäre wohl anders gekommen, wenn Doktor Fo
 rechtzeitig alles uns mitgeteilt — alles.
 
 Vielleicht wäre es anders gekommen …
@@ -2002,7 +2002,7 @@ wollte, war mit einer Leuchtfarbe präpariert.
 Aus der Finsternis kam Harsts vorsichtige Stimme wie
 ein Knurren …
 
-»Vielleicht das Kleid des Mediums Harmonie Castelli …
+»Vielleicht das Kleid des Mediums Honoria Castelli …
 Wenn sie »Geister« erscheinen ließ! — Kennen Sie ihre Adresse,
 Greap?«
 
@@ -2094,7 +2094,7 @@ hatte sich bereits verlaufen, es regnete stärker, Detektive in
 Gummimänteln standen mit vier Schritt Abstand Posten, und
 nur ein paar Reporter lungerten wie hungrige Wölfe umher
 und suchten irgendein Wort aufzuschnappen. Aber es
-waren Schlechte Zeiten für die Herren, was im Hause
+waren schlechte Zeiten für die Herren, was im Hause
 geschehen, wußte niemand als wir und der Mörder, und Inspektor
 Lewys Leiche war auch längst in aller Stille weggeschafft
 worden.
@@ -2168,7 +2168,7 @@ von Pamarin?«
 »Eine Abart des Giftsumach, also eine Pflanze, die
 äußerst selten ist. Sie kommt jedoch nur auf dem Pamir-Plateau
 in Asien vor. Die Blüten schwitzen einen klebrigen
-Saft aus, und dieses Pamarin, eigentliche müßte es heißen
+Saft aus, und dieses Pamarin, eigentlich müßte es heißen
 Pamirin, erzeugt Fleischfäulnis, wenn es in frische Wunden gebracht
 wird. Das äußerliche Krankheitsbild gleicht dem der
 Lepra.«
@@ -2193,7 +2193,7 @@ Greap lachte hart. »Ich kann Ihnen noch etwas ergänzen,
 Harst. Bellington erzählte mir vorhin, daß die Wanderleers
 früher beide dem Spiritistenklub »Okkulte Welten« angehört
 haben und daß bei einer der Sitzungen Frau Wanderleer seinen
-eigenen Tod prophezeiht erhielt — durch seinen eigenen »Geist«,
+eigenen Tod prophezeiht erhielt — durch seinen eigenen »Geist«.
 
 »Ja«, sagte Harst nur, »man zwang ihm die Pistole mit
 allen Mitteln in die Hand! Armer Kerl! Aber das eine hat
@@ -2280,7 +2280,7 @@ Wilkiens packte zu.
 wissen nicht die Hälfte. — Zur nächsten Wache mit ihr. Rufen
 Sie das Revier an.«
 
-Kaptain Charly Greap war Stein. Das Später heulte,
+Kaptain Charly Greap war Stein. Das Mädel heulte,
 jammerte, — aber ein Wort brachte Sie zum Schweigen: »Giftmischerbande!«
 
 »Wer sind Sie?«, fragte Harst und brachte eine Photographie
@@ -2340,7 +2340,7 @@ Schlüssel, sowie das Stichwort »Julia« wird Ihnen laut
 Abmachung mit der Bank die Tresore öffnen. Aber Sie
 müssen beides gleichzeitig dem Bankvorstand angeben oder
 übergeben: Stichwort *und* die kleine Feile, die mir ein
-Kunstschlosser herstellte, — Werden Sie glücklich. Ich habe
+Kunstschlosser herstellte. — Werden Sie glücklich. Ich habe
 doch nur Sie geliebt, Julia.
 
 <p class="right">Ihr</p>
@@ -2541,9 +2541,9 @@ hatten eben ganz bestimmt damit gerechnet, die Feile
 in jener Nacht von Julia Coolp zu erhalten, als Houston-Baby
 durch sein Erscheinen den Dingen eine andere Wendung gab.
 Die kleine Feile mußte ja vorerst verborgen bleiben, denn Lydia
-Wanderleer war für die Öffentlichkeit in der Schweiz- und
+Wanderleer war für die Öffentlichkeit in der Schweiz und
 mußte doch erst zurückkehren, bevor sie als Witwe Wanderleer
-dein Schatz des Schrankkoffers haben durfte.
+den Schatz des Schrankkoffers haben durfte.
 
 Es wurde für uns ein sehr unruhiger Morgen und Vormittag.
 Das Hauptquartier Greaps mußte verlegt werden —

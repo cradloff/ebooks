@@ -6,7 +6,7 @@
 
 <p class="title2">Tropenglut und Leidenschaft</p>
 
-<p class="title3">Eine Reihe einzigartiqer tropischer Erzählungen</p>
+<p class="title3">Eine Reihe einzigartiger tropischer Erzählungen</p>
 
 <hr/>
 
@@ -14,7 +14,7 @@
 Zeitungen
 berichten täglich</p>
 
-über Ereignisse, die sich in der Südsee zugetragen haben.
+<p class="noindent">über Ereignisse, die sich in der Südsee zugetragen haben.
 Südsee! Vorbei der Sturm. Friedlich träumt in unwahrscheinlichem
 Blau die Lagune und spiegelt die Palmen
 und üppigen Blütenbüsche der Insel Kolaula. Inmitten
@@ -23,15 +23,15 @@ auf dem die Schatten eines tragischen Schicksals lasten.
 Hier findet ihn ein verwöhntes junges Mädchen. Im
 Südseezauber erwacht sie zu reiner, reifer Fraulichkeit
 und führt den ernsten »Tuan« zurück unter die Menschen.
-Diese geheimnisvollen Ereignisse sind in dem Roman
+Diese geheimnisvollen Ereignisse sind in dem Roman</p>
 
 <p class="title2">Das Lächeln des Tuan</p>
 
-in spannender Weise von **Gino v. Moellwitz** geschildert
+<p class="noindent">in spannender Weise von <span style="text-decoration: bold;">Gino v. Moellwitz</span> geschildert
 worden. Gino v. Moellwitz ist ein alter Globetrotter, der
 wohl alle Erdteile besucht und jahrelang mit offenen
 Augen durch die Welt zog und uns jetzt schildert, was
-er gesehen hat.
+er gesehen hat.</p>
 
 Preis des 100 Seiten starken Bandes 50 Pfg.
 
