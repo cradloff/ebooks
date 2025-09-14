@@ -28,6 +28,11 @@ p {
 	text-align: justify;
 }
 
+/* der erste Absatz nach einer Überschrift wird nicht eingerückt */
+h1 + p, h2 + p, h3 + p, h4 + p, h5 + p, h6 + p {
+	text-indent: 0;
+}
+
 blockquote {
 	margin-left: 1em;
 	margin-right: 0;
@@ -182,6 +187,10 @@ td, th {
 
 .indent2 {
 	margin-left: 2em;
+}
+
+.noindent {
+	text-indent: 0;
 }
 
 .monospace {
