@@ -822,7 +822,7 @@ war gewöhnliche Ölfarbe,
 »Merkwürdig!«, meine Harst. »Mit solchen Spielereien
 wie Stempeln, Geheimzeichen oder dergleichen geben sich die
 hiesigen organisierten Unterwelten doch im allgemeinen wenig
-ab. Das Gehört mehr zum Rüstzeug moderner Romansabrikanten,
+ab. Das Gehört mehr zum Rüstzeug moderner Romanfabrikanten,
 obwohl ich persönlich vier …«
 
 Er brach mitten im Satze ab. »Mir fällt da etwas ein …
@@ -980,671 +980,650 @@ nichts von den vier Geldgesuchen und der »126« darin.
 <h2>4. Kapitel.</h2>
 <h3>Der zweifelhafte Böcklin,</h3>
 
-Anatol Fragen lehnte in leisem Schreibsessel. Der Kopf
+Anatol Fraser lehnte in seinem Schreibsessel. Der Kopf
 war nach vorn gesunken, der Einschuß befand sich in der linken
-Schlage, die Hand mit der Waffe ruhte zwischen den Schunkeln,
-roch; in dem großen Zimmer von leicht gab Blättcheuulver.
-Auf den ersten Blick war der Entbrennt durchaus einwandfrei.
+Schläfe, die Hand mit der Waffe ruhte zwischen den Schenkeln.
+Es roch in dem großen Zimmer noch leicht nach Blättchenpulver.
+
+Auf den ersten Blick war der Tatbefund durchaus einwandfrei.
 Was mir ins Auge fiel, war zweierlei. Erstens
-stand eins der hohen « Milibglassheibeasenster vor dem breiten
-Diplomatenschreibtisch halb offen und war sestgestüht. Dann
-—» und dies schien mir noch wichtiger — zeigte der goldgelbe
-Seidenschirm der Schreibtischlampe, die eingemauerter war, zwei
+stand eins der hohen Milchglasscheibenfenster vor dem breiten
+Diplomatenschreibtisch halb offen und war festgestützt. Dann
+— und dies schien mir noch wichtiger — zeigte der goldgelbe
+Seidenschirm der Schreibtischlampe, die eingeschaltet war, zwei
 <@pagebreak/>
-Dächer zu der finden Seite. Es konnten!sthadhafte Stellen
+Löcher an der linken Seite. Es konnten schadhafte Stellen
 sein, ich hielt sie für Kugellöcher.
 
 zu einer geistigen Auswertung dieser Beobachtungen kam
-ich jedoch zunächst ist, da ein mindestens ebenso bedeutsamer
-Owischenfall eintrat. Greap wandte sich ziemlich scharf an
+ich jedoch zunächst nicht, da ein mindestens ebenso bedeutsamer
+Zwischenfall eintrat. Greap wandte sich ziemlich scharf an
 Morris.
 
-»ob denke, es sollte Hier alles unberührt bleiben?(«,
+»Ich denke, es sollte Hier alles unberührt bleiben?!«,
 sagte er stark gereizt. »Wo ist der Brief Frasers, auf dem
-sich der Stange! des Mystisches befunden haben soll?«
+sich der Stempel des Walfisches befunden haben soll?«
 
 Der weit ältere Morris erwiderte ebenso knapp und
 kühl: »Nach der dessen flüchtigen Besichtigung ist das Zimmer
 hier abgeschlossen worden. Vor der Tür standen zwei Detektive,
-aus dem of stehen drei. Denn Zimmerschlüssel händigte ich:
-Ihnen ist: der Vorhalle aus. Der angefangene Brief lag dort
-neben dem großen Schreibblock Büttenpapier, Schmalzig bin.
+auf dem Hof stehen drei. Den Zimmerschlüssel händigte ich
+Ihnen in der Vorhalle aus. Der angefangene Brief lag dort
+neben dem großen Schreibblock Büttenpapier. Immerhin bin
 ich auch etwas erstaunt, daß der Brief verschwunden ist.«
 
-Greap war beeilte sibernervös. »Miß Ihrem »Immerhin«
-schossen Sie mir den Brief nicht zurück, Morris! Wie lauteiz’
-das Schreiben?«! …
+Greap war heute übernervös. »Mit Ihrem »Immerhin«
+schaffen Sie mir den Brief nicht zurück, Morris! Wie lautete
+das Schreiben?«
 
-»ach entsinne mich nur ungefähr auf den Inhalt, Kaptain
-Hutter«, erklärte Morris sehr Sessel!, »Es war ein einzelnes
-Derart Büttenpapier von jenem Block Schreibpapier. Als
-Datum war der heutige Tag rechts oben angegeben. darunter
+»Ich entsinne mich nur ungefähr auf den Inhalt, Kaptain
+Hutter«, erklärte Morris sehr offiziell. »Es war ein einzelnes
+Blatt Büttenpapier von jenem Block Schreibpapier. Als
+Datum war der heutige Tag rechts oben angegeben, darunter
 jedoch nicht Chicago, sondern merkwürdigerweise Harpington,«
 
-»Maler! Harpington? China das Rest an der Seeartige?«
+»Wie?! Harpington? Etwa das Nest an der Seenenge?«
 
-»Wahrscheinlich. Es gibt nur« ein Harpington, Kaptain
+»Wahrscheinlich. Es gibt nur ein Harpington, Kaptain
 Hutter.« Der gekränkte Morris wurde noch eisiger.
 
-»Weitere! Und — was mach’«?« …
+»Weiter! Und — was noch?«
 
-»Die ’Anredo lautete: »Mr. Blawal, zu …«
+»Die Anrede lautete: »Mr. Blawal, zu …«
 
-Tieren streckte »en Arm aus,
+Greap streckte den Arm aus,
 
-»Soll — wirklich Blawal? Dja … war?«
+»Halt — wirklich Blawal? Bla … wal?«
 
 »Ja doch … Was ist denn schon groß dabei?!«
 
-»und das fragen Sie, der Sie Form den Stempel unter
-Seilen gesehen haben?!«, fuhr Greap ihn fast grob an.
+»und das fragen Sie, der Sie doch den Stempel unter
+den Zeilen gesehen haben?!«, fuhr Greap ihn fast grob an.
 
-den
 Es war eine sehr peinliche Szene angesichts des Toten.
 
 <@pagebreak/>
 »Natürlich sah ich den Stempel, da stand auch »Blawal«
 — natürlich, — ich glaubte, der Stempel rührte von Fraser
-her … Die Annahme lag doch sehr nahe, den — — da,
+her … Die Annahme lag doch sehr nahe, denn — — da,
 betrachten Sie mal dieses Löschblatt, Kaptain Hutter, das hat
-Tropfen übte den noch feuchten Stempel gelegt, um sich die
-Hand beim Schreiben nicht zu beschmutzen …« …
+Fraser über den noch feuchten Stempel gelegt, um sich die
+Hand beim Schreiben nicht zu beschmutzen …«
 
 Greap betupfte sich die Stirn. »Es … es ist … hier
-scheußlich heiß …«, sagte er in ganz veränderten Tone. »Ich
+scheußlich heiß …«, sagte er in ganz verändertem Tone. »Ich
 bin heute nicht ganz auf der Höhe, scheint mir … Entschuldigen
-Sie, Morris, — — diese Geschichte gebt mir sehr nahe.«
-Er streckte ihm die Hand hin. »Also — was halte Fraser noch:
-geschrieben … an diesen Hinsah?«
+Sie, Morris, — — diese Geschichte geht mir sehr nahe.«
+Er streckte ihm die Hand hin. »Also — was hatte Fraser noch
+geschrieben … an diesen Blawal?«
 
-Morris war ein gutmütiger Mann. »Sehr vernäünustig,
+Morris war ein gutmütiger Mann. »Sehr vernünftig,
 daß Sie einlenken, Greap …« Wir waren hier ganz unter
--yus, und er ließ die Anrede »Hutter« nunmehr fallen. »Fraser
+uns, und er ließ die Anrede »Hutter« nunmehr fallen. »Fraser
 hatte ungefähr folgendes geschrieben:
 
-Mr. Blawal,«
-unsere Beziehungen müssen unbedingt endgültig geregelt
-werden. Ich mache auf keinen Fall weiter mit. und gerade
-die setzten Ereignisse haben mir den einzigen Weg gezeigt,
+> Mr. Blawal,
+
+> unsere Beziehungen müssen unbedingt endgültig geregelt
+werden. Ich mache auf keinen Fall weiter mit, und gerade
+die letzten Ereignisse haben mir den einzigen Weg gezeigt,
 der für mich gangbar ist. Ich werde …«
 
-Mit diesem «&öchck werde« schloß das Schreiben. Zwei
-Finger unter dieser letzten Seile befand sich der Stempel,«
+Mit diesem »Ich werde« schloß das Schreiben. Zwei
+Finger unter dieser letzten Zeile befand sich der Stempel,«
 
-Tiger fehlte Alm Schreibtisch und halb die zwecklose
+Greap lehnte am Schreibtisch und hatte die zwecklose
 Brille emporgeschoben. Er betrachtete den Toten mit einem
 so schmerzlichen, weltentrückten Blick, daß man hätte annehmen
-können, Grafen habe ihm persönlich sehr nahegestanden. Und
-hiervon konnte doch keine Rede sein. Anatol! Fraser war
-alten und uns bis zur verflossenen Nacht ein Fremder gewesen.
+können, Fraser habe ihm persönlich sehr nahegestanden. Und
+hiervon konnte doch keine Rede sein. Anatol Fraser war
+Greap und uns bis zur verflossenen Nacht ein Fremder gewesen.
 
 Charly Greap riß sich zusammen.
-»Einsicht seltsame Geschichte«, meinte er mehr Sir sich.
+
+»Eine sehr seltsame Geschichte«, meinte er mehr für sich.
 
 »Glauben Sie an Selbstmord, Morris?«
 
-».« €«
-»Rom.
+»Nein.«
 
-Das drängten recht nach Morris. Dieser glänzende Detektiv
+Das klang so recht nach Morris. Dieser glänzende Detektiv
 <@pagebreak/>
-mit dem Sternen Gesicht machte nicht viel Worte. »Ich
-
-Laube an die Existenz einer Bande, die ganz im geheimen gleitet,
-Greap, Die Vorhalle der letzten Nacht haben mir dies
+mit dem ehernen Gesicht machte nicht viel Worte. »Ich
+glaube an die Existenz einer Bande, die ganz im geheimen arbeitet,
+Greap. Die Vorfälle der letzten Nacht haben mir dies
 zur Gewißheit gemacht. Der Diebstahl, die Ermordung Al
 Clarcs in dem Zimmer Miß Trolborns und der Tod Frasers
-hier, — das hängt erstes aus innigste miteinander zusammen,
-das ist eben Gangster-Arbeit.« —
+hier, — das hängt alles aufs innigste miteinander zusammen,
+das ist eben Gangster-Arbeit.«
 
-»Otveiselios«, nickte Greap zerstreut. »Und Ehre Verweise
+»Zweifellos«, nickte Greap zerstreut. »Und Ihre Beweise
 für … Mord?« Er deutete auf den stillen Mann im
-Schreibsessel. der noch über dem Kopf den Verbarg trug.
+Schreibsessel, der noch über dem Kopf den Verband trug.
 
-»Beweise?!« Morris hatte sich einen Klubsessel herauswill
+»Beweise?!« Morris hatte sich einen Klubsessel herangerollt
 und setzte sich. »Betrachten Sie mal den Lampenschirm,
+Greap.«
 
-paar.« …
 Greap winkte lässig ab. »Die beiden Löcher sah ich
-schon … Gut, sie liegen so, daß. eine Kugel vom offenen
-Fenster vom Hose her sie verursacht haben kann … Aber,
-dann hätte Fraser die Kugel von’vorn erhaltet haben müssen.«
+schon … Gut, sie liegen so, daß eine Kugel vom offenen
+Fenster vom Hofe her sie verursacht haben kann … Aber,
+dann hätte Fraser die Kugel von vorn erhalten haben müssen.«
+
 »Er kann gerade den Kopf gedreht haben«, sagte Morris
-prompt. »Schaffen Sie den Einschuß an. Sie finden keinerlei
+prompt. »Schauen Sie den Einschuß an. Sie finden keinerlei
 Pulverspuren. Die Kugel kam aus weiter Entfernung —
 mindestens vom Hofe her. Dabei bleibe ich.«
 
-Bisher hatte sich Harst vollkommen zurückgehalten, Jetzt
+Bisher hatte sich Harst vollkommen zurückgehalten. Jetzt
 blickte Greap ihn fragend an. Er trat an den Schreibtisch,
-nahm von der Platte einen schmalen, antworten Clsenbeinollftoes,
-klappte Ihn auf und fernab ihn görfichtig wir die
-Eichen Löcher. Der Stock bog sich zwar an den Enden durch,
+nahm von der Platte einen schmalen, wertvollen Elfenbeinzollstock,
+klappte Ihn auf und schob ihn vorsichtig durch die
+beiden Löcher. Der Stock bog sich zwar an den Enden durch,
 aber man erkannte trotzdem, daß das eine Ende nach dem
-offenen Fensterflügel, das andere auf den Toten wies …
+offenen Fensterflügel, das andere auf den Toten wies.
 
-»Und trotzdem …«, hatte Harst und entfernte den Felsloch
-wieder, »trotzdem wollen wir erst rumpelt Miß Glocke
+»Und trotzdem …«, sagte Harst und entfernte den Zollstock
+wieder, »trotzdem wollen wir erst einmal Miß Grace
 hören, auch den Hausmeister Bishop. — Houston, legen Sie
 die Tischdecke dort über den Toten. Und Sie, Wilkiens, holen
 die beiden. Falls …« — er machte eine Pause — »falls Miß
-
 Grace noch anwesend ist.«
+
 Greap warf ihm einen eigentümlich gespannten Blick zu.
 
 <@pagebreak/>
-»Kolombo, Harst, sie … wird nicht: Mohr da sein … —
-Setzen Sie, Wislkiens.«
+»Ich glaube, Harst, sie … wird nicht Mehr da sein … —
+Gehen Sie, Wilkiens.«
 
-Bau Houston, der trotz seiner Jugend bereits übergenug
-menschliches Lord, menschliche Verworfenheit und bringt
-Elend gesehen hatte, nahm die Tischdecke »und hob sie empor,
-ließ sie aber Liede: sinken. »Kaptain«, Worte er ernst. »dar!
-ich Mai durch den Lampenjchirip mit von: Schalldämpfer
-soviel ein?«
+Baby Houston, der trotz seiner Jugend bereits übergenug
+menschliches Leid, menschliche Verworfenheit und blutige
+Szenen gesehen hatte, nahm die Tischdecke und hob sie empor,
+ließ sie aber wieder sinken. »Kaptain«, meinte er ernst, »darf
+ich mal durch den Lampenschirm mit dem Schalldämpfer
+schießen?«
 
-Sreap!ächelte unmerklich. »Wicht nötig, Sausten. Daß
-die beiden Lesern absichtlich in die Seide gebohrt wurden,
-weiß zum Kerl!
+Greap lächelte unmerklich. »Nicht nötig, Houston. Daß
+die beiden Löscher absichtlich in die Seide gebohrt wurden,
+weiß auch Harst.«
 
-»da. mit Tresor Papivilihero, … uns vor, der sie wohnte,
-bückte die Chinese säubern sollen«, meinte Harst achselzuckend,
-»Es Hange « ja ach Seidenfädchen kaufen ntänqerarbeit.«
+»Ja, mit dieser Papierschere  … und der, der sie bohrte,
+hätte die Schere säubern sollen«, meinte Harst achselzuckend.
+»Es hängen ja noch Seidenfädchen daran. Anfängerarbeit.«
 
-Buch. Morris vorzog den harten Mund. »Nun Du!
-brümimic er, »wenn ihr es Jfowieso herausgefunden habt: Es
-dann?!: — Wenn ich Yogis: Mord, so meinte ich im stillen?
-Es Stellte der Anschein erweckt worden, als ob Fraser er
-Schlosses wurde — natürlich hat jemand die Wundränder gesäubert.
+Auch Morris vorzog den harten Mund. »Nun gut",
+brummte er, »wenn ihr es sowieso herausgefunden habt: Es
+stimmt! — Wenn ich sagte: Mord, so meinte ich im stillen:
+Es sollte der Anschein erweckt worden, als ob Fraser erschossen
+wurde — natürlich hat jemand die Wundränder gesäubert,
 und das muß eine Person mit sehr guten Nerven
+getan haben.«
 
-gesagt haben.«
-
-»Wie sie Gier? besitzt«, warf Harst ohne besonders Betonung
+»Wie sie Grace besitzt«, warf Harst ohne besonders Betonung
 hin.
 
 Wilkiens trat ein,
 
-ne »ii! weg …!«, rief er atemlos. »Auch der Haus
+»Sie ist weg …!«, rief er atemlos. »Auch der Hausmeister
+…«
 
-Meister …
-
-Tresor fragte nur: »Nafkiürlich!’ -«— Morris, Ihre Leute
-Gabeln die beiden Besinnen fassen. Wie ist das möglich?!«
+Greap sagte nur: »Natürlich! — Morris, Ihre Leute
+haben die beiden passieren lassen. Wie ist das möglich?!«
 
 »Alles ist möglich, wenn das Fraser-Haus einen zweiten
-Ausgang nach der Volk -Street besitzt, von dem man erst eines
-erzählt, wenn es zu spukt ist, Hielten Ausgang!soil gerade Miß
-Grace immer Vorstadt haben, aber das erzählte der Pförtner
-mir erst kurz nur Ihrem Eintreffen, Greap.«
+Ausgang nach der Polk-Street besitzt, von dem man erst etwas
+erfährt, wenn es zu spät ist. Diesen Ausgang soll gerade Miß
+Grace immer benutzt haben, aber das erzählte der Pförtner
+mir erst kurz vor Ihrem Eintreffen, Greap.«
 
-Terrain Greap hatte dies Saiten auf der Stirn.
+Kaptain Greap hatte dicke Falten auf der Stirn.
 
-00, das hätte uns schon in der Nacht gesagt werden]
+»Ja, das hätte uns schon in der Nacht gesagt werden
 <@pagebreak/>
-missen. Nicht einmal Fraser tat es. Sehr auffällig das — —
-die vieles. — Harst, Ihr Bootssteg?«
+müssen. Nicht einmal Fraser tat es. Sehr auffällig das — —
+wie vieles. — Harst, Ihr Vorschlag?«
 
-» Wahrscheinlicher getan wie das, 1,45 Sie tun wollen:
-Den Schritten otiieikuiter bereit halten lassen!« …
+»Wahrscheinlicher genau wie das, was Sie tun wollen:
+Den schnellsten Polizeikutter bereit halten lassen!«
 
-— Greap Kannte arg Bntzelippe, »Sie — nach Herrichten,
-weinen Sie?« —
+Greap kaute die Unterlippe. »Also — nach Harpington,
+meinen Sie?«
 
-»30 … Oh hoffe, wir fassen Miß Grace und den Hausmeister
-von ab, falls nicht gerade Frasers Perivatjacht eines
-von den Banknoten Al, die lich hier einige Wirkender in
-Hamburg bei Diwan u. Los bauen ließ: Garantiert: dreißig
-Knoten Wuwaolgeschwindig8eit.« Zum
+»Ja … Ich hoffe, wir fassen Miß Grace und den Hausmeister
+noch ab, falls nicht gerade Frasers Privatjacht eines
+von den Rennbooten ist, die sich hier einige Millionäre in
+Hamburg bei Bloom u. Voß bauen ließ: Garantiert dreißig
+Knoten Maximalgeschwindigkeit.«
 
-Morris erklärte sehr Gelasses: »Der große Motorkit’ter
-der Wasserpolizei »Chicago 11« Lauf! dreiundreißig, Bad Frage:
-sacht ist ein alter Benzinstänker von vielleicht zehn
+Morris erklärte sehr Gelassen: »Der große Motorkutter
+der Wasserpolizei »Chicago 11« läuft dreiundreißig, und Frasers
+Jacht ist ein alter Benzinstänker von vielleicht zehn
 Knoten.«
 
 Greap lebte auf, »Wilkiens. »Chicago 11« liegt in einer
-Stunde bereit, Etwas fix, Wilkiens! — Und »Sie, Houston,
-nehmen ein Auto und holen von daheim unsere Regeu:;näutel
-und sonstiges für längere Wasserfahrt. Dieser Alt, Blawal
+Stunde bereit. Etwas fix, Wilkiens! — Und Sie, Houston,
+nehmen ein Auto und holen von daheim unsere Regenmäntel
+und sonstiges für längere Wasserfahrt. Dieser Mr. Blawal
 wird sich wohl zuletzt wirklich als Blauwal, als ein sehr gern
-schwimmendes Säugetier, entpuppen und mit den! »schwarzen
-Wer!« identisch sein, den Sie so gut kennen. — Fix, Wilkiens.«
+schwimmendes Säugetier, entpuppen und mit dem »schwarzen
+Kerl« identisch sein, den Sie so gut kennen. — Fix, Wilkiens.«
 
-Harst schien plötzlich noch Kunstschütze zu verspüren. »Ach
+Harst schien plötzlich noch Kunstgelüste zu verspüren. »Ich
 möchte mir den Gemäldesaal nochmals ansehen, Greap …
-Gehen wir nach oben … — Nichts wahr, Morris, Fragen ließ
-vor« heute morgen den zweifelhaften Böcklin, den As Clarc
-um bei Leib geschnürt trug, wieder in dem Rahmen befestigen?
+Gehen wir nach oben … — Nicht wahr, Morris, Fraser ließ
+doch heute morgen den zweifelhaften Böcklin, den Al Clarc
+um den Leib geschnürt trug, wieder in dem Rahmen befestigen?
 — Gut, — ich möchte auch zur Probe mal auf eure Art hier
 Geld verdienen. Wetten, Greap, daß das Bild nicht mehr
-vorhanden ist? Tausend Dollar — bitte!««
+vorhanden ist? Tausend Dollar — bitte!«
 
 Greap hatte eine eigene Art, die Menschen mit halb gesenktem
-Kopf von unter her anzusehen. Er fixierte Harst so.
+Kopf von unter her anzusehen. Er fixierte Harst so
+eine geraume Weile.
 
-eine geraume Weile …
 »Jetzt«, sagte er und hob etwas die Schultern, »jetzt
-
-scheinen Sir doch mehr zu wissen als ich …
+scheinen Sie doch mehr zu wissen als ich …«
 
 <@pagebreak/>
 »Erheblich mehr, aber — es ist kein erhebendes Gefühl
-für mich, dieses Erhebliche, es kapituliert mich mehr, ehrlich
+für mich, dieses Erhebliche, es deprimiert mich mehr, ehrlich
 gesagt«. Er drückte diesen Gleichklang von erheblich und
-»erbebend« — im Englischen anders aus, sagt noch: schlossen.
-Im Deutschen muß ich mich mit. diesen Worten begnügen. Sie
-Mitteln trotzdem.
+»erhebend« im Englischen anders aus, fast noch schroffer.
+Im Deutschen muß ich mich mit diesen Worten begnügen. Sie
+wirkten trotzdem.
 
 Greap traten abermals die Schweißperlen auf die Stirn.
 Dann drehte er sich schroff um und meinte etwas heiser: »Gut,
-geben wir in den Genmäidesaal.«
+gehen wir in den Gemäldesaal.«
 
-Der Rahmen des fragwürdigen Böcklin »Blaugsgriiner
-
+Der Rahmen des fragwürdigen Böcklin »Blaugrüner
 Walfisch« war leer.
-Warst hätte diese tausend Doller-gewonnen-
 
-«
+Harst hätte diese tausend Dollar gewonnen.
 
 <h2>5. Kapitel.</h2>
-<h3>Am Nebel.</h3>
+<h3>Im Nebel.</h3>
 
-Amerikanische Berhä!nisse etwa mit deutschem Maßstab
-zu messen, wäre Geranien verkehrt wie der immer wieder gehörte
-Vorwurf, der DurchsednitiSaauerikouer besäße Keinerlei Sinn
-für Kunst und ersticke in der ödesten Sachlichkeit, Geradezu
-grotesk nimmt es sich aus, wenn Berichterstatter großer’
+Amerikanische Verhältnisse etwa mit deutschem Maßstab
+zu messen, wäre genau so verkehrt wie der immer wieder gehörte
+Vorwurf, der Durchschnittsamerikaner besäße Keinerlei Sinn
+für Kunst und ersticke in der ödesten Sachlichkeit. Geradezu
+grotesk nimmt es sich aus, wenn Berichterstatter großer
 Blätter bei einem kleinen Sprung über den Ozean »nach
-drüben« den Amerikaner nach den Augenblickseindrücken be-.
-urteilen, die sich zu nur günstiger Kritik veranlassen, Man darf
-nie vergessen, Mal sie Vereinigten Staaten nur durch Zu;
-Wanderung aus Europa eine »Nation« geworden sind. Diese
-Nation zeigt keine einheitliche Zusammensetzung, in Ohr-:
-Lage zum Beispiel überwiegt das ursprünglich deutsche Clement
-vollkommen. Sinn Fähre die Wolkenkratzer als »Symbol« des
-modernen Amerikanismys an. Daß eine Weltstadt wie Chicago
-in ihrer City das Geschäftsleben mit Hilfe der Nachhängen
-zusaumaendräung!l, daß Taues Wolkenkratzer etwa mit
+drüben« den Amerikaner nach den Augenblickseindrücken beurteilen,
+die sie zu ungünstiger Kritik veranlassen. Man darf
+nie vergessen, daß sie Vereinigten Staaten nur durch Zuwanderung
+aus Europa eine »Nation« geworden sind. Diese
+Nation zeigt keine einheitliche Zusammensetzung, in Chicago
+zum Beispiel überwiegt das ursprünglich deutsche Element
+vollkommen. Man führt die Wolkenkratzer als »Symbol« des
+modernen Amerikanismus an. Daß eine Weltstadt wie Chicago
+in ihrer City das Geschäftsleben mit Hilfe der Hochhäuser
+zusammendrängt, daß ganze Wolkenkratzer etwa nur
 von Ärzten bewohnt werden, — nichts als gesunder Geschäftssinn.
 
 <@pagebreak/>
-— Und dann: Die förmlichen Berhäitniljet Nur Witz »Hole
-Insel, daß jeder Vergleich, mit Europa lächerlich I. Der
-unruhigen-See, 68 dessen Südwestecke Spionage birgt, he! etwa
-dritte/den Stäherimbalt die die Schweiz! Jim Nordteil liegt
-die konalacftige natürliche ’Borbindung nach Alten hin zu dem
-fast evwpso großen Baron-See … Biester Katz! ist toatnierbhin
-jtd Seien breit. Zur Zeit der Gudianerkämpfe Geiste Diele
-Zweiteilige eine große Rolle. Die dort in der Nahe befindlichen
-Inseln sind ist Gegners Indianerromanen (Lederstrumpf) vielfach
-erwähnt. Da das Nordufer des Baron-Sees wurde
-gehört, ist der Siisssverkehr und … der Wkohol):in geh
-äußerst lebhaft. Große Fracht- und ’Possagierdum; iz! 59-
-Jahren den See, den man getrost als Binnensee bezeichnen
+Und dann: Die räumlichen Verhältnisse! Nur ein Beispiel,
+daß jeder Vergleich mit Europa lächerlich ist. Der
+Michigan-See, an dessen Südwestecke Chicago liegt, hat etwa
+denselben Flächeninhalt wie die die Schweiz!! im Nordteil liegt
+die kanalartige natürliche Verbindung nach Osten hin zu dem
+fast ebenso großen Huron-See. Dieser Kanal ist immerhin
+zwei Meilen breit. Zur Zeit der Indianerkämpfe spielte diese
+Seenenge eine große Rolle. Die dort in der Nähe befindlichen
+Inseln sind in Coopers Indianerromanen (Lederstrumpf) vielfach
+erwähnt. Da das Nordufer des Huron-Sees zu Kanada
+gehört, ist der Schiffsverkehr und … der Alkoholschmuggel
+äußerst lebhaft. Große Fracht- und Passagierdampfer befahren
+den See, den man getrost als Binnensee bezeichnen
 kann. Bei Nord- oder Nordoststurm (und Chicago, die
-»Durchsah!«) kann ein Lied davon gingen, tobt der Nötigen See
-nicht viel wilder als etwa die Ostsee. und die richtigen
+»Windstadt«) kann ein Lied davon singen, tobt der Michigan-See
+nicht viel milder als etwa die Ostsee, und die riesigen
+Wellenbrecher, die den Hafen Chicagos schützen, verschwinden
+im Wogengischt genau so wie etwa die Molenspitzen eines
+Ostseehafens. —
 
-Wellenbrecher, die den Holen Chicagos schoben. darum: den
-im Wogengischt genau so wie etwa die Molxuspiben Flurs
-Ostseehafens. — —
-
-Chicago 11 sauste mit 53 Knoten durch) die leicht bewegten
-Wasser des Michigan, An Bord befanden sich lediglich Braunes
-Leute und wir, im ganzen neun Alaun. Sparsam Morris Sollte
-die Ermittlungen in der Stadt fortsetzen. Per Große, ge
-denke und tun Teil leicht genossene Kutter stotterte ist
-all seinen Teilen unter der ungeheuren Kot der Motoren.
+Chicago 11 sauste mit 33 Knoten durch die leicht bewegten
+Wasser des Michigan. An Bord befanden sich lediglich Greaps
+Leute und wir, im ganzen neun Mann. Kaptain Morris Sollte
+die Ermittlungen in der Stadt fortsetzen. Der große, gedeckte
+und zum Teil leicht gepanzerte Kutter vibrierte in
+all seinen Teilen unter der ungeheuren Kraft der Motoren.
 Wir fuhren Kurs Nordnordost, Wilkiens, die ehemalige
-Wasserratte, steuerte, und Juni und 2i0 zweiter von des Chile
-spielten Maschinisten. Im Norden tust drohend eine schwarze
+Wasserratte, steuerte, und Smith und ein zweiter von der Elite
+spielten Maschinisten. Im Norden stand drohend eine schwarze
 Wolkenwand. Das Barometer fiel, wir gerieten sehr bald
-in eine völlige Staute, Segler und Motorjachten leuchteten
-dem sicheren Lande zu. bevor das Mindesten ausbrach, und als
-Chicagos Verstand mit den hellen Hochhäuusern unter dem
+in eine völlige Flaute. Segler und Motorjachten flüchteten
+dem sicheren Lande zu, bevor das Unwetter ausbrach, und als
+Chicagos Seefront mit den hellen Hochhäusern unter dem
 Horizont verschwand, war mit Ausnahme von einigen Dampfern
 die bereits unheimlich düstere Wasserfläche leer.
 
 <@pagebreak/>
-Ich hatte soeben mit den! Fernglas Wohnhaus Euch Stern
-
-seit Gewicht »George Washingio:a« draußen Erhöhen sobald
-
-und übergab es kleine Verliebt unserem allerliebster 3302
-
-sitzen-Baby, der gib steht Schmutz. Atems Nil: Ob Heraus meint,
-
-hatte, Sah Greap zwar jung aus, So bis? Haufen einem früh
-reisen »Jüngling. Aber Dinge Je«.teilte war &hie ehe,
-dieser junge Detektiv halte vier Ohren und vier Augen U!!!d
-ein verblüffend Leuchtgas Hin — — wie. eine tadellos konstruierte
+Ich hatte soeben mit dem Fernglas nochmals nach Frasers
+Jacht »George Washington« draußen Ausschau gehalten
+und übergab das kleine Fernrohr unserem allerliebsten
+Houston-Baby, der sich sehr schmuck seemännisch herausgeputzt
+hatte. Sah Greap schon jung aus, So glich Houston einem frühreifen
+Jüngling. Aber diese Frühreife war echte Reife,
+dieser junge Detektiv hatte vier Ohren und vier Augen und
+ein verblüffend wendiges Hirn — wie eine tadellos konstruierte
 Rennjacht.
-Houston sagte leise: »Sitzen lärmend vom. Mr. Schraut.
-— Was bha’ten Sie von der ganzen Veschichle’:«
 
-Er fühlte sich leicht auf das Kleine Stbnelljevuergelchtit,
-über dem noch die Ölleinwand lag. du seinen Mundwinkel
-wippte die »Galerie und Mr Sein »Sagen schielte ein! mit
-merklicher Spott. »In der irrt Kellner Außenwelt-Falles
-stehen eine Menge Hundenase«, fügte er tätig hinzu. »Ich
+Houston sagte leise: »Einen Moment noch, Mr. Schraut.
+— Was halten Sie von der ganzen Geschichte?«
+
+Er stützte sich leicht auf das kleine Schnellfeuergeschütz,
+über dem noch die Ölleinwand lag. In seinen Mundwinkel
+wippte die Zigarette und in seinen Augen flimmerte ein
+unmerklicher Spott. »In der einen Kammer vom Bennett-Hotel
+stehen eine Menge Farbentöpfe«, fügte er lässig hinzu. »Ich
 glaube, Kaptain Greap versteht sich auf die Gravierkunst —
-
 er kann alles.«
-oh blickte ihn forschend zu. Er brauchte nicht mehr zu
 
-sage.
-»Der Spitze Bargeld ist mir unklar«, wo! ij: vorsichtig.
-»Greap hat sich entschieden in der Wein! der Sattel, die Sache
-zu fördern. vergessen.«
+Ich blickte ihn forschend zu. Er brauchte nicht mehr zu
+sagen.
 
-Du meinem Erstaunen entgegnete Houston Freund: »Rein,
-—» das Mittel warteten richtig, es ist besser, daß Anatol
-Fraser sich erschoß. Der Wann hat uns machte grob belogen.
-Er sagte. er sei aus dem Klub gekommen »elf or 8’e »Blutspuren
-in der Vorhalle fand und dem … niedergeschlagen wurde.
-Der Knüttel war merkwürdigerweise die scharfe Hatte des
-Sabrstuhl!bßactes. Harst weiß das auch. und Greap desgleichen.
-Aber es gebt hier mal wieder nach den alten Spruch: Getrennt
-marschieren, vereint sülageul Dich jeder unserer Eis
-her, Sie eingerechnet, arbeiten Du! eigene Rechnung! Ich
-selbst weiß sehr viel, und dennoch finde ich keinen Rein. Greap
-hat den Stempel aus einem Sitz Puemnatikqmumi geschnitten,
+»Der ganze Zweck ist mir unklar«, meinte ich vorsichtig.
+»Greap hat sich entschieden in der Wahl der Mittel, die Sache
+zu fördern, vergriffen.«
+
+Zu meinem Erstaunen entgegnete Houston prompt: »Nein,
+— das Mittel war schon richtig, es ist besser, daß Anatol
+Fraser sich erschoß. Der Mann hat uns nachts grob belogen.
+Er sagte, er sei aus dem Klub gekommen als er die Blutspuren
+in der Vorhalle fand und dann … niedergeschlagen wurde.
+Der Knüttel war merkwürdigerweise die scharfe Kante des
+Fahrstuhlschachtes. Harst weiß das auch und Greap desgleichen.
+Aber es geht hier mal wieder nach dem alten Spruch: Getrennt
+marschieren, vereint schlagen! Und jeder unserer Größen,
+Sie eingerechnet, arbeiten auf eigene Rechnung! Ich
+selbst weiß sehr viel, und dennoch finde ich keinen Reim. Greap
+hat den Stempel aus einem Stück Pneumatikgummi geschnitten.
 <@pagebreak/>
-Greap war holte Da stolz allein unterwegs und
-Matrosen- Haus. er hatte sich ja alle Doppelschlüssel aufgeboten,
-er »angelte« den Bogen Büttenpapier, und als Fraser
-von Stempel fand, schrieb er mit l;ervorragender Kaltblütigkeit
-den Seltsamen Briesonsoang mit »Harpington« als Ablenkendes
+Greap war heute ganz früh allein unterwegs und
+im Fraser-Haus, er hatte sich ja alle Doppelschlüssel ausgebeten,
+er »stempelte« den Bogen Büttenpapier, und als Fraser
+den Stempel fand, schrieb er mit hervorragender Kaltblütigkeit
+den Seltsamen Briesanfang mit »Harpington« als Absenderort
 und jagte sich die Kugel in die Schläfe. Miß Grace
 aber wollte Mord vortäuschen, öffnete das Fenster, durchlöcherte
-den Lampenschirm, sänbert2s den Einschuß mit Schwamm
-und Wasser und entfloh. mit dem verdammten Bild und dem
-alten Bishop. Ich: schätze, Ihr Freund Harst hat Ihnen vorhin
-am Strick genau denselben »Herzog gehalten.«
+den Lampenschirm, säuberte den Einschuß mit Schwamm
+und Wasser und entfloh mit dem verdammten Bild und dem
+alten Bishop. Ich schätze, Ihr Freund Harst hat Ihnen vorhin
+am Heck genau denselben Vortrag gehalten.«
 
 Ich nickte nur.
 
-»Vielleicht«, meinte Baby Houston sinnend, »daß er schreit
+»Vielleicht«, meinte Baby Houston sinnend, »hat er Ihnen
 auch erklärt, daß Fraser den Bankräuber Al Clarc erschoß
-und im Flur die Hindernisse Ausbeute … Ich gehe jede Wolke
-ein, daß des sich so verhalf. Ach will Ihnen auch noch etwas
-sagen, Mr. Schrank: Es gibt eine Blawal- Bande. Greap hat
-durch Strich aus dem Büro des Bürgermeisters die Geheimakten
-»Signal« holen lassen: Vor bewußte Stempel,
-Mr. Schrot, tauchte bereits dreimal auf und wurde alt) als
-Achterschiffsmalerei an einem Sthmüugqolerschouer beobochty!t,
+und im Flur die Hindernisse aufbaute … Ich gehe jede Wette
+ein, daß des sich so verhält. Ich will Ihnen auch noch etwas
+sagen, Mr. Schraut: Es gibt eine Blawal-Bande. Greap hat
+durch Smith aus dem Büro des Bürgermeisters die Geheimakten
+»Blawal« holen lassen: Der bewußte Stempel,
+Mr. Schraut, tauchte bereits dreimal auf und wurde auch als
+Achterschiffsmalerei an einem Schmugglerschoner beobachtet,
 den hier dieser »Chicago 11« in den Grund schoß. Tatsache
-alles. Sie werden mich nicht verraten. ich habe die Akten
-»Blawal« heimlich eingesehen. Die Schutznetz dort von des
-Abermals Sund lautet: »aQuriicksegen. Abwarten. Die
+alles. Sie werden mich nicht verraten, ich habe die Akten
+»Blawal« heimlich eingesehen. Die Schlußnotiz dort von des
+Oberchefs Hand lautet: »Zurücklegen. Abwarten. Die
 Öffentlichkeit soll nicht beunruhigt werden.«
 
 Wenn Houston so ehrlich war, wollte auch ich nicht
-
 schweigen.
-»Greap hat den Brief verschwinden fassen, er war als
 
-erster in Tresors ’Privakbüro. Er hat sich zunächst schwere Vorwiürse
-gemacht, wohl er Fraser so halb und halb in bei! Tod
-trieb.« …
+»Greap hat den Brief verschwinden lassen, er war als
+erster in Frasers Privatbüro. Er hat sich zunächst schwere Vorwürfe
+gemacht, weil er Fraser so halb und halb in den Tod
+trieb.«
 
 »Er schwitzte«, meinte Houston fast traurig. »Und wie
-Iscywibte elf Er war ja vollkommen verstört … — Hat Mr.
+schwitzte er! Er war ja vollkommen verstört … — Hat Mr.
 <@pagebreak/>
-Harst Dünen irgend eine Lösung angedeutet? Etwa daß er
-Grafen für einen Blawal- Gangster hält?«
-Houstons klare helle Augen lagen fest auf meinem See
+Harst Ihnen irgend eine Lösung angedeutet? Etwa daß er
+Fraser für einen Blawal-Gangster hält?«
 
-sieht.
+Houstons klare helle Augen lagen fest auf meinem Gesicht.
 
-» Würdig, Houston, nichts davon … Er mißt dem Brief
-die größte Bodensatz bei, besonders der Ortsangabe Harpington.
+»Nichts, Houston, nichts davon … Er mißt dem Brief
+die größte Bedeutung bei, besonders der Ortsangabe Harpington.
 Deshalb sind wir ja auch hinter Miß Grace her und
-werden Harpington einen Besuch abstatten. Bach möchte behaupten,
-aus Harst und Greap!sehen nicht völlig klar —
-noch nix;?t. Was mich betrifft, so neige ich der Ansicht zu,
-Angreifer sbchrieb den seltsamen Brief absichtlich, um der Polizei
-einer Wink zu geben. Alles wollte er nicht offenbaren.
-Ttielseicht —« das ist eine sehr wenig zuverlässige Annahme
-von! mir — beginnt sich Fraser in Erpresserbanden.«
+werden Harpington einen Besuch abstatten. Ich möchte behaupten,
+auch Harst und Greap sehen nicht völlig klar —
+noch nicht. Was mich betrifft, so neige ich der Ansicht zu,
+Fraser schrieb den seltsamen Brief absichtlich, um der Polizei
+einen Wink zu geben. Alles wollte er nicht offenbaren.
+Vielleicht — das ist eine sehr wenig zuverlässige Annahme
+von mir — befand sich Fraser in Erpresserhänden.«
 
-Sausten nahm eine neue Zigarette. »Dann — war auch
-er eilt Schlucke, Mr. Schraut, war Helfershelfer dieses Blawal
+Houston nahm eine neue Zigarette. »Dann — war auch
+er ein Schurke, Mr. Schraut, war Helfershelfer dieses Blawal
 … Schade, daß die Nachforschungen nach dem Manne,
 der die vier »Geldgesuche« einrückte, ergebnislos geblieben
-Stich. Ich behaupte, Grafen ließ sich bestehlen und steckt bis
-zum Kinn in dieser!chmntigen Geschichte.« Er zuckte unwillig
-die Achseln. »Es wäre besser, Tieren würde Farbe bekennen,
-nachdem eilen viel Farbe versteimpelt hat. Die Sache
-kamt ihr! das Genick brechen,«
+sind. *Ich* behaupte, Fraser ließ sich bestehlen und steckt bis
+zum Kinn in dieser schmutzigen Geschichte.« Er zuckte unwillig
+die Achseln. »Es wäre besser, Greap würde Farbe bekennen,
+nachdem er so viel Farbe verstempelt hat. Die Sache
+kann ihm das Genick brechen,«
 
 Unser Mann ganz vorn, der auch ein Fernrohr bediente,
-rief uns zu: »Focht in Sicht! Große Jacht mit zwei Masten
-und beschlagenen Segeln. Haust Nordnordost. Es kann Frasers
-Versteck sein.«
+rief uns zu: »Jacht in Sicht! Große Jacht mit zwei Masten
+und beschlagenen Segeln. Läuft Nordnordost. Es kann Frasers
+Jacht sein.«
 
-»Auf, ich werde Greap benachrichtigen«, — und Schiffes
+»Gut, ich werde Greap benachrichtigen«, — und ich stieg
 die kleine Treppe hinab. In der ersten Kajüte (dahinter lagen
-Büchse und eine kleinere Kajüten saßen Kaptain Charly und
-Herr? an dem rundet Sofatisch und machen Gesichter wie die
-Worten aus dem Morgenland, denen kein Stern den richtigen
+Küche und eine kleinere Kajüte) saßen Kaptain Charly und
+Harst an dem runden Sofatisch und machten Gesichter wie die
+Weisen aus dem Morgenland, denen kein Stern den richtigen
 Weg zeigt. Vor ihnen lag ein zerknittertes Blatt Büttenpapier
-mit verwischten Waoaslstempet: Frasers Abschiedsbvries!
+mit verwischten Walstempel: Frasers Abschiedsbrief!
 
-Harst rauchte kalt. Ein Schreckens Zeichen. Und Charly
+Harst rauchte kalt. Ein schlechtes Zeichen. Und Charly
 <@pagebreak/>
-Greap rauchte gar nicht. »Sie kommen wie gerufen. Schraut«,
-meinte er ziemlich matt. »Ich hatte den »Brief verschwinden
-lassen, und ich habe den Stempel …
+Greap rauchte gar nicht. »Sie kommen wie gerufen, Schraut«,
+meinte er ziemlich matt. »Ich hatte den Brief verschwinden
+lassen, und ich habe den Stempel …«
 
-»Danke, — bekommt Nach es Mister :, lieber Greap, Jetzt
-siegt Orinqenderes vor. Die Fraser-Jacht ist in Sicht,«
+»Danke, — bekannt! Auch Houston, lieber Greap. Jetzt
+liegt Dringenderes vor. Die Fraser-Jacht ist in Sicht,«
 
-Die beiden Schmerzten hoch.
+Die beiden schnellten hoch.
 
-»Endlich! Sobald wir Grace Croslborn an Bord haben,
-werden wir wohl etwas klüger sein«, nie] Greap bissig. »Diese
-junge Dame führt uns alle am Narrenseil. Hall! zum Beispiel
-erklärte mir während der Aussprache her, Grace habe Al
+»Endlich! Sobald wir Grace Trolborn an Bord haben,
+werden wir wohl etwas klüger sein«, rief Greap bissig. »Diese
+junge Dame führt uns alle am Narrenseil. Harst zum Beispiel
+erklärte mir während der Aussprache hier, Grace habe Al
 Clarc als Dieb angeworben. Nun steht die Geschichte völlig
-aus dem Kopf.«
+auf dem Kopf.«
 
-Er schritt zur Sir, stülpte die Mütze über und warf noch
-einen Blick auf das Barometer, »Donner, — ob vier Strich
-gefoltert! Das wird ein nettes Unwetter geben.«
+Er schritt zur Tür, stülpte die Mütze über und warf noch
+einen Blick auf das Barometer. »Donner, — noch vier Strich
+gefallen!! Das wird ein nettes Unwetter geben.«
 
-Und der Michigan-See sah auch q61z3!so aus als ob wir
-hier noch Windstärke 12 erleben würde. Die Sonne stand
+Und der Michigan-See sah auch ganz so aus als ob wir
+hier noch Windstärke 12 erleben würden. Die Sonne stand
 noch außerhalb der schwarzen Wolkenwand, der See war zum
-Teil in Sonnenlicht getaucht?f. aber Dach Norden zu hauchte or
-sehr düster und unheimlich drein, man konnte genau Bekennern,
-wie weit der Regen begreife vorgerückt war. Dinge Reogongrenze
-zeichnete sich so scharf ab, daß sich aus die Tinte Fall
-berechnen ließ, wagt die Fraser-Jacht von der Finsternis
+Teil in Sonnenlicht getaucht, aber nach Norden zu schaute er
+sehr düster und unheimlich drein, man konnte genau erkennen,
+wie weit der Regen bereits vorgerückt war. Diese Regengrenze
+zeichnete sich so scharf ab, daß sich auf die Minute fast
+berechnen ließ, wann die Fraser-Jacht von der Finsternis
 verschluckt werden würde.
 
-»Wir kommen zu Spur«, meint«. Greap grimmig, »St dein
-Unwetter entwischt sie uns. Es ist besucht der »George
-Washington«, und Hunde Gott dem alten Benzinstänker, wenn
-der Orte! —
+»Wir kommen zu spät«, meinte Greap grimmig. »In dem
+Unwetter entwischt sie uns. Es ist bestimmt der »George
+Washington«, und gnade Gott dem alten Benzinstänker, wenn
+der Orkan ihn packt!!«
 
-»Noch tausend Meter«, meinte Knarrt.
+»Noch tausend Meter«, meinte Harst.
 
-Greap Sagte zücksichtslos: »Und bis zur Regengrenze!
-verlaufend, — + Houston, runden mit der Mantille von der
-Knallbiüchse! Ich will das Frauemimmer Badeort«
+Greap Sagte rücksichtslos: »Und bis zur Regengrenze
+zweitausend, — Houston, runter mit der Mantille von der
+Knallbüchse! Ich will das Frauenzimmer haben!«
 
-Ein blanker Zylinder glitt in das Geschülzmaul, der Verschluß
+Ein blanker Zylinder glitt in das Geschützmaul, der Verschluß
 klappte, Smith als gelernter Artillerist zielte, zog ab,
-und wir verfolgten mit den Gläsern den Anschlag der Granate.
+und wir verfolgten mit den Gläsern den Aufschlag der Granate.
 <@pagebreak/>
-Eine kleine Fontäne spritzte hoch — hundert 7leter
-
+Eine kleine Fontäne spritzte hoch — hundert Meter
 vor der Jacht.
-Aber der »Gerippe Washington« stoppte selbst auf diese
 
+Aber der »George Washington« stoppte selbst auf diese
 Warnung nicht,
 
-»Smith, — tiefer halten. Div Masten müssen zum
-Teufel Arzt sind wir im Roch!.«.
+»Smith, — tiefer halten … Die Masten müssen zum
+Teufel!! Jetzt sind wir im Recht.«
 
 Der zweite Schuß nahm nur oben den Wimpel mit.
 
 Inzwischen rückte die Regenwand sehr rasch näher.
 
-An Deck der Bach? befanden sich nur zwei Männer. Der
-am Diener war gruselige der alle Gallenbitter, der andere,
-Tor Ins mit dem Greis beobachtete,  konnte nur die überschlanke
+An Deck der Jacht befanden sich nur zwei Männer. Der
+am Steuer war zweifellos der alte Hausmeister, der andere,
+der uns mit dem Glase beobachtete, konnte nur die überschlanke
 Grace sein.
 
-Der dritte Schuß Bitte fehl, da die doch plötzlich Bitte
+Der dritte Schuß ging fehl, da die Jacht plötzlich Zickzackkurs
+lief.
 
-Lackhut lief.
-Greap fieberte … »Houston, Scheinwerfer einschalteuy!
+Greap fieberte … »Houston, Scheinwerfer einschalten!
+Der Regen ist da!!«
 
-Der »Regen ist da!!«
-Wir fuhren noch in bedrohlich stillen ’Wasser dahin, aber
-
+Wir fuhren noch in bedrohlich stillem Wasser dahin, aber
 was da vor uns nahte, waren die Vorposten des Orkans, —
+gekräuselte Striche, kleine Wellen und — — dann verschluckte
+ein Zipfel der Riesenwolke auch die Sonne.
 
-gebrauchte Striche, kleine Westen/»und — — dem verschluckte
-ein Gipfel der Kistenweise auch dir Dame …
 »Chicago 11« raste durch die Flut … Wir kamen näher,
+— urplötzlich dem ein Prasseln, Plätschern, — der Scheinwerfer
+blitzte auf, die Regenschnüre blinkten wie Perlenketten,
+und im Moment schwamm das Deck vor Nässe. Wir zogen die
+Ölkappen tief in die Stirn, wir sahen die Jacht noch, die erste
+größere Woge schnellte sie hoch empor, — — noch zweihundert
+Meter, aber die Dunkelheit nahm zu, und von den beiden
+Flüchtlingen waren nur Schatten sichtbar.
 
-—» Urplötzlich dem ein ’Prassein. Plätschern, — der Sche’nwerser
-bitte auf, die ’Regenschinire blinkten wie Perlenketten.
-und im Moment schwamm das Dort vor Nässe. Wir zogen ’die
-Verlangen rief in die Stirn, wir sahen die doch noch… die erste
-größere Woge schmollte sie hoch empor, — — mehr zweihundert
-Meter, aber die Dunkelheit nötig zu. sind von den beiden
-Stächts’ngen waren war Schatten sichtbar.
-
-Auch die verschwanden plötzlich, mich als wir die Bach!
-neben uns haltet. als nach schwierigen Moanvvyrieren’ Hall!
-und Houston hinübersprangen, fanden ein das Kutter festgebunden
+Auch die verschwanden plötzlich, und als wir die Jacht
+neben uns hatten, als nach schwierigem Manövrieren Harst
+und Houston hinübersprangen, fanden sie das Steuer festgebunden
 und in der Kajüte bereits ein halb Meter Wasser,
 
-Wir hatten gestoppt. Harst und Houston schwarzen sich
-zurück zu Bord. vor »Berge Washington« sank immer Schnellen,
-kenterte und zuckte wie ein Bleiklotz weg. In der Achterbordwand
+Wir hatten gestoppt. Harst und Houston schwangen sich
+zurück an Bord, der »George Washington« sank immer Schneller,
+kenterte und sackte wie ein Bleiklotz weg. In der Achterbordwand
 <@pagebreak/>
-bitte wir unter der Wasserlinie ein großes Sarges
+hatten wir unter der Wasserlinie ein großes langes
 Loch erkannt.
 
-»Die verdauen die:;wenden « Fault. war«, Lauernde Greap
-in verbissener ’Seutl, »Las Kommt davon. Leim Die kanadischen
-Klüger ihr.; Stiche 15 liede:by herrichten Suchen wo Grace
-und »Pikant Welch ne? Wohnung, bei Berg Unwetter Mut
-Schwinawesten bin vom See anzuvertrauen!«
+»Die verdammten treibenden Baumstämme", fluchte Greap
+in verbissener Wut. »Das Kommt davon, wenn Die kanadischen
+Flößer ihre Flöße so liederlich herrichten. Suchen wir Grace
+und Bishop! Welch ein Wahnsinn, bei dem Unwetter mit
+Schwimmwesten sich vom See anzuvertrauen!«
 
-»&]bringe 11« läutet? über Stuben. Gauner wieder kreisen
-wir wt halber Drei, Wir finster Bootshaken bereit. auch
-da? zweite Sweimwrersor arbeitete, — — und es goß und
-tätig da: Kutter raschelte wie betrunken, zuweilen neuesten
-die Seen Halunken die leere Luft,
+»Chicago 11« suchte zwei Stunden. Immer wieder kreisten
+wir mit halber Kraft, Wir hielten Bootshaken bereit, auch
+der zweite Scheinwerfer arbeitete, — — und es goß und
+stürmte, der Kutter taumelte wie betrunken, zuweilen peitschten
+die beiden Schrauben die leere Luft,
 
-Es By sieben Uhr abends ’gewordea. ’Ver Orkan halte
-sich ab5gelobt, Aber der Regent vier Nebel kam hinzu … und
-fröstelnd aßen wir ja der Kajüte bei Kellern See und Minen
+Es war sieben Uhr abends geworden. Der Orkan hatte
+sich ausgetobt. Aber der Regen blieb. Nebel kam hinzu und
+fröstelnd saßen wir in der Kajüte bei heißem Tee und einem
 warmen Gericht.
 
-Harst hatte eilte Karte ausgebreitet,
+Harst hatte eine Karte ausgebreitet,
 
-»Höret Sie Mai, Greap, — dieses Nest Harpington ist
-ja eine spielt:«, sagte es erstaunt.
+»Hören Sie mal, Greap, — dieses Nest Harpington ist
+ja eine Insel!«, sagte er erstaunt.
 
 »Natürlich — Insel, was sonst?!«
 
-»Lud der Ort selbst«
+»Und der Ort selbst?«
 
-»Sie Schiffswerft, hundert Einwohner, — — eilt Nest!!«
+»Eine Schiffswerft, hundert Einwohner, — — ein Nest!!«
 
 Harst pfiff leise durch die Zähne.
 
-— »Greap, dieses Nest dürfte von Geiern bewohnt sein«,
-meinte er ernst. »I) gebe Ihnen. einen guten Rat: Steuern
-Sie die Insel von Norden zu, nicht von Süden, wo der Ort
-und die Wert! und der kleine Hafen sich Schurken.«
+»Greap, dieses Nest dürfte von Geiern bewohnt sein«,
+meinte er ernst. »Ich gebe Ihnen einen guten Rat: Steuern
+Sie die Insel von Norden an, nicht von Süden, wo der Ort
+und die Werft und der kleine Hafen sich befinden.«
 
-Greap trank einen langen Erbrach.
+Greap trank einen langen Schluck.
 
 »Sie denken, daß …« — er vollendete den Satz nicht.
 
 »Walfisch-Kolonie!«, erklärte Harst sehr trocken. »Oder
 Geier-Kolonie, was dasselbe ist.«
 
-Greap senkte etwas den Kopf. Von unten bereit! schaute
-er Harst mit jenem unmerklichen Zwinkern zu, das vielleicht.
-zwischen kenntlichen Verschwörern sehr gut angebracht ist. »Hm,
-der Bauaustamm will Ihnen nicht recht zusagen, Hast.«
+Greap senkte etwas den Kopf. Von unten herauf schaute
+er Harst mit jenem unmerklichen Zwinkern an, das vielleicht
+zwischen heimlichen Verschwörern sehr gut angebracht ist. »Hm,
+der Baumstamm will Ihnen nicht recht zusagen, Harst.«
 
 <@pagebreak/>
 »Und die Schwimmwesten noch weniger«, meinte da zur
-allgemeinen Uöberraschung Baby Houston.
+allgemeinen Überraschung Baby Houston.
+
 Kaptain Charly war sichtlich sehr erstaunt über diese
+Äußerung.
 
-Äußerung …
-Pavillon fügte Taucher!! wurstig hinzu: »Es ist doch immer
+Houston fügte äußerst wurstig hinzu: »Es ist doch immerhin
+eine Schiffswerft, und der Eigentümer der kleinen, dichtbewaldeten
+Insel ist zugleich Besitzer der Werft, Amtsvorstand
+und … sonstiges.«
 
-bin eine Schiffswerft, und der Cigentüimner der kleinen. dichte
+»Das hat er von mir!«, meldete sich Wilkiens Baß.
+»Das Kindchen schmückt sich mit fremden Federn!!«
 
-bewaldeten Onkel ist zugleich Besitzer der Werft, Amtsvorstand
+»Bei Ihrer Glatze, Wilkiens …!!«, sagte das Baby frech
+und futterte weiter. »Da — ist nicht mal eine Pflaumfeder
+auszurupfen — abgeleitet nicht von Flaum, sondern von
+Pflaume, womit ich jedoch nicht Ihre Nase meine.«
 
-und …!rassiges.«!! …
-»Das hat er von wir!«, meldete sich Wilkiens Baß.
+Vielleicht wäre der gutmütige Wilkiens jetzt doch grob
+geworden. Aber die starke Erschütterung, die plötzlich durch
+den Kutter ging und die sogar zwei Teegläser umkippen ließ,
+beendete das Wortgefecht.
 
-»Das Kindchen schmückt sich mit fremden Geheult«
-»Bei Ihrer Glatze, Wilkiens …!!«, jagte Taus ’Baby frech)
+»Schotten dicht!«, brüllte Greap …
 
-mit zitterte weiter, »H3 — ist nicht? mal! eilte Pjlamnseder
+Houston war wie ein Blitz draußen …
 
-auszumalen — abgeleitet nicht
-Pljlaume, womit Ab jedoch Abt. Ihre Nase meine.«
-
-nicht von &Zlawa, sondern von
-
-Überreicht wäre der gutmütige Wilkiens jetzt da? grob
-
-geworden. Aber die glaube Erschütterung, die plötzlich du
-
-den Kutter ging und die sogar zwei Graslager umkippen lies,
-beendete das Fortgesetzt.
-
-»Schatten dicht!’«, brüllte Greap …
-
-Houston war wie ein ’Blilz draußen …
-
-Dann ein zweiter Glas, und der Knall des DBDuggeschützes
+Dann ein zweiter Stoß, — — und der Knall des Buggeschützes
 mischte sich in das Bersten und Knacken der Eisenplanken.
 
-Wir stürzten an Deck … Nebel, Weber, — — — — Regen,
+Wir stürzten an Deck … Nebel, Nebel, — — Regen,
 Regen … Finsternis …
 
-»Braut feuerten Star«, rief Greap dem »Baby zu.
+»Worauf feuerten Sie?«, rief Greap dem Baby zu.
 
-»Eine Jacht, Käpten, — — eine kleine Gab, — —
+»Eine Jacht, Käpten, — — eine kleine Jacht, — —
 dort … dort …«
 
-Über dieses »dort« war das Nichts, waren Nebelschleier,
+Aber dieses »dort« war das Nichts, waren Nebelschleier,
 Regenschauer, Dunkelheit.
 
 »Chicago 11« bekam böse Schlagseite, lag ganz schief.
-Das Heulen einer Dumpferen ans veranlaßte Greap, das kleine
+Das Heulen einer Dampfersirene veranlaßte Greap, das kleine
 Beiboot auszuschwingen. Der Dampfer stoppte. Es war ein
-Frachter ans Chicago. Der Käpten machte erst Ausflüchte,
-aber Charly Greap wurde steht energisch, und der Steamer
+Frachter aus Chicago. Der Käpten machte erst Ausflüchte,
+aber Charly Greap wurde sehr energisch, und der Steamer
 <@pagebreak/>
-überließ uns seinen Kutter und nahm nachher »Chic so 11«
-in Schlepptau. Smith blickt an Bord des Gheampfers als
-Wache. Er Eile den ’Bejehl, niemand von der Besatzung an
-Land in lassen und die Hakennasige: aufzufordern, das Dietrich
-verkauft; ich zu Kehrte.
+überließ uns seinen Kutter und nahm nachher »Chicago 11«
+in Schlepptau. Smith blieb an Bord des Dampfers als
+Wache. Er hatte den Befehl, niemand von der Besatzung an
+Land zu lassen und die Hafenpolizei aufzufordern, das Schiff
+vorläufig zu besetzen.
 
-Der Glauben der »Atlanta« verschwand mit uns gen
+Der Kutter der »Atlanta« verschwand mit uns gen
+Norden,
 
-»Norden,
-
-<h2>doch. Kapitel.</h2>
-<h3>Die Dusel Harpington</h3>
+<h2>6. Kapitel.</h2>
+<h3>Die Insel Harpington</h3>
 
 Und dieser Kutter war nicht. »Chicago 11«, hatte nur
 einem Hilfsmotor, ein Klappverdeck und krebste durch das
@@ -2270,7 +2249,7 @@ fanden wir die beiden Hausdetektive mit bösen Kopfwunden,
 fanden wir auch die gesosseliv Grace Sraser+&rolboru im dabei
 Betäubung. Außerdem verfügbar die Fortan-Brüder zum
 Über ein reiches Lager von Rauschmitteln, Wasser und ein
-mitten, Seit Monaten holten div vorangehen Polizisteukräste
+mitten, Seit Monaten holten div vorangehen Polizistenkräfte
 der Staaten Michigan und stilvoll (Chicago gehört zu 6l-
 Reis, während der Staat Michigan die Nordseite der großen
 Seen umfaßt) Kein so umfangreiches Schnaufen — und ’Diebes-
@@ -2556,7 +2535,7 @@ Gläsern Sie lich nicht zu sehr aus! Nicht das Blut war die
 Hauptsache, sondern die Patronenhülse unter der einen Teppichecke,
 <@pagebreak/>
 und die Küsse Rom nach einem frischen Schuß!« — €
-blickte naß Ei Aovaratetilch … Der Schnelltelegraph
+blickte naß Ei Apparatetisch … Der Schnelltelegraph
 schnarrte. Ein Papierstreifen lief ab …
 
 »Mir scheint …!ich«, meinte Greap gedehnt …
