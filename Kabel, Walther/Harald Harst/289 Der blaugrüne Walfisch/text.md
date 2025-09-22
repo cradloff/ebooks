@@ -1033,7 +1033,7 @@ Hutter.« Der gekränkte Morris wurde noch eisiger.
 
 Greap streckte den Arm aus,
 
-»Halt — wirklich Blawal? Bla … wal?«
+»Halt — wirklich Blawal? Dja … war?«
 
 »Ja doch … Was ist denn schon groß dabei?!«
 
@@ -1572,7 +1572,7 @@ Kaptain Charly war sichtlich sehr erstaunt über diese
 Äußerung.
 
 Houston fügte äußerst wurstig hinzu: »Es ist doch immerhin
-eine Schiffswerft, und der Eigentümer der kleinen, dichtbewaldeten
+eine Schiffswerft, und der Eigentümer der kleinen, dicht bewaldeten
 Insel ist zugleich Besitzer der Werft, Amtsvorstand
 und … sonstiges.«
 
@@ -1626,327 +1626,329 @@ Norden,
 <h3>Die Insel Harpington</h3>
 
 Und dieser Kutter war nicht. »Chicago 11«, hatte nur
-einem Hilfsmotor, ein Klappverdeck und krebste durch das
-Wasser wie eine lahme Flunder. Es war kalt, wir lagen ja
-Wolldecken gehüllt und verstohlen zu Schlafen, aber die Kanaille
-von Motor war Eiter jenes Lärmapparate, die Sogar
-Tote aufwecken könnten. Müdigkeit und ein Glas Modizinalivein
-wiegten mich Schließlich doch in das Cramimland vornüber,
-obwohl Wilkiens mit dem Petroieinnkorwer Sir abinühbend,
-einen Gestank verbreitete, der zu Vergoldete erinnert.
+einen Hilfsmotor, ein Klappverdeck und krebste durch das
+Wasser wie eine lahme Flunder. Es war kalt, wir lagen in
+Wolldecken gehüllt und versuchten zu schlafen, aber die Kanaille
+von Motor war einer jener Lärmapparate, die Sogar
+Tote aufwecken könnten. Müdigkeit und ein Glas Medizinalwein
+wiegten mich Schließlich doch in das Traumland hinüber,
+obwohl Wilkiens mit dem Petroleumkocher Sich abmühend,
+einen Gestank verbreitete, der an Ölfelder erinnerte.
 
-Der Morgen kam. Wie gerädert saß ich auf der horchten
-Bank und Maskierte weine eingeschl9enen Beine Üns5gereduet
-die schliefen noch.
+Der Morgen kam. Wie gerädert saß ich auf der harten
+Bank und Massierte meine eingeschlafenen Beine. Ausgerechnet
+*die* schliefen noch.
 
-Auf das Weib trommelte der Wegen, der Motor Kletterte,
-knallte, rasselte, die Petroleumlampe pendelt« hin usw her,
-und Wilkiens reichte mir einen dampfenden ’Alumininmberher
-Kasten. »Da — prima prima, —«—« Harst und der Kaptain sind
-draußen, Mr. Schraut. Wir befindet uns bereits zwischen
-den Kugeln und suchen die richtige, Vor hundert Jahren ist
-hier mehr Blut gestohlen, als in ein Genusses reingeht, und
-die Steine waren billig wie Schlag] wolle … Gerade der hielten
-sich die Rothäute am täuschten. »Arme Teufel, —« — alles
+Auf das Deck trommelte der Regen, der Motor Knatterte,
+knallte, rasselte, die Petroleumlampe pendelte hin und her,
+und Wilkiens reichte mir einen dampfenden Aluminiumbecher
+Kaffee. »Da — prima prima, — Harst und der Kaptain sind
+draußen, Mr. Schraut. Wir befinden uns bereits zwischen
+den Inseln und suchen die richtige. Vor hundert Jahren ist
+hier mehr Blut geflossen, als in ein Heringsfaß reingeht, und
+die Skalpe waren billig wie Schafwolle … Gerade hier hielten
+sich die Rothäute am zähesten. Arme Teufel, — — alles
 futsch, nur die moderne Romantik ist geblieben, und die schaut
 anders aus.«
 
 <@pagebreak/>
-Houston!aß neben mir. « Vielleicht verlieren auch wir
-die Steine«, meinte er mit äußerster Wurstigkeit. »Falls es
-zutrifft, daß diese Werft und die’es »Nett Harpington ein
-großes Banditenlaqer sind, werden wir wohl ein Gericht blaue
+Houston saß neben mir. »Vielleicht verlieren auch wir
+die Skalpe«, meinte er mit äußerster Wurstigkeit. »Falls es
+zutrifft, daß diese Werft und dieses Nest Harpington ein
+großes Banditenlager sind, werden wir wohl ein Gericht blaue
 Bohnen gratis bekommen.«
 
-Der Motor Hinwies und wir hörten wie der Kutter an
-Holz entlangschrammte. Kam lag er still.
+Der Motor schwieg und wir hörten wie der Kutter an
+Holz entlangschrammte. Dann lag er still.
 
-Die Vorhänge des Eingangs bewegten sich, Harst steckte
-nur den Kopf herein und flüsterte: »Lotse sprechen! Licht
-aus’
-Ich trank schleimiger den Becher leer, würgte ein Stück
-Bürhensleisch hinab und gingen Deck. Z’nlen Flandern Harst,
+Die Vorhänge des Eingangs bewegten sich. Harst steckte
+nur den Kopf herein und flüsterte: »Leise sprechen! Licht
+aus!«
+
+Ich trank schleunigst den Becher leer, würgte ein Stück
+Büchsenfleisch hinab und ging an Deck. Hinten standen Harst,
 Greap und zwei der Elite und machten den Kutter an den
-Ästen der im Wasser liegenden. durch den Sturm entwurzelten
-Tannen und Eichen Fest. Die Morgendämmerung
-kämpfte vergebens Herrn den noch immer dicken Uhr! und die
-gelegentlichen Regengüsse an. »Wir lagen hier 11 o’ner kle’nen
-Bucht, vor uns stand düster und schweigend ein dichter Wald
+Ästen der im Wasser liegenden, durch den Sturm entwurzelten
+Tannen und Eichen fest. Die Morgendämmerung
+kämpfte vergebens gegen den noch immer dicken Nebel und die
+gelegentlichen Regengüsse an. Wir lagen hier in einer kleinen
+Bucht, vor uns stand düster und schweigend ein dichter Waldstrich.
 
-strich.
-
-»Es ist die Gutes«, erklärte Greap ganz leise. »Drüben
-sieht das Seezeichen, daneben ein kle’ner selbsttätiger Leuchtturm
+»Es ist die Insel«, erklärte Greap ganz leise. »Drüben
+steht das Seezeichen, daneben ein kleiner selbsttätiger Leuchtturm
 mit Blinklicht. Es stimmt schon.«
 
-Dann erlaubte Ich mir die Frage, d’e die Sachlage
-wesentlich klärte. »Leicht den der Cigowiimer Blawal?!«
+Dann erlaubte Ich mir die Frage, die die Sachlage
+wesentlich klärte. »Heißt denn der Eigentümer Blawal?!«
 
 »Keine Rede! Wilkiens, der hier Bescheid weiß, behauptet
-er hieße »als Sauberkeit.«
+er hieße Jack Sunnersett.«
 
 Harst, der mit hochgeklapptem Mantelkragen dabeistand,
-meinte ironisch: »Namen Und Schal! mit Rauch. ab S’innersett
-soll o’n uralter Krone sein der sogar für seine Er-«
-bester ein? Kirche bauen ließ und einen Pfarrer aus eigenen
-Mittleren bezahlte. Allerdings gehören die Leute sämtlich zu
-irgend einer der vielen Sekten. Will klang redete was von
-»Brüdern vom he sitzen Fortan« das alles ist mir ziemlich
-gleichzeitig. Hauptsache bleibt« Die ganzen Bewohner hängen
-oder kleben wie Pech und Schwester zusammen, und Pech und
+meinte ironisch: »Namen sind Schall und Rauch. Jack Sunnersett
+soll ein uralter Knabe sein der sogar für seine Arbeiter
+eine Kirche bauen ließ und einen Pfarrer aus eigenen
+Mitteln bezahlte. Allerdings gehören die Leute sämtlich zu
+irgend einer der vielen Sekten. Wilkiens redete was von
+»Brüdern vom heiligen Jordan« das alles ist mir ziemlich
+gleichgültig. Hauptsache bleibt: Die ganzen Bewohner hängen
+oder kleben wie Pech und Schwefel zusammen, und Pech und
 <@pagebreak/>
-Schwager sind notwendige Utensilien der Hölle, Jagd man. —
-Von mir aus kam« es losgehen, Greap. Nur lege Ze’k verlieren.
-Der arme Geraten hat uns durch den Brief einen Wink
-gegeben, der uns Gemäuer sollte: Und daß Miß Grace den
+Schwefel sind notwendige Utensilien der Hölle, sagt man. —
+Von mir aus kann es losgehen, Greap. Nur keine Zeit verlieren.
+Der arme Fraser hat uns durch den Brief einen Wink
+gegeben, der uns genügen sollte. Und daß Miß Grace den
 Brief liegen ließ nachdem sie »Mord« konstruiert hatte, ist
-eins der vielen Unklarheiten in ihrem Berhalten’ Sie wird sie
+eins der vielen Unklarheiten in ihrem Verhalten. Sie wird sie
+aufklären müssen.«
 
-aufklären müssen.« …
 »Falls sie noch lebt«, meinte ich zweifelnd. Und das war
+meinerseits kein Auf-den-Busch-Klopfen.
 
-meinerseits kam Angaben-»Bu’ch- Klopfen.
-
-» Natürlich helllila!«, ein denke Kaptain Charly an Harsts
-Stelle. Damm erteilte er Seine Befehle. Auf dem Kutter
-sollte nur en einziger Mem zurückbleiben, Der Riese Wilkiens
-Schleppte das Mach’nengewehr, ein anderer die Patronenhülsen.
-wir selbst hatten jeder zwei Pistolen mit, Houston
-behängte sich mit Handgranaten. und sah wie ein Straßenhändler
-mit etwas eigenartig Bekannten Küchenkellen aus.
-Nie Vorhat b.;hörten Greap und wir beide, als Berbindungswait
-wurde Houston best’mmk, div vier anderen folgten in
-vierziq Mister ’Abs!and. Im Walde Standen wir sehr bald einen
-sehr sauber angelegten Wog, und es zeigte sich, daß der Wald
-nach Indem zu als ’Park hergerich’et war. Dann fiverblickten
-wir ein großes. villvnärtiges Gebäude jenseits e’ner glatten
-Rasenslächv es lag still und dunkel da, der Rohe! hatte sich
-hier in dieser Lichtung Korb dichter msammettzebraut, wir
-horchten, irgendwo in der Ferne klügste ein Hund und von den
-Kanälen zwischen den Inseln ertönte das dumpfe Guten eines
-Dampfers. der vielleicht eine Anzahl Flöße schleppte … Harst
+»Natürlich lebt sie!«, erwiderte Kaptain Charly an Harsts
+Stelle. Dann erteilte er Seine Befehle. Auf dem Kutter
+sollte nur ein einziger Mann zurückbleiben. Der Riese Wilkiens
+Schleppte das Maschinengewehr, ein anderer die Patronenkästen,
+wir selbst hatten jeder zwei Pistolen mit. Houston
+behängte sich mit Handgranaten und sah wie ein Straßenhändler
+mit etwas eigenartig geformten Küchenkellen aus.
+Die Vorhut bildeten Greap und wir beide, als Verbindungsmann
+wurde Houston bestimmt, die vier anderen folgten in
+vierzig Meter Abstand. Im Walde fanden wir sehr bald einen
+sehr sauber angelegten Weg, und es zeigte sich, daß der Wald
+nach Süden zu als Park hergerichtet war. Dann überblickten
+wir ein großes, villenartiges Gebäude jenseits einer glatten
+Rasenfläche, es lag still und dunkel da, der Nebel hatte sich
+hier in dieser Lichtung noch dichter zusammengebraut, wir
+horchten, irgendwo in der Ferne kläffte ein Hund und von den
+Kanälen zwischen den Inseln ertönte das dumpfe Tuten eines
+Dampfers, der vielleicht eine Anzahl Flöße schleppte. Harst
 trennte sich von uns, machte zweimal die Runde um das Haus
 und kehrte mit der Meldung zurück, daß nach Süden zu in
-dem Orte. Herr unten verschwommene Lichter blinkten und daß
+dem Orte Harpington verschwommene Lichter blinkten und daß
 er sogar die großen Lampen des Hafens gesehen habe. »Und
 die Haustür«, schloß er nach kurzer Pause, »ja die Haustür
-war offen — ist offen ist nur angelehnt … Lassen Sie ihre
-Leute hier. am -Waldrand, Greap wir drei und Houston genügen:
-Es muß die Villa Sack Sumersett sein.«
+war offen — ist offen ist nur angelehnt … Lassen Sie Ihre
+Leute hier am Waldrand, Greap wir drei und Houston genügen:
+Es muß die Villa Jack Sunnersetts sein.«
+
 <@pagebreak/>
 Das Haus war im Stil eines besseren Landhauses mit
-großen Befanden, ein paar Dachtürmchen und Balkons erbaut,
+großen Veranden, ein paar Dachtürmchen und Balkons erbaut.
 Links davon hinter einer Hecke stand noch ein Stall.
-Als wie Div Vorderflur erreicht hatten, sah auch ich die von
-Galt erwäubhnlien Lichter in der Ferne schimmern. Eine breite,
-gepflasterte Straße lief vom Hause gen Süden. Von den Geobäumnden
+Als wie die Vorderflur erreicht hatten, sah auch ich die von
+Harst erwähnten Lichter in der Ferne schimmern. Eine breite,
+gepflasterte Straße lief vom Hause gen Süden. Von den Gebäuden
 das Ortes war nichts zu erkennen, lediglich rechts gewahrte
 ich die verschleierten Umrisse einer kleinen Kirche mit
 spitzem Turm. — Greap betrachtete etwas mißtrauisch die
-halb offene Graugrün, Schaltete dann seine vor der Brust sostgeknöptie
-Daseins jsekundenlang ein und entzifferte das Messingschild,
+halb offene Haustür, Schaltete dann seine vor der Brust festgeknöpfte
+Laterne sekundenlang ein und entzifferte das Messingschild,
 das an der Tür angebracht war.
 
-Jarpitngkotn Schiffswerft.
-3, Dunkelheit.
-Hauptbüro Erdgeschoß rechts.
-» Privatwohnung 1. Stock.
-9—T, 2—5,
+<p class="centered em">Harpington Schiffswerft.</p>
+<p class="centered">J. Sunnersett.</p>
+<p class="centered">Hauptbüro Erdgeschoß rechts.</p>
+<p class="centered">Privatwohnung 1. Stock.</p>
+<p class="centered">9—1, 2—5.</p>
 
-Es war immerhin ausfsallons, daß die schwere Cichenläit
-offen stand uns daß nicht einmal dritten in der Vorhalle Licht
-brannte. Anderseits hoffe Wilkiens vorhin betont, daß die
-Sekte der Brüder vom heiligen Worten als eines ihrer Glaundensprtiünipien
-das Zerflattern in die Ehrlichkeit der Unmengen
-befugnbers lebhafte und auch Panama handele, (Es
-gibt drüben im Amerika Zahllose Sekten mit den wunderibsten
-Wekenntnissen. Erinnert sei nur an die Mormonen,
+Es war immerhin auffallend, daß die schwere Eichentür
+offen stand und daß nicht einmal drinnen in der Vorhalle Licht
+brannte. Anderseits hatte Wilkiens vorhin betont, daß die
+Sekte der Brüder vom heiligen Jordan als eines ihrer Glaubensprinzipien
+das Vertrauen in die Ehrlichkeit der Mitmenschen
+besonders hochhalte und auch danach handele. (Es
+gibt drüben im Amerika Zahllose Sekten mit den wunderlichsten
+Bekenntnissen. Erinnert sei nur an die Mormonen,
 deren Vielweiberei allerdings nicht mehr besteht.) — Als Greap
 nun das Türschloß beleuchtete, zeigte sich, daß ein eigentliches
-Armlos gar nicht vorhanden wer, sondern lediglich ein Drücker
-Rufen und innen. Diele Entdeckung machte auch Harst Blutig.
-» Wenn bis Gute hier so felsenfest daraus bauen, daß Gott
-ihr Eigentum seinen schützen wird, ist dies entweder äußerst!
-bin berechneter ’Bln]s oder aber die unumstößliche Gewißheit,
-das — — — es Hier nichts zu stehlen gibt.« Er lachte leise und
-zog Charly Greap zur Seite, »Gestalten Sie mal, lieber
+Schloß gar nicht vorhanden war, sondern lediglich ein Drücker
+außen und innen. Diese Entdeckung machte auch Harst stutzig.
+»Wenn die Leute hier so felsenfest darauf bauen, daß Gott
+ihr Eigentum schon schützen wird, ist dies entweder äußerst
+schlau berechneter Bluff oder aber die unumstößliche Gewißheit,
+das — — es Hier nichts zu stehlen gibt.« Er lachte leise und
+zog Charly Greap zur Seite. »Gestatten Sie mal, lieber
 <@pagebreak/>
-Freund, Sie stehen hier auf einem eisernen Gutskontor, und
-ich habe gegen solch Metalldinger seit einer bestimmten Nach!
-eine trennte Abneiqmig.« Er bückte lich, packte den Fuß
-Araber, der ans einem umfangreichen Gefüge von Stäben
-bestand, und suchte ihm eimporzubeben.
+Freund, Sie stehen hier auf einem eisernen Fußkratzer, und
+ich habe gegen solch Metalldinger seit einer bestimmten Nacht
+eine direkte Abneigung.« Er bückte sich, packte den Fußkratzer,
+der aus einem umfangreichen Gefüge von Stäben
+bestand, und suchte ihn emporzuheben.
 
-»Festgeschraubt! Schnur Gaul! — Beachten Sie mal, Greap,«
+»Festgeschraubt! Schon faul! — Leuchten Sie mal, Greap,«
 
-Er nahm sein Messer und fuhr am Unterrande der Unterstütze
-entlang. Die Klinge fand Widerstand, er bewegte lie
+Er nahm sein Messer und fuhr am Unterrande der Außenstäbe
+entlang. Die Klinge fand Widerstand, er bewegte sie
 wie eine Säge hin und her, richtete sich wieder auf und meinte
-spöttisch: «&eine Prinzipien — — allerhand Achtung!! Ein
-elektrisch geladener Buchstaben, ein natürlich auch geladenen
+spöttisch: »Feine Prinzipien — — allerhand Achtung!! Ein
+elektrisch geladener Fußkratzer, ein natürlich auch geladener
 Messingtürdrücker, — — hätten Sie die Hand auf den Drücker
-gelegt, Ware der Stromkreis geschlossen gewesen, und Sie
-hätten nie wieder einen Arzt gebraucht, lieber Greap. Ersten
+gelegt, wäre der Stromkreis geschlossen gewesen, und Sie
+hätten nie wieder einen Arzt gebraucht, lieber Greap. Treten
 wir ein in die Hallen der Ehrlichkeit, aber mit entsicherten
-Pistolen. Diele Brüder vom Gärten blassen. die Behörden, …
-das wissen wir um.« »in
+Pistolen. Diese Brüder vom Jordan bluffen die Behörden,
+das wissen wir nun.«
 
-Als wir in der Vorhalle standen, sehnte Harst die Tür
-wieder an und suchte nach dein Lirmtschalter. An der Decke
-hing eine elektrische Drang mit fünf Armen, sogar Wandleuchter
-waren vorhanden, aber ein Lichtschalter fehlte. Grotten
-gerissen unsere Laternen, wir sahen billige Teppiche,
-Koörbmötvel, weiß lackierte Türen, im Hinkorqrinde eine bog
-!äußerte Treppe und ein paar fromme Geringste kitschigster
-
+Als wir in der Vorhalle standen, lehnte Harst die Tür
+wieder an und suchte nach dem Lichtschalter. An der Decke
+hing eine elektrische Krone mit fünf Armen, sogar Wandleuchter
+waren vorhanden, aber ein Lichtschalter fehlte. Trotzdem
+genügten unsere Laternen, wir sahen billige Teppiche,
+Korbmöbel, weiß lackierte Türen, im Hintergrunde eine beläuferte
+Treppe und ein paar fromme Gemälde kitschigster
 Art.
 
-Kurs) diese weißen Türen hier unten, von denen drei
-rechter Hand schwarze Zuschritten trugen, waren nur angelehnt,
-aber vor jeder lag eine gestohlenes Fußmatte, und
-die nüchterne Prüfung ergab, daß die Linken sämtlich festgenagelt
-waren und in dem &ech!Werk verborgen kleine Stahl bürsten
+Auch diese weißen Türen hier unten, von denen drei
+rechter Hand schwarze Aufschriften trugen, waren nur angelehnt,
+aber vor jeder lag eine geflochtene Fußmatte, und
+die nüchterne Prüfung ergab, daß die Matten sämtlich festgenagelt
+waren und in dem Flechtwerk verborgen kleine Stahlbürsten
 enthielten.
 
-»Seltsame Jordanbriüder!«, meinte Harst noch ironischer.
+»Seltsame Jordanbrüder!«, meinte Harst noch ironischer.
 »Ich wette, daß diese Villa außerdem noch mit allerhand
-Alarmvorrichtungen ausgestattet ist, womöglich gar mit Selbstsmüssen
+Alarmvorrichtungen ausgestattet ist, womöglich gar mit Selbstschüssen
 <@pagebreak/>
-und ähnlichen Knalleffekten. Verfallen Sir große
-Luft, dieses elektrische Zauberschloß zu durchsuchen, Greap’?«
+und ähnlichen Knalleffekten. Verspüren Sie große
+Lust, dieses elektrische Zauberschloß zu durchsuchen, Greap?«
 
 Kaptain Charly stieß die eine Kontortür mit dem Fuße
-auf und leuchtete in das Zimmer hinein. Vier Tische. Aktenböcke,
+auf und leuchtete in das Zimmer hinein. Vier Tische, Aktenböcke,
 zwei Schreibmaschinen und links an der Wand ein
-mächtigen Tresor modernster Bauart: Das war d’e »Kasse«
-der Wort. — Greap ging leise hinein und verfrachtete die
-Wände und den Tresor. »Der ist verschlossen«, sagte or
+mächtiger Tresor modernster Bauart: Das war die »Kasse«
+der Werft. — Greap ging leise hinein und beleuchtete die
+Wände und den Tresor. »*Der* ist verschlossen«, sagte er
 scherzend. »So weil geht das elektrisch gern?ans BVortrau’n der
 Jdordanbriider doch nicht. daß sie ihre Schätze offen zv’qou,«
 
-Winkel neben der Kasse befand sich eine Tür: »Privatbüro.
+Links neben der Kasse befand sich eine Tür: »Privatbüro.
 Anmeldung im Büro.«
 
 Auch die Tür bekam einen Fußtritt, — und zu unserem
 Erstaunen war dieser Raum nicht leer.
 
 An einem mächtigen Schreibtisch saß ein alter Herr, der
-in der Tat in die Gefilde des Gartens und in die Seit der
-alttestamentlichen Propheten hineinpaßte. Zufolge das Goraufißes
-vor zurückschlagenden Tür hatte er den Lichtschirm
-der Lampe zur Seile Gebiet? und schaute uns durch seine Hornbrille
+in der Tat in die Gefilde des Jordans und in die Zeit der
+alttestamentlichen Propheten hineinpaßte. Infolge des Geräusches
+der zurückschlagenden Tür hatte er den Lichtschirm
+der Lampe zur Seile gedreht und schaute uns durch seine Hornbrille
 prüfend an. Seine ehrwürdige Erscheinung, sein schwarzes
-Käppchen auf schneeweißem Haar, das blasse. durchgeist’ake
-Gesicht und der lange we’ßvy Patriarchenbart zwangen selbst
-Greap zur Höflichkeit. »Sumersett, nicht wahr? doch möchte
-Sie e’niges fragen.«
+Käppchen auf schneeweißem Haar, das blasse, durchgeistigte
+Gesicht und der lange weiße Patriarchenbart zwangen selbst
+Greap zur Höflichkeit. »Sunnersett, nicht wahr? Ich möchte
+Sie einiges fragen.«
 
-Der Greis blickte äußerst mißbilligend aus Greaps Pistole,
+Der Greis blickte äußerst mißbilligend auf Greaps Pistole,
 nahm dann ein Hörrohr, wie es die Schwerhörigen benutzen,
-vom Tisch und drückte die Kuhdung in das linke Ohr. »ich
-höre etwas schlecht«, meinte er mit einer weichen. wohllautenden
-Stimme. »Was wünschen Sie?! — — Bitte tun Sie jedoch
-die Wasser weg. Die ist hier vollkommen unangebracht.«
+vom Tisch und drückte die Mündung in das linke Ohr. »ich
+höre etwas schlecht«, meinte er mit einer weichen, wohllautenden
+Stimme. »Was wünschen Sie?! — Bitte tun Sie jedoch
+die Waffe weg. Die ist hier vollkommen unangebracht.«
 
-»Harst, der lich neben Greap gestellt hatte, leuchtete ohne
+Harst, der sich neben Greap gestellt hatte, leuchtete ohne
 weiteres unter den Tisch.
 
-»Mr. Sumersett, tragen Sie immer Gummischuhe?«
+»Mr. Sunnersett, tragen Sie immer Gummischuhe?«
 
--». Der Greis nickte. »Immer … —Schüttelte Gummischuhe.
+Der Greis nickte. »Immer … Gefütterte Gummischuhe.
 <@pagebreak/>
-Allein Gattin verlangt das. Die Angeklagt ist Klasse
-feucht, hier, und in meinen Jahren neigt man zu Klang.«
+Mein Sohn verlangt das. Die Inselluft ist etwas
+feucht, Mister, und in meinen Jahren neigt man zu Rheuma.«
 
-Hochschule & mit 7t — Tresor schien Dressur Eindruck ge
-wenigen zu haben, bei! er jagte weit Abholten: »Mr. Sumersett,
-bin: ist weinte Vozjetittatwn … Ich bin Kaptain Hatten
-90m »Denk’ eiserne bei Chicagoer DVetektippgiiict.«
-Ebrlutdes Ergrautes zeigte Wirtin Ab 80.0.20 Nagel dvs
-Greises. »Rom ja, — auf, — Ad las Soll die Chicago!
-Polizei hier 7 Tiger der 21iedlichiten Stehkragen, die 10 vor
-Vereinigte? Stearin: zur Ehre gereichten? — Wer. Kutter,
-dienstlich kam Die doch Kamm … « — ox unterbrach Ad
-und blinde starr auf Harsts rechte Hand. »Roch ein Hatte:!
-Meine Herren, das Nicht so Fast wie eine Haus’u Zug aus!
+Verhöhnte er uns?! — Greap schien diesen Eindruck gewonnen
+zu haben, denn er sagte weit schärfer: »Mr. Sunnersett,
+hier ist meine Legitimation … Ich bin Kaptain Hutter
+vom Sonderdezernat der Chicagoer Detektivpolizei.«
+
+Ehrliches Erstaunen zeigte sich in den ernsten Zügen des 
+Greises. »Nun ja, — gut, — und was soll die Chicagoer
+Polizei hier in einer der friedlichsten Siedlungen, die je den
+Vereinigten Staaten zur Ehre gereichten? — Mr. Hutter,
+dienstlich können Sie doch kaum …« — er unterbrach sich
+und blickte starr auf Harsts rechte Hand. »Noch ein Waffe?!
+Meine Herren, das sieht ja Fast wie eine Haussuchung aus!
 Wir leben hier seit fünfzehn Jahren völlig unbelästigt, wir
-arbeiten, bauen Sachen, Kutter, Schleppdampljer, wir …«
+arbeiten, bauen Jachten, Kutter, Schleppdampfer, wir …«
 
 Charly Greap erklärte sehr kurz angebunden:
 
 »Und laden Türdrücker und Fußmatten elektrisch und …
-spielen Theater, Mr. Sumersett., Sie nimmt! — Meine
-Vollmacht reicht nicht für die ganze Union, nicht nur für der
-Staat Sümpfe. Sie werden uns begleiten, Wer befindet sich
+spielen Theater, Mr. Sunnersett. *Sie* nämlich! — Meine
+Vollmacht reicht auch für die ganze Union, nicht nur für den
+Staat Illinois. Sie werden uns begleiten. Wer befindet sich
 außer Ihnen noch im Hause?«!«
 
 Der Greis hatte sich langsam erhoben. Sein Gesicht
-rötete sich, unwillig dritten: seine Augen den ungerade Charly
+rötete sich, unwillig blitzten seine Augen den mageren Charly
 an, und die weiche Stimme ward flammende Empörung.
 
-»Mr. Kutter, derartiges hat sich hier noch nie abgespielt
-— sich e:! Alten Haus durchsuchen«?!: Sind wir Berbrecher’?! —
+»Mr. Hutter, derartiges hat sich hier noch nie abgespielt
+— nie! Mein Haus durchsuchen?! Sind wir Verbrecher?! —
 Hüten Sie sich, ich habe mächtige Freunde, und ich bin nicht
-jene 00 mir Yebergrisse irgend eitel Beamten gefallen zu
-allein!«
+geneigt, mir Übergriffe irgend eines Beamten gefallen zu
+lassen!«
+
 Er stand in imponierender Größe da, sein schwarzer
 Rockanzug, seine tadellose Wäsche, die gepflegten Hände und
-andere Kleinigkeiten trugen dazu bei, die Unoutastbarkeit seiner
+andere Kleinigkeiten trugen dazu bei, die Unantastbarkeit seiner
 Persönlichkeit noch zu unterstreichen.
 
 Aber Charly Greap war nicht umsonst schon früher in
 <@pagebreak/>
-Anhört 6:8 vVetzXtiv Darm eine vielseitige Schule der Menschenkunde
-Erzengel.
+Newyork als Detektiv durch eine vielseitige Schule der Menschenkunde
+gegangen.
 
-»Ein Sie hier allein im Hause?«, fragte er scharf.
+»Sind Sie hier allein im Hause?«, fragte er scharf.
 
-Auch Sumersett hob den Arm. »Hinauf mit Schraut
-Sofort!« Seine Innige überschlug sich vor Grimm. »Goa,
+Jack Sunnersett hob den Arm. »Hinaus mit Ihnen!!
+Sofort!« Seine Stimme überschlug sich vor Grimm. »Ja,
 ich bin allein in der Kirche ist Frühgottesdienst … Aber
-wehe Ihnen, wen: Sie es wagen, irgendwie hier …«
+wehe Ihnen, wenn Sie es wagen, irgendwie hier …«
 
-Er brach Kur) ab, ließ den Arm sinken, musterte uns nochmals
-wie Leute, die er nicht für Tun zurechnungsfähig hielt,
+Er brach Kurz ab, ließ den Arm sinken, musterte uns nochmals
+wie Leute, die er nicht für ganz zurechnungsfähig hielt,
 setzte sich, ergriff den Federhalter und schob den Lampenschirm
-jeder so zurück, daß das Licht nur auf die Schreibtischplatte
-der,
-»Bitte, gehen Sie«, meinte er sehr förmlich. »Ob beginne
-mein Cageiwerk!sehr früh.«
-Ich gewann immer mehr den Chronist, daß wir uns hier
-gründlichst auf falscher Fährte befunden. Dieser Greis schauspielerte
+wieder so zurück, daß das Licht nur auf die Schreibtischplatte
+fiel,
+
+»Bitte, gehen Sie«, meinte er sehr förmlich. »Ich beginne
+mein Tagewerk sehr früh.«
+
+Ich gewann immer mehr den Eindruck, daß wir uns hier
+gründlichst auf falscher Fährte befänden. Dieser Greis schauspielerte
 nicht.
 
 Greap wurde ebenso unsicher.
 
 Harst beugte sich vor und rief dem Greis sehr scharf
-akzentuiert zu: »Leugnen Sie Mr. Anatol! Fraser aus Chicago,
+akzentuiert zu: »Kennen Sie Mr. Anatol Fraser aus Chicago,
 den Bankier?«
 
-Des alten Mannes Kopf schnellte wieder kam. Seine Züge
+Des alten Mannes Kopf schnellte wieder hoch. Seine Züge
 wurden finster und feindselig.
 
-»Ach kenne ihn und kenne ihr ich! … Es ist mein Stiefsohn,
+»Ich kenne ihn und kenne ihn nicht … Es ist mein Stiefsohn,
 wir stehen jedoch in Keiner Verbindung miteinander. —
 Hat Fraser endlich einmal der Arm der Gerechtigkeit gepackt?
-Das würde nicht nur freuen, den er ist ein …«, — abermals
+Das würde mich nur freuen, denn er ist ein …«, — abermals
 verstummte er, und sein Gesicht zeigte schmerzliche Enttäuschung:
-»Rein, — Fraser ist zu schlau; zu klug …! Ich Mönche auch
+»Nein, — Fraser ist zu schlau, zu klug …! Ich wünsche auch
 nicht, daß man ehrliche Namen mit dem eines … Bilderdiebes
-gemeinsam meint. Bitte, meine Herren, verlassen Sie
+gemeinsam nennt. Bitte, meine Herren, verlassen Sie
 mich. Von mir erfahren Sie nichts — gar nichts! Sparen
-die sich jede Plätze.«
+Sie sich jede Mühe.«
 
 <@pagebreak/>
-Narrst raunte Greap etwas zu,
+Harst raunte Greap etwas zu,
 
-Wir gingen stuzaum von dannen, Ein Wort aber 3115 den
-Sätzen das allen Mannes war wie ein zündender Stunden in
-mein Diva eingeschlagen: Bücherbrett — oh glaubte jetzt die
-Ousammenbäuge Zugehakt zu überschauen.
+Wir gingen stumm von dannen. Ein Wort aber aus den
+Sätzen das alten Mannes war wie ein zündender Funke in
+mein Hirn eingeschlagen: Bilderdieb — Ich glaubte jetzt die
+Zusammenhänge ungefähr zu überschauen.
 
 <h2>7. Kapitel.</h2>
-<h3>Die Smordonbriäidet.</h3>
+<h3>Die Jordanbrüder.</h3>
 
 Würden die Polizeiämter der Vereinigten Staaten ihre
 Krimimnalarchwe der letzten zwanzig Jahre der Allgemeinheit
@@ -2206,7 +2208,7 @@ sich dann sehr Täglich an die drei Personen in dem besonderen
 Gef’ühl. Es war dies die Gattin Mr. I3ack Sumzersette.
 seiner deren Schwester und Er. Allan Großes Tochter Lizzie.
 
-»Frau Sumersett«, redete er die grauhaarige, recht
+»Frau Sunnersett«, redete er die grauhaarige, recht
 üppige Taue zu, »gilt Sie die Mutter Anatol und Allan
 
 lagert
@@ -2226,13 +2228,13 @@ quollen Aufschrei. »Oh habe eine Schwester« Wrack Ist mir
 stets veihe’mlicht worden?! Weshalb?h1«
 
 — Sie Halle den hübschen Kopf gedreht und starrte Frau
-Sumersett vollkommen Fassungslos zu. überhaupt,
+Sunnersett vollkommen Fassungslos zu. überhaupt,
 was geh! hier vor?! oh begreife nichts von diesem weiß ten
 Eindringen der »Polizei in diese Kirche. die …«
 -. die mit zu einem Banditennest zählt, Miß Fraser«
 ergänzte Greap den Satz mit milderer Stumme. »Offenbar
 <@pagebreak/>
-sind Sie und der alle Er, Sumersett vollkommen Flur, 48-
+sind Sie und der alle Er, Sunnersett vollkommen Flur, 48-
 los geblieben, während diese dnseisiedsung samt ihren Ne
 weigern sich als Alkoholschmuggler, sBaukräuber und groß
 zügige Diebe betätigten. — Folgen Sie naß, Das Weitere
@@ -2281,7 +2283,7 @@ Sollte noch Seltsame Überraschungen bringen.
 du Allzu &tufers Herrenzimmer im ersten Strick des
 Krerglegunt eingerichteten Hauses Saßen zu ernstestem Konzert
 mehrere Führer um den Sofatisch. Der alte Mr.
-Sumersett, Gründen der Kolosse und ehrlicher, nur betrogenen
+Sunnersett, Gründen der Kolosse und ehrlicher, nur betrogenen
 Man, harte in einem Lehnstuhl Platz qeuowimett,
 
 Wie zum Hohn hatte die Sonne inzwischen den Nebel
