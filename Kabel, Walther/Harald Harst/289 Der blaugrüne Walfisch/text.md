@@ -1345,7 +1345,7 @@ Greap war heute ganz früh allein unterwegs und
 im Fraser-Haus, er hatte sich ja alle Doppelschlüssel ausgebeten,
 er »stempelte« den Bogen Büttenpapier, und als Fraser
 den Stempel fand, schrieb er mit hervorragender Kaltblütigkeit
-den Seltsamen Briesanfang mit »Harpington« als Absenderort
+den Seltsamen Briefanfang mit »Harpington« als Absenderort
 und jagte sich die Kugel in die Schläfe. Miß Grace
 aber wollte Mord vortäuschen, öffnete das Fenster, durchlöcherte
 den Lampenschirm, säuberte den Einschuß mit Schwamm
@@ -1951,323 +1951,318 @@ Zusammenhänge ungefähr zu überschauen.
 <h3>Die Jordanbrüder.</h3>
 
 Würden die Polizeiämter der Vereinigten Staaten ihre
-Krimimnalarchwe der letzten zwanzig Jahre der Allgemeinheit
-zugänglich machen, so würde uubedipugt all das törichte Gerechnet
-jener leichtfertigen Kritiker, die die Kr:minalliteratur
-als blöde »Phantastereien verdammen, sehr bald verstummen…
-Schien der ewige Kampf Tages die Alkoholschmuggler hat
+Kriminalarchive der letzten zwanzig Jahre der Allgemeinheit
+zugänglich machen, so würde unbeding all das törichte Geschwätz
+jener leichtfertigen Kritiker, die die Kriminalliteratur
+als blöde Phantastereien verdammen, sehr bald verstummen.
+Schon der ewige Kampf gegen die Alkoholschmuggler hat
 auf seiten beider Parteien zu den unglaublichsten, raffiniertesten
-Tricks und Machenschaften geführt. Wer sich der Witze
-unterzieht, auch nur knappe Zeitungsnotizen über das Wellen
+Tricks und Machenschaften geführt. Wer sich der Mühe
+unterzieht, auch nur knappe Zeitungsnotizen über das Wesen
 der organisierten Verbrecher drüben zu sammeln, wird sich
 wundern, welche Fülle von Tatsachen, die zum Teil die grausige
-Detailmalerei eines Wallace noch übertroffen, sich ihm aufdrängt.
-Ich erinnere der nur an drei Vorkommnisse: Erstens
-an den Überseetransport einer Leiche nach Reagiert, deren
+Detailmalerei eines Wallace noch übertreffen, sich ihm aufdrängt.
+Ich erinnere hier nur an drei Vorkommnisse: Erstens
+an den Überseetransport einer Leiche nach Newyork, deren
 <@pagebreak/>
-Einklang von den mißtrauischen Zollbeamten geöffnet wurde.
-Hm Leibe des Toten lagen (Einzelhvilei vermeide ihm) Juwelen
-für rund eine halbe Million Dollar. »ich erinnere zu
-das zum Äbwrawmen von den amerikanischen Marinebehörden
-versteigerte U-Boot, das eine ’Baintde von Alkoholschmugglern
+Zinksarg von den mißtrauischen Zollbeamten geöffnet wurde.
+Im Leibe des Toten lagen (Einzelheiten vermeide ich) Juwelen
+für rund eine halbe Million Dollar. — ich erinnere an
+das zum Abwracken von den amerikanischen Marinebehörden
+versteigerte U-Boot, das eine Bande von Alkoholschmugglern
 durch einen biederen Strohmann erwarb und ein volles
-Jahr zum Schmuggeln benutzte. Ob erinnere endlich zu 85 auf
-einer Halbinsel bei B. an der Allantisihet Küste Gelegene
-Schloß des Millionärs Ad., der … der Anführer einer
-Bande von Schmuuaglern und Wundrändern war. Sein ganzes
-Schloßpersonal Setzte sich aus dein gefährlichsten »Banditen zukommen,
-dabei verkehrte Mr. Ah. in der besten Versetzt hat!,
-bis zwei Detektive ihm endlich das Bauwerk legten, (Am.
-d. Betrages: Art 7. Oktober 1930 wurde Sinn Erwachen. Gattin
-des Bürgerjueisters von Chicago. überfallen und ihrer daneben
-beraubt, unter denen sich ein Ring un »Werke von
-10000 Dollar befand. — — Kommentar üherltisig.) —
+Jahr zum Schmuggeln benutzte. Ich erinnere endlich an das auf
+einer Halbinsel bei B. an der Atlantischen Küste Gelegene
+Schloß des Millionärs W. H., der … der Anführer einer
+Bande von Schmugglern und Bankräubern war. Sein ganzes
+Schloßpersonal Setzte sich aus den gefährlichsten Banditen zusammen,
+dabei verkehrte Mr. W. H. in der besten Gesellschaft,
+bis zwei Detektive ihm endlich das Handwerk legten. (Anm.
+d. Verlages: Am 7. Oktober 1930 wurde Frau Compton, Gattin
+des Bürgermeisters von Chicago, überfallen und ihrer Juwelen
+beraubt, unter denen sich ein Ring im Werte von
+10&nbsp;000 Dollar befand. — — Kommentar überflüssig.) —
 
-Vor dem Hause hielten wir kurzen Heiratet ab. Tresor
-und Harst dbestandeuy darauf, die Kirch-iabesuber drüben vorläufig
-festzuhalten und dann erst das Donnerten- Haus genau
+Vor dem Hause hielten wir kurzen Kriegsrat ab. Greap
+und Harst bestanden darauf, die Kirchenbesucher drüben vorläufig
+festzuhalten und dann erst das Sunnersett-Haus genau
 zu durchsuchen. Houston und ich waren dagegen, denn falls
 wir hier tatsächlich eine harmlose Inselsiedlung derart belästigten,
 mußte es zu einem hemmungslosen Pressegezeter
-Kennern.
+kommen.
 
-Greap ließ die übrigen Leute boten, und als wir die
+Greap ließ die übrigen Leute holen, und als wir die
 Kirche unbemerkt erreicht hatten, wurden Houston und ein
-zweiter Mann vor dem Sakristeiausgang angestellt, während
+zweiter Mann vor dem Sakristeiausgang aufgestellt, während
 Wilkiens mit dem Gurtspucker mit uns hineinkommen sollte.
 
-Nix fanden das aus dunklen GlaJurziegeln erbaute Kirchlein
-bis auf den letzten ’Plaß gefüllt. Bei unserem Eintritt
-verstummte der junge ’Prediger; der gerade vor dem reichlich
-eigenartigen Altar den Schlußsegen ]pendelte. Männer, Traten
+Wir fanden das aus dunklen Glasurziegeln erbaute Kirchlein
+bis auf den letzten Platz gefüllt. Bei unserem Eintritt
+verstummte der junge Prediger, der gerade vor dem reichlich
+eigenartigen Altar den Schlußsegen spendete. Männer, Frauen
 und Kinder drehten sich wütend nach uns um. Greap schritt
-schnell nach vorn und erklärte ebenso Kur? den Grund dieser
+schnell nach vorn und erklärte ebenso Kurz den Grund dieser
 Störung.
 
 <@pagebreak/>
 Ich hatte inzwischen Zeit, mir die vier Personen anzusehen,
-die in eurem einzelnen Gestühl dicht am Altar saßen.
-Ich traute Ruinen Augen kaum, als ich dort zwischen einer
-älteren Dame und einem jungen Brötchen Anatol Frasers
-Ebenbild schon sah Tote Unehelichen Partie verdüstert,
-daß sich sofort Harst lose ausstieß und ihm auf jenen Man!
-ammerkjam machte. Harst blickte scharf bin und winkte daran]
-einem von Greaps Leuten. »Haben Sie Handschellen da«?
-—» Gut, kommen Sie mit …«
+die in einem einzelnen Gestühl dicht am Altar saßen.
+Ich traute meinen Augen kaum, als ich dort zwischen einer
+älteren Dame und einem jungen Mädchen Anatol Frasers
+Ebenbild sitzen sah. Die Ähnlichkeit war so verblüffend,
+daß ich sofort Harst leise anstieß und ihm auf jenen Mann
+aufmerksam machte. Harst blickte scharf hin und winkte dann
+einem von Greaps Leuten. »Haben Sie Handschellen da?
+— Gut, kommen Sie mit …«
 
 Greap redete noch, verstummte und beobachtete die aufregende
-Szene vor dem Gestühl mit doch unerschütterlichen
-Gleichsam drei Magnet der selbst dies vorausgeahnt hatte.
+Szene vor dem Gestühl mit dem unerschütterlichen
+Gleichmut eines Mannes, der selbst dies vorausgeahnt hatte.
 — Der Herr, der Anatol Fraser so sehr ähnlich Sah, hatte
-sicy-erbobeu. während das unwillige Gemurmel in der Kirche
-zu lauten Stückchen anschwoll. Die etwa vierziq Männer waren
-Gleichheit Auge Nutzen. und urplfotlich hielt jeder von ihnen
+sich erhoben, während das unwillige Gemurmel in der Kirche
+zu lauten Flüchen anschwoll. Die etwa vierzig Männer waren
+gleichfalls aufgesprungen, und urplötzlich hielt jeder von ihnen
 eine gewichtige Pistole in der Hand.
 
-Wilkiens hielten Baß kam jeder Anrede Harsts an den
-Doppelgänger des Chicagoer Millionärs zuvor. »Hinsehen
-— — Hände hoch, oder im bespritze euch mit einer Sorte
-hi die rum Bürschchen unbedingt zur Seligkeit verlief
-Eine Unrecht Köpfe fuhr herum. Das Maschinengewehr
+Wilkiens tiefer Baß kam jeder Anrede Harsts an den
+Doppelgänger des Chicagoer Millionärs zuvor. »Hinsetzen
+— — Hände hoch, oder ich bespritze euch mit einer Sorte
+Weihwasser, die euch Bürschchen unbedingt zur Seligkeit verhilft.«
+
+Eine Anzahl Köpfe fuhr herum. Das Maschinengewehr
 mit dem hochgeklappten Schutzschild wirkte außerordentlich
-deruh’gend. Die Tante sahen ein, daß ein Kugelwechsel nur
+beruhigend. Die Leute sahen ein, daß ein Kugelwechsel nur
 zu ihren Ungunsten enden konnte. Die meisten steckten die
 Pistolen wieder ein und hoben artig die Arme, einige besonders
-Widerborstge hatten es freilich erst aus Wilkiens noch
-nachdrücklichste Mahnung.
+Widerborstige taten es freilich erst auf Wilkiens noch
+nachdrücklichere Mahnung.
 
 Harst stand dicht vor dem Fraser-Doppelgänger.
 
 »Wer sind Sie?!«
 
-»Allan Fraser«, erklärte der gutgekleidete Mann mit.
-hochmütiger Kopfbewegung, die eigentümlich an Grace Problems
+»Allan Fraser«, erklärte der gutgekleidete Mann mit
+hochmütiger Kopfbewegung, die eigentümlich an Grace Trolborns
 ganze Art erinnerte.
 
 »Ein Bruder Anatol Frasers?«
 
 <@pagebreak/>
 »Zwillingsbruder«, erklärte Allan Fraser noch hochmütiger.
-»Und Sie, Mister?. Auch Polizist?!« Das war
-frechen Hob!.
+»Und Sie, Mister? Auch Polizist?!« Das war
+frechen Hohn.
 
 Der Mann war entschieden weit energischer als der Bankier.
 Seine Augen hatten einen Ausdruck der auf eine sehr
 selbstherrliche und rücksichtslose Natur schließen ließ.
 
-Greap trat näher. »die haben gehört, wer ich bin«,
-Safe er sehr gelassen. »Ich verhafte Sie wegen dringenden
+Greap trat näher. »Sie haben gehört, wer ich bin«,
+sagte er sehr gelassen. »Ich verhafte Sie wegen dringenden
+Verdachtes …«
 
-erdachtes …«
+Des junge Mädchen hatte einen schrillen Schrei ausgestoßen.
+Totenbleich drängte sie sich vor den höhnisch lächelnden
+Menschen und schrie Greap mit bebender Stimme ins Gesicht:
+»Herr, — das ist mein Vater, das ist der gütigste Mensch
+unter der Sonne, das …«
 
-Des Grunde Märchen hatte einen schrillen Schrei ausgestoßen.
-Totenbleich drängte sie sich vor den Schnur! Oh lächelnden
-Menschen und schrie Grog mit bebender Stimme ins Gesicht:
-»dort, — das ist mein »Vater, das ist der gütigste Mensch
-unter der Sonne, das.
-
-Was folgte, war Tumult. Stücke, — — und &sucht …
+Was folgte, war Tumult, Flüche, — — und Flucht …
 
 Allan Fraser hatte sich blitzschnell über die Rückenlehne
-des Gestillt geschwungen, Halle blitzschnell eine an der Kirchen wand
+des Gestühls geschwungen, hatte blitzschnell eine an der Kirchenwand
 angebrachte große Marmortafel mit goldener Inschrift
-wie eine Tür ausgerissen, war hindurchgeschlüpft, und hatte
-
+wie eine Tür aufgerissen, war hindurchgeschlüpft, und hatte
 sie wieder zugeschlagen.
 
-Das Wutgeheul der Männer der Gnselsiedlung brandete
-empor und mischte sich in das jäh aussehende Knattern des
-Gurtspuckers. Wilkiens feuerte dich! über die Kopfe hinweg,
-Matoerkalk spritzte, abprallende Geschosse surrten wie bissige
-
+Das Wutgeheul der Männer der Inselsiedlung brandete
+empor und mischte sich in das jäh auflebende Knattern des
+Gurtspuckers. Wilkiens feuerte dicht über die Köpfe hinweg,
+Mauerkalk spritzte, abprallende Geschosse surrten wie bissige
 Hornissen durch die Luft.
 
-Greap raunte der Tür zu, wir hinter ihm drein …
-Draußen hörten wir Houston auf der Straße brüllen: »Hier —
-der — — er flieht … hierher!« ’Die Schüsse mußten das Baby
-aufmerksam gemacht haben. Wir sahen zu im Nobel wie
-einen Schaffen dahingleiten. es wurde ein ’Wottlan] bis zum
-Lassen hinab, keinem Menschen begeqne!vn wir, aber die
-großen Bogenlampen der Hasenonlago und der Werft gestatteten
-uns, Frasers Tun genau zu beobachten, Er hatte von
-einen: Bootssteg bitter aufgestapelten, Fässern Deckung gesucht,
+Greap rannte der Tür zu, wir hinter ihm drein …
+Draußen hörten wir Houston auf der Straße brüllen: »Hierher
+— — er flieht … hierher!« Die Schüsse mußten das Baby
+aufmerksam gemacht haben. Wir sahen ihn im Nebel wie
+einen Schatten dahingleiten, es wurde ein Wettlauf bis zum
+Hafen hinab, keinem Menschen begegneten wir, aber die
+großen Bogenlampen der Hafenanlage und der Werft gestatteten
+uns, Frasers Tun genau zu beobachten. Er hatte von
+einem Bootssteg hinter aufgestapelten Fässern Deckung gesucht,
 <@pagebreak/>
-er hatte auf den heranstürmenden Robusten gefeuert,
-und Houston raschelte und schlug wie ein Kloß zu Boden.
+er hatte auf den heranstürmenden Houston gefeuert,
+und Houston taumelte und schlug wie ein Klotz zu Boden.
 
-Fragte, der vor uns dreihundert Wetter Vorsprung hatte,
-rannte auf die Brücke, an der eine mittelgroße da!. der
-laut lag. Sie konnte nur sehr oberflächlich befestigt gewesen
-sein, Fraser hatte sie im Nu 108 — der Motor sprang an,
-die Jacht glitt in den Nebel der Bucht Gittern …
+Fraser, der vor uns dreihundert Meter Vorsprung hatte,
+rannte auf die Brücke, an der eine mittelgroße Jacht vertäut
+lag. Sie konnte nur sehr oberflächlich befestigt gewesen
+sein. Fraser hatte sie im Nu los — der Motor sprang an,
+die Jacht glitt in den Nebel der Bucht hinein …
 
-Roch anderes geschah.
+Noch anderes geschah.
 
-Baby Houston stand urplötzlich auch auf der « Brücke, —
-und er, wohl der schnellte Handquauasfenwerlser der Elite, zog …
-eine Ofielqrana!te nach der anderen ab und schlenderte sie wie
-Morgen hinter der Jacht drein. Oh er fraß, war nicht fest
-
-zustellen. —
+Baby Houston stand urplötzlich auch auf der Brücke,
+und er, wohl der schnellte Handgranatenwerfer der Elite, zog
+eine Stielgranate nach der anderen ab und schleuderte sie wie
+Keulen hinter der Jacht drein. Ob er traf, war nicht festzustellen.
 
 Die Jacht verschwand im Nebel.
 
 Ganz außer Atem langten wir neben ihm an,
 
-»Zehn, Kaptain«, sagte er schmunzelnd; »Und acht von
-da »Pillen liegen bestimmt an Deck. drei davon Fahrschein.
-sich in der Mittschiffs/rufe, die offen stand. Unverhängt ein
-seltsamer Kahn, diese Jacht. — breit wie …
+»Zehn, Kaptain«, sagte er schmunzelnd. »Und acht von
+den Pillen liegen bestimmt an Deck, drei davon wahrscheinlich
+in der Mittschiffsluke, die offen stand. Überhaupt ein
+seltsamer Kahn, diese Jacht, — breit wie …«
 
 Vor uns aus dem Nebel kurz hintereinander mehrere
 Detonationen …
 
-»Hallo — — meine Pflegt«, jubelte Houston. »Spalte
-ich nicht, daß sie an Dock sieben!! — — Dort liegt ein Kleines
-Motorboot, Käpten … Vielleicht- ist der Stänker Fahrt- …
-derart!«
+»Hallo — — meine Pillen«, jubelte Houston. »Sagte
+ich nicht, daß sie an Dock fielen!! — — Dort liegt ein Kleines
+Motorboot, Kaptain … Vielleicht ist der Stänker fahrtbereit!«
 
-Er war 05 … Wir knatterten davon, — zu sehen war
-nichts, aber durch die RWeboelschwaden drang das gedämpfte:
-Geräusch eines arbeitenden Motors und ein gröäßliches
-Stühlen.
+Er war es … Wir knatterten davon, — zu sehen war
+nichts, aber durch die Nebelschwaden drang das gedämpfte
+Geräusch eines arbeitenden Motors und ein gräßliches
+Stöhnen.
 
-Wir horchten
+Wir horchten …
 
-Greap wund ich standen vorn un Boot, Houston in der
+Greap und ich standen vorn im Boot, Houston in der
 Mitte, Harst steuerte.
 
-… »Mehr Backbord!«, brüllte Greap …
+»Mehr Backbord!«, brüllte Greap …
 
 Wir horchten …
 
 <@pagebreak/>
-Aber die kleine Recht war!chnoller. Das Geräusch
-des Motors verstummte nur ein notieren Aufschrei noch …
+Aber die kleine Jacht war schneller. Das Geräusch
+des Motors verstummte, nur ein heiserer Aufschrei noch …
 
-Wir merkten, daß wir otferkalb des Hafens waren.
-Dusche Wellen pläökscher!en argen d’e Bord Wände den Köhler
-Wind zerriß da Nebelschwaden. und wer? voraus erblickten
-wir im erleben Schimmer der noch verhüllten Sonne die Jacht
-mit dein braunen Treppen.
+Wir merkten, daß wir oberhalb des Hafens waren.
+Leichte Wellen plätscherten gegen die Bordwände, ein kühler
+Wind zerriß die Nebelschwaden, und weit voraus erblickten
+wir im ersten Schimmer der noch verhüllten Sonne die Jacht
+mit den braunen Segeln.
 
-S’e fuhr im Zickzack, — — — — Sie wurde nicht Morgens,
-das Stöhnen be/Safe vermag: Allan Fraser war verletzt!, lag
-irgendwo b’sslös an Deck
+Sie fuhr im Zickzack, — — Sie wurde nicht gesteuert,
+das Stöhnen besagte genug: Allan Fraser war verletzt, lag
+irgendwo hilflos an Deck
 
-»Wir müssen ihn haben!«, nee? tote Greap schildert. »Roch
-lebend. Der Bursche soll gosundgepjleqf werden ihr einen
-anderen lotsen Gong’«
+»Wir müssen ihn haben!«, meinte Greap erbittert. »Noch
+lebend. Der Bursche soll gesundgepflegt werden für einen
+anderen letzten Gong!«
 
-Mieder schlossen lich die Nebelschleier. um wieder in der
-vorne e’n dumpfer Knall, doch eine Grotte, hochschießende Fontäne
+Wieder schlossen sich die Nebelschleier, und wieder in der
+Ferne ein dumpfer Knall, dem eine grelle, hochschießende Fontäne
 folgte.
 
-»Der Benzinkank!’«, kannte Pension finster. »Schuhe, auf
-die Waise entfacht der Kerl uns.«
+»Der Benzintank!!«, sagte Houston finster. »Schade, auf
+die Weise entgeht der Kerl uns.«
 
 Irgendwo aus dem Nebel eine dünne schrille Sirene,
 dreimal aufheulend …
 
-— « Wasserpolizei!«, — und Treppe l’lberne Pije’se schrillte
-in kurzen ntchenremnen b’s noch Ahnen aus da Johlen
-Grau ein getötet Dicker hervorschoß.;… Vor Führte, ein
-Brigant Schiffe erst Tor sorgfältig Greaps Legitimation.
+»Wasserpolizei!«, — und Greaps silberne Pfeife schrillte
+in kurzen Zwischenräumen bis nach Minuten aus dem fahlen
+Grau ein großer Kutter hervorschoß … Der Führer, ein
+Sergeant, prüfte erst sehr sorgfältig Greaps Legitimation.
 
-Kam kalkulierte er stramm. »Ganz zi; Ihrer Bergung,-
-Kaptain Hutter. — Wir hoben noch Gewehr mit knappen Not
-einen Mann aus den Waise gefischt die Jacht sackte weg.
-Dorf liegt Mr … Er z0 Sie am du setzen hole Kairo,
+Dann salutierte er stramm. »Ganz zu Ihrer Verfügung,
+Kaptain Hutter. — Wir haben noch gerade mit knappen Not
+einen Mann aus dem Wasser gefischt, die Jacht sackte weg.
+Dort liegt er …« Er zeigte auf die erleuchtete Kajüte.
 
-Au! der Verband lag Allan Trafen totenbleich Wasser
-und Blut rum aus seinen Kleider. Aber trotz des Hand«
-sangen Kalibers in der Brut flackerte uns aus se’nen Amen
+Auf der Wandbank lag Allan Fraser totenbleich. Wasser
+und Blut rann aus seinen Kleidern. Aber trotz des handlangen
+Splitters in der Brut flackerte uns aus seinen Augen
 ein wilder Haß entgegen. Seine Hand wollte nach der Hüfttasche
-greifen, — die Hand sel trieb und eine schrecken erregende
-&int von Verwünschungen folgte.
+greifen, — die Hand fiel herab und eine schreckenerregende
+Flut von Verwünschungen folgte.
 
 »Sergeant, den Verbandkasten!«
 
 <@pagebreak/>
-Großer wehrte sich. Aber das Stück Handgranate, das
-halb in Ton Nippen steckte, wurde entfernt, die Wunde gesäubert,
+Fraser wehrte sich. Aber das Stück Handgranate, das
+halb in den Rippen steckte, wurde entfernt, die Wunde gesäubert,
 verbunden und schließlich noch eine Kampferinjektion
-Gesehen, Tiefer war öhwnacwiio geworden,
+gegeben. Fraser war ohnmächtig geworden,
 
-Vor Kalter und unter kleines Boot landeten im Hase!.
-Sind Wand des Fensters kamen mit, zwei trugen die Leinwand,
-auf der Stufen lag, wird zwei schleppten das Maschinen
-Gewehr des ’Petrou: -Heulendes. — Zu der Kirche fanden wir
-ein sehr friedliches ’Sild. vor. Wilkiens hatte die anduchtige
-Gemeinde sehr bald völlig in der Hand gehabt, die Sorduibrüder
-heiseren jetzt ohne weiteres ihre Wasser ab, und Traurig
-und Kinder durch Atem in ihre Häuser heimkehren.
+Der Kutter und unser kleines Boot landeten im Hafen.
+Fünf Mann des Kutters kamen mit, zwei trugen die Leinwand,
+auf der Fraser lag, und zwei schleppten das Maschinengewehr
+des Patrouillenbootes. — In der Kirche fanden wir
+ein sehr friedliches Bild vor. Wilkiens hatte die andächtige
+Gemeinde sehr bald völlig in der Hand gehabt, die Jordanbrüder
+lieferten jetzt ohne weiteres ihre Waffen ab, und Frauen
+und Kinder durften in ihre Häuser heimkehren.
 
 »Es geht wie am Schnürchen«, lobte Greap und wandte
-sich dann sehr Täglich an die drei Personen in dem besonderen
-Gef’ühl. Es war dies die Gattin Mr. I3ack Sumzersette.
-seiner deren Schwester und Er. Allan Großes Tochter Lizzie.
+sich dann sehr höflich an die drei Personen in dem besonderen
+Gestühl. Es war dies die Gattin Mr. Jack Sunnersetts,
+ferner deren Schwester und Mr. Allan Frasers Tochter Lizzie.
 
 »Frau Sunnersett«, redete er die grauhaarige, recht
-üppige Taue zu, »gilt Sie die Mutter Anatol und Allan
+üppige Dame an, »sind Sie die Mutter Anatol und Allan
+Frasers?«
 
-lagert
-
-»Co …« Es klang sehr kleinlaut, und Liter Schminke
+»Ja …« Es klang sehr kleinlaut, und unter Schminke
 und Puder war ihr Gesicht ohne jede Spur von Farbe,«
 
-»Und Miß Lizzie, — ist sie« eine Schwester von Mietgarage,
-die sich Trolborn nennt? »Dich Ähnlichkeit ist ziemlich
-Spielbank.«
+»Und Miß Lizzie, — ist sie eine Schwester von Miß,
+Grace, die sich Trolborn nennt? Die Ähnlichkeit ist ziemlich
+sprechend.«
 
-Die Frau mit den harten, scharfen dicken Stich haßersiüllt
-hervor! »Leider sich«
+Die Frau mit den harten, scharfen Zügen stieß hasserfüllt
+hervor: »Leider!!«
 
-Knaben ihr ertönte von Zigarre blassen Tipp Keil He
-quollen Aufschrei. »Oh habe eine Schwester« Wrack Ist mir
-stets veihe’mlicht worden?! Weshalb?h1«
+Neben ihr ertönte von Lizzies blassen Lippen ein gequälter
+Aufschrei. »Ich habe eine Schwester?! Das Ist mir
+stets verheimlicht worden!! Weshalb?!«
 
-— Sie Halle den hübschen Kopf gedreht und starrte Frau
-Sunnersett vollkommen Fassungslos zu. überhaupt,
-was geh! hier vor?! oh begreife nichts von diesem weiß ten
-Eindringen der »Polizei in diese Kirche. die …«
--. die mit zu einem Banditennest zählt, Miß Fraser«
-ergänzte Greap den Satz mit milderer Stumme. »Offenbar
+Sie hatte den hübschen Kopf gedreht und starrte Frau
+Sunnersett vollkommen Fassungslos an. »überhaupt,
+was geht hier vor?! Ich begreife nichts von diesem unerhörten
+Eindringen der Polizei in diese Kirche, die …«
+
+»… die mit zu einem Banditennest zählt, Miß Fraser«
+ergänzte Greap den Satz mit milderer Stimme. »Offenbar
 <@pagebreak/>
-sind Sie und der alle Er, Sunnersett vollkommen Flur, 48-
-los geblieben, während diese dnseisiedsung samt ihren Ne
-weigern sich als Alkoholschmuggler, sBaukräuber und groß
-zügige Diebe betätigten. — Folgen Sie naß, Das Weitere
-dürfte in der Villa endgültig erledigt werde!
+sind Sie und der alte Mr. Sunnersett vollkommen ahnungslos
+geblieben, während diese Inselsiedlung samt ihren Bewohnern
+sich als Alkoholschmuggler, Bankräuber und großzügige
+Diebe betätigten. — Folgen Sie uns. Das Weitere
+dürfte in der Villa endgültig erledigt werden.«
 
-Houstons frisches Organ erklang vom Mittel der. »Kaptain,
-das Ding läßt sich drehen! Die Blicke sieht auf Felsboden
-… Hallo. —«— — ein Schacht, eine Trapper ’Bielleicht
-fließt da unten der heilige Jordan erlangt«
+Houstons frisches Organ erklang vom Altar her. »Kaptain,
+das Ding läßt sich drehen! Die Kirche steht auf Felsboden
+… Hallo: — — ein Schacht, eine Treppe! Vielleicht
+fließt da unten der heilige Jordan entlang!«
 
-Da unten in einer sehr geräumigen natürlichen Stelle
-floß später Alkohol in fiele Ritzen … Später. — Na Agent
+Da unten in einer sehr geräumigen natürlichen Höhle
+floß später Alkohol in tiefe Ritzen … Später. — Da unten
 fanden wir die beiden Hausdetektive mit bösen Kopfwunden,
-fanden wir auch die gesosseliv Grace Sraser+&rolboru im dabei
-Betäubung. Außerdem verfügbar die Fortan-Brüder zum
-Über ein reiches Lager von Rauschmitteln, Wasser und ein
-mitten, Seit Monaten holten div vorangehen Polizistenkräfte
-der Staaten Michigan und stilvoll (Chicago gehört zu 6l-
-Reis, während der Staat Michigan die Nordseite der großen
-Seen umfaßt) Kein so umfangreiches Schnaufen — und ’Diebes-
-Lager entdeckt wie vier. Auch die gestatteten Gemälde Kamen
+fanden wir auch die gefesselte Grace Fraser-Trolborn in halber
+Betäubung. Außerdem verfügten die Jordan-Brüder auch
+Über ein reiches Lager von Rauschmitteln, Waffen und Munition.
+Seit Monaten hatten die vereinigten Polizistenkräfte
+der Staaten Michigan und Illinois (Chicago gehört zu Illinois,
+während der Staat Michigan die Nordseite der großen
+Seen umfaßt) kein so umfangreiches Schmuggler- und Diebeslager
+entdeckt wie hier. Auch die gestohlenen Gemälde Kamen
 nachher zum Vorschein, desgleichen die beiden Kassetten und
-Miß Graces Schmurklawmen.
+Miß Graces Schmucksachen.
 
-Und — wie waren um die Zusammenhänge dieser denkwürdigen
-Affäre, die mit den vier Anzeigen 1a MichiganNecorder
+Und — wie waren nun die Zusammenhänge dieser denkwürdigen
+Affäre, die mit den vier Anzeigen im Michigan-Recorder
 begann?
 
-Hm Grunde waren sie bereits geklärt. Zu der Kette des
-Beweismater:als selten nur noch einzelne Glieder, und gerade
-diese warten ein bezeichnendes Licht auf die geahnte Abgründe
-menschlicher Verworfenheit und zu] die ungeheure.
-Verschlagenheit jenes Mannes, der als »Blawal« endlich Mylords
+Im Grunde waren sie bereits geklärt. In der Kette des
+Beweismaterials fehlten nur noch einzelne Glieder, und gerade
+diese warfen ein bezeichnendes Licht auf nie geahnte Abgründe
+menschlicher Verworfenheit und auf die ungeheure
+Verschlagenheit jenes Mannes, der als »Blawal« endlich entlarvt
 wurde,
 
 Was bedeutete »Blawal«?
@@ -2277,7 +2272,7 @@ Sollte noch Seltsame Überraschungen bringen.
 
 <@pagebreak/>
 
-<h2>8\. Kapitel.</h2>
+<h2>8. Kapitel.</h2>
 <h3>Um geringe Schuld …</h3>
 
 du Allzu &tufers Herrenzimmer im ersten Strick des
