@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">34366ab8-1832-4846-9318-073ff51eab50</entry>
+<entry key="title">289 Der blaugrüne Walfisch</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position"></entry>
+<entry key="language">de</entry>
+<entry key="description">
+Der blaugrüne Walfisch
+
+Das Bankgeschäft von Fraser u. Co. in der Michigan-Avenue war eine der ältesten Firmen dieser Art in Chicago.  Derzeitiger Alleininhaber war Mr. Anatol Fraser, ein Mann in den besten Jahren, der neben seinem Beruf nur eine Leidenschaft hatte: Seine Gemäldegalerie. — Wenn man diese Vorliebe für Werke alter Meister als »bescheiden« bezeichnet, muß man freilich hervorheben, daß Anatol Fraser ein Vermögen von rund zwanzig Millionen besaß und daß sein von seinen Vorfahren ererbtes Bankgeschäft einen Reingewinn abwarf, der dem frischen, sympathischen Junggesellen ebenfalls die Möglichkeit gab, sehr erhebliche Summen in seine Gemäldesammlung zu stecken. Für seine eigene Person lebte er äußerst anspruchslos, und das Unheil, das ihn in der Nacht vom 2. zum 3. Juni traf, erweckte nur allgemeine Teilnahme.
+
+In dieser Nacht ereignete sich folgendes. Der Nachtpförtner des neunstöckigen Hauses hatte gegen elf Uhr die telephonische Mitteilung erhalten, daß seine Frau an akuter Blinddarmentzündung schwer erkrankt sei. Ein Arzt Doktor Mittchell hatte ihn hiervon in Kenntnis gesetzt und ihn gebeten, sofort nach Hause zu kommen. Der bestürzte Pförtner rief daraufhin einen der beiden Hausdetektive herbei und erklärte ihm, er würde einen guten Bekannten als Vertreter schicken. Als der in der Michigan-Avenue sehr aufgeregt eine leere Autotaxe bestieg, winkte ihm der Detektiv noch tröstend nach. Eine halbe Stunde später meldete sich bei diesem der Vertreter, den der Nachtpförtner seinem Versprechen gemäß in die City geschickt hatte. Gegen ein Uhr morgens kehrte Mr. Anatol Fraser dann persönlich heim, er bewohnte den dritten Stock des schmalen hohen Gebäudes. Zu seinem Entsetzen fand er in der Vorhalle frische Blutspuren, läutete den Pförtner heraus, läutete jedoch umsonst. Die Tür der Loge war verschlossen.
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - () 289 Der blaugrüne Walfisch.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1930</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
