@@ -933,7 +933,7 @@ belebte City, schossen an Hochhäusern vorüber, deren nüchterne
 Zweckmäßigkeit anderswo störend aufgefallen wäre, — hier
 in dieser Riesenstadt des modernsten Lebenstempos gehörten
 sie nur mit zur Verherrlichung des Triumphes eines bienenfleißigen
-Volkes, das in hundert Jahren aus einem Indianderfort
+Volkes, das in hundert Jahren aus einem Indianerfort
 eine Metropole und den größten Eisenbahnknotenpunkt
 der Vereinigten Staaten geschaffen hatte.
 
@@ -1819,8 +1819,8 @@ zwei Schreibmaschinen und links an der Wand ein
 mächtiger Tresor modernster Bauart: Das war die »Kasse«
 der Werft. — Greap ging leise hinein und beleuchtete die
 Wände und den Tresor. »*Der* ist verschlossen«, sagte er
-scherzend. »So weil geht das elektrisch gern?ans BVortrau’n der
-Jdordanbriider doch nicht. daß sie ihre Schätze offen zv’qou,«
+scherzend. »So weit geht das elektrisch geladene Vertrauen der
+Jordanbrüder doch nicht, daß sie ihre Schätze offen zeigen.«
 
 Links neben der Kasse befand sich eine Tür: »Privatbüro.
 Anmeldung im Büro.«
@@ -1952,7 +1952,7 @@ Zusammenhänge ungefähr zu überschauen.
 
 Würden die Polizeiämter der Vereinigten Staaten ihre
 Kriminalarchive der letzten zwanzig Jahre der Allgemeinheit
-zugänglich machen, so würde unbeding all das törichte Geschwätz
+zugänglich machen, so würde unbedingt all das törichte Geschwätz
 jener leichtfertigen Kritiker, die die Kriminalliteratur
 als blöde Phantastereien verdammen, sehr bald verstummen.
 Schon der ewige Kampf gegen die Alkoholschmuggler hat
@@ -2273,273 +2273,272 @@ Sollte noch Seltsame Überraschungen bringen.
 <@pagebreak/>
 
 <h2>8. Kapitel.</h2>
-<h3>Um geringe Schuld …</h3>
+<h3>Um geringe Schuld.</h3>
 
-du Allzu &tufers Herrenzimmer im ersten Strick des
-Krerglegunt eingerichteten Hauses Saßen zu ernstestem Konzert
-mehrere Führer um den Sofatisch. Der alte Mr.
-Sunnersett, Gründen der Kolosse und ehrlicher, nur betrogenen
-Man, harte in einem Lehnstuhl Platz qeuowimett,
+In Allan Frasers Herrenzimmer im ersten Stock des
+überelegant eingerichteten Hauses Saßen zu ernstestem Konsilium
+mehrere Männer um den Sofatisch. Der alte Mr.
+Sunnersett, Gründer der Kolonie und ehrlicher, nur betrogener
+Mann, harte in einem Lehnstuhl Platz genommen,
 
 Wie zum Hohn hatte die Sonne inzwischen den Nebel
-ver)atbeucht und warf breite Lichtfluten durch die hohen Fenster
-auf die voernäachtioten Gesichter Kaptain Greaps Und eines
-Greises Steinen Elite. Div Telephonleitung zum FSoeltlauyd hatte
-Chicago, Milwaukee Bad andere Studie der UÜimyenend be
-stimmte ’Hesohle vermittelt, und Überall da, wo die trennen
+verscheucht und warf breite Lichtfluten durch die hohen Fenster
+auf die übernächtigten Gesichter Kaptain Greaps Und eines
+Teiles seiner Elite. Die Telephonleitung zum Festland hatte
+Chicago, Milwaukee und andere Städte der Umgegend bestimmte
+Befehle vermittelt, und Überall da, wo die frommen
 Jordanbrüder ihre meist abseits gelegenen Niederlassungen
 hatten, wurden diese Verbrechernester in aller Eile und Stille
-ausgehoben, Die ganze Sekte der Brüder vom Heimat Jordan,
-eine Gründung das einzigartig wtkelligeut-verderbien
+ausgehoben. Die ganze Sekte der Brüder vom heiligen Jordan,
+eine Gründung das einzigartig intelligent-verderbten
 Allan Fraser, war eine große Verbrecherorganisation, zweifellos
-die bedeutendste, die hier in den Nordoststaaolen je He
-wirkt hatte. Das Erstoualichste dieses »Gang« und famos
-hingen Gangsters Allan Großer war die verblüffende Je
-jschidilichkeit gewesen, mit der die weitvecnveigte Bande jeden
-Verdacht von sich abwendet und die Schuld am den zahllosen
-Untaten anderen »Bootes« zugeschoben hatte. Allan Fraser
-hatte Gib selbst stets im Hintergrund gehalten, die Werft galt
+die bedeutendste, die hier in den Nordoststaaten je gewirkt
+hatte. Das Erstaunlichste dieses »Gang« und seines
+klugen Gangsters Allan Fraser war die verblüffende Geschicklichkeit
+gewesen, mit der die weitverzweigte Bande jeden
+Verdacht von sich abgewendet und die Schuld an den zahllosen
+Untaten anderen »Gangs« zugeschoben hatte. Allan Fraser
+hatte sich selbst stets im Hintergrund gehalten, die Werft galt
 als kleines Musterunternehmen, die Insel für ein Paradies
-höchst sicherer Arbeite!. Zu Wahrheit war auch nicht ein
-einziger der Leute nützt vorbestraft, alle stammten aus beim
+höchst ehrbarer Arbeiter. In Wahrheit war auch nicht ein
+einziger der Leute nicht vorbestraft, alle stammten aus dem
 Westen, alle führten falsche Namen. Es waren die berüchtigtsten,
 vielgesuchtesten Tresorräubern unter ihnen, die nebenbei
-glänzende Schulter und Wer]taugestellte waren. All das
-kaum finster durch die polizetilibeu Ermittlungen an den Tag.
+glänzende Techniker und Werftangestellte waren. All das
+kam später durch die polizeilichen Ermittlungen an den Tag.
 <@pagebreak/>
-Ich nehme dies hier vorweg, um Allan Tresors verbrecherisches
-Genie in das reichte Licht zu linken, Felder Gangster
+Ich nehme dies hier vorweg, um Allan Frasers verbrecherisches
+Genie in das rechte Licht zu rücken. Welcher Gangster
 war je auf den Gedanken gekommen, die Religion als
-Schutzmauer für Raubzüge und zur Sarkasmus der »Polizei
+Schutzmauer für Raubzüge und zur Täuschung der Polizei
 zu benutzen?! — Er kam auf diese einzigartige Idee, und
-ihn gelang es- sogar, dem eiqgvuen Stiefvater Sand in die
+ihm gelang es sogar, dem eigenen Stiefvater Sand in die
 Augen zu streuen und Haß zu schüren, wo nicht der geringste
-Grund dazu vorlag: — Haß engen einen schwarzen, zahllosen,
-von Sammelwut besessenen Bankier: — den solchen Herüber!
+Grund dazu vorlag: — Haß gegen einen schwachen, haltlosen,
+von Sammelwut besessenen Bankier: — den reichen Bruder!
 
-»Sprechen Sie bitte«, wandte sich Greap -Kutter an Harst,
+»Sprechen Sie bitte«, wandte sich Greap-Hutter an Harst,
 der neben dem Greise saß. »Einen kurzen Überblick über die
-Ereignisse zu liefern, Uywichktiges wegzulassen und W?.-
-Arges hervorzuheben und zu ergänzen wird Ihren wortreich Du —
-schulten Geiste leichter als wie. Die Zeugen mit utgitiutt
-befinden sich ins Nebenraum. und Heulte: dort zu der Tür
-wird den Zougenautfruser spielen«
+Ereignisse zu liefern, Unwichtiges wegzulassen und Wichtiges
+hervorzuheben und zu ergänzen wird Ihrem juristisch geschulten
+Geiste leichter als mir. Die Zeugen und Zeuginnen
+befinden sich im Nebenraum und Houston dort an der Tür
+wird den Zeugenaufrufer spielen«
 
-»Oh bin neugierig, Herr Staatsanwalt«, wagte Allan
-
-Fragen mit zynischer Frechheit vieler unbestreitbaren Eigenschaft
-hier dekadenten Genies. zu bemerken, »Die »Phantastereien,
-mit denen Ihnen da meine uißratene Tochter Grace ausgewertet
-hat, dürften als Ergüsse e’nes durch Nikotin vergifteten
+»Ich bin neugierig, Herr Staatsanwalt«, wagte Allan
+Fraser mit zynischer Frechheit, dieser unbestreitbaren Eigenschaft
+aller dekadenten Genies, zu bemerken. »Die Phantastereien,
+mit denen Ihnen da meine mißratene Tochter Grace aufgewartet
+hat, dürften als Ergüsse eines durch Nikotin vergifteten
 Hirns vor unbefangenen Richtern bewertet werden.
-Legen Sie also los, Mr. Herren.«
+Legen Sie also los, Mr. Horter.«
 
-Harst nahm von dieser « zwecklosen Aupöbelei keinerlei
+Harst nahm von dieser zwecklosen Anpöbelei keinerlei
 Notiz. »Ihr Stiefvater wird kaum als glaubwürdiger Zeuge
-irgendwie angezweifelt werden«, begann er ohne jede Schätze.
-»Auch ich selbst stehe sozusagen Abenden-Parteien, Ich habe
+irgendwie angezweifelt werden«, begann er ohne jede Schärfe.
+»Auch ich selbst stehe sozusagen über den Parteien. Ich habe
 die Entwicklung der Dinge wie eine kunstvolle Schachpartie
-mit bearbeite! und lediglich Kaptain Hutter zuweilen zu diesem
-oder jenem Zuge geratet. Die ’Borgelihichte des Ganzen
-liegt jJünszehn Jahr« zurück. Die verwitwete Frau Auge
-Fraser hatte zwei Söhne, Alltag und Anatol, Zwillinge, jedoch)
-in bei Charakteranlagen völlig verschieden. Allan hatte den
-einbüßen, anständigen. ruhigen Bruder von jeher, zumal dieser
+mit bearbeitet und lediglich Kaptain Hutter zuweilen zu diesem
+oder jenem Zuge geratet. Die Vorgeschichte des Ganzen
+liegt fünfzehn Jahre zurück. Die verwitwete Frau Anna
+Fraser hatte zwei Söhne, Allan und Anatol, Zwillinge, jedoch
+in den Charakteranlagen völlig verschieden. Allan hatte den
+ehrlichen, anständigen, ruhigen Bruder von jeher, zumal dieser
 <@pagebreak/>
 geschäftlich außerordentlich vom Glück begünstigt wurde und
-die Freier-’Bank, die bereits vor dem Zusammenkniff!stand,
-in kurzem wieder herbrachte. Seine Mutter und sein Bruder
-waren derweil nur?) Detroit ausgewandert, da das ererbte
+die Fraser-Bank, die bereits vor dem Zusammenbruch stand,
+in kurzem wieder hochbrachte. Seine Mutter und sein Bruder
+waren derweil nach Detroit ausgewandert, da das ererbte
 Vermögen für die Ansprüche einer Stadt wie Chicago nicht
-genügte. &n Verreist lernte da Witwe Grafen dein reichen
-Senderl’ng Sam Innersten kennen, dessen Ceichtaläuiakeit
+genügte. In Detroit lernte die Witwe Fraser den reichen
+Sonderling Jack Sunnersett kennen, dessen Leichtgläubigkeit
 in der Folgezeit von den Hand in Hand arbeitenden Mutter
-und Sohn schaurige ausgenutzt wurde. Allan Fraser, verheirafoet
-und Vater zusteckt Tochter, wurde in demselben Sache
-Witwer. als Zumeist die Gutes Harpington auf Anraten
+und Sohn schamlos ausgenutzt wurde. Allan Fraser, verheiratet
+und Vater zweier Töchter, wurde in demselben Jahr
+Witwer, als Sunnersett die Insel Harpington auf Anraten
 Seiner Frau kaufte. Was Allan aus dieser Insel und Werft
-dann insgeheim machte, Wissens wir: Ein Flechte Herr ’st.
-Ausgleicht mit dem IJuselkauf Gegend er seine Rolle als Prophet
-der ’Briider vom Heiligen Fortan, vielleicht der raffinierteste
-Trick, der je zur Verschleierung gesetzwidrigen Handelns äausogeklügelf
-wurde. — Nach ein vor Jahren, als Anatol
-Fragen bereits wieder als reicher Mann gelten konnte, traten
-seine Mutter und sen Bruder Allan mit Geldforderungen an
-ihn heran. Er lehnte je b’s zu o’nom gewissen Grade ab,
-da er inzwischen unzweideutige Beweise beeilt erhalten hatte,
-daß drei versuchte Cresoreoinbrüche bei der Fraser« Bank ledig
-lich auf seinen ortakundigen Bruder zurückzuführen seien, Er
-gab Mutter und Bruder eine beträchtliche Summe, stellte abopx
-die Bedingung, daß ihm kahle Grace. se’ne Nichte, die or
+dann insgeheim machte, wissen wir: Ein Verbrechernest.
+Zugleich mit dem Inselkauf begann er seine Rolle als Prophet
+der Brüder vom Heiligen Jordan, vielleicht der raffinierteste
+Trick, der je zur Verschleierung gesetzwidrigen Handelns ausgeklügelt
+wurde. — Nach ein paar Jahren, als *Anatol*
+Fraser bereits wieder als reicher Mann gelten konnte, traten
+seine Mutter und sein Bruder Allan mit Geldforderungen an
+ihn heran. Er lehnte sie bis zu einem gewissen Grade ab,
+da er inzwischen unzweideutige Beweise dafür erhalten hatte,
+daß drei versuchte Tresoreinbrüche bei der Fraser-Bank lediglich
+auf seinen ortskundigen Bruder zurückzuführen seien. Er
+gab Mutter und Bruder eine beträchtliche Summe, stellte aber
+die Bedingung, daß ihm dafür Grace, seine Nichte, die er
 stets väterlich geliebt hatte, für immer überlassen bliebe. Er
 wollte sie aus der verbrecherischen Atmosphäre von Harpington
-befreien. Grace kam in sein Haus. als Grace Trolborn,
-angebl’ch als eine ’Berwandie einer Seitenlinie der &5»Ufers.
-Der Name Fraser ist hier so Beweis. daß man den Propheten
-Allan nicht mehr Mr dem Abkömmling der angesehenen Chicagoer
-Fensters ideonlisizierke. Je mehr des Bankiers Reichtum
-wuchs. desto grimmiger hasten ihm Mutter und Bruder,
-die ihm jJeinerzeitf bei der Erbauseinandersetzung alle Rechte
+befreien. Grace kam in sein Haus als Grace Trolborn,
+angeblich als eine Verwandte einer Seitenlinie der Frasers.
+Der Name Fraser ist hier so häufig, daß man den Propheten
+Allan nicht mehr mit dem Abkömmling der angesehenen Chicagoer
+Frasers identifizierte. Je mehr des Bankiers Reichtum
+wuchs, desto grimmiger hasten ihn Mutter und Bruder,
+die ihm seinerzeit bei der Erbauseinandersetzung alle Rechte
 <@pagebreak/>
-an der damals wertlosen Bankabgelreten hatten. Leider
-übertrugen die beiden diesen Haß auch: sehr geschickt auf
-Künstler?f und Lizzie Fraser, denen sie vortäuschen. Anatol
-habe eine bei der Erbauseinandersetzung betrogen. Und leider
-beide sich bei Anatol mittlerweile die Sammlerwut für kostbare
+an der damals wertlosen Bank abgetreten hatten. Leider
+übertrugen die beiden diesen Haß auch sehr geschickt auf
+Sunnersett und Lizzie Fraser, denen sie vortäuschten, Anatol
+habe sie bei der Erbauseinandersetzung betrogen. Und leider
+hatte sich bei Anatol mittlerweile die Sammlerwut für kostbare
 alte Gemälde derart entwickelt, daß er während einer
-Curgovareile sich dazu verstand, einen qestiohylenen Rubens zu
-erwerben und durch einen Master in Graf zwecks Transport
+Europareise sich dazu verstand, einen gestohlenen Rubens zu
+erwerben und durch einen Maler in Genf zwecks Transport
 über den Atlantik übermalen zu lassen,«
 
-an diesem Augenblick zeigte Greap, Houston und wir
-anderen uiwverhilit unser maßloses Erstaunen. Es war berechtigt,
+In diesem Augenblick zeigte Greap, Houston und wir
+anderen unverhüllt unser maßloses Erstaunen. Es war berechtigt,
 denn von dieser Einzelheit wußten wir nichts.
 
-»Die Umsöälschung, das Unbefugten alter Meister ist nun
-eine Spezialkunst«, fuhr Harst! fort, »deren Technik ich nicht
-näher entäußern möchte. Zedernholz b’vöok dabei das urspriü’gliche
-Bild völlig erhalten, 1xd das neue kann in’s eine löse
-Geflnloidschicht nachher wieder abgezogen werden. Vor Ganzer
-Maler wählte als Deckbild Bückling viel angejweiselten
-Blaugrünen Walfisch. Anatol Fraser bereits dieses Doppelbild
-die »machen« Böcklin und wies ihm nachher einen Thron
-platt in seinem Saale an. Aber mit dieser einen Unredlichkeit
-hofft er sich Mutter und Bruder ans Messer geliefert. Sie
-haften ihn auch in Europa beobachten fassen. und sie besaßen
+»Die Umfälschung, das Übermalen alter Meister ist nun
+eine Spezialkunst«, fuhr Harst fort, »deren Technik ich nicht
+näher erläutern möchte. Jedenfalls bleibt dabei das ursprüngliche
+Bild völlig erhalten, und das neue kann wie eine lose
+Zelluloidschicht nachher wieder abgezogen werden. Der Genfer
+Maler wählte als Deckbild Böcklins viel angezweifelten
+Blaugrünen Walfisch. Anatol Fraser verzollte dieses Doppelbild
+als »unechten« Böcklin und wies ihm nachher einen Ehrenplatz
+in seinem Saale an. Aber mit dieser einen Unredlichkeit
+hatte er sich Mutter und Bruder ans Messer geliefert. Sie
+hatten ihn auch in Europa beobachten lassen, und sie besaßen
 nun eine Waffe gegen ihn, drohten ihm mit Bloßstellung und
-erpressen von ihm große Summen, denn sowohl Frau SrasorSumersett?!
-wie Allan Fraser waren leidenhastliche Spieler
-und häufige Besucher verschiedensten Spielhöllen. Ihre Answichnunge.:
+erpreßten von ihm große Summen, denn sowohl Frau Fraser-Sunnersett
+wie Allan Fraser waren leidenschaftliche Spieler
+und häufige Besucher verschiedenster Spielhöllen. Ihre Aufzeichnungen
 beweisen das, wenn diese auch vorsichtshalber in
-Hissen niedergoeschrieben sind und wie harmlose Privo!kontobücher
-ansehen. — Anatol wurde seines Lebens nicht mehr grob.
-Sein Vomiitsmnstand anstelle Grace, und wie diese bereits
-zugegeben, hat er lich ihr schließlich anvertraut, Grace hat
-freilich das Bild uns gegenüber nicht erwähnt. — Ich komme«
-nun 71 den Vorfällen der jüngsten Berge 1qenheit. Offenbar
+Chiffren niedergeschrieben sind und wie harmlose Privatkontobücher
+aussehen. — Anatol wurde seines Lebens nicht mehr froh.
+Sein Gemütszustand ängstigte Grace, und wie diese bereits
+zugegeben, hat er sich ihr schließlich anvertraut. Grace hat
+freilich das Bild uns gegenüber nicht erwähnt. — Ich komme
+nun zu den Vorfällen der jüngsten Vergangenheit. Offenbar
 <@pagebreak/>
-hatte Anatol weitere Zeitungen an die Erpressern erscheint
-und gedroht, das Berklinbild, in Wahrheit war es ja ein
-Rubens, zu Weißleinen. Hierüber weiß Grace? nichts aufgeben.
-Die Jordanbrüder, deren Treiben Arzte! kannte,
+hatte Anatol weitere Zahlungen an die Erpressern abgelehnt
+und gedroht, das Böcklinbild, in Wahrheit war es ja ein
+Rubens, zu verbrennen. Hierüber weiß Grace nichts anzugeben.
+Die Jordanbrüder, deren Treiben Anatol kannte,
 holten nun zu einem Gewaltstreich aus. Wie unter ihnen üblich,
-halte Allan Fraser, der Gangster, seine Chicagoer Filiale durch
-Veitungsannoncen von dem Termin das geplanten Eindruck
-in das Fraser-Haus verständigt. Die ’Anroncen sind bis auf
+hatte Allan Fraser, der Gangster, seine Chicagoer Filiale durch
+Zeitungsannoncen von dem Termin des geplanten Einbruchs
+in das Fraser-Haus verständigt. Die Annoncen sind bis auf
 die erste unwichtig. In dieser war der Tag des Einbruch
 angegeben, die übrigen dienten nur dazu, der Filiale mitzuteilen,
 daß der Plan nicht fallen gelassen sei. Aus reiner
-Nioedertracht hatte Allan Fraser inzwischen sich als »Blawal«,
-»Zumal« und so werfen eines Decknamens bedient, der lediglich
-aus Wortteilen des »Brenzlichen Arabisches« bestand.«
+Niedertracht hatte Allan Fraser inzwischen sich als »Blawal«,
+»Gruwal« und so weiter eines Decknamens bedient, der lediglich
+aus Wortteilen des »Blaugrünen Walfisches« bestand.«
 
-Greap pfiff leise durch die, Zähne. »Allerdings eine Antenne,
+Greap pfiff leise durch die Zähne. »Allerdings eine Infamie,
 ein steter Schrecken für den Bankier!«
 
-»Die Ereignisse jener Nacht Streife ich ganz Kur). Anatol,
-der Gangster, traf mit uns Seglern zusammen und flüchtete,
-Sohne Jacht war ein auf der Harpington-Werft in aller
-Stille erbeutet kleines U-Boot, Die Konstruktionspläne fand …
-ich in den Bevölkerten Kirche. Dieses U-Boots bringt die
-Lösung so manchen Rätsels. Es war in vor Tod ein Walfisch.
-der tauchten und große Morgen Alkohol! befördern
-konnte. Kaptain Kutter war wie ich schon in jener Nacht auf den
-Gedanken gekommen, daß die Jacht ein Tauchboot sei, Die
-VRaummstöße dieses Belgisches hat ja »Hiervon 11« also sehr
-gespürt. — Was geschah um im Fraser-haust Der Nachtportier,
-der Gott so! Dank mit dem Leben danonkemimen wird,
-wurde fortgesetzt und angeschossen. Sein Stellvertreter, ein
-Vordanbruder, war ein Menschen von markanter Körperkraft.
+»Die Ereignisse jener Nacht Streife ich ganz Kurz. Anatol,
+der Gangster, traf mit uns Seglern zusammen und flüchtete.
+Seine Jacht war ein auf der Harpington-Werft in aller
+Stille erbautes kleines U-Boot. Die Konstruktionspläne fand
+ich in den Gewölben der Kirche. Dieses U-Boot bringt die
+Lösung so manchen Rätsels. Es war in der Tat ein Walfisch,
+der tauchen und große Morgen Alkohol befördern
+konnte. Kaptain Hutter war wie ich schon in jener Nacht auf den
+Gedanken gekommen, daß die Jacht ein Tauchboot sei. Die
+Rammstöße dieses Walfisches hat ja »Chicago 11« allzu sehr
+gespürt. — Was geschah nun im Fraser-Haus? Der Nachtportier,
+der Gott sei Dank mit dem Leben davonkommen wird,
+wurde fortgelockt und angeschossen. Sein Stellvertreter, ein
+Jordanbruder, war ein Mensch von ungeheurer Körperkraft.
 Er schlug die ahnungslosen Detektive nieder, ließ seine Spießgesellen
-ein und leitete das genau Unternehmen, ’Der Bilderraub
+ein und leitete das ganze Unternehmen. Der Bilderraub
 und der Diebstahl der Kassetten sowie die Plünderung
-vor Zimmer der tatsächlich abwesenden Miß Grace vollzog
+der Zimmer der tatsächlich abwesenden Miß Grace vollzog
 <@pagebreak/>
-sie in aller Stille. Die Banditen verließen unbeobachtet das
-Fraser-Haus wund eilten in den Grund-«Park, wo zu einem
-Bootssteg der »Braune!« mit Allan Fraser wartete. Al
+sich in aller Stille. Die Banditen verließen unbeobachtet das
+Fraser-Haus wund eilten in den Grant-Park, wo an einem
+Bootssteg der »Blauwal« mit Allan Fraser wartete. Al
 Clarc deckte seinen Genossen den Rückzug, hielt sich jedoch
-zu fange noch »im Hause auf und …« — Harst machte hier
-ans Pause — »und versandete in der Vorhalle dem gerade
+zu lange noch im Hause auf und …« — Harst machte hier
+eine Pause — »und begegnete in der Vorhalle dem gerade
 zurückkehrenden Anatol.«
 
-Greap nickt? zustimmend. »Ganz recht, So war es! Und
-Konto!!schoß Al Clarc in der Vorhalle Wunder. als dieser
-ihn gegen die Kante das Fahrstuhlschachtes schlenderte. Mit
-General Hilfe die soeben heimqekehrtf wär und den Schuß von
-oben gehört hatte. trug er den Toten in Graces Zimmer in
+Greap nickte zustimmend. »Ganz recht, So war es! Und
+Anatol schoß Al Clarc in der Vorhalle nieder, als dieser
+ihn gegen die Kante das Fahrstuhlschachtes schleuderte. Mit
+Graces Hilfe, die soeben heimgekehrt war und den Schuß von
+oben gehört hatte, trug er den Toten in Graces Zimmer in
 einen Schrank, ohne daß er gewahr wurde, was Al Clarc
-unter dem Mantel verborgen hatte: Das Bild — gerade das
+unter dem Mantel verborgen hatte: Das Bild — gerade *das*
 Bild, auf das es dem Gangster der Jordanbrüder angekommen
-war! Den blaugrünen Walsisch!l Paß Mittel für
-weitere Erpressungen!« ck
+war! Den blaugrünen Walfisch! Das Mittel für
+weitere Erpressungen!«
 
-Harst löste Kapkfa’in Charly als Ankläger wieder ab.
-»Anatol sind Grace mußten, nachdem lie den Kronen Hausmeister
-ins Vertrauen Gegnerin hatten, irgendwie Al Tieres
-Leiche unser unverdächkigen Umsinken im Tresor-Haus auffinden
-lassen, Beiwerk gab Bishop. der Hanztteistor. die
-Schiffes ab die Houston in den Flur lockten. Wir fanden Al
-Clarc in Grabes Zimmer, aber dort wo er lag, war überhaupt
-kein frisches Blut zu finden, un? daß der Mann schon
-längere Zeit Kot, war unschwer kaltzustellen. Nun kam für
-die drei Borbündetei1 die peinlichste Uoberraschung: Wir fanden
-dein Böcklin, die obere Farbeoaschicht hatte sich stellenweise
-gelost, und darunter schnurrte der dunkle Farbton des Rubens
-durch. Die Ding? endeten tragisch! Anatol. der eine
-Entdeckung seiner geringen Bersehlynngen voraussah, erschoß
-sich, Grace und Bi’hop den wir ja Scheusals hier bestraft
-haben. flüchteten mit der Jacht da sie völlig den Kopf verloren
-hatten, — der Walfisch raunte die doch und nahm im
+Harst löste Kaptain Charly als Ankläger wieder ab.
+»Anatol und Grace mußten, nachdem sie den treuen Hausmeister
+ins Vertrauen gezogen hatten, irgendwie Al Clarcs
+Leiche unter unverdächtigen Umständen im Fraser-Haus auffinden
+lassen. Deshalb gab Bishop, der Hausmeister, die
+Schüsse ab, die Houston in den Flur lockten. Wir fanden Al
+Clarc in Graces Zimmer, aber dort wo er lag, war überhaupt
+kein frisches Blut zu finden, und daß der Mann schon
+längere Zeit tot, war unschwer festzustellen. Nun kam für
+die drei Verbündeten die peinlichste Überraschung: Wir fanden
+den Böcklin, die obere Farbenschicht hatte sich stellenweise
+gelöst, und darunter schimmerte der dunkle Farbton des Rubens
+durch. Die Dinge endeten tragisch: Anatol, der eine
+Entdeckung seiner geringen Verfehlungen voraussah, erschoß
+sich, Grace und Bishop, den wir ja ebenfalls hier befreit
+haben, flüchteten mit der Jacht, da sie völlig den Kopf verloren
+hatten, — der Walfisch rammte die Jacht und nahm im
 <@pagebreak/>
-Nebel die beiden zu Bord, — Anatols Dorfes« (von dem Stötiipeil
-annahmst Harst nichts) »wies wie den Weg hierher, und mit
-den Gordau’Biüdern werden sich die Gelände zu besessen
-Buben«.
+Nebel die beiden an Bord, — Anatols Brief« (von dem Stempel
+erwähnte Harst nichts) »wies uns den Weg hierher, und mit
+den Jordan-Brüdern werden sich die Gerichte zu befassen
+haben.«
 
-Der windige alte Knarren Zweck seinem StiestFhu
-Allan Omen uwagosprechtichen Blick zu, »Schurke!«, sagte er
-mir, erhob ich und hat, ein entfernen zu dürfen.
+Der würdige alte Sunnersett warf seinem Stiefsohn
+Allan einen unaussprechlichen Blick zu: »Schurke!«, sagte er
+nur, erhob sich und bat, sich entfernen zu dürfen.
 
-Die auch k/Kopie stärker ihm zu.
+Die Tür klappte hinter ihm zu.
 
-»Im übrigen«, meinte Harst mit besonderer Bekanntlich,
-»ist Anatols Befreiung, was den Kauf des gestohlenen Ebene
-angeht, von mir natürlich nur eine Vermutung, die lich nicht
-beweisen läßt, da Grace das Bild verbrannt ha?f. Am werde
+»Im übrigen«, meinte Harst mit besonderer Betonung,
+»ist Anatols Verfehlung, was den Kauf des gestohlenen Rubens
+angeht, von mir natürlich nur eine Vermutung, die sich nicht
+beweisen läßt, da Grace das Bild verbrannt hat. Ich werde
 jedenfalls dafür sorgen, daß Anatol Frasers Andenken rein
-erhalten bleibt, und Sie, Kaptain Hutter, Können Ohren Bricht
-dementspreideund abtastet. Was Sie vorbringen, Allan
-Fragen, wird kein Mensch glauben. Es wäre auch ratsam,
-Ihre Erpressungen besser unter den Tisch Fallen zu lassen. Die
-verstehen mich wohl, Kleinere dadurch ein paar Gewehre Zuchthaus,
-schwache ich.« — —« …
+erhalten bleibt, und Sie, Kaptain Hutter, Können Ihren Bricht
+dementsprechend abfassen. Was Sie vorbringen, Allan
+Fraser, wird kein Mensch glauben. Es wäre auch ratsam,
+Ihre Erpressungen besser unter den Tisch fallen zu lassen. Sie
+verstehen mich wohl, Sie sparen dadurch ein paar Jahre Zuchthaus,
+schätze ich.« — —
 
-Am übernächsten Morgen sahen Greap, seine Sie uns
-wir wieder im Hotel Bengel dein Frühstück, Die versetzte
-blonde Roxy Dehli bediente uns. Houston lud Wilkiens
-lagen sich wieder einmal mit bissig harmlosen Becher Klugen
-den Haaren. Das Baby war frecher den so, und als
-Wilkiens gelegentlichen fragte, ob Harst und Greap denn vigentfich
-Sofort Hütten wissen können, daß Al Clarc in der Vorhalle
+Am übernächsten Morgen saßen Greap, seine Elite und
+wir wieder im Hotel Bennett beim Frühstück. Die reizende
+blonde Roxy Weylt bediente uns. Houston und Wilkiens
+lagen sich wieder einmal mit bissig harmlosen Bemerkungen
+in den Haaren. Das Baby war frecher denn je, und als
+Wilkiens gelegentlich fragte, ob Harst und Greap denn eigentlich
+Sofort Hätten wissen können, daß Al Clarc in der Vorhalle
 erschossen wurde, meinte Baby Houston sehr spitz: »Wilkiens,
-die sollten sich pensionieren fassen! Wir kam denn das »Etui
-in die Vorhalle, das nicht von Anatols Schadelwuande verführte?!«
+Sie sollten sich pensionieren lassen! Wie kam denn das Blut
+in die Vorhalle, das *nicht* von Anatols Schädelwunde herrührte?!«
 
-Kaptain Char’!y drohte den beiden Kampfhähnen scherzend
-mit der Saust, »Auch Sie sind aus dem Holzwege, Houston,
-Gläsern Sie lich nicht zu sehr aus! Nicht das Blut war die
+Kaptain Charly drohte den beiden Kampfhähnen scherzend
+mit der Faust. »Auch Sie sind auf dem Holzwege, Houston,
+blähen Sie sich nicht zu sehr auf! Nicht das Blut war die
 Hauptsache, sondern die Patronenhülse unter der einen Teppichecke,
 <@pagebreak/>
-und die Küsse Rom nach einem frischen Schuß!« — €
-blickte naß Ei Apparatetisch … Der Schnelltelegraph
+und die Hülse roch nach einem frischen Schuß!« — Er
+blickte nach dem Apparatetisch … Der Schnelltelegraph
 schnarrte. Ein Papierstreifen lief ab …
 
-»Mir scheint …!ich«, meinte Greap gedehnt …
+»Mir scheint …!!«, meinte Greap gedehnt …
 
 »Mir scheint …!!«, sagte Harst …
 
-— Und es war zu? so. Der Sherlock meldete sehr drin
-Hand eilige Arbeit. In
+— Und es war auch so. Der Oberchef meldete sehr dringend
+eilige Arbeit.
 
-Nächster Band: Der Reklametrickfilm.
+Nächster Band: *Der Reklametrickfilm.*
