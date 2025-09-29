@@ -6,9 +6,9 @@
 <h3>Die Lady und zwei Strolche.</h3>
 
 Es war ein einsamer, staubiger Feldweg, auf dem die
-beiden durften Kunden hier am äußersten Nordwestrande der
+beiden duften Kunden hier am äußersten Nordwestrande der
 Vororte Chicagos müde dahintrippelten. Der kleinere schwitzte
-und kaufe an einem Zigarrenstummel, der größere — beide
+und kaute an einem Zigarrenstummel, der größere — beide
 waren nicht mehr ganz jung und befanden sich im Zustand
 äußerster Abgerissenheit — rauchte mit philosophischer Ruhe
 eine Zigarette und hatte zum Überfluß noch ein gelbes rundes
@@ -20,9 +20,9 @@ gefüllten Rucksack schleppte, war ihm nichts von Erschöpfung
 anzumerken.
 
 Um diese Mittagsstunde meinte es die Sonne besonders
-auf. Die beiden Waldstücke rechts und links des Weges
+gut. Die beiden Waldstücke rechts und links des Weges
 hielten jeden Luftzug fern, der kleine Dicke fluchte und hinkte,
-der Große Jagte nur mit einer weit ausholenden Handbewegung:
+der Große sagte nur mit einer weit ausholenden Handbewegung:
 
 »Scheinst das Tippeln auch nicht gerade gewöhnt zu sein,
 Old Boy! Ein echter Tramp läuft barfuß, wenn ihm die Luftlöcherstiefel
@@ -35,204 +35,202 @@ ebenso gut genährter Policeman.
 
 Der Hagere mit dem gelben Zelluloidmonokel schwenkte
 <@pagebreak/>
-respektvoll den echten Panama, der mehr Löcher als Geeilt,
+respektvoll den echten Panama, der mehr Löcher als Geflecht,
 dafür aber ein paar bunte Hahnenfedern als Schmuck
 hatte.
 
 »Mr. Kaptain, bitte … Als wie bei uns, da ist alles in
-
 Ordnung!«
-»Ja … na!«, zweifelte der Uniformierte unfreundlich.
-Er prüfte die Papiere sehr sorgfältig. Sein Geistes Gesicht
-wurde jedoch sehr bald freundlichen. »Also Schauspieler …
-Na auf … — und Gehört«
+
+»Na … na!«, zweifelte der Uniformierte unfreundlich.
+
+Er prüfte die Papiere sehr sorgfältig. Sein feistes Gesicht
+wurde jedoch sehr bald freundlicher. »Also Schauspieler …
+Na gut … — und Geld?!«
 
 »Bitte … Jeder noch zwanzig Dollar«, erklärte der
-Lange Graf/Sprung. »Also von Betteln keine Rede!«
+Lange großspurig. »Also von Betteln keine Rede!«
 
-»So … So …! Geist da; mal die Dollarnoten her …«
+»So … So …! Zeigt doch mal die Dollarnoten her …«
 Er hielt sie einzeln gegen die Sonne, befühlte sie und zuckte
 die Achseln. »Wohl irgendwo in der Untergrundbahn im
-Gedränge in fremder Börse gefunden …! — Schicht ab!«
+Gedränge in fremder Börse gefunden …! — Schiebt ab!«
 
-Hm letzten Augenblick überlegte er sich es anders. »Wartet
-mal …« Er betastete sich sorgfältig nach Wasser, ließ auch
+Im letzten Augenblick überlegte er sich es anders. »Wartet
+mal …« Er betastete sie sorgfältig nach Waffen, ließ auch
 den Rucksack öffnen und wunderte sich sehr über den reichen
 Inhalt. »Verdammt — zwei gute Smokinganzüge, gute Wäsche,
+hört mal, ihr beiden, ich möchte auch doch besser mit
+zur Wache nehmen …«
 
-hör?! mal, ’br Eichen, ich möchte auch doch besser mit
-zur Wache geistvoll …
-
-Gerade da, als er noch die eine Hose mit den scharf ge
-bügelten Falten in der Hand emporhielt, kam wie alltäglich
-vor große Fort der Riß Elvira Beonminqton daher gerast.
+Gerade da, als er noch die eine Hose mit den scharf gebügelten
+Falten in der Hand emporhielt, kam wie alltäglich
+der große Ford der Riß Elvira Bennington dahergerast.
 Miß Elvira fuhr stets in einem Tempo, das ihr So manche
 Poltzeistrafe eintrug, sie steuerte stets den Wagen selbst,
 während hinten ihre Zofe, der junge Chauffeur und ihr Wolfshund
-»Eng« es sich bequem machten. Miß Elvira harte,
+»Terry« es sich bequem machten. Miß Elvira hupte,
 aber der Policeman, gerade kein Freund von ihr, blieb breitbeinig
-mitten auf der Straße stehen und war] ihr einen giftigen
+mitten auf der Straße stehen und warf ihr einen giftigen
 Blick zu.
 
-Clinton Benutzten bremste und hielt dicht vor der Gruppe.
+Elvira Bennington bremste und hielt dicht vor der Gruppe.
 Voller Interesse musterte sie die beiden Stromer, wandte sich
-dann zu ihrer &Jofe um und meinte entzückt:
+dann zu ihrer Zofe um und meinte entzückt:
 
 <@pagebreak/>
-in die Stirn.
-ein. und ihre dunklen Augen strahlten dann mit der Sonne
 
-2DSSSSDSSSSSS 5 DSSSSSSSSSSS
+»Jeannette, zwei Typen!!«
 
-»Seannette, zwei Dynamit«
+Jeannette pflichtete eifrigst bei.
 
-Seannette pflichtete eifrigst bei.
-
-»So etwas findet man selten, Miß, sehr selten …
+»So etwas findet man selten, Miß, sehr selten …«
 
 Ohne von dem Beamten irgendwie Notiz zu nehmen, fragte
 die verwöhnte Lebedame:
 
 »Hallo, — was seid ihr beide von Beruf?«
 
-Per begangene dienerte, grüßte und erwiderte schmunzelnd:
-»Theaterszene, Miß… Berühmte Großen … Mein Kollege
-mißt 1.02, ich 1,81, unser Taillenumfang ist …«
+Der Hagere dienerte, grüßte und erwiderte schmunzelnd:
+»Theaterstars, Miß … Berühmte Größen … Mein Kollege
+mißt 1,62, ich 1,81, unser Taillenumfang ist …«
 
-Elvira lachte herzlich und schob die Autobrille noch; höher
-Wenn sie lachte, hatte sie zwei allerliebste Frühe
-
+Elvira lachte herzlich und schob die Autobrille noch höher
+in die Stirn. Wenn sie lachte, hatte sie zwei allerliebste Grübchen,
+und ihre dunklen Augen strahlten dann mit der Sonne
 um die Wette. Chicagos eleganteste Frau hatte weder Puder
-noch Schminke nötig. Söhne stachelte jugendfrische Schönheit
-weckte den Neid sämtlicher Millioneusen, oder die bescheidenen
+noch Schminke nötig. Ihre sieghafte jugendfrische Schönheit
+weckte den Neid sämtlicher Millioneusen, aber die bescheidenen
 Mädels aus den Büros der Wolkenkratzer vergötterten sie.
+
 Elvira Bennington sagte sehr bestimmt: »Wollt ihr Arbeit
-haben:
-Die Gesichter der Trumpf wurden sehr lang.
-»Was verließen Sie unter Anbei?«, fragte der Lange
+haben?«
 
+Die Gesichter der Tramps wurden sehr lang.
+
+»Was verstehen Sie unter Arbeit?«, fragte der Lange
 mißtrauisch.
-»Erinnert«, erklärte die ’Dennington kurz). »Ich biete euch
 
-pro Monat zweihundert! Dollar ;.«
+»Filmen!«, erklärte die Bennington kurz. »Ich biete euch
+pro Monat zweihundert Dollar …«
 
-Nicht nur die Pennbrüder, sondern glich) der Policeman
+Nicht nur die Pennbrüder, sondern auch der Policeman
 rissen vor Staunen die Mäuler auf.
 
 »Donnerwetter!«, grunzte der kleine Dicke. »Ein kapitaler
+Witz!!«
 
-Witz!!
 Elvira runzelte die Stirn.
 
-»Wollt ihr«, fragte sie kurz.
-»Ro &Sragel! Natürlich! Aber — — bitte, keine Arbeit
-— — etwa Holzhacken oder Mähen oder Schafe weiden«,
+»Wollt ihr?«, fragte sie kurz.
 
-meinte der Lange und  Schickte den Policeman an. »Oder etwa
-Ochsen müssen oder …«
+»Na Frage!! Natürlich! Aber — — bitte, keine Arbeit
+— — etwa Holzhacken oder Mähen oder Schafe weiden«,
+meinte der Lange und  Schielte den Policeman an. »Oder etwa
+Ochsen mästen oder …«
 
 <@pagebreak/>
-Elviras silbernes Lachen hatte eine Leiche neidisch machen
+Elviras silbernes Lachen hatte eine Lerche neidisch machen
 können.
 
-Der setzte Uniformierte schlenderte wiegt davon.
+Der fette Uniformierte schlenderte wütend davon.
 
 Die Bennington nahm ein Notizbüchlein, kritzelte etwas
 auf eine Seite, riß das Blatt heraus und gab es dem Langen
 nebst einer Zehndollarnote. »Da, meldet euch drüben im
-Atelier der Lincoln-Gesellschaft.« Sie deutete hinter sich zu]
-ein großes, gewölbtes Glasdach jenseits des Buschstreifens;
+Atelier der Lincoln-Gesellschaft.« Sie deutete hinter sich auf
+ein großes, gewölbtes Glasdach jenseits des Buschstreifens.
 »Man wird euch dort auch Unterkunft gewähren, aber ich
 brauche euch So, wie ihr seid, also bitte keine Schönheitskorrekturen!«
 
 Der kleine Dicke grinste hinter dem Policeman drein.
 
-»Mit Verlaub, Miß… Meine Latschen drücken …«
+»Mit Verlaub, Miß … Meine Latschen drücken …«
 
-Er so erst den einen Riesenfisches aus, entfernte aus dessen
-Eisig eine Filzsohle und holte dann aus dem Schuh eine
-Pistole hervor, die er in die Tasche steckte. Auch der anders
-Schub enthielt die gleiche Waffe.
+Er zog erst den einen Riesenstiefel aus, entfernte aus dessen
+Tiefe eine Filzsohle und holte dann aus dem Schuh eine
+Pistole hervor, die er in die Tasche steckte. Auch der andere
+Schuh enthielt die gleiche Waffe.
 
-»Miß, wir teilen uns das Gepäck«, sagte er ganz Brust.
+»Miß, wir teilen uns das Gepäck«, sagte er ganz ernst.
 »Harry schleppt den Rucksack, ich die Knallbüchsen … Ohne
-Knallbüchsen ist es jetzt nicht ganz — geheuer hier in Chicago,
-Heute früh gab es wieder Extrablätter … Großer gab;
-bloß zwei Tote, sehr billig sind die Herren zu 200&nbsp;000 Schlaf
-Lohngeldern gekommen … Schade, daß unsereinen nicht mal!
+Knallbüchsen ist es jetzt nicht ganz geheuer hier in Chicago.
+Heute früh gab es wieder Extrablätter … Großer Raub,
+bloß zwei Tote, sehr billig sind die Herren zu 200&nbsp;000 Dollar
+Lohngeldern gekommen … Schade, daß unsereinem nicht mal
 so ein gespicktes Auto über den Weg läuft … Feine Arbeit
-war das, Chicago!steht mal wieder Kanal!«
+war das, Chicago steht mal wieder Kopp!!«
 
-Elvira Benningtons Augen schlossen sich halb. Ihre rechtes
-Hand fuhr blitzschnell in die Tasche. ihres Staubmantels. Als
+Elvira Benningtons Augen schlossen sich halb. Ihre rechte
+Hand fuhr blitzschnell in die Tasche ihres Staubmantels. Als
 diese feinbehandschuhte Hand wieder erschien, durften die beiden
 Stromer eine dritte Pistole bewundern.
 
-»Öd ihr von der Sorte?«, fragte »ie junge Dame
+»Seid ihr von *der* Sorte?«, fragte die junge Dame
 scharf. »Bei mir werdet ihr kein Glück haben … Oder …«
 
 Der Lange lächelte höflich. Sein blonder Vollbart umrahmte
 ein intelligentes Gesicht.
 
 <@pagebreak/>
-»Sie täuschen sich, Miß… Zu der Sorte gehören wi.
+»Sie täuschen sich, Miß … Zu *der* Sorte gehören wir
 nicht, — noch nicht … Aber Hunger und Not … — man
-kann nie wissen, 1 wann aus Paulus ein Saulus wird, ’der Ton
-der Ehrlichkeit ist nur eine sehr schmale Latte, man bekommen!
-daran]. wagt war abrutscht, weiß man nie.«
+kann nie wissen, wann aus Paulus ein Saulus wird, der Weg
+der Ehrlichkeit ist nur eine sehr schmale Latte, man balanciert
+darauf, wann man abrutscht, weiß man nie.«
 
-Abt Bennington stieg Rückblick aus.
+Miß Bennington stieg plötzlich aus.
 
-»Edward, die warten hier«, befahl sie dem Chauffeur
+»Edward, Sie warten hier«, befahl sie dem Chauffeur.
 Und zu den Stromern: »Kommt mal mit … Aber bleibt gefälligst
-auf der schmalen Planke. Ich Presse nämlich nie in
-die blaue Gut!«
+auf der schmalen Planke. Ich treffe nämlich nie in
+die blaue Luft!«
 
 Der Lange steckte die Smokinganzüge sorgfältig ein und
-meinte dabei vorwurfsvoll: »Sehen wir wie Straßenuraube!t
-quer! Wir sind bis auf weiteres absolut ehrliche Kerle.«
+meinte dabei vorwurfsvoll: »Sehen wir wie Straßenräuber
+aus?! Wir sind bis auf weiteres absolut ehrliche Kerle.«
 
 Aber Elvira hatte wohl bereits recht schlechte Erfahrungen
-gemacht, »Geht voran. Dort links zweigt ein Fußpfad ab.
-Vorwärts! Und bitte keine zwecklosen Versuche/ mich überrumpeln
+gemacht. »Geht voran. Dort links zweigt ein Fußpfad ab.
+Vorwärts! Und bitte keine zwecklosen Versuche, mich überrumpeln
 zu wollen.«
 
-Die beiden Trumpf schritten eilends die Straße hinab.
+Die beiden Tramps schritten eilends die Straße hinab,
 bogen links ab und befanden sich nach Durchquerung des
-Waldes vor einer lehmigen Schlucht, in der ein Bach entlangplätschertfe,
-über den eine -Balkenbrücke führte. Jenseits des
-Baches im Gestrüpp- stand eine verfallene Holzbude, die sich
+Waldes vor einer lehmigen Schlucht, in der ein Bach entlangplätscherte,
+über den eine Balkenbrücke führte. Jenseits des
+Baches im Gestrüpp stand eine verfallene Holzbude, die sich
 mit der Rückwand an die Lehmwand stützte.
 
 »Halt«, befahl Elvira Bennington ebenso energisch, als
-
 man die Hütte erreicht hatte. »Setzt euch … Eure Papiere
 bitte!«
+
 Niemand hatte diesem blonden schönen Geschöpf eine solche
-
 Tatkraft zugetraut.
-die selbst ließ sich auf einen Stein in der Nähe nieder und
 
-legte ihre Pistole entsichert in den Schoß…
+Sie selbst ließ sich auf einen Stein in der Nähe nieder und
+legte ihre Pistole entsichert in den Schoß.
 
-»Also Harry Harper und Mac O. Schall heißt ihr …
-Hilf«
-»Die »Papiere? — Saal — Wir nicht«, jagte der Kleine
+»Also Harry Harper und Mac O. Scall heißt ihr …
+Echt?!«
+
+»Die Papiere? — Ja! — Wir nicht«, sagte der Kleine
 feixend.
 
 <@pagebreak/>
-»» Was heißt das?!«
+»Was heißt das?!«
 
-»Ehrlichkeit — — schmale Planke, Miß… Wie schon
+»Ehrlichkeit — — schmale Planke, Miß … Wie schon
 erwähnt, wir beneiden die Banditen von heute früh … Mit
-fünftausend Dollar könnten wir ein Kino kaufen und Lebhaft
+fünftausend Dollar könnten wir ein Kino kaufen und seßhaft
 werden.
 
-»Hm Zuchthaus« « meinte Elvira warnend. »Grotten — —
+»Im Zuchthaus«, meinte Elvira warnend. »Trotzdem —
 ihr könnt die Summe ehrlich verdienen, wenn ihr … ehrlich
 und treu seid.«
 
-Sie 3909 ein Zigarettenetui, das mit Brillanten besetzt
+Sie zog ein Zigarettenetui, das mit Brillanten besetzt
 war, hervor, warf jedem der Strolche eine Zigarette hin und
 begann nachdenklich zu rauchen.
 
@@ -240,135 +238,132 @@ Harry und Mac betrachteten erst die vornehmen Tabakröllchen,
 dann rieb Mac sein Feuerzeug an und sagte zu seinem
 Kollegen: »Kannst du treu sein, du Kerl?! Ich ja.«
 
-»Öl auch.«
+»Ich auch.«
 
-Sterne musterte sie prüfend. »Ihr seht nicht dumm aus«
-erklärt? sie lächelnd. »Wollt ihr mir blindlings gehorchen?«
+Elvira musterte sie prüfend. »Ihr seht nicht dumm aus«,
+erklärte sie lächelnd. »Wollt ihr mir blindlings gehorchen?«
 
-Der Lauge ’blies ein paar Rauchringe. »Damm waren
-wir drum, wenn wir eine Solche Verpflichtung eingingen,
-Miß. Was heißt blindlings? Gemordet haben wir noch) nicht,
-
+Der Lange blies ein paar Rauchringe. »Dann wären
+wir dumm, wenn wir eine Solche Verpflichtung eingingen,
+Miß. Was heißt blindlings? Gemordet haben wir noch nicht,
 gestohlen ja, auch Sonst haben wir — na, Schwamm drüber. —
-Was verlangen Sie und was bezahlen Sie«
+Was verlangen Sie und was bezahlen Sie?«
 
-Der Ton Sagte Elvira durchaus zu. »Ich Dorfjunge lediglich
-… Spionage, Beobachtung …
+Der Ton Sagte Elvira durchaus zu. »Ich verlange lediglich
+… Spionage, Beobachtung …«
 
-»Am … Wen?«
+»Hm … Wen?«
 
-»irren Beamten der Der tektiopolizei sollt ihr beobachten,
+»Einen Beamten der Detektivpolizei sollt ihr beobachten,
 einen Kaptain Morris.«
 
 »Gerechter Gott!«, rief der kleine Dicke. »Das wäre
 Selbstmord, Miß. Polizei?! Wir danken unserem Schöpfer,
-weint wir …«
+wenn wir …«
 
-»Halt’s Mal«, fuhr der andere ihn an. »Warte
-doch ab … Was ist den dabei für ne Gefahr, einen ’Polyp
-j’ beobachten?! »Feierlich! Wenn ich ne anständige Straßenlust
-und Geld hatte …
+»Halt’s Maul!«, fuhr der andere ihn an. »Warte
+doch ab … Was ist den dabei für ne Gefahr, einen Polyp
+zu beobachten?! Lächerlich! Wenn ich ne anständige Straßenkluft
+und Geld hätte …«
 
 <@pagebreak/>
--»- -. das meinte ich ja eben«, brummte Mac achselzuckend.
+»… das meinte ich ja eben«, brummte Mac achselzuckend.
 »So abgerissen können wir doch unmöglich in die
-Stadt reif. — Wie heißt der Kaptain?«
+Stadt rein. — Wie heißt der Kaptain?«
 
-»Morris, Ton Morris … — &ür anständige Anzüge
+»Morris, Tom Morris … — Für anständige Anzüge
 sorge ich … Ihr braucht euch nur im Filmatelier einkleiden
 zu lassen. Als Anzahlung erhaltet ihr jeder fünfzig Dollar.
 Eure Auslagen für Autofahrten und so weiter bekommt ihr
 ersetzt. Sobald ihr durch die Beobachtung Morris’ festgestellt
 habt, wo sich …« — sie schwieg plötzlich und überlegte
-wieder, Sog hastig zu ihrer Zigarette und fuhr fort: »Satt
+wieder, Sog hastig an ihrer Zigarette und fuhr fort: »Habt
 ihr in den Zeitungen von dem Spezialkommissar zur Bekämpfung
 der Gangsters in Chicago gelesen?«
 
-»Und ob, und ob!«, ließ der Dicke strahlend. »Kaptain
+»Und ob, und ob!«, rief der Dicke strahlend. »Kaptain
 Hutter heißt der … der Schnüffler, und wo der wohnt, weiß
 nur der Bürgermeister, sagt man … Das muß ein Kerl sein,
 der Hutter!!«
 
 Elvira Bennington verzog den Mund zu einem geringschätzigen
 Lächeln. »Auch Morris kennt das Hauptquartier
-Kutters und seiner zwölf Leute, — nein, fünfzehn sollen es
-sein. Neun ihr es schlau ansangt, werdet ihr durch Partie
-dieses Hauptquartier finden, und das ist eure ganze Ausgabe.
+Hutters und seiner zwölf Leute, — nein, fünfzehn sollen es
+sein. Wenn ihr es schlau anfangt, werdet ihr durch Morris
+dieses Hauptquartier finden, und das ist eure ganze Aufgabe.
 Sobald ihr es entdeckt habt, bekommt ihr jeder tausend Dollar.
 Mein Wort darauf.«
 
-Harry, der Vagabund, sagte geschuäftsmäßig!
+Harry, der Vagabund, sagte geschäftsmäßig:
 
-»CTausendjünshundert, — dann versprechen wir Ebnen auch
+»Tausendfünfhundert, — dann versprechen wir Ihnen auch
 auf unser Wort, daß wir ehrliche Arbeit verrichten, wie es
 unsere Pflicht ist, Miß. — Na?«
 
 »Gut … Und damit Ihr seht, daß ich euch traue: Hier
-für jeden hundert Anzahlung und diesen &Settel, der euch zu
+für jeden hundert Anzahlung und diesen Zettel, der euch zu
 Kleidern verhilft …« Sie Schrieb ein neues Notizblatt aus
-und war! es Harrt! zu.
+und warf es Harry zu.
 
-»Ausmachen?!«
+»Zufrieden?!«
 
 »Ja, Miß, sehr, viel zufriedener, als wir je zu hoffen
-wagten, und …« …
+wagten, und …«
 
 <@pagebreak/>
-Er verstummte, da Glich Elvira plötzlich die Pistole in
-
+Er verstummte, da Miß Elvira plötzlich die Pistole in
 der Hand hielt und blitzschnell abgedrückt hatte.
-ön der Hvolizbude Fiel ein Körper krachend zu Boden.
-»Mein Soll«, rief Miß Bennington entgeht … »Das
-war meine Schuld … Ad wollte die Waffe nur in die Lasche
-Es scheint jemand in der Hütte gewesen zu sein.«
 
-stehen …
-»Ja«, jagte Harry trocken, »und der Geschenk ist tot. —
-Sehen wir uns den »Pechvogel mal an …«
+In der Holzbude Fiel ein Körper krachend zu Boden.
+
+»Mein Gott!!«, rief Miß Bennington entsetzt … »Das
+war meine Schuld … Ich wollte die Waffe nur in die Tasche
+stecken … Es scheint jemand in der Hütte gewesen zu sein.«
+
+»Ja«, sagte Harry trocken, »und der Jemand ist tot. —
+Sehen wir uns den Pechvogel mal an …«
 
 <@pagebreak/>
 
 <h2>2. Kapitel.</h2>
-<h3>PepperleyYs Luxushöhle.</h3>
+<h3>Pepperleys Luxushöhle.</h3>
 
 Der Vagabund Harry hatte leider richtig geraten. In
-der verfallenen Hütte lag unter dem s!cheibeulosen Fenster
+der verfallenen Hütte lag unter dem scheibenlosen Fenster
 neben einer Kiste ein gut gekleideter Mann von untersetzter
-Statue mit einem roten, gedunsenen Gesicht, das jetzt langsam
+Statur mit einem roten, gedunsenen Gesicht, das jetzt langsam
 die Farbe verlor. Elviras Kugel war dem Fremden über
 dem linken Auge in den Schädel gedrungen.
 
-Miß Bennington lehnte verstört. an der Tür und rang
-verzweifelt die Hände, »Ich bin verloren, wenn dieser Vorteil
-an die Öffentlichkeit dringt … Hoffentlich hat niemand.
+Miß Bennington lehnte verstört an der Tür und rang
+verzweifelt die Hände. »Ich bin verloren, wenn dieser Vorfall
+an die Öffentlichkeit dringt … Hoffentlich hat niemand
 den Schuß gehört. Gott im Himmel, helfen Sie mir doch
-irgendwie!« Sie schaute Harry Holperig flehend zu, daß ein
+irgendwie!« Sie schaute Harry Harper so flehend an, daß ein
 Stück Granit zu Butter geworden wäre.
 
 Harry nahm die Sache sehr kühl auf. »Mac, passe draußen
 auf, ob jemand kommt … — Kennen Sie den Mann, Miß?«
 
-»Rein, nein, — wie sollte ich?! Dieses Unglück!! Was
+»Nein, nein, — wie sollte ich?! Dieses Unglück!! Was
 tat er nur in der Hütte?!«
 
-Sie vermied es, die Leiche »anzusehen.
+Sie vermied es, die Leiche anzusehen.
 
 »Was er tat: Horchen, Spionieren«, meinte der lange
-Strolch seelenruhig, »Er bat uns belauscht, es war überhaupt
-eine Riesendummheit, Sicht vorher die Bude zu durchsuchen,
-du Grunde können wir froh sein, daß der Keil abgöokraßt ist.«
+Strolch seelenruhig. »Er hat uns belauscht, es war überhaupt
+eine Riesendummheit, nicht vorher die Bude zu durchsuchen.
+Im Grunde können wir froh sein, daß der Kerl abgekratzt ist.«
 
 »Lassen Sie das doch!«, fuhr Miß Bennington auf, als
-Harry] des Toten Taschen zu durchsuchen begann. Ihre Stamme
-
+Harry des Toten Taschen zu durchsuchen begann. Ihre Stimme
 war scharf und befehlend. »Am besten ist, wir vergraben
+ihn …«
 
-…«
 »Am besten ist, ich stelle fest, welchen Namen und Beruf
-
 der Gentleman hatte«, brummte der hagere Stromer. »Donnerwetter
-— -Brillantringe, eine seine Uhr, — — — aber keine
-Brieftasche. Sohn schade. Es wird schwer sein, seine Schandtat
+— Brillantringe, eine feine Uhr, — — aber keine
+Brieftasche. Sehr schade. Es wird schwer sein, seine Identität
 herauszufinden.«
 
 <@pagebreak/>
@@ -378,140 +373,138 @@ Sie eine verblüffende Fertigkeit, Freund Harry.«
 »Und Sie haben gute Nerven, nicht einmal ich lache hier
 angesichts dieses armen Burschen, der zweifellos mehr Schnaps
 trank als nötig.« Er zog aus der einen Hüfttasche eine starke
-Atuminiuimslasche, aus der anderen eine Pistole hervor. Dann
-streifte er dem Toten sehr gefühllos die Ringe ad, legte die
+Aluminiumflasche, aus der anderen eine Pistole hervor. Dann
+streifte er dem Toten sehr gefühllos die Ringe ab, legte die
 Uhr und die Perle aus der Krawatte dazu und knotete alles
 in das seidene Taschentuch des Fremden ein.
 
-Mac O. Schall erschien in der Tür. »Keine Seele weit
+Mac O. Scall erschien in der Tür. »Keine Seele weit
 und breit«, meldete er pomadig. »Höchstens die Seele des
 Toten … Falls er eine hatte. Aber Seelen reden nur in
 spiritistischen Sitzungen. Harry, wer ist der Mann?«
 
 »Namenlos und ohne Brieftasche, Mac. — Miß, was
-
 zahlen Sie, wenn wir ihn bestatten und noch ein Gebet
 sprechen?«
 
 Er hielt das Taschentuchbündel in der Linken.
 
-Elvira sagte schnell! »Dreihundert Dollar … in bar.
-
+Elvira sagte schnell: »Dreihundert Dollar … in bar.
 Aber mit für das Bündel.«
-»Hm, es regnet förmlich Geld … Na gut, abgemacht
 
+»Hm, es regnet förmlich Geld … Na gut, abgemacht.
 Und wo wohnt Kaptain Morris?«
 
-»Post Erle Street 188,« Elvira öffnete ihr Handtäschchen.
-»Da — — das Geld. doch kann mich auf Sie verlasse?«
+»West Erie Street 188.« Elvira öffnete ihr Handtäschchen.
+»Da — — das Geld. Ich kann mich auf Sie verlassen?«
 
 »Wir tun stets unsere Pflicht«, sagte Harry ernst und
 blickte der Bennington in die dunklen Augen. »Wenn wir
 auch schon viel erlebt haben, Schufte sind wir nicht, wenigstens
-nicht So ganz große Schufte wie etwa der Direktor der Reklametrickfilm-Gesellschaft,
-ein gewisser Stuart Pepperley,
+nicht So ganz große Schufte wie etwa der Direktor der
+Reklametrickfilm-Gesellschaft, ein gewisser Stuart Pepperley,
 von dem wir in der Herberge Wunderdinge hörten.«
 
 Elvira war plötzlich erblaßt. »Was … hörten Sie?«
-jagte sie stockend.
+sagte sie stockend.
 
 »Lumpereien, elende Lumpereien … Der Kerl soll seine
 weiblichen Angestellten so als bessere Haremsdamen behandeln
-… Pfui Teufel! Ein Mädchen!soll sich mit Gas vergiftet
+… Pfui Teufel! Ein Mädchen soll sich mit Gas vergiftet
 haben, ein zweites mit Karbolsäure, ein drittes haben die
 <@pagebreak/>
-letzte gerade noch retten können … Biest das, geiles Biest,
+Ärzte gerade noch retten können … Biest das, geiles Biest,
 aber nicht zu fassen …«
 
 Elvira senkte den Kopf. Ihre Blässe war erschreckend.
 
 Harry reichte ihr schnell die flache Aluminiumflasche.
-»Trinken Sie! Sonst kippen Sie aus den Pantinen, Miß…
+»Trinken Sie! Sonst kippen Sie aus den Pantinen, Miß …
 Nur los! Ein guter Schluck schadet nichts.«
 
 Als sie trank, tauschte er mit Mac einen langen Blick.
 
-»Co, und nun verschwinden Sie am besten, Miß …
-Wohin wünschen Sie Nachricht über Morris«
+»So, und nun verschwinden Sie am besten, Miß …
+Wohin wünschen Sie Nachricht über Morris?«
 
 Elvira flüsterte matt: »Am besten ist, Sie deponieren mir
-hier in der Hätte schriftliche Meldung. Legen Sie die Briefe
-dort unter das verfaulte Dielenstück« Aber benutzen Sie Chiffrehbrift.
-Sehen Sie für die Buchstaben die Zahlen und zwar
-für A die Zahl 3, für B die Zahl 5, für € die Sah! 7 …
+hier in der Hütte schriftliche Meldung. Legen Sie die Briefe
+dort unter das verfaulte Dielenstück. Aber benutzen Sie Chiffreschrift.
+Setzen Sie für die Buchstaben die Zahlen und zwar
+für A die Zahl 3, für B die Zahl 5, für C die Zahl 7 …
 und so fort. Werden Sie das behalten?«
 
 »Und ob! — Und wie wird es mit den Anzügen, Miß?«
 
-»die haben ja den Zettel … In dem Filmatelier wird
+»Sie haben ja den Zettel … In dem Filmatelier wird
 man Sie gut einkleiden.« Sie zögerte. »Übrigens, ja das ist
 ein merkwürdiger Zufall: Die Lincoln-Gesellschaft drüben gehört
 diesem Toten, — ich will bei der Wahrheit bleiben, es
-ist Stuart ’Pepperleyl«
+ist Stuart Pepperley!«
 
-»Heiliger Panama?!«, rief der kleine Dicke entsetzt …
-So ein reicher Womit Und Sie, Miß?«
+»Heiliger Nepomuk!«, rief der kleine Dicke entsetzt …
+»So ein reicher Mann!! Und Sie, Miß?«
 
-Elvira schaute zur Seite, »Ich« bin Elvira Bennington,
+Elvira schaute zur Seite. »Ich bin Elvira Bennington,
 die Hauptdarstellerin in den Reklametrickfilms … deshalb
-ist mir ja!9 entsetzlich, daß ich Pepperley aus Unachtsamkeit
+ist mir ja so entsetzlich, daß ich Pepperley aus Unachtsamkeit
 erschoß und …«
 
-Mac O. Schall, der rasch halb im Freien stand, sprang
-plötzlich in die Hütte …!.
+Mac O. Scall, der rasch halb im Freien stand, sprang
+plötzlich in die Hütte …
 
 »Ein Mann kommt!«, flüsterte er … »Ein Polyp …
-Herr Gott, wo verstecken wir den Toten?!« …
+Herr Gott, wo verstecken wir den Toten?!«
 
-Elviras weite, angstersül!lke Augen suchen Salons Gesicht.
+Elviras weite, angsterfüllte Augen suchten Harrys Gesicht.
 »Helfen Sie!«, bat sie zitternd. »Helfen Sie mir …«
-die eilte zur Rückwand der Hütte und riß dort eine schmale,
+Sie eilte zur Rückwand der Hütte und riß dort eine schmale,
 unsichtbare Tür auf. »Bitte — hier hinein … bitte schnell!«
 
 <@pagebreak/>
 Die Strolche packten den Toten und trugen ihn in eine
 Art Lehmhöhle, die anscheinend sehr ausgedehnt war. Elvira
-schloß die für, und sie standen in völliger Finsternis.
+schloß die Tür, und sie standen in völliger Finsternis.
 
-»Der Polyp ist derselbe, der uns auf dem »Wege anhielt«,
+»Der Polyp ist derselbe, der uns auf dem Wege anhielt«,
 flüsterte Mac ängstlich. »Das kann eine nette Schweinerei
-geben, wenn der Policeman die Patronenhülse oder Ausrufen
+geben, wenn der Policeman die Patronenhülse oder Blutspuren
 findet.«
 
-»Blut?!« Harry! lachte lautlos. »Paß habe ich mit
-dem &uß verwischt … Es liegt zu viel Dreck auf den Dielen.
+»Blut?!« Harry lachte lautlos. »Das habe ich mit
+dem Fuß verwischt … Es liegt zu viel Dreck auf den Dielen.
 Und die Patronenhülse hat ja die Miß aufgehoben, du Angsthase.
 Diese Straßenpolypen sind viel zu blind für diese Detektivarbeit.
 — Donnerwetter, wonach riecht es hier nur?!«
 
-»Stils!!«, flehte Elvira heiser. »Nur still!!«
+»Still!!«, flehte Elvira heiser. »Nur still!!«
 
-Der Vagabund Harry schnüffelte. »Das ist nicht Ohr
+Der Vagabund Harry schnüffelte. »Das ist nicht Ihr
 Parfüm, Miß … — Komisch, eine Lehmhöhle, aus der man
 wahrscheinlich mal gelben Kies herausgebuddelt hat, und …
-Parfüm? &in muß doch mal meine Lampe nehmen und …«
+Parfüm? Ich muß doch mal meine Lampe nehmen und …«
 
-»Lassen Sie das!«, — Eilbrief Sturm war spröde und
+»Lassen Sie das!«, — Elviras Stimme war spröde und
+hart.
 
-bar!.
-»Ja — wie Sie wollen …«
+»Na — wie Sie wollen …«
 
-&reßdem blitzte plötzlich eine grelle Lichtbahn auf, und
-War O. Scharf meinte brummig: »So will sehen, wo im bin,
-Fuß … Hier kann der Teufel in einem Winkel lauern …«
+Trotzdem blitzte plötzlich eine grelle Lichtbahn auf, und
+Mac O. Scall meinte brummig: »Ich will sehen, wo ich bin,
+Miß … Hier kann der Teufel in einem Winkel lauern …«
 
 Seltsamerweise fuhr der Lichtkegel zunächst über Elvira
 Benningtons Hände hin. Da die Hände die Pistole nicht
 umspannt hielten, sondern nur krampfhaft gegen das pochende
-Herz gedrückt waren, schwenkte die Cc!chenlampe nach rechts
+Herz gedrückt waren, schwenkte die Taschenlampe nach rechts
 und zeigte den erstaunten Blicken der beiden Stromer kaum
 fünf Meter vor ihnen eine Holzwand, eine Tür mit einem Vorhängeschloß
 darin, und verschiedene stark isolierte Drähte, die
 in den abgeteilten Raum hineinliefen.
 
-»»Verdammt«, sagte Harry und schritt auf die Tür zu.
-»Ach, glaube, der Schlüssel, den ich in Pepperleys Westentasche
-Tand, dürfte zu dem Vorhängeschloß passen.«
+»Verdammt«, sagte Harry und schritt auf die Tür zu.
+»Ich glaube, der Schlüssel, den ich in Pepperleys Westentasche
+fand, dürfte zu dem Vorhängeschloß passen.«
 
 Elvira stand mit zusammengepreßten Lippen da. »Meinetwegen
 <@pagebreak/>
@@ -519,215 +512,211 @@ Elvira stand mit zusammengepreßten Lippen da. »Meinetwegen
 
 Das klang so farblos und wenig glaubwürdig.
 
-ach blieb neben ihr und meinte kopfschlackernd: »ck
+Mac blieb neben ihr und meinte kopfschlackernd: »Ich
 habe nie studiert, Miß, höchstens in einer Akademie für
-Taschendiebe. Aber. im bin hier oben ziemlich helle, Miß.«
-Er tippte sich an die Stirn. »Neun Sie die Tür in der Rückwand
-der Hütte kannten, müßten Sie doch auch Ali Baba
-Räuberhöhle kennen. Wissen Sie in Tausend und eine Nach!
+Taschendiebe. Aber ich bin hier oben ziemlich helle, Miß.«
+Er tippte sich an die Stirn. »Wenn Sie die Tür in der Rückwand
+der Hütte kannten, müßten Sie doch auch Ali Babas
+Räuberhöhle kennen. Wissen Sie in Tausend und eine Nacht
 Bescheid? Da gibt es ein Märchen, das »Ali Baba und die
 vierzig Räuber« heißt. Ich selbst hatte nie die Ehre, Mr. Ali
 Baba zu begegnen, das ist zu lange her, Miß … Aber modernen
-Räubern bin ich schon begegiüet, die man hier »Gangs«
+Räubern bin ich schon begegnet, die man hier »Gangs«
 nennt, Banden, und die Anführer heißen Gangster, das sind
 zumeist Leute von unheimlichen Fähigkeiten … — Na, paßt der
 Schlüssel, Harry?«
 
 »Er paßt …«
 
-Die Holztür ging auf, Harry tastete nach einem Licht —
-Schalter, und mit einem Male Granaten in dem Wundersaale
-ublloseye bunte Lampen auf.
+Die Holztür ging auf, Harry tastete nach einem Lichtschalter,
+und mit einem Male flammten in dem Wundersaale
+zahllose bunte Lampen auf.
 
-»Heiligen Nepomuk«, staunte der dicke Mac. »Manches
-reine türkische … Haremsgemach …! Alter
-
-hastig — —
-Hand Achtung, — —!9 was sah ich noch ich Die Teppiche,
-die Diwans, die Sessel — ’—«- und dieWöände mit hellblauer
-
-beide bespannt. — Junge, Junge, es gibt noch) immer Wunder
-auf der Welt!«
+»Heiliger Nepomuk!«, staunte der dicke Mac. »Wahrhaftig
+— — das reine türkische Haremsgemach …! Allerhand
+Achtung, — — so was sah ich noch nie! Die Teppiche,
+die Diwans, die Sessel — — und die Wände mit hellblauer
+Seide bespannt. — Junge, Junge, es gibt noch immer Wunder
+auf der Welt!!«
 
 Der Vagabund Harry, der seinem Kollegen vorhin die
 Taschenlampe abgenommen hatte, betrachtete er die an den
-Wänden hängenden obscönen … Bilder.
+Wänden hängenden obscönen Bilder.
 
 »Gerahmte Gemeinheit«, sagte er verächtlich. »Die Hunde
-nennen es Radikalkur, der anständige Mensch Schweinerei
-dd; Stimme für Schweinerei.«
+nennen es Nacktkultur, der anständige Mensch Schweinerei.
+Ich stimme für Schweinerei.«
 
 Die bildhübsche Elvira war heiß errötet.
 
 »Ein Saustall ist das«, fuhr Harry wütend fort. »Und
-der Kerl, der dieses Nest der Lüsternheit einrichten ließ, ich
-ein … totes Schwein, um den es wahrhaftig nicht!hade ist!«
+der Kerl, der dieses Nest der Lüsternheit einrichten ließ, ist
+ein … totes Schwein, um den es wahrhaftig nicht schade ist!«
 
 <@pagebreak/>
-Elvira riskierte selbstvergessen: »Weiß Gott, das stimmt!«
+Elvira flüsterte selbstvergessen: »Weiß Gott, das stimmt!«
 
 Harry schaute sie von der Seite an,
 
-»&öreut mit, daß Sie mir beipflichten …« Und dann
+»Freut mich, daß Sie mir beipflichten …« Und dann
 fuhr er halb herum und horchte. »Hörtest du was, Mac?«
 
-Der Duke nickte nur.
+Der Dicke nickte nur.
 
-He drei Personen standen regungslos. Elviras Atems
+Die drei Personen standen regungslos. Elviras Atem
 kam stoßweise, sie war abermals sehr bleich geworden.
 
-» Harry schob den seinen Panama ins Genick. Lautlos
-Schlich er an den Wänden entlang. Die Seide war in Selten
-gespannt, und seine schmutzigen Finger glitten über diese Saiten
-bin, bis er der’Cür gegenüber Halt machte und sich bückte und
+Harry schob den seinen Panama ins Genick. Lautlos
+Schlich er an den Wänden entlang. Die Seide war in Falten
+gespannt, und seine schmutzigen Finger glitten über diese Falten
+hin, bis er der Tür gegenüber Halt machte und sich bückte und
 die Seide glatt strich. Dann faßte er in eine kleine Tasche,
 die in die Kniewülste der zerrissenen Hosen eingenäht war,
-und zog einen Sonderbar Bekannten Schlüssel hervor, schraubte
+und zog einen Sonderbar geformten Schlüssel hervor, schraubte
 ihn kleiner, führte ihn in ein verborgenes Loch ein, und ein
-Teil der Wand!chob sich samt der Bespannung nach außen. Er
+Teil der Wand schob sich samt der Bespannung nach außen. Er
 leuchtete in den dahinter liegenden Raum hinein und schloß
-die Sir wieder.
+die Tür wieder.
 
-»Teer — nur eine Kammer, in der die Akkumulatoren
-stehen. — Mac, schleiche mal in die Bretterbude. Der »Polyp
+»Leer — nur eine Kammer, in der die Akkumulatoren
+stehen. — Mac, schleiche mal in die Bretterbude. Der Polyp
 wird wohl abgeschoben sein.«
 
-Blei) darauf standen die drei wieder im klaren Sonnenschein,
+Gleich darauf standen die drei wieder im klaren Sonnenschein,
 und Elvira Bennington verabschiedete sich hastig. »Es
 bleibt also bei unseren Abmachungen … Wiedersehen …«
 
-Harry und Mac dienerten die], und erst als Miß Elvira
-im Walde verschwunden war, Jagte der durfte Stromer halblaut
+Harry und Mac dienerten tief, und erst als Miß Elvira
+im Walde verschwunden war, sagte der dürre Stromer halblaut
 zu dem Dicken:
 
-»Seine Nummer das!!l Mit &Sragezeichenl!«
+»Feine Nummer das!! Mit Fragezeichen!!«
 
 »und ob, und ob! — Wer liegt in der Kammer, Harry?«
 
-»Einer, der dem Code näher ist als wir, mein lieber Mac.
-—» Komm, schau dir das Gerippe zu … Es ist furchtbar.«
+»Einer, der dem Tode näher ist als wir, mein lieber Mac.
+— Komm, schau dir das Gerippe an … Es ist furchtbar.«
 
-An der Kammer lag auf einer Matratze ein armseliges
+In der Kammer lag auf einer Matratze ein armseliges
 Häuflein Mensch, das mit Lederriemen festgeschnürt war und
-einen Knebel im Munde hatte. Ostrand hier nach Unrat und«
-feuchten Erde … Tas!toppelige Gesicht des Mannes war
+einen Knebel im Munde hatte. Es stank hier nach Unrat und
+feuchter Erde … Das stoppelige Gesicht des Mannes war
 <@pagebreak/>
 ebenfalls wie Erde. Als Harry ihm Brandwein einflößte,
 beantwortete er röchelnd die an ihn gerichtete Frage:
 
-»Hm bin Lord Reginald Gitzmaer …«
+»Ich bin Lord Reginald Gitzmaer …«
 
 Harry fiel beinahe die Flasche aus der Hand.
 
-»Gitzmaer?! Ich denke. Sie sind in England, Mylord?«
+»Gitzmaer?! Ich denke, Sie sind in England, Mylord?«
 
-Cm grausiges Gruseln überflog das verhungerte Gesicht.
+Ein grausiges Grinsen überflog das verhungerte Gesicht.
 »Das Gerücht hat wohl Elvira, meine Frau, verbreitet …«
-Wir starker Husten folgte, und blutiger Schaum trat ihm auf
-die Hapert.
+Ein starker Husten folgte, und blutiger Schaum trat ihm auf
+die Lippen.
 
-Harry fühlte ihm schnell den Puls, Gibiwmaer war mit
+Harry fühlte ihm schnell den Puls. Gitzmaer war mit
 geschlossenen Augen wieder zurückgesunken.
 
-»Hohes Lieber«, raunte der Dürre dem Dicken zu. Qungeueuitzundung
-…!l Wir wollen zunächst ’den Toten verscharren
-und dank für Gitzmaer sorgen.«
+»Hohes Fieber«, raunte der Dürre dem Dicken zu. Lungenentzündung
+…! Wir wollen zunächst den Toten verscharren
+und dann für Gitzmaer sorgen.« —
 
-Likörs Uhr nachmittags wurde in ein Privatsanatorium
+Um fünf Uhr nachmittags wurde in ein Privatsanatorium
 in aller Stille ein schwerkranker Patient eingeliefert, dem man
 ein abgelegenes Zimmer zuwies. Ein Krankenpfleger von
-herkulischem Körperbau übernahm die Wartung. und der
+herkulischem Körperbau übernahm die Wartung, und der
 Chefarzt durfte als einziger das Zimmer Mr. Smiths betreten.
-&ür das Personal war Mr. Smith ein Engländer,
-der sich auf einer Rundreise. durch; Amerika befunden hatte
+Für das Personal war Mr. Smith ein Engländer,
+der sich auf einer Rundreise durch Amerika befunden hatte
 und in Chicago erkrankt war. Sein Pfleger war sein Diener
 und nannte sich Wilkiens.
 
 <@pagebreak/>
 
 <h2>3. Kapitel.</h2>
-<h3>Ür. Ibbar verrät sich.</h3>
+<h3>Mr. Ibbar verrät sich.</h3>
 
-Au Abend desselben Tages herrschte in den weiten
-Räumen des »Detektivbüro« von Chicago, dem Sitz der Chicagoern
+Am Abend desselben Tages herrschte in den weiten
+Räumen des »Detektivbüro« von Chicago, dem Sitz der Chicagoer
 Kriminalpolizei, nur das übliche Gehen und Kommen.
 Der Raubüberfall vom Vormittag, bei dem 200&nbsp;000 Dollar
 den Besitzer wechselten, zwei Tote auf das Pflaster flogen und
 ein paar Verwundete ihr Blut in die Schienen der Straßenbahn
-vergossen, war nur für Stunden Anlaß zu lebhafte im
-Treiben innerhalb dieses großen Gebäudes Co LasalleSfreel
+vergossen, war nur für Stunden Anlaß zu lebhaftem
+Treiben innerhalb dieses großen Gebäudes Ecke Lasalle-Street
 gewesen.
 
 Vor einem der Eingänge spielte sich gegen halb elf jedoch
-ein lebhafter Austritt zwischen einem kleinen O-beinigen
-feimperamentvoilen Herrn und der Wache ab.
+ein lebhafter Auftritt zwischen einem kleinen O-beinigen
+temperamentvollen Herrn und der Wache ab.
 
-Mr. Gutes Ibbar war in feudaler Limousine vorgefahren
-gekommen und hatte Kaptain Morris entsprechen gewünscht.
+Mr. Jules Ibbar war in feudaler Limousine vorgefahren
+gekommen und hatte Kaptain Morris zu sprechen gewünscht.
 Die Sache sei äußerst dringend, und nötigenfalls würde er sich
 an den Bürgermeister wenden, — immerhin erreichte es Mr.
-übler durch Seine Beredsamkeit, daß ein Beamter das Büro
+Ibbar durch Seine Beredsamkeit, daß ein Beamter das Büro
 des Kapitäns anrief und feststellte, der hohe Herr sei tatsächlich
 noch anwesend und würde den zweiten Direktor der
 Lincoln-Gesellschaft empfangen.
 
-Gutes Obhut blähte Ich auf wie ein »Pfau, obwohl die
+Jules Ibbar blähte sich auf wie ein Pfau, obwohl die
 Natur ihn nur schwach mit äußerlichen Schönheiten ausgestattet
 hatte. Pfauenähnlich an ihm war nur seine heisere,
-kreischende Stimme und die Farbe seines pompösen »Riechorgans,
-das scheinbar einer erfroren und wieder aufgetaut
-war und in allen Farben schillerte. Selbst die stuzerhajte Elegant
-Mr. edlere trug lediglich dazu bei, seine abstoßende Häßlichkeit
-noch zu unterstreichen. Mit funkelnden Schritten folgte
-er dem Beamten bis zu Morris! Allerheiligstem und!choß
+kreischende Stimme und die Farbe seines pompösen Riechorgans,
+das scheinbar einmal erfroren und wieder aufgetaut
+war und in allen Farben schillerte. Selbst die stutzerhafte Eleganz
+Mr. Ibbars trug lediglich dazu bei, seine abstoßende Häßlichkeit
+noch zu unterstreichen. Mit tänzelnden Schritten folgte
+er dem Beamten bis zu Morris’ Allerheiligstem und schoß
 dann wie ein Geier auf den Schreibtisch los, hinter dem der
 <@pagebreak/>
 gefürchtete Kaptain mit seinem finsteren Bulldoggengesicht
 und den starren, kalten Augen saß.
 
-edler stützte sich auf den Schreibtisch und kreischte den
-Kaptain Affenhof zu: »Pepperley ist verschwunden, Stuart
-Pepperley, Mr. Morris — —!spurlos verschwunden! Sie
-kennen »Pepperley ja …«
+Ibbar stützte sich auf den Schreibtisch und kreischte den
+Kaptain atemlos an: »Pepperley ist verschwunden, Stuart
+Pepperley, Mr. Morris — — spurlos verschwunden! Sie
+kennen Pepperley ja …«
 
-Morris sagte eisig: »Leider!« Paß war alles.
+Morris sagte eisig: »Leider!« Das war alles.
 
-Mr. Gutes wurde verlegen. «&Gckch weiß, daß Sie ihn noch:
+Mr. Ibbar wurde verlegen. »Ich weiß, daß Sie ihn noch
 häufig vorgeladen hatten, den Schürzenjäger!!«
 
-Wieder sagte der Kaptain ohne Teilnahme: »Nur Schürzenjäger
-’?!«
+Wieder sagte der Kaptain ohne Teilnahme: »Nur Schürzenjäger?!«
 
 Ibbar kannte Morris bisher nicht persönlich. Der Eindruck,
 den er von ihm gewann, entsprach den Gerüchten, die
 über diesen stiernackigen Preisboxer umgingen.
 
 Ibbar warf sich in die Brust. »Das Verschwinden eines
-so angesehenen, vielseitigen Geschästsmannes!sollte doch eigentlich
-hier etwas … wärmer ausgenommen werden«, sprudelte
+so angesehenen, vielseitigen Geschäftsmannes sollte doch eigentlich
+hier etwas … wärmer aufgenommen werden«, sprudelte
 er hervor und trocknete sich die schwitzende Nase mit einem
-Seidentuch, das sehr stark parfümiert war. Mr. Obhut liebte
+Seidentuch, das sehr stark parfümiert war. Mr. Ibbar liebte
 die Wohlgerüche Arabiens mehr als den fragwürdigen Duft
-von Achselschweiß, an dem er auch litt.
+von Achselschweiß, an dem er *auch* litt.
 
-Morris nickte, »Vielseitig — stimmt. Aber wärmer ausnehmen?!
-So bin ein sehr kühler Wann. Sehen Sie litt,«
+Morris nickte, »Vielseitig — stimmt. Aber wärmer aufnehmen?!
+Ich bin ein sehr kühler Mann. Setzen Sie sich,«
 
 Unter diesen spitzen Blicken der grauen Sagen krochen
-üblere Rattenäuglein tiefer in den Kopf zurück. Ihm wurde
-unbehaglich zumute. Bisher hatte man ihm vielen zu behandeln
-gewagt, hochsteht damals, als er den Antrag stellte,
-in den Michigan-Klub ausgenommen zu werden. Damals hatte
-by Mr. Star Ersten, der Klubpräsident, genau so angesehen
+Ibbars Rattenäuglein tiefer in den Kopf zurück. Ihm wurde
+unbehaglich zumute. Bisher hatte man ihm nie so zu behandeln
+gewagt, höchstens damals, als er den Antrag stellte,
+in den Michigan-Klub aufgenommen zu werden. Damals hatte
+ihn Mr. Oskar Arison, der Klubpräsident, genau so angesehen
 und erklärt: »Zehn Millionen Vermögen sind kein Sprungbrett,
-das Sie in unseren Klub trägt, Mr. dbbar. Ihre Bewerbung
-ist gänzlich aussichtslos.« Daraufhin war Falles
-übler dem City-Klub beigetreten, der keinerlei Bedenken
+das Sie in unseren Klub trägt, Mr. Ibbar. Ihre Bewerbung
+ist gänzlich aussichtslos.« Daraufhin war Jules
+Ibbar dem City-Klub beigetreten, der keinerlei Bedenken
 <@pagebreak/>
-heute, da er nur die dunklen Außenseiter der höchsten Steuerzahler
+hegte, da er nur die dunklen Außenseiter der höchsten Steuerzahler
 zu Mitgliedern zählte.
 
-Ibbar setzte sich und zog die Beinkleider über den Amen
+Ibbar setzte sich und zog die Beinkleider über den Knien
 hoch. Er wußte nicht recht, wie er die Unterredung fortsetzen
 sollte. Morris war ihm unheimlich, und er spürte bereits den
 aufkeimenden Haß gegen diesen Mann, der das einzige
@@ -735,59 +724,59 @@ Verbindungsglied zwischen dem Büro des Bürgermeisters der
 Millionenstadt und dem geheimnisvollen Spezialkommissar Hutter
 bildete.
 
-»Also — hm, — — Pepperley ist verschwunden«, Jagte
+»Also — hm, — — Pepperley ist verschwunden«, sagte
 Ibbar nochmals und bemühte sich, ein Phlegma zu heucheln, das
 etwa dem des Kaptains gleichsam.
 
 »Wann?«
 
 Der Mann hinter dem Schreibtisch hatte die brennende
-Zigarre von der Aschenschale ausgenommen und paßte dicke
+Zigarre von der Aschenschale aufgenommen und paffte dicke
 Wolken.
 
-»Gilt heute nachmittag ein Uhr«, erwiderte Obhut und
+»Seit heute nachmittag ein Uhr«, erwiderte Ibbar und
 holte ein goldenes Zigarettenetui hervor. Er steckte es jedoch
 sofort wieder ein. Morris hatte nur eine einzige Handbewegung
 gemacht. Darin lag genug.
 
-»» Wir hatten … hatten …« — Ibbar war aus dem Leert
-Ofen »vormittags eine Aufnahme, und Pepperley entfernte
-sich kurz vor eins, sagte seinem Chauffeur, er Jolle ihn
-in der Unrecht-Street erwarten, da er sich noch etwas Bewegung
+»Wir hatten … hatten …« — Ibbar war aus dem Text
+geraten — »vormittags eine Aufnahme, und Pepperley entfernte
+sich kurz vor eins, sagte seinem Chauffeur, er solle ihn
+in der Norfolk-Street erwarten, da er sich noch etwas Bewegung
 machen wolle. Pepperley schlenderte den Seitenweg
 entlang, der vom Atelier nach Süden führt, und seitdem hat
 ihn niemand mehr gesehen. Um sechs hatten wir eine wichtige
-Aufsichtsratssitzung — er kam nicht, ich) rief in Steinen Wohnung
+Aufsichtsratssitzung — er kam nicht, ich rief in seiner Wohnung
 an, — — er ist eben verschwunden. Um halb elf speist er
 stets im City-Klub, ich auch, — — auch da erschien er nicht.«
 
-»Er ist«, verbesserte Morris mit eherner Ruhe. »Speisen
+»Er ißt«, verbesserte Morris mit eherner Ruhe. »Speisen
 ist ein Ausdruck für Gentlemen.«
 
 <@pagebreak/>
-edler wurde blaurot. »Pepperley war ein Ehrenmann!«
+Ibbar wurde blaurot. »Pepperley war ein Ehrenmann!«
 fauchte er wütend.
 
-»War«! — Nein, das war er nie. Ein Gentleman unterhält
-Keine Opiumhöhlen, -Bordelle und geheimen Schnaps kneipen.
-Vielleicht hat oho Freund wieder seine große Tone,
+»War?! — Nein, das war er nie. Ein Gentleman unterhält
+Keine Opiumhöhlen, Bordelle und geheimen Schnapskneipen.
+Vielleicht hat Ihr Freund wieder seine große Tour,
 — Sie verstehen: Quartalssäufer!«
 
-Hauses Ibbar war’s den Birnenschädel ablehnend ins Genick.
+Jules Ibbar warf den Birnenschädel ablehnend ins Genick.
 
-»Stuart ’Pepperley war nie mein Freund!«, erklärte er
-geradezu feierlich: »Immerhin war er Miteigentümer der Lincoln-Gesellschaft
-und …«
+»Stuart Pepperley war nie mein Freund!«, erklärte er
+geradezu feierlich: »Immerhin war er Miteigentümer der
+Lincoln-Gesellschaft und …«
 
 »Das weiß ich. Es liegt absolut kein Grund für mich
 vor, meine Leute Mr. Pepperleys wegen zu bemühen, nachdem
 er uns schon Mühe genug gemacht hat. Ich glaube, er
-— verschwindet heutigen und taucht dann wohlbehalten wieder
+verschwindet häufiger und taucht dann wohlbehalten wieder
 auf, während irgend ein unglückliches Geschöpf nachher Gift
-mimt.«.« …
+nimmt.«
 
-Gutes Ibbar hüstelte. »Pepperley war ein … Lump!«,
-jagte er mit ungeheurer Verachtung.
+Jules Ibbar hüstelte. »Pepperley war ein … Lump!«,
+sagte er mit ungeheurer Verachtung.
 
 Um Morris’ Mundwinkel zuckte es. Dann fragte er sehr
 gleichgültig:
@@ -795,79 +784,79 @@ gleichgültig:
 »Weshalb sprechen Sie von ihm wie von einem Toten?!«
 
 »Weil … weil … ich das Gefühl habe, daß die Sache
-diesmal bitterernst ist. Ich leide an Ahnungen, Kaptain Morris,
-Pepperley hatte Feinde. Der Bruder der Cippmainell …«
+diesmal bitterernst ist. Ich leide an Ahnungen, Kaptain Morris.
+Pepperley hatte Feinde. Der Bruder der Tippmamsell …«
 
 »Sie meinen Miß Gordon«, korrigierte Morris schärferen
 Tones. »Die arme Miß Gordon ist auch eins von seinen
-leider nicht nachweisbaren Opfern. &Ghr Bruder hat Drohungen
+leider nicht nachweisbaren Opfern. Ihr Bruder hat Drohungen
 ausgestoßen, — das besagt nichts.«
 
-edler rutschte auf dem Sessel hin und. her. »Gefühl
+Ibbar rutschte auf dem Sessel hin und her. »Gefühl
 bleibt Gefühl, Kaptain … Vorahnung bleibt Vorahnung,
-und die Stimme aus dem Unterbewußtsein sollte man beachten.
+und die Stimme aus dem Unterbewußtsein sollte man beachten.«
 
 »Mein Unterbewußtsein ist sehr schwach entwickelt«, meinte
-Morris trocken. »Sie hoben ja übrigens!so viel Leute an der
+Morris trocken. »Sie haben ja übrigens so viel Leute an der
 <@pagebreak/>
 Hand, daß Sie von sich aus Nachforschungen anstellen können.
-»Meine Zeit ist äußerst knapp, gerade der heutige Straßenraub
-bereitete mir viel Schneeregion, und ich möchte Sie auch nicht
+Meine Zeit ist äußerst knapp, gerade der heutige Straßenraub
+bereitete mir viel Scherereien, und ich möchte Sie auch nicht
 zwecklos Ihrer werten Familie entziehen …« Er drückte auf
-einen der Sechs Knöpfe auf der Tischplatte, machte eine verWschiedende
+einen der Sechs Knöpfe auf der Tischplatte, machte eine verabschiedende
 Handbewegung und beugte sich nach knapper Verbeugung
 über ein Aktenstück.
 
-Brief Ibbar schritt mit einem Gesicht hinaus, im dem die
+Jules Ibbar schritt mit einem Gesicht hinaus, in dem die
 helle Wut flammte. Aber er hatte sich leidlich in der Gewalt
-und zwang sich zu einem Lächeln, als er sich an der Tür noch
-
-malt verletzte.
+und zwang sich zu einem Lächeln, als er sich an der Tür nochmals
+verbeugte.
 
 »Guten Abend, Mr. Morris …«
 
-Morris brummte nur, — es konnte auch ein Besuch sein.
+Morris brummte nur, — es konnte auch ein Fluch sein.
 
-Er lehnte Ich nachher zurück, blickte starr auf das neu
+Er lehnte sich nachher zurück, blickte starr auf das neu
 angelegte Aktenstück und grübelte vor sich hin.
 
-Der Banditkonüberfall auf das Lohngelderauto der Firma
+Der Banditenüberfall auf das Lohngelderauto der Firma
 Barklay u. Perkins war ihm mehr als unangenehm. Ausgerechnet
 in seinem Bezirk hatten die Kerle das Auto mit
 ihrem Panzerwagen zusammengeschossen und noch Passanten
-verletzt, Die Firma hatte 91 besonders schlau zu handeln
-geglaubt, als sie diesmal nicht en üblichen, auch gepanzerten
-Wagen, sondern die Limousine des Chefs Sir den Transport
+verletzt. Die Firma hatte ganz besonders schlau zu handeln
+geglaubt, als sie diesmal nicht den üblichen, auch gepanzerten
+Wagen, sondern die Limousine des Chefs für den Transport
 benutzte. Wie die Verbrecher dahintergekommen waren, daß
 dieser Wagenwechsel geplant war, blieb unbegreiflich.
 
 Morris erhob sich und machte sich zum Ausgehen fertig
-und bestellte Sein Dienstauto. Als es die Besagte-Street emporfuhr
+und bestellte Sein Dienstauto. Als es die Lasalle-Street emporfuhr
 und in dem Tunnel untertauchte, der unter dem Hauptarm
 des Chicagoflusses entlangführt, blieb ein anderer Wagen
 beständig hinter ihm. Hätte der Kaptain etwas von den Vorgängen
 um die Mittagsstunde droben im Nordosten geahnt,
-Ware er Wahl verzichten gewesen.
+wäre er wohl vorsichtiger gewesen.
 
 Das Auto der beiden Verfolger war ein Sportwagen
-ik Klappverdeck. Harry, der kleine Dicke, jetzt ebenfalls sehr
+mit Klappverdeck. Harry, der kleine Dicke, jetzt ebenfalls sehr
 <@pagebreak/>
-sein in Kluft, spähte häufiger rückwärts durch das kleine
-SGelluloidfenster des Verdeckt.
+fein in Kluft, spähte häufiger rückwärts durch das kleine
+Zelluloidfenster des Verdecks.
 
 »Stimmt, Harry!«, meinte er. »Wir sind zu dreien …
-Die dunkle Limousine hält!stets gleichen Abstand.«
+Die dunkle Limousine hält stets gleichen Abstand.«
 
 Harry grunzte nur.
-Morris’ Chauffeur hatte ganz Bastmatte Instruktionen
-Er bog in die Genossin-Street ein, nachher in die NorihAvenue,
-jagte durch enge Gassen, und in einer dieser Straußen
+
+Morris’ Chauffeur hatte ganz bestimmte Instruktionen.
+Er bog in die Franklin-Street ein, nachher in die North-Avenue,
+jagte durch enge Gassen, und in einer dieser Straßen
 westlich des Nordarmes des Chicago stoppte er halb, Morris
-sprang hinaus und verschwand blitzschnell in einem Durchgangs hause,
+sprang hinaus und verschwand blitzschnell in einem Durchgangshause,
 während sein Wagen weiterfuhr. Kurz vorher
 hatte der kleine Sportzweisitzer am Knick dieser selben Straße
-sich plötzlich Sehr unmanierlih benommen und war quer über
-den Damm beinahe auf den Bürgersteig gerast, war Vorort
+sich plötzlich Sehr unmanierlich benommen und war quer über
+den Damm beinahe auf den Bürgersteig gerast, war sofort
 rückwärts gesteuert worden und zwang die dunkle Limousine
 zu jähem Bremsen. Deren Chauffeur fluchte in allen Tonarten,
 Harry blieb nicht still, und als die Limousine freie Fahrt
@@ -876,87 +865,87 @@ bekam, war Kaptain Morris’ Wagen längst verschwunden.
 Harry lachte, bog rechts ab und erreichte im Nu die Milwaukee-Avenue.
 — —
 
-ön dieser endlosen Straße, die zu den nordwestlichen Vororten
-führte, lag zwischen modernen Hochhäusern das bastseidene
-Privathotel 3. Bennett in einem winzigen Garten.
+In dieser endlosen Straße, die zu den nordwestlichen Vororten
+führte, lag zwischen modernen Hochhäusern das bescheidene
+Privathotel J. Bennett in einem winzigen Garten.
 
-Hm Speisezimmer saßen gegen ein Viertels zwölf mehrere
-Herren beieinander, die sich von einer trinken, blonden Schönheit
+Im Speisezimmer saßen gegen ein Viertels zwölf mehrere
+Herren beieinander, die sich von einer flinken, blonden Schönheit
 bedienen ließen und die späte Mahlzeit durch etwas Seltsame
-Reden wußten.
+Reden würzten.
 
-Geben einem Mann von überschlanken Wuchs mit frischem
+Neben einem Mann von überschlankem Wuchs mit frischem
 Jungengesicht hatten soeben zwei neue Ankömmlinge Platz genommen:
 Harry und Mac.
 
 Der Strolch Harry betrachtete jetzt seine tadellos manikürten
-Hände und sagte zu Kaptain Harrt Greap-Hutter:
+Hände und sagte zu Kaptain Charly Greap-Hutter:
 
 »Morris ist sehr unvorsichtig! Man war hinter ihm her,
 <@pagebreak/>
 aber die Kerle hatten das Nachsehen.« Er erzählte von den
 Bocksprüngen des Sportzweisitzers, und die ganze Runde lachte.
 
-Die junge Frau Roxy Nennt, einziges weibliches Mitglied
+Die junge Frau Roxy Weylt, einziges weibliches Mitglied
 von Greaps Elite, stellte vor die Strolche leckere Dinge
-bin und meinte scherzend: »Viel zu schade für ’Pennbrüder,
-HDummersalsat/!«
+hin und meinte scherzend: »Viel zu schade für Pennbrüder, —
+Hummersalat!!«
 
 »Und viel zu schwer als Nachtessen«, zwinkerte der dicke
-Mac ihm listig zu und hieb wie ein Dschungel ter ein.
+Mac ihr listig zu und hieb wie ein Verhungerter ein.
 
-Kam Kraft Morris ein.
+Dann trat Morris ein.
 
-»Griff euch Gott, alle miteinander …!«, er reichte Mütze
-und Mantel dem jungen, sprechen Houston, der prompt erklärte:
+»Grüß euch Gott, alle miteinander …!«, er reichte Mütze
+und Mantel dem jungen, frechen Houston, der prompt erklärte:
 »Sie waren wohl gestern in der Oper, Kaptain? Zu
-Vortrage »Gar und Zimmermann«. Ich glaube, dieses »Gruß
+Lortzings »Zar und Zimmermann«. Ich glaube, dieses »Grüß
 euch Gott« kommt darin vor.«
 
 Morris tauschte mit Greap und den Stromern warme
 Händedrücke und setzte sich. »Na, was Neues?!«
 
-»Einem ganzen Sack voll«, erwiderte Greap äußerst ernst.
-»Huscht: Sie sind zu unvorsichtig, Morris. Sie werden unser
+»Einen ganzen Sack voll«, erwiderte Greap äußerst ernst.
+»Zunächst: Sie sind zu unvorsichtig, Morris. Sie werden unser
 geheimes Hauptquartier verraten. Danken Sie Harst und
-Schraut, daß die Schufte ohne Spur verloren.«
+Schraut, daß die Schufte Ihre Spur verloren.«
 
 Morris stutzte. »So?! Erzählt doch mal.« — Nachher
-fragte er. wer in der dunklen Limousine gesessen hätte und
+fragte er, wer in der dunklen Limousine gesessen hätte und
 welche Nummer sie hatte.
 
 Harst-Harry betonte, daß die Nummer durch übergeklebte
-Papierzahlen verändert gewesen sei. »du dem Wogen
+Papierzahlen verändert gewesen sei. »In dem Wagen
 befanden sich ein vermummter Chauffeur und ein Herr und
 eine Dame in Abendtoilette — große Aufmachung. Trotzdem
-habe ich den Vorderreifen unauffällig angespritzt, und die …
+habe ich den Vorderreifen unauffällig angespritzt, und die
 Witterung bleibt. Houston mag sofort mit Smith und einem
-Hunde die Spur ausnehmen. Die Straße war die Fleck-Street.«
+Hunde die Spur aufnehmen. Die Straße war die Fleet-Street.«
 
 Morris überflog prüfend die Gesichter. »Wilkiens ist
 doch Polizeihundführer.«
 
-»Der hat Lazaretidieusf bei Lord Reginald Gitzmaer im
+»Der hat Lazarettdienst bei Lord Reginald Gitzmaer im
 Nordwest-Sanatorium«, erwiderte Harst und aß weiter.
 
 <@pagebreak/>
-»Bei wem?!« Morris hielt lich an der Tischkante fest
+»Bei wem?!« Morris hielt sich an der Tischkante fest.
 »Gitzmaer ist doch in England,«
 
-»Sagte die liebreizende Elvira«, meinte Greap billig.
-»Elvira Bennington, verehelichte Gitzmaer, die heute Mitte:
+»Sagte die liebreizende Elvira«, meinte Greap bissig.
+»Elvira Bennington, verehelichte Gitzmaer, die heute mittag
 Stuart Pepperley erschoß!«
 
 Morris riß den Mund auf.
 
-»Verdammt?! Damm hat Gutes Ibbar doch richtig gehört
+»Verdammt! Dann hat Jules Ibbar doch richtig gehört
 — — auf die Stimme aus dem Unterbewußtsein, das
-Ekel! — Nun krank mal aus …!«
+Ekel! — Nun kramt mal aus …!«
 
 <@pagebreak/>
 
 <h2>4. Kapitel.</h2>
-<h3>Eintratet Auto.</h3>
+<h3>Ein leeres Auto.</h3>
 
 Morris hörte andächtig zu: Wie stark seine Gedanken
 arbeiten, sah man an Seinen Lippen, die den Zigarrenstummel
@@ -1139,7 +1128,7 @@ stand mit dem Mörder »Pepperleys in engster Verbindung,
 falls er nicht d er Mörder selbst war.«
 
 Diese Schlosse Betonung, daß nicht eine Frau den Direktor
-Pepperley erschossen hätte, wirkte hier wie ein Pojaunensignal.
+Pepperley erschossen hätte, wirkte hier wie ein Posaunensignal.
 
 Unzählige Fragen bestürmten ihn. Er erwiderte mit den
 kurzen Süßen: »Elvira Benningtons Kugel schlug in das
@@ -1781,7 +1770,7 @@ Was dieser biedere Mann hielten in seiner Wut hervorkollert?,
 war eigentlich derart verwirrend, hast man ihm kaum
 Glauben schenken durfte. Aber der Mensch verstellte sich nicht,
 das war ein schlichter braver Naturbursche mit zweifellos
-stark ausgeprägtem Anhänglichkeitsgesühl für seinen Herrn
+stark ausgeprägtem Anhänglichkeitsgefühl für seinen Herrn
 und dessen arme Schwester.
 
 Harst wurde noch nachdenklicher. »Sie sprachen da von
@@ -2095,7 +2084,7 @@ Stille …
 <@pagebreak/>
 gemütlich. »Kaptain Hutter meinte heute zwar, ich solle mich
 nicht mit derartigen Kriegsgerät schleppen, aber ich gebe
-lieber sicher … Wetten, daß die Ckrasitbälle die Herrschaften
+lieber sicher … Wetten, daß die Ekrasitbälle die Herrschaften
 dort sehr übel zugerichtet haben?!«
 
 Er stand aus und reckte sich und klopfte die Erde und
@@ -2139,12 +2128,12 @@ er verschont.«
 
 Gordons Träumeraugen hoben sich zu Kaptain Hallte
 blinkenden jungen Pupillen. »Werden Sie … werden Sie
-nicht mal nachsehen, ob die Ckrasitbälle wirklich … — er
+nicht mal nachsehen, ob die Ekrasitbälle wirklich … — er
 konnte den Satz nicht beenden, da ein kleineres Auto in
 rasender Fahrt den Weg entlangkam. Zwischen den Scheinwerfern
 glühte in beißend grünem Licht ein schmaler Leuchtstab,
 <@pagebreak/>
-und was dieses bedeutete, wußten die Chicaqver Verkehrspolizisten
+und was dieses bedeutete, wußten die Chicagoer Verkehrspolizisten
 sehr genau: »Ein ’Waqen des Opezialkomunssars!
 
 Aus dem kleinen Panzerauto sprang der freche, fixe
@@ -2279,7 +2268,7 @@ streichen, versecmlossenem Gesicht zwischen Kaptain Morris und
 dem Chef des Detektivkorps Platz genommen hatte. Der
 Herr war das Stadtoberhaupt in Person, ein Mann von
 tadellosem Ruf, ein unermüdlichen Arbeiter, ein genialer Kopf,
-überall beliebt. Nicht einmal die Schhmutzpresse der Michigan Metropole
+überall beliebt. Nicht einmal die Schmutzpresse der Michigan Metropole
 wagte sich an diesen für seine Person äußerst bescheidenen,
 vorbildlichen Beamten heran.
 
@@ -2510,7 +2499,7 @@ während Gordon noch stehen bleibt und durch seinen Geosichtsausdruck
 betraf, wie sehr ihn das Mißlingen des Anschlages
 ärgert. Erst nach Harpers erneutem Zuruf wirst auch
 Gordon sich nieder, der ja bestimmt weiß, daß seine Banditen
-nicht auf ihn tiefen werden. Harper Feuers die Ckrasitbomben
+nicht auf ihn tiefen werden. Harper Feuers die Ekrasitbomben
 in den Wald, und der Rest der Bande wird durch Kaptain
 Hutters Panzerauto zusammengeschossen. Gordon macht Ausflüchte,
 mit nach dem Filmatelier zu kommen, ergibt sich dann
