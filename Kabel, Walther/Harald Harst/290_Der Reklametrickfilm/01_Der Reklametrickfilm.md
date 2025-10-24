@@ -126,7 +126,7 @@ Elvira runzelte die Stirn.
 
 »Na Frage!! Natürlich! Aber — — bitte, keine Arbeit
 — — etwa Holzhacken oder Mähen oder Schafe weiden«,
-meinte der Lange und  Schielte den Policeman an. »Oder etwa
+meinte der Lange und schielte den Policeman an. »Oder etwa
 Ochsen mästen oder …«
 
 <@pagebreak/>
@@ -141,7 +141,7 @@ nebst einer Zehndollarnote. »Da, meldet euch drüben im
 Atelier der Lincoln-Gesellschaft.« Sie deutete hinter sich auf
 ein großes, gewölbtes Glasdach jenseits des Buschstreifens.
 »Man wird euch dort auch Unterkunft gewähren, aber ich
-brauche euch So, wie ihr seid, also bitte keine Schönheitskorrekturen!«
+brauche euch so, wie ihr seid, also bitte keine Schönheitskorrekturen!«
 
 Der kleine Dicke grinste hinter dem Policeman drein.
 
@@ -224,7 +224,7 @@ feixend.
 »Ehrlichkeit — — schmale Planke, Miß … Wie schon
 erwähnt, wir beneiden die Banditen von heute früh … Mit
 fünftausend Dollar könnten wir ein Kino kaufen und seßhaft
-werden.
+werden.«
 
 »Im Zuchthaus«, meinte Elvira warnend. »Trotzdem —
 ihr könnt die Summe ehrlich verdienen, wenn ihr … ehrlich
@@ -246,10 +246,10 @@ erklärte sie lächelnd. »Wollt ihr mir blindlings gehorchen?«
 Der Lange blies ein paar Rauchringe. »Dann wären
 wir dumm, wenn wir eine Solche Verpflichtung eingingen,
 Miß. Was heißt blindlings? Gemordet haben wir noch nicht,
-gestohlen ja, auch Sonst haben wir — na, Schwamm drüber. —
+gestohlen ja, auch sonst haben wir — na, Schwamm drüber. —
 Was verlangen Sie und was bezahlen Sie?«
 
-Der Ton Sagte Elvira durchaus zu. »Ich verlange lediglich
+Der Ton sagte Elvira durchaus zu. »Ich verlange lediglich
 … Spionage, Beobachtung …«
 
 »Hm … Wen?«
@@ -277,7 +277,7 @@ zu lassen. Als Anzahlung erhaltet ihr jeder fünfzig Dollar.
 Eure Auslagen für Autofahrten und so weiter bekommt ihr
 ersetzt. Sobald ihr durch die Beobachtung Morris’ festgestellt
 habt, wo sich …« — sie schwieg plötzlich und überlegte
-wieder, Sog hastig an ihrer Zigarette und fuhr fort: »Habt
+wieder, sog hastig an ihrer Zigarette und fuhr fort: »Habt
 ihr in den Zeitungen von dem Spezialkommissar zur Bekämpfung
 der Gangsters in Chicago gelesen?«
 
@@ -302,7 +302,7 @@ unsere Pflicht ist, Miß. — Na?«
 
 »Gut … Und damit Ihr seht, daß ich euch traue: Hier
 für jeden hundert Anzahlung und diesen Zettel, der euch zu
-Kleidern verhilft …« Sie Schrieb ein neues Notizblatt aus
+Kleidern verhilft …« Sie schrieb ein neues Notizblatt aus
 und warf es Harry zu.
 
 »Zufrieden?!«
@@ -314,7 +314,7 @@ wagten, und …«
 Er verstummte, da Miß Elvira plötzlich die Pistole in
 der Hand hielt und blitzschnell abgedrückt hatte.
 
-In der Holzbude Fiel ein Körper krachend zu Boden.
+In der Holzbude fiel ein Körper krachend zu Boden.
 
 »Mein Gott!!«, rief Miß Bennington entsetzt … »Das
 war meine Schuld … Ich wollte die Waffe nur in die Tasche
@@ -401,7 +401,7 @@ Und wo wohnt Kaptain Morris?«
 »Wir tun stets unsere Pflicht«, sagte Harry ernst und
 blickte der Bennington in die dunklen Augen. »Wenn wir
 auch schon viel erlebt haben, Schufte sind wir nicht, wenigstens
-nicht So ganz große Schufte wie etwa der Direktor der
+nicht so ganz große Schufte wie etwa der Direktor der
 Reklametrickfilm-Gesellschaft, ein gewisser Stuart Pepperley,
 von dem wir in der Herberge Wunderdinge hörten.«
 
@@ -556,7 +556,7 @@ ein … totes Schwein, um den es wahrhaftig nicht schade ist!«
 <@pagebreak/>
 Elvira flüsterte selbstvergessen: »Weiß Gott, das stimmt!«
 
-Harry schaute sie von der Seite an,
+Harry schaute sie von der Seite an.
 
 »Freut mich, daß Sie mir beipflichten …« Und dann
 fuhr er halb herum und horchte. »Hörtest du was, Mac?«
@@ -567,12 +567,12 @@ Die drei Personen standen regungslos. Elviras Atem
 kam stoßweise, sie war abermals sehr bleich geworden.
 
 Harry schob den seinen Panama ins Genick. Lautlos
-Schlich er an den Wänden entlang. Die Seide war in Falten
+schlich er an den Wänden entlang. Die Seide war in Falten
 gespannt, und seine schmutzigen Finger glitten über diese Falten
 hin, bis er der Tür gegenüber Halt machte und sich bückte und
 die Seide glatt strich. Dann faßte er in eine kleine Tasche,
 die in die Kniewülste der zerrissenen Hosen eingenäht war,
-und zog einen Sonderbar geformten Schlüssel hervor, schraubte
+und zog einen sonderbar geformten Schlüssel hervor, schraubte
 ihn kleiner, führte ihn in ein verborgenes Loch ein, und ein
 Teil der Wand schob sich samt der Bespannung nach außen. Er
 leuchtete in den dahinter liegenden Raum hinein und schloß
@@ -592,7 +592,7 @@ zu dem Dicken:
 
 »Feine Nummer das!! Mit Fragezeichen!!«
 
-»und ob, und ob! — Wer liegt in der Kammer, Harry?«
+»Und ob, und ob! — Wer liegt in der Kammer, Harry?«
 
 »Einer, der dem Tode näher ist als wir, mein lieber Mac.
 — Komm, schau dir das Gerippe an … Es ist furchtbar.«
@@ -619,7 +619,7 @@ die Lippen.
 Harry fühlte ihm schnell den Puls. Gitzmaer war mit
 geschlossenen Augen wieder zurückgesunken.
 
-»Hohes Fieber«, raunte der Dürre dem Dicken zu. Lungenentzündung
+»Hohes Fieber«, raunte der Dürre dem Dicken zu. »Lungenentzündung
 …! Wir wollen zunächst den Toten verscharren
 und dann für Gitzmaer sorgen.« —
 
@@ -656,7 +656,7 @@ Mr. Jules Ibbar war in feudaler Limousine vorgefahren
 gekommen und hatte Kaptain Morris zu sprechen gewünscht.
 Die Sache sei äußerst dringend, und nötigenfalls würde er sich
 an den Bürgermeister wenden, — immerhin erreichte es Mr.
-Ibbar durch Seine Beredsamkeit, daß ein Beamter das Büro
+Ibbar durch seine Beredsamkeit, daß ein Beamter das Büro
 des Kapitäns anrief und feststellte, der hohe Herr sei tatsächlich
 noch anwesend und würde den zweiten Direktor der
 Lincoln-Gesellschaft empfangen.
@@ -699,8 +699,8 @@ Seidentuch, das sehr stark parfümiert war. Mr. Ibbar liebte
 die Wohlgerüche Arabiens mehr als den fragwürdigen Duft
 von Achselschweiß, an dem er *auch* litt.
 
-Morris nickte, »Vielseitig — stimmt. Aber wärmer aufnehmen?!
-Ich bin ein sehr kühler Mann. Setzen Sie sich,«
+Morris nickte. »Vielseitig — stimmt. Aber wärmer aufnehmen?!
+Ich bin ein sehr kühler Mann. Setzen Sie sich.«
 
 Unter diesen spitzen Blicken der grauen Sagen krochen
 Ibbars Rattenäuglein tiefer in den Kopf zurück. Ihm wurde
@@ -758,7 +758,7 @@ Ibbar wurde blaurot. »Pepperley war ein Ehrenmann!«
 fauchte er wütend.
 
 »War?! — Nein, das war er nie. Ein Gentleman unterhält
-Keine Opiumhöhlen, Bordelle und geheimen Schnapskneipen.
+keine Opiumhöhlen, Bordelle und geheimen Schnapskneipen.
 Vielleicht hat Ihr Freund wieder seine große Tour,
 — Sie verstehen: Quartalssäufer!«
 
@@ -830,7 +830,7 @@ benutzte. Wie die Verbrecher dahintergekommen waren, daß
 dieser Wagenwechsel geplant war, blieb unbegreiflich.
 
 Morris erhob sich und machte sich zum Ausgehen fertig
-und bestellte Sein Dienstauto. Als es die Lasalle-Street emporfuhr
+und bestellte sein Dienstauto. Als es die Lasalle-Street emporfuhr
 und in dem Tunnel untertauchte, der unter dem Hauptarm
 des Chicagoflusses entlangführt, blieb ein anderer Wagen
 beständig hinter ihm. Hätte der Kaptain etwas von den Vorgängen
@@ -855,7 +855,7 @@ westlich des Nordarmes des Chicago stoppte er halb, Morris
 sprang hinaus und verschwand blitzschnell in einem Durchgangshause,
 während sein Wagen weiterfuhr. Kurz vorher
 hatte der kleine Sportzweisitzer am Knick dieser selben Straße
-sich plötzlich Sehr unmanierlich benommen und war quer über
+sich plötzlich sehr unmanierlich benommen und war quer über
 den Damm beinahe auf den Bürgersteig gerast, war sofort
 rückwärts gesteuert worden und zwang die dunkle Limousine
 zu jähem Bremsen. Deren Chauffeur fluchte in allen Tonarten,
@@ -930,7 +930,7 @@ Nordwest-Sanatorium«, erwiderte Harst und aß weiter.
 
 <@pagebreak/>
 »Bei wem?!« Morris hielt sich an der Tischkante fest.
-»Gitzmaer ist doch in England,«
+»Gitzmaer ist doch in England.«
 
 »Sagte die liebreizende Elvira«, meinte Greap bissig.
 »Elvira Bennington, verehelichte Gitzmaer, die heute mittag
@@ -948,7 +948,7 @@ Ekel! — Nun kramt mal aus …!«
 <h3>Ein leeres Auto.</h3>
 
 Morris hörte andächtig zu. Wie stark seine Gedanken
-arbeiten, sah man an Seinen Lippen, die den Zigarrenstummel
+arbeiten, sah man an seinen Lippen, die den Zigarrenstummel
 dauernd von einem Mundwinkel in den anderen jonglierten.
 
 »Und wo habt ihr die Leiche gelassen, Harst?«
@@ -971,12 +971,12 @@ für die Schurken, die ihn gefangen hielten.«
 
 »Für sein süßes Frauchen, die Kanaille!«, ergänzte Morris
 giftig. »Das wäre also alles geklärt, es fehlt nur noch die
-Hauptsache: Wie kamen Sie dazu, die Stromer zu Spielen und
+Hauptsache: Wie kamen Sie dazu, die Stromer zu spielen und
 Lady Elvira aufzulauern?«
 
 Harst schob den Teller weg und trank einen Schluck Tee.
 
-»Morris, im Grunde ist die Sache Sehr einfach. Als
+»Morris, im Grunde ist die Sache sehr einfach. Als
 morgens die Meldung von dem unerhört frechen Straßenraub,
 dem Überfall auf das Geldauto, hier eintraf, setzte sich
 Greap mit Mr. Barklay, dem Chef von Barklay u. Perkins,
@@ -1009,7 +1009,7 @@ Morris kaute an seinem Stummel.
 aber kam ihr die Idee, Pepperley zu erschießen, der sie wohl
 allzu fest in den Krallen hatte. Sie führte euch in die lehmige
 Schlucht zur alten Bretterhütte, sie wußte, daß Pepperley dort
-in Seiner Lusthöhle war, sie schoß … aus Versehen, und die
+in seiner Lusthöhle war, sie schoß … aus Versehen, und die
 Geschichte war für sie in Ordnung. Tatsache ist ja, daß wir
 Pepperley seit langem für den Gangster des North-Gang
 halten, — zu beweisen war ihm nichts. Sein »Leutnant« ist
@@ -1029,7 +1029,7 @@ mitspielen ließ! Das ist doch fauler Schmus, daß ihr Kontrakt
 noch bis zum ersten Juli laute und eine Konventionalstrafe
 von 500&nbsp;000 Dollar vereinbart war. Als ob die schöne
 Bennington je so eine vorzügliche, unersetzbare Filmheldin
-gewesen Wäre!! Lächerlich!! — Wie denkt ihr euch nun die
+gewesen wäre!! Lächerlich!! — Wie denkt ihr euch nun die
 Fortsetzung?«
 
 Greap, der sich seine Pfeife gestopft hatte, erwiderte ausweichend:
@@ -1135,10 +1135,10 @@ der Schlucht aus.«
 »Weil ich die Stelle im Grase fand, wo der Kerl gelegen
 und die Arme zum Schuß aufgestützt hatte. Die Spuren seiner
 Stiefel waren klein und schmal, die Absätze hoch und spitz.
-Trotzdem war es ein Mann,«
+Trotzdem war es ein Mann.«
 
 »So?! Ein verkleideter Mann?!«, mischte sich Morris
-sehr lebhaft ein,
+sehr lebhaft ein.
 
 »Nein, — ein Mann mit Damenstiefeln, lieber Morris.«
 
@@ -1155,7 +1155,7 @@ die hier irgendwie in Betracht käme, Tabak priemen?! Und
 derselbe Mann feuerte vorhin in Lord Gitzmaers Krankenzimmer.
 <@pagebreak/>
 Nennen Sie nur einen Kerl von kleiner zierlicher Figur,
-der hohe Absätze trägt und Sehr eitel ist und Tabak kaut, und
+der hohe Absätze trägt und sehr eitel ist und Tabak kaut, und
 — — das ist der Mörder und zugleich auch der Gangster des
 North-Gang, denn Stuart Pepperley war nicht der Gangster,
 sondern nur Statist.«
@@ -1224,14 +1224,14 @@ der mit Mylady im Wagen saß, der Herr sei erst vor dem
 Detektivbüro, als die Limousine dort wartete, plötzlich eingestiegen,
 und Mylady und der Fremde seien kurz vor der Villa
 wieder ausgestiegen und hätten eine Taxe herangewinkt. Er
-gab weiter zu, daß er dem Sportflitzer haben folgen Sollen.
+gab weiter zu, daß er dem Sportflitzer haben folgen sollen.
 Ihm sei nachher aufgefallen, daß Mylady sich sehr schwer beim
 Aussteigen auf ihren Begleiter stützte und kaum gehen konnte,
 Houston hat die Limousine daraufhin durchsucht und noch
 Spuren von Chloroferral, dem neuen Betäubungsmittel,
 auf den Polstern gerochen … — Greap, — der Mörder
 Pepperleys hat jetzt auch Elvira Gitzmaer in seiner Gewalt.
-— Fahren wir zu Jules Ibbar,«
+— Fahren wir zu Jules Ibbar.«
 
 <@pagebreak/>
 
@@ -1248,7 +1248,7 @@ und rechnete, kalkulierte, schmiedete Pläne, sah neu eingegangene
 Trickfilmmanuskripte durch und kaute und lutschte nervös
 an seinem leicht süßen Priem.
 
-Er hatte Sorgen, große Sorgen,
+Er hatte Sorgen, große Sorgen.
 
 Zuweilen stierte er in das gelbe Licht der Schreibtischlampe
 und dachte an Stuart Pepperley. Und dann überlief
@@ -1286,7 +1286,7 @@ wertvollen Helfer gehabt. Pepperley, der Idiot,
 hatte Gordon vor vierzehn Tagen an die Luft gesetzt und abgefunden,
 damit das Triumphgeschrei Mary Gordons endlich
 aufhöre. Jules wußte, daß Gordon eine runde halbe Million
-Schweigegeld erhalten hatte. Pepperley war eben ein Lump,
+Schweigegeld erhalten hatte. Pepperley war eben ein Lump.
 
 Jules Ibbar glaubte plötzlich vom Balkon ein Geräusch
 zu hören.
@@ -1325,12 +1325,12 @@ Dann glaubte er abermals ein Geräusch zu hören — ein
 Kratzen auf dem Balkon.
 
 Blitzartig packte er die Pistole, schob die Sicherung zurück
-und hob den Arm,
+und hob den Arm.
 
 In der Balkontür erschien das rote Gesicht und die
 Boxerfigur des verhaßten Morris.
 
-»n’« Abend, Mr. Ibbar … — Schau an, — ein Schießeisen!!«
+»n’ Abend, Mr. Ibbar … — Schau an, — ein Schießeisen!!«
 Morris lachte unangenehm, trat näher, und hinter
 ihm erschienen noch drei Herren.
 
@@ -1357,9 +1357,9 @@ Jules zitterte.
 
 Und Jules sah zu.
 
-Jules Sah, wie die Herren aus dem Bücherschrank hinter
+Jules sah, wie die Herren aus dem Bücherschrank hinter
 den Lexikons zwei Teile einer Luftbüchse hervorfischten, dazu
-eingefettete Bleigeschosse in einer Pappschachtel,
+eingefettete Bleigeschosse in einer Pappschachtel.
 
 Jules kämpfte mit einer neuen Ohnmacht.
 
@@ -1470,7 +1470,7 @@ noch kurz vorher im Aufnahmeraum gesehen hatte.«
 »Es gab dort also bei Pepperley einen sehr lebhaften
 Streit«, half Greap ungeduldig weiter. »Mit wem?«
 
-»ich glaube mit dem Regisseur Joe Goud …« …
+»Ich glaube mit dem Regisseur Joe Goud …« …
 
 »Ah — — Goud!!«, rief Morris. »Und Gouds Schwester
 ist auch eins von Pepperleys Opfern.«
@@ -1484,7 +1484,7 @@ Pepperley Geld erpressen, er mochte wohl erfahren haben,
 daß Gordon eine halbe Million Schweigegeld erhalten hatte.«
 
 Greap tauschte einen schnellen Blick mit Morris und
-Harst,
+Harst.
 
 »Ob sie sich geeinigt hatten, weiß ich nicht«, fuhr Ibbar
 bedächtig fort. »Ich hörte, daß die Tür ins Schloß flog, und
@@ -1537,7 +1537,7 @@ darauf verabschiedete er sich. Herr Gott, und da war Pepperley
 schon tot, wie Sie behaupten.«
 
 »Er war schon tot«, bestätigte Harst zerstreut. »Noch
-etwas …« Sie haben doch vom North-Gang schon gehört?«
+etwas … Sie haben doch vom North-Gang schon gehört?«
 
 »Leider — leider …« Ibbars Gesicht verriet deutlich die
 große Angst vor diesen Banditen.
@@ -1592,7 +1592,7 @@ wir werden ja sehen.«
 Harst klopfte Ibbar auf die Schulter. »*Sie* haben keine
 Schlinge zu fürchten … Heute vormittag sind Sie frei.«
 
-Und Greap sagte genau So aufmunternd: »Das glaube ich
+Und Greap sagte genau so aufmunternd: »Das glaube ich
 auch, Mr. Ibbar! Nur — — lassen Sie die Seitensprünge …
 Theaterdamen sind nichts für einen Familienvater.«
 
@@ -1613,7 +1613,7 @@ Zuchthäuslers.
 Es wurde noch eine sehr lebhafte Nacht für das Hauptquartier.
 Greaps Elite kam nicht ins Bett, und auch Morris,
 der es sich nicht ausreden ließ, daß Jules immer noch etwas
-verheimlichte, Setzte die besten und zuverlässigsten seiner Leute
+verheimlichte, setzte die besten und zuverlässigsten seiner Leute
 auf verschiedene Fährten. Vieles mußte nachgeprüft werden,
 Telephon und Telegraph im großen Zimmer meldeten sich immer
 wieder, und erst gegen fünf Uhr legten Harst und ich uns für
@@ -1718,7 +1718,7 @@ Harst fragte schroff: »Wo befindet sich Mr. Goud?«
 »Ja — das heißt nur ein Stück, er wollte bei dem schönen
 Wetter noch zu Fuß gehen …«
 
-»und er wußte, daß sich hier fremde Gestalten im Walde
+»Und er wußte, daß sich hier fremde Gestalten im Walde
 herumdrückten?«
 
 »Ja — er meinte gleich, es würden wohl Detektive sein,
@@ -1755,7 +1755,7 @@ auf das Lohngelderauto? Heraus mit der Sprache …«
 Der Chauffeur nickte widerwillig. »Das Auto hatte acht
 Kugelspuren mehr als früher … Das ist es.«
 
-ich verstand diese Bemerkung nicht, aber Harst nickte
+Ich verstand diese Bemerkung nicht, aber Harst nickte
 sofort. »Ja — das Panzerauto der Film-Gesellschaft …
 Haben Sie die Aufschläge gezählt?«
 
@@ -1795,7 +1795,7 @@ waren nur bis in den Kartoffelkeller gekommen …«
 Als wir die Kellerräume genau durchsuchten, fanden wir
 hinter einem Stapel Preßkohlen den Staubmantel Lady Elvira
 Gitzmaers. Der Mantel war unschwer an seinem Lederbesatz
-und dem Parfümgeruch wiederzuerkennen,
+und dem Parfümgeruch wiederzuerkennen.
 
 Clinton stierte ihn völlig fassungslos an. »Wie kommt
 der hierher?! Das ist ja Lady Elviras neuer Automantel?!«
@@ -1823,7 +1823,7 @@ ganz bestimmte Aussage gemacht wurde, schauten wir uns an
 und lasen einander den Namen des Mörders … oder der
 Mörderin von den Lippen ab. Es war nicht Goud, der gestern
 den Streit des Geldes wegen mit Pepperley hatte, — — es
-kann eine Frau gewesen Sein, kann … Lady Elviras Entführung
+kann eine Frau gewesen sein, kann … Lady Elviras Entführung
 <@pagebreak/>
 kann ein glänzender Bluff gewesen sein, Jules Ibbar
 kann uns zum Teil belogen haben, ich habe all diese Möglichkeiten
@@ -1873,7 +1873,7 @@ heranschlendern, der nur Allan Gordon, der entlassene Prokurist,
 sein konnte. Morris hatte ihn uns beschrieben, Morris
 hatte ja schon häufiger die Herrschaften von der Lincoln-Gesellschaft
 scharf unter die Lupe genommen, und was er
-Über Gordon, den Bruder Mary Gordons, zu sagen gewußt,
+über Gordon, den Bruder Mary Gordons, zu sagen gewußt,
 fand ich voll bestätigt.
 
 Das Schicksal hatte Allan Gordon böse gezeichnet. Er
@@ -1905,7 +1905,7 @@ hier, Freund Horter?«
 Harsts amerikanisches Pseudonym entlockte Gordon ein
 <@pagebreak/>
 schwaches Lächeln. »Entschuldigen Sie, Mr. Harst«, meinte
-er höflich, »mein Personengedächtnis ist Sehr gut. Ich sah
+er höflich, »mein Personengedächtnis ist sehr gut. Ich sah
 Bilder von Ihnen, und wenn noch ein leiser Zweifel bestanden
 hatte, wer unter Ihrer Maske steckte, brauchte ich nur Ihren
 Freund anzusehen. Eine kleine korpulente Figur ist wie ein
@@ -1954,7 +1954,7 @@ Clintons Bemerkungen über die Geschoßeinschläge, aber er
 sprach auffällig zerstreut, verbesserte sich oft und schien durch
 irgend etwas abgelenkt zu werden. Sogar Greap stieß dies
 auf. »Was haben Sie nur, Harst?!«, meinte er in jener kurzen,
-fast Schroffen Art, die zu seiner Knabenfigur und dem sorglos-heiteren
+fast schroffen Art, die zu seiner Knabenfigur und dem sorglos-heiteren
 Jungengesicht so gar nicht zu passen schien.
 
 Harst bot uns Zigaretten an. »Nichts habe ich, lieber
@@ -2024,7 +2024,7 @@ meinte Allan Gordon mit einem leichten Seufzer. »Morris
 ist ein sehr tüchtiger Mann, glaube ich.«
 
 Harst hob die Schultern. »Tüchtig?! Ein Kaptain der
-hiesigen Detektivpolizei hat es Sehr schwer. — Ob wir ihn
+hiesigen Detektivpolizei hat es sehr schwer. — Ob wir ihn
 eingeweiht haben? Nein und ja, Mr. Gordon. Kaptain Hutter
 und ich haben uns über die Hauptpunkte auch noch nicht verständigt
 und verstehen uns doch. Vielleicht hat auch Morris
@@ -2051,14 +2051,14 @@ frechen Wespe, und Harst stieß im selben Moment
 Greap und mich in das leere Bassin. »Hinwerfen, — — Gordon
 — — auch Sie, — — hinwerfen!«
 
-Eine Kugelsaat fegte über uns hinweg. — das taktmäßige
-»Pong … Pong … Pong eines mit Schalldämpfer arbeitenden
+Eine Kugelsaat fegte über uns hinweg, — das taktmäßige
+Pong … Pong … Pong eines mit Schalldämpfer arbeitenden
 Maschinengewehrs wurde unterbrochen von dem Splittern der
 Steinfigur des Wasserspeiers …
 
 Gordon warf sich neben uns nieder.
 
-»Mein Gott, was bedeutet das?!«, keuchte er entsetzt,
+»Mein Gott, was bedeutet das?!«, keuchte er entsetzt.
 
 »Chicago!«, sagte Harst kurz und nahm im Liegen seinen
 Rucksack ab, schnürte ihn hastig auf und hielt plötzlich eine
@@ -2118,7 +2118,7 @@ sehr bald.
 
 Dann kamen die Negerin und der Chauffeur Clinton
 behutsam und verstört hervorgeschlichen. »Das Gesindel hat
-auch auf das Haus gefeuert«, schimpfte Clinton empört,
+auch auf das Haus gefeuert«, schimpfte Clinton empört.
 »Alle Fenster nach Westen zu sind zum Teufel, und viel hätte
 nicht gefehlt, dann hätte mich eine Kugel erwischt.«
 
@@ -2179,7 +2179,7 @@ zwischen Harst und Greap auf den Rücksitz.
 Der Wagen wendete, und wir fuhren in flottem Tempo
 <@pagebreak/>
 durch den Schönen Buchenwald, gelangten auf freies Feld,
-bogen in die Straße ein, und hier in einem Hohlweg Sahen
+bogen in die Straße ein, und hier in einem Hohlweg sahen
 wir das Auto des North-Gang als halbes Wrack im Graben
 liegen. Überall standen Beamte in Uniform umher, in einem
 Gestrüpp waren eine Menge Stiefelpaare aufgereiht, zu denen
@@ -2203,7 +2203,7 @@ Ich hielt es für ausgeschlossen, daß Greap tatsächlich die Absicht
 hätte, im Lincoln-Atelier irgend eine Filmszene drehen
 zu lassen, die doch unmöglich mit diesem heutigen Vernichtungskampf
 gegen den North-Gang in Beziehung stehen könne.
-Und doch — es war So! Es wurde mit die größte Sensation,
+Und doch — es war so! Es wurde mit die größte Sensation,
 die das in dieser Hinsicht sehr verwöhnte Chicago je erlebt
 hatte. An derselben Stelle, wo sonst nur Filme hergestellt
 wurden, die in geschickter Aufmachung alle möglichen Dinge
@@ -2402,7 +2402,7 @@ konnte, ein Geständnis abzulegen. Gordon lachte Morris ins
 Gesicht.
 
 »Beweist mir etwas! Der Humbug, den ihr da vorführt,
-Genügt noch lange nicht, auch die Richter zu überzeugen. Ich
+genügt noch lange nicht, auch die Richter zu überzeugen. Ich
 leugne jede Schuld. Lady Elvira haßt mich. Pepperley hat
 den Lord verschleppen lassen, ich weiß von nichts.«
 
@@ -2411,7 +2411,7 @@ Zuschauerraum wieder Platz. Scheinbar empört rief er dann
 aus: »Man kennt mich überall als anständigen Menschen,
 der für jeden Armen eine offene Hand hatte! Ich protestiere
 hiermit öffentlich gegen diese, einer Kulturnation unwürdige,
-verlogene, gekünstelte Effekthascherei«
+verlogene, gekünstelte Effekthascherei.«
 
 Die kühne klare Stimme des Mannes, der seine Stadt
 von dem Gelichter der Unterwelt und von der Weltschmach,
@@ -2488,7 +2488,7 @@ die Hühner, dann erscheinen Harper und O. Scall, und die
 Ereignisse nehmen denselben Verlauf wie vor Stunden in
 Gouds Vorgarten. Gordon und Kaptain Hutter tauchen auf,
 und Gordon gib mit dem Hut seiner Bande das Signal zum
-Feuern. Das Fontänenbassin ist durch Bretter angedeutet,
+Feuern. Das Fontänenbassin ist durch Bretter angedeutet.
 
 *Ansager*: »Harper hat Gordon durchschaut und weiß,
 weshalb die Hutkrempe mit Honig bestrichen ist. Im richtigen
@@ -2565,7 +2565,7 @@ haben, schenkt uns der Himmel allzeit ein liebliches Stück
 holder Schönheit …«
 
 »Na na, — Kaptain, machen Sie mich nicht eifersüchtig!«,
-rief der kleine Weylt vom unteren Ende des Tisches
+rief der kleine Weylt vom unteren Ende des Tisches.
 
 … Und da schnurrte plötzlich der Schnelltelegraph …
 
