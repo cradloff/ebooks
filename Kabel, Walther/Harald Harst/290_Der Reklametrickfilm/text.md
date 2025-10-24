@@ -1619,23 +1619,23 @@ Telephon und Telegraph im großen Zimmer meldeten sich immer
 wieder, und erst gegen fünf Uhr legten Harst und ich uns für
 einige Stunden angekleidet auf unsere Betten nieder. Bisher
 hatte man keine Spur von Elvira Bennington gefunden, für
-alle Falle wurden der Hafen und die Anlegestege in den Parken
-an der Seeküste scharf überwacht, der ’Bürgermeister selbst
+alle Fälle wurden der Hafen und die Anlegestege in den Parken
+an der Seeküste scharf überwacht, der Bürgermeister selbst
 hatte zweimal persönlich mit Greap gesprochen, einige besonders
-tüchtige Reporter mit seinen Nasen belagerten die Villa
+tüchtige Reporter mit feinen Nasen belagerten die Villa
 Gitzmaer, aber die Detektive dort verrieten nichts, und die
 Morgenausgaben der Zeitungen mußten sich mit Vermutungen
-begnüge! …
+begnügen.
 
 Der Morgen kam, die Junisonne meinte es wieder besonders
 gut mit den Chicagoern, in den Steinschluchten der
 City zwischen den Wolkenkratzern schwitzen die Ameisen
-dieses Niesenbauyes von moderner Metropole, und so gegen zehn
+dieses Riesenbaues von moderner Metropole, und so gegen zehn
 Uhr war es, als ein unscheinbares Sportauto zwei ebenso unscheinbare
 Männer durch die westlichen Vororte trug — vorüber
-an &Sriedböfen, Parkanlagen, neuen Straßenfluchten, —
-und dann nach Norden abschwenkte, wo noch unberührte Baststricke,
-Formen, Landhäuser und Arbeiterkolonien mit blitzsauberen
+an Friedhöfen, Parkanlagen, neuen Straßenfluchten, —
+und dann nach Norden abschwenkte, wo noch unberührte Waldstriche,
+Farmen, Landhäuser und Arbeiterkolonien mit blitzsauberen
 Häuschen friedlich träumten.
 
 Die beiden Männer im Sportzweisitzer lenkten ihren
@@ -1643,111 +1643,111 @@ Wagen in die Hofeinfahrt eines ländlichen Wirtshauses, frühstückten
 im Garten und wanderten dann mit ihren Rucksäcken
 und Photoapparaten zu Fuß weiter. Sie sahen Harry Harper
 <@pagebreak/>
-und Mac O. Schall vom vorigen Gorilla wenig ähnlich,
-und doch: waren es Herrin und Mac, und ihr Ausflug galt
-dem einsamen Landhänsche1 des ehrgeizigen Regisseurs Joe
+und Mac O. Scall vom vorigen Vormittag wenig ähnlich,
+und doch: waren es Harry und Mac, und ihr Ausflug galt
+dem einsamen Landhäuschen des ehrgeizigen Regisseurs Joe
 Goud. Nach einiger Zeit erreichen sie ein Buchenwäldchen,
-sahen einem Fahrweg von der Landstraße abweichen und verfolgten
+sahen einen Fahrweg von der Landstraße abweichen und verfolgten
 ihn in aller Gemächlichkeit.
 
 Das Haus lag auf einer Lichtung, umgeben von einem
-etwas verwahrlosten Garten, in dem Mr Gewisse gepflanzt
-war. Kino alte Negerin stand in der offenen Tür und putzte
+etwas verwahrlosten Garten, in dem nur Gemüse gepflanzt
+war. Eine alte Negerin stand in der offenen Tür und putzte
 das Messingschild und die Umrandung der elektrischen Glocke.
 Hühner und Tauben tummelten sich zu ihren Füßen, und dieses
-Bild erinnerte mich zu daheim, an die alle Mathilde und das
+Bild erinnerte mich an daheim, an die alte Mathilde und das
 ebenso alte, schöne Berlin mit seinen grünen Vororten und
-Drei und &tüssen.
+Seen und Flüssen.
 
-Heimweh!spürte ich. Harst vielleicht auch, aber er sprach
-es ebensowenig aus wie im. Wir hatten Dinge vor, die
+Heimweh spürte ich. Harst vielleicht auch, aber er sprach
+es ebensowenig aus wie ich. Wir hatten Dinge vor, die
 unsere ganzen Gedanken beanspruchten. Greaps oberster Chef
-hatte energisch verlangst, den North-Gang schleunigst zur
+hatte energisch verlangt, den North-Gang schleunigst zur
 Strecke zu bringen, das Feuergefecht mit den Banditen gestern
-morgen hatte wieder zu verschiedenen Proteltverfammlunqeu des
-anständigen Teiles der Bürgerschaft geführt. und diese Herstürmen,
-die mich! »Politik, Unterwelt und Gangsters in einen
-Topf warfen und daraus ein Kostbares Gericht zusammen brauten,
-waren genau!0 empört und wiesen aus die beiden
+morgen hatte wieder zu verschiedenen Protestversammlungen des
+anständigen Teiles der Bürgerschaft geführt, und diese Zeitungen,
+die nicht Politik, Unterwelt und Gangsters in einen
+Topf warfen und daraus ein nahrbares Gericht zusammenbrauten,
+waren genau so empört und wiesen auf die beiden
 Todesopfer des Straßenkampfes und die angeschossenen harmlosen
-Passanten sehr eindringlich hin — Anstrich mit Bildern.
-Die andere Sorte Presse, die aus Korruption und »Banditentum
+Passanten sehr eindringlich hin — natürlich mit Bildern.
+Die andere Sorte Presse, die aus Korruption und Banditentum
 ihre Vorteile zog, beschimpfte den Spezialkommissar Hutter
 in unflätigster Art, da er wieder einmal die Berichterstatter
 völlig kaltgestellt hatte.
 
-Die alte Negerin erblickte uns, kam langsam zur Garten
-Pforte, gefolgt von der gesamten Hühnerschar, u1d fragte heim
-los, was wir wünschten, Mr. Goud sei nicht daheim. Aber
-der Chauffeur würde!sosort erscheinen, — und dieser Nachsatz
+Die alte Negerin erblickte uns, kam langsam zur Gartenpforte,
+gefolgt von der gesamten Hühnerschar, und fragte harmlos,
+was wir wünschten, Mr. Goud sei nicht daheim. Aber
+der Chauffeur würde sofort erscheinen, — und dieser Nachsatz
 war eine Warnung.
 
 <@pagebreak/>
 Harst schaute das Haus an, sah die Telephondrähte, und
-ehe die Schwarze Einspruch erheben konnte,!schoß er mit drei
-Kugeln (mit MWaximschalldämpfer) die Isolatoren der euer
+ehe die Schwarze Einspruch erheben konnte, schoß er mit drei
+Kugeln (mit Maximschalldämpfer) die Isolatoren der einen
 Stange in Scherben und zerschnitt die herabsinkenden Drähte.
 
 Ein Mann kam im Galopp um die Hausecke, ein großer
-Neuartiger Mensch, offenbar der Chauffeur. Zu der rechten
-Hand s!schwaina er einen Schraubenschlüssel, die Hemdärmel
-hatte er hocbqefirempelt und diese MusSkolwiülste hätten Jules
-Ibbar kriecherisch verschiedene Angsttröpflein gekostet.
+kräftiger Mensch, offenbar der Chauffeur. In der rechten
+Hand schwang er einen Schraubenschlüssel, die Hemdärmel
+hatte er hochgekrempelt und diese Muskelwülste hätten Jules
+Ibbar sicherlich verschiedene Angsttröpflein gekostet.
 
-»Hier lungern schon seit morgens eilt paar andere Strolche
-herum«, brüllte er uns entgegen. »drum Teufel, auffiel das
-Flieh’?f Ich …
+»Hier lungern schon seit morgens ein paar andere Strolche
+herum«, brüllte er uns entgegen. »Zum Teufel, was soll das
+alles?! Ich …«
 
-» Polizei«, sagte Harst nur und hielt ihm den Ausweis hin.
-»Sein Sonderdezernat des Kaptain Hutter, mein Freund.«
+»Polizei«, sagte Harst nur und hielt ihm den Ausweis hin.
+»Vom Sonderdezernat des Kaptain Hutter, mein Freund.«
 
 Der Chauffeur änderte sein Benehmen sofort.
 
 »Entschuldigen Sie, Mister … Aber hier ist jetzt rein
-der Tatenlos … Mr. Goud, meist- Herr, hat mir strenge
+der Satan los … Mr. Goud, mein Herr, hat mir strenge
 Anweisung gegeben, nicht …« — er verstummte, und mit einem
 etwas hilflosen Achselzucken fügte er hinzu: »Miß Hilmas
-Tod hat uns alle nervös gemacht …
+Tod hat uns alle nervös gemacht …«
 
 Harst fragte schroff: »Wo befindet sich Mr. Goud?«
 
-»Im Atelier …
+»Im Atelier …«
 
 »Fuhren Sie ihn dorthin?«
 
 »Ja — das heißt nur ein Stück, er wollte bei dem schönen
+Wetter noch zu Fuß gehen …«
 
-Wetter noch zu Fuß gehen …
 »und er wußte, daß sich hier fremde Gestalten im Walde
-
 herumdrückten?«
-»Co — er meinte gleich, es würden wohl Detektive sein,
 
-man sucht doch nach Elvira Gitzmaer …
+»Ja — er meinte gleich, es würden wohl Detektive sein,
+man sucht doch nach Elvira Gitzmaer …«
 
-»207?! Woher wissen Sie denn das?!«
+»So?! Woher wissen Sie denn das?!«
 
 »Mr. Goud erwähnte es, ich selbst weiß gar nichts, nur
-das eine. daß man in aller Frühe hier einbrechen wollte.«
+das eine, daß man in aller Frühe hier einbrechen wollte.«
 
 Harst wandte sich unwillig mir zu. »Dieser törichte Übereifer
 von Morris Leuten!! Die ganze Sache ist auf diese
 Weise verpatzt worden.« Und zu dem Chauffeur:
 
 <@pagebreak/>
-»Wer wohnt hier noch: außer der Negerköchin und Ihnen?«
+»Wer wohnt hier noch außer der Negerköchin und Ihnen?«
 
-»Niemand … Es ist sehr still geworden sei Miß H’lmas
+»Niemand … Es ist sehr still geworden seit Miß Hilmas
 Selbstmord … Gott gebe, daß die Schufte gefaßt werden,
 kriege ich einen von der Bande zwischen die Finger, dann singt
 er sein letztes Lied!« Der Mann war vor Wut dunkelrot geworden.
+
 »Welche Bande meinen Sie denn?« Harst musterte ihn
 interessiert. Der Mensch machte einen ehrlichen Eindruck.
 
 »Ah — weshalb soll ich es den nicht sagen, — es
-kommt ja doch zum Krach«. polterte der Chauffeur heraus.
+kommt ja doch zum Krach«, polterte der Chauffeur heraus.
 »Den North-Gang meine ich, Mister … Mr. Goud war fest
-entschlossen. den Direktor ’Peppetley Mehl langer zu schonen.«
+entschlossen, den Direktor Pepperley nicht länger zu schonen.«
 
 Harst stutzte. »Sie wissen etwas über den gestrigen Überfall
 auf das Lohngelderauto? Heraus mit der Sprache …«
@@ -1755,18 +1755,18 @@ auf das Lohngelderauto? Heraus mit der Sprache …«
 Der Chauffeur nickte widerwillig. »Das Auto hatte acht
 Kugelspuren mehr als früher … Das ist es.«
 
-oh verstand diese Bemerkung nicht, aber Harst nickte
+ich verstand diese Bemerkung nicht, aber Harst nickte
 sofort. »Ja — das Panzerauto der Film-Gesellschaft …
-Haben Sie die Ausschläge gezählt?«
+Haben Sie die Aufschläge gezählt?«
 
 »Heimlich, Mister, heimlich … Wie gesagt: Acht mehr
-als früher. und Morris log wie gedruckt, — das i’t nämlich
-der Chauffeur des ’Panzerwagens … Ein Ibbar Wicht, —
-wenn der Morris heißt, heiße ich Beschimpfen, dabei heiße
-ich nur &Clinkon, und der Name ist billig wie Steine.«
+als früher, und Morvis log wie gedruckt, — das ist nämlich
+der Chauffeur des Panzerwagens … Ein übler Wicht, —
+wenn der Morvis heißt, heiße ich Washington, dabei heiße
+ich nur Clinton, und der Name ist billig wie Steine.«
 
-Was dieser biedere Mann hielten in seiner Wut hervorkollert?,
-war eigentlich derart verwirrend, hast man ihm kaum
+Was dieser biedere Mann hier so in seiner Wut hervorkollerte,
+war eigentlich derart verwirrend, daß man ihm kaum
 Glauben schenken durfte. Aber der Mensch verstellte sich nicht,
 das war ein schlichter braver Naturbursche mit zweifellos
 stark ausgeprägtem Anhänglichkeitsgefühl für seinen Herrn
@@ -1777,135 +1777,137 @@ einem Einbruch heute …«
 
 »Schon um halb eins, Mister. Bestimmt. Gestern waren
 es ja drei Monate her, daß wir Miß Hilma morgens tot
-Bett verstanden, und Uhr. Goud fuhr Juni Kirchhof.«
+Bett vorfanden, und Mr. Goud fuhr zum Kirchhof.«
 
 <@pagebreak/>
 »Wann?«
 
-Um zwei, — bestimmt.«
+»Um zwei, — bestimmt.«
 
 Harst wurde noch nachdenklicher. »Sie sprachen da von einem
-Einbruch heute …« — …
+Einbruch heute …«
 
 »Gewiß, — ich habe die Kerle jedoch verscheucht … Sie
 waren nur bis in den Kartoffelkeller gekommen …«
 
-»Ding — den möchte ich mal sehen …«
+»Hm — den möchte ich mal sehen …«
 
 Als wir die Kellerräume genau durchsuchten, fanden wir
 hinter einem Stapel Preßkohlen den Staubmantel Lady Elvira
-Gitzmaers. Der Mantel war unschwer zu seinem Leder besaß
+Gitzmaers. Der Mantel war unschwer an seinem Lederbesatz
 und dem Parfümgeruch wiederzuerkennen,
 
-Cinton!tierte ihn völlig fassungslos an. »Wie kommt
-der hierher?! Das ist ja Lady Elviras neuer Aufeinander?!«
+Clinton stierte ihn völlig fassungslos an. »Wie kommt
+der hierher?! Das ist ja Lady Elviras neuer Automantel?!«
 
 Harst sagte nur: »Packen Sie ihn ein, und ich werde die
 Telephonleitung ausflicken. Das ist im Nu gemacht. Nachher
 erzählen Sie mir Genaueres über Miß Hilmas Tod, denn auch
-diese Dinge beginnen mich zu interessieren.« …
+diese Dinge beginnen mich zu interessieren.«
 
 Wir gingen in den Vorgarten. Ich war so vollständig vor
-den Luftgewehrschützen und Mörder Pepperleys schalten.
+den Kopf geschlagen, daß ich nur meinte: »Wer wird<@refnote 1/>
 aus alledem klug?«
 
-Clinton hatte uns &Gsolierband und Handwerkszeug mitgegeben.
+Clinton hatte uns Isolierband und Handwerkszeug mitgegeben.
 Harst begann die Arbeit und erwiderte: »Das Ganze
 ist das infamste Ränkespiel, das je angezettelt wurde. Ich bin
-niemals hierher gekommen, um Beweise für Jede Gouds
-Schuld zu sammeln, sondern lediglich für seine Schuldlosligkeit,
+niemals hierher gekommen, um Beweise für Joe Gouds
+Schuld zu sammeln, sondern lediglich für seine Schuldlosigkeit.
 Ich erhielt sie auch in überreichem Maße, und, damit du es
-weißt, mein Alter: Auch Greap hat niemals der Goud für
+weißt, mein Alter: Auch Greap hat niemals Joe Goud für
 den Luftgewehrschützen und Mörder Pepperleys gehalten.
-Ach habe mich mit Greap über diesen Punkt nicht verständigt,
+Ich habe mich mit Greap über diesen Punkt nicht verständigt,
 das war gar nicht nötig, in der kritischen Minute, als eine
 ganz bestimmte Aussage gemacht wurde, schauten wir uns an
-und lagert« einander den Namen des Mörders … oder der
+und lasen einander den Namen des Mörders … oder der
 Mörderin von den Lippen ab. Es war nicht Goud, der gestern
-denn Street des Geldes wegen mit Pepperley hatte, —«+ — es
-darin eine Frau gewesen Sein, kann … Lady Elviras Entführung
+den Streit des Geldes wegen mit Pepperley hatte, — — es
+kann eine Frau gewesen Sein, kann … Lady Elviras Entführung
 <@pagebreak/>
-kann ein glänzender Bluff gewesen sein, Autos Ibbar
+kann ein glänzender Bluff gewesen sein, Jules Ibbar
 kann uns zum Teil belogen haben, ich habe all diese Möglichkeiten
 immer wieder abgewogen, ich habe eins als feststehend
 hingenommen: Daß der North-Gang sich aus Leuten der Filmgesellschaft
-zusammensetzt, daß Rappelten die ausführende Hand
-Times Größeren, Klügeren war, dem dieser Wüstling, der nur
-durch Weibergeschichten die verderbten Nerven noch erinnerte,
-wie ein Schlaf doch Schlächter gehorchte. — So, die
-Leitung ist ausgestreckt … Weshalb ich sie brauche? Ich zerstörte
+zusammensetzt, daß Pepperley die ausführende Hand
+eines Größeren, Klügeren war, dem dieser Lüstling, der nur
+durch Weibergeschichten die verderbten Nerven noch anfeuerte,
+wie ein Schaf dem Schlächter gehorchte. — So, die
+Leitung ist ausgeflickt … Weshalb ich sie brauche? Ich zerstörte
 sie, um dieses Haus von der Außenwelt abzuschließen,
-ich rückte sie, weil ich ’das Atelier anrufen will. Was man
-mir von vor?k antworten wird, weiß ich: Daß Goud nicht in
+ich flickte sie, weil ich das Atelier anrufen will. Was man
+mir von dort antworten wird, weiß ich: Daß Goud nicht in
 seinem Büro erschienen ist! Goud ist … geklappt worden,
 der North-Gangster mit den zierlichen Damenstiefeln war auf
-dem Posten. sah Morris’ Leute, nachdem der Mantel Elviras
+dem Posten, sah Morris’ Leute, nachdem der Mantel Elviras
 hier eingeschmuggelt war, und da … packte er zu, weil die
-Kalkulation mimt recht stimmte, — in solchen Fällen verlieren
+Kalkulation nicht recht stimmte, — in solchen Fällen verlieren
 die intelligentesten Schurken ihren Kopf, und mag dieser Kopf
 noch so anziehend und verlockend sein.«
-Ach schritt wie ein Träumender neben ihm.
+
+Ich schritt wie ein Träumender neben ihm.
 
 Lady Elvira!!
 
 Jetzt war mir doch ein Licht aufgegangen. — Elvira und
-Jules öbbark Wer sonst … Ibbar war vom selben Schlage
-wie ’Pepperfey, war auch ein Schürzenjäger, unterhielt Kost
-!riesige Beziehungen zu sogenannten Künstlerinnen, die sicherlich
+Jules Ibbar! Wer sonst. Ibbar war vom selben Schlage
+wie Pepperley, war auch ein Schürzenjäger, unterhielt kostspielige
+Beziehungen zu sogenannten Künstlerinnen, die sicherlich
 nur für Unsummen und im Weinrausch ihre Gunst an dieses
 kleine verlogene Scheusal verschenkten. Und wie mochte dieser
-eitle, ausgeblasene, feige und freche Narr, dessen Mentalität
-angeboren sein mochte, vor Elviras jungfräulichen Schönheit
-im Staube gekrochen Sein, welch hündisches Werkzeug gab ein
+eitle, aufgeblasene, feige und freche Narr, dessen Mentalität
+angeboren sein mochte, vor Elviras jungfräulicher Schönheit
+im Staube gekrochen sein, welch hündisches Werkzeug gab ein
 zwergenhaftes, charakterloses Geschöpf wie Jules gegenüber
 einer Herrin wie Elvira wohl ab!
 
 Harst rief von Gouds Arbeitszimmer das Atelier an. —
-Antwort: Mr. Sondiert noch nicht eingetroffen, auch Elvira
+Antwort: Mr. Goud sei noch nicht eingetroffen, auch Elvira
 <@pagebreak/>
 Bennington fehle noch, der Hilfsregisseur könne mit der Aufnahme
 nicht beginnen …
 
-Harst hängte ad, und gerade da sahen wir durch die offenen
-Ernstes Ehering Greap mit einem Herrn durch den Vorgarten
-deransthlendern. der nur Allan Gordon, der entlassene Prokurist,
+Harst hängte ab, und gerade da sahen wir durch die offenen
+Fenster Charly Greap mit einem Herrn durch den Vorgarten
+heranschlendern, der nur Allan Gordon, der entlassene Prokurist,
 sein konnte. Morris hatte ihn uns beschrieben, Morris
-hatte ja sind häufiger die Herrschaften von der LincolnGesellschast
+hatte ja schon häufiger die Herrschaften von der Lincoln-Gesellschaft
 scharf unter die Lupe genommen, und was er
-Über Gordon. den Bruder Mary Gordons, zu sagen Gewicht,
-fand ich) voll bestätigt.
+Über Gordon, den Bruder Mary Gordons, zu sagen gewußt,
+fand ich voll bestätigt.
 
 Das Schicksal hatte Allan Gordon böse gezeichnet. Er
 war bucklig, wenn er es auch seinem Schneider verdankte,
-daß die Rückgratverkrümmung wenig ausfiel. Was aber kein
+daß die Rückgratverkrümmung wenig auffiel. Was aber kein
 Schneider korrigieren konnte, war der allzu kurze Oberleib
 und die allzu langen Arme und Beine. Gordon wirkte wie
 eine Mißgeburt. Doch ein Blick in sein Gesicht, und das war
 das Wunderbare an seiner Gesamtpersönlichkeit, ließ die Mißgestaltung
 des Leibes sofort vergessen. Als er den Hut abnahm
-und sich weltmaännisch verneigte und« seine dunklen, mandelförmigen
+und sich weltmännisch verneigte und seine dunklen, mandelförmigen
 Träumeraugen, in denen eine tiefe Melancholie
 schlummerte, uns zurückhaltend anschauten, als ich diese formvollendete
 Stirn, dieses dunkle lockige Haar, diese edle Nase,
 diese klassisch schöne Mundpartie bewundern durfte, als Greap
 ihn uns vorstellte und er uns eine schmale, zarte Hand entgegenstreckte,
 begriff ich die ungeheure Tragik im Leben des
-Stammes, der das Gesicht eines Gottes und den Körper eines
-Essen halte. Auch seine Stimme war weich und augetehim,
+Mannes, der das Gesicht eines Gottes und den Körper eines
+Affen hatte. Auch seine Stimme war weich und angenehm,
 ohne irgendwie weichlich zu klingen, sein Benehmen war ein
 wenig scheu, wie dies bei Menschen der Fall zu sein pflegt,
-die ein körperliches Gebrechen haben und!schwer darunter
-Eichen.
-»Amt habe Gordon abgeholt«, sagte Greap, als wir in
-den Garten gingen, um unbelauscht zu sein. »Nun, wie steht es
+die ein körperliches Gebrechen haben und schwer darunter
+leiden.
 
+»Ich habe Gordon abgeholt«, sagte Greap, als wir in
+den Garten gingen, um unbelauscht zu sein. »Nun, wie steht es
 hier, Freund Horter?«
+
 Harsts amerikanisches Pseudonym entlockte Gordon ein
 <@pagebreak/>
 schwaches Lächeln. »Entschuldigen Sie, Mr. Harst«, meinte
-er höflich, »mein ’Personengedächtnis ist Sehr gut. Achtlos
+er höflich, »mein Personengedächtnis ist Sehr gut. Ich sah
 Bilder von Ihnen, und wenn noch ein leiser Zweifel bestanden
-hatte, wer unter Ohren Maske steckte, brauchte ich nur Ihren
+hatte, wer unter Ihrer Maske steckte, brauchte ich nur Ihren
 Freund anzusehen. Eine kleine korpulente Figur ist wie ein
 Steckbrief, Mr. Schraut, wenn ein Harst mit den grauen Augen
 und der messerscharfen Adlernase daneben steht.«
@@ -1915,23 +1917,23 @@ aber bitte für sich, Gordon … Die beiden Herren sind absolut
 inkognito hier, und …«
 
 Gordon verbeugte sich. »Jedes weitere Wort erübrigt
-ihm. Falls die Herren etwas zu besprechen haben, entferne ich
+sich. Falls die Herren etwas zu besprechen haben, entferne ich
 mich gern.«
 
-»Unnötig«, meinte Spott ebenso liebenswürdig. »Sie können
-uns. sogar gewisse wertvolle Auskünfte geben, was die
+»Unnötig«, meinte Harst ebenso liebenswürdig. »Sie können
+uns sogar gewisse wertvolle Auskünfte geben, was die
 Lincoln-Gesellschaft betrifft.« Er machte eine kurze Pause.
 »Es ist jetzt erwiesen, daß Leute dieser Gesellschaft gefährliche
-Banditen sind und daß das Geldtransportauto der LincolnGesellschast
-gestern den großen sprechen Streich verübte und die
+Banditen sind und daß das Geldtransportauto der Lincoln-Gesellschaft
+gestern den großen frechen Streich verübte und die
 200&nbsp;000 Dollar raubte.«
 
 Greap hob erstaunt den Kopf, Gordon tat das Gegenteil,
 er blickte zu Boden.
 
 »Einmal mußte die Sache wohl ans Tageslicht kommen«,
-Jagte er leise. »Ich) wünschte, ich hätte einige Begabung für
-Ohren Beruf besessen, Mr. Harst, dann würde ich vielleicht die
+sagte er leise. »Ich wünschte, ich hätte einige Begabung für
+Ihren Beruf besessen, Mr. Harst, dann würde ich vielleicht die
 geringen Verdachtsmomente besser verwerten und ausbauen
 können. Mein Mißtrauen war geweckt, das war aber zu
 wenig, um Pepperley auch als Gangster zu entlarven«, — seine
@@ -1939,20 +1941,20 @@ Stimme wurde ungeahnt scharf — »dieser Schurke war mir
 überlegen, ich konnte nicht einmal an ihn heran, als meine Stiefschwester
 sich vergiftet hatte. Wenn mich eins tröstet, was
 Marys Tod angeht: Die Ärmsten der Armen werden Marys
-
 dankbar gedenken!«
+
 Ich wußte, was er hiermit meinte: Pepperleys Schweigegeld
 <@pagebreak/>
-hatte er angenommen, um damit Jules zu Kisten, —
+hatte er angenommen, um damit Gutes zu stiften, —
 wenigstens in dem Punkte hatte Jules Ibbar nicht gelogen.
 
-Hattest begann dann zunächst zu berichten, was wir hier
-bei Zoo Goud vorgefunden hatten. Er erzählte alles, auch
+Harst begann dann zunächst zu berichten, was wir hier
+bei Joe Goud vorgefunden hatten. Er erzählte alles, auch
 Clintons Bemerkungen über die Geschoßeinschläge, aber er
-sprach zufällig zerstreut, verbesserte sich Ost und schien durch
+sprach auffällig zerstreut, verbesserte sich oft und schien durch
 irgend etwas abgelenkt zu werden. Sogar Greap stieß dies
 auf. »Was haben Sie nur, Harst?!«, meinte er in jener kurzen,
-fast Schroffen Art, die zu seiner Knabenfigur nachdem sorglosbeiteren
+fast Schroffen Art, die zu seiner Knabenfigur und dem sorglos-heiteren
 Jungengesicht so gar nicht zu passen schien.
 
 Harst bot uns Zigaretten an. »Nichts habe ich, lieber
@@ -1961,95 +1963,95 @@ Hutter … Lediglich die Gewißheit, daß etwas geschehen wird.«
 Er klappte das goldene Etui wieder zu und schob es in
 die Hüfttasche, wo er es nie trug. Nur ich sah den Taschenspielergriff,
 mit dem er seine Pistole in die Außentasche seiner
-Jacke gleiten ließ, — die eine Pistole, die zubereitete in der
+Jacke gleiten ließ, — die eine Pistole, die andere steckte in der
 inneren Westentasche.
 
-Von dem Augenblick an spürte ich, daß ich Herren hatte,
+Von dem Augenblick an spürte ich, daß ich Nerven hatte,
 denn nichts regt derart auf als das Warten auf irgend eine
 Gefahr.
-»Was Soll geschehen?«, fragte Greap achselzuckend. »Das
+
+»Was soll geschehen?«, fragte Greap achselzuckend. »Das
 Gebäude der Lincoln-Gesellschaft ist abgeriegelt, die bewußte
-Hoteluhr desgleichen, Morris hat vier wunderbare Maschinengewehre
+Schlucht desgleichen, Morris hat vier wunderbare Maschinengewehre
 in Stellung gebracht, meine Panzerwagen stehen in
 einem Wäldchen, wir brauchen nur zuzupacken …«
 
-Harst zwinkerte hm etwas belustigt zu.
+Harst zwinkerte ihm etwas belustigt zu.
 
-»Die Büchse lachen, wenn die Jäger den leeren Bau einkreisen.
-Sie unterschätzen den Gangster der Forts-Bande,
+»Die Füchse lachen, wenn die Jäger den leeren Bau einkreisen.
+Sie unterschätzen den Gangster der North-Bande,
 lieber Hutter.«
 
 »Leerer Bau?!«, Greap war sichtlich überrascht.
 
 Wir standen hier neben dem einzigen Zierstück des verwilderten
-Vorgartens, einer kleinen Fontäne und diesem leeren
-Deckel und breitem &Zementrand. Der Wasserspeier in der
+Vorgartens, einer kleinen Fontäne mit tiefem leeren
+Becken und breitem Zementrand. Der Wasserspeier in der
 Mitte hatte die Gestalt eines Fisches mit offenem Maul, und
 <@pagebreak/>
-ausgerechnet in den &Silschrachen hatte ein Rotkehlchen sein
-Nest hergerichtet und saß noch Errötend aus den Eiern.
+ausgerechnet in den Fischrachen hatte ein Rotkehlchen sein
+Nest hergerichtet und saß noch brütend auf den Eiern.
 
-»Ja — leer, was die ’Berbündeten der Gangsters betrifft«,
-erwiderte Harst gedämpftem Gottes.
+»Ja — — leer, was die Verbündeten der Gangsters betrifft«,
+erwiderte Harst gedämpftem Tones.
 
-Seine Augen streiften den nahen Waldrand ad.
+Seine Augen streiften den nahen Waldrand ab.
 
-Horde rauchte und betrachtete still das brütende Vöglein.
+Gordon rauchte und betrachtete still das brütende Vöglein.
 
 Irgendwo in der Ferne erklang das Surren eines Automotors
 und erstarb wieder. Das rauschende Atmen der Riesenstadt,
-diese Sinfonie verschmelzenden Lärms der Arbeit. drang
+diese Sinfonie verschmelzenden Lärms der Arbeit, drang
 nicht bis in diesen Außenbezirk, — es war ländliche Einsamkeit,
-Frühlingsgrün und Frühlingsodem, die uns Fremdwort im
-klaren Sonnenlicht angeben. Das innige Laub der Buchenstämme
+Frühlingsgrün und Frühlingsodem, die uns freudvoll im
+klaren Sonnenlicht umgaben. Das junge Laub der Buchenstämme
 feierte fröhliche Farbenorgien in leuchtendem Hellgrün,
-Dachte hämmerten in dem Geäst einzelner Kiefern, Eichelhäher
-krächzten und flinke Weisen kletterten mit lebensfrohen
-Entsichern zwischen den Obstbäumen am Gartenzaun. Brauen
-und Wespen Jupiter, — drüben am bellen Autoschuppen, vor
-den Titel Garage nicht verdiente, ruhten die Bienenkorbe
+Spechte hämmerten in dem Geäst einzelner Kiefern, Eichelhäher
+krächzten und flinke Meisen kletterten mit lebensfrohem
+Zwitschern zwischen den Obstbäumen am Gartenzaun. Bienen
+und Wespen surrten, — drüben am hellen Autoschuppen, der
+den Titel Garage nicht verdiente, ruhten die Bienenkörbe
 auf langem Brett unter dem überhängenden Dach.
 
-»die meinen also wirklich, daß Goud von den Verbrechern
+»Sie meinen also wirklich, daß Goud von den Verbrechern
 abgefangen worden ist?«, fragte Gordon ohne besonderes
 Interesse.
 
 Harst bejahte und wandte den Kopf nach rechts.
 
-»Haben Sie eigentlich Morris vollständig eingeweiht«
-meinte Allan Gordon mit einem leichten Besitzer. leere
+»Haben Sie eigentlich Morris vollständig eingeweiht?«
+meinte Allan Gordon mit einem leichten Seufzer. »Morris
 ist ein sehr tüchtiger Mann, glaube ich.«
 
-Harst hob die Schultern. »Tüchtig?! Hin Kaptain der
-hiesigen Detektivpolizei hat es Sehr schwer. — Ob wir ihr
-eingeweiht haben? Nein und ja, Sir. Gordon. Kaptain Hutter
-und ich haben uns über die Hauptpunkte gut noch nicht verständigt
-und verließen uns doch. Vielleicht hat auch Morris
-die einzig richtiger Schlußjolgeruneu aus deutsche widerspruchsvollen
-Ereignissen gezogen, — — wir jedenfalls, was Söhnen versagt
-blieb, dem Sie kennen nur Abschnitte des Gesamtbildes.
+Harst hob die Schultern. »Tüchtig?! Ein Kaptain der
+hiesigen Detektivpolizei hat es Sehr schwer. — Ob wir ihn
+eingeweiht haben? Nein und ja, Mr. Gordon. Kaptain Hutter
+und ich haben uns über die Hauptpunkte auch noch nicht verständigt
+und verstehen uns doch. Vielleicht hat auch Morris
+die einzig richtiger Schlußfolgerung aus den sehr widerspruchsvollen
+Ereignissen gezogen, — — wir jedenfalls, was Ihnen versagt
+blieb, denn Sie kennen nur Abschnitte des Gesamtbildes.«
 
 Eine Wespe — schon die fünfte — schoß auf Gordons
 <@pagebreak/>
-Zustand zu. Er verscheuchte sie sank lächelnd. »Öl scheine
-große Anziehungskras! auf die Tierchen 6uszuüben.«
+Hutrand zu. Er verscheuchte sie sanft lächelnd. »Ich scheine
+große Anziehungskraft auf die Tierchen auszuüben.«
 
-»Weil Sie heulte beim Frühstück Honig aßen«, lächelte
-warst zurück. »Ihr Hut muß auf dem Stuhl neben Ihnen gelogen
-haben. Sie locken die Wespen an, weil zu dem Zz)utrand
-0311 Tröpflein Honig bester. Alles findet eine sehr einfache
-
+»Weil Sie heute beim Frühstück Honig aßen«, lächelte
+Harst zurück. »Ihr Hut muß auf dem Stuhl neben Ihnen gelegen
+haben. Sie locken die Wespen an, weil an dem Hutrand
+ein Tröpflein Honig haftet. Alles findet eine sehr einfache
 Erklärung.«
-Aus dem Walde ertönte plötzlich der Schrei einer aus
 
-Gescheitelten Krähe.
-Gordon nahm den Hut ab, schlug damit nach einer bog
+Aus dem Walde ertönte plötzlich der Schrei einer aufgescheuchten
+Krähe.
 
-Bruders sprechen Wespe, und Harst stieß im selben Moment
-Organ und mich in das leere Bassin. »Hinweisen, — — Gut —
-tot — — — auch Sie, — — hinweisen!«
+Gordon nahm den Hut ab, schlug damit nach einer besonders
+frechen Wespe, und Harst stieß im selben Moment
+Greap und mich in das leere Bassin. »Hinwerfen, — — Gordon
+— — auch Sie, — — hinwerfen!«
 
-Eine Kugelsaat sagte über uns hinweg. — das taktmäßige
+Eine Kugelsaat fegte über uns hinweg. — das taktmäßige
 »Pong … Pong … Pong eines mit Schalldämpfer arbeitenden
 Maschinengewehrs wurde unterbrochen von dem Splittern der
 Steinfigur des Wasserspeiers …
@@ -2059,10 +2061,10 @@ Gordon warf sich neben uns nieder.
 »Mein Gott, was bedeutet das?!«, keuchte er entsetzt,
 
 »Chicago!«, sagte Harst kurz und nahm im Liegen seinen
-Rucksack ab, schnürte ihn hastig auf und hielt plößlfich eine
-klobige Pistole mit gar; dickem Lauf in der Hand, ließ in die
-Kränkung einen runden, eingefetteten Ball hineingleiten, zielte
-zu schrägem « Hexenschuß und drückte ab.
+Rucksack ab, schnürte ihn hastig auf und hielt plötzlich eine
+klobige Pistole mit ganz dickem Lauf in der Hand, ließ in die
+Mündung einen runden, eingefetteten Ball hineingleiten, zielte
+zu schrägem Bogenschuß und drückte ab.
 
 Ein dumpfes Knacken, — der Ball flog davon, fiel irgendwo
 in das Buchengrün, und gleich darauf folgte eine schwere
@@ -2071,26 +2073,25 @@ Explosion.
 Gordon war leichenblaß geworden.
 
 Die Kugeln, die bisher zischend über uns hinweggesaust
-
 waren, und das taktmäßige Arbeiten des Gurtspuckers des
 North-Gangs stoppten ab.
 
 Harst ließ noch drei Bälle in derselben Richtung zwischen
-das Geäst Laufen, — — drei weitere Explosionen und dann
-
+das Geäst sausen, — — drei weitere Explosionen und dann
 Stille …
-»Oben Sie, so verbleibe ich die Wespen«, sagte Harst:
+
+»Sehen Sie, so vertreibe ich die Wespen«, sagte Harst
 <@pagebreak/>
 gemütlich. »Kaptain Hutter meinte heute zwar, ich solle mich
-nicht mit derartigen Kriegsgerät schleppen, aber ich gebe
+nicht mit derartigem Kriegsgerät schleppen, aber ich gehe
 lieber sicher … Wetten, daß die Ekrasitbälle die Herrschaften
 dort sehr übel zugerichtet haben?!«
 
-Er stand aus und reckte sich und klopfte die Erde und
+Er stand auf und reckte sich und klopfte die Erde und
 die trockenen Blätter von den Kleidern.
 
-»Tau — — das Auto der Banditen … es fährt davon.
-Ich fürchte, der North-Gang wird nachher ohne böse Verlustliste
+»Da — — das Auto der Banditen … es fährt davon.
+Ich fürchte, der North-Gang wird nachher eine böse Verlustliste
 zusammenstellen.«
 
 <@pagebreak/>
@@ -2098,7 +2099,7 @@ zusammenstellen.«
 <h2>7. Kapitel.</h2>
 <h3>Der Reklamefilm.</h3>
 
-Allan Gordon hatte sich auf den Rand der Fontäne gelebt
+Allan Gordon hatte sich auf den Rand der Fontäne gesetzt
 und den Kopf in die Hände gestützt. »Das ist grauenvoll«,
 sagte er wie betäubt von dem soeben Erlebten. »Die
 Menschen sind die schlimmsten Bestien, die es gibt …«
@@ -2117,305 +2118,304 @@ sehr bald.
 
 Dann kamen die Negerin und der Chauffeur Clinton
 behutsam und verstört hervorgeschlichen. »Das Gesindel hat
-auch) auf das Haus gefeuert«, schimpfte Clinton empört,
-»Alle Fenster nach »Westen zu sind zum Center, und viel hätte
-nicht gesetzt, dem hätte mich eine Kugel erwischt.«
+auch auf das Haus gefeuert«, schimpfte Clinton empört,
+»Alle Fenster nach Westen zu sind zum Teufel, und viel hätte
+nicht gefehlt, dann hätte mich eine Kugel erwischt.«
+
 »Das war wohl auch der Zweck der Übung«, meinte
-Greap trocken. »drum Glück!stehen nicht alle Wespen, —
-Alle. Gordon hatte sogar Honig an dem Hut, und trotzdem blieb
+Greap trocken. »Zum Glück stechen nicht alle Wespen. —
+Mr. Gordon hatte sogar Honig an dem Hut, und trotzdem blieb
 er verschont.«
 
-Gordons Träumeraugen hoben sich zu Kaptain Hallte
+Gordons Träumeraugen hoben sich zu Kaptain Charlys
 blinkenden jungen Pupillen. »Werden Sie … werden Sie
-nicht mal nachsehen, ob die Ekrasitbälle wirklich … — er
+nicht mal nachsehen, ob die Ekrasitbälle wirklich …«, — er
 konnte den Satz nicht beenden, da ein kleineres Auto in
 rasender Fahrt den Weg entlangkam. Zwischen den Scheinwerfern
 glühte in beißend grünem Licht ein schmaler Leuchtstab,
 <@pagebreak/>
 und was dieses bedeutete, wußten die Chicagoer Verkehrspolizisten
-sehr genau: »Ein ’Waqen des Opezialkomunssars!
+sehr genau: Ein Wagen des Spezialkommissars!
 
 Aus dem kleinen Panzerauto sprang der freche, fixe
-Pension heraus. »Nun, wie steht es87«, rief Greap ihm entgegen.
-»Alles zur Ausnahme bereit, Moorkahn, alles …!« Houstons
+Houston heraus. »Nun, wie steht es?!«, rief Greap ihm entgegen.
+
+»Alles zur Aufnahme bereit, Kaptain, alles …!« Houstons
 Augen funkelten. Von seinem linken Ohrläppchen tropfte Blut.
 
-»Und wie sieht es dort im Walde aus«?
+»Und wie sieht es dort im Walde aus?«
 
 Houston zog die Nase kraus. »Eigentlich brauchte man
-dort nichts mehr zu beerdigen, Kaptain. &unsosern ist auch alles
+dort nichts mehr zu beerdigen, Kaptain. Insofern ist auch alles
 in Ordnung.«
 
-»Na, dem können wir ja zum Atelier fahren … —
-Clinton, Formen Sie nur ebenfalls mit … Es wird ein Leichtsinn
+»Na, dann können wir ja zum Atelier fahren … —
+Clinton, kommen Sie nur ebenfalls mit … Es wird ein Trickfilm
 zum Abschluß gedreht … als Reklame für Kaptain Hutter,
 also für mich und meine Elite. Sehr interessant. —
 Fühlen Sie sich nicht ganz wohl, Mr. Gordon? Oh — so
-schwache Nerven werden Sir doch. wohl nicht haben … Leisten
+schwache Nerven werden Sie doch wohl nicht haben … Begleiten
 Sie uns nur. Wirklich, es wird sehr interessant. Die
-&doe Stamm? von mir, der Text. zumeist von Mr. Horter, und.
+Idee stammt von mir, der Text zumeist von Mr. Horter, und
 die Darsteller sind auch erstklassige Kräfte.«
 
-Gordon lächelte trübe, »Ich wünschte mir ohne Per den,
+Gordon lächelte trübe. »Ich wünschte mir Ihre Nerven,
 Kaptain! Ehrlich gesagt, ich sehne mich nach meinem stillen
-Täuschen und nach meinen Blumenkasten …« Er blickte
-nach dem Wasserspeier hin. »Da, das Rotkehlchen sitzt. noch
-auf dem Post:, diese Diliemttreono dieser Wiatierinstinkt!
-Nach in meinem Garten nisten viele Vögel …«
+Häuschen und nach meinen Blumenbeeten …« Er blickte
+nach dem Wasserspeier hin. »Da, das Rotkehlchen sitzt noch
+auf dem Nest, — — diese Pflichttreue, dieser Mutterinstinkt!
+Auch in meinem Garten nisten viele Vögel …«
 
 »Viele Vögel«, nickte Greap … »Ihr Grundstück dort
-nach »Süden jenseits des Ateliers singt fast noch einsamer wie
-dieses. Ich ahnte gar nicht, das Sie So romantische Neigungen
-besaßen. Sogar ein Bart gehört dazu, — es hat mir außerordentlich
-gefallen. — Doch —!steigen wir ein …
+nach Süden jenseits des Ateliers liegt fast noch einsamer wie
+dieses. Ich ahnte gar nicht, daß Sie so romantische Neigungen
+besäßen. Sogar ein Bach gehört dazu, — es hat mir außerordentlich
+gefallen. — Doch — steigen wir ein …«
 
-Allan Gordon wischte von seinem Hutrand 3 ’hos Tröpflein
-Innig weg. »Arme Wespen …!!«, — und dann setzte er. sich
-wischen Harst! und Greap auf den Rücksitz.
+Allan Gordon wischte von seinem Hutrand das Tröpflein
+Honig weg. »Arme Wespen …!!«, — und dann setzte er sich
+zwischen Harst und Greap auf den Rücksitz.
 
 Der Wagen wendete, und wir fuhren in flottem Tempo
 <@pagebreak/>
-durch?) den Schönen Buchenwald, gelangten auf freies Gold,
+durch den Schönen Buchenwald, gelangten auf freies Feld,
 bogen in die Straße ein, und hier in einem Hohlweg Sahen
-wir das Auto das North-Gang als halbes Wrack im Grade
-fragst. Überall standen Beamte in Uniform umher, in einem
-Gestrüpp waren eine Menge Stiefelpaare qausgereiht, zu denen
-noch div Besitzer gehörten, — — man hatte jedoch Zweige darüber
+wir das Auto des North-Gang als halbes Wrack im Graben
+liegen. Überall standen Beamte in Uniform umher, in einem
+Gestrüpp waren eine Menge Stiefelpaare aufgereiht, zu denen
+noch die Besitzer gehörten, — — man hatte jedoch Zweige darüber
 gebreitet, und Gordon warf nur einen scheuen Blick nach
 der Richtung.
 
-Damm tauchten Landhäuser auf, noch ein Waldstreifen,
+Dann tauchten Landhäuser auf, noch ein Waldstreifen,
 und das mächtige Glashaus der Lincoln-Gesellschaft kam in
-Glich.
+Sicht.
 
 Das Schweigen in unserem Auto war beängstigend. Als
 Houston, der Frechdachs, einige billige, unangebrachte Witze
 riß, verwies Greap ihn zur Ruhe.
 
 Ich hatte das beklemmende Gefühl, als ob die Dinge zu
-guter Lot noch eine ganz andere Wendung nehmen könnten.
-Falschen Harst und Greap waren ja ohne »Zweifel gewisse
-Bere’nbarungen getroffen worden, von denen ich nichts wußte.
-34 hielt es für ausgeschlossen, daß Greap tatsächlich die Glitt
-hätte, im Lincoln-Atelier irgend eine Finstere drehen
-lassen, die doch ninmmoolich mit diesem heutigen Beoruichtungs —
-»Kampf gegen den North-Gang im Beziehung stehen könne.
-Und doch es war So! Es wurde mit die größte Sensation,
-die das in dieser Einsicht sehr verwöhnte Chicago je erlebt
-hatte. Au derselben Stelle. wo sonst war Filme hoeraestellt
-wurden. die in geschickter Aufmachung alle möglichen Dinge
+guter Letzt noch eine ganz andere Wendung nehmen könnten.
+Zwischen Harst und Greap waren ja ohne Zweifel gewisse
+Vereinbarungen getroffen worden, von denen ich nichts wußte.
+Ich hielt es für ausgeschlossen, daß Greap tatsächlich die Absicht
+hätte, im Lincoln-Atelier irgend eine Filmszene drehen
+zu lassen, die doch unmöglich mit diesem heutigen Vernichtungskampf
+gegen den North-Gang in Beziehung stehen könne.
+Und doch — es war So! Es wurde mit die größte Sensation,
+die das in dieser Hinsicht sehr verwöhnte Chicago je erlebt
+hatte. An derselben Stelle, wo sonst nur Filme hergestellt
+wurden, die in geschickter Aufmachung alle möglichen Dinge
 in wirksamer Reklame mit dem nötigen sentimental-süßlichen
-Japan Tod anpriesen und Elvira Bennington Gelegenheit
-gegeben hatten, etwa ein neues Parfüm, eine neue Seife. eine
-»Zahnbürste oder dergleichen durch den Reiz ihrer lieblichen
-Tische uns berühmt zu machen, — an dieser Stätte fand in
-Gegeitwvart von Vertretern der Presse, der Polizei und des
+Happy End anpriesen und Elvira Bennington Gelegenheit
+gegeben hatten, etwa ein neues Parfüm, eine neue Seife, eine
+Zahnbürste oder dergleichen durch den Reiz ihrer lieblichen
+Erscheinung berühmt zu machen, — an dieser Stätte fand in
+Gegenwart von Vertretern der Presse, der Polizei und des
 Obersten Chefs der Millionenstadt sozusagen die Rekonstruktion
 einer Reihe von Verbrechen statt, die lediglich den Zweck
-hatte, den wahrhaft Schuldigen, gegen den bisher nur öndizienbeweise
+hatte, den wahrhaft Schuldigen, gegen den bisher nur Indizienbeweise
 <@pagebreak/>
 vorlagen, durch eine Reihe von lebenden Bildern
 so mürbe zu machen, daß er unter der Wucht des vorgebrachten
-Tatsachenmaterials völlig zusammenbrach. — Die aierikanischen
+Tatsachenmaterials völlig zusammenbrach. — Die amerikanischen
 Polizeibehörden gehen zwecks Erzielung von Geständnissen
 mit ganz anderen Mitteln vor als jene Länder, die in
 dem Verbrecher lediglich ein Opfer ererbter Schwächen und
-äußeren Umstände sehen. Es ist Tatsache, daß die dortige Polizei
+äußerer Umstände sehen. Es ist Tatsache, daß die dortige Polizei
 zum Beispiel außer dem sogenannten dritten Grad des
-Verhört, das heißt einer Ost zehn Stunden dauernden Vernehmung
-des Angeschuldigten, auch Gnjekitonen verwendet,
-die den Eigenarten des Angeklagten völlig abtöten und ihn
+Verhörs, das heißt einer oft zehn Stunden dauernden Vernehmung
+des Angeschuldigten, auch Injektionen verwendet,
+die den Eigenwillen des Angeklagten völlig abtöten und ihn
 unfähig machen, etwa bei einer sorgfältig überlegten Aussage
 hartnäckig zu beharren. Schwerverbrecher verfallen nach einer
 solchen Einspritzung in einen Zustand von Apathie, die ihnen
 jede Kraft zum Leugnen raubt. Man mag über diese Methoden
 denken, wie man will, das eine bleibt bestehen: Der
-Druck wird erreicht, der Mörder kann sich nicht herausfliegen,
+Zweck wird erreicht, der Mörder kann sich nicht herauslügen,
 verrät Einzelheiten, die nachher bei der Gerichtsverhandlung
-vielleicht den Ausschlag geben, Bankräuber nennen die Versteckte
+vielleicht den Ausschlag geben, Bankräuber nennen die Verstecke
 der Beute, und, was nicht zu unterschätzen ist, die Angst
 in Verbrecherkreisen vor diesen Methoden ist so groß, daß
-viele vor der Begehung neuer Zutaten zurückschrecken. — Am
-Strafvollzug, mithin auch um der gesamten Rechtspflege, stehen
+viele vor der Begehung neuer Untaten zurückschrecken. — Im
+Strafvollzug, mithin auch in der gesamten Rechtspflege, stehen
 seit Jahrhunderten zwei Theorien dauernd zur Erörterung:
-Die Gesteins- und die Abschreckungstheorie. Hin Land wie
-Amerika könnte ohne Gebiete des Verbrechertums übeiheonpt
-nicht Herr werden. Nur blinde Idealisten und dekadente Quoll
-Inseln von der Möglichkeit, eine verbrecherische ’Beransfaquug
-durch jJogenanmnte reine Menschengüte beseitigen zu können. Der
-Goiwohnheitsverbrecher wird in so seltener Fallen der ehrlichen
+Die Besserungs- und die Abschreckungstheorie. Ein Land wie
+Amerika könnte ohne letztere des Verbrechertums überhaupt
+nicht Herr werden. Nur blinde Idealisten und dekadente Snobs
+faseln von der Möglichkeit, eine verbrecherische Veranlagung
+durch sogenannte reine Menschengüte beseitigen zu können. Der
+Gewohnheitsverbrecher wird in so seltenen Fällen der ehrlichen
 Arbeit zurückgewonnen, daß diese Ausnahmen überhaupt nicht
-mitsprechen, was von amerikanischen Strafrechtslehrern Amen
+mitsprechen, was von amerikanischen Strafrechtslehrern immer
 wieder betont wird. —
 
-Der Ausnahmerawrm des Ateliers war für die kommende
-»Entführung« bereits vorbereitet. Vor der breiten Bühne
+Der Aufnahmeraum des Ateliers war für die kommende
+»Vorführung« bereits vorbereitet. Vor der kleinen Bühne
 <@pagebreak/>
-mit dem »hausenden« Hintergrund, der. alle möglichen Szenen
+mit dem »laufenden« Hintergrund, der alle möglichen Szenen
 enthielt, befanden sich die Stuhlreihen der Zuschauer. Harst
 hatte mir schon beim Betreten des Gebäudes einiges zugeflüstert,
 und unauffällig trennten wir uns von Gordon und
-Houston und Chauffeure Clinton, die nachher in einer der hinteren
+Houston und Chauffeur Clinton, die nachher in einer der hinteren
 Stuhlreihen saßen. Der Vorhang der kleinen Bühne,
-die häufig für Ausnahmen von Theaterszenen benutzt worden
+die häufig für Aufnahmen von Theaterszenen benutzt worden
 war, blieb vorläufig geschlossen.
 
-Ich) mochte hier nun die Tragödie »North-Gang«. die
-über dies Bretter gingt, Kurz so schildern, wie sie die Zuschauer
+Ich möchte hier nun die Tragödie »North-Gang«, die
+über diese Bretter ging, kurz so schildern, wie sie die Zuschauer
 sahen, unter denen ganz vorn ein älterer Herr mit
-streichen, versecmlossenem Gesicht zwischen Kaptain Morris und
+strengem, verschlossenem Gesicht zwischen Kaptain Morris und
 dem Chef des Detektivkorps Platz genommen hatte. Der
 Herr war das Stadtoberhaupt in Person, ein Mann von
-tadellosem Ruf, ein unermüdlichen Arbeiter, ein genialer Kopf,
-überall beliebt. Nicht einmal die Schmutzpresse der Michigan Metropole
+tadellosem Ruf, ein unermüdlicher Arbeiter, ein genialer Kopf,
+überall beliebt. Nicht einmal die Schmutzpresse der Michigan-Metropole
 wagte sich an diesen für seine Person äußerst bescheidenen,
 vorbildlichen Beamten heran.
 
 Was mich betrifft, so erlebte ich hinter der Bühne in
-den Ankleideräumen Überraschungen, auf die im hier nicht
+den Ankleideräumen Überraschungen, auf die ich hier nicht
 näher einzugehen brauche. Sie ergeben sich von selbst aus dem
-dann gespielten »Trickfilm«, der von zwei Kinvoperakeuren beim
+dann gespielten »Trickfilm«, der von zwei Kinooperateuren beim
 grellen Licht der Lampen für die spätere Gerichtsverhandlung
-ausgenommen wurde. Es wurde ein stummer Trickfilm, eine
+aufgenommen wurde. Es wurde ein stummer Trickfilm, eine
 Pantomime, aber als Erklärer und Ansager betätigte sich der
-kleine Wort von der »Elite« mit größtem Geschick. —
+kleine Weylt von der »Elite« mit größtem Geschick. —
 
 Ein Gongzeichen, der Vorhang rauschte auseinander, und
 man erblickte ein Damenschlafzimmer. Vor dem Bett saß ein
 junges Mädchen mit einem gefüllten Wasserglas in der Hand.
 
-Ansager: »Mary Gordon, von Direktor »Pepperlety
-berührt, von ihrem Stiefbruder mit Vorwürfen über ihren
+*Ansager*: »Mary Gordon, von Direktor Pepperley
+verführt, von ihrem Stiefbruder mit Vorwürfen über ihren
 Sündenfall überhäuft, hat sich entschlossen, das Treiben des
 North-Gang, von dem sie zufällig Kenntnis erhielt, der Polizei
 zu melden. Ahnungslos trinkt sie das vergiftete Wasser.«
 
-Das Mädchen sinkt auf das Bett und stirbt. Die &R-
+Das Mädchen sinkt auf das Bett und stirbt. Die Tür
 <@pagebreak/>
 öffnet sich, und herein schleicht der Darsteller Allan Gordons,
-gefolgt. von beim! Schauspieler, der Direktor »Popperloy!pielt.
+gefolgt von dem Schauspieler, der Direktor Pepperley spielt.
+»Gordon«, tadellos in Maske und Haltung, legt einen Brief
+auf den Nachtisch und deutet, zu »Pepperley« gewandt,
+höhnisch grinsend auf die Tote.
 
-»Gordon«,!grelles in Maske und Haltung, legt einen Brief
-»auf den Nachtisch und. deutet, zu »Reporter« gewandt,
-höhnisch grinsend Aal die Tote.
+*Ansager*: »Gordon, der einen Abschiedsbrief seiner
+Stiefschwester gefälscht hat, erklärt Pepperley, daß Mary
+jetzt nichts mehr verraten würde.«
 
-Ansager: »Gordon, der einen Abschied8brie! seiner
-Otfiesichwester gefälscht hat, erklärt »Pepperley, das Mary
-jetzt nichts mehr: verraten würde.«
-
-Vorhang fällt.
+Vorhang fällt. —
 
 Hier gab es eine kleine Störung. Allan Gordon war
-aufgesprungen, totenbleich, mit ausgerissenen Augen, Schweiß
-aus der Stirn, — Handschellen schlossen sich um seine Gelenke,
-starke Sauste zwangen ihn auf seinen Platz zurück.
+aufgesprungen, totenbleich, mit aufgerissenen Augen, Schweiß
+auf der Stirn, — Handschellen schlossen sich um seine Gelenke,
+starke Fäuste zwangen ihn auf seinen Platz zurück.
 
 Wieder rauscht der Vorhang auseinander. — Szenenbild:
-Bürozimmer. — Gordon und die Schiffe Elvira Gittern
+Bürozimmer. — Gordon und die echte Elvira Gitzmaer
 stehen sich gegenüber. Hastige Auseinandersetzung zwischen
+beiden.
 
-eitel. in
-Ansager: »Allan Gordon, der Gangster der Kochherde,
+*Ansager*: »Allan Gordon, der Gangster der North-Bande,
 erklärt Mylady seine Liebe, wird verachtungsvoll zurückgewiesen
 und stößt in sinnloser Raserei wilde Drohungen
 aus, packt Mylady, — und …«
 
-Die Tür dritter sich, ein junges Mädchen mit einem Aktenstück
+Die Tür öffnet sich, ein junges Mädchen mit einem Aktenstück
 tritt herein.
 
-Ansager: »Hilma Goud wird Benahm des frechen Angriffs
-aus Myladys Frauenehre und spricht lich dadurch selbst
+*Ansager*: »Hilma Goud wird Zeugin des frechen Angriffs
+auf Myladys Frauenehre und spricht sich dadurch selbst
 das Todesurteil.«
 
 Vorhang schließt sich. — — Dritte Szene: Wieder ein
-Damenschlafzimmer. Hilma Goud ruht im Bett bei offenen
-Fenster. Durch das &Senster steigt Gordon ein und. betäubt die
+Damenschlafzimmer. Hilma Goud ruht im Bett bei offenem
+Fenster. Durch das Fenster steigt Gordon ein und betäubt die
 Schlafende, öffnet die Gashähne der Lampen, legt einen Brief
-auf den Nachttisch, klettert hinaus, schließt die &Seuster.
+auf den Nachttisch, klettert hinaus, schließt die Fenster.
 
-Aussagen: »Gordon tötet Hilma Goud. Auch der Brief
-ist gefälscht. Hilma hat wie Beziehungen zu Pepperley Automaten.«
--
+*Ansager*: »Gordon tötet Hilma Goud. Auch der Brief
+ist gefälscht. Hilma hat nie Beziehungen zu Pepperley unterhalten.«
+—
 
 <@pagebreak/>
 Vierte Szene: Ein Schlafwagenabteil. Lord Reginald
 Gitzmaer wird schlafend überfallen, in einen Schrankkoffer gepackt,
 und ein Fremder nimmt seinen Platz im Bett ein.
 
-Ansager: »Gordon läßt den Lord durch seine Leute
-verschwinden. (Einer der Bande reist als Gitzmaer na! England.
+*Ansager*: »Gordon läßt den Lord durch seine Leute
+verschwinden. Einer der Bande reist als Gitzmaer nach England.
 Der Lord wird in Pepperleys Luxushöhle geschafft.« —
 
 Nächste Szene: Eine einsame Landstraße, zwei Stromer,
-ein »Polizist, der deren Papiere prüft, dann Lady Elvira.
+ein Polizist, der deren Papiere prüft, dann Lady Elvira.
 
-Ansager: »Lady Gitzmaer, die gegen Gordon Verdacht
+*Ansager*: »Lady Gitzmaer, die gegen Gordon Verdacht
 geschöpft hat, gewinnt die beiden Vagabunden Harry
-Harper und Mac O. Schall als Verbündete, um durch sie das
+Harper und Mac O. Scall als Verbündete, um durch sie das
 Hauptquartier Kaptain Hutters zu ermitteln, mit dem sie sich
 persönlich in Verbindung setzen will, da sie zu den anderen
 Beamten kein Vertrauen hat und Verrat fürchtet.«
 
-Borhang!schließt sich. — Dann: Szene in einem Bürozimmer,
-steht erregter Streich zwischen Gordon und Pepperley
+Vorhang schließt sich. — Dann: Szene in einem Bürozimmer,
+sehr erregter Streit zwischen Gordon und Pepperley
 über die Teilung der erbeuteten 200&nbsp;000 Dollar Lohngelder.
-die Verbündeten trennen sich in Unfrieden, Gordon verläßt
-das Himmel.
+Die Verbündeten trennen sich in Unfrieden, Gordon verläßt
+das Zimmer.
 
-Ansager erläutert die Szene, »… Nach diesem Zank
-besteht sich »Pepperley in die Lehmschlucht, um dem in dem
-Qohlenverschlag gefangen gehaltenen Gitzmaer Lebensmittel
-bergen. Dazwischen bat Lady Elvira herausgefunden, daß
-
-Inder der verfallenen Hütte eine luxuriös ausgestattete Höhle
+*Ansager* erläutert die Szene. »… Nach diesem Zank
+begibt sich Pepperley in die Lehmschlucht, um dem in dem
+Höhlenverschlag gefangen gehaltenen Gitzmaer Lebensmittel
+zu bringen. Inzwischen hat Lady Elvira herausgefunden, daß
+hinter der verfallenen Hütte eine luxuriös ausgestattete Höhle
 liegt, hat sie aber nicht zu betreten gewagt.«
 
 Vorhang zu. — Folgende Szene: die Lehmschlucht durch
 Kulissen und anderes angedeutet. Mylady und die beiden
-&tromer sitzen vor der Hütte, am Abhang verborgen liegt
-Gordon mit Lujtbäüchse, in der Hütte taucht hinter der Serxstervj
-jung »Pepperley du) Gordon erschießt ihn, gleichzeitig erst
-!ad! sich Myladys Pistole.
+Stromer sitzen vor der Hütte, am Abhang verborgen liegt
+Gordon mit Luftbüchse, in der Hütte taucht hinter der Fensteröffnung
+Pepperley auf. Gordon erschießt ihn, gleichzeitig entlädt
+sich Myladys Pistole.
 
-Ansager: »Gordon verbirgt die Mordwaffe dann
-nachts in Jules Abhang Bücherschrank. — Die Stromer finden
+*Ansager*: »Gordon verbirgt die Mordwaffe dann
+nachts in Jules Ibbars Bücherschrank. — Die Stromer finden
 Lord Gitzmaer, nachdem Mylady sich entfernt hat. Der Lord
 <@pagebreak/>
-»ich in das Sanatorium geschafft?, wo Gordon ihn durch das
-Fenster zu erschießen sucht. Dies, mißlingt. Gordon entführt
-nun Lady Elvira und bringt sie in den Keller seines Londoners.
+wird in das Sanatorium geschafft, wo Gordon ihn durch das
+Fenster zu erschießen sucht. Dies mißlingt. Gordon entführt
+nun Lady Elvira und bringt sie in den Keller seines Landhauses.
 — Da er merkt, daß seine Entlarvung droht, wagt er
+einen letzten Streich.«
 
-irren Posten Streich.«
-Borhaitig!schließt sich. — —
-Hier trat eine längere Pause ein, da Gordon im Zug
+Vorhang schließt sich. — —
 
-hHovuerraum ohnmächtig geworden war.
+Hier trat eine längere Pause ein, da Gordon im 
+Zuschauerraum ohnmächtig geworden war.
 
 <h2>8. Kapitel.</h2>
-<h3>Dialekte Szene.</h3>
+<h3>Die letzte Szene.</h3>
 
-Erst nach einer halben Stunde hatte Gordon schien weit
-»riet, daß Morris ihn in einem Nebenraum auffordern
-Sie ein Geständnis abzulegen. Gordon lachte Morris ins
+Erst nach einer halben Stunde hatte Gordon sich so weit
+erholt, daß Morris ihn in einem Nebenraum auffordern
+konnte, ein Geständnis abzulegen. Gordon lachte Morris ins
+Gesicht.
 
-Blick.
-
-»Beweist mir etwas! Der Humbug, den ihr da verführt,
-
+»Beweist mir etwas! Der Humbug, den ihr da vorführt,
 Genügt noch lange nicht, auch die Richter zu überzeugen. Ich
 leugne jede Schuld. Lady Elvira haßt mich. Pepperley hat
 den Lord verschleppen lassen, ich weiß von nichts.«
+
 Gelassen und nur tiefen Schmerz heuchelnd nahm er im
 Zuschauerraum wieder Platz. Scheinbar empört rief er dann
-aus: »Tag kennt mich überall als anständigen Menschen,
-der für jeden Armen eine offene Hand hatte! Ach protestiere
+aus: »Man kennt mich überall als anständigen Menschen,
+der für jeden Armen eine offene Hand hatte! Ich protestiere
 hiermit öffentlich gegen diese, einer Kulturnation unwürdige,
-gelegene, gekünstelte Effekthascherei«
+verlogene, gekünstelte Effekthascherei«
 
 Die kühne klare Stimme des Mannes, der seine Stadt
 von dem Gelichter der Unterwelt und von der Weltschmach,
-&Chicago sei das größte Banditennest, befreien wollte, antwortet
+Chicago sei das größte Banditennest, befreien wollte, antwortet
 ihm mit dem eindeutigen Satz:
 
 <@pagebreak/>
@@ -2423,90 +2423,89 @@ ihm mit dem eindeutigen Satz:
 das Verbrechertum zu bekämpfen. — Bitte fortzufahren, meine
 Herren.«
 
-»ach protestiere!«, rief Gordon nochmals. »Hier werden
+»Ich protestiere!«, rief Gordon nochmals. »Hier werden
 Szenen gezeigt, die sich auf grundfalschen Vermutungen aufbauen.
 In der Hauptsache stammen diese lächerlichen Schlußfolgerungen
 wohl von dem deutschen Schnüffler namens …«,
-— aber Haarklein Morris Hand verschloß ihm den Mund, ein
+— aber Kaptain Morris Hand verschloß ihm den Mund, ein
 Knebel ward ihm zwischen die Zähne geschoben, und der Vorhang
 teilte sich.
 
 Bühnenbild: Ein Zimmer mit Schreibtisch. Gordon und
-Deut Männer in eifriger Unterhaltung.
+neun Männer in eifriger Unterhaltung.
 
-Ansager: »Gordon erklärt seiner Bande, daß man
+*Ansager*: »Gordon erklärt seiner Bande, daß man
 unbedingt Kaptain Hutter und dessen Hauptmitarbeiter beseitigen
 müsse. Er erteilt Befehle. Seine Spione haben erkundet,
-daß Harper und O. Schall sich zu Gouds Landhaus
+daß Harper und O. Scall sich zu Gouds Landhaus
 begeben wollen. Goud wird dann von den Banditen abgefangen
-und gleichfalls in den Keller von Gordons Haus gen
+und gleichfalls in den Keller von Gordons Haus gebracht.«
+—
 
-brach!.« —
 Nächste Szene: Derselbe Raum, Gordon bestreicht seine
-
 Hutkrempe mit Honig.
 
-Ansager: »Gordon bringt Honig auf seine Hutkrempe,
+*Ansager*: »Gordon bringt Honig auf seine Hutkrempe,
 damit er nachher scheinbar nach Bienen oder Wespen schlagen
-kann, — diese Hutbewegungen sollen für Seine- Banditen das
-Signals zum Schießen Sein.«
+kann, — diese Hutbewegungen sollen für seine Banditen das
+Signal zum Schießen sein.«
 
 Vorhang schließt sich, öffnet sich wieder, Szene ist derselbe
 Raum, Gordon und Kaptain Hutter im Gespräch.
 
-Ansager: »Kaptain Hutter bittet Gordon, ihn zu See
-Goud zu begleiten. Sie entfernen sich. Da Gordon!sein Haus
-ganz allein benahm?!, können Hutters Leute Lady Elvira und
-
+*Ansager*: »Kaptain Hutter bittet Gordon, ihn zu Joe
+Goud zu begleiten. Sie entfernen sich. Da Gordon sein Haus
+ganz allein bewohnt, können Hutters Leute Lady Elvira und
 Goud ohne Zwischenfälle befreien.« —
-Folgendes Bild: Bürozimmer, Gordon und Jules Ibbar
 
-im! Gespräch. — …
-Anzahl: »Gordon beging den größten &ehler, als
-er Selben vorlog, ’Pepperley hätte ihm des Codes seiner Stiefschwester
+Folgendes Bild: Bürozimmer, Gordon und Jules Ibbar
+im Gespräch.
+
+*Ansager*: »Gordon beging den größten Fehler, als
+er Ibbar vorlog, Pepperley hätte ihm des Todes seiner Stiefschwester
 <@pagebreak/>
 wegen eine halbe Million Schweigegeld gezahlt und
 er habe von dieser Summe den größeren Teil an eine wohltätige
-Anstalt gehabt. — Tatsache ist, daß Gordon bei der
+Anstalt gezahlt. — Tatsache ist, daß Gordon bei der
 Michigan-Bank einen Barscheck von Pepperley kurz nach
 dessen Ermordung präsentierte und auch eine halbe Million
-e: hielt. Pepperleys Scheckunterschrift ist ebenso geschickt gefälscht
-wie die Abschiedsbriefe der beider armen Mädchen.
-Tor von zahlte dann einen Teil der Summe an die wohltätige
+erhielt. Pepperleys Scheckunterschrift ist ebenso geschickt gefälscht
+wie die Abschiedsbriefe der beiden armen Mädchen.
+Gordon zahlte dann einen Teil der Summe an die wohltätige
 Anstalt, um sich den Rücken zu decken.«
 
-Durch den Zuhörerraum bedeutete ein einziger Ruf höchster
-Empörung. Sorgen die eifrig s!chreibenden Reporter waren
+Durch den Zuhörerraum brandete ein einziger Ruf höchster
+Empörung. Sogar die eifrig schreibenden Reporter waren
 aufgesprungen. Gordon saß hoch aufgerichtet da und hatte
 um die Lippen ein grausig-leeres Lächeln. —
 
-Nächste Szene zeigt die Befreiung Lady Elviras und See
+Nächste Szene zeigt die Befreiung Lady Elviras und Joe
 Gouds aus dem Keller des Landhauses Gordons.
 
 Die folgende, nach längerer Pause, spielte in einem Garten
 vor einem Landhaus. Die Negerköchin Gouds füttert
-die Hühner, dann erscheinen Harper und O. Schall, und die
+die Hühner, dann erscheinen Harper und O. Scall, und die
 Ereignisse nehmen denselben Verlauf wie vor Stunden in
-Gouds Vorhanden. Gordon und Kaptain Hutter fauchen auf,
-und Gordon gib? mit dem Hut seiner Bande das Signal zum
-Bauern. Das Fontänenbassin ist durch Bretter angedeutet,
+Gouds Vorgarten. Gordon und Kaptain Hutter tauchen auf,
+und Gordon gib mit dem Hut seiner Bande das Signal zum
+Feuern. Das Fontänenbassin ist durch Bretter angedeutet,
 
-Ansager: »Harper hat Gordon durchschaut und weiß,
-weshalb die Hutkrempe mit Honig bestrichen ist. Am richtigen
+*Ansager*: »Harper hat Gordon durchschaut und weiß,
+weshalb die Hutkrempe mit Honig bestrichen ist. Im richtigen
 Moment reißt Harper seine Freunde in das schützende Bassin,
-während Gordon noch stehen bleibt und durch seinen Geosichtsausdruck
-betraf, wie sehr ihn das Mißlingen des Anschlages
-ärgert. Erst nach Harpers erneutem Zuruf wirst auch
+während Gordon noch stehen bleibt und durch seinen Gesichtsausdruck
+verrät, wie sehr ihn das Mißlingen des Anschlages
+ärgert. Erst nach Harpers erneutem Zuruf wirft auch
 Gordon sich nieder, der ja bestimmt weiß, daß seine Banditen
-nicht auf ihn tiefen werden. Harper Feuers die Ekrasitbomben
+nicht auf ihn zielen werden. Harper feuert die Ekrasitbomben
 in den Wald, und der Rest der Bande wird durch Kaptain
 Hutters Panzerauto zusammengeschossen. Gordon macht Ausflüchte,
 mit nach dem Filmatelier zu kommen, ergibt sich dann
 jedoch zunächst in sein Schicksal und hoffte wohl, sich noch
-irgendwie herausrücken zu können. Er ist nunmehr überführt,
+irgendwie herauslügen zu können. Er ist nunmehr überführt,
 <@pagebreak/>
 da schon die Entführung Lady Elviras und Gouds nach seinem
-Hause und deren Befreiung seine Schuldossenbart. — Es
+Hause und deren Befreiung seine Schuld offenbart. — Es
 kommt jetzt das letzte Bild.« —
 
 Der Vorhang schließt sich.
@@ -2515,19 +2514,21 @@ Längere Pause …
 
 Vorhang geht auf.
 
-Stelle: Ein Galgen, eilte Leiter daran, Gordon mit einem
-Stück un dein Kraft oben auf der Leiter. Unter dem Galgen
-auf schräg gestellter Bahre die reichte Leiche Stuart ’Pepper-
-Ansager sehr laut und schroff: »Der Mörder und eines
-Seiner Opfer!«
+Szene: Ein Galgen, eine Leiter daran, Gordon mit einem
+Strick um den Hals oben auf der Leiter. Unter dem Galgen
+auf schräg gestellter Bahre die echte Leiche Stuart Pepperleys
+…
 
-— -. Hm Zuschauerraum ist Gordon emporgeschnellt, fällt
-dank wie ein Klotz nach vorn.
+*Ansager* sehr laut und schroff: »Der Mörder und eines
+seiner Opfer!«
 
-Ein Arzt bemühte sich um ihn. Alter erwacht, erfüllt sein
+… Im Zuschauerraum ist Gordon emporgeschnellt, fällt
+dann wie ein Klotz nach vorn.
+
+Ein Arzt bemühte sich um ihn. Als er erwacht, erfüllt sein
 tierisches Gebrüll das ganze Glashaus. Ein Krankenauto
-bringt Allan Gordon in eine Irrenanstalt, wo er noch kurzer
-Weit verstirbt. Die Sektion ergibt, daß Gordons Gehirn krankhafte
+bringt Allan Gordon in eine Irrenanstalt, wo er nach kurzer
+Zeit verstirbt. Die Sektion ergibt, daß Gordons Gehirn krankhafte
 Wucherungen zeigt, und die Ärzte gelangen zu dem
 endgültigen Spruch, daß Gordons Untaten auf latenten Irrsinn
 zurückzuführen waren, der Hand in Hand ging mit einer
@@ -2538,48 +2539,45 @@ waren darin einig, daß dieser Geisteskranke noch unabsehbaren
 Schaden hätte anrichten können, wenn er noch weiter sein
 finsteres, heimliches Treiben hätte fortsetzen Können. — —
 
-Am Abend desselben Tages, der das Ende des NortbGanq
-bedeutete, saß in großen Brunnen von Greaps Hauptquartier
+Am Abend desselben Tages, der das Ende des North-Gang
+bedeutete, saß in großen Zimmer von Greaps Hauptquartier
 eine stille Tafelrunde beieinander und erörterte nochmals
 die jüngeren Ereignisse.
 
 Frau Roxy Weylt bediente wieder frisch und flink ihre
 Freunde, und gerade sie war es, die in die ernste Unterhaltung
 eine Bemerkung einstreute, die wie Sonnenglanz nach einem
-
-Unwetter grinste.
+Unwetter wirkte.
 
 <@pagebreak/>
 »Wir alle haben Lady Elvira zunächst bitter Unrecht
-seien. Die liebt ihren Gatten … Ach war dabei, wie sie vor
+getan. Sie liebt ihren Gatten … Ich war dabei, wie sie vor
 einem Bett in die Knie sank und ihn umarmte … Und —
 sonderbar: Von da an ließ das Fieber nach. Mylord wird
 sehr bald wieder gesund werden. Elviras heiße Tränen und
 weiche Lippen haben den Tod von diesem Krankenbett verscheucht.«
 
-Dann sagte Harrt Greap mit einem verträumten
-Lächeln: »Es wäre ja auch: trostlos, wenn das Leben uns
-immer Seine Schattenseiten zeigen wollte. Allerdings, liebe
-Frau Roxy, So leise wir Sie hier im Hotel Bennett
-haben,!schenkt uns »der Himmel allzeit ein liebliches Stück
+Dann sagte Charly Greap mit einem verträumten
+Lächeln: »Es wäre ja auch trostlos, wenn das Leben uns
+immer seine Schattenseiten zeigen wollte. Allerdings, liebe
+Frau Roxy, so lange wir Sie hier im Hotel Bennett
+haben, schenkt uns der Himmel allzeit ein liebliches Stück
+holder Schönheit …«
 
-holder Schönheit … In
-na, — Kokain, machen Sie mich nicht eiferJüchtigt«,
-
-»R
-
+»Na na, — Kaptain, machen Sie mich nicht eifersüchtig!«,
 rief der kleine Weylt vom unteren Ende des Tisches
+
 … Und da schnurrte plötzlich der Schnelltelegraph …
 
 Wir alle blickten hin …
 
 Der Papierstreifen rollte ab …
 
-Wir alle fühlten dasselbe: Cnttäuschungl!
+Wir alle fühlten dasselbe: Enttäuschung!!
 
-Uns tat Ruhe Not …
+Uns tat Ruhe not …
 
 Aber der Apparat tickte … tickte wie ein kleiner
-höhnischen Teufel …
+höhnischer Teufel …
 
-Nächster Band: Der grüne Schatten.
+Nächster Band: *Der grüne Schatten.*
