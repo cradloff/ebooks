@@ -92,8 +92,8 @@ des Mr. Anatol Fraser und eine zweite Kassette, in der hauptsächlich
 In derselben Nacht landete eine schmucke Segeljacht
 gegen halb zwölf im Jachthafen des nördlichen Teiles
 des schönen Lincoln-Parkes, und fünf Herren begaben sich
-im Anbruch dieser jäh unterbrochenen Segelpartie in einem
-Privatauto, das aus ein gewartet hatte, nach einem bescheidenen
+im Auto nach dieser jäh unterbrochenen Segelpartie in einem
+Privatauto, das auf sie gewartet hatte, nach einem bescheidenen
 Hotel in der nördlichen Milwaukee-Avenue, das unlängst
 in andere Hände übergegangen war. Es war mehr eine
 Fremdenpension, die der Vorbesitzer gründlich heruntergewirtschaftet
@@ -108,7 +108,7 @@ angebracht (mit zum Teil zerplatzten Buchstaben):
 <p class="centered">Billig. Sauber. Komfort.</p>
 <p class="centered">Auf Wunsch volle Verpflegung.</p>
 
-Fünf Steinstufen führten zu zwei traurigen Magnolienbüschen
+Fünf Steinstufen führten an zwei traurigen Magnolienbüschen
 vorüber zur Haustür empor, in der sich ein quadratisches
 Guckloch für den Portier befand. — Einer der Herren
 <@pagebreak/>
@@ -121,7 +121,7 @@ dicken, blonden Schnurrbart und Brille getragen hatte, legte
 jetzt beides ab und meinte zu dem alten Pförtner:
 
 »Du wunderst dich, daß wir so schnell zurück sind, Vater …
-Es hat sich jedoch etwas Ereignet, das uns …«
+Es hat sich jedoch etwas ereignet, das uns …«
 
 »Zweierlei hat sich ereignet«, korrigierte ein anderer
 der merkwürdigen Hotelgäste. »Wir reden darüber besser
@@ -176,11 +176,11 @@ Die Anzeigen, die Wilkiens gesammelt hat, stammen aus den
 vier letzten Abendausgaben des Michigan-Recorder. — Harst,
 lesen Sie mal vor …«
 
-Ein Herr mit graumelierten Spitzbart nahm aus Miß
+Ein Herr mit graumeliertem Spitzbart nahm aus Miß
 Roxy Listons zarter Hand die Zettel entgegen. »Also Nr. 1:
 
 <p class="centered em">5000 Dollar gesucht</p>
-<p class="centered">gegen erstklassige Sicherheit nur bis 3. Juni d. J.
+<p class="centered">gegen erstklassige Sicherheit nur bis 3. Juli d. J.
 5500 zurück. — Angebote unter »Blagru 126« an</p>
 <p class="centered">die Exped. d. Z.</p>
 
@@ -223,7 +223,7 @@ und Sie sind es, der auf Mister Blawal kam.«
 
 Der Riese Wilkiens strich sich über den blonden Bürstenschädel.
 
-»Vor sieben Monaten wurde auf dem See ist der Nordecke
+»Vor sieben Monaten wurde auf dem See in der Nordecke
 eine Spritschmugglerjacht abgefaßt«, erzählte er sehr
 bedächtig. »Der Kaptain nannte sich Blawal, Georg Green
 Blawal. Er hatte auch Papiere, die auf diesen Namen lauteten,
@@ -247,7 +247,7 @@ Auszeichnung. Den Mister Blawal hatte ich längst vergessen.
 <@pagebreak/>
 Aber diese vier komischen Anzeigen erinnerten mich wieder
 an den schwarzhaarigen Kerl, der in den Augen die Heimtücke
-und den Mord sehen hat. All die vier »Geldgesuche«, behaupte
+und den Mord sitzen hat. All die vier »Geldgesuche«, behaupte
 ich, sind nichts anderes als verkappte Befehle an eine Gaunerbande,
 die sich sorgfältig hütet, irgendwie als »Gang« aufzufallen,
 also als organisierter Verbrecherklub. — So, mehr
@@ -279,7 +279,7 @@ Schalttafeln, Drähten und Schnüren eingenommen
 wurde.
 
 »Harst meint«, erklärte Charly Greap dann, »daß Wilkiens
-Annahme zutrifft und daß die »Geldgesuche«« Geheimbefehle
+Annahme zutrifft und daß die »Geldgesuche« Geheimbefehle
 an die Mitglieder eines »Gang« darstellen. Er glaubt
 sogar, daß die erste Anzeige die wichtigste sei und daß in dieser
 oder der folgenden Nacht mit irgendeinem Gewaltstreich
@@ -325,7 +325,7 @@ Telegraph, durch Sender und Blinkverständigung dauernd verbunden.
 
 Tom Weylt, dem es mit oblag, Mitteilungen entgegenzunehmen,
 sprang auf und eilte dorthin, wo die blanke Apparatur
-wie ein leise klappernden Rachen das schmale Papierband
+wie ein leise klappernder Rachen das schmale Papierband
 ausspie.
 
 Unter allgemeiner nervöser Spannung und Reglosigkeit
@@ -457,7 +457,7 @@ trug: Im Herrenanzug mußte sie entzückend aussehen.
 Stelle einige Auskünfte zu erhalten«, erklärte Harst einen
 Ton schärfer.
 
-Grace musterte ihn flüchtig. »Wir Sie wollen … Bitte!«
+Grace musterte ihn flüchtig. »Wie Sie wollen … Bitte!«
 
 Die Wohnung Anatol Frasers war mit die eleganteste
 und geschmackvollste, die ich je gesehen habe. Als wir den
@@ -492,7 +492,7 @@ wirkte unbedingt gekünstelt. Sie gefiel mir nicht, diese
 unnahbare junge Dame, deren dunkle Augen wundervoll lange
 Wimpern hatten. Sie schien wirklich kurzsichtig zu sein.
 
-Harst stand noch immer vor dem leer Rahmen, hob ihn
+Harst stand noch immer vor dem leeren Rahmen, hob ihn
 jetzt empor und betrachtete das Messingschild mit der eingravierten
 Schrift:
 
@@ -504,7 +504,7 @@ Nägel, mit denen die Hinterwand des Bildes befestigt
 gewesen, einen Zettel hervor, der ganz eng gefaltet war.
 
 »Das ist seltsam«, sagte er und kam langsam auf uns zu.
-Er hatte das Papier geschüttelt und schüttelte wiederholt den
+Er hatte das Papier geglättet und schüttelte wiederholt den
 Kopf. »Hier steht mit Tinte in offenbar verstellter Schrift
 ein einziges Wort … Was es bedeutet, weiß ich nicht. Ich
 kann jedoch nur annehmen, daß die Diebe den Zettel zurückließen,
@@ -523,7 +523,7 @@ Grace Trolborn gähnte diskret.
 Namen je gehört?!«
 
 »Welchen Namen? — Verzeihung, ich hörte nicht recht
-hin, Kaptain. Meine Gedanken waren anderswo«. Sie stand
+hin, Kaptain. Meine Gedanken waren anderswo.« Sie stand
 auf und trat näher.
 
 Greap schaute ihr voll ins Gesicht. »Sie haben offenbar
@@ -596,7 +596,7 @@ Sie stand sekundenlang regungslos. Jetzt war doch das
 eingetreten, was kommen mußte: Ihre Nerven streikten. Sie
 mochte bisher mit ungeheurer Willensanstrengung sich beherrscht
 haben, und aus diesem Übermaß von innerem Sich-Bezwingen
-war jeder Fehlgriff in Ihrem Verhalten entstanden.
+war jeder Fehlgriff in ihrem Verhalten entstanden.
 Nun aber brach sie zusammen.
 
 Ich habe selten einen so furchtbaren Kampf in einem
@@ -664,7 +664,7 @@ eine äußerst gefährliche Gegend zu sein …«
 Harst erschien erst jetzt, er hatte sich Zeit gelassen, und
 musterte nur oberflächlich den Toten und das Gemälde und
 sagte achselzuckend: »Ich habe mir erlaubt, Miß Grace und
-Mr. Bishop jeden in ein Badezimmern einzusperren. Es ist
+Mr. Bishop jeden in ein Badezimmer einzusperren. Es ist
 nicht gerade nötig, daß sie sich über das, was sie uns vorlügen
 wollen, vorher noch verständigen, — versucht haben sie es.«
 
@@ -768,7 +768,7 @@ bezeichnete es immer als Saal) unsere bisher ungelöste Ausgabe
 mit ganz anderen Augen betrachteten und jeder äußerst
 hoffnungsfroh diesen und jenen Vorschlag unterbreitete, wie
 die Sache »richtig« anzupacken sei. Wilkiens, der Mann mit
-dem Stiernacken und der Kraft eines Preisringers stellte sich
+dem Stiernacken und der Kraft eines Preisringers steckte sich
 eine echte Virginia zwischen die Lippen und paffte wie ein
 Schlot und hörte andächtig zu, wie Charly Greap als letzter
 seinen Feldzugsplan entwickelte. Das quecksilberige Baby
@@ -782,7 +782,7 @@ Auf der weißen Kachel, genau in der Mitte des kohlefressenden
 Ungetüms prangte ein fast handgroßer Stempel in leuchtenden
 Farben, — ein blaugrüner Walfisch, genau wie der viel angezweifelte
 <@pagebreak/>
-so Böcklin, und darunter in Schwarz ebenso klar das
+Böcklin, und darunter in Schwarz ebenso klar das
 Wort: *Blawal*!
 
 Totenstille zunächst. Draußen auf der Milwaukee-Avenue
@@ -822,12 +822,12 @@ war gewöhnliche Ölfarbe.
 »Merkwürdig!«, meine Harst. »Mit solchen Spielereien
 wie Stempeln, Geheimzeichen oder dergleichen geben sich die
 hiesigen organisierten Unterwelten doch im allgemeinen wenig
-ab. Das Gehört mehr zum Rüstzeug moderner Romanfabrikanten,
+ab. Das gehört mehr zum Rüstzeug moderner Romanfabrikanten,
 obwohl ich persönlich vier …«
 
 Er brach mitten im Satze ab. »Mir fällt da etwas ein …
 <@pagebreak/>
-Weiß jemand, welches Institut hier Sie Fensterreinigung übernommen
+Weiß jemand, welches Institut hier die Fensterreinigung übernommen
 hatte?«
 
 Wilkiens wußte es — Harst ging zum Telephon, und
@@ -841,14 +841,14 @@ Klage vorläge? — »Keineswegs«, erklärte Harst sehr freundlich.
 Der jetzige Pächter des Hotels wird das Abonnement erneuern.
 Danke … Schluß.«
 
-Jetzt warnen wir noch ratloser.
+Jetzt waren wir noch ratloser.
 
 Greap schritt ruhelos auf und ab. »Also können wir
 damit rechnen, daß der höchst unbeliebte Spezialkommissar
 Kaptain Hutter baldigst von seinen »Freunden« überreich mit
 Handgranaten, Bomben und sonstigen Dingen, die das Leben
 plötzlich stark verkürzen, beschenkt wird! Ich kann wohl sagen,
-so langsam fällt wir diese Fraser-Sache auf die Nerven!«
+so langsam fällt mir diese Fraser-Sache auf die Nerven!«
 
 Es lag eine erstaunliche Unlogik in Greaps Worten.
 Gerade er, ein überaus scharfer Denker, hätte sich ganz anders
@@ -889,10 +889,10 @@ Untersuchung einleiten. Bankgebäude bereits unauffällig
 umstellt. — Zeit 1,15 nachm.
 
 Greap hatte immer langsamer gelesen. Das Sprechen
-schien ihm schwer zu werden, ein ganz eigentümlichen Ausdruck
+schien ihm schwer zu werden, ein ganz eigentümlicher Ausdruck
 zeigte sich auf seinem fahl gewordenen Gesicht. Es lag
 etwas Hilfloses, völlig Verstörtes in seinen Zügen, aber das,
-was in ihm verging, versuchte er durch eine wütende Handbewegung
+was in ihm vorging, versuchte er durch eine wütende Handbewegung
 zu verscheuchen, er knüllte den Streifen zusammen,
 schleuderte ihn auf den Tisch und rief Wilkiens mit rauher
 Stimme zu: »Den großen Wagen sofort! Auch Sie kommen
@@ -952,7 +952,7 @@ empfing uns Kaptain Morris von der Detektivpolizei,
 der einzige, der in alles, was Person und Mitarbeiter und
 <@pagebreak/>
 Arbeitsmethode des Geheimkommissars betraf, eingeweiht war,
-mit stummen Händedruck.
+mit stummem Händedruck.
 
 Greap eilte ungeduldig voraus. Das vornehme, große
 Privatbüro Anatol Frasers lag rechter Hand nach dem Hofe
@@ -1005,7 +1005,7 @@ sagte er stark gereizt. »Wo ist der Brief Frasers, auf dem
 sich der Stempel des Walfisches befunden haben soll?«
 
 Der weit ältere Morris erwiderte ebenso knapp und
-kühl: »Nach der dessen flüchtigen Besichtigung ist das Zimmer
+kühl: »Nach der ersten flüchtigen Besichtigung ist das Zimmer
 hier abgeschlossen worden. Vor der Tür standen zwei Detektive,
 auf dem Hof stehen drei. Den Zimmerschlüssel händigte ich
 Ihnen in der Vorhalle aus. Der angefangene Brief lag dort
@@ -1183,7 +1183,7 @@ Kaptain Greap hatte dicke Falten auf der Stirn.
 müssen. Nicht einmal Fraser tat es. Sehr auffällig das — —
 wie vieles. — Harst, Ihr Vorschlag?«
 
-»Wahrscheinlicher genau wie das, was Sie tun wollen:
+»Wahrscheinlich genau wie das, was Sie tun wollen:
 Den schnellsten Polizeikutter bereit halten lassen!«
 
 Greap kaute die Unterlippe. »Also — nach Harpington,
@@ -1192,7 +1192,7 @@ meinen Sie?«
 »Ja … Ich hoffe, wir fassen Miß Grace und den Hausmeister
 noch ab, falls nicht gerade Frasers Privatjacht eines
 von den Rennbooten ist, die sich hier einige Millionäre in
-Hamburg bei Bloom u. Voß bauen ließ: Garantiert dreißig
+Hamburg bei Bloom u. Voß bauen ließen: Garantiert dreißig
 Knoten Maximalgeschwindigkeit.«
 
 Morris erklärte sehr Gelassen: »Der große Motorkutter
@@ -1200,7 +1200,7 @@ der Wasserpolizei »Chicago 11« läuft dreiundreißig, und Frasers
 Jacht ist ein alter Benzinstänker von vielleicht zehn
 Knoten.«
 
-Greap lebte auf, »Wilkiens. »Chicago 11« liegt in einer
+Greap lebte auf. »Wilkiens, »Chicago 11« liegt in einer
 Stunde bereit. Etwas fix, Wilkiens! — Und Sie, Houston,
 nehmen ein Auto und holen von daheim unsere Regenmäntel
 und sonstiges für längere Wasserfahrt. Dieser Mr. Blawal
@@ -1345,7 +1345,7 @@ Greap war heute ganz früh allein unterwegs und
 im Fraser-Haus, er hatte sich ja alle Doppelschlüssel ausgebeten,
 er »stempelte« den Bogen Büttenpapier, und als Fraser
 den Stempel fand, schrieb er mit hervorragender Kaltblütigkeit
-den Seltsamen Briefanfang mit »Harpington« als Absenderort
+den seltsamen Briefanfang mit »Harpington« als Absenderort
 und jagte sich die Kugel in die Schläfe. Miß Grace
 aber wollte Mord vortäuschen, öffnete das Fenster, durchlöcherte
 den Lampenschirm, säuberte den Einschuß mit Schwamm
@@ -1418,7 +1418,7 @@ Küche und eine kleinere Kajüte) saßen Kaptain Charly und
 Harst an dem runden Sofatisch und machten Gesichter wie die
 Weisen aus dem Morgenland, denen kein Stern den richtigen
 Weg zeigt. Vor ihnen lag ein zerknittertes Blatt Büttenpapier
-mit verwischten Walstempel: Frasers Abschiedsbrief!
+mit verwischtem Walstempel: Frasers Abschiedsbrief!
 
 Harst rauchte kalt. Ein schlechtes Zeichen. Und Charly
 <@pagebreak/>
@@ -1497,7 +1497,7 @@ gekräuselte Striche, kleine Wellen und — — dann verschluckte
 ein Zipfel der Riesenwolke auch die Sonne.
 
 »Chicago 11« raste durch die Flut … Wir kamen näher,
-— urplötzlich dem ein Prasseln, Plätschern, — der Scheinwerfer
+— urplötzlich dann ein Prasseln, Plätschern, — der Scheinwerfer
 blitzte auf, die Regenschnüre blinkten wie Perlenketten,
 und im Moment schwamm das Deck vor Nässe. Wir zogen die
 Ölkappen tief in die Stirn, wir sahen die Jacht noch, die erste
@@ -1518,10 +1518,10 @@ hatten wir unter der Wasserlinie ein großes langes
 Loch erkannt.
 
 »Die verdammten treibenden Baumstämme«, fluchte Greap
-in verbissener Wut. »Das Kommt davon, wenn die kanadischen
+in verbissener Wut. »Das kommt davon, wenn die kanadischen
 Flößer ihre Flöße so liederlich herrichten. Suchen wir Grace
 und Bishop! Welch ein Wahnsinn, bei dem Unwetter mit
-Schwimmwesten sich vom See anzuvertrauen!«
+Schwimmwesten sich dem See anzuvertrauen!«
 
 »Chicago 11« suchte zwei Stunden. Immer wieder kreisten
 wir mit halber Kraft, wir hielten Bootshaken bereit, auch
@@ -1625,11 +1625,11 @@ Norden.
 <h2>6. Kapitel.</h2>
 <h3>Die Insel Harpington.</h3>
 
-Und dieser Kutter war nicht. »Chicago 11«, hatte nur
+Und dieser Kutter war nicht »Chicago 11«, hatte nur
 einen Hilfsmotor, ein Klappverdeck und krebste durch das
 Wasser wie eine lahme Flunder. Es war kalt, wir lagen in
 Wolldecken gehüllt und versuchten zu schlafen, aber die Kanaille
-von Motor war einer jener Lärmapparate, die Sogar
+von Motor war einer jener Lärmapparate, die sogar
 Tote aufwecken könnten. Müdigkeit und ein Glas Medizinalwein
 wiegten mich schließlich doch in das Traumland hinüber,
 obwohl Wilkiens mit dem Petroleumkocher sich abmühend,
@@ -1736,7 +1736,7 @@ Es muß die Villa Jack Sunnersetts sein.«
 Das Haus war im Stil eines besseren Landhauses mit
 großen Veranden, ein paar Dachtürmchen und Balkons erbaut.
 Links davon hinter einer Hecke stand noch ein Stall.
-Als wie die Vorderflur erreicht hatten, sah auch ich die von
+Als wir die Vordertür erreicht hatten, sah auch ich die von
 Harst erwähnten Lichter in der Ferne schimmern. Eine breite,
 gepflasterte Straße lief vom Hause gen Süden. Von den Gebäuden
 das Ortes war nichts zu erkennen, lediglich rechts gewahrte
@@ -1758,7 +1758,7 @@ brannte. Anderseits hatte Wilkiens vorhin betont, daß die
 Sekte der Brüder vom heiligen Jordan als eines ihrer Glaubensprinzipien
 das Vertrauen in die Ehrlichkeit der Mitmenschen
 besonders hochhalte und auch danach handele. (Es
-gibt drüben im Amerika zahllose Sekten mit den wunderlichsten
+gibt drüben in Amerika zahllose Sekten mit den wunderlichsten
 Bekenntnissen. Erinnert sei nur an die Mormonen,
 deren Vielweiberei allerdings nicht mehr besteht.) — Als Greap
 nun das Türschloß beleuchtete, zeigte sich, daß ein eigentliches
@@ -1767,7 +1767,7 @@ außen und innen. Diese Entdeckung machte auch Harst stutzig.
 »Wenn die Leute hier so felsenfest darauf bauen, daß Gott
 ihr Eigentum schon schützen wird, ist dies entweder äußerst
 schlau berechneter Bluff oder aber die unumstößliche Gewißheit,
-das — — es hier nichts zu stehlen gibt.« Er lachte leise und
+daß — — es hier nichts zu stehlen gibt.« Er lachte leise und
 zog Charly Greap zur Seite. »Gestatten Sie mal, lieber
 <@pagebreak/>
 Freund, Sie stehen hier auf einem eisernen Fußkratzer, und
@@ -1877,7 +1877,7 @@ Charly Greap erklärte sehr kurz angebunden:
 spielen Theater, Mr. Sunnersett. *Sie* nämlich! — Meine
 Vollmacht reicht auch für die ganze Union, nicht nur für den
 Staat Illinois. Sie werden uns begleiten. Wer befindet sich
-außer Ihnen noch im Hause?«!«
+außer Ihnen noch im Hause?«
 
 Der Greis hatte sich langsam erhoben. Sein Gesicht
 rötete sich, unwillig blitzten seine Augen den mageren Charly
@@ -1903,7 +1903,7 @@ gegangen.
 
 Jack Sunnersett hob den Arm. »Hinaus mit Ihnen!!
 Sofort!« Seine Stimme überschlug sich vor Grimm. »Ja,
-ich bin allein in der Kirche ist Frühgottesdienst … Aber
+ich bin allein, in der Kirche ist Frühgottesdienst … Aber
 wehe Ihnen, wenn Sie es wagen, irgendwie hier …«
 
 Er brach kurz ab, ließ den Arm sinken, musterte uns nochmals
@@ -2010,7 +2010,7 @@ die in einem einzelnen Gestühl dicht am Altar saßen.
 Ich traute meinen Augen kaum, als ich dort zwischen einer
 älteren Dame und einem jungen Mädchen Anatol Frasers
 Ebenbild sitzen sah. Die Ähnlichkeit war so verblüffend,
-daß ich sofort Harst leise anstieß und ihm auf jenen Mann
+daß ich sofort Harst leise anstieß und ihn auf jenen Mann
 aufmerksam machte. Harst blickte scharf hin und winkte dann
 einem von Greaps Leuten. »Haben Sie Handschellen da?
 — Gut, kommen Sie mit …«
@@ -2060,7 +2060,7 @@ Greap trat näher. »Sie haben gehört, wer ich bin«,
 sagte er sehr gelassen. »Ich verhafte Sie wegen dringenden
 Verdachtes …«
 
-Des junge Mädchen hatte einen schrillen Schrei ausgestoßen.
+Das junge Mädchen hatte einen schrillen Schrei ausgestoßen.
 Totenbleich drängte sie sich vor den höhnisch lächelnden
 Menschen und schrie Greap mit bebender Stimme ins Gesicht:
 »Herr, — das ist mein Vater, das ist der gütigste Mensch
@@ -2119,7 +2119,7 @@ Vor uns aus dem Nebel kurz hintereinander mehrere
 Detonationen …
 
 »Hallo — — meine Pillen«, jubelte Houston. »Sagte
-ich nicht, daß sie an Dock fielen!! — — Dort liegt ein Kleines
+ich nicht, daß sie an Deck fielen!! — — Dort liegt ein kleines
 Motorboot, Kaptain … Vielleicht ist der Stänker fahrtbereit!«
 
 Er war es … Wir knatterten davon, — zu sehen war
@@ -2146,13 +2146,13 @@ Wind zerriß die Nebelschwaden, und weit voraus erblickten
 wir im ersten Schimmer der noch verhüllten Sonne die Jacht
 mit den braunen Segeln.
 
-Sie fuhr im Zickzack, — — Sie wurde nicht gesteuert,
+Sie fuhr im Zickzack, — — sie wurde nicht gesteuert,
 das Stöhnen besagte genug: Allan Fraser war verletzt, lag
 irgendwo hilflos an Deck.
 
 »Wir müssen ihn haben!«, meinte Greap erbittert. »Noch
 lebend. Der Bursche soll gesundgepflegt werden für einen
-anderen letzten Gong!«
+anderen letzten Gang!«
 
 Wieder schlossen sich die Nebelschleier, und wieder in der
 Ferne ein dumpfer Knall, dem eine grelle, hochschießende Fontäne
@@ -2170,7 +2170,7 @@ Grau ein großer Kutter hervorschoß … Der Führer, ein
 Sergeant, prüfte erst sehr sorgfältig Greaps Legitimation.
 
 Dann salutierte er stramm. »Ganz zu Ihrer Verfügung,
-Kaptain Hutter. — Wir haben noch gerade mit knappen Not
+Kaptain Hutter. — Wir haben noch gerade mit knapper Not
 einen Mann aus dem Wasser gefischt, die Jacht sackte weg.
 Dort liegt er …« Er zeigte auf die erleuchtete Kajüte.
 
@@ -2210,7 +2210,7 @@ Frasers?«
 »Ja …« Es klang sehr kleinlaut, und unter Schminke
 und Puder war ihr Gesicht ohne jede Spur von Farbe.
 
-»Und Miß Lizzie, — ist sie eine Schwester von Miß,
+»Und Miß Lizzie, — ist sie eine Schwester von Miß
 Grace, die sich Trolborn nennt? Die Ähnlichkeit ist ziemlich
 sprechend.«
 
@@ -2218,7 +2218,7 @@ Die Frau mit den harten, scharfen Zügen stieß hasserfüllt
 hervor: »Leider!!«
 
 Neben ihr ertönte von Lizzies blassen Lippen ein gequälter
-Aufschrei. »Ich habe eine Schwester?! Das Ist mir
+Aufschrei. »Ich habe eine Schwester?! Das ist mir
 stets verheimlicht worden!! Weshalb?!«
 
 Sie hatte den hübschen Kopf gedreht und starrte Frau
@@ -2279,7 +2279,7 @@ In Allan Frasers Herrenzimmer im ersten Stock des
 überelegant eingerichteten Hauses saßen zu ernstestem Konsilium
 mehrere Männer um den Sofatisch. Der alte Mr.
 Sunnersett, Gründer der Kolonie und ehrlicher, nur betrogener
-Mann, harte in einem Lehnstuhl Platz genommen.
+Mann, hatte in einem Lehnstuhl Platz genommen.
 
 Wie zum Hohn hatte die Sonne inzwischen den Nebel
 verscheucht und warf breite Lichtfluten durch die hohen Fenster
@@ -2290,7 +2290,7 @@ Befehle vermittelt, und überall da, wo die frommen
 Jordanbrüder ihre meist abseits gelegenen Niederlassungen
 hatten, wurden diese Verbrechernester in aller Eile und Stille
 ausgehoben. Die ganze Sekte der Brüder vom heiligen Jordan,
-eine Gründung das einzigartig intelligent-verderbten
+eine Gründung des einzigartig intelligent-verderbten
 Allan Fraser, war eine große Verbrecherorganisation, zweifellos
 die bedeutendste, die hier in den Nordoststaaten je gewirkt
 hatte. Das Erstaunlichste dieses »Gang« und seines
@@ -2339,10 +2339,10 @@ irgendwie angezweifelt werden«, begann er ohne jede Schärfe.
 »Auch ich selbst stehe sozusagen über den Parteien. Ich habe
 die Entwicklung der Dinge wie eine kunstvolle Schachpartie
 mit bearbeitet und lediglich Kaptain Hutter zuweilen zu diesem
-oder jenem Zuge geratet. Die Vorgeschichte des Ganzen
+oder jenem Zuge geraten. Die Vorgeschichte des Ganzen
 liegt fünfzehn Jahre zurück. Die verwitwete Frau Anna
 Fraser hatte zwei Söhne, Allan und Anatol, Zwillinge, jedoch
-in den Charakteranlagen völlig verschieden. Allan hatte den
+in den Charakteranlagen völlig verschieden. Allan haßte den
 ehrlichen, anständigen, ruhigen Bruder von jeher, zumal dieser
 <@pagebreak/>
 geschäftlich außerordentlich vom Glück begünstigt wurde und
@@ -2377,7 +2377,7 @@ angeblich als eine Verwandte einer Seitenlinie der Frasers.
 Der Name Fraser ist hier so häufig, daß man den Propheten
 Allan nicht mehr mit dem Abkömmling der angesehenen Chicagoer
 Frasers identifizierte. Je mehr des Bankiers Reichtum
-wuchs, desto grimmiger hasten ihn Mutter und Bruder,
+wuchs, desto grimmiger haßten ihn Mutter und Bruder,
 die ihm seinerzeit bei der Erbauseinandersetzung alle Rechte
 <@pagebreak/>
 an der damals wertlosen Bank abgetreten hatten. Leider
@@ -2417,7 +2417,7 @@ zugegeben, hat er sich ihr schließlich anvertraut. Grace hat
 freilich das Bild uns gegenüber nicht erwähnt. — Ich komme
 nun zu den Vorfällen der jüngsten Vergangenheit. Offenbar
 <@pagebreak/>
-hatte Anatol weitere Zahlungen an die Erpressern abgelehnt
+hatte Anatol weitere Zahlungen an die Erpresser abgelehnt
 und gedroht, das Böcklinbild, in Wahrheit war es ja ein
 Rubens, zu verbrennen. Hierüber weiß Grace nichts anzugeben.
 Die Jordanbrüder, deren Treiben Anatol kannte,
@@ -2435,13 +2435,13 @@ aus Wortteilen des »Blaugrünen Walfisches« bestand.«
 Greap pfiff leise durch die Zähne. »Allerdings eine Infamie,
 ein steter Schrecken für den Bankier!«
 
-»Die Ereignisse jener Nacht Streife ich ganz kurz. Anatol,
+»Die Ereignisse jener Nacht streife ich ganz kurz. Anatol,
 der Gangster, traf mit uns Seglern zusammen und flüchtete.
 Seine Jacht war ein auf der Harpington-Werft in aller
 Stille erbautes kleines U-Boot. Die Konstruktionspläne fand
 ich in den Gewölben der Kirche. Dieses U-Boot bringt die
 Lösung so manchen Rätsels. Es war in der Tat ein Walfisch,
-der tauchen und große Morgen Alkohol befördern
+der tauchen und große Mengen Alkohol befördern
 konnte. Kaptain Hutter war wie ich schon in jener Nacht auf den
 Gedanken gekommen, daß die Jacht ein Tauchboot sei. Die
 Rammstöße dieses Walfisches hat ja »Chicago 11« allzu sehr
@@ -2455,7 +2455,7 @@ und der Diebstahl der Kassetten sowie die Plünderung
 der Zimmer der tatsächlich abwesenden Miß Grace vollzog
 <@pagebreak/>
 sich in aller Stille. Die Banditen verließen unbeobachtet das
-Fraser-Haus wund eilten in den Grant-Park, wo an einem
+Fraser-Haus und eilten in den Grant-Park, wo an einem
 Bootssteg der »Blauwal« mit Allan Fraser wartete. Al
 Clarc deckte seinen Genossen den Rückzug, hielt sich jedoch
 zu lange noch im Hause auf und …« — Harst machte hier
@@ -2464,7 +2464,7 @@ zurückkehrenden Anatol.«
 
 Greap nickte zustimmend. »Ganz recht, so war es! Und
 Anatol schoß Al Clarc in der Vorhalle nieder, als dieser
-ihn gegen die Kante das Fahrstuhlschachtes schleuderte. Mit
+ihn gegen die Kante des Fahrstuhlschachtes schleuderte. Mit
 Graces Hilfe, die soeben heimgekehrt war und den Schuß von
 oben gehört hatte, trug er den Toten in Graces Zimmer in
 einen Schrank, ohne daß er gewahr wurde, was Al Clarc
@@ -2507,7 +2507,7 @@ Die Tür klappte hinter ihm zu.
 angeht, von mir natürlich nur eine Vermutung, die sich nicht
 beweisen läßt, da Grace das Bild verbrannt hat. Ich werde
 jedenfalls dafür sorgen, daß Anatol Frasers Andenken rein
-erhalten bleibt, und Sie, Kaptain Hutter, Können Ihren Bericht
+erhalten bleibt, und Sie, Kaptain Hutter, können Ihren Bericht
 dementsprechend abfassen. Was Sie vorbringen, Allan
 Fraser, wird kein Mensch glauben. Es wäre auch ratsam,
 Ihre Erpressungen besser unter den Tisch fallen zu lassen. Sie
