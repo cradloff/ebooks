@@ -1,23 +1,4 @@
-Harald Harst
-
-Aus meinem Leben
-
-Band: 292
-
-Haus der Winde
-
-Erzählt von
-
-Max Schraut
-
-Verlag moderner Lektüre G.&nbsp;m.&nbsp;b.&nbsp;H.
-
-Berlin SO 16, Michaelkirchstraße 23a
-
-Nachdruck verboten. — Alle Rechte, einschließlich
-das Verfilmungsrecht, vorbehalten. — Copyright 1931
-by Verlag moderner Lektüre G.&nbsp;m.&nbsp;b.&nbsp;H.,
-Berlin SO 16.
+<h1>Haus der Winde</h1>
 
 <h2>1. Kapitel.</h2>
 
@@ -40,7 +21,7 @@ Vater und Tochter hatten soeben über die letzten
 Nachrichten der Zeitungen und über die Aushebung des
 Grant Gang und über den Tod Frau Gilda Gardinetts gesprochen.
 Chalya-Edith, stets nur Lya genannt, hatte gemerkt,
-dass dieses Thema ihrem übernervösen Vater, der vor
+daß dieses Thema ihrem übernervösen Vater, der vor
 einem halben Jahr seine Praxis endgültig aufgegeben,
 nicht recht zusagte.
 
@@ -104,7 +85,7 @@ litt an Nervenzuckungen und gelegentlicher Gedächtnisschwäche.
 Der Gnom mit dem runden, welken Greisengesicht
 verneigte sich.
 
-»Sehr wohl. Mr. Eysom. Ich gestatte mir, Ihnen
+»Sehr wohl, Mr. Eysom. Ich gestatte mir, Ihnen
 und Miß Lya angenehme Ruhe zu wünschen.«
 
 »Danke, gleichfalls.«
@@ -120,7 +101,7 @@ Lya flüsterte hastig: »Kommen Sie nachher noch
 zu mir, Ernest … Bestimmt!!«
 
 Zehn Minuten später lag das Haus schweigend da.
-Ueberall waren die eisernen Rollläden herabgelassen,
+Überall waren die eisernen Rollläden herabgelassen,
 Bracon hatte noch die Alarmvorrichtungen eingestellt
 und war dann in den Seitenflügel zu Lya geschlüpft.
 
@@ -177,7 +158,7 @@ Begleitern zuraunte:
 
 »Sehr«, antwortete ihm eine tiefere Stimme.
 
-»Still«, warnte eine dritte, die den schärfsten
+»Still!«, warnte eine dritte, die den schärfsten
 Klang hatte.
 
 Ein matter Lichtschein tanzte durch den großen,
@@ -185,7 +166,7 @@ vornehm ausgestatteten Raum.
 
 Doktor Fulton Eysom trat durch die Tür, die seine
 Zimmer mit diesem Saale verband, hastig ein und blieb
-nach wenigen Schritten stehen. murmelte etwas wie eine
+nach wenigen Schritten stehen, murmelte etwas wie eine
 Verwünschung vor sich hin und setzte sich dann in einen
 Sessel neben den Prunkkamin. Die Laterne stellte er
 auf einen Rauchtischchen, blendete sie ab und begann
@@ -243,7 +224,7 @@ dann verkaufte und seine Festung »Grüner Hügel« bezog
 und sich dann von aller Welt abschloß. Kaptain Morris
 von der Detektivzentrale hält ihn für den Nachfolger
 Caribans und den grünen Hügel für das Hauptquartier
-des Cariban Gang, einer an sich recht unbedeutenden
+des Cariban-Gang, einer an sich recht unbedeutenden
 Alkoholschmuggler-Bande und nur gelegentlichen Erpresserbande,
 — meinte Freund Morris. Was wir heute sahen, hat wenig
 zu bedeuten, abgesehen von der Zusammenkunft auf dem
@@ -350,7 +331,7 @@ sein … Kein Mensch rast über eine Brücke, die man zersägt
 hat!«
 
 »Brüche — — Brücke«, nickte Harst und nahm Eysom
-in die Arme. »Glaubten Sie etwa, daß der Doktor die
+in die Arme. »Glaubten Sie etwa, daß *der Doktor* die
 Zusammenkunft auf dem See hatte?! Es gibt eben zwei
 Eysoms auf dem Grünen Hügel, einen echten und einen
 künstlich gebuckelten … Immerhin: Wir erhalten so Zutritt
@@ -399,7 +380,7 @@ etwas unendlich Müdes, Gleichgültiges und Geistesabwesendes.
 Ohne viel zu fragen ließ er uns ein, schloß das Tor
 wieder ab und schlurfte in sein Häuschen zurück.
 
-’Ich werde den Hausmeister anrufen«, hatte er
+»Ich werde den Hausmeister anrufen«, hatte er
 nur gesagt. »Bracon hat in seinem Zimmer Telephon.
 Mr. Eysom verließ den Park um Mitternacht, Kaptain
 Hutter.« Selbst Charly Greap-Hutter Ausweis als Spezialkommissar
@@ -461,7 +442,7 @@ und  ich wollte meinen Kollegen Doktor Rix herbeiholen.
 Der Fernsprecher war nämlich in Unordnung, es meldete
 sich weder das Amt noch hörte ich die üblichen Leitungsgeräusche.
 Es blieb mir nichts anderes übrig, als nach der Stadt
-zu fahren. — Brance, wie geht es Walk?’
+zu fahren. — Brance, wie geht es Walk?«
 
 Der winzige Hausmeister erwiderte mit einer Gefühlsroheit
 ohne gleichen: »Er ist endlich tot, Mr. Eysom. Er liegt
@@ -470,18 +451,19 @@ Hemd. Ich sah es erst vorhin.«
 
 Eysom richtete sich mit einem Ruck auf.
 
-»Tot! Das ist unmöglich! Er hatte nur 39 Grad
+»Tot?! Das ist unmöglich! Er hatte nur 39 Grad
 Fieber, und die Krise konnte allerhöchstens morgen
 eintreten. Ich will zu ihm.«
 
 In demselben Moment erschien Wilkiens in dem weiten,
 frostigen Raum. Sergeant Wilkiens hatte auf eigene
 Faust einige Untersuchungen vorgenommen. Er hörte noch
-Eysoms Worte und sagte schroff und bissig: »Die Krise
-ist durch eine Kugel beschleunigt worden. Godin Walk
-ist vom Garten aus erschossen worden. Und das Telephon
-funktioniert auch nicht, Kaptain. Ich wollte Verstärkung
-herbeirufen. Ueberhaupt, es ist hier sehr vieles höchst
+Eysoms Worte und sagte schroff und bissig:
+
+»Die Krise ist durch eine Kugel beschleunigt worden.
+Godin Walk ist vom Garten aus erschossen worden. Und das
+Telephon funktioniert auch nicht, Kaptain. Ich wollte
+Verstärkung herbeirufen. Überhaupt, es ist hier sehr vieles höchst
 seltsam.«
 
 Fulton Eysom sprang auf die Füße, obwohl seine
@@ -510,7 +492,7 @@ auf die Straße gesetzt hätten, obwohl er doch als entlassener
 Zuchthäusler nirgends Arbeit gefunden hätte. Sie hatten
 dauernd Streit mit ihm, und erst diese Ihre Hartherzigkeit,
 die lediglich persönlicher Voreingenommenheit entsprang,
-öffnete mir über Ihren Charakter so etwas die Augen.’
+öffnete mir über Ihren Charakter so etwas die Augen.«
 
 Er stand aufrecht, von Chalya gestützt. Er schwankte
 leicht, aber er riß sich zusammen und fügte nach kurzer
@@ -536,7 +518,7 @@ für zehntausend Dollar auf derartige Dinge mich einlassen!!
 Das ist … albern!« Er zitterte vor Erregung. »Habe
 ich mich deshalb hier in die Einsamkeit vergraben,
 um abermals erleben zu müssen, daß die Menschen die
-undankbarsten Teufel sind!!! Habe ich Sie, Bracon.
+undankbarsten Teufel sind!! Habe ich Sie, Bracon.
 Deshalb von der Straße aufgelesen, daß sie nun dieses
 friedliche Haus … entweihen?!«
 
@@ -558,7 +540,7 @@ das eine: Bracon hatte Eysoms schnelle kleine Jacht
 benutzt und uns so des letzten Mittels beraubt, rasch
 nach Chicago einen Boten senden zu können, der noch
 einige von Greaps Leuten sowie Handwerker herbeirief,
-damit die Brücke, der einzige Uebergang über die Schlucht
+damit die Brücke, der einzige Übergang über die Schlucht
 repariert würde.
 
 In dem Zimmer des Dieners Godin Walk (die Tür
@@ -573,7 +555,7 @@ beginnen die Lügen?! Ich persönlich traue Eysom nicht.
 Ich kann mir nicht helfen, — ich habe hier in diesem
 Hause ein scheußliches Gefühl der Unsicherheit. Merkten
 Sie, wie modrig es im Speisesaal riecht?! Ohne die
-Ventilatoren wäre es dort nicht zum Aushalten. Ueberhaupt
+Ventilatoren wäre es dort nicht zum Aushalten. Überhaupt
 …« — aber den Satz beendete er nicht und schaute Harst
 nur fragend an.
 
@@ -582,7 +564,7 @@ bestellten Nachttisch, hatte einen kleinen Spiegel
 von der Platte genommenen und prüfte sorgfältig seine
 durch den Regen in Unordnung geratene Maske.
 
-»Mit diesem »Ueberhaupt« wollten Sie wohl auf
+»Mit diesem »Überhaupt« wollten Sie wohl auf
 Miß Lya zu sprechen kommen …« Er legte den Spiegel
 weg und griff nach einem Fieberthermometer, das in
 einer Nickelhülle steckte. »Ein Mädchen dieses Formats
@@ -718,7 +700,7 @@ gequält, als das Licht im Zimmer und im Flur erlosch
 …
 
 »Licht!!«, schrie Greap … »Licht, — — hinwerfen
-—- Vorsicht!«
+— Vorsicht!«
 
 Poltern folgte … Ich stieß auf dem Fußboden mit
 dem Topf gegen ein menschliches Bein, erhielt einen
@@ -730,7 +712,7 @@ ebenso Frau Doris Eysom. Als Wilkiens die Schulter
 gegen die verschlossene Tür stemmte, ertönte abermals
 die schrille, helle Stimme aus dem blechernen Lautsprecher:
 
-<p class='centered'>’Warten Sie fünf Minuten, genau fünf Minuten,
+<p class='centered'>»Warten Sie fünf Minuten, genau fünf Minuten,
 und verhalten Sie sich still!«</p>
 
 Der Ventilator pfiff mit höchster Tourenzahl seine
@@ -764,7 +746,6 @@ wohl nie so recht glücklich gewesen, der große Altersunterschied
 sowie die ausgesprochen schöngeistigen Neigungen der
 Frau Doris hatten mit dazu beigetragen, Frau Eysom
 zu einer Trennung von
-
 ihrem Gatten zu veranlassen. Um die noch nicht
 volljährige Thalya-Edith war dabei ein heiser Kampf
 entbrannt, schließlich einigten sich die Parteien dahin,
@@ -774,7 +755,6 @@ der Mutter zurückkehren sollte, die in der Michigan-Avenue
 als Tochter und Erbin eines der reichsten Männer Chicagos
 einen Stadtbekannten Palast bewohnte. — Dieses halbe
 Jahr, so erwähnte Charly Greap
-
 während der fünf Minuten Wartezeit, wäre morgen
 abgelaufen gewesen.
 
@@ -791,7 +771,7 @@ Finsternis und Licht scharf zerteilte.
 
 Wilkiens sog an einer Zigarre. »Was da vorfiel.
 — nun ja, zunächst gar nichts. Vater und Tochter saßen
-wie die Oelgötzen auf dem Ledersofa, und ich ging auf
+wie die Ölgötzen auf dem Ledersofa, und ich ging auf
 und ab und versuchte eine Unterhaltung in Fluß zu bringen.
 Es glückte mir dies sehr mäßig. Lyachen und Papachen
 waren entschieden verstimmt, milde gesagt. Dann glaubte
@@ -809,7 +789,7 @@ auf dem Schädel auf dem Teppich, Lya war weg, ein Fenster
 offen und dann kam die Dreiklanghupe und Frau Doris,
 die ihr Kind abholen wollte, und — — der Rest?! Nun,
 wir sind hier eingesperrt, und es ist das eine Riesenblamage
-für die Hutter-Elite. schätze ich …«
+für die Hutter-Elite, schätze ich …«
 
 Wilkiens brummte noch einen höchst anstößigen
 Fluch mit seinem Originalbaß und fügte hinzu: »Keinen
@@ -897,7 +877,7 @@ die vielsagenden Worte:
 heim!«
 
 Wilkiens, zuweilen übertemperamentvoll, brüllte
-wütend: »Zum Henker, wir tun, was wir wollen!! Verstanden!!«
+wütend: »Zum Henker, wir tun, was *wir* wollen!! Verstanden!!«
 
 Aus dem Kasten ertönte ein häßliches Gelächter.
 
@@ -914,7 +894,6 @@ diese Bevormundung durch diesen jämmerlichen Lautsprecher
 mit Recht als persönliche Demütigung.
 
 »Ich werde mit Ihnen abrechnen!«, schrie er ergrimmt.
-
 »Wir werden …«
 
 »Sie sind ein großer Narr!!« — und dann noch dieselbe
@@ -923,7 +902,7 @@ höllische Lache, und ein scharfes Knacken.
 Harst hob warnend die Hand. Auf Zehenspitzen schlich
 er zu dem Schranke, reckte sich hoch und legte das
 Ohr auf die Vorderseite des Kastens, die zwischen den
-Malereien breite gewundene Oeffnungen hatte, die hinten
+Malereien breite gewundene Öffnungen hatte, die hinten
 mit schwarzer Gaze bespannt waren. Er horchte eine
 geraume Weile und sagte dann sichtlich aufatmend:
 
@@ -951,7 +930,7 @@ In kurzem hatten wir festgestellt, daß eine recht
 primitive  Holztür durch den Teppich verborgen werden
 konnte. Sie führte in ein Nebengemach, eine Art Rumpelkammer,
 die außer einem breiten Kleiderschrank ohne Rückwand
-lediglich Koffer, Kisten und Preßkohlen und Aehnliches
+lediglich Koffer, Kisten und Preßkohlen und Ähnliches
 enthielt. Der Schrank stand so, daß er die Tür über
 dem Bett verdeckte.
 
@@ -1019,7 +998,7 @@ nicht so leicht beeinflussen. Er hob die tadellos gepflegten
 Hände zu einer sehr eindrucksvollen flehenden Geste.
 
 »Gehen Sie meine Herren …! Sie ahnen nicht, was
-Sie alles wagen!!! Kommen Sie meinetwegen …« — und
+Sie alles wagen!! Kommen Sie meinetwegen …« — und
 wieder verstummte er, warf sich auf das Sofa zurück
 und wühlte den Kopf in die Kissen und preßte die Hände
 gegen die Ohren.
@@ -1038,7 +1017,7 @@ in unseren Wagen, Wilkiens raste davon dem Tore zu,
 es stand weit offen, daneben lehnte an einem Baum die
 Jammergestalt des hakennasigen Iwan Orlig in einem
 triefenden Mantel, es regnete noch immer, die Privatstraße
-war voller Pfützen,die Scheinwerfer blinkten in großen
+war voller Pfützen, die Scheinwerfer blinkten in großen
 Wasserlachen, dann tauchte wie vorhin das weiße Brückengeländer
 auf. Wilkiens stoppte, Harst schwang sich auf den Weg,
 lief zur Brücke, beleuchtete die Bohlen, kam zurück.
@@ -1088,7 +1067,7 @@ Roxy Weylt starrte den Chef entgeistert an.
 
 »Was geschah denn eigentlich?!«
 
-An stelle Greaps erwiderte Harst:
+An Stelle Greaps erwiderte Harst:
 
 »Es wäre beinahe etwas geschehen — beinahe! Man
 redete da von einem halben Zentner Dynamit, Frau Roxy,
@@ -1151,7 +1130,7 @@ erledigt.«
 Eine Stille andächtige Versammlung lauschte Wilkiens
 klarer Schilderung der unerfreulichen Begebnisse.
 
-»… Das diese verfl … Ventilatoren bei alledem
+»… Daß diese verfl… Ventilatoren bei alledem
 eine Haupttrolle spielten, wird mir so allmählich erst
 bewußt«, schloß Wilkiens und griff nach einer Zigarre.
 »Aber alles übrige: Schleierhaft!! Ein toller, unglaublicher
@@ -1192,17 +1171,14 @@ Tempo … Tempo …
 Dollar jagen, Dollar raffen, — — — Arbeit, Genußsucht,
 Verbrechen, Faulheit, Laster: Die gigantische Sinfonie
 der Michigan-Metropole erklingt nachts in zartem Piano
-…
-
-Aber sie klingt … trotz Regen, Sturm, Unwetter
-…
+… Aber sie klingt … trotz Regen, Sturm, Unwetter …
 
 Tempo … Tempo …
 
 Eiserne Nerven, — — wer nicht mithalten kann,
 verreckt am Wege …
 
-Und der Weg soll aufwärts führen. Jeder will empor.
+Und der Weg *soll* aufwärts führen. Jeder will empor.
 Und wenn’s nicht auf ehrliche Art glückt, versuchts
 auf die andere.
 
@@ -1299,7 +1275,7 @@ Ich zweifele keinen Augenblick daran, daß die Drohung
 mit dem Dynamit zutrifft. Immerhin haben wir einen
 Erfolg zu buchen: Wir kennen die Gefahr, und das ist
 schon sehr viel wert. Ich werde jetzt meine Haut zu
-Markte tragen, Harst. Sie nicht. Houston und Wilkiens
+Markte tragen, Harst. *Sie* nicht. Houston und Wilkiens
 begleiten mich.«
 
 »Und wir!«, erklärt Harst sehr bestimmt. »Ihre
@@ -1348,7 +1324,7 @@ Woher kennt Doris Eysom-Nariba ihn?!
 
 Prüft man all dies — und es sind ja nur Stichworte,
 die mir durch das grübelnde Hirn wehen und die keine
-Spur hinterlassen -, so wird das Geheimnis zum Chaos.
+Spur hinterlassen —, so wird das Geheimnis zum Chaos.
 
 Harst betastet und beleuchtet die Kellerfenstergitter.
 — Gewiß, wir hätten es bequemer gehabt, das Fenster
@@ -1395,7 +1371,7 @@ zu durchsuchen, die Zwischenwände auszumessen und nach
 geheimen Verstecken zu spüren.
 
 Schließlich enden wir im Heizungskeller. Das Haus
-hat Zentralheizung, nebenbei noch Oefen. Zum Beispiel
+hat Zentralheizung, nebenbei noch Öfen. Zum Beispiel
 der große Kamin im Speisesaal, ein sehr protziges Ding
 aus Marmor und bunten Kacheln und Kupferverzierungen.
 Dieser Kamin hat mir nie gefallen. Kamine sind ja beliebte
@@ -1457,7 +1433,7 @@ Schutthaufen geworden.«
 
 Greap flucht wenig gesellschaftsfähig.
 
-»Bande — — verfl … Bande!!«
+»Bande — — verfl… Bande!!«
 
 Harst lacht leise.
 
@@ -1484,7 +1460,7 @@ Manne, einem Kaufmann …«
 
 Jetzt ist auch Greap im Bilde. »Ja, einem harmlosen,
 fleißigen Menschen, der irgendwo Buchhalter ist. Simpson
-heißt er, Fred Simpson …
+heißt er, Fred Simpson …«
 
 »Und wann?«
 
@@ -1497,8 +1473,8 @@ Diesen Simpson müssen wir uns genauer ansehen. — Im
 der Antenne wertlos geworden. Diese Antenne war außerordentlich
 sauber angebracht. Sie war darauf berechnet, guten
 Empfang für die Relais und die übrigen Apparaturen
-zu gewährleisten. — Es gab mal in München«. fügte er
-sinnend hinzu, » einen genialen Gauner, der ebenfalls
+zu gewährleisten. — Es gab mal in München«, fügte er
+sinnend hinzu, »einen genialen Gauner, der ebenfalls
 mit »Fernlenkung« arbeitete. Er hatte sich das Panzerschiff
 Zähringen zum Muster genommen, die große schwimmende
 Scheibe für die deutsche Marine. Die »Zähringen« wird
@@ -1549,7 +1525,7 @@ bleibt nichts verborgen.
 
 Es gibt da ganz bestimmte Methoden, nach denen
 gearbeitet wird. Mögen Geheimtüren noch so schlau hergestellt
-sein, mögen Geheimfächer genial angelegt sein, — -
+sein, mögen Geheimfächer genial angelegt sein, — —
 die Praxis der Elite fand stets alles. Doch hier war
 außer Dingen, die mit zu dem Laboratorium oder besser
 mit zu dem Senderaum gehörten, nichts zu entdecken,
@@ -1619,7 +1595,7 @@ man hatte dünne geteerte Stricke benutzt, und Eysoms
 schmerzverzerrtes Gesicht war keine Komödie: Die Stricke
 hatten ihm die Handgelenke zerschnitten. Blutpfützen
 lagen auf dem Boden des Bootes, und der Mann war so
-schachmatt, dass er nicht einmal stehen konnte.
+schachmatt, daß er nicht einmal stehen konnte.
 
 »Ich danke Ihnen …«, stammelte er heiser.
 
@@ -1649,10 +1625,10 @@ Eysom hob schwerfällig den Kopf.
 Er blickte Harst offen an.
 
 »Nein, ich weiß es nicht … Aber — — ich habe Angst,
-das weiß ich. Ich fürchte den Tod nicht, doch den Tod,
+das weiß ich. Ich fürchte den Tod nicht, doch *den* Tod,
 den mir die Schufte verhießen, falls ich etwas ausplaudern
 sollte, den fürchte ich … Verbrennen wollen Sie mich
-bei      lebendigem Leibe … Jetzt schon! Vorhin … Sie
+bei lebendigem Leibe … Jetzt schon! Vorhin … Sie
 müssen gestört worden sein …
 
 Harst bückte sich und betrachtete die Dielen des
@@ -1667,7 +1643,7 @@ schützen … Wir tragen Sie  ins Haus …«
 Eysom zitterte.
 
 »Um Gotteswillen, nur das nicht, — betreten Sie
-nicht das Haus! Es liegt in die Luft.«
+nicht das Haus! Es fliegt in die Luft.«
 
 Seine Augen waren weit aufgerissen, und seine
 Zähne klapperten aneinander wie helle Kastagnetten.
@@ -1697,8 +1673,8 @@ wird Sie ermuntern. — Sie kennen also das Laboratorium
 im Heizkeller?«
 
 Eysom starrte ihn groß an. »Was — — wie?! Laboratorium?
-Was,reden Sie da?! Elektrische Einrichtungen — ja,
-die kenne ich: Die verfl … Ventilatoren, die mit ihrem
+Was reden Sie da?! Elektrische Einrichtungen — ja,
+die kenne ich: Die verfl… Ventilatoren, die mit ihrem
 Gesäusel Morsezeichen geben, dann die Lautsprecher
 und Mikrophone, dann die Fernseher, die in die Deckenlampen
 überall eingebaut sind, — — ein Haus elektrischer Spionage,
@@ -1757,7 +1733,7 @@ ersten Male …«
 Er rang nach Luft.
 
 »Oh — ich war wie vor den Kopf geschlagen, — ich
-bin im Grunde kein Feigling, aber das war zu viel!
+bin im Grunde kein Feigling, aber *das* war zu viel!
 Die Stimme befahl mir, die Antenne unberührt zu lassen,
 sonst würde ich schneller ins Jenseits fahren als mir
 lieb …«
@@ -1779,7 +1755,7 @@ nicht normal, und …«
 Wir halfen Eysom die Stufen der Terrasse empor.
 Aus der Verandatür trat Charly Greap.
 
-’Wie — ihr habt ihn gefunden’«
+»Wie — ihr habt ihn gefunden?!«
 
 Die Morgendämmerung hatte jene fahle Färbung angenommen,
 die alles in ein gespenstisches Licht taucht.
@@ -1810,7 +1786,7 @@ Arten waren vorhanden, Orchideen von wunderbarer Färbung
 Eysom ließ sich in einen Korbsessel fallen.
 
 »Ich muß mich … erholen … Also Bracon — — auch
-tot?!’ Wie mein armer Bruder — — auch tot …« Er war
+tot?! Wie mein armer Bruder — — auch tot …« Er war
 vollkommen verstört. »Auch tot … Auch Bracon, und er
 … hat mich hintergangen, der Undankbare …!« Er sprach
 mehr zu sich selbst. Er war völlig abwesend. »Natürlich
@@ -1901,10 +1877,10 @@ gelebt haben. Das Gefühl, ständig von einem Fremden
 belauscht oder beobachtet zu werden, hätte mich verrückt
 gemacht. Wußte eigentlich Ihre Tochter etwas von alledem?«
 
-»Ich fürchte, Kaptain,…« Eysom betrachtete weiter
+»Ich fürchte, Kaptain …« Eysom betrachtete weiter
 die Fleischfressende Pflanze, und ich gewann dabei
 den Eindruck, daß er sich freute, wenn eine der Fliegen
-in die Blütenfalle hinabrutschte. Aerzte sind ja im
+in die Blütenfalle hinabrutschte. Ärzte sind ja im
 allgemeinen stark abgestumpft, was fremdes Leid oder
 schmerzen der Tiere betrifft. Trotzdem nahm mich Eysoms
 Interesse für die Fliegenfalle etwas gegen ihn ein.
@@ -1915,7 +1891,7 @@ Zug um den Mund. »Eine letzte Frage«, wandte er sich
 erneut an Eysom. »Die Leiche Ihres Bruders liegt in
 der Rumpelkammer neben dem Totenzimmer in einem Koffer.
 Wußte Ihre Tochter, daß James Eysom hier weilte, wußte
-sie, daß »Godin Walk« ihr Onkel war?’
+sie, daß »Godin Walk« ihr Onkel war?«
 
 Fulton Eysoms müde Augen trafen sich mit Greaps
 grau blauen, beherrschten und recht blanken Augen.
@@ -1951,7 +1927,7 @@ hier noch Chicago, — also vor etwa zwanzig Jahren …«
 
 »Nein … Wir hatten uns entfremdet.«
 
-»Weshalb?’
+»Weshalb?«
 
 Eysom zuckte die Achseln.
 
@@ -2030,14 +2006,14 @@ Eigentlich könnten Sie und noch Kaffee aufbrühen. Frau
 Roxy, Doktor Eysom war kein mustergültiger Hausherr,
 durchaus nicht. Er bot uns gar keine Erfrischung an.
 Vielleicht wird er sich deshalb jetzt Gedanken machen
-und schwer einschlafen — - ich fürchte fast.«
+und schwer einschlafen — ich fürchte fast.«
 
 So nach und nach trafen alle unsere Leute ein.
 Der Grüne Hügel wurde von der Zentrale aus bewacht.
 Weylt half seinem Frauchen in der Küche, und wir anderen
 saßen an dem langen Tisch und berietet.
 
-Greap gab zunächst einen Ueberblick über die Geschehnisse.
+Greap gab zunächst einen Überblick über die Geschehnisse.
 
 »… Ich glaube, zumindest Harst und ich sind uns
 über Eysoms Persönlichkeit einig«, schloß er den übersichtlichen
@@ -2076,11 +2052,11 @@ kehrte blindlings ins Zuchthaus zurück, er säße noch
 dort, wenn er nicht infolge seiner für die Zuchthausverwaltung
 wertvollen Erfindung begnadigt worden wäre. Sein Gedächtnis
 für die zwei Jahre Sklavenarbeit im Grünen Hügel war
-tot, aber nicht der Haß gegen den älteren Bruder,der
+tot, aber nicht der Haß gegen den älteren Bruder, der
 ihn wahrscheinlich auch zum Verbrecher werden ließ,
 um den Nebenbuhler zu beseitigen. Vielleicht hat Doris
 Nariba James anfänglich ihre Liebe zugewandt, wahrscheinlich
-dürfte Fulton Eysom, der Aeltere, schon damals ein
+dürfte Fulton Eysom, der Ältere, schon damals ein
 Teufel in Menschengestalt gewesen sein. Und jetzt hat
 Fulton und der Gangster Mutter und Tochter verschwinden
 lassen … — Vermutungen all das, — — aber Beweise?«
@@ -2100,7 +2076,7 @@ hervorzog und sie spielend zwischen den Fingern drehte.
 »Einen Beweis haben wir …«, sagte er zu Charly
 Greap und nahm das Fieberthermometer aus der Hülse,
 »Bitte — besehen Sie sich das Ding genau, lieber Greap.
-Mit dem Thermometer läst sich nicht einmal die Niedertracht
+Mit dem Thermometer läßt sich nicht einmal die Niedertracht
 Fulton Eysoms messen, und die ist doch wahrlich stark
 genug, um das harmloseste Gemüt erhitzen zu können.«
 
@@ -2131,7 +2107,7 @@ Schwindel, alles …«
 
 Ein hörbares Aufatmen ging durch die Versammlung.
 
-»Hängen muß der Schuft!’«, rief Wilkiens rachsüchtig.
+»Hängen muß der Schuft!«, rief Wilkiens rachsüchtig.
 
 »Wird er auch vielleicht«, bestätigte Harst sehr
 ernst. »Falls er nicht Gelegenheit hat, sich dem irdischen
@@ -2160,7 +2136,7 @@ Aktenstück.
 Als er es vor Greap hinlegte, las ich auf dem
 Deckel:
 
-<p class='centered'>Joe Cariban.</p>
+<p class='centered em'>Joe Cariban.</p>
 
 Houston blätterte in dem Aktenstück, tippte nun
 auf eine bestimmte Seite und sagte stolz:
@@ -2173,7 +2149,7 @@ Greap beugte sich über das Blatt und las:
 
 Was er las, trieb ihm das Blut bis zur Stirn.
 
-»Sollte es möglich sein?!«. rief er atemlos. »Houston,
+»Sollte es möglich sein?!« rief er atemlos. »Houston,
 falls Sie recht haben, werden sie Sergeant — — sofort!!«
 
 Dann las Charly Greap auch uns den Inhalt des
@@ -2189,7 +2165,7 @@ nannten.
 
 »Ruhe!!«, gebot Greap.
 
-Er war ruhig.
+*Er* war ruhig.
 
 »Wilkiens, Houston, Smith und Gordon fahren sofort
 zum Grünen Hügel und bleiben bei Fulton Eysom im Zimmer.
@@ -2197,7 +2173,7 @@ Wir anderen — nun, unser Ziel ist bekannt!«
 
 »Immerhin können wir noch Kaffee trinken«, meinte
 Harst fast gemütlich. »Zumal der Kaffee gut ist … Und
-dann noch eins, Greap: Wie hieß doch Frau Doris Vater?«
+dann noch eins, Greap: Wie hieß doch Frau Doris’ Vater?«
 
 »Emanuele Carlo Nariba«, erwiderte Greap erstaunt.
 »Was soll das, Harst?!«
@@ -2207,7 +2183,7 @@ nachdem Baby eine Riesensumme gestiftet hat. Vielleicht
 seid ihr mal so freundlich und vergleicht den Namen
 Carlo Nariba mit Cariban. Ich glaube, man braucht das
 C von Carlo nur dem »Nariba« hinzuzufügen und diesen
-Teig etwas umzurühren, dann erhält man Cariban. sollte
+Teig etwas umzurühren, dann erhält man Cariban. Sollte
 das ein Zufall sein? Weiß jemand, ob die Millionärin
 einen Sohn besaß?«
 
@@ -2224,10 +2200,10 @@ war.
 
 Dies lag bereits zwanzig Jahre zurück.
 
-Jim Nariba-Eysom (seine Mutter war eine Schwester
+*Jim* Nariba-Eysom (seine Mutter war eine Schwester
 Fulton Eysoms gewesen) mußte heute zweiundvierzig sein.
 
-Jim Nariba-Eysom war kein anderer als der geisteskranke
+*Jim* Nariba-Eysom war kein anderer als der geisteskranke
 Gangster Jim Cariban!!
 
 <h2>7. Kapitel.</h2>
@@ -2259,7 +2235,7 @@ Greap meldete sich. Als er eine Weile der fernen
 Stimme des Bürgermeisters gelauscht hatte, überzog
 sich sein Gesicht mit dunkler Röte.
 
-»Ich werde mir alle Mühe geben«. sagte er dann
+»Ich werde mir alle Mühe geben«, sagte er dann
 merklich gereizt und hängte ab. Er nahm wieder zwischen
 uns Platz und starrte so finster vor sich hin wie wir
 es bisher bei ihm kaum beobachtet hatten. Schließlich
@@ -2287,7 +2263,7 @@ Aufpulverung der überreizten Nerven unseres Freundes,
 der uns in diesen letzten Wochen lieb und wert geworden.
 »Lassen Sie das, Charly … Das ist nicht Kaffee, das
 ist Mokka, den Frau Roxy in bester Absicht da aufgebrüht
-hat. Und dann — keine Uebereilung, Greap! Sie wollen
+hat. Und dann — keine Übereilung, Greap! Sie wollen
 jetzt sofort das sogenannte Genesungsheim Charitas
 aufsuchen, weil in den Akten Cariban der Vermerk steht,
 daß es sich um eine Privatanstalt unter staatlicher
@@ -2352,7 +2328,7 @@ erklärt. Diese Einzelheiten brauche ich nur anzudeuten.
 Im Untersuchungsgefängnis hatte der Gangster einen
 Selbstmordversuch unternommen., indem er mit dem Kopf
 gegen die Zellenwand rannte. Die Schädelverletzung
-erforderte eine Operation, und Doktor Eysom, der Onkel
+erforderte eine Operation, und Doktor Eysom, der *Onkel*
 Caribans — was niemand außer Carlo Nariba ahnte, flickte
 den Kranken als Spezialist für Gehirnoperation wieder
 zurecht. Hinterher entstand das bewußte Gerücht, Fulton
@@ -2361,7 +2337,7 @@ Bei Durchsicht der Akten stieß mir sofort auf, daß
 der irrsinnige Schwerverbrecher ausgerechnet im Charitas-Heim
 untergebracht wurde und nicht in einer staatlichen
 Anstalt. Dies mußte irgendwie eine besondere Bewandtnis
-haben. Da ich schon vorgestern die seltsame Aehnlichkeit
+haben. Da ich schon vorgestern die seltsame Ähnlichkeit
 der Namen Cariban und Carlo Nariba herausgefunden hatte,
 trat ich dem verschwiegenen Anwalt gegenüber so bestimmt
 auf, daß er sich wirklich bluffen ließ und die Stiftung
@@ -2400,7 +2376,7 @@ ganz Amerika verzweigten Netz von Filialen und verfügen
 die vieler Polizeidirektionen. Die Mutter Jim Cariban-Eysoms
 hieß …« — Harst hatte die Stimme etwas gehoben — »…
 hieß Ethel Eysom und starb ein Jahr nach der Geburt
-des Kindes im Irrenhaus —- genau wie ihr Vater, — beachten
+des Kindes im Irrenhaus — genau wie ihr Vater, — beachten
 Sie dies, Greap: Genau wie ihr Vater! Der Wahnsinn
 war in der Familie Eysom erblich, und auch Jim Cariban
 und sein Oheim Fulton Eysom sind von jeher geistig
@@ -2423,11 +2399,11 @@ als der Polizeibehörde.
 
 Greap reichte Harst mit leuchtendem Blick die
 Rechte. »Sie haben uns alle geschlagen, lieber Freund,
-und …’ — sein Ton wurde noch wärmer — »… und offenbar
+und …« — sein Ton wurde noch wärmer — »… und offenbar
 haben Sie sich auch bei den bisherigen Fällen, die
 wir glücklich erledigten, stets allzu bescheiden zurückgehalten.
-Wir sind nur Schüler, — Sie sind der Lehrer! — Treffen
-Sie jetzt die Anordnungen, die Sie für richtig halten.«
+Wir sind nur Schüler, — *Sie* sind der Lehrer! — Treffen
+*Sie* jetzt die Anordnungen, die Sie für richtig halten.«
 
 »Wenn Sie es wünschen, Charly … Gut denn. Zunächst
 mögen Weylt, Smith und Granon sofort mit dem kleinen
@@ -2471,7 +2447,7 @@ Nariba zum Grünen Hügel schleppen zu lassen, wo damals
 noch der wenig ehrenwerte Detektivinspektor a. D. Pranasson
 hauste. Vergleichen Sie das Bild hier genau mit den
 Gesichtszügen Orligs, und auch Sie werden trotz der
-»Schönheitskorrekturen« eine Aehnlichkeit herausfinden.«
+»Schönheitskorrekturen« eine Ähnlichkeit herausfinden.«
 
 »Bei Gott!«, murmelte Greap entsetzt, und dann
 wanderte das Bild von Hand zu Hand. Weitere ähnliche
@@ -2528,7 +2504,7 @@ es sei eine Skizze des Grünen Hügel, des unheimlichen
 nicht mehr der jüngste, mein Alter, und das, was uns
 noch bevorsteht, wird keine Kaninchenjagd werden.«
 
-»Ist es das Heim’«, fragte ich, jetzt völlig munter.
+»Ist es das Heim?«, fragte ich, jetzt völlig munter.
 
 »Allerdings … — Wenn es nur gehörig gießen und
 gewittern möchte!! Ich fürchte, das Personal dieser
@@ -2584,7 +2560,7 @@ oder verlassen hätte.
 Es war jetzt neun Uhr vormittags, — das Gewitter
 tobte in nächster Nähe, ein unheimliches Halbdunkel
 herrschte, und die aufflammenden Blitze zeigten mir
- Teile des Gebäudes mit vergitterten großen Fenstern.
+Teile des Gebäudes mit vergitterten großen Fenstern.
 
 »Die Leitern her!«, befahl Greap etwas allzu hastig.
 »Sie kennen Ihre Instruktionen, Inspektor … sobald
@@ -2628,13 +2604,13 @@ Die dunklen Augen des Direktors wurden klein.
 Doktor Brack erbleichte.
 
 Im selben Augenblick erschien hinter ihm in der
-erleuchtteten Vorhalle ein anderer Mann, ein hagerer,
+erleuchteten Vorhalle ein anderer Mann, ein hagerer,
 leichenhafter Mensch in einem gestreiften Krankenkittel.
 
 Eine gellende Lache stieß dieser gräßliche Mensch
 aus, in dessen wilden Blicken der Wahnsinn irrlichterte.
 
-»AH — — Hutter!!«, rief er schrill und heiser.
+»Ah — — Hutter!!«, rief er schrill und heiser.
 »Der berühmte Hutter …!!«
 
 Es war die Stimme, die wir aus dem Lautsprecher
@@ -2682,7 +2658,7 @@ rauchte in aller Gemütsruhe eine Zigarre.
 Harst ging auf ihn zu. »Doktor Eysom, Ihr Neffe
 Jim ist tot … Wo sind Frau Doris und Lya?«
 
-Fulton Eysom schmunzelte. »So … so — tot …! schadet
+Fulton Eysom schmunzelte. »So … so — tot …! Schadet
 nichts«, meinte er vergnügt. »Jim war ein sehr unbequemer
 Gebieter. Die gestatten wohl, daß ich in das Gewächshaus
 gehe und einen Kranz aus Lilien flechte. Er hat Lilien
@@ -2706,7 +2682,7 @@ Was wir in der Tiefe entdeckten, war die Bestätigung
 für Harsts Annahme: Die Felsgrotte zog sich bis zum
 Bache hin, — zwei bleiche, verstörte Frauen fuhren
 später heim in den prunkvollen Nariba-Palast in der
-Michigan-Avenue, —
+Michigan-Avenue. —
 
 Charly Greaps Beerdigung fand in aller Stille
 statt. Chicago ahnte nicht, daß der vielgenannte Kaptain
@@ -2717,7 +2693,7 @@ des Stadtoberhauptes. Es waren trübe Tage damals für
 die Elite. Die Trauer um Greap war ehrlich und tief
 und ohne viele Worte. Daß im Nariba-Palast nun der
 wiedererstandene Carlo Nariba von Tochter und Enkelin
-und Aerzten vielleicht langsam gesund gepflegt werden
+und Ärzten vielleicht langsam gesund gepflegt werden
 würde, war für das Hauptquartier ein geringer Trost.
 Aber die ruhelose Emsigkeit der Unterwelt der großen,
 schönen Michigan-Stadt sorgte dafür, daß der neue Chef
@@ -2727,5 +2703,5 @@ Der Fall »Die blaue Tänzerin« war der erste, an
 dem mein Freund als alleiniger Chef des Sonderdezernats
 der Gangster-Jäger seine Fähigkeiten erproben konnte.
 
-Nächster Band:   Die blaue Tänzerin.
+Nächster Band: *Die blaue Tänzerin.*
 

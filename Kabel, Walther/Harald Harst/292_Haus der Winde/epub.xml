@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">7d33a59a-c9eb-4c1f-8841-f53e3f78d4ba</entry>
+<entry key="title">Haus der Winde</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">292</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Haus der Winde
+
+Doktor Fulton Eysom war trotz seiner leichten Rückgratverkrümmung und trotz des bleichen, kränklichen Gesichts immer noch ein stattlicher Mann. An einem heißen Juniabend, an dem die Sonne in dichtem Dunst untergegangen war, saß der einst vielgesuchte Arzt mit seinem einzigen Kinde Chalya-Edith in der Veranda seines Landhauses und beobachtete den Mondaufgang. Das große Gebäude erhob sich auf einem bewaldeten Hügel unweit des Ufers des Michigan-Sees. Nach Norden zu konnte man den bellen Schein der unzähligen Laternen und Lichtreklamen deutlich am immer düsterer werdenden Himmel erkennen.
+
+Vater und Tochter hatten soeben über die letzten Nachrichten der Zeitungen und über die Aushebung des Grant Gang und über den Tod Frau Gilda Gardinetts gesprochen. Chalya-Edith, stets nur Lya genannt, hatte gemerkt, daß dieses Thema ihrem übernervösen Vater, der vor einem halben Jahr seine Praxis endgültig aufgegeben, nicht recht zusagte.
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (292) Haus der Winde.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1931</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
