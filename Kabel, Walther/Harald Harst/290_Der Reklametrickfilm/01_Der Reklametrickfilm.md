@@ -60,13 +60,13 @@ Im letzten Augenblick überlegte er sich es anders. »Wartet
 mal …« Er betastete sie sorgfältig nach Waffen, ließ auch
 den Rucksack öffnen und wunderte sich sehr über den reichen
 Inhalt. »Verdammt — zwei gute Smokinganzüge, gute Wäsche,
-hört mal, ihr beiden, ich möchte auch doch besser mit
+hört mal, ihr beiden, ich möchte euch doch besser mit
 zur Wache nehmen …«
 
 Gerade da, als er noch die eine Hose mit den scharf gebügelten
 Falten in der Hand emporhielt, kam wie alltäglich
-der große Ford der Riß Elvira Bennington dahergerast.
-Miß Elvira fuhr stets in einem Tempo, das ihr So manche
+der große Ford der Miß Elvira Bennington dahergerast.
+Miß Elvira fuhr stets in einem Tempo, das ihr so manche
 Polizeistrafe eintrug, sie steuerte stets den Wagen selbst,
 während hinten ihre Zofe, der junge Chauffeur und ihr Wolfshund
 »Terry« es sich bequem machten. Miß Elvira hupte,
@@ -130,7 +130,7 @@ meinte der Lange und schielte den Policeman an. »Oder etwa
 Ochsen mästen oder …«
 
 <@pagebreak/>
-Elviras silbernes Lachen hatte eine Lerche neidisch machen
+Elviras silbernes Lachen hätte eine Lerche neidisch machen
 können.
 
 Der fette Uniformierte schlenderte wütend davon.
@@ -244,7 +244,7 @@ Elvira musterte sie prüfend. »Ihr seht nicht dumm aus«,
 erklärte sie lächelnd. »Wollt ihr mir blindlings gehorchen?«
 
 Der Lange blies ein paar Rauchringe. »Dann wären
-wir dumm, wenn wir eine Solche Verpflichtung eingingen,
+wir dumm, wenn wir eine solche Verpflichtung eingingen,
 Miß. Was heißt blindlings? Gemordet haben wir noch nicht,
 gestohlen ja, auch sonst haben wir — na, Schwamm drüber. —
 Was verlangen Sie und was bezahlen Sie?«
@@ -262,7 +262,7 @@ Selbstmord, Miß. Polizei?! Wir danken unserem Schöpfer,
 wenn wir …«
 
 »Halt’s Maul!«, fuhr der andere ihn an. »Warte
-doch ab … Was ist den dabei für ne Gefahr, einen Polyp
+doch ab … Was ist denn dabei für ne Gefahr, einen Polyp
 zu beobachten?! Lächerlich! Wenn ich ne anständige Straßenkluft
 und Geld hätte …«
 
@@ -540,7 +540,7 @@ Seide bespannt. — Junge, Junge, es gibt noch immer Wunder
 auf der Welt!!«
 
 Der Vagabund Harry, der seinem Kollegen vorhin die
-Taschenlampe abgenommen hatte, betrachtete er die an den
+Taschenlampe abgenommen hatte, betrachtete die an den
 Wänden hängenden obscönen Bilder.
 
 »Gerahmte Gemeinheit«, sagte er verächtlich. »Die Hunde
@@ -566,7 +566,7 @@ Der Dicke nickte nur.
 Die drei Personen standen regungslos. Elviras Atem
 kam stoßweise, sie war abermals sehr bleich geworden.
 
-Harry schob den seinen Panama ins Genick. Lautlos
+Harry schob den feinen Panama ins Genick. Lautlos
 schlich er an den Wänden entlang. Die Seide war in Falten
 gespannt, und seine schmutzigen Finger glitten über diese Falten
 hin, bis er der Tür gegenüber Halt machte und sich bückte und
@@ -702,9 +702,9 @@ von Achselschweiß, an dem er *auch* litt.
 Morris nickte. »Vielseitig — stimmt. Aber wärmer aufnehmen?!
 Ich bin ein sehr kühler Mann. Setzen Sie sich.«
 
-Unter diesen spitzen Blicken der grauen Sagen krochen
+Unter diesen spitzen Blicken der grauen Augen krochen
 Ibbars Rattenäuglein tiefer in den Kopf zurück. Ihm wurde
-unbehaglich zumute. Bisher hatte man ihm nie so zu behandeln
+unbehaglich zumute. Bisher hatte man ihn nie so zu behandeln
 gewagt, höchstens damals, als er den Antrag stellte,
 in den Michigan-Klub aufgenommen zu werden. Damals hatte
 ihn Mr. Oskar Arison, der Klubpräsident, genau so angesehen
@@ -803,7 +803,7 @@ Hand, daß Sie von sich aus Nachforschungen anstellen können.
 Meine Zeit ist äußerst knapp, gerade der heutige Straßenraub
 bereitete mir viel Scherereien, und ich möchte Sie auch nicht
 zwecklos Ihrer werten Familie entziehen …« Er drückte auf
-einen der Sechs Knöpfe auf der Tischplatte, machte eine verabschiedende
+einen der sechs Knöpfe auf der Tischplatte, machte eine verabschiedende
 Handbewegung und beugte sich nach knapper Verbeugung
 über ein Aktenstück.
 
@@ -869,9 +869,9 @@ In dieser endlosen Straße, die zu den nordwestlichen Vororten
 führte, lag zwischen modernen Hochhäusern das bescheidene
 Privathotel J. Bennett in einem winzigen Garten.
 
-Im Speisezimmer saßen gegen ein Viertels zwölf mehrere
+Im Speisezimmer saßen gegen ein Viertel zwölf mehrere
 Herren beieinander, die sich von einer flinken, blonden Schönheit
-bedienen ließen und die späte Mahlzeit durch etwas Seltsame
+bedienen ließen und die späte Mahlzeit durch etwas seltsame
 Reden würzten.
 
 Neben einem Mann von überschlankem Wuchs mit frischem
@@ -1042,7 +1042,7 @@ und wenn wir nicht allzu großes Pech haben, werden wir die
 dunkelgrüne Limousine finden.«
 
 Harst verhielt sich bei der weiteren Erörterung schweigsam,
-bis er nach einer längeren Gesprächspause Einwarf:
+bis er nach einer längeren Gesprächspause einwarf:
 
 »Elvira Bennington hatte keine Ahnung davon, daß ihr
 Mann in dem Gelaß hinter der Luxushöhle lag. Das hatten
@@ -1098,7 +1098,7 @@ er lächelte Roxy Weylt herzlich zu — »in das Sanatorium
 zu senden und sämtliche Speisen für den Kranken durch Roxy
 in demselben Zimmer zubereiten zu lassen.«
 
-Greap war sofort einverstanden. »Dann mag Welt
+Greap war sofort einverstanden. »Dann mag Weylt
 unseren Brummbär Wilkiens auch gleich ablösen, denn ein
 so junges Ehepaar zu trennen, wäre herzlos.« Worauf Roxy
 errötete und sich schnell abwandte.
@@ -1127,7 +1127,7 @@ Pepperley erschossen hätte, wirkte hier wie ein Posaunensignal.
 Unzählige Fragen bestürmten ihn. Er erwiderte mit den
 kurzen Sätzen: »Elvira Benningtons Kugel schlug in das
 Dach ein … Ich sah ein paar Fetzen Dachpappe fliegen, der
-Mörder feuerte mit einer Maxim—Windbüchse vom Ostrande
+Mörder feuerte mit einer Maxim-Windbüchse vom Ostrande
 der Schlucht aus.«
 
 »Woher wissen Sie das?«, rief Greap förmlich verstört.
@@ -1224,7 +1224,7 @@ der mit Mylady im Wagen saß, der Herr sei erst vor dem
 Detektivbüro, als die Limousine dort wartete, plötzlich eingestiegen,
 und Mylady und der Fremde seien kurz vor der Villa
 wieder ausgestiegen und hätten eine Taxe herangewinkt. Er
-gab weiter zu, daß er dem Sportflitzer haben folgen sollen.
+gab weiter zu, daß er dem Sportflitzer habe folgen sollen.
 Ihm sei nachher aufgefallen, daß Mylady sich sehr schwer beim
 Aussteigen auf ihren Begleiter stützte und kaum gehen konnte,
 Houston hat die Limousine daraufhin durchsucht und noch
@@ -1284,7 +1284,7 @@ große freie Schwung der Gedanken. Bisher hatte er stets
 an Allan Gordon, dem Prokuristen, einen äußerst verständnisvollen,
 wertvollen Helfer gehabt. Pepperley, der Idiot,
 hatte Gordon vor vierzehn Tagen an die Luft gesetzt und abgefunden,
-damit das Triumphgeschrei Mary Gordons endlich
+damit das Zeitungsgeschrei Mary Gordons endlich
 aufhöre. Jules wußte, daß Gordon eine runde halbe Million
 Schweigegeld erhalten hatte. Pepperley war eben ein Lump.
 
@@ -1427,7 +1427,7 @@ bei einem Geschäftsmann auch der Kopf gehört.«
 
 Morris hüstelte kräftig. Ihn ärgerte diese Milde offenbar.
 
-Mr. Ibbar empfand das Wohlwollen sehr deutliche, das
+Mr. Ibbar empfand das Wohlwollen sehr deutlich, das
 man ihm nunmehr hier entgegenbrachte. Er blickte Harst
 sinnend an. Und dann erzählte er von dem ersten verdächtigen
 Geräusch auf dem Balkon, von seinem Schreck, seinem Versuch,
@@ -1470,7 +1470,7 @@ noch kurz vorher im Aufnahmeraum gesehen hatte.«
 »Es gab dort also bei Pepperley einen sehr lebhaften
 Streit«, half Greap ungeduldig weiter. »Mit wem?«
 
-»Ich glaube mit dem Regisseur Joe Goud …« …
+»Ich glaube mit dem Regisseur Joe Goud …«
 
 »Ah — — Goud!!«, rief Morris. »Und Gouds Schwester
 ist auch eins von Pepperleys Opfern.«
@@ -1646,7 +1646,7 @@ und Photoapparaten zu Fuß weiter. Sie sahen Harry Harper
 und Mac O. Scall vom vorigen Vormittag wenig ähnlich,
 und doch: waren es Harry und Mac, und ihr Ausflug galt
 dem einsamen Landhäuschen des ehrgeizigen Regisseurs Joe
-Goud. Nach einiger Zeit erreichen sie ein Buchenwäldchen,
+Goud. Nach einiger Zeit erreichten sie ein Buchenwäldchen,
 sahen einen Fahrweg von der Landstraße abweichen und verfolgten
 ihn in aller Gemächlichkeit.
 
@@ -1744,7 +1744,7 @@ er sein letztes Lied!« Der Mann war vor Wut dunkelrot geworden.
 »Welche Bande meinen Sie denn?« Harst musterte ihn
 interessiert. Der Mensch machte einen ehrlichen Eindruck.
 
-»Ah — weshalb soll ich es den nicht sagen, — es
+»Ah — weshalb soll ich es denn nicht sagen, — es
 kommt ja doch zum Krach«, polterte der Chauffeur heraus.
 »Den North-Gang meine ich, Mister … Mr. Goud war fest
 entschlossen, den Direktor Pepperley nicht länger zu schonen.«
@@ -2487,7 +2487,7 @@ vor einem Landhaus. Die Negerköchin Gouds füttert
 die Hühner, dann erscheinen Harper und O. Scall, und die
 Ereignisse nehmen denselben Verlauf wie vor Stunden in
 Gouds Vorgarten. Gordon und Kaptain Hutter tauchen auf,
-und Gordon gib mit dem Hut seiner Bande das Signal zum
+und Gordon gibt mit dem Hut seiner Bande das Signal zum
 Feuern. Das Fontänenbassin ist durch Bretter angedeutet.
 
 *Ansager*: »Harper hat Gordon durchschaut und weiß,
@@ -2534,13 +2534,13 @@ endgültigen Spruch, daß Gordons Untaten auf latenten Irrsinn
 zurückzuführen waren, der Hand in Hand ging mit einer
 ebenso krankhaft gesteigerten Intelligenz.
 
-Die gesamte Presse Chicagos und der öffentlichen Meinung
+Die gesamte Presse Chicagos und die öffentlichen Meinung
 waren darin einig, daß dieser Geisteskranke noch unabsehbaren
 Schaden hätte anrichten können, wenn er noch weiter sein
-finsteres, heimliches Treiben hätte fortsetzen Können. — —
+finsteres, heimliches Treiben hätte fortsetzen können. — —
 
 Am Abend desselben Tages, der das Ende des North-Gang
-bedeutete, saß in großen Zimmer von Greaps Hauptquartier
+bedeutete, saß im großen Zimmer von Greaps Hauptquartier
 eine stille Tafelrunde beieinander und erörterte nochmals
 die jüngeren Ereignisse.
 
@@ -2552,7 +2552,7 @@ Unwetter wirkte.
 <@pagebreak/>
 »Wir alle haben Lady Elvira zunächst bitter Unrecht
 getan. Sie liebt ihren Gatten … Ich war dabei, wie sie vor
-einem Bett in die Knie sank und ihn umarmte … Und —
+seinem Bett in die Knie sank und ihn umarmte … Und —
 sonderbar: Von da an ließ das Fieber nach. Mylord wird
 sehr bald wieder gesund werden. Elviras heiße Tränen und
 weiche Lippen haben den Tod von diesem Krankenbett verscheucht.«
@@ -2579,5 +2579,7 @@ Uns tat Ruhe not …
 
 Aber der Apparat tickte … tickte wie ein kleiner
 höhnischer Teufel …
+
+<@spacer 2/>
 
 Nächster Band: *Der grüne Schatten.*
