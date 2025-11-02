@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">a34c9a4c-8906-492a-b381-c4281a625544</entry>
+<entry key="title">Die blaue Tänzerin</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">293</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Die blaue Tänzerin
+
+In dem kleinen Hintergarten des Privathotel Bennett in der Milwaukee-Avenue in Chicago harkte an einem heißen Junimorgen ein älterer Herr mit leichtem Spitzbäuchlein behaglich die schmalen Wege und bildete sich ein, daheim in Germany im großen Gemüsegarten des Harstschen Hauses seinen gärtnerischen Neigungen nachzugehen.
+
+Aber selbst die eindrucksfähigste Vorstellungskraft konnte diese Selbsttäuschung noch nicht einmal bis zu einem schwachen Schimmer von Wirklichkeit umgestalten.
+
+Das war auch schlechterdings unmöglich, denn neben dem alten Hotelgebäude erhoben sich protzige, moderne Hochhäuser, das Gärtchen blieb ein Gärtchen mit kümmerlichen Bäumchen und saftlosen Sträuchern und auch Roxy Weylt hatte mit unserer alten dicken Mathilde lediglich die eine Ähnlichkeit, daß sie eine Küchenschürze trug, und selbst die war schick und niedlich, wie das ganze schlanke Persönchen des einzigen weiblichen Mitgliedes der Elite.
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (293) Die blaue Tänzerin.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1931</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+

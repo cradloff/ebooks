@@ -64,7 +64,7 @@ Frau Weylt schwieg.
 
 Dann fragte sie zögernd:
 
-»Weshalb sind Sie im Hautquartier geblieben und
+»Weshalb sind Sie im Hauptquartier geblieben und
 harken hier die Wege so sauber, als wäre es morgen
 Sonntag?«
 
@@ -74,7 +74,7 @@ Harst hat seit  heute früh ein sehr reges Interesse
 für Spuren.«
 
 Roxy hätte nicht bereits seit Wochen der Elite
-mit Angehört haben müssen, wenn sie nicht stutzig geworden
+mit angehört haben müssen, wenn sie nicht stutzig geworden
 wäre. »War jemand nachts im Garten, Mr. Schraut?! Das
 ist doch kaum möglich, bei unserem scharfen Bewachungssystem.«
 
@@ -112,8 +112,8 @@ Krawatten und grüne Seidensocken, — letztere wurden
 stets sehr unvorteilhaft sichtbar, da Smiths Hosen
 unfehlbar drei Finger zu kurz waren.
 
-»Mr. Schraut.« rief Benno Smith atemlos und verärgert,
-»Ich werde den Gentleman nicht los. Der Kerl ist Stadtreisender
+»Mr. Schraut,« rief Benno Smith atemlos und verärgert,
+»ich werde den Gentleman nicht los. Der Kerl ist Stadtreisender
 in Schlipsen, Hosenträgern und ähnlichem. Er will durchaus
 hier seine Ware anbieten. Stellen Sie sich vor, er
 hat einen Ausweis vom Bürgermeister und eine Empfehlung
@@ -403,7 +403,7 @@ Er setzte sich und betrachtete den Gipsabdruck.
 
 »… Aber Eigenlob würde stinken, Mylord. Ich bin
 eine sehr bescheidene Seele. Trotzdem wage ich zu behaupten,
-daß Sie etwa um drei Uhr Nachts hier in unserem Hinterpark
+daß Sie etwa um drei Uhr nachts hier in unserem Hinterpark
 waren, — Park klingt protzig, sagen wir Gärtchen. Was
 wollten Sie hier?«
 
@@ -508,7 +508,7 @@ Ihrem Falle möchte ich doch »Hirsch« sagen.«
 »Ihre Witze können Sie sich schenken …« — Parson
 nahm nachlässig eine neue Zigarette. »Sie folgern also
 daraus, daß ich nur noch 500&nbsp;000 Pfund besitze,
-daß ich Onkel Will … beerben wollte, — Welcher Unsinn!!
+daß ich Onkel Will … beerben wollte. — Welcher Unsinn!!
 Onkel Will besaß nichts, besitzt nichts und war auf
 meine Unterstützung angewiesen.«
 
@@ -807,7 +807,7 @@ worden zu sein.
 »Wir fingen sie in ihrer Wohnung ab,« erklärte
 Wilkiens leise. »Sie bewohnt da dicht am Gaity-Theater
 in einem alten Hause das ganze Hochparterre, hält sich
-aber keine feste Bedienung, — Sehr bezeichnend. Sie
+aber keine feste Bedienung, — sehr bezeichnend. Sie
 wurde genau wie dieser kleine Bob Smart in aller Stille
 und wie stets mit verbundenen Augen eingeliefert.«
 
@@ -843,7 +843,7 @@ ist mir noch nicht vorgekommen.«
 Von der Kellertreppe her nahte der kleine Weylt,
 Frau Roxys vielbeneideter junger Gatte.
 
-»Ich soll hier die Wache übernehmen«. erklärte
+»Ich soll hier die Wache übernehmen«, erklärte
 er munter wie immer, und stellte seinen Korbsessel
 auf den Boden und legte einen dicken Roman auf den
 Polstersitz. »Harst will euch sprechen, er hat sich
@@ -1040,12 +1040,12 @@ hatte.
 Mr. Possermill glotzte uns verschlafen an …
 
 »Ah, — Mr. Horter …«, brummelte er … »Entschuldigen
-Sie, ich bin noch immer sehr Müde nach dem verdammten
+Sie, ich bin noch immer sehr müde nach dem verdammten
 Trank. Und ich spreche so undeutlich … verzeihen Sie,
 — dort liegt mein Gebiß.«
 
 Wir traten ein, Harst ging sofort auf den Nachttisch
-zu — — Was er dort tat, sahen wir nicht. Aber Possermill
+zu — — was er dort tat, sahen wir nicht. Aber Possermill
 fürchtet wohl für seine kostbaren Zähne, schoß wie
 ein Stoßvogel hinterher und platzierte das Gebiß dort,
 wo es normalerweise hingehörte.
@@ -1161,7 +1161,7 @@ wirklich freundschaftliche — elf Jahre, Mr. Horter,
 das ist eine Ewigkeit, das schmiedet zwei Männer zusammen
 …!«
 
-»Verständlich!«, erklärte Harst äußerst mitfühlend,
+»Verständlich!«, erklärte Harst äußerst mitfühlend.
 »Was halten sie von Smart übrigens?«
 
 »Smart?! Er ist erst fünf Monate bei Lord Gerald
@@ -1304,7 +1304,7 @@ Das Spiel wurde interessant.
 
 Dann schritt der vornehme, graubärtige Gentleman
 sehr würdevoll die Straße hinab und … machte plötzlich
-Kehrt. Er überwachte den Verkehr, er achtete zweifellos
+kehrt. Er überwachte den Verkehr, er achtete zweifellos
 auf jede Kleinigkeit.
 
 Und — er kehrte zurück, seine bisher sehr sicheren,
@@ -1633,7 +1633,7 @@ Muflon lehnte zwanglos am Fenster und lächelte
 dünn. »Versprechen Sie sich etwas davon, Mr. Horter?!«
 Er war plötzlich ungewöhnlich gefaßt und fast frech.
 
-»Jetzt nicht mehr«, sagte Harst ehrlich, »Es war
+»Jetzt nicht mehr«, sagte Harst ehrlich. »Es war
 ein Versuch … Anscheinend bin ich hier doch auf falscher
 Fährte.«
 
@@ -2320,7 +2320,7 @@ an.
 stehen Leute, die auf meinen Wink aus Ihnen allen Siebe
 machen …!«
 
-»Leute, — die Kapelle des Gaity-Theater, 22 Mann.
+»Leute, — die Kapelle des Gaity-Theater, 22 Mann,
 — stimmt. Ausnahmsweise mal musikalische Banditen.
 Eine ganz nette Idee, Gang-Brüder unter der Maske von
 Berufsmusikern zu verbergen. Nur hätte ich niemals
@@ -2649,7 +2649,7 @@ daher auch meine Hüftflasche als Belastungsmaterial
 frisch gefüllt …«
 
 Wilkiens packte ihn bei der Schulter. »Her damit
-— im Namen des Gesetzes! sonst …«
+— im Namen des Gesetzes! Sonst …«
 
 Aber der Streit um dieses vielbegehrte Belastungsmaterial
 flaute sofort ab, als Lord Gerald, der mit der hübschen
