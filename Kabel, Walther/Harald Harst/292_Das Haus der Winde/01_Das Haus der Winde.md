@@ -9,7 +9,7 @@ Rückgratverkrümmung und trotz des bleichen, kränklichen
 Gesichts immer noch ein stattlicher Mann. An einem
 heißen Juniabend, an dem die Sonne in dichtem Dunst
 untergegangen war, saß der einst vielgesuchte Arzt
-mit seinem einzigen Kinde Chalya-Edith in der Veranda
+mit seinem einzigen Kinde Thalya-Edith in der Veranda
 seines Landhauses und beobachtete den Mondaufgang.
 Das große Gebäude erhob sich auf einem bewaldeten Hügel
 unweit des Ufers des Michigan-Sees. Nach Norden zu
@@ -20,7 +20,7 @@ Himmel erkennen.
 Vater und Tochter hatten soeben über die letzten
 Nachrichten der Zeitungen und über die Aushebung des
 Grant Gang und über den Tod Frau Gilda Gardinetts gesprochen.
-Chalya-Edith, stets nur Lya genannt, hatte gemerkt,
+Thalya-Edith, stets nur Lya genannt, hatte gemerkt,
 daß dieses Thema ihrem übernervösen Vater, der vor
 einem halben Jahr seine Praxis endgültig aufgegeben,
 nicht recht zusagte.
@@ -352,7 +352,7 @@ Ein schönes Gesicht und ein gesellschaftlich einwandfreies
 Benehmen genügen zur Dame noch lange nicht.«
 
 Ich konnte mich nicht enthalten, in diesem Falle
-für Chalya Eysom, die ich freilich stets nur von weitem
+für Thalya Eysom, die ich freilich stets nur von weitem
 gesehen hatte, eine Lanze zu brechen. »Sie ist eine
 Dame«, erklärte ich mit allem Nachdruck. »Vorgestern
 im Restaurant Belmonte habe ich sie zwei Stunden genau
@@ -412,7 +412,7 @@ er dem zitternden Gnom, der plötzlich jämmerlich zu
 weinen begonnen hatte.
 
 In diesem Augenblick trat durch eine der vier
-Türen des großen Raumes Chalya Eysom ein. Auch ihre
+Türen des großen Raumes Thalya Eysom ein. Auch ihre
 Erscheinung hatte etwas Geisterhaftes, Unwirkliches
 an sich. Mit ihrem schwarzen Haar und dem schmalen,
 farblosen Gesicht, in dem ein Paar übergroße Augen
@@ -494,7 +494,7 @@ dauernd Streit mit ihm, und erst diese Ihre Hartherzigkeit,
 die lediglich persönlicher Voreingenommenheit entsprang,
 öffnete mir über Ihren Charakter so etwas die Augen.«
 
-Er stand aufrecht, von Chalya gestützt. Er schwankte
+Er stand aufrecht, von Thalya gestützt. Er schwankte
 leicht, aber er riß sich zusammen und fügte nach kurzer
 Pause mit allem Nachdruck hinzu:
 
@@ -531,7 +531,7 @@ sie hinter sich zu, und Wilkiens kam um eine Sekunde
 zu spät. Die Tür war abgesperrt, und als wir nach zehn
 Minuten  zweckloser Jagd im Park wieder ins Haus zurückkehrten
 — triefend, verärgert und abgehetzt, fanden wir Doktor
-Eysom und Chalya in des Doktors Arbeitszimmer, wo die
+Eysom und Thalya in des Doktors Arbeitszimmer, wo die
 beiden wie versteinert auf einem Sofa saßen. Bracon
 war durch ein Fenster der Bibliothek entkommen.
 
