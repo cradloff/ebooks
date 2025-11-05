@@ -1126,7 +1126,7 @@ meinte Harald so ganz nebenbei.
 daß Sie nochmals behaupten wollen, *ich* hätte die drei
 Schüsse abgegeben.«
 
-» Wer sagte das?!« Harkt markierte ein maßloses
+»Wer sagte das?!« Harst markierte ein maßloses
 Erstaunen. »Etwa ich?! Ich habe lediglich geäußert,
 Sie seien zur gleichen Zeit wie Schrott und ich in
 Park gewesen, und das stimmt.«
@@ -1730,7 +1730,7 @@ und allein diese lautlosen Schüsse gekommen sein konnten,
 wir rissen die eigenen Waffen heraus, — meine Augen
 suchten die Mauer und das Hoftor und die Pforte und
 die Reklameblumen nach dem niederträchtigen Schützen
-ab, wahrend ich in weiten Sätzen der nur angelehnten
+ab, während ich in weiten Sätzen der nur angelehnten
 Pforte zuflog.
 
 Harst war schneller, Wilkiens, dieser scheinbar
@@ -2538,7 +2538,7 @@ sofort, verneigten sich unterwürfig und blickten der
 unheimlichen Gestalt etwas scheu entgegen.
 
 »Alles bereit?«, fragte der Mann mit einer seltsam
-hohen Fistelstimme, die wie das schwirren einer überspannten
+hohen Fistelstimme, die wie das Schwirren einer überspannten
 Saite klang.
 
 »Alles!«, sagte einer der Leute höflich.
