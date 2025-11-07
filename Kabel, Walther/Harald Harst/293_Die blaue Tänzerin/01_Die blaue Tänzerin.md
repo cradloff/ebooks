@@ -98,16 +98,16 @@ lieben Freunde unser Quartier ausbaldowert hätten.«
 
 Roxy machte ein sehr langes Gesichtchen und schaute
 dorthin, wohin meine Hand zeigte: auf die Mauer nach
-dem Sherman- Grundstück zu. »Und Toni und ich wohnen
+dem Sherman-Grundstück zu. »Und Tom und ich wohnen
 gerade im dritten Stock«, sagte sie mit deutlicher
 Besorgnis, die bei so Jungverheirateten verständlich
 war. »Da wäre jede Bombe auf unser Dach sicherer Tod.«
 
 Ich beruhigte sie. »So weit ist es ja noch nicht«,
 — aber meine Aufmerksamkeit wurde abgelenkt, da soeben
-der Kollege Smith, immer nur der Grüne genannt um die
+der Kollege Smith, immer nur der Grüne genannt, um die
 Hausecke bog. Der hagere, krummbeinige Detektivsergant
-besaß eine ausgesprochene Vorliebe Tür dezent-grüne
+besaß eine ausgesprochene Vorliebe für dezent-grüne
 Krawatten und grüne Seidensocken, — letztere wurden
 stets sehr unvorteilhaft sichtbar, da Smiths Hosen
 unfehlbar drei Finger zu kurz waren.
@@ -122,7 +122,7 @@ für den neuen Chef. Was tun wir nur?«
 Er fuchtelte mit ein Paar hellgrünen Socken und
 ein Paar Hosenträgern in der Luft herum. »Das Zeug
 habe ich ihm schon abgekauft, um dem eleganten Schnorrer
-das Maul zu stopfen. Zwei Dollar bin ich armer geworden,
+das Maul zu stopfen. Zwei Dollar bin ich ärmer geworden,
 die Summe kommt auf das Unkostenkonto, und …«
 
 Benno Smith war ein sehr sparsamer Mensch.
@@ -187,7 +187,7 @@ und ebensolchem Schläfenhaar.
 
 Lord Parson lächelte diskret, folgte uns ins Haus
 und wurde in Harsts Zimmer geführt. — Mein Freund hatte
-sich hier mit viel Geschick die Ausgabe gestellt, nach
+sich hier mit viel Geschick die Aufgabe gestellt, nach
 Möglichkeit ein Duplikat seines Berliner Heimes herzurichten.
 Menschen wie er sind von der äußeren Umgebung sehr
 abhängig und bleiben Stimmungen unterworfen, die dem
@@ -343,7 +343,7 @@ mit der ganzen Sache zu tun hätte.
 
 Der Rauchtisch, an dem wir uns gegenübersaßen,
 hatte die Eigentümlichkeit, daß er an die Dielen festgeschraubt
-war und das an meiner Seite an dem einen Tischbein
+war und daß an meiner Seite an dem einen Tischbein
 sich vier farbige Druckknöpfe befanden, die man auch
 mit dem Knie berühren konnte. Ich setzte den grünen
 Kontakt in Tätigkeit, und bereits nach Sekunden öffnete
@@ -363,7 +363,7 @@ Abguß von dieser Nacht, ich nahm an, Sie brauchen ihn.«
 Hopps hatte zweifellos im Nebenzimmer durch die
 Mikrophonanlage jedes Wort des letzten Teiles der Unterhaltung
 mitgehört. Mit vorbildlicher Höflichkeit fügte er zu
-Parson gewandt hinzu: »Sie gestatten, das ich diesen
+Parson gewandt hinzu: »Sie gestatten, daß ich diesen
 Abdruck mit Ihrem rechten Schuh vergleiche, Mylord.
 Das wird Sie der Mühe überheben, nach Ausflüchten zu
 suchen.«
@@ -451,7 +451,7 @@ Sie?! Dann muß ich interessanter werden. Zunächst stimmt
 das alles, was ich hier gegen Sie und Smart an Beschuldigungen
 vorbrachte. Ferner: Sie waren gestern abend ebenfalls
 im Gaity-Theater, freilich verkleidet, und Ihr vortrefflicher
-Smart war es auch. Die Durchsuchung Ihrer Zimmer forderte
+Smart war es auch. Die Durchsuchung Ihrer Zimmer förderte
 aus der Tasche Ihrer Smokingweste eine Eintrittskarte
 für das Theater, Loge 3, Platz 9, zu Tage. Smart war
 vorsichtiger gewesen, Mylord. Er hat sein Billet weggeworfen
@@ -561,7 +561,7 @@ läuft unter dem Namen William Amoor — — seit Jahren,
 Mylord …«
 
 Parson fiel in den Sessel zurück und schloß für
-Sekunden die Auge.
+Sekunden die Augen.
 
 Der Mann besaß doch eine ungeheure Energie. Als
 er Harst nun anblickte, erklärte er durchaus gleichgültig:
@@ -676,7 +676,7 @@ einer ganz groß angelegten Verbrecherorganisation gekommen
 zu sein, und ich werde vor nichts zurückscheuen, Sie
 zum Reden zu zwingen.« Sein Ton war zuletzt merklich
 schärfer geworden, und zum ersten Male gewahrte ich
-jetzt im Parsons grauen Augen einen Schimmer von Furcht
+jetzt in Parsons grauen Augen einen Schimmer von Furcht
 und Unsicherheit.
 
 Er überlegte sich die Antwort eine ganze Weile,
@@ -726,7 +726,7 @@ Bürgermeister heute früh dies zu verheimlichen.«
 weihten Sie nicht ein?«
 
 Lord Gerald richtete sich höher auf. »Ich gab
-Ihnen mein Wort, — das genügt. Onkel Willi und Possermill
+Ihnen mein Wort, — das genügt. Onkel Will und Possermill
 haben für Weiber, aber nicht für den Kaptain Harst
 Interesse.«
 
@@ -962,7 +962,7 @@ ganze Mauern von Neugierigen angelockt hatten.
 Harst hatte die Stahlgardine vom rechten Fenster
 etwas zurückgezogen und beobachtete den Bürgersteig.
 
-»Was befürchten Sie««, fragte Wilkiens, ohne die
+»Was befürchten Sie?«, fragte Wilkiens, ohne die
 Virginia aus dem Munde zu nehmen.
 
 Harst zog den kugelsicheren Vorhang wieder zu.
@@ -985,7 +985,7 @@ her.
 
 In der Vorhalle des Astor (gleich gegenüber liegt
 der Riesenbau des Hotel Sherman, nicht zu verwechseln
-mit unserem rückwärtigen Nachbar Möbel-Sherman kam
+mit unserem rückwärtigen Nachbar Möbel-Sherman) kam
 uns ein untersetzter Herr mit Preisringerfigur und
 verdächtig rotem Gesicht entgegen: Kaptain Morris von
 der Zentrale, der einzige, der mit den Verhältnissen
@@ -1045,8 +1045,8 @@ Trank. Und ich spreche so undeutlich … verzeihen Sie,
 — dort liegt mein Gebiß.«
 
 Wir traten ein, Harst ging sofort auf den Nachttisch
-zu — — was er dort tat, sahen wir nicht. Aber Possermill
-fürchtet wohl für seine kostbaren Zähne, schoß wie
+zu — was er dort tat, sahen wir nicht. Aber Possermill
+fürchtete wohl für seine kostbaren Zähne, schoß wie
 ein Stoßvogel hinterher und platzierte das Gebiß dort,
 wo es normalerweise hingehörte.
 
@@ -1087,7 +1087,7 @@ Possermill stand da und grinste verschämt.
 
 »Nun denn — der Wahrheit die Ehre, Mr. Horter:
 Ich war bummeln … Seine Lordschaft kam ja nie vor Morgengrauen
-heim. Ich besuchtes allerhand Lokale.«
+heim. Ich besuchte allerhand Lokale.«
 
 »Sie Genießer!! — Nun aber etwas anderes mal …
 — Halten Sie Lord Gerald eines Mordes für fähig? Reden
@@ -1142,13 +1142,13 @@ stotternd.
 
 Er war vollkommen verwirrt.
 
-»… Tatsächlich, — unmöglich. Mr. Horter … Wie
+»… Tatsächlich, — unmöglich, Mr. Horter … Wie
 sollte Lord Willamoor hier ein Konto angelegt haben
-— weshalb?! — Bitte, geben Sie doch mal her …«
+— — weshalb?! — Bitte, geben Sie doch mal her …«
 
 Er trat mit dem Doppelbogen ans Fenster und schüttelte
 immer aufs neue seine roten Lockenpracht. »Waren Sie
-schon bei der Bank?*«. sagte er dann immer noch zweifelnd.
+schon bei der Bank?«, sagte er dann immer noch zweifelnd.
 
 »Ja … Es hat alles seine Richtigkeit. Das heißt,
 ein Haken ist doch dabei, darüber möchte ich vorläufig
@@ -1172,7 +1172,7 @@ sämtlich gefälscht! Ich vertraute dies auch Lord Gerald
 an und warnte ihn. Und die Antwort? — »Ich gebe einen
 Dreck was auf Zeugnisse«, sagte er grob und warf mich
 fast hinaus. — Nun, Sie wissen ja am besten, Mr. Horter,
-das Smart ein Giftmischer ist! Diese Gemeinheit, mir
+daß Smart ein Giftmischer ist! Diese Gemeinheit, mir
 in der verflossenen Nacht den Brandy mit …«
 
 »Regen Sie sich doch nicht weiter darüber auf«,
@@ -1236,7 +1236,7 @@ den Hoteleingang im Auge behalten konnten. Zuvor war
 jedoch noch ein kleiner Zwischenfall eingetreten, da
 der lange Smith mit den grüne Socken auf uns gewartet
 und uns auf eine große Limousine aufmerksam gemacht
-hatte, die ebenfalls in der Nahe hielt.
+hatte, die ebenfalls in der Nähe hielt.
 
 Ich habe zuerst nicht begriffen, wie es dem grünen
 Smith möglich war, diesen Wagen so rasch lahm zu legen
@@ -1278,11 +1278,11 @@ er nicht im Bett, sondern unterwegs gewesen …«
 
 Ich hatte im Hoteleingang einen sehr elegant gekleideten,
 großen Herrn mit grauem Spitzbart und Brille bemerkt.
-Hinter ihm gewahrt ich Kaptain Morris, der sich
+Hinter ihm gewahrte ich Kaptain Morris, der sich
 eifrigst mit seinem Taschentuch Luft zufächelte.
 
 Der Herr war Jack Possermill. Aber wenn man nicht
-sehr gute Augen hätte, würde man in ihm niemals den
+sehr gute Augen hatte, würde man in ihm niemals den
 häßlichen Pavian erkannt haben.
 
 Possermill trat an den Straßenrand und strich
@@ -1295,7 +1295,7 @@ daß sie unmöglich etwas sehen konnten.
 
 Possermill nahm ein zweites Zündholz. Er kniff
 die Augen klein … Er schien nicht zu begreifen, daß
-er ein drittes Zündholz benutzten mußte …
+er ein drittes Zündholz benutzen mußte …
 
 Ich begriff: Er wartete auf irgendein Signal aus
 der Limousine!
@@ -1334,7 +1334,7 @@ ein leeres Taxi heran, sprang hinein, und der Wagen
 rollte die Clark-Street empor. Im selben Moment setzte
 sich auch drüben Harsts Auto in Bewegung, während unser
 Wagen hinter dem Taxi herfuhr. Diese Reihenfolge blieb
-dieselbe bis zur Ecke der Southwater Street, wo das
+dieselbe bis zur Ecke der Southwater-Street, wo das
 große gelbe Rundfahrt-Ungetüm Halt gemacht hatte. Possermill
 schien dieses gar nicht zu sehen, aber er verspürte
 plötzlich die Neigung, sich mit seinem hellgrauen feinen
@@ -1528,7 +1528,7 @@ und reichte sie ihm dann zurück.
 »Bitte, nehmen Sie Platz …«
 
 Der große, gediegen und vornehm ausgestattete
-Raum bekam vielleicht zum ersten male jetzt so strengen
+Raum bekam vielleicht zum ersten Male jetzt so strengen
 Polizeibesuch.
 
 Mr. Jakob Muflon betrachtete uns vier (zwei waren
@@ -1562,9 +1562,9 @@ Er schüttelte den Kopf. »Das ist nicht Mr. Albin
 Rosson«, meinte er erstaunt. »Den Mann habe ich noch
 nie gesehen.«
 
-»In der Aufmachung nicht, — vielleicht«, — das
+»In *der* Aufmachung nicht, — vielleicht«, — das
 klang recht anzüglich. »Bitte — hier ist ein zweites
-Paßbild. Kennen Sie den Herrn?«
+Paßbild. Kennen Sie *den* Herrn?«
 
 Mr. Muflon prüfte sorgfältig. »Nein, auch nicht,
 Mr. Horter. Bestimmt nicht.«
@@ -1578,7 +1578,7 @@ ging dabei etwas lebhaft her, selbst für hiesige Verhältnisse.«
 »Sehr schade«, sagte Muflon betrübt.
 
 »Allerdings, — es wäre Possermill angenehmer gewesen,
-wenn wir ausgelöscht worden wären. — Besitzen Sie ein
+wenn wir ausgelöscht worden wären. — Besitzen *Sie* ein
 Bild des Präsidenten Rosson?«
 
 »Nein«, — das kam allzu eilig für einen Mann heraus,
@@ -1608,7 +1608,7 @@ einträglich.«
 
 Wilkiens, Morris und ich als Zuhörer hatten diese
 Amateuraufnahme ebenfalls noch nicht zu Gesicht bekommen.
-Harst reichte sie uns schweigend hin. ’Wir sahen auf
+Harst reichte sie uns schweigend hin. Wir sahen auf
 dem Bilde einen älteren Herrn mit dickem Schnurrbart
 und rundem Backenbart, gescheiteltem Haar und Brille
 — ein sehr intelligenter Kopf, aber — — uns fremd.
@@ -1623,7 +1623,7 @@ mit einer Momentkamera ausgerüstet und hat das von
 dem »Verein« besetzte Auto bei bester Beleuchtung vor
 dem Astor-Hotel sechsmal geknipst. Die Bilder sind
 vergrößert worden, und wir erhielten so eine stattliche
-Anzahl recht klar geratener Personenausnahmen. Einzelheiten
+Anzahl recht klar geratener Personenaufnahmen. Einzelheiten
 schenke ich mir. Während wir hier uns so angenehm unterhalten,
 darf das Personal dieses Hauses einzeln den Ausgang
 passieren, und geübte Augen vergleichen lebende Gesichter
@@ -1672,7 +1672,7 @@ sich eine gewisse Zurückhaltung auferlegt hatte, die
 durchaus seiner bescheidenen Natur entsprach. Jetzt
 als Chef der Elite waren ja bereits in unserer äußeren
 Lebenshaltung gewisse Veränderungen eingetreten, —
-Harst war daran gewohnt, lediglich mit mir das durchzusprechen,
+Harst war daran gewöhnt, lediglich mit mir das durchzusprechen,
 was er für notwendig erachtete, und — das war nicht
 gerade viel. Er war stets ein Mensch gewesen, der sein
 besonderes Innenleben lebte und der sich schwer umstellen
@@ -1700,7 +1700,7 @@ suchte.
 »Mir fällt da gerade noch etwas von nebensächlicher
 Bedeutung ein«, sagte er freundlich. »Sie sind doch
 auch nebenbei noch Theaterfachmann, Mr. Muflon, und
-leiten das Gaity-Theaters. Haben Sie eigentlich die
+leiten das Gaity-Theater. Haben Sie eigentlich die
 Rolle der Miß Blanche Riverside in dem Einakter doppelt
 besetzt?«
 
@@ -1708,7 +1708,7 @@ besetzt?«
 zu lesen, was hinter diesem neuen Thema steckte — ein
 gänzlich aussichtsloses Unterfangen.
 
-»Das ist sehr gut. Mr. Muflon, denn — im Vertrauen
+»Das ist sehr gut, Mr. Muflon, denn — im Vertrauen
 — Miß Blanche ist verhaftet worden.«
 
 »Was ich vermutete …«, nickte Muflon etwas gereizt.
@@ -1744,7 +1744,7 @@ wurde gelbgrau, die Augen wurden übergroß und die dicken
 Schweißperlen auf Muflons Stirn vereinigten sich und
 rannen an den eingefallenen Schläfen herab.
 
-Harst fügte ebenso farblos hinzu! »Diese Gespräche,
+Harst fügte ebenso farblos hinzu: »Diese Gespräche,
 drei, wurden mit einem Herrn geführt, der von einer
 öffentlichen Fernsprechstelle das Hotel anrief … Der
 Inhalt der Gespräche schien belanglos. Haben Sie Interesse
@@ -1826,7 +1826,7 @@ abfahrtbereit sei.
 
 Um halb sieben wurde Blanche Riverside mit verbundenen
 Augen und dicht verschleiert in diesen Wagen geleitet.
-Kurz noch ihr Bob Smart. Außer diesen beiden nahmen
+Kurz nach ihr Bob Smart. Außer diesen beiden nahmen
 nur noch Wilkiens, der kleine Weylt und Harst und ich
 an dem Ausflug — Ziel mir unbekannt — teil.
 
@@ -1907,7 +1907,7 @@ schwer, den Lebensweg Blanche Riversides rückwärts
 zu verfolgen und festzustellen, daß sie mit fünfzehn
 Jahren bereits von daheim weglief und dann rasch eine
 sehr zweifelhafte Karriere machte, während ihre Zwillingsschwester
-Gloria Rivel, und Rivel ist der richtig Vatersname
+Gloria Rivel, und Rivel ist der richtige Vatersname
 auch für Blanche, die Mutter wacker im harten Daseinskampf
 unterstützte und ein braves Mädchen blieb.«
 
@@ -1938,7 +1938,7 @@ sich einmischen würde. Lord Gerald sprang in unseren
 Hintergarten hinab, und das muß um dieselbe Zeit gewesen
 sein, als ich nach dem Gaity-Theater fuhr und die Ermittelungen
 begann. Gerald wurde verscheucht, Sie halfen ihm über
-die Mauer zurück und begaben sich wieder in das Alster-Hotel,
+die Mauer zurück und begaben sich wieder in das Astor-Hotel,
 wo Jack Possermill, eine sehr fragwürdige Persönlichkeit,
 in sehr unerwünschtem tiefen Schlafe lag und erst weit
 später erwachte. Inzwischen war er schon dreimal angerufen
@@ -1990,7 +1990,7 @@ wollte, die vielleicht …«
 Bob Smart unterbrach sie mit harmloser Ironie.
 
 »Ach, — können Sie nicht vielleicht noch mehr
-verraten, Miß Rivel?! Über den Lord Lord Willamoors
+verraten, Miß Rivel?! Über den Tod Lord Willamoors
 brauchen Sie sich doch wirklich nicht aufzuregen, im
 Grunde kam uns, so hart es klingt, dieses Verbrechen
 doch nur gelegen. Und jetzt — sagen sie am besten gar
@@ -2066,7 +2066,7 @@ Gloria rief sofort, den alten Mann erstaunt musternd:
 …«
 
 Der Schwarze stotterte mit einem Feixen, das man
-unter anderen Umständen als teuflisch hatte bezeichnen
+unter anderen Umständen als teuflisch hätte bezeichnen
 können:
 
 »Oh — ich … ich … freue mich nur so, Miß Gloria
@@ -2189,7 +2189,7 @@ gut abschneiden, tatsächlich, zumal die Schwierigkeiten
 jetzt auch insofern behoben sind, als die Illinois-Bank
 das erhebliche Guthaben des armen Willamoor anstandslos
 auszahlen wird, — — oder sind Sie anderer Ansicht,
-Mr. Hast?!«
+Mr. Harst?!«
 
 »Nein, durchaus nicht, Muflon«, erwiderte Harst
 äußerst freundlich.
@@ -2210,8 +2210,8 @@ und das sind Sie heute noch.«
 Jakob Muflon fuhr hoch wie ein gereizter Kater.
 Es war geradezu komisch, mitanzusehen, wie dieser in
 seiner Eitelkeit gekränkte Verbrecher blaurot vor Wut
-anlief und sich mit einem heiseren Brüllen aus Harst
-stürze wollte.
+anlief und sich mit einem heiseren Brüllen auf Harst
+stürzen wollte.
 
 Eine gewaltige Faust schleuderte ihn zurück. Jack
 Possermills Handschuhnummer betrug ganz gut etwa 11
@@ -2408,14 +2408,14 @@ unvorsichtiges Gekrächze.
 
 »Gut, daß Sie den Mord an Lord Willamoor hier
 vor Zeugen zugegeben haben! Setzen Sie sich wieder,
-Sie Narr! Wir sind noch langst nicht fertig miteinander.
+Sie Narr! Wir sind noch längst nicht fertig miteinander.
 Setzen Sie sich!!«
 
 Und vor *der* Stimme brach dieser Oberbandit bescheiden
 in sich zusammen. In seine Züge trat ein klarer Ausdruck
 von Ängstlichkeit und Unsicherheit.
 
-»Sind sie nur … unverschämt!!«, meinte er verwundert.
+»Sind Sie nur … unverschämt!!«, meinte er verwundert.
 »Und das angesichts von zwei Maschinengewehren, die
 …«
 
@@ -2439,12 +2439,12 @@ ich befahl, und — das genügte. — Bilden Sie sich ein,
 ich wäre Ihnen hier so blindlings ins Garn gegangen?!
 Bilden Sie sich ein, Lord Gerald wäre entflohen?! Keine
 Rede, Mylord kam auf mein Geheiß hierher, und genau
-so bestimmt, wie ich wußte, das er hier erscheinen
+so bestimmt, wie ich wußte, daß er hier erscheinen
 würde, genau so zweifellos war für mich Ihre Anwesenheit
 hier auf der Farm. Muflon hatte vollkommen recht: Sie
 durften mich hier erwarten, Sie sagten sich ganz richtig,
 daß ich die Verwechslung von Gloria Rivel mit Blanche
-Rivel sehr bald herausfinden müßte, das …«
+Rivel sehr bald herausfinden müßte, daß …«
 
 Possermill war Schritt für Schritt zurückgewichen.
 Sein Gesicht hatte die Farbe gewechselt, und mit einem
@@ -2506,7 +2506,7 @@ Schade — das dröhnende Gelächter des Riesen Wilkiens
 verdarb ihm das Konzept und ließ ihn nicht dazu kommen,
 seinen Vorrat von Schimpfworten auszuspeien.
 
-Bemerkenswert war, das Mr. Jakob Muflon die Situation
+Bemerkenswert war, daß Mr. Jakob Muflon die Situation
 jetzt entschieden richtiger beurteilte und mit einem
 förmlichen Hechtsprung zum Fenster hinaus sich in trügerische
 Sicherheit brachte, wobei die Schwänze seines weitgeschnittenen
@@ -2580,12 +2580,12 @@ argwöhnisch gemacht. Smart fand sehr bald heraus, weshalb
 Willamoor so oft in Chicago gewesen. Smart konnte leider
 den Mord nicht verhindern, da er nicht damit rechnete,
 daß Sie ausgerechnet auf der Bühne des Gaity-Theaters
-Willamoor niederknallen wurden — im Schlafzimmer der
+Willamoor niederknallen würden — im Schlafzimmer der
 Blauen Tänzerin! Was natürlich eine ungeheure Dummheit
 war. — Hätten Sie noch etwas hinzuzufügen?«
 
 Possermill, käsebleich und schlotternd, aber erfüllt
-von blutdürstiger Rauchgier, kreischte wie ein Besessener:
+von blutdürstiger Rachgier, kreischte wie ein Besessener:
 
 »Hinzufügen — — ich?! Ja, — — einen Befehl: Jungens,
 schießt die Gesellschaft zu Mus und dann hin zu unseren
@@ -2621,7 +2621,7 @@ und um den Herrschaften Beine zu machen, spie er ihnen
 fünf Schuß über die Köpfe hin.
 
 Possermill folgte jetzt Muflons Beispiel. Er verstand
-sich aufs ausreißen noch besser als sein Verbündeter.
+sich aufs Ausreißen noch besser als sein Verbündeter.
 Im Moment war das Orchester des Gaity-Theaters vom
 Fenster verduftet, — wir eilten ins Freie, wir sorgten
 dafür, daß die Musikanten nicht noch andere Instrumente
@@ -2667,7 +2667,7 @@ und stürzte aus etwa tausend Meter Höhe wie ein Bleiklotz
 ab.
 
 So nahe ereignete sich der Absturz von der Farm,
-das wir den donnerähnlichen Aufschlag der Maschine
+daß wir den donnerähnlichen Aufschlag der Maschine
 auf den Boden deutlich hörten und ebenso die schwächeren
 Explosionen der Benzintanks. Eine Feuersäule schoß
 empor, Qualm folgte, — inzwischen hatte auch den zweiten
@@ -2709,7 +2709,7 @@ die Decke des Wagens und erwiderte mit einem Seitenblick
 auf Harst:
 
 »Genaues weiß ich nicht … Aber ich habe vorhin
-in einer verschlafenen Minute geträumt, das Blanche
+in einer verschlafenen Minute geträumt, daß Blanche
 Riverside-Rivel sich der blauen Tänzerinnenschleier
 wehmütig entkleidete und in ein Büßergewand schlüpfte
 und mit reichlich Geld versehen auf zwei Eisenbahnschienen
