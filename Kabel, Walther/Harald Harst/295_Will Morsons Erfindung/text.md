@@ -294,7 +294,7 @@ Er bückte sich und hob ein morsches Dielenstück
 empor.
 
 Darunter lagen fünf tote Mäuse und zwei tote Ratten.
-Er befühlte die Kadaver, »Auch Giftgas, auch noch warm
+Er befühlte die Kadaver. »Auch Giftgas, auch noch warm
 … Orbis starb etwa um halb elf Uhr, schätze ich.«
 
 Er beugte sich noch tiefer, kroch unter das Tischchen
@@ -407,7 +407,7 @@ viel zu sagen haben.«
 Den beiden langatmig Erklärungen abgeben?! Harsts
 Verschwinden bereitete mir zu große Sorge.
 
-»Sonderdezernat«, meinte ich schärfsten Tones,
+»Sonderdezernat«, meinte ich schärfsten Tones.
 »Hier links in meiner Jackentasche steckt mein Ausweis
 …«
 
@@ -424,7 +424,7 @@ lodernde Fackel hielt.
 Meine Lage war aussichtslos. Ich mußte dulden,
 daß sie mich nach oben schleppten, daß sie mich in
 das Mordzimmer brachten. Meine einziges Hoffnung blieb
-Wilkiens. ich wollte diesen Leuten nicht alles mitteilen,
+Wilkiens. Ich wollte diesen Leuten nicht alles mitteilen,
 was hier vorgefallen, Harst hatte so großen Wert darauf
 gelegt, den Tod des Professors vorläufig geheim zu
 halten. Um Harst mußten wir uns eben später kümmern.
@@ -470,11 +470,11 @@ nicht einhalten. Außerdem werden Sie vorläufig hier
 bleiben, und ich werde erst nach dem Ergebnis der weiteren
 Untersuchung darüber endgültig entscheiden, ob ich
 es mit meinen Pflichten vereinigen kann, Sie zu entlassen.
-— jetzt ein paar Fragen. In wessen Auftrag bewachen
+— Jetzt ein paar Fragen. In wessen Auftrag bewachen
 Sie dieses Haus? Ich nehme an, Sie haben dazu Auftrag.«
 
 »Ja, Mr. Horter«, erklärte der Dünne höflich,
-»Wir bewachen diese elende Bude seit Jahren. Tom und
+»wir bewachen diese elende Bude seit Jahren. Tom und
 ich gehören zum Personal der Wachgesellschaft »Die
 Fackel«, die vor zwei Jahren in andere Hände überging.
 Wir sind bereits fünf Jahre bei der »Fackel«, und wir
@@ -570,7 +570,7 @@ wichtig einzuschätzen. »In Mr. Remins Anweisungen liegt
 mithin ein Widerspruch«, sagte er mehr zu sich selbst.
 »So, — ihr beide könnt nun verschwinden. Hier habt
 ihr jeder zehn Dollar. Haltet den Mund. Eure Namen
-und Adressen werde ich mir noch schnell notieren, —
+und Adressen werde ich mir noch schnell notieren. —
 Übrigens, Sie erwähnten, »Die Fackel« habe den Besitzer
 gewechselt. Wem gehört das Unternehmen jetzt?«
 
@@ -723,7 +723,7 @@ befinden uns ja noch im Anfangsstadium dieses Falles
 »Wie willst du die Untersuchung fortsetzen?«
 
 »Wie?! — Sofort — — in der Villa des großen Damenfreundes
-Mac Orbis, —Aber ich muß dir noch etwas vorhalten,
+Mac Orbis. — Aber ich muß dir noch etwas vorhalten,
 was vielleicht wesentlicher ist als die Frage nach
 der Fortsetzung der Ermittelungen. Bedenke: Nicht der
 Mörder holte den Toten, sage ich, und ich könnte es
@@ -1227,7 +1227,7 @@ Ich zog sie in die Halle.
 
 »Hört mich an …! Hört genau hin! — Gerald Morson
 tut, als wäre er halb blind, er trägt eine blaue Brille,
-aber — — Er ist Astronom, hat ein Fernrohr! — Ein Halbblinder
+aber — — er ist Astronom, hat ein Fernrohr! — Ein Halbblinder
 als Astronom?! Wie reimt sich das?!«
 
 Auch Houston war zu uns getreten.
@@ -1404,8 +1404,8 @@ Gegenwart den Unbekannten und erklärte, dessen Zustand
 sei in keiner Weise besorgniserregend.
 
 »… Große Schwäche, herbeigeführt durch schlechte
-Ernährung und Genuß von Opiaten (Rauschmitteln)«. Lautete
-sein abschließendes Urteil, »Sorgfältige Pflege, Ruhe
+Ernährung und Genuß von Opiaten (Rauschmitteln)«, lautete
+sein abschließendes Urteil. »Sorgfältige Pflege, Ruhe
 und ein Bad werden den Kranken sehr bald auf die Beine
 bringen.«
 
@@ -1467,7 +1467,7 @@ hätte ich dieser Greisengestalt eine so kraftvolle
 Stimme zugetraut. »Das war — — infam von Ihnen!! Gehen
 Sie!!« Gehen Sie!! Sie sollten Ehrfurcht haben vor
 meinem weißen Haar und vor der Tragik, die meine letzten
-Jahre erfüllte! Gehen Sie«
+Jahre erfüllte! Gehen Sie.«
 
 Ich fühlte mich beschämt, und mit stummer Verbeugung
 verließ ich das Zimmer.
@@ -1514,14 +1514,14 @@ Zigarre genannt.
 
 Morris schlug etwas anderes vor. »Wissen Sie,
 Schraut, wir haben das Strandbad am Lincoln-Park so
-nah?… Wie wäre es damit?! Und dann hinterher eine Tasse
+nahe … Wie wäre es damit?! Und dann hinterher eine Tasse
 Mokka, einen Happen und eine Sumatra, schwarz wie das
 Gewissen dieses Engels Seraphim, der da wie ein Höllengeist
 in die Tiefe fuhr!«
 
 Morris bevorzugte Scherze mit zweifelhaften Vergleichen.
 
-Wir Schlenderten also hinüber zum prächtigen Lincoln-Park.
+Wir schlenderten also hinüber zum prächtigen Lincoln-Park.
 Über dem Michigan-See, diesem Binnenmeer Amerikas,
 lagerte ein ganz feiner bläulicher Morgendunst, der
 entfernt an den berühmten blauen Christiania-Fjord
@@ -1707,7 +1707,7 @@ in Germany) Gartenhaus tituliert wurde. Im ersten Stock
 dieses Gartenhauses, dessen Fenster einen Wolkenkratzer
 und einen »Garten« mit fünf Bäumen und einen Springbrünnlein
 als Aussicht hatten, lebte die verwitwete Frau Anna
-Marbis seit vielen Jahren, — Als Wilkiens und ich dort
+Marbis seit vielen Jahren. — Als Wilkiens und ich dort
 an der Flurtür läuteten, öffnete Dorotty Glan uns persönlich,
 erkannte uns auch sofort wieder und konnte nur mühsam
 ihr tiefes Erschrecken verbergen. Ihre Verstörtheit
@@ -1819,7 +1819,7 @@ Die Frau da war in der Tat ein Dämon, war trotzdem
 machtlos, — nur die Stimme blieb ihr, diesem wilden
 Haß Ausdruck zu verleihen.
 
-»Betrüger — — Schwindler — — Schuft …!!«, *Die*
+»Betrüger — — Schwindler — — Schuft …!!«. *Die*
 Stimme ließ mich zusammenzucken.
 
 Und dann — das noch Erstaunlichere, — fast ein
@@ -2005,7 +2005,7 @@ begegnet ist.
 Erst als Wilkiens eine ungeduldige Kopfbewegung
 machte, beeilte sie sich, uns die Knebel abzunehmen
 und die Strickknoten zu lösen. Sie begann damit bei
-ihrer Nichte, und kaum war diese Frei, als sie auch
+ihrer Nichte, und kaum war diese frei, als sie auch
 schon in Wilkiens Tasche faßte, den Flurschlüssel an
 sich nahm und aus dem Zimmer eilte. Wir hörten Dorotty
 durch den Flur flüchten, —« dann folgte ein halb erstickter
@@ -2028,7 +2028,7 @@ Wollte die Marbis sich nicht bei diesem Sturz
 ihrer Lahmheit aufgeben, — und das tat sie.
 
 So viel Energie und rasches Abwägen aller Möglichkeiten
-besaß sie doch nicht, — sie stand plötzlich Kerzengerade
+besaß sie doch nicht, — sie stand plötzlich kerzengerade
 vor uns, und sie hatte bei dem Versuch, das Gleichgewicht
 nicht zu verlieren, so viel körperliche Geschmeidigkeit
 bewiesen, daß Wilkiens jetzt gar kein Federlesen mehr
@@ -2326,7 +2326,7 @@ als Beweis dafür, daß er es nicht mehr für nötig hielt,
 irgend etwas zu verbergen.«
 
 Frau Marbis schloß die Augen und wurde noch um
-einen Schein bleicher
+einen Schein bleicher.
 
 <h2>8. Kapitel.</h2>
 
@@ -2662,7 +2662,7 @@ Sohn Will Morson verschwinden ließen und ihm die Aufzeichnungen
 über seine Erfindung raubten. Die vielen Spazierfahrten,
 die Ihre Tante unternahm, erregten Ihren Verdacht,
 zumal bei diesen Fahrten Ihre Tante stets für längere
-Zeit den Wagen verließ, — Es war doch so?«
+Zeit den Wagen verließ. — Es war doch so?«
 
 »Ja. Und — so fand ich schließlich heraus, daß
 Tante stets eine einsame, kleine Farm besuchte und
