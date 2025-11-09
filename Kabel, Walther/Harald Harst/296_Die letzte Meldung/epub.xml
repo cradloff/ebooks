@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">18efdc89-f9a8-4242-92bd-d16881a064c5</entry>
+<entry key="title">Die letzte Meldung</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">296</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Die letzte Meldung
+
+Der Wanderzirkus Burnam u. Sesster, der in einem der östlichen Vororte Chicagos auf einem buschumgrenzten unbebauten Grundstück sein mittelgroßes Zelt aufgeschlagen und seine Wagenburg ausgefahren hatte, war auch an diesem heißen Augustabend dicht besetzt gewesen. Gegen ein Viertel zwölf war die Vorstellung beendet. Um halb zwölf fand ein Policeman, der zu einer Vorortstreife gehörte, auf einem sehr bescheidenen Feldweg, der jedoch bereits die hochtrabende Bezeichnung Bennerton-Avenue trug, in einem morastigen Tale eine elegante Fordlimousine, in der lediglich in der einen Ecke ein Toter lehnte.
+
+Siegfrieds Trinkhorn
+
+Harst betrachtete das große, und sehr reich mit Silber verzierte Trinkhorn mit einer Sorgfalt, die meines Erachtens übertrieben war. Derartige Trinkhörner, hergestellt aus langen, gewundenen Kuhhörnern, sind auf deutschen Studentenkneipen häufiger Wandschmuck.
+
+Dieses Horn mit Siegfrieds Reckengestalt in Silber war ein Hinweis auf die Vorliebe der Chicagoer für Altmeister Wagners romantische Operndichtungen. Chicago mit seiner Unmenge von Deutschamerikanern darf sich getrost nicht nur zweitgrößte Stadt der Vereinigten Staaten, sondern auch eifrigste Pflegerin sämtlicher Künste nennen.
+
+»Was interessiert dich an dem Horn?«, fragte ich, indem ich nach einer Zigarre griff.
+
+»Der Leichtsinn!«, erwiderte Harst und lächelte fein.
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (296) Die letzte Meldung.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1931</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
