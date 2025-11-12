@@ -42,7 +42,7 @@ Backe. »Außerdem bleibt es doch sehr zweifelhaft, ob
 der verkommene Strolch nicht lediglich mit seiner phantastischen
 Anzeige sich hat wichtig machen wollen. Morris hat
 der Geschichte von vornherein wenig Glauben geschenkt,
-aber sie sind ja schließlich der Chef des Sonderdezernats,
+aber Sie sind ja schließlich der Chef des Sonderdezernats,
 Mr. Harst, und müssen am besten wissen, was Sie tun.«
 
 »Das weiß ich in den meisten Fällen«, erwiderte
@@ -66,7 +66,7 @@ Lichtflut erloschen und das Krachen des Donners verebbt,
 als Houston uns ganz heiser vor Erregung zuraunte:
 
 »Achtung, — vor dem Tore liegt ein Mensch, und
-ein Lebender würde doch diesem Regenguß kaum in den
+ein Lebender würde doch bei diesem Regenguß kaum in den
 Wasserpfützen dort Schwimmübungen machen!«
 
 Er wollte sich aus dem Buschwerk vorwärtsdrängen,
@@ -88,7 +88,7 @@ allzu dicht, und es bestand für uns immerhin die Gefahr,
 infolge der Lichtgarben des Autos bemerkt zu werden.
 
 Der strahlende Kegel des Scheinwerfers glitt weiter
-über den Dann hinweg, zeigte uns die Stacheldrähte
+über den Damm hinweg, zeigte uns die Stacheldrähte
 oben und unten, die einzelnen Grasbüschel und blinkenden
 Wasserlachen am Fuße der verwitterten Planken. Dann
 hatte die gleichmäßige Lichtflut das Tor und die Pforte
@@ -174,7 +174,7 @@ der uns vorgestern im Auftrag des Oberchefs den Fall
 da geringer Verdacht bestand, daß die einsame Shimuto-Farm
 der Treffpunkt einer Bande von Villeneinbrechern sei,
 die in letzter Zeit die Landhäuser der Millionäre der
-Michigan-Stadt über gebühr gebrandschatzt hatten. Morris
+Michigan-Stadt über Gebühr gebrandschatzt hatten. Morris
 hatte den Stromer Ben Benson, einen unverbesserlichen,
 alten Landstreicher, uns nicht nur sehr genau beschrieben,
 sondern uns sogar eine Photographie des Mannes überlassen,
@@ -195,21 +195,21 @@ tun, Mr. Schraut, aber Ihr Freund hält strenges Regiment.
 Wäre ich an Ihrer Stelle, würde ich Shimuto herausklingeln
 und ihn etwas mit der Pistole kitzeln. Der alte Heide
 wird wohl über diesen Mord mehr wissen, als ihm bekömmlich
-ist. Meinen Sie nicht auch, dass Shimuto den alten
+ist. Meinen Sie nicht auch, daß Shimuto den alten
 Tramp abkehlte, weil dieser zu viel geredet hat?«
 
 »Möglich wäre das.« Ich überlegte eine Weile.
 »Aber nur möglich, wenn Shimuto Spione in der Detektiv-Zentrale
 sitzen hat, die den Stromer verrieten. Aber auch dann
 wird wohl niemand so töricht sein, einem Angeber ausgerechnet
-vor dem Hoftor den Hals abzuschneiden. —« Logik, Houston,
+vor dem Hoftor den Hals abzuschneiden. — Logik, Houston,
 — logisch denken! Lassen wir also den Japp aus dem
 Spiel.«
 
 Es tröpfelte nur noch, es wurde auch heller, und
 das Gewitter zog weiter gen Süden davon.
 
-Da bemerkten wir gleichzeitig von der Stadt der
+Da bemerkten wir gleichzeitig von der Stadt her
 wiederum Scheinwerferlicht, und diesmal war es ein
 kleiner Wagen mit Klappverdeck, der unter lauter Lärmentwicklung
 von der Chaussee in die kurze Zufahrtstraße der Farm
@@ -273,7 +273,7 @@ herausgefunden, — man nennt so etwas »Kombinieren«,
 und der Ausdruck ist genau so gräßlich, wie »Theorie«,
 »Logische Schlußfolgerungen«, »Problem« und sonstiges
 Zeug, mit dem Groschenschriftsteller zum Ergötzen ihrer
-unreifen Leser operieren, — Aha, da ist Houston schön
+unreifen Leser operieren. — Aha, da ist Houston schon
 zurück. Ein fixer Junge, aber zu übermütig. — Na, Baby,
 wer hat Ihnen denn erlaubt, so auf eigene Faust über
 fremde Zäune zu kriechen?!«
@@ -293,10 +293,10 @@ Baby war sprachlos.
 
 »Und … und das für meine wichtige Nachricht?!
 Kein Wort der Anerkennung?! Manchmal sind Sie doch
-zu … originell, Mr. Harst.« .
+zu … originell, Mr. Harst.«
 
 Er war schwer gekränkt. *Der* Dämpfer war zu stark
-ausgefallenen.
+ausgefallen.
 
 Aber Houston hatte diesmal das Glück oder Geschick
 auf seiner Seite.
@@ -374,7 +374,7 @@ Arbeit gefunden und war im Besitz von sechs Dollar.«
 im Hüten von drei Schafen, wofür er, wie festgestellt,
 einen Dollar erhielt, also hat er das übrige Geld wie
 stets zusammengebettelt.) »Im Norden von Chicago, etwa
-in der Gegend von »Kragers Kolonie«, beobachtete im
+in der Gegend von »Kragers Kolonie«, beobachtete ich
 zufällig, wie über das Plankentor einer kleinen Farm
 nacheinander und zwar in Abständen von etwa vier Minuten
 insgesamt vierzehn Leute kletterten, die ihrer Kleidung
@@ -387,7 +387,7 @@ gewesen sein, sich an einem lohnenden Fischzug mit
 Dietrich und Brechstange zu beteiligen.) »Ich erblickte
 jedoch keinen einzigen der vierzehn Mann mehr auf dem
 Grundstück, sondern sah nur in einem Erdgeschoßzimmer
-des Wohnhauses einen alten Chinese oder Japaner und
+des Wohnhauses einen alten Chinesen oder Japaner und
 ein blondes junges Mädchen am Tische sitzen und Zeitungen
 lesen. Da nichts weiter vorfiel, begab ich mich auf
 die Landstraße zurück und verbarg mich abermals in
@@ -443,7 +443,7 @@ Richtigkeit des Protokolls:
 
 <p class='right'>Kaptain James Morris.«</p>
 
-»Hätten Sie mündlich noch etwas hinzuzufügen?,
+»Hätten Sie mündlich noch etwas hinzuzufügen?«,
 fragte Harst den stiernackigen, untersetzten Morris,
 den wir bei der Heimkehr hier bei einer Flasche Limonade
 angetroffen hatten. Diese Limonade mußte versehentlich
@@ -532,18 +532,18 @@ nur. »Meine Landkarte ist sehr genau. Kommt nur, hundert
 Schritt weiter ist eine Brücke.«
 
 Was er Brücke nannte, waren zwei Baumstämme mit
-darüber genagelten dicken Brettern ohne Geländer, —
+darüber genagelten dicken Brettern ohne Geländer. —
 »Ländlich, sittlich«, kritisierte Wilkiens. »Immerhin
 habe ich seit damals ein Vorurteil gegen jede Art von
 Brücken.« — Damals war der Fall »Haus der Winde«, und
 das Vorurteil war begreiflich. — Jenseits dieses Balkensteiges
 lief ein Feldweg bis zur Parkmauer. Harst schien seine
 Karte vortrefflich studiert zu haben, denn nach wenigen
-Schritten leuchtet vor uns aus dem Regen ein hoher
+Schritten leuchtete vor uns aus dem Regen ein hoher
 heller Strich auf, der sich an einer Stelle bis zum
-Baumgrün emporrekte. Es war die weißgestrichene Parkmauer,
-und an der Süddecke erhob sich ein Glaspavillon von
-staatlicher Größe. Da das Gelände hier anstieg, mußte
+Baumgrün emporreckte. Es war die weißgestrichene Parkmauer,
+und an der Südecke erhob sich ein Glaspavillon von
+stattlicher Größe. Da das Gelände hier anstieg, mußte
 man von den Fenstern des Gartenpavillons einen Ausblick
 bis zum Michigan-See haben.
 
@@ -645,9 +645,9 @@ nach vorn in ein Nelkenbeet fiel. Die Kugel klatschte
 gegen die Mauer und ließ Teile eines Ziegelsteines
 herabpoltern.
 
-»Harald — — Vorsicht!«, — ich brüllte nicht allzu
+»Harald — — Vorsicht!!«, — ich brüllte nicht allzu
 laut, aber — — droben erlosch die Kipplampe und gleichzeitig
-vernahm ich im Zimmer ein splittern von Glas und das
+vernahm ich im Zimmer ein Splittern von Glas und das
 klirrende Aufschlagen der Scheiben auf den Fußboden.
 
 Das war hier ja eine äußerst gemütliche Gegend!!
@@ -661,9 +661,9 @@ verdeckten alles, und …
 »Er ist weg, — nimm mir sie ab!«, kam vom Fenster
 eine klare, halblaute Stimme.
 
-Als ich Ethel Hamilton im den Armen hielt, wurde
+Als ich Ethel Hamilton in den Armen hielt, wurde
 mir ganz eigentümlich zumute. Morris hatte Wunderdinge
-von irrer atemberaubenden frischen Schönheit erzählt,
+von ihrer atemberaubenden frischen Schönheit erzählt,
 und da Ethel mehr vollschlank war, spürte ich die feste
 Rundung einer jungen Brust und die Weichheit der Linien
 dieses nur mit einem dünnen Pyjama bekleideten Körpers.
@@ -684,9 +684,9 @@ nach der Kehle, und wir rollten eng umschlungen in
 ein Erdloch hinein — zu unserem Glück.
 
 Dann bellte jäh der harte Ton von Harsts Pistole,
-— viermal drückte er ab, — - jenseits der Mauer Stimmen,
+— viermal drückte er ab, — jenseits der Mauer Stimmen,
 — auch von der Mauerkrone feuerte jemand auf die hinterlistigen
-Angreifer, und Morris Brandybaß fluchte dazu in allen
+Angreifer, und Morris’ Brandybaß fluchte dazu in allen
 unschönen Tonarten.
 
 Als wir schließlich Miß Hamilton, die sich verzweifelt
@@ -723,7 +723,7 @@ stolz:
 
 »Mr. Horter, Kaptain Morris hat mir gar nichts
 zu befehlen … Ich habe Sie hier erwartet, — er aber
-hatte mich davongejagt, obwohl ich ihnen doch außerordentlich
+hatte mich davongejagt, obwohl ich Ihnen doch außerordentlich
 wichtige Dinge zu melden habe.«
 
 »Was«, fragte Harst kurz.
@@ -783,7 +783,7 @@ sich nicht so leicht wieder zerstreuen ließ.
 Balder Pikull flüsterte mir zu: »Weshalb läßt
 Mr. Horter den Toten nicht photographieren? Die photographische
 Aufnahme am Tatort ist doch Anfang und Ende aller kriminalistischen
-Weisheit."
+Weisheit.«
 
 Spottete er?! — Wenn ja, dann verhöhnte er seinen
 eigenen Beruf. — Und laut fragte er: »Mr. Horter, ein
@@ -841,12 +841,12 @@ mit goldenem Rand geöffnet hin. »Es sind noch drei
 Brasil darin … Bedienen Sie sich …«
 
 Die an sich scheinbar bedeutungslose Szene lockte
-Wilkiens uns mich näher heran. Auch Pikulls Untergebene
+Wilkiens und mich näher heran. Auch Pikulls Untergebene
 reckten die Hälse wie hungrige Kraniche.
 
 Harst nickte zufrieden. »Drei Brasil … — Und wie
 viele steckten Sie zu sich, als Sie heute abend hier
-den Dienst aufnahmen:
+den Dienst aufnahmen?«
 
 In des fetten Polizeichefs schwammigen Zügen zeigte
 sich eine steigende Unruhe. Er schob die Unterlippe
@@ -857,7 +857,7 @@ angestrengt nachdachte. »Sechs!«, platzte er hervor,
 weshalb Sie …«
 
 Harst winkte schroff ab. »Eine andere Sache also
-… Die Zigarren kommen später an die Reihe, Kaptain
+… Die Zigarren kommen später an die Reihe. Kaptain
 Morris schickte Sie nach Hause, nachdem Kollege Schrott
 und ich kaum über die Mauer gestiegen waren. Sie gingen
 nicht nach Hause, sondern erwarteten uns an der Bohlenbrücke
@@ -888,7 +888,7 @@ zurück und wurde blaurot im Gesicht.
 »Die Flecken rühren von vorgestern her, als ich …«
 
 Aber diese lahme Lüge ward ebenso jäh widerlegt.
-»Von vorgestern?! So?!«   Harst sprach ohne jede Erregung.
+»Von vorgestern?! So?!« Harst sprach ohne jede Erregung.
 Seine grauen Augen hielten den unsicheren Blick Pikulls
 fest. »So, von vorgestern?! Da hatten wir trockenes
 Wetter, da wurde gerade der Diebstahl in der Arsani-Villa
@@ -897,22 +897,22 @@ Sie von dem Diebstahl erst um drei Uhr morgens, also
 am 7. Juli morgens, Mr. Pikull, und da haben Sie nichts
 weiter getan als den Park abgesucht, nachdem Sir Hastings
 Oldaman, der unglückliche Bräutigam, bewußtlos aufgefunden
-worden war … Um 8. vormittags meldete sich dann jemand
+worden war … Am 8. vormittags meldete sich dann jemand
 bei Kaptain Morris und gab verschiedenes zu Protokoll.
 Am 9. wurde mir die Untersuchung des Falles übertragen,
-heute haben wir dein 10. Juli, Mr. Pikull. *Vorgestern*
+heute haben wir den 10. Juli, Mr. Pikull. *Vorgestern*
 ist also ein Zeitpunkt, der sehr unglücklich gewählt
 ist.«
 
 Der Polizeichef vom Krager-Distrikt schnappte
 nach Luft.
 
-»Ich … ich habe mich natürlich versprochenen,
+»Ich … ich habe mich natürlich versprochen,
 Mr. Horter … Ich meinte gestern … Gestern nacht kletterte
 ich an der Mauer empor …« Sein weinerlicher Ton war
 wenig dazu angetan, seine Aussage glaubwürdiger zu
 machen. Mit einer verzweifelten Geste fügte er ohne
-jeden Zusammenhang hinzu! »Lieber Himmel — — fünftausend
+jeden Zusammenhang hinzu: »Lieber Himmel — — fünftausend
 Dollar — — fünftausend Dollar!! Man bedenke — fünftausend
 Dollar!«
 
@@ -924,7 +924,7 @@ Stimme klang verändert, als er nun sagte: »Ach so —
 Mr. Pikull. Trotzdem, die Sache mit der Zigarre ist
 aufklärungsbedürftig.«
 
-Die Fettonne Pikull war wie »ein kollernder Truter.
+Die Fettonne Pikull war wie ein kollernder Truter.
 »Was wollen Sie nur immer von meinen Zigarren?! Die
 gehen Sie gar nichts an, trotz Ihrer umfassenden Vollmachten.
 Sollen etwa wir Polizeichefs der Außendistrikte auch
@@ -1128,14 +1128,14 @@ Schüsse abgegeben.«
 
 »Wer sagte das?!« Harst markierte ein maßloses
 Erstaunen. »Etwa ich?! Ich habe lediglich geäußert,
-Sie seien zur gleichen Zeit wie Schrott und ich in
+Sie seien zur gleichen Zeit wie Schrott und ich im
 Park gewesen, und das stimmt.«
 
 Der Polizeichef, den eine leicht herstellbare
 Gedankenverbindung an seine mit Mauerweiß beschmutzten
 Gummimantelärmel denken ließ, erhob die Arme, drehte
 sie nach innen, betrachtete die Flecken mit einer halb
-scherzhaften Wehmut und meinte anklagend? »Gerechter
+scherzhaften Wehmut und meinte anklagend: »Gerechter
 Himmel — — fünftausend Dollar, und ich habe eine Frau
 und fünf Kinder und eine Schwiegermutter im Hause!!
 Und gerade dieser alte, liebenswürdige Drache sagte
@@ -1165,7 +1165,7 @@ Harald ging zu ihm und reichte ihm die Hand.
 ab … Jede brave Tat findet ihren Lohn. Und jetzt gehen
 Sie getrost heim und grüßen Sie Ihre Schwiegermutter
 von mir. Vorläufig weiß ich genug. Wir müssen auch
-einmal daran denken, daß der Mensch schlaf braucht
+einmal daran denken, daß der Mensch Schlaf braucht
 … Gute Nacht, Mr. Pikull.«
 
 Draußen schien die Sonne und er sagte »Gute Nacht«.
@@ -1203,7 +1203,7 @@ Ring hat Ben Benson in Chicago versetzt … Morris hat
 es herausgebracht. Wenn der gute Morris ahnen würde,
 wie wichtig dieser altertümliche plumpe Wappenring
 ist, hätte er schon aus Ehrgeiz diese seltsame Spur
-weiterverfolgt. Vergleiche einmal das Wappen des Ringe
+weiterverfolgt. Vergleiche einmal das Wappen des Ringes
 mit dem der Truhe, der Schreibtischtüren, des Unterteiles
 des Uhrgehäuses und jenen beiden neu bezogenen hochlehnigen
 Ledersesseln, und du wirst feststellen, daß es genau
@@ -1218,17 +1218,17 @@ seinem Freunde Shimuto erhalten würde, treibt sich
 in Chicago ziellos umher und wird von uns hier vor
 dem Tor der Orchideen-Züchterei mit einer nicht minder
 seltsamen Halswunde tot aufgefunden und von Shimuto
-und Ethel Hamilion beerdigt, wobei das Mädchen bereits
+und Ethel Hamilton beerdigt, wobei das Mädchen bereits
 verrät, daß der Tote ihr irgendwie nahe gestanden haben
 muß. Dies alles für sich allein würde schon für einen
-halb Roman als Inhalt genügen, — wir wissen, daß die
+halben Roman als Inhalt genügen, — wir wissen, daß die
 andere Hälfte dieses Romans nicht minder blutig, rätselhaft
 und vieldeutig ist.« Er schritt zu dem Kaminsessel
 und warf sich müde hinein, griff nach einer Zigarette
 und stützte das Kinn in die Linke. »Ich bin abgespannt,
 das gebe ich ohne weiteres zu, aber du kennst mich
 ja: Bin ich erst einmal auf einer Fährte, so packt
-mich das Jagtfieber und das Schlafbedürfnis sinkt bis
+mich das Jagdfieber und das Schlafbedürfnis sinkt bis
 auf den Gefrierpunkt … Nicht wahr, die Wappen sind
 doch dieselben?«
 
@@ -1238,17 +1238,17 @@ wie er.
 Er nickte unmerklich. »Ja — und wir alle hier
 innerhalb der Mauern dieser Farm sind auch in gleicher
 Weise gefährdet, was ich dir nicht verschweigen möchte.
-Ich gab Morris vorhin den Austrag, vier von unseren
+Ich gab Morris vorhin den Auftrag, vier von unseren
 Leuten herauszuschicken, damit sie die Züchterei aus
 sicherem Versteck dauernd im Auge behalten. Ob es viel
-helfen wird, bezweifel ich. Der Boden ist hier mit
+helfen wird, bezweifele ich. Der Boden ist hier mit
 Dynamit gedüngt, könnte man sagen. Ich weiß nicht recht,
 wo ich zupacken soll, um die Gefahr zu beseitigen.
 Zunächst hatte ich wohl Balder Pikull im Verdacht,
 aber das ist ein sehr bedauernswertes Mastferkelchen,
 den locken in der Hauptsache die fünftausend Dollar,
 die Mr. Arsani als Belohnung für die Wiederherbeischaffung
-der Hochzeitsgeschenke ausgestzt hat und die er einsäckeln
+der Hochzeitsgeschenke ausgesetzt hat und die er einsäckeln
 möchte, weil Schwiegermutter daheim das habgierige
 Zepter schwingt. Nein, Pikull feuerte im Arsani-Park
 nicht auf uns, Pikull ist nicht Sir Hastings Mörder
@@ -1301,7 +1301,7 @@ Er sog träumerisch an seiner Zigarette.
 »Was?!«
 
 »Mein lieber Alter, du verlangst zu viel. Möglich,
-dass eine Kartenlegerin dir in diesem Stadium unseres
+daß eine Kartenlegerin dir in diesem Stadium unseres
 »Falles« deine Fragen durch geschickte Redensarten
 ohne Inhalt beantworten könnte. Ich nicht. Ich könnte
 dir nur eins empfehlen: Nimm diesen »Fall Benson« nicht
@@ -1346,7 +1346,7 @@ sah.
 
 »Hallo, — hier Baby … Wollte nur mitteilten, daß
 Sir Hastings gar nicht tot ist … Die Kugel ist allerdings
-dicht am Herzen vorübergegangen, unser Arzt, den im
+dicht am Herzen vorübergegangen, unser Arzt, den ich
 mitnahm, meint, die Wunde sei sogar ganz ungefährlich.
 Bisher habe ich die Arsanis hiervon nicht verständigt.
 Was soll ich tun?«
@@ -1392,7 +1392,7 @@ Indem sah ich Harst vom Tor her langsam herankommen.
 
 »Ach nein, — Wilkiens ist nicht weg«, erwiderte
 er lässig. »Zum Glück ist er noch da … Er sucht draußen
-… in den Büschen …"
+… in den Büschen …«
 
 »Und Ethel?«
 
@@ -1401,7 +1401,7 @@ Er trat dicht an mich heran.
 »Ethel ist entflohen, mein Alter … Weylt hat einen
 Hieb über den Kopf bekommen, genau wie Hastings im
 Arsani-Park bei der Diebesjagd … Ich möchte dir etwas
-zeigen, das so ziemlich allem die Krone aussetzt …«
+zeigen, das so ziemlich allem die Krone aufsetzt …«
 
 »Was?!«, — und mein ungeduldiger Blick zwang ihn,
 der so gern mit besonderen Feststellungen zurückhält,
@@ -1578,7 +1578,7 @@ und fuhr sich mit dem Handrücken über die Stirn. »Ich
 sich innerlich den nötigen Schwung und platzte überstürzt
 heraus: »Mr. Horter, die beiden Detektive, die die
 Hochzeitsgeschenke bei Arsani bewachten, sind doch
-verschwunden,… Mr. Horter, mein Chef hat drüben ein
+verschwunden … Mr. Horter, mein Chef hat drüben ein
 eigenes kleines Landhaus neben dem Gebäude der Polizeistation
 »Kragers Kolonie«, und die Dienstwohnungen für uns
 liegen im selben Block, der noch viel mit Wald bestanden
@@ -1601,8 +1601,8 @@ der durchaus der Wichtigkeit der Sache entsprach.
 
 »Vor drei Stunden, als Sie uns nach Hause geschickt
 hatten«, erwiderte Buller geradezu bekümmert. »Glauben
-Sie, ich hatte mich ohne Grund sofort wieder hierher
-aus den Weg gemacht?! Ich bin müde genug, aber die
+Sie, ich hätte mich ohne Grund sofort wieder hierher
+auf den Weg gemacht?! Ich bin müde genug, aber die
 Geschichte ließ mir keine Ruhe …« Er schilderte nun
 genauer, wie er seinen Hund noch rasch etwas ins Freie
 gelassen habe, bevor er sich niederlegen wollte, und
@@ -1627,7 +1627,7 @@ geglückt war, eine ganz neue Spielart zu züchten, für
 die ihm dann ein reicher Liebhaber ein Vermögen bezahlte.
 Der Japaner hatte *seine* Orchidee »Pfauenauge« getauft,
 und tatsächlich: Die Pflanze hatte einen Kelch wie
-ein blaugrünes, goldumrändertes Pfauenauge … «, — Bullers
+ein blaugrünes, goldumrändertes Pfauenauge …«, — Bullers
 Begeisterung bei diesem Thema hätte ihn, der selbst
 Orchideenliebhaber war, wohl noch zu vielen gelehrten
 Auslassungen verführt, wenn Harst nicht mit trockenster
@@ -1687,13 +1687,13 @@ die vielleicht infolge ihres Vermögens von Millionen
 halb über den Gesetzen zu stehen glaubt. Glaubt!! —
 Raus mit der Sprache, Buller!! Wir sind dazu da, dem
 Gesetz Achtung zu verschaffen, und Sie können sich
-darauf verlassen, dass ich vor nichts und niemandem
+darauf verlassen, daß ich vor nichts und niemandem
 zurückschrecke. Ich werde Sie schützen, Sie werden
 nur Vorteile davon haben, daß …«
 
 … Harald hätte nichts versprechen sollen …
 
-Noch nie sah ich einen Menschen bei bellen Sonnenschein
+Noch nie sah ich einen Menschen bei hellem Sonnenschein
 so in meiner unmittelbaren Nähe sterben, wie hier John
 Buller. Noch nie konnte ich das jähe Erlöschen des
 Lebens und die grausigen Veränderungen, die das blitzartige
@@ -1775,7 +1775,7 @@ sein Herr hülfe soeben dem Mr. Houston den Park absuchen.
 »Holen Sie ihn!« befahl Harst.
 
 Ein Diener führte uns dann in ein feudales Herrenzimmer.
-Gleich darauf trat Arsani ein, ganz in schwarz gekleidet,
+Gleich darauf trat Arsani ein, ganz in Schwarz gekleidet,
 eine zierliche, fast noch jugendliche Erscheinung,
 den schwarzen Scheitel trug er fest angeklebt, der
 dunkle Schnurrbart war etwas nach oben gedreht, die
@@ -1807,7 +1807,7 @@ zurückkam.«
 
 Arsani schien überrascht … »Hat Mr. Pikull Ihnen
 davon nicht berichtet? — Es handelte sich doch um die
-Wasserversorgung der Blumenzüchtere. Vor Monaten war
+Wasserversorgung der Blumenzüchterei. Vor Monaten war
 gerade dies hier in unserem Vorort Tagesgespräch. Wissen
 Sie wirklich nichts davon?«
 
@@ -1815,11 +1815,11 @@ Harst verneinte zerstreut. »So, — die Wasserversorgung
 … Und — wie verhielt es sich damit?«
 
 »Folgendermaßen … Shimuto hatte mit großen Kosten
-einen Brunnen bohren lassen und war dabei aus eine
+einen Brunnen bohren lassen und war dabei auf eine
 Schicht Kalkstein gestoßen. Zunächst lieferte der Brunnen
 auch reichlich Wasser, aber vor etwa sieben Monaten
 war er eines Morgens vollständig leer. Das war zu derselben
-Zeit, als Shimuto das » Pfauenauge« gezüchtet hatte
+Zeit, als Shimuto das »Pfauenauge« gezüchtet hatte
 und es dann so günstig verkaufte. Er besaß nun die
 Mittel, die Bohrversuche nach Wasser an anderer Stelle
 zu wiederholen, ich wollte ihm entgegenkommen und ihm
@@ -1894,7 +1894,7 @@ er zurückhaltend.
 Harst drehte sich um und blickte Arsani versonnen
 an. »Sie empfinden meine Fragen vielleicht als taktlos
 … Ich tue nichts ohne Grund. Könnte ich die Adoptionspapiere
-einsehen?’«
+einsehen?«
 
 Arsani schoß das Blut bis zur Stirn empor.
 
@@ -1921,7 +1921,7 @@ Sie haben, Mr. Horter. Dort in der Truhe liegen sie
 … obenauf …«
 
 Über der mächtigen Truhe, die freilich in diesem
-großen Raum nicht allzu plump wirkte, war eine Kostbare,
+großen Raum nicht allzu plump wirkte, war eine kostbare,
 orientalische Decke gebreitet. Nur die geschnitzten,
 vom Alter in ihrer einstigen Färbung stark verblaßten
 Füße waren sichtbar. Sie glichen durchaus denen, die
@@ -1947,7 +1947,7 @@ Schreibtisch und öffnete sie und blätterte in allerlei
 Papieren.
 
 Ich beobachtete den Millionär. Unruhe, leise Angst
-zeigte sich in seinen fahlen Zügen. Sollte dieser Wann
+zeigte sich in seinen fahlen Zügen. Sollte dieser Mann
 etwa ein Doppelleben geführt haben, wie dies hier in
 Chikago so viele taten, die zur Unterwelt Beziehungen
 unterhielten?!
@@ -1961,7 +1961,7 @@ er näher. »Es fehlen Papiere?!«, meinte er mit schwerer
 Zunge.
 
 »Ja, gerade die Urkunden über die Herkunft ihrer
-Adoptivtochter. — Wie lautete ihr ursprünglicher Name«
+Adoptivtochter. — Wie lautete ihr ursprünglicher Name?«
 
 Der Millionär stützte sich auf die Schreibtischplatte.
 Sein Gesicht sah mit einem Male alt und verfallen aus.
@@ -1975,17 +1975,17 @@ warum kämpfte dieser Mann, in dessen Blicken trotz
 allem kein Falsch, nur stumme Qual lag?!
 
 »Nein, ich kannte ihn nicht«, sagte der feingliedrige,
-vornehme Arsani heiser. »Gehört habe ich wohl von ihm, --
+vornehme Arsani heiser. »Gehört habe ich wohl von ihm, —
 nur das!«
 
 Harst klappte die Mappe zu. »Ich fürchte, Mr.
-Arsani, Sie stehen auf verlorenem Posten … — sprechen
+Arsani, Sie stehen auf verlorenem Posten … Sprechen
 Sie sich uns gegenüber aus, — wirklich, es wäre am
 besten. Nach all den Schandtaten, die hier geschehen
 sind, läßt sich die Wahrheit nicht länger verheimlichen.
-Aber ich will andererseits nicht in sie dringen, es
+Aber ich will andererseits nicht in Sie dringen, es
 mag schwer sein, in Ihrer Lage zu einem bestimmten
-Entschluss zu gelangen. — Könnten wir Ihre Tochter
+Entschluß zu gelangen. — Könnten wir Ihre Tochter
 sehen?«
 
 Arpad Arsani war wieder Herr seiner selbst geworden.
@@ -2010,15 +2010,15 @@ die Apparate entfernt, damit Minka nicht gestört wird.«
 
 »Da taten Sie nur recht, Mr. Arsani … Ich würde
 auch unbedingt dafür sorgen, daß Ihre Tochter ihre
-Gemächer nicht mehr verläßt, andernfalls … müste ich
+Gemächer nicht mehr verläßt, andernfalls … müßte ich
 zwei zuverlässige Pflegerinnen herbeordern, und davon
 möchte ich Abstand nehmen. Genau so nachdrücklich ersuche
 ich Sie, die bewußte Mappe nicht zu erwähnen. Wir verstehen
 uns wohl, Mr. Arsani. Seien Sie jedoch überzeugt, daß
 ich alles aufbieten werde, daß die Endkatastrophe nicht
-schuldlose mit in den Strudel hineinreißt.« Er gab
-ihm die Hand,- sie blickten sich an, und Arsani meinte
-aufatmend: »Ich … danke ihnen!«
+Schuldlose mit in den Strudel hineinreißt.« Er gab
+ihm die Hand, sie blickten sich an, und Arsani meinte
+aufatmend: »Ich … danke Ihnen!«
 
 »Wir verabschiedeten uns. — still und tot lagen
 die Flure und Treppen des großen, prächtigen Hauses
@@ -2033,7 +2033,7 @@ nicht das allerbeste, und das änderte sich erst seit
 dem Tage ihrer Verlobung mit Sir Hastings, da dieser
 seine Frau mit nach England nehmen wollte.«
 
-Der Diener blickte Harst ganz sprachlos au. Daß
+Der Diener blickte Harst ganz sprachlos an. Daß
 Harst mit seiner Frage das Richtige getroffen hatte,
 bewies auch das widerwillige schwache Kopfnicken des
 Greises. Dann verbeugte er sich tief und schloß rasch
@@ -2042,7 +2042,7 @@ tuend, unser Kollege Houston, rauchte eine Zigarette
 und sagte achselzuckend: »Es war nicht eine einzige
 Patronenhülse mehr zu finden, — natürlich nicht! Sogar
 die Spuren waren wohl absichtlich zertrampelt, möglich,
-das Mr. Arsani kalte Füße hatte und sich nur Bewegung
+daß Mr. Arsani kalte Füße hatte und sich nur Bewegung
 machen wollte. Mr. Harst, das ist hier eine ganz feine
 Bande!«
 
@@ -2070,7 +2070,7 @@ Kränkung empfindet, wenn sein »Schwarm« mit in einen
 ungewissen Verdacht hineingezogen wird, und sich übellaunig
 und gereizt zeigt, dann weiß man, was die Glocke geschlagen
 hat: Verliebt, — vielleicht Liebe auf den ersten Blick,
-und die soll ja die Gefährlichste sein und meist auf
+und die soll ja die gefährlichste sein und meist auf
 dem Standesamt in ein neues Stadium treten.
 
 Daß Harst ähnliches längst durchschaut hatte,
@@ -2078,7 +2078,7 @@ war mir vollkommen klar. Er hätte sonst Houstons »Eifer«
 nicht so sanft-ironisch hervorgehoben. Möglich, daß
 er nun mit voller Absicht unserem so sehr sympathischen
 Baby einen schmerzlichen Dämpfer aufsetzen wollte.
-Aus Gefühlsroheit tat er es gewiß nicht »Lieber Houston«,
+Aus Gefühlsroheit tat er es gewiß nicht. »Lieber Houston«,
 sagte er ernst, Ethel Hamilton ist vor etwa zwei Stunden
 entführt worden.
 
@@ -2138,13 +2138,13 @@ Der kleine Weylt, den wir als Telephonwache in
 der Blumenfarm zurückgelassen hatten, überhob Harald
 weiterer Erklärungen.
 
-»Weylt rief und winkte von der Hinterpforte der
+Weylt rief und winkte von der Hinterpforte der
 Farm her. Als wir im Dauerlauf bei ihm anlangten, berichtete
 er in größter Erregung, ein Fremder, rotbärtiger Stromer
 sei auf dem Grundstück gewesen, jedoch unbekannt wohin,
 entwischt.
 
-»Kam er aus der Wichtung des großen Treibhauses?«,
+»Kam er aus der Richtung des großen Treibhauses?«,
 fragte Harald hastig.
 
 »Ja …! Ein hagerer Kerl war es …«
@@ -2162,7 +2162,7 @@ Im großen Treibhaus waren die Blütenbeutel leer.
 
 <h3>Das Maul der Orchidee.</h3>
 
-Wir gingen in Shimutos Arbeitszimner. Harst rief
+Wir gingen in Shimutos Arbeitszimmer. Harst rief
 unser Hauptquartier an und erteilte weitere Befehle.
 Wir wußten, daß der Vorort »Kragers Kolonie« in einer
 Stunde von Detektiven der Zentrale unauffällig umzingelt
@@ -2174,7 +2174,7 @@ erst einmal gründlich ausschlafen.
 
 »Auf keinen Fall nähert ihr euch der linken Reklame-Orchidee
 oder beachtet sie allzu sehr«, warnte Harst die beiden
-Wachtposten nochmals. »Andererseits denkt daran, das
+Wachtposten nochmals. »Andererseits denkt daran, daß
 John Buller aus jenem Zinkversteck erschossen wurde.
 Ich halte euch nicht für gefährdet, seid jedoch bitte
 vorsichtig. Erst abends gedenke ich den großen Endschlag
@@ -2199,7 +2199,7 @@ Gauner doch stets! Wenn Krähenschwärme in einen Baum
 dreimal einfallen wollen und wenn diese Krähen dann
 wie toll davonschießen, steckt etwas Fremdes in den
 Kronen, denke ich. — So, und nun lege ich mich schlafen
-und wünsche nur dann vor sieben Uhr gewerkt zu werden,
+und wünsche nur dann vor sieben Uhr geweckt zu werden,
 wenn etwas Neues geschehen sollte. Um sieben, Houston,
 steht auch eine reichliche Mahlzeit und etwas Trinkbares
 bereit — — nicht vergessen!!«
@@ -2213,7 +2213,7 @@ war da, und die dicke Zigarre in seinem Mundwinkel
 wippte wie das Schwänzchen einer Bachstelze, als er
 sich von Harst Bericht erstatten ließ.
 
-»Unglaublich!«, sagte er nur immer wieder, »Trotzdem
+»Unglaublich!«, sagte er nur immer wieder. »Trotzdem
 bleibt die Geschichte dunkel … Nur eins ist mir natürlich
 klar«, meinte er wieder nach einer Weile, »nämlich
 das, daß Ethel Hamilton Ben Bensons Tochter ist.«
@@ -2266,7 +2266,7 @@ den verschiedensten Verkleidungen.«
 
 Harst hatte eine Zigarette genommen, trat mit
 dem Fernglas an das Fenster hinter den dünnen Vorhang
-und blickte nach den hoben Buchen hinüber. »Der Spion
+und blickte nach den hohen Buchen hinüber. »Der Spion
 ist noch da … Das beruhigt mich. — Morris, wir wollen
 jetzt zu einem wirksamen Bluff greifen … Hier ist ein
 Haftbefehl gegen Arsani. Bringen Sie Arsani hierher.
@@ -2288,7 +2288,7 @@ Mauer.
 
 Roxy Weylt räumte den Tisch ab. Auf Harsts Frage,
 wie es mit dem Befinden Sir Hastings Oldaman stände,
-erteilte sie eine sehr erfreuliche Antwort, »Er wird
+erteilte sie eine sehr erfreuliche Antwort. »Er wird
 in kurzem genesen sein, nur seine Gemütsstimmung ist
 sehr bedrückt.«
 
@@ -2364,7 +2364,7 @@ als wir es ahnten.
 
 Auch Inspektor Wilkiens hatte sich die Köpfmaschine
 offenbar eingehender betrachtet. »Schraut«, flüsterte
-er, »der Klempner Shimps, der nachträglich diese Zinkorchidee
+er, »der Klempner Simps, der nachträglich diese Zinkorchidee
 heimlich verändert hat, wird ein Patent dafür erhalten:
 Zuchthaus, und nicht zu knapp!! Unten am Blütensack
 des Dinges ist ein Loch, — Blut und Wasser liefen also
@@ -2382,7 +2382,7 @@ hinabsteigen können. Wo, glauben Sie, befindet sich
 hier bei Shimuto dieser Zugang?« — Er wartete meine
 Antwort nicht ab. »Ich will es Ihnen sagen: In dem
 großen Gewächshaus! Wo die Diamanten in den echten
-Blütenkelchen lagen.« Ich habe den kleinen Weylt vorhin
+Blütenkelchen lagen. Ich habe den kleinen Weylt vorhin
 nochmals ins Gebet genommen, und er behauptete, der
 »Kerl« sei wahrscheinlich wieder in das Treibhaus geschlüpft.
 Harst hat ja diese Frage nicht näher erörtert, aber
@@ -2396,10 +2396,10 @@ Aber kein Staub, kein Vöglein, keine Mücke …
 Ach nein: Keuchend und japsend war der dicke Balder
 Pikull aus den Büschen hervorgetreten, so recht behaglich
 grinsend, — aber wer näher hinschaute, mußte das unruhige
-flackern seiner Augen bemerken, ebenso den etwas lauernden,
+Flackern seiner Augen bemerken, ebenso den etwas lauernden,
 gespannten Zug um den Mund.
 
-Von all den Personen, die bisher hier im dieser
+Von all den Personen, die bisher hier in dieser
 düsteren Angelegenheit als verdächtig erschienen waren,
 blieb dieses aufgemästete kleine Ungeheuer einzig und
 allein noch als stark belastet übrig. Aber Harst hatte
@@ -2442,7 +2442,7 @@ alle dann so schön beieinander hätten und auslöschen
 könnten.«
 
 Als Harst von Pikulls sehr kurzem Besuch hörte,
-sagte er nur: »Der arme Kerl tut wir leid, er befindet
+sagte er nur: »Der arme Kerl tut mir leid, er befindet
 sich in ähnlicher Lage wie Minka-Doris, — aber natürlich
 ist das keine Entschuldigung für ihn! Er bleibt Mitwisser,
 wenn auch nicht Mittäter.«
@@ -2495,7 +2495,7 @@ gebogenen Tür, durch die man in den hohlen Stiel einsteigen
 konnte, in dem kurze Steigeisen angebracht waren. Dort,
 wo der Stiel die Erde berührte und in diese noch ein
 Stück eingegraben war, hatten die erfinderischen Herrschaften
-eine Holzfalltür hergestellt, die sich nach unter öffnen
+eine Holzfalltür hergestellt, die sich nach unten öffnen
 ließ. Unter dieser Falltür ging ein ziemlich breiter
 Schacht weiter in die Tiefe hinab. Eine eiserne Leiter
 lehnte hier an der Wand, und schon nach wenigen Metern
@@ -2505,7 +2505,7 @@ Grotte, in der noch hier und dort Wasserpfützen blinkten.
 Die Luft war kalt, feucht und dumpf und legte
 sich uns schwer auf die Brust. — Harst hatte seine
 Lampe ausgeschaltet, wir standen in schwärzester Finsternis
-beieinander und horchten und späten, ob wir nicht irgendwo
+beieinander und horchten und spähten, ob wir nicht irgendwo
 verdächtige Geräusche oder einen Lichtschimmer bemerken
 konnten.
 
@@ -2515,7 +2515,7 @@ von Diebesgut aufgestapelt war. Dicht dabei lag eine
 andere Nebenhöhle, der wir uns kriechend nähern mußten,
 da Stimmengewirr und Zigarrenrauch bewiesen, daß dort
 »die Unterwelt von Kragers Kolonie« zu unlöblichem
-Tun versammelt war. Vor dem dieseitigenen Zugang dieses
+Tun versammelt war. Vor dem diesseitigen Zugang dieses
 Wohnraumes der Bande hing ein Teppich als Vorhang.
 Harst lüftete ihn etwas und ein Blick dorthinein zeigte
 uns vierzehn Gentlemen um ein paar Tische versammelt,
@@ -2560,7 +2560,7 @@ junge Geschöpf atemlos. »Kaptain Morris war bei Simps
 in der Garage, und hat sich das eine Hinterrad der
 Limousine angesehen … Harst hat den linken Reifen angestochen,
 die Messerklinge ist abgebrochen und steckte noch im
-Gummi. Shimps’ Limousine war doch die, die mit dem
+Gummi. Simps’ Limousine war doch die, die mit dem
 verstellten Scheinwerfer …«
 
 Jetzt war auch Pikull zu Atem gelangt. »Flieht,
@@ -2584,7 +2584,7 @@ eine Seitengrotte verirrten, in der — wirklich ein
 Zufall — in einem Holzverschlag Ethel Hamilton eingesperrt
 war.
 
-Da Morris mit zehn Detektiven von Shimps’ Kellern
+Da Morris mit zehn Detektiven von Simps’ Kellern
 aus ebenfalls in die Höhlen eindrang, und da von der
 anderen Seite durch das Orchideenschlupfloch zehn weitere
 Leute unter Weylts Führung uns zu Hilfe kamen, wurde
