@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">85711a99-e7ab-4c35-b91a-dffe17120d2b</entry>
+<entry key="title">Der Orchideenzüchter</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">294</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Der Orchideenzüchter
+
+Die zackige Feuersäule eines gewaltigen Blitzes zerriß die unheimliche Finsternis dieser sturmdurchpeitschten Gewitternacht wie das jäh aufzuckende Licht eines riesigen Scheinwerfers, der irgendwo in der nassen Schwärze des Himmelsgewölbes aufgestellt war.
+
+Bei dieser sekundenlangen grellen Beleuchtung erkannten drei Männer, die in triefenden Ölmänteln und leckenden Südwestern in einem Gestrüpp vor dem Tore eines hohen Holztores knieten, neben der Toreinfahrt zwei offenbar aus Eisenblech hergestellte und mit Ölfarben bemalte mindestens sechs Meter hohe  Reklameorchideen mit maulähnlichen Blütenkelchen, über denen die bekannten Blütendeckel mit ihren feinen Tasthaaren wie die Klappen über einer Falle hingen.
+
+Es war dies in der Tat eine eigentümliche Idee des alten Japaners Shimuto, der hier hoch im Norden Chicagos, dicht am Ufer des Michigan-Sees, eine Orchideenzüchterei betrieb, — immerhin eine ganz wirkungsvolle Reklame, zumal eine sehr belebte Chaussee in nächster Nähe nach einer Villensiedlung reicher Chicagoer Kaufleute vorüberführte.
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (294) Der Orchideenzüchter.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1931</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
