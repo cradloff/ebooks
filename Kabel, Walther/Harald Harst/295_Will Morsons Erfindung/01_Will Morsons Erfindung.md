@@ -217,7 +217,7 @@ zeigt Streifen … und weiter?«
 »Miß Glan erwähnte nichts von den Ratten und Mäusen«,
 meinte Wilkiens, an seiner Zigarre kauend. »Junge Damen
 mögen Leichen nicht fürchten, Ratten und Mäuse bestimmt,
-und auch sie drängten sich ängstlich an mich, als das
+und auch Sie drängten sich ängstlich an mich, als das
 Viehzeug davonraschelte. Waren denn vor einer Stunde
 keine Langschwänze hier?«
 
@@ -277,7 +277,7 @@ Mac Orbis war vierzig Jahre alt, konnte jedoch
 für einen Dreißiger gelten und galt in der Chicagoer
 Gesellschaft als »schöner Mann« und liebenswürdiger
 Plauderer. Er war Junggeselle, reich, besaß eine eigene
-Villa am Lincoln-Park, — — aber …«
+Villa am Lincoln-Park, — — aber …
 
 Über dieses »Aber« wird später noch zu reden sein.
 —
@@ -294,11 +294,11 @@ Er bückte sich und hob ein morsches Dielenstück
 empor.
 
 Darunter lagen fünf tote Mäuse und zwei tote Ratten.
-Er befühlte die Kadaver, »Auch Giftgas, auch noch warm
+Er befühlte die Kadaver. »Auch Giftgas, auch noch warm
 … Orbis starb etwa um halb elf Uhr, schätze ich.«
 
 Er beugte sich noch tiefer, kroch unter das Tischchen
-und deutet auf ein faustgroßes Loch in den Dielen.
+und deutete auf ein faustgroßes Loch in den Dielen.
 »Sieht wie ausgefault aus, ist aber künstlich hergestellt
 … Aus diesem Loch kam das Gas nach oben und verhalf
 Orbis zu einem vielleicht allzu schmerzlosen Tode.
@@ -407,7 +407,7 @@ viel zu sagen haben.«
 Den beiden langatmig Erklärungen abgeben?! Harsts
 Verschwinden bereitete mir zu große Sorge.
 
-»Sonderdezernat«, meinte ich schärfsten Tones,
+»Sonderdezernat«, meinte ich schärfsten Tones.
 »Hier links in meiner Jackentasche steckt mein Ausweis
 …«
 
@@ -423,8 +423,8 @@ lodernde Fackel hielt.
 
 Meine Lage war aussichtslos. Ich mußte dulden,
 daß sie mich nach oben schleppten, daß sie mich in
-das Mordzimmer brachten. Meine einziges Hoffnung blieb
-Wilkiens. ich wollte diesen Leuten nicht alles mitteilen,
+das Mordzimmer brachten. Meine einzige Hoffnung blieb
+Wilkiens. Ich wollte diesen Leuten nicht alles mitteilen,
 was hier vorgefallen, Harst hatte so großen Wert darauf
 gelegt, den Tod des Professors vorläufig geheim zu
 halten. Um Harst mußten wir uns eben später kümmern.
@@ -470,11 +470,11 @@ nicht einhalten. Außerdem werden Sie vorläufig hier
 bleiben, und ich werde erst nach dem Ergebnis der weiteren
 Untersuchung darüber endgültig entscheiden, ob ich
 es mit meinen Pflichten vereinigen kann, Sie zu entlassen.
-— jetzt ein paar Fragen. In wessen Auftrag bewachen
+— Jetzt ein paar Fragen. In wessen Auftrag bewachen
 Sie dieses Haus? Ich nehme an, Sie haben dazu Auftrag.«
 
 »Ja, Mr. Horter«, erklärte der Dünne höflich,
-»Wir bewachen diese elende Bude seit Jahren. Tom und
+»wir bewachen diese elende Bude seit Jahren. Tom und
 ich gehören zum Personal der Wachgesellschaft »Die
 Fackel«, die vor zwei Jahren in andere Hände überging.
 Wir sind bereits fünf Jahre bei der »Fackel«, und wir
@@ -555,7 +555,7 @@ Neues … Belohnung?!«
 »Ja. Mr. Remin hat dem fünfzig Dollar versprochen,
 der mal einen Fremden hier erwischt und …« — John Kreager
 zauderte wieder — »und den Kerl dann im Auto sofort
-zu ihm bringt. Ja, Mr, Horter, so war es, genau so
+zu ihm bringt. Ja, Mr. Horter, so war es, genau so
 hat der Rechtsanwalt zu uns beiden gesprochen, und
 Tom wird mir bestätigen, daß der alte Herr dabei ein
 Gesicht machte, als ob er des Teufels Großmutter auffressen
@@ -570,7 +570,7 @@ wichtig einzuschätzen. »In Mr. Remins Anweisungen liegt
 mithin ein Widerspruch«, sagte er mehr zu sich selbst.
 »So, — ihr beide könnt nun verschwinden. Hier habt
 ihr jeder zehn Dollar. Haltet den Mund. Eure Namen
-und Adressen werde ich mir noch schnell notieren, —
+und Adressen werde ich mir noch schnell notieren. —
 Übrigens, Sie erwähnten, »Die Fackel« habe den Besitzer
 gewechselt. Wem gehört das Unternehmen jetzt?«
 
@@ -641,7 +641,7 @@ Er säuberte sein Messer noch gründlicher, verschloß
 den Schrank, nahm ein paar Spinngewebe und breitete
 sie über das Schlüsselloch. »Wilkiens braucht hiervon
 nichts zu erfahren, wenn er auch dem Namen nach »Leiter
-des Sonderdezernats ist.— »Leiter« erinnert mich daran,
+des Sonderdezernats« ist.— »Leiter« erinnert mich daran,
 wie Mac Orbis sein Geheimlaboratorium betrat. Es gehörte
 natürlich ihm, er wird auch der Hauseigentümer sein,
 er wird noch einen Sack voll anderer Geheimnisse gehabt
@@ -668,7 +668,7 @@ das aufrecht hergerichtet war, wirkte unheimlich.
 
 Harst lachte desto gemütlicher:
 
-»Neunauflage des Hundes von Baskerville vom seligen
+»Neuauflage des Hundes von Baskerville vom seligen
 Conan Doyle …! Orbis scheint sehr viel Detektivgeschichten
 gelesen zu haben, womöglich auch unsere kleinen Abenteuer.
 Nun beschaue dir noch hier die Rädchen unter den Füßen
@@ -686,7 +686,7 @@ den Flur auf die Straße hinaus und kehrte erst nach
 mehreren Minuten ganz atemlos zurück. »Weylt hat eine
 Limousine bemerkt«, erklärte er in abgerissenen Sätzen.
 »Großer, dunkler, eleganter, Wagen … Vermummter Kerl
-am Steuer … Die Leiche ist gestohlen worden. »Weshalb?!«
+am Steuer … Die Leiche ist gestohlen worden. Weshalb?!«
 
 Er beleuchtete den Fußboden: »Hm, — — unvorsichtig
 … Es regnet draußen noch … Da, eine Spur … Da — noch
@@ -723,7 +723,7 @@ befinden uns ja noch im Anfangsstadium dieses Falles
 »Wie willst du die Untersuchung fortsetzen?«
 
 »Wie?! — Sofort — — in der Villa des großen Damenfreundes
-Mac Orbis, —Aber ich muß dir noch etwas vorhalten,
+Mac Orbis. — Aber ich muß dir noch etwas vorhalten,
 was vielleicht wesentlicher ist als die Frage nach
 der Fortsetzung der Ermittelungen. Bedenke: Nicht der
 Mörder holte den Toten, sage ich, und ich könnte es
@@ -759,7 +759,7 @@ Stromer von dem Hunde gebissen worden seien, Veranlassung
 genommen, das Haus durch Detektive zu durchsuchen und
 zu bewachen. Nichts sei dabei herausgekommen.
 
-Harst hätte ihm erwidern können, das es trotzdem
+Harst hätte ihm erwidern können, daß es trotzdem
 im Keller vier verstaubte Schränke gäbe, die das Geheimnis
 dieses Gebäudes darstellten. Er schwieg. Er nahm Wilkiens
 und Houston mit, und zu vieren fuhren wir gegen zwei
@@ -802,11 +802,11 @@ gesichert. — Das alles war für uns kein Geheimnis mehr.
 Und da ich nun gerade bei der »Villa Orbis« bin,
 möchte ich hier noch gleich anführen, wie das Sonderdezernat
 von Mac Orbis’ übertriebener Sucht nach »Bewegungsfreiheit«
-erfuhr. — Der alte Satz, das zweifelhafte Gentlemen
+erfuhr. — Der alte Satz, daß zweifelhafte Gentlemen
 zuweilen allzu vorsichtig sind, fand auch hier erneute
 Bestätigung. In dem einen Nachbarhause wohnte ein greiser,
 halb erblindeter, menschenscheuer Privatgelehrter namens
-Gerald Morson, der in seinem nach Osten zu gelegenen
+Gerald Morson, der in seinen nach Osten zu gelegenen
 Mansardenstuben zwischen Stößen von Büchern, Katzen
 und Kanarienvögeln ein wahres Einsiedlerleben führte.
 Unter anderem befaßte er sich auch mit Astronomie und
@@ -831,7 +831,7 @@ sich am sechsten Tage zu Kaptain Morris, dem einzigen
 Oberbeamten der Chikagoer Detektiv-Zentrale, der über
 das Sonderdezernat und uns genau Bescheid wußte, und
 teilte Morris das Beobachtete mit, wurde von dem Kaptain
-zu strengsten Stillschweigen verpflichtet und entlassen.
+zu strengstem Stillschweigen verpflichtet und entlassen.
 — Da nun seit langem Bankraube, Erpressungen und Diebstähle
 sich wieder in der Michigan-Metropole bedrohlich gehäuft
 hatten, so daß die Zentrale und das Sonderdezernat
@@ -894,7 +894,7 @@ nach war sie dreißig Jahre alt und stammte aus Kopenhagen.
 Begreiflich also, daß wir der ersten Begegnung
 mit Fräulein Helga mit einigem Interesse entgegensahen.
 
-In der Villa war alles dunkel. Mann schien dort
+In der Villa war alles dunkel. Man schien dort
 fest und ahnungslos zu schlafen, denn es dauerte gut
 zehn Minuten, bevor uns die schwere, eichene Haustür
 von einem gähnenden Chinesen in gestepptem, schlafrockähnlichem
@@ -1008,7 +1008,7 @@ schnell.
 »Oh, dann hätten Sie mir nicht nur Ihre Namen
 nennen müssen«, sagte der Asiate bedauernd. »Ich habe
 mit der Polizei noch nie etwas zu tun gehabt, und ich
-würde das Signal unbeachtet gelassen haben, wenn im
+würde das Signal unbeachtet gelassen haben, wenn ich
 gewußt hätte, daß …«
 
 Harst unterbrach ihn ironisch. »Sie reden wie
@@ -1043,7 +1043,7 @@ auf eine Platte des Parkettbodens. »Wenn Miß Janson
 den Sessel zurückgeschoben hat, berührten die hinteren
 Füße die dunkle Rille, in der ein Metallstab liegt,
 ein Kontakt, Mister. Dann läutet in der Vorhalle eine
-der sechs Glocken, die jede einen andere Ton hat. Die
+der sechs Glocken, die jede einen anderen Ton hat. Die
 Glocke Nr. 3 schlug an, und das hieß für mich, das
 Licht auszuschalten. Der Hauptschalter befindet sich
 in der Halle. — Es ist dies genau so ein Befehl, als
@@ -1063,14 +1063,14 @@ ist: Schweigen, gehorchen und sich über nichts wundern!«
 aber gründlich gewundert haben«, erlaubte ich mir zu
 bemerken.
 
-Er nickte. »Gewiß. Ich hatte diese Stellung auch
+Er nickte. »Gewiß. Ich hätte diese Stellung auch
 längst aufgegeben, wenn ich irgendwie hätte vermuten
 können, daß mein Herr und Miß Janson vielleicht dunkle
 Dinge treiben. Ich habe davon nie etwas bemerkt.«
 
 »Harmloses Gemüt!!«
 
-Er beeilte sich fortzufahren: Gewiß, gewiß, —
+Er beeilte sich fortzufahren: »Gewiß, gewiß, —
 zum Beispiel diese Versenkungen in allen Zimmern und
 vieles andere gaben mir zu denken, Mister. Mein Herr
 nannte sie stets mechanische Spielereien.«
@@ -1091,11 +1091,11 @@ Der brave Seraphim, der natürlich ein ganz geriebener
 Halunke war, erklärte genau so sachlich: »Ähnliche
 Versenkungen gibt es in allen Erdgeschoßräumen.«
 
-Ich hatte den »Zettel ergriffen. Darauf stand
+Ich hatte den Zettel ergriffen. Darauf stand
 mit Bleistift in steilen, selbstbewußten Buchstaben:
 
 > »Mr. Horter, jede weitere Unterredung zwischen
-uns hätte nur zu Mißverständnissen rühren müssen. Ich
+uns hätte nur zu Mißverständnissen führen müssen. Ich
 kenne weder ein Haus des toten Hundes, noch gehört
 das Haarkämmchen mir. Ich habe nie ein solches verloren.
 — Sie werden noch von mir hören.
@@ -1158,7 +1158,7 @@ ich die knappe Schilderung der letzten Vorgänge. Wir
 standen in einer Ecke und flüsterten sehr leise. Seraphim
 stand noch unweit des Fensters. Ich behielt ihn scharf
 im Auge und hätte geschossen, wenn er auch nur den
-Fuß bewegt hatte. Aber er rührte sich anscheinend nicht.
+Fuß bewegt hätte. Aber er rührte sich anscheinend nicht.
 
 »… Diese Villa ist eine Räuberhöhle«, brummte
 der Inspektor. »Sobald Morris mit seinen Leuten zur
@@ -1227,7 +1227,7 @@ Ich zog sie in die Halle.
 
 »Hört mich an …! Hört genau hin! — Gerald Morson
 tut, als wäre er halb blind, er trägt eine blaue Brille,
-aber — — Er ist Astronom, hat ein Fernrohr! — Ein Halbblinder
+aber — — er ist Astronom, hat ein Fernrohr! — Ein Halbblinder
 als Astronom?! Wie reimt sich das?!«
 
 Auch Houston war zu uns getreten.
@@ -1301,11 +1301,11 @@ an dieser Leiter stieg flink und eiligst ein junger
 Mensch mit Schlappmütze hinunter und verschwand in
 dem vergitterten Luftloch, schaute jedoch nochmals
 nach oben, und sprachlos vor Staunen erkannte ich Dorotty
-Glan mir so vertraute, hübsche Züge.
+Glans mir so vertraute, hübsche Züge.
 
 Ich sprang zurück, jagte die Treppen hinab, —
 ich mußte Dorotty noch abfassen, ihr Aufenthalt hier
-bei Gerald Morson mußte einwandfrei aufgeklart werden
+bei Gerald Morson mußte einwandfrei aufgeklärt werden
 …
 
 Ich kam zu spät. Ein Sportwagen sauste bereits
@@ -1404,8 +1404,8 @@ Gegenwart den Unbekannten und erklärte, dessen Zustand
 sei in keiner Weise besorgniserregend.
 
 »… Große Schwäche, herbeigeführt durch schlechte
-Ernährung und Genuß von Opiaten (Rauschmitteln)«. Lautete
-sein abschließendes Urteil, »Sorgfältige Pflege, Ruhe
+Ernährung und Genuß von Opiaten (Rauschmitteln)«, lautete
+sein abschließendes Urteil. »Sorgfältige Pflege, Ruhe
 und ein Bad werden den Kranken sehr bald auf die Beine
 bringen.«
 
@@ -1438,7 +1438,7 @@ daß jede Gefahr beseitigt sei.«
 Er überhörte meine Bemerkung.
 
 »Ich habe zu … dem Herrn von vorhin das allergrößte
-Vertrauen, Mr. Schrott’, entgegnete er lediglich, behutsam
+Vertrauen, Mr. Schrott«, entgegnete er lediglich, behutsam
 jedes Wort abwägend. »Ich weiß nicht, was er damit
 meinte, daß die »Ursache allen Übels« ausgetilgt sei
 … Jedenfalls drückte er sich so aus.«
@@ -1465,9 +1465,9 @@ Schreck verwandelte sich in heiligen Zorn.
 »Sie … Sie haben mich ausgehorcht!«, — und nie
 hätte ich dieser Greisengestalt eine so kraftvolle
 Stimme zugetraut. »Das war — — infam von Ihnen!! Gehen
-Sie!!« Gehen Sie!! Sie sollten Ehrfurcht haben vor
+Sie!! Gehen Sie!! Sie sollten Ehrfurcht haben vor
 meinem weißen Haar und vor der Tragik, die meine letzten
-Jahre erfüllte! Gehen Sie«
+Jahre erfüllte! Gehen Sie!«
 
 Ich fühlte mich beschämt, und mit stummer Verbeugung
 verließ ich das Zimmer.
@@ -1487,7 +1487,7 @@ letzten heißen Abenteuers genesen war. Aber Benno trug
 doch bereits wieder seine geliebten grünen Krawatten
 und grünen Seidensocken.
 
-»Nanu, wie kommen Sie hierher, Sie Kugelsieb?*,
+»Nanu, wie kommen Sie hierher, Sie Kugelsieb?«,
 sagte der Hüne Wilkiens brummig.
 
 Smith, von beneidenswerter Gemütsruhe, erwiderte
@@ -1514,14 +1514,14 @@ Zigarre genannt.
 
 Morris schlug etwas anderes vor. »Wissen Sie,
 Schraut, wir haben das Strandbad am Lincoln-Park so
-nah?… Wie wäre es damit?! Und dann hinterher eine Tasse
+nahe … Wie wäre es damit?! Und dann hinterher eine Tasse
 Mokka, einen Happen und eine Sumatra, schwarz wie das
 Gewissen dieses Engels Seraphim, der da wie ein Höllengeist
 in die Tiefe fuhr!«
 
 Morris bevorzugte Scherze mit zweifelhaften Vergleichen.
 
-Wir Schlenderten also hinüber zum prächtigen Lincoln-Park.
+Wir schlenderten also hinüber zum prächtigen Lincoln-Park.
 Über dem Michigan-See, diesem Binnenmeer Amerikas,
 lagerte ein ganz feiner bläulicher Morgendunst, der
 entfernt an den berühmten blauen Christiania-Fjord
@@ -1547,7 +1547,7 @@ aber auch sie behagten mir nicht.
 Als ich jetzt vom Wasser aus nach dieser Verfolgerkohorte
 Ausschau hielt, sagten Morris und Wilkiens fast gleichzeitig:
 »Verderben Sie sich nicht die Augen, Schrautchen,
-— Sie sind da!«
+— sie sind da!«
 
 Kaptain Morris faßte die Geschichte nicht sehr
 tragisch auf. »Wenn dieser Professor Mac Orbis wirklich
@@ -1568,9 +1568,9 @@ ein wenig umher, und um keinen Verdacht zu erregen,
 kümmerten wir uns um die »Arbeiter« und um den »Touristen«
 nur gerade so viel, als es unsere eigene Sicherheit
 erforderte. — Der dicke »Reisende« mit den großgemusterten
-Knickerbockers und den typischen englischen Großkrämer-Gesicht
+Knickerbockers und dem typischen englischen Großkrämer-Gesicht
 hatte sich abseits gestellt und seine photographische
-Kamera gen Südost auf die Wolkenkratzer-Front dar City
+Kamera gen Südost auf die Wolkenkratzer-Front der City
 eingestellt und machte Aufnahmen, oder tat doch wenigstens
 so. Der Bursche war nicht mehr jung, sein schwammiges,
 rotes Gesicht war von einem dünnen, leicht ergrauten
@@ -1593,7 +1593,7 @@ Morris wurde jetzt nervös. Wir wollten in die
 North-Clarke Street einbiegen, er hielt uns zurück.
 »Ich möchte warten«, sagte er finster, »die Bürschchen
 haben ein Auto in der Nähe … Was das bedeutet, wißt
-ihr: Ein Maschinengewehr, ein Trommelwirbel vom Schüssen,
+ihr: Ein Maschinengewehr, ein Trommelwirbel von Schüssen,
 und unsere Seelen fahren gen Himmel! *Ich* lasse mich
 nicht so abschlachten!«
 
@@ -1631,7 +1631,7 @@ man halb Chicago eine vergnügte Nacht bereiten, — Wilkiens
 sagte denn auch anerkennend: »Großzügig, äußerst großzügig,
 dieser Professor Mac Orbis!! Aber — wer hat ihn umgebracht?!«
 Er schielte mich dabei von der Seite an und verlangte
-offenbar vom mir eine Antwort, mit der ich ihm auch
+offenbar von mir eine Antwort, mit der ich ihm auch
 prompt dienen konnte.
 
 »Lieber Wilkiens, spielen Sie doch nicht den Ahnungslosen!
@@ -1676,14 +1676,14 @@ in einem Atem.
 
 Ich möchte hier eine Bemerkung einschalten, die
 mit dem Fall Morson selbst nur wenig zu tun hat. In
-einer durchaus ernst zu nehmenden großen Tageszeitung’
+einer durchaus ernst zu nehmenden großen Tageszeitung
 las ich seiner Zeit, als wir gerade aus Chicago heimgekehrt
 waren, einen Bericht eines reisenden Journalisten über
 die Michigan-Metropole. Der Bericht liegt neben mir.
 Es heißt darin unter anderem, daß viele Leute in Chicago
 die Gangsters, ihre Banden, deren angebliche Mordtaten
 und Verbrechen und Verstecke für bloße Reportererfindung
-halten und das die große Masse der Chicagoer von dem
+halten und daß die große Masse der Chicagoer von dem
 Treiben der Unterwelt gar nichts merkt: Der Schreiber
 des Artikels läßt durchblicken, daß auch er die »Schauermärchen«
 aus der »Stadt der Winde« nicht recht glaubt. Im gleichen
@@ -1696,7 +1696,7 @@ den Tod. — Was soll man zu einer derartig oberflächlichen
 Behandlung eines die ganze Welt bewegenden Themas wohl
 sagen?! Sie ist mild gesagt läppisch und zeigt Dinge
 in einem völlig schiefen Licht, die durch Redensarten
-weiß Gott nicht beseitigt werden:
+weiß Gott nicht beseitigt werden.
 
 Dies gleichzeitig als Vorspruch zum folgenden. —
 
@@ -1705,9 +1705,9 @@ in der Michigan-Avenue wohnte, war ein älteres Haus
 mit langem Seitenflügel, der schamhaft (wie bei uns
 in Germany) Gartenhaus tituliert wurde. Im ersten Stock
 dieses Gartenhauses, dessen Fenster einen Wolkenkratzer
-und einen »Garten« mit fünf Bäumen und einen Springbrünnlein
+und einen »Garten« mit fünf Bäumen und einem Springbrünnlein
 als Aussicht hatten, lebte die verwitwete Frau Anna
-Marbis seit vielen Jahren, — Als Wilkiens und ich dort
+Marbis seit vielen Jahren. — Als Wilkiens und ich dort
 an der Flurtür läuteten, öffnete Dorotty Glan uns persönlich,
 erkannte uns auch sofort wieder und konnte nur mühsam
 ihr tiefes Erschrecken verbergen. Ihre Verstörtheit
@@ -1819,7 +1819,7 @@ Die Frau da war in der Tat ein Dämon, war trotzdem
 machtlos, — nur die Stimme blieb ihr, diesem wilden
 Haß Ausdruck zu verleihen.
 
-»Betrüger — — Schwindler — — Schuft …!!«, *Die*
+»Betrüger — — Schwindler — — Schuft …!!«, — *Die*
 Stimme ließ mich zusammenzucken.
 
 Und dann — das noch Erstaunlichere, — fast ein
@@ -1835,7 +1835,7 @@ unseren Stühlen hin und sagte ganz sanft:
 
 »Ich werde Ihnen zu helfen versuchen … Meine liebe
 Dorotty, ich habe dich stets gewarnt, nie die Sicherheitskette
-loszuhaken. Jugend in leichtfertig.«
+loszuhaken. Jugend ist leichtfertig.«
 
 Neben ihrem Stuhl lehnten zwei Krückstöcke mit
 Gummizwingen. Sie ergriff sie, raffte sich auf, rutschte
@@ -2005,11 +2005,11 @@ begegnet ist.
 Erst als Wilkiens eine ungeduldige Kopfbewegung
 machte, beeilte sie sich, uns die Knebel abzunehmen
 und die Strickknoten zu lösen. Sie begann damit bei
-ihrer Nichte, und kaum war diese Frei, als sie auch
+ihrer Nichte, und kaum war diese frei, als sie auch
 schon in Wilkiens Tasche faßte, den Flurschlüssel an
 sich nahm und aus dem Zimmer eilte. Wir hörten Dorotty
-durch den Flur flüchten, —« dann folgte ein halb erstickter
-Schrei, und Frau Morbis sagte entsetzt:
+durch den Flur flüchten, — dann folgte ein halb erstickter
+Schrei, und Frau Marbis sagte entsetzt:
 
 »Was bedeutet das nun wieder?!«
 
@@ -2017,7 +2017,7 @@ Dann erst befreite sich mich, und ich leistete
 Wilkiens etwas flinker denselben Dienst.
 
 Wie gesagt: Wilkiens war eine raue Seele, und
-das er jetzt sofort zupackte und Frau Marbis den Stuhl
+daß er jetzt sofort zupackte und Frau Marbis den Stuhl
 unter dem Leibe wegzog, wobei er sie mit seinen Riesenkräften
 noch ein Stück emporhob, war nicht gerade sehr nett
 von ihm, in diesem Falle jedoch ein durchaus praktisches,
@@ -2028,7 +2028,7 @@ Wollte die Marbis sich nicht bei diesem Sturz
 ihrer Lahmheit aufgeben, — und das tat sie.
 
 So viel Energie und rasches Abwägen aller Möglichkeiten
-besaß sie doch nicht, — sie stand plötzlich Kerzengerade
+besaß sie doch nicht, — sie stand plötzlich kerzengerade
 vor uns, und sie hatte bei dem Versuch, das Gleichgewicht
 nicht zu verlieren, so viel körperliche Geschmeidigkeit
 bewiesen, daß Wilkiens jetzt gar kein Federlesen mehr
@@ -2085,7 +2085,7 @@ entgehen lassen.
 ausfliegen wollte.«
 
 Dann stand Dorotty Glan mit hängenden Armen und
-hängenden Köpfchen trostlos schluchzend vor uns.
+hängendem Köpfchen trostlos schluchzend vor uns.
 
 Morris schaute sich die hagere alte Dame an, die
 jetzt wieder in derselben hochmütig-verstockten Haltung
@@ -2099,12 +2099,12 @@ den Professor ermordet?!«
 Dorotty Glan weinte heftiger und wandte den Kopf
 ab.
 
-Frau Anna Morbis musterte den stiernackigen Kaptain
+Frau Anna Marbis musterte den stiernackigen Kaptain
 der Detektiv-Zentrale mit ungeheurer Verachtung.
 
 »Sie sind ein Narr!«, sagte sie nur.
 
-»Mag sein … Kinder und Narren, reden die Wahrheit.
+»Mag sein … Kinder und Narren reden die Wahrheit.
 — Vorhin ließ mir Mr. Horter vom Sonderdezernat, auch
 Elite genannt, weil Eigenlob so schön duftet, einen
 Zettel zustecken, und daraufhin sauste ich zum St.
@@ -2161,7 +2161,7 @@ dich nie verraten, nie!«
 
 Die herrische Natur dieser grauhaarigen Frau wurde
 durch nichts besser belegt, als durch ihr jetziges
-Benehmen. Bedenkt man, das Anna Marbis soeben erst
+Benehmen. Bedenkt man, daß Anna Marbis soeben erst
 nicht nur des raffinierten Schwindels, die Halbgelähmte
 gespielt zu haben, und weiter zumindest doch der Beiseiteschaffung
 der Leiche eines Ermordeten überführt worden war, so
@@ -2178,11 +2178,11 @@ Morris sagte denn auch sehr entschiedenen Tones:
 »Miß Glan, ob sie etwas verraten wollen oder nicht,
 darum wird sich der Mann, der hier offenbar bereits
 alle Fäden in der Hand hält, kaum kümmern. Er geht
-seinen Weg mit der Präzison eines Uhrwerk, dieser Mr.
+seinen Weg mit der Präzision eines Uhrwerk, dieser Mr.
 Horter, und es müßte schon ein sehr geriebenes Füchslein
 sein, das ihm entschlüpft. — Und was Sie betrifft,
 Frau Marbis: Mit dem unheilvollen Einfluß auf dieses
-junge Mädchen ist es jetzt zu Ende, das für alle Zeit
+junge Mädchen ist es jetzt zu Ende, das hat für alle Zeit
 aufgehört.«
 
 Anna Marbis hob die Schultern. »Das alles sind
@@ -2282,11 +2282,11 @@ und dieser Name Jermin Street 11.
 
 Frau Anna Marbis verfärbte sich, ihr Mund öffnete
 sich zu dem Anfang eines heiseren Schreies, den die
-Dame mühsam unterdrückte, ihre Beine zitierten, sie
+Dame mühsam unterdrückte, ihre Beine zitterten, sie
 tastete nach einem Stuhl und sank schwerfällig hinein.
 
 Es war sehr bedeutungsvoll, Dorotty Glan bei dieser
-Szene zu beobachten. Sie ließ kein Auge von ihres Tante,
+Szene zu beobachten. Sie ließ kein Auge von ihrer Tante,
 und der Ausdruck sprachlosen Staunens, den ihre Augen
 verrieten, wandelte sich jäh in heißen Schreck. Auch
 sie erbleichte, und der Aufruhr in ihrem Inneren preßte
@@ -2296,7 +2296,7 @@ ihr gegen ihren Willen die Worte über die Lippen: »Auch
 Wie eine Furie flog Frau Marbis hoch. »Halte den
 Mund, du … Betrügerin!! Also bei diesem alten Idioten
 von Morson warst du!! Umbringen könnte ich dich, —
-du allein bist an allem Schuld, und ein wahres Glück
+du allein bist an allem schuld, und ein wahres Glück
 ist, daß diese Schnüffler hier von …«
 
 Eine andere Stimme übertönte ihr haßerfülltes
@@ -2315,7 +2315,7 @@ in dem großen Panzerwagen noch weiter nach Süden zur
 Jermin Street. Unterwegs sagte Wilkiens brummig und
 an seiner Zigarre lutschend zu der finster schweigenden
 alten Dame, deren Alterserscheinungen allerdings nur
-in Äußerlichkeiten bestanden: Eine praktische Wohnung
+in Äußerlichkeiten bestanden: »Eine praktische Wohnung
 haben Sie, weiß Gott … Der Seitenflügel stößt an das
 Nachbarhaus, und der große Schrank in Ihrem Schlafzimmer
 ist die Verbindung zu der Behausung einer gewissen
@@ -2326,7 +2326,7 @@ als Beweis dafür, daß er es nicht mehr für nötig hielt,
 irgend etwas zu verbergen.«
 
 Frau Marbis schloß die Augen und wurde noch um
-einen Schein bleicher
+einen Schein bleicher.
 
 <h2>8. Kapitel.</h2>
 
@@ -2337,7 +2337,7 @@ Sie liegt halb im Ghetto von Chicago, und Trödlerläden,
 billige Restaurants, grellbunt bemalte Kinos und zweifelhafte
 Cafes geben ihr ein besonderes Gepräge.
 
-Am Nordende der Straße hielt wie unser Auto vor
+Am Nordende der Straße hielt unser Auto vor
 einem auffallend sauberen vierstöckigen Haus mit Toreinfahrt.
 Das Tor hatte eine eingefügte Pforte, und dort lehnte
 der kleine, geschmeidige Weylt, Frau Roxys heißgeliebter
@@ -2363,14 +2363,14 @@ Ausdruck brutaler Härte angenommen, der deutlich zeigte,
 daß dieses Weib bis zum äußersten um ihre Geheimnisse
 kämpfen würde.
 
-Es war jetzt neun Uhr, vormittags geworden. Weylt
+Es war jetzt neun Uhr vormittags geworden. Weylt
 schritt voran, wir folgten, — es ging eine schmale
 Seitentreppe aufwärts bis zum Hochparterre, wo eine
 eiserne, dunkel lackierte Tür mit zwei Kunstschlössern
 halb geöffnet uns erwartete. Hier endete auch die Treppe,
 die aus der Hofeinfahrt nur bis zu dieser Tür führte.
 Weylt riß die Eisentür auf, dahinter war eine zweite,
-innen und außen gepoltert, und wir betraten ein Privatbüro
+innen und außen gepolstert, und wir betraten ein Privatbüro
 mit zwei Fenstern aus Milchglasscheiben. Zwischen den
 Fenstern stand ein sehr großer, eleganter Schreibtisch
 und ein geschnitzter Schreibsessel, — und ein halb
@@ -2398,21 +2398,21 @@ so wenig wie wir.
 
 »Ich handele hier nur auf Befehl, wie ein Automat«,
 erklärte er denn auch, ohne sich sonderlich um das
-aschfahle Gesicht der Marbis sorgen zu machen, die
+aschfahle Gesicht der Marbis Sorgen zu machen, die
 sich kerzengerade in den Schreibsessel gesetzt hatte.
 »Ich wollte das Modellbild und die Schlüssel besonders
-betonen, das habe im getan. Ferner sollte ich der telephonischen
+betonen, das habe ich getan. Ferner sollte ich der telephonischen
 Anweisung zufolge Sie darauf aufmerksam machen, Frau
 Marbis, daß …« — ein leises Lächeln zuckte um seinen
-Mund —, … daß es überflüssig wäre, mit der Fußspitze
+Mund — »… daß es überflüssig wäre, mit der Fußspitze
 auf den Dielen umherzutasten, wie Sie es jetzt tun.
 Die Versenkung funktioniert nicht mehr, Frau Marbis,
 und Ihre Hoffnung, blitzschnell in den Keller zu sausen,
 bleibt eitel.«
 
-»Das Weib fletschte die Zähne in ohnmächtigem
+Das Weib fletschte die Zähne in ohnmächtigem
 Grimm und fauchte den kleinen  Weylt dann wütend an:
-Ich weiß nichts von einer Versenkung, ich kenne dieses
+»Ich weiß nichts von einer Versenkung, ich kenne dieses
 Büro nicht, ich war noch nie hier, — das ist alles
 Unsinn!«
 
@@ -2494,7 +2494,7 @@ hierher beordert, hatte er nicht als einziger einen
 Schlüssel zu Frau Smiths Privatbüro? Ist dann nicht
 Parson mit seiner »Elite« davongezogen?«
 
-»Ja … Sommersett schluchzte fast. »Oh, — wo bekomme
+»Ja …«, Sommersett schluchzte fast. »Oh, — wo bekomme
 ich alter Mann jetzt eine andere Stellung her, wenn
 die »Fackel« auffliegt?!«
 
@@ -2507,7 +2507,7 @@ Sommersett verschwand mit strahlendem Gesicht.
 
 »So, auch das wäre erledigt, — nun fahren wir
 nach der Upton-Street 14, einem Hause, das Frau Smith
-auch gehörte. Mehr weiß ich nicht, Bitte, Frau Smith,
+auch gehörte. Mehr weiß ich nicht. — Bitte, Frau Smith,
 — vielleicht reicht Ihnen Inspektor Wilkiens den Arm
 … — Aufbruch!!«
 
@@ -2540,7 +2540,7 @@ knatterten, wir merkten nichts von Kugeleinschlägen,
 und solche Sauschützen konnten die Banditen unmöglich
 sein, daß sie nicht einmal ein Auto treffen sollten!
 
-»Wir selbst hatten zwei Gurtspucker im Wagen,
+Wir selbst hatten zwei Gurtspucker im Wagen,
 und als die zu speien anfingen, rückten die Feinde
 nicht weiter auf, zumal hinter ihnen, als peinliche
 Überraschung für sie, je zwei Polizeiautos erschienen,
@@ -2565,7 +2565,7 @@ Wilkiens, Morris und ich besichtigten das eine
 Maschinengewehr der Kerle und auch die Munition. Es
 waren tatsächlich Platzpatronen mit Holzstöpseln statt
 Kugeln, aber die Stöpsel waren sauber mit Silberfarbe
-überstrichen und konnten bei flüchtigen Hinsehen als
+überstrichen und konnten bei flüchtigem Hinsehen als
 Nickelmantelkugeln gelten.
 
 Morris sagte nachdenklich: Das ist Übungsmunition
@@ -2595,7 +2595,7 @@ Nicken und halbe Schmunzeln kannte ich.
 emporgeeilt.
 
 »Ja — ich, wer sonst?!«, meinte er listig blinzelnd.
-»Ich weiß, meine Macke als »Jim Parson«, Inspektor
+»Ich weiß, meine Maske als »Jim Parson«, Inspektor
 bei der Fackel, ist recht gut gelungen, ich besaß jedoch
 das genaue Modellbild hierzu aus Frau Smiths Tresor,
 — Frau Marbis-Smith war eben auch Parson, und deshalb
@@ -2605,7 +2605,7 @@ Glan, lassen Sie doch das Köpfchen nicht so traurig
 hängen, Ihrem heimlich Verlobten, Will Morson, geht
 es ausgezeichnet, rasiert ist er auch schon, und ein
 Kuß würde nicht mehr stechen — verzeihen Sie, oder
-küssen Sie hier verlobte nicht? — Da ist ja auch Frau
+küssen sich hier Verlobte nicht? — Da ist ja auch Frau
 Anna Marbis, — bitte treten Sie nur näher, Frau Marbis,
 Sie haben nicht mehr zu fürchten, wenigstens hier nicht,
 die letzten Burschen vom Fackel-Gang habe ich säuberlich
@@ -2644,7 +2644,7 @@ da ihm seine Unfreundlichkeit bereits leid tat.
 »Den beging Frau Helga aus Eifersucht. Ihr Mann
 war der größte Schürzenjäger Chicagos, — sie fand in
 seinen Taschen ein zärtliches Briefchen, sie wußte,
-das Mac Orbis gestern abend hier eine seiner Geliebten
+daß Mac Orbis gestern abend hier eine seiner Geliebten
 erwarten würde, übrigens eine verheiratete Frau, sie
 traf die nötigen Vorbereitungen, warnte die Nebenbuhlerin
 im letzten Moment telephonisch und vergiftete den Treulosen
@@ -2662,7 +2662,7 @@ Sohn Will Morson verschwinden ließen und ihm die Aufzeichnungen
 über seine Erfindung raubten. Die vielen Spazierfahrten,
 die Ihre Tante unternahm, erregten Ihren Verdacht,
 zumal bei diesen Fahrten Ihre Tante stets für längere
-Zeit den Wagen verließ, — Es war doch so?«
+Zeit den Wagen verließ. — Es war doch so?«
 
 »Ja. Und — so fand ich schließlich heraus, daß
 Tante stets eine einsame, kleine Farm besuchte und
@@ -2702,7 +2702,7 @@ Arbeitszimmer.
 nach Dollarika sehr bald beenden«, meinte er nach längerer
 Gesprächspause. »Morris und Wilkiens haben sich ja
 entschuldigt, aber — die leise Entfremdung wird bleiben,
-ich habe dem Oberchef bereits mitgeteilt, das wir übermorgen
+ich habe dem Oberchef bereits mitgeteilt, daß wir übermorgen
 abreisen, — ich will wieder frei sein, und außerdem
 sehne ich mich heim.«
 
