@@ -1,5 +1,3 @@
-<@pagebreak 65/>
-
 <div style="font-size: xx-large; text-align: center;">Weitere Ausgaben</div>
 <div style="font-size: large; text-align: center;">unserer Harst-Abenteuer</div>
 
