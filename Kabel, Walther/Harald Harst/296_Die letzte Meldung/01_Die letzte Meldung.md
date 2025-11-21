@@ -7,7 +7,7 @@
 Der Wanderzirkus Burnam u. Sesster, der in einem
 der östlichen Vororte Chicagos auf einem buschumgrenzten
 unbebauten Grundstück sein mittelgroßes Zelt aufgeschlagen
-und seine Wagenburg ausgefahren hatte, war auch an
+und seine Wagenburg aufgefahren hatte, war auch an
 diesem heißen Augustabend dicht besetzt gewesen. Gegen
 ein Viertel zwölf war die Vorstellung beendet. Um halb
 zwölf fand ein Policeman, der zu einer Vorortstreife
@@ -64,7 +64,7 @@ Carlson hielt den Atem an! — Da ragte ja tatsächlich
 zwischen den knallroten Lippen, die halb geöffnet waren,
 ein Stück Papier hervor!
 
-Carlson, die Ratte, kaufe kein Grauen vor Leichen.
+Carlson, die Ratte, kannte kein Grauen vor Leichen.
 
 Er zog das Papier hervor. Dabei berührte er das
 Kinn Jesse Blacks. Es war noch warm.
@@ -82,7 +82,7 @@ Zunächst nun mal der Zettel.
 
 Er war nur ein wenig feucht und zerkaut. Aber
 trotzdem war die Ratte überzeugt, daß der Clown das
-Papier kurz vor seinem Code hatte verschlucken wollen.
+Papier kurz vor seinem Tode hatte verschlucken wollen.
 
 Er hakte seine Dienstlaterne (die Lampen des Autos
 waren sämtlich gelöscht) in eines der oberen Löcher
@@ -90,7 +90,7 @@ seiner Uniformbluse und suchte den Papierwisch auf
 der flachen Hand glatt zu streichen. Es gelang ihm,
 obwohl die Papierart ziemlich hart und dick war.
 
-Die Ratte sah aus der einen Seite eine Skizze,
+Die Ratte sah auf der einen Seite eine Skizze,
 offenbar die eines Teiles von Chicago. Quer über das
 Blatt zog sich nämlich eine breite Straße hin: Milwaukee-Avenue!
 
@@ -144,7 +144,7 @@ Der Hohlweg mit seinen von Gestrüpp bedeckten Wänden,
 die Wasserlachen des morastigen Untergrundes, in denen
 sich die Sterne widerspiegelten, das Konzert der Frösche
 ringsum und ein paar hin und her flitzende Wildkaninchen
-verliehen dem Platze unbedingt etwas Weitenfernes,
+verliehen dem Platze unbedingt etwas Weltenfernes,
 allzu Einsames. Man konnte annehmen, sich in einer
 Wildnis zu befinden.
 
@@ -159,21 +159,21 @@ Im Nu hatte er die Dienstpistole im Anschlag.
 
 Aber auf den wie einen Blitz herniedersausenden
 Tierkörper mit Sicherheit zu zielen, dazu war die Ratte
-doch nicht genügend geerbt. Er feuerte dreimal — rein
+doch nicht genügend geübt. Er feuerte dreimal — rein
 mechanisch drückte er ab, innerlich fest überzeugt,
 der Bestie doch nicht entgehen zu können. Er war kein
 Feigling, er war nur ein  durch Mißerfolge verbitterter
 Mensch, der das Schicksal als seinen grimmigsten Feind
 betrachtete.
 
-Des Panthers sinkender Atem schlug ihm ins Gesicht,
+Des Panthers stinkender Atem schlug ihm ins Gesicht,
 — in nächster Nähe knallten zwei Schüsse, Carlson wurde
 durch den Anprall der Bestie umgerissen, fiel in eine
 tiefe Pfütze, war sofort wieder auf den Beinen feuerte
 überflüssiger Weise noch drei Kugeln  dem sich am Boden
-kraftlos unterwerfenden Raubtier in die Brust. Dann
+kraftlos umherwerfenden Raubtier in die Brust. Dann
 blickte er sich um, — kein Mensch zu sehen, — wer hatte
-geschossen, es mußte noch jemand den Panther in letzten
+geschossen, es mußte doch jemand den Panther in letzten
 Moment erledigt haben, — wer?!
 
 Irgendwo jetzt der blecherne Knall einer Repetierpistole
@@ -214,13 +214,13 @@ und Hotel entlang. Bauamt bestätigte dies. Gangster
 X will nach eingegangener Meldung Kanal für den Anschlag
 benutzen. Zweifellos ernsteste Gefahr. Hauptquartier
 sofort räumen. — Anruf kam, wie festgestellt, von der
-Bennerton-Farm im 1Oten östlichen Außenbezirk.«
+Bennerton-Farm im 10ten östlichen Außenbezirk.«
 
 Wir hatten noch sämtlich in dem großen, behaglichen
 Zimmer beieinander gesessen und geraucht, getrunken
 und uns lebhaft unterhalten.
 
-Diele Nachricht wirkte als Bombe.
+Diese Nachricht wirkte als Bombe.
 
 Inspektor Wilkiens, Chef des Sonderdezernats,
 schlug mit der Faust auf den Tisch und gab eine Reihe
@@ -265,7 +265,7 @@ Kanal einzudringen.
 
 Wir kamen auch an dem Zirkuszelt vorüber, ein
 Beamter wies uns den Weg, wir bogen in die großsprecherische
-Bennerton-Avenue ein, und mit abgeblendeten Lichter
+Bennerton-Avenue ein, und mit abgeblendeten Lichtern
 fuhren wir weiter, bis Harst, der vorn neben Weylt
 saß, halten ließ, schnell ausstieg und davonrannte.
 
@@ -365,7 +365,7 @@ der sich hier durch Buschwerk und Bäume hindurchschlängelte.
 Der sandige Boden war dicht mit Fährten bedeckt. Es
 machte den Eindruck, als ob hier eine Kuhherde wiederholt
 entlanggetrieben worden sei. Außer den Spuren lagen
-auch da auch jene dunklen unzweideutigen Fladen, die
+da auch jene dunklen unzweideutigen Fladen, die
 auf jeder Kuhweide in Menge anzutreffen sind.
 
 Harst lachte leise. »Wilkiens wird wieder zur
@@ -550,7 +550,6 @@ nichts als leere Wände und einen dick verstaubten,
 dunkel lackierten Fußboden. Lediglich zwei Kronleuchter
 mit je drei Lampen hingen von der Decke herab, und
 links neben der Tür stand ein dunkelgrüner Kachelofen.
-:
 
 »Hm — —!!«, machte Harst sehr gedehnt … »Die
 Sache wird immer geheimnisvoller! Siehst du in dem
@@ -664,7 +663,7 @@ Dummkopf und Phrasendrescher sei.
 
 »Hätten Sie noch etwas zu fragen, Mr. Harst?«,
 wandte er sich jetzt an Harald, der mit recht gleichgültiger
-Miete dabei stand und behaglich seine Zigarette rauchte.
+Miene dabei stand und behaglich seine Zigarette rauchte.
 
 Mit unserem Inkognito war es bereits seit dem
 letzten Abenteuer endgültig vorüber. Bis dahin hatten
@@ -688,7 +687,7 @@ Schattierung schärfer.
 Lincoln lächelte verbindlichst. »Der Kollege Carlsons,
 der die Meldung überbrachte, berichtete von der schweren
 Wunde im Genick des tote Clown Jesse Black, und die
-Ideenverbindung zu den Panther des Zirkus lag sehr
+Ideenverbindung zu den Panthern des Zirkus lag sehr
 nahe. Ich traf den Dompteur in einem der Zirkuswagen
 beim Kartenspiel an, und die fünf Panther lagen friedlich
 in ihrem Käfig. Der im Hohlweg erschossene Panther
@@ -722,7 +721,7 @@ Mr. Harst, die …«
 
 »… unbedingt falsch sein muß«, fiel ihm jetzt
 Wilkiens mit beißendem Spott ins Wort. »Wir kennen
-uns ja. Lincoln … Sie haben bisher nicht viel Gelegenheit
+uns ja, Lincoln … Sie haben bisher nicht viel Gelegenheit
 gehabt, sich auszuzeichnen. Hier ist diese Gelegenheit.
 Sie haben alle Hilfsmittel zur Hand. Stellen Sie erst
 einmal fest, wohin der Mann sich wandte, der den verkappten
@@ -812,7 +811,7 @@ ich … Und von hier aus kann überhaupt niemand telephonieren
 Das Büro ist gut versperrt, tadellose Schlösser, Eisentüren,
 Alarmglocken, Selbstschüsse und Starkstromsicherung!
 Nein, da sind Sie bestimmt irregeführt worden, meine
-Herren. Hier in dieser seinen Gegend muß man sich gründlich
+Herren. Hier in dieser feinen Gegend muß man sich gründlich
 vor ungebetenen Gästen schützen.«
 
 »Nur zu wahr!«, nickte Wilkiens etwas anzüglich.
@@ -833,7 +832,7 @@ schrille Signale.
 Aber so viel er auch pfiff, kein einziger Hund
 erschien.
 
-»Das begreife ein anderer!’«, wetterte Scram erbost.
+»Das begreife ein anderer!«, wetterte Scram erbost.
 »Da muß doch unbedingt etwas passiert sein, meine Herren!«
 
 Wir standen neben ihm.
@@ -997,7 +996,7 @@ Als wir ins Freie traten, sahen wir uns acht spärlich
 bekleideten Herren gegenüber, die sich mit Mistforken,
 Schmiedehämmern und Zaunlatten bewaffnet hatten und
 sofort eine drohende Haltung annahmen. Hinter diesen
-acht Herkules- Viehtreibern krähte ein Bürschchen in
+acht Herkules-Viehtreibern krähte ein Bürschchen in
 Unterhosen giftige, aufreizende Sprüchlein. Wilkiens
 hatte die strammen Kerle sehr bald aufgeklärt und nahm
 sich dann den Herrn Buchhalter Mr. Tobias Sommersett
@@ -1164,7 +1163,7 @@ Sommersett identisch ist, möchte ich bezweifeln.«
 
 Wilkiens hatte eins der sauber verschnürten Päckchen
 geöffnet. In der Umhüllung befand sich eine Zinkschachtel,
-die bis zum Rande mit glitzernden Kokainpulver gefüllt
+die bis zum Rande mit glitzerndem Kokainpulver gefüllt
 war. »Wie kamen Sie auf den Gedanken, Sommersett könnte
 Rauschgifte verbergen?«, fragte Wilkiens, indem er
 mit dem Finger in dem gefährlichen Pulver herumstocherte.

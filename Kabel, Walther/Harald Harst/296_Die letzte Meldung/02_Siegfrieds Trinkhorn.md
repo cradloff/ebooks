@@ -65,7 +65,7 @@ Ich machte es mir im Klubsessel bequem und war
 auch sehr bald eingeschlafen. Wir konnten uns hier
 völlig sicher fühlen, da die ganze Farm und die Umgebung
 von Polizei wimmelte. Man suchte noch immer nach der
-Blonden, man suchte auch noch Fährten des Mörders Jesse
+Blonden, man suchte auch nach Fährten des Mörders Jesse
 Blacks, obwohl doch Tobias Sommersett den Mord eingestanden
 hatte. Aber hiermit hatte es seine besondere Bewandtnis.
 
@@ -79,7 +79,7 @@ nur sinnlose Schäume seien.
 Als ich erwachte, erinnerte ich mich genau, daß
 besonders drei noch ungelöste Fragen mich im Traum
 gequält hatten. Ich saß also noch eine Weile mit geschlossenen
-Augen still und überlegte nur diese Fragen.
+Augen still und überlegte mir diese Fragen.
 
 Da war zunächst die neue elegante Ford-Limousine,
 in der Jesse Black als Toter aufgefunden worden war.
@@ -102,11 +102,11 @@ kräftigen Köter mit stumpfer Schnauze. Und den langen
 Pantherschweif — beinahe genial! — hatte er um eine
 dünne Spiralfeder genäht, die leicht wippte und sich
 krümmte. War es Sommersetts Absicht gewesen, den Verdacht
-auf den Dompteur des Zirkus zu lenken! Hiergegen sprach
+auf den Dompteur des Zirkus zu lenken?! Hiergegen sprach
 die Tatsache, daß Sommersett den Policeman Carlson
 von dem Panther-Hund nachher hatte anspringen lassen,
 wobei er doch damit rechnen mußte, daß Carlson das
-Tier erschoß! Außerdem hatte der Panther-Hund wohl
+Tier erschoß! Außerdem hätte der Panther-Hund wohl
 kaum Carlson ernstlich verletzen können! — Bei diesen
 ungeklärten Einzelheiten war auch Harst stumm geblieben.
 Auch er fand keine plausible Erklärung.
@@ -142,7 +142,7 @@ Harst hatte drohend gerufen: »Dieb!!«
 
 Ich starrte ihn erschrocken an. »Du bist wach?«
 
-»Nein, im rede im Schlaf, mein Alter. Im Schlaf
+»Nein, ich rede im Schlaf, mein Alter. Im Schlaf
 erkläre ich dir, daß jemand die Photographie schon
 vor dir sehr begehrenswert fand, ebenso das Trinkhorn
 … Da schau, der Platz an der Wand ist leer. Der Dieb
@@ -182,7 +182,7 @@ Ich stand noch immer neben ihm.
 Er hatte unter der Schlafdecke seine entsicherte
 Pistole und einen Handspiegel zum Vorschein gebracht.
 
-»… Könnte uns übermütig machen, konnte … Leider
+»… Könnte uns übermütig machen, könnte … Leider
 hat der Dieb sich nicht vorschriftsmäßig benommen,
 und das mißfällt mir gründlich. Würde er, womit ich
 auch rechnete, versucht haben, uns beide als seine
@@ -190,7 +190,7 @@ schlimmsten Widersacher zu einer beschleunigten Himmelfahrt
 zu veranlassen, dann hätte alles geklappt. Er hätte
 eine Kugel im Schädel, und zu seinem Begräbnis wäre
 ich bestimmt nicht erschienen. Aber?! Mein lieber Alter,
-jetzt heißt es, die Auge doppelt und dreifach offen
+jetzt heißt es, die Augen doppelt und dreifach offen
 halten, denn gerade weil er uns hier im Schlaf ungeschoren
 ließ, hat er todsicher bessere Gelegenheiten bereit,
 uns auszulöschen und zwar sehr bald. — Läute nach dem
@@ -257,7 +257,7 @@ Dann ging er.
 
 Harst knöpfte den Kragen um …
 
-»Siehst du, mein Alter, es gebt schon los!!«
+»Siehst du, mein Alter, es geht schon los!!«
 
 »Was?«
 
@@ -293,7 +293,7 @@ Hände, daß sein Augenausdruck und seine Stimme in argem
 Mißverhältnis zu einander standen.
 
 Harst hatte sich gerade in Ermangelung seines
-eigenen mit Sommersetts Rasierapparat die Stoppen wegkratzen
+eigenen mit Sommersetts Rasierapparat die Stoppeln wegkratzen
 wollen, stellte das Nickelkästchen jedoch wieder auf
 den Waschtisch.
 
@@ -440,7 +440,7 @@ Rinder, alles Schlachtvieh, zweite Sorte. Unsere Hürden
 werden bis dahin frei. Vorhin sind zweihundert Stück
 weggetrieben worden, darunter auch die Bullen, die
 wieder ganz vernünftig waren. Der Tierarzt meinte auch,
-man hatte den Bullen Giftsumach gegeben, und die Leibschmerzen
+man hätte den Bullen Giftsumach gegeben, und die Leibschmerzen
 machen die Viecher natürlich halbtoll.«
 
 »Hm, — — und wer gab Giftsumach?!« Harst schritt
@@ -480,7 +480,7 @@ aber … zu weit, gleich bis in die Hölle hinab!«
 
 Ich konnte genau sehen, was der jetzt übernervöse
 Scram übereifrig tippte. Ich sagte ironisch: »Den Brief
-können Sie niemals abschicken -, niemals! Sie haben
+können Sie niemals abschicken — niemals! Sie haben
 ja dreimal den Namen Rebekka geschrieben, und das paßt
 in den Text wahrhaftig nicht hinein.«
 
@@ -528,7 +528,7 @@ warf den Hörer auf die Gabel.
 »Mr. Harst«, knirschte er in jäh losbrechender
 Wut, »es sind tatsächlich heute früh gleich nach der
 Schalteröffnung, als Sommersetts Tod noch nicht bekannt
-war,…«
+war …«
 
 »Danke, — bin im Bilde, lieber Scram. Regen Sie
 sich deshalb nicht weiter auf, denn das Ihrem Chef
@@ -597,7 +597,7 @@ Rechts von uns befand sich ein langer Futtertrog
 aus Zement, und gerade vor uns lag einer der Winterställe,
 etwa hundert Meter entfernt.
 
-Hart hatte ihn plötzlich mitten im Satz unterbrochen,
+Harst hatte ihn plötzlich mitten im Satz unterbrochen,
 hatte Wilkiens und mich bei den Armen gepackt und zog
 uns hinter den Futtertrog, rief dabei überlaut: »Hinwerfen,
 — hinwerfen, — Lincoln, Deckung nehmen!«
@@ -661,7 +661,7 @@ An seinem Hinterkopf tropfte das Blut …
 Harst warf sich blitzschnell in den Trog hinein
 … packte Lincoln, riß ihn hoch, riß ihn hinter sich
 her, — ich folgte, — über uns hin heulte der Tod …
-Zement bröckelte, Bleispritzer flogen,…
+Zement bröckelte, Bleispritzer flogen …
 
 Und jäh ward es still …
 
@@ -690,7 +690,7 @@ durch die Trauer um den armen, braven Wilkiens.
 
 Der strenge, ernste Gebieter der Michigan-Metropole
 fügte vielleicht noch eine Tonfärbung schärfer hinzu:
-»Sie mußten mit einen solchen Anschlag rechnen, Mr.
+»Sie mußten mit einem solchen Anschlag rechnen, Mr.
 Harst, nachdem Sie und Ihr Freund bereits Proben der
 Giftmischerfertigkeit dieser Schurken erhalten hatten.
 Wie konnten Sie sich und andere dieser Gefahr aussetzen?!«
@@ -705,9 +705,9 @@ sind. Sie verlangen, ich soll meine Karten aufdecken,
 wie Sie sich auszudrücken belieben. Sie haben vorher
 schon Andeutungen fallen lassen, als ob ich aus persönlicher
 Eitelkeit die Arbeit meiner Ermittelungstätigkeit bisher
-geheim gehalten hatte — aus persönlicher Eitelkeit,
+geheim gehalten hätte — aus persönlicher Eitelkeit,
 betone ich! Ich bedauere den Tod meines Freundes Wilkiens
-aufrichtig, ich gebe zu, ich hatte diesen Feuerüberfall
+aufrichtig, ich gebe zu, ich hätte diesen Feuerüberfall
 vielleicht verhindern können — vielleicht. Aber all
 das spricht hier kaum mit, wo es sich darum handelt,
 eine so gemeingefährliche Organisation, wie diesen
@@ -720,7 +720,7 @@ der Elite ist wahrlich nicht klein. Mir ist nicht recht
 verständlich, wie Sie, Mr. Elliot, sich gegen mich
 derart haben aufpeitschen lassen können. Die Tatsache
 allein genügt mir. Hiermit scheiden Schraut und ich
-endgültig aus einem Kreise aus, im dem wir monatelang
+endgültig aus einem Kreise aus, in dem wir monatelang
 in treuer Kameradschaft mit uns werten Freunden zum
 Allgemeinwohl gewirkt haben. Das, was ich über den
 Gangster X weiß, werde ich Ihnen schriftlich als …
@@ -755,7 +755,7 @@ es auch ihm war, hier auf höheren Befehl eingreifen
 zu müssen. »Bleiben Sie!«, befahl er sehr kurz und
 schneidig … Was sollte er auch anders tun?!
 
-In denselben Moment sprang Morris auf, einer der
+In demselben Moment sprang Morris auf, einer der
 ganz Großen der Detektiv-Zentrale. Sein bissiges Bulldoggengesicht
 war blaurot vor Empörung. »Mr. Elliot«, schrie er mit
 seiner Posaunenstimme, »falls Sie Ihr Benehmen nicht
@@ -883,7 +883,7 @@ Lackschicht der oberen Füllung zeichneten sich drei
 Löcher ab, zwei Kugellöcher und ein kleineres Bohrloch,
 die im Dreieck gruppiert waren
 
-<div class="img"><img alt="Drei Löcher, zwei davon sind etwas größer und befinden sich links und rechts. Das dritte ist etwas kleiner und befindet sich in der Mitte nach unten versetzt." src="Kreise Seite 54.png" style="width: 100%; height: auto;"/></div>
+<div class="img"><img alt="Drei Löcher, zwei davon sind etwas größer und befinden sich links und rechts. Das dritte ist etwas kleiner und befindet sich in der Mitte nach unten versetzt." src="Kreise Seite 54.png" style="width: 30%; height: auto; display: block; margin: auto;"/></div>
 
 — so!
 
@@ -967,7 +967,7 @@ Hofe zwischen den beiden noch schwelenden Brandruinen
 der Ställe und schauten zu. Kaptain Morris war bei
 uns und rauchte still eine dicke Zigarre. Wilkiens’
 Tod ging ihm genau so nahe wie uns. Man hatte die Leiche
-in der Vorhalle des leeren Wohnhauses vorläuft aufgebahrt,
+in der Vorhalle des leeren Wohnhauses vorläufig aufgebahrt,
 und die Elite hatte für reichen Blumenschmuck gesorgt.
 Wenn wir vom Sonderdezernat uns je als eine einzige
 große Familie gefühlt hatten, dann war es bei diesem
@@ -1012,7 +1012,7 @@ wo die frisch eingetroffenen Tiere faul und satt am
 Boden lagen. Inmitten jeder Hürde befanden sich Tränkbottiche
 aus Zement.
 
-»Die Nacht ist warum, nasse Beine werden uns nichts
+»Die Nacht ist warm, nasse Beine werden uns nichts
 schaden«, sagte Harst und schlich tiefgebückt auf
 einen der Bottiche zu. Wir kauerten eng nebeneinander,
 wir fünf, Elliot, wir beide, Morris und Weylt.
@@ -1041,7 +1041,7 @@ Meter entfernt war.
 Wir starrten zu der Gruppe hinüber. Der Bärtige
 — und jetzt sahen wir es ganz deutlich — hatte vor
 der Brust einen langen Eimer hängen. Er packte eins
-der Hörner des Windes, drehte daran, drehte eine ganze
+der Hörner des Rindes, drehte daran, drehte eine ganze
 Weile, bis er es in der Hand hielt.
 
 Das Horn war nur aufgeschraubt gewesen! Man mußte
@@ -1085,7 +1085,7 @@ werden müssen.
 
 Mac Lincoln war tot.
 
-Aber unsere Ausgabe war noch nicht völlig erledigt.
+Aber unsere Aufgabe war noch nicht völlig erledigt.
 Wir stiegen in die Panzerwagen, und in eiliger Fahrt
 ging es zur 10ten Revierwache Ost, in der Lincoln die
 erste Etage bewohnte.
@@ -1139,7 +1139,7 @@ und still das blonde Mädchen auf der Schaffarm »Scram«
 
 <h2>5. Kapitel.</h2>
 
-<h3>Die Richtigkeit im Kokain.</h3>
+<h3>Die Nichtigkeit im Kokain.</h3>
 
 Gerda Bennerton wurde im Auto zu Scrams gebracht.
 Weylt begleitete sie. Wir anderen saßen in Mac Lincolns
@@ -1179,7 +1179,7 @@ Der eine verfehlte Programmpunkt — daß der Panther-Hund
 sich allzu angriffslustig zeigte und dabei sein Leben
 einbüßte — brachte den Stein ins Rollen. — Unabhängig
 von den Vorgängen am Hohlweg geschah auf der Farm selbst
-noch weit Aufregendes. Gerda, die das verbrecherische
+noch weit Aufregenderes. Gerda, die das verbrecherische
 Treiben ihres Vaters unterbinden wollte, ohne ihn selbst
 bloßzustellen, besaß die Schlüssel zum Farmbüro, rief
 Sie, Mr. Elliot, von dort aus an, wurde von Sommersett
@@ -1192,7 +1192,7 @@ Einzelheiten will ich mir schenken. Was Josua Scram
 betrifft, — der suchte natürlich Gerda zu schützen.
 Brave Seele, es half ihm wenig, ich fand das Bild,
 ich überraschte Sommersett, als er zur Nervenauffrischung
-eine Prise Kokain schnupfte,… im Grunde sind das alles
+eine Prise Kokain schnupfte, … im Grunde sind das alles
 ja sehr überflüssige Ausführungen, Mr. Elliot.«
 
 Er machte eine kurze Pause.
@@ -1231,7 +1231,7 @@ lassen und hinter der Tür lauerte der Futtermeister
 der Farm, Ben Garlick, und tötete die Frau, bevor noch
 Carlson eingreifen konnte. Carlson sah den Mann, Carlson
 dürfte eine Beförderung verdienen, Mr. Elliot, das
-Ostrevier 10 braucht einen neue Chef, der mit eiserner
+Ostrevier 10 braucht einen neuen Chef, der mit eiserner
 Strenge durchgreift.«
 
 Elliot erklärte sofort, indem er Carlson die Hand
