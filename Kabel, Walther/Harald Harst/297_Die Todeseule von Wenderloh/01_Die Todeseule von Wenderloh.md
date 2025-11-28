@@ -72,7 +72,7 @@ Mark Goldzähne.
 
 Harst betrachtete ihn eine Weile und sagte dann
 höflich: »Nehmen Sie Platz, Herr Mallo. Ich möchte
-mir Weste erst einmal überziehen. Vielleicht sitzt
+die Weste erst einmal überziehen. Vielleicht sitzt
 sie nicht nach Wunsch. — Rauchen Sie?«
 
 »Wenn Sie gestatten, gern … Verbindlichsten Dank,
@@ -111,7 +111,7 @@ Mallo verneigte sich. »Sie haben vorzügliche Augen,
 Herr Harst. Es waren zwanzig Mark.« Er zog seine scharf
 gebügelten Beinkleider noch höher hinauf. »Ich rennomiere
 nicht gern mit meinen Anwandlungen von Großmut. — Es
-wird Ihnen längst klar geworden sein, das mich ein
+wird Ihnen längst klar geworden sein, daß mich ein
 besonderer Zweck hierher führt.«
 
 »Längst«, bestätigte Harst. »Seit Ihrem Erscheinen
@@ -174,10 +174,10 @@ Jetzt lächelte Mallo wieder.
 zu tun haben, Herr Harst.« Das war eine sehr feine, trotzdem
 durchsichtige Ironie.
 
-»Irrtum … Wir haben stets zu tun. Fassen sie sich
+»Irrtum … Wir haben stets zu tun. Fassen Sie sich
 daher bitte recht kurz.«
 
-Mallo erhob ich ohne Hast. »Meine Herren, dann
+Mallo erhob sich ohne Hast. »Meine Herren, dann
 komme ich doch lieber zu gelegenerer Zeit nochmals
 hierher. Ich sehe, Sie müssen sich noch umziehen, und
 die Angelegenheit läßt sich wirklich nicht so über
@@ -214,7 +214,7 @@ Mir hatte der Mann gefallen.
 
 Harst sagte etwas bissig:
 
-»Man sollte mit seinem, eigenen Urteil nie zurückhalten,
+»Man sollte mit seinem eigenen Urteil nie zurückhalten,
 wenn man nicht für einen …«
 
 Rrrrrr …
@@ -323,7 +323,7 @@ die Perle in der Krawatte erwähnte, dachte ich nur
 flüchtig an Herrn Mallo, als jedoch der graue, leicht
 gestreifte Anzug, die braunen Halbschuhe, die bunten
 Seidensocken und die Brillantringe gleichfalls aufgezählt
-wurden, stand Zerr Mallo leibhaftig vor mir, zumal
+wurden, stand Herr Mallo leibhaftig vor mir, zumal
 die redegewandte Dame noch betonte, der Gauner habe
 ein frisches, schmales bartloses Gesicht und vorn zahlreiche
 Goldzähne gehabt.
@@ -341,7 +341,7 @@ ebenfalls in argen Nöten ist. — Wiedersehen …«
 Im Auto, das mit uns zur Philharmonie jagte, erlaubte
 ich mir die bescheidene Frage, ob Herr Mallo vielleicht
 in doppelter Auflage vorhanden sei. »Du wirst doch
-zugeben, Harald, das Frau Lions Beschreibung fast bis
+zugeben, Harald, daß Frau Lions Beschreibung fast bis
 auf die Hosenknöpfe auf unseren Mallo paßte. Unser
 Mallo kann es nicht gewesen sein, der war zu der kritischen
 Zeit draußen in unserem Vorort. Also wer war es?!«
@@ -373,8 +373,8 @@ an Bildung und Intelligenz erinnerte.
 
 Harst gab ihm einen Fünfziger.
 
-Der Gesunkene dankte wie ein Kavalier altert Schule
-und fügte sanft hinzu: »Mein Herr, ihre Brieftasche
+Der Gesunkene dankte wie ein Kavalier alter Schule
+und fügte sanft hinzu: »Mein Herr, Ihre Brieftasche
 dürfte in der linken Ulstertasche wenig zweckmäßig
 untergebracht sein, sie ragt drei Finger breit heraus
 und bildet so eine schlimme Versuchung für arme Teufel.«
@@ -455,7 +455,7 @@ Der alte Mann schaute Harst freimütig an.
 »Ja, mein Herr.«
 
 »Glauben Sie, daß man die Kette von dem … hm …
-dem ehrlichen Finder für fünftausend zurückkaufen könnte!«
+dem ehrlichen Finder für fünftausend zurückkaufen könnte?!«
 
 »Wahrscheinlich, mein Herr. Falls nämlich die
 Polizei aus dem Spiel bleibt.«
@@ -590,7 +590,7 @@ uns …
 
 <h3>Der zweite Scheck.</h3>
 
-»Verzeihung, meine Herren … — Wie im sehe, haben
+»Verzeihung, meine Herren … — Wie ich sehe, haben
 Sie auf Tagore verzichtet. Darf ich Sie mit Miß Edith
 Fullerton bekannt machen? … Herr Harst, … Herr Max
 Schraut, liebe Edith … Du warst ja längst so erpicht
@@ -623,8 +623,8 @@ Mir war etwas schwül zumute. Harst lächelte so
 eigentümlich.
 
 »Auch wir freuen uns«, meinte er stark anzüglich.
-»Dieser Vormittag hat uns bereits so viel schönes beschert,
-das es dieser Krönung eines Glückstages kaum mehr bedurft
+»Dieser Vormittag hat uns bereits so viel Schönes beschert,
+daß es dieser Krönung eines Glückstages kaum mehr bedurft
 hätte. Eine Perlenkette, einen Hut voll Juwelen, —
 und nun noch Sie, Miß Fullerton, — wirklich, es ist
 des Guten fast zu viel, und eigentlich sollte ich hiernach
@@ -635,7 +635,7 @@ Kommerzienrat Lion, Herr Mallo?«
 Unser Mallo schüttelte leicht den Kopf.
 
 »Bedauere … Lion?! Nein! — Haben Sie dort zu tun,
-Herr Harst« — Er gab sich vollkommen harmlos. Er konnte
+Herr Harst?« — Er gab sich vollkommen harmlos. Er konnte
 ja auch niemals der Fassadenkletterer gewesen sein.
 Sein Alibi bei uns war einwandfrei.
 
@@ -664,7 +664,7 @@ abspielen würde, wenn unser Mallo in aller Arglosigkeit
 dort auftauchte.
 
 Die süße Edith jedoch ließ nicht locker. »Lieber
-Herr Harst, stellen sie uns Lions doch als Angestellte
+Herr Harst, stellen Sie uns Lions doch als Angestellte
 irgend einer Detektei vor, — auf unsere Diskretion
 können sie einen Wolkenkratzer bauen, wirklich! Es
 handelt sich doch zweifellos um einen äußerst wichtigen
@@ -680,7 +680,7 @@ es den Anschein hatte?!
 Harst ersparte mir alles weitere Kopfzerbrechen.
 
 »Wer könnte Ihnen eine Bitte abschlagen, Miß Fullerton?!«,
-meinte er mit einem recht väterlichen schmunzeln. »Gut,
+meinte er mit einem recht väterlichen Schmunzeln. »Gut,
 steigen wir ein … Chauffeur, bitte Ranke-Straße Nummer
 …«
 
@@ -759,7 +759,7 @@ noch längst nicht das Richtige mir ausgemalt, es kam
 viel ärger, denn kaum hatte das Ehepaar Freund Fabian
 Mallo erblickt, als der feiste Edgar mit seinen kurzen
 Beinchen wie ein hüpfendes Kängeruh dem ahnungslosen
-Mallo entgegenflog, ihm bei der Brust packte und eine
+Mallo entgegenflog, ihn bei der Brust packte und eine
 Auslese von Injurien hervorkreischte, die unbedingt
 für ein paar Wochen Gefängnis wegen Beleidigung und
 Bedrohung ausreichten.
@@ -779,7 +779,7 @@ besorgen.«
 aber bereits weniger kraftvoll.
 
 Harald mischte sich jetzt ein. »Sie befinden sich
-in einen bedauerlichen Irrtum, Herr Kommerzienrat.
+in einem bedauerlichen Irrtum, Herr Kommerzienrat.
 Herr Mallo ist nicht der Dieb, Herr Mallo befand sich
 in der kritische Zeit draußen bei uns in der Blücherstraße.
 Es genügt wohl, wenn ich sein Alibi bestätige. Entschuldigen
@@ -821,13 +821,13 @@ dann wehleidig heraus:
 
 »Bitte, bleiben Sie, Herr Mallo … Ich … ich bin
 zu jeder Sühne bereit, ich werde eine … größere Summe
-an die Armenkasse zahlen,… dreitausend Mark …«
+an die Armenkasse zahlen, … dreitausend Mark …«
 
 Mallo drehte nur den Kopf zurück.
 
 »Ich bin kein Erpresser, nicht einmal im Interesse
 der Allerärmsten, von denen ich in meinem Sanatorium
-zurzeit zehn alte Leutchen mit durchfüttere, — Bitte!«
+zurzeit zehn alte Leutchen mit durchfüttere. — Bitte!«
 Er hatte die Tür nach dem Flur geöffnet und schob Edith
 Fullerton sanft hinaus.
 
@@ -949,7 +949,7 @@ Er lächelte sorglos-heiter, meinte nur:
 »Daß ich hier in Berlin einen Doppelgänger habe,
 wußte ich längst. Die Polizei hat mich bereits dreimal
 verhaftet und mußte mich dreimal wieder laufen lassen.
-Mein- heutiges Alibi ist noch besser als die früheren,
+Mein heutiges Alibi ist noch besser als die früheren,
 denn an Ihrer und Schrauts Aussage wird doch kein Mensch
 zweifeln.«
 
@@ -1046,7 +1046,7 @@ Helfershelferin sei. Wenn auch er selbst unmöglich
 der kühne Fassadenkletterer, Kindesretter und Einbrecher
 gewesen sein konnte, — er hatte ja zugegeben, daß er
 einen Doppelgänger besäße, und der Verdacht lag nahe,
-daß er mit diesem Hand in Hand arbeitete, das auch
+daß er mit diesem Hand in Hand arbeitete, daß auch
 der »Privatgelehrte Favius Erma« mit zu der Hochstablergesellschaft
 gehöre und das Mallo absichtlich mit zu Lions gekommen
 war, nur um den Kommerzienrat zu jener unangenehmen
@@ -1071,7 +1071,7 @@ Müller, — hier haben Sie zehn Mark für Ihre Bemühungen
 
 Der Briefträger Müller bedankte sich, bekam noch
 drei Zigarren und ein Glas Wein und meinte geradezu
-gerührt: »Herr Mallo, ein Segen, das wir Sie als allzeit
+gerührt: »Herr Mallo, ein Segen, daß wir Sie als allzeit
 gütigen …«
 
 »Schieben Sie ab!«, unterbrach Mallo ihn schroffen
@@ -1079,7 +1079,7 @@ Tones. »Die Sache ist erledigt … Wiedersehen … — Doch
 — — halt, lieber Müller, noch auf ein Wort … Sie waren
 doch der, der den Landstreicher Karl Bernt tot aufgefunden
 hat. Meine Gäste interessieren sich für den Fall …
-setzen Sie sich also, erzählen Sie …«
+Setzen Sie sich also, erzählen Sie …«
 
 Müller nahm seine schwere Ledertasche auf den
 Schoß, rauchte kräftig und meinte achselzuckend: »Was
@@ -1130,7 +1130,7 @@ Der Postbote zauderte noch immer.
 
 Mallo meinte dann aufmunternd, was hier besprochen
 würde, bleibe ganz unter uns. Müller solle nicht denken,
-daß ihm etwa Ungelegenheiten irgend weicher Art entstehen
+daß ihm etwa Ungelegenheiten irgend welcher Art entstehen
 könnten, selbst wenn durch diese Gerüchte jemand belastet
 würde. — Dies half. Müller wurde gesprächig. So vernahmen
 auch wir denn die Geschichte der Todeseule von Wenderloh-Haus.
@@ -1138,7 +1138,7 @@ Es war die Geschichte dreier Todesfälle, und vielleicht
 konnte man das Ende des Landstreichers Bernt noch mit
 dazu rechnen.
 
-Ich will mich hier Kürzer fassen, als Müller es
+Ich will mich hier kürzer fassen, als Müller es
 damals tat. — Der erste, der den Riesenvogel eines
 Nachts flüchtig gesehen hatte, war der Eigentümer von
 Wenderloh-Haus, Herr Manfred Wenderloh. Das Flugzeug,
@@ -1233,7 +1233,7 @@ unser Führer mit ungewohnter Schärfe.
 Mallo hatte die Teckel an die Leine genommen,
 und je näher wir dem Hause kamen, desto langsamer schritten
 wir den Hügel hinan. Edith flüsterte mir zu, sie habe
-entsetzliche Angst, wie Wenderloh das schreckliche
+entsetzliche Angst, wie Wenderloh das Schreckliche
 hinnehmen würde. Ihre lebensfrische Heiterkeit war
 vollständig geschwunden, und blaß und verstört hing
 sie in meinem Arm und drängte sich verschüchtert ganz

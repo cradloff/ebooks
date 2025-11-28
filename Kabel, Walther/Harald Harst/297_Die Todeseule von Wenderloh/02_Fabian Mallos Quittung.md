@@ -183,13 +183,13 @@ gestellt hatte, und als wir uns zugetrunken, meinte
 er augenzwinkernd: »Unter uns, Lücke, — ganz unter
 uns! — Wenn man bei den bescheideneren Artistenfamilien
 nachfragen wollte, wäre die Frage wohl schnell gelöst.
-Ich bebaute, die Kleine war eine jugendliche Trapezkünstlerin
+Ich behaupte, die Kleine war eine jugendliche Trapezkünstlerin
 … Wenn Sie die Photographie, die Fräulein von Breuel
 knipste, genau betrachtet haben, muß Ihnen aufgefallen
 sein, daß das Kind sicherlich den einen Fuß zur Sicherheit
 in eine Strickschlinge gesteckt hatte. Das Stück Wäscheleine
 liegt übrigens noch in der leeren Wohnung. Nur eine
-kleine Artistin war für von Trick brauchbar. Natürlich
+kleine Artistin war für den Trick brauchbar. Natürlich
 wird das Kind gar nicht gewußt haben, worum es sich
 handelte.«
 
@@ -213,7 +213,7 @@ Hausierer, Gelehrter, Chauffeur … — vielseitig eben!«
 Hans Lücke putzte nachdenklich sein Monokel. Dann
 warf er Harst einen langen Blick zu.
 
-»Sie meinen, das Herr Favius Erma, Privatgelehrter,
+»Sie meinen, daß Herr Favius Erma, Privatgelehrter,
 dieser Doppelgänger ist?!«
 
 Harst zuckte die Achseln. »Vielleicht … Beweisen
@@ -240,7 +240,7 @@ War es Fabian?!
 <h3>Der Mantel im Flur.</h3>
 
 »Herr Fabian Mallo — Herr Kriminalkommissar Doktor
-Lücke«, stellte Harst mit leichtem schmunzeln vor.
+Lücke«, stellte Harst mit leichtem Schmunzeln vor.
 Und fügte hinzu: »Ich rechnete damit, daß man Sie sehr
 bald wieder enthaften würde … Bei Ihren vortrefflichen
 Beziehungen!!«
@@ -285,8 +285,8 @@ offen sein?«
 »Oh, — bitte …« Mallo nahm eine seiner King-Extra
 und lehnte sich tiefer in den Sessel zurück. »Obwohl
 Sie mich soeben grob beleidigt haben«, setzte er mit
-leichter Ironie hinzu: »Ich bin kein Hochstapler …
-Zur meine besondere Einstellung zu der Frage »Recht
+leichter Ironie hinzu. »Ich bin kein Hochstapler …
+Für meine besondere Einstellung zu der Frage »Recht
 oder Unrecht« würden Sie allerdings kaum Verständnis
 haben. Dazu muß man die Welt, die Menschen und deren
 Erbärmlichkeit besser kennen.«
@@ -297,7 +297,7 @@ Erbärmlichkeit besser kennen.«
 »Sie sind … Beamter!«, fiel Mallo mit einer knappen
 Verbeugung ein. »Ohne Zweifel etwas sehr schönes, die
 Justiz unterstützen und Gehalt und Pension zu beziehen,
-nur — das wahrhaft menschliche Empfinden leidet darunter,
+nur — das wahrhaft menschliche Empfinden leidet darunter.
 — Bitte, widersprechen Sie nicht … Sie gewöhnen es
 sich mit der Zeit an, alle Gesetzesbrecher über einen
 Kamm zu scheren … Wobei der Haarschnitt allerdings
@@ -440,7 +440,7 @@ und meinte ohne besondere Betonung: »Herr Mallo ist
 bei dem Wetter hoffentlich nicht ohne Mantel gekommen
 …«
 
-Was mir erst durch Augenschein ausgefallen war,
+Was mir erst durch Augenschein aufgefallen war,
 das hatte Harst erraten: Das Vorhandensein eines Mantels!
 
 Und Fabian?
@@ -455,11 +455,11 @@ Weshalb verschwiegen Sie uns, daß Ihr Chauffeur Sie
 erwartete?!«
 
 »Verschwiegen — ich?! Aber Herr Schraut, dann
-habe im mich lediglich versprochen. Gewiß, ich hatte
+habe ich mich lediglich versprochen. Gewiß, ich hätte
 richtiger sagen sollen: »Ich bestieg mein Auto«, doch
 das ist ja so belanglos, zumal der Pförtner des Polizeigebäudes
 in Spandau mit meinem Chauffeur sich noch unterhalten
-hat … Die Meinen wußten eben ganz genau, das ich freigelassen
+hat … Die Meinen wußten eben ganz genau, daß ich freigelassen
 werden würde. Dies alles ändert doch nichts an der
 Tatsache, daß ich in der kurzen Zeit unmöglich noch
 den Streich bei Lions ausführen konnte! Ich bitte Sie,
@@ -568,13 +568,13 @@ und für Frau Anna begann abermals das Darben und Sparen
 und die noch ärgere Last des Ertragens der ewig schlechten
 Laune und Reizbarkeit ihres Mannes. Nochmals sprang
 da Fabian als diskreter Helfer ein. Wenderloh ahnte,
-das Mallo nur aus Mitleid mit Frau Anna wiederum eine
+daß Mallo nur aus Mitleid mit Frau Anna wiederum eine
 Anzahl Bilder kaufte, und seine Abneigung gegen Mallo
 wurde zu verstecktem Haß. Andererseits war er berechnend
 genug, seiner Frau die gelegentlichen Spaziergänge
 mit Fabian nicht zu verbieten.
 
-Betonen muß ich, das Mallo sein Eintreten für
+Betonen muß ich, daß Mallo sein Eintreten für
 die bedauernswerte Frau vor uns so hinstellte, als
 hätte er die Bilder tatsächlich zur Ausschmückung von
 Havelblick notwendig gebraucht. Eine Natur wie er würde
@@ -584,7 +584,7 @@ echten Bescheidenheit und Güte entsprach auch seine
 Darstellung des verflossenen Nachmittags, den er tatsächlich
 zusammen mit Frau Anna in Potsdam verbracht hatte.
 »Wir trafen uns um halb sechs Uhr am Havelufer,« berichtete
-er weiter, »und fuhren mit meinen Motorboot den Fluß
+er weiter, »und fuhren mit meinem Motorboot den Fluß
 entlang, waren in einer Konditorei in Potsdam und kehrten
 mit dem Boot gegen acht Uhr zurück. Ich mußte Frau
 Anna auf ihre ausdrückliche Bitte hin in Sakrow absetzen.
@@ -600,7 +600,7 @@ geschah in der Potsdamer Konditorei mit meiner Füllfeder.
 So sehr ich auch die Ärmste mit Fragen bestürmt hatte,
 mir den Grund ihres neuen Kummers zu nennen, sie blieb
 stumm. Und — lebend habe ich sie dann nicht mehr wiedergesehen.
-— Sie wundern sich vielleicht, meine Herren, das mir
+— Sie wundern sich vielleicht, meine Herren, daß mir
 scheinbar der Tod von Frau Anna so wenig nahegeht.
 Ich besitze ein außerordentliches Maß von Selbstbeherrschung,
 daneben jenen seltenen Fatalismus, der zum Beispiel
@@ -618,7 +618,7 @@ Wenderloh zwei Paare, von meinem Schuhmacher angefertigt,
 als mir zu klein, neu überlassen. Wir haben dieselbe
 Fußgröße.«
 
-Er schwieg, und auch wir bliebe geraume Zeit stumm.
+Er schwieg, und auch wir blieben geraume Zeit stumm.
 Er hatte seinen Sessel in den Schatten geschoben, und
 zuweilen hatte seine Stimme brüchig und rauh geklungen.
 — Das stille Liebesdrama, das sich hier vor uns abgerollt
@@ -713,7 +713,7 @@ Tage bestimmt gewesen und die an der Unzulänglichkeit
 eines gewissenlosen Phantasten zerbrach.«
 
 Harald hatte sich vorgebeugt und seine Hand auf
-Mallos Arm gelegt. »Wenn sie die Todeseule dreimal
+Mallos Arm gelegt. »Wenn Sie die Todeseule dreimal
 erblickten, müssen Sie viele Nächte auf der Heide durchwacht
 haben. — Mallo, heraus mit der Wahrheit! Sie wissen
 noch mehr!«
@@ -744,7 +744,7 @@ Dann kam über Harsts Lippen ein klares, eindeutiges:
 Fabian lächelte noch immer. Aber wie verträumt,
 wie geistesabwesend …
 
-Ohne jede schärfe meinte er: »Unter diesen Umständen
+Ohne jede Schärfe meinte er: »Unter diesen Umständen
 muß ich mich verabschieden. Ich fühle, wir werden fernerhin
 Gegner sein. Ich bedauere dies … — Guten Abend, meine
 Herren.«
@@ -841,8 +841,8 @@ ich. Sie müßten denn gerade einen Waffenschein besitzen.
 Als wir nach längerer Fahrt und einigem Umherirren
 endlich den Südostrand der großen Lichtung erreicht
 hatten, wischte sich der biedere Chauffeur den Schweiß
-vom Gesicht. »Das meine alte Karre das noch ausgehalten
-hat!«, meinte er verwundert. — Ein fünfziger in Papier
+vom Gesicht. »Daß meine alte Karre das noch ausgehalten
+hat!«, meinte er verwundert. — Ein Fünfziger in Papier
 entlohnte ihn reichlich, und das Auto schaukelte den
 einsamen Waldweg wieder hinab.
 
@@ -850,7 +850,7 @@ einsamen Waldweg wieder hinab.
 sagte Harald äußerst lebendig. »Nur fix! Und dann geht
 es nach Wenderloh-Haus!«
 
-»Denkst du, das Wenderloh ein zusammenklappbares
+»Denkst du, daß Wenderloh ein zusammenklappbares
 Taschenflugzeug besitzt?!«, flüsterte ich bissig.
 
 »Was ich denke, denkt auch Fabian, und der ist
@@ -867,7 +867,7 @@ du schon in der Schule lernen sollen.«
 
 Es wurde Viertel eins, bevor wir uns gen Osten
 auf den Weg machten. Der Temperatursturz hatte leichte
-Nebelgebilde hervorgerufen, über die Heide zogen seine
+Nebelgebilde hervorgerufen, über die Heide zogen feine
 Schleier hinweg, die sich zuweilen zusammenballten
 und gespenstische Formen annahmen. Das Heidekraut war
 noch naß, die herbstliche Erde roch kräftig und würzig,
@@ -875,7 +875,7 @@ ringsum herrschte Totenstille.
 
 Dieser fast halbstündige Spaziergang und zwei
 lange Schlucke aus der Kognakflasche belebten mich,
-meinte Mißstimmung schwand, und in versöhnlichem Tone
+meine Mißstimmung schwand, und in versöhnlichem Tone
 erklärte ich:
 
 »Harald, die Sache beginnt mir Spaß zu machen!«
@@ -901,7 +901,7 @@ voraus: Die besseren Ohren!
 Wir waren noch zehn Meter von der Nordostecke
 entfernt.
 
-Wir horchen. Zu sehen war wenig. Nebelfetzen flatterten
+Wir horchten. Zu sehen war wenig. Nebelfetzen flatterten
 hier oben auf dem Hügel noch dichter als in der Heide.
 
 »Du mußt dich getäuscht haben«, raunte Harald
@@ -930,7 +930,7 @@ morsche Löcher zeigte.
 
 Harald war besessen von Jagdeifer. Ich kenne das.
 In solchem Zustand ist mit ihm nicht zu reden. Er hatte
-wie ein Junger Schweißhund von irgend etwas Witterung
+wie ein junger Schweißhund von irgend etwas Witterung
 bekommen und dann läßt er nicht locker, er muß dem,
 was er vermutet, auf den Grund kommen, mag es biegen
 oder brechen. Daß er trotzdem nie die notwendig Vorsicht
@@ -939,7 +939,7 @@ außer acht läßt, bedarf keiner Erwähnung.
 Er schob den Kopf durch die Türspalte und stand
 so minutenlang still. Dann machte er sich ganz dünn
 und schlüpfte in den Stall hinein. Mein Bäuchlein war
-mir etwas hinderlich, im mußte die schiefe Pforte ein
+mir etwas hinderlich, ich mußte die schiefe Pforte ein
 wenig mehr nach außen pressen und fuhr zusammen wie
 ein ertappter Dieb …
 
@@ -1019,9 +1019,9 @@ Das war Harst.
 
 Er trat näher. Wir beide sahen wie Urwaldmenschen
 aus, oder wie alte Besen, wir starrten von Heuhalmen,
-Strohhalmen und trockenem Laub. »Sind sie weg«, fragte
+Strohhalmen und trockenem Laub. »Sind sie weg?«, fragte
 ich sehr geistreich. Wären »sie« nicht weg gewesen,
-hatte Harald wohl kaum seine Lampe angeknipst.
+hätte Harald wohl kaum seine Lampe angeknipst.
 
 »Ja, alle drei«, flüsterte er nachsichtig und
 schüttelte sich wie ein nasser Pudel.
@@ -1148,7 +1148,7 @@ bäumte sich jäh mit der Spitze auf, überschlug sich
 nach hinten, und da Harst mit dem Scheinwerfer nicht
 schnell genug folgen konnte, tauchte der Apparat in
 die Finsternis der wolkigen Nacht ein, — — in der Ferne
-ein Krachen splittern, — — wir liefen blindlings vorwärts,
+ein Krachen, Splittern, — — wir liefen blindlings vorwärts,
 wir sahen einen Mann neben dem toten Riesenvogel stehen,
 ein heller, langer Funke zischte empor, der eine Flügel
 brannte, Flammen leckten hoch, und rot umstrahlt von
@@ -1204,10 +1204,10 @@ Fabian Mallo legte ihm die Hand fest auf die Schulter.
 »Sie haben mich gehaßt, — lassen Sie den Haß sich läutern,
 denn wir beide liebten eine stille, feine Märtyrerin.
 Man wird Sie bestrafen, Wenderloh, aber wenn Sie wieder
-ein freier Mann sind, denken Sie daran, das Haus Havelblick
+ein freier Mann sind, denken Sie daran, daß Haus Havelblick
 Ihnen jederzeit offen steht.«
 
-Noch einer war zur Stelle, der sich mehr in Hintergrund
+Noch einer war zur Stelle, der sich mehr im Hintergrund
 gehalten hatte.
 
 Und der lief jetzt mit kurzen Beinchen und keuchend
@@ -1279,7 +1279,7 @@ Beim Frühstück ließ sich Haralds Mutter alles
 haarklein erzählen. »Drillinge?!«, meinte sie kopfschüttelnd.
 »Also womöglich drei Brüder, die sich täuschend ähnlich
 sehen! Was können die alles für Unfug anstiften! Schrecklich
-gleich drei!«
+— gleich drei!«
 
 »… Womit ich gerechnet hatte, liebe Mama, sowohl
 mit dreien, als mit schrecklichem Unfug«, lächelte
@@ -1300,7 +1300,7 @@ mußte, obwohl er ein Gauner war.
 <p class='centered'>Meine sehr verehrten Gegenfüßler,</p>
 
 > unser bisher so kurzes Gegeneinanderarbeiten hat mich immerhin
-dahin belehrt, das ein Ortswechsel empfehlenswert erscheint.
+dahin belehrt, daß ein Ortswechsel empfehlenswert erscheint.
 Ich habe Havelblick heute früh verkauft. Es wird in
 meinem Sinne weiter verwaltet werden. Die Kabeldepesche
 an Pinkertons, New York, war ein gelungener Schachzug,
@@ -1325,7 +1325,7 @@ zu wollen. — Edith läßt Sie herzlich grüßen.
 Harst sagte nur: »Nette Aussichten, mein Alter
 …! Gegen Doppelgänger läßt es sich wohl zur Not kämpfen,
 aber Dreifachgänger?! Das ist selbst mir etwas zu reichlich
-…! Und dabei hatte ich unseren Fabian schon vor der
+…! Und dabei hätte ich unseren Fabian schon vor der
 Philharmonie festnehmen lassen können, denn — blättere
 in deinem Hirn zurück — ich nannte Fabians Chauffeur,
 der natürlich mit »Erma« identisch war, nicht die Hausnummer
