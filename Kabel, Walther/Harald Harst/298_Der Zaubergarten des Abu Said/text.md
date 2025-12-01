@@ -1125,8 +1125,8 @@ Zu meiner Überraschung jagte Harst sogar drei Schuß
 nach oben … Bei dem dritten den er in eine Ecke der Falltür
 setzte, erklang über uns ein leiser Schrei.
 
-»Also doch!«, meinte der Apparaten befriedigt. »Jetzt
-haben Sie einen der Mörder das Grafen gezeichnet, und nach
+»Also doch!«, meinte der Ägypter befriedigt. »Jetzt
+haben Sie einen der Mörder des Grafen gezeichnet, und nach
 bisherigen Erfahrungen verheilt Selbst ein Streifschuß kaum in
 ein paar Stunden.«
 
@@ -1144,7 +1144,7 @@ Konserven angefüllt sind und angestochen werden.
 Said flog empor, trat mir auf den Schenkel, stieß hinter
 mir die Verschalung des Schachtes auf und gab mir einen
 <@pagebreak/>
-Stoß… Ich rollte ins Leere — in die Tiefe … in dunkle
+Stoß … Ich rollte ins Leere — in die Tiefe … in dunkle
 Finsternis. Bis ein Lichtstreifen aufblitzte und eine Frauenstimme
 mit rauher Herzlichkeit erklärte: »Setzen Sie sich besser
 hier auf den Diwan, Herr Schraut. Der Fußboden ist trotz des
@@ -1164,33 +1164,34 @@ unweit der Neuen Ruhlebener Straße.
 <h3>Die Frau, die fragt …</h3>
 
 Was war geschehen?! Weshalb hatte mir für Sekunden
-ie betont fauchende Blechbüchse das Hirn vor Todesangst
+die haßvoll fauchende Blechbüchse das Hirn vor Todesangst
 gefrieren lassen und hatte es nachher doch dulden müssen, daß
 Abu Said diesen Gasspeier mit der Kaltblütigkeit eines erprobten
 Kämpen ins Freie trug, verscharrte und zurückkehrte
-nötig tat, als Ware — — gar nichts g:zwedent
+und so tat, als wäre — — gar nichts geschehen!
 
 Es brannte nur noch die Ampel an der mit Seide besponnen
-Decke, Die Ampel brannte matt, wie die Sonne hinter
-seinem Gewölk, und die Lichtverteilung im Raum war So
+Decke. Die Ampel brannte matt, wie die Sonne hinter
+feinem Gewölk, und die Lichtverteilung im Raum war So
 gleichmäßig, daß die Entfernungen schwer zu schätzen blieben.
--  Said war wieder da, zog eine Gasmaske vom Gesicht,
-hob die Hornbrille aus die kühne Nase und erklärte nur:
-»Bergrabenl«
 
-Meine Blicke suchten die Frau. Die &Srau war nicht mehr
-da. Nur Said stand vor uns. Harst saß in einem altertüinichen
+Said war wieder da, zog eine Gasmaske vom Gesicht,
+hob die Hornbrille auf die kühne Nase und erklärte nur:
+»Vergraben!«
+
+Meine Blicke suchten die Frau. Die Frau war nicht mehr
+da. Nur Said stand vor uns. Harst saß in einem altertümlichen
 Sessel und wandte den Kopf hin und her. Die echten
 <@pagebreak/>
 Teppiche, mit denen die Wände dicht behängt waren, mußten
-ihm, dem Kenner, Augenweide Sein.
+ihm, dem Kenner, Augenweide sein.
 
-»So liebe eigentlich mehr ein!streng logisches Geschehen«,
+»Ich liebe eigentlich mehr ein streng logisches Geschehen«,
 meinte er, uns beide anredend, und fuhr in der Betrachtung
 der Teppiche fort. »Vielleicht ist dieser Wunsch das Eingeständnis
-persönlicher Unzulänglichkeit. Möglich, daß die Fieberigen
-Ereignisse tatsächlich sauber aneinander gereizte Glieder
-einer Kette sind. Tisches, daß ich die fehlenden Glieder
+persönlicher Unzulänglichkeit. Möglich, daß die bisherigen
+Ereignisse tatsächlich sauber aneinander gereihte Glieder
+einer Kette sind. Möglich, daß ich die fehlenden Glieder
 nicht finde. — Was ist es mit diesem Prunkgemach, Said?
 Haben Sie die polizeiliche Erlaubnis dazu, einen Teil der bewaldeten
 Anhöhe hinter den Wohnwagen zu unterminieren?!«
@@ -1198,80 +1199,80 @@ Anhöhe hinter den Wohnwagen zu unterminieren?!«
 Said erwiderte mit geringerem Zischen:
 
 »Haben Sie die Erlaubnis, Schüsse in die Luft zu feuern,
-Herr Harst?! Eine schien Kugeln häaättvy? auch Ärger treffen
-können. dicker muß zusehen, alle Mittel auszunutzen, die ihm
-ein Weiterleben erleichtern. Dolch meine damit nicht allein das
-Dieben als physischen Vorgang. Leben ist Kampf. Die Formen
-dieses Kampfes richten sich nach der »Persönlichkeit des Einzelindividuums
-und nach Art! seiner Verbündeten und seiner
-Gegner. dich bin Gauberküüstler, Wahrsager, Kaufmann,
-Spekulant, auch Phile:öph in bo!cveidenen Grenzen. — Wollen
+Herr Harst?! Eine Ihrer Kugeln hätte auch ärger treffen
+können. Jeder muß zusehen, alle Mittel auszunutzen, die ihm
+ein Weiterleben erleichtern. Ich meine damit nicht allein das
+Leben als physischen Vorgang. Leben ist Kampf. Die Formen
+dieses Kampfes richten sich nach der Persönlichkeit des Einzelindividuums
+und nach Art seiner Verbündeten und seiner
+Gegner. ich bin Zauberkünstler, Wahrsager, Kaufmann,
+Spekulant, auch Philosoph in bescheidenen Grenzen. — Wollen
 Sie bitte freundlichst hier eintreten — rasch …«
 
-Grgendwo holte eine seine schnarrende Glocke aigeIchlagen.
-»Es kommt Mine Klientin, die sich für heute zwei
-Uhr nachmittags enge. 71 bat,« erläutertv er. »Sie werden
-einer interessanten € vv beiwohnen …«
+Irgendwo hatte eine feine schnarrende Glocke angeschlagen.
+»Es kommt eine Klientin, die sich für heute zwei
+Uhr nachmittags angesagt hat,« erläuterte er. »Sie werden
+einer interessanten Szene beiwohnen …«
 
-Er hob einen: er Wandteppiche empor, dahinter lag eine
-ebenfalls mit Errichten ausgekleidete tiefe Nische. Wir
+Er hob einen der Wandteppiche empor, dahinter lag eine
+ebenfalls mit Teppichen ausgekleidete tiefe Nische. Wir
 traten ein, der Vorhang fiel herab und in dem Gewebe in
 Augenhöhe schimmerten zwei zackige Mottenlöcher.
 
 Dann erlosch die Ampel in dem großen Raum, wir vernahmen
 seltsame, leise Geräusche, So, als ob schwere Gewebe
 an Holz sich scheuerten, und abermals wurde es vor uns hell,
-— nicht mehr die rosa Ampel war] ihre freundlichen, matten
-Mehrere über orientalische Pracht, sondern eine große. altmodische,
+— nicht mehr die rosa Ampel warf ihre freundlichen, matten
+Reflexe über orientalische Pracht, sondern eine große, altmodische,
 <@pagebreak/>
 verrostete Stallaterne, verstaubt und mit Spinngeweben
 überzogen, stand auf einem wie oxydiertes Silber
 schimmernden Prunksarg, der mitten in einem leeren häßlichen
-Kellergewölbe ausgestellt war. ön der Laterne brannte ein
-Stück dicker Kerze mit langen Cropfenbärten.
+Kellergewölbe aufgestellt war. In der Laterne brannte ein
+Stück dicker Kerze mit langen Tropfenbärten.
 
-Wenn mir nicht sogar! klar geworden wäre, daß die
+Wenn mir nicht sogar klar geworden wäre, daß die
 schmutzigen, kalkbespritzten Kellerwände, an denen stellenweise
-die Vierecke gemauerter Ziegelsteine hin durchleuchteten, lediglich
+die Vierecke gemauerter Ziegelsteine hindurchleuchteten, lediglich
 gemalte Vorhänge sein könnten, würde ich zweifellos ein
 merkliches Unbehagen verspürt haben. Daß auch der Sarg
 nur gut gemalte Leinwandattrappe, bedurfte keiner Nachprüfung.
-Gebt erst fiel mir ein, daß in den Zeitungen gelegentlich
+Jetzt erst fiel mir ein, daß in den Zeitungen gelegentlich
 auf einen Wahrsager hingewiesen worden war, der einen
 außerordentlichen Zulauf aus allen Kreisen haben sollte, jedoch
-niemals Honorar vordere. Die Andeutungen der Presse waren
+niemals Honorar fordere. Die Andeutungen der Presse waren
 äußerst vorsichtig gehalten, und gerade die Behutsamkeit der
-sonst doch all und jedes ausschnüsselnden Reporter und ihre
-offenbare Angst, es mit dem »Großen Magier« nicht« zu verderben,
-mußten die Neugier noch mehr anstacheln. »’
+sonst doch all und jedes ausschnüffelnden Reporter und ihre
+offenbare Angst, es mit dem »Großen Magier« nicht zu verderben,
+mußten die Neugier noch mehr anstacheln.
 
-Harst raunte mir uns Ohr: »Abu Said übertreibt die
-Scharlatan-Eitelkeit … — Still«
+Harst raunte mir ins Ohr: »Abu Said übertreibt die
+Scharlatan-Eitelkeit … — Still!!«
 
 Uns gegenüber war eine Holztür sichtbar, und die war
 echt. Sie schien aus Balken zu bestehen, die halb verwittert
 waren, sie hatte ein riesiges altmodisches Schloß mit Drücker,
 sie kreischte mißtönend in den Angeln, und zögernd trat eine
 Dame in dunklem Seidenmantel ein. Sie war tief verschleiert.
-Inder ihr her kam Abu Said, wieder in seinem Schlafrock,
-See und Brille, verriegelte die Tür und führte die Besucherin
-wortlos zum Kopfende des Ganges, wo ein! einfacher Dreibeinschemel
+Hinter ihr her kam Abu Said, wieder in seinem Schlafrock,
+Fes und Brille, verriegelte die Tür und führte die Besucherin
+wortlos zum Kopfende des Ganges, wo ein einfacher Dreibeinschemel
 stand. Sie setzte sich, in ihrer Haltung, in ihren Bewegungen
 lag eine gewisse selbstbewußte Geringschätzung dieser
 lächerlichen Aufmachung der Erdhöhle. — Oder — war es
-doch ein Keller eines hörst verschwundenen Hauses? Konnte
+doch ein Keller eines längst verschwundenen Hauses? Konnte
 hier nicht einmal ein großer Bauernhof gestanden haben?!
 
 <@pagebreak/>
 Die Balkentür und ein Teil der Kellermauer drüben waren
-nicht besserte Leinwand.
+nicht beklexte Leinwand.
 
 Abu Said lehnte sich gegen den Sarg.
 
-»Ich habe Ohren Wunsch erfüllt«, sagte er sehr leise.
-»die versprachen mir Verschwiegenheit. Die &olgen einer
-Gndiekretion kennen Sie. Vorgestern war ein Herr hier bei
-mir … Freute … ist er tot. Er hüstelte die Binde zu früh.
+»Ich habe Ihren Wunsch erfüllt«, sagte er sehr leise.
+»Sie versprachen mir Verschwiegenheit. Die Folgen einer
+Indiskretion kennen Sie. Vorgestern war ein Herr hier bei
+mir … Heute … ist er tot. Er lüftete die Binde zu früh.
 Sie dürfen es Jetzt.«
 
 Die Dame faßte mit ihren behandschuhten Händen unter
@@ -1279,30 +1280,30 @@ den schwarzen Schleier und legte die Halbmaske, die keine
 Augenlöcher hatte, in den Schoß.
 
 Nun erst gewahrte sie die düstere Umgebung und schrak
-seicht zusammen. Ehre selbstsichere Haltung verlor sich, und
+leicht zusammen. Ihre selbstsichere Haltung verlor sich, und
 die Stimme klang trotz der gekünstelten Heiserkeit eigentümlich
-verängstigt, als sie fragte: «&st dies die Bühne Ohren
+verängstigt, als sie fragte: »Ist dies die Bühne Ihrer
 Schaubude, Herr Said?!«
 
 Der Ägypter überhörte die Frage. »Was wünschen Sie
 zu wissen?«, lautete seine Entgegnung.
 
-Die &Srau spielte nervös mit der schwarzen Halbmaske.
-»Empfangen Sie hier all Söhne reichen Klientinnen?«
+Die Frau spielte nervös mit der schwarzen Halbmaske.
+»Empfangen Sie hier all Ihre reichen Klientinnen?«
 
 »Ich bin kein Advokat. — Was wünschen Sie zu wissen?«
 
 Die Dame hatte ihre Sicherheit wiedergefunden.
 
-»ach muß mich etwas weitschweifigen ausdrücken, Herr
-Said … Nehmen die an, ich hätte zufällig von einem Verbrechen
+»Ich muß mich etwas weitschweifigen ausdrücken, Herr
+Said … Nehmen Sie an, ich hätte zufällig von einem Verbrechen
 Kenntnis erhalten, das ein Bekannter von mir begangen
-hat. Meine &Srage lautet: Werde ich dadurch, das
-ich dieses Verbrechen verheimlichenbelse oder auch nur darüber
+hat. Meine Frage lautet: Werde ich dadurch, daß
+ich dieses Verbrechen verheimlichen helfe oder auch nur darüber
 schweige, in Ungelegenheiten geraten? Ich betone, es
 handelt sich um kein Kapitalverbrechen, also nicht um Mord,
 Totschlag oder Raub mit Zwangsmitteln. Die Verhältnisse
-liegen so, daß ich an den Betreffenden gebunden bin, ut
+liegen so, daß ich an den Betreffenden gebunden bin, nicht
 durch Liebe oder etwa als Mittäterin. Jedenfalls sind es
 trotzdem Fesseln, die ich nicht abstreifen könnte, ohne mich
 selbst zu vernichten.«
@@ -1311,65 +1312,67 @@ selbst zu vernichten.«
 Eine gewisse Erregung machte sich in ihren letzten Worten
 bemerkbar. Und die Quelle dieser Erregung war Furcht,
 
-Abu Hai regte sich nicht, Das Schweigen schien die
+Abu Said regte sich nicht. Das Schweigen schien die
 Frau, die sehr gute Nerven haben mußte, den Eindruck und
 die Wirkung der eigenen Worte vergessen zu machen. Sie
 setzte sich aufrechter.
 
 »Bitte, Herr Said!«
 
-Said sagte nur: »Streifen Sie Ohren rechten Handschuh
-etwas zurück. Ach möchte Göhr Handgelenk leicht umspannen.
+Said sagte nur: »Streifen Sie Ihren rechten Handschuh
+etwas zurück. Ich möchte Ihr Handgelenk leicht umspannen.
 Fürchten Sie nichts.«
 
-Hinter dem Schleier drang ein hartes, kurzes Auslachen
+Hinter dem Schleier drang ein hartes, kurzes Auflachen
 hervor. »Ich habe bereits anderen Dingen ins Auge geschaut,
-als einem Sarg aus »Pappe!!«
+als einem Sarg aus Pappe!!«
 
 Das klang wie eine Herausforderung.
 
-»Grotten wappnen Sie sich mit der ganzen Stärke Ihres
-Eigendünkels!«, erwiderte der Ägypter sonst, — aber die
-Tischkante blieben.
+»Trotzdem wappnen Sie sich mit der ganzen Stärke Ihres
+Eigendünkels!«, erwiderte der Ägypter sanft, — aber die
+Zischlaute blieben.
 
 Er hatte bereits ihre Hand ergriffen … Die Beleidigung,
-die seine Worte enthielten. quittierte die Frau nur mit einer
+die seine Worte enthielten, quittierte die Frau nur mit einer
 hochmütigen Kopfbewegung.
 
 Die Laterne erlosch plötzlich.
 
 Geräusche Folgten, — die schnellen, keuchenden Atemzüge
-der Frau hörten jäh auf. als dort, wo der Sarg gestanden,
-ein ungewisses Licht zu] dämmerte. Es glich Eimer Scheibe, die
+der Frau hörten jäh auf, als dort, wo der Sarg gestanden,
+ein ungewisses Licht aufdämmerte. Es glich einer Scheibe, die
 mit Leuchtfarbe stellenweise bestrichen war, und die langsam
 rotierte. Dann wurde es plötzlich heller, und für Sekunden
-nur saßen auch wir genau dasselbe Eid, das wir in dem
+nur sahen auch wir genau dasselbe Bild, das wir in dem
 Wohnzimmer des leeren Ladens erblickt hatten, als wir beide
-nichts dort eingedrungen waren: Den Toten zwischen den
-Urteil, die versl’aubten Fenster, darunter die Heizkörper … —
+allein dort eingedrungen waren: Den Toten zwischen den
+Kisten, die verstaubten Fenster, darunter die Heizkörper … —
 alles halb verschwommen, nur das Gesicht der Leiche grell
-»Segler — nur das!
+beleuchtet — nur das!
 
 Ein schriller Schrei gellte uns in die Ohren.
 
-»oder Lichtschimmer erlosch wieder …
+Jeder Lichtschimmer erlosch wieder …
 
 <@pagebreak/>
 Harst flüsterte mir zu: »Hinein, — wir müssen das Weib
-eben’«
+sehen!«
 
 Aber der dicke Teppich war jetzt straff gespannt … Wir
-stammten uns dagegen, — — und mit einem Male hatte ich
-das Gefühl, als ob ich jegliche Erdenschwere verlöre … sich
+stemmten uns dagegen, — — und mit einem Male hatte ich
+das Gefühl, als ob ich jegliche Erdenschwere verlöre … Ich
 fühlte wohl, daß mir die Sinne schwanden, aber es war nichts
 Beängstigendes bei diesem Empfinden kraftlosen Hinübergleitens
 in das Grenzland des Todes …
 
-Es war wie Kiefer, jäher Opiumrausch.
+Es war wie tiefer, jäher Opiumrausch.
 
-<@pagebreak/>
-2\. Teil.
-Diebe … und Diebe.
+<@pagebreak 35/>
+
+<p style="text-align: center; font-size: x-large;">2. Teil.</p>
+
+<h1>Diebe … und Diebe.</h1>
 
 <h2>1. Kapitel.</h2>
 <h3>Mathildes falscher Verdacht.</h3>
@@ -1377,108 +1380,110 @@ Diebe … und Diebe.
 »Die Herren schlafen aber wirklich zu fest«, — und der
 Taxameterchauffeur rüttelte mich nochmals.
 
-Ach starrte ihn groß an. Die bleierne Schwere in den
-Gliedern entsprach durchaus der Untätigkeit des Hirns, kritisch
+Ich starrte ihn groß an. Die bleierne Schwere in den
+Gliedern entsprach durchaus der Unfähigkeit des Hirns, kritisch
 oder logisch zu denken.
 
-Harst meinte lallend: »Nun,!so steige doch aus … Wo …
+Harst meinte lallend: »Nun, so steige doch aus … Wo …
 sind wir, Chauffeur?«
-M« »Ja, Blücherstraße zehn, — Fahrtziel«, lachte der ältere
 
-nun.
+»Na, Blücherstraße zehn, — Fahrtziel!«, lachte der ältere
+Mann.
 
-»So …!J0 … Merkwürdig … Und wo sind wir eigentlich
+»So … so … Merkwürdig … Und wo sind wir eigentlich
 eingestiegen?«
-»An der Neuen Welt bei Spandau … — Dja,!so’n
 
-NVachmittagsschoppen!! — Sechs Mark fünfzig, bitte …«
-Als ich hinausgekrabbelt war,!stand ich wie aus einem
+»An der Neuen Welt bei Spandau … — Dja, so’n
+Nachmittagsschoppen!! — Sechs Mark fünfzig, bitte …«
+
+Als ich hinausgekrabbelt war, stand ich wie auf einem
 Schiff, der ehrliche alte Bürgersteig schlug Wellen, und unser
 ehrliches altes Heim dort links wurde von einem Erdbeben
 geschüttelt.
+
 »Hier … haben Sie zehn Mark«, sagte Harst mit belegter
 Stimme … »Erzählen Sie niemandem davon, daß …« — er
 <@pagebreak/>
 verlor den Boden, taumelte etwas, lehnte sich gegen die noch
-offene Tür und fügte hinzu: »Habe es vergessen … Jahren
+offene Tür und fügte hinzu: »Habe es vergessen … Fahren
 Sie mit Gott.«
 
 Mathilde stand vor der Haustür und beobachtete unseren
-Anwälten. Plötzlich machte sie kehrt, rannte davon und ich
-vernahm ihren Alarmruf: »Nr So was, — — — die beiden sind
-ja …« das letzte Wort endete mit »offen«. vielleicht ging es auch
-auch mit »offen« an, denn falls »haltlos für »betrunken«
-den volkstümlicheren Ausdruck wir?!:ich gewählt hätte, wäre
-ich angesichts der Tatsache unserer unverschuldeten Bein
-Schwäche grob geworden.
+Anmarsch. Plötzlich machte sie kehrt, rannte davon und ich
+vernahm ihren Alarmruf: »Na so was, — — die beiden sind
+ja …« das letzte Wort endete mit »offen«, vielleicht fing es auch
+auch mit »offen« an, denn falls Mathilde für »betrunken«
+den volkstümlicheren Ausdruck wirklich gewählt hätte, wäre
+ich angesichts der Tatsache unserer unverschuldeten Beinschwäche
+grob geworden.
 
 Arm in Arm betraten wir Haralds Arbeitszimmer und
-fanden getrennt in die Klubsessel am Kamm. Tälern Freund
-Fragte tiefsinnig: »Depression das« V’eÜbennker müssen wieder
+sanken getrennt in die Klubsessel am Kamin. Mein Freund
+Fragte tiefsinnig: »Begreifst du das? Die Chemiker müssen wieder
 ein neues Teufelszeug erfunden haben, das ganz besonders
 harmlose Vergiftungen erzeugt.«
 
-an der Tür erschien Parktor mit einem Teebrett und
-sechs Flaschen Seifenwasser und zwei Eismeer. Sie sagte keinen
-Ton, aber ihr Blick sprach Band«, und als Harst abwinkte
-und starken Nickte verlangte, meinte sie nur: »Eingelegte
-Heringe sind nach tu’«
+In der Tür erschien Mathilde mit einem Teebrett und
+sechs Flaschen Seifenwasser und zwei Gläsern. Sie sagte keinen
+Ton, aber ihr Blick sprach Bände, und als Harst abwinkte
+und starken Mokka verlangte, meinte sie nur: »Eingelegte
+Heringe sind auch da!«
 
-»Der Einiges hole Sie mit Allein …« — und dann nach
-dieser Krastexpols’on brach Harst in ein endloses Gelächter aus.
+»Der Teufel hole Sie mit Ihrem …« — und dann nach
+dieser Kraftexplosion brach Harst in ein endloses Gelächter aus.
 
 Mathilde war versöhnt, entschwebte, und da begann die
 Standuhr acht zu schlagen.
 
-Harald war] den Hut auf das Sofa und massierte sich die
-Schläfen. »Wie fühlst du dich, men Alter?«
+Harald warf den Hut auf das Sofa und massierte sich die
+Schläfen. »Wie fühlst du dich, mein Alter?«
 
-»Bekümmert!!«
+»Belämmert!!«
 
-»Tage bepermallont, und es ist dasselbe!«
+»Sage bepermallont, und es ist dasselbe!«
 
-»Was?! He … Permallons?!« Mein Mund Glied geweitet.
+»Was?! Be…permallont?!« Mein Mund blieb geweitet.
 
 Er nickte. »Wir haben uns hineinlegen lassen. Abu
-Said war &uturus Permallon. der sich im Sanatorium Havelblick
-Selig Gern nannte und einen gräßlichen Bart hatte, den
+Said war Futurus Permallon, der sich im Sanatorium Havelblick
+Felix Perm nannte und einen gräßlichen Bart hatte, den
 <@pagebreak/>
 wir für unecht hielten. Jetzt ist dieser Bart ägyptisch gefärbt
-und ein wichtiges Dekoroationssftück des großen Magiers. —
+und ein wichtiges Dekorationsstück des großen Magiers. —
 Wirst du aus der Geschichte klug?!«
 
-»Nein, ich mache auch keinerlei Versuch, dabei hinzu
-werden, mein Hirn ist Rührei und meine Schädeldecke hin
-Bleipanzer.« sei seufzte. »Trostlos fühlte ich mich … Ins
-Bett gehe ich, Nutzlos soll mir Fliehender kochen … Vor
-ne Tagen rechnet nicht auf mich. Ich habe diese Schwänze
-alt.«
+»Nein, ich mache auch keinerlei Versuch, daraus klug
+zu werden, mein Hirn ist Rührei und meine Schädeldecke ein
+Bleipanzer.« Ich seufzte. »Trostlos fühle ich mich … Ins
+Bett gehe ich. Mathilde soll mir Fliedertee kochen … Vor
+drei Tagen rechnet nicht auf mich. Ich habe diese Schwänke
+satt.«
 
-»Kanu?!«
+»Nanu?!«
 
 Der Ausruf galt nicht mir, sondern unserer Dicken, die
 bereits den Mokka hereintrug.
 
 »Können Sie zaubern, Milde?«
 
-»Rein, noch nicht … Aber der Herr, der den Brief
-vorhin abgab, sagte 31 mir: »Fräulein, sagte er, Ihre beiden
+»Nein, noch nicht … Aber der Herr, der den Brief
+vorhin abgab, sagte zu mir: »Fräulein, sagte er, Ihre beiden
 Herren werden sehr bald erscheinen … Halten Sie Mokka
-und Keller bereit. Der Dämmerschoppen war sehr ausgedehnt.
-&raulein …« — So sagte er und gab mir drei Mark. Ein
-sehr seiner Herr wer es, nur ein bisher durfte! im Gesicht,
-und der Huf war wie ein voller Ka]seewärmer. — Da, trinken
-Sie, Herr Harald … Ein Glück, daß die anrüchige Frau im
-Theater ist … Schämen sollen Sie sich was, Herr Schraut!
-8qQ, die! Sie …
+und Selter bereit. Der Dämmerschoppen war sehr ausgedehnt,
+Fräulein …« — So sagte er und gab mir drei Mark. Ein
+sehr feiner Herr war es, nur ein bißchen dunkel im Gesicht,
+und der Hut war wie ein roter Kaffeewärmer. — Da, trinken
+Sie, Herr Harald … Ein Glück, daß die gnädige Frau im
+Theater ist … Schämen sollten Sie sich was, Herr Schraut!
+Ja, Sie! Sie …«
 
-die verschluckte, was in ihren empörten Augen war, und
+Sie verschluckte, was in ihren empörten Augen war, und
 erst nach längerem Hin und Her stellte sich heraus, daß der
-Brief, den der Chau)jeur hier hatte abgeben sollen, nicht angelangt
+Brief, den der Chauffeur hier hatte abgeben sollen, nicht angelangt
 war. Deshalb hätte uns niemand vermißt, wenn Abu
-Walde Qaubergarten uns in zwei Distelsträucher verwandelt
+Saids Zaubergarten uns in zwei Distelsträucher verwandelt
 hätte, und kein Hahn hätte vorläufig nach unserem Verbleib
-gebracht.
+gekräht.
 
 »Liebe Mathilde, geben Sie mir den Brief«, bat Harald
 äußerst höflich, um uns nicht neuen Wortattacken auszusetzen.
@@ -1486,27 +1491,28 @@ gebracht.
 Das sauber getippte Schreiben lautete:
 
 <@pagebreak/>
-Meine Herren,
-verzeihen Sie die Jachgemaße Behandlung, die wir Ihnen
-angedeihen ließen, damit wir das Geld räumen konnten, in
-diesem Falle die großer Schaubude des Abu Said, die bereits
-samt den beiden Wagen verkauft ist. Der Platz, wo sie
-stand, ist leer, und von die »Polizei dort nachgräbt, findet
-sie nicht einen einzigen ’Perier mobil. »Perterieppch natürlich.
-Das. was wir mit d’osem lustigen He’in seit Juni bezweckten
-(damals erwarben wir es), ist endgültig erreicht. Es
-hätte keinen Druck, sich gewollt dort u zu bemühen. Der
-leere Platz wird morgen von einem Affentheater (Mister
-Hirn Coopers große Affenschar) eingenommen werden. Wir
-sind nicht Cooper. Sparen Sie sich die Silbe. Wir haben
-auch unsere anderen Unternehmungen (bizarren) schon weiter
-vergeben und zwar vorläufig an Theodor Eglochberg. —
-Was den Mord betrifft. 1o tappen wir gänzlich im Dunkeln.
+<p class="centered">Meine Herren,</p>
 
-Verbindlichst Die drei 5.
+> verzeihen Sie die sachgemäße Behandlung, die wir Ihnen
+angedeihen ließen, damit wir das Feld räumen konnten, in
+diesem Falle die große Schaubude des Abu Said, die bereits
+samt den beiden Wagen verkauft ist. Der Platz, wo sie
+stand, ist leer, und wenn die Polizei dort nachgräbt, findet
+sie nicht einen einzigen Perser mehr. Perserteppich natürlich.
+Das, was wir mit diesem luftigen Heim seit Juni bezweckten
+(damals erwarben wir es), ist endgültig erreicht. Es
+hätte keinen Zweck, sich nochmals dorthin zu bemühen. Der
+leere Platz wird morgen von einem Affentheater (Mister
+Jim Coopers große Affenschar) eingenommen werden. Wir
+sind nicht Cooper. Sparen Sie sich die Mühe. Wir haben
+auch unsere anderen Unternehmungen (Zigarren) schon weiter
+vergeben und zwar vorläufig an Theodor Eglochberg. —
+Was den Mord betrifft, so tappen wir gänzlich im Dunkeln.
+
+<p class="right">Verbindlichst &nbsp; &nbsp; &nbsp; Die drei F.</p>
+
 Harst trank den Mokka wie Wasser und lebte sichtlich auf.
 »Also dann — gute Nacht«, sagte er, da ich das Schreiben
-
 ohne jede Bemerkung weglegte.
 
 »Gute Nacht …«
@@ -1514,49 +1520,49 @@ ohne jede Bemerkung weglegte.
 Er erhob sich und verschwand nach seinem Schlafzimmer
 hin,
 
-Auch bei mir wirkte das Fesseln. Meine Bleidecke ward
+Auch bei mir wirkte das Koffein. Meine Bleidecke ward
 normal, und mein Hirn arbeitete geradezu beflügelt. Ich
-knabberte ein paar Stück schien Zucker und ließ mir die letzten
-Ereignisse gründlich durch den Kopf gehen. Dr Frau, die
-der treffliche Abu Said-Permallon uns da in dem Verriet
-923eigt hatte, mußte mit dem Morde irgend schmal zu tun
-haben. »Die Leiche« hatte ein zweiter von den drei 8’s gespielt.
-— nicht schlecht! Die &Sroau kannte den Toten. sonst
+knabberte ein paar Stückchen Zucker und ließ mir die letzten
+Ereignisse gründlich durch den Kopf gehen. Die Frau, die
+der treffliche Abu Said-Permallon uns da in dem Verließ
+gezeigt hatte, mußte mit dem Morde irgend etwas zu tun
+haben. »Die Leiche« hatte ein zweiter von den drei F’s gespielt.
+— nicht schlecht! Die Frau kannte den Toten, sonst
 hätte sie nicht So gellend aufgeschrien. Anscheinend war sie
-hinterher in Ohnmacht gefallen. Daß die drei 8’s uns dies
+hinterher in Ohnmacht gefallen. Daß die drei F’s uns dies
 hatten mit beobachten lassen, mußte einen Zweck haben.
-Welchen?!«
+Welchen?!
 
 <@pagebreak/>
 Ich wurde immer munterer, nahm eine Zigarre und
 läutete nach unserer Dicken …
 
 »Liebe Mathilde, Harald ist schlafen gegangen … Bringen
-Sie mir drei steuere Heringe und zwei Butterbrote.«
+Sie mir drei sauere Heringe und zwei Butterbrote.«
 
 Ich wartete, bis Mathilde entrauscht war, schlich bis
-Harsts Schlag] Zimmertür und horchte. Er s!schnarchte sonst.
+Harsts Schlafzimmertür und horchte. Er schnarchte sanft.
 
-Als ich wieder im Stalles je! lag, rauchte ich und notierte
+Als ich wieder im Klubsessel lag, rauchte ich und notierte
 die Ereignisse des Tages auf meine Art. Meine Geheimschrift
 entziffert niemand.
 
 Es war sehr zweckmäßig, diese Übersicht anzufertigen.
 Das merkte ich erst, als ich immer wieder etwas verbessern
 und hinzufügen mußte. — — 1. Teerlaus kommt, während H.
-nach Anruyjnummer fragt. Teerlaus-Baron Theodor Eglochberg,
+nach Anrufnummer fragt. Teerlaus-Baron Theodor Eglochberg,
 Erbe eines Brillantenarmbandes, 3 Monate Knast geschoben,
 Bescheinigung, Darlehn 1000 Mark, leerer Laden,
 Telephon Spandau 1023. — Anruf auch 1023. — — 2. Wir
-dorthin. &Sinden Leiche. Grammophon, Mordkommission. —
-Theo verfolgt, 3 An’hläge. Wohnt bei Witwe Renate Brack
-mit Töchterchen Juni. — Tote ist Theos Vetter Erwin Graf
+dorthin. Finden Leiche. Grammophon, Mordkommission. —
+Theo verfolgt, 3 Anschläge. Wohnt bei Witwe Renate Brack
+mit Töchterchen Anni. — Tote ist Theos Vetter Erwin Graf
 Dallborg. — H. behauptet, Grammophon benutzt, um Verdacht
-auf Theo zu lenken, spricht aber von Denkfehlern, — —
-3\. Theo Sattel an Harst mit Abu Saids (Sigarrenlieserantl)
+auf Theo zu lenken, spricht aber von Denkfehlern. — —
+3\. Theo Zettel an Harst mit Abu Saids (Zigarrenlieferant!)
 Adresse Rummelplatz. Wir hin. Said malt Zimmer, das
-nachher die »Frau« sieht. Said war Zellengenosse Chaos. —
-&in elf Unterredung, Stearinflecke auf Socken, Flucht, Sturz
+nachher die »Frau« sieht. Said war Zellengenosse Theos. —
+Im Zelt Unterredung, Stearinflecke auf Socken, Flucht, Sturz
 in Versenkung … —
 
 Als ich mit meinen Notizen so weit gediehen war, stieß
@@ -1566,7 +1572,7 @@ Ich vergegenwärtigte mir folgendes: Said floh plötzlich,
 fällt auf der kleinen Bühne in eine Versenkung!!
 
 Er, der doch jeden Schritt dort kannte, — er sollte nicht
-an die Wertsendung gedacht haben«!
+an die Versenkung gedacht haben?!
 
 Ausgeschlossen!
 
@@ -1574,7 +1580,7 @@ Also?!
 
 <@pagebreak/>
 Absicht von ihm! Er fiel absichtlich hinein, und er
-Flasche, wir sollten ihm folgen, was auch geschah.
+wünschte, wir sollten ihm folgen, was auch geschah.
 
 Weshalb dieses trügerische Spiel?!
 
@@ -1585,24 +1591,24 @@ und der Schrei oben nach Haralds drittem Schuß waren
 Betrugsmanöver gewesen.
 
 Wozu?!
+
 … Da kam Mathilde mit meinem Abendessen, deckte
 den Sofatisch und entrauschte. — Heringe regen an. Schon
-
 die Vorstellung, daß diese Fischart zu Millionen und Abermillionen
-gefangen und in Salz gelegt wird, hat etwas Groß
-zügiges. — Meine Gedankenflüge wurden dementsprechend.
-oh mußte unbedingt eine Antwort auf die Frage finden: Weshalb
+gefangen und in Salz gelegt wird, hat etwas Großzügiges.
+— Meine Gedankenflüge wurden dementsprechend.
+Ich mußte unbedingt eine Antwort auf die Frage finden: Weshalb
 dieses trügerische Spiel Abu Saids?!
 
 Mußte?!
 
-Alles Katzen half da sehr wenig. Ich saß fest. Meine
+Alles Raten half da sehr wenig. Ich saß fest. Meine
 Gedanken prallten an dem Hindernis zurück.
 
 Und dann — so ganz auf leisen Sohlen — schlich die
 Müdigkeit herbei …
 
-Das Sofa warten bequem. Vier weiche Kissen dazu …
+Das Sofa war so bequem. Vier weiche Kissen dazu …
 Drei Heringe im Magen …
 
 »Hallo — — munter werden!!«
@@ -1612,18 +1618,18 @@ Ich fuhr empor …
 Mir gegenüber saß Abu Said, und Harst zündete sich
 gerade eine Zigarette an.
 
-»Gestatte, mein Alter … Hier Herr Abu Said, H&igarronhändler,
-Wilmersdorfer Straße 502, Charlottenburg Berlin
+»Gestatte, mein Alter … Hier Herr Abu Said, Zigarrenhändler,
+Wilmersdorfer Straße 502, Charlottenburg-Berlin
 … Nicht zu verwechseln mit Abu Said, dem großen
 Magier …«
 
-— Da hatte ich die Antwort auf die &raqae, die mich bis
+— Da hatte ich die Antwort auf die Frage, die mich bis
 in meine Träume hinein gequält hatte. Abu Said, der Maler,
 der uns in die Falle lockte, war nicht derselbe Abu Said, auf
 <@pagebreak/>
 dessen Bauch ich gepurzelt war. Die beiden Abus hatten unten
 in der Versenkung rasch die Plätze getauscht. Eine Tür war
-ja vorhanden. Einer der drei 8’s hatte dann Abu Saids Rolle
+ja vorhanden. Einer der drei F’s hatte dann Abu Saids Rolle
 weiter geführt. Und das war der große Magier gewesen.
 
 <h2>2. Kapitel.</h2>
@@ -1948,7 +1954,7 @@ Strom Renate Brack«, sagte Harald sehr verglich und reichte
 ich« ans Tasse See. »Unser Ausflug in die Villa Dallborg
 Perle! etwas unprogrammäßig. da Sie uns die Hauptarbeit
 abnehmen. — Bitte — trinken Die … Wir sind doch Eglochbergs
-Freunde, vergessen Sie das nicht! Treue &Sreunde, liebe
+Freunde, vergessen Sie das nicht! Treue Freunde, liebe
 Frau Brack. und Menschen, die volles Verständnis für Entgleiste
 und für kleine Extravaganzen haben. — Wie sind Sie
 in die Villa hineingelangt?«
@@ -2162,17 +2168,17 @@ jungenhaft. Er.
 »Richtig. gewiß., verzeihen Sie … Nachdem der Baron
 dann sehr zerknirscht weggegangen war. packte mich eine unser:
 höfliche Unruhe. Co) traf nachher den Verwalter Burke
-und erkundigte mich nach dem Ergehen seiner &Srau, die krank
+und erkundigte mich nach dem Ergehen seiner Frau, die krank
 gespielt. Burke vertraute mir an, haßt für meinen Mieter
 <@pagebreak/>
 sich etwas sehr Unangenehmes ereignet habe. Mohr wollte
 er nicht jagen. Da habe ich denn zum Schein den einen Teppich
 zusammengerollt, als wollte ich ihn auf dem Hofe klopften.
 Block 3 und 2 haben Ja denselben Hof. Ich ging, da olle
-Stangen besetzt waren, bis zu den &Senstern des Wohnzimmers
+Stangen besetzt waren, bis zu den Fenstern des Wohnzimmers
 des Ladens und lehnte den Teppich gegen die Mauer. Die
 Steinsetzer entfernten sich gerade. Der Teppich rutschte zur
-Seite, fiel gegen den einen &Sensterslügel, und der war nur
+Seite, fiel gegen den einen Fensterflügel, und der war nur
 angelehnt gewesen …«
 
 Sie atmete immer hastiger, und in ihren Zügen zeigte
@@ -2363,7 +2369,7 @@ einen heiseren Schrei, dann rollten zwei Körper auf der Straße
 <@pagebreak/>
 aus dem Auto flogen zwei Herren heraus, auch ich war zur
 Stelle, -«— Harst kniete bereits auf dem Fremden. Eine Polieilaterne
-beleuchtete die Gruppe … &Säuste packten zu, Handballen
+beleuchtete die Gruppe … Fäuste packten zu, Handballen
 Knackten, Polizeihände befühlten den Mantel des finsteren,
 blassen Burschen. eine Pistole und ein langes Küchenmesser
 kamen zum Vorschein.
@@ -2571,7 +2577,7 @@ einfügen, meine Herren Saids …
 »Oh, wir sind für jede Belehrung sehr dankbar«, meinte
 der »blaue« überhöflich.
 
-»Ohr etwas kompliziertvs Eintreten für Ihren &Sreund
+»Ohr etwas kompliziertvs Eintreten für Ihren Freund
 Theo konnte nur erfolgen, wenn Sie sofort nach doch Blonde
 Kenntnis davon erhielten. Wie erlangten Sie diese Kenntnis?
 Bitte — — die Wahrheit!«
@@ -2605,7 +2611,7 @@ vielleicht von der Fälschung Kenntnis hoben … — — Hallo,
 die Flurglocke? Sollten wir noch Besuch bekommen? Etwa
 Rat Peuz? — Gehen wir nachsehen, mein Alter …«
 
-Als wir in von &Slur traten, zog Harst die Zimmertür
+Als wir in von Flur traten, zog Harst die Zimmertür
 hinter sich zu.
 
 Es war Penz. Er rar ganz außer Atem.
