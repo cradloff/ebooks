@@ -1636,272 +1636,273 @@ weiter geführt. Und das war der große Magier gewesen.
 <h3>Villa Dallborg.</h3>
 
 Abu Said hatte sich höflich verneigt und dazu diskret
-gelächelt. Er wollte vielleicht seinerseits noch« etwas äußern,
-aber die Standuhr holte mit dem sinnenden Knacken zum
+gelächelt. Er wollte vielleicht seinerseits noch etwas äußern,
+aber die Standuhr holte mit dem störenden Knacken zum
 Schlagen aus, und zu meiner Verwunderung folgte auf die
 vier Schläge der vollen Stunde nur ein einziger Stundenschlag.
 Es war ein Uhr morgens. Den Tisch hatte Mathilde längst
 abgeräumt, die Gerippe der Heringe waren verschwunden, dafür
 saß mir Abu Said gegenüber, der einen sehr schlichten,
 geschmackvollen blauen Jackettanzug und eine dunkle Krawatte
-trug. Den See hatte er wohl samt Mantel im &lur gelassen.
+trug. Den Fes hatte er wohl samt Mantel im Flur gelassen.
 
 Harst, der mich mit seinem vorgetäuschten Schlafbedürfnis
 und seinem Schnarchen wieder einmal hineingelegt hatte
-und allein auf Ägypterjang ausgezogen war, empfand offenbar
+und allein auf Ägypterfang ausgezogen war, empfand offenbar
 keinerlei Gewissensbisse über diese Heimtücke.
 
-»Hm fand Herrn Said in seinem Stammecas&», erklärte
+»Ich fand Herrn Said in seinem Stammcafé», erklärte
 er leichthin. »Der Wächter konnte mir mitteilen, wo Said
 um diese Zeit anzutreffen sei. Herr Said, bedienen Sie
 sich … Sie werden ja allerdings, was Zigaretten betrifft,
 sehr verwöhnt sein. Und nun erzählen Sie Schraut dasselbe,
 was Sie mir bereits berichteten.«
 
-»Sehr gern …« Grollten schien dem Äaquypter nicht
-ganz behaglich zumute zu sein. »Es war im &rühjahr, etwa
+»Sehr gern …« Trotzdem schien dem Ägypter nicht
+ganz behaglich zumute zu sein. »Es war im Frühjahr, etwa
 Ende Mai, als ein Herr zu mir kam und mir ein Geschäft
-vorschlug. Er wollte Kleine. über meinem Laden gelegene Wohnung
+vorschlug. Er wollte meine, über meinem Laden gelegene Wohnung
 als Wahrsager mit benutzen, ich sollte in diskreter Art
 für ihn Reklame machen und …«
 
 <@pagebreak/>
 »Vergessen Sie die Schaubude nicht!«, warf Harald ein.
-… Co, und das Schaustellerzelt kaufen … Ein gutes
-Geschält schlägt niemand aus. wenn es stehen ist …
 
-»Sagen Sie statt strich »ungefährlich« … Sagen die
+"… Ja, und das Schaustellerzelt kaufen … Ein gutes
+Geschäft schlägt niemand aus, wenn es ehrlich ist …"
+
+»Sagen Sie statt ehrlich »ungefährlich« … Sagen Sie
 weiter, daß die Sache tadellos klappte, daß der Verdienst
-sehnte daß Ihre Lösung sehr bald von jener Sorte, die
-nie alle wird, überlauten wurde … &ügen Sie ein, daß Göhr
-Doppelgänger seine Presse lichtet in tiefstes Geheimnis hüllte,
-daß die zumeist in der »eltbude den Magier spielten — —
-und so weiter. Einzelheiten erübrigen sich. Catsjsache ist, daß
-die heute vormittag graue telephoni!sche Anweisungen erhielten,
-wie Sie sich uns gegenüber zu benehmen hatten. nachdem
-oho Auftraggeber schon vorher Sie betreffs Eglochberg
-ebenso genau instru’zrt hatte, den Sie von Plötzensee
-per kannten. Und jetzt Erfüllen Sie die Vorhalle im Wohnzimmer
-des leeren Ladens erlitt.«
+lohnte, daß Ihre Wohnung sehr bald von jener Sorte, die
+nie alle wird, überlaufen wurde … Fügen Sie ein, daß Ihr
+Doppelgänger seine Persönlichkeit in tiefstes Geheimnis hüllte,
+daß Sie zumeist in der Zeltbude den Magier spielten — —
+und so weiter. Einzelheiten erübrigen sich. Tatsache ist, daß
+Sie heute vormittag genaue telephonische Anweisungen erhielten,
+wie Sie sich uns gegenüber zu benehmen hätten, nachdem
+Ihr Auftraggeber schon vorher Sie betreffs Eglochberg
+ebenso genau instruiert hatte, den Sie von Plötzensee
+her kannten. Und jetzt erzählen Sie die Vorfälle im Wohnzimmer
+des leeren Ladens selbst.«
 
-spanischen war ich so leidlich wieder munter geworden und
-daher imstande, die Dinge Geistig genügend zu verdauen.
+Inzwischen war ich so leidlich wieder munter geworden und
+daher imstande, die Dinge geistig genügend zu verdauen.
 
-»Co? bin technisch du ’ H Basteln und Experimentieren
+»Ich bin technisch durch Basteln und Experimentieren
 etwas vorgebildet«, erklärte Said mit einigem Stolz. »Mein
 Freund Unbekannt befahl mir also heute gegen dreiviertel zehn,
-eine Grammophonplatte im Laden …
+eine Grammophonplatte im Laden …"
 
-Harst wurde ungeduldig. »Co geht das nicht. Sie fuhren
+Harst wurde ungeduldig. »So geht das nicht. Sie fuhren
 also nach Block 3, öffneten mit Nachschlüsseln die Türen,
-fanden im Wohnzimmer den Toten, pr6parierten die Platte
-mit hartem Stearin, packten Grammophon und dZeitauslöser
-in die Kiste, kalten einen Deckel darüber und über den Deckel
-Holzwolle … Beim Schmelzen des Stearins bestrahlten Sie
+fanden im Wohnzimmer den Toten, präparierten die Platte
+mit hartem Stearin, packten Grammophon und Zeitauslöser
+in die Kiste, taten einen Deckel darüber und über den Deckel
+Holzwolle … Beim Schmelzen des Stearins betropften Sie
 sich die Socken, und nachher im Zelt flüchteten Sie auf ein
 geheimes Zeichen von draußen und tauschten in der Versenkung
-mit dein anderen Abu Said die Rollen.«
-ich 1 es hatte ich mir gleich gedacht«, erklärte ich voller
-tote
+mit dem anderen Abu Said die Rollen.«
+
+"Das hatte ich mir gleich gedacht«, erklärte ich voller
+Stolz.
 
 »Nur nicht gesagt«, meinte Harald spitz. »Kurz und gut,
-mein Alter, dieser echte Abu Said war der öGnstallateur des
+mein Alter, dieser echte Abu Said war der Installateur des
 <@pagebreak/>
-Grammophon-Nebenher-Anrufs. Und in diesem Punkte lag
-bei mir der Denkfehler. Ach glaubte, die Mörder hätten jene
+Grammophon-Telephon-Anrufs. Und in diesem Punkte lag
+bei mir der Denkfehler. Ich glaubte, die Mörder hätten jene
 Vorbereitungen getroffen. Herr Said weiß im übrigen nichts
 von der bewußten Dame, gar nichts.«
 
-»Rein«, bestätigte der Ägypter feierlich, »ich weiß nur,
-daß meine Geschäftsverbindung mit dem Unbekannten gelost ist,
+»Nein«, bestätigte der Ägypter feierlich, »ich weiß nur,
+daß meine Geschäftsverbindung mit dem Unbekannten gelöst ist,
 die Schaubude ist verkauft, abgebrochen, das Loch zugeschüttet,
 und morgen, oder besser heute …«
 
-… Affentheater, — wissen wir, Herr Said. — Wie sah
+"… Affentheater, — wissen wir, Herr Said. — Wie sah
 Ihr »Freund« aus?«
 
 »Mal so, mal so, Herr Harst … Ein Verwandlungskünstler
-und ein Eintritt intelligenter Mensch.«
+und ein äußerst intelligenter Mensch.«
 
-»oOweisellos!!«
+»Zweifellos!!«
 
-»Dabei von vornehmer Optimus und als Wahrsager
-ein Musterscharlatan …
+»Dabei von vornehmer Gesinnung und als Wahrsager
+ein Musterscharlatan …"
 
-»Oweisellos« — Empfing er in der seinen Erdhöhle häufiger
+»Zweisellos!! — Empfing er in der feinen Erdhöhle häufiger
 gut zahlende Neugierige?!«
 
 »Das entzieht sich meiner Kenntnis … Ich lüge nicht,
 Herr Harst.«
 
-»Mag Sein. — Noch eins: Was dachten Sie sich eigentlich.
+»Mag sein. — Noch eins: Was dachten Sie sich eigentlich,
 als Sie den Toten sahen?! Stiegen keinerlei Bedenken
-in Ahnen aus?«
+in Ihnen auf?«
 
-»Herr Harst, es ging von) um die Teerlaus! Der Baron
-ist ein guter Kerl. sah wollte ihm hellen, ich sah vollkommen
-ein, das mein Auftraggeber den Baron retten wollte …
+»Herr Harst, es ging doch um die Teerlaus! Der Baron
+ist ein guter Kerl. Ich wollte ihm helfen, ich sah vollkommen
+ein, daß mein Auftraggeber den Baron retten wollte …"
 
 »Also wußten Sie und der Unbekannte, wer der Tote
 war?«
 
 »Gewiß. Und weil es der Vetter Eglochbergs war, bestand
-für den Baron ja die außerordentliche Gefahr, daß…«
+für den Baron ja die außerordentliche Gefahr, daß …«
 
 »Natürlich, die bestand … — Wer ließ dann die Kiste
 verschwinden?«
 
 »Keine Ahnung …«
 
-»Stoß allem ist der Baron verhaftet worden«, meinte
+»Trotz allem ist der Baron verhaftet worden«, meinte
 Harst ironisch. »Viel unnötige Spielerei verpuffte wirkungslos.
 Niemand sah den, der die Kiste holte, niemand beobachtete
 <@pagebreak/>
 die Mörder, niemand sah den Grafen Dallborg den Laden betreten.
 Die Polizei ist mit ihren Ermittelungen auf dem toten
-Duft angelangt. Ich habe Rat Penz vorhin angerufen. Es
+Punkt angelangt. Ich habe Rat Penz vorhin angerufen. Es
 sind da noch zwei andere nette Geschichten zu verzeichnen …
-Aber das gehört nicht hierher.« Harst blickte den Ägypten
-forschend an. »Würden Sie gewillt sein, e’!nen Rufen Rat zu
-befolgen? — Bleiben Sie Ei.,; Nacht bei uns. Oben in meinem
+Aber das gehört nicht hierher.« Harst blickte den Ägypter
+forschend an. »Würden Sie gewillt sein, einen guten Rat zu
+befolgen? — Bleiben Sie diese Nacht bei uns. Oben in meinem
 Laboratorium, das Eisentüren und Eisenladen hat, sind Sie
-sicher Herr Said. Oh betono’ Man wird vielleicht den Versuch
-machen, S’e zu … töten!«
+sicher, Herr Said. Ich betone: Man wird vielleicht den Versuch
+machen, Sie zu … töten!«
 
-Der Ägypten lächelte geringschätzig. »Wer sollte an mir
-Interesse haben?! Und wenn, — ich schütze mich!chon selbst.
-Baron Sie es jedoch wünschen, Herr Harst …«
+Der Ägypter lächelte geringschätzig. »Wer sollte an mir
+Interesse haben?! Und wenn, — ich schütze mich schon selbst.
+Wenn Sie es jedoch wünschen, Herr Harst …«
 
-Und fünf Minuten daraus hatte Said oben den Diwan
-betrat und war »sicher«.
+Und fünf Minuten darauf hatte Said oben den Diwan
+belegt und war »sicher«.
 
 Ich gebe zu, daß diese neue Entwicklung und Verwicklung
 der Dinge das Rätsel nur noch dunkler machte. Schon
-wittert Saids Verhör hatte ich mich immer wieder gefragt:
+während Saids Verhör hatte ich mich immer wieder gefragt:
 Wer sind die Mörder?! Wer hatte außer Eglochberg ein
-Interesse daran, den Großen zu Westen?! — Etwa die &ran.
-die durch die drei großen &’s in die »dauborhöhle gelehnt worden
-war?! Etwa der Verwalter Emil Burke« — Bei dem Gedanken
-mithin ich lächeln. Burke war vor Tun das stumpfen.
-gleichgültigen Spießers. — Oder waren die ’Pormallons die
+Interesse daran, den Grafen zu töten?! — Etwa die Frau,
+die durch die drei großen F’s in die Zauberhöhle gelockt worden
+war?! Etwa der Verwalter Emil Burke?! — Bei dem Gedanken
+mußte ich lächeln. Burke war der Typ des stumpfen,
+gleichgültigen Spießers. — Oder waren die Permallons die
 Schuldigen?! Auch das erschien unsinnig. Die Brüder waren
-Hochstapler. Mich! eine Gewaltig! war ihren bisher nachzuweisen,
-und so, wie wir sie kannten, schicken sie ebenfalls aus
-Wer also?!l
+Hochstapler. Nicht eine Gewaltat war ihnen bisher nachzuweisen,
+und so, wie wir sie kannten, schieden sie ebenfalls aus.
+Wer also?!
 
-»Mach dich fertig«, sagte Harald unten im Herren:immer.
-nachdem wir Said mit allem Nötigen versetzt und einge;cmlossen
-hatten. »Des Auto wartet noch draußen …«
+»Mach' dich fertig«, sagte Harald unten im Herrenzimmer,
+nachdem wir Said mit allem Nötigen versorgt und eingeschlossen
+hatten. »Das Auto wartet noch draußen …«
 
 »Wohin?«
 
 Er überhörte die Frage.
 
 Als wir das Haus verließen, schaute Harst sich mißtrauisch
-um. Es war Mine wolkige. windige Nacht. Es war Herbststimmung
+um. Es war eine wolkige, windige Nacht. Es war Herbststimmung
 <@pagebreak/>
-überall, die ersten welken Blätter traten bereits über
-die Sinai en, und ein paar Regentropfen klatschten mir melancholisch
+überall, die ersten welken Blätter fegten bereits über
+die Straßen, und ein paar Regentropfen klatschten mir melancholisch
 auf die Hutkrempe.
 
-»]Häusern, Königsallee hinab, bis kurz vor Hundekehle«,
-befahl Harald dem verschlagenen Jahren. Die Tür knallte zu,
+»Chauffeur, Königsallee hinab, bis kurz vor Hundekehle«,
+befahl Harald dem verschlafenen Fahrer. Die Tür knallte zu,
 der Wagen ruckte an.
 
 Harst rückte dicht neben mich. »Weißt du, was noch
-geschehen ist?! Lernte elf Uhr, nein, gestern elf Uhr vormittags
-wurde von. einem Herrn ein Scheck bei der Deutschen Bank
-präsentiert, fünfzigtausend Mark, ausgestellt von Goa] Erwin
+geschehen ist?! Heute elf Uhr, nein, gestern elf Uhr vormittags
+wurde von einem Herrn ein Scheck bei der Deutschen Bank
+präsentiert, fünfzigtausend Mark, ausgestellt von Graf Erwin
 Dallborg, der die Bank angerufen hatte, damit der Scheck
-sofort honoriert würde. — Das hat Peuz mir mitgeteilt. Er
-fand in des Grasen Brieftasche das Scheckbuch und ersah
-daraus, daß der Scheck erst etnBfeine Stunde vor dem Morde
+sofort honoriert würde. — Das hat Penz mir mitgeteilt. Er
+fand in des Grafen Brieftasche das Scheckbuch und ersah
+daraus, daß der Scheck erst etwa eine Stunde vor dem Morde
 ausgestellt worden sein konnte — für einen Herrn Felix
-Schmidt, Barscheck. — Geht dir ein Licht zu]?«
+Schmidt, Barscheck. — Geht dir ein Licht auf?«
 
-»Rein! Es Je! denn, daß Selig Schmidt Selig Permallon
+»Nein! Es sei denn, daß Felix Schmidt Felix Permallon
 war.«
 
 »Er war es. — Zweitens: Bei derselben Depositenkasse
-bat die Gräfin Dallborg ihr Konto. Stelle Marke Anastasia
-Pandora. geborene Marches’na Wannsee. seit Monaten von
-ihrem Manne getrennt lebend, das heißt. er im Erdgeschoß der
+hat die Gräfin Dallborg ihr Konto. Stella Maria Anastasia
+Dallborg, geborene Marchesina Parneso, seit Monaten von
+ihrem Manne getrennt lebend, das heißt, er im Erdgeschoß der
 Villa, sie oben im ersten Stock, kinderlos. Die Gräfin hat
 nun ebenfalls gestern, und zwar um halb drei Uhr, einen Scheck
-über jünszigtau’end Mark aufgestellt für Herrn Jahren Mutter
-und den Vorsteher telephonisch gebeten, den Scheck noch aufzustellen.
-Jahren Willen Maskierte das Geld fünf Minuten
+über fünfzigtausend Mark ausgestellt für Herrn Fabian Müller
+und den Vorsteher telephonisch gebeten, den Scheck noch aufzuzahlen.
+Fabian Müller kassierte das Geld fünf Minuten
 vor drei Uhr. Mithin haben die Permallons bei der Sache
-turnte hunderttausend herausgeschlagen«
+runde hunderttausend herausgeschlagen.«
 
-Ich nahm mir die Mütze ab und lächelte mir Luft zu.
-»Da! dir das auch Penz mitgeteilt?«
+Ich nahm mir die Mütze ab und fächelte mir Luft zu.
+»Hat dir das auch Penz mitgeteilt?«
 
-»Ob …
+»Ja …"
 
 »Und was meint er dazu?«
 
 »Er kann nichts »meinen«, denn er weiß von Abu Said
 nichts. — So, da wären wir. Aussteigen!« Und ganz leise:
-
 <@pagebreak/>
-»Nimm die Pistole und halte den Chaussee 1 in Schah, sei
+»Nimm die Pistole und halte den Chauffeur in Schach, sei
 recht grob!«
 
-Harsts Zumutungen sind des öfteren roch: merkwürdig.
-—»y Wir stiegen aus. Die Straße war leer, ui? der Fahrer
-mit seinem fuchsigen Bart blinzelte sehr Wissens. ätzt in meine
+Harsts Zumutungen sind des öfteren recht merkwürdig.
+— Wir stiegen aus. Die Straße war leer, und der Fahrer
+mit seinem fuchsigen Bart blinzelte sehr mißvergnügt in meine
 Pistolenmündung, während Harst die linke Tür des Wagens
-mit der Taschenlampe ableuchtete. »Es ist Tasse «? Auto, in
-dem wir als »Betrunkene« heimkehrten«, meinte xc zufrieden,
+mit der Taschenlampe ableuchtete. »Es ist dasselbe Auto, in
+dem wir als »Betrunkene« heimkehrten«, meinte er zufrieden.
 »Als ich mich gestern abend kurz vor acht vor unserem Hause
-an die Eure lehnte, habe ich mit Tintenstift Kreuze gebracht. —
+an die Türe lehnte, habe ich mit Tintenstift Kreuze gemacht. —
 Herr Permallon, wollen Sie bitte die Hände vorstrecken …
 Es tut mir leid, es muß sein.« Die Handschellen schlossen sich,
 und Harst holte eine Leine aus der Manteltasche und fesselte
-»den Mann an das Lenkrad. »Sie werden sich hübsch ruhig
-verhalten, Herr Permallon …! Sie waren ja mit &öhrem
+den Mann an das Lenkrad. »Sie werden sich hübsch ruhig
+verhalten, Herr Permallon …! Sie waren ja mit Ihrem
 Wagen immer sehr rechtzeitig zur Stelle — zu rechtzeitig.
 Immer, wenn wir oder ich eine Taxe brauchten, war sie auch
 schon da … — Wiedersehen.«
 
 Wir schritten eilends davon, ich abermals mit dem Gefühl,
 als ob ich noch immer unter der Einwirkung des angenehmen
-Giftgases stände, das bei Mathilde so irrige ’Vorstellungen
+Giftgases stände, das bei Mathilde so irrige Vorstellungen
 hervorgerufen hatte.
 
 Die Villa Dallborg lag links von Hundekehle in dem neuen
-Villenviertel. Nachdem wir die Örtlichkeit genügend coeprüst
+Villenviertel. Nachdem wir die Örtlichkeit genügend geprüft
 hatten, wagten wir uns in den Garten. Das erste, was
-uns ausstieß, war ein Schäferhund, der an der Hausecke halb
+uns aufstieß, war ein Schäferhund, der an der Hausecke halb
 unter Gebüsch lag und schwer japste. Harst beugte sich hinab
 und betastete das Tier.
 
-»Geraubt:«
+»Betäubt!«
 
 Er schien durch diese Entdeckung sehr peinlich berührt
 zu sein. »Unangenehm, — sollte etwa …«, — aber der Schluß
-des Satzes lautete: »Ich was, — wir müssen!!«
+des Satzes lautete: »Ach was, — wir müssen!!«
 
 Er nahm seinen dicken Spazierstock, zog den Angelstock
-auseinander, und gleich daraus hing die Strickleiter am Balkon.
+auseinander, und gleich darauf hing die Strickleiter am Balkon.
 
 <@pagebreak/>
-Wir kurzen nach oben, zogen die seidene Leiter empor,
+Wir turnten nach oben, zogen die seidene Leiter empor,
 duckten uns und bearbeiteten sachgemäß die Balkontür.
 
 Wir standen in einem Salon mit etwas verblichenen Brokatmöbeln,
-gelangten schließlich zu eine Er, hinter der wir
+gelangten schließlich an eine Tür, hinter der wir
 Stimmen vernahmen.
 
-Lärmend weinte, schluchzte, — dann wieder Stimmen …
+Jemand weinte, schluchzte, — dann wieder Stimmen …
 
-Euer Frauen ohne Zweifel, und diese nächtliche Unterredung
-schien beide Teile auszufragen.
+Zwei Frauen ohne Zweifel, und diese nächtliche Unterredung
+schien beide Teile aufzuregen.
 
 Harst schaute durch das Schlüsselloch …
 
-»Entlang innen!«, flüsterte er …
+»Vorhang innen!«, flüsterte er …
 
 Ein Windstoß umheulte die Villa …
 
@@ -1910,136 +1911,139 @@ kreischten, und jetzt hörten wir jedes Wort.
 
 <h2>3. Kapitel.</h2>
 <h3>Frau Renate.</h3>
-Eine fiele, drohende Stimme sagte gerade:
-»Das sind Ausjlüchkel Es ist jämmerlich feige, mit der
+
+Eine tiefe, drohende Stimme sagte gerade:
+
+»Das sind Ausflüchte! Es ist jämmerlich feige, mit der
 Wahrheit zurückzuhalten. Der arme Baron ist …«
+
 Die andere helle Stimme — und ich horchte auf! — rief
-angelt:
+empört:
 
 »Glauben Sie, ich sei die Mörderin?! Dallborg war nicht
 einmal mehr einen Dolchstoß wert! Zwischen mir und ihm gab
 es nichts Verbindendes mehr. — Wie sind Sie überhaupt hierher
-gelangt?! Wer sind Sie?! Ein Mann?! Lälheuuy, —
-ein Grauens Amen Sind Sie!«
+gelangt?! Wer sind Sie?! Ein Mann?! Lächerlich, —
+ein Frauenzimmer sind Sie!«
 
 Irgendwo im Hause schrillte eine Glocke … schrillte
-immer wieder … Ein Hund schlug unten im &lur an.
+immer wieder … Ein Hund schlug unten im Flur an.
 
-»dicht habe ich Sie!«, — die Gräfin jubelte … »Bett
+»Jetzt habe ich Sie!«, — die Gräfin jubelte … »Jetzt
 werden Sie …«
 
 Dann ein Schrei, ein Poltern, und die Vorhänge wurden
 Auseinander gerissen, wir wichen zurück, Harst packte zu …
 
 <@pagebreak/>
-» Still — — Sollt’!«, — und lief mit einem schlanken
+»Still — — Harst!!«, — und lief mit einem schlanken
 Burschen im Arm zurück zum Balkon.
 
-»Keine Frage stellen — — still! —«- Warten Sie … Es
-ist — Wächter, er hat den Hund gefunden, den Sie betäubten.
-— seht — zuerst du hinab. mein Alter, — — dann Sie
+»Keine Frage stellen — — still! — Warten Sie … Es
+ist der Wächter, er hat den Hund gefunden, den Sie betäubten.
+— Jetzt — zuerst du hinab, mein Alter, — — dann Sie ..."
 
 Es war eine Hetzjagd, aber wir kamen doch glücklich davon,
-fanden das Auto, der &ahrer mußte steuern, ans Pistole
-kitzelte gen Genick. und um drei Uhr morgens waren wir daheim.
+fanden das Auto, der Fahrer mußte steuern, eine Pistole
+kitzelte sein Genick, und um drei Uhr morgens waren wir daheim.
 Herr Permallon saß unten im Keller gut verwahrt, in
 Harsts Arbeitszimmer hockte der schlanke Bursche im Sessel
-anbettelte.
+und zitterte.
 
 Der »Mann« trug einen schäbigen Anzug, eine tief ins
 Genick gezogene Sportmütze und … Damenschuhchen!
 
-»die brauchen l ich wirklich nicht vor uns zu fürchten,
-Strom Renate Brack«, sagte Harald sehr verglich und reichte
-ich« ans Tasse See. »Unser Ausflug in die Villa Dallborg
-Perle! etwas unprogrammäßig. da Sie uns die Hauptarbeit
-abnehmen. — Bitte — trinken Die … Wir sind doch Eglochbergs
+»Sie brauchen sich wirklich nicht vor uns zu fürchten,
+Frau Renate Brack«, sagte Harald sehr herzlich und reichte
+ihr eine Tasse Tee. »Unser Ausflug in die Villa Dallborg
+verlief etwas unprogrammäßig, da Sie uns die Hauptarbeit
+abnahmen. — Bitte — trinken Sie … Wir sind doch Eglochbergs
 Freunde, vergessen Sie das nicht! Treue Freunde, liebe
-Frau Brack. und Menschen, die volles Verständnis für Entgleiste
+Frau Brack, und Menschen, die volles Verständnis für Entgleiste
 und für kleine Extravaganzen haben. — Wie sind Sie
 in die Villa hineingelangt?«
 
-Renate Brack nahim die Mütze ab und ordnete ihr kastanienfraunes
-Haar. Söhne Wangen bekamen &arbe, und die
-gegen Augen verloren den verschüchterten Ausdruck,
+Renate Brack nahm die Mütze ab und ordnete ihr kastanienbraunes
+Haar. Ihre Wangen bekamen Farbe, und die
+großen Augen verloren den verschüchterten Ausdruck,
 
-… Moder … Daneben Sie mich?«, fragte ein leise.
+"Woher … kennen Sie mich?«, fragte sie leise.
 
-»Dar dem Namen nach) durch Eglochbe!g, der für seine
-Büchse Wirtin schwärtn;t.«
+»Nur dem Namen nach durch Eglochberg, der für seine
+gütige Wirtin schwärmt.«
 
-die Serviette … Sie war nicht mehr ganz jung. aber ihre
-Güte verrieten wie blendend )Schön sie einst gewesen sein mußte.
+Sie errötete … Sie war nicht mehr ganz jung, aber ihre
+Züge verrieten wie blendend Schön sie einst gewesen sein mußte.
 
 Langsam streifte sie die etwas schadhaften Handschuhe ab,
-trank einen Schluck und fügte hinzu: »ach gelangte mit den
-richtigen Schlüsseln in da Villa.«
+trank einen Schluck und fügte hinzu: »Ich gelangte mit den
+richtigen Schlüsseln in die Villa.«
 
 Harsts Stirn krauste sich nachdenklich. »Wie kamen Sie
-dazu«
+dazu?«
 
 <@pagebreak/>
-»Im fand. sie in Eglochbergs Zimmer … Es war ein
+»Ich fand sie in Eglochbergs Zimmer … Es war ein
 Papptäfelchen daran … Bitte, hier sind sie.«
 
-He scheue Zurückhaltung der Frau verlor sich immer
-mehr. Sie hatte etwas Eigenes, Freies und doch sehr Bescheidenes
+Die scheue Zurückhaltung der Frau verlor sich immer
+mehr. Sie hatte etwas Offenes, Freies und doch sehr Bescheidenes
 in ihrem Wesen.
 
-Wir wußten nicht viel von ihr. Eglocmberg hatte angedeutet,
+Wir wußten nicht viel von ihr. Eglochberg hatte angedeutet,
 daß sie die Witwe eines Bekannten sei, daß sie sich
 durch Schriftstellerei ernähre und ganz in der Liebe zu ihrem
-Kinde ausginge.
+Kinde aufginge.
 
 Harst betrachtete die drei Schlüssel, die zusammengebunden
 waren und an denen ein schmales Stück Pappe hing.
 
 Er reichte sie mir.
 
-»Das ist sehr. sehr sonderbar«, sagte er nur.
+»Das ist sehr, sehr sonderbar«, sagte er nur.
 
-Das Papptäfelchen war mit Tinte in Rundschrift bei
-
+Das Papptäfelchen war mit Tinte in Rundschrift be-
 schrieben:
-Villa Dallborg.
+
+<p class="centered">Villa Dallborg.</p>
 
 »Wissen Sie, wie Eglochberg in den Besitz dieser Schlüssel
-gelangte? fragte Harst unseren seltsamen Gast.
+gelangte?" fragte Harst unseren seltsamen Gast.
 
-»Rein.«
+»Nein.«
 
 »Und wo fanden Sie sie?«
 
-»on einer offenen Schieblade seines Waschtisches …«
+»In einer offenen Schieblade seines Waschtisches …«
 
 »Heute?«
 
-»7, heute nacht, als mich die Sorge um ihn wieder in
-sein drinnen trieb.«
+»Ja, heute nacht, als mich die Sorge um ihn wieder in
+sein Zimmer trieb.«
 
 »Haben Sie die Schlüssel schon jemals vorher bemerkt?«
 
-»Je«
+»Nie.«
 
 »Welche Dummheit!«, murmelte Harst. Und lauter: »Das
-bezog sich weder auf Sie, noch auf Eglochberg, liebe &rau
-Brack. Das galt …« — er hüstelte — «- reden wir von
-Ohren Entschluß, die Gräfin auszusuchen. Wann Reste dieser
+bezog sich weder auf Sie, noch auf Eglochberg, liebe Frau
+Brack. Das galt …« — er hüstelte — >>-- reden wir von
+Ihrem Entschluß, die Gräfin aufzusuchen. Wann reifte dieser
 Entschluß in Ihnen? Als Sie die Schlüssel mit dem lockenden
 Schildchen fanden?«
 
-»da … Ich wollte mir Gewißheit verschaffen, Herr
+»Ja … Ich wollte mir Gewißheit verschaffen, Herr
 Harst.«
 
 »Worüber?«
 
 <@pagebreak/>
 Sie zögerte. »Verzeihen Sie, so gütig Sie auch sind, ich
-Falle dem Baron Stillschweigen gelobt. Er betonte ja, es
+habe dem Baron Stillschweigen gelobt. Er betonte ja, es
 wäre nur ein Verdacht seinerseits, den er nicht begründen
-Sonne erst recht nicht beweisen.«
+könne, erst recht nicht beweisen.«
 
-Harst rührte langsam in seiner Terrasse.
+Harst rührte langsam in seiner Teetasse.
 
 »Der Verdacht«, sagte er mit Nachdruck, »daß das Testament
 der Gräfin Amanda Dallborg gefälscht sei.«
@@ -2047,38 +2051,38 @@ der Gräfin Amanda Dallborg gefälscht sei.«
 Frau Brack senkte schnell den Kopf.
 
 »Also stimmt es«, fuhr Harst fort. »Er teilte Ihnen diesen
-Verdacht mit … — Seien Sie ganz offen, bitte. Sie wolltet
+Verdacht mit … — Seien Sie ganz offen, bitte. Sie wollten
 die junge Gräfin Dallborg zur Rede stellen, — also irgendwie
-verausdringen, ob sie von einer Fälschung etwas wüßte.«
+herausbringen, ob sie von einer Fälschung etwas wüßte.«
 
 »Ja …«
 
 Harst nickte Frau Renate freundlich zu.
 
-»die haben sehr viel für Eglochberg gewagt. — Womit
+»Sie haben sehr viel für Eglochberg gewagt. — Womit
 betäubten Sie den Hund?«
 
 »Mit …« sie lächelte fast schalkhaft — »mit Leberwurst
-und Schlafmitteltabletten … ckch schlafe zuweilen sehr schlecht.
-Aber … ich lese sehr viel, und die moderne Sensationsliteraimwr
+und Schlafmitteltabletten … Ich schlafe zuweilen sehr schlecht.
+Aber … ich lese sehr viel, und die moderne Sensationsliteratur
 zeigte auch mir die Mittel, wie ich die Gräfin zu einem Geständnis
-zwingen könnte. Lachen Sie mich nicht aus, Her!
-Harst, — ich hatte mir sogar eine Maske vorgebunden und doch
-Barons Feuerzeug mitgenommen — in Pistolenform … Leid?
-rar die Gräfin nicht so ängstlich wie ich hoffte …«
+zwingen könnte. Lachen Sie mich nicht aus, Herr
+Harst, — ich hatte mir sogar eine Maske vorgebunden und des
+Barons Feuerzeug mitgenommen — in Pistolenform … Leider
+war die Gräfin nicht so ängstlich, wie ich hoffte …«
 
-»Ich nein, die ist gar nicht ängstlich, die fürchtet nich?
-eigenes Särge, liebe Frau Brack.«
+»Ach nein, die ist gar nicht ängstlich, die fürchtet nicht
+einmal Särge, liebe Frau Brack.«
 
 »Särge?!«
+
 Harst überhörte dies. »Auch Sie sind tapfer, in anderer
 Art … Wie schafften Sie die Kiste aus dem Wohnzimmer
-
-über den Hof in sehne Wohnung?«
+über den Hof in Ihre Wohnung?«
 
 Unser Gast erbleichte. Der Angriff kam zu plötzlich.
 Auch für mich. Niemals hatte ich auch nur im entferntesten
-zu Braut Brack gedacht.
+an Frau Brack gedacht.
 
 Harst nahm ganz zart ihre Hand.
 
@@ -2086,95 +2090,94 @@ Harst nahm ganz zart ihre Hand.
 <@pagebreak/>
 nichts mehr hinter dem Berge halten! Heraus mit allem …
 Wie war das also? Weshalb schlossen Sie die Kiste weg?
-Wochen wußten Sie überhaupt etwas von dem Morde?!«
+Woher wußten Sie überhaupt etwas von dem Morde?!«
 
-Diele Unterredung, um nicht Beiboot zu sagen, hätte ein
-großes Auditorium verdient. Sie war!spannender als Thar
-Welliges Schlüsselprobleme und süßliche Heldinnen. zarter als
-des großen, Dichters »Biene Maja«, — sie besaß jene Eigenart,
+Diese Unterredung, um nicht Verhör zu sagen, hätte ein
+großes Auditorium verdient. Sie war spannender als Edgar
+Wallaces Schlüsselprobleme und süßliche Heldinnen, zarter als
+des großen Dichters »Biene Maja«, — sie besaß jene Eigenart,
 die nur hier in diesen vier Wänden des Harstschen Arbeitszimmers
 geboren wird.
 
 Frau Brack erwiderte zaudernd: »Es ist … eine … lange,
 scheinbar widerspruchsvolle Geschichte, Herr Harst …«
 
-»Scheinbar … Und wie laute! sie«
+»Scheinbar … Und wie lautet sie?«
 
-»dir roter Laden heißt … Mißtrauen«, sagte Renate
-Brack nachdenklich. »Mißtraugn. geboren aus bitteren Lebensenttäuschungen,
-die hinter nur liegen. Der gestrige Tag
+»Ihr roter Faden heißt … Mißtrauen«, sagte Renate
+Brack nachdenklich. »Mißtrauen, geboren aus bitteren
+Lebensenttäuschungen, die hinter mir liegen. Der gestrige Tag
 begann damit, daß ich dem Baron Vorwürfe machte, weil
 er wieder allzu spät und … nicht ganz nüchtern heimgekehrt
 war. Nicht … betrunken, nein … Aber animiert … vor
-&reude, wie er sich entschuldigte. Er Sah ja nun die Möglichkeit,
+Freude, wie er sich entschuldigte. Er Sah ja nun die Möglichkeit,
 den Laden zu mieten, er wollte nie wieder straucheln, er
-erzählte von Abu Said, von Ahnen, — — er kann ein großes
+erzählte von Abu Said, von Ihnen, — — er kann ein großes
 Kind Sein.«
 
-»3 st er«, warf Harst gutmütig ein.
+»*Ist* er«, warf Harst gutmütig ein.
 
-»—. Sehen Sie, meine Herren, ich kenne den Baron
-!Chor Sehr lange … Von Wien her … &Ichh war kaum halb
-erwachsen, er war ein! sehr solcher Leutnant, und meine Eltern
-waren bei Seinen Eltern Gärtnersleute. Er war mein stiller
-Sei Farm … Vor fünf Jahren, als ich bereits Witwe und
-noch« mitten in Berlin wohnte, wurde er mein Mieter … Ich
+»... Sehen Sie, meine Herren, ich kenne den Baron
+schon Sehr lange … Von Wien her … Ich war kaum halb
+erwachsen, er war ein sehr fescher Leutnant, und meine Eltern
+waren bei seinen Eltern Gärtnersleute. Er war mein stiller
+Schwarm … Vor fünf Jahren, als ich bereits Witwe und
+noch mitten in Berlin wohnte, wurde er mein Mieter … Ich
 suchte ihn moralisch über Wasser zu halten, er …?!« Sie
-Lautete leicht, »Er sagte immer, an ihm sei nichts mehr zu
+seufzte leicht. »Er sagte immer, an ihm sei nichts mehr zu
 bessern … Und er … wanderte wieder ins Gefängnis. Ich
 glaube, er haßte alle Welt … Ich schrieb ihm dann nach
-Plötzensee, bezahlte ihn dort, und vielleicht habe ich mehr ausgerichtet
-bei diesem verbitterten Gemüt als die Straße gelb!!
-
+Plötzensee, besuchte ihn dort, und vielleicht habe ich mehr ausgerichtet
+bei diesem verbitterten Gemüt als die Strafe selbst.
 <@pagebreak/>
-Er sehnte sich nach FSre’heit, er sehnte sich nach einem ehrlichen
-Leben, er hakt mir weinend gedankt. Trotzdem blieb er unausgeglichen,
-ließ sich leicht beeinflussen, und als er mir vorgeht?«
-zuerst von diesem Abu Said erzählte, warnte »ich ihn nachdrücklichst.
-Ich Traufe dem Ägypten nicht …
+Er sehnte sich nach Freiheit, er sehnte sich nach einem ehrlichen
+Leben, er hat mir weinend gedankt. Trotzdem blieb er unausgeglichen,
+ließ sich leicht beeinflussen, und als er mir vorgestern
+zuerst von diesem Abu Said erzählte, warnte ich ihn nachdrücklichst.
+Ich traute dem Ägypter nicht …"
 
-»Vorschein?«, fragte Harst ganz harmlos.
+»Welchem?«, fragte Harst ganz harmlos.
 
 Frau Renate erfaßte sofort den Sinn der Zwischenbemerkung.
 
-»Gibt es denn mehrere Art Saids Herr Harst?«
+»Gibt es denn mehrere Abu Saids, Herr Harst?«
 
-»Euer. Einer davon ist auch unser Gast und schläft oben
+»Zwei. Einer davon ist auch unser Gast und schläft oben
 in dem Laboratorium. Welchen von beiden Sie kennen, ist
 natürlich für Sie schwer zu beantworten. — Doch weiter
-bitte … Sie mißtrauten Abu Said also. während der Baron
-ihn warm verteidigte, was, übrigens mehr gerechtfertigt ist.
-Beide Abu Tode — das Marschall—S am Schluß istqrammatikalisch
-Falsch. aber hebt die doppelten Persönlichkeiten mehr
+bitte … Sie mißtrauten Abu Said also, während der Baron
+ihn warm verteidigte, was übrigens mehr gerechtfertigt ist.
+Beide Abu Saids — das Mehrzahl-S am Schluß ist grammatikalisch
+falsch, aber hebt die doppelten Persönlichkeiten mehr
 hervor — haben ihre Vorzüge und Nachteile. Es sind Diebe,
-Gauner. aber zwischen Dieb und Daß gibt es Geranien Schlosse
+Gauner, aber zwischen Dieb und Dieb gibt es genau so schroffe
 Unterschiede wie zwischen Hundearten, zwischen einem treuen,
 bissigen, klugen Schäferhund und einem verhungerten, furchtsamen,
-zeigen Aiongolenköter.«
+feigen Mongolenköter.«
 
 Frau Renate stimmte dem fast begeistert zu. »Da haben
 Sie unbedingt recht, Herr Harst … Zum Beispiel Theo
-Eglochberg …! Wenn man den qrtniouoer kennt, wer gesehen
-bat, wie lieb, freundlich und aufmerksam er sein kann und
-wie! er mein Töchterchen verwöhnt …«
+Eglochberg …! Wenn man den genauer kennt, wer gesehen
+hat, wie lieb, freundlich und aufmerksam er sein kann und
+wie er mein Töchterchen verwöhnt …«
 
-… Und Sie!«
-… Dann vergl ist man vollständig seine traurige Berg
+"… Und Sie!«
 
-jungenhaft. Er.
+"… Dann vergißt man vollständig seine traurige Vergangenheit.
+Er ..."
 
-»Bitte, — die Kiste!!«. mahnte Harst sehr mild.
+»Bitte, — die Kiste!!«, mahnte Harst sehr mild.
 
-»Richtig. gewiß., verzeihen Sie … Nachdem der Baron
-dann sehr zerknirscht weggegangen war. packte mich eine unser:
-höfliche Unruhe. Co) traf nachher den Verwalter Burke
+»Richtig, gewiß, verzeihen Sie … Nachdem der Baron
+dann sehr zerknirscht weggegangen war, packte mich eine
+unerklärliche Unruhe. Ich traf nachher den Verwalter Burke
 und erkundigte mich nach dem Ergehen seiner Frau, die krank
-gespielt. Burke vertraute mir an, haßt für meinen Mieter
+sein soll. Burke vertraute mir an, daß für meinen Mieter
 <@pagebreak/>
-sich etwas sehr Unangenehmes ereignet habe. Mohr wollte
-er nicht jagen. Da habe ich denn zum Schein den einen Teppich
-zusammengerollt, als wollte ich ihn auf dem Hofe klopften.
-Block 3 und 2 haben Ja denselben Hof. Ich ging, da olle
+sich etwas sehr Unangenehmes ereignet habe. Mehr wollte
+er nicht sagen. Da habe ich denn zum Schein den einen Teppich
+zusammengerollt, als wollte ich ihn auf dem Hofe klopfen.
+Block 3 und 2 haben Ja denselben Hof. Ich ging, da alle
 Stangen besetzt waren, bis zu den Fenstern des Wohnzimmers
 des Ladens und lehnte den Teppich gegen die Mauer. Die
 Steinsetzer entfernten sich gerade. Der Teppich rutschte zur
@@ -2192,92 +2195,93 @@ da … geschah das … andere …«
 
 Harst beugte sich rasch vor:
 
-»Sprach Diva das Grammophon nochmals?!«
+»Sprach etwa das Grammophon nochmals?!«
 
-»Ja … l Es … Sproß … Und zwar nur wenige
+»Ja …! Es … sprach … Und zwar nur wenige
 Worte …: »Loch ist also … mein Mörder, mein Mörder!!«
-Das verstand ich. wenn auch undeutlich. Mein Entsetzen und
-mein Schreck!steigerte sich bis ins Unerträgliche. Ich wußte
+Das verstand ich, wenn auch undeutlich. Mein Entsetzen und
+mein Schreck steigerte sich bis ins Unerträgliche. Ich wußte
 ja, daß der Baron als Theodor Loch bekannt war … — Wie
-irr den Mai fand, in das immer zu klettern, die Kiste zu
-holen, den Hörer auf die Stößen zu legen, den Draht zu entfernen
-und Finger noch mit dem Besen die Spuren im Staube
+ich den Mut fand, in das Zimmer zu klettern, die Kiste zu
+holen, den Hörer auf die Stützen zu legen, den Draht zu entfernen
+und sogar noch mit dem Besen die Spuren im Staube
 zu verwischen, — man handelt häufig wie unter einem inneren
-Eingang! sich hüllte die Kiste in den Teppich … erregt beobachtete
-mich, ich eilte in meine Wohnung zurück und Laut halb
+Zwang! Ich hüllte die Kiste in den Teppich, jemand beobachtete
+mich, ich eilte in meine Wohnung zurück und sank halb
 ohnmächtig auf mein Bett …«
 
 »Und jetzt — trinken Sie rasch dieses Glas Rotwein aus,
-liebe Frau Brack, »Somit Sie uns nicht wirklich ohnmächtig
-werden. Seine Widerrede, — trinken Sie!«
+liebe Frau Brack, damit Sie uns nicht wirklich ohnmächtig
+werden. Keine Widerrede, — trinken Sie!«
 
 Sie gehorchte, lehnte sich dann aufatmend wieder zurück
 und meinte verzagt: »Trotzdem ist der Baron nun verhaftet
 <@pagebreak/>
 worden. Und gerade dieser neue Schlag veranlaßte mich zu
-dem abenteuerlichen Schrift, die Gräfin gutzumachen. Wehr
-längere ich Ahnen außer Einzelheiten, die das bereits Angekohlte
-angehen, kaum erzählen, — — Ich möchte heim, Herr
-Harst … Mein Mund ist allein.
+dem abenteuerlichen Schritt, die Gräfin aufzusuchen. Mehr
+könnte ich Ihnen außer Einzelheiten, die das bereits Mitgeteilte
+angehen, kaum erzählen. — Ich möchte heim, Herr
+Harst … Mein Kind ist allein."
 
-Ich war es, der Frau Gatte eine Autotaxe suchte.
+Ich war es, der Frau Renate eine Autotaxe suchte.
 Harst bezahlte in diskreter Weise den Chauffeur. Eine sehr
-beruhigte und vertrauensvolle Frau verließ vers mit leise gehauchten
+beruhigte und vertrauensvolle Frau verließ uns mit leise gehauchtem
 Dank und innigem Händedruck.
 
 Als wir das Arbeitszimmer wieder betraten, fragte mich
 Harald mit einem verschmitzten Blinzeln:
 
-»Nun. mein Alter, — wer ist der Mörder?!«
+»Nun, mein Alter, — wer ist der Mörder?!«
 
-»Bedauere — nach dir«, « sagte ich liebenswürdig. »ckch
+»Bedauere — nach dir«, sagte ich liebenswürdig. »Ich
 dränge mich nicht gerne vor.«
 
 Er spielte mit den Schlüsseln, die Frau Brack uns belassen
 hatte, und seine Augen ruhten jetzt auf dem Papptäfelchen.
 
 »Jeder Mörder macht Dummheiten, Max Schraut. Versuche
-dich also nie in dem Beruf, Du würdest sogar Riesendummbhe-ten
-begehen. noch größer als diese …«
+dich also nie in dem Beruf. Du würdest sogar Riesendummheiten
+begehen, noch größer als diese …«
 
-Er hielt mir das Parallel unter die Augen. »Da —
-frische Rundschrift Um sie alt erscheinen zu lassen, mit Fett!
-und Siam« beschmiert. Du plump’«
+Er hielt mir das Pappstück unter die Augen. »Da —
+frische Rundschrift! Um sie alt erscheinen zu lassen, mit Fett
+und Staub beschmiert. Zu plump!«
 
-Co dem Augenblick enthüllte sich mir die große Frage.
-Fehlspruch rasch einen Nomen aus. Harst erwiderte nur:
-»Her dem Toten wurden keine Stvriäliel seinen. sagte mit
-der Kriminalrat, — jetzt sind die Schlüssel erschienen … — &In
+In dem Augenblick enthüllte sich mir die große Frage.
+Ich sprach rasch einen Namen aus. Harst erwiderte nur:
+»Bei dem Toten wurden keine Schlüssel gefunden, sagte mir
+der Kriminalrat, — jetzt sind die Schlüssel erschienen … — In
 vielen Punkten habe ich mich anfänglich bei diesem Fall geirrt.
-Daß es um die Erbschaft ging, fragte mir meint »Instinkt
-glatt. Wer hinterläßt einem Reiten, den man, obwohl er
-ge, heiser ist, noch lauer gern hat, ausgerechnet ein Diamant
-Verband und nicht bares Sold?! Penz kennt das Testament,
-er las es wir am Fernsprecher vor …«
+Daß es um die Erbschaft ging, sagte mir mein Instinkt
+sofort. Wer hinterläßt einem Neffen, den man, obwohl er
+gescheitert ist, noch immer gern hat, ausgerechnet ein Diamantarmband
+und nicht bares Geld?! Penz kennt das Testament,
+er las es mir am Fernsprecher vor …«
 
-»Und — kam der Name Dunkle darin vor«
-bieten
+»Und — kam der Name Burke darin vor?«
+
+"Nein!"
 
 <@pagebreak/>
-Das Du. eine arge Enttäuschung.
+Das war eine arge Enttäuschung.
 
-Alle meine schönen Kombinationen fiesen wieder haltlos
+Alle meine schönen Kombinationen fielen wieder haltlos
 in sich zusammen. Es wäre ja auch ein zu merkwürdiger Zufall
-gewesen, wenn dieser setzte Burke die Gräfin Amanda
+gewesen, wenn dieser fette Burke die Gräfin Amanda
 Dallborg so genau gekannt hätte, daß sie … — mein Gedankenflug
 stoppte, ich sah ein, wie sehr ich mich mit alldem
 von den nackten Tatsachen entfernte.
 
 Harst war zum Schreibtisch gegangen und legte die Hand
-auf den Hörer. »Ach werde jetzt dem unermüdlichen Penz, der
-sicherlich wieder in seinem Büro schläft, eine Warnung zugeben
+auf den Hörer. »Ich werde jetzt dem unermüdlichen Penz, der
+sicherlich wieder in seinem Büro schläft, eine Warnung zugehen
 lassen.« Er hob den Hörer ab, bekam Anschluß und
-sagte dann: »Herr Rat, Sie Talenten liebenswürdig, mir in
+sagte dann: »Herr Rat, Sie waren so liebenswürdig, mir in
 dieser Nacht einige wichtige Mitteilungen zu machen. Schicken
 Sie sofort Beamte zur Villa Dallborg. Die Gräfin ist in
 Gefahr. Es gibt jemand, der ein sehr großes Interesse daran
-hat, sie zu beseitigen, und der Mensch kennt keine Rücksichten…
-Vielleicht fahren Sie mit … Dietrich sind auch wir dort.
+hat, sie zu beseitigen, und der Mensch kennt keine Rücksichten.
+Vielleicht fahren Sie mit … Vielleicht sind auch wir dort.
 Wiedersehen.«
 
 <@pagebreak/>
@@ -2382,17 +2386,17 @@ Rat »Penz fragte atemlos:
 Burke, Ernst Burke, — leider nicht so geistesschwach, daß
 er nicht morden könnte …«
 
-&i höhnisches scheußliches Kichern, folgte …
+Fi höhnisches scheußliches Kichern, folgte …
 
 »» Beweist mir was. ihr …
 
-Am Kandelaber lohnte eine »verstörte &rau.
+Am Kandelaber lohnte eine »verstörte Frau.
 
 »Herr Tat, die Gräfin mag-Zähnen die nötigen Erklärungen
 abgeben«, meinte Harst etwas hastig. »Burke hat die
 Dame teloephonisch hierher bestellt … Dir sollte ebenfalls
 sterben. Von derselben Hand, die ihren Gatten erstach …
-— &rau Gräfin Sie werden jetzt nichts mehr verheimlichen
+— Frau Gräfin Sie werden jetzt nichts mehr verheimlichen
 dürfen, was das Testament betrifft. Ihr Gatte glaubte, Emilia
 Sardoni, die einstige Lose der alten Gräfin, sei längst tot.
 Verstarb brachte er sie mit in »sein« Erstaunens Oh! ne: n. die
@@ -2471,7 +2475,7 @@ Und weiter? Wer ist der Mörder«
 »Das Tempo ist mir allzu rasch … Duells reden Sie
 jetzt. Wie und wo die Gräfin den Scheck hergab, weiß ich:
 Unter dem Zaubergarten in der Brust des Großen Magiers.
-Aber — wie machen Sie dem Grafen die 50&nbsp;000 Mark locker?!
+Aber — wie machen Sie dem Grafen die 50Fnbsp;000 Mark locker?!
 Auch halbe oder ganze Erpressung.«
 
 Die Brüder wehrten enorm ab. »Wir sind keine Erpresser,
@@ -2526,7 +2530,7 @@ Der offene Käfig.
 Harsts Erklärungen begannen mit einer Einleitung, die
 dem Leser nichts Neues bringt.
 
-»».-… Wir kommen nun zur &amilie Bude«, spann er
+»».-… Wir kommen nun zur Familie Bude«, spann er
 den Sachen weiter. »Das Langsamem, das die alte Gräsern
 hinterließ, war ein handschriftliches und galt für echt. Zu
 dieser Urkunde waren bedacht:
@@ -2566,7 +2570,7 @@ Mann mußte sich um den Verwalterposten bemühen, damit die
 Verbrecher in die Nähe schlau Renate Bracks gelangten, bei
 der Theo wieder auftauchen würde. Und als dies geglückt,
 begann das gefährlichere Spiel. Auch die Burkes ahnten, daß
-der Graf das Testament gefälscht habe. &rau Emilia, als
+der Graf das Testament gefälscht habe. Frau Emilia, als
 frühere Zofe, wird gewußt haben, daß die alte Gräfin ihren
 Reisen Erwin beinahe haßte. Der Gras wird al/o zu einer
 »Besprechung« unter sanfter Drohung in den leeren Laden
@@ -2638,7 +2642,7 @@ Das Zimmer. war leer.
 
 Harst stürzte in sein Schlafzimmer, wir hinterdrein …
 
-Du spät! Die Böse! waren durch das &enster entwischt.
+Du spät! Die Böse! waren durch das Fenster entwischt.
 
 (arg eine Schweinerei!«, entschlüpfte es Harald. »Und
 
