@@ -70,6 +70,7 @@
 \bnoH\b	noch
 \bober\b	oder
 \bOe	Ö
+\bRein\b	Nein
 \brute\b	ruckte
 \bSähe\b	Sätze
 \bSaß\b	Satz
