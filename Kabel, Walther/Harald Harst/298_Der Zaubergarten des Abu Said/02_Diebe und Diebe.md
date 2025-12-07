@@ -54,12 +54,12 @@ ein neues Teufelszeug erfunden haben, das ganz besonders
 harmlose Vergiftungen erzeugt.«
 
 In der Tür erschien Mathilde mit einem Teebrett und
-sechs Flaschen Seifenwasser und zwei Gläsern. Sie sagte keinen
+sechs Flaschen Selterwasser und zwei Gläsern. Sie sagte keinen
 Ton, aber ihr Blick sprach Bände, und als Harst abwinkte
 und starken Mokka verlangte, meinte sie nur: »Eingelegte
 Heringe sind auch da!«
 
-»Der Teufel hole Sie mit Ihrem …« — und dann nach
+»Der Teufel hole Sie mit Ihren …« — und dann nach
 dieser Kraftexplosion brach Harst in ein endloses Gelächter aus.
 
 Mathilde war versöhnt, entschwebte, und da begann die
@@ -537,7 +537,7 @@ Harst schaute durch das Schlüsselloch …
 
 Ein Windstoß umheulte die Villa …
 
-Harst öffnete die Tür, weder Schloßdrücker, nahm Türgelenke
+Harst öffnete die Tür, weder Schloßdrücker, noch Türgelenke
 kreischten, und jetzt hörten wir jedes Wort.
 
 <h2>3. Kapitel.</h2>
@@ -836,7 +836,7 @@ ich den Mut fand, in das Zimmer zu klettern, die Kiste zu
 holen, den Hörer auf die Stützen zu legen, den Draht zu entfernen
 und sogar noch mit dem Besen die Spuren im Staube
 zu verwischen, — man handelt häufig wie unter einem inneren
-Zwang! Ich hüllte die Kiste in den Teppich, jemand beobachtete
+Zwang! Ich hüllte die Kiste in den Teppich, niemand beobachtete
 mich, ich eilte in meine Wohnung zurück und sank halb
 ohnmächtig auf mein Bett …«
 
@@ -1014,7 +1014,7 @@ Rat Penz fragte atemlos:
 Burke, Ernst Burke, — leider nicht so geistesschwach, daß
 er nicht morden könnte …«
 
-Ein höhnisches scheußliches Kichern, folgte …
+Ein höhnisches scheußliches Kichern folgte …
 
 »Beweist mir was, ihr … ihr …«
 

@@ -377,7 +377,7 @@ unseren Baron und Schützling sofort beschuldigte, den
 Fremden erstochen zu haben.
 
 »… Sie haben nie die Absicht gehabt, den Laden zu
-mieten«, polterte der Fette Herr in gereiztem Tone heraus.
+mieten«, polterte der fette Herr in gereiztem Tone heraus.
 »Sie sind lediglich …«
 
 Harst winkte energisch ab. »Schweigen Sie doch, Herr
@@ -393,7 +393,7 @@ Wie soll unsereiner sich so rasch mit so schrecklichen Dingen abfinden?!
 Ich habe noch nie einen Erstochenen gesehen, ich
 züchte Kanarienvögel und …«
 
-So sah er auch aus, — harmlos, gemütlich, vielleicht den
+*So* sah er auch aus, — harmlos, gemütlich, vielleicht den
 Unbilden des Lebens wenig gewachsen.
 
 »Gehen Sie doch!«, mahnte Harald. »Es ist Ihre Pflicht.
@@ -416,7 +416,7 @@ als ehrbarer Bürger hier ehrlich mich durchzuschlagen, und —
 was geschieht?! — — Ein Mord!!«
 
 Harst hatte den Staub vom Ladentisch gefegt und sich
-gesetzt. »Betrachten die die traurige Angelegenheit bitte
+gesetzt. »Betrachten Sie die traurige Angelegenheit bitte
 mehr als zukünftiger Geschäftsmann, Baron. Eine Reklame
 wie diese findet kaum ein Zigarrenhändler.«
 
@@ -562,7 +562,7 @@ Draußen fuhren die beiden Autos der Mordkommission
 vor.
 
 <h2>3. Kapitel.</h2>
-<h3>Beigeschmack vom Zaubergarten.</h3>
+<h3>Vorgeschmack vom Zaubergarten.</h3>
 
 Kriminalrat Penz ließ sich von Harst und Eglochberg sowie
 dem Verwalter Emil Burke zunächst die Vorgeschichte
@@ -1231,7 +1231,7 @@ schimmernden Prunksarg, der mitten in einem leeren häßlichen
 Kellergewölbe aufgestellt war. In der Laterne brannte ein
 Stück dicker Kerze mit langen Tropfenbärten.
 
-Wenn mir nicht sogar klar geworden wäre, daß die
+Wenn mir nicht sofort klar geworden wäre, daß die
 schmutzigen, kalkbespritzten Kellerwände, an denen stellenweise
 die Vierecke gemauerter Ziegelsteine hindurchleuchteten, lediglich
 gemalte Vorhänge sein könnten, würde ich zweifellos ein
@@ -1295,7 +1295,7 @@ Die Frau spielte nervös mit der schwarzen Halbmaske.
 
 Die Dame hatte ihre Sicherheit wiedergefunden.
 
-»Ich muß mich etwas weitschweifigen ausdrücken, Herr
+»Ich muß mich etwas weitschweifiger ausdrücken, Herr
 Said … Nehmen Sie an, ich hätte zufällig von einem Verbrechen
 Kenntnis erhalten, das ein Bekannter von mir begangen
 hat. Meine Frage lautet: Werde ich dadurch, daß
