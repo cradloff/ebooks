@@ -11,7 +11,7 @@ Septemberabende, an dem man nicht einmal einen Hund
 auf die Straße jagt. Die wenigen Menschen, die die stille
 Gasse im Süden Berlins, unter ihren Regenschirmen zusammengeduckt,
 eilig entlanghasteten, achteten kaum auf ihre
-Umgebung. Der Kanal, der Per die eine Straßenseite begrenzte,
+Umgebung. Der Kanal, der hier die eine Straßenseite begrenzte,
 war die Quelle häßlicher Geräusche, durch die jeder
 Anwohner beständig gefoltert wurde. Am anderen Ufer, der
 breiten Promenade gegenüber, lag ein großer Kohlenplatz, und
@@ -22,16 +22,16 @@ die schwebenden, pendelnden, eisernen Greifkästen ihren
 Inhalt in rostige Wagen. Elektrische Lampen glotzten wie die
 Augen verschlafener Urwelttiere durch den Regennebel, —
 fauchte ein Windstoß den Kanal hinab, so riß er die vorzeitig
-verwelkten Blätter von den Linden der »Promenade und warf
-sie wie ermattete Vögel in die trübe, ölige &lut.-
+verwelkten Blätter von den Linden der Promenade und warf
+sie wie ermattete Vögel in die trübe, ölige Flut.
 
 Zwei Männer in fleckigen, schäbigen Gummimänteln und
-hoch ausgekrempelten Beinkleidern über den kläglichen, zerplatzten
+hoch aufgekrempelten Beinkleidern über den kläglichen, zerplatzten
 Gummischuhen kamen die Allee entlang. Unter den
 nassen, tief in die Gesichter gezogenen Schlappmützen glänzten
 regenfeuchte, stoppelige Wangen.
 
-Sie hatten es nicht eilig, die beiden fragwürdigen Zunge
+Sie hatten es nicht eilig, die beiden fragwürdigen Kumpane.
 Jeder trug ein mittelgroßes Paket unter dem Arm,
 <@pagebreak/>
 und ihre Scheu vor dem Laternenlicht mochte wohl gute
@@ -44,10 +44,10 @@ Der größere der beiden bog nach links ab und lehnte sich
 »Die Ruder sind auch angekettet, wie ich vormittags sah, als
 du bei unserer Mandantin weiltest. Du wirst die Schlösser
 leicht öffnen können. Halte dich bereit, das Geschäft dürfte in
-zehn Minuten erledigt sein. Mit müssen unerkannt entwischen,
-der Wasserweg ist am sichersten. Leidlich dir nicht weiter
+zehn Minuten erledigt sein. Wir müssen unerkannt entwischen,
+der Wasserweg ist am sichersten. Zerbrich dir nicht weiter
 den Kopf über diese Dinge. Sie liegen so kompliziert, daß
-auch ich sie nicht überschaue… Wir werden!pater darüber
+auch ich sie nicht überschaue. Wir werden später darüber
 reden.«
 
 »Auf dem Ball im Europa-Hotel?«, warf ich etwas
@@ -58,20 +58,20 @@ eine Kellertreppe hinab. —
 
 Es war kurz nach acht Uhr. An dem einen Kellerraum,
 der mit Stößen von alten Zeitungen, alten Möbeln, Haufen
-von Gleiten und vielen anderen Gegenständen angefüllt war,
+von Alteisen und vielen anderen Gegenständen angefüllt war,
 saßen um einen Tisch drei Männer und ein geschminktes,
-Abreise Frauenzimmer und unterhielten sich in leisestem &lüster-
-Ton miteinander. Auf dem Tisch lag eine Abendzeitung, und
+älteres Frauenzimmer und unterhielten sich in leisestem Flüsterton
+miteinander. Auf dem Tisch lag eine Abendzeitung, und
 deren dick gedruckte Sensationsüberschrift auf der Vorderseite
 Schien die vier merkwürdigen Genossen weidlich zu belustigen.
 
 Der eine war ein alter Mann von patriarchalischem Aussehen
 in einem schmierigen Kaftan. Wenn er sprach, pflegte
-eisernen langen, weißen Bart mit der noch schwierigsten
-Hand fast zärtlich zu kommen.
+er seinen langen, weißen Bart mit der noch schmierigeren
+Hand fast zärtlich zu kämmen.
 
-Der zweite, dick und mit dem! Schwammigen Gesicht eines
-Teufels, hatte wässerige, entzündete Augen und trug einen
+Der zweite, dick und mit dem Schwammigen Gesicht eines
+Trinkers, hatte wässerige, entzündete Augen und trug einen
 schäbigen Gehrock und Gummiwäsche. Seine Gummiröllchen
 rutschten andauernd bis zu den Fingerspitzen. Der Mann jonglierte
 dann So lange, bis er die klappernden Manschetten
@@ -87,12 +87,12 @@ Ruhe dies eigentlich gestattete, über seine Lippen.
 Die Türöffnung nach dem Vorraum des Kellers war mit
 einem alten, sehr dicken und von Motten stellenweise gelieferten
 Smyrnateppich verhängt. Hinter diesem Teppich hatte kurze
-&Geit ein Eindringling gestanden, für den auch das beste Türschloß
+Zeit ein Eindringling gestanden, für den auch das beste Türschloß
 kein Hindernis bedeutete. Er schlich jetzt wieder hinaus,
 versperrte die dicke, blechbenagelte Tür von außen und drückte
 auf einen versteckt angebrachten Klingelknopf. Das Signal
-»dreimal lang, dreimal kurz«, verdankte er einem «&Sreunde«,
-den er vormittags hatte den Kelle&verlassen sehen. »Einauge«
+»dreimal lang, dreimal kurz«, verdankte er einem »Freunde«,
+den er vormittags hatte den Keller verlassen sehen. »Einauge«
 war Spezialist in feineren Arbeiten und einem gewissen Harst
 zu Dank verpflichtet.
 
@@ -101,7 +101,7 @@ handgroße Klappe herab, und die brüchige, weinerliche Stimme
 des Kaftanpatriarchen fragte nach Namen und Begehr des
 Besuchers.
 
-»Gute Tore (Diebesgut),« flüsterte der gewisse Harst als
+»Gute Sore (Diebesgut),« flüsterte der gewisse Harst als
 Stichwort.
 
 Der Alte öffnete. Der Schein einer Laterne umspielte
@@ -115,7 +115,7 @@ seiner schnittigen Figur und den klugen, abwartenden Augen
 etwas abseits. Die Tür klappte zu, und der Greis folgte dem
 regenfeuchten Gast.
 
-öin Hauptkeller brannten jetzt vier starke elektrische
+Im Hauptkeller brannten jetzt vier starke elektrische
 Lampen.
 
 »Pack« aus«, befahl der alte Mann und überflog nochmals
@@ -123,68 +123,67 @@ das verlebte, häßliche, stoppelbärtige Gesicht. »Wer
 schickt dich?!«
 
 <@pagebreak/>
-»Einauge …«, einsteckte der Pseudogauner heiseren
-Tones. »Da — — allerfeinste Seide … Letztens von Berg
+»Einauge …«, erwiderte der Pseudogauner heiseren
+Tones. »Da — — allerfeinste Seide … Letztens von Borg
 und Co.«
 
-öin Seidenhause Berg war vor drei Tagen eingebrochen
-uralten, die Wächter hatten jedoch die Diebe verscheucht, und
+Im Seidenhause Borg war vor drei Tagen eingebrochen
+worden, die Wächter hatten jedoch die Diebe verscheucht, und
 die Beute war sehr gering gewesen. — Daß die beiden Ballen
 Seide heute rechtmäßig bei der Firma gekauft worden waren,
-konnte der alte Fehler nicht ahnen. Er befühlte den Stoff,
+konnte der alte Hehler nicht ahnen. Er befühlte den Stoff,
 zuckte die Schultern und erklärte grämlich:
 
-»Dreißig Mark … &ür den Artikel habe ich keinen
+»Dreißig Mark … Für den Artikel habe ich keinen
 Bedarf.«
 
-»Her mit dem Gatten«, meinte der Ganove ärgerlich.
-»Immer besser wie mischt … Lege noch einen Seiner zu,
-Gassowitz. Habe Eis im Auge … gutes Eis … große Sache!«
+»Her mit dem Zaster«, meinte der Ganove ärgerlich.
+»Immer besser wie nischt … Lege noch einen Zehner zu,
+Jassowitz. Habe Eis im Auge … gutes Eis … große Sache!«
 
 Der Alte schaute über den Rand seiner Stahlbrille hinweg.
 
 »Wann?«, fragte er kurz.
 
 »Diese Nacht … Bleibe munter … Um vier Uhr ist
-das Ding gedredpt. Mindestens zehntausend, Gassowitz.« Er
-knöpfte den langen, Jchäubiaen Regenmantel aus wDWDaruntei
-trug er einen Sportmantel und einen &rack.
+das Ding gedreht. Mindestens zehntausend, Jassowitz.« Er
+knöpfte den langen, schäbigen Regenmantel auf. Darunter
+trug er einen Sportmantel und einen Frack.
 
-P. W. Galjjowits streichelte seinen Bart. »Hm, von aufwärts?!«,
+P. M. Jassowitz streichelte seinen Bart. »Hm, von auswärts?!«,
 meinte er tastend.
 
-»Gib das Geld. frage dicht viel …«, lautete die grobe
-Antwort …
+»Gib das Geld, frage nicht viel …«, lautete die grobe
+Antwort.
 
-Der greise Bann gewahrte hinter seinem Gast an der
-Wand ein mattes grünes Hebt utn0 schob dem Besucher einen
-zerknitterten Fünfzigmarkschein bin. »Du kommst bestimmt?«,
-jagte er mehr im Tone einer Anfrage, die eine Erwiderung
-überjliälsig erscheinen laßt.
+Der greise Mann gewahrte hinter seinem Gast an der
+Wand ein mattes grünes Licht und schob dem Besucher einen
+zerknitterten Fünfzigmarkschein hin. »Du kommst bestimmt?«,
+sagte er mehr im Tone einer Anfrage, die eine Erwiderung
+überflüssig erscheinen läßt.
 
-»Schwätzer:«. murmelte der Gast und wandte sich dem
-Türteppich zu. Deine bis dahin sehr kleinen Augen öffneten
+»Schwätzer!«, murmelte der Gast und wandte sich dem
+Türteppich zu. Seine bis dahin sehr kleinen Augen öffneten
 sich weit und überflogen die linke Wand, wo auf einem Brett
 dicht unter der Decke mehrere farbige Kristallvasen standen.
 Die eine davon funkelte matt grün. Es konnte der Widerschein
 des Lichtes sein. Aber der Gast lächelte …
 <@pagebreak/>
-Paul Markus Gassowitz öffnete die Außentür. Der Hund
-war dicht neben ihm. »Mieses Wetter«, jagte er fröstelnd.
-»Affe dann — — morgens!«
+Paul Markus Jassowitz öffnete die Außentür. Der Hund
+war dicht neben ihm. »Mieses Wetter«, sagte er fröstelnd.
+»Also dann — — morgens!«
 
-»da — morgens!«, — und der Besucher zog den Kopf
-noch fieser in den hochgeklappten Mantelkragen und schritt
-die Steinstufen hinan. Ein Windstoß setzte eine Menge welker
-Blätter wirbelnd über die Straße, und der greise Keller schlug
-hastig die Tür zu. Der Lärm, der vom Kai des Kanals herben
-schrie, drang bis in den anscheinend gut gesicherten Keller
-
-mein.
+»Ja — morgens!«, — und der Besucher zog den Kopf
+noch tiefer in den hochgeklappten Mantelkragen und schritt
+die Steinstufen hinan. Ein Windstoß fegte eine Menge welker
+Blätter wirbelnd über die Straße, und der greise Hehler schlug
+hastig die Tür zu. Der Lärm, der vom Kai des Kanals herüberdröhnte,
+drang bis in den anscheinend gut gesicherten Keller
+hinein.
 
 Harst war mit wenigen Sätzen im Dunkel der Promenade,
 schwang sich über das Geländer und ließ sich in den plumpen
-Kahn sollen.
+Kahn fallen.
 
 »Abstoßen — — schnell …!«
 
@@ -193,24 +192,24 @@ brachte ich das schwere Boot in den finsteren Schatten
 der Laderampe drüben. Der Regen fiel noch dichter, und als
 wir uns an einem morschen Pfosten mit eingeklemmtem Ruder
 festhielten, konnten wir nur undeutlich die Gestalt eines Mannes
-erkennen, der sich über das Geländer der Promenade beugt?
+erkennen, der sich über das Geländer der Promenade beugte
 und offenbar versuchte, uns in dieser Dunkelheit noch zu erspähen.
 Er verschwand sehr bald und Harst sagte halblaut:
-»geht kommt es: darauf an, ob Gassowitz die beiden Seidenballen
+»Jetzt kommt es darauf an, ob Jassowitz die beiden Seidenballen
 wegwirft … Warten wir noch.«
 
 Die Regenschnüre klatschten mir auf Mantel und Mütze,
 trommelten gegen die Bodenbretter des Kahnes und durchnäßten
 mir Strümpfe und Beinkleider. Es war wieder einmal
-eine Nacht, die erst beginnen hatte und die so allerlei der
-sprach. Trotzdem vergaß ich all dies über Harsts letzter Bemerkung,
+eine Nacht, die erst begonnen hatte und die so allerlei versprach.
+Trotzdem vergaß ich all dies über Harsts letzter Bemerkung,
 die mir geradezu widersinnig erschien.
 
-» Wegwerfen?! Er hat die Ballen doch bezahlt«, Jagte
+»Wegwerfen?! Er hat die Ballen doch bezahlt«, sagte
 ich zweifelnden Tones.
 
-»Gewiß. Crotzdem!spielen da Verhältnisse mit, die der
-Sache eine ganz neues Wendung geben könnten. Ach war sehr
+»Gewiß. Trotzdem spielen da Verhältnisse mit, die der
+Sache eine ganz neues Wendung geben könnten. Ich war sehr
 überrascht, als ich im Keller vier Personen beobachtete. Zum
 <@pagebreak/>
 Glück war der Hund irgendwo eingesperrt, sonst hätte er mich
@@ -220,32 +219,32 @@ noch mehr in Erstaunen.
 »Du glaubst wirklich, es sind die Permallons?!!«, meinte
 ich nachdenklich.
 
-»die können es Sein, mein Alter … Sind sie es, So
-haben sie wieder einen ganz großen &gischzug vor. Nach unserem
+»Sie können es sein, mein Alter … Sind sie es, so
+haben sie wieder einen ganz großen Fischzug vor. Nach unserem
 letzten Zusammentreffen mit den Drillingen, die jetzt so ziemlich
 sämtliche Kriminalbehörden der Welt beschäftigen, waren sie
-wie vom. Erdboden verschwunden. Ich selbst bezweifelte, daß
+wie vom Erdboden verschwunden. Ich selbst bezweifelte, daß
 sie Berlin weiterhin behelligen würden. — — Achtung — —
 drüben!!«
 
 Ich starrte durch die Finsternis nach der Promenade hinüber.
-wer klatschende Geräusche folgten, eine Gestalt zog
+Zwei klatschende Geräusche folgten, eine Gestalt zog
 sich blitzschnell vom Geländer in den Baumschatten zurück und
 wurde nicht mehr sichtbar.
 
 »Achthundert Mark ruhen jetzt auf dem Grunde des
-Damals«, flüsterte Harald. »Der Verkäufer der Firma Berg
+Kanals«, flüsterte Harald. »Der Verkäufer der Firma Borg
 und Co. würde wohl ein äußerst verdutztes Gesicht machen,
 wenn er wüßte, wo die Seide jetzt lagert. Es war ein teurer
 Spaß, aber auf andere Art ließ sich eine Verbindung mit
-Gassowitz nicht herstellen. Was mich wundert, ist die unanfechtbar«
-Catjsache, daß Gassowitz seit vielen Jahren das Produktengeschäft
+Jassowitz nicht herstellen. Was mich wundert, ist die unanfechtbare
+Tatsache, daß Jassowitz seit vielen Jahren das Produktengeschäft
 als Deckmantel für Hehlerei betreibt, ohne je abgefaßt
 worden zu sein. Lückes Auskünfte sind stets erschöpfend und
 zuverlässig. Natürlich wollte er am Telephon wissen, weshalb
-uns Gassowitz interessiert. Meine laufen Ausreden beantwortete
+uns Jassowitz interessiert. Meine faulen Ausreden beantwortete
 er mit Schweigen und wünschte uns viel Vergnügen. Beißende
-störte von ihm — wie üblich! — Andere jetzt wieder hinüber.
+Ironie von ihm — wie üblich! — Rudere jetzt wieder hinüber.
 Die Luft ist rein.«
 
 Wir ketteten das Boot und die Ruder an und erkletterten
@@ -253,9 +252,9 @@ die Ufermauer. Weit und breit war kein Mensch zu sehen.
 Wir beeilten uns, erreichten das am Halleschen Tor wartende
 Mietauto, stiegen ein und sausten davon.
 
-Der Chauffeur war ein durchaus zuverlässiger Mensch.
+Der Chauffeur war ein durchaus zuverlässiger Mensch,
 <@pagebreak/>
-der uns schon häufiger bei abenteuerlichen Kehrten gute
+der uns schon häufiger bei abenteuerlichen Fahrten gute
 Dienste geleistet hatte.
 
 Es war eine Limousine mit kleinem Fenster in der Rückwand,
@@ -263,7 +262,7 @@ ein älterer, aber noch brauchbarer Wagen. Harst
 schaute wiederholt nach Verfolgern aus. Erst in der Villenstraße
 wurde er etwas unruhig. »Da klebt doch ein Verfolger
 auf unserer Fährte«, meinte er merklich verstimmt. »Auch
-eine Limousine …! Sage dem &Chausjfsfeur, er so! rechts in
+eine Limousine …! Sage dem Chauffeur, er soll rechts in
 die Potsdamerstraße einbiegen. Nur dort können wir entwischen.«
 
 Es gelang. Ecke Lützowstraße wurde Signal »Rot« gegeben,
@@ -274,38 +273,37 @@ durch den Gemüsegarten und fanden im Herrenzimmer einen
 Mann vor, der seelenruhig eine Zigarre rauchte und uns kräftig
 die Hand schüttelte.
 
-»Euer Anrufe, Herr Harst«, sagte er mit einer Stimme,
-die der meinen vorzüglich glich. »Ich habe mich schien Anweisungen
+»Zwei Anrufe, Herr Harst«, sagte er mit einer Stimme,
+die der meinen vorzüglich glich. »Ich habe mich Ihren Anweisungen
 entsprechend verhalten. Der erste Anruf kam vom
 Fernsprechautomat Hallesches Tor, vor etwa zehn Minuten,
 der zweite aus einer Kneipe in der Potsdamerstraße. Beide
-Male wurde nach Ahnen gefragt, und im meldete mich als
-Schraut … Harst läge noch im Bett, leichte Grippe. — Zu
-Frieden?«
+Male wurde nach Ihnen gefragt, und ich meldete mich als
+Schraut … Harst läge noch im Bett, leichte Grippe. — Zufrieden?«
 
 Unser Gast war ein äußerst tüchtiger Angestellter der
-Detektei Argus, ein früherer Dampfer er.
+Detektei Argus, ein früherer Schauspieler.
 
-»Auftreten, lieber Maß! Mit Ahnen! Nicht mit den
+»Zufrieden, lieber Matz! Mit Ihnen! Nicht mit den
 Anrufen. Die Leute haben doch Verdacht geschöpft, sowohl
-Gassowitz, als auch Freund Lücke. Wir wurden verfolgt. Lücke
+Jassowitz, als auch Freund Lücke. Wir wurden verfolgt. Lücke
 rief aus der Kneipe an, als wir ihm entwischt waren, und
-Pech vom Halleschen Tor. Hoffentlich läßt man uns nun
+Jassowitz vom Halleschen Tor. Hoffentlich läßt man uns nun
 in Ruhe.«
 
 Herr Matz vom »Argus« fragte nichts weiter. Er war
 daran gewöhnt, nur als Statist verwendet zu werden. Er
 <@pagebreak/>
 arbeitete Sehr gern für uns, und wie wertvoll er in diesem
-Saale gewesen, bewies ein dritter Anruf, den ich jetzt Person
-1\.h erledigte.
+Falle gewesen, bewies ein dritter Anruf, den ich jetzt Persönlich
+erledigte.
 
 »Hier Uhland 9786«, meldete ich mich …
 
 »Hier Lücke … — Schrautchen, entschuldigen Sie schon …
-ich t Harst wirklich krank?«
+Ist Harst wirklich krank?«
 
-»Das habe ich ihrem Beamten doch schon vorhin England.
+»Das habe ich Ihrem Beamten doch schon vorhin erklärt,
 Sie alter Schwindler! Glauben Sie, ich erkenne Seidlers
 Stimme nicht?! Assistent Seidler Soll Unterricht bei einem
 Stimmenimitator nehmen!«
@@ -313,49 +311,49 @@ Stimmenimitator nehmen!«
 Da Lücke zumeist mit Seidler zusammenarbeitete, war
 meine Vermutung nicht allzu kühn.
 
-Pause. — Dann.
+Pause. — Dann …:
 
-»Nun ja, es war ’Seidler … So hätte wetten mögen,
-ihr beide warst da vorhin am Halleschen Tor … Merkwürdige
-Geschichte übrigens … Sassowitz hat zwei Pakete in den Kanal
+»Nun ja, es war Seidler … So hätte wetten mögen,
+ihr beide waret da vorhin am Halleschen Tor … Merkwürdige
+Geschichte übrigens … Jassowitz hat zwei Pakete in den Kanal
 geworfen, und ich werde sie sofort herausholen lassen.«
 
 Harst stand dicht neben mir und hörte jedes Wort.
 
 »… Der alte Gauner hat die Pakete einem Burschen
 abgekauft, der sich auch sehr eigentümlich benahm … Ich
-viel! den Kerl für Harst. Ein &dammer, daß wir nicht schon?
-Familien … Ich werde aus der Sache nicht recht klug … —
-Euch beiden alles Gute, — — Wiederhören …«
+hielt den Kerl für Harst. Ein Jammer, daß wir nicht sofort
+zugriffen … Ich werde aus der Sache nicht recht klug … —
+Euch beiden alles Gute. — — Wiederhören …«
 
-»Alles Gute!«, jagte ich in sehr mäßiger Laune, denn
-Harsts äußerst verlaufenes Gesicht verriet, wie ungelegen ihm
-vi«,e Einmischung kam. — Oh hängte ab.
+»Alles Gute!«, sagte ich in sehr mäßiger Laune, denn
+Harsts äußerst betroffenes Gesicht verriet, wie ungelegen ihm
+diese Einmischung kam. — Ich hängte ab.
 
-»Das verdirbt mir das ganze Programm«, erklärte Herr
-den auch sehr gereizt. »Wir hätten die bewußten Guwe:«:3;
-Schäumt wieder herbeigeschafft. Am ärgerlichsten ist, daß
-na ’ durch uns dieser Gassowitz in eine böse Klemme gerät.
-mochte …«
+»Das verdirbt mir das ganze Programm«, erklärte Harst
+denn auch sehr gereizt. »Wir hätten die bewußten Juwelen
+bestimmt wieder herbeigeschafft. Am ärgerlichsten ist, daß
+nun durch uns dieser Jassowitz in eine böse Klemme gerät. Ich
+möchte …«
 
-Wieder schrillte das Telephon. Wieder meldete ich in:…
-Straße brüchige, trostlose Stimme kam durch den Draht. »Hier
-Paul Markus vom Kanal … Sie wissen schon, Herr Schlau:.
-wachen Sie sich meinetwegen keine Sorgen … da den Paketen
+Wieder schrillte das Telephon. Wieder meldete ich mich.
+Eine brüchige, kraftlose Stimme kam durch den Draht. »Hier
+Paul Markus vom Kanal … Sie wissen schon, Herr Schraut.
+Machen Sie sich meinetwegen keine Sorgen … In den Paketen
 <@pagebreak/>
-waren alte Lumpen, und Herr Doktor Lücke wird befreit!
-Anlaß finden, mich zu behelligen. oh bin doch etwas!chlaue:t
+waren alte Lumpen, und Herr Doktor Lücke wird keinen
+Anlaß finden, mich zu behelligen. Ich bin doch etwas schlauer
 als die Kriminalpolizei und Sie beide! Ich ziehe aus.« — Ein
 Knacken, — Jassowitz war mit uns fertig. — Harsts Gesichtsausdruck
 sprach Bände. Ich aber halte es für angebracht,
-nunmehr die Vorgeschichte dieser Harlekiniade dem Leser auswischen.
+nunmehr die Vorgeschichte dieser Harlekiniade dem Leser aufzutischen.
 
 <@pagebreak/>
 
 <h2>2. Kapitel.</h2>
 <h3>Der tote Omar.</h3>
 
-»Ich: begreife nicht recht …«, wagte ich vorsichtig einzuflechten,
+»Ich begreife nicht recht …«, wagte ich vorsichtig einzuflechten,
 als Harst mir die Eintrittskarten zum Ball der
 Türkischen Kolonie zeigte, — übrigens sehr vornehm gehaltene
 Eintrittskarten, deren Rückseite ein schnittiges Auto,
@@ -370,31 +368,31 @@ erstehen.
 
 Meine Stimmung sank auf den Nullpunkt. Bei dem
 Hundewetter in die Stadt fahren, außerdem noch das zweifelhafte
-Vergnügen, abends im &rack jsür arme türkische Studenten
+Vergnügen, abends im Frack für arme türkische Studenten
 mich zu langweilen, — — ich brummte etwas äußerst
 Unliebenswürdiges, schlug die Tür zu und machte mich in
 meinen Räumen zum Ausgehen fertig.
 
 Als ich im entsprechenden Regenkostüm mich von Harst
 verabschieden wollte, war sein Arbeitszimmer leer. Ich fand
-ihn im Ankleidezimmer bei einer merkwürdigen Boeschäftigung
+ihn im Ankleidezimmer bei einer merkwürdigen Beschäftigung
 vor. Er hatte rötliche Bartwolle in der Linken und
 schnitt mit einer Schere ganz kurze Stückchen ab. Auf dem
-Papier lag schon ein ganzes Häusern davon. Neben dem
-Papierbogen!tand eine Flasche Gesichtskleister, wie ich das
+Papier lag schon ein ganzes Häuflein davon. Neben dem
+Papierbogen stand eine Flasche Gesichtskleister, wie ich das
 Zeug nannte, eine nur durch Spiritus zu entfernende Lösung,
-zum Beseitigen künstlicher Bärte,
+zum Befestigen künstlicher Bärte,
 
 »Du fährst ins Kaufhaus«, sagte er Sehr bestimmt. »Wenn
-du deine Weste erstanden hast, »gehst du ins Verkehrsbüro und
-sei dich an den Theaterausgang. Es wird dort eine junge
-Dame vorhanden sein«. — er lächelte eigentümlich — »die
+du deine Weste erstanden hast, gehst du ins Verkehrsbüro und
+setzt dich an den Straßenausgang. Es wird dort eine junge
+Dame vorhanden sein«, — er lächelte eigentümlich — »die
 <@pagebreak/>
 als Kennzeichen eine lila Orchidee angesteckt hat. Du wirst
 diese Dame ansprechen — leise, und deinen Namen nennen
 und erklären, ich hätte Grippe. Du wirst ferner die Dame
 bitten, dir den Fall vorzutragen und darauf dringen, daß sie
-die mit in ihre Wohnung nimmt.«
+dich mit in ihre Wohnung nimmt.«
 
 Ich Setzte mich. Die Beine wurden mir schwach.
 
@@ -402,14 +400,14 @@ Ich Setzte mich. Die Beine wurden mir schwach.
 
 »Nein, angerufen hat sie. Morgens halb neun. Dann
 besorgte ich die Eintrittskarten. Jetzt ist es zwölf. Beeile
-die, nimm eine Taxe, und falls du noch viel zu fragen gedenkst,
+dich, nimm eine Taxe, und falls du noch viel zu fragen gedenkst,
 fliegst du raus.«
 
 Meine Antwort war dementsprechend. Und dann gondelte
 ich zur Stadt und zerkaute wütend die Zigarre und las
-im Morgenblatt, daß die Nr noch immer hinter den drei
-Brüdern Permallon her sei. Pech) lächelte grimmig, denn die
-Permallons waren mittlerweile As Japan H geworden.
+im Morgenblatt, daß die Polizei noch immer hinter den drei
+Brüdern Permallon her sei. Ich lächelte grimmig, denn die
+Permallons waren mittlerweile Witzblattfiguren geworden.
 Die Presse glaubte nicht an ihre Existenz, und die Polizei
 bekam wenig Schmeichelhaftes zu hören. Witzige Reporter
 schlachteten die mysteriösen Permallons nach Kräften aus und
@@ -425,14 +423,14 @@ sehr parfümiert und blätterte in einer Reklame über die Vorzüge
 Merans als Erholungsstätte.
 
 »Gnädigste, mein Name ist Schraut … Harst hat Grippe.
-Er bittet Sie, mit mir den Fall in schien Wohnung zu besprechen.«
+Er bittet Sie, mit mir den Fall in Ihrer Wohnung zu besprechen.«
 
-Sie fixierte mich kühl. »Und das Erkennungszeichen 7!!«
+Sie fixierte mich kühl. »Und das Erkennungszeichen?!«
 
-he Blick glitt über mein Paket hin — die neue Weste.
+Ihr Blick glitt über mein Paket hin — die neue Weste.
 
-Wer mit Harst »arbeitet«, muß schnell denken oder einSiechenhaus
-beziehen.
+Wer mit Harst »arbeitet«, muß schnell denken oder ein
+Siechenhaus beziehen.
 
 »Bitte — — die weiße Weste«, flüsterte ich wieder
 
@@ -444,55 +442,54 @@ Allerhand!! Allerhand!! Lieber Herr Schraut, — — sie
 war sehr pikant, die Kleine.
 
 Das Auto war schlemmerhaft. Der Chauffeur ein verkleideter
-Fürst. Er öffnete uns die Tür mit einem Gesicht.
-als erntete er uns eine ganz besondere Gunst.
+Fürst. Er öffnete uns die Tür mit einem Gesicht,
+als erwiese er uns eine ganz besondere Gunst.
 
-Die blonde Fee rückte näher »Meinen Namen kennen
+Die blonde Fee rückte näher. »Meinen Namen kennen
 Sie ja, Herr Schraut …«
 
-Sie düstere nach Peau d’T]pagne. Eigentlich ein Herrenparfüm.
+Sie duftete nach Peau d’Espagne. Eigentlich ein Herrenparfüm.
 
-ehe Name?!
+Ihr Name?!
 
 Keine Ahnung hatte ich gehabt … Aber in den Bügel
 ihres goldenen Handtäschchens war eingraviert gewesen:
 
-Unsinn Gambys.
+<p class="centered">Tussy Gambys.</p>
 
-»Natürlich, gnädiges &räulein … Ach habe Sie vor
+»Natürlich, gnädiges Fräulein … Ich habe Sie vor
 einer Woche im Bett gesehen, natürlich im Film. Der Film
-wer sehr schön …« (In Wahrheit mußten die Herren der
-Filmprüfstelle geschlafen haben, als diese konzentrierte Schlaffigkeit
-auf das Publikum losgelassen wurden.
+war sehr schön …« (In Wahrheit mußten die Herren der
+Filmprüfstelle geschlafen haben, als diese konzentrierte Schlüpfrigkeit
+auf das Publikum losgelassen wurde).
 
 Tussy sagte wegwerfend: »Es war Quatsch und Unrat …!
-
-Aber was soll man dagegen tun?! Willen muß doch leben oder
-… linken!«
+Aber was soll man dagegen tun?! Man muß doch leben oder
+… sinken!«
 
 Ich verstand. Daß weibliche Filmrollen häufig genug
 durch Preisgabe der eigenen Achtung erkauft werden, liest
-man nie in den &Jeitungen. Sinn weiß es ohnedies.
+man nie in den Zeitungen. Man weiß es ohnedies.
 
-Tussy gefiel mir. Ehrliche Menschen suchten selten.
+Tussy gefiel mir. Ehrliche Menschen sind so selten.
 
 »Erzählen Sie …«, bat ich bereits bei bester Laune.
 
 Sie puderte sich das Näschen, tuschte die Lippen nach und
-seufzte. »Ach war furchtbar erschrocken, Herr Schraut. Dabei
-verfüge ich über recht gute Nerven. Abreise etwas … l!
+seufzte. »Ich war furchtbar erschrocken, Herr Schraut. Dabei
+verfüge ich über recht gute Nerven. Aber so etwas …!!
 Da bekommt man eine Gänsehaut.«
 
-»Das Pfund Mastgans kostet neuer 1,50 …«, meinte
+»Das Pfund Mastgans kostet heuer 1,50 …«, meinte
 <@pagebreak/>
 ich tröstend. »Und die schöne braune Haut ist bei Gänsen
 das Beste …«
 
 Sie warf mir einen mißtrauischen Blick zu. »Sind Sie
-häufiger so anzüglich?! Ach hätte mir den Freund eines Harst
-weit Gerissen vorgestellt. — Na, vernichten …« Sie Kicherte
-allerliebst. »Ach bin nicht empfindlich … Stellen Sie sich
-also vor, als ich heute früh Traum«, +34 sein ganzer Schmuck
+häufiger so anzüglich?! Ich hätte mir den Freund eines Harst
+weit seriöser vorgestellt. — Na, wenn schon …« Sie Kicherte
+allerliebst. »Ich bin nicht empfindlich … Stellen Sie sich
+also vor, als ich heute früh erwachte, ist mein ganzer Schmuck
 verschwunden, und dabei habe ich ein Versteck, das ich bis
 dahin als durchaus zuverlässig hielt. Meine Brillanten sind
 berühmt und echt … Vollkommen echt.«
@@ -506,48 +503,48 @@ sie nicht gestohlen, sondern »verlegt« — — im Leihhaus, und
 natürlich hoch versichert … Der Rest ist Schweigen.
 
 Nun war Tussy Gambys zur Zeit Sehr in Mode, man
-munkelte von sehr einjlußreichen Gönnern, ich selbst bin nicht
-neidisch, ich gönne jedem einen Arbeitsfreudigen Gönner, nur
-dar] darunter nicht die Allgemeinheit leiden.
+munkelte von sehr einflußreichen Gönnern, ich selbst bin nicht
+neidisch, ich gönne jedem einen schenkfreudigen Gönner, nur
+darf darunter nicht die Allgemeinheit leiden.
 
 Mit verhaltenem Gähnen fragte ich: »Waren die Juwelen
 versichert?«
 
 »Nein. Leider nein …« Tussy weinte diskret. — Diese
-Damen vom &Silm sind merkwürdige Geschöpfe. Lachen und
+Damen vom Film sind merkwürdige Geschöpfe. Lachen und
 Weinen — — Aprilwetter!!
 
 Das Auto war bereits draußen in der Grunewald-Kolonie
 und hielt vor einer kleinen, neuen Villa, in einer jener Seitenstraßen,
-wo noch vor wenigen Fahren die Kiefern einen Wald
+wo noch vor wenigen Jahren die Kiefern einen Wald
 vorgetäuscht hatten.
 
-Der &Chausfeur öffnete die Tür, und wir befanden uns
-steht bald in dem duftenden Boudoir der Diva.
+Der Chauffeur öffnete die Tür, und wir befanden uns
+sehr bald in dem duftenden Boudoir der Diva.
 
-Tussy sagte empört: »Da, — würden Sie da 5 Versteck
+Tussy sagte empört: »Da, — würden Sie *das* Versteck
 gefunden haben, Herr Schraut?!«
 
-»Rein!«, erklärte ich der Wahrheit gemäß.
+»Nein!«, erklärte ich der Wahrheit gemäß.
 
 <@pagebreak/>
 Tussy hatte zwischen den vergitterten Fenstern ein Gemälde
-angebracht, mit sehr beiden schwarzem Rahmen. Die
+angebracht, mit sehr breitem schwarzem Rahmen. Die
 untere Leiste des Rahmens war hohl und ließ sich wie ein
 längliches Kästchen aufklappen.
 
 »Leer!!«, stöhnte Tussy kläglich.
 
-»Teer!«, nickte ich trübe und noch gelangweilter.
+»Leer!«, nickte ich trübe und noch gelangweilter.
 
 Weshalb Harst diesen »Fall« übernommen, blieb mir
 ein Rätsel.
 
-Fräulein Gambys sank malerisch auf einen Diwan …
+Fräulein Gambys sank malerisch auf einen Diwan.
 
-»Herr. Schraut, die Sache ist die … Die &Guwelen hatte
+»Herr Schraut, die Sache ist die … Die Juwelen hatte
 ich bis auf Kleinigkeiten von dem türkischen Gesandtschaftssekretär
-Omar-Bey geschenkt erhalten … Bevor ich Ohren
+Omar-Bey geschenkt erhalten … Bevor ich Ihren
 Freund heute früh anrief, meldete ich Selim Omar den Verlust.
 Er war außer sich. Er gestand mir, daß er die Juwelen
 für seine Regierung in aller Heimlichkeit hatte verkaufen
@@ -559,79 +556,78 @@ er sich das Leben nehmen.«
 Tussy fuhr auf. »Bitte — — ein Menschenleben, Herr
 Schraut, und …«
 
-»Pardon, ich meinte den Schmuck, gnädiges &räulein …«,
+»Pardon, ich meinte den Schmuck, gnädiges Fräulein …«,
 korrigierte ich wahrheitswidrig. »Die Geschichte wird sich
-wohl einrenken lassen. Wer kannte das Versteck außer Ahnen?«
+wohl einrenken lassen. Wer kannte das Versteck außer Ihnen?«
 
 »Niemand!!«
 
 »Hm, — Sie haben eine Zofe, eine Köchin, einen Diener,
 einen Chauffeur … — Zuverlässig?«
 
-»Bestimmt! Außerdem betritt nur die Hofe dieses Zimmer,
+»Bestimmt! Außerdem betritt nur die Zofe dieses Zimmer,
 und …«
 
-»Verzeihung, — — eine delikate Frage: Und Tuareg!«
+»Verzeihung, — — eine delikate Frage: Und Omar-Bey?!«
 
 Sie versuchte zu erröten und wurde allerliebst verlegen.
-Ritt einem geradezu entwaffnenden kindlich-harmlosen Augen
-Aufschlag erwiderte sie:
+Mit einem geradezu entwaffnenden kindlich-harmlosen Augenaufschlag
+erwiderte sie:
 
 »Er kannte das Versteck …«
 
 »Und wann sahen Sie ihn zum letzten Mal?«
 
 <@pagebreak/>
-»Gestern« band? als er:«mir- »die Juwelen … schenkte.«
+»Gestern abend, als er mir die Juwelen … schenkte.«
 
-»Schenkte?!« »Mein Ton machte sie nervös. Sie betrachtete.
-Sorgfältig ihre »zarten. Strumpffetzen,
+»Schenkte?!« Mein Ton machte sie nervös. Sie betrachtete
+Sorgfältig ihre zarten Strümpfchen,
 
-»Nun ja. »Eigentlich lieh er Sie. mir nur für den heutigen«
-Boot: im- Europas-Hotel … Wohltätigkeit-Fest der
-türkischen Kolonie … und so … Große Tombola …
+»Nun ja … Eigentlich lieh er Sie mir nur für den heutigen
+Ball im Europa-Hotel … Wohltätigkeits-Fest der
+türkischen Kolonie … und so … Große Tombola …«
 
-»Das wissen: wir bereits— ich: meine: Ball … »und so …
+»Das wissen wir bereits — ich meine: Ball … und so …«
 
-Ah dachte an ’ die« Eintrittskarten.«; Der grippekranke Art
-war« ja den: ganzen, Tag« unterwegs gewesen. »Haben Sie
-Omar-Bein« mitgeteilt…saß Sie sich an Harst wenden wollen?«
+Ich dachte an die Eintrittskarten. Der grippekranke Harst
+war ja den ganzen, Tag unterwegs gewesen. »Haben Sie
+Omar-Bey mitgeteilt, daß Sie sich an Harst wenden wollen?«
 
-»Gewiß. Er. war … einverstanden. Die Polizei muß auf
-jeden … Fall, ’äusgeschaltet« »bleiben: «. Sie Sprach plötzlich Sehr
-emsig! sich: «&ch-:kenne. Omar-Boy erst zwei Wochen. Er
-kam: direkt: »dein- Konstantinopel« mach’ »hat. hier sofort. Unterhandlungen
-»mit! einem … bekannten.:Juwelenhändler eingeleitet.
-Sie begreifen; ’Herr: Schraut::Der arme Selim Omar ist verloren,
-falls. he Freund die« »Schmucksachen nicht …
-das Telephon … Es wird Omar Sein … Einen Augenblick …
+»Gewiß. Er war einverstanden. Die Polizei muß auf
+jeden Fall, ausgeschaltet bleiben.« Sie Sprach plötzlich Sehr
+energisch: »Ich kenne Omar-Bey erst zwei Wochen. Er
+kam direkt von Konstantinopel und hat hier sofort Unterhandlungen
+mit einem bekannten Juwelenhändler eingeleitet.
+Sie begreifen, Herr Schraut: Der arme Selim Omar ist verloren,
+falls Ihr Freund die Schmucksachen nicht … — ach,
+das Telephon … Es wird Omar Sein … Einen Augenblick …«
 
-Der. Apparat stand. auf dem »Nachttischchen.
+Der Apparat stand auf dem Nachttischchen.
 
-»Ich, —, Sie, Herr. Harst … Noch immer so heiser?!
-34, Ihr- »Freund- ist bei ’mir. —« Wie bitte? Gut, ich werde
-es. ihm bestellen … 2 Also« Gassowitz, Hallesche Straße 23,
+»Ach, — — Sie, Herr Harst … Noch immer so heiser?!
+Ja, Ihr Freund ist bei mir. — Wie bitte? Gut, ich werde
+es ihm bestellen … Also Jassowitz, Hallesche Straße 23,
+Jasso … witz, … Hallesche Straße 23. — Gute Besserung …
+Sehr liebenswürdig … Wiedersehen …« — Sie kam langsam
+zum Diwan zurück. In ihrem pikanten Gesichtchen bemerkte
+ich einen Sehr nachdenklichen Zug.
 
-Lasse … Miß;- .:, Hallesche Straße. 23. — Gute Besserung …
-Sehr: liebenswürdig.:; Wiedersehen …« — Sie kam langsam
-zum. Sinai zurück. In: ihrem. pikanten Gesichtchen bemerkte
-ich einen Sehr- nachdenklich« Z’«-
+»Herr Schraut … Ihr Freund läßt Ihnen sagen, der alte
+Jassowitz, Hallesche Straße 23, sei zweifellos jener diskrete
+und gut zahlende Hehler, der das bewußte Brillantdiadem gekauft
+hat. Sie sollen die Sache jedoch vorläufig auf sich
+beruhen lassen und erst morgen die nötigen Schritte tun.«
 
-»Herr: Schraut … Ihr« Freund läßt Ihnen sagen, der alte
-Sassowitz, Hallesche. Straße. 23; »sei: zweifellos jener diskrete
-und gut zahlende. Hehler; »der. das. bewußte Brillantdiadem gekauft.
-hat … Sie. Jollen:die Sache jedoch vorläufig auf sich
-darüber: lassen: und« erst morgen: die- nötigen Schritte tun.«
-
-Gassowitz?!- »Vertraue kam. mir. irgendwie bekannt vor.
-Von einem. « Brillantdiadem. wußte ich nichts. — Weshalb
-dieser Anruf« und dieser Schwindel, fragte ich mich. Hing das
-irgendwie mit den. Juwelen: des Cürken’ zusammen?!
+Jassowitz?! Der Name kam mir irgendwie bekannt vor.
+Von einem Brillantdiadem wußte ich nichts. — Weshalb
+dieser Anruf und dieser Schwindel, fragte ich mich. Hing das
+irgendwie mit den Juwelen des Türken zusammen?!
 
 <@pagebreak/>
 Die Antwort erteilte mir Tussy selbst.
 
-»—. Herr Harst bat mich, den Namen Gassowitz recht
+»… Herr Harst bat mich, den Namen Jassowitz recht
 schnell zu vergessen … Werde ich tun, Herr Schraut, auch
 die Adresse, Hallesche Straße 23. Was ich vergessen will,
 vergesse ich sofort.« Sie sprach das in einer so merkwürdigen
@@ -639,7 +635,7 @@ Art vor sich hin, daß ich den bestimmten Eindruck gewann,
 daß sie sich alle Mühe gäbe, Namen und Adresse ihrem Gedächtnis
 recht fest einzuprägen.
 
-Ich dachte mir mein Teil dabei. — Was ich noch in Rest
+Ich dachte mir mein Teil dabei. — Was ich noch in Tussy
 Gambys’ Villa zur Aufklärung des Diebstahls unternahm,
 hatte keinerlei Ergebnis. Gegen zwei Uhr nachmittags war
 ich wieder daheim. Nach der etwas schwülen Luft in der kleinen
@@ -652,62 +648,62 @@ hatten. Bis sieben Uhr geschah nichts von Bedeutung.
 Dann erst fand die rötliche Bartwolle ihre Verwendung,
 und zwei Ganoven fuhren mit zwei Rollen Seide zum Halleschen
 Tor, wo weiterhin in nächster Nähe die Dinge sich abspielten,
-die im meiner Bekanntjschaft mit Tussy hier vorausgeschickt
+die ich meiner Bekanntschaft mit Tussy hier vorausgeschickt
 habe.
 
 »Er zieht aus …!«, wiederholte Harst sehr gedehnt des
-Herrn Gassowitz letzten Satz. »Wenn das nur stimmt … Und
+Herrn Jassowitz letzten Satz. »Wenn das nur stimmt … Und
 wenn es stimmt, müßte man für Ersatz sorgen … — Lieber
-Matz, würden Sie einen etwas kitzlichen Auftrag übernehmen«
+Matz, würden Sie einen etwas kitzlichen Auftrag übernehmen?«
 
-Der Argus-Matz legte die Hand aus Herz.
+Der Argus-Matz legte die Hand aufs Herz.
 
-»Für die — — immer!«
+»Für Sie — — immer!«
 
 »Gesetzt aber den Fall, die Sache wäre gefährlich?!«
 
-»Dann erst recht. öGnstruieren Sie mich genau, und Sie
-Erden zufrieden Sein.«
+»Dann erst recht. Instruieren Sie mich genau, und Sie
+werden zufrieden Sein.«
 
-Harst überlegte. »Sie müssen Sassowitz mimen … Ich
-werde Ihre Maske sofort vernichten. Sobald Sie merken,
-daß Blickte für den Keller kein Interesse mehr zeigt, läuten Sie
+Harst überlegte. »Sie müssen Jassowitz mimen … Ich
+werde Ihre Maske sofort herrichten. Sobald Sie merken,
+daß Lücke für den Keller kein Interesse mehr zeigt, läuten Sie
 <@pagebreak/>
-dort …« — Was noch folgte, war bis uns Einzelne klar
+dort …« — Was noch folgte, war bis ins Einzelne klar
 durchdacht,
 
-Um neun Uhr fuhr »Herr Gassowitz« von dannen. Um
+Um neun Uhr fuhr »Herr Jassowitz« von dannen. Um
 halb zehn begaben wir uns zum Europa-Hotel. Wenn ich
-jage »wir«, so stimmt das nicht ganz. Wir glichen mehr nordafrikanischen
+sage »wir«, so stimmt das nicht ganz. Wir glichen mehr nordafrikanischen
 Kavalieren. Unsere Bärte und Perücken und
 Hautfarbe vertrugen jede Prüfung, nur Spiritus hätten sie
-nicht vertragen. Unsere Orden waren »geradezu pompös, meine
+nicht vertragen. Unsere Orden waren geradezu pompös, meine
 neue weiße Weste saß wie angegossen, die Lackschuhe drückten
 nicht, und der kleine Tisch, den wir noch glücklich in einer
 der großen Logen des Festsaales erwischten, trug als schönsten
 Schmuck sehr bald auf silberner Platte vierzig englische Austern,
-was mich« so ziemlich mit dem an sich oder Trubel aussöhnte.
-da den Mittellogen saß so sichtlich alles, was Berlin an
-»Großen« auszuweisen hat. Es war die übliche Schaustellung
+was mich so ziemlich mit dem an sich öden Trubel aussöhnte.
+In den Mittellogen saß so ziemlich alles, was Berlin an
+»Größen« aufzuweisen hat. Es war die übliche Schaustellung
 menschlicher Eitelkeit und weiblicher Unangezogenheit mit
-Nigger-Musik. &eiste Herren im Frack und in allen Farbenschattierungen
-gaben der Wobhlhtätigkeit die internationale
-Rote. Die Austern waren erstklassig, der Sekt gut komponiert,
-Harst bei Laune, ich bei Appetit, — — es wär’!o
-Schon gewesen, wenn nicht urplötzlich ein äußerst feudaler
+Nigger-Musik. Feiste Herren im Frack und in allen Farbenschattierungen
+gaben der Wohltätigkeit die internationale
+Note. Die Austern waren erstklassig, der Sekt gut temperiert,
+Harst bei Laune, ich bei Appetit, — — es wär’ so
+Schön gewesen, wenn nicht urplötzlich ein äußerst feudaler
 blonder Gentlemen mit Einglas aufgetaucht wäre: Doktor
 Hans Lücke, einer der Allerbesten vom Roten Alex.
 
-Er setzte sich ohne Gruß, jagte leise: »So, nun bitte
-ich mir aus, daß oho beide Sofort Farbe bekennt!«
+Er setzte sich ohne Gruß, sagte leise: »So, nun bitte
+ich mir aus, daß Ihr beide Sofort Farbe bekennt!«
 
 Der zweite Tisch in unserer Loge gehörte einer äußerst
-stehen Gesellschaft, alles Theaterleute, die offenbar schon einen
+fidelen Gesellschaft, alles Theaterleute, die offenbar schon einen
 Frühschoppen und Dämmerschoppen hinter sich hatten. Lückes
-nächster Saß wurde von einem überlaute! Ausbruch von
+nächster Satz wurde von einem überlauten Ausbruch von
 Fröhlichkeit nebenan übertönt.
 
-»Hallo — — die West …!! Hallo — — hierher …!«
+»Hallo — — die Tussy …!! Hallo — — hierher …!«
 
 Es war Tussy Gambys.
 
@@ -716,69 +712,67 @@ leuchteten die Brillanten, die sie im Haar, am Halse, vor der
 Brust und an den Armen trug.
 
 <@pagebreak/>
-Kurzes Skfimme:wurde. schärfer.«
+Lückes Stimme wurde schärfer.
 
-Omar-Bey wurde acht Uhr »süüfundoierjig in Gassowitz«
-»Keller erschossen: aufgefunden. Geh. »dritte, das … genügt
-wohl, Euch die Zungen zu losen«.
+»… Omar-Bey wurde acht Uhr fünfundvierzig in Jassowitz’
+Keller erschossen aufgefunden. Ich denke, das genügt
+wohl, Euch die Zungen zu lösen«.
 
-Ich legte die Auster—hin…:es« vt; die’ grausigste;: und…90ß
-schnell ein volles Glas Sekt hinab …
+Ich legte die Auster hin, es war die zwanzigste, und goß
+schnell ein volles Glas Sekt hinab.
 
-Gassowitz, ist verschwunden :… Oder: voller, ’es ’gab
-keinen Gassowitz« mehr: … Der. »alte: Knabe« ist: bereits:.im
-Anzutun Karlsbad’ während. eines. Kurausonfhalts. ’verstorben
-und dort beerdigt worden. Irgend« gewandter: diesen Todesfall
-bisher zu verheimlichen gewußt und den beiden Gassowitz« ’ge&-
-spielt. Nur ein Zufall brachte. dies ans« »Tageslicht::. »Und.
-Omar-Bey war auch nicht Omar-Bey, Sondern« ein- Verbrecher.
-Der echte Omar, der übrigens für;:Berlin. Mine »Neuerscheinung
-gewesen Ware, dürfte Fleichfalls ermordet. wbrdenJein, wahr
-Beharrlich im Orient-Expreß, Der in: — Gassowitz«: Keller So-.
-Inders ist der rumänische Hochstapler. Avalescus «
+»… Jassowitz ist verschwunden … Oder besser, es gab
+keinen Jassowitz mehr … Der alte Knabe ist bereits im
+August in Karlsbad während eines Kuraufenthalts verstorben
+und dort beerdigt worden. Irgend jemand hat diesen Todesfall
+bisher zu verheimlichen gewußt und den zweiten Jassowitz gespielt.
+Nur ein Zufall brachte dies ans Tageslicht. Und
+Omar-Bey war auch nicht Omar-Bey, Sondern ein Verbrecher.
+Der echte Omar, der übrigens für Berlin eine Neuerscheinung
+gewesen Wäre, dürfte gleichfalls ermordet worden sein, wahrscheinlich
+im Orient-Expreß. Der in Jassowitz’ Keller Gefundene
+ist der rumänische Hochstapler Avalescu.«
 
-Harst »strich Ich leicht. über die- Stirn; « »Gas: ist. schmal- viel.
-auf einmal«, jagte er bedrückt. «&hr von Alex arbeitet einmal
-mit zuverlässig. — Wußten Sie etwas von … dem Juwelendiebstahl
+Harst strich sich leicht über die Stirn. »Es ist etwas viel
+auf einmal«, sagte er bedrückt. »Ihr vom Alex arbeitet schnell
+und zuverlässig. — Wußten Sie etwas von dem Juwelendiebstahl
 bei der Gambys?«
 
-»Alles«, erwiderte Lücke — ’gereizt: »Die: Hofe hat 92 —
-plaudert, auf Umwegen erfuhren wir- es im!.«Präsidium, aber
-wir standen der Sache sehr skeptisch gegenüber. «—.« Dort
-sitzt die schöne Tussy, und alles, was sie da an« Schmuck zur
-Schau trat, ist türkisches Staatseigentum.«
+»Alles«, erwiderte Lücke — gereizt: »Die Zofe hat geplaudert,
+auf Umwegen erfuhren wir es im Präsidium, aber
+wir standen der Sache sehr skeptisch gegenüber. — Dort
+sitzt die schöne Tussy, und alles, was sie da an Schmuck zur
+Schau trägt, ist türkisches Staatseigentum.«
 
-Harst blickte hin …
+Harst blickte hin.
 
-»Oder Grunztönen …, meinte er ’geistesabwe Hand, »Der
-Fall liegt so weit klar, nur:
+»Oder Imitationen …«, meinte er geistesabwesend. »Der
+Fall liegt so weit klar, nur …«
 
-Lücke fixierte ihn scharf. « »Nur … »218
+Lücke fixierte ihn scharf. »Nur …?!«
 
-» Wer ermordete Avalescu?!«- Harst: hob die Schultern.
-»Wer?! Der unechte Gassowitz steuerst«
+»Wer ermordete Avalescu?!« Harst hob die Schultern.
+»Wer?! Der unechte Jassowitz niemals!«
 
-»So?!« Hans Glocke zerkrümelte seine ’Sigarette.«. -»Wer
+»So?!« Hans Lücke zerkrümelte seine Zigarette. »Wer
 denn Sonst??!«
 
-Harst neigte sich vor, »Lücke, in- dem. -Produktenkeller
+Harst neigte sich vor. »Lücke, in dem Produktenkeller
 <@pagebreak/>
-dort hausten die Permallons. Einer der Drillinge war »Gassowitz«.
-« Grauen Sie den Permallons einen Mord zu?! — Ich
+dort hausten die Permallons. Einer der Drillinge war »Jassowitz«.
+Trauen Sie den Permallons einen Mord zu?! — Ich
 nicht!«
 
 Der patente Hans nahm sein Monokel aus dem Auge.
-»Donnerwetter, — — die Permallons’! Jetzt ist die Geschichte
+»Donnerwetter, — — die Permallons!! Jetzt ist die Geschichte
 vollständig Schleierhaft.«
 
-»beiden — Jetzt hören Sie einmal genau zu … Er erzählte
-kurz und. übersichtlich, nichts ließ er weg. — Und zum
-
-Schluß:.«Asche werde Tussy zum Tanz bitten … Haben Sie ein
+»Leider — Jetzt hören Sie einmal genau zu …« Er erzählte
+kurz und übersichtlich, nichts ließ er weg. — Und zum
+Schluß: »Ich werde Tussy zum Tanz bitten … Haben Sie ein
 Auto draußen?« —
 
 Eine fahle, zitternde Tussy bestieg mit uns den Wagen.
-
 Gegen elf Uhr hielten wir vor dem Produktenkeller.
 
 <@pagebreak/>
@@ -792,10 +786,10 @@ Der Mord im Produktenkeller!! — Das
 Opfer—der Hochstapler Georg Avalescu.
 
 Im Keller des Hauses Hallesche Straße 23, hauste seit
-Jahren der Händler Paul Markus Gassowitz, der allgemein
-als Hehler galt. Wahrscheinlich hat man Gassowitz zu unrecht
+Jahren der Händler Paul Markus Jassowitz, der allgemein
+als Hehler galt. Wahrscheinlich hat man Jassowitz zu unrecht
 verdächtigt, jedenfalls konnte ihm nie eine erregbare Handlung
-nachgewiesen werden. &in August dieses Jahres begab
+nachgewiesen werden. Im August dieses Jahres begab
 sich 3. zur Kur nach Karlsbad und verstarb dort ganz plötzlich.
 Sein Begleiter, angeblich sein Reise, ließ ihn in aller
 Stille beerdigen, verheimlichte den Todesfall den deutschen
@@ -821,8 +815,8 @@ in der Nacht, C … G. wandte sich an den bekannten
 Liebhaberdetektiv H., der sofort vermutete, daß zwischen C.
 und dem angeblichen Omar-Bey eine ganz bestimmte. Verabredung
 vorläge und der Diebstahl nur vorgetäuscht sei. — H.
-verstand es, C. G. den alten Gassowitz als diskreten Hehler
-zu empfehlen, und &. G. hat auch bereits zugegeben, daß
+verstand es, C. G. den alten Jassowitz als diskreten Hehler
+zu empfehlen, und F. G. hat auch bereits zugegeben, daß
 Omar-Avalescu, den sie für eine einwandfreie Persönlichkeit
 hielt, ihr mitgeteilt habe, er hätte beträchtliche Spielschulden
 und müsse einen Teil der Zu selten für kurze Zeit gegen ein
@@ -877,7 +871,7 @@ nicht Sofort nach London oder Amsterdam, wo er bestimmt
 Ort »heller kannte, die ihm die »Ware« sofort abgenommen
 h« ten?! Weshalb blieb er über zwei Wochen in Berlin und
 vierte geradezu mit der Gefahr, entlarvt zu werden?! Weshalb
-unterhielt er Beziehungen zu &. So., die offenbar nie
+unterhielt er Beziehungen zu F. So., die offenbar nie
 über die Grenze eines rein freundschaftlichen Verhältnisses
 hinausgegangen sind?! Und Schließlich, weshalb ließ er von
 einem Teil der Juwelen Imitationen anfertigen?! — — Die
@@ -895,7 +889,7 @@ deshalb in den Kanal geworfen wurden, um die Kriminalpolizei,
 die die Permallons in der Nähe wußten, durch das Herausfischen
 der Pakete hinzuhalten und um Zeit zu nicht überhasteten
 Flur? zu gewinnen. — Und — wer war der »Neffe«,
-der den alten 3. in Karlsbad beerdigen ließ?! d&. besaß
+der den alten 3. in Karlsbad beerdigen ließ?! Dr. besaß
 k. weiter Verwandte mehr. Also … Rätsel über Rätsel,
 alles in allem ein Kriminalfall, der noch manche Überraschungen
 bieten dürfte.«
@@ -904,14 +898,14 @@ bieten dürfte.«
 hatte. »Mancherlei Überraschungen, — das stimmt
 schon, mein Alter … Was würden die Leser Jagen, wenn
 sie wüßten, daß ich die Absicht hatte, den Herrn Omar-Avalescu
-bei Gassowitz abzufassen … langes würden sie dazu
-sagen, daß unter ritt Matz, also Gassowitz Nr. 3, seit gestern
+bei Jassowitz abzufassen … langes würden sie dazu
+sagen, daß unter ritt Matz, also Jassowitz Nr. 3, seit gestern
 abend gleichfalls überfällig ist?! Wo steckt Maß?!«
 
 Ich fand Harsts gute Laune zur Zeit sehr unpassend.
 
 »Hoffentlich ist ihm nichts zugestoßen«, meinte ich ernst
-und blieb am &Senster stehen. Draußen schien die Sonne, die
+und blieb am Fenster stehen. Draußen schien die Sonne, die
 Spaßen lärmten im Weinspalier, und der September verabschiedete
 sich mich? sommerlicher Wärme.
 
@@ -960,7 +954,7 @@ Kunstpause — »aber das eine Hörer- und Schutzgitter des
 Schlafstubenfensters war, wie ich gestern mittag sehr wohl vermerkte,
 frisch eingekittet. Die Gambys mag den Chauffeur
 deshalb in die Diele befohlen haben, um ihm nicht etwa im
-Garten zu begegnen, als sie heimlich durch das &enster stieg
+Garten zu begegnen, als sie heimlich durch das Fenster stieg
 und davonschlich. Sie war bestimmt in dem Keller.«
 
 Harst blickte mich erwartungsvoll an. »Beweis?«, fragte
@@ -972,7 +966,7 @@ Harald, und ich steckte es ein und hatte ein Recht dazu. Ich
 vermißte es nach dem Besuch bei Tussy … Es wird mir aus
 v:« Tasche geglitten sein, nachdem ich mir die Zigarette an
 <@pagebreak/>
-gezündet hatte … — mein Feuerzeugs Wie kam es in Gassowitz’
+gezündet hatte … — mein Feuerzeugs Wie kam es in Jassowitz’
 Keller 71«
 
 Das!schmale, goldene Feuerzeug mit dem Sprungdetkel
@@ -989,16 +983,16 @@ hob es auf.«
 war bisher eine andere. Brettern« halte ich trotzdem
 daran fest. Assistent Seidler, der den Kellereingang von acht
 Uhr fünfzehn Minuten andauernd beobachtete, hat bestimmt
-erklärt, es’ ei von diesem &SGeitpunkt an bis zum Eindringen
-der Polizei nur eine ältere einfache Frau bei »Gassowitz« gewesen
+erklärt, es’ ei von diesem FSGeitpunkt an bis zum Eindringen
+der Polizei nur eine ältere einfache Frau bei »Jassowitz« gewesen
 und schon nach wenigen Minuten wieder herausgekommen.
-Sassowitz, der unechte, habe ihr geöffnet und sie auch
+Jassowitz, der unechte, habe ihr geöffnet und sie auch
 hinausgelassen. Das sei etwa um halb neun gewesen. Ich
 glaube jetzt selbst, daß Tussy Gambys dieses verhutzelte Weiblein
 war, die Seidler als bedeutungslos passieren ließ. — Ein
 äußerst komplizierter Fall, nur … Guten Gambys wird doch
-ich! in »Gassowitz’« Gegenwart den Hochstapler niedergeknallt
-haben?! Überlege dir das! Bedenke. »Gassowitz« war einer
+ich! in »Jassowitz’« Gegenwart den Hochstapler niedergeknallt
+haben?! Überlege dir das! Bedenke. »Jassowitz« war einer
 der Permallons, und die Drillinge und ihr Schwesterlein Edith
 haben noch nie Gewalt angewandt und würden es nie dulden,
 daß in ihrer Gegenwart jemand eine Waffe auf einen dritten
@@ -1011,7 +1005,7 @@ Ich sehe meine Auffassung erschüttert, mein Alter. Vorläufig
 »werde ich also dies hier wegschließen, « Er hob das Papier
 »was in die Hohe. »Weißt du, was sich darin befindet? Ein
 Stück eines abgesprungenen, abgebrannten Wachszündholzavpses,
-das an Avpalescus &Srackaufschlag haftete. Daß es
+das an Avpalescus Frackaufschlag haftete. Daß es
 <@pagebreak/>
 zu dem auf dem Tische liegenden Zündholzrest gehörte, steht
 für mich fest, ebenso, daß Knarren selbst das Papier verbrannte,
@@ -1100,7 +1094,7 @@ zu verbrennen.«
 Nun kam mein Fund an die Reihe. Harst berichtete, wo
 ich mein Feuerzeug verloren hatte und wo ich dann wieder in
 dessen Besitz gelangte. »Mithin war Tussy Gambys in dem
-Keller, Exzellenz. »Als »Gassowitz« sie einließ, lebte Avalescu
+Keller, Exzellenz. »Als »Jassowitz« sie einließ, lebte Avalescu
 noch«. »Maisonne« wird sie im Vorraum abgefertigt habe.
 Möglich, daß er ihr erklärte, Avalescu sei bereits wieder gegangen.
 Die Gambys glaubte ihm nicht, stieß ihn beiseite,
@@ -1149,7 +1143,7 @@ Avalescu war ein Lump. Ertrank, weil er wußte, daß sein
 Selig Permallon.«
 
 Harst warf sich in seinen Sessel. »Weiß Gott, mein Alter.
-die Leute leisten etwas! &Ich fürchte nur, der Krippen-Herein
+die Leute leisten etwas! Ich fürchte nur, der Krippen-Herein
 wird die Hunderttausend niemals sehen.«
 
 Was mich betrifft, so jagte ich gar nichts. Ach hielt das
@@ -1189,7 +1183,7 @@ da das ganze Schmarotzergesindel gründlich ausgekehrt
 
 alt.
 
-Auf Mustafas &rage, was Permallon hier bei uns mit
+Auf Mustafas Frage, was Permallon hier bei uns mit
 seinem He« Ligeuuicy bezweckt habe, erwiderte Harst sehr
 harmlos, Permallon-Selig wollte uns nur darüber aushorchen,
 ob wir etwa ahnten, wo die Drillinge nebst Schwester sich jetzt
@@ -1200,7 +1194,7 @@ verborgen hielten.
 achselzuckend. — Wobei Permallons sonstige Fragen und
 über den »Scheck« sprach er nicht. Das hätte mir auffallen
 müssen. Ich glaubte, er wollte unseren Reinfall möglichst kurz
-abtun. Vielleicht gelangen meine lieben Leser und &reunde zu
+abtun. Vielleicht gelangen meine lieben Leser und Freunde zu
 einer anderen Auffassung, vielleicht findet einer oder der andere
 jene »Hauptsache«, die uns nach 8. Permallons Taschentuchgruß
 entgangen war.
@@ -1231,7 +1225,7 @@ Ausdrücke, die Harst geradezu haßt.
 
 Wie sehr Mustafa Diplomat war, zeigte seine vorsichtige
 Gegenäußerung. »Retten Endes vertreten Sie doch zwei
-Theorien, Herr Harst, denn die Anwesenheit des &räulein
+Theorien, Herr Harst, denn die Anwesenheit des Fräulein
 Gambys im Keller hat die Annahme eines Selbstmordes immerhin
 auch bei Ihnen stark erschüttert. Doch das sind Dinge,
 die uns nicht mehr anfechten sollen. Nur noch eins: »Wo
@@ -1300,7 +1294,7 @@ war ja mehr als fadenscheinig gewesen.
 
 Es würde mich freuen, wenn meine Loser diesen einsam
 Teil des »Falles Tussy Gambys« recht sorgfältig studieren
-wollten. &Sür Leute, die sich gern mit Denksportaufgaben beschäftigen,
+wollten. Für Leute, die sich gern mit Denksportaufgaben beschäftigen,
 bietet das Vorstehende übergenug Anregung. Ich
 selbst war in diesem Stadium der Dinge von der richtigen Lösung
 etwa genau so weit entfernt wie die Erde vom Mond.
@@ -1317,16 +1311,16 @@ allerlei Kniffe.
 
 Im Laubengelände haben wir zahlreiche Freunde. Viele
 von ihnen sind Originale, und zu diesen gehört auch der alte
-Ferdinand Gallaw, Kriminalwachtmeister a. D., ehemals &eld-
-wobei bei der Garde, ein Mann von erstaunlicher Frische für
+Ferdinand Gallaw, Kriminalwachtmeister a. D., ehemals Feldwebel
+bei der Garde, ein Mann von erstaunlicher Frische für
 seine siebzig Jahre. Nachdem Gallaw entdeckt hatte. daß sein
 <@pagebreak/>
 ehrlicher Name von »hinten« an den großen Heisenschinder
-Wallace erinnert, wurde er vom Hochmutsteusei geplagt und
+Wallace erinnert, wurde er vom Hochmutsteufel geplagt und
 hatte den Flur seines Häuschens mit Bildumschlägen der englischen
 Wallace-Serie tapeziert.
 
-&reund Gallaw grub gerade festen Kuhdung unter ein
+Freund Gallaw grub gerade festen Kuhdung unter ein
 neues Erdbeerbeet. Der hagere Wachtmeister a. D. mit dem
 faltigen Co« ckrakterkopf winkte uns eifrig zu. »Bitte, der
 Pflaumenschnaps ist großauu. u. ihre Herren. So viel Pflaumen
@@ -1385,11 +1379,11 @@ den Fall Tussy Gambys ruhen zu lassen.«
 Als das Papier im Kamin in Flammen aufging, läutete
 es abermals.
 
-Der alte echte Gassowitz Gefäß doch noch eine Verwandte.
+Der alte echte Jassowitz Gefäß doch noch eine Verwandte.
 Und diese Klientin war »ins der Hintertüren, die Harst sich
 »residiert hatte.
 
-Miß Evelyn &Gaßwell war vor einer Stunde im &lugzeug
+Miß Evelyn Jaßwell war vor einer Stunde im Flugzeug
 in Berlin angelangt …
 
 Mit ihr beginne ich den zweiten Teil.
@@ -1401,7 +1395,7 @@ Der Weibstiger.
 <h2>1. Kapitel.</h2>
 <h3>Evelyn aus London.</h3>
 
-Aus Evelyn Gassowitz war in England eine Evelyn Gaßwell
+Aus Evelyn Jassowitz war in England eine Evelyn Gaßwell
 geworden. — Sie gefiel mir vom ersten Augenblick an,
 diese mondäne junge Dame, die sich uns gegenüber einwandfrei
 durch Papiere als einzige Enkelin des alten Produktenhändlers
@@ -1483,7 +1477,7 @@ nach kurzer Pause.
 
 »Nichts außer vier!« Hand Mark Bargeld in dem unmodernen
 kleinen Panzerschrank, dessen Schlüssel unter dem
-Kopfkissen des Bettes gefunden wurde, das »Sassowitz« benutzt
+Kopfkissen des Bettes gefunden wurde, das »Jassowitz« benutzt
 hatte, und das im vierten Kellerraum stand, der ihm als
 Kontor diente«, erklärte Harst der Wahrheit gemäß.
 
@@ -1553,7 +1547,7 @@ Aber Evelyn gegenüber versagte selbst dieser Angriff.
 
 »Bedauere, — — solche Nadeln bekommen Sie in Juwelierladen
 <@pagebreak/>
-zu &uochiider zu kaufen, Herr Harst … — Ach danke
+zu Augenlider zu kaufen, Herr Harst … — Ach danke
 Ihnen für die liebenswürdige Aufnahme hier … Gestatten
 Sitz, daß ich mich verabschiede …« Sie hatte sich erhoben,
 wandte sich zur Tür.
@@ -1620,7 +1614,7 @@ her. Rasiertes war so gut wie erwiesen: Avalescu hatte den
 »Tigern« angehört und hatte Evelyn Gaßwell war zu gut
 getrennt.
 
-Unten im &Slur angelangt, vernahmen wir ein leises Pochen
+Unten im Flur angelangt, vernahmen wir ein leises Pochen
 gegen die Tür.
 
 »Wer da?«, fragte Harst durch den versteckten Sehschlitz
@@ -1630,7 +1624,7 @@ Mann mit einem faltenreichen Schauspielerkopf.
 
 »Maß, Sie …?!«
 
-Es war riß Matz vom »Argus«, der den alten Gassowitz
+Es war riß Matz vom »Argus«, der den alten Jassowitz
 hatte mimen sollen.
 
 »Ja, — ich, — mehr tot als lebendig …«, sagte er mit
@@ -1638,7 +1632,7 @@ einem vieldeutigen Lächeln.
 
 <@pagebreak/>
 Unser seinem Gummimantel kam noch ein Stück seines
-Kaftans zum Vorschein, den er als Gassowitz getragen, und in
+Kaftans zum Vorschein, den er als Jassowitz getragen, und in
 seine … 00 klebten noch Setzen des falschen Bartes.
 
 »Haben Sie etwas zu essen da, Herr Harst … Mein
@@ -1669,7 +1663,7 @@ Wir fuhren zur Halleschen Straße. Diese Nacht war
 leider recht bei!, und der Schlange, der uns begegnete, blickte
 uns lange, lange nach. So daß wir weit über Ich« 23 hinaus tippeln
 mußten. Dorn kehrten wir um, schlüpften in den Kellertreppenvorbau
-und waren gleich daraus in Gassowitz? Vorraum,
+und waren gleich daraus in Jassowitz? Vorraum,
 wo er seine »Funden« empfangen hatte.
 
 Wir standen minutenlang still und hörten.
@@ -1718,7 +1712,7 @@ Tigerkopf.
 
 »Allerdings … Du glaubst, daß …«
 
-»—. Gassowitz mit zu den »Tigern« gehörte, allerdings …
+»—. Jassowitz mit zu den »Tigern« gehörte, allerdings …
 Genau wie Evelyn Jaßwell, Avalescu und die Permallons.«
 Entsprach noch leiser. »Diese vortrefflich geleitete Organisation
 flog auf … Weshalb?! Nur weil die rumänische
@@ -1734,7 +1728,7 @@ Harald?«
 »Weil nur einer der Permallons mit Jassowitz in Karlsbad
 gewesen sein kann — als Neffe … Es bestanden Zweifel
 
-los intimste Beziehungen zwischen Gassowitz und center schwer
+los intimste Beziehungen zwischen Jassowitz und center schwer
 auseinander zu haltenden Brüdern, freundschaftliche Beziehungen,
 gefestigt durch ein Gefühl, das neben Liebe und Hunger
 den stärksten Trieb darstellt: tödlicher Haß gegen Avalescu,
@@ -1775,7 +1769,7 @@ Das war die Geheimschrift.
 »Was soll das?!« fragte ich neugierig.
 
 »Warte ab … — Ich betone nochmals, wir schalten
-das gänzlich aus, was &riß Maß uns erzählt hat. Wir haben
+das gänzlich aus, was Fritz Maß uns erzählt hat. Wir haben
 Mustafa Nadir, Exzellenz in tausend Nöten, fest versprochen,
 den Fall Tussy ruhen zu lassen. Auch ohne Maß hätte ich
 den Sinn dieser Gahnschrift herausgefunden.«
@@ -1786,7 +1780,7 @@ Es war wieder ein Geräusch gewesen, das meinen Argwohn
 geweckt hatte.
 
 »Laß doch die Ratten …!« Harald hob den zerschlissenen
-Cürvohang und betrat den Hauptraum. Er schaltete das
+Türvorhang und betrat den Hauptraum. Er schaltete das
 Licht ein, vier Lampen glühten auf, und die Trostlosigkeit des
 hier aufgestapelten Gerümpels und die muffige Luft jagten
 mir ein Frösteln über die Haut. Die Leiche Avalescus war
@@ -1860,7 +1854,7 @@ Da der Tisch noch vor dem Vorhang stand, krochen wir unter
 dem Tisch hindurch und klemmten uns dann zwischen die alten,
 aufgereihten Kleidungs!tücke. Einzelne Mäntel reichten bis
 <@pagebreak/>
-zum &Sußboden, und es war nicht schwer, sich einen Solchen
+zum Fußboden, und es war nicht schwer, sich einen Solchen
 Mantel als Schutz umzulegen.
 
 öMch stand ganz still …
@@ -1910,7 +1904,7 @@ weitem Kopf eine Hand … Diese Hand hielt eine Pistole.
 
 <@pagebreak/>
 Lady meinem grenzenlosen Erstaunen sah ich ein Gesicht in
-den &Salten des nächsten Mantels, ein totenblasses Gesicht …
+den Falten des nächsten Mantels, ein totenblasses Gesicht …
 
 Tussy Gambys’ Gesicht!!
 
@@ -2024,8 +2018,8 @@ Wässerchen gewaschen.
 Also, — bitte zuzulangen … Ach hoffe, der Honig
 wird auch die Kehlen der Damen für Koloraturpartien vorbereiten.
 Koloratursängerinnen klettern auf und ab — mit
-der Stimme … Sie, &Sraulein Gambys, klettern zum Sanatoriumfenster
-Hinaus, und waren seitdem abgänqig, wie wir
+der Stimme … Sie, Fräulein Gambys, klettern zum Sanatoriumfenster
+Hinaus, und waren seitdem abgängig, wie wir
 amtlich jagen. Trinken Sie … So, sehr brav … Im Klettern
 entwickeln Sie überhaupt einiges Geschick. Das eine Fenstergitter
 war nur mit Litt befestigt, Fräulein Bambus. Radio leid
@@ -2078,7 +2072,7 @@ Er probierte die Zigarette, hüstelte, und warf sie in den
 Aschbecher.
 
 »Angezogen durch Permallons Nießpulver!«, meinte er.
-»Lücke helfen Sie mir aus, obwohl &öhre Sorte mir nicht
+»Lücke helfen Sie mir aus, obwohl Ihre Sorte mir nicht
 schmeckt.«
 
 Lücke zuckte die Achseln. »Bitte …«
@@ -2089,7 +2083,7 @@ Briefmarken geflickt hatte. Die weißen Streifen auf dem
 <@pagebreak/>
 Deckblatt sahen wie diverse Leibbinden aus. Auch er setzte
 dieses Ding in Brand und zwinkerte mit den Augen. Seidler
-»ins &Oigarre war ein halber Seidler. Es gibt wirklich noch
+»ins Zigarre war ein halber Seidler. Es gibt wirklich noch
 Originale in dieser miesen Welt.
 
 Tücke überfiel Tussy mit der jähen Behauptung:
@@ -2107,7 +2101,7 @@ Sie senkte das Menschen und schwieg sich aus.
 Seidler schrieb im Wettbewerbstempo. Seine Zigarre
 wippte auf und ab.
 
-»Also die &Srage wäre erledigt …«, meinte Lücke bedeutend
+»Also die Frage wäre erledigt …«, meinte Lücke bedeutend
 sachlicher. »Ehre Mutter hieß Avalescu, und diesen
 an sich nicht seltenen Namen übernahmen Ihr Bruder und
 Sie, bis …«
@@ -2130,7 +2124,7 @@ Greisin Ahnen biß von wütend in die Unterlippe. Aber
 es war zu spät. Div Bette im übrigen auch sehr schöne echte
 Sohne, und die Unto’lippe hatte keinerlei Schaden genommen.
 
-Der patente Hans bedachte &reund Harald mit einem
+Der patente Hans bedachte Freund Harald mit einem
 zufriedenen Schmunzeln. »Harst. Sie haben doch von den
 »Tigern« gehört?«, fragte er so nebenbei.
 
@@ -2180,7 +2174,7 @@ noch jene blonde, süße Edith, die …«
 Edith, — gut Edith …«
 
 »Edith Permallon«, ergänzte Lücke. »Seidler, ohne sein
-Falle stinkt wie ein &idibus …«
+Falle stinkt wie ein Fidibus …«
 
 Harst hatte sich erhoben. Sein Gesicht, so weit es unter
 <@pagebreak/>
@@ -2217,7 +2211,7 @@ bereit … Auf Wiedersehen …«
 
 Adjutant Seidler nahm einen neuen Bogen Papier. Harst
 nickte ihm zu. »Rauchen Sie Ihre gestreifte Nudel lieber
-in Gassowitz’ Keller weiter … — Lieber Lücke, verlegen wir
+in Jassowitz’ Keller weiter … — Lieber Lücke, verlegen wir
 das Anmtslckal nach r, h1, r, 1, 0.«
 
 »Wie heißt die Kaschemme?«, fragte Lücke sehr gedehnt.
@@ -2234,7 +2228,7 @@ nun nicht genug Kombinationstalent zutraute, kam ich zu Ahnen,
 »die brechen auch ein, und vor Ihnen waren wir zur
 Stelle, noch früher aber Maria Avalescu, die Schwester des
 Mörders Omar-Bey.« Bereitfand neben Tussy-Maria.
-Legte ihr die Hand leicht auf die Schulter. »Mein &räulein,
+Legte ihr die Hand leicht auf die Schulter. »Mein Fräulein,
 der Saal! Tussy Gambys hat auch mit einer Art Wasserfall
 etwas zu tun … Wer stieß Sie in den Kanal? Wer rechnete
 damit, daß Sie in der überfluteten Schleuse ertrinken würden?!«
@@ -2298,7 +2292,7 @@ Der alte Wachtmeister holte tief Atem.
 »Drei Herren, eine Dame«, knurrte Gallaw. »Getüncht
 die Permallons!! Sprache Gelszilschaft, Herr Doktor, aber
 angezogen — — all gezogen, ich sage Ihnen: Wie zum Dieserhalb!!
-Sie verstehen — allerfeinste Eleganz!! &rack, Zylinder,
+Sie verstehen — allerfeinste Eleganz!! Frack, Zylinder,
 Sportmäntel, und die Edith — — da kommt selbst die berühmteste
 Schauspielerin nicht mit!! Und höflich waren die vier,
 
@@ -2363,7 +2357,7 @@ heißt, Sein Geständnis, der »Tiger«, der grüne Tiger gewesen
 zu Sein. Darum ließen ihn die Permallons allein … Natürlich
 wußten sie, daß er das Papier verbrennen würde, bevor
 Öl Hand an sich legte … Aber sie hatten vorgesorgt — —
-doppelt! Draußen waren &hbre Konnte, lieber Lücke, — es gab
+doppelt! Draußen waren Ihre Konnte, lieber Lücke, — es gab
 kein Entkommen für Avalescu. Er wußte es. Er verbrannte
 das Papier … Dort liegen die Aschenreste … Aber, dieser
 mit Wachstuch überzogene alle Tisch war präpariert … An
@@ -2393,7 +2387,7 @@ gering!!« Er hatte seine Messerklinge hineingeschoben,
 und ein Quadrat des Ziegelbodens klappte nach unten, gab
 ein finsteres Loch frei, und … klappte wieder von selbst empor.
 
-Des alten Gassowitz Geheimtresor«, Jagte Harald,
+Des alten Jassowitz Geheimtresor«, Jagte Harald,
 hieß die Falltür abermals herabklappen und stemmte den ah
 dagegen. »da dem leeren Schacht hockte Fritz Matz vi
 <@pagebreak/>
@@ -2404,7 +2398,7 @@ Rückte leuchtete wortlos den gut fünf Meter diesen Schacht
 ab. An der einen Seite befand sich eine Aushöhlung.
 
 »Wissen Sie, Lücke, was dort verborgen war? — Ein
-Eisenkasten mit Gassowitz« Reichtümern. Fest sind die Permallons
+Eisenkasten mit Jassowitz« Reichtümern. Fest sind die Permallons
 mit dem Kasten über alle Berge …«
 
 »Ein Roman … ein Roman …!«, meinte der patente
@@ -2464,12 +2458,12 @@ Gold zu machen, war es mit Seiner Ehrlichkeit wieder mal
 gründlich aus. Er wollte sie für sich veräußern, zu seinem
 Vorteil. Ging sein, daß er an seiner Schwester Maria hing
 und deshalb in Berlin blieb … Jedenfalls sollte Maria zunächst
-einen Teil der Gunsten bei Gassowitz versetzen, der Maria
+einen Teil der Gunsten bei Jassowitz versetzen, der Maria
 nicht kannte. Anzusehen muß Avalescu erfahren, oder irgendwie
-ausgekundschaftet haben, daß Gassowitz nicht mehr lebte
+ausgekundschaftet haben, daß Jassowitz nicht mehr lebte
 <@pagebreak/>
-und daß ein zweiter Gassowitz den Hehler spielte. Daß dieser
-Gassowitz einer der Permallons sein könnte, ahnte Avalescu
+und daß ein zweiter Jassowitz den Hehler spielte. Daß dieser
+Jassowitz einer der Permallons sein könnte, ahnte Avalescu
 nicht. Blindlings tappte er in die Falle, die ich eigentlich für
 Maria-Tussy vorbereitet hatte. — So, und nun lesen Sie die
 eingedrückten Schriftzeichen, lieber Lücke.«
@@ -2481,7 +2475,7 @@ daß ich der Gründen und Leiter der »Tiger« gewesen bin, daß
 ich freiwillig in den Tod gehe, weil draußen die Polizei mich
 verhaften würde. Meine Schwester Maria (Tussy Gambys)
 hat nie an meinen Verbrechen teilgenommen. Wer hier den
-»Sassowitz« spielte, will ich nicht verraten. Der echte Gassowitz
+»Jassowitz« spielte, will ich nicht verraten. Der echte Jassowitz
 
 ist tot.
 Georg Abvaloescu.
@@ -2500,7 +2494,7 @@ Rückte, ist es doch wohl ein sehr amüsantes Zusammengelegtes,
 Lücke gab Harst die Hand und … sagte gar nichts. — —
 
 Als wir mit Evelyn Gaßwell Körpers ein Uhr daheim
-anlangten, fanden wir &Sriß Matz vom »Argus« bei einer
+anlangten, fanden wir Fritz Matz vom »Argus« bei einer
 Flasche Rotwein als Wächter eines soeben abgegebenen versiegelten
 Päckchens vor.
 
