@@ -1,11 +1,11 @@
 <h1>Auto 131313</h1>
 
-Unerschöpflich ist des Lebens Quelle,
+<p class="pre">Unerschöpflich ist des Lebens Quelle,
 Gleicht der heitren, wilden Brandungswelle,
 Schenkt uns immer neue Funkenregen
 Phantasie ist unerschöpfliches Bewegen!
 Nun: 300!! Vielen bisher Freude, stilles Sinnen!
-Auch das neue Hundert soll in gleicher Art beginnen!!
+Auch das neue Hundert soll in gleicher Art beginnen!!</p>
 
 <h2>1. Kapitel.</h2>
 
@@ -205,7 +205,7 @@ Manier, — vielleicht nur dann, wenn er einen seltsamen
 Fahrgast hat, wie heute … heute nacht, vor kurzem …
 Tote Fahrgäste sind immer unbequem, sie steigen weder
 von selbst ein, noch aus, und man muß sie in der Ecke
-festbinden, damit sie nicht …… die Haltung verlieren,
+festbinden, damit sie nicht … die Haltung verlieren,
 wie Sie, Herr Doktor.«
 
 Egon Schapers gelbgraue Gesichtsfarbe war an sich
@@ -213,8 +213,8 @@ schon ein Schuldbekenntnis.
 
 Harst sagte scharf: »Der Mann war also tot. Er
 starb Ihnen hier unter den Händen, nicht wahr. Und
-da taten Sie das Törigste, das Sie tun konnten … :
-Die ließen durch Brand die Leiche wegschaffen, ließen
+da taten Sie das Törigste, das Sie tun konnten …:
+Sie ließen durch Brand die Leiche wegschaffen, ließen
 sich von Brand den Kopfhieb versetzen. Einem Chauffeur,
 den sie erst kurze Zeit haben, schenken Sie sehr viel
 Vertrauen. — Unter diesen Umständen bedauere ich, mich
@@ -232,7 +232,7 @@ Verstörtheit den Faden und blickte hilflos zur Seite.
 »Ungelegenheiten bereiten?«, vollendete Harst
 mit einem zerstreuten Achselzucken. »Wenn ich es vermeiden
 kann, — ja! Doch das hängt von verschiedenem ab. Zunächst
-von …«, er ließ die Blicke umherschweifen und betrachtete
+von …«, — er ließ die Blicke umherschweifen und betrachtete
 den sehr vornehmen, reich geschnitzten Schreibtisch
 — »von Ihnen selbst, Herr Schaper.«
 
@@ -242,7 +242,7 @@ des Tennismeisters.
 »Sie sind ein gebildeter Mann, Sie sind durch
 Ihre Turnierreisen sogar mehr als über den Durchschnitt
 hinaus gebildet, sind welt- und menschenkundig. Ihre
-Intelligenz hätte unbedingt in meinen letzten Außerungen
+Intelligenz hätte unbedingt in meinen letzten Äußerungen
 geradezu handgreifliche Widersprüche entdecken müssen,
 selbst bei ihrer noch obwaltenden Benommenheit infolge
 des Kopfhiebes.«
@@ -286,10 +286,10 @@ hier wegzuwischen und das Zimmer wieder in Ordnung
 zu bringen, nachdem ich dem Verletzten die erste Hilfe
 angedeihen ließ. Sie sagten, jeder  hätte das wohl
 in meiner Lage getan, — aber das gerade dürfte das
-Unsinnige in Ihren Ausführungen sein. Ich durfte nicht’s
+Unsinnige in Ihren Ausführungen sein. Ich durfte nichts
 anrühren, nichts, ich mußte hier alles so belassen,
 wie ich es vorfand, sonst hätte ich den Verdacht auf
-mich gelenkt. Das sind Ihre Widersprüche, Herr Harst.
+mich gelenkt. *Das* sind *Ihre* Widersprüche, Herr Harst.
 — Habe ich recht?«
 
 »Vollkommen. — Und auch ich habe recht: Sie sind
@@ -312,7 +312,7 @@ rief er verärgert.
 
 — Folter?!
 
-Es handelte sich nur um Isolierband …
+… Es handelte sich nur um Isolierband …
 
 <h2>2. Kapitel.</h2>
 
@@ -328,12 +328,12 @@ benutzen, müßte man sie erst entfernen, die Bänder
 doch weit verzwickter, als ich bisher annahm.« Seine
 Stimme verriet auch ein gewisses Erstaunen.
 
-»Sie haben uns ja überhaupt nicht angerufen, Doktor«,
+»*Sie* haben uns ja überhaupt nicht angerufen, Doktor«,
 fuhr er dann kopfschüttelnd fort. »Dies ist mir nun
 klar geworden. Sie haben sich lediglich mit bewundernswerter
 Fertigkeit einer Situation angepaßt, die für Sie ganz
 neu war. Sie kamen unter unseren Händen wieder zum
-Bewußtsein, wir gaben Ihnen ahnungslos das Stichwort
+Bewußtsein, *wir* gaben Ihnen ahnungslos das Stichwort
 von Ihrem Anruf, der Ihrerseits gar nicht stattgefunden
 hat, und mithin müssen sich hier Ereignisse abgespielt
 haben, die in nichts dem entsprechen, was Sie uns erzählt
@@ -344,8 +344,8 @@ weiß es nicht. Tatsache ist nur, daß ich nicht telephonierte,
 daß ich im Auto allein gegen halb eins heimkehrte und
 hier in der Diele einen Schlag von einem schwarzbärtigen
 Manne erhielt und erst zu mir kam, als Sie beide mich
-ins Bewußtsein zurückriefen. Mein Chauffeur ist beurlaubt.
--alles weitere haben Sie beide mir durch Ihre Fragen
+ins Bewußtsein zurückriefen. Mein Chauffeur *ist* beurlaubt.
+— — alles weitere haben Sie beide mir durch Ihre Fragen
 geradezu in den Mund gelegt. Ich schmückte die Geschichte
 weiter aus und nun stehe ich vor Ihnen als phantasievoller
 Lügner da und bin im Grunde doch ein so scheußlich
@@ -433,8 +433,8 @@ oder beendet würde. Sie müsse die Verbindung jetzt
 unterbrechen und …
 
 »Verzeihung, Fräulein, rief ich schnell »Wer rief
-von hier aus an, von Zehlendorf 1918? Und wen? Es liegt
-mir außerordentlich viel daran, dies festzustellen
+von hier aus an … von Zehlendorf 1918? Und wen? Es liegt
+mir außerordentlich viel daran, dies festzustellen.
 Hier ist Schraut, Max Schraut zurzeit im der Villa
 Doktor Schapers … War es ein Herr, der anrief, oder
 wer?«
@@ -443,18 +443,18 @@ Die Dame vom Amt erwiderte nach einigem Zögern.
 »Es wurde Uhland 9786 verlangt, und der Anrufende war
 ein Herr mit sehr klarer, deutlicher Aussprache …«
 
-»Verbindlichsten Dank.« Ich hängte ab und wandte
+»Verbindlichsten Dank …« — Ich hängte ab und wandte
 mich Doktor Schaper zu.
 
 »Uhland 9786 ist unsere eigene Nummer«, erklärte
 ich leise und wie vor den Kopf geschlagen. »Verstehen
-Sie das?«
+*Sie* das?«
 
 Der elegante Tennismeister mit seinem weißen Turban
 zuckte die Achseln: »Ich?! Mein lieber Herr Schraut,
 zum Rätselraten sind Sie da, nicht ich!«
 
-Ich starrte mißmutig den Apparat an »Bei uns kann
+Ich starrte mißmutig den Apparat an. »Bei uns kann
 sich niemand gemeldet haben«, sagte ich mit aller Bestimmtheit.
 »Und trotzdem muß Harst der Mann mit der klaren deutlichen
 Aussprache gewesen sein. — Weshalb rief er an?!«
@@ -467,8 +467,8 @@ keine vier Minuten außerhalb des Hauses …«
 »Sechs mindestens«, verbesserte ich.
 
 »Nun gut. Sechs. In diesen sechs Minuten hat Ihr
-Freund die Isolierbandstreifen entfernt und …« Schapers
-Satz endete mit einer hilflosen Geste »Mir ist das
+Freund die Isolierbandstreifen entfernt und …« — Schapers
+Satz endete mit einer hilflosen Geste. »Mir ist das
 alles zu fremdes Gebiet, ich finde mich da nicht zurecht,
 ich harmloser Sterblicher stehe plötzlich im Mittelpunkt
 einer äußerst bösen Geschichte, die keinen Anfang und
@@ -515,12 +515,12 @@ mäßiger Lehrer, was ich unumwunden zugebe. Halten wir
 uns an die nackten Tatsachen. Am besten: Notieren Sie
 sich die einzelnen Punkte:
 
-1. Während Ihrer Abwesenheit betäubt jemand Ihren
+1\. Während Ihrer Abwesenheit betäubt jemand Ihren
 Hund und dringt durch das Schlafstubenfenster in die
 Villa ein. — Sie haben bereits festgestellt, daß Ihnen
 nichts gestohlen worden ist. Was also wollte der Eindringling?!
 
-2. Sie kehren heim, werden in der Diele recht
+2\. Sie kehren heim, werden in der Diele recht
 brutal mit einem Gummiknüppel niedergeschlagen und
 erwachen erst unter unseren hilfreichen Händen. Inzwischen
 hat, etwa zehn Minuten nach dem Überfall auf Sie, jemand
@@ -562,7 +562,7 @@ seltsame Rätsel.
 
 »Nennen wir die von mir erwähnten drei Leute«,
 fuhr er noch bedächtiger fort, »zur besseren Übersicht
-den »Schützen«, den »Reuigen« und den »Entführer«.
+den »*Schützen*«, den »*Reuigen*« und den »*Entführer*«.
 Die Person des »Entführers« ist mit am wichtigsten.
 Er verscheucht den »Schützen«, er sorgt für den verwundeten
 »Reuigen« er ruft Sie und Ihren Freund hierher, er
@@ -585,10 +585,10 @@ langweilt man sich nicht. Es ist einer jener Fälle,
 die selbst den Denkfaulsten anregen dürften. — Schreiben
 Sie zunächst mal weiter. Also:
 
-3. Doktor Sch. kehrt gegen halb eins heim. Der
+3\. Doktor Sch. kehrt gegen halb eins heim. Der
 Anruf an Schraut erfolgt etwa zehn Minuten nach halb
 eins. Als er erfolgt, ist Doktor Sch. bereits betäubt,
-denn Sch. Betont, es sei höchstens fünf Minuten nach
+denn Sch. betont, es sei höchstens fünf Minuten nach
 halb gewesen, als er die Diele betrat. — Harst und
 Schraut treffen hier kurz nach ein Viertel zwei ein
 und sehen noch das davonrasende verdächtige Auto 131313,
@@ -599,7 +599,7 @@ der »Entführer« mit dem Verwundeten so lange in der
 Villa, daß die beiden von Harst und Schraut beinahe
 noch erwischt worden wären?«
 
-Ich blinzelte Schaper vielsagend an Er ließ die
+Ich blinzelte Schaper vielsagend an. Er ließ die
 Hand mit dem Bleistift sinken und erklärte prompt:
 »Das Auto 131313 war noch nicht zur Stelle. Der »Entführer«
 hatte es erst herbeigerufen. Daher die Verzögerung.
@@ -609,7 +609,7 @@ Der Chauffeur von 131313.«
 »Nicht schlecht«, nickte ich. — »Schreiben Sie
 erst mal weiter:
 
-4. Der »Entführer«, der sich so sehr um den »Reuigen«
+4\. Der »Entführer«, der sich so sehr um den »Reuigen«
 kümmert, läßt den bewußtlosen Doktor Schaper ohne jede
 Regung von Mitgefühl etwa fünfunddreißig Minuten in
 der Diele liegen. Der »Entführer« handelte sehr töricht,
@@ -641,7 +641,7 @@ und brauchte sich dort vor niemand in acht zu nehmen.
 Er steuerte das Auto nachher auch selbst, — ich sah
 den Mann, den »Schwarzen«, und in dem Wagen saß nur
 noch eine einzelne Person, — auch das sah ich. Diese
-meine Schlußfolgerungen sind also richtig.«
+meine Schlußfolgerungen *sind* also richtig.«
 
 »Sie sind falsch«, sagte jemand von der Tür her.
 
@@ -687,7 +687,7 @@ sie den einfachen Hergang erzählen konnte.
 Es ist für meine lieben Leser und Freunde vielleicht
 recht lehrreich, hier einmal einen Kriminalfall mitzuerleben,
 bei dem sich so recht eindrucksvoll zeigt, wie leicht
-man zu völlig irrigen Schlußfolgerungen gelang!
+man zu völlig irrigen Schlußfolgerungen gelangt.
 
 Doktor Schapers Annahme von der Mitwirkung dreier
 Personen bei den fragwürdigen Ereignissen hatte auch
@@ -791,15 +791,15 @@ war als sein Freund und Vorgesetzter, räusperte sich.
 »Hm, — das Isolierband und der Anruf!«, meinte er mit
 einer wahren Sphinxmiene.
 
-»Ja, da liegt der Hase im Pfeffer, — stimmt’«,
+»Ja, da liegt der Hase im Pfeffer, — stimmt!«,
 erklärte Konrad Busch fast traurig. Und recht orakelhaft
-klang sein Nachsatz: »Wenn das nicht wäre!’ Wer rief
+klang sein Nachsatz: »Wenn *das* nicht wäre!! Wer rief
 Harst an, wer benutzte das Isolierband?! Haben Sie
 so ein Zeug im Hause, Herr Doktor?«
 
 Schaper flüsterte heiser: »Mein Chauffeur — vielleicht!«
 
-Bush beobachtete nun auch die Fliegen. »Ihr Chauffeur,
+Busch beobachtete nun auch die Fliegen. »Ihr Chauffeur,
 — mag sein … — Es waren zwei Kerle hier, nicht wahr,
 Herr Harst? Der »Schwarze« trug Fräulein Murner sehr
 bald in das Auto, dann rief der Kerl Nummer zwei Sie
@@ -937,7 +937,6 @@ das Isolierband entfernt?«
 
 »Das Fräulein vom Amt erklärte, es sei ein Gespräch
 geführt worden. Mit wem sprachst du bei uns daheim?«
-|
 
 »Mit der Ziege.«
 
@@ -998,7 +997,7 @@ Und dann verspürte ich auch schon jenen bewußten
 Apothekengeruch, bekam das Kratzen im Halse, die Augen
 tränten mir, ich hörte ein Zischen wie von einer großen
 Schlange, es war jedoch nur irgend ein teuflisches
-Gas, — — wir hatten keine Masken, und das Ende war
+Gas, — — *wir* hatten *keine* Masken, und das Ende war
 schnell und schmerzlos: Bewußtlosigkeit!
 
 Also — — Falle!!
@@ -1039,7 +1038,7 @@ schnell in einen Reim schmieden?!«
 »Zufallsvermutung … — Riefen Sie uns an, Herr
 Permallon?«
 
-Herr Permallon nickte. »Ja. Ich darf es ruhig
+*Herr* Permallon nickte. »Ja … Ich darf es ruhig
 zugeben, denn Sie werden drei Tage meine Gastfreiheit
 genießen, ohne ganz frei zu sein. Nachher sind wir
 über alle Berge und setzen uns zur Ruhe. Dieser Fischzug
@@ -1067,7 +1066,6 @@ Züge des Edelgauners.
 im Tresor«, meinte er wie ratlos.
 
 »Lagen, — — lagen!!«, betonte Permallon ernsthaft.
-
 »Was jetzt darin liegt, sind Imitationen und Blüten,
 falsche Scheine. Wir hatten die Herrschaften längst
 auf der Liste, da unsere internationalen Verbindungen
@@ -1115,7 +1113,7 @@ Sie und Herr Gustav Zick vorläufig außerhalb Berlins
 beschäftigt sind.«
 
 Harst lachte heiter. »Vorläufig — ohne Zweifel!
-Kennen Sie die beiden Spargel?« .
+Kennen Sie die beiden Spargel?«
 
 Permallon wehrte ab. »Hoffen Sie auf die Hilfe
 zweier Karnickelfanatiker?! Ich kenne Busch und Hinkel,
@@ -1299,7 +1297,7 @@ die Holzbank.
 
 Busch streichelte den zu seinen Füßen fressenden
 Knurx und meinte mürrisch: »Nun wollen wir die Dinge
-mal gründlich erörtern Herr Harst, beginnen Sie!«
+mal gründlich erörtern … Herr Harst, beginnen Sie!«
 
 »Nach Ihnen, lieber Busch. Ich dränge mich nicht
 gern vor, Erzählen Sie mal, — wo endet der Stollen,
@@ -1378,9 +1376,9 @@ Daher die Dreieckform.
 
 Und dann kamen die weiteren Überraschungen …
 
-2\. Teil
+<p style="text-align: center; font-size: x-large;">2. Teil.</p>
 
-Zwei internationale Größen
+<h1>Zwei internationale Größen</h1>
 
 <h2>1. Kapitel.</h2>
 
@@ -1431,7 +1429,7 @@ Genuß seiner Zigarette hingebend.
 
 Sein Gesichtsausdruck konnte dabei nur als »strahlend«
 bezeichnet werden. Er mußte unbedingt die Lösung des
-»Tricks’ gefunden haben.
+»Tricks« gefunden haben.
 
 Ich bohrte weiter. »Ob sie sich auch an Turnieren
 beteiligen?!«
@@ -1477,7 +1475,7 @@ Permallon sind Tennisfexe.«
 
 Ich sah es, aber im war davon wenig begeistert.
 Der »Trick« wurde dadurch nicht geklärt. Was half es
-mir, dass er und Hetty sogar in Kapstadt, in Brasilien
+mir, daß er und Hetty sogar in Kapstadt, in Brasilien
 und sonstwo Lorbeeren geerntet hatten?! Außerdem wurde
 ich müde. Ich hatte immerhin ebenfalls drei Kümmel
 getrunken aus, Wassergläsern, und diese Nacht war für
@@ -1511,7 +1509,7 @@ Bewunderung verbirgt.
 Herr Glatt sagte hochfahrend: »Das müssen Sie
 wissen. Also wo ist Harst?«
 
-»Herr Harst«, sagte ich bescheiden, »ist vielleicht,
+»*Herr* Harst«, sagte ich bescheiden, »ist vielleicht,
 während ich schlief, entführt worden. Nach dem Pistolenattentat
 ist alles möglich, Herr Glatt.«
 
@@ -1532,7 +1530,7 @@ Ich hatte auf dem Tisch einen Zettel entdeckt.
 
 »Einen Augenblick … — von Harst …«
 
-Lieber Alter, die Waldparzelle gehört Herrn Siegfried
+> Lieber Alter, die Waldparzelle gehört Herrn Siegfried
 Arnberg, und Höhle und Stollen liegen auf seinem Grund
 und Boden. Umseitig seine Erlaubnis. Bleibe, wo du
 bist. — Gruß … H.
@@ -1641,7 +1639,7 @@ kommen … — Knurx, bitte … kehrt marsch!«
 
 Das Mädchen hatte sich durch einen Schritt nach
 rückwärts aus dem Sonnenkegel entfernt, und ihr Gesicht
-lag nun im Schatten. »Oh, ich bin gar nicht neugierig.’
+lag nun im Schatten. »Oh, ich bin gar nicht neugierig«
 meinte sie hastig …, »das heißt, meine Neugier ist
 befriedigt …«
 
@@ -1745,10 +1743,10 @@ ich legte zur ersten Lüge die zweite »Sie muß in ihrem
 Köfferchen eine Gasspritze gehabt haben! Ein infames
 Ding!!«
 
-» Wahrscheinlich!«, sagte der Spargel gedankenvoll
+»Wahrscheinlich!«, sagte der Spargel gedankenvoll
 und betrachtete mich voller Teilnahme »Sie sind gerade
 noch mit einem blauen Auge davongekommen, Herr Schraut.
-Wer das Mädel nur gewesen sein mag?!«
+— Wer das Mädel nur gewesen sein mag?!«
 
 Inspektor Glatt, den man wohl aus anderen Gründen
 wie Busch und Hinkel auf die Dörfer geschickt hatte
@@ -1759,7 +1757,7 @@ wir droben jemand sehr vergnügt pfeifen und auf der
 Leiter wurden Beine sichtbar, die bestimmt zu Harsts
 Oberteil paßten.
 
-»Mahlzeit … «, begrüßte er uns harmlos »Nanu,
+»Mahlzeit …«, begrüßte er uns harmlos »Nanu, — —
 was ist denn mit dir los, mein Alter?«
 
 Die Komödie ging weiter
@@ -1770,13 +1768,13 @@ den Kopf als Inspektor Glatt, der zum Schluß fragte
 
 Was Busch sehr in Verlegenheit setzte.
 
-»Hm, — — Ahnung?! Vielleicht kann sein«, erklärte
+»Hm, — — Ahnung?! Vielleicht … kann sein«, erklärte
 er widerwillig — Er holte aus der Jackentasche ein
 zusammengefaltetes Blatt aus einer Wiener Sportzeitschrift
 hervor. »Da — das ist die Familie Murner, Wien, Herr
 Inspektor … Unten steht gedruckt:
 
-Die Eltern und die jüngere Schwester Liane der
+> Die Eltern und die jüngere Schwester Liane der
 berühmten Tennismeisterin Hetty Murner vor ihrem Schloß
 Murnersberg bei Wien.
 
@@ -1833,12 +1831,12 @@ lugte hinaus, klettert vollends ins Gestrüpp und erschien
 erst nach fünf Minuten wieder vor meinen sehr mißbilligend
 dreinschauenden Augen, legte den Finger auf die Lippen,
 holte aus der Tasche einen Eisenhaken mit Gewinde hervor
-und versperrte die Falltür, | indem er in das Holz
+und versperrte die Falltür, indem er in das Holz
 den Haken hineindrehte und an dem Haken zwei Stricke
 befestigte, die er an zwei Stützpfähle band.
 
 »So, hier kann niemand mehr hinein« sagte er recht
-zufrieden. »Jetzt noch die andere Falltür. und wir
+zufrieden. »Jetzt noch die andere Falltür, und wir
 sind ganz unter uns!«
 
 Den letzten Satz sprach er sehr langsam. »Nein«,
@@ -1914,7 +1912,7 @@ Stück.
 Harst lächelte fein. »Schlaue Kerle, die Permallons
 …! Mäusekäfige stinken … Und eine Maus bringt den besten
 Hund auf falsche Fährte, siehe Knurx. Ich habe Knurx,
-der mich witterte, durch eine Maus verjagt, und dasselbe
+der *mich* witterte, durch eine Maus verjagt, und dasselbe
 wollten die Drillinge im Notfall tun.«
 
 Ich schwieg. — Man lernt nie aus.
@@ -1938,7 +1936,7 @@ den beiden langen Beamten mit dem Teckel nach, weshalb
 floh sie aus dem Stollen wie gehetzt und weshalb warf
 sie die Pistole in den Tümpel?! Herr Harst, ich erkläre
 Ihnen nochmals, — ich lasse mich nicht täuschen, ich
-will alles wissen, wir sind keine Betrüger, die Eltern
+will *alles* wissen, wir sind keine Betrüger, die Eltern
 und ich, Hetty ist aber vielleicht mehr als das, eine
 … Verbrecherin, — ich nehme hier kein Blatt mehr vor
 den Mund, Herr Harst … Lassen Sie mich nur getrost
@@ -2024,7 +2022,7 @@ stand.
 
 Was Zick uns angedeutet hatte, versprach so mancherlei:
 
-»Ganz neue, kleine Villa im Walde vor Buchholz
+»… Ganz neue, kleine Villa im Walde vor Buchholz
 … Sicherlich Schapers Besitz, der hier natürlich anders
 heißt …«
 
@@ -2060,12 +2058,12 @@ Motorräder — Jetzt verstummen sie. Die Sache ist in
 Ordnung …«
 
 Ich hatte Gustav Zick bisher so halb als komische
-Figur betrachtet, trotz seiner Leistungen. Der Mann
+Figur betrachtet — trotz seiner Leistungen. Der Mann
 war doch ein Typ für sich, und kein schlechter.
 
 »Haben Sie sich eigentlich im Amerika naturalisieren
 lassen?«, fragte Harald etwas zusammenhanglos. »Sind
-Sie Amerikaner geworden?’ Mal raus mit der Sprache,
+Sie Amerikaner geworden? Mal raus mit der Sprache,
 lieber Zick! Es wird Zeit, daß wir restlos unsere Trümpfe
 aufdecken, sonst kommen wir uns womöglich gegenseitig
 beim Schlußspiel ins Gehege. Die Pinkertons drahteten
@@ -2175,8 +2173,8 @@ unsereiner doch auch eine so vielbegehrte Persönlichkeit
 wäre wie Herr Josef Brand! Mich hat man in Zehlendorf
 auf Eis gelegt, aber Brand wird von zahllosen Polizeidirektionen
 liebevollst gesucht. Das habe ich erst vor drei Tagen
-erfahren, weil ich eben Kaninchen liebe. Auch Brand
-hält Karnickel. Aber Brand hinkt nur als Chauffeur.
+erfahren, weil ich eben Kaninchen liebe … Auch Brand
+hält Karnickel. Aber Brand hinkt nur als Chauffeur …
 Der Himmel schenke mir seine flinken Beine und Finger!!«
 
 »Hoteldieb, Schlafwagengespenst und manches andere!«
@@ -2198,8 +2196,8 @@ Aber Zick winkte nur. »Schnell … Oben das Fenster
 
 Im ersten Stock war ein Vorhang beiseite gerissen
 worden. Wir sahen einen Mann mit schwarzem Schnurrbart,
-der das Fenster zu öffnen versuchte. Er trat wieder
-zurück … Der Vorhang fiel zu. Ein schwacher Knall durchdrang
+der das Fenster zu öffnen versuchte … Er trat wieder
+zurück … Der Vorhang fiel zu … Ein schwacher Knall durchdrang
 die Stille des Forstes …
 
 Zick sagte traurig: »Lebe wohl, Josef!! Du warst
@@ -2351,10 +2349,10 @@ gewesen sein!«
 »Wahrscheinlich nicht«, erwiderte Harst gleichgültig.
 
 »Jedenfalls hat die Justiz keinerlei Scherereien
-mehr mit alledem. Ein Unfall — — punktum!«
+mehr mit alledem … Ein Unfall — — punktum!«
 
 Busch trat dicht vor ihn hin. »Herr Harst, — —
-ich will nichts behaupten. Aber ich wette, in dieser
+ich will nichts behaupten … Aber ich wette, in dieser
 Nacht werde ich träumen, daß jemand mit voller Absicht
 der Justiz hier die Arbeit ersparen wollte …«
 
@@ -2416,9 +2414,9 @@ der Name Murner …«
 Harst legte ihm beruhigend die Hand auf die Schulter.
 
 »Machen Sie sich hierüber keine weiteren Sorgen,
-Baron …! — Ganz unter uns: Der Ersatzreisen des Autos
+Baron …! — Ganz unter uns: Der Ersatzreifen des Autos
 war mehr eine Bombe, und der, der ihn schleuderte wollte
-sterben — immerhin ein Beweis verzweifelten Mutes.
+sterben — immerhin ein Beweis verzweifelten Mutes …
 Und jetzt, lieber Busch, sorgen Sie dafür, daß wir
 die hohen Herren in Zehlendorf recht bald sprechen
 können. Mein Vortrag wird kurz sein, — zu kurz, falls
@@ -2479,7 +2477,7 @@ Zick nickte. »Auch ich bleibe stumm. Mein Auftrag
 hier ist erledigt.«
 
 Der höchste Herr hüstelte nicht, sondern hustete
-verärgert. »Nun gut … — Bitte, was trieben Hetty-Egon?«
+verärgert. »Nun gut … — Bitte … was trieben Hetty-Egon?«
 
 »Schmuggel«, erklärte Harald sachlich »Edelsteinschmuggel
 … Alles, was Brand zusammenstahl, und er war eine erste
@@ -2529,11 +2527,11 @@ zu werden. Hetty brachte sich selbst den harmlosen
 Streifschuß bei, draußen im Walde wartete Brand mit
 131313, der den Hund betäubt, und das Gitter zersägt,
 und die Scheiben eingedrückt hatte. Als Schaper verabredungsgemäß
-heimkehrte, rief er uns an — er! Um dann versetzte
+heimkehrte, rief *er* uns an — er! Um dann versetzte
 Brand ihm den Hieb und kroch wieder durch den Garten
 zum Auto, in dem Hetty verbunden lag. Die Fußspuren
 im Hintergarten verrieten mir noch mehr. Als Brand
-die Hetty ins Auto trug, stieg in die Villa Permallon
+die Hetty ins Auto trug, stieg in die Villa *Permallon*
 ein, öffnete flink die Koffer, nahm die zehn Tennisschläger
 heraus und legte zehn andere in die Umhüllung, verduftet:
 und entleerte in der Höhle die Handgriffe. Seine Beute
@@ -2604,13 +2602,12 @@ Es sei denn, daß sie so gestaltet werden, wie
 Harst sie zurechtknetete: Zu dem großen Schmugglertrick
 mit Rückversicherung!
 
-Wiederhören …! — — Achtung, Sender Kunzendorf
+Wiederhören …! — — Achtung, Sender Runxendorf
 auf Welle 0,005 bringt zu Gehör: »Der Mann im Feuer«,
 Tragikomödie aus dem Leben in zwei Akten und zehn Bildern!
 
 Beginn: Nach vierzehn Tagen …!
 
-Nächster Band:
-
-<p class='centered'>Der Mann im Feuer.</p>
+<#import "*/harst.ftl" as harst>
+<@harst.naechsterband band="Der Mann im Feuer."/>
 
