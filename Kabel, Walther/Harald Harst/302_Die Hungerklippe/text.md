@@ -1,22 +1,4 @@
-Harald Harst
-
-Band: 302
-
-Die Hungerklippe
-
-Erzählt von
-
-Max Schraut
-
-Verlag moderner Lektüre G.&nbsp;m.&nbsp;b.&nbsp;H.
-Berlin SO 16, Michaelkirchstraße 23a
-
-Nachdruck verboten. — Alle Rechte, einschließlich
-das Verfilmungsrecht, vorbehalten. — Copyright 1931
-by Verlag moderner Lektüre G.&nbsp;m.&nbsp;b.&nbsp;H.,
-Berlin S0 16.
-
-Druck: P. Lehmann, G. m. d. H., Berlin SO 16.
+<h1>Die Hungerklippe</h1>
 
 <h2>1. Kapitel.</h2>
 
@@ -29,7 +11,7 @@ interessante Fälle, die er, zweifellos mit feinstem
 Spürsinn für das Ungewöhnliche begabt, uns zur Prüfung
 unterbreiten konnte.
 
-Das Hektor Orgin durch das Geheimnis des Mr. Parafox
+Daß Hektor Orgin durch das Geheimnis des Mr. Parafox
 zu Reichtümern gelangte, sollte natürlich auch seinen
 bisherigen Beruf als Kriminalschriftsteller weitgehend
 beeinflussen. Er brauchte nicht mehr Akkordschreiber
@@ -98,7 +80,7 @@ Getränke und nahm dann bescheiden auf einem Stuhle
 Platz.
 
 »Die Geschichte ist die«, begann Hektor äußerst
-zerfahren, » — ich habe einen Brief erhalten und …«
+zerfahren, »— ich habe einen Brief erhalten und …«
 
 Graham, der außer Kahlkopf und Kuhohren noch stark
 aufgeblähte Rüstern hatte, hüstelte kräftig.
@@ -162,8 +144,7 @@ Silbe gesagt!!«
 
 Graham verneigte sich. »Nein, Sie waren ohnedies
 schon zu allerlei Trugschlüssen bereit, Herr Orgin,
-und die Zeitschrift erhielt ich auch erst heute abend.
-«
+und die Zeitschrift erhielt ich auch erst heute abend.«
 
 »Also hatten Sie sie bestellt?«
 
@@ -187,7 +168,7 @@ sechs Sprachen …«
 
 »Dafür bekommen sie auch vierhundert Mark Gehalt«,
 warf Hektor verärgert hin. Er beherrschte nur zwei:
-Deutsch und Berlinisch.
+Deutsch und Berlinsch.
 
 Graham las vor:
 
@@ -248,20 +229,20 @@ Orgin hielt den Hörer dann wohl ganz dicht vor
 den Lautsprecher, denn wir vernahmen verhältnismäßig
 klar folgendes:
 
-Männerstimme: »Ich habe ihn gewarnt, Alice, —
+*Männerstimme*: »Ich habe ihn gewarnt, Alice, —
 der Narr war ja klüger!! sage ihm, wie es dir geht
 … sage es ihm, damit ihm sein Hirn vor Wut verschrumpft
 und sein Herz blutet vor ohnmächtiger Verzweiflung!«
 
-Frauenstimme: »Sie sind eine Bestie, Sie sind
-ein Teufel,…« —
+*Frauenstimme*: »Sie sind eine Bestie, Sie sind
+ein Teufel, …« —
 
 Geräusche folgten …
 
-Männerstimme, hohnlachend: »Und doch wirst du
+*Männerstimme, hohnlachend*: »Und doch wirst du
 mir eines Tages alles freiwillig geben — alles!!«
 
-Gerausche …
+Geräusche …
 
 Dann Musik, sehr verzerrt: Der Pilgerchor!
 
@@ -291,7 +272,7 @@ deutliche Muster von Fingerspitzen sichtbar gemacht.
 
 Das Schreiben lautete:
 
-Sehr geehrter Herr Harst, falls sie mir strengste
+»Sehr geehrter Herr Harst,<br/>falls sie mir strengste
 Verschwiegenheit zusichern, würde ich Ihnen einen Fall
 unterbreiten, der Sie zweifellos interessieren dürfte.
 Ich bitte Sie höflichst, übermorgen Vormittag elf Uhr
@@ -331,9 +312,8 @@ du getrost unterstellen, daß dieser Kranke bereits
 in einer Heilanstalt war und von dort entflohen ist.
 Ich möchte vorläufig meine Ansicht dahin zusammenfassen,
 daß der Amateur dort oben in Norwegen, der so eigenartige
-Scherze sich leistet, der Geisteskranke sein kann.
-
-Und nun zu etwas anderem.« Er griff nach einem
+Scherze sich leistet, der Geisteskranke sein *kann*.
+— Und nun zu etwas anderem.« Er griff nach einem
 älteren Magazin, blätterte darin und deutete auf eine
 Überschrift eines illustrierten Artikels:
 
@@ -359,7 +339,9 @@ haben mußte.
 
 Ich möchte noch bemerken, daß die Abdrücke sich
 außen auf dem Briefbogen befanden, also nicht auf der
-beschriebenen Seite.  Harst zeigte auf den Abzug des
+beschriebenen Seite.
+
+Harst zeigte auf den Abzug des
 rechten Mittelfingers Sörensens. »Schaue genau hin,
 — in dem feinen Muster von Bogen und Schleifen zeichnet
 sich klar ein Kreuz ab: Eine Narbe einer Schnittwunde.
@@ -415,7 +397,7 @@ als Freund Orgin und sein famoser Graham Bell es ahnen.«
 
 »Gefahren? Für wen?«
 
-»Vielleicht für uns …« »und dann klappte die Tür
+»Vielleicht für uns …« und dann klappte die Tür
 ins Schloß.
 
 <h2>2. Kapitel.</h2>
@@ -488,8 +470,8 @@ Amtsschimmel lebt noch, die neue Schotterschicht auf
 den alten ausgefahrenen Wegen ist recht dünn, mit einem
 Wort: Wir bilden uns ein, mit der Justizpflege vorwärts
 gekommen zu sein, und karren in Wahrheit immer noch
-auf dem Pfade von gesetzlichen Überlieferungen, die
-zuweilen entsetzlich sind. — Verzeihe, wenn ich beinahe
+auf dem Pfade von *ge*setzlichen Überlieferungen, die
+zuweilen *ent*setzlich sind. — Verzeihe, wenn ich beinahe
 geistreich werde, aber eine Zigarre, die ich doch heute
 nur als Kaffeehändler Unglast aus Hamburg rauche, feuert
 mein Hirn zu wildesten Gedankensprüngen an.«
@@ -544,7 +526,7 @@ Ich war zunächst derart verwirrt, daß ich hinter
 Harst wie ein beim Wurststehlen ertappter Pudel dreinschritt.
 Was tat Graham Bell hier bei Sörensen?! Weshalb hatte
 er seine Glatze mit einer ehrbaren grauen Perücke bedeckt
-und sich einen Bart a la Josef II. vorgeklebt?!
+und sich einen Bart à la Josef II. vorgeklebt?!
 
 Ich fand, daß der Beginn unseres Besuches bei
 dem Hellseher sich wenig gut anließ, und ich staunte
@@ -650,7 +632,7 @@ erwähnte Person zu erhalten, haben Sie sich umsonst
 bemüht. — Es war mir ein Vergnügen, meine Herren.«
 
 Harst wehrte mit einer energischen Geste diesen
-Hinauswurf ab. »Uns ist es ein Vergnügen, Herr Sörensen.
+Hinauswurf ab. »Uns *ist* es ein Vergnügen, Herr Sörensen.
 Wir bleiben … Also nehmen Sie nur wieder Platz. Auch
 ich bin so ein wenig Heilseher … Ich fürchte, daß die
 Polizei in einer halben Stunde hier sein wird.«
@@ -660,7 +642,7 @@ sich beträchtlich. »Soll das eine Drohung sein, Herr
 Harst?!«
 
 »Nein, eine Warnung. — Ich will ganz offen reden.
-Ich muß erfahren, wer diesen Brief von Ihnen begutachten
+Ich *muß* erfahren, wer diesen Brief von Ihnen begutachten
 ließ, und so ungern ich einen meiner Bekannten vom
 Polizeipräsidium aus dem Bett klingeln würde, — — nun,
 Sie verstehen …!«
@@ -741,9 +723,9 @@ Stunde hinterrücks im Flur überfallen worden war. Sein
 Angreifer verfügte über Riesenkräfte und hatte graues
 Haar und ähnlichen Bart, wie er selbst gehabt.
 
-3\. Kapitel.
+<h2>3. Kapitel.</h2>
 
-Der Herr mit dem Leberleiden.
+<h3>Der Herr mit dem Leberleiden.</h3>
 
 »Sie als Erfinder verzwickter Kriminalromane können
 nun hier einmal an eigenem Leibe erleben, wie unendlich
@@ -998,8 +980,8 @@ mit einem verzweifelten Stöhnen: »Ich … weiß nicht
 
 »… Kognak …«
 
-»Ja … und schlief ein … Jetzt erwache im hier.
-— Wo sind wir?
+»Ja … und schlief ein … Jetzt erwache ich hier.
+— Wo sind wir?«
 
 »Holen Sie Sörensen, und er wird es Ihnen sagen
 … Ich bin auch erst seit zehn Minuten munter. Natürlich
@@ -1236,7 +1218,7 @@ spielten auf dem Rasen, und ein junges Mädchen hielt
 einen Teckel im Arm, sie war rotblond, ein hübsches
 Gesicht, schlanke Figur … All das wirkte so traumhaft,
 aber es war lebensprühende Wirklichkeit … — Sage mir
-um Himmelswillen: Wo sind wir?!
+um Himmelswillen: Wo sind wir?!«
 
 »Dort, wo das Unheil begann«, erwiderte er ebenso
 leise. »Wenn irgend etwas meine Vermutungen bestätigen
@@ -1415,9 +1397,9 @@ ihm zwei notdürftig bekleidete Männer, die uns drei
 genau so fassungslos anstierten, wie ich den leberkranken,
 anmaßenden Herrn der Villa an der Heerstraße Berlin-Spandau.
 
-2\. Teil.
+<p style="text-align: center; font-size: x-large;">2. Teil.</p>
 
-Das Gespenst einer alten Familie.
+<h1>Das Gespenst einer alten Familie</h1>
 
 <h2>1. Kapitel.</h2>
 
@@ -1437,7 +1419,7 @@ packte ihn mit der Linken bei der obersten Schnurreihe
 der Schlafanzugsjacke. »He — wollen Sie hier Theater
 spielen!!«, krähte er schnaubend und suchte Olden hin
 und her zu schlackern. »Ich kenne Sie, Sie sind der
-Sohn der alten Exzellenz, und Graham Bell.
+Sohn der alten Exzellenz, und Graham Bell.«
 
 Olden hatte den Zudringlichen mit einem Stoß von
 sich geschüttelt. Harst rief gleichzeitig: »Orgin,
@@ -1531,7 +1513,7 @@ meines Gutes … wandelnde Geister — — he?!«
 »Allerdings«, sagte Harst eisig. »Ich suche Gespenster,
 und ich werde sie finden, verlassen Sie sich darauf,
 Herr von Olden. — Haben Sie noch immer Lust, die Polizei
-zu rufen ?!«
+zu rufen?!«
 
 »He … He?!«, machte Orgin abermals.
 
@@ -1612,7 +1594,7 @@ ich etwas gesagt?« — Er mochte glauben, längere Zeit
 bewußtlos und nicht Herr seiner Gedanken und seiner
 Zunge gewesen zu sein, — er hatte etwas zu verbergen,
 und der Seelenarzt, der jetzt seine schmale, knochige
-Hand nahm und eindringlich bat: .Erleichtern Sie doch
+Hand nahm und eindringlich bat: »Erleichtern Sie doch
 Ihr Gewissen, — wir werden schweigen und alles einrenken«,
 meinte er so aufrichtig und so wahrhaft gut mit dieser
 menschlichen Ruine, das sogar Orgin aus einer tiefen
@@ -1748,7 +1730,7 @@ großes Licht aufgegangen. Der verrückte Radioamateur
 ist Gisbert von Olden, der …«
 
 »… leider seit zwei Jahren tot ist und im Eichensarge
-in der Gruft der Oldens ruht. Das sollten Sie doch
+in der Gruft der Oldens ruht. Das sollten *Sie* doch
 am besten wissen, da Graham Ihnen die traurige Geschichte
 haarklein erzählt hat.«
 
@@ -1824,7 +1806,7 @@ zu haben war.
 
 »Overland ist unsere einzige Hoffnung«, meinte
 Harald, als wir gegen neun Uhr vormittags an einer
-Haustür eines der kleinen Eigenheime wie wild leuteten.
+Haustür eines der kleinen Eigenheime wie wild läuteten.
 »Das Wettrennen hat begonnen, und ich will als erster
 in Bergen sein …«
 
@@ -1877,9 +1859,9 @@ anrichteten, sie erschlugen den Statthalter, den Bischof
 und sechzig angesehene Bürger und erzwangen dadurch
 noch weitere Vorrechte.
 
-Die Stadt würde bereits 1070 von König Olaf III.
+Die Stadt wurde bereits 1070 von König Olaf III.
 gegründet, 1340 setzten sich dort die Hanseaten fest,
-und deren herausfordernder Übermut ist bis beute in
+und deren herausfordernder Übermut ist bis heute in
 der norwegischen Bevölkerung nicht vergessen worden.
 —
 
@@ -1897,7 +1879,7 @@ freudig: »Hier ist es!«
 An der Tür war ein kleines Porzellanschild mit
 bereits halb verwischter schwarzer Inschrift angebracht.
 
-<p class='centered'>Jacob Deerboom</p>
+<p class='centered em'>Jacob Deerboom</p>
 
 <p class='centered'>Kommissionen.</p>
 
@@ -2009,7 +1991,6 @@ Beinkleider und …«
 Jakob Deerboom bog jetzt nach rechts ab, zum Fischerhafen,
 — wir sahen nicht nur seinen Rücken, sondern auch sein
 kühnes Profil, und Orgin schnappte förmlich nach Luft.
-
 »Schraut, — — ein Gentleman ist das …!! Er erinnert
 mich etwas an Wallenstein, nur die Nase ist …«
 
@@ -2083,7 +2064,7 @@ wo Gisbert von Olden sich verborgen hält und weshalb
 er diesen Unsinn in die Welt funkt. Ich kapituliere
 also, Herr Schraut.«
 
-»Orgin vermochte nicht eine Silbe hervorzubringen.
+Orgin vermochte nicht eine Silbe hervorzubringen.
 Soviel war ihm aber nun endlich klar geworden: Graham
 Bell war alles andere als ein Schurke, und unsere Einkerkerung
 war lediglich ein Versuch gewesen, uns drei so lange
@@ -2232,13 +2213,13 @@ Er machte eine Pause und sagte lebhafter:
 einzuholen, und das ist die Jacht meines Freundes Gerdrup,
 des bekannten Reeders. Ich werde telephonieren …«
 
-Er betrat eine Telophonzelle, und als er wieder
+Er betrat eine Telephonzelle, und als er wieder
 auf der Straße bei uns erschien, nickte er zufrieden.
 
 »Die Jacht »Odda« wird in einer halben Stunde
 seeklar sein … — Wer sind die Herren? Sie dürften Hektor
 Orgin sein …«, er schüttelte dem sich übereifrig verneigenden
-Orgin die Hand. »Und dieser Seemann — — ?!«
+Orgin die Hand. »Und dieser Seemann — —?!«
 
 Graham Bell schmunzelte.
 
@@ -2515,7 +2496,7 @@ Rache Ihres Bruders, der allerdings stets zu phantastischen
 Plänen neigte.«
 
 Die Tür knarrte, ein Strom von blendender Sonne
-fiel in die Kajüte, und der rothaarige Kapitan meldete
+fiel in die Kajüte, und der rothaarige Kapitän meldete
 sehr erregt, daß die Klippe in Sicht sei, daß dort
 aber irgend etwas passiert sein müsse, — unter Wind
 am Strande neben dem Wrack läge eine Frau im flachen
@@ -2558,7 +2539,7 @@ Wie er endete?!
 — Ich bringe hier zum Schluß lediglich eine Notiz
 einer Berliner Zeitung.
 
-<p class='centered'>»Ein wieder auferstandener Toter.</p>
+<p class='centered em'>»Ein wieder auferstandener Toter.</p>
 
 Den eifrigen Bemühungen des Herrn Herwart von
 Olden, der nie so recht an den Tod seines Bruders Gisbert
@@ -2617,7 +2598,5 @@ für »Tropen-Probleme« sein
 
 Also … Auf Wiederhören …!
 
-Nächster Band:
-
-<p class='centered'>Die versiegelte Insel.</p>
-
+<#import "*/harst.ftl" as harst>
+<@harst.naechsterband band="Die versiegelte Insel."/>
