@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">643c5bcb-71e7-4716-ae03-6bfde642e8bb</entry>
+<entry key="title">Auto 131313</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">300</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Auto 131313
+
+Wir fanden eine freie Autotaxe und fuhren nach dem Berliner Vorort Zehlendorf hinaus, in dessen neuestem Villenviertel Doktor Schaper (er war früher Arzt gewesen und galt als sehr vermögend) in einer stillen Straße am Waldrande wohnte.
+
+Wir stiegen vorher aus, Harst gab dem Chauffeur zwanzig Mark und hieß ihn an der Straßenkreuzung warten.  Während wir noch neben der Taxe standen, sauste an uns eine kleinere Limousine vorüber, die aus der Richtung der Villa Schapers kam. Im Laternenlicht erkannte ich die Nummer 131313. Der Wagen fuhr mit größter Geschwindigkeit, nahm die Ecke mit beängstigend kurzem Bogen und verschwand wie ein Spuk in der lauen Sommernacht. Unser Chauffeur brummte etwas von »Wohl schlechtes Gewissen … und so«, und auch Harst starrte der Limousine äußerst aufmerksam nach.
+
+Zwei internationale Größen
+
+Der Titel des zweiten Teiles müßte den findigen Leser, und meine Leser sollen doch schließlich nachdenken, das bestätigen, was von Anfang an eigentlich sonnenklar war.
+
+»Eigentlich« ist ein vielbespötteltes Wort. Ich wende es trotzdem hier an, da ich auf meine eigene Blindheit im Falle »Schläger« keine Rücksicht nehmen darf. Ich habe mit voller Absicht gewissermaßen rubriziert all die Trugschlüsse aufgeführt, die sich hier wie von selbst ergaben. Nichts kann die siebartige Fundamentlosigkeit bloßer Indizienbeweise so schlagend erhärten als meine Diskussion mit Doktor Schaper über die berühmten fraglichen Punkte und unumstößlichen Tatsachen. — Waren sie wirklich unumstößlich? — Harst hatte bereits beim Verlassen der Villa angedeutet, daß dem nicht so sei.
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (300) Auto 131313.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1931</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
