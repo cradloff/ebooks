@@ -40,7 +40,7 @@ und wir nahmen wieder auf dem Sofa Platz.
 
 Bisher hatte ich geschwiegen. Jetzt konnte ich
 doch nicht länger an mich halten. Ich fragte gerade
-heraus: »Spielen die Permallons Tennis?« |
+heraus: »Spielen die Permallons Tennis?«
 
 Hätte ich gefragt: »Was hat es mit den Schlägern
 auf sich?«, würde ich nie eine Antwort erhalten haben.
@@ -95,12 +95,12 @@ auch Bleistiftzahlen als Randbemerkung.
 »Du siehst«, sagte Harst, »die Gentlemengauner
 Permallon sind Tennisfexe.«
 
-Ich sah es, aber im war davon wenig begeistert.
+Ich sah es, aber ich war davon wenig begeistert.
 Der »Trick« wurde dadurch nicht geklärt. Was half es
 mir, daß er und Hetty sogar in Kapstadt, in Brasilien
 und sonstwo Lorbeeren geerntet hatten?! Außerdem wurde
 ich müde. Ich hatte immerhin ebenfalls drei Kümmel
-getrunken aus, Wassergläsern, und diese Nacht war für
+getrunken — aus Wassergläsern, und diese Nacht war für
 meine angeborene Bequemlichkeit zu ereignisreich gewesen.
 
 Ich nickte ein.
@@ -116,7 +116,7 @@ mochte ihm etwas eng gewesen sein.
 
 »Keine Ahnung!«
 
-Der Herr stellte ich als Buschs hoher Vorgesetzter
+Der Herr stellte sich als Buschs hoher Vorgesetzter
 mit einigem Selbstbewußtsein vor. Ich kannte ihn nicht.
 Zweifellos mußte er aber eine Leuchte seines Faches
 sein, denn er behandelte Busch, mich und Knurx wie
@@ -144,7 +144,7 @@ Gegner sehr gut hier Malheur angerichtet haben.«
 Glatt fixierte mich argwöhnisch. Aber mein Gesicht
 verriet nichts. Der Spargel feixte heimlich.
 
-Herr Glatt schaute sich um … Unglaublich! Die
+Herr Glatt schaute sich um. »Unglaublich! Die
 Höhle wird noch heute zerstört! Ein solcher Schlupfwinkel
 muß …«
 
@@ -265,7 +265,7 @@ lag nun im Schatten. »Oh, ich bin gar nicht neugierig«
 meinte sie hastig …, »das heißt, meine Neugier ist
 befriedigt …«
 
-»Gehen wir!« sagte Busch gut gelaunt. Junge Mädels
+»Gehen wir!« sagte Busch gut gelaunt. »Junge Mädels
 sind immer neugierig … Wer das leugnet, ist doppelt
 neugierig. Also los!«
 
@@ -322,7 +322,7 @@ wieder aufnehmen. Busch war längst hinter der Biegung
 verschwunden. Und doch sollten die Dinge an dieser
 Stelle noch eine gründliche Umgruppierung erfahren,
 daß mir zunächst jede kritische Würdigung dieser Folge
-von blitzschnellen Ereignisse unmöglich war.
+von blitzschnellen Ereignissen unmöglich war.
 
 Ein Teil der Verschalung bewegte sich, in der
 Öffnung stand ein Mann, zischte uns leise zu:
@@ -361,7 +361,7 @@ Inspektor!«
 
 Busch legte mich auf das Sofa, Herr Inspektor
 Glatt legte das feiste Gesicht in schwere Falten, und
-ich legte zur ersten Lüge die zweite »Sie muß in ihrem
+ich legte zur ersten Lüge die zweite: »Sie muß in ihrem
 Köfferchen eine Gasspritze gehabt haben! Ein infames
 Ding!!«
 
@@ -379,7 +379,7 @@ wir droben jemand sehr vergnügt pfeifen und auf der
 Leiter wurden Beine sichtbar, die bestimmt zu Harsts
 Oberteil paßten.
 
-»Mahlzeit …«, begrüßte er uns harmlos »Nanu, — —
+»Mahlzeit …«, begrüßte er uns harmlos. »Nanu, — —
 was ist denn mit dir los, mein Alter?«
 
 Die Komödie ging weiter.
@@ -445,7 +445,7 @@ Die beiden Dörfler verabschiedeten sich, Knurx
 kläffte Harst dabei etwas unerwartet an und beschnupperte
 seine Beine, und Busch zog dieserhalb die dicken Augenbrauen
 derart empor, daß sein Gesicht eine wenig schöne Maske
-allergrößtem Staunens wurde.
+allergrößten Staunens wurde.
 
 Als Glatt sich nicht ganz glatt durch die Falltür
 ins Freie gezwängt hatte, schlich Harst zur Leiter,
@@ -472,7 +472,7 @@ und Hetty sind um zwölf Uhr nach Bremen abgereist,
 in des Doktors großem Wagen«, erwiderte er mit eigentümlicher
 Betonung. »Von der Seite droht also keine Gefahr mehr.
 Nicht  wahr, du bist erstaunt, aber nicht allzu sehr.
-Das keiner der Permallons der Schütze war, bedurfte
+Daß keiner der Permallons der Schütze war, bedurfte
 keiner erschöpfenden Erörterung. Diejenige, die uns
 das Lebenslicht ausblasen wollte, ist eine Dame von
 sehr bunter Karriere. Der Vater war Millionär, verspekulierte
@@ -683,7 +683,7 @@ Ich hatte Gustav Zick bisher so halb als komische
 Figur betrachtet — trotz seiner Leistungen. Der Mann
 war doch ein Typ für sich, und kein schlechter.
 
-»Haben Sie sich eigentlich im Amerika naturalisieren
+»Haben Sie sich eigentlich in Amerika naturalisieren
 lassen?«, fragte Harald etwas zusammenhanglos. »Sind
 Sie Amerikaner geworden? Mal raus mit der Sprache,
 lieber Zick! Es wird Zeit, daß wir restlos unsere Trümpfe
@@ -708,11 +708,11 @@ nicht Diebstähle, weit Schlimmeres: Bekannte Großhehler
 begingen Selbstmord, aber das »Selbst« war immer zweifelhaft.
 Die Hetty schießt verteufelt gut, und der Streifschuß
 von gestern Nacht war wohl ihre eigene Kunst, schätze
-ich. Sie hat sich selbst angeschrammt. Der Zwecks!
+ich. Sie hat sich selbst angeschrammt. Der Zweck?!
 Keine Ahnung!«
 
 Harst lachte leise. »Dachte ich es mir doch! Also
-Detektivinspektor!! Zick. Zick, ich werde nie mehr
+Detektivinspektor!! Zick, Zick, ich werde nie mehr
 Ziege sondern Mr. Zick sagen. — Wie brachten Sie die
 »Selbstmorde« mit dem Pärchen in Verbindung …?«
 
@@ -773,7 +773,7 @@ rührend. Er war ihr heimlich nachgereist, da sie die
 letzten Tage in Wien ganz verstört gewesen war. Er
 war ein hübscher, liebenswürdiger Mann von vorbildlichem
 Benehmen, und daß er nur ein kleiner Bankangestellter
-war hatte ihn als Verlobten Lianes in Hettys Augen
+war, hatte ihn als Verlobten Lianes in Hettys Augen
 unmöglich gemacht. »Hetty kommandiert die ganze Familie«
 erklärte er etwas gereizt.
 
@@ -790,7 +790,7 @@ Josef Brand …«
 
 »Der Beurlaubte!«, sagte Harst ironisch.
 
-Der Busch-Spargel hüstelte »Lieber Himmel, wenn
+Der Busch-Spargel hüstelte: »Lieber Himmel, wenn
 unsereiner doch auch eine so vielbegehrte Persönlichkeit
 wäre wie Herr Josef Brand! Mich hat man in Zehlendorf
 auf Eis gelegt, aber Brand wird von zahllosen Polizeidirektionen
@@ -800,7 +800,7 @@ hält Karnickel. Aber Brand hinkt nur als Chauffeur …
 Der Himmel schenke mir seine flinken Beine und Finger!!«
 
 »Hoteldieb, Schlafwagengespenst und manches andere!«
-fügte Harst hinzu. Mr. Zick, hatte er ein Paket im
+fügte Harst hinzu. »Mr. Zick, hatte er ein Paket im
 Arm?«
 
 »Ja … ziemlich groß, dreieckig …!«
@@ -878,9 +878,9 @@ Urplötzlich tauchte eine Mißgeburt von Hund und
 ein zugehöriger Spargel neben uns auf. »Was soll das?!«,
 fragte Busch sehr dienstlich.
 
-»Falle!!«, erklärte Harst. Aber, falls Sie mitfahren
+»Falle!!«, erklärte Harst. »Aber, falls Sie mitfahren
 wollen, rate ich Ihnen, die Chaussee zu meiden, sobald
-ich signalisiere.«
+ich signalisiere …«
 
 »Hm, — gefällt mir nicht! Ich fahre mit!« Busch
 fixierte Harst herausfordernd mißtrauisch. »Sie haben
@@ -955,7 +955,7 @@ Ich packte seinen Arm.
 »Achtung!!«
 
 Unsere Scheinwerfer strahlten. Schaper löste den
-Reservereifen, schleuderte ihn nach vorn, — der Reisen
+Reservereifen, schleuderte ihn nach vorn, — der Reifen
 flog, schlug auf, und gerade da jagte die Limousine
 über ihn hinweg. Ein ungeheurer Knall ertönte, — der
 Luftdruck der Explosion stieß unseren Wagen förmlich
@@ -1037,7 +1037,7 @@ Harst legte ihm beruhigend die Hand auf die Schulter.
 
 »Machen Sie sich hierüber keine weiteren Sorgen,
 Baron …! — Ganz unter uns: Der Ersatzreifen des Autos
-war mehr eine Bombe, und der, der ihn schleuderte wollte
+war mehr eine Bombe, und der, der ihn schleuderte, wollte
 sterben — immerhin ein Beweis verzweifelten Mutes …
 Und jetzt, lieber Busch, sorgen Sie dafür, daß wir
 die hohen Herren in Zehlendorf recht bald sprechen
@@ -1046,7 +1046,7 @@ man auf meine Bedingungen nicht eingeht.«
 
 Er blickte nochmals über die kläglichen Reste
 des Autos hinweg und über den Chausseegraben, wo unter
-einer Wolldecke die zersetzte Teile zweier Menschen
+einer Wolldecke die zerfetzten Teile zweier Menschen
 lagen, die der Hang zum schrankenlosen Lebensgenuß
 auf die Bahn des Verbrechens gedrängt hatte.
 
@@ -1101,12 +1101,12 @@ hier ist erledigt.«
 Der höchste Herr hüstelte nicht, sondern hustete
 verärgert. »Nun gut … — Bitte … was trieben Hetty-Egon?«
 
-»Schmuggel«, erklärte Harald sachlich »Edelsteinschmuggel
+»Schmuggel«, erklärte Harald sachlich. »Edelsteinschmuggel
 … Alles, was Brand zusammenstahl, und er war eine erste
 Kraft, wurde durch die internationalen Tennisgrößen
 in andere Länder geschafft, an Hehler verkauft, die
 dann Selbstmord verübten, — scheinbar und nochmals
-verkauft.
+verkauft …«
 
 Erstaunte Gesichter.
 
@@ -1149,13 +1149,13 @@ zu werden. Hetty brachte sich selbst den harmlosen
 Streifschuß bei, draußen im Walde wartete Brand mit
 131313, der den Hund betäubt, und das Gitter zersägt,
 und die Scheiben eingedrückt hatte. Als Schaper verabredungsgemäß
-heimkehrte, rief *er* uns an — er! Um dann versetzte
+heimkehrte, rief *er* uns an — er! Und dann versetzte
 Brand ihm den Hieb und kroch wieder durch den Garten
 zum Auto, in dem Hetty verbunden lag. Die Fußspuren
 im Hintergarten verrieten mir noch mehr. Als Brand
 die Hetty ins Auto trug, stieg in die Villa *Permallon*
 ein, öffnete flink die Koffer, nahm die zehn Tennisschläger
-heraus und legte zehn andere in die Umhüllung, verduftet:
+heraus und legte zehn andere in die Umhüllung, verduftete
 und entleerte in der Höhle die Handgriffe. Seine Beute
 muß riesig gewesen sein. — Dann erst kam Schaper, wir
 fanden ihn bewußtlos, das Spiel schien zu klappen,
@@ -1197,7 +1197,7 @@ Mittags wurde ein Brief für Harst abgegeben —
 — von Felix Permallon.
 
 Permallon verabschiedete sich darin auch in Namen
-seiner Brüder für alle Zeiten … Wir werden fortan nur
+seiner Brüder für alle Zeiten »… Wir werden fortan nur
 noch echte Fische angeln und echten Kohl bauen. — Verbindlichst
 … Ihre sehr ergebenen Drillinge nebst Schwesterlein.«
 
