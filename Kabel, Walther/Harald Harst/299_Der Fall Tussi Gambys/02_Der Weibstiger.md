@@ -167,7 +167,7 @@ wandte sich zur Tür.
 Flur, wo auch Miß Jaßwells mittelgroßer Koffer stand.
 »Schraut, nimm’ den Koffer … Das Gastbett oben ist stets
 bereit … — Bitte, hier hinauf, Miß … Etwas leise …
-Meine Mutter dürfte bereits Schlafen.«
+Meine Mutter dürfte bereits schlafen.«
 
 Evelyn lehnte an der Wand und hatte entsetzte Augen.
 »Sie wollen … mich … einsperren … festhalten?!«
@@ -455,7 +455,7 @@ denn zwei Patentschlösser mit einem Dietrich bewältigen, erforderte
 Fachkenntnisse. — Die Hoftür ging auf, klappte leise
 zu, dann blinkte eine Laterne, und der Mann versperrte die
 Tür. Wir sahen nur seinen Rücken. Seine Kluft war schäbig,
-als sich umdrehte, zeigte er uns ein rotbärtiges Trinkergesicht.
+als er sich umdrehte, zeigte er uns ein rotbärtiges Trinkergesicht.
 
 Harald raunte mir ins Ohr: »Schnell, in den Vorraum!«
 
@@ -478,7 +478,7 @@ wie wir dieses Versteck gewählt hatte, mußte Schnupfen haben.
 Er gab sich alle Mühe, die bekannten Nasengeräusche zu unterdrücken.
 Es gelang ihm nicht.
 
-Jetzt begann zu schwitzen. Wenn der Kerl etwa ein Messer
+Ich begann zu schwitzen. Wenn der Kerl etwa ein Messer
 bei sich hatte …!! Wenn er …
 
 Aber die plötzliche Lichtflut hier im Vorraum verscheuchte
@@ -694,7 +694,7 @@ dieses Ding in Brand und zwinkerte mit den Augen. Seidler
 ohne Zigarre war ein halber Seidler. Es gibt wirklich noch
 Originale in dieser miesen Welt.
 
-Tücke überfiel Tussy mit der jähen Behauptung:
+Lücke überfiel Tussy mit der jähen Behauptung:
 
 »Sie sind Georg Avalescus Schwester!«
 
@@ -902,7 +902,7 @@ Der alte Wachtmeister holte tief Atem.
 
 »Drei Herren, eine Dame«, knurrte Zallaw. »Natürlich
 die Permallons!! Infame Gesellschaft, Herr Doktor, aber
-angezogen — — aber gezogen, ich sage Ihnen: Wie zum Presseball!!
+angezogen — — angezogen, ich sage Ihnen: Wie zum Presseball!!
 Sie verstehen — allerfeinste Eleganz!! Frack, Zylinder,
 Sportmäntel, und die Edith — — da kommt selbst die berühmteste
 Schauspielerin nicht mit!! Und höflich waren die vier,
@@ -946,7 +946,7 @@ nicht viel über die »Tiger«, aber das eine ist volle Wahrheit:
 Avalescu war das Oberhaupt der Organisation, die Permallons
 arbeiteten mit ihm eine Weile zusammen, bis der
 Schurke Edith … verführte! Seitdem blieb er unsichtbar,
-und erst jetzt, wie er Omar—Bey …«
+und erst jetzt, wie er Omar-Bey …«
 
 Harald fiel ihr höflich ins Wort. »Diese Dinge werde
 ich mit Doktor Lücke erörtern … — Lücke, begleiten Sie uns,
@@ -1055,7 +1055,7 @@ Gambys … Das war der Punkt über dem i … Also die
 Gewißheit, daß meine Schlußfolgerungen stimmten. — Nachdem
 Georg Avalescu vor zwei Jahren die »Tiger« auflöste
 und verschwunden war, hat er sich in der heutigen Hauptstadt
-der Türkei, in Angora, als strebsamer Bürobeamter betätigt
+der Türkei, in Angora<@refnote 2/>, als strebsamer Bürobeamter betätigt
 und es bis zum Botschaftssekretär gebracht. Die Angst vor
 der Rache der Permallons ließ ihn vorläufig ehrlich werden.
 Er nannte sich Selim Omar, nachher Omar-Bey …«
@@ -1126,4 +1126,4 @@ Sie erübrigte sich auch. — —
 
 
 <#import "*/harst.ftl" as harst>
-<@harst.naechsterband band="Auto 131313!!."/>
+<@harst.naechsterband band="Auto 131313!!"/>

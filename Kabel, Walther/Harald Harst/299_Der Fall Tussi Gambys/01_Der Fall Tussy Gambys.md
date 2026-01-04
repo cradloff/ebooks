@@ -70,7 +70,7 @@ in einem schmierigen Kaftan. Wenn er sprach, pflegte
 er seinen langen, weißen Bart mit der noch schmierigeren
 Hand fast zärtlich zu kämmen.
 
-Der zweite, dick und mit dem Schwammigen Gesicht eines
+Der zweite, dick und mit dem schwammigen Gesicht eines
 Trinkers, hatte wässerige, entzündete Augen und trug einen
 schäbigen Gehrock und Gummiwäsche. Seine Gummiröllchen
 rutschten andauernd bis zu den Fingerspitzen. Der Mann jonglierte
@@ -85,7 +85,7 @@ kam der Name Selim etwas kräftiger, als seine ausgeglichene
 Ruhe dies eigentlich gestattete, über seine Lippen.
 
 Die Türöffnung nach dem Vorraum des Kellers war mit
-einem alten, sehr dicken und von Motten stellenweise gelieferten
+einem alten, sehr dicken und von Motten stellenweise zerfaserten
 Smyrnateppich verhängt. Hinter diesem Teppich hatte kurze
 Zeit ein Eindringling gestanden, für den auch das beste Türschloß
 kein Hindernis bedeutete. Er schlich jetzt wieder hinaus,
@@ -209,14 +209,14 @@ die mir geradezu widersinnig erschien.
 ich zweifelnden Tones.
 
 »Gewiß. Trotzdem spielen da Verhältnisse mit, die der
-Sache eine ganz neues Wendung geben könnten. Ich war sehr
+Sache eine ganz neue Wendung geben könnten. Ich war sehr
 überrascht, als ich im Keller vier Personen beobachtete. Zum
 <@pagebreak/>
 Glück war der Hund irgendwo eingesperrt, sonst hätte er mich
 gewittert.« Die Einzelheiten, die ich jetzt erfuhr, setzten mich
 noch mehr in Erstaunen.
 
-»Du glaubst wirklich, es sind die Permallons?!!«, meinte
+»Du glaubst wirklich, es sind die Permallons?!«, meinte
 ich nachdenklich.
 
 »Sie können es sein, mein Alter … Sind sie es, so
@@ -305,7 +305,7 @@ Ist Harst wirklich krank?«
 
 »Das habe ich Ihrem Beamten doch schon vorhin erklärt,
 Sie alter Schwindler! Glauben Sie, ich erkenne Seidlers
-Stimme nicht?! Assistent Seidler Soll Unterricht bei einem
+Stimme nicht?! Assistent Seidler soll Unterricht bei einem
 Stimmenimitator nehmen!«
 
 Da Lücke zumeist mit Seidler zusammenarbeitete, war
@@ -313,7 +313,7 @@ meine Vermutung nicht allzu kühn.
 
 Pause. — Dann …:
 
-»Nun ja, es war Seidler … So hätte wetten mögen,
+»Nun ja, es war Seidler … Ich hätte wetten mögen,
 ihr beide waret da vorhin am Halleschen Tor … Merkwürdige
 Geschichte übrigens … Jassowitz hat zwei Pakete in den Kanal
 geworfen, und ich werde sie sofort herausholen lassen.«
@@ -589,9 +589,8 @@ Ball im Europa-Hotel … Wohltätigkeits-Fest der
 türkischen Kolonie … und so … Große Tombola …«
 
 »Das wissen wir bereits — ich meine: Ball … und so …«
-
 Ich dachte an die Eintrittskarten. Der grippekranke Harst
-war ja den ganzen, Tag unterwegs gewesen. »Haben Sie
+war ja den ganzen Tag unterwegs gewesen. »Haben Sie
 Omar-Bey mitgeteilt, daß Sie sich an Harst wenden wollen?«
 
 »Gewiß. Er war einverstanden. Die Polizei muß auf
@@ -716,7 +715,7 @@ Lückes Stimme wurde schärfer.
 
 »… Omar-Bey wurde acht Uhr fünfundvierzig in Jassowitz’
 Keller erschossen aufgefunden. Ich denke, das genügt
-wohl, Euch die Zungen zu lösen«.
+wohl, euch die Zungen zu lösen«.
 
 Ich legte die Auster hin, es war die zwanzigste, und goß
 schnell ein volles Glas Sekt hinab.
@@ -738,7 +737,7 @@ auf einmal«, sagte er bedrückt. »Ihr vom Alex arbeitet schnell
 und zuverlässig. — Wußten Sie etwas von dem Juwelendiebstahl
 bei der Gambys?«
 
-»Alles«, erwiderte Lücke — gereizt: »Die Zofe hat geplaudert,
+»Alles«, erwiderte Lücke gereizt. »Die Zofe hat geplaudert,
 auf Umwegen erfuhren wir es im Präsidium, aber
 wir standen der Sache sehr skeptisch gegenüber. — Dort
 sitzt die schöne Tussy, und alles, was sie da an Schmuck zur
@@ -755,7 +754,7 @@ Lücke fixierte ihn scharf. »Nur …?!«
 »Wer?! Der unechte Jassowitz niemals!«
 
 »So?!« Hans Lücke zerkrümelte seine Zigarette. »Wer
-denn sonst??!«
+denn sonst?!«
 
 Harst neigte sich vor. »Lücke, in dem Produktenkeller
 <@pagebreak/>
@@ -824,7 +823,7 @@ und müsse einen Teil der Juwelen für kurze Zeit gegen ein
 Darlehn verpfänden. Um sich den Rücken zu decken, solle
 der Diebstahl inszeniert werden. — Ahnungslos ging T. G.
 auf diesen fragwürdigen Vorschlag ein und nannte gestern
-nachmittag Omar-Avalescu den alten J als zuverlässigen
+nachmittag Omar-Avalescu den alten J. als zuverlässigen
 Geldgeber. Avalescu wieder schenkte ihr für den Ball fünf
 andere Schmuckstücke, alles tadellose Imitationen. Er versprach,
 gegen zehn im Europa-Hotel zu erscheinen. — Inzwischen
@@ -841,7 +840,7 @@ vier Personen, eine gut versorgte Speisekammer, verschiedene
 Anzüge und anderes. Die Permallons sind rechtzeitig über
 den Hof und durch das Haus der Parallelstraße geflüchtet.
 Ob sie mit dem Morde etwas zu tun haben, erscheint fraglich.
-Tatsache ist, daß heute früh bei der Firma Bord u. Co., Seidenhaus,
+Tatsache ist, daß heute früh bei der Firma Borg u. Co., Seidenhaus,
 die beiden Ballen Seide wieder abgegeben wurden,
 die Herr H. gestern dort gekauft hatte, um sich bei J. als Dieb
 einzuführen. Tatsache ist schließlich noch, daß aus der Wohnung
@@ -857,7 +856,7 @@ Botschaftssekretär hielt und sich keinerlei Vermögensvorteile
 verschaffen wollte. — Dieser vorstehende Kriminalfall beweist
 wieder einmal, wie leicht es genialen Schwindlern gemacht
 wird, in fremder Maske aufzutreten. Allerdings wurde Avalescu
-sein kühner Streich, Omar-Bey zu spielten, durch seine
+sein kühner Streich, Omar-Bey zu spielen, durch seine
 geheime Mission und eine entfernte Ähnlichkeit mit Selim
 Omar wesentlich vereinfacht. Unbegreiflich bei alledem bleibt
 ein Punkt, auf den Herr H. unseren A. K.-Berichterstatter
@@ -1155,7 +1154,7 @@ hatten sie das Auto, die Livreen und …«
 
 »Hier Uhland 9786 … — wer dort? Türkische Botschaft?!
 — Ja, hier ist Harst … Allerdings, ein Auto war
-Soeben noch vor unserem Hause … — Bitte, Exzellenz … Ich
+soeben noch vor unserem Hause … — Bitte, Exzellenz … Ich
 <@pagebreak/>
 erwarte Sie … Natürlich eine Frechheit … Es war einer
 der Permallons … Danke, Schluß.«
@@ -1200,7 +1199,7 @@ entgangen war.
 
 Ich wurde stutzig, als Mustafa Nadir äußerst diplomatisch
 mit genau denselben Anträgen herausrückte, das bereits
-sein Vorgänger uns weit knapper unterbreitet hatte …
+sein Vorgänger uns weit knapper unterbreitet hatte.
 
 Offenbar hatte F. Permallon genau gewußt, daß Mustafa
 zu uns kommen und uns eine hohe Summe für die Einstellung
@@ -1300,11 +1299,12 @@ etwa genau so weit entfernt wie die Erde vom Mond.
 Ich sah wohl ein mattes Leuchten, machte mir meine Gedanken
 über mancherlei. Auf dem Tisch lag das bewußte Mittagsblatt
 <@refnote 1/>
+
 Herren geworden, daß Harst sie ja nicht finden sollte, aber mit
 der »Theorie« war nicht viel anzufangen. Wollte man sich
 nicht dadurch vor aller Welt blamieren, daß man bisher Simili
 für echt gehalten?! Diese Verschleierungsart war denn doch
-etwas Sehr kostspielig und fast unmoralisch. So sehr meine
+etwas sehr kostspielig und fast unmoralisch. So sehr meine
 Sympathien der neuen Türkei gehörten: Es konnte Mord
 vorliegen, und ein Kapitalverbrechen verdunkelt man nicht durch
 allerlei Kniffe.
@@ -1367,7 +1367,7 @@ Fluten über die Schleuse wie ein Wasserfall hinweg. Das
 Mädchen geht unter, verschwindet in dem Gischt, aber ein
 stiller Beobachter rettet sie, nachdem der Orientale eilends
 in den Wald geflüchtet ist. Der Retter bringt sie in sein
-Häuschen. — — Dies Soll das erste Kapitel sein. — Ergebenst
+Häuschen. — — Dies soll das erste Kapitel sein. — Ergebenst
 Edgar Wallace.«
 
 Wir lächelten nicht einmal.
