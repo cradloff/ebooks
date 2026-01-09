@@ -76,7 +76,7 @@ Gedächtnis aufzufrischen …
 »Ja, leider«, nickte unser Gast gramvoll. »Sie
 war Hausiererin, und ihr Kellergeschäft …«
 
-»… eine Unterkunst aller verfolgten Missetäter
+»… eine Unterkunft aller verfolgten Missetäter
 …« »Auch das … Frau Hanschke behauptete stets, ich
 sei besserer Herkunft … Noch letztens betonte sie das
 wieder, als ich zu ihrem Geburtstag ein paar interessante
@@ -397,7 +397,7 @@ hatte.
 
 Also das pikante Mädel war hier im Gegensatz zu
 uns ohne vorhergehendes Läuten eingedrungen. Dies bewies,
-daß sie wußte, Hektor Orgin sei nicht daheim. — sehr
+daß sie wußte, Hektor Orgin sei nicht daheim. — Sehr
 merkwürdig!
 
 Der Fall begann mein Interesse zu erregen. Schon
@@ -483,7 +483,7 @@ keinen Zweck. Wenn es Privatdetektive sind, verstehen
 sie ihr Handwerk.«
 
 Das nächtliche, verregnete und bisher mißglückte
-Abenteuer behagte mir gar nicht mehr. ein Gefühl der
+Abenteuer behagte mir gar nicht mehr. Ein Gefühl der
 Unsicherheit bemächtigte sich meiner. Nie hatte ich
 vermutet, daß dieser kleine, unscheinbare Wicht von
 Hektor Orgin uns je so viel Scherereien bereiten würde.
@@ -550,7 +550,7 @@ sind für ihn »Schlußfolgerung«, »Detektiv« und »Problem«,
 sobald diese Ausdrücke mit seiner Person in Zusammenhang
 gebracht werden.
 
-»es ist heller Blödsinn«, meinte er dumpf, »Ein
+»Es ist heller Blödsinn«, meinte er dumpf. »Ein
 Mord ist für den Täter Quelle der Angst, für den Ermordeten
 vielleicht Erlösung, für die Polizei lediglich Arbeit,
 so ähnlich drückt sich Edgar Allan Poe aus. Ich behaupte:
@@ -737,7 +737,7 @@ unmöglich …«
 
 Gleich darauf waren wir frei.
 
-Wir liefen bis zur nächsten Straßenecke, Das Männlein
+Wir liefen bis zur nächsten Straßenecke. Das Männlein
 hatte wohl allzuviel Vorsprung gehabt. In der Köpenickerstraße
 war weder rechts noch links jemand zu bemerken. Nur
 ein Polizeibeamter kam langsam auf der anderen Seite
@@ -871,7 +871,7 @@ Herrn fragten? Privatsache, lieber Brach … Aber im
 Vertrauen: Wir sind da hinter einer merkwürdigen Geschichte
 her, die allerdings mit Konfektionseinbrechern gar
 nichts zu tun hat … Reichte die Absperrung über die
-Spreegasse hinaus?… Ja? Und bei der Berta Hanschke
+Spreegasse hinaus? … Ja? Und bei der Berta Hanschke
 war alles in Ordnung? Freut mich … Die Alte hat schon
 lange genug gesessen … — Noch eine Bitte, Brach … Ihre
 Beamten ließen doch einen Rolls-Royce durch, der dem
@@ -935,7 +935,7 @@ Zeit, Schwindler — — erledigt! Wir fassen ihn schon.
 das Mädel ist — entschuldige — Detektivin, der eine
 ihrer Begleiter eine hochstehende Persönlichkeit, der
 andere nur Goliath, Rausschmeißer, Boxer, vielleicht
-Diener des ersten, — — Nächste Frage: Wie fördern wir
+Diener des ersten. — — Nächste Frage: Wie fördern wir
 die Sache? Vorsicht ist dabei geboten. Nusche — der
 Kerl wird Gott wie heißen — dürfte uns kaltblütig abknallen,
 falls wir ihm in die Quere kommen. Trotzdem werde ich
@@ -947,7 +947,7 @@ wirst du Freund Lücke für Nusche interessieren. — Hallo
 Na, was berichteten Ihre Leute? Wie?! Das alte Männchen
 hieß Nusche … Alexander Nusche? Und konnte sich genügend
 als Buchdruckereibesitzer und Verleger ausweisen? —
-so?! Der Revierbeamte kennt ihn?… Bitte, nochmals die
+So?! Der Revierbeamte kennt ihn?… Bitte, nochmals die
 Adresse … Spreegasse 1, Hinterhaus vier Treppen … Danke
 … — Noch etwas? Etwas Unangenehmes? Nur zu! Ah — wir
 sollen Nusche nicht belästigen, — — die Amerikanische
@@ -1131,7 +1131,7 @@ Parafox spielte mit einem Scheckbuch.
 Harst. »Doch — die Frage ist nebensächlich. Was wünschen
 Sie in Wahrheit. Wir kennen uns ja bereits. Ihr Bekannter
 hat meine Stirn mit einer Beule verunziert, und Ihr
-Auto ist gut. Nusche ist noch besser, — Also reden
+Auto ist gut. Nusche ist noch besser. — Also reden
 wir nicht um Dinge herum, die sich nicht mehr ausschalten
 lassen.«
 
@@ -1230,7 +1230,7 @@ davon erzählt? Wir kamen da in die Razzia hinein wie
 Säuglinge in ein Nesselbeet … — Noch eine Bitte: Stellen
 Sie mir doch einen sehr genauen Bericht über Berta
 Hanschke zusammen, bei der Schrauts Kollege Hektor
-Orgin erzogen wurde Früher soll die Hanschke ja so
+Orgin erzogen wurde. Früher soll die Hanschke ja so
 etwas wie Findlingsmutter gewesen sein. Aber bitte,
 ganz genau … Auch all die armen Würmer mit hinein,
 die die Hanschke betreute … so weit ich mich erinnere,
@@ -1268,7 +1268,7 @@ die Finger, erwischte aber nur noch eine schmale Ecke.
 
 Darauf stand:
 
-»… sie haben sich einen Dummen ausgesucht, der
+»… Sie haben sich einen Dummen ausgesucht, der
 vielleicht doch nicht so ganz dumm ist. Der andere
 ist vielleicht …« Das Wort hinter »vielleicht« war
 bereits verkohlt, aber trotzdem noch als weißgraue
@@ -1314,7 +1314,7 @@ und schnitt Krepppapier in handliche Bierecke. Der
 Bengel warf die Wippnase hoch und fragte: »Wünschen?«
 
 »Deine Unverschämtheit wünsche ich mir«, meinte
-Harst, »packte zu und stellte das trübe Gewächs auf
+Harst, packte zu und stellte das trübe Gewächs auf
 die Beine. »Melde uns Herrn Nusche … Etwas fix … Hier
 unsere Karten …«
 
@@ -1385,7 +1385,7 @@ die mildeste Art von Zellen.«
 
 Alex Nusche hatte sich zu meinem Erstaunen immer
 höher aufgerichtet und saß nun wie ein beleidigter
-Gott da. Herr Harst«, krähte er rot vor Grimm, »Ihre
+Gott da. »Herr Harst«, krähte er rot vor Grimm, »Ihre
 Drohungen will ich überhören. Meine Privatverhältnisse
 gehen Sie gar nichts an. Mein Ruf ist makellos, und
 als Vorstand des okkultistischen Klubs »Vierte Dimension«
@@ -1409,10 +1409,10 @@ belächeln, — *ich* nicht! Ich wäre noch heute ein Bettler,
 wenn mir nicht die Losnummer auf dieselbe Weise genannt
 worden wäre.«
 
-»Harald horchte auf. »So?! Das erscheint mir etwas
+Harald horchte auf. »So?! Das erscheint mir etwas
 zweifelhaft, Herr Nusche.«
 
-»Es bedurfte nur dieses Anstoßes, und das Männlein
+Es bedurfte nur dieses Anstoßes, und das Männlein
 legte all seine Karten offen hin, nannte Namen, Daten,
 Adressen, ereiferte sich immer mehr und achtete gar
 nicht darauf, daß Harst mit der rechten Hand in der
@@ -1593,7 +1593,7 @@ wohl! Schert euch zum Teufel. Hier wohnt kein Hehler!«
 »Vierte Dimension!«, rief der eine im Boot wütend.
 
 Es war ein ungeheures Risiko von uns, so auf gut
-Glück dieses Passwort in Anwendung zu bringen, aber
+Glück dieses Paßwort in Anwendung zu bringen, aber
 Harst schien seiner Sache doch ziemlich sicher zu sein.
 
 »Ach so, — — na, dann wartet mal … — Von wem kommt
@@ -2517,9 +2517,9 @@ vermisse, gründeten diesen Verein …«
 Ein rauhes Lachen unterbrach ihn. Bechert holte
 mit kraftvollem Griff den schlotternden Doktor unter
 einer Bank hervor. »Oh … will alles gestehen«, keuchte
-Suknipp … Ich war dagegen, das …«
+Suknipp … »Ich war dagegen, daß …«
 
-»Maul halten!«, kreischte die Hanschke »Erst Beweise!
+»Maul halten!«, kreischte die Hanschke. »Erst Beweise!
 Wo sind sie?!«
 
 Harst sagte fast mitleidig: »Edgar Polens hat
