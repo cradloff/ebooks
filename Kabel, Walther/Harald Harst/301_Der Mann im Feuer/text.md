@@ -1,33 +1,8 @@
-»Harald Harst «
-
-Aus meinem Leben
-
-Band: 301
-
-Der Mann im Feuer
-
-Erzählt von
-
-Max Schraut
-
-Verlag moderner Lektüre G.&nbsp;m.&nbsp;b.&nbsp;H.
-
-Berlin SO 16, Michaelkirchstraße 23a
-
-Nachdruck verboten.  Alle Rechte, einschließlich
-das
-
-Verfilmungsrecht, vorbehalten. — Copyright 1931
-by
-
-Verlag moderner Lektüre G.m. b.H., Berlin SO 16.
-
-Druck: P. Lehmann, G.&nbsp;m.&nbsp;b.&nbsp;H.,
-Berlin SO 16.
+<h1>Der Mann im Feuer</h1>
 
 <h2>1. Kapitel.</h2>
 
-<h3>Der Geister- Verlag.</h3>
+<h3>Der Geister-Verlag.</h3>
 
 Hektor Orgin besuchte uns selten. Dieses merkwürdige
 Gewächs von Schriftsteller, der da in unserer Straße
@@ -61,18 +36,18 @@ Er war bei oberflächlicher Betrachtung eine Null.
 Hatte er jedoch eine Flasche Wein im Leibe, veränderte
 er sich in erstaunlicher Weise, taute auf und vergaß
 all sein Elend, erging sich in phantastischen Zukunftsträumen
-und deutete an, dass gerade seine dunkle Herkunft ihm
+und deutete an, daß gerade seine dunkle Herkunft ihm
 eines Tages vielleicht Millionen in den Schoß werfen
 würde.
 
 Dies war sogar nach anderthalb Flaschen Wein einziges
 Thema.
 
-<p class='centered'>Ich wurde nie so recht aus diesem kaum dreißigjährigen,
+Ich wurde nie so recht aus diesem kaum dreißigjährigen,
 halb ausgebackenen Jüngling klug. Es gab da seltsame
 Widersprüche in seinem Benehmen und seiner ganzen Art,
 die geradezu zum Nachdenken über dieses armselige Problem
-von Mensch anregen:</p>
+von Mensch anregen.
 
 »… Sagen Sie selbst, Herr Harst, — wenn ein Kind,
 wie in einem Schauerroman, in einem Hausflur gefunden
@@ -166,9 +141,9 @@ die mir unvergesslich bleiben wird.
 Wir standen vor einem Schaufenster, auf das mit
 Ölfarbe protzig aufgemalt war:
 
-<p class='centered'>Verlag »Vierte Dimension«.</p>
+<p class='centered em'>Verlag »Vierte Dimension«.</p>
 
-<p class='centered'>Buchdruckerei.</p>
+<p class='centered em'>Buchdruckerei.</p>
 
 <p class='centered'>Inhaber: Alexander Nusche.</p>
 
@@ -320,13 +295,13 @@ trotzig zusammen.
 Wir fanden nichts, was über das Mädel hätte Auskunft
 geben können.
 
-Sie lächelte frech,und herausfordernd.
+Sie lächelte frech und herausfordernd.
 
 »Nette Kollegen seid ihr!!«
 
 Harst besichtigte ihre tadellosen Einbrecherwerkzeuge.
 
-»Ganz neu!! —«Kindchen, wir nehmen dich mit! So
+»Ganz neu!! — Kindchen, wir nehmen dich mit! So
 ein Vogel muß man in den Käfig sperren, bis er vor
 Hunger den Schnabel auftut. — Los also, — Ede, halt
 sie fest … Und leise!«
@@ -343,7 +318,7 @@ gegen die Herzgrube, und während wir noch das Pflaster
 zierten, schoß der Wagen davon.
 
 »Amerikaner!!«, sagte er leise und nach Luft ringend.
-»Die Kerle hätten uns glatt totschlagen können. Die
+»Die Kerle hätten uns glatt totschlagen können. *Die*
 Muskeln möchte ich haben!! Und … das Auto! — — Taxe
 halt …«
 
@@ -422,7 +397,7 @@ hatte.
 
 Also das pikante Mädel war hier im Gegensatz zu
 uns ohne vorhergehendes Läuten eingedrungen. Dies bewies,
-dass sie wußte, Hektor Orgin sei nicht daheim. — sehr
+daß sie wußte, Hektor Orgin sei nicht daheim. — sehr
 merkwürdig!
 
 Der Fall begann mein Interesse zu erregen. Schon
@@ -433,7 +408,7 @@ konnte.
 Zunächst war ich auf die Entwicklung der Dinge
 hier in Orgins Künstlerwerkstatt außerordentlich gespannt.
 Zum zweiten Male sollte es uns nicht so ergehen, wie
-vorhin vor Herrn Rusches seltsamen Verlagsgeschäft.
+vorhin vor Herrn Nusches seltsamen Verlagsgeschäft.
 Wir mußten das Mädel unbedingt sehr ernsthaft ins Verhör
 nehmen. Irgendwie war sie an diesem noch unklaren Schwindelmanöver
 beteiligt.
@@ -662,9 +637,9 @@ die linke Scheibe die beiden kleinen Schaufenster eines
 sauberen Kellergeschäfts erkennen. Zwischen den Fenstern
 lag die Tür mit dem großen Firmenschild:
 
-<p class='centered'>Alte Möbel, Kleider, Hausrat.</p>
+<p class='centered em'>Alte Möbel, Kleider, Hausrat.</p>
 
-<p class='centered'>Billig, gut.</p>
+<p class='centered em'>Billig, gut.</p>
 
 <p class='centered'>Inh.: B. Hanschke.</p>
 
@@ -683,7 +658,7 @@ und eine beleuchtete Fensterreihe eines Vergnügungsdampfers,
 der am Bollwerk vertäut sein mußte, wurde durch lange
 Schatten immer wieder verdunkelt, gedämpfte Musik ertönte,
 und die Annahme lag nahe, daß man dort ein Bordfest
-feierte. Vieleicht war es ein Verein der Angestellten
+feierte. Vielleicht war es ein Verein der Angestellten
 einer Flußreederei.
 
 »Was erwarten Sie?«, fragte der Mann, der hier
@@ -746,7 +721,7 @@ Zwei halbunterdrückte Rufe folgten …
 
 »Und wer sind Sie?«
 
-Peinliches schweigen …
+Peinliches Schweigen …
 
 »Das nenne ich unehrliches Spiel!«, erklärte Harst
 empört. »Ich hatte geglaubt, wir würden fortan Seite
@@ -781,7 +756,7 @@ scharfen Augen lauerte unbestimmter Verdacht, und seine
 unter dem Regenumhang sich abzeichnende schlanke Gestalt
 hielt sich geradezu sprungbereit.
 
-»Weshalb folgen Sie dem Mann’?«, fragte er kurz
+»Weshalb folgen Sie dem Mann?«, fragte er kurz
 angebunden. »In dieser Gegend …« — er führte den Satz
 nicht zu Ende, sondern warf einen noch mißtrauischeren
 Blick auf das Auto, das an uns vorüberglitt. Es hielt
@@ -851,7 +826,7 @@ Stätte zweifellos berühmt war.
 
 Harst stieg wieder ein.
 
-»In der Tafelrunde wird er sein Honorar sehr schnell
+»In *der* Tafelrunde wird er sein Honorar sehr schnell
 flüssig machen«, meinte er doppelsinnig. »Ich wußte
 es ja, die beiden Flaschen Rotwein bei uns genügten
 ihm nicht.«
@@ -873,7 +848,7 @@ wäre in seiner Verkleidung niemals durch die Sperrkette
 gekommen. Zweitens: Die Insassen des Autos, das Trio,
 muß zur Kriminalpolizei allerbeste Beziehungen haben.
 Das Mädel als Chauffeur zeigte dem einen Beamten ein
-Papier, und sofort trat der Beamte zurück.« .
+Papier, und sofort trat der Beamte zurück.«
 
 »Hm«, meinte ich etwas enttäuscht, »— und was
 hilft uns das?!«
@@ -890,7 +865,7 @@ Sie sind es, Brach …«
 Das war der Kommissar der Razzia.
 
 »So, — Sie haben nur die Diebesbeute, den Rolls-Royce
-und den Chauffeur geschnappt … ? Die Diebe selbst nicht?
+und den Chauffeur geschnappt …? Die Diebe selbst nicht?
 — Weshalb wir den Schupo nach dem kleinen, bärtigen
 Herrn fragten? Privatsache, lieber Brach … Aber im
 Vertrauen: Wir sind da hinter einer merkwürdigen Geschichte
@@ -976,12 +951,12 @@ so?! Der Revierbeamte kennt ihn?… Bitte, nochmals die
 Adresse … Spreegasse 1, Hinterhaus vier Treppen … Danke
 … — Noch etwas? Etwas Unangenehmes? Nur zu! Ah — wir
 sollen Nusche nicht belästigen, — — die Amerikanische
-Botschaft hat darum ersucht? soeben? — Na gut, — —
+Botschaft hat darum ersucht? Soeben? — Na gut, — —
 dann nicht! — Danke … angenehme Ruhe, lieber Brach!«
 
 Harst kehrte mit sehr langem Gesicht zum Tische
 zurück. »Nette Bescherung, mein Alter … Wir sind kalt
-gestellt, dürfen Herrn Nusche nicht belästigen!! fabelhafter
+gestellt, dürfen Herrn Nusche nicht belästigen!! Fabelhafter
 Witz!! Natürlich werden wir prompt gehorchen. Aber
 daß ich bei Nusche eine Druckarbeit bestelle, dagegen
 kann niemand etwas einwenden. Du etwa?!«
@@ -994,7 +969,7 @@ Wir horchten.
 
 Das Klopfen wiederholte sich …
 
-Harst stürmte in den Flur, riß die Hauskür auf,
+Harst stürmte in den Flur, riß die Haustür auf,
 blieb aber dahinter stehen. Er hatte auch das Licht
 im Flur nicht eingeschaltet.
 
@@ -1100,7 +1075,7 @@ schien, zu überstehen, erfuhren wir noch genügend Nebenumstände,
 die den anfänglichen Verdacht, das Brautpaar könnte
 irgendwie mit Hektor Orgins geheimnisvoller Erbschaftsaffäre
 in Verbindung stehen, völlig zerstreuten. — Edgar Polens
-war Angestellter in einem Autogeschäft auf dem Kurfürstendamm.Seine
+war Angestellter in einem Autogeschäft auf dem Kurfürstendamm. Seine
 verstorbenen Eltern besaßen nur das eine Kind, der
 Vater war Verwalter eines großen Geschäftshauses in
 der City gewesen. Polens war vor drei Tagen gegen Mittag
@@ -1144,7 +1119,7 @@ mir am vergangenen Abend von einem Taschendieb gestohlen.«
 haben sich entschieden in der Adresse geirrt. Das Polizeipräsidium
 liegt am Alexanderplatz. Ich suche keine Uhren.«
 
-Parafox tiefdunkle Augen, überschattet von dicken
+Parafox’ tiefdunkle Augen, überschattet von dicken
 Stirnwülsten, behielten unverändert den — man könnte
 sagen »neutralen« Ausdruck bei. Harsts eisiger Ton
 hätte jeden anderen schleunigst verscheucht.
@@ -1218,7 +1193,7 @@ Mit diesem verschlossenen Herrn, der um keinen
 Preis seine Geheimnisse verraten wollte, war nichts
 anzufangen.
 
-Harst gähnte ungeniert. »Meine Uhr zeigt fast
+Harst gähnte ungeniert. »*Meine* Uhr zeigt fast
 halb sechs … Um diese Zeit gehen wir zu Bett, Herr
 Parafox. — Gute Nacht …«
 
@@ -1232,7 +1207,7 @@ Parafox heraus. »Ich muß die Uhr wiederhaben …«
 Harst knöpfte den Kragen ab. »Es wird draußen
 schon hell, Herr Parafox …«
 
-»Dann eben nicht!!«, rief der Amerikaner wütend.
+»Dann eben nicht!«, rief der Amerikaner wütend.
 
 Die Tür klappte zu, draußen surrte ein Auto, und
 Harst nahm den Hörer von der Gabel.
@@ -1241,7 +1216,7 @@ Harst nahm den Hörer von der Gabel.
 verhörte Fräulein Görner der Uhr wegen? — Ja, bitte,
 verbinden Sie mich … — Guten Abend, Freund Bechert
 … Das trifft sich ja ausgezeichnet … Wollen Sie mal
-die weißgoldene Uhr öffnen … — Was ist im Gehäuse—
+die weißgoldene Uhr öffnen … — Was ist im Gehäuse —
 nur eine Bleiplatte? — Nicht wahr, eine komische Uhr
 … Der Besitzer war soeben hier … — so, Sie haben ihn
 schon angerufen und immer umsonst. Mr. Parafox ist
@@ -1357,10 +1332,10 @@ denn der Besucher, ein stattlicher Herr mit strengem
 Gesicht, erschien plötzlich im Maschinenraum, begleitet
 von dem katzbuckelnden alten Männchen, Herr Alex Nusche.
 
-Der stattliche musterte uns scharf. Wir hatten
+Der Stattliche musterte uns scharf. Wir hatten
 auf jede Maske verzichtet, und Harsts Gesicht ist zu
 bekannt und auch zu prägnant, um nicht aufzufallen.
-Der Herr kümmerte sich um Rusche keinen Deut mehr,
+Der Herr kümmerte sich um Nusche keinen Deut mehr,
 trat auf Harald zu und flüsterte in tadellosem Englisch:
 
 »Mr. Harst? — Ich möchte Sie sprechen … Ich werde
@@ -1380,14 +1355,14 @@ blaurote Gurke, der Bart scheinbar ein Mottennest,
 der Gehrock wirkte, obwohl neu, wie die Zierde für
 eine Vogelscheuche.
 
-Rusche versuchte Haltung zu wahren. »Bitte, nehmen
+Nusche versuchte Haltung zu wahren. »Bitte, nehmen
 Sie Platz … Ich bin erstaunt, daß Sie hier …«
 
 »So gut Bescheid wissen?! Wir waren schon nachts
 hier, Herr Nusche.«
 
-Rusche ließ vier Zahnstummel vor Erstaunen sehen.
-»Herr , Harst, Ihre Scherze sind …«
+Nusche ließ vier Zahnstummel vor Erstaunen sehen.
+»Herr Harst, Ihre Scherze sind …«
 
 »Wir wollen jeglichen Scherz beiseite lassen.
 Ich habe mich nach Ihnen erkundigt, und meine Informationsquellen
@@ -1401,10 +1376,10 @@ beschränke mit jedoch aus das Wichtigste: Wer lieh
 Ihnen das Geld zu Einrichtung dieser Attrappe von Verlag,
 und was beabsichtigen Sie mit dieser Druckerei? — Ich
 kleide dieses Wichtigste in die Form von Fragen, obwohl
-ich die Antworten schon bereit habe. Falls Ihre Antworten
+ich die Antworten schon bereit habe. Falls *Ihre* Antworten
 nicht so ausfallen, wie es in Ihrem Interesse, und
 das heißt, im Interesse Ihrer Freiheit, wünschenswert
-wäre, dürften ‚Sie zum ersten Male Bekanntschaft mit
+wäre, dürften Sie zum ersten Male Bekanntschaft mit
 einer Untersuchungshaftzelle machen, — bekanntlich
 die mildeste Art von Zellen.«
 
@@ -1426,11 +1401,11 @@ hin. Es war Tatsache: Alex Nusche hatte vor drei Wochen
 auf seinen Anteil etwa 18&nbsp;000 Mark gewonnen! Nusche
 wollte hier nur Broschüren über sein etwas gefährliches
 Steckenpferd drucken lassen, Nusche erwähnte sogar
-von selbst den Vertrag mit Hektor Orgin … »Das ich
+von selbst den Vertrag mit Hektor Orgin … »Daß ich
 bei Orgins dunkler Herkunft die Klausel in den Verlagsvertrag
 einfügte, geschah auch nur auf den Rat der Jenseitigen,
 Herr Harst. Sie werden natürlich okkulte Phänomene
-belächeln, — ich nicht! Ich wäre noch heute ein Bettler,
+belächeln, — *ich* nicht! Ich wäre noch heute ein Bettler,
 wenn mir nicht die Losnummer auf dieselbe Weise genannt
 worden wäre.«
 
@@ -1440,7 +1415,7 @@ zweifelhaft, Herr Nusche.«
 »Es bedurfte nur dieses Anstoßes, und das Männlein
 legte all seine Karten offen hin, nannte Namen, Daten,
 Adressen, ereiferte sich immer mehr und achtete gar
-nicht darauf, dass Harst mit der rechten Hand in der
+nicht darauf, daß Harst mit der rechten Hand in der
 Ulstertasche andauernd eigentümliche Bewegungen machte,
 — er schrieb mit, und als wir nachher mit höflichen
 Entschuldigungen die Druckerei verließen, hatten wir
@@ -1454,7 +1429,7 @@ war.
 Harst gab dieser Überzeugung »Entweder — oder«
 mit wenigen Sätzen Ausdruck. Dann stand schon jener
 stattliche Fremde vor uns, der auf uns hatte warten
-wollen. Er faste an den Hutrand … »Ernest Shneelop,
+wollen. Er faßte an den Hutrand … »Ernest Shneelop,
 mein Name … Vertreter der Rolls-Maschinenfabriken …«
 — Wieder tadelloses Englisch. »Mr. Harst, nur eine
 Frage gestatten Sie mir, die sehr leicht zu beantworten
@@ -1477,7 +1452,7 @@ und sagte schnell:
 
 »Finden Sie Polens, und Sie erhalten einen Scheck
 über eine halbe Million Mark, Mr. Harst … Nachricht
-bitte postlagernd SO 16, »Aschenbrödel«… Wiedersehen
+bitte postlagernd SO 16, »Aschenbrödel« … Wiedersehen
 …«
 
 Er faßte an den Hut und im Nu war die große schwere
@@ -1495,22 +1470,14 @@ Papier hervor, enge Maschinenschrift. »Bechert schickte
 mir heute gegen zehn den Bericht über Berta Hanschke
 … Bitte, hier unten …
 
-<p class='centered'>»Vor einem Monat kaufte sie den zum Abwracken
-bestimmten Dampfer</p>
-
-»Aschenbrödel« in der Auktion für achttausend
-Mark und hat ihn jetzt an
-
-einen okkultistischen Verein weitervermietet.
-Die verglasten Deckkajüten
-
-sind heizbar. Vorstand des Vereins ist der Arzt
-Dr. Sigmar Suknipp, der als
-
-Arzt weniger Erfolg hat wie als Gründer aller
-möglichen Vereinigungen von
-
-geistig Minderbegabten.«
+> »Vor einem Monat kaufte sie den zum Abwracken
+bestimmten Dampfer »Aschenbrödel« in der Auktion für
+achttausend Mark und hat ihn jetzt an einen
+okkultistischen Verein weitervermietet.
+Die verglasten Deckkajüten sind heizbar. Vorstand
+des Vereins ist der Arzt Dr. Sigmar Suknipp, der als
+Arzt weniger Erfolg hat wie als Gründer aller möglichen
+Vereinigungen von geistig Minderbegabten.«
 
 Harst steckte den Bogen wieder ein. Mir blieb
 so ziemlich der Atem weg.
@@ -1533,9 +1500,9 @@ auf Hilde Görner in der Nacht war vielsagend genug
 gewesen. Ihr Schicksal war ungewiß wie das Edgar Polens,
 den wir noch nicht einmal zu Gesicht bekommen hatten.
 
-2\. Teil.
+<p style="text-align: center; font-size: x-large;">2. Teil.</p>
 
-»Die vierte Dimension«.
+<h1>»Die vierte Dimension«.</h1>
 
 <h2>1. Kapitel.</h2>
 
@@ -1756,7 +1723,7 @@ rund fünfzig Millionen geht — — Dollar, nicht Mark!
 Und da wollen sie plötzlich feige zurückweichen? Ihre
 Angst vor Harst ist albern. Ich möchte den sehen, der
 auch nur im entferntesten Verdacht schöpfen könnte!
-Ob der alte Narr, der Rusche, heute vormittag so allerlei
+Ob der alte Narr, der Nusche, heute vormittag so allerlei
 ausgeplaudert hat, ist ohne Bedeutung. Was hilft das
 Harst?! Gar nichts! Es bleibt bei dem, was beschlossen
 wurde, — — nicht wahr, Frau Hanschke?«
@@ -1875,7 +1842,7 @@ zu behaupten belieben …« — Der Vorwurf war deutlich.
 
 Harst meinte etwas zerstreut: »Habe ich das behauptet?
 Sie kennen die ganze Geschichte mit allen Einzelheiten,
-Bechert, Schraut kennt sie auch, wir haben Ihnen.nichts
+Bechert, Schraut kennt sie auch, wir haben Ihnen nichts
 verhehlt, ich erklärte schon, daß einige Punkte restlos
 erledigt sind, das heißt, Vermutungen haben sich bestätigt
 und unrichtige sind korrigiert worden. Ich war zunächst
@@ -2082,7 +2049,7 @@ Ich schaute schärfer hin …
 
 Die Helle war unnatürlich!
 
-Ein fürchterlicher Verdacht stieg in mir aus.
+Ein fürchterlicher Verdacht stieg in mir auf.
 
 Ich raste die Treppe hinab, — vielleicht handelte
 ich übereilt … Es war gleichgültig.
@@ -2173,7 +2140,7 @@ verschwand.
 
 Wir sahen ihn wieder auftauchen …
 
-Mit einer Last im Arm.
+*Mit* einer Last im Arm.
 
 Die dichte Mauer der Neugierigen brach in überlaute
 Jubelrufe aus. Und als ob das gierige Element, das
@@ -2309,7 +2276,7 @@ Auto der Rolls-Royce des Mr. Parafox gewesen, noch
 beeiden könnte, einen der Insassen erkannt zu haben.
 Auch Schraut und Bechert dürften als Belastungszeugen
 gegen die Drebbers, denen ich trotz allem die Brandstiftung
-zutraue, in Betracht kommen. Das die Drebbers für ihr
+zutraue, in Betracht kommen. Daß die Drebbers für ihr
 Alibi gesorgt haben, wissen Sie bereits, meine Herren.«
 
 Die Gesichter ringsum wurden immer länger.
@@ -2346,7 +2313,7 @@ völlig abwegige Auffassung. »Wenn diese Mordversuche
 mit den verwünschten fünfzig Millionen Dollar zusammenhängen,
 so muß man doch erst mal klären, wie dieser Betrug
 inszeniert werden sollte! Erbschaft?! Erbe, Erblasser?!
-— alles Nebelwolken … ! Ich will aber Klarheit haben!
+— alles Nebelwolken …! Ich will aber Klarheit haben!
 Die Gesellschaft läuft uns nicht davon, die Spürhündchen,
 die an deren Fersen kleben, lassen nicht locker. Also
 — Unsinn, — warten wir noch eine Weile.«
@@ -2422,7 +2389,7 @@ in dem Küchenraum des »Aschenbrödel« den Dampfer heimlich
 besucht und mir dabei den Kessel als Versteck hergerichtet
 hatte. Als man mich letztens — und wieder war es Lea
 Repp — heimtückisch betäubte und dort einsperrte, hatte
-ich die Kesseltür längst so hergerichtet, dass sie
+ich die Kesseltür längst so hergerichtet, daß sie
 sich von innen öffnen ließ. Lea Repp und der Mann mit
 dem Boxergesicht, der Diener, sind …«
 
@@ -2553,7 +2520,7 @@ einer Bank hervor. »Oh … will alles gestehen«, keuchte
 Suknipp … Ich war dagegen, das …«
 
 »Maul halten!«, kreischte die Hanschke »Erst Beweise!
-Wo sind sie?!« |
+Wo sind sie?!«
 
 Harst sagte fast mitleidig: »Edgar Polens hat
 Ihr Treiben hier lange genug beobachtet … Sie hofften
@@ -2603,7 +2570,7 @@ etwas … leichtgläubig hinstelle. Sie waren es aber.«
 bereits so viel Kriminalromane geschrieben hat und
 …«
 
-»… Ja, Sie ließen sich dazu verleiten, dem Verein
+»… ja, Sie ließen sich dazu verleiten, dem Verein
 »Vierte Dimension« beizutreten, und bei einer der Geistersitzungen
 dürfte man Sie betäubt und …  gebrannt haben.«
 
@@ -2676,14 +2643,15 @@ Besessene …«
 Und wieder Stille …
 
 Draußen auf dem Fluß das Tuten eines Schleppers
-… Kleine Wellen klatschten gegen die Bordwand des »Aschenbrödel«…
+… Kleine Wellen klatschten gegen die Bordwand des
+»Aschenbrödel« …
 
 Lylian Drebbers verzweifeltes Schluchzen mischte
 sich wehmütig in diese plätschernden Geräusche. — Tränen
 der Reue, die zu spät kamen, vielleicht doch nicht
 ganz zu spät. — —
 
-Und gerade heute abend,wo ich diese Erinnerungen
+Und gerade heute abend, wo ich diese Erinnerungen
 aufgefrischt habe, sitzt bei uns als Gast ein sehr
 patentes, sehr großmäuliges und doch harmloses Kerlchen:
 Hektor Orgin, auf den ebenfalls von dem Millionenregen
@@ -2705,7 +2673,6 @@ Orgin kratzte sich zerstreut die bewußte Stelle
 am Rücken. »Es war in der Tat eine unglaubliche Geschichte«,
 nickte er träumerisch und trank sein Glas leer …
 
-Nächster Band:
-
-<p class='centered'>Die Hungerklippe.</p>
+<#import "*/harst.ftl" as harst>
+<@harst.naechsterband band="Die Hungerklippe."/>
 
