@@ -76,8 +76,9 @@ Gedächtnis aufzufrischen …
 »Ja, leider«, nickte unser Gast gramvoll. »Sie
 war Hausiererin, und ihr Kellergeschäft …«
 
-»… eine Unterkunft aller verfolgten Missetäter
-…« »Auch das … Frau Hanschke behauptete stets, ich
+»… eine Unterkunft aller verfolgten Missetäter …«
+
+»Auch das … Frau Hanschke behauptete stets, ich
 sei besserer Herkunft … Noch letztens betonte sie das
 wieder, als ich zu ihrem Geburtstag ein paar interessante
 Stunden bei ihr verlebte, die ich in meinem Kriminalroman
@@ -102,7 +103,7 @@ Orgin setzte sich kerzengerade. »Fünftausend Mark
 
 »Bitte, — hier ist der Vertrag, den ich mit Herrn
 Verleger Nusche geschlossen habe … Lesen Sie nur, Herr
-Harst. Auch Herr Nusche meint, das ich noch eine große
+Harst. Auch Herr Nusche meint, daß ich noch eine große
 Zukunft hätte, wenn …«
 
 Harst las — las immer wieder.
@@ -226,7 +227,7 @@ In dem Vorderraum hörte ich Geräusche. Jemand
 zog dort Schiebladen auf, und dann fiel ein greller
 Lichtkegel in dieses Schwindlerkontor.
 
-Ich hatte die Kleine Trösterin schon entsichert
+Ich hatte die kleine Trösterin schon entsichert
 in der Hand.
 
 Harst stieß mich an, flüsterte an meinem Ohr:
@@ -354,7 +355,7 @@ Blamage für die gesamte Schloßfabrikation.
 Wir traten ein, versperrten die Tür, und aus dem
 winzigen Flur, der zugleich die Küche darstellte, gelangten
 wir in Orgins Poetengemach und Schlafkabinett, Eßzimmer
-und Wintergarten, alles in einem Raum von 5X5 Meter
+und Wintergarten, alles in einem Raum von 5⨉5 Meter
 vereint. Den Wintergarten markierten zwei schwindsüchtige
 Zimmerlinden. Das Bett stand hinter einem Wandschirm,
 dessen Löcher mit Heftpflaster zugeklebt waren. Die
@@ -374,7 +375,7 @@ er wird heute oder morgen total beschwipst heimkehren.«
 »Kaum«, sagte Harst und tippte auf der Maschine,
 spannte ein Blatt ein und schrieb:
 
-Die Perle stammt aus einem Drei-Mark-Basar, er
+> Die Perle stammt aus einem Drei-Mark-Basar, er
 wird sich nicht einkleiden, dazu ist er zu geizig.
 
 Dann steckte er das Blatt in die Tasche.
@@ -484,7 +485,7 @@ sie ihr Handwerk.«
 
 Das nächtliche, verregnete und bisher mißglückte
 Abenteuer behagte mir gar nicht mehr. Ein Gefühl der
-Unsicherheit bemächtigte sich meiner. Nie hatte ich
+Unsicherheit bemächtigte sich meiner. Nie hätte ich
 vermutet, daß dieser kleine, unscheinbare Wicht von
 Hektor Orgin uns je so viel Scherereien bereiten würde.
 
@@ -535,7 +536,7 @@ Der Mann lachte im Halbdunkel. Er hatte auf dem
 Schoße eine Taschenlampe liegen, die wenig Licht spendete.
 Die Fenstervorhänge waren geschlossen. In dem kurzen
 Auflachen des Fremden schwang ein Ton mit, der ebenso
-hochmütig wie selbstbewußt war. »Last die Geschichten,
+hochmütig wie selbstbewußt war. »Laßt die Geschichten,
 ihr beiden …! Wie tief ihr in der Patsche sitzt, werdet
 ihr sehr bald merken. Ein Mord ist immerhin kein Kaninchenschlachten.«
 
@@ -805,7 +806,7 @@ wie ich beobachtete, ohne weiteres durchgelassen. Seltsam
 
 <h3>Hilde Görner als Taschendiebin.</h3>
 
-Und wieder tauschte ich mich, als ich vermutete,
+Und wieder täuschte ich mich, als ich vermutete,
 wir würden jetzt endlich daheim im behaglich warmen
 Zimmer landen. Harald ließ den Chauffeur vor einer
 bewußten Eckkneipe in unserem Vorort halten und ging
@@ -892,7 +893,7 @@ Er hängte ab und kam langsam zum Tisch zurück.
 »Du siehst, mein Alter, das Trio waren sehr vornehme
 Bekanntschaften. Sollte etwa Hektor Orgins Herkunft
 nach Amerika hinüberspielen?! — Die Konfektionseinbrecher
-sind ihre Beute los, sie selbst sind bis aus den Chauffeur
+sind ihre Beute los, sie selbst sind bis auf den Chauffeur
 entwischt … Und der Rolls-Royce, den sie benutzten,
 war natürlich gestohlen, erst heute Abend, sagte Brach,
 und gehörte auch der Botschaft … — Das sind für meinen
@@ -1053,7 +1054,7 @@ gewesen und habe schon abends zu uns kommen wollen
 geblieben, und auf der Strecke Wittenbergplatz—Fehrbellinerplatz
 der U-Bahn hatte der eine sie wegen Taschendiebstahls
 festnehmen lassen. In ihrem Handtäschchen steckte auch
-eine ihr Fremde, sehr wertvolle flache Herrenuhr aus
+eine ihr fremde, sehr wertvolle flache Herrenuhr aus
 Weißgold mit Platinkette, und man hatte sie dieserhalb
 vier Stunden auf der Polizei zurückgehalten, obwohl
 es doch widersinnig war, sie eines Diebstahls zu beschuldigen.
@@ -1110,7 +1111,7 @@ auf vierzig, er selbst schätzte es nicht, die Vorgänge
 der Nacht irgendwie zu erwähnen, sondern spielte den
 gänzlich Unbefangenen.
 
-»Herr Harst, im komme meiner Taschenuhr wegen
+»Herr Harst, ich komme meiner Taschenuhr wegen
 zu Ihnen …«, begann er ohne jede Einleitung. »Es war
 eine weißgoldene flache Uhr mit Platinkette. Sie wurde
 mir am vergangenen Abend von einem Taschendieb gestohlen.«
@@ -1162,7 +1163,7 @@ Ulstertasche steckte dieser Zettel. Bitte …«
 Harst nahm das zerknitterte Papier gelangweilt
 entgegen. Ich beugte mich vor und las mit — Maschinenschrift:
 
-Sie erhalten die Uhr rechtzeitig zurück. Erstatten
+> Sie erhalten die Uhr rechtzeitig zurück. Erstatten
 Sie keine Anzeige.
 
 Das war alles.
@@ -1286,7 +1287,7 @@ Kamin hinein. »Du wirst uns noch viel Arbeit machen
 billiger als Erbsen werden.«
 
 Die arme Hilde Görner wurde bei uns allseits so
-liebevoll bemuttert, das sie gar keine Sehnsucht nach
+liebevoll bemuttert, daß sie gar keine Sehnsucht nach
 ihrem Stübchen zeigte. Auch sie stand im Leben ganz
 allein da. Ein paar alte Tanten rechnete sie nicht.
 Das waren Damen jener Art, die nach dem Grundsatz lebten:
@@ -1310,7 +1311,7 @@ dieser tollen Lotterie nur ein Freilos.
 Im »Maschinensaal« des Verlags »Vierte Dimension«
 putzte ein Arbeiter die Altertumsmuseum-Rotationsmaschine
 und ein Bengel in Livree lümmelte sich auf einem Stuhl
-und schnitt Krepppapier in handliche Bierecke. Der
+und schnitt Krepppapier in handliche Vierecke. Der
 Bengel warf die Wippnase hoch und fragte: »Wünschen?«
 
 »Deine Unverschämtheit wünsche ich mir«, meinte
@@ -1372,7 +1373,7 @@ von Unterstützungen und zuletzt auch von Gelegenheitsgeschäften
 mit einer gewissen Dame, die über den staatserhaltenden
 Beruf einer Hebamme in dunklere Kreise hinabsank. Ich
 könnte Ihnen natürlich noch mehr Einzelheiten auftischen,
-beschränke mit jedoch aus das Wichtigste: Wer lieh
+beschränke mich jedoch auf das Wichtigste: Wer lieh
 Ihnen das Geld zu Einrichtung dieser Attrappe von Verlag,
 und was beabsichtigen Sie mit dieser Druckerei? — Ich
 kleide dieses Wichtigste in die Form von Fragen, obwohl
@@ -1484,7 +1485,7 @@ so ziemlich der Atem weg.
 
 Mir blieb er völlig weg, als wir gegen halb drei
 zu Tische nach Hause kamen und von Haralds Mutter hörten,
-das Hilde Görner ein wenig in den Gemüsegarten gegangen
+daß Hilde Görner ein wenig in den Gemüsegarten gegangen
 sei, und als wir dann ganz umsonst nach ihr suchten.
 Hinten am Zaun lag ihr zerdrückter Hut, auf dem Feldweg
 ein zerbrochener Schirm. Der aufgeweichte Boden des

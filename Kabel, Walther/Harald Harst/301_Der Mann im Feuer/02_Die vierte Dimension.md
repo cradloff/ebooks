@@ -23,13 +23,13 @@ es ein Weiterleben nach dem Tode oder nicht? Und als
 Ausläufer dieser Frage die anderen, die das dunkle
 Reich der »Wunder« streifen.
 
-Das ein okkultistischer Verein, für den doch ein
+Daß ein okkultistischer Verein, für den doch ein
 finsteres Kellergewölbe der geeignetste Versammlungsort
 gewesen wäre, sich einen alten Dampfer mietet, war
 zumindest originell.
 
 Diese Nacht war vielleicht die unfreundlichste,
-die uns unseren Unternehmungen je beschert wurde.
+die uns bei unseren Unternehmungen je beschert wurde.
 
 Ein hohler Wind pfiff die Spree entlang, verfing
 sich in den Masten und Schornsteinen der am Kai vertäuten
@@ -52,7 +52,7 @@ Nebel.
 
 Es war eine Nacht, in der kein Hund Sehnsucht
 nach Hausecken und Sträuchern und Bäumen verspürt und
-auf das einer Rasse eigentümliche Beinhochheben lieber
+auf das seiner Rasse eigentümliche Beinhochheben lieber
 verzichtete.
 
 Jenseits der Liegestelle des Dampfers »Aschenbrödel«
@@ -117,7 +117,7 @@ Laterne, zum Glück.
 Heute ist Sitzung, und die Alte hat keine Zeit …«
 
 Wir gaben ihm die Pakete. Wenn der Mann geahnt
-hätte, das die Stoffballen und Seidenrollen aus dem
+hätte, daß die Stoffballen und Seidenrollen aus dem
 wohlsortierten Lager der Polizei stammten, hätte er
 sich wohl etwas in die Ohren gekniffen.
 
@@ -176,7 +176,7 @@ und stöhnte und ächzte, — Polizeiboote sausten tutend
 stromauf und stromab, — dann plätscherte es an den
 Bordwänden wie Brandung. Und noch eins: Der Regen!!
 Es war genau so eine unfreundliche Nacht wie die vorige,
-es war windig, Regenboen prasselten hernieder, im Schornstein
+es war windig, Regenböen prasselten hernieder, im Schornstein
 des alten Eisenkahnes jaulte der Sturm wie ein Märzkater.
 
 »Klappe hoch!«, flüsterte Harst …
@@ -188,7 +188,7 @@ dicker Vorhang hing noch vor der Öffnung, ein Perserteppich,
 wie ich an dem rückseitigen Gewebe sah. Harst nahm
 sein Messer, — ein Schnitt — noch einer … Ich hatte
 die Holzklappe oben festgeklammert, bohrte nun mein
-Guckloch größer, horchte,… und sah …
+Guckloch größer, horchte, … und sah …
 
 Es war die untere Heckkajüte, — ganz schwarz ausgeschlagen,
 keine Fenster mehr, nur zwei Karbidlampen an der Decke,
@@ -199,7 +199,7 @@ waren frei.
 Obenan saß ein verschrumpelter Kerl mit Hornbrille
 und ungeheurer Glatze und breitem Fischmaul: Doktor
 Sigmar Suknipp, — wir wußten es. Rechts von ihm eine
-weißhaarige magere Dame in schwarz mit fast edlen Zügen:
+weißhaarige magere Dame in Schwarz mit fast edlen Zügen:
 Berta Hanschke! Dann ein paar unbekannte Gesichter,
 und dann — ich traute meinen Augen nicht! — der Kerl
 mit der Boxerfaust, Mr. Joe Drebber, und neben ihm
@@ -216,7 +216,7 @@ Eisiger Hohn lag in diesem frischen Antlitz, noch
 höhnischer und brutaler war die scharfe, beißende Stimme.
 
 »Bedenken?!« Sie lachte schrill und blickte Doktor
-Suknipp herausfordernd an, »Sie vergessen, daß es um
+Suknipp herausfordernd an. »Sie vergessen, daß es um
 rund fünfzig Millionen geht — — Dollar, nicht Mark!
 Und da wollen sie plötzlich feige zurückweichen? Ihre
 Angst vor Harst ist albern. Ich möchte den sehen, der
@@ -275,7 +275,7 @@ Ich drehte den Kopf. Es war völlig dunkel ringsum,
 nur durch mein Guckloch fiel von der erleuchteten Kajüte
 her eine schmale Lichtbahn in die Finsternis. In diesem
 dünnen, hellen Streifen erschienen zwei Beinpaare,
-ich vernahm ein stöhnen, dann ein rasches Flüstern,
+ich vernahm ein Stöhnen, dann ein rasches Flüstern,
 trat zurück, — Harst hielt den Hals eines Mannes umklammert.
 
 »Ich … hatte auf sie … gerechnet«, flüsterte der
@@ -383,7 +383,7 @@ plant — ich denke an den »Beschluß« bei der heutigen
 Sitzung — läßt sich unschwer erraten. Sie wollen Polens
 und Hilde endgültig beseitigen. Vorläufig besteht für
 die beiden keine Gefahr, da die Sippe äußerst vorsichtig
-zu Werke gehen muß. Sie weiß, das ich hinter ihnen
+zu Werke gehen muß. Sie weiß, daß ich hinter ihnen
 her bin, sie werden morgen sogar ganz kopfscheu werden,
 wenn die beiden Gauner sich für die Stoffballen die
 Bezahlung nicht abholen. Möglich, daß die Leutchen
@@ -458,7 +458,7 @@ Er horchte plötzlich.
 
 Der Regen hatte nachgelassen, der Wind hielt Atempause.
 
-Irgendwoher kam das leise schnurren eines Autos,
+Irgendwoher kam das leise Schnurren eines Autos,
 verstummte.
 
 Harst war schon im Flur.
@@ -693,7 +693,7 @@ mit bestem Rotwein bewirtet wurde, während Hilde Görner
 und Frau Harst behaglich im Speisezimmer beisammen
 saßen.
 
-Einer der Herren betonte, das Mr. Parafox noch
+Einer der Herren betonte, daß Mr. Parafox noch
 immer in dem feudalen Hotel mit seinem »Diener« und
 dessen Tochter wohne und sich nach wie vor weigere,
 irgend welche Angaben darüber zu machen, was ihn nach
@@ -731,7 +731,7 @@ Rezepte für Schönheitsmittel diktiert. Wer sich für
 den Bombastus-Fall interessiert, lese in »Wulffen,
 Gauner- und Verbrechertypen« nach.) Sogar Hilde Görner
 hatte im Grunde nur wenig zu Protokoll geben können.
-Als sie bei uns im Gemüsegarten frische Lust geschöpft
+Als sie bei uns im Gemüsegarten frische Luft geschöpft
 hatte, war das Auto langsam den Feldweg entlanggekommen.
 Eine ältere, verschleierte Dame hatte sich hinausgebeugt
 und dabei ihre Handtasche verloren. Hilde eilte hin,
@@ -830,7 +830,7 @@ genügt eine nette Mausefalle mit einem Stückchen Speck
 … Der Speck heißt Hektor Orgin. Ich werde das schon
 zur rechten Zeit befingern.«
 
-Bald daraus waren wir allein. Nicht lange … Hilde
+Bald darauf waren wir allein. Nicht lange … Hilde
 Görner kam ganz aufgeregt hereingestürmt und meldete,
 daß Edgar Polens vorhin endlich die ersten Worte gesprochen
 und … ihr sogar einen Kuß gegeben hätte.
@@ -919,7 +919,7 @@ Ich wagte eine entscheidende Bemerkung: »Shneelop
 ist Orgins Vater, und Hamilton Parafox ist der Vater
 von Polens! Stimmt es?«
 
-Harst lachte so herzlich, das unser dritter Patient
+Harst lachte so herzlich, daß unser dritter Patient
 Hektor Orgin unten verwundert aus meiner Tür schaute.
 »So vergnügt?!«, meinte er verlegen und zog sich rasch
 die Jacke des Schlafanzugs über der Brust zusammen.
@@ -947,7 +947,7 @@ mit Hamilton Parafox’ Hotel. Der Amerikaner wurde dort
 an den Apparat geholt, und Harst bat ihn, sich bestimmt
 in einer halben Stunde in der Spreegasse einzufinden.
 Alle Ausflüchte des Herrn machte er mit den Worten
-zunichte: »Die Wahrheit kann nicht langer verborgen
+zunichte: »Die Wahrheit kann nicht länger verborgen
 bleiben. Joe Drebber und Tochter haben Sie schändlich
 hintergangen.« — Eine dritte Verbindung bestellte Bechert
 mit größerem Aufgebot nach derselben Gasse am Fluß.
@@ -1085,7 +1085,7 @@ diesem Brandmal versehen werden — und wurden »gebrannt«,
 ohne daß Sie es ahnten.«
 
 Hektor Orgin klappte den Mund geräuschvoll wieder
-zu. »Donnerwetter!«, meinte er, respektvoll, »Frau
+zu. »Donnerwetter!«, meinte er respektvoll, »Frau
 Hanschke, Sie haben wirklich Phantasie! Und mir erzählen
 Sie, ich hätte das Mal stets gehabt, es sei jetzt nur
 durch den »Geist« wieder sichtbar gemacht worden! Immerhin,
@@ -1111,7 +1111,7 @@ haben ganz recht, Sie halfen mit, zwei Leben zu zerstören
 … Auch ich bin Junggeselle geblieben, ich bin Ernst
 Polens, und mein Name ist in Hamburg allbekannt. Ich
 trage Ihnen nichts mehr nach … Die Jahre helfen über
-vieles hinweg. — Das ich hier nun ebenfalls nach meinem
+vieles hinweg. — Daß ich hier nun ebenfalls nach meinem
 Kinde suchte, war kein Zufall. Ich las Ihren Namen
 in der Hotelliste und merkte sehr bald, weshalb Sie
 sich in Berlin aufhielten. Um Ethels willen, — — hier
