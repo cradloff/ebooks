@@ -38,7 +38,7 @@ kein einziges Haar auf dem Kopf und ein fabelhaft einfältiges,
 um nicht zu sagen dummes Gesicht.
 
 Exzellenz von Olden, bei dem Graham Bell früher
-in Dienst gestanden, war vor in paar Jahren verstorben.
+in Dienst gestanden, war vor ein paar Jahren verstorben.
 Er hatte aus Gründen, die niemand recht kannte, die
 letzte Zeit fast dauernd im Auslande zugebracht und
 sich einen großen Ruf als Jäger, Forscher und Photograph
@@ -62,7 +62,7 @@ fast ängstlich aus. Dabei hatte er an der alten Exzellenz,
 einem vollendeten Kavalier, mit größter Treue und Liebe
 gehangen, und wenn er einmal auf die Jagdzüge zu sprechen
 kam, die er mit dem großen, kühnen Sportmann in aller
-Herren Länder unternommen, leuchtete sein Gesicht im
+Herren Länder unternommen, leuchtete sein Gesicht in
 glückseligen Erinnerungen förmlich auf. —
 
 Es war so etwa acht Monate nach dem Falle vom
@@ -83,7 +83,7 @@ Platz.
 zerfahren, »— ich habe einen Brief erhalten und …«
 
 Graham, der außer Kahlkopf und Kuhohren noch stark
-aufgeblähte Rüstern hatte, hüstelte kräftig.
+aufgeblähte Nüstern hatte, hüstelte kräftig.
 
 Orgin kam aus dem Konzept. »Weshalb krächzen Sie,
 Graham?!«
@@ -136,7 +136,7 @@ Graham zog aus seiner tadellosen blauen Jacke
 ein Heft hervor.
 
 »Dies hier ist die neueste Nummer der in Stockholm
-erscheinende Funkzeitschrift, und dieser Artikel behandelt
+erscheinenden Funkzeitschrift, und dieser Artikel behandelt
 dasselbe Thema wie die Briefe.«
 
 Orgin fuhr hoch. »Davon haben Sie mir ja keine
@@ -505,7 +505,7 @@ längst in eine wertvolle Kurve abbiegen sollen. Wir
 hätten als Privatfachleute dem alten Amtsschimmel,
 der auch vor uns als Zugtier hertrottete, im Stall
 das Gnadenbrot geben sollen, und uns mit aller Kraft
-der idealen Ausgabe widmen müssen, lediglich Entgleiste
+der idealen Aufgabe widmen müssen, lediglich Entgleiste
 zu bessern — in dem Sinne, wie ich es vorhin an einem
 erfundenen Beispiel erwähnte. — — Da sind wir schon
 … Und nun bitte: Du bist Hamburger, Heringsgroßhändler,
@@ -541,7 +541,7 @@ Vorhang zurück und nannte unsere Namen.
 
 Sörensens Gesicht war mir nicht fremd. Er war
 in Mode, und Zeitungen und Zeitschriften wimmelten
-von sein maskierten Reklameschildern.
+von fein maskierten Reklameschildern.
 
 Dieser kleine, fette Herr mit den Hängebacken,
 dem dünnen Scheitel und den glanzlosen Augen war zwar
@@ -573,7 +573,7 @@ hatte.
 
 Harst übernahm die Antwort. »Wir haben da einen
 Brief erhalten mit einem geschäftlichen Vorschlag,
-der vieles verspricht, der aber aus arg zurechtgestutzt
+der vieles verspricht, der aber auch arg zurechtgestutzt
 sein kann. Es wäre uns eine Beruhigung, wenn Sie den
 Brief, ohne ihn zu lesen, beurteilen wollten, Herr
 Sörensen. Hier ist er.«
@@ -624,7 +624,7 @@ Briefbogen schon einmal in Händen hatte, und aus den
 Andeutungen der Person, die ihn mir zuerst zur Begutachtung
 übergab, entnahm ich, daß es sich um bestimmte Nachforschungen
 handelte. Da sie beide ferner noch maskiert sind, da
-sie beide zumeist auch gemeinsam auftauchen, war das
+Sie beide zumeist auch gemeinsam auftauchen, war das
 Erraten Ihrer Namen wirklich nicht schwer.« Er erhob
 sich. »Hiermit wäre die Angelegenheit wohl erledigt
 … Falls Sie gehofft haben, von mir Auskunft über die
@@ -634,7 +634,7 @@ bemüht. — Es war mir ein Vergnügen, meine Herren.«
 Harst wehrte mit einer energischen Geste diesen
 Hinauswurf ab. »Uns *ist* es ein Vergnügen, Herr Sörensen.
 Wir bleiben … Also nehmen Sie nur wieder Platz. Auch
-ich bin so ein wenig Heilseher … Ich fürchte, daß die
+ich bin so ein wenig Hellseher … Ich fürchte, daß die
 Polizei in einer halben Stunde hier sein wird.«
 
 Gustav Karl Sörensens Schellfischaugen weiteten
@@ -714,7 +714,7 @@ Sörensen schnellte hoch. »Herr Harst, ich … ich
 drein.
 
 Im Dienerzimmer neben der Küche lag auf dem Bett
-ein Mann mit grauem Haar und grauem Josef 2.Bart, —
+ein Mann mit grauem Haar und grauem Josef 2.-Bart, —
 gefesselt, geknebelt, — — das eine Fenster stand halb
 offen, und die untere Scheibe war eingedrückt.
 
@@ -750,7 +750,7 @@ kaum einer Erörterung: Er hatte Sörensen und uns zweifellos
 belauscht, und er hatte erfahren wollen, ob Sörensen
 uns »das Mädchen mit dem Brief« genauer beschreiben
 könnte. Mithin steckte er bis über beide Kuhohren mit
-in dieser dunklen Affäre, und das der wahnsinnige Radioamateur
+in dieser dunklen Affäre, und daß der wahnsinnige Radioamateur
 dort oben im Norden ebenfalls zu dieser undurchsichtigen
 Geschichte gehörte, hatte Harst soeben auch Orgin gegenüber
 betont.
@@ -814,7 +814,7 @@ Keine Rede! Ihre Scherze sind geschmacklos wie dieser
 Weinbrand … prosit.«
 
 Dann verabschiedete er sich, strich die Beinkleider
-glatt und zeigte wehmütig, das er zwei verschieden
+glatt und zeigte wehmütig, daß er zwei verschieden
 gemusterte Seidensocken trug. »Graham fehlt mir überall
 … auf Wiedersehen.«
 
@@ -845,10 +845,10 @@ diesen zu.
 
 Das Mädchen verschwand wieder, und jetzt wurden
 wir in eine Bibliothek gebeten, die außerordentlich
-unbenutzt wirkte,— ein Paradestück von langgestrecktem
+unbenutzt wirkte, — ein Paradestück von langgestrecktem
 Raum mit bunten Glasfenstern.
 
-Der Hausherr trat ein, — lang hager, gebückt,
+Der Hausherr trat ein, — lang, hager, gebückt,
 sich schwer auf einen Stock stützend, im gelbbleichen,
 faltigen Gesicht, an den Backenknochen rote Flecken,
 unter buschigen Brauen kalte, finstere Augen, vor dem
@@ -1121,7 +1121,7 @@ dieses Musterexemplar von Diener uns an. Er bekam die
 Klappe, die sich lediglich zur Seite drücken ließ,
 infolge des Büchsenöffners nur zur Hälfte auf. — »Ziehen
 Sie das Ding raus, Orgin, oder ich huste Ihnen ein
-Loch durch Ihren Grützeimer, das Ihr bißchen Verstand
+Loch durch Ihren Grützeimer, daß Ihr bißchen Verstand
 Ihnen hinten herunterkleckert! Etwas fix!«
 
 Harst hielt Orgin fest, der bereits wieder tückische
@@ -1132,7 +1132,7 @@ Dabei gelang es mir, in den Nebenraum hineinzuschauen,
 und es kostete mich all meine Energie, nicht zu verraten,
 wie unendlich verblüfft ich war.
 
-»Her mit den Briefen!«*, forderte Graham brutal,
+»Her mit den Briefen!«, forderte Graham brutal,
 und seine starken Oberzähne schimmerten unter der frech
 emporgezogenen Lippe wie ein Raubtiergebiß. »Schraut,
 — nun das Geschirr … Ein Stück nach dem anderen …«
@@ -1206,7 +1206,7 @@ mich neben Harst, blätterte im einem Buche über die
 norwegischen Fjorde und begann hastig zu flüstern.
 Meine Worte überstürzten sich, ich behielt dauernd
 die Klappe im Auge, da ich fürchtete, die Kerle da
-draußen konnten uns belauschen. Meine ungeheure Erregung,
+draußen könnten uns belauschen. Meine ungeheure Erregung,
 die sich mit jedem über die Zunge polternden Satze
 steigerte, war durchaus gerechtfertigt …
 
@@ -1238,9 +1238,9 @@ Ich will versuchen, der Bande, die uns hier festhält
 hat …«
 
 »Mag sein … — Ich will versuchen, die neue Linie
-strickt einzuhalten. Die neue Linie ist das, was ich
+strikt einzuhalten. Die neue Linie ist das, was ich
 im Auto während der Fahrt zu Sörensen auseinandersetzte,
-also: Versuch unserer Seits, Verbrecher gründlich zu
+also: Versuch unsererseits, Verbrecher gründlich zu
 bessern und die Gesetzesmaschine aus dem Spiel zu lassen.
 Ich glaube, dieser Fall eignet sich ganz vorzüglich
 dazu.«
@@ -1249,7 +1249,7 @@ dazu.«
 du den Fall auch bereits.«
 
 »Vielleicht. Trotzdem werde ich dir nichts von
-meinen Schlussfolgerungen mitteilen, da ich die Verantwortung
+meinen Schlußfolgerungen mitteilen, da ich die Verantwortung
 allein tragen will. — Höre genau zu … Dort liegt das
 Paket Zündhölzer. Es enthält zehn Schachteln, jede
 Schachtel etwa zweihundert Hölzchen mit Zündkopf. In
@@ -1269,7 +1269,7 @@ die Leiste dort von dem Wandbrett abreiße und aufspalte
 … Mein Federmesser hat Graham nicht gefunden, — gepriesen
 sei das Loch im Westentaschenfutter! Unser Ersatzpulver
 wird sich bewähren, es kommt ja auch gar nicht darauf
-an, das die Rakete und der Brief, den sie in die Lüfte
+an, daß die Rakete und der Brief, den sie in die Lüfte
 trägt, gefunden wird, — es ist die seelische Wirkung,
 mit der ich rechne. — Wir müssen uns beeilen …«
 
@@ -1287,7 +1287,7 @@ Mörtels von den Zündhölzern die Zündmasse ab.
 
 Ein unendlich mühseliges Geschäft! Gewiß!
 
-Doch die Vorfreude darauf, das das Experiment
+Doch die Vorfreude darauf, daß das Experiment
 glücken könnte, fieberte mir in den Adern.
 
 Zwei Stunden verstrichen. Ich war mit meinen fünf
@@ -1337,7 +1337,7 @@ Stimme, die die Tiere wieder zur Ruhe wies und die
 ebenso jäh verstummte, weil Graham dem Mädchen oder
 der Frau etwas zugerufen hatte.
 
-Hierauf trat stille ein.
+Hierauf trat Stille ein.
 
 Orgins Bett knarrte. »Das war doch ein Mädel,
 verdammt noch mal! Das scheint ja eine äußerst buntgemischte
@@ -1363,7 +1363,7 @@ die Menge der Zündholzköpfe vollkommen genüge.
 Er half mir dann selbst in die Höhe, ich klammerte
 mich an dem Eisengitter fest, ohne Harsts Bewegungsfreiheit
 zu stören, er legte die Rakete so auf den obersten
-Querstab des Gitters, daß sie schräg auswärts zeigte,
+Querstab des Gitters, daß sie schräg aufwärts zeigte,
 zündete ein Streichholz an, — ich bog mich zurück,
 und zischend und sprühend fuhr unsere Behelfsrakete
 über die Wipfel der Parkbäume hinweg und zerplatzte

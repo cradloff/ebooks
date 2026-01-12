@@ -32,7 +32,7 @@ mögliche verbergen konnte:
 »Ich denke, Sie schicken Ihre Leute weg, Herr
 von Olden. Unser eigenmächtiges Eindringen hier verlangt
 Erklärungen, die nur für einen sehr eng begrenzten
-Kreis bestimmt sein dürfte. Jedenfalls werden Ihnen
+Kreis bestimmt sein dürften. Jedenfalls werden Ihnen
 meine Erklärungen vollkommen genügen, und wir werden
 als Verbündete fernerhin …«
 
@@ -43,14 +43,14 @@ seine Augen und die geifernde Sprache verrieten, wie
 es um ihn bestellt war.
 
 »Ah — — widerrechtlich eingedrungen, — — und nachts,
-…Unerhört, Herr, — — Sie werden es bereuen, es gibt
+… unerhört, Herr, — — Sie werden es bereuen, es gibt
 einen Paragraph über Hausfriedensbruch und …«
 
 Auch er beendete seine Drohungen nicht.
 
 Orgin brüllte dazwischen, und Hektor Orgin hatte
 eine unglaubliche Stimme, eine verrostete Türangel
-ist dagegen Richard Tauber:
+ist dagegen Richard Tauber<@refnote 1/>:
 
 »Blödsinn!! Alles Blödsinn!! Dies ist doch kein
 Irrenhaus! Wir sind eingedrungen — — prost Mahlzeit!
@@ -87,12 +87,12 @@ Er behandelte seine Leute genau so schroff wie
 jeden anderen, in seiner ganzen Art lag etwas, das
 nicht nur zur schärfsten Abwehr seiner Taktlosigkeit
 aufstachelte, sondern auch geradezu den heißen Wunsch
-aufkeimen lies, diesen vom Hochmutsteufel geplagten
+aufkeimen ließ, diesen vom Hochmutsteufel geplagten
 Patron einmal eine ordentliche Abfuhr zukommen zu lassen.
 
 Abfuhr?! — Scheinbar hatte er sie bereits erhalten,
 denn als er jetzt wieder die Tür öffnete, sah er mehr
-wie ein Toter aus und verbarg feine jäh erwachte Angst
+wie ein Toter aus und verbarg seine jäh erwachte Angst
 hinter kläglichen Versuchen, nach wie vor derselbe
 unleidliche Patron zu bleiben.
 
@@ -120,7 +120,7 @@ zu rufen?!«
 
 Olden hatte die Augen zugekniffenen. Sein Gesicht
 war gelbweiß, seine Lippen blutleer, und an den Backenknochen
-brannten die knallroten Flecken, so das er einem geschminkten
+brannten die knallroten Flecken, so daß er einem geschminkten
 Clown auffallend glich. — Was in seiner Seele vorging,
 war schwer zu erraten. Daß Harst ihn durch die mir
 unverständlichen Andeutungen über ein Familiengespenst
@@ -129,7 +129,7 @@ gedrängt hatte, war nicht zu bezweifeln.
 
 Ganz flüchtig kam mir der Gedanke, daß Harald
 mit dem Gespenst etwa den verrückten Radioamateur gemeint
-haben könnte, und das Herwart von Olden der Absender
+haben könnte, und daß Herwart von Olden der Absender
 jenes Büttenpapierbriefes gewesen, weil ich eben gelegentlich
 von Graham Bell erfahren hatte, der jüngere Bruder
 des Präsidenten habe im Irrsinn Selbstmord verübt.
@@ -198,7 +198,7 @@ und der Seelenarzt, der jetzt seine schmale, knochige
 Hand nahm und eindringlich bat: »Erleichtern Sie doch
 Ihr Gewissen, — wir werden schweigen und alles einrenken«,
 meinte er so aufrichtig und so wahrhaft gut mit dieser
-menschlichen Ruine, das sogar Orgin aus einer tiefen
+menschlichen Ruine, daß sogar Orgin aus einer tiefen
 Bewegtheit heraus geradezu herzlich hinzufügte: »Herr
 von Olden, — vielleicht hat Graham Bell Ihnen irgendwie
 geschadet, — — sprechen Sie doch!«
@@ -280,8 +280,8 @@ lag vor uns im Tale).
 Harsts kühnes, fast plumpes Auf den Busch Schlagen
 gelang nur infolge der gereizten Stimmung des Beamten,
 der uns für Sommerfrischler, Ostergäste, halten mußte
-und sein anfängliches, geringes Mißtrauen rasch über
-Hand. Er war vom Rade gestiegen und meinte mürrisch:
+und sein anfängliches, geringes Mißtrauen rasch überwand.
+Er war vom Rade gestiegen und meinte mürrisch:
 »Kommen die Herren aus Oldenberg?« Und als Harst bejahte
 … »Wir hatten geschäftlich mit Herrn von Olden zu sprechen«,
 fügte er verärgert hinzu: »Ja, ich habe die Depesche
@@ -466,7 +466,7 @@ und deren herausfordernder Übermut ist bis heute in
 der norwegischen Bevölkerung nicht vergessen worden.
 —
 
-In einer der krummsten, engsten Gassen — des ältesten
+In einer der krummsten, engsten Gassen des ältesten
 Viertels dieser Heringsstadt Bergen bummelten am folgenden
 Vormittag drei Herren gemütlich dahin und suchten bei
 dem leichten Regen und dem Zwielicht die Schilder an
@@ -474,7 +474,7 @@ den Haustüren zu entziffern.
 
 Vor einem größeren, wenn auch sehr engbrüstigen
 Hause, dessen verwitterte Eichentür reich mit Messing
-beschlagenen war, blieben sie stehen, und Orgin verkündete
+beschlagen war, blieben sie stehen, und Orgin verkündete
 freudig: »Hier ist es!«
 
 An der Tür war ein kleines Porzellanschild mit
@@ -498,12 +498,12 @@ ab, denn Harst hatte noch in der verflossenen Nacht
 behauptet, Deerboom besäße wahrscheinlich einen der
 Schlüssel des großen Geheimnisses. — Wir waren mit
 Overlands Benzinkiste bis Malmö geflogen und hatten
-von dort den Beergen-Expreß benutzt. Jedenfalls hatten
+von dort den Bergen-Expreß benutzt. Jedenfalls hatten
 wir bisher die Gegner geschlagen und waren ihnen weit
 voraus.
 
 »Herr Deerboom ist beschäftigt und bedauert, die
-Herren nicht vorlassen zu können«, erklärte und ein
+Herren nicht vorlassen zu können«, erklärt uns ein
 uraltes, säbelbeiniges Faktotum in speckigem Bratenrock
 und reicht uns auf silberner Platte unsere Besuchskarten
 zurück, ohne uns auch nur einen Blick in die Diele
@@ -552,7 +552,7 @@ Romane festzustellen, fragte begierig: »Worauf hoffen
 Sie, Harst? Glauben Sie, daß dieser verwünschte Graham,
 aus dem ich schon gar nicht mehr klug werde, hier als
 Beauftragter der Oldens auftauchen und Deerboom besuchen
-wird«!
+wird?!«
 
 Harst warf unserem zappeligen Freunde, der sich
 zu Ehren der vielleicht kommenden Ereignisse in einen
@@ -908,7 +908,7 @@ nie vergessen …«
 Abermals stockte er und murmelt dann finster:
 
 »Als die Bestimmung von dem Notar verlesen wurde,
-das Gisbert Universalerbe sei, wurde Herwart, der ältere,
+daß Gisbert Universalerbe sei, wurde Herwart, der ältere,
 unheimlich bleich, und der Blick, den er zu Gisbert
 hinüber schoß, besagte übergenug … sogar der Notar
 unterbrach die Verlesung der Urkunde, in der Herwart
@@ -932,7 +932,7 @@ längst kannte, hoffte ich durch ihn irgendwie jene
 dunklen Fragen klären zu können, die mich nach Gisberts
 Unfall unablässig beschäftigten. Ich glaubte eben,
 ein Kriminalschriftsteller müßte auch Detektiv sein.
-Das Theorie und Praxis so weit getrennt sind, ahnte
+Daß Theorie und Praxis so weit getrennt sind, ahnte
 ich nicht. — Um auf Gisbert zurückzukommen. Er war
 Phantast und allzu hoffnungsfroher Erfinder, erklärte
 sofort, es solle alles beim Alten bleiben, Herwart
@@ -952,10 +952,10 @@ selbst habe an Gisberts Tode nie recht geglaubt. Anderseits
 traute ich es Herwart auch nicht zu, den jüngeren Bruder
 etwa ermordet zu haben oder … irgendwie verborgen zu
 halten. Jedenfalls: Gisbert wurde für tot erklärt,
-aber ein fremder ruht in der Olden’schen  Familiengruft.
+aber ein Fremder ruht in der Olden’schen  Familiengruft.
 Das stand für mich fest, als ich den Sender zum ersten
 Male hörte, — es war Gisberts Stimme, und je häufiger
-ich diese Stimme im Lautsprecher einfing,, desto überzeugter
+ich diese Stimme im Lautsprecher einfing, desto überzeugter
 wurde ich. Ich benachrichtigte die beiden Töchter Herwarts,
 die ihm völlig fremd geblieben, und wir beschlossen,
 diese geheimnisvolle und bedrohliche Sache in aller
@@ -1067,7 +1067,7 @@ Eisloche bemerkt hätte. So schwieg ich denn, erst mittags
 wurde das Unglück entdeckt, und als ich im Frühjahr
 die vollkommen entstellte Leiche — nur eine! — gefunden
 hatte, gab ich sie für die Gisberts aus. Ich hielt
-ihn bestimmt für tot, — — das er lebt, verriet mir
+ihn bestimmt für tot, — — daß er lebt, verriet mir
 erst der Sender, über dessen seltsames Programm ich
 in einer Radiozeitung las.«
 
