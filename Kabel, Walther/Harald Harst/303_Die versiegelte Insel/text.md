@@ -237,7 +237,7 @@ irgendwie auf andere Art Verdacht geschöpft haben.«
 »Das sagte Sie nicht. Das mußte ich ihr erst vorhalten.
 Natürlich gegen ihren Onkel Austin, den jetzigen Lord. Die
 beiden Brüder haben Sich nie verstanden, Austin Soll ein weltfremder
-Bücherwurm Sein, obwohl er heute erst fünfunddreißig
+Bücherwurm sein, obwohl er heute erst fünfunddreißig
 Jahre alt ist. Zwischen den Brüdern konnte auch wohl kaum
 ein inniges Verhältnis bestehen, da Madges Vater Howard
 über zwei Jahre älter war und den gelehrten Bruder, der noch
@@ -255,7 +255,7 @@ jetzt verschwinden lassen, damit nicht etwa noch nachträglich
 festgestellt werden könnte, Lord Howard Sei absichtlich getötet
 worden. Das Gericht hat nämlich einen Unfall angenommen,
 der ältere Bruder Soll beim Angeln von einer Klippe ins Meer
-gestürzt Sein. Jedenfalls verschwand er damals von Seinem
+gestürzt sein. Jedenfalls verschwand er damals von Seinem
 Angelplatz, und Seine Begleiter und Diener waren einmütig derselben
 Ansicht wie die Behörde. Madge ist mir gegenüber Stets
 äußerst behutsam in allen ihren Angaben geblieben, und erst in
@@ -350,7 +350,7 @@ Wochen, um zu angeln und Seinen sonstigen Sportlichen Neigungen
 nachzugehen.
 
 Der Tod dieses kraftvollen Mannes dürfte noch in aller
-Erinnerung Sein. Er Stürzte ins Meer, und Seine Leiche wurde
+Erinnerung sein. Er Stürzte ins Meer, und Seine Leiche wurde
 erst nach einem Jahre zufällig gefunden.
 
 Im Auftrage der Londoner Gesellschaft für Altertumskunde
@@ -363,7 +363,7 @@ größter Bereitwilligkeit zur Verfügung. Mein Freund Chester
 Dolegan, ebenfalls ein eifriger Angler, war der erste von uns,
 der auf Manibar genau so Spurlos verschwand, wie dies mit
 <@pagebreak/>
-Lord Howard B. zunächst der Fall gewesen zu Sein Schien. Inzwischen
+Lord Howard B. zunächst der Fall gewesen zu sein Schien. Inzwischen
 Sind von meinen Begleitern noch drei Leute auf dieselbe
 unheimliche Art abhanden gekommen, So daß die Fortsetzung
 unserer wissenschaftlichen Arbeiten von dem Gouverneur von
@@ -384,7 +384,7 @@ Hätte man es lediglich mit dem Verschwinden eines einzelnen
 Mannes zu tun, So würde die Erklärung, die man für
 Lord Barringtons Tod gefunden hat, vielleicht abermals auf
 das Verschwinden des ersten der vier Opfer der Insel, und das
-war mein Freund Chester Dolegan, angewandt worden Sein.
+war mein Freund Chester Dolegan, angewandt worden sein.
 Aber nur Dolegan war Angler wie der Lord, die übrigen drei
 hatten für des toten Lords Lieblingsstelle auf einer steilabfallenden
 Uferwand an der Nordspitze Manibars lediglich jenes Interesse,
@@ -474,7 +474,7 @@ in den Riffen Seinen Schlupfwinkel gehabt hätte, wäre
 er ebenfalls zerfetzt worden und hätte an die Oberfläche kommen
 müssen. — Trotz meiner anfänglichen Bedenken habe ich immerhin
 die Überzeugung gewonnen, daß Inspektor Brassons
-Theorie richtig Sein muß.
+Theorie richtig sein muß.
 
 Ob nun das Geheimnis von Manibar je durch unbedingt
 einwandfreies Tatsachenmaterial gelöst werden wird, bezweifele
@@ -552,7 +552,7 @@ Generalmusikdirektoren und ewig junge Soubretten von siebzig
 Jahren werden vor einem erlesenen Publikum für drei Groschen
 eine Oper von solch infernalischer Instrumentation ausführen,
 daß Sogar ein Tauber wieder hellhörig wird und …«
-— er brach mitten im Satze ab, Sein Gesichtsausdruck, der bis
+— er brach mitten im Satze ab, sein Gesichtsausdruck, der bis
 dahin vor Sarkasmus gesprüht hatte, änderte Sich genau so
 wie Seine Stimme, und mit forcierter Betonung schloß er:
 
@@ -666,7 +666,7 @@ Lügner und abgefeimten Hochstapler, dazu eine leichte
 Zerstreutheit und Sonstige geringe Merkmale eines Stubengelehrten.
 
 Mit einer Ehrlichkeit, die mir zu denken gab, trug er
-uns Sein Anliegen vor, das, wie er behauptete, ihn heute erst
+uns sein Anliegen vor, das, wie er behauptete, ihn heute erst
 um drei Uhr morgens von London mit Ziel Berlin im Flugzeug
 hatte aufsteigen lassen … »Nachdem ich nachts zufällig festgestellt
 hatte, daß man in die Familiengruft eingedrungen und
@@ -724,7 +724,7 @@ bei Ihnen, Herr Harst?«
 »Ja.«
 
 Austin Barrington Stieg das Blut plötzlich bis zu den
-Schläfen empor, Sein Erröten war so stark, daß er es wohl
+Schläfen empor, sein Erröten war so stark, daß er es wohl
 Selbst Spürte, er bückte Sich, strich Seine Beinkleider glatt, und
 murmelte undeutlich:
 
@@ -747,7 +747,7 @@ Der Lord blickte ihn daraufhin eine Weile Starr an.
 
 <@pagebreak/>
 »Das … das … wäre …«, — er verstummte, und genau
-so jäh wie er Soeben errötet war, nahm Sein Gesicht jetzt eine
+so jäh wie er Soeben errötet war, nahm sein Gesicht jetzt eine
 erschreckend erdgraue Farbe an.
 
 Der Mann dort vor uns glich einem Schwerkranken,
@@ -865,14 +865,14 @@ plötzlich, — »das heißt, meine Schrift ist lediglich nachgeahmt
 worden … recht gut, jedoch nicht gut genug. Austin, bitte
 prüfe du dieses Schreiben …«
 
-Der Lord trank hastig Sein Weinglas aus und trat recht
+Der Lord trank hastig sein Weinglas aus und trat recht
 befangen mit dem Brief an das Fenster. Er prüfte und prüfte
 die Schrift, bis Madge noch gereizter rief: »Die Fälschung
 ist doch So offensichtlich, daß …«
 
 Barrington wandte sich zaudernd um,
 
-»Gewiß, — — es wird eine Fälschung Sein, — — natürlich
+»Gewiß, — — es wird eine Fälschung sein, — — natürlich
 ist es eine Fälschung, obwohl ich Geschriebenes So selten
 von dir gesehen habe, daß …«
 
@@ -902,7 +902,7 @@ Maßnahmen …« Ihre Stimme wurde unvermittelt fast unheimlich
 eisig. »Andere Maßnahmen, Austin, — — und die
 erste wäre die, daß ich hier feierlich erkläre: Schon der leiseste
 Gedanke, ich könnte an dem Tode meines Vaters mit schuld
-Sein, ist eine tödliche Beleidigung für mich. — Herr Harst,
+sein, ist eine tödliche Beleidigung für mich. — Herr Harst,
 wenden Sie Ihre Kniffe nicht mir gegenüber an, ich warne
 Sie! Wenn ich auch nach dem Familiengesetz der Barringtons
 beim Fehlen männlicher Agnaten Titel und Familienbesitz
@@ -1008,7 +1008,7 @@ Shnout bei uns ein, — Shnout wiegt 210 Pfund,
 
 <h3>… Und verliebter Oberinspektor.</h3>
 
-Gollon und Sein »Appendix« Shnout wurden oben in den
+Gollon und sein »Appendix« Shnout wurden oben in den
 Gastzimmern untergebracht, nahmen ein Bad und fanden Sich
 um acht zum Abendessen ein, Percy natürlich im Frack und
 mit zwei Prachtchrysantemen für Haralds Mutter, der dicke
@@ -1023,7 +1023,7 @@ als wir den Tee in Harsts Arbeitszimmer tranken. Abraham
 Shnout, jetzt in blauem Jackenanzug einem Sehr behäbigen
 Landpastor Sehr ähnlich, war mit dabei und galt als durchaus
 gleichberechtigt. Dieser Speckwanst besaß Mutterwitz und jene
-primitive Schlauheit, die oft mehr wert Sein dürfte als die
+primitive Schlauheit, die oft mehr wert sein dürfte als die
 künstlich gekleidete Gelehrsamkeit.
 
 Diese recht eingehende Aussprache zeitigte nur geringe
@@ -1060,7 +1060,7 @@ mit berücksichtigt wurden.
 
 4\. Daß der jetzige Lord Austin Seiner Zeit die Unwahrheit
 angegeben, als er behauptete, am Tage des Verschwindens
-Seines Bruders in England gewesen zu Sein, war Gollon völlig
+Seines Bruders in England gewesen zu sein, war Gollon völlig
 neu. — Austin hatte erklärt, Seit Wochen damals ganz allein
 ohne jede Bedienung in einer Gaststätte auf einem der einsamsten
 Hochmoore Schottlands Sich aufgehalten zu haben, um
@@ -1092,7 +1092,7 @@ auf Sehr schwachen Füßen Ruhe.
 »… Austin war durch nichts gezwungen worden«, betonte
 er, »hier vor uns einzugestehen, daß er in dem einen
 Punkte gelogen habe und doch an dem kritischen Tage auf
-der Insel gewesen Sei, dieses Sein Geständnis erfolgte freiwillig,
+der Insel gewesen Sei, dieses sein Geständnis erfolgte freiwillig,
 und Seine anschließenden Drohungen Sind kaum so aufzufassen,
 daß er selbst die Entdeckung der Wahrheit zu fürchten
 hätte, — nein, mir Scheint es So, als ob er den wahren Täter,
@@ -1126,14 +1126,14 @@ die Achseln. »Ich kenne Madge besser, sie …«
 »… sie hat hier in Gegenwart Austins derart kaltblütig
 gelogen«, fiel Harst mit Nachdruck ein, »daß ich empört war.
 Sie war dreimal nachts bei mir, und, mag Sie auch bei diesen
-Besuchen verschleiert gewesen Sein, und immer nur geflüstert
+Besuchen verschleiert gewesen sein, und immer nur geflüstert
 haben, damit ich ihre Stimme nicht wiedererkennen Sollte, —
 sie war es! Und das, was sie vorbrachte, richtete sich gegen
 Austin, wie ich nun erst klar durchschaue. Sie kam, um den
 Verdacht in andere Richtung zu lenken.«
 
 Gollon biß die Starken Oberzähne so heftig in die Unterlippe,
-daß diese völlig verschwand. Sein Gesicht war fahl, und
+daß diese völlig verschwand. sein Gesicht war fahl, und
 die Augen matt und ohne Glanz,
 
 Dann sagte er mit erschreckender Ruhe: »Gut denn, —
@@ -1167,7 +1167,7 @@ mit leisem Schmunzeln, »daß ich hier eine Liste der von Lord
 Austin verfaßten Broschüren, Bücher und Artikel vorbereitet
 habe. Sieht man diese Liste durch, So ist man erstaunt, daß
 ein Stubenhocker ausgerechnet so viel mit Kriminalpsychologie
-Sich beschäftigt hat und daß Sein letztes Buch den Titel trägt:
+Sich beschäftigt hat und daß sein letztes Buch den Titel trägt:
 »Das Gewissen des Verbrechers, — Eine volkstümliche Betrachtung
 über Lebensführung und moralische Anschauungen von
 Mördern, die längere Zeit ihre Tat zu verheimlichen wußten.«
@@ -1202,218 +1202,223 @@ Manibar landeten.
 
 <h2>1. Kapitel.</h2>
 
-<h3>… Oder besser landen wollen…</h3>
+… Oder besser landen wollen.
 
-Wir hatten in Scheibe, einem arabischen Halsansatz, dem
-
-selbst die Neuordnung der Machtverhältni]sse auf der Halbinsel
-Arabien Sehr wenig Zivilisation zugeführt Getreuen. dem
-Vertreter einer englischen Firma ein großes Lllotorboot erhalten
-und waren damit immer zu der eintönigen Küste entlang
-gen Norden, geschlichen, in Steter Furcht vor einem Sturm
+Wir hatten in Hodeida, einem arabischen Hafenplatz, dem
+selbst die Neuordnung der Machtverhältnisse auf der Halbinsel
+Arabien Sehr wenig Zivilisation zugeführt hatte, von dem
+Vertreter einer englischen Firma ein großes Motorboot erhalten
+und waren damit immer an der eintönigen Küste entlang
+gen Norden geschlichen, in Steter Furcht vor einem Sturm
 und vor den tückischen Riffen und den recht zahlreichen
 arabischen Fischern, die noch heute recht primitiven Rechtsauffassungen
 huldigen und ein Motorboot mit vier Ungläubigen
-sehr gern zum Ruhme Allahs ausplündern und vergriffen.
-Aussehen den — Riffen lebt das gefräßige Geschlecht. der
-Haifische, und auch diese lieben Tierchen Sind, Sobald Sie zwei
-eher lang werden, keine angenehme Nachbarschaft Das
-Anprall der Haie kommt hier tatsächlich in ganzen Schwärmen
+sehr gern zum Ruhme Allahs ausplündern und versenken.
+
+Zwischen den Riffen lebt das gefräßige Geschlecht der
+Haifische, und auch diese lieben Tierchen Sind, Sobald sie zwei
+Meter lang werden, keine angenehme Nachbarschaft. Das
+Jungvolk der Haie kommt hier tatsächlich in ganzen Schwärmen
 vor, und auch Seeschildkröten von außerordentlicher Größe
 Sind Keine Seltenheit.
 
 Percy Gollon hatte Sich Seine Vollmachten telegraphisch
-nach Suez voraussendetn lassen, wo dann auch pünktlich ein Beamter
-am Kai st6ound und dem Oberinspektor einen dicken, versiegelten
-Brief überreichte. Am Gegensatz zu Scheibe fanden
+nach Suez voraussenden lassen, wo dann auch pünktlich ein Beamter
+am Kai stand und dem Oberinspektor einen dicken, versiegelten
+Brief überreichte. Im Gegensatz zu Hodeida fanden
 <@pagebreak/>
 wir Suez Stark modernisiert vor, und der Schwindel der Antiquitätenhändler
-(machte in Birmingham) blühte üppiger denn
+(made in Birmingham) blühte üppiger denn
 je. Die neuen Riesenhotels Sind auch nicht Schön, und man
 atmet auf, wenn man diesen Hexenkessel von Völkermischmasch
 und Scheinkultur wieder hinter Sich hat.
 
 Der Insel Kamaran wichen wir höflichst aus. Gollon
-hatte keine Luft, etwa noch einen neugierigen Aufpasser von
+hatte keine Lust, etwa noch einen neugierigen Aufpasser von
 Beamten an Bord zu nehmen. Achtundvierzig Stunden im
 Motorboot im roten Meer hatten genügt, jenen Zustand von
-nervöser!leberreiztheit bei uns hervorzurufen, der Stets die
-Sorge von einigen vierzig: Grad Wärme schritt. Abraham Shnout
-war. nur noch ein zerfließender Felsloch.
+nervöser Überreiztheit bei uns hervorzurufen, der Stets die
+Folge von einigen vierzig Grad Wärme ist. Abraham Shnout
+war nur noch ein zerfließender Fettfleck.
 
 Mittags kamen die zerrissenen Südgestade von Manibar
 in Sicht, und gegen ein Uhr liefen wir in die Ostbucht ein, deren
-beide Naturmolen hölzerne Verzeihen und riesige Warnungstafeln
-trugen: ’ »Betreten verboten«, —« was ziemlich lächerlich
+beide Naturmolen hölzerne Seezeichen und riesige Warnungstafeln
+trugen: »Betreten verboten«, — was ziemlich lächerlich
 wirkte. Weniger lächerlich waren die vier Araberlümmel, die
 im Buchtwinkel auf dem Stegkopf ihre Büchsen Schwangen
 und plötzlich auch wirklich feuerten. Da neben dem Stege eine
-kleine doch ankerte, auf der gleichfalls unfreundliche Leute
-allerhand Schießprügel bereithalten, hißte Gollon unter lästerlichen
-Verwünschungen ein gebrauchst Frackhemd als Parlamentärflagge
-und befahl Steuermann. Schraut, abermals auf
-den &üteg Kurs zu nehmen, ein Manöver, das dem Frackhemd
-mehrere unnötige Knopflößer und: Abraham Mine
-Schmarre an der Hüfte eintrug. Anker dem Hohngelächter
-der önselwächter und der Jachtbesatzung mußten wir schleunigst
+kleine Jacht ankerte, auf der gleichfalls unfreundliche Leute
+allerhand Schießprügel bereithielten, hißte Gollon unter lästerlichen
+Verwünschungen ein gebrauchtes Frackhemd als Parlamentärflagge
+und befahl Steuermann Shnout, abermals auf
+den Steg Kurs zu nehmen, ein Manöver, das dem Frackhemd
+mehrere unnötige Knopflöcher und Abraham eine
+Schmarre an der Hüfte eintrug. Unter dem Hohngelächter
+der Inselwächter und der Jachtbesatzung mußten wir schleunigst
 wenden und wieder das offene Meer aufsuchen.
 
 Percy Gollon verlor all Seine Blasiertheit und wütete wie
-ein gereizter Stier. Harst Saß am Heck unter dem Verdeckt
-und lachte Tränen. Schraut hatte nämlich Soeben auch) Hemd
-und Hofe abgelegt, um Seine Wunde zu besichtigen, und Schrauts
-wabboelsnder, weißer Bauch und sonstigen verfetteten Körper
+ein gereizter Stier. Harst Saß am Heck unter dem Verdeck
+und lachte Tränen. Shnout hatte nämlich Soeben auch Hemd
+und Hose abgelegt, um Seine Wunde zu besichtigen, und Shnouts
+wabbelnder, weißer Bauch und sonstiger verfetteter Körper
 hoben Sich von dem kirschbraun gebrannten Gesicht und Hals
-so Scharf ab, daß auch Gollon in dieses Hofwächter einstimmte.
-
+so Scharf ab, daß auch Gollon in dieses Gelächter einstimmte.
 <@pagebreak/>
-Ich hielt mich zurück, denn auch. ich: habe Reihenweise 2,5 —
-oder So ungefähr …
+Ich hielt mich zurück, denn auch ich habe Taillenweite 2,5 —
+oder So ungefähr.
 
-… Nachdem Schrauts Streifschuß vernäht und verbunden und
-— die Stimmung im Boote wieder normal geworden war (das
-heißt, Abraham begann nun uns zu beschimpfen, weil wir. vor
-« Seinen lächelten Speziellen So wenig Achtung bezeigt hatten),
-Setzte Sich Harst ans Steuer, nahm die Kellerhalle der Insel
-zur Hand und wollte zusehen, ob wir nicht eine andere Land
-dargestellte fänden. Daß Lord Austin längst auf Manibar ein
-getroffen war und wahrscheinlich auch Miß Madge auf dem
+Nachdem Shnouts Streifschuß vernäht und verbunden und
+die Stimmung im Boote wieder normal geworden war (das
+heißt, Abraham begann nun uns zu beschimpfen, weil wir vor
+Seinen lädierten Speckfalten So wenig Achtung bezeigt hatten),
+Setzte Sich Harst ans Steuer, nahm die Reliefkarte der Insel
+zur Hand und wollte zusehen, ob wir nicht eine andere Landungsstelle
+fänden. Daß Lord Austin längst auf Manibar eingetroffen
+war und wahrscheinlich auch Miß Madge auf dem
 Felseneiland Schmorte, erschien uns gewiß.
 
-»Wir gondelten zwischen Inselchen, Riffen, nochmals Ins
-gesehen und nochmals Riffen gemächlich gen Norden, — nie
-— Gab ich eine So wilde und doch So erbärmlich trostlose Meeres«
-Steuerlos! Die Felsen. glühten in der Sonne, Strauchbesen,
-Sogenannte Palmen, und armselige Büsche. Pferden das Bild
-»mit fahlem Grün, durch die blaugrüne Flut schaffen Haie dahin
+Wir gondelten zwischen Inselchen, Riffen, nochmals Inselchen
+und nochmals Riffen gemächlich gen Norden, — nie
+sah ich eine So wilde und doch So erbärmlich trostlose Meeresszenerie!
+Die Felsen glühten in der Sonne, Strauchbesen,
+Sogenannte Palmen, und armselige Büsche zierten das Bild
+mit fahlem Grün, durch die blaugrüne Flut schossen Haie dahin
 wie Kaninchen in einem Zuchtgehege, und … wir schwitzen, —
-das Schwitzen und Fluchen ist hier der »Portiere Dastand«, —
-Dann bogen wir in die Nordbucht ein, die. ebenfalls (vergleiche
-»Bild 3 aus dem Wiener Magazin) zwei Naturmolen und zweiWarnungstaseln
-besitzt und im Hintergrunde jene Steilwand…
+das Schwitzen und Fluchen ist hier der »normale Zustand«. —
+Dann bogen wir in die Nordbucht ein, die ebenfalls (vergleiche
+Bild 3 aus dem Wiener Magazin) zwei Naturmolen und zwei
+Warnungstafeln besitzt und im Hintergrunde jene Steilwand,
 von der Fünf Männer verschwunden waren.
-—, Als wir vorsichtig zwischen den Riffen näher ruderten — um
-den Notar hatten wir doch lieber gestoppt —, zeigte Sich droben
+
+Als wir vorsichtig zwischen den Riffen näher ruderten — 
+den Motor hatten wir doch lieber gestoppt —, zeigte Sich droben
 auf der Klippe eine weißgekleidete Frauengestalt mit Tropenhelm
 und Nackenschleier, die bedächtig ein Fernglas hob, uns
 lange beäugte, und wieder verschwand.
 
-»Die Schriststellerint«, knurrte Gollon. »Also Miß Magda.
-Harras … Cm nettes Frauenzimmer, nur zu gelehrt und zu
+»Die Schriftstellerin!«, knurrte Gollon. »Also Miß Magda
+Harras … Ein nettes Frauenzimmer, nur zu gelehrt und zu
 sehr Gouvernante. Also ist Madge auch hier.«
-— Abraham drückte das Boot jetzt an eine Korallenbank, »…
+
+Abraham drückte das Boot jetzt an eine Korallenbank,
 die bis zur Westseite der Bucht Sich hinzog, wo das zermürbte Gestein
 einige Aussicht auf erfolgreichen Anstieg bot. Da das
-Rote Meer Ebbe und Sind kaum kennt, vertäuten wir unser.
+Rote Meer Ebbe und Flut kaum kennt, vertäuten wir unser
 <@pagebreak/>
-Fahrzeug an dem langen Riff und ließen Schraut als, Wache
+Fahrzeug an dem langen Riff und ließen Shnout als Wache
 zurück. — Der Anstieg gelang, obwohl unsere Anzüge einige
-Dächer davontrugen und unsere braunen Stiefel gleichfalls
+Löcher davontrugen und unsere braunen Stiefel gleichfalls
 übel zugerichtet wurden.
 
-… Wir überschauten das Gelände, Sahen vor uns die Klippe,
-rechts davon Düfte Steinmassen und zwischen diesen ein großes
-Wagerecht, vor dem eine Leine gespannt war, an der einige ganz
-… intime Dessous im Winde flatterten. Die meisten dieser hauchdünnen
-Kännchen waren aus Batist, trugen reiche Spitzengarnitur
-und konnten nur« Madge Barrington und Magda
-Harras gehören, Nur an einem Ende der Leine trockneten
-etwas hellere und Drahtschere Wäschestücke, deren Besitzerin
-die Hofe Madges Sein mußte. Tiefer farbenfrohe, lustige
-Schaffung für uns Sollte jedoch nicht lange währen. Plötzlich
+Wir überschauten das Gelände, Sahen vor uns die Klippe,
+rechts davon wüste Steinmassen und zwischen diesen ein großes
+Lagerzelt, vor dem eine Leine gespannt war, an der einige ganz
+intime Dessous im Winde flatterten. Die meisten dieser hauchdünnen
+Fähnchen waren aus Batist, trugen reiche Spitzengarnitur
+und konnten nur Madge Barrington und Magda
+Harras gehören. Nur an einem Ende der Leine trockneten
+etwas hellere und praktischere Wäschestücke, deren Besitzerin
+die Zofe Madges sein mußte. Dieser farbenfrohe, lustige
+Empfang für uns Sollte jedoch nicht lange währen. Plötzlich
 Stürzte aus dem Zelt eine mehr hagere als Schlanke blonde
 Jungfrau hervor, knotete das eine Ende der Leine los, und die
 ganze Pracht versank hinter Geröll und Gestrüpp. Dann
-trat aus dem Zelteingang dieselbe Dame, die uns vorhin!So ein«
-elend beäugt hatte, und näherte Sich uns elastischen Schrittes,
+trat aus dem Zelteingang dieselbe Dame, die uns vorhin So eingehend
+beäugt hatte, und näherte Sich uns elastischen Schrittes,
 der für Magda Harras genau So kennzeichnend war wie die
-freiwillige Art, wie Sie nun Percy Gollon die Hand hinstreckte
-und dazu mit einem Anflug von bitteren Lächeln recht melodisch
-Sagte: »Tat Lord Austin auch Sie mit Schüssen vertrieben?!
-— Das Sind wohl die Herren. Harst und Schraut …
-3cch freue mich, Ihre Bekanntschaft zu machen, obwohl ich
+freimütige Art, wie Sie nun Percy Gollon die Hand hinstreckte
+und dazu mit einem Anflug von bitterem Lächeln recht melodisch
+Sagte: »Hat Lord Austin auch Sie mit Schüssen vertrieben?!
+— Das Sind wohl die Herren Harst und Schraut …
+Ich freue mich, Ihre Bekanntschaft zu machen, obwohl ich
 gewünscht hätte, wir wären einander unter weniger eigenartigen
 Umständen begegnet.«
 
 Magda Harras waren die dreißig Jahre, die Sie zählen
 Sollte, keineswegs anzumerken. Sie war vollschlank, etwas
-über mittelgroß, hatte dunkelbraunes, reiches Haar, das Sie.
+über mittelgroß, hatte dunkelbraunes, reiches Haar, das sie
 halb über die Ohren frisiert trug, und ein regelmäßiges, offenes
-Gesicht.  Gollon war zweifellos ein Schlechter Beurteilen
-von Stationierten, denn diese Dame hier hat auch nicht das
+Gesicht.  Gollon war zweifellos ein Schlechter Beurteiler
+von Frauenreizen, denn diese Dame hier hat auch nicht das
 geringste Altjüngferliche oder Gouvernantenhafte an sich. Da
-Sie gleichsam als neutral gelten konnte, Stellte Gollon einige
+sie gleichsam als neutral gelten konnte, Stellte Gollon einige
 <@pagebreak/>
-»Tragen, die bereitwilligst beantwortet wurden, Wir erfuhren
+Fragen, die bereitwilligst beantwortet wurden. Wir erfuhren
 So, daß die Damen und die Zofe genau wie Lord Austin die
-Seife durch Benutzung von Flugzeugen wesentlich abgesucht,
+Reise durch Benutzung von Flugzeugen wesentlich abgekürzt,
 dennoch erst einen Tag nach dem Lord hier eingetroffen waren
 und zwar mit einem in Kamaran gemieteten Kutter, der jetzt
-in einer Abzweigung der Nordbucht lag. Lord Austins Wache
-ter waren unhöflich genug gewesen, auch — diesen Umgarnen
-… Kutter mit Blei zu empfangen, und daher hatten die drei unter
-»nehmungslustigen Abenteuerinnen nun hier Quartier bezogen,
-»nachdem zwischen Austin und Madge eine einzige Unterredung
-Stattgefunden hatte, über deren:GSnhalt und Verlauf Magda
-Harras nur das. eins berichten konnte: Es war zwischen Onkel
+in einer Abzweigung der Nordbucht lag. Lord Austins Wächter
+waren unhöflich genug gewesen, auch diesen Amazonenkutter
+mit Blei zu empfangen, und daher hatten die drei unternehmungslustigen
+Abenteuerinnen nun hier Quartier bezogen,
+nachdem zwischen Austin und Madge eine einzige Unterredung
+Stattgefunden hatte, über deren Inhalt und Verlauf Magda
+Harras nur das eine berichten konnte: Es war zwischen Onkel
 und Nichte zum völligen Bruch gekommen, Madge hatte es
-abgelehnt, das Wohnhaus in dem grünen Tale im -Eichen der
-»Insel! zu beziehen, und Seitdem war Austin nicht wieder hier
-»erschienen. umso An
-»… Magda Harras fügt? achselzuckend hinzu: »5ch habe leider
-gar keinen Einfluß auf?Satze, die jungenhaften und heftiger
-eng je ist m9 es sich nun einmal in den Kopf gesetzt hat,
-diese fünf Unglücksstätte aufzuklären, — — falls es Unfälle
-Sind. Ich bin der Überzeugung …« — Sie Stockte plötzlich —
-»»nun, ich will mit nichts hinter dem Berge halten — daß Lord
+abgelehnt, das Wohnhaus in dem grünen Tale im Süden der
+Insel zu beziehen, und Seitdem war Austin nicht wieder hier
+erschienen.
+
+Magda Harras fügte achselzuckend hinzu: »Ich habe leider
+gar keinen Einfluß auf Madge, die launenhafter und heftiger
+denn je ist und es sich nun einmal in den Kopf gesetzt hat,
+diese fünf Unglücksfälle aufzuklären, — — falls es Unfälle
+Sind. Ich bin der Überzeugung …« — sie Stockte plötzlich —
+»nun, ich will mit nichts hinter dem Berge halten — daß Lord
 Howard ermordet wurde, allerdings aus anderen Gründen,
-wie diese lächerlichen anonymen Briefe Sie angaben. Die Araber
-an der Küste drüben haben. den Verlust von Manibar nie
-verschmerzt, einst Soll hier ein mohammedanischen Heiliger gekauft
-haben, und dies? Wundertäter Soll großen Zulauf gehabt
+wie diese lächerlichen anonymen Briefe sie angaben. Die Araber
+an der Küste drüben haben den Verlust von Manibar nie
+verschmerzt, einst Soll hier ein mohammedanischer Heiliger gehaust
+haben, und dieser Wundertäter Soll großen Zulauf gehabt
 haben. Überreste Seines Bootshauses Sind noch in einem
-Entwurzelt im Süden vorhanden. Wer den Fanatismus der
-Möglich kennt, für den ist Lord Howards Tod nicht mehr So
+Talwinkel im Süden vorhanden. Wer den Fanatismus der
+Moslim kennt, für den ist Lord Howards Tod nicht mehr So
 unergründlich. Ich erfuhr von der ehemaligen Existenz dieses
-Heiligen erst in Kamaran von einem alten Afghan genaueres,
-und ich wundere mich Sehr, daß Doktor -Tremaine, der Deck —
-Wasser eines Artikels über Manibar, den ich übersetzt habe und
-an eine Wiener Zeitschrift verkaufte, diesen Wuudermann So«
+Heiligen erst in Kamaran von einem alten Araber genaueres,
+und ich wundere mich Sehr, daß Doktor Tremaine, der Verfasser
+eines Artikels über Manibar, den ich übersetzt habe und
+an eine Wiener Zeitschrift verkaufte, diesen Wundermann So
 <@pagebreak/>
-Gewicht erwähnt. — roch warnt mich. jetzt leider noch«) einer
-Pflicht entledigen, meine Herren…die mir Sehr unangenehm
-ist. Miß Moose lehnt es ab, mit Ihnen irgendwie Sich auszusprechen.
-« Sie ist gerade über. Sie, Mr. Harst, äußerst ein
-Port, weil Sie. in Gegenwart Lord Austins Behauptungen
-aufgestellt haben, die völlig aus der Luft gegriffen sein Gollon,
-… und diese Entrüstung gilt auch Ihnen, Mr. Gollon, dem Freunde
-und Begleiter Harsts. Beiwerk?! Sie es bitte, Madge anzusprechen,
+garnicht erwähnt. — Ich muß mich jetzt leider noch einer
+Pflicht entledigen, meine Herren, die mir Sehr unangenehm
+ist. Miß Madge lehnt es ab, mit Ihnen irgendwie Sich auszusprechen.
+Sie ist gerade über Sie, Mr. Harst, äußerst empört,
+weil Sie in Gegenwart Lord Austins Behauptungen
+aufgestellt haben, die völlig aus der Luft gegriffen sein sollen,
+und diese Entrüstung gilt auch Ihnen, Mr. Gollon, dem Freunde
+und Begleiter Harsts. Vermeiden Sie es bitte, Madge anzusprechen,
 ihr Gemütszustand bietet keinerlei Gewähr für friedliche
-Beziehungen, im. Gegenteil,?Madge hat Soeben Drohungen
-ausgestoßen, die mich erschienen. »u.
-Gollon murmelte irgend etwas vor Sich. hin, das kaum
-salonfähig war, lachte dann kurz auf und zeigte Tische Harras
-seine sehr Peitschenden Vollmachten. »Da — ich könnte
+Beziehungen, im Gegenteil, Madge hat Soeben Drohungen
+ausgestoßen, die mich erschreckten.«
+
+Gollon murmelte irgend etwas vor Sich hin, das kaum
+salonfähig war, lachte dann kurz auf und zeigte Miß Harras
+seine sehr weitgehenden Vollmachten. »Da — ich könnte
 sowohl Madge wie den Lord verhaften, und ich werde es
 tun, falls man uns hier irgendwie in die Quere kommt.« Seine
 Stimme verhieß nichts Gutes. »Wir Sind bewaffnet, und die
-arobijiwen Lümmel dort an der Ostbucht und ebenso die Besatzung
-von Austins Sacht werden bald merken, daß ich jetzt
+arabischen Lümmel dort an der Ostbucht und ebenso die Besatzung
+von Austins Jacht werden bald merken, daß ich jetzt
 hier Kraft des Gesetzes allein zu kommandieren habe,«
-Pagode Harras hatte Ich beim Überfliegen der Vollmachen
+
+Magda Harras hatte sich beim Überfliegen der Vollmachen
 verfärbt. »Das ist ja furchtbar«, Stammelte sie bestürzt.
-… »Es kann doch Ohr Ernst nicht Sein, Mr. Gollon, daß
-Sie Madge wirklich) verdächtigen. Bedenken Sie, — für Madge
-sind Sie- Seit Jahren eine Art Abgott gewesen, Sie liebt Sie
+»Es kann doch Ihr Ernst nicht sein, Mr. Gollon, daß
+Sie Madge wirklich verdächtigen. Bedenken Sie, — für Madge
+sind Sie Seit Jahren eine Art Abgott gewesen, sie liebt Sie
 doch, — — ich muß auch dies hier offen aussprechen, und …«
-Gollon unterbrach besagt schroff, »Der Liebhaber tritt
-zutun, der Beamte hat hier allein das Wort. Bestellen Sie
-20173 Barrington, hast ich sie Sofort Sprechen will — sofort —
+
+Gollon unterbrach sie fast schroff. »Der Liebhaber tritt
+zurück, der Beamte hat hier allein das Wort. Bestellen Sie
+Miß Barrington, hast ich sie Sofort sprechen will — sofort! —
 Auf Wiedersehen …«
 
 Er machte eine ebenso schroffe verabschiedende Handbewegung,
 und Magda Harras schlich bedrückt davon. Wir
-richten uns in den Schatten eines Felsens und warteten.
+setzten uns in den Schatten eines Felsens und warteten.
 
 <@pagebreak/>
 
@@ -1425,364 +1430,362 @@ Getreu meinem Bestreben, meinen lieben Lesern und zahllosen
 Freunden, die ich hier wieder einmal aufs wärmste begrüße,
 Stets eine leichte literarische Kost zu bieten, die noch
 zum Nachdenken erregt und dadurch über einen Hintertreppenpudding
-mit knolligen Gesellen hinausragen dürfte, habe ich
+mit knalligen Effekten hinausragen dürfte, habe ich
 auch hier versucht, die handelnden Personen, So weit es der
-Raum gestattet, So zu zeichnet, I; der aufmerksame Leser
-in der Lage ist, von Sich aus vor nähere, tiefer gehende Ruck
-Schüsse auf deren Charakter ziehen zu können. —
+Raum gestattet, So zu zeichnen, daß der aufmerksame Leser
+in der Lage ist, von Sich aus noch nähere, tiefer gehende Rückschlüsse
+auf deren Charakter ziehen zu können. —
 
-oh Selbst mußte meine anfängliche Beurteilung der Miß
+Ich Selbst mußte meine anfängliche Beurteilung der Miß
 Magda Harras Sehr bald korrigieren. Der erste Eindruck
-war trügerisch gewesen, Sie hatte zu uns in wohlüberlegter
+war trügerisch gewesen, sie hatte zu uns in wohlüberlegter
 Sätzen wie ein Blaustrumpf in irgend einer Frauenversammlung
-gesprochen, und »Percy Gollon behielt letzten Endes doch recht:.
+gesprochen, und Percy Gollon behielt letzten Endes doch recht:
 Eine Sehr, Sehr kluge, Sehr beherrschte, welterfahrene Dame,
-die unweigerlich als Spielerin eines Pensionats für höhere
-Tochter glänzend am richtigen Plätze gewesen wäre.
+die unweigerlich als Inhaberin eines Pensionats für höhere
+Töchter glänzend am richtigen Plätze gewesen wäre.
 
-Harst jagte gar nichts, rauchte Seine Mirakulum und
+Harst sagte gar nichts, rauchte Seine Mirakulum und
 Spielte mit dem Sicherungsflügel Seiner Mauserbüchse, den er
 hin und herschnellen ließ.
 
 Gollon fixierte uns von der Seite. »Na, wie gefiel Sie
-Ihnen’’«
+Ihnen?«
 
-Harst nickte. »Ausgezeichnet!l«
+Harst nickte. »Ausgezeichnet!«
 
 An Seiner Stimme war jedoch ein Unterton zu Spüren, der
-Deren Vollen mißtrauisch machte. »Weinen Sie das ehrlich,
-Durst?«
+Percy Gollon mißtrauisch machte. »Meinen Sie das ehrlich,
+Harst?«
 
 »Den Umständen nach völlig ehrlich.«
-»Was heißt das?71«
+
+»Was heißt das?!«
 
 <@pagebreak/>
-… »Soll ich eine Frau beurteilen können, die ich kaum erst
-gesehen habe?! Was verlangen Sie?! Schraut mag. vielleicht
-geblendet Sein, ich nicht. Auch Madge blendete mich nicht, erst
+»Soll ich eine Frau beurteilen können, die ich kaum erst
+gesehen habe?! Was verlangen Sie?! Schraut mag vielleicht
+geblendet sein, ich nicht. Auch Madge blendete mich nicht, erst
 recht nicht der Lord. Gut Ding will Weile haben. Niemand
-trägt die Firma Seines Charakters lesbar auf der Stich, und
+trägt die Firma Seines Charakters lesbar auf der Stirn, und
 die meisten Menschen Sind Schwindelfirmen.« —
+
 Gollon Sog an Seiner Zigarre. »Sie reden so geschwollen
-wie. 14 aha, Miß Harras erscheint wieder … »Bin neugierig.«
+wie … — aha, Miß Harras erscheint wieder … Bin neugierig.«
 
 »Ich nicht«, Sagte Harst so trocken, wie dies bei diesem
-Schatten möglich war. »Natürlich. läßt Madge Ihnen bei
-!hellen, Sie können ihr mit Ihrem Haftbefehl den Rücken
+Schwitzen möglich war. »Natürlich läßt Madge Ihnen bestellen,
+Sie können ihr mit Ihrem Haftbefehl den Rücken
 runterrutschen, — entschuldigen Sie die vulgäre Redensart,
-aber bei« dieser Bullenhitze würde Sogar das Gehirnschmalz
-unserer redseligsten, zungengewandtesten Quoll kläglich versichern.«
-Mr. erhoben uns, Magda Harras Stand Sehr verwirrt
+aber bei dieser Bullenhitze würde Sogar das Gehirnschmalz
+unserer redseligsten, zungengewandtesten Snobs kläglich versickern.«
+
+Wir erhoben uns, Magda Harras Stand Sehr verwirrt
 vor uns, und Schon ihre verschüchterten Augen ließen das
-Schrillte ahnen,
+Schlimmste ahnen,
 
-»MW. Gollon«, jagte Sie leise, »Madge läßt Ihnen ausrichten,
+»Mr. Gollon«, sagte Sie leise, »Madge läßt Ihnen ausrichten,
 daß Sie jeden niederschießt, der Sich ihr auf zehn Schritt
-nähert. — Es ist Schrecklich, — im vermag Sie geruht zu beruhigen,
-Sie ist in einer seelischen Verfassung, die.
+nähert. — Es ist Schrecklich, — ich vermag Sie garnicht zu beruhigen,
+sie ist in einer seelischen Verfassung, die …«
 
-Gollons harte Züge wurden finster.« »So! Schießen?!
+Gollons harte Züge wurden finster. »So! Schießen?!
 Die junge Dame wird uns kennen lernen! — Vorwärts, Harst,
-Bezwingen wir die Unterredung … l«
+erzwingen wir die Unterredung …!«
 
 Magda Harras Schrie leise auf und hielt Percy zurück,
-»Wollen Sie Höhe Leben aufs »viel geben?h1 Sie wissen, wie
-tadellos Moose trifft, und …
+»Wollen Sie Ihr Leben aufs Spiel setzen?! Sie wissen, wie
+tadellos Madge trifft, und …«
 
-Gollon Stelzte ’schon mit Sangen Schritten durch das Geröll …
-Harst setzte Sich, ich blieb unschlüssig Stehen, und Fuß
-Harras starrte? mit weiten Augen unserem Freunde nach. Der
-war noch zwölf Meter vom eigene entfernt, als ein Schuß fiel,
-der ihm den hohen Korkhelm ins Genick Schleuderte, —«— ein
+Gollon Stelzte schon mit langen Schritten durch das Geröll.
+Harst setzte Sich, ich blieb unschlüssig stehen, und Miß
+Harras starrte mit weiten Augen unserem Freunde nach. Der
+war noch zwölf Meter vom Zelte entfernt, als ein Schuß fiel,
+der ihm den hohen Korkhelm ins Genick Schleuderte, — ein
 <@pagebreak/>
 zweiter Schuß zerschmetterte den Kolben Seiner Büchse, die
 er wie einen Tennisschläger in der Hand gehalten hatte.
 
-»Anrückt, Gollon!«, brüllte Harst mit voller Lungenkraft.
+»Zurück, Gollon!«, brüllte Harst mit voller Lungenkraft.
 
-Lernt Stand Still, und Seine Stimme war noch lauter als
-die Harsts, wie er nun der unsichtbaren Schützin mit ersten
-sicher Ruhe zurief: »Sie Sollten Sich Gehauen, Kratzer Ich
+Percy stand Still, und Seine Stimme war noch lauter als
+die Harsts, wie er nun der unsichtbaren Schützin mit erstaunlicher
+Ruhe zurief: »Sie Sollten Sich schämen, Madge! Ich
 — — verachte Sie, — Sie Sind feige!«
 
 Dann machte er kehrt, winkte uns, und wir begaben uns
 wieder an Bord, wo Abraham Shnout bereits den Spirituskocher
-angezündet und im Aluminiumtopf einen Konserveujraß
-zusammengemischt hatte, der trotz des bedenklichen Aus-…
-Gelegt wunderbar duftete.
+angezündet und im Aluminiumtopf einen Konservenfraß
+zusammengemischt hatte, der trotz des bedenklichen Aussehens
+wunderbar duftete.
 
 Abraham fragte nichts. Er Sah das Loch im Tropenhelm
-und die Splitter am Büchsenkolben und meinte nur: »So.
-was Peinliches habe ich Schon vorausgeahnt. Der Satan hole
-»diese vergl … Onkel und alle Frauenzimmer, meine Frau mit
-eingerechnet.« —
+und die Splitter am Büchsenkolben und meinte nur: »So
+was Ähnliches habe ich Schon vorausgeahnt. Der Satan hole
+diese verfl. Insel und alle Frauenzimmer, meine Frau mit
+eingerechnet.«
 
 Percy blieb Stumm. Nach hastiger Mahlzeit verlegten
 wir unser Lager nach oben in den Westwinkel der Klippe, benutzten
-das Bootsrandes als Zelt und Schleppten das Boot
-So hoch auf das Ri]!, daß kein arabischen Halunke es uns
-Stehlen konnte, Indischen unserem Lagerplatz und dem der
-drei Umgarnen gab es einen Zwischenraum von etwa drei
-hundert?Vetter.
+das Bootsverdeck als Zelt und Schleppten das Boot
+So hoch auf das Riff, daß kein arabischer Halunke es uns
+Stehlen konnte. Zwischen unserem Lagerplatz und dem der
+drei Amazonen gab es einen Zwischenraum von etwa drei
+hundert Meter.
 
 Um vier Uhr nachmittags verließen Gollon und ich die
 Klippe und wanderten gen Süden, um Lord Austin eine Visite
-abzustatten, Bruder er Sicherlich Sehr wenig erbaut Sein würde.
-Gollon wollte ihn verlassen und der Jachtbesatzung gründlichst
+abzustatten, von der er Sicherlich Sehr wenig erbaut sein würde.
+Gollon wollte ihn verhaften und der Jachtbesatzung gründlichst
 klarmachen, wie viel Jahre Zuchthaus auf bewaffneten Widerstand
 gegen einen englischen Beamten Stünde. Die vier Araberlümmel
 Sollten in Eisen gelegt werden.
 
-Wunder war die Hölle. Die kahlen Felsen und Sand
-flachen Strahlten eine Hitze aus, daß wir wie trunken dahinstolperten
-und Ihr bald einfachen, wie recht Harst mit Seiner
+Manibar war die Hölle. Die kahlen Felsen und Sandflächen
+Strahlten eine Hitze aus, daß wir wie trunken dahinstolperten
+und sehr bald einsahen, wie recht Harst mit Seiner
 <@pagebreak/>
 Weigerung gehabt hatte, um diese Tageszeit, wo die Sonne
 noch So hoch Stand, das Steinerne Haus des Lords aufzusuchen.
 
-Trotzdem wurden wir für unseren Wagentür nachher durch
-den Anblick eines fast paradiesischen Cafees belohnt, in dem
+Trotzdem wurden wir für unseren Wagemut nachher durch
+den Anblick eines fast paradiesischen Tales belohnt, in dem
 ein klarer Bach lauschend dahinströmte und Palmen und hohe
-Büsche,- bunte Blumenfelder und ein Sauberer Garten nicht
-nur Schatten und Freude Spendeten, Flandern auch gerade der
+Büsche, bunte Blumenfelder und ein Sauberer Garten nicht
+nur Schatten und Freude Spendeten, sondern auch gerade der
 Mann, auf den es uns ankam, uns plötzlich äußerst höflich
 entgegenkam. Lord Austin entschuldigte Sich bei uns wegen
 der Übergriffe Seiner Leute und zeigte Sich von So natürlicher,
 entwaffnenden Liebenswürdigkeit, daß Gollon es nicht fertig
-brachte, in »deren Tone zu antworten oder etwa Sofort Seine
-wahre Absicht brutal zu- enthüllen. Dabei vermied Lord Austin
+brachte, in anderem Tone zu antworten oder etwa Sofort Seine
+wahre Absicht brutal zu enthüllen. Dabei vermied Lord Austin
 jede Übertreibung Seines weltmännischen Auftretens nach der
-Seite kriecherischer Unterwürfigkeit hin, Sein Benehmen war
-in allem das eines Gentleman von gutem Gewissen und beiden
-Umgangsformen, der eben nur Sein Haus ein paar Bekannten
-zeigen mochte.
+Seite kriecherischer Unterwürfigkeit hin, sein Benehmen war
+in allem das eines Gentleman von gutem Gewissen und besten
+Umgangsformen, der eben nur sein Haus ein paar Bekannten
+zeigen möchte.
 
-Tiefes Haus, ein viereckiger Steinkasten mit Glasdach
-und großer Veranda und fest vergitterten Fenster!, erwies
-Sich als wunderbar kühl und hatte eine Einbilde, praktische
-Einrichtung. Der Lord führte aus in Sein Arbeitszimmer, wir
-nahmen »Platz, der Diener Ton Geister brachte wundervolle
+Dieses Haus, ein viereckiger Steinkasten mit Glasdach
+und großer Veranda und fest vergitterten Fenstern, erwies
+Sich als wunderbar kühl und hatte eine schlichte, praktische
+Einrichtung. Der Lord führte uns in sein Arbeitszimmer, wir
+nahmen Platz, der Diener Tom Bristol brachte wundervolle
 Getränke, und ich hatte das Gefühl, irgend ein Märchen zu
-erleben. Hier im Noten Meer hatte ich ein CQuskulum entdeckt,
-das ebensogut in einer der üppigston tropischen Landschaften
-hatte Stehen können, einen Herrensitz, der nicht ahnen liest, das
+erleben. Hier im Roten Meer hatte ich ein Tuskulum entdeckt,
+das ebensogut in einer der üppigsten tropischen Landschaften
+hätte Stehen können, einen Herrensitz, der nicht ahnen ließ, daß
 mit ihm So eng der bisher ungeklärte Tod von fünf Männern
-verkmipft war.
+verknüpft war.
 
 Lord Austin reichte uns Zigarren, und das Gespräch
 wandte Sich Schließlich den Dingen zu, die notwendig erörtert
-werden mußten, und. die Gollon doch nur Sehr zögernd streifte.
+werden mußten, und die Gollon doch nur Sehr zögernd streifte.
 
-»Mylord, würden Sie nicht So liebenswürdig Sein und
+»Mylord, würden Sie nicht So liebenswürdig sein und
 mir meine peinliche amtliche Aufgabe durch eine Antwort erleichtern?
 — Weshalb weilten Sie zur Zeit des Todes Ihres
 <@pagebreak/>
-Bruders hier »auf der Insel, ohne Sich Ihrem Bruder oder
-
+Bruders hier auf der Insel, ohne Sich Ihrem Bruder oder
 Miß Madge zu zeigen?«
 
 Der Lord lehnte Sich bequemer in den Rohrsessel zurück.
-»Mr. Gollon, die Antwort fällt mir Sehr! Schwer. Würden Sie
-oho Sauerstoff So leicht vielsagenden? Wohl kaum. Und vor
-will ich nun endlich allen Verdacht zerstreuen, der von. eifrigen
+»Mr. Gollon, die Antwort fällt mir Sehr Schwer. Würden Sie
+Ihr Innerstes So leicht preisgeben? Wohl kaum. Und doch
+will ich nun endlich allen Verdacht zerstreuen, der von eifrigen
 Händen und einem übereifriger Hirn wider mich in die Welt
+gesetzt wurde …«
 
-gesetzt wurde.
-Er wurde unterbrochen, — ’. draußen in der Diele ertönte
+Er wurde unterbrochen, — draußen in der Diele ertönte
+Harsts Scharfe Stimme:
 
-Sache Scharfe Stimme:
+»He, — pflegen Sie immer an der Tür zu horchen, Bristol?
+— Ruhig, Bursche! Wen ich einmal gepackt habe, halte ich
+fest!«
 
-Kg — pflegen Sie immer an der Tür zu horchen, Geister?
-Ruhig, Busches Wen ich einmal gepackt habe, halte ich
+Die Tür flog auf, Harst Schob den geschniegelten Kammerdiener
+vor sich her und Sagte auffallend vergnügt: »Freund
+Gollon, Sie haben ja zwei Paar Armbänder in der Tasche …
+Ein Paar genügt zunächst.«
 
-»Die Tür flog auf, Harst Schob den geschniegelten Kammerdiener
-vor Ich her und Sagte auffallend vergnügt: »stand
+Tom Bristol Spielte die beleidigte Unschuld.
 
-»Gollon, Sie haben ja zwei »Paar Armbänder in der Tasche …
-
-Ein paar genügt zunächst.«
-
-Ton Geiste! Spielte die beleidigte Unschuld.
-— »»Mylord werden es nicht gestatten, daß man mich hier
-wie einen Verbrecher behandelt. I3cch habe nicht gehorcht,
+»Mylord werden es nicht gestatten, daß man mich hier
+wie einen Verbrecher behandelt. Ich habe nicht gehorcht,
 Sondern wollte nur anklopfen und fragen, ob Mylord noch
-
-»Wünsche hätten. G« Sollte doch zur Ostbucht eilen und die
-
+Wünsche hätten. Ich Sollte doch zur Ostbucht eilen und die
 Leute dort verständigen, daß die Herren nicht belästigt werden
 dürfen. Aber Mr. Harst hat Sich ins Haus eingeschlichen gehabt
-und kam Soeben die Treppe herab,  oh protestiere gegen
-diese unwürdige Behandlung, Mylord, und.,
+und kam Soeben die Treppe herab. Ich protestiere gegen
+diese unwürdige Behandlung, Mylord, und …«
 
-Harst zog Geister jäher zum Fenster hin,
+Harst zog Bristol jäher zum Fenster hin,
 
 »Lassen Sie Sich mal anschauen, — — so, So, — Ihr Gesicht
 kommt mir bekannt vor, und — — auf meine Verantwortung,
 Gollon, — der Kerl kriegt Handschellen um und wird
-Diener, eingesperrt. — Gibt es hier zuverlässige Keller, Miß
-!oft
+sicher eingesperrt. — Gibt es hier zuverlässige Keller, Mylord?«
 
-Lord Austin war aufgestanden. Seine Fügt verrieten,
+Lord Austin war aufgestanden. Seine Züge verrieten,
 daß er durch Harsts eigenmächtiges Eingreifen Stark gereizt
 worden war.
 
 <@pagebreak/>
-»Herr Harst, gefaßt der Fall, Ton hätte gehorcht, —
+»Herr Harst, gesetzt der Fall, Tom hätte gehorcht, —
 das gibt niemandem ein Recht, meinen Kammerdiener wie
 einen Schwerverbrecher …«
 
 Gollon mischte Sich ein. »Entschuldigen Sie, Mylord, aber
 die Umstände zwingen mich zu außerordentlichen Maßnahmen.
-Geister wird eingesperrt. Bitte, zeigen Sie uns die Keller.«
-Sein Ton war befehlend, kurz und frostig, und als Geister
+Bristol wird eingesperrt. Bitte, zeigen Sie uns die Keller.«
+sein Ton war befehlend, kurz und frostig, und als Bristol
 abermals Seiner Entrüstung Ausdruck verleihen wollte, fuhr er
 ihn grob an und war auch nachher in den geräumigen Kellern
-So Scharf und herrisch, daß Geister lediglich noch ein haßerfülltes:
+So Scharf und herrisch, daß Bristol lediglich noch ein haßerfülltes:
 »Sie werden es bereuen!« hervorstieß, und der Lord
-sein Verhalten uns gegenüber völlig anstellte. Mit eisiger
+sein Verhalten uns gegenüber völlig umstellte. Mit eisiger
 Höflichkeit bat er uns, als der Kammerdiener eingeschlossen
 worden war und Percy den Schlüssel zu Sich gesteckt hatte,
-wieder in Sein -Arbeitszimmer und nötigte uns nicht mehr zum
-Platznehmen, Sondern wandte Sich bedrohen; an Gollon mit den
-Schneidend hervorgebrachten Worten: »Gedanke die Sich bei
-Herrn Harst, daß ich) meine ursprüngliche Absicht, Ihnen den
-Grund meiner Änwesenheit hier auf Manibar um die Zeit
-des Verschwindens meines Bruders offen amuqeben, wieder
-zurückgestellt h habe. Falls Sie noch Wünsche haben Sollten, —
-
-ihre
+wieder in sein Arbeitszimmer und nötigte uns nicht mehr zum
+Platznehmen, Sondern wandte Sich lediglich an Gollon mit den
+Schneidend hervorgebrachten Worten: »Bedanken Sie Sich bei
+Herrn Harst, daß ich meine ursprüngliche Absicht, Ihnen den
+Grund meiner Anwesenheit hier auf Manibar um die Zeit
+des Verschwindens meines Bruders offen anzugeben, wieder
+zurückgesteckt habe. Falls Sie noch Wünsche haben Sollten, —
+bitte …«
 
 Gollon war jetzt doch Sichtlich betreten und warf Harst
 einen fragenden Blick zu.
 
-»Den Grund …«, meinte Harst Sehr diebenswürdig, »den
+»Den Grund …«, meinte Harst Sehr liebenswürdig, »den
 Grund brauchen Sie nicht mehr zu nennen, Mylord. Ich kenne
-ihn Seit der Sekunde, als Sie den Brief, den Madge Dolch
-rieben zu haben ableugnet, zusammen mit Ohren Handschuhen
+ihn Seit der Sekunde, als Sie den Brief, den Madge geschrieben
+zu haben ableugnet, zusammen mit Ihren Handschuhen
 in die Tasche Steckten.«
 
 Austin Barrington richtete Sich Straff auf. »So?! Da
 bin ich wirklich neugierig, Herr Harst.«
 
 »Lassen Sie doch diesen ironischen Ton, der weiß Gott
-nicht zu diesen Schweren seelischen Kopfkissen paßt, denen Sie
+nicht zu diesen Schweren seelischen Konflikten paßt, denen Sie
 ausgesetzt waren. Die Wahrheit ist die, daß Sie Ihre Nichte
-QWMadge heimlich Seit langem lieben — So leidenschaftlich lieben,
+Madge heimlich Seit langem lieben — so leidenschaftlich lieben,
 <@pagebreak/>
 daß Sie jeden Verdacht von ihr abwenden wollten. Deshalb
-ließen Sie den Brief der!:«. binden, deshalb Ihre widerspruchsvollen
+ließen Sie den Brief verschwinden, deshalb Ihre widerspruchsvollen
 Schachzüge, deshalb hier Sogar die Komödie mit den
-allzu schießwütigen Kerlen an der Bucht …
+allzu schießwütigen Kerlen an der Bucht …«
 
-Der Lord hatte Sich sah umgedreht und war ans Fenster
+Der Lord hatte Sich jäh umgedreht und war ans Fenster
 getreten.
-Percy Gollons Schwere Atemzüge blieben minutenlang
-das einzige Geräusch im Zimmer., Daß ihn diese Offenbarung,
-daß der Lord Seine Nichte Stelle, in höchste Erregung bringen
-mußte, war verständlich …
 
-Vom Fernsten her kam es langsam, und mehr geflüstert
+Percy Gollons Schwere Atemzüge blieben minutenlang
+das einzige Geräusch im Zimmer. Daß ihn diese Offenbarung,
+daß der Lord Seine Nichte liebte, in höchste Erregung bringen
+mußte, war verständlich.
+
+Vom Fenster her kam es langsam, und mehr geflüstert
 als gesprochen: »Sie haben recht, Herr Harst, ich liebte Madge,
 ich habe es ihr nie gezeigt, ich zitterte damals für ihre Sicherheit,
-als Sie meinen unglücklichen Bruder hierher begleiten
+als sie meinen unglücklichen Bruder hierher begleiten
 wollte, ich habe damals im Süden der Insel in einer kleinen
-Höhle gekauft, und — — heute Schäme ich mich dieses. zauberhaften
-Gut, denn Madge ist Solche Stille Liebe nie wert gewesen,
+Höhle gehaust, und — — heute Schäme ich mich dieses knabenhaften
+Tuns, denn Madge ist Solche Stille Liebe nie wert gewesen,
 Madge und ich Standen miteinander wie die allerbesten Freunde,
 und bei der ersten Probe auf die Tiefe dieser Freundschaft
-versagte Sie und hielt mich für … den Mörder ihres Vaters.
+versagte sie und hielt mich für … den Mörder ihres Vaters.
 Mein Gewissen ist rein. Wenn Sie mich verhaften wollen,
-Gollon, — — bitte …«;
+Gollon, — — bitte …«
 
 Harst war rasch neben ihm. »Lord Austin, woher wissen
-die, daß Gollon die Vollmacht hat, einen Lord von. England
-zu verhaften?« Er hätte ihm die Hand leicht auf die Schulter
-gelegt, Seine Stimme klang fast beschwörend …
+Sie, daß Gollon die Vollmacht hat, einen Lord von England
+zu verhaften?« Er hatte ihm die Hand leicht auf die Schulter
+gelegt, Seine Stimme klang fast beschwörend.
 
-» Bedauere, — — ich erriet es«, Sagte Austin kalt.
+»Bedauere, — — ich erriet es«, Sagte Austin kalt.
+
 Harst trat zurück.
-»Bedauere, Mylord, — — es ist zu Spät«, meinte er
 
-überraschend herzlich. »Wir werden uns wiedersah en, wir
+»Bedauere, Mylord, — — es ist zu Spät«, meinte er
+überraschend herzlich. »Wir werden uns wiedersehen, wir
 haben hier noch einiges zu erledigen, bevor die letzten Schleier
-fallen können. Tür Beisteht Ernährung Sorgen Sie wohl.
-Lassen Sie ihn nicht frei, Mylord, — noch nie hat ein schlimODED0SDOISDISSSIOIESO
+fallen können. Für Bristols Ernährung Sorgen Sie wohl.
+Lassen Sie ihn nicht frei, Mylord, — noch nie hat ein schlimmerer
 <@pagebreak/>
-Meter Schurke Sie getäuscht wie dieser Mann mit dem dunkelbraunen
-Haar und. dem glatten Gesicht und den mandelförmigen
+Schurke Sie getäuscht wie dieser Mann mit dem dunkelbraunen
+Haar und dem glatten Gesicht und den mandelförmigen
 klugen Augen.«
+
 Wir verließen das Steinhaus in einer Stimmung, die
 recht verschieden Sich äußerte. Gollon blieb zurück, wollte allein
-Sein, Harst pfiff leise ein Lied, und ich …?!.
+sein, Harst pfiff leise ein Lied, und ich …?!
 
-War etwa Geister der Mörder?!
+War etwa Bristol der Mörder?!
 
 <@pagebreak/>
 
 <h2>3. Kapitel.</h2>
 
-<h3>… Percys Wade bekommt ein Loch.</h3>
+<h3>Percys Wade bekommt ein Loch.</h3>
 
 Harst, der die Karte der Insel bei Sich hatte, Schlug einen
-anderen Rückweg ein, der uns an den buschreichen Welstabhängen
-des Tales entlangführte. litt einem Male gelangten
-wir. auf eine Terrasse, auf] der zwischen Palmen die Überreste
+anderen Rückweg ein, der uns an den buschreichen Westabhängen
+des Tales entlangführte. Mit einem Male gelangten
+wir auf eine Terrasse, auf der zwischen Palmen die Überreste
 eines größeren hölzernen Bauwerkes emporragten. Die
 Balkenenden des noch teilweise vorhandenen Daches waren
-grob geschnitzt, — ich hielt diese Weiterungen für arabischen
+grob geschnitzt, — ich hielt diese Verzerrungen für arabischen
 Ursprungs und dachte Sofort an den Heiligen, der auf Manibar
 einst gelebt haben Sollte.
 
-Harst meinte, Sein Pfeifkonzert unterbrechend: »Altrömische
+Harst meinte, sein Pfeifkonzert unterbrechend: »Altrömische
 Ruinen, — — Eichenholz von der afrikanischen
+Küste … Die Steinruinen liegen im Süden, von denen Doktor
+Tremaines Artikel Spricht.«
 
-Küste … Die Bleigrauem liegen im Süden, von denen Doktor
-Steinernes Mittags Spricht.«
-
-Wir Schritten weiter. — »Harald, hat etwa Geister den
+Wir schritten weiter. — »Harald, hat etwa Bristol den
 bewußten Spargel für uns gepflanzt?«, fragte ich, nur um
 eine Unterhaltung in Fluß zu bringen, denn ich war mit unseren
-Fragen über und über geladen und mußte mir Luft der
-halten.
+Fragen über und über geladen und mußte mir Luft verschaffen
 
-Harst beobachtete mit Seitwärts gedrehten Kopf ein paar
-Gottähnliche Vögel, die aus einem Gestrüpp krächzend Wesentlichen.
+Harst beobachtete mit Seitwärts gedrehtem Kopf ein paar
+rabenähnliche Vögel, die aus einem Gestrüpp krächzend davonstrichen.
 
-»Geister? —« Nein und ja, — wie man es nimmt …
+»Bristol? — Nein und ja, — wie man es nimmt …
 Ganz klar Sehe ich in dieser Sache noch nicht, mein Alter.«
 Er Schaute mich an und hatte plötzlich ein Sehr ernstes Gesicht.
-»Ein Kriminalfall: wird sofort ungeheuer kompliziert, Sobald
+»Ein Kriminalfall wird sofort ungeheuer kompliziert, Sobald
 dabei seelische Verwicklungen mitsprechen wie hier. Nimm
-Austin Barrington, herzlichere Seinen Charakter, berücksichtige
-Seinen Kampf gegen Seine Leidenschaft für Madge, —«— — das
+Austin Barrington, zergliedere Seinen Charakter, berücksichtige
+Seinen Kampf gegen Seine Leidenschaft für Madge, — — das
 <@pagebreak/>
-ist nur einer der seelischen Herrlichste. Natürlich ist Austin
-Schuldlos. Das weiß ich) nun mit aller Bestimmtheit.«
+ist nur einer der seelischen Konflikte. Natürlich ist Austin
+Schuldlos. Das weiß ich nun mit aller Bestimmtheit.«
 
 Wir erklommen einen Hügel, und die Unterhaltung Schlief
 wieder ein, da wir übergenug mit dem abschüssigen Wege zu
-tun hatten. Als wir wieder stärkeres Gelände erreicht hatten,
-wollte ich das Gespräch wiederausnehwen. Ein ferner Schuß
+tun hatten. Als wir wieder flacheres Gelände erreicht hatten,
+wollte ich das Gespräch wiederaufnehmen. Ein ferner Schuß
 hinter uns ließ uns Stehenbleiben und Sekundenlang horchen,
-dann lief Harst in langen Gaben den Weg zurück, und da ich
+dann lief Harst in langen Sätzen den Weg zurück, und da ich
 mit ihm nicht Schritt halten konnte, kam ich zu Spät bei den
-hölzernen Ruinenresten zu, sah nur noch ein paar braune So
-Staaten eilends durch das Dickicht brechen und erblickte auf
+hölzernen Ruinenresten an, sah nur noch ein paar braune Gestalten
+eilends durch das Dickicht brechen und erblickte auf
 einem der Dachbalken unseren Percy, der dort gerade mit
-Seinem Messer einen Pfeil aus Seiner Wade heraufschallt
+Seinem Messer einen Pfeil aus Seiner Wade herausschnitt
 und uns Sehr kaltschnäuzig zurief:
 
 »Falls das Ding vergiftet ist, Harst, — grüßen Sie Madge
 von mir!«
 
-Harst Zurufe Schon nach oben, und als wir den etwas
-»bleichen Percy ins Gras gelegt halfen, schüttete Harst schleunigst
-in die Stark blutende Wunde Sein geantwortet Modernen«-
-gansaureskali hinein, band den Unterschenkel ab, wiederholte
-die Dahinlebten, und prüfte Percys Pupillen,
+Harst turnte Schon nach oben, und als wir den etwas
+bleichen Percy ins Gras gelegt hatten, schüttete Harst schleunigst
+in die Stark blutende Wunde sein gepulvertes Übermangansaureskali
+hinein, band den Unterschenkel ab, wiederholte
+die Desinfektion, und prüfte Percys Pupillen,
 
-Es waren bange linken, die wir bei dem geduldig auf
-Sein Schicksal Harrenden verbrachten. Und erst nach einer
+Es waren bange Minuten, die wir bei dem geduldig auf
+sein Schicksal Harrenden verbrachten. Und erst nach einer
 halben Stunde atmeten wir erleichtert auf: Der Rohrpfeil mit
 der eisernen Spitze war nicht vergiftet gewesen, die Wundränder
 zeigten keine Verfärbung, und wieder eine Stunde darauf
@@ -1790,39 +1793,39 @@ konnte der abgehärtete Percy zwischen uns zum Lager
 zurückhumpeln.
 
 »Drei braune Schufte waren es«, hatte er uns beiläufig
-mitgeteilt. »Herausgerollt wie Zutrauen, — und So überraschend
-kam der Angriff, daß der Steinwurf des einen Ha«
-Hunden mir die Büchse glatt aus der Hand Schlug … — Und mit
-der Pisto’e war nicht viel auszurichten, die Kerle blieben gut
+mitgeteilt. »Herausgeputzt wie Indianer, — und So überraschend
+kam der Angriff, daß der Steinwurf des einen Halunken
+mir die Büchse glatt aus der Hand Schlug … — Und mit
+der Pistole war nicht viel auszurichten, die Kerle blieben gut
+in Deckung …«
 
-in Deckung …
-Harst hatte nichts weiter gefragt, und als wir unser Na«-
+Harst hatte nichts weiter gefragt, und als wir unser Patentzelt
 <@pagebreak/>
-deutet erreicht hatten, verlangte. Percy Sehr energisch nach
+erreicht hatten, verlangte Percy Sehr energisch nach
 einem Becher Brandy … »Der Aderlass war etwas reichlich,
-und mein Herz puimnpert wie ein lahmer Motor.«
+und mein Herz pumpert wie ein lahmer Motor.«
 
--Daß Schraut mit Kernflüchen jede Art Postiert auf die
-Häupter der Bogenschützen herablehnte, und daß plötzlich Miß
+Daß Shnout mit Kernflüchen jede Art Pestilenz auf die
+Häupter der Bogenschützen herabflehte, und daß plötzlich Miß
 Harras auftauchte und Sich voller Teilnahme nach Percys
-Ergeben erkundigte und wirklich zugab, Madge habe Sie herüber geschickt …
+Ergeben erkundigte und wirklich zugab, Madge habe Sie herüber geschickt,
 zauberte ein Lächeln um Gollons Lippen und
-vpersjohnte ihn vollständig mit der Schmerzenden Wade.
+versöhnte ihn vollständig mit der Schmerzenden Wade.
 
 Miß Harras verabschiedete Sich Sehr bald und Stellte keinerlei
 überflüssige Fragen.
 
-Alle Sie davonging, murmelte Abraham einen Spruch, den
-Sein Namensvetter im Alten Testament wohl wie in den Mund
-genommen hatte,
+Als sie davonging, murmelte Abraham einen Spruch, den
+sein Namensvetter im Alten Testament wohl nie in den Mund
+genommen hätte,
 
-Es war ein grimmer Fluch mit dem Aussah: »… Schein«
-heiliges Frauenzimmer, das … ll«
+Es war ein grimmer Fluch mit dem Zusatz: »… Scheinheiliges
+Frauenzimmer, das …!!«
 
-Percy war erstaunt. »Her? Die Harras?! — Schraut,
-Sie verteile! ohne Sympathie und Antipathie denn doch zu
-willkürlich. Tiefe Dame, die So gekreischt redet wie ein
-Buch über »Honorare der Verbrechernaturen«, ist ein harmloses
+Percy war erstaunt. »Wer? Die Harras?! — Shnout,
+Sie verteilen Ihre Sympathie und Antipathie denn doch zu
+willkürlich. Diese Dame, die So gedrechselt redet wie ein
+Buch über »Komplexe der Verbrechernaturen«, ist ein harmloses
 Kaninchen.«
 
 Harst, der gerade die Socken wechselte, Sagte allzu trocken:
@@ -1831,41 +1834,40 @@ Harst, der gerade die Socken wechselte, Sagte allzu trocken:
 Percy Starrte ihn entgeistert an. »Wie, — Sie trauen
 der Harras nicht?!«
 
-»ach traue ihr alles zu, und was Sie alles aufstehn kann,
+»Ich traue ihr alles zu, und was Sie alles einfädeln kann,
 davon haben Sie ja vorhin einen Vorgeschmack bekommen,
 lieber Gollon. Diese »Indianer« waren Austins vier arabische
-Taschen, und Maate Harras hat diese Heuchler auf die Beine
-gebracht. Glauben Sie, ich kam zufällig in das Steinhaus?!l
+Wächter, und Magda Harras hat diese Heuchler auf die Beine
+gebracht. Glauben sie, ich kam zufällig in das Steinhaus?!
 Nein, — ich Sah Miß Harras davonschleichen, als wir hier
-unser Bedenkzeit aufbauten, und da nur Sie meiner Mutter
+unser Patentzelt aufbauten, und da nur sie meiner Mutter
 das Magazin mit dem bewußten Artikel über diese Insel zugeschickt
-haben Kam, was ich übrigens Sofort ahnte, bin ich
-ebenfalls zum Steinigt s geeilt, war Ton vor euch beiden dort
+haben kann, was ich übrigens Sofort ahnte, bin ich
+ebenfalls zum Steinhaus geeilt, war schon vor euch beiden dort
 <@pagebreak/>
 und Sah Miß Magda zur Hintertür hinausschlüpfen … Vielleicht
-ahnen Sie ’nun auch, weshalb ich Geister einkerkerte:
-Der Kerl und Miß Harras Sind So gewiß Geschwister und Boerbündete,
+ahnen Sie nun auch, weshalb ich Bristol einkerkerte:
+Der Kerl und Miß Harras Sind So gewiß Geschwister und Verbündete,
 wie Schraut und ich dicke Freunde Sind, — dick ist
 allerdings nur Schraut …«
 
 Wir Schwiegen andächtig.
 
 »… Und weil ich nun Schon mal im Zuge bin: Madge
-war tfatsäachlich nie bei mir als nächtliche, verschleierte, flüsternde
+war tatsächlich nie bei mir als nächtliche, verschleierte, flüsternde
 Besucherin, das war die andere, mit blonder Perücke
 ausstaffiert und in Madges Mantel und Hut … Die Harras
 hat auch den Brief an mich gefälscht, hat ebenso die anonymen
-Briefe an Austin und Madge geschickt, hat den Spargel gen
+Briefe an Austin und Madge geschickt, hat den Spargel gepflanzt
+— — alles tat sie, nur sie … «
 
-pflanzt — — alles tat Sie, nur Sie … «
+»Und — zu welchem Zweck?!«, fragte Percy, Sich eifrig die
+Stirn reibend. »Zu welchem Zweck? Ich bin doch Schließlich
+auch nicht ganz auf den Kopf gefallen, aber …«
 
-»Und — zu welchem Duell, X«, fragte Percy, Sich eifrig die
-Stirn reibend. »Zu welchem Zweck? Öl) bin doch Schließlich
-auch nicht ganz auf den Kopf gestohlen, aber …«
-
-»der die kleine Freude gönnen Sie mir, Gollon:
+»… aber die kleine Freude gönnen sie mir, Gollon:
 Die Schlußabrechnung mache ich — ich allein und hoffentlich
-alt.
+bald.«
 
 Mehr hätte selbst ein Folterknecht aus Harst nicht herausgepreßt.
 
@@ -1873,208 +1875,208 @@ Mehr hätte selbst ein Folterknecht aus Harst nicht herausgepreßt.
 
 <h2>4. Kapitel.</h2>
 
-<h3>Das sechste Opfer der. Insel.</h3>
+<h3>Das sechste Opfer der Insel.</h3>
 
-Der Abend war da. Abraham kochte einen Venen Fraß,
+Der Abend war da. Abraham kochte einen neuen Fraß,
 der gräßlich ausschaute und tadellos Schmeckte, wir aßen, tranken,
-und hundemide warten wir uns auf unsere Decken. Schraut,
-der die erste Wache hatte, Schlenderte auf dem Abhang ums
-»der, im Seite der drei Umgarnen brannte Licht, — — ich
-Schlief ein. — Ich hatte die Wache von 12 bis 3 Uhr morgens,
-Nach mir kam Percy an die Reihe, obwohl wir finden
-dieser Pflicht hatten berissen wollen.
+und hundemüde warten wir uns auf unsere Decken. Shnout,
+der die erste Wache hatte, Schlenderte auf dem Abhang umher,
+im Zelte der drei Amazonen brannte Licht, — — ich
+Schlief ein. — Ich hatte die Wache von 12 bis 3 Uhr morgens.
+Nach mir kam Percy an die Reihe, obwohl wir ihn von
+dieser Pflicht hatten befreien wollen.
 
-Ich merkte ihn, gab ihm meine Büchse, er fragte nur, ob
-ich etwas Verdächtiges bemerkt hätte, dann Schritt er mit
-qualmenden Zigarre davon.
+Ich weckte ihn, gab ihm meine Büchse, er fragte nur, ob
+ich etwas Verdächtiges bemerkt hätte, dann schritt er mit
+qualmender Zigarre davon.
 
-oc: konnte nicht sofort wieder- einschlafen, der Gedanke
-zu den Oktopus quälte mich, ich grübelte auch über die anderen
-noch offenen Fragen nach, und ich war daher der eisig, der
-wie ein Besitz hochfuhr, als von der Klippe her ein gellender
+Ich konnte nicht sofort wieder einschlafen, der Gedanke
+an den Oktopus quälte mich, ich grübelte auch über die anderen
+noch offenen Fragen nach, und ich war daher der erste, der
+wie ein Blitz hochfuhr, als von der Klippe her ein gellender
 Schrei ertönte, — ich rannte ins Freie, Harst holte mich ein,
 wir Suchten, Suchten. Abraham ließ Sogar eine Laterne bis
 zum Wasserspiegel hinab, dann kamen Madge und Miß Harras
 herbeigestürzt, — — von Percy Gollon fanden wir nur noch
-die halb au;gerauchte Zigarre und die Liebte etwa drei Meter
+die halb aufgerauchte Zigarre und die Büchse etwa drei Meter
 vom Rande des Abhangs auf dem rissigen, mürben Gestein.
 
-Madge Zernagten war] jetzt alle Schloß und alle März
-Sicht bei Seite und gebärdete Sich wie eine Verzweifelte, die
-an diesem Unheil allein die Schuld trüge. Sie war keinerlei
+Madge Barrington warf jetzt alle Scheu und alle Rücksicht
+bei Seite und gebärdete Sich wie eine Verzweifelte, die
+an diesem Unheil allein die Schuld trüge. sie war keinerlei
 Trost oder Aufmunterung zugänglich, und ihr bitteres Schluchzen
 wirkte ebenso erschütternd wie Magda Harras’ heuchlerische
 Anteilnahme uns abstieß.
 
-Harst hatte Hinaus und mir jedoch strengstens eingeschärft,
+Harst hatte Shnout und mir jedoch strengstens eingeschärft,
 <@pagebreak/>
-uns der zweisvlhasten Dame Begruben nichts anmerken
+uns der zweifelhaften Dame gegenüber nichts anmerken
 zu lassen, und nur Abraham erwies Sich als mäßiger Komödiant
-und hatte wohl am liebsten seine Faust reden lassen. Mochte
-er auch Sekt Sein, Kräfte Palast er wie ein Stier, und der
+und hätte wohl am liebsten seine Faust reden lassen. Mochte
+er auch fett sein, Kräfte besaß er wie ein Stier, und der
 Schädel, der diese Faust, Handschuhnummer 15, widerstanden
-hatte, muß erst gesucht werden.
+hätte, muß erst gesucht werden.
 
 Die Morgendämmerung kam, — die Insel hatte ihr
-Geistes Opfer gefordert, und im Stillen fragte ich nach, wer
+sechstes Opfer gefordert, und im Stillen fragte ich mich, wer
 nun wohl von uns an die Reihe käme.
 
 Da kam Mylord.
 
-Austin Barrinqalon Schlenderte von Osten herbei, Hab uns,
-merkte wohl, hast etwas Ungewöhnliches geschehen. und begann
+Austin Barrington Schlenderte von Osten herbei, sah uns,
+merkte wohl, daß etwas Ungewöhnliches geschehen, und begann
 zu laufen. Bei Seinem Anblick zog Sich Madge in das
-Geht zurück. Wir anderen Schauten dem Lord, der hier zu So
-unglückseligen Stunde Sich erfand, mit recht gemischten Gefühlen
-entgegen. Aufs nette regte Sich in mir der ungewie!sse
-Verdacht, und auch) Abraham folgte mir zu:
+Zelt zurück. Wir anderen Schauten dem Lord, der hier zu So
+unglückseliger Stunde Sich erfand, mit recht gemischten Gefühlen
+entgegen. Aufs neue regte Sich in mir der ungewisse
+Verdacht, und auch Abraham raunte mir zu:
 
 »Der Fehlte gerade noch!!«
 
-Wenn der Lord hier irgendwie die Eiland mit im Spiele
-hatte, war er ein großartiger Komödiant. Knabe war um
-entgegengeeilt, Sie feilte ihm das Geschehene mit, ich Hab, wie
-er ihr die Hand drückte und Sie zu beruhigen übte, zum nachher
+Wenn der Lord hier irgendwie die Hand mit im Spiele
+hatte, war er ein großartiger Komödiant. Magda war ihm
+entgegengeeilt, sie teilte ihm das Geschehene mit, ich sah, wie
+er ihr die Hand drückte und sie zu beruhigen suchte, auch nachher
 war er der eifrigste von uns, jede nur erdenkliche Möglichkeit
-restlos auszuschöpfen, um »Gelegt Verschwinden aufzuklären.
+restlos auszuschöpfen, um Gollons Verschwinden aufzuklären.
 
 Alles blieb vergeblich.
 
-Abermals wurde nun mit dem Vorhandensein eines Chloral,
-eines Riesenkräften, unten in den Tresor der Wille gerechnet
-Mund danach gehandel!t. Die Heim! des Lord lie] in
-die Nordbucht ein, die besser Verdacht heißen mußte, und
+Abermals wurde nun mit dem Vorhandensein eines Oktopus,
+eines Riesenkraken, unten in den Tiefen der Riffe gerechnet
+und danach gehandelt. Die Jacht des Lords lief in
+die Nordbucht ein, die besser Mordbucht heißen mußte, und
 mit Ankern, Eisenstangen und anderen Schweren Gegenständen
 wurde jedes Loch zwischen den Klippen abgetastet, um das
-Nächster aus Seinem Schlupfwinkel zu vertreiben. Dogge
+Ungeheuer aus Seinem Schlupfwinkel zu vertreiben. Sogar
 <@pagebreak/>
 die vier arabischen Halsabschneider halfen dabei, — alles andere
 war vergessen, es ging um Percy Gollon, und der Kapitän
-der Jacht, ein Stämmiger« maulfauler Schotte, Schwor hoch und
-heilig, er würde das Riesenvieh) Schon aufstöbern.
+der Jacht, ein Stämmiger, maulfauler Schotte, Schwor hoch und
+heilig, er würde das Riesenvieh Schon aufstöbern.
 
 Die Tageshitze lähmte uns, um neun Uhr Stellten wir die
-Suche ein, weil- wir eben einsehen, daß wir doch nichts erreichen
-
+Suche ein, weil wir eben einsahen, daß wir doch nichts erreichen
 würden.
 
-Madge war nicht mehr. Sichtbar geworden. Auch Miß
+Madge war nicht mehr Sichtbar geworden. Auch Miß
 Harras hatte Sich in das Zelt zurückgezogen, und wir vier —
-Austin blieb bei uns — tranken Schweigend kalten See, hockten
-unter unserem Ölleinwanddach und kauten nervös an unseren.
+Austin blieb bei uns — tranken Schweigend kalten Tee, hockten
+unter unserem Ölleinwanddach und kauten nervös an unseren
 Zigarren.
 
-Der Lord, den der finster drein blickende Schraut mit gelegentlichen
+Der Lord, den der finster drein blickende Shnout mit gelegentlichen
 Anzüglichkeiten beehrte, die zumeist recht grob
-auffielen, erklärte ganz unvermittelt Ohr ehrlich und Sehr
+ausfielen, erklärte ganz unvermittelt sehr ehrlich und Sehr
 niedergeschlagen:
 
-»Der Verdacht, Poren Gollon beseitigt zu haben, wird
-letzten Endes auf mir Hirn bleiben, zumal ich mir hier im
-Norden der spielt zu einer Stunde einfand, in der man im Bett
+»Der Verdacht, Percy Gollon beseitigt zu haben, wird
+letzten Endes auf mir sitzen bleiben, zumal ich mir hier im
+Norden der Insel zu einer Stunde einfand, in der man im Bett
 liegen Sollte,«
 
-»Stimmt!«, knurrte Abraham, »am Bett, und mit Schönen
+»Stimmt!«, knurrte Abraham. »Im Bett, und mit Schönen
 Armbändern, wenn möglich.«
 
-»Halten Sie den Mund!«, verwies ihn Harst recht Scharfen
-Tones. »Es siehst auch gerade noch, daß wir uns hier entzweien
-und Wege dadurch Oberwasser geben … die allerdings
-eine Behandlung, wie See Sie im Sinne haben, lieber Sinnend,
+»Halten sie den Mund!«, verwies ihn Harst recht Scharfen
+Tones. »Es fehlt auch gerade noch, daß wir uns hier entzweien
+und denen dadurch Oberwasser geben, die allerdings
+eine Behandlung, wie Sie sie im Sinne haben, lieber Shnout,
 Seit langem verdienen. — Mylord, ich für meine Person weiß,
-daß Sie ein reines Gewissen haben. Das mag Ihnen vorerst
-genügen. Eine Ausführung mit Ihrer Nichte, der Sie doch
-vielleicht halb unbewußt Stark mißtrauten, werden Sich kann
+daß sie ein reines Gewissen haben. Das mag Ihnen vorerst
+genügen. Eine Aussöhnung mit Ihrer Nichte, der Sie doch
+vielleicht halb unbewußt Stark mißtrauten, werden Sich kaum
 unüberwindliche Hindernisse in den Weg Stellen. Miß Madge
-mußte infolge der Anfachte anderer Personen zu ganz irrigen
-Verblüffen gelangen.?Satze ist jetzt völlig zusammengebrochen.
-die als ihr Oheim — den Bewerber um ihre Hand werden
+mußte infolge der Infamie anderer Personen zu ganz irrigen
+Schlüssen gelangen. Madge ist jetzt völlig zusammengebrochen.
+Sie als ihr Oheim — den Bewerber um ihre Hand werden
 <@pagebreak/>
-… Sie allerdings wie bisher zurückstellen müssen — Sind die geeignetste
-Person, Sie zu trösten und wieder aufzurichten. Gehen
-die getrost zu dem Halt der drei Frauen hinüber. Ohr Herz
+Sie allerdings wie bisher zurückstellen müssen — Sind die geeignetste
+Person, sie zu trösten und wieder aufzurichten. Gehen
+Sie getrost zu dem Zelt der drei Frauen hinüber. Ihr Herz
 und Ihr Taktgefühl werden Sie die rechten Worte finden lassen.
-— Noch eins: Was treibt Ihr Musterdiener Ton Geister?«
-Austin Barringtons hübsches, wenn auch etwas weichsiches
+— Noch eins: Was treibt Ihr Musterdiener Tom Bristol?«
+
+Austin Barringtons hübsches, wenn auch etwas weichliches
 Gesicht verfinsterte sich. »Der Mensch hat es gewagt,
-mich nicht Schmähungen zu überhäufen und mir unverblümt
-zu drohen, er würde mich. an den Galgen bringen. Der
+mich mit Schmähungen zu überhäufen und mir unverblümt
+zu drohen, er würde mich an den Galgen bringen. Der
 Bursche weiß, daß ich hier auf Manibar weilte, als Howard
-»verschwand, und das hat er mir mit So giftigen Haß vorgehalten,
+verschwand, und das hat er mir mit So giftigem Haß vorgehalten,
 daß ich empört davonging, und nachher noch ein
-zweites Schloß an die feste Balkentür zuschraubte.«
+zweites Schloß an die feste Balkentür anschraubte.«
 
-Er erhob Sich. »Ich werde also zusehen, was ich Geh
-Madge ausrichten. kann. Wahrscheinlich wird Sie mich weglegen,
+Er erhob Sich. »Ich werde also zusehen, was ich bei
+Madge ausrichten kann. Wahrscheinlich wird sie mich wegjagen.«
 
-»Nein, — da kennen Sie Frauen schlecht. Sie waren ihr
-guter Freund, und in ihrem Schmerz wird Sie froh Sein, an
-Älter Brust Sich aufnehmen zu können. Nehmen Sie ihr nicht
-alle Hoffnung, daß Percy. noch am Leben, ich werde Sofort
+»Nein, — da kennen sie Frauen schlecht. Sie waren ihr
+guter Freund, und in ihrem Schmerz wird sie froh sein, an
+Ihrer Brust Sich ausweinen zu können. Nehmen Sie ihr nicht
+alle Hoffnung, daß Percy noch am Leben, ich werde Sofort
 mit Schraut die hölzerne Ruine nochmals besuchen.«
 
 Harst behielt recht, Austin kehrte nicht zurück, und dies
-war das beste Zeichen, daß?Netze ihm alles verziehen und bei
+war das beste Zeichen, daß Madge ihm alles verziehen und bei
 ihm Trost gesucht hatte.
 
-»»Schraut«, Sagte Harst zu dem brummigen Dreieinigen,
+»Shnout«, Sagte Harst zu dem brummigen Preisringer,
 »Sie rühren Sich hier nicht vom Fleck, halten Ihren Schießprügel
 bereit und beobachten die Klippe und die Bucht aufs
-Schärfste. Ich werde mich kaum täuschen: Mit dem »Pfeilschuß
-auf Ihren Herrn und mit dessen Verschwinden dürften dieGesahren
-kaum beendet sein. Wir alle: Sind gefährdet, — —
+Schärfste. Ich werde mich kaum täuschen: Mit dem Pfeilschuß
+auf Ihren Herrn und mit dessen Verschwinden dürften die
+Gefahren kaum beendet sein. Wir alle Sind gefährdet, — —
 und kein Wort zu Austin über Magda Harras’ Hinterhältigkeit.
 — Wiedersehen.«
 
 Es war inzwischen halb elf geworden. Wir beide gingen
-zunächst bis zum Rande bei Klippe, blickten über die Bucht
+zunächst bis zum Rande der Klippe, blickten über die Bucht
 <@pagebreak/>
 hinweg, betrachteten die in der klaren Flut zwischen den deutlich
-sibtbaren Korallenriffen hin und her schießenden Fische und
-sahen am Stock der weiter draußen ankernden Jacht einen Matrosen
+sichtbaren Korallenriffen hin und her schießenden Fische und
+sahen am Heck der weiter draußen ankernden Jacht einen Matrosen
 Stehen, der eine dicke Bambusangelrute mit einer Sehr
-festen Schnur in den Händen hielt und den großen, rot vermieten
+festen Schnur in den Händen hielt und den großen, rot bepinselten
 Korkschwimmer Scharf beobachtete. Plötzlich verschwand
-der Schwimmer blitzschnell, die Urgesteins straffte Sich,
+der Schwimmer blitzschnell, die Angelleine straffte Sich,
 und der Matrose verlor das Gleichgewicht und Stürzte ins
-Wasser, hielt jedoch) den Bambusstock krampfhaft fest und
-wurde von einem zweifellos Sehr großen Tisch wie ein rasches
-Boot im Gitkzackkurs hin und hergezogen, gab die Aussichtslose
+Wasser, hielt jedoch den Bambusstock krampfhaft fest und
+wurde von einem zweifellos Sehr großen Fisch wie ein rasches
+Boot im Zickzackkurs hin und hergezogen, gab die Aussichtslose
 Sache auf und schwamm zur Jacht zurück.
 
-Harst halte den Vorgang mit gespanntester Aufmerksamkeit
-verfolgt, wandte Ich mir zu und meinte erregt: »Mein
-Alter, die Erklärung für Lord Howards Tod durfte gefunden
-Sein. Dr) behaupte jetzt, er wurde das Opfer eines Unfalls
-beim Kugeln, genau wie der triefende Matrose dort Sein
-Soeben eingebüßt hätte, wenn er ist gleicher Weise hier die
+Harst hatte den Vorgang mit gespanntester Aufmerksamkeit
+verfolgt, wandte sich mir zu und meinte erregt: »Mein
+Alter, die Erklärung für Lord Howards Tod dürfte gefunden
+sein. Ich behaupte jetzt, er wurde das Opfer eines Unfalls
+beim Angeln, genau wie der triefende Matrose dort sein
+Leben eingebüßt hätte, wenn er in gleicher Weise hier die
 Steilwand hinabgestürzt wäre, wo unten die Riffzacken einen
 aufschlagenden Körper übel zugerichtet hätten. — Gib acht!«
 
-Er nahm einen trockenen Alt eines Busches und ließ schlug
-ins Wasser Gollons. Wir langten uns vor und beobachteten
-den Ast, Sahen, daß eine Schnee Strömung den Ast rasch entführte
-und zu der Jacht vorüber ins offene leer trieb.
+Er nahm einen trockenen Alt eines Busches und ließ ihn
+ins Wasser fallen. Wir beugten uns vor und beobachteten
+den Ast, Sahen, daß eine scharfe Strömung den Ast rasch entführte
+und an der Jacht vorüber ins offene Meer trieb.
 
-Herr! meinte befriedigt: »Diese Strömung gibt den Ausschlag.
-Lord Howard nahm damals fraglos als Angelangter
-mehrere ’Ange!!tocke mit zu diesem Seinem Lieblingsplatz, und
-das Eimer die’er Glocke nachher Seite, hat niemand bemerkt
-oder bekam Tun Stock fehlte zweifellos. — Es
-wäre intim zwischen Lord Howards Tod und dem Verschwinden
-der vier ruderten Empfunden eilte Scharfe Grenzlinie zu
+Harst meinte befriedigt: »Diese Strömung gibt den Ausschlag.
+Lord Howard nahm damals fraglos als Sportangler
+mehrere Angelstöcke mit zu diesem Seinem Lieblingsplatz, und
+das einer dieser Stöcke nachher fehlte, hat niemand bemerkt
+oder bedacht. Ein Stock fehlte zweifellos. — Es
+wäre mithin zwischen Lord Howards Tod und dem Verschwinden
+der vier anderen Empfunden eine Scharfe Grenzlinie zu
 ziehen. Howard verunglückte beim Angeln, die vier, die nach
-ihr wertvollen Sind, kamen auf andere Weise um, — nicht
-durch Pagode« Harras und Ton Geister, die Sicherlich See
+ihm verschollen Sind, kamen auf andere Weise um, — nicht
+durch Magda Harras und Tom Bristol, die Sicherlich Geschwister
 <@pagebreak/>
-schafften und Sehr gerissene, skrupellose Verbrecher Sind. Die
+und Sehr gerissene, skrupellose Verbrecher Sind. Die
 Absichten dieses Paares zielten auf etwas anderes hin. Ich
 wundere mich nur, daß du diesen Kernpunkt des Leichenraubes
-nicht längst erkannt hast. — — Gehen wir …
+nicht längst erkannt hast. — — Gehen wir …«
 
 Die Hitze hatte mich Schon reichlich benommen, — diese
 Eröffnungen richteten in meinem Hirn geradezu einen Gedankenaufruhr
-an. — Kein Mord?! Nur Unfälle?! kostet
+an. — Kein Mord?! Nur Unfälle?! Jetzt
 wurde ich aus alledem Schon gar nicht mehr schlau.
 
 <@pagebreak/>
@@ -2085,27 +2087,27 @@ wurde ich aus alledem Schon gar nicht mehr schlau.
 
 Wir kraxelten also in der Sengenden Glut gen Süden.
 Harst hatte Seine Mauserbüchse Sofort entsichert und bewegte
-sich mit einer Vorsicht, als ob die vier arabischen Kümmert
-25 nochmals wagen würden, in ihrem indianischer Kartons, der
-wohl ihre Identität hatte verborgen Gollon, weitere Angriffe
-zu unternehmen, was doch) ausgeschlossen war, da Harst ihnen
-etwas abseits eine Standpauke gehalten halte, um der das
+sich mit einer Vorsicht, als ob die vier arabischen Lümmels
+es nochmals wagen würden, in ihrem indianischen Kopfputz, der
+wohl ihre Identität hatte verborgen sollen, weitere Angriffe
+zu unternehmen, was doch ausgeschlossen war, da Harst ihnen
+etwas abseits eine Standpauke gehalten hatte, in der das
 Wort Galgen wiederholt vorkam. Fürchtete Harst eine heimtückische
 Tat der So flüssig und überflüssig redenden Miß
-Harras?! — Meine Etage blieb unbeantwortet.
+Harras?! — Meine Frage blieb unbeantwortet.
 
 So erreichten wir die bewußte Terrasse des grünen Tales,
-standen die Stelle, wo wir den armen Percy verbunden hatten,
+fanden die Stelle, wo wir den armen Percy verbunden hatten,
 und hier entfernte Harald von einer einzelnen Felsplatte, die an
-einem Bettpfosten lehnte, die überhängenden Zweige und einige
+einem Holzpfosten lehnte, die überhängenden Zweige und einige
 Moosflecken und legte So eine kaum mehr erkennbare Inschrift
-in lateinischen Sprache frei, von der bis dahin nur geringe
-Spuren Sichtbar gewesen, denen ich. keine: Beachtung geschenkt
+in lateinischer Sprache frei, von der bis dahin nur geringe
+Spuren Sichtbar gewesen, denen ich keine Beachtung geschenkt
 hatte. Bei näherem Hinsehen konnte man die grob eingemeißelten,
 aber teilweise verwitterten Worte noch entziffern, und
-nach einiger Zeit übersetzte Harst die Zuschritt wie folgt:
+nach einiger Zeit übersetzte Harst die Inschrift wie folgt:
 
-»Oktopus Terrains, Kapitän des großen Schiffes,
+> »Oktavus Lentulus, Kapitän des großen Schiffes,
 das mit den braunen Eingeborenen Handel treibt,
 hat einen Teil Seiner Waren sorgfältig versenkt.«
 
@@ -2114,216 +2116,215 @@ zu Sehen, begeisterte Harst derart, daß ich ihn verwundert
 anstarrte,
 
 <@pagebreak/>
-»Romandetektivs«, Sagte er lebhaft, »Sind zumeist Übergenial
+»Romandetektive«, Sagte er lebhaft, »Sind zumeist Übergenial
 und wirken lächerlich. Wir Sind Sensationssucher, und
-der Zufall und ein wenig Hirnschmalz und »offene Augen genügen
-vollkommen. Der »Teufel« war »vier der Angriff
+der Zufall und ein wenig Hirnschmalz und offene Augen genügen
+vollkommen. Der »Zufall« war hier der Angriff
 auf Percy. Hätten wir Percy nicht hier an dieser Stelle verbunden,
-würde die Steinplatte uns entgangen Sein, und einer
-der seltsamsten Kriminalfälle, der nur halb flimmert ist, wäre
+würde die Steinplatte uns entgangen sein, und einer
+der seltsamsten Kriminalfälle, der nur halb kriminell ist, wäre
 nie aufgeklärt worden.«
 
 Ich nahm Notizbuch und Bleistift und zeichnete die Skizze
 Sorgfältiger und deutlicher ab.
 
 »Da — — betrachte diese Skizze, mein Alter … Betrachte
-Sie … Ich …« — er war plötzlich fuhr zerstreut, — —
+sie … Ich …« — er war plötzlich sehr zerstreut, — —
 und dann ein Griff, er drückte mich ins Gras, — — peng …
-
-Reling … peng … starrten die Bleibohnen durch die Luft,
+peng … peng … surrten die Bleibohnen durch die Luft,
 klatschten in das Geröll …
 
 Peng … peng …
 
 Peng … peng …
 
-Dieben Schuß…
+Sieben Schuß…
 
-Und da fuhr Harst empor, Seine Mäusen knallte, aus dem
-Gestrüpp ein Schrei, und … gleich darauf lag Mr. Ton
-Geister! mit glattem Schulterschuß gefesselt zwischen uns.
+Und da fuhr Harst empor, Seine Mauser knallte, aus dem
+Gestrüpp ein Schrei, und … gleich darauf lag Mr. Tom
+Bristol mit glattem Schulterschuß gefesselt zwischen uns.
 
-»Sie Narr«, Sagte Harst mitleidig, «— Sieben Schuß, Ihr
-Magazin war also leer! Ein kluger Mann bezahlt mindestens
+»sie Narr«, Sagte Harst mitleidig, »— sieben Schuß, Ihr
+Magazin war also leer! Ein kluger Mann behält mindestens
 eine Patrone im Lauf!«
 
-Geiste! war aschfahl und zitterte, Sagte jedoch gar nichts,
+Bristol war aschfahl und zitterte, Sagte jedoch gar nichts,
 ließ Sich verbinden und mußte dann mit uns den Rückweg antreten.
 Harst blieb unbarmherzig, und nur bei Steilen Stellen
-half er etwas mit, denn der edle Ton hatte verblich viel Blut
+half er etwas mit, denn der edle Tom hatte reichlich viel Blut
 verloren.
 
-Als wir stärkeres Gelände erreichten, begann mein Freund
-eine gemütliche Unterhaltung. »Na, Ton, — wieviel Jahre
-Ollhtbhans wird das Seen, was meinen Star! Die englischen
-Gerichte Sind Sehr großzügig im Sträfings, ich fürchte Fast,
+Als wir flacheres Gelände erreichten, begann mein Freund
+eine gemütliche Unterhaltung. »Na, Tom, — wieviel Jahre
+Zuchthaus wird das setzen, was meinen Sie?! Die englischen
+Gerichte Sind Sehr großzügig im Strafmaß, ich fürchte Fast,
 <@pagebreak/>
-Ihre Schwester und Sie werden kaum. ’mehr andere Duft atmen
-als die eines Soliden Gefängnisses …
+Ihre Schwester und sie werden kaum mehr andere Luft atmen
+als die eines Soliden Gefängnisses …«
 
-Geister war fliehen geblieben. Sein fahles Gesicht wurde
-erschreckend graugelb. Sein Versuch, hoöohnisch zu grinsen,
-blieb in den ersten schüchternen Anfänger Stecken. Er Senkte den
-Kopf und zog es vor, Sich aufzuschmelzen,
+Bristol war stehen geblieben. sein fahles Gesicht wurde
+erschreckend graugelb. sein Versuch, höhnisch zu grinsen,
+blieb in den ersten schüchternen Anfängen Stecken. Er Senkte den
+Kopf und zog es vor, Sich auszuschweigen,
 
-»Magda hat Sie-natäürlich befreit, — gehen wir weiter.
-Sie wird diese Befreiung So ausgeführt haben, daß ein Ausbruch
-GhrerjJeits vorzuliegen Scheint. Höhe beide habt euch da.
-auf. ein arges hinterlistiges Spiel eingelassen :… Zehn Millionen
-Sind. allerdings kein Pappenstiel, mein Lieber. Weshalb
-aber der explosive Spargel?! War die. Sprengladung So
-Schwach, daß Sie nur genügt hätte, unser Interesse für den
-Fall Howard Barrington zu Steigern? — Tiefer Spargel kostet
-auch mehr als die Sauschütze, die Magda trug, — fünf. Jahre
+»Magda hat sie natürlich befreit, — gehen wir weiter.
+sie wird diese Befreiung So ausgeführt haben, daß ein Ausbruch
+Ihrerseits vorzuliegen Scheint. Ihr beide habt euch da
+auf ein arges hinterlistiges Spiel eingelassen … Zehn Millionen
+Sind allerdings kein Pappenstiel, mein Lieber. Weshalb
+aber der explosive Spargel?! War die Sprengladung So
+Schwach, daß sie nur genügt hätte, unser Interesse für den
+Fall Howard Barrington zu Steigern? — Dieser Spargel kostet
+auch mehr als die Turnschuhe, die Magda trug, — fünf Jahre
 Zuchthaus Sind mehr als zwei Mark achtzig Pfennig.«
 
-— Geister Schluckte, Bürste … Stieß hervor:. »Magda war
-die Auto »Im«
+Bristol Schluckte, würgte … Stieß hervor:. »Magda war
+die Anstifterin …!!«
 
-»Zumal! Magda, war Ihr Werkzeug! — — Hallo, was
+»Lump!! Magda, war Ihr Werkzeug! — — Hallo, was
 ist denn dort los?!«
 
 Wir hatten die Steilwand vor uns … Dicht gedrängt
-Standen dort die Leute der Jacht, die Araber-Trümmer, Austin
-Abraham und Miß Harras, alle in hellsten Aufregung.
+Standen dort die Leute der Jacht, die Araber-Lümmel, Austin,
+Abraham und Miß Harras, alle in hellster Aufregung.
 
 Austin rannte uns entgegen … Er war unglaublich verstört,
-er konnte nur Stottern …
+er konnte nur stottern …
 
-— »Madge ist verschmachten … Ganz plötzlich … Ich hatte
-Sie ein wenig getröstet und beruhigt, Sie ging dann allein. zur
-Klippe und … fiel in die Knie und betete … —Das Geröll
-verdeckte uns ihre Gestalt, plötzlich warf Sie die Arme hoch,
+»Madge ist verschwunden … Ganz plötzlich … Ich hatte
+sie ein wenig getröstet und beruhigt, sie ging dann allein zur
+Klippe und … fiel in die Knie und betete … Das Geröll
+verdeckte uns ihre Gestalt, plötzlich warf sie die Arme hoch,
+Schrie auf, wir liefen hin, — — sie war verschwunden … —
+es ist entsetzlich!«
 
-Schrie auf, wir liefen hin, —« — Sie war verschwunden … —ck
-es ist entsetzlich!«:
-Streut brüllte uns zu: »Der Oktopus, — — dieses »Vieh,
-
-— —y« es muß ein Oktopus Sein … Herr Harst, ich …
+Shnout brüllte uns zu: »Der Oktopus, — — dieses Vieh,
+— — es muß ein Oktopus sein … Herr Harst, ich …«
 
 <@pagebreak/>
 Austin deutete auf den Rand des Steilhangs.
 
-»Ein Oktopus, der aus dem Wasser Savanne hochstreckt,
+»Ein Oktopus, der aus dem Wasser Fangarme hochstreckt,
 hätte hier Wassertropfen hinterlassen … Das Gestein war
 trocken, Herr Harst. Die Oktopus-Theorie kann nicht stimmen.«
-…
 
-… »Stimmt auch nicht, Mylord … — Rasch, Schafft Taue
-herbei …« un
-— Geh hatte Magda beobachtet. Beim Anblick des an den
-Händen gefesselten Ton Geister hatte Sie Sich rasch umgedreht.
+»Stimmt auch nicht, Mylord … — Rasch, Schafft Taue
+herbei …«
 
-Harst zog — Sein Notizbuch hervor. »Mylord, — bitte,
+ich hatte Magda beobachtet. Beim Anblick des an den
+Händen gefesselten Tom Bristol hatte sie Sich rasch umgedreht.
 
+Harst zog — sein Notizbuch hervor. »Mylord, — bitte,
 beiseite treten! Alle Mann dorthin! — So, nun Sehen Sie
 Sich diese Zeichnung an …«
-»»»… Mylord, die alten Römer, die mit den Arabern
+
+»… Mylord, die alten Römer, die mit den Arabern
 Handel trieben, haben hier ein Versteck für ihre Waren angelegt.
-Sie fanden hier oben auf der Steilwand ein natürliches
-dieses Loch, Verhalten eine Steinplatte zurecht, daß Sie die
-Hoffnung genau bedeckte, und brachten in der Platte und in
+sie fanden hier oben auf der Steilwand ein natürliches
+tiefes Loch, meißelten eine Steinplatte zurecht, daß sie die
+Öffnung genau bedeckte, und brachten in der Platte und in
 den Seitenwänden des Loches zwei Zapfen genau dort an, wo
 die Platte etwa ihre Gleichgewichtslage hatte, wie eine Wage
-nu! zwei Schalen. Die Platte war So ausbalanziert, daß schon
+mit zwei Schalen. Die Platte war So ausbalanziert, daß schon
 das Gewicht eines Menschen, der auf die schwerste nördliche
-Kante trat, genügte, die Platte zum Herabhingen zu bringen.
+Kante trat, genügte, die Platte zum Herabkippen zu bringen.
 Wenn Sie nun, Mylord, die in dem rissigen Gestein allerdings
-Sehr Schwer. zu sinkenden Umrisse der Platte verfolgen —
-bitte, Minen Bootshaken her! —, dann Sehen Sie — Geier —,
+Sehr Schwer zu findenden Umrisse der Platte verfolgen —
+bitte, einen Bootshaken her! —, dann Sehen Sie — hier —,
 daß die Platte nach Norden zu Sehr Schmal ist, So Schmal, daß
-nur ein Zufall für Uneingeweihte Beträchtlich wird, nämlich dann,
-wenn jemand beide Süße auf die Schmale Stelle Setzt …«
+nur ein Zufall für Uneingeweihte gefährlich wird, nämlich dann,
+wenn jemand beide Füße auf die Schmale Stelle Setzt …«
 
 Er nahm den Bootshaken, Stemmte ihn auf das äußerste
-nördliche Ende der Platte, Schraut half ihm drücken, und
+nördliche Ende der Platte, Shnout half ihm drücken, und
 plötzlich kippte die Platte Sehr rasch nach unten.
 
-An dem finsteren Felsloch hing sechs Meter tief unter
+In dem finsteren Felsloch hing sechs Meter tief unter
 dem Rande Percy auf einem Felsvorsprung und hielt Madge
 <@pagebreak/>
-in den Armen. In kurzem waren die beiden emporgehißt. ’Das
-tiefe Loch enthielt jedoch noch etwas: Vier Skelette …!! — Div
+in den Armen. In kurzem waren die beiden emporgehißt. Das
+tiefe Loch enthielt jedoch noch etwas: Vier Skelette …! — Die
 Hilferufe der unglücklichen Opfer von Manibar waren von
 niemandem gehört worden, und nur die Vorsehung hatten
 Percy und Madge vor dem Sturz in das Dunkle bewahrt,
 
 Magda Harras beobachtete mit verkniffenen Lippen, wie
-Madge ihren Percy weinend um den Hals fiel. Auch Austin
-wandte den Kopf weg, Jagte dann jedoch, nachdem der alle
-»gemeine. Jubel Sich gelegt hatte; »Ich gönne euch beiden von
+Madge ihrem Percy weinend um den Hals fiel. Auch Austin
+wandte den Kopf weg, sagte dann jedoch, nachdem der allgemeine
+Jubel Sich gelegt hatte: »Ich gönne euch beiden von
 Herzen euer Glück … Auch mir wird das Geschick eine
-Lebensgefährtfin bescheren, die selbstlos und opferfreudig mich
+Lebensgefährtin bescheren, die selbstlos und opferfreudig mich
 gestern aufsuchte und mich vor der mir drohenden Verhaftung
 warnte. — Magda, — — bitte deine Hand … Lieber Harst,
-hier Stelle ’ich Ihnen meine.
+hier Stelle ich Ihnen meine …«
 
-… heimtückische Feindin vor!« Harsts Schroffe Worte
+»… heimtückische Feindin vor!« Harsts Schroffe Worte
 ließen Austin förmlich erstarren.
 
 »Mylord, das Geheimnis von Manibar ist kein Geheimnis
-mehr … Magda und Ton Harras alias Geister wollten
+mehr … Magda und Tom Harras alias Bristol wollten
 Sie allmählich dazu bringen, Madge zu vergessen und Magda
-zu heiraten. Neun Sie all das, was anfänglich So dunkel
+zu heiraten. Wenn Sie all das, was anfänglich So dunkel
 erschien, unter Berücksichtigung des Schlauen Planes der Geschwister
-nachprüfen, Stoßen Sie Schritt für Schritt auf die
-Beweise dieses raffinierten Planes: Anonyme. Briefe, Gerüchte,
+nachprüfen, Stoßen sie Schritt für Schritt auf die
+Beweise dieses raffinierten Planes: Anonyme Briefe, Gerüchte,
 Leichenraub, ein Brief an mich, der innen absichtlich
 im blauschwarzen Fleck »Madge Barrington« erkennen ließ, —
-nächtliche Besuche mit blonder Perücke, ein Spargel- der explodierte
-— — und so weiter. — Wollen Sie leugnen,
+nächtliche Besuche mit blonder Perücke, ein Spargel der explodierte
+— — und so weiter. — Wollen sie leugnen,
 Magda Harras?!« —
 
-Das Mädchen mit den dunklen. Augen hatte beide Hände
+Das Mädchen mit den dunklen Augen hatte beide Hände
 vor die Brust gepreßt und Schien den verschleierten Blick in
-unergründliche Lernen zu richten. Dann kam aus ihrer Kehle
+unergründliche Fernen zu richten. Dann kam aus ihrer Kehle
 ein trockenes Schluchzen, das in Seinen abgerissenen, wehen
-Conan etwas unendlich Hilfloses Still in diese Wort der Verführungen
-und Entgleisungen hinauslief.
+Tönen etwas unendlich Hilfloses Still in diese Welt der Versuchungen
+und Entgleisungen hinausrief.
+
 <@pagebreak/>
 Magda Harras — Spielte jetzt keine angelernte oder ihr
-
-halb ausgegangene Rolle mehr. Sie war — herausgestiegen
+halb aufgezwungene Rolle mehr. sie war herausgestiegen
 aus den trügerischen Hüllen einer häßlichen Intrigantin, und als
 sie Austin jetzt voll anschaute und ihr Blick vor Tränen verdunkelt
-ward, fühlte ich, daß die jammervolle- Tragik der
-letzten Jahre für dieses reife, kluge Weib zu fortwährenden
-Qual durch nicht zu überbrücmende Herzenskonflikte geworden
-waren …
+ward, fühlte ich, daß die jammervolle Tragik der
+letzten Jahre für dieses reife, kluge Weib zu fortwährender
+Qual durch nicht zu überbrückende Herzenskonflikte geworden
+waren.
 
-… An diesen Minuten, als das Ränkespiel zusammenbrach
-und bei ihr die Selbstbesinnung erwachte, zeigte Sie die bessere
-Seite ihres Charakers: Kein Wort des Vorwurf fiel gegen
-ihren Bruder, keine Silbe entschlüpfte ihr, daß Sie Austin
+In diesen Minuten, als das Ränkespiel zusammenbrach
+und bei ihr die Selbstbesinnung erwachte, zeigte sie die bessere
+Seite ihres Charakters: Kein Wort des Vorwurfs fiel gegen
+ihren Bruder, keine Silbe entschlüpfte ihr, daß sie Austin
 lieben gelernt hatte und aus Liebe moralisch gescheitert war.
-Das einzige, was Sie Sprach, war die Bitte, um milde Beurteilung
-ihres Gut …
+Das einzige, was sie Sprach, war die Bitte, um milde Beurteilung
+ihres Tuns.
 
-»Verzeihen Sie mir, Austin »l«
+»Verzeihen Sie mir, Austin …!«
 
-Dann schritt sie zum Geld, trat ein, — Harst eilte ihr
-nach und kehrte erst nach- einer geraumen Weile zurück. Er
-trug grämliche Waffen der drei Umgarnen im Nun, und Seine
-Lüge Spiegelten eine freudige Genugtuung wieder, die ich
-Selten in so Stark ausgeprägten Form an ihm bemerkt habe. —
-— Als fünf Tage darauf die Jacht in Suez anlegte, ereignete
+Dann schritt sie zum Zelt, trat ein, — Harst eilte ihr
+nach und kehrte erst nach einer geraumen Weile zurück. Er
+trug sämtliche Waffen der drei Amazonen im Arm, und Seine
+Züge Spiegelten eine freudige Genugtuung wieder, die ich
+Selten in so Stark ausgeprägter Form an ihm bemerkt habe. —
+
+Als fünf Tage darauf die Jacht in Suez anlegte, ereignete
 Sich abermals ein Fall spurlosen Verschwindens einer Persönlichkeit,
 die Percy Gollon in London hatte vor Gericht Stellen
-wollen. See
+wollen.
 
 Magda Harras wurde nie wieder aufgegriffen. Die beiden
-Verscherzt, die ihre Zukunft vor Not Schüsse Sollten, verdankte
-den Weg in die Trennte mehr erleichtert haben als Lord
+Barschecks, die ihre Zukunft vor Not schützen Sollten, werden
+ihr den Weg in die Fremde mehr erleichtert haben als Lord
 Austins und Haralds kleine Unwahrheit gegenüber Percy,
-die darin bestand, daß angeblich Mastes Flucht von Bord
-erst nach achtundvierzig Stunden Systems wurde. Pech
-Schwieg dazu, und dachte Sich Sein Teil. Daß er Seine Flitterwochen
+die darin bestand, daß angeblich Magdas Flucht von Bord
+erst nach achtundvierzig Stunden entdeckt wurde. Percy
+Schwieg dazu, und dachte Sich sein Teil. Daß er Seine Flitterwochen
 mit Madge in dem Steinhause auf Manibar verbrachte,
-sollte uns nur zugute kommen, Dem jungen. Paare
+sollte uns nur zugute kommen. Dem jungen Paare
 <@pagebreak/>
 verdanken wir ein weiteres Abenteuer, bei dem Abraham
-Schraut noch mehr schwitzen Sollte als auf der versiegelten
+Shnout noch mehr schwitzen Sollte als auf der versiegelten
 Insel.
 
-Nächsten Band:
-Die Frau, die den Wort beging.
+<#import "*/harst.ftl" as harst>
+<@harst.naechsterband band="Die Frau, die den Mord beging."/>
