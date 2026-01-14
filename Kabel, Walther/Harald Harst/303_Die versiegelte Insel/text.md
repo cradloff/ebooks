@@ -183,7 +183,7 @@ folgendes vor: — Ohr Vater, als eifriger Jäger
 und Segler recht bekannt, hatte Seiner Zeit mit dem Lordtitel
 und dem großen Vermögen auch eine Insel im Roten
 Meer geerbt, die der Familie Barrington Seit etwa hundert
-Jahren gehört. Ein Barrington hatte Sie einem Araberhäuptling
+Jahren gehört. Ein Barrington hatte sie einem Araberhäuptling
 mal für ein Linsengericht abgekauft. Auf dieser Insel
 ist der Vater unserer neuesten Klientin vor zwei Jahren verschwunden.
 Alle Nachforschungen nach ihm blieben zunächst
@@ -234,7 +234,7 @@ irgendwie auf andere Art Verdacht geschöpft haben.«
 
 »Gegen wen?«
 
-»Das sagte Sie nicht. Das mußte ich ihr erst vorhalten.
+»Das sagte sie nicht. Das mußte ich ihr erst vorhalten.
 Natürlich gegen ihren Onkel Austin, den jetzigen Lord. Die
 beiden Brüder haben Sich nie verstanden, Austin Soll ein weltfremder
 Bücherwurm sein, obwohl er heute erst fünfunddreißig
@@ -273,7 +273,7 @@ Wir waren überrascht durch die erregte und doch So bestimmte
 Äußerung der alten Dame, die bisher ihren einzigen
 Sohn nie in Solcher Art zu bevormunden gewagt hatte.
 
-Ebenso entschieden legte Sie jetzt ein Heft auf den Tisch.
+Ebenso entschieden legte sie jetzt ein Heft auf den Tisch.
 Es war die neueste Nummer eines in Wien erscheinenden Magazins,
 das hauptsächlich Sensationelle wissenschaftliche Entdeckungen
 und äußerst spannende Kurzgeschichten über wahre
@@ -319,7 +319,7 @@ teils Sandigen Eilande, die ihre Entstehung zumeist der nimmermüden
 Aufbauarbeit der Korallen verdanken, besitzen eine Sehr
 Spärliche Vegetation und eine ebenso kümmerliche Tierwelt,
 für die arabischen und afrikanischen Fischer und Frachtschiffe
-mit ihrem geringen Tiefgang haben Sie lediglich den Wert von
+mit ihrem geringen Tiefgang haben sie lediglich den Wert von
 Schutzwällen gegen die häufiger und ganz unberechenbaren
 Stürme. Trotzdem Sind einige dieser zumeist unbewohnten Gestade
 <@pagebreak/>
@@ -498,7 +498,7 @@ Zweifel über die Todesursache meiner vier unglücklichen Landsleute
 beseitigt.
 
 (Einzig autorisierte Übersetzung aus dem Englischen
-von Magda Harras)«.
+von Magda Harras)
 
 <@pagebreak/>
 
@@ -616,7 +616,7 @@ der ganz Großen von Scotland Yard, der Sicherlich schnellste
 Karriere machen würde.
 
 Harst nahm mir die Depesche wieder ab und verbrannte
-Sie in einzelnen Schnitzeln im Aschbecher. »Bitte, mein Alter,
+sie in einzelnen Schnitzeln im Aschbecher. »Bitte, mein Alter,
 <@pagebreak/>
 — jetzt keine Frage mehr … Überlege dir die Dinge, damit
 du nachmittags, wenn Gollon hier ist, mitreden kannst. Du
@@ -711,13 +711,13 @@ natürlich mit Maschine geschrieben, und …«
 
 »Haben Sie die Schreiben aufbewahrt?«
 
-»Leider nein. Ich verbrannte Sie. Jedenfalls enthielten
-Sie dunkle Andeutungen der erwähnten Art, außerdem hat
-auch meine Nichte ähnliche Briefe bekommen, die Sie einfach
+»Leider nein. Ich verbrannte sie. Jedenfalls enthielten
+sie dunkle Andeutungen der erwähnten Art, außerdem hat
+auch meine Nichte ähnliche Briefe bekommen, die sie einfach
 ins Feuer warf, denn Madge und ich wissen Sehr genau, was
 wir voneinander zu halten haben, und …« — zum ersten Male
 verlor er den Faden, hüstelte und wurde verlegen … »Madges
-Reise hierher — Sie ist in Berlin — dürfte mit diesen Gerüchten
+Reise hierher — sie ist in Berlin — dürfte mit diesen Gerüchten
 und Briefen eng zusammenhängen. War meine Nichte
 bei Ihnen, Herr Harst?«
 
@@ -729,7 +729,7 @@ Selbst Spürte, er bückte Sich, strich Seine Beinkleider glatt, und
 murmelte undeutlich:
 
 »Madge ist ein kleiner Heißsporn und Sehr eigenwillig.
-Was wünschte Sie von Ihnen?«
+Was wünschte sie von Ihnen?«
 
 Harst verschanzte Sich hinter Seine Schweigepflicht. »Ich
 bedauere, Mylord … Wer mir Vertrauen entgegen bringt,
@@ -762,7 +762,7 @@ brauchen: Madge Barrington.
 
 Ich befand mich dieser selbstbewußten, goldblonden Schönheit
 gegenüber in einer wenig angenehmen Lage. Durfte ich
-Sie ins Herrenzimmer einlassen, wo die Begegnung mit ihrem
+sie ins Herrenzimmer einlassen, wo die Begegnung mit ihrem
 Onkel zu Weiterungen führen konnte, die ich gar nicht zu
 überschauen vermochte?! Aber Miß Barrington forderte so
 energisch, Harst persönlich zu sprechen, daß ich ihr wohl willfahren
@@ -790,7 +790,7 @@ anstarrte.
 Sie selbst war zurückgewichen und hatte die Arme wie
 zur Abwehr irgend eines unerwarteten Angriffs halb gekrümmt
 emporgehoben. Ihre zarten Farben wurden tiefrot,
-und Sekundenlang erweckte Sie durchaus den Anschein, als wäre
+und Sekundenlang erweckte sie durchaus den Anschein, als wäre
 sie hier bei einem unlauteren Vorhaben ertappt worden.
 
 Um dieser Szene ein Ende zu machen, griff ich zu dem alltäglichen
@@ -857,7 +857,7 @@ ruhig, obwohl er die gewissen drei Falten auf der Stirn hatte —
 »ich bin weder Detektiv noch Berufsdiplomat, mithin dichten
 Sie mir Eigenschaften an, die ich nicht besitze. Wir können
 die offenbar etwas verworrene Situation Schnell klären. Bitte
-— haben »Sie dies geschrieben?« Er reichte ihr den bewußten
+— haben Sie dies geschrieben?« Er reichte ihr den bewußten
 Brief, der den Fall »versiegelte Insel« eingeleitet hatte.
 
 »Nein! Das ist nicht meine  Handschrift«, — — sie zögerte
@@ -981,7 +981,7 @@ Sich Seine Schlaffe Haltung, er erhob Sich, und mit kältester,
 Großmütigster Ablehnung erklärte er:
 
 »Das geht nur mich etwas an … — Sie gestatten, daß
-ich mich verabschiede …
+ich mich verabschiede …«
 
 An der Tür machte er nochmals Halt und blickte Harst
 scharf an. »Vielleicht hat dieser Gollon Sich bereits mit Ihnen
@@ -1043,8 +1043,8 @@ der ihm im höchsten Grade unsympathisch war.
 
 2\. Gollon wußte bestimmt, daß der jetzige Lord Austin
 die an ihn gerichteten anonymen Briefe Sofort verbrannt hatte,
-ohne Sie Madge zu zeigen. Seine Nichte hatte es mit den für
-Sie bestimmten Briefen genau So gehandhabt, und nur durch
+ohne sie Madge zu zeigen. Seine Nichte hatte es mit den für
+sie bestimmten Briefen genau So gehandhabt, und nur durch
 einen Zufall kam es dazu, daß Onkel und Nichte Schließlich
 doch von diesen vorsichtig abgefaßten Verdächtigungen einander
 Mitteilung machten.
@@ -1116,7 +1116,7 @@ erwiderte er Sehr ehrlich: »Kaptain, Sie haben schon häufiger
 auf meine Auffassung dunkler Zusammenhänge Wert gelegt.
 Die Liebe, noch dazu eine So schwärmerische Liebe, wie Miß
 <@pagebreak/>
-Madge Sie Ihnen entgegenbringt, obwohl ihr sonst alles Exaltierte,
+Madge sie Ihnen entgegenbringt, obwohl ihr sonst alles Exaltierte,
 Überspannte fern liegt, kann insgeheim zur verfänglichen
 Leidenschaft werden, die Sich über alle Bedenken hinwegsetzt.«
 
@@ -1125,7 +1125,7 @@ die Achseln. »Ich kenne Madge besser, sie …«
 
 »… sie hat hier in Gegenwart Austins derart kaltblütig
 gelogen«, fiel Harst mit Nachdruck ein, »daß ich empört war.
-Sie war dreimal nachts bei mir, und, mag Sie auch bei diesen
+Sie war dreimal nachts bei mir, und, mag sie auch bei diesen
 Besuchen verschleiert gewesen sein, und immer nur geflüstert
 haben, damit ich ihre Stimme nicht wiedererkennen Sollte, —
 sie war es! Und das, was sie vorbrachte, richtete sich gegen
@@ -1171,7 +1171,7 @@ Sich beschäftigt hat und daß sein letztes Buch den Titel trägt:
 »Das Gewissen des Verbrechers, — Eine volkstümliche Betrachtung
 über Lebensführung und moralische Anschauungen von
 Mördern, die längere Zeit ihre Tat zu verheimlichen wußten.«
-»Ich denke«, Schloß der merkwürdige Shnout mit einem Kopfnicken
+Ich denke«, schloß der merkwürdige Shnout mit einem Kopfnicken
 zu Seinem Herrn hin, »wir alle tappen hier noch völlig
 im Dunkeln.«
 
@@ -1328,7 +1328,7 @@ ganze Pracht versank hinter Geröll und Gestrüpp. Dann
 trat aus dem Zelteingang dieselbe Dame, die uns vorhin So eingehend
 beäugt hatte, und näherte Sich uns elastischen Schrittes,
 der für Magda Harras genau So kennzeichnend war wie die
-freimütige Art, wie Sie nun Percy Gollon die Hand hinstreckte
+freimütige Art, wie sie nun Percy Gollon die Hand hinstreckte
 und dazu mit einem Anflug von bitterem Lächeln recht melodisch
 Sagte: »Hat Lord Austin auch Sie mit Schüssen vertrieben?!
 — Das Sind wohl die Herren Harst und Schraut …
@@ -1336,7 +1336,7 @@ Ich freue mich, Ihre Bekanntschaft zu machen, obwohl ich
 gewünscht hätte, wir wären einander unter weniger eigenartigen
 Umständen begegnet.«
 
-Magda Harras waren die dreißig Jahre, die Sie zählen
+Magda Harras waren die dreißig Jahre, die sie zählen
 Sollte, keineswegs anzumerken. Sie war vollschlank, etwas
 über mittelgroß, hatte dunkelbraunes, reiches Haar, das sie
 halb über die Ohren frisiert trug, und ein regelmäßiges, offenes
@@ -1449,7 +1449,7 @@ Harst sagte gar nichts, rauchte Seine Mirakulum und
 Spielte mit dem Sicherungsflügel Seiner Mauserbüchse, den er
 hin und herschnellen ließ.
 
-Gollon fixierte uns von der Seite. »Na, wie gefiel Sie
+Gollon fixierte uns von der Seite. »Na, wie gefiel sie
 Ihnen?«
 
 Harst nickte. »Ausgezeichnet!«
@@ -1484,9 +1484,9 @@ Wir erhoben uns, Magda Harras Stand Sehr verwirrt
 vor uns, und Schon ihre verschüchterten Augen ließen das
 Schlimmste ahnen,
 
-»Mr. Gollon«, sagte Sie leise, »Madge läßt Ihnen ausrichten,
-daß Sie jeden niederschießt, der Sich ihr auf zehn Schritt
-nähert. — Es ist Schrecklich, — ich vermag Sie garnicht zu beruhigen,
+»Mr. Gollon«, sagte sie leise, »Madge läßt Ihnen ausrichten,
+daß sie jeden niederschießt, der Sich ihr auf zehn Schritt
+nähert. — Es ist Schrecklich, — ich vermag sie garnicht zu beruhigen,
 sie ist in einer seelischen Verfassung, die …«
 
 Gollons harte Züge wurden finster. »So! Schießen?!
@@ -1808,7 +1808,7 @@ und mein Herz pumpert wie ein lahmer Motor.«
 Daß Shnout mit Kernflüchen jede Art Pestilenz auf die
 Häupter der Bogenschützen herabflehte, und daß plötzlich Miß
 Harras auftauchte und Sich voller Teilnahme nach Percys
-Ergeben erkundigte und wirklich zugab, Madge habe Sie herüber geschickt,
+Ergeben erkundigte und wirklich zugab, Madge habe sie herüber geschickt,
 zauberte ein Lächeln um Gollons Lippen und
 versöhnte ihn vollständig mit der Schmerzenden Wade.
 
@@ -1834,7 +1834,7 @@ Harst, der gerade die Socken wechselte, Sagte allzu trocken:
 Percy Starrte ihn entgeistert an. »Wie, — Sie trauen
 der Harras nicht?!«
 
-»Ich traue ihr alles zu, und was Sie alles einfädeln kann,
+»Ich traue ihr alles zu, und was sie alles einfädeln kann,
 davon haben Sie ja vorhin einen Vorgeschmack bekommen,
 lieber Gollon. Diese »Indianer« waren Austins vier arabische
 Wächter, und Magda Harras hat diese Heuchler auf die Beine
