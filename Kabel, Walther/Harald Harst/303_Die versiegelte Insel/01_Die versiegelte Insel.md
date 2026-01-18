@@ -22,7 +22,7 @@ Vorbereitung.
 
 Hexenschuß, Magenverstimmung und leiser Ärger über
 meines Freundes häufige Fahrten in die Stadt und über nächtliche
-Besucher, die ich nie zu Gesicht bekam, versetzen mich in
+Besucher, die ich nie zu Gesicht bekam, versetzten mich in
 einen Zustand der Gereiztheit, der irgendwie einmal zur Explosion
 meines sonst sehr abgeklärten Temperaments führen
 mußte.
@@ -44,7 +44,7 @@ was ist denn das?! Komme doch einmal her, mein Alter,
 falls dein Hexenschuß sich gebessert haben sollte …«
 
 Ich überhörte die Anzüglichkeit. Der Hexenschuß war
-ja größtenteils nur vorgetäuscht, das Stimmte.
+ja größtenteils nur vorgetäuscht, das stimmte.
 
 »Was gibt es?«
 
@@ -105,7 +105,7 @@ waren nicht zu finden.
 
 Harst untersuchte den Sprengtrichter und meinte anerkennend,
 daß die Sprengladung wohl genügt hätte, ihn dauernd
-außer Gefecht zu Setzen.
+außer Gefecht zu setzen.
 
 »… Gehen wir ins Haus, mein Alter. Ich will dir den
 Fall vortragen«, fügte er etwas ernster hinzu.
@@ -151,7 +151,7 @@ London, wohnt zur Zeit seit fünf Tagen im Esplanade-Hotel
 mit Zofe und Gesellschaftsdame und ahnt nicht, daß ich
 genau weiß, wen ich nachts empfange. Sie war bisher dreimal
 bei mir, und wir haben die Angelegenheit nach allen Seiten
-gründlichst erörtert. Wenn ich Sage »Angelegenheit«, so will
+gründlichst erörtert. Wenn ich sage »Angelegenheit«, so will
 ich dadurch betonen, daß vorläufig für mich kein »Fall« vorlag.
 Erst der Spargel vorhin, der mir statt in Butter in Pulver
 serviert werden sollte, hat aus einer belanglos erscheinenden
@@ -162,7 +162,7 @@ Verzeihung, Mama, riefst du?«
 bedeutete«, meldete sich Frau Harst ein wenig erregt. »Was
 habt ihr beide da wieder zu tuscheln …?! Ich hoffe …«
 
-»Schraut Schoß eine Krähe, und wir erörterten gerade
+»Schraut schoß eine Krähe, und wir erörterten gerade
 die Gefährlichkeit der Krähen für nistende Singvögel, liebe
 Mama …«
 
@@ -175,11 +175,11 @@ schuldbewußt.
 »… Also höre genau hin, mein Alter …«, nahm Harst
 den Faden wieder auf. »Miß Madge Barrington fand sich
 pünktlich ein, war tief verschleiert und nahm mir noch auf der
-Straße das Versprochen ab, ihr nicht nachzuspüren … Ich sagte
+Straße das Versprechen ab, ihr nicht nachzuspüren … Ich sagte
 dies leichten Herzens zu, denn inzwischen hatte ich bereits die
 Hotellisten in den Zeitungen durchgesehen und darin den Namen
 Madge Barrington gefunden. Sie trug mir in meinem Arbeitszimmer
-folgendes vor: — Ohr Vater, als eifriger Jäger
+folgendes vor: — Ihr Vater, als eifriger Jäger
 und Segler recht bekannt, hatte seiner Zeit mit dem Lordtitel
 und dem großen Vermögen auch eine Insel im Roten
 Meer geerbt, die der Familie Barrington seit etwa hundert
@@ -219,7 +219,7 @@ lag noch darin, und das Totenkissen, die Steppdecke und die
 Unterlage bewiesen, daß die Leiche längere Zeit dort gelegen
 hatte, dann jedoch entfernt worden war. — Madge entschloß
 sich auf Anraten des alten, treuen Schloßvogts, zu niemandem
-von dieser eigenartigen Entdeckung zu Sprechen, und einen
+von dieser eigenartigen Entdeckung zu sprechen, und einen
 Detektiv zu Rate zu ziehen, — für mich sehr schmeichelhaft:
 Ich wurde beehrt.«
 
@@ -295,7 +295,7 @@ Harst und ich blieben in etwas betretener Stimmung zurück.
 
 Es dauerte eine geraume Weile, bis mein Freund mit einem
 Achselzucken das Heft aufschlug. »Meine Mutter hat für
-ihre Jahre ein Sehr feines Gehör — zum Glück, wie du siehst.
+ihre Jahre ein sehr feines Gehör — zum Glück, wie du siehst.
 Sonst wäre uns dieser Aufsatz hier zu spät zu Gesicht gekommen.
 Anderseits sind wir nun in die peinliche Lage versetzt, den ausdrücklichen
 Wunsch einer gütigen Menschenfreundin und Mutter
@@ -316,7 +316,7 @@ kannst du dir später betrachten, mein Alter.«
 > Die Inselwelt des Roten Meeres bietet dem Geologen
 im allgemeinen wenig Bemerkenswertes. Die teils felsigen,
 teils sandigen Eilande, die ihre Entstehung zumeist der nimmermüden
-Aufbauarbeit der Korallen verdanken, besitzen eine Sehr
+Aufbauarbeit der Korallen verdanken, besitzen eine sehr
 spärliche Vegetation und eine ebenso kümmerliche Tierwelt,
 für die arabischen und afrikanischen Fischer und Frachtschiffe
 mit ihrem geringen Tiefgang haben sie lediglich den Wert von
@@ -363,7 +363,7 @@ größter Bereitwilligkeit zur Verfügung. Mein Freund Chester
 Dolegan, ebenfalls ein eifriger Angler, war der erste von uns,
 der auf Manibar genau so spurlos verschwand, wie dies mit
 <@pagebreak/>
-Lord Howard B. zunächst der Fall gewesen zu sein Schien. Inzwischen
+Lord Howard B. zunächst der Fall gewesen zu sein schien. Inzwischen
 sind von meinen Begleitern noch drei Leute auf dieselbe
 unheimliche Art abhanden gekommen, so daß die Fortsetzung
 unserer wissenschaftlichen Arbeiten von dem Gouverneur von
@@ -403,8 +403,8 @@ würde einmal eine ganze Nacht an jener Stelle wachen, da er
 fest überzeugt sei, daß zwischen den Korallenriffen unterhalb der
 nur acht Meter hohen senkrecht abfallenden Felsküste in dem
 <@pagebreak/>
-Sehr tiefen Wasser zwischen den Korallenbänken irgend ein bösartiges
-Meeresungeheuer hause. Jam Black, ein Strammer
+sehr tiefen Wasser zwischen den Korallenbänken irgend ein bösartiges
+Meeresungeheuer hause. Jam Black, ein strammer
 und kluger Bursche hatte Schußwaffen mitgenommen, — —
 die Waffen fanden wir am Morgen, er selbst war nirgends
 mehr zu entdecken.
@@ -422,13 +422,13 @@ Betracht kam.
 Am 14. März verschwand einer der Beamten aus Aden
 um die Mittagsstunde, als dessen Kollege und ich kaum zweihundert
 Meter von der Steilwand entfernt waren. Wir hörten
-einen Schrillen Schrei, und Edward Gloster war den unheimlichen
+einen schrillen Schrei, und Edward Gloster war den unheimlichen
 Weg der beiden anderen Opfer gegangen: Er war spurlos
 ausgelöscht!
 
 Edward Glosters jähes Ende versetzte uns alle in eine
 äußerst bedrückte Stimmung, und erst nach Tagen erholten wir
-uns von dem Schrecklichen Gedanken, daß wir auch den fröhlichen
+uns von dem schrecklichen Gedanken, daß wir auch den fröhlichen
 unternehmungslustigen Ed nie wiedersehen würden. Ein völliger
 Umschwung in unseren Empfindungen ließ uns unsere Anstrengungen
 verdoppeln, eine Lösung der Geheimnisse zu erzwingen.
@@ -504,7 +504,7 @@ von Magda Harras)
 
 <h2>3. Kapitel.</h2>
 
-<h3>Ein Mann, der Sich weigert …</h3>
+<h3>Ein Mann, der sich weigert …</h3>
 
 Mein guter Harst hatte von Zeile zu Zeile immer langsamer
 und bedächtiger gelesen. Bei manchen Stellen machte er
@@ -546,11 +546,11 @@ Massenwanderung von genialen Abenteurern einsetzen wird —
 etwa wie einst nach dem Goldlande Klondyke, denn natürlich
 werden diese modernen Raubritter vermuten, der Oktopus
 bewache dort einen Riesenschatz, der aus uralten Zeiten
-Stamme, — — man wird Riesenhotels errichten, Bars und
+stamme, — — man wird Riesenhotels errichten, Bars und
 Spielhöllen und Revuetheater, und abgesägte deutsche
 Generalmusikdirektoren und ewig junge Soubretten von siebzig
 Jahren werden vor einem erlesenen Publikum für drei Groschen
-eine Oper von solch infernalischer Instrumentation ausführen,
+eine Oper von solch infernalischer Instrumentation aufführen,
 daß sogar ein Tauber wieder hellhörig wird und …«
 — er brach mitten im Satze ab, sein Gesichtsausdruck, der bis
 dahin vor Sarkasmus gesprüht hatte, änderte sich genau so
@@ -602,7 +602,7 @@ Behälter in dem gewissen Keller tatsächlich leer. — Weil Fall
 mich nunmehr stark mit angeht, eintreffe Berlin morgen
 18 Uhr mit Flugzeug von Holland. — Gruß, Wiedersehen
 19 Uhr, falls Luftkiste nicht Kleinholz macht. — Ihr alter
-P. Gollon.«…
+P. Gollon.«
 
 Ich hatte bei dem Ausdruck »Behälter« gestutzt, rechtzeitig
 fiel mir ein, daß es sich nur um den Sarg Lord Howard
@@ -612,7 +612,7 @@ Oberinspektor Gollon so äußerst kennzeichnend waren, das
 Bild unseres Londoner Bekannten im Geiste vor mir: Ein
 Mann Mitte der dreißig, vornehmes, blasiertes Gesicht, schläfrige
 Augen, Monokel, so etwas Chamberlain-Typ, dabei einer
-der ganz Großen von Scotland Yard, der Sicherlich schnellste
+der ganz Großen von Scotland Yard, der sicherlich schnellste
 Karriere machen würde.
 
 Harst nahm mir die Depesche wieder ab und verbrannte
@@ -624,7 +624,7 @@ weißt jetzt alles, ich habe dir nichts verschwiegen, gar nichts.
 Und falls du etwa in den einschlägigen Geschäften Berlins
 Nachfrage halten willst, wer letztens ein paar Turnschuhe mit
 Gummisohlen, Größe 38, gekauft hat, beginne sofort damit
-und lasse dir von Arbeitsamt fünftausend intelligente Köpfe
+und lasse dir vom Arbeitsamt fünftausend intelligente Köpfe
 nachweisen als Helfer, vielleicht erreichst du dann in einer
 Woche das, worauf es gar nicht ankommt, denn — im Vertrauen:
 Die Person, die den Spargel pflanzte, hat weit kleinere
@@ -777,7 +777,7 @@ klären könnte.
 <h3>Ein Mädchen, das sich nicht verteidigt …</h3>
 
 Hätte ich jedoch voraussehen können, welche Verwicklungen
-aus dieser Begegnung zwischen Austin und Madge
+sich aus dieser Begegnung zwischen Austin und Madge
 hier auf neutralem und doch so gefährlichem Boden von Harsts
 Arbeitszimmer ergeben sollten, würde ich vorsichtiger gewesen
 sein.
@@ -873,7 +873,7 @@ ist doch so offensichtlich, daß …«
 Barrington wandte sich zaudernd um.
 
 »Gewiß, — — es wird eine Fälschung sein, — — natürlich
-ist es eine Fälschung, obwohl ich geschriebenes so selten
+ist es eine Fälschung, obwohl ich Geschriebenes so selten
 von dir gesehen habe, daß …«
 
 Armer Lord!
@@ -917,7 +917,7 @@ abzuwarten.« Und bevor wir noch recht zur Besinnung kamen,
 fiel die Tür ins Schloß, auch die Haustür … —
 
 Madge Barringtons Abgang erzeugte bei mir den bitteren
-Nachgeschmack einer Schlecht gespielten Szene aus einem üblen
+Nachgeschmack einer schlecht gespielten Szene aus einem üblen
 Theaterreißer.
 
 Der Lord bat mit unsicherer Stimme um ein zweites
@@ -926,7 +926,7 @@ Glas Wein und fiel schwer in einen Sessel.
 Zu meiner Entrüstung sagte Harst mit einer kühlen Sachlichkeit,
 die jetzt mehr als verletzend wirkte: »Nun hätten wir
 bereits zwei Verdächtige, Mylord: Sie und Ihre Nichte!
-So weit ich Miß Madge verstanden habe, müßten Sie Sterben,
+So weit ich Miß Madge verstanden habe, müßten Sie sterben,
 damit Ihre Nichte ausnahmsweise Titel und Vermögen erbte.
 Oder enthält das Familiengesetz noch andere Bestimmungen?«
 
@@ -935,7 +935,7 @@ Er füllte das Weinglas. Austin Barrington stöhnte: »Ja
 auch schon erledigen, und … und … darauf war ja in den an
 Madge gerichteten Briefen angespielt: Sie habe erst ihren
 Vater beseitigt, und würde mich jetzt des Brudermordes zu
-überführen Suchen, um … um …« — er schluckte und würgte
+überführen suchen, um … um …« — er schluckte und würgte
 an den nächsten Sätzen — »um ihre … ihre … Jugendschwärmerei
 <@pagebreak/>
 heiraten zu können … einen Fliegeroffizier, jetzt Oberinspektor
@@ -993,12 +993,12 @@ Bruder Howard mich hinstellte.«
 Dann ging er. — Harst schaute ihm nach. »Da — —
 diese straffen Bewegungen, mein Alter …!! Der Mann ist
 nicht zu unterschätzen — — als Feind, und ein Feind, hinter
-dem etwa zehn Millionen Vermögen Stehen als vielseitige Reserve,
+dem etwa zehn Millionen Vermögen stehen als vielseitige Reserve,
 dürfte uns arge Verlegenheiten bereiten können.«
 
 — Bis zum Nachmittag war für Harst der Fall »Manibar«
 abgetan, er sprach kein Wort mehr darüber. Dann traf
-Percy Gollon mit zwei ländlichen Lederkoffern und seinem
+Percy Gollon mit zwei handlichen Lederkoffern und seinem
 etwas unhandlicheren Diener und früheren Burschen Abraham
 Shnout bei uns ein, — Shnout wiegt 210 Pfund.
 
@@ -1006,7 +1006,7 @@ Shnout bei uns ein, — Shnout wiegt 210 Pfund.
 
 <h2>5. Kapitel.</h2>
 
-<h3>… Und verliebter Oberinspektor.</h3>
+<h3>… Und ein verliebter Oberinspektor.</h3>
 
 Gollon und sein »Appendix« Shnout wurden oben in den
 Gastzimmern untergebracht, nahmen ein Bad und fanden sich
@@ -1020,7 +1020,7 @@ würzte das Mahl mit harmlosen Anekdoten und
 Geschichten, die außerhalb seiner Berufssphäre spielten. Der
 Fall Manibar wurde erst gegen halb zehn zwischen uns erörtert,
 als wir den Tee in Harsts Arbeitszimmer tranken. Abraham
-Shnout, jetzt in blauem Jackenanzug einem Sehr behäbigen
+Shnout, jetzt in blauem Jackenanzug einem sehr behäbigen
 Landpastor sehr ähnlich, war mit dabei und galt als durchaus
 gleichberechtigt. Dieser Speckwanst besaß Mutterwitz und jene
 primitive Schlauheit, die oft mehr wert sein dürfte als die
@@ -1049,7 +1049,7 @@ einen Zufall kam es dazu, daß Onkel und Nichte schließlich
 doch von diesen vorsichtig abgefaßten Verdächtigungen einander
 Mitteilung machten.
 
-3\. Die Gerüchte, die Sowohl Lord Austin als auch Madge
+3\. Die Gerüchte, die sowohl Lord Austin als auch Madge
 mit dem Tode Lord Howards in Verbindung brachten, konnten
 der Polizei nicht geheim bleiben. Es traf zu, daß Oberinspektor
 Gollon diesen Gerüchten und ihrer Quelle behutsam nachgegangen
@@ -1087,7 +1087,7 @@ Todes unmöglich gemacht wurde.
 konnte keine Klarheit bei dieser Aussprache gewonnen
 werden, die von Seiten Harsts mit dem Hinweis beendet
 wurde, daß Gollons Verdacht gegen Austin doch wohl
-auf sehr schwachen Füßen Ruhe.
+auf sehr schwachen Füßen ruhe.
 
 »… Austin war durch nichts gezwungen worden«, betonte
 er, »hier vor uns einzugestehen, daß er in dem einen
@@ -1114,16 +1114,16 @@ Shnout nahm die dicke Importe aus dem Mundwinkel
 und machte ein Gesicht wie bei einer Beerdigung. Trotzdem
 erwiderte er sehr ehrlich: »Kaptain, Sie haben schon häufiger
 auf meine Auffassung dunkler Zusammenhänge Wert gelegt.
-Die Liebe, noch dazu eine So schwärmerische Liebe, wie Miß
+Die Liebe, noch dazu eine so schwärmerische Liebe, wie Miß
 <@pagebreak/>
 Madge sie Ihnen entgegenbringt, obwohl ihr sonst alles Exaltierte,
-überspannte fern liegt, kann insgeheim zur verfänglichen
+Überspannte fern liegt, kann insgeheim zur verfänglichen
 Leidenschaft werden, die Sich über alle Bedenken hinwegsetzt.«
 
 »Sie sind verrückt!«, sagte Gollon grob und zuckte mitleidig
 die Achseln. »Ich kenne Madge besser, sie …«
 
-»… Sie hat hier in Gegenwart Austins derart kaltblütig
+»… sie hat hier in Gegenwart Austins derart kaltblütig
 gelogen«, fiel Harst mit Nachdruck ein, »daß ich empört war.
 Sie war dreimal nachts bei mir, und, mag sie auch bei diesen
 Besuchen verschleiert gewesen sein, und immer nur geflüstert
@@ -1132,7 +1132,7 @@ sie war es! Und das, was sie vorbrachte, richtete sich gegen
 Austin, wie ich nun erst klar durchschaue. Sie kam, um den
 Verdacht in andere Richtung zu lenken.«
 
-Gollon biß die Starken Oberzähne so heftig in die Unterlippe,
+Gollon biß die starken Oberzähne so heftig in die Unterlippe,
 daß diese völlig verschwand. Sein Gesicht war fahl, und
 die Augen matt und ohne Glanz.
 
@@ -1152,7 +1152,7 @@ er lose in der Linken gehalten hatte, gleichfalls fallen ließ und
 sie nachher aufhob.
 
 Dieser neue Umstand bewirkte, daß Gollon triumphierend
-rief: »Er hat den Brief verschwinden lassen, irgend eine Seiner
+rief: »Er hat den Brief verschwinden lassen, irgend eine seiner
 Kreaturen war als Madge hier bei Ihnen, Harst, und der
 Brief war von Austin gefälscht. Ein so reicher Mann findet
 überall Verbündete, und …«

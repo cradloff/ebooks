@@ -38,8 +38,8 @@ und Scheinkultur wieder hinter sich hat.
 Der Insel Kamaran wichen wir höflichst aus. Gollon
 hatte keine Lust, etwa noch einen neugierigen Aufpasser von
 Beamten an Bord zu nehmen. Achtundvierzig Stunden im
-Motorboot im roten Meer hatten genügt, jenen Zustand von
-nervöser Überreiztheit bei uns hervorzurufen, der Stets die
+Motorboot im Roten Meer hatten genügt, jenen Zustand von
+nervöser Überreiztheit bei uns hervorzurufen, der stets die
 Folge von einigen vierzig Grad Wärme ist. Abraham Shnout
 war nur noch ein zerfließender Fettfleck.
 
@@ -83,16 +83,16 @@ Felseneiland schmorte, erschien uns gewiß.
 
 Wir gondelten zwischen Inselchen, Riffen, nochmals Inselchen
 und nochmals Riffen gemächlich gen Norden, — nie
-sah ich eine So wilde und doch so erbärmlich trostlose Meeresszenerie!
+sah ich eine so wilde und doch so erbärmlich trostlose Meeresszenerie!
 Die Felsen glühten in der Sonne, Strauchbesen,
 sogenannte Palmen, und armselige Büsche zierten das Bild
 mit fahlem Grün, durch die blaugrüne Flut schossen Haie dahin
-wie Kaninchen in einem Zuchtgehege, und … wir schwitzen, —
+wie Kaninchen in einem Zuchtgehege, und … wir schwitzten, —
 das Schwitzen und Fluchen ist hier der »normale Zustand«. —
 Dann bogen wir in die Nordbucht ein, die ebenfalls (vergleiche
 Bild 3 aus dem Wiener Magazin) zwei Naturmolen und zwei
 Warnungstafeln besitzt und im Hintergrunde jene Steilwand,
-von der Fünf Männer verschwunden waren.
+von der fünf Männer verschwunden waren.
 
 Als wir vorsichtig zwischen den Riffen näher ruderten — 
 den Motor hatten wir doch lieber gestoppt —, zeigte sich droben
@@ -133,7 +133,7 @@ der für Magda Harras genau so kennzeichnend war wie die
 freimütige Art, wie sie nun Percy Gollon die Hand hinstreckte
 und dazu mit einem Anflug von bitterem Lächeln recht melodisch
 sagte: »Hat Lord Austin auch Sie mit Schüssen vertrieben?!
-— Das Sind wohl die Herren Harst und Schraut …
+— Das sind wohl die Herren Harst und Schraut …
 Ich freue mich, Ihre Bekanntschaft zu machen, obwohl ich
 gewünscht hätte, wir wären einander unter weniger eigenartigen
 Umständen begegnet.«
@@ -142,7 +142,7 @@ Magda Harras waren die dreißig Jahre, die sie zählen
 sollte, keineswegs anzumerken. Sie war vollschlank, etwas
 über mittelgroß, hatte dunkelbraunes, reiches Haar, das sie
 halb über die Ohren frisiert trug, und ein regelmäßiges, offenes
-Gesicht.  Gollon war zweifellos ein Schlechter Beurteiler
+Gesicht. Gollon war zweifellos ein schlechter Beurteiler
 von Frauenreizen, denn diese Dame hier hat auch nicht das
 geringste Altjüngferliche oder Gouvernantenhafte an sich. Da
 sie gleichsam als neutral gelten konnte, stellte Gollon einige
@@ -215,7 +215,7 @@ doch, — — ich muß auch dies hier offen aussprechen, und …«
 
 Gollon unterbrach sie fast schroff. »Der Liebhaber tritt
 zurück, der Beamte hat hier allein das Wort. Bestellen Sie
-Miß Barrington, hast ich sie sofort sprechen will — sofort! —
+Miß Barrington, daß ich sie sofort sprechen will — sofort! —
 Auf Wiedersehen …«
 
 Er machte eine ebenso schroffe verabschiedende Handbewegung,
@@ -240,10 +240,10 @@ auf deren Charakter ziehen zu können. —
 
 Ich selbst mußte meine anfängliche Beurteilung der Miß
 Magda Harras sehr bald korrigieren. Der erste Eindruck
-war trügerisch gewesen, sie hatte zu uns in wohlüberlegter
+war trügerisch gewesen, sie hatte zu uns in wohlüberlegten
 Sätzen wie ein Blaustrumpf in irgend einer Frauenversammlung
 gesprochen, und Percy Gollon behielt letzten Endes doch recht:
-Eine Sehr, sehr kluge, sehr beherrschte, welterfahrene Dame,
+Eine sehr, sehr kluge, sehr beherrschte, welterfahrene Dame,
 die unweigerlich als Inhaberin eines Pensionats für höhere
 Töchter glänzend am richtigen Plätze gewesen wäre.
 
@@ -276,18 +276,18 @@ Gollon sog an seiner Zigarre. »Sie reden so geschwollen
 wie … — aha, Miß Harras erscheint wieder … Bin neugierig.«
 
 »Ich nicht«, sagte Harst so trocken, wie dies bei diesem
-schwitzen möglich war. »Natürlich läßt Madge Ihnen bestellen,
+Schwitzen möglich war. »Natürlich läßt Madge Ihnen bestellen,
 Sie können ihr mit Ihrem Haftbefehl den Rücken
 runterrutschen, — entschuldigen Sie die vulgäre Redensart,
 aber bei dieser Bullenhitze würde sogar das Gehirnschmalz
 unserer redseligsten, zungengewandtesten Snobs kläglich versickern.«
 
-Wir erhoben uns, Magda Harras Stand sehr verwirrt
+Wir erhoben uns, Magda Harras stand sehr verwirrt
 vor uns, und schon ihre verschüchterten Augen ließen das
 Schlimmste ahnen.
 
 »Mr. Gollon«, sagte sie leise, »Madge läßt Ihnen ausrichten,
-daß sie jeden niederschießt, der Sich ihr auf zehn Schritt
+daß sie jeden niederschießt, der sich ihr auf zehn Schritt
 nähert. — Es ist schrecklich, — ich vermag sie garnicht zu beruhigen,
 sie ist in einer seelischen Verfassung, die …«
 
@@ -331,9 +331,9 @@ Percy blieb stumm. Nach hastiger Mahlzeit verlegten
 wir unser Lager nach oben in den Westwinkel der Klippe, benutzten
 das Bootsverdeck als Zelt und schleppten das Boot
 so hoch auf das Riff, daß kein arabischer Halunke es uns
-Stehlen konnte. Zwischen unserem Lagerplatz und dem der
-drei Amazonen gab es einen Zwischenraum von etwa drei
-hundert Meter.
+stehlen konnte. Zwischen unserem Lagerplatz und dem der
+drei Amazonen gab es einen Zwischenraum von etwa dreihundert
+Meter.
 
 Um vier Uhr nachmittags verließen Gollon und ich die
 Klippe und wanderten gen Süden, um Lord Austin eine Visite
@@ -348,17 +348,17 @@ strahlten eine Hitze aus, daß wir wie trunken dahinstolperten
 und sehr bald einsahen, wie recht Harst mit seiner
 <@pagebreak/>
 Weigerung gehabt hatte, um diese Tageszeit, wo die Sonne
-noch so hoch Stand, das Steinerne Haus des Lords aufzusuchen.
+noch so hoch stand, das steinerne Haus des Lords aufzusuchen.
 
 Trotzdem wurden wir für unseren Wagemut nachher durch
 den Anblick eines fast paradiesischen Tales belohnt, in dem
-ein klarer Bach lauschend dahinströmte und Palmen und hohe
-Büsche, bunte Blumenfelder und ein Sauberer Garten nicht
+ein klarer Bach rauschend dahinströmte und Palmen und hohe
+Büsche, bunte Blumenfelder und ein sauberer Garten nicht
 nur Schatten und Freude spendeten, sondern auch gerade der
 Mann, auf den es uns ankam, uns plötzlich äußerst höflich
 entgegenkam. Lord Austin entschuldigte sich bei uns wegen
 der Übergriffe seiner Leute und zeigte sich von so natürlicher,
-entwaffnenden Liebenswürdigkeit, daß Gollon es nicht fertig
+entwaffnender Liebenswürdigkeit, daß Gollon es nicht fertig
 brachte, in anderem Tone zu antworten oder etwa sofort seine
 wahre Absicht brutal zu enthüllen. Dabei vermied Lord Austin
 jede Übertreibung seines weltmännischen Auftretens nach der
@@ -375,7 +375,7 @@ nahmen Platz, der Diener Tom Bristol brachte wundervolle
 Getränke, und ich hatte das Gefühl, irgend ein Märchen zu
 erleben. Hier im Roten Meer hatte ich ein Tuskulum entdeckt,
 das ebensogut in einer der üppigsten tropischen Landschaften
-hätte Stehen können, einen Herrensitz, der nicht ahnen ließ, daß
+hätte stehen können, einen Herrensitz, der nicht ahnen ließ, daß
 mit ihm so eng der bisher ungeklärte Tod von fünf Männern
 verknüpft war.
 
@@ -449,7 +449,7 @@ Höflichkeit bat er uns, als der Kammerdiener eingeschlossen
 worden war und Percy den Schlüssel zu sich gesteckt hatte,
 wieder in sein Arbeitszimmer und nötigte uns nicht mehr zum
 Platznehmen, sondern wandte sich lediglich an Gollon mit den
-Schneidend hervorgebrachten Worten: »Bedanken Sie sich bei
+schneidend hervorgebrachten Worten: »Bedanken Sie sich bei
 Herrn Harst, daß ich meine ursprüngliche Absicht, Ihnen den
 Grund meiner Anwesenheit hier auf Manibar um die Zeit
 des Verschwindens meines Bruders offen anzugeben, wieder
@@ -481,7 +481,7 @@ allzu schießwütigen Kerlen an der Bucht …«
 Der Lord hatte sich jäh umgedreht und war ans Fenster
 getreten.
 
-Percy Gollons Schwere Atemzüge blieben minutenlang
+Percy Gollons schwere Atemzüge blieben minutenlang
 das einzige Geräusch im Zimmer. Daß ihn diese Offenbarung,
 daß der Lord seine Nichte liebte, in höchste Erregung bringen
 mußte, war verständlich.
@@ -492,7 +492,7 @@ ich habe es ihr nie gezeigt, ich zitterte damals für ihre Sicherheit,
 als sie meinen unglücklichen Bruder hierher begleiten
 wollte, ich habe damals im Süden der Insel in einer kleinen
 Höhle gehaust, und — — heute schäme ich mich dieses knabenhaften
-Tuns, denn Madge ist solche Stille Liebe nie wert gewesen,
+Tuns, denn Madge ist solche stille Liebe nie wert gewesen,
 Madge und ich standen miteinander wie die allerbesten Freunde,
 und bei der ersten Probe auf die Tiefe dieser Freundschaft
 versagte sie und hielt mich für … den Mörder ihres Vaters.
@@ -511,7 +511,7 @@ Harst trat zurück.
 »Bedauere, Mylord, — — es ist zu spät«, meinte er
 überraschend herzlich. »Wir werden uns wiedersehen, wir
 haben hier noch einiges zu erledigen, bevor die letzten Schleier
-fallen können. Für Bristols Ernährung Sorgen Sie wohl.
+fallen können. Für Bristols Ernährung sorgen Sie wohl.
 Lassen Sie ihn nicht frei, Mylord, — noch nie hat ein schlimmerer
 <@pagebreak/>
 Schurke Sie getäuscht wie dieser Mann mit dem dunkelbraunen
@@ -555,7 +555,7 @@ rabenähnliche Vögel, die aus einem Gestrüpp krächzend davonstrichen.
 
 »Bristol? — Nein und ja, — wie man es nimmt …
 Ganz klar sehe ich in dieser Sache noch nicht, mein Alter.«
-Er schaute mich an und hatte plötzlich ein Sehr ernstes Gesicht.
+Er schaute mich an und hatte plötzlich ein sehr ernstes Gesicht.
 »Ein Kriminalfall wird sofort ungeheuer kompliziert, sobald
 dabei seelische Verwicklungen mitsprechen wie hier. Nimm
 Austin Barrington, zergliedere seinen Charakter, berücksichtige
@@ -568,7 +568,7 @@ Wir erklommen einen Hügel, und die Unterhaltung schlief
 wieder ein, da wir übergenug mit dem abschüssigen Wege zu
 tun hatten. Als wir wieder flacheres Gelände erreicht hatten,
 wollte ich das Gespräch wiederaufnehmen. Ein ferner Schuß
-hinter uns ließ uns Stehenbleiben und sekundenlang horchen,
+hinter uns ließ uns stehenbleiben und sekundenlang horchen,
 dann lief Harst in langen Sätzen den Weg zurück, und da ich
 mit ihm nicht Schritt halten konnte, kam ich zu spät bei den
 hölzernen Ruinenresten an, sah nur noch ein paar braune Gestalten
@@ -582,7 +582,7 @@ von mir!«
 
 Harst turnte schon nach oben, und als wir den etwas
 bleichen Percy ins Gras gelegt hatten, schüttete Harst schleunigst
-in die Stark blutende Wunde sein gepulvertes Übermangansaureskali
+in die stark blutende Wunde sein gepulvertes Übermangansaureskali
 hinein, band den Unterschenkel ab, wiederholte
 die Desinfektion, und prüfte Percys Pupillen.
 
@@ -610,9 +610,9 @@ und mein Herz pumpert wie ein lahmer Motor.«
 Daß Shnout mit Kernflüchen jede Art Pestilenz auf die
 Häupter der Bogenschützen herabflehte, und daß plötzlich Miß
 Harras auftauchte und sich voller Teilnahme nach Percys
-ergeben erkundigte und wirklich zugab, Madge habe sie herüber geschickt,
+Ergehen erkundigte und wirklich zugab, Madge habe sie herüber geschickt,
 zauberte ein Lächeln um Gollons Lippen und
-versöhnte ihn vollständig mit der Schmerzenden Wade.
+versöhnte ihn vollständig mit der schmerzenden Wade.
 
 Miß Harras verabschiedete sich sehr bald und stellte keinerlei
 überflüssige Fragen.
@@ -626,7 +626,7 @@ Frauenzimmer, das …!!«
 
 Percy war erstaunt. »Wer? Die Harras?! — Shnout,
 Sie verteilen Ihre Sympathie und Antipathie denn doch zu
-willkürlich. Diese Dame, die So gedrechselt redet wie ein
+willkürlich. Diese Dame, die so gedrechselt redet wie ein
 Buch über »Komplexe der Verbrechernaturen«, ist ein harmloses
 Kaninchen.«
 
@@ -681,7 +681,7 @@ Mehr hätte selbst ein Folterknecht aus Harst nicht herausgepreßt.
 
 Der Abend war da. Abraham kochte einen neuen Fraß,
 der gräßlich ausschaute und tadellos schmeckte, wir aßen, tranken,
-und hundemüde warten wir uns auf unsere Decken. Shnout,
+und hundemüde warfen wir uns auf unsere Decken. Shnout,
 der die erste Wache hatte, schlenderte auf dem Abhang umher,
 im Zelte der drei Amazonen brannte Licht, — — ich
 schlief ein. — Ich hatte die Wache von 12 bis 3 Uhr morgens.
@@ -729,11 +729,11 @@ Austin Barrington schlenderte von Osten herbei, sah uns,
 merkte wohl, daß etwas Ungewöhnliches geschehen, und begann
 zu laufen. Bei seinem Anblick zog sich Madge in das
 Zelt zurück. Wir anderen schauten dem Lord, der hier zu so
-unglückseliger Stunde sich erfand, mit recht gemischten Gefühlen
+unglückseliger Stunde sich einfand, mit recht gemischten Gefühlen
 entgegen. Aufs neue regte sich in mir der ungewisse
 Verdacht, und auch Abraham raunte mir zu:
 
-»Der Fehlte gerade noch!!«
+»Der fehlte gerade noch!!«
 
 Wenn der Lord hier irgendwie die Hand mit im Spiele
 hatte, war er ein großartiger Komödiant. Magda war ihm
@@ -754,7 +754,7 @@ Ungeheuer aus seinem Schlupfwinkel zu vertreiben. Sogar
 <@pagebreak/>
 die vier arabischen Halsabschneider halfen dabei, — alles andere
 war vergessen, es ging um Percy Gollon, und der Kapitän
-der Jacht, ein Stämmiger, maulfauler Schotte, schwor hoch und
+der Jacht, ein stämmiger, maulfauler Schotte, schwor hoch und
 heilig, er würde das Riesenvieh schon aufstöbern.
 
 Die Tageshitze lähmte uns, um neun Uhr stellten wir die
@@ -773,7 +773,7 @@ ausfielen, erklärte ganz unvermittelt sehr ehrlich und sehr
 niedergeschlagen:
 
 »Der Verdacht, Percy Gollon beseitigt zu haben, wird
-letzten Endes auf mir sitzen bleiben, zumal ich mir hier im
+letzten Endes auf mir sitzen bleiben, zumal ich mich hier im
 Norden der Insel zu einer Stunde einfand, in der man im Bett
 liegen sollte.«
 
@@ -788,7 +788,7 @@ seit langem verdienen. — Mylord, ich für meine Person weiß,
 daß sie ein reines Gewissen haben. Das mag Ihnen vorerst
 genügen. Eine Aussöhnung mit Ihrer Nichte, der Sie doch
 vielleicht halb unbewußt stark mißtrauten, werden sich kaum
-unüberwindliche Hindernisse in den Weg Stellen. Miß Madge
+unüberwindliche Hindernisse in den Weg stellen. Miß Madge
 mußte infolge der Infamie anderer Personen zu ganz irrigen
 Schlüssen gelangen. Madge ist jetzt völlig zusammengebrochen.
 Sie als ihr Oheim — den Bewerber um ihre Hand werden
@@ -836,14 +836,14 @@ zunächst bis zum Rande der Klippe, blickten über die Bucht
 hinweg, betrachteten die in der klaren Flut zwischen den deutlich
 sichtbaren Korallenriffen hin und her schießenden Fische und
 sahen am Heck der weiter draußen ankernden Jacht einen Matrosen
-Stehen, der eine dicke Bambusangelrute mit einer Sehr
+stehen, der eine dicke Bambusangelrute mit einer sehr
 festen Schnur in den Händen hielt und den großen, rot bepinselten
 Korkschwimmer scharf beobachtete. Plötzlich verschwand
 der Schwimmer blitzschnell, die Angelleine straffte sich,
 und der Matrose verlor das Gleichgewicht und stürzte ins
 Wasser, hielt jedoch den Bambusstock krampfhaft fest und
 wurde von einem zweifellos sehr großen Fisch wie ein rasches
-Boot im Zickzackkurs hin und hergezogen, gab die Aussichtslose
+Boot im Zickzackkurs hin und hergezogen, gab die aussichtslose
 Sache auf und schwamm zur Jacht zurück.
 
 Harst hatte den Vorgang mit gespanntester Aufmerksamkeit
@@ -863,10 +863,10 @@ und an der Jacht vorüber ins offene Meer trieb.
 Harst meinte befriedigt: »Diese Strömung gibt den Ausschlag.
 Lord Howard nahm damals fraglos als Sportangler
 mehrere Angelstöcke mit zu diesem seinem Lieblingsplatz, und
-das einer dieser Stöcke nachher fehlte, hat niemand bemerkt
+daß einer dieser Stöcke nachher fehlte, hat niemand bemerkt
 oder bedacht. Ein Stock fehlte zweifellos. — Es
 wäre mithin zwischen Lord Howards Tod und dem Verschwinden
-der vier anderen Engländern eine scharfe Grenzlinie zu
+der vier anderen Engländer eine scharfe Grenzlinie zu
 ziehen. Howard verunglückte beim Angeln, die vier, die nach
 ihm verschollen sind, kamen auf andere Weise um, — nicht
 durch Magda Harras und Tom Bristol, die sicherlich Geschwister
@@ -887,15 +887,15 @@ wurde ich aus alledem schon gar nicht mehr schlau.
 
 <h3>Was die alten Römer schufen …</h3>
 
-Wir kraxelten also in der Sengenden Glut gen Süden.
+Wir kraxelten also in der sengenden Glut gen Süden.
 Harst hatte seine Mauserbüchse sofort entsichert und bewegte
 sich mit einer Vorsicht, als ob die vier arabischen Lümmels
 es nochmals wagen würden, in ihrem indianischen Kopfputz, der
-wohl ihre Identität hatte verborgen sollen, weitere Angriffe
+wohl ihre Identität hatte verbergen sollen, weitere Angriffe
 zu unternehmen, was doch ausgeschlossen war, da Harst ihnen
 etwas abseits eine Standpauke gehalten hatte, in der das
 Wort Galgen wiederholt vorkam. Fürchtete Harst eine heimtückische
-Tat der So flüssig und überflüssig redenden Miß
+Tat der so flüssig und überflüssig redenden Miß
 Harras?! — Meine Frage blieb unbeantwortet.
 
 So erreichten wir die bewußte Terrasse des grünen Tales,
@@ -914,7 +914,7 @@ das mit den braunen Eingeborenen Handel treibt,
 hat einen Teil seiner Waren sorgfältig versenkt.«
 
 Ich war enttäuscht, aber die Zeichnung, die unter der Inschrift
-zu Sehen, begeisterte Harst derart, daß ich ihn verwundert
+zu sehen, begeisterte Harst derart, daß ich ihn verwundert
 anstarrte.
 
 <@pagebreak/>
@@ -940,7 +940,7 @@ Peng … peng …
 
 Peng … peng …
 
-Sieben Schuß…
+Sieben Schuß …
 
 Und da fuhr Harst empor, seine Mauser knallte, aus dem
 Gestrüpp ein Schrei, und … gleich darauf lag Mr. Tom
@@ -962,11 +962,11 @@ Zuchthaus wird das setzen, was meinen Sie?! Die englischen
 Gerichte sind sehr großzügig im Strafmaß, ich fürchte fast,
 <@pagebreak/>
 Ihre Schwester und sie werden kaum mehr andere Luft atmen
-als die eines Soliden Gefängnisses …«
+als die eines soliden Gefängnisses …«
 
 Bristol war stehen geblieben. Sein fahles Gesicht wurde
 erschreckend graugelb. Sein Versuch, höhnisch zu grinsen,
-blieb in den ersten schüchternen Anfängen Stecken. Er senkte den
+blieb in den ersten schüchternen Anfängen stecken. Er senkte den
 Kopf und zog es vor, sich auszuschweigen.
 
 »Magda hat sie natürlich befreit, — gehen wir weiter.
@@ -1016,8 +1016,8 @@ herbei …«
 Ich hatte Magda beobachtet. Beim Anblick des an den
 Händen gefesselten Tom Bristol hatte sie sich rasch umgedreht.
 
-Harst zog — sein Notizbuch hervor. »Mylord, — bitte,
-beiseite treten! Alle Mann dorthin! — So, nun Sehen Sie
+Harst zog sein Notizbuch hervor. »Mylord, — bitte,
+beiseite treten! Alle Mann dorthin! — So, nun sehen Sie
 sich diese Zeichnung an …«
 
 »… Mylord, die alten Römer, die mit den Arabern
@@ -1032,10 +1032,10 @@ das Gewicht eines Menschen, der auf die schwerste nördliche
 Kante trat, genügte, die Platte zum Herabkippen zu bringen.
 Wenn Sie nun, Mylord, die in dem rissigen Gestein allerdings
 sehr schwer zu findenden Umrisse der Platte verfolgen —
-bitte, einen Bootshaken her! —, dann Sehen Sie — hier —,
+bitte, einen Bootshaken her! —, dann sehen Sie — hier —,
 daß die Platte nach Norden zu sehr schmal ist, so schmal, daß
 nur ein Zufall für Uneingeweihte gefährlich wird, nämlich dann,
-wenn jemand beide Füße auf die Schmale Stelle setzt …«
+wenn jemand beide Füße auf die schmale Stelle setzt …«
 
 Er nahm den Bootshaken, stemmte ihn auf das äußerste
 nördliche Ende der Platte, Shnout half ihm drücken, und
@@ -1058,7 +1058,7 @@ Herzen euer Glück … Auch mir wird das Geschick eine
 Lebensgefährtin bescheren, die selbstlos und opferfreudig mich
 gestern aufsuchte und mich vor der mir drohenden Verhaftung
 warnte. — Magda, — — bitte deine Hand … Lieber Harst,
-hier Stelle ich Ihnen meine …«
+hier stelle ich Ihnen meine …«
 
 »… heimtückische Feindin vor!« Harsts schroffe Worte
 ließen Austin förmlich erstarren.
@@ -1068,12 +1068,12 @@ mehr … Magda und Tom Harras alias Bristol wollten
 Sie allmählich dazu bringen, Madge zu vergessen und Magda
 zu heiraten. Wenn Sie all das, was anfänglich so dunkel
 erschien, unter Berücksichtigung des schlauen Planes der Geschwister
-nachprüfen, Stoßen sie Schritt für Schritt auf die
+nachprüfen, stoßen sie Schritt für Schritt auf die
 Beweise dieses raffinierten Planes: Anonyme Briefe, Gerüchte,
 Leichenraub, ein Brief an mich, der innen absichtlich
 im blauschwarzen Fleck »Madge Barrington« erkennen ließ, —
 nächtliche Besuche mit blonder Perücke, ein Spargel der explodierte
-— — und so weiter. — Wollen sie leugnen,
+— — und so weiter. — Wollen Sie leugnen,
 Magda Harras?!« —
 
 Das Mädchen mit den dunklen Augen hatte beide Hände
@@ -1111,7 +1111,7 @@ selten in so stark ausgeprägter Form an ihm bemerkt habe. —
 
 Als fünf Tage darauf die Jacht in Suez anlegte, ereignete
 sich abermals ein Fall spurlosen Verschwindens einer Persönlichkeit,
-die Percy Gollon in London hatte vor Gericht Stellen
+die Percy Gollon in London hatte vor Gericht stellen
 wollen.
 
 Magda Harras wurde nie wieder aufgegriffen. Die beiden
