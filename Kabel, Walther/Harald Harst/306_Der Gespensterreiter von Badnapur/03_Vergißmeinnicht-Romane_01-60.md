@@ -1,4 +1,5 @@
 <@pagebreak 63/>
+
 <p class="pre"><span style="font-size: xx-large;">W</span>er sich die Zeit angenehm vertreiben,
 wer sich gut und doch billig unterhalten will,
 der kaufe sich bei seinem Buchhändler die</p>
@@ -26,6 +27,7 @@ Bisher Sind folgende Bände erschienen
 <tr><td>13. Die Kreuzspinne</td><td>28. Der Rausch einer Nacht</td></tr>
 <tr><td>14. Der blinde Passagier</td><td>29. Der Held des Tages</td></tr>
 <tr><td>15. In harter Schule</td><td>30. Leidensweg d. Traude Brink</td></tr>
+</table>
 
 <p class="centered">Jeder Band hat einen zweifarbigen Umschlag mit Bild und ist
 64 Seiten stark.</p>
@@ -68,6 +70,7 @@ Bisher Sind folgende Bände erschienen
 <tr><td>43. Im Strudel der Zeit</td><td>58. Mohren-Franzel</td></tr>
 <tr><td>44. Mein Schwarzwaldmädel</td><td>59. Der unterirdische Gang</td></tr>
 <tr><td>45. Prinzessin Kolibri</td><td>60. Der Müller vom Höft</td></tr>
+</table>
 
 <p class="centered">Jeder Band hat einen zweifarbigen Umschlag mit Bild und ist
 64 Seiten stark.</p>
