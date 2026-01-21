@@ -1376,7 +1376,7 @@ fauler Scherz ausgeschlossen war.
 
 Sein leises Lachen besserte meine Stimmung, und als er
 mir nun Seinen Plan entwickelte, fand ich ihn bewundernswert.
-Daß die Duda-Leute uns niemals töten würden, war bestimmt
+Daß die Bude-Leute uns niemals töten würden, war bestimmt
 anzunehmen, denn die Nadira Fanum Allison, auf deren
 Befehl sie uns zweifellos hier festhielten, war keine Mörderin.
 Hätte sie uns abtun wollen, wäre dazu längst Gelegenheit
@@ -1443,7 +1443,7 @@ und … aha, — seine Hoheit kapituliert bereits!«
 <@pagebreak/>
 Es war ein recht bescheidener Radscha, der mit zweimal
 durchlöcherter Zylinderkrone demütig zu Kreuze kroch und vor
-Cdu Derricks Winchesterbüchse schmählich all seine Würde
+Edu Derricks Winchesterbüchse schmählich all seine Würde
 vergaß und uns alles wieder aushändigte. Unsere Pferde
 standen keine zehn Meter weiter im Gebüsch, dazu ein drittes
 Pferd — — ein Schimmel!
@@ -1485,7 +1485,7 @@ Möglich, daß er im Gefängnis den Geistesgestörten simuliert
 <@pagebreak/>
 hat, — Tatsache bleibt, daß Gerda bitterlich weinend mich
 beschwor, unsere Liebe zu vergessen und ihr nicht weiter zu
-folgen."
+folgen.«
 
 »Was Sie nicht taten«, streute Harst ernst ein. »Sie
 sind Gerda auf den Fersen geblieben und haben so den Bungalow
@@ -1498,9 +1498,9 @@ wiedergesehen, von dem Gespensterreiter gehört und …«
 Wunder weiter. Und dann hat Gerda Ihnen unter Tränen
 geklagt, daß ihre Mutter Nadira …«
 
-"... Die tatsächlich Inderin ist …"
+»… Die tatsächlich Inderin ist …«
 
-"… daß Frau Nadira Fanum Allison vier junge Verbrecher
+»… daß Frau Nadira Fanum Allison vier junge Verbrecher
 habe abfangen und wegschaffen lassen, eben die Söhne
 der alten Hexe Jassara. Weiter wird Sie Ihnen von ihrer
 Mutter tödlichen Haß gegen Webbs, der den alten Allison
@@ -1515,7 +1515,7 @@ und Sie werden mir beipflichten.«
 Derrick warf Harst einen langen Blick zu. »Sie sind verdammt
 schlau, Mr. Harst. Ich sollte eigentlich nicht darüber
 sprechen, hatte meine Gerda mich unter heißen Tränen beschworen,
-aber ..."
+aber …«
 
 »Sie brauchen nur zu nicken, Derrick. — Frau Nadira
 ist die erste Reiterin, die *erste* …!«
@@ -1526,9 +1526,9 @@ Harst lächelte still. »Eine in eine Pantherhaut eingenähte
 Bulldogge brachte mich auf die richtige Spur, nachdem
 ich bereits Kleinigkeiten an Beweisen gesammelt hatte. —
 Sehen Sie, Derrick, all diese Sherlock-Holmes Methoden,
-am Schreibtisch ausgetüftelt, versagen in der Praxis voll-
+am Schreibtisch ausgetüftelt, versagen in der Praxis vollkommen.
 <@pagebreak/>
-kommen. Augen, Ohren, klarer Verstand und Erfindungsgabe
+Augen, Ohren, klarer Verstand und Erfindungsgabe
 sind die besten Mittel des Detektivs. Meine Augen
 zeigten mir, daß Frau Nadira eine erstklassige Reiterin war,
 als sie vor uns aus dem Hofe der Tempelruine entfloh, nur
@@ -1539,8 +1539,7 @@ kommen, dann — — schöpft man Argwohn ohne ellenlange
 Kombinationen, logische Schlüsse und sonstigen Humbug. —
 Nun zu Kaptain Webbs. Dieser fragwürdige Herr aus
 London, immerhin hoher Beamter, hat sich zweifellos dem
-Vicekönig Sehr schlau angeboten, den Gespensterreiter zu er-
-ledigen.«
+Vicekönig Sehr schlau angeboten, den Gespensterreiter zu erledigen.«
 
 »Das stimmt, geradezu aufgedrängt hat er sich …«
 
@@ -1551,9 +1550,9 @@ Mr. Webbs’ »selbstloses Angebot« herein. Die andere Frage,
 woher Webbs von Frau Nadiras seltsamen nächtlichen Ritten
 Kenntnis erhielt und was ihn persönlich so stark daran interessierte,
 ist im ersten Teile sehr leicht, in ihrem zweiten sehr
-Schwer zu beantworten. Der Dampfer, mit dem Webbs her-
-überkam, legte in Madras an, also im nächsten größeren Hafen.
-Dort wird er durch die Zeitungs-Presse von dem Auftauchen
+Schwer zu beantworten. Der Dampfer, mit dem Webbs her überkam,
+legte in Madras an, also im nächsten größeren Hafen.
+Dort wird er durch die Geringe-Presse von dem Auftauchen
 des Gespensterreiters vernommen haben, und diese Zeitungsartikel
 beunruhigten ihn stark, weil ihr Inhalt — ich gleite
 jetzt ab — ihm durchaus nicht in den eigenen Kram paßte,
@@ -1568,8 +1567,8 @@ könnte man sagen: Webbs hat irgendwie in Erfahrung
 gebracht, daß dort Dinge von hohem Wert, ein
 Schatz, irgendwo verborgen liegt.«
 
-Inspektor Derrick pflichtete eifrig bei. »Ihre Vermu-
-jung muß richtig sein, Mr. Harst, schon deshalb, weil zweifellos
+Inspektor Derrick pflichtete eifrig bei. »Ihre Vermutung
+muß richtig sein, Mr. Harst, schon deshalb, weil zweifellos
 Frau Nadira Allison, ohne ihre Tochter irgendwie einzuweihen,
 demselben Schatze nachjagt. Was freilich die merkwürdigen
 Ritte über einen ganz bestimmten Streifen des Hochmoores
@@ -1585,13 +1584,13 @@ und der feine Neger Abraham Stoop wird dieses Rogers
 Diener oder Vertrauter gewesen sein.«
 
 »Ein langjähriger Kompagnon«, korrigierte der nette
-Cdu Derrick bescheiden. — Wir drei waren jetzt mit allem
+Edu Derrick bescheiden. — Wir drei waren jetzt mit allem
 Eifer bei der Sache, die ja auch mit all ihren eigentümlichen
 Begleitumständen einen recht ungewöhnlichen Fall darstellte.
-»Roger war Kaufmann, Händler, besaß einen kleinen Küsten-
-Dampfer und klapperte damit die ganze Koromandel-Küste ab.
+»Roger war Kaufmann, Händler, besaß einen kleinen Küstendampfer
+und klapperte damit die ganze Koromandel-Küste ab.
 Er starb als Rentner in dem Bungalow vor acht Monaten,
-den er sIch als Ruhesitz bauen ließ.«
+den er sich als Ruhesitz bauen ließ.«
 
 »Hm — ausgerechnet ein Rentnerheim in einem so abgelegenen
 Dorfe?!«, bemerkte Harst Kopfschüttelnd. »Mir
@@ -1599,9 +1598,9 @@ Scheint, die Geschichte von dem »Schatz« wird doch stimmen
 und Roger Mac Allison spürte ihm als erster nach, wird dann
 als er den Tod nahen fühlte, seinen in London ebenfalls als
 Kaufmann ansässigen Bruder Balder Mac Allison durch einen
-Brief eingeweiht haben und ..."
+Brief eingeweiht haben und …«
 
-Cdu Derrick rief begeistert: »Weiß Gott, Ihnen braucht
+Edu Derrick rief begeistert: »Weiß Gott, Ihnen braucht
 man nur ein Stichwort zu geben, Mr. Harst, und Sie schnurren
 das andere tadellos ab. Es stimmt, es stimmt, die Londoner
 Allisons erhielten den Brief, dessen Inhalt Gerda leider nicht
@@ -1636,8 +1635,8 @@ wie erhielt Webbs von dem Briefe Rogers an Balder Kenntnis?!
 Wir wollen nicht vorschnell urteilen, wollen Webbs
 nicht als verlumpten Beamten hinstellen, bevor wir nicht
 schlüssige Beweise haben. Fragwürdig bleibt Webbs, gewiß.
-Sein Verhalten uns gegenüber bewies einen Mangel an An-
-standsgefühl, wie ihn nur ein charakterloser Wicht aufbringt.
+Sein Verhalten uns gegenüber bewies einen Mangel an Anstandsgefühl,
+wie ihn nur ein charakterloser Wicht aufbringt.
 — Beenden wir diese Aussprache durch die Erörterung des
 Benehmens Frau Allisons. Wir wissen, sie war der erste Gespensterreiter.
 Wir dürfen bestimmt annehmen, daß diese,
@@ -1670,7 +1669,7 @@ sie, pflegte sie leidlich gesund und hat sie nun heimlich wegschaffen
 lassen. Mithin trifft die Frau nur der eine Vorwurf,
 daß sie ihr Geheimnis um jeden Preis hüten will.«
 
-»Leider!«, seufzte der lustige Cdu bekümmert. »Und weil
+»Leider!«, seufzte der lustige Edu bekümmert. »Und weil
 Gerda befürchtete, ihre Mutter könnte …«
 
 »… noch mehr Torheiten begehen, sollten Sie eingreifen,
@@ -1684,15 +1683,15 @@ Webbs zusprengten?!«
 <@pagebreak/>
 »Ja … Leuchtfarbe, — der Gaul ist ein Schecke und gehört
 meinem Wirt im Nachbardorf, wo ich als eifriger Käfersammler
-wohne …"
+wohne …«
 
-"… Was gleichgültig ist, — die drei Gespensterreiter sind
+»… Was gleichgültig ist, — die drei Gespensterreiter sind
 nun ebenfalls Scharf getrennt, wir kennen jeden, — — nur
 die Hauptfrage bleibt ein Rätsel: Weshalb die Ritte über
 das Moor?! Weshalb?! Ich fürchte, ich werde davon träumen
 … — Gute Nacht … Schluß! Ich bin müde. Schraut
 wacht die ersten drei Stunden, dann Sie, Sie verliebter Jüngling,
-dann ich … Und jetzt bitte ich mir Ruhe aus ..."
+dann ich … Und jetzt bitte ich mir Ruhe aus …«
 
 <@pagebreak/>
 
@@ -1745,8 +1744,8 @@ Inwiefern dies alles mit unserem gewiß absonderlichen
 Abenteuer zusammenhängt, wird der Leser sehr bald erfahren.
 
 Ich hatte mich, die Büchse über die Knie, auf einen Stein
-unweit des Schluchtausganges hinter einen Baumstumpf ge-
-setzt, labte mich an meiner Zigarre und ließ vor meinem inneren
+unweit des Schluchtausganges hinter einen Baumstumpf gesetzt,
+labte mich an meiner Zigarre und ließ vor meinem inneren
 Auge nochmals all die Einzelheiten dieses seltsamen Kriminalfalles
 vorüberziehen, um vielleicht aus eigener Kraft die
 noch offenen Fragen mir zu beantworten. Die Hauptfrage,
@@ -1830,8 +1829,8 @@ gemacht war.
 
 Auf einer Lichtung hier stand eine Hütte aus Zweigen,
 Baumrinde und Moos, und daß dies Webbs’ Versteck gewesen,
-zeigten uns die in der Hütte noch vorhandenen Kleinigkei-
-ten unter anderem vier verrostete Rasierklingen für einen
+zeigten uns die in der Hütte noch vorhandenen Kleinigkeiten
+unter anderem vier verrostete Rasierklingen für einen
 Rasierapparat, ein zerbrochenen Kamm und einige zusammengeknüllte
 Zeitungen.
 
@@ -1839,12 +1838,12 @@ Harst untersuchte die Hütte und die Umgebung ganz genau,
 sprach sich sehr lobend über deren versteckte Lage aus und
 erklärte schließlich, der Kaptain sei hier zweifellos von den
 Dudu-Leuten überfallen und samt seinem Rappen weggebracht
-wOrden. Wir fanden dann noch neben einer Quelle einen
+worden. Wir fanden dann noch neben einer Quelle einen
 Tonkrug mit Kalk, einen großen Pinsel und am Boden unzählige
 Kalkflecken.
 
 »Zum Bungalow«, entschied Harst kurz entschlossen, obwohl
-Cdu Derrick hiermit garnicht einverstanden war.
+Edu Derrick hiermit garnicht einverstanden war.
 
 Ghosteater trabte mit uns, und gegen drei Uhr morgens
 ritten wir quer über das Hochmoor auf Badnapur zu, passierten
@@ -1880,56 +1879,53 @@ Um sieben Uhr früh kam der weiße Bungalow in Sicht.
 
 Der geschmeidige Neger Mr. Abraham Stoop empfing
 uns wieder am Tor. Als er die Bulldogge erblickte, zuckte
-er merklich zusammen, im übrigen tat er ganz unbefangen,!o
+er merklich zusammen, im übrigen tat er ganz unbefangen, so
 daß Harst ihm doch eins auswischte und fragte:
 
-»ach soll Sie von Radscha Zylinderhut grüßen, Mister
+»Ich soll Sie von Radscha Zylinderhut grüßen, Mister
 Stoop!!«
 
-Vor Schwelle war schwerhörig. »doch bedauere außerordentlich,
+Der Schwarze war schwerhörig. »Ich bedauere außerordentlich,
 aber Frau Nadira empfängt nicht«, erklärte er
 ganz im Tone eines würdigen Hausmeisters.
 
 Er wollte die Pforte uns vor der Nase zuschlagen, aber
 Harald hatte plötzlich seinen Braunen vorgedrängt und bekam
-
--
-
 Mr. Stoop beim Kragen,
 
-»Alter Freund, — wollen Sie gern als einem Galgen
+»Alter Freund, — wollen Sie gern an einem Galgen
 baumeln? Dies hier ist Grund und Boden meines Freundes,
 des Radschas von Bumar, und in der Residenz sind letztens
 sechs neue Galgen errichtet worden, um den diversen Herrschaften,
-die während der Fürstenhöfen Zeit im Gräben fischten,
+die während der fürstenlosen Zeit im Trüben fischten,
 die Hauptstadt mehr von oben zu zeigen …«
 
 Der Neger stotterte, etwas grau im Gesicht:
 
-3; »Die Damen frühstücken auf der Nordveranda
-Satte …«
+»Die Damen frühstücken auf der Nordveranda …
+Bitte …«
 
 Als wir die Veranda betraten, sprang Gerda mit leisem
 Schrei empor.
 
-»Cdu — — was führt dich hierher ’?!«
+»Edu — — was führt dich hierher?!«
 
 <@pagebreak/>
 »Meine Pflicht als dein Bräutigam!«, — und er nahm
 das Mädel ungeniert in die Arme und küßte es herzhaft.
 
 Frau Nadira war mit steinerner Miene sitzen geblieben.
-Sie trug jetzt ein schwarzes Rüttelt, das ihre schlanke Erscheinung
-peng wirkungsvoller unterstrich.
+Sie trug jetzt ein schwarzes Tüllkleid, das ihre schlanke Erscheinung
+noch wirkungsvoller unterstrich.
 
 Auch der aufwartende Diener — es war der Zwerg aus
-
 dem Obstkorbe, jetzt in hellen Leinen und sehr sauber — war
-Bildsäule geworden …
-… Harald Jagte sehr zwanglos: »Frau Allison, es wird
+Bildsäule geworden.
+
+Harald sagte sehr zwanglos: »Frau Allison, es wird
 höchste Zeit, diese Geschichte nun endgültig ins Reine zu
-bringen. Ach weiß davon mehr als Sie, und zwar kenne
-ich nun den glänzenden Trick, den Uhr Schwager — Balder,
+bringen. Ich weiß davon mehr als Sie, und zwar kenne
+ich nun den glänzenden Trick, den Ihr Schwager Balder,
 sicherlich ein auch in der Technik sehr bewanderter Mann,
 benutzt hat, um Unbefugten die Schätze vorzuenthalten und
 seinem Erben, Ihrem Gatten, ein Signal zu geben, daß er die
@@ -1937,26 +1933,26 @@ Proberitte nunmehr einstellen könnte.«
 
 Die großen, dunklen Augen der verhärmten Frau hingen
 unverwandt an Haralds Lippen. Ihre Züge verrieten nichts
-von ihren Gedanken, nur ihr herbei Mund preßte sich noch
+von ihren Gedanken, nur ihr herber Mund preßte sich noch
 enger zusammen, und ihre ganze Haltung blieb kühl ablehnend
-und deutete ihre setzte Entschlossenheit an, nichts von ihren
+und deutete ihre feste Entschlossenheit an, nichts von ihren
 Geheimnissen preiszugeben.
 
 »Sie gestatten, daß wir Platz nehmen …« Harst ließ
 sich durch nichts beirren. Er rückte einen Korbsessel näher
 heran und setzte sich, legte aber gleichzeitig seine Büchse über
 die Sessellehne und blickte flüchtig in den Garten hinab. »Frau
-Allison, die Dudu-ö3ndianer Ihres verstorbenen Schwagers
+Allison, die Dudu-Indianer Ihres verstorbenen Schwagers
 hocken dort in den Büschen. Wir wollen es nicht auf einen
 neuen Versuch ankommen lassen, wie trefflich sich die Keulen
 werfen. Schicken Sie sie bitte weg, — eine Kugel ist schneller,
 Frau Allison.«
 
 Es hat noch keinen Menschen gegeben, der diesem besonderen
-Tone von Harsts Warnungen Widerstand entgegenJetzte,
+Tone von Harsts Warnungen Widerstand entgegensetzte,
 — auch Nadira gehorchte, in den Büschen rauschte es,
 <@pagebreak/>
-sie hatte nur zu winken brauchen, und Blinde Gestalten huschten
+sie hatte nur zu winken brauchen, und flinke Gestalten huschten
 nach dem baumbestandenen Hofe zu.
 
 Frau Nadiras Züge wurden nun doch etwas weicher und
@@ -1969,45 +1965,45 @@ sei, würde in seiner Eigenschaft als Beamter mit
 allerbesten Beziehungen auch für Balder Mac Allisons Freilassung
 sich einsetzen, die doch nur noch eine Frage der Zeit
 sein könnte, gab Frau Nadira seufzend nach, lächelte jedoch
-ganz wenig und« holte auf Harsts Bitten den Brief ihres
+ganz wenig und holte auf Harsts Bitten den Brief ihres
 Schwagers herbei, den sie bisher ängstlich behütet hatte. Wir
 alle rückten näher um den Tisch herum, und die tapfere, energische
-Gattin eines schuldlosen Zuchthäuslers las nun folgerst
+Gattin eines schuldlosen Zuchthäuslers las nun folgendes
 vor:
 
 (Ich übergehe alles Unwichtige.)
 
-»-. Mein lieber Bruder Balder, der Tod umlauert mich,
-im fühle das Schwinden meiner Kräfte, und ich möchte nun
+> »… Mein lieber Bruder Balder, der Tod umlauert mich,
+ich fühle das Schwinden meiner Kräfte, und ich möchte nun
 dich als den jüngeren von uns in ein Geheimnis einweihen,
 das sich in unserer Familie stets vom Vater auf den ältesten
 Sohn vererbt hat, und das nun aus dich übergeht. — Es war
 ein Mac Allison, ein Schotte, der während des großen indischen
-Aufstandes: dem Rebellensiilten Peng Sahib diente und, als
+Aufstandes dem Rebellenfürsten Nena Sahib diente und, als
 Führer einer größeren Truppe nach Süden gedrängt, bei Badnapur
 umzingelt wurde und nach Niedermetzelung seiner Soldaten
 in die Ruinen Badnapurs flüchtete, wo er auf einen
 Geheimkeller stieß, in dem er Teile der Schätze der ehemaligen
-Mharattanfürsten fand, die von diesen hier einst vor Fakir
+Mharattanfürsten fand, die von diesen hier einst vor Nadir
 Schahs plündernden Armeen verborgen worden sein mochten.
 Jener Mac Allison, unser Großvater, entkam mit einem geringen
 Teil der Kostbarkeiten nach England, wurde sehr
-alt, beichtete auf dem Gedenkens seine Vergangenheit unserem
+alt, beichtete auf dem Totenbette seine Vergangenheit unserem
 <@pagebreak/>
 Vater und starb. — Wie gesagt, unser Vater maß diesen
-Äußerungen eines Sterbenden wenig Bedeutung h1, und niemand
-bemühte sich um das Geheimnis, bis ich, selbst zu Der
-mögen gelangt, mich entschloß. in der Nähe der »Ruinenstadt
-mich anzukaufen. In aller Stille habe ich nach dem Schuhe
+Äußerungen eines Sterbenden wenig Bedeutung bei, und niemand
+bemühte sich um das Geheimnis, bis ich, selbst zu Vermögen
+gelangt, mich entschloß, in der Nähe der Ruinenstadt
+mich anzukaufen. In aller Stille habe ich nach dem Schatze
 gesucht, und mehr als einmal drohte mir dabei der Tod, denn
-das Innere der Ruinenstätte. die sich fast meilenweit hinzieht,
-wimmelt von Giftschlangen mit Panthern, die in den undurchdringlichen
-Dicxichten ihre rolupfswinkel haben. Vor drei
-Monaten fand ich. den Suez glaubte mich jedoch in letzter
+das Innere der Ruinenstätte, die sich fast meilenweit hinzieht,
+wimmelt von Giftschlangen und Panthern, die in den undurchdringlichen
+Dickichten ihre Schlupfwinkel haben. Vor drei
+Monaten fand ich den Schatz glaubte mich jedoch in letzter
 Zeit von einem Londoner Gelehrten beobachtet, der dort
 Altertumsstudien trieb, und schaffte daher eines Nachts bei
-Regen und Gewitter die K’stbarkeiten ’mit zwei Pferden
-aQndeorswohin und beeilte mich ebenso, den sogenannten sprechenden
+Regen und Gewitter die Kostbarkeiten mit zwei Pferden
+anderswohin und beeilte mich ebenso, den sogenannten sprechenden
 Götzen, dessen Rückenteil sich öffnen läßt, mit einer
 mechanischen Einrichtung zu versehen, die die dort aus dem
 Felsboden mit großer Kraft ausströmenden Erdgase einer Sirene
@@ -2021,18 +2017,18 @@ sprechende Indra seine Stimme ertönen läßt, bist du am richtigen
 Ort. — Du wirst aus diesen meinen Andeutungen selbst
 entnehmen können, daß ich eine elektrische Leitung fast meilenweit
 mit unendlicher Vorsicht gut isoliert eingegraben habe,
-— —« außer dem Schatz. Noch einen Wink will ich dir geben
+— — außer dem Schatz. Noch einen Wink will ich dir geben
 (dieser Brief könnte in unrechte Hände geraten): Reite unverdrossen
 nachts über das Moor und scheue auch keine Dornenbüsche,
 springe mit dem Pferde darüber hinweg, je schmaler
 die Dornenhecke, desto leichter …«
 
 Frau Nadira hatte geendet und blickte Harst erwartungsvoll
-an.«
+an.
 
 <@pagebreak/>
 »Nun denn«, erklärte er etwas feierlich, »ich habe den
-Schloß entdeckt, der Gott sprach, und nachher werden wir hinausreiten
+Schatz entdeckt, der Gott sprach, und nachher werden wir hinausreiten
 mit Schaufeln und Hacken und Lastpferden und das
 bergen, was Webbs gleichfalls Suchte.«
 
@@ -2043,16 +2039,16 @@ auf, und erst während der Mahlzeit fragte Harst so nebenbei:
 wo sind die vier jungen Taugenichtse, die er niederschoß und
 die Sie dann gesund pflegten?«
 
-Einer Antwort wurde Trat Nadira überhoben, der Neger
-stürzte mit allen Zeichen größerer Erregung auf die Veranda
+Einer Antwort wurde Frau Nadira überhoben, der Neger
+stürzte mit allen Zeichen größter Erregung auf die Veranda
 und rief verzweifelt: »Webbs ist entflohen, — — die Kammer
 im Stall ist leer, und er hat zwei Pferde und einen Spaten
 mitgenommen!«
 
 »Dann hat er uns vorhin belauscht«, meinte Harst sehr
 bestimmt. »Die Andeutung über die Dornenhecke hat ihm
-genügt. Beeilen wir uns, es geht um den Schuß und Allisons
-Sreilassungl«
+genügt. Beeilen wir uns, es geht um den Schatz und Allisons
+Freilassung!«
 
 <@pagebreak/>
 
@@ -2060,20 +2056,20 @@ Sreilassungl«
 
 <h3>Webbs’ schnelle Rache.</h3>
 
-Der Ausbruch wurde tunlichst beschleunigt, wir jagten
+Der Aufbruch wurde tunlichst beschleunigt, wir jagten
 dann in wilder Hast gen Nordwest, unser Trupp kam auseinander,
 und als wir die Ruinen hinter uns hatten, waren
 nur noch Harald und ich an der Spitze, und auf dem Moor
-hatten wir die anderen gänzlich aus dem Gebt verloren.
+hatten wir die anderen gänzlich aus dem Gesicht verloren.
 Kaum gewahrten wir Harry Webbs, — auch er Sah uns, er
-gab sein Spiel aus, schwang sich in den Sattel und fluchte
+gab sein Spiel auf, schwang sich in den Sattel und flüchtete
 nach Westen in die Rauchschwaden hinein. Wir verzichteten
 auf eine Verfolgung, und als Frau Nadira und der Neger
-uns erreicht hatten — die anderen waren noch zu weit zurück—,
-legte Harald neben einer natürlichen Dornen Hecke einen viereckigen
-Deckel frei, der mit dem darunter befindlichen Restaurant
+uns erreicht hatten — die anderen waren noch zu weit zurück —,
+legte Harald neben einer natürlichen Dornenhecke einen viereckigen
+Deckel frei, der mit dem darunter befindlichen Kastenrand
 einen Kontakt herstellte, sobald der Deckel belastet wurde.
-Olahljedern. hielten den Gebet etwas über den Rand in der
+Stahlfedern hielten den Deckel etwas über den Rand in der
 Ruhelage.
 
 Kaum betrat Harst dann den beweglichen Deckel, als in
@@ -2083,7 +2079,7 @@ Kaum wurde der Deckel vollends gehoben, als wir in
 dem Kasten Lederbeutel, goldene Geräte, goldene Schmuckstücke
 und anderes dicht aufgestapelt gewahrten.
 
-Der Schatz der Mharattan war gefunden.
+Der Schatz der Mharatten war gefunden.
 
 Frau Nadira sank in die Knie … Ihr Gebet galt der
 Befreiung ihres Gatten von schändlichem Verdacht, und die
@@ -2099,32 +2095,33 @@ Detektive durch den Glanz der Kostbarkeiten zu allen erdenklichen
 Anstrengungen für ein Wiederaufnahmeverfahren des
 Prozesses ihres Gatten anzuspornen, dankte nun hier in der
 strahlenden Vormittagssonne auch Harst mit tief bewegten
-Worten für sein kluges, ersolgreiches Hergeben in dieser dunklen,
+Worten für sein kluges, erfolgreiches Vorgehen in dieser dunklen,
 geheimnisdurchwehten Geschichte, in der zunächst auch
 nicht ein einziger erhellender Lichtstrahl sich gezeigt hatte,
 der bis zum Kern der verschleierten Dinge drang.
 
-Still und gerührt Stauden Frau Nadiras Getreue dabei:
+Still und gerührt Standen Frau Nadiras Getreue dabei:
 Der schwarze Gentleman Abraham Stoop, die farbigen Diener
-und zwei der Sinda-Krieger.
+und zwei der Dudu-Krieger.
 
-Gerda und Cdu Derrick, hatte einer der Diener soeben
+Gerda und Edu Derrick, hatte einer der Diener soeben
 gemeldet, seien in den Ruine zurückgeblieben, da des Kriminalinspektors
 Pferd durch einen Fehltritt stark lahmte. Diese
-Nachricht beunruhigte uns nicht weiter, mir Harst schien plötzlich
-nervös zu werden, stieg in den Sattel, winkte mir zu ’:und
+Nachricht beunruhigte uns nicht weiter, nur Harst schien plötzlich
+nervös zu werden, stieg in den Sattel, winkte mir zu und
 ritt im Galopp den Weg zurück. Ich blieb dicht hinter ihm,
 und als die ersten schlanken Palmen der Ruinenstätte in Sicht
 kamen, vernahmen wir drei kurz aufeinanderfolgende Schüsse,
-jagten in tollem Nennen bis zur Nordecke des unter Gestrüpp
+jagten in tollem Rennen bis zur Nordecke des unter Gestrüpp
 und Bäumen hoch begrabenen Badnapur und standen
 an einer Stelle, wo noch die Marmorfigur eines Palastes
 recht gut erhalten war, den durch einen Streifschuß betäubten
-Edward Derrick, Sowie einen Schwerverletzten Diener, der
+Edward Derrick, Sowie einen schwerverletzten Diener, der
 noch Kraft genug besaß, uns in knappen Worten das jähe
 Auftauchen Harry Webbs’, den kurzen Kampf und die Entführung
-Gerda Allisons zu!childern.
-— Mochte nun auch das große Rätsel des Gespensterreiters
+Gerda Allisons zu schildern.
+
+Mochte nun auch das große Rätsel des Gespensterreiters
 von Badnapur gelöst sein: Dieser bittere Schlag, den wir alle
 durch Gerdas Entführung wie einen körperlichen Schmerz
 <@pagebreak/>
@@ -2133,12 +2130,12 @@ zumal die Verfolgung Webbs und Seiner Beute zunächst
 ergebnislos blieb.
 
 Auf welche Weise wir dann doch der schwer geprüften
-Mutter nicht nur ihr Kind und ihren Gatten wieder ausführen
+Mutter nicht nur ihr Kind und ihren Gatten wieder zuführen
 konnten, wie sich das Dunkel, das Harry Webbs’ ganze Persönlichkeit
 als Kaptain der Londoner Kriminalpolizei umgab,
 Schließlich lichtete und welche Rolle bei alledem das uralte
-ordne-Standbild spielte, kann ich in diesem Bändchen unserer
-Abenteuer nicht mehr schildern. Einem neuen Schauplatz einer
+Indra-Standbild spielte, kann ich in diesem Bändchen unserer
+Abenteuer nicht mehr schildern. Einen neuen Schauplatz einer
 Handlung voll erstaunlichster Überraschungen, eine neue Anzahl
 origineller Gestalten kann ich meinen Lesern und Freunden
 zeigen und beschreiben, denn Harry Webbs war mitsamt seinem
@@ -2148,170 +2145,15 @@ Schimmelreiter auf dem Hochmoor bei Badnapur.
 Das eine Gespenst tauchte nie wieder auf, — — das
 andere Sollte erst noch erwischt werden.
 
-Auch der krummbeinige, dickköpfige Ghosteater, der hielt
+Auch der krummbeinige, dickköpfige Ghosteater, der sich
 bereits ganz eng an Harst angeschlossen und wohl nie sehr
 viel von Webbs gehalten hatte, half uns genau so treu wie
 der krausköpfige, kreischende und doch geradezu tollkühne
-kleine Zylinderradscha der Sinda-Zwerge.
+kleine Zylinderradscha der Dudu-Zwerge.
 
-Mithin — —: Wiederhören!l
+Mithin — —: Wiederhören!!
 
-Nächster Band:
-Der Panzerschrank der »Monate«.
 
-<@pagebreak/>
-er Sich die Zeit angenehm vertreiben,
+<#import "*/harst.ftl" as harst>
+<@harst.naechsterband band="Der Panzerschrank der »Mohalla«."/>
 
-er Sich auf und doch billig unterhalten will.
-
-der kaufe s’ch bei Seinem Buchhändler die
-
-jetzt band hat Tau sank
-Es, 0 — An Ins
-
-Pech
-
-Guten
-
-Vergißmeinnicht
-
-Romane
-
-Bisher Sind forderte Bände erschienen
-
-… Der vor. diene Diwan
-… Das Mädchen aus dem
-
-Nachbarhaus
-Das Haus am Keilberg
-
-Dämonen
-
-… Das Eibe des Selbstmörders
-… Liebesnot
-
-… Die Brillantpantoffeln
-
-… Liebeszauber
-
-… Die Tochter des Schmugglers
-… Das große Rieb
-
-… Was der Sturm brachte
-
-… Die blonde Geisha
-
-… Die Kreuzspinne
-
-… Der blinde Passagier
-
-… In hatten Schule
-
-Jeder Band hat einen zweifarbigen
-
-16\.
-17\.
-18\.
-19\.
-20\.
-all.
-Hammer und Inhalt
-23\.
-24\.
-25\.
-
-22
-
-Bettelgraf und Bettelgräfin
-Des Bruders Schuld
-
-Der gestohlene lahm
-Weiße Nachtlager
-
-Das Mädchen für alles
-
-Welke Rosen
-
-Das Herz von Stein
-Der Herr von Bereitlagen
-Die Lachte: des Tänzers
-
-W. Die Liebe der Film
-
-27\.
-28\.
-29\.
-30\.
-
-Primadonna
-
-Im Spiel der Herzen
-Der Rauch einer Nacht
-Der Held des Tages
-
-Leidensweyd. Freude Prinz.
-
-Umschlag mit Eid und ist
-
-64 Seiten stark.
-Preis je Band nur 10 Pfennige.
-
-Die VergißmeinnichtRomanec
-ins in jeder Buch« und Zeitschriftenhandlung zu haben, man
-erhält dieselben auch bei Einsendung des Betrags vom
-
-Verlag moderner Lektüre Grab., Berlin 16
-Midchbaelkirchstraße so.
-<@pagebreak/>
-Der Sich die Zeit angenehm verschreiben,
-er Sich auf und doch billig unterhalten will,
-der kaufe Sich bei Seinem Buchhändler die
-
-Guten
-Vergißmeinnicht
-
-Romane
-
-Bisher sind folgen du Bände erschienen
-
-31\. Zugvögel 46. Das leere Haus
-
-32\. Das Abenteuer »irres 47. Das Land der Liebe
-Maskenballes 48. Frau Kanal Herzensnot
-
-33\. Dämon Eifergud:;t 49. Der verlorene Sohn
-
-34\. Die Gattin des Hindert 50. Opfer der Nannte Brandt
-
-35\. Ein Verstoßener: 51. Der verhängnisv. Schatten
-
-36\. Das Glück von Monate Carlo 52, Der Rattenkönig
-
-37\. Der Geigerköni,:. 33. Die da sterben, wenn Eis
-
-38\. Der Fall Sommer lieben
-
-39\. Steffies Heirat 54. Die Fischerin
-
-40\. Das Grab in der Heide 55. Jägerliebe
-
-41\. Das andere »Ich« 56. Perlen und Tränen
-
-42\. Sumpfpflanzen 57. Das Findelkind
-
-43\. Im Strudel der Zeit 58. Mohren-»-Kreuzer
-
-44\. Mein Schwarzwaldmädel 59. Der unterirdische Gang
-
-45\. Prinzessin Kolibri 60. Der Müller vom Löst
-
-Jeder Band hat einen zweifarbigen Umschlag mit Bild und ist
-64 Seiten stark.
-Preis je Band nur 10 Pfennige.
-
-Die Vergißmeinnicht Romane
-ins in jeder Buch« und Zeitschriftenhandlung zu haben, man
-erhält dieselben auch bei Einsendung des Betrags vom
-
-Verlag moderner Lektüre Grab., Berlin 16
-Michaelkirchstraße sog.
