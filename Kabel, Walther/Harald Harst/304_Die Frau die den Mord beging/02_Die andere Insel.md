@@ -43,7 +43,7 @@ wie damals die anderen, — na, Sie wissen: Versiegelte
 Insel!! — Schrecklich war es, wie mein lieber, guter Herr
 mit einer Stimme, die wie eine rostige Türangel klang, mir
 die Einzelheiten schilderte, Herr Harst, — mit den
-Einzelheiten holt sich’s … Die Sache war so. Frau Madge ging
+Einzelheiten hat sich’s … Die Sache war so. Frau Madge ging
 im Tal spazieren, mein  Herr lag in der Hängematte — gegen
 Abend war es. Als Frau Madge zwischen den Bäumen nicht mehr
 auftauchte, wurde mein Herr unruhig, suchte nach ihr, ruft,
@@ -162,7 +162,7 @@ und Totschlag  begingen und durch meinen Herrn aufgespürt
 wurden. Die Ortskenntnis, die natürlich zu diesem Streich
 gehörte, besitzen die beiden Schurken schon, und an der
 arabischen Küste verfügen sie über genug Freunde, — den
-schwarzen Schoner, den sie wohl gestohlen haben. Meine
+schwarzen Schoner werden sie wohl gestohlen haben. Meine
 einzige Hoffnung, daß die Sache noch gut ausläuft, ist die,
 daß die Kerle es auf Lösegeld abgesehen haben dürften, denn
 — was wollen sie schließlich mit Frau Madge?! Die Zeiten
@@ -509,7 +509,7 @@ Flucht alle nötigen Vorbereitungen zu treffen. Er erging
 sich in dunklen Andeutungen über eine Insel im Roten Meer,
 auf der Reichtümer von größtem Wert vorhanden sein sollten,
 und erwähnte auch eine Tiergruppe, die ein Lord in einer
-große, bunten Zeitung modernisiert verewigt habe, er
+großen, bunten Zeitung modernisiert verewigt habe, er
 versprach mir ungeheuere Reichtümer und war nachher höchst
 ergrimmt, als ich sein Anerbieten zurückwies. — Als ich nun
 an Bord den Oberaufseher Jack Busley aus Dartmoor in der
@@ -534,7 +534,7 @@ jenes Bild hören, das der Lord angefertigt haben sollte. »Es
 kann sich nur um Lord Howard Barrington, den Vorgänger Lord
 Austins als Besitzer der Insel Manibar, handeln«, betonte
 Sir Ernest sehr eifrig. »Also um Frau Madge Gollons Vater,
-meinem Freund, der auf Manibar verschwand und dessen Tod Sie
+meinen Freund, der auf Manibar verschwand und dessen Tod Sie
 erst restlos aufgeklärt haben, lieber Harst. Howard
 Barrington war allen schönen Künsten gänzlich abhold, nur
 als Zeichner versuchte er sich zuweilen, und aus seinem
@@ -618,7 +618,7 @@ Verzweiflung und ungeheuren  Verbitterung begann ich die
 ganze Menschheit zu hassen, — — ich wurde Falschspieler, bin
 es seit zwei Jahren. An demselben Tage aber, an dem ich,
 zerlumpt und verkommen, in einer Herberge zwei Dieben durch
-meine Fingerfertigkeit zum ersten Male Gold auf unredliche
+meine Fingerfertigkeit zum ersten Male Geld auf unredliche
 Art abnahm, erlitt Larson eine schwere Schlagberührung und
 verbringt seitdem als halber Idiot seine Tage im
 Krankenstuhl. Es gibt doch noch eine Vergeltung auf Erden,
@@ -627,7 +627,7 @@ losgelassen, mein elendes Handwerk als Falschspieler ist mir
 stets verhaßt gewesen, — das sind keine leeren Redensarten!«
 
 Sir Ernest nickte bedächtig. »Ich wäre der letzte, der
-einen Stein auf Sie würfe, Steeps. Genau so, wie sie uns Ihr
+einen Stein auf Sie würfe, Steeps. Genau so, wie Sie uns Ihr
 Abgleiten auf die schiefe Bahn schilderten, hörte ich es
 auch von anderer Seite in unserer Heimat. Aber auch Larson
 dürfen Sie nicht zu hart verurteilen. Alle Multimillionäre

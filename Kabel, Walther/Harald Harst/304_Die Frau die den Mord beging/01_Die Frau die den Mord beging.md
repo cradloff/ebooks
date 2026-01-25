@@ -303,7 +303,7 @@ das Gewoge halb entkleideter »Damen« musterte und jenen
 undefinierbaren Duft heißer Frauenkörper in sich einsog.
 
 Mein ungläubiges Gesicht machte auf Harst gar keinen
-Eindruck. Er behielt sein unergründliches Lächeln bei nickte
+Eindruck. Er behielt sein unergründliches Lächeln bei und nickte
 mir leicht zu. »Steeps ist der Gegenpol von Whrig. Mag der
 Kerl Falschspieler sein: Manieren hat er! Ich behaupte
 sogar, daß man aus diesem windigen Oberst, der wahrscheinlich
@@ -479,7 +479,7 @@ gefüllt war? Nicht nur der Zettel mit der Aufschrift
 »Dartmoor« trieb ihn in die Flucht, — — er hatte hier an
 Bord allerlei Dinge zu erledigen, die er besser in
 Abwesenheit Steeps ausführen konnte, der ja Miß Jefferson
-den Hof machte und nicht ahnte, das der Tod hier auf ihn
+den Hof machte und nicht ahnte, daß der Tod hier auf ihn
 lauerte. — Na — überzeugt?!«
 
 »Ja, vollkommen! — Deine »Kleinarbeit«, Harald, ist eine
@@ -588,8 +588,7 @@ seiner Sachen dürfte …«
 
 »Wer sind Sie?!« Marry war beängstigend bleich geworden,
 aber in ihren Zügen drückte sich eine so unheilvolle
-Entschlossenheit aus, das Harst seine Taktik völlig änderte.
-
+Entschlossenheit aus, daß Harst seine Taktik völlig änderte.
 »Miß Jefferson, — nur keine Szene bitte, keinen unnötigen
 Lärm, — ich …«
 
@@ -598,9 +597,9 @@ nicht, er …«
 
 »Wir sind das gerade Gegenteil, Miß, — keine Detektive, —
 Privatleute, die denen helfen, die Hilfe nötig haben — wie
-sie und Steeps. — Haben Sie sich auch genügend überlegt,
+Sie und Steeps. — Haben Sie sich auch genügend überlegt,
 Miß, welche Folgen diese Bestechung des Stewards haben
-kann?! Gewiß, sie handelten in der ersten Angst, als sie ihm
+kann?! Gewiß, Sie handelten in der ersten Angst, als Sie ihm
 Reichtümer verhießen, wenn er schwiege. Wird der Mann, der
 auf mich keinen besonders günstigen Eindruck gemacht hat,
 auch wirklich mit dem, was er an Geld erhielt und noch
@@ -620,7 +619,7 @@ mit ihm aussprechen, trotzdem kam es in seiner Kabine
 zwischen Ihnen beiden zu einer lauten, heftigen
 Auseinandersetzung, die leider bei einer gerichtlichen
 Untersuchung zu Ihren Ungunsten bewertet werden wird. Haben
-sie doch Vertrauen zu uns …! Ich will …«
+Sie doch Vertrauen zu uns …! Ich will …«
 
 Aber Marrys Gesicht war steinerner denn je.
 
@@ -628,7 +627,7 @@ Aber Marrys Gesicht war steinerner denn je.
 sind Fachmann auf anderem Gebiet und  …«
 
 »Das gebe ich zu«, erklärte Harst eindringlich. »Vielleicht
-handele ich unrichtig, mich vorzeitig vor Ihnen zu zu
+handele ich unrichtig, mich vorzeitig vor Ihnen zu
 enthüllen. Genau wie gewisse Hellseher Weltruf besitzen,
 genau wie gewisse Institute, zum Beispiel Pinkerton, New
 York, berühmt sind, ebenso sind auch der Name meines
@@ -662,9 +661,9 @@ Dinge aushorchen wollen, die …«
 Harst hatte sich mit schroffer Handbewegung erhoben.
 
 »Miß Marry, — — Sie werden es bereuen, uns beide in dieser
-Form abgeschüttelt zu haben. Leben sie wohl … Kämpfen Sie
+Form abgeschüttelt zu haben. Leben Sie wohl … Kämpfen Sie
 allein weiter, Sie werden unterliegen. Ihr Verhalten ist mir
-unverständlich, immerhin — sie sind ein Fund für mich, Sie
+unverständlich, immerhin — Sie sind ein Fund für mich, Sie
 haben Energie, Charakter …«
 
 Es schien, als wollte der kupferrote Bubikopf uns doch noch
@@ -756,7 +755,7 @@ jedoch lediglich eins feststellen: Daß Colonal Steeps ein
 berufsmäßiger Falschspieler und Vertreiber von Pfundblüten
 ist.«
 
-»Was sie sagen!!« Noch nie hat Harst so grenzenloses
+»Was Sie sagen!!« Noch nie hat Harst so grenzenloses
 Erstaunen so trefflich geheuchelt. »Falschspieler?! Steeps?!
 — Entschuldigen Sie, Kaptain, ich wage das zu bezweifeln.
 Zunächst möchte ich aber meine Angelegenheit erledigt
@@ -800,7 +799,7 @@ stehen und knurrte:
 
 »Ich danke Ihnen! Der Schuft kommt in Eisen! — Burns, wem
 gehört das Armband, das mindestens tausend Pfund wert ist?
-Wie kommen sie zu dem Bargeld?!«
+Wie kommen Sie zu dem Bargeld?!«
 
 Holladay Burns schielte uns von unten herauf an.
 
@@ -1040,7 +1039,7 @@ hereinragte, dürfte vorläufig keine Luftpistole benutzen
 dürfen, — — fürchte ich … — Was Sie selbst betrifft, Whrig
 …«, Harsts Tonfall änderte sich jäh, »so rate ich Ihnen im
 Guten, die bewußte Sache aufzugeben. Falls Steeps sterben
-sollte, sind sie reif für den Henker, mein Lieber. Beweise,
+sollte, sind Sie reif für den Henker, mein Lieber. Beweise,
 die einem Gerichtshof genügen, habe ich noch nicht gegen Sie
 — noch nicht … Sie verstehen, Whrig: *Noch* nicht! … — Guten
 Abend …«
@@ -1171,7 +1170,7 @@ Brustkasten ein und platzte dann heraus:
 
 … Es kam noch besser … Keuchend und schwitzend erschien der
 Schiffsarzt. »Kaptain, unser Patient Steeps ist verschwunden
-…! Ich … ich fand soeben …« — er muß erst Atem schöpfen —
+…! Ich … ich fand soeben …« — er mußte erst Atem schöpfen —
 »den Lazarettgehilfen betäubt in Steeps Krankenkabine vor, —
 — das Bett ist leer.«
 
@@ -1188,7 +1187,7 @@ Fahrzeuge und erwiderte unverfroren:
 »Wenn Sie es nicht wissen, Kaptain, — ich gewiß nicht! Ich
 kann Ihnen nur sagen, daß Whrig uns in seine Kabine lockte,
 daß ein Mann uns dann durch das Fenster mit einer
-Luftpistole erschießen wollte, das Whrig nachher eine
+Luftpistole erschießen wollte, daß Whrig nachher eine
 brennende Zigarre ins Meer warf, die nichts anderes als eine
 kleine Rakete war, also ein Signal für das schwarze Schiff,
 und daß Whrig derjenige gewesen, der Steeps ermorden
