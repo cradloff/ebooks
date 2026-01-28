@@ -166,7 +166,7 @@ hing. — Ich sprang zu, sah …, prallte zurück.
 
 Mitten in Donkys Stirn zeichnete sich ein roter Fleck ab.
 
-Der Wann war tot, war in demselben Augenblick erschossen
+Der Mann war tot, war in demselben Augenblick erschossen
 worden, als er auf dem Fensterbrett stand.
 
 Der Schütze mußte ein Künstler in seinem Fach gewesen
@@ -229,7 +229,7 @@ Sekte oder einer Hindukaste. Wert sehr hoch … — — Wie
 kam Donky zu diesen Ringen, wie konnte er sich so tadellos
 kleiden?! Die Perle in der Krawatte war echt, der Anzug
 auf Seide gearbeitet, in der Brieftasche hatte er genau
-1250 Mark. — Mache dir einen Berg daraus, mein Alter.«
+1250 Mark. — Mache dir einen Vers daraus, mein Alter.«
 
 Ich verzichtete auf jeden Versuch, Dichter zu spielen, mir
 liegt das nicht, leider gibt es viel zu viel Männlein und
@@ -295,7 +295,7 @@ dir bei. Nur, wie kam Donky zu Ingenieur Emil Fritschs
 Führerschein?«
 
 »Das mag ziemlich nebensächlich sein«, — Harst erhob
-sich, kniete neben beim Sessel nieder und kratzte den Schuhschmutz
+sich, kniete neben dem Sessel nieder und kratzte den Schuhschmutz
 <@pagebreak/>
 sorgfältig auf ein Stück Papier. »Weit wichtiger
 ist die Frage: Ist Donky einer jener vielen, die ein Doppelleben
@@ -325,7 +325,7 @@ können, da die Wagen Patentschlösser von solcher Präzision
 besitzen, daß da mit Bleistreifen nichts auszurichten ist.
 Seine Papiere hatte er im Wagen gelassen, auch den Führerschein,
 mithin dürfte Sigmar Donky doch ein Dieb gewesen
-sein, der …« — Harst schnitt sich stellst das Wort mit
+sein, der …« — Harst schnitt sich selbst das Wort mit
 schroffer Handbewegung ab. »Gehen wir nach oben, mein
 Alter …«
 
@@ -407,7 +407,7 @@ durch Schnarchen aufzufallen.
 »Sie sitzt im Herrenzimmer«, flüsterte Mathilde erschauernd,
 denn Mathilde geht ins Kino. »Und ’n Blaufuchs hat
 sie um die Schultern, — das ist bestimmt nicht gefärbtes Karnickel,
-und durften tut sie … oh, wie ’n ganzes Nelkenfeld …«
+und duften tut sie … oh, wie ’n ganzes Nelkenfeld …«
 
 »In Holland«, ergänzte Harst. Aber Mathilde hatte
 von der holländischen Nelkenzucht keinen Schimmer und raunte
@@ -464,7 +464,7 @@ die Arme über der Brust verschränkt, was gemeinhin nur
 <@pagebreak/>
 Schmierenkomödianten oder jene gewisse Sorte Raffke tun,
 die sich im läuternden Feuer ihres Reichtums noch nicht ganz
-an die Schlichten Formen besserer Gesellschaft akklimatisiert
+an die schlichten Formen besserer Gesellschaft akklimatisiert
 haben.
 
 Die Frage war überflüssig, denn draußen vor unserem
@@ -474,7 +474,7 @@ Firmen kurz vor der Pleite zwecks Kreditstützung benutzt
 wird.
 
 Sollte auch Belinda Gorra bereits auf doch Aussterbeetat
-stehen? Filmgrößen Sitzen wackeliger auf ihren Pappthronen
+stehen? Filmgrößen sitzen wackeliger auf ihren Pappthronen
 als ein Niggerrepublikpräsident auf seinem bei der Auktion
 von Kastans Panoptikum<@refnote 1/> billig erstandenen Thronsessel irgend
 eines verflossenen Fürsten, und die Gunst der großen Masse,
@@ -549,7 +549,7 @@ einem Wachskopf billiger Sorte hinzogen.
 
 »Beschreiben Sie mir den Ring genau … Ich muß vorsichtig
 sein … Die Mordkommission — —«, und wieder die
-gewisse Handbewegung »Kursgeheimnis«,
+gewisse Handbewegung »Kursgeheimnis«.
 
 <@pagebreak/>
 — Es hat Minuten gegeben, in denen ich, immerhin mit
@@ -562,7 +562,7 @@ sah, nämlich daß Harst den Ring durch das Beinkleid an
 die bewußte Stelle gleiten ließ, wobei er freilich seltsame ruckartige
 Schenkelbewegungen nicht vermeiden konnte, würde die
 Diva ihre manikürten Nägel vielleicht zu einer Attacke benutzt
-haben. Man sagte Belinda ein Zügelloses Temperament
+haben. Man sagte Belinda ein zügelloses Temperament
 nach.
 
 Aber sie — — beschrieb den indischen Ring mit einer
@@ -742,8 +742,8 @@ Nacht.«
 
 Sellke, Theodor, — so hieß Herr Fritsch als Chauffeur,
 aber ich werde ihn weiter Fritsch nennen, bis ein dritter
-Name austavyht, der so manches, was noch sehr unklar, endlich
-in selbst Beleuchtung rückte.
+Name auftaucht, der so manches, was noch sehr unklar, endlich
+in hellste Beleuchtung rückte.
 
 Neben dem Balkonzimmer war ein zweites mit zwei
 Betten, — dort wollten wir schlafen.
@@ -755,13 +755,13 @@ gemacht hatten. Wir warteten sehnsüchtig auf das versprochene
 reichhaltige Abendessen, durch die offene Balkontür
 drang Kiefernduft, Salzhauch des Meeres und Brandungsgeräusch
 herein, wir freuten uns, einmal wieder Seeluft zu
-Schnappen, und ich riß einige Witze über die unbegabte Belinda,
+schnappen, und ich riß einige Witze über die unbegabte Belinda,
 <@pagebreak/>
 die uns doch nur als unbequem aus Berlin hatte weglocken
 wollen und nicht ahnte, daß wir dem »Autoexport« bereits
 auf den Hacken waren.
 
-Harsts, der während der Autofahrt Vorrat geschlafen
+Harst, der während der Autofahrt Vorrat geschlafen
 hatte, schritt im Zimmer auf und ab und betrachtete die
 Bilder an den Wänden, die geschmacklos-schundigen Nippfiguren
 und die alten Möbel. Ich lag auf dem Sofa, rauchte
@@ -889,7 +889,7 @@ diese der zweiten Taube anvertraut, drehte nun das Licht
 aus und öffnete leise die Balkontür, kroch ins Freie, beide
 Tauben unter der Jacke, und … ich vernahm das Brausen
 der Brandung, sah einen grellen Lichtkegel, hörte zwei
-Schiffe, — — der Lichtkegel erlosch …
+Schüsse, — — der Lichtkegel erlosch …
 
 Harst schlug die Balkontür zu und stand im Dunkeln dicht
 vor mir.
@@ -983,7 +983,7 @@ umgebenen Meeresbucht errichtet haben …«
 
 <@pagebreak/>
 … Wieder dröhnte die Axt, und ich zuckte zusammen,
-als hatte mich dieser Hieb gestreift. Ich hatte die Gegenwart
+als hätte mich dieser Hieb gestreift. Ich hatte die Gegenwart
 vergessen und lebte nur für kurze Minuten in den grellbunten,
 wunderbaren Erinnerungen an mannigfache Fahrten
 und Abenteuer, die uns das unermeßliche Wunderland der
@@ -1007,7 +1007,7 @@ mehr anzunehmen, als bisher gegen die Diva keinerlei Verdacht
 bestand. Nur der Glückszufall, daß eine der Brieftauben
 den beiden Schrotschüssen, die gleichfalls mit aufgesetztem
 Schalldämpfer abgegeben worden waren, entgangen sein
-Könnte, bildete hier einen geringen Hoffnungsschimmer auf spätere
+könnte, bildete hier einen geringen Hoffnungsschimmer auf spätere
 Vergeltung.
 
 Ein großes Stück Deckenputz prasselte herab.
@@ -1047,7 +1047,7 @@ Die Tür des Schrankes knarrte, öffnete sich langsam,
 und ein Kopf schob sich durch die Spalte, der auf den ersten
 Blick alles andere nur nicht vertrauenerweckend ausschaute.
 
-Der Mann, ahnte wohl, daß er in der Schußlinie der
+Der Mann ahnte wohl, daß er in der Schußlinie der
 draußen vor den Fenstern postierten Zunftgenossen stand und
 daß er trotz der geschlossenen Vorhänge, die sehr morsch und
 zerschlissen waren, und trotz der Stabjalousien so allerhand

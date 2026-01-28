@@ -78,7 +78,7 @@ auf dem Tisch lag ja die Tageseinteilung:
 
 > 8 Uhr Abendessen.
 
-> 9-10 Bewegung an Deck.
+> 9—10 Bewegung an Deck.
 
 Zuwiderhandlungen gehen auf Kosten Ihrer Gesundheit!
 
@@ -423,7 +423,7 @@ gezwungen, nachdem meine Kugelgranate der Hölle einige Kesselanwärter
 verschafft hatte. Die Gesellschaft wußte natürlich
 <@pagebreak/>
 genau, daß die Brieftaubenpost die Polizei mobilmachen würde.
-Insofern also war Ihr Erscheinen ein Glückstreffer. Herr
+Insofern also war Ihr Erscheinen ein Glückstreffer, Herr
 Harst, wenn auch der arme Tyras daran glauben mußte, indem
 er die vergifteten Speisen fraß. — Das Bild hat Sie
 wohl argwöhnisch gemacht, die Photographie des Residenzschlosses
@@ -444,7 +444,7 @@ Harst hüstelte … »Obwohl der Fürst sehr reich sein soll
 »Bedauere, ich kenne Bumar nicht. — Nur noch etwas
 zu meiner Belehrung, Herr Harst: Die Photographie und der
 geringe Verdacht konnten Sie doch nicht sofort sogar den
-aufgefischten Speisen mißtrauen lassen?!«
+aufgetischten Speisen mißtrauen lassen?!«
 
 »Oh — doch. Wenn mir jemand erzählt — die Gorra —
 sie habe eine Villa gemietet, jedoch bisher nicht benutzt, und
@@ -745,7 +745,7 @@ Brust gedrückt.
 
 »Mein Gott, wenn … er … nur noch lebt«, schluchzte sie.
 
-Er lebte, — er stieß die Tür auf, war ein Stück Segeltuch
+Er lebte, — er stieß die Tür auf, war in ein Stück Segeltuch
 gehüllt, hatte nackte Füße und nur noch einen angedeuteten
 Scheitel.
 
@@ -806,7 +806,7 @@ Auch im Salon kein noch so leises Anzeichen, daß hier
 ein junges Weib vielleicht voller Bangen dem Augenblick
 entgegensah, wo sich zwischen dem Geliebten, der ihr, was
 Namen und Stand betraf, wahrscheinlich weit überlegen, und
-ihr Selbst, dem schlichten, wenn auch feingebildeten deutschen
+ihr selbst, dem schlichten, wenn auch feingebildeten deutschen
 <@pagebreak/>
 Kinde, eine unüberbrückbare Kluft sich auftun und all ihre
 Herzensträume zerstören könnte.
@@ -932,7 +932,7 @@ glauben Sie, daß dieser Schuft etwa …«
 »… War er auf dem Frachtdampfer? Entkam er nach
 der kurzen Schießerei in der vergangenen Nacht?«
 
-»Leider … einem Rennboot, er hatte vorgesorgt, sein
+»Leider … mit einem Rennboot, er hatte vorgesorgt, sein
 Maß ist voll, und …«
 
 »Dann geben Sie mir sechs Leute mit, einer muß ortskundig
@@ -952,7 +952,7 @@ Eine halbe Stunde — endlich deutete einer der Matrosen
 auf eine Lücke in den hohen Mangroven … »Dort die Laguneneinfahrt
 …!«
 
-Der Regen war noch Ärger geworden, als das weiße
+Der Regen war noch ärger geworden, als das weiße
 <@pagebreak/>
 Backsteingebäude in Sicht kam, als wir die hohen Parkmauern
 unterscheiden konnten, als der helle Landungssteg durch die
@@ -1112,7 +1112,7 @@ ein älterer, modernen Anschauungen huldigender Herr von
 einmal, er habe eine Engländerin geheiratet … Aber wie
 Sie, Hoheit, hier …«
 
-»Sitzen wir uns …« — Hoheit rückte für Fanny den
+»Setzen wir uns …« — Hoheit rückte für Fanny den
 <@pagebreak/>
 weichsten Sessel zurecht. »Ich will Ihnen kurz alles erklären.
 Es ist richtig, daß die Schwester meiner Mutter zum Islam
@@ -1131,7 +1131,7 @@ sie selbst Deutsche geworden, und ich als Felix Lange habe
 mich nie um meine Tante hier in Indien viel gekümmert, auch
 meine Mutter nicht, die ihrer Schwester den Religionswechsel
 nie vergaß. Ich wurde aus Neigung Schauspieler, — ein
-Sehr schlechter Beruf, und was ich Ihnen über meine letzte
+sehr schlechter Beruf, und was ich Ihnen über meine letzte
 Tätigkeit in Swinemünde erzählte, stimmt Wort für Wort. —
 Fürst Ramsava verstarb ganz plötzlich vor acht Wochen,
 der Minister Hastings hielt den Tod geheim, um erst einmal
@@ -1143,7 +1143,7 @@ mir der Kapitän der Jacht feierlich das Schreiben des Ministers
 und begrüßte mich als Fürst von Bumar — Herr
 Harst, wenn jemand zu Ihnen käme und Ihnen mitteilte, Sie
 seien König von Siam geworden, — wie wäre Ihnen dann
-zu Mute?! — Ich war wie vor den Kopf geschlagen, und
+zu Mute?! — *Ich* war wie vor den Kopf geschlagen, und
 da ich diesen Kopf gerade sehr voll mit anderen Dingen hatte,
 die Sie ja kennen, und da ich bereits wußte, daß die Hauptmenge
 der Autos nach Bumar verschoben wurde, rettete mir
