@@ -127,7 +127,7 @@ fauler Scherz ausgeschlossen war.
 
 Sein leises Lachen besserte meine Stimmung, und als er
 mir nun seinen Plan entwickelte, fand ich ihn bewundernswert.
-Daß die Bude-Leute uns niemals töten würden, war bestimmt
+Daß die Dudu-Leute uns niemals töten würden, war bestimmt
 anzunehmen, denn die Nadira Fanum Allison, auf deren
 Befehl sie uns zweifellos hier festhielten, war keine Mörderin.
 Hätte sie uns abtun wollen, wäre dazu längst Gelegenheit
@@ -206,7 +206,7 @@ Daß es nur ein Lichtstümpfchen blieb, erkannte ich sehr bald.
 
 <h2>2. Kapitel.</h2>
 
-<h3>Edu erzählt, Harsts streut ein …</h3>
+<h3>Edu erzählt, Harst streut ein …</h3>
 
 Im flotten Trab ritten wir eine Stunde gen Westen,
 lagerten in den Ausläufern der Ostghats und sicherten die
@@ -253,7 +253,7 @@ geklagt, daß ihre Mutter Nadira …«
 
 »… daß Frau Nadira Fanum Allison vier junge Verbrecher
 habe abfangen und wegschaffen lassen, eben die Söhne
-der alten Hexe Jassara. Weiter wird Sie Ihnen von ihrer
+der alten Hexe Jassara. Weiter wird sie Ihnen von ihrer
 Mutter tödlichen Haß gegen Webbs, der den alten Allison
 zur Strecke brachte, erzählt haben, ebenso von uns beiden,
 die wir Gerda nachts im Bungalow zuerst sahen. Sie ist
@@ -301,9 +301,9 @@ Mr. Webbs’ »selbstloses Angebot« herein. Die andere Frage,
 woher Webbs von Frau Nadiras seltsamen nächtlichen Ritten
 Kenntnis erhielt und was ihn persönlich so stark daran interessierte,
 ist im ersten Teile sehr leicht, in ihrem zweiten sehr
-schwer zu beantworten. Der Dampfer, mit dem Webbs her überkam,
+schwer zu beantworten. Der Dampfer, mit dem Webbs herüberkam,
 legte in Madras an, also im nächsten größeren Hafen.
-Dort wird er durch die Geringe-Presse von dem Auftauchen
+Dort wird er durch die Zeitungs-Presse von dem Auftauchen
 des Gespensterreiters vernommen haben, und diese Zeitungsartikel
 beunruhigten ihn stark, weil ihr Inhalt — ich gleite
 jetzt ab — ihm durchaus nicht in den eigenen Kram paßte,
@@ -554,7 +554,7 @@ Rücken.
 Er witterte mich, winselte kläglich, tat sich nieder und
 fiel matt auf die Seite.
 
-Das Sah nicht gerade nach Gefahr aus, im Gegenteil,
+Das sah nicht gerade nach Gefahr aus, im Gegenteil,
 ich hätte darauf schwören mögen, daß das Tier sich ohne seinen
 Herrn hierher geschleppt hatte.
 
@@ -582,7 +582,7 @@ Auf einer Lichtung hier stand eine Hütte aus Zweigen,
 Baumrinde und Moos, und daß dies Webbs’ Versteck gewesen,
 zeigten uns die in der Hütte noch vorhandenen Kleinigkeiten
 unter anderem vier verrostete Rasierklingen für einen
-Rasierapparat, ein zerbrochenen Kamm und einige zusammengeknüllte
+Rasierapparat, ein zerbrochener Kamm und einige zusammengeknüllte
 Zeitungen.
 
 Harst untersuchte die Hütte und die Umgebung ganz genau,
@@ -709,7 +709,7 @@ nach dem baumbestandenen Hofe zu.
 Frau Nadiras Züge wurden nun doch etwas weicher und
 nachgiebiger, da sie durch das strahlende, überglückliche Gesicht
 ihres Kindes unwillkürlich günstig beeinflußt ward. Gerda
-und der junge, fesche und forschte Edu standen Arm in Arm
+und der junge, fesche und forsche Edu standen Arm in Arm
 da, und als Derrick mit liebenswürdiger Frechheit meinte,
 er als Schwiegersohn, der der Frau Mama hoffentlich willkommen
 sei, würde in seiner Eigenschaft als Beamter mit
@@ -728,7 +728,7 @@ vor:
 ich fühle das Schwinden meiner Kräfte, und ich möchte nun
 dich als den jüngeren von uns in ein Geheimnis einweihen,
 das sich in unserer Familie stets vom Vater auf den ältesten
-Sohn vererbt hat, und das nun aus dich übergeht. — Es war
+Sohn vererbt hat, und das nun auf dich übergeht. — Es war
 ein Mac Allison, ein Schotte, der während des großen indischen
 Aufstandes dem Rebellenfürsten Nena Sahib diente und, als
 Führer einer größeren Truppe nach Süden gedrängt, bei Badnapur
@@ -750,7 +750,7 @@ gesucht, und mehr als einmal drohte mir dabei der Tod, denn
 das Innere der Ruinenstätte, die sich fast meilenweit hinzieht,
 wimmelt von Giftschlangen und Panthern, die in den undurchdringlichen
 Dickichten ihre Schlupfwinkel haben. Vor drei
-Monaten fand ich den Schatz glaubte mich jedoch in letzter
+Monaten fand ich den Schatz, glaubte mich jedoch in letzter
 Zeit von einem Londoner Gelehrten beobachtet, der dort
 Altertumsstudien trieb, und schaffte daher eines Nachts bei
 Regen und Gewitter die Kostbarkeiten mit zwei Pferden

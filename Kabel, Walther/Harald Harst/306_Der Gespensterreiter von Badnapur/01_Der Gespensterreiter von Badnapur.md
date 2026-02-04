@@ -651,7 +651,7 @@ Die Sessel der Frauen standen dicht beieinander, und die
 jüngere hielt die braune Hand der Nadira zwischen ihren hellen
 schlanken Fingern und sprach im Flüsterton eifrig und inbrünstig,
 fast flehend, wobei ihre lebhaften Augen sich in der
-Erregung mehrmals mit Tränen fühlten.
+Erregung mehrmals mit Tränen füllten.
 
 Leider konnten wir von dem Gespräch nur wenig auffangen.
 Eins merkten wir: Auch Nadira sprach vollendet
@@ -742,7 +742,7 @@ Peitschen aus Stahldraht benutzten, um die ungebärdigen
 Bestien in Schach zu halten.
 
 Nachdem die verhüllten vier Gestalten verladen waren —
-Nadira hatte mit jeder einige Worte gewechselt —, setzen
+Nadira hatte mit jeder einige Worte gewechselt —, setzten
 sich die Karren in Bewegung.
 
 In demselben Augenblick knarrte in dem Flur dicht hinter
@@ -908,7 +908,7 @@ Webbs, der sich in der anderen Ecke niedergetan
 hatte und in seinen Satteltaschen wühlte. Sobald Webbs
 den Kopf hob, schloß Harst die Augen. Was der Kaptain
 dort eigentlich tat, war schwer zu erkennen, da ein Haufen
-Schuft ihn halb verdeckte.
+Schutt ihn halb verdeckte.
 
 Plötzlich hörte ich einen ganz seltsamen Ton, der, allmählich
 anschwellend, zu schrillem Trillern sich steigerte und
@@ -979,7 +979,7 @@ als diese?!
 
 Harst streifte den Handschuh über.
 
-In den Satteltaschen befanden im acht Peitschenschlangen
+In den Satteltaschen befanden sich acht Peitschenschlangen
 und zwei Brillenschlangen.
 
 Er schlug sie mit Steinen tot und warf die noch zuckenden
@@ -1072,7 +1072,7 @@ hat. Übrigens war die Steinstatue bereits durch indisches
 Gesetz von Kalkutta her als Kunstwerk geschützt
 worden. — Was mich dabei interessierte, war lediglich die
 Frage der Entstehung der merkwürdigen Töne. Ich kletterte
-sehr pietätlos aus den Schoß Indras und weiter auf die über
+sehr pietätlos auf den Schoß Indras und weiter auf die über
 der Brust gekreuzten Arme. Der halb offenstehende Mund
 hatte einen ungewissen Verdacht bei mir geweckt, und als
 ich nun die mitgebrachte lange Rute dem Götzen noch pietätloser
