@@ -166,7 +166,7 @@ erhöhte Wachsamkeit.
 Gerade hier wäre uns Larry Webbs’ Bulldogge Ghosteater
 von größtem Nutzen gewesen, aber Gerda Allison hatte
 den Hund nicht hergeben wollen, und gegen eine junge
-Dame von so lieblicher Schönheit ist schwer auszukommen.
+Dame von so lieblicher Schönheit ist schwer aufzukommen.
 
 Das Mittag war fertig, und auch Derrick kam etwas
 breitbeinig wieder herbei. Ich weckte Arden, und wir
@@ -247,7 +247,7 @@ dir aber einen Sender zu, rate ich dir. Radiowellen
 fängt kein Jagdfalke, und …, — aha, — — da staunst
 du!! Dein Intimus John Armo, Neuyork, ist uns genau
 so vertraut wie seine Schuftigkeit. Woher kanntest
-du Sohn Armo-Omra?«
+du John Armo-Omra?«
 
 Abrahams verquollene Augen tränten vor Angst.
 »Durch Webbs …«, stotterte er.
@@ -263,7 +263,7 @@ Abraham schwitzte Blut. Die Vernehmungsmethoden
 Ardens waren zu außergewöhnlich für seine vornehme
 Seele.
 
-»… Also durch Webbs lerntest du den duften Sohn
+»… Also durch Webbs lerntest du den duften John
 kennen … Wann?«
 
 »Vor kurzem, erst nur vom Hörensagen, dann …«
@@ -318,7 +318,7 @@ eine feine Gesellschaft! — Und wie hoch war die Anzahlung?«,
 examinierte der Kurpfuscher weiter.
 
 Der zerlumpte schwarze Gentleman wand sich wie
-ein Aal. »Ich … ich … habe.: fünftausend erhalten.::«
+ein Aal. »Ich … ich … habe … fünftausend erhalten …«
 
 »Her damit!« Ardens feistes Gesicht strahlte.
 »Wenn mich nicht alles täuscht, Jungchen, hast du dir
@@ -373,7 +373,7 @@ der Oberinspektor sanft. »Am besten aber: schwöre gar
 nicht, sondern sage ausnahmsweise mal die Wahrheit.«
 
 Stoop wischte sich den Schweiß von der Stirn.
-»Mr. Harst war … war Sohn Armo zu gefährlich … Armo
+»Mr. Harst war … war John Armo zu gefährlich … Armo
 wollte Mr. Harst einsperren … — Mehr weiß ich nicht.«
 Die verbissene Wut, die aus Ton und Blicken flammte,
 bewies genügend, daß Stoop nicht log.
@@ -410,7 +410,7 @@ gemütlich trabenden Beamten, gen Westen in den Dschungel
 hinein, wobei ihm Ardens Gaul so hart auf den Fersen
 blieb, daß das Tempo nicht gut gemäßigt werden konnte.
 Noch lange vernahmen Derrick und ich des ulkigen Kurpfuschers
-dröhnende Stimme, die dem schwarzen für die Zukunft
+dröhnende Stimme, die dem Schwarzen für die Zukunft
 mannigfache Verhaltungsmaßregeln erteilte.
 
 Als Arden eine halbe Stunde später mit seiner
@@ -513,7 +513,7 @@ hinter den östlichen Höhen aufgegangen und warf sein
 mildes Licht über die starke Brandung, die in der Kanaleinfahrt
 haushohe Wellen schlug. Die »Mohalla« fuhr mit halber
 Kraft, — trotzdem war das Unheil nicht zu vermeiden,
-wir wurden zeugen, wie der Dampfer plötzlich stoppte,
+wir wurden Zeugen, wie der Dampfer plötzlich stoppte,
 ganz schräg lag, und wie die vom Ozean her eindringenden
 Flutwellen ihn hin und her warfen. Mit dem Glase erkannten
 wir auch die angstvoll zusammengedrängten Fahrgäste,
@@ -553,7 +553,7 @@ vier der wasserdichten Schotten vollgelaufen waren.
 
 Derrick hatte derweil unsere Pferde versorgt,
 ich hatte ein Feuer angezündet, der hier gänzlich unbewohnte
-Uferstrich war bis auf uns beide und scharen von Seevögeln,
+Uferstrich war bis auf uns beide und Scharen von Seevögeln,
 Buschwerk und Palmen leer. Ich hoffte, die »Mohalla«
 würde ein Boot zu uns an Land schicken, — ein Boot
 erschien auch, vorher jedoch trat von Norden her aus
@@ -737,7 +737,7 @@ nötig ist. Ein unredlicher Kerl in einer solchen Firma
 könnte unschwer einen Doppelschlüssel an andere verschachern
 …«
 
-Der Zahlmeister meinte etwas ungeduldig. »Ich
+Der Zahlmeister meinte etwas ungeduldig: »Ich
 ahne, woran Sie denken, Mr. Arden. Aber ich bitte Sie,
 — es ist doch nicht geschehen, auch die Safetüren innen
 sind unverletzt …«
@@ -751,7 +751,7 @@ man brachte uns also wieder an Land, und da bisher
 noch zwei der bisher vermißten Passagiere von einer
 Klippe aufgefischt worden waren, blieb als einziges
 Opfer der so glimpflich abgelaufenen Katastrophe der
-Millionär Hesekiel Armo übrig, der Onkel Sohn Armos.
+Millionär Hesekiel Armo übrig, der Onkel John Armos.
 Auch die beiden Leuchtfeuerwächter, die gebunden und
 geknebelt im Busch gelegen hatten, waren bereits aufgefunden
 worden, und jetzt suchten fast sämtliche Boote der
@@ -765,7 +765,7 @@ Wir drei schritten den Uferbüschen zu. Neben unseren
 beiden Pferden weidete jetzt Ardens Reitochse.
 
 »Der Fall liegt für mich klar«, meinte Derrick
-sehr zuversichtlich. »Sohn Armo hat seinem Onkel während
+sehr zuversichtlich. »John Armo hat seinem Onkel während
 der Panik einen Hieb über den Kopf gegeben und ihn
 ins Wasser geworfen, — er ist sein einziger Erbe.«
 
@@ -1264,7 +1264,7 @@ bis zum Halse in einem jener Baumlöcher stecken, die
 ursprünglich durch den Wurzelstock irgend eines tropischen
 Baumriesen ausgefüllt waren. Fäulnis und die emsige
 Arbeit der großen Waldameisen hatten den Wurzelstock
-zu Zunder zermürbt, und in diesem seinen, braunen Mehl
+zu Zunder zermürbt, und in diesem feinen, braunen Mehl
 und in diesen tausenden von kribbelnden Tierchen stand
 nun Oberinspektor Arden und versuchte ganz umsonst,
 sich mit eigener Kraft zu befreien. Wir halfen ihm,
@@ -1272,7 +1272,7 @@ nachdem er uns erst gehörig grob angefaucht hatte,
 denn unsere grinsenden Gesichter mußten ihn zu einem
 Wutanfall reizen. Es war nicht viel anders wie damals,
 als er in den Indigobottich hineingesaust war, nur
-das Freund Arden jetzt sehr kräftig nach Ameisenspiritus
+daß Freund Arden jetzt sehr kräftig nach Ameisenspiritus
 duftete und all seine Kleidungsstücke ausräuchern mußte.
 
 Auch Hesekiel Armo hatte sich derweil am Ort des

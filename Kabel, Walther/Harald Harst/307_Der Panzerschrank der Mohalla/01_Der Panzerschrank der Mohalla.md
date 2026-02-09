@@ -175,7 +175,7 @@ Als ich mich umwandte, hatte Harst bereits im
 Pavillon die Bambusleiter in die Luke des Dachbodens
 gestützt, kletterte empor und verschwand. Er kehrte
 mit einer winzigen Aluminiumhülse zurück, die um eine
-Schwungfeder der soeben ein- getroffenen Taube gewickelt
+Schwungfeder der soeben eingetroffenen Taube gewickelt
 gewesen und die einen schmalen Papierstreifen enthielt.
 
 Mit einer Füllfeder hatte Kaptain Harry Webbs
@@ -327,7 +327,7 @@ und der Schlußvermerk lautet: Zu seinen Ahnen versammelt
 am so und so vielten des Jahres so und so mit Hilfe
 eines neuen Hanfstrickes …«
 
-Der Dicke hüstelte, denn soeben erschien Mr. Stopp
+Der Dicke hüstelte, denn soeben erschien Mr. Stoop
 wieder auf der Veranda und hielt sehr feierlich und
 wichtig die bewußte Taubenpost in der Hand, die Harst
 dem Oberinspektor vorhin genau so unterschlagen hatte
@@ -360,7 +360,7 @@ Bächlein auf den durchweichten, durchnäßten Kragen
 rann.
 
 Daß Edward Derrick und Frau Nadira sich der Ansicht
-Stoops und Ardens übereifrig, anschlossen, war durchaus
+Stoops und Ardens übereifrig anschlossen, war durchaus
 begreiflich, nur daß Harald mit einem Achselzucken
 ebenfalls seine Zustimmung mit schweigendem Vorbehalt
 erteilte, wunderte mich denn doch über alle Maßen.
@@ -405,9 +405,9 @@ Edward Derrick warf dem seltsamen Kollegen einen
 verwundert-mißbilligenden Blick zu. Er glaubte zweifellos,
 Enoch Arden blamiere die ganze Innung der Kriminalpolizei.
 
-Der Hof war leer, und wir drei betraten den Stall
-… Harst zeigte Arden die Wunde und erklärte dem begierig
-Aushorchenden in vorsichtigstem Flüstertone: »Larry
+Der Hof war leer, und wir drei betraten den Stall.
+Harst zeigte Arden die Wunde und erklärte dem begierig
+Aufhorchenden in vorsichtigstem Flüstertone: »Larry
 Webbs hat sich mit Gerda Allison überhaupt nicht aus
 den Ruinen entfernt. Der Gaul rannte mit der brennenden
 Lunte allein davon und infolge der Schmerzen in solchem
@@ -429,7 +429,7 @@ und blinzelte Harst noch pfiffiger an. »Natürlich,
 wenn Webbs in der Ruinenstadt steckt, konnte ihm dieser
 schwarze Nigger, der wie eine Modepuppe aussieht, sehr
 leicht die Brieftaube durch einen Boten zusenden …«
-Harst erstaunter Blick amüsierte den Dicken über alle
+Harsts erstaunter Blick amüsierte den Dicken über alle
 Maßen. »Denken Sie denn, ich bin direkt vom Dorfe hier
 zum Bungalow gekraxelt?! Ich war bereits an der bewußten
 Stelle, wo der geriebene Kerl zuerst den Kollegen Derrick
@@ -497,7 +497,7 @@ natürlich nach drei Tagen schon sämtlichen halbwegs
 anständigen Alkohol ausgetutscht.« — Er blinzelte Harst
 wieder in seiner vielsagenden Art an und fügte hinzu:
 »Sie waren wieder im Taubenschlag. Was brachte die
-Taube, die aus der Richtung Madras kam?« — Das Arden
+Taube, die aus der Richtung Madras kam?« — Daß Arden
 irgendwie begriffsstutzig sei, konnte man wirklich
 nicht behaupten.
 
@@ -589,7 +589,7 @@ die kann mir nur ein ganz böswilliger Neidling absprechen.
 — Lassen wir das Thema … Es muß schon dabei bleiben,
 mein lieber Derrick, daß wir um halb elf mit der Holzkiste
 aufbrechen. Wir haben noch eine Stunde Zeit. Bis dahin,
-— spielen Sie Bridge, Mr. Stooß.«
+— spielen Sie Bridge, Mr. Stoop.«
 
 »Nein … Ich habe auch noch einige Briefe zu erledigen.
 Entschuldigen Sie mich …«, — und korrekt wie stets
@@ -623,7 +623,7 @@ ein Jagdfalke emporstieg, auf die sofort niedergehende
 Taube herabstieß und samt seinem fest umkrallten Opfer
 in ein anderes Reisfeld niederging.
 
-Derrick war so völlig sprachlos, das er nur hastiger
+Derrick war so völlig sprachlos, daß er nur hastiger
 atmete und eifrig mit dem rechten Arm umherruderte
 …
 
@@ -690,7 +690,7 @@ gegenüber wie wir. —
 Die Koromandel-Küste Vorderindiens gehört mit
 zu den fruchtbarsten Gebieten des Riesenreiches. Reis,
 Baumwolle, Nahrungspflanzen verschiedenster Art und
-Indigo werden hier in den wasserreichen Landstichen
+Indigo werden hier in den wasserreichen Landstrichen
 zwischen dem Gebirgszuge der Ostghats und dem Meere
 in unendlichen Feldern mühelos angebaut. Im Hinterlande,
 und hierzu rechnet das Dorf Omuribatam bereits, ist
@@ -766,8 +766,8 @@ stand, und nebenbei stand Gerda Allison, die Hände
 auf dem Rücken, rief uns schon von weitem zu, halt
 zu machen und nur Ali mit der Kiste vorzuschicken.
 
-Wir merkten, das Webbs sich gründlich gesichert
-hatte, und das der Zylinder-Radscha zweifellos gänzlich
+Wir merkten, daß Webbs sich gründlich gesichert
+hatte, und daß der Zylinder-Radscha zweifellos gänzlich
 ausgeschaltet worden war.
 
 Gerda Allisons Stimme verriet große Angst, und
@@ -786,7 +786,7 @@ ehrlich gesagt, ich hatte wenig Hoffnung, daß wir Webbs
 irgendwie hineinlegen könnten, nachdem die Dudu-Leute
 nicht eingreifen konnten.
 
-Das Edward Derrick am liebsten vorgestürmt wäre,
+Daß Edward Derrick am liebsten vorgestürmt wäre,
 daß Frau Allison Harst recht ratlos anblickte, — —
 verständlich!
 
@@ -973,7 +973,7 @@ um diesen Plan des Herrn »Omra« zu vereiteln. — — Hallo,
 
 Dieser Ausruf galt einer kleinen, flinken Gestalt,
 die wie ein Schatten ins Zimmer gehuscht war: Radscha
-Renu der Dudu-Zwerge, auch Zylinder Radscha genannt.
+Renu der Dudu-Zwerge, auch Zylinder-Radscha genannt.
 
 Der kleine schwarzbraune Beherrscher eines in
 den Wildnissen der Ostghats hausenden Völkchens von
@@ -1059,7 +1059,7 @@ zu finden, Anzüge und Wäsche waren noch reichlich vorhanden,
 aber nicht eine einzige Waffe. — Harst hielt sich hier
 nicht lange auf. Eine besondere Befürchtung trieb uns
 in den Garten zu dem Taubenpavillon. Die Leiter war noch angelehnt,
-die Tauben fehlten, und noch Harsts Angaben waren mindestens
+die Tauben fehlten, und nach Harsts Angaben waren mindestens
 ein Dutzend vorhanden gewesen.
 
 »Erwarte du den Oberinspektor am Dorfausgang«,
