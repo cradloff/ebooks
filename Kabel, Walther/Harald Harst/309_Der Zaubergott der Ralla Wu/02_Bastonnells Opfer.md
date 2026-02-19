@@ -135,7 +135,7 @@ mit offenem Blick.
 Stiefel nur wieder ab … Die aufgescheuerte Stelle über
 dem Fußgelenk als trauriges Andenken an den festgeschmiedeten
 Eisenring verriet mir genug. Also Bastonnell hat Sie
-in eine Strafkolonie geschickt,… sehr lange liegt Ihre
+in eine Strafkolonie geschickt … sehr lange liegt Ihre
 Flucht von dort noch nicht zurück … — Gut denn, Mr.
 Austin, wir wollen dies Bündnis über den sogenannten
 Zwischenfall hin erweitern, — — Hand her, Mann, Sie
@@ -205,7 +205,7 @@ Selbstvertrauen dazu, sich an ein Unternehmen heranzuwagen,
 das schließlich sehr übel auslaufen mußte, wenn wir
 irgendwo weit entfernt von unserem Schlupfwinkel abgefaßt
 würden, der leider kein Fuchsbau mit so und so viel
-Löchern war. Hierzu kam noch das große Pech, das Austin
+Löchern war. Hierzu kam noch das große Pech, daß Austin
 uns jetzt gar keine Erklärungen abgeben konnte, und
 eigentlich eines dauernden Krankenwärters bedurft hätte.
 Harst hatte ihm, um den im Fieberwahn äußerst Unruhigen
@@ -330,7 +330,7 @@ Schlupfwinkel, vielleicht gar sein Hauptquartier, diese
 Insel, sah er von Fremden, die ihm gefährlich dünkten,
 bereits halb erobert, er hatte eine böse Schlappe erlitten,
 der greise Buddha hatte ihn für alle Zeit durch den
-Messerwurf gekennzeichnet, und das gerade Harst und
+Messerwurf gekennzeichnet, und daß gerade Harst und
 ich ihm hier entwischt waren, mußte seine Wut und auch
 seine geheime Angst ins ungemessene steigern.
 
@@ -345,7 +345,7 @@ in der Hand, eine Waffe, die mir redlich gedient hatte
 viele Jahre hindurch. Und in dieser lastenden Finsternis,
 die alle Schrecken und heimlichen Drohungen in sich
 schloß, sprach ihr erprobtes Metall zu mir in stummen,
-ruhevollen Worten von noch bedenklicheren lagen, aus
+ruhevollen Worten von noch bedenklicheren Lagen, aus
 denen wir uns mit verbissener, grimmer Energie glücklich
 herausgehauen hatten. Fratzenhaft verzerrte Mördergesichter
 tauchten vor mir auf, blinkende lange Messer und schußbereite
@@ -430,7 +430,7 @@ Bis es lautlos sich senkte, fast bis zum Steinboden,
 wie ein schlaff gewordener, greulich bemalter Kinderballon,
 und nun sein mattes Licht über die Steinquadern des
 Bodens des Stollens streute, über die noch zuckende
-Schlange, über eine weite, die eilends flüchtete, über
+Schlange, über eine zweite, die eilends flüchtete, über
 ein braungraues Etwas, das senkrecht emporragte, steif
 und doch schmiegsam, — — eine Lederschürze, dachte
 ich …
@@ -464,7 +464,7 @@ Stille …
 
 »Alle guten Geister, — — Sie, Sie, Mr. Arden?!«
 
-Gegen meinen Willen entfuhr es mir, halb flüstern,
+Gegen meinen Willen entfuhr es mir, halb Flüstern,
 halb Ruf.
 
 Das Kichern, heiser und belegt, ertönte nur kurz,
@@ -586,12 +586,12 @@ erledigt, Gott sei Dank — die gemeinsten, hinterhältigsten,
 schamlosesten, grausamsten Kreaturen waren. — Also
 wir vier suchten die Nachbarinseln ab, — das heißt,
 Bastonnell war nur Attrappe, der wußte ja ganz genau,
-das dort nichts zu finden war. Plötzlich zwingt uns
+daß dort nichts zu finden war. Plötzlich zwingt uns
 ein Kerl ganz überraschend, unsere schönen Büchsen
 und Pistolen wegzuwerfen, es war im dichtesten Busch,
 — ebenso plötzlich verduftet Bastonnell, der Gentleman
 mit der scharfen Stimme liefert uns John Armo samt
-Juwelen aus und sagt: »Rudert gen süden, oder ihr werdet
+Juwelen aus und sagt: »Rudert gen Süden, oder ihr werdet
 sehr bald das Zeitliche segnen!« Immerhin durften wir
 noch fragen, wer er denn eigentlich wäre. Was sagt
 er?! Er sagt: »Ich bin Nr. B 394.« Und dann ruderten
@@ -610,7 +610,7 @@ Runde machten, sie redeten von einem alten Priester,
 von unterirdischen Gängen, von Tanz und Spiel und einem
 Messer und Bastonnells durchlöcherte Pfote und von
 eurem Verschwinden, und da dachte ich mir so: »Mit
-der Blendlaterne kannst du hier nichts ansangen, Enoch!
+der Blendlaterne kannst du hier nichts anfangen, Enoch!
 Also baue dir einen Lampion.« Ich suchte Käfer, ohnedies
 meine Leidenschaft, da ich Sammler bin, ich nahm meinen
 Nackenschleier und mein seidenes Netzhemd, und das
@@ -659,7 +659,7 @@ Harst schob das Mattenstück wieder in die Öffnung.
 »Die Jachten sind verschwunden. Nichts rührt sich draußen.
 Begegneten Sie denn jemand in den unterirdischen Gängen?«
 Er kam zum Tisch zurück und lehnte sich dagegen. »Sie
-werden niemanden begegnet sein außer Thamise mit dem
+werden niemandem begegnet sein außer Thamise mit dem
 Verwundeten im Arm, nehme ich an. Der Klub ist heimgekehrt,
 Ihr Erscheinen mag dabei den Ausschlag gegeben haben.
 Bastonnell will mit seiner braunen Gesellschaft allein
@@ -697,7 +697,7 @@ eine Kugel als Quittung empfing. Etwas ahne ich, Arden
 ganz tief hinabkönnten, würden Sie staunen.«
 
 »So?! Ich staune ohnedies genug, lieber Harst,
-am meisten darüber, das wir überhaupt noch leben …
+am meisten darüber, daß wir überhaupt noch leben …
 Ich habe verteufeltes Glück mit meinem Lampion gehabt.«
 
 »Allerdings …« Harst blickte dorthin, wo die gräßliche
@@ -777,7 +777,7 @@ und am anderen Ende die Verdickung für ein Zapfenloch.
 Enoch Arden, eine ehrliche Seele, verbeugte sich
 tief. »Die Depesche nach Madras ist überflüssig.«
 
-Haken und Lederleine versanken in der Zuge, Harst
+Haken und Lederleine versanken in der Fuge, Harst
 zog, der Haken faßte, der Stein hob sich, und Ardens
 gewaltige Fäuste kippten ihn vollends hoch.
 
@@ -861,7 +861,7 @@ Untiers schweigend hinnehmen mußten.
 Bastonnells schweißige Schnauze schmatzte voller
 niederträchtigen Wohlbehagens. »Ihre Frau ist an allem
 Schuld, Austin …«, grunzte er mit ekler Bosheit. »Weshalb
-mußten Sie sie mir auch wegschnappen …?! Ich eine gewisse
+mußten Sie sie mir auch wegschnappen …?! Ich habe nun mal eine
 Schwäche für pikante Weiber, und zumal noch für so
 wilde Kätzchen wie Jolanta … jeder ist sich selbst
 der Nächste, mein Lieber, und deshalb sorgte ich dafür,
@@ -872,7 +872,7 @@ abfaßte … Ihre Flucht in der französischen Uniform
 half Ihnen wenig, die Verfolger erschossen Ihr Reitdromedar,
 und Sie kamen auf die Satansinsel … für zehn Jahre …«
 
-»Als Strafe dafür, das ich mich mit Ihnen überhaupt
+»Als Strafe dafür, daß ich mich mit Ihnen überhaupt
 eingelassen hatte«, sagte Austin düster. »Mein Gewissen
 und Jolantas Bitten, die Verbindung mit Ihnen zu lösen,
 waren leider …«
@@ -891,8 +891,7 @@ das war nur Augenblickspech … Sie sehen ja, Austin,
 — ich bin der Sieger, ich werde auch diese beiden Deutschen
 finden, und Sie … Sie werden mir jetzt deren Versteck
 verraten, oder, beim Satan!, Sie sollen sofort Augenzeuge
-meines ersten Schäferstündchens mit Jolanta werden
-…!«
+meines ersten Schäferstündchens mit Jolanta werden …!«
 
 Der greise Buddhist, dessen milchige Augen starr
 auf Bastonnells verbundener Hand ruhten, hüstelte leise.
@@ -1080,9 +1079,9 @@ mir die Kobra hinzaubert, dann steckt irgend etwas
 Sie den Wisch heraus …! Sofort! Ich spreche jetzt als
 Beamter zu Ihnen, und ich spaße bei Gott nicht! Mögen
 Sie Ihrem Intimus Schraut so viel verheimlichen, wie
-es Ihnen beliebt: Mir darf man keine solchen Faxen
+es Ihnen beliebt: *Mir* darf man keine solchen Faxen
 vormachen! Das Papier muß eine besondere Bedeutung
-gehabt haben, und wahrscheinlich hoffen sie mit Hilfe
+gehabt haben, und wahrscheinlich hoffen Sie mit Hilfe
 dieses Wisches wieder einen Extrafeldzug gegen Bastonnells
 Austernklub einleiten zu können. Daraus wird nichts!
 Also — — her mit dem Wisch!«

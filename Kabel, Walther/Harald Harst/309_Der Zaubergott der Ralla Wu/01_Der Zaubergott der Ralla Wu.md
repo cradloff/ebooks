@@ -109,7 +109,7 @@ Zeit, — dicke Luft!!«
 
 Für gewöhnlich befleißigte er sich weniger volkstümlicher
 Redewendungen. Doch auch diese haben ihr gutes, ich
-begriff sofort, wir waren Augenblick auf dem Bahnsteig,
+begriff sofort, wir waren im Augenblick auf dem Bahnsteig,
 ein paar Worte für Thamise genügten, wir schulterten
 unsere Packen, die Gockel in den Käfigen stimmten neuerlich
 ein schrilles Wehgeschrei an, zum Glück lief der Bummelzug
@@ -167,7 +167,7 @@ Weit und breit war keine lebende Seele zu bemerken,
 die Ochsenherde war in einen Seitenweg nach dem Dorfe
 abgebogen, und die Europäerin, die so urplötzlich einen
 abgerissenen, wie ein Packesel beladenen Inder allerlei
-Unhöfliches Flüstern hörte, regte im ersten Schreck
+Unhöfliches flüstern hörte, regte im ersten Schreck
 kein Glied.
 
 Der Wagen sauste vorwärts, und als Harst hinter
@@ -216,7 +216,7 @@ ersten Sätzen ins Wort, indem sie wieder halb belustigt
 äußerte, die Dinge lägen so, daß sie uns geradezu zu
 aufrichtigem Dank verpflichtet sei. »Ich bin nämlich
 Korrespondentin der Londoner Zeitung The Recorder,
-M. Schraut, und Sie werden es als Gelegenheitsschriftsteller
+Mr. Schraut, und Sie werden es als Gelegenheitsschriftsteller
 ungefähr abschätzen können, was mir dieses Abenteuer
 einbringt. Bisher habe ich in Indien nichts Aufregendes
 erlebt, und ich bin sicher, daß unser Chefredakteur
@@ -232,7 +232,7 @@ Das wilde Tempo machte eine längere Unterhaltung
 unmöglich, — ich bedauerte dies, denn meine Nachbarin
 hätte mir zweifellos sehr wichtige Aufschlüsse darüber
 geben können, wie Mr. Dapsar, Polizeichef von Nellore,
-so rasch unsere Fährte gesunden hatte.
+so rasch unsere Fährte gefunden hatte.
 
 Es mochte eine Stunde verstrichen sein, als Harst,
 dem Thamise soeben etwas zugeraunt hatte, stoppte.
@@ -249,13 +249,13 @@ Ihnen, daß Sie uns sowenig Ungelegenheiten bereitet
 haben.«
 
 »Gar keine!« verbesserte Miß Unbekannt lachend.
-»Wenn Sie aber glauben. Mr. Harst, mich abschütteln
+»Wenn Sie aber glauben, Mr. Harst, mich abschütteln
 zu können, irren Sie sich. Wir Zeitungsleute sind wie
 Wölfe … Eine solche Beute lasse ich mir nicht entgehen.
 Nehmen Sie mich mit.«
 
 Harst schaltete die Scheinwerfer aus, kam um den
-Wagen herum und meinte eindringlich. »Machen Sie doch
+Wagen herum und meinte eindringlich: »Machen Sie doch
 keine Geschichten, Miß …«
 
 »Dolly Gwenn heiße ich …«
@@ -467,7 +467,7 @@ der Insel im Penner-Fluß gegeben hatte.
 
 Miß Gwenn lächelte verstohlen, als Dapsar nun
 bei der Vernehmung immer wieder fragte, ob die drei
-Autodiebe auch wirklich sämtlich farbige gewesen seien.
+Autodiebe auch wirklich sämtlich Farbige gewesen seien.
 
 »Zweifellos«, sagte Dolly bestimmten Tones. »Der
 Alte mag jener Thamise gewesen sein, aber mit dem Steckbriefbild
@@ -507,7 +507,7 @@ an.
 seelische Seite aller Sensationen berücksichtigen.
 Die Ermordung Ihrer Frau war damals eine Sensation.
 Die Tempelruine jenseits des Flusses, in der das scheußliche
-alte Götzenbild steht,…«
+alte Götzenbild steht …«
 
 Der riesige Polizeichef winkte gereizt ab. »Eine
 Erörterung von Kriminalfällen, die noch der Erledigung
@@ -639,7 +639,7 @@ greise Buddhist, die Arme über der Brust verschränkt,
 fahl, starr, tot. — Der Zettel, der zwischen seinen
 Fingern steckte, war mit Bleistift geschrieben.
 
-> »Meine Zeit war um, Begrabt mich nachts in der
+> »Meine Zeit war um. Begrabt mich nachts in der
 zweiten Halle der Tempelruine jenseits des Flusses. Von
 den Bodenplatten sind die mittleren lose. Legt mich dort
 in die Gruft, schließt die Platten wieder, und Buddha
@@ -686,7 +686,7 @@ starben.«
 Er schob das Gewand über der Brust wieder zusammen,
 nahm eine unserer leichten Schlafdecken, breitete sie
 über den greisen Priester und setzte sich auf die verwitterte
-Bank, die außer einen wackeligen Tisch fast das einzige
+Bank, die außer einem wackeligen Tisch fast das einzige
 Mobiliar der Hütte ausmachte, wenn man von ein paar
 leeren Kisten, ein paar Konservenbüchsen und einem
 rauchgeschwärzten Lehmherde absah. Jetzt standen hier
@@ -751,7 +751,7 @@ des Londoner Recorder.
 Sagte er.
 
 Harst betrachtete ihn sinnend, und Phileas’ wässerige
-Äuglein, die mehr für Whiskyliebe sprachen, blicken
+Äuglein, die mehr für Whiskyliebe sprachen, blickten
 stumpf ins Leere.
 
 »Was würden *Sie* tun, Mr. Muffy?«, fragte Harst
@@ -809,7 +809,7 @@ einem schmutzigen Lappen, und nur das überharmlose
 Gesicht war mit einigen Lehmspritzern weggekommen.
 In der rechten Hand hielt er eine mittelgroße Pistole
 mit aufgestecktem Schalldämpfer, und als er uns nun
-beide lebend und unverletzt vor sich sah, stieß einen
+beide lebend und unverletzt vor sich sah, stieß er einen
 Seufzer der Erleichterung aus, der etwa dem Gähnen
 eines Krokodils glich.
 
@@ -820,7 +820,7 @@ nämlich mir. In solchen Fällen ist es ratsam, sich
 tot zu stellen, ich warf mich wie ein angeschossener
 Hase in den Lehmbrei, aber ich hatte eine ziemlich
 tiefe Stelle erwischt, und ehe ich wieder herauskrabbeln
-konnte,…«
+konnte …«
 
 »Wohin lief der Kerl? Sahen Sie ihn? Wer war es?«,
 platzte ich dazwischen, zumal Harst bereits recht uninteressiert
@@ -1114,7 +1114,7 @@ von prächtigen Tigerfellen.
 
 Ich folgte, — — mir hämmerte das Herz, der Vorhang
 bewegte sich, aber nur die Mitte des saalartigen Raumes
-war durch zwei über dem Rouletttisches angebrachte
+war durch zwei über dem Rouletttisch angebrachte
 Karbidlampen mit grünen Schirmen hell beleuchtet, außerdem
 achtete auch niemand der Spieler auf den Türvorhang,
 und als ich erst unter dem Ruhebett lag, verdeckt durch
@@ -1200,7 +1200,7 @@ oben wieder auftauchte … wieder durch die Seide sich
 hindurchfraß, bis das losgetrennte Stück halb herabfiel
 und …
 
-Harst preßte meinen Arm, das ich hätte schreien
+Harst preßte meinen Arm, daß ich hätte schreien
 mögen …
 
 Harst war das Messer nicht entgangen …
