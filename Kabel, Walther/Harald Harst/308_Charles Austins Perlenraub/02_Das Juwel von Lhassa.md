@@ -11,7 +11,7 @@ als auch mit dem Glase drüben am Nordufer den Ruinenberg
 mit seinen steilen, zum Flusse abfallenden Sandmassen
 erkennen.
 
-Unser Einzug hier hatte immerhin einiges Aussehen
+Unser Einzug hier hatte immerhin einiges Aufsehen
 erregt, und ich war keineswegs erstaunt, als bereits
 am Spätnachmittag, wo der Straßenverkehr infolge der
 angenehmen Temperatur lebhafter wird und die oberen
@@ -155,9 +155,9 @@ Phileas verzichten müssen, aber — tue einer was gegen
 die liebe Eitelkeit! Schon als Junge war ich auf Phileas
 außerordentlich stolz, denn welcher Bengel kennt nicht
 Phileas Fock aus Jules Vernes »Reise um die Welt in
-achtzig Tagen«! Man sieht, so etwas rächt sich. — -
+achtzig Tagen«! Man sieht, so etwas rächt sich. —
 Wissen Sie auch, wer Dolly Gwenn ist?« Des Kriminalinspektors
-nunmehr äußerst bewegtes Gesicht  verriet starke Neugier,
+nunmehr äußerst bewegtes Gesicht verriet starke Neugier,
 aber Harsts Antwort befriedigte ihn wenig.
 
 »Ich kann es mir ungefähr zusammenreimen, wer
@@ -247,7 +247,7 @@ abgehackt hervor:
 
 »Der Führer der Aufräumungskolonne meldet mir
 soeben, daß man in der bereits freigelegten Gruft keine
-Spur von der Leiche Thamise gefunden hat. Die Wände
+Spur von der Leiche Thamises gefunden hat. Die Wände
 und der Boden der Gruft sind aufs genaueste untersucht
 worden, — ein zweiter Ausgang ist nicht vorhanden.
 Also angenommen, Thamise wäre nicht tot gewesen, —
@@ -305,7 +305,7 @@ Hofraum abschloß. Die Tür in diesem Zaun war nur angelehnt,
 — der Garten war der des Polizeichefs Dapsar.
 
 Nach einigem Suchen fand Harst neben der Gartentür
-auf dem Hofe auch die andere Tür, — ich wär eingeweiht,
+auf dem Hofe auch die andere Tür, — ich war eingeweiht,
 aber für Mufferson war es doch eine arge Überraschung,
 als Harst die Tür geöffnet hatte, wir schnell hineingeschlüpft
 waren und er hinter uns wieder abgeschlossen hatte
@@ -367,10 +367,10 @@ Moschustier, und sie ist die einzige Repräsentantin
 dieser jetzt nur noch in Tibet, Sibirien und in den
 Wildnissen Indiens zu findenden Tierart. Es steht fest,
 lieber Mufferson, daß die Männchen dieser  Bisamziegen
-am Bauch aus, dem sogenannten Moschusbeutel, zur Brunstzeit
+am Bauch aus dem sogenannten Moschusbeutel zur Brunftzeit
 große Mengen Moschus absondern und zwar durch zwei
 Öffnungen dieses ebenfalls einzigartigen Moschusbeutels,
-täglich dreißig bis vierzig Gramm, und das gerade Moschus
+täglich dreißig bis vierzig Gramm, und daß gerade Moschus
 die Verwesung verhindert, wußten die alten Ägypter
 schon. Jedenfalls besitzt das Museum in Petersburg
 — oder besaß wenigstens — ein Eichenstammstück von
@@ -476,7 +476,7 @@ ich verwechsele regelmäßig Masseur, Magnetiseur und
 Hypnotiseur mit Pousseur, — — was ist eigentlich Pousseur
 oder Poseur …, — — man wird ganz wirr dabei …«
 
-»All die Bezeichnungen«, murmelte Harst. Ironisch,
+»All die Bezeichnungen«, murmelte Harst ironisch,
 »kennen Sie genau so gut wie wir, also lassen Sie nur
 diese Mätzchen bei Seite, Mufferson. Ich habe im offiziellen
 Amtsblatt von Scotland Yard Artikel von Ihnen gelesen,
@@ -610,13 +610,13 @@ Ruck auf die Beine stellte und ihr geradezu vorhielt,
 sie müsse hier noch Verbündete haben, schien sie einen
 Augenblick ihre allzu rasch wiedergewonnene ablehnende
 Haltung abermals zu verlieren. Doch ihre störrische,
-ablehnende Haltung und das geringschätzige schürzen
+ablehnende Haltung und das geringschätzige Schürzen
 der dünnen, grausamen Lippen waren Zeichen eines ehernen
 Willens, nichts mehr zu verraten, und Phileas Mufferson
 knurrte ärgerlich und doch auch geduldig: »Solche Püppchen
 müssen erst achtmal Bohnen mit Speck gegessen haben,
 bevor sie vernünftig werden, Harst. Sie kennen auch
-Agga Harras schlecht: Die ließ schon mehr Edelsteinen
+Agga Harras schlecht: Die ließ schon mehr Edelsteine
 mit Beinen versehen, als Sie sich es träumen!«
 
 Dieser Mißerfolg amüsierte mich etwas. Ich war
@@ -675,7 +675,7 @@ prosaisches Fahrwasser, und der einzige erregende Augenblick
 bei unserem stillen Marsch zum Flusse hinab war der,
 als urplötzlich Dolly Gwenn auftauchte und den armen
 Mufferson höchst unliebenswürdig anfauchte, weil er
-sie von dieser Razzia nicht verständigt hatte. -
+sie von dieser Razzia nicht verständigt hatte.
 
 Aber auch Dolly wurde wieder zahm, als Harst ihr
 dann am Heck des selbstherrlich von uns entliehenen
@@ -753,7 +753,7 @@ mit der die Pistolenschützin davonschwamm und nachher
 auch ihr Boot davonschoß, und dies war nur so zu erklären,
 daß Schwimmerin und Boot durch eine fremde Kraft, etwa
 durch eine dünne, über eine schnelle Ankerwindentrommel
-lausende Trosse geschleppt oder gezogen wurden. Da
+laufende Trosse geschleppt oder gezogen wurden. Da
 sehen Sie die Ankerwinde, die mit dem Bootsmotor gekuppelt
 ist. Dies brachte mich auch auf den Gedanken, daß Frau
 Aggas Verbündete auf dem Fluß hausten.«
@@ -799,12 +799,12 @@ unsere fünf Gefangenen, die Mufferson sehr sicher angeseilt
 hatte. Agga Derwing mußte jedes Wort verstehen. Bisher
 hatte sie geschwiegen. Ein unbändiger Haß schrillte
 in ihrer Stimme, als sie uns zurief: »Alles weitere
-wissen Sie?!| Wenn Sie sich nur nicht irren! Über meine
+wissen Sie?! Wenn Sie sich nur nicht irren! Über meine
 Lippen kommt kein Wort mehr. Sie werden niemals diesen
 Dingen völlig auf den Grund kommen, nie!«
 
 »Warten wir ab …«, meinte Harst und wandte sich
-dem Heck zu, »Fahren wir zur Stadt zurück. Für diese
+dem Heck zu. »Fahren wir zur Stadt zurück. Für diese
 Nacht ist es genug, übergenug …«
 
 Der Bandar knatterte davon, wir legten nachher
@@ -954,11 +954,11 @@ konnten aus uns nichts mehr herausquetschen, — wir
 wußten nichts! — Agga Derwing wurde beinahe auf die
 Folter gespannt, sie lächelte sehr respektlos die edlen
 Würdenträger an und sagte dem einen glatt ins Gesicht:
-»Sie haben bei der Erfindung des Pulvers nie mitgewirkt,
+»*Sie* haben bei der Erfindung des Pulvers nie mitgewirkt,
 — fragen Sie nur diesen infamen Harst, mag der sich
 das Maul verbrennen, der weiß etwas!« — Der infame
 Harst erklärte, er hätte nun wirklich von der Geschichte
-genug. Man möge ihn in, Ruhe lassen, — — und leise
+genug. Man möge ihn in Ruhe lassen, — — und leise
 fügte er auf Deutsch hinzu: »Rutscht mir alle den Buckel
 runter mit Filzpantinen!«, aber das verstanden nur
 ich und Mufferson, der im übrigen, sobald wir unter
@@ -1095,7 +1095,7 @@ für diese allerhöchste Priesterwürde wiedergeboren:
 Der Nachfolger ist nur die Inkarnation des Vorgängers!
 — Der jetzige Dalai-Lama soll aus Südostindien stammen,
 sein Großvater soll einer der berühmtesten Paspas,
-der sieben »Ehrwürdigen«! Sein, — Genaues weiß natürlich
+der sieben »Ehrwürdigen«, sein. — Genaues weiß natürlich
 niemand. — Wer weiß überhaupt Bestimmtes über den Lamaismus
 und seine Geheimlehren und Geheimkünste?!«
 

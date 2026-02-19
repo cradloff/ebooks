@@ -104,7 +104,7 @@ Arden sagte überaus freundlich:
 … Sollten Sie sich irgendwo angewischt haben?!«
 
 Der Steward war ein mittelgroßer, stämmiger Mann
-mit nichtssagenden Domestikengesicht.
+mit nichtssagendem Domestikengesicht.
 
 Ardens Frage ließ ihn kalt. »Leider, an der Bar,
 Mr. Arden«,  erwiderte er gleichgültig.
@@ -147,7 +147,7 @@ Niemand verläßt seinen Platz! Also los …«
 
 Einer der Herren, der sich als hoher indischer
 Regierungsbeamter auswies, legte gegen diese Behandlung
-säuerst empört strengste Verwahrung ein, Arden sagte
+äußerst empört strengste Verwahrung ein. Arden sagte
 sehr ernst: »Und wenn Sie der Vizekönig von Indien
 wären, — meine Vollmachten vom Auswärtigen Amt und
 von Scotland Yard sind unbeschränkt, mögen sie sich
@@ -160,12 +160,12 @@ Der fette Kurpfuscher stand noch immer vor dieser
 Miß Thea Osmond, wie die elegante Weltdame zur Zeit
 hieß. »Da — setzen Sie sich, Spencer!«, sagte er augenzwinkernd.
 »Daß John Armo hier an Bord Verbündete haben würde,
-ahnten wir längst. Harst hat das gleich behauptet .
+ahnten wir längst. Harst hat das gleich behauptet.
 Bei der Geschichte mit dem Panzerschrank der »Mohalla«,
 aus dem die bewußte Urkunde verschwand, mußten ja ein
 paar Aufpasser mitbeteiligt sein. Nicht wahr, Sie sehen
 das doch selbst ein, Sie sind ja ein heller Kopf, wenn
-auch zur Zeit rotblond, und sie werden zweifellos begreifen,
+auch zur Zeit rotblond, und Sie werden zweifellos begreifen,
 weshalb wir nicht dulden, daß Mr. Hesekiel Armo als
 fetter Erblasser — seine Millionen sind kein Spaß —
 auch nicht eine einzige Speise genoß, die Ihr lieber
@@ -224,7 +224,7 @@ unruhig werden.
 
 »Nur … das Geschäft ist gemacht«, vollendete Spencer
 voller Hohn. »Der Tresor ist leer … Eure beiden Matrosen
-schlafen wie die Murmelstiere … Mit Gift will ich nichts
+schlafen wie die Murmeltiere … Mit Gift will ich nichts
 zu schaffen haben, aber Schlafmittel in Whisky, — wer
 schmeckt das heraus?! Die beiden hatten den Trunk schon
 im Leibe, als sie vor einer Stunde die beiden anderen
@@ -372,7 +372,7 @@ unsere Winchesterbüchsen, die uns der Kapitän der »Mohalla«
 großmütig gespendet hatte, da unsere bisherigen Schießprügel
 schon garnichts mehr getaugt hatten.
 
-»Ein alter Inder …«, flüsterte Harst noch einer Weile.
+»Ein alter Inder …«, flüsterte Harst nach einer Weile.
 »Wo kommt der Bursche her?! Auf der Insel war
 doch keine Seele, als wir sie durchsuchten.«
 
@@ -504,7 +504,7 @@ die zweifellos die Insel nur als Nachkommen dereinst
 hier eingeführter Affenfamilien bewohnten.
 
 Harst zuckte die Achseln. »Wieder eine Niete,
-mein Alter««, sagte er halblaut. »Und von uns sicherlich
+mein Alter!«, sagte er halblaut. »Und von uns sicherlich
 eine Torheit, diese Verfolgung. Ich fürchte, wir werden
 den Kutter nicht wiedersehen, wir sind auf sehr schlaue
 Art weggelockt worden. Da — — hörst du?!«
@@ -706,11 +706,11 @@ erdenklich Gute. Leben Sie wohl, — ein Jammer, daß ich
 dicker Kurpfuscher nicht mit von der Partie sein kann,
 die Sie beide nun spielen können.
 
-<p class='centered'>Oberinspektor Enoch Arden.</p>
+<p class='right'>Oberinspektor Enoch Arden.</p>
 
-<p class='centered'>Hesekiel Armo, Neuyork.</p>
+<p class='right'>Hesekiel Armo, Neuyork.</p>
 
-<p class='centered'>James Fuller, Privatsekretär.</p>
+<p class='right'>James Fuller, Privatsekretär.</p>
 
 Als Nachschrift stand, ebenfalls mit Tinte, in
 zierlichen Buchstaben von Frauenhand:
@@ -718,12 +718,12 @@ zierlichen Buchstaben von Frauenhand:
 > »Falls Sie beide uns, ohne irgendwelche Fragen zu stellen,
 helfen wollen, ein ungeheures Unrecht wieder gut zu machen,
 befestigen Sie der harmlosen Kobra diesen Zettel wieder am
-Halse und schicken sie sie ins Freie. Wenn nicht, — —
+Halse und schicken Sie sie ins Freie. Wenn nicht, — —
 nun dann tragen Sie die Folgen mit Geduld. — Ich vertraue
 auf Harsts Klugheit, er wird die Kobra nicht getötet
 haben.
 
-<p class='centered'>J. A.«</p>
+<p class='right'>J. A.«</p>
 
 »Klugheit?!«, meinte Harst etwas gereizt.
 
@@ -926,7 +926,7 @@ Wir horchten …
 Und selten wohl habe ich meine Ohren so angestrengt
 wie jetzt.
 
-<h2>5. Kapitel.</h2>
+<h2>4. Kapitel.</h2>
 
 <h3>Wie Ralla Wu starb.</h3>
 
@@ -990,8 +990,8 @@ Harst hatte sich schon erhoben und preßte den
 Rücken unter die einzelnen Steinplatten, — nicht eine
 rührte sich.
 
-Ich leuchtete ihm, ich fühlte, das mir alles Blut
-aus dem Gesicht gewichen war, das unter den Lumpen
+Ich leuchtete ihm, ich fühlte, daß mir alles Blut
+aus dem Gesicht gewichen war, daß unter den Lumpen
 meines Fakirkittels mir der Schweiß über die Haut in
 ganzen Bächen lief.
 
@@ -1015,7 +1015,7 @@ Brustkorb beengte.
 zu. »Sieh mal, mein Alter, um diese ganze Geschichte
 ausführen zu können, brauchten wir den unversehrten
 Tempel, das heißt, die Ruine in dem Zustande wie vor
-einer Viertelstunde, denn so war sie auch, diese alte
+einer Viertelstunde, denn *so* war sie auch, diese alte
 Ruine, als Ralla Wu hier tot aufgefunden wurde. Dapsar
 weiß nun ganz genau, daß die Begleiter Thamises wir
 beide waren, und da hat er es mit der Angst bekommen
@@ -1027,7 +1027,7 @@ bejahte.
 
 Er zögerte etwas mit der Antwort.
 
-»Ich möchte mich auf eine bestimmte Aussicht nicht
+»Ich möchte mich auf eine bestimmte Ansicht nicht
 festlegen. — Zunächst das eine, dir zur Beruhigung:
 Unsere Lage hier unter den Schuttmassen ist keineswegs
 verzweifelt. Wir haben Dolly und ihren ebenso dickköpfigen
@@ -1048,13 +1048,13 @@ hier, und der eine, der sie kannte, liegt dort hinten
 steif und kalt: Thamise!«
 
 Harst hatte stets eine besondere Art, Bedenken
-zu zerstreuen. »Das Verhungern kommt erst später«,meinte
+zu zerstreuen. »Das Verhungern kommt erst später«, meinte
 er etwas vorwurfsvoll. »Mit Hilferufen ist uns nicht
 gedient … Steck dir eine Zigarre an, mein Sohn, und
 warte ab. Gib auch mir Feuer. Ein Bettler von meiner
 fragwürdigen Schönheit dürfte ja nicht Zehnpfennig-Zigarretten
-rauchen, aber — seien wir leichtsinnig! So, denke —
-ich  — ich besser … Und jetzt, da wir wirklich absolut
+rauchen, aber — seien wir leichtsinnig! So, danke —
+ich brenne … Und jetzt, da wir wirklich absolut
 nichts anderes zu tun haben, können wir das ja nochmals
 durchsprechen, was Thamise und Frau Jolante uns auf
 der Austern-Insel (vergl. den vorigen Band) über Ralla
@@ -1120,7 +1120,7 @@ Thamise eine ganz andere Rolle gespielt haben soll.
 Dapsar soll ihn weinend und betend angefleht haben,
 ihm seine Frau und sein Kind wiederzugeben. — Das wäre
 alles, mein Alter … Es bliebe höchstens noch zu erwähnen,
-das Thamise uns gegenüber beteuert hat, Ralla Wu sei
+daß Thamise uns gegenüber beteuert hat, Ralla Wu sei
 durch seine Hand nicht gestorben. — Schildert man diese
 Dinge so nüchtern sachlich, wie ich es soeben tat,
 dann verlieren sie vielleicht viel von dem unheimlichen
@@ -1173,7 +1173,7 @@ Ich verlor die Besinnung.
 <h3>Mr. Hoßward übernimmt die Garantie.</h3>
 
 Die Lehmhütte auf der Weideninsel im toten Flußarm
-des Penner hatte keine Fenster,sondern nur eine Fensteröffnung,
+des Penner hatte keine Fenster, sondern nur eine Fensteröffnung,
 und in diesem hellen, von Sonnenlicht ausgefüllten
 Viereck saß Dolly Gwenns schlanke Gestalt und rief
 uns halb übermütig, halb ärgerlich zu:
@@ -1288,7 +1288,7 @@ sie im Polizeigebäude …« Hoßward grinste unverhohlen.
 gegenüber mit offenen Karten?! Weshalb leugnen Sie:
 Sie beide waren doch in der Tempelruine …«
 
-Harst winkte Muffy zu, »Bitte, nehmen Sie doch
+Harst winkte Muffy zu. »Bitte, nehmen Sie doch
 meinen Platz hier ein, und vielleicht tun Sie gut,
 Ihre vortreffliche Pistole bereit zu halten. Mein Rücken
 hat einen bösen Knacks abbekommen …«
@@ -1298,7 +1298,7 @@ der gesamten Umwelt sehr schnell und gründlich umstellen.
 Er war wie der Blitz vom Herde herunter und lehnte
 sich an die offene Tür, sein feistes Gesicht und die
 wässerigen Augen bekamen einen Ausdruck, der an einen
-gereizten Kater erinnerte, und das Muffy, falls jemand
+gereizten Kater erinnerte, und daß Muffy, falls jemand
 draußen in den Weiden schießwütig herumschleichen sollte,
 sehr schnell mit der Pistole bei der Hand sein würde,
 wußte ich bereits.
@@ -1352,7 +1352,7 @@ Ralla Wu verschwand — auch als Tote, nun hat sich dieses
 … Wunder zum dritten Male wiederholt. Thamise ist tot,
 Thamise ist …« — er zauderte — »eingegangen in das
 eisumstarrte Reich derer, die die größten Geheimnisse
-des Weltalls hüten, — Gut, brechen wir auf … In zehn
+des Weltalls hüten. — Gut, brechen wir auf … In zehn
 Minuten werden Schraut und ich wieder wir selbst sein,
 und dann können wir in Nellore diese Dinge restlos
 zu klären suchen.«
@@ -1364,7 +1364,7 @@ packt mich … wie in der verflossenen Nacht …!«
 Hoßward nahm ihre Hand. »Gespenster gibt es nicht,
 Miß Dolly … — Kommen Sie … Die Herren wollen sich waschen,
 rasieren und umziehen.« Er holte seine lange Pistole
-hervor! »Ich schieße auch nicht schlecht … Muffy mag
+hervor. »Ich schieße auch nicht schlecht … Muffy mag
 hier Wächter spielen, und ich bewache Sie …« — Es lag
 sehr viel versteckte Zärtlichkeit in seiner Stimme,
 und Dolly wandte rasch den Kopf zur Seite und errötete
