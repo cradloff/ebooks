@@ -1135,5 +1135,5 @@ und — seltsam — mich befällt eine eigentümliche Müdigkeit
 Und … ein Frösteln läuft mir über den Rücken.
 
 <#import "*/harst.ftl" as harst>
-<@harst.naechsterband band="Der Zaubergott der Ralla Wu."/>
+<@harst.naechsterband band="Der Kopf, der nichts verriet."/>
 
