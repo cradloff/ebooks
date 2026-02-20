@@ -8,49 +8,49 @@
 
 Harst schaute mir über die Schulter.
 
-»Du, das ist ein Citel, der an »das blutige Messer auf do1
-Kirchhofsmauer« oder an »Eva, das Kind des Satans« odo1
-sonstige Geschmacklosigkeiten beinahe erinnert. Was dich ont-
-schuldigt, ist lediglich die Catsache, daß der ominöse Citel am
-trefsfendsten dem Inhalt unseres damaligen Abenteuers ent-
-spricht. — Enfschuldige, ic ziehe mich schon wieder zurück,
-Cinen gottbegnadeten Cintenfisch soll man nicht stören. Schil-
-dere aber die Dinge inöglichst 19« daß du nicht wieder einen
-anonymen Brief eines deiner »Leser aus dem verflossenen
-Rixdorf, das heute jo vornehm Neukölln heißt, zugeschickt
-erhältst, in dem der fraglos gebildete Herr den anrüchigon
-Sundamentaljsats »Geld stinkt nicht« in so krassen Wider-
-Jpruch zu jeinen ssonstigen Aussührungen set. Gewiß, Geld
+»Du, das ist ein Titel, der an »das blutige Messer auf der
+Kirchhofsmauer« oder an »Eva, das Kind des Satans« oder
+sonstige Geschmacklosigkeiten beinahe erinnert. Was dich entschuldigt,
+ist lediglich die Tatsache, daß der ominöse Titel am
+treffendsten dem Inhalt unseres damaligen Abenteuers entspricht.
+— Entschuldige, ich ziehe mich schon wieder zurück,
+Einen gottbegnadeten Tintenfisch soll man nicht stören. Schildere
+aber die Dinge möglichst so, daß du nicht wieder einen
+anonymen Brief eines deiner Leser aus dem verflossenen
+Rixdorf, das heute so vornehm Neukölln heißt, zugeschickt
+erhältst, in dem der fraglos gebildete Herr den anrüchigen
+Fundamentalsatz »Geld stinkt nicht« in so krassen Widerspruch
+zu seinen sonstigen Ausführungen setzt. Gewiß, Geld
 stinkt nicht, es muß nur ehrlich erworben sein, und nur ein
-blutiger Nationalökonom-Dilettant könnte heute noch an-
-nehmen, daß die in einzelnen Händen ausgebhäuften Kapital-
-massen ohne Gestank und ohne Cränen der Canusende von
+blutiger Nationalökonom-Dilettant könnte heute noch annehmen,
+daß die in einzelnen Händen aufgehäuften Kapitalmassen
+ohne Gestank und ohne Tränen der Tausende von
 Geschädigten und Ausgesogenen erworben worden sind. Ich
-inöchte behaupten: Geld stinkt unter allen Umständen! — €s
-würde jedoch zu weit führen, den Sat auch zu begründen,
-außerdem … du willst den Zall der »Dompteuse Graziosa Garzia
-verarzten, viel Berganügen also …
+möchte behaupten: Geld stinkt unter allen Umständen! — Es
+würde jedoch zu weit führen, den Satz auch zu begründen,
+außerdem … du willst den Fall der Dompteuse Graziosa Garzia
+verarzten, viel Vergnügen also …« —
 
-Der FSall Garzia war noch völlig frisch in meinem Go
-dächtnis. Er lag kaum fünf Cage zurück, und die Cinzesheiten
-standen mit er;chreckender Klarheit vor mir.
+Der Fall Garzia war noch völlig frisch in meinem Gedächtnis.
+Er lag kaum fünf Tage zurück, und die Einzelheiten
+standen mit erschreckender Klarheit vor mir.
 
 Der uralte Satz, daß die einfachsten Begebnisse sich nachher
 als die kompliziertesten herausstellen, traf auch hier zu.
 
-… 20. Oktober vormittags hatte Harst für uns Karten
+Am 20. Oktober vormittags hatte Harst für uns Karten
 <@pagebreak/>
-zum Girkus Busch besorgt, drei Karten, da seine liebe Mutter,
-meine wahrhast inüiterliche Sreundin, ursprünglich hatte mit-
-kommen wollen. Sie gab diese Absicht nachher des schlechten
+zum Zirkus Busch besorgt, drei Karten, da seine liebe Mutter,
+meine wahrhaft mütterliche Freundin, ursprünglich hatte mitkommen
+wollen. Sie gab diese Absicht nachher des schlechten
 Wetters wegen auf.
 
-An jenem Abend geschab) es, daß in unserer Gegenwart
-die Löwenbändigerin Graziosa Garzia, wie sir auf dem Hettel
-hieß, von ihrem Lieblingslöwen Nero gauz unerwartet an-
-gefallen und Jehr schwer verleßt wurde. Die Hauptszene des
+An jenem Abend geschah es, daß in unserer Gegenwart
+die Löwenbändigerin Graziosa Garzia, wie sie auf dem Zettel
+hieß, von ihrem Lieblingslöwen Nero ganz unerwartet angefallen
+und Sehr schwer verletzt wurde. Die Hauptszene des
 Dressuraktes bestand darin, daß Graziosas Gatte Schamil
-Garzia in Cscherkessentracht, einen Pappkops auf eine Lanze
+Garzia in Tscherkessentracht, einen Pappkopf auf eine Lanze
 aufgespießt, dreimal um die auf niederen Sesseln sitzenden
 Löwen herumgaloppierte. Gerade bei dieser Schlußapotheose
 wurde Nero plötzlich wild, flog auf die Dompteuse zu, riß
@@ -58,190 +58,188 @@ sie zu Boden und konnte nur durch reichliche Wasserstrahlen
 zurückgescheucht werden, während ihr Mann vor den übrigen
 gleichfalls sehr unruhig gewordenen Bestien flüchtete.
 
-Die Borstellung ging weiter, ein Stallmeister meldete
-dem Publikum, daß Grazioja nur leicht verleßt sei — die
-übliche Beruhigungspilie —, und der Herr, der vor Ner-
-vosität den eigentlich Frau Harst gehörigen Platz in Loge
-eingenommen hatte ibis dahin hatte er hinter uns gesessen),
-wandte sich jezt sehr erregt an Harst und flüsterte mit heiserer
-Stimme: »Das ist nicht mit rechten Dingen zugegangen -
+Die Vorstellung ging weiter, ein Stallmeister meldete
+dem Publikum, daß Graziosa nur leicht verletzt sei — die
+übliche Beruhigungspille —, und der Herr, der vor Nervosität
+den eigentlich Frau Harst gehörigen Platz in Loge 3
+eingenommen hatte (bis dahin hatte er hinter uns gesessen),
+wandte sich jetzt sehr erregt an Harst und flüsterte mit heiserer
+Stimme: »Das ist nicht mit rechten Dingen zugegangen —
 niemals! Dahinter steckt irgend eine Schurkerei.«
 
-— Gch bitte, meine liehen Leser und Sreunde jede Kleinig-
-keit zu beachken. So kurz ich auch die Borgoschitihte hier
-schildere, jeder Saß darin, jedes Wort sind von Bodeuiung. -
+— Ich bitte, meine lieben Leser und Freunde jede Kleinigkeit
+zu beachten. So kurz ich auch die Vorgeschichte hier
+schildere, jeder Satz darin, jedes Wort sind von Bedeutung. —
 
-Unser Nachbar in Loge 3 war ein qutgekleideter, bart-
-loser Herr mittleren Alters, der nichts Ausfsälliges an sich
+Unser Nachbar in Loge 3 war ein gutgekleideter, bartloser
+Herr mittleren Alters, der nichts Auffälliges an sich
 hatte.
 
-Harst entgegnete ihm sehr kühl: »Sie inüßten diesen Ver-
-dacht beweisen.«
+Harst entgegnete ihm sehr kühl: »Sie müßten diesen Verdacht
+beweisen.«
 
 »Das werde ich«, erklärte der Herr mit einem Male
 verblüffend ruhig und energisch. »Sie gestatten, daß ich mich
 vorstelle: Doktor Gudden aus R.« — er nannte ein kleines
 <@pagebreak/>
-derühmtes Städtchen in der Mark Brandenburg. »Ich komme
-häusiger nach Berlin, ich bin Privatgelehrter, und meine be-
-jJondere Neigung gehört kriminalpsychologischen Sorschungen.«
+berühmtes Städtchen in der Mark Brandenburg. »Ich komme
+häufiger nach Berlin, ich bin Privatgelehrter, und meine besondere
+Neigung gehört kriminalpsychologischen Forschungen.«
 
-»Cin interessantes Gebiet«, nickte Harst zerstreut und
-lachte herzlich über den zwergenhasten Clown, der über eine
+»Ein interessantes Gebiet«, nickte Harst zerstreut und
+lachte herzlich über den zwergenhafter Clown, der über eine
 fabelhafte Gelenkigkeit verfügte.
 
-Doktor Gudden bat nach Schluß der Borstelluug, sich uns
+Doktor Gudden bat nach Schluß der Vorstellung, sich uns
 anschließen zu dürfen, seine Limousine stand vor dem Zirkus,
-und wir fuhren mit dem liebenswürdigen, weltgewandteu Herrn
+und wir fuhren mit dem liebenswürdigen, weltgewandten Herrn
 nach einem Lokal des Kurfürstendamms, wo man vorzüglich
-und stets in quter Gesellschaft speist. Der Kurfürstenkeller
-wird von der Elite der neuen oberen Fehntausend gemieden,
-AY man bekommt dort nur wirklich angezogene Damen zu
-ehen. ch
+und stets in guter Gesellschaft speist. Der Kurfürstenkeller
+wird von der Elite der neuen oberen Zehntausend gemieden,
+und man bekommt dort nur wirklich angezogene Damen zu
+sehen.
 
-Gudden war im Kurfürskenkoller ofsenbar Stammaast,
-der Geschäftssührer besorgte uns ein gemütliches Eckhon, und
-die Unterhaltung, die zunächst nur unverfängliche Dinge streiste,
-gewann erst wieder an innerer Lebendigkeit, ais Gudden,
-jeinen Klemmer zurechtrückend, unvermittelt das Chema woch-
-selte und meinte: »Ein glücklicher Zusall hat mir die Chre
-verschafft, Sie beide kennen zu lernen. — Herr Harst, siel
-Ghnen denn bei dem wütenden Sprung des Löwen Nero auf
-seine Herrin jo gar nichts auf’?«
+Gudden war im Kurfürstenkeller offenbar Stammgast,
+der Geschäftsführer besorgte uns ein gemütliches Eckchen, und
+die Unterhaltung, die zunächst nur unverfängliche Dinge streifte,
+gewann erst wieder an innerer Lebendigkeit, als Gudden,
+seinen Klemmer zurechtrückend, unvermittelt das Thema wechselte
+und meinte: »Ein glücklicher Zufall hat mir die Ehre
+verschafft, Sie beide kennen zu lernen. — Herr Harst, fiel
+Ihnen denn bei dem wütenden Sprung des Löwen Nero auf
+seine Herrin so gar nichts auf?«
 
-»Richts«, erwiderte Harst recht gelangweilt und widmete
+»Nichts«, erwiderte Harst recht gelangweilt und widmete
 sich wieder seinem Käse.
 
 Gudden schüttelte den bereits leicht ergrauten blonden
-Kopf und knetete nervös seine beiden Stirnwülste. C1 bosaß
-eine jehr hohe, eckige Stirn, auch seine Kinnpartie war !tark
-entwickelt, trotzdem war er eine sasi bestehende Crscheinung,
-da er in seinem Wesen obensoviel natürliche BVornehnhoit
-wie kraftvolles Draufgängertum vereinigte, — alles in allom
+Kopf und knetete nervös seine beiden Stirnwülste. Er besaß
+eine sehr hohe, eckige Stirn, auch seine Kinnpartie war stark
+entwickelt, trotzdem war er eine fast bestechende Erscheinung,
+da er in seinem Wesen ebensoviel natürliche Vornehmheit
+wie kraftvolles Draufgängertum vereinigte, — alles in allem
 keine alltägliche Sorte Mensch.
 
-au meinem ECrstaunen wechselte er nach einiven nichts-
-sjagenden Bemerkungen wiederum das Chema, und de« Zall
+zu meinem Erstaunen wechselte er nach einigen nichtssagenden
+Bemerkungen wiederum das Thema, und der Fall
 <@pagebreak/>
-Grazioja schien für ihn abgetan, obwohl er noch im Zirkus
+Graziosa schien für ihn abgetan, obwohl er noch im Zirkus
 betont hatte, er würde den »Verdacht« beweisen.
 
-Harst verließ für kurze Zeit unseren Ccktisch, um einen
+Harst verließ für kurze Zeit unseren Ecktisch, um einen
 Bekannten zu begrüßen, und gegen ein Uhr brachen wir auf.
 
 Die regnerische Herbstnacht war zu weiterem Besuch eines
-
-Kafsees wenig angetan, Harst gäbute auch verstohlen, und
+Kaffees wenig angetan, Harst gähnte auch verstohlen, und
 Doktor Gudden brachte uns daher in seinem Auto heim, lud
 uns noch herzlich zu einem Besuch in R. ein und fuhr davon.
 
-Die leidige Angewohnheit … meines Freundes, selbst zu
+Die leidige Angewohnheit meines Freundes, selbst zu
 später Stunde noch Kaffee zu trinken, Zigaretten zu rauchen
-und vor dem Kamin in seinem Arbeitszimmer die TCages-
-ereignisse zu- erörtern, sollte auch diesmal nicht ausgeschaltet
-werden. Als die Kaffeemaschine sJummte, und Harst im Klub-
-sessel weit zurückgelehnt den NRauchringen seiner Mirakulum
-nachschaute, hatte sein schmaies Gesicht einen ganz besonderen
-Ausdruck — fast elwas Überhebliches, Geringschätziges, und
-so jehr ich sonst auch imstande bin, seine Gedanken halb zu
+und vor dem Kamin in seinem Arbeitszimmer die Tagesereignisse
+zu erörtern, sollte auch diesmal nicht ausgeschaltet
+werden. Als die Kaffeemaschine summte, und Harst im Klubsessel
+weit zurückgelehnt den Rauchringen seiner Mirakulum
+nachschaute, hatte sein schmales Gesicht einen ganz besonderen
+Ausdruck — fast etwas Überhebliches, Geringschätziges, und
+so sehr ich sonst auch imstande bin, seine Gedanken halb zu
 erraten, diesmal glückte es mir nicht.
 
 »Harald …«
 
 Die grauen Augen trafen mich, und in ihrem matten
-Glanz war ein ironisches, deutliches Slackern.
+Glanz war ein ironisches, deutliches Flackern.
 
-»Run, du wünschst, mein Alter?!«
+»Nun, du wünschst, mein Alter?!«
 
-»Zoran denkst du?«
+»Woran denkst du?«
 
 »Welche Frage!«
 
 »Also doch an den Unfall der Graziosa Garzia …«
 
 »Nein …« Er richtete sich auf, schenkte die Tassen voll,
-der aromatische Nlokkadust durchzog das Zimmer, und Harst
-fügte hinzu: »An die erstaunten Gesichter zweier CTaxc ’:oter-
-chausseure dachte ich und an die Sreude des Pförtners des
+der aromatische Mokkaduft durchzog das Zimmer, und Harst
+fügte hinzu: »An die erstaunten Gesichter zweier Taxameterchauffeure
+dachte ich und an die Freude des Pförtners des
 Kurfürstenkellers über die zehn Mark, — der Mann hatte
-mich nämlich unter seinen RViesenschirm genommen, ols ich
-jedem der Chauffeure einen FSünszigmarkschein in die Hand
+mich nämlich unter seinen Riesenschirm genommen, als ich
+jedem der Chauffeure einen Fünfzigmarkschein in die Hand
 drückte. Die Unkosten betragen mithin bisher 110 Mark,
 ich glaube jedoch, sie werden noch größer werden.«
 
-Das war Harst in Reinkultur: Andeutungen, zumeist ver-
+Das war Harst in Reinkultur: Andeutungen, zumeist verblüffende,
 <@pagebreak/>
-lWuffende, scheinbar sinnlose Andeutungen, und dabei noch seine
-dieude, mich so etwas auf die Solter spannen zu können.
+scheinbar sinnlose Andeutungen, und dabei noch seine
+Freude, mich so etwas auf die Folter spannen zu können.
 
-Ich war nicht geneigt, mich mit diesen Brocken vom Cische
-bvs Herrn zufrieden zu geben, und meine Srage wurde in
-vinem Cone gestellt, der keine Ausflüchte erlaubte.
+Ich war nicht geneigt, mich mit diesen Brocken vom Tische
+des Herrn zufrieden zu geben, und meine Frage wurde in
+einem Tone gestellt, der keine Ausflüchte erlaubte.
 
-»Unkosten — — wofür?!« — Sch gebe zu, ich war hierbei
-uicht ganz ehrlich, denn ich ahnte bereits Berschiedenes…
+»Unkosten — — wofür?!« — Ich gebe zu, ich war hierbei
+nicht ganz ehrlich, denn ich ahnte bereits Verschiedenes.
 
-Cr hatte Glück, — draußen im Flur läutete es ganz
-jaghaft, und als ich öffnen ging, nötigte ich einen nächtlichen
+Er hatte Glück, — draußen im Flur läutete es ganz
+zaghaft, und als ich öffnen ging, nötigte ich einen nächtlichen
 Besucher in den Flur, der mir bis dahin fremd gewesen.
 
-Es war ein spindeldürrer, jJehr bescheiden gekleideter
-Mensch mit einem trotz des Hundewetters vergnügt schmun-
-jelnden, faltigen und etwas einfältigem Gesicht.
+Es war ein spindeldürrer, sehr bescheiden gekleideter
+Mensch mit einem trotz des Hundewetters vergnügt schmunzelnden,
+faltigen und etwas einfältigem Gesicht.
 
-»Kriminalassistent Weber vom Caschendiebdezernat«,
-stellte er sich überhöflich vor, zeigte mir jeinen Ausweis und
-vrklärte weiter: »Herr Schraut, ich war heute. abend eben-
-salls (M Oirkus Busch, — — Dienst! Ich inöchte Herrn Harst
-prechen.«
+»Kriminalassistent Weber vom Taschendiebdezernat«,
+stellte er sich überhöflich vor, zeigte mir seinen Ausweis und
+erklärte weiter: »Herr Schraut, ich war heute abend ebenfalls
+im Zirkus Busch, — — Dienst! Ich möchte Herrn Harst
+sprechen.«
 
-Weber schälte sich aus seinem langen Gummimantel her-
-aus, jäuberte sich umständlich die Schuhe, wurde freundlich
-von Harst begrüßt und bat bescheiden um einen Kognak an-
-jielle einer Casse Kaffee … »Ich bin mehr sür Alkohol,
+Weber schälte sich aus seinem langen Gummimantel heraus,
+säuberte sich umständlich die Schuhe, wurde freundlich
+von Harst begrüßt und bat bescheiden um einen Kognak anstelle
+einer Tasse Kaffee … »Ich bin mehr für Alkohol,
 meine Herren, Kaffee weckt zu trübe Erinnerungen in mir,
-meine Srau trinkt den ganzen Cag Kaffee, ich bin leider ver-
-beitatet, eine Dummheit macht jeder mal …«
+meine Frau trinkt den ganzen Tag Kaffee, ich bin leider verheiratet,
+eine Dummheit macht jeder mal …«
 
 Weber nahm Kognak, Zigarre und legte dann los: »Herr
-Harst, ich jah Sie beide in der Loge, fiel öhnen beiden bei
-dem Unfall der Dompteuse nichts auf? Übrigens ist Gra-
-zioja Garzia eine blendende Erscheinung und hat mit meiner
-Stranziska gar keine Ähnlichkeit. - Sranziska erinnert an San
-Sranzisko, und meine Sranziska Jorgt ebenfalls für Erdbeben,
+Harst, ich sah Sie beide in der Loge, fiel Ihnen beiden bei
+dem Unfall der Dompteuse nichts auf? Übrigens ist Graziosa
+Garzia eine blendende Erscheinung und hat mit meiner
+Franziska gar keine Ähnlichkeit. — Franziska erinnert an San
+Franzisko, und meine Franziska Sorgt ebenfalls für Erdbeben,
 ich glaube …«
 
-Harst wollte das seltsame Gewächs von TCaschendieb-
-spezialist nicht wieder ins Userlose sich verlieren lassen und
-nweinsfe sichtlich amüsiert:
-<@pagebreak/>
+Harst wollte das seltsame Gewächs von Taschendiebspezialist
+nicht wieder ins Uferlose sich verlieren lassen und
+meinte sichtlich amüsiert:
 
+<@pagebreak/>
 »Mir fiel nichts auf.«
 
-»Komisch!«, jagte Weber mit harnilosem Lächeln.
+»Komisch!«, sagte Weber mit harmlosen Lächeln.
 
-Harst musterte ihn schärser. »Waren Sie etwa hinter
-ans dreien her, Herr Weber?«
+Harst musterte ihn schärfer. »Waren Sie etwa hinter
+uns dreien her, Herr Weber?«
 
-»da. Um im Kurfürstenkeiler zu essen, langte mein Geld
-nicht. Aber der sehulihe Wunsch, die Anwaltkosten zujam-
-menzubekommen, ließ mich in Sturm und Regen ausharren.«
+»Ja. Um im Kurfürstenkeller zu essen, langte mein Geld
+nicht. Aber der heimliche Wunsch, die Anwaltkosten zusammenzubekommen,
+ließ mich in Sturm und Regen ausharren.«
 
 Harst beugte sich über das Tischchen.
 
-»Sie wollen ISranziska loswerden?«
+»Sie wollen Franziska loswerden?«
 
-»3a. Cs war ein Mißgrisf wie jo viele Chen. Wenu
-ein Mann hundertzehn Pfund wiegt und die Frau hundert-
-neunzig Psund und außer Kaffee noch Kanarienvögel liebt -
-wir haben sechs Pärchen und sechs Zunge zur Zeit —, wird
-man entweder Selbstmörder oder Chrengast einer Kaltwasser-
-beilanstalt.« …
+»Ja. Es war ein Mißgriff wie so viele Ehen. Wenn
+ein Mann hundertzehn Pfund wiegt und die Frau hundertneunzig
+Pfund und außer Kaffee noch Kanarienvögel liebt —
+wir haben sechs Pärchen und sechs Junge zur Zeit —, wird
+man entweder Selbstmörder oder Ehrengast einer Kaltwasserheilanstalt.«
 
 »Unser aufrichtigstes Beileid …«, — aber Harst war mit
 einem Male sehr zerstreut und betrachtete Weber aus halb
 zugekniffenen Augen. »Sie hegen also einen ganz bestimmten
-Beordacht?«, fügte er langsam und nachdenklich hinzu.
+Verdacht?«, fügte er langsam und nachdenklich hinzu.
 
 »Genau wie Sie!«, erwiderte Weber ruhig und bestimmt.
 »Ohne Grund haben Sie wohl kaum die beiden Autotaxen
@@ -249,460 +247,461 @@ hinter der Limousine hergeschickt … — Wer war der dritte
 Herr?«
 
 Harst senkte den Blick, schwieg eine Weile und fragte sehr
-geschäftsmäßig: »Wie viel brauchen Sie für den Nechtsanwalt?«
+geschäftsmäßig: »Wie viel brauchen Sie für den Rechtsanwalt?«
 
-Aber Weber winkte energisch ab. »Sie inöchten mich
-ausschalten … Bedauerel Wenn ich auch dahein; ar nichts
-zu jagen habe, denn ich liebe den Frieden und kau; mich mit
-Sranziska nicht auf Boxkämpfe einlassen, jo bleibt do« ein
-Siiord eine Angelegenheit, die einem so unbedeutenden Men-
-Ichen wie mir Aussichten eröjsnet, die mit einem Anwaltsho1ino-
-rar nicht abgetan sind. — Graziosa Garzia ist tot. Ich habe
-vorhin die Klinik angerufen. öhr Yann Schamil Garzia
-heuchelt Berzweiflung. Gch heuchele nicht: Ich bin ein Sklave
-von achtzehn Kanarienvogeln und einer Crdbeben-FSran;18ka,
+Aber Weber winkte energisch ab. »Sie möchten mich
+ausschalten … Bedauere! Wenn ich auch daheim gar nichts
+zu sagen habe, denn ich liebe den Frieden und kann mich mit
+Franziska nicht auf Boxkämpfe einlassen, so bleibt doch ein
+Mord eine Angelegenheit, die einem so unbedeutenden Menschen
+wie mir Aussichten eröffnet, die mit einem Anwaltshonorar
+nicht abgetan sind. — Graziosa Garzia ist tot. Ich habe
+vorhin die Klinik angerufen. Ihr Mann Schamil Garzia
+heuchelt Verzweiflung. Ich heuchele nicht: Ich bin ein Sklave
+von achtzehn Kanarienvögeln und einer Erdbeben-Franziska,
 <@pagebreak/>
 ihre Eigenart besteht nämlich darin, in der Wut mit den
-Süßen zu stampfen, und unsere Unterwohner schicken mir jeden
-Cag Nechnungen über kaputte Glühbirnen ihres Etzimmers,
-denn das Stampfen verträgt keine Birne. Ich bin außer-
-dent von Chrgeiz zerjressen, ich will vorwärts, aufwärts, sreie
-Bahn dem Cüchtigen — - - Sie wissen … Ich werde Schamil
+Füßen zu stampfen, und unsere Unterwohner schicken mir jeden
+Tag Rechnungen über kaputte Glühbirnen ihres Eßzimmers,
+denn das Stampfen verträgt keine Birne. Ich bin außerdem
+von Ehrgeiz zerfressen, ich will vorwärts, aufwärts, freie
+Bahn dem Tüchtigen — — Sie wissen … Ich werde Schamil
 Garzia zumindest ins Zuchthaus bringen, und ganz Berlin
-und Curopa und Posemucrkel einschließlich der sfinstersten »Dolackei
-werden von Weber reden, von ’Amatias Weber, der einen
-der uiederträchtigsten Morde aufgeklärt hat, die je verübt
-buiden.«
+und Europa und Posemuckel einschließlich der finstersten Polackei
+werden von Weber reden, von Amatias Weber, der einen
+der niederträchtigsten Morde aufgeklärt hat, die je verübt
+wurden.«
 
-Der spindeldürre zukünstige Polizeipräsident — vielleicht
-reichten seine Cräume so weit, obwohl derartige Cräume lich
-nur selten erfüllen — hatte sich in ein gewisses Seuer geredet,
-ohne dabei jedoch seine gewiß stark entwickelte Selbstbeherr-
-jhung zu verlieren.
+Der spindeldürre zukünftige Polizeipräsident — vielleicht
+reichten seine Träume so weit, obwohl derartige Träume sich
+nur selten erfüllen — hatte sich in ein gewisses Feuer geredet,
+ohne dabei jedoch seine gewiß stark entwickelte Selbstbeherrschung
+zu verlieren.
 
 Harst lag wieder mit ausgestreckten Beinen im Sessel
 und meinte gähnend:
 
 »Viel Glück von mir aus …!! — Der Herr hieß Doktor
-Erwin Sranz Klaus Gudden, besitzt in R. in der Mark dicht
-am Schloßpark und See ein uraltes Samilienhaus nebst Garten
+Erwin Franz Klaus Gudden, besitzt in R. in der Mark dicht
+am Schloßpark und See ein uraltes Familienhaus nebst Garten
 und interessiert mich nur deshalb, weil er an … Kleptomanie
 leidet. Er hat mir heute abend mein goldenes Zigarettenetui
-gemaust, und die beiden Caxichauffeure Jollen ihn stellen, um
+gemaust, und die beiden Taxichauffeure Sollen ihn stellen, um
 Herausgabe der Beute bitten und mir das Etui zurückbringen.
-Sch glaube, da »ind sie sehon … Es läutet … Gehe öjjnen,
-mein Alter …
+Ich glaube, da sind sie schon … Es läutet … Gehe öffnen,
+mein Alter …«
 
-Oie waren es, und ihr Bericht war kurz und erschöpsjend.
-Sie hatten Guddens Limousine den Weg versperrt, und ver
-Doktor hatte beschämt und unter vielen Cntschuldigungen
-das Ctui wieder herausgegeben.
+Sie waren es, und ihr Bericht war kurz und erschöpfend.
+Sie hatten Guddens Limousine den Weg versperrt, und der
+Doktor hatte beschämt und unter vielen Entschuldigungen
+das Etui wieder herausgegeben.
 
 Als Amatias Weber sich nachher verabschiedete, war er
-scheinbar um eine Hossnung ärmer geworden.
+scheinbar um eine Hoffnung ärmer geworden.
 
-Doch darüber will ich mich eingehender ausijassen …
-Jvater.
+Doch darüber will ich mich eingehender auslassen …
+später.
+
 <@pagebreak/>
 
 <h2>2. Kapitel.</h2>
 
 <h3>Um den Pappkopf.</h3>
 
-»Die Zumutung ist ja gewiß etwas stark bei dem Hunde-
-wetter«, meinte Harst, als wir im Flur kaum fünf Minuten
+»Die Zumutung ist ja gewiß etwas stark bei dem Hundewetter«,
+meinte Harst, als wir im Flur kaum fünf Minuten
 darauf in die Mäntel schlüpften. »Aber die Sache duldet
-Keinen Ausschub und wir haben uns bereits so manche Nacht
+Keinen Aufschub und wir haben uns bereits so manche Nacht
 um die Ohren geschlagen.«
 
-Ich war nicht weiter erstaunt, daß wir in der Neben-
-straße zwei Autokaxen fanden, deren ZSahrer das »Außer
-Betrieb« herumgeschwenkt hatten. - Es waren dieselben Leute,
+Ich war nicht weiter erstaunt, daß wir in der Nebenstraße
+zwei Autotaxen fanden, deren Fahrer das »Außer
+Betrieb« herumgeschwenkt hatten. Es waren dieselben Leute,
 die vorhin bei uns gewesen, und nun erst kam — jetzt zu
-meiner maßlojJen Überraschung — die Wahrheit an den Tag.
+meiner maßlosen Überraschung — die Wahrheit an den Tag.
 
 Der eine der Chauffeure (beide hatten von vornherein
 auf mich einen etwas eigentümlichen Eindruck gemacht) lachte
 uns augenzwinkernd an und sagte geradezu stolz: »Herr Harst,
-Oie haben doch wirklich einen seinen Niecher, aber auch wir
-machen dem »Argus« alte Ehre — stimmt schon! Wenn Sie
-mir nicht vor dem Kurfürstenkeller Ihr goldenes Ctui und
-die notigen Gnstruktionen gegeben hätten, wären wir bei
-Shnen in Gegenwart des mißtrauischen »Offiziellen« (er meinte
-Amatias Weber) doch etwas in Berlegenheit geraten Nun,
-davon ganz abgesehen, — wir haben Göhren Aufti … mit
-bestem Erfolq ausgesührt. Wir blieben zunächst vom Girkus
-bis zum Kursürstenkeller und dann bis zu Ihrem Hause hinter
+Sie haben doch wirklich einen feinen Riecher, aber auch wir
+machen dem »Argus« alle Ehre — stimmt schon! Wenn Sie
+mir nicht vor dem Kurfürstenkeller Ihr goldenes Etui und
+die nötigen Instruktionen gegeben hätten, wären wir bei
+Ihnen in Gegenwart des mißtrauischen »Offiziellen« (er meinte
+Amatias Weber) doch etwas in Verlegenheit geraten. Nun,
+davon ganz abgesehen, — wir haben Ihren Auftrag mit
+bestem Erfolg ausgeführt. Wir blieben zunächst vom Zirkus
+bis zum Kurfürstenkeller und dann bis zu Ihrem Hause hinter
 der Limousine. Nachdem Doktor Gudden Sie beide abgesetzt
 hatte, wandte er sich mit seinem flinken Wagen nach Dahlem,
-bielt hier vor dem alten Atelierhause Cke Neppacher Straße,
-Imloß den Wagen ab und kletterte über den Jaun. Droben
-in einem der Ateliers wurde es dann sür Minuten hell, und
+hielt hier vor dem alten Atelierhause Ecke Neppacher Straße,
+schloß den Wagen ab und kletterte über den Zaun. Droben
+in einem der Ateliers wurde es dann für Minuten hell, und
 gleich darauf stürmte Gudden wie ein Besessener zu seinem
 <@pagebreak/>
 Auto zurück und jagte weiter. Die Fahrt dauerte diesmal
-etwas länger, denn er machte erst mitten in dem neuen Villen-
-viertel von Beelithof am Wannsee halt, öffnete eigenhändig
-das Cor, brachte den Wagen in die Garage der. kleinen
+etwas länger, denn er machte erst mitten in dem neuen Villenviertel
+von Beelitzhof am Wannsee halt, öffnete eigenhändig
+das Tor, brachte den Wagen in die Garage der kleinen
 Villa, die offenbar ein früheres Klubheim eines verkrachten
-Nudervereins ist, und betrat die Holzvilla durch den Seiten-
-eingang. Tmmer genau nach Ohren Anweisungen handelnd,
+Rudervereins ist, und betrat die Holzvilla durch den Seiteneingang.
+Immer genau nach Ihren Anweisungen handelnd,
 blieben wir noch zehn Minuten in der Nähe und fuhren dann
-zu Ihuen …«
+zu Ihnen …«
 
 Die Chauffeure waren also Privatdetektive des großen
-Onstituts »Argus« und mußten schon vom Zirkus Busch an,
-wohin Harst sie doch offenbar jJchon am Tage beordert hatte,
+Instituts »Argus« und mußten schon vom Zirkus Busch an,
+wohin Harst sie doch offenbar schon am Tage beordert hatte,
 auf uns gewartet haben. Mithin mußte mein lieber Harst
-vorausgesehen haben, daß sich kf der Borstellung im Zirkus
+vorausgesehen haben, daß sich bei der Vorstellung im Zirkus
 etwas ereignen würde, und er hatte mich nach alter Unsitte
 wieder einmal nur halb eingeweiht — nicht einmal halb, nur
 zu einem Zehntel, höchstens.
 
-Gch war emport, und als wir nun, die zweite leere Caxe
-wieder hinter uns, gen Dahlem suhren, machte ic aus meinem
+Ich war empört, und als wir nun, die zweite leere Taxe
+wieder hinter uns, gen Dahlem fuhren, machte ich aus meinem
 Herzen auch weiter keine Mördergrube, und Harst bekam
-Borwürfe zu hören, die er mit erstaunlicher Dicksälligkeit
+Vorwürfe zu hören, die er mit erstaunlicher Dickfälligkeit
 hinnahm.
 
 »Klüger bist du vielleicht nicht geworden, mein Alter,
 aber entschieden gröber …«, war alles, was er erwiderte.
 
-»Sch will wissen, weshalb du die Argusleute schon am
-Cage bestellt hattest!«, beharrte ich grollend bei meiner gerech-
-tein Sorderung.
+»Ich will wissen, weshalb du die Argusleute schon am
+Tage bestellt hattest!«, beharrte ich grollend bei meiner gerechtem
+Forderung.
 
 »Weshalb …?! — — Ah, — — wir sind schon zur
-Stelle. Sch will dir nur jagen, daß ich mich außerordentlich
+Stelle. Ich will dir nur sagen, daß ich mich außerordentlich
 um ein Menschenleben sorge … — Komme mit!«
 
-Der ältere Ceil der Neppacher Straße, besonders das
+Der ältere Teil der Neppacher Straße, besonders das
 Grundstück mit dem alten Atelierhaus und den verwahrlosten
-Nebengebäuden, paßt nicht recht in das sonst qgeopfleate
-Bild dieses stillsten, vornehmsten Berliner Vor« it5 binein.
+Nebengebäuden, paßt nicht recht in das sonst so gepflegte
+Bild dieses stillsten, vornehmsten Berliner Vororts hinein.
 
-Es goß in Strömen, als Harst die Latkentür mit dem
+Es goß in Strömen, als Harst die Lattentür mit dem
 <@pagebreak/>
 Dietrich aufsperrte, nachdem er unsere beiden Verbündeten
-noch gefragt hatte, in weichem Atelier es hell geworden sei.
+noch gefragt hatte, in welchem Atelier es hell geworden sei.
 
-Der Haupteingang zum Atelierhause lag nach dem Hose
+Der Haupteingang zum Atelierhause lag nach dem Hofe
 zu, auf dem unter provisorischen Pappdächern einige fertige
-Marmorstatuen und —gruppen gespenstisch durch den Nebel
-schimmerten. Der Regen hatte plößlich wieder ausgeseßt, und
-die kalte Nacht erzeugte über dem seuchten Boden Streifen
+Marmorstatuen und Gruppen gespenstisch durch den Nebel
+schimmerten. Der Regen hatte plötzlich wieder ausgesetzt, und
+die kalte Nacht erzeugte über dem feuchten Boden Streifen
 von Nebelschwaden, die regungslos wie weißer Dampf über
 der Erde schwebten.
 
-Die Haupttür, ein zweifiügeliges Cor, besaß eine ein-
-gefügte Bretterpforte, — diese stand offen.
+Die Haupttür, ein zweiflügeliges Tor, besaß eine eingefügte
+Bretterpforte, — diese stand offen.
 
-Wir tappten die Creppe empor, Harst orientierte sich
-leicht, und an einer. zerkratzfen Atoliertür lasen wir den
+Wir tappten die Treppe empor, Harst orientierte sich
+leicht, und an einer zerkratzten Ateliertür lasen wir den
 Namen
 
-Walter Schütz,
+<p class="centered em">Walter Schütz,</p>
 
-Bildhauer.
+<p class="centered">Bildhauer.</p>
 
-Auch diese Cur war nur eingeklinkt,
+Auch diese Tür war nur eingeklinkt,
 
-ön dem Atelier sanden wir den nur mit einem FFlanell-
-schlasanzug bekleideten Schüß in einer geradezu grauenhasten
-Lage vor …
+In dem Atelier fanden wir den nur mit einem Flanellschlafanzug
+bekleideten Schütz in einer geradezu grauenhaften
+Lage vor.
 
-Schüß, ein jüngerer Künstler ohne die übliche geniale
-Colle, hing in einer Schlinge an einem Wandhaken und hatte
-in seiner Codesangst, um nicht vollig erwürgt zu werden
-gerade noch mit der linken großen Tehe einen anderen, ganz
-tief in die Wand eingeschlagenen Nagel als Stützpunkt er-
-wischt, und in dieser entsetzlichen Stellung bereits stunden-
-lang ausgeharrt. Der Nagel war ihm bis auf den HZehen-
-knochhen gedrungen, aber dieser junge Künstler un .« ganz von
-dem Schlage, selbst Höllenqualen zu ertragen. Crotz seines ge-
-dunsenen, blauroten Gesichts, trotz der ausgestandenen Codes-
-pein und der unnatürlichen Anspannung der Muskeln erholte
+Schutz, ein jüngerer Künstler ohne die übliche geniale
+Tolle, hing in einer Schlinge an einem Wandhaken und hatte
+in seiner Todesangst, um nicht völlig erwürgt zu werden
+gerade noch mit der linken großen Zehe einen anderen, ganz
+tief in die Wand eingeschlagenen Nagel als Stützpunkt erwischt,
+und in dieser entsetzlichen Stellung bereits stundenlang
+ausgeharrt. Der Nagel war ihm bis auf den Zehenknochen
+gedrungen, aber dieser junge Künstler war ganz von
+dem Schlage, selbst Höllenqualen zu ertragen. Trotz seines gedunsenen,
+blauroten Gesichts, trotz der ausgestandenen Todespein
+und der unnatürlichen Anspannung der Muskeln erholte
 er sich überraschend schnell, und schon nach zehn Minuten
-vermochte er uns in freilich nur jehr kurzen Säßen mit-
-zuteilen, was ihm zugestoßen war. — Er hatte sich um halb
+vermochte er uns in freilich nur sehr kurzen Sätzen mitzuteilen,
+was ihm zugestoßen war. — Er hatte sich um halb
 <@pagebreak/>
 elf zu Bett gelegt, hatte noch gelesen, war eingeschlafen, erhielt
-plotzlich einen Hieb über den Schädel, verlor halb da:«-
-wußtsein und kam erst zu sich, als ein Kerl mit einem wurren
+plötzlich einen Hieb über den Schädel, verlor halb das
+Bewußtsein und kam erst zu sich, als ein Kerl mit einem wirren
 grauen Vollbart und einer dunklen Brille ihn in die Schlinge
-an der Wand hob, ihu fallen ließ und eilends verschwand.
-Cin Zufall war es, daß Schütz mit der linken großen 52hbe
-den Nagel unten orwischte und sich dadurch vor dem ECrwürgt-
-werden retten kounte.
+an der Wand hob, ihn fallen ließ und eilends verschwand.
+Ein Zufall war es, daß Schütz mit der linken großen Zehe
+den Nagel unten erwischte und sich dadurch vor dem Erwürgtwerden
+retten konnte.
 
-Schwarzer Kassee, Kognak, Massage und Kompressen
+Schwarzer Kaffee, Kognak, Massage und Kompressen
 brachten den Ärmsten nach einer weiteren Stunde so weit
-zu Krästen, daß Harst, der die schwer verletzte große Zehe
-gründlich gesäubert und verbunden hatte, ihn eingehender aus-
-jragen konnte, wobei nun eine überraschende Catsache ans
-Licht kam, die den ganzen Salkmoch mehr verwirrte.
+zu Kräften, daß Harst, der die schwer verletzte große Zehe
+gründlich gesäubert und verbunden hatte, ihn eingehender ausfragen
+konnte, wobei nun eine überraschende Tatsache ans
+Licht kam, die den ganzen Fall noch mehr verwirrte.
 
 Schütz gab zu, daß, als er bereits längere Zeit halb in
-der Schlings. hing, ohne um Hilse rufen zu können, jemand ihn
-von der Atoliertür aus kurz mit der Taschenlampe beleuchtet
-und die tür schnell wieder zugedrückt habe.
+der Schlinge hing, ohne um Hilfe rufen zu können, jemand ihn
+von der Ateliertür aus kurz mit der Taschenlampe beleuchtet
+und die für schnell wieder zugedrückt habe.
 
-Vas war das eine. — Wer dieser Mann gewesen, wußten
-wir durch die Chaufseure: Gudden!!
+Das war das eine. — Wer dieser Mann gewesen, wußten
+wir durch die Chauffeure: Gudden!!
 
-Weit seltsamer jedoeh war des Künstlers Schilderung
-jener Beziehungen zu dem graubärtigen Henkersmann. -
-»Cs mag zwei Wochen her sein, da erschien spät abends gegen
-halb els dieser Granbart zum orsten Male bei mir. Er brachte
+Weit seltsamer jedoch war des Künstlers Schilderung
+jener Beziehungen zu dem graubärtigen Henkersmann. —
+»Es mag zwei Wochen her sein, da erschien spät abends gegen
+halb elf dieser Graubart zum ersten Male bei mir. Er brachte
 mir einen Marmorkopf mit, nach dem ich aus ähnlichem
-Material zwei völlig ähnliche Köpse herstellen sollte, zahlte
-josort fünfhundert Wark an, nannte weder Namen noch
+Material zwei völlig ähnliche Köpfe herstellen sollte, zahlte
+sofort fünfhundert Mark an, nannte weder Namen noch
 Wohnung und holte die beiden Köpfe und das Original dann
-nach drei Cagen wieder spät abends ab. — Der Marmor-
-Kopf stammte fraglos von einer älteren, Jehr gut ausgeführten
-Büste, war bereits durch Witterungseinslüsse leicht mit-
-genommen und dürfte viele Gahre im Freien gestanden haben
-— als Büste auf einem Sockel. Daß dieser Jelbe Mann, der
-mir für eine äußerst einsache Arbeit achthundert Mark be-
-zahlte, hinterher mich jet ermorden wollte, verstehe ich nicht.«
-<@pagebreak/>
+nach drei Tagen wieder spät abends ab. — Der Marmorkopf
+stammte fraglos von einer älteren, Sehr gut ausgeführten
+Büste, war bereits durch Witterungseinflüsse leicht mitgenommen
+und dürfte viele Jahre im Freien gestanden haben
+— als Büste auf einem Sockel. Daß dieser selbe Mann, der
+mir für eine äußerst einfache Arbeit achthundert Mark bezahlte,
+hinterher mich jetzt ermorden wollte, verstehe ich nicht.«
 
+<@pagebreak/>
 Der Bildhauer, wie die meisten Künstler ein recht naives
 Gemüt, vermochte über den Graubart selbst nichts Näheres
-anzugeben: Gebildete, heisere Sprache, aber sehr schlumpig ge-
-kleidet, nervöses häufiges Hüsteln und an den Händen gestopfte
+anzugeben: Gebildete, heisere Sprache, aber sehr schlumpig gekleidet,
+nervöses häufiges Hüsteln und an den Händen gestopfte
 Lederhandschuhe.
 
-Damit war nicht viel anzusangon.
+Damit war nicht viel anzufangen.
 
-Wertvoller jedoch erschien das, was er über den Marmor-
-kopf so allmählich preisgab, wobei Harst aus naheliegenden
-Eründen mit Jeinen Sragen sehr vorsichtig war. — Der Kopf
-jollte einen Mann mittleren Alters mit intelligenten, scharfen
-Jügen und Hängeschnurrbart, jo etwas weltmännischer Ge-
-sehrtentyp, dargestellt haben. Die Kieidung, die die Bülste,
+Wertvoller jedoch erschien das, was er über den Marmorkopf
+so allmählich preisgab, wobei Harst aus naheliegenden
+Gründen mit Seinen Fragen sehr vorsichtig war. — Der Kopf
+sollte einen Mann mittleren Alters mit intelligenten, scharfen
+Zügen und Hängeschnurrbart, so etwas weltmännischer Gelehrtentyp,
+dargestellt haben. Die Kleidung, die die Büste,
 von der der Modellkopf stammte, getragen hatte, entsprach
-nach der am Halse noch sichbar gewesenen, herausmodellierten
+nach der am Halse noch sichtbar gewesenen, herausmodellierten
 Art des Halskragens der Zeit um 1880 etwa. Das Haar
 war gescheitelt gewesen, der Graubart hatte jedoch — und
 dies war sehr bemerkenswert — für die Nachbildung aus
 einer elastischen Masse (der Künstler hatte eine besondere
 Mischung aus Papierbrei, Gips und Guttapercha benutzt)
-den Wegfall des Scheitels und einen kahlen Schädel ver-
-langt …
+den Wegfall des Scheitels und einen kahlen Schädel verlangt
+…
 
 Als Walter Schütz in seiner Ahnungslosigkeit uns dies
-mitteilte, war jedenfalls die eine Srage gelöst: Der eine der
+mitteilte, war jedenfalls die eine Frage gelöst: Der eine der
 Pappköpfe mußte derselbe sein, den wir heute im Zirkus
-auf der Lanzenspiße Schamil Garzias im Loöowenzwinger ge-
-jeben hatten!
+auf der Lanzenspitze Schamil Garzias im Löwenzwinger gesehen
+hatten!
 
-Über diese Dinge sprachen wir erst, nack -:a wir Schüß
-verlassen und ihm Stillschweigen anempfohlen vatten, wozu
-er sich um so eher bereit erklärte, als Harst ihm einen lohnen-
-den künstlerischen Auftrag zusagte, denn Schüß erging es
+Über diese Dinge sprachen wir erst, nachdem wir Schütz
+verlassen und ihm Stillschweigen anempfohlen hatten, wozu
+er sich um so eher bereit erklärte, als Harst ihm einen lohnenden
+künstlerischen Auftrag zusagte, denn Schütz erging es
 keineswegs zubest, wie er ehrlich eingestand.
 
-On unserer Taxe, wieder gefolgt von For zweiten, suhren
-wir jetzt bei boigem Wind und vereinzelten Regenschauern
-nach Beelißhof am Wannsee. Harst kannte keine Ermüdung,
-wenn er erst einmal auf einer Sährte war, und sein Zigaretten
+An unserer Taxe, wieder gefolgt von der zweiten, fuhren
+wir jetzt bei böigem Wind und vereinzelten Regenschauern
+nach Beelitzhof am Wannsee. Harst kannte keine Ermüdung,
+wenn er erst einmal auf einer Fährte war, und sein Zigarettenkonsum
 <@pagebreak/>
-konjum im Wagen entsprach durchaus seiner über« cßen
-geistigen Regsamkeit, mit der er mir nun schlagend bewies, daß.
+im Wagen entsprach durchaus seiner übergroßen
+geistigen Regsamkeit, mit der er mir nun schlagend bewies, daß
 Doktor Gudden unbedingt im Recht sei: Die Dompteuse war
-irgendwie einem heimtückischen Streich zum Opser gefallen.
-Seine Ausführungen faßte er schließlich in die knappen Säte
-nowmals zusammen:
+irgendwie einem heimtückischen Streich zum Opfer gefallen.
+Seine Ausführungen faßte er schließlich in die knappen Sätze
+nochmals zusammen:
 
-»Gudden hegt Berdacht, Gudden sucht unsere Bekannt-
-schaft, — nachher fährt Gudden zu Schüt, sieht ihn in der
-Ochlinge hängen, halt ihn sür tot, flüchtet, — also kannte er
-Schüß« Beziehungen zu dem »Graubart«, also muß er gewußt
-haben, daß Schhamil Garzias Pappkopf auf der Lanze von
-Ochüß gefertigt war. — Gudden ist nicht der Graubart. -
+»Gudden hegt Verdacht, Gudden sucht unsere Bekanntschaft,
+— nachher fährt Gudden zu Schütz, sieht ihn in der
+Schlinge hängen, hält ihn für tot, flüchtet, — also kannte er
+Schütz’ Beziehungen zu dem »Graubart«, also muß er gewußt
+haben, daß Schamil Garzias Pappkopf auf der Lanze von
+Schütz gefertigt war. — Gudden ist nicht der Graubart. —
 Der Kopf auf der Lanze Garzias ist als Sensationsrequisit
 der Schlußszene des Dressuraktes auch erst vor einer Woche
-eingesügt worden, bis dahin ritt Schamil ohne Kopf in den
-Owpinger. Das weiß ich, das beweisen auch die Reklame-
-plakate des Zirkus Busch. — Wer ist nun der Graubart?
-Ctwa Schamil selbst, der Gatte der Löwenbändigerin? Wohl
+eingefügt worden, bis dahin ritt Schamil ohne Kopf in den
+Zwinger. Das weiß ich, das beweisen auch die Reklameplakate
+des Zirkus Busch. — Wer ist nun der Graubart?
+Etwa Schamil selbst, der Gatte der Löwenbändigerin? Wohl
 kaum. Obgleich ich in diesem Punkte genau so wenig klar
-jehe wie in manchem anderen …«
+sehe wie in manchem anderen …«
 
-Der Weg von Dahlem über Hehlendorf und Nikolas-
-see nach Beelitzhof sührt an der bekannten Avus-Bahn, besser
-derem Ausgang, vorüber. Unser Chauffeur hielt plötzlich, klet-
-terte hinaus und flüsterte uns zu, daß der Cingang zu der
-Holzvilla dicht vor uns liege …
+Der Weg von Dahlem über Zehlendorf und Nikolassee
+nach Beelitzhof führt an der bekannten Avus-Bahn, besser
+deren Ausgang, vorüber. Unser Chauffeur hielt plötzlich, kletterte
+hinaus und flüsterte uns zu, daß der Eingang zu der
+Holzvilla dicht vor uns liege.
 
-Wir schhlihen zu Fuß eine schmale Privatstraße hinab,
-die beiderseits von hohen Gittern und alten Kastanien flan-
-kiert war. Linker Hand ragten hohe Schornsteine empor, und
+Wir schlichen zu Fuß eine schmale Privatstraße hinab,
+die beiderseits von hohen Gittern und alten Kastanien flankiert
+war. Linker Hand ragten hohe Schornsteine empor, und
 dem Geruch nach mußte sich dort eine Gasanstalt befinden.
 Das tote Laub der Bäume lag fußhoch auf dem ungepflegten
-Wege, und der wieder eiumal herabpeitschende Regen er-
-zeugte auf dieser Blätterschicht ein eintöniges, dumpfes Crom-
-uteln, jo daß «dere Geräusche davon völlig verschluckt wurden.
+Wege, und der wieder einmal herabpeitschende Regen erzeugte
+auf dieser Blätterschicht ein eintöniges, dumpfes Trommeln,
+so daß andere Geräusche davon völlig verschluckt wurden.
 
-Urplötiich riß Harst, den ich nur als Schatten vor mir
+Urplötzlich riß Harst, den ich nur als Schatten vor mir
 erkannte, mich dicht an das linke Gitter, — es gab gerade
 <@pagebreak/>
 hier ein paar fehlende Stäbe, und wir kollerten auf einen
 Koksberg, während auf der Privatstraße ein Auto ohne
 Lichter blitzschnell dahinschoß und uns zweifellos überfahren
 hätte, wenn Harst nicht noch rechtzeitig die Gefahr erkannt
-gehabt! hätte. Der Wagen kam aus der Richtung des See-
-ufers her, verschwand ebenso schnell, und gleich darauf ver-
-nahmen wir von dem Hauptwege, wo unsere Caxen und unsere
-Chauffeure warteten, ein paar laut gebrüllte Slüche und das
+gehabt hätte. Der Wagen kam aus der Richtung des Seeufers
+her, verschwand ebenso schnell, und gleich darauf vernahmen
+wir von dem Hauptwege, wo unsere Taxen und unsere
+Chauffeure warteten, ein paar laut gebrüllte Flüche und das
 scharfe metallische Splittern eines Kotflügels eines Autos.
 
-Harst lachte bissig. »Atteutat Nummer eins, — es wird
+Harst lachte bissig. »Attentat Nummer eins, — es wird
 noch mehr von der Sorte geben, glaube ich … Dieser Kopf
-aus der Cscherkessenlanze wird uns noch viel zu schaffen machen.
-- - Gehen wir weiter … und etwas six, mein Alter … Mir
-will dieser Owischenjall gar nicht recht gefallen. Guddens
-Auto war es nicht …
+aus der Tscherkessenlanze wird uns noch viel zu schaffen machen.
+— Gehen wir weiter … und etwas fix, mein Alter … Mir
+will dieser Zwischenfall gar nicht recht gefallen. Guddens
+Auto war es nicht …«
 
 Er begann zu laufen, und näher dem Wannsee zu wurde
 es etwas heller, wir erkannten die Holzvilla, das ehemalige
 Bootshaus, fanden die Pforte offen, ebenso die Haustür und
 drangen ohne weiteres ein, obwohl wir im ersten Stock zwei
-Senster erleuchtet sahen und es mithin der Anstand erfordert
-hätte, uns vorher bemerkbar zu machen. Harsts Cempo feuerte
-mich init an, wir slogen die Creppe empor, er stieß eine Cür
-linker Hand auf, und wir besanden uns in einem sehr be-
-scheiden inöblierten Raume, der zugleich Herrenzimmer, ECß-
-zimmer und Schlafstube vorstellte. Groß genug war er dazu.
+Fenster erleuchtet sahen und es mithin der Anstand erfordert
+hätte, uns vorher bemerkbar zu machen. Harsts Tempo feuerte
+mich mit an, wir flogen die Treppe empor, er stieß eine Tür
+linker Hand auf, und wir befanden uns in einem sehr bescheiden
+möblierten Raume, der zugleich Herrenzimmer, Eßzimmer
+und Schlafstube vorstellte. Groß genug war er dazu.
 
-Harst war wie der Blitz nebeu dem hinter eine … Wand-
-schirm stehenden Bett, packte zu und hob Doktor Gudden,
+Harst war wie der Blitz neben dem hinter einen Wandschirm
+stehenden Bett, packte zu und hob Doktor Gudden,
 der von der gebeizten Holzdecke an einem Strick herabhing
-und bereits tof zu sein schien, empor und zischte mir zu:
+und bereits tot zu sein schien, empor und zischte mir zu:
 
-»Schnell, lockere die Sehlinge …
+»Schnell, lockere die Schlinge …«
 
-Eine Stunde sspäter gab Gudden unter unseren eifrigen
+Eine Stunde später gab Gudden unter unseren eifrigen
 Händen die ersten schwachen Lebenszeichen von sich, und wieder
 nach einer Stunde war er vollkommen bei Besinnung.
 
-Gnzwischen hatte ich bereits festgestellt, daß das ehemalige
-Klübhaus im Erdgeschoß eine Garage, ferner einen Boots-
+Inzwischen hatte ich bereits festgestellt, daß das ehemalige
+Klubhaus im Erdgeschoß eine Garage, ferner einen Bootsschuppen
 <@pagebreak/>
-schuppen mit einer kleinen Motorjacht auf einem Boots-
-schlitten und die frühere Wohnung des Bootswartes ent-
-hielt, während die Klubräume im ersten Stock bis auf das
+mit einer kleinen Motorjacht auf einem Bootsschlitten
+und die frühere Wohnung des Bootswartes enthielt,
+während die Klubräume im ersten Stock bis auf das
 eine große Zimmer völlig leer standen. Außer Gudden, uns
-beiden und einem der Argus—Leute, den ich noch zur Hilfe
-herbeigeholt hatte, besand sich keine Menschenseele auf dem
-Orundstück.
+beiden und einem der Argus-Leute, den ich noch zur Hilfe
+herbeigeholt hatte, befand sich keine Menschenseele auf dem
+Grundstück.
 
-Der Chauffeur-Detektiv Beck war ein Mensch von viel-
-sjacher Erfahrung und zu allem brauchbar. In der kleinen
-Küche oben (sie enthielt nur Kafseegeschirr für zwei Per-
-Jonen, seinstes Porzellan, und einen Spirituskocher und einige
-Chßvorrätch teilte Beck mir mit, wie der dunkle Sportz;wei-
-jißer unheintlich überraschend aus der Privatstraße in den
+Der Chauffeur-Detektiv Beck war ein Mensch von vielfacher
+Erfahrung und zu allem brauchbar. In der kleinen
+Küche oben (sie enthielt nur Kaffeegeschirr für zwei Personen,
+feinstes Porzellan, und einen Spirituskocher und einige
+Eßvorräte) teilte Beck mir mit, wie der dunkle Sportzweisitzer
+unheimlich überraschend aus der Privatstraße in den
 Hauptweg eingebogen sei und dabei den einen Kotflügel der
-einen Taxe glatt wegrasiert habe. »Der Kerl in dem Sport-
-wagen fuhr wie der Satan, Herr Schraut, — dabei war es
+einen Taxe glatt wegrasiert habe. »Der Kerl in dem Sportwagen
+fuhr wie der Satan, Herr Schraut, — dabei war es
 ein alter, graubärtiger Knabe mit einer kleinen Brille, der
-reinste zerrauste Uhu! Aber wie gesagt, — fahren konnte er!«
-
-- »Örrauster Uhu« gefiel mir.
+reinste zerraufte Uhu! Aber wie gesagt, — fahren konnte er!«
+— »Zerraufter Uhu« gefiel mir.
 
 Also wieder der Graubart! Der Mann war entschieden
-mal irgendwo Henker gewesen. Erst hatte er Schütz aufge-
-Suüpst, nun noch Doktor Gudden, — wer kam jetzt an die
+mal irgendwo Henker gewesen. Erst hatte er Schütz aufgeknüpft,
+nun noch Doktor Gudden, — wer kam jetzt an die
+Reihe?!
 
 Als ich Harst diese Angaben Becks erzählte, machte er
-dazu ein ganz merkwürdiges Gesicht. Dann lief er zum Schreib-
-tisch, auf dem ein Celephon stand, und klappte sein Notizbuch
-aus, verlangte am Apparat das Amt Zentrum, Berlin, und
-eine hohe Nummer, in der mir die CEinqgangs-13 auffiel, und
-schrie den Gegenpartner am anderen Ende der Strippe wü-
-tend an: …
+dazu ein ganz merkwürdiges Gesicht. Dann lief er zum Schreibtisch,
+auf dem ein Telephon stand, und klappte sein Notizbuch
+auf, verlangte am Apparat das Amt Zentrum, Berlin, und
+eine hohe Nummer, in der mir die Eingangs-13 auffiel, und
+schrie den Gegenpartner am anderen Ende der Strippe wütend
+an:
 
 »Sie Schlafmütze …! Nachtportier wollen Sie sein!!
-Augenblicklich sehen Sie auf Herrn Garzias Gimmer nach, ob
-Herr Garzia bereits schläst … Ich muß ihn sprechen … Hier
-ist Zirkus Busch! Etwas schnell, — - - ich bleibe au: Apparatl«
+Augenblicklich sehen Sie auf Herrn Garzias Zimmer nach, ob
+Herr Garzia bereits schläft … Ich muß ihn sprechen … Hier
+ist Zirkus Busch! Etwas schnell, — — ich bleibe am Apparat!«
 
-Beck und ich beobachteten Harst gespannt, der, dei; Hörer
+Beck und ich beobachteten Harst gespannt, der, den Hörer
 <@pagebreak/>
-am Ohr, voller Ungeduld auf dem Schreibsessel umherrukschte
+am Ohr, voller Ungeduld auf dem Schreibsessel umherrutschte
 und eine Nervosität zeigte, die wohl sehr schwerwiegende, uns
-jreilich unverständliche Eründe haben mußte.
+freilich unverständliche Gründe haben mußte.
 
 Mit einem Male schwankte Doktor Gudden in seinem
-hellseidenen Schlafanzug wie ein Crunkener herbei und siel
-dem arästigen Beck buchstäblich in die Arme, So schwach war
-er no
+hellseidenen Schlafanzug wie ein Trunkener herbei und fiel
+dem kräftigen Beck buchstäblich in die Arme, So schwach war
+er noch
 
-… Lassen … lassen Sie … Garzia aus dem : : :Spiel«,
-lallte ’Gudden flehend und doch mit einer gewissen Gereiztheit.
-»Ich … ich bin … Ohnen ja Jo sehr dankbar … aber : : : wie
-gesagt … « ich schlief schon, und wer mich … aufknüpfte …
-weiß ich nicht … gar nichts … weiß ich …
+»… Lassen … lassen Sie … Garzia aus dem … Spiel«,
+lallte Gudden flehend und doch mit einer gewissen Gereiztheit.
+»Ich … ich bin … Ihnen ja So sehr dankbar … aber … wie
+gesagt …, ich schlief schon, und wer mich … aufknüpfte,…
+weiß ich nicht … gar nichts … weiß ich …«
 
-Gudden hing in Becks Armen wie ein bilfloses Kind.
+Gudden hing in Becks Armen wie ein hilfloses Kind.
 
 Er weinte fast, als Harst nun in den Hörer rief:
 
-»Ab — — nicht auf seinem Zimmer?l Noch. gar nicht
-ins Hotel zurückgekehrt …? — — 3a, daß Graziosa Garzia
-tot ist, wissen wir.
+»Ah — — nicht auf seinem Zimmer?! Noch gar nicht
+ins Hotel zurückgekehrt …? — — Ja, daß Graziosa Garzia
+tot ist, wissen wir …«
 
 Gudden stieß Beck bei Seite. Er entwickelte plötzlich
-Niesenkräfte, aber ausschchließlich der seelische Antrieb war
+Riesenkräfte, aber ausschließlich der seelische Antrieb war
 es, der seine Schwäche überwunden und der ihn gleichzeitig das
 eine hatte verraten lassen, was mich nicht weiter mehr in
-Crstaunen setzte.
+Erstaunen setzte.
 
-Cr war bis zum Schreibtisch gekommen, hatte sich auf die
+Er war bis zum Schreibtisch gekommen, hatte sich auf die
 Kante gelehnt, und wollte Harst den Hörer entreißen.
 
-»Sie … ist tot …?l«, flüsterte er dabei, und jJeine Stimme
-enthielt Jo »unendlichen Jammer, jo viel echtes, tiefe: Herze-
-loid, daß der Argus—Mann Beck scheu zur Seite bliu.;:.
+»Sie … ist tot …?!«, flüsterte er dabei, und seine Stimme
+enthielt So unendlichen Jammer, so viel echtes, tiefes Herzeleid,
+daß der Argus—Mann Beck scheu zur Seite blickte.
 
-Harst wehrte ihn voller Ceilnahme ab. »Es hätte keinen
-Öwbek, Doktor, noh mit dem Hotelportier zu sprechen.« Er
-loate den Hörer auf die Gabel und jJchob Gudden den Schreib-
-Jessel hin. »Setzen Sie sich doch bitte … Sie haben GrazioJa
-Garzia gekannt, und Ohre Beziehungen zu ihr dürften über
-den engen Raum einer flüchtigen Bekanntschaft hinausgegan-
-gen Jein. Mein aufrichtiges, »Beileid, Doktor … War Gra-
-ziosa öhnen Freundin, sso …
+Harst wehrte ihn voller Teilnahme ab. »Es hätte keinen
+Zweck, Doktor, noch mit dem Hotelportier zu sprechen.« Er
+legte den Hörer auf die Gabel und schob Gudden den Schreibsessel
+hin. »Setzen Sie sich doch bitte … Sie haben Graziosa
+Garzia gekannt, und Ihre Beziehungen zu ihr dürften über
+den engen Raum einer flüchtigen Bekanntschaft hinausgegangen
+Sein. Mein aufrichtiges Beileid, Doktor … War Graziosa
+Ihnen Freundin, so …«
+
 <@pagebreak/>
+Klaus Gudden, der doch offenbar bereits im Zirkus uns
+nachher Beweise einer ungewöhnlichen Selbstbeherrschung geliefert
+hatte (Graziosa mußte ihm Sehr viel bedeutet haben)
+saß kerzengerade im Sessel und erwiderte nur mit einer verbissenen
+Hartnäckigkeit, die sogar in der völlig heiseren Stimme
+zu spüren war: »Ich kenne diese Frau nur vom Sehen, aber
+mein Gerechtigkeitsgefühl verlangt, daß ich ihren Gatten
+schütze, der unglaublich eifersüchtig und jähzornig gewesen
+sein soll.«
 
-Klaus Gudden, der doch offenbar bereits im Zirkus um
-nachher Beweise einer ungewöhnlichen Selbstbeherrschung ge-
-liefert hatte (Grazioja mußte ihm Jehr viel bedeutet haben)
-jaß kerzengerade im Sessel und erwiderte nur mit einer ver-
-bissenen Hartnäckigkeit, die sogar in der völlig heiseren Stimm!
-zu spüren war: »Ich kenne diese Srau nur vom Sehen, abe!
-mein Gerechtigkeitsgefühl verlangt, daß ic ihren Gatter
-Jeb der unglaublich eiserjüchtig und jähzornig gewesen
-cin joli.«
-
-Harst nickte Gudden nur ganz schwach aber voller Ber-
-ständnis zu. »Doktor, die Dinge sind in ein Stadium ge-
-treten, in dem wir die Polizei nicht mehr ausschalten können.
-Sie werden aussagen inüssen … Ich dränge mich Ihnen nicht
-auf … Ommerhin würde ich e5- für besser halten, Sie sprachen
-zuerst mit uns.
+Harst nickte Gudden nur ganz schwach aber voller Verständnis
+zu. »Doktor, die Dinge sind in ein Stadium getreten,
+in dem wir die Polizei nicht mehr ausschalten können.
+Sie werden aussagen müssen … Ich dränge mich Ihnen nicht
+auf … Immerhin würde ich es für besser halten, Sie sprächen
+zuerst mit uns.«
 
 Gudden behielt die kühl ablehnende Haltung bei:
 
-»odch habe nichts auszusagen … 0«. erklärte er fest. »Cun
-Sie, was Sie für richtig halten …
+»Ich habe nichts auszusagen …«, erklärte er fest. »Tun
+Sie, was Sie für richtig halten …«
 
-Cr lehnte jede weitere Eitfeleistung ab, bedankte sich und
-gab uns zu verstehen, daß er allein sein wollte. Wir ver-
-abschiedeten uns, und hiermit schien diese unfreundliche Herbst -
-nacht ihr Ende erreicht zu haben.
+Er lehnte jede weitere Hilfeleistung ab, bedankte sich und
+gab uns zu verstehen, daß er allein sein wollte. Wir verabschiedeten
+uns, und hiermit schien diese unfreundliche Herbstnacht
+ihr Ende erreicht zu haben.
 
 Ich täuschte mich.
 
@@ -710,417 +709,420 @@ Ich täuschte mich.
 
 <h3>Der Originalkopf.</h3>
 
-Harst ließ unsere beiden Caxen unweit der Privatstraße
+Harst ließ unsere beiden Taxen unweit der Privatstraße
 an eine dunkle Stelle des Hauptweges bringen und verließ uns
-Jofort wieder. Kaum zehn Minuten darauf sauste Guddenus
-Onnensteuerlimousine, die biszher in dem früheren Boots-
-Ichuppen des Holzhauses gestanden hatte, mit blendenden ch-Hoin-
+Sofort wieder. Kaum zehn Minuten darauf sauste Guddens
+Innensteuerlimousine, die bisher in dem früheren Bootsschuppen
+des Holzhauses gestanden hatte, mit blendenden Scheinwerfern
 <@pagebreak/>
-wersern aus der Privatstraße hervor und schoß auf deu Ein-
-gang der Avus-’Bahn zu. Der Privatdetektiv Beck meinte
+aus der Privatstraße hervor und schoß auf den Eingang
+der Avus-Bahn zu. Der Privatdetektiv Beck meinte
 anerkennend: »Der Graubart-Uhu konnte fahren, — Gudden
-jährt noch besser, der hat seinen Wagen sabelhaft in der
-Hand, die kurze Schwenkung loeben mache ich ihm nicht
-nach.« — Diese Anerkemung wollte etwa« bedeuten, denn
+fährt noch besser, der hat seinen Wagen fabelhaft in der
+Hand, die kurze Schwenkung soeben mache ich ihm nicht
+nach.« — Diese Anerkennung wollte etwas bedeuten, denn
 Beck selbst war ein glänzender Chauffeur.
 
-Sekunden spöter stand Harsi vor uns. Er trug ein Paket
-im Arm, und seine Srage an »Beck klang ungewohnt scharf:
-»Sst eine der Caxen imstande, dier Lintousine zu überholen«
-ien fahrt sicherlich nach N., und in zwei Stunden läßt
+Sekunden später stand Harst vor uns. Er trug ein Paket
+im Arm, und seine Frage an Beck klang ungewohnt scharf:
+»Ist eine der Taxen imstande, der Limousine zu überholen?
+Gudden fährt sicherlich nach R., und in zwei Stunden läßt
+sich …«
 
-Beck deutete schon auf] den Wagen, den er gesteuert
-hatte. »ch schaffe es, — einsteigen, meine Herren!«
+Beck deutete schon auf den Wagen, den er gesteuert
+hatte. »ich schaffe es, — — einsteigen, meine Herren!«
 
-Die andere Caxe wurde heimgeschickt, und es begann nun
-ein Wettrennen, das sich mir in manchen Cinzeslheiten jest ein-
-geprägt hat.
+Die andere Taxe wurde heimgeschickt, und es begann nun
+ein Wettrennen, das sich mir in manchen Einzelszenen fest eingeprägt
+hat.
 
-Wir gewannen … Schon vor Oranienburg waren wir
+*Wir* gewannen … Schon vor Oranienburg waren wir
 dicht hinter Guddens Limousine, und zehn Kilometer weiter
-jagten wir einsam die keinesweags mustergültige Chaussee
-eiitlang, deren Ceerbelag wohl infolge des Lastkrastwagen-
-verkehrs stark mitgenommen war. Freilich hatte der Doktor
-es jet gar nicht mehr so sehr eilig, wenn er auch immerhin
-seine jechzig Kilometer Geschwindigkeit beibohie!t.
+jagten wir einsam die keineswegs mustergültige Chaussee
+entlang, deren Teerbelag wohl infolge des Lastkraftwagenverkehrs
+stark mitgenommen war. Freilich hatte der Doktor
+es jetzt gar nicht mehr so sehr eilig, wenn er auch immerhin
+seine sechzig Kilometer Geschwindigkeit beibehielt.
 
-Es war noch dunkler, als wir das beriüi : ’v inärkische
-»Städtchen orreichten und jet gemachlich an dem , : oßen, park-
-ähnlichen Marktplatz vorüber, das Schloß zur Linken lassend,
+Es war noch dunkler, als wir das berühmte märkische
+Städtchen erreichten und jetzt gemächlich an dem großen, parkähnlichen
+Marktplatz vorüber, das Schloß zur Linken lassend,
 die Straße passierten, deren Grundstücke nach der einen Seite
-an den See stoßen. ’Byock hielt, wir gingen hundert Schritt
-zurück, und der kleine Borgorieu mit der hohen Hecke und dem
+an den See stoßen. Beck hielt, wir gingen hundert Schritt
+zurück, und der kleine Vorgarten mit der hohen Hecke und dem
 altertümlichen Gitter und der kunstvoll geschmiedeten Pforte
-war hier so ziemlich der einzige Privatbesitt, der als »Haus
+war hier so ziemlich der einzige Privatbesitz, der als »Haus
 Gudden« in Betracht kam.
 
-Cs regnete wieder, es war noch kühler geworden, und da
-Harst während der ganzen Fahrt fest geschlafen und jede Un-
+Es regnete wieder, es war noch kühler geworden, und da
+Harst während der ganzen Fahrt fest geschlafen und jede Unterhaltung
 <@pagebreak/>
-terhaltung abgelehnt hatte, während ich nur im Halbschlaf
-zeitweije das Ungewöhnliche dieser Hetzjagd vergessen konnie,
-zeigte er sich jo frisch und unternehmungslustig wie stets und
-hatte für meine arge Müdigkeit nur ein paar bissige Bemer-
-kungen übrig.
+abgelehnt hatte, während ich nur im Halbschlaf
+zeitweise das Ungewöhnliche dieser Hetzjagd vergessen konnte,
+zeigte er sich so frisch und unternehmungslustig wie stets und
+hatte für meine arge Müdigkeit nur ein paar bissige Bemerkungen
+übrig.
 
-… Du wirst schon wieder mobil werden, warte nur ab
-Die Morphiumsprite kommt schon …«, meinte er unter an-
-derem, als er nun äußerst vorsichtig das Messingschild an dem
+»… Du wirst schon wieder mobil werden, warte nur ab
+Die Morphiumspritze kommt schon …«, meinte er unter anderem,
+als er nun äußerst vorsichtig das Messingschild an dem
 einen Torpfosten ableuchtete und dann den Dietrich in das
-Schlüsselloch der Gitlterpforte schob.
+Schlüsselloch der Gitterpforte schob.
 
-Knacken, - - die Pforte schwang ohne jedes Kreischen
-
+Ein Knacken, — — die Pforte schwang ohne jedes Kreischen
 auf, und wir standen auf fremden Boden.
 
-»Gut geölt alles«, tuschelte, Da mir zu, der jetzt noch
-die Cürgelenke besichtigte. »or gut geölt, mein Alter …-
-Gefällt mir nicht … Läßt sich aber nicht ändern …
+»Gut geölt alles«, tuschelte Harst mir zu, der jetzt noch
+die Türgelenke besichtigte. »Zu gut geölt, mein Alter …
+Gefällt mir nicht … Läßt sich aber nicht ändern …«
 
-Cr 309g mich einen Weg entlang, der um das düstere Ge-
-baude in den ausgedehnten Häuptgarten sührte, dessen Cer-
-rassen sich bis zum See hinab erstreckten.
+Er zog mich einen Weg entlang, der um das düstere Gebäude
+in den ausgedehnten Hauptgarten führte, dessen Terrassen
+sich bis zum See hinab erstreckten.
 
-Die größte Gesahr sür uns bedeuteten hier Hunde. Falls
-Gudden sich auch nur einen einzigen scharfen Wachhund hieit,
+Die größte Gefahr für uns bedeuteten hier Hunde. Falls
+Gudden sich auch nur einen einzigen scharfen Wachhund hielt,
 konnte es allerlei Unannehmlichkeiten geben. Harst rechnete
-wohl auch mit dem Borhandensein eines solehen Cieres, doim
+wohl auch mit dem Vorhandensein eines solchen Tieres, denn
 das Paket, das er im Auto neben sich gelegt hatte, waren zwei
-Wolldecken gewesen, die or aus Guddens Holzvilla am Wann-
-see entliehen hatte. Diese Decken hielt er jetzt halb ausge-
-breitet vor sich, um sie jeder Heit zur Abwehr eines Angrisfs
-denußen zu können, — mithin eine recht kitlliche Situation,
+Wolldecken gewesen, die er aus Guddens Holzvilla am Wannsee
+entliehen hatte. Diese Decken hielt er jetzt halb ausgebreitet
+vor sich, um sie jeder Zeit zur Abwehr eines Angriff
+benutzen zu können, — mithin eine recht kitzliche Situation,
 die, falls wir Pech hatten, auf einer Polizeiwache enden
 konnte.
 
-Sch blieb dicht hinter Harst, der für meinen Geschmack
-mit allzu großer Unversrorenheit nun die Creppe zu di
-großen, altanähnlichen Hausterrasse emporstieg, plotzlich 10doch
-leicht zurückfuhr und sick noch tiefer zusammenduckte… Crofß
-des plätschernden Geräusches des nmiederströmenden Rogens
-und troß des Ranschens und Knarrens der boroits ontsaubter
+Ich blieb dicht hinter Harst, der für meinen Geschmack
+mit allzu großer Unverfrorenheit nun die Treppe zu der
+großen, altanähnlichen Hausterrasse emporstieg, plötzlich jedoch
+leicht zurückfuhr und sich noch tiefer zusammenduckte. Trotz
+des plätschernden Geräusches des niederströmenden Regens
+und trotz des Rauschens und Knarrens der bereits entlaubten
 <@pagebreak/>
-Parkbäume vernahm ich jet ein dumpfes Stöhnen und er-
-kannte auch jeßt vor uns auf den Steinstufen oin dunkles
-Etwas, das zuweilen sich regte und doch der Eröße nach kein
+Parkbäume vernahm ich jetzt ein dumpfes Stöhnen und erkannte
+auch jetzt vor uns auf den Steinstufen ein dunkles
+Etwas, das zuweilen sich regte und doch der Größe nach kein
 menschliches Wesen sein konnte.
 
-»Ein Hund«, zischelte Harst mir zu. »Cin sehr großer
+»Ein Hund«, zischelte Harst mir zu. »Ein sehr großer
 Schäferhund … betäubt … durch einen Hieb … Denke an
-die allzu aut geölte Pforte …«
+die allzu gut geölte Pforte …«
 
-Ob ich daran dachtel
+Ob ich daran dachte!
 
-Ich begriff alles: Wir wa1ion hier nicht die einzigen auf
+Ich begriff alles: Wir warten hier nicht die einzigen auf
 Guddens Grundstück, und der, der die Pforte so übermäßig
-geschmiert hatte, mußte auch den Sjund niedergeschlagen haben
+geschmiert hatte, mußte auch den Hund niedergeschlagen haben
 und konnte noch in der Nähe sein.
 
-Harald kroch die Stujen weiter hinan und betastete das
-stoShnende TCier.
+Harald kroch die Stufen weiter hinan und betastete das
+stöhnende Tier.
 
-»Kopfhied — — Gummiknüttel«, erklärte er hastig.
-»Sasse mit an … Der arme Kerl holt sich hier eine böse
+»Kopfhieb — — Gummiknüttel«, erklärte er hastig.
+»Fasse mit an … Der arme Kerl holt sich hier eine böse
 Lungenentzündung. Wir brauchen die Wolldecken nicht mehr.
 Hüllen wir ihn ein …«
 
-Das war rajch getan.
+Das war rasch getan.
 
-»Möchtest du mir nicht erklären«, siüstertie ich hastig, um
-endlich vollig klar zu sehen, »was wir hier wollen …?1«
+»Möchtest du mir nicht erklären«, flüsterte ich hastig, um
+endlich völlig klar zu sehen, »was wir hier wollen …?!«
 
-»Das Original ssuchen …«, lautete die kurze Antwort.
+»Das Original suchen …«, lautete die kurze Antwort.
 
-Dann sschob er sich noch höher die Stusen hinan und wandte
-sich nach links, wo aus der Brüstung der Cerrasse trotz der
-Dunkelheit in regelmäßigen Abstanden hohe Steinbüsten zu
+Dann schob er sich noch höher die Stufen hinan und wandte
+sich nach links, wo auf der Brüstung der Terrasse trotz der
+Dunkelheit in regelmäßigen Abständen hohe Steinbüsten zu
 erkennen waren.
 
 Wenn dieses nächtliche Abenteuer in R. mir bisher so
-manches zu rafen aufgegeben hatte, jetzt fielen auch die letzten
+manches zu raten aufgegeben hatte, jetzt fielen auch die letzten
 Hüllen, und ich verstand vollkommen, was Harst mit »Original«
 gemeint hatte.
 
 Doch auch der, der hier vor uns eingedrungen, gab sich
 jetzt eine Blöße, die kennzeichnend genug war.
 
-Keine acht Schritte vor uns kauchte mit einem Male der
+Keine acht Schritte vor uns tauchte mit einem Male der
 Oberkörper eines Mannes auf, der mit hochgereckten Händen
-die gerade vor ihm befindliche Büste betastete und 25 schließlich
+die gerade vor ihm befindliche Büste betastete und es schließlich
 <@pagebreak/>
-jogar wagte, einen Leuchtstab einzuschalten. Nur für Se-
-kunden blitzte ein dünner Lichtstreisen auf, dann schhmetterte
-die Saust des Mannes auch sschon gegen den Kopf der Büste,
+sogar wagte, einen Leuchtstab einzuschalten. Nur für Sekunden
+blitzte ein dünner Lichtstreifen auf, dann schmetterte
+die Faust des Mannes auch schon gegen den Kopf der Büste,
 der Kopf flog hinab in die kahlen Magnoliensträucher, schlug
-dumpf auf, und Sekunden sspäter ereignete sich das, was uns
-beide zu schleunigster Slucht zwang.
+dumpf auf, und Sekunden später ereignete sich das, was uns
+beide zu schleunigster Flucht zwang.
 
 Der Mann vor uns hatte sich noch nicht wieder gebückt,
-üuls auch schon von der anderen Seite der Terrasse ein starker
-Ocheinwerfser seine Person in grelles Licht »tauchte und eine
-vesehlende Stimme drohend rief: »Hier Polizei, — — stehen
+als auch schon von der anderen Seite der Terrasse ein starker
+Scheinwerfer seine Person in grelles Licht tauchte und eine
+befehlende Stimme drohend rief: »Hier Polizei, — — stehen
+bleiben!«
 
-eiben!« …
-
-Ich war vollkommen gelähmt … Ich hatte Böses vor-
-ausgeahnt, meine Ahnung hatte sich bestätigt. Zum Glück hatte
-Harst bessere Nerven, — wir kauerten außerhalb des Licht-
-kegels, und ein Nippenstoß, den ich noch tagelang spürte, brachte
-mich rechtzeitig zur Besinnung, Harst zerrte mich zur Creppe,
-wir rutschien die nassen Stufen hinunter, und dort« wo der
-Hund unter den Decken stöhnend lag, hatte die CTreppenbrüstung
+Ich war vollkommen gelähmt … Ich hatte Böses vorausgeahnt,
+meine Ahnung hatte sich bestätigt. Zum Glück hatte
+Harst bessere Nerven, — wir kauerten außerhalb des Lichtkegels,
+und ein Rippenstoß, den ich noch tagelang spürte, brachte
+mich rechtzeitig zur Besinnung, Harst zerrte mich zur Treppe,
+wir rutschten die nassen Stufen hinunter, und dort, wo der
+Hund unter den Decken stöhnend lag, hatte die Treppenbrüstung
 eine Ausbuchtung, gerade dort stand auch eine starke Linde, und
 Harst schob sich eilends über die Brüstung, glitt an dem Baume
-herab, ich folote. — — keinen Augenblick zu früh, da es
-jet auch auf rer Crepvenseite lebendig wurde.
+herab, ich folgte, — — keinen Augenblick zu früh, da es
+jetzt auch auf unserer Treppenseite lebendig wurde.
 
-Wie wir uäüchher über das Gitter und durch die Hecke
-und in unsere Caxe gelangten, all das sind für mich nur sehr
-verschwommene Eindrücke. öch kam erst wieder einigermaßen
+Wie wir nachher über das Gitter und durch die Hecke
+und in unsere Taxe gelangten, all das sind für mich nur sehr
+verschwommene Eindrücke. Ich kam erst wieder einigermaßen
 zu mir, als unser Auto das Städtchen bereits verlassen hatte.
 
-Harst?l!
+Harst?!
 
-… Schliefl
+… Schlief!
 
 Um sieben Uhr waren wir daheim, um halb acht lag ich
-mn Bett, — vernünftige Leute stehen zu dieser Zeit auf oder
-jrühstücken, uwernünftige schlagen sich mit einem Problem
+im Bett, — vernünftige Leute stehen zu dieser Zeit auf oder
+frühstücken, unvernünftige schlagen sich mit einem Problem
 herum, das bisher recht aussichtslos erschien.
 
-»Wer war der Graubart-Uhu«l!
+Wer war der Graubart-Uhu?!
 
-Wie war Sraziosa Garzia ermordet worden?!
+Wie war Graziosa Garzia ermordet worden?!
+
 <@pagebreak/>
-
-… Sm grellen Scheinwerserlicht hatte ich auf Guddens
-Cerrasie den Umu erkauntkt.
+… Im grellen Scheinwerferlicht hatte ich auf Guddens
+Terrasse den Uhu erkannt.
 
 Den Uhu?! — Beck hatte ihn so getauft. — Wer war
-der Man«!
+der Mann?!
 
-— Zlittags ein Uhr wußte ich es.
+— Mittags ein Uhr wußte ich es.
 
-Ve Berliner Mittagspost hatte den offiziellen Polizei-
-dericht bereits auf der ersten Seite in Zottdruck gebracht, und
-Harli und ich lasen ihn, während unsere dicke Mathilde unser
-vei]patetes Srübstüick mit allerlei anzüglichen Bemerkungen
+Sie Berliner Mittagspost hatte den offiziellen Polizeibericht
+bereits auf der ersten Seite in Fettdruck gebracht, und
+Harst und ich lasen ihn, während unsere dicke Mathilde unser
+verspätetes Frühstück mit allerlei anzüglichen Bemerkungen
 über nächtliche Bummelfahrten würzte und Harsts Mutter
-mit recht eisigem Gesicht uns Gesellschaft leistete, da ihr Cin-
-ziger diesmal durchaus mit der Wahrheit hinter dem Berge
-hielt und behauptet hatte, wir hatten eine Streife durch die
-Ber.iner Rachtlokole hinter uns.
+mit recht eisigem Gesicht uns Gesellschaft leistete, da ihr Einziger
+diesmal durchaus mit der Wahrheit hinter dem Berge
+hielt und behauptet hatte, wir hätten eine Streife durch die
+Berliner Nachtlokale hinter uns.
 
-»Sa, danach sehen die Anzüge und die Mäntels und die
-Otiebel auch aus!!«, hatte Mathilde gehöhnt. »So voll Dreck
+»Ja, danach sehen die Anzüge und die Mäntels und die
+Stiebel auch aus!!«, hatte Mathilde gehöhnt. »So voll Dreck
 sind die Sachens, daß ich stundenlang …«
 
-»Beginnen Sie Josort mit der Säuberung, liebe Mathilde«,
-meinte Harst uneutwegt freundlich. »Sofort!! Und salls jemand
+»Beginnen Sie Sofort mit der Säuberung, liebe Mathilde«,
+meinte Harst unentwegt freundlich. »Sofort!! Und falls jemand
 fragt: Keine Silbe von den beschmutzten Sachen — verstanden!«
 
 Mathilde hatte uns gegenüber gewiß einen großen Mund,
-aber dieses »Berstanden!« kannte sie, dann hörte die Gemüt-
-lichkeit auf.
+aber dieses »Verstanden!« kannte sie, dann hörte die Gemütlichkeit
+auf.
 
 <h2>4. Kapitel.</h2>
-<h3>Was die Geitung schrieb.</h3>
-Der Polizeibericht lautete (auch den Senf fixen
-Reporters jüge ich noch bei):
-Der Tod der Löwenbändigerin — ein Word.
+<h3>Was die Zeitung schrieb.</h3>
 
-Der gestrige schwere Unsjall der Dompteuse Graziosa
+Der Polizeibericht lautete (auch den Senf des fixen
+Reporters füge ich noch bei):
+
+*Der Tod der Löwenbändigerin — ein Mord.*
+
+> Der gestrige schwere Unfall der Dompteuse Graziosa
 Garzia im Zirkus Busch hat durch die Ermittlungen der
-Kriminalpolizei, die mit erfreulichem Crsolg gearbeitet
+Kriminalpolizei, die mit erfreulichem Erfolg gearbeitet
 <@pagebreak/>
-haf, ein gänzlich verändertes Aussehen erhalten, so dak
-man jetzt mit allei Bestimmtheit von einem äußerst rassu-
-nierten Morde sprechen kam. -
-Wir geben zunächst den Polizeiber cht wieder:
-Berhaftung Schhamil darzias.
+hat, ein gänzlich verändertes Aussehen erhalten, so daß
+man jetzt mit aller Bestimmtheit von einem äußerst raffinierten
+Morde sprechen kam. —
 
-Der plötzliche Wutansall des 298 eu Nero während
-der gestrigen Dressurvorführung im ZGirkus Busch ist,
+> Wir geben zunächst den Weltteilen echt wieder:
+
+<p class="centered em">Verhaftung Schamil Garzias.</p>
+
+> Der plötzliche Wutanfall des Löwen Nero während
+der gestrigen Dressurvorführung im Zirkus Busch ist,
 wie einwandfrei erwiesen, darauf zurückzuführen, daß
-Ochamil Garzia, der Chemann der grtöteten Dompteuse,
-dem Löwen mit Hilse einer besonde:en Borrichtung an
-seiner Lanze mit dem ausgesteckten Papxkopf verdünnte
-Saure in die Augen gespritzt hat. — ’Der im ZHirkus
-dienstlich anwesende Kriminalassistent 2 natias Weber,
-der zum TCaschendiebstahlsdezernat geb8«t, hatte beob
-achtet, daß -aus dem Pappkopf ein seinet Strahl hervor-
-jchoß, der den Löwen Nero tras. Assisten! Weber handelte
-außerst besounen, als er diese Beobach: ung zunächst für
-sich behielt und an das wichtigste dachte: Vie Lanze und
-den Pappkopf sicher zu siellen, währe d Garzia seine
-Grau in eine Klinik brachte. Nochh wäarend der Bor-
-stellung verständigte Weber seine Borgej2bten, und Kri
-minalkommissar Verneborg beschlaquahmte unaussällig die
-hoble Bambuslanze und den Pappkopj, kam jedoch zu
-jpat, Garzia noch in der Klinik zu verhaften, wo die
-Bändigerin bereits kurz nach ihrer Einlieferung gestor-
-beu war.
+Schamil Garzia, der Ehemann der getöteten Dompteuse,
+dem Löwen mit Hilfe einer besonderen Vorrichtung an
+seiner Lanze mit dem aufgesteckten Papxkopf verdünnte
+Säure in die Augen gespritzt hat. — Der im Zirkus
+dienstlich anwesende Kriminalassistent Amatias Weber,
+der zum Taschendiebstahlsdezernat gehört, hatte beobachtet,
+daß aus dem Pappkopf ein feiner Strahl hervorschoß,
+der den Löwen Nero traf. Assistent Weber handelte
+äußerst besonnen, als er diese Beobachtung zunächst für
+sich behielt und an das wichtigste dachte: Die Lanze und
+den Pappkopf sicher zu stellen, während Garzia seine
+Frau in eine Klinik brachte. Noch während der Vorstellung
+verständigte Weber seine Vorgesetzten, und Kriminalkommissar
+Derneborg beschlagnahmte unauffällig die
+hohle Bambuslanze und den Pappkopf, kam jedoch zu
+spät, Garzia noch in der Klinik zu verhaften, wo die
+Bändigerin bereits kurz nach ihrer Einlieferung gestorben
+war.
 
-Weber hatte inzwischen, was hier besonders hervor
-gehoben Jei, au] eigene Sanst mit größter Umsicht weitere
-Spuren versolgt, die ihn ein glücklicher Tusjall rechtzeitig
-erkennen ließ. Da er bereits häufiger in der letzten Heit
-im Oirkus Vienst getan hattz, war es ihm ausgesallen,
-daß allabendlich in Loge 3 ein Herr Jaß, der jedoch orit
-kurz vor dem Dreoessucakt erschien und hinterher sofort
-wieder verschwand. Bon einem Hirkusangestellten ersubhr
+> Weber hatte inzwischen, was hier besonders hervorgehoben
+sei, auf eigene Faust mit größter Umsicht weitere
+Spuren verfolgt, die ihn ein glücklicher Zufall rechtzeitig
+erkennen ließ. Da er bereits häufiger in der letzten Zeit
+im Zirkus Dienst getan hatte, war es ihm aufgefallen,
+daß allabendlich in Loge 3 ein Herr Saß, der jedoch erst
+kurz vor dem Dressurakt erschien und hinterher sofort
+wieder verschwand. Von einem Zirkusangestellten erfuhr
 <@pagebreak/>
 Weber, daß es sich um einen Doktor G. aus R. handele,
-der Srau Garzia wiederholt auch sschon Rosen zugeschickt
-atte.
+der Frau Garzia wiederholt auch schon Rosen zugeschickt
+hatte.
 
-Weber, der den Dokter G. kurz nach dem Unfall
-sehr eisrig in der Loge 3 mit zwei anderen Herren sprechen
+> Weber, der den Doktor G. kurz nach dem Unfall
+sehr eifrig in der Loge 3 mit zwei anderen Herren sprechen
 sah, die in der Öffentlichkeit schon häufiger durch ihre
 polizeiliche Außenseiterarbeit genannt worden sind, hielt
-es für zweckmäßig, den drei Herren nach Schluß der Vor-
-stellung zu folgen und späterhin, als ihm von den beiden
+es für zweckmäßig, den drei Herren nach Schluß der Vorstellung
+zu folgen und späterhin, als ihm von den beiden
 Amateurdetektiven offenbar unrichtige Angaben über
-gewisse Punkte, die hier im öGnteresse der Untersuchung
-noch verschwiegen werden inüssen, gemacht worden waren,
-seinen Borgesetzten zu empfehlen, Doktor G.’s .Haus in
-RN. beobachten zu lassen.
+gewisse Punkte, die hier im Interesse der Untersuchung
+noch verschwiegen werden müssen, gemacht worden waren,
+seinen Vorgesetzten zu empfehlen, Doktor G.’s Haus in
+R. beobachten zu lassen.
 
-Dies jührte denn auch zu ’dem bemerkenswerten Er-
-gebnis, daß Schamil Garzia im Garten des Hauses des
+> Dies führte denn auch zu dem bemerkenswerten Ergebnis,
+daß Schamil Garzia im Garten des Hauses des
 Doktor G. verhaftet werden konnte, nachdem er dort
-von einer Steinbüste den nur angekitteten Kopf herabge-
-worsen und den Wachhund vorher niedergeschlagen hatte.
+von einer Steinbüste den nur angekitteten Kopf herabgeworfen
+und den Wachhund vorher niedergeschlagen hatte.
 
-Kurz nach Garzias Berhaftung, der übrigens hart-
-näckig leugnet, kehrte Doktor G. heim und wurde in
+> Kurz nach Garzias Verhaftung, der übrigens hartnäckig
+leugnet, kehrte Doktor G. heim und wurde in
 Gegenwart Garzias über seine Beziehungen zu Frau
-Grazioja vernommen. Er bestreitet, sie persönlich zu
+Graziosa vernommen. Er bestreitet, sie persönlich zu
 kennen, er habe ihr die Blumen lediglich als Ausdruck
-jeiner Anerkennung für den schwierigen Dressurakt zuge-
-Ichickt und habe allerdings mit den beiden Amateurde-
-tektiven über den Unsall flüchtig gesprochen.
+seiner Anerkennung für den schwierigen Dressurakt zugeschickt
+und habe allerdings mit den beiden Amateurdetektiven
+über den Unfall flüchtig gesprochen.
 
-Bei dieser Aussage blieb er, obwohl Kriminalkom-
-missar D. ihm vorhielt, daß Schamil Garzia für den Papp-
-kopf Jeltjamerweise als Modell gerade den Steinkopf
-der Büste des Baters Doktor G.’s, der mit diesem
-größte Ähnlichkeit hätte, benußbt habe. Der Papp-
-kopf ist erst durh Garzia persönlich sarbig angestrichen
+> Bei dieser Aussage blieb er, obwohl Kriminalkommissar
+D. ihm vorhielt, daß Schamil Garzia für den Pappkopf
+seltsamerweise als Modell gerade den Steinkopf
+der Büste des Vaters Doktor G.’s, der mit diesem
+größte Ähnlichkeit hätte, benutzt habe. Der Pappkopf
+ist erst durch Garzia persönlich farbig angestrichen
 und mit Haaren versehen worden.
 
-Schamil Garzia bequemte Jich hiernach zu fol-
+> Schamil Garzia bequemte sich hiernach zu folgenden
 <@pagebreak/>
-gende Angaben. — Er sei allerdings sehr eifersüchtig
-und s: zr jähzornig, habe jedoch nie daran gedacht, gerade
+Angaben. — Er sei allerdings sehr eifersüchtig
+und sehr jähzornig, habe jedoch nie daran gedacht, gerade
 in den Blumenangebinden Doktor G.’s, den er persönlich
-nicht »mne, irgend etwas Ungehöriges zu sehen oder
-seiner 3rau deshalb Borhaltungen zu machen. Gewiß,
-zwischek seiner Srau und ihm sei es häufiger zu Cifer-
-Juchtss]zer en gekommen, da die Berstorbene sich zu jeder-
-mann Jehr liebenswürdig gezeigt habe. Sie ssei des-
-halb auch überall sehr beliebt gewesen, was er von sich
-leider nicht behaupten könne. »Ursprünglich«, Jo gab
-Garzia fernerhin an, »ist der Dressurakt ohne den Papp-
-kopf vorgeführt worden. Erst vor etwa einer Woche, es
+nicht kenne, irgend etwas Ungehöriges zu sehen oder
+seiner Frau deshalb Vorhaltungen zu machen. Gewiß,
+zwischen seiner Frau und ihm sei es häufiger zu Eifersuchtsszenen
+gekommen, da die Verstorbene sich zu jedermann
+Sehr liebenswürdig gezeigt habe. Sie sei deshalb
+auch überall sehr beliebt gewesen, was er von sich
+leider nicht behaupten könne. »Ursprünglich«, So gab
+Garzia fernerhin an, »ist der Dressurakt ohne den Pappkopf
+vorgeführt worden. Erst vor etwa einer Woche, es
 mag auch länger her sein, erhielt ich einen anonymen
-Brief, in dem mir jemand rietTdie Schlußszene dadurch
-noch wirkungsvoller zu gestalten, daß ich auf die Lanzen-
-jpie einen Pappkopf mit eingejeten Glasaugen spießen
-könnte, die durch einen Druck -auf einen Knopf am Lan-
-zenschaft aufleuchten sollten. Der unbekannte Briessender
+Brief, in dem mir jemand riet, die Schlußszene dadurch
+noch wirkungsvoller zu gestalten, daß ich auf die Lanzenspitze
+einen Pappkopf mit eingesetzten Glasaugen spießen
+könnte, die durch einen Druck auf einen Knopf am Lanzenschaft
+aufleuchten sollten. Der unbekannte Briefsender
 — das Schreiben war getippt — erbot sich sogar, mir
 Kopf und Lanze umsonst zu liefern. Er würde mir in
-jedem Salle Kopf und Lanze demnächst zuschicken. — Dies
-geschah denn auch, und da ich die Idee mit dem ausge-
-spießten Kov« für wirkungsvoll hielt, wurde der Dressur-
-akt Jeitdew »::t dem Pappkopf vorgenommen. Wer mir
-diesen zugejunckkt hat, weiß ich nicht. Cs war ein älterer
+jedem Falle Kopf und Lanze demnächst zuschicken. — Dies
+geschah denn auch, und da ich die Idee mit dem aufgespießten
+Kopf für wirkungsvoll hielt, wurde der Dressurakt
+seitdem mit dem Pappkopf vorgenommen. Wer mir
+diesen zugeschickt hat, weiß ich nicht. Es war ein älterer
 graubärtiger Dienstmann, der mir beides, Kopf und Lanze
 nebst Gebrauchsanweisung überbrachte. — Ich betone
 nochmals, daß ich nichts davon ahnte, daß die Lanze und
 der Kopf gestern vor der Vorstellung vertauscht worden
-jein könnten und daß ich durch den Druck auf den Kon-
-taktknopf eine Säurespritze betätigte. Ich hebe insbe-
-sondere hervor, daß jeder Verdacht gegen mich schon
-deshalb hinfällig wird, weil ich mich durch diese Säure-
-spritze selbst in Todesgesahr gebracht hätte, da einer der
-Löwen auch mich. hätte zerreißen können. Wenn ich
+sein könnten und daß ich durch den Druck auf den Kontaktknopf
+eine Säurespritze betätigte. Ich hebe insbesondere
+hervor, daß jeder Verdacht gegen mich schon
+deshalb hinfällig wird, weil ich mich durch diese Säurespritze
+selbst in Todesgefahr gebracht hätte, da einer der
+Löwen auch mich hätte zerreißen können. Wenn ich
 <@pagebreak/>
-gestern aus dem Käfig schleunigst geslüchtet bin, so ge-
-schah es nur deShalb, weil ich die Unruhe im Publikum
-nicht noch dadurch steigern wollte, daß die Lvwen auch
-über mich und mein Pferd horfielen. Gch hätte zur Ret-
-tung meiner Srau gar nicht beitragen können. — Was
-meine nächtliche Zahrt nach ’. betrifit, jo räume ich
-allerdinas ein, daß mir uach dem »Ableben meiner Frau
-der Berdacht kam, Doktor G konnte mir diesen Schur-
-kenstreich gespielt haben, da der ’Pappkopf, bevor ich
+gestern aus dem Käfig schleunigst geflüchtet bin, so geschah
+es nur deshalb, weil ich die Unruhe im Publikum
+nicht noch dadurch steigern wollte, daß die Löwen auch
+über mich und mein Pferd herfielen. Ich hätte zur Rettung
+meiner Frau gar nicht beitragen können. — Was
+meine nächtliche Fahrt nach R. betrifft, so räume ich
+allerdings ein, daß mir nach dem Ableben meiner Frau
+der Verdacht kam, Doktor G. konnte mir diesen Schurkenstreich
+gespielt haben, da der Pappkopf, bevor ich
 ihn grell überpinselte und mit Haaren versah, zweifellos
-Doktor G. sehr ähnlich jah. öh beabsichtizte, Doktor
+Doktor G. sehr ähnlich sah. Ich beabsichtigte, Doktor
 G. zur Rede zu stellen, ich schlug den Hund nieder und
-entdeckte dann auf der Cerrasse zusällig eine Marmor-
-büste, die ebensalls Doktor G. glich, und schlug ihr in
-meiner Wut den Kopf. der nur angekittet war, her-
-unter.«
+entdeckte dann auf der Terrasse zufällig eine Marmorbüste,
+die ebenfalls Doktor G. glich, und schlug ihr in
+meiner Wut den Kopf, der nur angekittet war, herunter.«
 
-Nach dieser Aussage Schamil Garzias wurde Doklor
-G. erneut verhört. Cr wies jeden ’Berdacht, daß er
-etwa der Briefsschreiber und der Übersendor des Kopses
+> Nach dieser Aussage Schamil Garzias wurde Doktor
+G. erneut verhört. Er wies jeden Verdacht, daß er
+etwa der Briefschreiber und der Übersender des Kopfes
 gewesen, weit von sich und berief sich schließlich darauf,
-daß er schon deshalb nicht an diejem gemeinen Stroich
-beioiligt gewesen sein könnte, da er gar keine Gelegeon-
-heit gehabt habe, gestern Lanze und Kopf zu vortauschen
-und das Suureattentat dergestalt vorubereiten. Er machte
-Kriminalkommissar Derneborg darauf autmerksam, daß
-nur ein Artist oder ein Girku8sangestellter den Austausch
-von Lanze und Kopf vor der Borstellung häite vornehmen
-können, niemals ein Sremder. Cr erwähnte schließlich
-noch, daß der Marmorkopf von der Marmorbüslte seines
-Baters vier Cage lang vor etwa zwei Wochen voer-
-schwunden gewesen sei, und daß er diejen Diebstahl der
+daß er schon deshalb nicht an diesem gemeinen Streich
+beteiligt gewesen sein könnte, da er gar keine Gelegenheit
+gehabt habe, gestern Lanze und Kopf zu vertauschen
+und das Säureattentat dergestalt vorzubereiten. Er machte
+Kriminalkommissar Derneborg darauf aufmerksam, daß
+nur ein Artist oder ein Zirkusangestellter den Austausch
+von Lanze und Kopf vor der Vorstellung hätte vornehmen
+können, niemals ein Fremder. Er erwähnte schließlich
+noch, daß der Marmorkopf von der Marmorbüste seines
+Vaters vier Tage lang vor etwa zwei Wochen verschwunden
+gewesen sei, und daß er diesen Diebstahl der
 Ortspolizei gemeldet und sogar tausend Mark Belohnung
-sür die Wiederherbeischassung des Kopfes ausgesetzt
+für die Wiederherbeischaffung des Kopfes ausgesetzt
 habe. — Doktor G., ein sehr reicher Privatgelehrter,
-Junggeselle und bekannter Wohltäter, ist in R. allge-
+Junggeselle und bekannter Wohltäter, ist in R. allgemein
 <@pagebreak/>
-mein beliebt und geachtet, dürfte mit diesem rassfiniert
+beliebt und geachtet, dürfte mit diesem raffiniert
 vorbereiteten Morde nichts zu tun haben.
 
-Schamil Garzia bleibt in Haft, bis genügend geklärt
-»WR er nicht selbst die Pappköpse irgendwie anfertigon
-io
+> Schamil Garzia bleibt in Haft, bis genügend geklärt
+ist, ob er nicht selbst die Pappköpfe irgendwie anfertigen
+ließ.«
 
-— Wir stehen hier (so schrieb der fixe Reporter
+> — Wir stehen hier (so schrieb der fixe Reporter
 zum Schluß) vor einem der mysteriösesten Kriminalfälle
-der letzten Gahre. Gerade die eigentümlichen Neben-
-umstände, ferner das HGirkusmilieu und schließlich noch die
+der letzten Jahre. Gerade die eigentümlichen Nebenumstände,
+ferner das Zirkusmilieu und schließlich noch die
 gewissen Punkte, die die Polizei bisher der Öffentlichkeit
-vorenthält, versprechen noch weitere, ungeahnte Über —
-raschungen. Die Rolle, die die beiden Amateurdetektive
+vorenthält, versprechen noch weitere, ungeahnte Überraschungen.
+Die Rolle, die die beiden Amateurdetektive
 in dieser Sache spielen, wird man ebenfalls sehr scharf
-unter die Lupe nehmen inüssoa.; Auf etwas inöchte ich
-hier noch hinweisen: Schamil« Garzia trug im Garten
-Doktor G.’s, als die Polizei ihn sestnahm, graue Perücke,
-grauen Bollbart und dunkle Brille — also Verkleidung!
-Und genau Jo soll der Dienstmann ausgesehen haben,
+unter die Lupe nehmen müssen. Auf etwas möchte ich
+hier noch hinweisen: Schamil Garzia trug im Garten
+Doktor G.’s, als die Polizei ihn festnahm, graue Perücke,
+grauen Vollbart und dunkle Brille — also Verkleidung!
+Und genau So soll der Dienstmann ausgesehen haben,
 behauptet Garzia, der ihm Lanze und Kopf überbrachte.«
 
-Harst warf die Heikung auf den Cisch. schaute mich au
+Harst warf die Zeitung auf den Tisch, schaute mich an
 und meinte halb belustigt:
 
-»Cim Wunder, daß wir noch nicht verhört worden sind! -
-Bergiß nicht, daß Gudden keine Silbe über seine Holzvilla
-am Wannsee erwähnt hat, oder besser: Bergiß die Billa
-vollkow’ ’;;, vergiß auch den Bildhauer …
+»Ein Wunder, daß wir noch nicht verhört worden sind! —
+Vergiß nicht, daß Gudden keine Silbe über seine Holzvilla
+am Wannsee erwähnt hat, oder besser: Vergiß die Villa
+vollkommen, vergiß auch den Bildhauer …«
 
-Ai …: ilides Stimme krähte von der Cür:
+Mathildes Stimme krähte von der Tür:
 
-»Ein Klijent is da, ein Herr Schüß, Steinhauer oder
-Steinsetzer is er — oder was Aohnliches …«
+»Ein Klient ist da, ein Herr Schütz, Steinhauer oder
+Steinsetzer ist er — oder was Ähnliches …«
 
-»Aha, — die Geschichte geht schon los!«, sagte Harl!
-jetzt bitterernsl. »Schuß wird nicht der einzige bleiben …«
+»Aha, — die Geschichte geht schon los!«, sagte Harst
+jetzt bitterernst. »Schütz wird nicht der einzige bleiben …«
+
 <@pagebreak/>
 
 <h2>5. Kapitel.</h2>
@@ -1130,219 +1132,218 @@ Der »Steinsetzer« Walter Schütz war ein äußerst höflicher,
 für einen Künstler sehr praktisch und nüchtern denkender
 Mann, schlank, gut gewachsen. kräftig, mit energischen Zügen
 und klaren, nur etwas sehr kühlen Augen. Auf den ersten
-Blick hätte ihn jeder sür einen Mittelgewichtsboxer gehalten.
-Die verflossene Nacht war, obwohl er doch dem Code stun-
-denlang ins Antlitz geschaut hatte, spurlos an ihm vorüber-
-gegangen. Nachdem er uns wie alte Bekannte zwanglos-
-herzlich begrüßt und sich eine HFGigarre verpaßt hatte, lehnte
+Blick hätte ihn jeder für einen Mittelgewichtsboxer gehalten.
+Die verflossene Nacht war, obwohl er doch dem Tode stundenlang
+ins Antlitz geschaut hatte, spurlos an ihm vorübergegangen.
+Nachdem er uns wie alte Bekannte zwanglos herzlich
+begrüßt und sich eine Scharfe verpaßt hatte, lehnte
 er sich im Sessel noch weiter zurück, holte die Mittagspost
-aus der Casche hervor und fragte lediglich: »Was ssoll ich tun?
-Mich bei der Polizei melden?! - - Cine eklige Geschichte.
-Och bin der Hersteller der beiden Pappkopfe, und ich komme
-in Teufels Küche, wenn ich dies verjchweige.«
+aus der Tasche hervor und fragte lediglich: »Was soll ich tun?
+Mich bei der Polizei melden?! — — Eine eklige Geschichte.
+Ach bin der Hersteller der beiden Pappkopfe, und ich komme
+in Teufels Küche, wenn ich dies verschweige.«
 
 Harst, der plötzlich die gewissen drei Falten auf der
-Stirn hatte und zerstreut seine Hakennase streichelte, hob un-
-merklich die Schultern. »Haben Sie ein Alibi, Herr Schütz?«
+Stirn hatte und zerstreut seine Hakennase streichelte, hob unmerklich
+die Schultern. »Haben Sie ein Alibi, Herr Schütz?«
 
-Der junge Bildhauer wurde genau sso stutzig wie ich.
+Der junge Bildhauer wurde genau sie stutzig wie ich.
 
-»Alibi?! Weghalb«!«
+»Alibi?! Weshalb«!«
 
 Harst schaute ihn nachdenklich an. »Die Polizei wird
 jede Spur verfolgen, jede … Das muß sie auch. Vielleicht
-läßt sich das Publikum irreführen, ich nicht. Garzia ist na-
-türlich schuldlos, und die Sagd nach dem wahren Schuldigen
+läßt sich das Publikum irreführen, ich nicht. Garzia ist natürlich
+schuldlos, und die Jagd nach dem wahren Schuldigen
 dürfte diesmal mit ganz besonderer Energie betrieben werden,
-da die össentliche Meinung bereits durch die fünf voraus-
-gegangenen unaufgeklärten FSälle stark beunruhigt ist. Sie
-besinnen sich: Raubüberfall auf das Lohnauto mit Berlust von
-zwei Menschenleben, Beute 28&nbsp;000 Mark, dann …«
-<@pagebreak/>
+da die öffentliche Meinung bereits durch die fünf vorausgegangenen
+unaufgeklärten Fälle stark beunruhigt ist. Sie
+besinnen sich: Raubüberfall auf das Lohnauto mit Verlust von
+zwei Menschenleben, Beute schaden;000 Mark, dann …«
 
-»och besinne mich …«, wehrfe Schütz etwas nervös ad.
-»Oie glauben also, die Polizei wird auch mich … verdächtigen?«
-i7e — jeden. — Kannten Sie Graziosa Garzia per-
-onlich?«
+<@pagebreak/>
+»ach besinne mich …«, wehrte Schütz etwas nervös ad.
+»die glauben also, die Polizei wird auch mich … verdächtigen?«
+i7e — jeden. — Kannten Sie Graziosa Garzia Dringlich?«
 
 Des Bildhauers Gesicht wurde eisige Ablehnung. »Die
-Srage beantworte ich nicht«, erklärte er unfreundlich.
+Frage beantworte ich nicht«, erklärte er unfreundlich.
 
 Harst hüstelte leicht. »Sind Sie sich klar darüber, daß
-diese Srage von der Polizei unbedingt an Sie gerichtet werden
-wird? Sie haben keinerlei Zeugen für öhre Behauptungen,
-daß der »graue Uhu« Ihnen den bewußten Austrag gab, und
-daß er Sie gestern nacht niederschlug und aufknüpfte. Geräde
-dieser Mordversuch, dem Sie durch den einen Nagel und Ghre
-große Sehe enfgingen, wird bis in die kleinste Einzelheit
+diese Frage von der Polizei unbedingt an Sie gerichtet werden
+wird? Sie haben keinerlei Zeugen für ohne Behauptungen,
+daß der »graue Uhu« Ihnen den bewußten Auftrag gab, und
+daß er Sie gestern nacht niederschlug und aufknüpfte. Gerade
+dieser Mordversuch, dem Sie durch den einen Nagel und Ihre
+große Sehe entgingen, wird bis in die kleinste Einzelheit
 nachgeprüft werden, und wenn man uns, Schraut, und mich,
 zu diesem Punkte vernimmt, kann ich nur aussagen, daß der
 rettende Nagel ganz frisch in die Wand geschlagen war,
 daß auf der Dielenleiste noch Kalkstaub aus dem Nagelloch
-neben den Blutstropfen öhrer Zehe lag und daß — entschul-
-digen Sie schon — ich beim Suchen nach Berbandmaterial
-für Ihre Zehe in Shrem Schlafraum hinter schmutziger Wäsche
-einen Pappkartor. mit Perücke, Bart, Brille und Schminke
-janv …«
+neben den Blutstropfen schien Zehe lag und daß — entschuldigen
+Sie schon — ich beim Suchen nach Verbandmaterial
+für Ihre Zehe in Ihrem Schlafraum hinter schmutziger Wäsche
+einen Pappkarton. mit Perücke, Bart, Brille und Schminke
+fand …«
 
-Ochüß suhr 1: .b. »Das — ist unmöglich … öMchM habe
+Schütz fuhr 1:.b. »Das — ist unmöglich … öMchM habe
 derartiges nie besessen …«
 
-»och» Jah es, und ich dürfte es nicht der Polizei ver-
+»ach« Sah es, und ich dürfte es nicht der Polizei der
 
-schweigen. — — Kennen Sie Graziosa Garzia? FIch frage
+schweigen. — — Kennen Sie Graziosa Garzia? Ich frage
 nochmmals …«
-»Ol …«
+»Ob …«
 
 »Das dachte ich mir. Sie belieben immer noch mit einer
-gewissen Zurückhaltung zu operieren, Herr Schüß, die hier
+gewissen Zurückhaltung zu operieren, Herr Schütz, die hier
 unter keinen Umständen angebracht erscheint. Ihre Stimme
-und 3öhr Gesichtsausdruck verraten dies, obwohl Sie sich be-
-inühen, auch in der Kunst zwangloser Selbstdisziplin größere
-Borbilder nachzuahmen, wie etwa Doktor Klaus Gudden,
-der ebenfalls jeine besonderen Methoden hat, — ganz all-
+und sähe Gesichtsausdruck verraten dies, obwohl Sie sich bemühen,
+auch in der Kunst zwangloser Selbstdisziplin größere
+Vorbilder nachzuahmen, wie etwa Doktor Klaus Gudden,
+der ebenfalls seine besonderen Methoden hat, — ganz allgemein
 <@pagebreak/>
-gemein ausgedrückt. — Wollen Sie sich über ghre Bekannt-
-scat mit Graziosa nicht näher äußern?«
+ausgedrückt. — Wollen Sie sich über Ihre Bekanntscat
+mit Graziosa nicht näher äußern?«
 
-Schütz harter Mund wurde noch härter. »Nein … be-
-dauere, mich bindet ein Bersprechen, und …« — er hatte
+Schütz harter Mund wurde noch härter. »Nein … bedauere,
+mich bindet ein Versprochen, und …« — er hatte
 sehr zerstreut diese Sätze hingeworfen, erhob sich nun un
-vermittelt und verabschiedete sich recht förmlich. »Göch muß
+vermittelt und verabschiedete sich recht förmlich. »Bock muß
 mit dieser Sache selbst fertig werden, Herr Harst … Auf
 Wiedersehen.« Er hatte es plötzlich sehr eilig, und Harst
 schaute ihm mit verkniffenen Lippen nach.
 
 »Weißt du, mein Alter, es gäbe schon ein Mittel, aus
-alledem mit heiler Haut und ohne bewußte Lügen heraus-
-zukommen. Du verstehst mich: Einen Fall wie. diesen gebe
-ich nicht gern aus der Hand, zumal er sso viel rein kriminal-
-psychologisch eigenartige Begleitumstände enthält, daß die
+alledem mit heiler Haut und ohne bewußte Lügen herauszukommen.
+Du verstehst mich: Einen Fall wie. diesen gebe
+ich nicht gern aus der Hand, zumal er sie viel rein kriminalpsychologisch
+eigenartige Begleitumstände enthält, daß die
 Sachliteratur um ein dickes Werk ergänzt werden könnte.
-Sind wir aber erst als getreue Staatsbüurger zu wahrheits-
-getreuen Angaben gezwungen worden, dann dürfte der Fall
+Sind wir aber erst als getreue Staatsbürger zu wahrheitsgetreuen
+Angaben gezwungen worden, dann dürfte der Fall
 Graziosa Garzia für uns als »Problem«, wie man so häufig
 
 Jagt, verpfuscht sein. Mithin — — rücken wir aus! Unsere
 Koffer sind ja stets gepackt, fahren wir zur Erholung nach dem
 Süden, zunächst nach München … — Rasch also … Nur
 
-keine überflüssigen Sragen …«
+keine überflüssigen Fragen …«
 
-Als die Autotaxe mit uns zum Flughafen Cempelhof
-davonglitt (zufällig saß Argus-«Bock wieder am Steuer), saher
-wir noch gerade, wie vor unserem Hause, aus der entgogen-
-gesetzten Richtung kommend, eine große dunkelblaue Limousine
+Als die Autotaxe mit uns zum Flughafen Tempelhof
+davonglitt (zufällig saß Argus-«Bock wieder am Steuer), sahen
+wir noch gerade, wie vor unserem Hause, aus der entgegengesetzten
+Richtung kommend, eine große dunkelblaue Limousine
 stoppte.
 
 Harst drückte mich schleunigst in die Polster zurück.
-»Stecke deinen Rüssel gefälligst nicht zu weit ins Sreiel Der
+»Stecke deinen Rüssel gefälligst nicht zu weit ins Freier Der
 Derneborg hat Augen wie ein Luchs, und wenn die Unter
-weltbrüder ihn den Aasgeier nennen, so klingt ja das an
-sich nicht schön, stimmt aber ansichtlich der Sehschärfe haar-
-genau,
+Felsbrücken ihn den Aasgeier nennen, so klingt ja das an
+sich nicht schön, stimmt aber ersichtlich der Sehschärfe haargenau,
 
 Der Benzinvogel, der sich um zwei Uhr nachmittags mit
-nur zwei Fahrgästen mit Kurs gen Miinchen erhob, kostete
+nur zwei Fahrgästen mit Kurs gen München erhob, kostete
 <@pagebreak/>
-eine kleine Stange Geld, und der Flugkapitän bielt seine
+eine kleine Stange Geld, und der Flugkapitän hielt seine
 Passagiere sicherlich für übergeschnappt, als er bereits vor
-Creuenbrießen in eiter öden Heide niedergehen mußte. -
+Creuenbrießen in Eiter öden Heide niedergehen mußte. —
 »Wir haben uns die Sache anders überlegt«, erklärte ihm
-Harst sehr unversroren. »Wir inüssen doch noch einiges in
-Berlin erledigen … Warten Sie hier bikte bis zum Abend.
-Oind wir um acht Uhr nicht erschienen, machen Sie, was
-Ole wollen.«
+Harst sehr unverfroren. »Wir müssen doch noch einiges in
+Berlin erledigen … Warten Sie hier bitte bis zum Abend.
+Sind wir um acht Uhr nicht erschienen, machen Sie, was
+Sie wollen.«
 
 Um acht Uhr abends hatte ein älterer Herr, ein Maler
 aus London, das leere Atelier neben dem des Bildhauers
-Ochutz gemietet und war mit seinem Diener und dem nötigen
+Schutz gemietet und war mit seinem Diener und dem nötigen
 Mobiliar auch bereits eingezogen. Die Möbel waren geliehen,
-die Namen ebenso, und die Gesichter von Mr. Steward Hol-
-lard und Mr. Maurice Scrott waren erst recht nicht echt.
+die Namen ebenso, und die Gesichter von Mr. Steward Hollard
+und Mr. Maurice Schrott waren erst recht nicht echt.
 Aber das machte nichts. Wir besaßen einwandfreie englische
-Pässe au] diese Namen und Gesichter, und obwohl mir Schüt
-einmal auf der Creppe begegnete und greulich sluchte, weil
-div Loute des Möbelverleihgeschäftes wie ein Kavallerieregiment
-auf den knarrenden Stiegen trampelien, warf er dem rot-
-blonden, rotnasigen Diener Scrott doch nur einige ahnungs-
-loje wütende Blicke und eine einzige grobe Bemerkung zu,
-au] die der sehr beloibte, jehr rothaarige Scrott in aller-
-Ichönstem breit gekauten echt Londoner Idiom pomadig und
+Pässe zu] diese Namen und Gesichter, und obwohl mir Schutz
+einmal auf der Treppe begegnete und greulich fluchte, weil
+div Leute des Möbelverleihgeschäftes wie ein Kavallerieregiment
+auf den knarrenden Stiegen stempelten, warf er dem rotblonden,
+rotnasigen Diener Schrott doch nur einige ahnungslose
+wütende Blicke und eine einzige grobe Bemerkung zu,
+zu] die der sehr bebrillte, sehr rothaarige Schrott in allerschönsten
+breit gekauten echt Londoner Idiom pomadig und
 mit röchelndem Kellerbaß erwiderte: »Ich verstehe kein Wort
-Doutsch, Sir. und die Deutschen verstehen mich nicht, also …!!«
-Und dann machte Scrott eine Handbewegung, die man Jo oder
-jo deuten konnte, und Schüß schmetterte Jeine Cür wütend ins
+Deutsch, Sir. und die Deutschen verstehen mich nicht, also …!!«
+Und dann machte Schrott eine Handbewegung, die man So oder
+so deuten konnte, und Schütz schmetterte Seine Tür wütend ins
 Schloß — so wütend, daß der außen angenagelte Briefkasten
-herabsiel und auf die Zußimatte polterte, worauf Mr. Scrott
-immerhin so höoslich war, das Ding aufzuheben und an die
+herabfiel und auf die Bastmatte polterte, worauf Mr. Schrott
+immerhin so höflich war, das Ding aufzuheben und an die
 Tür zu lehnen, wobei ihm leider zwischen den Fingern ein
 Rohrpostbrief hängen blieb, den vorhin ein Postbote gebracht
-hatte, als Schüß unten in dem Stall des Atelierhauses irgend
+hatte, als Schütz unten in dem Stall des Atelierhauses irgend
 wie beschäftigt war,
 
 <@pagebreak/>
 »Natürlich ist es eine Gemeinheit«, sagte Harst, als er
-die ZBriesklappe vorsichtig anfeuchteke. »Fdch verabscheue der-
-artige Mittel, obwohl man zuweilen … — hallo, schaue her!«
+die Briefklappe vorsichtig erleuchtete. »Roch verabscheue derartige
+Mittel, obwohl man zuweilen … — hallo, schaue her!«
 
-Der RNohrposftbrief hatte einen kleinen Zettel mit der
-Aufschrist »Schweigen Siel — Ghr Klapu.« und zwei Fünf-
-hundert- Dollar- Noten enthalten.
+Der Rohrpostbrief hatte einen kleinen Zettel mit der
+Aufschrift »Schweigen Sie! — Ihr Alarm.« und zwei Fünfhundert Dollarnoten
+enthalten.
 
-Sünf Minuten sspäter steckte der tadellos glatt geplättete
+Fünf Minuten später steckte der tadellos glatt geplättete
 Brief schon wieder in dem abgestürzten Briefkasten, und
-wieder fünf Minuten darauf hantierte Scrott im Creppenflur
-mit einer Staffelei umher und stieß dabei Jo derb gegen Schütz«
-Tür. daß diejer herausgerast kam und den feixenden Eng-
-länder mit einer Musterkollektion von Chrentiteln belegte und
+wieder fünf Minuten darauf hantierte Schrott im Treppenflur
+mit einer Staffelei umher und stieß dabei So derb gegen Schütz«
+Tür. daß dieser herausgerast kam und den feixenden Engländer
+mit einer Musterkollektion von Ehrentiteln belegte und
 erst verstummte, als er den Brief in dem herabgefallenen
 Kasten bemerkte und ihn gleich im Flur aufriß, dann aber
-schleunigst in jeinem eigenen Heim verschwand.
+schleunigst in seinem eigenen Heim verschwand.
 
 Die beiden Engländer wachten dann abwechselnd, und als
 Walter Schütz um Mitternacht wieder in den Stall schlich,
 hatte er zwei Leute auf Gunmumnisohlen hinter sich, die durch
-eine Türrite sehr aufmerksam beobachteten, wie der stämmige
+eine Dürfte sehr aufmerksam beobachteten, wie der stämmige
 Bildhauer aus einem Winkel des Stallverschlages unter allerlei
-Gerümpel eine halb fertige Alarmorbüste der schönen Graziosa
-dervorholte und mit einem großen Hammer dann gerade den
-ersten vernichtenden Schlag gegen Jein eigenes Werk aa:
-jühren wollte, — — wollte …
+Gerümpel eine halb fertige Marmorbüste der schönen Graziosa
+hervorholte und mit einem großen Hammer dann gerade den
+ersten vernichtenden Schlag gegen Sein eigenes Werk an:
+führen wollte, — — wollte …
 
-Cin Anruf hinter ihm verhinderte die Zerstörung, und
-Kommissar Derneboras berühmte Geieraugen schauten den
-armen Schüß Jo mitleidig an, als ob der Staatsanwalt gegen
-den Bildhauer bereits Codesstrase beantragt hätte, während
-neben Derueborgs Krajtstroender Gestalt der wieselartig
-flinke Assisient Amatias Weber mit den Handschellen und mit
-einer umfangreichen Dienstpistole sich jeder Zeit zum Cingreifen
-dereithielt.
+Ein Anruf hinter ihm verhinderte die Zerstörung, und
+Kommissar Derneborgs berühmte Geieraugen schauten den
+armen Schütz So mitleidig an, als ob der Staatsanwalt gegen
+den Bildhauer bereits Todesstrafe beantragt hätte, während
+neben Derneborgs Krajtstroender Gestalt der wieselartig
+flinke Assistent Amatias Weber mit den Handschellen und mit
+einer umfangreichen Dienstpistole sich jeder Zeit zum Eingreifen
+bereithielt.
 
-Harst zog mich schleunigst von der Cür hinter eine der
+Harst zog mich schleunigst von der Tür hinter eine der
 durch Pappdächer geschützten Marmorgruppen, und dies gerade
-noch zur rechten Heit, da es auf dem Hofe nun unangenehm
+noch zur rechten Zeit, da es auf dem Hofe nun unangenehm
 <@pagebreak/>
-lebendig wurde, nachdem aus dem Stall der bekannte Crillor-
-pfisf ertönt war. Daß wir nachher unbemerkt nach oben in
-unser Atelier zurückgelangten, war ausschließlich dem dicken CE seu
+lebendig wurde, nachdem aus dem Stall der bekannte Trillerpfiff
+ertönt war. Daß wir nachher unbemerkt nach oben in
+unser Atelier zurückgelangten, war ausschließlich dem dicken Co Heu
 an der Hauswand und einer eingedrückten Fensterscheibe zu
-danken. Croßdem blieb für uns die Lage äußerst kitlig, denn
-ein Mann von sso hervorragender Witterung wie der Aas-
-geier, der Harst und Schraut nicht mehr daheim angetrosfen
+danken. Grotten blieb für uns die Lage äußerst Mittag, denn
+ein Mann von sie hervorragender Witterung wie der Aasgeier,
+der Harst und Schraut nicht mehr daheim angetroffen
 hatte, würde sofort Argwohn schöpfen, wenn Schütz irgendwie
 erwähnte, es seien heute Abend zwei neue Mieter eingezogen.
 
-Schüß wurde in seinem Atelier verhört. Um halb zwei
+Schütz wurde in seinem Atelier verhört. Um halb zwei
 morgens fuhr er gratis bis zum roten Alex (Berliner Scotland
-Yarch, und wir gingen zu Bett. As ich meinen Herrn cr.
-Steward Hollard zu fragen wagte, ob Schiiß etwa doch der
+Nach, und wir gingen zu Bett. As ich meinen Herrn er.
+Steward Hollard zu fragen wagte, ob Schiff etwa doch der
 wahre Schuldige sei, antwortete mein Herr gähnend und
 niederschmetternd und geringschubßig:
 
 »Du bist und bleibst ein alter …«, — was er hinter
 »alter« Jagte, braucht nicht unbedingt an die Öffentlichkeit
 zu gelangen.
+
 <@pagebreak/>
 
 <h1>Die Kanarienvögel</h1>
@@ -1351,30 +1352,30 @@ zu gelangen.
 <h3>Frau Erdbeben.</h3>
 
 Das Srühbstüick am Morgen nach dieser sü: Bildhauer
-Schüt Jo überaus belastenden und ereianisreichen Nacht wurde
-von Mr. Hollard und seinem Diener Maurice Scrott in äußerst
-schweigsamer Stimmung eingenommen. Gch war noch tief em-
-port über die große önjurie, ind Horst war noch tiefer in
-die Lektüre der Ytorgenzeitungen versunken, jo daß auch ich
-schließlich nach jo einer bedruckten Skandalfahne griff und
-in diesem »Gehn Uhr-Blatt« einiges aufstöberte, das mein
-Gnteresse Josort wachriej.
+Schutz So überaus belastenden und ereignisreichen Nacht wurde
+von Mr. Hollard und seinem Diener Maurice Schrott in äußerst
+schweigsamer Stimmung eingenommen. Ach war noch tief empor!
+über die große smarte, ins Harst war noch tiefer in
+die Lektüre der Ytorgenzeitungen versunken, so daß auch ich
+schließlich nach so einer bedruckten Skandalfahne griff und
+in diesem »Zehn Uhr-Blatt« einiges aufstöberte, das mein
+Interesse Sofort wachrief.
 
 — »Die beiden Amateurdetektive, von denen schon gestern
-die Rede war, haben sich osjenbar absichtlich einer polizeilichen
-Bernehmung entzogen, dürften jedoch sehr bald in Berlin
-aufgestöbert werden, da ihr Ftug nach München …« — und
-jo weiter.
+die Rede war, haben sich offenbar absichtlich einer polizeilichen
+Vernehmung entzogen, dürften jedoch sehr bald in Berlin
+aufgestöbert werden, da ihr Flug nach München …« — und
+so weiter.
 
 Hm, das klang nicht schön.
 
 Und dann:
 
-—» »Was den Fall Graziosa Garzia betrisst. wäre noch
-nachzuholen, daß lediglich durch den Üboreiser einer Kran-
-kenschwester gestern das Gerücht entstand, Srau Garzia sei
-ihren Verletzungen erlegen. Dies krisst orsreulicherweise nicht
-zu, im Gegenteil, die Ärzte hossen bestimmt, die Patientin
+—» »Was den Fall Graziosa Garzia betrifft. wäre noch
+nachzuholen, daß lediglich durch den Übereifer einer Krankenschwester
+gestern das Gerücht entstand, Frau Garzia sei
+ihren Verletzungen erlegen. Dies trifft erfreulicherweise nicht
+zu, im Gegenteil, die Ärzte lassen bestimmt, die Patientin
 durchzubringen.«
 
 In der Tat, das war sehr erfreulich.
@@ -1383,107 +1384,107 @@ In der Tat, das war sehr erfreulich.
 Haft entlassen worden, und die Polizei hat nunmehr einen
 <@pagebreak/>
 Herrn in der verflossenen Nacht verhaftet, der bestimmt mit
-zu den Schuldigen gehört. Die Polizei hüllt sich jedoch vor-
-laufig in Schweigen, da gerade diese Berhaftung auch mik
+zu den Schuldigen gehört. Die Polizei hüllt sich jedoch vorläufig
+in Schweigen, da gerade diese Verhaftung auch mit
 jener bisher unaufgeklärten Serie von Kapitalverbrechen …«,
-und so weiter, — der Nest war inhaltslose Heilenschinderei
+und so weiter, — der Nest war inhaltslose Zeilenschinderei
 eines honorarsüchtigen Reporters.
 
-Unter diesen Meldungen sand ich einen Artikel, der über-
-schrieben war »Neues über die Kanarienvögel«, — — doch
+Unter diesen Meldungen fand ich einen Artikel, der überschrieben
+war »Neues über die Kanarienvögel«, — — doch
 das erinnerte mich nur an den armen Amatias Weber, der
-mit einer Erdbeben-Franzieka und mit achtzehn gelben Bögeln
+mit einer Erdbeben-Franziska und mit achtzehn gelben Zögern
 über und über belastet war.
 
-Sch legte die Skandalsahne bei Seite, und Harst streckte
-mir ploßlich mit versöhnlichem Lächeln die Hand hin …
-»Sriede sei mit uns, mein Alter’zxt Entschuldige jchon, — -
-als Sriedenspräsent werde ich dir auch einen Kanarienroller
-besorgen, der nicht seinesgleichen hat. Wir inüssen nämlich
-unbedingt wissen, was Schüß ausgesagt hat, und die Erd-
-beben-Franziska, die mit gelben Rollern handelt, dürfte eine
-wvertvolle Quelle sein. Sahren wir nachher zu ihr. Damit
+Ich legte die Skandalfahne bei Seite, und Harst streckte
+mir plötzlich mit versöhnlichem Lächeln die Hand hin …
+»Friede sei mit uns, mein Alter’zxt Entschuldige schon, — —
+als Friedenspräsent werde ich dir auch einen Kanarienroller
+besorgen, der nicht seinesgleichen hat. Wir müssen nämlich
+unbedingt wissen, was Schütz ausgesagt hat, und die Erdbeben Franziska,
+die mit gelben Rollern handelt, dürfte eine
+wvertvolle Quelle sein. Jahren wir nachher zu ihr. Damit
 du jedoch jeglichen Groll gegen mich fahren läßt, will ich dir
-nun auch mitteilen, wie ich dazu kam, die beiden Arqu3—Leute
-als Chauffeure zum HGirkus zu bestellen. Ou weißt, ich besorgte
-die Eintrittskarten persönlich am BWormittag, und ich begab
-mich deshalb bis zum Hirkus Busch, obwohl ich es bis zur
-nächsten Borverkaussstelle näher gehabt hätte.«
+nun auch mitteilen, wie ich dazu kam, die beiden Argus—Leute
+als Chauffeure zum Zirkus zu bestellen. Du weißt, ich besorgte
+die Eintrittskarten persönlich am Vormittag, und ich begab
+mich deshalb bis zum Zirkus Busch, obwohl ich es bis zur
+nächsten Vorverkaufsstelle näher gehabt hätte.«
 
 »Mithin führte dich eine ganz bestimmte Absicht bis zum
-Oirkus«, warf ich schleunigst ein. »Welche?«
+Hindus«, warf ich schleunigst ein. »Welche?«
 
 Er nickte leicht. »Ich wollte versuchen, Schamil Garzia
-bei CTageslicht betrachten zu können, da die Reklamephoto-
-graphien doch zu stark retouchiert waren. FGch alaubte in
+bei Tageslicht betrachten zu können, da die Reklamephotographien
+doch zu stark retouchiert waren. Fach glaubte in
 dieser Photographie jemand wiederzuerkennen, der vor Jahren
 auf etwas rätselhafte Art verschwand. Besinnst du dich noch
 auf den Verein der Wellensittich-Züchter?«
 
-Dieses Stichwort tat seine Wirkung. »Natüclich, das
-war die Bande, die im alten Berliner Westen eimi- wahres
+Dieses Stichwort tat seine Wirkung. »Natürlich, das
+war die Bande, die im alten Berliner Westen eins- wahres
 <@pagebreak/>
-Schreckensregiment ausübte und deren Cresspunkt die Bogel-
-handlung in der Moßstraße war — — natürlich! Die Polizei
+Schreckensregiment ausübte und deren Treffpunkt die Vogelhandlung
+in der Maßstabe war — — natürlich! Die Polizei
 hob die Bande aus, aber die Hauptmacher waren bereits
-verduftet. Die Berhafteten gaben schließlich zu, daß ihr
-Obersittich — recht poetisch für schwere Jungen! - — ein Aus-
-länder gewesen sei, ein russischer Flüchtling aus dem Kau-
-kasus. — Etwa Schamil Garzia?!«, fügte ich unsicher hinzu.
+verduftet. Die Verhafteten gaben schließlich zu, daß ihr
+Obersittich — recht poetisch für schwere Jungen! — — ein Ausländer
+gewesen sei, ein russischer Flüchtling aus dem Kaukasus.
+— Etwa Schamil Garzia?!«, fügte ich unsicher hinzu.
 
-»Ich sürchte«, bestätigte Harst sehr leise. »Die Sache
-siegt über drei Sahre zurück, vor ekwa zwei Jahren hörte man
-dann zuersf etwas von Graziosa Garzia, die ihre Laufbahn
-als Dompteuse in Spanien, FSrankreich und England in rasch
-aufwärtssteigender Linie begann.« Er sJprach sehr langsam
+»Ich fürchte«, bestätigte Harst sehr leise. »Die Sache
+siegt über drei Jahre zurück, vor etwa zwei Jahren hörte man
+dann zuerst etwas von Graziosa Garzia, die ihre Laufbahn
+als Dompteuse in Spanien, Frankreich und England in rasch
+aufwärtssteigender Linie begann.« Er sprach sehr langsam
 und sehr geistesabwesend. »Wie gesagt, die Polizei hatte
-damals ein Bild des Obersittichs veröfsentlicht, man hatte drei-
-tausend Mark Belohnung auf seine Ergreifung ausgesetzt, und
+damals ein Bild des Obersittichs veröffentlicht, man hatte dreitausend
+Mark Belohnung auf seine Ergreifung ausgesetzt, und
 jetzt …« — längere Pause — »hat mir mein immer noch recht
-gutes Geduchtnis sür Gesichtszüge fast zuviel verraten.
-Jedenfalls hatte ich im Hirkus Busch das übliche Glück, das
-man durch Geduld herbeizwingen kann, — ich wurde Heuge,
-wie Garzia, mit seiner Srau von der Probe kommend, ihr vor
-dem Girkusbau eine Szene machte, ich fing den Namen »Gud-
-den« dabei auf, Garzia stieß ihn wütend hervor, und — das
+gutes Geduchtnis für Gesichtszüge fast zuviel verraten.
+Jedenfalls hatte ich im Zirkus Busch das übliche Glück, das
+man durch Geduld herbeizwingen kann, — ich wurde Zeuge,
+wie Garzia, mit seiner Frau von der Probe kommend, ihr vor
+dem Zirkusbau eine Szene machte, ich fing den Namen »Gudden«
+dabei auf, Garzia stieß ihn wütend hervor, und — das
 wichtigste — jenseits der Straße hielt eine Limousine, aus der
-ein Herr heimlich den Auftritt beobachkete: Gudden!«
+ein Herr heimlich den Auftritt beobachtete: Gudden!«
 
-»Seßt begreife ich erst, wie …«, — aber Harst winkte
-zerstreut ab. »Och sürchte, wir begreisen noch sehr wenig
-von alledem … Eins ist Tatsache: Garzia ist der junge Aus-
+»Sekt begreife ich erst, wie …«, — aber Harst winkte
+zerstreut ab. »Ach fürchte, wir begreifen noch sehr wenig
+von alledem … Eins ist Tatsache: Garzia ist der junge Aus
 
-länder, der hier damals den Obersittich spielte und alles in
+Länder, der hier damals den Obersittich spielte und alles in
 allem eine sehr geheimnisvolle Persönlichkeit war. Ich habe
 ihn wiedererkannt, ein Irrtum ist ausgeschlossen, und der
-schvere Konslikt zwischen der Pflicht, der Polizei dies zu
-melden und gewissen Bedenken meinerseits bereitet mir stärk-
-stes Unbehagen, was wohl verständlich ist. Ich will nichts
-übereilen. Sch habe das Gefühl, daß hier noch Dinge mit
-hineinverslohfen sind, die ungeahnte Möglichkeiten erösfnen.
-<@pagebreak/>
+schwere Konflikt zwischen der Pflicht, der Polizei dies zu
+melden und gewissen Bedenken meinerseits bereitet mir stärkstes
+Unbehagen, was wohl verständlich ist. Ich will nichts
+übereilen. Ich habe das Gefühl, daß hier noch Dinge mit
+hineinverslohfen sind, die ungeahnte Möglichkeiten eröffnen.
 
+<@pagebreak/>
 Deshalb muß ich Schütz Aussage so oder so zu erfahren suchen,
-— brechen wir auf … Weber wohnt in einer der älteslen
-Gassen am Alexanderplatz. Wir werden ihn selbst kaum an-
-treffen, er ist seiner nun erst zu Cage getretenen Cüchtigkeit
-wegen zu Derneborgs Dezernat versetzt worden, und Derne-
-borgs Leute dürften bereits wieder bei der Arbeit sein …« —
+— brechen wir auf … Weber wohnt in einer der ältesten
+Gassen am Alexanderplatz. Wir werden ihn selbst kaum antreffen,
+er ist seiner nun erst zu Tage getretenen Tüchtigkeit
+wegen zu Derneborgs Dezernat versetzt worden, und Derneborgs
+Leute dürften bereits wieder bei der Arbeit sein …« —
 
 Die Autotaxe, die unweit unseres Heimes hielt, war wieder
 der neue, schnittige Wagen, den der Argus-Beck steuerte.
-Bek schlief ganz fest auf seinem Führersit, war im Nu
+Beck schlief ganz fest auf seinem Führersitz, war im Nu
 munter, und die Taxe rollte davon, hinterdrein eine zweite,
 unbesetzte mit dem zweiten Argus-Mann. Harst hatte also
-wieder gründlich vorgesorgt, daß wir auch genügend Rücken-
-deckung hatten.
+wieder gründlich vorgesorgt, daß wir auch genügend Rückendeckung
+hatten.
 
-Jagdfieber war es, das mich bis zu nervoser Spannung
+Jagdfieber war es, das mich bis zu nervöser Spannung
 aufpulverte, das mein Hirn mehr anfeuerte, als es Harsts
-überraschende Eröffnungen vorhin getan hatten. öch Jah
-nichts von den schnell wechselnden Straßenbildern, ich Jah
+überraschende Eröffnungen vorhin getan hatten. oh Sah
+nichts von den schnell wechselnden Straßenbildern, ich Sah
 nur immer ein graubärtiges, bleiches Gesicht vor mir: Das
-des Uhus, des rätselhasten Menschen, der mit unheimlicher
+des Uhus, des rätselhaften Menschen, der mit unheimlicher
 Heimtücke seine Schandtaten beging. Nur er hatte Graziosa
 töten wollen, nur er hatte den Bildhauer aufgeknüpft, ebenso
 Gudden, — Schütz war genau so schuldlos wie Gudden, das
@@ -1491,154 +1492,155 @@ hatte ich längst eingesehen, — — wer war der Schuldige?
 Doch dieser Garzia, der sicherlich ganz anders hieß?!
 
 Unser Wagen hielt, wir hatten noch fünfzig Schritt zu
-»eden, wir befanden uns in einer jener engen, düsteren Gassen,
+»Eden, wir befanden uns in einer jener engen, düsteren Gassen,
 ?, der Uralte Häuser mit schmierigen Fassaden, den Dunst der
-Armut und die billigen Wohlgerüche des Lasters aussirömten
-und leises Grauen hervorrusen, wenn man die erblindeken FSen-
-ster, die Setzen von Gardinen und die Kellereingänge anschaut,
-auf deren Creppen beklagenswerte Kinder einen Sonnenstrahl
+Armut und die billigen Wohlgerüche des Lasters ausströmten
+und leises Grauen hervorrufen, wenn man die erblindeten Fenster,
+die Setzen von Gardinen und die Kellereingänge anschaut,
+auf deren Treppen beklagenswerte Kinder einen Sonnenstrahl
 zu erhaschen suchen.
 
 Das Haus Nr. 22 war sauberer als die Nachbarn.
 Neben der rissigen, aber frisch gestrichenen Haustür hingen
-verschiedene Sirmenschilder, darunter auch
+verschiedene Firmenschilder, darunter auch
+
 <@pagebreak/>
-
-Sranziska Weber,
+Franziska Weber,
 Kanarienvögel,
-eigene ucht.
+eigene acht.
 
-Wir kletterten zwei Creppen empor, schauten durch das
-Ssurfenster in einen Sabrikhof hinab, auf dem Gerümpel ver-
-faulte und ein geborstener Schornstein des ehemaligen Kessel-
-hauses den Sperlingen reichliche Tistgelegenheit bot. Die
-Sabrik war tot, ein Crümmerhaufen … — Wir läuteten dann
+Wir kletterten zwei Treppen empor, schauten durch das
+Flurfenster in einen Sakristei hinab, auf dem Gerümpel verfaulte
+und ein geborstener Schornstein des ehemaligen Kesselhauses
+den Sperlingen reichliche Sitzgelegenheit bot. Die
+Fabrik war tot, ein Trümmerhaufen … — Wir läuteten dann
 im zweiten Stock, und nach einer Weile öffnete uns dann
-eine imposante Srau. die ein verblüffend sinsteres, verschlosse-
-nes und doch wieder eigenartig kummervolles Gesicht und …
-in der rechfen Hand einen dicken Krückstock hatte. — Sie
-lahmte, es war Webers Crdbeben-Franziska. Föhr Blick
-war uadelscharf, ihr Hauskleid peinlich sauber, die Stimme
+eine imposante Frau. die ein verblüffend finsteres, verschlossenes
+und doch wieder eigenartig kummervolles Gesicht und …
+in der rechten Hand einen dicken Krückstock hatte. — Sie
+lahmte, es war Webers Erdbeben-Franziska. Nähe Blick
+war nadelscharf, ihr Hauskleid peinlich sauber, die Stimme
 scheu und doch kräftig und angenehm.
 
 Harst brachte unser Anliegen mit großem Wortschwall
 vor, der Engländer Hollard war abgestreift worden, ein
-biederer Nentner und sein Sreund wollten ein Kanarienpärchen
+biederer Rentner und sein Freund wollten ein Kanarienpärchen
 kaufen.
 
 Die Wohnung machte genau denselben peinlich sauberen
-Cindruck wie Frau Franziska, die« allerdings sehr schwer auf-«
-trat, — mit dem Erdbeben und den 180 »Pjund hatte es schon
-jeine Richtigkeit. — Das Zimmer, in dem die Kanarienzucht
-untergebracht war, ging nach hinten hinaus, und dic« unter
-den Senstern lag das flache Vach eines Teiles di. toten
-Sabrik.
+Eindruck wie Frau Franziska, die« allerdings sehr schwer auf-«
+trat, — mit dem Erdbeben und den 180 »Pfund hatte es schon
+seine Richtigkeit. — Das Zimmer, in dem die Kanarienzucht
+untergebracht war, ging nach hinten hinaus, und die« unter
+den Fenstern lag das flache Nach eines Teiles Ei. toten
+Fabrik.
 
-Die seltsame Srau, aus der ich immer weniger klug wurde,
-zeigte sich äußerst wortkarg und schien auch überaus miß-
-irauisch zu sein. Chr Stock, das erkannte ich sehr bald, war:
-vin jogenannter Cotschläger: Stahlstange mit Lederplättchen,
-bunt lackiert. Vor vierzig Gahren waren diese Stöcke sehr
-in Aiode. — Das Geschäft wickelte sich allzuschnell ab. Harst,
-merkte wohl, daß hier nichts zu erreichen war, diese Srau;
-ließ sich nicht aushorchen. GZuweilen hatte ich das scheußliche!
+Die seltsame Frau, aus der ich immer weniger klug wurde,
+zeigte sich äußerst wortkarg und schien auch überaus mißtrauisch
+zu sein. Ihr Stock, das erkannte ich sehr bald, war:
+bin sogenannten Totschläger: Stahlstange mit Lederplättchen,
+bunt lackiert. Vor vierzig Jahren waren diese Stöcke sehr
+in Kinde. — Das Geschäft wickelte sich allzu schnell ab. Harst,
+merkte wohl, daß hier nichts zu erreichen war, diese Frau;
+ließ sich nicht aushorchen. Zuweilen hatte ich das scheußliche!
 <@pagebreak/>
-Gefühl, daß sie uns mit ihren starren, hellen Augen höhnilch
+Gefühl, daß sie uns mit ihren starren, hellen Augen höhnisch
 anblinzelte. Wir bezahlten samt Vogelbauer 35 Mark, wir
-hatten Srau FSranziska kaum zehn Minuten genossen, und
-doch war ich froh, als wir giücklich wieder aus dem Bereich
+hatten Frau Franziska kaum zehn Minuten genossen, und
+doch war ich froh, als wir glücklich wieder aus dem Bereich
 dieser eisigen Augen auf der Straße angelangt waren, —
-Harst trug das Bogelbauer, das mehrsach in Papier ein-
-geschlagen war, und er schritt an unserer Caxe vorüber, ohne
+Harst trug das Vogelbauer, das mehrfach in Papier eingeschlagen
+war, und er schritt an unserer Taxe vorüber, ohne
 von Beck die geringste Notiz zu nehmen … Nur einen
 einzigen Blick wechselte er mit dem Argus-Mann, auf dem
 Alexanderplatz bestiegen wir eine Straßenbahn, und vor
 einer Mietskaserne draußen in Schöneberg warteten wir auf
 den Autobus nach Lichterfelde-West, wo wir angeblich — für
-Irau Sranzisekck — wohnten. Eine Autotaxe kam an der
+Frau Sranzisekck — wohnten. Eine Autotaxe kam an der
 Haltestelle vorüber, Beck feixte uns verstohlen an, — in der
-Caxe Jaß eine dicht verschleierte, imposante Srau, — -
-binterber kam unsere Neservetaxe, wir sstiegen ein, bogen in
+Taxe Saß eine dicht verschleierte, imposante Frau, — —
+hinterher kam unsere Reservetaxe, wir stiegen ein, bogen in
 eine Öitensiraße ab …
 
-Srau FSranziska mochte uns nun suchen!
+Frau Franziska mochte uns nun suchen!
 
-Beck hatte jeine Sache -glänzend gemacht, und nachher
-erzählte er uns auch, daß er Josort in der engen Gasse am
+Beck hatte seine Sache glänzend gemacht, und nachher
+erzählte er uns auch, daß er Sofort in der engen Gasse am
 Alexanderplatz gemerkt hätte, worum es ging, als die Frau
-ihm atemios besabl, uns zu sJolgen.
+ihm atemlos befahl, uns zu folgen.
 
-Wir waren nun wieder daheim in dem großen Glas-
-käfig von Atelier, — der andere Käfig hing an der Wand,
+Wir waren nun wieder daheim in dem großen Glaskäfig
+von Atelier, — der andere Käfig hing an der Wand,
 die Kanarienvögel zwitscherten, und Harst betrachtete sich sehr
 nachdenklich in einem Handspiegel. Seine Maske als Mister
-Steward Hollard war gewiß vorzüglich »troßdem schien er
-damit nicht recht zufrieden zu Jein … »Och glaube Jast, mein
-Alter, daß Srau FFFranziska ein noch besserer Detektiv ist, als
+Steward Hollard war gewiß vorzüglich »trotzdem schien er
+damit nicht recht zufrieden zu Sein … »Ach glaube Fast, mein
+Alter, daß Frau Affenkiste ein noch besserer Detektiv ist, als
 ihr Gemahl. Sie muß geahnt haben, wen sie vor sich hatte,
-und …« — ein Achselzucken — «… und ob sie uns hier nicht
+und …« — ein Achselzucken — »… und ob sie uns hier nicht
 doch aufstöbern wird, das bleibt abzuwarten. »Wenn nur Beck
 erst wieder zurück wäre und uns genaue Informationen brächte!«
 
 Bock kam, als wir Mittag aßen: Rührei mit Speck und
 Brötchen.
-<@pagebreak/>
 
-Beck strahlte … »Herr Harst, Srau Franziska, ver-
-witwete Gramsch, war die Besißerin jener Bogelhandlung
-in der Alotzstraße, zu der auch die Kellerkneipe »Zum Wellen-
-sittich« gehörte. Dort hauste jJeiner Seit die bewußte Bande
-der Wellensittiche, ohne daß die Gramsch ahnte, vas sich
-binter diesem Züchterverein verbarg. Sie hat dann jehr bald
-den Weber geheiratet, die Che soll jedoch Jehr unglücklich
-Jein … — Sind Sie zufrieden?«
+<@pagebreak/>
+Beck strahlte … »Herr Harst, Frau Franziska, verwitwete
+Gramsch, war die Besitzerin jener Vogelhandlung
+in der Motzstraße, zu der auch die Kellerkneipe »Zum Wellensittich«
+gehörte. Dort hauste Steinen Seit die bewußte Bande
+der Wellensittiche, ohne daß die Gramsch ahnte, das sich
+hinter diesem Züchterverein verbarg. Sie hat dann sehr bald
+den Weber geheiratet, die Ehe soll jedoch Sehr unglücklich
+Sein … — Sind Sie zufrieden?«
 
 Harst blickte ihn merkwürdig an. »Beck, hier haben
 Sie fünfzig Mark … nein, hundertfünfzig, geben Sie davon
-fünfzig Ohrem Kollegen … Haltet euch weiter in der Nähe
-auf und gebt auf alles acht. Ich fürchte … doch nein, — -
-zur FFeit esse ich Mittag, — auf Wiedersehen. «
+fünfzig Ihrem Kollegen … Haltet euch weiter in der Nähe
+auf und gebt auf alles acht. Ich fürchte … doch nein, — —
+zur Zeit esse ich Mittag, — auf Wiedersehen. «
+
 <@pagebreak/>
 
 <h2>2. Kapitel.</h2>
 
 <h3>Guddens Papiere.</h3>
 
-». Sn dem Atelierhause wohnten damals uns eingerechnet
-jünf Mieter. Die Berhaftung des Bildhauers Schüß war bis-
-her geheim geblieben, Kommissar Derneborg hatte alles äußerst
-geschickt erledigt, bei dem schräg gegenüber wohnenden Kauf-
-mann hatte ich ein Gespräch mit angehört, daß Schüt in eine
-Klinik »wegen Blinddarm« einggsijesert sei — ein etwas bitte-
-rer, aber geschmackentsprechendF Scherz.
+». In dem Atelierhause wohnten damals uns eingerechnet
+fünf Mieter. Die Verhaftung des Bildhauers Schütz war bisher
+geheim geblieben, Kommissar Derneborg hatte alles äußerst
+geschickt erledigt, bei dem schräg gegenüber wohnenden Kaufmann
+hatte ich ein Gespräch mit angehört, daß Schutz in eine
+Klinik »wegen Blinddarm« eingeliefert sei — ein etwas bitterer,
+aber geschmackentsprechendF Scherz.
 
 Unsere Mitbewohner kümmerten sich um uns Neulinge
 in keiner Weise, in diesem Glashaus lebte offenbar jeder für
-sich und seinen eigenen Sorgeit, von der Kriminalpolizei war
-mchts mehr zu spüren, und als ich nachmittags die Abond-
-zeitungen einkaufte und wir sie durchsahen, fanden wir nichts
+sich und seinen eigenen Sorgen, von der Kriminalpolizei war
+nichts mehr zu spüren, und als ich nachmittags die Abendzeitungen
+einkaufte und wir sie durchsahen, fanden wir nichts
 als eine knappe Notiz, daß es Graziosa Garzia besser ginge.
 
-Harst, der inzwischen drei Stunden geschlasen hatte (ich
+Harst, der inzwischen drei Stunden geschlagen hatte (ich
 nur zwei, denn ich träumte andauernd von Frau Franziskas
-unangenehmen Augen) warf die Heitungen auf den Cisch und
-horchte nach oben, wo ein junger Maler einen Lauksprocher
-of größter Kraft Ceemusik aus dem Adlon-Hotel aus]peien
-1esz.
+unangenehmen Augen) warf die Zeitungen auf den Tisch und
+horchte nach oben, wo ein junger Maler einen Lautsprecher
+of größter Kraft Geschneit aus dem Adlon-Hotel auftreten
+lese.
 
-»Entseßlich!«, stöhnte er.
+»Entsetzlich!«, stöhnte er.
 
 »Allerdings — scheußlich«, bestätigte ich.
 
 »Ich, du denkst an den Lautsprecher, — ich denke an
-diese Srau …«, — — »hallo, es läutet, — das ist Beck …«
+diese Frau …«, — — »hallo, es läutet, — das ist Beck …«
 
-Cs war der Arqus-Mann. Sehr außer … Atem, Jogar
-etwas verstört, und ganz gegen jeine Gewohnheit sprudelte
+Es war der Argus-Mann. Sehr außer … Atem, Sogar
+etwas verstört, und ganz gegen seine Gewohnheit sprudelte
 er hastig hervor: »Gudden ist in der Nähe … Seine Pimvusine
-hält an der Ce Hundekehlen-Straße. Sünszig Meter weitet
+hält an der Co Hundekehlen-Straße. Günstig Meter weitet
 <@pagebreak/>
-ein Sportzweisiber, und zwei Motorradler drücken sich hier
+ein Sportzweisitzer, und zwei Motorradler drücken sich hier
 ebenfalls herum.«
 
 Harst blieb davon unberührt. »Natürlich wird Gudden
@@ -1646,496 +1648,497 @@ Harst blieb davon unberührt. »Natürlich wird Gudden
 etwa?«
 
 Beck legte eine Kunstpause ein. »Hm — jetzt wird die
-Geschichte aanzlich verworren …«
+Geschichte gänzlich verworren …«
 
-»Also ist es die imposante verschleierke Dame«, meinte
+»Also ist es die imposante verschleierte Dame«, meinte
 Harst ungeduldig.
 
-- »Stimmt … — Wie kommen Sie gerade auf die Frau,
-Herr Harst?« Beck machte aus seiner Berblüfsung weiter kein
-Hehl. Aber eine Antwort erhiolt er nicht.
+— »Stimmt … — Wie kommen Sie gerade auf die Frau,
+Herr Harst?« Beck machte aus seiner Verblüffung weiter kein
+Hehl. Aber eine Antwort erhielt er nicht.
 
-»Cs kann zweierlei vorliegen. jagte Harst in einem
-Tone, als ob er seinon letzten Satz nur fortführte. »Cntweder
-hat Sranziska uns gefunden, oder sie ist hinter Gudden her. -
-Verschwinden Oie jet wieder, Bock, aber hinten über den
-Oaun. Die Gnltruktionen und Siqnale bleiben sinngemäß die-
-selben wie bisher, nur daß ich jetzt doppelte und dreifache
-Borsicht empfehle, da die Kanarienvögel koinen von uns schonen
-werden, sie sind mit dem OSchießeisen und sonstigen GFInstru-
-menten sehr flink bei der Hand, und …«
+»Es kann zweierlei vorliegen. jagte Harst in einem
+Tone, als ob er seinen letzten Satz nur fortführte. »Entweder
+hat Franziska uns gefunden, oder sie ist hinter Gudden her. —
+Verschwinden die jetzt wieder, Bock, aber hinten über den
+Dann. Die Instruktionen und Signale bleiben sinngemäß dieselben
+wie bisher, nur daß ich jetzt doppelte und dreifache
+Vorsicht empfehle, da die Kanarienvögel keinen von uns schonen
+werden, sie sind mit dem Schießeisen und sonstigen GFInstrumenten
+sehr flink bei der Hand, und …«
 
-Ich hörte nicht mehr hin, sondern wühlte in fieberhaster
-Hast in den Morgenzeitungen, bis ich das Gehn Uhr-Blakt
-erwischt hatie. Der Artikel, der unter den Meldungen über
-den Fall Garzia gestanden hatte, war mir eingoesallen, und
-unter »Neues über die Kanarienvöge!« las ich mit ausgerissenen
-Augen: »Bei den vielen bisher ungeklärten Berbrechen der
-lezten Zeit handelt es sich nach Ansicht unseres M … 5.—Bo-
-richterstatters um ein planmäßiges Wirken derselben Bande,
-die vor drei Iahren von der Polizei leider nur zum Ceil ge«
-faßt wurde. Wir haben unlängst schon von dem äußerst zwei-
-fjelhasten »Verein der Kanarienfreunde« gewarnt, und wir
-haben nunmehr unser Material der Kriminalpolizei über-
-geben, das besonders den einen Punkt unter sicheren Beweis
-stellte, daß genau wio einst die »Wellensittiche« nunmehr auch
+Ich hörte nicht mehr hin, sondern wühlte in fieberhafter
+Hast in den Morgenzeitungen, bis ich das Zehn Uhr-Blatt
+erwischt hatte. Der Artikel, der unter den Meldungen über
+den Fall Garzia gestanden hatte, war mir ausgefallen, und
+unter »Neues über die Kanarienvögel« las ich mit ausgerissenen
+Augen: »Bei den vielen bisher ungeklärten Verbrechen der
+letzten Zeit handelt es sich nach Ansicht unseres M … 5.—Berichterstatters
+um ein planmäßiges Wirken derselben Bande,
+die vor drei Fahren von der Polizei leider nur zum Teil gefaßt
+wurde. Wir haben unlängst schon von dem äußerst zweifjelhasten
+»Verein der Kanarienfreunde« gewarnt, und wir
+haben nunmehr unser Material der Kriminalpolizei übergeben,
+das besonders den einen Punkt unter sicheren Beweis
+stellte, daß genau wir einst die »Wellensittiche« nunmehr auch
 <@pagebreak/>
 die »Kanarienvögel« von einem Unbekannten geleitet werden,
-der aus dem Du«ol heraus seine Leute zielbewußt und rück —
-sichtslos kommanc ort und zum Beispiel! in dem Fall des großen
+der aus dem Duell heraus seine Leute zielbewußt und Ruck —
+sichtlich Hochmoor Ort und zum Beispiel! in dem Fall des großen
 Bankeinbruchs bestimmt mit einem Auto die »Arbeit« der
-Öinen überwachte. Violleicht wird jetzt endlich duch die
-übrige Presse ebenso wie die Kriminalpolizei aus ihrem Dorn-
-roschenschlaf erwachen, und uns nicht mehr als üble Sensa-
-fionsmacher anprangern.«
+Gitter überwachte. Vielleicht wird jetzt endlich durch die
+übrige Presse ebenso wie die Kriminalpolizei aus ihrem Dornröschenschlaf
+erwachen, und uns nicht mehr als üble Sensationsmacher
+anprangern.«
 
 Als ich zu Ende gelesen hatte, war Beck bereits aus und
 davon. Harst stand am Fenster und blickte in das Dunkel! des
-jeuchten Herbstabends hinaus. Dann trat er zurück, ließ do!
-Borhang fallen und meinte nur: »Man soll Zeitungen« genau
-lesen, mein Alter … Diese Kanarienvogel hätten dir jonst
-das Loebenslicht schneller ausblafan, als unser Kanarienhahn
-dort im Bauer ein Hanskorn aufknackt, — — falls du übrigens
-Luft hast, mitzukommen, dann bitte …« Er zog die Müße
+feuchten Herbstabends hinaus. Dann trat er zurück, ließ da!
+Vorhang fallen und meinte nur: »Man soll Zeitungen« genau
+lesen, mein Alter … Diese Kanarienvogel hätten dir sonst
+das Loebenslicht schneller ausblasen, als unser Kanarienhahn
+dort im Bauer ein Hongkong aufknackt, — — falls du übrigens
+Luft hast, mitzukommen, dann bitte …« Er zog die Mütze
 tief in die Stirn, schlüpfte in den leichten Gummimanto! und
-wandte sich dem kleinen FSlur zu.
+wandte sich dem kleinen Flur zu.
 
-Om Creppenhaus, das außerst geraumig war, brannto
+Hm Treppenhaus, das äußerst geräumig war, brannte
 eine verstaubte Lampe.
 
 An Bildhauer Schütz? Wohnungstür blieb Harst stehen
 und lautete. Die elektrische Glocke rasselte drinnen wie eine
-alte Kasfsoeemühle, Hars! vrüste mit der Caschenlampe die Cir
-1atider, fanden die vier« QAWmWachs angeklebten Haare unverletz!.
-ösjnete rasch mit einem Vietrich, wir schlüpften hinein, und
-nach kurzer Umichau wählte Harst als Rückzugslinie das
-Schlatstubenfenster, das er össneie, festklemmte, und mit einem
-Stiick Wäscheloine vorsah. — - »So, nun kann Gudden er-
-scheinen«, jlüsterte er im Sinstern und lehnte die Schlak’stuben-
-tür an, — Jie kreischte in den Gelenken, er ölte diese, probierte
-sie und war zusrieden.
+alte Kasfsoeemühle, Harst prüfte mit der Taschenlampe die Sir
+lauter, fanden die vier« Anwuchs angeklebten Haare unverletzt.
+öffnete rasch mit einem Dietrich, wir schlüpften hinein, und
+nach kurzer Umschau wählte Harst als Rückzugslinie das
+Schlafstubenfenster, das er öffnete, festklemmte, und mit einem
+Stück Wäscheleine vorsah. — — »So, nun kann Gudden erscheinen«,
+flüsterte er im Finstern und lehnte die Schlak’stubentür
+an, — Sie kreischte in den Gelenken, er ölte diese, probierte
+sie und war zufrieden.
 
-Wir standen hinter der Schlasstubentür, die wir bis auf
+Wir standen hinter der Schlafstubentür, die wir bis auf
 eine Spalte von zwei Handbreiten angelehnt hatten, und vor
 uns dehnte sich der Atelierraum im ungewissen Lichte der
 draußen brennenden Straßenlaternen in scheinbar unbegrenzte
 <@pagebreak/>
 Weite aus, während die Gegenstände darin, alles tote Dinge,
-jpukhafte Lebendigkeit gewannen,
+spukhafte Lebendigkeit gewannen,
 
-Da waren Gips- und Conmodelle aller Art. 1 waren
-hasb sertige und ganz fertige Marmorstatuen, Marmorköpfe
-und Ciergestalten, da waren noch souchte, erst begonnene Ar-
-beiten, über die der eifrig schassende Künstler nasse Cücher
-gebreitet hatte, die nun — ein unwillkürlicher Gedanke -
-den Cindruck von Leichentüchern vrwockten, unter denen sich
+Da waren Gips- und Tonmodelle aller Art. 1 waren
+halb fertige und ganz fertige Marmorstatuen, Marmorköpfe
+und Tiergestalten, da waren noch tauchte, erst begonnene Arbeiten,
+über die der eifrig schaffende Künstler nasse Löcher
+gebreitet hatte, die nun — ein unwillkürlicher Gedanke —
+den Eindruck von Leichentüchern bewachen, unter denen sich
 gräßliche Einzelheiten verbargen.
 
-Wir standen und warteten und das Warken wurde zu
-gespenstischem Crleben …
+Wir standen und warteten und das Warten wurde zu
+gespenstischem Erheben …
 
-Die weißen Menschengestalsen. in deuen kein Blut pul-
-sierte, reckten ihre Arme in das Halbdunkel hinein wie Er-
-slorbene, die um irgend etwas zu bitten schienen,
+Die weißen Menschengestalten. in denen kein Blut pulsierte,
+reckten ihre Arme in das Halbdunkel hinein wie Erstorbene,
+die um irgend etwas zu bitten schienen,
 
-Die Marmorbülten grinsten im Schlagschatten voller Hohn
-über die Bermessenheit der Menschen, aus totem Stoff ein
-Abbild des Lobeons zu schaffen.
+Die Marmorbüsten grinsten im Schlagschatten voller Hohn
+über die Vermessenheit der Menschen, aus totem Stoff ein
+Abbild des Bekenne zu schaffen.
 
-Allem, was Menschenhand, mag es auch die eines gott-
-begnadeten Künstlers sein, aus leblosem Stoff Lebensähnliches
-zu formen trachtet, haftet für den, der Gefühl dasür besitzt,
-unbedingt sieis etwas leichenhastes an, ob Skulptur oder Ge-
-inälde oder ein Relies… Die Natur als Erzeugerin läßt sich
-nicht ins Handwerk pfuschen, noch niemandem ilt es geglückt,
-aus fotem Stoss auch nur einen lebenden armseligen Wm
+Allem, was Menschenhand, mag es auch die eines gottbegnadeten
+Künstlers sein, aus leblosem Stoff Lebensähnliches
+zu formen trachtet, haftet für den, der Gefühl dafür besitzt,
+unbedingt stets etwas leichenhaftes an, ob Skulptur oder Gemälde
+oder ein Leises… Die Natur als Erzeugerin läßt sich
+nicht ins Handwerk pfuschen, noch niemandem ist es geglückt,
+aus rotem Stoß auch nur einen lebenden armseligen Am
 zu bi’den.
 
-Da war bosonders das Gipsmodell eines Pferdes. das
-mit Jeinen hochgeworfenen Vorderbeinen ein Cier im Sprunge
+Da war besonders das Gipsmodell eines Pferdes. das
+mit Seinen hochgeworfenen Vorderbeinen ein Tier im Sprunge
 nachahmend — sich trostlos lächerlich ausnahm, weil unter
-see Bauche ein sinnloser Baumstumpf den Körper stützen
+See Bauche ein sinnloser Baumstumpf den Körper stützen
 
-alf.
+als.
 
-Dieses Pferdemodell, auf einer Arf Drehscheibe errich-
-tet, geisierte durch die erwartungsjchwangere Dämmerung gleich
-einem erfrorenen Schmerzensschrei all der Keaturen, die von
-der Bestie Mensch erbarmungslos für seine Jchrankenlose
-Selbstsucht ausgenußt und bis zu allerleßten Kraft, bis zum
+Dieses Pferdemodell, auf einer Art Drehscheibe errichtet,
+geisterte durch die erwartungsschwangere Dämmerung gleich
+einem erfrorenen Schmerzensschrei all der Konturen, die von
+der Bestie Mensch erbarmungslos für seine Schrankenlose
+Selbstsucht ausgenutzt und bis zu allerletzten Kraft, bis zum
 <@pagebreak/>
-inüden Droschkengaul mit stolpernden steifen Beinen, hinab-
-gewirtschaftet werden. — »Wirtschaft« — ein Schlagwort …
+wilden Droschkengaul mit stolpernden steifen Beinen, hinab gewirtschaftet
+werden. — »Wirtschaft« — ein Schlagwort …
 Und Peitsche, ein Instrument zum Schlagen …
 
-Cs war ;:«tenstill ringsum.
+Es war ;:«Gangtür ringsum.
 
 Diese Stille weckte besondere Gedanken, denn diese Stille
 zauberte das Leben hervor in Gestalt flinker kleiner Mäuslein,
 die aus den Mauern und Dielen hervorhuschen und bescheiden
 nach dem suchten, was ihrem Dasein notwendig.
 
-Crippelnd laufen sie hin und her und Jammelten die
-Brojamen auf, die unter den Cisch gefallen, an dem der Bild-
-bauer zu essen pflegte. Eins der Cierchßen erwischte Jogar eine
-Brotrinde, und die anderen stürzten herbei, ein Kampf be-
-gann, ein Piepsen und Pfeifen ertönte, ein grauer Knauel!
-ballte sich auf dem Ceppich zusammen, und — — ich dachte an
-die Wenschen, die herdenweise naß Brot und Arbeit suchen
-und keine Rücksicht mehr kennen, wo es gilt, einen Vorteil zu’
+Erinnernd laufen sie hin und her und Taumelten die
+Personen auf, die unter den Tisch gefallen, an dem der Bildhauer
+zu essen pflegte. Eins der Tierchen erwischte Sogar eine
+Brotrinde, und die anderen stürzten herbei, ein Kampf begann,
+ein Piepsen und Pfeifen ertönte, ein grauer Knäuel!
+ballte sich auf dem Teppich zusammen, und — — ich dachte an
+die Menschen, die herdenweise naß Brot und Arbeit suchen
+und keine Rücksicht mehr kennen, wo es gilt, einen Vorteil tu’
 erhaschen.
 
 Der Spuk zerstob …
 
-Einjam lag die Brotrinde da …
+Einsam lag die Brotrinde da …
 
-Draußen im Flur kreischte ein ungeschickt gehandhabtler
+Draußen im Flur kreischte ein ungeschickt geheuchelter
 Nachschlüssel.
 
-Dann blitnkte ein heller Streifen auf, dünn und grell, irrte
+Dann blinkte ein heller Streifen auf, dünn und grell, irrte
 als leuchtender Kegel langsam über die tote Welt des Ateliers,
-hastete hier und dort wie lauernd auf ein verdachtig erscheinen-
-des Nichts, — — und blieb schließlich zah auf dem sich bäumen-
-den Pferde kleben, als ob gerade dieses Modell des heim-
-lichen Eindringlings Aufmerksamkeit weckte,
+hastete hier und dort wie lauernd auf ein verdächtig erscheinendes
+Nichts, — — und blieb schließlich sah auf dem sich hämmerten
+Pferde kleben, als ob gerade dieses Modell des heimlichen
+Eindringlings Aufmerksamkeit weckte,
 
-Cs war Doktor Gudden.
+Es war Doktor Gudden.
 
-Wir, im Schlafzimmer hintsr der angelehnten Cür anf-
-merksame Beobachter dieser Szene, bemerkten sehr woh! den
-Ochatten, der jetzt lautlos vom Flur her sich Doktor Gudden
-näherte, dessen rechte Hand bereits den Kopf des Pserde-
-modells gepackf hatte und den Kopf und den halben Rumv
-nach unten klappte, in die Höhlung hineingriss und ein Bündel
+Wir, im Schlafzimmer hinter der angelehnten Tür aufmerksame
+Beobachter dieser Szene, bemerkten sehr wohl den
+Schatten, der jetzt lautlos vom Flur her sich Doktor Gudden
+näherte, dessen rechte Hand bereits den Kopf des Pferdemodell
+gepackt hatte und den Kopf und den halben Ums
+nach unten klappte, in die Höhlung hineinglitt und ein Bündel
 Papiere hervorholte.
-<@pagebreak/>
 
-Harst drängte mich zur Seite, duckte sich, wollte zu-
-springen, da die Gestalt hinfker Gudden den Arm gehoben
+<@pagebreak/>
+Harst drängte mich zur Seite, duckte sich, wollte zuspringen,
+da die Gestalt linker Gudden den Arm gehoben
 hatte.
 
-Was dann geschah, spielte sich so blitzschhnell ab, daß man die
-einzelnen Borgänge nur schwer auseinanderhalten konnte.
+Was dann geschah, spielte sich so blitzschnell ab, daß man die
+einzelnen Vorgänge nur schwer auseinanderhalten konnte.
 
-Hinter dem Schatten mit dem drohend erhot :»en Arm
-erschien blitzschnell ein zweiter, Jchhlug zu, riß den Angreiser
+Hinter dem Schatten mit dem drohend erholt :»en Arm
+erschien blitzschnell ein zweiter, Schlug zu, riß den Angreifer
 Guddens in den Flur, die Flurtür schlug zu, — — trotzdem
-war Guddens Caschenlampe berumgeschwenkt, und der Licht-
-kegel! traf sür Sekunden, bevor die Tür ins Schloß krachte,
-das .- «tibärtige bleiche »bebrillte Antlitz des ratlelhasten Uhus.
+war Guddens Taschenlampe herumgeschwenkt, und der Lichtkegel!
+traf für Sekunden, bevor die Tür ins Schloß krachte,
+das .- »tibärtige bleiche »bebrillte Antlitz des rätselhaften Uhus.
 
-dzar]t, soeben noch sprungbereit, flüchtete schleunigst in das
+deutet, soeben noch sprungbereit, flüchtete schleunigst in das
 Schlafzimmer zurück, — wir sahen, wie Gudden sich bückte,
-von dem fadenscheinigen Ceppich ein schmales, langes Dolch-
-messer aufhob, zu sich steckte, die Papiere in den Mantel schob,
+von dem fadenscheinigen Teppich ein schmales, langes Dolchmesser
+aufhob, zu sich steckte, die Papiere in den Mantel schob,
 und das Pferdemodell wieder zuklappte und unentschlossen mit
-vorgeneigtem Kopf eine Weile lauschend verharrte, bis er
+vorgeneigten Kopf eine Weile lauschend verharrte, bis er
 seine Lampe wieder anders richtete und wir nur noch gerade
-hinter der Cur Deckung nehmen konnten.
+hinter der Tür Deckung nehmen konnten.
 
-Gudden stieß die Cür auf, näherte sich dem von uns ge-
-Vssneten Zenster und stutzte, als er den einen Flügel nur an-
-gelehnt und den am FSensterbreit festgebundenen Strick be-
-merkte.
+Gudden stieß die Tür auf, näherte sich dem von uns gesegneten
+Fenster und stutzte, als er den einen Flügel nur angelehnt
+und den am Fensterbrett festgebundenen Strick bemerkte.
 
 Harst versetzte mir einen leichten Stoß, hatte im Nu die
-Oleoppdecke vom Bett ausgerasst, — ein kurzes Ningen, der
-crme Doktor wurde zum locker verschnürten Paket, und in
-wiider Hast flüchteten wir durch den Flur und durch das ! … —
-stille, leere Cieppenhaus in unser eigenes Heim, wo noch s…:
-lich die Cilchlampe brannte. Gudden hatte sich kaum gewehrt,
-war auf das zerwühlte Bett geslogen und hatte uns als leine
-Angreiser in der Dunkelheit unmöglich erkannt. Es mußte
+Oleoppdecke vom Bett ausgenutzt, — ein kurzes Gingen, der
+eine Doktor wurde zum locker verschnürten Paket, und in
+wilder Hast flüchteten wir durch den Flur und durch das! … —
+stille, leere Treppenhaus in unser eigenes Heim, wo noch s…:
+lich die Tischlampe brannte. Gudden hatte sich kaum gewehrt,
+war auf das zerwühlte Bett geflogen und hatte uns als Leine
+Angreifer in der Dunkelheit unmöglich erkannt. Es mußte
 ihm ein leichtes sein, sich in kurzem selbst zu befreien, und ob
-er dann dem blißschnellen Berlauf der letzten Erlebnisse als
+er dann dem blitzschnellen Verlauf der letzten Erlebnisse als
 Mann von persönlichem Mut und kluger Beherrschtheit weiter
-nachspüren würde, blieb abzuwarten. Ich dachte mit einigew
+nachspüren würde, blieb abzuwarten. Ich dachte mit einigen
 <@pagebreak/>
 Unbehagen an die nächste Viertelstunde. Sie verlief jedoch
 anders, als ich es befürchtet hatte.
 
-Harst warf das Bündel Papiere auf den Cisch, das er
-Gudden abgenommen hatte, und saate ernst und mit einer
-jchrosfen Handbewegung des Widerwilleuns: »Cs war ein ge
+Harst warf das Bündel Papiere auf den Tisch, das er
+Gudden abgenommen hatte, und sagte ernst und mit einer
+schlossen Handbewegung des Widerwille uns: »Es war ein ge
 meiner Streich …!!«
 
-Cr Jette sich und blinzelte mich mit sast bösem Gesicht an.
+Er Setzte sich und blinzelte mich mit fast bösem Gesicht an.
 »Gemein, — aber die Sache muß so oder so beendet werden,
 — ich bin für das erste »so«, und das bedeutet: Die schuldlos
 mit Hineingezogenen schonen!!« Er griff nach dem Bündel
-»Papiere, das mit Bindfaden umschnürt war. »Un«? dieses
-»10«, mein Alter, entschuldigt vieles, Jelbst diesen Übc’ sall auf
-den Doktor. Gudden wird längst … — hallo, — — i2r Lärm
-auf der Straße?! Licht aus!!« Er stürzte ans Fenst-, riß es
-auf, und wir hörten das Knattern von Motorrätern und
+»Papiere, das mit Bindfaden umschnürt war. »An«? dieses
+»10«, mein Alter, entschuldigt vieles, Selbst diesen Übc’ soll auf
+den Doktor. Gudden wird längst … — hallo, — — ist Lärm
+auf der Straße?! Licht aus!!« Er stürzte ans Sonst-, riß es
+auf, und wir hörten das Knattern von Motorrädern und
 dann drei … vier Pistolenschüsse …
 
-Wir lehnten uns weit hinaus, jedoch die Dun-lhoit und
-der Negen, der vorhin mit jäher Wucht einge 3t hatte.
-niachten es uns unmöglich, irgend etwas zu erke« ien. Der
-Lärm der Motorräder entfernte sich, nur noch -ufgereqic
-Stimmen drangen zu uns empor und zuweilen :as sanjie
+Wir lehnten uns weit hinaus, jedoch die Dunklen und
+der Gegen, der vorhin mit jäher Wucht Dinge 3t hatte.
+machten es uns unmöglich, irgend etwas zu Erde« her. Der
+Lärm der Motorräder entfernte sich, nur noch aufgeregte
+Stimmen drangen zu uns empor und zuweilen:as sauste
 Schnurren eines Autos, das der Millionärkolon Dahlem
-geilfertig zustrebte, wo wenige Menschen in prächt «en Villen
+Halbfertig zustrebte, wo wenige Menschen in Tracht »en Villen
 und Garten nichts wußten und nichts wissen wollt: von dein
-Ooid und der Not Unzähliger. — Harst schloß das Tenster ersi,
-a!s in der Serne ein grünes Pünktchen aufglühte, »rei Kreije
+Gold und der Not Unzähliger. — Harst schloß das Fenster erst,
+als in der Ferne ein grünes Pünktchen aufglühte, »rot Kreise
 beschrieb und erlosch. — Es war Becks Signal, daß er in
 Kurzem bei uns erscheinen würde.
+
 <@pagebreak/>
 
 <h2>3. Kapitel.</h2>
 
-<h3>Meine Cheorie.</h3>
+<h3>Meine Theorie.</h3>
 
-Wir Jaßen am Cisch neben dem inächtigen Kachelofen
-und Jahen die Papiere eilends durch. Cs wurde eine arge
-Cnttäuschung, dein in der Hauptsache handelte es sich um
-alte Zeitungsausschnitte, die sich sämtlich auf den Berein der
+Wir Saßen am Tisch neben dem mächtigen Kachelofen
+und Sahen die Papiere eilends durch. Es wurde eine arge
+Enttäuschung, dein in der Hauptsache handelte es sich um
+alte Zeitungsausschnitte, die sich sämtlich auf den Herein der
 Wellensittiche und auf die damalige Gerichtsverhandlung gegen
 die Verhafteten bezogen. Allerdings hatte Gudden an den
-Rand dieser Ausschnitte einige Bleististnotizen flüchtig hin-
-geworfen, und diese seine Randbemerkungen bewiesen, daß er
-au der Terson des unbekannt gebliebenen Obersittichs das
-größte Gnteresse gehabt haben mußte. — Dann gab es noch
-zwei mit Cinte beschriebene Bogen, — der eine war ein Ber-
-trag zwischen Gudden und dem Bildhauer Schüt, für den
+Rand dieser Ausschnitte einige Bleistiftnotizen flüchtig hingeworfen,
+und diese seine Randbemerkungen bewiesen, daß er
+zu der Person des unbekannt gebliebenen Obersittichs das
+größte Interesse gehabt haben mußte. — Dann gab es noch
+zwei mit Tinte beschriebene Bogen, — der eine war ein Vertrag
+zwischen Gudden und dem Bildhauer Schutz, für den
 Preis von 5000 Mark eine Marmorbüste Graziosa Garzias
-herzustellen und hierüber Schweigen zu bewahren, ebenso Gra-
-zwsas Besuche bei ihm — Schütz — sorgfältig geheim zu
-halien. Diese Besuche hafte Ochütz offenbar verlangt, um
+herzustellen und hierüber Schweigen zu bewahren, ebenso Gegensatz
+Besuche bei ihm — Schütz — sorgfältig geheim zu
+halten. Diese Besuche hatte Schutz offenbar verlangt, um
 nicht lediglich nach den Photographien Graziosas arbeiten zu
-inüssen. -«- Das zweite Papier euthielt eine Niederschrift dos
-Bildhauers für Gudden des önhalts, daß der Doktor sich …
+müssen. — Das zweite Papier enthielt eine Niederschrift das
+Bildhauers für Gudden des spielte, daß der Doktor sich …
 bedingt auf Schütz verlassen könne, mochte geschehen, was da
-wolle. Sie war noch recht frisch, und Schüiß konnte sie erst
-kurz vor seiner Berhajtung geschrieben haben, worauf der
+wolle. Sie war noch recht frisch, und Schuft konnte sie erst
+kurz vor seiner Verhaftung geschrieben haben, worauf der
 Satz hinwies: »Sollte irgendwie Gefahr drohen, werde ich die
-Büste G.’s vernichten, um der Polizei auch diesen Anhaltspunkt
+Büste G’s vernichten, um der Polizei auch diesen Anhaltspunkt
 zu entziehen.«
 
 Harst lehnte sich zurück »nahm eine neue Zigarette und
-meinte beduchtig: »Cs wird Geit, mein Alter, den Fall Gra-
-zioja nun einmal, nachdem wir eine Alenge Tatsachenmaterial
+meinte beduchtig: »Es wird Zeit, mein Alter, den Fall Graziosa
+nun einmal, nachdem wir eine Menge Tatsachenmaterial
 <@pagebreak/>
 zusammengetragen haben, kurz zu skizzieren. Was wissen wir
-bestimmt? — Ich begnüge mich mit Stichworten. Bor drei
-Gahren Wellensittich-Prozeß, für den Gudden sich interessiert.
+bestimmt? — Ich begnüge mich mit Stichworten. Vor drei
+Jahren Wellensittich-Prozeß, für den Gudden sich interessiert.
 Der Obersittich, geheimnisvolle Persönlichkeit, entwischt. Die
 Besitzerin der Kellerkneipe der Sittiche, Franziska verwitwete
-Gramsch, bleibt außer Betracht, auch damals wie jetzt jührte
+Gramsch, bleibt außer Betracht, auch damals wie jetzt führte
 Kriminalkommissar Derneborg die Ermittlungen, die Gramsch
-heiratet Weber, Assistent beim Caschendiebstahlsdezernat, eine
-bisher verkannte Eröße, Che unglücklich, da ZSranziska zu viel
-Kanarienvögel züchtet und zu viel Kafsee trinkt und zu dick ist.
-— Unser Urteil über Sranziska: Cine äußerst energische, schlaue,
-beberrs]chte Person, die trotz ihrer nadelscharfen Cisauaen
+heiratet Weber, Assistent beim Taschendiebstahlsdezernat, eine
+bisher verkannte Größe, Ehe unglücklich, da Franziska zu viel
+Kanarienvögel züchtet und zu viel Kaffee trinkt und zu dick ist.
+— Unser Urteil über Franziska: Eine äußerst energische, schlaue,
+beherrschte Person, die trotz ihrer nadelscharfen Ersonnen
 zweifellos geheimen Kummer hat. — Der Fall der Sittiche
-greift über auf die Gegenwart durch das Attentat auf Gra-
-ziosa Garzia, deren Gatte Schattfiil vielleicht ehemals der
-Obersittich gewesen Jein kann. Wir lernen Gudden kennen,
+greift über auf die Gegenwart durch das Attentat auf Graziosa
+Garzia, deren Gatte Schattfiil vielleicht ehemals der
+Obersittich gewesen Sein kann. Wir lernen Gudden kennen,
 wir erhalten Beweise, daß Gudden Graziosa Garzia seit langem
 nahestand, daß Graziosa Gudden in der Holzvilla in Wannsee
 besucht hat …«
 
-»Hier siel ich ein. »Beweise, — welche
+»Hier fiel ich ein. »Beweise, — welche
 
-»wn der Holzvilla fand ich nur Kaffeegeschirr für zwei
-Personen, allerfseinstes Geschirr, und serner — — dies hier.«
-Er schwenkte ein Caschentüchlein … »Bitte — sind das
-echte Spitzen oder nicht?! dst das hier ein Monogramm
+»an der Holzvilla fand ich nur Kaffeegeschirr für zwei
+Personen, allerfeinstes Geschirr, und seiner — — dies hier.«
+Er schwenkte ein Taschentüchlein … »Bitte — sind das
+echte Spitzen oder nicht?! Ost das hier ein Monogramm
 G. 6.21«
 
-»Cs genügt mir. — Weiter …« Meine Higarre war
-erloschen. Wenn Harst emen Fall skizziert, muß man aus-
-passen und vergißt alles andere.
+»Es genügt mir. — Weiter …« Meine Zigarre war
+erloschen. Wenn Harst Omen Fall skizziert, muß man aufpassen
+und vergißt alles andere.
 
 »-. Wir wissen, daß ein Unbekannter, der graue Uhu,
-jebt mit aller Hartnäckigkeit verschiedenen Personen ans
+jetzt mit aller Hartnäckigkeit verschiedenen Personen ans
 Leben will, daß das erste Opfer Graziosa werden sollte, mit
-Hilfe von zwei Pappköpfen, die der Uhu bei Schiitz bestollte.
-Opfer Nr. 2 sollte Schütz werden. Ein Qusall, ein Nagel,
+Hilfe von zwei Pappköpfen, die der Uhu bei Schritt bestellte.
+Opfer Nr. 2 sollte Schütz werden. Ein Dusel, ein Nagel,
 rettete ihn. Den Nagel wird er selbst kürzlich in die Wand
-geschlagen haben, — er ist jedenfalls genau so schyldlos wie
+geschlagen haben, — er ist jedenfalls genau so schuldlos wie
 <@pagebreak/>
-der verliebte Doktor Gudden, der ein Menschck von ungeheurer
-Selbstdisziplin ist. Bedenke, wie qut er sich im Zirkus be-
-herrjchte, obwohl die FSrau, die er liebt, schwer verletzt aus
-dem Käsiq getragen wurde. Opser Nr. 3 ist Gudden selbst,
+der verliebte Doktor Gudden, der ein Marsches von ungeheurer
+Selbstdisziplin ist. Bedenke, wie gut er sich im Zirkus beherrschte,
+obwohl die Frau, die er liebt, schwer verletzt aus
+dem Käfig getragen wurde. Opfer Nr. 3 ist Gudden selbst,
 —» der graue Uhu knüpft auch ihn auf, rast an uns in einem
 Sportzweisitzer vorüber … Und dann die Nebenumstände, dann
-die heutigen Borgänge. — Was alsv entnimmnst du aus alle-
-dem? Bitte, kurz und bündig!«
+die heutigen Vorgänge. — Was also entnimmst du aus alledem?
+Bitte, kurz und bündig!«
 
-Ich überlegte. Cs gab nur eine Veutung:
+Ich überlegte. Es gab nur eine Deutung:
 
 »Gut, kurz und bündig: Schamil Garzia gehörte vor drei
-Jahren zu den Sitfichen, war vielleicht der Obersittich, ist
-ein Mann von brutaler Eijsersucht, kannte Guddens lang-
-jährige Beziehungen zu seiner Srau, — du Jelbst belauschtest
-ginge Eifersuchtsszene. — Schami! ist der graue Uhu!«
+Jahren zu den Stricken, war vielleicht der Obersittich, ist
+ein Mann von brutaler Eifersucht, kannte Guddens langjährige
+Beziehungen zu seiner Frau, — du Selbst belauschtest
+ginge Eifersuchtsszene. — Schamil ist der graue Uhu!«
 
 Harst. lauschte aus das Knattern des Regens, der gegen
-das große FSenster schlug. Er wehte den Rauch seiner Sigarette
+das große Fenster schlug. Er wehte den Rauch seiner Zigarette
 bei Seite und schüttelt leicht den Kopf.
 
-»Kurz und bündio »aber salsch. mein Alter … Die Lö-
-sung des ganzen »Problems — denn dies ist ein Problem, da
-zahllose seelische Cinwirkungen mitsprechen — liegt in der Be-
-wertung der letzten Szene in Schutz Atolier. Vorgegenwärtigve
-dir: Gudden erscheint, um aus dem Worsteck die Papiere zu
-holen, die auf keinen Fall in die Hände der Polizei oeraten
-sollen. Hinter ihm taucht ein Schatten auf, — os war zu
-dunkel, diesen Schatten genacer zu erkennen, Catsack: eibt:
-Dieser Schatten will Gyudden hinterrücks niederstechen, da er-
-scheint ein zweiter, verhindert den Mord, reißt den ersten in
-den Flur, beide verschwinden dann. — Prüse einmal diese Er-
-eignisse sorasältig nach. Wenn deine Cheorie richtig wäre,
-inüßte der ersfe Schatten Schamil Garzia gewesen sein. Wer
-war aber der zweite?! - - Gut, einer davon war der graue
-Uhu, das jJahen wir gerade noch. Aber der andere?! Wer?!«
+»Kurz und bündig »aber falsch. mein Alter … Die Lösung
+des ganzen »Problems — denn dies ist ein Problem, da
+zahllose seelische Einwirkungen mitsprechen — liegt in der Bewertung
+der letzten Szene in Schutz Atelier. Vorgegenwärtigve
+dir: Gudden erscheint, um aus dem Versteck die Papiere zu
+holen, die auf keinen Fall in die Hände der Polizei geraten
+sollen. Hinter ihm taucht ein Schatten auf, — es war zu
+dunkel, diesen Schatten ganzer zu erkennen, Entfacht: eilt:
+Dieser Schatten will Einöden hinterrücks niederstechen, da erscheint
+ein zweiter, verhindert den Mord, reißt den ersten in
+den Flur, beide verschwinden dann. — Frühe einmal diese Ereignisse
+sorgfältig nach. Wenn deine Theorie richtig wäre,
+müßte der erste Schatten Schamil Garzia gewesen sein. Wer
+war aber der zweite?! — — Gut, einer davon war der graue
+Uhu, das stehen wir gerade noch. Aber der andere?! Wer?!«
 
-Er blickte auf seine Armbanduhr. »Es ist jet genau
+Er blickte auf seine Armbanduhr. »Es ist jetzt genau
 zwanzig Minuten nach sieben Uhr … Die große rätselhafte
-Szene in Schütz« Atolier spielte sich etwa um sieben ab. — Dort
+Szene in Schütz« Atelier spielte sich etwa um sieben ab. — Dort
 <@pagebreak/>
-steht das Colephon … Hier rufe diese Nummer an … « Er
+steht das Telephon … Hier rufe diese Nummer an … « Er
 reichte mir einen Zettel.
 
-Cs war die Nummer der Privatklinik, in der Graziosa
+Es war die Nummer der Privatklinik, in der Graziosa
 Garzia der Genesung entgegenging.
 
-»Rufe an und erkundige dich nach Graziosas Bofindon …
-Oprich gebrochen Dentsch, erkläre, du hattest dem Unsall bei-
-gewohnt, und da du sehon in London als Cnglander den ’Vres-
-jurakt bewundert hättest … — und sso weiter …«
+»Rufe an und erkundige dich nach Graziosas Befinden …
+Sprich gebrochen Deutsch, erkläre, du hattest dem Unfall beigewohnt,
+und da du schon in London als Engländer den ’Vres-
+Zufall bewundert hättest … — und sie weiter …«
 
-Sch rief an, eine Schwester meldete sich, und wir er-
-juhren, daß Schamil Garzia seit sechs Uhr am Bett seiner
-Gattin säße, deren Hustand sehr besriedigend sei … Seit
-jechs Uhr — — und noch jetzt, betonte die Schwester, die
+Ich rief an, eine Schwester meldete sich, und wir erfuhren,
+daß Schamil Garzia seit sechs Uhr am Bett seiner
+Gattin säße, deren Zustand sehr befriedigend sei … Seit
+sechs Uhr — — und noch jetzt, betonte die Schwester, die
 diese Liebe wohl sehr rührend fand.
 
-Sch dankte, hängte ab und jagte zu Harlst:
+Ich dankte, hängte ab und jagte zu Harsts:
 
-»Hiernach ändert sich meine« Cheorie. Franziska Weber,
-verwitwete Gramsch, ilt der graue Uhu, und — — dabei
-bleibe ich nun endgültig. Cs, muß Jo jein. Dieses Weib
+»Hiernach ändert sich meine« Theorie. Franziska Weber,
+verwitwete Gramsch, ist der graue Uhu, und — — dabei
+bleibe ich nun endgültig. Es, muß So sein. Dieses Weib
 hat bisher alle Welt getäuscht, und …«
 
-»Das stimmt«, pslichtete Harst gelassen bei.
+»Das stimmt«, pflichtete Harst gelassen bei.
 
 »»… und Amatias Weber — übrigens ein ganz verrückter
-Borname — war eben der zweite Schatten, der deu Mord
+Vorname — war eben der zweite Schatten, der den Mord
 verhinderte … Schamil Garzia aber war einst einer der
-Sittiche, entkam ebeonsalls und wußte als einziger, wer der
-Obersittich war »eben Sranziska. Veshalb wollte diesos Weib
+Sittiche, entkam ehrenvolle und wußte als einziger, wer der
+Obersittich war »eben Franziska. Weshalb wollte dieses Weib
 ihn heimtückisch verderben, deshalb …«
 
-Harst gähnte herzhoft.
+Harst gähnte herzhaft.
 
-»Wie, du … gähnst?! Du zweiselst an dieser Choorie 21«
+»Wie, du … gähnst?! Du zweifelst an dieser Theorie 21«
 
-»ech schlafe darüber ein, mein Alter, entschuldige schon.
-— Es läutet schon zum dritfen Mal … Gehe öffnen. Es ist
-Sreund Argus-Beck.«
+»echt schlafe darüber ein, mein Alter, entschuldige schon.
+— Es läutet schon zum dritten Mal … Gehe öffnen. Es ist
+Freund Argus-Beck.«
 
-Ich war empört, doch nur inäßig.
+Ich war empört, doch nur mäßig.
 
 Wenn Harst gähnt, muß ich Unsinn geredet haben,
 
 Wo lag nun die Wahrheit?!
+
 <@pagebreak/>
 
 <h2>4. Kapitel.</h2>
 
 <h3>Die Garage des Uhus.</h3>
-Beck trank zuerst ein Wajserglas Kognak.
-»Oaumwetter, meine Herren … Gch triese und friere …«
-Er troff. Aber srieren?! Cin Kerl wie Berk srieri
+Beck trank zuerst ein Wasserglas Kognak.
+»Sauwetter, meine Herren … Ach kniete und friere …«
+Er troff. Aber spielen?! Ein Kerl wie Werk spielt
 nicht.
 
 Er erzählte. »Dolle Geschichte war das, Herr Harst …!
-Gch war einsach platt … Kommt da mit einem Male ein
+Ach war einfach platt … Kommt da mit einem Male ein
 Kerl, grauer Uhu, zur Gartenpforte heransgeschossen und rast
-aus dern Oweisißer zu … Sprinqat hinoin, gibt Gas … Brüllt
-da plößlich dieser Weber mit seiner Ristelstimmeo: »Aufhalten
-— — niederschießen — — Mord!!« Wo dor dürre Weber
-herkam, weiß ich nicht … Er muß im Gebisch der Anlagen
-versteckt gelegen haben. Die vier Motorradlter — ich wußte
-ja, daß es Geheime waren — sausen hinler dem Uhu her,
+aus denn Quetschen zu … Sampans hinein, gibt Gas … Brüllt
+da plötzlich dieser Weber mit seiner Ristelstimmeo: »Aufhalten
+— — niederschießen — — Mord!!« Wo vor dürre Weber
+herkam, weiß ich nicht … Er muß im Schlich der Anlagen
+versteckt gelegen haben. Die vier Motorradler — ich wußte
+ja, daß es Geheime waren — sausen hinter dem Uhu her,
 schießen, schreien »Halt!« — Hat sich was … Der Uhu saust
-wie der Satan, war im Nu verdustet … — - Und dann
-beobachtete ich Doktor Gudden, der etwas lendenlahm :’« soiner
-Limousine schlich und obenfalls verdustete. Bett steb: +om-
-missar Derneborg, Weber und drei Ossizielle vor dem Atelier-
-haus und berateit. Gch fürchte, es wird hier sehr bald dicke
-Luft geben, Herr Harst … Halls Sie in öShrem Koffer eine
-Strickleiter haben, turnen wir am besten zum Senster hinaus,
-die Vordersront wird nicht bewacht, der Hofeingang liegt ja
-an der Seite, aber allzulange dürsen wir uns hier nicht mehr
+wie der Satan, war im Nu verduftet … — — Und dann
+beobachtete ich Doktor Gudden, der etwas lendenlahm:’« seiner
+Limousine schlich und ebenfalls verduftete. Bett Dieb: vom
+wissen Derneborg, Weber und drei Offizielle vor dem Atelierhaus
+und beraten. Ach fürchte, es wird hier sehr bald dicke
+Luft geben, Herr Harst … Halls Sie in seinem Koffer eine
+Strickleiter haben, turnen wir am besten zum Fenster hinaus,
+die Vorderfront wird nicht bewacht, der Hofeingang liegt ja
+an der Seite, aber allzulange dürfen wir uns hier nicht mehr
 aufhalten …«
 
-»Weber …«, murmelte Harst zerstreut. »Sa, »Seber ist
-gejährlich, der jteckt jelbst Derneborg in die cache … —
+»Weber …«, murmelte Harst zerstreut. »Ja, »Seher ist
+gefährlich, der steckt selbst Derneborg in die Sache … —
 Gut, verschwinden wir … Raus mit der Strickleiter … Die
-Kosser werden mitgenommen …
-<@pagebreak/>
+Koffer werden mitgenommen …
 
-Daß wir glücklich bis zu Becks Caxe gelangten, ver-
-dankten wir nur dem einen blinden Zufall, daß der Beamte,
-der doch die Borderfront bewachte, durch den Zusammenstoß
+<@pagebreak/>
+Daß wir glücklich bis zu Becks Taxe gelangten, verdankten
+wir nur dem einen blinden Zufall, daß der Beamte,
+der doch die Vorderfront bewachte, durch den Zusammenstoß
 der Straßenbahn mit einem Privatauto für Minuten sich etwas
 entfernte.
 
 »Wohin?«, fragte Beck.
 Harst nannte eine Straße am Alexanderplatz,
 
-Wir suhren davon, hinter uns her kam unser Reserve-
-wagen, und wie nüßlich dieser uns werden konnte, merkten
+Wir fuhren davon, hinter uns her kam unser Reserve wagen,
+und wie nützlich dieser uns werden konnte, merkten
 wir erst jetzt, als Harst feststellte, daß ein Sportwagen dauernd
-binter uns klebte und durchaus nicht abzuschütteln war.
+hinter uns klebte und durchaus nicht abzuschütteln war.
 
 Harst gab dem zweiten Argus Mann ein Signal mit
-der Taschenlampe. Wir befanden uns bereits im Ciergarten-
-viertel, eine Straße war halb aufgerissen: Cinbahnverkehr!
-Und gerade hier stellte unser Helser seine Caxe schräg über den
-schmalen ZSahrdamm, d.t Sportwagen mußte halten, und wir
+der Taschenlampe. Wir befanden uns bereits im Tiergartenviertel,
+eine Straße war halb aufgerissen: Einbahnverkehr!
+Und gerade hier stellte unser Helfer seine Taxe schräg über den
+schmalen Fahrdamm, Dr Sportwagen mußte halten, und wir
 entwischten, kamen in das düstere Gassengewirr am roten
-Alex, hielten vor der langen Mauer einer Fabrik, Beck suhr
-allein weiter, und Harst hatte die Pforte in dem eisernen Za-
-briktor bald osfen, ich trug einen unserer Koffer, wir schlüpften
+Alex, hielten vor der langen Mauer einer Fabrik, Beck fuhr
+allein weiter, und Harst hatte die Pforte in dem eisernen Fabrikat
+bald offen, ich trug einen unserer Koffer, wir schlüpften
 hinein, schlossen wieder ab, wanderten über Schutt und Gras
 und Steine auf das große Gebäude mit dem dicken Schornstein
-zu, und gerade dieser Schornstein gab mir zu denken: Cs war
-derselbe, den ich vormittags von Webers Fenstern aus gae-
-Jeben hatte, und dieses Grundstück hier war die tote Fabrik.
+zu, und gerade dieser Schornstein gab mir zu denken: Es war
+derselbe, den ich vormittags von Webers Fenstern aus gegeben
+hatte, und dieses Grundstück hier war die tote Fabrik.
 
-Harst ließ sich Heit, wir bosichtigten die Gebäude, und
+Harst ließ sich Zeit, wir besichtigten die Gebäude, und
 als wir in einem Anbau mit Zementboden frische Ölflecken
-und volle Benzinkannen, Patzlappen und sonstige Dinge san-
-den, die aus die Benutzung dieses Raumes als Garage hin-
-deuteten, richteten wir uns im Bodengeschoß, zu dem eine
+und volle Benzinkannen, Putzlappen und sonstige Dinge fanden,
+die aus die Benutzung dieses Raumes als Garage hindeuteten,
+richteten wir uns im Bodengeschoß, zu dem eine
 Holztreppe emporführte, hinter leeren Kisten häuslich ein,
-aßen einiges aus unsjrem Koffervorrat, — — und dann loöschio
+aßen einiges aus unserm Koffervorrat, — — und dann löschte
 Harald auch schon die Karbidlaterne aus …
 
-Wir hören ein Auto über den FSabrikhof sich nähern,
+Wir hören ein Auto über den Sakristei sich nähern,
 <@pagebreak/>
 der Schuppen wurde geöffnet, das Auto glitt hinein, das
-Cor schlug zu — — und nichts …
+Tor schlug zu — — und nichts …
 
 Stille … Nur der Regen tropfte, klatschte, prasselte.
 
-Der, der das Auto hierher gebracht hatte, war sso vor-
-sichtig gewesen, vollkommen ohne Licht sich zu begnügen.
+Der, der das Auto hierher gebracht hatte, war sie vorsichtig
+gewesen, vollkommen ohne Licht sich zu begnügen.
 
 Wie gut mußte der Mann also den Schuppen und die
-Sabrik kennen!
+Fabrik kennen!
 
-»Schade«, flüsterte Harst, »der Uhu Nr. 2 war zu vor-
-sichtig. Ich hätte ihn dir gern gezeigt … Und dann hättest
-du triumphiert: Meine Cheorie stimmt dochl!! —« Und docch
+»Schade«, flüsterte Harst, »der Uhu Nr. 2 war zu vorsichtig.
+Ich hätte ihn dir gern gezeigt … Und dann hättest
+du triumphiert: Meine Theorie stimmt doch!! —« Und doch
 stimmt sie nicht.«
 
 »Wer war es also?!«
@@ -2143,340 +2146,338 @@ stimmt sie nicht.«
 »Sofort … Nur noch einen Schluck Rotwein … Dann
 brechen wir auf …«
 
-Bei solchem Wetter über Fabrikdäacher zu klettern, ist
-ein inäßiges Bergnügen. Und doch — es hätte Steine hageln
+Bei solchem Wetter über Fabrikdächer zu klettern, ist
+ein mäßiges Vergnügen. Und doch — es hätte Steine hageln
 können, — ich hatte Jagdfieber, und ich ahnte, da ich Dinge
 sehen würde, die sicherlich die Bezeichnung »ungewöhnlich«
 verdienten.
 
 So gelangten wir denn unter die Fenster jenes Zimmers,
-in dem Frau FFranziska ihre Kanarienvögel züchtete, Die
-Senster waren dunkel, die Vorhänge innen zugezogen, und
-Harst befühlte die Fensterrahmen mit einer Eründlichkeit, die
-nur einen Zweck haben konnte: Festzustellen, ob eine BVor«
-richtung vorhanden sei, eins der Fenster von außen zu öffnen.
+in dem Frau Affenkiste ihre Kanarienvögel züchtete, Die
+Fenster waren dunkel, die Vorhänge innen zugezogen, und
+Harst befühlte die Fensterrahmen mit einer Gründlichkeit, die
+nur einen Zweck haben konnte: Festzustellen, ob eine Boot«
+Richtung vorhanden sei, eins der Fenster von außen zu öffnen.
 
-Derweil kauerte ich fünf Schritt seitwärts au der dick
-geteerten Hausmauer und s]pielte Wache. Harst hatte »in
+Derweil kauerte ich fünf Schritt seitwärts zu der dick
+geteerten Hausmauer und spielte Wache. Harst hatte »in
 sehr ans Herz gelegt, scharf achtzugeben, ob jemand über das
 Dach sich näherte.
 
-Nach einiger Heit erschien er neben mir.
+Nach einiger Zeit erschien er neben mir.
 
-»Gesunden! Der eine FSenstc: flügel läßt sich wirklich von
-außen öfsnen. Es ist jedoch noch zu früh.«
+»Gesunden! Der eine Senkte: Flügel läßt sich wirklich von
+außen öffnen. Es ist jedoch noch zu früh.«
 
-Und es regnete … reanete, Cs war kalt und windig,
-einzelne Windstoße fuhren über die Dächer, heulten leise in
+Und es regnete … regnete, Es war kalt und windig,
+einzelne Windstöße fuhren über die Dächer, heulten leise in
 den Rissen des Schornsteins und flauten wieder ad,
-<@pagebreak/>
 
-Ich hatte übergenug Geit, mir alles, was die leßten
-Stunden gebracht hatten, reislich zu überlegen. Harsts Be-
-merkung über die Person, die das Auto sso sicher im Dunkeln
+<@pagebreak/>
+Ich hatte übergenug Zeit, mir alles, was die letzten
+Stunden gebracht hatten, reiflich zu überlegen. Harsts Bemerkung
+über die Person, die das Auto sie sicher im Dunkeln
 in den Schuppen gebracht hatte, ließ nur eine Deutung zu.
-Cr hatte gesagt: »Du hättest tfriumpfiert: Meine Cheorie
+Er hatte gesagt: »Du hättest tfriumpfiert: Meine Theorie
 stimmt doch!! — Und doch stimmt sie nicht.« —Die Person
-konnte nur Srau Zranziska gewesen sein. Wenn nun meine
-Cheorie nicht stimmte, wie Harst doch abermals behauptet
-batte, konnte der graue Uhn nur Amatias Weber sein. -
-Alles in mir sträubte sich gegen diesen Gedanken. Ein lang-
-jähriger Weamter sollte ein Verbrecher sein, womöglich gar der
-Sührer einer BVerbrecherbande?! Das war übelster Kolpor-
-lagekitsch, das war Romanstoff nach dem Muster englischer
-Romanfabrikanten. Anderseits hatte ich genügend Lebens-
-erjahrung, nichts mehr als unmöglich zu bezeichnen. Das
+konnte nur Frau Franziska gewesen sein. Wenn nun meine
+Theorie nicht stimmte, wie Harst doch abermals behauptet
+hatte, konnte der graue Uhr nur Amatias Weber sein. —
+Alles in mir sträubte sich gegen diesen Gedanken. Ein langjähriger
+Beamter sollte ein Verbrecher sein, womöglich gar der
+Führer einer Verbrecherbande?! Das war übelster Kolportagekitsch,
+das war Romanstoff nach dem Muster englischer
+Romanfabrikanten. Anderseits hatte ich genügend Lebenserfahrung,
+nichts mehr als unmöglich zu bezeichnen. Das
 Leben schreibt die kitschigsten, grellbuntesten Geschichten. Wer
-es bezweifelt, kennt das Leben nicht. Tag für Tag präsen-
-tieren die Tageszeitungen uns sensationelle wahre Begebnisse,
-über die freilich die meisten achtlos hinweggehen, -«- ohne daß
-es iynen einmal wie ein Blitz durch das Hirn sährt: »Schriebe
+es bezweifelt, kennt das Leben nicht. Tag für Tag präsentieren
+die Tageszeitungen uns sensationelle wahre Begebnisse,
+über die freilich die meisten achtlos hinweggehen, — ohne daß
+es ihnen einmal wie ein Blitz durch das Hirn fährt: »Schließe
 es ein Geschichtenerzähler, würde man es für Ausgeburt einer
-wilden Phantasie halten!« — Weber nebenher ein Ber-
-biecher?! Jh stellte ihn mir vor, wie er damals zum ersten
+wilden Phantasie halten!« — Weber nebenher ein Verbrecher?!
+Ich stellte ihn mir vor, wie er damals zum ersten
 Male zu uns gekommen war: Ein bescheidener, höflicher Mensch,
 etwas aufgeblasen, etwas unausgeglichen in seinem Wesen.
-Ghm fehlte jedenfalls die große Linie, die den hervorragenden
-Gauner, auch den, kennzeichnet. -
+Ihm fehlte jedenfalls die große Linie, die den hervorragenden
+Gauner, auch den, kennzeichnet. —
 
 Harst stieß mich an. »Hinlegen!«
 
-Auch ich sah es … Es kam jemand über die Dächer -
+Auch ich sah es … Es kam jemand über die Dächer —
 wieselflink, mit gleitenden, schleichenden Schritten, ein Mann,
 eingehüllt in einen langen, dunklen Lodenmantel, den Hut
 tief in die Stirn gedrückt. Er steuerte auf das bewußte Fenster
-zu, er hatte den einen Flügel im Nu geoösfnet, schwang sich
-hinein, zog das Fenster wieder zu, Harxst eilte vorwärts -
+zu, er hatte den einen Flügel im Nu geöffnet, schwang sich
+hinein, zog das Fenster wieder zu, Längst eilte vorwärts —
 <@pagebreak/>
 wir sahen gerade noch, daß der Mann, es war Weber, das
-erieuchtete Nebenzimmer betrat.
+erleuchtete Nebenzimmer betrat.
 
-» Borwärts, jetzt!
+» Vorwärts, jetzt!
 
 Harst drückte auf den versteckten Hebel, der Weg war
-frei, und lautlos schoben wir uns in das nach Bogelkäsig
+frei, und lautlos schoben wir uns in das nach Vogelkäfig
 stark duftende Zimmer hinein, das zwei Türen hatte, eine
-nach dem Wohnungsflur, die andere nach dem BVorderzimmer,
+nach dem Wohnungsflur, die andere nach dem Vorderzimmer,
 Webers Cß- und Wohnzimmer.
 
 Wir kannten die Räume ja, wir wußten, daß außen vor
-der Berbindungstür ein FSriesvorhang und Sammetportieren
-hingen, — Harst beleuchtete den Cürdrücker, träusfelte rasch
-ein paar Cropfen Öl auf die Reibfäche, dann wagte er es:
-Die Cür schwang halb auf, ohne jedes Geräusch, und wenn
+der Verbindungstür ein Friesvorhang und Sammetportieren
+hingen, — Harst beleuchtete den Türdrücker, kräuselte rasch
+ein paar Tropfen Öl auf die Nordische, dann wagte er es:
+Die Tür schwang halb auf, ohne jedes Geräusch, und wenn
 sie auch geknarrt hätte, die wütende, schrille, überschnappende
 Stimme Webers hätte jeden Laut übertönt.
 
-Weber tobte, schrie, schlug mit der Saust auf den Cisch,
-gebaidete sich wie ein Rasender.
+Weber tobte, schrie, schlug mit der Saust auf den Tisch,
+geleitete sich wie ein Rasender.
 
 Der FFSriesvorhang wurde von uns etwas gelüstet, wir
-lagen lang auf den Dielen, sahen und horten alles …
+lagen lang auf den Dielen, sahen und hörten alles …
 
 <h2>5. Kapitel.</h2>
 
-<h3>Der Obersittic.</h3>
+<h3>Der Obersittich.</h3>
 
 »Warst du heute abend ausgegangen — ja oder nein?!«,
-brüllte der bleiche, bartlose Mann mit den saltigen Zügen die
-in einem Sessel am Cßtisch sißende imposante Sranziska aber-
-mals an.
+brüllte der bleiche, bartlose Mann mit den faltigen Zügen die
+in einem Sessel am Eßtisch schenke imposante Franziska abermals
+an.
 
-Er hatte diese Srage nun schou zum vierten Male wieder-
-holi.
+Er hatte diese Frage nun schon zum vierten Male wiederholt.
 Das blasse, schwammige, trotzdem nicht unschöne Gesicht
-der Srau verriet nichts als herbe, bittersie Melancholie, und
-in ven siarren, hellen Augen, die den Cobenden in Dann zu
+der Frau verriet nichts als herbe, bitterste Melancholie, und
+in den Zigarren, hellen Augen, die den Lebenden in Dann zu
 <@pagebreak/>
 halten schienen, lag dabei derselbe schmerzliche, grüblerische
 Ausdruck.
 
-»Sa, ich war unterwegs«, sagte sie leise und regte sich
-nicht, behielt die Hände im Schoße halb unter der Derke, an
-der sie gerade gestickt hatte. »Du solltest dich mehr beherr-
-schen, du Ärmster«, fügte sie befehlender hinzu. »Denke an
-die anderen Leute im Hause. Willsi du es mir noch schiverer
+»Ja, ich war unterwegs«, sagte sie leise und regte sich
+nicht, behielt die Hände im Schoße halb unter der Decke, an
+der sie gerade gestickt hatte. »Du solltest dich mehr beherrschen,
+du Ärmster«, fügte sie befehlender hinzu. »Denke an
+die anderen Leute im Hause. Willst du es mir noch schwerer
 machen als bisher, alle Unannehmlichkeiten von dir fern zu
-balten?1«
+halten?!«
 
-Weber duckte sich unter dem harten Blick doch etwas sscheu
+Weber duckte sich unter dem harten Blick doch etwas scheu
 zusammen, warf sich in den nächsten Stuhl und lachte hämisch.
 
-»Die Leute können mir was …!! IIch habe mein Ziel
-erreicht.« Er richtete sich stolz empor und fügte mit theatra-
-lischer Geste hinzu, während seit Gesicht sich rötete und seine
-Augen unheimlich aufglühten. »Ich bin zur Beförderung ein-
-gereicht, Sranziska … Morgen werde ich Kriminalsekretär,
-und in einer Woche werde ie Kriminalkommissar sein, -
-bis dahin habe ich Schamil Garzia übersührt. Derneborg
-hat die weiteren Crmittlungen mir bereits übertragen, und …
-nach einem Gahr, FSranziska, bin ich vielleicht Oberregiorungs-
-rat oder dergleichen, das Genie bricht sich Bahn, — endlich,
+»Die Leute können mir was …!! Ich habe mein Ziel
+erreicht.« Er richtete sich stolz empor und fügte mit theatralischer
+Geste hinzu, während seit Gesicht sich rötete und seine
+Augen unheimlich aufglühten. »Ich bin zur Beförderung eingereicht,
+Franziska … Morgen werde ich Kriminalsekretär,
+und in einer Woche werde ie Kriminalkommissar sein, —
+bis dahin habe ich Schamil Garzia überführt. Derneborg
+hat die weiteren Ermittlungen mir bereits übertragen, und …
+nach einem Jahr, Franziska, bin ich vielleicht Oberregierungsrat
+oder dergleichen, das Genie bricht sich Bahn, — endlich,
 — endlich!«
 
-Man brauchte Weber jet nur ins Gesicht! zu sehen:
+Man brauchte Weber jetzt nur ins Gesicht! zu sehen:
 Das Rätsel war gelöst, dieser arme Mensch war krank,
-geisteskronk, litt an Erößenwahn, war ein bedauernswerter
-VTITrer…
+geisteskrank, litt an Größenwahn, war ein bedauernswerter
+Gitter…
 
-»Das wäre … sehr schön«, saate die noch bedauerns-
-wertere Frau mit jceCwerer Zunge. »Nur … nur … du mußt
-vorsichtiger sein, Amatias …« Sie sprach jet sehr liebevoll,
-jehr gütig, sie ging vollständig auf seine wirren Gedanken-
-gänge ein … Du darfst dir doch deine Karriere nicht verderben.
-Bevenke nur, — was wäre geschehen, wenn dn heute Gudden
+»Das wäre … sehr schön«, sagte die noch bedauernswertere
+Frau mit ferneren Zunge. »Nur … nur … du mußt
+vorsichtiger sein, Amatias …« Sie sprach jetzt sehr liebevoll,
+sehr gütig, sie ging vollständig auf seine wirren Gedankengänge
+ein … Du darfst dir doch deine Karriere nicht verderben.
+Gedanke nur, — was wäre geschehen, wenn da heute Gudden
 ermordet hättest, wenn ich dich nicht … gerettet hätte
-Du warst in Gesahr, Amatias, - - Harsi und Schraut waren
-im Schlaszimmer versteckt … Mache mir also keime Bor-
+Du warst in Gefahr, Amatias, — — Harst und Schraut waren
+im Schlafzimmer versteckt … Mache mir also Keime Vorwürfe,
 <@pagebreak/>
-würse, Liebster. Ou weißt, ich habe dich aus Neigung ge-
-heiratet, ich habe dic; lieb gehabt, als du damals … den
-Obersiftich spieltest … und … versuchtest, schon damals dich
+Liebster. Du weißt, ich habe dich aus Neigung geheiratet,
+ich habe die; lieb gehabt, als du damals … den
+Obersittich spieltest … und … versuchtest, schon damals dich
 hervorzutun, indem du dich als erstklassiger Detektiv …
 
 »Bitte, das bin ich!«, erklärte Weber stolz.
 
-»Ratürlich bist du es, natürlich … Rur hättest du die
+»Natürlich bist du es, natürlich … Nur hättest du die
 Sache mit den Pappköpfen und der Lanze, die du austauschtest,
 etwas behutsamer vorbereiten sollen …«
 
-»Ein großer Detektiv und ein großer Berbrecher sind
-genau dassjelbe«, lächelte der Grre noch stolzer. »Sie kämpfen
-nur auf verschiedenen Linien, Sranziska. Och mußte Schamil
-und Jeine Schwester vernichten, — du weißt, »weshalb. Ochamil
+»Ein großer Detektiv und ein großer Verbrecher sind
+genau dasselbe«, lächelte der Irre noch stolzer. »Sie kämpfen
+nur auf verschiedenen Linien, Franziska. Ach mußte Schamil
+und Seine Schwester vernichten, — du weißt, »weshalb. Schamil
 ist der einzige, der mein Geheimnis kennt …
 
-Schwester ?1 — Er hatte Schwester gesagt?! Die Garzias
-aljo Geschwister?!
+Schwester?! — Er hatte Schwester gesagt?! Die Garzias
+also Geschwister?!
 
-Strau Sranziska batte sich über den Cisch gebeuat und
-streichelte ihres Ztiiannes Hand. »Amatias, Schamil hätte dich
+Strom Franziska hatte sich über den Tisch gebeugt und
+streichelte ihres Stromes Hand. »Amatias, Schamil hätte dich
 nie verraten … Oder nennen wir ihn hier unter uns Gregor
 
 Bassanoff, so heißt er ja in Wahrheit, und. — ihre Augen
-füllten sich mit Cränen — »jJeine Schwester, die Guddens Ber-
-lobte war, heißt ja Grazia Bassanoff … WBerlobt waren
+füllten sich mit Tränen — »Steine Schwester, die Guddens Verlobte
+war, heißt ja Grazie Bassanoff … Verlobt waren
 
-sie, Gudden und Grazia Bassanoss, sie haben sich unendlich
-geliebt, Amatias, vielleicht war ihre Liebe die größere, selbst-
-sosere, denn sie gab Sudden auf, als sie von den Bersehlungen
-ihres Bruders ersuhr. Mußtest du gerade diesen schreckli-der
-Plan entwersen, durch die Bassanoffs berühmt zu werde, .!
+sie, Gudden und Grazie Bassanoff, sie haben sich unendlich
+geliebt, Amatias, vielleicht war ihre Liebe die größere, selbstlosere,
+denn sie gab Suchen auf, als sie von den Verschlungen
+ihres Bruders erfuhr. Mußtest du gerade diesen schrecklichen
+Plan entwerfen, durch die Bassanoffs berühmt zu werde…!
 Habe nicht auch ich dich ehrlich geliebt, — — und heute«!
-Ließest du nichl auf mich schießen?! — Amatias, ich verzeihe
+Ließest du nicht auf mich schießen?! — Amatias, ich verzeihe
 dir … Ich werde dir auch weiter beistehen. Auch ich bin
-klug …« Shre Stimme war von Cränen halb erstickt. »Ich
+klug …« Ihre Stimme war von Tränen halb erstickt. »Ich
 werde alles zum Guten wenden, Amatias … Und nun gehe
-in die Küche, dein Abendessen steht in der Wärmeröhre, iß
+in die Küche, dein Abendessen steht in der Wärmeröhre, ich
 nur gleich in der Küche … — Oh, ich bin so stolz auf dich,
 Liebster … so stolz …«
+
 <@pagebreak/>
+»»Natürlich mußt du stolz sein …« Er stand auf in.
+reckte sich. »Ach werde es zu etwas bringen … Und nebenbei
+meine Herren Vorgesetzten auslachen … Ich … ich, der Ober —
+strich, jetzt der oberste Kanarienhahn … wieder Anführer einer
+seinen Bande, Liede: nicht zu fassen … Und reich sind wir,
+reich … Du hast doch das Geld gut versteckt? — Ja, ja.
+schon gut … Ich habe Hunger … ön einer Woche Kommissar,
+in einem Jahr Regierungsrat … mindestens …!« Und
+pfeifend verließ er d.; drinnen.
 
-»»Ratürlich mußt du stolz sein …« Er stand auf in.
-reckte sich. »Och werde es zu etwas bringen … Und nebenbei
-meine Herren Vorgesetzten auslachen … Ich … ich, der Ober -
-sittich, jet der oberste Kanarienhahn … wieder Anführer einer
-seinen Bande, wiede: nicht zu sassen … Und reich sind wir,
-reich … Du hast doch das Geld qut versteckt? — Ja, ja.
-schon gut … Ich habe Hunger … ön einer Woche Kom-
-missar, in einem Jahr Negierungsrat … mindestens …!« Und
-pfeifend verließ er d.; dimmer.
-
-Die Frau am Cisch weinte. Aber ihre Züge wurden sehr
+Die Frau am Tisch weinte. Aber ihre Züge wurden sehr
 bald hart und steinern. Sie erhob sich, ging zum Schreibtisch,
-griff nach dem Celephonhorer … Sie zitterte, — — sie tat
+griff nach dem Telephonhörer … Sie zitterte, — — sie tat
 das, was das beste für ihren Gatten war.
 
-»Hier Frdu Franziska Weber … Herr Derneborg, ich
--… muß Shnen … mitteilen, daß mein ann seit Jahren
-geisteskrank ist … Och merkte dies erst nach der Hochzeit,
+»Hier Erbin Franziska Weber … Herr Derneborg, ich
+-… muß Ihnen … mitteilen, daß mein nun seit Jahren
+geisteskrank ist … Ach merkte dies erst nach der Hochzeit,
 als er …«
 
-Ommer sließender enthüllte sie das entsetzliche Geheimnis.
+Immer fließender enthüllte sie das entsetzliche Geheimnis.
 
-»… Mein Mann hat in Bildhauer Schütz Akelier den
+»… Mein Mann hat in Bildhauer Schütz Atelier den
 Bart, die Perücke, die Schminken eingeschmuggelt … Mein
-Mann ist auch schuld an dem Unsall im Zirkus. Cr hatte
+Mann ist auch schuld an dem Unfall im Zirkus. Er hatte
 überall dort Zutritt … Er vertauschte Lanze und Kopf …«
 
-… Harst zog mich eilends zum ZSenstor
+… Harst zog mich eilends zum Fenster
 
 Wir gelangten unbemerkt auf das Dach, auf die Straße,
-stiegen ins Beck Caxe
+stiegen ins Beck Taxe
 
-»Ootel Terminus«, besah! Harlst.
+»Hotel Terminus«, besah! Harsts.
 
-Der Hotelportier erklärte uns, Herr Schamil Garzia soi
+Der Hotelportier erklärte uns, Herr Schamil Garzia so!
 auf seinem Zimmer.
 
-Als wir Einlaß begehrten, jragte Gregor erst, wer draußen
+Als wir Einlaß begehrten, fragte Gregor erst, wer draußen
 ei.
 
-»Alte Bekannte, — — Wellensittiche …«, - und
+»Alte Bekannte, — — Wellensittiche …«, — und
 dies half.
 
-Wir fanden Balssanoff noch angezogen vor. Aus dem
-Cisch lag eine Menge eng beschriebener Bogen.
-<@pagebreak/>
+Wir fanden Bassanoff noch angezogen vor. Aus dem
+Tisch lag eine Menge eng beschriebener Bogen.
 
+<@pagebreak/>
 »Wer sind Sie?!«
 
-»Darst und Schraut … — - Fürchten Sie nichts. Setzen
-Ole sich … — Gy) inöchte Sir nur einiges fragen, Herr Bassa-
-noff … Sa, Bassanoff … Erschrocken Sie nicht, um öhrer
-Ochwester und Guddens willens komme ich als Sreund. - -Wie
+»Harst und Schraut … — — Fürchten Sie nichts. Setzen
+Sie sich … — By) möchte Sir nur einiges fragen, Herr Bassanoff
+… Ja, Bassanoff … Erschrocken Sie nicht, um schien
+Schwester und Guddens Willens komme ich als Freund. — -Wie
 
 6«
 
-gerieten Sie damals in den Verbrechervorein?
+gerieten Sie damals in den Verbrecherverein?
 
-… ön der Crunkenheit — aus Leichtsinn«, erklärte
-Bassanosf ehrlich. »Hier, was ich hier niedorgeschrieben habe,
+… ön der Trunkenheit — aus Leichtsinn«, erklärte
+Bassanoff ehrlich. »Hier, was ich hier niedergeschrieben habe,
 Herr Harst, ist mein Geständnis … Ich wollte es an die
 
 Polizei senden … und … mit mir Schluß machen … Ich
 war feige, jämmerlich feige, ich habe Graziosa beinahe gehaßt,
-weil sie mit Gudden wieder zusjanimenkam, mit dem sie erst
-heimlich verlobt war, ich fürchtete sür meine eigeue Sicherheit …
-Geßt — — mache ich Schlußl! Graziojsa soll frei sein, ich
-bin das Hindernis ihres Glückes, ich war ein Undankbarer, -
-mich haf sie aus dem Sumps geretiet unfer Berzicht auf ihr
+weil sie mit Gudden wieder zusammenkam, mit dem sie erst
+heimlich verlobt war, ich fürchtete für meine eigene Sicherheit …
+Bett — — mache ich Schluß!! Graziösen soll frei sein, ich
+bin das Hindernis ihres Glückes, ich war ein Undankbarer, —
+mich hat sie aus dem Sumpf gerettet unser Verzicht auf ihr
 Liebesglück,«
 
-Harst schoute den völlig zerkmirschten, niedergebrochenen
+Harst schaute den völlig zerknirschten, niedergebrochenen
 Mann lange an.
 
 Dann nahm or die beschriebenen Bogen, steckte sie in
-die Casche und meinte gänzlich veränderten Cones:
+die Tasche und meinte gänzlich veränderten Tones:
 
 »Oh das alles wahr ist, weiß ich nicht … Wollen Sie für
-mich einen eiligen Brief persönlich nach Ondien an meinen
-Sround, den Radscha von ’Bumar, befördern? Föch werde Ihnen
-dreißigktausend Mark mitgoben, in zwei Stunden können Sie
-mit einem Flugzeug unterwegs sein … Gch besorge das schon
+mich einen eiligen Brief persönlich nach Indien an meinen
+Freund, den Radscha von ’Bumar, befördern? Roch werde Ihnen
+dreißigtausend Mark mitgeben, in zwei Stunden können Sie
+mit einem Flugzeug unterwegs sein … Ach besorge das schon
 alles. — Amatias Weber ist nämlich irrsinnig, und seine Frau
-hat vorhin der Polizei etwa dasselbe miigekeilt, was Fhre
-Beichte enthalten dürfte. Es wird also GZeit für Sie …
+hat vorhin der Polizei etwa dasselbe mitgeteilt, was Ihre
+Beichte enthalten dürfte. Es wird also Zeit für Sie …
 Nehmen Sie nur das allernötigste mit, und unten sagen Sie
 dem Portier, Sie wollten nur Doktor Gudden noch besuchen.
-— Begilen Sie sich. 3hr Selbstmord würde nur die Genesung
-Ohrer Schwester gesöhrden, deshalb schicke ich Sie nach Indien.
-Oie verstehen …«
-<@pagebreak/>
+— Bestien Sie sich. ehe Selbstmord würde nur die Genesung
+Ihrer Schwester geschehen, deshalb schicke ich Sie nach Indien.
+die verstehen …«
 
+<@pagebreak/>
 Bassanoff griff erschüttert nach Harsts Händen.
 
 »Herr Harst, wie soll ich …«
 
-»Beeilen sollen Sie sicht!«
+»Beeilen sollen Sie sieht!«
 
-Betks Taxe brachte uns heim. Während ich für Bassanoff
+Bett Taxe brachte uns heim. Während ich für Bassanoff
 einen Koffer packte, schrieb Harst den wichtigen Brief an
 den Radscha.
 
 »Mein lieber Gutri,
 nehmen Sie sich des Mannes, der diese Zeilen überbringt
-und der einen Paß auf den Namen Dimitri Ussoff be-
-sit, freundlichst an. €r ist durch eine harte Lebensschule
+und der einen Paß auf den Namen Dimitri Asiens Besitz,
+freundlichst an. Er ist durch eine harte Lebensschule
 gegangen und unbedingt zuverlässig.
-Herzlichst öhr Harst.
+Herzlichst oho Harst.
 Schraut läßt grüßen.«
 
-- Am nächsten Morgen gegen acht Uhr besuchte uns der
-Komissar Derneborg. Mit einem etwas ironischen Schmun-
-zeln nahm er Platz und erklärte ohne lange Cinleitung:
+— Am nächsten Morgen gegen acht Uhr besuchte uns der
+Hamilton Derneborg. Mit einem etwas ironischen Schmunzeln
+nahm er Platz und erklärte ohne lange Einleitung:
 
-»Der FSall Graziosa Garzia ist nun restlos geklärt, Schüt
+»Der Fall Graziosa Garzia ist nun restlos geklärt, Schutz
 ist enthaftet, der arme Weber ist in eine Heilanstalt gebracht,
-Gudden sißt am Krankenlager seiner Braut, nur … Gregor
+Gudden sitzt am Krankenlager seiner Braut, nur … Gregor
 Bassanoff ist verschwunden und ebenso die beiden Engländer
 aus dem Atelierhaus. Wissen Sie vielleicht zufällig, wo
-Sthamil Garzia-Bassanoff stecken mag? Dies weiß nicht ein-
-mal Srau Sranziska, die übrigens nicht weiter von uns be-
-helligt werden wird, nachdem nun auch die Nachfolger der
+Dynamit Garzia-Bassanoff stecken mag? Dies weiß nicht einmal
+Frau Franziska, die übrigens nicht weiter von uns behelligt
+werden wird, nachdem nun auch die Nachfolger der
 Wellensittiche, die Kanarienvögel, ausgehoben sind.
 
-Harst erwiderte ganz unbejangen:
+Harst erwiderte ganz unbefangen:
 
 »Schamil Garzia? — Oh, den habe ich als Kurier nach
-GSndien geschickt … zu einem Ireunde. Lag etwas gegen ihn
-vor ?1«
+Indien geschickt … zu einem Freunde. Lag etwas gegen ihn
+vor?!«
 
 Derneborg schmunzelte noch stärker.
 
-»Mein lieber Herr Harst, nehmen wir an, es läge niehts
-gegen ihn vor … Schließlich habe auch im ein Herz in cr
+»Mein lieber Herr Harst, nehmen wir an, es läge nichts
+gegen ihn vor … Schließlich habe auch im ein Herz in er
 Brust …«
-<@pagebreak/>
 
-»Na also«, meinte Harsk liebenswürdig, »dann ist die Ge-
-schichte ja in Ordnung … Crinken Sie einen Schluck Rot-
-wein:«
+<@pagebreak/>
+»Na also«, meinte Harst liebenswürdig, »dann ist die Geschichte
+ja in Ordnung … Grinsen Sie einen Schluck Rotwein:«
 
 »Wenn es nicht Blaubeerwasser ist — ja …«
 
 … Wir tranken auf das Wohl eines Brautpaares, das
-sich sein Glück hart erkämpft hatte, und auf Srau Franziska
+sich sein Glück hart erkämpft hatte, und auf Frau Franziska
 das zweite Glas, — — auch sie hatte es verdient …
 
 Nächster Band:
