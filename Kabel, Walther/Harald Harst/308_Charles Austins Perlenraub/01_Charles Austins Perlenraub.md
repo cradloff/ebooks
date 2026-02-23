@@ -392,7 +392,7 @@ Menschen. Seine Augen waren unnatürlich weit aufgerissen
 und zeigten den milchigen Schimmer erblindender Pupillen.
 Trotzdem lag in der Erscheinung dieses Mannes ein eigentümlich
 beklemmender Reiz, der offenbar auch Harsts Stimmung
-beeinflusste, denn als er mir nun zuflüsterte, wir
+beeinflußte, denn als er mir nun zuflüsterte, wir
 sollten nachher dem Alten heimlich zu folgen versuchen,
 klang seine Stimme merklich verändert.
 
@@ -795,7 +795,7 @@ der Quadern sorgfältig ab und benutzte auch hier und
 dort sein Messer, um an dem Mörtel herumzukratzen.
 Ich verfolgte diese Versuche, den Eingang zu finden,
 mit recht gemischten Gefühlen, denn vorerst erschien
-mir unser Kerker als ein weit angenehmender Malaufenthalt
+mir unser Kerker als ein weit angenehmerer Malaufenthalt
 wie das unbekannte Draußen, wo Gewehrkugeln, die noch
 unzuverlässiger sind als Lotteriegewinne, umherflogen
 und vielleicht irgend eine Horde fanatischer Buddhisten
@@ -924,449 +924,352 @@ die mit uns kaum so glimpflich verfahren würde.
 Wir horchten …
 
 Und selten wohl habe ich meine Ohren so angestrengt
-wie jetzt.
+wie in jenen endlosen Sekunden, die wir im Finstern
+an der Abzweigung des breiten Ganges verbrachten und
+die für uns deshalb zur qualvollen Ewigkeit wurden,
+weil ich schließlich doch etwas zu hören glaubte.
 
-<h2>4. Kapitel.</h2>
+Ich drückte Harsts Arm …
 
-<h3>Wie Ralla Wu starb.</h3>
+Ich wagte nicht einmal zu flüstern.
 
-… Wir hatten uns nebeneinander auf eine der oberen
-Steinstufen der Treppe dicht nebeneinander gesetzt.
-»Was will Dapsar hier?!«, fragte ich leise, — nicht
-allzu leise, denn über uns polterten jetzt über die
-Steinplatten schwere Schritte, durch die Ritzen fielen
-dünne, huschende Lichtstreifen in die Dunkelheit, und
-Stimmen wurden vernehmbar, die sich kurze abgehackte
-Worte zuriefen.
+Der Stollen würde selbst den leisesten Ton ungeschwächt
+fortpflanzen.
 
-Zum Glück hatten sich im Laufe der Jahrhunderte
-alle Steinplatten gelockert, einige waren sogar zertrümmert,
-andere ganz entfernt worden, nur die sechs, die zum
-Grufteingang gehörten, waren noch am besten erhalten
-geblieben, konnten jedoch nicht weiter auffallen, wenn
-sie gleichfalls unter dem Schritt der Beamten etwas
-wackelten.
+Was ich vernahm?! — Es war ein an- und abschwellendes,
+aber ununterbrochen feines Summen, in das sich ebenso
+gedämpfte, nicht der Melodie nach zu unterscheidende
+Musikklänge mischten. Und dann noch etwas anderes:
+Gurgelnde, rasselnde Laute — etwa der Art, als ob man
+durch die dünne Wand von der Nachbarwohnung her einen
+Schnarchkünstler genießen darf.
 
-»Streife nach Thamise …«, antwortete Harst mir
-ins Ohr.
+Harst machte seinen Arm von meinem festen Griff
+frei und zog mich mit sich in den linken Gang. Hier
+fünf Schritte, dann wieder Halt, wieder lauschen …
 
-Dann horchte er wieder.
+Jetzt war das Gurgeln und Rasseln und Pusten und
+auch die Musik deutlicher zu hören.
 
-Dapsars scharfe Stimme war leicht zu erkennen.
+»Ein eingeschlafener Wächter«, zischelte mir Harst
+zu. »Vorwärts, wir sind auf der richtigen Fährte …
+Da, die Musik verstummt … Beginnt wieder! Wenn das
+kein Grammophon ist, will ich nicht Harst heißen.«
 
-»Bringt die Dinger in den Fugen an …«, vernahmen
-wir ganz deutlich.
+Die feuchte Kühle war unangenehm und reizte die Kehle.
+Es hing da in der Luft noch ein anderer, peinigender
+Geruch als nur der von den weißen Schimmelpilzen: Zigarrenrauch,
+Parfüm und Alkoholdunst!
 
-Zwischenein fragte ein Polizist irgend etwas,
-dann wieder hörten wir das Rollen und Grollen eines
-fernen Gewitters, das sehr schnell näher zu kommen
-schien.
+Wir schlichen weiter, und diese eigentümliche,
+scheußliche Luftmischung wurde immer kräftiger, aufdringlicher,
+genau wie das Schnarchen nunmehr ganz dicht vor uns
+erklang und die Musik als Jazzmelodien sich unterscheiden
+ließ.
 
-Mit einem Male — es mochten zehn Minuten verstrichen
-sein, wurde es über uns still, und nur das Nachtgewitter
-meldete sich immer wieder mit seinen groben Kanonaden.
+Das seltsame, schier Unbegreifliche, hier in den
+Kellern der Tempelruine derartiges mit Nase und Ohr
+zu beobachten, wirkte auf meine Nerven aufpeitschender
+als das stete Bewußtsein drohender Lebensgefahr.
 
-Harst meinte sichtlich beunruhigt: »Ich kann mir
-nicht denken, daß Dapsar so etwas wagen würde, es sei
-denn, er besäße das Einverständnis des Gouverneurs
-von Madras, mit dem er ja sehr gut stehen soll …«
+Dann glitt durch Harsts Finger, die die Linse
+der Taschenlampe bedeckten, ein schmaler Lichtstreifen
+über den Boden hin, zeigte uns ein paar übergroße Füße
+in derben Sandalen, eine schmierige Leinenhose, eine
+ähnliche Jacke und den auf die behaarte, entblößte
+Brust gesunkenen Kopf eines Negers von kaffeebrauner
+Gesichtsfarbe und schmalen, wenig negroiden Gesichtszügen.
 
-Er brauchte nichts weiter zu erklären: Kurz hintereinander
-ertönten eine Reihe ohrenbetäubende Detonationen, und
-da erst, als nun die mit Dynamit gesprengten alten
-Mauern und das löcherige Dach krachend zusammenstürzten
-und als nur wie ein Wunder die Steinplatten des Gruftdeckels
-dem Aufprall der Stein- und Balkenmengen widerstanden
-und das Getöse über uns allmählich zur Ruhe kam, wußte
-ich, worum es sich gehandelt hatte.
+Der Lichtkegel erlosch.
 
-Immer noch fielen einzelne Trümmerstücke nach,
-immer noch knisterte und knarrte es in den Schuttmassen,
-immer noch fiel ein feiner Schuttregen durch die Ritzen
-unserer Totengruft, die für uns vielleicht gleichfalls
-zur letzten Ruhestätte werden konnte.
+Wir beide hielten den Atem an. Mein Herz hatte
+ein paar schnellere Schläge getan.
 
-Harst hatte sich schon erhoben und preßte den
-Rücken unter die einzelnen Steinplatten, — nicht eine
-rührte sich.
+Dieser Somali-Neger war uns nicht fremd. Es war
+jener aufgeblasene, hochmütige, äußerst gewandte ehemalige
+Händler Abraham Stoop, der in der mysteriösen Geschichte
+des Gespensterreiters und deren Fortsetzung eine so
+schwer zu durchschauende Rolle gespielt und den der
+Oberinspektor Arden mit der Drohung freigelassen hatte,
+er würde ihn aufknüpfen, falls er je wieder seinen
+Weg kreuze.
 
-Ich leuchtete ihm, ich fühlte, daß mir alles Blut
-aus dem Gesicht gewichen war, daß unter den Lumpen
-meines Fakirkittels mir der Schweiß über die Haut in
-ganzen Bächen lief.
+Freilich, von Mr. Stoops — er hatte stets Wert
+darauf gelegt, als Gentleman behandelt zu werden —
+früherer vorbildlicher Eleganz war nichts mehr übrig
+geblieben. Um sein Kinn sproßte sogar ein grau melierter
+Stoppelbart von mindestens sechs Tagen, — sechs Tage
+war es auch her, als der fette Kurpfuscher in einer
+Anwandlung von Großmut ihm die Freiheit geschenkt hatte,
+allerdings unter Begleitumständen, die Mr. Abraham
+Stoop nach wilder Hatz halbtot umsinken ließen.
 
-Auch Harsts mageres Gesicht zeigte einen schwer
-zu beschreibenden Ausdruck, als er seine Bemühungen
-aufgab und schließlich mit einem Achselzucken sich
-wieder niedersetzte. »Ein böser Zufall«, sagte er dumpf.
-»An eine Absicht glaube ich nicht … Thamise deutete
-einmal an, daß dieser verfallene ehemalige Buddhistentempel
-den fanatischen Hindus in Reallore seit langem ein
-Dorn im Auge sei. Da wird eben Dapsar beim Gouverneur
-vorstellig geworden sein, zumal ihm dies wohl auch
-persönlich sehr erwünscht war, und er … ließ ausgerechnet
-heute abend die Ruine beseitigen … ausgerechnet!«
+Wie kam Stoop hierher? Was tat die umgekippte
+Whiskyflasche neben ihm, deren Inhalt zum Teil den
+Steinboden bedeckte?! Stoop war nie ein Trunkenbold
+gewesen, und im Bungalow der Frau Nadira Allison hatte
+er fast den überzeugten Prohibitionist gespielt.
 
-»Also doch Absicht«, meinte ich schwer atmend,
-da die Aussicht, hier verhungern zu müssen, mir den
-Brustkorb beengte.
+Harst schienen all diese Fragen sehr kalt zu lassen, er stieg
+vorsichtig über den total Betrunkenen hinweg und leuchtete
+mir, damit ich nicht etwa aus Versehen Mr. Stoop einen
+Fußtritt versetzte, was vielleicht unerwünschte Zwischenfälle
+veranlaßt hätte. Stoop konnte von Glück sagen, daß
+nicht Oberinspektor Arden zur Stelle war, denn mit
+dem fetten Kurpfuscher war nicht zu spaßen, und wem
+er erst einmal einen Hanfstrick versprochen hatte,
+der mußte sich rechtzeitig eine silberne Kanüle einsetzen
+und die Genickwirbel durch Massage kräftigen lassen.
 
-»In gewisser Weise — ja …«, gestand Harst mir
-zu. »Sieh mal, mein Alter, um diese ganze Geschichte
-ausführen zu können, brauchten wir den unversehrten
-Tempel, das heißt, die Ruine in dem Zustande wie vor
-einer Viertelstunde, denn *so* war sie auch, diese alte
-Ruine, als Ralla Wu hier tot aufgefunden wurde. Dapsar
-weiß nun ganz genau, daß die Begleiter Thamises wir
-beide waren, und da hat er es mit der Angst bekommen
-und hat uns die Arbeit gründlich erschweren wollen.«
+Gleich darauf standen wir vor einer nur angelehnten
+Tür aus Sandelholz mit reichen Kupferverzierungen und
+vernahmen durch einen dicken, indischen Wollvorhang,
+der innen vor der Tür hing, außer ziemlich nahem Jazzgedudel
+(das Grammophon konnte nicht schlecht sein, nur die
+Musik war kulturwidrig) eine heisere, schleimige Stimme,
+die soeben mit voller Lungenkraft posaunte:
 
-»Du hältst ihn für den Mörder seiner Frau?«, fragte
-ich in einem Tone, der die Frage von mir aus schon
-bejahte.
+»Rien ne vas plus …! Allons, — — la Roulette!!«
 
-Er zögerte etwas mit der Antwort.
+Wenn die Umstände nicht allergrößte Zurückhaltung
+verlangt hätten, würde ich vor Staunen mindestens ebenso
+laut »Donnerwetter noch mal!!« gerufen haben.
 
-»Ich möchte mich auf eine bestimmte Ansicht nicht
-festlegen. — Zunächst das eine, dir zur Beruhigung:
-Unsere Lage hier unter den Schuttmassen ist keineswegs
-verzweifelt. Wir haben Dolly und ihren ebenso dickköpfigen
-wie schneidigen Hofmarschall Muffy um Mitternacht hierher
-bestellt. Der sichtlich sehr verliebte Oberingenieur
-Hoßward, dem ich auch so allerhand trotz seines fidelen
-Jungengesichts zutraue — diese Sorte Engländer kennen
-wir ja, die sind zäh wie Leder — und tollkühn wie ein
-Zirkuskuppelspringer —, wird Dolly kaum mehr aus dem
-Auge verlieren … Wenn wir also hier um Mitternacht
-gehörig lärmen, Schüsse abfeuern und brüllen, müssen
-wir gehört werden, hoffe ich …«
+Mr. Edward Bastonnell schien hier auf der Insel
+den Croupier eines geheimen Spielklubs zu mimen!!
 
-»Hm: hoffe ich?! — Schön, wenn wir Muffy den Zettel
-gezeigt hätten! Muffy hat keine Ahnung, wo wir uns
-befinden. Kein Mensch kannte wahrscheinlich diese Gruft
-hier, und der eine, der sie kannte, liegt dort hinten
-steif und kalt: Thamise!«
+Aber es kam noch weit besser …
 
-Harst hatte stets eine besondere Art, Bedenken
-zu zerstreuen. »Das Verhungern kommt erst später«, meinte
-er etwas vorwurfsvoll. »Mit Hilferufen ist uns nicht
-gedient … Steck dir eine Zigarre an, mein Sohn, und
-warte ab. Gib auch mir Feuer. Ein Bettler von meiner
-fragwürdigen Schönheit dürfte ja nicht Zehnpfennig-Zigarretten
-rauchen, aber — seien wir leichtsinnig! So, danke —
-ich brenne … Und jetzt, da wir wirklich absolut
-nichts anderes zu tun haben, können wir das ja nochmals
-durchsprechen, was Thamise und Frau Jolante uns auf
-der Austern-Insel (vergl. den vorigen Band) über Ralla
-Wus Tod erzählt haben …«
-
-Er rauchte schon wieder ganz behaglich, die kleine,
-sparsame Öllaterne, die ich inzwischen angezündet hatte,
-stand zwischen uns, und Harst fuhr in knappen Sätzen
-das Wichtigste zusammenfassend fort: »Vor acht Jahren
-tauchte hier in der Tempelruine am Nordufer des Penner-River
-eine junge Inderin auf, die niemand kannte, die auch
-niemanden gesagt hatte, woher sie gekommen sei. Dapsar,
-damals schon Polizeichef, verliebte sich in die scheue
-Einsiedlerin, die sich Ralla Wu nannte, ein Name, der
-nachher sich auf die Ruine und auch auf die abschreckend
-häßliche Buddhastatue im Hauptraum des Tempels übertrug.
-Du hast diesen Buddha ja vorhin gesehen, eine so scheußliche
-Darstellung ist mir noch nirgends begegnet. Dapsar,
-als Mischling natürlich Christ, heiratete die Fremde
-und soll sie zuerst abgöttisch verehrt haben, bis er
-merkte, daß sie heimlich immer wieder diese Ruine besuchte
-und offenbar hier als Buddhistin ihre Gebete verrichtete.
-Die Bevölkerung nahm ebenfalls aus religiösem Fanatismus
-gegen die junge Frau eine drohende Haltung ein, und
-als Ralla Wu eines Tages mit ihrem Säugling in einer
-Rikscha durch das Eingeborenenviertel fuhr, wurde sie
-von dem farbigen Pöbel mit Steinen beworfen, ihr Kind
-in ihren Armen getötet, und — nun beginnen die unheimlichen
-Begleitumstände.
-
-Diese kleine Kindesleiche verschwand spurlos,
-Ralla Wu drohte der Stadt mit dem Zorne Buddhas, und
-bei Beginn der Regenzeit brach in Nellore die Pest
-aus und raffte über fünftausend Menschen hinweg. Die
-arme Frau selbst von allen gehaßt, von ihrem Gatten
-gemieden, siechte dahin und lebte zuletzt wieder allein
-in der Tempelruine, aus der ihr Gatte sie sicher wiederholt
-in höchstem Zorn heimgeschafft hatte. Dann fand man
-sie eines Tages, vor fünf Jahren etwa, tot vor dem
-Bildnis des Gottes auf — erstochen. — Gib acht, erstochen,
-Herzstich, — wie Thamise, den man damals wiederholt
-in der Nähe der Ruine gesehen hatte. Und nur deshalb
-geriet er in Verdacht, als buddhistischer Priester
-die durch ihre Ehe unrein gewordene Ralla Wu ermordet
-zu haben. Ein Arzt stellte den Tod Ralla Wus fest,
-die Leiche wurde in Dapsars Dienstwohnung geschafft,
-und in der Nacht verschwand die Tote genau so spurlos
-wie ihr Kind. — Was Dapsar betrifft, soll er monatelang
-vollkommen verstört und halb unzurechnungsfähig gewesen
-sein, — man sagt, er habe seine Frau doch noch immer
-geliebt, und seine Härte ihr gegenüber soll ihn in
-schwere Gewissenskonflikte gestürzt haben, die schließlich
-mit einem Nervenfieber endeten, in dem er im Fieberdelirien
-die sonderbarsten Visionen gehabt haben soll. Er wurde
-wieder gesund, erholte sich, und die englische Bonne,
-die er ursprünglich für sein Kind besorgt hatte, und
-die er später heiratete, soll immer aufs neue versucht
-haben, ihm den so wenig begründeten Verdacht gegen
-den alten Thamise auszureden. Doch Dapsars Haß gegen
-Thamise kannte keine Grenzen und keine Einsicht, obwohl
-— und auch dies ist bemerkenswert — in Dapsars Fiebervisionen
-Thamise eine ganz andere Rolle gespielt haben soll.
-Dapsar soll ihn weinend und betend angefleht haben,
-ihm seine Frau und sein Kind wiederzugeben. — Das wäre
-alles, mein Alter … Es bliebe höchstens noch zu erwähnen,
-daß Thamise uns gegenüber beteuert hat, Ralla Wu sei
-durch seine Hand nicht gestorben. — Schildert man diese
-Dinge so nüchtern sachlich, wie ich es soeben tat,
-dann verlieren sie vielleicht viel von dem unheimlichen
-gespenstischen Reiz eines großen, bisher ungelösten
-Rätsels. Oder auch nicht … — Fragst du mich nun, ob
-ich Ralla Wus Mörder kenne, so will ich, zumal ich
-nicht weiß, ob wir jemals von hier wieder ans Tageslicht
-gelangen werden, ehrlich erwidern: Nein — — und ja!«.
-
-»Eine Antwort, mit der absolut nichts anzufangen
-ist«, erlaubte ich mir zu bemerken.
-
-»Du irrst dich, es ist damit schon etwas anzufangen
-… Freilich gehört dazu der Glaube an Dinge, die halb
-außerhalb unserer Geistesgrenzen liegen.«
-
-Er nahm eine neue Zigarette … »Übernatürliches
-in dem Sinne etwa der Spiritisten lehnt die sogenannte
-exakte Wissenschaft rundweg ab, obwohl man mit dieser
-vernichtenden Kritik über spiritistische Phänomene
-sehr vorsichtig geworden ist. Wie ich mich dazu stelle,
-weißt du. Ich nehme hin, was mir an Ungewöhnlichem
-geschenkt wird, — — und kritisiere nicht. Mag jeder
-glauben, was er will …«
-
-Die zögernde Art, in der er die letzten Sätze
-vorbrachte, ließen mich vorausahnen, daß das Wichtigste
-noch käme.
-
-Leider sollte sich gerade in diesem Augenblick
-etwas ereignen, das uns beiden den Tod in allernächste
-Nähe brachte.
-
-Urplötzlich brach über uns die Steindecke der
-Gruft ein, ein Steinklotz traf mich, die Laterne erlosch,
-ich sauste inmitten von Mauertrümmern und Balken die
-Treppe hinab, wurde halb verschüttet, eine ungeheure
-Last preßte mir die Knochen entzwei, und halb über
-meinen Beinen lag auch Harst, der mir mit letzter Kraft
-und eigentümlich pfeifenden Tönen zurief:
-
-»… Lebe wohl … Dieses Mal ist es …«
-
-… Mehr hörte ich nicht.
-
-Ich verlor die Besinnung.
+Die kleine Insel im Nordteil des Palikat-Sees
+hatte noch mehr und noch seltsamere Dinge zu enthüllen.
 
 <h2>5. Kapitel.</h2>
 
-<h3>Mr. Hoßward übernimmt die Garantie.</h3>
+<h3>Der Klub der Austern.</h3>
 
-Die Lehmhütte auf der Weideninsel im toten Flußarm
-des Penner hatte keine Fenster, sondern nur eine Fensteröffnung,
-und in diesem hellen, von Sonnenlicht ausgefüllten
-Viereck saß Dolly Gwenns schlanke Gestalt und rief
-uns halb übermütig, halb ärgerlich zu:
+Wenn nicht scharfer Bratendunst, der plötzlich
+von vorn uns entgegenwehte, rechtzeitig zum Warner
+geworden wäre, hätte einer der in tadellosem Weiß bedienenden
+Kellner dieser ungewöhnlichen Spielhölle uns jetzt
+beinahe erwischt.
 
-»Und das nennen Sie beide Verabredungen einhalten!!«
+Eine Tür war acht Schritte vor uns aufgegangen,
+Lichtschein und Bratendunst verrieten eine Küche, und
+eiligst flohen wir den Weg zurück, bis wir im Halbdunkel
+kaum noch zu bemerken waren. Der Kellner balancierte
+ein großes Servierbrett auf der linken Hand, trug vor
+der Brust eine eingeschaltete Taschenlampe und verschwand
+hinter dem linken, geteilten Vorhang.
 
-Ich war munter geworden …
+Diesmal waren wir noch glücklich davongekommen.
+Der Schreck hatte uns nichts geschadet, wir waren ein
+gut Teil klüger geworden, und außerdem hatte der Zwischenfall
+einen nicht zu unterschätzenden Wert: Jeder Zweifel
+darüber, ob es sich hier etwa um ein zufälliges und
+einmaliges Zusammentreffen mehrerer Personen handelte
+oder um ein seit längerer Zeit bestehendes, sorgfältig
+und zweckentsprechend eingerichtetes geheimes Animierlokal
+mit allem drum und dran, war nun behoben, denn dem
+ersten Kellner folgte ein zweiter mit Sektkühlern und
+dicken Flaschen mit silbernen Hälsen … Sekt!!
 
-Harst saß schon aufrecht da und stierte die blonde
-Dolly fast wie ein Gespenst an. Bei dem Versuch mich
-gleichfalls aufzurichten, merkte ich erst, wie jämmerlich
-meine sämtlichen Knochen schmerzten und wie berechtigt
-Harsts rasche Erklärung war: »Entschuldigen Sie schon,
-Miß Gwenn, — wir haben einfach verschlafen, das ist
-es!« Und dann warf er mir einen Blick zu, der einfach
-Bände sprach und besagte: »Kein Wort über die Tempelruine!«,
-— eine übrigens ganz unnötige Warnung, denn ich war
-noch viel zu benommen und viel zu verwirrt über diese
-mir unbegreifliche Tatsache, daß wir beide, die wir
-doch unter der zusammengebrochenen Gruftdecke unter
-den in das Loch hineinstürzenden Steinmassen begraben
-worden waren, uns nun hier in der Inselhütte bei strahlendem
-Sonnenschein wiedersahen.
+… Mir lief das Wasser im Munde zusammen.
 
-Dolly turnte nun vollends durch das Fenster herein,
-und von draußen erscholl die helle, etwas jungenhafte
-und doch so messerscharfe Stimme Gerald Hoßwards: »Vielleicht
-darf ich auch mal eintreten, Muffy und ich schmoren
-hier in der Sonne und …«
+Harst flüsterte trocken (vielleicht war es »Sekt
+extra trocken«): »Die Sache muß ich mir unbedingt aus
+nächster Nähe ansehen! Sobald die Kellner die Herrschaften
+wieder genügend versorgt haben und die Küchentür geschlossen
+wird, wagen wir einen Vorstoß.«
 
-»Hoßward weiß alles«, flüsterte Dolly eilfertig
-und verlegen. »Wir können uns auf ihn verlassen … Darf
-ich den Türriegel öffnen? Übrigens war auch über das
-Fenster ein Gitter von Stäben genagelt gewesen, an
-denen Glasscherben hingen — wie Alarmglocken …«
+Ich hätte nichts gewagt.
 
-»Dadurch wurde ich ja munter«, nickte Harst geistesabwesend
-und erhob sich taumelnd, öffnete die Tür und drückte
-dem dünnen Hoßward und dem schweißtriefenden kleinen
-Muffy die Hand.
+Hinter uns schnarchte Mr. Abraham Stoop, über
+dessen wahren Grad von Trunkenheit wir nur Vermutungen
+anstellen konnten, und vor uns amüsierte sich eine
+unbekannte Schar von zweifelhaften Herren und Damen
+(letztere übermäßig parfümiert), und was sonst noch
+in diesen Kellerräumen verborgen, wußten wir nicht.
 
-Hoßward betrachtete uns beide sehr eingehend und
-schmunzelte, — man sah, daß er sich das Lachen verbiß.
-»Schön sehen Sie nicht aus …! Aber Maske bleibt Maske!
-Waren Sie zuletzt in einem Kalkbruch tätig?! Ihre Lumpen
-sind ja völlig bestäubt, und die Schrammen in Ihren
-Gesichtern, — was war eigentlich los?!« Ich spürte
-sein Mißtrauen, und Harst bemerkte so nebenbei: »Darüber
-reden wir später … Nehmen Sie Platz …«
+Mithin …: Vorsicht ist der bessere Teil der Tapferkeit,
+und eine Pistolenknallerei bei so ungleicher Kräfteverteilung
+der Parteien macht nie Spaß.
 
-Gut gesagt, — Platz nehmen?! Wo?! — Muffy, der
-Reisemarschall, breitete schleunigst eine Wolldecke
-über das Ungetüm von Herd, und unsere Gäste setzten
-sich nebeneinander mit baumelnden Beinen auf die Herdkante,
-nur der lange Gerald konnte mit den Stiefelspitzen
-bequem den Boden erreichen, baumelte jedoch aus Solidarität
-gleichfalls mit und musterte uns noch immer mit höchst
-ungemütlichen Augen.
+Ich schwieg trotzdem. Auch mich hatte das Jagdfieber
+gepackt, und so sehr ich auch entsprechend meiner Korpulenz
+Pazifist bin, — — diese Bande da wollte ich mir auch
+anschauen, zumal es mir nun erwiesen schien, daß Mr.
+Edward Bastonnell, das Flußpferd, mit John Armo, dem
+Ehepaar Spencer und so weiter unter derselben schmierigen
+Decke steckte und uns ganz grob getäuscht hatte. Zweifellos
+war die Beraubung des Tresors der »Mohalla« mit seinem
+Einverständnis geschehen, und wahrscheinlich hatte
+er seinen Beutel Perlen schon vorher aus seinem Tresorfache
+herausgenommen gehabt und nur zum Schein wegen seines
+»Verlustes« den wilden Mann gespielt, übrigens alles
+Schlußfolgerungen, die sich nachher voll bestätigten.
 
-»… Das hätte gestern ein nettes Malheur geben
-können«, meinte er sehr ernst. »Wenn Dapsar die Ruine
-anderthalb Stunden später gesprengt hätte, würde Miß
-Gwenn und Muffy und …« — er hüstelte — »na, und auch
-ich, der zufällig dorthin einen Spaziergang gemacht
-hatte, nett eins ausgewischt bekommen haben … — Die
-Sprengung erfolgte mit Zustimmung des Gouverneurs und
-sogar mit auf meine Anregung — leider, nur hätte Dapsar
-mich davon benachrichtigen müssen. Der alte Tempel
-stand ja doch oben auf dem sandigen Steilufer, das
-bereits stark unterwaschen war und ich mußte mit der
-Gefahr rechnen, daß der schwere altertümliche Steinbau
-eines schönen Tages in den Penner rutschte und den
-Flußlauf verstopfte. — Hm, — Miß Gwenn will, glaube
-ich, auch noch etwas sagen …«
+Endlich hatten die beiden Kellner nach mehrmaligem
+Hin und Her die Küchentür wieder geschlossen, und Harst
+huschte lautlos wie eine geschäftige Ratte bis zum
+Vorhang, duckte sich, lüftete ihn unten, ließ ihn sofort
+wieder fallen und hob die linke Kante empor und kroch
+eng am Boden unter ein dicht an der Tür stehendes indisches
+Ruhebett mit sehr hohen Füßen und sehr langem Behang
+von prächtigen Tigerfellen.
 
-Dolly rauchte und hatte gleichfalls sehr mißtrauische
-Augen. »Und ob ich etwas sagen will!!« Sie blitzte
-zunächst Ihren Nachbar Hoßward schelmisch an. »So —
-Sie hatten also einen Spaziergang über den Fluß gemacht?!
-Wohl zu Fuß?! Als Wundermann, Denken Sie, Muffy und
-ich haben Ihren Kahn nicht bemerkt? Das Muffy und ich
-allerdings wie versteinert waren, als wir beim Näherkommen
-nichts mehr von den Ruinen bemerkten, das wird Ihnen
-entgangen sein. — Wir sind dann oben bei dem Trümmerberg
-gewesen«, wandte sie sich an Harald, der etwas krumm
-an der Wand lehnte und dauernd durch die offene Tür
-das Weidengestrüpp beobachtete. »Wir haben auf Sie
-beide eine Stunde gewartet, und dann erst …« — Sie
-zögerte und schielte Muffy forschend an —, »wurde es
-uns dort unheimlich zu Mute.«
+Ich folgte, — — mir hämmerte das Herz, der Vorhang
+bewegte sich, aber nur die Mitte des saalartigen Raumes
+war durch zwei über dem Roulettetisch angebrachte
+Karbidlampen mit grünen Schirmen hell beleuchtet, außerdem
+achtete auch niemand der Spieler auf den Türvorhang,
+und als ich erst unter dem Ruhebett lag, verdeckt durch
+die herabhängenden Felle, empfand ich genau dieselbe
+Freude, als ob ich soeben einen Langstreckenlauf gewonnen
+hätte, — was mir freilich nie beschert werden wird.
 
-»Das stimmt«, bestätigte der pomadige Kleine mit
-dem nichtssagenden Vollmondgesicht. »Unheimlich …!!
-Wir hörten Geräusche und Stimmen,… falls es Stimmen
-waren … Außerdem …« — er kaute noch kräftiger an seinem
-Lutschgummi — »glaubten wir eine Gestalt zu sehen …«
+Musik …
 
-»Es war eine Frau«, sagte Dolly halb ärgerlich.
-»Ihre Augen sind nicht so gut wie die meinen, und —
-— wie ich nochmals betone: Es war eine Frau, mitten
-in den Trümmern, sie verschwand blitzschnell, und da
-kehrten wir eben nach Nellore zurück.«
+Tango …
 
-Harst, immer noch die Weidenbüsche im Auge behaltend,
-warf gleichgültig hin: »Es wird eine Sinnestäuschung
-gewesen sein … Wohin wurde die scheußliche Buddhafigur
-geschafft, Mr. Hoßward?«
+Durch die breite Tür zum blendend hellen, mit
+gelber Seide ausgeschlagenen Nebengemach erblickte
+ich langsam sich vorwärtsschiebende Tanzpaare, die
+Herren in weißen Tropenanzügen mit weißen Krawatten
+und Lackschuhen, die Damen in großen Toiletten, oder
+kleinen Toiletten, denn die »große« verlangt nun mal
+oberwärts wenig Stoff.
 
-»Die kommt ins Museum von Madras, jetzt steht
-sie im Polizeigebäude …« Hoßward grinste unverhohlen.
-»Mr. Harst, wäre es nicht besser, Sie spielten uns
-gegenüber mit offenen Karten?! Weshalb leugnen Sie:
-Sie beide waren doch in der Tempelruine …«
+Zwölf Paare zählte ich … Die meisten Europäer,
+aber auch Eurasier, elegante, schmalschultrige Inder
+und ein paar kleine dicke Gentlemen mit persischen
+Hängebacken.
 
-Harst winkte Muffy zu. »Bitte, nehmen Sie doch
-meinen Platz hier ein, und vielleicht tun Sie gut,
-Ihre vortreffliche Pistole bereit zu halten. Mein Rücken
-hat einen bösen Knacks abbekommen …«
+Am Spieltisch sechs Schritt vor uns standen und
+saßen weitere vierzehn Personen.
 
-Muffy konnte seine ungeheure Wurstigkeit gegenüber
-der gesamten Umwelt sehr schnell und gründlich umstellen.
-Er war wie der Blitz vom Herde herunter und lehnte
-sich an die offene Tür, sein feistes Gesicht und die
-wässerigen Augen bekamen einen Ausdruck, der an einen
-gereizten Kater erinnerte, und daß Muffy, falls jemand
-draußen in den Weiden schießwütig herumschleichen sollte,
-sehr schnell mit der Pistole bei der Hand sein würde,
-wußte ich bereits.
+Eins fiel mir sofort auf: Ob Männlein oder Weiblein,
+alle trugen sie links in Höhe des Brustbeines eine
+… Austernschale an goldenem Kettchen und Häkchen!
 
-Harst ließ sich vorsichtig auf sein Lager nieder
-und begann nun unser Erlebnis in der Ruine ganz eingehend
-zu schildern.
+Alle — auch das Flußpferd, das uns seine breite
+Schnauze mit den wässerigen Kalbsaugen gerade zugekehrt
+hatte und eifrig die Geldharke benutzte und die üblichen
+Roulette-Ansagen schleimig und heiser hervorstieß.
 
-»… Wer Schraut und mich unter der Zentnerlast
-der Trümmer hervorgeholt hat«, schloß  Harst sehr bedächtig,
-»wer uns dann hierher brachte, uns offenbar noch untersucht
-hat, ob ein Glied gebrochen sei, und uns die Gesichtskratzer
-und sonstigen Risse der Haut säuberte und mit … Kollodium
-bestrich — bitte, dies ist Kollodium —, weiß ich nicht.
-Etwas äußerst Geheimnisvolles ist somit geschehen,
-etwas, das beinahe an Übernatürliches grenzt, es wäre
-mir daher sehr lieb, Mr. Hoßward, wenn die Tempeltrümmer
-einmal gründlich durchsucht würden, wozu freilich eine
-Menge Arbeiter nötig wäre.«
+Musik …
 
-»Das geschieht bereits«, erklärte Hoßward genau
-so ernst. »Mit der Sprengung der Ruine war mir nicht
-gedient, die Steinmassen müssen sämtlich weggeschafft
-werden.« Dieser etwas eigenartige Oberingenieur hatte
-jetzt eine Miene aufgesetzt, die alles andere als jungenhaft
-war. Das braune Sportgesicht war eine einzige Linie
-zielbewußter Energie. »Und noch etwas, Mr. Harst …
-Ich protze nicht gern mit meinen Beziehungen, aber
-der Vicekönig ist mein Onkel, und es kostet mich eine
-Depesche oder ein Telephongespräch, und Polizeichef
-Dapsar wird … abgesägt. Ich halte ihn für den Mörder
-seiner ersten Frau, — der Kerl ist mir auch sonst höchst
-unsympathisch …«
+Tango …
 
-Harst hatte sein Zigarettenetui hervorgeholt und
-ließ es aufklappen. Nur ich konnte sehen, daß über
-der linken Reihe Zigaretten unter dem Gummiband ein
-Zettel, ein beschriebener Zettel steckte.
+Jazz …
 
-Selbst Harst verlor einen Augenblick die Selbstbeherrschung,
-nahm dann schnell eine Zigarette heraus und sagte mit
-etwas rauher Stimme:
+Roulette …
 
-»Dapsar ist kein Mörder … Ich möchte sogar behaupten,
-er ist ein sehr unglücklicher, zu bemitleidender Mensch.«
-Dann schaute er Hoßward voll an. »In der Gruft der
-Ruine müßte auch der tote Thamise liegen … Ich weiß
-schon jetzt, daß Ihre Arbeiter die Gruft leer finden
-werden. Frau Ralla Wus totes Knäblein verschwand, Frau
-Ralla Wu verschwand — auch als Tote, nun hat sich dieses
-… Wunder zum dritten Male wiederholt. Thamise ist tot,
-Thamise ist …« — er zauderte — »eingegangen in das
-eisumstarrte Reich derer, die die größten Geheimnisse
-des Weltalls hüten. — Gut, brechen wir auf … In zehn
-Minuten werden Schraut und ich wieder wir selbst sein,
-und dann können wir in Nellore diese Dinge restlos
-zu klären suchen.«
+Parfüm, Sekt, nackte Schultern, erhitzte Gesichter,
+Zigarettenschwaden, Speisendunst, Körperdünste …
 
-Die liebliche, fesche und straffe Dolly Gwenn
-sagte ganz leise: »Das … ja … das unbekannte Grauen
-packt mich … wie in der verflossenen Nacht …!«
+… Geheimklubs sind oft beschrieben worden, daß
+es nicht verlohnt, in eine Schilderung solchen Betriebes
+von Gier, Gemeinheit, Enttäuschung, Freude, Verzweiflung
+und aufgestachelter häßlichster Leidenschaften eine
+neue Note hineinbringen zu wollen.
 
-Hoßward nahm ihre Hand. »Gespenster gibt es nicht,
-Miß Dolly … — Kommen Sie … Die Herren wollen sich waschen,
-rasieren und umziehen.« Er holte seine lange Pistole
-hervor. »Ich schieße auch nicht schlecht … Muffy mag
-hier Wächter spielen, und ich bewache Sie …« — Es lag
-sehr viel versteckte Zärtlichkeit in seiner Stimme,
-und Dolly wandte rasch den Kopf zur Seite und errötete
-leicht.
+Dieser Klub der Austern, aufgetan in den Geheimkellern
+einer Tempelruine, in deren heiligen Hallen noch verwitterte
+Götterstatuen und reiche Wandreliefs  von feierlichem,
+religiösem Kult predigten, war eine schamlose Verhöhnung
+und Entweihung einer großen, wenn auch blutigen Vergangenheit
+eines Volkes von ungezählten Millionen.
+
+So empfand ich es …
+
+Und so mußte es jeder Inder empfinden, ob Mohammedaner,
+Hindu oder Buddhist.
+
+»Rien ne vas plus …!«, schleimte das Flußpferd
+über den grünen Tisch …
+
+Das Rad drehte sich, die Kugel hüpfte …
+
+Nebenan war gerade die Tanzmusik verstummt.
+
+Und da geschah es …
+
+Ein Zufall …
+
+Ich sah das Messer, das durch die hellblaue Seidenbespannung
+der Wände links von mir glitt …
+
+Eine blitzende lange Klinge, die lautlos den Stoff
+zertrennte, die matt funkelnd herabfuhr, verschwand,
+oben wieder auftauchte … wieder durch die Seide sich
+hindurchfraß, bis das losgetrennte Stück halb herabfiel
+und …
+
+Harst preßte meinen Arm, daß ich hätte schreien
+mögen …
+
+Harst war das Messer nicht entgangen …
+
+Und kräftig mit seinem Bambusstecken aufstoßend,
+den Kopf stolz und zornig zurückgeworfen, betrat der
+alte Buddhapriester den Spielsaal durch irgend eine
+Geheimtür …
+
+Trat ein, stand still …
+
+Vom Nebenraum traf ihn der Lichtschein, — ein
+einzelner Schrei gellte auf, — — eine Frau riß sich
+aus den Armen ihres Tänzers, der sie in frecher Umarmung
+auf dem Schoße gehalten. Die Spieler sprangen empor,
+— — alles stierte den hageren alten Mann in seiner
+zerschlissenen Kutte und mit seinen stieren milchigen
+Augen in grauenvollem Entsetzen an.
+
+Alle …
+
+Nur Bastonnell blieb sitzen.
+
+Sein schweißiges, speckfaltiges Gesicht verzog
+sich zu wütender Grimasse, seine Hand fuhr in die Tasche …
+
+»Die Götter werden euch strafen«, sprach der Greis
+mit zitternder Stimme, in der all der unendliche Haß
+gegen diese Eindringlinge mitschwang. »Fernher kam
+ich, diese feierliche Stätte zu besuchen, — — und was
+fand ich: Verbrecher!!«
+
+Bastonnells Hand war wieder über dem Tischrand
+erschienen.
+
+Diese Hand hielt eine kleine Repetierpistole.
+
+Und aus einer anderen Hand flog wie eine gleißende
+Linie ein Messer zum Spieltisch.
+
+Das Flußpferd brüllte …
+
+Die Pistole polterte herab …
+
+Bastonnells Hand war an den Tisch gespießt, und
+ein roter Blutstrahl sprang im Bogen über das bunte
+Rad des Spielteufels und über Haufen von Banknoten
+und entblößte, gepuderte Frauenschultern …
+
+Wie ein Phantom glitt der Alte in die Wand zurück.
+
+Wie flüchtende Schlangen wanden wir beide uns
+eilends in den Gang zurück, wurden doch bemerkt, neue
+Schreie gellten auf, wir hatten zu viel Vorsprung,
+wir verschwanden in unserem Steingemach, bevor noch
+eine einzige der aufgescheuchten »Austern« den Gang
+betreten hatte. Als Harst die Geheimtür zuzog, als
+ich die Lampe anzünden wollte, tönte von dem Mattenlager
+her die harte, scharfe Stimme des Fremden, die wir
+nur zu gut kannten:
+
+»Kein Licht!! Erst die Luftlöcher verstopfen!!«
+
+Auf diese Weise lernten wir Charles Austin, den
+Mann aus der Hölle, kennen.
+
 
