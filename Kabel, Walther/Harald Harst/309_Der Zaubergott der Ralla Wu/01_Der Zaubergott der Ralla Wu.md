@@ -74,7 +74,7 @@ an sich wertvolle Bundesgenossen abgegeben hätte, nach
 Nellore uns in Marsch zu setzen, beweist sich nunmehr
 als richtig und zweckentsprechend. Fünf Leute fallen
 leichter auf als drei, und die Veränderungen, die wir
-mit ihm und Thamise vorgenommen haben, werden ihn
+mit uns und Thamise vorgenommen haben, werden ihn
 sicherlich genügend schützen.«
 
 Dicht vor der Station zog sich die neue Autostraße
@@ -619,7 +619,7 @@ Harst, in seiner Maske als Bettler genau so echt
 wirkend wie ich als »Fakir«, blieb plötzlich stehen
 und deutete auf eine Wasserlache neben einem der Steine,
 die auffällig einem Loche glich, das ein menschlicher
-Fuß, der von den Stein abgeglitten und in dem Morast
+Fuß, der von dem Stein abgeglitten und in dem Morast
 versunken war, hervorrufen mußte.
 
 Auch mein Argwohn war sofort rege geworden.
@@ -992,7 +992,7 @@ aufgab und schließlich mit einem Achselzucken sich
 wieder niedersetzte. »Ein böser Zufall«, sagte er dumpf.
 »An eine Absicht glaube ich nicht … Thamise deutete
 einmal an, daß dieser verfallene ehemalige Buddhistentempel
-den fanatischen Hindus in Reallore seit langem ein
+den fanatischen Hindus in Nellore seit langem ein
 Dorn im Auge sei. Da wird eben Dapsar beim Gouverneur
 vorstellig geworden sein, zumal ihm dies wohl auch
 persönlich sehr erwünscht war, und er … ließ ausgerechnet
@@ -1242,10 +1242,10 @@ ich, auch noch etwas sagen …«
 
 Dolly rauchte und hatte gleichfalls sehr mißtrauische
 Augen. »Und ob ich etwas sagen will!!« Sie blitzte
-zunächst Ihren Nachbar Hoßward schelmisch an. »So —
+zunächst ihren Nachbar Hoßward schelmisch an. »So —
 Sie hatten also einen Spaziergang über den Fluß gemacht?!
-Wohl zu Fuß?! Als Wundermann, Denken Sie, Muffy und
-ich haben Ihren Kahn nicht bemerkt? Das Muffy und ich
+Wohl zu Fuß?! Als Wundermann. Denken Sie, Muffy und
+ich haben Ihren Kahn nicht bemerkt? Daß Muffy und ich
 allerdings wie versteinert waren, als wir beim Näherkommen
 nichts mehr von den Ruinen bemerkten, das wird Ihnen
 entgangen sein. — Wir sind dann oben bei dem Trümmerberg
