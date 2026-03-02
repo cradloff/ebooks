@@ -496,7 +496,7 @@ Ausgerechnet mich formlosen Wurm muß man in diese von
 braunen und weißen und gemischten Kehlabschneidern
 geradezu wimmelnde Gegend schicken! Ich Narr hätte
 heimfahren sollen, nachdem der Gespensterreiter, der
-die Gemüter dieser reisfressenden, freiheitsflüsternen
+die Gemüter dieser reisfressenden, freiheitslüsternen
 Burschen angeblich allzu stark erregen sollte, glücklich
 durch mein Zebu zu Mus gestampft war!! Und was tue
 ich Idiot — ich bleibe und stecke meine Hände in weitere
@@ -883,7 +883,7 @@ kein Gewissen, ich nutze jeden aus, ich spiele Komödie,
 bin anscheinend der redlichste Freund und doch der
 größte Lump, aber — — reich, reich durch die Dummheit
 anderer! Ich pfeife auf moralische Anwandlungen, ich
-habe Sie zum Sträfling gemacht, und das mir Jolanta
+habe Sie zum Sträfling gemacht, und daß mir Jolanta
 trotzdem entwischte und ausgerechnet bei diesem läppischen
 Narren von Thamise drüben in den Festlandbergen Zuflucht
 fand und Ihnen nachher bei der Flucht half, — — all
@@ -1275,5 +1275,5 @@ Griff in all die dunklen, jahrtausende alten Rätsel
 des Wunderlandes Indien …
 
 <#import "*/harst.ftl" as harst>
-<@harst.naechsterband band="Der Kopf, der nichts verriet."/>
+<@harst.naechsterband band="Der Zaubergott der Ralla Wu."/>
 

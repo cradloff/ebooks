@@ -452,7 +452,7 @@ Als die Arbeit nach etwa einer Stunde beendet
 war, beschaute er sein Werk, holte nun eine Flasche
 und einen Pinsel hervor und betupfte die Steine, um
 ihnen den verräterischen, die Habgier reizenden Glanz
-wieder zu nehmen, kniete erneut nieder ließ den Rosenkranz
+wieder zu nehmen, kniete erneut nieder, ließ den Rosenkranz
 der Lamaisten durch die Finger gleiten, hielt den Kopf
 tief gesenkt und … entfernte sich, wie er gekommen
 war. — Die Glasstücke hatte er in dem Lederbeutel,
@@ -853,7 +853,7 @@ hatte, offenbarte mir Ralla Wu ihr verwandtschaftliches
 Verhältnis zu Thamise. Fünf Monate darauf wurde sie
 tot aufgefunden, — ich hielt Thamise nicht für den
 Mörder, aber …« — er stockte und neigte den Kopf noch
-tiefer —   » — nein, diese Dinge stehen außerhalb jeder
+tiefer — »— nein, diese Dinge stehen außerhalb jeder
 öffentlichen Erörterung … — Ich habe gefehlt, aber
 — — ich habe mich zurückgefunden zu meinem Kinderglauben,
 und Buddha wird mir gnädig sein.«
@@ -1118,9 +1118,9 @@ Nacht sahen, und auch die Buddhastatue. — So, und nun
 sprechen wir besser von anderen Dingen … für mich ist
 der Fall Ralla Wu begraben.«
 
-— »Ich habe ihn ausgegraben. Auch ich äußere mich
-nicht weiter dazu. Mag  jeder meiner Leser sich seine
-eigene Meinung bilden.«
+— Ich habe ihn ausgegraben. Auch ich äußere mich
+nicht weiter dazu. Mag jeder meiner Leser sich seine
+eigene Meinung bilden.
 
 Nur einen Rat: Vielleicht beschäftigen sich meine
 Freunde einmal mit dem Lamaismus, der Inkarnation und
@@ -1135,5 +1135,5 @@ und — seltsam — mich befällt eine eigentümliche Müdigkeit
 Und … ein Frösteln läuft mir über den Rücken.
 
 <#import "*/harst.ftl" as harst>
-<@harst.naechsterband band="Der Zaubergott der Ralla Wu."/>
+<@harst.naechsterband band="Der Kopf, der nichts verriet."/>
 
