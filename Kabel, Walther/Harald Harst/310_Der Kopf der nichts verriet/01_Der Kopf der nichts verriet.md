@@ -368,7 +368,7 @@ hinnahm.
 aber entschieden gröber …«, war alles, was er erwiderte.
 
 »Ich will wissen, weshalb du die Argusleute schon am
-Tage bestellt hattest!«, beharrte ich grollend bei meiner gerechtem
+Tage bestellt hattest!«, beharrte ich grollend bei meiner gerechten
 Forderung.
 
 »Weshalb …?! — — Ah, — — wir sind schon zur
@@ -444,7 +444,7 @@ Licht kam, die den ganzen Fall noch mehr verwirrte.
 Schütz gab zu, daß, als er bereits längere Zeit halb in
 der Schlinge hing, ohne um Hilfe rufen zu können, jemand ihn
 von der Ateliertür aus kurz mit der Taschenlampe beleuchtet
-und die für schnell wieder zugedrückt habe.
+und die Tür schnell wieder zugedrückt habe.
 
 Das war das eine. — Wer dieser Mann gewesen, wußten
 wir durch die Chauffeure: Gudden!!
@@ -559,7 +559,7 @@ scharfe metallische Splittern eines Kotflügels eines Autos.
 
 Harst lachte bissig. »Attentat Nummer eins, — es wird
 noch mehr von der Sorte geben, glaube ich … Dieser Kopf
-aus der Tscherkessenlanze wird uns noch viel zu schaffen machen.
+auf der Tscherkessenlanze wird uns noch viel zu schaffen machen.
 — Gehen wir weiter … und etwas fix, mein Alter … Mir
 will dieser Zwischenfall gar nicht recht gefallen. Guddens
 Auto war es nicht …«
@@ -725,7 +725,7 @@ Beck selbst war ein glänzender Chauffeur.
 
 Sekunden später stand Harst vor uns. Er trug ein Paket
 im Arm, und seine Frage an Beck klang ungewohnt scharf:
-»Ist eine der Taxen imstande, der Limousine zu überholen?
+»Ist eine der Taxen imstande, die Limousine zu überholen?
 Gudden fährt sicherlich nach R., und in zwei Stunden läßt
 sich …«
 
@@ -769,7 +769,7 @@ als er nun äußerst vorsichtig das Messingschild an dem
 einen Torpfosten ableuchtete und dann den Dietrich in das
 Schlüsselloch der Gitterpforte schob.
 
-Ein Knacken, — — die Pforte schwang ohne jedes Kreischen
+Ein Knacken, — die Pforte schwang ohne jedes Kreischen
 auf, und wir standen auf fremden Boden.
 
 »Gut geölt alles«, tuschelte Harst mir zu, der jetzt noch
@@ -810,7 +810,7 @@ die allzu gut geölte Pforte …«
 
 Ob ich daran dachte!
 
-Ich begriff alles: Wir warten hier nicht die einzigen auf
+Ich begriff alles: Wir waren hier nicht die einzigen auf
 Guddens Grundstück, und der, der die Pforte so übermäßig
 geschmiert hatte, mußte auch den Hund niedergeschlagen haben
 und konnte noch in der Nähe sein.
@@ -935,9 +935,9 @@ Kriminalpolizei, die mit erfreulichem Erfolg gearbeitet
 <@pagebreak/>
 hat, ein gänzlich verändertes Aussehen erhalten, so daß
 man jetzt mit aller Bestimmtheit von einem äußerst raffinierten
-Morde sprechen kam. —
+Morde sprechen kann. —
 
-> Wir geben zunächst den Weltteilen echt wieder:
+> Wir geben zunächst den Polizeibericht wieder:
 
 <p class="centered em">Verhaftung Schamil Garzias.</p>
 
@@ -1056,7 +1056,7 @@ nicht noch dadurch steigern wollte, daß die Löwen auch
 meiner Frau gar nicht beitragen können. — Was
 meine nächtliche Fahrt nach R. betrifft, so räume ich
 allerdings ein, daß mir nach dem Ableben meiner Frau
-der Verdacht kam, Doktor G. konnte mir diesen Schurkenstreich
+der Verdacht kam, Doktor G. könnte mir diesen Schurkenstreich
 gespielt haben, da der Pappkopf, bevor ich
 ihn grell überpinselte und mit Haaren versah, zweifellos
 Doktor G. sehr ähnlich sah. Ich beabsichtigte, Doktor
@@ -1147,9 +1147,9 @@ Harst, der plötzlich die gewissen drei Falten auf der
 Stirn hatte und zerstreut seine Hakennase streichelte, hob unmerklich
 die Schultern. »Haben Sie ein Alibi, Herr Schütz?«
 
-Der junge Bildhauer wurde genau sie stutzig wie ich.
+Der junge Bildhauer wurde genau so stutzig wie ich.
 
-»Alibi?! Weshalb«!«
+»Alibi?! Weshalb?!«
 
 Harst schaute ihn nachdenklich an. »Die Polizei wird
 jede Spur verfolgen, jede … Das muß sie auch. Vielleicht
@@ -1246,7 +1246,7 @@ nur zwei Fahrgästen mit Kurs gen München erhob, kostete
 <@pagebreak/>
 eine kleine Stange Geld, und der Flugkapitän hielt seine
 Passagiere sicherlich für übergeschnappt, als er bereits vor
-Treuenbrietzen in Eiter öden Heide niedergehen mußte. —
+Treuenbrietzen in einer öden Heide niedergehen mußte. —
 »Wir haben uns die Sache anders überlegt«, erklärte ihm
 Harst sehr unverfroren. »Wir müssen doch noch einiges in
 Berlin erledigen … Warten Sie hier bitte bis zum Abend.
@@ -1286,7 +1286,7 @@ die Briefklappe vorsichtig anfeuchtete. »Ich verabscheue derartige
 Mittel, obwohl man zuweilen … — hallo, schaue her!«
 
 Der Rohrpostbrief hatte einen kleinen Zettel mit der
-Aufschrift »Schweigen Sie! — Ihr Klapu.« Und zwei fünfhundert-Dollar-Noten
+Aufschrift »Schweigen Sie! — Ihr Klapu.« Und zwei Fünfhundert-Dollar-Noten
 enthalten.
 
 Fünf Minuten später steckte der tadellos glatt geplättete

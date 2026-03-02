@@ -145,7 +145,7 @@ Doch dieser Garzia, der sicherlich ganz anders hieß?!
 
 Unser Wagen hielt, wir hatten noch fünfzig Schritt zu
 gehen, wir befanden uns in einer jener engen, düsteren Gassen,
-in der Uralte Häuser mit schmierigen Fassaden, den Dunst der
+in der uralte Häuser mit schmierigen Fassaden, den Dunst der
 Armut und die billigen Wohlgerüche des Lasters ausströmten
 und leises Grauen hervorrufen, wenn man die erblindeten Fenster,
 die Fetzen von Gardinen und die Kellereingänge anschaut,
@@ -154,7 +154,7 @@ zu erhaschen suchen.
 
 Das Haus Nr. 22 war sauberer als die Nachbarn.
 Neben der rissigen, aber frisch gestrichenen Haustür hingen
-verschiedene Firmenschilder, darunter auch.
+verschiedene Firmenschilder, darunter auch
 
 <@pagebreak/>
 
@@ -191,7 +191,7 @@ Fabrik.
 Die seltsame Frau, aus der ich immer weniger klug wurde,
 zeigte sich äußerst wortkarg und schien auch überaus mißtrauisch
 zu sein. Ihr Stock, das erkannte ich sehr bald, war
-ein sogenannten Totschläger: Stahlstange mit Lederplättchen,
+ein sogenannter Totschläger: Stahlstange mit Lederplättchen,
 bunt lackiert. Vor vierzig Jahren waren diese Stöcke sehr
 in Mode. — Das Geschäft wickelte sich allzu schnell ab. Harst
 merkte wohl, daß hier nichts zu erreichen war, diese Frau
@@ -226,7 +226,7 @@ Wir waren nun wieder daheim in dem großen Glaskäfig
 von Atelier, — der andere Käfig hing an der Wand,
 die Kanarienvögel zwitscherten, und Harst betrachtete sich sehr
 nachdenklich in einem Handspiegel. Seine Maske als Mister
-Steward Hollard war gewiß vorzüglich trotzdem schien er
+Steward Hollard war gewiß vorzüglich, trotzdem schien er
 damit nicht recht zufrieden zu sein … »Ich glaube fast, mein
 Alter, daß Frau Franziska ein noch besserer Detektiv ist, als
 ihr Gemahl. Sie muß geahnt haben, wen sie vor sich hatte,
@@ -349,7 +349,7 @@ davon. Harst stand am Fenster und blickte in das Dunkel des
 feuchten Herbstabends hinaus. Dann trat er zurück, ließ den
 Vorhang fallen und meinte nur: »Man soll Zeitungen genau
 lesen, mein Alter … Diese Kanarienvögel hätten dir sonst
-das Lebenslicht schneller ausblasen, als unser Kanarienhahn
+das Lebenslicht schneller ausgeblasen, als unser Kanarienhahn
 dort im Bauer ein Hanfkorn aufknackt, — — falls du übrigens
 Lust hast, mitzukommen, dann bitte …« Er zog die Mütze
 tief in die Stirn, schlüpfte in den leichten Gummimantel und
@@ -403,7 +403,7 @@ zu formen trachtet, haftet für den, der Gefühl dafür besitzt,
 unbedingt stets etwas leichenhaftes an, ob Skulptur oder Gemälde
 oder ein Relief. Die Natur als Erzeugerin läßt sich
 nicht ins Handwerk pfuschen, noch niemandem ist es geglückt,
-aus rotem Stoff auch nur einen lebenden armseligen Wurm
+aus totem Stoff auch nur einen lebenden armseligen Wurm
 zu bilden.
 
 Da war besonders das Gipsmodell eines Pferdes, das
@@ -636,7 +636,7 @@ bei Seite und schüttelt leicht den Kopf.
 »Kurz und bündig, aber falsch, mein Alter … Die Lösung
 des ganzen Problems — denn dies ist ein Problem, da
 zahllose seelische Einwirkungen mitsprechen — liegt in der Bewertung
-der letzten Szene in Schütz Atelier. Vergegenwärtige
+der letzten Szene in Schütz’ Atelier. Vergegenwärtige
 dir: Gudden erscheint, um aus dem Versteck die Papiere zu
 holen, die auf keinen Fall in die Hände der Polizei geraten
 sollen. Hinter ihm taucht ein Schatten auf, — es war zu
@@ -728,7 +728,7 @@ beobachtete ich Doktor Gudden, der etwas lendenlahm zu seiner
 Limousine schlich und ebenfalls verduftete. Jetzt stehen
 Kriminalkommissar Derneborg, Weber und drei Offizielle vor dem Atelierhaus
 und beraten. Ich fürchte, es wird hier sehr bald dicke
-Luft geben, Herr Harst … Falls Sie in seinem Koffer eine
+Luft geben, Herr Harst … Falls Sie in Ihrem Koffer eine
 Strickleiter haben, turnen wir am besten zum Fenster hinaus,
 die Vorderfront wird nicht bewacht, der Hofeingang liegt ja
 an der Seite, aber allzulange dürfen wir uns hier nicht mehr
@@ -767,7 +767,7 @@ bald offen, ich trug einen unserer Koffer, wir schlüpften
 hinein, schlossen wieder ab, wanderten über Schutt und Gras
 und Steine auf das große Gebäude mit dem dicken Schornstein
 zu, und gerade dieser Schornstein gab mir zu denken: Es war
-derselbe, den ich vormittags von Webers Fenstern aus gegeben
+derselbe, den ich vormittags von Webers Fenstern aus gesehen
 hatte, und dieses Grundstück hier war die tote Fabrik.
 
 Harst ließ sich Zeit, wir besichtigten die Gebäude, und
@@ -923,7 +923,7 @@ zusammen, warf sich in den nächsten Stuhl und lachte hämisch.
 
 »Die Leute können mir was …!! Ich habe mein Ziel
 erreicht.« Er richtete sich stolz empor und fügte mit theatralischer
-Geste hinzu, während seit Gesicht sich rötete und seine
+Geste hinzu, während sein Gesicht sich rötete und seine
 Augen unheimlich aufglühten. »Ich bin zur Beförderung eingereicht,
 Franziska … Morgen werde ich Kriminalsekretär,
 und in einer Woche werde ich Kriminalkommissar sein, —
@@ -1011,7 +1011,7 @@ als er …«
 
 Immer fließender enthüllte sie das entsetzliche Geheimnis.
 
-»… Mein Mann hat in Bildhauer Schütz Atelier den
+»… Mein Mann hat in Bildhauer Schütz’ Atelier den
 Bart, die Perücke, die Schminken eingeschmuggelt … Mein
 Mann ist auch schuld an dem Unfall im Zirkus. Er hatte
 überall dort Zutritt … Er vertauschte Lanze und Kopf …«
