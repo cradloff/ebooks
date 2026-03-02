@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">7deb6f87-3132-4314-b342-d014ecf9ae8e</entry>
+<entry key="title">Der Kopf der nichts verriet</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">310</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Der Kopf der nichts verriet
+
+Harst schaute mir über die Schulter.
+
+»Du, das ist ein Titel, der an »das blutige Messer auf der Kirchhofsmauer« oder an »Eva, das Kind des Satans« oder sonstige Geschmacklosigkeiten beinahe erinnert. Was dich entschuldigt, ist lediglich die Tatsache, daß der ominöse Titel am treffendsten dem Inhalt unseres damaligen Abenteuers entspricht.  — Entschuldige, ich ziehe mich schon wieder zurück. Einen gottbegnadeten Tintenfisch soll man nicht stören.«
+
+Die Kanarienvögel
+
+Das Frühstück am Morgen nach dieser für Bildhauer Schütz so überaus belastenden und ereignisreichen Nacht wurde von Mr. Hollard und seinem Diener Maurice Scrott in äußerst schweigsamer Stimmung eingenommen. Ich war noch tief empört über die große Injurie, und Harst war noch tiefer in die Lektüre der Morgenzeitungen versunken, so daß auch ich schließlich nach so einer bedruckten Skandalfahne griff und in diesem »Zehn Uhr-Blatt« einiges aufstöberte, das mein Interesse sofort wachrief.
+
+— »Die beiden Amateurdetektive, von denen schon gestern die Rede war, haben sich offenbar absichtlich einer polizeilichen Vernehmung entzogen, dürften jedoch sehr bald in Berlin aufgestöbert werden, da ihr Flug nach München …« — und so weiter.
+
+Hm, das klang nicht schön.
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (310) Der Kopf der nichts verriet.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1931</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
