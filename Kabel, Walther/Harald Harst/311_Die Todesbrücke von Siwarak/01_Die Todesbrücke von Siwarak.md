@@ -53,10 +53,10 @@ noch nie niemals gesehen, den muß man mindestens die
 Braut gestohlen haben, mindestens …! n’ Verlobungsring
 hat er, und an dem Ring dreht er immer herum und is
 so schwach auf die Beine, daß ich ihm im Flur ’n Sessel
-hingeschoben habe … sein Sie nur recht freundlich zu
+hingeschoben habe … Sein Sie nur recht freundlich zu
 dem Ärmsten … Ich versteh mir auf Gesichter, das is
 n anständiger Kerl … — — soll ich das Buch vom Komposthaufen
-wieder reinholen?! Unsere Hühner sind ja ganz veränstigt
+wieder reinholen?! Unsere Hühner sind ja ganz verängstigt
 …«
 
 »Kein Wunder!«, sagte Harst bissig. »Schmeißen
@@ -86,7 +86,7 @@ mit der etwa ein Kokainschnupfer nach langer Fastenzeit
 den weißen »Koks« wieder einmal in die Nase einsaugen
 kann.
 
-Inzwischen hatte ich mir aus Grund gewisser Kleinigkeiten
+Inzwischen hatte ich mir auf Grund gewisser Kleinigkeiten
 in seinem Benehmen und Äußeren bereits ein ungefähres
 Bild seiner Persönlichkeit zusammengestellt. — Wahrscheinlich
 hatten wir es mit einem stellungslosen kaufmännischen
@@ -99,7 +99,7 @@ die Handelshochschule besucht, war Waise, stammte aus
 gut bürgerlicher Familie und war seit dem ersten Mai
 ohne Stellung.
 
-All das erzählte er ohne scheu.
+All das erzählte er ohne Scheu.
 
 Als Harst dann jedoch in ihn drang, uns auch sein
 Anliegen vorzutragen, wurde er wieder sehr nervös und
@@ -111,11 +111,11 @@ Harst schleppte liebenswürdigst das probateste
 Heilmittel für alle schüchternen Klienten, eine Flasche
 Portwein und die nötigen Gläser herbei, indem er gutmütig
 scherzend meinte: »Ich glaube, Herr Lessing, Sie sind
-gar nicht imstande, den Wert oder den Unwert letzten
+gar nicht imstande, den Wert oder den Unwert Ihrer letzten
 Erlebnisse richtig  abzuschätzen. Ihre ganze seelische
 Verfassung verschiebt Ihnen das wahre Gesicht der Dinge
 zu einem gelinden Chaos, in dem Sie geistig blind umhertaumeln.
-Trinken Sie nur, — sehr Wohl, — und bitte gleich das
+Trinken Sie nur, — Ihr Wohl, — und bitte gleich das
 ganze Glas! Alter Portwein besitzt Vorzüge, die die
 einer Kampferspritze weit übertreffen. — — So ists
 gut … Und nun warten Sie ein paar Minuten, versuchen
@@ -127,7 +127,7 @@ ich sehe schon, ich bin da auf der richtigen Fährte.
 Vor uns können Sie ohne jede scheu sprechen, unsere
 Ohren haben schon mehr Beichten entgegen genommen,
 als man vergessen kann, — trotzdem vergessen wir ganz
-prompt alles, was nicht, für die Öffentlichkeit bestimmt
+prompt alles, was nicht für die Öffentlichkeit bestimmt
 ist …«
 
 Lessings gehetzter Blick wurde stätiger und lebendiger:
@@ -141,7 +141,7 @@ und da ich sie über alles liebe, geht mir ihr Entschluß
 sehr nahe.«
 
 Alte Erfahrung hat uns seit Jahren dahin belehrt,
-dass man Leute, die unter einer seelischen Depression
+daß man Leute, die unter einer seelischen Depression
 stehen, am besten möglichst wenig durch eingestreute
 Fragen unterbricht. Sie tauen von selbst mit der Zeit
 vollständig auf und verhalten sich hierin ganz anders
@@ -185,7 +185,7 @@ Veränderung Renates verantwortlich gemacht werden könne.
 
 »… Trotz alledem« — lasse ich Herbert Lessing
 nun wieder selber das Wort — »habe ich das unbestimmte
-Gefühl, daß es zumindest die Balivar-Gesellschaft mit
+Gefühl, daß es zumindest die Baliwar-Gesellschaft mit
 ihrem großzügigen Geschäftsbetrieb und ihrem bunten
 Gemisch von Angestellten sein muß, die in kurzer Zeit
 aus Renate ein vollständig anderes Wesen irgendwie
@@ -194,7 +194,7 @@ mag unschön und verfehlt klingen, und doch trifft er
 wirklich das Richtige in diesem Falle. Ein Mädchen
 wie Renate, gediegen, zurückhaltend, ohne Putzsucht
 bisher, wird in kurzem vollständig verwandelt. Das
-kann nicht ohne fremden Einfluss geschehen sein. Ich
+kann nicht ohne fremden Einfluß geschehen sein. Ich
 will gewiß keinerlei Verdacht äußern, — wie sollte
 ich auch, aber — — hier stimmt irgend etwas nicht,
 und deshalb hat mich auch die Sorge um Renate zu Ihnen
@@ -208,7 +208,7 @@ Gründe, den Namen umzumodeln.
 Als Lessing den Namen jener ausländischen Firma,
 bei der Renate nun vierhundert Mark Gehalt bezog, zum
 ersten Male nannte, hatte ich gemerkt, daß Harst ganz
-wenig die Wundwinkel herabzog und Lessing einen schnellen,
+wenig die Mundwinkel herabzog und Lessing einen schnellen,
 scharfen Blick zuwarf. Und als unser blonder, sympathischer
 Klient den Prokurist Alphonso Tessaro erwähnte, hatte
 Harst sogar mit einem Ruck den Kopf gehoben, dann jedoch
@@ -217,11 +217,11 @@ Zuhörer angenommen.
 
 Er sagte nun — ebenfalls recht uninteressiert
 tuend: »Lieber Herr Lessing, ich fürchte, daß Ihr Argwohn
-grundlos ist, Bedenken Sie, daß ein junges Mädchen
+grundlos ist. Bedenken Sie, daß ein junges Mädchen
 in einer Umgebung, in der das Geld keine Rolle spielt,
 und das scheint doch bei der Baliwar-Gesellschaft der
 Fall zu sein, notwendig bei nicht genügender Charakterfestigkeit
-sehr leicht abgleitet, Sie sagten vorhin, Ihre Braut
+sehr leicht abgleitet. Sie sagten vorhin, Ihre Braut
 bekäme jede Überstunde mit zehn Mark bezahlt, und wöchentlich
 gäbe es mindestens zehn Überstunden, sehr viel, sehr
 viel ist das, — sogar viel Verführung.«
@@ -262,7 +262,7 @@ Verdacht hege. Anderseits kann ich Sie aber auch beruhigen:
 Sie werden Renate zurückerobern! Es handelt sich hier
 nur darum, ob Sie gewillt sind, mir blindlings zu gehorchen.
 Wollen Sie dies, so wird, so hoffe ich, alles gut enden.
-— Weiter Fragen sind nicht gestattet, Herr Lessing.
+— Weitere Fragen sind nicht gestattet, Herr Lessing.
 Also …!«
 
 Der junge Mann drückte Harst ohne Zögern die Hand.
@@ -323,7 +323,7 @@ Mr. Edward Staaps war ein schlanker, schwarzhaariger
 Herr mit dichten schwarzen Augenbrauen, Monokel, fabelhaft
 angezogen und noch fabelhafter das Deutsche beherrschend.
 Das Monokel im rechten Auge diente wohl nur dazu, das
-Augenlid zu heben. M. Staaps litt beiderseits an Lidmuskelschwäche,
+Augenlid zu heben. Mr. Staaps litt beiderseits an Lidmuskelschwäche,
 und sein linkes Auge war zumeist bis zu einer schmalen
 Spalte geschlossen. Staaps sah daher etwas verschlafen
 und überblasiert aus.
@@ -343,17 +343,17 @@ und es nach unserem Geschmack abgeändert zu haben.
 
 Ich tippte sehr flott, und ich war mit Herz und
 Seele bei der Sache, denn das, was ich auf diese Weise
-erfuhr, gab den Fall »Renate« erst das wahre Gesicht.
+erfuhr, gab dem Fall »Renate« erst das wahre Gesicht.
 
 »The London Recorder, London, Strand 222. — Bisherige
 Feststellungen. — 1. Baliwar-Gesellschaft wurde am
 1\. Januar eröffnet, hat Geschäftsräume im ersten Stock
-Mauerstraße 121, rein balivarisches Unternehmen, Angestellte
-bisher achtzig, davon dreißig Balivarier, zehn männliche
+Mauerstraße 121, rein baliwarisches Unternehmen, Angestellte
+bisher achtzig, davon dreißig Baliwarier, zehn männliche
 Deutsche, vierzig deutsche weibliche Kräfte, Generaldirektor
 ist Amadeo Valparo, allmächtiger Prokurist Alphonso
 Tessaro. — Die Firma exportiert hauptsächlich chemische
-Artikel, ist durchaus einwandfrei, geniest allerbesten
+Artikel, ist durchaus einwandfrei, genießt allerbesten
 Ruf. — 2. Erberto Effigo (das sollte Lessing sein)
 war Buchhalter bei der chemischen Fabrik Berolina,
 die mit der Baliwar-Gesellschaft engste geschäftliche
@@ -364,7 +364,7 @@ Doktor war zweifellos sehr schwer enttäuscht von ihrem
 Horchposten verschwunden) auf Betreiben Tessaros entlassen
 wurde und sehr schlechte Zeugnisse erhielt. Seine Leistungen
 dürften auch durch die Liebe zu Enala (Renate) ungünstig
-beeinflusst worden sein. 3. Die Baliwar-Gesellschaft
+beeinflußt worden sein. 3. Die Baliwar-Gesellschaft
 hat seit Dezember bereits nach geeigneten Angestellten
 im Großformat annonciert. Der Zudrang war ungeheuer,
 Tessaro suchte die ihm passend Erscheinenden heraus,
@@ -479,8 +479,8 @@ daß eine der letzten »geistsprühenden« Kriminalparodien
 den Rauschgiftschmuggel behandelte, daher der Titel
 »Damen, die im Dunkeln lächeln«.
 
-Harst hatte erklärt, seine »Mobilmachung« sei
-Grund dieses Schmarrens erfolgt. Also ’wirklich Rauschgifthandel?!
+Harst hatte erklärt, seine »Mobilmachung« sei auf
+Grund dieses Schmarrens erfolgt. Also wirklich Rauschgifthandel?!
 — Hierfür sprach ja auch, daß die Berolina-Werke den
 netten blonden Herbert so prompt auf Tessaros Wunsch
 entlassen hatten. Die Berolina konnte also nicht ganz
@@ -569,7 +569,7 @@ Hand und erreichte die Eingangstür von Nr. 143 — Lessings
 Haus — gerade noch zur rechten Zeit. Von drinnen wurde
 geöffnet, das Nachtlicht im Flur war nicht eingeschaltet
 worden, und ich bemerkte zwei Gestalten, von denen
-die eine soeben die Tür aufschloss, drängte mich schnell
+die eine soeben die Tür aufschloß, drängte mich schnell
 hinein und schob beide Männer mehr in den Schatten.
 
 Lessing war sehr erregt. »Ah — — Sie sind es …
@@ -584,7 +584,7 @@ Rolle übernehmen … Lassen Sie mich nur hinaus …«
 
 »Bitte …«
 
-Trotz der Dunkelheit erkannte ich, dass der Mann
+Trotz der Dunkelheit erkannte ich, daß der Mann
 Herbert Lessing etwas ähnlich sah.
 
 Ich hielt den allzu eilfertigen Herbert, der mit
@@ -592,7 +592,7 @@ derlei Dingen denn doch noch allzuwenig vertraut war,
 am Ärmel fest. »Lassen Sie den Herrn nur machen, mein
 Lieber … Passen Sie auf, was geschieht.« Ich wußte
 selbst nicht, was sich ereignen würde, und die Vorgänge
-drau0en  auf der Straße nahmen denn auch einen ziemlich
+draußen  auf der Straße nahmen denn auch einen ziemlich
 überraschenden Verlauf.
 
 Der Beauftragte Harsts schloß die Haustür hinter
@@ -604,7 +604,7 @@ Lessings tadellos nachahmte.
 
 Plötzlich leuchtete von rechts einer der Scheinwerfer
 des Lieferautos auf, die Straße nach den Stadtbahnanlagen
-wurde für Sekunden taghell …und der Scheinwerfer erlosch
+wurde für Sekunden taghell, und der Scheinwerfer erlosch
 wieder. Gleich darauf  kam von links eine große dunkle
 Limousine die Straße hinab, — Lessings Doppelgänger
 ging noch immer auf der Bordschwelle entlang, die Tür
@@ -621,7 +621,7 @@ Die drei Farbigen sprangen ab, besichtigten den Schaden,
 ihr ganzes Benehmen zeigte ärgste Bestürzung, und dazu
 hatten sie auch allen Grund, denn als jetzt eine Schupostreife
 zu Rad herbeikam und die Hinterräder beleuchtete, waren
-von den großen Gummireisen nur noch Fetzen vorhanden.
+von den großen Gummireifen nur noch Fetzen vorhanden.
 — Lessing — ich konnte es ihm nicht verdenken — bestürmte
 mich mit allerlei Fragen, auf die ich ihm wirklich
 nicht antworten konnte. Dann zog ich ihn mit mir auf
@@ -678,7 +678,7 @@ Mauer folgte und drüben noch auf einem der Zinkkästen
 stand, sah ich vom Vorderflur her einen Menschen über
 den Hof von Nr. 143, den wir soeben verlassen hatten,
 vorsichtig auf die Tür des Gartenhauses zuschleichen
-— einen farbigen, der dann im Treppenflur verschwand.
+— einen Farbigen, der dann im Treppenflur verschwand.
 
 »Warten Sie!«, raunte ich Lessing zu.
 
@@ -759,7 +759,7 @@ argwöhnischen Augen. Ich kannte sie. Viele kannten
 sie, denn vor dem Kriege hatte hier ein hochgeborener
 Herr seine Liebste einquartiert gehabt, während er
 selbst in der Nebenvilla wohnte. Beide Villen lagen
-auf einer Anhöhe, und ein Gerücht wollte wissen, dass
+auf einer Anhöhe, und ein Gerücht wollte wissen, daß
 der hohe Herr zwischen den Häusern einen verdeckten
 Gang habe anlegen lassen. Mir war auch bekannt, daß
 die Villen seit langem leer gestanden hatten, daß an
@@ -786,7 +786,7 @@ Ich hatte andere Sorgen. Ich dachte an Lessings
 Doppelgänger, diesen waghalsigen Menschen, der sich
 so furchtlos in ein Abenteuer gestürzt hatte, dessen
 Ende gar nicht abzusehen war. Die Baliwarier mußten
-doch sehr bald erkannt haben, dass sie den falschen
+doch sehr bald erkannt haben, daß sie den falschen
 erwischt hatten, und daß sie sich durch diesen Anschlag
 übel in die Nesseln gesetzt hatten. Was würden sie
 tun, die Geschichte wieder einzurenken, die doch unbedingt
@@ -831,7 +831,7 @@ der Mann und fügte noch brummiger das Losungswort hinzu:
 
 Die schwere Maschine sauste davon, der Fahrer,
 der einen sanft gerundeten Buckel besaß und stark nach
-Spiritiosen duftete, legte ein Höllentempo vor, und
+Spirituosen duftete, legte ein Höllentempo vor, und
 sehr bald sah ich das Schlußlicht des Autos wieder
 vor uns, der Brummige stoppte etwas, und die Jagd ging
 bis zum oberen Ende der Bismarcksallee, wo urplötzlich
@@ -887,7 +887,7 @@ in Halbweltlokalen so abstoßend wirkt. Alles spielte
 sich in größter Harmlosigkeit ab, die Kellner waren
 tadellos geschult, der Geschäftsführer glich einem
 englischen Lord, die Musik war dezent, — und trotzdem
-ahnte ich mit sicherem Instinkt, dass diese Bar irgendwie
+ahnte ich mit sicherem Instinkt, daß diese Bar irgendwie
 mit zu dem noch unklaren verbrecherischen Wirkungskreis
 der Baliwar-Gesellschaft gehörte. Harst hätte es sonst
 nie so eilig gehabt, dieses Lokal noch kurz vor Toresschluß
@@ -906,7 +906,7 @@ ihrer Unterhaltung auf. Die neuen Verlobungsringe der
 beiden und die an sich zunächst belanglose Tatsache,
 daß der Bräutigam ein Deutscher war und trotz der blonden
 Tolle sehr unruhige Rattenaugen hatte, hätten mir das
-Brautpaar kaum bemerkenswert, gemacht, aber die erlauschten
+Brautpaar kaum bemerkenswert gemacht, aber die erlauschten
 Gesprächsfetzen »Hochzeit … Abreise nach Baliwar …
 Umgruppierung des Personals« vernahm ich nun auch von
 links aus der Nachbarlaube, und weil dort ein Baliwarier
@@ -923,7 +923,7 @@ Hochzeit und den Wechsel des Wohnsitzes und die lange
 Seereise äußerte, worauf der halbfarbige Bräutigam
 mit einer Flut von blendenden, verlockenden Verheißungen
 über das wunderbare Leben inmitten der tropischen Hauptstadt
-Balivar diese Einwendung zu zerstreuen suchte, stieg
+Baliwar diese Einwendung zu zerstreuen suchte, stieg
 so jäh ein ganz bestimmter Verdacht in mir auf, daß
 ich Mr. Staaps, der mir soeben das Büchschen hinreichte,
 wie ein Gespenst anstierte. Erst seine ungeduldige
@@ -1088,7 +1088,7 @@ etwas ängstlich entgegen, er war eben an derartige
 »Geschäfte« noch nicht gewöhnt, und als der stämmige
 Herr Beck vom Argus nun loslegte, nachdem er Kognak
 und Zigarre verarztet hatte, wurden Lessings brave
-Augen immer langstielieger.
+Augen immer langstieliger.
 
 »Also, Herr Harst … Punkt 1. —« Beck sprach sehr
 knapp und sehr überlegt. »Kramer, der Herrn Lessing
@@ -1109,7 +1109,7 @@ fuhren davon. Ich folgte auf Ihr Signal hin vom oberen
 Ende der Bismarckallee, die Kerle warfen Herrn Lessings
 Gepäck in den Grunewaldsee — wir haben alles schon
 wieder herausgefischt —, Kramer ließen sie im Walde
-frei und drohten ihm mit dem Code, falls er etwas verriete,
+frei und drohten ihm mit dem Tode, falls er etwas verriete,
 und gaben ihm noch dreihundert Mark Schweigegeld. Na,
 der Kollege hat es verdient. Etwas gefährlich war die
 Geschichte immerhin. Das Auto fuhr nach der Humboldt-Straße
@@ -1138,8 +1138,8 @@ Zimmern verhaftet. Nur bei Staaps wurden im Koffer
 größere Mengen Rauschgifte gefunden, Puderzucker …«
 Beck grinste fidel. »Natürlich gab es bei der Frau
 Doktor Burkley deshalb ein Riesenlamento, und Sennor
-Alphonso Tessaro war einer der lautesten. — — Nr.3.
-Zur Zeit große Beratung der Hauptmacher der Balivar-Bande
+Alphonso Tessaro war einer der lautesten. — — Nr. 3.
+Zur Zeit große Beratung der Hauptmacher der Baliwar-Bande
 beim Generaldirektor. Im übrigen bei der Firma selbst
 der übliche harmlose Geschäftsbetrieb. — Das wäre alles.
 Bitte um weitere Befehle, Herr Harst.«
@@ -1188,7 +1188,7 @@ habe.
 Winkler drückte auch Lessing sehr herzlich die
 Hand.
 
-»Sie haben den Stein ins Rollen gebracht. Herr
+»Sie haben den Stein ins Rollen gebracht, Herr
 Lessing … Die Baliwar-Bande wird in wenigen Wochen
 auffliegen. Rauschgifthandel, noch dazu Verführung
 der Angestellten zu Kokaingenuß, damit ein Teil der
@@ -1237,7 +1237,7 @@ kriminellen Neuerscheinungen, ich habe da letztens
 auch ein paar Kriminalromane gelesen, die sich mit
 dem Mädchenhandel beschäftigen. Die Naivität der Verfasser
 verblüfft mich. Die Herren stellen die Dinge so dar,
-als ob die Mädchenhändler noch heute mit den abgegrissenen
+als ob die Mädchenhändler noch heute mit den abgegriffenen
 Mitteln von einst arbeiten, das heißt: Export von Mädchen
 nach Südamerika, dem Hauptabsatzgebiet, als Gouvernanten,
 Tänzerinnen, Schauspielerinnen und so weiter. Mit derlei
@@ -1279,9 +1279,9 @@ nach Baliwar verschleppen, daß die weiblichen Angestellten,
 durch Geld, Kokain und Luxus seelisch genügend zermürbt,
 die »Schlepper« der Gesellschaft heiraten, es sind
 die männlichen Mitglieder der auch reelle Geschäfte
-tätigenden Balivar-Gesellschaft. Man heiratet hier,
+tätigenden Baliwar-Gesellschaft. Man heiratet hier,
 man wird als Ehepaar zunächst nach der Filiale Paris
-versetzt, von da zum Stammhaus in der Hauptstadt Balivar,
+versetzt, von da zum Stammhaus in der Hauptstadt Baliwar,
 wo die Scheidung wegen Formfehlers oder sonstwie von
 den »Gatten« erreicht wird, und das Opfer dann mitleidlos,
 seelisch gebrochen, seelisch verdorben reif für das
@@ -1300,7 +1300,7 @@ ohne »Komplexe«, ohne Wehgeschrei der hastigen Menschenfreunde,
 die jedem Mörder und Gauner auf einer Havelinsel eine
 Villa bauen möchten. — Und Sie, Herr Winkler, ziehen
 nun bitte eins in Erwägung: Die Beweise, die wir bisher
-gegen die Balivar-Bande zusammengetragen haben, sind
+gegen die Baliwar-Bande zusammengetragen haben, sind
 niemals ausreichend, die Organisation, deren Direktoren
 allerbesten Ruf genießen, zu sprengen. Der Generaldirektor
 Valparo ist Duzfreund des Gesandten von Baliwar, verkehrt
@@ -1319,7 +1319,7 @@ uns der Fang, und das darf nicht sein, solche Halunken
 gehören ins Zuchthaus!«
 
 Harsts Züge verrieten, daß er mit diesen menschlichen
-Bestien gründlich abrechnen wolle. Seine geballte Zaust
+Bestien gründlich abrechnen wolle. Seine geballte Faust
 fiel schwer auf die Sessellehne, und seine Augen nahmen
 Winklers kurze zustimmende Geste mit sichtlicher Befriedigung
 hin.

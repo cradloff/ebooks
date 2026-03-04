@@ -46,7 +46,7 @@ Valparos Schweinsäuglein klapperten. »Kokain?
 Wie kommen Sie auf Kokain?!«
 
 »Weil ich es selbst gebrauche — zuweilen stark
-verdünnt, nur zuweilen. Herr Valparo. Ich benutze es
+verdünnt, nur zuweilen, Herr Valparo. Ich benutze es
 nur, wenn mich irgend ein Problem …« — er redete wie
 ein Literatursnob vor dem Mikrofon — »vollkommen geistig
 absorbiert, wie jetzt, und daher meine Psyche gegenüber
@@ -101,7 +101,7 @@ andere Sache befingert.
 erklärte Valparo mit grimmer Miene. »Denken Sie sich,
 da ist doch letztens nachts ein Lastauto des Gutes
 hier in Berlin in dem westlichen Vorort Halensee zu
-schaden gekommen, und ich habe bis heute nicht recht
+Schaden gekommen, und ich habe bis heute nicht recht
 feststellen können, wozu der Gutsverwalter es dorthin
 beordert hatte, — es trug übrigens den Firmentitel
 unserer Großen Gesellschaft, die Polizei hat sich eingemischt,
@@ -145,7 +145,7 @@ Kriminalkommissar a. D. Sydowitz.
 wiederholt vertreten haben … — Ja, heute nachmittag,
 getrennt … Mit dem 5 Uhr-Zug müssen sie abdampfen.«
 
-Da auch Freund Lessing sich inzwischen ein eingefunden
+Da auch Freund Lessing sich inzwischen eingefunden
 hatte, erklärte Harst uns beiden in einem Tone, der
 sehr zu denken gab: »Wer diesen aufgemästeten Halbnigger
 Valparo für dumm hält, ist ein Esel …! Was wollte der
@@ -185,9 +185,9 @@ nichts Eiligeres zu tun, als Freund Lessing in die
 Veranda zu schieben, bevor er seine verflossene Braut
 bemerkte. Die Eile, mit der ich ihn aus unseren Vorderräumen
 verbannte, hätte ihn stutzig machen müssen, er war
-jedoch zu wenig gewitzigt, meine ausfallende Hast irgendwie
+jedoch zu wenig gewitzigt, meine auffallende Hast irgendwie
 anders zu deuten, und die Erklärung, Harst und ich
-hätte Kriegsrat zu halten, genügte ihm vollkommen.
+hätten Kriegsrat zu halten, genügte ihm vollkommen.
 Ich öffnete die Haustür, bevor Renate noch läuten konnte,
 und schob sie schnell in Harsts Zimmer, da mir auf
 der Straße eine zweite Taxe höchst verdächtig vorkam,
@@ -258,9 +258,9 @@ ein. Er erwähnte nichts von dem erst noch zu beweisenden
 Verdacht des Mädchenhandels, er warnte nur vor Tessaro,
 vor fernerem Kokaingenuß, und als Renate eine halbe
 Stunde später aufbrach, hatte er ihr noch ein Tropffläschchen
-übergeben. »Sie haben hier e:n Mittel, sich von dem
+übergeben. »Sie haben hier ein Mittel, sich von dem
 Gift frei zu machen … Benutzen Sie die Tropfen genau
-nach Vorschrift. — Sie sind nun unsere Verbündete,…
+nach Vorschrift. — Sie sind nun unsere Verbündete …
 seien Sie vorsichtig, horchen Sie wo sie können, —
 es sind Verbrecher, diese Leute, und unser Sieg über
 diese Bande ist auch der Sieg für Ihre Liebe … Gehen
@@ -277,7 +277,7 @@ war harmlos. Immerhin werde ich die Straße einmal entlanggehen.«
 
 Renate und ich standen hinter den dichten Vorhängen
 und beobachteten Harst. Nach rechts die Straße hinab
-stand eine Autotaxe, — dort blieb Harst stehen machte
+stand eine Autotaxe, — dort blieb Harst stehen, machte
 wieder kehrt und entließ Renate nun endgültig. Das
 Mädel war vollkommen verwandelt. Im Flur mahnte Harst
 noch halb scherzend: »Vergessen Sie nicht, daß Sie
@@ -294,6 +294,8 @@ Sie huschte hinaus.
 
 Ich aber fragte den leicht schmunzelnden Harst:
 
+»Wer war der Mann in der Taxe?«
+
 »Renates Schatten«, — und weiter erfuhr ich nichts.
 
 Renates Schatten?! — — Ich hatte Stoff zum Nachdenken.
@@ -308,7 +310,7 @@ und Gestalten, aus denen sich schon öfters wir beide
 nach getaner Arbeit herausgeschält hatten. Sie kannten
 ihre Aufgabe, die beiden, und als kurz nach vier Harst
 und Schraut samt Koffern nach Swinemünde sich in Marsch
-setzten, hatten sich, auf der Straße noch zwei Nichtstuer
+setzten, hatten sich auf der Straße noch zwei Nichtstuer
 eingefunden, die die Abfahrt der Herren Beauftragten
 des Sennor Valparo genau beobachteten, — einer der
 Spione war der Kerl mit den Rattenaugen aus der Elite-Bar.
@@ -344,7 +346,7 @@ die richtige Adresse: In einer Ecke saßen zwei Gentlemen
 und knobelten, grinsten uns vergnügt an, wir nahmen
 Platz, und Harst trug sein Anliegen vor.
 
-"... Ich habe hier neun Namen und neun Adressen. Ich
+»… Ich habe hier neun Namen und neun Adressen. Ich
 vermute, daß jeder dieser neun in seinem möblierten
 Zimmer — es sind alles Junggesellen — gewisse Papiere
 verborgen hat, die ich photographiert haben möchte.
@@ -357,7 +359,7 @@ dieser Verträge zahle ich fünfhundert Mark. — Entscheidet
 euch also. Ich bemerke noch, daß, falls ihr dabei geklappt
 werden solltet, ihr nichts verraten dürft und daß ihr
 straffrei ausgehen werdet, wofür ich mich verbürge,
-nur dürft ihr nichts stehlen — — nichts!"
+nur dürft ihr nichts stehlen — — nichts!«
 
 Der »kesse Emil« und der »laue Stint« überlegten
 nicht lange. Als Anzahlung erhielt jeder dreihundert
@@ -368,7 +370,7 @@ Der Maurer und der Gärtner blieben noch sitzen,
 der Klippfisch setzte sich zu uns, und Harst begann
 diesen Alleswisser vorsichtig auszuhorchen, wobei er
 von der sehr berechtigten Annahme ausging, daß das
-unklare Treiben der Boliwar-Gesellschaft auch hier
+unklare Treiben der Baliwar-Gesellschaft auch hier
 bereits Gesprächsthema gewesen. Hatten doch »kesser
 Emil« und »lauer Stint« sich sehr merkwürdig angeschaut,
 als Harst die Baliwar erwähnte.
@@ -379,8 +381,7 @@ Ein solider Händedruck, dem ein Hundertmarkschein beilag,
 öffnete ihm Hirn und Mund. »Tja, — — die Baliwar, meine
 Herren … Natürlich wird viel darüber gequasselt, zumal
 »Murmeltier« und »glatter Leo« dort feine Anstellung
-gefunden haben, — Fledderer waren sie früher, pfui-
-Teufel!«
+gefunden haben, — Fledderer waren sie früher, pfui Teufel!«
 
 Klippfisch spuckte diskret unter den Tisch — aus
 Verachtung. Klippfisch war einst Knacker gewesen, also
@@ -415,7 +416,7 @@ schaute Klippfisch nachdenklich an. Dann fragte er
 schnell: »Ist diese Privatbahn dort in Siwarak noch
 in Betrieb?«
 
-»Und ob — und ob! Wer— zum Gute will, muß über
+»Und ob — und ob! Wer zum Gute will, muß über
 die Brücke, und …«
 
 Harst sprang auf. »Hier, Klippfisch, noch fünfzig
@@ -443,7 +444,7 @@ Sender, bedient von einer Frau. — Vorsichtig beobachten.
 
 Die Telegramme gingen ab, und da erst war Harst
 beruhigt. Draußen auf der Straße sagte er zu mir: »Nun
-weißt du, weshalb, Valparo zu uns kam. Valparo ahnt,
+weißt du, weshalb Valparo zu uns kam. Valparo ahnt,
 daß wir hinter ihm her sind. Wir sollten ein bißchen
 verunglücken … Holzbrücken können plötzlich einstürzen,
 und wenn unter der Brücke ein Steinbruch von vierzig
@@ -474,7 +475,7 @@ chiffriert abgeschickt:
 > »Gefahr. — Den Gutsverwalter Gostallo, einen großen,
 breitschultrigen Mann mit dunkler Hautfarbe und starken
 Negerlippen und sehr großen Ohren, lassen Sie
-nicht aus den Augen und wenden sie nötigenfalls Gewalt
+nicht aus den Augen und wenden Sie nötigenfalls Gewalt
 an, fesseln ihn und melden Polizei in Wollin, daß Gostallo
 Rauschgifthändler sei. Sofort auch telephonische Nachricht
 an uns. Ganz rücksichtslos vorgehen. — Renate.«
@@ -496,7 +497,7 @@ Es war inzwischen nach acht Uhr geworden, ein
 schwüler, warmer Abend drohte  bei dicht bewölktem
 Himmel mit Gewitterregen, wir schlenderten zu Fuß die
 Humboldtstraße entlang, die Lautsprecherpest meldete
-sich bei offenen Fenstern, und die, ohnedies genügend
+sich bei offenen Fenstern, und die ohnedies genügend
 geplagten Nerven der Großstädter wurden ungebührlich
 gereizt durch Fetzen von Musik, die mit schrillen Tenören
 um die Wette den Äther verseuchten: Berlin sendet irgend
@@ -509,7 +510,7 @@ in Sicht, daneben die ehemals prinzliche Villa, jetzt
 das Heim eines Verbrechers, der nach außen hin den
 soliden Hausherrn spielte. Wie lange würde die Herrlichkeit
 noch dauern?! — Harst schwenkte in die rechte Querstraße
-ein, wo an der Ecke ein besonders grobes Villengrundstück
+ein, wo an der Ecke ein besonders großes Villengrundstück
 lag. Das Haus lag weit zurück hinter großen Buxbaumhecken,
 — es war übrigens derselbe Garten, hinter dessen Zaun
 Harst damals in den Sträuchern mit dem Motorrad sich
@@ -631,11 +632,11 @@ der hinter unserem Grundstück dahinläuft, und als wir
 endlich — die Dunkelheit brach bereits an — unseren
 Hof betraten und unser Hühnervolk noch immer sich vor
 dem geschlossenen Stall gackernd umhertrieb, da begriff
-ich, das Harsts steinerne Miene einer grenzenlosen
+ich, daß Harsts steinerne Miene einer grenzenlosen
 Angst um das Wohlergehen seiner Mutter zuzuschreiben
 war. — »Die Hühner!!«, sagte er dumpf … »Vorsicht …!!
 Halte die Pistole bereit. Mathilde würde die Hühner
-längst …«, er verstummte, er hatte die Hintertür aufgeklinkt,
+längst …«, — er verstummte, er hatte die Hintertür aufgeklinkt,
 wir hörten ein tiefes Stöhnen, Harst riß die Tür vollends
 auf …
 
@@ -694,7 +695,7 @@ genug, übergenug, und wir fangen sie uns schon wieder.«
 »Wer ist Renates Schatten?«, drängte ich.
 
 Harst blieb stumm. — Nach fünf Minuten gingen
-wir wieder hinauf, und der Gentleman, der so fliesend
+wir wieder hinauf, und der Gentleman, der so fließend
 englisch sprach, winselte uns eine lange Geschichte
 vor, — — sie wären aus Not Einbrecher geworden … und
 so weiter.
@@ -721,7 +722,7 @@ Subjekt …«
 
 Das Telephongespräch endete mit einigen neuen
 Vereinbarungen, die darauf abzielten, den Hauptmachern
-der Balivar noch etwas Atempause zu gönnen.
+der Baliwar noch etwas Atempause zu gönnen.
 
 Gleich darauf kam ein Ferngespräch mit Swinemünde.
 Es meldete sich einer von Winklers beiden Leuten, die
@@ -737,7 +738,7 @@ Harst legte den Hörer sehr langsam auf die Gabel.
 Valparo hat unseren Trick mit dem Personentausch durchschaut
 … Das kann ganz lustig werden. Den Schlaf wollen wir
 uns besser verkneifen. Dieser Valparo wird jetzt aufs
-Ganze gehen, wenn seine drei von dem »Schatten« zusammengehauenen’
+Ganze gehen, wenn seine drei von dem »Schatten« zusammengehauenen
 Galgenvögel Bericht erstattet haben.«
 
 Die meisten Voraussagen Harsts treffen zu. Diese
@@ -758,7 +759,7 @@ und auch der nächste und übernächste Tag verstrichen
 in einer trügerischen Waffenruhe und so ereignislos,
 daß sogar Winkler, der stramme Beck und Harst nervös
 wurden, von mir schon ganz zu schweigen. Es geschah
-nichts,gar nichts, und die Baliwar- Herren benahmen
+nichts, gar nichts, und die Baliwar-Herren benahmen
 sich so, als ob ihr Gewissen ein frisches Schneefeld
 sei — so rein — und so kühl. Sogar die Nachrichten
 aus Siwarak meldeten lediglich, daß Herr »Ministerialrat
@@ -773,7 +774,7 @@ auch von Renate hörten wir nichts.
 
 Dann kam der jähe Umschwung.
 
-Am dritten Tage mittags ein halb’ ein Uhr rief
+Am dritten Tage mittags ein halb ein Uhr rief
 Renate uns an. »… Ich muß Sie sprechen, Herr Harst,
 aber wir müssen die Zusammenkunst sehr vorsichtig verabreden
 … Ich werde seit Tagen dauernd beobachtet, und Tessaro
@@ -855,7 +856,7 @@ lieb sei. Das begreife ich nicht …«
 
 »Ich — ja«, meldete sich Harst ohne Wichtigtuerei
 … »Beantworten Sie mir eine Frage, Fräulein Renate
-… Bei der Balivar war doch ein Expedient Guido Gullberg
+… Bei der Baliwar war doch ein Expedient Guido Gullberg
 angestellt, der für Sie lebhaftes, aber höfliches Interesse
 zeigte. Ist dieser Gullberg plötzlich entlassen worden?«
 
@@ -884,7 +885,7 @@ Harst hartnäckig geschwiegen: Weshalb er dem Herrn
 Siwarak recht fleißig zu angeln.
 
 Bei uns zu Hause telephonierte Harst dann sehr
-lange mit einem hoben Marineoffizier. Leider schickte
+lange mit einem hohen Marineoffizier. Leider schickte
 er mich hinaus, als das Gespräch interessant zu werden
 begann. Der Offizier schien über den kleinen Privathafen
 des Gutes Siwarak einigermaßen Bescheid zu wissen und
@@ -905,7 +906,7 @@ Die Baliwarier hatten mit ihrem Sommerfest entschieden
 Glück. Ein prächtiger Frühsommerabend war es, als wir
 beide, jetzt biedere Rucksacktouristen, auf dem Bahnhof
 Misdroy anlangten, den Zug verließen und ganz so taten,
-als wüssten wir hier nicht recht Bescheid, obwohl wir
+als wüßten wir hier nicht recht Bescheid, obwohl wir
 doch bereits fast zwei Tage uns in anderer Maske in
 dieser Gegend herumgedrückt hatten.
 
@@ -944,7 +945,7 @@ auskneifen, das stimmt! Doch nicht mit einem Dampfer
 oder einer windschnellen Luxusjacht … — Hallo, das
 Telephon …«
 
-Stübel hatte den Hörer schon in der-Hand.
+Stübel hatte den Hörer schon in der Hand.
 
 »Ja — — hier Renate … — Hm, das ist merkwürdig.
 — Ja, Herr Harst ist hier, Herr Inspektor … — bitte,
@@ -965,7 +966,7 @@ mittleren Wagen werden von den männlichen Angestellten
 gefüllt. Was halten Sie davon?! Ich wittere irgend
 einen Schurkenstreich. Untersuchen Sie und Schraut
 doch nochmals die lange Holzbrücke über den Steinbruch
-… — Schluß … Wiedersehen …"
+… — Schluß … Wiedersehen …«
 
 Wir beide brachen eiligst auf, schlichen am Südrand
 des Steinbruchs dahin, der nach zweihundert Metern
@@ -1071,7 +1072,7 @@ sich von Lessing für immer verabschiedete. Er schrieb:
 »Ich heiße nicht Gullberg, meinen Namen und den meiner
 Freunde wird niemand erfahren. Valparo und sein Gesindel
 haben meine Schwester in den Tod getrieben, ich habe
-mich gerächt, ich selbst habe die Brücke gesprengt,meine
+mich gerächt, ich selbst habe die Brücke gesprengt, meine
 Freunde koppelten die sechs letzten Wagen los. Die
 Verträge, die Valparo mit seinen gemeinen Kreaturen
 abschloß, habe ich Lessing übergeben. Diese Verträge
@@ -1114,7 +1115,7 @@ Guido Gullberg, denn Harst hatte mir hinterher eingestanden,
 daß die großaufgemachten ersten Annoncen der  Baliwar-Gesellschaft,
 in denen weibliche Büroangestellte möglichst ohne Anhang
 gesucht wurden, ihm von einem Unbekannten zugeschickt
-worden waren, und daß er nur so auf die Balivar aufmerksam
+worden waren, und daß er nur so auf die Baliwar aufmerksam
 wurde.
 
 Herr Maurice van Reijermans dürfte dieser Einsender
