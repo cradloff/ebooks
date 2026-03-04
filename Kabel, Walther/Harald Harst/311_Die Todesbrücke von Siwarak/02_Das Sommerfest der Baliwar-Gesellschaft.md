@@ -776,7 +776,7 @@ Dann kam der jähe Umschwung.
 
 Am dritten Tage mittags ein halb ein Uhr rief
 Renate uns an. »… Ich muß Sie sprechen, Herr Harst,
-aber wir müssen die Zusammenkunst sehr vorsichtig verabreden
+aber wir müssen die Zusammenkunft sehr vorsichtig verabreden
 … Ich werde seit Tagen dauernd beobachtet, und Tessaro
 hat als Verehrer jegliches Feuer eingebüßt … Kein Wunder!
 Ich konnte mich nicht genügend verstellen.«
