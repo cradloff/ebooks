@@ -56,7 +56,7 @@ Chef hervorkollerte.
 
 Bis Claire Balland ihm heute ausnahmsweise den kecken
 Rat erteilte, er solle doch die Polizei rufen und den Bettler
-entfernen lassen. «
+entfernen lassen.
 
 Herr Kahn bekam Stielaugen. »Polizei?! Lassen Sie mich
 mit der Polizei in Ruhe!!«
@@ -98,16 +98,16 @@ der Kassiererin auch nur die geringste Sympathie entgegen.
 »Sie … sind übergeschnappt, Balland!«, hauchte Mannequin
 Isolde mit einer Geste, die aus irgend einem Film stammte.
 
-»Bitte — — F r ä u l e i n Balland«, sagte Claire sehr
-von oben herab, — Auch das konnte sie.
+»Bitte — — *Fräulein* Balland«, sagte Claire sehr
+von oben herab. — Auch das konnte sie.
 
 Isolde, die mit Armen und Beinen bisher umsonst nach
 Herrn S. Kahn geangelt hatte, da der schöne Sigi eben Schönheit
 und nicht schminke, Puder und gefärbte Haare verlangte,
 rief im Jargon östlicherer Viertel:
 
-»Puste dich blos nich so uff, du Zuchthäuslerstochter,
-du …! Heute fliegst de raus — — achtkantig!
+»Puste dich bloß nich so uff, du Zuchthäuslerstochter,
+du …! Heute fliegst de raus — — achtkantig!«
 
 Claires Mienen verrieten nur den ungeheueren Ekel,
 den sie über die bewußte Gemeinheit der lieben Kollegin
@@ -178,7 +178,7 @@ schließlich hervor:
 eigentlich?! Ich bin …«
 
 »Menschenskind«, grinste der Fahrer gemütlich, »mache
-doch keene Zicken, du …!, Ich war ja zusammen mit dir in
+doch keene Zicken, du …! Ick war ja zusammen mit dir in
 Hastenberg, Flügel 4, — — ich verrate dich nich …«
 
 S. Kahn war wie ein leerer Sack in eine Polsterecke
@@ -302,7 +302,7 @@ mit allen Einzelheiten vor.
 Schon dies machte mich stutzig. Wie kam er plötzlich
 wieder auf den Rieseneinbruch?!
 
-»… Man muß bedenken«, erklärte er unter anderem, »dass
+»… Man muß bedenken«, erklärte er unter anderem, »daß
 die Beute der Einbrecher zweifellos weit größer gewesen
 ist, als die Bank und deren Kunden es je zugegeben haben.
 Ich schätze auf vierzig Millionen, und ich schätze vorsichtig.
@@ -320,10 +320,10 @@ sorgfältig den Rücken gedeckt hatte.«
 Er blieb stehen und zog eine zerknitterte Zeitung aus
 der Tasche.
 
-»Bitte, lies dies ……Ein Bericht aus dem Juli dieses
+»Bitte, lies dies … Ein Bericht aus dem Juli dieses
 Jahres …«
 
-»Ich las … Es handelte sich um den Prozess gegen den
+Ich las … Es handelte sich um den Prozeß gegen den
 Pförtner jenes Nebenhauses, das die Einbrecher mit benutzt
 hatten. — Der Hauswart Friedrich Balland, verheiratet, vier
 Kinder, 45 Jahre alt, war angeklagt, den drei Studenten,
@@ -539,14 +539,14 @@ in Wörrishofen viele mit kaltem Wasser geheilt …« Ein allerliebstes
 Lächeln zauberte zwei Grübchen auf ihre Wangen. »Ich werde
 die Kur an mir fortsetzen, Herr Harst … Ich danke Ihnen.«
 
-3\. Kapitel,
+<h2>3. Kapitel.</h2>
 
-Die drei Ereignisse.
+<h3>Die drei Ereignisse.</h3>
 
 Harst setzte sich wieder und reichte mir ein Büchlein
 hin, auf dessen Pappschildchen verblaßt zu lesen war:
 
-<p class='centered'>Leo Penz,</p>
+<p class='centered em'>Leo Penz,</p>
 
 <p class='centered'>Aufzeichnungen über meine Ersparnisse.</p>
 
@@ -594,7 +594,7 @@ die Ereignisse als Ganzes, die nach dem Bankraub an die
 Er war damals fünfundzwanzig Jahre alt. Zwei Monate nach
 seinem »Abschiedsbrief« an seine Mutter, der übrigens durchaus
 auch anders zu deuten ist, denn er spricht nur von »Umständen,
-die ihn, Penz, zwingen, mit diesem Leben ein Ende zu machen«,
+die ihn, Penz, zwingen, *mit diesem Leben ein Ende zu machen*«,
 zog man eine Leiche aus der Havel, die Frau Amalie als die
 ihres Sohnes wiedererkannte — zuerst, — nachher kamen ihr
 doch wieder Zweifel, immerhin wurde »Leo Penz« beerdigt,
@@ -662,11 +662,11 @@ abgesehen davon, daß es überhaupt keinen Zufall gibt. Ursache
 und Wirkung sind bei jedem »Zufall« nachzuweisen. — Du kennst
 mich. Wenn erst einmal ein solches Rätsel ungelöst vor mir
 liegt, wenn ich also wirklich Feuer gefangen habe, bemächtigt
-sich meiner eine gewisse Besessenheit: Ich muß handeln!
+sich meiner eine gewisse Besessenheit: Ich *muß* handeln!
 — Und ich handele. Ich begann mit dem ersten »Fall« »Leo
 Penz«, — Langweile ich dich?!«
 
-» Mache keine Witze, — Weiter!!«
+»Mache keine Witze, — Weiter!!«
 
 »Ich suchte Frau Amalie Penz auf, natürlich zunächst
 nicht als »Harst«, gewann ihr Vertrauen, sie zeigte mir
@@ -771,7 +771,7 @@ Jetzt rauchte er. Und nach den ersten Zügen sagte er
 genau so geistesabwesend wie bisher:
 
 »Hans Reimann ist mit Sigismund Kahn identisch … —
-Wie ich das herausbrachte? — Frau Grau sah nicht, dass ich
+Wie ich das herausbrachte? — Frau Grau sah nicht, daß ich
 etwas aus einem der Koffer stahl, ein Gruppenbild, Großformat:
 Die drei so eng befreundeten Studenten! — Da Friedrich Balland
 mir mitgeteilt hatte, wo seine Tochter Claire in Stellung
@@ -795,7 +795,7 @@ eingeliefert worden war: Ein Jahr Gefängnis! Nachher war
 aus Sierowsky — Ausweispapiere sind billig zu haben — wieder
 Sigismund Kahn geworden, der in Köln recht feudal lebte,
 spekulierte, verdiente und schließlich »Blusen-Kahn« in
-Berlin wurde.
+Berlin wurde.«
 
 Harst zwinkerte mir zu. »Du weißt ja, mein Alter, wie
 wir heute ganz einwandfrei festgestellt haben, daß S. Kahn
@@ -887,7 +887,7 @@ besinne mich genau, daß mein Bruder damals sehr zerstreut,
 fast verstört war, und daß er halb geistesabwesend ein paar
 Bemerkungen einstreute, die wir nicht recht verstanden …
 Er sagte da irgend etwas, daß man sehr vorsichtig sein müßte
-…«, — — Sie zögerte auffällig — »und das Mutter und ich
+…«, — Sie zögerte auffällig — »und das Mutter und ich
 auf keinen Fall darüber sprechen sollten, daß er als grüner
 Vampir das Fest besucht habe … Übrigens hatte er ja noch
 ein zweites Kostüm bereit, und vor der Maskierung wird er
@@ -931,7 +931,7 @@ viel zu elegante Wohnung …«
 
 Ich mußte mich zusammennehmen, um meine Überraschung
 nicht zu verraten, — Reimann eine elegante Wohnung?! Der
-arme Reimann«?!
+arme Reimann?!
 
 »Und wo wohnte er, — erwähnte Ihr Bruder auch dies?«,
 tastete ich vorsichtig weiter.
@@ -1022,10 +1022,10 @@ Augen durch meine Brille die Villa mit dem dunklen Dach
 von Glasurziegeln flüchtig noch mustere, träufelt es mir
 vom oberen Balkon naß auf den Kopf, und eine heisere Stimme
 meldet sich gleichzeitig in unliebenswürdigster Gereiztheit:
-Wann soll man denn eigentlich seine Blumen begießen, Herr
+»Wann soll man denn eigentlich seine Blumen begießen, Herr
 Nachbar?!«
 
-Nachbar?! Der Mann droben läßt seinen Worten eine Dusche
+… Nachbar?! Der Mann droben läßt seinen Worten eine Dusche
 folgen, die mich eilends zurückscheucht, und — noch seltsamer
 — meine Zigarre ist ebenso jäh davongeflogen, und ein zweites,
 sehr eigenartiges Geräusch treibt mich vollends ins Zimmer
@@ -1039,7 +1039,7 @@ mir gegen die Hauswand platschte. Beide Kugeln hörte ich
 surren, — es war das bekannte, kurze, sausende »Pfitt« eines
 Langbleigeschosses …
 
-»Und die andere Frage, nicht minder wichtig, wenn auch
+Und die andere Frage, nicht minder wichtig, wenn auch
 vorläufig noch Vermutung, die in mir aufgestiegen infolge
 jenes verfeinerten Instinkts, der so mit den Jahren sich
 ausbildet: Hing die Dusche des Herrn Nachbars von droben
@@ -1056,7 +1056,7 @@ Gedanken hasten, zagen, überholen sich wie die Pferde
 auf der Bahn … Und wie schließlich das Feld der galoppierenden
 Vollblüter sich immer mehr auseinanderzieht und schließlich
 nur das eine, der Sieger, als erster durchs Ziel geht, genau
-so bei mir: Ein Gedanke überholt die anderen, — meine Hand
+so bei mir: *Ein* Gedanke überholt die anderen, — meine Hand
 greift nach dem Telephonhörer …
 
 »Bitte Uhland 9786 …«
@@ -1107,7 +1107,7 @@ dem Handtuch Haar und Bart und stieg eine Treppe höher.
 An der Tür des Zimmers mit Flureingang hing eine geschriebene
 Karte:
 
-<p class='centered'>R. A. Müller.</p>
+<p class='centered em'>R. A. Müller.</p>
 
 <p class='centered'>Reklamezeichner.</p>
 
@@ -1117,7 +1117,7 @@ fingerbreit, und eine finstere, unfreundliche Stimme fragte:
 
 Den Mann selbst sah ich nicht.
 
-»Aber anderes sah ich. Ein Waschtisch mit Spiegel stand
+Aber anderes sah ich. Ein Waschtisch mit Spiegel stand
 schräg von der Wand ab, und der Spiegel mußte dem R. A.
 Müller die schmale Türritze zeigen und den, der dahinter
 im Flur stand, — Ein sehr vorsichtiger Herr …
@@ -1217,7 +1217,7 @@ es dreizehn … Und die dreizehn ist eine Kugel … — Raus!!«
 Es schoß davon wie ein Wiesel, er rannte im Flur gegen
 eine Zweizentnerdame, die in schwarzer Seide sehr unmodern
 eingezwängt war, sie taumelte gegen die Wand, wollte brüllen
-…, ich winkte, bat, ließ alle Register meiner mäßigen Liebenswürdigkeit
+…, — ich winkte, bat, ließ alle Register meiner mäßigen Liebenswürdigkeit
 spielen und Frau Ignazia Srowatka, Wirtin des Herrn Müller,
 sank keuchend auf den Stuhl, den Herr Grau soeben verlassen
 hatte, rang die Hände (ich ahnte gleich, daß sie einmal
@@ -1275,7 +1275,7 @@ herjagt?!«
 In der Pariser Straße lehnte an einem Laternenpfahl
 ein Pfeifvirtuose, der mit Ausdauer den Gassenhauer-Jazz
 in die Nacht schmetterte: »Was kann der Sigismund dafür,
-das er so schön ist,… Was …« und so weiter …
+das er so schön ist, … Was …« und so weiter …
 
 Harst stoppte, der Pfeifkünstler stoppte, hatte im
 Nu mit Harst Chauffeursmantel und -mütze gewechselt, und
@@ -1284,7 +1284,7 @@ wir beide schlenderten zu Fuß weiter … —
 Die »Pariser«-Villa sollte uns den Fall »Vierzig Millionen«
 keineswegs klären.
 
-Der Mann, der den Vampir liebt.
+<h1>Der Mann, der den Vampir liebt.</h1>
 
 <h2>1. Kapitel.</h2>
 
@@ -1402,7 +1402,7 @@ der nach draußen führte, und Harst erklärte mir kurz: »Stromstörung,
 mein Alter … Dieses Viertel wird sehr bald ohne elektrisches
 Licht sein …«
 
-»Nach vier Minuten trat ein Mann ein, in dem ich den
+Nach vier Minuten trat ein Mann ein, in dem ich den
 Pfeifkünstler von vorhin erkannte.
 
 »Alles dunkel in der Villa«, meldete er. »Die Wärterin
@@ -1492,7 +1492,7 @@ Student des Maschinenbaufaches Arthur Bolzinski, der sicherlich
 auch für den Einbruch die nötigen modernsten Schweißapparate
 damals beschafft hatte.«
 
-Dräge wischte sich den Schweiß von der Stirn, obwohl
+Bräge wischte sich den Schweiß von der Stirn, obwohl
 es hier im Keller unangenehm kühl war. »Verdammt!!«, murmelte
 er … »Verdammt!!«
 
@@ -1539,7 +1539,7 @@ Sogar die Schuhe bestanden aus vierfacher Stoffschicht und
 glichen riesigen Pantoffeln, waren aber mit den Schäften
 über die Hosen gelegt und mit Bindfaden umschnürt.
 
-»Haben Sie aber Glück gehabt!«, kicherte diese unförmige
+»… Haben Sie aber Glück gehabt!«, kicherte diese unförmige
 Masse abermals … »Wo hier doch alles mit 220 Volt geladen
 ist — — zweihundert … zwanzig, meine Herren …! Mein Freund
 hat mich dergestalt gegen Einbrecher geschützt, denn — lachen
@@ -1549,7 +1549,7 @@ der Engel mit dem feurigen Schwerte vor dem Paradiese, —
 Einbrecher wie Sie den Frieden meiner Eremitage stören wollen
 …«
 
-Der Mensch war in der Tat übergeschnappt!« lautete
+»Der Mensch war in der Tat übergeschnappt!« lautete
 mein stummes Urteil, und etwas wie Mitleid fühlte ich für
 diesen Ärmsten, der vielleicht ein Gefangener des großen
 Bankräubers war.
@@ -1603,7 +1603,7 @@ zur Besinnung gekommen waren.
 
 Der Mann saß jetzt am Tisch, rauchte und schrieb. Unter
 dem Rande der Steppdecke hervor konnten wir ihn genau beobachten.
-Ich wurde mir nun auch darüber klar, dass dieses unterirdische
+Ich wurde mir nun auch darüber klar, daß dieses unterirdische
 Gemach einst ein Treibhaus gewesen, das man abgetragen,
 oben mit Balken bedeckt und Erde darüber geschüttet hatte.
 Der Raum war kaum zwei Meter hoch, das Gebälk der Decke
@@ -1637,7 +1637,7 @@ lieber Bolzinski … Damit Sie Licht hätten, und damit der
 Strom jeden tötet, der Sie belästigen wollte …«
 
 Der Mann drehte sich halb und zeigte uns sein bärtiges,
-totenbleiches Gesicht mit den eingefallenen Augen. Er lachte
+totenbleiches Gesicht mit den eingefallenen Augen. — Er lachte
 leise …
 
 »Eva, Sie versprechen mir immer viel zu viel … Immer!
@@ -1646,8 +1646,8 @@ die Paradiesäpfel eigentlich schon reif? Und dann reden
 Sie vom Akkumulatoren … Weshalb haben Sie sie nicht eingeschaltet
 …?! Dieses Petroleumlicht beleidigt mein Schönheitsgefühl.
 Wozu habe ich denn die elektrische Schreibtischlampe …?!
-— Oh, Sie haben mir so vieles versprochen …« Unendlich kindlich-vorwurfsvoll
-klang das.
+— Oh, Sie haben mir so vieles versprochen …«
+Unendlich kindlich-vorwurfsvoll klang das.
 
 »Drehen Sie am Schalter — sie brennt«, erwiderte das
 Weib mit der Kapuze freundlich.
@@ -1669,7 +1669,7 @@ ins Leere, »Wenn ich mich nur darauf besänne … Ich gebe
 mir ja solche Mühe — — solche Mühe!!«
 
 »Gute Nacht«, — die Frau war schnell durch die Tür
-geschlüpst, die Tür fiel zu, und der Kranke seufzte und
+geschlüpft, die Tür fiel zu, und der Kranke seufzte und
 rief klagend: »Eva, ich wollte doch Paradiesäpfel haben
 … oder kalifornische Äpfel mit blutroten Wangen … Ich selbst
 bin so bleich …«
@@ -1688,9 +1688,8 @@ gleichgültig! — mir dieses Versteck hergerichtet …«
 Harst stand vor ihm. Bräge und ich flüsterten miteinander.
 »Schraut, — wir können nicht zurück ins Freie … Die Akkumulatoren!«
 
-»Ja — es ging mir wie ein Schlag durch den Körper’,
-nickte ich wenig begeistert. »Der elektrische Strom wird
-…«
+»Ja — es ging mir wie ein Schlag durch den Körper«,
+nickte ich wenig begeistert. »Der elektrische Strom wird …«
 
 Harsts Stimme ließ mich schweigen.
 
@@ -1708,7 +1707,7 @@ es niemals!!«
 fragte Harst, jedes Wort betonend.
 
 Der Irre schnellte empor und wich bis an die Wand zurück.
-»Oh — — ihr … ihr Teufel!«, kreischte er … Aber von mir
+»Oh — — ihr … ihr Teufel!«, kreischte er … »Aber von mir
 ist nichts zu holen … nichts … Ich habe das Versteck vergessen
 …« Die letzten Sätze sprach er tieftraurig. »Ver … gessen«,
 flüsterte er nochmals. »Alles … vergessen … alles … Arthur
@@ -1726,26 +1725,19 @@ sagte er stolz. »Darf ich es Ihnen vorlesen …? Eva hat dafür
 leider gar kein Verständnis …«
 
 Er stellte sich wie ein Schmierenkomödiant hin, der
-Don Carlos mimt und deklamierte mit lächerlichen Gesten
-…:
+Don Carlos mimt und deklamierte mit lächerlichen Gesten …:
 
-<p class='centered'>Der grüne Vampir flog zum Maskenball,</p>
-
-<p class='centered'>Der süße Vampir war jeher mein Fall,</p>
-
-<p class='centered'>Ich selbst, ein grüner Vampir kam zu spät,</p>
-
-<p class='centered'>Der Tänzer ward dahingemäht,</p>
-
-<p class='centered'>Mein süßer Vampir liebt die weiße Maus,</p>
-
-<p class='centered'>Was dann noch kam, war Schmach und Graus …</p>
-
-<p class='centered'>Aus … Aus … Aus …</p>
+<p class="indent pre">Der grüne Vampir flog zum Maskenball,
+Der süße Vampir war jeher mein Fall,
+Ich selbst, ein grüner Vampir kam zu spät,
+Der Tänzer ward dahingemäht,
+Mein süßer Vampir liebt die weiße Maus,
+Was dann noch kam, war Schmach und Graus …
+Aus … Aus … Aus …</p>
 
 Er schluchzte bitterlich, nachdem er diesen Unsinn
 vorgetragen hatte. — War es wirklich Unsinn?! Hatten wir
-nicht wirklich zwei grüne Fledermauskostüme festgestellt,
+nicht wirklich *zwei* grüne Fledermauskostüme festgestellt,
 und konnte nicht mit dem »Tänzer« der arme Kommissar Wittrich
 gemeint sein? Hatte Bolzinski diesen Mord verhüten wollen,
 den ein Weib verübt hatte?
@@ -1772,7 +1764,7 @@ fest. »Es gilt für uns drei … sind Sie zufrieden?«
 
 Bräge wollte sich einmischen.
 
-»Lassen Sie das!’«, meinte Harst schroff. »Ich weiß,
+»Lassen Sie das!«, meinte Harst schroff. »Ich weiß,
 was ich tue …«
 
 <h2>3. Kapitel.</h2>
@@ -1831,7 +1823,7 @@ Gitterstäbe als Ganzes sich herausheben ließen.
 Wir sahen vor uns im Gebüsch ein paar Müllkästen und
 einen kleinen Stall.
 
-»Am Stall vorbei auf den Wohnhausgiebel dort — — kriechen!’,
+»Am Stall vorbei auf den Wohnhausgiebel dort — — kriechen!«,
 befahl Harst sehr kurz angebunden.
 
 Wir drei lagen nun dicht an der Hauswand des einen
@@ -1853,7 +1845,7 @@ haben Herrn S. Kahn gründlich eingekreist. Der Häuserblock
 ist umstellt, wir haben Behelfstelephone bereit, und soeben
 meldete Ihr Beck, Herr Harst, daß unser Vampir hier in die
 Villa geschlüpft ist. Ich will es nur notieren: Elf Uhr
-fünfundfünfzig Minuten, — Na, und eure Erlebnisse?
+fünfundfünfzig Minuten, — Na, und eure Erlebnisse?«
 
 Wir setzten uns an den kleinen Tisch, Bräge erstattete
 Bericht, und als er dann fertig war, wandte sich Matz sofort
@@ -1989,7 +1981,7 @@ Matz war aufgesprungen …
 
 »Dann ist Leo Penz der »Verrückte?«
 
-»Ja«, sagte Harst leise. »Leo Penz … wer sonst?!’
+»Ja«, sagte Harst leise. »Leo Penz … wer sonst?!«
 
 <h2>4. Kapitel.</h2>
 
@@ -2015,13 +2007,13 @@ Backfisch, aber eitel, putzsüchtig, frech, in allen Tanzdielen
 zu treffen, vom Vater wiederholt übel verhauen, der dieses
 Lotterleben nicht dulden wollte.«
 
-»Sie sind gut informiert, Herr Direktor …« Nur den
+»Sie sind gut informiert, Herr Direktor … Nur den
 seelischen Verführer Claires kennen Sie nicht: Reimann!
 — Der fing die Sache sehr schlau an, wie alles, was er tat,
 — der steckte Claire Geld zu, ging mit ihr aus, gewöhnte
 sie an Luxus und rauschende Vergnügungen … Dabei hielt er
 sich als »armer Student« im Hause stets von ihr fern, und
-so allmählich wurde sie sein gefügiges Werkzeug, nie seine
+so allmählich wurde sie sein gefügiges Werkzeug, *nie* seine
 Geliebte jedoch … sie muß von dem Einbruchsplan Kenntnis
 gehabt haben, sie mag es gewesen sein, die die Münzensammlung
 in der Portierloge verbarg, sie war verderbt, voller Haß
@@ -2033,7 +2025,7 @@ untereinander geteilt, doch der Millionensegen war verschwunden,
 den hatte Leo Penz … in Verwahrung genommen, zu seinem Unheil,
 denn drei Jahre lebt er nun als Gefangener, spielt den Verrückten,
 tut so, als hielte er sich für Arthur Bolzinski. Und dann
-kehrte S. Kahn nach Berlin zurück, wurde der Blusen-Kahn,
+kehrte *S. Kahn* nach Berlin zurück, wurde der Blusen-Kahn,
 der Nachfolger einer reellen Firma, Claire Balland wurde
 Kassiererin, aber die einstige Freundschaft zwischen den
 beiden hatte Schiffbruch gelitten, Claire war nicht mehr
@@ -2044,10 +2036,10 @@ das Herbeirufen der Polizei spielte … Wie sehr Reimann sich
 fürchtet, zeigte er, als er hinterher ihr die Blumen brachte
 und Isolde Penz entließ.«
 
-»… Roman aus der Konfektion:«, murmelte Bräge, der
+»… Roman aus der Konfektion!«, murmelte Bräge, der
 von dem ganzen Thema genau so gefesselt war wie wir anderen.
 
-Harst wehrte ab, »Sagen Sie: Roman aus dem Leben. —
+Harst wehrte ab. »Sagen Sie: Roman aus dem Leben! —
 das trifft eher zu. Ich wünschte, wir hätten Zeit, all die
 rein psychologischen Momente dieses Kriminalfalles gründlichst
 zu erörtern, es würde sich schon lohnen.«
@@ -2064,7 +2056,7 @@ und …«
 »Nein … Eine Kleinigkeit reserviere ich mir stets zum
 Nachtisch … — Was geschehen soll? Hören Sie zu … Es mag
 zwischen S. Kahn und Claire Balland noch ein gewisses, das
-Mädchen belastendes Abhängigkeitsverhältniss geben. Auch
+Mädchen belastendes Abhängigkeitsverhältnis geben. Auch
 dieser letzte Rest von Unkraut muß vernichtet werden … Ich
 schlage vor, Sie leiten die endgültige Kur ein …«
 
@@ -2085,7 +2077,7 @@ Wieder hockte neben dem Eingang von S. Kahn der Bettler
 mit den künstlichen Schlangen, wieder erregte sich der heute
 sehr nervöse S. Kahn über den zerlumpten Kerl, zumal Claire
 Balland noch morgens angerufen hatte, sie sei krank und
-fiebere stark. ’
+fiebere stark.
 
 S. Kahn rannte wie ein Löwe im Zwinger hinter dem Verkaufstisch
 hin und her. Er hatte allen Grund, so bleich und übernächtigt
@@ -2158,7 +2150,7 @@ wie so oft, er winkte dem Manne mit etwas verzerrtem Lächeln
 zu, neben dem Schreibtisch Platz zu nehmen. — »Wie heißt
 du nun eigentlich, Kollege?!«
 
-Auch darauf war ich vorbereitet. »Mensch, ik bin doch
+Auch darauf war ich vorbereitet. »Mensch, ick bin doch
 der rote Rudolf, Rudolf Wilke, du …« Und das war kein erfundener
 Name. Reimann hatte tatsächlich eine Woche lang den roten
 Rudolf zum Zellengenossen gehabt.
@@ -2177,7 +2169,7 @@ tausend Mark …«
 
 Der bärtige, schmierige Chauffeur feixte den feinen
 Reimann überlegen an. »Hm — — mit dir in ’n Tierjarten?!
-Da mus ick mir ja erst ’n Stahlhelm besorjen du … du vastehst.
+Da muß ick mir ja erst ’n Stahlhelm besorjen du … du vastehst.
 Da wäre ick nich ’ne Sekunde meines Lebens sicher, und …«
 
 »Narr!«, zischte der blasse S. Kahn ihn an. »Narr!!
@@ -2192,7 +2184,7 @@ doch mal, — — du bist meine letzte Rettung … Hier, hier
 gebe ich dir ein paar Blusen in Kartons mit, damit du eine
 Ausrede hast …«
 
-»Na gut, — — also um zehn … Nimmst de’ deine Claire
+»Na gut, — — also um zehn … Nimmst de deine Claire
 mit?!« — Auch mir behagte diese Rolle sehr wenig, ich empfand
 genau denselben Widerwillen wie S. Kahn, nur das mein Ekel
 anderen Quellen entsprang.
@@ -2243,7 +2235,7 @@ hatte.
 
 Grüner Vampir!!
 
-Ja, _- — er kannte den grünen Vampir, der ihm Blut
+Ja, — — er kannte den grünen Vampir, der ihm Blut
 und Hirn vergiftet hatte … Und dennoch war er unlöslich
 mit diesem verbitterten Ungeheuer verbunden. Der Vampir
 war seine letzte Zuflucht …
@@ -2363,13 +2355,13 @@ Fräulein Ginz, daß ich die Kiste unter Ihrem Lehnstuhl öffne.«
 Er bückte sich … Henriette Ginz flog mit heiserem Schrei
 empor und lief schnellfüßig in die äußerste Zimmerecke.
 
-»Das ist Eva«, sagte Harst feindselig. »Das ist übrigens
+»Das ist *Eva*«, sagte Harst feindselig. »Das ist übrigens
 auch dieselbe Henriette Ginz, die ein langes Vorstrafenregister
 als Diebin, Hehlerin und Betrügerin hat … Reimann war bei
 ihr kaum in die richtige Pflege geraten, und bei der Beurteilung
 seines Charakters wird man dies berücksichtigen müssen …«
 
-Reimann nickte unmerklich. »Sie war … mein Vampir …!«,
+Reimann nickte unmerklich. »Sie war … *mein* Vampir …!«,
 erklärte er tonlos. »Sie verleitete mich zuerst zu Diebereien
 … — Wohl dem, dem ein richtiges Elternhaus beschieden ist,
 — ich habe meine Eltern nie gekannt …«
@@ -2391,7 +2383,6 @@ Man soll nie mehr als sechs Glas Sekt an einer Hochzeitstafel
 trinken! — Und mit dieser praktischen Lebenserfahrung schließe
 ich den Fall »Vampir« endgültig ab …
 
-Nächster Band:
-
-<p class='centered'>Der Puppenschrank der Lady Goswell.</p>
+<#import "*/harst.ftl" as harst>
+<@harst.naechsterband band="Der Puppenschrank der Lady Goßwell."/>
 
