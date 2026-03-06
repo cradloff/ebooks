@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">e74d0c52-8829-43cb-a818-0934e7d1085c</entry>
+<entry key="title">Der grüne Vampir</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">312</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Der grüne Vampir
+
+Der Ausländer, der Berlin besucht, sieht sich auch die Tauentzienstraße an, die als Zugang zum Kurfürstendamm und zum Zoologischen Garten ebenso berühmt ist wie als Avenue der eleganten Läden.
+
+An einem Maitage, der viel zu heiß war, um für den Juni die gleiche sommerliche Temperatur erhoffen zu können, hockte auf der Lasterseite der Tauentzienstraße neben dem Eingang der Blusenfirma Kahn, stets Blusen-Kahn genannt, ein alter Bettler mit einem Holzbein auf einem kleinen bunten, zerrissenen Bastteppich und reckte sein weißbärtiges Patriarchengesicht mit der verbogenen blauen Brille und den ausdauernd murmelnden Lippen in schiefer Haltung zum Himmel empor, als ob er, der doch die Papptafel »Völlig erblindet« vor der Brust trug, aus dem glasklaren blauen Äther Hilfe und Trost erwartete.
+
+Gerade in dieser Kopfhaltung lag etwas sehr Rührendes, Mitleid Weckendes.
+
+Der Mann, der den Vampir liebt
+
+Wir schritten weiter, bogen rechts in die Querstraße ein, und hier zeigte sich in der Reihe der Mietskasernen eine hohe Mauer, über die einzelne dicke Kastanienäste hinwegragten.  Auf dem Fahrdamm dicht am Bürgersteig stand einer jener bekannten Geräte- und Wohnwagen der Straßenbaufirmen, vier Arbeiter rissen das Pflaster beim grellen Licht einer auf eisernem Dreibein montierten Karbidlaterne auf, Harst schaute sich um, schob mich plötzlich in den Wagen hinein, schlug die Tür zu …
+
+An dem schmalen Klapptisch saßen zwei Herren, deren markante Gesichter die Berliner Unterwelt wenig schätzt: Kriminaldirektor Matz und Kriminalinspektor Bräge, die man stets nur die »Manschbrägen« nannte. Obwohl der Verbrecherjargon mit diesem Spitznamen nur für Kundige eine treffende Bezeichnung gefunden hatte: Manschen gleich Vermanschen, Verpfuschen, und Brägen gleich Hirn, also in übertragener Bedeutung zwei Leute, die durch ihre Klugheit den Gaunern das »Geschäft« verhunzten.
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (312) Der grüne Vampir.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1931</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
