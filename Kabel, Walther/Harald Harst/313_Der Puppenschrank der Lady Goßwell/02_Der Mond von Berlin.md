@@ -89,7 +89,7 @@ einer englischen Zeitung.
 Es handelte sich um einen Artikel über die vor drei
 Jahren erfolgte Übernahme des Lordtitels durch den übel
 beleumundeten Edward Beek, der heute Lord Edward Goßwell
-hieß. Der kurze Artikel, entstammte fraglos einem jener
+hieß. Der kurze Artikel entstammte fraglos einem jener
 Londoner Skandalblättchen, die ihre Leser mit allerlei Klatsch
 aus den obersten Kreisen füttern.
 
@@ -176,7 +176,7 @@ Kritik herausfordern. — Das seine Lordschaft nach wie vor
 ist und jeglichen Verkehr meidet, ist noch das unverfänglichste
 bei alledem: Wir bringen untenstehend nur einige unanfechtbare
 Tatsachen, für die wir zweifelsfreie Beweise bereit halten.
-1\.) In aller stille hat sich Lady Agna Goßwell, die Witwe
+1\.) In aller Stille hat sich Lady Agna Goßwell, die Witwe
 Lord Cecils, und deren einzige Tochter Helen schon vor längerer
 Zeit nicht nur mit Lord Edward völlig ausgesöhnt, sondern
 auch mit ihm insgeheim häufige Zusammenkünfte auf Goßwell-Castle
@@ -199,7 +199,7 @@ wurden (was heute noch zutrifft) bis auf fünfzehn Mann verstärkt,
 und seine Lordschaft verzichtete sogar auf Jagd und Fischerei,
 wurde überhaupt nicht mehr sichtbar und soll sich lediglich
 noch mit wissenschaftlichen Arbeiten beschäftigen. Unseren
-äußerst wissbegierigen A. R.- Reporter gelang es zweimal,
+äußerst wißbegierigen A. R.- Reporter gelang es zweimal,
 trotz der scharfen Bewachung bis zum Schloß vorzudringen
 und seine Lordschaft durch das offene Fenster am Schreibtisch
 zu beobachten. Da es uns inzwischen gelungen ist, eine Fotografie
@@ -397,7 +397,7 @@ wird Sie interessieren … Kommen Sie nur.«
 Dann war ich mit dem geschniegelten Reporter allein.
 Ich ahnte bereits, daß er hier eine ziemlich zweideutige
 Rolle spielte, und die weitere Entwicklung der Dinge gab
-mir recht. Ich wußte außerdem ganz genau, das Ediths Kratzwunde,
+mir recht. Ich wußte außerdem ganz genau, daß Ediths Kratzwunde,
 die noch ganz frisch war, niemals von dem goldenen Schloß
 ihres Täschchens herrühren konnte. Weshalb hatte Harst von
 einer »eigentümlichen« Tasche gesprochen?!
@@ -489,7 +489,7 @@ er nun seine Brieftasche heraus und entnahm ihr einen Briefbogen,
 der genau dieselben Schriftzüge zeigte wie jener Zettel.
 
 »Bitte, — ein Brief Helen Goßwells an Edith Dreibein,
-Herr Schraut. Das der Brief auf nicht ganz einwandfreie
+Herr Schraut. Daß der Brief auf nicht ganz einwandfreie
 Art in meinen Besitz gelangte, gebe ich ohne weiteres zu.«
 
 Er steckte den Brief ein, und ich kam nicht mehr dazu,
@@ -546,7 +546,7 @@ Schritte. Dann fiel irgend ein Gegenstand klirrend zu Boden,
 und Stoups meinte eigentümlich lächelnd: »Das dürfte Porzellan
 gewesen sein … Scherben bringen Glück. Ihr Wohl, Miß Treefoot.«
 Er leerte sein Glas auf einen Zug und fügte hinzu: »Sie
-haben Glück gehabt … Das Messer galt Ihnen, — entschuldigten
+haben Glück gehabt … Das Messer galt Ihnen, — entschuldigen
 Sie schon meine Aufrichtigkeit.« Er stand neben dem Kamin
 und liebäugelte nun so eindeutig mit der Sherryflasche,
 daß ich den Wink sofort verstand. Er nickte mir dankend
@@ -566,7 +566,7 @@ bewußten Zettel, der sich nun in meinem Besitz befand und
 der das Rätselhafte des Falles Goßwell nur noch mehr steigerte.
 
 Wie war dieser Papierfetzen hier nach Berlin gelangt,
-wie kam’s, das ich ihn bei Edith Treefoot wiederfinden mußte?!
+wie kam’s, daß ich ihn bei Edith Treefoot wiederfinden mußte?!
 Gewiß, Abraham Stoups Andeutungen von vorhin waren nun ja
 restlos geklärt. Der Reporter hatte sich offenbar kein Gewissen
 daraus gemacht, Ediths Sachen zu durchsuchen und ihr sogar
@@ -653,14 +653,14 @@ zum Bilde ausprägen können), schaute ich gleichsam einen
 rückwärts gedrehten Film, dessen Buntheit mir erst jetzt
 so recht zum Bewußtsein kam.
 
-Meinen liebem Lesern und Freunden, denen ich immer
+Meinen lieben Lesern und Freunden, denen ich immer
 wieder freundschaftlichst geraten habe, an meinen anspruchslosen
 Erzählungen den eigenen Geist wie an einem milden Schleifstein
 zu schärfen, tun gut, an dieser Stelle dasselbe Verfahren
 anzuwenden und nochmals rückschauend das Problem Helen Goßwell
 zu sezieren. Ob diese Sektion den Kernpunkt des ganzen freilegen
 wird, bleibt allerdings zweifelhaft. Ich gebe ehrlich zu,
-das ich selbst durch diesen rückwärts gedrehten Film, in
+daß ich selbst durch diesen rückwärts gedrehten Film, in
 dem so zahlreiche unklare, unbegreifliche Bilder auftauchten,
 um keinen Deut klüger wurde. — Da war der Orden der Guten
 Winde, da war Mah’s Teestube, da war das Zimmer mit der
@@ -845,9 +845,9 @@ zu, erblickten den unschlüssig auf dem Fahrdamm stehenden
 Bara Singh, und Harst steuerte direkt auf ihn zu, faßte
 an den Mützenrand und sagte höflich:
 
-»Sie gestatten, Lord Goßwell, das ich Ihnen meinen
+»Sie gestatten, Lord Goßwell, daß ich Ihnen meinen
 Freund Schraut vorstelle … Mein Name ist Harst. Wir kennen
-uns ja bereits von Kalkutta her. In Goßwell- Castle spielt
+uns ja bereits von Kalkutta her. In Goßwell-Castle spielt
 jetzt einer Ihrer Leute Ihren Stellvertreter, und Ihren
 eifrigsten Verfolger, der allzu viel Sensationen in Druckerschwärze
 veröffentlichen könnte, habe ich soeben ausgeschaltet.«
@@ -969,7 +969,7 @@ er fand rechtzeitig den richtigen Weg, seinen Sensationshunger
 zu stillen: Er wurde Kriminalbeamter, er liebte seinen Beruf
 leidenschaftlich, hatte stets Erfolg, stieg von Stufe zu
 Stufe, wurde schließlich unter anderem Namen einer der vier
-höchsten Beamten vor Scotland Yard und … ist heute als schlichter
+höchsten Beamten von Scotland Yard und … ist heute als schlichter
 Mr. Smitson Polizeipräsident, übt also auch als Lord seinen
 Beruf noch aus, führte ein Doppelleben … — eine wundervolle
 Romantik, Edith, und ein wunderbarer Mann …«
@@ -992,7 +992,7 @@ ich werde dir ein Liebesgeständnis ablegen, mit dem du zufrieden
 sein wirst …«
 
 »Bravo!«, rief Edith Treefoot begeistert … »Meinen
-Glühwunsch im voraus! Du hast recht, Helen, — — dies ist
+Glückwunsch im voraus! Du hast recht, Helen, — — dies ist
 Romantik, und ich … bin kuriert. — Mr. Harst, Mr. Schraut,
 ich glaube wir sind hier überflüssig … Der Mond von Berlin
 geht unter, — da, die Glasscheibe senkt sich, — — verschwinden

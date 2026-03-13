@@ -5,7 +5,7 @@
 <h3>Im Teehaus »Zu den guten Winden«.</h3>
 
 An einem jener feuchtheißen Abende, die es verständlich
-machen, das die Europäer während der Sommermonate die indische
+machen, daß die Europäer während der Sommermonate die indische
 Hauptstadt Kalkutta in Scharen verlassen und in die Berge
 flüchten, schlurften zwei abgerissene chinesische Kulis,
 sorgsam das Laternenlicht meidend, dem düsteren Hafenviertel
@@ -26,7 +26,7 @@ an den bunten Wänden im Lichte moderner Wandleuchter.
 
 Die beiden Kulis schoben sich unterwürfig durch die
 vollbesetzten Tische hindurch und machten vor dem langen
-Schanktisch und vor den scharfen Augen des alten Mah demütig,
+Schanktisch und vor den scharfen Augen des alten Mah demütig
 halt, verneigten sich dreimal, verneigten sich nochmals,
 zogen die Hände aus den Jackenärmeln, kratzten sich die
 Nasenspitze, tippten sich auf die Stirn und verbeugten sich
@@ -127,7 +127,7 @@ gewisse Dinge zu erhalten, die ihr sehr am Herzen lagen.
 Dieses reiche, überreiche Mädchen mit dem kupferroten
 Haar und dem gesunden, frischen Gesicht bildete seit Jahren
 immer wieder für die Newyorker oberen Dreihundert den Gegenstand
-endloser Debatten. Das Miß Treefoot in England und Deutschland
+endloser Debatten. Daß Miß Treefoot in England und Deutschland
 Chemie, Philosophie und nebenher noch Medizin studiert hatte,
 war nur die allergeringste ihrer extravaganten Neigungen.
 
@@ -200,7 +200,7 @@ Mauer gelehnt, in der Hand noch die kleine Pistole.
 
 Die junge Dame musterte die Inder spöttisch …
 
-»Auch wohl Fremdenführer?! — die Kerle, die mich angriffen,
+»Auch wohl Fremdenführer?! — Die Kerle, die mich angriffen,
 sind über die Mauer entkommen, der eine wird jedoch einen
 Arzt aufsuchen müssen … Eine Kugel im Oberschenkel ist immerhin
 ein unbequemer Fremdkörper.«
@@ -208,7 +208,7 @@ ein unbequemer Fremdkörper.«
 Sie schob die kleine Waffe wieder in die Tasche ihrer
 losen Sportjacke und befahl sehr kurz angebunden: »Verschwindet!
 Es besteht keine Gefahr mehr …! Sagt eurem Auftraggeber,
-das Edith Treefoot sich selbst zu schützen weiß und das
+daß Edith Treefoot sich selbst zu schützen weiß und daß
 er sehr unklug handelte, als er Helen Goßwell kaum zu kennen
 vorgab.«
 
@@ -242,7 +242,7 @@ stieß, die auch die Macht des Goldes nicht beseitigen konnte.
 
 Eine sehr schweigsame Edith setzte sich dann wieder
 neben Bara Singh nieder, der überaus gemessen sich erkundigte,
-ob die Gasse draußen wirklich so viel sehenswertes böte.
+ob die Gasse draußen wirklich so viel Sehenswertes böte.
 
 Edith blickte ihn kampflustig an …
 
@@ -283,7 +283,7 @@ Raume, durch den sich eine mehr als daumendicke Glasscheibe
 hindurchzog, die fast bis zur Decke reichte. Hinter dieser
 Glaswand saß auf einer schillernden Ottomane eine ganz junge
 Chinesin mit untergeschlagenen Beinen, hatte die Hände auf
-die Knie gestürzt und zeigte ihr geschminktes Gesicht mit
+die Knie gestützt und zeigte ihr geschminktes Gesicht mit
 den starkhervortretenden  Backenknochen ohne jede Scheu
 im grellen Lichte mehrerer kostbarer Wandleuchter.
 
@@ -324,7 +324,7 @@ sehr zwanglos in dem kleinen glasgeteilten Gemache um. Er
 hielt auch mir sein Zigarettenetui hin, und erst nach einigen
 Zügen erklärte er mit behutsamer Wahl der Worte:
 
-»Es geschieht zum ersten Male, das ich im Auftrage
+»Es geschieht zum ersten Male, daß ich im Auftrage
 einer chinesischen Geheimgesellschaft sozusagen gegen die
 Polizei arbeite.«
 
@@ -374,7 +374,7 @@ von halb  unsichtbaren, dauernd wechselnden Aufpassern umgeben.
 
 Die »Sonne« plapperte jetzt mit schriller Stimme neuerlich
 hervor: »Es haben sich Anhaltspunkte dafür ergeben, daß
-die Kriminalpolizei noch eifriger geworden ist und das außerdem
+die Kriminalpolizei noch eifriger geworden ist und daß außerdem
 Miß Helens beste Freundin Edith Treefoot, eine sehr reiche
 Amerikanerin, die zur Zeit in Kalkutta weilt, gleichfalls
 nach Helen Goßwell sucht. Ein Beweis dafür ist, daß sie
@@ -469,7 +469,7 @@ Ich wußte Bescheid.
 
 Es war ein Chinese.
 
-So ganz schlecht war Spionagedienst der guten Winde
+So ganz schlecht war der Spionagedienst der guten Winde
 doch nicht.
 
 <h2>3. Kapitel.</h2>
@@ -642,7 +642,7 @@ Das junge Mädchen atmete plötzlich sehr hastig, sie
 beugte sich weit vor, zögerte noch, trat dann an den Tisch
 heran und nahm etwas unschlüssig Platz.
 
-»Woher … wissen Sie, das man mich beraubt hat?«, fragte
+»Woher … wissen Sie, daß man mich beraubt hat?«, fragte
 sie äußerst erregt. »Mit wem habe ich es überhaupt zu tun?!
 Sie beide sind doch niemals harmlose Touristen. Ich habe
 genug von Ihrer Unterhaltung im Speisesaal mit angehört,
@@ -752,7 +752,7 @@ Herr Harst, dies haben die beiden Pinkerton-Agenten, die
 ich hier seit Monaten bezahle und die hier mit uns im selben
 Hotel wohnen, bereits einwandfrei festgestellt, — — sonst
 nichts, leider … leider, es sei denn, daß dieser Fremdenführer
-Bara Singh, auf den Sie mich aufmerksam machten, wirklich
+Bara Singh, auf den sie mich aufmerksam machten, wirklich
 die zweifelhafte Rolle spielt, die ich nach meinen heutigen
 Erfahrungen ihm sehr wohl zutraue.«
 
@@ -1103,7 +1103,7 @@ blieb jedoch bei seiner Behauptung, Derrick könnte uns fernerhin
 nicht mehr nützen, sondern weit eher schaden. Wir waren
 dann kaum erst in die Gassen des ältesten Teiles Kalkuttas
 eingebogen, als Harst den bewußten Papierschnitzel hervorholte
-und ihm mir mit den Worten reichte: »Sieh dir dies Beweisstück
+und ihn mir mit den Worten reichte: »Sieh dir dies Beweisstück
 zum letzten Male genau an, mein Alter …«
 
 Ich hatte sehr bequem in der Ecke der flinken Limousine
@@ -1119,7 +1119,7 @@ diesem abgerissenen Streifen Papier erhöhte Bedeutung beizumessen.
 Weder Derrick noch ich hatten vorhin im Museum diesen Wortbrocken
 auf dem schmalen Streifen irgendwie Gewicht beigelegt.
 
-Der streifen Papier sah etwa so aus:
+Der Streifen Papier sah etwa so aus:
 
 <p class='pre' style="margin-left: 5em;">durch einer Mutte
 erer Entschluß, dem
@@ -1173,7 +1173,7 @@ halten, — ich erinnere dich aber nur an Ediths Äußerung,
 daß Helen die Welt durch etwas ganz »Besonders« überraschen
 zu können hoffte, und ich gehe wohl kaum fehl mit meiner
 Vermutung, daß diese »Besondere« Enthüllungen über den »Orden
-der gutem Winde« sein sollten. Helen kam jedoch wieder davon
+der guten Winde« sein sollten. Helen kam jedoch wieder davon
 ab, das Ergebnis dieser ihrer Nachforschungen zu veröffentlichen
 und tat den anderen Schritt: Sie zog sich heimlich in ein
 Kloster zurück — — mit Mah’s Hilfe, das heißt mit Hilfe
