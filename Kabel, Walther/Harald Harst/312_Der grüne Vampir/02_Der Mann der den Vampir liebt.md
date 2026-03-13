@@ -146,7 +146,7 @@ glauben also wirklich, Harst, daß hier die Beute verborgen
 liegt?!«, fragte er zweifelnd.
 
 »Habe ich das behauptet?! Keine Rede. Ich habe Matz
-nur gesagt, diese Villa  uns zu der Riesenbeute verhelfen
+nur gesagt, daß diese Villa uns zu der Riesenbeute verhelfen
 könnte …«
 
 »Hm — — etwas geschraubt!«, brummte der Inspektor.
@@ -407,7 +407,7 @@ nickte ich wenig begeistert. »Der elektrische Strom wird …«
 
 Harsts Stimme ließ mich schweigen.
 
-»Herr Bolzinski, — woraus sollen Sie sich besinnen?«
+»Herr Bolzinski, — worauf sollen Sie sich besinnen?«
 
 Das Gesicht des Kranken verzog sich zu einer gräßlichen
 Fratze. Er spitzte die Lippen, pfiff leise, teuflischer
@@ -731,7 +731,7 @@ so allmählich wurde sie sein gefügiges Werkzeug, *nie* seine
 Geliebte jedoch … sie muß von dem Einbruchsplan Kenntnis
 gehabt haben, sie mag es gewesen sein, die die Münzensammlung
 in der Portierloge verbarg, sie war verderbt, voller Haß
-gegen den strengen Vater, sie rechnete darauf, das Reimann
+gegen den strengen Vater, sie rechnete darauf, daß Reimann
 sie heiraten würde, aber er wich ihr aus, er war ja um die
 Beute betrogen worden, er hatte andere Sorgen. Gewiß, einen
 Teil des Bargeldes hatten die drei Komplicen wohl sofort
@@ -759,7 +759,7 @@ rein psychologischen Momente dieses Kriminalfalles gründlichst
 zu erörtern, es würde sich schon lohnen.«
 
 Matz nickte. »Stimmt — morgen ist auch noch ein Tag.
-Ohne schlaf ist der Mensch ein geistiger Krüppel. — Was
+Ohne Schlaf ist der Mensch ein geistiger Krüppel. — Was
 soll geschehen, Harst? Ihre Trümpfe haben Sie nun ja aufgedeckt,
 und …«
 
@@ -795,7 +795,7 @@ fiebere stark.
 
 S. Kahn rannte wie ein Löwe im Zwinger hinter dem Verkaufstisch
 hin und her. Er hatte allen Grund, so bleich und übernächtigt
-auszusehen … seit er diesen verfl … Harst auf seiner Fährte
+auszusehen … seit er diesen verfl… Harst auf seiner Fährte
 wußte, seit er schon gestern Nacht gemerkt, daß unheimlich
 flinke Schatten dauernd um ihn klebten, seit sein Versuch
 heute früh, heimlich zu flüchten, kläglich mißlungen war
@@ -850,7 +850,7 @@ dieser Chauffeur sein könnte, war im Nu verflogen, denn
 die Dinge, die dieser Bursche hier vorbrachte, trafen ja
 zu: Er wußte, daß er in der Strafanstalt damals als »Schlafredner«
 berüchtigt gewesen, daß er im Traum oft gellend aufgeschrien
-und das die Zellengenossen ihn häufiger dieserhalb verprügelt
+und daß die Zellengenossen ihn häufiger dieserhalb verprügelt
 hatten. Sein kritisches Denkvermögen war gleichzeitig infolge
 der unerträglichen Nervenanspannung stark herabgesetzt,
 sein kochendes Hirn ließ vieles unberücksichtigt, das er
@@ -900,7 +900,7 @@ Ausrede hast …«
 
 »Na gut, — — also um zehn … Nimmst de deine Claire
 mit?!« — Auch mir behagte diese Rolle sehr wenig, ich empfand
-genau denselben Widerwillen wie S. Kahn, nur das mein Ekel
+genau denselben Widerwillen wie S. Kahn, nur daß mein Ekel
 anderen Quellen entsprang.
 
 »Das Mädel?!« S. Kahn lachte höhnisch. »Noch besser!
@@ -969,7 +969,7 @@ Reimann gab scharf darauf acht, ob etwa auch hier Spione
 lauerten. Er bemerkte nichts, stieg aus, schritt unter dem
 Schirm in die Querstraße hinein, wo noch immer der Wagen
 der Straßenbaufirma stand, jetzt jedoch ohne Licht, ohne
-ein Zeichen von Leben, — Reimann schaute sich um, warf das
+ein Zeichen von Leben. — Reimann schaute sich um, warf das
 Seil mit dem Haken über die Mauer, turnte empor, sprang
 drüben in den Garten und suchte an der Mauer nach dem verborgenen
 Schalter. Der bis dahin hell erleuchtete, regennasse Garten
@@ -1000,7 +1000,7 @@ vergesse ich es wieder …«
 »Nun — das Versteck … Du weißt schon … Ja, das Versteck
 … Als ich dir damals den Streich spielte und die beiden
 Koffer mit der Hauptmenge der Beute verbarg, mußte ich mich
-doch vor Eva hüten, — — Eva hätte mich mit den Koffern bemerkt
+doch vor Eva hüten. — — Eva hätte mich mit den Koffern bemerkt
 … Dieser unterirdische Raum, lieber Reimann, war ja schon
 damals dein Notquartier … Was tat ich also? Ich habe einfach
 die Teppiche weggerollt, habe in den Ziegelboden ein Loch
@@ -1060,7 +1060,7 @@ grauhaarigen Dame einige Herren, in ihrer Mitte der blasse
 Reimann.
 
 »Herr Kriminaldirektor«, meldete Beck ärgerlich, »das
-verd … Frauenzimmer, die Wärterin, ist uns doch entwischt.«
+verd… Frauenzimmer, die Wärterin, ist uns doch entwischt.«
 
 Harst lachte vergnügt. »Entwischt?! Ach nein … Passen
 Sie auf, ich zaubere sie Ihnen sofort wieder herbei. Hier

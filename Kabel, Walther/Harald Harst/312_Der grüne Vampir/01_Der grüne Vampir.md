@@ -30,7 +30,7 @@ Spenden sich erwählt hatte.
 Er führte zwei Brillenschlangen vor, die in einem flachen
 Korbe auf seinem Schoße untergebracht waren, spielte also
 den Schlangenbändiger, pfiff zuweilen ein paar Takte, ließ
-die Schlangen tanzen und ahnte wohl kaum, das das vorüberflutende
+die Schlangen tanzen und ahnte wohl kaum, daß das vorüberflutende
 Publikum schon aus Angst vor den scheußlichen Kobras einen
 weiten Bogen um ihn machte.
 
@@ -103,7 +103,7 @@ von oben herab. — Auch das konnte sie.
 
 Isolde, die mit Armen und Beinen bisher umsonst nach
 Herrn S. Kahn geangelt hatte, da der schöne Sigi eben Schönheit
-und nicht schminke, Puder und gefärbte Haare verlangte,
+und nicht Schminke, Puder und gefärbte Haare verlangte,
 rief im Jargon östlicherer Viertel:
 
 »Puste dich bloß nich so uff, du Zuchthäuslerstochter,
@@ -404,7 +404,7 @@ so wiedergegeben habe, wie sie ein Durchschnittsbeobachter
 bewertet hätte. Ich betone: Ein Durchschnittsbeobachter!!
 
 Immerhin sei Fräulein Isolde Penz zugestanden, daß
-sie bis aus gewisse Dinge, für die ihr kritischer Verstand
+sie bis auf gewisse Dinge, für die ihr kritischer Verstand
 denn doch nicht genügend ausgebildet war, wertvolles Material
 lieferte. — Das Ende ihres überhasteten Vortrages klang
 in den Sätzen aus: »Er hat mich rausgeworfen, — er hat Angst
@@ -561,9 +561,9 @@ du ja zufrieden sein, du bist nun Mitkämpfer geworden, und
 die Rolle, die ich dir heute als Chauffeur zugewiesen hatte,
 war gewiß nicht ganz ungefährlich, du hast sie glänzend
 durchgeführt, es muß ein scheußliches Gefühl gewesen sein,
-zu wissen, das eine Pistole sehr bald knallen wird, mögen
+zu wissen, daß eine Pistole sehr bald knallen wird, mögen
 die Patronen statt der Nickelmantelkugeln auch nur entsprechend
-gefärbte Holzpfropfen enthalten haben. Auch weiterhin wirft
+gefärbte Holzpfropfen enthalten haben. Auch weiterhin wirst
 du nun tätig sein — sogar auf eigene Verantwortung. Doch
 davon nachher. — Schaue dir das Büchlein an …«
 
@@ -612,7 +612,7 @@ verurteilt werden. Übermorgen ist seine Strafzeit übrigens
 abgelaufen. Jetzige Ernährerin der Frau Balland und der
 noch unmündigen Kinder ist Claire Balland, die seit dem
 ersten Februar beim Blusen-Kahn als Kassiererin arbeitet.
-Das Sigismund Kahn das Geschäft erst im Januar erwarb, weißt
+Daß Sigismund Kahn das Geschäft erst im Januar erwarb, weißt
 du bereits. — Drittes Ereignis: Die drei Studenten aus dem
 Gartenhaus unternehmen im Juli eine Segelpartie von Swinemünde
 aus, das gemietete Boot wird nach Tagen an Land getrieben,
@@ -696,7 +696,7 @@ Einbrecherwerkzeuge empfand. Doch getreu meinem Prinzip,
 niemals vorschnell aus Stückwerk Schlüsse zu ziehen, begann
 ich nun das Ereignis Nr. 2 unter die Lupe persönlicher Nachfragen
 zu nehmen. Meine Beziehungen verschafften mir Zutritt zur
-Strafanstalt Plötzensee, wo Friedrich Balland, seine drei
+Strafanstalt Plötzensee, wo Friedrich Balland seine drei
 Jahre verbüßt. Ich fand in Balland einen äußerst verbitterten
 Menschen vor, der lediglich mir als Harst einen Einblick
 in seine Seele gewährte. Aber das Endresultat war gleich
@@ -705,17 +705,17 @@ mir nur, er sei unschuldig, und er habe mit den drei Studenten
 aus dem Gartenhaus stets auf bestem Fuße gestanden. Wer
 die Münzensammlung, die übrigens wenig Wert gehabt hätte,
 in die Portierloge und in das Mauerversteck hineingeschmuggelt
-habe, wüste er nicht. Das Versteck habe er allerdings selbst
+habe, wüßte er nicht. Das Versteck habe er allerdings selbst
 angelegt, um sein Geld vor seiner etwas leichtsinnigen Frau
 zu verbergen. Der erste Verdacht sei auf ihn durch eine
 anonyme Anzeige gefallen, wie ich wohl wüßte, und in dieser
 Anzeige hätte auch gestanden, daß er dem Kandidaten der
-Medizin Walter Grau entgegnen der Hausordnung gegen ein
+Medizin Walter Grau entgegen der Hausordnung gegen ein
 Trinkgeld gestattet habe, im Keller Kaninchen, weiße Mäuse
 und Meerschweinchen zu Experimentierzwecken zu halten. Grau
 habe sich sehr viel mit Tuberkuloseforschung beschäftigt
 und die Tiere geimpft und die Wirkung der Heilmittel erprobt.
-— Das war das Ergebnis über Ereignis Nr. 2, — Wir kommen
+— Das war das Ergebnis über Ereignis Nr. 2. — Wir kommen
 nun zu Nr. 3, zu dem Tode der drei Studenten auf See. Die
 Zeitungen haben darüber recht eingehend berichtet, und ich
 begnügte mich zunächst damit, die Mutter des Studenten Grau,
@@ -802,7 +802,7 @@ wir heute ganz einwandfrei festgestellt haben, daß S. Kahn
 gleich Sierowsky ist. Die Falle, die wir da aufgebaut hatten,
 war etwas umständlich, verschaffte uns jedoch einen Fang,
 der sich lohnt. Dir als Chauffeur gegenüber leugnet S. Kahn
-den Sierowsky ab, hinterher Schoß er dich tot, und gerade
+den Sierowsky ab, hinterher schoß er dich tot, und gerade
 dieser »Mord« wird ihm viele schlaflose Nächte bereiten.
 Es ist ein uralter Trick gewiegter Kriminalisten, einen
 Verdächtigen recht stark zu beunruhigen, ihn nervös zu machen,
@@ -860,7 +860,7 @@ für Spirituosen hin. »Hm … ja …« Er hüstelte …: Er hüstelte
 immer und seine Stimme klang wie die eines Jünglings von
 fünfzehn Jahren. »Herr Harst hat Sie mir empfohlen, Fräulein
 Penz … — Sie haben doch hoffentlich niemandem erzählt, daß
-Sie heute bei Harst waren und das Harst schon vorher Ihre
+Sie heute bei Harst waren und daß Harst schon vorher Ihre
 Mutter besucht hatte …?!«
 
 »Bewahre!« Isolde fand das Männlein ebenso spaßig wie
@@ -887,7 +887,7 @@ besinne mich genau, daß mein Bruder damals sehr zerstreut,
 fast verstört war, und daß er halb geistesabwesend ein paar
 Bemerkungen einstreute, die wir nicht recht verstanden …
 Er sagte da irgend etwas, daß man sehr vorsichtig sein müßte
-…«, — Sie zögerte auffällig — »und das Mutter und ich
+…«, — Sie zögerte auffällig — »und daß Mutter und ich
 auf keinen Fall darüber sprechen sollten, daß er als grüner
 Vampir das Fest besucht habe … Übrigens hatte er ja noch
 ein zweites Kostüm bereit, und vor der Maskierung wird er
@@ -1085,7 +1085,7 @@ Schluß.«
 
 … Ich legte den Hörer sehr langsam auf die Gabel zurück,
 — »Blusen-Mann doch gerissener!!« — Ja, das stimmte. Wir
-haften wunder wie schlau zu handeln geglaubt, als wir ihm
+hatten wunder wie schlau zu handeln geglaubt, als wir ihm
 die Falle durch Schlangenbändiger und Chauffeur stellten.
 Natürlich hatte er die Abendzeitungen längst durchgesehen
 und darin keine Silbe über einen in der Nähe von Paulsborn
@@ -1268,14 +1268,14 @@ Hinter uns kam ein Splittern, Krachen, wüstes Schimpfen.
 
 Zwei Taxen waren ineinander gefahren, Harst lachte
 geradezu leichtfertig, gab Gas, sauste davon und rief mir
-über die schulter zu: »Den Spion sind wir los … — Ist es
+über die Schulter zu: »Den Spion sind wir los … — Ist es
 nicht eine Freude zu leben, wenn man hinter vierzig Millionen
 herjagt?!«
 
 In der Pariser Straße lehnte an einem Laternenpfahl
 ein Pfeifvirtuose, der mit Ausdauer den Gassenhauer-Jazz
 in die Nacht schmetterte: »Was kann der Sigismund dafür,
-das er so schön ist, … Was …« und so weiter …
+daß er so schön ist, … Was …« und so weiter …
 
 Harst stoppte, der Pfeifkünstler stoppte, hatte im
 Nu mit Harst Chauffeursmantel und -mütze gewechselt, und
