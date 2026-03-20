@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">d994944c-aae5-43f2-af91-7b0dad3cc760</entry>
+<entry key="title">Die Brüder vom grünen Siegel</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">316</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Die Brüder vom grünen Siegel
+
+Der kleine stämmige Matrose, der sich in dieser regnerischen kühlen Aprilnacht scheu wie ein Dieb hinter den verfaulten Überresten eines an Land geschleppten Lastprahmes zusammenduckte und angestrengt unter der speckigen Schiffermütze nach den abgewrackten Dreimaster hinüberspähte, war bereits eine Stunde hier am Mottlauufer unweit der Danziger Staatswerft auf seinem einsamen, ungemütlichen Posten und versuchte die nächtliche Kälte durch häufige Inanspruchnahme eines Kognakfläschchens nach Möglichkeit abzuwehren.
+
+Seine dumpf gemurmelten Verwünschungen über dieses Sauwetter und diese ganze unklare Geschichte waren jedoch kaum ernst zu nehmen, — ich mußte das schließlich am besten wissen, denn ich selbst war dieser Matrose, und mein Freund Harald, der letztens unter so eigentümlichen Begleitumständen und sanften Schwindeleien angeblich nach Rügen zu einem bekannten Gutsbesitzer abgereist war, hatte mir durch die Anzeigen in der Berliner Mittagspost jene merkwürdigen Instruktionen erteilt, die mich heute unter allen erdenklichen Vorsichtsmaßregeln auf dem Danziger Flugplatz hatten landen lassen.
+
+Der Siegelbewahrer
+
+»… Sie können noch so viel reden, lieber Harst, ich bleibe!!«, erklärte Inspektor Lißt, nachdem der Leichenwagen den Körper Julius Rindes weggebracht und die Suche nach dem flüchtigen Schützen aufgegeben worden war. »Sie wollen mich durch häufiges Gähnen lediglich … abwimmeln, entschuldigen Sie den burschikosen Ausdruck, und an Ihre geistige Abspannung glaube ich erst recht nicht.«
+
+Harald gab den zwecklosen Kampf gegen Lißt’s Beharrlichkeit endlich auf. »Sie fürchten wohl,« meinte er aus der Tiefe seines Sessels heraus mit recht schläfriger Stimme, »daß ich den gelehrten Magister Theodorus Heyhästus, der hier gelebt, gewirkt, experimentiert und schließlich sein Leben unter den Degenstichen nie ermittelter Mörder ausgehaucht hat, wie nach Paverstiels Angaben die alten Chroniken besagen, allein mit Schrauts Hilfe erwischen könnte …?! Er soll ja hier noch immer umgehen. — Eine Frage: Glauben Sie an übernatürliche Dinge?«
+
+Lißt lachte derb. »Ich war nie ein Idiot …«
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (316) Die Brüder vom grünen Siegel.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1931</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
