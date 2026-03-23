@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">4cb52657-851e-4723-bb80-04834564b9ba</entry>
+<entry key="title">Die Matrone mit dem Stelzfuß</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">317</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Die Matrone mit dem Stelzfuß
+
+Das Laboratorium mit den stahlgesicherten Türen und Fenstern lag in Dunkelheit da. In der Luft hingen die verschiedenartigen Gerüche von Chemikalien, und doch war jener bekannte, erfrischende Ozonduft vorherrschend, den man in den Behandlungszimmern von Ärzten, die über einen Höhensonne-Bestrahlungsapparat verfügen, so freudig begrüßt.
+
+Über den mit Marmorplatten belegten Fußboden schritten in dieser Finsternis, sich nur auf ihren Orts- und Tastsinn verlassend, zwei unsichtbare Gestalten auf dicken Gummisohlen fast geräuschlos hin und her, und lediglich ein geübtes Ohr hätte aus dem dumpfen Tappen der vorsichtigen Füße Rückschlüsse auf Größe und Gewicht und Gangart der beiden eifrig Beschäftigen ziehen können.
+
+Dieses stille, fast lautlose Treiben in dem gegen die Außenwand schalldicht und lichtdicht abgesperrten Raume würde in jedem zufälligen Beobachter und Horcher zweifellos etwas beklommene Empfindungen ausgelöst haben.
+
+Alles durch die Analysen-Quarzlampe
+
+Auf dem kurzen Wege zum Gartenplatz sagte Harst etwas unvermittelt:
+
+»Ein gut bearbeiteter Kriminalfall, der in unser Spezialfach schlägt, der also etwas phantastische, abenteuerliche, absonderliche Begleitumstände zeigt, muß wie ein sorgfältig ausgeführter Neubau sein. Bei einem Hause fängt man ja auch nicht mit dem Dach an, sondern mit den Ausschachtungsarbeiten, die man hier mit dem Staub aus dem Handtäschchen vergleichen kann. Eiserne Logik ist notwendig, ein Ziegel kommt auf den anderen. Leider sind wir als Maurer erst beim Erdgeschoß angelangt.«
+
+Den Eindruck hatte ich nun freilich nicht. Aber der Bescheidene schweigt.
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (317) Die Matrone mit dem Stelzfuß.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1932</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
