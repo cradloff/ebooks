@@ -15,8 +15,8 @@ Das Abendessen erlitt eine vorzeitige Unterbrechung
 durch unsere Mathilde, die plötzlich leise die Tür des Speisezimmers
 öffnete und halb erschrocken, halb schadenfroh uns zuflüsterte,
 daß Kriminalrat Penz uns zu sprechen wünsche. Hinter Mathilde
-stand im halbdunklen Flur, der geisterhaft bleiche Doktor
-Galwan, dessen weit aufgerissene, entsetze Augen mit den
+stand im halbdunklen Flur der geisterhaft bleiche Doktor
+Galwan, dessen weit aufgerissene, entsetzte Augen mit den
 blanken Knöpfen seiner Livreejacke um die Wette funkelten.
 Er drängte unsere Dicke jetzt bei Seite und trat dicht an
 den Eßtisch heran. Seine Erregung hatte ihn jeder Gewalt
@@ -88,7 +88,7 @@ nach der Hardenbergstraße 103 berief?! Solche Mitteilungen
 bewahrt jeder Kollege doch selbstverständlich auf, und sollten
 Sie mir nun erwidern, Sie hätten den Brief verbrannt, so
 müssen Sie schon gestatten, daß ich diese Briefgeschichte
-für ausgelegten Schwindel halte, der so recht nach Harst’scher
+für aufgelegten Schwindel halte, der so recht nach Harst’scher
 Phantasie duftet.«
 
 Leslie Baribal musterte Penz eine Weile wie eine ganz
@@ -212,7 +212,7 @@ Fall sein.«
 <h3>Die baufällige Villa.</h3>
 
 Als wir vier unsere stille, im Mondschein gebadete
-Vorortstraße betraten,, löste sich aus dem Häuserschatten
+Vorortstraße betraten, löste sich aus dem Häuserschatten
 drüben eine Männergestalt und kam auf uns zu, stand vor
 Kolonel Baribal stramm und meldete mit tiefem Baß, der vorzüglich
 zu dem dicken Pausbackengesicht paßte:
@@ -422,7 +422,7 @@ frische Zigarre, Sie haben Ihren Glimmstengel soeben zerdrückt
 Thoms sagte rauh und unsicher: »Mir … ist plötzlich
 … so … schwindlig … Der Blutverlust mag daran Schuld sein
 … Kolonel, ich möchte doch lieber ins Hotel fahren und mich
-niederlegen. Mir ist wirtlich sehr schlecht, — — ich … weiß
+niederlegen. Mir ist wirklich sehr schlecht, — — ich … weiß
 nicht recht, was mir fehlt.«
 
 Baribal begleitete äußerst besorgt seinen Mitarbeiter
@@ -536,7 +536,7 @@ Herr Rat, — ich darf darüber nicht sprechen.«
 
 »Blech!«, sagte Penz ganz laut. »Kolonel Baribal, ich
 mache Sie darauf aufmerksam, daß heute ein Mord verübt wurde,
-daß mehrere Mordversuche unternommen wurden, das …«
+daß mehrere Mordversuche unternommen wurden, daß …«
 
 Baribal hatte seine eisigste Miene aufgesetzt und sich
 langsam erhoben. — Penz schwieg mitten im Satz.
@@ -560,7 +560,8 @@ lassen wir ihn tun, was er will. Viel wird er nicht ausrichten,
 da lediglich in Ihrer Person, Herr Doktor, der Wegweiser
 zum Kern dieser mysteriösen Vorfälle zu suchen ist. Deshalb
 möchte ich auch einzelne Punkte der Vergangenheit recht
-genau erörtern,  und ich will Ihnen beginnen, Fräulein Magda.«
+genau erörtern, und ich will zunächst mit Ihnen beginnen,
+Fräulein Magda.«
 
 Das Fräulein Doktor wurde sichtlich nervös.
 
@@ -739,7 +740,7 @@ Darstellung. »Gerade im Geröll dieses Flusses, der nur zur
 Regenzeit größere Wassermengen mit sich führte, hatten die
 Angestellten des Syndikats, das meinen damaligen Chef Klaus
 Buitenbork überall bei der Belegung der besten Fundstellen
-zuvorgekommen war, außer gewöhnlich reiche Ausbeute gemacht,
+zuvorgekommen war, außergewöhnlich reiche Ausbeute gemacht,
 und wir hatten wieder einmal das Nachsehen. Trotzdem waren
 unsere Beziehungen zu den drei Holländern des Syndikats
 durchaus freundschaftliche, unsere Zelte standen dicht beieinander,
@@ -757,7 +758,7 @@ Wert verriet, auf ein großes Blatt und ließ den Flammenschein
 des Lagerfeuers in den Kanten des Steines die wunderbarsten
 Lichtreflexe hervorrufen. Mein damaliger Chef Buitenbork
 verhielt sich recht gleichgültig, ich selbst richtete mich
-etwas auf und rief, von Fieberfrost geschüttelt: .»Der Diamant
+etwas auf und rief, von Fieberfrost geschüttelt: »Der Diamant
 ist ja Millionen wert! Noch nie wurde ein solches Exemplar
 gefunden!« — Ich besinne mich auf diese Worte ganz genau,
 denn kaum hatte ich sie ausgesprochen, als sich etwas höchst
@@ -800,7 +801,7 @@ Harst, der zuletzt kaum mehr auf Galwans Worte geachtet
 hatte, sagte jetzt mit größter Bestimmtheit:
 
 »Die Dinge sind nun bis auf einen Punkt geklärt. Jene
-drei weißen Affenjäger waren, Thoms, Ganderley und Torstensen,
+drei weißen Affenjäger waren Thoms, Ganderley und Torstensen,
 die natürlich damals andere Namen trugen. Buitenbork hat
 sie zu diesem Diebstahl angestiftet, er wird den Holländer
 nachmittags beobachtet haben, er gewann die drei für seinen
@@ -849,7 +850,7 @@ daß ein Punkt noch nicht enträtselt sei, und ich meine damit
 folgendes. Jener Orang Utan, in dessen Kehlsackhaut Thoms
 damals den Stein eingenäht hatte, muß den Affenjägern entwichen
 sein … Sie konnten ihn nicht mehr einfangen …, — hallo, was
-gibt’s, Galwans?«
+gibt’s, Galwan?«
 
 Der Doktor war aufgesprungen. »Herr Harst, Sie haben
 recht, — sogar zwei Tiere entflohen den Affenjägern in jener
@@ -862,7 +863,7 @@ Welch eine unglaubliche Geschichte …!! Herr Harst, ich gratuliere
 Ihnen, Sie haben …«
 
 Harst winkte sofort ab. »Keine Schmeicheleien, Doktor!
-Im Grunde, verdanken wir nur Ihnen diese endgültige Lösung.
+Im Grunde verdanken wir nur Ihnen diese endgültige Lösung.
 Wir wissen jetzt auch, weshalb diese Schufte gerade Sie
 ins Zuchthaus schickten und gerade Sie und Ihre Tochter
 so scharf aufs Korn genommen hatten. Sie waren, das ahnte
@@ -940,7 +941,7 @@ vor Schreck keines Wortes fähig war, dann sehr geistesgegenwärtig
 erklärte, auf dem Flugplatz Staaken bei Spandau stände seit
 gestern ein englisches Polizeiflugzeug, mit dem er selbst
 von London herübergekommen sei. »Thoms ist ein vorzüglicher
-Flieger, die Maschine steh ihm jeder Zeit zur Verfügung,
+Flieger, die Maschine steht ihm jeder Zeit zur Verfügung,
 — Harst, rufen Sie den Flugplatz an …«
 
 Die Antwort von Staaken lautete: »Die beiden englischen
@@ -963,7 +964,7 @@ Dünenstrecken birgt, wohin sich selten ein Mensch verirrt,
 mochte Herr Klaus Duddelbruck mit dazu bestimmt haben, hier
 in dem milden Adriaklima eine Affenfarm anzulegen, für die
 er jedoch nicht die geringste Reklame machte. Die italienischen
-Behörden hatten den reichen Holländer, der mit dem Gelde’
+Behörden hatten den reichen Holländer, der mit dem Gelde
 nicht sparte, ruhig gewähren lassen, da gegen seine Niederlassung
 auf dem einsamen Ufergelände nichts einzuwenden war. So
 hatte denn Duddelbruck, der sich als Amerikaner ausgab,

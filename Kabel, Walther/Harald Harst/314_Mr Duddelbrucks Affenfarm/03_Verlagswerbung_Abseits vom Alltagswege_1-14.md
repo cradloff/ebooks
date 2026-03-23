@@ -1,5 +1,3 @@
-<@pagebreak 65/>
-
 <div style="font-size: xx-large; text-align: center;">Abseits vom Alltagswege</div>
 
 <div style="font-size: large; text-align: center; margin-bottom: 1em;">von Olaf K. Abelsen</div>

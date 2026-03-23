@@ -129,7 +129,7 @@ meinem Klingelzeichen abgefeuert worden sein. Ich hatte
 mit Banderlig, der ja in seinem Häuschen ganz allein wohnt,
 ein besonderes Signal verabredet, dreimal lang, dreimal
 kurz. Banderlig wollte das so, und nun ist er tot. — Sie
-werden begreifen, daß ich im Anblick des Erschossenen —
+werden begreifen, daß ich beim Anblick des Erschossenen —
 die Kugel sitzt mitten in der Stirn — derart entsetzt war,
 daß ich sofort wieder davoneilte und lange Zeit wie betäubt
 in den Straßen umherirrte. Ich wußte ja, was mir bevorstand.
@@ -142,7 +142,7 @@ in dem Prozeß, und leider habe ich nach Verkündung des Urteils
 gegen ihn schwere Drohungen ausgestoßen. Niemand wird mir
 glauben, daß ich im Zuchthaus zu besserer Einsicht gelangt
 bin und daß ich Banderlig nichts mehr nachtrug, da er nach
-besten Wissen und Gewissen ausgesagt hatte.«
+bestem Wissen und Gewissen ausgesagt hatte.«
 
 Er trocknete sich den Schweiß von der Stirn und blickte
 Harst flehend und fragend an. »Ich … bin kein Mörder …«
@@ -200,7 +200,7 @@ und Doktor Galwan hatte sich auf dem Dampfer Testuria, einem
 kleinen deutschen Frachter, zur Heimfahrt eingeschifft.
 Der alte Kasten Testuria besaß keine Funkeinrichtung, und
 so konnte Galwan unbehelligt bis in die Nordsee gelangen,
-wo er eines Nachts bei stürmischem Wetter einem mitreisenden
+wo er eines Nachts bei stürmischem Wetter einen mitreisenden
 dänischen Kaufmann namens Torstensen in dessen Kabine überfallen
 und beraubt haben soll. Dies geschah dicht vor Bremerhaven.
 An Bord befand sich auch der Privatgelehrte Pieter Banderlig,
@@ -235,7 +235,7 @@ deutsche Staatsangehörigkeit erworben hatte. Der Name Banderlig
 ist in gewissen Gegenden Hollands genau so zahlreich wie
 bei uns die Stein’s oder Schmidt’s. Deshalb hatte ich bis
 dahin nie an jenen berühmten Banderlig gedacht, der übrigens
-eines Leuchte als Detektiv war und von der Picke an gedient
+eine Leuchte als Detektiv war und von der Picke an gedient
 hatte. Du wirst nun  auch nicht weiter erstaunt sein, daß
 ich Galwan sofort wiedererkannte, ich habe mir Bilder von
 ihm besorgt, auch von Banderlig, Torstensen und Klaus Buitenbork,
@@ -254,7 +254,7 @@ gestern innerhalb weniger Stunden an schwerer akuter Darmentzündung.
 Die Direktion unseres Zoologischen Gartens ersucht das Publikum
 unter Hinweis auf diesen nunmehr dritten Fall jähen Ablebens
 eines Menschenaffen nochmals eindringlichst, die Tiere nicht
-zu füttern, da gerade die Orang Utans sehr leicht zu Magen\-
+zu füttern, da gerade die Orang Utans sehr leicht an Magen\-
 und Darmkrankheiten infolge unzweckmäßiger Ernährung leiden.«
 
 »… Du hast diese Notiz sicherlich schon morgens gelesen,«
@@ -609,7 +609,7 @@ Objekte. Ein Ding ohne Stacheln ist langweilig. Statt Stacheln
 könnte ich auch sagen »moralische Defekte« … Bisher widmete
 ich meine Zeit gerade solchen Kranken.«
 
-Der Direktor lächelte plötzlich wieder, »Ihr Verfahren,
+Der Direktor lächelte plötzlich wieder. »Ihr Verfahren,
 Herr Harst, nennt man in der Schachsprache Zugzwang. — Gut
 denn …«, — und er griff nach dem Telefonhörer …
 
@@ -624,7 +624,7 @@ Die Tür ging auf und Fräulein Doktor Margot Bing trat
 ein, ein junges Mädchen von pikanter Schönheit mit ernsten,
 melancholischen Augen. Sie gefiel mir auf den ersten Blick,
 und als wir dann über die Wege des weiten Gartens wanderten
-berauschte ich der Wohllaut ihrer Stimme genau so wie ihr
+berauschte mich der Wohllaut ihrer Stimme genau so wie ihr
 leichter, energischer Gang und ihre vertrauliche Liebenswürdigkeit.
 Wir wurden sehr rasch miteinander warm, und als dann Wärter
 Matz vor uns stand, sagte Fräulein Doktor Bing zu dem etwas
@@ -701,7 +701,7 @@ Doktor Bock lachte. »Sehen Sie, auch ich kann Sie etwas
 aus dem Gleichgewicht bringen … Die Farm liegt auf dem Lido
 vor Venedig. — Übrigens ist uns bisher nur ein einziger
 Fall bekannt, daß vielleicht ein verbrecherischer Anschlag
-gegen Orang Utans vorliegen könnte, und zwar aus Hainburg
+gegen Orang Utans vorliegen könnte, und zwar aus Hamburg
 …«
 
 Fräulein Doktor Bing näherte sich uns sehr eilig mit
@@ -736,7 +736,7 @@ Unter diesen Umständen wurde es vier Uhr nachmittags,
 bevor wir wieder daheim anlangten, wo unsere Mathilde uns
 mit dem allerdüstersten und vorwurfsvollsten Gesicht empfing.
 Daß ich ihre Leichenbittermiene nicht lediglich auf unsere
-Verspätung zum Mittagessen bezog, ging schon aus ihren,
+Verspätung zum Mittagessen bezog, ging schon aus ihren
 ersten tragischen Sätzen hervor, die sie mit den eindrucksvollen
 Gesten einer Heldenmutter begleitete. »Hab’ ich’s nich gleich
 gesagt! Was Unkraut is, bleibt Unkraut, und ob ’n Doktor
@@ -988,7 +988,7 @@ Zettel für Ihre Frau Mutter mit …«
 Ihnen dürfte bekannt sein, daß ein Wärter des Zoo heute
 erschossen wurde, und wenn die Bande die Sache schlau angefangen
 hat, werden Sie wegen Mordes angeklagt werden. Fort mit
-Ihnen, ehe es zu spät ist. Detektivinspektor Baribal tragt
+Ihnen, ehe es zu spät ist. Detektivinspektor Baribal trägt
 die Verantwortung, — — Schraut und ich sind dadurch gedeckt.
 Hier sind Ihr Hut und Ihr Mantel … Raffen Sie sich doch
 auf, Mann!! Und bleiben Sie diesmal wirklich als Diener
@@ -1059,7 +1059,7 @@ sonderbar … Fräulein Bing ist wohl sehr alt, nur alte Jungfern
 kreischen in der Erregung so schrill.«
 
 »Fräulein Bing ist vielleicht zweiundzwanzig Jahre
-alt« erklärte Harst lächelnd.
+alt,« erklärte Harst lächelnd.
 
 »So?! Das ist allerdings merkwürdig …«
 
