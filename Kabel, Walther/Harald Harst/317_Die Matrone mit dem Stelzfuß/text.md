@@ -391,7 +391,7 @@ Zu meinem Erstaunen nahm er mein Riesenpech sehr kühl
 hin. »Den Vogel fangen wir schon, mein Alter … Tröste dich
 …«
 
-»Fangen?! Ich hegte einige Zweifel.
+»Fangen?!« Ich hegte einige Zweifel.
 
 »Warte ab … — Ich kalkuliere nämlich folgendermaßen.
 Der Briefdieb hat dich als Verfolger bemerkt, erklärtest
@@ -724,7 +724,7 @@ Schlangenhaut, Herr Horter, so ein Ding, wie sie damals
 erst in Paris in Mode waren. — Aber das ist ja ganz nebensächlich
 …«
 
-»Guter Rat, hast du eine Ahnung!!, dachte ich mit blanken
+Guter Rat, hast du eine Ahnung!!, dachte ich mit blanken
 Augen.
 
 »Dieses Fräulein Erwine Perbes verstarb plötzlich an
@@ -781,7 +781,7 @@ eine arme Klavierlehrerin …«
 …«, murmelte Harst undeutlich, und der Herr Rat fragte mißtrauisch:
 »Verzeihung, — ich verstand Sie nicht ganz …«
 
-Es war absolut nebensächlich«, lächelte Harald noch
+»Es war absolut nebensächlich«, lächelte Harald noch
 zerstreuter.
 
 Nach einer halben Stunde verabschiedete sich Ebertin.
@@ -1098,7 +1098,7 @@ Polizeibeamten schimmerten.
 »Verzeihung, — Sie sind doch Herr Harst …?«, fragte
 der Herr sehr gedämpft und sehr höflich grüßend, wobei er
 uns sein blondbärtiges Gesicht zeigte. »Kriminalkommissar
-Teegthof … stellte er sich vor. »Rechungsrat Ebertin ist
+Teegthof …« stellte er sich vor. »Rechungsrat Ebertin ist
 doch hellhöriger als Sie glaubten … Von ihm habe ich die
 Nachricht, daß Sie beide zweifellos der Matrone wegen hier
 nach Swinemünde gekommen sind … — soeben hat der Diener
@@ -1378,7 +1378,7 @@ Kommissar Teegthof stand uns gegenüber, der Untersuchungsrichter
 und der Protokollführer sowie eine angejahrte dürre Frau
 in grober Küchenschürze saßen an dem riesigen Mitteltisch.
 
-»Sie wünschen? Wer sind Sie?! Ein Blick in Teegthofs
+»Sie wünschen? Wer sind Sie?!« Ein Blick in Teegthofs
 Gesicht, der hier ja nur den erkrankten Inspektor vertrat
 und von auswärts war, ein jüngerer Herr von vorbildlicher
 Eleganz und Arroganz, hatte sich bereits das bewußte strenge,
@@ -1602,7 +1602,7 @@ daß Schraut und ich allein die Villa sofort durchsuchen,
 ich arbeite gern ohne Zeugen und nur mit Schraut, — — also
 auf Wiedersehen.«
 
-»Wir gingen in die Diele und Harald deutete hier auf
+Wir gingen in die Diele und Harald deutete hier auf
 den Parkettboden.
 
 »Dumme Gesellschaft!«, flüsterte er … »Weißt du nun,
@@ -1719,7 +1719,7 @@ nachher äußerst kleinlaut, als Harald ihn in unser Zimmer
 lotste, mit Likör bewirtete, und sehr ernst sagte: »Herr
 Rat, Sie hätten sich niemals aushorchen lassen sollen. Daß
 Sie uns unter unseren Masken erkannten, hätte Ihr Geheimnis
-bleiben müssen … Wer hat Sie ausgehorcht?’
+bleiben müssen … Wer hat Sie ausgehorcht?«
 
 Ebertin stotterte: »Der Chauffeur Emmerich … Aber das
 ist doch …«
@@ -1997,7 +1997,7 @@ zu.
 »Halt!! Ist Ihr linker Arm schon ausgeheilt, den Ihnen
 Fräulein von Brack aufschlitzte? Und haben Sie den Taxenbesitzer
 Gnatz nochmals als Spion benutzt und noch einen Motorradler
-zum Briefstehlen gedungen?! — Harsts Anklagen waren wie
+zum Briefstehlen gedungen?!« — Harsts Anklagen waren wie
 Schwerthiebe, und Bert schnellte herum, stierte ihn an und
 suchte vergebens seine weltmännische Fassung zu bewahren.
 
@@ -2048,7 +2048,7 @@ schwand, und er erklärte mit aller Offenheit und Schlichtheit:
 und mein anständiger Name soll nicht beschmutzt werden.«
 
 »Vorzüglich, so gefallen Sie mir …«, — Harst läutete
-wieder, und als der Chefarzt »Engelchen und zwei handfeste
+wieder, und als der Chefarzt, Engelchen und zwei handfeste
 Wärter hereinstürzten, als ob wir etwa abermals massakriert
 werden sollten, sagte er zu dem Massenaufgebot mit einer
 beschwichtigenden, humorvollen Handbewegung: »Dieses Rollkommando
@@ -2334,7 +2334,7 @@ die Pistolen heraus …«
 
 Die leere Villa empfing uns mit muffigen Gerüchen,
 und das letzte Tageslicht genügte gerade noch, um im Garten
-verschwommene Einzelheiten unterscheiden zu können.«
+verschwommene Einzelheiten unterscheiden zu können.
 
 Wir blieben in der Diele. Harst wollte erst die Stunde
 abwarten, bis die Grundstücke umzingelt seien. Er gebot
@@ -2386,7 +2386,7 @@ Harald setzte sie in einen Stuhl.
 »Sie suchten hier wohl das Testament Mettwuhls, Anna
 Bolz? — Die Geschichte ist aus, das sehen Sie — wo stecken
 Ihre Kumpane? Wohl in einem alten übermauerten Kanal aus
-früheren Zeiten?’
+früheren Zeiten?«
 
 Die Bolz nickte schwach.
 
@@ -2464,12 +2464,12 @@ alles zu beichten, und …«
 
 Harst drückte ihr herzlich die Hand.
 
-»»Beruhigen Sie sich doch … Das da ist Mettwuhls Bruder,
+»Beruhigen Sie sich doch … Das da ist Mettwuhls Bruder,
 und er und die drei so bescheidenen Hausangestellten wollten
 ja gerade das Testament beseitigen und den Rentner dann
 ermorden, damit der andere Mettwuhl erbte, der angeblich
 nicht auffindbare, der später »zufällig« wieder aufgetaucht
-wäre. — »Emmerich«, wandte er sich an den bleichen Chauffeur,
+wäre. — Emmerich«, wandte er sich an den bleichen Chauffeur,
 »wenn Sie wieder mal im Zuchthaus Gelegenheit haben sollten,
 Stiefel zu putzen, so empfehle ich Ihnen, etwas sorgfältiger
 vorzugehen. Sie ahnen gar nicht, wie viel Beweisstücke noch
