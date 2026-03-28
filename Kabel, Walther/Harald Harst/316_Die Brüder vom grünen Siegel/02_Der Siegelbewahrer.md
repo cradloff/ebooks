@@ -69,7 +69,7 @@ mystische Dinge auflehnt. — Ich behaupte, das  Gespenst
 existiert, hat all die Jahre existiert und existiert noch,«
 fügte er sehr bestimmt hinzu.
 
-Jetzt lachte der Inspektor nicht. »Beweisen sie das,«
+Jetzt lachte der Inspektor nicht. »Beweisen Sie das,«
 sagte er etwas erstaunt, denn Harsts ernster Ton hatte seine
 Wirkung nicht verfehlt.
 
@@ -146,7 +146,7 @@ Lißt streichelte nachdenklich sein breites Kinn. »Hm,
 Ein Lennartz wanderte 1893 nach Kanada aus, das stimmt schon,
 — aber Sie meinen ja, unser Sebastian Lennartz sei nicht
 jener Lennartz, sondern nur eine bezahlte Strohpuppe gewesen.
-Dann wäre da noch die Familie …« — ex stockte plötzlich,
+Dann wäre da noch die Familie …« — er stockte plötzlich,
 richtete sich steif auf, starrte Harst eine Weile verwirrt
 an und schüttelte dann heftig den Kopf …
 
@@ -157,7 +157,7 @@ Lißt … Weshalb nicht?! Ihr junger patenter Wachtmeister
 Klaus Kohrt hat mir ohnedies schon so einiges zu raten aufgegeben
 …«
 
-List kniff die vollen Lippen ganz schmal. Ein mißtrauischer,
+Lißt kniff die vollen Lippen ganz schmal. Ein mißtrauischer,
 unwilliger Blick traf Harst.
 
 »He, — wie meinen Sie das?! Zu raten aufgegeben? Inwiefern?
@@ -352,11 +352,11 @@ sein. Aber — wie gelangte er hier ins Haus? Vorn auf der
 Straße steht ein Posten, im Garten ein zweiter, im Gebäude
 selbst sogar vier Leute. Es gibt mithin einen geheimen Zugang
 und auch Räume, die wir noch nicht kennen. Dort hat Kohrt
-die Maskerade angelegt und den Dolch zu sich gesteckt. Das
+die Maskerade angelegt und den Dolch zu sich gesteckt. Daß
 dieser Dolch die Mordwaffe ist, ist wohl ziemlich klar.
 Weshalb jedoch zeigte sich Kohrt den Wachen im Hause? —
 Lißt, wenn Sie auf diese Frage eine einleuchtende Antwort
-finden, dürften die dem Kern der dunklen Angelegenheit ziemlich
+finden, dürften Sie dem Kern der dunklen Angelegenheit ziemlich
 nahe gekommen sein. — Was nun das baldige Eintreffen des
 Hafen-Julius betrifft, so schlage ich vor, Kohrt an seinen
 Stuhl festzubinden, ihm auch einen Knebel in den Mund zu
@@ -404,7 +404,7 @@ so durch, eine ganze Woche lang … dann saß ich mal drüben
 in der Kneipe an der Klawitter-Werft, es wurde Mitternacht,
 bevor wir über den Fluß ruderten. Meine Bekannten hatten’n
 anderen Weg, ich … ich ging die Werftgasse entlang, denn
-ich wollte mir das Spukhaus mal erst vom außen ansehen,
+ich wollte mir das Spukhaus mal erst von außen ansehen,
 dort sollte jetzt ja ein reicher Herr wohnen, bei dem’s
 vielleicht etwas zu holen gab. Wie ich so hier an dem alten
 Steinkasten vorüberkomme — es lag noch Schnee, und es war
@@ -428,7 +428,7 @@ mit drei Federn und unten in der einen Ecke des Wappenschildes
 einen Mann, der in einer Halsschlinge am Galgen hing. —
 Herr Inspektor, ich bin dann nächste Nacht … nicht auf die
 »Niobe« gegangen, ich … hatte Angst, entsetzliche Angst,
-ich wägte mich gar nicht aus meiner Kammer heraus … Ich
+ich wagte mich gar nicht aus meiner Kammer heraus … Ich
 hatte mir Schnaps und Essen holen lassen, ich war so um
 Mitternacht recht angetrunken, und als mit einem Male jemand
 leise an meine Kammertür klopfte, nahm ich mein Messer und
@@ -488,7 +488,7 @@ Um halb vier Uhr morgens trat im Spukhause wieder Ruhe
 ein. In den Fluren und draußen waren die Wachen verdoppelt
 worden, — wir drei saßen wie vorhin vor dem glühenden Ofen,
 eine frische Kanne Kaffee dampfte auf dem Tischchen, Zigarren
-und Haralds Zigarette lösten sich in Wölkchen auf, und da,
+und Haralds Zigarette lösten sich in Wölkchen auf, und da
 erst sagte der schweigsame, athletische Lißt zu meinem Freunde
 mit einer schroffen Geste: »Sie haben Kohrt absichtlich
 schlecht gefesselt … Er sollte entfliehen, Sie wollten es
@@ -519,12 +519,12 @@ Lißt’s klare Augen zogen sich jäh zusammen.
 »Ja, in der Brieftasche steckte eine Amateuraufnahme
 der lieblichen Lore,« gab Harald ehrlich zu. »Kohrts Geschmack
 begreife ich durchaus, ich habe Lore ja bei Paverstiel genügend
-kennen gelernt, und das Kohrt, der wohl längst hinter den
+kennen gelernt, und daß Kohrt, der wohl längst hinter den
 Radmantelmännern mit einigem Erfolg her ist, nun den Vater
 seiner stillen Liebe zu schützen suchte, ist ebenso verständlich.«
 
 »Also ist Paverstiel … der Siegelbewahrer?!«, meinte
-Lißt kopfschüttelnd. »»Paverstiel, der die Artikel *gegen*
+Lißt kopfschüttelnd. »Paverstiel, der die Artikel *gegen*
 die »Brüder« schrieb?! Wie reimt sich das zusammen?!«
 
 Harsts schmales Gesicht zeigte einen sehr ernsten,
@@ -533,7 +533,7 @@ haben es hier doch keinesfalls mit Durchschnittsverbrechern
 zu tun. Paverstiels Artikel *gegen* den Wohltäter Lennartz
 waren im Grunde nur eine sehr schlaue Verteidigung der »Brüder«.
 Die öffentliche Meinung wandte sich gegen den Artikelschreiber,
-auch sie fielen darauf herein, auch sie wurden zu Lennartz
+auch Sie fielen darauf herein, auch Sie wurden zu Lennartz
 einflußreichem Anwalt, mithin war der beabsichtigte Erfolg
 eingetreten: Ganz Danzig sah in Lennartz lediglich einen
 schrullenhaften Freund der Armen und Bedürftigen und kümmerte
@@ -601,7 +601,7 @@ mehr noch, zu Tagen.
 Was jedoch — und dieser Gedanke bohrte unaufhörlich
 in meinem Hirn, als wir nun der Kanalbrücke zuschritten,
 auf der ebenfalls zwei Posten standen — was jedoch bezweckte
-der Unbekannte, den wir als »Meister««, als unsichtbaren
+der Unbekannte, den wir als »Meister«, als unsichtbaren
 Regisseur hinter den grellen Kulissen dieses Kriminalfilms
 vermuteten, mit diesem seinem düsteren, mysteriösen Treiben?!
 Was hatte der alte Dreimaster »Niobe« mit alledem zu schaffen,
@@ -677,7 +677,7 @@ war, genau so verblüfft um wie ich.
 Was wir hier sahen, war kurz ausgedrückt des Magister
 Heyhästus alchimistisches Laboratorium.
 
-Nur das an Stelle des Prager Goldmachers in dem hohen
+Nur daß an Stelle des Prager Goldmachers in dem hohen
 Lehnstuhl der sauber gefesselte Hafen-Julius saß, während
 auf dem Tische nebenbei die zerschlissenen Gewänder und
 das Barett lagen, das der »echte« Spuk der Werftgasse zu
@@ -715,13 +715,13 @@ gemütlich.
 mich als »Gespenst« zeigen, — —  ich habe vor Angst Blut
 geschwitzt, als ich hörte, daß …«
 
-»Geschah dir nur recht, mein Sohn …« meinte Lißt etwas
+»Geschah dir nur recht, mein Sohn …«, meinte Lißt etwas
 zerstreut und wandte sich an Harald, der soeben aus einem
 Bücherregal einen uralten Schweinslederband herausgezogen
 hatte. »Harst, haben Sie noch Interesse für diese Alchimistenwerkstatt.
 Ich nicht. Ich denke, wir beehren schleunigst den anderen
 Herrn, der sicherlich mehr weiß als dieser kleine Gauner
-da …«.
+da …«
 
 Harald kehrte uns den Rücken zu und hielt das alte
 Buch in der rechten Hand, in der linken die Taschenlampe.
@@ -804,7 +804,7 @@ die mich doch magnetisch anzog. Ich verlor … ich mußte verlieren,
 denn mein wahres Ich war nie beim Spiel beteiligt. Das andere
 Ich, das fiebernd, angstvoll einen Gewinn erhoffte, gab
 diese Ströme des Nervenkitzels an mein Hirn ab, belebte
-es, füllte es auf mit neuen Gedanken. — Seltsam genug, --
+es, füllte es auf mit neuen Gedanken. — Seltsam genug, —
 die Verluste berührten mich nur insofern, als ich mein einziges
 Kind dadurch zu benachteiligen glaubte. Nach einem halben
 Jahr, etwa im November vorigen Jahres, war ich … ein Bettler,
@@ -832,7 +832,7 @@ und meinem grenzenlosen Erstaunen tat er eine Frage, die
 mit seinen früheren Ansichten über Lennartz wenig übereinstimmte.
 »Sie erfuhren so, Herr Doktor, daß Lennartz tatsächlich
 als wohlhabender Mann in seine Heimat zurückgekehrt sei,
-das jedoch sein Vermögen nicht in die Millionen ging, wie
+daß jedoch sein Vermögen nicht in die Millionen ging, wie
 er’s hier ausstreute?«
 
 Paverstiel war nicht weiter überrascht. »All das ist
@@ -872,10 +872,10 @@ Wut,« ergänzte Harald, indem er Paverstiel scharf fixierte.
 war derart außer sich, daß er …«
 
 »… das Buch sofort an sich riß und Sie für immer aus
-den Archivräumen verbannte …«, lächelte Harald mit eigentümlichen
+den Archivräumen verbannte …«, lächelte Harald mit eigentümlichem
 Flackern in den grauen Augen.
 
-Wieder nickte Paverstiel[ und zuckte mitleidig die
+Wieder nickte Paverstiel und zuckte mitleidig die
 Achseln. »Lehnert benahm sich wie ein ungehobelter Patron
 … Wir kennen uns seitdem nicht mehr.«
 
@@ -889,7 +889,7 @@ ein sehr harmloses Werkzeug der neuen Radmantelmänner wurden
 Sie kamen am Spukhause vorüber, die Tür ging auf, Ihnen
 flog etwas vor die Füße, und der »Geist« des Heyhästus stand
 in der Tür und krächzte Ihnen seine Instruktionen über die
-Zeitungsartikel zu, die Sie derart abfassen sollten, das
+Zeitungsartikel zu, die Sie derart abfassen sollten, daß
 letzten Endes die allgemeine Sympathie sich für Lennartz
 entschied.«
 
@@ -908,7 +908,7 @@ Gebäude wirkt eine unheimliche Macht, die vier Jahrhunderte
 Aufzeichnungen, die das Spukhaus betreffen, gelesen, und
 es befinden sich darunter Aussagen von Leuten, die unter
 Eid bekunden wollen, daß in jenem Hause irgend etwas … nicht
-leben, nicht sterben kann, das also der Prager Alchimist
+leben, nicht sterben kann, daß also der Prager Alchimist
 sich immer wieder zeigte. Die letzte dieser Aussagen liegt
 fünf Jahre zurück und stammt von Kommerzienrat Weyler, dem
 Vorbesitzer des Hauses. Ihm begegnete der Alchimist dreimal
@@ -938,8 +938,8 @@ Er zog Lißt in eine Ecke, das Flüstern dauerte jedoch eine
 geraume Weile, und wir, Paverstiel und ich sahen deutlich,
 daß der Inspektor mehrmals wie ungläubig den Kopf schüttelte.
 
-Als List dann gegangen war führte uns der Doktor in
-den zweiten Stock in die beiden nach hinten hinzugelegenen
+Als Lißt dann gegangen war führte uns der Doktor in
+den zweiten Stock in die beiden nach hinten hinaus gelegenen
 gemütlichen Fremdenzimmer, und bedankte sich mehrmals bei
 Harald für dessen gütiges Eintreten.
 
@@ -949,7 +949,7 @@ nach alter, schlechter Gewohnheit. Die Verbindungstür zwischen
 unseren Zimmern blieb offen, und grollend und fröstelnd
 kroch ich unter das Zudeck.
 
-Eins war mir ja klar: Das der Archivar Doktor Hugo
+Eins war mir ja klar: Daß der Archivar Doktor Hugo
 Lehnert ebenfalls ein »Bruder« oder womöglich der Siegelbewahrer
 sein mußte! Im übrigen jedoch stand ich vor einem allzu
 dichten schwarzen Vorhang, der mir Ziel und Zweck der Siegelbrüder
@@ -990,7 +990,7 @@ meine lieben Leser zu selbständigem Denken anzuregen, daß
 ich aber andrerseits nicht das Ziel im Auge habe, etwa am
 Schluß eines verwickelten Falles auch jene Punkte erläuternd
 zu erwähnen, die auch ein Durchschnittsverstand sich selbst
-erkläre kann, weil sich eben diese Erklärungen aus dem Gesamtbilde
+erklären kann, weil sich eben diese Erklärungen aus dem Gesamtbilde
 zwangsläufig ergeben. — Um hier nur als Beispiel einen vielleicht
 verzwickter liegenden Punkt herauszugreifen: Weshalb hatten
 die »Brüder« Harald nach dem raffinierten Attentat in der
@@ -1021,7 +1021,7 @@ schoß eine grelle Lichtflut empor, ein halb unterdrückter
 Schrei ertönte, und ich  sah den leichenhaften Magister
 Heyhästus unter Haralds eisernem Griff in die Knie sinken,
 ein Stoßdegen klirrte auf den Boden, — im Augenblick war
-ich drüben, und dann saß auch) schon der »Spuk« als hilfloses
+ich drüben, und dann saß auch schon der »Spuk« als hilfloses
 Bündel auf einem Stuhle, Harst öffnete das Fenster, stieß
 einen schrillen Pfiff aus, im Hause wurde es lebendig, die
 Tür flog auf, und der stämmige Lißt schob eine schlanke,
@@ -1042,7 +1042,7 @@ Verfolgung eines bestimmten Zieles und durch die schicksalsschwere
 Macht des Zufalls, der eine Flasche in der Nähe eines Buches
 umstürzen ließ.
 
-Nachdem wir alle Platz genommen hatten Gwenda, saß
+Nachdem wir alle Platz genommen hatten — Gwenda, saß
 wie eine versteinerte Sünderin da —, begann Harald ebenso
 knapp wie übersichtlich: »Die Familie Lennartz, die in älteren
 Generationen auch Lehnert hieß und beide Namen führen durfte,
@@ -1148,7 +1148,7 @@ war mir freilich neu. Doch der Name genügte mir, er war
 eines der beiden Schlußglieder in der Kette meiner Kombinationen,
 das zweite war Doktor Paverstiels Einreibemittel in der
 Flasche. — Magister Heyhästus’ Schatz wird wohl nie gefunden
-werden … Eine Eisenkiste bohrt sich von selbst in Jahrhundertealt
+werden … Eine Eisenkiste bohrt sich von selbst in Jahrhunderten
 viele Meter tief in den Flußboden ein … — Ich denke, wir
 gehen nun endlich wirklich zu Bett …«
 

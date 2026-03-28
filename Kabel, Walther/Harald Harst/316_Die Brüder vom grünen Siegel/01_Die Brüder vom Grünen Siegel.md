@@ -7,7 +7,7 @@
 Der kleine stämmige Matrose, der sich in dieser regnerischen
 kühlen Aprilnacht scheu wie ein Dieb hinter den verfaulten
 Überresten eines an Land geschleppten Lastprahmes zusammenduckte
-und angestrengt unter der speckigen Schiffermütze nach den
+und angestrengt unter der speckigen Schiffermütze nach dem
 abgewrackten Dreimaster hinüberspähte, war bereits eine
 Stunde hier am Mottlauufer unweit der Danziger Staatswerft
 auf seinem einsamen, ungemütlichen Posten und versuchte
@@ -76,7 +76,7 @@ als nicht abzuschüttelnder schwarzer Schatten behutsam,
 wachsam und unverdrossen her.
 
 Unter einer Laterne hatte ich ihn genauer betrachten
-können, und der erste Eindruck dieses in einem Pelerinenmantel
+können, und der erste Eindruck dieses in einen Pelerinenmantel
 gehüllten, katzengleich dahinschleichenden Menschen, den
 der Sturm zuweilen, wenn die Pelerine halb emporflog, zu
 einer garstigen Riesenfledermaus umzuformen beliebte, war
@@ -277,7 +277,7 @@ Und da erst kam ich so etwas zur Besinnung.
 »Ich möchte Herrn Lennartz unbedingt sofort sprechen.«
 
 »Jetzt mitten in der Nacht? — Wie begründen Sie dieses
-seltsame Ansinnen? Im übriger hat mein Vater Besuch.«
+seltsame Ansinnen? Im übrigen hat mein Vater Besuch.«
 
 »Besuch?!« — Ich wurde höflicher. »Dürfte ich fragen,
 wer der Gast ist?«
@@ -301,7 +301,7 @@ versperrt, umso mehr überraschte mich der fünfeckige, mit
 altdanziger Möbeln und Truhen geschmackvoll eingerichtete
 und durch eine schmiedeeiserne elektrische Krone taghell
 erleuchtete Raum, dessen Rückwand von einer breiten Treppe
-mit geschnitzten, tief nachgedunkelten Geländer gebildet
+mit geschnitztem, tief nachgedunkelten Geländer gebildet
 wurde. Nie im Leben hätte ich vermutet, daß dieser außen
 so baufällige Speicher, in Danzig als »das Spukhaus« bekannt,
 so kostbare Gegenstände bergen könnte und so völlig als
@@ -310,7 +310,7 @@ Straßen Danzigs, besonders in der Jopengasse, antrifft.
 
 Doch nicht genug hiermit: Als mich Fräulein Lennartz
 die Treppe emporgeführt und in ein großes Gemach eingelassen
-hatte, blieb ich an der schwelle wie versteinert stehen
+hatte, blieb ich an der Schwelle wie versteinert stehen
 und überflog das Zimmer mit geradezu ungläubigen Blicken.
 
 Es war die Studierstube eines Gelehrten verflossener
@@ -337,7 +337,7 @@ Eine brüchige, heisere Stimme lud mich zum Platznehmen
 ein, und eine weiße, schmale, feine Greisenhand deutete
 dabei auf einen zweiten Sessel, der durchaus nicht darauf
 zu warten schien, einen derart regentriefenden und schlammbedeckten
-Gast in seine weihen Tiefen aufzunehmen.
+Gast in seine weichen Tiefen aufzunehmen.
 
 Das Empfinden, in diese Umgebung so gar nicht hineinzupassen,
 verlor sich allerdings sehr schnell durch die weltmännische
@@ -361,12 +361,12 @@ abgefunden hatte.
 
 Der alte Herr schob mir eine Kiste Zigarren hin, füllte
 auch ein Weinglas für mich aus einer verstaubten, bastumsponnenen
-Flasche und trank uns mit einem belustigtem Augenzwinkern
+Flasche und trank uns mit einem belustigten Augenzwinkern
 zu. »Die Welt ist sehr schwer zufrieden zu stellen …«, sagte
 er, unvermittelt ein anderes Thema anschneidend. »Ich wollte
 gerade Ihrem Freunde, Herr Schraut, über mich und mein Leben
 Auskunft erteilen, damit nicht die gehässigen Veröffentlichungen
-des Herr Doktor Paverstiel Ihnen beiden etwa allzu … verlockend
+des Herrn Doktor Paverstiel Ihnen beiden etwa allzu … verlockend
 erscheinen, verlockend in Ihrem Sinne, Herr Harst. Wie gesagt,
 die Menschen bekritteln alles, und obwohl ich als geborener
 Danziger, der in Kanada in harter Arbeit reich geworden,
@@ -379,7 +379,7 @@ Um mich also ganz kurz zu fassen: Meine Familie war seit
 Reichtum schwand, und ich, der letzte Lennartz, ging mit
 zwanzig Jahren über den großen Teich, heiratete in Kanada,
 besaß weite Ländereien, Erzgruben und Fabriken und kehrte
-vor einem halben Jahr als müder sechziger, der nun lediglich
+vor einem halben Jahr als müder Sechziger, der nun lediglich
 seinen Familienstudien sich widmen wollte, in seine Vaterstadt
 zurück, kaufte dieses Haus, beließ ihm aus Pietät, da es
 einst die Brüderschaft vom Grünen Siegel beherbergt hatte,
@@ -397,7 +397,7 @@ Hals gehetzt haben. Er war’s, der im Danziger Kourier vier
 Artikel erscheinen ließ, die mich dem Gerede meiner Heimatstadt
 aussetzten, er entblödete sich nicht, hämisch anzudeuten,
 daß ich zweifellos die einstige Brüderschaft vom Grünen
-Siegel wieder neu ins Leben gerufen hätte, indem, er als
+Siegel wieder neu ins Leben gerufen hätte, indem er als
 einzigen Beweis dafür angab, in meinem Hause hier verkehrten
 nachts heimlich die »Radmantelmänner«, — so wurden einst
 die Brüder vom Grünen Siegel, übrigens tatsächlich eine
@@ -573,7 +573,7 @@ Inspektor Lißt nickte kurz. »Ich werde alles erfahren
 … Aber Sie …« — und mit schnellem Griff hatte er Paverstiels
 Notizbuch an sich gebracht — »werden vorläufig nicht eine
 Zeile von alledem in Ihrem Blatt veröffentlichen und ebensowenig
-darüber reden.: Sie kennen mich!!«
+darüber reden. Sie kennen mich!!«
 
 Der Doktor wurde dunkelrot, beherrschte sich jedoch
 und meinte nur etwas herausfordernd:
@@ -615,7 +615,7 @@ Brauen entschieden mißbilligend hochgezogen und klapperte
 überflüssig laut mit seinem Schlüsselbund. Seine klugen,
 ernsten Augen streiften des Kriminalinspektors vollblütiges
 Gesicht und glitten dann zu dem stillen Toten hin, der noch
-immer wie ein schlafender halb über dem Schreibtisch lag.
+immer wie ein Schlafender halb über dem Schreibtisch lag.
 »Es gehört Mut dazu,« meinte er warnend. »Ich will Ihnen
 meinen Rat nicht aufdrängen, Herr Harst … Aber dieses Gebäude
 genießt wirklich einen sehr schlechten Ruf von altersher,
@@ -661,7 +661,7 @@ ahnte ich sofort, worauf es dem Einsender ankam. Ich reiste
 »Kourier«, wer dieser »Pappenstiel« sei, besuchte ihn spät
 abends als Depeschenbote, vereinbarte schnell mit ihm die
 nächsten gemeinsamen Schritte, erschien am folgenden Tage
-in seinem Hause in der Jopengasse als sein Studienfreund,
+in seinem Hause in der Jopengasse als sein Studienfreund
 »Schmidt«, beobachtete fünf Nächte lang …«
 
 »… Verzeihung,« fiel Lißt gespannt ein, »hat Paverstiel
@@ -718,20 +718,20 @@ auf den Kopf.
 »Herr Kriminalinspektor, die Gwenda Lennartz ist uns
 entwischt …!«
 
-List verstand nicht sofort. »Was heißt das?! Entwischt?!«
+Lißt verstand nicht sofort. »Was heißt das?! Entwischt?!«
 
 Wachtmeister Kohrt hielt seine verletzte Hand empor.
 »Das Frauenzimmer hätte mich beinahe erstochen … Ich hatte
 den Doktor kaum hinausgelassen, als sie hinter mir aus der
 Haustür schlüpfte und die Straße emporrannte, sie lief wie
 gehetzt, und als ich sie packen wollte, griff ich nur in
-die haarscharfe: Klinge eines langen Dolchmessers. Ich schäme
+die haarscharfe Klinge eines langen Dolchmessers. Ich schäme
 mich, — — aber ich war so erschrocken, daß das Weib mir
 in der Dunkelheit entkam.«
 
 Lißt blickte Harst etwas hilflos an. »Das begreife
 ein anderer!! Das macht ja ganz den Eindruck, als ob Gwenda
-womöglich den Mord verübt hätte …! Mag, Lennartz mir auch
+womöglich den Mord verübt hätte …! Mag Lennartz mir auch
 sehr sympathisch gewesen sein, dieses bleiche wortkarge
 Mädchen mit den unheimlichen Rätselaugen hat mich stets
 geradezu abgestoßen, sie war ja auch nicht Lennartz’ leibliche
@@ -742,7 +742,7 @@ einen Angriffspunkt bieten … Hiermit hätten sich die Brüder
 vom Grünen Siegel die zweite Blöße gegeben.«
 
 Der Inspektor rief leicht gereizt: »Reden Sie doch
-nicht immer von den Brüdern vom Grünen Siegel! die sind
+nicht immer von den Brüdern vom Grünen Siegel! Die sind
 ja nur eine Pappenstiel’sche Erfindung!!«
 
 »Hm, glauben Sie?!« Harst schaute zu Lißt hinüber,
@@ -772,7 +772,7 @@ gegeben hätten. Die zweite …«
 
 Harst beugte sich vor und dämpfte die Stimme zum vorsichtigsten
 Flüstern. »Die erste, lieber Lißt, die erste Blöße gaben
-Sie sich, als Sie mich überfielen …«
+sie sich, als sie mich überfielen …«
 
 Der Inspektor ruckte hoch. »Ich denke, Sie sind gestolpert
 …«
@@ -801,13 +801,13 @@ ungläubig den Kopf schütteln.
 
 Harald schnippte die Zigarettenasche achtlos auf den
 Teppich und blickte den Inspektor nachdenklich an … »Und
-die zweite Blöße, lieber List, war Gwendas Flucht,« sagte
+die zweite Blöße, lieber Lißt, war Gwendas Flucht,« sagte
 er ebenso leise und ebenso bestimmt.
 
 »Hm — — inwiefern?«
 
 »Amtsschimmel …!«, murmelte Harst nachsichtig. »Überlegen
-Sie doch mal … Sie nehmen an, das Gwenda gemordet hat, weil
+Sie doch mal … Sie nehmen an, daß Gwenda gemordet hat, weil
 der Schnitt in Ihres tüchtigen Wachtmeisters Innenhand von
 einem zweischneidigen schmalen Dolchmesser herrührt und
 weil Lennartz’ Tod auf den sehr sicheren Gebrauch einer
@@ -926,7 +926,7 @@ zwei solcher haarfeiner Drähte hinter den Vorhang in die
 Nische und von dort — — wohin? Das müssen wir erst noch
 herausfinden. Jedenfalls ist erwiesen, daß diese Hörmuscheln
 lediglich den Zweck hatten, jedes Wort, das hier im Zimmer
-gesprochen wurde weiterzuleiten und das irgendwo hier im
+gesprochen wurde weiterzuleiten und daß irgendwo hier im
 Hause jemand saß, der Lennartz dauernd unter Kontrolle hielt
 und jedes Gespräch belauschte. Die technischen Einzelheiten
 kann ich mir schenken. Als der verkleidete Mörder dann den
@@ -1059,7 +1059,7 @@ Miene vor dem erwischten Mörder. — Es war der Mörder, Harald
 hatte ihm einen schmalen zweischneidigen Dolch abgenommen,
 und der Mann leugnete auch gar nicht, gab freilich auch
 nichts zu, sondern beharrte bei seinem verstockten, zwecklosen
-Schweigen, dem List nun freilich sehr rasch ein Ende machte,
+Schweigen, dem Lißt nun freilich sehr rasch ein Ende machte,
 indem er dem Gefangenen erst die Perücke und dann den sauber
 angeklebten Bart abriß. Schon hierdurch gewann unser Mann
 ein völlig verändertes Aussehen, und der leise Pfiff, den
@@ -1067,7 +1067,7 @@ der stämmige Inspektor nun ausstieß, war nur die Einleitung
 für die grollende Bemerkung:
 
 »Schau an, der Hafen-Julius!! Wir haben uns lange nicht
-gesehen, Julius Rinde, und für dich wär’s besser, du, hättest
+gesehen, Julius Rinde, und für dich wär’s besser, du hättest
 dich weiter mit deinen kleinen und großen Diebereien beschäftigt.
 Allerdings, deine letzten fünf Jahre Knast, von denen dir
 zwei durch unvernünftige Milde geschenkt wurden, hattest
@@ -1089,7 +1089,7 @@ Lennartz erstochen.«
 
 Harald, der dicht dabei im Sessel saß und den Dolch
 spielend durch die Finger zog, meinte überraschend freundlich:
-»Julius, man hat Sie böse hineingelegt … Das Sie der Mörder
+»Julius, man hat Sie böse hineingelegt … Daß Sie der Mörder
 nicht sein können, weiß ich sehr genau. Sie müssen dort
 in Ihrem Versteck Höllenqualen ausgestanden haben, als Sie
 undeutlich hörten, welche Wendung die Dinge hier genommen
@@ -1107,8 +1107,8 @@ Hafen-Julius, dem jetzt die Schweißperlen unter der
 Schminkschicht hervordrangen, bekam plötzlich ganz wilde,
 verstörte Augen. Man sah es ihm an, daß ihn die Furcht vor
 etwas uns Unbekanntem weit mehr peinigte als die Aussicht,
-niemals mehr aus den Zuchthausmauern hinaus zukommen. Seine
-halbirren Blicke glitten unstät durch die Zimmer, und als
+niemals mehr aus den Zuchthausmauern hinauszukommen. Seine
+halbirren Blicke glitten unstät durch das Zimmer, und als
 er sich schließlich zu einer Antwort bequemte, wurde es
 nur ein heiseres, abgerissenes Flüstern.
 
@@ -1136,7 +1136,7 @@ ein paar Schüssen?«
 Hafen-Julius lebend in Sicherheit bringen, und er wird aus
 Dankbarkeit und Klugheit nachher ehrlich beichten.«
 
-List überlegte kurz, rief dann Wachtmeister Kohrt herein
+Lißt überlegte kurz, rief dann Wachtmeister Kohrt herein
 und raunte ihm seine Befehle ins Ohr.
 
 Eine halbe Stunde später, als Kohrt zurückgekehrt war,
