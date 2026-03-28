@@ -667,7 +667,7 @@ Sie vielleicht häufiger in Ihrer Wohnung besucht?«
 »Er hat mir die Wohnung sogar besorgt, Herr Harst.
 Ja, er war einige Male bei mir.«
 
-»Und forschte er sie nicht über irgend etwas aus?«
+»Und forschte er Sie nicht über irgend etwas aus?«
 
 Magda überlegte. »Er sprach häufiger über Borneo«,
 erwiderte sie zögernd. »Er schien anzunehmen, daß mein Vater
