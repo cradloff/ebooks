@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">05774739-5051-4bf9-8f5c-35247d302908</entry>
+<entry key="title">Der Mann aus dem Erbbegräbnis</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">315</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Der Mann aus dem Erbbegräbnis
+
+… Der Bummelzug von München hatte sich mühsam durch neue Schneeschanzen bis zum bekannten Gebirgskurort Tölz hindurchgearbeitet, und als wir nun auf dem öden Bahnhof standen, schneite es noch immer. Ein Gepäckträger näherte sich uns und fragte gemütlich und nach Bier und Tabak duftend, ob wir Gepäck zu besorgen hätten.
+
+Harst, der bereits vergebens nach einem Diener des Schlosses Gilderburg sich umgeschaut hatte, mit dessen Anwesenheit wir rechnen durften, erwiderte dem Gepäckträger etwas verärgert:
+
+»Steht ein Schlitten der Gräfin Gilderburg draußen vor dem Bahnhof? Dann tragen Sie diese beiden Koffer zum Schlitten …«
+
+Der rotnasige Gepäckträger grinste plötzlich.
+
+»Wollen die Herren nach Gilderburg? Die Gräfin hat keinen Schlitten … Die Gräfin hat überhaupt nichts. — Und Besucher empfängt sie überhaupt niemals. Falls die Herren etwa der Gemäldegalerie wegen kommen, dann kehren Sie besser gleich wieder um. Wie gesagt: Die Gilderburger leben wie im Gefängnis, Herr, — die haben alle einen Sparren zu viel oder zu wenig im Kopf, und …«
+
+Sherlock Holmes aus Gilderburg
+
+»… Wenn man nicht verbauern will, muß man sich fortbilden und recht viel lesen,« sagte dieser merkwürdige Jugenderzieher mit leichtem Achselzucken. »In der Auswahl meiner Lektüre bin ich freilich wenig wählerisch gewesen, meine Herren.  Die endlosen Winterabende kann man nicht lediglich durch philosophische Schriften, durch sogenannte schwere Romane oder gar durch unsere Klassiker ausfüllen. Man mag mich ans Kreuz nageln, aber — — ich lese auch Detektivgeschichten, und viele von ihren Bändchen, Herr Schraut, haben einen stärkeren Eindruck bei mir hinterlassen, als preisgekrönte, vorläufig der Weltliteratur eingereichte moderne Bücher.  Wenn ich zum Beispiel an Ihr »Goldenes Gonggong« oder an ihre norwegischen Abenteuer denke: Sie erschlossen mir eine andere Welt, und ganz allmählich habe ich daher …« — er betrachtete sinnend die glimmende Spitze seiner Zigarre — »Gefallen daran gefunden, mich mit der Lösung theoretischer Aufgaben dieser Art zu befassen. Die Praxis begann für mich erst an dem Tage, als ich in meinem abseits des Dorfes an der Hauptstraße gelegenen Schulneubau vor zwei Monaten etwa den alten Georg mit einem verzweifelten Brief der Komteß Asta bei mir empfing. Aber, wie gesagt, selbst meine Versuche, die mysteriösen Vorfälle in Schloß Gilderburg irgendwie aufzuklären, sind Versuche geblieben, obwohl Georg mich mindestens zwölfmal heimlich nachts in das Schloß eingelassen hat.«
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (315) Der Mann aus dem Erbbegräbnis.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1931</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
