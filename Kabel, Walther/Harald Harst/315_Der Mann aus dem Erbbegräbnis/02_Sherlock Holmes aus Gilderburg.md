@@ -12,11 +12,11 @@ Die endlosen Winterabende kann man nicht lediglich durch
 philosophische Schriften, durch sogenannte schwere Romane
 oder gar durch unsere Klassiker ausfüllen. Man mag mich
 ans Kreuz nageln, aber — — ich lese auch Detektivgeschichten,
-und viele von ihren Bändchen, Herr Schraut, haben einen
+und viele von Ihren Bändchen, Herr Schraut, haben einen
 stärkeren Eindruck bei mir hinterlassen, als preisgekrönte,
 vorläufig der Weltliteratur eingereichte moderne Bücher.
 Wenn ich zum Beispiel an Ihr »Goldenes Gonggong« oder an
-ihre norwegischen Abenteuer denke: Sie erschlossen mir eine
+Ihre norwegischen Abenteuer denke: Sie erschlossen mir eine
 andere Welt, und ganz allmählich habe ich daher …« — er
 betrachtete sinnend die glimmende Spitze seiner Zigarre —
 »Gefallen daran gefunden, mich mit der Lösung theoretischer
@@ -43,8 +43,8 @@ begründet und wieder Platz genommen. Er trug einen derben
 Lodensportanzug, dazu ein zart gemustertes Oberhemd mit
 weichem Kragen und geschmackvoller Krawatte, in der eine
 Nadel mit einem eigentümlich geformten Opal mit alter Goldfassung
-stecke, sein Sportpelz lag nebenbei über einem Stuhl und
-sein ganzes äußeres war so tadellos gepflegt, daß jeder
+steckte, sein Sportpelz lag nebenbei über einem Stuhl und
+sein ganzes Äußeres war so tadellos gepflegt, daß jeder
 ihn für einen reichen Wintersportler gehalten hätte. Seine
 Gesichtszüge waren jedoch so außerordentlich ausdrucksvoll
 und verrieten soviel verhaltene Tatkraft, daß ein Menschenkenner
@@ -72,7 +72,7 @@ Leonie, kühl zurückgewiesen haben mochte.
 kommen will, muß man unbedingt die geringste Kleinigkeit
 beachten … Wir wissen, daß Graf Tassilo am 10. Juni den
 Besuch eines Asiaten empfing, daß er dessen Namen und Anliegen
-verschwieg und das sechs aus dem Staate Bhutan stammende
+verschwieg und daß sechs aus dem Staate Bhutan stammende
 Buddhafiguren später verschwundenen sind. — Wann, Graf Iwan?«
 
 Der finster vor sich hin brütende Graf schrak zusammen.
@@ -110,7 +110,7 @@ das stets der Torheit seiner Gegner gilt.
 »Ganz dumm ist der Bursche nicht … Er hat hier nämlich
 erst den Staub von den Stellen des schwarzgebeizten Eichenbrettes
 entfernt, wo er die Figuren aufbauen wollte. Allerdings
-sind ihm die Staubfreien Kreise schlecht geraten, er hat
+sind ihm die staubfreien Kreise schlecht geraten, er hat
 daneben gewischt, und man merkt die Absicht, wird jedoch
 nicht verstimmt. Seine Absicht war eben, den Eindruck hervorzurufen,
 als ständen die Statuen hier bereits längere Zeit, während
@@ -167,7 +167,7 @@ zu machen. Bücken Sie sich … Was sehen Sie? Das Parkett
 zeigt blinde Stellen, also Abdrücke von feuchten Sohlen,
 die längere Zeit dieselbe Stelle des Parketts belasteten
 und so die Wachsschicht erblinden ließen. Der Mann, der
-hier mit Schneefeuchten Stiefelsohlen stand, brauchte einige
+hier mit schneefeuchten Stiefelsohlen stand, brauchte einige
 Zeit dazu, die Figuren zu bestäuben, er tat dies ungeschickt,
 der Staub ist sehr unregelmäßig verteilt, und er war noch
 ungeschickter: Hier sehen Sie ein Häuflein Staub auf dem
@@ -177,7 +177,7 @@ sei mit dem Bohnern erst nachmittags fertig geworden, kann
 der Mörder erst heute vor kurzem die Buddhas zurückgebracht
 haben.«
 
-Peukert nickte begeistert. »Ich pflichte ihnen in allen
+Peukert nickte begeistert. »Ich pflichte Ihnen in allen
 Punkten bei, Herr Harst …«
 
 Aber Graf Iwan, der wieder die dunklen, düsteren Schwärmeraugen
@@ -218,12 +218,12 @@ erträglich.
 sich jetzt mit den Unterarmen auf die Rückenlehne seines
 Sessels gestützt hatte und unverwandt die Nische mit den
 schweren Brokatvorhängen anstarrte. »Und ich wundere mich
-eigentlich, Herr Peukert, daß Sie der sie doch offenbar
+eigentlich, Herr Peukert, daß Sie, der Sie doch offenbar
 Astas Aufzeichungen gelesen haben, nicht längst die drei
 Punkte von sich aus nachgeprüft haben. — Daß Graf Tassilo
 ermordet und tot ist, braucht man nicht zu bezweifeln, selbst
 wenn man, wie es der Tote tat, nur zu gern mit dem Gedanken
-spielte, es gäbt ein Fortleben in irdischer Gestalt auch
+spielte, es gäbe ein Fortleben in irdischer Gestalt auch
 nach dem Tode, sogar ein für andere irdische Geschöpfe *sichtbares*
 Fortleben — also als sichtbares Gespenst, als Geist. Erörterungen
 über diese Frage wollen wir uns schenken. Nehmen wir die
@@ -257,8 +257,8 @@ zu keinem Ergebnis.«
 mir damit so manche Mühe, und Punkt eins wäre vorläufig
 erledigt. — Nun weiter … Die schlechte Stimmung des Grafen
 Tassilo hielt bis zum 15. Juni an, wo der Rechtsanwalt Rautter
-im Schlosse eintraf, und der Graf sein Testament zu ihren
-und ihrer Schwester Gunsten, Graf Iwan, aus sich selbst
+im Schlosse eintraf, und der Graf sein Testament zu Ihren
+und Ihrer Schwester Gunsten, Graf Iwan, aus sich selbst
 heraus änderte. Komteß Asta schreibt, daß an diesem Abend
 das gemeinsame Essen *sehr vergnügt* verlief. — Ich frage
 Sie nun, meine Herren, und das ist überaus wichtig, worauf
@@ -274,7 +274,7 @@ Harst schloß eine Weile die Augen und schien angestrengt
 nachzudenken. Dann sagte er bedächtig:
 
 »Wir dürfen mithin unterstellen, daß am 15. mittags
-irgend etwas geschehen ist, wodurch ich Onkel, Graf Iwan,
+irgend etwas geschehen ist, wodurch Ihr Onkel, Graf Iwan,
 nicht nur seine gedrückte Stimmung verlor, sondern sich
 auch ganz plötzlich entschloß, sein Testament zu ändern.«
 
@@ -321,7 +321,7 @@ sich nur schäbige Wäschestücke und …, —« wieder zögerte Peukert:
 — »und … ein fremdartiges billiges Dolchmesser sowie eine
 Buddhastatue aus rötlichem Ton, der gebrannt war. Auf keinen
 Fall ist jedoch dieser Fremde mit dem Asiaten identisch,
-denn der Gast im Hotel zur Post war war dunkelhäutig, sprach
+denn der Gast im Hotel zur Post war zwar dunkelhäutig, sprach
 jedoch fließend deutsch, während der Asiate lediglich das
 Englische beherrschte, wie Georg bestätigen wird.«
 
@@ -348,7 +348,7 @@ noch eine Überraschung bereit habe.«
 
 Harst stutzte. »Schon bei Tisch? — Nun freilich, dies
 würde ja in meine Theorie sehr gut hineinpassen … — Und
-jetzt, Graf Iwan, die Hauptsache: Was haben Sie und ihre
+jetzt, Graf Iwan, die Hauptsache: Was haben Sie und Ihre
 Verwandten bisher über diese Überraschung gemutmaßt? Sie
 alle mußten sich doch sehr feierlich in der Bibliothek hier
 im Halbkreis niedersetzen.«
@@ -385,7 +385,7 @@ links Hans Peukert, den Kamin hatte er im Rücken. Er rieb
 langsam ein Zündhölzchen an, legte es unbenutzt wieder weg,
 rieb ein zweites an und setzte die Zigarette in Brand. Und
 dann bückte er sich jäh zu dem schwarzen Grafen hinab und
-sagte verdächtig scharfen Tones: »Wußten Sie, wo ihr Onkel
+sagte verdächtig scharfen Tones: »Wußten Sie, wo Ihr Onkel
 den Tresorschlüssel verbarg?«
 
 Hans Peukert, dem Harst jetzt die Aussicht auf Iwan
@@ -455,13 +455,13 @@ sah die dunkelbraune Sammetjacke, die über das ergraute
 Haar gezogene Wagnermütze, die gestreiften Beinkleider,
 den grauen Spitzbart und … unter dem Rande der Beinkleider
 ein Paar Füße, von hellbraun-seidenen Damenstrümpfen bekleidet,
-dazu, ein Paar gestickte rotlederne Morgenschuhchen.
+dazu ein Paar gestickte rotlederne Morgenschuhchen.
 
 Harst hatte dem Manne die Hände bereits mit seinem
 Taschentuch gefesselt. Er blickte auf, flüsterte hastig:
 »Schicke die Gräfin und Gisbert in den Mittelbau zurück,
 — ich befehle es, und schließe die Tür, damit niemand dieses
-seltsame Gespenst erkennt … — Komteß Leonie, liegen sie
+seltsame Gespenst erkennt … — Komteß Leonie, liegen Sie
 gefälligst still! Oder wünschen Sie, daß morgen abend die
 Zeitungen und der Rundfunk unter Allerneuestes Ihren Namen
 mit wenig schmeichelhaften Zusätzen bringen?!«
@@ -506,7 +506,7 @@ er überraschend freundlich. »Auch Sie hat der Kerl angeschrammt?!
 Mein Lieber, ich glaube, wir beide waren da auf einen Holzweg
 geraten, Sie haben mich im Verdacht gehabt, und ich wieder
 hielt Sie für Astas Helfershelfer, ich … Narr!! Verzeihen
-sie mir bitte, vertragen wir uns wieder, übrigens auch noch
+Sie mir bitte, vertragen wir uns wieder, übrigens auch noch
 nachträglich mein Beileid, Sie haben ja letztens Vater und
 Bruder durch das große Lawinenunglück bei Mittenwald verloren
 …« Als sie sich noch derb die Hände schüttelten, tat sich
@@ -518,7 +518,7 @@ und hier ist das Loch in der Schnitzerei, durch das der
 Kerl auf mich feuerte …«
 
 Graf Iwan, den seltsamerweise das kaum überstandene
-Abenteuer völlig verwandelt hatte rief humorvoll: »Seien
+Abenteuer völlig verwandelt hatte, rief humorvoll: »Seien
 Sie doch nicht so selbstsüchtig, Herr Harst …! Peukert und
 ich erheben genau wie Sie Anspruch darauf, für diesen miserablen
 Schützen Zielscheibe gespielt zu haben, und wir tun dies
@@ -534,8 +534,8 @@ in aller Offenheit und ohne jede Rücksichtnahme geschehen
 … Setzen wir uns …! Georg muß freilich mit dabei sein …
 Auf die Gegenwart der Frau Gräfin, Gisbert und der Komteß
 Leonie lege ich weniger Wert … Ah — da ist Georg ja schon
-… schließen Sie die Tür, verriegeln sie sie und nehmen Sie
-dort Platz … Die Geschichte hat ihren alten Beinen sicherlich
+… schließen Sie die Tür, verriegeln Sie sie und nehmen Sie
+dort Platz … Die Geschichte hat Ihren alten Beinen sicherlich
 geschadet. — So, wir wären alle beieinander … Die Tür nach
 dem Arbeitszimmer bleibt offen … Es ist wirklich niemand
 dort,« wandte er sich mit heimlichem Augenzwinkern an mich.
@@ -544,7 +544,7 @@ dort,« wandte er sich mit heimlichem Augenzwinkern an mich.
 
 Was hatte er derweil mit der Komteß Leonie getan?!
 
-Denn der Mann, der sich so verzweifelt gewehrt hatte
+Denn der Mann, der sich so verzweifelt gewehrt hatte,
 war bestimmt die schwarze Komteß, Iwans Schwester, gewesen.
 Die graue Perücke hatte sich samt der Wagnermütze verschoben
 gehabt, ich hatte das blauschwarze Haar des schmächtigen
@@ -588,7 +588,7 @@ indem er das Wort an den alten Diener richtete und fragte:
 
 »Sie sind, wenn auch ein Greis, so doch immer noch
 ein klarer Kopf, Georg. Sie haben Schraut und mir gegenüber
-schon angedeutet, daß Sie ihrem toten Herrn hier im Schlosse
+schon angedeutet, daß Sie Ihrem toten Herrn hier im Schlosse
 mehrfach begegneten …«
 
 Georg nickte etwas ängstlich, schwieg jedoch.
@@ -615,16 +615,16 @@ Wochen …«, murmelte er mehr für sich selbst. »Das heißt
 mir wenig in das Schlußbild hinein … Immerhin, — man muß
 dann den Dingen eine neue Deutung geben.«
 
-Die Anwesenden musterten ich etwas erstaunt. Sie waren
+Die Anwesenden musterten ihn etwas erstaunt. Sie waren
 mit seiner Eigenart noch zu wenig vertraut, um diesen Zustand
 völliger Selbstvergessenheit richtig einschätzen zu können.
 
-»Was sprach Ihr Herr zu ihnen?«, meinte er zu dem alten
+»Was sprach Ihr Herr zu Ihnen?«, meinte er zu dem alten
 Georg, sich sofort wieder der vorhin gestellten Frage erinnernd.
 
 Der alte Mann zitterte jetzt … »Er … er, mein Herr, …
 er streichelte … den … Hunden die Köpfe und … sagte … sagte
-…: »Schorschel, alter treuer Schorschel, Ihr habt mich immer
+…: »Schorschel, alter treuer Schorschel, ihr habt mich immer
 belächelt, wenn ich behauptete, es gäbe ein Fortleben nach
 dem Tode … Du siehst: Ich lebe! Und doch liege ich gleichzeitig
 in meinem Erbbegräbnis im Sarge — — eine Mumie … wirklich
@@ -640,7 +640,7 @@ in alledem nicht mehr zurecht …«
 
 Harald sagte mild: »Georg, nichts läuft wider die Natur.
 Für alles gibt es eine Erklärung. — Hören wir nun die anderen.
-Wer von ihnen wurde noch von dem Toten angesprochen?«
+Wer von Ihnen wurde noch von dem Toten angesprochen?«
 
 »Ich!« Asta Gilderburg packte die Armknäufe ihres Sessels,
 und ihr feines Gesicht entfärbte sich. »Ich!, — — vor etwa
@@ -681,7 +681,7 @@ geistere nachts durch das Schloß … Nun, dann sind der Mörder
 und Graf Tassilo ein und dieselbe Person, und es läge doch
 Selbstmord vor.«
 
-Graf Iwan erklärte ihm seiner stets so explosiven Art,
+Graf Iwan erklärte in seiner stets so explosiven Art,
 bevor Harald noch etwas erwidern konnte: »Wenn wir wirklich
 an übernatürliche Vorgänge glauben wollen, stünde zu dieser
 Annahme doch unbedingt das aggressive Verhalten meines Onkels,
@@ -695,7 +695,7 @@ das helle, langgezogene Jaulen einer der riesigen Schäferhunde.
 
 Dann erstarb das Heulen, und wir starrten uns mit schreckensbleichen
 Mienen an, in denen das Grauen der hervorstechendste Zug
-sein mochte. Und da, begriff ich plötzlich, daß die Schloßbewohner
+sein mochte. Und da begriff ich plötzlich, daß die Schloßbewohner
 seit Monaten ein Martyrium durchgemacht hatten, das wohl
 auch die stärksten Naturen vollends aus dem seelischen Gleichgewicht
 und in die vernichtenden Krallen irgend welcher Nervenreizmittel
@@ -754,9 +754,9 @@ belanglos …«
 »Glauben Sie?!« Harald faßte in die Tasche und brachte
 einen aus grauen Wollfäden sehr primitiv hergestellten falschen
 Spitzbart zum Vorschein. »Ich, Komteß, bin gerade entgegengesetzter
-Ansicht … Dieser Knäuel Wolle, den Ihr Vater sich von ihnen
+Ansicht … Dieser Knäuel Wolle, den Ihr Vater sich von Ihnen
 geben ließ, als Ihre Cousine Leonie dabei war, ist das Entscheidende
-… ich habe diesen falschen Bart vorhin bei Komteß Leonie
+… Ich habe diesen falschen Bart vorhin bei Komteß Leonie
 … gefunden, und …«
 
 Graf Iwan war emporgeflogen. Seine fahlen Züge drückten
@@ -772,7 +772,7 @@ zu Bett, Freund Peukert wird mit dem Diwan dort sich begnügen
 … Gute Nacht allerseits, schlafen Sie heute seit Monaten
 mit dem beruhigenden Gedanken ein, daß die Geheimnisse von
 Gilderburg keine Geheimnisse mehr sind und daß die Aufklärung
-Sie alle voll befriedigen, vielleicht sogar freudig Stimmen
+Sie alle voll befriedigen, vielleicht sogar freudig stimmen
 wird … Gute Nacht …«
 
 <h2>4. Kapitel.</h2>
@@ -797,7 +797,7 @@ weiter.
 
 »Gewiß. Aber zu einer Zeit, als ich noch nicht wußte,
 daß dieser wandelnde Tote sowohl Georg als auch Asta angesprochen
-hatte, — Überlegen Sie sich eins, lieber junger Freund,
+hatte. — Überlegen Sie sich eins, lieber junger Freund,
 der Sie gern mir ein wenig Konkurrenz machen möchten. Der
 tote Graf Tassilo, der hier umhergeistert, der jeden Monat
 den seinen Geld zuwirft, ist bis zu einem bestimmten Zeitpunkt
@@ -816,10 +816,10 @@ gerade Sie mit seinen Pistolenkugeln? Haben Sie darüber
 nie nachgedacht? Dieser maskierte, äußerst raffinierte Geselle
 hätte doch auch andere niederknallen können, etwa Komteß
 Asta. — Erschrecken Sie nicht … Er hat es ja nicht getan,
-dazu ist der Kerl viel zu schlau. Da? Sie im Schlosse umhergingen,
+dazu ist der Kerl viel zu schlau. Daß Sie im Schlosse umhergingen,
 störte ihn, er fürchtete Sie eben, und hätte er Sie verwundet,
 hätte er Sie einfach für immer verschwinden lassen. Das
-konnte er wohl bei ihnen wagen, der Sie heimlich das Schloß
+konnte er wohl bei Ihnen wagen, der Sie heimlich das Schloß
 betraten, jedoch nicht bei Komteß Asta, deren Verschwinden
 zur Nachtzeit sofort polizeiliche Untersuchung zur Folge
 gehabt hätte. — Sind Sie mir bis hierher gefolgt? Nun gut
@@ -857,7 +857,7 @@ Rautter riet natürlich energisch ab.«
 »Das … stimmt,« murmelte Peukert noch ganz benommen.
 
 »Nun also … — Sie aber, der Sie um Asta besorgt waren,
-beharrten bei ihrem Vorhaben, Asta schrieb an mich, vorher
+beharrten bei Ihrem Vorhaben, Asta schrieb an mich, vorher
 schon ließ Rautter uns in Berlin überwachen, was jede Winkeldetektei
 für gutes Geld tut, der Spion telegraphierte Rautter, daß
 wir nach München unterwegs seien, und Herr Justus Rautter
@@ -891,7 +891,7 @@ wirklich nicht … Obwohl …« — er zögerte— »obwohl der Mann
 für meinen Geschmack stets zu gemessen, zu wortkarg und
 zu beherrscht sich zeigt. Nach dem Mordfall am 15. Juni
 wurde er ja als einer der ersten herbeigerufen, und Asta
-erzählte mir beiläufig, das er nicht sofort telefonisch
+erzählte mir beiläufig, daß er nicht sofort telefonisch
 zu erreichen gewesen wäre, trotzdem er doch — das fällt
 mir jetzt auf — längst mit seinem schnellen Auto hätte in
 München sein müssen, er braucht ja nur eine knappe Stunde
@@ -932,7 +932,7 @@ Versuch unternehmen wird, gerade uns drei für immer stumm
 zu machen, so genau weiß ich auch, daß der Mann sich … blamieren
 wird.«
 
-Was zu unserer Sicherheit zu tun war, ließ sich im
+Was zu unserer Sicherheit zu tun war, ließ sich in
 kurzem erledigen, in der großen Bibliothek erlosch das Licht,
 und nur drüben im Arbeitszimmer herrschte ungewisse Dämmerung
 und hier bei uns fiel aus dem Kamin ein breiter rötlicher
@@ -1030,7 +1030,7 @@ Gefangenen wie eine Strohpuppe aufrecht. »Ich muß ja unser
 großes Bauerngut übernehmen, nachdem mein Vater und mein
 Bruder verunglückt sind.« Dann jedoch fuhr er Rautter scharf
 und empört an: »Wen haben Sie nun eigentlich erschossen,
-sie erbarmungslose Bestie, der so gern auch die ganze Familie
+Sie erbarmungslose Bestie, der so gern auch die ganze Familie
 ausgerottet hätte?!«
 
 Justus Rautter stierte uns aus schwer fieberig glänzenden
@@ -1043,7 +1043,7 @@ den alten Georg.
 
 Rautters glänzende Augen blieben auf Harst haften.
 
-»Die … Geschichte hier wird ihren fragwürdigen Ruf
+»Die … Geschichte hier wird Ihren fragwürdigen Ruf
 kaum bessern …«, meinte er mit klappernden Zähnen. — Er
 mußte bis ins Mark in der eisigen Kälte oben erstarrt sein
 … »Es war meine Pflicht als Anwalt, diesem Gespensterunfug
@@ -1054,7 +1054,7 @@ Harst schob Rautter rasch vor sich her zum warmen Kamin.
 »Komteß Leonie,« sagte er ohne jede Schärfe, »hat mir vorhin
 eingestanden, daß Sie sie zu umgarnen wußten. Ich habe ihr
 die Augen über Sie als Verbündeten geöffnet, und sie hat
-sich mit Abscheu und Entsetzen von ihnen abgewandt.« Er
+sich mit Abscheu und Entsetzen von Ihnen abgewandt.« Er
 drückte Rautter in einen Sessel. »Peukert, holen Sie die
 gräfliche Familie herbei und auch den alten Georg … ich
 will hier in der Bibliothek, wo Graf Tassillo starb, den
@@ -1071,7 +1071,7 @@ die fünf Gilderburgs und der alte Georg um uns einen Halbkreis
 — wie einst vor sechs Monaten, als Graf Tassilo den Seinen
 die große Überraschung verheißen hatte.
 
-Harald, wieder hinter seinen Sessel stehend, erklärte
+Harald, wieder hinter seinem Sessel stehend, erklärte
 in knappster Form: »Die Aufgabe hier bot mancherlei Schwierigkeiten,
 zumal das Moment des Übersinnlichen hinzutrat und die Beteiligen
 mir erst in einem späteren Stadium des Falles gewisse Fingerzeige
@@ -1115,7 +1115,7 @@ von Grauen geschüttelt im Sessel hockte, fest an.
 »Rautter,« sagte er eindringlich, »es muß für Sie ein
 furchtbarer Augenblick gewesen sein, als Sie vor dem Tresor
 in der Finsternis mit einem anderen Manne zusammenprallten
-… Immerhin waren Sie doch noch so weit Herr ihrer Nerven,
+… Immerhin waren Sie doch noch so weit Herr Ihrer Nerven,
 sofort zu flüchten und so still zu entwischen, daß dieser
 Andere nicht ahnte, wen er vor sich gehabt hatte. Aus einer
 irrigen Annahme des Fremden, dem Graf Tassilo vorher mit
@@ -1136,7 +1136,7 @@ Wieder schwieg Harald für Sekunden, und wieder schaute
 er Rautter mit eigentümlich mildem Blick jetzt an. »Justus
 Rautter, für Sie muß es eine seelische Katastrophe bedeutet
 haben, als Sie hörten und sahen, daß der Tresor leer war,
-das ein anderer die Wertpapiere, das Bargeld und die Verzeichnisse
+daß ein anderer die Wertpapiere, das Bargeld und die Verzeichnisse
 geraubt hatte. Sie waren der Mörder, — — aber die Beute
 besaß der Fremde, und dieser Mann spielte den Grafen Tassilo,
 geisterte durch die Flure, warf Banknoten in den Kuppelsaal,
@@ -1144,7 +1144,7 @@ geisterte durch die Flure, warf Banknoten in den Kuppelsaal,
 als Sie sich schließlich nachts in das Schloß wagten, um
 diesen unheimlichen Geist zu stellen und … zu beseitigen.
 Komteß Leonie gewannen Sie sich als Helferin, — viel half
-Sie ihnen nicht, und doch gelang es ihnen endlich, anfangs
+sie Ihnen nicht, und doch gelang es Ihnen endlich, anfangs
 Januar das »Gespenst« zu erwischen und … vielleicht zu töten,
 — — das weiß ich noch nicht genau. Jedenfalls spielten Sie
 von da ab den Grafen Tassilo, feuerten auf Peukert, rieten
@@ -1154,7 +1154,7 @@ hinzuweisen …«
 
 Rautter, dessen Gesicht jetzt tief gerötet war, und
 der doch noch immer von Frostschauern geschüttelt wurde,
-stieß kaum verständlich hervor: »Ich … ich … habe … ich
+stieß kaum verständlich hervor: »Ich … ich … habe … ihn
 … nur niedergeschlagen … und eingesperrt … Er … lebt …,
 er befindet sich …«
 
@@ -1162,7 +1162,7 @@ er befindet sich …«
 Spuren dort verrieten mir das Vorhandensein dieses noch
 tiefer in den Berg hineingebauten Raumes … — Bitte, wir
 wollen uns nun dorthin begeben … Sie auch, Rautter … Sie
-hätten ihren Gefangenen wohl kaum am Leben gelassen, wenn
+hätten Ihren Gefangenen wohl kaum am Leben gelassen, wenn
 er so töricht gewesen wäre, Ihnen das Versteck der Wertpapiere
 zu verraten. Nur dies hielt Sie davon ab, nicht auch den
 zweiten Mord zu begehen … — Brechen wir auf … Dieser Fremde
@@ -1179,9 +1179,9 @@ einem hohlwangigen, verwildert aussehenden Mann zurück,
 den er stützen mußte, so elend und matt war der Ärmste.
 
 »… Hier,« sagte Harst freudig, »gebe ich Ihnen, Graf
-Iwan und Komteß Leonie, ihren totgeglaubten, angeblich von
+Iwan und Komteß Leonie, Ihren totgeglaubten, angeblich von
 den Revolutionären erschossenen Vater, den Zwillingsbruder
-des Grafen Tassilo zurück …! Graf Tassilo wollte ihnen eine
+des Grafen Tassilo zurück …! Graf Tassilo wollte Ihnen eine
 »Überraschung« in der Weise bereiten, daß er seinen aus
 Sibirien geflüchteten und noch immer verfolgten Bruder als
 sein Ebenbild vorstellte … Dieser Gedanke entsprach seiner

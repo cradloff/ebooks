@@ -55,7 +55,7 @@ Pelzmütze und langem Fahrpelz hinausgegangen, kannten Sie
 den Mann?«
 
 Der Beamte verneinte. »Er kam von München … Hier ist
-noch seine Fahrkarte. Nein, ich kannte ich nicht.«
+noch seine Fahrkarte. Nein, ich kannte ihn nicht.«
 
 Harst wandte sich um und flüsterte mir zu: »Er nahm
 also das Messingschild von der Mütze, es war kein Gepäckträger.
@@ -123,7 +123,7 @@ Sie sind Komteß Asta. Mein Name ist Harst, dies hier ist
 mein allzu schreibwütiger Freund Schraut.«
 
 Worauf sie kühl erklärte: »Falls meine Mutter sich
-wirklich mit ihnen in Verbindung gesetzt haben sollte, Herr
+wirklich mit Ihnen in Verbindung gesetzt haben sollte, Herr
 Harst, dürfen Sie einem Briefe oder einer sonstwie gearteten
 Aufforderung von ihr keinerlei Bedeutung beimessen, da meine
 Mutter leider seit einem halben Jahr in tiefste Schwermut
@@ -157,7 +157,7 @@ schlanke Mädchengestalt und blieb in Hüfthöhe auf den Taschen
 des Sportpelzes haften — »also die andere Seite, Komteß,
 Sie tragen die Kneifzange noch in der linken Tasche bei
 sich. — Sie werden also nach alledem gestatten, daß ich
-unbedingt darauf bestehe, ihre Frau Mutter zu sehen … Bei
+unbedingt darauf bestehe, Ihre Frau Mutter zu sehen … Bei
 weiteren Hindernissen, die mir hier irgendwie in den Weg
 gelegt würden, wäre ich gezwungen, mich an die Polizei zu
 wenden, da ich über genügend Material verfüge, das die Annahme
@@ -187,14 +187,14 @@ Die Komteß Asta zog einen schmalen, langen Patentschlüssel
 aus der Brusttasche ihres Pelzes und bemerkte gleichgültig:
 »Unser Erbbegräbnis … Sie werden sich vor Särgen und Toten
 wohl kaum fürchten, meine Herren.« Der spöttische Ton gelang
-ich sehr schlecht, und die Hand die den Schlüssel in das
-Schlüsselloch, führte, zitterte so stark, daß kaum die
+ihr sehr schlecht, und die Hand die den Schlüssel in das
+Schlüsselloch führte, zitterte so stark, daß kaum die
 Kälte und der eisige Schneesturm daran schuld sein konnten.
 
 Asta Gilderburg öffnete den einen Flügel, ließ uns
 eintreten, schaltete eine mattbunte Ampel ein, schloß die
 Tür wieder, schob den Schlüssel von innen in das Schlüsselloch
-und drehte ich herum.
+und drehte ihn herum.
 
 Eine fremde Hand nahm ihr plötzlich den Schlüssel ab.
 »Ich halte es für richtiger, Komteß, daß ich uns den Rückzug
@@ -312,18 +312,18 @@ dürfte.« Er beugte sich näher zu dem blonden Mädchen hin
 und nickte ihr freundlich zu. »Komteß, Sie werden jetzt
 alle Bedenken energisch bei Seite schieben und uns ehrlich
 berichten, was hier auf Schloß Gilderburg eigentlich vorgeht.
-Ich vermute, daß nicht ihre Frau Mutter, sondern Sie selbst
+Ich vermute, daß nicht Ihre Frau Mutter, sondern Sie selbst
 den Brief an mich geschrieben haben. Mutter und Tochter
 haben sehr oft fast genau dieselbe Handschrift, und nach
-einigen Probeübungen dürfte es ihnen nicht schwer geworden
-sein, auch die besonderen Merkmale der Schrift ihrer Mutter
+einigen Probeübungen dürfte es Ihnen nicht schwer geworden
+sein, auch die besonderen Merkmale der Schrift Ihrer Mutter
 nachzuahmen. Ich vermute weiter, daß Sie diesen Brief in
 der bewußten Absicht anfertigten und absandten, gewisse
-dunkle Umstände zu klären, die einmal mit dem Tode ihres
+dunkle Umstände zu klären, die einmal mit dem Tode Ihres
 Vaters verknüpft, dann aber auch nach dem Todesfall — ich
 spreche absichtlich nicht von Selbstmord — eingetreten sind.
 Sie werden zugeben müssen, daß Sie uns erwartet haben, daß
-Sie absichtlich in dem Briefe schrieben, ich sollte ihnen
+Sie absichtlich in dem Briefe schrieben, ich sollte Ihnen
 nicht antworten, ein Schlitten würde uns heute am 20. Januar
 nachmittags halb fünf von der Bahnstation Tölz abholen.
 Der Schlitten war nicht da, ich hatte auch auf den Brief
@@ -369,16 +369,16 @@ Das Mädchen erholte sich wieder.
 Sie vollkommen ins Vertrauen ziehen wollte. Jetzt hege ich
 keine Bedenken mehr … Georg erwartet uns an der Tür des
 Ostturmes … Bitte, beeilen wir uns … ich fürchte, die anderen
-werden mir bereits nachspionieren, — nehmen Sie ihre Koffer,
+werden mir bereits nachspionieren, — nehmen Sie Ihre Koffer,
 wir müssen auf Umwegen zum Ostflügel des Schlosses … Dort
 ist ein Zimmer für Sie bereit — das einzige, das keiner
-von uns zu betreten wagt … Dort sind sie sicher, Georg hat
+von uns zu betreten wagt … Dort sind Sie sicher, Georg hat
 alles vorbereitet, Sie können dort in der Bibliothek wochenlang
 unbemerkt hausen … Kommen Sie … Der Geruch hier macht mich
 krank … Mein Vater liebte Ostasien und die Himalayaländer
 über alles, ich … hasse sie, ich hasse jeden Asiaten, denn
 ich bin überzeugt, nur Asien ist schuld an diesem Unheil
-… Georg wird Sie einweihen … schnell, — ihre Koffer … Man
+… Georg wird Sie einweihen … schnell, — Ihre Koffer … Man
 wird mich sonst vermissen.«
 
 Ein hagerer Greis in fleckiger Livree, aus dessen von
@@ -435,7 +435,7 @@ seines toten Herrn, die seit Jahren in Gilderburg eine neue
 Heimat gefunden hatten, sehr wenig übrig hatte.
 
 Harst schob seinen Teller zurück, faltete seine Serviette
-zusammen und griff nach einer Zigarette. »Setzen sie sich
+zusammen und griff nach einer Zigarette. »Setzen Sie sich
 jetzt zu uns, Georg. Sie sagten vorhin, daß die Herrschaften
 stets erst um halb zehn zu Abend speisen. Sie haben also
 wohl noch Zeit, uns zunächst einmal genau zu schildern,
@@ -539,7 +539,7 @@ Ich sah, wie Harst vorwärtsschoß, wie urplötzlich von
 der Decke schwere, bisher in Falten geraffte Friesvorhänge
 herabrauschten, hörte die Messingringe der Vorhänge klirren
 und einen seltsamen anderen Ton, der etwa an das knisternde
-Reisen von Leinenstoff erinnerte, — — Harst schnellte zur
+Reißen von Leinenstoff erinnerte, — — Harst schnellte zur
 Seite, riß die Vorhänge auseinander …
 
 Der Schreibsessel war leer …
@@ -572,7 +572,7 @@ unterdrückte jedoch eine Erwiderung und folgte meinem Freunde,
 der nach kurzer Umschau über den Schreibtisch und den Erker
 die Bibliothek wieder betrat.
 
-Harst Schloß die Tür, sperrte sie mit dem Schlüssel
+Harst schloß die Tür, sperrte sie mit dem Schlüssel
 ab, den er stecken ließ, und rückte ein starkes Tischchen
 unter die Flurtür, über der die Glocke hinter einer innen
 hohlen Totenmaske Richard Wagners hing, während zu beiden
@@ -650,7 +650,7 @@ Vater erschossen wurde, so zu schildern, wie sie sich tatsächlich
 abgespielt haben.
 
 Ich will damit beginnen, daß der 15. Juni uns schwere
-Gewitter brachte und das auch jetzt wieder der Regen unaufhörlich
+Gewitter brachte und daß auch jetzt wieder der Regen unaufhörlich
 gegen die Fenster trommelt. — Für diesen Tag hatte mein
 Vater Graf Tassilo unseren Familienanwalt Dr. Justus Rautter
 ins Schloß beordert, um in seinem Testament gewisse Bestimmungen
@@ -732,7 +732,7 @@ als Sonderling bekannt, der völlig in seinen Studien über
 die Geheimlehren der Schamanen aufging. Sein einziges gedrucktes
 Werk behandelt die irdische Lösbarkeit der Seele vom Körper
 und die uralten Überlieferungen aus den Himalayastaaten,
-als geläutertes ich selbst nach dem Tode irdisch weiterzuleben.
+als geläutertes Ich selbst nach dem Tode irdisch weiterzuleben.
 
 Bereits am Tage darauf stellte sich unter uns fünf
 letzten der Familie Gilderburg eine leise Entfremdung ein.
@@ -850,7 +850,7 @@ auf den Teppich warf, und dann ebenso lautlos wieder verschwand.
 Ich habe jetzt nach Stunden, wo ich dies schreibe,
 die schwere Nervenkrise überwunden. — In dem Päckchen befanden
 sich dreitausend Mark in deutschen Scheinen, gerade genug,
-das wir einen Monat davon leben konnten — — nach unseren
+daß wir einen Monat davon leben konnten — — nach unseren
 bisherigen Ansprüchen. —
 
 *Nachschrift am 21. Dezember:* Bisher ist mein Vater
@@ -940,8 +940,8 @@ Gesicht ein Paar allzulebendiger Augen wie schwarze blanke
 Steine funkelten, vereinigte sich jetzt mit Gisberts abscheulichem
 Kichern, der in einem zerknüllten Smoking und mit schiefer
 Krawatte und genialer Künstlermähne auf einem Tischchen
-saß und die Beine schlenkern ließ, so das unter den Beinkleidern
-die herabgerutschten Seidensocken der eine hell, der andere
+saß und die Beine schlenkern ließ, so daß unter den Beinkleidern
+die herabgerutschten Seidensocken, der eine hell, der andere
 gestreift, zu sehen kamen.
 
 »Asta, das Tölpelbräutchen!?«, höhnte Leonie …
@@ -997,7 +997,7 @@ mir meine Ruhe, ihr … Narren …«
 
 Die Galerie lag kaum vier Meter über dem Saalboden,
 und daß Harst jetzt von der Brüstung wie ein Pfeil auf eines
-der Seidensofas sprang, das diese unter ihm zusammenkrachte,
+der Seidensofas sprang, daß diese unter ihm zusammenkrachte,
 daß er trotzdem blitzartig weiter zur Tür flog, — — kein
 Wunder, daß ein einziger keifender schriller Schrei sein
 Auftauchen begrüßte …
@@ -1029,8 +1029,8 @@ zu treffen. Bleibe ich hier im Schlosse, so verlange ich,
 daß Sie alle sich bedingungslos meinen Anordnungen fügen
 — — bedingungslos, was es auch sei! Ich warne Sie. Es bietet
 sich Ihnen hier noch eine Chance, diese unwürdigen Zustände
-und ihren eigenen moralischen Tiefstand vor der Öffentlichkeit
-zu verbergen. Ich gewähre ihnen fünf Minuten Zeit, sich
+und Ihren eigenen moralischen Tiefstand vor der Öffentlichkeit
+zu verbergen. Ich gewähre Ihnen fünf Minuten Zeit, sich
 zu beraten. — Schraut, komm’ herab … Die Treppe liegt dort
 in der Ecke … Es schadet nichts, wenn du wie ich für alle
 Fälle die Pistole bereithältst.«
@@ -1051,14 +1051,14 @@ und sein erleichterndes Aufatmen:
 »Gott sei Dank, — — Harst …!! — Herr Harst, der Brief
 an Sie ist bereits fertig, morgen hätte ich ihn abgeschickt
 … Sie können ihn nachher sehen — Tante Barbara,« wandte
-er sich an die hagere Gräfin, »ich Stimme dafür, daß Herr
+er sich an die hagere Gräfin, »ich stimme dafür, daß Herr
 Harst und sein Freund hier ganz nach Gefallen schalten und
 walten können. Weigert ihr anderen euch, so verlasse ich
 mit den beiden Herren das Schloß.«
 
 Die erstarrten Puppen erwachten. Es war sehr charakteristisch,
 daß die Komteß Leonie mit albernem Hochmut sofort erklärte:
-»Harst?! Wer ist das?! — Tante, wir habe mit bürgerlichen
+»Harst?! Wer ist das?! — Tante, wir haben mit bürgerlichen
 Domestiken und ähnlichen Leuten schon genügend üble Erfahrungen
 gemacht …«
 
@@ -1077,7 +1077,7 @@ Munde gehört habe,« rief Asta etwas allzu ehrlich. —
 
 Gleich darauf war der Kuppelsaal leer. Harsts Befehle
 hatten dahin gelautet, daß der Mittelbau des Schlosses den
-Bewohnern wie bisher zur freien Verfügung stände, das jedoch
+Bewohnern wie bisher zur freien Verfügung stände, daß jedoch
 niemand das Schloß verlassen dürfe, selbst der Park sei
 verbotenes Gebiet.
 
@@ -1086,7 +1086,7 @@ zu erzwingen: »Ich mache Sie darauf aufmerksam, daß Ihr
 aller Leben sehr ernstlich bedroht ist. Nicht etwa, daß
 einer von Ihnen fünf irgendwie einen Anschlag verüben könnte,
 — nein, das würde ich zu verhindern wissen. Aber gegen die
-Todesgefahr von außen sind sie nur geschützt, wenn Sie hier
+Todesgefahr von außen sind Sie nur geschützt, wenn Sie hier
 im Mittelbau bleiben, untereinander Frieden halten und aufeinander
 als gegenseitige Wächter scharf achtgeben.«
 
