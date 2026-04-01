@@ -23,7 +23,7 @@ all den herrlichen Dingen Kenntnis nehmen, die
 das Schicksal denjenigen offenbart, die »Abseits vom
 Alltagswege« gehen.
 
-Die Bändchen: <div style="font-weight: bold;">»Abelsen, Abseits vom Alltagswege«</div>
+Die Bändchen: <span style="font-weight: bold;">»Abelsen, Abseits vom Alltagswege«</span>
 sind durch jede Zeitschriftenhandlung zu
 beziehen. Man erhält dieselben auch gegen Voreinsendung
 von 50 Pfg. für einen Band portofrei vom
