@@ -1,4 +1,3 @@
-<@pagebreak 65/>
 
 <div style="font-size: large; text-align: center;">Titel-Verzeichnis der Harald Harst-Bändchen.</div>
 

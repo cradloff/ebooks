@@ -64,7 +64,7 @@ Harst, der sich vorhin mit dem jungen sympathischen
 Amerikaner, mit dem wir von ungefähr ins Gespräch gekommen
 waren, sehr eifrig über die Fangmethoden der Newyorker Detektivpolizei
 unterhalten hatte, da Mr. Allan Gorrisson ein Neffe des
-dortigen Polizeichefs was, wie er beiläufig erwähnt hatte,
+dortigen Polizeichefs war, wie er beiläufig erwähnt hatte,
 bezeigte für den ebenso eigenartigen wie tragikomischen
 Zwischenfall wenig Interesse und war ganz einverstandenen
 damit, das Lokal zu verlassen, das er ohnedies nur mir zu
@@ -79,7 +79,7 @@ herzlichem Dank an, zumal der bescheidene junge Mann ebenso
 beiläufig eingestreut hatte, er spiele zur Zeit den Hausherrn
 und Hüter der Villa des intimsten Freundes seines Vaters,
 des amerikanischen Botschafters Theodor Walby, und es würde
-ihm ein ganz besonderes Vergnügen sein, betonte er mit knabenhaften
+ihm ein ganz besonderes Vergnügen sein, betonte er mit knabenhaftem
 Eifer, gerade uns beiden Mr. Walbys berühmte und sonst so
 schwer zugängliche Gemäldesammlung zu zeigen.
 
@@ -230,7 +230,7 @@ gebracht hat.«
 Harald war jetzt mit einem Schlage wie umgewandelt.
 
 »Junger Freund, ich glaube, Sie sind ein halber Kollege
-von uns,« meinte er voller Eifer. »Erzahlen Sie … Waren
+von uns,« meinte er voller Eifer. »Erzählen Sie … Waren
 Sie denn mit dabei, als der Lord  seine dreißigtausend Pfund
 einbüßte?«
 
@@ -326,7 +326,7 @@ Harst hatte sich mit einem Ruck aufgerichtet.
 ist tot, und die Köchin hat Schreikrämpfe,« erwiderte der
 Polizeioffizier mit einem drohenden Blick, der uns beiden
 galt. »Ich mache Sie im übrigen darauf aufmerksam, daß Ihre
-Lage außerordentlich peinlich ist und das …«
+Lage außerordentlich peinlich ist und daß …«
 
 »Das weiß ich schon selbst. — Also bitte … Uns für
 Mörder und Diebe zu halten, wäre wirklich verfehlt, und
@@ -401,7 +401,7 @@ ist Geschäftsgeheimnis. Jedenfalls wurde es Bettlink in
 London ungemütlich, da ich die Beweise für seine verbrecherische
 Geldgier mit sicher gestellt hatte, und er verduftete nach
 Berlin. Die Londoner Behörden haben die Beweise in Händen,
-schweigen jedoch, da es in der englischem Aristokratie ohnehin
+schweigen jedoch, da es in der englischen Aristokratie ohnehin
 bereits übel genug duftet. Mein nächstes Engagement führte
 mich in die »Fata Morgana« nach Berlin, wo ich gestern Sonnabend
 zum letzten Male auftrat — mit glänzendem Erfolg, wie Herr
@@ -415,7 +415,7 @@ Sparer und Einleger seiner Schwindelgesellschaft schwer
 schädigen wollte und den Entschluß gefaßt hatte, mit Melitta
 in dieser Nacht vom Sonnabend zum Sonntag endgültig unter
 gänzlicher Ausplünderung der Kassen der Spar-Gesellschaft
-ins Auslands zu verschwinden. Infolgedessen forderte es
+ins Ausland zu verschwinden. Infolgedessen forderte es
 mein stark ausgeprägter Gerechtigkeitssinn, diese Flucht
 zu verhindern. Nachdem ich alle Vorbereitungen getroffen
 und seinem Personal, das er beurlaubt hatte, noch schnell
@@ -459,7 +459,7 @@ und Schraut in Zangenhorts Fordwagen nach der Heerstraße
 (in dieser Limousine hatte er mit Melitta flüchten wollen,
 der Riesenkoffer hinten ist voll gepackt), wir tranken bei
 Zangenhort Mokka, meine beiden Gäste glaubten mir meine
-erfundenen Geschichten, nun ich fand, als sie schliefen
+erfundenen Geschichten, und ich fand, als sie schliefen
 und der Nachtwächter sich wieder entfernt hatte, Gelegenheit,
 im Keller, wo Zangenhort noch einen Geheimtresor angelegt
 hatte, auch diesen zu öffnen. Getreu meinem Grundsatz, keine
@@ -535,11 +535,11 @@ die Köchin infolge des schweren Stöhnens des Dieners wieder
 erwachte und in ihrer Todesangst zu kreischen begann, war
 die Polizei gerade in der Villa angelangt. — Die spätere
 Untersuchung der Konfitüren, Zigaretten und Likörs ergab,
-das alle drei Präsente präpariert waren.
+daß alle drei Präsente präpariert waren.
 
 Kriminalrat Penz schickte uns beide heim, nachdem er
 einige wenig schmeichelhafte Bemerkungen über unseren Reinfall
-sich geleistet hatte. Auf Harst stark betonte Erklärung,
+sich geleistet hatte. Auf Harsts stark betonte Erklärung,
 daß wohl jeder dem bescheidenen jungen Allan Gorrisson,
 der ein so sympathischer weltmännischer echter Gentleman
 sei, auf den Leim gegangen wäre, antwortete Penz mit einem
@@ -639,7 +639,7 @@ und Eichenschößlinge waren mit eingestreut, und von dem
 Straßengraben drüben war ein Stück zugeschüttet: Eine Auffahrt
 zum bequemeren Abtransport der schlagreifen oder faulen
 Stämme. Die Villa Zangenhort, bereits zur Versteigerung
-aufgeboten, war etwa sechshundert Meter entfernt und nicht
+ausgeboten, war etwa sechshundert Meter entfernt und nicht
 sichtbar. — Was sollten wir hier?!
 
 Harald kniete jetzt am Rande der Schonung und flüsterte
@@ -661,8 +661,8 @@ nichts. Nur wenn du angegriffen wirst, schießt du ohne jede
 Rücksicht. Ein Mensch, der so kaltblütig den Schofför im
 Schlafe erstach und der den Diener und die Köchin gleichfalls
 abtun wollte, schont uns sicherlich nicht. Es geht ja bei
-ihm um den Kopf, und den schützt jeder nach Kräften, — Wiedersehen
-…«
+ihm um den Kopf, und den schützt jeder nach Kräften. —
+Wiedersehen …«
 
 Noch ein Händedruck, ein sehr ernster mahnender Blick,
 und ich kroch gen Süden davon. Die Vogelpfeife hatte ich
@@ -690,7 +690,7 @@ Waden und eine weniger schöne Bulldogge mit einem Brustkasten
 wie ein Preisboxer erblickte, lüftete ich sehr höflich die
 Mütze und murmelte das übliche »Verzeihung …«, denn die
 gräßliche Bulldogge gluppte mich aus rot unterlaufenen Augen
-so eklig an, daß ich) lediglich noch die Frage wagte: »Sahen
+so eklig an, daß ich lediglich noch die Frage wagte: »Sahen
 Sie hier vielleicht einen Mann mit schwarzem Schnurrbart,
 mein Fräulein …? Ich bin nämlich Kriminalbeamter, wir suchen
 einen Ausbrecher …«
@@ -733,7 +733,7 @@ von Kiefern- und Eichenzweigen, die er mit dem Taschentuch
 zusammengeknotet hatte, beladen, und der Autoschofför, der
 uns schließlich von der Heerstraße heimwärts fuhr, hielt
 uns sicherlich für Wilderer, denn Harsts Jacke war am Rücken
-und schultern nur allzu blutig.
+und Schultern nur allzu blutig.
 
 Um sechs waren wir daheim, ich rief unseren Arzt an,
 er kam sofort, vernähte die Wunde, befahl drei Tage Bettruhe
@@ -784,7 +784,7 @@ Das stimmte.
 
 Penz liebte es, mit den Händen in den Taschen seiner
 weiten Hosen auf und ab zu marschieren und diese Hände zu
-Fäusten zu ballen und vorzuschieben, so das die Hosen vorn
+Fäusten zu ballen und vorzuschieben, so daß die Hosen vorn
 oben zwei mächtige Auswüchse bekamen. Wer ihn kannte, wußte
 genau, wie Penz’ Stimmung war und wechselte. Je größer die
 Hosenwülste anschwollen, desto mehr stand das Barometer
@@ -802,7 +802,7 @@ Die Wülste wurden beängstigend groß …
 …«, kam die Antwort aus der Tiefe des Klubsessels hervor.
 
 Penz fuhr wie ein Blitz herum, und ich glaubte schon,
-er würde unerhört grob werden, zu meinen Erstaunen verminderten
+er würde unerhört grob werden, zu meinem Erstaunen verminderten
 sich die Hosenauftreibungen jedoch, und der Rat fragte mit
 einem messerscharfen Blick:
 

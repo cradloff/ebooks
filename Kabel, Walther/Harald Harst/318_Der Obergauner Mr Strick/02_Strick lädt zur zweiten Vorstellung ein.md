@@ -32,7 +32,7 @@ daheim bemerkte), habe ich mir mit aller Gründlichkeit überlegt,
 wo und wie dieser Austausch stattgefunden haben könnte.
 Ich kam schließlich zu der Überzeugung, daß nur der berühmte
 Benelli, dem ich mich im Savoy für ein Kunststück zur Verfügung
-gestellt hatte mit unglaublicher Geschwindigkeit und Gewandtheit
+gestellt hatte, mit unglaublicher Geschwindigkeit und Gewandtheit
 der Dieb gewesen sein könnte. Er mußte mich also, falls
 meine Annahme stimmte, schon längere Zeit sehr genau beobachtet
 haben. Anders war der Diebstahl und der schlaue Austausch
@@ -186,7 +186,7 @@ befördert hatte.
 
 Wir hätten über alledem aus Ehrfurcht vor Stricks Genie
 bestimmt die Zylinder gelüftet, wenn wir derartige Angströhren
-gerade aufgehabt hatten. Aber die letzte Angströhre, die
+gerade aufgehabt hätten. Aber die letzte Angströhre, die
 uns einiges Interesse abgerungen hatte, war der Sektkühler
 gewesen, den der Toilette-Pächter mit der Schlange am Hosenboden
 sich unfreiwillig und allzu fest über den mageren Schädel
@@ -285,7 +285,7 @@ ironisches, selbstsichereres Lächeln allzeit bereit gehabt,
 nachts hat sie immer bitterlich geweint. Und sie hat Herz
 und Temperament, Verstand und Bildung, und der Mr. Strick
 mag sich nur hüten, daß er sich nicht in sie vergafft und
-das sie ihn nicht unterkriegt, und nicht umgekehrt!«
+daß sie ihn nicht unterkriegt, und nicht umgekehrt!«
 
 Selbst Harst war über diese neuartige Auffassung einigermaßen
 verblüfft. »Leute vom Schlage Stricks,« meinte er vorsichtig,
@@ -300,7 +300,7 @@ wie Mr. Strick urplötzlich lichterloh brennen, — — diese
 Entführung scheint mir denn doch noch andere Gründe zu haben.
 Zur Sache selbst kann ich nur angeben, daß kurz vor dem
 Abendessen ein Vogel gegen das Fenster flog, daß Hilde
-ihn greifen wollte, das er wieder davonflog und daß sie
+ihn greifen wollte, daß er wieder davonflog und daß sie
 sich immer wieder hinauslehnte und nach ihm ausschaute …«
 
 »… Nach dem Vogel am Bindfaden, einem ausgestopften
@@ -332,14 +332,14 @@ Dann aber starrte sie Harst ganz verängstigt an, und
 sie hatte allen Grund dazu, denn er hatte urplötzlich ihre
 Schulter gepackt und schrie ihr ins Gesicht:
 
-»Igel …!! Das ich nicht selbst darauf gekommen bin!!«
+»Igel …!! Daß ich nicht selbst darauf gekommen bin!!«
 
 »Worauf?!« stotterte Emilie.
 
 »Auf Bürste!!« Er hatte sich bereits wieder in der
 Gewalt, zog seine Brieftasche hervor und reichte dem strahlenden
 Kürassier drei Hundertmarkscheine. »Das ist für den Igel,
-liebe Frau Runke. Aber wenn sie davon auch nur eine Silbe
+liebe Frau Runke. Aber wenn Sie davon auch nur eine Silbe
 verraten, drehe ich Ihnen das Genick um, — — ich kann das
 ja getrost sagen, denn ich würde bei einem Kampf mit Ihnen
 sehr schlecht abschneiden. Gute Nacht …«
@@ -642,7 +642,7 @@ rotblonden Bürstenkopf …
 <h3>Stricks Einladung.</h3>
 
 Harald lehnte jede weitere Erörterung über Mattner
-und dessen Tatmotiv mit der Begründung ab, das wir Strick
+und dessen Tatmotiv mit der Begründung ab, daß wir Strick
 versprochen hätten, uns nicht weiter einzumischen, sondern
 seine Benachrichtigung abzuwarten.
 
@@ -724,13 +724,13 @@ durch des Schicksals Gunst und mein Eingreifen ein lohnendes
 Unternehmen geblieben ist, eine kleine neue Freude zu bereiten.
 Ich bin überzeugt, daß mir persönlich daraus keinerlei Unannehmlichkeiten
 erwachsen, und um irrige Vermutungen von vornherein abzubiegen,
-betone ich, daß ich mit dem dort auftretenden Zanberkünstlerstümper
+betone ich, daß ich mit dem dort auftretenden Zauberkünstlerstümper
 Ben Akiba nichts gemein habe. — Den Mörder herauszufinden,
 ist mir aus eigenem Hirn doch nur halb gelungen, wie ich
 ehrlich eingestehe. Ich hatte zuletzt die Wahl unter mehreren
 Personen, und nur das blöde Aussehen des Betreffenden, übrigens
 eine schlaue Maske, machte mich etwas stutzig, denn man
-soll als Verbrecher auch die äußerlich zur schau getragene
+soll als Verbrecher auch die äußerlich zur Schau getragene
 Minderintelligenz nicht übertreiben. Ich nehme an, daß Sie,
 Herr Harst — oder besser, ich weiß es —, auf anderen Pfaden
 den Mörder entdeckten, auch ich hätte diese Pfade finden
@@ -752,7 +752,7 @@ sehr anständige Summen verdienen könnten, nicht einen Pfennig
 sehen, was ich auch dreißig von ihnen (mit Eintrittskarten)
 mitgeteilt habe.
 
-Wir empfehlen uns Ihnen mit dem Andruck größter
+Wir empfehlen uns Ihnen mit dem Ausdruck größter
 
 <p class="right">Hochachtung</p>
 
@@ -776,11 +776,11 @@ Art einwandfrei festgestellt, daß es niemals der elegante
 Strick ist. — Was werden Sie tun?«
 
 Penz kaute mißmutig an seiner Zigarre. »Was soll ich
-tun?!«, fauchte er. »»Mir sind ja die Hände gebunden. Wenn
+tun?!«, fauchte er. »Mir sind ja die Hände gebunden. Wenn
 Strick mit den Spekulationsgewinnen, von denen der Bücherrevisor
 sprach, verduftet, hängen mich die erbosten Gesellschafter
 an den Laternenpfahl … An Strick liegt mir ja auch weit
-weniger als an dem Mörder. Sie kennen ihn, Harst. Wer ist
+weniger als an dem Mörder. *Sie* kennen ihn, Harst. Wer ist
 es. Raus mit der Sprache.«
 
 »Einen Augenblick,« meinte Harald beschwichtigend.
@@ -807,9 +807,9 @@ schließlich:
 Penz grunzte befriedigt. Er blieb vor Harst stehen
 und lächelte süßsauer.
 
-»Harst, wenn ein Mensch, der auch nur eine Spürsinn
+»Harst, wenn ein Mensch, der auch nur eine Spur Sinn
 für Humor hat, diese Tragikomödie in allen Einzelheiten
-überschaut, muß er trotz des Todes des Schofför erheblich
+überschaut, muß er trotz des Todes des Schofförs erheblich
 schmunzeln. Dieser Mr. Strick ist mit uns umgesprungen wie
 mit Marionetten, er war der Macher, wir sind Hampelmänner
 …«
@@ -844,7 +844,7 @@ feines Vorgefühl, und Strick ist ja ein sehr lieber Mensch
 »Keinen Schimmer …! Ich vermute lediglich, Strick wird
 den Mörder auch eingeladen haben …«
 
-Penz’ Kopf flog vor. »Wie?! Was?! Eingeladene?! Daran
+Penz’ Kopf flog vor. »Wie?! Was?! Eingeladen?! Daran
 glauben Sie wohl selbst nicht.«
 
 »Doch! Denn Strick verfügt über mehr Mutterwitz und
@@ -935,7 +935,7 @@ Aber die rote Hakennase des dürftigen Männleins und dessen
 faltiges, verhungertes Gesicht hatten doch schnell jeden
 Argwohn zerstreut, und Herr Buchhalter Mattner widmete sich
 lediglich seinem Essigwein und dem Schnitzel und grübelte
-andauernd darüber nach, wie diese ganz verfl … Geschichte
+andauernd darüber nach, wie diese ganz verfl… Geschichte
 wohl auslaufen würde. Er hatte bereits daheim sehr stark
 dem Alkohol zugesprochen, denn seine Nerven begannen seit
 der verflossenen Nacht zu streiken, außerdem waren seine
@@ -998,14 +998,14 @@ Ich musterte den alten Mann an unserem Tische. Etwa
 Strick?!
 
 Ben Akiba mit dem dicken Bauch und der öligen Stimme,
-hatte von seinem Experimentiertischchen in gelbes, elegantes
+hatte von seinem Experimentiertischchen ein gelbes, elegantes
 Handköfferchen genommen, trat vor und erklärte, er würde
 nunmehr einen Trick zeigen, zu dem er einen Herrn aus dem
 Publikum brauche. Er kam die Treppe von der Bühne herab,
 das Orchester spielte ganz gedämpft — auf seinen Wunsch
 — den Trauermarsch von Beethoven, und langsam trat er an
 unseren Tisch heran, klappte das Köfferchen auf und hielt
-es schräg: Es war dicht mit gebündelten Bauknoten gefüllt!
+es schräg: Es war dicht mit gebündelten Banknoten gefüllt!
 Dann reichte er das Köfferchen dem zusammengesunken in seinem
 Stuhl lehnenden Mattner und rief nur ein Wort:
 
