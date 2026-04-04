@@ -439,7 +439,7 @@ führe und … — — herein, bitte, nur herein …«
 Es hatte geklopft. Die Tür nach der Treppe öffnete
 sich, und zwischen zwei Herren in Zivil, deren Gummimäntel
 vor Nässe tropften, trat Doktor Nikolaus Paverstiel ein,
-vor Wut zitternd, vor Grimm ohne jede Selbsbeherrschung.
+vor Wut zitternd, vor Grimm ohne jede Selbstbeherrschung.
 Mit einer Stimme, die vor Erregung immer wieder überschnappte,
 fauchte er unseren kerzengerade aufgerichteten und mit verächtlichem
 Lächeln ihm entgegenblickenden liebenswürdigen Gastgeber
