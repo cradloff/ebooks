@@ -21,7 +21,7 @@ Metz wurde verlegen. Unsicher wandte er sich an Harst. »Ist
 das wahr?!«
 
 Gepp antwortete für Harald. »Es ist wahr … — Ihre Familienzwistigkeiten
-mögen jetzt ruhen, Herr Metz. — Woher kommen Sie?« — [
+mögen jetzt ruhen, Herr Metz. — Woher kommen Sie?«
 
 »Aus dem Grunewald,« erklärte der Chemiker scheu und
 trat an Sobolowski heran. »Verzeih’ mir, Fritz …!« Sie drückten
@@ -84,7 +84,7 @@ in die Tasche schob?«
 Metz dachte nach. »Er kann es nur getan haben, als
 er mir die Augen verband.«
 
-Gepp brummte etwa vor sich hin.
+Gepp brummte etwas vor sich hin.
 
 »Sie beide sind hiermit entlassen und entlastet, meine Herren,«
 sagte er laut und fast grob. »Gehen Sie …! Wir Männer vom
@@ -98,7 +98,7 @@ sich jeder eine schußfeste Weste, denn der Herr Nadir Mansa,
 dürfte seine blutige Arbeit fortsetzen, fürchte ich.«
 
 Alarich Gepp atmete erleichtert auf, als wir dann allein waren.
-»Harst, haben Sie jemals einen solchen Erbschaftfall behandelt?!
+»Harst, haben Sie jemals einen solchen Erbschaftsfall behandelt?!
 Ich nicht! Jetzt, wo wir unter uns sind, können wir offen
 reden. Christoph Metz lügt noch besser als ich, und das
 will viel heißen. Was mich betrifft: Ich glaube ihm kein
@@ -124,7 +124,7 @@ mit ihr diese Flucht telephonisch vereinbart gehabt. Weshalb
 floh sie?!«
 
 Gepp beschaute seine Zigarre. »Hm — sie stinkt … Nicht
-die Zigarre, — die Theorie. Diese Thea, ist ein Rätselladen,
+die Zigarre, — die Theorie. Diese Thea ist ein Rätselladen,
 Rätsel oder Rätselbuch ist zu matt ausgedrückt.« Er sog
 an dem Glimmstengel und seufzte. »Schwer, sehr schwer …
 nicht die Zigarre, an die Sorte bin ich gewöhnt, aber dieser
@@ -227,10 +227,12 @@ Er nickte. »Ganz recht, vorläufig wollen wir uns mit
 Thomasens begnügen.« Er läutete an der Flurtür. »Es wird
 kaum jemand dort sein … Die tote Witwe ist ja bereits vormittags
 abgeholt worden, und ob einer ihrer Möblierten daheim ist,
-bleibt fraglich.« Das Letzte sagte er schon sehr gedehnt,
-denn hinter der Tür vernahmen wir schlurfende Schritte,
-der runde Spion in der Türfüllung gab durch das Heben der
-Klappe einen leicht quietschenden Laut von sich, eine Sicherheitskette
+bleibt fraglich.«
+
+Das Letzte sagte er schon sehr gedehnt, denn hinter der
+Tür vernahmen wir schlurfende Schritte, der runde Spion
+in der Türfüllung gab durch das Heben der Klappe einen
+leicht quietschenden Laut von sich, eine Sicherheitskette
 rasselte, und durch die Türspalte lugte ein graues, müdes,
 faltiges Altweibergesicht, das von grauen, lose hängenden
 Haarsträhnen übel umrahmt war. »Wat wollen Sie?!« krähte die
@@ -339,7 +341,7 @@ lagen auf dem schäbigen Teppich, und …
 Ich starrte wie gebannt geradeaus.
 
 Wenn ich nicht so brutal fest in der Ecke des hochlehnigen
-Rippssofas festgebunden und nicht einen Knebel im Munde
+Rippssofas<@refnote 2/> festgebunden und nicht einen Knebel im Munde
 gehabt hätte, wäre ich aufgesprungen und hätte wohl irgendeine
 Warnung laut herausgebrüllt.
 
@@ -375,9 +377,9 @@ gespannt, an den beiden Abzügen lag eine schmale Leiste,
 die hinten einen starken Gummischlauch als Zugschnur hatte.
 Vor der Leiste standen ein Wecker, der bedrohlich tickte,
 eine Taschenlampenbatterie und ein Holzkästchen, das wie
-eine ausrangierte elektrische Glocke ohne »Glocke aussah.
+eine ausrangierte elektrische Glocke ohne »Glocke« aussah.
 Drähte, sehr dünn und nur mit grüner Seide besponnen, liefen
-von dem Weder zur Batterie und dem Kästchen, dessen Klöppel
+von dem Wecker zur Batterie und dem Kästchen, dessen Klöppel
 dicht vor einem Haken einer Sperrvorrichtung lag, der dazu
 bestimmt war, die Leiste nach hinten schnellen zulassen,
 — also die Drücker der Armbrust zu betätigen.
@@ -409,10 +411,10 @@ nur noch fünf Minuten zu leben.
 In solchen Momenten, wie ich ihn soeben durchmachte,
 das heißt in einem Augenblick der Erkenntnis, dem Tode überantwortet
 zu sein, drängt sich Vergangenheit, Gegenwart und Zukunft
-gleichsam wie in einem Krampfs zu engster Geschlossenheit
+gleichsam wie in einem Krampf zu engster Geschlossenheit
 zusammen. Noch nie seit der verflossenen Nacht, in der der
 Fall Grieg mit Harsts mir zuerst unverständlichen Bemerkung
-über Chopin begannen hatte, war mir die Fülle der Ereignisse
+über Chopin begonnen hatte, war mir die Fülle der Ereignisse
 so klar und übersichtlich geworden wie jetzt. Spukhaft sah
 ich im Geiste Erich Zepernick, der nun auch bereits durch
 den Singhalesen ermordet worden, bescheiden in unserem Zimmer
@@ -464,7 +466,7 @@ Schlimmer als das!!
 … Zwei Minuten …
 
 Der Schweiß rann mir in die Augen … Übelkeit preßte mir
-den Schlund zusammen. Unausdenkbar, das ich mit ansehen
+den Schlund zusammen. Unausdenkbar, daß ich mit ansehen
 sollte, wie die Holzkiste zurückschnellte, wie die Pfeile den
 Lauf verließen.
 
@@ -666,7 +668,7 @@ nicht Christoph Metz. — Wie gefiel Ihnen die Maschinerie
 dort auf dem Tische?«
 
 Gepp runzelte die Stirn. »Sie schieben Ihren Wagen schon
-wieder auf ein Nebengeleis. Die Maschinerie kommt — ins
+wieder auf ein Nebengeleis. Die Maschinerie kommt ins
 Kriminalmuseum, aber der Öffentlichkeit wird sie nicht gezeigt,
 man kann zuviel daraus lernen, und Attentate kommen wieder
 in Mode.« — Er zog seine Zigarrentasche und suchte sich
@@ -679,7 +681,7 @@ hier also zwei Schafe vor Ihnen, Harst! Erbarmen Sie sich
 ihrer und reden Sie!«
 
 Haralds Antwort war eine uns noch unverständlichere Handlungsweise.
-Er nahm einen der Pfeile, zerbrach den Hohlen Rohrschaft
+Er nahm einen der Pfeile, zerbrach den hohlen Rohrschaft
 und brachte so ein sauber zusammengerolltes Papier zum Vorschein.
 
 Wir waren starr, denn auf dem schmalen Blatt war in Tintenschrift
@@ -725,7 +727,7 @@ zu verbergen. Mithin rechnete er mit Machenschaften der
 anderen vielleicht Erbberechtigten. Er rechnete richtig.
 Verschiedene Leute haben sich bemüht, die Testamente zu
 vernichten beziehungsweise Einsicht zu nehmen, um ihre ferneren
-Plänen danach einzurichten. Schraut und ich wurden den Herrschaften
+Pläne danach einzurichten. Schraut und ich wurden den Herrschaften
 unbequem und die Geierkralle packte zu, — nachdem zwei Mitwisser
 schon erledigt waren: Die Sanitätsrätin und Zepernick während
 der dritte »Unbequeme«, Christoph Metz, mit einem blauen
@@ -906,7 +908,7 @@ Fall Grieg wirklich nicht an.
 
 Anderes kam … Das Auslegerboot näherte sich, es hatte
 zwei Insassen, die Waranoff in Tropenweiß und Tropenhelm
-(im Oktober bei neun Grad!!), und vorn im Nachen, einen
+(im Oktober bei neun Grad!!), und vorn im Nachen einen
 gefesselten braunen Mann, der sich bei seiner spärlichen
 Bekleidung unfehlbar einen Schnupfen holen mußte. Das war
 … Nadir Mansa. Außerdem lagen hinten im Boot noch zwei Koffer,

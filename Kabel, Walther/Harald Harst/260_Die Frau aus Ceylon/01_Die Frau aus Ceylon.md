@@ -67,7 +67,7 @@ Er hängte seine blaue Mütze ohne weiteres auf einen Haken
 der Flurgarderobe und zog seinen dunklen Ulster aus. Darunter
 trug er einen doppelreihigen blauen Anzug.
 
-Herr Thomasen hatte sicherlich zuletzt unter den Botokuden
+Herr Thomasen hatte sicherlich zuletzt unter den Botokuden<@refnote 1/>
 gelebt.
 
 Ich betrachtete ihn amüsiert. Unter dieser rauen Schale steckte
@@ -89,7 +89,7 @@ Saffianleder, Preis vierhundert Mark, schätze ich. Aber
 »Natürlich,« grinste ich mit Lammsgeduld gegenüber
 Thomasens Kulimanieren. »Harst experimentiert mit den neuen Alphastrahlen.«
 
-»Alphastrahlen?! Was ist das?« Er nahm eine Zigarette
+»Asphaltstrahlen?! Was ist das?« Er nahm eine Zigarette
 aus dem Silberkasten.
 
 »Alpha … *Alpha-*strahlen, Herr Thomasen …«
@@ -440,7 +440,7 @@ die Dame, Herr Harst — die am Gartenzaun, meine ich, dann
 der Seemann mit der Mütze, der nachher so eilig davonflitzte,
 später Zepernick, und der Eindringling … — allerhand!!«
 
-Wir Waren reichlich erstaunt. »Sie sind ja glänzend
+Wir waren reichlich erstaunt. »Sie sind ja glänzend
 im Bilde, Herr Wrucke,« brachte Harst kopfschüttelnd hervor.
 
 »Mein Beruf …« erklärte der Assistent bescheiden. »Aber
@@ -546,7 +546,7 @@ September vormittags hier ein. Haben Sie sie an diesem Tage gesehen?«
 »Wir haben uns seit vier Jahren nicht gesehen, Herr
 Harst. Ich bin das räudige Schaf der Familie. Als diese sogenannte
 Familie mich verstieß, — sie behaupteten wenigstens, sie
-hätten es getan, in Wahrheit sagte ich mich von Ihnen los
+hätten es getan, in Wahrheit sagte ich mich von ihnen los
 —, war Thea ein reizender Backfisch …« Seine Augen leuchteten
 auf … »Aber unsere Freundschaft hielt natürlich dem Ansturm
 der Verleumder nicht stand, und auch sie ging mir verloren.
@@ -696,7 +696,7 @@ war begreiflich.
 
 Harst prüfte noch, ob nach dem elektrischen Schlag
 eine Lähmung zurückgeblieben sei, doch Nadir schien die
-stärke der Elefanten seiner Heimat Ceylon zu besitzen. »Wer
+Stärke der Elefanten seiner Heimat Ceylon zu besitzen. »Wer
 sind Sie?« fragte er in gutem Englisch.
 
 Harald rückte einen Stuhl an den Diwan und nahm Platz.
@@ -732,9 +732,7 @@ keine Ahnung von Alpha-Strahlen hatte, aber Asphalt kannte,
 sicherlich auch Asphaltblumen.
 
 »Bei Frau Doktor Sobolowski,« erklärte der Ceylonese.
-
-»Ihr gehört das Haus, sie ist eine sehr feine alte
-Dame.«
+»Ihr gehört das Haus, sie ist eine sehr feine alte Dame.«
 
 »Desto weniger wird sie damit einverstanden sein, daß
 ihre möblierten Herren per Wagendeichsel heimkehren, Mr. Mansa.«
@@ -779,7 +777,7 @@ verhafteten Christoph Metz fragtet, der also entführt worden
 ist. Wir spielten dort Skat, der Hauptmann, der Doktor und
 ich, und ich war so schön im Zuge und hatte gerade einen
 Grand mit Vieren in der Hand. Ich gewinne immer, Schraut
-… Ich darf wohl meinen Schirm zum trocknen aufspannen, obwohl
+… Ich darf wohl meinen Schirm zum Trocknen aufspannen, obwohl
 er den ganzen Flur versperrt. — Wie geht es eurem Singhalesen?
 Ihr müßt entschieden die Ritzen in euren Fensterladen auch
 ganz oben abdichten … Ich stand zehn Minuten auf dem Fenstersims,
@@ -918,7 +916,7 @@ Angstrufe, von der Küche her kam Mathilde in Hemd und Flanelljacke
 herbeigerannt …
 
 In dieses ungeheure Tohuwabohu platzte der elegante Doktor
-Sobolowski hinein. Ich hatte auf sein Läuten geöffnet —.
+Sobolowski hinein. Ich hatte auf sein Läuten geöffnet, —
 er stand starr, denn auch im Flur roch es nicht gut, und
 unsere Gesichter und Mathildes Nachtkostüm brachten ihn
 stark außer Fassung.
@@ -988,7 +986,7 @@ gehalten wurde.
 
 Weiterhin war zu schließen, daß die Attentäter damit
 gerechnet hatten, Gepp würde uns den Umschlag zeigen. Sie
-wußten, das Gepp ihn bei sich hatte.
+wußten, daß Gepp ihn bei sich hatte.
 
 Harald betrachtete traurig seinen van Dyk. Der Rahmen
 war zersplittert, und das kostbare Gemälde mußte unbedingt von
@@ -1116,9 +1114,10 @@ ja auf mich fallen …!!«
 heute früh ausgerechnet wenige Minuten nach der Explosion
 bei uns erschienen, und weil ferner ein Spion durch die
 Ritzen der Fensterladen Gepp und uns beide beobachtet haben
-muß — ein Spion, den Sie vielleicht noch bemerkten … nicht wahr?!«
+muß, — ein Spion, den Sie vielleicht noch bemerkten … nicht
+wahr?!«
 
-Der Anwalt sprang auf »Glauben Sie, daß ich der Spion
+Der Anwalt sprang auf. »Glauben Sie, daß ich der Spion
 war?! — Bei Gott, Sie tun mir unrecht, und zum Glück habe
 ich einen einwandfreien Zeugen, den Chauffeur der Taxe,
 mit der ich zu Ihnen kam, Herr Harst. Der Mann wird sich
@@ -1152,13 +1151,12 @@ am Fenster niemals … Ich vertraue ihm restlos …«
 erleichtert Atem.
 
 »… Wie meinen Sie?!« Harsts Züge strafften sich.
+»Aber … das ist doch einfach unmöglich!! — — Gut, soll
+geschehen … Wiedersehen …«
 
-»Aber … das ist doch einfach unmöglich!! — — Gut, soll geschehen
-… Wiedersehen …«
-
-»Er legte den Hörer weg. »Herr Doktor,« sagte er zögernd, ich
-weiß nicht, wie ich Sie vorbereiten soll … — Ihrer Frau
-Mutter … ist … ist etwas zugestoßen.«
+Er legte den Hörer weg. »Herr Doktor,« sagte er zögernd,
+»— — ich weiß nicht, wie ich Sie vorbereiten soll …
+Ihrer Frau Mutter … ist … ist etwas zugestoßen.«
 
 Sobolowski fragte merkwürdig kalt, und unberührt:
 
@@ -1216,7 +1214,7 @@ von mehreren Maurern, die auf einem sehr hohen Gerüst arbeiteten.
 Sie wurde von einem Manne zu der Dachluke geleitet, der
 nur der angebliche Thomasen gewesen sein kann, und bevor
 sie den Dachgarten der Klinik aufsuchte, wurde sie von einem
-Fernsprechautomaten aus angerufen. Und hatte mit einem Manne
+Fernsprechautomaten aus angerufen und hatte mit einem Manne
 mit Baßstimme eine erregte Aussprache — nicht deutsch, nicht
 englisch, die Telephonbeamtin, die gerade zur Kontrolle
 sich mit eingeschaltet hatte, meinte, es könne vielleicht
