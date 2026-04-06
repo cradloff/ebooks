@@ -11,7 +11,7 @@ noch die eine Morgenzeitung, die er gerade durchgesehen
 hatte.
 
 »Würdest du, mein Alter,« fragte er mich grüblerisch,
-einen blühenden Apfelbaum, eine hartnäckige Schatzsucherin
+»einen blühenden Apfelbaum, eine hartnäckige Schatzsucherin
 und einen toten Hund irgendwie durch logische Denkarbeit
 bei einiger Phantasie zueinander in eine Verdacht erregende
 Beziehung bringen können?«
@@ -344,7 +344,7 @@ entfernte Verwandte, die dieses Grundstück zuerst verpachteten,
 bis ich es kaufte. Ich hause hier ganz allein, und ich habe
 mein Auskommen …«
 
-»Und wann und wo fanden Sie die Flasche?, fragte Harald
+»Und wann und wo fanden Sie die Flasche?«, fragte Harald
 genau so freundlich und verständnisvoll weiter.
 
 »Etwa vor vier Wochen, am 20. Oktober … Sie kam zum
@@ -426,12 +426,12 @@ Hektor nach der Hühnerfarm der Frau Renate Fuchs, Schlachtensee,
 Grenzweg Nr. 1. — Kümmel soll dort vorläufig mit dem Hunde
 bleiben und sich als Hundehändler ausgeben, aber haarscharf
 auf alles aufpassen. Frau Fuchs ist auf sein Eintreffen
-vorbereitet, — — Haben Sie das? — Gut, weiter … Drei von
+vorbereitet. — — Haben Sie das? — Gut, weiter … Drei von
 Ihren Leuten mieten sich in der Nähe der Hühnerfarm ein
 und beobachten diese *am Tage* ganz unauffällig … Raten Sie
 aber auch Kümmel und den dreien dringend an, sich ja recht
 in acht zu nehmen. Ich fürchte, die Sache wird ohne Blut
-nicht abgehen. — — so, das wäre alles …«
+nicht abgehen. — — So, das wäre alles …«
 
 Sofort rief er dann noch drei Redaktionen von Spätabendblättern
 an und bat, doch noch in der heutigen Ausgabe möglichst
@@ -458,7 +458,7 @@ Nähe befindet sich die Hühnerfarm, von der die Zehn Uhr
 Abendpost …«
 
 »Verbindlichsten Dank …«, — Harst legte den Hörer weg
-und sagte tief aufatmend zu mir »Die Schatzgräber haben
+und sagte tief aufatmend zu mir: »Die Schatzgräber haben
 sich die Sache sehr bequem gemacht und den nötigen Lehm
 jener Grube entnommen.«
 
@@ -499,7 +499,7 @@ anerkennend. »Beinahe … glaube ich, denn vorläufig weiß
 ich selbst noch nicht, was da eigentlich gespielt wird.
 Eins ist jedoch gewiß: Narrenkappe stimmt!«
 
-»Danke …! Ich drehte mich um und trat verärgert an
+»Danke …!« Ich drehte mich um und trat verärgert an
 das Fenster, während hinter mir Harald seine äußerst gründliche
 Untersuchung begann.
 
@@ -571,7 +571,7 @@ die eine sehr feine, ausgedehnte Kundschaft hatte.
 Harald, an die Mauer gelehnt, die weiche Mütze tief
 im Gesicht, sog regungslos an seiner Zigarette, bis er mir
 zuraunte: »Die beiden hohen Tiere aus Dahlem sind am wertvollsten
-… — »Die »Leute« beobachten bestimmt alles, was hier vorgeht,
+… — Die »Leute« beobachten bestimmt alles, was hier vorgeht,
 aber am Tage werden sie wohl nur einen Spion zur Verfügung
 haben, deshalb blieben wir auch unbelästigt. Es ist uns
 niemand gefolgt … Der Tanz beginnt erst nachts …«
@@ -642,7 +642,7 @@ nicht wir?!«
 
 Ich wurde munterer.
 
-Harald, an deiner Brust hängt ein Zettel!«, stieß ich
+»Harald, an deiner Brust hängt ein Zettel!«, stieß ich
 hervor und nahm ihm den mit einer Sicherheitsnadel beseitigten
 Wisch schleunigst ab.
 
@@ -696,12 +696,12 @@ zu wenden, dann klatschte etwas gegen das braune, straffe
 Verdeck, ein unangenehmes Gurren fegte durch das Innere
 des Wagens, und als noch zwei Kugeln denselben Weg nahmen,
 sagte Strick sehr bestimmt: »Wollen Sie Ihr Leben aufs Spiel
-setzen?!? Ich nicht! Jedenfalls nicht auf diese Art!«
+setzen?! Ich nicht! Jedenfalls nicht auf diese Art!«
 
 Er bremste, der Wagen stand, und Strick schlüpfte hinaus.
 
 »Ich werde die Burschen schon wieder zur Vernunft bringen
-… — er tauchte im Straßengraben unter, dreimal hörten wir
+…«, — er tauchte im Straßengraben unter, dreimal hörten wir
 das dünne, gedämpfte Puffen einer Pistole mit Schalldämpfer,
 und nochmals fegte eine Kugel durch unser Verdeck und zersplitterte
 die Windscheibe.
@@ -1272,13 +1272,13 @@ der Entlarvung des Herrn Präsidenten Kalkwitz, zur Zeit
 Moabiter Untersuchungsgefängnis, Zelle 14, half, war schwarzhaarig.
 — Zweitens: Im Auto findest du auf meiner Brust einen Zettel
 festgesteckt mit schrecklichen Drohungen über unzweckmäßige
-Handhabung von Rasiermessern, Innerlich angewandt. Dieser
+Handhabung von Rasiermessern, innerlich angewandt. Dieser
 Zettel ist nachher, nach der Schießerei spurlos verschwunden.
 Strick nahm ihn wieder an sich, Strick wollte uns durchaus
 daheim im Bett sehen, und als er wenden sollte, knallte
 es … durch das Verdeck … ganz oben. — Drittens: Mr. Strick
 verduftet, um angeblich die Wegelagerer zu bekämpfen … Er
-gab es eben auf, uns noch fernerhin von der Hühnerfarm zurückzuhalten,
+gab es eben auf, uns noch fernerhin von der Hühnerfarm zurückzuhalten.
 — Für mich genügt dies Beweismaterial.«
 
 Frau Harst nickte, ich nickte, und im Hintergrund nickte
@@ -1473,7 +1473,7 @@ von der ja alles abhing.
 Sein geistesabwesender Blick folgte den nach oben schwebenden
 Rauchspiralen.
 
-»Ich weiß es nicht …« Pause »Ich hege da wohl eine
+»Ich weiß es nicht …« Pause … »Ich hege da wohl eine
 Vermutung, aber sie ist so wenig fundamentiert, sie … schwebt
 so traumhaft in der Luft, wie die Rauchringe meiner Zigarette.
 Bedenke, daß eine Theorie über die inneren Zusammenhänge
@@ -1481,7 +1481,7 @@ dieses äußerst komplizierten Falles alle nackten Tatsachen
 umfassen und logisch eingliedern mußte, auch diese Schatzgeschichte
 *und* das Geheimnis des verborgenen Hehlernestes im Keller,
 wo doch zweifellos ein Mensch, der der Fuchs nahesteht,
-einen Unterschlupf finden sollte.«… Wieder Pause, wieder
+einen Unterschlupf finden sollte.« … Wieder Pause, wieder
 drei Züge aus der Zigarette … »Dieser Unbekannte ist bei
 der Fuchs gewesen, er entfloh mit nach Stricks Heim. Ich
 fand in der Küche der Renate Fuchs zwei Zigarrenstummel
@@ -1685,7 +1685,7 @@ des einen der Leute gesehen?«
 
 »Ja …«
 
-»Wo? — schnell …!«
+»Wo? — Schnell …!«
 
 Die Frau schlug bereits die Augen auf.
 
@@ -1733,7 +1733,7 @@ weshalb unser Wagen für uns nicht frei gewesen.
 Harst blickte die gegenüberliegende Front entlang und
 blieb neben unserem Sportwagen stehen.
 
-»Könnte ich ein Zündholz erhalten, mein Herr?’
+»Könnte ich ein Zündholz erhalten, mein Herr?«
 
 »Aber bitte …« Und als wichtigeres als die Zündholzschachtel:
 »Eine verließ das Haus um halb neun … In elegantem Pelzmantel,
@@ -2066,7 +2066,7 @@ Vier Herren sitzen an dem Eßtisch der fremden Wohnung,
 zwei davon kneten ihre Handgelenke und betrachten die tiefen
 Striemen in der Haut. Penz hat wieder seinen Adjudanten
 Schnick bei sich, Kriminaloberwachtmeister Schnick, der
-so Unscheinbar aussieht, als handele er mit Kinderschnullern
+so unscheinbar aussieht, als handele er mit Kinderschnullern
 und Kinderspielzeug. Der pausbäckige Schupo hat sich wieder
 entfernt, und wir sind froh darüber.
 
@@ -2139,7 +2139,7 @@ Adern an den Schläfen warnten Harald vor diesem allzeit
 unberechenbaren Vulkan von ungeheurer Energie und brodelnder
 Gedankenfülle.
 
-»Matz vom Argus war hierbei mein einziger Vertrauter,
+»Matz vom Argus war hierbei mein einziger Vertrauter,«
 berichtete er in knappen Sätzen. »Als ich erst einmal wußte,
 woher der Lehm stammte, in den die Goldstücke eingebettet
 waren — die Lehmgrube gehörte der verkrachten Handwerker-Bank
@@ -2163,7 +2163,7 @@ Sache. Vergangene Nacht erwischten wir Alice Lindner …«
 Jetzt wurde er doch ausführlicher, und Penz’ Hosentaschen
 hatten üble Minuten …
 
-Er schloß mit allem Nachdruck »Ich bleibe dabei, daß
+Er schloß mit allem Nachdruck: »Ich bleibe dabei, daß
 unter dem Apfelbäumchen sich ein großer geheizter Hohlraum
 befindet, daß dort die Flüchtlinge sich verborgen halten
 und daß die Schatzgeschichte ein sehr schlauer Einfall war.
@@ -2202,7 +2202,7 @@ Harst hatte den Kopf gehoben und griff nun doch nach
 einer Zigarette.
 
 »Penz, war Mießbach etwa nachher in der Villa Holderlin
-auch als Wächter angestellt?’
+auch als Wächter angestellt?«
 
 »Ja … Vierzehn Tage … Dann kündigte er … — Aber die
 alte leere Villa, Harst, die ist unschuldig wie ein neugeborenes
@@ -2219,7 +2219,7 @@ Gedanken gekommen?!«
 
 »Ja, und früher wie wir … Strick fand im Lehm der Lehmgrube
 Arthur Lindners nicht auszutilgendes, in den Steckbriefen
-hervorgehobenes Kennzeichen: Die Narbe am rechten Handballen,
+hervorgehobenes Kennzeichen: Die Narbe am rechten Handballen.
 — Dieser Narbe wegen flohen die Schwindler nicht ins Ausland,
 sondern bereiteten das Versteck unter der Erde vor, wo sie
 ausharren wollten, bis der Eifer der Polizei sich beruhigt
@@ -2262,7 +2262,7 @@ die älteste Karte, die von dieser Gegend vorhanden ist …
 Berufseifer und wollte uns ein langes und breites über diese
 Rarität berichten.
 
-»Her damit!«, meinte Penz ungeduldig, »Historische
+»Her damit!«, meinte Penz ungeduldig. »Historische
 Angaben sind uns absolut schnuppe, so lange sich diese Überlieferungen
 auf Dinge beziehen, die über der Erde lagen. Harst sucht
 nach historischen Maulwürfen, sozusagen …«
@@ -2277,7 +2277,7 @@ einst eine trutzige Burg, die den Rittern von …«
 Penz keuchte bereits vor verhaltener Nervosität.
 
 »Bitte — die Karte!«, fuhr er dazwischen. »Etwas fix
-…!
+…!«
 
 Der gelehrte Herr zog aus einem Büchergestell mit tief
 gekränkter Miene eine uralte, in Schweinsleder gebundene
@@ -2434,7 +2434,7 @@ und uns seinen weißen Aufdruck zeigte:
 
 <p class='centered'>Kauft nur bei Läuser!!</p>
 
-»Unten am Ballon baumelte ein Zettel. Penz eilte hin,
+Unten am Ballon baumelte ein Zettel. Penz eilte hin,
 knüpfte das Papier los, — — und ein Fluch schlüpfte ihm
 über die Lippen, der jedem Jan Maat Ehre gemacht hätte.
 
@@ -2449,7 +2449,7 @@ Harald hob den Kopf und blickte zu mir empor.
 
 »Wenn ich dir nun sage, daß ich dies vorausgesehen
 habe,« meinte er augenzwinkernd, »könntest du erwidern:
-Das kann hinterher jeder behaupten!« Und doch mußte für
+»Das kann hinterher jeder behaupten!« Und doch mußte für
 den, der an Claire Loux oder besser Ulla Karsten dachte,
 Stricks Brief sofort Mißtrauen erregen. Seine Pulvermine
 dort im Kartoffelfeld wird den Stollen nicht eingedrückt
@@ -2532,7 +2532,7 @@ des Gläubigerausschusses der nun wieder sanierten Handwerker-Bank
 zu einem zwanglosen Tanzvergnügen ein … Es soll wohl so
 ein kleines Freudenfest werden … Schraut und ich gehen hin.«
 
-»Ich nicht, ich tanze nicht …«, meinte Penz etwas gereizt,
+»Ich nicht, ich tanze nicht …«, meinte Penz etwas gereizt.
 »Ich werde Mr. Gerald Strick suchen … Die Geschichte mit
 dem Reklameballon hat mir den Spott der Kollegen und eine
 dicke Nase vom Präsidenten eingetragen …« — —
@@ -2558,7 +2558,7 @@ voller Ehrfurcht. »Der sah ja wie ein leibhaftiger englischer
 Lord aus …«
 
 »Das war …«, erwiderte Harald sehr vergnügt schmunzelnd
-…, ja, das war der Reparationskommissar, der die Handwerker-Bank
+…, »ja, das war der Reparationskommissar, der die Handwerker-Bank
 repariert hat …«
 
 Meister Habelbonk grinste breit und verständnislos …
