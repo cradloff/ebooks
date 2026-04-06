@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">2617bf33-b5c5-44b6-b356-09d8d069d82b</entry>
+<entry key="title">Die Frau aus Ceylon</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">260</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Die Frau aus Ceylon
+
+»Mit Chopinschen Sonaten kann ich nicht aufwarten, aber wenn du mit Grieg zufrieden bist, mein Alter, dafür habe ich Stimmung …«
+
+Er saß am Kamin, es war kalt und windig draußen, und desto behaglicher fühlten wir uns daheim.
+
+Ich lag in der Tiefe des Saffiansessels, nahm die Zigarre aus dem Munde und ließ die Abendzeitung sinken. »Ich habe kein Wort von Chopin erwähnt,« meinte ich einigermaßen erstaunt.  »Ich habe überhaupt nicht gesprochen, sondern gelesen. Du wirst wohl geträumt und im Traum musikalische …«
+
+Die Geierkralle
+
+Peinliches Schweigen folgte. Christoph Metz beäugte den Anwalt nicht gerade freundlich. Dann lachte er kurz auf. »Sie sind genau so heuchlerisch veranlagt, Fritz Sobolowski, wie Ihre Mutter … Spielen Sie hier doch nicht Komödie!! Habgieriger als Ihre Mutter und Sie können kaum zwei Menschen sein, und niederträchtiger als Ihre Mutter hat noch nie ein Weib gegen mich intrigiert! Ihr verdanke ich den Bruch mit den meinen, ihr …«
+
+Der Anwalt unterbrach ihn leise. »Du sprichst von einer Toten, Christoph! Meine Mutter ist vor anderthalb Stunden von einem Singhalesen mit einem Pfeile erschossen worden.«
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (260) Die Frau aus Ceylon.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1929</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
