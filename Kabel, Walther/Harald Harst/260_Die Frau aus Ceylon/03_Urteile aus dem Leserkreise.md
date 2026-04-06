@@ -24,7 +24,7 @@ Es wäre zu wünschen, daß die Herren, denen die Handhabung
 des in seinem Prinzip von mir gebilligten Gesetzes obliegt,
 mit mehr Verantwortungsgefühl an ihre Tätigkeit herangehen! Wie
 kommt es zum Beispiel, daß die deutschen Übersetzungen
-der Sudeleien des Italieners Pifigrilli, eine Reihe widerwärtiger
+der Sudeleien des Italieners Pitigrilli, eine Reihe widerwärtiger
 Obszönitäten und effekthaschender Zynismen — lesen Sie das Vorwort
 zum Luxusweibchen! — nicht von diesem Gesetz betroffen werden?!
 &nbsp; &nbsp; Dr. M. A.
