@@ -35,7 +35,7 @@ zu dieser Fotografie schrieb, ahnt wohl kaum, daß er uns
 hiermit ein Geschenk in den Schoß geworfen hat, das in dieser
 unerhört flauen Zeit uns wieder von dem Rost befreien dürfte,
 den unsere Gelenke und unser Hirn notwendig durch das lange
-rasten aussetzen mußten. Im Grunde haben wir in diesem Sommer
+Rasten aussetzen mußten. Im Grunde haben wir in diesem Sommer
 außer der Frühlingsouvertüre im Mai, womit ich den Fall
 »Strick« bezeichne, nur Lappalien unter die Finger bekommen.
 Unser Mr. Strick, der so vielverheißend unser Berlin tagelang
@@ -113,7 +113,7 @@ durch den Hund stets verscheucht worden. Die einsam wohnende
 Frau Fuchs hat nun heute von einem ungenannten Wohltäter
 einen anderen Hund als Ersatz erhalten, an den sie sich
 vorläufig noch nicht recht gewöhnen kann. — Unser Bild zeigt
-die bescheidenen Hühnerfarm, links das blühende Apfelbäumchen,
+die bescheidene Hühnerfarm, links das blühende Apfelbäumchen,
 und in der Haustür Frau Fuchs mit dem neuen Wolfshund.«
 
 Als ich jetzt aufblickte, lächelte Harst nicht mehr.
@@ -160,8 +160,8 @@ Zehlendorf zu gehören,« bemerkte er halblaut.
 
 Inzwischen war auch ich aus meiner anfänglichen Gleichgültigkeit
 gründlich aufgerüttelt worden, denn ich merkte sehr wohl,
-das Harsts Schlußfolgerungen noch viel weitergingen und
-das er hier einen »Fall« von ganz besonderer Eigenart witterte.
+daß Harsts Schlußfolgerungen noch viel weitergingen und
+daß er hier einen »Fall« von ganz besonderer Eigenart witterte.
 
 Amt Zehlendorf meldete sich, Harst nannte die gewünschte
 Nummer 113, und wartete.
@@ -281,7 +281,7 @@ alles mit einer *Lehmkruste* überzogen.
 <h3>Das Apfelbäumchen wird geflickt.</h3>
 
 Wir saßen an dem Sofatisch, und Harald hatte das Papier
-mit einer Pinzette der Flasche herausgeholt. Es war eng
+mit einer Pinzette aus der Flasche herausgeholt. Es war eng
 zusammengerollt und mit einem seidenen Faden umwickelt.
 Das Papier war ganz vergilbt, und die Schrift darauf war
 verlaufen und unleserlich, etwa wie auf einem Löschblatt.
@@ -313,7 +313,7 @@ sie mein Grundstück sicherlich veräußern werden, sollen
 sie von meinem heimlich ersparten Vermögen, 1200
 Mark in Gold, nichts erhalten. Ich vergrabe das Gold
 in einem Leinensack in der Südwestecke meines Grundstücks,
-zwanzig Schritt vom Zaum entfernt nach Norden
+zwanzig Schritt vom Zaun entfernt nach Norden
 zu. Dieses Papier tue ich in eine Flasche, die ich
 an anderer Stelle eingrabe.
 
@@ -494,7 +494,7 @@ ist darauf hineingefallen, und …«
 Unter Harsts unergründlichem Lächeln verstummte ich
 schnell.
 
-»Du hast beinahe das Nichtige getroffen,« nickte er
+»Du hast beinahe das Richtige getroffen,« nickte er
 anerkennend. »Beinahe … glaube ich, denn vorläufig weiß
 ich selbst noch nicht, was da eigentlich gespielt wird.
 Eins ist jedoch gewiß: Narrenkappe stimmt!«
@@ -918,7 +918,7 @@ viel zu weitläufig waren. Die Keller waren schon heute früh
 genau durchsucht worden, wir beide waren dann mittags nochmals
 hier gewesen, und Harald hatte bei dieser Gelegenheit sich
 auch die Stelle des Parkes angesehen, wo die »Leute«, die
-nun den armen-buckligen Kümmel verschleppt oder gar beseitigt
+nun den armen buckligen Kümmel verschleppt oder gar beseitigt
 und verscharrt hatten, uns den Ballon über die Leiber geworfen
 und uns hochgehißt und dann vor Strick sich mit einigen
 Beschädigungen eiligst in die Büsche geschlagen hatten.
@@ -928,7 +928,7 @@ hinein, schritt ohne Zögern auf die Außenmauer zu (die Kellerfenster
 lagen etwa über der Mitte der gewölbten Decke, der Keller
 zog sich also über die Hausgrenze hinaus unter dem Garten
 hin) und deutete auf eine verrostete, dicke eiserne Klammer,
-die anscheinend pur zwei der schweren Feldsteine zusammenhalten
+die anscheinend nur zwei der schweren Feldsteine zusammenhalten
 und stützen  sollte. Es gab hier mehrere solcher Klammern,
 und Penz’ rechte Hand, Oberwachtmeister Schnick, der dieses
 Versteck gefunden hatte, war mit Recht stolz darauf, ohne
@@ -1081,7 +1081,7 @@ trocken:
 
 Penz’ Gesicht ward hart. »Ahnten Sie etwa diesen Streich?«
 
-»Ahnen?! Nein…Ich hatte nur ein sehr unbehagliches
+»Ahnen?! Nein … Ich hatte nur ein sehr unbehagliches
 Gefühl, als wir hier eintraten — Vorgefühl … — Aber nehmen
 Sie doch Platz … Wir werden hier warten müssen, bis Ihre
 beiden Beamten oben uns vermissen … Von außen wird die Tür
@@ -1093,7 +1093,7 @@ zu ganz irrigen Schlußfolgerungen gelangt bin … — Dort steht
 ja auch eine Kiste Zigarren … Und die Flasche dort, das
 ist echter Kümmel … Gläser sind auch vorhanden, und wenn
 Schnick einen Arm voll Brennholz in den Ofen werfen wollte,
-würden nicht nun wir es hier wärmer haben, sondern auch
+würden nicht nur wir es hier wärmer haben, sondern auch
 die Wurzeln des Apfelbäumchens, — — nicht wahr?!«
 
 Er hatte auch das letzte ohne besondere Betonung hingesprochen,

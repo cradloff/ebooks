@@ -151,7 +151,7 @@ unvergleichlich künstlerisch war seine Maske gewesen!
 
 Trotzdem beschlich mich ein Unbehagen, als wir die
 Treppe hinaufstiegen und als Harald nun ein paar der ausgerissenen
-Härchen der Lichtfülle und der Linsen des Riesenmikroskops
+Härchen der Lichtfülle und den Linsen des Riesenmikroskops
 aussetzte. Ich dachte an den Erschossenen, der neben dem
 toten Hektor am Apfelbäumchen gelegen hatte, und den niemand
 kannte.
@@ -377,7 +377,7 @@ Profil zeigte einen klaren Ausdruck eiserner Entschlossenheit,
 hüllte die Umgebung in trügerische Dunkelheit. Dann verschwand
 das harte Profil da vorn, und die rechte Vordertür öffnete
 sich etwas, wir hörten ein seltsam unheimliches Gurgeln
-und schnauben, und die Tür schloß sich wieder, Strick hatte
+und Schnauben, und die Tür schloß sich wieder, Strick hatte
 sich eng zusammengeduckt.
 
 Hinter uns das Knattern eines Motorrades, — ein Lichtschein
@@ -401,11 +401,11 @@ hatten.
 
 Harst beleuchtete den Ohnmächtigen, der beim Sturz
 infolge Aufsprungs der Dogge glatt vom Rade gefegt und mit
-dem Hinterkopf aufgeschlagen war. — »Eine Frau!«, ’rief
+dem Hinterkopf aufgeschlagen war. — »Eine Frau!«, rief
 er sehr gleichgültig. — Die Lederkappe hatte eine Fülle
 von tadellos onduliertem Blondhaar verborgen.
 
-Das blasse Gesicht der Fremden war durch schminke,
+Das blasse Gesicht der Fremden war durch Schminke,
 Lippenstift und nachgetuschte Augenbrauen widerwärtig verunziert.
 Als Harald die lose, hochgeschlossene Lederjacke aufknöpfte,
 kamen darunter ein feiner breiter Seidenschal und ein dunkles
@@ -678,7 +678,7 @@ der Kronleuchter erlosch. Es blieb nur noch der matte Schein
 der Wandleuchter.
 
 Blitzschnell huschte ein Schatten auf uns zu, während
-jetzt zur noch ein Zyklopenauge lauerte.
+jetzt nur noch ein Zyklopenauge lauerte.
 
 Der Schatten verschwand, ein eisiger Hauch fegte mir
 ins Genick, ich hielt den Atem an, ich ahnte die Gefahr
@@ -735,7 +735,7 @@ in die Höhe …
 Mein Hirn wird zu Eis, — ich fühle nun selbst die Nässe
 auf meinem Scheitel, und die umherirrenden Augen, gehetzte
 Tiere, finden die Standuhr, fressen sich fest an der offenen
-Tür, an dem blanken Gewichten, an dem mattgoldenen Zifferblatt
+Tür, an den blanken Gewichten, an dem mattgoldenen Zifferblatt
 und der Messingschraube, die man in die Ziffer 10 hineingebohrt
 hat und um die ein Kupferdraht gewickelt ist, der … schräg
 nach oben läuft …
@@ -819,7 +819,7 @@ dort links zeigt überreiche Einlagen von kaukasischem Nußbaum,
 auf der aufgezogenen Platte, Marmor, stehen drei Likörgläser,
 flache Schalen, im Sonnenlicht opalisierend.
 
-Das könnte Stimmen, geht mir flüchtig ein Gedanke durch
+Das könnte stimmen, geht mir flüchtig ein Gedanke durch
 den Kopf, der sich von selbst aus dem wirren Gemenge der
 Eindrücke und Erinnerungen herauskristallisierte.
 
@@ -999,7 +999,7 @@ auch als Wächter angestellt?«
 
 »Ja … Vierzehn Tage … Dann kündigte er … — Aber die
 alte leere Villa, Harst, die ist unschuldig wie ein neugeborenes
-Kind … Wenn Sie denken, das etwa aus den Kellern der Villa
+Kind … Wenn Sie denken, daß etwa aus den Kellern der Villa
 ein Gang vierhundert Meter weit bis unter das Bäumchen führt,
 — — Irrtum! In dieser Nacht haben Schnick und ich die Villa
 durchsucht … Nur Staub … Staub … Staub … Und nur die Spuren
@@ -1252,7 +1252,7 @@ werden ganz zahm einzeln emporsteigen, Strick wird sie gebührend
 empfangen und dann mit seiner Ulla verschwinden … — Also
 — runter von der Buche … Penz wählt den Weg durch die Dachluke
 … Beeilen wir uns … Übrigens fliegt dort der schöne gelbe
-Reklameballon … Läufers Schuhe sind die besten!«
+Reklameballon …: Läusers Schuhe sind die besten!«
 
 Im Wettlauf zur nahen Lehmgrube an der östlichen Parkmauer
 siegte Schnick mit zehn Meter Vorsprung vor Harst. Aber
@@ -1283,7 +1283,7 @@ daß ihnen die May Wieprecht in der Nacht nach dem Überfall
 auf die Fuchs abhanden gekommen ist … — Glauben Sie das,
 Harst?!«
 
-Harald zögerte etwas mit der- Antwort.
+Harald zögerte etwas mit der Antwort.
 
 »Penz, wenn Sie mir versprechen, Frau Renate Fuchs
 wirklich nicht zu behelligen, will ich Ihnen sagen, was
