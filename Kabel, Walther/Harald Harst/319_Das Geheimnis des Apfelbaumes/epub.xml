@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">12b0d3e6-5838-47c1-9b07-e9128a7e6148</entry>
+<entry key="title">Das Geheimnis des Apfelbaumes</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">319</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Das Geheimnis des Apfelbaumes
+
+Harst saß an diesem trüben, kalten Novembervormittag wie immer nach dem Frühstück in seinem Klubsessel am behaglich warmen Kamin und hielt in den schmalen, muskulösen Händen noch die eine Morgenzeitung, die er gerade durchgesehen hatte.
+
+»Würdest du, mein Alter,« fragte er mich grüblerisch, »einen blühenden Apfelbaum, eine hartnäckige Schatzsucherin und einen toten Hund irgendwie durch logische Denkarbeit bei einiger Phantasie zueinander in eine Verdacht erregende Beziehung bringen können?«
+
+Ein Tag — vierundzwanzig Zwischenfälle
+
+»Harald, mein Junge,« — das kam erst beim Käse — »ich habe mir vormittags euren Wagen angesehen und zählte acht Schußlöcher im Verdeck.«
+
+»Neun, liebe Mama … wirklich nur neun, und alle sitzen so hoch, daß die Schützen sich das Schulgeld von ihrem Schießlehrer zurückzahlen lassen sollten. Außerdem ist der Wagen wieder repariert.«
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (319) Das Geheimnis des Apfelbaumes.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1932</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
