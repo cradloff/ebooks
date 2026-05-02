@@ -1477,98 +1477,96 @@ große Dinge werden, ich fürchte fast …«
 
 Das Auto jagte wieder den bebauten Teilen des Vorortes
 zu. Der riesige Lichtschein über der Stadt, besonders
-über der City, glich deiner stimmt abgegrenzten hoffen Wolkendecke,
+über der City, glich einer scharf abgegrenzten hellen Wolkendecke,
 durch die einzelne farbige Blitze zuckten,
 
-Der stille Monat dort in der Oslo der in einen Mantel
-gehüllt worden war und von dem brmt!cbustrsqou Wilkiens gehalten
-wurde, sah nichts von alledem, Er hatte für Geld die
-Rolle des blinden Geisers übernommen gehabt, und die endgültige
+Der stille Mann dort in der Ecke, der in einen Mantel
+gehüllt worden war und von dem breitschultrigen Wilkiens gehalten
+wurde, sah nichts von alledem. Er hatte für Geld die
+Rolle des blinden Geigers übernommen gehabt, und die endgültige
 Zahlung war der Tod,
 
 <@pagebreak/>
-… An dem Baum hockten »blinder Geiger« Netz«, erklärte
-ß)in!! auf Greaps kurzen Frage. »Als ich die Tür auf
-Grad ck) und in das Zimmer digoiafiel, hielt ich die Taschenlampe
-Obst )dann nach rechts vorgestreckt. Ihr Lubtkoqol reichte by
-zu dem « nun die Fenster Stauden offen, im Geäst hockte Text
-der Schoß …
+"… In dem Baum hockte »blinder Geiger« Nr. 3«, erklärte
+Harst auf Greaps kurze Frage. »Als ich die Tür aufbrach
+und in das Zimmer hineinfiel, hielt ich die Taschenlampe
+absichtlich nach rechts vorgestreckt. Ihr Lichtkegel reichte bis
+zu dem Baum, die Fenster standen offen, im Geäst hockte der,
+der schoß …"
 
-Hierauf bemerkte mit selten fiesen Baß: »Die Sauste!
-waren alle x]x«]«ci)loj’sou. Gewand unnütz sie kurz vor Ihrem Eintreffen
-gebreitet haben.«
+Wilkiens bemerkte mit seinem tiefen Baß: »Die Fenster
+waren alle geschlossen. Jemand muß sie kurz vor Ihrem Eintreffen
+geöffnet haben.«
 
-»und das war wieder eine Riesendummheit, genannt wie
+»und das war wieder eine Riesendummheit, genau wie
+der Trick mit dem Geigenspiel.«
 
-der Trick mit dem Geigeouspiel.«
-»Und — wer spielte ck War jemand im Zimmer?«, wollte
-
+»Und — wer spielte? War jemand im Zimmer?«, wollte
 Charly Greap die Dinge weiter klären.
 
 Das Auto rumpelte stark. Des Toten Kopf wackelte
-hin und her, als ob er durch Kopfschütteln andeuten wollte, ei
+hin und her, als ob er durch Kopfschütteln andeuten wollte, er
 hätte nicht gespielt.
 
-Harst gerwiderte vorsichtig: »Es war niemand im Zimmer.
-Trotzdem geigte jemand. Das mag schreit wedersmmg erschienen.
-Greap. Am Grunde ist die Sache sehr Fingern.«
+Harst erwiderte vorsichtig: »Es war niemand im Zimmer.
+Trotzdem geigte jemand. Das mag Ihnen widersinnig erscheinen,
+Greap. Im Grunde ist die Sache sehr einfach.«
 
-Wir rauchten eine kahle Vorstadtstraße. Das Auto
-hielt, und der junge Kaptain-verschwand für Minuten in eine!
+Wir erreichten eine kahle Vorstadtstraße. Das Auto
+hielt, und der junge Kaptain verschwand für Minuten in einem
 bescheidenen Restaurant, kehrte zurück und erklärte sehr zufrieden:
-»Ach sprach mit der obersten Stelle … Morris wird
-flachen. Er drängt sich überall vor und sinkt auch) wieder im
-Bourger-Haus. Ein ]Ohr vielseitiger Mann …
+»Ich sprach mit der obersten Stelle … Morris wird
+fluchen. Er drängt sich überall vor und steckt auch wieder im
+Bourger-Haus. Ein sehr vielseitiger Mann …"
 
 »Mit Ersatzgebissen«, — Harst murmelte dies nur, die
-Zigarette Kutscher den Zähnen.
+Zigarette zwischen den Zähnen.
 
-— Am Nordende der Norfolk-Street machten wir abermals
+Am Nordende der Norfolk-Street machten wir abermals
 halt. Wilkiens wurde als Beobachter vorausgeschickt.
 Er Sollte Blausignale geben, sobald die Luft dort vorn für uns
-rein sei. Er zog die Linie von seiner Taschenlampe, schob die
-blaue Linse in die Eilte und trabte davon.
+rein sei. Er zog die Linse von seiner Taschenlampe, schob die
+blaue Linse in die Tülle und trabte davon.
 
 Nach zwanzig Minuten meldete unser Chauffeur: »Freie
 Fahrt!«
 
-Wir glitten. weiter, ein paar Uniformierte hielten die
+Wir glitten weiter, ein paar Uniformierte hielten die
 <@pagebreak/>
 Neugierigen zurück, und wir schlüpften schnell ins Haus. In
 der Diele stand der riesige Wilkiens und deutete auf die
-Negerin, die man hier auf eine Wolldecke gelegt Halle. »Keinerlei
+Negerin, die man hier auf eine Wolldecke gelegt hatte. »Keinerlei
 Verletzung, Kaptain … Anscheinend vergiftet und dann
-erst aus die oberste Creppeonstufe gesetzt.««
+erst auf die oberste Treppenstufe gesetzt.«
 
-»Den Kaptain muß ich mir doch endlich einmal gerann
-ansehen!«, sagte plötzlich eine grobe, gereizte Stimme aus Eiter
-der Türen linker Hand, und James Morris, gesorgt von Stück
-Beamten in Fall, schritt rasch auf uns zu, pflanzte sich dicht
+»*Den* Kaptain muß ich mir doch endlich einmal genau
+ansehen!«, sagte plötzlich eine grobe, gereizte Stimme aus einer
+der Türen linker Hand, und James Morris, gefolgt von fünf
+Beamten in Zivil, schritt rasch auf uns zu, pflanzte sich dicht
 vor Charly Greap auf und leuchtete ihm ins Gesicht. »Licht
-an!!«, rief er. »Mund — — Hände hoch!! Dieses Doppelspiel
+an!!«, rief er. »Und — — Hände hoch!! Dieses Doppelspiel
 mißfällt mir gründlich«, höhnte er und musterte auch
-s. »Hände hoch, — — sonst gibt es hier Gottes! Verstanden!!«
+uns. »Hände hoch, — — sonst gibt es hier Tote!! Verstanden!!«
 Der Mensch war von Sinnen, war aschfahl,
-
-zitterte vor dngrimim. »Ich Schere mich den Teufel was um
+zitterte vor Ingrimm. »Ich schere mich den Teufel was um
 die Befehle des Bürgermeisters, zumal ich behaupte, daß das
-alles Lag und Trug ist!«
+alles Lug und Trug ist!«
 
 Greap blickte ihn zwinkernd an. »Schauen Sie nur zu,
 Kaptain Morris, daß Sie nicht morgen für immer in Pension
-gehen«, meinte er Sehr kühl. »Ach fürchte, diese Eigenmächtigkeit
+gehen«, meinte er Sehr kühl. »Ich fürchte, diese Eigenmächtigkeit
 dürfte durch nichts auszugleichen sein … Hier ist meine
 Vollmacht, und wehe Ihnen, wenn …«
 
-Er hatte in die Brusttasche greisen wollen. Morris, der
+Er hatte in die Brusttasche greifen wollen. Morris, der
 neben ihm wie ein Koloß wirkte, packte sein Handgelenk.
-»Handschellen hell Das Vöglein muß doch mal …«
+»Handschellen her!! Das Vöglein muß doch mal …«
 
-Charly Greap war schmächtig, hager, jungenhaft ausgeschlossen,
-aber nun diesem Körper war alles nur Muskeln und
+Charly Greap war schmächtig, hager, jungenhaft aufgeschossen,
+aber an diesem Körper war alles nur Muskeln und
 Sehnen und blitzartige Gelenkigkeit.
 
-Ein Fußtritt gegen den Bauch setzte Morris zwischen seine
+Ein Fußtritt gegen den Bauch fegte Morris zwischen seine
 Leute, ein Sprung des Riesen Wilkiens und ein paar unzarte
 Boxhiebe sowie eine frech-wurstige Stimme vom Hintergrund
 der Diele änderte die Lage gänzlich.
@@ -1578,563 +1576,557 @@ vom Recorder mit erstaunlicher Lungenkraft.
 
 Jack Bull stand neben der Treppe, in jeder Hand eine
 <@pagebreak/>
-»Pistole. Er war im Scheck, in seiner schneeweißen Hemdbrust
-blinkten matt ein paar Perlenbänke, — im Frack machte der
+Pistole. Er war im Frack, in seiner schneeweißen Hemdbrust
+blinkten matt ein paar Perlenknöpfe, — im Frack machte der
 Mensch trotz seines brandroten Schopfes eine glänzende Figur.
 
-Morris lag am Boden, stöhnt?, suchte sich auszurichten,
+Morris lag am Boden, stöhnte, suchte sich aufzurichten,
 knurrte wie ein bissiger Köter, aber die Partie war für ihn
 verloren. Seine Leute, die wohl kaum geahnt hatten, was
-Morris plante, streiften angesichts der Vollmacht, die Brenndauer
-mit beim schönen dicken Schnurrbart ihnen vorwies.
-»Bringen Sie Kaptain Morris zur raschelten Wache!«, bejaht
-Greap. »«bis Häftling! Niemai:d darf zu ipm. Sie sind veorantivortlichl!«
-Es war ein älterer Berichts dabei, und dem
-Sturme wurde es nicht lehnt, seinem Vorgesetzten Armbänder
-anzulegein.
+Morris plante, streiften angesichts der Vollmacht, die Greap-Hutter
+mit dem schönen dicken Schnurrbart ihnen vorwies.
+»Bringen Sie Kaptain Morris zur nächsten Wache!«, befahl
+Greap. »Als Häftling! Niemand darf zu ihm. Sie sind verantwortlich!«
+Es war ein älterer Detektiv dabei, und dem
+Manne wurde es nicht leicht, seinem Vorgesetzten Armbänder
+anzulegen.
 
-Der Trupp entfernte sich. Vorteil war grüngelb im Gesicht.
+Der Trupp entfernte sich. Morris war grüngelb im Gesicht.
 In seinen rotgeäderten Augen flackerte ein unbändiger
-
 Haß.
 
 Der Berichterstatter vom Recorder trat lächelnd näher.
 »Eine ganz hübsche Nacht wieder, meine Herren … Erst
-genieße ich den Ball beim englischen Generalkonsul, — n19,
-es war mehr ein Gartenfest, dann Kamine ich sein, finde alles
-abgesperrt, großer Aufbaus, wilde Gerüchte … Ich bin soeben
-mit dem telephotnischen Bericht zu den Vachtredakteur fertiggeworden
-… Fabelhafter Verdienst, mindestens zweihunder!t
-Vollen …« »Er blickte auf die tote Betty. « Armes Ding. die
+genieße ich den Ball beim englischen Generalkonsul, — na,
+es war mehr ein Gartenfest, dann komme ich heim, finde alles
+abgesperrt, großer Auflauf, wilde Gerüchte … Ich bin soeben
+mit dem telephonischen Bericht an den Nachtredakteur fertiggeworden
+… Fabelhafter Verdienst, mindestens zweihundert
+Zeilen …« »Er blickte auf die tote Betty. "Armes Ding, die
 Trinkgelder, die ich dir gab, hast du mir hundertfach zurückerstattet.
-Eine verrückte Stadt, dieses Chicago …!
+Eine verrückte Stadt, dieses Chicago …!"
 
 Daß unter dieser weißen Frackweste nur ein Bleiklumpen
 mit üblichem Hammerwerk pochte, wußten wir schon vom
-Vormittag her …
+Vormittag her.
 
 »Was tun die übrigen Untermieter, Mr. Bull?« fragte
-Greap nur hastig liebenswürdig.
+Greap nur mäßig liebenswürdig.
 
-»Stubenarrest … ich sollte auch auf meinem Zimmer
-bleiben, aber das Essen bei Sir Rohester war sehr knapp.
-Diese Engländer sparen seit dem Weltkrieg wie die Muschel.
+»Stubenarrest …! Ich sollte auch auf meinem Zimmer
+bleiben, aber das Essen bei Sir Rochester war sehr knapp.
+Diese Engländer sparen seit dem Weltkrieg wie die Kuicker.
 Ich war gerade in der Küche, als der Skandal hier losging.«
 <@pagebreak/>
-Seelenruhig z09 er unter dem Frack eilte sauber eEingewißkeite
+Seelenruhig zog er unter dem Frack eine sauber eingewickelte
 Dauerwurst hervor.
 
-» Wenig Sie Hunger haben«, Jahr Greap sehr belustigt,
-»/0 verfügen Sie sich ebenfalls auf oho Zimmer. Tür Ehre
-Villa im übrigen besten Dank, aber — kein Wort über Morris
+»Wenn Sie Hunger haben«, sagte Greap sehr bestimmt,
+»so verfügen Sie sich ebenfalls auf Ihr Zimmer. Für Ihre
+Hilfe im übrigen besten Dank, aber — kein Wort über Morris
 an Ihre Zeitung, Sonst …!!«
 
-Jack verneigte sich leimt. »Ach weiß genau, Kaptain, was
+Jack verneigte sich leicht. »Ich weiß genau, Kaptain, was
 ich veröffentlichen darf und was nicht. Über Morris könnte
+ich fünf Spalten füllen.«
 
-ich fünf Spalten füllen.« …
-»Diese Spalten füllen Sie nachher mündlich.?Nr. Gaul …
-
+»Diese Spalten füllen Sie nachher mündlich, Mr. Bull …
 — Wiedersehen.«
 
-Jack Bull schritt ’mit seinen glänzenden Lackschuhen die
-… Treppe hinauf. Seine Zimmertür klagte zu, und dann sagte
-Harst frischen Blick auf die Negerin nur ein Wort:
+Jack Bull schritt mit seinen glänzenden Lackschuhen die
+Treppe hinauf. Seine Zimmertür klappte zu, und dann sagte
+Harst mit einem Blick auf die Negerin nur ein Wort:
 
-»Kat(1«
+»Kat!!«
 
-Greap frühere. »drum Teufel, was soll das?! Kat?! Kat?«
+Greap stutzte. »Zum Teufel, was soll das?! Kat?! Kat?«
 
 »Ein orientalischer Mißbrauch«, erklärte Harst ganz leise.
-» Milieus, — bitte, noch drei Mann … Sie haben doch nichts
-dagegen, Greap? Die sollen sich hier im Flur und oben im Nur
-passieren.«
+»Wilkiens, — bitte, noch drei Mann … Sie haben doch nichts
+dagegen, Greap? Die sollen sich hier im Flur und oben im Flur
+postieren.«
 
-Male wir die Treppe emporstiegen, hörten wir hinter einer
-Ginmmertär recht lautes Sprechen. Ost waren zwei Frauenzimmer,
-wahrscheinlich die ältere Lehrerin und das Tipp- …
-Tränklein, — jemand anderes kam kaum in Betracht.
+Als wir die Treppe emporstiegen, hörten wir hinter einer
+Zimmertür recht lautes Sprechen. Es waren zwei Frauenzimmer,
+wahrscheinlich die ältere Lehrerin und das Tippfräulein,
+— jemand anderes kam kaum in Betracht.
 
 Harst winkte. »Klopfen Sie an, Greap. Und bitte —
 wundern Sie sich über nichts, was nun folgt.«
 
-Es war eilt behaglich eingerichtetes Zimmer, in dem wir
+Es war ein behaglich eingerichtetes Zimmer, in dem wir
 die beiden Frauen verstört und verängstigt antrafen. Miß
-Hortensie Doops lag auf einem Diwan Wut einer Kompresse
+Hortensie Doops lag auf einem Diwan mit einer Kompresse
 auf der Stirn, und die Lehrerin, eine untersetzte energische
-Person, saß bei ihr und suchte die andere zu beruhigen; obwohl
+Person, saß bei ihr und suchte die andere zu beruhigen, obwohl
 auch ihr selbst offenbar die Angst und das Grauen vor diesem
-Hause des Todes die Seele zertreten. Arm Bogenlinie zu der
-Längeren trug sie nur einen wolligen Schlafrock und zog sich
+Hause des Todes die Seele zerfraßen. Im Gegensatz zu der
+Jüngeren trug sie nur einen wolligen Schlafrock und zog sich
 auch Sehr schnell in ihr Nebenzimmer zurück, als Harst erklärte,
 <@pagebreak/>
 wir würden Miß Doops so lange Gesellschaft leisten, bis die
-Leiche Bettys entfernt svi.
+Leiche Bettys entfernt sei.
 
 Hortensie Doops trug einen sehr koketten schwarzseidenen
-Schlafanzug mit dunkelste Aufschlägen, ihr blonder Bubikopf
+Schlafanzug mit dunkellila Aufschlägen, ihr blonder Bubikopf
 war tadellos in Ordnung, — schade nur, daß das Gesicht
 dieses Mädchens so eigentümlich verkrampft aussah und die
 Augen fast blöde dreinschauten. Sie war sehr bleich, und die
-eine »Wange verriet, daß dahinter ein Stück Kaugummi von
+eine Wange verriet, daß dahinter ein Stück Kaugummi von
 beträchtlicher Größe steckte.
 
 »Wovor fürchten Sie sich eigentlich?«, fragte Harst mitfühlend
 und setzte sich auf den Stuhl neben dem Diwan. »Es
 ist jetzt doch genügend Schutz da, — oder finden Sie etwa,
-daß es zu viel Schutz ist?!« …
+daß es zu viel Schutz ist?!«
 
-Hortensie Doops lächelte matt. Ihre Züge behielte
+Hortensie Doops lächelte matt. Ihre Züge behielten
 dabei diesen eigentümlichen Ausdruck bei, der den Anschein
-erweckte, als ob die Muskeln unnatürlich anzeigen? seien.
-So ward das Lächeln zu einem abscheulichen Grinsen, u1d dann
-folgte ein hysterisches Kichern und Hüsteln, das diese imerkwäürdige
-junge Dame zwang, nach ihrem dunkelgrünsgidenen
-Coascheniuch zu greifen. Es war ein Taschentuch, kein allermodernstes
+erweckte, als ob die Muskeln unnatürlich angespannt seien.
+So ward das Lächeln zu einem abscheulichen Grinsen, und dann
+folgte ein hysterisches Kichern und Hüsteln, das diese merkwürdige
+junge Dame zwang, nach ihrem dunkelgrünseidenen
+Taschentuch zu greifen. Es war ein Taschentuch, kein allermodernstes
 Läppchen, und ganz sauber war es auch nicht
-mehr. — »Als sie sich die Lippen gemischt hatte, war die Kaugummianschwellung
-verschwunden. Miß Doops hatte Ich sehr
-geschenkt dieses unappetitlichen Hongkong entledigt. Bedauerlich
-war nur, daß die Farbe das Taschentuches nicht echt eilt
-konnte., Verfaulte behielt einen köstlichen grünen Fleck ganz
-Kinn zurück…
+mehr. — Als sie sich die Lippen gewischt hatte, war die
+Kaugummianschwellung verschwunden. Miß Doops hatte sich sehr
+geschickt dieses unappetitlichen Bonbons entledigt. Bedauerlich
+war nur, daß die Farbe das Taschentuches nicht echt sein
+konnte. Hortensie behielt einen häßlichen grünen Fleck am
+Kinn zurück.
 
-Greap und ich standen linke« Harsts Stuhl, Als ich den
-Fleck wahrnahm, stieß Eintritt Greap-Kutter mich sanft in die
-Dritte. — Ob er dasselbe dachte wie ich?7! Mir war gerade
+Greap und ich standen hinter Harsts Stuhl. Als ich den
+Fleck wahrnahm, stieß Charly Greap-Hutter mich sanft in die
+Seite. — Ob er dasselbe dachte wie ich?! Mir war gerade
 der Knebel aus grünen Blättern eingefallen, den Guiseppe
-Cacionis So überflüssigen- und unnötigerweise im Munde trug.
-Möglich, daß Greap sich über diesen ’Punkt noch mehr Gedanken
+Cacionis So überflüssiger- und unnötigerweise im Munde trug.
+Möglich, daß Greap sich über diesen Punkt noch mehr Gedanken
 gemacht hatte, als er es uns eingestehen wollte.
 
 Harst erhob sich ganz unerwartet, schritt zu den Fenstern,
 <@pagebreak/>
 schaltete nun auch das Oberlicht der billigen Krone ein und
-betrachtete alle Gegenstände im Zimmer mit größtem sondern
+betrachtete alle Gegenstände im Zimmer mit größtem Interesse.
 
-»Oh, Sie haben eine? Radioanlage, Miß Doops … Gott
-der Loautsprecher hier nicht sehr veraltet?!«
+»Oh, Sie haben eine Radioanlage, Miß Doops … Ist
+der Lautsprecher hier nicht sehr veraltet?!«
 
 Er stöpselte den schwarzen Trichter von dem Empfänger
 los und brachte ihn zum Diwan.
 
-»Was fällt Ihnen ein!«, traf die Doops empört, und ihre
-Augen verloren ein wenig den bisher Ausdruck.
+»Was fällt Ihnen ein!«, rief die Doops empört, und ihre
+Augen verloren ein wenig den blöden Ausdruck.
 
 Harst blickte sie scharf an. »Nicht wahr, — das ist hier
 die Verbindung zu des blinden Geigers Zimmer?!« — und
 er klopfte gegen den Trichter und reichte ihn mir, setzte sich
-echter und beobachtete still die Wirkung seiner anklagenden
+wieder und beobachtete still die Wirkung seiner anklagenden
 Worte.
 
-… Hortensie Doops’ helle Fischaugen stierten weit ausgerissen
-ins Perle, Ganz allmählich traten ihr seine Schweißperlen Furche
-Stirn, dann richtete sie sich mit einem Ruck vollends auf.
-»Wagens — wollen Sie von mir?!« — es war das heisere, angsterfüllte
+Hortensie Doops’ helle Fischaugen stierten weit aufgerissen
+ins Leere. Ganz allmählich traten ihr feine Schweißperlen auf
+die Stirn, dann richtete sie sich mit einem Ruck vollends auf.
+»Was — wollen Sie von mir?!« — es war das heisere, angsterfüllte
 Stammeln eines Weibes, das seine Nerven nicht mehr
+in der Gewalt hat.
 
-in der Gewalt hat.! …
-— Harst erhob sich obernmlz’osf)nete die Flurtür und rief
-leise Wilkiens herbei, flüsterte mit ihm und nahm wieder Platz,
+Harst erhob sich abermals, öffnete die Flurtür und rief
+leise Wilkiens herbei, flüsterte mit ihm und nahm wieder Platz.
 Das Mädchen beachtete ihn nicht. Ein Flattern ging
 durch ihren Körper, langsam riß sie den Mund ganz weit auf
 und röchelte, als ob sie an schwerster Atemnot litte.
 
-— »»Nur ein Anfall, — — Kat!«, jagte Harst zu Greap und
+»Nur ein Anfall, — — Kat!«, sagte Harst zu Greap und
 mir. »Das geht vorüber … Sie hört jetzt nichts und sieht
-nur Spukgestalten.««
+nur Spukgestalten.«
 
-— Charly Greap nickte leicht. »Ach weiß von Bescheid,
+Charly Greap nickte leicht. »Ich weiß nun Bescheid,
 Harst … Hier sprechen wir das Teufelszeug natürlich englisch
-aus »Kat«, und …« « …
+aus »Ket«, und …«
 
-— Die Doops kam wieder zu sich. Sie starrte uns gleich einer
+Die Doops kam wieder zu sich. Sie starrte uns gleich einer
 Erwachenden nacheinander an und duckte sich scheu zusammen.
 
-— »Seit wann kauen Sie Kat-Blätter, Miß?«, fragte Harst
-?reichhaltig. »Entweder schon sehr lange oder sehr oft und sehr
+»Seit wann kauen Sie Kat-Blätter, Miß?«, fragte Harst
+gleichgültig. »Entweder schon sehr lange oder sehr oft und sehr
 <@pagebreak/>
 viel. Ihre Nerven sind in einer bösen Verfassung, Ihre
 Willenskraft ist gleich Null, und Leute in diesem Stadium des
 Kat-Genusses sind willige Werkzeuge für jeden Schurken. Ich
-glaubte nicht, daß ich hier sie rasch ans Ziel gelangen würde.
+glaubte nicht, daß ich hier so rasch ans Ziel gelangen würde.
 Miß Doops, Sie haben vorhin aus der Baumkrone auf mich
 geschossen, Sie waren notdürftig als Guiseppe verkleidet, der
 den Ballonausstieg mit dem Leben bezahlte, er entfloh,
 Sie schlüpften durch ein Parterrefenster ins Haus und dann
-in oho Zimmer.« …
+in Ihr Zimmer.«
 
-Das blonde Mädchen, das durch den Genuß der Elsässer
-des in Südarabien so häufigen Kat-Strauches (einer dem Chaussee
-ähnlichen Pflanze; diese Katblätter werden in Jemen,
-selbst in Abessinien von den Eingeborenen als Rauschmittel!
+Das blonde Mädchen, das durch den Genuß der Blätter
+des in Südarabien so häufigen Kat-Strauches (einer dem Liguster
+ähnlichen Pflanze; diese Katblätter werden in Yemen,
+selbst in Abessinien von den Eingeborenen als Rauschmittel
 und Stimulans gekaut und erzeugen ähnliche körperliche Verwüstungen
 wie das Morphium) nur noch seelische Ruine war,
-sog wie eine Wahnsinnige empor. Harst packte zu, hielt ihr die
-Hand auf den Mund und preßte sie wieder in die Erweiterte
-zurück. Sie wehrte sich kaum…«
+flog wie eine Wahnsinnige empor. Harst packte zu, hielt ihr die
+Hand auf den Mund und preßte sie wieder in die Diwanecke
+zurück. Sie wehrte sich kaum.
 
 Charly Greap zog aus der Tasche ein paar dünne, verstellbare
-Stahlfesseln Hervor. und als diese Armbänder zuschnappten,
+Stahlfesseln Hervor, und als diese Armbänder zuschnappten,
 stöhnte das armselige Weib in dünnen, gräßlichen
-Tönen: »Ich … ich will alles Gestehen … aber … ich habe
-Angst vor ihm … Codozgslets’
+Tönen: »Ich … ich will alles gestehen … aber … ich habe
+Angst vor ihm … Todesangst!"
 
-»Diese Angst ist unnötig«, — Harst behoöndelte sie gar)
-als Kranke. »Wir werden Sie schützen … Vor Wein haben
-Sie Angst’?«
+»Diese Angst ist unnötig«, — Harst behandelte sie ganz
+als Kranke. »Wir werden Sie schützen … Vor wem haben
+Sie Angst?«
 
 Die Doops stierte ihn flehend an.
 
-— »»»Oh.— — vor ihm … ich! Sie kennen ihn ja … Vor
-Guiseppell Er ist ein Teufel, er …«
-Greap fiel ziemlich heftigen Tones ein, »Unsinn, Guiseppe
+»Oh — — vor ihm …!! Sie kennen ihn ja … Vor
+Guiseppe!! Er ist ein Teufel, er …«
 
-ist tot …
+Greap fiel ziemlich heftigen Tones ein. »Unsinn, Guiseppe
+ist tot …!"
 
 Hortensie wimmerte wie ein Kind … »Ich … ich meine
-den anderen Guiseppe …! Auch Jack gespürt ihm nach …
-dich bin mit Jack heimlich verlobt … Oh, wenn Stark eintritt«
+den anderen Guiseppe …! Auch Jack spürt ihm nach …
+Ich bin mit Jack heimlich verlobt … Oh, wenn Jack ahnte!!«
 
-Harst betrachtete nachdenklich das verwüstet? Gesicht
+Harst betrachtete nachdenklich das verwüstete Gesicht
 <@pagebreak/>
-dieses Rangun Mädchens, das offenbar das Werkzeug eines
-niederträchtigen Schurken geworden. »Seit wann Mengen Sie
-diesen »anderen« Guiseppe, Miß Doops«?«
+dieses jungen Mädchens, das offenbar das Werkzeug eines
+niederträchtigen Schurken geworden. »Seit wann kennen Sie
+diesen »anderen« Guiseppe, Miß Doops?«
 
-Hortensie empfand es jetzt zweifellos als Horzbedürfsnis,
-sich die Seele einmal schändlich frei zu reden. Ihr Geständnis
-war jedoch; wortlos. — Seit vier Monaten kannte sie den
+Hortensie empfand es jetzt zweifellos als Herzbedürfnis,
+sich die Seele einmal gründlich frei zu reden. Ihr Geständnis
+war jedoch wertlos. — Seit vier Monaten kannte sie den
 »anderen« Guiseppe. Eines Abends war er in ihr Zimmer
 gekommen und hatte ihr gedroht, sie zu erschießen, falls sie
 nicht die dargereichten Katblätter kaue. Es war damals
 gerade niemand außer ihr im Hause, sie mußte gehorchen, und
 der unheimliche Greis ließ ihr dann dreihundert Dollar sowie
 eine Schachtel voll Katblätter zurück und verließ sie mit der
-Drohung, er würde sie umbringen, falls sie jemand von Dietrich
-Besuch erzählte. « … oh fühlte mich nach dem Kauen der
-Blätter wie verwandelt«, erklärte die Ärmste leise schluchzend,
-»Für Minuten hatte ich das Gefühl eines heiteren Sekt-’
-Rausches. Und dann … kam die Abspannung, kam eine sechste
-Gier, mich wieder zu befanden … Fünfmal war Guiseppe
+Drohung, er würde sie umbringen, falls sie jemand von diesem
+Besuch erzählte. "… Ich fühlte mich nach dem Kauen der
+Blätter wie verwandelt«, erklärte die Ärmste leise schluchzend.
+»Für Minuten hatte ich das Gefühl eines heiteren Sekt-
+Rausches. Und dann … kam die Abspannung, kam eine förmliche
+Gier, mich wieder zu betäuben … Fünfmal war Guiseppe
 bei mir, immer brachte er Geld und Katblätter, nie wurde
 er zudringlich … Ich war ihm verfallen, ich habe mich wohl
-velegentlich gegen das Gift gewehrt, Jack ist mit mir sogar
+gelegentlich gegen das Gift gewehrt, Jack ist mit mir sogar
 beim Arzt gewesen, er glaubte, ich sei Morphinistin oder Kokainschnupferin,
-auch die Meine Dorit ließ einmal einen Doktor
-kommen, keiner ahmte ja, daß es Wohltäter waren, die mich
-so elend machten. Und dann … gestern, ja Tagestour war es, — —
-da- kam »er« Sogar am Tage. Sich habe jetzt Urlaub … Er
-befahl mir, ich sollte zum Adams-Kai gehen, mich ganz) einfach
-abziehen und einen Korb Mülleimer? und mich mit den Kaiarbeitern
+auch die arme Dorit ließ einmal einen Doktor
+kommen, keiner ahnte ja, daß es Katblätter waren, die mich
+so elend machten. Und dann … gestern, ja gestern war es, —
+da kam »er« Sogar am Tage. ich habe jetzt Urlaub … Er
+befahl mir, ich sollte zum Adams-Kai gehen, mich ganz einfach
+anziehen und einen Korb mitnehmen und mich mit den Kaiarbeitern
 unterhalten und den Gemüsekahn, der dort läge,
-genau! beobachten …«
+genau beobachten …«
 
-»Und dabei haben Sie ausgesetzte Katblätter ausgespien«,
-Jagte Harst. »Und ich fand diese Blätter …!!«
+»Und dabei haben Sie ausgekaute Katblätter ausgespien«,
+sagte Harst. »Und ich fand diese Blätter …!!«
 
-—»- Was die Doops noch weiter berichtete, blieb belanglos.
-Dieser Teufel von Marsches hatte heute abend ihren Bericht
+— Was die Doops noch weiter berichtete, blieb belanglos.
+Dieser Teufel von Mensch hatte heute abend ihren Bericht
 über ihre Beobachtungen entgegengenommen und ihr abermals
 <@pagebreak/>
-jünfhondert Dollar und zwei Pistolen gegeben und den Anschlag
-auf ins genau alt ihr durchgesprochen. — Wer dieses
-Untier war oder sein könnte, wußte sie nicht. Der Tod da
-Negeritädheus sei ihr gleichfalls unbekannt gewesen.
+fünfhundert Dollar und zwei Pistolen gegeben und den Anschlag
+auf uns genau mit ihr durchgesprochen. — Wer dieses
+Untier war oder sein könnte, wußte sie nicht. Der Tod des
+Negermädels sei ihr gleichfalls unbekannt gewesen.
 
-»Fragen Sie sich jetzt zu Bett«, befahl Harst. — Greap
-nichts die Handschellen ’wieder ein.
+»Legen Sie sich jetzt zu Bett«, befahl Harst. — Greap
+steckte die Handschellen wieder ein.
 
-»So garantiere Ihnen, daß Ihnen nichts zustoßen wird.
-—»’Nur mich eine Frage: Wie heißt doch) der Seitenarm, der
+»Ich garantiere Ihnen, daß Ihnen nichts zustoßen wird.
+— Nur mich eine Frage: Wie heißt doch der Kaufmann, der
 hier wohnt?«
 
-»Zeitraum Amyl«, erwiderte sie sofort.
+»Benjamin Amyl«, erwiderte sie sofort.
 
-Wir drei lauschten vielsagende Blicke, —
+Wir drei tauschten vielsagende Blicke.
 
-He Amyl war der Bann, der als Spion zu Rechtsanwalt
-Bellimer Bekennern war!! Und hier gab er sich als
+Ben Amyl war der Mann, der als Spion zu Rechtsanwalt
+Bellimer gekommen war! Und hier gab er sich als
 Verkäufer aus, und besaß doch einen Zigarrenladen in der
+selben Straße.
 
-gelben WÜ«-F«
 »Den Vogel muß ich mir anschaun«, meinte Greap und
-
 wandte sich zur Tür.
 
-6\. ’Kapitel.
-Nachtspuk.
+<h2>6. Kapitel.</h2>
+<h3>Nachtspuk.</h3>
 
-Greap hatte kein Glück. W. Ben Amyl hatte es vorgezogen,
-durch das Fenster zu verduften. Sein Bett war nur
+Greap hatte kein Glück. M. Ben Amyl hatte es vorgezogen,
+durch das Fenster zu verduften. Sein Bett war noch
 warm, und sein Aufbruch zu diesem nächtlichen Spaziergang
 mußte Sehr beschleunigt erfolgt sein.
 
-Wir gingen dann in … Guiseppes Zimmer. Die Tür hing
+Wir gingen dann in Guiseppes Zimmer. Die Tür hing
 noch schlief in den Angeln, und hier stand auch das mit Tüchern
-verhängte Grammophon, das vorhin Chopins Packung gespielt
-hatte. Au dem Hebel des Gangwerkes war Zweck der
+verhängte Grammophon, das vorhin Chopins Nocturno gespielt
+hatte. An dem Hebel des Gangwerkes war noch der
 dünne Draht befestigt, mit dem Hortensie Doops den Apparat
-vom ’Baume her rechtzeitig in Gang gesetzt hatte.
+vom Baume her rechtzeitig in Gang gesetzt hatte.
 
-Harsts Interesse galt der Gardinenschnur und der Potrzellautroddel.
+Harsts Interesse galt der Gardinenschnur und der Porzellantroddel.
 Diese Porzellantroddel war weder aus Porzellan
 noch Troddel, sondern ein emaillierter kleiner Hörer. Die
 <@pagebreak/>
-weiße Schlump enthielt die beiden isolierten dünnen Drähte,
-und diese Drahtleitung lief ganz unsichtbar bis in Er, Ben
-Amyls Hinterzimmer. Hier war sie bunte dem Ofen abgerissen,
+weiße Schnur enthielt die beiden isolierten dünnen Drähte,
+und diese Drahtleitung lief ganz unsichtbar bis in Mr. Ben
+Amyls Hinterzimmer. Hier war sie hinter dem Ofen abgerissen,
 offenbar erst heute, vorhin, als Mr. Amyl es für richtiger
-viel, dreien Hause den Rücken zu kehren. Übrigens führte
-eine zweite Leitung bis zu Balkensteg Zimmer in einer Dielenritze
-entlang, und senkrecht)einfach oder vielmehr bestimmt unter
-der Hinweise auch ins Zimmer. Biß Doops hatte ja auch dies
-gebeichtet: Der Teufel Europa könnte sie jederzeit belauschen!
+hielt, diesem Hause den Rücken zu kehren. Übrigens führte
+eine zweite Leitung bis zu Hortensies Zimmer in einer Dielenritze
+entlang, und wahrscheinlich oder vielmehr bestimmt unter
+der Schwelle auch ins Zimmer. Miß Doops hatte ja auch dies
+gebeichtet: Der Teufel Guiseppe könnte sie jederzeit belauschen!
 
 Wir standen im Flur mit Sergeant Wilkiens zusammen
-und berieten. Als Greap äußerte, der Ghost Gangster sei nun
-wohl omlauj’xg unauffindbar, schüttelte Harst den Kopf. »Keime
-Sorge, wir langen ihn … Ach will ihn aber nicht allein haben,
-Greap, Sondern die 9(1s]32 Bande und den ganzen Beuteschatz.
-—»Hören wir mit einmal, was Freund Jack über Kamel Morris
+und berieten. Als Greap äußerte, der Ghost-Gangster sei nun
+wohl vorläufig unauffindbar, schüttelte Harst den Kopf. »Keine
+Sorge, wir fangen ihn … Ich will ihn aber nicht allein haben,
+Greap, Sondern die ganze Bande und den ganzen Beuteschatz.
+— Hören wir mit einmal, was Freund Jack über James Morris
 zu sagen weiß.«
 
 Jack Bull lag auf dem Diwan, eingehüllt in einen sehr
-vornehmen seidenen Schlafrock und hatte das anuchtssehshon
+vornehmen seidenen Schlafrock und hatte das Rauchtischchen
 mit einer Batterie verheißungsvoller Flaschen ganz in die
-Nähe Quark
+Nähe gerückt.
 
-Bitte — nehmen Sie Platz, Gentlemen … Bedienen
-die sie]) … Gläser sws)on dort. Zigarren und .)].]Grotten sind
-
+"Bitte — nehmen Sie Platz, Gentlemen … Bedienen
+Sie sich … Gläser stehen dort. Zigarren und Zigaretten sind
 auch reichlich vorhanden.«
-Von der Dauerwurst war allerdings nur noch) die Hälfte
 
+Von der Dauerwurst war allerdings nur noch die Hälfte
 vorhanden.
-»Falls einer von Ihnen Hunger hat — — — bitte,
-sämtlich, sittlich, Wurst aus der Saust. — Wie geeilt es Hortensie?«
-— Er war etwas hastig und zerstreut, oder er hatte
-zu viel Brandy zu der Wurst genossene
+
+»Falls einer von Ihnen Hunger hat — — bitte, —
+ländlich, sittlich, Wurst aus der Faust. — Wie gefällt es Hortensie?«
+— Er war etwas fahrig und zerstreut, oder er hatte
+zu viel Brandy zu der Wurst genossen.
+
 Harst zog einen Korbsessel näher. Er nahm Seine eigene
-0s,)wollte rauchte und meinte bedauernd: »Miß Doops beendet
-sich Sehr schlecht. Sie kam« bereits Handschellen zu, aber …«
-»()in« Hinan vom Recorder fuhr hoch.
-»Halbschatten?! Um Gotteswillen, — was hat sie den
-angestellt …?! — Ich Sah das Unheil ja kommenlt!l«
+Zigarette, rauchte und meinte bedauernd: »Miß Doops befindet
+sich Sehr schlecht. Sie hatte bereits Handschellen an, aber …«
+
+Der Mann vom Recorder fuhr hoch.
+
+»Handschellen?! Um Gotteswillen, — was hat sie denn
+angestellt …?! — Ich Sah das Unheil ja kommen!!«
 
 <@pagebreak/>
-Er fiel zurück und betritt? Skat Gesicht mit den Händen.
-» Meine Herren«, sagte er dringt, »sie ist unzurechnungsfähig.
-Ob … Kaleosserim, — Kot, Lies verdammte grüne Zeug,
-Taue jetzt Ufer von gewissenlosen Gärtner in Treibhäusern
-gezjzogen wird?!«
+Er fiel zurück und bedeckte das Gesicht mit den Händen.
+»Meine Herren«, sagte er dumpf, »sie ist unzurechnungsfähig.
+Sie ist … Katesserin, — Kat, dies verdammte grüne Zeug,
+das jetzt hier von gewissenlosen Gärtner in Treibhäusern
+gezogen wird!!«
 
-Er Saß zusammengekauert da, die Erlogen auf die Knie
-gestützt … »Worin armes Mädel«, falsch er weh leiser. »Ich
-und Frei ’Bourger, wir haben! unser WMöglichstes getan. Aber
-Hortensie war nicht mehr zu retten, Weitere merkte ich erst
-vorgoestern, daß sie dein Mal-Genuß Extrakt::. h1.«
+Er Saß zusammengekauert da, die Ellbogen auf die Knie
+gestützt … »Mein armes Mädel«, sagte er noch leiser. »Ich
+und Frau Bourger, wir haben unser Möglichstes getan. Aber
+Hortensie war nicht mehr zu retten. Leider merkte ich erst
+vorgestern, daß sie dem Kat-Genuß verfallen ist.
 
-Als Stearin Greap ihm die volle Wahrheit über seine
-Verlobte mitteilte, freut Jack Hie Sunda sinken nachsetze
-scheinbar ohne große Teilnahme zu. ach Greaps Schlüssige
-erwidert?e er:
+Als Charly Greap ihm die volle Wahrheit über seine
+Verlobte mitteilte, ließ Jack die Hände sinken und hörte
+scheinbar ohne große Teilnahme zu. Auf Greaps Schlußfrage
+erwiderte er:
 
-»I will Sie nicht belügen: Mir ist es mit diesem Satan
-üäbulich ergangen! Nur daß ich mich nicht so leicht unter bekommen
-liebt« Er ballte die Fäuste … »Da — mit diese!
+»Ich will Sie nicht belügen: Mir ist es mit diesem Satan
+ähnlich ergangen! Nur daß ich mich nicht so leicht unterbekommen
+ließ!« Er ballte die Fäuste … »Da — mit diesen
 Händen habe ich den Teufel festgehalten — hier in meinem
-Himmel, aber der Kerl boxte frisch nieder. Hineintat war cx
+Zimmer, aber der Kerl boxte mich nieder. Zweimal war er
 hier, immer in der Maske des armen gutmütigen Guiseppe …
 Und dreimal ist dann auf mich geschossen worden, das mag einen
-Einmal her sein. Dreimal — — und jede Kugel verfehlte mich
-nur um Miltlimeterl. Ich behaupte, dieser Schurke ist der
-Ghost-Gangster, das Große Gespenst, wie er in der Unterweltkreisen
-genannt wird, da; Oben Stahl 1/t es nicht, sein,
-das ist bin Irrtum!«
+Monat her sein. Dreimal — — und jede Kugel verfehlte mich
+nur um Millimeter!. Ich behaupte, dieser Schurke ist der
+Ghost-Gangster, das Große Gespenst, wie er in den Unterweltkreisen
+genannt wird, doch Ben Amyl ist es nicht, nein
+das ist ein Irrtum!«
 
 Greap sog mißtrauisch an seiner Zigarette.
 
-»Wer Sonst, Mr. Bull?er«
+»Wer Sonst, Mr. Bull?!«
 
 »Kaptain Hutter — oder wie Sie sonst heißen mögen —
-Denn Amyl ist, so reime ich es mir zusammen, nur das Werkzeug,
-und zwar James Morris’ Werkzeug. Ich gebe seit
+Ben Amyl ist, so reime ich es mir zusammen, nur das Werkzeug,
+und zwar James Morris’ Werkzeug. Ich gehe seit
 Monaten diesem unsicheren Verdacht nach, meine Herren.
 Beweise habe ich nicht, aber mein Gefühl sagt mir: Morris
-ist das große Gespenst! — Sie wissen, ich warf früher im Schwester
-tätig, auch in New Orleans. Von dort her kenne in
+ist das große Gespenst! — Sie wissen, ich warf früher im Südwesten
+tätig, auch in New Orleans. Von dort her kenne ich
 <@pagebreak/>
-L)ÜorxiF Er hatte dauernd Weibergeschichten vor, und als er
-im einmal an die junge Frau eines Schmiedes Heranmachte,
+Morris. Er hatte dauernd Weibergeschichten vor, und als er
+sich einmal an die junge Frau eines Schmiedes Heranmachte,
 hat der ihn gefesselt und ihm Sämtliche Zähne ausgebrochen —
-Nr einer großen Zeuge … Das ist Tatsache, Die auch für die
-dortige Polizei sehr unliebsame Affäre wurde beinahe vertuscht.
+mit einer großen Zange … Das ist Tatsache. Die auch für die
+dortige Polizei sehr unliebsame Affäre wurde damals vertuscht.
 Noch andere Gerüchte gingen um: Morris sollte insgeheim
 Anführer einer Bande von Hafenpiraten sein. Bewiesen
 ist nichts, aber Morris verschwand sehr eilig aus New
 Orleans, als ihm seine politischen Freunde hier den besseren
-Posten verschafft hatten. — Mehr kann ich Ihnen nicht Jagen.«
+Posten verschafft hatten. — Mehr kann ich Ihnen nicht sagen.«
 
-… Harst zuckte unzufrieden die Achseln, »Gerüchte?! Was
-Zéxz]ßitl?du»;?l — Und wie war die Sache mit dem Gebiß, Mr.
-— Bull?« …
+Harst zuckte unzufrieden die Achseln. »Gerüchte?! Was
+nützt das?! — Und wie war die Sache mit dem Gebiß, Mr.
+— Bull?«
+
 Jack trank und meinte nur: »Wie ich es Ihnen erzählte.
-Mein Kollege Nichts Hand das Gebiß unweit der Mordstelle
-im Sande, also drüben jenseits des Baches, Stelle dieser Wasser
-
+Mein Kollege Archi fand das Gebiß unweit der Mordstelle
+im Sande, also drüben jenseits des Baches, falls dieser Wasser-
 graben den Namen verdient,«
-» Wie weit ab von der Stelle, wo der Blinde nieder
 
-geknallt wurde«?«
+»Wie weit ab von der Stelle, wo der Blinde nieder-
+geknallt wurde?«
 
-»Etwa fünfzig Meter … —. Machen Sie sich aus alledem
-ihren eigenen Berg, meine Herren. Ich bin hundemüde …
-
-Old verdienen als Berichterstatter ist schlauer als Berge
-
+»Etwa fünfzig Meter … — Machen Sie sich aus alledem
+ihren eigenen Vers, meine Herren. Ich bin hundemüde …
+Geld verdienen als Berichterstatter ist schlimmer als Berg-
 Mann sein, glauben Sie mir.«
 
 Wir verabschiedeten uns, und Jack Bull geleitete uns
 bis zur Tür.
 
-»dich möchte doch mochten mal nach Hortensie sehen«, erklärte
+»ich möchte doch noch mal nach Hortensie sehen«, erklärte
+er mit mehr Gefühl, als ich ihm zugetraut hatte.
 
-er nicht mehr Gefühl, als ich ihm zugetraut hatte.
-meinem Erstaunen erhob jedoch Sergeant Wilkiens,
-
-Ö
-der vor Miß Doops« Tür auf einem Stuhle Saß, energisch
-
+Zu meinem Erstaunen erhob jedoch Sergeant Wilkiens,
+der vor Miß Doops' Tür auf einem Stuhle Saß, energisch
 Einspruch.
+
 »Kaptain, — allerhöchster Befehl, — soeben eingetroffen,
-
 Weylt überbrachte die Meldung: Miß Doops muß aufs
-
-schärfste bewacht werden, und nicht einmal Zähnen, Kaptain,
-
+schärfste bewacht werden, und nicht einmal Ihnen, Kaptain,
 dürfte ich den Zutritt gestatten.«
-Charly Greap murmelte nur: »Das ist allerdings Getraut«
+
+Charly Greap murmelte nur: »Das ist allerdings seltsam!«
 
 <@pagebreak/>
 Wir verließen das Haus. Die Straße war leer, zwei
-Elegante in Uniform patrouillierten auf und ab, und wir
-kletterten in das wartende Mund, das sofort mit uns davonschoß.
+Beamte in Uniform patrouillierten auf und ab, und wir
+kletterten in das wartende Auto, das sofort mit uns davonschoß.
 Am Steuer saß der schneidigste Chauffeur Chicagos, der
 kleine Weylt.
 
 Greap pochte an die Scheibe. »Hallo, Weylt, — Wilkiens
 erzählt mir da soeben von …«
 
-»Lassen Sie nur, Greap« Die allerhöchste Stelle war diese
-
+»Lassen Sie nur, Greap. Die allerhöchste Stelle war dies-
 mal ich! — Weylt, nach dem Sheamer-Palais, aber auf Umwegen
 — — und Tempo! Wir werden zweifellos verfolgt
 werden.«
-»Sind Sie des Teufels, Harst«, wandte Greap entsetzt
-ein. »Sekt um drei Uhr morgens können wir doch unmöglich
-3ve Sheamer Hohnlachen! Der Verdacht gegen ihn ist hinfällig,
-er hat Dorit Bourger nimmer. getötet, wir wissen jetzt
-doch) am besten, daß es das große Gespenst tat, und …«
 
-»die werden sich wundern!«, — Harst drehte sich halb
+»Sind Sie des Teufels, Harst«, wandte Greap entsetzt
+ein. »Jetzt um drei Uhr morgens können wir doch unmöglich
+Joe Sheamer heimsuchen! Der Verdacht gegen ihn ist hinfällig,
+er hat Dorit Bourger nimmer getötet, wir wissen jetzt
+doch am besten, daß es das große Gespenst tat, und …«
+
+»Sie werden sich wundern!«, — Harst drehte sich halb
 um und drehte den Kopf zum Fenster hinaus. Das Auto
-hoffe bereits die Milwaukee-Avenue erreicht und fuhr in
-einsam unheimlichen Tempo. Wenn nicht vorn zwischen den
-Scheinwerfern der grüne Leuchtstab ungekürzt hätte. daß Spiegel
+hatte bereits die Milwaukee-Avenue erreicht und fuhr in
+einem unheimlichen Tempo. Wenn nicht vorn zwischen den
+Scheinwerfern der grüne Leuchtstab angezeigt hätte, daß dieser
 tolle Wagen dem geheimnisvollen Kaptain Hutter gehöre,
-Tränen wir irgendwo abgefangen worden. Gerade in der Nähe
-der Eisenbahnüberführung der NorthWestern Linie zog Harst
-den Kopf wieder ein. »Zwei kleine, aber leider zu Blinde
+wären wir irgendwo abgefangen worden. Gerade in der Nähe
+der Eisenbahnüberführung der North-Western Linie zog Harst
+den Kopf wieder ein. »Zwei kleine, aber leider zu flinke
 Wagen sind hinter uns, Greap«, — er ließ sich in die Polster
-Tassen. Wir müssen abspringen. Ach werde Weißt Freiheit
+fallen. "Die allergrößte
 Unverschämtheit ist, daß sie ebenfalls das grüne Signal sehen
-lassen. Wir müssen abspringen, Ich werde Mochte Bescheid
-jagen. Dann muß unser Panzerauto wenden und die Kerle
+lassen.<@refnote 1> Wir müssen abspringen. Ich werde Weylt Bescheid
+sagen. Dann muß unser Panzerauto wenden und die Kerle
 nötigenfalls unter Feuer nehmen.« Er tippte dem Mann neben
-»Bett auf die Schulter und gab ihm genaue Instruktionen,
-Hier in der Nähe des Wehrloses wurde der Verkehr lebhafter…
-Weylt bog in die Kanal-Street ein, dann in die West Kautabak
-Street, wieder in die Franklin-Streckt, abermals nach links,
+Weylt auf die Schulter und gab ihm genaue Instruktionen.
+Hier in der Nähe des Bahnhofes wurde der Verkehr lebhafter.
+Weylt bog in die Kanal-Street ein, dann in die West Randolph
+Street, wieder in die Franklin-Street, abermals nach links,
 <@pagebreak/>
 stoppte in einer engeren Gasse, wir flogen hinaus und flitzten
-in eine grell erleuchtete Passage hinein, betraten einen Haustür,
+in eine grell erleuchtete Passage hinein, betraten einen Hausflur,
 dessen Nachtpförtner vor Greaps Ausweis diensteifrig
-an den Außenrand faßte und waren Minuten später in der
-Walls Street, wo eine Autotaxe uns schützend ausnahm. Es
+an den Mützenrand faßte und waren Minuten später in der
+Walls Street, wo eine Autotaxe uns schützend aufnahm. Es
 ging gen Südost zur vornehmen Michigan Avenue, Ecke Van
-Buren Expreß, wir Falten, und wieder nach einer Weile
-starker wir vor der hohen vergoldeten Gittertüin der marmornen
-Parkmauer Nr. 0o Sheamers. Greap läutete Sturm,
+Buren Street, wir zahlten, und wieder nach einer Weile
+standen wir vor der hohen vergoldeten Gittertür der marmornen
+Parkmauer Mr. Jo Sheamers. Greap läutete Sturm,
 wir drückten uns möglichst hinter die Marmorpfeiler, Harst
 belauert jedes nahende Auto, immer die rechte Hand in der
-Manteltasche, — diese Sehe hakte unser Blut ins Sieden
-gebracht, wir wußten ja, mit wem wir es zu tun hatten. Euch-.
+Manteltasche, — diese Hetze hatte unser Blut ins Sieden
+gebracht, wir wußten ja, mit wem wir es zu tun hatten. End-
 lich schlüpfte der Pförtner herbei. Greaps Geduldsfaden
-riß. »die verfluchte Sch’ldkröte, — — hier Kaptain Hutter
+riß. »Sie verfluchte Schildkröte, — — hier Kaptain Hutter
 vom Sonderdezernat der Detektivpolizei …!«
 
-»Achtung — — hinweisen!«
+»Achtung — — hinwerfen!«
 
 Harsts Stimme überschlug sich …
 
-ach sah nichts, ich hörte nur das Surren eines Nutzlos,
-Knattern von Schützen, fühlte Bleispritzer im Genick, Kugeln
-Wissen, brummten, klatschten, ein seltener Aufschrei, Glas
-!antat knisterten, Scboibenstücke klirrten auf Erbin, — dann
+Ich sah nichts, ich hörte nur das Surren eines Autos,
+Knattern von Schüssen, fühlte Bleispritzer im Genick, Kugeln
+pfiffen, brummten, klatschten, ein heiserer Aufschrei, Glasfenster
+knisterten, Scheibenstücke klirrten auf Stein, — dann
 Stille …
 
 Spuk das Ganze, Nachtspuk in einer Millionenstadt, die
-ich langsam an dieses unerhörte Treiben der Unterwelt mit
+sich langsam an dieses unerhörte Treiben der Unterwelt und
 ihres Ausganges gewöhnt hatte.
 
-Wir lebten noch … Aber jeder von uns hatte gesagt
-abbekommen, nicht rief gerade, nur Schrammen und Löcher
-in den Mänteln. aber die Marmorpfeiler sahen aus, als wären
-sie mit einer Spitzhacke in wütendem Hoerstörungsdrang bearbeitet
+Wir lebten noch … Aber jeder von uns hatte etwas
+abbekommen, nicht viel gerade, nur Schrammen und Löcher
+in den Mänteln, aber die Marmorpfeiler sahen aus, als wären
+sie mit einer Spitzhacke in wütendem Zerstörungsdrang bearbeitet
 worden.
 
-Der Pförtner lag mit zwei Fleischschüssen zum Boden und
+Der Pförtner lag mit zwei Fleischschüssen am Boden und
 winselte kläglich.
 
-»Fersen Sie uns die Schlüssel zu!«, fauchte Greap. »Sie
+»Werfen Sie uns die Schlüssel zu!«, fauchte Greap. »Sie
 verdammter Narr sind daran schuld!«
 
 <@pagebreak/>
 Aus dem Palais kamen Diener herbeigelaufen, und
-plötzlich erschien auch So Sheamer Selbst, vollständig angezogen.
+plötzlich erschien auch Jo Sheamer Selbst, vollständig angezogen.
 
-Greap nahm ihn beiseite. »Bitte, — hier mein Ausweist
-Führen Sie uns in Ihr Arbeitszimmer … Etwas flink, Mir.
+Greap nahm ihn beiseite. »Bitte, — hier mein Ausweis!
+Führen Sie uns in Ihr Arbeitszimmer … Etwas flink, Mr.
 Sheamer!! Und lassen Sie Ihre Diener das Haus bewachen!«
 
 Sheamer Sah bleich und übernächtigt aus. Die trüben
 verquollenen Augen bewiesen, daß er seit langem keinen Schlaf
-gefunden hoffte. Er stöhnte uns durch eine Vorhalle, deren
+gefunden hatte. Er führte uns durch eine Vorhalle, deren
 überladener Prunk etwa dem Geschmack von vor dreißig
 Jahren entsprach, in seine Bibliothek im ersten Stock, einem
 Riesensaal, kalt und unpersönlich, nirgends eine Spur von
 Behagen.
 
 Harst sagte sehr schroff: »Sie haben noch jetzt gearbeitet.
-Nicht hier! Ihr Arbeitszimmer wollen wir Becherts Sachen Sie
-gefälligst keine Geschichten, Uhr. Sheamer. Da — Ihr ZHZeigefinger
+Nicht hier! Ihr Arbeitszimmer wollen wir sehen! Machen Sie
+gefälligst keine Geschichten, Mr. Sheamer. Da — Ihr Zeigefinger
 und Mittelfinger zeigen frische Tintenspuren. Sogar
-der Jdackenausschlag ist mit Tinte bespritzt, ebenso das Oberhemd.
-Sie haben eine Füllfeder füllen wollen, und der Halber
+der Jackenaufschlag ist mit Tinte bespritzt, ebenso das Oberhemd.
+Sie haben eine Füllfeder füllen wollen, und der Halter
 erzeugt Solche Spritzer, wenn die Hand unsicher ist.«
 
-— Die Stirnwülste über Sheamers Augen verdickten Ich.
-»Neben Sie einen Haussuchungsbefehl. Kaptain Hutter?«,
-schrieb er den schlanken, jungenhaften Charly an, der neben
-diesen stiernackigen Millionär wie ein Knabe ausschaute.
+Die Stirnwülste über Sheamers Augen verdickten sich.
+»Haben Sie einen Haussuchungsbefehl, Kaptain Hutter?«,
+schnob er den schlanken, jungenhaften Charly an, der neben
+diesem stiernackigen Millionär wie ein Knabe ausschaute.
 
-Greap-Bursche zupfte sich das Blut von den Arabern der
-Backe. »zäh habe alles!«, sagte er drohend, »Sogar die Vollmacht,
-Ihnen hier sofort Handschellen anzulegen! Da —« sehen
-Sie den Ausweis, Sie …« — er verschluckte einen unparltamentarischen
+Greap-Hutter zupfte sich das Blut von den Kratzern der
+Backe. »Ich habe alles!«, sagte er drohend. »Sogar die Vollmacht,
+Ihnen hier sofort Handschellen anzulegen! Da — sehen
+Sie den Ausweis. Sie …« — er verschluckte einen unparlamentarischen
 Ausdruck. »Vorwärts also, — Ihr Arbeitszimmer
-liegt gleich dort nebenan, ich besitze einen Plan Schrei
+liegt gleich dort nebenan, ich besitze einen Plan Ihres
 Palais.«
 
 Er ging und stieß die Tür auf.
@@ -2149,95 +2141,94 @@ eine achtlos weggeworfene, noch qualmende Zigarre.
 Harst eilte hin, überflog den Tisch mit schnellem Blick,
 legte den Füllhalter und die Zigarre weg und klappte die
 Schreibunterlage empor. Darunter sahen wir einen halb beschriebenen
-Bogen, dessen setzte Zeilen verwischt waren…
+Bogen, dessen letzte Zeilen verwischt waren.
 
-Sheamer machte Miene, sich auf Kunst zu stürzen. Die
-Augen anwerben ihm aus dem Köpfte. Ein eiserner Geist Charly
-Greaps. und Sheamer sog in einen Sessel, wo er leichenfahl
+Sheamer machte Miene, sich auf Harst zu stürzen. Die
+Augen quollen ihm aus dem Kopfe. Ein eiserner Griff Charly
+Greaps, und Sheamer flog in einen Sessel, wo er leichenfahl
+liegen blieb.
 
-liegen blieb …!! …
 Harst las flüchtig die kurze Niederschrift und sagte dann
-
 zu Greap:
 
-»Es Astloch schlimmer, als ich vermutete. Ich ließ gestern
-durch Ihre Leute Male. Sheamer beobachten. Er hob fünf Millionen
+»Es ist noch schlimmer, als ich vermutete. Ich ließ gestern
+durch Ihre Leute Mr. Sheamer beobachten. Er hob fünf Millionen
 in bar ab, — ich glaubte, er wollte dem Ghost die Beute
-
 abkaufen, stimmt nicht …«
-Dann trat er auf den Millionär zu und gab ihm die
 
+Dann trat er auf den Millionär zu und gab ihm die
 Hand.
+
 »Entschuldigen Sie … Sie müssen entsetzlich gelitten haben.
 Dafür können Sie überzeugt sein, daß kein Wort an die
-Öffentlichen dringt. Obersteward Hirn Bourger war ein
-Schurke, Seine habgierige Frage Frau lebte nur in Millionenträumen,
-aber das große Gespenst, das von den blinden Geiger
+Öffentlichen dringt. Obersteward Jim Bourger war ein
+Schurke, Seine habgierige junge Frau lebte nur in Millionenträumen,
+aber das große Gespenst, das wir den blinden Geiger
 nennen wollen, strich sie aus der Liste seiner Kreaturen wie so
 viele andere, die ihn hätten verraten können.«
 
-Er reichte den halb heiligen Brief Kaptain Greap und
+Er reichte den halb fertigen Brief Kaptain Greap und
 fügte hinzu, während Greap mit wachsender Aufmerksamkeit
-ne Zeilen überflog. — »Celephonierein Sie von hier …! Dieses
+die Zeilen überflog. — »Telephonieren Sie von hier …! Dieses
 Palais muß bewacht werden. Keiner geht ein noch aus, —
-der kurze Stubenarrest, Mr. Sheamer, wird Sie nicht stören…
+der kurze Stubenarrest, Mr. Sheamer, wird Sie nicht stören.
 Von heute sind Sie ein freier Mann, heute wird das große
-
 Gespenst erledigt werden …!«
+
 Auch Greap gab Sheamer die Hand. »Ich bedauere Sie
+aufrichtig …!«, sagte er nur.
 
-aufrichtig …!«, Jagte er nur …
 Dann telephonierte er, wir warteten noch zehn Minuten,
-
 bis es unten im Park von Detektiven wimmelte.
+
 Vor dem Portal stand Greaps großes Panzerauto, dahinter
 <@pagebreak/>
-das kleinere, Die Michigan-Avenue war durch Um
-formidrie abgeriegelt, Ein geschmeidiger, älterer Herr bei
-traf ins den Weg. —
+das kleinere. Die Michigan-Avenue war durch Uniformierte
+abgeriegelt. Ein geschmeidiger, älterer Herr vertrat
+uns den Weg.
 
-» Ab — zum erste! Male habe ich das Vergnügen, Karte:
-Greap …«, meinte er unverhohlen feindselig. »Sie also habe
+»Ah — zum ersten Male habe ich das Vergnügen, Kaptain
+Greap …«, meinte er unverhohlen feindselig. »Sie also haben
 mich als Chef der Detektivpolizei ausgeschaltet!«
 
-Charly nickte gelassen. »Und Sie bleiben ausgesetzte:
-Mr. Grotte. Es sei den, Sie wünschen Kaptain Morris«
-Schicksal zu teilen. Der erst nämlich! Unser sehr Ehrenwort«.
-Herr Bürgermeister weiß ganz genau, was er tut. — Wut«:
-Worten …««
+Charly nickte gelassen. »Und Sie bleiben ausgeschalten,
+Mr. Brouce. Es sei denn, Sie wünschen Kaptain Morris'
+Schicksal zu teilen. Der sitzt nämlich! Unser sehr ehrenwerter
+Herr Bürgermeister weiß ganz genau, was er tut. — Guten
+Morgen …«
 
-Mr. Frage lächelte etwas blöde und hüstelte brennt
-den Hut. — —
+Mr. Brouce lächelte etwas blöde und lüftete verwirrt
+den Hut. —
 
-Es ging gen Norden zum neuen Hauptquartier. Wi
-benutzten das kleine Auto, das große folgte. — Wagnis erstattete
-Bericht. Die beiden Wagen der Verfolger Ware;
+Es ging gen Norden zum neuen Hauptquartier. Wir
+benutzten das kleine Auto, das große folgte. — Weylt erstattete
+Bericht. Die beiden Wagen der Verfolger waren
 entkommen, — der eine hatte dann das mörderische Schnellfeuer
 am Sheamer-Gitter inszeniert und war davongesaust
 
-»Fixe Kerle!«, Jagte Weylt anerkennend. »Weiß bei
-Teufel, woher sie die famosen Rennwagen bezogen Geheul!«
+»Fixe Kerle!«, sagte Weylt anerkennend. »Weiß der
+Teufel, woher sie die famosen Rennwagen bezogen haben!!«
 
-Harst rauchte und lächelte. »Heute abend können Ei,
+Harst rauchte und lächelte. »Heute abend können *Sie*
+einen der Wagen steuern, wenn Sie wollen … die Geschichte
+ist aus!«
 
-ysimntsu:r Wagen steuern, ’wenn Sie wollen … die Geschickt«
-St aus!«
-Aus Umwegen erreichten wir das Gelände nördlich bei
+Auf Umwegen erreichten wir das Gelände nördlich der
 Brandstelle, wanderten zu Fuß zum zementierten Hauptquartier,
-vor dessen Pforte der alte Entwarf hockte und seine
-Pfeife rauchte. «
+vor dessen Pforte der alte Torwart hockte und seine
+Pfeife rauchte.
 
 »Morgen, Vater …«, begrüßte Charly Greap ihn mit
-aller Herzlichkeit. »Ja, Harst, es ich mein Vater … 0öch
+aller Herzlichkeit. »Ja, Harst, es ist mein Vater … Ich
 brauchte hier noch einen zuverlässigen Mann als Verwalter
-des Hauptquartiers!!«
+des Hauptquartiers!«
 
 <@pagebreak/>
 
 <h2>7. Kapitel.</h2>
 <h3>Das großen Gespenst.</h3>
 
-— Als Packen unter in den nm]sxqon Gewölben dzorlensie
+Als Greap unter in den nm]sxqon Gewölben dzorlensie
 Doops aus einem Feldbett hinter einem Nr hörten]]]ihm] »Wandschirm
 schlafend vorfand, machte er doch ein sehr erstauntes
 Gesicht. »Nanu, — was soll den das«!!!« meinte er leise.
