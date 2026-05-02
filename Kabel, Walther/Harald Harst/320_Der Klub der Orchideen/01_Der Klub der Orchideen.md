@@ -12,7 +12,7 @@ mich immer wieder aufweckte. Ich hatte des öfteren die Nachttischlampe
 eingeschaltet und fühlte mich wiederholt versucht, überhaupt
 aufzustehen und zu Harst hinüberzugehen, der um Mitternacht,
 als wir uns trennten, noch in seinem Klubsessel am Kamin
-sitzen geblieben war und neben sich auf einem Stühle ganze
+sitzen geblieben war und neben sich auf einem Stuhle ganze
 Stöße von Reisebeschreibungen berühmter Forscher aufgehäuft
 hatte. — Zweimal glaubte ich auch im Flur Geräusche zu vernehmen,
 eine Tür schien zu klappen, aber die Musik des Schneesturmes
@@ -38,7 +38,7 @@ Seine Antwort befriedigte mich keineswegs. »In Gedanken
 magst du im Staate Bhutan an der Himalaja-Grenze gewesen
 sein. Wo war dein irdischer Leib samt Skistiefeln?«
 
-Eine Gewisse Ermüdung, die sein hageres Gesicht und
+Eine gewisse Ermüdung, die sein hageres Gesicht und
 seine Augen verrieten, trat nun auch in der matten Handbewegung
 zutage.
 
@@ -225,7 +225,7 @@ Nun, einen Anhaltspunkt besaß ich: Die grüne Orchidee!
 Die armen Zeitungsreporter, die es ja so schwer haben,
 für ihre Blätter eine Sensation zu erwischen, die nicht
 sofort in den Papierkorb des Herrn Nachrichtenredakteurs
-wandert, halten da letztens glücklich einige Einzelheiten
+wandert, hatten da letztens glücklich einige Einzelheiten
 über einen neuen Klub gründlich ausgeschlachtet, der sich
 Orchideen-Klub nannte und sein Heim in einer Villa am Havelufer
 aufgeschlagen hatte. Mitglieder dieser Vereinigung waren
@@ -241,7 +241,7 @@ Orchideenarten sind wirkliche »Fleischfresser« und fangen
 mit ihren raffinierten Blütenfallen Insekten und Käfer ein
 und verspeisen sie nach eingetretener Verwesung. Immerhin
 wollte man wissen, daß der Klub sogar über zwei Exemplare
-der höchst seltenen Nepenthes gigantea Darwini  verfüge,
+der höchst seltenen Nepenthea gigantea Darwini  verfüge,
 einer Riesenpflanze, die aus Südamerika stammend, sogar
 kleine Vögel verschlingt.
 
@@ -333,7 +333,7 @@ mich doch wieder unsicher.
 
 »Immer noch Gerald Strick,« bestätigte er verbindlichst.
 »Nur mal wieder in anderer Aufmachung und auf neuen Pfaden
-der Ohrgaunerei … — Sie gestatten …«
+der Obergaunerei … — Sie gestatten …«
 
 Und mit aller größter Selbstverständlichkeit nahm er
 nun beide Koffer, schritt mir voran, verstaute sie im Wagen
@@ -354,7 +354,7 @@ für sich, unbedingt. Er vereinigt in sich alle Eigenschaften,
 die ihm eine glänzende bürgerliche Laufbahn sichern würden.
 Er hat den anderen Weg gewählt, den der Außenseiter des
 Lebens, und diese Wahl wurde ihm aufgezwungen durch die
-Tragödie seiner Eltern. Mr. Emanuel Strangs erhängte sich,
+Tragödie seiner Eltern. Mr. Emanuel Strang erhängte sich,
 und den Strick, der ein verpfuschtes Dasein beendete, wählte
 der einzige Sohn als neuen Namen und gleichzeitig als sein
 Signum: Ein winziges Endchen Strick! — Meine lieben Leser
@@ -597,11 +597,11 @@ geeilt und brach vollkommen zusammen, als wir ihm mitteilen
 mußten, daß die Spuren im Schnee des Gartens hier die Tragödie
 gleichsam verdoppelten … Das junge Mädchen ist gewaltsam
 von drei Leuten durch das Fenster ihres Zimmers über eine
-Leiter hinab geraubt worden. Sie sehen ein, Harst, das unter
+Leiter hinab geraubt worden. Sie sehen ein, Harst, daß unter
 diesen Umständen …«
 
 »… Moorcroft erst recht nicht erfahren darf, daß ich
-ihm beobachtet habe,« vollendete Harst den Satz mit ungewohnter
+ihn beobachtet habe,« vollendete Harst den Satz mit ungewohnter
 Schärfe. »Moorcroft selbst ist der Mörder, und …«
 
 Jetzt fiel Penz ihm ins Wort. »Allzu fix, mein Lieber,
@@ -646,7 +646,7 @@ und die Unmöglichkeit, einen der Kerle aufs Korn zu nehmen,
 die sämtlich in weißen Mänteln und Kapuzen mit nur schmalen
 Augenschlitzen steckten und die Mauer ringsum besetzt hielten.
 
-Wirklich, es blieb ein Wunder, das Penz lediglich am
+Wirklich, es blieb ein Wunder, daß Penz lediglich am
 linken Ohrläppchen blutete und daß Harst nur den Pelzkragen
 seines Sportpelzes später erneuern lassen mußte, da zwei
 Furchen in Schulterhöhe fingerlang das nackte Opossumfell
@@ -655,7 +655,7 @@ aber mit Pistolen auf ein Ziel zu schießen, das sich von
 der weiß beschneiten Mauerkrone kaum abhebt, ist immer eine
 sehr fragwürdige Sache, und sogar nachher, als wir aus den
 Fenstern des Oberstockes der Villa uns die Burschen zu langen
-suchten, wäre deren gefährlichste Waffe, eine, große, dreipfündige
+suchten, wäre deren gefährlichste Waffe, eine große, dreipfündige
 Ekrasit-Handgranate, doch wohl nur unser aller Verderben
 geworden, da die ungeheure Sprengwirkung das ganze Haus
 glatt zum Einsturz gebracht hätte, wenn nicht unser Trottel
@@ -690,13 +690,13 @@ geraubt hatte. Niemand behelligte ihn, jeder behandelte
 ihn mit zartester Rücksicht, sogar Harst schien ehrliche
 Teilnahme zu empfinden, — die polizeilichen Recherchen
 und Maßnahmen gingen weiter, und im Grunde waren wir hier
-draußen ganz Überflüssig. Penz händigte Harst noch eine
+draußen ganz überflüssig. Penz händigte Harst noch eine
 Skizze der Spuren auf dem bewußten Gelände ein, und so gegen
 zwei Uhr nachmittags fuhren wir davon und überließen der
 offiziellen Macht das fragwürdige Problem dieser Orchideen-Brüder.
 
 Auch in Berlin fanden wir nur noch Nässe, Schlamm,
-Schneeschipperkolonnen und Gummischuhbewaffnete eilige Großstädter
+Schneeschipperkolonnen und gummischuhbewaffnete eilige Großstädter
 an, die heimlich den Winter verwünschten und die Autos laut
 verfluchten, die ihnen vom Fahrdamm Schmutzsalven gegen
 die Bügelfalten und Seidenstrümpfe spritzten.
@@ -823,7 +823,7 @@ verzog sich in die Garage.
 Das Orchideen-Problem war jetzt in ein Stadium gerückt,
 das von uns die allersubtilste Behandlung erforderte, wenn
 wir nicht dem unübertrefflichen Mr. Gerald Strick einen
-üblen Strick drehen wollten, — Penz trat schnaubend und
+üblen Strick drehen wollten. — Penz trat schnaubend und
 keuchend ein und verkündete mit unheilvollem Ernst, seine
 große Erregung nur mühsam meisternd:
 
@@ -838,7 +838,7 @@ bat leise und ganz geistesabwesend: »Bitte — nur drei Minuten
 Ruhe — drei Minuten …«
 
 Penz brummte bissig: »Zehn Minuten, wenn Sie mir nachher
-sagen, was man von alledem Kudelmuddel zu halten hat … —
+sagen, was man von alledem Kuddelmuddel zu halten hat … —
 Schraut, ein Weinglas Kognak … Dann bin ich still …«
 
 <h2>4. Kapitel.</h2>
@@ -868,10 +868,10 @@ Er traf zu: Penz hatte recht — Kuddelmuddel!
 
 Und wir beide?!
 
-Wir saßen im Gründe übel in der Tinte, um im Stil des
+Wir saßen im Grunde übel in der Tinte, um im Stil des
 »Kuddelmuddel« weiterzureden. Wir hatten Gerald Strick als
-Verbündeten angenommenen, und Stricks Gattin Ulla war zweifellos
-die dicke Frau gewesen, die uns ans der Pforte des Klubhauses
+Verbündeten angenommen, und Stricks Gattin Ulla war zweifellos
+die dicke Frau gewesen, die uns aus der Pforte des Klubhauses
 zugewinkt und drei und einen halben Finger abgespreizt und
 auf den Fluß als Fluchtweg gedeutet hatte: Drei und ein
 halb Zentimeter war die Eisdecke dick!! Hinter Strick lief
@@ -930,7 +930,7 @@ dasselbe. Dieser »Fall« verlangt größte Sorgfalt …
 »… Alles, was Moorcroft mir und Ihnen über seine vier
 »Abenteuer« berichtete, stimmt bis auf Kleinigkeiten … Darüber
 reden wir nachher. Jedenfalls bin ich nicht dem vom Himmel
-herrabschwebenden Skiläufer gefolgt, — sondern Moorcroft
+herabschwebenden Skiläufer gefolgt, — sondern Moorcroft
 und …«
 
 »Halt — — halt …!« Penz kaut wütend an der Zigarre.
@@ -980,7 +980,7 @@ Penz gewaltige Faust fährt auf die Sessellehne hernieder.
 »So — nun kapiere ich … Es waren mit einem Male zwei Moorcrofts
 zur Stelle! Genau so gekleidet, und …«
 
-»Der eine wurde aus dem Flugzeug etwas plötzlich und
+»… Der eine wurde aus dem Flugzeug etwas plötzlich und
 gewaltsam hinausbefördert, er ließ den Fallschirm nach glücklicher
 Landung los, der Sturm nahm das Ding, das samt Stricken
 aus leicht brennbaren Stoffen bestand, mit sich, aber unser
@@ -998,7 +998,7 @@ Ich konnte ihn nicht einholen, hielt es auch für richtiger,
 abzuwarten, denn die von mir beobachteten Vorgänge wiesen
 auf ein umfangreiches, undurchsichtiges Komplott hin. In
 die Stadt zurückgekehrt, rief ich um vier Uhr die Polizei
-an. — Das wären hie Tatsachen. Und aus diesen folgere ich
+an. — Das wären die Tatsachen. Und aus diesen folgere ich
 zwangsläufig, daß Ihr Selbstmörder, lieber Penz, nicht unser
 seelisch gebrochener Moorcroft ist …« — Die beizende, drohende
 Ironie war deutlich herauszuhören —, »sondern eben der 
@@ -1074,7 +1074,7 @@ ein wirklich treffender Ausdruck zu finden ist.
 
 Wir sahen hier alles vereint, was die Wissenschaft
 zu der gefräßigen Art der käferschluckenden Pflanzen rechnet.
-Da waren viele Nepenthes-Arten (Krugpflanzen) mit beutelähnlichen
+Da waren viele Nepenthea-Arten (Krugpflanzen) mit beutelähnlichen
 Fallen, über denen die Fangdeckel schwebten, da waren Prachtexemplare
 von Venusfliegenfallen, die so sehr den stachelbewehrten
 Teller- oder Fuchseisen gleichen, da waren exotische, noch
@@ -1117,7 +1117,7 @@ mit eigentümlich gestrafften Mienen, die beinahe verzerrt
 waren, grüblerisch und regungslos den Toten anstarrte.
 
 Auch ich fühlte fiebrigen Schweiß auf der Stirn. Die
-Luft hier war erstickend, — da vor mir hing eine Nepenthes
+Luft hier war erstickend, — da vor mir hing eine Nepenthea
 mit einem grünlichen Sack, der fast fünfzig Zentimeter lang
 war, und eine gelbe dumme Biene setzte sich gerade auf den
 geriffelten Rand des Sackes nieder, und dieser Rand ist
@@ -1176,7 +1176,7 @@ Argus leistet in dieser Hinsicht ebenfalls schnelle und
 gewissenhafte Arbeit …« Nochmals eine Pause, nur länger
 … noch drückender. »Dieser Tote, Penz, ist *unser* Moorcroft
 … Betrachten Sie seine braunen Schuhe … Schraut wird mir
-bestätigen, daß ich schön vormittags feststellte, daß Moorcroft
+bestätigen, daß ich schon vormittags feststellte, daß Moorcroft
 mit dem Messer die Schuhe beschabt hat, um einen längeren
 Gebrauch von Schneeschuhen vorzutäuschen …«
 

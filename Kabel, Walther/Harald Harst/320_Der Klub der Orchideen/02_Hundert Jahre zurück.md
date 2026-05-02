@@ -8,7 +8,7 @@ Baron Günther von Stock war ein Mann unbestimmbaren
 Alters. Tatsächlich zählte er vierzig Jahre, und zehn davon
 hatte er sich in den Tropen umhergetrieben, bis eben das
 Ende Weltkrieges auch ihn mit einem bescheidenen Rest seines
-Vermögens nach Berlin flüchtet ließ.
+Vermögens nach Berlin flüchten ließ.
 
 Stocks hagere, lange Gestalt, straff, kraftvoll, verdankte
 ihre nachlässige Eleganz nicht nur einem erstklassigen Schneider.
@@ -75,7 +75,7 @@ Taktik, den toten Moorcroft nach Möglichkeit rechtzeitig
 zu belasten?!
 
 Harst rauchte gleichgültig. Bevor Stock eintrat, hatte
-er die Trittleiter wieder weggebracht uns deren Einbrücke
+er die Trittleiter wieder weggebracht und deren Eindrücke
 im Kies verwischt. Er schien sich um den Baron nicht weiter
 zu bekümmern, er beobachtete die unheimlichen Pflanzen,
 umso überraschender kam seine hastige, kurz hervorgestoßene
@@ -140,7 +140,7 @@ recht beleibte Köchin, die etwa zugleich mit Mr. Strick
 gemietet wurde, vorhin auf meine Fragen hin sehr verlegen
 wurde und für Stricks heimliche Verehrung für Marga Balzer
 ungewöhnliches Interesse bekundete, das ich zu spät als
-Eifersucht deutete … Leiber duldete ich es auch, daß die
+Eifersucht deutete … Leider duldete ich es auch, daß die
 Person mit ihrem Einkaufskorb vorhin das Haus verließ. Ich
 fürchte, sie wird nicht wiederkehren … In ihrem Zimmer sieht
 es recht wüst aus, sie scheint im Ofen verschiedenes noch
@@ -169,7 +169,7 @@ Nach dieser neuen Unverschämtheit eine knappe Verbeugung
 Wenn ich meinem Augenblicksgefühl hätte folgen können,
 würde ich dem Baron Stock die Faust zu kosten gegeben haben.
 Ich durchschaute die ungeheure Heimtücke seiner schlauen
-Schachzuges, von denen der raffinierteste der war, das er
+Schachzüge, von denen der raffinierteste der war, daß er
 Ulla Stricks Eifersucht künstlich geschürt hatte. Er kannte
 die Frauen, und er mochte Ulla Beweise für Stricks angebliche
 Liebe zu Marga Balzer beigebracht haben, die einer heißblütigen
@@ -219,7 +219,7 @@ surrten.
 
 »Dummer Kerl!«, brummte er dann.
 
-Harst- ließ sofort ein leises »still — — Achtung!!«
+Harst ließ sofort ein leises »Still — — Achtung!!«
 hören.
 
 Wir horchten …
@@ -289,7 +289,7 @@ haben.«
 
 Penz marschierte schon voraus und knurrte mit halb
 zurückgewandtem Kopf: »Keine Sorge! Die Villa ist so eng
-und so unauffällig eingekreist, das nicht einmal ein Karnickel
+und so unauffällig eingekreist, daß nicht einmal ein Karnickel
 durchschlüpfen könnte, — sehen wir uns also Stocks Boxtraining
 und das ausgeplünderte Versteck seiner Juwelen an, — — Juwelen:
 Schlösser die im Monde liegen — — und so weiter!«
@@ -301,7 +301,7 @@ In der Vorhalle, die außer kostbaren Teppichen die
 Ölgemälde der sechs größten Botaniker und als siebentes
 Bild das des vielseitigen Forschers Darwin zeigte, der ja
 als erster experimental nachgewiesen hatte, daß die fleischfressenden
-Pflanzen ihre Beute auch wirklich als Nahrung verbauen,
+Pflanzen ihre Beute auch wirklich als Nahrung verdauen,
 — in dieser hell beleuchteten Vorhalle saß einsam in einem
 Klubsessel ein dürres Männlein mit dem melancholischen Gesicht
 eines pleite gegangenen Sarghändlers: Wachtmeister Schnick,
@@ -383,7 +383,7 @@ Penz hatte uns mitlesen lassen. Jetzt drückte er die
 Flasche Harst in die Hand und stürzte zum Fenster, riß es
 auf und brüllte in den Garten hinab:
 
-»Das Auto des Trainers ist auf zuhalten, — den Mann
+»Das Auto des Trainers ist aufzuhalten, — den Mann
 festnehmen!«
 
 Und von unten kam die Antwort: »Ist vor drei Minuten
@@ -473,7 +473,7 @@ Schneider und Präsident von Würm … Harst, ahnen Sie was?!«
 
 Schnick mit dem aufgequollenen Diadem torkelte ins
 Zimmer und meldete bedenklich heiser und matt: »Der Herr
-Polizei …«
+Polizei…«
 
 Auf der Schwelle standen bereits *sechs* Herren — sechs …
 
@@ -526,7 +526,7 @@ und ebenso kalt sagte er:
 sich jeder Schritt eines Menschen nachkontrollieren … Wenn
 Sie also einmal die Geschichte des Orchideen-Klubs schreiben,
 lügen Sie nicht zu viel … Ich war in der verflossenen Nacht
-an der Eiche, als die Gewissen Dinge sich abspielten, und
+an der Eiche, als die gewissen Dinge sich abspielten, und
 Sie haben mich nicht bemerkt. Deshalb der heutige Generalsturm
 auf die Villa Balzer. Tote reden nicht … — Balzer ist tot,
 Moorcroft ist tot … — — Lieber Penz, vergessen Sie nicht,
@@ -735,7 +735,7 @@ zu beweisen, die umso unbegreiflicher erschienen, als Ulla,
 geborene Karsten körperliche und geistige Vorzüge aufzuweisen
 hatte, die die des Durchschnitts der Frauen weit übertrafen.
 
-»Herr Harst,« verkündete ihre flatternde Stimme. »Strick
+»Herr Harst,« verkündete ihre flatternde Stimme, »Strick
 scheint die Fährte der verschwundenen Marga, dieser — Marga,
 gefunden zu haben … Ich klebe ihm auf den Fersen, und in
 dem Moment, wo er sie befreit, wird er selbst die Handschellen
@@ -763,7 +763,7 @@ uns so spät noch besuchen?!
 
 Durch die Tür schob sich Penz’ massige, bewegliche
 Gestalt, er hatte im Mundwinkel eine lange pechschwarze
-Brasil, aber deren schwärze stach scharf ab von dem breiten,
+Brasil, aber deren Schwärze stach scharf ab von dem breiten,
 behaglichen Lächeln des klugen, beherrschten Gesichts.
 
 »N’ Abend, Schrautchen … Was glotzen Sie mich so an?!
@@ -789,7 +789,7 @@ geklaut?!«
 »Weiter!«, wich Harst achselzuckend aus.
 
 »Aha — also Sie gaben ihm Geld. Nett von Ihnen … Schnicks
-Schwiegermutter habe im heute zum ersten Mal lächeln sehen
+Schwiegermutter habe ich heute zum ersten Mal lächeln sehen
 … Das will was heißen!! — Nun zu den Vorgängen im Klubhaus.
 Ich verarge es den hohen Herren keinen Augenblick, daß sie
 mich auf Eis gelegt haben. Der Klub hat größtenteils Mitglieder
@@ -799,7 +799,7 @@ anständige Leute zu bluffen — wie den Kommerzienrat Schneider,
 den Präsident von Sturm, den Generaldirektor Lubliner und
 andere. Als dieses Massenaufgebot den Oberchef drangsalierte,
 mußte dem ja schwül zu Mute werden. — Kurz und bündig: Der
-Baron Stock log sich heraus, und als wir in dem verfl …
+Baron Stock log sich heraus, und als wir in dem verfl…
 Gewächshaus oben den Hängeboden untersuchten, war dort keine
 Spur von einer Spur eines Stiefels mit Gamaschen mehr vorhanden,
 man hatte alles fein säuberlich verwischt und nur Ihre Fährten
@@ -810,7 +810,7 @@ Harst fragte schnell: »Stand der Posten noch vor der
 Tür des Gewächshauses?«
 
 »Zwei sogar … Keine Seele war vorher im Gewächshaus
-gewesen … « Penz schmunzelte … »Keine Seele, und doch war
+gewesen …« Penz schmunzelte … »Keine Seele, und doch war
 jemand da, der die Spuren ausgetilgt hatte …«
 
 »Also ein zweiter geheimer Eingang,« erklärte Harst
@@ -838,8 +838,8 @@ ebenfalls den Fall »Orchideen-Klub« Punkt für Punkt zu Papier
 gebracht. Und wenn Sie beide es wagen sollten, zweifelnd
 zu feixen und etwa anzudeuten, ich hätte Stricks Ausarbeitung
 abgeschrieben, passiert Ihnen dasselbe wie Stock. Ich bin
-nicht Boxtrainer, aber ich genieße in Gewissen Kreisen den
-Ruf, ein ganzes gesunde — Gebiß mit einem Hieb lockern zu
+nicht Boxtrainer, aber ich genieße in gewissen Kreisen den
+Ruf, ein ganzes gesundes Gebiß mit einem Hieb lockern zu
 können. — Hören Sie also zu … Sie werden merken, daß ich
 im Endergebnis zu genau derselben Überzeugung gelangt bin:
 Zwischen den beiden Bhutanesen, Marga und Moorcroft, dem
@@ -961,7 +961,7 @@ meinte Harald trübe …
 
 Dann kam Schnick, lächelnd wie ein Hausierer, der den
 größten Schund an den Mann bringen will. Er roch nach Bier,
-und Penz grobste ihn derart an, das Schnick all die schönen
+und Penz grobste ihn derart an, daß Schnick all die schönen
 neuen Witze der Stettiner Sänger vergaß und verschüchtert
 auf einer Stuhlecke hockte. Penz, Hände in den Hosentaschen,
 hielt ihm einen endlosen Vortrag über die Kunst, logisch
@@ -986,16 +986,16 @@ Autofahrt legten wir die letzte Strecke Wegs zu Fuß zurück.
 
 In einem Erlendickicht  im tiefsten Dunkel stießen
 wir auf drei Herren, die uns flüsternd begrüßten. Der Oberchef
-und ein anderer hoher Herrn drückten uns die Hand, stellten
+und ein anderer hoher Herr drückten uns die Hand, stellten
 uns dem dicken Murray vor, der gegen alles Herkommen einen
 Hängeschnurrbart und Bartkoteletten trug und dessen Stimme
 verzweifelte Ähnlichkeit mit einer sehr rostigen quietschenden
 Türangel besaß. Der Oberinspektor radebrechte das Deutsch
 in haarsträubender Verhunzung. »Mr. Sergeant Plex,« erklärte
 er, »bewacht das Gewächshaus. Boog und die anderen sechs
-Orchideen haben sich da mit einem Frauenzimmer zusammengetan.
+Orchideen haben sich da mit einem Frauenzimmer zusammengetan …
 Und dann schleicht hier noch ein Bursche umher, der mir
-… — Achtung, das war Plex Signal …«
+… — Achtung, das war Plex’ Signal …«
 
 Wir sahen von der Flußseite der Villa ein grünes Licht
 dreimal aufblinken.
@@ -1013,7 +1013,7 @@ Sergeant Plex winkte nur nach der Pforte hin und verschwand
 wieder.
 
 Im Schatten der offenen Pforte erwartete er uns. »Leise,
-— — Vorsicht?! Es waren die sieben und das Frauenzimmer,
+— — Vorsicht! Es waren die sieben und das Frauenzimmer,
 und hinter ihnen schlüpfte noch der Kerl ins Gewächshaus,
 der sich hier seit Stunden herumdrückt,« zischelte der Sergeant
 sehr aufgeregt. »Ich glaube den Kerl jetzt erkannt zu haben
@@ -1043,7 +1043,7 @@ Der Oberinspektor ließ seine Taschenlampe nur Sekunden
 aufblitzen …
 
 Ringsum wucherten die fleischfressenden Pflanzen, und
-die rosigen Kannen der Nepenthes gigantea Darwini, nur in
+die rosigen Kannen der Nepenthea gigantea Darwini, nur in
 zwei Exemplaren vertreten, hingen wie grüne Säcke zwischen
 ihren kleineren Artgenossen.
 
@@ -1153,7 +1153,7 @@ Forschers. Trotzdem hielt es John Boog für angebracht, Balzer
 zu ermorden, denn Margas Entführung hätte ja den Professor
 stutzig machen und die Zusammenhänge aufdecken können. Die
 Bedeutung des Goldreifens um Margas Oberarm hat Balzer nicht
-gekannt, sonst hätte er ja gewußt, das sein Adoptivkind
+gekannt, sonst hätte er ja gewußt, daß sein Adoptivkind
 eine Nachkommin jenes Forschers Moorcroft war. Vielleicht
 erklären nun Sie, Doktor Moorcroft, den Rest …«
 
@@ -1279,7 +1279,7 @@ Zettel, — — hier steht getippt:
 
 > Mit verbindlichstem Dank zurück.
 
-<p class='centered'>Ihr dankbarer Bruchmacher\-müller.«</p>
+<p class='centered'>Ihr dankbarer Bruchmacher-müller.«</p>
 
 <p class='centered'>/</p>
 
