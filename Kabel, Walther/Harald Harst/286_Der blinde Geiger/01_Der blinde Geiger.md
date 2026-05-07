@@ -170,7 +170,7 @@ später. Prüfen wir zunächst den Haupttrick der Bande, den
 vergifteten Malaga-Wein, der ein sehr schnell wirkendes
 Schlafmittel enthielt. Mr. Joe Sheamer hat bereits erklärt, der
 Obersteward habe diesen Wein besorgt. Aber der Obersteward
-ist tot, erschossen. Daß der Mann mit der Piraten verbündet
+ist tot, erschossen. Daß der Mann mit den Piraten verbündet
 war, daß er dann ausgelöscht wurde, um nichts verraten zu
 können, ist selbstverständlich. Über diesen Obersteward lassen
 Sie sofort von Ihren Leuten die kleinsten Kleinigkeiten
@@ -204,7 +204,7 @@ Trotzdem kann der Michigan-Recorder sich diese Einzelheiten
 nicht aus den Fingern gesogen haben …«
 
 <@pagebreak/>
-Greaps herzliches Lachen unterbrach ihn. »Harst, da können
+Greaps herzliches Lachen unterbrach ihn. »Harst, da kennen
 Sie Amerika denn doch zu wenig! Aus den Fingern
 saugen?! Aus der Luft greift man sich die größten Gemeinheiten
 heraus — — wie bei Ihnen daheim, nachher dementiert
@@ -212,7 +212,7 @@ man in Kleindruck an unauffälliger Stelle, der Redakteur
 wird vielleicht wegen Beleidigung verurteilt — oder besser der
 Strohmann-Redakteur, und der Hauptzweck ist doch erreicht:
 Der Schmutz sitzt fest an dem, der geschädigt werden sollte! —
-Auf Zeitungsgeschwätz gebe ich gar nichts!««
+Auf Zeitungsgeschwätz gebe ich gar nichts!«
 
 Harst meinte nur: »Sie mögen recht haben. Ich denke
 vielleicht noch immer zu gut von den Menschen. — Achtung,
@@ -229,7 +229,7 @@ vier Jahren in Diensten Joe Sheamers.«
 Harst fragte: »Hallo, Wilkiens, — und Jack Bulls
 Adresse? Auch schon vorrätig?«
 
-»Einem Augenblick, wir brauchen nur im neuesten Pressekalender
+»Einen Augenblick, wir brauchen nur im neuesten Pressekalender
 nachzusehen.«
 
 Nach einer Weile kam die Antwort: »Hallo … Jack
@@ -375,7 +375,7 @@ Der Alte war überraschend gut unterrichtet. Sein zahnloser
 Mund stammelte endlose Dankesworte, — von den zehn
 Dollar könnte er eine Weile leben, und wir sollten uns ganz
 auf ihn verlassen, so dumm sei er nicht, eine Henne zu verkaufen,
-die Solche Eier lege. Er würde auch in der Nachbarschaft
+die solche Eier lege. Er würde auch in der Nachbarschaft
 herumhorchen, wir sollten nur morgen nacht wiederkommen.
 Das Auto sei hier sicher … —
 
@@ -581,7 +581,7 @@ der Fußbodendielen des Oberstockes, konnten uns gerade noch
 zu der Seite durchzwängen und mußten doch letzten Endes
 einsehen, daß wir unserem Mißgeschick nicht entgehen konnten.
 Zusammengeduckt verharrten wir hier mehrere Minuten, oben
-wurde es immer lebhafter, das Klirrten der Glasscherben verriet
+wurde es immer lebhafter, das Klirren der Glasscherben verriet
 uns das Nahen der Verfolger, Lichtschein blinkte auf,
 verschwand wieder, und Harst raunte mir zu: »Wir geben uns
 auf keinen Fall zu erkennen. Mögen sie uns verhaften. Ich
@@ -895,7 +895,7 @@ berührt haben, die …«
 Aber Charly Greap warf zweifelnd ein: »Bedenken Sie,
 <@pagebreak/>
 Harst, Guiseppe Cacioni konnte gar nicht entkommen, denn
-Morris hatte das Haus umstellt. Daß Sie beide entwischen,
+Morris hatte das Haus umstellt. Daß Sie beide entwischten,
 war ein Glücksfall.«
 
 »Es gewinnen auch mehrere das große Los, wenn das
@@ -929,7 +929,7 @@ prüfen. Mag das alles in den Recorder kommen: Ehrenpflicht
 ist es, den echten Brömmel und den echten Schlump zu schützten
 und sie nicht der Gefahr auszusetzen, als Harst und Schraut
 niedergeknallt zu werden. Dabei bleibt es, lieber Greap, —
-keine Einwendungen! Was nachher wird, besprechen wir
+keine Einwendungen! Was nachher wird, besprechen wir in
 Ihrem Hauptquartier.«
 
 Charly Greap schien nicht recht einverstanden zu sein. Mit
@@ -943,7 +943,7 @@ im Unklaren gelassen wurde, hängte Harst wieder ab.
 In demselben Augenblick klopfte es an der Flurtür. Ich
 öffnete, es war die aschblonde Dolly Peac, völlig aufgelöst
 vor Erregung. »Ich habe noch schnell heimlich hierher laufen
-können«, keuchte sie hervor. »Mr. Harst Kaptain Morris und
+können«, keuchte sie hervor. »Mr. Harst, Kaptain Morris und
 sechs Beamte sind drüben in der Villa, Morris will das
 Gartenhaus durchsuchen, und …«
 
@@ -952,7 +952,7 @@ Gartenhaus durchsuchen, und …«
 arbeiten die Ghosts, — auch nicht schlecht! — Nur Ruhe, Miß
 Dolly … Verschwinden Sie drüben bei Brömmel … Vor
 die Tür, Schraut! Herunter mit der Maskerade! Morris
-Soll mich so sehen, wie ich wirklich bin.«
+soll mich so sehen, wie ich wirklich bin.«
 
 Morris war ein großer, kräftiger Mann mit braunem,
 allzu temperamentvollem Gesicht. Im Laufschritt kamen er und
@@ -1157,7 +1157,7 @@ Wort entginge.
 »Ich könnte Ihnen ja mitteilen, wodurch ich die Gewißheit
 erlangte, daß Ihr Versteck hier ausgekundschaftet worden
 ist, lieber Greap. Aber ich schweige in unser aller Interesse.
-Es Soll vorgekommen sein, daß in dieser schönen Stadt Leichen
+Es soll vorgekommen sein, daß in dieser schönen Stadt Leichen
 aus dem Chicago-Fluß gezogen werden, deren Fußsohlen jämmerlich
 verbrannt waren. Kein Mensch verträgt diese Folter,
 es sei denn … Kat!!«
@@ -1230,7 +1230,7 @@ uns, die vielfachen Apparate aus der Kajüte wurden
 in die Wachtboote verstaut, der alte Kahn sackte weg, und
 wir fuhren gen Norden, landeten an einsamer Küstenstelle,
 fanden hier Greaps drei Panzerautos vor und glitten dem
-neuen Hauptquartier zu. Auch ich diesem »Umzug« lag eine unbedingt
+neuen Hauptquartier zu. Auch in diesem »Umzug« lag eine unbedingt
 großzügige Note.
 
 Unser Wagen stoppte auf einem Landweg. Ringsum
@@ -1238,7 +1238,7 @@ Bäume, Büsche, Bauzäune, halb unerschlossenes Terrain.
 Greap, dieses fixe Kerlchen, führte. Wir schritten durch Gestrüpp,
 Müllberge und an einzelnen Wochenendhäuschen vorbei.
 Dann erhob sich vor uns auf einer kleinen Hügelkuppe
-eine Männergestalt, die Mit Blaulicht dreimal winkte.
+eine Männergestalt, die mit Blaulicht dreimal winkte.
 
 Und hinter dem Hügel, mitten in einer Lichtung von
 Dornengestrüpp, lag der tote Guiseppe Cacioni.
@@ -1391,7 +1391,7 @@ Gebisse ein!«
 
 Aber das Scherzen verging ihm. Wir bogen um eine
 Ecke, ein endloser Fabrikhof, mitten drin der Riesenscheinwerfer,
-der mit schrägem Strahl die Sechs Buchstabenballons
+der mit schrägem Strahl die sechs Buchstabenballons
 von »Sonnal« beleuchtete:
 
 <p class="centered strong">SONNAL</p>
@@ -1432,7 +1432,7 @@ Leute haben diesen Fabrikhof seit gestern unter Kontrolle …«
 
 Das Maschinengewehr erhält einen Bruder, — auch das
 kleinere Panzerauto tauchte auf, — ein Blick gen Himmel
-zeigt die Sechs Ballons in eigentümlich schlaffer Form, sie treiben
+zeigt die sechs Ballons in eigentümlich schlaffer Form, sie treiben
 mit dem Winde nach Nordost, aber sie sinken!
 
 »In das Auto, Harst!«
@@ -1583,7 +1583,7 @@ Mensch trotz seines brandroten Schopfes eine glänzende Figur.
 Morris lag am Boden, stöhnte, suchte sich aufzurichten,
 knurrte wie ein bissiger Köter, aber die Partie war für ihn
 verloren. Seine Leute, die wohl kaum geahnt hatten, was
-Morris plante, streiften angesichts der Vollmacht, die Greap-Hutter
+Morris plante, streikten angesichts der Vollmacht, die Greap-Hutter
 mit dem schönen dicken Schnurrbart ihnen vorwies.
 »Bringen Sie Kaptain Morris zur nächsten Wache!«, befahl
 Greap. »Als Häftling! Niemand darf zu ihm. Sie sind verantwortlich!«
@@ -1615,7 +1615,7 @@ Greap nur mäßig liebenswürdig.
 
 »Stubenarrest …! Ich sollte auch auf meinem Zimmer
 bleiben, aber das Essen bei Sir Rochester war sehr knapp.
-Diese Engländer sparen seit dem Weltkrieg wie die Kuicker.
+Diese Engländer sparen seit dem Weltkrieg wie die Knicker.
 Ich war gerade in der Küche, als der Skandal hier losging.«
 <@pagebreak/>
 Seelenruhig zog er unter dem Frack eine sauber eingewickelte
@@ -1691,7 +1691,7 @@ Läppchen, und ganz sauber war es auch nicht
 mehr. — Als sie sich die Lippen gewischt hatte, war die
 Kaugummianschwellung verschwunden. Miß Doops hatte sich sehr
 geschickt dieses unappetitlichen Bonbons entledigt. Bedauerlich
-war nur, daß die Farbe das Taschentuches nicht echt sein
+war nur, daß die Farbe des Taschentuches nicht echt sein
 konnte. Hortensie behielt einen häßlichen grünen Fleck am
 Kinn zurück.
 
@@ -1699,7 +1699,7 @@ Greap und ich standen hinter Harsts Stuhl. Als ich den
 Fleck wahrnahm, stieß Charly Greap-Hutter mich sanft in die
 Seite. — Ob er dasselbe dachte wie ich?! Mir war gerade
 der Knebel aus grünen Blättern eingefallen, den Guiseppe
-Cacionis so überflüssiger- und unnötigerweise im Munde trug.
+Cacioni so überflüssiger- und unnötigerweise im Munde trug.
 Möglich, daß Greap sich über diesen Punkt noch mehr Gedanken
 gemacht hatte, als er es uns eingestehen wollte.
 
@@ -1842,7 +1842,7 @@ Negermädels sei ihr gleichfalls unbekannt gewesen.
 steckte die Handschellen wieder ein.
 
 »Ich garantiere Ihnen, daß Ihnen nichts zustoßen wird.
-— Nur mich eine Frage: Wie heißt doch der Kaufmann, der
+— Nur noch eine Frage: Wie heißt doch der Kaufmann, der
 hier wohnt?«
 
 »Benjamin Amyl«, erwiderte sie sofort.
@@ -1860,7 +1860,7 @@ wandte sich zur Tür.
 <h2>6. Kapitel.</h2>
 <h3>Nachtspuk.</h3>
 
-Greap hatte kein Glück. M. Ben Amyl hatte es vorgezogen,
+Greap hatte kein Glück. Mr. Ben Amyl hatte es vorgezogen,
 durch das Fenster zu verduften. Sein Bett war noch
 warm, und sein Aufbruch zu diesem nächtlichen Spaziergang
 mußte sehr beschleunigt erfolgt sein.
@@ -1891,7 +1891,7 @@ und berieten. Als Greap äußerte, der Ghost-Gangster sei nun
 wohl vorläufig unauffindbar, schüttelte Harst den Kopf. »Keine
 Sorge, wir fangen ihn … Ich will ihn aber nicht allein haben,
 Greap, sondern die ganze Bande und den ganzen Beuteschatz.
-— Hören wir mit einmal, was Freund Jack über James Morris
+— Hören wir erst einmal, was Freund Jack über James Morris
 zu sagen weiß.«
 
 Jack Bull lag auf dem Diwan, eingehüllt in einen sehr
@@ -1924,7 +1924,7 @@ angestellt …?! — Ich sah das Unheil ja kommen!!«
 Er fiel zurück und bedeckte das Gesicht mit den Händen.
 »Meine Herren«, sagte er dumpf, »sie ist unzurechnungsfähig.
 Sie ist … Katesserin, — Kat, dies verdammte grüne Zeug,
-das jetzt hier von gewissenlosen Gärtner in Treibhäusern
+das jetzt hier von gewissenlosen Gärtnern in Treibhäusern
 gezogen wird!!«
 
 Er saß zusammengekauert da, die Ellbogen auf die Knie
@@ -1960,7 +1960,7 @@ Ben Amyl ist, so reime ich es mir zusammen, nur das Werkzeug,
 und zwar James Morris’ Werkzeug. Ich gehe seit
 Monaten diesem unsicheren Verdacht nach, meine Herren.
 Beweise habe ich nicht, aber mein Gefühl sagt mir: Morris
-ist das große Gespenst! — Sie wissen, ich warf früher im Südwesten
+ist das große Gespenst! — Sie wissen, ich war früher im Südwesten
 tätig, auch in New Orleans. Von dort her kenne ich
 <@pagebreak/>
 Morris. Er hatte dauernd Weibergeschichten vor, und als er
@@ -1976,7 +1976,7 @@ Posten verschafft hatten. — Mehr kann ich Ihnen nicht sagen.«
 
 Harst zuckte unzufrieden die Achseln. »Gerüchte?! Was
 nützt das?! — Und wie war die Sache mit dem Gebiß, Mr.
-— Bull?«
+Bull?«
 
 Jack trank und meinte nur: »Wie ich es Ihnen erzählte.
 Mein Kollege Archi fand das Gebiß unweit der Mordstelle
@@ -2078,7 +2078,7 @@ Stille …
 
 Spuk das Ganze, Nachtspuk in einer Millionenstadt, die
 sich langsam an dieses unerhörte Treiben der Unterwelt und
-ihres Ausganges gewöhnt hatte.
+ihres Anhangs gewöhnt hatte.
 
 Wir lebten noch … Aber jeder von uns hatte etwas
 abbekommen, nicht viel gerade, nur Schrammen und Löcher
@@ -2226,10 +2226,10 @@ des Hauptquartiers!«
 <@pagebreak/>
 
 <h2>7. Kapitel.</h2>
-<h3>Das großen Gespenst.</h3>
+<h3>Das große Gespenst.</h3>
 
-Als Greap unter in den muffigen Gewölben Hortensie
-Doops aus einem Feldbett hinter einem provisorischen Wandschirm
+Als Greap unten in den muffigen Gewölben Hortensie
+Doops auf einem Feldbett hinter einem provisorischen Wandschirm
 schlafend vorfand, machte er doch ein sehr erstauntes
 Gesicht. »Nanu, — was soll denn das?!« meinte er leise.
 
@@ -2406,7 +2406,7 @@ ist alles, und dann gleiten sie empor zum zweiten Stock, wo
 die feierliche Stille und Vornehmheit der Allgewalt dieses
 Riesenunternehmens herrscht. Der Sekretär im Vorzimmer
 erhebt Einwendungen, der Chef ließe sich nur in dringendsten
-Angeolegenheiten … und so weiter. Der hagere Herr reicht ihm
+Angelegenheiten … und so weiter. Der hagere Herr reicht ihm
 ein Schreiben, das einen Namenszug und einen Stempel trägt,
 vor dem die Aufgeblasenheit des Sekretärs rasch zerrinnt.
 
@@ -2416,13 +2416,13 @@ Vorspiel nur …
 der so eigentümlich kühle, durchdringende Augen hat, betritt
 das Allerheiligste, während der kleine, korpulente zu dem
 Sekretär sagt: »Sie verlassen das Zimmer nicht! Nachher
-werden Sie hier eingeschlossen.« Und zum Entsetzen des sehr
+werden Sie hier eingeschlossen.« Und zum Entsetzen der sehr
 kleinlauten Aufgeblasenheit zieht der andere eine Schere hervor
 und zerschneidet sämtliche Telphonschnüre. »Die Rohrpost
 im Hause ist auch schon ausgeschaltet«, bemerkt er freundlich.
 »Es sind gewisse Vorsichtsmaßregeln nötig …« Er nimmt
 eine Zigarre, setzt sich und raucht. Der Sekretär schaut ihn
-nun wie einen bösen Geist und fragt stockend: »Sie sind Ausländer,
+an wie einen bösen Geist und fragt stockend: »Sie sind Ausländer,
 Mister …? Ihre Sprache …«
 
 Der Korpulente lächelt noch freundlicher und schweigt.
@@ -2456,7 +2456,7 @@ die nichts von Gelehrtenblässe sehen lassen.
 
 Jack Bull, der gerade auf seinem Schreibtisch sitzt und zu
 Ehren der achtzehn Grad Wärme einen diskreten, grauen
-Sommeranzuq trägt, mustert die beiden Besucher sehr von oben
+Sommeranzug trägt, mustert die beiden Besucher sehr von oben
 und fragt sehr kurz: »Was wollen Sie hier?!«
 
 Der Hagere lächelt. »Erkennen Sie uns wirklich nicht?
@@ -2477,7 +2477,7 @@ gleichen. Was er dort sieht, gefällt ihm nicht. Die Anstreicher,
 die dort schon seit dem Morgen tätig sind, haben sich plötzlich
 <@pagebreak/>
 vermehrt. Aber Jack mit dem roten Knopf hat keine Nerven
-und blinzelt Harst lauernd an. »Wer soll den noch an der …
+und blinzelt Harst lauernd an. »Wer soll denn noch an der …
 Besprechung teilnehmen, Mr. Harst?« Seine Hand fährt wie
 zufällig nach hinten, aber in demselben Augenblick geschieht
 zweierlei: Seine Hände werden gepackt, und ein Pfiff gellt durch
