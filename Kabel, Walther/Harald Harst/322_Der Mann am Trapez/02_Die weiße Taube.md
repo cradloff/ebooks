@@ -79,7 +79,7 @@ Baats Tätigkeit in den letzten Monaten zurückzuverfolgen,
 Schraut hat Doktor Matz’ letzten Bericht noch nicht gelesen,
 ich mochte ihn nicht stören, er war im Hühnerstall beschäftigt,
 sein neuester Sport ist ein Brutapparat, nächstens werden
-wir ohne Hühnerfarm auftun müssen, obwohl sich für uns gerade
+wir eine Hühnerfarm auftun müssen, obwohl sich für uns gerade
 an das Wort Hühnerfarm sehr wenig angenehme Erinnerungen
 knüpfen.«
 
@@ -133,8 +133,8 @@ Harald lächelte verschmitzt … Er hatte gut lachen,
 mich bis gestern einfach ausgeschaltet.
 
 Trotzdem wurde der Fall »Mann am Trapez« nun immer
-durchsichtiger. Wenn Doktor Grat in Nepal gewesen war, genauer
-gesagt bei den Biwariiern, ließ sich sehr bequem für die
+durchsichtiger. Wenn Doktor Gral in Nepal gewesen war, genauer
+gesagt bei den Biwariern, ließ sich sehr bequem für die
 Vorfälle hier in Berlin eine »Theorie« aufstellen.
 
 Die Dame hob jäh den Kopf, sie war offenbar zu einem
@@ -142,7 +142,7 @@ Entschluß gelangt.
 
 »Herr Harst, Sie sollen alles hören …« Aus dem Stimmchen
 war eine sehr energische Stimme geworden. »Vor drei Monaten
-würde mein Gatte in den Bergschluchten Nordindiens durch
+wurde mein Gatte in den Bergschluchten Nordindiens durch
 einen stürzenden Baum in einen Abgrund gerissen. Als Baat,
 ich und unsere Träger die Leiche fanden, entdeckten wir
 in der Nähe Spuren von Europäerstiefeln, — zwei Leute hatten
@@ -229,7 +229,7 @@ Dann fragte er etwas … Was er fragte, erschien so völlig
 abwegig, daß Frau Tessa ebenso erstaunt wie unwillig erwiderte:
 
 »Tut das denn etwas zur Sache?! Ja — Raginald schenkte
-mir in Indien eine aus Ton gebrannte alte Buddhafigur, eine
+mir in Indien eine aus Ton gebrannte alte Buddhafigur, etwa
 vierzig Zentimeter hoch … Weitere Geschenke erhielt ich
 von ihm nicht, — wir sind Freunde!«
 
@@ -312,7 +312,7 @@ Zehnmarkschein den Besitzer.
 
 »Drei … jetzt nur noch drei … Die Neue ist durch eine
 Depesche an das Krankenbett ihrer Mutter gerufen worden,
-sie war nur heute zuwächst zur Aushilfe hier … Vor zehn
+sie war nur heute zunächst zur Aushilfe hier … Vor zehn
 Minuten verabschiedete sie sich … Sie hieß Hedwig Niemand
 …«
 
@@ -414,8 +414,8 @@ kritische Stelle der Chaussee Potsdam-Rankwitz brachte.
 Harst begann Frau Tessa allmählich einzuweihen.
 
 Der Wagen lief langsamer. Da es jedoch derselbe Wagen
-war, den Lord Baat von denselben Verleiher bezogen hatte,
-mußten wir mit irgend einer Schurkerei rechnen, Baats Nummer
+war, den Lord Baat von demselben Verleiher bezogen hatte,
+mußten wir mit irgend einer Schurkerei rechnen. Baats Nummer
 war ja bekannt.
 
 Es geschah nichts. — Wir hielten weit hinter dem Dorfe
@@ -859,7 +859,7 @@ und dann vor uns in einem runden Kuppelsaal von geradezu
 verschwenderischer Pracht ein mildes Licht aufflammte, dessen
 Leuchtkraft immer mehr zunahm …
 
-Es war eine Schale aus buntem Kristall, die auf einen
+Es war eine Schale aus buntem Kristall, die auf einem
 altarähnlichen Aufbau stand, — von ihr ging das magische
 Licht aus, und dieses Licht ließ uns drei Reihen Sessel
 erkennen, die leer waren …
@@ -884,7 +884,7 @@ vor ihm.
 
 »Nehmen Sie bitte Platz …«
 
-Dicker Teppiche dämpften jeden Schritt. Wundervolle
+Dicke Teppiche dämpften jeden Schritt. Wundervolle
 Marmorschnitzereien erinnerten an Indiens berühmteste Bauwerke
 … Ein leichter Geruch von Weihrauch zog durch den runden
 Kuppelsaal …
@@ -894,7 +894,7 @@ Gral, mild erstrahlte, sagte liebenswürdig: »Ich freue mich,
 Sie hier begrüßen zu können …  Ich bin in die Vorgänge in
 der Holzhütte eingeweiht, und …« — seine Stimme wurde schärfer
 — »ich bin entsetzt über die Heimtücke derer, denen ich
-vertrauen schenkte … — Doktor Flachs hat diese Villa erbauen
+Vertrauen schenkte … — Doktor Flachs hat diese Villa erbauen
 lassen, als ich noch in Indien weilte. Ich war sein väterlicher
 Freund, ich gestattete ihm auch, hier mit Tiergiften zu
 experimentieren … Daher die Schlangenbehälter. Von dem geheimen
@@ -1030,7 +1030,7 @@ nichts Neues erfahren.«
 
 Penz knurrte und hängte ab.
 
-Harald lächelte mich an. »Das Doktor Gral Frau Winnberg,
+Harald lächelte mich an. »Daß Doktor Gral Frau Winnberg,
 das Ehepaar Strick und uns beide vorhin zu heute abend elf
 Uhr eingeladen hat, brauchte ich kaum noch zu erwähnen,
 nicht wahr?«
@@ -1132,9 +1132,8 @@ eine!
 unendliche Angst …
 
 Wir stürzten ins Freie … Im Gebüsch lagen die betäubten
-Rüden … Die Geragentür war nur angelehnt,… Harald schloß
+Rüden … Die Geragentür war nur angelehnt … Harald schloß
 mit dem Dietrich die Tür zu dem Schlangenraum auf …
-
 Unsere Taschenlampen blitzten, Matz’ Karbidlaterne
 schuf völlige Helle … —
 

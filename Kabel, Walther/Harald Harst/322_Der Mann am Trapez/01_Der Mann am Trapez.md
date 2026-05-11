@@ -32,7 +32,7 @@ wandern.
 Mir war sie gleichgültig.
 
 Das Dorf Rankwitz unweit von Werder (berühmte Obststadt
-in der Nähe Berlins) war nach den Kartenbild absolut uninteressant.
+in der Nähe Berlins) war nach dem Kartenbild absolut uninteressant.
 
 Harst schien anderer Meinung zu sein.
 
@@ -247,7 +247,7 @@ Einen der Kerle habe ich bestimmt getroffen, ins Bein, er
 humpelte …«
 
 Wir hatten das kleine Dorf bereits hinter uns, wieder
-tauchte Wald auf, wir fanden eine schmalen Forstweg, bogen
+tauchte Wald auf, wir fanden einen schmalen Forstweg, bogen
 dort ein und verbargen unseren Wagen in einer Schonung.
 
 Mit äußerster Vorsicht näherten wir uns zu Fuß wieder
@@ -275,7 +275,7 @@ Gral und Lohengrin, — seine Bedienung bilden drei Farbige,
 nebenher tagen bei ihm die Mitglieder eines Vereins für
 mystische Forschungen, er tut viel Gutes, hat die Dorfkirche
 renovieren und für sich selbst auf dem Friedhof, der hinter
-der Kirche liegt, ein pompöses, Kapellenartiges Mausoleum
+der Kirche liegt, ein pompöses, kapellenartiges Mausoleum
 errichten lassen. Die Rankwitzer sind von ihm begeistert,
 — kein Wunder, durch seinen Zuzug ist die Gemeinde schuldenfrei
 geworden. Er selbst ließ die Villa bauen, als er noch im
@@ -331,7 +331,7 @@ Spaß empfinden zu lassen. Der Erdboden war aufgeweicht,
 und unsere Schuhe und Gummimäntel würden nachher schön aussehen.
 
 Wir schlüpften über die Straße. In einem nahen Gehöft
-bellte eint Hund und riß wie unsinnig an der Kette.
+bellte ein Hund und riß wie unsinnig an der Kette.
 
 Harst fluchte …
 
@@ -462,7 +462,7 @@ hoch und in Richtung auf die Villa schräg in die Tiefe,
 stieg dann an und hatte im ganzen etwa hundert Meter Länge.
 
 Das einzig Auffällige waren hier wiederum einige Blutflecken
-auf den Bretterboden, dann hatte der Gang ein Ende, wieder
+auf den Bodenbrettern, dann hatte der Gang ein Ende, wieder
 gab es hier eine Holztreppe, und als wir die Falltür oben
 hochgedrückt hatten, befanden wir uns mitten zwischen Käfigen
 und Glaswänden …
@@ -667,7 +667,7 @@ halben Gewaltmenschen, der sich selbst stets genug ist und
 sich am liebsten auf sich allein verläßt und vor nichts
 zurückschreckt.
 
-»Ich bin hier eingedrungen, weil im bestimmte Dinge
+»Ich bin hier eingedrungen, weil ich bestimmte Dinge
 in Erfahrung bringen wollte … Leider benutzte ich den Straßendurchlaß
 …«
 
@@ -701,7 +701,7 @@ dunklen Augen seltsam starr.
 nur eine schwache Vergeltung darstellt. — In dem Kasten
 dort befindet sich ein Uhrwerk, eine Flasche Salzsäure und
 eine Schale kristallisiertes Gift. (Ich lasse hier absichtlich
-die tatsächlichen Bestandteils der Vorrichtung für Erzeugung
+die tatsächlichen Bestandteile der Vorrichtung für Erzeugung
 unbedingt tödlicher Dämpfe weg). Der eine Gentleman, der
 mir heiser und krächzend mein Schicksal prophezeite und
 höhnisch bemerkte, ich könnte ja vielleicht mit den Zehen
@@ -774,7 +774,7 @@ Interesse.
 
 Er schien etwas sagen zu wollen, schwieg jedoch, und
 erst als wir unangefochten draußen im Gestrüpp angelangt
-waren, wo Harald mit aller Vorsicht die zerschnittene Lise
+waren, wo Harald mit aller Vorsicht die zerschnittene Litze
 der Alarmvorrichtung ausflickte und die Stelle mit Isolierband
 umwickelte und dann den Boden sorgsam ebnete und mit trockenem
 Laub bestreute, fragte mich Baat flüsternd:
@@ -885,7 +885,7 @@ mußte.
 
 Der Wagen war nicht mehr da …
 
-Auf dem Torfbruch, der jetzt einen zackigen, tiefen
+Aus dem Torfbruch, der jetzt einen zackigen, tiefen
 und ausgedehnten Geländeeinschnitt mit schillernden Tümpeln
 darstellte, ertönte zuweilen das Schnattern von Wildenten
 …
@@ -945,7 +945,7 @@ Wir eilten auf Umwegen zu unserem Wagen, fuhren auf
 noch größeren Umwegen heim, und Harald sprach lediglich
 ein paar Sätze …
 
-»Mein lieber Alter, weißt du nun, wer die seine Postkarte
+»Mein lieber Alter, weißt du nun, wer die feine Postkarte
 uns zuschickte …? — Natürlich Frau Ulla Strick, geborene
 Karsten … — Ich möchte nur wissen, ob es überhaupt noch
 ein nettes kleines Abenteuer für uns gibt, nach dem nicht
@@ -1133,7 +1133,6 @@ Harst schaute ihn von der Seite an.
 Was taten Sie  dort in der Bretterhütte?«
 
 »Dort wohnen wir«, erklärte Strick lächelnd.
-
 »Es ist unser Wochenendhaus … Es ist so schön übernagelt
 … Kein Mensch  wagt sich hinein, keiner der Gralsritter
 … In dem Bretterhause liegt nämlich unter den unbehobelten
@@ -1253,7 +1252,7 @@ wirklich Reines, rein Geistiges herausgeschält.
 
 Etwa so, wie in den Anfängen der Goldgräberei die »Prospektoren«,
 also genau übersetzt »die Vorausschauenden«, planlos und
-ziellos suchten und erst mit der Zeit nach ernsten | Grundsätzen
+ziellos suchten und erst mit der Zeit nach ernsten Grundsätzen
 vorgingen, so läuterte sich auch die Unzahl dieser neuen
 Suchenden, und einige wenige wurden berufen, als genaue
 Kenner Asiens, der Wiege der Völker, asiatische Mythen und
@@ -1285,7 +1284,7 @@ genaue Schilderung der Sitzung eines Sektiererbundes »Walhallas
 Götterthron«, — — sollten etwa Strick und Ulla in der Gralsvilla
 einer Versammlung beigewohnt haben?!
 
-Harald zuckle dazu die Achseln.
+Harald zuckte dazu die Achseln.
 
 »Es scheint so …«
 
@@ -1316,8 +1315,8 @@ Doktor Fritz Flachs,
 
 Chemiker.
 
-Sehr geehrter Herr Harst (Schraut).<br/>
-Im Auftrage des Herrn Doktor Telramund Gral, Dorf
+Sehr geehrter Herr Harst (Schraut),<br/>
+im Auftrage des Herrn Doktor Telramund Gral, Dorf
 Rankwitz bei Werder, gestatte ich mir, Sie höfl. zu der
 am 5. Juni abends zehn in der Villa Zum Heiligen Gral,
 Rankwitz, stattfindenden Ritterversammlung einzuladen.
@@ -1398,8 +1397,8 @@ Er ging zum Telephon, ließ sich mit Direktor Matz vom
 Argus verbinden …
 
 »Hallo, Matz, — bitte um Ihre beiden Leute, die uns
-schon wiederholt vortreten haben … Heute Abend — ja … Schraut
-und ich müssen daheim sein und nicht daheim sein, — sonst
+schon wiederholt vertreten haben … Heute Abend — ja … Schraut
+und ich müssen daheim sein und nicht daheim sein. — Sonst
 etwas Neues?«
 
 »Lord Baat ist in sein Pensionat, wo er seit vierzehn
