@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">c00309a4-19b2-4790-8f8f-de0f36aa0054</entry>
+<entry key="title">Der Mann am Trapez</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">322</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Der Mann am Trapez
+
+»Postkarten sind sozusagen öffentliche Angelegenheiten, mein Alter«, — so etwa äußerte sich Harst mir gegenüber, als er die mit der letzten Postbestellung eingetroffene Karte nach dem Abendessen nochmals besichtigte.
+
+Diese billige Ansichtskarte in schlechtem Buntdruck stellte eine Dorfstraße und eine alte Kirche dar und enthielt außer Harsts Anschrift den Text:
+
+1. Juni 192…
+
+Sehr geehrter Herr Harst,
+
+von einer Feier mit viel Rotwein senden Ihnen und Ihrem Freunde die besten Grüße
+
+Die weiße Taube
+
+Der Rest des Tages verlief ohne erwähnenswerte Zwischenfälle.  Unsere Ersatzleute fanden sich in zweckmäßigen Masken ein und kannten ihre Aufgabe bereits so genau, daß jede Instruktion sich erübrigte. Vorläufig saßen sie auf dem Dach und flickten eine Reihe anscheinend beschädigter Glasurziegel aus, schleppten neue Dachsteine nach oben, schleppten sie wieder in den Hof hinab und arbeiteten mit einem Bienenfleiß ohnegleichen, wie jeder Spion annehmen mußte. Sie machten sogar Überstunden, und als wir beide nun nach Eintritt der Dunkelheit ihre Kostüme anlegen wollten, um unauffällig verschwinden zu können, gab es doch noch eine Verzögerung, die uns sehr ungelegen kam.
+
+Verschleierte Damen, die sehr hastig durch den Vorgarten eilen, die außerdem schwarz gekleidet sind und einen Witwenschleier von pompösen Dimensionen tragen, dazu aber sehr feine Lackschuhe mit unnatürlich hohen Absätzen, schon mehr Stelzen, — solche Damen … schätze ich nicht sehr.
+
+Heute abend schon gar nicht …
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (322) Der Mann am Trapez.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1932</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
