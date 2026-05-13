@@ -48,7 +48,7 @@ zu dem schnellen Entschluß, auch Rügen wieder einmal zu
 besuchen.
 
 Vor einer Stunde waren wir im Auto im Dorfe eingetroffen
-und erwischten gerade noch das, letzte freie Zimmer des
+und erwischten gerade noch das letzte freie Zimmer des
 Gasthofs. Die Versteigerung hatte eine ganze Anzahl Fremder
 herbeigelockt, zumal vorher noch die Sammlungen des Schlosses
 (der ermordete Herr Karl Ribbnig war Waffenliebhaber gewesen)
@@ -170,7 +170,7 @@ aufgebaut. Karl Ribbnig, der Tote, war ein Schürzenjäger
 
 Es dunkelte bereits, als wir an der Parkpforte läuteten.
 Der alte Märlin kam mit einer großen Stalllaterne und den
-vier Hunden herbei. Sein zahnloser Greifenmund sprudelte
+vier Hunden herbei. Sein zahnloser Greisenmund sprudelte
 uns Unhöflichkeiten entgegen, wie sie kaum ein paar Stromer
 zu hören bekämen, aber Haralds gleichbleibende Liebenswürdigkeit
 entwaffnete schließlich selbst diesen Wüterich, und leidlich
@@ -373,7 +373,7 @@ Sessel wie ein völlig gebrochenes hilfloses Wesen. Sie weinte
 leise, ihr Atem flog, und Harsts Hand strich leise über
 den blonden Mädchenkopf …
 
-»Es wird alles gut werden, alles … Nur eins: Offenheit!
+»… Es wird alles gut werden, alles … Nur eins: Offenheit!
 — Wie konnten Sie Ihrem Vetter nur zutrauen, daß er seinen
 Oheim hinterrücks niederstechen würde?! Gewiß, es bestand
 Feindschaft, grimme Feindschaft zwischen den beiden Familien,
@@ -381,7 +381,7 @@ und es wäre möglich gewesen, daß Ihr Vater den Eindringling
 überraschte und das er ihn angegriffen hätte … Das könnte
 geschehen sein … Dann würde Justus sich verteidigt haben,
 — wie gesagt: Verteidigt! Aber ein heimtückischer Mord?!
-Ein stich in den Rücken, ins Herz?! Ich bitte Sie, — das
+Ein Stich in den Rücken, ins Herz?! Ich bitte Sie, — das
 ist doch ein so gemeines Schurkenstück, wie Sie es Justus
 nie anhängen durften! Wer hat Ihnen dies eingeredet, suggeriert?!
 Etwa der alte Märlin? Es scheint fast so … — War es Märlin?«
@@ -560,7 +560,7 @@ auf dessen Platte noch ein poliertes Kästchen stand, ein
 Dominospiel.
 
 »Hier hat mein Vater seiner harmlosen Leidenschaft
-geföhnt«, sagte sie bitter und betonte das »harmlos« unmerklich.
+gefröhnt«, sagte sie bitter und betonte das »harmlos« unmerklich.
 Sie dachte dabei wohl an des »tollen Ribbnig« ungezählten
 Liebschaften.
 
@@ -613,7 +613,7 @@ Noch müder entgegnete Sieglinde: »Gewiß, es war die
 junge Frau Rechtsanwalt Toni Wickers aus Sagard und die
 noch jüngere, sehr pikante Gattin des Oberingenieurs, der
 gerade hier in der Nähe das große Umformerwerk als Beauftragter
-seiner Firma baute«. — Irrte ich mich, — hatte Sieglinde
+seiner Firma baute.« — Irrte ich mich, — hatte Sieglinde
 nicht den Namen Toni Wickers unmerklich hervorgehoben? Hatte
 ihre Stimme nicht ein ganz wenig schärfer geklungen?
 
@@ -846,7 +846,7 @@ heimwärts … — Dann erhielt ich von Sieglinde einen eisigkalten
 Brief, alles war aus zwischen uns. Sollte ich mich etwa
 als Zeuge melden?! Ich hatte nichts gesehen oder gehört.
 Sollte ich Sieglinde bloßstellen durch das Eingeständnis
-unserer Zusammenkünste?! Meine damals noch lebenden Eltern
+unserer Zusammenkünfte?! Meine damals noch lebenden Eltern
 hätten mich genau so verdammt wie Onkel Karl niemals eine
 Heirat zwischen uns geduldet hätte. Der Familienhaß war
 durch einen Prozess entstanden, der …«
@@ -935,7 +935,7 @@ Sieglinde hingewiesen haben wird. Der Vater einer erwachsenen
 Tochter hat Rücksichten zu nehmen. Daher die Entfremdung
 zwischen Märlin und ihm, daher dieselbe  Entfremdung zwischen
 ihm und seinem einzigen Kinde. — Die Vermutung, daß die
-Dominopartien lediglich dazu diente, mit der jeweils bevorzugten
+Dominopartien lediglich dazu dienten, mit der jeweils bevorzugten
 Herzenskönigin Verabredungen in ganz unauffälliger Art 
 zu treffen, lag nahe. Hätte der kostbare Kasten mit den
 Dominosteinen nicht offen auf dem Tische gestanden, würde
@@ -969,7 +969,6 @@ Schraut hatte denselben Eindruck, er nickte mir soeben eifrig
 zu. Den anderen Namen nannte sie nicht.«
 
 »… Julia Hartung«, warf Justus sehr lebhaft ein …
-
 »Sieglinde erwähnte ihn häufiger … Oberingenieur Hartung
 und mein Onkel waren gleich eifrige Jäger, und Hartungs
 Frau soll übermondän gewesen sein. Onkel schnitt beiden
@@ -1014,7 +1013,7 @@ Harst stand auf. »Besichtigen wir nun einmal die Treppe.
 In den Protokollen ist da etwas von einem langen Brandfleck
 im Treppenläufer und von einem Brandgeruch gesagt, den man
 bei Auffindung der Leiche bemerkt hat. Ich möchte diese
-Einzelheiten recht genau prüfen. Die Annahme, das Ihres
+Einzelheiten recht genau prüfen. Die Annahme, daß Ihres
 Onkels brennende Zigarre, — — aber wir werden ja sehen …«
 
 Er öffnete bereits die Tür.
@@ -1137,7 +1136,7 @@ auf … Der Greis verfügte noch über erstaunliche Kräfte.
 
 <h3>Die andere Partnerin.</h3>
 
-Eine halbe Stunde daraus saßen wir fünf im Salon. Sieglinde
+Eine halbe Stunde darauf saßen wir fünf im Salon. Sieglinde
 hatte frischen starken Kaffee aufgebrüht, Märlin hatte einen
 großen Kognak hinabgegossen … Er erzählte …
 
@@ -1179,7 +1178,7 @@ beabsichtigt haben?! Fräulein Sieglinde hat uns vorhin erzählt,
 daß Frau Toni sie so und so oft besucht hat … Also konnte
 sie bei ihren Besuchen den blauen Stein verschwinden lassen.
 Sie tat es nicht. Mithin kannte sie des blauen Dominosteines
-kleines Geheimfach gar nicht. — Ich — bitte Sie alle, auch
+kleines Geheimfach gar nicht. — Ich bitte Sie alle, auch
 dich, Schraut, zügelt eure Phantasie! Ich behaupte geradezu:
 Es war *nicht* Frau Wickers!«
 
@@ -1213,7 +1212,7 @@ und meinte: »Sicher ist sicher!«
 Dann betraten wir Märlins Zimmer, der uns ein paar
 Kissen und Decken mitgeben wollte.
 
-Des alten Mannes Zimmer war recht behaglich) ausgestattet.
+Des alten Mannes Zimmer war recht behaglich ausgestattet.
 Über dem Schreibpult hing ein Landschaftsbild: Der obere
 Teil der berühmten Kreidefelsen von Stubbenkammer.
 
@@ -1279,7 +1278,7 @@ tötete augenblicklich, der Getroffene fiel vornüber, rutschte
 noch vier Stufen hinab und lag still. Die Tragödie war aus.
 — Und jetzt schaue dir die Brandspur im grünen Läufer an
 … Sie beginnt von der Läuferstange der dritten Stufe, wendet
-sich nach rechts, nach der Außenwand zu … — Und der Brandstrich
+sich nach rechts, nach der Außenwand zu … — Und den Brandstrich
 sollte eine Zigarre verursacht haben!! Glaubst du daran?«
 
 »Nein …« Und das war auch meine ehrliche Überzeugung.

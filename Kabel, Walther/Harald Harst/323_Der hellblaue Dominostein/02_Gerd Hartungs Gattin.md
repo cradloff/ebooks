@@ -45,7 +45,7 @@ befühlte sie unauffällig die Taschen ihres kurzen Sportrockes,
 unter dem sie Sportbeinkleider trug. Aber die kleine Pistole
 steckte bereits anderswo, sie wurde verlegen, da ihr Suchen
 ohne Erfolg blieb, und dann raffte sie all ihre Selbstbeherrschung
-zusammen und fragte, sehr gleichgültig tuend! »Wer sind
+zusammen und fragte, sehr gleichgültig tuend: »Wer sind
 Sie, meine Herren? — Ich jedenfalls bin nicht Frau Hartung,
 — so sprachen Sie mich soeben an«, — und sie blickte zu
 Harald empor.
@@ -58,7 +58,7 @@ Nachsatz, der seine blitzschnelle Denkfähigkeit bewies.
 »Jedenfalls waren Sie damals, als Hartung hier vier Monate
 lang den Bau des Umformerwerkes leitete, dessen Gattin.
 Möglich, daß Sie sich haben scheiden lassen … kurz nach
-dem Morde, Sie wohl Ihre Gründe gehabt haben …«
+dem Morde, Sie werden wohl Ihre Gründe gehabt haben …«
 
 Sie ruckte etwas empor, — ein kurzes Straffen des Körpers
 war es … Der Hieb hatte gesessen.
@@ -89,7 +89,7 @@ bereits ein Mordanschlag auf Jakob Märlin versucht wurde,
 — nun, ich will es nicht Mordversuch nennen, es wird vielmehr
 eine Tat in der ersten Bestürzung gewesen sein … Anders
 freilich liegt es mit dem Morde an Karl Ribbnig, — das war
-Word, raffiniertester Schurkenstreich … — Wollten Sie hier
+Mord, raffiniertester Schurkenstreich … — Wollten Sie hier
 aus dem Schlosse etwas holen, das gegen Sie zeugen könnte?«
 
 Ihre Augen belauerten ihn unausgesetzt … In diesen
@@ -124,7 +124,7 @@ wurden feucht …
 im Fieberfrost.
 
 »Wollen Sie nicht ehrlich sein?«, — er setzte sich
-neben sie. »Frau Julia,  sie haben da mit einem Manne, der
+neben sie. »Frau Julia, Sie haben da mit einem Manne, der
 als wahlloser Schürzenjäger nicht gerade viel Sympathie
 verdient, ein gefährliches Spiel getrieben … Für Sie war
 es ein Flirt, für ihn war es eine bedenkliche Aufpeitschung
@@ -240,7 +240,7 @@ das Messer angefertigt?« Er blickte sie scharf an.
 In der Werkstatt des Umformerwerkes beobachtete ich ihn
 einmal spät abends, als ich ihn abholen wollte … Er versteckte
 das Messer schnell … Und … und dieses Messers wegen zweifelte
-ich doch wieder an deiner Schuldlosigkeit … Gerd konnte
+ich doch wieder an seiner Schuldlosigkeit … Gerd konnte
 es … geschleudert haben … Er verstand sich darauf … — Als
 wir damals Schloß Ribbnig im Schlitten verließen, als wir
 unsere Zimmer im Gasthof erreicht hatten, trat er nur vor
@@ -268,7 +268,7 @@ Aufblitzen des Schusses gesehen. Wer hatte da geschossen?
 Wer?! — Und wieder tauchte in mir ein leiser Verdacht gegen
 Justus von Ribbnig auf. Hatte er wirklich alles berichtet,
 was er wußte?! Konnte er nicht auch irgendwie mitbeteiligt
-sein?! Dieser Mord lies unendlich viel Deutungen zu. War
+sein?! Dieser Mord ließ unendlich viel Deutungen zu. War
 Harst auf der richtigen Fährte? Ich bezweifelte es. Auf
 mich machte er noch immer den Eindruck eines Wahrheitssuchers.
 
@@ -363,7 +363,7 @@ Man durfte es an keiner Stelle berühren, ohne schmerzhaft
 zu empfinden, daß menschliche Leidenschaften und menschliche
 Irrwege diese gefährliche Distel geschaffen hatten, in deren
 Mitte als Kern die Wahrheit sich gegen jede Enthüllung seit
-vielen Fahren standhaft wehrte.
+vielen Jahren standhaft wehrte.
 
 Harald, der doch eigentlich das zweite Sofa hätte benutzen
 müssen, bereitete sich sein Lager dicht an der nur angelehnten
@@ -378,7 +378,7 @@ Schloß Ribbnig schlief nun also.
 Ich hatte jedoch kaum eine halbe Stunde das harte Sofa
 genossen, als ich durch ein Geräusch aufgeschreckt wurde.
 In der Waffenkammer herrschte Zwielicht, die Tür stand weit
-offen, Harsts, bescheidenes Lager auf den Dielen war leer,
+offen, Harsts bescheidenes Lager auf den Dielen war leer,
 und über mir im Bodenraum polterte es abermals … Eine Kiste
 war umgestürzt. Wie ein Blitz flog ich die Stufen hoch,
 in der Linken die eingeschaltete Taschenlampe, in der rechten
@@ -394,7 +394,7 @@ den Bartwald hinein …
 
 Der Strolch grinste infam …
 
-»Hinter wir kommandiert einer, vor mir kommandiert
+»Hinter mir kommandiert einer, vor mir kommandiert
 einer, — wem soll ich gehorchen? Um Gotteswillen, lassen
 Sie doch einen armen Schnorrer laufen! Ich wollte hier doch
 nur unter Dach und Fach pennen …«
@@ -465,7 +465,7 @@ Harald lag auf dem Sofa und … schnarchte bereits.
 
 Dagegen war nichts zu machen. Ich tat es ihm gleich.
 Um sieben weckte Harald mich, wir klopften unten bei Frau
-Julia an, — um acht saßen’ wir alle am Frühstückstisch.
+Julia an, — um acht saßen wir alle am Frühstückstisch.
 Märlin, Sieglinde und Justus hatten große Augen bekommen,
 als Frau Julia eintrat. Harald meinte nur: »Frau Hartung
 traf sehr spät hier ein und hat ebenfalls noch Notquartier
@@ -538,7 +538,7 @@ der Oberingenieur war kleiner, zierlicher.
 Im Walde wurde die Verfolgung noch einfacher. Sie endete
 auf einer Lichtung unweit der Chaussee. Auf der Chaussee
 hielt ein Motorradler, der nun eilends dem Fremden entgegenlief.
-Wir schlichen noch näher heran, die Büsche decken uns.
+Wir schlichen noch näher heran, die Büsche deckten uns.
 
 »Hier ist auch die Quittung — zweitausendfünfhundert
 Mark«, sagte der Fremde der jetzt mit einer sehr angenehmen
@@ -736,7 +736,7 @@ uns im klaren Sonnenlicht all seine Schönheiten und Feinheiten
 Sieglinde und Justus standen Hand in Hand da, der alte
 Märlin schluckte an Tränen, Frau Julia betupfte sich die
 Augen, — nicht einer unter uns konnte sich dem Ergreifenden
-dieses Austritts entziehen, noch nie ist ein Gemälde unter
+dieses Auftritts entziehen, noch nie ist ein Gemälde unter
 so dramatischen Umständen wieder aufgetaucht.
 
 Vielleicht war es ganz gut, daß die blonde sanfte Frau
@@ -754,10 +754,10 @@ ernst. — »Entschuldigen Sie mich jetzt … Ich habe noch einige
 Vorbereitungen zu treffen. Schraut und Sie, Herr von Ribbnig,
 mögen inzwischen eine lebensgroße Puppe herstellen und am
 Rücken der Puppe eine Stange befestigen, damit ich die Puppe
-dirigieren kann, die den toten vorstellen muß und die unbedingt
+dirigieren kann, die den Toten vorstellen muß und die unbedingt
 Stiefel anhaben muß … schwere Stiefel, wie Ihr Vater sie
 zu tragen pflegte, Fräulein Sieglinde. Und falls Sie, Frau
-Julia, derweil mit Ihrem Gatten sich aussprechen mochten,
+Julia, derweil mit Ihrem Gatten sich aussprechen möchten,
 — im Oberstock sind genügend leere Zimmer vorhanden … seien
 Sie überzeugt, Gerd Hartung wird Ihnen mit alter Liebe begegnen,
 er ließ durch einen Herrn Tick das Dominokästchen kaufen,
@@ -996,7 +996,7 @@ die Treppe dunkel bliebe. Alles erkannte ich nun, alles!
 Ich wußte, daß er mich in den Tod schicken wollte, und —
 er versuchte es: Ich sollte die Zigarren holen! Da habe
 ich ihm in Gegenwart meiner Frau zu verstehen gegeben, daß
-ich Bescheid wüste. Julia mag der Blick entgangen sein,
+ich Bescheid wüßte. Julia mag der Blick entgangen sein,
 mit dem er mich eine Weile aus verkniffenen Augen anstarrte.
 Dann blinkte in diesen Augen ein dämonisches Leuchten auf:
 In dem Moment faßte er den Entschluß, sich selbst zu stellen!
@@ -1041,7 +1041,7 @@ auf der Unterseite des Läufers, und die Läuferstange beachtete
 niemand. In einem Punkt hatte Harst sich geirrt, unter uns
 gesagt. Er glaubte, der obere Brandstreifen rühre nicht
 von Ribbnigs Zigarre her, — und doch muß es so gewesen sein.
-Beim Wegschaffen des Toten wurden die geringen Rückstande
+Beim Wegschaffen des Toten wurden die geringen Rückstände
 des verbrannten Drahtes, die auf den Stufen lagen, zertreten,
 Penz traf erst ein, als die Spuren getilgt waren, er konnte
 wirklich nichts ermitteln, nur der blaue Dominostein konnte
