@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">aa9322d7-2920-41a7-a37a-d787d7e66a7f</entry>
+<entry key="title">Das Spiel mit den goldenen Kugeln</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">329</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Das Spiel mit den goldenen Kugeln
+
+BESCHREIBUNGBESCHREIBUNGBESCHREIBUNG
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (329) Das Spiel mit den goldenen Kugeln.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1932</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
