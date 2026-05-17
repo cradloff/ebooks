@@ -7,7 +7,7 @@
 <h3>Razzia auf dem Fluß.</h3>
 
 Der neue Motorkutter der Wasserpolizei schoß fast lautlos
-mit leise knurrenden Maschine durch die trüben Fluten und
+mit leise schnurrender Maschine durch die trüben Fluten und
 durch den dünnen Abendnebel.
 
 Zuweilen tauchten vor dem Bug weiße Flecken auf, — ein
@@ -54,7 +54,7 @@ Soeben hatte der Wind den Nebel wieder gelichtet, und
 Mondschein und Sterne zeigten gerade voraus ein kleines
 dunkles Motorboot ohne die vorschriftsmäßigen Laternen.
 
-»das ist’s!!«, flüsterte der junge Offizier … »Ich sehe es
+»das ist’s!«, flüsterte der junge Offizier … »Ich sehe es
 nun die dritte Nacht, und …«
 
 »Still! Sie wissen was Sie zu tun haben … Bitte,
@@ -75,7 +75,7 @@ Fahrzeug.
 »Stoppen Sie oder wir schießen!!«, brüllte der Leutnant
 durch den Tubus.
 
-Die übrigen kauerten auf ihren; Korbsesseln, und der riesige
+Die übrigen kauerten auf ihren Korbsesseln, und der riesige
 Schwalch am Heck bewies, wie stark der Motor des Bootes
 sein mußte.
 
@@ -88,11 +88,11 @@ Bevor der Wachtmeister Schnick oder der Leutnant zum
 Schuß kamen, stieg vom Wasserspiegel eine dicke Qualmfontäne
 auf, breitete sich mit ihren künstlichen Rauchmassen nach allen
 <@pagebreak/>
-Seiten aus, und gegen die chemischen Nebel war nicht auszukommen.
+Seiten aus, und gegen die chemischen Nebel war nicht aufzukommen.
 Das Boot war unsichtbar geworden.
 
 »Schießen!«, rief der Kriminalrat … »Zum Teufel, so
-schießen Sie doch!!"
+schießen Sie doch!!«
 
 Schnick drückte ab, und auch der Leutnant feuerte mehrmals
 …
@@ -139,7 +139,7 @@ lautete:
 nur Ihr Rum ist Dreck … Schlafen Sie gut …«
 
 Der verdatterte Leutnant wußte nicht, ob das Hohn oder
-Wahrheit sei, — immerhin, er war froh, den, ekligen Herrn,
+Wahrheit sei, — immerhin, er war froh, den ekligen Herrn
 von Bord zu haben, diese Leute von der Mordkommission
 taten ja stets so, als ob die Uniform nur eine Liftboylivree
 wäre.
@@ -172,9 +172,9 @@ Der Rat blieb stehen.
 Sie hatten bereits den Rand eines Kieferngehölzes erreicht.
 
 Der Wind trieb den Nebel bei Seite, und der stämmige
-Herr schaute den mondbeschienenen Schnick durdringend an …
+Herr schaute den mondbeschienenen Schnick durchdringend an …
 
-»... Haben Sie etwa auf eigene Faust spioniert, Sie
+»… Haben Sie etwa auf eigene Faust spioniert, Sie
 Gründling, Sie?!«
 
 Schnick, an alle möglichen Ehrentitel längst gewöhnt,
@@ -183,7 +183,7 @@ Herr Rat … Doktor Moorcroft hat ein neues Boot gekauft,
 und zwar das schnellste, das er auftreiben konnte … Und
 gestern halb zwölf kehrten die Bewußten von einer Wasserpartie
 <@pagebreak/>
-zurück, und die Nase heute im Boot bei Scheinwerferlicht
+zurück, und *die* Nase heute im Boot bei Scheinwerferlicht
 war unverkennbar …«
 
 Der Kriminalrat nickte. »Schnick, ich habe Sie der Orchideensache
@@ -192,7 +192,7 @@ dem Tüchtigen …! Wenn die hohen Herrn Sie nicht zum
 Kommissar ernennen, nehme ich meinen Abschied, denn — —
 Sie sind beinahe fixer als ich. Leider werde ich Sie dann anders
 behandeln müssen, und gerade der nette freie Ton zwischen
-uns war so erquickend …"
+uns war so erquickend …«
 
 »Für Sie …!«, murmelte Schnick.
 
@@ -206,7 +206,7 @@ nehmen.«
 
 Schnick wurde blaß …
 
-Wirklich?!«, stotterte er …
+»Wirklich?!«, stotterte er …
 
 »Tatsache!«, lachte der Rat und schüttelte ihm die Hand.
 »Ab heute sind Sie Kriminalkommissar … Schnick, Sie
@@ -224,7 +224,7 @@ Glück …« *Er* war etwas gerührt …
 Kriminalrat Penz nahm ihn unter den Arm und schritt
 weiter …
 
-»Werden Sie bloß nicht zu Äppelmus, mein Lieber ...
+»Werden Sie bloß nicht zu Äppelmus, mein Lieber …
 In dieser Nacht können wir Äppelmus nicht brauchen … Die
 beiden Kunden, die da in der Villa des Professors — Friede
 seiner Asche — wieder mal ihre Außenseiternetze spinnen, sind
@@ -235,7 +235,7 @@ verflucht harte Nüsse …«
 dann …«
 
 Penz hatte urplötzlich seinen Liebling Schnick mit solcher
-Kraft zu Boden gerissen und sich selbst neben hingeworfen,
+Kraft zu Boden gerissen und sich selbst neben ihn geworfen,
 daß Schnicks Nase verdächtig zu tröpfeln begann.
 
 »Was ist los …?!«, zischelte er …
@@ -258,19 +258,19 @@ Dann meckerte er diskret.
 
 »Grün — stimmt … Sie bringen das Boot gerade in
 den Schuppen … *Es* war die eine Positionslaterne, Herr
-Na! …«
+Rat …«
 
 Penz blieb stumm. Erst nach Sekunden meinte er:
 
 »Esel! — Aber das bezieht sich auf mich Kollege. — Verdammte
-Geschichte, — ihm bin nervös geworden, das Geschrei
+Geschichte, — ich bin nervös geworden, das Geschrei
 in den Zeitungen der beiden Wasserleichen wegen hört nicht
 auf … — Glauben Sie, daß Harst auf derselben Fährte ist?!«
 
 Er erhob sich, Schnick ebenso, und dieser preßte sich mit dem
 Taschentuch seine blutende Nase zu.
 
-»Fährte?!<<, sagte er dumpf … »Wo ist da eine Fährte?
+»Fährte?!«, sagte er dumpf … »Wo ist da eine Fährte?
 Zwei reiche Ausländer verschwinden aus Berliner Luxuspensionen
 und lernen in der Havel mit zerfetzten Gesichtern und
 leeren Taschen schwimmen?! — Weiter wissen wir nichts, gar
@@ -286,9 +286,9 @@ Schnick, der wie stets die Augen überall hatte, gewahrte
 <@pagebreak/>
 jetzt trotz der trüben Beleuchtung Zwei Gestalten, die vom
 Bootssteg der Villa auf den Schuppen zuhuschten und dabei so
-lautlos zu Werke gingen, daß das Rauschen der Schilfrohrjtelder
-am Ufer und das Säuseln in den Kronen der Garten
-Bäume das Knarren der Holzplanken übertönten.
+lautlos zu Werke gingen, daß das Rauschen der Schilfrohrfelder
+am Ufer und das Säuseln in den Kronen der Gartenbäume
+das Knarren der Holzplanken übertönten.
 
 »Herr Rat!«
 
@@ -308,8 +308,7 @@ Ein leises Surren erklang … erstarb …
 »Die Kerle hatten Büchsen …«, tuschelte Strick zurück.
 »Ich glaube, sie wollten den anderen Beiden da drinnen je ein
 Lot Blei gratis verabfolgen. — Denken Sie an den flüchtigen
-Baron Stock und die amerikanischen Luftbüchsen der Orhideens
-Brüder!«
+Baron Stock und die amerikanischen Luftbüchsen der Orchideen-Brüder!«
 
 Penz holte ganz tief Atem …
 
@@ -326,7 +325,7 @@ Penz schnellte herum …
 
 »N’Abend, Penz …«, meinte Harst gemütlich. »Haben Sie
 hier im Fluß Angelschnüre ausgelegt?! … Wir haben unsere
-Angelschnüre vorhin zum Trocknen ausgespannt und Ihr trefflichen
+Angelschnüre vorhin zum Trocknen ausgespannt und Ihr trefflicher
 Schnick scheint darüber gestolpert zu sein …«
 
 <@pagebreak/>
@@ -339,30 +338,30 @@ Schnick scheint darüber gestolpert zu sein …«
 Angaben niedergeschrieben.
 
 Wir drängen uns nicht vor, aber nunmehr müssen wir
-Selbst auf der Bühne erfck)cinen. Szenerie: Ein Bootsschuppen,
+Selbst auf der Bühne erscheinen. Szenerie: Ein Bootsschuppen,
 darin zwei Ruderboote, ein neues Motorboot, diverse Geräte
 — Personen: Wie oben und — — ich, also vier.
 
 Penz und Schnick von uns freundlichst zum Nähertreten
 aufgefordert, saßen in Korbsesseln (aus dem Motorboot), und
-Narrst mit Farbentopf und Pinsel und blauer Schürze erwiderte
+Harst mit Farbentopf und Pinsel und blauer Schürze erwiderte
 auf Penz’ vorsichtige Frage:
 
-»Ja, wir haben Aalschnüre ausgelegt … Wir sind vors
-hin mit dem Boot zurückgekehrt, und da Marga Moorcroft
+»Ja, wir haben Aalschnüre ausgelegt … Wir sind vorhin
+mit dem Boot zurückgekehrt, und da Marga Moorcroft
 die dunkelblaue Farbe nicht gefällt, streiche ich den Kahn erst
-hellbraun … Bester Lack … Trocknet in einer Stunde …
+hellbraun … Bester Lack … Trocknet in einer Stunde …«
 
 Penz schob die Zigarre in den anderen Mundwinkel
 
 »Harst, ich empfehle Ihnen, pinseln Sie lieber zwei Särge
 giftgrün an, — für sich und Schraut … Da waren soeben
 draußen zwei Kerle mit Flinten und einem Köter, und der Baron
-Stock und euch beiden doch noch eins auf den Pelz
-brennen ..."
+Stock wird euch beiden doch noch eins auf den Pelz
+brennen …«
 
-»Kaum ...« Harst wandte ließ dem Motorboot zu und
-pinselte unter »Es wird ihm kaum gelingen, lieber Penz …
+»Kaum …« Harst wandte sich dem Motorboot zu und
+pinselte weiter. »Es wird ihm kaum gelingen, lieber Penz …
 Wir haben uns gesichert … Auch Ihr Kommen bemerkten
 wir: Aalschnüre, an Land gespannt, haben ihre Vorteile …«
 
@@ -379,13 +378,13 @@ Aus Penz’ Sessel kam die Frage:
 »Wieviel Kugellöcher, Schnick?«
 
 »Drei … Sie sind trotz der hineingekeilten Holzpflöcke
-und trat deren sauberster Behobelung deutlich zu sehen.«
+und trotz deren sauberster Behobelung deutlich zu sehen.«
 
 Penz lachte.
 
 »Gefangen, Harst!! Außerdem war Ihr Hakennäschen im
-Scheinwerferliht wie ein Steckbrief mit Fingerabdruck …! —
-»Also, was treibt ihr nun so?! Dreimal seid ihr bei Sakrow
+Scheinwerferlicht wie ein Steckbrief mit Fingerabdruck …! —
+Also, was treibt ihr nun so?! Dreimal seid ihr bei Sakrow
 mit diesem Benzinkahn ohne Lichter erwischt worden und entschlüpft,
 Keine Flausen!!«
 
@@ -394,21 +393,21 @@ daneben und band die Schürze ab …
 
 »Gut, gehen wir in die Villa … Wir wohnen dort seit
 vorgestern. Wir können da die Sache in aller Ruhe besprechen
-…"
+…«
 
 Er hatte sich mit der Tatsache abgefunden, daß Penz Zu
 viel wußte.
 
 Mir war es nur lieb, daß die Heimlichkeiten ein Ende
 hatten, denn die Knallerei auf uns hätte auch Fleisch statt
-stolz Ehefrau können, und sich ausgerechnet von der Polizei
+Holz treffen können, und sich ausgerechnet von der Polizei
 totschießen zu lassen, entsprach schon gar nicht meinen
 Zukunftshoffnungen.
 
 Wir schlossen das Bootshaus ab, wir stiegen vorsichtig
 über die zum Teil ganz niedrig gespannten Alarmdrähte, und
 in der Hauptallee des Gartens, wo der Nebel dick und schwer
-zwischen den Bäumen hing, stolperte Gruft über den Kadaver
+zwischen den Bäumen hing, stolperte Harst über den Kadaver
 eines Schäferhundes …
 
 »Was bedeutet das?!«
@@ -416,7 +415,7 @@ eines Schäferhundes …
 Er bückte sich …
 
 »Das Tier ist noch warm. Hier eine Schußwunde,
-Kopfschuß …"
+Kopfschuß …«
 
 Seine Stimme klang belegt und heiser.
 
@@ -461,13 +460,13 @@ Harst, durch den Anprall gegen die Leiter halb betäubt,
 stützte sich schwer auf meinen Arm, während Schnick wie ein
 Eichhörnchen die Leiter emporklomm.
 
-Er kehrte sehr bald zurück…
+Er kehrte sehr bald zurück …
 
 »Leer … geraubt …«, sagte er dumpf und leuchtete den
 Boden nach Spuren ab.
 
 Penz reichte Harald die Kognakflasche. »Trinken Sie …
-Sie sind mir ein seiner Abfangen!! Ihre Alarmstrippen
+Sie sind mir ein feiner Aalfänger!! Ihre Alarmstrippen
 hätten Sie hier um die Villa legen sollen, Sie … Sie …
 Amateur!!«
 
@@ -490,7 +489,7 @@ Reisewecker, der sehr leise tickte.
 Penz besichtigte das Fenster, das offen stand und unter
 dem die Leiter lehnte. Der linke Flügel war offen, besser, beide
 Fensterflügel, denn es war ein Doppelfenster. Der Innenflügel
-war mit dem Haken festgeklammert, der Außenflügel, der nach)
+war mit dem Haken festgeklammert, der Außenflügel, der nach
 außen schlug (es war eine ältere Villa) desgleichen. Die Fensterscheiben
 waren unversehrt.
 
@@ -499,8 +498,8 @@ schauten sich an und schüttelten die Köpfe.
 
 Der Befund hier sprach *nicht* für gewaltsame Entführung,
 aber der erschossene Hund und der Frauenschrei in der
-Ferne redeten wieder zugunsten Schnicks, der soeben am »Jene«
-hier auf der Leiter erschien und uns einen abgerissenen Schemel
+Ferne redeten wieder zugunsten Schnicks, der soeben am Fenster
+auf der Leiter erschien und uns einen abgerissenen Ärmel
 eines dunkel karrierten Damengummimantels zeigte, den wir
 als Margas Eigentum kannten.
 
@@ -508,11 +507,11 @@ als Margas Eigentum kannten.
 Gartenmauer lehnt eine Leiter, und zwei Personen entführten
 die junge Dame. Die Spuren sind gut zu lesen.«
 
-Harst hatte langem den Sportpelz aufgeknöpft und öffnete
-sein Zigarettenetui ...
+Harst hatte langsam den Sportpelz aufgeknöpft und öffnete
+sein Zigarettenetui …
 
 »Gut zu lesen, Schnick?! Dann haben Sie die falsche
-Seite aufgeschlagen ..."
+Seite aufgeschlagen …«
 
 Er rieb ein Zündholz an …
 
@@ -527,15 +526,15 @@ so ein sauber gefaltetes Damennachthemd.
 den Nachttisch. »Marga Moorcroft wird noch gelesen
 haben, jemand lockte sie ans Fenster, sie muß geglaubt haben,
 es wäre ein Bekannter, etwa Sie, Herr Harst, und sie öffnete
-arglos und man warf ihr ein Lud über den Kopf, das frisch
+arglos und man warf ihr ein Tuch über den Kopf, das frisch
 mit Chloroform getränkt war. Ich bin kein Genie, aber meine
-Nase ist an!, dort am Fenster riecht es nach Chloroform, wenn
+Nase ist gut, dort am Fenster riecht es nach Chloroform, wenn
 man sich bückt, und ich habe mich gebückt,«
 
 Penz ging hin und schnupperte,
 
 »Stimmt! Chloroform …! Der Fall liegt klar … Wir
-müssen sofort ihren Bruder wecken, und ich; werde das Präsidium
+müssen sofort ihren Bruder wecken, und ich werde das Präsidium
 anrufen, Polizeihunde haben eine noch bessere Nase als
 Sie, Kollege Schnick.«
 
@@ -552,8 +551,8 @@ steht auf zwölf, die anderen Zeiger auf ein Uhr, was mit meiner
 Armbanduhr übereinstimmt. — Nun geben Sie bitte
 acht …«
 
-Er hob den Bügel des Weckers, der zugleich die Weck-
-Vorrichtung einschaltete, senkrecht hoch …
+Er hob den Bügel des Weckers, der zugleich die Weckvorrichtung
+einschaltete, senkrecht hoch …
 
 »Bitte, der Wecker war also nur ausgeschaltet … Jetzt
 habe ich ihn eingeschaltet …«
@@ -581,14 +580,14 @@ ersten Einschnitt gemacht hat … — Ich ziehe meine Annahme
 zurück, Herr Harst, aber schlau werde ich aus der Geschichte
 nicht …«
 
-"ich auch nicht …«, — und Penz setzte sich auf den Bettrand.
+»ich auch nicht …«, — und Penz setzte sich auf den Bettrand.
 
 »Wohl keiner von uns,« pflichtete Harst ihm achselzuckend bei.
 »Das Chloroform ist absichtlich vergossen worden, der
 Ärmel ist absichtlich abgerissen worden, — was soll das
-alles?!"
+alles?!«
 
-Penz erhob sie wieder. »Wecken wir den Doktor, dann
+Penz erhob sich wieder. »Wecken wir den Doktor, dann
 wollen wir uns weiter hier umtun. Sie kennen ja die Villa
 besser als ich, Harst … Wo hat Moorcroft sein Schlafzimmer?«
 
@@ -600,14 +599,14 @@ Im Flur stand Doktor Moorcroft, eingehüllt in einen langen
 seidenen Schlafrock mit bunten Blumen, sein Gesicht war
 erdfahl, und seine Stirn perlte von Schweiß.
 
-»Was ist geschehen …,?«, fragte er mit schwerer Zunge.
+»Was ist geschehen …?«, fragte er mit schwerer Zunge,
 — er würgte jedes Wort nur mühsam hervor.
 
-Ih war überzeugt, daß er gehorcht hatte.
+Ich war überzeugt, daß er gehorcht hatte.
 
 Penz betrachtete ihn scharf. »Treten Sie ein, Doktor …
 Weshalb sind Sie so verstört?«, meinte er bedächtig. »Sehr
-verstört … — So kommen Sie doch …"
+verstört … — So kommen Sie doch …«
 
 Moorcrofts dunkle Augen glitten zum Fenster hin.
 
@@ -616,7 +615,7 @@ Er rührte sich nicht …
 Und erst als Penz ihn am Arm packte oder packen wollte,
 wich er zurück … »Bitte … bitte schließen Sie erst das Fenster
 <@pagebreak/>
-und ziehen Sie die Vorhänge zu ...«, stotterte er derart
+und ziehen Sie die Vorhänge zu …«, stotterte er derart
 verängstigt, daß Penz ungemütlich wurde,
 
 »Zum Teufel, — was ist denn plötzlich mit Ihnen los?!
@@ -647,7 +646,7 @@ Doktor sich irgendwie verletzt?!«
 
 Harald wurde die Antwort sichtlich schwer.
 
-»Als Schraut und im um acht Uhr mit dem Motorboot
+»Als Schraut und ich um acht Uhr mit dem Motorboot
 davonfuhren, hatte Moorcroft noch absolut gesunde Beine …
 — Doktor, was ist Ihnen denn zugestoßen?«
 
@@ -657,8 +656,8 @@ Moorcrofts Kopf sank nach vorn …
 geschossen …« — und dann wurde er ohnmächtig.
 
 Als Moorcroft wieder zu sich kam und dabei blieb, er
-habe sie beim Pistolenreinigen selbst verletzt, trat er, ein ge-
-brochener, aber verbissen schweigsamer Mann, die schwere
+habe sich beim Pistolenreinigen selbst verletzt, trat er, ein gebrochener,
+aber verbissen schweigsamer Mann, die schwere
 Fahrt nach dem Alexanderplatz an, — Polizeipräsidium.
 
 Sein Verhalten, ebenso die Vorgänge in der Villa und
@@ -677,8 +676,8 @@ Kraft gehabt,
 <h3>Wir allein in der Villa.</h3>
 
 Die ersten polizeilichen Ermittlungen waren gegen vier Uhr
-morgens beendet, Ihr Ergebnis legte Widersprüche bloß,
-die den Tatbestand in einzelne unvereinbare Teile zerprpflüäten.
+morgens beendet. Ihr Ergebnis legte Widersprüche bloß,
+die den Tatbestand in einzelne unvereinbare Teile zerpflückten.
 
 Die Polizeihunde hatten die Spuren Margas und ihrer
 beiden Begleiter (Entführer traf kaum zu) bis zur Chaussee
@@ -689,9 +688,9 @@ Doktor Moorcroft hatte geleugnet, nachts die Villa verlassen
 zu haben, er sei nicht im Garten gewesen, die Kugel habe
 er sich selbst durch Unachtsamkeit gegen halb elf ins Bein gejagt,
 als Marga bereits schlafen gegangen war. Er habe sich
-als Arzt selbst verbunden und die Kugel zum Fenster hing
-ausgeworfen. Er wisse nichts über seiner Schwester Verbleib.
-— Im Übrigen: Auf jede verfängliche Frage unerschütterliches
+als Arzt selbst verbunden und die Kugel zum Fenster hinausgeworfen.
+Er wisse nichts über seiner Schwester Verbleib.
+— Im übrigen: Auf jede verfängliche Frage unerschütterliches
 Schweigen!
 
 Er log natürlich. Die Kugel einer Selbstladepistole hätte
@@ -706,27 +705,27 @@ Fährten, die wohl absichtlich kreuz und quer liefen. Auch der
 zweite Schäferhund lag erschossen an der Parkmauer.
 
 Sehr auffallend war, was wir bestätigen mußten, daß Marga
-am 15. Dezember der Köchin und dem Stubenmädchen ge
-kündigt und den Lohn für fernere drei Monate unter der Bedingung
+am 15. Dezember der Köchin und dem Stubenmädchen gekündigt
+und den Lohn für fernere drei Monate unter der Bedingung
 ausgezahlt hatte, sie müßten die Villa sofort verlassen,
 da sie mit ihnen nicht zufrieden sei. Es handelte sich
 dabei um zwei Hausangestellte, die dem Professor Balzer,
-Margas Adoptivvater, seit Fahren treu gedient hatten. Zwei
+Margas Adoptivvater, seit Jahren treu gedient hatten. Zwei
 Frauen aus Gatow hatten aushilfsweise über Tag die Arbeit
 der Entlassenen übernommen, so daß in dieser ereignisreichen
-Nacht in der Villa nur die Geschwister und Moorcrofts Die-
-ner James Olliver anwesend waren, den der Doktor aus Tone
-von kürzlich hatte nachkommen Laffen.
+Nacht in der Villa nur die Geschwister und Moorcrofts Diener
+James Olliver anwesend waren, den der Doktor aus London
+kürzlich hatte nachkommen lassen.
 
 Dieser James Olliver war ein sehr unangenehmer Bursche,
 der mir vom ersten Augenblick an gründlich mißfallen
 hatte. Er war englischer Kriegsteilnehmer, hatte ein zu kurzes
 Bein (Granatsplitter) und auch ein Auge an der Front verloren
 und trug daher eine Augenklappe. Seine Papiere
-waren tadellos in Ordnung, er hatte mehrere Aufzeichnungen
-vor dem Feinde erhalten und mochte an sich ein tapferer Wann
-sein: Als Diener war er unerträglich, beherrschte den Dok-
-Tor vollkommen und begegnete uns beiden mit schlecht verhehltem
+waren tadellos in Ordnung, er hatte mehrere Auszeichnungen
+vor dem Feinde erhalten und mochte an sich ein tapferer Mann
+sein: Als Diener war er unerträglich, beherrschte den Doktor
+vollkommen und begegnete uns beiden mit schlecht verhehltem
 Deutschenhaß.
 
 Er bewohnte oben in der Mansarde ein Zimmer und
@@ -734,12 +733,12 @@ wollte nichts, aber auch gar nichts gehört und fest geschlafen
 haben.
 
 Bei der Vernehmung riß dem sonst so beherrschten Penz
-verschiedentlich der dicke Geduldsfaden, und dies war zu be-
-greifen, denn der etwa vierzigjährige James mit dem kurz
+verschiedentlich der dicke Geduldsfaden, und dies war zu begreifen,
+denn der etwa vierzigjährige James mit dem kurz
 geschorenen Sträflingskopf, den buschigen Augenbrauen und
 der schiefen Mundpartie und dem einen kleinen tückischen Auge
 trat derart patzig auf, daß er gelinde gesagt Ohrfeigen verdient
-hätte. Trotzdem übergab der verhaftete Moorcroft ihm von
+hätte. Trotzdem übergab der verhaftete Moorcroft ihm vor
 seiner Abfahrt in die Zelle den Haushalt in aller Form und
 <@pagebreak/>
 stellte ihm sogar eine Vollmacht aus. James Ollivers dürftige
@@ -750,10 +749,10 @@ Fremdenzimmer noch weiter zu benutzen.
 Der Mann wirkte in seiner dunklen Livree wie ein greulicher
 Spuk. —
 
-Nun waren die Polizeiautos bis auf Penz' Wagen davongefahren,
+Nun waren die Polizeiautos bis auf Penz’ Wagen davongefahren,
 und Penz, Kommissar Schnick und wir beide saßen
 in Professor Balzers großer Bibliothek in der Klubecke, und
-Lautes servierte Mokka und einige Erfrischungen.
+James servierte Mokka und einige Erfrischungen.
 
 »Sie können schlafen gehen, James,« bestimmte Penz unfreundlich.
 »Wir brauchen Sie nicht mehr.«
@@ -771,7 +770,7 @@ Penz rührte in seiner Tasse. »Schade, daß das Zeitalter
 der Folterwerkzeuge vorüber ist,« knurrte er. »Der Kerl weiß
 bestimmt alles …!«
 
-3Zu meinem Erstaunen nickte Harst und bestätigte: »Davon
+Zu meinem Erstaunen nickte Harst und bestätigte: »Davon
 bin ich überzeugt, nur — auch die Folter würde nichts helfen,
 Leute dieses Schlages sind Eisennaturen.«
 
@@ -788,18 +787,18 @@ Riggi: Dann wurden die Leichen im Schilf der Halbinsel
 Schwanenwerder mit leeren Taschen und zerschmetterten Gesichtern
 und anderen Verletzungen gefunden, die man auf
 <@pagebreak/>
-Dampferschrauben zurückführen könnte. — Was mir bei hielten
-Vorstrafen auffiel, war folgendes. Zunächst nehme ich
-Mord an … dann wohnten Woolbrack und Niggi in verschiedenen
+Dampferschrauben zurückführen könnte. — Was mir bei diesen
+Mordtaten auffiel, war folgendes. Zunächst nehme ich
+Mord an … dann wohnten Woolbrack und Riggi in verschiedenen
 sehr teuren Fremdenheimen zusammen mit ihren indiskreten
 Frauen, — sagen wir: mit ihren Freundinnen, die sie
 sich aber erst hier, wie erwiesen, aus den Kreisen der Lebewelt
 zugelegt hatten. Sie waren ja sehr reich. Woolbrack verschwand
-am 6. Dezember von der Straße, Niggi am 7. Dezember
+am 6. Dezember von der Straße, Riggi am 7. Dezember
 auch abends von der Straße. Wie, das weiß niemand.
-Jedenfalls kannten sie einander nicht. Ihre Freundinnen wert
-mochten nichts irgendwie Klärendes anzugeben, die Mädels
-waren harmlose, seiner gezüchtete Asphaltpflänzchen.«
+Jedenfalls kannten sie einander nicht. Ihre Freundinnen vermochten
+nichts irgendwie Klärendes anzugeben, die Mädels
+waren harmlose, feiner gezüchtete Asphaltpflänzchen.«
 
 Penz gähnte diskret … Ihn langweilte das alles. Es
 war bekannt.
@@ -815,7 +814,7 @@ Und Ulla Strick hat Grübchen!«
 
 »Ja, wenn sie will … — Kurz und gut: Der Verdacht
 kam mir, daß der flüchtige Baron Stock, der ja noch einen
-Teil der Helfershelfer der Orchideen—Brüder hinter sich hat
+Teil der Helfershelfer der Orchideen-Brüder hinter sich hat
 und der unseren Patent-Strick und Ulla wegen des damaligen
 Reinfalls wie die Sünde haßt — oder sagen wir das Gute,
 denn an Stock ist alles Sünde, irrtümlicherweise zuerst Woolbrack
@@ -824,27 +823,27 @@ und dann Riggi für Strick hielt und … sich rächte …«
 »Hm …« Penz überlegte erst. »Mag sein, die Umstände
 ließen Stock vielleicht wirklich zu dieser Annahme gelangen.«
 
-»Nicht vielleicht, lieber Penz. Es ist so … — Die Be-
-weise meinerseits lauten: Woolbrack und Riggi tauchten in
+»Nicht vielleicht, lieber Penz. Es ist so … — Die Beweise
+meinerseits lauten: Woolbrack und Riggi tauchten in
 Berlin am 5. Dezember auf, ihre Persönlichkeiten umgab ein
 gewisses mystisches Dunkel, meine Freunde von der Detektei
 <@pagebreak/>
-Argus haben das festgestellt. Ich nehme an, die Verkehr
-waren Industriespione. Jedenfalls konnte Stock samt seinen:
+Argus haben das festgestellt. Ich nehme an, die beiden
+waren Industriespione. Jedenfalls konnte Stock samt seinen
 Kreaturen leicht zu der Überzeugung kommen, Strick verberge
 sich als Woolbrack oder als Riggi vor der Polizei: Einzelheiten
 schenke ich mir. — Mein Verdacht veranlaßte mich,
-da im auch die Geschwister Moorcroft für bedroht hielt, hierher
+da ich auch die Geschwister Moorcroft für bedroht hielt, hierher
 als Angler überzusiedeln. Schraut und ich beobachteten
-dann vorgestern abend ein Motorboot, das sicher den Steg
-der Villa Walzer heranpirschte, aber durch die Stunde verscheucht
+dann vorgestern abend ein Motorboot, das sich an den Steg
+der Villa Balzer heranpirschte, aber durch die Hunde verscheucht
 wurde. Es Fuhr ohne Lichter. Wir hatten Moorcroft bereits
 geraten, auch ein Motorboot zu kaufen, brachten es schnell zu
 Wasser und blieben dem fremden Boot bis in die Nähe von
 Sakrow unbemerkt im Nebel auf den Fersen. Dort verschwand
 es spurlos, und deshalb haben wir dort nun die folgenden
 Abende patrouilliert, erregten die Aufmerksamkeit der Polizei,
-und — alles weitere wissen Sie. Nur eins nicht …"
+und — alles weitere wissen Sie. Nur eins nicht …«
 
 Penz war jetzt ganz Ohr.
 
@@ -860,7 +859,7 @@ weiß-schwarz gefleckte Bulldogge Tyras.«
 Penz stierte Harst groß an. »Sie haben recht! — Verdammt
 nochmal, also hat Strick seine geschickten Finger auch wieder in
 diesem Brei!! Der Mensch müßte Polizist werden … Halb
-ist er es schon, halb ist er Gauner und Beschirmen der Armen,
+ist er es schon, halb ist er Gauner und Beschirmer der Armen,
 jedenfalls die seltsamste Mischung von Hochstaplerkavalier, die
 je uns Kriminaler geärgert hat. — Na schön, — also Strick
 und Sakrow … Ist dort in Sakrow was zu ermitteln?«
@@ -868,21 +867,20 @@ und Sakrow … Ist dort in Sakrow was zu ermitteln?«
 »Wir waren dort …« Harald sprach zögernder, und ich
 wußte weshalb … Die dritte Überraschung drohte …
 
-»... Wir waren dort … Sie kennen das Uferrestaurant
-»Zum Doktor Faust« auch die große Anlegebrücke der »Sterndampfer-Gesellschaft"
+»… Wir waren dort … Sie kennen das Uferrestaurant
+»Zum Doktor Faust« auch die große Anlegebrücke der
 <@pagebreak/>
-… Gestern mittag standen wir auf
+»Sterndampfer-Gesellschaft« … Gestern mittag standen wir auf
 dieser Brücke, ein alter Motorkahn mit einem noch älteren
-Fischer spukte und ratterte heran, wir hatten uns schon zum
+Fischer spuckte und ratterte heran, wir hatten uns schon zum
 Gehen gewandt, der Kahn legte an, ich drehte mich um, und
 da sah ich an dem Pfosten des großen Reklameschildes einen
 langen Papierstreifen flattern, der vorher nicht dort im Winde
-geweht hatte … — Hier ist er … Lesen Sie ..."
+geweht hatte … — Hier ist er … Lesen Sie …«
 
 Ich kannte den Text …
 
-Strick hatte schon häufiger üble bissige Knittelverse »ge-
-dichtet«.
+Strick hatte schon häufiger üble bissige Knittelverse »gedichtet«.
 
 <p class="centered em">Dr. Faust’s Zauberspruch.</p>
 
@@ -897,14 +895,14 @@ getippt.
 Penz’ kluges Gesicht bekam scharfe Falten. »Harst, was
 soll das?! Ich bilde mir ein, einen besseren Stoff im Schädel
 zu haben als nur Heu. Aber dieser Blödsinn hätte nur …
-Sinn, wenn man unterstellen wollte, daß Strick den Doktor an-
-geknallt hat und daß Strick Marga entführte.«
+Sinn, wenn man unterstellen wollte, daß Strick den Doktor angeknallt
+hat und daß Strick Marga entführte.«
 
 »Allerdings,« sagte Harst trocken. »Kugel und Leiter haben
-in dieser Nacht so bedenkliche Vollen gespielt, daß man sich
+in dieser Nacht so bedenkliche Rollen gespielt, daß man sich
 Ihren Vermutungen voll anschließen könnte …« —
 
-Es hätte keinen Zweck, wollte ich hier noch all! die spitzfindigen
+Es hätte keinen Zweck, wollte ich hier noch all die spitzfindigen
 Theorien aufzählen, die nun von jedem von uns entwickelt
 wurden.
 
@@ -920,20 +918,20 @@ nicht an Schlafengehen. Er rauchte, hielt die Augen geschlossen
 und grübelte.
 
 Ich … schlief in meiner Sofaecke ein, schreckte hoch …
-stierte wild umher, — — Harst hatte das Mokkageschirr Wegge-
-räumt, und auf dem Tische stand unser großes Mikroskop
-Harald blickte durch die Linsen auf die grell beleuchtete Glas
-Platte, und auf dieser lagen halblange Haare, vielleicht
+stierte wild umher, — — Harst hatte das Mokkageschirr Weggeräumt,
+und auf dem Tische stand unser großes Mikroskop.
+Harald blickte durch die Linsen auf die grell beleuchtete Glas-Platte,
+und auf dieser lagen halblange Haare, vielleicht
 Stücke von vier Zentimeter Länge.
 
-Ich wurde ganz munter, ich sah über der Stuhllehne nebst
-Harst einen englischen dunkelkarrierten wolligen Ulster hän-
-gen, — es war James Ollivers Ulster.
+Ich wurde ganz munter, ich sah über der Stuhllehne neben
+Harst einen englischen dunkelkarrierten wolligen Ulster hängen,
+— es war James Ollivers Ulster.
 
 »Guten Morgen …«, meinte Harald ironisch. »Du bist
 mir ein feiner Detektiv … In Essen und Schlafen leistest du
 etwas Hervorragendes … Derweil habe ich James’ Ulster
-aus dem Flur geholt … Bitte, schau' mal, was die Haare, die
+aus dem Flur geholt … Bitte, schau’ mal, was die Haare, die
 ich von dem Ulster absammelte, beweisen …«
 
 Ich sah mir die Haare in tausendfacher Vergrößerung an
@@ -945,13 +943,13 @@ Stricks Tyras …«
 
 Ich fiel in meine Ecke zurück …
 
-»Harald, das ist doch nicht möglich …!«, quetschte ich müh-
-kam hervor. »Strick soll James sein?! Ausgeschlossen!«
+»Harald, das ist doch nicht möglich …!«, quetschte ich mühsam
+hervor. »Strick soll James sein?! Ausgeschlossen!«
 
 Um Haralds Mund zuckte es. »Die Kugel fliegt, die Leiter
 steht. Wer Heu im Schädel: Nichts gerät,« — zitierte er
 mit öligem Pathos. »Nun wollen wir einmal Mr. James
-Olliver persönlich unter die Lupe nehmen … Komm' mit …
+Olliver persönlich unter die Lupe nehmen … Komm’ mit …
 Aber — ohne Heu im Schädel! — entsichere deine liebe kleine
 schwarze Freundin, die so schön blechern keifen kann … Die
 Geschichte hier riecht nach Pulver … Vorwärts … Licht aus!!«
@@ -987,10 +985,10 @@ Seine Taschenlampe war tot, die Birne zerplatzt …
 
 Finsternis …
 
-Stille ...
+Stille …
 
-Unheimliche, lauernde Lautlosigkeit, in der das uberan-
-strengte Ohr allerlei zu hören glaubt …
+Unheimliche, lauernde Lautlosigkeit, in der das überanstrengte
+Ohr allerlei zu hören glaubt …
 
 Dann droben in der Mansarde der Knall einer Tür …
 Stampfende Schritte auf der Treppe …
@@ -1014,7 +1012,7 @@ Als wir James Ollivers Zimmer betraten fanden wir es
 leer … Vor dem Bett lagen Kleider, daneben ganz frische
 Blutspritzer, die sich bis zum offenen Fenster hinzogen. Am
 Fensterkreuz hing eine Wäscheleine, und unten im Garten
-sahen wir frische Hatten von zwei Männern mit sehr breiten
+sahen wir frische Spuren von zwei Männern mit sehr breiten
 Stiefeln.
 
 Das war alles …
@@ -1036,45 +1034,45 @@ Er blieb neben dem toten Hunde in der Hauptallee stehen,
 aber seine Augen suchten den dünnen Nebel zu durchdringen,
 und seine Hand war halb erhoben, die Pistole entsichert.
 
-Ih konnte ihm beim besten Willen keine Antwort geben…
+Ich konnte ihm beim besten Willen keine Antwort geben.
 
 Harst erwartete wohl keine Antwort von mir, bückte
-sich und entfernte mit einer schmalen Pinzette aus der Kopfs
-wunde des Tieres das deformierte Bleigeschoß, das die Stirnknoßen
+sich und entfernte mit einer schmalen Pinzette aus der Kopfwunde
+des Tieres das deformierte Bleigeschoß, das die Stirnknochen
 mehr eingedrückt als durchschlagen hatte.
 
 »Luftbüchse …«, sagte er leise und wickelte den Klumpen
-Blei in Papier ein. »Du besinnst dich auf die Orchideen«-Bilde
-der und ihre Bewaffnung. Dieser Park hier war schon einmal
-der Schauplatz Seelischen Vorfälle. Nun wollen wir im
+Blei in Papier ein. »Du besinnst dich auf die Orchideen-Brüder
+und ihre Bewaffnung. Dieser Park hier war schon einmal
+der Schauplatz chaotischer Vorfälle. Nun wollen wir im
 Flur nach den Kugeln suchen, die uns vorhin zugedacht waren.
-Finden wir im Flur die bekannten Stock’schen Luftbüchsenku-
-gern ebenfalls, so ist Stocks Mittäterschaft noch einwandfreier
+Finden wir im Flur die bekannten Stock’schen Luftbüchsenkugeln
+ebenfalls, so ist Stocks Mittäterschaft noch einwandfreier
 festgestellt. Wir wollen jedoch eines scharf auseinanderhalten:
 Doktor Moorcroft erhielt seine Kugel von Freund Strick ins
-Bein gejagt, — wahrscheinlich wollte Strick den Pastor auf
-diese Weise ans Zimmer Sesseln und ihn noch mehr in Angst
-versehen. Das hängt mit einer Löschblattunterlage zusammen,
+Bein gejagt, — wahrscheinlich wollte Strick den Doktor auf
+diese Weise ans Zimmer fesseln und ihn noch mehr in Angst
+versetzen. Das hängt mit einer Löschblattunterlage zusammen,
 auf der ich allzu viel Nullen abgedrückt fand. Gib dich hiermit
 zufrieden, mein Alter … Eine Null ist wertlos, und
 <@pagebreak/>
-selbst fünf Nullen stellen kein Vermögen und keinen schlüssiger
+selbst fünf Nullen stellen kein Vermögen und keinen schlüssigen
 Beweis dar.«
 
 Drei Bleigeschosse entdeckten wir. Eine hatte Harsts Taschenlampe
 demoliert, hatte seinen Finger geritzt, hatte ihn absichtlich
 laut aufschreien lassen und war seitwärts in die Wandtäfelung
 gefahren. Das zweite steckte im Rahmen der Pendeltür
-nach der Vorhalle hin, das dritte unten in…den Dielen vor
+nach der Vorhalle hin, das dritte unten in den Dielen vor
 dieser Tür.
 
 Harald barg auch diese Kugeln in dem Papierstück. »Du
 siehst, sie wollten uns ans Leben … Zwei Schüsse wurden
 in Brusthöhe abgegeben, der dritte nach unten, als wir bereits
-auf dem Laufen lagen. — Herr Baron von Stock, Sie machen
+auf dem Läufer lagen. — Herr Baron von Stock, Sie machen
 sich bei mir höchst unbeliebt, und Ihr Konto wächst immer
 mehr. Wenn ich Ihnen mal die Rechnung Überreiche, wird
-diese sehr lang werden — wie ein Strick ..."
+diese sehr lang werden — wie ein Strick …«
 
 Dann rief er »Argus« an. »Matz — Sie? — Sofort sechs
 Mann zur Villa Balzer, zwei davon müssen auf dem Wasser
@@ -1087,10 +1085,10 @@ Sektpfropfen kenne ich … Diese Pfropfen schreibt man wie
 »Blei« … — Schluß.«
 
 Wir betraten unsere Fremdenzimmer im Obergeschoß, die
-Verbindungstür stand offen,;und nun begann Harald hier Päckchen
-zu halten, was er nur durch den Hinweis begründeter:
+Verbindungstür stand offen, und nun begann Harald hier Nachschau
+zu halten, was er nur durch den Hinweis begründete:
 »Denke an die tickende Uhr im Hause der fleischfressenden
-Pflanzen Sollte mich wundern, wenn Stock nicht auch uns
+Pflanzen. Sollte mich wundern, wenn Stock nicht auch uns
 hier ein Kuckucksei ins Nest gelegt hätte.«
 
 Ich half.
@@ -1105,14 +1103,14 @@ hin und her huschenden, blankäugigen Mäuslein darin.
 
 Wir hatten die Falle ja sofort gesehen, aber Harald schien
 davon keinerlei Notiz zu nehmen und hatte die Durchsuchung
-her Zimmer sogar bis auf den Flur und die Außenwand vor
+der Zimmer sogar bis auf den Flur und die Außenwand vor
 den Fenstern ausgedehnt.
 
 Nun jedoch, als ich mir eine Zigarre anzünden wollte, fiel
 er mir hastig in den Arm. »Besser nicht, mein Alter … Ohne
-Grund wird uns Strick die Mausefallen kaum so sichtbar auf-
-gebaut haben. Strick oder James, — das ist dasselbe oder derselbe
-… Strick Phantasie ist unerschöpflich. Weshalb er
+Grund wird uns Strick die Mausefallen kaum so sichtbar aufgebaut
+haben. Strick oder James, — das ist dasselbe oder derselbe
+… Stricks Phantasie ist unerschöpflich. Weshalb er
 aber droben in seiner Stube diese Filmszenerie einer gewaltsamen
 Verschleppung aufgebaut hat, bleibt mir genau so
 unerfindlich wie diese ganze dunkle Affäre. — Es ist Filmszenerie,«
@@ -1136,7 +1134,7 @@ Erstaunen, daß Harald sanft lächelte und … auf die Mäuse
 zeigte. »Weißt du, was dieses Geschenk bedeutet?«
 
 »Vielleicht eine Anspielung auf Moorcrofts Verhaftung
-und Margas Entführung … äußerte ich vorsichtig.
+und Margas Entführung …«, äußerte ich vorsichtig.
 
 »Gar nicht schlecht kombiniert … Nur … falsch.«
 
@@ -1152,21 +1150,21 @@ In demselben Augenblick kam mir die Erleuchtung,
 daher umso gefährlicher. — Die Tierchen werden einen leichten
 Tod haben, leichter als wenn die Aufwärterin sie ertränkt hätte.
 Vielleicht sterben sie auch nicht sofort … — Ah, — da, sie
-duckten sich zusammen, sie fallen um … — es genügt … Das
-Gas lagert vorläufig nur über den Dielen
+ducken sich zusammen, sie fallen um … — es genügt … Das
+Gas lagert vorläufig nur über den Dielen …«
 
-Er hob den Käfig schnell auf und Krug ihn ins Nebenzimmer
+Er hob den Käfig schnell auf und trug ihn ins Nebenzimmer
 ans offne Fenster, wo die Tierchen sich nachher wieder erholten,
 um später frei gelassen zu werden,
 
-»Suchen wir nochmals,« sagte Harst sehr ernst, und erfuhr
-nun sein Bett von der Wand abrückten, fanden mitten einer
-Stelle die Tapete sein durchlöchert, und dahinter lag ein Ventilationsloch
+»Suchen wir nochmals,« sagte Harst sehr ernst, und als wir
+nun sein Bett von der Wand abrückten, fanden wir an einer
+Stelle die Tapete fein durchlöchert, und dahinter lag ein Ventilationsloch
 zum Badezimmer, und ein dicker Gummischlauch
-lief im Badezimmer zu dem Wasserbehälter des Gedient.
+lief im Badezimmer zu dem Wasserbehälter des Gasofens.
 
-Harald verschloß den einen Hahn, sang den Gummischlauch
-hervor und legte ihn auf den Rand der Bayreuth öffnete
+Harald verschloß den einen Hahn, zog den Gummischlauch
+hervor und legte ihn auf den Rand der Wanne und öffnete
 das Fenster.
 
 »Herr Baron von Stock, Ihr Konto wächst unheimlich,«
@@ -1182,9 +1180,9 @@ nachholen.
 
 Daß dieser nicht zu lange währte, dafür sorgte schon der
 rührige, spindeldürre Kommissar Schnick, der scheinbar ganz
-ohne Schlaf auskam und seine kühne Diagnose weit tiefer in
-unsere Separatgeheimnisse steckte, als uns im Augenblickes an-
-genehm war,
+ohne Schlaf auskam und seine kühne Wippnase weit tiefer in
+unsere Separatgeheimnisse steckte, als uns im Augenblick angenehm
+war,
 
 <@pagebreak/>
 
@@ -1195,19 +1193,19 @@ genehm war,
 Ich erwachte über jenem Unbehagen, das man empfindet,
 wenn man scharf angestarrt wird.
 
-"Schnick, Sie?!"
+»Schnick, Sie?!«
 
 Auch Harst fuhr empor … Durch die weit offenen Fenster
 strahlte die Sonne herein, und in diesem günstigen Lichte
-zeigte sich Schnicks Verwandlung noch auffälliger. Er halte
+zeigte sich Schnicks Verwandlung noch auffälliger. Er hatte
 die Zwischenzeit benutzt, in der City »von der Stange« sich von
-Kopf bis Fuß neu einzukleiden, und er hatte dabei Blick Geschmack
+Kopf bis Fuß neu einzukleiden, und er hatte dabei viel Geschmack
 entwickelt, nur die hellgrünen Seidensocken und die
 hellgelben Gamaschen wirkten zu kraß und zu sommerlich und
-erinnerten an Sessel mit Spinat.
+erinnerten an Setzei mit Spinat.
 
-»Ich warte hier schon eine Stunde auf Ihr Erwachen,« er-
-klärte er harmlos lächelnd. »Es ist jetzt genau zwölf Uhr mittags
+»Ich warte hier schon eine Stunde auf Ihr Erwachen,« erklärte
+er harmlos lächelnd. »Es ist jetzt genau zwölf Uhr mittags
 … Es wird Zeit, daß man diese unklare Geschichte wieder
 in Arbeit nimmt.«
 
@@ -1223,15 +1221,15 @@ sein …«
 
 »So?!« — Weiter sagte Harst nichts.
 
-Was sollte man auch sagen?! Schritt hatte nicht Heu im
+Was sollte man auch sagen?! Schnick hatte nicht Heu im
 Schädel.
 
-»Überhaupt,« fuhr Strick nachdenklich fort, »es ist ein
+»Überhaupt,« fuhr Schnick nachdenklich fort, »es ist ein
 Unglück, daß wir Polizeisender haben … Man funkt nach
 London, und zwei Stunden später funkt Scotland Yard, daß
-Moorcroft in London nie einen Diener namens James Olli-
+Moorcroft in London nie einen Diener namens James Olliver
 <@pagebreak/>
-der gehabt hat. — Komisch, nicht wahr?!« Er blinzelte Harsts
+gehabt hat. — Komisch, nicht wahr?!« Er blinzelte Harst
 etwas seltsam an, und schaute dann auf den Mäusekäfig, in
 dem die Tierchen schon wieder munter umherliefen. »Beschäftigen
 Sie sich mit Mäusejagd, Herr Harst?! Oder sollte etwa
@@ -1240,15 +1238,15 @@ haben?!«
 
 Harald lehnte am Fenster und knipste sein Zigarettenetui
 auf. »Schnick, also gut: Olliver war unser unübertrefflicher
-Gerald Strick ..."
+Gerald Strick …«
 
-»Wußte ich, als ich die Gorillaspur und die Mäuse sah ...
+»Wußte ich, als ich die Gorillaspur und die Mäuse sah …
 Strick ist bereits von mir für den Posten des Polizeipräsidenten
-vorgemerkt worden … Der Mann leistet was. Dem Ver-
-Dienste seine Krone, Gehaltskrone … Desto sonderbarer ist
+vorgemerkt worden … Der Mann leistet was. Dem Verdienste
+seine Krone, Gehaltskrone … Desto sonderbarer ist
 Doktor Moorcrofts Geständnis.«
 
-Harst hob den Kopf. »Geständnis?!"
+Harst hob den Kopf. »Geständnis?!«
 
 »Ja … Ich habe mir den Mann vorgenommen … In
 gewissen Kreisen nennt man mich die Blindschleiche … Blindschleichen
@@ -1279,16 +1277,16 @@ Schnick bejahte bedächtig … »Sie reden da zwar von einem
 Schuldigen, Herr Harst … — Wo liegt die Schuld?! Ich sehe
 keine. Ich sehe nur, dafür bin ich nun ja Kriminalkommissar
 geworden, ein sehr undurchsichtiges Spiel, allerlei Täuschungen.
-Marga ist freiwillig auf und davon, der Schrei der Frauen«-
-Stimme, den Sie hörten, war Bluff … Alles war Bluff mit
-»Ausnahme von drei Punkten: Erstens — Moorcroft wurde
+Marga ist freiwillig auf und davon, der Schrei der Frauenstimme,
+den Sie hörten, war Bluff … Alles war Bluff mit
+Ausnahme von drei Punkten: Erstens — Moorcroft wurde
 von Strick ins Bein geschossen. Zweitens — auf Sie beide
 wurde im Flur geschossen. Drittens — das Gas sollte Ihnen
 beiden den Himmel öffnen. — Man könnte als Punkt 4 noch
-hie beiden ermordeten Ausländer anführen, aber die sind nur
+die beiden ermordeten Ausländer anführen, aber die sind nur
 Beiwerk, Vorspeise …«
 
-»Gemütsmensch!!"
+»Gemütsmensch!!«
 
 »Vorspeise wie die beiden toten Hunde, die Stock ebenfalls
 erledigt hat,« fügte Schnick grüblerisch hinzu. »Auf der Polizeischule
@@ -1303,8 +1301,8 @@ warf, antwortete mit einer Gegenfrage:
 
 »Weshalb wußte Strick voraus, was hier geschehen würde?
 Seine Verse sind hundsmiserabel, aber ich habe noch nie etwas gelesen,
-das mich so zum Nachdenken anregte wie die Knittel-
-reime. Insofern sind sie ein Zauberspruch, wenn sie auch nicht
+das mich so zum Nachdenken anregte wie die Knittelreime.
+Insofern sind sie ein Zauberspruch, wenn sie auch nicht
 aus Goethes »Faust« stammen.« — Er beugte den Kopf zum
 Fenster hinaus … »Ich rieche da wunderbare Küchendüfte …
 Und ich habe Hunger …«
@@ -1318,8 +1316,8 @@ die Speisekammer revidiert.«
 
 <@pagebreak/>
 — Die Köchin trug selbst die Suppe auf … Hatte eine
-Blendend weiße Schürze vorgebunden und war ein hageres,
-verschämte.«eitel grinsendes Weibsbild mit vergnügten Augen,
+blendend weiße Schürze vorgebunden und war ein hageres,
+verschämt-eitel grinsendes Weibsbild mit vergnügten Augen,
 
 »Es wird den Herren schon schmecken — — gesegnete Mahlzeit,«
 — und dann entschwand sie
@@ -1330,8 +1328,8 @@ Schnick griff zum Löffel.
 Führte, und riß sie auf.
 
 »Leer …«, — er setzte sich wieder … Und er nahm aus
-seiner Brieftasche drei Streifen Lackmuspapier heraus und
-Flüsterte: »Schnell — die Suppe prüfen ...!«
+seiner Brieftasche drei Streifen Lakmuspapier heraus und
+Flüsterte: »Schnell — die Suppe prüfen …!«
 
 Schnick machte ein ganz merkwürdiges Gesicht.
 
@@ -1346,7 +1344,7 @@ Landschinken …
 
 Wieder entschwebte die muntere dürre Frau, und wieder
 schlich Harst zur Tür, horchte, setzte sich und gab uns frische
-Lackmusstreifen.
+Lakmusstreifen.
 
 »Die Pilze …!« hauchte er …
 
@@ -1376,8 +1374,8 @@ Apothekenformat, und meinte zu der verwitweten Frau
 Minna Kandel, mit der wir uns bereits sehr »angefreundet«
 hatten:
 
-»Sehen Sie, liebe Frau Kandel, ich pflege nach jedem Pilz-
-gericht, nachdem ich mich mal an Pilzen fast vergiftet hätte, immer
+»Sehen Sie, liebe Frau Kandel, ich pflege nach jedem Pilzgericht,
+nachdem ich mich mal an Pilzen fast vergiftet hätte, immer
 ein Gegenmittel einzunehmen — für alle Fälle … —
 Hier, Schnick und Schraut, tut es gleichfalls … Ich habe grade
 noch drei Pulver bei mir …«
@@ -1393,12 +1391,12 @@ getan worden.
 verfärbte sich nicht) »Sie sind wohl froh, diese Stellung
 hier bei Moorcrofts gefunden zu haben, — es ist ja schade, daß
 diese Dinge da in der verflossenen Nacht geschehen sind, wir
-werden jedoch Fräulein Marga schon finden … Doktor Moor-
-Trost allerdings, das ist ein böses Früchten … Jedenfalls
+werden jedoch Fräulein Marga schon finden … Doktor Moorcroft
+allerdings, das ist ein böses Früchtchen … Jedenfalls
 werden Sie uns doch hoffentlich weiter hier beköstigen, liebe
 Frau Kandel … Ich bin außerordentlich zufrieden mit Ihnen.«
 
-»Ja — — gern ...«, erklärte die brave Köchin und hüstelte,
+»Ja — — gern …«, erklärte die brave Köchin und hüstelte,
 »Sehr gern … Ich werde nun abwaschen, und dann muß ich
 für eine Stunde nach Hause, — wann wünschen die Herren den
 Nachmittagskaffee …?«
@@ -1416,17 +1414,17 @@ Wir gingen in den Garten,
 
 Schnick war jetzt einfach begeistert. »Herr Harst, das haben
 Sie glänzend gemimt … Das Frauenzimmer ist ohne Argwohn
-…"
+…«
 
-Harald schnippte die Zigarettenasche in eine kleine ganze
+Harald schnippte die Zigarettenasche in eine kleine Pfütze
 und schüttelte zweifelnd den Kopf.
 
 »Unterschätzen Sie die Frau nicht, lieber Schnick … Bisher
-Hat sie daheim bei sich über Mittag nie etwas zu tun ge-
-habt und blieb hier stets bis zum Abend. Es wäre nun verkehrt,
+Hat sie daheim bei sich über Mittag nie etwas zu tun gehabt
+und blieb hier stets bis zum Abend. Es wäre nun verkehrt,
 jetzt sofort etwas gegen sie zu unternehmen. Es genügt,
 wenn zwei der Leute vom Argus ihr vorauseilen und ihr
-Häuschen beobachten …"
+Häuschen beobachten …«
 
 »Einverstanden!«, — Schnick zog seine nagelneue Zigarrentasche
 hervor und präsentierte mir eine hellbraune Sumatra
@@ -1441,7 +1439,7 @@ stürzte vornüber, und eine wichtige Zeugin und Mitschuldige
 war für alle Zeit verstummt,
 
 Wir hatten ihr vom oberen Flurfenster nachgeschaut, und
-als wir nun die Treppen hinablassen, rief Harst uns zu: »Vorsicht
+als wir nun die Treppen hinabjagten, rief Harst uns zu: »Vorsicht
 … In Deckung bleiben!!«
 
 Aber kein weiterer der unheimlich lautlosen Schüsse folgte.
@@ -1462,7 +1460,7 @@ Worte:
 »Harst, Harst … die Sippe wird uns noch viele bange
 Stunden bereiten!«
 
-Wie zum Hohn tutete auf schon vom Dorfe her das Feuerhorn
+Wie zum Hohn tutete auch schon vom Dorfe her das Feuerhorn
 … Am Rande des Ortes nach Süden zu flackerten
 Qualm und Flammenzungen … Das Häuschen der Frau
 Kandel, die das kleine Grundstück erst vor sechs Wochen gekauft
@@ -1477,12 +1475,12 @@ nicht.
 
 Mithin hatte eine Geheimleitung bestanden.
 
-Wohin, -- das konnte nicht festgestellt werden, oder man
+Wohin, — das konnte nicht festgestellt werden, oder man
 hätte rund um das Haus ganz tief nachgraben müssen, und das
 sei zwecklos, bemerkte Harst, indem er auf den kleinen Obstgarten
 deutete.
 
-Der Scheinwerfer des Polizeiautos schwenkte herum ...
+Der Scheinwerfer des Polizeiautos schwenkte herum …
 Zwischen den Zweigen eines Birnbaumes hing ein Stück Draht,
 Doppellitze, — das andere Ende lag zerschnitten auf freiem
 Felde … —
@@ -1491,7 +1489,7 @@ Baron Stock war gefährlicher als unser einstiger Feind
 Warbatty, denn Stock arbeitete mit den allermodernsten Mitteln
 der Technik. Das sollten wir sehr bald merken.
 
-<@pagebreak/>
+<@pagebreak 36/>
 
 <h1>Das Haus, das nie fertig wurde</h1>
 
@@ -1499,51 +1497,51 @@ der Technik. Das sollten wir sehr bald merken.
 
 <h3>Der Wasserfloh.</h3>
 
-Nun höre man, was Harst zu mir sprach, als wir, gestützt
-durch vier Kriminalbeamte als Vorhat, Nachhut und Seidenbezug,
+Nun höre man, was Harst zu mir sprach, als wir, geschützt
+durch vier Kriminalbeamte als Vorhut, Nachhut und Seitendeckung,
 die stille Dorfgasse hinabschritten und allmählich in
-den vom Flusse aufsteigenden Nebel gerieten…
+den vom Flusse aufsteigenden Nebel gerieten.
 
 »Mein Alter, wir haben mit den Geschwistern drei Tage
 im selben Hause gelebt … Wir fanden den Doktor, einen sehr
 sympathischen, in seinem Beruf völlig aufgehenden Menschen,
-bereits übernervös vor, und er empfing uns nicht eben des
-glüht. Auch Marga war still, einsilbig, raffte sich dann wieder
+bereits übernervös vor, und er empfing uns nicht eben beglückt.
+Auch Marga war still, einsilbig, raffte sich dann wieder
 auf, redete allzuviel, zeigte eine unnatürliche Lebendigkeit.
-Über in ihren Augen blieb die Wahrheit: Unruhe, versteckte
+Aber in ihren Augen blieb die Wahrheit: Unruhe, versteckte
 Angst …! — Wir haben all das nicht beachtet, wir mußten
 Moorcroft eine Menge Entschuldigungsgründe zubilligen, er
-hatte ja eine schwere Leidenszeit hinter sich, die Orchideen hat-
-ten ihm seiner Reichtümer wegen böse zugesetzt, in dem Klubs
-Haus haben auch wir peinliche Minuten verlebt, und diese acht
+hatte ja eine schwere Leidenszeit hinter sich, die Orchideen hatten
+ihm seiner Reichtümer wegen böse zugesetzt, in dem Klubhaus
+haben auch wir peinliche Minuten verlebt, und diese acht
 Klubmitglieder, die sich da in den Kreis hochachtbarer Gelehrter,
 Finanzleute und Wissenschaftler eingeschlichen hatten und
 nach außen hin die perfekten Gentlemen spielten, konnten
 auch wohl die robusteste Natur zermürben. Einer von den acht
 starb, Stock entfloh, und Stock hat nun die niederen Sorten
-Orchideen wieder um sich geschart und bringt Berlin in Auf-
-Regung, und »Berlin« das sind die Zeitungen, die Presse. Die
+Orchideen wieder um sich geschart und bringt Berlin in Aufregung,
+und »Berlin« das sind die Zeitungen, die Presse. Die
 Reporter, denen aus unterirdischen Kanälen allzu schnell
 <@pagebreak/>
 Nachrichten zufließen, schwärmen hier bereits wie die neugierigen
 Hummeln, — aber das alles ist im Grunde »Beiwerk«,
 würde der gemütvolle Joseph Schnick sagen … Hauptsache
 bleibt die Geistesverfassung, in der wir die Geschwister vorfanden
-…
+…«
 
 Er blickte sehr mißtrauisch rundum, der Nebel wurde immer
 dichter, und das scheußliche Gefühl, es könnte da eine der
 gewissen lautlosen Kugeln dahergeschwirrt kommen, wollte
 nicht recht weichen …
 
-»... Ich gebe nun zu« — Harsts Stimme wurde noch grüblerischer
+»… Ich gebe nun zu« — Harsts Stimme wurde noch grüblerischer
 —, »daß ich wohl eine Lösung des ganzen Fragenkomplexes
 gefunden habe, die richtig sein könnte und die sich lediglich
 auf Doktor Faust’s Zauberspruch aufbaut. Aber ihr
 Fehler liegt darin: Sie bringt uns nicht weiter. Wir wollen
 uns darüber klar sein, daß *nur* die Festnahme des ganzen
-Orchideennestes uns ans Ziel vorschweben muß … — Hallo, —
-— wer dort?!
+Orchideennestes uns als Ziel vorschweben muß … — Hallo, —
+— wer dort?!«
 
 Hinter einer Erle tauchte eine dürre Gestalt auf.
 
@@ -1584,17 +1582,17 @@ war ganz außer Atem …
 »Herr Harst, ein Kerl mit einem Wasserfloh …«, meldete
 er japsend … »Ist uns entwischt — war an Land … wie
 ein Gespenst … Mir schmiß er einen Stein vor die Brust ich
-kam nicht mehr zum Schießen …"
+kam nicht mehr zum Schießen …«
 
 »Wo?!«
 
-»Neben dem Bootssteg …"
+»Neben dem Bootssteg …«
 
 »Bestimmt ein Rennboot mit Außenbordmotor?«
 
-»Ja — ein Wasserrutscher, ein Wasserfloh …"
+»Ja — ein Wasserrutscher, ein Wasserfloh …«
 
-»Der scheint da gegen die Zillen gerannt zu sein ... Die
+»Der scheint da gegen die Zillen gerannt zu sein … Die
 Schiffer fluchen noch immer … — Trab!!«
 
 Am Ufer stand ein Polizeischeinwerfer, aber der Lichtkegel
@@ -1612,9 +1610,9 @@ helle Strahl lag nun auf den ersten Stegplanken.
 Er schaltete noch seine Taschenlaterne ein und schlich tief
 gebückt Schritt für Schritt näher.
 
-Schnick folgte ebenso leise, bis Harst ärgerlich rief: »Denk-
-den Sie an Ihre Frau, Ihre fünf Kinder und Ihre Schwiegermutter!
-Stock wird uns …"
+Schnick folgte ebenso leise, bis Harst ärgerlich rief: »Denken
+Sie an Ihre Frau, Ihre fünf Kinder und Ihre Schwiegermutter!
+Stock wird uns …«
 
 Er brach jäh ab …
 
@@ -1625,7 +1623,7 @@ Wir sahen etwas das mich sofort an die gewissen, stets
 <@pagebreak/>
 so oder so variierenden Geheimzeichen erinnerte, mit denen
 Wallace und andere gern operieren: »Roter Kreis«, »Blaue
-Hand«, »Gefiederte Schlange«, Pentagramm und ähnliches ...
+Hand«, »Gefiederte Schlange«, Pentagramm und ähnliches …
 
 — Auf die ersten Stegplanken war mit weißer Kreide
 senkrecht ein Spazierstock in natürlicher Größe gemalt, ein gewöhnlicher
@@ -1663,13 +1661,13 @@ wurde, rief Harst abermals:
 Wasserpolizei …«
 
 Eine Trillerpfeife schrillte und Harst lief allein den Steg
-erlangt, blieb vorn stehen und brüllte dem Kutter entgegen,
+entlang, blieb vorn stehen und brüllte dem Kutter entgegen,
 die Hände als Sprachrohr benutzend:
 
 »Bitte durch das Schilf hindurch, — dem Steg fernbleiben!«
 
 »Verstanden!« — — Der Offizier des Wasserschutzes war
-derselbe, den wir uns beinahe durch eine Rauchbombe vom
+derselbe, den wir uns damals durch eine Rauchbombe vom
 Leibe gehalten hatten, als Penz mit an Bord war,
 
 Der Wasserleutnant sprang an Land, Harst kam zurück,
@@ -1698,8 +1696,8 @@ kahler …«
 Man grinste, — — aber das Lachen war nicht echt. Und
 allen steckte ein Kloß in der Kehle …
 
-So wurde der Scheinwerfer ganz vorn auf den Steg ge-
-tragen, Schritt für Schritt …
+So wurde der Scheinwerfer ganz vorn auf den Steg getragen,
+Schritt für Schritt …
 
 Harst ließ den Lichtkegel auf die Planken fallen und hielt
 den Kopf gesenkt,
@@ -1716,10 +1714,10 @@ und kleine Fischbrut stob in Schwärmen auseinander.
 »Ein alter Topf schwimmt da …«, rief Schnick plötzlich …
 
 »Schwimmt?!« Harald lachte bissig. »Nein, der hängt
-am einem Stein als Anker genau dreißig Zentimeter unter
+an einem Stein als Anker genau dreißig Zentimeter unter
 der Oberfläche … Ich würde Ihnen nicht raten, den Topf als
 Kochtiegel zu benutzen, lieber Schnick … Es könnte passieren,
-daß Ihr ganzes Haus einstürzt…«
+daß Ihr ganzes Haus einstürzt.«
 
 Schnick sog die Luft pfeifend ein.
 
@@ -1739,7 +1737,7 @@ Scheinwerfers gehalten hatte, rief heiser:
 
 Einer der Beamten stieg in das nur anderthalb Meter
 tiefe Wasser und holte vorsichtig die Mine heraus. — Er
-immer bei der Marine auf einem Minensucher Obermaat gewesen.
+war bei der Marine auf einem Minensucher Obermaat gewesen.
 
 Nun lag die Mine auf der Brücke.
 
@@ -1775,45 +1773,45 @@ der Stockfloh wird …«
 »Vor Sakrow … — Ich habe Hunger … Diesmal kocht
 eine Köchin für uns, die nicht so süß feixt … Und Konserven
 rühre ich nicht an, und Pilze mag ich schon gar nicht
-mehr …"
+mehr …«
 
 <h2>2. Kapitel.</h2>
 <h3>Auf Flohjagd im Nebel.</h3>
 
 Die Einkreisung der Villa war noch enger gezogen worden.
-Auf dem Fluß glitten drei Finsternis Scheinwerfern hin und
+Auf dem Fluß glitten drei Kutter mit Scheinwerfern hin und
 her. Die armen Zeitungsreporter taten mir leid, sie verdienten
-seinen Tochter, keiner erfuhr etwas, Penz hatte den Beamten,
+keinen Sechser, keiner erfuhr etwas, Penz hatte den Beamten,
 die auch nur ein wenig das Maul aufmachten, mit Entlassung
 gedroht,
 
-Als wir noch bei Tisch saßen, gab ’e8 draußen auf dem
+Als wir noch bei Tisch saßen, gab es draußen auf dem
 Zufahrtweg zur Villa einen Mordsspektakel,
 
-Dann traten drei Herren ein, die etwas Grotte Köpfe hatten,
+Dann traten drei Herren ein, die etwas rote Köpfe hatten,
 ganz hohe Herrn … Man hatte auch sie nicht durchlassen
 wollen.
 
-Der Oberchef nahm die Sache von der humoristischen Seite,
+Der Oberchef nahm die Sache von der humoristischen Seite.
 »Lieber Penz, Sie verbarrikadieren sich hier ja, als ob der
-Gegner nächstens mit 18 cm-Granaten schießen würde …
+Gegner nächstens mit 18&nbsp;cm-Granaten schießen würde …
 Ich bin doch schließlich der Verantwortliche …«
 
 »Gewiß,« meinte der stämmige Penz sehr höflich. »Wenn
 Sie sich aber mal die Mine ansehen wollen, die wir zum
 Glück rechtzeitig fanden, — — Sie haben auch nur ein Leben
-zu verlieren, und vom Himmel aus kann man kein Polstern
-Präsidium mehr leiten, die Telefonverbindung ist bis dorthin
+zu verlieren, und vom Himmel aus kann man kein Polizeipräsidium
+mehr leiten, die Telefonverbindung ist bis dorthin
 trotz Aetherflüge und Zeppelin noch nicht hergestellt.«
 
 Die drei Herren blieben eine Stunde, und die Mine hatte
 bewirkt, daß selbst der sehr joviale, witzige Oberchef mit einer
-sehr ernsten »Miene«, die mit Unruhe geladen war, in, sein
-Auto knatterte, uns nochmals die Hand drückte und nur
+sehr ernsten »Miene«, die mit Unruhe geladen war, in sein
+Auto kletterte, uns nochmals die Hand drückte und nur
 flüsterte:
 
 <@pagebreak/>
-»Hals- und Beinbruch bei der Flohjagd …"
+»Hals- und Beinbruch bei der Flohjagd …«
 
 Er war Jäger, und kein Jäger wünscht einem anderen
 Glück — ein alter Aberglaube. —
@@ -1834,13 +1832,13 @@ Kutter hatten wir längst aus den Augen verloren.
 
 Harst steuerte, Schnick stand am neu montierten Scheinwerfer,
 dessen Akkumulatoren das Boot nur zu sehr belasteten.
-Penz rauchte neben mir eine Giftnudel und spute immer
+Penz rauchte neben mir eine Giftnudel und spuckte immer
 wieder nervös über Bord und streichelte das Maschinengewehr
 …
 
 Unser Boot schlich nur noch … Wir mußten dicht vor
 Sakrow sein … Wir hielten uns unweit des Ufers, fahle
-Monde glotzten durch den Nebel, Poltern, Ungern, Quietschen,
+Monde glotzten durch den Nebel, Poltern, Rumpeln, Quietschen,
 ein langer niederer Schiffsrumpf: Ein Frachtkahn mit
 Ziegeln wurde ausgeladen! Das warme Wetter begünstigte
 das Baugewerbe …
@@ -1854,7 +1852,7 @@ Meine Ohren fingen ein nahes oder fernes Surren ein …
 
 Penz gab den Befehl weiter …
 
-Das Surren kam näher …«
+Das Surren kam näher …
 
 Unser Boot trieb, eine lichtlose Masse, mit dem trägen
 Strom …
@@ -1874,7 +1872,7 @@ unser Boot schaukelte, klatschend schlug das Wasser
 gegen die Bordwand, wir mußten uns festhalten, Harst fluchte.
 Die Akkumulatoren rutschten …
 
-Und dann unterschied ich endlich ganze deutlich das Geräusch
+Und dann unterschied ich endlich ganz deutlich das Geräusch
 zweier Außenbordmotore, zwei Wasserflöhe waren irgendwo
 hinter uns …
 
@@ -1893,7 +1891,7 @@ Der Scheinwerfer blitzte auf …
 Eine Rakete zischte hoch, knallte knatternd, und von drei
 Stellen ringsum schrille Pfiffe …
 
-Durch die Nebelschwaden führen milchige Streifen, —
+Durch die Nebelschwaden fuhren milchige Streifen, —
 die Kutter waren zur Stelle, und vor uns, nun umspielt von
 vier Scheinwerfern, ein kleines Rennboot, ein einzelner Mann
 darin …
@@ -1910,7 +1908,7 @@ Ein wildes Hohnlachen …
 
 »Es ist Stock …«, kreischte Kommissar Schnick …
 
-»Hände hoch!"
+»Hände hoch!«
 
 Die Männergestalt mit der Golfmütze duckte sich, rutschte
 ins Boot …
@@ -1931,7 +1929,7 @@ Wir waren noch zwanzig Meter entfernt …
 
 Der Mann im Wasserfloh war zuerst merkwürdig dünn
 gewesen, nun quoll er an, als ob sein Mantel im Luftzug
-blähte ...
+blähte …
 
 Vier Boote umlagerten ihn …
 
@@ -2000,21 +1998,21 @@ in einem qualmerfüllten Varieté dritter Güte.
 Penz, der glückliche Mörder dieses leichten Schwerververbrechers
 aus der Gummibranche, turnte nun auch eilends in
 das Boot und brachte Stricks Zettel in Sicherheit, damit nicht
-etwa nochmals die Bresche Note der Untergebenen ihren Chef
+etwa nochmals die freche Rotte der Untergebenen ihren Chef
 mit geflüsterten Witzen durch den Kakao zögen.
 
 »Die Razzia ist aus, — schert euch vorläufig zum Teufel!«,
 rief er den Kutterleuten zu. »Und sollte einer von euch die
 Geschichte weitererzählen, so wird er nach einem Lausenest
 an der Grenze versetzt, wo er langsam vor eigenem Stumpfsinn
-dem Irrenhaus entgegen reift.«
+dem Irrenhaus entgegenreift.«
 
 Mit Penz in *der* Stimmung war nicht zu spaßen, und
 deshalb verdufteten die Kutter in aller Eile, und wir mit
 dem Wasserfloh und der Gummileiche blieben zurück. Der
-Wasserfloh wurde ins Schleppten genommen, und langsam
-Glitt unser Boot gen Linden, dorthin, wo zwischen den Ufergemeinden
-Sakrow und Linden der Fluß die tiefe Bucht bildet,
+Wasserfloh wurde ins Schlepptau genommen, und langsam
+Glitt unser Boot gen Cladow, dorthin, wo zwischen den Ufergemeinden
+Sakrow und Cladow der Fluß die tiefe Bucht bildet,
 an der so viele wunderhübsche Villen mit eigenen Bootsstegen
 und Bootsschuppen liegen.
 
@@ -2038,9 +2036,9 @@ wanderte von Hand zu Hand.
 > Dieses getippte Dokument habe ich wohlweislich vorher
 entworfen, da ich bereits ahnte, daß mir vielleicht
 durch Sie der Erfolg ehrlicher nächtlicher Arbeit vermasselt
-werden würde, Den Gummimann, den irr für alle
+werden würde. Den Gummimann, den ich für alle
 Fälle, auch für Herrn Baron von Stock, als leichten Gast
-an Bord nahm, damit ich schwimmend entkommen höhnte,
+an Bord nahm, damit ich schwimmend entkommen könnte,
 bitte ich aufzubewahren, es lassen sich aus dem Stoff noch
 Tabaksbeutel, Schlafmützen und Gummilutscher für Säuglinge
 herstellen. — Meine Herren, ich bitte Sie nach dieser
@@ -2048,11 +2046,11 @@ amüsanten Flohjagd inständigst, mir die Erledigung der
 Stock-Bande zu überlassen, deren Hauptquartier hier irgendwo
 am Flußufer liegen muß. Bedenken Sie, daß
 Marga Moorcroft sich in Stocks Händen befindet und
-daß Sie die junge Dame nur derselben Gefahr aussehen,
-der sie wie durch ein Wunder entgangen ist, Doktor Moores
-Grotte verruchte Pläne haben Sie von wohl durchschaut.
+daß Sie die junge Dame nur derselben Gefahr aussetzen,
+der sie wie durch ein Wunder entgangen ist, Doktor Moorcrofts
+verruchte Pläne haben Sie nun wohl durchschaut.
 Den Angriff auf Harst und Schraut in der Villa konnte
-ich nicht verhindern. Ich rechnete nicht mit Stocks nochmaligen
+ich nicht verhindern. Ich rechnete nicht mit Stocks nochmaligem
 Erscheinen.
 
 > Ich bleibe in entsprechender Gewogenheit
@@ -2090,22 +2088,22 @@ Penz knurrte und senkte dem Kopf.
 »Also ein Entschluß …«, fügte Harst hinzu … »Ich habe
 hier Lebensmittel für drei Tage an Bord, auch Decken zum
 Schlafen und mein Rasiermesser … — Sie, lieber Penz, werden
-mit Schnick nach Gatow zurückfahren ..."
+mit Schnick nach Gatow zurückfahren …«
 
 »Ich denke nicht dran!«, kollerte Penz. »Damit Sie die
-Rosinen aus dem Kuchen polken ...!!«
+Rosinen aus dem Kuchen polken …!!«
 
 »Die Rosinen bekommen Sie rechtzeitig serviert. Ob durch
 mich, ist fraglich. Strick ist uns zweifellos um drei Nasenlängen
-voraus ..."
+voraus …«
 
 »Ich auch!«, erklärte der stämmige Kriminalrat plötzlich mit
 ganz veränderter Stimme. »Die Kriminalpolizei hat auch Hirn
 im Schädel … Stock haust mit seiner Bande irgendwo in Sakrow.
-Ih werde noch diese Nacht den Ort einkreisen lassen,
-auch von der Wasserseite, und ich werde Männlein und Weib-
-sein, und wenn sie im Hemd sind, auf Haut und Nieren prüfen,
-und ..."
+Ich werde noch diese Nacht den Ort einkreisen lassen,
+auch von der Wasserseite, und ich werde Männlein und Weiblein,
+und wenn sie im Hemd sind, auf Haut und Nieren prüfen,
+und …«
 
 »Das wäre ebenso unmoralisch wie verkehrt …« Auch
 Harst wurde lebhaft. »Wenn Sie Stricks Mahnung mißachten,
@@ -2115,7 +2113,7 @@ vermasseln Sie die Sache vollkommen. Ich bitte Sie dringend
 <@pagebreak/>
 Zwischen den Vorhängen der luftigen Kajüte erschien der
 Kopf eines alten Fischers mit speckiger Kappe, Schnapsnase,
-Halstuch und abstehenden Schifferbart von Schnupftabakkoleur.
+Halstuch und abstehenden Schifferbart von Schnupftabakkouleur.
 
 »Harst hat recht,« krächzte der Alte, — — die Vorhänge
 fielen zu, Schnick war wie der Blitz hoch, wollte hinterher,
@@ -2133,7 +2131,7 @@ ihn doch.«
 
 »Er braucht ihn!«, brummte Penz ironisch. »Nächstens
 werden wir ihm noch Einbrecherwerkzeuge, Schrankzeug, liefern
-…!"
+…!«
 
 »oh, die dürfte er besitzen, bei seiner Vielseitigkeit!« Und
 Harst stand auf … »Finden Sie, daß wir hier sicher sind?
@@ -2165,8 +2163,8 @@ die Treppenseite, war freies Wasser, der Steg gehörte zu einem
 größeren Besitz, den wir von früher her schon kannten, und
 die Hauptsache: An der Röhrichtseite lag ein plumper, geteerter
 großer Kahn, der einst wohl als Jacht bessere Zeiten
-gesehen hatte, nun aber zum Frachtkahn degradiert war…
-Er war an Fischer Ketten befestigt, hatte vorn einen kajütartigen
+gesehen hatte, nun aber zum Frachtkahn degradiert war.
+Er war an dicken Ketten befestigt, hatte vorn einen kajütartigen
 Verschlag mit Holztür, die nur eingeklinkt war. Der
 Raum war bis auf einen Haufen Heu und verrotteter Segel
 vollkommen leer.
@@ -2180,24 +2178,24 @@ in den Nebel hinein, — wir waren allein, und was die Zukunft
 bringen würde, stand nur in den Sternen geschrieben,
 und die waren nicht zu sehen.
 
-Es war zwei Uhr morgens. Genau. Aber von Körpergröße
+Es war zwei Uhr morgens. Genau. Aber von Morgenröte
 oder dergleichen spürte man nichts, wir aßen, tranken,
-das ungemütliche Loch stank na;g; Teer und fauligem Heu,
-und wenn einmal ein Dampfer den Strom entlangführte, kam
+das ungemütliche Loch stank nach Teer und fauligem Heu,
+und wenn einmal ein Dampfer den Strom entlangtutete, kam
 unser Luxushotel ins Schaukeln, stieß gegen die Stegpfähle,
 erzeugte ein Quieken wie von Jungferkehlchen, und die Ketten
 klirrten dumpf und warnend wie Galeerenketten.
 
 »Aufbruch!«, befahl Harst …
 
-Seit wir allein waren, hatte ihn eine fugenähnliche Los
-Fertigkeit ruhelos hin und her getrieben. Die Signalraketen
+Seit wir allein waren, hatte ihn eine ungewöhnliche Lebendigkeit
+ruhelos hin und her getrieben. Die Signalraketen
 hatte er unter dem Kajütdeck unter einem Stück Ofenrohr versteckt,
-— der Ofen fehlte, aber der Schlinge Schornstein droben
+— der Ofen fehlte, aber der dünne Schornstein droben
 war auch noch vorhanden, wenn auch bedenklich verbogen.
 Was er da eigentlich so lange mit den drei Raketen sich zu
 schaffen machte, sah ich nicht, ich öffnete Konservenbüchsen …
-Pfefferlinge waren nicht darunter…
+Pfefferlinge waren nicht darunter.
 
 <@pagebreak/>
 Wir schlichen an Land, es war kaum die Hand vor Augen
@@ -2226,7 +2224,7 @@ Ich habe vorzügliche Ohren …
 
 »Bedaure,« zischelte ich nach einer Weile. »Ziemlich lärmende
 Tätigkeit, dazu vier große Karbidscheinwerfer, — das
-wäre alles ...«
+wäre alles …«
 
 Harald hüstelte etwas.
 
@@ -2247,7 +2245,7 @@ Wir haben selbst gesehen, daß dort vor uns eine neue Villa
 <@pagebreak/>
 gebaut wird … — So, und jetzt verfolge mal genau die Geräusche
 … Du hörst, ob die Schiebkarren vom Land auf die
-Zille rollen oder von der Zille an Land … Die Räder quitschen
+Zille rollen oder von der Zille an Land … Die Räder quietschen
 entsetzlich, aber nicht gleichmäßig … Es sind sechs
 Leute mit Schiebkarren an der Arbeit, — auch das hört man,
 ganz abgesehen davon, daß die Gestalten zuweilen schemenhaft
@@ -2255,7 +2253,7 @@ sichtbar werden …«
 
 Er schwieg …
 
-Ich horchte, und da im nun wußte, worauf es ankam,
+Ich horchte, und da ich nun wußte, worauf es ankam,
 war es ein leichtes, hinter Haralds verblüffende Beobachtung
 zu kommen:
 
@@ -2263,8 +2261,8 @@ Die Zille wurde nicht ausgeladen, sondern — beladen!!
 
 Beweis: Bewegten sich die Karrenschieber von Land über
 den Laufsteg an Deck, so quietschten die Räder stärker und die
-Planken dröhnten weit lauter. Bewegten sich die Karren-
-schieber vom Schiff zum Lande, war der Lärm schwächer, mithin
+Planken dröhnten weit lauter. Bewegten sich die Karrenschieber
+vom Schiff zum Lande, war der Lärm schwächer, mithin
 waren dann die Schiebkarren leer, mithin wurde die
 Zille *be*laden, nicht *ent*laden!!
 
@@ -2286,12 +2284,12 @@ mit äußerster Vorsicht genähert hatten, als uns ein Schluck
 heißen Tees gestärkt hatte, kroch Harst wieder ins Freie …
 »Ich übernehme die erste Wache … Schlafe nur … — Wir
 sind dem Endziel recht nahe, und wenn Stock nicht gerade ein
-Hellseher ist, wird er nichts Böses ahnen … Auch als Hell-
-Seher wäre er ungefährlich, — deren Prophezeiungen sind
-Sämtlich delphische Orakelsprüche: Je nach Wunsch auszulegen!"
+Hellseher ist, wird er nichts Böses ahnen … Auch als Hellseher
+wäre er ungefährlich, — deren Prophezeiungen sind
+Sämtlich delphische Orakelsprüche: Je nach Wunsch auszulegen!«
 
 <@pagebreak/>
-... Schlafen?! — — Ein Kunststück ...!
+… Schlafen?! — — Ein Kunststück …!
 
 Wer den Baron Stock in der Nähe weiß, bekommt eine
 Gänsehaut …
@@ -2317,16 +2315,16 @@ naschten von dem Nektar der Erkenntnis, den sie in winzigen
 Mengen spendeten.
 
 Wo war der Blütenkelch, der die Wahrheit verbarg? —
-Da war zuerst, giftigen Nachtschatten»-Pflanzen ähnlich, das
+Da war zuerst, giftigen Nachtschatten-Pflanzen ähnlich, das
 Doppeldrama der beiden heimtückisch verschleppten und gemordeten
 Ausländer,
 
 Stock hatte in ihnen seinen Todfeind Strick zu erwischen
-geglaubt. Dieses trügerische Beispiel war geklärt.
+geglaubt. Dieses trügerische Vorspiel war geklärt.
 
 Nächster Akt: Unser Besuch bei den Geschwistern, die von
-schlecht verhehlter Furcht gepeinigt wurden … Unsere nach«
-ihnen Fahrten auf dem Fluß und Freund Haralds besonderer
+schlecht verhehlter Furcht gepeinigt wurden … Unsere nächtlichen
+Fahrten auf dem Fluß und Freund Haralds besonderer
 Fund bei einem Tagesausflug:
 
 Stricks Knittelverse: Der Zauberspruch!
@@ -2338,17 +2336,17 @@ bemerkt, — das wußte ich nun.
 Hier stockten meine Gedanken, machten einen Sprung bis
 in die Gegenwart und suchten die Frage zu klären: Weshalb
 wurde der Lastkahn nachts mit Ziegeln gefüllt, die vielleicht
-am Tage erst an dem Neubau aufgeschichtet, »also ausgeladen
+am Tage erst an dem Neubau aufgeschichtet, also ausgeladen
 worden waren?!
 
 Es gab nur eine Antwort: Die Leute der Zille waren
-Stocks Verbündete, und um sie auch nachts in! der Nähe zu
+Stocks Verbündete, und um sie auch nachts in der Nähe zu
 haben, wurde das trügerische Spiel mit den Ziegelsteinen erdacht
 und durchgeführt. Dieses Spiel bot den Vorteil, daß
 die Leute nicht als Neuerscheinungen in der Nähe Sakrows
 irgendwie auffielen, daß sie dort nicht Wohnung zu nehmen
-brauchten und doch allzeit bei der Hand waren. I zweifelte
-nicht daran, daß einige tagsüber als Maurer und Hautlappen
+brauchten und doch allzeit bei der Hand waren. Ich zweifelte
+nicht daran, daß einige tagsüber als Maurer und Handlanger
 an dem Bau tätig waren.
 
 … Nach dieser geistigen Leistung verwirrten sich meine Gedanken,
@@ -2382,7 +2380,7 @@ die Leute des kleinen Schleppdampfers … — Schade um
 <@pagebreak/>
 Stocks Kopf … Der Mann hätte als ehrliches Mitglied der
 Gesellschaft viel leisten können … Als Verbrecher verdient
-er ... den Strang mit einer Schlinge …«
+er … den Strang mit einer Schlinge …«
 
 Wir huschten über den Weg … hinein in unseren Kahn,
 vor dessen Tür Harst aus Vorsicht zwei dünne Seidenfäden
@@ -2391,7 +2389,7 @@ gespannt hatte …
 Sie waren unversehrt,
 
 Wir betraten die Kajüte, wir hatten die nach innen schlagende
-Tür weit geöffnet, die ersten Sonnenstrahlen sieben durch
+Tür weit geöffnet, die ersten Sonnenstrahlen fielen durch
 den zerflatternden Dunst, Möwen kreischten, ein Heckraddampfer
 rauschte geräuschvoll vorüber …
 
@@ -2443,8 +2441,8 @@ Die Augen dieses Menschen spiegelten nichts wider —
 nichts.
 
 Stock war über all die Redensarten oder sonstigen Äußerungen
-billigen Triumpfes erhaben. Er nahm auf dem Kahlen
-verrotteter Segel Platz und schaute flüchtig nach oben,
+billigen Triumpfes erhaben. Er nahm auf dem Ballen
+verrotteter Segel Platz und schaute flüchtig nach oben.
 Über ihm befand sich der kleine Rauchfang.
 
 »Ihre nette Idee mit den Raketen habe ich abmontiert,
@@ -2454,10 +2452,10 @@ Geschichte in die Luft gehen lassen … — Das sollte wohl
 so Ihre Lebensversicherung sein, genau wie die Seidenfäden?!
 — Lieber Freund, ich hätte Ihnen mehr Erfindungsgabe zugetraut.«
 
-»Sonst erwiderte nur: »Ich werde eben alt … Aber um
+Harst erwiderte nur: »Ich werde eben alt … Aber um
 Sie zu fangen, langt’s doch noch. Für die Sakrower mag
-Ihre Villa drüben lediglich ein sehr, sehr langsam fortschrei-
-tender Bau sein … Für Sie — — ist es die Falle, und für
+Ihre Villa drüben lediglich ein sehr, sehr langsam fortschreitender
+Bau sein … Für Sie — — ist es die Falle, und für
 mich … ein kleiner Sieg …«
 
 Das hagere, kantige Gesicht Stocks, der übrigens in einem
@@ -2470,10 +2468,10 @@ Dann lachte er.
 Hart, trocken, — — mit einem leichten Zurückwerfen des
 Kopfes.
 
-Er schob seinen linken Ärmel zurück … Seine Armband-
-Uhr zeigte fünf Minuten vor acht. Ich sah es.
+Er schob seinen linken Ärmel zurück … Seine Armbanduhr
+zeigte fünf Minuten vor acht. Ich sah es.
 
-»... Um acht Uhr ist alles vorüber,« meinte er absolut
+»… Um acht Uhr ist alles vorüber,« meinte er absolut
 gleichgültig. »Mit Ihnen beiden!«, fügte er hinzu …
 
 Ein nadelscharfer Blick streifte unsere Gesichter. Dieser
@@ -2495,24 +2493,24 @@ Harald wartete die Antwort nicht ab.
 nicht einmal, daß man Sie anredet … Sie sind nicht
 Mensch, Sie sind Bestie … Sie sind kalt wie Eis, und diese
 Sorte Verbrecher ist am schlimmsten. Sie ermordeten Woolbrack
-und Rizzi, weil Sie Gerald Strick hinter diesen Aus-
-Ländern vermuteten …
+und Riggi, weil Sie Gerald Strick hinter diesen Ausländern
+vermuteten …«
 
-»Langweilen Sie mich nicht, …!«, — Stock holte mit der
+»Langweilen Sie mich nicht …!«, — Stock holte mit der
 linken Hand einen Blechzylinder aus der Tasche hervor, nicht
 größer als eine Zweihundertgrammflasche. »Sie beurteilen
 die Sachlage falsch … grundfalsch. Gewiß, Sie konnten sich
-loskaufen … »Marga dürfte den …«, — er zögerte …
+loskaufen … Marga dürfte den …«, — er zögerte …
 
-»... den Scheck, — weshalb sprechen Sie nicht weiter …?!
+»… den Scheck, — weshalb sprechen Sie nicht weiter …?!
 — Sie wollten sagen: … den Scheck über 100&nbsp;000 Pfund
 Sterling und den Brief an die Bank von England noch nicht
-zerrissen haben …"
+zerrissen haben …«
 
 Der Verbrecher duckte sich zusammen.
 
 Jetzt war er Bestie — auch im Äußeren, — das Gesicht
-verzerrt die Augen schmale Schlitze, und die Blässe wilder
+verzerrt, die Augen schmale Schlitze, und die Blässe wilder
 Wut neben den Nasenflügeln als scharf umrissene Flecke …
 
 Die Stimme ebenso: Ein zischendes Gurgeln, ein pfeifendes
@@ -2526,7 +2524,7 @@ haben Sie zu spät durchschaut … Daran scheiterte Ihr Erpressungsversuch
 … — Wir sollen also Marga bewegen, den
 Scheck und den Brief herauszugeben?«
 
-... Ein Dampfer tutete … Unser Kahn schaukelte und
+… Ein Dampfer tutete … Unser Kahn schaukelte und
 rieb sich an den Pfählen.
 
 <@pagebreak/>
@@ -2544,8 +2542,8 @@ kam ich von selbst auf den Brief …«
 
 Stock hielt den Blechzylinder noch immer in der Linken
 der einen Aufsatz ähnlich wie das Strahlrohr eines Zerstäubers
-und einen kleinen Messinghahn hatte. Seine Züge wa-
-ren nun wieder kalt und ausdruckslos. »Wollen Sie mir
+und einen kleinen Messinghahn hatte. Seine Züge waren
+nun wieder kalt und ausdruckslos. »Wollen Sie mir
 Scheck und Brief beschaffen? Und mir achtundvierzig Stunden
 Vorsprung gönnen?«
 
@@ -2556,7 +2554,7 @@ Es klang wie keifendes Weiberlachen.
 Wieder schaukelte das Boot …
 
 Und da sagte Harst ganz laut: »Töten Sie uns mit Ihrem
-Gift, — — nicht eine Minute gewähre ich Ihnen …!"
+Gift, — — nicht eine Minute gewähre ich Ihnen …!«
 
 Und dann erschien der Strick …
 
@@ -2620,8 +2618,8 @@ Kleine Wunde:
 … Von einem rostigen Nagel der dicht neben dem Rauchfang
 herausragte
 
-Stock kam zu sich. Der Strick, der ihm beinahe das Le-
-den gekostet hatte, umschnürte seine Gelenke.
+Stock kam zu sich. Der Strick, der ihm beinahe das Leben
+gekostet hatte, umschnürte seine Gelenke.
 
 Er setzte sich aufrecht, schwankte hin und her …
 
@@ -2631,12 +2629,12 @@ Er war noch völlig benommen, die Worte glichen einem
 schwachen Fauchen aus dem verstopften Rohr eines Blasebalgs.
 Sein Gesicht entfärbte sich wieder, und seine Züge
 bekamen einen völlig anderen Ausdruck, etwas unendlich
-Hilfloses, etwas Kindlich-Verschüchtertes. Jahre Blässe lief
+Hilfloses, etwas Kindlich-Verschüchtertes. Fahle Blässe lief
 sichtbar wie eine helle Welle von der Stirn zum Kinn, die
-Augen, übergroß und da leeren Blickes, traten zurück, und
+Augen, übergroß und doch leeren Blickes, traten zurück, und
 bläuliche Schatten umspielten diese grauenvoll nichtssagenden
-Augen und die bisher so harte, von unbändiger Energie zeu-
-gende Mundpartie.
+Augen und die bisher so harte, von unbändiger Energie zeugende
+Mundpartie.
 
 Harald beobachtete das haltlose, schwankende Bündel von
 Mensch mit stiller Teilnahme.
@@ -2644,19 +2642,19 @@ Mensch mit stiller Teilnahme.
 Sein Blick wanderte flüchtig zu dem Nagel empor und
 glitt abwärts zu der Kopfwunde Stocks. Dann schaute er
 mich an, und seine ernste Miene verriet genug … Der rostige
-Nagel hatte die Hirnschale durchbohrt irgend ein Zugeraunt
-war verletzt, und genau wie bei einem Huhn, dem man bin
-stimmte Hirnteile lähmt, und das dann andauernd im Kreise
+Nagel hatte die Hirnschale durchbohrt, irgend ein Hirnzentrum
+war verletzt, und genau wie bei einem Huhn, dem man bestimmte
+Hirnteile lähmt, und das dann andauernd im Kreise
 umhertaumelt, hatte auch Günther Stocks verwerfliche geistige
 Überregsamkeit durch einen blinden Zufall für immer einen
 nie wieder zu heilenden Defekt erlitten.
 
-Das Bild dieses gebackenen Mannes da war unerträglich.
-Etwas wie Mitleid quoll in mir hoch, — seiner verirrten
+Das Bild dieses gebrochenen Mannes da war unerträglich.
+Etwas wie Mitleid quoll in mir hoch, — keiner verirrten
 Seele, die jäh in das dunkle Reich der Kranken am Geiste
 <@pagebreak/>
 verbannt wird, vermag ein Lebenskundiger das Mitgefühl
-zu versagen, Ich verließ den kleinen Verschlag, hörte nur noch
+zu versagen. Ich verließ den kleinen Verschlag, hörte nur noch
 Harsts Frage, wo die Raketen geblieben, und Stocks gehorsame,
 schwer gelallte Antwort: »An Land — — unter … den
 ersten … Stegplanken …«
@@ -2669,8 +2667,8 @@ Ausflügler — — ein Verein! — Ich schaute das Ufer entlang,
 kleine Schlepper heulte Signale, aber sie verstummten jäh …
 
 Rechts von mir stieg aus dem Garten zischend eine Rakete
-hoch, hinter Jungeichen rollte ich einen würdigen alten Herrn
-mit weißem Kranz Joseph-Bart, neben ihm eine Dame mit
+hoch, hinter Jungeichen erblickte ich einen würdigen alten Herrn
+mit weißem Franz Joseph-Bart, neben ihm eine Dame mit
 altmodischen weißen Schläfenlocken … Das Paar schritt davon,
 entschwand …
 
@@ -2696,7 +2694,7 @@ auch *die* Erinnerung …«
 
 <@pagebreak/>
 Wir gingen Penz und Schnick entgegen … Beide strahlten.
-»Harst, jetzt haben wir die anschaute … Strick hat
+»Harst, jetzt haben wir die ganze Bande … Strick hat
 mir um sechs Uhr morgens einen Brief geschickt … Sie werden
 staunen!«
 
@@ -2716,7 +2714,7 @@ Porzellanschild befestigt:
 <p class="centered">10 — 12, &nbsp; &nbsp; &nbsp; 4 — 6.</p>
 
 Darüber hing eine Papptafel: »Sofort zu vermieten.« —
-Die Aufschrift war ganz frisch, und Inder rechten Ecke der
+Die Aufschrift war ganz frisch, und In der rechten Ecke der
 Tafel steckten eine Nadel und ein winziges Stückchen Strick.
 
 Die Haustür flog auf … Zu unserem Erstaunen stürzte
@@ -2724,9 +2722,9 @@ der eilfertige Kommissar Schnick mit zwei Beamten ins Freie.
 »Herr Harst, — — ausgekniffen …!! Hier hat Strick gewohnt,
 und er hatte sehr viel zu tun … Er hatte im August dieses
 Haus Gemietet, ich interessierte mich für die Neuzugezogenen,
-und …"
+und …«
 
-»... Ich auch … Nur nicht für deren Verhaftung …
+»… Ich auch … Nur nicht für deren Verhaftung …
 — Kommen Sie nur mit, Schnick … Um halb elf findet in
 der Villa Moorcroft die große Besprechung statt, Marga
 wird schon dort sein, und Doktor Moorcroft bringt der Oberchef
@@ -2743,23 +2741,23 @@ was mit dem Fall »Zauberspruch« zu tun gehabt hat.
 »Meine Herren, ich war Stock stets auf den Fersen, nur
 sein Hauptquartier kannte ich nicht … Ich merkte, daß er von
 Moorcroft Geld erpressen wollte. Ich ging zu den Geschwistern,
-die … sich in größter Angst befanden, da Stock befohlen
+die sich in größter Angst befanden, da Stock befohlen
 hatte, sie sollten ihr Personal entlassen, und da die neue
 Köchin schon damals heimlich die Speisen leicht vergiftet hatte.
-Moorcroft mit seinen sehr.: vorher zerrütteten Nerven wollte
+Moorcroft mit seinen schon vorher zerrütteten Nerven wollte
 die 100&nbsp;000 Pfund opfern, um Ruhe zu haben. Marga war
 widerstandsfähiger. In der Nacht, wo Stock den Scheck und
 den Brief ausgehändigt erhalten sollte, schoß *ich* Moorcroft
 die Kugel mit einer Luftbüchse ins Bein, um ihn ans Haus
 zu fesseln. Er verbarrikadierte sich in seinem Schlafzimmer,
 Ulla und ich holten Marga zu uns, und mein Plan gelang:
-Moorcroft wurde verhaftet und war ebensolche in Sicherheit.
+Moorcroft wurde verhaftet und war ebenfalls in Sicherheit.
 Dann entdeckte ich das Haus, das nie fertig wurde, merkte
 auch, daß eine große Razzia vorbereitet war, half Harst und
 Schraut aus einer kleinen Verlegenheit mit Hilfe eines echten
-Stricks und feuerte die Rakete ab. — Dies genügt — Wir
+Stricks und feuerte die Rakete ab. — Dies genügt. — Wir
 empfehlen uns Ihnen, besonders unseren intimeren Freunden
-Penz, Schnick, Harst und Schraut. Ich »werde als Heilkünstler
+Penz, Schnick, Harst und Schraut. Ich werde als Heilkünstler
 nun anderswo auftreten.
 
 <p class="centered">Verbindlichst</p>
@@ -2768,13 +2766,13 @@ nun anderswo auftreten.
 
 Der Oberchef sog sehr nachdenklich an seiner Importe …
 
-»Hm, — — und was sagen die Ärzte über Stocks Befinden?"
+»Hm, — — und was sagen die Ärzte über Stocks Befinden?«
 
 Penz hob etwas die Schultern … »Blutvergiftung, —
 aussichtslos …«
 
-Es wurde ganz still in dem von der Wintersonne durch-
-fluteten Raume …
+Es wurde ganz still in dem von der Wintersonne durchfluteten
+Raume …
 
 Das Schicksal schwebte mit schwarzen Fittichen mahnend
 über unsere Häupter hinweg …
