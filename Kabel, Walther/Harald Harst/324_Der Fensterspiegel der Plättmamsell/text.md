@@ -939,314 +939,306 @@ der Zunge schwebte.
 <h3>Wohin die Spiegel zeigten …</h3>
 
 In diesem Stadium des Falles Zarnecke ist es vielleicht
-angebracht, den Leser mit Haralds kurzen Notizen bekannt
-machen, die er nach dem Mittagessen bei einer Tasse K’af)u
+angebracht, den Leser mit Haralds kurzen Notizen bekannt zu
+machen, die er nach dem Mittagessen bei einer Tasse Kaffee
+und kritischem Niederlegen niederschrieb und mir dann hinüberreichte.
+— Inzwischen waren vom Argus die Antworten auf
+unsere Depeschen eingetroffen, die Direktor Matz auf Harsts
+Anweisung neben anderen telephonischen Fernmeldungen erledigt
+hatte. Diese Antworten sind bei Haralds Überblick über
+das Problem »Zarnecke« mit berücksichtigt worden.
 
-schien Niederlegen niederschrieb und mir dann hing
-+ — Inzwischen w6ien vom Argus die Antworten auf
-» Lehrreichen eingetroffen, die Direktor Matte auf Harst
-x« stehen anderen telephonischen Ferumeldungen erlebt
-Haie Diele Antworten sind lebt Haralds Überblick übel
-das »Problem »Schauerte« mit beruckjic’tigt worden.
+<p class="centered em">Überblick über d. P. Z.</p>
 
-Überblick über d. P. F
-
-1\. Louise Zarnecke, ältere Tochter des im Jahre 1904
-Rötlichen verstorbenen: Bauerngutsbesitzers Karl Zarnecke, so
-goß eine gute Erziehung, bestand das Lehrerinnenexamen wird
-ging mit 25 Jahren (1902) nach England, wo sie in vorsichtig
-denen reichen Häusern halbdeutscher Herkunft Erzieherin was,
-1912 (zu Kriegsbeginn befand sie sich in Kollegen erbte
-das Grundstüick ihres Onkels väterlicherseits und eröffnosy
+1. Louise Zarnecke, ältere Tochter des im Jahre 1904 in
+Züllichau verstorbenen Bauerngutsbesitzers Karl Zarnecke, genoß
+eine gute Erziehung, bestand das Lehrerinnenexamen und
+ging mit 25 Jahren (1902) nach England, wo sie in verschiedenen
+reichen Häusern halbdeutscher Herkunft Erzieherin war.
+1912 (zu Kriegsbeginn befand sie sich in Holland) erbte sie
+das Grundstück ihres Onkels väterlicherseits und eröffnete
 eine Plätterei.
 
 <@pagebreak/>
-die um zehn Jahre jüngere Schwester Agnes verließ das
+2. Ihre um zehn Jahre jüngere Schwester Agnes verließ das
 Elternhaus 1916 und gilt seitdem als verschollen. — Weitere
 Geschwister nicht vorhanden.
 
-1, klein Kennardy, Engländer, 58 alt, erwarb 1905 Grundbesitz,
-gründete die Kennardy-Farm, stets Kennardy-Hause gelangt,
+3. John Kennardy, Engländer, 58 alt, erwarb 1905 Grundbesitz,
+gründete die Kennardy-Farm, stets Kennardy-House genannt,
 brachte die Farm rasch zur Blüte, die er zusammen mit
-zuvor Schwester bewirtschaftete. Er heiratete, seine Frau vergaß
-ihn, Kinder nicht vorhanden. Die Ehe auftaucht geblieben.
+seiner Schwester bewirtschaftete. Er heiratete, seine Frau verließ
+ihn, Kinder nicht vorhanden. Die Ehe wurde nicht geschieden.
 Aufenthalt der Frau unbekannt. Seit 1919 war
-je Farm verpachtet, die Schwester Kennardys, Harriet, übernahm
+die Farm verpachtet, die Schwester Kennardys, Harriet, übernahm
 1920 für ihren zumeist im Auslande lebenden Bruder
-wiederum die Bewirtschaftung des großen Bereitet, fand sich
-stand in Kennardy-Hause stets nur kurze Zeit ein, in den
-schien Jahren noch seltener.
+wiederum die Bewirtschaftung des großen Besitzes, fand sich
+jedoch in Kennardy-House stets nur kurze Zeit ein, in den
+letzten Jahren noch seltener.
 
-(, ’Am 8. September dieses Jahres teilt die Z., die weder uns
-Helden, ebensowenig ihrem Anwalt, jemals von ihrer gediegenen
+4. Am 8. September dieses Jahres teilt die Z., die weder uns
+beiden, ebensowenig ihrem Anwalt, jemals von ihrer gediegenen
 Vorbildung oder von ihrem Aufenthalt in England erzählt
 hat, Doktor Schley mit, daß sie verreise. Am 13. erleben
 wir nachts gegen ein Uhr in der Aladinstraße die bekannten
-Vorfälle, ein verkleideter Eindringling entwischt, ich jede die
-Tote Louise Z. im Kontor liegen, Schraut entgeht dem Quallenwichoß
+Vorfälle, ein verkleideter Eindringling entwischt, ich sehe die
+tote Louise Z. im Kontor liegen, Schraut entgeht dem Quallengeschoß
 nur durch glücklichen Zufall, wird trotzdem ohnmächtig,
 ich finde an der getünchten Stallwand einen runden Fleck,
 der grünlich verfärbt war, am Vormittag begegnen wir Schley
-»und Kennardy, die Mordkommission erscheint, wir sind bereits
-Geheim, die Argus — Leute erstatten Bericht, und ZdGulius
+und Kennardy, die Mordkommission erscheint, wir sind bereits
+daheim, die Argus-Leute erstatten Bericht, und Julius
 Wendt’s Angaben über die beiden Straßenreiniger, die die
 Spiegel putzen, führen uns zu Schleys Villa, wo der Chauffeur
 Pedro Orbanos, Brasilianer, ein steckbrieflich gesuchter
-Verbrecher, in demselben Augenblick einem Quallengeschoß eiligst,
+Verbrecher, in demselben Augenblick einem Quallengeschoß erliegt,
 als Assistent Würzel ihm Handschellen anlegen will.
 
-Die Ereignisse überstürzen strich, Schley liest uns Louise Zarneckes
-Bestimmungen über die Verpachtung vor, unter denen:
+5. Die Ereignisse überstürzen sich, Schley liest uns Louise Zarneckes
+Bestimmungen über die Verpachtung vor, unter denen
 <@pagebreak/>
 die wichtigsten die sind, daß ein Waisenheim errichtet und die
 Fensterspionage erhalten werden soll.
 
 Als Schley auch den Umschlag des Testaments öffnen will,
-bemerke ich jenseits der Straße in dem schon vorher durchsuchen
+bemerke ich jenseits der Straße in dem schon vorher durchsuchten
 Dickicht eine rotbärtige Gestalt mit einem dicken Stock,
-einem Spazierstock aus gefärbtem Bambus offenbar, ich nervöse
+einem Spazierstock aus gefärbtem Bambus offenbar, ich verhüte
 ein neues Unglück, lasse den Rolladen rechtzeitig herab,
 eile hinaus, werde selbst mit einem Quallengeschoß bedacht,
-dann trifft die Mordkommission ein, Penz teilt uns Louise Z’0
-»natürlichen Tod« mit, das Testament wird eröffnet, in vor
-kurzen eigenhändigen Urkunde ist Sohn Kennardy als einziger
+dann trifft die Mordkommission ein, Penz teilt uns Louise Z’s
+»natürlichen Tod« mit, das Testament wird eröffnet, in der
+kurzen eigenhändigen Urkunde ist John Kennardy als einziger
 Erbe des beträchtlichen Vermögens der Louise Z. benannt,
 Doktor Schley erhält ein Legat von 10&nbsp;000 Mark, und Kennardy
-wird die Pflicht auferlegt, die Ersparnisse der 5. für
+wird die Pflicht auferlegt, die Ersparnisse der Z. für
 das Waisenheim zu verwenden. — Um halb vier nachmittags
-sind wir wieder daheim, finden Direktor Matz« Depeschen vor,
+sind wir wieder daheim, finden Direktor Matz’ Depeschen vor,
 ich entwerfe diesen kurzen Überblick, den ich mit folgenden
 Fragen schließe:
 
-a) Wer ermordete Louise Zarnecke? Wie konnten zur!-
-sehen ihr und John Kennardy so vertraute Beziehungen Gesicht
-entwickeln, daß sie Kennardy zum Alleinerben einsetzte, da!
+a) Wer *ermordete* Louise Zarnecke? Wie konnten zwischen
+ihr und John Kennardy so vertraute Beziehungen sich
+entwickeln, daß sie Kennardy zum Alleinerben einsetzte, der
 allerdings als großer Menschenfreund bekannt ist?
 
-v) Woher stammt das Barvermögen der Louise Z., hastig
+b) Woher stammt das Barvermögen der Louise Z., das im
 Testament mit rund 300&nbsp;000 Mark angegeben ist?
 
-ich Was suchte der Eindringling mit dem falschen roten Bar!
-und mit der gefährlichen Eiswasser in Louise 5.’s leeren Mbelstücken?
+c) Was suchte der Eindringling mit dem falschen roten Bart
+und mit der gefährlichen Giftwaffe in Louise Z.’s leeren Möbelstücken?
 
-ich (wichtig!!l) Sollte Doktor Schley ermordet werden?
+d) (wichtig!!) Sollte Doktor Schley ermordet werden?
 
-ich (Hauptfragen Was haben und hatten die Fensterspioin
-zu bedeuten? — Wird diese Frage gelöst, ist der Kern die
+e) (Hauptfrage) Was haben und hatten die Fensterspione
+zu bedeuten? — Wird diese Frage gelöst, ist der Kern des
 Problems enthüllt.
 
-j) Weshalb tat Kennardy Oslo, als ob er erst von England an
-Lautete 3.’s Nachricht hin nach Berlin gekommen Je!, ohne
+f) Weshalb tat Kennardy so, als ob er erst von England auf
+Louise Z.’s Nachricht hin nach Berlin gekommen sei, obwohl
 <@pagebreak/>
 er Zweifellos seit langem in Berlin wohnte? — Er ist jetzt im
-sich-?oder am Bahnhof Zoologischer Garten abgestiegen und
-war seit zwei Tagen, wie Argus ermittelte. —Wo hatte er
-Essen ständige Wohnung in Berlin? Unter welchem Namen?«?
+City-Hotel am Bahnhof Zoologischer Garten abgestiegen und
+zwar seit zwei Tagen, wie Argus ermittelte. — Wo hatte er
+seine ständige Wohnung in Berlin? Unter welchem Namen?
 
-9) (wichtig!!) Weoshoalb betrieb die sehr vermögende Louise
-sie ’Plätterei?! Bildete diese Plätterei nun den Deckmantel
-ein anderes Geschäft? Welcher Art war dieses? Wie
-pinnte Louise 5. dem Notar Doktor. Schley den Brasilianer
+g) (wichtig!!) Weshalb betrieb die sehr vermögende Louise
+eine Plätterei?! Bildete diese Plätterei nun den Deckmantel
+für ein anderes Geschäft? Welcher Art war dieses? Wie
+konnte Louise Z. dem Notar Doktor Schley den Brasilianer
 Pedro Orbanos empfehlen, der übrigens noch ein Dutzend
-antreten Namen führt?! Wie sind Scheine Dienstboten eineblleßlich
-des horchenden Stubenmädchens (sämtlich Vorderseite
+anderer Namen führt?! Wie sind Schleys Dienstboten einschließlich
+des horchenden Stubenmädchens (sämtlich vorbestrafte
 Personen) Schley aufgeschwatzt worden? Er behauptet,
-ebensalls’ durch Louise Z., was ich bezweifele, da Louise
-
-Fürsprache für diese vier Lichte (zwei Chauffeur, Köchin,
-»subonmädcvon) telephonisch geschah und erst kurz vor Schleys
+ebenfalls durch Louise Z., was ich bezweifele, da Louise
+Z.’s Fürsprache für diese vier Leute (zwei Chauffeure, Köchin,
+Stubenmädchen) telephonisch geschah und erst kurz vor Schleys
 Urlaubsreise, der damals die neue Villa beziehen wollte?«
 
 So weit Haralds ganz knapp gefaßte Notizen.
 
-»… öin übrigen«, fügte er aus der Tiefe seines Kinderlose
-mit einem Ächselzucken hinzu, »stehe ich vor einem unnahbar
+»… Im übrigen«, fügte er aus der Tiefe seines Klubsessels
+mit einem Achselzucken hinzu, »stehe ich vor einem unlösbar
 erscheinenden Rätsel, dem man, wie ich bereits betonte,
-mit Hilfe mehr phantasievoller als logischer Schlußfolwinngen
-beikommen kann.« —
+nur mit Hilfe mehr phantasievoller als logischer Schlußfolgerungen
+beikommen kann.«
 
-»Und dein Feldzugsplan?«, fragte ich mit allem Nachdruck.
-Juni! er mir nicht wieder durch Redensarten entwickle.
+»Und dein Feldzugsplan?«, fragte ich mit allem Nachdruck,
+damit er mir nicht wieder durch Redensarten auswiche.
 
 Er lachte. »Feldzugsplan?! — Bezeichne das, was ich
-Filiale, besser mit Spionageplan … — Wir werden gespielt
-»brechen, wenn Direktor Matz mir die nötigen FSeldmessermwitinmente
-schickt, dazu einen Herrn, der sie möglichst August««
-sein f« benutzen weiß. — Hallo, Telephon … — Hier Harst,
-lag, lieber Maß … Sie haben den Herrn direkt nach der
-Wiadinstraße geschickt? Nun gut, Schraut und ich brechen
-»fort auf … Sonst noch etwas? — Wie, die beiden Leute,
-jy Kennardy beobachteten, sind verschwunden? — Oh, deshalb
-seine Sorge … Die leben noch und jagen jetzt den Quallenschüßen,
+vorhabe, besser mit Spionageplan … — Wir werden sofort
+aufbrechen, wenn Direktor Matz mir die nötigen Feldmesserinstrumente
+schickt, dazu einen Herrn, der sie möglichst unauffällig
+zu benutzen weiß. — Hallo, Telephon … — Hier Harst.
+Tag, lieber Maß … Sie haben den Herrn direkt nach der
+Aladinstraße geschickt? Nun gut, Schraut und ich brechen
+sofort auf … Sonst noch etwas? — Wie, die beiden Leute,
+die Kennardy beobachteten, sind verschwunden? — Oh, deshalb
+keine Sorge … Die leben noch und jagen jetzt den Quallenschützen,
 <@pagebreak/>
 — — glaube Ihnen, daß Sie sich aus »Quallenschütze«
-keinen Vers machen können … Ach vorläufig auch nicht …
+keinen Vers machen können … Ich vorläufig auch nicht …
 Wird wohl flüssige Luft irgendwie dabei verwandt worden
-Sein … Sie kennen doch die Eigentümlichkeiten der j’sü]«sifeu
-Hast? Nein? Vom orientieren Sie sich darüber … ’ÄFlss
+Sein … Sie kennen doch die Eigentümlichkeiten der flüssigen
+Luft? Nein? Dann orientieren Sie sich darüber … Also
 Wiederhören … Schluß …«
 
-Unser schnittiger Sportwagen Stolzeste die Strecke Ad
-zur Aladinstraße in niedrigen Minuten. Harald stoppte vor
-der Kneipe, die wir vormittags besucht halten, und der Wir!
-versprach uns, auf unser ’Behikeol aufzupassen. Bahn Schlosse
-denken zu süß weiter, tragen den bewußten Herrn, der sich 16
-Schlau als Photograph herausstaffiert und seine Apparate!!
-die etwas ältliche Kamera hineingetan hatte. »Fackel wächst
-festgestellt haben«, erklärte Harald schon im Vorgarten, »wohl
+Unser schnittiger Sportwagen schaffte die Strecke bis
+zur Aladinstraße in wenigen Minuten. Harald stoppte vor
+der Kneipe, die wir vormittags besucht hatten, und der Wirt
+versprach uns, auf unser Vehikel aufzupassen. Wir schlenderten
+zu Fuß weiter, trafen den bewußten Herrn, der sich so
+Schlau als Photograph herausstaffiert und seine Apparate in
+die etwas ältliche Kamera hineingetan hatte. »Ich möchte
+festgestellt haben«, erklärte Harald schon im Vorgarten, »wohin
 der Spiegel über der Vorgartenpforte gerichtet ist, das heißt
-also, von wo aus früher, als diese neue Straße noch Achseln
-Land war, der Spiegel mit dem Fernglas zu sehen war.,«
+also, von wo aus früher, als diese neue Straße noch Ackerland
+war, der Spiegel mit dem Fernglas zu sehen war …«
 
 Der junge Landmesser war sofort im Bilde,
 
-Wir holten aus dem Obstgarten eine Leiter, wir Gattin
-bei alledem übergenug Straßenjugend als Zuschauer, ahnt
-daran ließ sich nichts ändern, Wir arbeiteten möglichst. schlug.
-und doch gab es diese oder jene Verzögerung, und schon
-Feststellung, daß die beiden Spiegel, obwohl viereckig, deute
-nach der Mitte zu eingebaucht waren (also Hohlspiegel), machen
-den Landimeosser sehr stutzig. Grotten war das Ganze in Knast
-zehn Kindern erledigt, und als wir wieder daheim eintragen
-wußten wir eins mit aller Bestimmtheit: Es hatte sich bei d€y
-Spiegeleinrichtung überhaupt nicht um harmlose Fensterloses
-sondern um eine klug maskierte optische ColegrapbieoinrFtung
-gehandelt, die zweifellos aus einen Punkt hinwies,!p
-mindestens tausend Meter ab nach Südwesten zu an der Greisin
+Wir holten aus dem Obstgarten eine Leiter, wir hatten
+bei alledem übergenug Straßenjugend als Zuschauer, aber
+daran ließ sich nichts ändern. Wir arbeiteten möglichst schnell,
+und doch gab es diese oder jene Verzögerung, und schon die
+Feststellung, daß die beiden Spiegel, obwohl viereckig, dennoch
+nach der Mitte zu eingebaucht waren (also Hohlspiegel), machte
+den Landmeosser sehr stutzig. Trotzdem war das Ganze in knapp
+zehn Minuten erledigt, und als wir wieder daheim eintrafen
+wußten wir eins mit aller Bestimmtheit: Es hatte sich bei der
+Spiegeleinrichtung überhaupt nicht um harmlose Fensterspiegel,
+sondern um eine klug maskierte optische Telegraphieeinrichtung
+gehandelt, die zweifellos auf einen Punkt hinwies, der
+mindestens tausend Meter ab nach Südwesten zu an der Grenze
 des Vorortes Dahlem zu suchen war.
 
-Mit der flüchtigen Skizze des Landmessers in der Stativ
-fuhren wir nun auf Suche. Es galt, das Haus zu finden, 99
+Mit der flüchtigen Skizze des Landmessers in der Tasche
+fuhren wir nun auf Suche. Es galt, das Haus zu finden, von
 <@pagebreak/>
-am aus der Hauptspiegel über der Pforte beobachtet werden
-Tinte.
+dem aus der Hauptspiegel über der Pforte beobachtet werden
+konnte.
 
 Harald, wieder einmal von Jagdeifer geradezu besessen,
-hockte mit stumm Gesicht am Steuer und ließ den Wagen
-förmlich dahinrasen, Wir glitten die äußerste Heerstraße von
-Schmargendorf entlang, bogen in die Weinberg-A ’ex ein, die
-schon zu Dahlem gehört, und hier fuhren wir lang, 9: Es
-dämmerte bereits, als wir, immer noch unermüdlich die Willen
-»und wenigen Wohnhäuser musternd, schließlich vor einem
-Grundstück hast machten, auf dem nur ein bescheidenes älteres
+hockte mit starrem Gesicht am Steuer und ließ den Wagen
+förmlich dahinrasen. Wir glitten die äußerste Grenzstraße von
+Schmargendorf entlang, bogen in die Weinberg-Allee ein, die
+schon zu Dahlem gehört, und hier fuhren wir langsam … Es
+dämmerte bereits, als wir, immer noch unermüdlich die Villen
+und wenigen Wohnhäuser musternd, schließlich vor einem
+Grundstück halt machten, auf dem nur ein bescheidenes älteres
 Haus mit einem Eckturm stand, dessen Spitze durch Holz zu
 einem Taubenschlag verlängert war.
 
-Harst sprang ab, aus zur Lattenpforte und läutete. Dabei
-zum« er zu mir in siogesgewism Tone: »Dieser Holzaufbau
-As Turmes ist unbedingt verdächtig …!«
+Harst sprang ab, ging zur Lattenpforte und läutete. Dabei
+sagte er zu mir in siegesgewissem Tone: »Dieser Holzaufbau
+des Turmes ist unbedingt verdächtig …!«
 
-Wir lautloses] jedoch umsonst, erst nach geraumer eilt
-Aal ein Mann in Heizerkleidung mit einer Kohlenschaufel aus
-vor Nachbarvilla und nicht uns zu: »Die Leute sind verreist …
-»’as Haus ist übrigens wieder zu vermieten … Aber erst vom
-November … Das ’Plakat hat der Sturm wohl abgerissen.«
+Wir läuteten jedoch umsonst, erst nach geraumer Zeit
+trat ein Mann in Heizerkleidung mit einer Kohlenschaufel aus
+der Nachbarvilla und rief uns zu: »Die Leute sind verreist …
+Das Haus ist übrigens wieder zu vermieten … Aber erst vom
+1\. November … Das Plakat hat der Sturm wohl abgerissen.«
 Er kam näher geschlurft, und der papierne Händedruck
-)uralte löste Seine Zunge vollständig. »Wer hier wohnte’
-Eine Dame, die ein Mäadchenpen]ionat beschrieb … Es waren
-Mädchen jeder Altersstufe, die jüngste mag vier Jahre ganzen
+Haralds löste Seine Zunge vollständig. »Wer hier wohnte?
+Eine Dame, die ein Mädchenpensionat betrieb … Es waren
+Mädchen jeder Altersstufe, die jüngste mag vier Jahre gewesen
 sein, im ganzen waren es sieben … Wie die Dame
-hieß, — — warten Sie mal, ich werde mich schon besinnen …
-vorn Name klang so (]ssdsälsdisfs) — … Nichtig, richtig: Kennardy,
-das war es, — — Kot —nardy mit y. — Nein, mehr
-weiß ich verkehrt) nicht … Los) bin erst ein Jahr Hausdach
-dort in der Villa nebenan …
+hieß, — warten Sie mal, ich werde mich schon besinnen …
+Der Name klang so ausländisch … Richtig, richtig: Kennardy,
+das war es, — — Ken—nardy mit y. — Nein, mehr
+weiß ich wirklich nicht … Ich bin erst ein Jahr Hauswart
+dort in der Villa nebenan …«
 
 Kennardy!!
 
-Der Name hatte bei uns eingeschlagen wie ein Blitz… Wir
+Der Name hatte bei uns eingeschlagen wie ein Blitz. Wir
 mußten uns mit aller Macht beherrschen, um uns nicht etwa
 durch den Gesichtsausdruck oder sonstwie zu verraten.
 
 <@pagebreak/>
-Kernpunkt!! — Wir waren auf der richtigen Spur …
+Kennardy!! — Wir waren auf der richtigen Spur …!
 Aber … — wurde die Sache jetzt nicht noch mystischer?
 
 Wir fuhren heim … Vorerst gab es für uns nichts zu
-nimm. Erst die ’Vunkelheit würde uns ich Kennardy-Hause wies
-versinken. Vor Turm mit dem häßlichen Holzaufbau versprach
-jv allerlei …
+tun. Erst die Dunkelheit würde uns im Kennardy-House wiederfinden.
+Der Turm mit dem häßlichen Holzaufbau versprach
+so allerlei …
 
-Um dir brachen wir wieder auf.
+Um elf brachen wir wieder auf.
 
 Wir hätten besser daheim bleiben sollen.
 
-5\. Kapitel.
+<h2>5. Kapitel.</h2>
 
-Das Mädchen und die FFliegenkarte«-
+<h3>Das Mädchen und die Fliegenkarte.</h3>
 
-Gegen zehn war Gewölk ausgezogen, um halb el! goß
-es in Strömen, und das Thermometer fiel auf acht Grad
-Eisigen Wind umfauchte uns, als wir durch unseren Genügte
-Herren schlichen, es war finster wie in einem Sack, und der Tage
+Gegen zehn war Gewölk aufgezogen, um halb elf goß
+es in Strömen, und das Thermometer fiel auf acht Grad.
+Eisiger Wind umfauchte uns, als wir durch unseren Gemüsegarten
+schlichen, es war finster wie in einem Sack, und der ganze
 Ausflug stellte wirklich kein reines Vergnügen dar.
 
-Wir hatten zwanzig Minuten zu laufen, bevor wir Blitz
+Wir hatten zwanzig Minuten zu laufen, bevor wir die
 Weinberg-Allee erreichten, in der von Weinbergen nichts
-zu bemerken war, — vielleicht hieß sie deshalb sie, weil ein
-paar Villenboesikern an den Hauswänden am Spalier Schreck
+zu bemerken war, — vielleicht hieß sie deshalb so, weil ein
+paar Villenbesitzer an den Hauswänden am Spalier echten
 Wein zogen, der natürlich nie reif wurde.
 
 Harald kletterte über den Lattenzaun, ich hinterdrein,
 dann waren wir in dem muffig riechenden Hause: Wir merkten
-sofort, das Balkenwerk war durch den gefährlichen Haube
-schwamm angegriffen. — Es war ein sehr altes Gedankt,
-ungesund, feucht, die Tapeten hingen von den Wänden, arm
-die Möbel waren zusammengewürfelt, nur im ersten Sie
-stießen wir auf Behaglichkeit und auf die Anzeichen, daß hin
-Mädchen unter trauriger Obhut gelebt hatten: Weiße Hintere
-Betten, weiße Schränke, viel Spielzeug, ganze Wäschestapel,
-Photographien von sieben netten Mädchen, die wie die Regnete
-pfeifen sich aufgereiht hatten, — die älteste immerhin schon
+sofort, das Balkenwerk war durch den gefährlichen Hausschwamm
+angegriffen. — Es war ein sehr altes Gebäude,
+ungesund, feucht, die Tapeten hingen von den Wänden, auch
+die Möbel waren zusammengewürfelt, nur im ersten Stock
+stießen wir auf Behaglichkeit und auf die Anzeichen, daß hier
+Mädchen unter trauriger Obhut gelebt hatten: Weiße Kinderbetten,
+weiße Schränke, viel Spielzeug, ganze Wäschestapel,
+Photographien von sieben netten Mädchen, die wie die Orgelpfeifen
+sich aufgereiht hatten, — die älteste immerhin schon
 <@pagebreak/>
-»ade Garde,
+junge Dame, dann Backfische, Halbbackfische, — eine reizende
+Garde.
 
 Harald, immer voranhuschend, leuchtete mit der Taschenlampe
 in jedes Zimmer hinein, übersah nichts, schenkte den
-verlingsügigsten Dingen Beachtung, notierte sich dies und jenes
-Wind drückte nun die lese Tür in diesem Stockwerk auf, —
-ei Eckzimmer, das unter dem häßlichen Turm lag. — Wie
-xeröuscs)loZ wir uns bisher bewegt hatten, bewies am besten
-ne junge Mädchen, das hier bei dicht geschlossenen dicken
-erhängen in einem schwarzen Kimono vor einer Schreibmaschine
+geringfügigsten Dingen Beachtung, notierte sich dies und jenes
+und drückte nun die letzte Tür in diesem Stockwerk auf, —
+ein Eckzimmer, das unter dem häßlichen Turm lag. — Wie
+geräuschlos wir uns bisher bewegt hatten, bewies am besten
+das junge Mädchen, das hier bei dicht geschlossenen dicken
+Vorhängen in einem schwarzen Kimono vor einer Schreibmaschine
 saß. Als Harst den Türdrücker bewegt hatte, hatte
-uns leise Klappern der Maschine gerade wieder begonnen, und
-»Nr dadurch wurde das Geräusch der aufschwingenden Tür
-Phantom,
+das leise Klappern der Maschine gerade wieder begonnen, und
+nur dadurch wurde das Geräusch der aufschwingenden Tür
+übertönt,
 
 Wir standen regungslos, das Zimmer war hell erleuchtet,
-
-sicher einem japanischen vierteiligen Wandsehdirm stand ein
-h1, die übrige Einrichtung war halb Wohnzimmer, halb Geistsraum
+hinter einem japanischen vierteiligen Wandschirm stand ein
+Bett, die übrige Einrichtung war halb Wohnzimmer, halb Geschäftsraum
 mit Regalen, Kartotheken, einem praktischen
-ebroeibtism und einer Riesenweltkarte, die mindestens 3 Mai
+Schreibtisch und einer Riesenweltkarte, die mindestens 3 mal 3
 Meter groß war.
 
 Das Mädchen drehte uns halb den Rücken zu. Trotzdem
-flammte ich sie: Es war die älteste der sieben Zöglinge des
-Mädchenpensionats der Miß Harriet Kennardy, — Ja, Harriet
+erkannte ich sie: Es war die älteste der sieben Zöglinge des
+Mädchenpensionats der Miß Harriet Kennardy. — Ja, Harriet
+Kennardy, die Schwester John Kennardys, des Engländers,
+des Besitzers von Kennardy-House.
 
-zurecht, die Schwester Sohn Kennardys, des Engländers,
-Typs Besitzers von Kennardy-Hause.
-
-Unsere Überraschung, dieses alte Gebäude doch noch bewohnt!
+Unsere Überraschung, dieses alte Gebäude doch noch bewohnt
 zu finden, hatte noch andere Ursachen. Zunächst: Das
 Mädchen im Kimono mit dem tizianroten Bubikopf war schön,
-war bezaubernd lieblich und erregte trotzdem sofort ein geistige
-Mitleid: In ihren Zu?on trat ein klarer Ausdruck
-
-teure Dame, dann Backfische, Halbbackfische, — eine rote
-0
-Ö
-
-großen Grams hervor, der sich selbst jetzt bei der eiligen Cippwbolt
-nicht verlor.!
+war bezaubernd lieblich und erregte trotzdem sofort ein gewisses
+Mitleid: In ihren Zügen trat ein klarer Ausdruck
+großen Grams hervor, der sich selbst jetzt bei der eiligen Tipparbeit
+nicht verlor.
 
 Harst zog die Tür ganz behutsam wieder zu. Wir standen
-will im dunklen Flur … Hier oben war der csaulig’e Geruch
-Mit geschwächt zu spüren. — Harald zog mich in das Zimmer
+nun im dunklen Flur … Hier oben war der faulige Geruch
+nur ganz schwach zu spüren. — Harald zog mich in das Zimmer
 <@pagebreak/>
-schräg gegenüber, lehnte die Tür an und flüsterte: »Tags
+schräg gegenüber, lehnte die Tür an und flüsterte: »Das
 war einmal wirklich eine Überraschung! Warten wir …«
 
 Was Geduld heißt, wissen wir.
@@ -1255,44 +1247,44 @@ Das Mädchen drüben tippte weiter … Ganz leise nur
 hörten wir das Klappern der Maschine …
 
 Und … Louise Zarnecke hatte zumeist schriftlich oder telephonisch
-mit Schley verkehrt, schriftlich, — getippt!! An Schraut
+mit Schley verkehrt, schriftlich, — getippt!! In ihrem
 Häuschen war keine Schreibmaschine zu finden gewesen. Hier
 war eine solche vorhanden, und daß diese alte Villa und das
 Häuschen der Plättmamsell durch Blinklicht miteinander verkehrt
-hatten, war sie gut wie gewiß. — Ein ganzer Gurte
+hatten, war sie gut wie gewiß. — Ein ganzer Gürtel
 von Rätseln umgab uns … Man sagt immer, in den Weltstädten
 sei die Romantik erstorben. Die, die das behaupten,
 sind blinde Wanderer, blind geworden durch Benzindunst,
-Straßenjitaub, Zigarettenrauch und Amüsierstätten,
+Straßenstaub, Zigarettenrauch und Amüsierstätten,
 
 Dann verstummte das Klappern endgültig, und wir hörten
-andere Geräusche … Eine Rolle quietschte, irgendwo Famulus
+andere Geräusche … Eine Rolle quietschte, irgendwo summte
 etwas, — — Harst raunte mir zu: »Ein Fahrstuhl oder
 dergleichen!«
 
-Er huschte in den Flur, legte das Ohr drüben gar die
+Er huschte in den Flur, legte das Ohr drüben an die
 Tür, schaltete seine Taschenlampe ein, bückte sich, schaute durch
 das Schlüsselloch und öffnete.
 
-— Das Zimmer war dunkel.
+Das Zimmer war dunkel.
 
-Zum ersten Male beschlich mich da in diesem Hause also
+Zum ersten Male beschlich mich da in diesem Hause ein
 unbehagliches Gefühl.
 
 Wir Kulturmenschen haben unseren »Geist« vielleicht gewaltsam
 zu enormen Leistungen durch Generationen weiterentwickelt,
-— eins haben wir verloren, wodurch das Chor
+— eins haben wir verloren, wodurch das Tier
 über uns hinausragt: Den natürlichen Instinkt! Unsere Sinne
 sind stumpf geworden. Selbstsucht hat uns feige gemacht, die
 Profitgier und der Lebenshunger haben uns noch tiefer gedrückt.
 Das Tier steht über uns. — Nur wer jahrelang sein
-Leben, seine Gesundheit aufs Spiel seht, sei es aus diesen oder
-jenen Beweggründen, gewinnt einen kläglichen Rest hiesiges
-Instinkt zurück.
+Leben, seine Gesundheit aufs Spiel setzt, sei es aus diesen oder
+jenen Beweggründen, gewinnt einen kläglichen Rest dieses
+Instinkts zurück.
 
 <@pagebreak/>
 Harsts Taschenlampe glitt mit gleißendem Kegel über
-»Wände, Schränke, die Maschine …
+Wände, Schränke, die Maschine …
 
 Das Zimmer hatte noch eine Tür, aber die war verstellt.
 
@@ -1300,9 +1292,9 @@ Wo war des Mädchen?!
 
 Harald trat an die Schreibmaschine heran …
 
-Auf dem Tisch lagen zwei getippte Bogen
+Auf dem Tisch lagen zwei getippte Bogen …
 
-Alles … Zahlen, nur Zahlen: Chsjfrejchrsjts
+Alles … Zahlen, nur Zahlen: Chiffreschrift!
 
 Dann wandte er sich der Landkarte zu. Ich sah, daß die
 Weltkarte mit den schwarzen Pünktchen von Fliegenunrat
@@ -1312,42 +1304,41 @@ Die Fliegen klebten noch auf der Karte,
 
 Harst beleuchtete die eine ganz dicht und pfiff ganz leise.
 
-»Aufgeklebt, mein Alter … s«, flüsterte er. »Und seltsamerweise
-kleben diese toten Stiegen überall neben den Namen
-von Hafenstädten und — bitte — neben Berlin, Paris, Entzieht
-— und So weiter. Und der Fliegens Schmutz, die Pünktchen,
+»Aufgeklebt, mein Alter …!«, flüsterte er. »Und seltsamerweise
+kleben diese toten Fliegen überall neben den Namen
+von Hafenstädten und — bitte — neben Berlin, Paris, Bukarest
+— und So weiter. Und der Fliegenschmutz, die Pünktchen,
 sind auch nicht harmlos …«
 
 Dann schwenkte der Lichtkegel herum und beleuchtete die
 getäfelte Decke. Vor dem Erkerfenster gähnte in der Decke
-ei Loch, aus dem eine Strickschlinge heraushing.
+ein Loch, aus dem eine Strickschlinge heraushing.
 
 »Zugang zum Turm …«, hauchte Harald. »Wir können
-ins hier nicht länger aufhalten, eilen wir in den Garten hinab
-… aus freie Geld, — — schnell …
+uns hier nicht länger aufhalten, eilen wir in den Garten hinab
+… aufs freie Feld, — — schnell …!«
 
-oh war froh, daß wir diese muffige Bude verließen.
+Ich war froh, daß wir diese muffige Bude verließen.
 
 Es regnete jetzt nicht mehr so stark.
 
-Als wir vom Felde aus (es war eingezäuntes Baugesandch
-zurückblickten, blitzte vor uns in der Höhe des Caubenxmsaged
+Als wir vom Felde aus (es war eingezäuntes Baugelände)
+zurückblickten, blitzte vor uns in der Höhe des Taubenschlages
 ununterbrochen ein grelles Licht auf, bald lang, bald
-
-uns: Morsezeichen!
+kurz: Morsezeichen!
 
 Und als Harst sein Fernglas zu Hilfe nahm und die in
-Finsternis eingebettete Aladinstraße fluchte, packte er plötzlich
-mögen Arm …
+Finsternis eingebettete Aladinstraße suchte, packte er plötzlich
+meinen Arm …
 
-»Da — ]eherne hindurch!l Du erkennst den ch)ernsten vor
+»Da — schaue hindurch! Du erkennst den Schornstein der
 <@pagebreak/>
 neuen Wäscherei … Am Schornstein blinkt es hell … Der
-Schornstein, mein Alter, hat auch einen Hohlspiegel, machte
+Schornstein, mein Alter, hat auch einen Hohlspiegel, und die
 Signale erreichen trotz der neuen Häuser der Aladinstraße
-vielleicht immer noch die Plätterei, — Was soll das?!«
+vielleicht immer noch die Plätterei. — Was soll das?!«
 
-Ach preßte das Glas zwischen die nassen Finger, Schraubte
+Ich preßte das Glas zwischen die nassen Finger, Schraubte
 an der Einstellung …
 
 Harald und ich standen Schulter an Schulter …
@@ -1360,77 +1351,78 @@ Boden schlug …
 
 — — Ich erwachte … Die Sonne schien ins Zimmer,
 Ich lag in meinem Bett, neben dem Bett saß unser Hausarzt
-Sanitätsrat Männer und lächelte mich an …
+Sanitätsrat Kämper und lächelte mich an …
 
 »Schwein gehabt, Schrautchen …!! Sie waren dicht am
 Abschrammen! Schwein gehabt …!«
 
-Recht verlor abermals das Bewußtsein … Ich war wirklich
+Ich verlor abermals das Bewußtsein … Ich war wirklich
 dicht am Abschrammen …
 
-<@pagebreak/>
-Die Dampfwäscherei Aladin.
+<@pagebreak 35/>
+
+<h1>Die Dampfwäscherei Aladin.</h1>
 
 <h2>1. Kapitel.</h2>
 
-<h3>wer Krankenstühle.</h3>
+<h3>Zwei Krankenstühle.</h3>
 
-Nach Ging Tagen durfte ich zum ersten Male wieder
-Aussehen. Harald war glimpflicher weggekommen.
+Nach fünf Tagen durfte ich zum ersten Male wieder
+aufstehen. Harald war glimpflicher weggekommen.
 
 Dazwischen hatte er mir das wenige längst erzählt, was
-wir wußte und was nur ein ganz kleiner Kreis von Eingeweihten
-als gefährliches Geheimnig-mit-uns hütete.
+er wußte und was nur ein ganz kleiner Kreis von Eingeweihten
+als gefährliches Geheimnis mit uns hütete.
 
 In der stockfinsteren Nacht draußen zwischen den verrosteten
 Drahtgittern der Bauparzellen, zwischen regentriefendem
-Unkraut und den häßlichen heiraten Müllabladestellen der benachbarten
-Bewohner hatte ließ der Tod an uns herangeschlichen,
-der unheimliche Quallentod, der vor nichts zurückM)
-lockende Schüsse mit dem Bambusspazierstock, einer Waffe,
-den Besonderheiten man nur erraten konnte.
+Unkraut und den häßlichen privaten Müllabladestellen der benachbarten
+Bewohner hatte sich der Tod an uns herangeschlichen,
+der unheimliche Quallentod, der vor nichts zurückschreckende
+Schütze mit dem Bambusspazierstock, einer Waffe,
+deren Besonderheiten man nur erraten konnte.
 
 »Wahrscheinlich«, hatte Harald erklärt, »handelt es sich
-arm einen Bambusstock mit Stahlrohreinlage, wahrscheinlich
-hat dieser Mordbube sich die chemischen Versuche zur Zerschlug
+um einen Bambusstock mit Stahlrohreinlage, wahrscheinlich
+hat dieser Mordbube sich die chemischen Versuche zur Herstellung
 von Giftgasen irgendwie zunutze gemacht, denn diese
-Versuche haben seinerzeit auch auf die merkwürdigen ECigenIhmasten
+Versuche haben seinerzeit auch auf die merkwürdigen Eigenschaften
 der sogenannten flüssigen Luft zurückgegriffen.« (Aus
-lwyreislichen Gründen, die übrigens auch die »Dickbändigen«
-Kiiminalautforen berücksichtigen sollten, übergehe ich hier die
-Einzelheiten der Harst’schen Vermutungen.) »Dank flüssige Luft
-Angelrute Kältegrade zu erzeugen vermag, ist bekannt. Ein
-Komiker, dem es gelingt, Giftstoffe der flüssigen Luft beimmnengen
+begreiflichen Gründen, die übrigens auch die »Dickbändigen«
+Kriminalautoren berücksichtigen sollten, übergehe ich hier die
+Einzelheiten der Harst’schen Vermutungen.) »Daß flüssige Luft
+ungeheure Kältegrade zu erzeugen vermag, ist bekannt. Ein
+Chemiker, dem es gelingt, Giftstoffe der flüssigen Luft beizumengen
 und außerdem noch durch andere Beimengungen
 einem Strahl vergifteter flüssiger Luft einen eigenen, kräftigen
-(gleich Ironie die Tätigkeit, sich im Kluge gallertartig zu
+Antrieb sowie die Fähigkeit, sich im Fluge gallertartig zu
 <@pagebreak/>
 verdicken, zu verleihen, hätte damit eine fürchterliche Waffe
 gewonnen. — Dies ist geschehen, dies ist leider gelungen, und
 die Folgen haben wir verspürt … Auch das eigentümliche
-Surren, welches das Nahen der südlichen Qualle anzeigt, ist
+Surren, welches das Nahen der tödlichen Qualle anzeigt, ist
 ja unschwer zu begründen. Das Gallertgeschoß ist eine Scheibe,
-die mit der breiten Seite als Spitze vorwartksfliegt, die treibende
+die mit der breiten Seite als Spitze vorwärtsfliegt, die treibende
 Kraft muß sehr beträchtlich sein, mithin wird die Scheibe
-auch beim Fliegdn ein Geräusch erzeugen … — Es muß wohl
-so sein. Wenn wir nun vor rechts Tagen in jener Nacht mit
-dem Leben abermals davonkamen, danken wir dies dem Augen
+auch beim Fliegen ein Geräusch erzeugen … — Es muß wohl
+so sein. Wenn wir nun vor sechs Tagen in jener Nacht mit
+dem Leben abermals davonkamen, danken wir dies dem jungen
 Wendt, der dem Mordgesellen nachgeschlichen war …
-Wendt, der sich mit seinem Kolleg-. Schnitt gegenüber der
+Wendt, der sich mit seinem Kollegen Schmidt gegenüber der
 Plätterei im Erdgeschoß eingemietet hatte, bemerkte vom
-Fenster aus, daß die Spiegel plötzlich aufblitzen. Er schlich
+Fenster aus, daß die Spiegel plötzlich aufblitzten. Er schlich
 auf die Straße, und ein Zufall zeigte ihm ein ähnliches Aufblinken
 am Schornstein der Wäscherei. Er verließ die Aladinstraße
 mit einem Fernglas, im Freien suchte er die Stelle,
-von der die Indischen Signale ausgingen, und als er erst ungefähr
+von der die optischen Signale ausgingen, und als er erst ungefähr
 die Richtung gefunden, eilte er querfeldein und stieß
-so auf den Mörder. Er knurrte ihn lediglich verscheuchen, er
+so auf den Mörder. Er konnte ihn lediglich verscheuchen, er
 beschreibt ihn als eine schlanke, mittelgroße Gestalt mit rotem
-Vollbart und Brille, — genau so sah ich ihn gegenüber. der
-Villa Schley … Wendt hat uns dann nach Bau?Barschaft,
-er hatte viel Mühe damit, viel Seit verrann, und als er… was
-ich nur billige, Penz zurief, waren beide Reiter natürlich
-leer, sowohl die in«! 2« Weinberg-Villa als auch die Plätterei,
+Vollbart und Brille, — genau so sah ich ihn gegenüber der
+Villa Schley … Wendt hat uns dann nach Hause geschafft,
+er hatte viel Mühe damit, viel Zeit verrann, und als er, was
+ich nur billige, Penz anrief, waren beide Nester natürlich
+leer, sowohl die muffige Weinberg-Villa als auch die Plätterei,
 in der irgend jemand die Signale aufgefangen haben
 dürfte.«
 
@@ -1439,131 +1431,132 @@ unterrichtet worden, das übrige hörte ich erst jetzt, als ich im
 Sonnenschein in dem einen fahrbaren Krankenstuhl auf unserem
 Hofe saß, neben mir Harst in einem zweiten, hinter uns
 unsere Krankenpfleger Wendt und Schmidt. Es war begreiflich,
-daß Harald erst jetzt, ww meine Genesung rasche Fortschritte
-machte, mir auch all das andere erzählte, was bei
+daß Harald erst jetzt, wo meine Genesung rasche Fortschritte
+machte, mir auch all das andere erzählte, was den
 <@pagebreak/>
-Dingen, die bisher geschehen, einen nur noch dichteren, undurchMinglichen
-Handel ausblasen.
-— Wie gesagt, mein Alter, auch die Weinberg-Villa
-ruhiger, der Turm dort enthielt nichts Verfängliches, die
-Riegel dort waren verschwunden, ebenso das tizianrote Nähern
+Dingen, die bisher geschehen, einen nur noch dichteren, undurchdringlichen
+Mantel umhingen.
+
+»… Wie gesagt, mein Alter, auch die Weinberg-Villa
+war leer, der Turm dort enthielt nichts Verfängliches, die
+Spiegel dort waren verschwunden, ebenso das tizianrote Mädchen
 … Penz hat natürlich die ganze gewaltige Maschinerie
-Kriminalpolizei spielen lassen, — was kam dabei heraus?
-Nichts! — Es wurde festgestellt, daß die Zöglinge der
-nie geriet Kennardy junge Engländerinnen waren, — gegen
-Mk Harriet ließ sich nichts vorbringen, sie hatte ihre Psleguzm
-sie die. Herbsttage nach Kennardy-Hause gebracht, —
-F- Ursachen. John Kennardy wieder ist makellos, heute
-»riß bat er bereits drei Vollwaisen aufgenommen, die Verboten
-dürfen ihm nichts in den—Weg legen, sie täten ja auch
-Furcht damit, Kennardy hat ’Bauspersonal beschafft, dazu
-ii) Schwester, ein sehr sanftes Wesen, wie Wendt behauptet,
-alles ist einwandfrei, alles, — — und kann doch nicht einwandfrei
-sein. Penz selbst schwört daraus, daß wir es hier
-Mr! einer ganz gerissenen Bande zu tun hätten, aber, betont
-ei Immer wieder: Beweise?! Beweise?! — Die Haifischen
+der Kriminalpolizei spielen lassen, — was kam dabei heraus?
+— Nichts! — Es wurde festgestellt, daß die Zöglinge der
+Miß Harriet Kennardy junge Engländerinnen waren, — gegen
+Miß Harriet ließ sich nichts vorbringen, sie hatte ihre Pfleglinge
+für die Herbsttage nach Kennardy-House gebracht, —
+alles Tatsachen. John Kennardy wieder ist makellos, heute
+früh hat er bereits drei Vollwaisen aufgenommen, die Behörden
+dürfen ihm nichts in den Weg legen, sie täten ja auch
+Unrecht damit, Kennardy hat Hauspersonal beschafft, dazu
+eine Schwester, ein sehr sanftes Wesen, wie Wendt behauptet,
+— alles ist einwandfrei, alles, — — und kann doch nicht einwandfrei
+sein. Penz selbst schwört darauf, daß wir es hier
+mit einer ganz gerissenen Bande zu tun hätten, aber, betont
+er Immer wieder: Beweise?! Beweise?! — Die optischen
 Signale, der Zugang zum Turm durch die Zimmerdecke, die
-Übrigens verschwundene — Schreibmaschine und das eben
-!es- verschwundene junge Mädchen- mit dem ties-melanchoshen
-Gesicht, — — all das sind Seifenblasen … Sie schrie,
-— faßt man zu, getrieben sie.«
+— Übrigens verschwundene — Schreibmaschine und das ebenfalls
+verschwundene junge Mädchen mit dem tief-melancholischen
+Gesicht, — — all das sind Seifenblasen … Sie schillern,
+— faßt man zu, zerplatzen sie.«
+
 Ich hatte atemlos zugehört.
+
 Ich dachte nur an eins, immer wieder an dasselbe: An
-ist Fliegenkarte! — Ich mochte sie in Gegenwart
-erbte und Schmidts nicht erwähnen … Ich ahnte nur: Diese
-alte konnte uns weiterhelfen! Die Fensterspiegel waren nun
-angetan, sie hatten uns immerhin zu der Karte mit dem Fliegeinschmutz
+die *Fliegenkarte!* — Ich mochte sie in Gegenwart
+Wendts und Schmidts nicht erwähnen … Ich ahnte nur: Diese
+Karte konnte uns weiterhelfen! Die Fensterspiegel waren nun
+abgetan, sie hatten uns immerhin zu der Karte mit dem Fliegenschmutz
 und den aufgeklebten, breitgedrückten Stubenfliegen
-als Ort. Und — hatte Harald nicht von Anfang an betont,
-selten Problem sei nur mit Hilfe der ECinbildungskrast herankommen,
+geführt. Und — hatte Harald nicht von Anfang an betont,
+diesem Problem sei nur mit Hilfe der Einbildungskraft beizukommen,
 mit Hilfe phantasievoller Vermutungen, von denen
 <@pagebreak/>
-vielleicht von einem Dutzend falscher Vermutungen nur eins
-einzige richtig sein könnte! Und auch das bedeutete dann!6Ä
+vielleicht von einem Dutzend falscher Vermutungen nur eine
+einzige richtig sein könnte! Und auch das bedeutete dann ja
 den Erfolg! Aber — wo war diese eine? Wo?! — Ich
-wünschte jetzt nur, daß Wendt und Ei. ich verschwänden …
+wünschte jetzt nur, daß Wendt und Schmidt verschwänden …
 Die Herbstsonne tat mir gut, ich fühlte, wie das Hirn lebhafter
 arbeitete.
 
 War dies ein Wunder gegenüber einem so verzwickten
 Kriminalfall?!
 
-Doch ich mußte Geduld haben. Auch Harst war Kelch
+Doch ich mußte Geduld haben. Auch Harst war noch
 Patient. Unser Sanitätsrat fand sich täglich zweimal ein,
-sein Rezept hieß: Ruhe, Ruhe, Ruhe und frische Lust!
+sein Rezept hieß: Ruhe, Ruhe, Ruhe und frische Luft!
 
 Der Tag verging … Die Nacht verging … Und vormittags
 rollten zwei Krankenstühle, geschoben von zwei strammen
-»Wärtern, zur Aladinstraße. So hatte es Harst gewollt,
+Wärtern, zur Aladinstraße. So hatte es Harst gewollt,
 
 Vor uns erhob sich nun die neue graue Straße, die Reihenhäuser,
 links die Wäscherei mit dem Schornstein, rechts
-die Kneipe … —
+die Kneipe …
 
-Dann kam die grüne Oase in Sicht, die Plätterei, ungemein
-Waisenheim. Die Spiegel selten, über der Pforte leuchtete
+Dann kam die grüne Oase in Sicht, die Plätterei, nunmehr
+Waisenheim. Die Spiegel fehlten, über der Pforte leuchtete
 ein neues Holzschild, geschmackvoll, unauffällig:
 
-Waisenheim Zarnecke.
-Milde Stiftung.
+<p class="centered em">Waisenheim Zarnecke.</p>
+<p class="centered">Milde Stiftung.</p>
 
-Das große Schaufenster rechter Hand blinkte vor Sauber
-1\.01i « Duftige Blafften war Kinderspielzimmer geworden.
+Das große Schaufenster rechter Hand blinkte vor Sauberkeit
+— der einstige Plättraum war Kinderspielzimmer geworden.
 
-31 vor Haustür stand Sohn Kennardy, winkte uns Freundin)
-Idee Ad Erinnere die Borgertentfür, lud uns ein, näherzutreten.
+in der Haustür stand John Kennardy, winkte uns Freundlich
+zu, kam und öffnete die Vorgartentür, lud uns ein, näherzutreten.
 
 Ich drückte seine Hand, ich forschte in seinen Zügen, ich
-wunderte mich, daß der Engländer sein etwas sphinxartigod
-Lächeln nicht mehr zeigte, daß dafür seine Gestalt gestrafften,
-kraftvollen erschien und seine Offene bei aller Liebenswürdigsten
+wunderte mich, daß der Engländer sein etwas sphinxartiges
+Lächeln nicht mehr zeigte, daß dafür seine Gestalt gestraffter,
+kraftvoller erschien und seine Offene bei aller Liebenswürdigkeit
 eine gewisse Härte und Entschlossenheit verriet. »Es freut
 mich«, sagte er, als wir in unseren Stühlen um das Häuschen
 <@pagebreak/>
-dein Obstgarten rollten und er neben uns blieb, »daß Sie,
-meinte Herren, mit versucht haben, mich dem Kriminalrat sensiblen
+in den Obstgarten rollten und er neben uns blieb, »daß Sie,
+meine Herren, mit versucht haben, mich dem Kriminalrat gegenüber
 von jedem Verdacht zu reinigen …«
 
 Auf dem kleinen Wiesenstreifen zwischen den Bäumen
 beschäftigten sich frohe Kinder, alles Mädchen, im warmen
-Oasesssosmenschein mit einem kleinen Berge hellen Sandes,
-Linken mit Hilfe von Blechformen allerlei Kegel, Pyramiden
-»Eheringes und bauten eine Burg mit größtem Gitter unter
-er ’Unleitung einer blonden, leicht ergrauten Frau in Schweintracht.
-Weiter zurück großen in Liegestühlen zwei Backe.
-e und lasen, und hinten am Zaun stand ein erwachsenes
-»nach Mädchen und drehte uns halb den Rücken zu. Ihr
-Zwerges, kurzgeschnittenes Haar lag in Scheitelfrisur- glatt
-W. über dieses seine, Schwermütige Profil war unerkannt:
+Herbstsonnenschein mit einem kleinen Berge hellen Sandes,
+formten mit Hilfe von Blechformen allerlei Kegel, Pyramiden
+und Kringel und bauten eine Burg mit größtem Eifer unter
+er Anleitung einer blonden, leicht ergrauten Frau in Schwesterntracht.
+Weiter zurück saßen in Liegestühlen zwei Backefische
+und lasen, und hinten am Zaun stand ein erwachsenes
+junges Mädchen und drehte uns halb den Rücken zu. Ihr
+schwarzes, kurzgeschnittenes Haar lag in Scheitelfrisur glatt
+an, aber dieses feine, Schwermütige Profil war unverkennbar:
 Es war dasselbe Mädchen, das wir in dem Erkerzimmer
 der muffigen Villa gesehen hatten!
 
-oh blickte rasch zu Sohn Kennardy empor … Seine
-»Frau strahlten, ein glückliches Leuchten ging über Sein Herz,
+Ich blickte rasch zu John Kennardy empor … Seine
+Augen strahlten, ein glückliches Leuchten ging über Sein Gesicht,
 und mit einer Stimme, die seltsam weich und bekannt
-lang, sagte er, mit einer freundlichen Handbewegung auf die
-grollenden Kinder weisend: »Das ist meine Welt, mein Glück,
-wohne Herren …! Und das ist nicht leere Redensart von mir.
-jenen Sie einem Menschen, der ein Herz für Tiere und
-
-weichen hat, etwas Schlechtes zu?«: Er machte eine kurze
-k)oass e, und seine Augen wanderten vielleicht unbewußt nach
-»Westen hin, — dorthin, wo etwa das Haus mit dem verrann«
+klang, sagte er, mit einer freundlichen Handbewegung auf die
+spielenden Kinder weisend: »Das ist meine Welt, mein Glück,
+meine Herren …! Und das ist nicht leere Redensart von mir.
+Trauen Sie einem Menschen, der ein Herz für Tiere und
+Menschen hat, etwas Schlechtes zu?« Er machte eine kurze
+Pause, und seine Augen wanderten vielleicht unbewußt nach
+Westen hin, — dorthin, wo etwa das Haus mit dem verlängerten
 Turm liegen mußte. Und genau so langsam, wie sein
-
-riß in die durch die grauen Mauern der Aladin-Häuser
-versperrte Ferne schwersten, veränderte sich auch sein Gesichtsauadruck.
+Blick in die durch die grauen Mauern der Aladin-Häuser
+versperrte Ferne schweiften, veränderte sich auch sein Gesichtsausdruck.
 Der harte, entschlossene, fast unerbittliche Zug trat
 wieder scharf hervor, und was er nun noch hinzufügte, mußte
 eine ganz besondere, uns unbekannte Bedeutung haben.
 
-»Gut und schlecht, meine Herren, sind sehr dehnbare Beil«
-o. Was. die landläufige Moral als Verbrechen ansieht,
-nun, durch den Zwang der Umstände veranlaßt, trotzdem die
+»Gut und schlecht, meine Herren, sind sehr dehnbare Begriffe.
+Was die landläufige Moral als Verbrechen ansieht,
+kann, durch den Zwang der Umstände veranlaßt, trotzdem die
 <@pagebreak/>
 allgemeine Billigung finden. Mein Gewissen ist rein, und Herr
 Kriminalrat Penz sollte sich nicht so unendlich viel Mühe
-geben, die Schleier einiger Übeltaten zu lösten, die besser
+geben, die Schleier einiger Übeltaten zu lüften, die besser
 im Dunkel der Vergangenheit begraben blieben.«
 
 Harald hatte unsere Wärter durch einen unmerklichen
@@ -1573,75 +1566,75 @@ Frau in Schwesterntracht sich näherte, waren wir ohne Zeugen,
 »Hier … Schwester Elise, — die Herren Harst und
 Schraut …«
 
-Nur das sprach Sohn Kennardy. Aber seine Stimme
+Nur das sprach John Kennardy. Aber seine Stimme
 klang bewegt, klang noch weicher. Und wieder horchte ich
 unwillkürlich auf. In dieser Stimme zitterte ein Ton wie vor
-einer Halse, die ganz sonst ein paar Akkorde in eine erster(-
-sende Melodie mi)lht.
+einer Harfe, die ganz sanft ein paar Akkorde in eine ergreifende
+Melodie mischt.
 
 »Es ist mir eine Freude, Sie beide kennen zu lernen«,
-jagte Schwester Chile genau so schlicht und reichte uns ein?
-schmale, seine Hand.
+sagte Schwester Elise genau so schlicht und reichte uns eine
+schmale, feine Hand.
 
-Ekle Grottenwände, die sich schwer irgendwie beschreiben
-laßt, ging von ihrer gewinnenden Erscheinung aus.
+Edle Frauenwürde, die sich schwer irgendwie beschreiben
+läßt, ging von ihrer gewinnenden Erscheinung aus.
 
-In der Nähe standen zwei Korbljsessel, Kennardy rück!0
+In der Nähe standen zwei Korbsessel, Kennardy rückte
 sie zurecht, und Schwester Elise nahm zwanglos Platz. Dann
 erst setzte sich auch Kennardy. Vorher hatte er noch die Kissen
-des Gestellt der Schwester sorgsam in die richtige Lage gebracht!
-t. und dies mit einer So rührenden Geschäftigkeit und
-Hat ’ schritt (ja Zärtlichkeit war hier der richtige Auge
-Er c?!, daß ihm aus den großen, graublauen Augen der schwelenden
-Frauengestalt ein genau sie liebevoller Blick weil(-
-los dankte.
+des Sessels der Schwester sorgsam in die richtige Lage gebracht,
+und dies mit einer So rührenden Geschäftigkeit und
+Zärtlichkeit (ja — Zärtlichkeit war hier der richtige Ausdruck),
+daß ihm aus den großen, graublauen Augen der imponierenden
+Frauengestalt ein genau sie liebevoller Blick wortlos
+dankte.
 
 Schweigen trat ein. Es war nicht jenes Schweigen, das
-man sie Ost in irgend einem irgendwie zusammengewürfelten
-Kreise von Menschen an pflichtgemäß freundlich gedeckter Rasch
+man so oft in irgend einem irgendwie zusammengewürfelten
+Kreise von Menschen an pflichtgemäß freundlich gedeckter Tafel
 antrifft. Nicht jenes Schweigen, bei dem die Tischgäste krampfhaft
-nach irgend einem neuen Gesprächsstoff suchen, um eiu0
-geistige Öde zu überbrücken. Hier war es das Schweiger
-aus Gründen allzu reichen Unterhaltungsstoffes, denn ihrer
+nach irgend einem neuen Gesprächsstoff suchen, um eine
+geistige Öde zu überbrücken. Hier war es das Schweigen
+aus Gründen allzu reichen Unterhaltungsstoffes, denn hier
 <@pagebreak/>
-wischen uns vier Menschen im Sonnenschein unter herbstlich
-verfärbten Bäumen schwebten unsichtbar die Geister, schnellten
-Geheimnisse mitgezählt, und es bedurfte nur eines Wortes,
-Ding dieser Gespenster heraufzubeschwören.
+zwischen uns vier Menschen im Sonnenschein unter herbstlich
+verfärbten Bäumen schwebten unsichtbar die Geister, schwebten
+Geheimnisse ungezählt, und es bedurfte nur eines Wortes,
+eins dieser Gespenster heraufzubeschwören.
 
 Harald hatte sein Zigarettenetui hervorgeholt …
 
-»die gestatten doch, Schwester Chile …
+»Sie gestatten doch, Schwester Elise …«
 
-Dann reichte er es Kennardy. »Bitte
+Dann reichte er es Kennardy. »Bitte …«
 
-Und dabei fragte er ganz harmlos: »Schwester Chile,
+Und dabei fragte er ganz harmlos: »Schwester Elise,
 waren Sie nicht auch in der sehr ungesunden Villa in der
 Weinberg-Allee bei Miß Harriet Kennardy in Stellung?«
 
 »Ja …« Es klang kalt und ablehnend, — sie erhob sich
-auch sofort und fügte hastig hinzu: »doch werde mich um das
-Mittagessen kümmern müssen«, und schritt davon und versbwand
+auch sofort und fügte hastig hinzu: »Ich werde mich um das
+Mittagessen kümmern müssen«, und schritt davon und verschwand
 im Hause.
 
 John Kennardy erbleichte immer stärker, — ich sah es erst
-jetzt, — Seine Augen hasteten wie gebannt auf der rechten
-Feile des goldenen Etuis. wo keine Zigaretten unter dem
-je Aden Seidengummiband steckten, sondern eine unausgezogene
-U)s)owgraphw Größe 5 mal 8.
+jetzt, — seine Augen hafteten wie gebannt auf der rechten
+Seite des goldenen Etuis, wo keine Zigaretten unter dem
+gelben Seidengummiband steckten, sondern eine unaufgezogene
+Photographie Größe 5 mal 8.
 
 Ich schaute schärfer hin, ich wußte nichts von diesem
 Bilde, ich hatte nicht gewußt, daß Harald damals den kleinen
-»Fliomyntapparat unter die Weste geknöpft gehabt und eine
-Ausnahme gemacht hatte.
+Momentapparat unter die Weste geknöpft gehabt und eine
+Aufnahme gemacht hatte.
 
-Das Bild zeigte den richtenden Teil der riesigen Fliegenkarte,
+Das Bild zeigte den mittleren Teil der riesigen Fliegenkarte,
 von deren Vorhandensein wir niemandem etwas verraten
 hatten.
 
-»Bedienen Sie sich, Mr. Kennardy …«, Kruste Harald
-Spitze. »Oder — verdirbt Ihnen die schöne Photographie den
-Appetit auf eine meiner- Mirakulum?!«
+»Bedienen Sie sich, Mr. Kennardy …«, meinte Harald
+leise. »Oder — verdirbt Ihnen die schöne Photographie den
+Appetit auf eine meiner Mirakulum?!«
 
 Es war vielleicht grausam von ihm, dieses Spiel mit
 den Nerven John Kennardys, aber dieses Spiel war lehrreich,
@@ -1653,17 +1646,17 @@ Er hatte sich bereits wieder in der Gewalt.
 
 »Was stellt denn das Bildchen dar?«, — und er griff
 <@pagebreak/>
-zu, nahm eine der Zigaretten und nahm mit genau sie ruhiger
+zu, nahm eine der Zigaretten und nahm mit genau so ruhiger
 Hand von mir ein Zündholz an.
 
-Harald klappte das Film wieder zu. »Einem Teil einer
-je«!Jsu1uen Weltkarte, Kennardy …«, — — und er rauchte die!
+Harald klappte das Etui wieder zu. »Einem Teil einer
+seltsamen Weltkarte, Kennardy …«, — und er rauchte drei
 Züge …
 
-John Kennardy lächelte. Sekt war es das Lächeln von
-früher, etwas selbstbewußt, etwas ironisch, etwas geringjcs)ähsfi
-»Ich sie, — die Fliegenkarte …! Aus dem Schwamm-Haus!«
-Seine Augen boegregneten denen Harsts mit vollkommener Gleichgültigkeit.
+John Kennardy lächelte. Jetzt war es das Lächeln von
+früher, etwas selbstbewußt, etwas ironisch, etwas geringschätzig.
+»Ach so, — die Fliegenkarte …! Aus dem Schwamm-Haus!«
+Seine Augen begegneten denen Harsts mit vollkommener Gleichgültigkeit.
 »Eine etwas seltsame Idee von meiner Schwester,
 den Kindern beim Unterricht die langweilige Geographie durch
 aufgeklebte Fliegen interessanter zu gestalten … Genau wie man
@@ -1671,47 +1664,47 @@ die ganz Kleinen aus Knetgummi in der Schule Tierfiguren
 modellieren läßt. Die Wege, den Kindern den Unterrichtsstoff
 schmackhaften zu machen, sind sehr verschieden …«
 
-»Allerdings — auch bei Erwachsenen«, nickte Harst stand
-vieldeutig, und dann sprach er plötzlich von Louise Feuertod
-Fensterspiegel …!
+»Allerdings — auch bei Erwachsenen«, nickte Harst etwas
+vieldeutig, und dann sprach er plötzlich von Louise Zarneckes
+Fensterspiegel …
 
-Ich fühlte genau: Harst hatte hier den Kampf um div
-Wahrheit eröffnet. Ich merkte, hier kämpften zwei ebene
-bärtige Gegner, einer, der das Dunkle lichten wollte, der
+Ich fühlte genau: Harst hatte hier den Kampf um die
+Wahrheit eröffnet. Ich merkte, hier kämpften zwei ebenbürtige
+Gegner, einer, der das Dunkle lichten wollte, der
 andere, der dieses Dunkel noch zu verstärken suchte.
 
-Erwacht saß straff aufgerichtet da.
+Kennardy saß straff aufgerichtet da.
 
 Gewiß, Seine Stimme hatte wieder den etwas brüchigen,
-besseren, tiefen Klang, aber die halb geschlossenen Augen un
-die Halten auf der Stirn und ein gewisser Zug von trotzigem
-Zum um die Nordwinkel unterstrichen gleichsam seine Antwort
+heiseren, tiefen Klang, aber die halb geschlossenen Augen und
+die Falten auf der Stirn und ein gewisser Zug von trotzigem
+Mut um die Mundwinkel unterstrichen gleichsam seine Antwort
 
-»Unsere Wohltäterin Louise Zarnecke hat mit mir alt
-übe: die Bedeutung der Fensterspiegel gesprochen, — das hab’
+»Unsere Wohltäterin Louise Zarnecke hat mit mir nie
+über die Bedeutung der Fensterspiegel gesprochen, — das habe
 ich bereits betont …«
 
 Ein Windstoß kam, wirbelte welke Blätter hoch und
-war] Harald einen Papierschnitzel in den Schoß …
+warf Harald einen Papierschnitzel in den Schoß …
 
-Er sagte dann versöhnlich und ablenkend: »Das Steine
+Er sagte dann versöhnlich und ablenkend: »Das Thema
 regt Sie auf, Kennardy … Streichen wir es! Gehen wir
 <@pagebreak/>
-s« den Kindern …« — Er griff nach seinen Blöcken, vergl
+zu den Kindern …« — Er griff nach seinen Stöcken, verließ
 den Rollstuhl, und ich humpelte hinterdrein
 
 Die folgende halbe Stunde war er nur Kinderfreund
-und Spielsgefährte, — das Mädchen, das eins! tizianrot gewesen,
+und Spielgefährte, — das Mädchen, das einst tizianrot gewesen,
 hatte sich entfernt. Wir lernten sie nicht kennen. Dann
-insab]cbiodoton wir uns, und unsere Krankenwärter schoben
-wxi Y))aiienten heim, die der Krücken wahrlich nicht mehr
-Touristen.
+verabschiedeten wir uns, und unsere Krankenwärter schoben
+zwei Patienten heim, die der Krücken wahrlich nicht mehr
+bedurften.
 
 <h2>2. Kapitel.</h2>
 
 <h3>Ein. Nachtflug nach England.</h3>
 
-»Es ist vielleicht bei Unterarm Liebhabersport zuweilen recht
+»Es ist vielleicht bei unserem Liebhabersport zuweilen recht
 beschämend«, meinte Harald unterwegs, »daß man seine Zuflucht
 zu Mitteln nehmen muß, die einem Selbst widerwärtig
 bescheinen.
@@ -2186,7 +2179,7 @@ Hausnummer, winzig klein.
 »Donnerwetter!!«
 
 »Notieren Sie jetzt all die Namen der Filialleiter, jede
-Kriege ist eine Filiale, der FSliegenschmuts bezeichnet die Weste,
+Kriege ist eine Filiale, der Fliegenschmutz bezeichnet die Weste,
 den die »Ware« rinnt, auch das notieren Sie, und dann
 senden Sie die nötigen Depeschen ab …«
 
@@ -2349,7 +2342,7 @@ kämen. »Lieber Herr Kennardy, auch der letzte Albdruck ist
 nun von Ihnen genommen. Ihre Schwester ist tot, Schley ist
 tot, auch die anderen, die darf in der Wöäscherei ihr HaYsquartier
 hatten … Ihrer Schwester ureigenste teuflische Erfindung,
-die Erstaunten, haben schiksalhaft vernichtend eine
+die Erstaunten, haben schicksalhaft vernichtend eine
 gegriffen. Sie selbst und die einigen sind außer Verdacht!
 und Gefahr. Die Kriminalpolizei wird sich nicht weiter um
 obu Familienangelegenheiten kümmern, und nach einiger Hell
@@ -2364,7 +2357,7 @@ Geste lud er zum Nähertreten ein. — Es war ein Marmor
 Herbstes, hinten im Garten spielten wieder die Kinder,
 Schwester Chile und das schwermütige junge Mädchen mit den
 jetzt schwarzen Scheitel Saßen in Korbsesseln auf dem runden
-Kiezplat, unser Erscheinen scheuchte das Mädchen empor, See
+Kießplatz, unser Erscheinen scheuchte das Mädchen empor, See
 <@pagebreak/>
 halb rief herzlich: »Bleiben Sie nur, Fräulein Louise, — was
 mit Ihren Eltern zu besprechen habe, dürfen Sie getrost
