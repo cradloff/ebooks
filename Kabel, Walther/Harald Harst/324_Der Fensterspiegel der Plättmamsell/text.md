@@ -1104,7 +1104,7 @@ daran ließ sich nichts ändern. Wir arbeiteten möglichst schnell,
 und doch gab es diese oder jene Verzögerung, und schon die
 Feststellung, daß die beiden Spiegel, obwohl viereckig, dennoch
 nach der Mitte zu eingebaucht waren (also Hohlspiegel), machte
-den Landmeosser sehr stutzig. Trotzdem war das Ganze in knapp
+den Landmesser sehr stutzig. Trotzdem war das Ganze in knapp
 zehn Minuten erledigt, und als wir wieder daheim eintrafen
 wußten wir eins mit aller Bestimmtheit: Es hatte sich bei der
 Spiegeleinrichtung überhaupt nicht um harmlose Fensterspiegel,
@@ -1525,7 +1525,7 @@ Herbstsonnenschein mit einem kleinen Berge hellen Sandes,
 formten mit Hilfe von Blechformen allerlei Kegel, Pyramiden
 und Kringel und bauten eine Burg mit größtem Eifer unter
 er Anleitung einer blonden, leicht ergrauten Frau in Schwesterntracht.
-Weiter zurück saßen in Liegestühlen zwei Backefische
+Weiter zurück saßen in Liegestühlen zwei Backfische
 und lasen, und hinten am Zaun stand ein erwachsenes
 junges Mädchen und drehte uns halb den Rücken zu. Ihr
 schwarzes, kurzgeschnittenes Haar lag in Scheitelfrisur glatt
@@ -1707,38 +1707,37 @@ bedurften.
 »Es ist vielleicht bei unserem Liebhabersport zuweilen recht
 beschämend«, meinte Harald unterwegs, »daß man seine Zuflucht
 zu Mitteln nehmen muß, die einem Selbst widerwärtig
-bescheinen.
+erscheinen.«
 
-Zuruf Wendt, der Haralds Wagen schob, erlaubte sich
+Julius Wendt, der Haralds Wagen schob, erlaubte sich
 den Einwurf: »Auf den guten Zweck und den voraussichtlichen
-Erfolg kommt es an, Herr Harst … Tau unfeinen Mitteln
-steilen, wenn ein Erfolg nicht zu erwarten ist, bleibt alleinige
+Erfolg kommt es an, Herr Harst … Zu unfeinen Mitteln
+greifen, wenn ein Erfolg nicht zu erwarten ist, bleibt alleinige
 … Lumperei.«
 
 Über den tieferen Sinn dieser Bemerkungen sollte ich
-»ist daheim Ausschluß erhalten. Wir saßen in Harsts Alles«
-ittzimmer, die Standuhr schlug zwölf, es war noch früh am
-
-gar.
+erst daheim Aufschluß erhalten. Wir saßen in Harsts Arbeitszimmer,
+die Standuhr schlug zwölf, es war noch früh am
+Tage.
 
 »Meine Beute …«, sagte er unerwartet und legte einen
 Papierschnitzel, ein zusammengedrücktes Stück Pappe von
-einer Schachtel und ein größeres Stück eines bunten Papierschildßchens
+einer Schachtel und ein größeres Stück eines bunten Papierschildchens
 auf den Rauchtisch zwischen uns. »Bitte, schaue
 dir die Dinge an, mein Alter … Oder besser, ich will dir
 sofort erklären, um was es sich handelt. Beide Papierstücke
-ins Teile der buntbedruckten Deckelschildchen von Glanztärkekartons,
-die Pappe führst von einem solchen Karton
+sind Teile der buntbedruckten Deckelschildchen von Glanzstärkekartons,
+die Pappe rührt von einem solchen Karton
 <@pagebreak/>
 her, und das, was mich unter den spielenden Kindern zum
-Diebe werden ließ, ist dies hier …« Er zeigte auf das kleinst0
+Diebe werden ließ, ist dies hier …« Er zeigte auf das kleinste
 Stückchen Papier. »Der Wind warf es mir in den Schoß, —
-ich warf einen Blick darauf. und in demselben Moment dichtete
+ich warf einen Blick darauf, und in demselben Moment dichtete
 mein Hirn blitzgeschwind einen ganzen Roman zusammen
 …! — Phantasie, holde Phantasie, die den Dichter Märchenländer
-und Mäöärchengestalten schaffen läßt … Nun, die
+und Märchengestalten schaffen läßt … Nun, die
 ehemals deutsche Provinz Posen mit ihrer gleichnamigen
-Hauptstadt, heulte Poznan, ist nie ein Märchenland gewesen,
+Hauptstadt, heute Poznan, ist nie ein Märchenland gewesen,
 aber hat immer reichlich Kartoffeln hervorgebracht, und
 Glanzstärke für Plättereien gewinnt man aus Kartoffeln, das
 weiß der dümmste Bauer, der die dicksten Kartoffeln erntet,
@@ -1750,131 +1749,130 @@ einen Stempel der genannten Fabrik.«
 
 Er lächelte über mein etwas verständnisloses Gesicht. »Oh,
 du wirst schon begreifen, mein Alter … Deutschland stellt selbst
-so viel Flasche her, daß eine Einfuhr von Stärke mit hohem
-Ort! belegt ist … Da die Kinder ’in Waisenheim Zarnecke
-zum Spielen und mit zum Emporkamen nur polnische leere
+so viel Stärke her, daß eine Einfuhr von Stärke mit hohem
+Zoll belegt ist … Da die Kinder im Waisenheim Zarnecke
+zum Spielen und mit zum Burgenbauen nur polnische leere
 Stärkeschachteln benutzen, liegt die Annahme sehr nahe, daß
 Louise Zarnecke ihre Glanzstärke aus Poznan bezog … —
-Moerkwürdig, nicht wahr!«
+Merkwürdig, nicht wahr!«
 
-»»Vielleicht geschmuggelte, billigere Stärke«, verteidigte ich
+»Vielleicht geschmuggelte, billigere Stärke«, verteidigte ich
 die tote Louise Zarnecke … Obwohl es auch mir nicht recht
-gefiel, daß die Harnecke sich fremder Ware bedient hatte.
+gefiel, daß die Zarnecke sich fremder Ware bedient hatte.
 
 Harald schaute mich lange an. »Sicherlich Schmugglerware
 … Nur daß bei Glanzstärke sehr wenig zu verdienen
 ist. — Nun wollen wir dieses Fabrikat erledigt sein lassen …
-Ach erinnere dich daran, daß Doktor Schley seine Dienstboten,
+Ich erinnere dich daran, daß Doktor Schley seine Dienstboten,
 die alle vorbestraft waren, entlassen hat. Er hat inzwischen
 neue eingestellt, seine Villa ist die letzte nach dem Rienmeistersee
-zu, liegt einsam, — — ich habe Schley nicht e getraut, nie …
-
+zu, liegt einsam, — — ich habe Schley *nie* getraut, nie …
 <@pagebreak/>
 Meine andersgearteten Äußerungen waren … Schwindel
-Drittens: Du siehst das Mancher mit dem schwarzen
-Verhaftet, Kennardy stellte sie uns nicht vor … — Weshalb?!
+— Drittens: Du sahst das Mädchen mit dem schwarzen
+Scheitel, Kennardy stellte sie uns nicht vor … — Weshalb?!
 — Weil er fürchtete, wir würden sie wiedererkennen. Weiter
 dann: Ich hatte die Fliegenkarte photographiert, Kennardy
-schleiche, — mir genügte das. Und schließlich: Wir lernten
-Schneller Elise kennen, wir lernten auch Kennardys zweite,
-echte Stimme kennen, die gütige, weiche. —»In den Tagen, als
+erbleichte, — mir genügte das. Und schließlich: Wir lernten
+Schwester Elise kennen, wir lernten auch Kennardys zweite,
+echte Stimme kennen, die gütige, weiche. — In den Tagen, als
 du noch im Bett lagst, bin ich unheimlich tätig gewesen, ich
 habe ganz insgeheim ein Netz gesponnen, und … die Fliege
-sitzt fast. Sie heißt Harriet Kennardy, ehemals Studentin der
-Chemie, die den Doktortitel erwarb, die bei Professor Salons
-in London erste Assistentin war, und Salons hat während
-des Krieges das önstitut für Eisiges geleitet. — Du siehst,
-—»aß alles bei wirklich sorgfältiger Nachforschungen herumkommt.«
+sitzt fest. Sie heißt Harriet Kennardy, ehemals Studentin der
+Chemie, die den Doktortitel erwarb, die bei Professor Kellong
+in London erste Assistentin war, und Kellong hat während
+des Krieges das Institut für Giftgase geleitet. — Du siehst,
+was alles bei wirklich sorgfältiger Nachforschungen herauskommt.«
 
-Noch hielt den Atem an … Fragte dann ehrlich entsetzt
+Ich hielt den Atem an … Fragte dann ehrlich entsetzt:
 
 »Harriet ist die Mörderin, die Quallenschützin?«
 
 »ja! Sie ist es.«
 
-»und Sohn weiß das?«
+»und John weiß das?«
 
 »Ja … Er weiß es … Aber er selbst steht rein da.
 Ich kenne jetzt seine Geheimnisse. Grauen, Entsetzen, Romantik
 und innige Liebe mischen diese beiden Geheimnisse zu einem
-dunklen Trank … Ich sage: 5 wer Geheimnisse! — Sie liegen
+dunklen Trank … Ich sage: *Zwei* Geheimnisse! — Sie liegen
 nebeneinander her, diese beiden, — das eine war eine große
 Tragik, das andere ein großes Verbrechen, bis der Tag kam,
 wo diese beiden düsteren Pfade ineinandergerieten und wir,
-da wir nur nach einem Problem suchten, durch das zweite
+da wir nur nach *einem* Problem suchten, durch das zweite
 in die Irre geführt wurden. Der Tag war der siebente September
 dieses Jahres, und an diesem Tage, auch das habe ich
 ermittelt, fand man nachts im Norden Berlins in einer Hausecke
 eine tote Frau, man begrub sie als »unbekannt«, und
-doch war sie zweifellos keines natürlichen Codes gestorben,
-wüte ich annehme, denn es war Sohn Kennardys verschollene
-Gattin, mit der er nur ein halbes Jahr zusammengelebt hatte
+doch war sie zweifellos keines natürlichen Todes gestorben,
+wie ich annehme, denn es war John Kennardys verschollene
+Gattin, mit der er nur ein halbes Jahr zusammengelebt hatte.
 <@pagebreak/>
 — Starre mich nicht es entgeistert an. Die Photographie der
-Frau Marry Kennardy war in London durch unsere ArgusLoute
-leicht zu beschlossen, Direktor Maß war selbst im Flugzeug
-drüben, und Maß versteht seinen Kram … Die Tote
-war auch hier von der Polizei ybologmpb]ert worden, ein
+Frau Marry Kennardy war in London durch unsere Argus-Leute
+leicht zu beschaffen, Direktor Matz war selbst im Flugzeug
+drüben, und Matz versteht seinen Kram … Die Tote
+war auch hier von der Polizei photographiert worden, ein
 Irrtum ist ganz ausgeschlossen, und dies um So weniger, als
-ein Unbekannter für Ahnung] Kennardys Grab einen Stein
-und ’Dlunien bestellte …
+ein Unbekannter für Marry Kennardys Grab einen Stein
+und Blumen bestellte …«
 
-Ich blieb stumm. — — Es war zu viel aus mich eingestürmt.
-Schlag auf Schlag nahm Harald mir seine Neuigkeiten versetzt,
+Ich blieb stumm. — Es war zu viel auf mich eingestürmt.
+Schlag auf Schlag hatte Harald mir seine Neuigkeiten versetzt,
 und trotzdem ich nun wohl alles wußte: Was bedeutete
 das Ganze?!
 
 Harald sprach schon weiter. »Wollte ich dir nun hier
-meinen »Roman« bezahlen, das heißt also mein Phantasieprodukt,
+meinen »Roman« erzählen, das heißt also mein Phantasieprodukt,
 entstanden durch polnische Glanzstärke, würde ich
-einen groben Keller begehen. So bestimmt ich weiß, daß ich
+einen groben Fehler begehen. So bestimmt ich weiß, daß ich
 das Wild eingekreist habe, so sehr gebietet mir auch die Rücksichtnahme
-auf Sohn Kennardy, diese Sache geräuschlos zu
+auf John Kennardy, diese Sache geräuschlos zu
 beenden. Mein Feldzugsplan ist im Kopfe fertig … Du kannst
 nun wieder draußen Sonne genießen, meine Arbeit ist weniger
 sonnig, glaube mir. Bitte — kein gekränktes Gesicht! Ich
-verspreche dir, Spaß du bei dieser ausgedehnten Sache noch
+verspreche dir, daß du bei dieser ausgedehnten Sache noch
 sehr viel mithelfen wirst …«
 
-Kurze Fäuste …
+Kurze Pause …
 
-»Heute abend -»Hm Uhr stiegen wir nach England, nach
--’xxnnardu-chous »Yx-srxod]Alt dich das?!«
+»Heute abend zehn Uhr fliegen wir nach England, nach
+Kennardy-House … — Befriedigt dich das?!«
 
-»England« ).lud der zwecks?!«, meinte ich etwas beunruhigt.
+»England* und der Zweck?!«, meinte ich etwas beunruhigt.
 
 Harald zauderte merklich. »Nimm an, ich will dort die
-Personen finden, die seit langem einen Luftverkehr nach Kennardy-Hause
+Personen finden, die seit langem einen Luftverkehr nach Kennardy-House
 heimlich unterhalten und die imstande wären,
 andere mit in ihren Untergang hineinzuziehen. Harriet ist bekanntlich
-in England, Schley auf Eimer Dienstreise, und diese
+in England, Schley auf einer Dienstreise, und diese
 gab den Ausschlag. — Matz, der ja nebenbei Flugzeugführer
 ist, wird unsere Maschine steuern, sein Angestellter Gert Preibisch
 <@pagebreak/>
 ist schon seit Tagen dort und sorgt dafür, daß wir an der
-richtigen Stelle landen. oh möchte die Entscheidung von hier
+richtigen Stelle landen. Ich möchte die Entscheidung von hier
 herbeiführen, — ob es mir gelingt, ist allerdings fraglich …«
 
-— Seinem Gesichtsausdruck nach würde es wohl bei dieser
+Seinem Gesichtsausdruck nach würde es wohl bei dieser
 Entscheidung recht bewegt zugehen. — —
 
-Punkt zehn stiegen wir vom Flugplatz Staaten auf, wir
+Punkt zehn stiegen wir vom Flugplatz Staaken auf, wir
 hatten Rückenwind, in knapp vier Stunden bemerkten wir
-Mutter uns auf einsamem Heidegelände zwischen dünnen Nebelschleiern
-einen kleinen Scheinwerfer. Wir landeten ohne Müde,
+unter uns auf einsamem Heidegelände zwischen dünnen Nebelschleiern
+einen kleinen Scheinwerfer. Wir landeten ohne Mühe,
 Preibisch kam herbeigelaufen, und alles schien in bester Ordnung
 zu Sein, als die Tür zur Heckkammer aufflog und Christian
 Würzels zwinkernde Augen uns hohnvoll musterten.
 
-»Da bin ich«, Jagte er triumphierend, »Fratze hätte besser
-aufpassen sollen, blinde Passagiere schleichen sich auch in Glasauge
-ein … Herr Harst, angeblich kennen Sie den Quallentod)
-üben nicht, auch Rat Penz hat Föhnen das nicht geglaubt,
+»Da bin ich«, sagte er triumphierend, »Matz hätte besser
+aufpassen sollen, blinde Passagiere schleichen sich auch in Flugzeuge
+ein … Herr Harst, angeblich kennen Sie den Quallenschützen
+nicht, auch Rat Penz hat Ihnen das nicht geglaubt,
 dieses undurchsichtige Spiel Soll endlich beendet werden.«
 
 Harald betrachtete ihn mitleidig. »Sie haben Pech, Herr
-Würzel … In Deutschland könnten Sie dieses scharfe Türchen
-anschlagen, nicht hier in England! — —Bitte, zurück in
+Würzel … In Deutschland könnten Sie dieses scharfe Tönchen
+anschlagen, nicht hier in England! — — Bitte, zurück in
 die Kammer, wo Sie sich unter den wollenen Reisedecken versteckt
 hatten … Ein blinder Passagier ist ein Fahrgeldbetrüger,
 gehorchen Sie, oder …!!«
@@ -1890,97 +1888,94 @@ brechen wir auf …«
 Preibisch führte uns, bis zur Farm hatten wir noch
 zwanzig Minuten zu gehen, wir hörten in der Ferne das Meer
 an die felsige Küste branden, der Nebel wurde dichter, Preibisch
-hatte die drei Wachthunde der Asiatin bereits betäubt,
+hatte die drei Wachthunde der Farm bereits betäubt,
 der Weg durch den Garten war frei, wir standen vor einem
 <@pagebreak/>
-orlouck)teten Erdgeschoßfenster, die Vorhänge schlossen nicht
-ganz dringt, drinnen im Zimmer war es taghell, an einem
-Zck)w]bisher) saß eine angegraute, zierliche Frau und bearbelifete
-mit flinken Händen die Lassen einer Schreibmaschine, hintkv’
+erleuchteten Erdgeschoßfenster, die Vorhänge schlossen nicht
+ganz dicht, drinnen im Zimmer war es taghell, an einem
+Schreibtisch saß eine angegraute, zierliche Frau und bearbeitete
+mit flinken Händen die Tasten einer Schreibmaschine, hinter
 ihr an der Wand hing die berüchtigte, bisher nicht auffindbare
-Fliegenkarte, und — — so sah ich Harriet Kennardy Turm
-gelten Male ohne Maske, ihre dünnen Lippen, der hart«,
+Fliegenkarte, und — — *so* sah ich Harriet Kennardy zum
+ersten Male ohne Maske, ihre dünnen Lippen, der harte,
 unbeugsame Zug um den Mund verrieten zur Genüge ihren
 brutalen Charakter.
 
-Heimlich sie plötzlich die Atchinesen Hände sinken, blickte
+Dann ließ sie plötzlich die schmalen Hände sinken, blickte
 nachdenklich vor sich hin, griff neben sich nach dem Telephonhörer,
 führte ein kurzes Gespräch, gähnte und wandte den
-
-pf.
+Kopf.
 
 Ein Mann erschien: Rechtsanwalt Schley! Groß, massig,
-beweglich, tadellos angezogen, dieZiaarette im Mundwinkel,
+beweglich, tadellos angezogen, die Zigarette im Mundwinkel,
 halb lächelnd, — sie sprachen miteinander, wir vernahmen nur
-ein Murmeln, Schley setzte sich an die Schreibmaschine, Herrin!
+ein Murmeln, Schley setzte sich an die Schreibmaschine, Harriet
 ging zu der Fliegenkarte, nahm vom Nebentisch einen elektrischen
 Zigarrenanzünder und benutzte ihn als Taschenlampe,
 obwohl die glühenden Drähte des mit einer langen Kontaktschnur
 versehenen kleinen Apparates doch kaum erhebliche
 Lichtwirkung haben konnten.
 
-Gräßlich zischelte Preibisch hinter uns: »Hier liegen das
-Kupferdrähte oben auf dem Rasen … Hier, Herr Harst …
+Plötzlich zischelte Preibisch hinter uns: »Hier liegen die
+Kupferdrähte oben auf dem Rasen … Hier, Herr Harst …«
 
-»Nicht Anführers« — aber es war zu spät …
+»Nicht anrühren!« — aber es war zu spät …
 
-weiter glitt wie ein Schatten aus unserem GesxchZjosd
-im Finger erlosch das Licht …
+Harriet glitt wie ein Schatten aus unserem Gesichtsfeld,
+im Zimmer erlosch das Licht …
 
-Harald hatte schon in die Wantoltafck)ch gefaßt …
+Harald hatte schon in die Manteltasche gefaßt …
 
-»Da — — schnell, — in jedes Nasenloch eine ’der Kaptain,
+»Da — — schnell, — in jedes Nasenloch eine der Kapseln,
 recht fest hineinschieben, dann nur durch die Nase atmen,
-Schnell … Und nachher Bewußtlosigkeit vortäuschen … Richten
-euch ganz nach mir und,
+Schnell … Und nachher Bewußtlosigkeit vortäuschen … Richtet
+euch ganz nach mir und …«
 
-Klatsch …! — Gegen Psesbsjcl)’ Schulter war surrend eins
-der Aatandescl)osse geflogen — wie ein Stück Gallert … Ein
-zweites folgte, traf Matz am Hinterkopf, hersandte, 9]schoß
+Klatsch …! — Gegen Preibisch’ Schulter war surrend eins
+der Satansgeschosse geflogen — wie ein Stück Gallert … Ein
+zweites folgte, traf Matz am Hinterkopf, zerstäubte, eisiger
 <@pagebreak/>
 Hauch umgab uns, eine ganz unnatürliche Kälte …: Harst
 taumelte, fiel, — wir taten es ihm gleich, wir lagen quer
 übereinander, ich hatte die Lippen ganze fest zusammengepreßt,
-die stark eingefetteten Nasenlochkapselin, nichts anderes als
+die stark eingefetteten Nasenlochkapseln, nichts anderes als
 winzige Gasmasken, erfüllten ihren Zweck, ich verspürte nicht
-Mantel ein Schwindelgefühl, ich hörte ein helles, grausames
+einmal ein Schwindelgefühl, ich hörte ein helles, grausames
 Lachen, dazu Schleys tiefe Stimme, noch eine dritte, und das
 war die des Dieners des Rechtsanwalt, der damals vor dem
 Tor die Leiche des Brasilianers bewacht hatte.
 
-Ein Auto starrte … Man packte mich, wir flogen wie
+Ein Auto surrte … Man packte mich, wir flogen wie
 die Toten in den Wagen hinein, die Kerle machten nicht viel
 Aufhebens mit uns, das Auto ruckte an, Schley schien es zu
-feuern, — es ging über offene Heide, der Wagen schaukelte
-sank, hielt … —
+steuern, — es ging über offene Heide, der Wagen schaukelte
+stark, hielt … —
 
 Was würde geschehen?!
 
 Ein böses Lachen wieder … »Dort steht das Flugzeug …
-hinein mit ihnen … Und dann lassen wir die vier Herren Farbigen,
+hinein mit ihnen … Und dann lassen wir die vier Herren aufsteigen,
 die Maschine stürzt schon selbst ab, und daß sie Feuer
-sagt, — — Benzin genügt …! — Nachher: Ein Unfall«
-
-hier schien das alles für einen glänzenden Miß zu halten …
+fängt, — — Benzin genügt …! — Nachher: Ein Unfall!!«
+Schley schien das alles für einen glänzenden Witz zu halten …
 
 Wieder wurde ich emporgehoben, zwischen die Sitze der
-…: ins gewartet, — jemand fiel über mich, dem Gewicht nach
-konnte es nur Maß Sein. dann verbreitete sich Benzingeruch,
-Ich hörte das Gluckern des Auserlesene des Brennstoffes aus
+Kabine geworfen, — jemand fiel über mich, dem Gewicht nach
+konnte es nur Matz Sein, dann verbreitete sich Benzingeruch,
+ich hörte das Gluckern des Ausfließens des Brennstoffes aus
 einer Blechkanne, — die Kabinentür flog zu, die Maschine
-sollte, das Sausen des Propellers wuchs, ein paarmal stieß
+rollte, das Sausen des Propellers wuchs, ein paarmal stieß
 das Fahrgestells hart auf, — — und endlich Harsts Kommando:
 
-»Maß. los — an das Steuer! Der Gelegt ist dick wie
+»Matz, los — an das Steuer! Der Nebel ist dick wie
 Brei … Die Trinkwasserkannen her … über den Kabinenboden
 gießen, damit der Benzin nicht aufflammt …«
 
 Plötzlich ging die Beleuchtung an … Das Flugzeug hob
-M) vom Boden, wir starrten uns in die halb verzerrten See
+sich vom Boden, wir starrten uns in die halb verzerrten Gesichter
+…
 
-echter …
-
-»Verdammt, — war das eine Nervenprobe!«, sagte Herr
+»Verdammt, — war das eine Nervenprobe!«, sagte Gert
 Preibisch nur.
 
 <@pagebreak/>
@@ -1988,19 +1983,19 @@ Harald schloß die kleine Tür zur Heckkammer, — nein,
 er wollte sie aufschließen, — — sie war nur eingeklinkt, der
 Schlüssel fehlte …
 
-»Würzels«, brüllte Harst in den engen Raum hinein …
+»Würzel!!«, brüllte Harst in den engen Raum hinein …
 
 Kein Würzel meldete sich. Der Zitteraal war entwichen,
 
-Gerast vermochte sich in diesem Augenblick kaum zu beherrschen.
-»Alles schlägt fehl — alles …!!l Mein Programm
+Harald vermochte sich in diesem Augenblick kaum zu beherrschen.
+»Alles schlägt fehl — alles …!! Mein Programm
 sah etwas anders aus!! — Matz, wir müssen wieder landen,
 sofort … Würzel rennt da blindlings in den Tod hinein!! —
-Maß — — landen … ll«
+Matz — — landen …!!«
 
 Wir fieberten nicht … Das war mehr als Fieber, das
-war ein Anspannen der Nerven bis zum äußersten … — Vor
-Propeller schwieg … Gleitflug im Nebel … Das Zahnarztes!
+war ein Anspannen der Nerven bis zum äußersten … — Der
+Propeller schwieg … Gleitflug im Nebel … Das Fahrgestell
 streifte eine Baumkrone … Dann ein harter Ruck …
 
 Wir atmeten auf … — Preibisch reichte mir die Kognakflasche
@@ -2008,20 +2003,20 @@ Wir atmeten auf … — Preibisch reichte mir die Kognakflasche
 
 Und dann rannten wir durch englischen Nebel über englische
 Heide, die Farm zu suchen … Matz blieb bei unserer
-wackeren Maschine … Drei Menschen rannten, um Anstalt
+wackeren Maschine … Drei Menschen rannten, um Zitteraals
 Leben zu retten …
 
 <h2>3. Kapitel.</h2>
 
-<h3>Brandstifter, — — und sonst noch?.</h3>
+<h3>Brandstifter, — — und sonst noch?</h3>
 
 … Der tüchtige Christian Würzel hat uns nachher alles
-alt genau erzählt. Er war weder ein Feigling noch ein Dummkopf,
+haargenau erzählt. Er war weder ein Feigling noch ein Dummkopf,
 er hatte sich lediglich in den Gedanken verbissen, durch
-den Kali Zarnecke Karriere zu machen. Die Wahrheit über
+den Fall Zarnecke Karriere zu machen. Die Wahrheit über
 Louise Zarnecke erfuhr er weit später, und trotzdem kletterte
 er eine Stufe höher, trotzdem wurde er belohnt. Er hatte
-aus verdient.
+es verdient.
 
 Er kannte alle Einbrechertricks, für ihn war es nicht
 schwer, den Schlüssel aus dem Schloß der Tür der Heckkammer
@@ -2030,289 +2025,289 @@ herauszustoßen und mit seinem Dietrich den Riegel zurückschnappen
 zu lassen.
 
 Er war bereits frei, als wir kaum im Nebel verschwunden
-waren, er hatte sich uns an die Fersen geleitet, hatte die
+waren, er hatte sich uns an die Fersen geheftet, hatte die
 Vorfälle im Farmgarten beobachtet und doch derart falsche
-Schüsse gezogen: Er hielt uns für trat, und es machte ihm alle
+Schlüsse gezogen: Er hielt uns für tot, und es machte ihm alle
 Ehre, daß er allein den Mut aufbrachte, dieser gefährlichen
 Sippe hier genauer auf die Finger zu sehen. Daß ihn dabei
 sein Geschick ereilte, daß einer der Bande ihn niederschlug,
 war sein persönliches Pech.
 
-ich-Zck)sog stand vor ihm, Harriet lag in einem Sessel und
+Schley stand vor ihm, Harriet lag in einem Sessel und
 rauchte.
 
-»Also Herr Würzel …! Gratuliere! Schon Piraten bei
-Besinnung!! Harst hat Sie als mitgenommen, — hübsche
-Reise … Die anderen Herren« sind bereits wieder unterwegs
+»Also Herr Würzel …! Gratuliere! Schon wieder bei
+Besinnung!! Harst hat Sie also mitgenommen, — hübsche
+Reise … Die anderen Herren sind bereits wieder unterwegs
 … zur Hölle!«
 
 Christian Würzel mißfiel der rüde Ton. Er liebt eine
-ewähltere Ausdrucksweise, sogar in dieser Lage, wo er für
-f’oin bißchen Leben keinen Pfifferling gab.
+gewähltere Ausdrucksweise, sogar in dieser Lage, wo er für
+sein bißchen Leben keinen Pfifferling gab.
 
-»Herr Schley!«, sagte er ernst, »zunächst mochte ich einen
+»Herr Schley!«, sagte er ernst, »zunächst möchte ich einen
 Irrtum richtigstellen. Herr Harst hat mich nicht mitgenommen,
-ich) fuhr als blinder Passagier mit, die Herren wollten unter
+ich fuhr als blinder Passagier mit, die Herren wollten unter
 sich bleiben, ich befreite mich, lief in das nahe Dorf, weckte
-die Polizeisergeanten, legitimierte mich, und jetzt dürften zur
-Autos mit bewaffneten Ballte hierher unterwegs sein. Ach
+die Polizeisergeanten, legitimierte mich, und jetzt dürften zwei
+Autos mit bewaffneten Bobbys hierher unterwegs sein. Ich
 habe — Ihr zweiter Irrtum, Herr Schley — Sie niemals
 für unverdächtig gehalten und ich besitze die Beweise, daß Sie
-war nicht Schley heißen … Sie sind der Bürovorsteher des
+gar nicht Schley heißen … Sie sind der Bürovorsteher des
 verstorbenen Anwalts Doktor Schley, und Ihr richtiger Name
-lautet Alfred Herbst. Vor zehn Fahren während des Krieges
+lautet Alfred Herbst. Vor zehn Jahren während des Krieges
 tauchten Sie in Berlin auf … — Ja, Herr Schley, oder besser
 Herbst, vielleicht wird für Sie bald der Winter kommen, wo
 alles erstirbt, — Sie verstehen …« —
 
 Bis zu dieser Schlußbemerkung hatten wir, vor einer
-Stunde glücklich ins Haus gelangt, alles mit angehört
+Stunde glücklich ins Haus gelangt, alles mit angehört …
 
 <@pagebreak/>
 Jetzt winkte Harald uns zurück in den Flur, und eiligst erteilte
-er Gerd Preibisch einige Anweisungen, die sich auf von
-in der Garage der Farm verborgenen Doppeldecker, den mit
-vorhin uns genau angesehen hatten, mit bezogen. Er gelb
-he je auf seinen Lauscherposten im Nebenzimmer zurück,
+er Gerd Preibisch einige Anweisungen, die sich auf den
+in der Garage der Farm verborgenen Doppeldecker, den wir
+vorhin uns genau angesehen hatten, mit bezogen. Er selbst
+kehrte auf seinen Lauscherposten im Nebenzimmer zurück,
 hinterher hat mir Christian Würzel selbst erzählt, welche Höllenangst
 er ausgestanden habe, als Schley-Herbst ihn auf einem
-Stuhl Festland und die ganze Verbrechersippe, insgesamt echt,
-das Haus in wilder Hast brandrote machten.
+Stuhl festband und die ganze Verbrechersippe, insgesamt sechs,
+das Haus in wilder Hast brandreif machten.
 
-Aber das alles sind schließlich Dinge, die hier von gar
-nebensächlicher Bedeutung sind. Mir kommt es nicht daran
+Aber das alles sind schließlich Dinge, die hier von ganz
+nebensächlicher Bedeutung sind. Mir kommt es nicht darauf
 an, den Fall »Zarnecke« zu einem wüsten Schauerroman zu
 formen, Sondern einzig und allein darauf, wieder einmal zu
-beweisen, daß Phantasie und logische Schlußfolgerungen ein
-schier unentfwirrbares Rätsel!chließlich doch lösten.
+beweisen, daß Phantasie *und* logische Schlußfolgerungen ein
+schier unentwirrbares Rätsel schließlich doch lösten.
 
-Also genug damit: Die Bande zündete das Sarmgebäudt
-an, Harst befreite Würzels, als die Schurken den Doppeldecker
-fertig machten und darin noch eine ganze Anzahl Pakete verstreuten,
-— der Doppeldecker stieg auf, Harst und Wächter
-löschten die angelegten Feuer, inzwischen war Maß mit unsere!
+Also genug damit: Die Bande zündete das Farmgebäude
+an, Harst befreite Würzel, als die Schurken den Doppeldecker
+fertig machten und darin noch eine ganze Anzahl Pakete verstauten,
+— der Doppeldecker stieg auf, Harst und Würzel
+löschten die angelegten Feuer, inzwischen war Matz mit unserer
 eigenen Maschine herangerollt, die Verfolgung begann, und
-wir blieben stets sie weit zurück, daß wir nur noch mit von
+wir blieben stets so weit zurück, daß wir nur noch mit den
 Ferngläsern den Doppeldecker wahrnehmen konnten, der um
-sinken Uhr morgens auf einem Acker westlich von Potsdam,
+sieben Uhr morgens auf einem Acker westlich von Potsdam,
 in ganz einsamer Gegend, niederging.
 
-Würzel war außer sich. als Harald sehr kühl erklärte
+Würzel war außer sich, als Harald sehr kühl erklärte
 »Lassen wir die Kerle vorläufig in Ruhe … Wir finden
 sie schon noch.«
 
 »Herr Harst«, rief der Zitteraal empört, »das darf ich
-nicht dulden … Auf keinem Fall!«
+nicht dulden … Auf keinen Fall!«
 
 Es half ihm alles nichts, unsere Maschine entschwand
-gen Straßen, und vormittags gegen zehn Uhr waren mit
-wieder daheim. Die Luftreise lag wie ein wilder Traum hinkend
-
-mir,; und erst eine Tasse Kaffee, pechschwarz, brachte meinen
+gen Staaken, und vormittags gegen zehn Uhr waren wir
+wieder daheim. Die Luftreise lag wie ein wilder Traum hinter
+mir, und erst eine Tasse Kaffee, pechschwarz, brachte meine
 Nerven wieder in Ordnung.
 
 <@pagebreak/>
 Harald, der aus der Kennardy-Farm sowohl die Fliegenkarte
 als auch verschiedene Papiere mitgenommen hatte, saß
-um Schreibtisch und telephonierte mit Rat Penz.
+am Schreibtisch und telephonierte mit Rat Penz.
 
-»- — Aber lieber Penz, weshalb die Aufregung?!l. Noch
-heute wird die Berliner Kriminalpolizei einen großartigen Rosig
-Buchen können, der internationale R.-Konzern wird aufregen,
+»… Aber lieber Penz, weshalb die Aufregung?! Noch
+heute wird die Berliner Kriminalpolizei einen großartigen Erfolg
+buchen können, der internationale R.-Konzern wird auffliegen,
 und …«
 
 Da stellte ich die Kaffeetasse hin und trat neben Harst,
-mitzuhören.
+um mitzuhören.
 
 »Was für ein Konzern?«, brüllte der gereizte Penz durch
 die Leitung.
 
-»Sind Sie schwerhörig, Penz??! R … R … V, R wie
-Richard-Konzern … — Nun aber mal Gatten, nicht Worte …
-Also um Sechs Uhr nachmittags Dessen Sie in aller Stille die
-»Dampfwäscherei in der Aladinstraße eng umstellen, die Arbeit
-wird dort um halb fünf beendet, da ist rechts Uhr gerade die
-richtige Zeit. Aber — unaufföällig! Und um fünf kommen
+»Sind Sie schwerhörig, Penz??! R … R … R, R wie
+Richard-Konzern … — Nun aber mal Taten, nicht Worte …
+Also um Sechs Uhr nachmittags lassen Sie in aller Stille die
+Dampfwäscherei in der Aladinstraße eng umstellen, die Arbeit
+wird dort um halb fünf beendet, da ist sechs Uhr gerade die
+richtige Zeit. Aber — unauffällig! Und um fünf kommen
 Sie mit Ihren Herren zu uns, auch in aller Stille, und dann
-will ich Ihnen sie einiges über die Geheimnisse der »Wöascherei
+will ich Ihnen so einiges über die Geheimnisse der Wäscherei
 »Aladin« ins Ohr flüstern, die ihre Glanzstärke auch aus Posen
-bezieht … — Sekt lege ich mich schlafen, — kein Wort mehr,
+bezieht … — Jetzt lege ich mich schlafen, — kein Wort mehr,
 sonst werde ich saugrob.«
 
 <h2>4. Kapitel.</h2>
 
-<h3>Der Sturm aufs Aladin.</h3>
+<h3>Der Sturm auf Aladin.</h3>
 
 Um fünf fanden sich dann Penz und zwei Kommissare ein.
 Der stämmige Rat marschierte nach alter Gewohnheit, die
 Giftnudel im Mundwinkel und die Fäuste in den Hosentaschen,
-wütend auf und ab. »Bett schneiden Sie mal gefälligst Ihre
+wütend auf und ab. »Jetzt schneiden Sie mal gefälligst Ihre
 große, hoffnungsvolle Wurst an, Sie alter Außenseiter«,
 knurrte Penz den aufreizend gemütsruhigen Harst an. »Was
 <@pagebreak/>
-ist los? Soll ich mir in der Wäscherei Aladin vielleicht Batistschlüpfer
-und so was ansehen? He’«!«
+ist los? Soll ich mir in der Wäscherei Aladin vielleicht
+Batistschlüpfer und so was ansehen? He?!«
 
 »Nein, dies weniger … Zunächst betrachten Sie sich mal
 diese famose Fliegenkarte.« Harst entrollte sie und befestigte
-sie alt der Wand. »Diese Karte ließ Harriet Kennardy mit
-nach England stiegen, nachdem sie die Schwammvilla räumen
-mußte und auch Kennardys ältester Verschlug streikte … —
-Ersten Sie nur näher …« —
+sie an der Wand. »Diese Karte ließ Harriet Kennardy mit
+nach England fliegen, nachdem sie die Schwammvilla räumen
+mußte und auch Kennardys ältester Pflegling streikte … —
+Treten Sie nur näher …«
 
-»Pfui, Teufel, — zerquetschte Stiegen und FSliegenschmut!l«,
+»Pfui, Teufel, — zerquetschte Fliegen und Fliegenschmutz!«,
 brummte Penz. Dann aber zogen sich seine starken Augenbrauen
 weit empor, seine Stirn wurde wie frisch gebügeltes
-Plissee, Halte an Falte, und seine Fäuste deuten die Hosentaschen
-noch mehr aus. Ein langer scharfer leiser Weise
+Plissee, Falte an Falte, und seine Fäuste beulten die Hosentaschen
+noch mehr aus. Ein langer scharfer leiser Pfiff
 folgte …
 
-»Organisation R.!!«, murmelte er. Sein Kopf fuhr herum.
-»Harst, etwa Rauschgifthändler?!« …
+»Organisation R.!«, murmelte er. Sein Kopf fuhr herum.
+»Harst, etwa Rauschgifthändler?!«
 
 »Ja … — Gestatten Sie …« Er nahm einen elektrischen
-Zigarrenanzünder, die Zündfläche glühte auf, er hielt sie dich!
-Mutter die Kriege, die bei »Hamburg« klebte, und auf doch
+Zigarrenanzünder, die Zündfläche glühte auf, er hielt sie dicht
+unter die Fliege, die bei »Hamburg« klebte, und auf dem
 schmierigen Papier erschien ein Name, daneben Straße und
 Hausnummer, winzig klein.
 
 »Donnerwetter!!«
 
 »Notieren Sie jetzt all die Namen der Filialleiter, jede
-Kriege ist eine Filiale, der Fliegenschmutz bezeichnet die Weste,
-den die »Ware« rinnt, auch das notieren Sie, und dann
+Fliege ist eine Filiale, der Fliegenschmutz bezeichnet die Wege,
+den die »Ware« nimmt, auch das notieren Sie, und dann
 senden Sie die nötigen Depeschen ab …«
 
-Rast! eine halbe Stunde hörte man nur Penz’ harte Stimme,
-einer der Kommissare stenographische und entfernte sich dann.
+Fast eine halbe Stunde hörte man nur Penz’ harte Stimme,
+einer der Kommissare stenographierte und entfernte sich dann.
 
-Harald begann von neuem: »Sohn Kennardy hat mit
+Harald begann von neuem: »John Kennardy hat mit
 dieser Bande nichts zu tun, gar nichts. Das möchte ich vorausschicken.
-— Wenn Sie Tunnel den Gesellschaftsvertrag des
-Erbbauvereins »Eigens Scholle« eingesehen ’ hätten, würden
+— Wenn Sie einmal den Gesellschaftsvertrag des
+Erbbauvereins »Eigene Scholle« eingesehen hätten, würden
 Sie dort Doktor Schley als Obermacher gefunden haben …
 Die Wäscherei gehört ihm auch, obwohl er einen Strohmann
-vorgeschoben hat. Die Bande braucht sichere Lagerräume gilt
+vorgeschoben hat. Die Bande braucht sichere Lagerräume für
 <@pagebreak/>
-hie aus Posen bezogene »Glanzstärke«. Nun, die polnische
-Artikel wird auch dort das Nest ausräuchern, und die Polizeichymiker
+die aus Posen bezogene »Glanzstärke«. Nun, die polnische
+Polizei wird auch dort das Nest ausräuchern, und die Polizeichemiker
 hier und in Posen dürften sehr rasch das chemische
 Verfahren entdecken, wie man der Glanzstärke wieder die
-Wauschgifte entzieht, falls der Trick nicht noch einfacher ist
+Rauschgifte entzieht, falls der Trick nicht noch einfacher ist
 und die einzelnen Stückchen Stärke lediglich außen eine Haut
-Teil Stärke enthalten und innen gut in Staniol verpackt reine
+von Stärke enthalten und innen gut in Staniol verpackt reine
 Rauschgifte. Das wird sich ja sehr bald zeigen. — Dann,
 lieber Penz, habe ich zwei der Lieferautos der Wäscherei
 Aladin von Argus-Leuten schnappen lassen, und diese Wagen
-worden genau fünf Minuten nach sechs, innen gefüllt mit tüchtigen
-Angestellten des Argus, in den Hof der Wäscherei hineinfallen,
+werden genau fünf Minuten nach sechs, innen gefüllt mit tüchtigen
+Angestellten des Argus, in den Hof der Wäscherei hineinfahren,
 so daß wir auch in der Fabrik nicht nur Schley und
 Konsorten, Sondern auch etliche Hechte, die beißen können,
 antreffen werden. — Brechen wir auf … Unterwegs erzähle
--’cb oho?«n, wie ich So allmählich diesem Konzern auf die Spur
-am …« —
+ich Ihnen, wie ich So allmählich diesem Konzern auf die Spur
+kam …«
 
 Weit vor der Aladinstraße lehnte am Zaun eines der
 hier noch so häufigen Kleingärten ein dürrer Gentleman mit
-barg blinzelnden Augen: Herr Würzel-Zitteraal. — Er als«
-Kirche Meldung: »Zehn von uns in der Kneipe gegenüber
-Wäscherei, fünf auf der Rückseite bei den Müllhaufen als
-UGoZdsucs)er«, drei rechts, drei links, — — eingekreist, Herr
-
-alt!«
+ewig blinzelnden Augen: Herr Würzel-Zitteraal. — Er erstattete
+Meldung: »Zehn von uns in der Kneipe gegenüber
+der Wäscherei, fünf auf der Rückseite bei den Müllhaufen als
+»Goldsucher«, drei rechts, drei links, — — eingekreist, Herr
+Rat!«
 
 Wir schritten weiter. Die Sonne stand bereits etwas
-lies, aber es würde noch Stunden hell bleiben … Bis dahin
+tief, aber es würde noch Stunden hell bleiben … Bis dahin
 mußte die Aktion längst beendet sein.
 
 Die Wäscherei lag nun vor uns. Es war drei Minuten
 nach Sechs. Hinter uns kamen zwei Lieferwagen die Straße
-mißlang, der Pförtner der Wäscherei öffnete das Gittertor,
+entlang, der Pförtner der Wäscherei öffnete das Gittertor,
 ließ die Autos ein, wollte wieder abschließen. Plötzlich stand
-Penz vor ihm …
+Penz vor ihm … —
 
-»Kriminalpolizei …
+»Kriminalpolizei …«
 
 Der Mann wollte zurückspringen, wollte den Knopf einer
-elektrischen Glocke erreichen, — eine Saust fuhr ihm in die
+elektrischen Glocke erreichen, — eine Faust fuhr ihm in die
 <@pagebreak/>
-Nippen, und andere Fäuste packten zu, der Kerl war aschgrau
-im Gesicht: Ein Cingeweihterl! Handschellen schnappten …
+Rippen, und andere Fäuste packten zu, der Kerl war aschgrau
+im Gesicht: Ein Eingeweihter! Handschellen schnappten …
 
 Penz fauchte ihn an: »Wo steckt Schley und das übrige
 Gesindel? Rede!! Rette deine Haut!«
 
 Der Pförtner zögerte noch … Dann sah er aber, wie
-aus den Wagenkasten der Lieferwagen acht Leute herausschlüpften
-… Das gab ]hm den Nest. »Ehen in der Wohnung
-des Geschaij]«uhrerZ bequemte er sich zum Geständnis,
+aus den Wagenkästen der Lieferwagen acht Leute herausschlüpften
+… Das gab Ihm den Rest. »Oben in der Wohnung
+des Geschäftsführers", bequemte er sich zum Geständnis,
 
 Plötzlich wimmelte die Einfahrt von Beamten, der Berliner
 schloß den Treppenzugang zum Oberstock auf, und wir alle
 stürmten nach oben, im Hofe und in der Fabrik blieben nur
-die notwendigsten Wachen zurück. Die Treppen und Flur
+die notwendigsten Wachen zurück. Die Treppen und Flure
 waren beläufert, aber droben fanden wir nur eiserne Türen,
 
-»Dort!«, keuchte der lchwesszmejonde Pförtner …
+»Dort!«, keuchte der schweißtriefende Pförtner …
 
 Penz donnerte gegen die Tür …
 
-Die Tür hatte in der Zweite ein Fenster mit einer
+Die Tür hatte in der Mitte ein Fenster mit einer
 Klappe, die Klappe verschob sich, ein spitzes Gesicht lugte in
-den Star: Harriet, — und die Klappe fiel wieder zu.
+den Flur: Harriet, — und die Klappe fiel wieder zu.
 
-Harald zog mich abseits … »Gehen wir aus die Straße
-Die Fenster dieser Räume liegen nach der Straße zu. —
+Harald zog mich abseits … »Gehen wir auf die Straße.
+Die Fenster dieser Räume liegen nach der Straße zu …« —
 Direktor Matz schloß sich uns an … Wir stellten uns gegenüber
 der Fabrik auf, an deren oberen Fenstern zuweilen die
 Vorhänge zurückgeschoben wurden, — dann flog das eine
-Kritiker auf, etwas wie ein dicker Spazierstock erschien, im
-lieben Augenblick knallte ein Schuß im Hose, noch einer, eine
-ganze Salve, Scheiben splitterten, der Stock wurde zurück
+Fenster auf, etwas wie ein dicker Spazierstock erschien, im
+selben Augenblick knallte ein Schuß im Hofe, noch einer, eine
+ganze Salve, Scheiben splitterten, der Stock wurde zurückgezogen,
+— — zwei dumpfe Explosionen folgten …
 
-gezogen, — — zwei dumpfe Explosionen folgten …
-»Handgranaten gegen die Eisentüren«, Jagte Matz lakonisch
+»Handgranaten gegen die Eisentüren«, sagte Matz lakonisch
 …
-Noch eine Ecploswn … Poltern, Krachen, — neues
-Scheiben splitterten …
-Stille …
-Eichene?rdammtl«, brummte Matz … »Penz macht feinen
-sich …!«
 
-Aber Mal irrte sich. Nicht Penz hatte restlos unter den
+Noch eine Explosion … Poltern, Krachen, — neue
+Scheiben splitterten …
+
+Stille …
+
+»Verdammt!«, brummte Matz … »Penz macht reinen
+Tisch …!«
+
+Aber Matz irrte sich. Nicht Penz hatte restlos unter den
 <@pagebreak/>
-Postschalter aufgeräumt … Als er uns vom Fenster zuwinkte
-und wir nach oben eilten, bot der Flur einen würden
+Herrschaften aufgeräumt … Als er uns vom Fenster zuwinkte
+und wir nach oben eilten, bot der Flur einen wüsten
 Anblick dar … Zwei Türen hingen schief in den Angeln,
 die Türfüllungen waren Brennholz geworden, in dem Büro
-dvs Leiters der Wäscherei hantierten vier Kriminalbeamte
-il Gasmasken, — Penz hielt uns zurück … »Vorsicht …
-Wer Glasballon flüssige Luft ist auch in Scherben gegangen,
-
+des Leiters der Wäscherei hantierten vier Kriminalbeamte
+mit Gasmasken. — Penz hielt uns zurück … »Vorsicht …
+Der Glasballon flüssige Luft ist auch in Scherben gegangen,
 — der Erfolg?! Die Leute sind durch ihr eigenes Gift
 Umgekommen …«
 
-ön einem Winkel am Schreibtisch lag Harriet Kennardy,
-die! Schritt weiter der angebliche Doktor Schley, — — im
-halten waren es acht Personen … — —
+In einem Winkel am Schreibtisch lag Harriet Kennardy,
+drei Schritt weiter der angebliche Doktor Schley, — — im
+ganzen waren es acht Personen … — —
 
-… Ich lasse den Vorhang fallen, — das eine Problem
+… Ich lasse den Vorhang fallen, — das *eine* Problem
 war erledigt. Der große R.-Konzern war ausgetilgt.
 Haralds Vermutung, daß das Rauschgift in Staniol verpackt
 mit Glanzstärke umgeben worden war, traf übrigens zu. Die
-Welt war von einer Bande niederträchtiger, geldgieriger Giftnudel
+Welt war von einer Bande niederträchtiger, geldgieriger Giftmischer
 befreit worden.
 
 Und das zweite Problem?
 
-Wir beide verabschiedeten uns von Penz, Matz und Wurf«!.
-»dich möchte Sohn Kennardy all dies möglichst schonend
-wibringen«, sagte Harald.
+Wir beide verabschiedeten uns von Penz, Matz und Würzel.
+»Ich möchte John Kennardy all dies möglichst schonend
+beibringen«, sagte Harald.
 
-»Penz Schämte ihn forschend an. »Mich brauchen Sie nicht
+»Penz schaute ihn forschend an. »Mich brauchen Sie nicht
 dabei, Herr Harst?«
 
-»Nein, Sie würden nur stören … Ich denke, die Kriminalspolizei
+»Nein, Sie würden nur stören … Ich denke, die Kriminalpolizei
 kann mit ihrem heutigen Erfolg zufrieden sein.«
 
 »Allerdings …«
@@ -2327,112 +2322,111 @@ Wir schritten der ehemaligen Plätterei zu.
 
 Die Aladinstraße befand sich in hellem Aufruhr.
 
-Mauern von Neugierigen umgaben die Wäscherei. Tal
+Mauern von Neugierigen umgaben die Wäscherei. Der
 Instinkt der großen Masse für blutige Geschehnisse hatte alles
-mobil gemacht, Männer, Frauen,: Kinder stauten sich, — hinter
+mobil gemacht, Männer, Frauen, Kinder stauten sich, — hinter
 dieser raunenden und tuschelnden Mauer war es öde und
-leer. Ein paar Nachzügler rannten an uns vorüber, aus vorn
+leer. Ein paar Nachzügler rannten an uns vorüber, aus den
 Fenstern rief man uns allerlei Fragen zu, — einsam, blaß und
-Doch mit harter Miene lehnte Sohn Kennardy an der Gartenpforte
-und blickte uns entgegen.«
+Doch mit harter Miene lehnte John Kennardy an der Gartenpforte
+und blickte uns entgegen.
 
-Harald streckte ihm sofort die Hand hin, um ihn Kneipe
+Harald streckte ihm sofort die Hand hin, um ihn keine
 Sekunde darüber im Zweifel zu lassen, daß wir als Freunde
 kämen. »Lieber Herr Kennardy, auch der letzte Albdruck ist
 nun von Ihnen genommen. Ihre Schwester ist tot, Schley ist
-tot, auch die anderen, die darf in der Wöäscherei ihr HaYsquartier
+tot, auch die anderen, die dort in der Wäscherei ihr Hauptquartier
 hatten … Ihrer Schwester ureigenste teuflische Erfindung,
-die Erstaunten, haben schicksalhaft vernichtend eine
-gegriffen. Sie selbst und die einigen sind außer Verdacht!
+die Giftquallen, haben schicksalhaft vernichtend eingegriffen.
+Sie selbst und die Ihrigen sind außer Verdacht
 und Gefahr. Die Kriminalpolizei wird sich nicht weiter um
-obu Familienangelegenheiten kümmern, und nach einiger Hell
-können Sie das Schild »Waisenheim« entfernen und mit vor
+Ihre Familienangelegenheiten kümmern, und nach einiger Zeit
+können Sie das Schild »Waisenheim« entfernen und mit der
 Wahrheit vor die Öffentlichkeit treten, die für Ihr Verhalten
-
-? Verständnis aufbringen wird.«
+wohl Verständnis aufbringen wird.«
 
 Harald hielt noch immer Kennardys Hand, in Kennardys
 Augen schimmerte es feucht, und mit einer rührend dankbaren
-Geste lud er zum Nähertreten ein. — Es war ein Marmor
-Herbstes, hinten im Garten spielten wieder die Kinder,
-Schwester Chile und das schwermütige junge Mädchen mit den
+Geste lud er zum Nähertreten ein. — Es war ein warmer
+Herbsttag, hinten im Garten spielten wieder die Kinder,
+Schwester Elise und das schwermütige junge Mädchen mit dem
 jetzt schwarzen Scheitel Saßen in Korbsesseln auf dem runden
-Kießplatz, unser Erscheinen scheuchte das Mädchen empor, See
+Kiesplatz, unser Erscheinen scheuchte das Mädchen empor, Harald
 <@pagebreak/>
-halb rief herzlich: »Bleiben Sie nur, Fräulein Louise, — was
-mit Ihren Eltern zu besprechen habe, dürfen Sie getrost
+rief herzlich: »Bleiben Sie nur, Fräulein Louise, — was
+ich mit Ihren Eltern zu besprechen habe, dürfen Sie getrost
 mit anhören …«
 
-sich stand wie vom Donner gerührt, Schwester Chile war
-viporgesahren, — vier Augenpaare starrten Harst an …
+ich stand wie vom Donner gerührt, Schwester Elise war
+emporgefahren, — vier Augenpaare starrten Harst an …
 
-»Sehen wir uns … l« den seiner Stimme lag jener brausende
-Ton, der unwillkürlich Gehörigen aus nötigt. »Sehen
+»Setzen wir uns …!« In seiner Stimme lag jener bezwingende
+Ton, der unwillkürlich Gehorsam aufnötigt. »Setzen
 wir uns … Die bereits beginnende Abendröte ist vielleicht
 die richtige Beleuchtung für die kurzen Erklärungen, die ich
--inü;t, verzerrtem Kennardy also, und meinem Freunde Schraut
-schulde …
+Ihnen, der Familie Kennardy also, und meinem Freunde Schraut
+schulde …«
 
-Wir nahmen Platz, eine ssseltsame Stimmung hatte mich
-ergriffen, nach den lärmenden Vorgängen der Wäscherei er!.
-Times mir diese Oase der Glüelelichen hier, diese grüne Oase
-»u- T;leadinstrckßo doppelt und Schreitest wie ein Tempel des
+Wir nahmen Platz, eine seltsame Stimmung hatte mich
+ergriffen, nach den lärmenden Vorgängen der Wäscherei erschien
+mir diese Oase der Glücklichen hier, diese grüne Oase
+der Aladinstraße doppelt und dreifach wie ein Tempel des
 Friedens …
 
-»Es war nicht leicht«, begann Harald in ganz zwangjsem
+»Es war nicht leicht«, begann Harald in ganz zwanglosem
 Plauderton, »diesen Fall Zarnecke bis in Seine tiefsten
-Wissen zu ergründen, und doch gelang es schließlich mit Hilfe
-x’smior Bilder. Zunächst möchte ich noch einleitend bemerken,
-aß Sie, lieber Kennardy, der Sie hier so viele Jahre nu!
-seltenen Gesichtes die Plättmamsell spielten …«
+Tiefen zu ergründen, und doch gelang es schließlich mit Hilfe
+zweier Bilder. Zunächst möchte ich noch einleitend bemerken,
+daß Sie, lieber Kennardy, der Sie hier so viele Jahre mit
+seltenem Geschick die Plättmamsell spielten …«
 
 Ich glaubte mich verhört zu haben … Ich Sah, daß
 Kennardy wehmütig lächelte und nickte … Da wußte ich: Es
-war Gaskocher Eine Louise Zarnecke hatte es als »Plättmamsell«
+war Tatsache! Eine Louise Zarnecke hatte es als »Plättmamsell«
 nie gegeben.
 
-» … Daß Sie, lieber Kennardy, mir schon längst recht
-Fehlerhaft erschienen — — als Frau, in Ihrer Frauenrolle.
+»… Daß Sie, lieber Kennardy, mir schon längst recht
+zweifelhaft erschienen — — als Frau, in Ihrer Frauenrolle.
 Erst als ich Ihren Namen und Sie selbst in Begleitung des
-Notrügers »Schley« hier vor dem Häuschen Kennen lernte,
-Motiv mein gutes Gedächtnis prompt ein, ich besann mich,
-aß es zu meiner Jugendzeit einen Damenimitator sein Kennardy
+Betrügers »Schley« hier vor dem Häuschen Kennen lernte,
+setzte mein gutes Gedächtnis prompt ein, ich besann mich,
+daß es zu meiner Jugendzeit einen Damenimitator John Kennardy
 gegeben hatte, der weltberühmt war, der sich plötzlich
-vom Papiere zurückgezogen hatte, — ich beschaffte mir ein
-Bild dieses Mannes, und so erlangte ich die Gewißheit: Sie
+vom Variete zurückgezogen hatte, — ich beschaffte mir ein
+Bild dieses Mannes, und so erlangte ich die Gewißheit: *Sie*
 <@pagebreak/>
-waren Louise Zarnecke!l — Ich will das Nebensächliche Betasten
+waren Louise Zarnecke! — Ich will das Nebensächliche weglassen
 … Mit dieser Feststellung war mir viel geholfen. Ich
 besorgte mir also eine Photographie der Louise Zarnecke aus
-ihrer Heimat Gütlichem.« — Harald reichte Schwester Alle
+ihrer Heimat Züllichau.« — Harald reichte Schwester Elise
 die Hand … »So fand ich die richtige Louise Zarnecke …
-— Sie, Schwester Elise, — Wie sich nun der Roman eine!
-großen Liebe in meiner Phantasie aus] Grund der vorhandenen
+— Sie, Schwester Elise. — Wie sich nun der Roman einer
+großen Liebe in meiner Phantasie auf Grund der vorhandenen
 Tatsachen ausgestaltete, wie sich Steinchen an Steinchen fügte,
 bis aus dem Roman die Wahrheit wurde, das haben Sie
-zum Teil mit erlebt, Schraut noch weil mehr. — dich will
-diesen Roman kurz andeuten. Sohn Kennardys erste Ehe was
+zum Teil mit erlebt, Schraut noch weit mehr. — Ich will
+diesen Roman kurz andeuten. John Kennardys erste Ehe war
 ein Mißgriff, Seine Frau war leichtfertig, war Morphinistin,
-sie verließ ihn. Das Geschick führte ihm Louise Heucheln
+sie verließ ihn. Das Geschick führte ihm Louise Zarnecke in
 den Weg, in ihr fand er seine Ergänzung, sein Glück, mit ihr
-sollte er, da er sich nicht scheiden lassen konnte — seine Braut
+lebte er, da er sich nicht scheiden lassen konnte — seine Braut
 war unauffindbar — in England in freier Ehe. Sieben Kinder,
 sieben Mädchen schenkte sie ihm … Um von diesen Kindern
-den Makel unehelichen Herkunft zu nehmen, ließ er
+den Makel unehelicher Herkunft zu nehmen, ließ er sie
 von anderen Leuten adoptieren … Dieses innige Liebesverhältnis
 wurde durch bestimmte Vorgänge plötzlich schwer bedroht.
-Kennardys Gattin tauchte auf, und mit ihr Louise Sarg
-verzog Schwester Agnes, Bitte Abenteuerin gleichen Schlage
-wie Marry Kernpunkt. Beide halten sich miteinander verbindet,
-um von Sohn Geld elternloser. Da Sohn Deckel
-Ehebruch schwere Straße drohte, verließ er England und
-tauchte hier als Sowieso Zarnecke auf, während seine vor Gott!
+Kennardys Gattin tauchte auf, und mit ihr Louise Zerneckes
+Schwester Agnes, eine Abenteuerin gleichen Schlages
+wie Marry Kennardy. Beide hatten sich miteinander verbündet,
+um von John Geld zu erpressen. Da John wegen
+Ehebruchs schwere Strafe drohte, verließ er England und
+tauchte hier als Louise Zarnecke auf, während seine vor Gott
 und gerechten Menschen völlig rein dastehende Lebensgefährtin
 Louise in das Haus der Weinbergs-Allee zog, das dem Namen
-nach von Harriet gemietet wurde. — Damals ahnte Sohn rote.(
+nach von Harriet gemietet wurde. — Damals ahnte John noch
 nichts von der verbrecherischen Veranlagung seiner Schwester
-und deren Beziehungen zu Rauschgifthändlern. Jedenfalls!
-Stein blieb verschwunden, Marry Kennardy und Agnes Tatsache
+und deren Beziehungen zu Rauschgifthändlern. Jedenfalls:
+John blieb verschwunden, Marry Kennardy und Agnes Zarnecke
 konnten nichts gegen ihn unternehmen, Jahre vergingen,
 die beiden Fensterspiegel, also die optische Signalverbindung
 zur Weinbergvilla, diente harmlosen Zwecken, bis Harriet, ein
@@ -2450,17 +2444,17 @@ Mutter meiner Kinder hatte übergenug mit der Erziehung der
 Jüngsten zu tun.«
 
 »Und als Sie Verdacht schöpften«, fragte Harald schnell,
-»vier Harriet schreit gedroht, und deshalb verreisten Sie angeblich,
+»hat Harriet Ihnen gedroht, und deshalb verreisten Sie angeblich,
 deshalb gab »Louise Zarnecke« die Plätterei auf? —
-Es muß so gewesen sein. Gleichzeitig aber wurde Jahre Gattin
-Marry im Norden Berlins toti-dusgesunden, Sie waren also
-endlich frei, und … — — was fehlt schreit, Kennardy?«
+Es muß so gewesen sein. Gleichzeitig aber wurde Ihre Gattin
+Marry im Norden Berlins tot aufgefunden, Sie waren also
+endlich frei, und … — — was fehlt Ihnen, Kennardy?«
 
 Der schwergeprüfte Mann hatte plötzlich die Hände vor
 das Gesicht gepreßt, sank in sich zusammen, und schwer und
 qualvoll kam es über seine Lippen: »Die Wahrheit ist grauenvoll,
 aber ich darf nicht schweigen … — Louises Schwester
-und Marry hatten sich mit Harriet zurück gegen mich verschworen,
+und Marry hatten sich mit Harriet zuletzt gegen mich verschworen,
 Harriet weihte die beiden wohl gegen Schleys Willen
 in die Geheimnisse des Konzerns ein, Marry war Kokainistin,
 Agnes desgleichen, beide waren unzuverlässig, — —
@@ -2468,95 +2462,95 @@ und da machte Schley kurzen Prozeß … und Harriet wird
 Geholfen haben …«
 
 Harald berührte Kennardys Schulter … »Auch das habe
-ich vermutet, lieber Kennardy … Lassen Sie sich doch …!
+ich vermutet, lieber Kennardy … Fassen Sie sich doch …!
 Alles Schwere liegt ja nun hinter Ihnen. Die Tote hier im
 Häuschen war also Agnes Zarnecke, und zwischen Ihrer Frauenmaske
 als Plättmamsell und dieser Agnes muß doch eine
 überraschende Ähnlichkeit bestanden haben.«
 
-Kennardy ließ die Hände sinken. Der ans?gestohlene Zug
-in Steinen Gesicht bewies, daß er bereits wieder Herr seiner
-Nerven geworden war. »Eis war Harriets infamster Streich«.
+Kennardy ließ die Hände sinken. Der entschlossene Zug
+in seinem Gesicht bewies, daß er bereits wieder Herr seiner
+Nerven geworden war. »Es war Harriets infamster Streich«,
 <@pagebreak/>
 erklärte er, von Widerwillen förmlich geschüttelt, »die tote
-Agnes hier in die Plätterei zu schlossen … Die Ähnlichkeit
-war gen, Ihre Harst, aber niemandem fiel es ein, irgend
-welche Zweifel Gaul werden zu lassen, daß es sich um die Plättmamsell
-Herberge.«
+Agnes hier in die Plätterei zu schaffen … Die Ähnlichkeit
+war gering, Herr Harst, aber niemandem fiel es ein, irgend
+welche Zweifel laut werden zu lassen, daß es sich um die Plättmamsell
+handele.«
 
 »Und was mag Ihre Schwester hier im Häuschen gesucht
 haben, als Schraut und ich sie nachts am 13. September
-hier ubmascbto-s’?«
+hier überraschten?«
 
 Kennardy überlegte kurz. »Wenn sie gesucht hat, kann
-es sich nur um ein paar Kartons Stärke gehandelt haben,
+es sich nur um ein paar Kartons Stärke gehandelt haben, —
 Sie verstehen, die gewisse Glanzstärke, die weit gefährlicher
-war als das schlimmste, Tresors wirkende Gift … Wahrscheinlich
+war als das schlimmste, sofort wirkende Gift … Wahrscheinlich
 hatte Harriet geglaubt, einige gefährliche Kartons anstelle
 harmloser versehentlich hierher geschickt zu haben, vielleicht
 wollte sie auch alle Restbestände von leeren Kartons verbrennen
 … Der Ofen im Kontor war mit Asche dicht gefüllt,
 Herr Harst …
 
-»0s), dann ist auch der an sich nebensächliche Punkt geklärt
+»Oh, dann ist auch der an sich nebensächliche Punkt geklärt
 … — Schließen wir hiermit unsere Unterredung, wenden
 wir uns erfreulicheren Dingen zu …« — Harald sprach
 mit größter Wärme und deutete auf die spielenden Kinder
-hin. »Lieber Kennardy, Sie Jagten uns gestern hier an dieser
-Stelle, dies frei Ihr Werk, Ihr Glück, Ihr Lebensinhalt …
-Bett ist es So weit, daß niemand anno mehr dieses Tische
+hin. »Lieber Kennardy, Sie sagten uns gestern hier an dieser
+Stelle, *dies* sei Ihr Werk, Ihr Glück, Ihr Lebensinhalt …
+Jetzt ist es So weit, daß niemand Ihnen mehr dieses Glück
 rauben kann. Geben Sie mir Ihre Hand: Sie waren ein
-Kämpfer um das Glück, den Frieden und die Zukunft öbm«
-Familie, Sie haben gesagt die Vorsehung war mit öhm)n
-Wir bleiben Freunde … Und wir wohl auch, Frau Louise …
-Weisen Sie nun alle Gedanken an die trüben Stunden vor
-Vergangenheit von sich, leben Sie der rosigen Zukunft …
-die haben es verdient — — alle, Eltern und Kinder …! —
-Auf Wiedersehen …
+Kämpfer um das Glück, den Frieden und die Zukunft Ihrer
+Familie, Sie haben gesiegt die Vorsehung war mit Ihnen!
+Wir bleiben Freunde … Und wir wohl auch, Frau Louise …!
+Weisen Sie nun alle Gedanken an die trüben Stunden der
+Vergangenheit von sich, leben Sie der rosigen Zukunft …!
+Sie haben es verdient — — alle, Eltern und Kinder …! —
+Auf Wiedersehen …«
 
 Er erhob sich, und nach kurzem, wortlosen Abschied, der
 nur durch die dankbaren Blicke seine Weihe empfing, standen
 wir beide wieder draußen auf der Aladinstraße …
 
 <@pagebreak/>
-Es war, als ob wir aus einer Welt des Traumes zurütkverseßt
+Es war, als ob wir aus einer Welt des Traumes zurückversetzt
 würden in die rauhe Wirklichkeit. Hinter uns lag
 Kennardys glückliche Welt, der vom Abendrot vergoldete
 Garten mit glücklichen, befreiten Menschen, — weit vor uns
 brandeten die Scharen der neugierigen Menschen um das Tor
 der Wäscherei Aladin …
 
-Und ich gehorchte da jener regnerischen Nacht, in der wir
-um ersten Male gefährliche Bekanntschaft mit Harriets giftigen
+Und ich gedachte da jener regnerischen Nacht, in der wir
+zum ersten Male gefährliche Bekanntschaft mit Harriets giftigen
 Quallengeschossen gemacht hatten …
 
 Harst schob seinen Arm in den meinen.
 
-»Wohin schweigen deine Gedanken, mein Alter?«, —
-und er zog mich mit sich fort, aber nachts dem anderen Ende
+»Wohin schweifen deine Gedanken, mein Alter?«, —
+und er zog mich mit sich fort, aber nach dem anderen Ende
 der Straße, wo herbstliche Äcker und stille Feldwege uns
-bewaldeten. »Grübelst du noch über diese oder jene Einseitige
+bewaldeten. »Grübelst du noch über diese oder jene Einzelfrage
 nach, die dir dunkel oder ungelöst erscheint? Mühe
 dich nicht weiter damit ab … Alles ist gelöst, alles … Ein
 Rädchen greift ins andere, ein Rad ins andere, die Zeiger
-dieser Schicksalsuhr decken sich, künden ein neues Jahr an.
-sein neues, durch keine Widerwärtigkeiten mehr gestörtes Dasein
-für die Familie Kennardy, — — und das, mein Alter…
+dieser Schicksalsuhr decken sich, künden ein neues Jahr an,
+ein neues, durch keine Widerwärtigkeiten mehr gestörtes Dasein
+für die Familie Kennardy, — — und das, mein Alter,
 bleibt mir die Hauptsache …«
 
 Wir wanderten heim … Die Abendsonne versank …
-Versanken war der große R.-Konzern, — — daß Jahre
+Versunken war der große R.-Konzern, — — daß Jahre
 später, wie ich hier als Nachschrift hinzufügen möchte, der
 Kriminalpolizei ein ähnlicher, großer Fang gegen eine neue
 Hydra von Rauschgifthändlern gelang und zum Beispiel im
-Hamburger Halfen Unmengen von Rauschgiften beschlagnahmt
+Hamburger Hafen Unmengen von Rauschgiften beschlagnahmt
 wurden, vermag meines Freundes treffsichere Schlußfolgerungen,
 die er aus einem Schnitzel Papier einer Glanzstärkeschachtel
 ableitete, kaum zu verdunkeln, ganz abgesehen davon, daß
 er allein die Fliegenkarte richtig zu deuten wußte und daß
 erst durch ihn die Weinberg-Villa mit in die Nachforschungen
-einbezogen werdet konnte und ihr Geheimnis als Unterschlupf
-der Kennardy-Kinder und als Signalstation des großen R.-K’s
+einbezogen werden konnte und ihr Geheimnis als Unterschlupf
+der Kennardy-Kinder und als Signalstation des großen R.-K.’s
 hergeben mußte … —
 
 <@pagebreak/>
@@ -2568,6 +2562,6 @@ sie eine der unheimlichsten abergläubischen Vorstellungen mit
 zum Gegenstand hat, die je durch fremde Einwanderer nach
 Deutschland verpflanzt wurden.
 
-Nächster Band:
+<#import "*/harst.ftl" as harst>
+<@harst.naechsterband band="Der weiße Maulwurf."/>
 
-Der weiße Maulwurf.
