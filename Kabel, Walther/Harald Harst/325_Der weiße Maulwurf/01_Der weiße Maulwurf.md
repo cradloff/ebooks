@@ -436,7 +436,7 @@ Er schaute Harald traurig an.
 
 »Und vorhin, — — vorhin hat sich mein Diener Josef Strahl vergiftet … — Ich läutete nach ihm, er kam nicht, ich ging in sein Zimmer … Er lag tot auf dem Bett … Im Bett lag auch das Glas, das Wasserglas … Gift, — — Spuren von Gift … Reste von Gift … — — Es ist … grauenvoll …!«
 
-Sein Kopf sank nach vorn, seine Arme glitten von den Sessellehnen, aber er überwandt den Ohnmachtsanfall …
+Sein Kopf sank nach vorn, seine Arme glitten von den Sessellehnen, aber er überwand den Ohnmachtsanfall …
 
 »Kognak, Schraut, — — schnell!!«
 
@@ -480,7 +480,7 @@ Dwars nickte. »Ja, — ein Aberglaube, der in Siebenbürgen seine Heimat hat �
 
 Nun, Frau Geraldine sah kaum schonungsbedürftig aus. Die ganze Untersuchung der recht mysteriösen Angelegenheit zerflatterte schließlich in ein paar Redensarten, die Kommissar Dwars vielleicht gegen bessere Überzeugung sich abrang. »Sie werden sich eben getäuscht haben … Strahl war nicht tot, Herr Generaldirektor … Und das Hineinziehen des weißen Maulwurfs in diesen fingierten Selbstmord dürfte ein Ablenkungsmanöver sein … — Ich möchte nicht länger stören …« Er verabschiedete sich, ließ freilich zwei Beamte in Strahls Zimmer zurück, ohne dies näher zu begründen. Das ganze Auftreten des Herrn Dwars machte den Eindruck, als ob er weit mehr wüßte, als er sich anmerken ließ.
 
-Auch wir begleiteten ihn, Lüning war nun wieder etwas hoffnungsvoller … »Wenn nur Strahl noch lebt …!«, sagte er im Vorgarten … »Er wird schon gefunden werden … Vielleicht habe ich mich wirklich geirrt, er mag nur bewußtlos gewesen sein … Er hatte ja wahrlich keinen Grund, seinem Leben ein Ende zu machen …
+Auch wir begleiteten ihn, Lüning war nun wieder etwas hoffnungsvoller … »Wenn nur Strahl noch lebt …!«, sagte er im Vorgarten … »Er wird schon gefunden werden … Vielleicht habe ich mich wirklich geirrt, er mag nur bewußtlos gewesen sein … Er hatte ja wahrlich keinen Grund, seinem Leben ein Ende zu machen …«
 
 Dwars nahm uns im Dienstauto mit. Er war still, in sich gekehrt, — plötzlich ließ er den Chauffeur wenden, ebenso plötzlich überfiel er uns mit der scharf hervorgestoßenen Bemerkung: »Ich möchte mir die bewußte Kiefer vor dem Sanatorium ansehen, meine Herren … Auch ich hatte einen Mann im Kino, leider nur einen … Der Windbüchsenschütze wollte Fräulein Berkamps Genesung hintertreiben, mild ausgedrückt. Herr Harst, Sie müssen nicht denken, daß wir am Alexanderplatz (Polizeipräsidium) schlafen … Gerbert hat mir alles gebeichtet, alles, auch von dem weißen Maulwurf … Eine Eildepesche ging nach Klausenburg, Antwort war in fünf Stunden da: Josef Strahl stammt aus Klausenburg und lebte dort als Diener des alten Fräulein Vilja Födösy, die in Klausenburg ein Haus besaß, dort war er Diener und Hausmeister. Wissen Sie von dem großen Prozeß gegen die drei Zigeuner, dem »Maulwurf-Prozeß«? Nun, Strahl war damals zweiundzwanzig Jahre alt … — — Stopp, — — steigen wir aus.«
 
@@ -516,7 +516,7 @@ Dwars trat schnell einen Schritt vor.
 
 »Sehr wahrscheinlich — fast gewiß«, erwiderte Harald widerwillig.
 
-»Mein Gott!«, — Dwars war entsetzt. »Und ich wollte Gerbert freilassen!!« Gerbert ist ja schuldlos … Und nun, — er als Verbündeter dieser Frau, — ich muß das annehmen, ich bin ein entwurzelter Stamm, ich glaubte, festen Boden unter den Füßen zu haben, und — — es war Flugsand …«
+»Mein Gott!«, — Dwars war entsetzt. »Und ich wollte Gerbert freilassen!! Gerbert ist ja schuldlos … Und nun, — er als Verbündeter dieser Frau, — ich muß das annehmen, ich bin ein entwurzelter Stamm, ich glaubte, festen Boden unter den Füßen zu haben, und — — es war Flugsand …«
 
 »Es scheint so … Lassen Sie Gerbert nicht frei. Der Mann ist zu schade als Opfer des weißen Maulwurfs«, erklärte Harst mit allem Nachdruck.
 

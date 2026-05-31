@@ -78,7 +78,7 @@ Das Erdreich lag hier kaum sechzig Zentimeter hoch über einer Schicht von Ziege
 
 Ich stand stumm dabei.
 
-Am Rande der Weltstadt Berlin sah ich hier etwas, das hinübergriff mit seinen entarteten Wühlern, denen der Farbstoff der Haut fehlte, bis ins ferne Karpatenland Siebenbürgen, bis zur Stadt Klausenburg, bis zu den ungarischen Zigeunern, diesen Meistern der Fiedel und Meistern im Faullenzen und Stehlen.
+Am Rande der Weltstadt Berlin sah ich hier etwas, das hinübergriff mit seinen entarteten Wühlern, denen der Farbstoff der Haut fehlte, bis ins ferne Karpatenland Siebenbürgen, bis zur Stadt Klausenburg, bis zu den ungarischen Zigeunern, diesen Meistern der Fiedel und Meistern im Faulenzen und Stehlen.
 
 Harst warf die Löcher, die er gegraben, wieder zu, und dann suchte er nach dem Schlupfloch, durch das der Riesenmaulwurf samt seiner Maske entkommen war. Er fand es. Von den großen Feldsteinen des Fundaments waren drei aneinanderliegende gelockert: Das Loch, das sie freigaben, lief schräg nach oben in ein Brombeerdickicht.
 
@@ -216,7 +216,7 @@ Strahl ließ den Kopf mutlos sinken …
 
 Der Diener hatte längst allen Widerstand aufgegeben. »Fräulein Tussi sandte ihr unter anderem zum Geburtstag Konfekt«, erwiderte er verzweifelt. »Wie sind Sie nun auf …«
 
-»Lassen Sie es gut sein …,« — ich reimte mir das einzig Richtige zusammen … — Also Fräulein Tussi, — — natürlich ahnte sie nicht, daß jemand das Konfekt vergiftet hatte, aber das alte Fräulein war eben vorsichtig und klug und kannte die Gefahr … — Und dann sollten <em>Sie</em> stumm gemacht werden, Josef Strahl … Sie trinken wohl vor dem Schlafengehen regelmäßig etwas Wasser mit Kognak … — Nun also, — der Kognak war vergiftet, auch Sie waren gewarnt, Sie tranken nicht, täuschten »Leiche« vor und entflohen — mit Frau Lünings Einverständnis …«
+»Lassen Sie es gut sein …,« — ich reimte mir das einzig Richtige zusammen … — »Also Fräulein Tussi, — — natürlich ahnte sie nicht, daß jemand das Konfekt vergiftet hatte, aber das alte Fräulein war eben vorsichtig und klug und kannte die Gefahr … — Und dann sollten <em>Sie</em> stumm gemacht werden, Josef Strahl … Sie trinken wohl vor dem Schlafengehen regelmäßig etwas Wasser mit Kognak … — Nun also, — der Kognak war vergiftet, auch Sie waren gewarnt, Sie tranken nicht, täuschten »Leiche« vor und entflohen — mit Frau Lünings Einverständnis …«
 
 Strahl nickte schwach, wischte sich den Schweiß von der Stirn und schaute Harst flehend an.
 
