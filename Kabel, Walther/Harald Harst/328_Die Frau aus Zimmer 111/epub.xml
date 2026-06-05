@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">ddc927f4-2e6b-4954-b80e-e2946edda0ec</entry>
+<entry key="title">Die Frau aus Zimmer 111</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">328</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Die Frau aus Zimmer 111
+
+Der sogenannte Jagdwagen, der uns von der Bahnstation abholte, war schon so eine Art Vorgeschmack dessen, was unser dort auf dem Landsitz Kettnerkoppje wartete. Ganz abgesehen von dem pechschwarzen Kutscher, dessen Wiege bestimmt im Kaffernlande gestanden hatte, und der in einer geradezu augenbeleidigenden grasgrünen, schäbigen Livree steckte, war dieses klapprige Vehikel ausgerechnet hellrot angestrichen, während die Pferde, zwei dicke faule Schimmel, diese Farbenorgie mit ihrem Weiß ergänzten.
+
+Wir gondelten also los, und als wir erst in den Wald eingebogen waren, atmeten wir geradezu erleichtert auf, weil wir hier außerhalb des Dorfes nicht mehr dem Gespött der Dorfbewohner und der Dorfjugend ausgesetzt waren.
+
+Herr Emil Kettner schien in dieser Gegend nicht sehr beliebt zu sein.
+
+Die zwei Arten betupfter Fliegen
+
+Nach dem gemeinsamen Frühstück unten im Eßzimmer, wobei es sehr still und sehr einsilbig herging, erklärte Harald, er wolle mit mir einen längeren Spaziergang unternehmen, sobald der Nebel, der zur Zeit noch gegen die Sonne ankämpfte, gewichen sei.
+
+Xaver Balzer fragte bescheiden wie immer an, ob er uns begleiten dürfe.
+
+»Ein Stück Wegs, natürlich, warum nicht«, nickte Harst munter. »Der ganze Weg ist nichts für Sie, Ihre Pflicht hält Sie hier in Kettnerkoppje zurück, und wir werden vielleicht abends heimkehren … Vielleicht …«
+
+Der gemütliche Balzer war zufrieden. »Ein Stück genügt mir …«, — aber es klang genau so anzüglich wie Haralds Hinweis auf die Beamtenpflicht.
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (328) Die Frau aus Zimmer 111.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1932</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
