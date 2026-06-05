@@ -82,7 +82,7 @@ sich in der Ferne im Nebelgebräu fortsetzte …
 
 Die Villa und der unsichtbare Fluß lagen dicht vor uns,
 — ein Schleppdampfer keuchte unsichtbar dahin, wir hörten
-spukhaft auf den Schleppkähnen das Trampeln der Schiffen,
+spukhaft auf den Schleppkähnen das Trampeln der Schiffer,
 wütende Zurufe und das Kläffen ihrer Wachthunde.
 
 Dann stürzte einer der Argus-Leute auf uns zu, der Mann
@@ -128,7 +128,7 @@ Er brach jäh ab …
 Um sofort hinzuzufügen: »Nun gut, bleiben Sie …
 Schraut hierher … Was seht ihr?«
 
-Wir sahen etwas das mich sofort an die gewissen, stets
+Wir sahen etwas, das mich sofort an die gewissen, stets
 <@pagebreak/>
 so oder so variierenden Geheimzeichen erinnerte, mit denen
 Wallace und andere gern operieren: »Roter Kreis«, »Blaue
@@ -463,7 +463,7 @@ Sank zu Boden …
 Penz knurrte wild: »Ich habe getroffen … Der Schuft
 hat mindestens acht Kugeln im Leibe …«
 
-Harst hüstelte, griff in die Tasche setzte sich und rieb ein
+Harst hüstelte, griff in die Tasche, setzte sich und rieb ein
 Zündholz an.
 
 »Das war ein Reinfall,« meinte er gleichmütig … »Männer,
@@ -487,7 +487,7 @@ Viele Augen stierten in den Floh hinab.
 
 Von Leiche keine Spur …
 
-Um Boden lagen ein Mantel, eine Golfmütze, ein aufblasbarer
+Am Boden lagen ein Mantel, eine Golfmütze, ein aufblasbarer
 <@pagebreak/>
 Gummimann, eine Stahlflasche und … ein Stückchen
 Strick, mit einer Stecknadel an ein Papier geheftet.
@@ -501,7 +501,7 @@ unten eine Art Ständer befestigt war und die Scheinwerfer
 diese groteske, zusammengeschrumpfte Gestalt in all ihrer
 zwerchfellerschütternden Harmlosigkeit grell bestrahlten, da erhob
 sich ein Gelächter, das über den Fluß durch den Nebel
-dröhnte wie die Überlaute Fröhlichkeit von Galeriebesuchern
+dröhnte wie die überlaute Fröhlichkeit von Galeriebesuchern
 in einem qualmerfüllten Varieté dritter Güte.
 
 Penz, der glückliche Mörder dieses leichten Schwerververbrechers
@@ -921,7 +921,7 @@ Harst warf die Arme hoch …
 Ich auch…
 
 Anderthalb Meter vor uns stand der Baron Günther von
-Stock das unnahbarste, reservierteste Mitglied des Orchideen-Klubs.
+Stock, das unnahbarste, reservierteste Mitglied des Orchideen-Klubs.
 
 Ein Mensch ohne Seele, ohne Herz …
 
@@ -1122,7 +1122,7 @@ Stocks Hals …
 
 Klirrend fielen die Handschellen nieder, — ich schob Stocks
 Mütze zur Seite: Oben unweit der Scheitellinie war eine
-Kleine Wunde:
+kleine Wunde:
 
 … Von einem rostigen Nagel der dicht neben dem Rauchfang
 herausragte.
