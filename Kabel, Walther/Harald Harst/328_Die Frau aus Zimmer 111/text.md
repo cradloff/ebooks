@@ -607,186 +607,187 @@ Ende des Holzschaftes noch leise hin und her pendelte.
 
 <h2>3. Kapitel.</h2>
 
-<h3>Die beiden Äcker.</h3>
+<h3>Die beiden Neger.</h3>
 
-Harsts Taschenlampe erlosch wieder, im hörte, daß er sich
-Dehli Boden  erhob, den Speer herauszog und das Papier mit
+Harsts Taschenlampe erlosch wieder, ich hörte, daß er sich
+vom Boden  erhob, den Speer herauszog und das Papier mit
 Augustus’ Geständnis in die Tasche schob. — »Komm’, mein
-Aller … Furcht das Theater wäre vorüber … Beeilen wir
-bis, ich will den Speer nur in unseren Schrank stellen, dann
-wegen wir Kettner auf.«
+Alter … Auch das Theater wäre vorüber … Beeilen wir
+uns, ich will den Speer nur in unseren Schrank stellen, dann
+suchen wir Kettner auf.«
 
 Der alte Farmer saß allein in seinem Arbeitszimmer
-ruhen dem Beleibter und las, Sein Gichtbein war wieder
-welch auf einen Hocker gelagert, und im Munde hing ihm die
-»unvermeidliche Pfeife.
+neben dem Schreibtisch und las. Sein Gichtbein war wieder
+weich auf einen Hocker gelagert, und im Munde hing ihm die
+unvermeidliche Pfeife.
 
 <@pagebreak/>
-»Nett von Ihnen, daß Sie mir ein wenig GesclUsäaft l4
-sitzen wollen«, begrüßte er uns auffallend freundlich.«
-glaubte, Sie wären sehr müde … Auch Koppje hat sich in
-Bei! gelegt … — — Setzen Sie sich) doch … — So,
-sind Zigarren … Wo steckt eigentlich Augustus, die blaß
-schwarze Haut?1’«
+»Nett von Ihnen, daß Sie mir ein wenig Gesellschaft
+leisten wollen«, begrüßte er uns auffallend freundlich. »Ich
+glaubte, Sie wären sehr müde … Auch Koppje hat sich ins
+Bett gelegt … — — Setzen Sie sich doch … — So, da
+sind Zigarren … Wo steckt eigentlich Augustus, die brave
+schwarze Haut?!«
 
-Harst blickte den alten Mann offen an. ;»Bitte,
-Kettner, — mal ehrlich) … Waren Sie soeben im Park?«
+Harst blickte den alten Mann offen an. »Bitte, Herr
+Kettner, — mal ehrlich … Waren Sie soeben im Park?«
 
-»Ich?!« Der Farmer lachte derb. »Ich«! Herr Herr
-wenn Sie Ei e Schmerzen im Fuße hätten wie ich, wüst
-Ihnen der Gedanke zu Spaziergänge vergehen! — Was schickte
-Frage
+»Ich?!« Der Farmer lachte derb. »Ich?! Herr Harst,
+wenn Sie *die* Schmerzen im Fuße hätten wie ich, würde
+Ihnen der Gedanke zu Spaziergänge vergehen! — Was sollte
+die Frage?«
 
-»Oh, sie bezog sich mit auf die betupften Fliegen, Es
-Kettner …« Seine Augen wanderten hin und her, bliebt
-auf Kellners gesundem Fuße haften, wanderten weiter U)t
-hingen schließlich nun dem Telefon auf dem Schreibtisch. »Monotonen
-sich merkwürdige Dinge, Herr Kettner«, fuhr er s
-Rand fort. »Man glaubt immer wieder, irgendwo ein
-sollen Faden zu einäschern, und — dann zerreißt das Gefolgt
-wieder … — Nein, Sie waren nicht draußen, und Bescheid
+»Oh, sie bezog sich mit auf die betupften Fliegen, Herr
+Kettner …« Seine Augen wanderten hin und her, blieben
+auf Kellners gesundem Fuße haften, wanderten weiter und
+hingen schließlich an dem Telefon auf dem Schreibtisch. »Hier
+ereignen sich merkwürdige Dinge, Herr Kettner«, fuhr er sinnend
+fort. »Man glaubt immer wieder, irgendwo einen
+festen Faden zu erhaschen, und — dann zerreißt das Gespinst
+wieder … — Nein, Sie waren nicht draußen, und deshalb
 muß ich telefonieren …«
 
 Der Alte starrte ihn verständnislos an.
 
-»deshalb — — telefonieren?! Mit wenig?!«
-»Mit dem Direktor der Anstalt Bruck… — Sie By
-steckten …«
+»deshalb — — telefonieren?! Mit wem?!«
 
-Kettners Gesicht verriet immer stärkeres ungläubiges Sticht
-nen. Aber gleichzeitig deutete die Nöte seiner Züge auch ay’
-einen kreisenden Ausbruch seiner gefährlichen Grobheit he
+»Mit dem Direktor der Anstalt Bruck… — Sie gestatten
+…«
 
-»Mit der Anstalt Bruck?!« Er schnappte förmlich 1-
-Luft. »Herr, was haben Sie denn mit einem Idiotenasyl /-
-tun?!« See brüllte bereits wieder, ihn reizten Harsts nur
-gründliche Andeutungen … »Reden Sie gefälligst, Her!,
-Diese Affenkomödie hier muß ein Ende haben, so oder so.,
+Kettners Gesicht verriet immer stärkeres ungläubiges Staunen.
+Aber gleichzeitig deutete die Röte seiner Züge auch auf
+einen drohenden Ausbruch seiner gefährlichen Grobheit hin.
 
-»Das Ende wird kommen«, sagte Harst gleichmütig ihm
-blätterte im Fernsprechverzeichnis … »Drüben in der
+»Mit der Anstalt Bruck?!« Er schnappte förmlich nach
+Luft. »Herr, was haben Sie denn mit einem Idiotenasyl zu
+tun?!« Er brüllte bereits wieder, ihn reizten Harsts unverständliche
+Andeutungen … »Reden Sie gefälligst, Herr …
+Diese Affenkomödie hier muß ein Ende haben, so oder so …!«
+
+»Das Ende wird kommen«, sagte Harst gleichmütig und
+blätterte im Fernsprechverzeichnis … »Drüben in der Anstalt
 <@pagebreak/>
-lt Bruck in Zimmer 111 ist eine Frau interniert, die vor
-»inmitten Zeit der Presse übergenug Stoff zu SeusationIar«
-Wein Feierte. Der Name Harriet Prill dürfte Ihnen nicht
-allesamt sein, und was hinter diesem Namen steckt, haben
-wir vielleicht nur zum geringsten Teile damals in der Mariovwelltenshule
-der Frau Agna Niemand aufgedeckt. Der eigene
-GSelbsterhgltungstrieb, diese selbstverständlichste aller
-menschlichen Gegangen, zwingt Schraut und mich, Ihre
-»mir, Herr Kettner, mit zu der unseren zu machen. So liebte
-Dinge, und nun werde ich telefonieren …«
+Bruck in Zimmer 111 ist eine Frau interniert, die vor
+einiger Zeit der Presse übergenug Stoff zu Sensationsartikeln
+lieferte. Der Name Harriet Prill dürfte Ihnen nicht
+unbekannt sein, und was hinter diesem Namen steckt, haben
+wir vielleicht nur zum geringsten Teile damals in der Marionettenschule
+der Frau Agna Niemand aufgedeckt. Der einfache
+Selbsterhaltungstrieb, diese selbstverständlichste aller
+menschlichen Regungen, zwingt Schraut und mich, *Ihre*
+Sache, Herr Kettner, mit zu der unseren zu machen. *So* liegen
+die Dinge, und nun werde ich telefonieren …«
 
 Der alte Farmer murmelte nur ein »Entschuldigen Sie
-die, — ich bin ein altes Rauhbein…«, während Harst an
-den Direktor der Anstalt sehr bestimmt formulierte ’Fragen
-Wollte …
+bitte, — ich bin ein altes Rauhbein …«, während Harst an
+den Direktor der Anstalt sehr bestimmt formulierte Fragen
+stellte …
 
-Die Antworten ergaben: Nr. 111 liege im Sackträger der
-Anstatt mit den Fenstern nach Süden zu im zweiten Stock«,
-willst Prill würde aufs allerschärfste überwacht, er, der Dja«
-»Flor, sei noch vor wenigen Minuten bei ihr gewesen, sie
-beschäftige sich ausschließlich mit der Niederschrift ihrer Lesmmcrinncrungeu,
-die sie aussOmchmüde und in denen sie ihre
-schon überall in den Vordergrund dränge. ’.
+Die Antworten ergaben: Nr. 111 liege im Südflügel der
+Anstalt mit den Fenstern nach Süden zu im zweiten Stock,
+Harriet Prill würde aufs allerschärfste überwacht, er, der Direktor,
+sei noch vor wenigen Minuten bei ihr gewesen, sie
+beschäftige sich ausschließlich mit der Niederschrift ihrer
+Lebenserinnerungen, die sie ausschmücke und in denen sie ihre
+Person überall in den Vordergrund dränge.
 
-Zum Schluß fragte Harst nur noch eins »Verteilt sie
-Mr roter Tinte?«
+Zum Schluß fragte Harst nur noch eins: »Schreibt sie
+mit roter Tinte?«
 
 »Ja — auch eine Begleiterscheinung ihrer Krankheit«,
-lautete die Entgegnung. —
+lautete die Entgegnung.
 
-Stern hängte Harald wieder ab und wandte sich uns wie
-der z »Herr Kettner, Sie ’haben mit angehört, was der Du
-Hof mir erwiderte, Ihr Apparat ist sehr laut, Und nun
-»hohe ich Sie: Wen Burschen Sie und war haben
-Mal befürchten Fliegen damit zu tun? Ursprünglich waren Sie
-Willens, uns einzuweihen, durch die Auffindung des Grimmes
-deren haben Sie Ihren Entschluß geändert. Nickte …
+Dann hängte Harald wieder ab und wandte sich uns wieder
+zu. »Herr Kettner, Sie haben mit angehört, was der Direktor
+mir erwiderte, Ihr Apparat ist sehr laut. Und nun
+frage ich Sie: *Wen* fürchten *Sie* und *was* haben
+die betupften Fliegen damit zu tun? Ursprünglich waren Sie
+willens, uns einzuweihen, durch die Auffindung des Ermordeten
+haben Sie Ihren Entschluß geändert. — Bitte …!«
 
-Und derselbe Mann, der vorhin noch sein möge,)nacktes
-Temperament so frei hatte austoben lassen, saß nun in seinen
-»eitel wie ein hilfloses Wrack da, hielt den Kopf ganz Spiel
+Und derselbe Mann, der vorhin noch sein ungezügeltes
+Temperament so frei hatte austoben lassen, saß nun in seinem
+Sessel wie ein hilfloses Wrack da, hielt den Kopf ganz tief
 <@pagebreak/>
-gesenkt, atmete vor Erregung in keuchenden Großen und
-konnte sich doch nur zu der Erklärung aufraffen: »I … ich
+gesenkt, atmete vor Erregung in keuchenden Stößen und
+konnte sich doch nur zu der Erklärung aufraffen: »Ich … ich
 habe meine Gründe, Herr Harst … Legen Sie mir mein
 Schweigen nicht falsch aus … Ich darf nichts sagen.«
 
-Harald betrachtete ihn fast mitleidig. »Ehe wird die Stunde
-kommen, wo Ihnen dies sehr leid tun wird, Herr Kettner,
-Vielleicht kann ich diese Stunde abwenden; vielleicht. Sie
-stellen mich hier vor eine gewaltige Aufgabe, denn wo zwei
+Harald betrachtete ihn fast mitleidig. »Es wird die Stunde
+kommen, wo Ihnen dies sehr leid tun wird, Herr Kettner.
+Vielleicht kann ich diese Stunde abwenden, vielleicht. Sie
+stellen mich hier vor eine gewaltige Aufgabe, denn wo *zwei*
 besonders geartete Ereignisse offenbar zufällig ineinander
-fließen wie hier, ergibt sich ein so … unübersichtliches Bild, daß
+fließen wie hier, ergibt sich ein so unübersichtliches Bild, daß
 man geradezu ein Genie sein müßte, einen solchen Knäuel zu
-entwirren … — Auf Wiedersehen beim Abendtrunk …«
+entwirren … — Auf Wiedersehen beim Abendbrot …«
 
 Der alte Mann sprach nichts mehr, nur seine Blicke spürte
 ich, und als ich mich an der Tür umwandte, gewahrte ich in
 den blanken Augen des Farmers zum ersten Male einen Ausdruck
 von heimlicher Angst. —
 
-Xaver Balzer saß oben bei uns. »Der Augustus ist!
+Xaver Balzer saß oben bei uns. »Der Augustus ist
 nun wieder vernünftig geworden … Er wird schweigen, und
 wir auch …«
 
-»Dann kann ich also des Negers sogenamnwptes Geständnis
-verbrennen«, meinte Harald, sich dem gleichgültigem Pony
+»Dann kann ich also des Negers sogenanntes Geständnis
+verbrennen«, meinte Harald, sich dem gleichgültigem Tone
 Balzers völlig anpassend, und warf das zusammengeknüllte
-Stück Papier, das er aus der Tasche hervorgeholt hatte, ahnt
+Stück Papier, das er aus der Tasche hervorgeholt hatte, ohne
 weiteres ins Feuer, so daß Balzers Einspruch zu spät kam,
 
-Wir konnten uns über den Fall Glück auch gar nicht länger
-unterhalten, da das Stubenmädchen uns zu Tisch bat.«
+Wir konnten uns über den Fall Orlik auch gar nicht länger
+unterhalten, da das Stubenmädchen uns zu Tisch bat.
 
-— Augustus saß wieder Mit an der Tafel, er ließ sich nichts
-anmerken, er war ja überhaupt ein stillen älterer Mensch
+Augustus saß wieder Mit an der Tafel, er ließ sich nichts
+anmerken, er war ja überhaupt ein stiller älterer Mensch
 mit bereits ergrautem Wollkopf, auch Koppje war erschienen
 und das Mädchen bewies jetzt, daß es die Gefahr sehr wohl
-ahnte, die ihr von Seiten Balzer? drohte, sie gab sich gar)
+ahnte, die ihr von Seiten Balzers drohte, sie gab sich ganz
 zwanglos und beteiligte sich am allgemeinen Gespräch mit
-größter Beherrschung. Wie es in Wirklichkeit in ihr aussah),
-war eine andere Sache. Gegen elf Uhr begaben wir uns auf ums
-Herr Zimmer, Harald hatte schon sehr kräftig gegähnt, und Habe
+größter Beherrschung. Wie es in Wirklichkeit in ihr aussah,
+war eine andere Sache. Gegen elf Uhr begaben wir uns auf unsere
+Zimmer, Harald hatte schon sehr kräftig gegähnt, und Balzers
 <@pagebreak/>
-wert Versuch, noch eine Unterrxedung zu dreien herbeizuführen,
-klug fehl.
+Versuch, noch eine Unterredung zu dreien herbeizuführen,
+schlug fehl.
 
-Unser Zimmer war überheizt, ich) öffnete die Balkontüren,
-hocke Nebelschwaden versperrten jede Aussicht, eisigkalte Luft
-beging herein, und Harst, der nur die eine Nachttischlampe einveschaltet
+Unser Zimmer war überheizt, ich öffnete die Balkontüren,
+dicke Nebelschwaden versperrten jede Aussicht, eisigkalte Luft
+drang herein, und Harst, der nur die eine Nachttischlampe eingeschaltet
 hatte, zog mich eiligst auf das Sofa aus dem Bereiche
 der offenen Tür. »Du scheinst die Lage noch immer nicht
 richtig zu erfassen«, warnte er gereizt. »Wie kann man sich
-nur so als Zielscheibe aufbauen!! Ich habe jetzt Tier wo
-wirklich seine Zeit, an deinem Begräbnis teilzunehmen. Au
-wem Toten haben wir übergenug, der zweite, Augustus,
-matte beinahe fällig gewesen, — — brave Seele übrigens, er
-wollte sich für seinen Herrn opfern, irrtümlicherweise, den
-weder Kettner noch Augustus haben diesen Orlik gesperrt.«
+nur so als Zielscheibe aufbauen!! Ich habe jetzt gerade
+wirklich keine Zeit, an deinem Begräbnis teilzunehmen. An
+einem Toten haben wir übergenug, der zweite, Augustus,
+wäre beinahe fällig gewesen, — — brave Seele übrigens, er
+wollte sich für seinen Herrn opfern, irrtümlicherweise, denn
+weder Kettner noch Augustus haben diesen Orlik gespeert.«
 
 »Wer denn?«, fragte ich ohne Umschweife. Ich wollte
-Warten haben.!
+Klarheit haben.
 
 »Ich weiß es nicht«, entgegnete er zögernd. »Ich werde
-herauskriegen, und dann werden auch die rot betupften
-Kragen ihr Geheimnis preisgeben. Zweierlei ist Sicher: Co«
-wohl Harriet Prill als auch jemand anders hat diese Fliehen
-wäpariert und zwar in ganz verschiedener Absicht, Unsere
+es herauskriegen, und dann werden auch die rot betupften
+Fliegen ihr Geheimnis preisgeben. Zweierlei ist Sicher: Sowohl
+Harriet Prill als auch jemand anders hat diese Fliegen
+präpariert und zwar in ganz verschiedener Absicht. Unsere
 Feindin Harriet benutzte sie als Geheimdepeschen an ihre
-verschloß noch vorhandenen Anhänger, jemand andere denke
+zweifellos noch vorhandenen Anhänger, jemand anderes benutzte
 sie als Schreckmittel gegen Emil Kettner. — Das wäre
-»ne eine… Und das zweite: Clemens Antlitz war einer von Harsts
+das eine… Und das zweite: Clemens Orlik war einer von Harriets
 Freunden! Die Polizei hat damals kaum die ganze
 Bande gefaßt. Alles weitere muß noch geklärt werden.«
 
-Die Nachttischlampe hatte einen dunkelgelben GSeidnohhirm
+Die Nachttischlampe hatte einen dunkelgelben Seidenschirm
 und beleuchtete nur gerade die nächste Umgebung des
 Nachttisches. Von draußen konnte dieser schwache Lichtschein
-kann bemerkt werden, zumal der feuchte Nebel in immer sicheren
+kaum bemerkt werden, zumal der feuchte Nebel in immer dichteren
 Schwaden ins Zimmer drang. Ich wollte nun die Tür
-wieder schließen, aber Harald hielt mich zurück. »Still,
+wieder schließen, aber Harald hielt mich zurück. »Still, —
 bleibe sitzen …«, raunte er mir zu, bückte sich, kroch zu seinem
 <@pagebreak/>
 Bett, und die Lampe erlosch mit einem kaum hörbaren Knacken
@@ -795,10 +796,10 @@ des kleinen Knebelschalters.
 Kaum hörbar … Dafür hörte ich etwas anderes, und
 auch Harst mußte dadurch gewarnt worden sein.
 
-Der Balkon hatte eine eiserne Einfassung und oben dar
-auf UBlumenkästen mit längst verwelkten Petunien. Ein Welt
-ser Stoß ließ einen der Kästen dumpf erdröhnen, — dann blieb
-wieder alles still aber ich fühlte Haralds Hand, fühlte seinen
+Der Balkon hatte eine eiserne Einfassung und oben darauf
+Blumenkästen mit längst verwelkten Petunien. Ein leiser
+Stoß ließ einen der Kästen dumpf erdröhnen, — dann blieb
+wieder alles still, aber ich fühlte Haralds Hand, fühlte seinen
 Mund an meinem Ohr:
 
 »Eine Leiter!«, hauchte er … »Abwarten … Richte dich
@@ -806,243 +807,241 @@ ganz nach meinem Verhalten …«
 
 Die eisige Finsternis wirkte doppelt bedrückend. Harsts
 Griff um meinen Arm verstärkte sich noch, — wieder ein
-Geräusch von draußen, ein Knarren und kurzes Qutetfck)eu.
+Geräusch von draußen, ein Knarren und kurzes Quietschen.
 Jemand stieg die Leiter empor!
 
-Harald flüsterte hastig: »Du wirst. eine Überraschung ans
-Leben …!! Nichts üÜbereilen!t’«
+Harald flüsterte hastig: »Du wirst eine Überraschung erleben
+…!! Nichts übereilen!!«
 
-Jetzt knackte draußen der Zinkbelag des Balkons, dank
+Jetzt knackte draußen der Zinkbelag des Balkons, dann
 vernahm ich schnelle Atemzüge, — unwillkürlich dachte ich
-an Augustus, dessen Atemwerkzeuge nach dem heutigen Gelbe
-Mordversuch nicht ganz in Ordnung waren.
+an Augustus, dessen Atemwerkzeuge nach dem heutigen Selbstmordversuch
+nicht ganz in Ordnung waren.
 
-Und wieder knarrte etwas, — das konnte nur die Tür,
-schnellte sein …
+Und wieder knarrte etwas, — das konnte nur die Türschwelle
+sein …
 
 Der Nervenkitzel dieser Vorgänge war denn doch etwas zu
-stark, — mein Herz begann ein wenig zu Sammlern, — — Flöhe
-ihm? das Knacken des Kindliches, das Knarren der Leiter,
-und da lockerte sich Herbsts Griff, ich) spürte, daß er sich sah
-lernte, ich erhob mich, draußen auf dem Balkon blitzte ein
-verschwommene Lichtbahn auf, e war Haralds Taschenlampy,
-auch ich eilte hinaus, der unbekannte Eindringling Politik
+stark, — mein Herz begann ein wenig zu hämmern, — — plötzlich
+das Knacken des Zinkbleches, das Knarren der Leiter,
+und da lockerte sich Harsts Griff, ich spürte, daß er sich entfernte,
+ erhob mich, draußen auf dem Balkon blitzte eine
+verschwommene Lichtbahn auf, es war Haralds Taschenlampe,
+auch ich eilte hinaus, der unbekannte Eindringling wollte
 entweichen, mein Freund schwang sich bereits auf das Balkongeländer,
 rutschte in die Tiefe, ich hörte unten einen halb
-unterdrücken Schoner, eine große Radfahrlampe zerschnitt
-ihrem weißen Kegel für Sekunden die Finsternis, ich halt
+unterdrücken Schrei, eine große Radfahrlampe zerschnitt mit
+ihrem weißen Kegel für Sekunden die Finsternis, ich hatte
 mich weit über das Geländer gelegt, ich erblickte für einen
 <@pagebreak/>
-»niemand in diesem Strahlenkegel zwei Negergesichter mit er«
-Haufen Wollköpfen, dann Erlös) das Karbidlicmcht, Glas klirrte,
-und ich vernahm hastige Schritte, — — und wieder nach Eurem
+Moment in diesem Strahlenkegel zwei Negergesichter mit ergrauten
+Wollköpfen, dann erlosch das Karbidlicht, Glas klirrte,
+und ich vernahm hastige Schritte, — — und wieder nach kurzem
 knarrte die Leiter von neuem, und Harald flüsterte mir
-w: »Schnell, hinüber zu Augustus …!’ Wollen sehen, ob
-er in seinem Zimmer ist …
+zu: »Schnell, hinüber zu Augustus …!! Wollen sehen, ob
+er in seinem Zimmer ist …«
 
 Wir traten auf den Flur hinaus, die Umrisse der Stubentür
 des Negers waren helle Streifen, Harald legte
-die Hand auf den Brüder, die Tür. war unverschlossen, sie
-Ring auf, und wir sahen Augustus an seinem Sccreibtisch
-ihnen, mit dem Ordnen von Benutzen beschäftigt. Er blickte
-auf, erhob sich sofort … Sein Gesicht verriet nichts als je
-gen mäßigen Grad von Erstaunen, den unser unerwartetes
-umbringen bei einem starknervigen Manne hervorrufen mußte.
-Her Schwarze trug jetzt eine Hausjoppe’ und Filzschuhe, und
-gilt dem Aschbecher lag eine halb ’ aufgxrouchte kncunendk
-Hypnose
-Harald zog die Tür hinter sich zu, ich].ist wortlos auf das
-ne Fenster zu, schob der Vorhang bei Seite und besichtigte
-den Fensterkopf, ließ die Vorhang wieder zufallen und
-fügte zu dem Schwarzen, der ihn gemütsruhig beobachtete:
-… Hinaustrug Sie müssen ehrlich sein …! Ich bitte Sie darum…
-Waren Sie soeben draußen Gut Park?« —
+die Hand auf den Drücker, die Tür war unverschlossen, sie
+ging auf, und wir sahen Augustus an seinem Schreibtisch
+sitzen, mit dem Ordnen von Rechnungen beschäftigt. Er blickte
+auf, erhob sich sofort … Sein Gesicht verriet nichts als jenen
+mäßigen Grad von Erstaunen, den unser unerwartetes
+Eindringen bei einem starknervigen Manne hervorrufen mußte.
+Der Schwarze trug jetzt eine Hausjoppe und Filzschuhe, und
+auf dem Aschbecher lag eine halb aufgerauchte brennende
+Zigarre.
 
-»Nein, bestimmt nicht«, entgegnete Augustus ohne Zaudern…
-»Bemerkten Sie etwas Verdächtiges, Herr Harsts«
+Harald zog die Tür hinter sich zu, schritt wortlos auf das
+eine Fenster zu, schob den Vorhang bei Seite und besichtigte
+den Fensterkopf, ließ den Vorhang wieder zufallen und
+sagte zu dem Schwarzen, der ihn gemütsruhig beobachtete:
+»Augustus, Sie müssen ehrlich sein …! Ich bitte Sie darum.
+Waren Sie soeben draußen im Park?«
 
-Er log nicht. Er war nicht draußen gewesen, sein Armenier
-war voller Zigarrenrauch, Wand in so kurzer Zeit hätte
-er auch) kaum sein Zimmer wieder erreichen können. Aber
-etwas anderes merkte ich; In seiner letzten Frage klang eine
+»Nein, bestimmt nicht«, entgegnete Augustus ohne Zaudern.
+»Bemerkten Sie etwas Verdächtiges, Herr Harst?«
 
-wisse Angst mit, und seine Augen ruhten nun auch 1)aller
-Bewachung auf Harsts Gesicht.
+Er log nicht. Er war nicht draußen gewesen, sein Zimmer
+war voller Zigarrenrauch, und in so kurzer Zeit hätte
+er auch kaum sein Zimmer wieder erreichen können. Aber
+etwas anderes merkte ich: In seiner letzten Frage klang eine
+gewisse Angst mit, und seine Augen ruhten nun auch voller
+Erwartung auf Harsts Gesicht.
 
 »Ja, etwas sehr Verdächtiges …«, erwiderte Harald leise,
-»Nämlich zwei Neger, Augustus? Der etwa war bereits
-als einer Leiter bis zu unserer Balkontür gelangt, kehrte leck
-Ei) um, als er sie offen fand … Unten wartete ein zweiter
+»Nämlich zwei Neger, Augustus …! Der eine war bereits
+auf einer Leiter bis zu unserer Balkontür gelangt, kehrte jedoch
+um, als er sie offen fand … Unten wartete ein zweiter
 <@pagebreak/>
-mit einer Karbidlaterne, — bei dem dichten Welch Ende
-mischten mir beide.«
+mit einer Karbidlaterne, — bei dem dichten Nebel entwischten
+mir beide.«
 
-Augustus mochte Nerven und Muskeln wie Erachtens
+Augustus mochte Nerven und Muskeln wie Stahltaue
 haben. All das half ihm nichts, er wurde aschfahl, seine
-Augen quollen ihm förmlich aus dem Kopfe, der Mund öffnet
-sich, aber über die dicken Wulstlippen kam nur ein Scharf,
-als ob des Negers Seele vor Sherlock und Grauen den hageren
+Augen quollen ihm förmlich aus dem Kopfe, der Mund öffnete
+sich, aber über die dicken Wulstlippen kam nur ein Ächzen,
+als ob des Negers Seele vor Schreck und Grauen den hageren
 Leib verlassen wollte. Und dann gelang es ihm, ein paar
 verständliche Worte hervorzuquälen:
 
-»Also … doch!! Also … den!! Sie sind da! —
-Herr Harst, — — rasch hinab zu meines Herrn Schlafzimmer,
+»Also … doch!! Also … doch!! Sie sind da! — —
+Herr Harst, — — rasch hinab zu meines Herrn Schlafzimmer.
 Hoffentlich kommen wir nicht zu spät …«
 
 … Wir kamen nicht zu spät … Wir kamen sogar zu
 früh, denn der Farmer mit dem verwitterten Gesicht lag lesend
-im! Bett und schnauzte uns grob an, — am übelsten erging 09
+im Bett und schnauzte uns grob an, — am übelsten erging es
 Augustus,
 
-» … Wenn du verdammter Gegensatz auch nur den Mund
-Jugendreiz ausmachst und hier Ammenmärchen erzählst, dreht
+»… Wenn du verdammter Hasenfuß auch nur den Mund
+fingerbreit aufmachst und hier Ammenmärchen erzählst, drehe
 ich dir das Genick um! — Raus!! Gute Nacht …!«
 
-Nun, man mußte Emil Kettner nehmen, wie er warf,
+Nun, man mußte Emil Kettner nehmen, wie er war.
 Über eins war mir nicht entgangen: Auf seinem Nachttisch
 hatten zwei Revolver gelegen, und als Harald die beiden
 fremden Schwarzen erwähnt hatte, da hatte Kettner die noch
 immer tadellos erhaltenen Zähne so fest zusammengebissen,
-daß sie mißtönend knirschten, und sein faltiges Gesicht war als
+daß sie mißtönend knirschten, und sein faltiges Gesicht war erst
 blaurot und dann kalkig-weiß geworden.
 
-h. Kapitel,
+<h2>4. Kapitel,</h2>
 
-Das Boot auf dem See
+<h3>Das Boot auf dem See</h3>
 
 Augustus schlich mit hängendem Kopfe vor uns her und
-wollte wieder in den Oberstock h)zinauf… Harald hielt rinnt
+wollte wieder in den Oberstock hinauf… Harald hielt ihn
 zurück.
 <@pagebreak/>
 »Wo ist der Schlüssel zum Bootsschuppen, Augustus? —
 dort neben dem Kleiderregal …? — Gut, Schraut und ich
-werden uns draußen ein wenig umsehen, Mäntel und Müssen
-nehmen wir dort vom Kleiderriegel, jeglichen Sie hinter
-uns die Haustür ab … — Sie und Ihr Herrn, ihr seid unglaubsINch
-töricht, mir die Arbeit So zu erschweren …! Statt erkennt
-sprechen, verstärkt ihr euch hinter thetmntfsc, die wahrscheinlich
-bei Licht Zeichen bedeutungslos lud — Lehnte Wie
-betrete, Augustus …! — — Vormache, mein Alter, nur keine
-Zelt vertrödeln …!«
+werden uns draußen ein wenig umsehen. Mäntel und Mützen
+nehmen wir dort vom Kleiderriegel, schließen Sie hinter
+uns die Haustür ab … — Sie und Ihr Herr, ihr seid unglaublich
+töricht, mir die Arbeit So zu erschweren …! Statt offen
+zu sprechen, verstärkt ihr euch hinter Geheimnisse, die wahrscheinlich
+bei Licht besehen bedeutungslos sind. — Keine Widerrede,
+Augustus …! — — Vorwärts, mein Alter, nur keine
+Zeit vertrödeln …!«
 
-Wir betraten den Vorgarten, der Nebel versqluckte uns
-Tatort, In diesen grauen Schwaden sich zurechtzufinden, war
-wirklich? ein Kunststück. Aber wir gelangten Großbaum zum
-YennisSplaß, eilten nach links die Böschung hinab, — rechts
-fand die Birke, von der natürlich? auch nichts zu sehen war,
-Ins der kleine Bootsschuppen, der zugleich Badezelle spielte.
-wir fanden den Schuppen, überschritten den kurzen Steg, spielt
+Wir betraten den Vorgarten, der Nebel verschluckte uns
+sofort. In diesen grauen Schwaden sich zurechtzufinden, war
+wirklich ein Kunststück. Aber wir gelangten trotzdem zum
+Tennisplatz, eilten nach links die Böschung hinab, — rechts
+stand die Birke, von der natürlich auch nichts zu sehen war,
+links der kleine Bootsschuppen, der zugleich Badezelle spielte.
+wir fanden den Schuppen, überschritten den kurzen Steg, Harald
 wollte gerade die Tür aufschließen, als durch den Nebel
-in See her schwache, gleichmäßige Geräusche herüberdrangen:
-wir Boot, — — jemand Unterteil!
+vom See her schwache, gleichmäßige Geräusche herüberdrangen:
+Ein Boot, — — jemand ruderte!!
 
-Harald horchte angestrengt. Die Geräusche wurden schh)wäher,
+Harald horchte angestrengt. Die Geräusche wurden schwächer,
 aber ungefähr konnte man doch die Richtung feststellen,
-hie das Boot nahm: Gen Norden, — und dort lag die Anstalt
-Pirat, dort war die Frau eingesperrt, die uns den Hol’ geh
-Juwelen hatte!
+die das Boot nahm: Gen Norden, — und dort lag die Anstalt
+Bruck, dort war die Frau eingesperrt, die uns den Tod geschworen
+hatte!
 
-Reizt verstummte jedes Geräusch) Nur das Schiff
-raschelte, das Röhricht rauschte leise, und irgendwoher kam: der
-Auf einer versez)lasenen Krähe …
+Jetzt verstummte jedes Geräusch … Nur das Schilf
+raschelte, das Röhricht rauschte leise, und irgendwoher kam der
+Ruf einer verschlafenen Krähe …
 
-Harald lehnte an der Tür der Brettabude und regte sich
-ahnt. Er schien auf irgend etwas: zu: warten. Er horchte
-auch immer, und dann flüsterte er hastig:
+Harald lehnte an der Tür der Bretterbude und regte sich
+nicht. Er schien auf irgend etwas zu warten. Er horchte
+noch immer, und dann flüsterte er hastig:
 
-»Würdest du jetzt sofort versuchen, jenes Boot. und seinen
+»Würdest du jetzt sofort versuchen, jenes Boot und seinen
 Insassen festzustellen? Oder würdest du der Eingebung
-hat Augenblick folgen und nur nachsehen, — ob Kettners Boote
-er besitzt zwei — im Schuppen sind?1’
+des Augenblicks folgen und nur nachsehen, — ob Kettners Boote
+— er besitzt zwei — im Schuppen sind?!«
 
 <@pagebreak/>
 Im Grunde war das keine Frage. Er wartete auch keine
 Antwort ab. Er schloß die Tür auf, schaltete die Taschenlampe
 ein: In dem Bootsschuppen lag nur der große Angelkahn
-Kellners! Das kleinere Boot fehlte, und die Türen nach dehnt
+Kettners! Das kleinere Boot fehlte, und die Türen nach dem
 Wasser zu waren nur angelehnt.
 
 Harst sprach kein Wort, winkte mir nur, wir verließen
 den Schuppen, schlossen ab und legten uns fünf Schritt von
-dem kurzen Bootssteg entfernt in das nasse Gras. Die Nie
-charmantes, die wir da in der Vorhalle vom Kleiderriegel q0s
-Kommen hatten, vertrugen diese Behandlung recht Gut, es
-waren dicke Gummimäntel, bereits sca)adhaft, und Kälte und
-Nässe konnten uns nicht viel anhaben. Gewiß, wie froren er
-was, aber die Erregung, die eine derartige Menschenjagd Mr!
+dem kurzen Bootssteg entfernt in das nasse Gras. Die Regenmäntel,
+die wir da in der Vorhalle vom Kleiderriegel genommen
+hatten, vertrugen diese Behandlung recht Gut, es
+waren dicke Gummimäntel, bereits schadhaft, und Kälte und
+Nässe konnten uns nicht viel anhaben. Gewiß, wie froren etwas,
+aber die Erregung, die eine derartige Menschenjagd mit
 sich bringt, ließ uns diese kleinen Unannehmlichkeiten schnell
-vergessen … Hinzu kam noch der düstere Reiz dieser Nebel
-nacht, — wer je gezwungen war, in diesem feuchten, grauen Ohr
-Frau von feinsten Tröpfchen zu einsamer Stelle, sei es zu
-dem Walther, sei es auf dem Lande, zu verweilen, kennt div
-geheimnisvolle Macht, die diesen wallenden Äbetschleiery
-innewohnt, Das Auge ist fast ausgeschaltet, — zerreißt wirke
-lich einmal dieser die graue Vorhang durch einen Windstoß,
-so bleibt immer noch genug Nebel ja dem so entstandene;q
-Loche übrig, die Gegenstände Museum bleiben verschhwomumeny
+vergessen … Hinzu kam noch der düstere Reiz dieser Nebelnacht,
+— wer je gezwungen war, in diesem feuchten, grauen Gebräu
+von feinsten Tröpfchen an einsamer Stelle, sei es auf
+dem Wasser, sei es auf dem Lande, zu verweilen, kennt die
+geheimnisvolle Macht, die diesen wallenden Nebelschleiern
+innewohnt. Das Auge ist fast ausgeschaltet, — zerreißt wirklich
+einmal dieser die graue Vorhang durch einen Windstoß,
+so bleibt immer noch genug Nebel in dem so entstandenen
+Loche übrig, die Gegenstände ringsum bleiben verschwommen
 wie ein völlig verwischtes Bild, und das Loch schließt sich sofort
-wieder, als Elite ein Bühnenvorhang hernieder und vp
-dachte eine schlecht beleuhmtete Szenerie. UnddeöShalb ist man
-in sollen undurchdringlichen Gebräu lediglich auf das Ohr
-angewiesen, auf das Gehör, doch auch; der Gehörsinn wild
-unzuverlässig, da der Nebel den Fatal niemals geradeuty
-leitet und die Cdqjallwellen sich die dünneren Nebelstellen zu
-schnellerem Vorbringen auswählen …
+wieder, als glitte ein Bühnenvorhang hernieder und verdeckte
+eine schlecht beleuchtete Szenerie. Und deshalb ist man
+in solchem undurchdringlichen Gebräu lediglich auf das Ohr
+angewiesen, auf das Gehör, doch auch der Gehörsinn wird
+unzuverlässig, da der Nebel den Schall niemals geradeaus
+leitet und die Schallwellen sich die dünneren Nebelstellen zu
+schnellerem Vordringen auswählen …
 
-Die Zeit schlich … Von meinem Hutrand fielen eiskalt
-Tropfen auf meine Hände … Tod dick war der Nebel …
+Die Zeit schlich … Von meinem Hutrand fielen eiskalte
+Tropfen auf meine Hände … So dick war der Nebel …
 
-Das »rauchten verschlafener Krähen, die da im nachts
-Parke herstellen, steigerte sich zuweilen zu mißtönendem Lärm
-
+Das Krächzen verschlafener Krähen, die da im nahen
+Parke horsteten, steigerte sich zuweilen zu mißtönendem Lärm.
 <@pagebreak/>
-Es ist ein mißtrauisches, gänzlich Wölkchen, diese Krähenbrut,
-und ihre Wachsamkeit wird nur noch durch die des cns)elMNbers
+Es ist ein mißtrauisches, zänkisches Völkchen, diese Krähenbrut,
+und ihre Wachsamkeit wird nur noch durch die des Eichelhähers
 übertroffen.
 
 »Sie lärmen zu stark«, raunte Harald mir plötzlich zu.
-»Ha ist irgend etwas nicht in Ordnung … Ich wundere mich)
-überhaupt daß unser Aufpasser Xaver Balzer sich so taten«
-vF verhält … Aber man soll den Tag nicht vordem
-Abend sieben, Walzer versteht seinen Kram, und gerade diese
-Gift scheinbar still gemütlicher Kadaver pflegen mit peinlichen
-Lles«)errafchungen aufzuwarten … — Da, was war das
-eben …?!
+»Da ist irgend etwas nicht in Ordnung … Ich wundere mich
+überhaupt, daß unser Aufpasser Xaver Balzer sich so tatenlos
+verhält … Aber man soll den Tag nicht vor dem
+Abend loben, Balzer versteht seinen Kram, und gerade diese
+Art scheinbar still-gemütlicher Naturen pflegen mit peinlichen
+Überraschungen aufzuwarten … — Da, was war das
+eben …?!«
 
-»(in Ruin kollerte den Grasabhang hinab …
+»Ein Stein kollerte den Grasabhang hinab …«
 
-»Leiser! — du hast leicht … Wir sind hier nicht allein …
-Nein Wort mehr …«
+»Leiser! — du hast recht … Wir sind hier nicht allein …
+Kein Wort mehr …«
 
 Um uns her klebte der zähe Nebel … Ich strengte meine
 Ohren über Gebühr an, ich glaubte auch etwas zu hören, es
-war ein Geräusch, als ob harte Leinwand über den Boden ge«
-schritt würde.
+war ein Geräusch, als ob harte Leinwand über den Boden geschleift
+würde.
 
 Abermals raunte Harst, den Mund dicht an meinem Ohr:
-»Er ist ganz in unserer Nähe … Die Krähen s(])Wesqxs! in!
-— Achtung, — das war das leise Quietschen einer Dolle
-
-Es Boot kommt zurück.«
+»Er ist ganz in unserer Nähe … Die Krähen schweigen jetzt.
+— Achtung, — das war das leise Quietschen einer Dolle …
+Das Boot kommt zurück.«
 
 Wie vorsichtig die Person in dem leichten Boot die
-Bilder handhabte, merkten wir jetzt … Und gerade diese
-Lautlosigkeit, mit der das Boot dem Schuppen zustrebte, be
-Nickte mir eine Vermutung von vorhin; Die Person in
-Weltners Boot war einem zweiten Boot heimlich gefolgt, denn
-Geräusche des anderen Fahrzeuges waren ja bedeutend
-Winter gewesen. — Und wieder zischelte Harald mir zu: »Die
-Verfolgung wird wohl ergebnislos geblieben sein … Da,
-ist war die Wassertür des Schuppens, die soeben knarrte …
+Ruder handhabte, merkten wir jetzt … Und gerade diese
+Lautlosigkeit, mit der das Boot dem Schuppen zustrebte, bestätigte
+mir eine Vermutung von vorhin: Die Person in
+Kettners Boot war einem zweiten Boot heimlich gefolgt, denn
+die Geräusche des anderen Fahrzeuges waren ja bedeutend
+stärker gewesen. — Und wieder zischelte Harald mir zu: »Die
+Verfolgung wird wohl ergebnislos geblieben sein … — Da,
+das war die Wassertür des Schuppens, die soeben knarrte …
 Wenn nur der dritte nicht in der Nähe wäre!! Ich will die
-Person entkommen Tassen …-t!«
+Person entkommen lassen …!!«
 
-Die wenigen hastigen Sätze zeigten mir mit aller Flattert,
+Die wenigen hastigen Sätze zeigten mir mit aller Klarheit,
 daß Haralds Schlußfolgerungen bedeutend weiter gingen
 <@pagebreak/>
-als die meinen. Er kannte »die Person«, den Verfolger,
+als die meinen. Er kannte »die Person«, den Verfolger.
 Wer war’s?! Etwa doch Kettner?! Simulierte Kettner nur
-einen schweren Gichtanfall?! —
+einen schweren Gichtanfall?!
 
 Harst schien es jetzt doch für zweckmäßig zu halten, mir
 noch weitere Aufschlüsse zu geben. »Ist dir nicht aufgefallen,
@@ -1050,77 +1049,77 @@ daß es auf dem Landsitz Kettnerkoppje nicht einen Hund gibt?!
 Wenigstens jetzt nicht mehr. Aber es waren Hunde da, ihre
 Halsbänder — drei — mit den Steuermarken dieses Jahres
 hängen in Kettners Zimmer hinter einem Negerschild an der
-Wand. I« behaupte, die Tiere — sind vor kurzem vergiftet
-worden, und zu dies steht im engsten Zusammenhang zu den
-betupften Fliegen, über die noch sehr viel zu reden sein wird,
-— — Ruhe jetzt, — die Person wird jeden Augenblick erörtern
-nen … Falle mir nicht in den Arm, wenn ich scheinbar ganz
+Wand. Ich behaupte, die Tiere sind vor kurzem vergiftet
+worden, und auch dies steht im engsten Zusammenhang zu den
+betupften Fliegen, über die noch sehr viel zu reden sein wird.
+— — Ruhe jetzt, — die Person wird jeden Augenblick erscheinen
+… Falle mir nicht in den Arm, wenn ich scheinbar ganz
 ungereimte Dinge treibe, die Person muß entwischen, laufe
 hinter ihr her, aber … — da ist er …«
 
-Soeben hatte wiederum ein leichter Windstoß die Überröcke
+Soeben hatte wiederum ein leichter Windstoß die Nebeldecke
 gelichtet … Ich starrte nach dem Stege, die Bohlen
 knarrten, ich traute meinen Augen nicht: Das konnte doch nur
-Augustus’ zeisiggrüner Mantel sein, — daß war ein schwarzes
+Augustus’ zeisiggrüner Mantel sein, — das war ein schwarzes
 Gesicht, ein Neger …
 
-Mit geschmeidigen Bewegungen huschte die Gestalt zu uns
+Mit geschmeidigen Bewegungen huschte die Gestalt an uns
 vorüber …
 
-Harst erhob sich schnellte zur Seite, ein Schrei erklang …
+Harst erhob sich, schnellte zur Seite, ein Schrei erklang …
 
-»Halten Sie den Kerl fest, Herr Balzer!«, rief !)Wald
+»Halten Sie den Kerl fest, Herr Balzer!«, rief Harald
 atemlos …
 
-Ein neuer Schrei, —«9 ein wirrer Klumpen Gestalten,
+Ein neuer Schrei, — ein wirrer Klumpen Gestalten, —
 eine einzelne Gestalt hetzte davon, hatte sich losgerissen, ich
-jagte hinterher, aber der Nebel verschluckte den Papier, und
-ich blieb stehen, vernahm Balzers erregte Stimme: »Wenn Kino
-mich nicht angerempelt bitten, Herr Harst, würde ich den Kerl
+jagte hinterher, aber der Nebel verschluckte den Neger, und
+ich blieb stehen, vernahm Balzers erregte Stimme: »Wenn Sie
+mich nicht angerempelt hätten, Herr Harst, würde ich den Kerl
 erwischt haben.«
 
-»Bett«, meinte Harst übertrieben keuchend !»Ader
+»Pech!!«, meinte Harst übertrieben keuchend. »Aber
 Schraut ist hinter ihm her …«
 
-Dieser Schraut stand kaum Segeln Schritt entfernt und
+Dieser Schraut stand kaum zehn Schritt entfernt und
 <@pagebreak/>
-falle den Hut ins Genick geschoben und rieb sich kräftig die
-Ein … Doch Fuchs das half nichts. Ich wurde aus der
+hatte den Hut ins Genick geschoben und rieb sich kräftig die
+Stirn … Doch auch das half nichts. Ich wurde aus der
 ganzen Geschichte nicht klug.
 
 Ich ließ eine Weile verstreichen, näherte mich dann den
-Helden und erklärte bedauernd: »Der Bursche war zu flink, der
-sie! wie ein Wiesel …!«
+beiden und erklärte bedauernd: »Der Bursche war zu flink, der
+lief wie ein Wiesel …!«
 
-Lauer Balzer sagte nur ebenso traten wie ironisch: »Ich
-werde dieses Wiesel schon fangen, aber ohne Sie, meine Hexe
-»… Gute Nacht …
+Xaver Balzer sagte nur ebenso trocken wie ironisch: »Ich
+werde dieses Wiesel schon fangen, aber ohne Sie, meine Herren
+… Gute Nacht …«
 
-Er war verärgert, er war mißtrauisch geworden, er nächste
-Venus gar keinen Hehl. Harst nahm die Sache nicht weiter
-Fetisch. »Da ist halt nix zu machen, mein Alter … Lauer
-sein Dummkopf … Die Person mußte jedoch vorläufig
-dem Spiel bleiben, sie wird nun vorjschtcger kaum —
-nimm, ich sehne mich nach dem warmen Ofen …
+Er war verärgert, er war mißtrauisch geworden, er machte
+daraus gar keinen Hehl. Harst nahm die Sache nicht weiter
+tragisch. »Da ist halt nix zu machen, mein Alter … Xaver
+ist kein Dummkopf … Die Person mußte jedoch vorläufig
+aus dem Spiel bleiben, sie wird nun vorsichtiger sein … —
+Komm, ich sehne mich nach dem warmen Ofen …«
 
 »und — — wer war’s!«, wollte ich wissen.
 
 »Der warme Ofen …«, erwiderte er nur, schritt voran
-« sprach kein Wort mehr. Als wir die Haustür erreicht
-halten, öffnete Augustus uns und trat zur Seite. Sein Je
-mit zeigte einen ängstlich-gespannten Ausdruck … — »Öe
+und sprach kein Wort mehr. Als wir die Haustür erreicht
+hatten, öffnete Augustus uns und trat zur Seite. Sein Gesicht
+zeigte einen ängstlich-gespannten Ausdruck … — »Gehen
 Sie schlafen!«, befahl Harald leise … Haben Sie auch
 Balzer eingelassen?«
 
 »Nein …«
 
 »Also der zweite Fassadenkletterer«, murmelte Harst etwas
-irrig und zog den nassen, schwatzen Mantel aus.
+bissig und zog den nassen, schmutzigen Mantel aus.
 
-Augustus schlich wortlos die Treppe empor und Leinwand.
+Augustus schlich wortlos die Treppe empor und verschwand.
 
-… Das war hier wirklich) eine komische Gesellschaft in
-»sein alten Landhause!)! …
+… Das war hier wirklich eine komische Gesellschaft in
+diesem alten Landhause!!
 
 <@pagebreak/>
 
@@ -1128,14 +1127,14 @@ Augustus schlich wortlos die Treppe empor und Leinwand.
 <h3>Der Fingerabdruck.</h3>
 
 Auch ich legte den Mantel ab. In der Vorhalle brannte
-eine elektrische Krone aus Hirschgeweihen mit fünf Lampen,
+eine elektrische Krone aus Hirschgeweihen mit fünf Lampen.
 Harst wartete, bis ich den nassen Hut untergebracht hatte
 und schaltete dann die Krone aus, ließ nur seine Taschenlampe
-brennen und ging grade aus in den Hinterflur, wo
+brennen und ging gradeaus in den Hinterflur, wo
 rechter Hand die beiden Zimmer Koppje Bergners lagen.
 Wir kannten das ganze Haus bereits, wir hatten uns alle
-Räume zeigen lassen, und als Harst nun durch das Schlüssel«
-Loch der Wohnzimmertür des jungen Mädädzjeus blickte, merkte
+Räume zeigen lassen, und als Harst nun durch das Schlüsselloch
+der Wohnzimmertür des jungen Mädchens blickte, merkte
 ich an seiner jähen Kopfbewegung, daß er dort wirklich etwas
 erspäht hatte.
 
@@ -1144,594 +1143,590 @@ eine Stimme:
 
 »Bist du’s, Augustus?«
 
-»I3a — Augustus — —« schnell öffnen!«
+»Ja — Augustus — — schnell öffnen!«
 
 Es wurde auch schnell geöffnet, aber bei unserem Anblick
-prallte Koppje zurück und fauchte uns dann ärgerlich nun;
-»:!Las wünschen Sie, — — zu dieser Stunde?! Das ist
-Ja …
+prallte Koppje zurück und fauchte uns dann ärgerlich an:
+
+»Was wünschen Sie, — — zu dieser Stunde?! Das ist
+Ja …«
 
 Harst trat ein, ich folgte, er schloß die Tür, verbeugte sich
-und sagte gedämpft: »anrufen Bergner, es hilft alles nichts,
-Sie werden im-3 nun einige sehr notwendige Ausschlüsse
-geben müssen …
+und sagte gedämpft: »Fräulein Bergner, es hilft alles nichts,
+Sie werden uns nun einige sehr notwendige Aufschlüsse
+geben müssen …«
 
-Das hubfck)c Mädel trug einen schwarzseidenen Schlaf«
-Anzug, rote Morgenschuhchen und hatte über den Bubikopf ein
-Harriet gezogen. Ihre unwillige Handbewegung wurde nicht
-beachtet, Harst fügte noch eindringlicher hinzu: »Maus wirr
-wohl geworden, wenn Herr Balzer Sie abgefaßt hätte?r! Wie
-hätten Ei? ihm gegenüber diese Maskerade als Neger erklären
+Das hübsche Mädel trug einen schwarzseidenen Schlafanzug,
+rote Morgenschuhchen und hatte über den Bubikopf ein
+Haarnetz gezogen. Ihre unwillige Handbewegung wurde nicht
+beachtet, Harst fügte noch eindringlicher hinzu: »Was wäre
+wohl geworden, wenn Herr Balzer Sie abgefaßt hätte?! Wie
+hätten Sie ihm gegenüber diese Maskerade als Neger erklären
 <@pagebreak/>
-wollen ??! Bedenken Sie, Balzer als Kriminalbeamter ist zu
-harten Vorgehen verpflichtet, wo er auq) nur Verdachtsmomente
+wollen?! Bedenken Sie, Balzer als Kriminalbeamter ist zu
+scharfem Vorgehen verpflichtet, wo er auch nur Verdachtsmomente
 entdeckt.«
 
-Koppjes blasse Züge bekamen plötzlich Farbe Ohr Ton wurde
-freier, offener, »So habe ich als Ihnen mein Entnommen
-danken, Herr Harst … Ich begreife jetzt vieles. Sie
-müssen nicht schlecht von mir hörten, — ix bin Onkel alles schuldig,
+Koppjes blasse Züge bekamen plötzlich Farbe. Ihr Ton wurde
+freier, offener. »So habe ich also Ihnen mein Entnommen
+zu danken, Herr Harst … Ich begreife jetzt vieles. Sie
+müssen nicht schlecht von mir denken, — ich bin Onkel alles schuldig,
 alles, selbst die Preisgabe meiner Person, ich bin Waise,
 mittellos, hier fand ich vor einem Jahre ein neues Elternhaus,
 ein Heim, als Onkel aus Südafrika zurückkehrte und dieses
-Westgut kaufte. Wir lebten hier. bis vor acht Tagen wie in
-einer Oase, und dann …
+Restgut kaufte. Wir lebten hier bis vor acht Tagen wie in
+einer Oase, und dann …«
 
-… starben die Hunde …«, warf Harst so’nebendbei ein.
+»… starben die Hunde …«, warf Harst so nebenbei ein.
 
-Des Fischers Kopf schnellte so. »Ja — damit begann
-i8«, gab sie ehrlich zu. »Und dann fand ich) die unseligen
-Flecken « Gräßlich stiegen ihr die Tränen in die Augen,
-]gewandte sich ab und rückte zwei Korbsessel am Ofen Furcht.
+Des Mädchens Kopf schnellte hoch. »Ja — damit begann
+es«, gab sie ehrlich zu. »Und dann fand ich die unseligen
+Fliegen …« Plötzlich stiegen ihr die Tränen in die Augen,
+sie wandte sich ab und rückte zwei Korbsessel am Ofen zurecht.
 »Nehmen Sie bitte Platz … Hier sind auch Zigaretten …
-…» ich will mit nichts mehr hinter dem Berge halten, mit
-nichts … Über iFm werde Sie enttäuschen, Herr Harst …
+Ich … ich will mit nichts mehr hinter dem Berge halten, mit
+nichts … Aber ich werde Sie enttäuschen, Herr Harst …
 Ich weiß nicht viel.«
 
 »Das können Sie kaum beurteilen, Fräulein Bergner …
-
-Bitte, sprechen wir noch leiser. — Sie gestatten …« Er nahm
+— Bitte, sprechen wir noch leiser. — Sie gestatten …« Er nahm
 eine Zigarette, lehnte sich zurück und betrachtete das schlanke
-Räder mit einem Ausdruck stillen Bedauerns. »Erörtern wir
+Mädel mit einem Ausdruck stillen Bedauerns. »Erörtern wir
 die Dinge der Reihe nach … Die drei Hunde sind also
 vergiftet worden. Wann?«
 
 »Am selben Tage, als ich die betupften Fliegen fand, —
-das heißt, in der Nacht darauf Onkel Hat fast geweint, er
+das heißt, in der Nacht darauf. Onkel Hat fast geweint, er
 hing an den Tieren, er …«
 
-»Sentimentalitäten uralten wir ausschalten, liebes Fräulein.
-
-Clemens Antlitz nun, — Oh, erschrocken Sie leicht, ich
-sann mir denken, daß er ich ganz unauffällig an Sie lernte
-drängte, daß er Sie gewissermaßen für seine Pläne gewann …
-
+»Sentimentalitäten wollen wir ausschalten, liebes Fräulein.
+— Clemens Orlik nun … — Oh, erschrecken Sie nicht, ich
+kann mir denken, daß er sich ganz unauffällig an Sie herandrängte,
+daß er Sie gewissermaßen für seine Pläne gewann …
 <@pagebreak/>
 Sie haben ihm von den betupften Fliegen erzählt, auch davon,
 daß Ihr Onkel vor Schreck die Pfeife fallen ließ …«
 
 Ein leises »Ja« bestätigte auch dies.
 
-»Aber sehr bald, leider zu spät, wurden Sie mißtratsch
-Sie haben sich Augustus anvertraut, dem braven Schwarzen
-Hat er Ihnen mitgeteilt, weshalb Kettner die Fliegen fürchlety’
+»Aber sehr bald, leider zu spät, wurden Sie mißtrauisch.
+Sie haben sich Augustus anvertraut, dem braven Schwarzen.
+Hat er Ihnen mitgeteilt, weshalb Kettner die Fliegen fürchtet?«
 
-»Nein … Das war nicht aus ihm herauszubringewn,
+»Nein … Das war nicht aus ihm herauszubringen. In
 dem Punkte blieb er verschlossen.«
 
-Harst rauchte bedächtig »Wissen Sie etwas von Augustus
+Harst rauchte bedächtig. »Wissen Sie etwas von Augustus
 Selbstmordversuch?«
 
-Sie zauderte diesmal. Sie Niete nur, und jetzt weinte 1k
-beherrschte sich jedoch wieder schnell und erklärte mit größtv
-Ehrlichkeit: »Hinaustrug und ich hielten Onkel Wär’… für Behälter,
-und.
+Sie zauderte diesmal. Sie nickte nur, und jetzt weinte sie,
+beherrschte sich jedoch wieder schnell und erklärte mit größter
+Ehrlichkeit: »Augustus und ich hielten Onkel für … für den,
+Täter, und …«
 
-Wieder ins Harald ein: »Also für den Speerwerfer, ]ist!«
-wahr?’
+Wieder fiel Harald ein: »Also für den Speerwerfer, nicht
+wahr?«
 
-Ihre Augen weiteten sich. »Mein Gott, auch das hyahbqny
-Sie schon herausgefunden?! Augustus sagte gleich,), Hinter
-würde der Mord kein Rätsel bleiben, und deshalb …
+Ihre Augen weiteten sich. »Mein Gott, auch das haben
+Sie schon herausgefunden?! Augustus sagte gleich, Ihnen
+würde der Mord kein Rätsel bleiben, und deshalb …«
 
-»- deshalb haben Sie den Boxer heute vom Gattin
-aus in Augustus’ Stube geschleudert, Sie wußten, daß Ah
-niemand verletzen könnten, es war ein Ablenkungs8manöve!
-so bezeichnet man derartige Versuche, einem Tatbestand zu ne
-Schleiern. — Und jetzt die Balkongeschite, Fräulein Gelautet
-Sie hofften, uns belauschen zu können, die Sorge um Ihrer
-Onkel trieb Sie auf den Balkon, als Sie die Tür offen sann
-den, flüchteten Sie, ich war dicht hinter Ihnen her, unten am
-Fuße der Leiter tauchte der zweite Neger mit der Karbidlampt
-auf, ich faßte zu, faßte Ihnen ins Gesicht, spürte die schwarz
-Stoffmaske … Der andere entwischte, Sie entwischten, acht
+»… deshalb haben *Sie* den Speer heute vom Baum
+aus in Augustus’ Stube geschleudert, Sie wußten, daß Sie
+niemand verletzen könnten, es war ein Ablenkungsmanöver,
+so bezeichnet man derartige Versuche, einem Tatbestand zu verschleiern.
+— Und jetzt die Balkongeschichte, Fräulein Bergner.
+Sie hofften, uns belauschen zu können, die Sorge um Ihren
+Onkel trieb Sie auf den Balkon, als Sie die Tür offen fanden,
+flüchteten Sie, ich war dicht hinter Ihnen her, unten am
+Fuße der Leiter tauchte der zweite Neger mit der Karbidlampe
+auf, ich faßte zu, faßte Ihnen ins Gesicht, spürte die schwarze
+Stoffmaske … Der andere entwischte, Sie entwischten, aber
 Sie blieben hinter dem Fremden, — — es ist doch so? — Nun,
-und dann beobachteten Sie, daß er ein Boot am Seeufer du
-reif hatte, Sie nahmen die Verfolgung auf, — — wo fandst
+und dann beobachteten Sie, daß er ein Boot am Seeufer bereit
+hatte, Sie nahmen die Verfolgung auf, — — wo landete
 der fremde Neger?«
 
-»Am Bootssteg der Anstalt Bug, Herr Harst … Weh
+»Am Bootssteg der Anstalt Bruck, Herr Harst … Mehr
 <@pagebreak/>
-weiß ich nicht bei dem Q’(ebel war jede weitere Erregung
-umguöglich …
+weiß ich nicht, bei dem Nebel war jede weitere Verfolgung
+unmöglich …«
 
-»Das glaube roh .: Sahen Sie- den fremden Äge! s-:her
-früher einmal?« +
+»Das glaube ich. — Sahen Sie den fremden Neger schon
+früher einmal?«
 
-— »Ich liebt aber Augustus … Es war vor etwa fünf
-Tagen, in einer stürmischen Nacht Ein Fensterladen klapperte
-im Erdgeschoß, Augustus. wollte ihn befestigen, sah in
-Unfalls Arbeitszimmer Lichtschein und hätte den Trennten beinahe
-ergriffen, der Onkels Schreibtisch’ durchwühlt’ hatte …
-der Mann sprang durch das Fenster …«
+»Ich nicht, aber Augustus … Es war vor etwa fünf
+Tagen, in einer stürmischen Nacht. Ein Fensterladen klapperte
+im Erdgeschoß, Augustus wollte ihn befestigen, sah in
+Onkels Arbeitszimmer Lichtschein und hätte den Fremden beinahe
+ergriffen, der Onkels Schreibtisch durchwühlt hatte …
+Der Mann sprang durch das Fenster …«
 
-»Danke …« Harst winkte kurz ab, sein Gesicht horchte einen
+»Danke …« Harst winkte kurz ab, sein Gesicht zeigte einen
 klaren Zug erhöhter Spannung, und auch seine Stimme klang
-Scharfen … »So … so, — den Schreibtisch durchwühlt …!
-Las ist Dietrichs wichtiger« als alles andere,,! Und das ge«
-floh, nachdem Sie Clemens Orlik von. den betupften. Fliegen
-und von dem Schreck Ihres Onkels, erzählt hatten … Das
-gibt neue Anhaltspunkte, riet gegen Kettner, bqw;lhkx, Ihr
-Scheint hat Orlik nicht ermordet … — Ein sehr verzwickter
+Schärfer … »So … so, — den Schreibtisch durchwühlt …!
+Das ist vielleicht wichtiger als alles andere …! Und das geschah,
+nachdem Sie Clemens Orlik von den betupften Fliegen
+und von dem Schreck Ihres Onkels erzählt hatten … Das
+gibt neue Anhaltspunkte, nicht gegen Kettner, bewahre. Ihr
+Oheim hat Orlik *nicht* ermordet … — Ein sehr verzwickter
 Kriminalfall, eigentlich sind es ja zwei, und dasselbe, was ich
 Ihrem Onkel erklärte, sage ich Ihnen, mein liebes Fräulein
 Koppje: Gerade weil hier zwei verschiedenartige Ereignisse
-über Geschehnisse oder Tatbestände, wie wir’s auch nennen
-wollen, ineinander saufen und sich vermischt haben, sind auch alle
-Fährten, höchst unklar und widerspruchsvoll — ’Nun noch
-eine letzte Frage, und dann wollen Du! zu Bett gehen, an
-haben wohl alle etwas Ruhe nötig …
+aber Geschehnisse oder Tatbestände, wie wir’s auch nennen
+wollen, ineinander laufen und sich vermischt haben, sind auch alle
+Fährten, höchst unklar und widerspruchsvoll — Nun noch
+eine letzte Frage, und dann wollen wir zu Bett gehen, wir
+haben wohl alle etwas Ruhe nötig …«
 
-Zu meinem grenzenlosen Erstaunen zog er aus der Beugte
-lasche Augustus’ Geständnis hervor, das er doch in Gegenwart
-Balzers scheinbar verbrannt hatte. — Ei war also ein ganz
-unwichtiger Zettel in die Flammen geflogen. —
+Zu meinem grenzenlosen Erstaunen zog er aus der Brusttasche
+Augustus’ Geständnis hervor, das er doch in Gegenwart
+Balzers scheinbar verbrannt hatte. — Es war also ein ganz
+unwichtiger Zettel in die Flammen geflogen.
 
-… Hier ist Ihres Vertrauten schriftliche Opfergabe aus
-vorn Altar der Treue gegen seinen Herrn, Fräulein Koppje.«
+»… Hier ist Ihres Vertrauten schriftliche Opfergabe auf
+dem Altar der Treue gegen seinen Herrn, Fräulein Koppje.«
 
-»Mein Gott, das darf Onkel nie sehen …!, stieß das
-Katzen halb freudig, halb entsetzt bevor »Aber ich will
+»Mein Gott, das darf Onkel nie sehen …!«, stieß das
+Mädchen halb freudig, halb entsetzt hervor. »Aber ich will
 <@pagebreak/>
-mir den Zettel aufbewahren, er ist ein Dokument der Verlust,
-das stimmt, und nie schlug in einer Negerbrust erst …«
+mir den Zettel aufbewahren, er ist ein Dokument der Treue,
+das stimmt, und nie schlug in einer Negerbrust ein …«
 
 Doch Harald war auch jetzt für überschwängliche Gefühlsäußerungen
-nicht zu haben. »Das glaube ich alles, lUiebeFräzulein,
-— mir kommt es im Jugendlich aber nur auf eins
-an: Haben Sie dieses Geständnis je in der Hand gehabt!,
-oder gewinnen gesagt: Haben Sie diese Papiersorte vorrätig,
-stammt dieses Blatt von Ihnen, haben Sie es je angefsaßlty!
+nicht zu haben. »Das glaube ich alles, liebes 
+Fräulein, — mir kommt es im Jugendlich aber nur auf eins
+an: Haben *Sie* dieses Geständnis je in der Hand gehabt,
+oder genauer gesagt: Haben Sie diese Papiersorte vorrätig,
+stammt dieses Blatt von Ihnen, haben Sie es je angefaßt?!
 Denn hier sind neben Augustus’ Fingerspuren, und er hat
 breite runde Fingerspitzen, die einer weit kleineren Hand,
 einer schöner geformten … Da — prüfen Sie das Blatt, —
-— schnell .,!!«
+— schnell …!!«
 
-Koppje Bergner griff ohne Zögern zu. »Nein«, erklärt
-sie sofort, »das ist ja das billige Papier, das Augustus gilt
+Koppje Bergner griff ohne Zögern zu. »Nein«, erklärte
+sie sofort, »das ist ja das billige Papier, das Augustus für
 seine Zwecke als Hausverwalter besorgt hat …«
 
-»I danke Ihnen!« Harald sprach das mit einer Arena
-dicken, die beinahe übertrieben schien. Koppje blickte ihn
-dann auch etwas verwirrt an, mußte sich jedoch mit ein rühmt
-herzlichen Außeracht»-Worten begnügen und blieb sichtlich
-froh und erleichtert in ihren hübsch möblierten -Räumen zurief
+»Ich danke Ihnen!« Harald sprach das mit einer Freudigkeit,
+die beinahe übertrieben schien. Koppje blickte ihn
+dann auch etwas verwirrt an, mußte sich jedoch mit ein paar
+herzlichen Gute-Nacht-Worten begnügen und blieb sichtlich
+froh und erleichtert in ihren hübsch möblierten Räumen zurück.
 
-Als wir unser Zimmer betreten hatten, als Harald es sein
+Als wir unser Zimmer betreten hatten, als Harald es für
 alle Fälle flüchtig durchsucht hatte, sagte er leise zu mir und
-hielt mir den Zettel hin: »Man könnte während der Erbte(
-an diesem Fliegen-Problem schier verzweifeln … Du wer
-wir besitzen Harriet Prills Fingerabdrücke. Ich Bündeln
-aus tausenden ähnlicher herauserkennen, Hier sind nun Feld
-liebe Fingerabdrücke von einer Hand, die soeben noch Denken
-Baumäste berührt hatte und die schweißfeucht! von der Auftrag
-jung des Kletterns waren. Eine Frau war in Augustus
-Zimmer, bevor wir den Zettel sahen, eine Frau hielt da
-Zettel in den »Fingern, las ihn und legte ihn wieder Juni
-Über es war nicht Verriet Prill, mein Alter … By
-war’s dann aber?! Und die Aufklärung dieser Frage wolle’
-wir uns für morgen aussparen … — Sehr zu Bett …
+hielt mir den Zettel hin: »Man könnte während der Arbeit
+an diesem Fliegen-Problem schier verzweifeln … Du weißt,
+wir besitzen Harriet Prills Fingerabdrücke. Ich würde sie
+aus tausenden ähnlicher herauserkennen. Hier sind nun weibliche
+Fingerabdrücke von einer Hand, die soeben noch feuchte
+Baumäste berührt hatte und die schweißfeucht von der Anstrengung
+des Kletterns waren. Eine Frau war in Augustus
+Zimmer, bevor wir den Zettel sahen, eine Frau hielt den
+Zettel in den Fingern, las ihn und legte ihn wieder zurück.
+Aber es war *nicht* Harriet Prill, mein Alter … Wer
+war’s dann aber?! Und die Aufklärung dieser Frage wollen
+wir uns für morgen aufsparen … — Geh zu Bett … Ich
 <@pagebreak/>
-mich noch an den Ofen. Vielleicht bringt mir die nachts
-— Stille einen glücklicher Einfall … «.«
+setze mich noch an den Ofen. Vielleicht bringt mir die nächtliche
+Stille einen glücklicher Einfall …«
 
-— Q18 ich gegen halb neun munter wurde, saß me
-noch immer neben dem Ungetüm von Kachelofen und
-seinem Sessel fest eingeschlafen. Auf der Aschenschale
-ihm lagen neunzehn Zigarettenstummel, und die Luft
-Zimwerwar auch danach, — beinahe HKneipendunst!’
+— Als ich gegen halb neun munter wurde, saß mein
+Freund noch immer neben dem Ungetüm von Kachelofen und
+in seinem Sessel fest eingeschlafen. Auf der Aschenschale
+vor ihm lagen neunzehn Zigarettenstummel, und die Luft
+im Zimmer war auch danach, — beinahe Kneipendunst!!
 
-Die zwei Arten betupfter Fliegen.
+<h1>Die zwei Arten betupfter Fliegen.</h1>
 
 <h2>1. Kapitel.</h2>
 
 <h3>Die Insektensammlung an der Wand.</h3>
 
-Nach dem gemeinsamen ’Frühjtück unten im Eßzimmer,
-Aber es sehr still und sehr einsilbig herging, erklärte Harald,
-» wolle mit mir einen längeren Spaziergang unternehmen,
-halb der Knebel, der zur Zeit noch gegen die Sonne ankämpfte,
-Taschen sei.
+Nach dem gemeinsamen Frühstück unten im Eßzimmer,
+wobei es sehr still und sehr einsilbig herging, erklärte Harald,
+er wolle mit mir einen längeren Spaziergang unternehmen,
+sobald der Nebel, der zur Zeit noch gegen die Sonne ankämpfte,
+gewichen sei.
 
 Xaver Balzer fragte bescheiden wie immer an, ob er uns
-arbeiten dürfe.
+begleiten dürfe.
 
-»Ein Stuck Wegs, natürlich, warum nicht«, rückte Klarer
-munter. »T Der ganze Weg ist nichts für Sie, Ihre Pflückt hält
-— lw hier in Kettnerkoppje zurück, und wir werden vielleicht
-abends heimkehren … Vielleicht …
+»Ein Stuck Wegs, natürlich, warum nicht«, nickte Harst
+munter. »Der ganze Weg ist nichts für Sie, Ihre Pflicht hält
+Sie hier in Kettnerkoppje zurück, und wir werden vielleicht
+abends heimkehren … Vielleicht …«
 
-Nr gemütliche Nahm war Fu]mdxn »sein Grad zurückgab
-usw, — aber es klang genau so anzüglich wie Haralds Hin«
-»er auf die Beamtenpflicht.
+Der gemütliche Balzer war zufrieden. »Ein Stück genügt
+mir …«, — aber es klang genau so anzüglich wie Haralds Hinweis
+auf die Beamtenpflicht.
 
-Vorläufig dachte der Weber noch nicht daran, der Sonne zu
-Menschen, wir beide begleiteten den alten knorrigen Farmer in
+Vorläufig dachte der Nebel noch nicht daran, der Sonne zu
+weichen, wir beide begleiteten den alten knorrigen Farmer in
 <@pagebreak/>
 sein Arbeitszimmer, und hier bat Harst, sich einmal die ganzen
 bisher gefundenen Fliegen ansehen zu können.
 
-Eis ging heute Emil Kettner etwas besser, er humpelte des
-reite am Stock umher, und als er sich nun vor seinen Schreibt
-Tisch setzte, um die Pappschachtel mit den Fliegen hervorzusuchen,
-wagte Harald eine Frage, die den rauhbeinigeat
-— Alten gestern wohl noch außer Rand und Band gebracht hätte.
+Es ging heute Emil Kettner etwas besser, er humpelte bereits
+am Stock umher, und als er sich nun vor seinen Schreibtisch
+setzte, um die Pappschachtel mit den Fliegen hervorzusuchen,
+wagte Harald eine Frage, die den rauhbeinigen
+Alten gestern wohl noch außer Rand und Band gebracht hätte.
 
-»Garn Kettner, es war doch ein Einbrecher hier in Ihrem
-Zimmer … Wurde Ihnen- etwas gestohlen?«
+»Herr Kettner, es war doch ein Einbrecher hier in Ihrem
+Zimmer … Wurde Ihnen etwas gestohlen?«
 
-Gewiß, Kettners mächtiger Schädel flog sofort herum, auch)
-die Augen flammten bedrohlich auf, aber er betitelt sich in.
+Gewiß, Kettners mächtiger Schädel flog sofort herum, auch
+die Augen flammten bedrohlich auf, aber er behielt sich in
 der Gewalt und meinte nur knurrend: »Wer hat Ihnen denn
-diese gleichgültige Geschulte erzählt?!«
+diese gleichgültige Geschichte erzählt?!«
 
-»Freiwillig hat mir niemand diese wichtige Geschichte
+»Freiwillig hat mir niemand diese *wichtige* Geschichte
 mitgeteilt«, erwiderte Harst mit entwaffnender Liebenswürdigkeit.
 »Ihre niedliche Nichte wurde von mir in eine Zwangslage
-hineinmansövriert, und so kam die Energie an den Tag,
+hineinmanövriert, und so kam die Sache an den Tag,
 die Sie durchaus nicht unterschätzen, Herr Kettner, — Sie tun
-nur so …! — Bitte, keine bärbeißige Miene aufsetzen!! Schon
+nur so …! — Bitte, keine bärbeißige Miene aufsetzen!! Ich
 habe Fräulein Koppje kein Wort zu viel gefragt, ich war diskret
-und zartfühlend, — — also, wurde Ihnen etwas ge«
-stehlen durch den Dieb, der ein Neger war?«
+und zartfühlend, — — also, wurde Ihnen etwas gestohlen
+durch den Dieb, der ein Neger war?«
 
 Emil Kettners kantige Züge arbeiteten schwer, wie eine
 Masse von zuckenden Muskelwülsten.
 
-»Ja, — fuhr wurde etwas gestohlen«, meinte er widerwillig,
+»Ja, — mir wurde etwas gestohlen«, meinte er widerwillig.
 »Weiter sage ich nichts. Hier ist die Schachtel mit den verdammten
-Fliegen …!««
+Fliegen …!«
 
-»Danke …« Harst setzte sich ans Fenster, um bessere List
-zu haben. — Die Schachtel war eine größere Zigarettenschaudy
-der, flach und breit. Die Fliegen waren tot, aber tadellos erhalten,
-auch ich beugte mich) nmeugierig über diese Menge
-grünlichen Aasfliegen, und ich) beobachtete genau, wie Harald
+»Danke …« Harst setzte sich ans Fenster, um bessere Licht
+zu haben. — Die Schachtel war eine größere Zigarettenschachtel,
+flach und breit. Die Fliegen waren tot, aber tadellos erhalten,
+auch ich beugte mich neugierig über diese Menge
+grünlicher Aasfliegen, und ich beobachtete genau, wie Harald
 mit einem Bleistift die Insekten erst sämtlich in eine Ecke
 schob, dann einzeln betrachtete und die untersuchten Tierchen
 in die andere Ecke legte, — im ganzen waren es etwa dreißig.
 
 <@pagebreak/>
-Sein Interesse für diese Fliegen erschien mir zunächst er«-
-was ü0ertrieben, — wir besaßen ja selbst bereits zwei ExemsWare
+Sein Interesse für diese Fliegen erschien mir zunächst etwas
+übertrieben, — wir besaßen ja selbst bereits zwei Exemplare
 dieser betupften »Depeschen«. Immerhin merkte ich,
 daß er nun einige wieder in eine dritte Ecke der Schachtel
-vwb, aus Papier eine Scheidewand im Schachtelinnern Kerl
-eilte und schließlich zwei Gruppen Fliegen abgeteilt hatte.
+schob, aus Papier eine Scheidewand im Schachtelinnern herstellte
+und schließlich zwei Gruppen Fliegen abgeteilt hatte.
 
-Kettner beobachtete das alles mit halb zusammengeknislmen
-Augen und finster gerunzelter Stirn. Er war auch sich
-ich nervös geworden, trommelte mit den Fingern auf die
-»mreibtischplatte und näherte sich sehr bedenklich wieder Blei
-Zustande, wo eine gewaltige Explosion seines HinterWhlertemperaments
+Kettner beobachtete das alles mit halb zusammengekniffenen
+Augen und finster gerunzelter Stirn. Er war auch sichtlich
+nervös geworden, trommelte mit den Fingern auf die
+Schreibtischplatte und näherte sich sehr bedenklich wieder dem
+Zustande, wo eine gewaltige Explosion seines Hinterwäldlertemperaments
 zu erwarten war.
 
 »Ich darf die Fliegen wohl vorläufig mitnehmen«, meinte
-»Yard äußerst verbindlich. »Ich bin in allen Dingen sehr
-gratis, Herr Kellner, und Sie dürfen überzeugt sein: Alles,
-ich tue, geschieht für Sie! Ich möchte nicht nur diesen
-»bot aufklären, sondern auch Ihnen den Frieden und die
-»nie wiedergeben.«
+Harald äußerst verbindlich. »Ich bin in allen Dingen sehr
+sorgfältig, Herr Kettner, und Sie dürfen überzeugt sein: Alles,
+was ich tue, geschieht für Sie! Ich möchte nicht nur diesen
+Mord aufklären, sondern auch Ihnen den Frieden und die
+Ruhe wiedergeben.«
 
-Gegenüber solcher Liebenswürdigkeit ist es schwer, ga:0b
-werden, Der alte Mann, der da irgend ein bedrohliches
-unsinnig mit sich herumtrug, nickte denn Avenue und
-nannte:
+Gegenüber solcher Liebenswürdigkeit ist es schwer, grob
+zu werden. Der alte Mann, der da irgend ein bedrohliches
+Geheimnis mit sich herumtrug, nickte denn auch nur und
+brummte:
 
-»Schmerzen Sie das Zeug meinetwegen weg!«
+»Schmeißen Sie das Zeug meinetwegen weg!«
 
-»Las wollen wir doch lieber sein lassen«, lächelte Harald.
-Maat Sie dort zwischen Ihren Waffensammlungen an den
-»gaben quoll Glaskästen mit seltenen Schmetterlingen, Hand
-sogar einen Glaskasten mit Fliegen hängen haben …«
+»Das wollen wir doch lieber sein lassen«, lächelte Harald.
+»Zumal Sie dort zwischen Ihren Waffensammlungen an den
+Wänden auch Glaskästen mit seltenen Schmetterlingen, Käfern
+und sogar einen Glaskasten mit Fliegen hängen haben …«
 
-Weltners Lider schlossen sie jetzt fast ganz, und zwischen
-engen Lidspalten schoß ein Blitz hervor, der jedem anderen
-»e gemacht hätte,
+Kettners Lider schlossen sie jetzt fast ganz, und zwischen
+den engen Lidspalten schoß ein Blitz hervor, der jedem anderen
+bange gemacht hätte,
 
-Aber Harst schlenderte ganz gemächlich?) auf den Glazxkajien
-» und stellte sich breitbeinig davor hin.
+Aber Harst schlenderte ganz gemächlich auf den Glaskasten
+zu und stellte sich breitbeinig davor hin.
 
-Sekundenlang hörte ich nur Kettners unregelmäßige Atems«
-sie und das Tier der Wanduhr.
+Sekundenlang hörte ich nur Kettners unregelmäßige Atemstöße
+und das Ticken der Wanduhr.
 
 Würde die Explosion doch noch kommen?!
 
 <@pagebreak/>
-Dann drehte Harald den Kopf »Darf ich Fuhr Insektensammlung
-mitnehmen? — Ich würde sie hin « Eden
-gen lassen, lieber Herr Kettner, denn — — sie See gestehe
-
-Weg werden, und das wäre doch unangenehm, glaube ich.«
+Dann drehte Harald den Kopf. »Darf ich auch diese Insektensammlung
+mitnehmen? — Ich würde sie hier nicht hängen
+lassen, lieber Herr Kettner, denn — — sie könnte gestohlen
+werden, und das wäre doch unangenehm, glaube ich.«
 
 Der Alte am Schreibtisch hatte die Augen ganz weit aufgerissen.
-Blässe und tiefe Nöte wechselten auf seinem Gesicht,
+Blässe und tiefe Röte wechselten auf seinem Gesicht,
 trotzdem erklärte er dann unbegreiflich ruhig:
 
-»Ich verdammter Narr!! Daß ich nicht solltet daran gedacht
+»Ich verdammter Narr!! Daß ich nicht selbst daran gedacht
 habe! Gut, — verlieren Sie das Ding … Hier ist
 Packpapier, — wickeln Sie den Kasten ein, es braucht ihn
-niemand zu sehen … — Haben Sie denn ein Besteck dafür?«
+niemand zu sehen … — Haben Sie denn ein Versteck dafür?«
 
-»»3 … Seien Sie ohne Sorge … — — Und jetzt bricht
-auch endlich die Sonne durch den Nebel … Auf Niederließen,
-lieber Herr Kettner …
+»Ja … Seien Sie ohne Sorge … — — Und jetzt bricht
+auch endlich die Sonne durch den Nebel … Auf Wiedersehen,
+lieber Herr Kettner …«
 
 Der Farmer drückte uns stumm und fest die Hand, und wir
 gingen mit dem eingehüllten Kasten nach oben in unser
-Zimmer, wo Harald ihn sowie die Schachtel mit Amen betupften
+Zimmer, wo Harald ihn sowie die Schachtel mit den betupften
 Fliegen in unseren größeren Koffer einschloß. — Ein
-»Versteck« war das ja nun gerade nicht, aber unser Kräften
+»Versteck« war das ja nun gerade nicht, aber unser Koffer
 würde wohl kaum von der Person beachtet werden, die vielleicht
-hinter dem Glaskasten mit den Fliegen her war.
+hinter dem Glaskasten mit den Fliegen her war. Ich
 hatte mir diese in üblicher Art aufgespießten Fliegen nur
 flüchtig angesehen, das Glas war sehr verstaubt, immerhin:
-(Es waren alles Fliegen mit rot oder rotbraun betupften
+Es waren *alles* Fliegen mit rot oder rotbraun betupften
 Flügeln und zwar die verschiedensten Arten Davon, große,
 kleine, grünliche, gelbliche, hellbraune …
 
-Und dann klopfte es auch schon, und viele Xaver Balzer
+Und dann klopfte es auch schon, und Herr Xaver Balzer
 trat ein, uns zu dem »Spaziergang« abzuholen. Welche Art,
 »Spaziergang« das werden würde, konnte ich mir denken.
 
-Als wir in den Park kamen, war der Nebel verschwunden,
-Die Sonne schien hell und warm, und der Tag versprach un
-gewöhnlich mild zu werden.
+Als wir in den Park kamen, war der Nebel verschwunden.
+Die Sonne schien hell und warm, und der Tag versprach ungewöhnlich
+mild zu werden.
 
-Am Tennisplatz machte Balzer, der bisher über richtig
+Am Tennisplatz machte Balzer, der bisher über nichtige
 <@pagebreak/>
-Dinge geredet hatte, halt und sagte nach fünf wachsam
-Zügen aus seinem dicken Glimmstengel
-»Ich möchte Ihnen etwas zeigen, Herr Harst …
+Dinge geredet hatte, halt und sagte nach fünf mächtigen
+Zügen aus seinem dicken Glimmstengel:
+
+»Ich möchte Ihnen etwas zeigen, Herr Harst …«
 
 »So?! Was denn?!«
-— »Kommen Sie mit«, bat Balzer geheimnisvoll.
 
--
+»Kommen Sie mit«, bat Balzer geheimnisvoll.
 
 <h2>2. Kapitel.</h2>
 
-<h3>In der Anstalt Brut.</h3>
+<h3>In der Anstalt Bruck.</h3>
 
 Er schritt voran, — ich warf von der Seite einen Blick auf
-Haralds Gesicht, und ich sah, daß er sehr sein lächelte. Fahrt
-her wandte sich dem Bootsschuppen zu, machte auf der Böschung
-abermals halt, bückte sie; und deutete auf einige Spuren in
+Haralds Gesicht, und ich sah, daß er sehr fein lächelte. Balzer
+wandte sich dem Bootsschuppen zu, machte auf der Böschung
+abermals halt, bückte sich und deutete auf einige Spuren in
 der Grasnarbe. »Hier entfloh der verkleidete Neger«, sagte
-mit starker Betonung des vorletzten Wortes, »Hier hat jemand
-die Fährte des Flüchtlings absichtlich mit Seinen Niesens
-liefern zu verwischen gesucht, Der Flüchtling war eine Frau,
-»und ich) kenne sie.« — Er richtete sich laut und blickte Harald
-gerade in die Augen- »Und Sie kennen die Frau auch,
+er mit starker Betonung des vorletzten Wortes. »Hier hat jemand
+die Fährte des Flüchtlings absichtlich mit Seinen Riesenstiefeln
+zu verwischen gesucht. Der Flüchtling war eine Frau,
+und ich kenne sie.« — Er richtete sich auf und blickte Harald
+gerade in die Augen. — »Und Sie kennen die Frau auch,
 Herr Harst … Sie wissen auch, wer diese Frauenspur zertrampelte
 …«
 
 »Natürlich weiß ich das, mein lieber Herr Balzer, —
 denn ich tat es selbst in der verflossenen Nacht und entlieh
 mir dazu ohne Erlaubnis ein Paar von Augustus’ Stiefeln.
-Falls Sie Hühneraugen haben, empfehle ich Ihnen Ei e Schuhs
-Füße. Falls Sie aber Fräulein Koppje etwa mit dem Morde
-]u Verbindung bringen, dann sind Sie arg auf dem Holzwege
-»und dann empfehle ich Ihnen etwas anderes; Suchen Sie sich
+Falls Sie Hühneraugen haben, empfehle ich Ihnen *die* Schuhgröße.
+Falls Sie aber Fräulein Koppje etwa mit dem Morde
+in Verbindung bringen, dann sind Sie arg auf dem Holzwege
+und dann empfehle ich Ihnen etwas anderes: Suchen Sie sich
 eine betupfte Fliege, aber die richtige!«
 
 Balzer schaute über den Rand seiner goldenen Brille sein
-»schrauben forschend an, »Bekannte Fliege …«, wiederholte
-er sinnend … »So … sog … Betupfte Fliege …« Dann
-zuckte er auf das hohe, durchsichtige, straff gespannte Gazenetz.
-
+Gegenüber forschend an. »Betupfte Fliege …«, wiederholte
+er sinnend … »So … so … Betupfte Fliege …« Dann
+zeigte er auf das hohe, durchsichtige, straff gespannte Gazenetz.
 <@pagebreak/>
-»Herr Harst, vorhin — — dort — — drei Sturz …« Er spypplötzlich
-»sehr abgehackt, weil er wahrscheinlich mit den (G
-danken anderswo war. »Hier sind die Fliegen, in die
-Streichholzschachtel … Sie waren gefällig) von der nur
-ihnen Kälte sehr matt und die roten Pünktchen auf den
-gern waren stark verlaufen infolge der Nässe. Aber Tat
-Balzer hat trotz der Brille gute Augen, und hinter die’
-Stirn lagert frischte gute Grüße … — So …so, — also
-tupfte Fliegen, — schau an, das gefällt mir. Ein Kriminproblem
-nach Därme F erzeugt bei mir Übelkeit, ich 1h
-genau! wie Sie das Absonderliche … — Darf ich Ihnen
-drei Fliegen s)enken, oder …« — sein Strick wanderte über
-schmalen See zur Anstalt Burg hinüber — »soll ich) uralt
-Bug versprechen und so hintenherum fragen, ob die Inka]!
-dort Aasfliegen züchten?! c-me Person sitzt dort in der«
-statt, der ich) dies zutraue …
+»Herr Harst, vorhin — — dort — — drei Stück …« Er sprach
+plötzlich sehr abgehackt, weil er wahrscheinlich mit den Gedanken
+anderswo war. »Hier sind die Fliegen, in dieser
+Streichholzschachtel … Sie waren natürlich von der nächtlichen
+Kälte sehr matt und die roten Pünktchen auf den
+Flügeln waren stark verlaufen infolge der Nässe. Aber Xaver
+Balzer hat trotz der Brille gute Augen, und hinter dieser
+Stirn lagert frischte gute Grütze … — So … so, — also
+betupfte Fliegen, — schau an, das gefällt mir. Ein Kriminalproblem
+nach Schema F erzeugt bei mir Übelkeit, ich liebe
+genau wie Sie das Absonderliche … — Darf ich Ihnen
+drei Fliegen schenken, oder …« — sein Blick wanderte über den
+schmalen See zur Anstalt Bruck hinüber — »soll ich mal im
+Bruck vorsprechen und so hintenherum fragen, ob die Insassen
+dort Aasfliegen züchten?! Eine Person sitzt dort in der
+Anstalt, der ich dies zutraue …«
 
-»Ja, Harriet Prill«, nickte Harst unbefangen. »Ihre«-
-gen nehme ich mit Dank an, den Direktor im Brut mächtig
-aber lieber persönlich und sehr vorsichtig aushorchen, darin
-kann doch unmöglich erklären, Harriet Prill stünde bereits —
-der Außenwelt trotz aller Beaufsichtigung im regsten Denk’
-der Herr Professor würde ja aus dem »Frack ’springey
-Außerdem, — wenn Sie dort erscheinen, mein Lieber, sd0
-hält die Sache sofort einen enthielten Anstrich, wach
-Schraut und ich dem Besuch ein ganz harmloses Mäntel!
-umhängen können. Also — auf Wtcöesfchen … Wir
-denn mit dem Boot über den See …«
+»Ja, Harriet Prill«, nickte Harst unbefangen. »Ihre Fliegen
+nehme ich mit Dank an, den Direktor im Bruck möchte ich
+aber lieber persönlich und sehr vorsichtig aushorchen, denn ich
+kann doch unmöglich erklären, Harriet Prill stünde bereits mit
+der Außenwelt trotz aller Beaufsichtigung im regsten Verkehr,
+der Herr Professor würde ja aus dem Frack springen …
+Außerdem, — wenn Sie dort erscheinen, mein Lieber, so erhält
+die Sache sofort einen amtlichen Anstrich, während
+Schraut und ich dem Besuch ein ganz harmloses Mäntelchen
+umhängen können. Also — auf Wiedersehen … Wir rudern
+mit dem Boot über den See …«
 
-Walzer schmunzelte vxx]tol)lau. »Viel Glück!«
+Balzer schmunzelte verstohlen. »Viel Glück!«
 
-Das kleine Boot schoß im Sonnenschein über den silbern
-auf den Bootssteg der Anstalt zu. Der Haupteingangs zu
-sein Gebäudekomplex lag auf der anderen Seite nach
-Chaussee zwei Wir mußten also noch ein weites Stück zu
-hohen roten Ziegelmauer entlanggehen, und wir hielten,+
-dabei in vorsichtiger Entfernung von der Mauer und sie
-es auch sonst an Wachsamkeit nicht fehlen. Wir kannten
+Das kleine Boot schoß im Sonnenschein über den stillen See
+auf den Bootssteg der Anstalt zu. Der Haupteingangs zu diesem
+Gebäudekomplex lag auf der anderen Seite nach der
+Chaussee zu. Wir mußten also noch ein weites Stück an der
+hohen roten Ziegelmauer entlanggehen, und wir hielten uns
+dabei in vorsichtiger Entfernung von der Mauer und ließen
+es auch sonst an Wachsamkeit nicht fehlen. Wir kannten ja
 <@pagebreak/>
-Mutter Prills allumfassende Intelligenz und skrupellose Brutalität,
+Harriet Prills allumfassende Intelligenz und skrupellose Brutalität,
 diese Frau war eine ganz andere Art von Todfeind
-18 seiner Zeit Mr. Parkett, Tür uns ging es hier genau
-so und Sein oder Nichtsein wie an jenem unvergeßlichen
-Abend, als Harriets Meute uns über die Bücher der Mietskasernen
-gehabt hatte und unser Leben auch nicht einen Genug
+als seiner Zeit Mr. Warbatty. Für uns ging es hier genau
+so um Sein oder Nichtsein wie an jenem unvergeßlichen
+Abend, als Harriets Meute uns über die Dächer der Mietskasernen
+gehetzt hatte und unser Leben auch nicht einen Penny
 mehr wert war.
 
-Nun, wir richteten uns danach! « Wir waren harmlose
+Nun, wir richteten uns danach! Wir waren harmlose
 Besucher, die sich nach dem Befinden Harriet Prills erkundigen
-wollten, und der Direktor der Anstalt, ein sehr zugenöpfter
-Herr, ahnte nicht, daß seine Gäste. in den Ulster laschen
-selbst hier in seinem Dienstzimmer gewisse unaugtenehme
+wollten, und der Direktor der Anstalt, ein sehr zugeknöpfter
+Herr, ahnte nicht, daß seine Gäste in den Ulstertaschen
+selbst hier in seinem Dienstzimmer gewisse unangenehme
 Metallstücke stecken hatten, die immer noch besser sind,
-als glänzende Rednergabe oder. ähnliche rein intellektuelle
-Musikstücke.
+als glänzende Rednergabe oder ähnliche rein intellektuelle
+Kunststücke.
 
-Professor Blut kam natürlich sofort auf die telefonische
+Professor Blunk kam natürlich sofort auf die telefonische
 Anfrage Harsts vom gestrigen Tage zu sprechen. Wie gesagt,
 — er war sehr zugeknöpft, wog jedes Wort bedächtig
 ab, und zupfte dauernd an seinem grauen Spitzbart herum,
 war eben sehr nervös, man sah ihm an, er wünschte uns
-dorthin, wo der Presse wächst.
+dorthin, wo der Pfeffer wächst.
 
-»Ihr Anruf gestern hat in mir beinahe den Eindruck erwacht,
+»Ihr Anruf gestern hat in mir beinahe den Eindruck erweckt,
 als ob Sie es für möglich hielten, Harriet Prill könnte
-sich unbemerkt aus der Anstalt entfernen, Herr Sollt’, erklärte
-er nach den ersten Vegrßßungöwoxtcn.
+sich unbemerkt aus der Anstalt entfernen, Herr Harst«, erklärte
+er nach den ersten Begrüßungsworten.
 
-»Der Eindruck täuscht, Herr Professor … — Ich wieder«
-wie meine Bitte: Könnten wir Harriet Prill sprechen ix
-irren Zimmer, 111 hat sie ja wohl, im Südflügel … Wir
+»Der Eindruck täuscht, Herr Professor … — Ich wiederhole
+meine Bitte: Könnten wir Harriet Prill sprechen — in
+ihrem Zimmer, 111 hat sie ja wohl, im Südflügel … Wir
 waren es, die diese Frau damals zur Strecke brachten, wir
-rechten Frieden mit ihr schließen, vielleicht würde eine Aus
-schieße mit ihr ihren Gemütszustand auch günstig besinne,
-lassen, denn wie ich hörte, beläßt sie es nicht nur bei der einen
-Wagnis, ein Tagebuch zu schreiben, sondern fängt bei den Opernsänger
-im Anstaltspark auch Stiegen, besonders in der
+möchten Frieden mit ihr schließen, vielleicht würde eine Aussprache
+mit ihr ihren Gemütszustand auch günstig beeinflussen,
+denn wie ich hörte, beläßt sie es nicht nur bei der einen
+Manie, ein Tagebuch zu schreiben, sondern fängt bei den Spaziergängen
+im Anstaltspark auch Fliegen, besonders in der
 <@pagebreak/>
-Nähe der Müllkästen und Abfallgruben, wo grünliche Aas
-stiegen von der kleineren Trichters gern überwintern.«
+Nähe der Müllkästen und Abfallgruben, wo grünliche Aasfliegen
+von der kleineren Spielart gern überwintern.«
 
-Der Professor lächelte nachsichtig. »Das stimmt aller
-Dinge, Herr Harst … Das paßt aber durchaus in ihr Krankheitsbild
-hinein. Früher kommandierte sie die Verbrachte
-Welt, jetzt sucht sie Fliegen zu zähmen. Wir stören Rostock
-Patientin bei so harmlosen Schrullen nicht, im Jagender
+Der Professor lächelte nachsichtig. »Das stimmt allerdings,
+Herr Harst … Das paßt aber durchaus in ihr Krankheitsbild
+hinein. Früher kommandierte sie die Verbrecherwelt,
+jetzt sucht sie Fliegen zu zähmen. Wir stören unsere
+Patientin bei so harmlosen Schrullen nicht, im Gegenteil,
 wir sind äußerst nachsichtig und gestatten alles, was die Kranken
 ablenken könnte.«
 
-Harst betrachtete sich diesen ahnungslosen Herrn mit Brot
-Atem Interesse. Der Professor war als Faktorei berühmt, ab’
-Fachgelehrte werden einseitig. — Harst holte zum zweiten Gekauft
-aus, und die Art und Weise, wie er dies tat, By
-abermals ein Beweis für seine haarscharfe Logik, die sich sieh
-sich; oft genug absichtlich auf phantastisch erscheinende Nebenpfade
-wagte. »Eine Frage, Herr Professor … Findet Ha
-riet Prill den wirklich genügend Fliegen hier im Anstelle
-Garten, oder besorgt ihr das Anstaltspersonal aus Gutmütigkeit
+Harst betrachtete sich diesen ahnungslosen Herrn mit regstem
+Interesse. Der Professor war als Facharzt berühmt, aber
+Fachgelehrte werden einseitig. — Harst holte zum zweiten Angelwurf
+aus, und die Art und Weise, wie er dies tat, war
+abermals ein Beweis für seine haarscharfe Logik, die sich freilich
+oft genug absichtlich auf phantastisch erscheinende Nebenpfade
+wagte. »Eine Frage, Herr Professor … Findet Harriet
+Prill denn wirklich genügend Fliegen hier im Anstaltsgarten,
+oder besorgt ihr das Anstaltspersonal aus Gutmütigkeit
 ebenfalls diese Dressurobjekte?«
 
-Der Professor schüttelte den Kopf. »Das Personal in
+Der Professor schüttelte den Kopf. »Das Personal hat
 dazu keine Zeit … Aber es hatte sich im Dorfe Bruck wohl
-sehr bald bmnmchsock)en, das die berüchtigte Patientin grade
-Fliegen aus Zeitvertreib in einem Kästchen sich viel
-und aus dem Grunde mag der junge Herr einige Male oh
+sehr bald herumgesprochen, daß die berüchtigte Patientin grade
+Fliegen aus Zeitvertreib in einem Kästchen sich hielt
+und aus dem Grunde mag der junge Herr einige Male die
 Fliegen für Harriet Prill hier abgeliefert haben …«
 
-»So … so … — eilt junger Herr … Konnten Sie ich
-
+»So … so … — ein junger Herr … Kannten Sie ihn,
 Herr Professor?«
-»Gewiß, — der Patientin darf nichts ausgehändigt wer
-den, was ich nicht vorher geprüft habe … Was sollte!6
 
-wohl gegen ein Schuhtelchzen mit Fliegen einzuwenden belegt
+»Gewiß, — der Patientin darf nichts ausgehändigt werden,
+was ich nicht vorher geprüft habe … Was sollte ich
+wohl gegen ein Schächtelchen mit Fliegen einzuwenden haben?«
+
 Harst lehnte sich etwas in seinem Stuhle zurück.
-»Es wäre besser gewesen, Sie hätten den Herrn sollst
-schickt, Herr Professor«, sagte er sehr ernst. »Sie haben weh
+
+»Es wäre besser gewesen, Sie hätten den Herrn fortgeschickt,
+Herr Professor«, sagte er sehr ernst. »Sie haben wohl
 von dem Funde drüber bei Herrn Kettner gehört, von dem
 <@pagebreak/>
-Sitzen. Hier ist eine Polizeiaufnahme der Leiche. Ist der
-Mann Ihr harmloser Besuck)er?«
+Toten. Hier ist eine Polizeiaufnahme der Leiche. Ist der
+Mann Ihr harmloser Besucher?«
 
-Der Professor warf nur einen einzigen Blick auf das Bild.,
+Der Professor warf nur einen einzigen Blick auf das Bild.
 
-»Er ist’s … sollt’s —« — der arme Herr Müller, dreimal
-war er hier, und …
+»Er ist’s … er ist’s — — der arme Herr Müller, dreimal
+war er hier, und …«
 
-… hieß nicht Mutter, hieß auch nicht Orlik, — — Gott
+»… hieß nicht Müller, hieß auch nicht Orlik, — — Gott
 mag wissen, wie er heißt, er wird wohl die Namen wie das
 Hemd gewechselt haben. — Ich bitte Sie aber dringend: Dies
-stiehlt unter uns, Herr Professor!! Ich spreche hier zugleich in!
-Sachen der Kriminalpolizei. Der Mann ist ermordet worden.
-Also zu niemandem ein Wort?«
+bleibt unter uns, Herr Professor!! Ich spreche hier zugleich im
+Namen der Kriminalpolizei. Der Mann ist ermordet worden.
+Also zu niemandem ein Wort!«
 
 Der würdige Gelehrte betupfte sich die Stirn. Ihm war
-da! alledem nicht ganz behaglich zu Mute. Mit seiner Zusgefnöpftheit
+bei alledem nicht ganz behaglich zu Mute. Mit seiner Zugeknöpftheit
 war’s vorbei.
 
-»Herr Harst, ah beschwöre Sie, — ich ahne W)kcckllä)xs
+»Herr Harst, ich beschwöre Sie, — ich ahne Schreckliches,
+— hängt etwa …«
 
-hängt etwa …
+Aber Harald war nicht gesonnen, irgend etwas von dem
+so komplizierten Kriminalfall preiszugeben …
 
-Über Harald war nicht gesonnen, irgend etwas von drin.
-ja komplizierten Kriminalfall preiszugeben …
-
-»Entschuldigen Sie, Herr Professor: Sie werden als
-zuneigen, Sie werden auch Harriet Prill das harmlose Berg
-klüger mit den Fliegen nicht nehmen, Sie werden sich über-«
-pt nichts anmerken lassen, und wir werden uns wieder der«
-abschieben. An der Tatsache, daß der Mann ermordet wurde,
-ist sich nichts ändern, — Pflicht ist es jetzt, den Mörder zu sinkt,
-und das würden Sie hintertreiben… wenn Sie auch nur
-Wort über unsere Gespräch hier äußern. — Sie gestatten,
-biß wir gehen … Es war mir eine Ehre, Herr Professor …«
+»Entschuldigen Sie, Herr Professor: Sie werden also
+schweigen, Sie werden auch Harriet Prill das harmlose Vergnügen
+mit den Fliegen nicht nehmen, Sie werden sich überhaupt
+nichts anmerken lassen, und wir werden uns wieder verabschieden.
+An der Tatsache, daß der Mann ermordet wurde,
+läßt sich nichts ändern, — Pflicht ist es jetzt, den Mörder zu finden,
+und das würden Sie hintertreiben, wenn Sie auch nur
+ein Wort über unser Gespräch hier äußern. — Sie gestatten,
+daß wir gehen … Es war mir eine Ehre, Herr Professor …«
 
 Draußen auf der Chaussee, die in weitem Bogen um den
-vor herumführte bis zum Dorfe und bis zur Bahnstation
-Besuch, äußerte Harald nur: »Der eine Teil des Problems seid
-wir leidlich geklärt, Harriet Prill hatte eben mit ihren
-denken Vereinbarungen für alle nur möglichen Zwischenfälle
-Diensten. Sie wußte, daß sie im Falle ihrer Verhaftung
-Wer Irrenanstalt zur Beobachtung überwiesen werden! würde,
-weil sie drüben in Amerika Krach schon in einer Privatheilanstalt
+See herumführte bis zum Dorfe und bis zur Bahnstation
+Bruck, äußerte Harald nur: »Der eine Teil des Problems ist
+nun leidlich geklärt. Harriet Prill hatte eben mit ihren
+Leuten Vereinbarungen für alle nur möglichen Zwischenfälle
+getroffen. Sie wußte, daß sie im Falle ihrer Verhaftung
+einer Irrenanstalt zur Beobachtung überwiesen werden würde,
+weil sie drüben in Amerika auch schon in einer Privatheilanstalt
 <@pagebreak/>
 gewesen, und damit sie die Verbindung nach draußen
-aufnehmen könnte, wurde diese Fliegen-Schrulle in Szene setzt.
+aufnehmen könnte, wurde diese Fliegen-Schrulle in Szene gesetzt.
 Dreimal war Orlik mit Fliegen bei dem Professor, —
-na, ich hätte die Schächtelchen nicht nacht meiner Methode untersuchen
+na, ich hätte die Schächtelchen nicht nach meiner Methode untersuchen
 mögen, in denen die Fliegen steckten …!!« — Er
 sprach nur das aus, was auch ich mir sofort gedacht hatte:
-Die Schächctelhen konnten einen doppelten Boden gehabt
+Die Schächtelchen konnten einen doppelten Boden gehabt
 haben, und bekanntlich haben Verbrecher eng zusammengerollte
 Stahlsägen schon im Munde in ihre Zellen eingeschmuggelt
 und waren eines schönen Tages auf und davon. — Während
-ich mir dies noch überlegte, war« Harald plötzlich stehen geblieben.
-Tochter Hand neben der Chaussee trat hier der Hochwald
-zurück, weite, abgeerütete Kartoffeläcker erstreckten sich
+ich mir dies noch überlegte, war Harald plötzlich stehen geblieben.
+Rechter Hand neben der Chaussee trat hier der Hochwald
+zurück, weite, abgeerntete Kartoffeläcker erstreckten sich
 nach Westen zu, und ungefähr hundert Meter von der Chaussee
-stand ein kleines Flugzeug, an dem drei Leute eifrig herum bastelten.
+stand ein kleines Flugzeug, an dem drei Leute eifrig herumbastelten.
 Sie schienen eine Notlandung vorgenommen zu
-haben, und dabei war ’wohl das Fahrgestells irgendwie beschädigt
+haben, und dabei war wohl das Fahrgestell irgendwie beschädigt
 worden.
 
 Harald zog mich schnell hinter einen der Chausseebäume.
 Wir waren noch nicht bemerkt worden, und die drei Männer
-in Lederanzügen hatten es auch so eilig, daß sie sich nur um,
+in Lederanzügen hatten es auch so eilig, daß sie sich nur um
 ihren Benzinvogel kümmerten.
 
-»In den Chausseegraben — dann zurück in den Wald«
+»In den Chausseegraben — dann zurück in den Wald«,
 kommandierte Harst leise. »Diese Geschichte hier ist nicht
-sauber …, 1«
+sauber …!«
 
 Ich gehorchte blindlings. Wenn Harald so etwas behauptet,
 hat er auch seine Gründe dafür, und — — ein Flugzeug
@@ -1744,208 +1739,205 @@ ist zu eiliger Flucht noch immer das allerbeste Beförderungsmittel.
 <h3>Erinnerungen an den Burenkrieg.</h3>
 
 Als wir dann am Rande des Hochwaldes hinter einer
-den Eiche und einigen Brombeerbüschen kauerten, hatte sich
-das Bild da vor uns auf dem Ackerland nur um eine Kleid
+dicken Eiche und einigen Brombeerbüschen kauerten, hatte sich
+das Bild da vor uns auf dem Ackerland nur um eine Kleinigkeit
+verändert. Einer der drei Flieger schwang sich soeben
+auf ein Motorrad, das offenbar im Rumpf des Flugzeugs
+verborgen gewesen und sauste in Richtung des Dorfes Bruck
+davon, während die beiden anderen die Maschine mit Hilfe
+des Propellers hinter eine vorspringende Waldzunge rollen
+ließen, so daß sie von der Chaussee nicht mehr gesehen werden
+konnten. Das Fahrgestell hatten sie wohl inzwischen notdürftig
+ausgeflickt, der Rumpf hing nach einer Seite über, und
+sie bewerkstelligten den Platzwechsel auch sehr behutsam.
 
-fest verändert. Einer der drei Flieger!chwang sich soeben
-v/ ein Motorrad, das offenbar im Rumpf des Flugzeugs
-w’dorgen gewesen und sauste in Richtung des Dorfes Brut
-denen, während die beiden anderen die Maschine mit Hilfe
-ins Propellers hinter eine vorspringende Waldzunge vollen
-Wesen, so daß sie von der Chaussee nicht mehr gesehen werden
-wurden, Das Fahrgestells hatten sie wohl inzwischen noteestig
-ausgeführt, der Rumpf hing nach einer Seite über, und
-»e bewerkstelligten den Platzwechsel zuckt) sehr Besatzung,
+Harst deutete erst jetzt auf ein Lastauto, das etwa dreihundert
+Meter weiter am Chausseerande hielt und das hoch
+beladen war. Ein Schofför war dort nicht zu bemerken.
 
-Harst deutete erst jetzt auf ein Lastauto, das etwa drei«
-fordert Meter weiter am Chausseerande hielt und das hoch
-braven war. Ein Schofför war dort nicht zu bemerken …
-
-»Gute und Flugzeug gehören zusammen«, meinte er leise
-beobachtete die Vorgänge weiter. »Mann kann ein Jahr«
-Sessels eines Flugzeugs auch absichtlich ramponieren … Neun
-
-an zufällig ein Landjäger vorüberkommt, hat man die
-Lautloseste Erklärung bereit, weshalb man nicht wieder aufwecken
-ist. ich behaupte, ein Ersatzfahrgestell Wiesel auf dem
-Eilande, und dieser Ersatz läßt sich abends im Au anmontie’«.
-ibrigens wird es bereits um halb fünf dunkel, und daß
-reist Prill ihr Zimmer unbemerkt durch die Fenster vorigen
+»Auto und Flugzeug gehören zusammen«, meinte er leise
+und beobachtete die Vorgänge weiter. »Mann kann ein Fahrgestell
+eines Flugzeugs auch absichtlich ramponieren … Wenn
+dann zufällig ein Landjäger vorüberkommt, hat man die
+harmloseste Erklärung bereit, weshalb man nicht wieder aufgestiegen
+ist. ich behaupte, ein Ersatzfahrgestell liegt auf dem
+Lastauto, und dieser Ersatz läßt sich abends im Nu anmontieren,
+übrigens wird es bereits um halb fünf dunkel, und daß
+Harriet Prill ihr Zimmer unbemerkt durch die Fenster verlassen
 kann, wird dir wohl nunmehr auch einleuchten.«
 
-»Allerdings … Nachts den drei Besuchen Orliks in der
-
-Anstalt wird Harriet bessere und kleinere Ausbruchswerkuge
+»Allerdings … Nach den drei Besuchen Orliks in der
+Anstalt wird Harriet bessere und feinere Ausbruchswerkzeuge
 zur Verfügung haben, als sie der Professor je gesehen
-und wir wissen nun auch, wer der zweite »Neger’ ist, also
+hat, und wir wissen nun auch, wer der zweite »Neger« ist, also
 <@pagebreak/>
 der, der Kettner bestahl, der von Fräulein Koppje im Boot
 verfolgt wurde und …«
 
-»Stopp!. Du vergißt eins, was mir nicht in den Stamm
-paßt …: Den FingerabdrusF auf dem Geständnis des treuen
-Luxuszug?! Dieser Fingerabdruck stört mich, er paßt in die
+»Stopp! Du vergißt eins, was mir nicht in den Kram
+paßt …: Den Fingerabdruck auf dem Geständnis des treuen
+Augustus! Dieser Fingerabdruck stört mich, er paßt in die
 Kette unserer Schlußfolgerungen nicht hinein … Ich habe
-daß Gefühl, daß wir doch noch einige Überraschungen erleben
+das Gefühl, daß wir doch noch einige Überraschungen erleben
 werden … — Da, die Kerle rollen das Flugzeug noch weiter
 in den Wald, jetzt drehen sie es, Propeller nach dem freien
 Felde, jetzt machen sie es sich bequem … frühstücken, trinken.
 — Das ist übrigens bestimmt eine englische Maschine, und
-die Leute sehen auch ganz wie Engländer aus! Unsere liebt
+die Leute sehen auch ganz wie Engländer aus! Unsere liebe
 Feindin Harriet besaß ja schon als Herr im Frack sehr ausgedehnte
 Beziehungen … Na, warten wir ab … Harriet wird
-nicht entfliehen, und selbst wenn wir hier nicht die Chaussee
+*nicht* entfliehen, und selbst wenn wir hier nicht die Chaussee
 entlanggekommen wären und nichts von dem Flugzeug wüßten,
-wäre sie nicht entwischt, ich hätte von Anbruch der Dunkel«
-Zeit an ihre Fenster beobachtet und auch sonst noch Maßnahmen
+wäre sie nicht entwischt, ich hätte von Anbruch der Dunkelheit
+an ihre Fenster beobachtet und auch sonst noch Maßnahmen
 getroffen, eine Flucht zu verhüten. Zunächst haben wir Ja
-goß Zeit … / ««
+noch Zeit …«
 
 Das stimmte wohl, und auch für Abwechslung war bestens
 gesorgt. Ganz abgesehen von den beiden Fliegern, die sich auf
-Baumstümpfe gesetzt hatten, und an dem mitbenutzen verfänglichen
-Lastauto ’gab es genug zu beobachten, — man mußte
+Baumstümpfe gesetzt hatten, und an dem unbewachten verfänglichen
+Lastauto gab es genug zu beobachten, — man mußte
 nur Augen im Kopfe haben und so mißtrauisch sein wie wir …
 Zuerst erschien da vom Dorfe her auf der Chaussee ein Radler,
 ein würdiger älterer Herr mit grauem Bart, so etwa Typ
 Landpastor, und rollte gemächlich vorüber — Richtung Anstalt
 
 Harsts vergnügtes Kichern war unnötig. Der gute Xaver
-Balzer hatte sich ja sehr nett herausgeputzt, aber die Man
-Feinde reihte nicht hin, nicht her. Es war« Balzer! — Kaum
-war er um die Biegung hinter uns verschwunden, als Dr
-Szenerie noch interessanter wurde. Von der Anstalt he!
-näherte sich zu Fuß eine der Wärterinnen, eine hagere P1
-Ton in Tracht mit einem Henkelkorbe über dem Arm. 0F’»’
+Balzer hatte sich ja sehr nett herausgeputzt, aber die Maskerade
+reichte nicht hin, nicht her. Es war Balzer! — Kaum
+war er um die Biegung hinter uns verschwunden, als die
+Szenerie noch interessanter wurde. Von der Anstalt her
+näherte sich zu Fuß eine der Wärterinnen, eine hagere Person
+in Tracht mit einem Henkelkorbe über dem Arm. Sie
 <@pagebreak/>
-marschierte sehr flott, schaute nicht rechts, nicht links mußte
+marschierte sehr flott, schaute nicht rechts, nicht links, mußte
 dicht an dem Lastauto vorüber, schnäuzte sich dort, und setzte
-ihren Weg fort. Daß sie ihr- Taick)entuch etwas hatte weh …
+ihren Weg fort. Daß sie ihr Taschentuch etwas hatte wehen
 lassen, konnte Zufall sein.
 
 Harst pfiff ganz leise durch die Zähne. »Schon faul, mein
 Alter … — Da, der eine Flieger schlendert nach dem Lastauto.
-Setzt müssen wir uns schnurrten, es: hilft alles nichts …
-Schnell, gedruckt — — Galopp, — — halt, jetzt Schritt …
-Wir sind doch früher an Ort und Stelle.«. — —
+Jetzt müssen wir uns einmischen, es hilft alles nichts …
+Schnell, geduckt — — Galopp, — — halt, jetzt Schritt …!
+Wir sind doch früher an Ort und Stelle.«
 
 Wir trafen mit dem Flieger dicht vor dem Lastwagen zusammen,
 er musterte uns kurz, wollte vorüber, seine stechenden
-Augen gestehen mir gar nicht, und als Harst ihn nun zurief,
-wandte er sich nur zögernd um und beseelt die Hände in
+Augen gefielen mir gar nicht, und als Harst ihn nun anrief,
+wandte er sich nur zögernd um und behielt die Hände in
 den Taschen seiner Lederjacke.
 
-»Hallo, — Sie haben mit Ihrem Flugzeug Bruch gemacht«
-lugte Harald so nebenher. »Hoffentlich läßt sich Text Schaden
-reparieren, Die Anstaltswärtern, die dort vor uns geht, hat
-an Pech gehabt …  Als sie ihr Taschentu hervorzog, stotterte
-ein Papier davon., es kann ein Gehorchten getreten ich,
-sieben wir mal nach …« …
+»Hallo, — Sie haben mit Ihrem Flugzeug Bruch gemacht«,
+sagte Harald so nebenher. »Hoffentlich läßt sich der Schaden
+reparieren. Die Anstaltswärtern, die dort vor uns geht, hat
+auch Pech gehabt …  Als sie ihr Taschentuch hervorzog, flatterte
+ein Papier davon, es kann ein Geldschein gewesen sein,
+sehen wir mal nach …«
 
-Von dem Zettel hatte ich. nichts bemerkt aber es wurdx
-neu stimmen, das Gebahren der- Pflegerin war- doch zu aufs …
-faltig gewesen. « …
+Von dem Zettel hatte ich nichts bemerkt, aber es würde
+schon stimmen, das Gebahren der Pflegerin war doch zu auffällig
+gewesen.
 
 Der Flieger stand nun dicht vor uns und schien nicht sehr
-»freut, überhaupt antworten zu müssen. Er hatte kantige,
-scharfe Züge, ein sehr srismches Gesicht, unter dem Sturzhelm
-tun hellblondes Haar zum Vorschein, es war ein Mann, ganz
-ne Muskeln und Sehnen zusammengesetzt, und gerade die
-»ungezwungene Haltung zeigte, daß er auf alles vorbereitet
-und zu jedem Gewaltstreich fähig war …
+erfreut, überhaupt antworten zu müssen. Er hatte kantige,
+scharfe Züge, ein sehr frisches Gesicht, unter dem Sturzhelm
+kam hellblondes Haar zum Vorschein, es war ein Mann, ganz
+aus Muskeln und Sehnen zusammengesetzt, und gerade die
+ungezwungene Haltung zeigte, daß er auf alles vorbereitet
+und zu jedem Gewaltstreich fähig war.
 
 »Geldschein?!«, sagte er mit stark englischem Akzent.
-»Schien möglich … Suchen wir ’… Auch ich glaubte Papier
-Mustern zu Sehen …
+»Schon möglich … Suchen wir … Auch ich glaubte Papier
+flattern zu Sehen …«
 
-Er schlenderte halb hinter das Lastauto und Büsche sich,
+Er schlenderte halb hinter das Lastauto und bückte sich,
 <@pagebreak/>
-als wollte er tatsächlich auf dem staubigen Sommerweg n068
+als wollte er tatsächlich auf dem staubigen Sommerweg nach
 der Banknote suchen.
 
 Ich richtete mich genau nach Harst, er hatte die rechte Hand
-in der Ulstertasche, hatte die Chaussee entlanggeblickt, sie war!
-bis auf die Pislegerin leer und einsam,
+in der Ulstertasche, hatte die Chaussee entlanggeblickt, sie war
+bis auf die Pflegerin leer und einsam,
 
-Wir standen nun ebenfalls hinter dem hochbepackten Wogen,
-die Gestalten war sehr straff gespannt, war jedoch riesige
-durchlöchert …
+Wir standen nun ebenfalls hinter dem hochbepackten Wagen,
+die Zeltplane war sehr straff gespannt, war jedoch vielfach
+durchlöchert.
 
-Neun je ein Anschlag raffiniert inszeniert worden,
+Wenn je ein Anschlag raffiniert inszeniert worden, —
 hier war es der Fall. Über die Gründe des rabiaten Vorgehens
-dieser Leute wurde ich mir erst später klar. Die Druckplatten
-sich so schnell und so überraschend ab; daß mir klangen
-Überlegen keine Zeit blieb.
+dieser Leute wurde ich mir erst später klar. Die Dinge
+spielten sich so schnell und so überraschend ab, daß mir zu
+langem Überlegen keine Zeit blieb.
 
-Mit einem Male erschienen durch zwei faustgroße Loch«
-des Wagenplaues zwei Pistolen, zwei dazu, und ein
-harte Stimme zischte uns drohend zu; »Hände aus da
-Taschen!! In den Wagenkasten klettern! Keine Dummhelltmadten,
-— hier geht’s ums Leben …
+Mit einem Male erschienen durch zwei faustgroße Löcher
+des Wagenplanes zwei Pistolen, zwei dazu, und eine
+harte Stimme zischte uns drohend zu: »Hände aus den
+Taschen!! In den Wagenkasten klettern! Keine Dummheiten
+machen, — hier geht’s ums Leben …«
 
-Das merkten wir, den der Flieger lachte jetzt lautlos un
-hatte seine Fäuste herausgezogen, ließ nur halb seine Ausgegeben,
-sagte gleichmütig: »Gehörten Sie!! Besser lebend !-
-Wagenkasten als sollt’
+Das merkten wir, denn der Flieger lachte jetzt lautlos und
+hatte seine Fäuste herausgezogen, ließ nur halb seine Waffen
+sehen, sagte gleichmütig: »Gehorchen Sie!! Besser lebend im
+Wagenkasten als tot!«
 
-Ein Messer zerschnitt zwei Schnüre der Leinwand, dich
-wurde emporgereckt, und Harst kletterte mit einem Achse!
-zuckten hinein. — I folgte, — was sollten wir gegen die Üby’
-macht tun, unter der Leinwand steckten noch drei Umgebenes
-lag da eine Menge Stroh), Harst war schon gefesselt, d!-
-Kerle verstanden ihr Geschäft, man schob nie in einen Wink-!
-sauste Stroh über uns, und ein stiernackiger, poFennuarblizGentleman
-mit einer äußere? friedfertigen Visage kauerte uns
-mit einer Eisenstange, die er nötigenfalls sofort komm’
-hätte. Sehr redselig waren die Herrschaften nicht, der eytnslüsterte
-mit dem Flieger, die Leinwand wurde wieder sich
-geschnürt, und plötzlich Ehepaar der Motor zu rattern, —
+Ein Messer zerschnitt zwei Schnüre der Leinwand, diese
+wurde emporgepreßt, und Harst kletterte mit einem Achselzucken
+hinein. — Ich folgte, — was sollten wir gegen die Übermacht
+tun, unter der Leinwand steckten noch drei Burschen,
+es lag da eine Menge Stroh, Harst war schon gefesselt, die
+Kerle verstanden ihr Geschäft, man schob uns in einen Winkel,
+häufte Stroh über uns, und ein stiernackiger, pockennarbiger
+Gentleman mit einer äußerst friedfertigen Visage kauerte vor
+uns mit einer Eisenstange, die er nötigenfalls sofort benutzt
+hätte. Sehr redselig waren die Herrschaften nicht, der eine
+flüsterte mit dem Flieger, die Leinwand wurde wieder festgeschnürt,
+und plötzlich begann der Motor zu rattern, das
 <@pagebreak/>
-Auto setzte sich sehr geräuschvoll in Bewegung, und zur runden
-denen gründlich durchgeschüttelt. ’.
+Auto setzte sich sehr geräuschvoll in Bewegung, und wir wurden
+ebenso gründlich durchgeschüttelt.
 
-Das Klappern und Klirren des angejahrten Vetters hatte
-wenigstens ein Gutes: Da wir beide unter -.dem Stroh dicht
-iebeneinander sagen, konnte Harst … mir getrost das ins Ohr
-Flüstern, was er für nötig hielt. Er machte -’die Sache kurz,
-n! den Wächter mit der Eisenstange nicht zu reizen, — seine
-Witze waren vielsagend genug, trotzdem ihrem ’Inhalt Euch
-schwer zu« verstehen.
+Das Klappern und Klirren des angejahrten Vehikels hatte
+wenigstens ein Gutes: Da wir beide unter dem Stroh dicht
+nebeneinander lagen, konnte Harst mir getrost das ins Ohr
+Flüstern, was er für nötig hielt. Er machte die Sache kurz,
+um den Wächter mit der Eisenstange nicht zu reizen, — seine
+Sätze waren vielsagend genug, trotzdem ihrem Inhalt nach
+schwer zu verstehen.
 
-Offenbar bog der Zeitungen jetzt in einen Landweg ein,
-Gefährt rumpelte noch starker, und diese Gelegenheit konnte
-Harald .,
+Offenbar bog der Lastwagen jetzt in einen Landweg ein,
+das Gefährt rumpelte noch stärker, und diese Gelegenheit benutzte
+Harald …
 
-»Vielleicht spielen hier ebenfalls die zwei Arten bxtupfjer
+»Vielleicht spielen hier ebenfalls die zwei Arten betupfter
 Fliegen mit, vielleicht laufen hier wieder zwei verschiedene
-sie warnendes, ich bin mir meiner Sache nicht ganz sicher,
-»» dieser Zwischenfall wohl weit … mehr auf mal Kettners
-Worte Kommt …
+Fälle ineinander, ich bin mir meiner Sache nicht ganz sicher,
+ob dieser Zwischenfall wohl weit mehr auf Emil Kettners
+Konto Kommt …«
 
-Tür den Rest der Fahrt hatte ich nun genügend Stoff
-rum Nachdenken. Ich konnte mir nett immer kein … Bild
-wt des alten Farmers Geheimnissen machen, nur das eine.
-fragte ich mir: Deren Ursprung lag wertvoll in Kettners
-jJühasrikanischer Vergangenheit, Außerdem war ich über — einen
-»hörten Punkt ebenfalls mit mir ins Klare Betonung Bei
-allen tiefer gehenden Fragen streikte jedoch mein Hirn. ’ Fett«
-der hatte Angst … Wovor?! Wen fürchtete er?! Und was
-besonderen die Zwei Arten betupfter Fliegen?! … Rote Tinte
+Für den Rest der Fahrt hatte ich nun genügend Stoff
+zum Nachdenken. Ich konnte mir noch immer kein Bild
+von des alten Farmers Geheimnissen machen, nur das eine
+sagte ich mir: Deren Ursprung lag weit zurück in Kettners
+südafrikanischer Vergangenheit. Außerdem war ich über einen
+anderen Punkt ebenfalls mit mir ins Klare gekommen. Bei
+allen tiefer gehenden Fragen streikte jedoch mein Hirn. Kettner
+hatte Angst … Wovor?! Wen fürchtete er?! Und was
+bedeuteten die *zwei* Arten betupfter Fliegen?! … Rote Tinte
 heißt rote Tinte, und daß rote Pünktchen im Nebel verlaufen
-und sie verwischen, — eine Selbstverständlichkeit! …
+und sich verwischen, — eine Selbstverständlichkeit!
 
-Trotzdem gab im mich über die Gefährlichkeit unserer
-Vage Feinen Illusionen hin. Mochte es ich hier nun um
-V’enite von Harriet Prills Leibgarde oder um Kettners Glasur
+Trotzdem gab ich mich über die Gefährlichkeit unserer
+Lage keinen Illusionen hin. Mochte es sich hier nun um
+Leute von Harriet Prills Leibgarde oder um Kettners Gegner
 handeln: Beide Parteien würden uns nicht schonen, beide
-helle waren für einen endgültigen Schlag gerüstet, und …
+Teile waren für einen endgültigen Schlag gerüstet, und …
 
-— Mein Gedankenfaden zerriß, — Knatternd und feurig«
-und hielt das Auto, und einer der Kerle kletterte hinaus
+… Mein Gedankenfaden zerriß, — Knatternd und fauchend
+hielt das Auto, und einer der Kerle kletterte hinaus
 <@pagebreak/>
-und sprach mit dem Fliegen, der den Wagen gesteuert hatte.
+und sprach mit dem Flieger, der den Wagen gesteuert hatte.
 
-Dann wurden wir ins »Freie gezerrt, ein Blick ringsum.
+Dann wurden wir ins Freie gezerrt, ein Blick ringsum:
 Märkische Heide, einzelne hohe Kiefern, — der Lastwagen stand
 vor einer verfallenen Bretterbude, die vielleicht einst für
 Feldarbeiter errichtet worden war. Man stieß uns in die
@@ -1953,405 +1945,406 @@ Hütte, der Bursche mit der Eisenstange blieb bei uns, und das
 Auto ratterte wieder davon.
 
 Unser Wächter hatte uns nebeneinander auf eine morsche
-Bank gedrückt und erklärte nun in sehr gebrochenem Deutsch.
-»Sie sind uns im Wege … Neun wir unserer Sache erledigyl!
+Bank gedrückt und erklärte nun in sehr gebrochenem Deutsch:
+»Sie sind uns im Wege … Wenn wir unserer Sache erledigt
 haben, sind Sie wieder frei …«
 
-Der Mann machte alles in allem gar keinen üblen Ein
-Druck, ich) hatte sogar das Gefühl, daß der ganze Spaß ihm nicht
-recht behagte, er hielt seine Eisenstange sehr diskret auf den!
-Rücken und musterte uns mit einer gewissen Neugier, naht
+Der Mann machte alles in allem gar keinen üblen Eindruck,
+ich hatte sogar das Gefühl, daß der ganze Spaß ihm nicht
+recht behagte, er hielt seine Eisenstange sehr diskret auf dem
+Rücken und musterte uns mit einer gewissen Neugier, nahm
 uns sogar die Strohhalme ab, die noch an unseren Mänteln
-])Ausschau, und stierte etwas machtlos) durch das Fensterloch
+hafteten, und stierte etwas ängstlich durch das Fensterloch
 über die stille Heide.
 
-Harst beurteilte den Menschen noch treffendes, — dies gilt
+Harst beurteilte den Menschen noch treffender, — dies ging
 aus seiner Bemerkung hervor: »Lieber Freund, Sie haben sich
-da auf eine Sache eingelassen, die zumindest ’ einige Jahre
-Gefängnis einbringt. Gehören Sie zu der Barte! »Fliegen mit
-Blutfleckchen« oder zu der andern Partei »Knote Tinte …»y«
+da auf eine Sache eingelassen, die zumindest einige Jahre
+Gefängnis einbringt. Gehören Sie zu der Partei »Fliegen mit
+Blutfleckchen« oder zu der andern Partei »Rote Tinte …«?«
 
-Die Wirkung dieser Säße war einfach verblüffend. H1
+Die Wirkung dieser Sätze war einfach verblüffend. Der
 Engländer stierte Harst eine Weile wie den leibhaftigen Teufel
-an und platzte dann heraus: »Rote Tinte?! Was reden Cl
-da?! I) habe mit roter Tinte nichts zu schaffen …!«
+an und platzte dann heraus: »Rote Tinte?! Was reden Sie
+da?! Ich habe mit roter Tinte nichts zu schaffen …!«
 
-»Er … so!!« Harald lachte ihn geradezu freundlich
-»Mithin haudxlt ssck)s um die bekannte Geschichte aus div
-letzten Burenkrieg …
+»So … so!!« Harald lachte ihn geradezu freundlich an.
+»Mithin handelt sich’s um die bekannte Geschichte aus dem
+letzten Burenkrieg …«
 
-Der »pockxnnarbsge war kein großer Komödiant.
+Der Pockennarbige war kein großer Komödiant.
 
-»gut Kettner Ihnen gebeichtet?«, fragte er schnell. »D«
+»Hat Kettner Ihnen gebeichtet?«, fragte er schnell. »Der
 Alte hat mindestens dreißig Menschenleben auf dem Gewissen,
-und zwölf Cnungläander waren darunter, auch seine Opfer!«
+und zwölf Engländer waren darunter, auch seine Opfer!«
 
-»I, — — Spione«, meinte Harst sehr gelassen. »DWvyWeleqSreht
+»Ja, — — Spione«, meinte Harst sehr gelassen. »Das
 <@pagebreak/>
-ist hart …! — Kettner hat nichts gebeichtet. Seid
-wo etwa Verwandte der damals Füsilierten s«
-»Las geht Sie gar nichts an …! Schwarzem Sie?!«
-wurde grob vor Verlegenheit und Bestürzung, er wollte
-solch’ umdrehen, uns den Rücken kehren … — Wollte …
+Kriegsrecht ist hart …! — Kettner hat nichts gebeichtet. Seid
+ihr etwa Verwandte der damals Füsilierten?«
+
+»Das geht Sie gar nichts an …! Schweigen Sie!!« —
+Er wurde grob vor Verlegenheit und Bestürzung, er wollte
+sich umdrehen, uns den Rücken kehren … — Wollte … —
 Harst sagte mit allem Nachdruck: »Ihre Vertrauensperson
-Welt ein doppeltes Spiel, — ich warne Sie! Ein Mord ist
-Reis geschehen, und das dürfte die hagere Pflegerin Ihnen
-vischwiegen haben …«
+spielt ein doppeltes Spiel, — ich warne Sie! Ein Mord ist
+bereits geschehen, und das dürfte die hagere Pflegerin Ihnen
+verschwiegen haben …«
+
 Der kleine, stämmige Kerl fuhr herum. »Mord?! — was
-den Sie da?! Wir wissen nichts von einem Morde …!«
-»Leider, …!!« — Und der Ton, in dem Harald dieses sie
-Port aussprach, ließ den Mann die Farbe wechseln.
+reden Sie da?! Wir wissen nichts von einem Morde …!«
 
-a. Kapitel.
-Erpresser aus scheinbaren Recht.
+»Leider …!!« — Und der Ton, in dem Harald dieses eine
+Wort aussprach, ließ den Mann die Farbe wechseln.
 
-Die Rollen ’waren hiermit vertauscht. Der Engländer
-fuhr haben seinen Namen übrigens nie erfahren) Feinde mit
-neu Male außerordentlich höflich.
+<h2>4. Kapitel.</h2>
+<h3>Erpresser aus scheinbarem Recht.</h3>
+
+Die Rollen waren hiermit vertauscht. Der Engländer
+(wir haben seinen Namen übrigens nie erfahren) wurde mit
+einem Male außerordentlich höflich.
 
 »Herr Harst, wir wissen, wer Sie beide sind, vor Ihnen
-würden wir gewarnt. Aber unsere Vorbereitungen waren zu
-weit gediehen, als daß wir die Sache aufgeben konnten
-»in Ihretwegen. Bitte, erklären Sie mir: Was meinen Sie
-» dem Doppeltem Spiel? Was hat es mit beim Mord auf
-W)? Wer ist ermordet worden?«
+wurden wir gewarnt. Aber unsere Vorbereitungen waren zu
+weit gediehen, als daß wir die Sache aufgeben konnten —
+nur Ihretwegen. Bitte, erklären Sie mir: Was meinen Sie
+mit dem doppeltem Spiel? Was hat es mit dem Mord auf
+sich? Wer ist ermordet worden?«
 
-Harald antwortete nicht sofort. Er wollte unseren Lady)-
-… noch willfähriger machen, und es gelang ihm auch.
+Harald antwortete nicht sofort. Er wollte unseren Wächter
+noch willfähriger machen, und es gelang ihm auch.
 
-»Asche, Sie sind halb und halb die Segelfahrten. Gehen
+»Ich sehe, Sie sind halb und halb die Genasführten. Nehmen
 Sie uns die Fesseln ab, wir werden nicht entfliehen, nichts
-gegen Sie Unternehmen, aber wir müssen diese Dinge Grundlage
-stellen. Es genügt wohl, wenn ich Ihnen mitteile,
-in Kettzerkoppje ein Kriminalbeamter weilt, um den
+gegen Sie unternehmen, aber wir müssen diese Dinge gründlich
+klar stellen. Es genügt wohl, wenn ich Ihnen mitteile,
+daß in Kettnerkoppje ein Kriminalbeamter weilt, um den
 <@pagebreak/>
-Mord aufzuklären, und daß im Dorfe Brucks zweifellos heimlich
+Mord aufzuklären, und daß im Dorfe Bruck zweifellos heimlich
 noch ein paar Beamte sich aufhalten. — Los, Mann, nehmen
-Sie uns die Fesseln ab …!! Und wenn Sie nicht die
-Nachricht sind, mit uns zu unterhandeln, holen Sie schleunigst
+Sie uns die Fesseln ab …!! Und wenn Sie nicht berechtigt
+sind, mit uns zu unterhandeln, holen Sie schleunigst
 einen Ihrer Freunde herbei. Wir entfliehen nicht, — —
 also bitte!!«
 
-Der kleine stiernackige Kerl hatte es plötzlich … äußere
+Der kleine stiernackige Kerl hatte es plötzlich äußerst
 eilig, die Stricke aufzuknoten …
 
-»Berechtigt ist jeder von uns Herr Harst … ;. — So, Art
-sind frei. — Schnell, erzählen Sie … Einem anderen Furcht
-ich nicht so blindlings glauben, aber bei Ihnen ist das eine sie
-Vers Sache … Erzählen Sie …
+»Berechtigt ist jeder von uns Herr Harst … — So, Sie
+sind frei. — Schnell, erzählen Sie … Einem anderen würde
+ich nicht so blindlings glauben, aber bei Ihnen ist das eine andere
+Sache … Erzählen Sie …«
 
-Harald ich sich seine Handgelenke und holte dann sah
-Zigarettenetui hervor … Quer der Engländer bediente sich,
-dankte höflich, gab uns! Feuer und lehnte sich an die Brei«
-Vorwand.
+Harald rieb sich seine Handgelenke und holte dann sein
+Zigarettenetui hervor … Auch der Engländer bediente sich,
+dankte höflich, gab uns Feuer und lehnte sich an die Bretterwand.
 
-Harst schilderte in aller Kürze die Ereignisse auf Nie
-Kerl Landsitz und erwähnte auch unseren Besuch) bei Professor
-Blut in der Anstalt. »Sie wissen nun, hast dort die mehr allgemeingefährliche
-Verbrecherin Harriet Prill interniert ist«,
-beschloß er die Aufzählung der nackten Tatsachen. »Der Pro«
-fester scheint nun doch irgendwie verraten zu haben, daß
+Harst schilderte in aller Kürze die Ereignisse auf Kettners
+Landsitz und erwähnte auch unseren Besuch bei Professor
+Blunk in der Anstalt. »Sie wissen nun, daß dort die mehr als
+gemeingefährliche Verbrecherin Harriet Prill interniert ist«,
+beschloß er die Aufzählung der nackten Tatsachen. »Der Professor
+scheint nun doch irgendwie verraten zu haben, daß er
 Harriet Prill schärfer beobachten wolle, und da Ihre Spionin,
 die hagere Pflegerin, die Sie bestochen haben dürften, um
-Kettner zu überwachen, zufällig auch die Wärterin unsere!
-Feindin Harriet war, — merkte diese Pflcqmm des psofcf]os«ich
-verändertes Vxnehmexs und warnte Sie,; vor uns durch den
+Kettner zu überwachen, zufällig auch die Wärterin unserer
+Feindin Harriet war, — merkte diese Pflegerin des Professors
+verändertes Benehmen und warnte Sie vor uns durch den
 Zettel …«
-bist »D?Y ist richtig«, nickte der Engländer hastig. »Weitet
 
-ihre …
+»Das ist richtig«, nickte der Engländer hastig. »Weiter
+bitte …«
 
 »Ihre Spionin hat sich aber auch durch Harriet bestechen
-lassen, und dies können wir sofort Bauwerken, wenn Sie der
+lassen, und dies können wir sofort beweisen, wenn Sie den
 Zettel noch aufbewahrt haben.«
 
-Unser Wächter holte ihn eiligst hervor. »Herr -».)erst, da
+Unser Wächter holte ihn eiligst hervor. »Herr Harst, da ist
 er, etwas zerknüllt …«
 
 <@pagebreak/>
 »Das tut nichts …« Harald glättete das Papier, überflog
-den Inhalt, hielt ihn schräg gegen: das Licht … »Ich
-ihre ja, die Person hat schweißige Finger … 4. Es ist der«
-sehe Abdruck wie auf Augustus Geständnis … Es war also
-
-Pflegerin, die in das Zimmer eingestiegen war, und Winseln
+den Inhalt, hielt ihn schräg gegen das Licht … »Ich
+wußte ja, die Person hat schweißige Finger … Es ist derselbe
+Abdruck wie auf Augustus Geständnis … Es war also
+die Pflegerin, die in das Zimmer eingestiegen war, und nunmehr
 wird mir auch klar, was sie dort wollte: Den Speer
-inücsbrmgeu, den nachher Koppje schleuderte, denselben Sachen,
-schon ärgere Dinge angerichtet hatte. Der Inhalt des
-Ateliers Taute! übrigens: »Vorsicht, Harst und Schraut waren
-der Anstalt, beide sind sehr zu fürchten. R. Punkt.«
-sind diese sicherlich vereinbarte Unterschrift »In. Punkt« Kanu
-»toter Punkt« bedeuten und trifft s)ur aneignen zu, da
-Wärterin zweien Herren diente.«
+zurückbringen, den nachher Koppje schleuderte, denselben Speer,
+der schon ärgere Dinge angerichtet hatte. Der Inhalt des
+Zettels lautet übrigens: »Vorsicht, Harst und Schraut waren
+in der Anstalt, beide sind sehr zu fürchten. R. Punkt.« —
+Und diese sicherlich vereinbarte Unterschrift »R. Punkt« kann
+nur »roter Punkt« bedeuten und trifft hier zweifach zu, da
+die Wärterin zweien Herren diente.«
 
-Der Engländer murmelte jetzt eine »L!xrwssnsmsmq, die nur
-wo zweifelhaften Zuverlässigkeit der bezahlten BWeobagdzyterin
-Wien konnte. »Und wer hat diesen Orlik ermordet und Besieh?«,
+Der Engländer murmelte jetzt eine Verwünschung, die nur
+der zweifelhaften Zuverlässigkeit der bezahlten Beobachterin
+gelten konnte. »Und wer hat diesen Orlik ermordet und weshalb?«,
 fragte er ungeduldig.
 
-»Ton Punkt muß ich noch) unbekannt lassen, da er nicht
-Nachruf ist«, entgegnete Harst sehr bestimmt. »In jedem
-also werden Sie und Ihre Freunde in die Sache mit hineinwyogen
-werden durch die Pflegerin, wenn Sie nicht hindeutet
+»Den Punkt muß ich noch unberührt lassen, da er nicht
+spruchreif ist«, entgegnete Harst sehr bestimmt. »In jedem
+Falle werden Sie und Ihre Freunde in die Sache mit hineingezogen
+werden durch die Pflegerin, wenn Sie nicht schleunigst
 Deutschland wieder verlassen und Ihr Vorhaben gegen
-Führer nicht einstellen … — Was wollten Sie überhaupt
-ei ihm beginnen? Gedachten Sie ihn ’zu töten, nur weil er
-Burenkrieg Spione erschießen ließ? Sind Sie Nachdruck
-Verwandte der damals Füsilierten? Wahrscheinlich,
-
-014 hätten gar nicht bestätigend zu nicken brauchen … Also
-Verwandte, ich dachte es mir, Gehen Sie, die Sache mit
-wir betupften Fliegen steht haargenau in General Gewollt
-Whändigent Werk über den Bürgerkrieg erwähnt. Er dauerte
-»sage Zeit, bis ich mich darauf besann, dann wußte ich aber
-Wir) sofort, was beide Arten von betupften Fliegen eigentlich
-
-Wien. Die eine Art war die, die mit roter Tinte von Dietrich
-
-II gekennzeichnet wurde, die anderen Flecken waren Bi’nt,
-Nie die zweite Sorte. Schraut wird Ihnen bestätigen, daß ich)
+Kettner nicht einstellen … — Was wollten Sie überhaupt
+mit ihm beginnen? Gedachten Sie ihn zu töten, nur weil er
+im Burenkrieg Spione erschießen ließ? Sind Sie Nachkommen,
+Verwandte der damals Füsilierten? Wahrscheinlich, —
+Sie hätten gar nicht bestätigend zu nicken brauchen … Also
+Verwandte, ich dachte es mir. Sehen Sie, die Sache mit
+den betupften Fliegen steht haargenau in General Powells
+dickbändigem Werk über den Bürgerkrieg erwähnt. Es dauerte
+einige Zeit, bis ich mich darauf besann, dann wußte ich aber
+auch sofort, was beide Arten von betupften Fliegen eigentlich
+sollten. Die eine Art war die, die mit roter Tinte von Harriet
+Prill gekennzeichnet wurde, die anderen Flecken waren Blut,
+also die zweite Sorte. Schraut wird Ihnen bestätigen, daß ich
 <@pagebreak/>
 bei Kettner beide Sorten streng voneinander trennte. Und da
-mein Freund des Generals Buch nicht gelesen zu Knaben scheint,
-können wir jene Spionagceassären von damals kurz erörtern,
+mein Freund des Generals Buch nicht gelesen zu haben scheint,
+können wir jene Spionageaffären von damals kurz erörtern.
 Die Dinge lagen so: Kettner kämpfte auf Seiten der Buren
-und hatte. eine fliegende Kolonne von Scharfschützen munter
+und hatte eine fliegende Kolonne von Scharfschützen unter
 sich. Die Verbindung mit der Hauptabteilung wurde durch
-Neger und Weiße aufrechterhalten. Man traute diesen Vater
-nicht, da sich für diese gefährlichen Mitte unverhältnismäßig
-viel Engländer gemeldet hatten, die in Burenfamilien eingeheftetes
-hatten und die für unzuverlässig galten. Kutscher
+Neger und Weiße aufrechterhalten. Man traute diesen Boten
+nicht, da sich für diese gefährlichen Ritte unverhältnismäßig
+viel Engländer gemeldet hatten, die in Burenfamilien eingeheiratet
+hatten und die für unzuverlässig galten. Zwischen
 den Kommandanten der Burenabteilungen war deshalb insgeheim
-vereinbart worden, diese Boten überwachen zu lassen
-Die Scriftstüe, die sie mitbekamen, enthielten eine tote betupfte
+vereinbart worden, diese Boten überwachen zu lassen.
+Die Schriftstücke, die sie mitbekamen, enthielten eine tote betupfte
 Fliege, wenn der Bote schon als halb überführt galt, den
 Engländern gleichzeitig als Spion zu dienen.
 
 Kettner schien nun als Kommandant äußerst scharf, wenn
-auch gelebt vorgegangen zu sein, Sobald er einen der Boy
-hastigen füsiliert hatte, bewahrte er die Fliege auf, kannte
-sein Glaskasten mit all den verschiedenartigen betupften Stiegen.
+auch gerecht vorgegangen zu sein. Sobald er einen der Verdächtigen
+füsiliert hatte, bewahrte er die Fliege auf, daher
+sein Glaskasten mit all den verschiedenartigen betupften Fliegen.
 Außerdem wird er auch wohl von eine Art Kriegstagebuch
 geführt haben, und dieses wurde ihm gestohlen — — von
 Harriet Prill, dem »Neger«. — So, und jetzt seien Sie genau
-so ehrlich, mein Lieber … Was hatten Sie mit Kettner vor’«
+so ehrlich, mein Lieber … Was hatten Sie mit Kettner vor?«
 
-Der kleine!tramme Engländer wurde verlegen. Aber es
-zeigte sich doch als anständiger Bursche, der HarstsOffenhell
-zu schätzen wußte …
+Der kleine stramme Engländer wurde verlegen. Aber er
+zeigte sich doch als anständiger Bursche, der Harsts Offenheit
+zu schätzen wußte.
 
-Wenn mich schon Haralds Ausführungen stark aus dein
-Gleichgewicht gebracht hatten, da sie mir so absolut Reitet
-und Unerwartetes brachten, — unser Wächter übertraf noch
+Wenn mich schon Haralds Ausführungen stark aus dem
+Gleichgewicht gebracht hatten, da sie mir so absolut Neues
+und Unerwartetes brachten, — unser Wächter übertraf noch mit
 seinen Erklärungen das soeben Gehörte, selbst Harst saß mit
-äußerst gespannter Miene da und zerkrümelte zerstreut gewann
+äußerst gespannter Miene da und zerkrümelte zerstreut seinen
 Zigarettenrest zwischen den Fingern.
 
-— … Herr Harst, es trifft zu, wir sieben, die wir Uns alt
-sammengetan haben, sind Verwandte von Leuten, die Kettner
-vor ein Standgericht stellte. Ganze abgesehen davon, das u1n
+»… Herr Harst, es trifft zu, wir sieben, die wir Uns zusammengetan
+haben, sind Verwandte von Leuten, die Kettner
+vor ein Standgericht stellte. Ganz abgesehen davon, das unsere
 <@pagebreak/>
-sie Väter oder sonstigen Verwandten so den Tod Denken,
-wurden auch ihre Formen Wieder Schnur und ihren!«antiken
-schwerer Verlust zugefügt, Sie wissen vielleicht ich!, wie
-warm reich Emil Kettner ist … — Arm  es kurz zu jagen: Wir
-wollten Kettner erst durch die Fliegen erschießen und ihn
+Väter oder sonstigen Verwandten so den Tod fanden,
+wurden auch ihre Farmen niedergebrannt und ihren Familien
+schwerer Verlust zugefügt. Sie wissen vielleicht nicht, wie
+enorm reich Emil Kettner ist … — Um es kurz zu sagen: Wir
+wollten Kettner erst durch die Fliegen erschrecken und ihn
 dann zwingen uns zu entschädigen. Ich gebe zu, wir waren
-mithielten, Gewalt anzuwenden. Am gehofft«.steht erst
-bis unserer Seite, und …«
+entschlossen, Gewalt anzuwenden. Ein gewisses Recht steht
+auf unserer Seite, und …«
 
-Harald unterbrach ihn stärksten Tones, ;,Ein Recht, das
-die sich herausnehmen, Herr!! Sie spielen hier Erpresser,
-halbe Räuber!! I gebe Ihnen einen guten Na!: BetschwinsNi
-Greis! Ich will diese Geschichte nicht der Polizei melden.
-Sind Sie aber bis zum Abend sämtlich nicht ausführbar
-geworden, lernen Sie deutsche Besorgnisse kennen … — —
-hallo, was haben Sie?!«
+Harald unterbrach ihn schärfsten Tones. »Ein Recht, das
+Sie sich herausnehmen, Herr!! Sie spielen hier Erpresser,
+halbe Räuber!! Ich gebe Ihnen einen guten Rat: Verschwinden
+Sie!! Ich will diese Geschichte nicht der Polizei melden.
+Sind Sie aber bis zum Abend sämtlich nicht unsichtbar
+geworden, lernen Sie deutsche Gefängnisse kennen … — —
+Hallo, was haben Sie?!«
 
-»- Ein Radler kommt«, fütterte unter Atems ganz
+»… Ein Radler kommt«, flüsterte unser Mann ganz
 verstört …
 
-Schuld trat schnell zu die Fenftaofxuuuq
+Harald trat schnell an die Fensteröffnung.
 
-»Da Haben wir schon die Vefthcrungu Ei ist der eins«-
-nalassistent Balzer … Seien Sie ohne Gange, wir benutzen
-nichts … Dort in der Rückwand ist ein Los… Krieg
-her Sie ins Freie und verduften Sie!«
+»Da Haben wir schon die Bescherung!! Es ist der Kriminalassistent
+Balzer … Seien Sie ohne Sorge, wir verraten
+nichts … Dort in der Rückwand ist ein Loch … Kriechen
+Sie ins Freie und verduften Sie!«
 
-… Wie gefällt, wir haben den Namen dieses flinken
-»aninck)ens das nun wie ein geölter Blitz in eine Schonung
-hob, nie erfahren.
+… Wie gesagt, wir haben den Namen dieses flinken
+Kaninchens, das nun wie ein geölter Blitz in eine Schonung
+schoß, nie erfahren.
 
 Xaver Balzer stand vor uns … »Was treiben Sie beide
-den hier? t«
+denn hier?!«
 
 »Wir ruhen etwas aus …«, meinte Harald und rieb sein
-Feuerzeug an.«
+Feuerzeug an.
 
 Balzers Augen streiften die Eisenstange, die Stricke …
 
-»Im — merkwürdig … Sie ruhen aus!! Finden Sie
-in diesem Bretterloch so gemütlich?«
+»Hm — merkwürdig … Sie ruhen aus!! Finden Sie
+es in diesem Bretterloch so gemütlich?«
 
-Ein sehr prüfender Blick traf Harsts Handgelenke
-Felder hatte er gerade die Zigarette zum Munde gehoben, nur
+Ein sehr prüfender Blick traf Harsts Handgelenke …
+Leider hatte er gerade die Zigarette zum Munde gehoben, und
 <@pagebreak/>
-der Ärmel war zurückgeglitten, das Handgelenk lag frei, 1w
+der Ärmel war zurückgeglitten, das Handgelenk lag frei, und
 die Eindrücke der Stricke waren noch immer zu bemerken,
 
-»Dann haben Sie hier wohl neue Arten von Fesselungyy
+»Dann haben Sie hier wohl neue Arten von Fesselungen
 ausprobiert …«, fügte Balzer recht anzüglich hinzu.
 
-»Sie haben den Nagel auf den Kopf getroffen!! — In
-wollen wir nach Kettnerkoppje zurückkehren … Sie komutqwohl
-mit … Ich muß Ihnen doch noch erzählen, was wir !-
+»Sie haben den Nagel auf den Kopf getroffen!! — Jetzt
+wollen wir nach Kettnerkoppje zurückkehren … Sie kommen
+wohl mit … Ich muß Ihnen doch noch erzählen, was wir in
 der Anstalt ausrichteten …«
 
 <h2>5. Kapitel.</h2>
 
 <h3>Als die Turmuhr schlug.</h3>
 
-Balzer schob sein Rad, die bescheidene Maskerade halte ()
-abgelegt. Die Spuren des Lastautos waren in dem Zettelchen
-natürlich deutlich zu sehen, und als wir kaum die Vortrupp
-Bretterbude verlassen hatten, als Harst kaum mit einer Strong
-unseres Besuchs bei Professor Blut begonnen hallt
-unterbrach Balzer ihn mit einem verdächtig ironischen »Sohn«
-— schau!!« und zeigte sehr eindrucksvoll auf die Autofahrt
-und meinte: »Mir wäre das viel wichtiger, was Sie ah
-nicht erzählen werden, Verehrtester! Man muß mich nicht
-für unbegabt halten … Gewiß, ich bin nur hier, um bereits«
-Mord aufzuklären, aber …«
+Balzer schob sein Rad, die bescheidene Maskerade hatte er
+abgelegt. Die Spuren des Lastautos waren in dem Heideboden
+natürlich deutlich zu sehen, und als wir kaum die morsche
+Bretterbude verlassen hatten, als Harst kaum mit einer Schilderung
+unseres Besuchs bei Professor Blunk begonnen hatte,
+unterbrach Balzer ihn mit einem verdächtig ironischen »Schau
+— schau!!« und zeigte sehr eindrucksvoll auf die Autofährte
+und meinte: »Mir wäre das viel wichtiger, was Sie mir
+*nicht* erzählen werden, Verehrtester! Man muß mich nicht
+für unbegabt halten … Gewiß, ich bin nur hier, um den
+Orlik-Mord aufzuklären, aber …«
 
-Harald fiel schnell ein. »Dann belassen Sie es auch du
-bei …! Staaten Sie alles andere aus, hören Sie also zu
-Ich habe Beweise, daß die Wärterin Harriet Brille von Lag
-riet bestochen wurde, daß beide, natürlich einzeln, heimlich bin
-Anstalt verlassen und hab’ der Mord von einer dieser leicht
+Harald fiel schnell ein. »Dann belassen Sie es auch dabei
+…! Schalten Sie alles andere aus, hören Sie also zu.
+Ich habe Beweise, daß die Wärterin Harriet Prills von Harriet
+bestochen wurde, daß beide, natürlich einzeln, heimlich die
+Anstalt verlassen und daß der Mord von einer dieser beiden
 Frauen verübt wurde. Auch die Gründe für die Beseitigung
-Orliks sind offensichtlich: Orlik büßte mit dem Tode vertan
+Orliks sind offensichtlich: Orlik büßte mit dem Tode seine
 freundschaftlichen Beziehungen zu Koppje Bergner. Man hielt
-ihn nicht für v?!verschwiegen genug, — es ist leider eine bekannt,
-Tatsache, daß gerade Unterweltbeherrscher vom Schlage du!
+ihn nicht für verschwiegen genug, — es ist leider eine bekannte
+Tatsache, daß gerade Unterweltbeherrscher vom Schlage der
 <@pagebreak/>
-Harriet Personen, die zu streng vertraulichen Millionen vermutet
+Harriet Personen, die zu streng vertraulichen Missionen verwendet
 wurden, schleunigst … beseitigen. Tote reden nicht,
-wird Orlik hatte in die Anstalt bestimmt Stahlsägen und andei0
+und Orlik hatte in die Anstalt bestimmt Stahlsägen und anderes
 eingeschmuggelt.«
-Wir schritten weiter der Chaussee zu. »Die Wärterind
-weißt Anna Tablett«, sagte der stille Balzer ganz schlicht.
-Daß sie mit im Bunde, weiß ich zu seit heute, ich war gähnst
-aus in der Anstalt, und der Professor verlebte weitere
-Türnische fünf Minuten, angesichts meiner Beamtenmarke, —
-Die Pflegerin Anna war bereits ins Dorf gegangen, Einflüsse
-zu machen, — — hm ja, — — Einkäufe, Herr Harst … «!!
-Tuch ein Lastauto sah ich, dann ein im Walde verstecktes FlugU9,
-—, man matt sich so seine Gedanken, wenn man.- derlei
-erinnert …
-Harald klopfte ihm derb auf die Schulter. »Mein’ Lieber,
+
+Wir schritten weiter der Chaussee zu. »Die Wärterin
+heißt Anna Gubratt«, sagte der stille Balzer ganz schlicht.
+»Daß sie mit im Bunde, weiß ich auch seit heute, ich war nämlich
+auch in der Anstalt, und der Professor verlebte weitere
+peinliche fünf Minuten, angesichts meiner Beamtenmarke, —
+— Die Pflegerin Anna war bereits ins Dorf gegangen, Einkäufe
+zu machen, — — hm ja, — — Einkäufe, Herr Harst …!!
+Auch ein Lastauto sah ich, dann ein im Walde verstecktes Flugzeug,
+— — man macht sich so seine Gedanken, wenn man derlei
+bemerkt …«
+
+Harald klopfte ihm derb auf die Schulter. »Mein Lieber,
 unsere Gedanken sollen ausschließlich der Frage gehören:
-Wer ist der Täter? — — Und der ’Täter ist der,- der einen
-Wassernspeer mit Dampfer Spitze, dessen Schaf! eine Schnur wie
-ne Harpune trägt, mit unheimlicher Sicherheit schleudern
-kann, Ob jene Anna diesen Sport je betrieben hat,;weiß ich
-It, Bei Harriet Prill darf man das schon eher vermuten.«
-Balzer mußte fühlen, daß Harald auf das verdächtige Stutzig
-nicht näher eingehen wollte. Möglichen auch, daß die Auswahl
-so Tipp und klar offenbarte Art der Ausführung des
-Mordes ihn ’so sehr überraschte, daß er den anderen Punkt
-Nr weiter erörterte. Jedenfalls schüttelte er nur sehr anzutreten
-mit sich selbst den Kopf und meinte ’ärgerlich: »Allerdings,
-das erklärt dann auf das Teilen der Spuren des
-meldete am Tatort … Darauf hätte ich auch allein kommen
-müssen? Ein Kaffernspeer als Harpune, — dazu Stört
-sehr viel Kunstfertigkeit, sehr viel … Obwohl noch) so
-Umnachtet dunkel bleibt.«
+Wer ist der Täter? — — Und der Täter ist der, der einen
+Kaffernspeer mit schmaler Spitze, dessen Schaft eine Schnur wie
+eine Harpune trägt, mit unheimlicher Sicherheit schleudern
+kann. Ob jene Anna diesen Sport je betrieben hat, weiß ich
+nicht. Bei Harriet Prill darf man das schon eher vermuten.«
+
+Balzer mußte fühlen, daß Harald auf das verdächtige Flugzeug
+nicht näher eingehen wollte. Möglichen auch, daß die nunmehr
+so klipp und klar offenbarte Art der Ausführung des
+Mordes ihn so sehr überraschte, daß er den anderen Punkt
+nicht weiter erörterte. Jedenfalls schüttelte er nur sehr unzufrieden
+mit sich selbst den Kopf und meinte ärgerlich: »Allerdings,
+das erklärt dann auch das Fehlen der Spuren des
+Mörders am Tatort … Darauf hätte ich auch allein kommen
+müssen! Ein Kaffernspeer als Harpune, — dazu gehört
+sehr viel Kunstfertigkeit, sehr viel … Obwohl noch so
+manches dunkel bleibt.«
+
 Wir näherten uns bereits dem Landsitz, und die kurze
-Glocke bis zum Hause legten wir schweigend zurück. Die Eingangstür
+Strecke bis zum Hause legten wir schweigend zurück. Die Eingangstür
 stand offen, und so vernahmen wir denn schon
 <@pagebreak/>
-auf der Vortreppe die dröhnende Stimme des alten Ferne/ich
-der in der Wut nachts immer wie ein Löwe brüllen krank
-Und jetzt brüllte er, — zwischenein vernahmen wir lautes By
-nen und des treuen Augustus fast. ebenso geräuschvolle Zu
-scHchenrufe und verstanden auch einige Worte. Augustus ins
-seinen Herrn zu beruhigen, Koppje Bergner unterstützte
-durch Tränen, aber der Alte war offenbar wieder außer Rang
+auf der Vortreppe die dröhnende Stimme des alten Farmers,
+der in der Wut noch immer wie ein Löwe brüllen konnte.
+Und jetzt brüllte er, — zwischenein vernahmen wir lautes Weinen
+und des treuen Augustus fast ebenso geräuschvolle Zwischenrufe
+und verstanden auch einige Worte. Augustus suchte
+seinen Herrn zu beruhigen, Koppje Bergner unterstützte ihn
+durch Tränen, aber der Alte war offenbar wieder außer Rand
 und Band und tobte wie ein Unsinniger.
 
-»’« … Da kennt die Bande mich schlecht!!«, singen wir der!
-lich; auf. »Sehr schlecht sogar!! Ich bin doch kein Denk’
+»… Da kennt die Bande mich schlecht!!«, fingen wir deutlich
+auf. »Sehr schlecht sogar!! Ich bin doch kein Bandit
 gewesen, ich habe nur meine Pflicht getan …!«
 
-Harald wandte sich schnell an Balzer. »Tun Sie
-einen Gefallen und überlassen Sie den Alten uns lesbar
-Es ist jetzt Zweifellos das eingetreten, was ich) erwarb
-Hatte. Sie sollen später alles hören, lieber Balzer, — ich
-bindet mich noch ein Versprochen. Gehen Sie auf Ihr Hirn
-Amen, der Täter entgeht Ihnen nicht …«
+Harald wandte sich schnell an Balzer. »Tun Sie mir
+einen Gefallen und überlassen Sie den Alten uns beiden.
+Es ist jetzt Zweifellos das eingetreten, was ich erwartet
+Hatte. Sie sollen später alles hören, lieber Balzer, — jetzt
+bindet mich noch ein Versprechen. Gehen Sie auf Ihr Zimmer,
+der Täter entgeht Ihnen nicht …«
 
-Araber Walzer gehorchte etwas widerwillig, zumal Ausflug
-jetzt mit allem Stimmaufwand rief: »Es muß sein, Revolver,
-— wir wollen doch endlich Ruhe haben vor den vt
-kannten Blutfliegen!«
+Xaver Walzer gehorchte etwas widerwillig, zumal Augustus
+jetzt mit allem Stimmaufwand rief: »Es muß sein, Herr
+Kettner, — wir wollen doch endlich Ruhe haben vor den verdammten
+Blutfliegen!«
 
-Als wir ohne anzuklopfen das Arbveitazimmer des FJ
-Vers betraten, saß dieser vor dem Sreibtisch und Buckel
-gerade mit einem Revolver so wild herum, daß Koppje in el
-geflüchtet war. Der knorrige einstige Burenkämpfer stlv
-uns grimmig an, Harst wartete eine neue Explosion jedoch auch
-ab, sondern schickte das Mädchen und den Neger einsHhinaus
-und fragte dann den Alten kurz und bündig: »Magere
-keine Geschichten, Herr Kettner. Wo ist der Erpresserbrh!
-Er wurde Ihnen soeben zugestellt, wahrscheinlich fand Auqussihn
-draußen im Briefkasten zu der Gartenpforte.«
+Als wir ohne anzuklopfen das Arbeitszimmer des Farmers
+betraten, saß dieser vor dem Schreibtisch und fuchtelte
+gerade mit einem Revolver so wild herum, daß Koppje in eine
+Ecke geflüchtet war. Der knorrige einstige Burenkämpfer stierte
+uns grimmig an, Harst wartete eine neue Explosion jedoch gar
+nicht ab, sondern schickte das Mädchen und den Neger einfach
+hinaus und fragte dann den Alten kurz und bündig: »Machen
+keine Geschichten, Herr Kettner. Wo ist der Erpresserbrief?
+Er wurde Ihnen soeben zugestellt, wahrscheinlich fand Augustus
+ihn draußen im Briefkasten an der Gartenpforte.«
 
-Emil Kettner, der beängstigend blaurot im Gesicht einzusehen
-hatte, sa)nappte nach Luft, verfärbte sich und Tu’
-ebenso plötzlich ganz zahm. »Was wissen Sie?!« meinte —
+Emil Kettner, der beängstigend blaurot im Gesicht ausgesehen
+hatte, schnappte nach Luft, verfärbte sich und wurde
+ebenso plötzlich ganz zahm. »Was wissen Sie?!« meinte er
 dumpf. »Sie scheinen ja alles zu wissen …«
 
 <@pagebreak/>
-»Ich weiß mehr, als Sie vermuten, und ich strich voll«
-immer auf Ihrer Seite. — Wo ist der Brief?«
+»Ich weiß mehr, als Sie vermuten, und ich stehe vollkommen
+auf Ihrer Seite. — Wo ist der Brief?«
 
 Kettner zog ein zerknittertes Schreiben aus der Tasche …
-»Ha … — die Bande, — — hunderttausend Mark — — angeblich!«
+»Da … — die Bande, — — hunderttausend Mark — — unglaublich!!«
 
-Das Schreiben, das auch für mich eine UCbxrsaschuug bis«
-wo, lautete wörtlich:
+Das Schreiben, das auch für mich eine Überraschung bildete,
+lautete wörtlich:
 
-»Kettner!! Die Geister von einst stehen wieder auf!
+> »Kettner!! Die Geister von einst stehen wieder auf!
 Wir werden Sie nicht schonen!! Wir haben Ihr Kriegstagebuch,
-und nur gegen einen Forscher über 100 Wo Mk,
-niederzulegen heute’ abend sieben Uhr an der Südwestecke
-der Anstaltsmauer unter den dort stehenden Ahnen Gedenkstein,
-erhalten Sie es, zurück. — James Garden, Edward
+und nur gegen einen Barscheck über 100&nbsp;000 Mk,
+niederzulegen heute abend sieben Uhr an der Südwestecke
+der Anstaltsmauer unter den dort stehenden kleinen Gedenkstein,
+erhalten Sie es zurück. — James Gardon, Edward
 Hastings.«
 
-Harst schob den Brief in die Tasche. »Darstellte Schrift,
+Harst schob den Brief in die Tasche. »Verstellte Schrift,
+— alles Schwindel«, erklärte er dem aufhorchenden Alten.
+Weder ein Gardon noch ein Hastings als Nachkommen füsilierter
+Spione schicken Ihnen dies zu, sondern *unsere*
+große Feindin Harriet Prill, die ihre Wärterin genau so bestochen
+hat, wie Ihre Feinde es taten, die übrigens eilends
+Deutschland verlassen und nie wieder blutbetupfte Fliegen
+absenden werden. Die Leute sind kuriert, die wollen nicht in
+den Orlik-Mord mit hineinverwickelt werden. *Die* Sache
+wäre also erledigt, Herr Kettner, und die andere, die mit
+dem Scheck, werde ich in Ordnung bringen …«
 
-alles Schwindel«, erflartx er dem aufhorchenden Alten.
-Feder ein Garden noch ein Hastings als Nachkommen fügt«-
-Werter Spione schicken Ihnen dies ’ zu, sondern unsere
-wie. Feindin Harriet Prill, die ihre Wärterin genau so be
-komm hat, wie Ihre Feinde es taten, die übrigens eilends
-»msck)sand verlassen und nie wieder blutbetupfte »zlscqxn
-beenden werden. Die Leute sind kuriert, die vollem nicht in
-dein Antlitz-Mord mit hineinverwickelt werden. Dicke Sache
-wirr also erledigt, ein Kennen, und die möchte die mit
-richtet, werde ich in Ordnung bringen …
+Der alte Mann hörte wortlos zu, wie Harald nun vor ihm
+seine Schlußfolgerungen entwickelte.
 
-Der alte Mann hörte Furchtlos zu, wie x)amld nun vor ihm
-ins Schlußfolgerungen erwiderte. —
-
-»… Ihr Tagebuch wurde durch Harriet Prill Gesicht
-». die durch Schwester Annas Doppelspiel auf dessen Vors
-rmdcusein kam, und hier bei Ihnen Eindruck). Haßt; Sie am
-rostbraunen der Formen jener Spione in England schulde
-sind, weiß ich. Es ging damals auf Seiten ’beider Park
-Alten etwas wild Her, und die Engländer begannen mit den
-»um-Turm-Gottheiten und den ebenso völkerrechtswidrigen LydNiqyranaten,
+»… Ihr Tagebuch wurde durch Harriet Prill gestohlen,
+die durch Schwester Annas Doppelspiel auf dessen Vorhandensein
+kam, und hier bei Ihnen einbrach. Daß Sie am
+Niederbrennen der Farmen jener Spione in England schuldlos
+sind, weiß ich. Es ging damals auf Seiten beider Parteien
+etwas wild Her, und die Engländer begannen mit den
+Dum-Dum-Geschossen und den ebenso völkerrechtswidrigen Lydditgranaten,
 — jedenfalls: Das Fliegenspiel ist aus!! Und
 <@pagebreak/>
 die Frau aus Zimmer 111 wird man nun wohl sicherer unterbringen.«
@@ -2360,176 +2353,173 @@ Der Alte streckte Harst die knochige Rechte hin. »Ich danke
 Ihnen …!! Verdammt nochmal, jetzt tut es mir doch nicht leid,
 daß ich Sie hier hergerufen habe!! Mir ist ein Stein vom
 Herzen gefallen, — die Fliegen haben mir zu schaffen gemacht,
-—» ich alter Esel glaubte, mein Augustus hätte den Orlik ge
-sperrt!! Das war ja eine höllisch verzwickte Geschichte, —
+— ich alter Esel glaubte, mein Augustus hätte den Orlik gespeert
+…!! Das war ja eine höllisch verzwickte Geschichte, —
 ein Wunder, daß Sie sich da herausgefunden haben!« — —
-» Und als die Sonne schwand und die Herbstnebel vom See
-wieder aufstiegen und kalt und feucht und dir schon vor sieben
+
+Und als die Sonne schwand und die Herbstnebel vom See
+wieder aufstiegen und kalt und feucht und dick schon vor sieben
 Uhr abends die ganze Umgebung wieder einhüllten, da
 schlich lautlos ein Neger in grüner Phantasielivree auf die
 Südwestecke der Anstaltsmauer zu, kniete vor dem kleinen
-Gedenkstein, der. an den Tod eines Anstaltswärters in harter
+Gedenkstein, der an den Tod eines Anstaltswärters in harter
 Pflichterfüllung erinnerte, im feuchten Grase nieder und suchte
-den Stein herauszuwachsen. Der Schwarze hatte für alle
-Fälle einen kleinen Spaten mitgebracht, benutzte nun guten
+den Stein herauszuwuchten. Der Schwarze hatte für alle
+Fälle einen kleinen Spaten mitgebracht, benutzte nun auch
 diesen und legte den Stein frei und faßte dann erst bedächtig
-in die Tasche und holte ein flaches, in Versuch gewicdeltwv
-Unikum hervor, wollte es in das Erbin legen und zauderte
+in die Tasche und holte ein flaches, in Öltuch gewickeltes
+Päckchen hervor, wollte es in das Erdloch legen und zauderte
 wieder.
 
-— Wer den Mann bei seiner geheimnisvollen Tätigkeit
-genauer beobachtete, merkte vielleicht, daß er trotz seines Schein«
-dar unbekümmerten Benehmens seiner in Nebel gehüllten Umgebung
+Wer den Mann bei seiner geheimnisvollen Tätigkeit
+genauer beobachtete, merkte vielleicht, daß er trotz seines Scheinbar
+unbekümmerten Benehmens seiner in Nebel gehüllten Umgebung
 die allergrößte Aufmerksamkeit schenkte. In all seinen
-Bewegungen lag eine seufzte wohldurchdachte Berechnung,
-Mißtrauen wäre zu viel Gestalt, der Mann wußte eben genau,
-daß sich etwas ereignen würde, etwas ganz Unerwartetes, or
+Bewegungen lag eine gewisse wohldurchdachte Berechnung, —
+Mißtrauen wäre zu viel gesagt, der Mann wußte eben genau,
+daß sich etwas ereignen würde, etwas ganz Unerwartetes, er
 kannte ja seine Gegnerin, und er war besser gerüstet als sie.
 
 Der Mann mit dem geschwärzten Gesicht und der grauen
-Verrückte und grünen Livree war Harst.
+Perücke und grünen Livree war Harst.
 
 Keine fünf Schritte weiter im dünnen Waldbestand und
 in dem umso dickeren Nebel lagen der echte Augustus, ein
-Kriminalbeamter und ich, und zwischen uns standen verstehen
+Kriminalbeamter und ich, und zwischen uns standen verschieden
 <@pagebreak/>
-sie schwere Kästen sowie ein Ding mit blanker Linse. Und
+schwere Kästen sowie ein Ding mit blanker Linse. Und
+jenseits der Anstaltsmauer wieder (im Innenhof lehnte sich
+ein kleiner Stall mit flachem Giebeldach an die Mauer) lagen
+bei Eintritt der Dunkelheit noch ein paar Leute unter Balzers
+Führung auf der Lauer, ohne daß ein Insasse des großen
+Gebäudekomplexes etwas davon gespürt hätte.
 
-nichts der Anstaltsmauer wieder (im Innenhof lehnte sich
-
-kleiner Stall mit flachen ()1ebeldach an die Mauer) lagen
-
-hi! Eintritt der Dunkelheit noch ein paar Leute unter Bald
-
-riß Führung auf der Lauer, ohne daß ein Insasse des großen
-bäudekomplexes etwas davon gespürt hätte.
-
-Von uns dreien, die wir den tragbaren Scheinwerfer be
-Minen sollten, war zweifellos ich der Aufgeregteste. Ich
-achtete für Harald, — ich konnte den Gedanken nicht besuchen,
-daß Harriet Prill Not im letzten Augenblick irgend
-»ne Teufelei plante. Und doch hatte ich eingesehen, daß
-weilt dieses Wagnis auf sind nehmen mußte. Er hatte mit
-Zahl betont, daß Emil Kettners Kriegstagebuch nicht in fremde
-»Tode geraten dürfe, Kettner hatte ja zugegeben, daß seine
-»nsjeihnungen verschiedene Burenfamilien aufs Schlimmste
-Verstellen Konnten. Andrerseits hatte Harst auch betont, Horn«
+Von uns dreien, die wir den tragbaren Scheinwerfer bedienen
+sollten, war zweifellos ich der Aufgeregteste. Ich
+fürchtete für Harald, — ich konnte den Gedanken nicht loswerden,
+daß Harriet Prill noch im letzten Augenblick irgend
+eine Teufelei plante. Und doch hatte ich eingesehen, daß
+Harst dieses Wagnis auf sich nehmen mußte. Er hatte mit
+Recht betont, daß Emil Kettners Kriegstagebuch nicht in fremde
+Hände geraten dürfe, Kettner hatte ja zugegeben, daß seine
+Aufzeichnungen verschiedene Burenfamilien aufs Schlimmste
+bloßstellen Könnten. Andrerseits hatte Harst auch betont, Harriet
 würde das Tagebuch so sicher versteckt haben, daß es nur
-wich die scheinbare Niederlegung des etpseutxu Hochreckt wie«
-vizuerhaltfen sei. Auch Feuer Balzer, der jetzt in alles
-»ausweicht worden, da die Engländer mit ihrem Flugzeug
-her um zwei Uhr nachmittags verschwunden waren, wodurch
-uralt seiner Schweigepflicht überhoben war, hatte alledem
-energisch beigepflichtet, — Wie gesagt, unsere Gerberei«-
-»vier waren bis ins Einzelne’ durchdacht- worden, sogar ge
-»! se unverfängliche Signale hatten wir vereinbart, — — ich)
-rechte aufs Angestrengteste, ich wartete auf den bewußten
-schlug der Uhr des Anstaltsturmes …
+durch die scheinbare Niederlegung des erpreßten Schecks
+wiederzuerhalten sei. Auch Xaver Balzer, der jetzt in alles
+eingeweiht worden, da die Engländer mit ihrem Flugzeug
+schon um zwei Uhr nachmittags verschwunden waren, wodurch
+Harald seiner Schweigepflicht überhoben war, hatte alledem
+energisch beigepflichtet. — Wie gesagt, unsere Vorbereitungen
+waren bis ins Einzelne durchdacht worden, sogar gewisse
+unverfängliche Signale hatten wir vereinbart, — — ich
+horchte aufs Angestrengteste, ich wartete auf den bewußten
+Schlag der Uhr des Anstaltsturmes …
 
-Und da klang’s auch schon durch den Nebel wie aus endlosen
+Und da klang’s auch schon durch den Nebel wie aus endloser
 Ferne, obwohl es genau sieben Minuten nach sieben war
-die Turmuhr noch nicht wieder zu s)lagen brauchte:
+und die Turmuhr noch nicht wieder zu schlagen brauchte:
 
-»Beim — kam, — — Simplen — — binden …«
+»Bim — bam, — — bim-bam — — bim-bam …«
+
 Augustus zischelte mir zu: »Sie klettert jetzt also aus dem
-inmitten … — Achtung!!« — — — Er hätte mich) wahrhaftig
-
-»t anzuspornen brauchen, meine Wachsamkeit zu werden.
-gern, — Drei Uhrschläge: Das hieß, Harriet kam allein, Haar«
+Fenster … — Achtung!!« — — — Er hätte mich wahrhaftig
+nicht anzuspornen brauchen, meine Wachsamkeit zu verdoppeln.
+— Drei Uhrschläge: Das hieß, Harriet kam allein, Harriet
 <@pagebreak/>
-riet hatte also ihre Verbündete nicht bei sich, Harriet ließ die
-der Lockung des Geldes Unterlegene im Strich und hatte sie
+hatte also ihre Verbündete nicht bei sich, Harriet ließ die
+der Lockung des Geldes Unterlegene im Stich und hatte sie
 wahrscheinlich irgendwie unschädlich gemacht.
 
-Es?kommen nun die entscheidenden Minuten, und bei Sonnenschein
+Es kamen nun die entscheidenden Minuten, und bei Sonnenschein
 oder Mondlicht läßt sich die Ungewißheit weit eher
 ertragen als bei diesem gelblichen, dicken, schweren Nebel, der
-uns sogar Harsts Gestalt nur wie einen verwischten Fleck zeigst,
+uns sogar Harsts Gestalt nur wie einen verwischten Fleck zeigte,
 
-Ich horchte mit gespitzten Ohren, ich hörte Furcht etwas, —
-eine Dachpfanne des Stalles Ukapperkte, — — dann einst
+Ich horchte mit gespitzten Ohren, ich hörte auch etwas, —
+eine Dachpfanne des Stalles klapperte, — — dann eine
 Stimme — oben von der Mauer:
 
-»Liegt der Forscher, wo er liegen soll«
+»Liegt der Scheck, wo er liegen soll?«
 
-Sie war’s, Harriet Prill …!!
+*Sie* war’s, Harriet Prill …!!
 
-Und als Antwort eine dumpfe Stimme: »Her mit den
+Und als Antwort eine dumpfe Stimme: »Her mit dem
 Tagebuch!! Mein Herr teilt sonst alles Harst mit, und …«
 
-»Ehrlich Spielt!«, fiel die große Verbessern drohend
-ein. »Hier ist das Buch …!! Du hast doch sicherlich« sie
-Laterne mit, elender Nigger!! Schlank dir an.«!«
+»Ehrlich Spiel!!«, fiel die große Verbrecherin drohend
+ein. »Hier ist das Buch …!! Du hast doch sicherlich eine
+Laterne mit, elender Nigger!! Schau’s dir an …!«
 
 Von der Mauer her blickte ein matter Lichtstrahl. Man
 erkannte eine Gestalt neben dem umgekippten Gedenkstein,
 und urplötzlich sank diese Gestalt vornüber, lag still, während
 die Laterne, nun heller brennend, einen im Rücken des Mannes
-stehenden Speer beleuchtete. Gleichzeitig schwebte das eilte
-gewickelte Tagebuch wieder nach oben, ein diabolisches Kichern
-des Triumphes erklang, und — — wieder schlug da die Turme
-Uhr an — nur einen Schlag …
+steckenden Speer beleuchtete. Gleichzeitig schwebte das eingewickelte
+Tagebuch wieder nach oben, ein diabolisches Kichern
+des Triumphes erklang, und — — wieder schlug da die Turmuhr
+an — nur einen Schlag …
 
-Unsere Scheinwerfer blitzten auf, — da lag die Tappst
-mit dem Speer im Ruck/fett, — nun war’s heraus, wer Orlik
+Unsere Scheinwerfer blitzten auf, — da lag die Puppe
+mit dem Speer im Rücken, — nun war’s heraus, wer Orlik
 ermordet hatte, — nun schnellte Harst von der Seite vorwärts,
 packte gerade noch das Tagebuch, rief warnend:
 
-»Sie flieht …! — Scheinwerfer nach oben richten, in drin
-Baumkronen,, zu«
+»Sie flieht …! — Scheinwerfer nach oben richten, in die
+Baumkronen …!!«
 
-Im Behelligte noch etwas wie einen Schatten, der sich 11
-die nächste Wicsenbuche schwang, ich drückte den Scheinwerjek
-herum, ab?! die Gestalt da oben war flinker, der Acker war
-zu dicht, — — Polizeipfeifen schrillten, mit einem Schraut
+Im erblickte noch etwas wie einen Schatten, der sich in
+die nächste Riesenbuche schwang, ich drückte den Scheinwerfer
+herum, aber die Gestalt da oben war flinker, der Nebel war
+zu dicht, — — Polizeipfeifen schrillten, mit einem Schlage
 <@pagebreak/>
-waren der dünne Waldstreifen und das Seeufer Sammelplatz,
-Zahlreicher Jäger, die es alle nur auf ein Wild abgesehen
-hatten: Auf die eine Frau, die nun all ihre feingesponnener.
+waren der dünne Waldstreifen und das Seeufer Tummelplatz
+zahlreicher Jäger, die es alle nur auf ein Wild abgesehen
+hatten: Auf die eine Frau, die nun all ihre feingesponnenen
 Pläne zerstört sah und wenigstens noch eins retten wollte, —
-sich selbst?! Steamer eine rücksichtslose, gemeingefährliche
-Verbrecherin, und der geringe geistige Bereit, dieser Größenwahn,
-machte sie vom skrupelloser in ihrem Borgehen!gegen
+sich selbst! Sie war eine rücksichtslose, gemeingefährliche
+Verbrecherin, und der geringe geistige Defekt, dieser Größenwahn,
+machte sie noch skrupelloser in ihrem Vorgehen gegen
 die, denen sie Rache geschworen. Und das waren letzten
-Endes nur wir beide, — das war hazptsädzlich Harst, der
-dieses neue Netz der intelligenten Harriet A?akä)e umrieselte
-ruiniert hatte und hol’ jetzt in all dem’ wirren Durck)emauder
+Endes nur wir beide, — das war hauptsächlich Harst, der
+dieses neue Netz der intelligenten Harriet Masche um Masche
+entwirrt hatte und der jetzt in all dem wirren Durcheinander
 urplötzlich neben mir auftauchte und mich bei Seite zog.
 
-»Mein Alter, diese ganze Verfolgung ist zwecklos … ’Die
-Wärterin Anna Liegt tatsächlich gefesselt in Zimmer z11 und
-hat bereits ein Geständnis: abgelegt … Ihren richtigen New
-men weigert sie sich anzugeben, sie bat sich irgendwie als Alles
-sein in die Anstalt cinchä)mngqclt — Nanu, die Raunte
-eses)e bleibt, wir haben Kettners Sparbuch, der Mord ist aufstand
-und, was weiter wird, — —»ich fürchte unangenehme
-wage und Wochen stehen uns bevor!« —«Ecke hatte selten so
+»Mein Alter, diese ganze Verfolgung ist zwecklos … Die
+Wärterin Anna Liegt tatsächlich gefesselt in Zimmer 111 und
+hat bereits ein Geständnis abgelegt … Ihren richtigen Namen
+weigert sie sich anzugeben, sie hat sich irgendwie als Pflegerin
+in die Anstalt eingeschmuggelt … — Nun, die Hauptsache
+bleibt, wir haben Kettners Tagebuch, der Mord ist aufgeklärt
+und, was weiter wird, — — ich fürchte unangenehme
+Tage und Wochen stehen uns bevor!« — Er hatte selten so
 ernst und nachdrücklich gesprochen,
 
 Und leider, — er behielt recht … — Wir spürten sehr
-bald, daß da eine fast unheimliche Furcht am Werke war, uns
+bald, daß da eine fast unheimliche Macht am Werke war, uns
 zu verderben. Wir wurden Jäger und Gejagte, wie es die zumeist
 recht dunkel liegenden Umstände mit sich brachten … Wir
 erlebten eine verstärkte, verfeinerte, noch rücksichtslosere Serie
 von Abenteuern, die uns in die entferntesten Erdenwinkel führten,
 — verfeinert insofern, als das verbrecherische Genie dieser
-Frau die unglaublichsten Mittel ersann,  uns niederzuwingen
-und gleichzeitig nun Geld und Stößen Zusammenkünften,
+Frau die unglaublichsten Mittel ersann, uns niederzuzwingen
+und gleichzeitig an Geld und Schätzen zusammenzuraffen,
 was ihren unerhörten Ansprüchen, ihrer Geldgier
 begehrenswert erschien … —
 
-Wie gesagt: Die Vor sprang — blieb ergebnislos. Wir
-füllen am nächsten Tage heim, und … wir warteten auf die
-Winselten des neuen Gewitters … — Es kam … €9 zog
+Wie gesagt: Die Verfolgung blieb ergebnislos. Wir
+kehrten am nächsten Tage heim, und … wir warteten auf die
+Anzeichen des neuen Gewitters … — Es kam … Es zog
 <@pagebreak/>
-langsam Herauf … Harst war noch nie so überaus mit«
-ironisch und geistig rege. Nur Bescheid spürten wir die Vor,
-boten des Unwetters. Und die Gewittergöttin, die da Organe«
-wo im Finstern thronte und die Wolken des Unheils heraus«
-Ziehen ließ, hieß … Harriet Prill, Das war kein bloßer Name
-mehr, das war die Verkörperung des Schlechter, das war dar
-Schlechte Prinzip, und wir waren die Gegenspieler …!
+langsam Herauf … Harst war noch nie so überaus mißtrauisch
+und geistig rege. Nur deshalb spürten wir die Vorboten
+des Unwetters. Und die Gewittergöttin, die da irgendwo
+im Finstern thronte und die Wolken des Unheils heraufziehen
+ließ, hieß … Harriet Prill. Das war kein bloßer Name
+mehr, das war die Verkörperung des Schlechten, das war das
+schlechte Prinzip, und wir waren die Gegenspieler …!
 
-Nächster Band:
-Das Spiel mit den goldenen Kugeln.
+<#import "*/harst.ftl" as harst>
+<@harst.naechsterband band="Das Spiel mit den goldenen Kugeln."/>
 
