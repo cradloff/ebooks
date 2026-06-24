@@ -95,7 +95,7 @@ sein. Penz selbst schwört darauf, daß wir es hier
 mit einer ganz gerissenen Bande zu tun hätten, aber, betont
 er immer wieder: Beweise?! Beweise?! — Die optischen
 Signale, der Zugang zum Turm durch die Zimmerdecke, die
-— Übrigens verschwundene — Schreibmaschine und das ebenfalls
+— übrigens verschwundene — Schreibmaschine und das ebenfalls
 verschwundene junge Mädchen mit dem tief-melancholischen
 Gesicht, — — all das sind Seifenblasen … Sie schillern,
 — faßt man zu, zerplatzen sie.«
@@ -222,10 +222,10 @@ In der Nähe standen zwei Korbsessel, Kennardy rückte
 sie zurecht, und Schwester Elise nahm zwanglos Platz. Dann
 erst setzte sich auch Kennardy. Vorher hatte er noch die Kissen
 des Sessels der Schwester sorgsam in die richtige Lage gebracht,
-und dies mit einer So rührenden Geschäftigkeit und
+und dies mit einer so rührenden Geschäftigkeit und
 Zärtlichkeit (ja — Zärtlichkeit war hier der richtige Ausdruck),
 daß ihm aus den großen, graublauen Augen der imponierenden
-Frauengestalt ein genau sie liebevoller Blick wortlos
+Frauengestalt ein genau so liebevoller Blick wortlos
 dankte.
 
 Schweigen trat ein. Es war nicht jenes Schweigen, das
@@ -288,7 +288,7 @@ Er hatte sich bereits wieder in der Gewalt.
 zu, nahm eine der Zigaretten und nahm mit genau so ruhiger
 Hand von mir ein Zündholz an.
 
-Harald klappte das Etui wieder zu. »Einem Teil einer
+Harald klappte das Etui wieder zu. »Einen Teil einer
 seltsamen Weltkarte, Kennardy …«, — und er rauchte drei
 Züge …
 
@@ -341,11 +341,11 @@ bedurften.
 
 <h2>2. Kapitel.</h2>
 
-<h3>Ein. Nachtflug nach England.</h3>
+<h3>Ein Nachtflug nach England.</h3>
 
 »Es ist vielleicht bei unserem Liebhabersport zuweilen recht
 beschämend«, meinte Harald unterwegs, »daß man seine Zuflucht
-zu Mitteln nehmen muß, die einem Selbst widerwärtig
+zu Mitteln nehmen muß, die einem selbst widerwärtig
 erscheinen.«
 
 Julius Wendt, der Haralds Wagen schob, erlaubte sich
@@ -421,7 +421,7 @@ sitzt fest. Sie heißt Harriet Kennardy, ehemals Studentin der
 Chemie, die den Doktortitel erwarb, die bei Professor Kellong
 in London erste Assistentin war, und Kellong hat während
 des Krieges das Institut für Giftgase geleitet. — Du siehst,
-was alles bei wirklich sorgfältiger Nachforschungen herauskommt.«
+was alles bei wirklich sorgfältigen Nachforschungen herauskommt.«
 
 Ich hielt den Atem an … Fragte dann ehrlich entsetzt:
 
@@ -447,7 +447,7 @@ doch war sie zweifellos keines natürlichen Todes gestorben,
 wie ich annehme, denn es war John Kennardys verschollene
 Gattin, mit der er nur ein halbes Jahr zusammengelebt hatte.
 <@pagebreak/>
-— Starre mich nicht es entgeistert an. Die Photographie der
+— Starre mich nicht so entgeistert an. Die Photographie der
 Frau Marry Kennardy war in London durch unsere Argus-Leute
 leicht zu beschaffen, Direktor Matz war selbst im Flugzeug
 drüben, und Matz versteht seinen Kram … Die Tote
@@ -478,7 +478,7 @@ Kurze Pause …
 »Heute abend zehn Uhr fliegen wir nach England, nach
 Kennardy-House … — Befriedigt dich das?!«
 
-»England* und der Zweck?!«, meinte ich etwas beunruhigt.
+»England? und der Zweck?!«, meinte ich etwas beunruhigt.
 
 Harald zauderte merklich. »Nimm an, ich will dort die
 Personen finden, die seit langem einen Luftverkehr nach Kennardy-House
@@ -507,7 +507,7 @@ Würzels zwinkernde Augen uns hohnvoll musterten.
 aufpassen sollen, blinde Passagiere schleichen sich auch in Flugzeuge
 ein … Herr Harst, angeblich kennen Sie den Quallenschützen
 nicht, auch Rat Penz hat Ihnen das nicht geglaubt,
-dieses undurchsichtige Spiel Soll endlich beendet werden.«
+dieses undurchsichtige Spiel soll endlich beendet werden.«
 
 Harald betrachtete ihn mitleidig. »Sie haben Pech, Herr
 Würzel … In Deutschland könnten Sie dieses scharfe Tönchen
@@ -576,7 +576,7 @@ zweites folgte, traf Matz am Hinterkopf, zerstäubte, eisiger
 <@pagebreak/>
 Hauch umgab uns, eine ganz unnatürliche Kälte …: Harst
 taumelte, fiel, — wir taten es ihm gleich, wir lagen quer
-übereinander, ich hatte die Lippen ganze fest zusammengepreßt,
+übereinander, ich hatte die Lippen ganz fest zusammengepreßt,
 die stark eingefetteten Nasenlochkapseln, nichts anderes als
 winzige Gasmasken, erfüllten ihren Zweck, ich verspürte nicht
 einmal ein Schwindelgefühl, ich hörte ein helles, grausames
@@ -731,7 +731,7 @@ Ferngläsern den Doppeldecker wahrnehmen konnten, der um
 sieben Uhr morgens auf einem Acker westlich von Potsdam,
 in ganz einsamer Gegend, niederging.
 
-Würzel war außer sich, als Harald sehr kühl erklärte
+Würzel war außer sich, als Harald sehr kühl erklärte:
 »Lassen wir die Kerle vorläufig in Ruhe … Wir finden
 sie schon noch.«
 
@@ -1054,14 +1054,14 @@ sieben Mädchen schenkte sie ihm … Um von diesen Kindern
 den Makel unehelicher Herkunft zu nehmen, ließ er sie
 von anderen Leuten adoptieren … Dieses innige Liebesverhältnis
 wurde durch bestimmte Vorgänge plötzlich schwer bedroht.
-Kennardys Gattin tauchte auf, und mit ihr Louise Zerneckes
+Kennardys Gattin tauchte auf, und mit ihr Louise Zarneckes
 Schwester Agnes, eine Abenteuerin gleichen Schlages
 wie Marry Kennardy. Beide hatten sich miteinander verbündet,
 um von John Geld zu erpressen. Da John wegen
 Ehebruchs schwere Strafe drohte, verließ er England und
 tauchte hier als Louise Zarnecke auf, während seine vor Gott
 und gerechten Menschen völlig rein dastehende Lebensgefährtin
-Louise in das Haus der Weinbergs-Allee zog, das dem Namen
+Louise in das Haus der Weinberg-Allee zog, das dem Namen
 nach von Harriet gemietet wurde. — Damals ahnte John noch
 nichts von der verbrecherischen Veranlagung seiner Schwester
 und deren Beziehungen zu Rauschgifthändlern. Jedenfalls:
@@ -1140,7 +1140,7 @@ Stelle, *dies* sei Ihr Werk, Ihr Glück, Ihr Lebensinhalt …
 Jetzt ist es so weit, daß niemand Ihnen mehr dieses Glück
 rauben kann. Geben Sie mir Ihre Hand: Sie waren ein
 Kämpfer um das Glück, den Frieden und die Zukunft Ihrer
-Familie, Sie haben gesiegt die Vorsehung war mit Ihnen!
+Familie, Sie haben gesiegt, die Vorsehung war mit Ihnen!
 Wir bleiben Freunde … Und wir wohl auch, Frau Louise …!
 Weisen Sie nun alle Gedanken an die trüben Stunden der
 Vergangenheit von sich, leben Sie der rosigen Zukunft …!
@@ -1168,7 +1168,7 @@ Harst schob seinen Arm in den meinen.
 »Wohin schweifen deine Gedanken, mein Alter?«, —
 und er zog mich mit sich fort, aber nach dem anderen Ende
 der Straße, wo herbstliche Äcker und stille Feldwege uns
-bewaldeten. »Grübelst du noch über diese oder jene Einzelfrage
+erwarteten. »Grübelst du noch über diese oder jene Einzelfrage
 nach, die dir dunkel oder ungelöst erscheint? Mühe
 dich nicht weiter damit ab … Alles ist gelöst, alles … Ein
 Rädchen greift ins andere, ein Rad ins andere, die Zeiger

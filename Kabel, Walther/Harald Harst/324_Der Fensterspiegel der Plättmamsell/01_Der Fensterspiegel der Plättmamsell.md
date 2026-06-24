@@ -16,7 +16,7 @@ an schnell aufgepusteten Zweckbauten darstellten.
 Monatelang hatten wir diese Gegend nicht besucht, obwohl
 sie uns sehr nahe lag und dort Mamsell Louise Zarnecke,
 Glanzplätterei, auch unsere Oberhemden und Kragen in Arbeit
-nahm und wir mit der noch ihnen recht ansehnlichen Fünfzigerin
+nahm und wir mit der noch immer recht ansehnlichen Fünfzigerin
 so manchen kurzen Plausch gehalten hatten.
 
 Daß Harst mich gegen halb zwölf so ganz unerwartet
@@ -206,7 +206,7 @@ stellte der hohe Schornstein der neuen Dampfwäscherei dar.
 
 Inzwischen hatte Louise Zarnecke vor diesem roten Ungetüm
 von Schlot in aller Stille kapituliert und war »verzogen«.
-— Ein Sehr simpler Tatbestand, das Ganze. Wo lag
+— Ein sehr simpler Tatbestand, das Ganze. Wo lag
 da irgend etwas verborgen, das meinen Freund reizen konnte,
 der doch gerade hinsichtlich merkwürdiger Geschehnisse sehr
 anspruchsvoll ist?!
@@ -232,7 +232,7 @@ zwei Herren saßen.
 Beide waren uns unbekannt.
 
 Der eine, korpulent und doch recht geschmeidig und mit
-scharfen, harten Zügen, wandte sich in wenig höflichen Tone
+scharfen, harten Zügen, wandte sich in wenig höflichem Tone
 an uns.
 
 »Beabsichtigen Sie zu pachten?«, fragte er kurz. »Rechtsanwalt
@@ -262,7 +262,7 @@ betitelt, wird meinen Lesern und Freunden noch im Gedächtnis
 haften geblieben sein. Derartige Kriminalfälle sind selten.
 
 Und hier nun auf offener Straße ein ähnlicher Kampf
-um ein kleines Grundstück, nur daß der andere Meter, zweifellos
+um ein kleines Grundstück, nur daß der andere Bieter, zweifellos
 der Aussprache nach ein Engländer, schon durch sein
 Lächeln angezeigt hatte, daß er meinen Freund Harald als
 Konkurrenz nicht recht ernst nahm.
@@ -304,7 +304,7 @@ Schränke und …«
 
 Ich kam nicht weiter. Notar Doktor Schley schoß wie
 ein aufgestörter Hecht aus der Haustür, hinter ihm her Mr.
-Kennardy, dem Sogar beim Stolpern über die Hausflurschwelle
+Kennardy, dem sogar beim Stolpern über die Hausflurschwelle
 der Hut wegflog. Er ließ ihn liegen, er war noch verängstigter
 als der Anwalt, und als Harald den beiden nun an
 der Pforte entgegentrat, keuchte Kennardy völlig außer Atem:
@@ -329,11 +329,11 @@ war genau so unausgeglichen, er suchte sich zu beherrschen, es
 gelang ihm nicht, zum Schluß einiger recht wirrer Bemerkungen
 rief er wütend und schwer gereizt: »Diese Scherereien
 …!! Diese unglaublichen Scherereien …!! Die Zarnecke
-soll der … «, — und dann rannte er über die Gasse in einen
+soll der …«, — und dann rannte er über die Gasse in einen
 neuen Laden. — — »Ich telephoniere an die Polizei …«,
 brüllte er uns noch zu …
 
-»Ein sehr aufgeregten Herr«, meinte Mr. Kennardy mißbilligend
+»Ein sehr aufgeregter Herr«, meinte Mr. Kennardy mißbilligend
 den Kopf schüttelnd. »Ich habe doch wahrlich einen
 bösen Schreck bekommen, aber man muß sich doch wenigstens
 etwas in der Gewalt haben.« Er lächelte schon wieder, es
@@ -361,7 +361,7 @@ mir selbst gegenüber ein, diese selbe dunkle Geschichte,
 <@pagebreak/>
 mochte das mir unbekannte Beispiel auch noch so verdachterregende
 Dinge enthalten haben, war doch erst durch den
-Tod der Plättmamsell in ein So bedenkliches Stadium gerückt
+Tod der Plättmamsell in ein so bedenkliches Stadium gerückt
 worden!
 
 Harst setzte sich wieder zu mir, ernster denn je und mein
@@ -417,15 +417,15 @@ leeren Baubude gegenüber der Plätterei. Das einzige, was
 mir auffiel, waren zwei Arbeiter der Straßenreinigung, die
 mit ihren Besen sehr viel Staub entwickelten. Ihnen war
 es wohl unangenehm, daß die Fensterspione der Zarnecke dadurch
-so stark verschmutzt wurden der eine kletterte über den
+so stark verschmutzt wurden, der eine kletterte über den
 Zaun, putzte beide Spiegel, und dann verschwanden die Leute.«
 
 Harald blickte den jungen Wendt merkwürdig an. Er
-schien etwas sagen zu wollen unterdrückte die Bemerkung, und
-wandte sich dem nächsten Argus Mann zu. Der berichtete
+schien etwas sagen zu wollen, unterdrückte die Bemerkung, und
+wandte sich dem nächsten Argus-Mann zu. Der berichtete
 noch knapper, daß er und seine beiden Kollegen das Büro
 Doktor Schleys hatten überwachen sollen. Sie hatten das
-Sehr sorgfältig und sehr schlau angefangen, jedenfalls erfuhren
+sehr sorgfältig und sehr schlau angefangen, jedenfalls erfuhren
 sie den Namen des ersten Klienten der sich um halb zehn einfand:
 John Kennardy! — Mehr wußten auch sie nicht.
 
@@ -504,7 +504,7 @@ Das Surren gibt mir zu denken, mein Alter … Die
 Chemie erfindet immer neue mörderische Stoffe. Die einen
 wirken langsam, die anderen schnell, ein Kokainschnupfer kann
 seinem Laster jahrelang frönen, bevor er zum Wrack wird …
-… Hallo, da ist schon die neue Villenstraße … Doktor Schleys
+Hallo, da ist schon die neue Villenstraße … Doktor Schleys
 Villa soll recht dicht am Abhang zum Rienmeistersee stehen …«
 
 Wir stiegen aus, läuteten an der Gartenpforte, ein
@@ -572,7 +572,7 @@ Wenn es nach Würzels frommen Wünschen gegangen
 wäre, hätten wir längst in der Hölle schmoren müssen. Er
 liebte keine Konkurrenz.
 
-Wie ein Akrobat schnellte er vom Rade, —: »Was geht
+Wie ein Akrobat schnellte er vom Rade —: »Was geht
 hier vor?«, fragte er etwas lauernd, und seine ewig zwinkernden
 Augen sprühten Hohn.
 
@@ -730,7 +730,7 @@ war seit Jahren meine Mandantin, sie besaß Vermögen, das
 ich verwaltete … Wenn man sie eine Idealistin nennen würde,
 oder nur eine Tier- und Naturfreundin, wäre das zu wenig
 gesagt. Sie war ein wahrhaft edler Mensch. Ich hatte sie
-fünf Wochen lange nicht gesehen, ich war zur Erholung
+fünf Wochen lange nicht gesehen, ich war zur Erholung in
 Tirol, sie schrieb mir aber, daß sie ihre Plätterei aufgegeben
 habe …«
 
@@ -804,7 +804,7 @@ Schley fügte schnell hinzu: »Noch eine Nachschrift, bitte.
 »Meine Milchziegen und Kaninchen sind sorgfältig zu verpflegen
 und auf dem Grundstück zu belassen, ebenso sind die
 beiden Fensterspiegel täglich zweimal zu säubern und nicht zu
-verrücken. Schließlich Soll nichts von meinen Möbeln veräußert
+verrücken. Schließlich soll nichts von meinen Möbeln veräußert
 werden. — Mein Testament, das sich in Ihrer Verwahrung
 befindet, ist sorgfältig zu hüten. — Mr. Kennardy
 habe ich telegraphisch verständigt. — All diese meine Anordnungen
@@ -949,7 +949,7 @@ das Problem »Zarnecke« mit berücksichtigt worden.
 
 <p class="centered em">Überblick über d. P. Z.</p>
 
-1. Louise Zarnecke, ältere Tochter des im Jahre 1904 in
+1\. Louise Zarnecke, ältere Tochter des im Jahre 1904 in
 Züllichau verstorbenen Bauerngutsbesitzers Karl Zarnecke, genoß
 eine gute Erziehung, bestand das Lehrerinnenexamen und
 ging mit 25 Jahren (1902) nach England, wo sie in verschiedenen
@@ -959,11 +959,11 @@ das Grundstück ihres Onkels väterlicherseits und eröffnete
 eine Plätterei.
 
 <@pagebreak/>
-2. Ihre um zehn Jahre jüngere Schwester Agnes verließ das
+2\. Ihre um zehn Jahre jüngere Schwester Agnes verließ das
 Elternhaus 1916 und gilt seitdem als verschollen. — Weitere
 Geschwister nicht vorhanden.
 
-3. John Kennardy, Engländer, 58 alt, erwarb 1905 Grundbesitz,
+3\. John Kennardy, Engländer, 58 alt, erwarb 1905 Grundbesitz,
 gründete die Kennardy-Farm, stets Kennardy-House genannt,
 brachte die Farm rasch zur Blüte, die er zusammen mit
 seiner Schwester bewirtschaftete. Er heiratete, seine Frau verließ
@@ -975,7 +975,7 @@ wiederum die Bewirtschaftung des großen Besitzes, fand sich
 jedoch in Kennardy-House stets nur kurze Zeit ein, in den
 letzten Jahren noch seltener.
 
-4. Am 8. September dieses Jahres teilt die Z., die weder uns
+4\. Am 8. September dieses Jahres teilt die Z., die weder uns
 beiden, ebensowenig ihrem Anwalt, jemals von ihrer gediegenen
 Vorbildung oder von ihrem Aufenthalt in England erzählt
 hat, Doktor Schley mit, daß sie verreise. Am 13. erleben
@@ -993,7 +993,7 @@ Pedro Orbanos, Brasilianer, ein steckbrieflich gesuchter
 Verbrecher, in demselben Augenblick einem Quallengeschoß erliegt,
 als Assistent Würzel ihm Handschellen anlegen will.
 
-5. Die Ereignisse überstürzen sich, Schley liest uns Louise Zarneckes
+5\. Die Ereignisse überstürzen sich, Schley liest uns Louise Zarneckes
 Bestimmungen über die Verpachtung vor, unter denen
 <@pagebreak/>
 die wichtigsten die sind, daß ein Waisenheim errichtet und die
@@ -1070,7 +1070,7 @@ vorhabe, besser mit Spionageplan … — Wir werden sofort
 aufbrechen, wenn Direktor Matz mir die nötigen Feldmesserinstrumente
 schickt, dazu einen Herrn, der sie möglichst unauffällig
 zu benutzen weiß. — Hallo, Telephon … — Hier Harst.
-Tag, lieber Maß … Sie haben den Herrn direkt nach der
+Tag, lieber Matz … Sie haben den Herrn direkt nach der
 Aladinstraße geschickt? Nun gut, Schraut und ich brechen
 sofort auf … Sonst noch etwas? — Wie, die beiden Leute,
 die Kennardy beobachteten, sind verschwunden? — Oh, deshalb
@@ -1250,7 +1250,7 @@ mit Schley verkehrt, schriftlich, — getippt!! In ihrem
 Häuschen war keine Schreibmaschine zu finden gewesen. Hier
 war eine solche vorhanden, und daß diese alte Villa und das
 Häuschen der Plättmamsell durch Blinklicht miteinander verkehrt
-hatten, war sie gut wie gewiß. — Ein ganzer Gürtel
+hatten, war so gut wie gewiß. — Ein ganzer Gürtel
 von Rätseln umgab uns … Man sagt immer, in den Weltstädten
 sei die Romantik erstorben. Die, die das behaupten,
 sind blinde Wanderer, blind geworden durch Benzindunst,
