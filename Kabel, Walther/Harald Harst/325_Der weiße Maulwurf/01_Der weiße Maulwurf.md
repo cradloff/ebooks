@@ -8,7 +8,7 @@ Einen Kriminalfall mit einem verzwickten Vorspiel dem Leser mundgerecht zu mache
 
 Ich wähle daher hier die Form einer unpersönlichen Erzählung, der ich immerhin einige Reize zu verleihen vermag.
 
-— Der Abend des 13.Mai war mild und windstill.
+— Der Abend des 13. Mai war mild und windstill.
 
 In der Parkstraße des Berliner Vorortes Dahlem saßen auf den Bänken der Kinderspielplätze dieses breiten, urwüchsigen Waldstreifens vereinzelte Pärchen und lauschten den Tönen eines Lautsprechers der nahen Villen, der bei offenen Fenstern in voller Tonstärke die Hauptmotive aus dem »Rosenkavalier« von Strauß wiedergab.
 
@@ -178,7 +178,7 @@ Und er hielt uns einen toten Maulwurf von schneeweißer Farbe hin, den er in sei
 
 »Dieser Tierkadaver flog mir beim Zusammenstoß ins Gesicht … In der Limousine saß nur ein einzelner Mann, ein Chauffeur mit Brille und Vollbart …«
 
-Er war erschöpft, — ein Glas Wein munterte ihn auf, und Harsts Frage, ob Frau Lüning ihm gegenüber nie den »weißen Maulwurf« erwähnt habe, beantwortete er mit entschiedenem »Nein!« und mit dem ebenso ehrlich klingenden Nachsatz: »Herr Harst, ich habe bereits gegen drei dieser jämmerlichen Schmutzblätter, die Frau Lünings Ehre und zu gleich die meine angegriffen haben, Strafantrag gestellt. Ich bin mit Tussi Berkamp heimlich verlobt, meine etwas wilden Jahre liegen hinter mir, daß der Generaldirektor mich als Freier weder ernst nahm noch meine Bewerbung um die Hand seiner Stieftochter billigte, kann ich ihm nicht verargen. Mein Ruf ist nicht der beste, leider, aber seit einem halben Jahre lebe ich fast wie ein Mönch … zwischen Frau Geraldine und mir bestehen lediglich freundschaftliche Beziehungen, sie steht auf unserer Seite, sie hat gegen mich als Schwiegersohn nichts einzuwenden. Sie wird viel belächelt, verleumdet, noch mehr verkannt, man macht ihr den früheren Beruf als gefeierte Budapester Operettendiva zum Vorwurf, — all das ist ja so widerwärtig und gemein, Herr Harst …!« Er war in Eifer geraten, — es war die feurige Begeisterung eines anständigen Charakters für eine Frau, die er verehrte, nicht liebte.
+Er war erschöpft, — ein Glas Wein munterte ihn auf, und Harsts Frage, ob Frau Lüning ihm gegenüber nie den »weißen Maulwurf« erwähnt habe, beantwortete er mit entschiedenem »Nein!« und mit dem ebenso ehrlich klingenden Nachsatz: »Herr Harst, ich habe bereits gegen drei dieser jämmerlichen Schmutzblätter, die Frau Lünings Ehre und zugleich die meine angegriffen haben, Strafantrag gestellt. Ich bin mit Tussi Berkamp heimlich verlobt, meine etwas wilden Jahre liegen hinter mir, daß der Generaldirektor mich als Freier weder ernst nahm noch meine Bewerbung um die Hand seiner Stieftochter billigte, kann ich ihm nicht verargen. Mein Ruf ist nicht der beste, leider, aber seit einem halben Jahre lebe ich fast wie ein Mönch … zwischen Frau Geraldine und mir bestehen lediglich freundschaftliche Beziehungen, sie steht auf unserer Seite, sie hat gegen mich als Schwiegersohn nichts einzuwenden. Sie wird viel belächelt, verleumdet, noch mehr verkannt, man macht ihr den früheren Beruf als gefeierte Budapester Operettendiva zum Vorwurf, — all das ist ja so widerwärtig und gemein, Herr Harst …!« Er war in Eifer geraten, — es war die feurige Begeisterung eines anständigen Charakters für eine Frau, die er verehrte, nicht liebte.
 
 Harald beobachtete ihn still. Dieser elegante junge Gelehrte, der sich für eine Dozentur an der Berliner Universität vorbereitete und Ägyptiologe war, hatte nichts Gekünsteltes an sich und nahm unbedingt durch sein ganzes Wesen für sich ein.
 
@@ -342,7 +342,7 @@ Was wollte Strahl hier zu dieser Stunde?!
 
 Ich traute ihm weniger denn je, und ich bedauerte nur, mich mit Harald nicht einmal flüsternd verständigen zu können. Was mochte er denken?!
 
-Wir lagen lang auf den Kiefernnadeln, wir ließen uns den Regen geduldig auf die Mäntel trommeln, — irgend etwas wurde sich ereignen! — Was aber …?
+Wir lagen lang auf den Kiefernnadeln, wir ließen uns den Regen geduldig auf die Mäntel trommeln, — irgend etwas würde sich ereignen! — Was aber …?
 
 Und dann glitt eine neue Gestalt heran, wir konnten den Menschen gegen das Laternenlicht der Straße recht deutlich sehen, er war bucklig, hatte einen grauen Bart, trug Brille und eine Windjacke und Schlappmütze und in der linken Hand einen dicken Spazierstock.
 
@@ -402,7 +402,7 @@ Haralds Mütze wirbelte davon …
 
 Wir lagen schon lang am Boden …
 
-Nochmals pfiff eine Kugel, ohne das ein Schuß zu hören war, neben uns in die Humuserde.
+Nochmals pfiff eine Kugel, ohne daß ein Schuß zu hören war, neben uns in die Humuserde.
 
 »Rückwärts kriechen — — zur Straße …!«, befahl Harst leise.
 
@@ -492,7 +492,7 @@ Ob das stimmte?! Ob nicht Harald gerade dasselbe annahm wie ich?! Frau Lüning m
 
 Dwars glitt an der Leine wieder herab. »Das Bett ist leer…!«, stieß er hervor. »Dabei ist das Zimmer hell …«
 
-»Ja«, sagte Harst gelassen »das zweite Bett steht an der linken Wand … auf meine Anregung hin, und der Wandschirm verdeckt es …«
+»Ja«, sagte Harst gelassen, »das zweite Bett steht an der linken Wand … auf meine Anregung hin, und der Wandschirm verdeckt es …«
 
 Der Kommissar blickte ihn lange an. »Sie rechneten mit diesem Attentat, Herr Harst?«
 

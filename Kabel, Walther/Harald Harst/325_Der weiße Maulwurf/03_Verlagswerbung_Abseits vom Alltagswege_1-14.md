@@ -1,4 +1,3 @@
-<@pagebreak 65/>
 
 <div style="font-size: xx-large; text-align: center;">Abseits vom Alltagswege</div>
 

@@ -216,7 +216,7 @@ Strahl ließ den Kopf mutlos sinken …
 
 Der Diener hatte längst allen Widerstand aufgegeben. »Fräulein Tussi sandte ihr unter anderem zum Geburtstag Konfekt«, erwiderte er verzweifelt. »Wie sind Sie nun auf …«
 
-»Lassen Sie es gut sein …,« — ich reimte mir das einzig Richtige zusammen … — »Also Fräulein Tussi, — — natürlich ahnte sie nicht, daß jemand das Konfekt vergiftet hatte, aber das alte Fräulein war eben vorsichtig und klug und kannte die Gefahr … — Und dann sollten <em>Sie</em> stumm gemacht werden, Josef Strahl … Sie trinken wohl vor dem Schlafengehen regelmäßig etwas Wasser mit Kognak … — Nun also, — der Kognak war vergiftet, auch Sie waren gewarnt, Sie tranken nicht, täuschten »Leiche« vor und entflohen — mit Frau Lünings Einverständnis …«
+»Lassen Sie es gut sein …, — ich reimte mir das einzig Richtige zusammen … — Also Fräulein Tussi, — — natürlich ahnte sie nicht, daß jemand das Konfekt vergiftet hatte, aber das alte Fräulein war eben vorsichtig und klug und kannte die Gefahr … — Und dann sollten <em>Sie</em> stumm gemacht werden, Josef Strahl … Sie trinken wohl vor dem Schlafengehen regelmäßig etwas Wasser mit Kognak … — Nun also, — der Kognak war vergiftet, auch Sie waren gewarnt, Sie tranken nicht, täuschten »Leiche« vor und entflohen — mit Frau Lünings Einverständnis …«
 
 Strahl nickte schwach, wischte sich den Schweiß von der Stirn und schaute Harst flehend an.
 
@@ -230,7 +230,7 @@ Ein Kriminalbeamter ließ uns ein.
 
 »Der Herr Generaldirektor schläft noch«, bedeutete er uns. »Er hat eine sehr schlechte Nacht gehabt, der Hausarzt war hier …«
 
-Harald betrat trotzdem den Vorgarten .und sagte leichthin: »Wir werden im Park warten, bis Herr Lüning uns empfangen kann. — Ist Frau Lüning zu Hause?«
+Harald betrat trotzdem den Vorgarten und sagte leichthin: »Wir werden im Park warten, bis Herr Lüning uns empfangen kann. — Ist Frau Lüning zu Hause?«
 
 »Ja — soeben zurückgekehrt …«
 
@@ -436,7 +436,7 @@ Und er nahm dem Toten die Stricke ab …
 
 Dwars blickte Lüning an, der die Hände vor das Gesicht gepreßt hielt.
 
-»Ein Unbekannter also«, sagte Dwars fest. »Ein Mensch, der eine zufällige Ähnlichkeit mit Lüning besitzt … — Gehend wir … Nehmen Sie meinen Arm, Herr Lüning, — — Sie kehren als freier Mann in Ihr Heim zurück …«
+»Ein Unbekannter also«, sagte Dwars fest. »Ein Mensch, der eine zufällige Ähnlichkeit mit Lüning besitzt … — Gehen wir … Nehmen Sie meinen Arm, Herr Lüning, — — Sie kehren als freier Mann in Ihr Heim zurück …«
 
 Drei Tage später saßen wir auf einer der großen Loggien des Sanatoriums Dahlem und tranken mit Tussi Berkamp, die in einem Krankenstuhl lehnte, mit dem Ehepaar Lüning und der lebhaften Matrone Vilja Födösy vorzüglichen Tee …
 
