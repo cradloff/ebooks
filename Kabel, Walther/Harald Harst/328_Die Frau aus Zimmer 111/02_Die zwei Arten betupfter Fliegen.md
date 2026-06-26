@@ -60,7 +60,7 @@ Masse von zuckenden Muskelwülsten.
 »Weiter sage ich nichts. Hier ist die Schachtel mit den verdammten
 Fliegen …!«
 
-»Danke …« Harst setzte sich ans Fenster, um bessere Licht
+»Danke …« Harst setzte sich ans Fenster, um besseres Licht
 zu haben. — Die Schachtel war eine größere Zigarettenschachtel,
 flach und breit. Die Fliegen waren tot, aber tadellos erhalten,
 auch ich beugte mich neugierig über diese Menge
@@ -126,7 +126,7 @@ Blässe und tiefe Röte wechselten auf seinem Gesicht,
 trotzdem erklärte er dann unbegreiflich ruhig:
 
 »Ich verdammter Narr!! Daß ich nicht selbst daran gedacht
-habe! Gut, — verlieren Sie das Ding … Hier ist
+habe! Gut, — verstecken Sie das Ding … Hier ist
 Packpapier, — wickeln Sie den Kasten ein, es braucht ihn
 niemand zu sehen … — Haben Sie denn ein Versteck dafür?«
 
@@ -148,7 +148,7 @@ Flügeln und zwar die verschiedensten Arten davon, große,
 kleine, grünliche, gelbliche, hellbraune …
 
 Und dann klopfte es auch schon, und Herr Xaver Balzer
-trat ein, uns zu dem »Spaziergang« abzuholen. Welche Art,
+trat ein, uns zu dem »Spaziergang« abzuholen. Welche Art
 »Spaziergang« das werden würde, konnte ich mir denken.
 
 Als wir in den Park kamen, war der Nebel verschwunden.
@@ -204,7 +204,7 @@ Streichholzschachtel … Sie waren natürlich von der nächtlichen
 Kälte sehr matt und die roten Pünktchen auf den
 Flügeln waren stark verlaufen infolge der Nässe. Aber Xaver
 Balzer hat trotz der Brille gute Augen, und hinter dieser
-Stirn lagert frischte gute Grütze … — So … so, — also
+Stirn lagert frische gute Grütze … — So … so, — also
 betupfte Fliegen, — schau an, das gefällt mir. Ein Kriminalproblem
 nach Schema F erzeugt bei mir Übelkeit, ich liebe
 genau wie Sie das Absonderliche … — Darf ich Ihnen
@@ -229,7 +229,7 @@ mit dem Boot über den See …«
 Balzer schmunzelte verstohlen. »Viel Glück!«
 
 Das kleine Boot schoß im Sonnenschein über den stillen See
-auf den Bootssteg der Anstalt zu. Der Haupteingangs zu diesem
+auf den Bootssteg der Anstalt zu. Der Haupteingang zu diesem
 Gebäudekomplex lag auf der anderen Seite nach der
 Chaussee zu. Wir mußten also noch ein weites Stück an der
 hohen roten Ziegelmauer entlanggehen, und wir hielten uns
@@ -417,7 +417,7 @@ Meter weiter am Chausseerande hielt und das hoch
 beladen war. Ein Schofför war dort nicht zu bemerken.
 
 »Auto und Flugzeug gehören zusammen«, meinte er leise
-und beobachtete die Vorgänge weiter. »Mann kann ein Fahrgestell
+und beobachtete die Vorgänge weiter. »Man kann ein Fahrgestell
 eines Flugzeugs auch absichtlich ramponieren … Wenn
 dann zufällig ein Landjäger vorüberkommt, hat man die
 harmloseste Erklärung bereit, weshalb man nicht wieder aufgestiegen
@@ -509,7 +509,7 @@ und zu jedem Gewaltstreich fähig war.
 
 »Geldschein?!«, sagte er mit stark englischem Akzent.
 »Schon möglich … Suchen wir … Auch ich glaubte Papier
-flattern zu Sehen …«
+flattern zu sehen …«
 
 Er schlenderte halb hinter das Lastauto und bückte sich,
 <@pagebreak/>
@@ -607,7 +607,7 @@ Auto ratterte wieder davon.
 
 Unser Wächter hatte uns nebeneinander auf eine morsche
 Bank gedrückt und erklärte nun in sehr gebrochenem Deutsch:
-»Sie sind uns im Wege … Wenn wir unserer Sache erledigt
+»Sie sind uns im Wege … Wenn wir unsere Sache erledigt
 haben, sind Sie wieder frei …«
 
 Der Mann machte alles in allem gar keinen üblen Eindruck,
@@ -782,7 +782,7 @@ Kettner schien nun als Kommandant äußerst scharf, wenn
 auch gerecht vorgegangen zu sein. Sobald er einen der Verdächtigen
 füsiliert hatte, bewahrte er die Fliege auf, daher
 sein Glaskasten mit all den verschiedenartigen betupften Fliegen.
-Außerdem wird er auch wohl von eine Art Kriegstagebuch
+Außerdem wird er auch wohl so eine Art Kriegstagebuch
 geführt haben, und dieses wurde ihm gestohlen — — von
 Harriet Prill, dem »Neger«. — So, und jetzt seien Sie genau
 so ehrlich, mein Lieber … Was hatten Sie mit Kettner vor?«
@@ -800,7 +800,7 @@ Zigarettenrest zwischen den Fingern.
 
 »… Herr Harst, es trifft zu, wir sieben, die wir uns zusammengetan
 haben, sind Verwandte von Leuten, die Kettner
-vor ein Standgericht stellte. Ganz abgesehen davon, das unsere
+vor ein Standgericht stellte. Ganz abgesehen davon, daß unsere
 <@pagebreak/>
 Väter oder sonstigen Verwandten so den Tod fanden,
 wurden auch ihre Farmen niedergebrannt und ihren Familien
@@ -957,7 +957,7 @@ Ecke geflüchtet war. Der knorrige einstige Burenkämpfer stierte
 uns grimmig an, Harst wartete eine neue Explosion jedoch gar
 nicht ab, sondern schickte das Mädchen und den Neger einfach
 hinaus und fragte dann den Alten kurz und bündig: »Machen
-keine Geschichten, Herr Kettner. Wo ist der Erpresserbrief?
+Sie keine Geschichten, Herr Kettner. Wo ist der Erpresserbrief?
 Er wurde Ihnen soeben zugestellt, wahrscheinlich fand Augustus
 ihn draußen im Briefkasten an der Gartenpforte.«
 
@@ -1129,7 +1129,7 @@ packte gerade noch das Tagebuch, rief warnend:
 »Sie flieht …! — Scheinwerfer nach oben richten, in die
 Baumkronen …!!«
 
-Im erblickte noch etwas wie einen Schatten, der sich in
+Ich erblickte noch etwas wie einen Schatten, der sich in
 die nächste Riesenbuche schwang, ich drückte den Scheinwerfer
 herum, aber die Gestalt da oben war flinker, der Nebel war
 zu dicht, — — Polizeipfeifen schrillten, mit einem Schlage

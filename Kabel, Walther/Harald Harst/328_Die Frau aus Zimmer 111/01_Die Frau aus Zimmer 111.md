@@ -91,7 +91,7 @@ große Bedeutung bei. — Wenn nun Onkel Emil ein Junggeselle
 mit lächerlichen Schrullen wäre …« — sie stockte mitten
 im Satz und fügte schnell hinzu — »denn der rosarot gestrichene
 Jagdwagen und die zeisiggrüne Livree kommen ganz
-allein auf Augustus’ Konto, — das ist männlich der Kaffer,
+allein auf Augustus’ Konto, — das ist nämlich der Kaffer,
 meine Herren, — — also, — ich habe etwas den Faden verloren,
 — nein, Onkel ist ein sehr kluger Mensch, — und wenn
 er behauptet die Fliegen müßten doch zum T…, pardon,
@@ -99,7 +99,7 @@ er behauptet die Fliegen müßten doch zum T…, pardon,
 schon, Herr Harst. Vor acht Tagen fand ich die ersten beiden
 — bei Nordwind, immer nur bei Nordwind findet man sie,
 und wir hatten in der letzten Woche dreimal Nordwind, — —
-ich habe ich den Faden schon wieder verloren, Herr Harst, was
+da habe ich den Faden schon wieder verloren, Herr Harst, was
 wollte ich nur sagen, ich bin so schrecklich zerstreut, — — richtig,
 bei Nordwind nur, und da ist auch schon der Tennisplatz, —
 — schöne Aussicht, nicht wahr?!«
@@ -170,7 +170,7 @@ Koppje hatte alle Verlegenheit wieder abgestreift.
 langjährigen Farmaufseher! Augustus ist fabelhaft geschickt
 und hat das Tennisspiel im Nu erlernt …«
 
-»So … so …« Harald tat die Flagge in ein Schächtelchen.
+»So … so …« Harald tat die Fliege in ein Schächtelchen.
 Seine grauen stillen Augen schweiften wieder über den
 See hin. »Fräulein Bergner, ich möchte Sie jetzt bitten, uns
 hier vorläufig allein zu lassen. Es ist das eine Eigentümlichkeit
@@ -225,7 +225,7 @@ nicht den alten Afrikaner gesprochen haben, wollen wir diese
 Fliegen ausschalten. Weit wichtiger ist mir zunächst die Birke
 dort am See, die Krähen und Fräulein Koppjes offenbare
 Lüge. Sie hat ihre Schweigepflicht gebrochen … Wem gegenüber
-erwähnte sie die getupften Aasfliegen?! Wer stehlt
+erwähnte sie die getupften Aasfliegen?! Wer steht
 ihr so nahe, daß sie das Gebot ihres Onkels und Wohltäters
 mißachtet?!«
 
@@ -300,7 +300,7 @@ Seite, als Harst ihn fragte, ob er sich eine Zigarette anzünden
 dürfe.
 
 »Nein!! Hier wird nur Pfeife geraucht, — verstehen Sie!
-Dort hängen Pfeifen, dort sieht der Tabakkasten, — los, bedienen
+Dort hängen Pfeifen, dort steht der Tabakkasten, — los, bedienen
 Sie sich.«
 
 Harald dankte lächelnd. »Ich verzichte besser, Herr Kettner
@@ -343,7 +343,7 @@ Sie beide zur Bahn bringen — — verstanden?!«
 Harst sprach dieses Nein sehr bestimmt, setzte sich bequem
 zurecht, zog sein Zigarettenetui hervor, hielt es mir hin,
 rauchte, — — und währenddessen veränderte sich des rauhbeinigen
-Wüterich verwittertes Gesicht in sprechendster Art,
+Wüterichs verwittertes Gesicht in sprechendster Art,
 — — plötzlich lächelte er sogar, und dann rief er halblaut:
 
 »Bravo!! Sie gefallen mir! Nur nicht nachgeben, meine
@@ -535,7 +535,7 @@ erzählt hatte, der Gichtanfall dauere nun bereits drei Tage.
 Kettner simulierte nicht — der ganze knorrige Alte sah mir
 nicht danach aus, daß er sich auf solche Mätzchen einließe.
 
-Ich blickte Harst erwartungsvoll an. Ich regnete auf ein
+Ich blickte Harst erwartungsvoll an. Ich rechnete auf ein
 <@pagebreak/>
 Zeichen seiner Zustimmung. Er saß ganz still da, rauchte und
 meinte erst nach geraumer Weile: »Ich könnte diese Schlußfolgerungen
@@ -579,6 +579,7 @@ zur dritten Tür hier im Oberstock, schalteten das Licht ein,
 auf dem billigen Schreibtisch am Fenster lag ein Briefbogen:
 
 <@pagebreak/>
+
 > Ich habe Orlik nach kurzem Streit erstochen. Ich scheide
 freiwillig aus dem Leben.
 
@@ -634,12 +635,12 @@ Kettner, — mal ehrlich … Waren Sie soeben im Park?«
 
 »Ich?!« Der Farmer lachte derb. »Ich?! Herr Harst,
 wenn Sie *die* Schmerzen im Fuße hätten wie ich, würde
-Ihnen der Gedanke zu Spaziergänge vergehen! — Was sollte
+Ihnen der Gedanke an Spaziergänge vergehen! — Was sollte
 die Frage?«
 
 »Oh, sie bezog sich mit auf die betupften Fliegen, Herr
 Kettner …« Seine Augen wanderten hin und her, blieben
-auf Kellners gesundem Fuße haften, wanderten weiter und
+auf Kettners gesundem Fuße haften, wanderten weiter und
 hingen schließlich an dem Telefon auf dem Schreibtisch. »Hier
 ereignen sich merkwürdige Dinge, Herr Kettner«, fuhr er sinnend
 fort. »Man glaubt immer wieder, irgendwo einen
@@ -651,7 +652,7 @@ Der Alte starrte ihn verständnislos an.
 
 »Deshalb — — telefonieren?! Mit wem?!«
 
-»Mit dem Direktor der Anstalt Bruck… — Sie gestatten
+»Mit dem Direktor der Anstalt Bruck … — Sie gestatten
 …«
 
 Kettners Gesicht verriet immer stärkeres ungläubiges Staunen.
@@ -900,7 +901,7 @@ fingerbreit aufmachst und hier Ammenmärchen erzählst, drehe
 ich dir das Genick um! — Raus!! Gute Nacht …!«
 
 Nun, man mußte Emil Kettner nehmen, wie er war.
-Über eins war mir nicht entgangen: Auf seinem Nachttisch
+Aber eins war mir nicht entgangen: Auf seinem Nachttisch
 hatten zwei Revolver gelegen, und als Harald die beiden
 fremden Schwarzen erwähnt hatte, da hatte Kettner die noch
 immer tadellos erhaltenen Zähne so fest zusammengebissen,
@@ -914,6 +915,7 @@ blaurot und dann kalkig-weiß geworden.
 Augustus schlich mit hängendem Kopfe vor uns her und
 wollte wieder in den Oberstock hinauf… Harald hielt ihn
 zurück.
+
 <@pagebreak/>
 »Wo ist der Schlüssel zum Bootsschuppen, Augustus? —
 Dort neben dem Kleiderregal …? — Gut, Schraut und ich
@@ -921,7 +923,7 @@ werden uns draußen ein wenig umsehen. Mäntel und Mützen
 nehmen wir dort vom Kleiderriegel, schließen Sie hinter
 uns die Haustür ab … — Sie und Ihr Herr, ihr seid unglaublich
 töricht, mir die Arbeit so zu erschweren …! Statt offen
-zu sprechen, verstärkt ihr euch hinter Geheimnisse, die wahrscheinlich
+zu sprechen, verschanzt ihr euch hinter Geheimnisse, die wahrscheinlich
 bei Licht besehen bedeutungslos sind. — Keine Widerrede,
 Augustus …! — — Vorwärts, mein Alter, nur keine
 Zeit vertrödeln …!«
@@ -953,7 +955,7 @@ noch immer, und dann flüsterte er hastig:
 
 »Würdest du jetzt sofort versuchen, jenes Boot und seinen
 Insassen festzustellen? Oder würdest du der Eingebung
-des Augenblicks folgen und nur nachsehen, — ob Kettners Boote
+des Augenblicks folgen und nur nachsehen, ob Kettners Boote
 — er besitzt zwei — im Schuppen sind?!«
 
 <@pagebreak/>
@@ -967,7 +969,7 @@ Harst sprach kein Wort, winkte mir nur, wir verließen
 den Schuppen, schlossen ab und legten uns fünf Schritt von
 dem kurzen Bootssteg entfernt in das nasse Gras. Die Regenmäntel,
 die wir da in der Vorhalle vom Kleiderriegel genommen
-hatten, vertrugen diese Behandlung recht Gut, es
+hatten, vertrugen diese Behandlung recht gut, es
 waren dicke Gummimäntel, bereits schadhaft, und Kälte und
 Nässe konnten uns nicht viel anhaben. Gewiß, wie froren etwas,
 aber die Erregung, die eine derartige Menschenjagd mit
@@ -978,7 +980,7 @@ von feinsten Tröpfchen an einsamer Stelle, sei es auf
 dem Wasser, sei es auf dem Lande, zu verweilen, kennt die
 geheimnisvolle Macht, die diesen wallenden Nebelschleiern
 innewohnt. Das Auge ist fast ausgeschaltet, — zerreißt wirklich
-einmal dieser die graue Vorhang durch einen Windstoß,
+einmal dieser dicke graue Vorhang durch einen Windstoß,
 so bleibt immer noch genug Nebel in dem so entstandenen
 Loche übrig, die Gegenstände ringsum bleiben verschwommen
 wie ein völlig verwischtes Bild, und das Loch schließt sich sofort
@@ -1221,7 +1223,7 @@ Selbstmordversuch?«
 
 Sie zauderte diesmal. Sie nickte nur, und jetzt weinte sie,
 beherrschte sich jedoch wieder schnell und erklärte mit größter
-Ehrlichkeit: »Augustus und ich hielten Onkel für … für den,
+Ehrlichkeit: »Augustus und ich hielten Onkel für … für den
 Täter, und …«
 
 Wieder fiel Harald ein: »Also für den Speerwerfer, nicht
@@ -1234,7 +1236,7 @@ würde der Mord kein Rätsel bleiben, und deshalb …«
 »… deshalb haben *Sie* den Speer heute vom Baum
 aus in Augustus’ Stube geschleudert, Sie wußten, daß Sie
 niemand verletzen könnten, es war ein Ablenkungsmanöver,
-so bezeichnet man derartige Versuche, einem Tatbestand zu verschleiern.
+so bezeichnet man derartige Versuche, einen Tatbestand zu verschleiern.
 — Und jetzt die Balkongeschichte, Fräulein Bergner.
 Sie hofften, uns belauschen zu können, die Sorge um Ihren
 Onkel trieb Sie auf den Balkon, als Sie die Tür offen fanden,
@@ -1273,9 +1275,9 @@ Oheim hat Orlik *nicht* ermordet … — Ein sehr verzwickter
 Kriminalfall, eigentlich sind es ja zwei, und dasselbe, was ich
 Ihrem Onkel erklärte, sage ich Ihnen, mein liebes Fräulein
 Koppje: Gerade weil hier zwei verschiedenartige Ereignisse
-aber Geschehnisse oder Tatbestände, wie wir’s auch nennen
+oder Geschehnisse oder Tatbestände, wie wir’s auch nennen
 wollen, ineinander laufen und sich vermischt haben, sind auch alle
-Fährten, höchst unklar und widerspruchsvoll. — Nun noch
+Fährten höchst unklar und widerspruchsvoll. — Nun noch
 eine letzte Frage, und dann wollen wir zu Bett gehen, wir
 haben wohl alle etwas Ruhe nötig …«
 
@@ -1295,7 +1297,7 @@ das stimmt, und nie schlug in einer Negerbrust ein …«
 
 Doch Harald war auch jetzt für überschwängliche Gefühlsäußerungen
 nicht zu haben. »Das glaube ich alles, liebes 
-Fräulein, — mir kommt es im Jugendlich aber nur auf eins
+Fräulein, — mir kommt es im Augenblick aber nur auf eins
 an: Haben *Sie* dieses Geständnis je in der Hand gehabt,
 oder genauer gesagt: Haben Sie diese Papiersorte vorrätig,
 stammt dieses Blatt von Ihnen, haben Sie es je angefaßt?!
