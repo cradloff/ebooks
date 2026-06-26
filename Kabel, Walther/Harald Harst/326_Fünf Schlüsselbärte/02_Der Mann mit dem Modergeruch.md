@@ -26,7 +26,7 @@ Harald schaltete seine Taschenlampe ein und streichelte
 den Hund. »Man hat dich wohl als Wegweiser geschickt, alter
 Kerl … Nun, zunächst möchte ich hier oben auf der Galerie
 einiges erledigen … — Schraut, nimm ihn mit der Linken beim
-Halsband, und mit der rechten triff besser als die Gestalt
+Halsband, und mit der Rechten triff besser als die Gestalt
 hinter dem Pfeiler, falls es nottut … schieße jedoch keine
 Klapperschlangen tot, die sich nachher als harmlose Blindschleichen
 entpuppen!«
@@ -56,7 +56,7 @@ Reste eines kleinen Teppichs lagen, und kratzte mit der
 Messerklinge in einer breiten Dielenritze. Mit einem Male
 taumelte er zurück, ein scharfes Knistern war an mein Ohr
 gedrungen, das Standbild war für eine Sekunde in Licht getaucht,
-der Hund knurrte, und Harald sagte ärgerlich.
+der Hund knurrte, und Harald sagte ärgerlich:
 
 »Ich Esel!!«
 
@@ -85,7 +85,7 @@ waren nicht zu finden, wenigstens nichts von Bedeutung.
 
 Ähnlich sah es in den Nebenräumen aus. Harald hielt
 sich hier auch nicht länger auf und wandte sich der Pendeltür
-zu. Wir schrittet den Flur entlang, fanden eine zweite,
+zu. Wir schritten den Flur entlang, fanden eine zweite,
 ganz einfache Treppe und gelangten auf den Dachboden, wo
 uns sofort ein dicker Ast der Kiefer ins Auge fiel, der
 das Dach eingedrückt hatte. Und hier entdeckten wir erdige
@@ -107,7 +107,7 @@ war ein Jammer, daß dieses kunstvolle, altertümliche Stück
 mit der hohen und tiefen Feuerung ebenfalls dem allgemeinen
 Verfall preisgegeben war.
 
-Leo drängte sofort nach diesem Kamm zu, an dem die
+Leo drängte sofort nach diesem Kamin zu, an dem die
 Türen und die Vorsatzgitter bereits fehlten.
 
 »Laß ihn nur«, meinte Harald …
@@ -130,7 +130,7 @@ auf den Boden gelegt, und hier sollten wir Gerald Woltan
 in einer für ihn recht beschämenden Lage wiedersehen.
 
 Das junge Mädchen erklärte sehr sachlich und ehrlich:
-»Meine Herren, ich habe sie beide heute schätzen gelernt
+»Meine Herren, ich habe Sie beide heute schätzen gelernt
 … Ich brauche Hilfe. Seit Wochen ereignen sich hier in der
 Umgebung von Borkow allerlei dunkle Dinge, die ich längst
 hätte der Polizei unterbreiten müssen. Das Attentat heute
@@ -149,11 +149,11 @@ ihren Blicken ruhig stand.
 Das schneidige Schloßfräulein deutete auf zwei altmodische
 Sessel. »Nehmen Sie Platz, meine Herren … Ich möchte Ihren
 Rat einholen. Sie scheinen nicht nur vom Angeln etwas zu
-verstehen …« ihr Ton wurde eigentümlich tastend, und ich
+verstehen …« Ihr Ton wurde eigentümlich tastend, und ich
 fühlte, daß sie an die »Gerichtsvollzieher« nicht recht
 glaubte. »Sie sind natürlich hierher gekommen, um sich nach
 Frederich umzusehen … Was geschah oben im Kavalierhause?
-Ich hörte zwei Schüsse, einen Schrei … — sie auch?«
+Ich hörte zwei Schüsse, einen Schrei … — Sie auch?«
 
 Harald nickte flüchtig. »Allerdings … — Ich möchte
 Sie bitten, Fräulein Winnbrick, uns nicht … aushorchen zu
@@ -214,7 +214,7 @@ Frederich?«
 »Bozen …?! — Nein … Wie kommen Sie denn darauf, Herr
 …«
 
-»… Häberlein, so heiße ich. — Das ist ja ein netter Rattenkönig
+»… Häberlein, so heiße ich … — Das ist ja ein netter Rattenkönig
 von Unklarheiten! Selbst Sie wissen nicht alles? Auch nichts
 von den hunderttausend Pfund Sterling und fünf zersägten
 Schlüsseln?!«
@@ -225,14 +225,15 @@ Der alte Mann drehte den Kopf zur Seite.
 bestimmt.
 
 Herta Winnbrick rief atemlos: »Was — — soll den das?!
-Hundertausend Pfund Sterling?!« Harald pfiff leise durch
-die Zähne …
+Hundertausend Pfund Sterling?!«
+
+Harald pfiff leise durch die Zähne …
 
 »Ach so!! — Also stimmt die Sache doch!! Unglaublich,
 was der Haß alles fertig bringt …«
 
 Doktor Woltans Lager erklang ein tiefes verzweifeltes
-stöhnen … Die traurigen Augen des jungen Engländers ruhten
+Stöhnen … Die traurigen Augen des jungen Engländers ruhten
 in denen des Mädchens, das ihn überwältigt hatte.
 
 »Das Schicksal ist grausam …«, meinte er mit zuckenden
@@ -253,7 +254,7 @@ er Herta Winnbrick mit einiger Spannung: »Kennen Sie die
 Malerin Margrit Lawton, die im Kreuzweg-Krug wohnt?«
 
 »Vom Sehen, persönlich nicht … Mit meiner Mutter ist
-sie nicht verwand, — es gibt so viele Leute mit dem Namen
+sie nicht verwandt, — es gibt so viele Leute mit dem Namen
 Lawton …«
 
 »Das stimmt … — Und was gedenken Sie nun zu tun?«
@@ -263,7 +264,7 @@ Das Mädchen zuckte hilflos die Achseln. »Ich weiß nicht
 
 »Ich mache Ihnen einen Vorschlag«, erklärte Harald
 bedächtig. »Doktor Woltan gibt mir sein Wort, daß er von
-hier direkt in sein Hotel in Rheinberg zurückkehrt und dieses
+hier direkt in sein Hotel in Rheinsberg zurückkehrt und dieses
 nicht eher verläßt, bis ich es ihm gestatte. — Sind Sie
 einverstanden, Doktor Woltan?«
 
@@ -302,18 +303,18 @@ war inzwischen entfernt worden.
 
 Ich fühlte mich wie zerschlagen, ich ließ Harst rudern,
 und doch brannten mir so zahllose Fragen auf der Zunge,
-daß ich die wenigstens die eine beantwortet haben wollte:
+daß ich wenigstens die eine beantwortet haben wollte:
 »Harald, woher kam die Musik?«
 
 Er lachte … »Sahst du nicht das Grammophon in dem geheimen
 Gemach, mein Alter? Sahst du nicht die horizontalen Luftschächte,
-die dem Zimmer frische Luft zuführen? Alles findet schließlich
+die dem Zimmer frische Luft zuführen? — Alles findet schließlich
 eine schlichte Deutung, und das ist ja das Schöne dabei
 … Genau wie der leuchtende Reitersmann auf der Galerie …«
 
 Das Boot stieß bereits gegen den Steg, wir ketteten
-es fest und umschritten den düsteren Kreuzweg Krug. Vorn
-in der Gaststube saß bei einer billigen elektrischem Stehlampe
+es fest und umschritten den düsteren Kreuzweg-Krug. Vorn
+in der Gaststube saß bei einer billigen elektrischen Stehlampe
 der plumpe Gustav Gnatz hinter einem Glase dampfenden Grogs
 …
 
@@ -327,7 +328,7 @@ trübe Beleuchtung machte sein Gesicht noch kantiger …
 »Waren Sie dort?«, brummte er gereizt.
 
 »Zufällig … Wir wollten uns den alten Kasten mal ansehen
-… — schläft Ihre Frau schon?«
+… — Schläft Ihre Frau schon?«
 
 »Was geht Sie meine Frau an!«, polterte der mürrische
 Mann heraus …
@@ -364,7 +365,7 @@ aber klarer wie Sie, Gnatz! Gute Nacht!«
 Der zurückbleibende Mann am Tisch hatte Falten wie
 Wülste auf der Stirn und stierte starr in sein Grogglas.
 
-Ich aber hatte wer weiß was darum gegeben, wenn ich
+Ich aber hätte wer weiß was darum gegeben, wenn ich
 aus dieser Geschichte schlau geworden wäre. Wie kam Harst
 dazu, Gnatz zu warnen? Wer hatte auf Gnatz geschossen, wer
 auf seine Frau?!
@@ -492,7 +493,7 @@ straff aufgerichtet, im Arm die Jagdbüchse …
 
 »Herr Harst, kehren Sie um«, sagte sie sehr bestimmt.
 »Ich treffe Sie beide hier verkleidet ohne Berechtigung
-auf fremdem Besitz! Kehren Sie um! Machen sie mir das Leben
+auf fremdem Besitz! Kehren Sie um! Machen Sie mir das Leben
 nicht noch schwerer, als es ohnedies für mich ist.«
 
 Ihr Gesichtsausdruck verriet eine eherne Entschlossenheit.
@@ -527,7 +528,7 @@ Dann siegte doch das bei ihr stark entwickelte Ehrlichkeitsgefühl,
 und mit einem gewissen Trotz entgegnete sie: »Ja, ich habe
 sie …!«
 
-Harald verneigte sich. »Was war tapfer von Ihnen …
+Harald verneigte sich. »Das war tapfer von Ihnen …
 — Und der Geldschrank? Fanden Sie ihn ebenfalls?«
 
 Ihr Temperament ging mit ihr durch … »Wollen Sie mich
@@ -555,7 +556,7 @@ bewohnten Mittelbaues.
 
 »Wo willst du hin?«, fragte ich halb entsetzt, denn
 etwa nochmals derartige Minuten durchleben wie auf der Galerie
-des Kavalierhauses, dafür war im bereits zu abgekämpft.
+des Kavalierhauses, dafür war ich bereits zu abgekämpft.
 
 »Zu Margrit Lawton«, rief er mir ins Ohr. »Den Grundriß
 des Schlosses haben wir daheim genügend studiert … — folge
@@ -571,7 +572,7 @@ und dem Kellereingang …
 <h3>Die Kerker der Borkows.</h3>
 
 Schloß Borkow als historisches Bauwerk ist von Fachleuten
-oft besucht und oft beschreiben worden. Zu unseren Vorstudien
+oft besucht und oft beschrieben worden. Zu unseren Vorstudien
 für die Reise nach Borkow hatte auch die Durchsicht der
 ganzen einschlägigen Literatur gehört. — Unten in den
 trockenen Kellergewölben, in denen die Borkows einst nicht
@@ -629,7 +630,7 @@ und sichtlich verwirrt den Kopf. Er hatte die Mauer, den
 Steinboden und die Steindecke abgeleuchtet, — daß hier eine
 Geheimtür vorhanden, war unmöglich. Man hätte die Umrisse
 der Tür erkennen müssen. Wäre ein Teil des Mauerwerks beweglich
-gewesen, hätten sich die Kanten schon durch das fehlen der
+gewesen, hätten sich die Kanten schon durch das Fehlen der
 Alterspatina von Flechten und Schimmelpilzen bemerkbar gemacht.
 
 Nichts davon …
@@ -681,7 +682,7 @@ auf, — wer weiß, was hinzukam, ihr die Augen zu öffnen,
 jedenfalls erkannte sie, daß schon seit Wochen zwischen
 ihrer Stiefmutter und diesem Weibe geheime enge Beziehungen
 bestanden hatten … Nun, du kennst das Mädel …! Sie hat
-Wut, Kraft, Temperament, — sie hat diesmal wohl kräftiger
+Mut, Kraft, Temperament, — sie hat diesmal wohl kräftiger
 zugeschlagen als bei Gerald Woltan, sie schleppte die Betäubte
 hier hinab und erzwang ein Geständnis … und ließ die Gefangene
 eingesperrt und ging auf die Suche nach dem Tresor. — *So*
@@ -712,7 +713,7 @@ einzelnen Personen verriet, die an dir vorüberschlichen
 … Inzwischen hatte jedoch Herta den Doktor erwischt, Gnatz
 aber entging dem neuen Anschlag der Malerin nur durch die
 Hilfe der einen Person, die so stark nach Moder duftete.
-Übrigens durfte auch diese Margrit, die den Teufel im Leibe
+Übrigens dürfte auch diese Margrit, die den Teufel im Leibe
 hat, mich an meinem persönlichen Geruch — Zigaretten — erkannt
 haben. Ich werde mich für spätere Fälle in dieser Hinsicht
 mehr in acht nehmen. So, und nun Schluß — wir müssen die
@@ -777,7 +778,7 @@ wenig davon. Sogar in alten Wohnhäusern von Patriziern hat
 man in Nürnberg, Hamburg, Augsburg bei Reparaturarbeiten
 zufällig derartige Durchschlüpfe  entdeckt, deren Kenntnis
 längst verloren gegangen war. — Hier nun konnte es kaum
-zweifelhaft sein, daß Herta Winnbricks in ihrem kecken Draufgängertum
+zweifelhaft sein, daß Herta Winnbrick in ihrem kecken Draufgängertum
 das ganze Schloß Borkow gründlichst untersucht und vielleicht
 alte Urkunden aufgestöbert hatte, die ihr diesen Zugang
 verrieten. —
@@ -816,7 +817,7 @@ Handwerkszeug fehlte.
 
 Der Eisenschrank war leer — bis auf eine englische
 Zeitung, auf deren Vorderseite eine längere Notiz dick und
-schwarz mit Tinte umrandet war. Sie besagte, das am 15.
+schwarz mit Tinte umrandet war. Sie besagte, daß am 15.
 Oktober 1915 in London zwei deutsche Spione standrechtlich
 erschossen waren, offenbar deutsche Offiziere, die sich
 geweigert hatten, ihre Namen zu nennen und kaltblütig den
@@ -842,7 +843,7 @@ die Malerin in den leeren Raum, den wir soeben verlassen
 haben. Sie konnte die verschlossene Tür, die hierher führte,
 nicht öffnen, und wollte nun vom Ostflügel hier einzudringen
 versuchen … Aber *er* überwachte sie … *Er* war hier, er nahm
-Margrit und Herta und das Gold mit … Er hatte die passenden
+Margrit und Herta und das Geld mit … Er hatte die passenden
 Schlüssel zu den Türen und zu den Yale-Schlössern. Bekanntlich
 liefern die Eisengeschäfte zu jedem Yale-Schloß zwei Schlüssel,
 — falls mal einer verloren geht …«
@@ -918,7 +919,7 @@ Male hatte er es gar nicht mehr so eilig.
 
 »So — also Fred Murley vom Geheimdienst«, meinte er
 in einem Tone, als handelte es sich um eine bloße Feststellung.
-»Bei uns im Deutschland kennt man diese dritte Kategorie
+»Bei uns in Deutschland kennt man diese dritte Kategorie
 von Polizeiorganen nicht … Wir kennen nur Polizei und Kriminalpolizei.
 Ihr englischer Geheimdienst hat unbedingt den Vorzug und
 Vorteil, daß dessen Beamte der anderen Polizei unbekannt
@@ -937,12 +938,12 @@ Tresor geöffnet haben kann?! Die Schlüssel waren doch zersägt!
 Wer war diese Person?!«
 
 »Ich kenne sie nicht«, entgegnete Harald achselzuckend.
-»Frederich war es auf keinem Fall … Der ist durch den Streifschuß
-außer Gefecht gesetzt. — Vielleicht erzählen Sie und Schraut
+»Frederich war es auf keinen Fall … Der ist durch den Streifschuß
+außer Gefecht gesetzt. — Vielleicht erzählen Sie nun Schraut
 nochmals die Geschichte über den Bankraub … Ich möchte mir
 derweil etwas sehr gründlich überlegen … Jetzt darf ich
 ja getrost wieder meine Zigaretten vertilgen, nachdem auch
-sie Schlaukopf mich an dem süßlichen Geruch erkannt haben
+Sie Schlaukopf mich an dem süßlichen Geruch erkannt haben
 …« — Er lächelte schwach … Die Gedanken, die ihn beschäftigten,
 schienen sehr ernster Natur zu sein.
 
@@ -951,13 +952,13 @@ wurde die City-Bank beraubt, der Verdacht richtete sich
 gegen Lawton, der eine ganze Bande von Edelgaunern um sich
 geschart hatte, die er nachher um die Wette betrog. Er floh,
 seine Spur wies nach Nordafrika, Kollegen verfolgten ihn,
-merkten bald, das noch jemand hinter ihm her war, ein einzelner
+merkten bald, daß noch jemand hinter ihm her war, ein einzelner
 Mann von unglaublicher Zähigkeit und Verschlagenheit. Die
 Jagd währte sehr lange, endlich hatten meine drei Kollegen
 in einem Dorfe an der kurdischen Grenze das Wild eingekreist,
 im letzten Augenblick entkam Lawton abermals, und man verlor
 ihn aus den Augen, fand nur den von Kurden erschossenen
-Herrn von Borkow und glaubte im diesem den Fremden zu erkennen,
+Herrn von Borkow und glaubte in diesem den Fremden zu erkennen,
 der so eifrig hinter Lawton her gewesen. Wieder Tage später
 entdeckte man im Gebirge eine Leiche, bei der sich Lawtons
 Papiere vorfanden, jedoch kein Geld … Beide Tote, sowohl
@@ -1013,10 +1014,10 @@ herabhing. — Wir mußten uns mühsam durch die Trümmer einen
 Weg bahnen, sahen aber, daß vor uns schon andere diesen
 ungemütlichen Aufstieg gewagt hatten. Als wir ins Freie
  traten, war es inzwischen hell geworden. Wir eilten den
-Berg hinab, ruderten zur Halbinsel, betrafen das Kavalierhaus
+Berg hinab, ruderten zur Halbinsel, betraten das Kavalierhaus
 durch den Vordereingang, und nun erst bequemte sich Harald
 zu einem kurzen Rückblick auf die Ereignisse der verflossenen
-Nacht, indem er auf die ausgerollten, zerfaserten Teppichreste
+Nacht, indem er auf die aufgerollten, zerfaserten Teppichreste
 deutete, über die er gestolpert war, als der Doktor Lawton
 — nennen wir ihn nunmehr Lawton — nachsetzen wollte und
 dann so plötzlich verschwand.
@@ -1033,7 +1034,7 @@ hing nicht«, verbesserte er sich lächelnd, »sondern ich
 … versank … sehr schnell … Ich fühlte und hörte, daß der
 Arm der Figur sich mit einem Ruck nach unten bewegte, und
 ich rutschte samt Sockel und Figur in die Tiefe, fand mit
-den Beinen festen Boden und ließ den Arm der Figurlos, —
+den Beinen festen Boden und ließ den Arm der Figur los, —
 hörte wieder ein Knirschen und Ächzen und ein Knacken, zog
 meine Reservelampe aus der Tasche und beleuchtete den Ort,
 in den ich auf so sonderbare Art gelangt war. Ich fand mich
@@ -1051,7 +1052,7 @@ Zigarre und eine Schachtel Zündhölzer und ein Paket Kerzen
 mir die Ziegelwand, die die Treppe abschloß, beschaute,
 fiel mir ein heller Fleck auf … Es war ein Loch, etwa faustgroß,
 und ich konnte durch dieses Loch in den verborgenen Raum
-hineinblicken, von denen ich Ihnen vorhin erzählte, den,
+hineinblicken, von dem ich Ihnen vorhin erzählte, den,
 wo der alte Frederich auf dem Bett lag. Neben Frederich
 bemerkte ich auf einem Stuhl eine zweite Männergestalt …
 Herta war nicht da. Aber sie schien gerade Gerald Lawton
@@ -1127,7 +1128,7 @@ Putzsucht und Verschwendungssucht hatten ihn erst auf die
 Bahn gedrängt, die ihn schließlich zum Falschspieler werden
 ließ. Dieses Weib — dort sitzt sie — war auch die bezahlte
 Spionin, die meine beiden Jungen vor die Gewehrläufe führte,
-— sie nicht der Oberst selbst, raubten mir meine Söhne.
+— sie, nicht der Oberst selbst, raubten mir meine Söhne.
 Deshalb wollte ich diese Frau vernichten, deshalb entwarf
 ich den Plan, sie ins Zuchthaus zu bringen … Dafür ist sie
 jetzt reif … mein Lebensziel ist vollendet, der letzte Borkow

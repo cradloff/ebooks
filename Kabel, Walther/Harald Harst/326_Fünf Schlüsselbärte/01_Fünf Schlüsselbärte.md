@@ -61,7 +61,7 @@ horchend der größere der Gäste, und wer das schwache Aufleuchten
 in seinen grauen Augen gesehen hätte, würde sich vielleicht
 gedacht haben: »Die Sache ist *nicht* abgetan!«
 
-Sogar Gustav Gnatz, der den Kreuzweg Krug sowie 200
+Sogar Gustav Gnatz, der den Kreuzweg-Krug sowie 200
 Morgen Land und den Borkow-See erst vor einem Jahre gepachtet
 hatte, äußerte nun gewisse Zweifel.
 
@@ -229,7 +229,7 @@ Er lächelte stärker … »Die Sache war alles in allem so,
 mein Alter … Der Pfad, den das Fräulein an der Parkmauer
 außen entlanggeritten war, ist von ihr schon sehr oft benutzt
 worden, es gab da alte, neuere und ganz frische Hufspuren
-im Menge … Neben dem Pfade an der Unfallstelle steht ein
+in Menge … Neben dem Pfade an der Unfallstelle steht ein
 dichter, hoher Brombeerstrauch, der sich wie ein Wall den
 Berg hinabzieht. Hinter diesem Strauche lagen Federn, Taubenfedern,
 und ich gehe mit dir jede Wette ein, daß die Stute vor den
@@ -238,7 +238,7 @@ Kasten mitgebracht hatte, scheute und die Reiterin abwarf
 und davonraste. Hinter den Brombeeren waren auch Fußspuren
 zu erkennen, jemand hatte dort gekniet, und dieser Jemand,
 eben Frau Gnatz, schleuderte auch einen Stein gegen die
-Gestürzte, daher die Wunde auf dem Scheitel. Vor Stein lag
+Gestürzte, daher die Wunde auf dem Scheitel. Der Stein lag
 neben der Bewußtlosen, und bekanntlich drückt sich ein halbzentnerschwerer
 Stein, der längere Zeit  an einer Stelle ruht, in den Boden
 ein und verfärbt den Boden auch. Dies war hier nicht der
@@ -284,10 +284,10 @@ die Vorgeschichte unserer Fahrt hierher sprach klipp und
 klar für Haralds Vermutung.
 
 Ich will diese Vorgeschichte jetzt nachholen. Ich hätte
-sie eigentlich am den Anfang setzen müssen, aber es erschien
+sie eigentlich an den Anfang setzen müssen, aber es erschien
 mir für diese ebenso sonderbare wie gefährliche Erbschaftsangelegenheit
 denn doch zu alltäglich, mit dem Besuch einer jungen Dame
-im unserem, Heim in Berlin zu beginnen, also mit einem Klientenbesuch
+in unserem Heim in Berlin zu beginnen, also mit einem Klientenbesuch
 …
 
 <h2>2. Kapitel.</h2>
@@ -300,7 +300,7 @@ bei uns angemeldet hatte, war die abgebaute, stellungslose
 Stenotypistin Wanda von Borkow, die letzte Überlebende des
 ganzen Geschlechts. Sie entstammte einer Nebenlinie der
 märkischen Borkows, und da sie zur Zeit des Todes des letzten
-Schloßherrn Karl-Erich von Borkow im England beschäftigt
+Schloßherrn Karl-Erich von Borkow in England beschäftigt
 gewesen, war ihr das Ableben ihres entfernten Verwandten
 unbekannt geblieben, sie hatte auch nie irgend welche Beziehungen
 zu ihm unterhalten und ihn nie gesehen.
@@ -326,7 +326,7 @@ Schloß Borkow, ohnedies überschuldet, war ihm verleidet,
 er verkaufte es an einen Herrn Winnbrick und reservierte
 für sich bis zu seinem Lebensende nur das sogenannte Kavalierhaus
 auf der Halbinsel im Borkow-See. Mit dem Kaufgeld unternahm
-er weite Reisen, war nach dem Kriege halb als Vagabund im
+er weite Reisen, war nach dem Kriege halb als Vagabund in
 allen Erdteilen und ist denn auch in Vorderasien von räuberischen
 Kurden erschossen worden. Während seiner jahrelangen Wanderfahrten
 sandte er an Justizrat Traub durch einen alten Diener ein
@@ -389,7 +389,7 @@ in Deutschland in der Nähe von Schloß Borkow, Mark in einem
 Kriegsgefangenenlager sich befand.« — Ich schrieb dem Oberst
 dies mit Schreibmaschine in englischer Sprache. Ein Mann
 von solchem Charakter wird auf den Köder anbeißen, liebe
-Wanda, Du brauchst also nur Schloß Borkow zu beobachten.
+Wanda. Du brauchst also nur Schloß Borkow zu beobachten.
 Wenn du den Unternehmungsgeist und die Kühnheit und Opferfreudigkeit
 der Borkows besitzt, wirst du Mittel und Wege finden, den
 alten Schleicher, Falschspieler und Mörder meiner braven
@@ -613,7 +613,7 @@ ein solch verräterisches Kästchen.
 
 Und von Stunde an fühlte ich mit aller Gewißheit, daß
 unser Aufenthalt hier in Borkow nicht so ganz ohne ernsteren
-Austausch von gewissen Unhöflichkeiten abgeben würde. Hier
+Austausch von gewissen Unhöflichkeiten abgehen würde. Hier
 zu rechnete ich Pistolenkugeln, Messerstiche und Ähnliches.
 
 Harst brütete vor sich hin …
@@ -800,7 +800,7 @@ das flinke Anlegen der Büchse und der halb gezischte Befehl:
 
 Man sah diesem schneidigen Mädel wirklich nicht an,
 daß sie vor einigen Stunden bewußtlos im Grase gelegen hatte
-…Ihre Augen sprühten, ihre ganze Haltung warnte uns, und
+… Ihre Augen sprühten, ihre ganze Haltung warnte uns, und
 dabei sah sie geradezu allerliebst aus, freilich kein Mädel
 von modernem Typ, sondern ein frisches, schneidiges Landkind
 mit urgesunden Nerven.
@@ -1037,7 +1037,7 @@ Freundin Herta!
 
 Trotzdem ging Harst über die Sache mit ein paar nichtssagenden
 Redensarten hinweg, und gegen neun Uhr rüsteten wir zum
-Ausbruch, um die Aalschnüre zu legen, die uns Gnatz bereitwillig
+Aufbruch, um die Aalschnüre zu legen, die uns Gnatz bereitwillig
 geliehen hatte. Wir merkten, daß er von unserer Erfahrung
 allen Respekt bekommen hatte, und er half uns selbst, das
 Boot flott machen und wünschte uns glückliche Heimkehr.
@@ -1084,7 +1084,7 @@ Dreigestirn unter einen Hut? Schließlich hieß der Fall doch
 »Unheimliche Erbschaft«, und wenn schon Attentat zwei und
 drei in das Gesamtbild hineinpaßten, — weshalb sollte das
 junge Mädchen aus dem Wege geräumt werden?! Haralds Annahme,
-das Mutter und Tochter Winnbrick aus dem Schlosse entfernt
+daß Mutter und Tochter Winnbrick aus dem Schlosse entfernt
 werden sollten, erschien mir etwas sehr weit hergeholt.
 —
 
@@ -1146,7 +1146,7 @@ und ein schriller Aufschrei verklang in dem Heulen eines
 Windstoßes, der durch die Löcher in den Scheiben drang und
 irgendwo eine Tür ins Schloß schmetterte.
 
-Um uns der war Finsternis … sie gebar Spukgestalten,
+Um uns her war Finsternis … sie gebar Spukgestalten,
 aber Harsts Finger, die mein Handgelenk umspannten, verstärkten
 den Druck zur Unerträglichkeit …
 
@@ -1186,7 +1186,7 @@ die unten durch zwei polierte Säulen flankiert war, auf
 denen holzgeschnitzte Amoretten standen. Die Stufen waren
 mit Resten eines Läufers belegt, den ungezählte Generationen
 von Mäusen zum Bau ihrer Nester zernagt und weggeschleppt
-hattet. Die Treppe stieg in gerader Linie zu einer schmalen
+hatten. Die Treppe stieg in gerader Linie zu einer schmalen
 Galerie empor, — — mehr konnte und wollte ich vorläufig
 nicht feststellen.
 
@@ -1201,7 +1201,7 @@ mir in der Vorhalle wiederum ein Knistern und Knarren ertönte
 und ich am Knarren der Stufen merkte, daß jemand sich mir
 näherte.
 
-Ich drückte mich eng an die Wand, aber im hatte Pech,
+Ich drückte mich eng an die Wand, aber ich hatte Pech,
 ich war gerade an eine Stelle geraten, wo sich eine Pendeltür
 befand, der eine Türflügel drückte sich nach innen, und
 sofort spürte ich die leise Zugluft, die infolge der zerbrochenen
@@ -1307,7 +1307,7 @@ das sich gleichsam blitzschnell verdichtete und eine bestimmte
 Form annahm …
 
 Die Form einer hohen Statue im Reitermantel mit breitem,
-Federgeschmücktem Hut … Es war eine Statue, — ob nur Gips
+federgeschmücktem Hut … Es war eine Statue, — ob nur Gips
 oder Marmor war nicht zu erkennen. Jedenfalls war es ein
 Reitersmann aus der Zeit des dreißigjährigen Krieges mit
 Schnurrbart und Knebelbart, und die eigentümliche Lichthülle,
@@ -1336,7 +1336,7 @@ Der Wind schwieg …
 Nur ein Säuseln blieb …
 
 Harald hatte mein Handgelenk lose umfaßt … Sein Atem
-streife mich …
+streifte mich …
 
 »Still, — — er kommt …!«
 
