@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">ba03d362-f3d7-4cbf-bd49-e69c0f541909</entry>
+<entry key="title">Der weiße Maulwurf</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">325</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Der weiße Maulwurf
+
+In der Parkstraße des Berliner Vorortes Dahlem saßen auf den Bänken der Kinderspielplätze dieses breiten, urwüchsigen Waldstreifens vereinzelte Pärchen und lauschten den Tönen eines Lautsprechers der nahen Villen, der bei offenen Fenstern in voller Tonstärke die Hauptmotive aus dem »Rosenkavalier« von Strauß wiedergab.
+
+Auch die große Villa des Generaldirektors Lüning lag einem dieser Spielplätze schräg gegenüber, die Fensterfront war jedoch dunkel, nur neben dem Wintergarten schimmerten ein paar helle Streifen: Die Fenster des Salons der Gattin des Generaldirektors, die soeben den Freund des Hauses, Doktor Gerbert für einige Zeit beurlaubt hatte.
+
+Er wollte mit seinem Motorrad noch schnell im Postamt Grunewald eine dringende Depesche aufgeben.
+
+Das war etwa zehn Minuten vor zehn …
+
+Gleich darauf bemerkte ein jüngerer Mann, der mit seiner derzeitigen Braut auf einer der Bänke saß, ein gewisser Baluschewski, im Gebüsch etwas Blankes liegen, — es war ein Motorrad.
+
+Das alte Fräulein Födösy
+
+Die zwanzig Minuten Fußweg bis zur Villa Lüning brachten mir zwei Überraschungen.
+
+Die erste bestand darin, daß ein Schupobeamter, dem unser Kostüm allzu fragwürdig erschien, uns anhielt und mit der bei unserer vielgeplagten Polizei üblichen Höflichkeit nach unseren Papieren und nach »Woher« und »Wohin« fragte. Dazu war er verpflichtet, und nachher wurde er desto liebenswürdiger …
+
+Die zweite Überraschung führte ich durch eine Frage herbei, die gleichfalls den Umständen angemessen war. Harald hatte vor dem Aufbruch nur kurz geäußert, er wolle den Bau des weißen Maulwurfs suchen. Diese Erklärung mußte mich stutzig machen, und ich schnitt die Frage nunmehr mit aller Sachlichkeit an.
+
+»Wenn du von einem »Bau« sprichst, mußt du Beweise haben, daß in dem ausgedehnten Park irgend etwas diesen »Bau« darstellen könnte«, meinte ich in einem Tone, der eine klare Antwort forderte.
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (325) Der weiße Maulwurf.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1932</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
