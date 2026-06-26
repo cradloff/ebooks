@@ -193,7 +193,7 @@ Routine. — Wäre es nicht wirklich besser, wir gingen Hand
 in Hand gegen diesen Menschen vor, der den Verwalter Giesecke
 ermordete, weil …«
 
-Doktor Bolk wehrte durch eine ebenso höfliche wie Entschiedene
+Doktor Bolk wehrte durch eine ebenso höfliche wie entschiedene
 Geste ab. »Ich bedaure … Und einem Manne
 wie mir, der es wagt, in der Mansarde der Tanz-Villa, also
 auf feindlichem Boden, eine solche Falle vorzubereiten, dürfen
@@ -229,7 +229,7 @@ ansehen, in dem die Razzia stattfand. Vielleicht
 spielt Arthur Prill nicht nur die »Agna Niemand«, sondern
 auch noch andere Rollen …«
 
-Agna — Niemand?! Prill?! — — Eigentlich schämte
+Agna Niemand?! Prill?! — — Eigentlich schämte ich
 mich etwas, eigentlich hätte ich allein daran denken können.
 Frau Niemand hatte ja wegen Migräne das Bett hüten müssen,
 — so hörten wir’s von der Terrasse! — Und während
@@ -240,7 +240,7 @@ und … sich blamiert …!
 <h3>Der Keller »Zum krummen Haken«.</h3>
 
 Wieder war’s ein ähnlich regnerischer, frostiger Abend
-wir gestern, wo in der Scheunenstraße die gellenden Pfiffe und
+wie gestern, wo in der Scheunenstraße die gellenden Pfiffe und
 das Geschrei der Volksmenge an den schmierigen Fronten
 der Mietskasernen zurückgeprallt waren und dann urplötzlich
 jene atembeklemmende Stille eingetreten war, weil der Mann
@@ -275,7 +275,7 @@ Geschicklichkeit, auf den Bahnhöfen Grünlinge abzufangen, zu
 verschleppen und »auszumisten«, war fabelhaft, wobei ihm
 allerdings seine bierehrliche Visage sehr zustatten kam. Auch
 Rudis heutige »Freunde« mußten Grünlinge von auswärts
-sein, offenbar Maurer, den sie trugen ihr Handwerkszeug
+sein, offenbar Maurer, denn sie trugen ihr Handwerkszeug
 in große bunte Schnupftücher eingeknotet bei sich, waren nicht
 mehr ganz jung, sahen etwas sehr trinkfroh aus, der eine hatte
 nur ein Auge und ein schwarzes Pflaster über der scheinbar
@@ -388,7 +388,7 @@ Alter …! So gewiß Bolks Blut, wie meine Hände ekelhaft
 nach Hering stinken. — Weiter also …!«
 
 Jetzt verließ er sich ausschließlich auf die Blutfährte, die
-Immer wieder sichtbar wurde, — Bolks Körper war hier offenbar
+immer wieder sichtbar wurde, — Bolks Körper war hier offenbar
 entlanggeschleift worden.
 
 Wir kamen in die oberen Räume. Totenstille umgab
@@ -938,7 +938,7 @@ Zuhörer, die genügend viel geistige Rührigkeit besaßen,
 um sowohl Arthur Prills fast leichtfertiges Spiel mit
 dem Namen »April« einzusehen als auch zu erkennen, daß nur
 ein Hirn, das jede Kleinigkeit beachtet, aus den vier Zeilen
-die Folgerung ziehen konnte, die zur Entdeckung des wahren,
+die Folgerung ziehen konnte, die zur Entdeckung des wahren
 »Rillart« geführt hatte, des Herrn im Frack, des großen Menschenfängers,
 <@pagebreak/>
 des noch größeren Schauspielers! — Daß Frau
@@ -999,7 +999,7 @@ Schon diese Art Begrüßung bewies, daß Bechert durchaus
 im Bilde sein mußte.
 
 »Wir wollen aber besser in Ihr Zimmer gehen und dort
-die Unterredung fortsetzen«, — er verbeugte sie vor dem Ehepaar
+die Unterredung fortsetzen«, — er verbeugte sich vor dem Ehepaar
 Bolk und nannte seinen Namen. »So ganz uneingeweiht,
 wie Harst glaubte, sind wir den doch nicht. Immerhin,
 die Sache muß spruchreif werden, eine derartige Überfülle
@@ -1020,7 +1020,7 @@ und als heute nacht urplötzlich der Sturm auf Schofför
 Veits Haus einsetzte, waren wir fast genau so flink, wir haben
 auch Joseph Veit noch erwischt und etwa zwei Dutzend unangemeldeter
 Ausländer, die wohl sämtlich amerikanische schwere
-jungen sein dürften, Prills Elitekorps … Ebenso ist das
+Jungen sein dürften, Prills Elitekorps … Ebenso ist das
 Hehlernest nun ausgehoben, Herr Prill hatte da mit seinen
 Kerlen Maulwurf gespielt, — — das alles so nebenbei. Leider
 ist der elegante Arthur selbst entkommen, — ein fabelhafter
@@ -1033,7 +1033,7 @@ an Frau Bolk. »Sie sind doch eine geborene Prill, Frau
 Doktor … Ich habe Sie heute, gestern und vorgestern persönlich
 so etwas beobachtet, Sie waren vorgestern bei Arthur
 Prill in der Scheunenstraße, der Besuch dauerte eine halbe
-Stunde … «— Becherts kühle Augen ruhten fest auf den
+Stunde …« — Becherts kühle Augen ruhten fest auf den
 farblosen Zügen der jungen Frau. »Was wollten Sie dort?
 — Er ist Ihr Halbbruder, gut … Aber dem Gesichtsausdruck
 Ihres Gatten nach zu schließen weiß dieser nichts von
@@ -1211,7 +1211,7 @@ aber auch Harriets eisige Drohung:
 
 »Hüten Sie sich, — — wir sehen uns wieder, Herr Harst!«
 
-Daheim gab er von Seiten Frau Bolks viel Tränen, viel
+Daheim gab es von Seiten Frau Bolks viel Tränen, viel
 Selbstvorwürfe. Ehrlich gesagt, wir waren froh, als das
 völlig niedergeschlagene Ehepaar sich verabschiedete und im
 Morgengrauen in einer Autotaxe nach Schloß Dreieichen hinausfuhr.

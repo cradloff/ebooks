@@ -300,7 +300,7 @@ für ein Wespennest wir da in der Scheunenstraße hineingegriffen
 hatten.
 
 <h2>2. Kapitel.</h2>
-<h3>Das, Mädchen, das in Hamburg sein sollte.</h3>
+<h3>Das Mädchen, das in Hamburg sein sollte.</h3>
 
 Bereits während der Verfolgung der Autotaxe Prills hatten
 wir das jähe Verschwinden des Ingenieurs Theo Winter
@@ -309,7 +309,7 @@ Annahme gelangt, daß »Winter« die gut geölte Pforte
 der Hofeinfahrt lautlos geöffnet und sich auf den Hof geflüchtet
 hatte.
 
-»Diese Sache muß sofort aufgeklärt werden«, entschloß
+»Diese Sache muß sofort aufgeklärt werden«, entschied
 Harst mit jener Entschlossenheit, die ihn in entscheidenden
 Augenblicken nie verläßt. »Die Tanzschule Agna Niemand
 und all das andere hat Zeit, mein Alter. Aber diesen angeblichen
@@ -323,7 +323,7 @@ Er gab unserem Schofför die nötigen Anweisungen, und
 gerade als unser Wagen anruckte, strich eine Gestalt hart an
 dem hochgeschlagenem Klappverdeck und dem halb offenen
 <@pagebreak/>
-Fenster vorüber und warf und eines jener kleinen Papierflugzeuge
+Fenster vorüber und warf uns eines jener kleinen Papierflugzeuge
 vor die Füße, wie Kinder sie so geschickt aus Zeitungen
 zusammenkniffen und hoch in die Luft schleudern und
 an dem Spiralenflug dieses Spielzeugs ihre helle Freude
@@ -412,7 +412,7 @@ hatte nur ein paar Bilder von ihr gesehen, die uns der verängstigte
 Vater Garz damals mitgebracht hatte. Aber — sie
 <@pagebreak/>
 war es, unbedingt! Das kecke Stupsnäschen war nicht zu
-übersehen, zu verkennen, — und erst rechts nicht die großen
+übersehen, zu verkennen, — und erst recht nicht die großen
 lebensklugen Augen mit den kunstvoll nachgezogenen Brauen.
 
 Harald zwang mich zum Abstieg, zupfte an meinen Hosen
@@ -435,7 +435,7 @@ der wie ein Schatten auf die Tür des Kontorhauses zuhuschte
 und hinter der Tür verschwand.
 
 Gleich darauf verließen Erika Garz und derselbe Mann
-den Hofraum, und — — diesmal hinten wir Pech, diesmal hielt
+den Hofraum, und — — diesmal hatten wir Pech, diesmal hielt
 uns die Schloßsicherung zu lange auf, und als wir die Straße
 betraten, war unser Wild auf und davon. Wir hatten auf
 der Straße von den beiden nichts mehr bemerkt, unser Schofför
@@ -484,9 +484,9 @@ mein Freund sagte mit merklich schwerer Zunge:
 … Giesecke wurde ermordet, weil die geheimnisvolle Macht,
 die hinter all diesen Dingen als treibende Kraft steckt, irrtümlich
 angenommen hat, Giesecke habe Theo Winter aus Arthur
-Prills so gut verschlossene Garagenraum hinausgelassen und
+Prills so gut verschlossenem Garagenraum hinausgelassen und
 Giesecke wisse daher zu viel … Deshalb sollte er stumm
-gemacht werden, und wurde paar stumm gemacht … *Nicht*
+gemacht werden, und wurde auch stumm gemacht … *Nicht*
 unseretwegen, — nein, das nicht, — und doch habe ich einen
 groben Fehler begangen: Als wir Winter befreiten, hätten wir
 auch unbedingt die Eisentür und die Schlösser so zurichten sollen,
@@ -669,7 +669,7 @@ beschaffte?! Das war ja an sich sehr nett von Ihnen, nur —
 weshalb nannten Sie sich Erika gegenüber Rillart, weshalb
 ließen Sie es zu, daß Erikas Vater gänzlich verängstigt zu mir
 kam, weil sein einziges Kind für seinen Geschmack in Hamburg
-zu viel Geld verdiente?! Er hatte sie vorher schon an die
+zu viel Geld verdiente?! Er hatte sich vorher schon an die
 Polizei gewandt, er hatte sich dort nur eine Abfuhr geholt:
 »Globus« sei eine einwandfreie Firma!! — Wie gesagt, er
 ist bei mir gewesen, der brave Meister Garz, dort hat er gesessen
@@ -730,7 +730,7 @@ Offensive überzugehen.«
 
 Und der Händedruck, der dann zwischen uns beiden ausgetauscht
 wurde, der war das Siegel unter das Bündnis gegen
-Arthur Prill, den Herr im Frack, den Mörder aus der Scheunenstraße.
+Arthur Prill, den Herrn im Frack, den Mörder aus der Scheunenstraße.
 Was er sonst noch alles verbrochen hatte, wußten
 wir nicht, — damals nicht. Hätten wir es gewußt, — —
 vielleicht würde dieses Bündnis gegen Arthur Prill weniger
@@ -773,7 +773,7 @@ die Vorgeschichte der Jagd auf Arthur Prill.
 
 … Da war der brave Meister Garz zu uns gekommen,
 hatte seinem bedrängten Herz Luft gemacht, hatte, es war ein
-sehr warmer Herbstvormittag — bei uns bei offenen Fenster
+sehr warmer Herbstvormittag — bei uns bei offenem Fenster
 <@pagebreak/>
 gesessen und schließlich seines in Hamburg tätigen Kindes letzten
 Brief hervorgeholt, und in diesem Briefe berichtete Erika
@@ -833,7 +833,7 @@ im ersten Briefe angedeutet hatte, ein Herr von großem Einfluß
 habe sich seiner angenommen, den er »zufällig« in Berlin
 kennen gelernt hätte. — Im übrigen kam dabei dasselbe
 heraus: Auch der greise, bescheidene Rentner wurde mißtrauisch,
-glaubte seinen Manfred auf Abwege, da das Gehalt
+glaubte seinen Manfred auf Abwegen, da das Gehalt
 zu hoch bemessen schien, und wandte sich zuerst an die
 Polizei. Aber dort in Stettin war alles einwandfrei — alles!
 
@@ -987,10 +987,10 @@ Herr … Der Weg ist frei …« — Ich konnte gerade noch
 sehen, wie mein Freund dem Wächter etwas in die Hand
 drückte, wenig wird es nicht gewesen sein, — dann zog er mich
 schnell weiter, am Gartenzaun lehnten drei Kisten, sehr bequem
-für uns, — wir turnten hinüber, standen zwischen regen tropfenden,
+für uns, — wir turnten hinüber, standen zwischen regentropfenden,
 entblätterten Büschen, spürten den Erdgeruch
 des Herbstes und schlichen behutsam vorwärts, Schritt für
-Schritt, vorsichtiger den je, bis die matt erleuchteten Fenster
+Schritt, vorsichtiger denn je, bis die matt erleuchteten Fenster
 der Rückfront des Hauses sichtbar wurden. Im Oberstock
 mußte es den Fenstern nach einen größeren Saal geben, die
 gelben Vorhänge waren geschlossen, Schatten huschten über
@@ -1082,7 +1082,7 @@ Schemen wieder auf, lehnte die Leiter an die Hauswand, —
 Mädchenkopf bewegte sich noch immer in dem von Splittern
 umgebenen Unterteil des Fensters, Harald hatte die Leiter fast
 zu vorsichtig und zu langsam emporgezogen, lehnte sie gegen
-die Dachpfannen, stieg empor, und … ich vernahm ein heisere,
+die Dachpfannen, stieg empor, und … ich vernahm ein heiseres,
 hastiges Flüstern, — er hatte dem Mädchen den Knebel
 abgenommen, er beugte sich nun zu mir hinab und raunte
 mir zu: »Sie ist gefesselt und sehr matt und verängstigt …
@@ -1133,7 +1133,7 @@ Knacken, die Handschellen schnappten zu, und dann wurde mir
 etwas über den Kopf gestreift, ich roch etwas Fades, Scharfes,
 nicht Chloroform, es mußte ein modernes Betäubungsmittel
 sein, die Augen tränten mir, und dann sank ich hinab in die
-Finsternis tiefsten Bewußtlosigkeit … —
+Finsternis tiefster Bewußtlosigkeit … —
 
 Arthur Prill hatte gesiegt, hatte jede Kleinigkeit berechnet
 gehabt, — — dies etwa waren meine letzten Gedanken
