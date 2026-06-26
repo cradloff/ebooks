@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">83af6f28-8d32-42bf-87b6-5e95c7e36ffb</entry>
+<entry key="title">Dr. Fausts Zauberspruch</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">321</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Dr. Fausts Zauberspruch
+
+Der Kriminalrat spuckte die Zigarre plötzlich über Bord …
+
+Soeben hatte der Wind den Nebel wieder gelichtet, und Mondschein und Sterne zeigten gerade voraus ein kleines dunkles Motorboot ohne die vorschriftsmäßigen Laternen.
+
+»Das ist’s!«, flüsterte der junge Offizier … »Ich sehe es nun die dritte Nacht, und …«
+
+»Still! Sie wissen was Sie zu tun haben … Bitte, volle Fahrt und keine Rücksicht!«
+
+Der Kutter schoß vorwärts, der Scheinwerfer blitzte auf, und die Stimme des Offiziers hallte klar und scharf durch das Sprachrohr:
+
+»Stoppen Sie sofort — — hier Wasserpolizei!«
+
+Das Haus, das nie fertig wurde
+
+»… Ich gebe nun zu« — Harsts Stimme wurde noch grüblerischer —, »daß ich wohl eine Lösung des ganzen Fragenkomplexes gefunden habe, die richtig sein könnte und die sich lediglich auf Doktor Faust’s Zauberspruch aufbaut. Aber ihr Fehler liegt darin: Sie bringt uns nicht weiter. Wir wollen uns darüber klar sein, daß nur die Festnahme des ganzen Orchideennestes uns als Ziel vorschweben muß … — Hallo, — — wer dort?!«
+
+Hinter einer Erle tauchte eine dürre Gestalt auf.
+
+»Schnick!«, ertönte eine Grabesstimme. »Ich bin von der Brandstätte verduftet und habe auf eigene Faust spioniert, Herr Harst …«
+
+Er schloß sich uns an.
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (321) Dr. Fausts Zauberspruch.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1932</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
