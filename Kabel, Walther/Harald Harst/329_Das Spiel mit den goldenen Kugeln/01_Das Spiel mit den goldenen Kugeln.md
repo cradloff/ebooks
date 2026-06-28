@@ -10,7 +10,7 @@ mit dürftigen Birken, Krüppelkiefern und ganz vereinzelten
 Buchen bedeckt, aber das Heidekraut stand hoch und üppig
 und hatte sogar noch eine Unmenge zartlila, ins rötliche
 spielenden Blüten an den trockenen Stengeln. Ebenso vereinzelt
-wie die knorrigen Buchen lagen erratische Blöke umher, Urgestein
+wie die knorrigen Buchen lagen erratische Blöcke umher, Urgestein
 aus der Eiszeit, und hinter einem dieser Riesensteine, der
 eine flache Kuppe und eine breite Spalte und einen Kranz
 von Krüppelkiefern hatte, stieg soeben ein kaum merkliches
@@ -98,7 +98,7 @@ zwischen die Zähne nahm, die Rucksäcke packte und sie mit
 sich rückwärts zog und sich in die Spalte des Steines fallen
 ließ.
 
-Dumpf dröhnend schlugen die beiden Sandsäcke auf, —
+Dumpf dröhnend schlugen die beiden Sandsäcke auf, — der
 Mann hatte noch Glück gehabt, ein neues Langblei war ihm
 nur durch die Achsel des Schafpelzes gefahren.
 
@@ -113,7 +113,7 @@ worden waren.
 Der Hakennasige gab seine Sache noch lange nicht verloren.
 Seine Kaltblütigkeit, die jetzt nur durch die Unsicherheit
 über das Ergehen seines Freundes etwas gelähmt war, gewann
-sofort wieder über alte anderen Empfindungen die Oberhand,
+sofort wieder über alle anderen Empfindungen die Oberhand,
 als eine neue Kugel ihm den Hahnenfilz ins Genick riß.
 
 Er duckte sich tiefer, kroch mehr nach rechts in eine
@@ -139,7 +139,7 @@ Freund niedergestreckt hatte.
 Er drehte sich nun in der Mulde wieder nach Norden,
 um nicht von dort überrascht zu werden. Durch die Heidestauden
 lugend, sah er drei frisch aufgeschüttete Erdhaufen, die
-bereits bedenklich nahes gerückt waren.
+bereits bedenklich nahe gerückt waren.
 
 Nochmals kam ihm der Gedankte, alles auf eine Karte
 zu setzen und aufzuspringen, den Freund in das Auto zu tragen
@@ -287,7 +287,7 @@ die Spuren aufgefallen. Mitten auf dem Hofe zeigte sich
 klar ausgeprägt folgendes Fährtenbild (ich habe hier die
 Stiefelspuren durch Punkte angedeutet):
 
-<div class="img"><img alt="Ein Kreuz aus punktierten Linien" src="Scan10001.jpg" style="width: 100%; height: auto;"/></div>
+<div class="img"><img alt="Ein Kreuz aus punktierten Linien" src="Scan10001.jpg" style="width: 50%; height: auto;"/></div>
 
 Die Spuren bildeten also ein Kreuz, dort, wo die Kreuzbalken
 zusammenstießen, war der Schnee zu einem kleinen Kreise
@@ -364,7 +364,7 @@ gründlich.
 
 Wir gingen auf den Hof hinaus, auch die dürre Agnes
 und der unliebenswürdige Paris schlossen sich uns an, und
-nunmehr sahen wir aus allernächster Nähe, das Haralds Behauptungen
+nunmehr sahen wir aus allernächster Nähe, daß Haralds Behauptungen
 unbedingt richtig waren: Der Mann war aus der Luft gekommen
 und wieder in die Luft emporgestiegen, denn die übrige Schneedecke
 war gänzlich unberührt.
@@ -419,7 +419,7 @@ auch nichts davon, Miegel, nur das eine weiß ich: Dieses
 Kreuz wird nicht das einzige dieser Art sein …«
 
 Miegels Frage, was er damit meine, wurde durch das
-schrillen der Flurglocke und durch des lieben Hündchens
+Schrillen der Flurglocke und durch des lieben Hündchens
 satanisches Gebell übertönt.
 
 Herr Franz Emil Karl Kuschenreuter betrat die Szene,
@@ -650,7 +650,7 @@ Nun hatte Harald die Kugel halbiert, nun zeigte er
 mir, daß sie nur aus einer dünnen Golddecke und einem Bleikern
 bestand, aber auch dieser Bleikern war nicht etwa eine Vollkugel,
 sondern enthielt einen geschliffenen Diamant von tadellosem
-Feuer nun etwa zwei Karat Gewicht.
+Feuer und etwa zwei Karat Gewicht.
 
 Ich konnte zu alledem nur den Kopf schütteln.
 
@@ -658,7 +658,7 @@ Ich konnte zu alledem nur den Kopf schütteln.
 
 »Nun, der Diamant ist vielleicht zweitausend Mark wert,
 das Gold, der Goldmantel höchstens zwanzig Mark, das Blei
-gar nichts … — Ich gehe jede Wette ein, das Kuschenreuter
+gar nichts … — Ich gehe jede Wette ein, daß Kuschenreuter
 wußte, was die Kugeln enthielten …«
 
 »So?!« — Mehr brachte ich wirklich nicht heraus.
@@ -692,12 +692,12 @@ Satz über die Zunge zu bringen …
 erschossen … Pistole hat er noch in der Hand — — Schläfenschuß
 …«
 
-Harst beruhigte ihn, zwei Gläser alter Cherry taten
+Harst beruhigte ihn, zwei Gläser alter Sherry taten
 auch das Nötige, der arme Kerl wurde vernünftiger, riß sich
 zusammen und erzählte folgendes. — Sein Herr hatte ihm,
 als sie uns vor einer Stunde verließen, den Befehl gegeben,
 nach einem der südlichen Vororte zu fahren, jedoch auf Umwegen
-und  und möglichst so, daß sie nicht verfolgt werden könnten.
+und möglichst so, daß sie nicht verfolgt werden könnten.
 Der Schofför merkte, wie aufgeregt sein Herr war, kam dem
 Befehl auch nach, und in dem Vorort L. hatte Kuschenreuter
 den Wagen dann für etwa fünf Minuten verlassen. Wohin er
@@ -729,7 +729,7 @@ Ich konnte nur beistimmend nicken.
 
 Harst warf die Haustür zu, draußen fuhr die Limousine
 langsam davon, und Harald ließ sich mit dem Revier verbinden,
-bekam Anschluß mit dem Reviervorstand und klärte ihm über
+bekam Anschluß mit dem Reviervorstand und klärte ihn über
 das traurige Ereignis auf.
 
 »… Kuschenreuter kam gegen halb zehn zu uns und erzählte
@@ -752,7 +752,7 @@ plump-vertrauliche Köchin.
 
 Nach fünf Minuten kam ein Kriminalassistent angeradelt
 und holte die aufgeschnittene Kugel ab und berichtete uns,
-das im Garten der Villa Kuschenreuter das Kreuz leider bereits
+daß im Garten der Villa Kuschenreuter das Kreuz leider bereits
 von der Sonne weggefressen sei. Er schaute uns dabei recht
 forschend an und fragte noch zaghaft: »Können Sie mir nicht
 irgend einen Wink geben, Herr Harst, wie ich diese Sache
@@ -779,7 +779,7 @@ sie sich damals zugetragen haben, und nach meinen damaligen
 Notizen habe ich auch die eine Bemerkung Haralds eingestreut,
 die ich selbst nicht recht verstand, die aber später der
 Angelpunkt des Ganzen wurde. Bitte prägen Sie sich das Vorangegangene
-genau ein, und sie werden dann leichter im Geiste das beschleunigte
+genau ein, und Sie werden dann leichter im Geiste das beschleunigte
 Tempo mitmachen können, das die Ereignisse nunmehr einschlugen.
 
 Es war jetzt halb zwölf vormittags geworden. Harald
@@ -800,7 +800,7 @@ Miegel sagte achselzuckend: »Es ist doch eine Erpressung,
 Schraut! Kuschenreuter muß ein sehr schlechtes Gewissen
 gehabt haben.«
 
-»Wie kam des Kerl, der daß Kreuz herstellte und die
+»Wie kam der Kerl, der das Kreuz herstellte und die
 Kugel niederlegte, auf unseren Hof geflogen?«, fragte ich
 ärgerlich. »Das interessiert mich am meisten …«
 
@@ -815,7 +815,7 @@ Setzeier und zur Not Klopse in Ihrem Programm haben, kündige
 ich Ihnen.«
 
 Miegel lachte trocken und gegen ein Uhr waren wir aufbruchsbereit.
-Unser Sportflitzer brachte uns in kurzem nach Dahlem, wir
+Unser Sportflitzer brachte uns in kurzem nach Dahlem,
 wir sahen die Villa Kuschenreuter zum ersten Male, sie lag
 an einer nur einseitig bebauten Straße ganz einsam, drüben
 erstreckte sich freies Feld bis Zehlendorf hin, und die
@@ -832,7 +832,7 @@ Villa, und der Schofför meldete uns dem alten Herrn, den
 wir in Kuschenreuters Arbeitszimmer antrafen.
 
 Brückner saß am Schreibtisch, die Fenstervorhänge hatte
-er des prallen Sonnenscheins wegen geschlossen, es erhob
+er des prallen Sonnenscheins wegen geschlossen, er erhob
 sich schwerfällig, seine hagere Gestalt war in einen speckigen
 Gehrock eingezwängt, das graue volle Haar trug er künstlermäßig
 glatt zurückgestrichen, und auch sein grauer Spitzbart und
@@ -854,7 +854,7 @@ Ob er nicht einmal Kuschenreuters Schreibtisch durchsuchen
 dürfe …
 
 »Bitte, Herr Harst … Warum nicht? Sie werden dort nichts
-finden, die Polizei fand aus nichts, und …«
+finden, die Polizei fand auch nichts, und …«
 
 Da schlug das Telefon an. — Brückner schlurfte zum
 Schreibtisch, hob den Hörer ab, stand mit dem Rücken zu
@@ -1055,7 +1055,7 @@ selbst und ihr Organ so tadellos in der Gewalt. »Nächste
 Nacht, verstehen Sie mich, — — oder — — es ist aus mit Ihnen
 beiden!!«
 
-Diese Harriet Prill kannte ich noch nicht. Bisher hattet
+Diese Harriet Prill kannte ich noch nicht. Bisher hatte
 sie stets eine unheimliche Selbstbeherrschung gezeigt, immer!
 Mir stand ja das Bild noch so plastisch vor Augen, als sie
 in der Scheunenstraße Berlins den geheimnisvollen Herrn
@@ -1067,7 +1067,7 @@ nicht jene Unterweltskönigin von einst! Sollte ihr die kurze
 Haft in der Irrenanstalt so schlecht bekommen sein?! Sie
 enttäuschte mich geradezu, ihr fehlte jeder Zug ins Große,
 — jetzt war sie nur eine elende Durchschnittsgaunerin mit
-dem Freifahrtschein des Paragraphen 51!
+dem Freifahrtschein des Paragraphen 51<@refnote 1/>!
 
 Und nochmals drohte sie — noch schriller: »Nächste
 Nacht!! Oder … oder …«
@@ -1080,7 +1080,7 @@ ab und fuhr nach rechts in ein gerahmtes Bild an der Wand,
 dessen Glas klirrend in Stücke ging …
 
 Ein zweiter Schuß knallte, — etwa mit derselben Wirkung,
-nur das jetzt die beiden Büchsenläufe blitzschnell verschwanden
+nur daß jetzt die beiden Büchsenläufe blitzschnell verschwanden
 und die Tresortür krachend zufiel …
 
 Gleichzeitig ging die Wandlampe aus, aber Harst hatte
@@ -1121,9 +1121,9 @@ Herr Harst, — daraus werde ich nicht klug. Brückner hatte
 uns alle in die Küche befohlen, weil sie uns vernehmen wollten,
 — — sagte er …«
 
-»Ja — — sagte er!«, nickte Harald gemütlich. »Er wird
+»Ja — — sagte er!«, nickte Harald gemütlich. »Es wird
 vieles gesagt, was gelogen ist … — Treten Sie mal näher,
-Kind … sie sind doch ein aufgewecktes Ding … Ich möchte
+Kind … Sie sind doch ein aufgewecktes Ding … Ich möchte
 nur eine Frage an Sie richten, dann können Sie wieder gehen.
 Pflegte der alte Brückner in letzter Zeit häufiger die Villa
 zu verlassen? Blieb er lange fort, wenn er ausging?«
@@ -1135,7 +1135,7 @@ und die Äcker nach Zehlendorf führt und war stets etwa zwei
 Stunden fort, — — der Arzt hatte ihm die Bewegung an frischer
 Luft wohl verordnet, Herr Harst …«
 
-»Es war eine Ärztin, liebes Kind … — so, ich danke
+»Es war eine Ärztin, liebes Kind … — So, ich danke
 Ihnen … Wenn wir Sie noch brauchen, läuten wir wieder. Bleibt
 nur in der Küche beieinander. Den Schäferhund Hektor und
 den Rasenplatz, wo das Kreuz zu sehen war, schaue ich mir
@@ -1147,7 +1147,7 @@ nachher an …«
 
 Harst schritt auf die andere Tür zu, die vorhin auch
 verschlossen gewesen, — jetzt konnte er sie ohne Mühe öffnen,
-und wir blickten in eine langgestreckte Bibliothek hinein.,
+und wir blickten in eine langgestreckte Bibliothek hinein,
 an deren Wänden hohe Bücherregale aus Eichenholz mit reichen
 Schnitzereien standen. Die Sonne hatte hier durch drei bunte
 Bogenfenster ungehindert Zutritt, der Raum war von einem
@@ -1182,22 +1182,22 @@ fragte Harst stark gedehnt. »Ein geheimer Durchschlupf,
 gleichzeitig ein sicheres Versteck für den Fall der Not,
 und Kuschenreuter rechnete wohl mit irgend welchen Widrigkeiten.«
 Er bückte sich und nahm die Aktenstücke eins nach dem anderen
-in die Hand, legte sie bis auf ein besonderes dicke wieder
-zurück und deutete auf die Aufschrift der Aktendeckels:
+in die Hand, legte sie bis auf ein besonders dickes wieder
+zurück und deutete auf die Aufschrift des Aktendeckels:
 
-<p class='centered'>Abrechnungen Kirchenbau Vorort L., Berlin</p>
+<p class='centered'>Abrechnungen Kirchenbau Vorort L., Berlin,</p>
 
-<p class='centered'>1923 — 24</p>
+<p class='centered'>1923 — 24.</p>
 
-<p class='centered'>Karl Kuschenreuter</p>
+<p class='centered'>Karl Kuschenreuter,</p>
 
-<p class='centered'>Baugeschäft</p>
+<p class='centered'>Baugeschäft.</p>
 
 »Das habe ich gesucht, mein Alter … Daß ich es so schnell
 finden würde, habe ich nicht gehofft. Setzen wir uns. Hier
 sind auch noch die Baupläne eingeheftet … Geht dir nun ein
 Licht auf, weshalb der Mann vor uns mit aller Vorsicht nach
-L. Fuhr? — Mir ging ein Licht auf, als der Schofför dies
+L. fuhr? — Mir ging ein Licht auf, als der Schofför dies
 erzählte und erwähnte, sein Herr sei *zu Fuß* noch irgend
 anderswohin gegangen und sehr verstört zurückgekehrt. Ich
 habe da gleich an eine Kirche, ein Gemeindehaus oder dergleichen
@@ -1217,7 +1217,7 @@ die auf den Zweck der Halle hindeutet. Ein Teil des Rätsels
 ist somit gelöst.«
 
 »Da bin ich neugierig«, sagte ich ehrlich und gab damit
-meiner Schimmerlosigkeit zu.
+meine Schimmerlosigkeit zu.
 
 Harst klatschte mir gutmütig auf den Schenkel. »Seien
 wir froh, daß wir soweit sind, mein Alter … Dir gegenüber
@@ -1227,7 +1227,7 @@ noch zu ermitteln. Dann kommt der Bauunternehmer Kuschenreuter
 zu uns. Seine Erregung übersteigt das notwendige Maß. Ein
 Kreuz und eine goldene Kugel mögen einen Mann verblüffen
 können, aber nicht derart verstört machen, mithin mußte
-er mehr wissen, als er preisgab. Besinne dich, das ich die
+er mehr wissen, als er preisgab. Besinne dich, daß ich die
 Frage einstreute: »Also Bauunternehmer waren Sie?« Schon
 die Art der Fragestellung war so gewählt, daß in der Frageform
 sich ein gewisser Nebengedanke ausdrückte. Es ist ein Unterschied,
@@ -1245,7 +1245,7 @@ und zu Fuß für einige Zeit verschwunden war, habe ich richtig
 bewertet: Er begab sich zu dem Ort, wo seines Geheimnisses
 Kern lagerte, — das konnte nur ein von ihm hergestelltes
 Gebäude mit einem Kreuz sein. Dann fuhren wir hierher. Und
-nun — gab acht! — glitt ich auf dem blanken Eise dieses
+nun — gib acht! — glitt ich auf dem blanken Eise dieses
 Fragenkomplexes aus. Ich war vorsichtig, aber ich fiel trotzdem
 zunächst einem groben Irrtum anheim. Dem alten Brückner
 traute ich von vornherein nicht, der Mann gab sich zu geziert,
@@ -1277,7 +1277,7 @@ plündern …«
 
 Er machte eine Pause und leitete die Fortsetzung, auf
 die ich ebenso begierig wartete, durch eine unklare Handbewegung
-ein. »Wir kommen nun auf das Gebiet reinlogischer Schlußfolgerungen,
+ein. »Wir kommen nun auf das Gebiet rein logischer Schlußfolgerungen,
 bei denen die Fantasie die Hauptquelle bildet und mit denen
 es somit seinen Haken haben könnte. — Folgendes muß oder
 kann geschehen sein, — ich bin mehr für das »muß«. Harriet

@@ -87,7 +87,7 @@ fragte ich ohne viel Interesse.
 Ehrendiplom in Kuschenreuters Arbeitszimmer, daß durch meine
 abirrende Kugel beschädigt wurde: Das Glas zersplitterte
 … Es war eine Ehrenurkunde des Leichtathletikvereins »Keule
-und Faust« für die besten Leistungen als Keulen und Kugel-Jongleur
+und Faust« für die besten Leistungen als Keulen- und Kugel-Jongleur
 … Du hättest die Urkunde lesen sollen, sie ist 1912 ausgefertigt
 und sie gibt einen Fingerzeig — vielleicht — betreffs der
 goldenen Kugeln.«
@@ -120,8 +120,8 @@ wartet Kriminalkommissar Bechert, — er ist schon sehr ungeduldig,
 beeilen Sie sich, Harst …!«
 
 Harald überflog das Telegramm, seine Augenbrauen zogen
-sich empor … »Da das dritte Kreuz und die dritte goldene
-Kugel!«, meinte er zerstreut. »Lest nur die Depesche Hubert
+sich empor … »Da — das dritte Kreuz und die dritte goldene
+Kugel!«, meinte er zerstreut. »Lest nur die Depesche. Hubert
 Ermrich, Herr auf Karolinenhof, scheint zu ahnen, daß das
 eine Drohung bedeutet.«
 
@@ -133,7 +133,7 @@ eine Drohung bedeutet.«
 
 > Harst, Berlin. — Soeben im Park auf beschneitem Rasen
 seltsames Kreuz aus Fußstapfen entdeckt, dazu eine Messingkugel,
-gerade vor Schlafzimmer deiner Mutter, — Falls möglich herkommen.
+gerade vor Schlafzimmer deiner Mutter. — Falls möglich herkommen.
 Begleitumstände sehr eigentümlich. — Herzlichst, auch von
 deiner Mutter, auch an den Dicken, — — Euer Ermrich.
 
@@ -175,9 +175,9 @@ Harst betrachtete ihn eingehend. »Schlechte Laune?
 
 Bechert zog die Mundwinkel herab. »Ach so, — — Selbstmord,
 Kreuz, Goldene Kugel, — — geht mich nichts an. Der Deubel
-hole das Diebstahlsdezernat!! In der Kreuzkirche in L. Hat
+hole das Diebstahlsdezernat!! In der Kreuzkirche in L. hat
 man in dieser Nacht aus der Brauthalle ein wertvolles Ölgemälde
-gestohlen und und außerdem den Fliesenboden böswillig aufgerissen.
+gestohlen und außerdem den Fliesenboden böswillig aufgerissen.
 Mit solchen Kram muß sich unsereiner nun abgeben!! Aber
 das Bild ist zehntausend Mark wert, und man hat es glatt
 aus dem Rahmen geschnitten. Natürlich habe ich’s gefunden
@@ -206,7 +206,7 @@ fünf Beamte und heben Sie ein Nest in Zehlendorf aus, das
 Miegel Ihnen zeigen wird. Beeilen Sie sich aber … Die Leute
 dürften — mithin Vorsicht! — Luftbüchsen haben … Fragen
 Sie nichts … Sie werden einen erstklassigen Fang machen,
-das verspreche ich ihnen … Geben Sie mir telefonisch Nachricht.
+das verspreche ich Ihnen … Geben Sie mir telefonisch Nachricht.
 Fort mit Ihnen, — Miegel ist in einer Minute fertig …«
 
 Bechert erhob sich.
@@ -256,7 +256,7 @@ glauben müssen.«
 
 Und abermals hob er den Hörer ab uns verlangte eine
 besondere Nummer. Die Verbindung war auch im Augenblick
-hergestellt … Kein Wunder. Es war die des Leiters der Mordekommission
+hergestellt … Kein Wunder. Es war die des Leiters der Mordkommission
 3, dem zur Zeit die Verfolgung der flüchtigen Unterweltskönigin
 übertragen war. Kriminalrat Penz und seine rechte Hand Kommissar
 Schnick waren ja auch mit die besten vom Roten Alex, d. h.
@@ -331,7 +331,7 @@ schwerste Garde … — Was nun?!«
 Das, was Bechert dazwischenbrüllte, bevor er abhängte,
 ist in  Druckerschwärze nicht wiederzugeben.
 
-Harst half beim packen, in fünf Minuten waren wir fertig,
+Harst half beim Packen, in fünf Minuten waren wir fertig,
 schlossen das Haus ab und fuhren in unserem Flitzer davon,
 allerdings auf Umwegen … Wir wollten feststellen, ob sich
 ein Verfolger uns angehängt hätte, — es war nicht der Fall
@@ -342,7 +342,7 @@ und führe den Leser auf dieselbe Heide, die ich bereits
 im 1. Kapitel des 1. Teiles erwähnt habe.
 
 Harald war im Morgengrauen von der Chaussee und dann
-von einen Feldweg abgebogen, mitten durch die Schneefreie
+von einem Feldwege abgebogen, mitten durch die schneefreie
 Heide gefahren und hatte dann in dem Tannengebüsch neben
 dem großen erratischen Block halt gemacht.
 
@@ -351,7 +351,7 @@ Findlingsblöcke genannt, trifft man in der Lüneburger Heide
 recht häufig an, einige auch mitten in den Wäldern. Uns
 kam dieser gewaltige Stein mit seiner klaffenden Lücke sehr
 gelegen, wir konnten dort geschützt abkochen, und nachdem
-wir unseren Plane gemäß uns erst gründlich in Stromer verwandelt
+wir unserem Plane gemäß uns erst gründlich in Stromer verwandelt
 und alles Nötige zu dem Findlingsblock geschafft und das
 Auto bedeckt hatten, prasselte ein lustiges Feuer empor,
 wärmte uns und verhalf uns zu starkem Morgenkaffee und einem
@@ -378,7 +378,7 @@ Brückner bei sich aufzunehmen?
 4.) Wen fürchtete Kuschenreuter? Etwa die Eigentümer
 der Diamanten?
 
-5.) Wie war es Harriet Brill bekannt geworden, daß
+5.) Wie war es Harriet Prill bekannt geworden, daß
 Therese Lamm den »Schatz« heben wollte?
 
 6.) *Hauptfrage:* Weshalb hatte Harriet nach geglückter
@@ -395,7 +395,7 @@ diesen Gedanken weiter ausspinnen und annehmen, Harriet
 hätte uns beide durch Resi erschießen lassen wollen … Resi
 schießt tadellos, das merkte ich, als mir die Taschenlampe
 aus der Hand flog … Und weil ich diesen Gedanken nicht los
-wurde, das Harriet vielleicht eine fremde Meute auf uns
+wurde, daß Harriet vielleicht eine fremde Meute auf uns
 gehetzt hat, und ich ferner auch meine Mutter bedroht glaube
 und Harriet als stille heimliche Beobachterin hier in der
 Nähe vermute — denke an den abtransportierten Storch! —,
@@ -403,13 +403,13 @@ werden wir eben als Landstreicher nachher das Gut und das
 Dorf Karolinenhof besuchen und Harriet hoffentlich abfassen
 …«
 
-Es war ein reiner Zufall, das ich während der letzten
+Es war ein reiner Zufall, daß ich während der letzten
 Sätze Haralds mich erhoben und nach einem Krähenschwarm
 ausgeschaut hatte, der in einer Buche etwa dreihundert Meter
 entfernt bisher gelärmt und dann plötzlich unter noch stärkerem
 Gekreisch aufgeflogen war.
 
-»Was gib’s?«, fragte Harst nur und warf neue Äste ins
+»Was gibt’s?«, fragte Harst nur und warf neue Äste ins
 Feuer.
 
 »Die Krähen sind so unruhig …«
@@ -429,7 +429,7 @@ gilt uns, Max Schraut, und das wird ein böser Tanz werden
 
 … Und *so* begann der Tanz …
 
-Und jetzt, meines Lieben Leser und Freunde, ruft euch
+Und jetzt, meine lieben Leser und Freunde, ruft euch
 das Eingangskapitel ins Gedächtnis zurück und erlebt in
 Gedanken nochmals mit, wie mich der Streifschuß zu Boden
 warf, wie auch Harald dann vor der grausam-höhnisch lächelnden
@@ -544,7 +544,7 @@ Herztätigkeit geprüft, und die Kampferinjektion, die er
 mir in den Arm machte, war sicherlich so bemessen, das auch
 sie nur als besserer Bluff erschien.
 
-Eins bedauerte im bei alledem: Ich hätte diese Resi
+Eins bedauerte ich bei alledem: Ich hätte diese Resi
 Lamm zu gern mir angesehen, mußte aber die Augen geschlossen
 halten und konnte die verärgerte und gereizte Hehlerin nur
 mit dem Gehör genießen.
@@ -570,10 +570,10 @@ Ihre Stimme schrillte genau so wie gestern, als sie
 mit Brückner im Tresor bei Kuschenreuter verborgen gewesen
 und ihre Selbstbeherrschung verloren hatte.
 
-»Er bleibt?! Hätte ich gewußt, was für elende Memmen
+»Er bleibt!! Hätte ich gewußt, was für elende Memmen
 ihr seid, die nicht einmal für Millionen etwas Ernsthaftes
 riskieren, würde ich mir andere Leute ausgesucht haben.
-Ihr seid mir eine seine Gesellschaft, — — dort sitzt der
+Ihr seid mir eine feine Gesellschaft, — — dort sitzt der
 Mann gefesselt, der uns die Beute wegfischte, und es wäre
 eine Kleinigkeit, ihn zu zwingen, das Versteck zu verraten
 … preiszugeben! In seinem Hause hat er die … Sachen niemals,
@@ -590,8 +590,8 @@ und die goldenen Kugeln vor Kuschenreuters Schlafzimmer
 und auf meinem Hof zum Hohn und zur Verwischung des Tatbestandes
 hingezaubert!«
 
-»Das haben Sie auch, — sie sind dabei beobachtetet
-worden, — — leugnet hilft Ihnen gar nichts!«
+»Das haben Sie auch, — Sie sind dabei beobachtetet
+worden, — — leugnen hilft Ihnen gar nichts!«
 
 »So — das habe *ich* getan?! Wer band Ihnen denn *den*
 Bären auf?«
@@ -612,7 +612,7 @@ Meine Vermutung stimmt also.«
 »Daß eine Frau, der Sie an Intelligenz, Brutalität
 und Menschenkenntnis nicht das Wasser reichen, Sie genarrt
 hat und Sie als Werkzeug benutzen wollte, und dies in einer
-so raffinierten Art, das …«
+so raffinierten Art, daß …«
 
 … Herr Speck, der Wächter auf dem Steinblock, meldete
 da aufgeregt: »Ein Reiter kommt, — ein Gutsbesitzer anscheinend
@@ -622,7 +622,7 @@ da aufgeregt: »Ein Reiter kommt, — ein Gutsbesitzer anscheinend
 
 »Ja …«
 
-»Dann haltet euch bereit … Auch mit den werden wir
+»Dann haltet euch bereit … Auch mit dem werden wir
 fertig werden …! Verbergt euch unter dem Wagenplan und haltet
 die Büchsen bereit … Nehmt Schraut und die Verwundeten mit
 — — schnell. — Speck, du bleibst oben …!«
@@ -693,7 +693,7 @@ Was wollte sie?! Was würde geschehen?!
 
 <h3>Die Benzinkanne.</h3>
 
-Kein Wunder, das unter diesen Umständen ein unvergessenes
+Kein Wunder, daß unter diesen Umständen ein unvergessenes
 Bild wieder vor mir auftauchte: Jener trübe Novemberabend,
 an dem ich diese Frau in all ihrer schier unbegreiflichen
 Machtfülle auf den Stufen ihres Hauses als »Herr im Frack«
@@ -706,7 +706,7 @@ Zimmer 111«, weiß, daß sie damals nur den Regisseur hinter
 den Kulissen spielte und daß trotzdem in jeder Einzelheit
 des verworrenen Rätsels ihre Hand zu spüren war. Ich habe
 schon einmal betont, daß unser Gegner von einst, der äußerst
-rührige und skrupellose Palperlon-Warbattys, sich in keiner
+rührige und skrupellose Palperlon-Warbatty, sich in keiner
 Weise mit Harriet vergleichen läßt. Warbattys zynische Frechheit,
 uns seine Streiche vorher in versteckter Form anzukünden,
 hatte schließlich etwas allzu Gesuchtes, etwas gewollt Originelles
@@ -755,7 +755,7 @@ auf den gefrorenen Boden.
 Die Entscheidungsstunde war da, und diese Entscheidung
 wurde nur noch zwischen uns und Harriet ausgetragen, — sie
 konnte uns das Ende bringen, aber sie konnte ebenso gut
-— und da verließ im mich auf meinen alten Harst — unsere
+— und da verließ ich mich auf meinen alten Harst — unsere
 Feindin dorthin zurückführen, wohin sie gehörte: Nach Zimmer
 111 oder einer ähnlichen Zelle!
 
@@ -796,8 +796,8 @@ aber ich war ohne Waffen … Meine Pistole war mir entglitten.
 »Brückner war von vornherein *Ihr* Verbündeter …«, meinte
 Harst, fast ohne Pause weitersprechend. »Er selbst erwähnte
 seinen wirtschaftlichen Niedergang, er war Straßenmusikant,
-Bettler, Hoffänger und Hoffiedler, und Gesichter wie das
-seine, so echt komödiantenhaft — anmaßende — wehleidige
+Bettler, Hofsänger und Hoffiedler, und Gesichter wie das
+seine, so echt komödiantenhaft - anmaßende - wehleidige
 Züge, vergißt man nicht leicht … Zumindest erinnert man
 sich ihrer plötzlich, wenn man einmal, wie ich in der Scheunenstraße
 in allen Spelunken nach dem »Herrn im Frack« Nachfrage hielt
@@ -812,7 +812,7 @@ warm … — Wo ist Brückner?«
 »Tot«, erklärte das gewissenlose Mannweib wegwerfend.
 »Der Narr tat dasselbe wie Kuschenreuter: Als ich ihn vorhin
 vom Dorfe Karolinenhof anrief und ihm so etwas zusetzte,
-hatte er wohl eine Pistole bei sich … Der Kneipenwirt bürste
+hatte er wohl eine Pistole bei sich … Der Kneipenwirt dürfte
 über diesen stillen Gast in der Telefonzelle nicht gerade
 erfreut gewesen sein …«
 
@@ -859,7 +859,7 @@ wo meine Mutter weilt, und von wo mir die Depesche über
 dieses seltsame Kreuz zuflatterte? Ja, Harriet steckte Sie
 ohne weiteres in die Tasche, Resi … Nun sitzen Sie fest.
 Harriet wollte uns hierherlocken und Sie und Ihre Luftschützen
-auch, — — es klappte alles … Nur ich lebe noch …«
+auch, — — es klappte alles … Nur *ich* lebe noch …«
 
 Therese Lamm — echt weiblich! — preßte ein paar Tränen
 ohnmächtiger Wut hervor.
@@ -875,7 +875,7 @@ Ihre Tricks … Sie haben die eine Pistole mit den Füßen geangelt
 und …«
 
 Das schwere Stöhnen des langen Otto, um den es sehr
-schlecht zu stehen schien, endete mit einen qualvollen Schrei,
+schlecht zu stehen schien, endete mit einem qualvollen Schrei,
 und dieser Schrei scheuchte das Pferd zwei Schritte zurück.
 Harriet schwieg, und noch etwas anderes geschah: Derselbe
 Mann, der vorhin Harald die Hände auf den Rücken gefesselt
@@ -884,7 +884,7 @@ des Planes kauerte, beugte sich rasch zu mir hinüber und
 flüsterte:
 
 »Herr Schraut, ich habe Ihrem Freunde die Hände nur
-zum Schein gefesselt … Ich weiß, sie sind wach … Kann ich
+zum Schein gefesselt … Ich weiß, Sie sind wach … Kann ich
 Ihnen irgendwie helfen! Ich habe diese ganze faule Geschichte
 satt, ich mache nicht mehr mit, und die anderen auch nicht
 …«
@@ -899,14 +899,14 @@ Waffe zu gelangen, war ja gescheitert. Ich mußte eingreifen,
 — ich raunte dem Manne hastig etwas zu, ich wußte ja, der
 Boden senkte sich nach Norden hin, dort hielt die Reiterin,
 — — und dorthin entleerte sich jetzt, während der Blessierte
-ein lautes Wimmern vernehmen lies, eine unserer Benzinkannen
+ein lautes Wimmern vernehmen ließ, eine unserer Benzinkannen
 … Das Benzin floß zwischen dem dürftigen Heidekraut und
 den Tannen hügelabwärts, der gefrorene Boden war ein wirksamer
 Schutz dagegen, daß es nicht von der Erde aufgesogen wurde,
 ich sah den feuchten Streifen sich dem Pferde nähern, —
 zum Glück hatte Harriet jetzt wieder zu sprechen begonnen,
 Harst streckte die Beine lang, ich gewahrte die Pistole,
-die er mit den Füßen von sie schob, ich gewahrte auch das
+die er mit den Füßen von sich schob, ich gewahrte auch das
 leichte Zusammenziehen seiner Augenlider, — — er hatte den
 feuchten Streifen bemerkt …
 
@@ -917,8 +917,8 @@ Beraubung des Edelsteinhändlers?!«
 
 Harald antwortete sehr bestimmt: »Auf die Bezeichnung
 Edelsteinhändler wollen wir uns nicht festlegen. Ich bin
-überzeugt, daß Kuschenreuter damals als Frontsoldat irgend
-wie bei dem plötzlichen Rückzug einen Engländer erwischte,
+überzeugt, daß Kuschenreuter damals als Frontsoldat irgendwie
+bei dem plötzlichen Rückzug einen Engländer erwischte,
 der seinerseits als Marodeur gut abgeschnitten hatte und
 der daher Kuschenreuter die Steine als Lösegeld anbot, —
 Kuschenreuter mag gerade nahe daran gewesen sein, den Tommy
