@@ -198,7 +198,7 @@ Herr Harst?«
 
 Sie war sofort beruhigt und stieg ein.
 
-Harald bog in die einsamen Villeaustraßen des Grunewalds
+Harald bog in die einsamen Villenstraßen des Grunewalds
 ab, und Emma Bartsch machte ihrem bedrückten Herzen Luft.
 
 »Herr Harst, die Sache ist die … Eufelt war mal Tischler
@@ -649,42 +649,42 @@ Rätsels von ausschlaggebender Bedeutung sein.
 
 … In Haralds Arbeitszimmer sah es rings um den in die
 Wand eingelassenen Tresor ziemlich wüst aus. Während Miegel
-und ich etwas Ordnung Stufen, während Harst mit eisiger
-Ruhe das Telefongespräch mit der Sank erledigte, während
+und ich etwas Ordnung schufen, während Harst mit eisiger
+Ruhe das Telefongespräch mit der Bank erledigte, während
 die Kriminalpolizei unseren Gefangenen, aus dem nicht ein
 Sterbenswörtchen mehr herauszubringen war, abholte und
 ihrerseits die nötigen Feststellungen am Tatorte traf, hatte
-Freund Miegel mir längst betrachtet, wie das Unheil über ihn
+Freund Miegel mir längst berichtet, wie das Unheil über ihn
 und seinen geliebten *Pa*ris (nicht Par*is*) hereingebrochen war,
 
-Wir beide waren in unserem Sportwagen kaum aus uns
-Boxer Straße versQZwunden, als auch schon drei Leute vom
-Garten hör in das Haus eindrangen, — weitere Brei folgten,
+Wir beide waren in unserem Sportwagen kaum aus unserer
+Straße verschwunden, als auch schon drei Leute vom
+Garten her in das Haus eindrangen, — weitere drei folgten,
 alle bis auf den Burschen, den wir Gefaßt hatten, verkleidet —
 — falsche Bärte — — und so weiter.
 
-Hier nun hatte sich Miegels Schlauheit bestens bewährt,
-Er ahnte, daß wir abgeknallt werden sollten, er selbst lachte
-den »Seemann«, der ihn’ Venedig darauf aufmerksam, daß
-die Hühner noch nicht gefüttert seien und daß unser Bekannte
+Hier nun hatte sich Miegels Schlauheit bestens bewährt.
+Er ahnte, daß wir abgeknallt werden sollten, er selbst machte
+den »Seemann«, der ihn bewachte, darauf aufmerksam, daß
+die Hühner noch nicht gefüttert seien und daß unser Federvieh
 vor Fremden eiligst flüchte, — Harst würde dies auffallen, sowohl
 das Unterbleiben der Fütterung wie die Unruhe der
-Tiere, Miegel hatte dabei den von Todesangst Gefolterten zufriert
-und a Dietrichs erreicht, daß man ihn auf den Hof
-ließ, wo er dann in äußerst gerissener Art, die Hauptmenge
-des Hafers dorthin schüttete, wo wir nachher unser girrendes
-Wölkchen faul und gleichgültig gegenüber dem geschickt ausgestreuten
+Tiere, Miegel hatte dabei den von Todesangst Gefolterten gespielt
+und auch wirklich erreicht, daß man ihn auf den Hof
+ließ, wo er dann in äußerst gerissener Art die Hauptmenge
+des Hafers dorthin schüttete, wo wir nachher unser gackerndes
+Völkchen faul und gleichgültig gegenüber dem geschickt ausgestreuten
 SOS antrafen …
 
-Jedenfalls sprach es nicht sehr für die geistigen Fähigrkeiten
+Jedenfalls sprach es nicht sehr für die geistigen Fähigkeiten
 des Wächters unseres braven Miegel, daß der Mann den Trick
 <@pagebreak/>
 nicht durchschaut hatte. Zugegeben, daß dieser Trick neuartig
 und unauffällig war, aber ein gesiebter, gewiegter Verbrecher
-hätte ihn doch »als Warnung für uns erkennen müssen,
+hätte ihn doch als Warnung für uns erkennen müssen,
 — dies betonte auch Harald gegenüber dem Kriminalkommissar,
-der die Untersuchung leitete, einen uns bisher fremden Bekannten
-namens Doktor Vetter, der auch zum Glück nicht weiter
+der die Untersuchung leitete, einen uns bisher fremden Beamten
+namens Doktor Pelzer, der auch zum Glück nicht weiter
 fragte, wo wir vormittags gewesen, — wir waren ja auch alles
 in allem kaum anderthalb Stunden im Auto durch die Straßen
 gefahren.
@@ -694,19 +694,19 @@ unsere Begegnung mit Fräulein Emma Bartsch unerwähnt,
 kein Wort fiel über den glatten Geschäftsgang der Firma Eufelt,
 über den »Schlossermeister Hugo Schmidt« und all die
 andern unglaublichen Dinge, die sich jetzt bereits zu einem
-buntscheckigen düsteren Kometen zusammenbackten, von dem
-niemand recht wußte, Dahinter in Kellner unberechenbaren
-Kurse abbiegen und wo er, letztes Unheil stiftend, aufprallten
+buntscheckigen düsteren Kometen zusammenballten, von dem
+niemand recht wußte, wohin er in seiner unberechenbaren
+Kurve abbiegen und wo er, letztes Unheil stiftend, aufprallen
 würde. —
 
-So trat denn nun Liederlich Harst’schen Hause die gewohnte
+So trat denn nun wieder im Harst’schen Hause die gewohnte
 Ruhe ein. Die Polizei hatte sich entfernt, Freund
 Miegel kochte uns Mittag, Harst saß am Schreibtisch neben
-dem zerstörten Tresor, und blätterte in dem gesessen unserer
+dem zerstörten Tresor, und blätterte in dem neuesten unserer
 Zeitungsausschnittbände, ich selbst kam mir ziemlich überflüssig
 vor, und doch fühlte ich in allen Nerven, daß diese Ruhe
-trügerische war, als etwa die scheinbar feste Decke eines
-Brandrotem, verderblichen Moores.
+trügerischer war, als etwa die scheinbar feste Decke eines
+grundlosen, verderblichen Moores.
 
 Als Harald sich nun im Schreibsessel zurücklehnte und
 nachdenklich an seiner Zigarette sog, wagte ich eine Frage,
@@ -717,14 +717,14 @@ sei? Anscheinend legtest du sehr viel Gewicht auf diese
 Feststellung.«
 
 Er nickte leicht. »Ich weiß es nun, mein Alter. Er ist
-jedermann. Augenblicklich gehen mir aber andere Dinge durch
+Seemann. Augenblicklich gehen mir aber andere Dinge durch
 den Kopf, zum Beispiel, die Aschenurnen, die die Firma
 <@pagebreak/>
-Eufelt in Mengen absetzt. Fräulein Harsts betonte ja, daß
+Eufelt in Mengen absetzt. Fräulein Bartsch betonte ja, daß
 Eufelt gar nicht genug davon einkaufen könnte. Hierhinter
 steckt irgend ein Riesenschwindel, — aber welcher Art mag er
-sein?! Aschenurnen?! Die bestehen vorhin zumeist aus Harsts
-anormal oder ’sonst einer Kunstmasse, da echter Marmor zu
+sein?! Aschenurnen?! Die bestehen doch zumeist aus Kunstmarmor
+oder sonst einer Kunstmasse, da echter Marmor zu
 teuer ist.« Er schüttelte unzufrieden den Kopf. »Was hilft
 es mir, daß ich da einen Faden gefunden habe, der möglicherweise
 in das Netz der Spinne führt …?! Der Faden ist hauchdünn
@@ -732,15 +732,15 @@ wie alle derartigen Vermutungen und Schlußfolgerungen,
 die mehr der Fantasie entspringen. Jedenfalls werden
 wir nach Tisch Herrn Eufelts Magazin besuchen und … einkaufen,
 nicht als Harst und Schraut, das wäre zu riskant.
-Harriets Garde — dürften uns beobachten … Vorsicht ist Sender
+Harriets Garde dürften uns beobachten … Vorsicht ist geboten
 …«
 
 Und da wagte ich die zweite Frage
 
-»Harald, der Stammes Scheckbetrag läßt dich ziemlich
+»Harald, der ergaunerte Scheckbetrag läßt dich ziemlich
 kalt?«
 
-»Ja. Denn wann mein dünnes Sachen nicht jetzt, werde
+»Ja. Denn wenn mein dünnes Fädchen nicht reißt, werde
 ich den Betrag zurückerhalten.«
 
 Ich starrte ihn etwas zweifelnd an, weil es mir schwer
@@ -757,23 +757,23 @@ Autos zurück, und zwei Herren in soliden schwarzen Anzügen
 und schwarzen Krawatten und sonstigen notwendigen »Verschönerungen«
 betraten gegen fünf Uhr in Abständen von zehn
 Minuten den frisch getünchten Bau des rätselhaften Sargmagazins
-Eufelt, wo. Herr Gustav Eufelt, ein Männlein von
+Eufelt, wo Herr Gustav Eufelt, ein Männlein von
 vorbildlicher Leichenbittermiene, seine unheimlichen Waren
-nutzlos und anpries.
+ausbot und anpries.
 
 <@pagebreak/>
 Daß dieser biedere, höfliche Tischlermeister niemals irgendwie
-in die dunklen Geschichten absichtlich oder benutzt
+in die dunklen Geschichten absichtlich oder bewußt
 hineingeraten war, merkte man schon an seinem Benehmen und
 an seinem gedrückten Wesen. Er fühlte sich eben als Opfer
 irgend einer ihm unbegreiflichen Machenschaft, er hatte ja
-»Auge Schmidt« gesucht und nicht gefunden, »Schmidt« war
+»Hugo Schmidt« gesucht und nicht gefunden, »Schmidt« war
 eben wie ausgetilgt.
 
 Harald und ich taten ganz so, als ob wir uns nicht kannten
 und als ob wir Leidtragende und Urnenkäufer wären.
 
-Harst der zuerst den Laden betreten hatte, ließ sich alle sonstigen
+Harst der zuerst den Laden betreten hatte, ließ sich alle vorrätigen
 Urnen zeigen, — das heißt, soweit sie noch nicht bestellt
 waren. Eufelt betonte, er beliefere einen neugegründeten
 Begräbnisverein, der sich kurz »Aschenurne« nenne. Als
@@ -785,20 +785,20 @@ Urnenfabrik«, erklärte er. »Nehmen die Herren bitte
 Platz … Das Abladen geht schnell …«
 
 Zwei Leute trugen die in Strohkörbe verpackten Urnen in
-eins der leeren Öwächöhäuser, nur zwanzig behielt Eufelt
-im Laden, und als das Lastauto wieder davongefahwn war,
-kaufte Harald eine der neuen Urnen und ich eine zweite,
+eins der leeren Gewächshäuser, nur zwanzig behielt Eufelt
+im Laden, und als das Lastauto wieder davongefahren war,
+kaufte Harald eine der neuen Urnen und ich eine zweite.
 Wir wollten gerade bezahlen, als die Tür aufging und ein
 dürrer Herr mit Spitzbart und Kneifer auf der verdächtig roten
 Nase eintrat und von Eufelt mit vielen Bücklingen begrüßt
 wurde.
 
-Es war der Vertierter des Vereins Aschenurne, er erklärte,
-er brauche sofort achtzig Denen, um uns kümmerte er sich
-zunähst gar nicht, erst als wir mit unseren Urnen davongehen
-wollten, mischte er sich) höflich ein und bat uns, doch
+Es war der Vertreter des Vereins Aschenurne, er erklärte,
+er brauche sofort achtzig Urnen, um uns kümmerte er sich
+zunächst gar nicht, erst als wir mit unseren Urnen davongehen
+wollten, mischte er sich höflich ein und bat uns, doch
 andere Urnen zu wählen, er wolle gern die Preisdifferenz
-tragen, der Herein müsse aber sofort achtzig Urnen beschaffen
+tragen, der Verein müsse aber sofort achtzig Urnen beschaffen
 — — und so weiter.
 
 Harst lehnte ab.
@@ -809,90 +809,90 @@ Ich richtete mich nach ihm und tat dasselbe.
 Der Rotnasige wurde jetzt grob, — Harald noch gröber …
 
 »Ich habe die Urne bezahlt, — — — halten Sie gefälligst
-den Mund?! Soll ich die Polizei holen?! Sie beleidigen
+den Mund!! Soll ich die Polizei holen?! Sie beleidigen
 mich!!«
 
-Der arme Eufelt tanzte derweil hilflos von einem Peng
-Ehen auf das andere und suchte zu beschwichtigen.
+Der arme Eufelt tanzte derweil hilflos von einem Beinchen
+auf das andere und suchte zu beschwichtigen.
 
 Der Rotnasige bat um Entschuldigung, — urplötzlich
-war er die Liebenswürdigkeit selbst, daß Wort Polizei hatte
+war er die Liebenswürdigkeit selbst, das Wort Polizei hatte
 ihn zur Vernunft gebracht. Er bot uns jedem fünfzig Mark
-Abstand, — Knie wußten andere Warnen, und der Streit war
+Abstand, — wir wählten andere Urnen, und der Streit war
 beigelegt.
 
-Harald rief eine Sarg heran, noch immer gaben wir uns
-den Apfel in, als oh Ei uns fremd wären, — er nahm seine
+Harald rief eine Taxe heran, noch immer gaben wir uns
+den Anschein hin, als ob wir uns fremd wären, — er nahm seine
 Urne in den Arm, fuhr davon, ich hatte ebenfalls Glück, bekam
-auch eine Tale, und geachtet den vorher getroffenen. Vereinbarungen
-richtete ich es so ein, daß wir uns wenige, Minuten
+auch eine Taxe, und gemäß den vorher getroffenen Vereinbarungen
+richtete ich es so ein, daß wir uns wenige Minuten
 darauf in einer stillen Querstraße trafen, wo wir einen Spion
-unbedingt hätten bemerken müssen. Unsere Sagen hielten,
+unbedingt hätten bemerken müssen. Unsere Taxen hielten,
 Harst war im Nu auf dem Gehsteig, warf seinem Schofför ein
-Geldstück! Hin und kümmerte sich nicht weiter um das verblüffte
-Geist des Mannes, dessen Fahrgast urplötzlich so ganz anders
+Geldstück hin und kümmerte sich nicht weiter um das verblüffte
+Gesicht des Mannes, dessen Fahrgast urplötzlich so ganz anders
 ausschaute.
 
 Nun, auch mein Schofför blickte nicht viel anders drein,
-als ich Haralds Urne in meine Taxe verlud und Wahnsinn
+als ich Haralds Urne in meine Taxe verlud und meinem
 Fahrer neue Anweisungen erteilte. Inzwischen war Harst
-längst verschwunden, es wollte ja um jeden Preis den Sofortigen
-mach abfangen, der für seinen neuen Feuerbestattungsverein
+längst verschwunden, es wollte ja um jeden Preis den Rotnasigen
+noch abfangen, der für seinen neuen Feuerbestattungsverein
 eine derartige Unmenge von Urnen brauchte, — etwa
 so, als ob in Berlin die Cholera ausgebrochen wäre.
 
-Was keinesw233 der Fall war.
+Was keineswegs der Fall war.
 
 Der einzige Pestbazillus in diesem Häusermeer war Harriet
 Prill.
 
 Meine Taxe schaukelte davon, ich hielt die Marmorurnen,
-die wir so hübsch erworben hatten, krampfhaft fest, — auf Umwegen
-näherte ich mich unserem Heim, ließ vorher halten, den
+die wir so billig erworben hatten, krampfhaft fest, — auf Umwegen
+näherte ich mich unserem Heim, ließ vorher halten, bezahlte
 <@pagebreak/>
-Stellte und schleppte die Dinger im Schußweite meines Angesicht
-ins Haus, wo die beiden Regulierte mit der stillvergnügte!
-Frage mich empfingen, ob ich die schönen Antworten Geräte
-etwa für sie erworben hätte. Wir Zwar na derartigen Lichte,
-Seien gar nicht zu Mute, Geruch setzte mich gelte still in Haralds
-Arbeitszimmer und, suchte bei einer Zigarre dem ungestörter
-Problem Ruinen gründlich auf den Leib zu rücken — geistig
-natürlich! Harald halte da von Streich Pauhgdünnzin Lächelt
-gesprochen, das er erstens Tasche, — — sollte es mir nicht auch
-schlagen, dieses Sachen …
+und schleppte die Dinger im Schweiße meines Angesichts
+ins Haus, wo die beiden Argus-Leute mit der stillvergnügten
+Frage mich empfingen, ob ich die schönen schwarzen Behälter
+etwa für sie erworben hätte. Mir war nach derartigen Witzeleien
+gar nicht zu Mute, ich setzte mich ganz still in Haralds
+Arbeitszimmer und suchte bei einer Zigarre dem ungeklärten
+Problem nunmehr gründlich auf den Leib zu rücken — geistig
+natürlich! Harald hatte da von einem hauchdünnen Fädchen
+gesprochen, das er entdeckt habe, — — sollte es mir nicht auch
+gelingen, dieses Fädchen …
 
-Stopp … — Gelesen … — Ich meldete mich. Harsts
-Stimme antwortet: »Ich bin’s, von einem Gasometer aus …
-Dir Sache womit mir allmählich über den Topf, der Rotnasige
-hatte auch ein Bestaunte ja der Trabe, aber Sie ganzen achtzig
-Urnen konnte er nicht verpacken, zehn blieben Kulis, und ich
+Stopp … — Telefon … — Ich meldete mich. Harsts
+Stimme antwortet: »Ich bin’s, von einem Automaten aus …
+Die Sache wächst mir allmählich über den Kopf, der Rotnasige
+hatte auch ein Lastauto in der Nähe, aber die ganzen achtzig
+Urnen konnte er nicht verpacken, zehn blieben zurück, und ich
 blieb hinterdrein, — weißt du, wo sie abgeladen wurden, nachdem
-das Auto unglaubliche Umwege schwach hatte?«
+das Auto unglaubliche Umwege gemacht hatte?«
 
 Kunstpause …
 
-Die Vorgänge im Bergmassiv Eufelt hatten mich schon
-genügend tun jene Jagdstimmung versetzt, die mit nichts denn
-sichtbar sein dürfte. — Ich fieberte nach Haralds Schlußerklärung,
+Die Vorgänge im Sargmagazin Eufelt hatten mich schon
+genügend in jene Jagdstimmung versetzt, die mit nichts vergleichbar
+sein dürfte. — Ich fieberte nach Haralds Schlußerklärung,
 und als er nun lediglich in vorsichtigen und doch
 verständlichen Angaben den Ort nannte, wo die Urnen wieder
-ausgeladen worden wagen, blieb mir schien der Atem weg!!
+ausgeladen worden waren, blieb mir schier der Atem weg!!
 
 Das hatte ich denn doch nicht vermutet! Und Harst hatte
 vollkommen recht mit seiner Eingangsbemerkung, daß die
-Sache ihm Über den Topf Büchse. Da war eine Urnenfabrik
-in Zinnowitz, da über ein neugegründeter Feuerbestattungsverein,
+Sache ihm Über den Kopf wüchse. Da war eine Urnenfabrik
+in Zinnowitz, da war ein neugegründeter Feuerbestattungsverein,
 da war das Sargmagazin Eufelt, da war der Überfall
-auf unsrer Haus, und da waren nun Haralds Instruktionen
+auf unser Haus, und da waren nun Haralds Instruktionen
 für acht Uhr abends …!
 
-Neun nur erst die zwei Stunden bis dahin vorüber wären!
+Wenn nur erst die zwei Stunden bis dahin vorüber wären!
 Ich brannte ja darauf, Näheres zu hören, wir hatten
-schon so manchen vorzuführen Fall erledigt, aber diesen hier?
+schon so manchen verzwickten Fall erledigt, aber diesen hier?
 
 Er setzte allem die Krone auf! — Man betrachte doch
 <@pagebreak/>
-einmal die Dinge ganz nüchtern: was sollte diese Rittergeschichte?!
+einmal die Dinge ganz nüchtern: was sollte diese Urnengeschichte?!
 — Man prüfe doch einmal die Einzelheiten! Wer
 sollte sich darin zurechtfinden?! — *Ich* jedenfalls nicht …
 
@@ -900,31 +900,31 @@ sollte sich darin zurechtfinden?! — *Ich* jedenfalls nicht …
 
 <h3>Unter der Erde,</h3>
 
-Und nun Tales acht Uhr, nun stand ich tadellos hergerichtet
-— so etwa besserer Pennbrüder an der Ecke der Ahlbeckerstraße.
+Und nun war es acht Uhr, nun stand ich tadellos hergerichtet
+— so etwa besserer Pennbruder an der Ecke der Ahlbeckerstraße.
 Zweihundert Meter vor mir rechter Hand leuchteten
-die’ Vellameschilder des Sargmagazins durch die kalte,
+die Reklameschilder des Sargmagazins durch die kalte,
 windige Dezembernacht, entlaubte Bäume der Villengärten
 knarrten und säuselten, — — diese Gegend war ja so einsam,
-das weite Laubengelände mit den wenigen größeren Feuers
-bauten dazwischen bildete ein ideales Feld für allerhand
+das weite Laubengelände mit den wenigen größeren Dauerbauten
+dazwischen bildete ein ideales Feld für allerhand
 Schurkereien, und die waren hier im Gange, der Pestbazillus
 Harriet hatte sich hier irgendwo festgesetzt …
 
-Dann kam unser Auto mit hochgeklapptem Leider heran,
+Dann kam unser Auto mit hochgeklapptem Verdeck heran,
 Harald hatte Miegel samt Auto und Köter aus der Schonung
-abgeholt, — eine Hand winkte, ich schlüpfte hinein, langsam.
+abgeholt, — eine Hand winkte, ich schlüpfte hinein, langsam
 fuhren wir weiter, immer näher kamen die Lichtfluten der
-Reklameschilder, die fast zu aufdringlich waren für ein SmgMmagazin
-…
+Reklameschilder, die fast zu aufdringlich waren für ein
+Sargmagazin …
 
-Und dann drehte sich Wiegst auf dem Führersitz um,
-nun …
+Und dann drehte sich Miegel auf dem Führersitz um,
+dann …
 
 Wir sahen es gleichzeitig, das strahlende Firmenschild über
 der Tür …
 
-Ober jetzt hieß die Firma nicht Eufelt, sondern das t am
+Aber jetzt hieß die Firma nicht Eufelt, sondern das t am
 Ende war nach vorn gerutscht, war ein großes T geworden …
 
 Da war klar und deutlich, zu deutlich zu lesen:
@@ -935,100 +935,100 @@ Da war klar und deutlich, zu deutlich zu lesen:
 <@pagebreak/>
 … Unser Wagen glitt vorüber, — aber noch immer blieb
 der Eindruck dieser versteckten neuen Kampfansage gegen uns in
-meinem Hirn besten: Teufel, Sargmagazin!! — — Welch’
+meinem Hirn haften: Teufel, Sargmagazin!! — — Welch’
 eine raffinierte Klügelei lag schon allein ja dieser Idee
 unserer unerbittlichen Feindin! Zufällig hatte sie da den
 braven verarmten Tischlermeister Eufelt im Adreßbuch entdeckt,
 — *der* Name paßte in ihren Kram genau hinein, —
-sie leck 10&nbsp;000 Mark springen, sie ließ das Sarggeschäft empfinden,
-und daran … kaufte sie für uns zwei Särge!! *So*
-begann all dies Unglaubltäh Widersinnige, — *so* eröffnete
+sie ließ 10&nbsp;000 Mark springen, sie ließ das Sarggeschäft einrichten,
+und dann … kaufte sie für uns zwei Särge!! *So*
+begann all dies Unglaubliche, Widersinnige, — *so* eröffnete
 sie die Feindseligkeiten! Mit einem Sargmagazin!!
 
 … Und weiter und weiter glitt unser unscheinbarer Wagen
-… Bog regte in die nächste Seitenstraße ein … Auch
-hier Lauben, sie Kohlenhandlung, zwei einsame Willen, miserables
+… Bog rechts in die nächste Seitenstraße ein … Auch
+hier Lauben, eine Kohlenhandlung, zwei einsame Villen, miserables
 Pflaster …
 
-Dann mit einem Ebene also Gallig moderner Welt: Zweckbauten,
-öde nüchterne, aufgeptustet, 1113 Text Wohntngsnot abzuhalten,
+Dann mit einem Schlage ein Stück moderner Welt: Zweckbauten,
+öde nüchterne, aufgepustet, um der Wohnungsnot abzuhelfen,
 — — und hier Asphaltpflaster, — — hier hielten wir,
 
 »Aussteigen mein Alter!«
 
-Harald nahte den unlichenbwürdicen Sind 111 bei Arm,
-der einmal ein Borstentier Platte wurdet wollen … oder
-sollen. Paris trug oben Kopf einen Verband und eine
+Harald nahm den unliebenswürdigen Hund in den Arm,
+der einmal ein Foxterrier hatte werden wollen … oder
+sollen. Paris trug um den Kopf einen Verband und eine
 dunkle Kappe darüber, in die zwei Löcher eingeschnitten waren,
-durch die zwei lange Eglahpohrea tiadurFragteir Miegel
-band seinem Liebling die Betone zu das Halsband, und dann
-trotteten wir derselben Weg zurücklag, Der Köter folgte nur
-ungern, er schnellte nur Miegel, aber Harald schien auf ihn
+durch die zwei lange Schlappohren hindurchragten. Miegel
+band seinem Liebling die Leine an das Halsband, und dann
+trotteten wir derselben Weg zurück. Der Köter folgte nur
+ungern, er gehorchte nur Miegel, aber Harald schien auf ihn
 nicht verzichten Zu Können …
 
 Es ging an der Kohlenhandlung vorüber, es kam ein neuer
-Drahtzaun, — —, hier gab es neuen Aufenthalt. Über dem
-Drahtzaun Schweine an zwei Pfählen ein Breit mit der Reim stw
-hingekleFsten Inschrift:
+Drahtzaun, — — hier gab es neuen Aufenthalt. Über dem
+Drahtzaun Schwebte an zwei Pfählen ein Brett mit der primitiv
+hingeklecksten Inschrift:
 
 <p class="centered em">Porzellanstampferei,</p>
 <p class="centered">Produktenhandlung</p>
 
 <@pagebreak/>
 Mein Lebtag hatte ich nichts von einer Porzellanstampferei
-gehört. — Eine der Straßenlaternen beleuchtete das Geschobene
-Schild, — die schwarzen Schatten von Seiten fielen wie
+gehört. — Eine der Straßenlaternen beleuchtete das bescheidene
+Schild, — die schwarzen Schatten von Ästen fielen wie
 Striche darüber hin, ich mußte mühselig buchstabieren …
 
 Harald flüsterte mir zu. »Hier wurden die siebzig Urnen
-abgeladen, hier wohnt Herr Tobias Tottgerber, der Rotnasige…
-Hier blieb er, nachdem die Urnen in seine Mutterseite Laube
+abgeladen, hier wohnt Herr Tobias Tottgerber, der Rotnasige.
+Hier blieb er, nachdem die Urnen in seine winterfeste Laube
 Geschafft worden waren … — Und nun strenge einmal deine
-vorzüglichen Ohren an, nun wirst auch du trotz des Wurden
+vorzüglichen Ohren an, nun wirst auch du trotz des Windes
 ein taktmäßiges dumpfes Stampfen hören … — — wie ich
 es soeben vernehme …«
 
-Ich horchte … Das Stampfen blieb, — ich hörte es infamer
-kenntlicher.
+Ich horchte … Das Stampfen blieb, — ich hörte es immer
+deutlicher.
 
 Harst hatte mich hinter einen der dicken Promenadenbäume
 gedrängt. Er ließ jetzt unserem Köter die Leine etwas länger
-Schleifen, krommandierte scharf — genau wie Miegel es zu tun
+schleifen, kommandierte scharf — genau wie Miegel es zu tun
 pflegte:
 
 »Paris, — — Achtung!«
 
-Der Hund veränderte sein Beutelchen sofort und fchmxfFelte
+Der Hund veränderte sein Benehmen sofort und schnüffelte
 an der Zaunpforte.
 
 Harald raunte mir hastig zu: »Die Kerle werden natürlich
 Vorsichtsmaßregeln getroffen haben … Wir müssen
-Felsen …«
+kriechen …«
 
 Ich sah, daß er eine Drahtschere hervorholte und dann
-neben der Pforte unten den Draht durchzwiäte, bis wir eine
+neben der Pforte unten den Draht durchzwickte, bis wir eine
 Ecke emporheben konnten,
 
-Zuerst ließ er den Hund hindurch Da dieser keinerlei
+Zuerst ließ er den Hund hindurch. Da dieser keinerlei
 Zeichen von Mißtrauen verriet, folgten wir, indem wir uns
-durch ein vertrocknetes welkes Erdbeerbeet weiter vorwärtstrieben.
+durch ein vertrocknetes welkes Erdbeerbeet weiter vorwärtschoben.
 So gelangten wir an einen niederen Schuppen vor
-Der eigentlichen Wohnlaube. Falls hier auf Wem Sennor/tüq
-Hunde gehalten worden wären, hätten diese sich längst sei
-Meldet. Das Stampfen war nun deutlicher zu vernehmen, un
+Der eigentlichen Wohnlaube. Falls hier auf dem Grundstück
+Hunde gehalten worden wären, hätten diese sich längst gemeldet.
+Das Stampfen war nun deutlicher zu vernehmen, und
 es klang genau so, als ob es tief aus der Erde käme. Harst
-erhob sich, — gerade über uns war ein kleines, Anmutiger
+erhob sich, — gerade über uns war ein kleines, schmutziges
 <@pagebreak/>
 Fenster, und die eine Scheibe fast lautlos einzudrücken, war
 nicht weiter schwer. Die Splitter blieben an dem Seifenpflaster,
 das Harst bei sich trug, kleben, wir krochen hinein,
-den Hund Munition wir mitnehmen, wenn er uns auch unbequem
+den Hund mußten wir mitnehmen, wenn er uns auch unbequem
 war. Wir fühlten unter uns Säcke, die mit Gips oder dergleichen
 gefüllt waren, — wir wagten kein Licht einzuschalten,
 wir rechneten mit Wächtern, — — was hier auch immer vorging,
 wir kannten Harriet Prill, — — Harriet war auch hier
 bestimmt die Drahtzieherin des Ganzen, und was wir von
-ihr zu gewöhnlichen Hatten, wußten wir.
+ihr zu gewährtigen hatten, wußten wir.
 
 Unser Patenthund fand die Geschichte offenbar sehr langweilig.
 Ich fühlte: Er hatte sich zwischen uns gelegt! Er lag
@@ -1041,46 +1041,46 @@ kauerten.
 Ein Ruck, dem sofort ein rasches Abwärtsgleiten folgte.
 
 Harst raunte mir zu. »Lastenaufzug!! Das ist ja ein sehr
-tiefgründiges Laubengrundstück!! Ich bin nur neugierig, wies
-viele Meter es abwärts geht. Lege einige Bär rasch als
-Deckung übereinander, ich tue es schöne die Säcke sind recht
+tiefgründiges Laubengrundstück!! Ich bin nur neugierig, wieviele
+Meter es abwärts geht. Lege einige Säcke rasch als
+Deckung übereinander, ich tue es schon, die Säcke sind recht
 schwer, — — Achtung, unten schimmert Licht.«
 
 Zum Glück lag ich ohnedies schon in einer Art Vertiefung
 und bevor noch der Aufzug irgendwo in der Tiefe leicht aufstieß
-und halt machte, waren Paris und ich nach der einem
+und halt machte, waren Paris und ich nach der einen
 Seite hin genügend geschützt — gerade nach dorthin, wo in
 dem hier die Luft verschleiernden Stunde ein paar matte
-hektische Braunen glühten.
+elektrische Lampen glühten.
 
 Ich vernahm auch sofort die Stimmen zweier mir unsichtbarer
 Leute, — sie schimpften über die schwere Arbeit, sie bedienten
-sich dabei der englischen Sprache, aber es waren zweisltiog
+sich dabei der englischen Sprache, aber es waren zweifellos
 Amerikaner, und ihre schlechte Laune verflog sofort,
 als irgendwo aus der Ferne eine uns nur zu gut bekannte
-Frauenstunme befehlend rief:
+Frauenstimme befehlend rief:
 
 <@pagebreak/>
 »Beeilt euch! Nur noch vier Säcke, dann machen wir
 Schluß, bis die Nachtschicht den Dienst antritt.«
 
 Harriet Prill war’s! Und das war jene Harriet, die
-mit Recht einst in Amerikas Metropolen den Titel Anders
-weltskönigin sich erworben hatte, die die tollsten Banditen streiche
+mit Recht einst in Amerikas Metropolen den Titel Unterweltskönigin
+sich erworben hatte, die die tollsten Banditenstreiche
 verübt hatte, vor Gericht gestellt wurde und dort derart
-anmaßend, herausfordernd und überirdisch auftrat, daß man
+anmaßend, herausfordernd und überheblich auftrat, daß man
 sie in eine Irrenanstalt einsperrte: Größenwahn! — Sie entfloh,
 sie kam nach Berlin, ihr erstes Auftreten schon war mehr
-als sensationell: Der Herr im Frack, der rätselhafte Mithin
-Frist! — Unser Kampf gegen sie begann, unser Kampf
+als sensationell: Der Herr im Frack, der rätselhafte Arthur
+Prill! — Unser Kampf gegen sie begann, unser Kampf
 war nun abermals in ein Stadium getreten, das uns in die
 Verteidigung drängte, die Gefahr, hier entdeckt zu werden, lag
 nur zu nahe, — wir atmeten auf, als die Leute die beiden
 ersten Säcke schulterten, wir waren froh, daß unser vierbeiniger
-Freund sie so still verhielt, — wir hörten die Männer
+Freund sich so still verhielt, — wir hörten die Männer
 abermals herbeikommen, der Lastenaufzug war groß genug,
-daß die Kerle nur die Säcke vom Rande der Aufzugsplattformn
-wählten, wir vernahmen noch immer hast jetzt ganz nahe
+daß die Kerle nur die Säcke vom Rande der Aufzugsplattform
+wählten, wir vernahmen noch immer das jetzt ganz nahe
 dumpfe Stampfen, wir vernahmen aber auch das Knistern und
 Brechen und Krachen zermalmter Hohlgefäße, — — und wir
 zermarterten uns die Köpfe, was dies alles zu bedeuten hätte,
@@ -1091,14 +1091,14 @@ war ich mir nicht recht im klaren.
 
 Die beiden Leute entfernten sich, — irgendwo Stimmengemurmel,
 — — dann schwieg das Stampfwerk, dann erloschen
-die Lampen, auch der Staub setzte sich, der uns so:unangenehm
+die Lampen, auch der Staub setzte sich, der uns so unangenehm
 die Kehle gebeizt hatte …
 
 Stille trat ein … Totenstille …
 
 Eine ferne Tür klappte …
 
-Das war das lese Zeichen der Anwesenheit dieser Belegschaft
+Das war das letzte Zeichen der Anwesenheit dieser Belegschaft
 eines Stampfwerkes, das sicherlich nicht nur altes Glas
 zu Schmirgel verarbeitete.
 
@@ -1117,14 +1117,14 @@ Und jetzt?!
 
 Unter der Erde …
 
-Mindestens alt Meter unter der Erde …
+Mindestens acht Meter unter der Erde …
 
 Ein Stampfwerk …!!
 
 — Harst richtete sind auf … Auch Paris wurde mobil.
 Nun begann unsere Arbeit.
 
-<h2>6. Kapitel.</h2>
+<h2>5. Kapitel.</h2>
 <h3>Die beiden Hause.</h3>
 
 … Bis die Nachtschicht antrat … — Wann aber? —
@@ -1140,50 +1140,50 @@ standen neben dieser noch etwa vierzig jener neuen Urnen aus
 Kunstmarmor …
 
 Eine Treppe lief von hier nach oben, — die Falltür in der
-Decke war geschlossen, die Räume waren leer, wir hatten vorsiufig
+Decke war geschlossen, die Räume waren leer, wir hatten vorläufig
 nichts zu fürchten.
 
 <@pagebreak/>
-Harald betrachtete still die noch anheimelnden Reste außerdem
-Hammer des Stampfers …
+Harald betrachtete still die noch unzermalmten Reste unter
+dem Hammer des Stampfers …
 
 »Urnen!«, sagte er kopfschüttelnd … »Das begreife ein
-entstellt! Weshalb werden diese neuen Urnen wieder zu
+anderer!! Weshalb werden diese neuen Urnen wieder zu
 Staub zerkleinert?! Ich habe doch schon manches Problem gelöst,
-aber Dies hier …?!«
+aber dies hier …?!«
 
 Er ließ seine Augen weiter durch diesen größten Raum
 wandern. Auch hier gemauerte Wände, dicke Holzpfosten als
-Gräser des? Decke, elekteismHe Leitungen und anderes …
+Träger der Decke, elektrische Leitungen und anderes …
 
 Abermals schüttelte er den Kopf. »Die Maschinen sind
-ziemlich neu, — technisch beginnt gerade dies Gebiet fern:
-Porzellanstampferei!.Da ist ein zweiter dicker Metallkolben
+ziemlich neu, — technisch liegt mir gerade dies Gebiet fern:
+Porzellanstampferei! Da ist ein zweiter dicker Metallkolben
 wie ein Hammer, aber sein Zweck dürfte der sein, die zerkleinerten
 Stücke vollends zu Staub zu zerreiben …
 
-Hier grauer Staub liegt auf allen Gegenständen, das
-Arbeiten hier ist nur mit Schuttmassen möglich, — dort Hängen
+Dicker grauer Staub liegt auf allen Gegenständen, das
+Arbeiten hier ist nur mit Schutzmasken möglich, — dort hängen
 sie … Und nun frage ich dich nur eins, mein Alter, der du
 doch auch nicht gerade auf den Kopf gefallen bist: Weshalb
-wurde der Aufzug mit den mit Gipsstaub gefüllten Süden
+wurde der Aufzug mit den mit Gipsstaub gefüllten Säcken
 wieder nach unten gelassen, weshalb wurden die vier Säcke abgeladen
 und weggebracht — — wohin?! Ich sehe sie nicht.
-Die tut stehenden Säle sind noch nicht zugebunden, sind
+Die dort stehenden Säcke sind noch nicht zugebunden, sind
 frisch gefüllt worden, sind noch nicht zugebunden …! Möglich,
-daß man sie die Treppe emporgetragen hat. Wintergarten wir
-also Sie Falltür …«
+daß man sie die Treppe emporgetragen hat. Untersuchen wir
+also die Falltür …«
 
-Er stieg die Irrten hinan, er druckte geben die große
-abtun, 2e bitte mir Briefes unliebenswürdigen Hotels Leine
-Übergeben, — — plötzlich sehr Paris, der Saal und stupide seine
-Flöhe gejagt hatte, zusprachen und stieß einen Ton aus, der
-vielleicht nur ihm eigen rar …
+Er stieg die Stufen hinan, er drückte gegen die große
+Falltür, er hatte mir unseres unliebenswürdigen Köters Leine
+übergeben, — — plötzlich fuhr Paris, der faul und stupide seine
+Flöhe gejagt hatte, zusammen und stieß einen Ton aus, der
+vielleicht nur ihm eigen war …
 
 »Harald!«, warnte ich …
 
-Harst winkte schnell, schaltete seine Lampe aus, — — Über
-Abwich die dicke Bohlendecke hindurch erklangen schwere
+Harst winkte schnell, schaltete seine Lampe aus, — — über
+uns durch die dicke Bohlendecke hindurch erklangen schwere
 Schritte …
 
 Ein Wächter!!
@@ -1193,7 +1193,7 @@ Und dann ein leises Kreischen …
 
 Von den Angeln der Falltür …
 
-Durch die quadratische Geltung fiel ein Lichtstrahl im
+Durch die quadratische Öffnung fiel ein Lichtstrahl in
 unsere Finsternis hinab, fiel über die Treppenstufen, —
 sie waren leer …
 
@@ -1202,95 +1202,95 @@ den Hund im Arm, — — Harst!
 
 Eine Baßstimme rief von oben: »Doktor sind Sie es?!
 Die andern sind längst fort … »*Sie*« hat doch befohlen,
-daß hier bis elf Luke fzxrkfcßt …!«
+daß hier bis elf Ruhe herrscht …!«
 
-Der Wann kam die Treppe herab, ganz genußfroh, mit
-hätten ihn. Beamten entwasyjnen können, aber er hielt sie an
+Der Mann kam die Treppe herab, ganz gemächlich, wir
+hätten ihn bequem entwaffnen können, aber er hielt sich an
 der rechten Wand, wurde durch den Elektromotor unseren
 Blicken entzogen, — — mit einem Male war auch der Lichtschimmer
-Feinde Laterne verschwunden, alles blieb still, Harst
-raunte mir zu: »Stricken — — sgleuntgstil, faßte schnell in
-einen der Säcke und streute Herausbrach in die Luft, hatte die
-Taschentuches, eingeschaltet, freute nochmals zwei Hände Staub über
-die Grenzte Und — — tote Stadium in einen solchgelegeneu
-Kellerrammmn, der allerlei Töooblcreigerute enthielt, dazu
+seiner Laterne verschwunden, alles blieb still, Harst
+raunte mir zu: »Fliehen — — schleunigst!!«, faßte schnell in
+einen der Säcke und streute Staubmehl in die Luft, hatte die
+Taschenlampe, eingeschaltet, streute nochmals zwei Hände Staub über
+die Treppe Und — — wir standen in einem höhergelegenen
+Kellerraum, der allerlei Töpfereigeräte enthielt, dazu
 einen elektrischen Brennofen, — wir fanden eine zweite Treppe,
-waren sehr bald im Freien, hatten die Llusgangöiür Händen uns
-wieder verschlossen und flatterten über einen Zaun, der uns
-auf das Grundstück Eufelts brachte. Harald Platte diesen Weg
-gewählt, er Bitte wohl, warum er es tat, ich hatte mir ja
-gedacht, daß dich beiden Grundstücke meldetet aneinanderftichen,
-— ich hatte mit nicht gedacht, daß Harald hier als Einbrecherspezialist
-sich betätigen völlig, er stöhnte mich zum hinteren
-Dinge des Sargmagazins, darin hatten nicht viele Mühe mit
-den ei Sürschlössecit, wir du Schritten Eufelts Reines
-Somali, wir Namen in den Berrkanfsraum, — Da die Schaufenster
-seine Nollädean, nur Schutzgitter hatten, konnten wir
-bis: Straße Schrauben überblicken, eins fiel mir sofort auf:
-Die Reklameschilder konnten nicht mehr leuchten, vorhin Schatten.
-sie zum den Fahrdamm erhellt, jetzt waren sie ausgeschaltet,
+waren sehr bald im Freien, hatten die Ausgangstür hinter uns
+wieder verschlossen und kletterten über einen Zaun, der uns
+auf das Grundstück Eufelts brachte. Harald hatte diesen Weg
+gewählt, er wußte wohl, warum er es tat, ich hatte mir ja
+gedacht, daß die beiden Grundstücke vielleicht aneinanderstießen,
+— ich hatte mir nicht gedacht, daß Harald hier als Einbrecherspezialist
+sich betätigen wollte, er führte mich zum hinteren
+Eingang des Sargmagazins, wir hatten nicht viele Mühe mit
+den zwei Türschlössern, wir durchschritten Eufelts kleines
+Kontor, wir kamen in den Verkaufsraum, — da die Schaufenster
+keine Rolläden, nur Schutzgitter hatten, konnten wir
+die Straße draußen überblicken, eins fiel mir sofort auf:
+Die Reklameschilder konnten nicht mehr leuchten, vorhin hatten
+sie auch den Fahrdamm erhellt, jetzt waren sie ausgeschaltet,
 <@pagebreak/>
 kein höhnisch-frecher Name »Teufel« strahlte mehr durch die
-winterliche Dunkelheit, und Harst, dem tief doch ebensowenig
-entgehen konnte, hatte trotzdem keinen Blick für hie Augenblende
-Tatsache, daß Eufelt seine Lichtrelame bereits abgestellt
+winterliche Dunkelheit, und Harst, dem dies doch ebensowenig
+entgehen konnte, hatte trotzdem keinen Blick für die auffallende
+Tatsache, daß Eufelt seine Lichtreklame bereits abgestellt
 hatte, — er stand neben mir und stützte die Hand leicht auf
-einen der beiden prunkvollen Eichentür, die jetzt mitten
-im Laden nebeneinander aufgebaut Verein …
+einen der beiden prunkvollen Eichensärge, die jetzt mitten
+im Laden nebeneinander aufgebaut waren …
 
-Dann tat er — wie so oft — etwas mit völlig Unbegreifliches
-…!
+Dann tat er — wie so oft — etwas mir völlig Unbegreifliches
+…
 
 Wir hatten die Türen hinter uns halb offen gelassen, —
-— plötzlich bückte er sie, löste des Hundes Keins und zischte ihm
+— plötzlich bückte er sich, löste des Hundes Leine und zischte ihm
 einen Befehl zu. Paris war wie gesagt keine Schönheit, kein
 Ausstellungsobjekt, aber einen Vorzug hatte er: eine glänzende
 Dressur! Wie ein losgeschnellter Pfeil sauste er davon, — —
-ich hörte ein paar verdächtige eigentümliche Krjaatöne, —
-— ich kannte sie, — — Paris heulte kurz auf, Form war die
-Tragikomödie für uns bereits in vollen Fluß?Zerrinnen, —
-— aus einem Winkel eine scharfe, trotzdem Kehre Stimme:
+— ich hörte ein paar verdächtige eigentümliche Knacktöne, —
+— ich kannte sie, — — Paris heulte kurz auf, dann war die
+Tragikomödie für uns bereits in vollen Fluß gekommen, —
+— aus einem Winkel eine scharfe, trotzdem melodische Stimme:
 
-»Steine Bewegung, Harst! Sie hörten wohl die Luftbüchsen
-…! Wenn Sie noch Wert darauf legen, aufgestanden
+»Keine Bewegung, Harst! Sie hörten wohl die Luftbüchsen
+…! Wenn Sie noch Wert darauf legen, einige Stunden
 Zu leben, so …«
 
 »Ich lege Wert darauf, Harriet Prill …!«, — Harst sprach
-sehr lustig … »Wir liegt daran, dieses seltsayhne Gaunerstück,
-das Sie hier und in der Stampferei des Tieren Tobias
+sehr ruhig … »Mir liegt daran, dieses seltsame Gaunerstück,
+das Sie hier und in der Stampferei des Herrn Tobias
 Tottgerber in Szene gesetzt haben, bis zum Schlußakt mitzumachen
-… Wollen wir uns dahin einigen, daß Wie uns vierundzwanzig
-Stunden Frist gewähren? Morgen Kram dieselbe
+… Wollen wir uns dahin einigen, daß Sie uns vierundzwanzig
+Stunden Frist gewähren? Morgen um dieselbe
 Stunde verpflichten wir uns, hier abermals zu erscheinen und
-bis dahin nichts zu verraten, was wir beobachtet, geholt nicht
+bis dahin nichts zu verraten, was wir beobachtet, jedoch nicht
 verstanden haben. Es ist dies meines Erachtens für Sie ein
-sehr ehrenwerten Vorschlag … Denn, er bedeutet nicht mehr
-und nicht minder, als daß wir Ihr verbrecherisches Genie viel
-anerkennen und lediglich den Versuch beenden lassen, Ihrer
-jetzigen Streich aufzudecken. Eis muß sich dabei um eine ganz
+sehr ehrenwerter Vorschlag … Denn, er bedeutet nicht mehr
+und nicht minder, als daß wir Ihr verbrecherisches Genie voll
+anerkennen und lediglich den Versuch beenden möchten, Ihren
+jetzigen Streich aufzudecken. Es muß sich dabei um eine ganz
 <@pagebreak/>
-großzügige, aber äußerst sein verschleierte Gaunerei Gabeln.
+großzügige, aber äußerst fein verschleierte Gaunerei handeln.
 — Also, — — wie wär’s?!«
 
-Harst, der große Stratege auf dem Kampffeld der See(enanalyse,
+Harst, der große Stratege auf dem Kampffeld der Seelenanalyse,
 hatte hier einen Köder ausgeworfen, der gerade für
-Harriets Überwertung der eigenen PevfoMchkett äußerst
-drohend war.
+Harriets Überwertung der eigenen Persönlichkeit äußerst
+verlockend war.
 
 Harriet biß an.
 
-Sie biß an, wie ein Hehl automatisch zuschnappt, wenn
+Sie biß an, wie ein Hecht automatisch zuschnappt, wenn
 er etwas Fischähnlich-Blankes bemerkt, und wär’s nur ein
-Blechsisclein mit gefährlichen Haken.
+Blechfischlein mit gefährlichen Haken.
 
 Zuerst kam das vertraute melodische, anmaßend-ironische
 Lachen …
 
 »Das ließe sich hören, Harst! Was bedeuten vierundzwanzig
 Stunden?! Nichts, gar nichts! Nicht einmal vierundzwanzig
-Tage brF6cazten Sie der Wahrheit Fällen! Ich weiß,
+Tage brächten Sie der Wahrheit näher! Ich weiß,
 daß Sie Ihr Wort halten … Also gut, die Frist ist bewilligt.
-Morgen abend um zehn sind Fieberte wieder hier —
+Morgen abend um zehn sind Sie beide wieder hier —
 — ohne Polizei, ohne Hinterhältigkeiten!«
 
 »Selbstverständlich. Nur — sollte ich bis dahin hinter
@@ -1302,11 +1302,11 @@ allerdings mehr mit geistigen Waffen.«
 Harriet erwiderte nur wegwerfend: »Zweckloser Kampf!!«
 
 »Mag sein, Harriet Prill … — Sind dies *unsere*
-Särge, die Sie einsamsten?«
+Särge, die Sie einkauften?«
 
 »Ja.«
 
-»Sollten wir in den angenehmen Behältern wegschoß)oft
+»Sollten wir in den angenehmen Behältern wegschafft
 werden?«
 
 »Ja.«
@@ -1314,7 +1314,7 @@ werden?«
 »Erstaunlich weitblickend sind Sie, Harriet, — allerhand
 Achtung!!«
 
-»So weitblickend daß ich noch eine Bedingung stelle: Sie
+»So weitblickend, daß ich noch eine Bedingung stelle: Sie
 <@pagebreak/>
 dürfen weder Eufelts noch Tottgerbers Grundstück in dieser
 Frist betreten!«
@@ -1322,7 +1322,7 @@ Frist betreten!«
 Harst hüstelte, als käme ihm dies sehr ungelegen
 
 »Nun gut«, entschied er … »Sie haben sich großmütig
-gezeigt, — — ich entferne das an. Ich bin einpexrjtanden.
+gezeigt, — — ich erkenne das an. Ich bin einverstanden.
 Dürfen wir gehen? Nur zehn Minuten Vorsprung fordere
 ich …«
 
@@ -1337,16 +1337,16 @@ Ihr Lachen verfolgte uns noch bis auf den Hof, wo von
 Paris nichts zu entdeckten war, — er mochte angeschossen sein,
 aber er war entkommen.
 
-Wir stiegen über den Zaun, wir eilten die AhLbecYerftraßq
-hinab, wir hielten uns im Schatten der Vorgärtein, Harst wann
+Wir stiegen über den Zaun, wir eilten die Ahlbeckerstraße
+hinab, wir hielten uns im Schatten der Vorgärten, Harst war
 immer fünf Schritt voran, wir trafen eine Taxe, fuhren heim,
 — zu Hause empfing uns der entsetzte Miegel, Paris, seine
-Hundeperle, hatte einen Fletfchfchuß im Bein, — Miegel
+Hundeperle, hatte einen Fleischschuß im Bein, — Miegel
 zeterte, fluchte, Harst rannte in das Ankleidezimmer, wir zogen
 uns um, alles ging im Fluge, Harst telefonierte, ich nahm
-unseren Koffer, und naß zwanzig Minuten trafen wir weit ab
+unseren Koffer, und nach zwanzig Minuten trafen wir weit ab
 von unserem Heim den bestellten schweren, windschnellen Benzwagen,
-dessen Schofför nicht zum ersten ]Male bei kritischen
+dessen Schofför nicht zum ersten Male bei kritischen
 Ausflügen am Steuer saß.
 
 Der Kilometerfresser sauste gen Nordwest — — unser
@@ -1375,10 +1375,10 @@ War ein Polizeiposten Autokontrolle!!
 Wir durften vorüber …
 
 Eine halbe Stunde später bei Eberswalde wieder auf offener
-Hauses dasselbe Spiel: Rotes Licht, ein Schlagbaum als
-Sperre, wieder Polizeikontrolle …
+Chaussee dasselbe Spiel: Rotes Licht, ein Schlagbaum als
+Sperre, wieder Polizeikontrolle …!
 
-Man ließ uns passieren …
+Man ließ uns passieren.
 
 »Harald, was soll das?!«
 
@@ -1389,18 +1389,18 @@ werden …«
 
 Es stimmte — noch viermal!!
 
-Die Polizei schien die Straßen nach:Stettin und Swinemünde
+Die Polizei schien die Straßen nach Stettin und Swinemünde
 zu geradezu abgeriegelt zu haben. Ich hatte sehr wohl
-bemerkt, daß diese großzügige Razzia durch Zivilisten untertüzt
+bemerkt, daß diese großzügige Razzia durch Zivilisten unterstützt
 wurde,
 
-Harst meinte gloicJgultig: »Kein Wunder, zlvelbundett Millionen
+Harst meinte gleichgültig: »Kein Wunder, zweihundert Millionen
 sind eine ganze Menge Geld! Da spielen die Unkosten
 kaum mit …«
 
 Zweihundert Millionen?!
 
-Mir Bruder die Lippen traten …
+Mir wurden die Lippen trocken …
 
 »Harald, — wer büßte denn zweihundert Millionen ein?!«
 
@@ -1408,17 +1408,17 @@ Mir Bruder die Lippen traten …
 
 Wie ein Blitz traf mich diese Antwort …
 
-Die Öffentlich?elf hatte nichts davon erfahren … Nur
+Die Öffentlichkeit hatte nichts davon erfahren … Nur
 Gerüchte liefen um, daß ein großer Frachtdampfer mit seiner
 Goldladung gesunken sei — irgendwo …
 
 Und daraufhin waren die Umsabara-Aktien katastrophal
 gefallen …!!
 
-Ein Blitz traf mich, — — derselbe Blitz zeigte mir Vers!
-Kaninchen Bilder, die in Anlehnen Hirn aufleuchteten: Harald
+Ein Blitz traf mich, — — derselbe Blitz zeigte mir verschwommen
+Bilder, die in meinem Hirn aufleuchteten: Harald
 <@pagebreak/>
-setzte ja seine Umsabara-Aktien *vor* der Katastrophe abgestoßen!!
+hatte ja seine Umsabara-Aktien *vor* der Katastrophe abgestoßen!!
 
 Sollte er geahnt haben, daß das Goldschiff nie sein Ziel
 erreichen würde?!
@@ -1440,24 +1440,24 @@ Benz gen Zinnowitz durch die kalte, sternenklare Winternacht,
 <h3>Der Patrouillendampfer.</h3>
 
 Still und verlassen lag der Strand da. Nur eine schwache
-Brandung schickte bescheidene Wellen rauschend und staunend
+Brandung schickte bescheidene Wellen rauschend und schäumend
 gegen die flache Küste, hinter der sich düster und krachend wie
-eine Mauer der winterliche, aber schneefreie Wallt erhob.
+eine Mauer der winterliche, aber schneefreie Wald erhob.
 
 Ein einzelnes Feuer brannte in den wellenförmigen Dünen,
 schwarzer Qualm zog in breiten Streifen zum Firmament
-empor, über dem lustigen Spiel der Flammen hing ein Geschosses,
-der einen scharfen, gefunden Geruch verbreitete und in
+empor, über dem lustigen Spiel der Flammen hing ein Teerkessel,
+der einen scharfen, gesunden Geruch verbreitete und in
 <@pagebreak 37/>
 dem ein alter verwitterter Fischer mit einem langstieligen
-Teerpinsel um herrührte. Dicht daneben lag ein großer
-Fischkutter auf vier Stufen vorn dicken Kiefern als Rollen,
+Teerpinsel umherrührte. Dicht daneben lag ein großer
+Fischkutter auf vier Stücken von dicken Kiefern als Rollen,
 — — in der Ferne schlug eine Uhr erst vier helle und dann
-zwei dumpfere Schlage, — — in der Nähe auf einem Feldwege,
+zwei dumpfere Schläge, — — in der Nähe auf einem Feldwege,
 der sich im Walde verlor, erstarb gleichzeitig das Surren
 und Rattern eines Automotors.
 
-Der alte Fischer hatte flüchtig nach dem Walde kinübergeblikt,
+Der alte Fischer hatte flüchtig nach dem Walde hinübergeblickt,
 und als nun zwei Männer in kurzen Sportpelzen sich
 dem Feuer näherten, trat er etwas aus dem Lichtschein in den
 Schatten einer einzelnen, krummen Kiefer und beäugte die
@@ -1470,8 +1470,8 @@ wir sind um Zinnowitz herumgefahren … Das da drüben ist
 doch der Seesteg von Zinnowitz …«
 
 »Ist’s, Herr, — stimmt schon«, bejahte der Fischer und
-wandte sich wieder seiner Arbeit zu, nahm den Foorpiinnsel
-und begann von Boden seines Bootes anzupinseln.
+wandte sich wieder seiner Arbeit zu, nahm den Teerpinsel
+und begann den Boden seines Bootes anzupinseln.
 
 »und das Haus dort, — wohl eine Villa?«, fragte der
 Fremde von neuem.
@@ -1480,10 +1480,10 @@ Fremde von neuem.
 
 »Liegt ziemlich weit ab vom Orte«, meinte der Spitzbärtige
 und hielt dem Fischer eine wohlgefüllte Zigarrentasche hin.
-»Bitte, bedienen Sie schlich … Nehmen Sie nur gleich drei
-oder vier, — nur nicht bescheiden sein …! Sie haben er ja
+»Bitte, bedienen Sie sich … Nehmen Sie nur gleich drei
+oder vier, — nur nicht bescheiden sein …! Sie haben es ja
 schwer genug … Sogar in der Nacht arbeiten müssen, — —
-ist’s mit der schloß so schlecht bestellt?«
+ist’s mit der Fischerei so schlecht bestellt?«
 
 Der Alte tauchte den Pinsel in den Kessel und bediente
 sich. »Dank’ Ihnen, Herr … — Fischerei?! Die Flundernzeit
@@ -1495,32 +1495,32 @@ jedoch genau hin
 
 <@pagebreak/>
 »Ich begreife nicht recht«, sagte der Große erstaunt, »wie
-die. Fabrik gerade Ihnen zu Verdienst verhilft. Was für eine
+die Fabrik gerade Ihnen zu Verdienst verhilft. Was für eine
 Fabrik ist es denn?«
 
 »Künstlichen Marmor stellt sie her … Der Besitzer hat
 wohl ein Patent auf seine Erfindung bekommen«, erwiderte
 der Fischer weit eifriger. »Er fabriziert Platten, Urnen, — —
-na, so allerlei, und wir holen ihm die nötige »Tonerde vorn
+na, so allerlei, und wir holen ihm die nötige Tonerde von
 Rügen herüber …«
 
-»Von Augen? — Was Sie sagen … Gibt es denn hier
-Feine brauchbare Tonerde in der Nähe?«
+»Von Rügen? — Was Sie sagen … Gibt es denn hier
+keine brauchbare Tonerde in der Nähe?«
 
 »Nein, Herr … Dort dicht am Strande von Rügens Südküste
 hat der Fabrikbesitzer eine Lehmgrube aufgekauft … Wir
 sollen ja nicht darüber reden, der Konkurrenz wegen, aber die
 Herren sind doch sicherlich nur Durchreisende und …«
 
-»Ja, naß Folgen« bestätigte Harald. »Wir Waffen sogar
-sehr Hügel dorthin, am liebsten wäre es uns, wir fänden einen
+»Ja, nach Rügen«, bestätigte Harald. »Wir müssen sogar
+sehr schnell dorthin, am liebsten wäre es uns, wir fänden einen
 Motorkutter … Wir sind zu einer Hochzeit eingeladen und
 haben uns verspätet, es käme mir auf dreihundert Mark Fahrgeld
 nicht an …«
 
 Der Dreihundertmarkköder verfehlte seine Wirkung nicht,
-der Alte starrte Harst ungläubig an, Mutter große Diplomat
-Harald fügte nachhaltig hinzu: »Ich würde auch dreihundertfünfzig
+der Alte starrte Harst ungläubig an, und der große Diplomat
+Harald fügte nachlässig hinzu: »Ich würde auch dreihundertfünfzig
 zahlen …«
 
 Der Fischer wurde plötzlich ungeheuer lebendig.
@@ -1538,64 +1538,64 @@ Strahlend trabte der Alte davon.
 
 Ich trat näher, Harald zwinkerte mir zu, lachte …
 
-»Das beißt Glück haben, mein Alter …! — Teeren wir
+»Das heißt Glück haben, mein Alter …! — Teeren wir
 den Kutter! Oder besser, hole du unseren Koffer, unser
 <@pagebreak/>
-Schofför soll nach Wolgast Gestein, wie vereinbart. Auf
-diese Lehm- und Tausende auf Rügen freue ich) mich) wie ein
+Schofför soll nach Wolgast fahren, wie vereinbart. Auf
+diese Lehm- und Tongrube auf Rügen freue ich mich wie ein
 Kind. Nur dort werden wir diesen Urnenfabrikanten hinter
-ihre Eilige Familien.«
+ihre Schliche kommen.«
 
-Harst mit dem Teerpinsel war unbedingt sehenswert,
-Trotzdem eilte éc zum Feldweg, jagte dem Schofför Bescheid
-und belud mich mit dein Koffer.
+Harst mit dem Teerpinsel war unbedingt sehenswert.
+Trotzdem eilte ich zum Feldweg, sagte dem Schofför Bescheid
+und belud mich mit dem Koffer.
 
-Wahrheit ja durch den Wald schritt, ging mir so manches
+Während ich durch den Wald schritt, ging mir so manches
 aufs neue durch den Kopf, — freilich, an sich nichts Neues, es
-waren ja stets dieselben ungestörter Fragen, dieselben Widersprüche,
+waren ja stets dieselben ungeklärten Fragen, dieselben Widersprüche,
 dieselben Ungereimtheiten, die in ihrer Überfülle
 selbst das trägste Hirn zum Nachgrübeln angespornt hätten.
-Meine Leser und Freunde mögen sich einmal vor Augen bat
-ten: Firma Eufelt, vergiß für uns zum Hohn in »Teufel«
+Meine Leser und Freunde mögen sich einmal vor Augen halten:
+Firma Eufelt, nachts für uns zum Hohn in »Teufel«
 umgetauft, kauft Urnen, verkauft sie an die Stampferei, die
-sie zu Pulver teilnehmen läßt!! Die Urnen stammen aus
+sie zu Pulver zermalmen läßt!! Die Urnen stammen aus
 Zinnowitz, das Material aus Rügen!! — Was sollte das
 alles?! Was nur?! Ich frage jeden halbwegs vernünftigen
 Menschen: Was sollte das alles?!
 
 Da mochte man die verzwickte Geschichte anpacken, wie
-und wo innig wollte: Man griff überall ins Leere! Man griff
+und wo man wollte: Man griff überall ins Leere! Man griff
 nur in Staub, in jenen grauen Staub der Stampferei, die
-mit NacrhtichiHt arbeitete!!
+mit Nachtschicht arbeitete!!
 
-… Es hatte wirklich keinen Zweck, sich geistig zu bemühen
+… Es hatte wirklich keinen Zweck, sich geistig zu bemühen.
 Ich gab es auf.
 
 Noch immer loderte das Feuer am Strande, noch immer
 teerte der Herr im Sportpelz den großen Kutter: Harst! —
 Ich stellte den Koffer abseits, und begann ein Gespräch mit
-Harald. Hoch  kippte vorsichtig an … »Du hast doch einen dünnen
-Faden gefunden, Harald … Hat der Faden sich der
-stört …«
+Harald. Ich tippte vorsichtig an … »Du hast doch einen dünnen
+Faden gefunden, Harald … Hat der Faden sich verstärkt
+…«
 
 »Ja. Er ist bereits genau so dick geworden wie das Zugtau
-dort, mit dem wir nachher den Kutter auf den Rollblöckden zu
+dort, mit dem wir nachher den Kutter auf den Rollblöcken zu
 Wasser bringen werden.«
 
-Nachen? — Nun, aus den zehn Minuten, von Venen der
+Nachher? — Nun, aus den zehn Minuten, von denen der
 <@pagebreak/>
 Alte gesprochen hatte, wurde fast eine halbe Stunde. Dann
-erst ersinnen er mit seinen Söhnen in hohen Fischerstiefeln
+erst erschien er mit seinen Söhnen in hohen Fischerstiefeln
 und mit Benzinkannen, viel wurde nicht gesprochen, wir
 schafften den Kutter ins Wasser, der Südostwind war günstig,
 das braune Segel knallte, der Motor ratterte, und wir beide
-saßen andern in der winzigen Kajüte, wo ein eiserner Ofen,
+saßen achtern in der winzigen Kajüte, wo ein eiserner Ofen,
 der mit Kiefernscheiten gefüttert wurde, sehr bald in Rotglut
 kam und den Raum fast zu kräftig heizte.
 
 Ich wurde müde, ich streckte mich lang auf die Seitenbank,
 nickte ein, — — erwachte, wurde sofort munter: Harald stand
-am Götzen, aus dessen Schlingen er Klümpchen von Hellbraunem
+am Ofen, aus dessen Kochringen er Klümpchen von gelbbraunem
 Ton ausgebreitet hatte.
 
 »Was treibst du da, Harald?«
@@ -1608,7 +1608,7 @@ kam zu dem schmalen Klapptisch.
 
 »Hier hast du den lehmigen Ton aus der Grube bei Thiessow
 auf Rügen, — südöstliche Spitze der Insel … — Hallo,
-der Motor schweigt …! Einen Augenblick…«
+der Motor schweigt …! Einen Augenblick …«
 
 Er schob die Luke auf, eine Kajüttreppe gab es hier nicht,
 nur eine Holzleiter führte zur Luke empor.
@@ -1618,10 +1618,10 @@ sollen stoppen!«, meldete er. »Also auch hier ganz ungewöhnliche
 Überwachungsmaßnahmen … Ebenfalls des Golddampfers
 wegen, vermute ich …«
 
-Das schlaffe Segel klatschte … Der alte sicher rief seinen
-Lohnen Befehle zu und fluchte
+Das schlaffe Segel klatschte … Der alte Fischer rief seinen
+Söhnen Befehle zu und fluchte
 
-Harst schloß die Luke, fragte die Krümchen Lehm vom Ofen,
+Harst schloß die Luke, fegte die Krümchen Lehm vom Ofen,
 zertrat sie und setzte sich zu mir.
 
 Sein Zigarettenetui schnappte auf.
@@ -1639,38 +1639,39 @@ Zügen, bat schroff um unsere Papiere, ohne erst nach
 dem Namen zu fragen.
 
 Als Harst ihm unsere Ausweise gereicht hatte, stutzte der
-Beamte etwas, musterte uns noch schg;ärfer und flüsterte seinem
+Beamte etwas, musterte uns noch schärfer und flüsterte seinem
 Kollegen etwas zu.
 
-plotzluh hatten die beiden ihre DNnfiptftoleu in den
+Plötzlich hatten die beiden ihre Dienstpistolen in der
 Hand.
 
 »Sie sind verhaftet, Sie sind nicht Harst und Schraut, Sie
-mögen den beiden ohne Ihre Knatternde Metermaß ähnlich
-sehen … Hast und GScqzraut sind trat, gestern spät abends erreichte
-als die Nachricht in Thiessow kurz vor dem Auslaufen.
+mögen den beiden ohne Ihre Maskerade vielleicht ähnlich
+sehen … Hast und Schraut sind tot, gestern spät abends erreichte
+uns die Nachricht in Thiessow kurz vor dem Auslaufen.
 — Keine Ausflüchte, — — was Sie vorzubringen haben, können
 Sie dem Kapitän unseres Lotsendampfers vorlügen, —
-mehr als Lügn werden es nicht sein …!«
+mehr als Lügen werden es nicht sein …!«
 
 Gewalt geht vor Recht …
 
-Handschellen konnten, — — der Fischer und seine Söhne
-hielten sich mit finsteren Seefahrern cbsecits, wir stiegen in das
-Heine Boot des Dampfers, das Boot flog ab und gleich darauf
-standen wir in der geräumigen Sollte des LeglersmgsSchiffes,
-eines an sich recht bescheidenen Göläissteins, das für
+Handschellen knackten, — — der Fischer und seine Söhne
+hielten sich mit finsteren Gesichtern abseits, wir stiegen in das
+kleine Boot des Dampfers, das Boot stieß ab und gleich darauf
+standen wir in der geräumigen Kajüte des Regierungsschiffes,
+eines an sich recht bescheidenen Schiffleins, das für
 einen ernsteren Orkan kaum seetüchtig genug war.
 
 Der Kapitän saß mit dem Rücken nach uns hin an einem
 Wandpult und schrieb, drehte sich nun langsam um und …
 über sein bärtiges, rotes Gesicht lief ein schadenfrohes Lachen
+hin …
 
 Ich biß mir in die Unterlippe, um nur etwas Fassung zu
 bewahren.
 
-»… Abermals hineingelegt!«, sagte Harriet Prill peinlich.
-»Der Kampf hat nicht hastige gedauert, verehrter Herr Harst …
+»… Abermals hineingelegt!«, sagte Harriet Prill ironisch.
+»Der Kampf hat nicht lange gedauert, verehrter Herr Harst …
 Sie hätten ein Flugzeug benutzen sollen, wie ich es tat …
 *Mein* Spionagesystem klappt besser, und meine Gegenmaßregeln
 sind unbedingt zuverlässig.«
@@ -1688,7 +1689,7 @@ wieder in den alten Fehler, Ihre Trümpfe verdeckt zu halten.
 So, reden Sie nun! Wir haben Zeit … Die Säcke für
 Sie beide, in denen Sie nachher die Spazierfahrt auf dem
 Grunde der Ostsee antreten, werden erst fertig gemacht … —
-Ulster bitte.
+Also bitte …«
 
 In der Kajüte brannte außer der Deckenlampe noch eine
 Wandlampe über dem Pult. Wir saßen daneben auf einem
@@ -1710,7 +1711,7 @@ Zwei Augenpaare kreuzten sich wie Degenklingen.
 Harst war erstaunlich kaltblütig, während Harriet nervös
 und überreizt zu sein schien.
 
-»Norden Sie!!«
+»Reden Sie!!«
 
 »Reden?!« Harald setzte sich bequemer. »Was ich zu
 sagen hätte, Harriet Prill, liegt schließlich nach Punkten geordnet
@@ -1718,54 +1719,54 @@ daheim in einem Versteck, das nur Freund Bechert
 und Schraut kennen, — Sie wissen, der gemütliche, nette, alte
 Bechert, Kriminalkommissar, Intimus von uns … Eine Abschrift
 dieser Problem-Disposition, oder besser deren Entwurf,
-finden Sie in meiner Bruftiafc)e …«
+finden Sie in meiner Brusttasche …«
 
 Harriet Prill, einst »Herr im Frack«, jetzt bärtiger schlanker
 Kapitän, lachte schneidend auf.
 
 »Bluff!! Kennen wir bei Ihnen, Harst! Ihre Tricks
 <@pagebreak/>
-wiederholen sich … — Natürlich Geheimschrift, nicht machen?!«
+wiederholen sich … — Natürlich Geheimschrift, nicht wahr?!«
 
-Sie wollte sich lateinischen, sie wollte ihre Nerven meistern,
+Sie wollte sich beherrschen, sie wollte ihre Nerven meistern,
 aber es gelang ihr nicht.
 
-Sie hatte Angst, sie fühlte ließ unsicher.
+Sie hatte Angst, sie fühlte sich unsicher.
 
 »Keine Geheimschrift, ein Entwurf mit Bleistift, sehr
 flüchtig hingeworfen … Das Original ist eingehender …
 Überzeugen Sie sich doch. Sie müssen nicht stets Tricks vermuten,
 Harriet … Man kann dies kaum Trick nennen. Ich
 decke mir stets den Rücken, verehrte Feindin, zumal Ihnen
-gegenüber. Ist von Schraut und mir heute mittag keine Naß«-
-nicht eingetroffen, wird Bechert eingreifen.«
+gegenüber. Ist von Schraut und mir heute mittag keine Nachricht
+eingetroffen, wird Bechert eingreifen.«
 
-Harriet erhob sich mit einem Nur, faßte in die Tasche, entsicherte
+Harriet erhob sich mit einem Ruck, faßte in die Tasche, entsicherte
 eine Pistole und näherte sich Harst.
 
 Dann hatte sie einen zerknitterten Bogen Papier in
 der Hand.
 
-Mir genügte ein Blick: Es war dieselbe Papeersorte, die
-in dem Wandfach der Kajüte des Kutters des alten Sterben
+Mir genügte ein Blick: Es war dieselbe Papiersorte, die
+in dem Wandfach der Kajüte des Kutters des alten Fischers
 gelegen hatte, — nur wenige Bogen …
 
 Also hatte Harst, während ich dort eingenickt war, sein Memorandum
-ausgesetzt.
+aufgesetzt.
 
 Also war alles Übrige doch Bluff!!
 
-Harriet saß am Tierlaut und überflog die unterhalten
+Harriet saß am Schreibpult und überflog die unterteilten
 Sätze.
 
-Stoß der Schminke verfärbte sie sich …
+Trotz der Schminke verfärbte sie sich …
 
 Dann schaute sie auf …
 
 »oh — — Sie Teufel Sie …!!«, sagte sie zitternd. »Nur
 der Satan kann Ihnen …«
 
-»… Bleiben wir doch des Teufel, — Satan klingt so brutal
+»… Bleiben wir doch bei Teufel, — Satan klingt so brutal
 … Bleiben wir bei Eufelt mit verstelltem T, — das
 wirkt dekorativer, Harriet …«
 
@@ -1774,12 +1775,12 @@ Er verhöhnte sie …
 Er war als Liebhaberdetektiv und Menschenkenner vielleicht
 nie so groß wie in diesem Moment.
 
-Harriet durfte sich zusammen …
+Harriet duckte sich zusammen …
 
 Tigerin wurde sie … Aller Kulturlack fiel von ihr ab …
 
 <@pagebreak/>
-Ihre Hand kostete nach der Pistole …
+Ihre Hand tastete nach der Pistole …
 
 »Erschießen möchte ich Sie …!! Ihr Hirn muß ausgelöscht
 werden …«
@@ -1790,7 +1791,7 @@ Harriet drehte sich jäh herum, ihr Leib flatterte, sie hatte
 jede Macht über sich verloren.
 
 »Das sind Trugschlüsse!«, keuchte sie … »Das ist der
-hellste Unsinn!! Wahl habe ich mit einem Dampfer Amazonas
+hellste Unsinn!! Was habe ich mit einem Dampfer Amazonas
 zu schaffen?!«
 
 Aber sie blickte uns nicht an …
@@ -1812,8 +1813,8 @@ war.
 Und dann zerriß sie in blinder Wut Harsts Konzept und
 Schleuderte die Stücke in den Ofen.
 
-Mit einem Male war sie nach diesem katastrophalen Verlegen
-ihrer Nerven aber auch wieder die errichtete große Verbrecherin.
+Mit einem Male war sie nach diesem katastrophalen Versagen
+ihrer Nerven aber auch wieder die eisigkalte große Verbrecherin.
 
 Hochaufgerichtet stand sie vor uns.
 
@@ -1839,8 +1840,8 @@ Harst sagte gleichmütig:
 »Die Tiefenangabe von zwölf Meter habe ich natürlich
 für Bechert in mein Memorandum nachgetragen, Harriet Prill.
 Das ist ja im Grunde die Hauptsache … Und derlei vergesse
-ich nicht … Sennor Sie gehofft hatten, mich durch den Sie
-zu ruinieren. Aber die Umsabara-Stirn hatte ich drei Tage
+ich nicht … Zumal Sie gehofft hatten, mich durch den Scheck
+zu ruinieren. Aber die Umsabara-Aktien hatte ich drei Tage
 vorher abgestoßen — mein Wort!«
 
 Sie trat langsam zurück, sie sank langsam in den Schreibsessel
@@ -1866,30 +1867,30 @@ Und dann …?!
 
 »Wie wäre es mit einer Wette, Harst?«
 
-»Eigentümlicher Vorschlag, Harriet«, erwiderte Achseln
+»Eigentümlicher Vorschlag, Harriet«, erwiderte mein
 Freund sichtlich neugierig. — Oder Übertrieb er nur?!
 
 »Eine Wette, Harst, die Ihnen beiden das Leben vielleicht
 wiedergibt, also das Todesurteil verschiebt …«, erklärte sie
-Überstürzt. »Aus Ihren Aufzeichnungen Tische ich, daß Sie
-noch über die Hauptfrage im Dunkeln tappen … Sie Vers
-den diese Frage auch nie lösen, Harst …«
+Überstürzt. »Aus Ihren Aufzeichnungen ersehe ich, daß Sie
+noch über die Hauptfrage im Dunkeln tappen … Sie werden
+diese Frage auch nie lösen, Harst …«
 
 <@pagebreak/>
 »Möglich …«
 
-»Also wetten wir … — Ich weiß, auf Ihr Wort kenne
+»Also wetten wir … — Ich weiß, auf Ihr Wort kann
 man sich verlassen, auf das meine genau so. Unsere ursprüngliche
-Übereinkunft lautete, daß Sie beide heute abend Helm
+Übereinkunft lautete, daß Sie beide heute abend zehn
 Uhr ohne Polizei wieder im Sargmagazin erscheinen … Inzwischen
 haben Sie trotzdem Ihr Memorandum als Rückendeckung
-ausgesetzt, was doch …«
+aufgesetzt, was doch …«
 
-»Pardon, Harriet, — — nicht Japanischen, — dann hätte ich
+»Pardon, Harriet, — — nicht inzwischen, — dann hätte ich
 ja meine Zusage gebrochen …«
 
 »Also vorher schon, — — ich hätte es mir denken können
-auf Sie ist Verlaß …«
+— auf Sie ist Verlaß …«
 
 »Ehrt mich …«
 
@@ -1901,10 +1902,10 @@ Wenn Sie bis heute abend zehn Uhr die Hauptfrage gelöst
 haben, verpflichte ich mich, Ihnen die Barsumme des
 Schecks zurückzuerstatten … Wenn nicht, sind Sie um zehn
 Uhr abends in der Lehmgrube bei Thiessow ohne Polizei. Bis
-hast zuckten nur Sie beide gegen mich arbeiten, — Angenommen?!«
+dahin dürfen nur Sie beide gegen mich arbeiten, — Angenommen?!«
 
 Sie blickte ihn gespannt an, und sie wurde sofort wieder
-nerp58, als er mit der Antwort zögerte …
+nervös, als er mit der Antwort zögerte …
 
 Oder zu zögern schien …
 
@@ -1912,9 +1913,9 @@ Oder zu zögern schien …
 
 Er zuckte die Achseln.
 
-»Die Zeit ist etwas kurz, Verriet … Das Problem ist
-sehr schwer. Sie haben da so allerhand vorbereitet, wollenen
-keinerlei Erklärung findet: Eufelt, Stampferei Tottgerber,
+»Die Zeit ist etwas kurz, Harriet … Das Problem ist
+sehr schwer. Sie haben da so allerhand vorbereitet, wofür
+man keinerlei Erklärung findet: Eufelt, Stampferei Tottgerber,
 hier die Urnenfabrik in Zinnowitz, die Lehmgrube, die
 Lehmtransporte, — — die Zeit ist wirklich sehr knapp …«
 
@@ -1925,14 +1926,14 @@ bis Mitternacht! — Zufrieden?«
 Wieder gab sie sich eine Blöße, wieder zeigte sie, daß sie
 um jeden Preis Zeit gewinnen wollte.
 
-Ich Hals ahnungslosen Zuschauer spielte hier keine beneidenswerte
+Ich als ahnungsloser Zuschauer spielte hier keine beneidenswerte
 Rolle.
 
-Ich war Zuschauer einer tollen Komödie, die keinen Sicht
+Ich war Zuschauer einer tollen Komödie, die keinen Sinn
 und Verstand zu haben schien.
 
-In meinem Kopf kreisten als Hauptgedanken Aneinander!
-Millionen in Gold, ferner ein Dampfer Amazonas und echt
+In meinem Kopf kreisten als Hauptgedanken zweihundert
+Millionen in Gold, ferner ein Dampfer Amazonas und eine
 Meerestiefe von zwölf Meter.
 
 Wie sollte ich, alles andere noch beigemengt, mir davon
@@ -1946,7 +1947,7 @@ Harriet.«
 »Endlich!! — Dann sind Sie frei …«
 
 Jetzt strahlte sie förmlich, läutete, erteilte einem ihrer
-stämmigen Verbündeten leise ein paar Befehl?2, — wir wundere
+stämmigen Verbündeten leise ein paar Befehle, — wir wurden
 an Deck gebracht, der Morgen zog gerade herauf, der Kutter
 nahm uns an Bord, die Fesseln waren entfernt worden, und
 der alte Fischer fragte brummig:
@@ -1955,33 +1956,33 @@ der alte Fischer fragte brummig:
 Kerle haben den Dampfer gestohlen, und …«
 
 »Geentert!«, verbesserte Harst lachend. »Ein regelrechter
-Viirtchxtensfrelck …! — Passen Sie wir auf, was getrieben
+Piratenstreich …! — Passen Sie nur auf, was geschehen
 wird …«
 
 Wir hielten Kurs auf Süd-Perd, das Südkap Rügens,
-der Dampfer verschwand nein Nordost, schoß jedoch eine grüne
-Rakete ab, und mit unseren Ferngläsern sahen wie, daß auf
+der Dampfer verschwand nach Nordost, schoß jedoch eine grüne
+Rakete ab, und mit unseren Ferngläsern sahen wir, daß auf
 dieses Signal hin ein mittelgroßer Wasserflugzeug sich sehr
-schnell dem Dampfer näherte, fünf Leute an Bord Razzia und
-dann aufstieg und gen Osten sieht entfernte.
+schnell dem Dampfer näherte, fünf Leute an Bord nahm und
+dann aufstieg und gen Osten sich entfernte.
 
 Der Lotsendampfer taumelte nun steuerlos über die leicht
 bewegte See.
 
 Unser Kutter änderte den Kurs, in zehn Minuten waren
-wir an Deck, Harald eilte in das Vorschiff: Die aus sechs Sausten
+wir an Deck, Harald eilte in das Vorschiff: Die aus sechs Leuten
 <@pagebreak/>
 bestehende Besatzung (zwei hatten Schußverletzungen) lagen
 gebunden in einer Kammer. Auch der Kapitän war verwundet,
 er bestätigte, daß das Flugzeug den Dampfer überfallen
 hatte, er bedankte sich bei uns, er gab uns beiden gegenüber
-zu, daß sein Schiff, dessen Hauptmasse ein veraltetes
+zu, daß sein Schiff, dessen Hauptwaffe ein veraltetes
 Maschinengewehr war, mit zu der Suchflottille gehörte, die
 nach einem ganz bestimmten Frachtdampfer, der in einem
 Orkan in diesem Teile der Ostsee verloren gegangen war, seit
-Wochen den Meeresgrund mittels Schlepphaken abpslüge.
+Wochen den Meeresgrund mittels Schlepphaken abpflüge.
 
-Wir verabschiedeten uns, versprochen in Thiessow Meldung
+Wir verabschiedeten uns, versprachen in Thiessow Meldung
 zu erstatten und fuhren mit dem Kutter weiter, während
 der Lotsendampfer seine vorschriftsmäßige Tour fortsetzte, nachdem
 der Kapitän — sehr vielsagend! — persönlich unseren Kutter
@@ -2007,81 +2008,81 @@ in den Urnen nach Berlin geschafft — in ihr uns unbekanntes
 Hauptquartier.«
 
 Harald nahm sein Messer und schnitt eine Scheibe Büchsenfleisch
-aus unseren Vorräten mitten durch, so daß nun einer
+aus unseren Vorräten mitten durch, so daß nun zwei
 gleich große Stücke auf dem Teller lagen.
 
 »Diese Hälfte stimmt, — diese Hälfte ist Unsinn«, erklärte
 er sehr kurz angebunden. »Richtig ist unbedingt folgendes:
 <@pagebreak/>
-Ein östlichen Staat, der an die Ostsee stößt, brauchte zur Brüstung
+Ein östlicher Staat, der an die Ostsee stößt, brauchte zur Stützung
 seiner Valuta notwendig zweihundert Millionen in Gold
 und kaufte diese von der brasilianischen Umsabara-Gesellschaft,
 die ihrerseits Interesse daran Hatte, gewisse Erdölkonzessionen
 zu erhalten. Der Dampfer Amazonas wurde in
-aller Stille mit den Goldkisten beladen, seinen Gähnt bildete
+aller Stille mit den Goldkisten beladen, seinen Schutz bildete
 ein Torpedojäger jenes Staates, der Transport gelangte auch
-bis machte Ostsee, als ein Orkan losbrach, wie ihn; Sie Ostsee
+bis in die Ostsee, als ein Orkan losbrach, wie ihn die Ostsee
 seit Jahren nicht erlebte. Der Dampfer Amazonas und der
 Torpedojäger waren nicht die einzigen Fahrzeuge, die damals
-spurlos verschwanden. — Diese Entgegen hielt man geheim,
-Ader es sickerten doch Gerüchte durch, daß die Umsabara-Gesellschaft
+spurlos verschwanden. — Diese Tatsachen hielt man geheim,
+aber es sickerten doch Gerüchte durch, daß die Umsabara-Gesellschaft
 ungeheure Verluste erlitten habe, die Aktien fielen,
-— — ich selbst hatte mein Wiienpaket schon vorher abgestoßen,
-weil wie die ganzen ’ Transaktionen der Gesellschaft
-nicht behagten. WMllmäglicg verdichteten sich Diese Gerüchte
-zu greifbaren Formen, und als Verriet uns liebenswürdigst
-die Särge schenkte — übrigens eine kolossale Dummheit, den
-man soll nicht mit dem Retter spielen, innere man etwa ZeiltLoidhandschuße
-trägt! — und als all die andern Dinge in
+— — ich selbst hatte mein Aktienpaket schon vorher abgestoßen,
+weil mir die ganzen Transaktionen der Gesellschaft
+nicht behagten. Allmählich verdichteten sich Diese Gerüchte
+zu greifbaren Formen, und als Harriet uns liebenswürdigst
+die Särge schenkte — übrigens eine kolossale Dummheit, denn
+man soll nicht mit dem Feuer spielen, wenn man etwa
+Zelluloidhandschuhe trägt! — und als all die andern Dinge in
 Berlin von uns aufgedeckt wurden, da stieg zum ersten Male
-der Verdacht in mir auf, Portier könnte etwa bei der Umsabara-Affäre
+der Verdacht in mir auf, Harriet könnte etwa bei der Umsabara-Affäre
 mitgewirkt haben. Du entsinnst dich, daß ich vor
-ansehen erbrochenen Tresor die Umsabara erwähnte, — —
-es war eine jener €rleuWungen, die blitzartig aufsuchen …
-Genau wie man von einem Blitz nur eine dünne ZiäzaFcklinie
+unserem erbrochenen Tresor die Umsabara erwähnte, — —
+es war eine jener Erleuchtungen, die blitzartig aufzucken …
+Genau wie man von einem Blitz nur eine dünne Zickzacklinie
 sieht und nicht recht weiß, wo deren Anfang und Ende zu
-Suchen, — genau so erging es mir damals. Die Leuchtkraft
-des Geiste3suikens »Unsagbare« erlosch, aber der Lichteindruck
-blieb zurück, rot unter diesem Statue beurteilte ich all das
-nachherige Gelächter, aus das Sargmagazin Eufelt mit seinem.
+suchen, — genau so erging es mir damals. Die Leuchtkraft
+des Geistesfunkens »Umsabara« erlosch, aber der Lichteindruck
+blieb zurück, und unter diesem Eindruck beurteilte ich all das
+nachherige Geschehen, auch das Sargmagazin Eufelt mit seinem
 flotten Urnenhandel. Ich hatte, als wir erst von der »Lehmgrube«
-auf Lügen erfahren Zigarren, voll Beigestanden, eine
-Karte der Vetter zur Hand zu nehme und bemerkte die Treibhaus
-Stelle mit der Dieserhalb »12«. Daß ich diese »12«
+auf Rügen erfahren hatten, noch Zeit gefunden, eine
+Karte der Ostsee zur Hand zu nehmen und bemerkte die tiefblaue
+Stelle mit der Tiefenzahl »12«. Daß ich diese »12«
 <@pagebreak/>
-wirkungsvoll ausnutzte und Harriet Flusse und ihr sogar das
-halbe Eingeständnis entlockte, sie habe tatsächlich den »Mama«
-Tones« versenkt und ebenso den Toxrpedojäger, weißt du ja.
-Harriet hat erben ihre schlechter Tage wie jeder andere Mensch,
+wirkungsvoll ausnutzte und Harriet bluffte und ihr sogar das
+halbe Eingeständnis entlockte, sie habe tatsächlich den »Amazonas«
+versenkt und ebenso den Torpedojäger, weißt du ja.
+Harriet hat eben ihre schlechten Tage wie jeder andere Mensch,
 Harriet war nicht auf der Höhe, war geistig unzulänglich, sonst
 wäre dieser Bluff kaum gelungen.«
 
 Er trank einen Schluck Kaffee.
 
 Ich ahnte, daß für mich nun die schwarze Seite der Angelegenheit
-angeschnitten würde, das Heißt, Harst würde mir
-meine Tongefäße vorhalten.
+angeschnitten würde, das heißt, Harst würde mir
+meine Trugschlüsse vorhalten.
 
 Er begann wieder: »Diesen Tatsachen und diesem von
 uns gesammelten Tatsachenmaterial auf Grund eigenen Erlebens
 stehen schroff völlig ungereimte Einzelheiten gegenüber.
 Deine Annahme, Harriet Ließe die Goldbarren in den
-Urnen nachts Berlin stellen, ist natürlich falsch. Du hast ja
+Urnen nach Berlin schaffen, ist natürlich falsch. Du hast ja
 selbst bemerkt, wie scharf alle Straßen und hier die Ostsee überwacht
 werden. Die Polizei hat einen Riesenapparat aufgezogen,
-und ich gehe wohl Kamin fehl, wenn ich vermute, die
-Polizei ist ebenfalls hinter Harriet her, Iedeufullo Man hat
+und ich gehe wohl kaum fehl, wenn ich vermute, die
+Polizei ist ebenfalls hinter Harriet her. Jedenfalls: Man hat
 bisher weder das Wrack des »Amazonas« noch das Gold noch
 sonstwie wertvolle Anzeichen gefunden, — — man sucht eben
 noch, paßt scharf auf und … schaltet mich aus!! Es ist doch
 sehr merkwürdig, daß die Umsabara sich nicht an mich gewendet
-bat, 200 Millionen sind kein Pappenstiel, und doch: Niemand
+hat, 200 Millionen sind kein Pappenstiel, und doch: Niemand
 trat an mich heran, — — weshalb wohl?! Die richtige
 Antwort dürfte lauten: Weil Harriet unsere Todfeindin ist,
-weil die Vertreter der Umsabara dies wußten und sieh sagten,
-wir konnten, da wahrscheinlich von Harriet ständig beobachtet,
+weil die Vertreter der Umsabara dies wußten und sich sagten,
+wir könnten, da wahrscheinlich von Harriet ständig beobachtet,
 noch weniger ausrichten als ein Massenaufgebot! — Im Anschluß
-Oman möchte ich sofort den »Eingeklemmten«, den »Seemann«
+hieran möchte ich sofort den »Eingeklemmten«, den »Seemann«
 noch kurz streifen. Dir wird nun klar geworden sein,
 daß meine Vermutung, er sei Seemann, richtig ist. Ich behaupte
 sogar, der schneidige Bursche, allzu schneidig und brutal,
@@ -2108,45 +2109,45 @@ Ich beugte mich weit über den Tisch …
 
 »Nun — — und wie?!«
 
-»Drei Trümpfe habe ich in diesem Trat bereits ausgespielt
-und die Stiche eingeheimst. Das Krone als höchsten
-Einwurf reserviere ich mir … für den letzten Stich. Bis dahin
+»Drei Trümpfe habe ich in diesem Skat bereits ausgespielt
+und die Stiche eingeheimst. Das Kreuz als höchsten
+Trumpf reserviere ich mir … für den letzten Stich. Bis dahin
 wird noch so allerlei geschehen, mein lieber Alter …«
 
-Daran zweifelte ich nicht … — Ich mußte mich mit diesen
+Daran zweifelte ich nicht … — Ich mußte mich mit dieser
 dürftigen Auskunft zufrieden geben
 
 <h2>3. Kapitel.</h2>
 <h3>Der Habicht über uns.</h3>
 
 Wir waren an Deck geklettert, hatten die Ferngläser mitgenommen,
-saßen andern bei unseren drei Zinnowitzer Fischern,
-teilten Zigarren aus, und Harst kniete immer wieder mit
+saßen achtern bei unseren drei Zinnowitzer Fischern,
+teilten Zigarren aus, und Harst suchte immer wieder mit
 dem Glase den Himmel ab.
 
 Der Wind hatte gedreht, die See ging hoch, Spritzer
-kamen Über Lord, und im Westen schob sich dunkles Gewölk’
-über den Hochzeit.
+kamen Über Bord, und im Westen schob sich dunkles Gewölk
+über den Horizont.
 
 Der alte Fischer meinte knurrig: »Es gibt Schnee …
-Wir haben etwas Grad Kälte.«
+Wir haben zwei Grad Kälte.«
 
-»Hoffentlich gibt es nur Schneeflocken … Da hoch luden
+»Hoffentlich gibt es nur Schneeflocken … Da hoch über
 <@pagebreak/>
-uns schwebt eine Sorte Adler, die vielleicht aus mit den Krallen
-unangenehme Flecken vorläufig noch festhält.«
+uns schwebt eine Sorte Adler, die vielleicht auch mit den Krallen
+unangenehme Flocken vorläufig noch festhält.«
 
-— Der eine der Söhne, nickte Kurz. »Herr, ich verstehe …
+Der eine der Söhne, nickte Kurz. »Herr, ich verstehe …
 Die Flieger!«
 
 Dann grinste er breit und deutete nach Westen. »Herr, in
 spätestens zehn Minuten gibt es ein Schneetreiben, daß der
-Benzinvogel uns kaum mehr sehen wird …!!«
+Benzinvogel uns kaum mehr sehen wird …!«
 
 »Zehn Minuten, — dann leben wir nicht mehr«, erklärte
 Harald ernst. »Ich bedaure es, daß Sie drei mit in dieses drohende
 Verhängnis hineingezogen worden sind … — Steuern
-Sie nach Westen, sehen Sie jeden Fetzen Segel, den Sie haben,
+Sie nach Westen, setzen Sie jeden Fetzen Segel, den Sie haben,
 lassen Sie den Motor das Letzte hergeben, denn die Schufte
 werden uns niemals lebend nach Thiessow lassen, sie werden
 Bomben mit sich führen! Also los, — wir helfen!«
@@ -2154,89 +2155,89 @@ Bomben mit sich führen! Also los, — wir helfen!«
 Aus den etwas pomadigen Pommern war urplötzlich ein
 anderer Menschenschlag geworden. Der Alte blieb mit verbissenem
 Gesicht am Steuer, wir vier taten alles, was uns auch
-Ernsten geringsten Vorteil vor dem unerbtttlwhn Feinde verehrte.
+nur den geringsten Vorteil vor dem unerbittlichen Feinde verschaffte.
 
 Knallend und knatternd entfalteten sich neue braune Segel,
 der Kutter schoß nur so dahin, immer häufiger klatschten
 Brecher über Bord, wir hatten alte Ölmäntel übergezogen, die
-Eis?alten Spritzer kühlten uns die erhielten Gesichter, — —
-schräg Allee uns hing ein dunkler Fleck am Hinter, — schräg
-seitwärts ritt ein Sandalen, zweifellos ein Vatxouillenfchiff,
-dem unsere eilige, Fluchs vcrdIchtig vorkam.
+eiskalten Spritzer kühlten uns die erhitzten Gesichter, — —
+schräg über uns hing ein dunkler Fleck am Himmel, — schräg
+seitwärts fuhr ein Dampfer, zweifellos ein Patrouillenschiff,
+dem unsere eilige Flucht verdächtig vorkam.
 
-Der Dampfer hatte ebenfalls den Puls geändert, — wir
-dankten ihm dafür, wäre dieses für?e Schiff nicht gewesen, hatte
+Der Dampfer hatte ebenfalls den Kurs geändert, — wir
+dankten ihm dafür, wäre dieses flinke Schiff nicht gewesen, hätte
 der gefährliche Habicht da oben längst zugestoßen.
 
 Wer einen Fischkutter mit Hilfsmotor kennt, wer je auf
-dessen flachen, ungeschützten Deckplanken einen solchen Ritt —
+dessen flachen, ungeschützten Deckplanken einen solchen Ritt
 durch einen aufziehenden Sturm mitgemacht hat, wird wissen,
-wie tollkühn es ist, ohne gereizte Segel dahinzujagen.
+wie tollkühn es ist, ohne gereffte Segel dahinzujagen.
 
 Aber der alte verwitterte Zinnowitzer, der dort am Steuer
-wie ein böser buckeligen Gnom holte, Bootsrand sein Geschäft,
+wie ein böser buckeliger Gnom hockte, verstand sein Geschäft,
 <@pagebreak/>
 merkte jeden Sturmstoß voraus. — — Trotzdem blieb mir das
-Herz zuweilen stehen, wenn ich falsch und fühlte und hörte, wie
-der Kutter sich neigte und wie sein Mast und sein Treiben
+Herz zuweilen stehen, wenn ich sah und fühlte und hörte, wie
+der Kutter sich neigte und wie sein Mast und sein Treiber
 ächzten, wie die Segel sich zu Halbkugeln wölben wollten,
-— — Sennor war der Alte auf dem Posten, immer ließ er seinen
-plumpen Kahn in den Wind kannten …
+— — immer war der Alte auf dem Posten, immer ließ er seinen
+plumpen Kahn in den Wind laufen …
 
-Not wagte der Feind keinen Angriff Der Dampfer hatte
+Noch wagte der Feind keinen Angriff. Der Dampfer hatte
 aufgeholt, und Harriets Leute wußten wohl, daß dieser Dampfer
 ebenfalls ein Maschinengewehr an Bord haben dürfte.
--» Andrerseits wußten wir mit aller Bestimmtheit, daß das
-Flugzeug unsere Feindin inzwischen irgendwo abgefaßt hatte
+— Andrerseits wußten wir mit aller Bestimmtheit, daß das
+Flugzeug unsere Feindin inzwischen irgendwo abgesetzt hatte
 und daß sie sich gehütet Hatte, ihren Leuten von der Wette
 Mitteilung zu machen, um ihre Verbündeten nicht etwa einzuschüchtern.
 Die Flieger über uns handelten also ohne Harriets
 Einverständnis, handelten so, wie sie es für richtig hielten.
-Hauses mußte uns ja wenigstens so lange am Leben
+Harriet mußte uns ja wenigstens so lange am Leben
 lassen, bis wir Freund Bechert angeblich benachrichtigt hätten.
 Dieser Luftangriff kam *nicht* auf Harriets Rechnung, sie
 hatte wohl gehofft, das Flugzeug würde uns nicht mehr finden.
 
 Dann fielen die ersten Schneeflocken … Zunächst vereinzelt,
-nur als Vertrat der Hauptarmee. Noch toller heulte
-der Wind, die See war blauschwarz wie Tinte, — der Vortrat
-verfrühte sich, ganzes Wolken weißer Büscheln taumelten
+nur als Vortrab der Hauptarmee. Noch toller heulte
+der Wind, die See war blauschwarz wie Tinte, — der Vortrab
+verstärkte sich, ganzes Wolken weißer Vöglein taumelten
 wie erfroren auf die Deckplanken des Kutters,
 
 Ringsum war nur mehr eine weiße, wallende, wogende
-Einsamkeit und als Störenfriede die Wogenkämme, die lauschend
-und Dastand Herbestellen …
+Einsamkeit und als Störenfriede die Wogenkämme, die rauschend
+und fauchend herbeirollten …
 
 Der Zeit nach war’s zehn Uhr vormittags … Der Dunkelheit
 nach anbrechender Abend …
 
-Dampfer, Wasserflugzeug, — — alles war ausgetilgt
-Wir Schatten gesiegt zu haben, — — es schien nur so … Eine
+Dampfer, Wasserflugzeug, — — alles war ausgetilgt.
+Wir schienen gesiegt zu haben, — — es schien nur so … Eine
 Flugmaschine läßt ihre Beute nicht so leicht aus den Krallen,
 eine Bande wie diese, berechnet den günstigen Moment, wo das
 Maschinengewehr des Dampfers nicht mehr eingreifen konnte.
 
 Und das hatte Harst wohl vorausgesehen, — — er stand im
 <@pagebreak/>
-Schneetreiben am Heck, Denkens nach hinten gebeugt, starrte
-auswärts, herein …
+Schneetreiben am Heck, den Kopf nach hinten gebeugt, starrte
+aufwärts, horchte …
 
-Und wir Gartens …
+Und wir hörten’s …
 
-Es war nur ein seines Sausen, — es waren die Geräusche
+Es war nur ein feines Sausen, — es waren die Geräusche
 des Gleitfluges eines auf Mord bedachten Habichts,
 — Harst drängte plötzlich den alten Fischer vom Steuer weg,
 drückte das Steuer herum, wir liefen im Bogen in den Wind,
 die Segel klatschten, der Kutter taumelte hin und her, — —
 und hinter uns, kaum hundert Meter entfernt, flog ein großer
-Schatten durch die tänzelnrden Finden, hinter uns ertönten
-kurzer dumpfe Explosionen — noch eine dritte, — — dann Stille,
-hin das ferne Knattern eines Motors, das Flugzeug stieg
-wird empor, — unser Hinter schwieg, tutete braunen Segel
-waren weiß geworden, weite das Den, weiß unsere Ölkappen
+Schatten durch die tänzelnden Flocken, hinter uns ertönten
+zwei dumpfe Explosionen — noch eine dritte, — — dann Stille,
+dann das ferne Knattern eines Motors, das Flugzeug stieg
+wieder empor, — unser Motor schwieg, unsere braunen Segel
+waren weiß geworden, weiß das Deck, weiß unsere Ölkappen
 und Mäntel …
 
-Und nochmals kehrte der Habicht suchend zurück schoß
+Und nochmals kehrte der Habicht suchend zurück, schoß
 vorüber, fand uns nicht …
 
 Minutenlang hatten wir wie die Bildsäulen gestanden …
@@ -2245,40 +2246,40 @@ Wir hatten den Gevatter Tod in nächster Nähe gespürt …
 
 Die Kognakflasche kreiste … Der alte Fischer stieß einen
 ingrimmigen Fluch aus. Aber er grinste dabei und zitierte auf
-Platt ein vielgenanntes Wort aus Bett von Berlichingen … —
+Platt ein vielgenanntes Wort aus Götz von Berlichingen … —
 
 Eine Stunde drauf landeten wir in einer Bucht der Nordhälfte
 der Halbinsel Thiessow, wo der Wald bis dicht an das
-Fenster herantrat. Wir zogM den Kutter Halb zwischen die
+Wasser herantrat. Wir zogen den Kutter halb zwischen die
 unterspülten Wurzelstöcke zweier Kiefern, und wir sahen ringsum
-nur den Weißen Schnee, der frisch und rein Strand und
+nur den weißen Schnee, der frisch und rein Strand und
 Bäume bedeckte …
 
 Winterbild.
 
 Als wir rasch eine warme Mahlzeit zusammengebraut
 und zu fünfen gegessen hatten, brach die Sonne durch. Die
-Winterherrlichkeit saugt Berlin. Uns war es nur lieb, denn
+Winterherrlichkeit schwand dahin. Uns war es nur lieb, denn
 so schön auch eine frische unberührte Winterdecke ist, für unsere
-Zwecke wäre sie nur fror deswegen …
+Zwecke wäre sie nur störend gewesen …
 
-Der Spuren Lesern …! — Wir ankerten hier auf der Westseite
+Der Spuren wegen …! — Wir ankerten hier auf der Westseite
 <@pagebreak/>
 der Halbinsel, die Ortschaft Thiessow lag drüben auf
-der Ostseite, und die berühmte Lehmgrube wieder war innersten
-des Ortes zwischen WaldstüCean zu suchen.
+der Ostseite, und die berühmte Lehmgrube wieder war im Norden
+des Ortes zwischen Waldstücken zu suchen.
 
-Davor wir Luft unserem Koffer aufbrechen, jetzt abermals
+Bevor wir mit unserem Koffer aufbrachen, jetzt abermals
 äußerlich recht verwandelt, gab Harald unseren braven
 Fischern außer einigen Banknoten den sehr dringenden Rat,
-erst Adonis noch Zinnowitz Kuruckzuxahren und den Kutter möglichst
+erst abends nach Zinnowitz zurückzufahren und den Kutter möglichst
 dicht mit Tannenästen zu bedecken …
 
-Mit kräftigen Händedrücken vembfclcedeten wir uns.
+Mit kräftigen Händedrücken verabschiedeten wir uns.
 
-Kurz nach zwölf Uhr mittags betraten eine dämonisch
+Kurz nach zwölf Uhr mittags betraten eine bäurisch
 gekleidete dicke Frau mit Kopftuch und ein ebenso ländlicher,
-hinkenden Mann mit günstigen Bart das Haus des Landjägerpostens
+hinkender Mann mit fuchsigem Bart das Haus des Landjägerpostens
 in Thiessow. Der Mann schleppte einen in einen
 alten Ölmantel gehüllten Koffer auf dem Rücken und stützte
 sich schwer auf seinen derben, frisch geschnittenen Buchenstock.
@@ -2293,13 +2294,13 @@ Luft in der Stube glich so etwa stärkstem Londoner Nebel.
 Das ländliche Ehepaar blieb bescheiden an der Tür stehen.
 Der Landjäger betrachtete sie erstaunt. Sie waren ihm fremd.
 Nur der eine Herr auf dem Sofa, der ein sehr gesundes, sehr
-energisdEe8 Gesicht und eigentümlich stehende Augen hatte,
+energisches Gesicht und eigentümlich stechende Augen hatte,
 beugte sich weit vor und flüsterte dann dem zweiten, sehr mageren
 Zivilisten neben sich etwas zu.
 
 »Sie wünschen?«, fragte der Landjäger kurz angebunden,
 
-Der Fuchsbärtige erwiderte im schönsten Platt und tiefsten
+Der Fuchsbärtige erwiderte im schönsten Platt und tiefstem
 <@pagebreak/>
 Baß, daß zwei Herren ihm aufgetragen Hätten, hier folgendes
 zu melden: Der Patrouillendampfer »Swine« sei gegen
@@ -2309,13 +2310,13 @@ nachher jedoch befreit worden. — Das sei alles.
 
 Vom Sofa her kam ein breites Lachen …
 
-»Frosch, lassen Sie sich doch von den beiden Grashupfern
-nicht zum besten halten! Der Harst sieht so. echt aus, daß er
+»Brasch, lassen Sie sich doch von den beiden Grashupfern
+nicht zum besten halten! Der Harst sieht so echt aus, daß er
 geradezu nach Pferdestall stinkt, und der Schraut stinkt nach
-Ausbezahlt und Hühnern und Quarkkäse! — Setzt euch, ihr beiden
-… Also, Frosch, damit sie vor Überraschung nicht noch
+Kuhstall und Hühnern und Quarkkäse! — Setzt euch, ihr beiden
+… Also, Brasch, damit sie vor Überraschung nicht noch
 intelligenter werden: Das ist Harst, — das ist Schraut, und
-wo die Knaben in solcher Verkleidung auftauchen, dort nichts
+wo die Knaben in solcher Verkleidung auftauchen, dort riechts
 nach Sensatiönchen!! Setzt euch, zum Deibel! Oder haltet ihr
 den Kriminalrat Penz und seinen Kommissar Schnick für so
 verkalkt, daß die euch nicht auf den ersten Blick erkennen?«
@@ -2335,52 +2336,52 @@ verraten!! Ein glorreicher Mann, der Harst! Nichts verraten,
 — — sehr gut, vorzüglich, — — nur braucht ihr das
 gar nicht zu tun, das wissen wir schon allein, was euch herführt.
 Habt ihr also doch Wind von dem »Amazonas«
-bekommen?! Reizt aufs die Sache? — — So gelingt doch Smoking
+bekommen?! Reizt euch die Sache? — — So nehmt doch endlich
 Platz und seid gemütlich …!«
 
-Harst erwiderte sehr bestimmt: »Ich habe die Kalkuttas,
+Harst erwiderte sehr bestimmt: »Ich habe die Meldung,
 die ich hier erstatten sollte, erledigt, und wir verabschieden uns
 wieder … — Wiedersehen … später …!«
 
-»Halt!« — Penz wer aufgesprungen Mit Penz war nicht
+»Halt!« — Penz war aufgesprungen. Mit Penz war nicht
 gut Kirschen essen.
 
 <@pagebreak/>
 »Halt, so geht das nicht, lieber Harst … Denken Sie,
-ich hohe hier in diesem Fest zu meinem Privatvergnügen
+ich hocke hier in diesem Nest zu meinem Privatvergnügen
 wochenlang herum?! Diese ganze verdammte Goldgeschichte
-hängt mir schon zum Halse heraus! Ja Thiessow wimmelnun
-mehr Kriminatibeamte Ddurdzeinander als Einwohner, jeder
-Fremde wird beäugt, beobachtet, betrat, — — und da graue
-den Sie beide, daß Sie Ihre »Vergnügungstour« Tone polizeiliche
-Erholung fortsetzen oberen?! Irrtum!!«
+hängt mir schon zum Halse heraus! In Thiessow wimmeln
+mehr Kriminalbeamte durcheinander als Einwohner, jeder
+Fremde wird beäugt, beobachtet, befragt, — — und da glauben
+Sie beide, daß Sie Ihre »Vergnügungstour« ohne polizeiliche
+Bedeckung fortsetzen können?! Irrtum!!«
 
 »Mag sein …« Auch Harald wurde bissig. »Aber auch
-Ihre Garde laßt sieh abschütteln, Herr Rat … Tunnel Schraut
-und ich schicke) hier kurze Station ansehen wollen und dann
+Ihre Garde läßt sich abschütteln, Herr Rat … Zumal Schraut
+und ich lediglich hier kurze Station machen wollen und dann
 nach Hause fahren. Das Gasthaus drüben ist bescheiden und
-genügt einen ländlichen Ehepaar … Von uns haben Sie
-*nichts* zu erwarten, nichts! Weise Privatangelegenheiten
-gehen der Polizei gar nichts an, selbst wenn ich hier im Haare
-lefinfostüum Herumliefe … — Wicderisch2ia …«
+genügt einem ländlichen Ehepaar … Von uns haben Sie
+*nichts* zu erwarten, nichts! Meine Privatangelegenheiten
+gehen der Polizei gar nichts an, selbst wenn ich hier im 
+Harlekinkostüm herumliefe … — Wiedersehen …«
 
-Penz Notiert lasse ich besser weg. — Drüben im Viereck
-Haus war die »Gaststube bis auf da: dicken Wirt und einem
+Penz’ Antwort lasse ich besser weg. — Drüben im Wirtshaus
+war die Gaststube bis auf den dicken Wirt und einen
 städtisch gekleidetes Herrn, der offenbar »in Seife« reiste (so
-roch er) gänzlich leer. Wir schien uns, bestellten Koffern
-belegte Brote und je zwei hart gedachte Eier und wurden
-prompt bedient. Der Seifenreisende, der einen Ülcincna Musterkoffer
-neben ließ Kehren hatte, war bestimmt ein Kriminalbeamter,
-denn Ohr saß so, daß er durch das Fenster das Haus
+roch er) gänzlich leer. Wir setzten uns, bestellten Kaffee,
+belegte Brote und je zwei hart gekochte Eier und wurden
+prompt bedient. Der Seifenreisende, der einen kleinen Musterkoffer
+neben ließ stehen hatte, war bestimmt ein Kriminalbeamter,
+denn er saß so, daß er durch das Fenster das Haus
 des Landjägers beobachten konnte, und wir merkten auch,
 daß er von dort Signale erhielt und uns daraufhin verstohlen
 musterte.
 
 Nach etwa zwanzig Minuten fragte Harst den Wirt
-nach der Wasgelegenheit für Männer und wurde auf den
+nach der Waschgelegenheit für Männer und wurde auf den
 Hof gewiesen, der an den Wald grenzte. Und wieder nach
-zehn Minuten fragte ich etwas Schrittes, ging hinaus, wert
-barg mich hinter einer angelehnten Stalltür, — — und Eiche
+zehn Minuten fragte ich etwas Ähnliches, ging hinaus, verbarg
+mich hinter einer angelehnten Stalltür, — — und siehe
 da, auch der Seifenreisende fühlte Reinlichkeitsbedürfnisse, war
 wohl mißtrauisch geworden und betrat den primitiven Raum,
 den Harald längst verlassen haben mußte … So hatten wir’s
@@ -2388,26 +2389,26 @@ den Harald längst verlassen haben mußte … So hatten wir’s
 mit wenigen leisen Worten vereinbart, hatten auch einen
 Treffpunkt vereinbart …
 
-Es kam anders … Ich vernahm plötzlich von dem be
-wußten Menschen der ein kurzes, scharfes, Aussehendes Getäuscht,
+Es kam anders … Ich vernahm plötzlich von dem bewußten
+Örtchen her ein kurzes, scharfes, klatschendes Geräusch,
 dann einen ebenso kurzen hellen Schrei, der mich veranlaßte,
 eilends hinter jene Bretterwand zu laufen und …
 
-Ich blieb wie erstarrt in der Türöffnung zu dem ländlichschlichten
+Ich blieb wie erstarrt in der Türöffnung zu dem ländlich-schlichten
 diskreten Raume stehen. Auf dem Ziegelboden lag
 der Seifenreisende auf den Knien, der Kopf hing etwas schlaff
 auf der einen Schulter, der schöne blonde Spitzbart und die
-Intelligeu3zbrille sowie eine blonde Scheitelperücke waren wenig
-malerisch um diese Jammergestalt gruppiert,; und Harald war
+Intelligenzbrille sowie eine blonde Scheitelperücke waren wenig
+malerisch um diese Jammergestalt gruppiert, und Harald war
 gerade dabei, der Person die Hände auf dem Rücken zu binden.
 Etwas weiter ab lag noch eine Luftpistole, und ein
-seiner roter Strich über Harsts linke Schläfe bewies mir, daß
+feiner roter Strich über Harsts linke Schläfe bewies mir, daß
 ich das Richtige vermutet hatte: Das kurze, harte Geräusche war
 ein Schuß gewesen!
 
 Und doch blieb all das gegenüber einer anderen Beobachtung
 völlig unwesentlich: Die von Harald offenbar durch
-Fausthieb niedergestreäte Person hatte einen glatten Bubikopf,
+Fausthieb niedergestreckte Person hatte einen glatten Bubikopf,
 sehr schönes braunes Haar und so zierliche Ohren, daß
 selbst die tadellos aufgetragene Schminke, die etwas dicke
 Nase und die Schnurrbartreste mich nicht täuschen konnten.
@@ -2415,13 +2416,13 @@ Nase und die Schnurrbartreste mich nicht täuschen konnten.
 Es war Harriet Prill!!
 
 Ich selbst, viel zu verblüfft, um mich zu einer Frage geistig
-sammeln zu können, hörte nur halb hin, als Harst eiligst erwarte:
+sammeln zu können, hörte nur halb hin, als Harst eiligst erklärte:
 »Eine derartige Unverfrorenheit bringt nur unsere
-Feindin fertig …! Ich wette, sie hat sich hier als Kriminalsbeamter
-eingesamuggelt … Nimm ihr doch mal Die Brieftasche
+Feindin fertig …! Ich wette, sie hat sich hier als Kriminalbeamter
+eingeschmuggelt … Nimm ihr doch mal Die Brieftasche
 ab …«
 
-Während er die halb Bewußtlose stützte, die langsam, zu
+Während er die halb Bewußtlose stützte, die langsam zu
 sich kam, blätterte ich in den Papieren.
 
 Was fand ich?! — Einen (natürlich gefälschten) Ausweis
@@ -2430,46 +2431,46 @@ Alvarez Parturio, dazu ein ebenso schönes amtliches Schriftstück,
 <@pagebreak/>
 das den Sennor Parturio der deutschen Polizei als
 Helfer zuwies!! — Ich will hier gleich einfügen, daß sich später
-Gemusterte, wie raffiniert Harriet Prill in dicker Wandte
+herausstellte, wie raffiniert Harriet Prill in dieser Maske
 in den letzten Tagen zeitweilig die große Razzia insgeheim
 Überwacht und ihre Gegenmaßnahmen getroffen hatte. Ich
-will« ebenso hervorheben, daß unserer Polizei keinerlei Vorwurf
+will ebenso hervorheben, daß unserer Polizei keinerlei Vorwurf
 daraus zu machen war, dieser Frau so ahnungslos ins
 Garn gegangen zu sein. Harst hatte sie im Dorfwirtshaus
 auch nur daran erkannt, daß sie … die Handschuhe anbehalten
 hatte, denn schmale Frauenhände in gefütterten Lederhandschuhen,
 die drei Nummern zu groß sind, müssen für ein
-Inniges Auge auffällig wirken.
+kritisches Auge auffällig wirken.
 
 Genug, — Harriet war nun wieder voll bei Besinnung,
-richtete sich auf und betrachtete uns beide mit eisigem Spott,
-»Gewiß, Harst, Sie haben mich erwischt«, sagte sie mit der,
+richtete sich auf und betrachtete uns beide mit eisigem Spott.
+»Gewiß, Harst, Sie haben mich erwischt«, sagte sie mit der
 gewohnten krankhaften Anmaßung. »Ihre Wette haben Sie
 trotzdem nicht gewonnen, und deshalb dürfen Sie die Polizei
-nicht bemühen. Die »Hauptfrage« haben See nicht gelöst, und
+nicht bemühen. Die »Hauptfrage« haben Sie nicht gelöst, und
 Ihr Geld erhalten Sie erst zurück, wenn …«
 
 »Die Hauptfrage *ist* gelöst«, unterbrach Harald sie mit
-Ernst und Nachdruck, »Die Hauptfrage ging darum, wie Sie
-die Goldbarren nach Berlin geschafft haben … I) weiß es,
-und da irr es weiß, haben *Sie* verloren! Sie sollen dabei
-sein, wenn ich Na! Penz die Lehmgrube und deren Besonderheiten
+Ernst und Nachdruck. »Die Hauptfrage ging darum, wie Sie
+die Goldbarren nach Berlin geschafft haben … Ich weiß es,
+und da ich es weiß, haben *Sie* verloren! Sie sollen dabei
+sein, wenn ich Rat Penz die Lehmgrube und deren Besonderheiten
 zeige und erkläre.«
 
 Harriet zuckte merklich zusammen. »Sie … wissen?! Das
 ist unmöglich, Harst!!«
 
-»Es ist so … Ich fand im Laderaum des Vaters noch genügend
+»Es ist so … Ich fand im Laderaum des Kutters noch genügend
 Reste jener tonhaltigen Lehmerde, und ich ließ sie auf
-dem Ofen trocknen, zerbröckelte sie und soll, was ich sehen
+dem Ofen trocknen, zerbröckelte sie und sah, was ich sehen
 wollte …«
 
 Harriet senkte den Kopf …
 
 »Also — — verspielt!«, meinte sie niedergeschlagen. »Ich
 <@pagebreak/>
-sehe jetzt ein, daß Sargmagazin Eufelt war ein Fehler …
-Ich hätte nachts vorsichtiger sein müssen.«
+sehe jetzt ein, das Sargmagazin Eufelt war ein Fehler …
+Ich hätte noch vorsichtiger sein müssen.«
 
 »leider eine zu späte Einsicht, Harriet …! — Kommen
 Sie … Penz wird ein paar interessante Stunden verleben …«
@@ -2486,28 +2487,28 @@ Landjäger, die ihre Karabiner bereit hielten, welcher Art die
 Lösung dieser verzwickten Geschichte sein könnte.
 
 Die Lehmgrube war sehr umfangreich, hatte steil abfallende
-Wände, hatte eine groß? Bretterhütte für die Arbeiter,
+Wände, hatte eine große Bretterhütte für die Arbeiter,
 hatte ein Feldbahngleis bis zur See hinab und in einer
 zweiten Hütte eine elektrische Kraftanlage, an Stangen verschiedene
 Lampen, einen kleinen Erdbagger, — kurz, auch
-dies Unternehmen war zarte großzügig aufgezogen worden.
+dies Unternehmen war ganz großzügig aufgezogen worden.
 
 Im übrigen war die Lehmgrube leer, obwohl hier noch
-Heute gearbeitet worden war, wie die Spuren verrieten. Harst
+heute gearbeitet worden war, wie die Spuren verrieten. Harst
 hielt sich mit der Durchsuchung der Hütten nicht lange auf. Er
 allein schritt dann an den Wänden der Grube entlang, tat dies
-mehrfach und schien ungeduldig zu werden. E blieb stehen«
-schaute nochmal die Lehmanbhänge an und drehte sich plötzlich
+mehrfach und schien ungeduldig zu werden. Er blieb stehen,
+schaute nochmal die Lehmabhänge an und drehte sich plötzlich
 um. Harriet, die unter Bewachung von Zwei Kriminalbeamten
-mehr im Hintergrunde stand, lachte hervor Stotternd auf. Aber
+mehr im Hintergrunde stand, lachte herausfordernd auf. Aber
 <@pagebreak/>
-das Wochen verging ihr. Harst deutete stumm auf eine einzelne
+das Lachen verging ihr. Harst deutete stumm auf eine einzelne
 dicke Strandkiefer, die etwa vier Meter unterhalb des
 höchsten Punktes der Lehmwand auf einem Vorsprung mit
-mächtigen, zum Zeit freiliegenden Wurzeln fast wagerecht sich
+mächtigen, zum Teil freiliegenden Wurzeln fast waagerecht sich
 eingenistet hatte.
 
-»Garn Rat, lassen Sie vier Ihrer Leute von oben auf die
+»Herr Rat, lassen Sie vier Ihrer Leute von oben auf die
 Kiefern klettern … Taue und Leitern haben wir ja mitgebracht.«
 
 — Ich will die folgenden Ereignisse nur kurz streifen. —
@@ -2521,15 +2522,15 @@ Und vor dieser Maschine, an der überall noch Spuren
 von Goldstaub hafteten, gab Harald etwa folgende Erläuterungen:
 
 Harriet Prill hatte den Anschlag gegen das Goldschiff von
-langer Hand vorbereitet, Der Orkan kam ihr sehr Belagern,
+langer Hand vorbereitet. Der Orkan kam ihr sehr gelegen,
 der Torpedozerstörer und der Dampfer wurden durch das Wasserflugzeug
 versenkt, aber Wracktrümmer wurden angetrieben
 und meldeten die Katastrophe. Harriet hatte den Dampfer
 in schlauer Berechnung an der tiefsten Stelle sechs Meilen
-nordöstlich von Thiessow versenkt, damit das« Wrack nicht gefunden
+nordöstlich von Thiessow versenkt, damit das Wrack nicht gefunden
 würde. Gerade an dieser tiefsten Stelle war der Meeresgrund
 steinig, Felsen lagen umher, und die Suchschiffe
-hatten wenig Ansicht, mit ihren Schleppankern den Amazonas
+hatten wenig Aussicht, mit ihren Schleppankern den Amazonas
 aufzuspüren. Sofort nach Abflauen des Sturmes ließ Harriet
 durch ihre Vertrauten die Goldbarren nachts mit Hilfe
 von Tauchern heraufholen und hier in die Lehmhütte schaffen.
@@ -2539,7 +2540,7 @@ wach Berlin bringen und an ihre Großhehler veräußern könnte.
 Deshalb — und Hierin lag zweifellos ein genialer Gedanke —
 hatte sie ebenso rechtzeitig auch all die anderen umständlichen
 <@pagebreak/>
-Vorkehrungen getroffen, die freilich bei einem Objekt lag
+Vorkehrungen getroffen, die freilich bei einem Objekt von
 200 Millionen keine Rolle spielten.
 
 Die Goldbarren wurden also hier in der Lehmhöhle in
@@ -2548,97 +2549,97 @@ beigemischt, die dann nach Zinnowitz in die Urnenfabrik
 zur Weiterverarbeitung kam. Da der Goldstaub durch chemische
 Beimengungen dunkel gefärbt worden war, konnten dem
 Lehmbrei große Mengen Goldstaubes beigefügt werden. Die
-Urnen uns der Zinnowitzer Fabrik enthielten sicherlich; so
+Urnen aus der Zinnowitzer Fabrik enthielten sicherlich, so
 meinte Harst, Zu ein Drittel Edelmetall. Sie gingen nach
 Berlin, gelangten über dem Umweg des Sargmagazins in die
-Stamvpferet, wurden zu Pulver zerkleinert, und diesem Pulver
+Stampferei, wurden zu Pulver zerkleinert, und diesem Pulver
 wurde das Gold auf chemischen Wege wieder entzogen.
-Die Heller der Stampferei besaßen einen Geheimraum, in dem
+Die Keller der Stampferei besaßen einen Geheimraum, in dem
 aus Urnen wieder Goldbarren hergestellt wurden. Daß dieses
-Spannst? Laboratorium dort vorhanden sein müßte, hatte Ha
-Yard dem Zuruf des Wächters entnommen, der einen, »Doktor«
+chemische Laboratorium dort vorhanden sein müßte, hatte Harald
+dem Zuruf des Wächters entnommen, der einen »Doktor«
 fragte, ob er noch immer bei der Arbeit sei. —
 
 Während dieser Erklärungen Harsts war von keiner Seite
 eine Zwischenfrage gefallen. Erst als er schwieg, trat einer
 der verhafteten Leute vor, und gab uns auch, um seine eigene
-Haus zu retten, die Stelle an, wo hier die Goldbarren vergraben
+Haut zu retten, die Stelle an, wo hier die Goldbarren vergraben
 lägen. — Wir hätten sie auch ohne ihn gefunden.
 
-Und dann zeigte sich die Hauvptperson dieses einzigartigen
-Kriminalfalles, Herren ihrem krankhaften Größenwahn und
-ihrer Bucht, von sich Arten zu machen, von einer anscheinend
-so großmütiger, ihrem Wettversprechen so ehrlich Nachens
-wenden Heute, daß sogar Harst zunächst aus seinem Erstaunen
-und seiner Anerkennung kein Licht machte.
+Und dann zeigte sich die Hauptperson dieses einzigartigen
+Kriminalfalles, getreu ihrem krankhaften Größenwahn und
+ihrer Sucht, von sich reden zu machen, von einer anscheinend
+so großmütigen, ihrem Wettversprechen so ehrlich nachkommenden
+Seite, daß sogar Harst zunächst aus seinem Erstaunen
+und seiner Anerkennung kein Hehl machte.
 
 »Harst, Sie haben gewonnen«, sagte Harriet mit leichtem
-Verspeisen, daß man als Verbeugung deuten konnte. »Das
+Kopfneigen, daß man als Verbeugung deuten konnte. »Das
 Geld, das ich Ihnen stahl, also der Scheckbetrag, befindet sich
-in vier großen Sekfeariegeln meines Musterkoffers, — das
-ist die Wahrbe21t.«
+in vier großen Seifenriegeln meines Musterkoffers, — das
+ist die Wahrheit.«
 
 <@pagebreak/>
-»Konnte Ihnen«, — aber Haralds Salz wurde durch ein
-stilles Auslagen zerschnitten.
+»Ich danke Ihnen«, — aber Haralds Satz wurde durch ein
+schrilles Auflagen zerschnitten.
 
-»Laufen Sie mir leicht …!! Ich kann mir denken, daß
+»Danken Sie mir nicht …!! Ich kann mir denken, daß
 die Polizei nun auch in Berlin auf telegrafischen Befehl von
-hier meine Leute Verzagtheit hat, — ich weiß, laß man mich
+hier meine Leute verhaftet hat, — ich weiß, daß man mich
 wieder in eine Irrenanstalt einsperren wird, — ich weiß, daß
-man mich aus Sc6rjjite bewachen wird!!«
+man mich aufs Schärfste bewachen wird!«
 
-Ihre grauen Zugang sprühten jetzt wieder jenen unbändigen
-Haß, der ihre Seele förmlichen zerfloß …
+Ihre grauen Augen sprühten jetzt wieder jenen unbändigen
+Haß, der ihre Seele förmlichen zerfraß …
 
-»Und doch werde ich Eisen finden kurzen, Harst …!! Ich
-werde entzücken! Für mich ist noch kein Kerker gebaut, der
-fest genug wäre! Wir sicher uns wieder, Harst, — wir rechnen
+»Und doch werde ich Sie zu finden wissen, Harst …!! Ich
+werde entfliehen! Für mich ist noch kein Kerker gebaut, der
+fest genug wäre! Wir sehen uns wieder, Harst, — wir rechnen
 ab!! Bald — — sehr bald vielleicht … Wer wie ich
-die Idee ersann, das Gold in Urincnsorm wegzufcxxaffea, wird
+die Idee ersann, das Gold in Urnenform wegzuschaffen, wird
 auch Sie und Ihren Freund austilgen! Hüten Sie sich!!«
 
 Harst trat langsam auf sie zu …
 
 »Harriet Prill, — sind Sie zum wirklich nicht mehr zu
-bessern?!« Selten hat er so worin und einbzingliy Besucher
+bessern?!« Selten hat er so warm und eindringlich gesprochen.
 
-»Ferner, unterschätzt Sie die Deutschen Stückchen nicht!
-Man wird keinerlei Rüccsihht mehr auf Ihre …«
+»Harriet, unterschätzt Sie die Deutschen Behörden nicht!
+Man wird keinerlei Rücksicht mehr auf Ihre …«
 
-Und wieder dasselbe stille, haßerfüllte Lachen.
+Und wieder dasselbe schrille, haßerfüllte Lachen.
 
-»Rücksicht?! Verlange ich Bein Rücksicht?! Den Begriff
-ehe ich warf!! Faulenzte Sie Tasche Polizei Kugel …
-Hier geht’s um Hatten, Trifft Einen Fehler, wie das Sargmagazin
-Eufelt ihn Darstellte, Gesetze ich nicht Mietern!!«
+»Rücksicht?! Verlange ich denn Rücksicht?! Den Begriff
+kenne ich nicht!! Sparen Sie sich Ihr Wortgeklingel …
+Hier geht’s um Taten, Harst!! Einen Fehler, wie das Sargmagazin
+Eufelt ihn Darstellte, begehe ich nicht wieder!!«
 
 Sie wandte sich schroff um …
 
 *Dieses* Spiel war aus …
 
-Aber als wir Bande über Stralsund mit dem D-Zug
+Aber als wir abends über Stralsund mit dem D-Zug
 heimfuhren, hatte ich einen sehr, sehr stillen, sehr nachdenklichen
-Reisecesährten.
+Reisegefährten.
 
-Erst kurz vor Berlin sagte Harald, indem er mir ganz übers
-lassend das Statuen Zelluloidkragen hinhielt, das er
-unserer Küche damals aus der Liköre hervorgesucht hatte:
+Erst kurz vor Berlin sagte Harald, indem er mir ganz überraschend
+das Stückchen Zelluloidkragen hinhielt, das er
+unserer Küche damals aus der Asche hervorgesucht hatte:
 »Hier — chemisch präpariert, mein Alter …! Du erkennst
 <@pagebreak/>
 jetzt auf dem unverkohlten Stück Kragen die Ostseeküste Rügens
 … Der »Seemann« wußte schon, weshalb er seine Geheimkarte
 verbrannte! Trotzdem Half sie mir, den Golddampfer
-mit Hauer und mit den Urnen in Verbindung zu
+mit Harriet und mit den Urnen in Verbindung zu
 bringen! — Im übrigen will mir Harriets Wasserflugzeug nicht
 aus dem Kopf …! Wenn Penz nur vorsichtig ist!«
 
-… Der Zug lief in den Stettiner Fabrikhof ein. Plötzlich
-tauchte Freund Bechert auf dem Bahnsteig auf. Sein Gesichtsausdrucks
+… Der Zug lief in den Stettiner Bahnhof ein. Plötzlich
+tauchte Freund Bechert auf dem Bahnsteig auf. Sein Gesichtsausdruck
 verriet übergenug … — —
 
-Ton das ist wieder eine andere Geschichte. Man soll
+Doch das ist wieder eine andere Geschichte. Man soll
 als Chronist nicht vorgreifen …!
 
-Nächster Band:
-Der Wolkenkratzer der Todessekte.
+<#import "*/harst.ftl" as harst>
+<@harst.naechsterband band="Der Wolkenkratzer der Todessekte."/>
