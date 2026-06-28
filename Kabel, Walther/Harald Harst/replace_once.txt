@@ -52,6 +52,7 @@
 \bis!\b	ist
 \bLarald\b	Harald
 \blebten	letzten
+\bNat\B	Rat
 \bniht\B	nicht
 \blett\b	jetzt
 \bLust\b	Luft
