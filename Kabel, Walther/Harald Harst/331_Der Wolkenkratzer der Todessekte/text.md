@@ -5,7 +5,7 @@
 <h2>1. Kapitel.</h2>
 <h3>Ein Araberfürst und ein Monokel.</h3>
 
-Der D-Zug von Saßnitz—Rügen war soeben in den
+Der D-Zug von Saßnitz-Rügen war soeben in den
 Stettiner Bahnhof, Berlin, eingelaufen.
 
 Der erste, den wir beim Aussteigen erblickten, war Freund
@@ -30,10 +30,10 @@ wie ihr mit der Unterweltskönigin dran seid.«
 Harst nickte und schaute dem sich entfernenden Strome
 der Reisenden nach. »Allerdings, das wissen wir, Bechert.
 Aber diese drei Leute des Flugzeuge dürften auch der klägliche
-Nest der Prill-Bande sein. Ich glaube nicht, daß Harriet
+Rest der Prill-Bande sein. Ich glaube nicht, daß Harriet
 nochmals in Berlin ihr Glück versuchen wird, die Pechsträhne,
 die sie hier …« — er schwieg plötzlich, trat etwas zur Seite
-und kniff die Augen klein, wandte sich uns dann. wieder zu
+und kniff die Augen klein, wandte sich uns dann wieder zu
 und fuhr gänzlich zusammenhanglos fort:
 
 <@pagebreak/>
@@ -48,7 +48,7 @@ sehr ernst zu nehmende Gegnerin.
 
 Unser Sportwagen, von Munk gesteuert, lenkte in den
 Tiergarten ein. Wir hatten das Verdeck hochgeschlagen, es
-Schneite etwas, die Straßen waren feucht und schmutzig, nur
+schneite etwas, die Straßen waren feucht und schmutzig, nur
 im stilleren Tiergarten bot sich uns ein mehr winterliches
 Bild dar.
 
@@ -60,10 +60,10 @@ hatte bereits auf dem Bahnsteig etwas Verdächtiges bemerkt,
 und wir wurden jetzt verfolgt.
 
 Abermals lugte er durch die kleine Scheibe, rief Munk
-zu: »Vollgas, — — nur GSeitkenstraßenll« Und mir gab er
-zugleich einen leichten Stoß …! -»Hinknien, mein Alter!! Die
+zu: »Vollgas, — — nur Seitenstraßen!!« Und mir gab er
+zugleich einen leichten Stoß …! »Hinknien, mein Alter!! Die
 Geschichte wird brenzlich, der große Chrysler hinter uns gefällt
-mir nicht …« …
+mir nicht …«
 
 Peter Munk, nur Aushilfschauffeur, hauptberuflich einer
 der feinsten Köpfe der Detektei Argus, duckte sich vorn auf
@@ -76,14 +76,14 @@ nur drei Löcher dort oben im Verdeck kosten können! Natürlich
 wieder Harriets berüchtigte Luftbüchsen mit starker
 Durchschlagskraft …!«
 
-Als wir daheim; angelangt waren, als Harald auch seine
+Als wir daheim angelangt waren, als Harald auch seine
 Mutter droben in ihren Räumen begrüßt hatte, schloß er die
 <@pagebreak/>
 eisernen Fensterladen in seinem Arbeitszimmer und setzte sich
 dann zu uns. Munk, ein kleiner, sehniger Mann mit einem
 vorbildlichen Spießergesicht und einem grotesken Nickelkneifer
 auf der stark geröteten Nase (der Kneifer hatte nur Fensterglasgläser,
-und die Nasenröte war Cheatermachch kaute an
+und die Nasenröte war Theatermache) kaute an
 einer Zigarre und zwinkerte mir listig zu.
 
 »Schrautchen, in Harsts Manteltasche steckt die heutige
@@ -93,7 +93,7 @@ von Makaresch steht haarklein darin, und Harriet wird
 aus dem Frack springen, daß ihr die schöne runde Million
 entgangen ist.«
 
-Harst griff nach einer Zigarette., —
+Harst griff nach einer Zigarette.
 
 »Entgangen, Munk?! Wie können Sie das wissen?!
 Mit einem Flugzeug läßt sich so allerlei anstellen, da spielen
@@ -106,14 +106,14 @@ Tracht und einen sehr geschniegelten Monokel-Herren,
 deren liebenswürdige heimliche Aufmerksamkeit bestimmt
 Bechert und uns galt. Ob die beiden nachher von der Chrysler-Limousine
 aus Schießübungen anstellten oder ob in dem
-jyu-d(essen Wagen andere Sauschützen saßen, weiß ich allerdings
-Pirat.«
+feudalen Wagen andere Sauschützen saßen, weiß ich allerdings
+nicht.«
 
 Munk grinste und zeige dabei drei blinkende Goldzähne.
-»Spärlichem, die Sorte Kopfschmerzen kann ich ihnen abnehmen.
+»Harstchen, die Sorte Kopfschmerzen kann ich Ihnen abnehmen.
 Das gehört zu meinem Beruf, der mir mehr behagt, als der
 ursprüngliche. Gott segne die Prüfungskommission, die mich
-beim: Grauen zum Studienassessor mit Pauken und Trompeter
+beim Examen zum Studienassessor mit Pauken und Trompeten
 durchfallen ließ. Sonst wäre ich nie Privatdetektiv geworden.
 — Aber — zur Sache. Als ich mit unserem Flitzer
 vor dem Stettiner Bahnhof auf Sie beide wartete, fiel mir
@@ -123,102 +123,102 @@ darin ein eleganter brauner Halunke mit Spitzbart und ein
 Monokel-Gent saßen. Nachher stiegen sie aus. Der Chauffeur
 war weiblichen Geschlechts, wenigstens der Kleidung nach,
 und anscheinend sehr hübsch und forsch, mittlerer Größe,
-rauchte englische Zigaretten und war soll nervös.«
+rauchte englische Zigaretten und war sehr nervös.«
 
-Harald schaute Und lange an. »Sie meinen, es könnte
+Harald schaute Munk lange an. »Sie meinen, es könnte
 auch ein verkleideter Mann gewesen sein? Weshalb?!«
 
-Vetter Munk warf seine Zigarre in den Kamin, die
+Peter Munk warf seine Zigarre in den Kamin, die
 keinen rechten Zug gehabt hatte. »Sie trug Schleier, Harst,
 — bis zur Nasenspitze, und war übermäßig gepudert und geschminkt.
 Aber die Figur — — tadellos!«
 
 »Also wissen wir nun das eine bestimmt: Der Asiate und
 das Monokel waren die Schützen, die sehr anfängerhaft unser
-Bechert durchlöchert haben.«
+Vehikel durchlöchert haben.«
 
 Es läutete im Flur. Die Standuhr schlug gerade halb
-acht. Ich ging Linien, und es kostete mich einige Mühe, meine
+acht. Ich ging öffnen, und es kostete mich einige Mühe, meine
 Überraschung zu verbergen: Einer der beiden späten Klienten
 war zweifellos ein Araber, der andere Herr trug ein Monokel.
 
-Hiermit nicht ganze: Das Monokel stellte mir den braunen,
-Spitzbärtigen Fremden als Seine Hoheit, den Sultan von
+Hiermit nicht genug: Das Monokel stellte mir den braunen,
+spitzbärtigen Fremden als Seine Hoheit, den Sultan von
 Makaresch, vor und nannte dann seinen eigenen Namen:
-Baron Handels?!, Sekretär und Reisebegleiter Seiner Hof
+Baron Gambritzki, Sekretär und Reisebegleiter Seiner Hoheit
+…
 
-eilt …
-Die Gäste unschwer Platz, und Sultan Omar setzte uns
+Die Gäste nahmen Platz, und Sultan Omar setzte uns
 in sehr mäßigem Englisch sein Anliegen auseinander, wobei
-er unseren Rotwein als recht galten Fruchtsaft zu loben sich
+er unseren Rotwein als recht guten Fruchtsaft zu loben sich
 herabließ. Als strenggläubiger Moslim durfte er eben alles
 nur als Fruchtsaft ansehen, was Alkohol enthielt.
 
 Munk feixte diskret und unverschämt.
 
-Der Sultan, ein geringerer Mann mit sehr scharfen Zügen
-und schwarzen, strebenden Augen, berichtete über den heute
+Der Sultan, ein jüngerer Mann mit sehr scharfen Zügen
+und schwarzen, stechenden Augen, berichtete über den heute
 früh entdeckten Einbruch und betonte, daß die Kriminalpolizei
-von dem Dieb?, der über eine Feuerleiter und den
+von dem Diebe, der über eine Feuerleiter und den
 Balkon in das Schlafzimmer im Grand-Hotel eingedrungen
-war und den Koffer ganz lautlos mit einem Nachschlüssel Berliner
+war und den Koffer ganz lautlos mit einem Nachschlüssel geöffnet
 <@pagebreak/>
-hatte, bisher keinerlei Spuren entdeckt habe. »… ich
+hatte, bisher keinerlei Spuren entdeckt habe. »… Ich
 schlafe nie fest«, betonte der Sultan, »und doch bin ich nicht
 aufgewacht, obwohl der Dieb die Scheibe der Balkontür eingedrückt
 hat.«
 
-Der Sekretär hüstelte etwas. Der Sultana schaute ihn
+Der Sekretär hüstelte etwas. Der Sultan schaute ihn
 fragend an und schaute dann schnell zur Seite.
 
 Dieser Baron hatte mir eigentlich sofort mißfallen. Sein
-stark ausgeprägtes Selbstbewußtsein grenzte fast stehen an Anmaßung,
-und Seine Kreise Förmlichkeit und eisige, verschlossene
+stark ausgeprägtes Selbstbewußtsein grenzte fast schon an Anmaßung,
+und seine steife Förmlichkeit und eisige, verschlossene
 Miene und die kalten, prüfenden Augen konnten erst recht
 keine Sympathie erwecken.
 
 Nach diesem kurzen Zwischenspiel wandte sich der Araberfürst
-erneut an Harst. »Walther Sie die Sache übernehmen,
-Mr. Harst. Die Juwelen sind steht wertvoll, und ich nahm
+erneut an Harst. »Würden Sie die Sache übernehmen,
+Mr. Harst. Die Juwelen sind sehr wertvoll, und ich nahm
 sie nur deshalb mit auf meine Europareise, weil sie mir in
 meiner Hauptstadt und in meinem Schlosse noch weniger sicher
 untergebracht schienen, denn Stahlkammern und dergleichen
 haben wir dort noch nicht.«
 
 »Sehr bedauerlich, Hoheit«, meldete sich der vorlaute
-Peter Munk und fügte heuchlerisch-harmlos hinzu: »Basar
-haben Sie dort andere Dinge, Hoheit, die uns hier fehlen …
+Peter Munk und fügte heuchlerisch-harmlos hinzu: »Dafür
+haben Sie dort andere Dinge, Hoheit, die uns hier fehlen …:
 Galgen für Diebe, Verließe für Gauner und das Meer zum
-Ersäufen treuloser Frauen. Hier ich der Spree ersäuft man
+Ersäufen treuloser Frauen. Hier in der Spree ersäuft man
 nur Katzenbabys und mißliebige Hunde.«
 
-Baron Gambriski warf Mute einen Blick zu, der mit
-ein eiskalter Wasserstrahl hätte wickeln müssen, doch Peter
-Munk focht derlei durchaus nicht zu, und Harald erwiderte
+Baron Gambriski warf Munk einen Blick zu, der wie
+ein eiskalter Wasserstrahl hätte wirken müssen, doch Peter
+Munk focht derlei durchaus nicht an, und Harald erwiderte
 auch bereits:
 
-»oh werde es mir überlegen. Scheit, Ich Furcht«, ’3
-werde Ihnen kaum helfen längst:, Bein: — gerade So einsame
+»Ich werde es mir überlegen, Hoheit. Ich fürchte, ich
+werde Ihnen kaum helfen können, denn gerade so einfache
 Fälle wie ein Einbruch sind bei der Polizei am besten aufgehoben.«
 
 Seine Hoheit war enttäuscht.
 
-»Ach biete Ihnen zehntausend Pfund Sterling, Mr. Harst«,
+»Ich biete Ihnen zehntausend Pfund Sterling, Mr. Harst«,
 <@pagebreak/>
-sage er weit dringlicher. »Mir liegt sehr viel an der Wiedererlangung
-der Juwelen, und
+sagte er weit dringlicher. »Mir liegt sehr viel an der Wiedererlangung
+der Juwelen, und …«
 
 Abermals hatte sich der Monokel-Baron geräuspert, der
 Sultan verstummte, und Harald erklärte erneut und etwas
 sehr förmlich:
 
-— »Ich weich schon — Ich gebe Ihnen morgen früh Nachricht,
-Hoheit …
+»Ich werde sehen … Ich gebe Ihnen morgen früh Nachricht,
+Hoheit …«
 
 Dabei blieb es.
 
-Als die Gäste kaum davongefahren waren (in einer Welches-Limousine,
-wie ich feststellen, ließ uns unsere Köchin
+Als die Gäste kaum davongefahren waren (in einer Mercedes-Limousine,
+wie ich feststellte), rief uns unsere Köchin
 zum Abendbrot ins Speisezimmer.
 
 Wir hatten kaum zu essen begonnen, als es an der Vordertür
@@ -227,11 +227,11 @@ mit einem zugeklebten Briefumschlag zurück, der keine Inschrift
 trug und der durch die Briefspalte der Tür hineingeworfen
 worden war.
 
-ön dem Umschlag befand sich nichts, als ein Teil eines
+In dem Umschlag befand sich nichts, als ein Teil eines
 Zeitungsartikels, der aus irgend einem Blatt herausgeschnitten
 war. Harald steckte den Zettel wortlos in die Tasche und aß
 weiter, und erst nach Tisch in seinem Arbeitszimmer lasen
-auch Munk und ich, was da auf dem zerschneiden Papier
+auch Munk und ich, was da auf dem zerknitterten Papier
 gedruckt stand.
 
 <@pagebreak/>
@@ -239,9 +239,9 @@ gedruckt stand.
 <h2>2. Kapitel.</h2>
 <h3>Sultan Omars Schlafzimmer.</h3>
 
-»Der Südarabische kleine Staat Makaresch hat auch neuerdings
+> »Der Südarabische kleine Staat Makaresch hat auch neuerdings
 wieder viel unter dem gemeingefährlichen Treiben
-der Sogenannter Todessekte zu leiden. Man weiß über
+der sogenannten Todessekte zu leiden. Man weiß über
 diese Mörder- und Erpresserbande sehr wenig, da Makaresch
 noch heute den Europäern verbotenes Gebiet geblieben
 ist. Der neue Sultan Omar hält sich die zweifelhaften
@@ -250,109 +250,109 @@ Segnungen europäischer Überkultur absichtlich fern,
 Detektive zu verschreiben, die den lästigen Geheimbund
 aufspüren sollten. Diese vier Engländer sind spurlos verschwunden,
 und Seine Hoheit dürfte so leicht keinen abenteuerlich
-veranlagten Europäer finden, der Seine Haut
-dort unten in Makaresch Nachteil zu Markte trägt.«
+veranlagten Europäer finden, der seine Haut
+dort unten in Makaresch nochmals zu Markte trägt.«
 
-Peter Munk gab Harald den Zettel zurück und meinte.
-ungeheuerlich trocken: »Nur ein Kapitaler Dummkopf ließe
-sich dort abkehlen! Zu diesen Dummköpsjen würde ich gehören.
+Peter Munk gab Harald den Zettel zurück und meinte
+ungeheuerlich trocken: »Nur ein kapitaler Dummkopf ließe
+sich dort abkehlen! Zu diesen Dummköpfen würde ich gehören.
 Es käme nur auf die Bezahlung an.«
 
-Harst lächelte Munk heiter an. »Bezahlung hin, Bozaehlung
-her …! — Monaten Briefe Dover: Klienten die diesen
-aus dem Chrysler mit weiblichen Chauffeur?«
+Harst lächelte Munk heiter an. »Bezahlung hin, Bezahlung
+her …! — Waren diese beiden Klienten die Herren
+aus dem Chrysler mit weiblichem Chauffeur?«
 
-»Hm, — beschwören könnte ich das nicht, Beistehen …
+»Hm, — beschwören könnte ich das nicht, Harstchen …
 Aber ich glaube, sie waren es.«
 
-»Dann werden Sie Seine Hoheit im Brand-Hotel aufsuchen,
+»Dann werden Sie Seine Hoheit im Grand-Hotel aufsuchen,
 <@pagebreak/>
 lieber Munk, und ihm heimlich einen Brief übergeben,
-den ich Sofort aussehen werde. Vorher möchte ich nur noch
-droben im Laboratorium die von unseren Gästen benutzen
-Weingläser und den Briefumschlag auf Fingerabdrücke untersuchen,
-Ach bin Sofort wieder zurück.«
+den ich sofort aufsetzen werde. Vorher möchte ich nur noch
+droben im Laboratorium die von unseren Gästen benutzten
+Weingläser und den Briefumschlag auf Fingerabdrücke untersuchen.
+Ich bin sofort wieder zurück.«
 
 Die Tür fiel zu, wir hörten ihn über uns hin und her
 gehen, und Peter Munk fragte nachdenklich:
 
 »Schrautchen, was halten Sie von alledem? War das
 der echte Sultan? Wenn ja, sollte er noch Unterricht nehmen!
-Eine Affenschande, uns das Verdeckt zu durchlöchern! Harriet
-Prills Konsorten hatten besser gezielt, — — also, — Harriet
-scheidet aus, und …
+Eine Affenschande, uns das Verdeck zu durchlöchern! Harriet
+Prills Konsorten hätten besser gezielt, — — also, — Harriet
+scheidet aus, und …«
 
-Ein dumpfer ZFs(]cl) über uns ließ uns emporfahren. Wir
+Ein dumpfer Krach über uns ließ uns emporfahren. Wir
 stürmten die Treppe hinan, im Laboratorium lag Harst auf
 dem hellen Fliesenboden, ein Fenster war eingedrückt und
 stand offen, und Weingläser und Umschlag waren verschwunden.
 
 Aber dieser im beängstigend regungslos daliegende Harst
-blinzelte uns nur heimlich zu und flüsterte: »Schließt die See
-Attentaten … So hatte sie absichtlich offen gelassen … da«
+blinzelte uns nur heimlich zu und flüsterte: »Schließt die Fensterladen
+… Ich hatte sie absichtlich offen gelassen … Ich
 ahnte dergleichen voraus.«
 
 Nachher zeigte er uns, daß er unter der Hausjoppe seine
-Stahlnetzweste trug, in deren festen engen Maschen ein breit gedrücktes
+Stahlnetzweste trug, in deren festen engen Maschen ein breitgedrücktes
 Bleigeschoß in der Nähe des Herzens steckte.
 
-du irgend welchen weiteren Erklärungen ließ er sich nicht
-herbei, erwähnte nur, daß der Einbrecher und Schüsse ein
-verkleideter Mensch von — Mittelgröße gewesen sei und daß
+Zu irgend welchen weiteren Erklärungen ließ er sich nicht
+herbei, erwähnte nur, daß der Einbrecher und Schütze ein
+verkleideter Mensch von Mittelgröße gewesen sei und daß
 er den Burschen nicht mehr packen konnte, da der Aufschlag
-der Kugel der Luftbüchse ihn doch für Begründen halb betäubt
+der Kugel der Luftbüchse ihn doch für Sekunden halb betäubt
 habe. Dann schrieb er den Brief an Seine Hoheit, und Munk
 entfernte sich eilends.
 
-Als wir nun allein waren, wollte ich diese etwas mysivrioöse
-Angelogenhext nur allzu gerne mit Harald erörtern. Er
-lehnte dies mit der Bogsundung ab, daß die Sache grün ihn
+Als wir nun allein waren, wollte ich diese etwas mysteriöse
+Angelegenheit nur allzu gerne mit Harald erörtern. Er
+lehnte dies mit der Begründung ab, daß die Sache für ihn
 ziemlich klar liege. — Um zehn Uhr kehrte Munk zurück und
 berichtete, daß alles in Ordnung sei, der Brief sei in Händen
 <@pagebreak/>
-Seiner Hoheit, und nicht einmal der elegante Monokel—Baron
-ahne etwas davon, Jedenfalls seien unsere Klienten tatsächlich
-vor Auftrag Omar und sein Sekretär gewesen.
+Seiner Hoheit, und nicht einmal der elegante Monokel-Baron
+ahne etwas davon. Jedenfalls seien unsere Klienten tatsächlich
+der Sultan Omar und sein Sekretär gewesen.
 
 Peter Munk schnitt einer Zigarre die Spitze ab und
 fügte achselzuckend hinzu:
 
-Fall )»Zureichen, nun mal ehrlich … Wie denken Sie über den
-öa (2«
+»Harstchen, nun mal ehrlich … Wie denken Sie über den
+Fall?«
 
 »Das werde ich dem Sultan sagen, und dann erfahren
-auch Sie es nachher. — Los, machen Sie unseren Frisch fertig,
+auch Sie es nachher. — Los, machen Sie unseren Flitzer fertig,
 lieber Munk. Ein Mann wie Sie sollte nicht so tun, als ob
-»nicht auch er den Schwindel durchschaute, wenigstens zum
+nicht auch er den Schwindel durchschaute, wenigstens zum
 größten Teil.«
 
-Peter Munk grinste und kniff ein -Auge zu.
+Peter Munk grinste und kniff ein Auge zu.
 
-»Na schön, — — Schwindel, das Tumult — Aber der
-Schuhe oben im Laboratorium?!l«
+»Na schön, — — Schwindel, das stimmt! — Aber der
+Schütze oben im Laboratorium?!«
 
 Harst wehte mit der Hand die Rauchwolken seiner Zigarette
-bei Seite. »Der Mann gehört nicht dazu … —
+bei Seite. »*Der* Mann gehört nicht dazu … —
 Und nun verduften Sie, Munk.«
 
-Irr schwieg zu alledem, den ich begriff fast nichts davon.
+Ich schwieg zu alledem, den ich begriff fast nichts davon.
 
 Daß Peter Munk mir als Spürnase weit überlegen,
-wußte ich längst. Munk hatte bereits So manchen Gauner
+wußte ich längst. Munk hatte bereits so manchen Gauner
 zur Strecke gebracht, der sich irgendwo am Nordkap oder in
-stellen in schönster Sicherheit wähnte. Noch unlängst war
-ihm auch ein Sang geglückt, der das helle Entsetzen so mancher
+Italien in schönster Sicherheit wähnte. Noch unlängst war
+ihm auch ein Fang geglückt, der das helle Entsetzen so mancher
 Herrschaften hervorgerufen hatte: Ein Bankdirektor war es,
 den diverse Leute besser tot gewünscht hätten, denn der Mann
-wußte zu viel Intimes aus dem DunkelkammerdaJein sehr anrüchiger
-Nasses und Neureichs. Aber Peter Munk scherte
+wußte zu viel Intimes aus dem Dunkelkammerdasein sehr anrüchiger
+Raffkes und Neureichs. Aber Peter Munk scherte
 sich den Teufel was um derlei fremde »Hemmungen«, er war
-vier ein tadelloser Polizeihund, der still und sah und beharrlich
+wie ein tadelloser Polizeihund, der still und zäh und beharrlich
 seine Arbeit verrichtet. Ihn abzuschütteln, wenn er erst einmal
-eine’ Witterung hatte, schien unmöglich.
+eine Witterung hatte, schien unmöglich.
 
-— Gegen elf Tor setzte leichtes Schneetreiben ein. Die
-überkam Herren, die Soeben die Gartenpforte des Grand Hotel
+Gegen elf Uhr setzte leichtes Schneetreiben ein. Die
+beiden Herren, die soeben die Gartenpforte des Grand Hotel
 mit einem Dietrich geöffnet hatten und in das Dunkel des
 <@pagebreak/>
 kleinen Parkes geschlüpft waren, schlichen nun bis zu einer
@@ -362,23 +362,23 @@ der Vorhänge. Der Sultan Omar verrichtete gerade, auf
 einem Gebetteppich kniend, seine Andacht als frommer Moslem.
 Nachdem er sich wieder erhoben hatte, benahm er sich
 für einen Uneingeweihten reichlich sonderbar. Er befolgte
-freilich nur Sehr genau die Anweisungen, die in dem Briefe
-Haralds gestanden hakten, verschloß die Tür, verhängte sie
+freilich nur sehr genau die Anweisungen, die in dem Briefe
+Haralds gestanden hatten, verschloß die Tür, verhängte sie
 und ließ uns dann ein. Er hatte alle Lampen ausgeschaltet,
 und im Dunkeln entspann sich eine Unterhaltung, die sich auf
 knappe Fragen Harsts und etwas zögernde Antworten des
 Sultans beschränkte.
 
-Harst begann sofort ging Umschweife den Kern der Sache
+Harst begann sofort ohne Umschweife den Kern der Sache
 bloßzulegen. »Meiner Überzeugung nach sind Sie überhaupt
 nicht bestohlen worden, Hoheit. Sie haben den Diebstahl lediglich
 durch den Baron vortäuschen lassen, der ein englischer
-Detektiv sein Fürstin, den Sie letztens in London verpflichtet
+Detektiv sein dürfte, den Sie letztens in London verpflichtet
 haben, um der Todessekte in Ihrem Lande auf den Leib zu
 rücken. Der Herr mag die Bedingung gestellt haben, daß
-Rauch Schraut und ich; als Besser hinzugezogen würden, und er
-war erfinderisch ganzes, dies davor die unschädlichen Schüsse
-in unser Verdeckt und durch den »Diebstahl« in die Wege
+auch Schraut und ich als Helfer hinzugezogen würden, und er
+war erfinderisch genug, dies durch die unschädlichen Schüsse
+in unser Verdeck und durch den »Diebstahl« in die Wege
 zu leiten.«
 
 So kurz, wie ich hier die Einleitung dieser seltsamen
@@ -390,7 +390,7 @@ und auch sein »Sekretär« könne dabei nicht mitgewirkt haben,
 er sei mit ihm den ganzen Nachmittag und auch abends zusammen
 gewesen.
 
-Ebenso nachdrüklsic; wünschte er eine Aufklärung über
+Ebenso nachdrücklich wünschte er eine Aufklärung über
 diese Schüsse.
 
 Harst jedoch umging eine Antwort, genau so wenig, wie
@@ -398,33 +398,33 @@ er den Brief mit dem Zeitungsausschnitt erwähnte.
 
 <@pagebreak/>
 »Dann habe ich mich eben geirrt«, meinte er in Bezug
-auf die Schüsse. »Befindet sich in schien Gefolge, Hoheit,
-ein Mann, der schreit ähnlich sieht?«
+auf die Schüsse. »Befindet sich in Ihrem Gefolge, Hoheit,
+ein Mann, der Ihnen ähnlich sieht?«
 
-»Drein. Was soll die Frage?!«
+»Nein. Was soll die Frage?!«
 
 Wieder wich Harald aus.
 
-»die haben acht Personen um sich, Hoheit, einschließlich
-des Sogenannter Barons. Auch eine Frau?«
+»Sie haben acht Personen um sich, Hoheit, einschließlich
+des sogenannten Barons. Auch eine Frau?«
 
-Guten Omar verneinte ohne Zögern.
+Sultan Omar verneinte ohne Zögern.
 
 Er betonte jedoch, und auch das war aufrichtig, nur eins
 sei leider Tatsache: Die Juwelen, die der Baron bei sich in
 seinem Koffer und in seinem Zimmer verborgen gehalten habe,
-Seien tatsächlich gestohlen worden, allerdings ohne jegliche
-sichtbare Spuren eines Einbruchs, lediglich das Geheimfach rum
-Koffer des Barons sei erbrochen. Tauben?! heiße im übrigen
-mit wahrem Namen Herrin Goodwin und sei ein früherer
+seien tatsächlich gestohlen worden, allerdings ohne jegliche
+sichtbare Spuren eines Einbruchs, lediglich das Geheimfach im
+Koffer des Barons sei erbrochen. Gambritzki heiße im übrigen
+mit wahrem Namen Harry Goodwin und sei ein früherer
 Oberinspektor von Scotland Yard, London.
 
 Auf dieses Geständnis des Sultans erwiderte Harald
-zunächst gar nichts. Wir Saßen in Klubsesseln um einen kleinen
+zunächst gar nichts. Wir saßen in Klubsesseln um einen kleinen
 Tisch herum, der in einer Ecke stand, und seine Hoheit hatte
 noch vorsichtshalber einen mehrteiligen Wandschirm vor die
-See gerückt, in die wir beide uns nur vorsichtig umhertastend
-Hineingeschrieben hatten.
+Ecke gerückt, in die wir beide uns nur vorsichtig umhertastend
+hineingeschlichen hatten.
 
 Ob Harald willens war, unseren Klienten auch noch in
 die Brief-Angelegenheit einzuweihen, bezweifele ich. Es kam
@@ -433,7 +433,7 @@ urplötzlich aus der Richtung der Verbindungstür zum Badezimmer
 ein mehrmaliges Knacken ertönte, das Harst veranlaßte,
 uns völlige Reglosigkeit anzuempfehlen.
 
-So saßen wir denn wie bisher in undurchdringlicher FFinsternis
+So saßen wir denn wie bisher in undurchdringlicher Finsternis
 da, und das eigentümliche der gewiß nicht alltäglichen
 Situation kam mir erst jetzt so recht zum Bewußtsein, weil
 die verdächtigen vorsichtigen Geräusche sich mehrten und kaum
@@ -443,51 +443,51 @@ fast unhörbar blieb.
 
 <@pagebreak/>
 Der Nervenkitzel, der in einer solchen nächtlichen Szene
-liegt, ist nur mit jenen billigen Hintertürroman — Mätzchen
-wviederzugeben, auf die ich hier verzichte. Es genügt, wenn
+liegt, ist nur mit jenen billigen Hintertürroman-Mätzchen
+wiederzugeben, auf die ich hier verzichte. Es genügt, wenn
 ich andeute, daß zum Beispiel Harst lautlos aus seinem Sessel
 verschwand, was auch nur an dem Luftzug und dem Knarren
 des Sessels zu merken war.
 
 Dann fuhr über den Rand des Wandschirms ein dünner
-Ojehtstreisen hinweg, und eine vermummte Gestalt schlich auf
+Lichtstreifen hinweg, und eine vermummte Gestalt schlich auf
 das große Paradebett zu, von dem ich wenigstens den Kopfteil
 in meinem Blickfeld hatte. Der Eindringling beleuchtete
 behutsam das Bett, und zu meinem Erstaunen gewahrte ich
 darin eine Gestalt, deren Umrisse sich unser dem Zudeck scharf
-abz;eichneten.
+abzeichneten.
 
-Die folgenvben Vorgänge spielten sich dann sie blitzartig
-ab, daß sie kaum auseoinanderzuhalien waren. Jedenfalls stieß
+Die folgenden Vorgänge spielten sich dann so blitzartig
+ab, daß sie kaum auseinanderzuhalten waren. Jedenfalls stieß
 der Einbrecher mit einem Messer zu, — oder wollte zustoßen,
-— im selben Avugenolick schnellte die Gestalt im Bett empor,
+— im selben Augenblick schnellte die Gestalt im Bett empor,
 und eine scharfe, gedämpfte Stimme rief:
 
-»Schraut, ihm der Weg verjperrenl!«
+»Schraut, ihm der Weg versperren!!«
 
-seht hatte Cojweniamps und Pistole längst griffbereit,
-Hauch) der Sultan, ein sehr kräftiger Mann von anerkanntem
-Mut, wollte mir bestehen, außer der Meuchelmörder war
-flinken und verblüffend geistesgegenwärtig, flüchtete zur Balkontür
+Ich hatte Taschenlampe und Pistole längst griffbereit,
+auch der Sultan, ein sehr kräftiger Mann von anerkanntem
+Mut, wollte mir beistehen, aber der Meuchelmörder war
+flinker und verblüffend geistesgegenwärtig, flüchtete zur Balkontür
 und verschwand über die Feuerleiter in die Tiefe, während
-Harst, durch eine Hand voll Pfefferstaub des Flüchtlinge
-geblendet, untätig an Seinem Plätze verharren mußte.
+Harst, durch eine Hand voll Pfefferstaub des Flüchtlings
+geblendet, untätig an seinem Plätze verharren mußte.
 
 Wir hatten einen Fehler begangen: Wir hatten die innere
 Balkontür nur angelehnt und die äußere unverschlossen gelassen.
-Allerdings war dies halten und halb Absicht gewesen,
-damit auch wir im Vorhalle schleunigst den Rückzug antreten
+Allerdings war dies halb und halb Absicht gewesen,
+damit auch wir im Notfalle schleunigst den Rückzug antreten
 konnten.
 
-Der Bermummte:war uns entschlüpft. Wir hatten von
+Der Vermummte war uns entschlüpft. Wir hatten von
 ihm nur wenig wahrgenommen, er hatte einen langen, weichen,
 dunklen Mantel, wahrscheinlich aus Lodenstoff mit Kapuze
-getragen, und die Kapuze hatte er völlig über das Gesicht getragen
+getragen, und die Kapuze hatte er völlig über das Gesicht gezogen
 <@pagebreak/>
-gehabt und zwei Augenlöcher hineingeschnitten. Volk
-er Handjschuhe anhatte, dazu Schuhe nu! Gummisohlen, Brandy
+gehabt und zwei Augenlöcher hineingeschnitten. Daß
+er Handschuhe anhatte, dazu Schuhe mit Gummisohlen, ergab
 unsere sofort aufgenommene Prüfung seiner fachmännischen
-Er?ist an der Badezimmertür und an dem eingedrückten
+Arbeit an der Badezimmertür und an dem eingedrückten
 Fenster.
 
 Wir waren hiermit sehr bald fertig, es war da wenig
@@ -496,74 +496,73 @@ er hatte den Sultan bestimmt ermorden wollen.
 
 Seine Hoheit zeigte alledem gegenüber einen Gleichmut,
 der insofern nicht allzu erstaunlich war, als der braune Beherrscher
-uns kühl erklärte, es Je! So etwa das 3zwanzigjte
-Allemal auf ihn. — Wir hatten im Schlafzimmer jetzt das
+uns kühl erklärte, es sei so etwa das zwanzigste
+Attentat auf ihn. — Wir hatten im Schlafzimmer jetzt das
 Licht eingeschaltet, Harsts Augen tränten immer noch bedenklich,
 und auf Haralds Frage erwiderte Sultan Omar genau
 so gelassen, daß die Todessekte ihn eben gerade wegen seiner
 energischen Verfolgung dieser Mörderbande zum Tode verurteilt
-hätte. — Er nahm die Sache Sehr leicht, und mit einem
-seinen Lächeln fügte er noch hinzu, daß er nie das Bei!
+hätte. — Er nahm die Sache sehr leicht, und mit einem
+feinen Lächeln fügte er noch hinzu, daß er *nie* das Bett
 benutzt, sondern stets auf dem Diwan geschlafen habe, den
 er ebenso regelmäßig durch den Wandschirm schützte, an dem
-er … kleine Glöckchen befestigte … »ck pflege dies überall
+er … kleine Glöckchen befestigte … »Ich pflege dies überall
 zu tun, auch daheim in meinem Palast, Mr. Harst«, schloß
-er etwas ernster. »Ich bedauere nur, daß meine Verluste.
+er etwas ernster. »Ich bedauere nur, daß meine Versuche,
 Sie beide als Helfer zu gewinnen, nun wohl gänzlich fehlgeschlagen
-sein dürften. Ich verderbe es niemandem, einen Solchen
-Auftrag abzurechnen, denn bisher sind vier europäisch?
+sein dürften. Ich verdenke es niemandem, einen solchen
+Auftrag abzulehnen, denn bisher sind vier europäische
 Detektive in meinem Lande spurlos verschwunden. Die Gefahr
-jt zu groß. Mr. Goodwin aus London hat das sehr richtig
+ist zu groß. Mr. Goodwin aus London hat das sehr richtig
 erkannt und wünschte daher Ihre Unterstützung.«
 
 Was Harald darauf entgegnete, war ein etwas dunkler
-Aussprach …: »Wir wollen sehen …!! — — Sie gestatten,
-Hoheit, daß wir uns nun entfernen. doch« kann Ihnen nur
-raten, sich einen stierten Hund anzugrinsen.«
+Ausspruch …: »Wir wollen sehen …!! — — Sie gestatten,
+Hoheit, daß wir uns nun entfernen. Ich kann Ihnen nur
+raten, sich einen scharfen Hund anzuschaffen.«
 
-— Der Sultan drückte uns die Hand, bedankte sich für unsere
+Der Sultan drückte uns die Hand, bedankte sich für unsere
 Bemühungen und blieb trotzdem wohl etwas enttäuscht zurück.
 <@pagebreak/>
-Von den nun wirklich gestohlenen daneben — Goodwin
+Von den nun wirklich gestohlenen Juwelen — Goodwin
 hatte dies erst nachmittags bemerkt — war keine Rede mehr
-
 gewesen.
 
 <h2>3. Kapitel.</h2>
-<h3>Im Orpheum—Klub.</h3>
+<h3>Im Orpheum-Klub.</h3>
 
 Unser Flitzer stand an einer Parkstelle unweit des Hotels.
-Der Schneefall hielt goß an, und so kamen wir ungesehen
+Der Schneefall hielt noch an, und so kamen wir ungesehen
 wieder auf die Straße. Wir fanden Peter Munk in unserem
 Auto jedoch nicht mehr vor, dafür hing am Polster des
 Führersitzes ein mit einer Stecknadel befestigter Zettel von
-Seiner Hand: »Bin in einer Taxe hinter ihm her.«
+seiner Hand: »Bin in einer Taxe hinter ihm her.«
 
 »Vortrefflich!«, meinte Harald sehr zufrieden. »Munk
-ist und?zahlbar. Er verfolgt den Kapuzenmann. Warten
-wir …« —
+ist unbezahlbar. Er verfolgt den Kapuzenmann. Warten
+wir …«
 
 Wir setzten uns in den Wagen, den wir vorher innen
 gründlich abgeleuchtet hatten, denn anscheinend war ja doch
 wieder unsere alte Feindin Harriet auf unserer Fährte, und
 ihr war eben alles zuzutrauen. Wir gaben daher auch sehr
-Scharf auf die Umgebung acht, und die wenigen Fußgänger
+scharf auf die Umgebung acht, und die wenigen Fußgänger
 und Autos wurden schon von weitem streng unter die Lupe
 genommen.
 
 Gegen ein Uhr morgens fand sich unser Peter wieder
-ein. Er hatte es sehr eilig. »Ach erzähle unterwegs«, sagte
+ein. Er hatte es sehr eilig. »Ich erzähle unterwegs«, sagte
 er hastig. »Der verdächtige Kapuzenkerl sitzt zur Zeit im
-Smoking im Orpheum-Belud.«
+Smoking im Orpheum-Klub.«
 
-Unser Flitter schoß davon, und bei dicht verhängten Fenstern
+Unser Flitzer schoß davon, und bei dicht verhängten Fenstern
 nahmen wir einige schnelle Veränderungen an uns vor.
 Die Requisiten dazu lagen unter dem Rücksitz.
 
 Munk berichtete: »Der Kerl mit dem Wettermantel und
 <@pagebreak/>
-der Kapuze erlegten mir sofort nicht recht einwandfrei, da
-er allzu vorsichtig den Hotelgarten verließ. Er hatte Segelftuchschuhe
+der Kapuze erschien mir sofort nicht recht einwandfrei, da
+er allzu vorsichtig den Hotelgarten verließ. Er hatte Segeltuchschuhe
 mit Gummisohlen an, — jetzt trägt er Lackschuhe
 und ein Monokel und säuft in dem Spielerlokal die teuersten
 Mischungen. Sie werden ihn Sofort erkennen, Harst, — der
@@ -571,33 +570,33 @@ Bursche schaut wie ein verflossener Gardeleutnant aus, der
 über Wechselreiterei gestolpert ist, — kühne Nase, dünn wie
 ein Hering, lange schmale Taschendiebhände mit einem riesigen
 Wappenring. Jedenfalls ist es keins von den Vöglein,
-die zur Dunst gehören und im Verbrecheralbum prunken. —
-Die Visage war mir neu, und ich kenne mich doch in der
+die zur Zunft gehören und im Verbrecheralbum prunken. —
+*Die* Visage war mir neu, und ich kenne mich doch in der
 Unterwelt So ziemlich aus.« —
 
 Der Orpheum-Klub in einer der stillsten Straßen des
-»Berliner Westens, seit langem ein unheilbarer Patient und
+Berliner Westens, seit langem ein unheilbarer Patient und
 ein Schmerzenskind für die rührige Polizei, hatte natürlich
-eine besonderen Eigentümlichkeiten. In der Vorhalle — das
+seine besonderen Eigentümlichkeiten. In der Vorhalle — das
 Haus lag in einem Garten — empfing uns ein Komitee von
 drei Gentlemen, die sich unsere Papiere zeigen ließen. Das
 heißt, — es waren Pässe und anderes, die auf ganz andere
 Namen »aus der Provinz« lauteten. Das Komitee nahm uns
-zurecht Zahlung von je zwanzig Mark Eintrittsgeld in den
+nach Zahlung von je zwanzig Mark Eintrittsgeld in den
 Klub auf, stellte uns Mitgliedskarten aus, und der Weg zu
 weiterem Nepp war frei.
 
 In der Bar jaulte eine diskrete Jazzkapelle, es herrschte
-Hochbetrieb, in Berlin tagte gerade ein?! Großagrarier-Vereinigung,
-und die ländlichen Herren Autoren hier Zerstreuung,
-Anschluß und ein kleines Spielchen. — alles war da, was antat
+Hochbetrieb, in Berlin tagte gerade eine Großagrarier-Vereinigung,
+und die ländlichen Herren suchten hier Zerstreuung,
+Anschluß und ein kleines Spielchen, — alles war da, was man
 wünschte, man mußte nur Geld haben. Damen in fabelhaft
-bescheidenen Abendtoiletten, Facon »Schau nichts, unten ni’1.5«
-bewiesen ihre Trunkfestigkeit und Fiorzeusuitie, die Stirn.-… h3
-war gedämpft-halbweltlerisch genau wies dicke Beleuchtung 119
-Ausstattung der Räume, — unser Man! saß noch immer ein
+bescheidenen Abendtoiletten, Facon »Oben nichts, unten nichts«
+bewiesen ihre Trunkfestigkeit und Herzensgüte, die Stimmung
+war gedämpft-halbweltlerisch genau wies die Beleuchtung und
+Ausstattung der Räume, — unser Mann saß noch immer am
 Bartisch und schien äußerst vergnügt zu sein, lehnte jedoch
-alle Annäherungsversuche weiblicherseits höflich ab und mach??-
+alle Annäherungsversuche weiblicherseits höflich ab und machte
 <@pagebreak/>
 alles in allem einen besseren Eindruck, als Peter Munk vorausgesagt
 hatte.
@@ -605,7 +604,7 @@ hatte.
 Wir erwischten ein Tischchen unweit der Tür, bestellten
 Sekt, bezahlten Sofort und durften feststellen, daß unter den
 männlichen Mitgliedern sich zahlreiche dunkelhäutige Herrschaften
-bestanden.
+befanden.
 
 Harst rauchte und beobachtete, ich unterhielt mich mit
 einer der dürftigen Damen, — — bis plötzlich der Vorhang
@@ -625,13 +624,14 @@ Weit mehr interessierte uns der Herr mit dem scharfen
 Profil und dem Einglas.
 
 Auch er blieb nicht mehr lange, er schlenderte in das
-Spielzimmer, wo recht beträchtliche Summen angefaßt wurden,
-an einem Bakkarattisch entnahm er der soeben ihm Angestellten
-Zigarettenschachtel unauffällig einen HunderkmarkY.
-cl?)ein, kaufte Spielmarken, gewann drei Einsätze und entfernte
-ich.
-Wir blieben hinter ihm. Unser Füßen — Munk war
-nicht da — folgte Steinen Autotaxe, die Verfolgung endete
+Spielzimmer, wo recht beträchtliche Summen umgesetzt wurden,
+an einem Bakkarattisch entnahm er der soeben ihm zugesteckten
+Zigarettenschachtel unauffällig einen Hunderkmarkschein,
+kaufte Spielmarken, gewann drei Einsätze und entfernte
+sich.
+
+Wir blieben hinter ihm. Unser Flitzer — Munk war
+nicht da — folgte seiner Autotaxe, die Verfolgung endete
 irgendwo im neuen Viertel von Westend und unser Mann verschwand
 in einem neueren Hause: Mietskaserne mit kleinen
 Wohnungen.
@@ -643,9 +643,9 @@ Name Gerd von Lockstätten, früher Marineflieger. Er
 wohnte mit Mutter und Schwester zusammen, Mutter sehr
 <@pagebreak/>
 krank, — nur eine bescheidene zweieinhalb Zimmerwohnung.
-Die Zc])mester sei Kassiererin in einem Kaufhaus, Lockstätten
+Die Schwester sei Kassiererin in einem Kaufhaus, Lockstätten
 ohne Arbeit, aber dauernd auf Suche nach einer Beschäftigung,
-umging filmte er als Komparse, Chauffeur sei er auch
+bisweilen filmte er als Komparse, Chauffeur sei er auch
 bereits gewesen, — — ein sehr netter Herr jedenfalls.
 
 Für zehn Mark war das allerhand.
@@ -653,85 +653,83 @@ Für zehn Mark war das allerhand.
 Wir fuhren wieder zum Orpheum-Klub, um dort Peter
 Munk aufzunehmen. Harst bestätigte, daß dieser Lockstätten
 und der Araber, der ihm das Geld zugesteckt hatte, bestimmt
-die beiden Spione vom Bahnsteig wären und daß man anlehnen
+die beiden Spione vom Bahnsteig wären und daß man annehmen
 dürfe, Lockstättens Schwester habe den Chrysler gelenkt,
 aus dem geschossen wurde.
 
-Lob benutzte die Gelegenheit und fragte, ob er etwa unsere
+Ich benutzte die Gelegenheit und fragte, ob er etwa unsere
 Gegnerin Harriet als die Auftraggeberin der Geschwister und
 des braunen Herrn betrachte.
 
 »Hm, — ich will mich auf eine bestimmte Ansicht nicht
 festlegen, mein Alter … Die Sache befindet sich noch zu sehr
-im Anfangsstadium. orqoudwso hat Harriet ihre Händchen
+im Anfangsstadium. Irgendwie hat Harriet ihre Händchen
 im Spiel, — — hallo, da ist Munk … — Munk, hierher …
-Mensch, was ist denn mit Ihnen los« spie schon ja wie der
-Tod Musik!«
+Mensch, was ist denn mit Ihnen los?! Sie sehen ja wie der
+Tod aus!!«
 
 Peter Munk stolperte auf uns zu. Wir mußten ihn in
 den Wagen heben, er war derart verstört, daß er ganz Ungeheuerliches
 erlebt haben mußte. Ich reichte ihm die Kognakflasche
 aus der Wandtasche des Wagens, er trank unmäßig
-viel, und dann erst konnte er, der doch wahrlich) Stahlnerven
-s)Lsasz, mühsam hervorstottern: »Wir … wir müssen
+viel, und dann erst konnte er, der doch wahrlich Stahlnerven
+besaß, mühsam hervorstottern: »Wir … wir müssen
 den Oberinspektor Goodwin befreien … Er … er ist von den
-Schatten geschnappt worden … Sie haben ihm …« — er
-schüttelte sich — »… haben 1s)11 gefesselt und golcnobolt und
-Splitternackt auf das (].)als) des Klubhauses gelegt — — bei
+Schuften geschnappt worden … Sie haben ihn …« — er
+schüttelte sich — »… haben ihn gefesselt und geknebelt und
+splitternackt auf das Dach des Klubhauses gelegt — — bei
 zwei Grad Kälte …! Wenn ich Sie nicht getroffen hätte,
 Harst, wäre ich zur Polizeiwache gelaufen … Und … und
-oc«]rblaqon haben sie ihn — — mit dünnen Ztal)lftäbon …
-Er sollte irgend etwas verraten … — Kommen Sie, mir:
+geschlagen haben sie ihn — — mit dünnen Stahlstäben …
+Er sollte irgend etwas verraten … — Kommen Sie, mir
 <@pagebreak/>
 geht es schon besser … Sie werden bald begreifen, weshalb
-ich derart verstört bin … Jahren Sie in die Parallelistraße
+ich derart verstört bin … Fahren Sie in die Parallelstraße
 hinein, das Klubgrundstück wird nach dorthin von einer veralteten
 Großgarage eingenommen, — — nur schnell, Goodwin
 erkältet sich bis auf den Tod …«
 
 Wir stiegen aus, schlossen den Wagen ab, und Harst
-private die Seitenpforte des Garageneinganges.
+öffnete die Seitenpforte des Garageneinganges.
 
-» «. Hierher begab sich der elegante Braune«, flüsterte
-
-Munk … »Ach war immer hinter ihm, — — so, nun geradeaus,
+»… Hierher begab sich der elegante Braune«, flüsterte
+Munk … »Ich war immer hinter ihm, — — so, nun geradeaus,
 die Garagen sind leer, dort ist der Zaun des Gartens
 des Klubhauses … — Hinüberklettern, — — leise, — — so,
-
-da ist die Teufelsküche, hier der Hintereingang, — — sollte
-man sie etwas in Berlin für möglich halten?!«
+da ist die Teufelsbude, hier der Hintereingang, — — sollte
+man so etwas in Berlin für möglich halten?!«
 
 Die starke Tür war durch zwei Patentschlösser gesichert,
-
-Harst wurde sehr Trunk damit fertig. Linker Hand lief eine
-spärlich erleuchtete Wendeltreppe in die Hohe, — das Haus
-hatte einen turmartigen Ausbau, und als wir vor der Dachluke
+Harst wurde sehr flink damit fertig. Linker Hand lief eine
+spärlich erleuchtete Wendeltreppe in die Höhe, — das Haus
+hatte einen turmartigen Aufbau, und als wir vor der Dachluke
 anlangten, vernahmen wir unten Stimmen, die in den
-engen Creppenschah? Park wiederhallten. Zwei Männer sprachen
+engen Treppenschacht stark wiederhallten. Zwei Männer sprachen
 in einer uns fremden Mundart miteinander, — es war
-arabisch, aber Tracht ein Dialekt, — die größte Gefahr lag
-darin, daß wir jenoeseuchte Spuren hinterlassen haben könnten,
-und tatsächlich schienen die Kerl? Verdacht geschöpft zu haben,
+arabisch, aber irgend ein Dialekt, — die größte Gefahr lag
+darin, daß wir schneefeuchte Spuren hinterlassen haben könnten,
+und tatsächlich schienen die Kerle Verdacht geschöpft zu haben,
 — Flucht war unmöglich, die Luke war doppelt verschlossen,
-und die Wände hin zeigten weder eine Tür noch eine Fensteröffnung,
-waren schlecht verpatzt, der Mörtel war in weilen
-Flachen herabgefallen, rote Ziegelsteine grinsten hindurch.
-Sekt nahte die Entscheidung, — wenn die beiden Leute
-nicht noch eins der in den Heiden unteren Stockwerken erreichbaren
-Zimmer betraten, machte wir entdeckt werden, und das
-bedeutete, wie Harald uns zuflüsterte, die Vernichtung unserer
-ganzen bisherigen Geholt und einen Verzicht auf weitere Ermittlungen
-und Anstiert auf einen zweifellos nicht ungefährlichen
-Kampf gegen sie bedeutende Übermacht.
+und die Wände hier zeigten weder eine Tür noch eine Fensteröffnung,
+waren schlecht verputzt, der Mörtel war in weiten
+Flächen herabgefallen, rote Ziegelsteine grinsten hindurch.
 
-Es hing nun auch Geier unter dem Dache eine ganz einfache
+Jetzt nahte die Entscheidung, — wenn die beiden Leute
+nicht noch eins der in den beiden unteren Stockwerken erreichbaren
+Zimmer betraten, mußten wir entdeckt werden, und das
+bedeutete, wie Harald uns zuflüsterte, die Vernichtung unserer
+ganzen bisherigen Arbeit und einen Verzicht auf weitere Ermittlungen
+und Aussicht auf einen zweifellos nicht ungefährlichen
+Kampf gegen eine bedeutende Übermacht.
+
+Es hing nun auch hier unter dem Dache eine ganz einfache
 <@pagebreak/>
 elektrische Lampe mit flachem emailliertem Blechschirm.
 
 Harald reckte sich plötzlich hoch, hob die Arme, ergriff
 mit der Linken den Blechschirm der verstaubten, trübe brennenden
 Birne und mit der Rechten die Birne selbst, um sie
-so trat herauszuschrauben, daß der Kontakt unterbrochen
+so weit herauszuschrauben, daß der Kontakt unterbrochen
 wurde.
 
 Die Lampe erlosch, wir standen in halber Finsternis, unter
@@ -748,19 +746,19 @@ glitt ein Teil der Mauer wieder an die alte Stelle, und eine
 Taschenlampe blitzte auf, ein dünner Strahl tastete über den
 Raum hin, in den wir auf so merkwürdige Weise geraten
 waren, und ich bemerkte hier außer allerlei Gerümpel auch
-das Sanft geneigte, jetzt mit Neuschnee bestäubte Glasdach
+das sanft geneigte, jetzt mit Neuschnee bestäubte Glasdach
 dieses unwirtlichen Gemaches, in dem es penetrant nach Apotheke
-roch …
+roch.
 
 »Dorthin — hinter die Kisten!«, flüsterte Harst und schlich
-oilyéüw jener Ecke zu, wobei er einige flache Kisten umgehen
+eilends jener Ecke zu, wobei er einige flache Kisten umgehen
 mußte.
 
 Er stockte sogleich, schien leicht zu erschrecken, ging weiter,
 und nun kauerten wir zu dreien in diesem staubigen Winkel,
 der uns einen recht fragwürdigen Schutz gewährte.
 
-Vetter Munk kniete neben mir Schulter an Schulter, ich
+Peter Munk kniete neben mir Schulter an Schulter, ich
 spürte, daß er wie im Fieberfrost zitterte, und ich sagte mir
 sofort, daß er vorhin, als er hier allein wohl vom Dache
 aus die schändliche Behandlung des Engländers beobachtet
@@ -770,14 +768,14 @@ angesehen haben müsse.
 Harsts Lampe war erloschen, — ein scharrendes Geräusch
 <@pagebreak/>
 ließ sich von drüben vernehmen, dann wurde es hell, und durch
-die Zwischenräume der Kisten erkannte ich den Krabben mit
+die Zwischenräume der Kisten erkannte ich den Araber mit
 dem Spitzbart und einen zweiten Asiaten mit angeklebtem
 Scheitel, beide im Smoking.
 
-Die r in der Mauer war offen geblieben, sie nahmen
+Die Tür in der Mauer war offen geblieben, sie nahmen
 eine Leiter, gingen wieder hinaus und stützten die Leiter
 draußen an die Dachluke, stiegen empor, verschwanden auf
-dem Dache, und mußten sos)r bald, wie ich annas)in, mit dem
+dem Dache, und mußten sehr bald, wie ich annahm, mit dem
 gefesselten Goodwin zurückkehren.
 
 <@pagebreak/>
@@ -880,7 +878,7 @@ und gab mir selbst das Wort, ihren Tod unter aller;
 Umständen zu rächen. Das ist mir genau sieben Monate her,
 und die Europareise des Sultans kam mir sehr gelegen. Wir
 lernten uns nicht erst in London können, nein, bereits an Eher
-Riviera suchte ich ganz unauffällig als Baron Gambrit;ki,
+Riviera suchte ich ganz unauffällig als Baron Gambritzki,
 Österreicher, seine Bekanntschaj:, Die Hauptsache blieb ja,
 daß diese Mördersekte nicht ahnt?o, darf ein neuer Feind fände
 nachspüren würde. So wurde in Fenstern Schein tue 15:2-
@@ -1057,7 +1055,7 @@ und die ganze …«
 …
 
 Wir horchten … Irgendwo draußen ertönten besonders
-Scharfe Hupensignale, zwischenein war das Läuten einer Feuerivehrglocke
+Scharfe Hupensignale, zwischenein war das Läuten einer Feuerwehrglocke
 zu hören, und als Harald nun die Tür nach der
 Treppe wieder ausstieß, schoß eine grelle Stichflamme bis zur
 Dachluke durch den Treppenschacht empor …
@@ -1131,7 +1129,7 @@ Menschen in Todesnot sitzen!«, meinte Goodwin in verbissenem
 Grimm. »Harst, — was schreiben Sie da eigentlich?!«
 Haralds Füllfeder glitt noch eiliger über eine Seite seines
 
-Nokizbuches. Er riß die Seite dann heraus, reichte sie Boot
+Notizbuches. Er riß die Seite dann heraus, reichte sie Boot
 
 wir und schrieb weiter. — Wir lasen:
 
@@ -1417,7 +1415,7 @@ Omars bestimmt geglaubt hätte, sogenannte »wilde« Beduinen
 aus dem schmalen vor sich zu haben, und dies war auch von
 vornherein unsere Absicht gewesen, denn die Bewohner von
 Makaresch haben vor diesen »Wilden« eine wohlbegründete
-jhlotternde Angst. Kein Wunder: Noch heute halten die freien
+schlotternde Angst. Kein Wunder: Noch heute halten die freien
 Beduinen es für ihr gutes Recht, jede Karawane zu plütderiu
 und ein so glückseliges Räuberleben zu führen, wie es’ in
 keinem anderen Weltwinkel mehr der Fall sein dürfte.
@@ -1586,7 +1584,7 @@ weinerlich. »Zeit Jahren hält man mich hier fest, und …«
 
 »Schwindel!«, donnerte Harst ihn an. »Ihre Körbe Sind
 ziemlich löcherig,:sein Lieber, und in den Körben liegen
-Drahtrollen, Crokenelemente und ein Telephonapparat, —
+Drahtrollen, Trockenelemente und ein Telephonapparat, —
 Sie mal«, weiche er sich mir zu. »Es wird wohl stimmen
 …«
 
@@ -1682,7 +1680,7 @@ Oberinspektor Goodwin hellste Freude auslöste. »Ah — Ton
 Geffries!«, meinte Goodwin vergnügt. »Der grinste Geldschrankknacker
 Neuyorks und in seinem Dach eine Berühmtheit!
 Seit etwa drei Fahren ist er »abgängig«, und man
-glaubte, er sei mit seiner Kugel im Schädel den Hudson hinabGgeschwommen
+glaubte, er sei mit seiner Kugel im Schädel den Hudson hinabgeschwommen
 …« …
 
 Harst hatte es eilig. »Goodwin, Sie beziehen jetzt dort
@@ -1718,7 +1716,7 @@ Vorsicht!(«
 nach Westen zu auf einer von fünf dürren alten Palmen und
 einem Haufen rötlichen Gesteins gekrönten Düne und hatten
 hier auch glücklich die geschickt zwischen den Felsen verborgene
-Celefonzentrale entdeckt, in der gleichfalls Wasserschläuche
+Telefonzentrale entdeckt, in der gleichfalls Wasserschläuche
 und Lebensmittel lagen. Ebenso näherte sich Geffries
 bereits dieser Düne, — wir verstellter uns, der »technische
 Beirat« kam die Düne empor und entfernte die Steinplatten
