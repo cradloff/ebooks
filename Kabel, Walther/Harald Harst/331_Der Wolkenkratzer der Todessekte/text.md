@@ -784,25 +784,28 @@ gefesselten Goodwin zurückkehren.
 <h3>Die vier Kisten.</h3>
 
 Wir warteten geduldig, zu geduldig, und Harst flüsterte
-Ratsam heiser, während Munk sich immer schwerer an mich
-lehnte: »Sie werden doch hoffentlich Frauen Verdacht geschöpft
+seltsam heiser, während Munk sich immer schwerer an mich
+lehnte: »Sie werden doch hoffentlich keinen Verdacht geschöpft
 haben, weil die elektrische Birne ausgeschaltet war …
-Übrigens ein seiner Strick, — nur So gab die Kauerte
-nach, nur sie kam es nicht sofort zu einer Schießerei …«
+Übrigens ein feiner Trick, — nur So gab die Mauertür
+nach, nur so kam es nicht sofort zu einer Schießerei …«
 
 Peter Munk brummte abgerissen zwischen den Zähnen
-Hindurch: »Sahen Sie, was in den. flachen Kisten lag? — Der
-
+Hindurch: »Sahen Sie, was in den flachen Kisten lag? — Der
 Deckel der einen Kiste war zur Seite geschoben … — Sahen
-die es, Harst?!«
-»Ja …! — — Arme Teufels Mir unverständlich!l! —
+Sie es, Harst?!«
 
+»Ja …! — — Arme Teufel!! Mir unverständlich!! —
 Still jetzt …!!«
+
 Wieder warteten wir …
-— Arme Teufel?!, — was hieß das?! Was enthielte in die
+
+Arme Teufel?!, — was hieß das?! Was enthielte in die
 Kisten?!
-— Munk stöhnte leise: »Jetzt eine Flasche Kognak!! Ich
-Gabe etwas darum!!«
+
+Munk stöhnte leise: »Jetzt eine Flasche Kognak!! Ich
+gäbe etwas darum!!«
+
 Harald dauerte die Geschichte offenbar zu lange, er richtete
 <@pagebreak/>
 sich auf, horchte und schlich davon. Hier in diesem verwünschten
@@ -820,21 +823,21 @@ gegen die Stirn.
 
 Aus der Kiste grinste mir ein gelbfahles Totengesicht
 mit blondem Scheitel entgegen, — der Mann war ein Europäer,
-und sogar Steine Tropenjacke war noch gut erhalten.
+und sogar seine Tropenjacke war noch gut erhalten.
 
 Einer der in Makaresch umgekommenen und verschwundenen
-Detektive etwa?!, schloß es mir durch den Sinn, doch
+Detektive etwa?!, schoß es mir durch den Sinn, doch
 Harsts erneuter Zuruf ließ mich selbst dies vergessen.
 
 Droben auf dem Pappdach, von Schnee halb bedeckt,
 lag der nackte, gefesselte und geknebelte Goodwin, den man
 vorsorglich noch durch Stricke an einige Dachnägel festgebunden
 hatte, damit er sich nicht etwa anderswohin rollen
-oder aufrichten könnte. —
+oder aufrichten könnte.
 
 Ebenso bedeutsam war eine doppelte frische Fußspur im
-Schnee, die an Goodwin vorüber zu einer über das Dach hinausragender
-Feuerleiter führte.
+Schnee, die an Goodwin vorüber zu einer über das Dach
+hinausragenden Feuerleiter führte.
 
 »Die Schufte sind entflohen!«, zischte Harst. »Sie hatten
 doch Verdacht geschöpft … — Rasch, bringen wir Goodwin
@@ -845,63 +848,63 @@ rieben und kneteten ihn, bis er endlich die Augen öffnete und
 wild um sich stierte.
 
 Sein Rücken zeigte etwa zwanzig blutige Striemen, —
-trotzdem erholte er sich Sehr bald, Munk hatte in einem Winke!
-seine Kleider gefunden, wir halfen ihn beim Anziehen, und
+trotzdem erholte er sich Sehr bald, Munk hatte in einem Winkel
+seine Kleider gefunden, wir halfen ihm beim Anziehen, und
 <@pagebreak/>
 seine zähe Natur überwand auch die leichten Ohnmachtsanfälle,
 die sich anfänglich noch einstellen. Dann folgte ein sehr
-heftigen Schweißausbruch infolge der gründlichen Massage, und
+heftiger Schweißausbruch infolge der gründlichen Massage, und
 Goodwin sprach die ersten Worte, die seltsamerweise lauteten:
 
 »Nicht die Polizei benachrichtigen, nur nicht!«
 
 Und abermals nach einer längeren Erholungspause fügte
 er hinzu: »Dies ist eine Sache, die nur England etwas angeht!
-England wird strafen!/l Ich finde die Schufte schon!«
+England wird strafen!! Ich finde die Schufte schon!«
 
 Harald hatte den Kistendeckel vollends über den unheimlichen
 Behälter gedeckt und sich ohne Umstände niedergesetzt.
 Im ganzen waren vier dieser flachen Kisten vorhanden, die
-— steht wichtig — keinerlei Frachtsignaturen zeigten.
+— sehr wichtig — keinerlei Frachtsignaturen zeigten.
 
 »Mr. Goodwin«, meinte Harst zu dem schwitzenden aber
-sehr frisch blickenden Oberinspektor a. D. und jetzigen Sekretär
-des Sultans Omar, ohne die Polizei werden wir kaum
-austauschen. Kennen Sie den Inhalt dieser vier Kisten?«
+sehr frisch blickenden Oberinspektor a.&nbsp;D. und jetzigen Sekretär
+des Sultans Omar, »ohne die Polizei werden wir kaum
+auskommen. Kennen Sie den Inhalt dieser vier Kisten?«
 
-»da. Leider … Und ich kannte den Inhalt sogar, als
+»Ja. Leider … Und ich kannte den Inhalt sogar, als
 er noch lebte. Es waren vier kühne, schlaue Burschen, und zwei
 davon mir eng befreundet, wenn auch bedeutend junger als
 ich. Ich redete ihnen damals noch zu, den Auftrag zu übernehmen,
 und, als Sie nicht zurückkehrten, nahm ich den Abschied
-und gab mir selbst das Wort, ihren Tod unter aller;
-Umständen zu rächen. Das ist mir genau sieben Monate her,
+und gab mir selbst das Wort, ihren Tod unter allen
+Umständen zu rächen. Das ist nun genau sieben Monate her,
 und die Europareise des Sultans kam mir sehr gelegen. Wir
-lernten uns nicht erst in London können, nein, bereits an Eher
+lernten uns nicht erst in London kennen, nein, bereits an der
 Riviera suchte ich ganz unauffällig als Baron Gambritzki,
-Österreicher, seine Bekanntschaj:, Die Hauptsache blieb ja,
-daß diese Mördersekte nicht ahnt?o, darf ein neuer Feind fände
-nachspüren würde. So wurde in Fenstern Schein tue 15:2-
-Kreise und europäische Reisemarschall! Seiner- Hoheit …«
+Österreicher, seine Bekanntschaft. Die Hauptsache blieb ja,
+daß diese Mördersekte nicht ahnte, daß ein neuer Feind ihnen
+nachspüren würde. So wurde ich denn zum Schein der Sekretär
+und europäische Reisemarschall Seiner Hoheit …«
 
-… Harry Goodwin hatte seine Kräfte doch wohl etwas
+Harry Goodwin hatte seine Kräfte doch wohl etwas
 überschätzt. Er knickte abermals halb zusammen, Harst mußte
-Ihn trüben, und die Hoffnung, daß er uns schnellstens in kurzen
+ihn stützen, und die Hoffnung, daß er uns schnellstens in kurzen
 <@pagebreak/>
-Zügen noch hier mitteilen könnte, wie er auf den Orpheum Klub
+Zügen noch hier mitteilen könnte, wie er auf den Orpheum-Klub
 aufmerksam geworden sei, war verfrüht gewesen.
 
 Munk hatte derweil draußen an der Treppe Wache gestanden
 und bisher nichts Argwohnerregendes zu melden gehabt.
 Ich selbst fühlte mich nach wie vor in diesem Raume
-Höchst unbehaglich, und das wieder sie bleiche Gesicht des englischen
+Höchst unbehaglich, und das wieder so bleiche Gesicht des englischen
 Kollegen trug mit dazu bei, daß ich Harst mit der entscheidenden
 Frage zuvorkam.
 
 »Wie kamen diese mumifizierten Toten hierher?«, fragte
 ich ohne alle Umschweife. »Wenn Ihre Landsleute, Herr
 Goodwin, etwa erst hier auf deutschem Boden ermordet wurden,
-dann.«…«
+dann …«
 
 Er winkte sehr energisch ab. »Keine Rede braven, bestimmt
 nicht! Weshalb man die Toten irgendwie nach Europa
@@ -912,31 +915,32 @@ die Bretter sind mit der Hand gesägt worden,
 — das ist keine europäische Arbeit, sogar die Nägel mit
 den dicken Köpfen können nicht Fabrikware sein. Und doch, —
 wir dürfen die Polizei nicht ausschalten, wie sollten wir die
-Mumien wohl bergen?!l Und sie hierlassen — — ausgeschlossen!
+Mumien wohl bergen?! Und sie hierlassen — — ausgeschlossen!
 Es gibt nur einen Weg, Goodwin: Den zur Polizei! — Los
-denn, entfernen wir uns … Ich Grüße Sie, Goodwin … Die
+denn, entfernen wir uns … Ich stütze Sie, Goodwin … Die
 nächste Polizeiwache ist in fünf Minuten zu erreichen, und …«
 
 Irgendwo in diesem scheußlichen Loch von ehemaligem
-Atelier hatte eine Glocke Sonst schrillend angeschlagen.
+Atelier hatte eine Glocke sanft schrillend angeschlagen.
 
 Harst schwieg, winkte mir, ich setzte mich neben unseren
-Patienten, und Harald schlich auf eine vermoderte Farbschicht)
-ßrix! zu, deren Mittelpunkt ein zerfetzter japanischer Löcher
+Patienten, und Harald schlich auf eine vermoderte Wanddraperie
+zu, deren Mittelpunkt ein zerfetzter japanischer Fächer
 bildete.
 
-Wiederum schrillte die Glocke. Harst nahm den Löcher
-von den Nägeln, entfernte auch den verblichenen Seltenheit
-und hob mit seinem Wasser einen lose eingefügten Ziegelstein
+Wiederum schrillte die Glocke. Harst nahm den Fächer
+von den Nägeln, entfernte auch den verblichenen Seidenstoff
+und hob mit seinem Messer einen lose eingefügten Ziegelstein
 Heraus, leuchtete in das dahinterliegende Loch hinein, und —
-die Glocke schlug zum dritten Male an. Er griff mit drum
+die Glocke schlug zum dritten Male an. Er griff mit der
 <@pagebreak/>
 Hand in die Öffnung und brachte einen kleinen Telefonhörer
 zum Vorschein, der jedoch sehr laut ansprach.
 
 »Bitte, — — Kennwort«, vernahmen selbst Goodwin und
 ich eine tiefe Stimme.
-»»Makaresch!«, entgegnete Harst dumpfen Tones.
+
+»Makaresch!«, entgegnete Harst dumpfen Tones.
 
 Ob er dieses Kennwort auf gut Glück gewählt hatte,
 wußte ich nicht.
@@ -944,152 +948,154 @@ wußte ich nicht.
 Der Erfolg bewies, daß er das richtige Wort gewählt
 hatte.
 
-Die Stimme aus dem Hörer rief gereizt;: »Lockstätten, die
+Die Stimme aus dem Hörer rief gereizt: »Lockstätten, die
 vier Kisten müssen sofort weggeschafft werden … Wie, das
-ist Ihre Sache. Ach bitte mir aus, daß Sie prompt gehorchen.
-Geld finden Sie am alten Plätze, mieten Sie am besten
+ist Ihre Sache. Ich bitte mir aus, daß Sie prompt gehorchen.
+Geld finden Sie am alten Platze, mieten Sie am besten
 zwei Autotaxen und bringen Sie die Chauffeure durch einen
 Zwanzigmarkschein zum Schweigen. — Erledigt. Schluß.«
 
-Goodwin schaute mich groß an, während Harst die Drogerie
-wieder über den Stein hängte, den Fischer befestigte und
-kopfschüttelnd zu uns trat. Auch Grund pirschte sich näher
-heran, und nachts kurzer Beratung beschlossen wir, vorläufig
+Goodwin schaute mich groß an, während Harst die Draperie
+wieder über den Stein hängte, den Fächer befestigte und
+kopfschüttelnd zu uns trat. Auch Munk pirschte sich näher
+heran, und nach kurzer Beratung beschlossen wir, vorläufig
 noch abzuwarten. Die Mauertür wurde zugedrückt, wir richteten
-uns hinter den Kisten in der Ecke etwas bequemere Attentate
+uns hinter den Kisten in der Ecke etwas bequemere Sitzplätze
 ein, und als wir uns dort niedergelassen hatten, erklärte
 Harst merklich unsicher: »Es Kann ein Bluff gewesen sein,
 damit wir den beiden Kerlen, die über das Dach ausgekniffen
-eins, nicht Sofort nachsetzen, sondern hier auf Lockstätten
+sind, nicht Sofort nachsetzen, sondern hier auf Lockstätten
 warteten.«
 
 Oberinspektor Goodwin fragte ärgerlich: »Wer ist denn
-nun wieder dieser Lockstätten?21«
+nun wieder dieser Lockstätten?!«
 
-»Wahrscheinlich ein Mann, der sich in ziemlich) faule
+»Wahrscheinlich ein Mann, der sich in ziemlich faule
 Dinge aus Not eingelassen hat und zu dessen Wohnung ebenfalls
 eine Geheimleitung führt … oder auch nicht … —
-Ich möchte jedenfalls in die Entxmcklung der komplizierten
+Ich möchte jedenfalls in die Entwicklung der komplizierten
 Angelegenheit nicht eingreifen, bevor ich nicht noch mehr
-Süden in der Hand habe. Aus dem bisherigen Material an
+Fäden in der Hand habe. Aus dem bisherigen Material an
 <@pagebreak/>
-sZYilergarn läßt sich wirklich kein Strick für diese Herrschaften
-pinnen …«
+Seilergarn läßt sich wirklich kein Strick für diese Herrschaften
+spinnen …«
 
-»Licht aus!!«, flüsterte« Peter Munk überhastet. Er
+»Licht aus!!«, flüsterte Peter Munk überhastet. Er
 besaß vielleicht die schärfsten Ohren von uns. »Es kommt jemand
 … Licht aus!!«
 
-Harsts Sampan erlosch … — Von der Mauertür her ein
+Harsts Lampe erlosch … — Von der Mauertür her ein
 Knarren, Scharren, — dann eine breite Lichtbahn von einer
 Karbidlaterne, das Knacken des Lichtschalters und droben an
 der Glasdecke flammte eine Birne auf.
 
-er der Maueröffnung aber stand ein junges Mädchen
-mit totenbleichem Gesicht und seinen Zügen und übergroßen
+In der Maueröffnung aber stand ein junges Mädchen
+mit totenbleichem Gesicht und feinen Zügen und übergroßen
 Augen, die voller Schrecken den wüsten Raum überflogen …
 Das Mädchen trug einen schwarzen, engen Kittel, der die
-vollendete Schönheit ihrer Gestalt noch mehr utterstrich.
+vollendete Schönheit ihrer Gestalt noch mehr unterstrich.
 
-Die Männer im feurigen Ofen.
+<h2>5. Kapitel.</h2>
 
-Was wir beide bisher 6n Übenateuern durch unsere Feindin
+<h3>Die Männer im feurigen Ofen.</h3>
+
+Was wir beide bisher an Abenteuern durch unsere Feindin
 Harriet erlebt hatten, war immerhin auf den Umkreis
-deutschen Bodens beschränk:i geblieben. Nun aber griffen
+deutschen Bodens beschränkt geblieben. Nun aber griffen
 die Dinge plötzlich bis in die Südecke Arabiens hinüber, —
-denn daß Harriet Prill ay:y hier wieder irgendwie beteiligt
-war, unterlag für mich An dem Augenblick keinem Zweifel
-mehr, als sich herausgesiteut hatte, daß die Schüsse aus der
-Luftbüchse gegen die Rücvwand unseres Flusses und die auf
+denn daß Harriet Prill auch hier wieder irgendwie beteiligt
+war, unterlag für mich von dem Augenblick keinem Zweifel
+mehr, als sich herausgestellt hatte, daß die Schüsse aus der
+Luftbüchse gegen die Rückwand unseres Flitzers und die auf
 Harst abgefeuerte Kugel bitter ernst gemeint gewesen waren,
-ebenso daß nur Harriet sowohl die Gläser wie. den Briesmschlag
+ebenso daß nur Harriet sowohl die Gläser wie den Briefumschlag
 <@pagebreak/>
 aus dem Laboratorium hatte stehlen lassen. — —
 Weshalb? — Die Frage war leicht zu beantworten: Der
 Briefumschlag trug sicherlich ihre Fingerabdrücke, und die
-Klarer wurden nur mitgenommen, damit der Tatbestand verurteilt
+Gläser wurden nur mitgenommen, damit der Tatbestand verdunkelt
 würde. — Und weshalb überhaupt diesen Umschlag
-nicht dem Zeitungsausschnitt?! Sehr einfach: Harriet war eine
-anlegte Diplomatin, und der Schreckschuß dieses Geitungsusschnittes
+mit dem Zeitungsausschnitt?! Sehr einfach: Harriet war eine
+gewiegte Diplomatin, und der Schreckschuß dieses Zeitungsausschnittes
 Sollte Haralds Mutter veranlassen, ihren Sohn
-on einer Einmischung in die Affäre »Todessekte« abzuholen.
-— Diele Spekulation war vorbeigeglückt. Wir hatten
-gar gleich darauf einen Erfolg zu buchen gehabt, der uns
-uf Gerd von Lockstättens Fährte brachte, wir kannten seinen
-Damen, Steine Wohnung, seine ärmlichen Verhältnisse, und als
-er Peter Munk seine Lippen an mein Ohr drückte und mir
-nicht merklichem Schreck zuraunte, jenes Mädchen dort in der
-ihr sei die Chauffeurin der Chrysler-Limousine, überraschte
-nicht dies weit weniger als das mir unerklärliche Benehmen
-er blassen Fremden, die nun wie todesmatt an der Mauer
-ol)xjste und mit deutlichem Grauen die vier unheimlichen Kisten
+von einer Einmischung in die Affäre »Todessekte« abzuhalten.
+— Diese Spekulation war vorbeigeglückt. Wir hatten
+sogar gleich darauf einen Erfolg zu buchen gehabt, der uns
+auf Gerd von Lockstättens Fährte brachte, wir kannten seinen
+Namen, seine Wohnung, seine ärmlichen Verhältnisse, und als
+jetzt Peter Munk seine Lippen an mein Ohr drückte und mir
+mit merklichem Schreck zuraunte, jenes Mädchen dort in der
+Tür sei die Chauffeurin der Chrysler-Limousine, überraschte
+mich dies weit weniger als das mir unerklärliche Benehmen
+der blassen Fremden, die nun wie todesmatt an der Mauer
+lehnte und mit deutlichem Grauen die vier unheimlichen Kisten
 musterte,
 
 Nur ein ganz hart gesottener Bösewicht hätte für dieses
-lachen kein Mitleid empfinden können, denn jede ihrer
-auspumpen, mit denen sie jetzt den Kisten sich näherte, beriet
-ihre wachsende Angst und ihre mühselig bewahrte Ja]-
-uns, — sie Schleppte Ich förmlich vorwärts, sie schwankte
-ratlos, tastete nach einer Stöße und Sank dann in den einigen
-hier befindlichen: wackeligen Rohrstuhl, schlug die Hände
-or das Gesicht und begann bitterlich zu weinen.
+Mädchen kein Mitleid empfinden können, denn jede ihrer
+Bewegungen, mit denen sie jetzt den Kisten sich näherte, verriet
+ihre wachsende Angst und ihre mühselig bewahrte Fassung,
+— sie schleppte sich förmlich vorwärts, sie schwankte
+kraftlos, tastete nach einer Stütze und Sank dann in den einzigen
+hier befindlichen wackeligen Rohrstuhl, schlug die Hände
+vor das Gesicht und begann bitterlich zu weinen.
 
 Harst hatte sich erhoben, — genau so lautlos begab er sich
-ur Mauertür, drückte sie vorsichtig zu und sagte dann wärmten
-Conte: »Fräulein von Lockstätten, erschrecken Sie nicht.
-Nein Name ist Harst, und …«
+zur Mauertür, drückte sie vorsichtig zu und sagte dann wärmsten
+Tones: »Fräulein von Lockstätten, erschrecken Sie nicht.
+Mein Name ist Harst, und …«
 
 Hier half selbst die gütigste Sprache nichts.
 
 Das Mädchen war mit leisem Schrei emporgeschnellt —
-euer sie noch ohnmächtig umsank, bevor Harald sie auffangen
+bevor sie noch ohnmächtig umsank, bevor Harald sie auffangen
 <@pagebreak/>
-konnte, war Peter Munk wie ein freuen Wachhund
-mit einem Riesenkatze neben ihr, nahm sie im die Arme und
+konnte, war Peter Munk wie ein treuer Wachhund
+mit einem Riesensatze neben ihr, nahm sie in die Arme und
 funkelte Harst wütend an …
 
-»Tote konnten Sie nur!! Das war ungeheuer rücksichtslos,
+»Wie konnten Sie nur!! Das war ungeheuer rücksichtslos,
 und die ganze …«
 
-»Still« Die energische Geste Harsts ließ ihn verstummen
+»Still!!« Die energische Geste Harsts ließ ihn verstummen
 …
 
 Wir horchten … Irgendwo draußen ertönten besonders
 Scharfe Hupensignale, zwischenein war das Läuten einer Feuerwehrglocke
 zu hören, und als Harald nun die Tür nach der
-Treppe wieder ausstieß, schoß eine grelle Stichflamme bis zur
+Treppe wieder aufstieß, schoß eine grelle Stichflamme bis zur
 Dachluke durch den Treppenschacht empor …
 
-las Haus blaurote …
+Das Haus brannte …
 
-— Das Klubhaus stand ja Flammen, und daß das Feuer
-angelegt worden rar, bewies uns Fragen allein der Geruch von
-Benzin und Betonung, den der Qualm der Stichflammen
-zurückließ. Die nüchterne Wendeltreppe bildete im Augenblick
+Das Klubhaus stand in Flammen, und daß das Feuer
+angelegt worden war, bewies uns schon allein der Geruch von
+Benzin und Petroleum, den der Qualm der Stichflammen
+zurückließ. Die hölzerne Wendeltreppe bildete im Augenblick
 ein fauchendes Flammenmeer, wir hatten leider die Dachluke
-offen gelassen, die Anstalt veqaunstigte das Umsichgreifen der
+offen gelassen, die Zugluft begünstigte das Umsichgreifen der
 gefräßigen Glut, und Harst konnte nur gerade noch die Leiter
 zu uns hereinholen und eilends die Mauertür schließen, — —
-wir waren gesprochen, es hatte »auch wenig Zweck, oben das
-Glasdach einzuschlagen und mit Hals der Leiter herauszuklettern,
-die Schneeschicht des Atelierdaches war im Nu weggeschmolszen,
-und auch draußen bemerkten wir den blendender
-Glanze emporschießenver Stichflammen, — — Zweifellos war
-das Alleine Gebäude längst mit aller Sorgfalt für eine so jähe
-Steuertl8bl1):sind’s vorbereitet worden, daß die Feuerwehr machte
-08 blieb.
+wir waren gefangen, es hatte auch wenig Zweck, oben das
+Glasdach einzuschlagen und mit Hilfe der Leiter herauszuklettern,
+die Schneeschicht des Atelierdaches war im Nu weggeschmolzen,
+und auch draußen bemerkten wir den blendenden
+Glanz emporschießender Stichflammen, — — zweifellos war
+das kleine Gebäude längst mit aller Sorgfalt für eine so jähe
+Feuersbrunst vorbereitet worden, daß die Feuerwehr machtlos
+blieb.
 
 Fünf Menschen und vier Mumien waren nun hier in
 diesem Raume eingesperrt, dessen Glasdach unsere erregten,
-ratlosen Gesichter mit vom zuckenden Schein der empor lodernden
-Flammen belevchtetg, — ein bewußtloses Mädchen ruhte
+ratlosen Gesichter mit dem zuckenden Schein der emporlodernden
+Flammen beleuchtete, — ein bewußtloses Mädchen ruhte
 in Munks Armen, — die vier toten Engländer waren die
 stummen Ankläger gegen eine brutale Mördersekte, die bestimmt
 <@pagebreak/>
 hier in diesem Hause eine Art Filiale unter der Maske
-des geselligen Orpheum-Klubs unterhalten hatte. Oberinspek-
-… Tor Goodwin, der als Rächer seiner Fremde hatte austreten
-Worten, war genau wie wir zu einem qualvollen Tode verurteilt,
+des geselligen Orpheum-Klubs unterhalten hatte. Oberinspektor
+Goodwin, der als Rächer seiner Freunde hatte auftreten
+wollen, war genau wie wir zu einem qualvollen Tode verurteilt,
 selbst der größte Optimist hätte jede Hoffnung auf Rettung
 fahren lassen, durch die Dielenritzen drang bereits beißender
 Qualm, die Scheiben des Glasdaches platzten infolge
@@ -1099,64 +1105,62 @@ sich mit verkniffenen Lippen an und waren nur froh, daß das
 Mädel von alledem nichts ahnte …
 
 Plötzlich schritt Harst auf eine Ecke zu, wo ebenfalls
-ein würden Vorhang hing. Er riß ihn bei Seite, — ein zerbrochenes
+ein mürber Vorhang hing. Er riß ihn bei Seite, — ein zerbrochenes
 Waschbecken mit einem Wasserhahn darüber kam
 zum Vorschein, — — er drehte den Hahn auf, ein Wasserstrahl
-schloß heraus, — — zum Glück waren die Bleirohre
+schoß heraus, — — zum Glück waren die Bleirohre
 der Wasserleitung noch nicht durchgeschmolzen.
 
 Goodwin, ebenso plötzlich äußerst beweglich geworden,
-fand ein Handbeil, legte das Bleirohr völlig frei, Schrankfach
-durch« Schläge den Hahn ab, und der Wasserstrahl ward bedeutend
+fand ein Handbeil, legte das Bleirohr völlig frei, schraubte
+durch Schläge den Hahn ab, und der Wasserstrahl ward bedeutend
 dicker, überflutete die Dielen, das Gerümpel, — —
 draußen verstärkte sich der Lärm der emsig arbeitenden Feuerwehr,
 ein Glasdach splitterte noch ärger, die Qualmfäden aus
 den Dielenritzen wurden unerträglichen, auf Harsts Kommando
-bauten wir eine Art Gerüst, auf dein wir oben Platz fanden,
-so daß uns der Qualm weniger belästigte, — — immer nachreiste
-das Bleirohr, immer noch fauchten draußen hoch?
-Flammenzungen empor, aber die Motorspritzen arbeiteten.
-die armdicken Wasserstrahlen fuhren auf das Glasdach Vetter …
-graue Scherben Gottheiten, und vorläufig blieb dieser gigumischy
-Kampf zwischen dem wütenden, vernichtenden Clement
-des Kettenhund Seinen: Gegner, den ratternden Motorspritzen,
+bauten wir eine Art Gerüst, auf dem wir oben Platz fanden,
+so daß uns der Qualm weniger belästigte, — — immer noch
+spritzte das Bleirohr, immer noch fauchten draußen hohe
+Flammenzungen empor, aber die Motorspritzen arbeiteten,
+die armdicken Wasserstrahlen fuhren auf das Glasdach nieder,
+graue Scherben splitterten, und vorläufig blieb dieser gigantische
+Kampf zwischen dem wütenden, vernichtenden Element
+des Feuers und seinem Gegner, den ratternden Motorspritzen,
 völlig unentschieden.
 
-»Wenn sie wenigstens draußen wüßten, daß hier noch«.
+»Wenn sie wenigstens draußen wüßten, daß hier noch
 <@pagebreak/>
 Menschen in Todesnot sitzen!«, meinte Goodwin in verbissenem
-
 Grimm. »Harst, — was schreiben Sie da eigentlich?!«
+
 Haralds Füllfeder glitt noch eiliger über eine Seite seines
+Notizbuches. Er riß die Seite dann heraus, reichte sie Goodwin
+und schrieb weiter. — Wir lasen:
 
-Notizbuches. Er riß die Seite dann heraus, reichte sie Boot
-
-wir und schrieb weiter. — Wir lasen:
-
-»Bitte Turm des Hauses zuerst ablöschen. Wenn
+> »Bitte Turm des Hauses zuerst ablöschen. Wenn
 möglich, Rauchmasken uns durch Atelierfenster zuwerfen.
 Aber bestimmt verheimlichen, daß noch Menschen
-im Hauses. Polizei sollt Publikum zurückdrängen
+im Hause. Polizei soll Publikum zurückdrängen
 und schweigen. Harald Harst.«
 
-Er schrieb drei gleichlaufende Zettel, kletterte von unseren!
-Gerüst herab und holte drei Straße Gipsmasken von berühmten
+Er schrieb drei gleichlaufende Zettel, kletterte von unserem
+Gerüst herab und holte drei flache Gipsmasken von berühmten
 Malern, die an den Wänden verschmutzt und staubig
 gehangen hatten. In jede der Gipsmasken drückte er einen
-der Fette! hinein und befestigte ihn durch Holzstücke, die er
+der Zettel hinein und befestigte ihn durch Holzstücke, die er
 passend zurechtschnitt.
 
 Dann schleuderte er die erste Maske wie einen Diskus
-Auch ein Loch des Glasdaches, — — die zweite folgte, die
-Mitte …
+durch ein Loch des Glasdaches, — — die zweite folgte, die
+dritte …
 
 Die Wirkung blieb nicht aus … Die Wasserstrahlen
 kamen knatternd und zischend in verdoppelter Zahl auf das
-Turmhoch hernieder, wir wurden bis auf die Haut naß, und
+Turmdach hernieder, wir wurden bis auf die Haut naß, und
 plötzlich erwachte auch das Mädchen in Munks Armen aus
 tiefer Bewußtlosigkeit, — ein neuer Wasserstrahl brachte sie
 vollends zu sich, und auf Haralds Frage bestätigte sie matt,
-sie heiße wirklich Hilde Lockstätten und sei abends im Orpheum Klub
+sie heiße wirklich Hilde Lockstätten und sei abends im Orpheum-Klub
 als Sekretärin tätig.
 
 Munk, der sie weiterhin fürsorglich auf dem Schoße behielt,
@@ -1165,22 +1169,22 @@ genügend schone. Aber der gute Munk hatte diese Hilde
 gründlich unterschätzt. Gewiß, als sie nun gewahr wurde, daß
 wir hier wie in einem feurigen Käfig steckten, dessen Fußboden
 nur infolge der Überschwemmung noch nicht mit in
-Flammen aufgegangen Sein mochte, raste sie sich entsetzt empor
+Flammen aufgegangen Sein mochte, raffte sie sich entsetzt empor
 <@pagebreak/>
-und sank dann wieder in Munks hilfreiche Arme zurück. ’Dorl)
+und sank dann wieder in Munks hilfreiche Arme zurück. Doch
 dies neue Versagen ihrer Kräfte währte kam Sekunden.
-die setzte sich energisch aufrecht, und als Harst beruhigend
-erklärte, jede Gefahr sei vorüber, meinte sie fast schroff: »6ckch
+Sie setzte sich energisch aufrecht, und als Harst beruhigend
+erklärte, jede Gefahr sei vorüber, meinte sie fast schroff: »Ich
 fürchte mich nicht … Ich habe nur einen Wunsch, und zwar,
 daß meines Bruders und mein Abhängigkeitsverhältnis von
 diesen fragwürdigen Leuten endlich ein Ende hätte. Wir sind
 aus Not in diese dunklen Dinge hineingezogen worden,
-Schließlich So tief, daß es kaum ein Zurück mehr gab …«
+schließlich so tief, daß es kaum ein Zurück mehr gab …«
 
-ehe Gesicht hatte sich mit flammender Röte ehrlicher
+Ihr Gesicht hatte sich mit flammender Röte ehrlicher
 Empörung bedeckt …
 
-»Ich? weiß, Sie sind Herr Harst, — — fragen Sie, —
+»Ich weiß, Sie sind Herr Harst, — — fragen Sie, —
 ich halte mit nichts mehr zurück … Gewiß, ich habe zu
 Schweigen versprochen, aber jetzt, wo man mich selbst offenbar
 mit beseitigen wollte, bin ich an dieses Versprechen nicht mehr
@@ -1188,43 +1192,43 @@ gebunden …« — Wie anklagend blickte sie durch das zerlöcherte
 Glasdach zum Sternenhimmel empor, der, jetzt völlig
 frei von Schneegewölk, mit einigen flimmernden Sternen
 freundlich herabgrüßte, wenn die weißen Qualmschwaden draußen
-vom Winde fortgeweht wurden. — Das Feuer war »nun
+vom Winde fortgeweht wurden. — Das Feuer war nun
 doch offenbar bereits im Erlöschen, von Flammenzungen war
-nichts mehr wahrzunehmen, und zuckte Luft hier in unserem
+nichts mehr wahrzunehmen, und auch die Luft hier in unserem
 Kerker wurde reiner und frei von giftigen Schwaden, in denen
 zeitweise der kennzeichnende Geruch verbrannter Zelluloidmassen
 (es waren aufgestapelte alte Filme gewesen, wie sich
-Später herausstellen vorgeherrscht hatte.
+Später herausstellte) vorgeherrscht hatte.
 
-Harst fragte denn auch nun mit Tiger Sachlichkeit, die
-das Mädchen nur als Zeichen größten Sicherheitsgefühls hin
-nehmen konnte: »Ihr Bruder Gerd sollte heulte bei dem Auto:;:
-einbrechen, nicht wahr? Daß er +  15243,1 ermorden wollte,
-weiß ich, denn sein Dolchaysser war … aus Pappe und mit
-Silberpapier beklebt … Hier ist 25.« Dir faßte mit etwas
+Harst fragte denn auch nun mit einer Sachlichkeit, die
+das Mädchen nur als Zeichen größten Sicherheitsgefühls hinnehmen
+konnte: »Ihr Bruder Gerd sollte heute bei dem Sultan
+einbrechen, nicht wahr? Daß er ihn nicht ermorden wollte,
+weiß ich, denn sein Dolchmesser war … aus Pappe und mit
+Silberpapier beklebt … Hier ist es.« Er faßte mit etwas
 unergründlichem Lächeln in die Brusttasche und zeigte uns
-dies? … »Waffe« … Er freute Sitz über unsere verduften
+diese … »Waffe« … Er freute sich über unsere verdutzten
 <@pagebreak/>
 Gesichter, und ohne Hildes Antwort abzuwarten, fügte er
 ernster hinzu: »Wir werden hierauf noch später zu sprechen
-kommen. Die vier hoffen Engländer, die man sehr Kunstgerecht
+kommen. Die vier toten Engländer, die man sehr kunstgerecht
 einbalsamiert hat, dürften heimlich per Schiff nach
 Deutschland gebracht worden sein. Ihr Bruder hat wohl
 den Transport von der Küste hierher übernommen, Fräulein
 Hilde? — Nun, diese seltsam erscheinende Pietät der Todessekte
 gegenüber den armen vier Kollegen hat auch bereits
 eine Erklärung gefunden. Einer der vier, Sir William Oxford,
-war mehr Liebhaberdetektiv und Sehr reich, seine Familie
+war mehr Liebhaberdetektiv und sehr reich, seine Familie
 hat daher eine Belohnung von 2000 Pfund Sterling
-für die Herbeischaffung seiner Leiche oder grün die Begründung
+für die Herbeischaffung seiner Leiche oder für die Ergründung
 der näheren Umstände des Todes der vier ausgesetzt. Auf
-diese Belohnung wollte die merkwürdige Sekte — nicht verzichten.
+diese Belohnung wollte die merkwürdige Sekte nicht verzichten.
 Die Mumien wären später sicherlich nach London geschafft
-worden, und irgend jemand hätte sich dort als »ehrlicher Inder«
+worden, und irgend jemand hätte sich dort als »ehrlicher Finder«
 aufgespielt.«
 
 Oberinspektor Goodwin reichte Harst impulsiv die Hand,
-»Von Seligen kann man lernen, weiße Gott!! Der Gedanke
+»Von Ihnen kann man lernen, weiß Gott!! Der Gedanke
 ist mir noch gar nicht gekommen.«
 
 Harald blinzelte Goodwin daraufhin vielsagend an …
@@ -1236,17 +1240,18 @@ ehrlich!«
 Der Oberinspektor erwiderte zaudernd und plötzlich
 äußerst nachdenklich: »Durch einen getippten Brief, den ich
 heute abend zehn Uhr in meinem Hotelzimmer vorfand, und in
-dem ein Anonymus mir riet, mich doch;) einmal im Hause des
-Orpheum—Klubs genauer umzusehen … (1«
+dem ein Anonymus mir riet, mich doch einmal im Hause des
+Orpheum-Klubs genauer umzusehen …!!«
 
-»Das dachte ich mir!«, — und wieder lächelte Kerl,
+»Das dachte ich mir!«, — und wieder lächelte Harald,
 
 Gleich darauf wurden durch den Garagenhof, der an das
-ausgebrannte Klubhaus grenzte, einige verhüllte Gestalten un-«
-bemerkt zu zwei geschlossenen Autos geführt …
+ausgebrannte Klubhaus grenzte, einige verhüllte Gestalten unbemerkt
+zu zwei geschlossenen Autos geführt …
 
-<@pagebreak/>
-Die Freundin eines Sultans.
+<@pagebreak 35/>
+
+<h1>Die Freundin eines Sultans.</h1>
 
 <h2>1. Kapitel.</h2>
 <h3>Auf Wache an der Küste Arabiens.</h3>
@@ -1255,9 +1260,9 @@ Die Presse brachte am folgenden Tage lediglich folgenden
 knappen Bericht über die Feuersbrunst:
 
 »In der vergangenen Nacht brannte das Klubhaus in
-der Bieten-Straße, Berlin W, völlig aus. Die Feuerwehr
+der Lietzen-Straße, Berlin W, völlig aus. Die Feuerwehr
 war gegenüber der durch besondere Umstände begünstigten
-Schneller Ausbreitung des Brandes vollkommen machtlos.
+Schnellen Ausbreitung des Brandes vollkommen machtlos.
 Wie die Klubleitung zugibt, lagerten in dem Gebäude große
 Mengen alter Filmstreifen, die für arabische Kinos billig aufgekauft
 waren. Leider sind bei dem Brande auch mehrere
@@ -1267,14 +1272,14 @@ um welche Unglücklichen es sich hierbei handelt. Die Identifizierung
 der geringen Leichenreste dürfte auch sehr schwer
 werden, da der Klub gleichzeitig ein Pensionat für durchreisende
 Orientalen unterhielt, und der Verdacht besteht, daß
-der Klubvorstand Flüchtlingen aller Art Unterkunft gewahrte.«
+der Klubvorstand Flüchtlingen aller Art Unterkunft gewährte.«
 
-Als die Berliner in den Mittagszeiktungen diese spärliche
+Als die Berliner in den Mittagszeitungen diese spärliche
 <@pagebreak/>
-Notiz zu lesen bekamen, hatte bereits ein englischer Corpedozerstövrer,
+Notiz zu lesen bekamen, hatte bereits ein englischer Torpedozerstörer,
 Kommandant Sir Arthur Oxford, die einsame Bucht
-der telefonischen Küste mit Höchstgeschwindigkeit und mit einer
-Anzahl von Zulassen an Bord verlassen.
+der holsteinischen Küste mit Höchstgeschwindigkeit und mit einer
+Anzahl von Zivilgästen an Bord verlassen.
 
 Der »Trafalgar« war eins der neuesten und schnellsten
 Schiffe der englischen Kriegsmarine, und seine Besatzung
@@ -1282,43 +1287,43 @@ war auf Goodwins Wunsch besonders sorgfältig ausgewählt
 worden, damit die wahre Bestimmung dieses gefährlichen
 Windhundes der Meere völlig geheim bliebe.
 
-zäh muß nun hier einen Zeitraum von drei Wochen
-überspringen und führe meine sieben Leser und Freunde weichen
-Süden in einen kahlen, felsigen Höhlenzug hinein, in
+Ich muß nun hier einen Zeitraum von drei Wochen
+überspringen und führe meine lieben Leser und Freunde weit
+gen Süden in einen kahlen, felsigen Höhlenzug hinein, in
 dessen zerklüfteten, öden Schluchten vor kurzem eine kleine
 Kamelkarawane durch nächtlichen Ritt einen vorläufigen
 Unterschlupf gefunden hatte.
 
-Die Szenen« z einer frühen Morgenstunde war folgende:
-Es standen da tun einer Höhlenartigen Schlucht zwei braune
-Gelte, vor denen magere Personen mit der Zubereitung des
-Frühstück beschasfigt;varen, während im Hintergrunde zwölf
-Dromedare faul Mund stupide die Unterkiefer wiederkäuend hin
-und her schoben. Wi?leiser hatten wir vorsorglich bereits
-in Aden, der englischen Weiterleitung am Ausgang des Roten
+Die Szenerie einer frühen Morgenstunde war folgende:
+Es standen da in einer höhlenartigen Schlucht zwei braune
+Zelte, vor denen magere Personen mit der Zubereitung des
+Frühstück beschäftigt waren, während im Hintergrunde zwölf
+Dromedare faul und stupide die Unterkiefer wiederkäuend hin
+und her schoben. Diese Tiere hatten wir vorsorglich bereits
+in Aden, der englischen Felsenfestung am Ausgang des Roten
 Meeres, an Bord genommen, und ganz unbemerkt das gefährliche
 Gebiet des Sultanats Makaresch betreten zu können,
 — und dies war uns auch geglückt.
 
 Von unserem Lagerplatz konnten wir durch einen Einschnitt
 in den Bergen den Indischen Ozean und ein Stück
-der Sandigen Bucht überblicken, in der uns der Trafalgar
+der sandigen Bucht überblicken, in der uns der Trafalgar
 vorsichtig ausgebootet hatte.
 
-ne?!
+Uns?!
 
-Wer war dies n827 — Satz waren alles alte Bekannte
+Wer war dies uns? — Das waren alles alte Bekannte
 des Lesers, alles …
 
-Da war als einzige weibliche Teilnehmerin der abenteuerreichen
-Expedition Hilde 2ockstätten, da war ebenso ihr Bruder
-Gerd mit dabei, den wir noch in der Brandnacht herausgeftrommelt
+Da war als einzige weibliche Teilnehmerin der abenteuerlichen
+Expedition Hilde Lockstätten, da war ebenso ihr Bruder
+Gerd mit dabei, den wir noch in der Brandnacht herausgetrommelt
 <@pagebreak/>
 hatten, während die kränkliche Mutter der Geschwister
 in aller Stille bei uns daheim untergebracht worden
 War …
 
-Und da sahen wir auch den schlauen, strammen, Lehmigen
+Und da sahen wir auch den schlauen, strammen, sehnigen
 Peter Munk, der soeben für Hilde den Teebecher übereifrig
 füllt und der jetzt Sowohl auf den Fensterglasklemmer als
 auch auf die künstliche Nasenröte und den ebenso vorgetäuschten
@@ -1333,10 +1338,10 @@ denn auch Gerd Lockstätten hat auf das gewohnte Einglas
 nicht verzichtet.
 
 Seine Hoheit der Sultan hatte seinen Sekretär mithin
-Hingehaucht, und zu seiner Ehre sei es hier vorläufig gesagt,
+eingebüßt, und zu seiner Ehre sei es hier vorläufig gesagt,
 daß er, wie uns Funkdepeschen berichtet hatten, alles nur
-lEZ:sdynklicho getan hatte, Goodwins Verbleib feststellen zu
-Ästen.
+Erdenkliche getan hatte, Goodwins Verbleib feststellen zu
+lassen.
 
 Und dann waren natürlich auch wir beide mit von der
 Partie, frühstückten jetzt gleichfalls und unterhielten uns mit
@@ -1346,9 +1351,8 @@ an Bord des Zerstörers ausgeschaltet worden, nachdem
 der ehemalige Marineflieger Gerd uns das mitgeteilt gehabt
 hatte, was er über seine Beziehungen zu dem »Klub«
 hatte angeben können. Es war wenig genug gewesen und
-]Aste die dunkle Angelegenheit anscheinend in Nichts gen
-
-Art …
+hatte die dunkle Angelegenheit anscheinend in Nichts geklärt
+…
 
 Ich möchte dieses Wenige hier sofort nachholen, da der
 weitere Verlauf der Dinge mir hierzu kaum Gelegenheit
@@ -1363,74 +1367,74 @@ tätig war, und dies lag etwa sieben Monate zurück,
 machte sich ein dunkelhäutiger Herr an ihn heran, der
 ein größeres Wasserflugzeug kaufen wollte. Der Araber hieß
 Abu Said und besaß in Berlin ein kleines Zigarrengeschäft,
-nebenher war er mit im Verstand des Orpheum-Klubs und
+nebenher war er mit im Vorstand des Orpheum-Klubs und
 alles in allem eine sehr mysteriöse Persönlichkeit.
 
 Er sagte Lockstätten eine gute Provision zu, falls dieser
-Los Flugzeug auf seinen Namen erwürbe, und Gerd fiel
-betraf herein, obwohl ihm schon des Asiaten Erklärung, er,
-selbst handele nur als Vermissten ihm unbekannter Auftraggeber,
-hätte stutzig machen müssen. Jedenfalls mußte Koketten,
+das Flugzeug auf seinen Namen erwürbe, und Gerd fiel
+darauf herein, obwohl ihm schon des Asiaten Erklärung, er
+selbst handele nur als Vermittler ihm unbekannter Auftraggeber,
+hätte stutzig machen müssen. Jedenfalls mußte Lockstätten,
 um das Flugzeug abliefern zu können, einige gesetzliche
 Vorschriften umgehen, und fortan hatte der Araber ihn
 in den Krallen, spielte jedoch weiter den wohlmeinenden Freund
-und brachte zum Hilde im Klub als Sekretärin unter, die
+und brachte auch Hilde im Klub als Sekretärin unter, die
 Geschwister argwöhnten zu spät, daß sie immer tiefer in gefährliche
-Netze verstrich würden, — — ein Zurück gab es
-nicht mehr, Abu Hain Blick daß?!, daß er selbst nur immer
-aus Befehl eines ihm Unbekannten dessen Anordnungen Weiterreise,
+Netze verstrickt würden, — — ein Zurück gab es
+nicht mehr, Abu Said blieb dabei, daß er selbst nur immer
+auf Befehl eines ihm Unbekannten dessen Anordnungen weiterleite,
 — — kurz, es kam Soweit, daß man über die Geschwister
 restlose Gewalt bekam, daß man Gerd befahl, den
-Sultan zu ermorden, und daß Lagerstätten sich nur durch die
-Steinbelag Befolgung dieser unerhörten Zumutung aus der
-gefuahrlichen Klemme herauswinden konnte. — Was nun das
-Geheimtelefon in dem abermaligen Atelier anbetraf, sie war
+Sultan zu ermorden, und daß Lockstätten sich nur durch die
+scheinbare Befolgung dieser unerhörten Zumutung aus der
+gefährlichen Klemme herauswinden konnte. — Was nun das
+Geheimtelefon in dem ehemaligen Atelier anbetraf, so war
 Harsts Vermutung, wir sollten nur die Flucht Abu Saids
-und des zweiten Arabers, die Ei? Wendeltreppe emporgekommen
+und des zweiten Arabers, die die Wendeltreppe emporgekommen
 waren, nicht sofort zu verhindern suchen, wohl nur zur
 Hälfte zutreffend gewesen, denn gerade über diesen Punkt
-hatte Harald währen? unserer Eilfahrt im Auto zur volsteinischen
-Küste mir gegenüber eine Andeukfung gemacht, die
-fuhr unsre unverständlichen blieb, als doch zweifellos Hilde
+hatte Harald während unserer Eilfahrt im Auto zur holsteinischen
+Küste mir gegenüber eine Andeutung gemacht, die
+mir umso unverständlicher blieb, als doch zweifellos Hilde
 Lockstätten auf ein Signal hin das Atelier aufgesucht hatte.
 <@pagebreak/>
 Wie gesagt, diese Einzelheit war bisher so gut wie unberührt
-geblieben, und ich hätte hier nur noch nachzuholen, daß Herrn
-Goodwin von den braunen Kerlen nur deshalb so brutal Erfolgen
+geblieben, und ich hätte hier nur noch nachzuholen, daß Harry
+Goodwin von den braunen Kerlen nur deshalb so brutal geschlagen
 und nachher nackt in den Schnee gelegt worden war,
 damit er verriete, wo die Juwelen des Sultans geblieben
-seien, — mithin hatte der Verstand dieses famosen Klubs
+seien, — mithin hatte der Vorstand dieses famosen Klubs
 (die Kerle waren übrigens sämtlich spurlos verduftet) genau
-derselben Argwohn gehegt wie Harst: Daß überhaupt kein
+denselben Argwohn gehegt wie Harst: Daß überhaupt kein
 Einbruch vorläge. —
 
-Nach diesen notwendigen Ergänzungen bitte ich den gen
-
-neigtet Leser, sich wieder im Geiste in unser Beduinenlager
-im Dschebel Bewahrt (so hieß. der öde Gebirgszug) zurückzuversetzen
+Nach diesen notwendigen Ergänzungen bitte ich den ge-
+neigten Leser, sich wieder im Geiste in unser Beduinenlager
+im Dschebel Hamakri (so hieß der öde Gebirgszug) zurückzuversetzen
 und sich das Gesamtbild nach dahin zu ergänzen,
 daß wir alle echte Eingeborenentracht trugen, und daß ein
 zufällig in die Nähe geratener Untertan seiner Hoheit Sultan
 Omars bestimmt geglaubt hätte, sogenannte »wilde« Beduinen
-aus dem schmalen vor sich zu haben, und dies war auch von
+aus dem Inneren vor sich zu haben, und dies war auch von
 vornherein unsere Absicht gewesen, denn die Bewohner von
 Makaresch haben vor diesen »Wilden« eine wohlbegründete
 schlotternde Angst. Kein Wunder: Noch heute halten die freien
-Beduinen es für ihr gutes Recht, jede Karawane zu plütderiu
-und ein so glückseliges Räuberleben zu führen, wie es’ in
+Beduinen es für ihr gutes Recht, jede Karawane zu plündern
+und ein so glückseliges Räuberleben zu führen, wie es in
 keinem anderen Weltwinkel mehr der Fall sein dürfte.
-…  Ach hatte mein Frühstück beendet, Harst winkte mir verstohlen
+
+Ich hatte mein Frühstück beendet, Harst winkte mir verstohlen
 zu, und unter dem Vorwand, er wolle mit mir nur
 den Platz auswählen, wo wir tagsüber am günstigsten eine
 Wache aufstellen könnten, kletterten wir den nordwestlichsten
 Abhang empor und erreichten eine steinige Bergspitze, von
-Euer aus wir mit den Ferngläsern die etwa zehn Meilen entfernte
-Hauptstadt des Sultans unweit der Meeresküst? wi?
+der aus wir mit den Ferngläsern die etwa zehn Meilen entfernte
+Hauptstadt des Sultans unweit der Meeresküste wie
 winzige Spielzeugbauten zu erkennen vermochten.
 
-Wir wußten nun bereits, daß gerade die Stadt Makaresch)
-zahllose jener seltsamen Nachdenken besitzt, die kein Unkundiger
-in einem sie kleinen abgelegenen Araberreiche vermuten
+Wir wußten nun bereits, daß gerade die Stadt Makaresch
+zahllose jener seltsamen Hochbauten besitzt, die kein Unkundiger
+in einem so kleinen abgelegenen Araberreiche vermuten
 wird. Es handelt sich dabei tatsächlich um Wolkenkratzer
 <@pagebreak/>
 bis zu zwölf Stockwerken, und das Wenige, was bisher
@@ -1441,83 +1445,86 @@ Oberinspektor Goodwin ergänzen können.
 Es wird jedem einleuchten, daß nicht etwa Platzmangel
 (wie in Newyork) diese Ungetüme hatte hochschießen lassen.
 Nein, die Ursache, weshalb diese Wolkenkratzer aufgeführt
-wurden, ist eine ganz andere. Am trefflichsten konnte man
+wurden, ist eine ganz andere. Am trefflichsten könnte man
 sie als Familienfestungen bezeichnen, und die geschichtliche Entwicklung
 dieser kleinen südarabischen Räuberstaaten macht
 derartige Familienfestungen genau so verständlich wie die überaus
 blutigen Thronfolgerfehden. Jedenfalls erkannte ich selbst
 auf diese weite Entfernung durch das Glas, daß die Wolkenkratzer
-zumeist einzeln standen und daß zwischen. ihnen sich die
+zumeist einzeln standen und daß zwischen ihnen sich die
 eigentlichen »Straßen« hinzogen, umsäumt von kläglichen
 Hütten und Lehmbuden, — — nur die klare morgendliche
 Wüstenluft brachte uns das Gemälde der »verbotenen« Stadt
 Marakesch so nahe …
 
-Harald beäugte jetzt den Meeregstrand und unsere nähere
+Harald beäugte jetzt den Meeresstrand und unsere nähere
 Umgebung. Die gelbgraue Wüste lag völlig verlassen da,
 und nur ein einsamer Küstensegler tauchte soeben hinter den
 Dünen der Halbinsel einer langen Lagune auf, an deren Innenstrand
 sich eine spärliche Vegetation entwickelt hatte. Es
 war ein plumper arabischer Frachtkahn mit zwei Masten und
-zwei Spitze zulaufenden lateinischen Segeln, — mit dem Fernglas
+zwei spitz zulaufenden lateinischen Segeln, — mit dem Fernglas
 erkannte ich Sogar die Leute an Deck, und doch mußte
 mich erst Harald auf etwas aufmerksam machen, das allerdings
 sehr zu denken gab.
+
 Er sagte plötzlich: »Ducke dich gefälligst, mein Alter,
-denn der alte Rattenkasten dort wird sicherlich oberfaule
-Fernrohre an Bord haben, wie wir sie besten, denn der blanke
+denn der alte Rattenkasten dort wird sicherlich ebensogute
+Fernrohre an Bord haben, wie wir sie besitzen, denn der blanke
 Strich zwischen den Masten gibt zu denken.«
 
-oh schaute schärfer hin. »Eine Antennenanlagel!l«, entfuhr
-es mir. »Brief blanke Drähte und eine Ableitung nach
+Ich schaute schärfer hin. »Eine Antennenanlage!!«, entfuhr
+es mir. »Vier blanke Drähte und eine Ableitung nach
 der Heckkajüte!«
 
 <@pagebreak/>
-»Allerdings, — — äußerst verdächtigt Wenn der Kahn
+»Allerdings, — — äußerst verdächtig! Wenn der Kahn
 in die Bucht hineinsteuert, in der wir gestern landeten, dürfte
 die Geschichte brenzlich werden. Warten wir ab …«
 
 Der Segler steuerte jetzt scharf nach Osten, verschwand
-
 abermals hinter gelben hohen Dünen und tauchte nach etwa
-zol)xxckMinut2n wieder auf, segelte jetzt jedoch nach Makaresch
+zehn Minuten wieder auf, segelte jetzt jedoch nach Makaresch
 zurück.
+
 »Gefällt mir gar nicht!«, meinte Harst mißtrauisch. »Wo
-Harriet Prill ihre tadellos manikürten Händchen zum Hinführen
-eines So farbenfrohen Giftpuddings vergißt, muß man
+Harriet Prill ihre tadellos manikürten Händchen zum Einrühren
+eines so farbenfrohen Giftpuddings hergibt, muß man
 mit heimtückischen Anwendungen allermodernster technischer
-Errungenschaften rechnen. Ihre. Sehr enge Verbindung mit
+Errungenschaften rechnen. Ihre sehr enge Verbindung mit
 dem famosen Klub und den Leuten der Todessekte ist ja durch
 den Ankauf des Wasserflugzeugs erwiesen, was ich hiermit
-nochmals betonen mochte. Wenn nun hier in diesem gottverlassenen
+nochmals betonen möchte. Wenn nun hier in diesem gottverlassenen
 Weltwinkel Sogar ein so schäbiger Araberkahn
 mit einer Antennenanlage herumschnüffelt, dann muß der Segler
-auch einen kleinen Sender außer dem Empfangen an Bord
+auch einen kleinen Sender außer dem Empfänger an Bord
 haben, und dann muß auch irgendwo ein zweiter Sender und
 Empfänger hier im Gebiet von Makaresch arbeiten. Weißt
-du, was ich fürchte? Die Fgunkdepeschen, die Sir Arthur Oxford,
+du, was ich fürchte? Die Funkdepeschen, die Sir Arthur Oxford,
 Kommandant des Trafalgar und Bruder des ermordeten
-und einbalsamierten William von der Bucht drüben vermochte
-nach Aden schickte, sind abgefangen worden. Gewiß,
+und einbalsamierten William von der Bucht drüben noch
+nachts nach Aden schickte, sind abgefangen worden. Gewiß,
 sie waren chiffriert, aber wenn die braunen Kerle hier an
-ihren Empfängern aufgepaßt haben, Mister sie gemerkt haben,
-daß die Morsezeichen aus nächster Ruhe kamen. Vielleicht
-Furcht der Segler deshalb hier die Küste ab, denn suchen tun die
+ihren Empfängern aufgepaßt haben, müssen sie gemerkt haben,
+daß die Morsezeichen aus nächster Nähe kamen. Vielleicht
+sucht der Segler deshalb hier die Küste ab, denn suchen tun die
 Burschen, zum Spazierenfahren sind sie viel zu faul. — —
-Hallo, da haben wir 25 …«
+Hallo, da haben wir es …«
 
-Hinter denselben Dünen, die drin« Segler zuletzt weiteres
-hatten, war ein einzelner Eselreiter erschienen. Neben den
-Sattel baumelten zwei Körbe, — näher?!s zu erkennen, war
+Hinter denselben Dünen, die den Segler zuletzt verdeckt
+hatten, war ein einzelner Eselreiter erschienen. Neben dem
+Sattel baumelten zwei Körbe, — näheres zu erkennen, war
 unmöglich, dazu war die Entfernung zu groß. Der Kerl bog
 jetzt nach Osten ab und wollte zweifellos nach der Bucht, wo
 <@pagebreak/>
 wir die Spuren der Landung zwar ausgetilgt hatten, aber
 kaum in genügendem Maße. Es war ja nachts geschehen.
+
 Harst kroch rückwärts. »Den müssen wir haben, mein
 Alter …! Der Bursche soll Blut schwitzen. Wir reiten ihm
-von Osten entgegen … Bitte etwas flinkere … Die Geschichte
+von Osten entgegen … Bitte etwas flinker … Die Geschichte
 beginnt mir Freude zu machen!«
+
 Bei etwa fünfunddreißig Grad Hitze morgens gegen acht
 Uhr ist eine derartige Freude mit reichlich viel Schwitzen verbunden
 …
@@ -1525,7 +1532,7 @@ Uhr ist eine derartige Freude mit reichlich viel Schwitzen verbunden
 <@pagebreak/>
 
 <h2>2. Kapitel.</h2>
-<h3>Der technische Betrug der Übte …</h3>
+<h3>Der technische Beirat der Sekte.</h3>
 
 Unten am Lagerplatz jagten wir den. Freunden kurz Bescheid.
 Unsere vorzüglichen Reitdromedare waren im Nu gesattelt,
@@ -1787,7 +1794,7 @@ Sultan kam sie an den unrechten, sie hatte sich als vornehme
 Lady an ihn herangemacht, doch der Schlag mißlang, und
 Deine Hoheit drehte den Spieß gleichsam um und nahm Harriet
 als seine Geliebte mit hierher, er hatte trotz allem Feuer
-gefangen, und Harriet befahl mir und Cdu Black, auch ein …
+gefangen, und Harriet befahl mir und Edu Black, auch ein …
 Techniker, sie zu begleiten. Wir mimten ihren Sekretär und
 Chauffeur — — bestellt! Denn als sie nach fünf Monaten
 das Wanzennest Makaresch und den etwas sehr eifersüchtigen
@@ -1849,7 +1856,7 @@ und verschreibe mich Ihnen mit Haut und Haar.«
 
 »So glaube Ihnen.« Harald nahm eine neue Zigarette.
 »Gäbe es eine Möglichkeit, nachts ungesehen in Ihr Haus
-zu gelangen? Wie würde sich Cdu zu uns stellen? Können
+zu gelangen? Wie würde sich Edu zu uns stellen? Können
 Sie mir die Lage des Wolkenkratzers und Ihres Heims nebst
 <@pagebreak/>
 Umgebung auf Papier skizzieren? Wem meldeten Sie, daß
@@ -1876,7 +1883,7 @@ ganzen Bande kennen wir ja nur Abu Said, Ali Akbar und
 ein paar noch untergeordnetere Kreaturen, die noch weniger
 müssen, wie zum Beispiel die Besatzung des Seglers mit der
 )uukomrscl)tung Ich bin mir auch ganz klar danken, das ich
-und Cdu jeden Moment ermordet werden können, falls die
+und Edu jeden Moment ermordet werden können, falls die
 Bande Verdacht schöpft. Anderseits brauchen sie uns, weiß
 wir auf technischem Gebiet So ziemlich alles verstehen, so fand
 ich gestern einen Zettel in der Kaffeemühle in unserer Lehmsbüde
@@ -1957,7 +1964,7 @@ Fischfang kamen. Wir schlüpften in finstere Torwegs, wurden
 nicht bemerkt. Dann lag jener Wolkenkratzer vor uns, den
 Geffries uns so genau bezeichnet hatte, dann tat sich die Tür
 eines Lehmhäuschens auf, und im Dunkeln stand ein Mann,
-der uns eilends hineinzog: Cdu Black, dem Geffries uns angemeldet
+der uns eilends hineinzog: Edu Black, dem Geffries uns angemeldet
 hatte.
 
 Die Mr fiel zu … Wir waren in Makaresch, aber
@@ -1986,7 +1993,7 @@ Felsblockes heraus, — eine nur dünne Platte mit zahllosen
 Löcherchen und zwei Holzstützen. In dem sie freigegebenen
 Solche stand ein ganz modernes Mikrofon …
 
-Cdu Black flog vor Aufregung pfeifend die Luft ein.
+Edu Black flog vor Aufregung pfeifend die Luft ein.
 Er war sehr bleich geworden. Er war ja selbst Techniker
 und wußte, daß all; seine Gespräche mit Beispiel belauscht
 worden waren, …«
