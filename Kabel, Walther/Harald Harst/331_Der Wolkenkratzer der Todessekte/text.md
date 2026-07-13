@@ -1408,8 +1408,8 @@ seien, — mithin hatte der Vorstand dieses famosen Klubs
 denselben Argwohn gehegt wie Harst: Daß überhaupt kein
 Einbruch vorläge. —
 
-Nach diesen notwendigen Ergänzungen bitte ich den ge-
-neigten Leser, sich wieder im Geiste in unser Beduinenlager
+Nach diesen notwendigen Ergänzungen bitte ich den geneigten
+Leser, sich wieder im Geiste in unser Beduinenlager
 im Dschebel Hamakri (so hieß der öde Gebirgszug) zurückzuversetzen
 und sich das Gesamtbild nach dahin zu ergänzen,
 daß wir alle echte Eingeborenentracht trugen, und daß ein
@@ -1534,7 +1534,7 @@ Uhr ist eine derartige Freude mit reichlich viel Schwitzen verbunden
 <h2>2. Kapitel.</h2>
 <h3>Der technische Beirat der Sekte.</h3>
 
-Unten am Lagerplatz jagten wir den. Freunden kurz Bescheid.
+Unten am Lagerplatz sagten wir den Freunden kurz Bescheid.
 Unsere vorzüglichen Reitdromedare waren im Nu gesattelt,
 noch schneller waren wir im nächsten Quertal, und
 dann trabten wir in schärfster Gangart ein steiniges Regental
@@ -1544,69 +1544,70 @@ westlichen Buchtwinkel, wo ebenfalls eine spärliche Vegetation
 vorhanden war, ließen die Tiere niederknien und schlichen
 eine Düne empor: Der Eselreiter war keine fünfzig Meter
 entfernt und näherte sich in behaglichem Schritt. Der Bursche
-trug Eingeborenentracht, dazu ein ebenso jschhmieriges Kopftuch
+trug Eingeborenentracht, dazu ein ebenso schmieriges Kopftuch
 mit Nackenzipfel und war mit einer doppelläufigen ehrwürdigen
-Flinte bewaffnet. Aber ein- Araber war das niemals,
-dazu war er zu klein, zu dick und hatte zu setzte Hängebacken
+Flinte bewaffnet. Aber ein Araber war das niemals,
+dazu war er zu klein, zu dick und hatte zu fette Hängebacken
 und einen zu martialischen Schnurrbart.
 
-»Ein Gürtel«, riet ich.
+»Ein Türke!«, riet ich.
 
 »Ein Europäer!«, verbesserte Harst sichtlich erstaunt und
 zog mich rückwärts.«
 
 Gleich darauf hielt der feiste Kerl gegen seinen Willen
-in dem dünnen Gehüllt seinen Esel an und betrachtete uns
-mit verängstigten Augen, ließ einen enthalten Wortschwall vom
+in dem dünnen Gehölz seinen Esel an und betrachtete uns
+mit verängstigten Augen, ließ einen endlosen Wortschwall vom
 Stapel, von dem wir nichts verstanden, bis Harald mit sehr
 unangenehmer Betonung dazwischenfuhr: »Lassen Sie die
 <@pagebreak/>
-Mätzchen! Wir sind im Bilde. Runter von Führen Garantiert«
+Mätzchen! Wir sind im Bilde. Runter von Ihrem Grautier!«
 
 Der Dicke gehorchte angstschlotternd.
 
-Als er nun in Seiner fetten Zwerghaftigkeit Sozusagen
+Als er nun in seiner fetten Zwerghaftigkeit sozusagen
 einen Kniefall tat, sagte Harst — wieder in englischer Sprache
-— noch eisiger: »ziehen Sie auf! Was treiben Sie hier?
+— noch eisiger: »Stehen Sie auf! Was treiben Sie hier?
 Wer sind Sie?«
 
 Der Feiste hatte eine heisere Piepsstimme, die genau so
-Schenktisch war wie seine pockennarbige Fraße mit der eingedrückten
+scheußlich war wie seine pockennarbige Fratze mit der eingedrückten
 Nase und den heimtückisch-heuchlerischen hellen
 Fischaugen.
 
-»ach bin … ein Gefangener, Gentlemen«, erklärte er
-weinerlich. »Zeit Jahren hält man mich hier fest, und …«
-»oho Name?! — Lügen Sie nicht …! ich warne Sie …
+»Ich bin … ein Gefangener, Gentlemen«, erklärte er
+weinerlich. »Seit Jahren hält man mich hier fest, und …«
 
-»Ton Geffries …«
+»Ihr Name?! — Lügen Sie nicht …! Ich warne Sie …!
+
+»Tom Jeffries …«
 
 »Amerikaner?«
 
-» …«
+»Ja …«
 
 »Beruf?«
 
 »Händler …«
 
-»Schwindel!«, donnerte Harst ihn an. »Ihre Körbe Sind
-ziemlich löcherig,:sein Lieber, und in den Körben liegen
-Drahtrollen, Trockenelemente und ein Telephonapparat, —
-Sie mal«, weiche er sich mir zu. »Es wird wohl stimmen
+»Schwindel!!«, donnerte Harst ihn an. »Ihre Körbe Sind
+ziemlich löcherig, mein Lieber, und in den Körben liegen
+Drahtrollen, Trockenelemente und ein Telephonapparat. —
+Sieh’ mal«, wandte er sich mir zu. »Es wird wohl stimmen
 …«
 
-Es stxmmsy haargenau: Vier dick? Rollen isolierter Finger
-Doppelte — — und alles Übrige!
+Es stimmte haargenau: Vier dicke Rollen isolierter dünner
+Doppellitze — — und alles Übrige!
 
 Harald musterte den Burschen noch schärfer. »Mister
-Geffries, ich will Dünen mal etwas Jagen — so in aller Güte
-vorläufig! — — Vorläufigl!l — Es gab da mal in Newyork
-eine Sogenannte Unterweltskönigin, die nachher den Freifahrschein,
-auf Geistige Mlinderwertigkeit lautend, auch in
-Berlin ausnutzte, Kennen Sie Harriet Prill? — Von Sie
+Jeffries, ich will Ihnen mal etwas sagen — so in aller Güte
+vorläufig! — — Vorläufig!! — Es gab da mal in Newyork
+eine sogenannte Unterweltskönigin, die nachher den Freifahrschein,
+auf Geistige Minderwertigkeit lautend, auch in
+Berlin ausnutzte. Kennen Sie Harriet Prill? — Wenn Sie
 lügen, sind Sie in wenigen Minuten Haifischfutter!«
 
-Mr. Ton seines schielte nach Harsts Pistole.
+Mr. Tom Jeffries schielte nach Harsts Pistole.
 
 Er druckste und druckste, dann … nickte er.
 
@@ -1614,49 +1615,49 @@ Er druckste und druckste, dann … nickte er.
 »Ich … ich habe von ihr gehört …«, stotterte er sehr
 diplomatisch.
 
-»Das glaube ich, — sogar steht viel gehört. Wo ist
-die Dame jetzt, Mr. Geffries? Schon in Makaresch? Lügen
-Sie nicht … l!!«
+»Das glaube ich, — sogar sehr viel gehört. Wo ist
+die Dame jetzt, Mr. Jeffries? Schon in Makaresch? Lügen
+Sie nicht …!!«
 
-»… Noch« nicht«, stammelte Geffries. »Sind Sie … sind
+»… Noch nicht«, stammelte Jeffries. »Sind Sie … sind
 Sie … Mr. Harst?«
 
-»Saal«
+»Ja!«
 
-— Der Geiste knickte etwas zusammen, schnappte nach Hast
+Der Feiste knickte etwas zusammen, schnappte nach Luft
 und wurde grüngelb im Gesicht. Dann riß er sich hoch.
 
-»o!… Ich will alles sagen, Mr. Harst, wenn man mich
+»Ich … ich will alles sagen, Mr. Harst, wenn man mich
 schont …«, beteuerte er weinerlich.
 
-»Nennen, — — hm?!l Falls Sie genug wissen und Ihr
+»Schonen, — — hm?! Falls Sie genug wissen und Ihr
 Gedächtnis Sie nicht im Stich läßt und Sie keinen Mord
 begangen haben, dann …«
 
 »Mord?! Ich?! Dazu bin ich viel zu schlau, Mr. Harst.
 Ich bin von Hause aus …«
 
-». Techniker, nachher Einbrecher und Mitglied der
+»… Techniker, nachher Einbrecher und Mitglied der
 Prill-Bande und der Todessekte …«
 
-Wiederum empörte sich r. Ton Geffries gegen diesen
+Wiederum empörte sich Mr. Tom Jeffries gegen diesen
 Verdacht. »Alles übrige ist richtig, Mr. Harst, aber zur
 Todessekte gehören nur Araber, ich bin lediglich … technischer
 Beirat sozusagen …«
 
 »Und von Harriet hierher beordert«, ergänzte Harst.
-»Sekt sollten Sie am Strande eine Leitung legen und Küstenwachtposten
-»spielen.«
+»Jetzt sollten Sie am Strande eine Leitung legen und Küstenwachtposten
+spielen.«
 
-»Ja …
+»Ja …«
 
 »Wo soll die Leitung beginnen? Ein Stück davon muß
 schon fertig sein, denn die Drahtrollen reichen schätzungsweise
 nur für zwei Meilen.«
 
-»Ganz recht …« Geffries taufe immer mehr auf. »Ach
+»Ganz recht …« Jeffries taute immer mehr auf. »Ich
 sollte die Leitung drüben an der felsigen Kuppe nach Westen
-zu Sir an die Anschlußstelle legen, wo bereits ein Posten aufpaßt
+zu bis an die Anschlußstelle legen, wo bereits ein Posten aufpaßt
 …«
 
 <@pagebreak/>
@@ -1667,35 +1668,33 @@ geworden«?«
 Erscheinen, Mr. Harst. Der Segler hat mich vorhin ausgebootet,
 ebenso genügend Lebensmittel und Trinkwasser, die
 ich vorläufig in den Dünen versteckt habe … — Mister Harst,
-ich gebe Ihnen eins zu bedenken: Plan wird mich vom Schiffe
+ich gebe Ihnen eins zu bedenken: Man wird mich vom Schiffe
 aus beobachten! Halten Sie mich hier nicht zu lange auf …
 Wenn ich Ihnen nun fernerhin ehrlich dienen soll, darf ich
-
 keinen Argwohn erregen.«
-»Da haben Sie recht … Reiten Sie also weiter. Ich:
 
-werde Sie im Zug? behalten, — — Sie verstehen wohl … ich!
+»Da haben Sie recht … Reiten Sie also weiter. Ich
+werde Sie im Auge behalten, — — Sie verstehen wohl …!!
 Wenn Sie uns wirklich ehrlich dienen, wird es Ihr Schade
-nicht Sein. Also vorwärts, — — nachher werde ich mich
-
+nicht sein. Also vorwärts, — — nachher werde ich mich
 bei Ihnen dort auf der Kuppe einfinden …«
 
-Geffries beteuerte nochmals, daß er sich nun völlig auf
-unsere Seite gestiegen habe. Dann ritt er davon, und wir
+Jeffries beteuerte nochmals, daß er sich nun völlig auf
+unsere Seite geschlagen habe. Dann ritt er davon, und wir
 kehrten zum Lager zurück, wo unser Bericht besonders bei
-Oberinspektor Goodwin hellste Freude auslöste. »Ah — Ton
-Geffries!«, meinte Goodwin vergnügt. »Der grinste Geldschrankknacker
-Neuyorks und in seinem Dach eine Berühmtheit!
-Seit etwa drei Fahren ist er »abgängig«, und man
-glaubte, er sei mit seiner Kugel im Schädel den Hudson hinabgeschwommen
-…« …
+Oberinspektor Goodwin hellste Freude auslöste. »Ah — Tom
+Jeffries!«, meinte Goodwin vergnügt. »Der feinste Geldschrankknacker
+Neuyorks und in seinem Fach eine Berühmtheit!
+Seit etwa drei Jahren ist er »abgängig«, und man
+glaubte, er sei mit seiner Kugel im Schädel den Hudson
+hinabgeschwommen …«
 
 Harst hatte es eilig. »Goodwin, Sie beziehen jetzt dort
-oben, wo Tischrand und ich vorhin Ausschau hielten, Ihren
+oben, wo Schraut und ich vorhin Ausschau hielten, Ihren
 Beobachtungsstand. Lockstätten mag Sie begleiten. Auch
-für Sie, lieber Munk, gibt es Arbeit. Föhre Fähigkeiten
+für Sie, lieber Munk, gibt es Arbeit. Ihre Fähigkeiten
 kenne ich. Sie müssen mit Fräulein Hilde sofort drüben nach
-der Kuppe an der Bucht aufbrechen und Geffries überwachen
+der Kuppe an der Bucht aufbrechen und Jeffries überwachen
 …«
 
 »Gern, Sehr gern«, strahlte Peter Munk. »Fräulein
@@ -1704,45 +1703,44 @@ hüstelte, wurde verlegen, und Hilde — — wurde sehr rot.
 
 Harst erklärte schon weiter: »Schraut und ich haben die
 <@pagebreak/>
-kifslichste Aufgabe … Wir dürften Beispiel vorläufig nicht
+kitzlichste Aufgabe … Wir dürften Jeffries vorläufig nicht
 trauen, und wir werden uns daher dorthin schlängeln, wo
 sich das bisherige Ende der Telefonleitung befinden dürfte.
 Die Dromedare können wir dabei nicht brauchen. Auch
 nehmen wir Lebensmittel mit. Die Möglichkeit liegt vor,
-daß Beispiel etwa von der bisherigen Telefonstelle nach Makaresch
-eine Meldung durchgibt. — Bitte, — — Aufbruch!t
-Stehen kennt nun Seine Pflichten, und — — ich warne nochmals:
-Wir spielen hier mit unserem Leben!! Ei einziger
-Fehler, und wir haben die ganze Bande auf dem Haie, und
-dann rührt es uns gar nichts, das der Trafalgar ich nachts
+daß Jeffries etwa von der bisherigen Telefonstelle nach Makaresch
+eine Meldung durchgibt. — Bitte, — — Aufbruch!!
+Jeder kennt nun Seine Pflichten, und — — ich warne nochmals:
+Wir spielen hier mit unserem Leben!! Ein einziger
+Fehler, und wir haben die ganze Bande auf dem Halse, und
+dann nützt es uns gar nichts, das der Trafalgar sich nachts
 wieder in die Bucht hineinschleichen will, und daß wir die
 Blinkzeichen verabredet haben. — Also doppelte und dreifache
-Vorsicht!(«
+Vorsicht!!«
 
-— Um die Mittagszeit lagen Harst und ich zwei Meiler
+— Um die Mittagszeit lagen Harst und ich zwei Meilen
 nach Westen zu auf einer von fünf dürren alten Palmen und
 einem Haufen rötlichen Gesteins gekrönten Düne und hatten
 hier auch glücklich die geschickt zwischen den Felsen verborgene
 Telefonzentrale entdeckt, in der gleichfalls Wasserschläuche
-und Lebensmittel lagen. Ebenso näherte sich Geffries
-bereits dieser Düne, — wir verstellter uns, der »technische
+und Lebensmittel lagen. Ebenso näherte sich Jeffries
+bereits dieser Düne, — wir versteckten uns, der »technische
 Beirat« kam die Düne empor und entfernte die Steinplatten
 von dem Felsloch, wickelte den Draht weiter ab und kroch in
-die winzige Hohle hinein. Seinen Esel hatte er an eine der
+die winzige Höhle hinein. Seinen Esel hatte er an eine der
 Palmen gebunden. Wir pirschten uns ganz nahe heran, und
 wir hörten das Klirren seiner Werkzeuge und dann sehr bald
+seinen Anruf nach Makaresch: »Hallo, — — hier Jeffries …
+Alles in Ordnung!«
 
-seinen Anruf nach Makaresch: »Hallo, — — hier Geffries …
-Alles in Ordnung!!«
 Und abermals meldete er sich dann: »Nein, — nichts
-
-Verdächtiges … Ach reite nun zurück zur neuen Celekozstelle.
-— Schluß. — Halt — eine Frage: Treibt es bei der
-bisherigen Erkennungswort? Adern? — Gut — — als
-»Omar« … — Schluß!t«
+Verdächtiges … Ich reite nun zurück zur neuen Telefonstelle.
+— Schluß. — Halt — eine Frage: Bleibt es bei dem
+bisherigen Erkennungswort? Nein? — Gut — — also
+»Omar« … — Schluß!«
 
 Ohne irgend etwas von unserer Nähe zu ahnen, entfernte
-er sieht… —
+er sich. —
 
 <@pagebreak/>
 
@@ -1750,153 +1748,152 @@ er sieht… —
 <h3>Die Lehmhütte neben dem Wolkenkratzer.</h3>
 
 Abends zehn Uhr lösten Harst und ich das heimliche
-Drahtgaze auf der Kuppe ab. Daß Peter Munk und Hilde
-langst in Herzensangelegenheiten miteinander einig waren,
+Brautpaar auf der Kuppe ab. Daß Peter Munk und Hilde
+längst in Herzensangelegenheiten miteinander einig waren,
 mußte ein Blinder mit dem Stock fühlen. — Der tüchtige
-Munk hatte Geffries all die endlosen Stunden unbemerkt belauert
+Munk hatte Jeffries all die endlosen Stunden unbemerkt belauert
 und bestätigte, daß der Amerikaner auch von hier aus
-nur eine ganz kurze telefonische Meldung erstattet und komm’
-Seine Lebensmittel geholt hatte. Er beschrieb uns, wo droben …
-zwischen den Felsen sich Geffries eingenistet hatte, und wir verabschiedeten
-uns, kletterten die Kuppe empor und fanden den
-Leisten vor seinem Unterschlupf vor, eine Zigarre rauchend
+nur eine ganz kurze telefonische Meldung erstattet und dann
+Seine Lebensmittel geholt hatte. Er beschrieb uns, wo droben
+zwischen den Felsen sich Jeffries eingenistet hatte, und wir
+verabschiedeten uns, kletterten die Kuppe empor und fanden den
+Feisten vor seinem Unterschlupf vor, eine Zigarre rauchend
 und ein Fernglas neben sich. Unser Erscheinen erfreute ihn
-sichtbar, —: »5ch langweile mich hier, Gentlemen«, sagte er
-gutgelaunt. »Sehen Sie sich … Ach bin treu, ich habe Sie
+sichtbar, —: »Ich langweile mich hier, Gentlemen«, sagte er
+gutgelaunt. »Setzen Sie sich … Ich bin treu, ich habe Sie
 nicht verraten, und nun sollen Sie hören, was ich weiß.«
 
 Der Platz hier bot nach dem Meere und nach Makaresch
 zu gute Fernsicht. Die Nacht war hell, eine Überrumpelung
 wohl ausgeschlossen.
 
-Geffries, der jetzt fühlen mußte, daß wir ihm nicht Moor
+Jeffries, der jetzt fühlen mußte, daß wir ihm nicht mehr
 mißtrauten, zeigte sich jetzt von einer ganz anderen Seite. Er
-besagte einen recht trockenen Witz, und als Harst einstreute,
+besaß einen recht trockenen Witz, und als Harst einstreute,
 daß wir ihn nicht eine Sekunde unbeobachtet gelassen hätten,
-grinste er und Jagte nur: »Das wußte ich … Glauben Sie,
-ich bin blind?! Sie beide waren drüben, wo ich die Verbinduinqg
+grinste er und sagte nur: »Das wußte ich … Glauben Sie,
+ich bin blind?! Sie beide waren drüben, wo ich die Verbindung
 <@pagebreak/>
 herstellte, und hier bewachten mich ein Mann und ein
 Mädchen, — — alles überflüssig, denn ich habe die Geschichte
-hier Satt, ich will doch nicht mein ganzes Leben in einer verwanzten
+hier satt, ich will doch nicht mein ganzes Leben in einer verwanzten
 Lehmbude zwischen dreckigen Arabern hausen! Nein,
-ich wäre ja längst von hier ausgekniffen, aber — — kreisen
-Sie mal hier aus, Kunststücklil — Und nun hören Sie … —
+ich wäre ja längst von hier ausgekniffen, aber — — kneifen
+Sie mal hier aus, Kunststück!! — Und nun hören Sie … —
 Vor drei Jahren spielte Harriet Prill in unseren Breiten in
-Newyork die erste Stöße. Dann besuchte der Sultan Omar,
-ein dann nach seiner sogenannten Thronbesteigung war es, —
-man Sollte das richftiger Massenmord nennen, denn es soll
+Newyork die erste Flöte. Dann besuchte der Sultan Omar,
+ein Jahr nach seiner sogenannten Thronbesteigung war es, —
+man Sollte das richtiger Massenmord nennen, denn es soll
 dabei verdammt blutig zugegangen sein, Newyork zwecks Verkauf
 eines Teiles der sogenannten Kronjuwelen … Harriet
-hat ja stets für gute Geschäfte einen seinen Riecher gehabt,
+hat ja stets für gute Geschäfte einen feinen Riecher gehabt,
 und zumeist auch eine sehr glückliche Hand, aber bei dem
 Sultan kam sie an den unrechten, sie hatte sich als vornehme
 Lady an ihn herangemacht, doch der Schlag mißlang, und
-Deine Hoheit drehte den Spieß gleichsam um und nahm Harriet
+Seine Hoheit drehte den Spieß gleichsam um und nahm Harriet
 als seine Geliebte mit hierher, er hatte trotz allem Feuer
 gefangen, und Harriet befahl mir und Edu Black, auch ein …
 Techniker, sie zu begleiten. Wir mimten ihren Sekretär und
-Chauffeur — — bestellt! Denn als sie nach fünf Monaten
+Chauffeur — — leider!! Denn als sie nach fünf Monaten
 das Wanzennest Makaresch und den etwas sehr eifersüchtigen
 Fürsten und die Hitze und die Langeweile hier satt hatte, verduftete
-sie. Inzwischen hatten sicher meinen Freund Edu und
-mich bereits ein paar braune Halsabichnider von der Sekte
-herangemacht, und …« …
+sie. Inzwischen hatten sich an meinen Freund Edu und
+mich bereits ein paar braune Halsabschneider von der Sekte
+herangemacht, und …«
 
-Bisher hatte Harald den Ausräumen nicht unterbrochet.
-Bett tat er es, »Stopp, Geffries … Waren Abu Said und
+Bisher hatte Harald den Amerikaner nicht unterbrochen.
+Jetzt tat er es. »Stopp, Jeffries … Waren Abu Said und
 ein gewisser Ali Akbar dabei?«
 
-»Freilich, — aber Ruck dir haben, in der Todessekte nicht
-viel zu sagen, deren Oberhaupt Verbannt. niemand kennt …
+»Freilich, — aber auch die haben in der Todessekte nicht
+viel zu sagen, deren Oberhaupt überhaupt niemand kennt …
 Alle Befehle gehen von einer unbekanntem Stelle aus, und …«
 
 Harald hüstelte kräftig. »Vielleicht ist die »Stelle« doch
-nicht So ganz unbekannt …«, war? er gleichmütig ein. »Wie
+nicht So ganz unbekannt …«, warf er gleichmütig ein. »Wie
 kam Harriet in diesen Kreis der Todfeinde des Sultans?!«
 
 <@pagebreak/>
 »Durch Edu und mich … Sie haßte den Fürsten, und
-nur die Mitglieder der holt? ermöglichten ihr das Entkommen.
+nur die Mitglieder der Sekte ermöglichten ihr das Entkommen.
 Uns ließ sie im Stich, vielleicht durfte sie uns auch nicht
 mitnehmen. Vor drei Tagen nun erhielten wir Nachricht aus
+Aden, daß …«
 
-Aden, daß…
-»Zunl(depyjck)o«…«
+»Funkdepesche …«
+
 »ja — aus Aden von unserem Schoner aus, daß dort
-
 ein englischer Zerstörer ankere, der verdächtig sei, und …«
 
-»Danke, Geffries. — Hat die Sekte in: Makaresch Gelber
+»Danke, Jeffries. — Hat die Sekte in Makaresch selbst
 ihr Hauptquartier? Wo wohnen Sie und Edu dort?«
 
-»Hauptquartier?!« Der setzte Ton hob die Schultern.
+»Hauptquartier?!« Der fette Tom hob die Schultern.
 »Keine Ahnung, Mr. Harst! Wirklich nicht. Seit Abu Said
 und Ali Akbar vor anderthalb Jahren aus Makaresch nach
 Europa abgedampft sind, finden wir alle Befehle schriftlich
 in unserer Lehmbude vor, die am Fuße eines der mehr abseits
 stehenden Wolkenkratzer wie ein Schwalbennest angeklebt
 ist — ein schäbiges Loch für zwei Europäer, sage ich
-Ihnen! Die Befehle sind in englischer Sprache getippt, -,
+Ihnen! Die Befehle sind in englischer Sprache getippt, —
 früher, als Said noch da war, gab es eine Telefonverbindung
 nach irgendwohin, aber unser Telefon meldet sich jetzt
 nur noch ganz selten bei dringenden Fällen …«
 
-Harst blickte Beispiel forschend an. — »Zu den dringenden
+Harst blickte Jeffries forschend an. — »Zu den dringenden
 Fällen gehörte wohl auch die Ermordung der vier Engländer,
 — was wissen Sie darüber?!«
 
-Es sei zu Geffries« Ehre betont, daß er nicht im geringsten
+Es sei zu Jeffries’ Ehre betont, daß er nicht im geringsten
 verlegen wurde. »Davon hörten Abu und ich erst durch
 Zeitungen, die sich zufällig hierher verirrt hatten. Wir haben
 die vier Detektive nie gesehen, Mr. Harst. Wir sind ja hier
 nur Handlanger, wir müssen gehorchen, oder besser: Wir
-mußten gehorchen! Ach habe die Zacs)e jetzt gründlich ja!!
+mußten gehorchen! Ich habe die Sache jetzt gründlich satt
 und verschreibe mich Ihnen mit Haut und Haar.«
 
-»So glaube Ihnen.« Harald nahm eine neue Zigarette.
+»Ich glaube Ihnen.« Harald nahm eine neue Zigarette.
 »Gäbe es eine Möglichkeit, nachts ungesehen in Ihr Haus
 zu gelangen? Wie würde sich Edu zu uns stellen? Können
 Sie mir die Lage des Wolkenkratzers und Ihres Heims nebst
 <@pagebreak/>
 Umgebung auf Papier skizzieren? Wem meldeten Sie, daß
-die Verlängerung der Celojonlmtunq fertig Je!!«
+die Verlängerung der Telefonleitung fertig sei?«
 
-Geffries trabte sich bedenklich das Genick. »Wenn Sie
-ehe Leben riskieren, Mr. Harst, — unsere Lehmbude wäre
-vielleicht zu grrmck)xm und die Skizze kann ich Ihnen ebenfalls
-anfertigen Edu denkt genau wie ich: Auskneifen!! Die
-Meldungen gingen an ihn, und er hat sie telefonisch wmtmgegeben
-— durch den zweiten Apparat in unserer Bude, so
-dem wir nicht wissen, wer am anderen Ende der -Ztmppo’
+Jeffries kratzte sich bedenklich das Genick. »Wenn Sie
+Ihr Leben riskieren, Mr. Harst, — unsere Lehmbude wäre
+vielleicht zu erreichen, und die Skizze kann ich Ihnen ebenfalls
+anfertigen. Edu denkt genau wie ich: Auskneifen!! Die
+Meldungen gingen an ihn, und er hat sie telefonisch weitergegeben
+— durch den zweiten Apparat in unserer Bude, von
+dem wir nicht wissen, wer am anderen Ende der Strippe
 hängt … Nein, das haben wir nie feststellen können, die
-Stimme die sich) meldete, klang stets nach einer verstellten
-
+Stimme die sich meldete, klang stets nach einer verstellten
 Weiberstimme … — Wollen Sie sich wirklich nach Makaresch
 hineinwagen?«
-»öa — — später … — Noch ein letztes, Geffries: Wird
 
+»Ja — — später … — Noch ein letztes, Jeffries: Wird
 man Sie hier kontrollieren?!«
 
-»Bestimmt! Aber natürlich unauffällig, denn vorn der
+»Bestimmt! Aber natürlich unauffällig, denn von der
 ganzen Bande kennen wir ja nur Abu Said, Ali Akbar und
 ein paar noch untergeordnetere Kreaturen, die noch weniger
-müssen, wie zum Beispiel die Besatzung des Seglers mit der
-)uukomrscl)tung Ich bin mir auch ganz klar danken, das ich
+wissen, wie zum Beispiel die Besatzung des Seglers mit der
+Funkeinrichtung. Ich bin mir auch ganz klar darüber, daß ich
 und Edu jeden Moment ermordet werden können, falls die
-Bande Verdacht schöpft. Anderseits brauchen sie uns, weiß
+Bande Verdacht schöpft. Anderseits brauchen sie uns, weil
 wir auf technischem Gebiet So ziemlich alles verstehen, so fand
-ich gestern einen Zettel in der Kaffeemühle in unserer Lehmsbüde
-— die Kaffeemühle ist das vereinbarte oder besser befallene
+ich gestern einen Zettel in der Kaffeemühle in unserer Lehmbude
+— die Kaffeemühle ist das vereinbarte oder besser befohlene
 Versteck — daß wir wahrscheinlich sehr bald ein
 Flugzeug reparieren müßten … Wir hatten telefonisch angegeben,
-was für Zaudwor!xc eng wir dazu brauchten. Na,
-die braunen Faulenzer in Makaresch werden schöne Angeht
-sml()xr])céxZ wenn sie zum ersten Male solch einen Riesenvoge!l
-elend
+was für Handwerkszeug wir dazu brauchten. Na,
+die braunen Faulenzer in Makaresch werden schöne Augen
+machen, wenn sie zum ersten Male solch einen Riesenvogel
+sehen!«
 
-Harsts Kopf war herumgefahren. »Flugzeug?! — Geffries,
-zeichnen Sie die Skizze sofort … Ach glaube, Sie werden hier
+Harsts Kopf war herumgefahren. »Flugzeug?! — Jeffries,
+zeichnen Sie die Skizze sofort … Ich glaube, Sie werden hier
 sehr bald abgelöst werden …«
 
 Eine Viertelstunde trabten wir auf Umwegen unserem
@@ -1908,41 +1905,41 @@ Sie, daß der Trafalgar vor Makaresch nachts kreuzen
 und auf das grüne Raketensignal sofort Mannschaften landen
 soll. Schraut und ich müssen in die Stadt … Ihr hier folgt
 nur, wenn es irgendwo in der Stadt eine kleine Feuersbrunst
-geben sollte. Hier — stehen Sie sich diese Skizze genau an,
-Goodwin!l An dieser Hütte wohnen Geffries und sein Freund.
+geben sollte. Hier — sehen Sie sich diese Skizze genau an,
+Goodwin! In dieser Hütte wohnen Jeffries und sein Freund.
 Spart nicht mit Patronen, falls es zur Schießerei kommt.
-ögm übrigen verlasse ich mich auf eure eigene Findigkeit …
+Im übrigen verlasse ich mich auf eure eigene Findigkeit.
 Harriet Prill ist im Anmarsch, — ihr wißt, was das bedeutet.
 — Wiedersehen, — wir haben wirklich keine Zeit
 zu verlieren …«
 
 … Und wieder trabten wir nun auf unseren flinken Dromedaren
-durch dies Marionette Wüste, diesmal zuerst nach Norden,
+durch die mondhelle Wüste, diesmal zuerst nach Norden,
 dann nach Westen … Wir wichen jeder Oase aus, wir
-umritten kleine Dörfer, Kleine Zeltlager, weidende Herden
+umritten kleine Dörfer, kleine Zeltlager, weidende Herden
 und Hirtenfeuer …
 
 Das Hinterland von Makaresch ist verhältnismäßig
 fruchtbar, diese Tiefebene enthält viele Brunnen, und die
-Felder sind Sehr besucht zu Gewässern. Primitive Schöpfräder,
-die von alten, drinnen, ewige im Kreise schreitenden Dromedaren
+Felder sind Sehr leicht zu bewässern. Primitive Schöpfräder,
+die von alten, blinden, ewige im Kreise schreitenden Dromedaren
 bedient werden, sowie lehmige Kanäle verteilen das
-kostbare Naß. Nähert mal sich von Norden oder Westen
-versteht, bemerkt man nichts als fünf Obergeschosse von
+kostbare Naß. Nähert man sich von Norden oder Westen
+der Stadt, bemerkt man nichts als fünf Obergeschosse von
 Wolkenkratzern, die über einem grün betupften Bergrücken
 hinwegragen.
 
-Wir ließen unser? Tiere in einer verfallenen Hütte zurück,
-warfen ihnen Kutter Ist und schlichen zu Fuß weiter. Dattelpalmenhains
+Wir ließen unsere Tiere in einer verfallenen Hütte zurück,
+warfen ihnen Futter hin und schlichen zu Fuß weiter. Dattelpalmenhaine
 boten uns vorläufig Deckung, die Gefahr begann
-erst oben auf d-;« Bergrücken, denn nun lag die Stadt
-dicht vor uns und genickt dieses im Mondlicht doppelt reizvollen
+erst oben auf dem Bergrücken, denn nun lag die Stadt
+dicht vor uns und jenseits dieses im Mondlicht doppelt reizvollen
 Bildes breitete sich das Meer aus, der Indische Ozean.
-Oc mußte an jene künstlerischen Zeichnungen aus Tausend
+Ich mußte an jene künstlerischen Zeichnungen aus Tausend
 <@pagebreak/>
 und einer Nacht denken, die so traumhaft schön das Nachtgemälde
 schlummernder orientalischer Städte wiedergeben, —
-zauberhaft schon und eigenartig auch hier dieses weltenferne
+zauberhaft schön und eigenartig auch hier dieses weltenferne
 Makaresch — — aus einiger Entfernung gesehen! Da waren
 die berühmten arabischen Hochhäuser, da war der neue Palast
 des Fürsten, mehr eine Burg, da war das Gewirr elender
@@ -1951,94 +1948,94 @@ auch der unvermeidliche Gestank, Schmutz und vieles andere,
 das wahrlich nur Makaresch als Überraschung bietet: Unzählige
 Tauben, unzählige Hühner, die droben auf den Dachrändern
 der Lehmbaracken schliefen, — — und Hunde, faule
-setzte Hunde, wie sie einst in Konstantinopel Straßenplage geworfen
+fette Hunde, wie sie einst in Konstantinopel Straßenplage gewesen
 waren … Aber diese Bastarde hier, in allen Farben
-und Großen vertreten, hoben nicht einmal die Kopfe, als wir
-vorüberschritten, nur das Sauste Gurren der Tauben begleitete
+und Größen vertreten, hoben nicht einmal die Kopfe, als wir
+vorüberschritten, nur das sanfte Gurren der Tauben begleitete
 uns, und im übrigen waren die Gassen wie tot. Wir fanden
 uns leicht zurecht, denn der Palast des Fürsten, der auf einem
 Steinplateau weithin sichtbar war, diente uns als Wegweiser.
 
 Dreimal begegneten uns doch Eingeborene, die wohl vom
-Fischfang kamen. Wir schlüpften in finstere Torwegs, wurden
+Fischfang kamen. Wir schlüpften in finstere Torwege, wurden
 nicht bemerkt. Dann lag jener Wolkenkratzer vor uns, den
-Geffries uns so genau bezeichnet hatte, dann tat sich die Tür
+Jeffries uns so genau bezeichnet hatte, dann tat sich die Tür
 eines Lehmhäuschens auf, und im Dunkeln stand ein Mann,
-der uns eilends hineinzog: Edu Black, dem Geffries uns angemeldet
+der uns eilends hineinzog: Edu Black, dem Jeffries uns angemeldet
 hatte.
 
-Die Mr fiel zu … Wir waren in Makaresch, aber
+Die Tür fiel zu … Wir waren in Makaresch, aber
 Black öffnete die Tür wieder und spähte lange hinaus und
 horchte, als ob er der plötzlichen Stille doch nicht ganz traute.
 Erst nach gut zehn Minuten verhängte er Tür und Fenster
 und zündete eine Petroleumlaterne an, wandte sich uns zu und
-wollte uns begrüßen. Harald legte warnend den Klingen auf
+wollte uns begrüßen. Harald legte warnend den Finger auf
 die Lippen und trat schnell an die feste Steinmauer heran, die
 als Unterteil des Wolkenkratzers für diese ärmliche Behausung
 auch gleichzeitig die Rückwand bildete. Hier war ein
 Herd zu sehen, daneben Wandregale mit Geschirr, und auf einem
 <@pagebreak/>
-der Wandregale stand die Kaffeemühle, von der Geffries uns
+der Wandregale stand die Kaffeemühle, von der Jeffries uns
 berichtet hatte, daß sie stets dort stehen müsse: Befehl des
-Oberhauptes der Sekte! …
+Oberhauptes der Sekte!
 
-Staunend beobachteten der schlanke Black und lieh, wie
+Staunend beobachteten der schlanke Black und ich, wie
 Harst mit eingeschalteter Taschenlampe die Kaffeemühle, ein
 europäisches Erzeugnis aus Eisenblech, herabnahm und nun die
-Ware? dahinter ganz vorsichtig ableuchtete.
+Mauer dahinter ganz vorsichtig ableuchtete.
+
 Dann winkte er uns … Wir traten näher, dann gab
 er mir die Taschenlampe und zog mit Hilfe der Messerklinge
-Ihnen kantigen Teil des scheinbar in sich geschlossenen, rissigen
+einen kantigen Teil des scheinbar in sich geschlossenen, rissigen
 Felsblockes heraus, — eine nur dünne Platte mit zahllosen
-Löcherchen und zwei Holzstützen. In dem sie freigegebenen
-Solche stand ein ganz modernes Mikrofon …
+Löcherchen und zwei Holzstützen. In dem so freigegebenen
+Loche stand ein ganz modernes Mikrofon …
 
-Edu Black flog vor Aufregung pfeifend die Luft ein.
+Edu Black sog vor Aufregung pfeifend die Luft ein.
 Er war sehr bleich geworden. Er war ja selbst Techniker
-und wußte, daß all; seine Gespräche mit Beispiel belauscht
-worden waren, …«
+und wußte, daß all seine Gespräche mit Jeffries belauscht
+worden waren.
 
-ön diesem Augenblick schlug hinter uns eine Telefonglocke
+In diesem Augenblick schlug hinter uns eine Telefonglocke
 ganz gedämpft an.
 
-E€Edu Black rauchte sich angstvoll zusammen …
+Edu Black duckte sich angstvoll zusammen …
 
-Vor meinen inneren Auge aber erschien da wie eine
-Vision das Div des ehemaligen Ateliers im Hause des Orpheum-Klubs
-in Leserin … Kuh dort hatte in entscheidender
-Stünde ein Telefon sich gemeldet …
+Vor meinem inneren Auge aber erschien da wie eine
+Vision das Bild des ehemaligen Ateliers im Hause des Orpheum-Klubs
+in Berlin … Auch dort hatte in entscheidender
+Sekunde ein Telefon sich gemeldet …
 
 Und jetzt waren wir in Makaresch, in Südarabien …
--» — Das Telefon rief … Edu Black schritt unsicher auf den
-ertkorschranlc zu, öffnete ihn und hob den Hörer von der
-
-aber …
+— — Das Telefon rief … Edu Black schritt unsicher auf den
+Bretterschrank zu, öffnete ihn und hob den Hörer von der
+Gabel …
 
 »Hier Black … Kennwort Omar …«
 
 Harst war schon neben ihm, nahm ihm den Hörer ab und
-horchte. Der Japaner sprach sehr laut an …
+horchte. Der Apparat sprach sehr laut an …
 
 Eine verstellte Stimme erklang, hell, durchdringend, fast
-kreischend: »Black, melden Sie Geffries, daß er sofort von
+kreischend: »Black, melden Sie Jeffries, daß er sofort von
 seinem Beobachtungsstand zurückkehren soll. Die Telefonleitung
 dort ist eiligst zu zerstören. Das Flugzeug ist spätestens
 <@pagebreak/>
 in einer Stunde hier. Sie selbst, Black, begaben sich unverzüglich
-zum Hafen hinab. Der Sender des Schoners ritt abzumontieren
+zum Hafen hinab. Der Sender des Schoners ist abzumontieren
 und zu verbergen. Sobald Sie damit fertig sind,
-erwarten Sie und Geffries hier in Ihrer Hütte weitere Befehle.
-— Verstanden?(«
-— »n Ordnung!«, raunte Harst undeutlich und legte den
+erwarten Sie und Jeffries hier in Ihrer Hütte weitere Befehle.
+— Verstanden?!«
 
+»In Ordnung!«, raunte Harst undeutlich und legte den
 Hörer weg.
 
 Wir hatten wieder im Dunkeln gestanden, und Harst
-zog mich nun schleunigst in den Winkel hinter den Hals, wo
-Ton von dem verräterischen Loche aus nicht gesehen werden
-ganzen.
+zog mich nun schleunigst in den Winkel hinter den Herd, wo
+wir von dem verräterischen Loche aus nicht gesehen werden
+konnten.
 
-drum Glück benahm sich Lady Black jetzt äußerst gerissen,
+Zum Glück benahm sich Edu Black jetzt äußerst gerissen,
 da auch er wußte, was auf dem Spiele stand, falls ein Spion
 hinter den durchlöcherten Steinen aufpaßte. Er gähnte kräftig,
 fluchte über die ewige Plackerei, suchte seine Handwerkstasche
@@ -2047,24 +2044,25 @@ Seine Schritte verklangen draußen, wir verharrten regungslos,
 wir strengten unser Gehör über Gebühr an, Harsts Finger
 lagen wie ein eiserner Schraubstock um meinen Unterarm, und
 dann vernahm auch ich tappende Geräusche unter uns, leises
-Knarren und Knistern, — mein Freund jlüe’)tzrte hastig: »Unter
-das Bett, — — Zettel«, und wir schoben uns unter den
-plumpen Bettkasten, der hier als zweifhläfriges Bett für
-die beiden Amerikaner diente. -,
-… Mindestens ebenso plump war der große Brettertisch
-in der Bitte der Lehmhütte, — als Teppich diente dort eine
-gelieferte Bastmatte, und das nächste, das ich hörte, was das
-Scharren und Schleifen dieser Matte, in deren staubigem G?
-wehe sicherlich noch mehr Wanzen und Flöhe hausten als hier
-unter doch Bett in den unregelmäßigen Dielenritzen.
+Knarren und Knistern, — mein Freund flüsterte hastig: »Unter
+das Bett, — — leise!!«, und wir schoben uns unter den
+plumpen Bettkasten, der hier als zweischläfriges Bett für
+die beiden Amerikaner diente.
 
-Dann glomm ein Lichtschein. unter dem Tische auf, und
-durch eine Falltür erschien ein bärtigen Araberkopf …
+Mindestens ebenso plump war der große Brettertisch
+in der Mitte der Lehmhütte, — als Teppich diente dort eine
+zerfaserte Bastmatte, und das nächste, das ich hörte, war das
+Scharren und Schleifen dieser Matte, in deren staubigem Gewebe
+sicherlich noch mehr Wanzen und Flöhe hausten als hier
+unter dem Bett in den unregelmäßigen Dielenritzen.
+
+Dann glomm ein Lichtschein unter dem Tische auf, und
+durch eine Falltür erschien ein bärtiger Araberkopf …
 
 <@pagebreak/>
 
 <h2>4. Kapitel.</h2>
-<h3>Unsere Fernrohr landet.</h3>
+<h3>Unsere Feindin landet.</h3>
 
 Der Mann!stieg vollends empor, da er Urne jedoch den
 Rücken kehrte, sah ich nicht, was er sich dort auf der Tischplatte
@@ -2074,7 +2072,7 @@ der Gestalt auf, aber der Mann entfernte sich ebenso
 schnell, wie er gekommen war, der Raum versank wieder in
 Dunkelheit, und Harald stieß mich nach einer Weile sanft in
 die Sie: »BVBorwärts, — — ausstehen, — wir haben Glück
-gehabt, aber nahm mehr Glück hatten Black und Geffries …
+gehabt, aber nahm mehr Glück hatten Black und Jeffries …
 — Da, schaue dir die Flasche Brandy und die beiden Gläser
 auf dem Tisch an …« — Seine Taschenlampe flammte auf,
 und wortlos nahm er die halbgefüllte 5lasche, entfernte den
@@ -2291,8 +2289,8 @@ angeblich das Versteck der Juwelen verraten sollte, — Flusse,
 damit Schraut und ich nie auf den Gedanken kennen die Gelber,
 Omar, könnten der Herr der Todessekte sein, — — und das
 sind Hielt — —« Bitte, unterlassen Sie jede geheuchelte Empörung.
-Ach werde öbnen sofort beweisen, daß meine Geschult-,
-drang zutrifft. Ach mochte vorher nur noch eins klarstellen:
+Ich werde Ihnen sofort beweisen, daß meine Geschult-,
+drang zutrifft. Ich mochte vorher nur noch eins klarstellen:
 Weshalb wir im Orpheum-Klub verbrannt werden Sollten.
 
 die, Omar, schönsten gegen mich Verdacht, daß ich Ihnen
@@ -2343,7 +2341,7 @@ achselzuckend. »Sir Oxford, tun Sie Ihre Pflicht … 38
 den berühmten Felsenkerkern dieses Palastes werden Sie ’auch
 den früheren, hier sehr beliebten Sultan wiederfinden, und
 ganz Makaresch wird aufatmen, wenn die Sekte durch den
-Tod ausgelöscht wird … Nur Geffries und Black lassen Sie
+Tod ausgelöscht wird … Nur Jeffries und Black lassen Sie
 bitte laufen, Sir Oxford, die beiden Amerikaner sind ohnedies
 nur durch Zufall der Giftflasche entgangen … Was Harriet
 Prill anbetrifft, so dürfte eine englische Irrenanstalt wohl der
