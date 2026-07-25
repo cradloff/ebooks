@@ -206,7 +206,7 @@ und besaß ein Möbelmagazin. Er ist heute fünfundsechzig,
 seit drei Jahren lebten wir sehr ärmlich in einer kleinen
 Wohnung im Gartenhause der Paulsborner Straße. Eufelt
 ernährte sich durch Anfertigung von Holzschnitzereien. Vor
-etwa fünf Wochen kann ein Mann zu uns, der auch Handwerker
+etwa fünf Wochen kam ein Mann zu uns, der auch Handwerker
 war, — so sagte er … — Schlossermeister wollte er gewesen
 sein, — nun, jedenfalls schoß er Eufelt das Geld für
 die Einrichtung und die Pacht des Grundstückes in der Ahlbeckerstraße
@@ -230,7 +230,7 @@ Mittelständler, etwas dick, Vollbart, Brille …«
 »Danke. — Und der Scheck?«
 
 »War ein Barscheck über zehntausend Mark. Die Bank
-honorierte ihn anstandlos, aber der Bankbeamte erwähntet,
+honorierte ihn anstandlos, aber der Bankbeamte erwähnte,
 das Geld sei erst am Tage vorher von Herrn Schmidt, Lessingstraße
 16, eingezahlt worden. In der Lessingstraße 16 wohnt
 auch ein Hugo Schmidt, aber der ist Regierungsrat und hätte
@@ -334,7 +334,7 @@ zutreffen wird?«
 
 Nun, — diese Voraussage traf zu … Nur …
 
-Doch das muß wirklich ganz im einzelnen berichtete
+Doch das muß wirklich ganz im einzelnen berichtet
 werden.
 
 <@pagebreak/>
@@ -347,7 +347,7 @@ Alles, was mit der Unterweltskönigin Harriet Prill zusammenhing,
 fiel völlig aus dem Rahmen des Alltäglichen
 heraus. Die letzte Strecke Wegs war Harst still und stumm,
 und als ich fragte, ob etwa Harriet das Sargmagazin Eufelt
-persönlich oder durch ihren Anhang, dem sie ja immer noch
+persönlich oder durch ihren Anhang, den sie ja immer noch
 besaß, durch Einkäufe zu einer Scheinblüte gebracht hätte, erwiderte
 er gar nichts.
 
@@ -366,7 +366,7 @@ und von dem Hafer noch wenig aufgepickt hatte.
 
 Er machte plötzlich halt …
 
-»… Sie scheinen keinen Hunger zu haben«, meinte er,
+»… Sie scheinen keinen Hunger zu haben«, meinte er
 so nebenher. »Miegel füttert sie zu gut, sie sind fett und
 faul geworden — — beinahe wie du, mein Alter.«
 
@@ -962,9 +962,9 @@ sollen. Paris trug um den Kopf einen Verband und eine
 dunkle Kappe darüber, in die zwei Löcher eingeschnitten waren,
 durch die zwei lange Schlappohren hindurchragten. Miegel
 band seinem Liebling die Leine an das Halsband, und dann
-trotteten wir derselben Weg zurück. Der Köter folgte nur
+trotteten wir denselben Weg zurück. Der Köter folgte nur
 ungern, er gehorchte nur Miegel, aber Harald schien auf ihn
-nicht verzichten zu Können …
+nicht verzichten zu können …
 
 Es ging an der Kohlenhandlung vorüber, es kam ein neuer
 Drahtzaun, — — hier gab es neuen Aufenthalt. Über dem
@@ -1107,7 +1107,7 @@ Was ging hier überhaupt vor?! Weshalb hatte Harriet
 Prill all diese umständlichen und kostspieligen Vorbereitungen
 getroffen, die doch in eine Zeit zurückfielen, als die
 genial-krankhafte Verbrecherin noch im Anfang ihres Berliner
-Gastspieles gestanden hatten, — — als Herr im Frack, als
+Gastspieles gestanden hatte, — — als Herr im Frack, als
 Herrin der Marionetten der Frau Niemand, — denn damit
 hatte ja unsere Gegnerschaft, unser Feldzug gegen sie begonnen.
 
@@ -1121,11 +1121,11 @@ Mindestens acht Meter unter der Erde …
 
 Ein Stampfwerk …!!
 
-— Harst richtete sind auf … Auch Paris wurde mobil.
+— Harst richtete sich auf … Auch Paris wurde mobil.
 Nun begann unsere Arbeit.
 
 <h2>5. Kapitel.</h2>
-<h3>Die beiden Hause.</h3>
+<h3>Die beiden Särge.</h3>
 
 … Bis die Nachtschicht antrat … — Wann aber? —
 Es war jetzt etwa halb zehn, Harsts Taschenlampe beleuchtete
@@ -1370,7 +1370,7 @@ Ich griff unwillkürlich nach der Pistole.
 
 … War überflüssig …
 
-War ein Polizeiposten Autokontrolle!!
+War ein Polizeiposten: Autokontrolle!!
 
 Wir durften vorüber …
 

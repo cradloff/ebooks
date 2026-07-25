@@ -526,7 +526,7 @@ wird …«
 Wir hielten Kurs auf Süd-Perd, das Südkap Rügens,
 der Dampfer verschwand nach Nordost, schoß jedoch eine grüne
 Rakete ab, und mit unseren Ferngläsern sahen wir, daß auf
-dieses Signal hin ein mittelgroßer Wasserflugzeug sich sehr
+dieses Signal hin ein mittelgroßes Wasserflugzeug sich sehr
 schnell dem Dampfer näherte, fünf Leute an Bord nahm und
 dann aufstieg und gen Osten sich entfernte.
 
@@ -559,7 +559,7 @@ und erzählte uns fluchend, hier in diesem Winkel der Ostsee
 sei jetzt rein »der Dübel los«, also der Teufel, — — wozu
 Harald sehr zustimmend nickte.
 
-Als der Fischer dann mit einem Riesenpott »Mokka« am
+Als der Fischer dann mit einem Riesenpott »Mokka« an
 Deck geklettert war und droben mit seinen Söhnen frühstückte,
 fand sich für mich endlich die Gelegenheit, Harald so etwas unter
 die Stampfmühle zu nehmen.
@@ -935,7 +935,7 @@ städtisch gekleidetes Herrn, der offenbar »in Seife« reiste (so
 roch er) gänzlich leer. Wir setzten uns, bestellten Kaffee,
 belegte Brote und je zwei hart gekochte Eier und wurden
 prompt bedient. Der Seifenreisende, der einen kleinen Musterkoffer
-neben ließ stehen hatte, war bestimmt ein Kriminalbeamter,
+neben sich stehen hatte, war bestimmt ein Kriminalbeamter,
 denn er saß so, daß er durch das Fenster das Haus
 des Landjägers beobachten konnte, und wir merkten auch,
 daß er von dort Signale erhielt und uns daraufhin verstohlen
@@ -967,7 +967,7 @@ malerisch um diese Jammergestalt gruppiert, und Harald war
 gerade dabei, der Person die Hände auf dem Rücken zu binden.
 Etwas weiter ab lag noch eine Luftpistole, und ein
 feiner roter Strich über Harsts linke Schläfe bewies mir, daß
-ich das Richtige vermutet hatte: Das kurze, harte Geräusche war
+ich das Richtige vermutet hatte: Das kurze, harte Geräusch war
 ein Schuß gewesen!
 
 Und doch blieb all das gegenüber einer anderen Beobachtung
@@ -1100,7 +1100,7 @@ durch ihre Vertrauten die Goldbarren nachts mit Hilfe
 von Tauchern heraufholen und hier in die Lehmhütte schaffen.
 Sie ahnte eine gewaltige Polizeirazzia voraus, und sie wußte
 sehr gut, daß sie die Barren unmöglich so, wie sie waren,
-wach Berlin bringen und an ihre Großhehler veräußern könnte.
+nach Berlin bringen und an ihre Großhehler veräußern könnte.
 Deshalb — und hierin lag zweifellos ein genialer Gedanke —
 hatte sie ebenso rechtzeitig auch all die anderen umständlichen
 <@pagebreak/>
@@ -1165,10 +1165,10 @@ auch Sie und Ihren Freund austilgen! Hüten Sie sich!!«
 
 Harst trat langsam auf sie zu …
 
-»Harriet Prill, — sind Sie zum wirklich nicht mehr zu
+»Harriet Prill, — sind Sie denn wirklich nicht mehr zu
 bessern?!« Selten hat er so warm und eindringlich gesprochen.
 
-»Harriet, unterschätzt Sie die Deutschen Behörden nicht!
+»Harriet, unterschätzen Sie die deutschen Behörden nicht!
 Man wird keinerlei Rücksicht mehr auf Ihre …«
 
 Und wieder dasselbe schrille, haßerfüllte Lachen.
@@ -1187,7 +1187,7 @@ heimfuhren, hatte ich einen sehr, sehr stillen, sehr nachdenklichen
 Reisegefährten.
 
 Erst kurz vor Berlin sagte Harald, indem er mir ganz überraschend
-das Stückchen Zelluloidkragen hinhielt, das er
+das Stückchen Zelluloidkragen hinhielt, das er in
 unserer Küche damals aus der Asche hervorgesucht hatte:
 »Hier — chemisch präpariert, mein Alter …! Du erkennst
 <@pagebreak/>
