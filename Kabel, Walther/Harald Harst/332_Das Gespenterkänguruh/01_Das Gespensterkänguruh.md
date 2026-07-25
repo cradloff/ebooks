@@ -26,7 +26,7 @@ Harald erhob sich, drückte der Toten sanft die Augen zu und ließ seine Hand ei
 
 Er richtete sich straffer auf, und seine Züge waren hart und wie versteinert, und doch wie von innen durchglüht von dem hinreißenden Gedankenflug eines so überaus exakt arbeitenden Gehirns …
 
-»Und ich bin kein Schwächling, mein Alter‥! — Gib mir deine Hand! Kampf fortan der bewußten Verderbtheit, Kampf bis aufs Messer! Wir beide sind nun allein übrig von alledem, was einst Harst’scher Familienbesitz hieß. Ich werde das Grundstück verschenken, — mag dort ein Heim für Unbemittelte errichtet werden, — wir beide suchen ein neues bescheidenes Heim, und alle die, die uns so gern um Rat und Hilfe angingen, werden uns dort zu finden wissen …«
+»Und ich bin kein Schwächling, mein Alter …! — Gib mir deine Hand! Kampf fortan der bewußten Verderbtheit, Kampf bis aufs Messer! Wir beide sind nun allein übrig von alledem, was einst Harst’scher Familienbesitz hieß. Ich werde das Grundstück verschenken, — mag dort ein Heim für Unbemittelte errichtet werden, — wir beide suchen ein neues bescheidenes Heim, und alle die, die uns so gern um Rat und Hilfe angingen, werden uns dort zu finden wissen …«
 
 * * *
 
@@ -92,9 +92,9 @@ Sie lautete:
 
 Abermals konnte ich Harst nur ziemlich verständnislos anblicken.
 
-Er schüttelte etwas ärgerlich den Kopf. »Wenn du nur auch die Auslandszeitungen genau lesen wolltest‥!! Greenham hat dem in dem Badeort Wingarden gastierenden Zirkus Orelli ein dressiertes Känguruh, das ausgekniffen war, in seinem Park versehentlich erschossen. Ist es nicht etwas eigentümlich, daß Freund Borell von einem ‚dunklen Fall’ spricht und das zwanzig Minuten nach seiner Depesche die des Lord eintrifft mit dem verlockenden Honorarangebot?!«
+Er schüttelte etwas ärgerlich den Kopf. »Wenn du nur auch die Auslandszeitungen genau lesen wolltest …!! Greenham hat dem in dem Badeort Wingarden gastierenden Zirkus Orelli ein dressiertes Känguruh, das ausgekniffen war, in seinem Park versehentlich erschossen. Ist es nicht etwas eigentümlich, daß Freund Borell von einem ‚dunklen Fall’ spricht und das zwanzig Minuten nach seiner Depesche die des Lord eintrifft mit dem verlockenden Honorarangebot?!«
 
-»Du meinst‥?!« fragte ich grüblerisch …
+»Du meinst …?!« fragte ich grüblerisch …
 
 »Vorläufig meine ich gar nichts … — Bitte, mag Fred Steen diese beiden Antwortdepeschen sofort aufgeben …«
 
@@ -126,13 +126,13 @@ Als Steen mit den Antwortdepeschen das Haus verlassen hatte, war es halb elf Uhr
 
 Dabei nahm er seine ruhelose Promenade wieder auf, bis er erneut vor der billigen Wanduhr stehen blieb und kopfschüttelnd vor sich hin murmelte:
 
-»Zwanzig Minuten‥!! Und Depeschen werden doch sofort abgefertigt, und das Postamt ist so nahe!«
+»Zwanzig Minuten …!! Und Depeschen werden doch sofort abgefertigt, und das Postamt ist so nahe!«
 
-»Du meinst‥?!« Ich war aus meiner Sofaecke emporgefahren. Haralds ganzes Benehmen erschreckte mich, und Freund Steen war mir schon in dieser kurzen Zeit ans Herz gewachsen. »Du meinst, daß Steen etwas zugestoßen ist, Harald? Wie wäre das möglich, — — er ist doch immer wieder von dir gewarnt worden, und bei seiner Schlauheit …«
+»Du meinst …?!« Ich war aus meiner Sofaecke emporgefahren. Haralds ganzes Benehmen erschreckte mich, und Freund Steen war mir schon in dieser kurzen Zeit ans Herz gewachsen. »Du meinst, daß Steen etwas zugestoßen ist, Harald? Wie wäre das möglich, — — er ist doch immer wieder von dir gewarnt worden, und bei seiner Schlauheit …«
 
 Harst winkte energisch ab. »Schlauheit?! Mag sein … Aber er besitzt zu wenig Erfahrung … — Gehen wir zum Postamt … Es gibt ja nur einen kurzen Weg dorthin. Steen macht keine Umwege. Vorwärts!«
 
-Als er die Haustür abgeschlossen hatten, schickte mich Harald auf den anderen Bürgersteig hinüber. »Gib auf jede Kleinigkeit acht, auf jede‥! Steen ist noch immer nicht in Sicht, und ich bin ernstlich in Sorge um ihn.«
+Als er die Haustür abgeschlossen hatten, schickte mich Harald auf den anderen Bürgersteig hinüber. »Gib auf jede Kleinigkeit acht, auf jede …! Steen ist noch immer nicht in Sicht, und ich bin ernstlich in Sorge um ihn.«
 
 Wir trennten uns, schritten jeder auf seiner Seite die Arnoldstraße hinab. Wir gingen nicht allzu schnell, bogen nach links ein und mußten in wenigen Minuten das Postamt erreichen.
 
@@ -146,7 +146,7 @@ Harst bestieg mit mir sofort eine Taxe, die in der Nähe hielt, und befahl dem C
 
 Die wie ein Blitz war er draußen, raffte etwas wie eine Papierkugel auf und stieg wieder ein.
 
-»Weiter‥!!«
+»Weiter …!!«
 
 Auf der Unfallstation war kein Verletzter eingeliefert worden. Auch der Anruf bei der nächsten Station ergab keinen Aufschluß.
 
@@ -248,7 +248,7 @@ Fred staunte. Er saß auf der Schreibtischecke und rauchte und scheuerte sich na
 
 Eine Schönheit war Fred Steen keineswegs, aber er sah ganz patent aus. Wenn er die Augen zusammenkniff und Harst’sche Stirnfalten hervorzauberte, wirkte er wie ein Tennismatador, der einen Ball verpfuscht hat und sich grimmig ärgert.
 
-»Glänzende Idee!«, lobte er nunmehr begeistert. »Wenn Herr Harst nur Schwein hat und ermittelt, wo der Radler bleibt … — Hallo, Telephon‥!!«
+»Glänzende Idee!«, lobte er nunmehr begeistert. »Wenn Herr Harst nur Schwein hat und ermittelt, wo der Radler bleibt … — Hallo, Telephon …!!«
 
 Ich meldete mich. — Harsts Stimme kam durch die Leitung: »Sofort nach Heerstraße 18 kommen, mein Alter … Neues schlichtes Holzhaus … Zweifellos wird Arthur Schmelz dort gefangen gehalten, vielleicht auch Fred …«
 
@@ -294,7 +294,7 @@ Gegen drei Uhr nachmittags verließ das fahrplanmäßige Flugzeug Berlin-Amsterd
 
 Kaptain Borell saß allein in der Veranda nach der See zu an einem Tischchen und las Zeitungen. Er erkannte uns nicht, und erst als Harald die Depesche erwähnte, leuchteten Borells Augen freudig auf.
 
-»Großartig, daß ihr da seid‥! Setzt euch.«
+»Großartig, daß ihr da seid …! Setzt euch.«
 
 Mac Borell, klein, sehnig, glich mehr einem Jockey als einem der fünf obersten Beamten von Scotland Yard.
 
@@ -318,13 +318,13 @@ Mac Borell notierte eifrig die Hauptpunkte, und sein Ledergesicht mit den etwas 
 
 »Nur das, was Sie verpfuschen würden, Borell, da Sie scharf beobachtet werden.«
 
-»Das weiß ich,« nickte der Kaptain. »Beobachtet — von zwei von meinen Leuten‥! Man hat hier auf mich geschossen, Harst …«
+»Das weiß ich,« nickte der Kaptain. »Beobachtet — von zwei von meinen Leuten …! Man hat hier auf mich geschossen, Harst …«
 
 Harald trank einen langen Schluck Whisky-Soda.
 
 »Irrtum, Borell … Es sind vier Leute zur Stelle … Zwei von Ihrer Garde und zwei von der Gegenseite. Es stimmt schon, — drüben die elegante Dame in der anderen Verandaecke und ihr ebenso jugendlicher Freund sind die wahren Aufpasser.«
 
-Borell lächelte. »Mein lieber Harst, die Dame ist Lady Lucy Greenham, und der Herr mit dem Scherben im Auge ihr Vetter Georg Greenham, — urältester Adel‥!«
+Borell lächelte. »Mein lieber Harst, die Dame ist Lady Lucy Greenham, und der Herr mit dem Scherben im Auge ihr Vetter Georg Greenham, — urältester Adel …!«
 
 »Urältester Schwindel,« murmelte Harald, nur für mich verständlich.
 
@@ -470,7 +470,7 @@ Borell trank einen Schluck Tee und nahm dann eine Zigarette. »Sie haben also di
 
 »Allerdings Blech!«, bestätigte Mac wegwerfend. »Und sicherlich auch ohne Bedeutung, obwohl die Brieftauben zu denken geben.«
 
-— Ich begriff den so äußerst intelligenten Kaptain in diesem Augenblick absolut nicht, außerdem war mir noch etwas anderes aufgefallen. Ich hatte, als Harald den Text wiederholte, eine Zahl korrigieren wollen, aber ein unmerkliches Zeichen Harst hatte mich gewarnt. Außerdem fügte auch Mac sofort hinzu: »Ich werde den Zirkus nun aufs schärfste überwachen … Die Sache überlassen Sie nur mir. Kümmern Sie sich um diesen Georg Greenham, — wir müssen uns die Arbeit teilen … — Also auf Wiedersehen beim Mittagessen‥«
+— Ich begriff den so äußerst intelligenten Kaptain in diesem Augenblick absolut nicht, außerdem war mir noch etwas anderes aufgefallen. Ich hatte, als Harald den Text wiederholte, eine Zahl korrigieren wollen, aber ein unmerkliches Zeichen Harst hatte mich gewarnt. Außerdem fügte auch Mac sofort hinzu: »Ich werde den Zirkus nun aufs schärfste überwachen … Die Sache überlassen Sie nur mir. Kümmern Sie sich um diesen Georg Greenham, — wir müssen uns die Arbeit teilen … — Also auf Wiedersehen beim Mittagessen …«
 
 Nachdem Mac sich etwas eilig verabschiedet hatte, warf ich einen prüfenden Blick auf Haralds Gesicht. Es war ernster denn je. Er schwieg jedoch, erhob sich und wir gingen zum Strande hinab, wo eine Anzahl Klubhäuser von Jachtvereinen standen und auch ein paar Fischer ihre Kutter in Ordnung brachten.
 
@@ -500,7 +500,7 @@ Das war ‚das Ziel’, das auf der Brieftaubenpost vermerkt war.
 
 In meinem Hirn wirbelten die Gedanken durcheinander, — — nicht lange, denn Harald rief plötzlich:
 
-»Eine Motorjacht, — dort, zwischen den Inseln, Kurs auf uns!! — Beef, werfen Sie den Motor an … Ich fürchte, es wird etwas heiß hergehen, mein Lieber‥! — Schnell, nur schnell!!«
+»Eine Motorjacht, — dort, zwischen den Inseln, Kurs auf uns!! — Beef, werfen Sie den Motor an … Ich fürchte, es wird etwas heiß hergehen, mein Lieber …! — Schnell, nur schnell!!«
 
 Der Fischer glotzte Harst mißtrauisch an.
 
@@ -546,7 +546,7 @@ Der Vortrag, den er dann dem alten Jan Maat hielt, wurde kräftig unterstützt d
 
 Der Alte begriff jetzt. »Mr. Harst, — so eine Bande!! Entschuldigen Sie nur …«
 
-»Schon gut. Setzen Sie sich … Schraut, eine Zigarre auf den Schreck‥! Und jetzt kramen Sie mal ein wenig in Ihrer Gedächtniskiste umher, Beef … Sie sind doch hier in Wingarden daheim. Können Sie uns irgend etwas Besonderes erzählen, was Ihnen vielleicht in letzter Zeit aufgefallen ist?«
+»Schon gut. Setzen Sie sich … Schraut, eine Zigarre auf den Schreck …! Und jetzt kramen Sie mal ein wenig in Ihrer Gedächtniskiste umher, Beef … Sie sind doch hier in Wingarden daheim. Können Sie uns irgend etwas Besonderes erzählen, was Ihnen vielleicht in letzter Zeit aufgefallen ist?«
 
 Beef rauchte und rieb sich die Stirn.
 
@@ -560,7 +560,7 @@ Beef rauchte und rieb sich die Stirn.
 
 »Es kam von der südwestlichen Schloßparkecke von Greenham her und hatte es sehr eilig … Die Nacht damals war recht dunkel, und … und ich machte mich schnell aus dem Staube, Mr. Harst.«
 
-»Verständlich‥! — Das Tier wurde also schon häufiger beobachtet?«
+»Verständlich …! — Das Tier wurde also schon häufiger beobachtet?«
 
 »Ja, verschiedentlich …« Der Fischer beugte sich plötzlich vor und tippte Harst auf die Brust. »Da fällt mir etwas ein, Mr. Harst … Aber bitte, schweigen Sie darüber, denn hier in Wingarden tummeln sich so viel Kriminalbeamte aus London umher … Man kommt da leicht in Teufels Küche!! Hinter dem verd … Vieh lief jemand drein, und meine Augen sind tadellos, — — ich … ich … behaupte, es war der Neffe Mylords. — Zum Glück sah er mich nicht, aber ich sah ihn, und das weiß bisher niemand, niemand!«
 

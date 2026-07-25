@@ -12,11 +12,11 @@ Man schleifte mich davon wie ein Kalb zur Schlachtbank. Derartige Eindrücke ver
 
 Nacht … Mondlicht …
 
-Eine Lichtung, Bäume ringsum, links eine verfallene Parkwärterhütte, — — neben mir Harst, genauso wehrlos, genauso raffiniert an einen Baum gebunden … Und wie zum Hohn hatte man uns die Hüte weggenommen, hatte uns etwas Anderes auf die Köpfe gestülpt: Tropenhelme‥!
+Eine Lichtung, Bäume ringsum, links eine verfallene Parkwärterhütte, — — neben mir Harst, genauso wehrlos, genauso raffiniert an einen Baum gebunden … Und wie zum Hohn hatte man uns die Hüte weggenommen, hatte uns etwas Anderes auf die Köpfe gestülpt: Tropenhelme …!
 
 Und — Harst trug einen Tropenanzug!
 
-Da erst blickte ich auch an mir herab. Derselbe leichte Anzug, zweifellos aus der Requisitenkiste des höllischen Zirkus Orelli stammend‥!!
+Da erst blickte ich auch an mir herab. Derselbe leichte Anzug, zweifellos aus der Requisitenkiste des höllischen Zirkus Orelli stammend …!!
 
 Zum Hohn? — — In einer Februarnacht, wo von Nordost ein eisiger Wind über das Meer kam, wo die uralten Parkbäume rauschten und knarrten …
 
@@ -40,7 +40,7 @@ Aber diese an sich nebensächliche Schlußfolgerung ward sofort zurückgedrängt
 
 Drahtgitter, Vorhang, Bild, — — all das hätte wohl meine Gedanken vollkommen in Anspruch genommen, wenn nicht der ferne Lärm immer näher gerückt wäre. Es war ein taktmäßiges Stampfen, Brechen von Zweigen und Ästen, Poltern und Klopfen, — unentwirrbar den einzelnen Tönen nach. — — Sehr schnell rückte diese wilde Jagd heran, aus dem Dickicht brach als erstes das sogenannte Gespensterkänguruh hervor, rannte schräg über die Blöße, prallte gegen den hohen, weitmaschigen Draht, bog rechts ab und schoß dich an mir vorüber ins Freie. Ihm folgten zwei weitere Tiere, — denen ebenfalls nur die eine Durchlaufstelle blieb. Blitzartig flogen sie vorbei, der Lärm ihrer grotesken Sprünge erstarb hinten in der Heide, und mein von alledem in Bann gehaltenes, noch heftiger fieberndes Hirn ward bereits von abermals gänzlich Unerwartetem erfüllt, — — hinter mir eine Stimme, die keuchend, japsend, die Worte hervorstieß:
 
-»Erschreckt nicht‥!! Mit dem Messer richte ich gegen die Stacheldrähte nichts aus‥!«
+»Erschreckt nicht …!! Mit dem Messer richte ich gegen die Stacheldrähte nichts aus …!«
 
 Dann sechs … acht ganz leise, sehr gedämpfte Schüsse, — — nochmals dieselben schwachen Knalle, deren Schallwellen das Ächzen und Knarren der alten Stämme verschlang.
 
@@ -94,7 +94,7 @@ Hamilton Greenham war sehr erregt, trug einen seidenen Schlafrock und schien sch
 
 Der Lord kaute nervös seine Unterlippe …
 
-»Orpinkton, läuten Sie‥!«
+»Orpinkton, läuten Sie …!«
 
 Der Butler erschien. »Tom, der Herr Kaptain Mac Borell befiehlt uns … — Bitte, Kaptain, — was befehlen Sie?«
 
@@ -222,7 +222,7 @@ Mac Borell hatte die Augen weit geöffnet.
 
 »Lady Lucy und Mr. Georg Greenham, — die Läufe beweisen, daß vor noch ganz kurzer Zeit mit diesen Büchsen geschossen wurde, man riecht sogar noch das Blättchenpulver.«
 
-Georg Greenham sagte eisig: »Das kann nicht stimmen, — die Büchse ist nicht benutzt worden‥!«
+Georg Greenham sagte eisig: »Das kann nicht stimmen, — die Büchse ist nicht benutzt worden …!«
 
 Der Lord hatte sich mühsam erhoben. Er richtete sich dann ganz straff auf. »Kaptain Mac Borell, meine Ehre war bisher makellos … Ich will nichts verheimlichen. Ich sah vom Fenster aus vorhin Lucy und Georg in wilder Hast von Südwesten her aus dem Park ins Schloß stürmen. Hier haben sie vor mir geleugnet, draußen gewesen zu sein. — Tun Sie Ihre Pflicht, Kaptain, ganz gleich, ob es sich um meine Tochter handelt.«
 
@@ -274,7 +274,7 @@ Mac wurde rot vor Ärger. »Zum Teufel, Harst, reden Sie vernünftig!!«
 
 Borell lehnte sich plötzlich zurück.
 
-»Ah, mir geht ein Licht auf, Harst‥! — Es waren also in der verflossenen Nacht vier Wilddiebe in dem Park, — je zweimal zwei!! — Und weshalb ließen Sie die Verhaftung zu?!«
+»Ah, mir geht ein Licht auf, Harst …! — Es waren also in der verflossenen Nacht vier Wilddiebe in dem Park, — je zweimal zwei!! — Und weshalb ließen Sie die Verhaftung zu?!«
 
 »Weil das zweite Paar Wilddiebe vor nicht zurückschreckt, und weil das neue Polizeigefängnis von Wingarden der sicherste Aufenthalt für das Brautpaar ist. Ich denke, wir haben genug zu tun, uns drei am Leben zu erhalten.«
 
@@ -328,7 +328,7 @@ Borell suchte aus seiner Zigarrentasche eine helle dünne Importe und setzte sie
 
 »Die Dinge klären sich …«, meinte er zufrieden. »Harst, hängt dieser Juwelenraub wieder mit den Känguruhs zusammen?«
 
-Auch Harald rauchte, antwortete nicht sofort, sondern zog die Pappmarke hervor. »Lieber Mac, zunächst diesen Punkt. Die Marke ist aus allerhärtester präparierter Pappe gefertigt, die Löcher an den beiden Rändern lassen nur eine Deutung zu‥: Schlüssel!«
+Auch Harald rauchte, antwortete nicht sofort, sondern zog die Pappmarke hervor. »Lieber Mac, zunächst diesen Punkt. Die Marke ist aus allerhärtester präparierter Pappe gefertigt, die Löcher an den beiden Rändern lassen nur eine Deutung zu …: Schlüssel!«
 
 »Was für ein Schlüssel?! Chiffreschlüssel?!«
 
@@ -342,13 +342,13 @@ Mac schien begeistert. »Und wo befindet sich dieses besondere Patentschloß?«
 
 Harald erhob sich. »Draußen!« erwiderte er zweideutig. »Gehen wir zum Nordkap, Mac … Nur ein Verdauungsspaziergang …«
 
-Am Hafen unten begrüßte uns der vergnügt grinsende alte Fischer Beef. »Na, da sind Sie ja wieder, Gentlemen‥! Wie wäre es mit einer Segelpartie?!«
+Am Hafen unten begrüßte uns der vergnügt grinsende alte Fischer Beef. »Na, da sind Sie ja wieder, Gentlemen …! Wie wäre es mit einer Segelpartie?!«
 
-»Abends, Beef, abends‥! Aber Mund halten! Diesmal könnten Sie zwanzig Pfund verdienen.«
+»Abends, Beef, abends …! Aber Mund halten! Diesmal könnten Sie zwanzig Pfund verdienen.«
 
 Wir schritten weiter. Harald blätterte in einem der von der Kurverwaltung herausgegebenen Prospekt.
 
-»Lieber Mac,« meinte er durchaus ernst, »ich habe schon immer betont, daß ein Detektiv ohne Phantasie stets ein kläglicher Paragraphenhengst bleiben wird, ein Theoretiker und Stümper. Lesen Sie mal hier und da ‚Sehenswürdigkeiten Wingardens’. Da steht zum Beispiel: ‚Die kleinen Inseln sind fünf Meilen von der Küste entfernt und bergen eine interessante Erinnerung an den Weltkrieg. Dort liegt eingekeilt zwischen Klippen das Wrack des Kreuzers ‚Lord Kitchener’, das von der Regierung Denkmalschutz genießt. Der Kreuzer wurde am 18. Oktober 1915 von einem deutschen U-Boot torpediert und von dem Kommandanten mit größter Bravour zwischen die Klippen gesetzt. Das Heck hängt völlig im Wasser. Das Betreten des Wracks ist verboten. Es bietet jedoch einen recht denkwürdigen Anblick dar.’ Nun‥?«
+»Lieber Mac,« meinte er durchaus ernst, »ich habe schon immer betont, daß ein Detektiv ohne Phantasie stets ein kläglicher Paragraphenhengst bleiben wird, ein Theoretiker und Stümper. Lesen Sie mal hier und da ‚Sehenswürdigkeiten Wingardens’. Da steht zum Beispiel: ‚Die kleinen Inseln sind fünf Meilen von der Küste entfernt und bergen eine interessante Erinnerung an den Weltkrieg. Dort liegt eingekeilt zwischen Klippen das Wrack des Kreuzers ‚Lord Kitchener’, das von der Regierung Denkmalschutz genießt. Der Kreuzer wurde am 18. Oktober 1915 von einem deutschen U-Boot torpediert und von dem Kommandanten mit größter Bravour zwischen die Klippen gesetzt. Das Heck hängt völlig im Wasser. Das Betreten des Wracks ist verboten. Es bietet jedoch einen recht denkwürdigen Anblick dar.’ Nun …?«
 
 Mac Borell pfiff leise.
 
@@ -380,7 +380,7 @@ Ach, — Herr Feodor ist fertig … Dieses Vormittagsbad der Tiere ist Bluff, is
 
 »Stimmt!!« Mac war Feuer und Flamme. Er drängte darauf, daß Planschbecken sofort zu untersuchen.
 
-Harald lehnte ab. »Mein Lieber, ich bin ja nur ein schlichter Privatmann mit etwas abenteuerlichen Neigungen, die jetzt wieder durch den Tod meiner Mutter eine starke Verschärfung zu Ungunsten der Rechtsbrecher erfahren haben. Nein, wir bleiben … Ich habe aufgepaßt, wir sind nicht verfolgt worden, die Bande fühlt sich sicher, übermorgen will der Zirkus nach dem eine Meile entfernten Küstenstädtchen Holky übersiedeln. — Seit Monaten treibt der Zirkus sich hier in den Strandorten umher. Aber diese Übersiedlung werden Sie leiten, Mac, — — nach London ins Gefängnis. — Geduld, mein Lieber … Es gibt noch mehr zu beobachten. Warten wir. Meine Vorbereitungen sind getroffen. Die Taube, die das Schmugglerschiffe in Helgoland zurückhalten sollte, ist erschossen worden … Das Schiff kommt in dieser Nacht. Bestellen Sie nachher von London die allerschnellste Polizeijacht, die schwer bewaffnet sein muß. — — Achtung, Mac‥!! Sehen Sie die Fahnenstange auf der Tennishalle, die jetzt Zirkus ist? Ein Wimpel steigt hoch … Begreifen Sie? Ein Signal für I 4.«
+Harald lehnte ab. »Mein Lieber, ich bin ja nur ein schlichter Privatmann mit etwas abenteuerlichen Neigungen, die jetzt wieder durch den Tod meiner Mutter eine starke Verschärfung zu Ungunsten der Rechtsbrecher erfahren haben. Nein, wir bleiben … Ich habe aufgepaßt, wir sind nicht verfolgt worden, die Bande fühlt sich sicher, übermorgen will der Zirkus nach dem eine Meile entfernten Küstenstädtchen Holky übersiedeln. — Seit Monaten treibt der Zirkus sich hier in den Strandorten umher. Aber diese Übersiedlung werden Sie leiten, Mac, — — nach London ins Gefängnis. — Geduld, mein Lieber … Es gibt noch mehr zu beobachten. Warten wir. Meine Vorbereitungen sind getroffen. Die Taube, die das Schmugglerschiffe in Helgoland zurückhalten sollte, ist erschossen worden … Das Schiff kommt in dieser Nacht. Bestellen Sie nachher von London die allerschnellste Polizeijacht, die schwer bewaffnet sein muß. — — Achtung, Mac …!! Sehen Sie die Fahnenstange auf der Tennishalle, die jetzt Zirkus ist? Ein Wimpel steigt hoch … Begreifen Sie? Ein Signal für I 4.«
 
 Mac lachte bissig. »Kann mir denken, was geschehen wird … Vielleicht erscheint die Mimikryjacht, die Sie beschoß… — Ja, natürlich bin ich davon unterrichtet … Wir sind auch auf dem Posten, Harst.«
 
@@ -406,7 +406,7 @@ Des Kaptains Kopf flog hoch. »Gegen wen?!«
 
 »Na nu?! Das ist mir unverständlich, Harst … Georg und der Sekretär schienen befreundet.«
 
-»Schienen‥!! Und doch haßt dieser Orpinkton den Erben des Lordtitels, und das ist Georg, wie die Sünde, — nein, wie die Ehrlichkeit, denn an Stuart Orpinkton ist alles morsch und faul. — Sie werden den Sekretär und den Butler abends neun Uhr in aller Stille verhaften, Mac. — Wir nehmen die Burschen dann mit auf Beefs Kutter. Abends wird es regnen, der Himmel bewölkt sich immer mehr. Und die bewaffnete Polizeijacht bestellen Sie für zehn Uhr ohne Lichter drei Seemeilen südwärts der Inseln … Ich habe seit langem kein richtiges Piratenstückchen mitgemacht, — — heute hoffe ich darauf!«
+»Schienen …!! Und doch haßt dieser Orpinkton den Erben des Lordtitels, und das ist Georg, wie die Sünde, — nein, wie die Ehrlichkeit, denn an Stuart Orpinkton ist alles morsch und faul. — Sie werden den Sekretär und den Butler abends neun Uhr in aller Stille verhaften, Mac. — Wir nehmen die Burschen dann mit auf Beefs Kutter. Abends wird es regnen, der Himmel bewölkt sich immer mehr. Und die bewaffnete Polizeijacht bestellen Sie für zehn Uhr ohne Lichter drei Seemeilen südwärts der Inseln … Ich habe seit langem kein richtiges Piratenstückchen mitgemacht, — — heute hoffe ich darauf!«
 
 Aber der unersättliche Mac war noch immer nicht zufrieden gestellt. »Harst, — noch eins. Wer waren die Engländer in Berlin, die den Brieftaubendiebstahl vorbereiteten und nachher …«
 
@@ -500,7 +500,7 @@ Mac machte große Augen.
 
 »Diese Beate?!!«
 
-»Ja — ein deutsches Mädel, Mac, — — hat Schneid — zu viel Schneid‥!!«
+»Ja — ein deutsches Mädel, Mac, — — hat Schneid — zu viel Schneid …!!«
 
  
 
@@ -556,7 +556,7 @@ Harst legt den Markenschlüssel auf die Zapfen und dreht ihn nach rechts. Die St
 
 Plötzlich funken grelle Laternen auf, — Schüsse fallen … Relli bricht zusammen, und auch Brisban gleitet mir in die Arme.
 
-»Polizei‥!! Hände hoch!!«
+»Polizei …!! Hände hoch!!«
 
 Drei Kerle, die sich hinter Warenballen verschanzt haben, geben das Spiel verloren, als eine Tränengasbombe ihre Augen überfließen läßt.
 
