@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">d9f05a07-7372-43bf-9f68-d85275ce7f5a</entry>
+<entry key="title">Der Gespensterturm</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">335</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Der Gespensterturm
+
+Landjäger Sturm, ein sehr großer, breitschultriger Mann mit gutmütig pfiffigem Gesicht, musterte die vor ihm stehende Landstreicherin mit einigem Erstaunen.
+
+Er hatte sich ihre Papiere geben lassen, und er fand darin das bestätigt, was die zerlumpte Frau ihm soeben mündlich erklärt hatte.
+
+»Entschuldigen Sie, Fräulein Römer,« meinte er höflich. »Ich glaubte bisher, derartiges käme nur in Romanen vor. Aber ich sehe, Sie sind tatsächlich Berichterstatterin einer Berliner Zeitung und studieren das Vagabundenleben.«
+
+Er lachte leise und freundlich. »Weiß Gott, — sehr echt haben Sie sich herausgeputzt …! Ich fürchte, Sie werden noch häufiger angehalten werden, denn durch die Not der Zeit werden sehr viele als Bettler auf die Landstraße getrieben … Sie sind heute Vormittag schon die fünfte Person, die ich pflichtgemäß mit Polizeiaugen untersuche. Weiß der Himmel, — der Zustrom an Strolchen nach der Ostseeküste ist erstaunlich. Wollen all die Kerle Seebäder nehmen?! — Komisch!«
+
+Alice Römer tat völlig uninteressiert, horchte aber doch sehr genau hin.
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (335) Der Gespensterturm.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1932</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
