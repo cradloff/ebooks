@@ -12,7 +12,7 @@ Wir hatten den englischen Zerstörer, der so rechtzeitig bei der Entlarvung und 
 
 Auf dem Bahnhof in Berlin erwartete uns niemand, und schon dies hatte meinen Freund stark beunruhigt.
 
-Dann erfolgten die niederschmetternden Schläge Hieb auf Hieb! Das alte Harst‹sche Familienhaus, bereits einmal fast zerstört, bildete eine einzige Lohe, und im nahen Krankenhaus fand Harald nur mehr eine Sterbende vor, die den zermürbenden Aufregungen der letzten Stunden nicht mehr gewachsen gewesen.
+Dann erfolgten die niederschmetternden Schläge Hieb auf Hieb! Das alte Harst’sche Familienhaus, bereits einmal fast zerstört, bildete eine einzige Lohe, und im nahen Krankenhaus fand Harald nur mehr eine Sterbende vor, die den zermürbenden Aufregungen der letzten Stunden nicht mehr gewachsen gewesen.
 
 Ganz still erlosch dieses flackernde Lebensflämmchen, ein allerletzter bewußter Blick umfing den einzigen Sohn und streifte auch mein blasses Gesicht, — dann war alles vorüber.
 
@@ -26,27 +26,27 @@ Harald erhob sich, drückte der Toten sanft die Augen zu und ließ seine Hand ei
 
 Er richtete sich straffer auf, und seine Züge waren hart und wie versteinert, und doch wie von innen durchglüht von dem hinreißenden Gedankenflug eines so überaus exakt arbeitenden Gehirns …
 
-»Und ich bin kein Schwächling, mein Alter …! — Gib mir deine Hand! Kampf fortan der bewußten Verderbtheit, Kampf bis aufs Messer! Wir beide sind nun allein übrig von alledem, was einst Harst‹scher Familienbesitz hieß. Ich werde das Grundstück verschenken, — mag dort ein Heim für Unbemittelte errichtet werden, — wir beide suchen ein neues bescheidenes Heim, und alle die, die uns so gern um Rat und Hilfe angingen, werden uns dort zu finden wissen …«
+»Und ich bin kein Schwächling, mein Alter …! — Gib mir deine Hand! Kampf fortan der bewußten Verderbtheit, Kampf bis aufs Messer! Wir beide sind nun allein übrig von alledem, was einst Harst’scher Familienbesitz hieß. Ich werde das Grundstück verschenken, — mag dort ein Heim für Unbemittelte errichtet werden, — wir beide suchen ein neues bescheidenes Heim, und alle die, die uns so gern um Rat und Hilfe angingen, werden uns dort zu finden wissen …«
 
 * * *
 
 Zwei Wochen später an einem bereits recht warmen Februarvormittag schritt ein älterer Herr straffen Ganges die stille Arnoldstraße in Berlin W. entlang und machte dann vor einem sehr schmalen, sehr alten dreistöckigen Hause halt, das als einziges auf dieser Straßenseite noch einen winzigen Garten besaß, der sich nach links um das zweistöckige Häuschen herumzog, während rechter Hand ein moderner Mietspalast den unscheinbaren Nachbar fast überschattete.
 
-Drei Steinstufen führten vom Bürgersteig zu der schweren Haustür empor, an der über dem Briefschlitz ein mittelgroßes Messingschild mit der schwarzen Schrift ›Harald Harst‹ — weiter nichts — befestigt war. Daneben befand sich der Druckknopf der Glocke und ein kleines rundes, dick verglastes Fenster.
+Drei Steinstufen führten vom Bürgersteig zu der schweren Haustür empor, an der über dem Briefschlitz ein mittelgroßes Messingschild mit der schwarzen Schrift ›*Harald Harst*‹ — weiter nichts — befestigt war. Daneben befand sich der Druckknopf der Glocke und ein kleines rundes, dick verglastes Fenster.
 
 Der Herr läutete, und nach einer Weile öffnete ihm ein sehr junger Mensch mit strohblondem Scheitel und freundlich zuvorkommendem Lächeln die Türen und führte ihn in das rechter Hand gelegene Zimmer, dessen schlichte Ausstattung etwas büromäßig wirkte.
 
 Hinter einem langen Schreibtisch, der vor den beiden Fenstern stand, saßen mit dem Rücken nach dem Licht hin zwei Herren, die beide schwarze Krawatten und um die linken Ärmel Trauerflore trugen.
 
-»Bitte, nehmen Sie Platz, Herr Oberinspektor,« sagte der größere höflich und deutete auf einen Sessel vor dem Schreibtisch. »Unser Diener Fred Steen hat uns Ihren Namen beim Anmelden schon genannt: Oberinspektor Hartwich. — Sind Sie noch in Dienst oder bereits pensioniert?«
+»Bitte, nehmen Sie Platz, Herr Oberinspektor,« sagte der größere höflich und deutete auf einen Sessel vor dem Schreibtisch. »Unser Diener Fred Steen hat uns Ihren Namen beim Anmelden schon genannt: Oberinspektor Hartwich. — Sind Sie noch im Dienst oder bereits pensioniert?«
 
 Hartwig betrachtete meinen Freund voller Interesse.
 
 »Noch im Dienst, Herr Harst … Sonst wäre ich nicht hier.«
 
-Harald lehnte sich zurück und erklärte leichthin: »Wenn Sie noch in Dienst sind, dann kommen Sie aus Spandau und sind Beamter der staatlichen Versuchsanstalt für Brieftauben. — Verzeihen Sie schon: Ihnen haftet ein bestimmter Geruch an, der an einen Taubenschlag erinnert, und die drei Federchen auf Ihrem Jackenaufschlag stammen von grauen Brieftauben. Sie haben es auch sehr eilig gehabt, hierher zu gelangen, denn Sie beschränkten sich darauf, einen frischen Kragen und eine bessere Krawatte schnellstens umzubinden, wobei Sie vor Erregung schweißige Finger hatten, — Ihr Kragen zeigt mir dies, und die Krawatte ist sehr oberflächlich geschlungen. Ich darf annehmen, daß Ihnen in der verflossenen Nacht Brieftauben gestohlen worden sind …«
+Harald lehnte sich zurück und erklärte leichthin: »Wenn Sie noch im Dienst sind, dann kommen Sie aus Spandau und sind Beamter der staatlichen Versuchsanstalt für Brieftauben. — Verzeihen Sie schon: Ihnen haftet ein bestimmter Geruch an, der an einen Taubenschlag erinnert, und die drei Federchen auf Ihrem Jackenaufschlag stammen von grauen Brieftauben. Sie haben es auch sehr eilig gehabt, hierher zu gelangen, denn Sie beschränkten sich darauf, einen frischen Kragen und eine bessere Krawatte schnellstens umzubinden, wobei Sie vor Erregung schweißige Finger hatten, — Ihr Kragen zeigt mir dies, und die Krawatte ist sehr oberflächlich geschlungen. Ich darf annehmen, daß Ihnen in der verflossenen Nacht Brieftauben gestohlen worden sind …«
 
-Hartwich nickte eifrig. »Bei Ihnen braucht man sich ja Gott sei Dank nicht lange bei der Vorrede aufzuhalten, Herr Harst. Ja, es wurden dreißig der besten Tauben gestohlen, und unser Assistent Schmelz ist spurlos verschwunden, sein Erdgeschoßzimmer im Hauptgebäude weist verwischte Blutspuren auf, daß eine Fenster stand offen, und Schmelz scheint, so meint die Kriminalpolizei, ermordet und verschleppt worden zu sein.«
+Hartwich nickte eifrig. »Bei Ihnen braucht man sich ja Gott sei Dank nicht lange bei der Vorrede aufzuhalten, Herr Harst. Ja, es wurden dreißig der besten Tauben gestohlen, und unser Assistent Schmelz ist spurlos verschwunden, sein Erdgeschoßzimmer im Hauptgebäude weist verwischte Blutspuren auf, das eine Fenster stand offen, und Schmelz scheint, so meint die Kriminalpolizei, ermordet und verschleppt worden zu sein.«
 
 Harst schob dem Oberinspektor eine Zigarrenkiste hin. »Bedienen Sie sich … — Nur drei Fragen.
 
@@ -56,7 +56,7 @@ Zweitens: Waren die Tauben für einen bestimmten Flug trainiert?
 
 Drittens: Was wissen Sie über diesen Herrn Schmelz?«
 
-Hartwichs bisherige Nervosität legte sich. Er setzte sich bequemer zurecht. »Herr Harst, ich wäre nicht zu Ihnen gekommen, wenn bei alledem nicht auch meine Familie insofern in Mitleidenschaft gezogen wäre, als Schmelz heimlich mit meiner Tochter Beate verlobt gewesen wäre. Beate hat mich in ihrer Herzensangelegenheit hierher geschickt. Ich bin Witwer und habe nur das eine Kind. — Die dreißig Tauben waren sämtlich von der Abteilung H., Helgoland, also für Flüge nach Helgoland bestimmen und dafür ausgebildet. — Arthur Schmelz wieder war ein sehr gewissenhafter junger Beamter, solide, sparsam und allen Menschen sympathisch — allen! Wirklich ein prächtiger junger Mann, Herr Harst.«
+Hartwichs bisherige Nervosität legte sich. Er setzte sich bequemer zurecht. »Herr Harst, ich wäre nicht zu Ihnen gekommen, wenn bei alledem nicht auch meine Familie insofern in Mitleidenschaft gezogen wäre, als Schmelz heimlich mit meiner Tochter Beate verlobt gewesen wäre. Beate hat mich in ihrer Herzensangelegenheit hierher geschickt. Ich bin Witwer und habe nur das eine Kind. — Die dreißig Tauben waren sämtlich von der Abteilung H., Helgoland, also für Flüge nach Helgoland bestimmt und dafür ausgebildet. — Arthur Schmelz wieder war ein sehr gewissenhafter junger Beamter, solide, sparsam und allen Menschen sympathisch — allen! Wirklich ein prächtiger junger Mann, Herr Harst.«
 
 Harald spielte mit dem Brieföffner. Er schwieg eine Weile …
 
@@ -116,13 +116,13 @@ Es wurden gerade von einer Möbelfirma die neuen, sehr bescheidenen Einrichtungs
 
 Es war Zechlinski. Fred Steen erhielt die Belohnung von fünfhundert Mark und die Anstellung bei uns. Einen Menschen wie diesen Fred konnten wir brauchen.
 
-Daß Harald seinerseits so tat, als ob er Zechlinski nicht erkannt habe, blieb unser beider Geheimnis und war echt Harst‹sche Freigebigkeit und Güte gegenüber Pechvögeln vom Schlage Freds.
+Daß Harald seinerseits so tat, als ob er Zechlinski nicht erkannt habe, blieb unser beider Geheimnis und war echt Harst’sche Freigebigkeit und Güte gegenüber Pechvögeln vom Schlage Freds.
 
-Dieser Fred war also der dritte Bewohner von Arnoldstraße Nr. 21. Er wird dem Leser noch häufiger begegnen, und ich kann Ihnen vorläufig mit diesen knappen Angaben abtun.
+Dieser Fred war also der dritte Bewohner von Arnoldstraße Nr. 21. Er wird dem Leser noch häufiger begegnen, und ich kann ihn vorläufig mit diesen knappen Angaben abtun.
 
 Als Steen mit den Antwortdepeschen das Haus verlassen hatte, war es halb elf Uhr. Harald ging in unserem Arbeitszimmer gesenkten Kopfes auf und ab, rauchte zerstreut seine Zigarette und blieb schließlich vor dem Bilde seiner Mutter stehen, das er nach einer Visitphotographie hatte anfertigen lassen. Still und insichgekehrt betrachtete er das Bild und sagte dann mehr zu sich selbst: 
 
-»Es ist dies der erste umfangreiche Fall, den wir nach dem Zusammenbruch der sonnigen Vergangenheit in Arbeit nehmen. Ich würde den Leuten, die mit in diesen Fall verwickelt sind, nicht raten, noch einen Mord zu begehen, sonst könnte die Schlußabrechnung etwas zu hart ausfallen … Es ist ein Mord verübt worden, mein Alter, warte nur die Mittagssendung der Tagesnachrichten ab. Der Assistent Arthur Schmelz, dieser allen Menschen so sehr sympathische junge Mann, muß ein Schwächling gewesen sein … Hartwich betonte, wie verliebt er in Beate gewesen sei, und wie gerne er schleunigst heiraten wollte. Du wirst später begreifen, weshalb mir dies äußerst wichtig erscheint.« 
+»Es ist dies der erste umfangreiche Fall, den wir nach dem Zusammenbruch der sonnigen Vergangenheit in Arbeit nehmen. Ich würde den Leuten, die mit in diesen Fall verwickelt sind, nicht raten, noch einen Mord zu begehen, sonst könnte die Schlußabrechnung etwas zu hart ausfallen … Es ist ein Mord verübt worden, mein Alter, warte nur die Mittagssendung der Tagesnachrichten ab. Der Assistent Arthur Schmelz, dieser *allen* Menschen so sehr sympathische junge Mann, muß ein Schwächling gewesen sein … Hartwich betonte, wie verliebt er in Beate gewesen sei, und wie gerne er schleunigst heiraten wollte. Du wirst später begreifen, weshalb mir dies äußerst wichtig erscheint.« 
 
 Dabei nahm er seine ruhelose Promenade wieder auf, bis er erneut vor der billigen Wanduhr stehen blieb und kopfschüttelnd vor sich hin murmelte:
 
@@ -130,7 +130,7 @@ Dabei nahm er seine ruhelose Promenade wieder auf, bis er erneut vor der billige
 
 »Du meinst …?!« Ich war aus meiner Sofaecke emporgefahren. Haralds ganzes Benehmen erschreckte mich, und Freund Steen war mir schon in dieser kurzen Zeit ans Herz gewachsen. »Du meinst, daß Steen etwas zugestoßen ist, Harald? Wie wäre das möglich, — — er ist doch immer wieder von dir gewarnt worden, und bei seiner Schlauheit …«
 
-Harst winkte energisch ab. »Schlauheit?! Mag sein … Aber er besitzt zu wenig Erfahrung … — Gehen wir zum Postamt … Es gibt ja nur einen kurzen Weg dorthin. Steen macht keine Umwege. Vorwärts!«
+Harst winkte energisch ab. »Schlauheit?! Mag sein … Aber er besitzt zu wenig Erfahrung … — Gehen wir zum Postamt … Es gibt ja nur *einen* kurzen Weg dorthin. Steen macht keine Umwege. Vorwärts!«
 
 Als er die Haustür abgeschlossen hatten, schickte mich Harald auf den anderen Bürgersteig hinüber. »Gib auf jede Kleinigkeit acht, auf jede …! Steen ist noch immer nicht in Sicht, und ich bin ernstlich in Sorge um ihn.«
 
@@ -160,7 +160,7 @@ Der Chauffeur nickte. »Gut, — weil Sie es sind. Der junge Mensch wurde bestim
 
 »… Unsinn, — die drei Mark haben Sie mindestens verdient … Wir danken Ihnen … Fahren Sie nach Arnoldstraße 21.«
 
-Als wir wieder daheim waren, wickelte Harald die ganz eng zusammengedrückt Papierkugel auseinander.
+Als wir wieder daheim waren, wickelte Harald die ganz eng zusammengedrückte Papierkugel auseinander.
 
 Es waren die beiden Depeschen, die Steen hatte aufgeben sollen.
 
@@ -210,7 +210,7 @@ Als Text war hinzugefügt:
 
 Harst tippte mit dem Finger auf das Bild.
 
-»Nun, mein Alter, — was hältst du davon? Borell ruft uns nach Wingarden, Seebad und Hafenort, und Lord Greenham wohnt unweit Wingarden und hat ein dressiertes Känguruh erschossen, das dem Zirkus Orelli entlaufen, aber der Lord ist bockbeinig und will nicht Ersatz zahlen und depeschiert an uns genau wie Borell, der sogar von einem sehr dunklen Fall spricht. Wenn du zu alledem noch den Diebstahl der Brieftauben, das verdächtige Verschwinden des Herrn Arthur Schmelz und diese Pappmarke und einiges andere hinzunimmst, hast du einen wunderbar verwickelten Fragenkomplex vor dir — kurz, ein richtiges Problem! Wir beide wurden von den Polypenarmen dieses Problems so lange nicht berührt, als eben nicht unser trefflicher Freund Steen uns weggeschnappt wurde. Man hatte ihn geschnappt, — weshalb wohl? — Nun, die Antwort ist einfach, man wollte die Depeschen haben, die er abschicken sollte. — Wer konnte daran interessiert sein, daß die Depeschen nicht abgingen? Ich behaupte, Lord Greenham! — Du wieder kannst fragen: Weshalb gerade er? — Weil ich an solche Zufälle nicht glaube, daß Greenhams Depesche ausgerechnet nur zwanzig Minuten nach Borells Telegramm eintritt. Mein Gedankengang wird dir klar sein! Borell depeschiert, Borell wird beobachtet, und daraufhin depeschiert der Lord und wirft den Köder von ›Honorar spielt keine Rolle‹ aus … — — So, nun schreibe ich nochmals die Antwortdepeschen, und dann bringst du sie zur Post, jedoch erst nachdem ich …« — und das Weitere war nur zu sehr geeignet, meinen ohnedies bereits erwachten Jagdeifer noch mehr anzufeuern …
+»Nun, mein Alter, — was hältst du davon? Borell ruft uns nach Wingarden, Seebad und Hafenort, und Lord Greenham wohnt unweit Wingarden und hat ein dressiertes Känguruh erschossen, das dem Zirkus Orelli entlaufen, aber der Lord ist bockbeinig und will nicht Ersatz zahlen und depeschiert an uns genau wie Borell, der sogar von einem sehr dunklen Fall spricht. Wenn du zu alledem noch den Diebstahl der Brieftauben, das verdächtige Verschwinden des Herrn Arthur Schmelz und diese Pappmarke und einiges andere hinzunimmst, hast du einen wunderbar verwickelten Fragenkomplex vor dir — kurz, ein richtiges Problem! Wir beide wurden von den Polypenarmen dieses Problems so lange nicht berührt, als eben nicht unser trefflicher Freund Steen uns weggeschnappt wurde. Man *hat* ihn geschnappt, — weshalb wohl? — Nun, die Antwort ist einfach, man wollte die Depeschen haben, die er abschicken sollte. — Wer konnte daran interessiert sein, daß die Depeschen *nicht* abgingen? *Ich* behaupte, Lord Greenham! — Du wieder kannst fragen: Weshalb gerade *er*? — Weil ich an solche *Zufälle* nicht glaube, daß Greenhams Depesche ausgerechnet nur zwanzig Minuten nach Borells Telegramm eintrifft. Mein Gedankengang wird dir klar sein! Borell depeschiert, Borell wird beobachtet, und daraufhin depeschiert der Lord und wirft den Köder von ›Honorar spielt keine Rolle‹ aus … — — So, nun schreibe ich nochmals die Antwortdepeschen, und dann bringst du sie zur Post, jedoch erst nachdem ich …« — und das Weitere war nur zu sehr geeignet, meinen ohnedies bereits erwachten Jagdeifer noch mehr anzufeuern …
 
  
 
@@ -226,7 +226,7 @@ Unser neues, so sehr bescheidenes Heim — das muß ich hier einflechten —, be
 
 Ich markierte den in völligem Sicherheitsgefühl dahinwandernden Unbefangenen wohl recht gut, denn kurz vor der Post, das kleine Autowrack war bereits abgeschleppt worden! — sauste von hinten ein Radler auf einer vorzüglichen Rennmaschine an mir vorüber und riß mir die Blätter aus der Hand. Ich brüllte programmmäßig wütend hinter ihm drein, aber das half nicht viel, sollte auch gar nicht irgendwie eine Straßenszene und etwa eine Verfolgung hervorrufen, denn der zweite Herr dort im Taxameter, das wußte ich, würde sich nicht abschütteln lassen, und — — der flinke Dieb hatte ja auch nur die präparierten Depeschenentwürfe erwischt, von denen der an Borell ablehnend lautete, während der für Mylord eine Zusage enthielt.
 
-Auf dem Postamt schrieb ich neue Formulare aus: Beide bejahend! —
+Auf dem Postamt schrieb ich neue Formulare aus: *Beide* bejahend! —
 
 Die Telegramme gingen ab, und ich kehrte heim. Als ich die Haustür aufschließen wollte, öffnete jemand von innen und grinste mich erfreut an.
 
@@ -236,7 +236,7 @@ Die Telegramme gingen ab, und ich kehrte heim. Als ich die Haustür aufschließe
 
 »Erzählen Sie … Wie erging es Ihnen?«
 
-»Höchst dramatisch: Attentat mit Kleinauto — arme Straßenlaterne!! —,— verkleidete Helfer in grauer Limousine, die mich dann, als sie mich durchsucht hatten, einfach im Grunewald in eine Schonung warfen. Heimkehr etwas hinkend aber billig! Straßenbahn von der Villenkolonie Grunewald aus! — Ich merkte gleich, Herr Schraut, daß es bei alledem um die Depeschen ging …«
+»Höchst dramatisch: Attentat mit Kleinauto — arme Straßenlaterne!! — — verkleidete Helfer in grauer Limousine, die mich dann, als sie mich durchsucht hatten, einfach im Grunewald in eine Schonung warfen. Heimkehr etwas hinkend aber billig! Straßenbahn von der Villenkolonie Grunewald aus! — Ich merkte gleich, Herr Schraut, daß es bei alledem um die Depeschen ging …«
 
 »Harst hat die Papierkugel gefunden … Das haben Sie fein gemacht. Wer waren die ›Helfer‹? Engländer?«
 
@@ -246,7 +246,7 @@ Da unser Famulus unbedingt Anspruch darauf hatte, eingeweiht zu werden, entwicke
 
 Fred staunte. Er saß auf der Schreibtischecke und rauchte und scheuerte sich nachdenklich das Kinn.
 
-Eine Schönheit war Fred Steen keineswegs, aber er sah ganz patent aus. Wenn er die Augen zusammenkniff und Harst‹sche Stirnfalten hervorzauberte, wirkte er wie ein Tennismatador, der einen Ball verpfuscht hat und sich grimmig ärgert.
+Eine Schönheit war Fred Steen keineswegs, aber er sah ganz patent aus. Wenn er die Augen zusammenkniff und Harst’sche Stirnfalten hervorzauberte, wirkte er wie ein Tennismatador, der einen Ball verpfuscht hat und sich grimmig ärgert.
 
 »Glänzende Idee!«, lobte er nunmehr begeistert. »Wenn Herr Harst nur Schwein hat und ermittelt, wo der Radler bleibt … — Hallo, Telephon …!!«
 
@@ -264,11 +264,7 @@ Als wir das von Harst angegebenen Ziel erreicht hatten, lehnte unweit der Holzvi
 
 Steen war als erster über den Holzzaun hinweg, Harald war als erster im Hause, und nach eifrigem Suchen fanden wir in einem Schrank hinter alten Kleidern einen bleichen Toten, bei dessen Anblick unser Fred doch entsetzt zurückprallte. »Es ist der Chauffeur des grauen Autos,« flüsterte er scheu. — Der Mann war erschossen worden.
 
-Harst setzte seine Suche nach Schmelz unverdrossen fort. Oben unter dem Dach im Schornstein hing Arthur Schmelz gefesselt und geknebelt und halb bewußtlos an zwei Stricken. Aber er lebte, und er konnte uns sehr bald angeben, was mit ihm geschehen war. —
-
-Vor drei Wochen hatte er zwei vornehmen Engländer kennen gelernt, die sich als Londoner Börsenmakler ausgaben und ihm gute Tipps für Börsengeschäfte gegeben hatten. Er war denn auch wirklich vom ›Glück‹ (?) begünstigt gewesen und hatte über zweitausend Mark in kurzem ›verdient‹, ohne eine Hand zu rühren, da die Engländer, die Smith und Frankheel hießen, für ihn alles erledigten. Schließlich war ihm doch aufgefallen, daß sie ihn über die Einrichtung der Brieftaubenversuchsanstalt aushorchten, und als Smith einmal eine sonderbare Pappmarke verlor, hatte er sie zu sich gesteckt. In der verflossenen Nacht wurde, während er schlief, im Bett überfallen, niedergeschlagen und war erst hier im Schornstein wieder erwacht. — —
-
-Mehr wußte er nicht, nur das eine noch, daß die Engländer den grauen Wagen samt Chauffeur von einer Verleihanstalt gemietet hatten.
+Harst setzte seine Suche nach Schmelz unverdrossen fort. Oben unter dem Dach im Schornstein hing Arthur Schmelz gefesselt und geknebelt und halb bewußtlos an zwei Stricken. Aber er lebte, und er konnte uns sehr bald angeben, was mit ihm geschehen war. — Vor drei Wochen hatte er zwei vornehme Engländer kennen gelernt, die sich als Londoner Börsenmakler ausgaben und ihm gute Tipps für Börsengeschäfte gegeben hatten. Er war denn auch wirklich vom ›Glück‹ (?) begünstigt gewesen und hatte über zweitausend Mark in kurzem ›verdient‹, ohne eine Hand zu rühren, da die Engländer, die Smith und Frankheel hießen, für ihn alles erledigten. Schließlich war ihm doch aufgefallen, daß sie ihn über die Einrichtung der Brieftaubenversuchsanstalt aushorchten, und als Smith einmal eine sonderbare Pappmarke verlor, hatte er sie zu sich gesteckt. In der verflossenen Nacht wurde er im Schlaf im Bett überfallen, niedergeschlagen und war erst hier im Schornstein wieder erwacht. — — Mehr wußte er nicht, nur das eine noch, daß die Engländer den grauen Wagen samt Chauffeur von einer Verleihanstalt gemietet hatten.
 
 Harald überlegte kurz. »Herr Schmelz, Sie werden jetzt der Polizei Ihre Erlebnisse melden, aber uns aus dem Spiel lassen. Sie haben sich eben selbst befreit. Der Chauffeur übrigens ist tot und liegt unten in dem alten Kleiderschrank.«
 
@@ -282,9 +278,9 @@ Schmelz, ein gut gewachsener, hübscher Mensch mit weichlichen Zügen, verfärbt
 
 »Genügt … — Ich habe leider keine Zeit, Ihnen hier lange Vorträge zu halten, das wird wohl Ihre Braut besorgen. Nehmen Sie diese Dinge jedoch als ernste Lehre hin und — — werden Sie Mann!!«
 
-Schmelz bekam beinahe wilde Augen. »Die dort im Schornstein ausgestandene Todesangst hat mich gründlich kuriert!! Beate wird sich wundern!«
+Schmelz bekam beinahe wilde Augen. »*Die* dort im Schornstein ausgestandene Todesangst hat mich gründlich kuriert!! Beate wird sich wundern!«
 
-Wir verließen die einsame Holzvilla und fuhren mit einer anderen Taxe nach Hause, während Arthur Schmelz gen Spandau die Straßenbahn benutzt. Daheim läutete Harald den Oberinspektor Hartwich an. »Unser Besuch bei Ihnen ist überflüssig geworden. Wir unternehmen eine kleine Erholungsreise. Schmelz wird Ihnen alles berichten. Schluß.«
+Wir verließen die einsame Holzvilla und fuhren mit einer anderen Taxe nach Hause, während Arthur Schmelz gen Spandau die Straßenbahn benutzte. Daheim läutete Harald den Oberinspektor Hartwich an. »Unser Besuch bei Ihnen ist überflüssig geworden. Wir unternehmen eine kleine Erholungsreise. Schmelz wird Ihnen alles berichten. Schluß.«
 
 Dann machten wir uns reisefertig. »Fred«, sagte Harald zu dem langen Jüngling, »Sie bleiben hier, halten den Mund und bewachen unser Heim. Ich verlasse mich auf Ihre Gerissenheit.«
 
@@ -302,13 +298,13 @@ Nachdem der Kellner die Bestellungen für ein reichliches Abendrot von uns entge
 
 »Ohne Grund habe ich euch wahrlich nicht herbeordert. Die Sache ist die: Wir sind seit Monaten einer …«
 
-»… internationalen Großhehlerbande auf der Spur …,« ergänzte Harst und schob Mac die am Rande vielfach durchlöcherte Pappkarte zu. »Bitte, — das stammt aus Berlin.«
+»… internationalen Großhehlerbande auf der Spur …,« ergänzte Harst und schob Mac die am Rande vielfach durchlöcherte Pappkarte zu. »Bitte, — *das* stammt aus Berlin.«
 
 Borell griff hastig zu. »Aus Berlin?! Von wem?!«
 
-»Erst Ihre Geschichte, dann unsere Erlebnisse, — los also!«
+»Erst *Ihre* Geschichte, dann unsere Erlebnisse, — los also!«
 
-Mac fuhr in knappster Form fort: »Diese Hehler sind nicht zu fassen … Ihre Organisation muß glänzend funktionieren. Acht Juwelendiebstähle, fünf Museumseinbrüche und andere ähnliche Scherze konnten wir aufklären und die Täter fassen, — die Hehler nie. Die Verhafteten erklärten gleichlautend, daß die Beute an einen Unbekannten, der sehr gut zahle, verschoben sei. Stücke der entwendeten Schmuckstücke tauchten in Frankreich, Holland, der Schweiz und Neuyork auf. Seit drei Monaten bin ich nun dauernd an der Arbeit — ohne Erfolg. So geht das nicht weiter. Den einzigen Anhaltspunkt bisher fand ich hier in Wingarden, wo die frische Leiche eines unserer geschicktesten Londoner schweren Jungens angetrieben wurde: Kopfschuß, — — leere Taschen, Gesicht zerschlagen, um ein Erkennen unmöglich zu machen. Aber Toby Roß hatte nur vier Zehen an einem Fuß. So erkannte ich ihn, und nun hocke ich hier in diesem öden Nest, das nur im Sommer Hochbetrieb kennt, seit acht Tagen und — — habe nichts erreicht.«
+Mac fuhr in knappster Form fort: »Diese Hehler sind nicht zu fassen … Ihre Organisation muß glänzend funktionieren. Acht Juwelendiebstähle, fünf Museumseinbrüche und andere ähnliche Scherze konnten wir aufklären und die Täter fassen, — die Hehler *nie*. Die Verhafteten erklärten gleichlautend, daß die Beute an einen Unbekannten, der sehr gut zahle, verschoben sei. Stücke der entwendeten Schmuckstücke tauchten in Frankreich, Holland, der Schweiz und Neuyork auf. Seit drei Monaten bin ich nun dauernd an der Arbeit — ohne Erfolg. So geht das nicht weiter. Den einzigen Anhaltspunkt bisher fand ich hier in Wingarden, wo die frische Leiche eines unserer geschicktesten Londoner schweren Jungens angetrieben wurde: Kopfschuß, — — leere Taschen, Gesicht zerschlagen, um ein Erkennen unmöglich zu machen. Aber Toby Roß hatte nur vier Zehen an einem Fuß. So erkannte ich ihn, und nun hocke ich hier in diesem öden Nest, das nur im Sommer Hochbetrieb kennt, seit acht Tagen und — — habe nichts erreicht.«
 
 Unser Tisch stand dicht am Fenster. Vor uns breitete sich die sanft geschwungene Bucht von Wingarden aus, deren Wasser im Mondlicht glänzte. Die hellen Felsen der Ufer und in der Ferne einige kahle Inselchen waren ein recht ansprechendes Panorama, es lag Stimmung in diesem Bilde.
 
@@ -350,7 +346,7 @@ Greenham-Castle ist ein uralter Bau mit zwei angeflickten modernen Flügeln und 
 
 Das Auto war zur Stelle, und schon nach einer Viertelstunde standen wir einem hochgewachsenen, vornehmen alten Herrn gegenüber, der uns dann mit seiner Tochter Lucy und seinem Neffen Georg bekannt machte. Wir saßen um den geheizten Kamin herum, ein Diener servierte Liköre und Zigarren und Zigaretten und verschwand.
 
-Dann erst begann Lord Hamilton über die ihn quälenden Dinge zu sprechen. »Herr Harst, es handelt sich ja mich nur um das erschossene Känguruh, nein, die Hauptsache habe ich bisher verschwiegen. Als mir das Tier vor die Büchse kam, hielt ich es für einen wildernde Hund, der mich anspringen wollte. Bei der Untersuchung des Känguruhs sah ich dann, daß aus der Bauchtasche des Tieres ein Zipfel Leder herausragte. Ich zog, es war ein Beutel, und in dem Beutel befanden sich die wertvollsten unserer Familienkleinodien, die ich im Tresor verschlossen gehalten hatte, und deren Diebstahl mir bisher unbekannt war. Lucy und Georg rieten mir, die Dinge vorläufig zu verschweigen, und ich tat es auch, obwohl es meinen strengen Grundsätzen widersprach. Jetzt — gestern abend nämlich — sind die Juwelen erneut verschwunden, und ich entdeckte unweit des Schlosses frische Känguruhspuren. Ich hege eine ausgesprochene Abneigung gegen die Polizei und depeschierte daher an Sie. Lucy und Georg wollten anfänglich nichts davon wissen, aber ich beharrte bei meinem Entschluß.«
+Dann erst begann Lord Hamilton über die ihn quälenden Dinge zu sprechen. »Herr Harst, es handelt sich ja nicht nur um das erschossene Känguruh, nein, die Hauptsache habe ich bisher verschwiegen. Als mir das Tier vor die Büchse kam, hielt ich es für einen wildernde Hund, der mich anspringen wollte. Bei der Untersuchung des Känguruhs sah ich dann, daß aus der Bauchtasche des Tieres ein Zipfel Leder herausragte. Ich zog, es war ein Beutel, und in dem Beutel befanden sich die wertvollsten unserer Familienkleinodien, die ich im Tresor verschlossen gehalten hatte, und deren Diebstahl mir bisher unbekannt war. Lucy und Georg rieten mir, die Dinge vorläufig zu verschweigen, und ich tat es auch, obwohl es meinen strengen Grundsätzen widersprach. Jetzt — gestern abend nämlich — sind die Juwelen erneut verschwunden, und ich entdeckte unweit des Schlosses frische Känguruhspuren. Ich hege eine ausgesprochene Abneigung gegen die Polizei und depeschierte daher an Sie. Lucy und Georg wollten anfänglich nichts davon wissen, aber ich beharrte bei meinem Entschluß.«
 
 Das kalte, hochmütige, junge Gesicht seiner Tochter verzog sich spöttisch.
 
@@ -392,13 +388,13 @@ Als wir in einem entlaubten Gebüsch kauerten und die Tennishalle uns erst einma
 
 »Also doch!!« flüsterte Harald nur.
 
-Wir hatten genau gehört, daß in dem Schuppen ein gedämpftes Läutewerk anschlug, als sie Brieftaube in den Dachaufbau schlüpfte. Das Tierchen hatte dieses Läutewerk beim Passieren des Einschlupfes ausgelöst. — Genau so, das hatte uns Hartwig erzählt, wurde auch bei der Vesuchsanstalt Spandau die Ankunft einer Taube gemeldet.
+Wir hatten genau gehört, daß in dem Schuppen ein gedämpftes Läutewerk anschlug, als sie Brieftaube in den Dachaufbau schlüpfte. Das Tierchen hatte dieses Läutewerk beim Passieren des Einschlupfes ausgelöst. — Genau so, das hatte uns Hartwig erzählt, wurde auch bei der Versuchsanstalt Spandau die Ankunft einer Taube gemeldet.
 
 »Warte hier!«
 
 Harald schlich davon, öffnete mit dem Dietrich die Schuppentür, und kaum war er im Dunkeln der Bretterbude untergetaucht, als ich von dorther einen dumpfen Schlag vernahm.
 
-Als Haus wieder im Freien erschien, drückte er die Tür nur zu, winkte mir, und im Laufschritt brachten wir uns in Sicherheit und erreichten atemlos und unbemerkt unsere Zimmer, wo Harald mir lächelnd ein Papierröllchen zeigte.
+Als Harst wieder im Freien erschien, drückte er die Tür nur zu, winkte mir, und im Laufschritt brachten wir uns in Sicherheit und erreichten atemlos und unbemerkt unsere Zimmer, wo Harald mir lächelnd ein Papierröllchen zeigte.
 
 »Taubenpost, mein Alter!«
 
@@ -410,7 +406,7 @@ Er glättete das Stückchen Seidenpapier. Die Aufschrift in zierlichen Buchstabe
 
  
 
-> Geht ab 23. — Ziel I 4. — Firma H.&amp;S. Filiale jetzt England. — Konkurrenz ausschalten. — Signatur 21.2. A.
+> Geht ab 23. — Ziel I 4. — Firma H.&amp;S. Filiale jetzt England. — Konkurrenz ausschalten. — Signatur 21.&nbsp;2. A.
 
  
 
@@ -432,7 +428,7 @@ Draußen im Mondschein stand der kleine sehnige Mac Borell und schraubte gerade 
 
 »Pech!«, sagte er leise. »Es waren drei Kerle, die mit einer Leiter bei euch einsteigen wollten, — flink wie die Hasen, zu flink! — Seid ihr in einer Lebensversicherung eingekauft?«
 
-»Ja!« Und Harst ließ aus dem Ärmel seines Schlafanzuges seine eigene Pistole in die Hand gleiten. »Danke vielmals, lieber Borell. Auf diese Art kriegen uns die Anfänger niemals! Gute Nacht …«
+»Ja!« Und Harst ließ aus dem Ärmel seines Schlafanzuges seine eigene Pistole in die Hand gleiten. »Danke vielmals, lieber Borell. Auf *die* Art kriegen uns die Anfänger niemals! Gute Nacht …«
 
 »Gute Nacht, ihr … Schwindler …«
 
@@ -446,11 +442,9 @@ Der Kaptain verschwand kichernd um die Ecke. — Ob er doch etwas von dem Besuch
 
 <h3>Das Gespensterkänguruh.</h3>
 
-Am Morgen gegen halb neun rief Harald Seine Lordschaft an und teilte ihm mit, daß er eine Übersiedlung nach Greenham-Castle für überflüssig erachte, zumal wir hier im Hotel unseren alten Freund Kaptain Borell getroffen hätten, dessen diskrete Unterstützung uns sehr wertvoll werden könnte. —
+Am Morgen gegen halb neun rief Harald Seine Lordschaft an und teilte ihm mit, daß er eine Übersiedlung nach Greenham-Castle für überflüssig erachte, zumal wir hier im Hotel unseren alten Freund Kaptain Borell getroffen hätten, dessen diskrete Unterstützung uns sehr wertvoll werden könnte. — Mylord bedauerte unsere Absage, erklärte sich im übrigen jedoch mit allem einverstanden.
 
-Mylord bedauerte unsere Absage, erklärte sich im übrigen jedoch mit allem einverstanden.
-
-Um neun frühstückten wir mit dem Kaptain in der Glasveranda. Der Tag war wieder sonnenwarm und freundlich. Borell sprache über die drei Kerle mit der Leiter und fragte dann geradeheraus: »Harst, Sie waren bei Greenham … Ich lasse nämlich alle hier in Wingarden eingehenden Depeschen kontrollieren und erhalte Abschriften davon. Nun erzählen Sie mir bitte auch den Rest … Dem Kunstreiter Feodor Orelli, dem Sohn des alten Orelli, haben Sie zu einer Schläfenbeule verholfen. Was war da in dem Schuppen los?!«
+Um neun frühstückten wir mit dem Kaptain in der Glasveranda. Der Tag war wieder sonnenwarm und freundlich. Borell sprach über die drei Kerle mit der Leiter und fragte dann geradeheraus: »Harst, Sie waren bei Greenham … Ich lasse nämlich alle hier in Wingarden eingehenden Depeschen kontrollieren und erhalte Abschriften davon. Nun erzählen Sie mir bitte auch den Rest … Dem Kunstreiter Feodor Orelli, dem Sohn des alten Orelli, haben Sie zu einer Schläfenbeule verholfen. Was war da in dem Schuppen los?!«
 
 Harald mußte nun berichten. Aber Borell zuckte hilflos die Achseln. »Daraus werde ich nicht schlau … Was soll das alles?! Wo sind die Zusammenhänge zu finden?! Ein Känguruh mit einem Beutel von Edelsteinen in der Bauchfalte?! Der alte Lord wird kindisch. Das hat er geträumt!«
 
@@ -466,7 +460,9 @@ Borell trank einen Schluck Tee und nahm dann eine Zigarette. »Sie haben also di
 
 »Nein …« Mac Borell sog hastiger an seiner Zigarette. »Können Sie mir den Text wiederholen, Harst?«
 
-»Gewiß. Mein Gedächtnis ist noch immer vorzüglich. Geht ab 24. — Ziel I 4. — Firma H.&amp;S. Filiale jetzt England. — Konkurrenz ausschalten. — Signatur: 21.2. A.«
+»Gewiß. Mein Gedächtnis ist noch immer vorzüglich.
+
+> Geht ab 24. — Ziel I 4. — Firma H.&amp;S. Filiale jetzt England. — Konkurrenz ausschalten. — Signatur: 21.&nbsp;2. A.«
 
 »Allerdings Blech!«, bestätigte Mac wegwerfend. »Und sicherlich auch ohne Bedeutung, obwohl die Brieftauben zu denken geben.«
 
@@ -492,7 +488,7 @@ Ich hatte den Atem angehalten, als der alte Fischer Nummer 4 zuerst erwähnte.
 
 I 4!!
 
-Das war es!!
+*Das* war es!!
 
 Insel Nr. 4!!
 
@@ -504,9 +500,9 @@ In meinem Hirn wirbelten die Gedanken durcheinander, — — nicht lange, denn H
 
 Der Fischer glotzte Harst mißtrauisch an.
 
-»Sind Sie etwa Ausreißer, Flüchtlinge?! — Dem Boot entkommen Sie nicht, das läuft achtzehn Knoten, und ich unterstütze keine Verbrecher!«
+»Sind Sie etwa Ausreißer, Flüchtlinge?! — *Dem* Boot entkommen Sie nicht, das läuft achtzehn Knoten, und ich unterstütze keine Verbrecher!«
 
-Horst schaute noch nach der Motorjacht aus.
+Harst schaute noch nach der Motorjacht aus.
 
 Dann riß er das Steuer herum.
 
@@ -542,7 +538,7 @@ Harst lachte grimmig. »Damit hatten die Herrschaften nicht gerechnet!! — Wend
 
 Der Vortrag, den er dann dem alten Jan Maat hielt, wurde kräftig unterstützt durch das Vorzeigen unserer Legitimationen und Pässe.
 
-»Also, Beef, — wir sind durchaus anständige Männer, — die weniger anständigen fliehen dort mit ihrer Jacht! Wir sollten hier erledigt werden, Beef, — Sie mit, Ihr Kutter wäre versenkt worden …«
+»Also, Beef, — wir sind durchaus anständige Männer, — die weniger anständigen fliehen dort mit ihrer Jacht! Wir sollten hier erledigt werden, Beef, — *Sie* mit, Ihr Kutter wäre versenkt worden …«
 
 Der Alte begriff jetzt. »Mr. Harst, — so eine Bande!! Entschuldigen Sie nur …«
 
@@ -550,7 +546,7 @@ Der Alte begriff jetzt. »Mr. Harst, — so eine Bande!! Entschuldigen Sie nur �
 
 Beef rauchte und rieb sich die Stirn.
 
-»Hm, — Besonderes?! Meinen Sie über die verfl … Jacht? Die habe ich noch nie gesehen, das war ein großer, seetüchtiger Kasten … Aber … aber, — wissen Sie, Mr. Harst, da ist etwas anderes, worüber in Wingarden viel geredet wird, seitdem der Lord das Känguruh erschossen hat … Ich bin nicht abergläubische, doch — — es ist etwas Wahres daran, mein Schwiegersohn wohnt hinter Wingarden in der Heide und besitzt dort eine kleine Farm. Und vor zwei Tagen sah ich dort das Vieh auf dem Heimweg … Gespensterkänguruh nennen es die Leute … Es ist ganz weiß, — na, fast weiß, und es leuchtet …«
+»Hm, — Besonderes?! Meinen Sie über die verfl… Jacht? Die habe ich noch nie gesehen, das war ein großer, seetüchtiger Kasten … Aber … aber, — wissen Sie, Mr. Harst, da ist etwas anderes, worüber in Wingarden viel geredet wird, seitdem der Lord das Känguruh erschossen hat … Ich bin nicht abergläubisch, doch — — es ist etwas Wahres daran, mein Schwiegersohn wohnt hinter Wingarden in der Heide und besitzt dort eine kleine Farm. Und vor zwei Tagen sah ich dort das Vieh auf dem Heimweg … Gespensterkänguruh nennen es die Leute … Es ist ganz weiß, — na, fast weiß, und es leuchtet …«
 
 »… Wie der Hund von Baskerville vom seligen Sherlock Holmes …«
 
@@ -562,7 +558,7 @@ Beef rauchte und rieb sich die Stirn.
 
 »Verständlich …! — Das Tier wurde also schon häufiger beobachtet?«
 
-»Ja, verschiedentlich …« Der Fischer beugte sich plötzlich vor und tippte Harst auf die Brust. »Da fällt mir etwas ein, Mr. Harst … Aber bitte, schweigen Sie darüber, denn hier in Wingarden tummeln sich so viel Kriminalbeamte aus London umher … Man kommt da leicht in Teufels Küche!! Hinter dem verd … Vieh lief jemand drein, und meine Augen sind tadellos, — — ich … ich … behaupte, es war der Neffe Mylords. — Zum Glück sah er mich nicht, aber ich sah ihn, und das weiß bisher niemand, niemand!«
+»Ja, verschiedentlich …« Der Fischer beugte sich plötzlich vor und tippte Harst auf die Brust. »Da fällt mir etwas ein, Mr. Harst … Aber bitte, schweigen Sie darüber, denn hier in Wingarden tummeln sich so viel Kriminalbeamte aus London umher … Man kommt da leicht in Teufels Küche!! Hinter dem verd… Vieh lief jemand drein, und meine Augen sind tadellos, — — ich … ich … behaupte, es war der Neffe Mylords. — Zum Glück sah er mich nicht, aber ich sah ihn, und das weiß bisher niemand, niemand!«
 
 … Fischer Beef erhielt noch zwei Pfund, setzte uns am Nordkap ab und fuhr weiter in die Bucht hinein, während wir auf Umwegen der Heide zustrebten.
 
@@ -584,17 +580,13 @@ Daß man uns nicht schonen würde, wußte ich …
 
 Ich hatte das heutige Frühstück in Gesellschaft Mac Borells nicht vergessen. Dieser Zirkus Orelli mit seinen bescheidenen Eintrittspreisen war nichts als eine Kulisse für eine einzige üble Verbrecherbande.
 
-Die Strohmatte stank … 
-
-Mein Hals brannte … 
-
-Mein Hirn zermarterte ich mit Rettungsgedanken …
+Die Strohmatte stank … Mein Hals brannte … Mein Hirn zermarterte ich mit Rettungsgedanken …
 
 Rettung? Hilfe?!
 
 Woher …
 
-Wie die Gegner arbeiteten, bewiesen die Vorfälle in Berlin und hier die Kugelsaat, die von der Jacht um uns herumgespritzt war.
+Wie *die* Gegner arbeiteten, bewiesen die Vorfälle in Berlin und hier die Kugelsaat, die von der Jacht um uns herumgespritzt war.
 
 Stunden schlichen …
 
@@ -612,7 +604,5 @@ Das Ende?!
 
 Vielleicht … — —
 
-Es kam anders …
-
-Noch schlimmer …
+Es kam anders … *Noch* schlimmer …
 

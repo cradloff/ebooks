@@ -12,7 +12,7 @@ Man schleifte mich davon wie ein Kalb zur Schlachtbank. Derartige Eindrücke ver
 
 Nacht … Mondlicht …
 
-Eine Lichtung, Bäume ringsum, links eine verfallene Parkwärterhütte, — — neben mir Harst, genauso wehrlos, genauso raffiniert an einen Baum gebunden … Und wie zum Hohn hatte man uns die Hüte weggenommen, hatte uns etwas Anderes auf die Köpfe gestülpt: Tropenhelme …!
+Eine Lichtung, Bäume ringsum, links eine verfallene Parkwärterhütte, — — neben mir Harst, genauso wehrlos, genauso raffiniert an einen Baum gebunden … Und wie zum Hohn hatte man uns die Hüte weggenommen, hatte uns etwas anderes auf die Köpfe gestülpt: Tropenhelme …!
 
 Und — Harst trug einen Tropenanzug!
 
@@ -26,11 +26,11 @@ Andere Rufe aus der Tiefe des Parkes ertönten: Eulen, Käuzchen, Nachtfalken �
 
 Sonst war alles still, so still, daß man irgend ein gänzlich unerwartetes Ereignis unbekannter Art in den Fingerspitzen vorausfühlte.
 
-Derweil wanderte das Nachtgestirn weiter, und ein Teil der Parkblöße versank im Schatten. Auch die beiden Buchen, von denen wir nicht loskamen, obwohl nur die Handgelenke an die Bäume gefesselt waren, lagen nun im Dunkeln, und wir mit unseren sonst wohl sehr auffälligen Anzügen konnten uns kaum von der grauen Buchenrinde irgendwie abgeben.
+Derweil wanderte das Nachtgestirn weiter, und ein Teil der Parkblöße versank im Schatten. Auch die beiden Buchen, von denen wir nicht loskamen, obwohl nur die Handgelenke an die Bäume gefesselt waren, lagen nun im Dunkeln, und wir mit unseren sonst wohl sehr auffälligen Anzügen konnten uns kaum von der grauen Buchenrinde irgendwie abheben.
 
 Harald hatte mir soeben nochmals möglichste Reglosigkeit befohlen, und sein zur Seite geneigter Kopf bewieß mir, daß er auf jenes fernher kommende Geräusch lauschte, dem auch ich bereits einige Aufmerksamkeit geschenkt hatte.
 
-Etwas mir zunächst Unverständliches geschah nun, — ich hatte mich doch geirrt, die Feinde waren noch in der Nähe, sie steckten über uns in den Bäumen, und graue, halb durchsichtige Gazestreifen schwebten herab, verdeckten uns vollends, und wehten mit unsauberer geschnittenen Rändern hin und her. Trotzdem konnte ich wahrnehmen, daß rechts von uns nach der großen Mauerlücke zu mit leichtem metallischem Knistern ein mit Mimikryfarbe überpinseltes weitmaschiges Drahtgitter emporklappte, das bis zu Nordgrenze der Lichtung zu reichen schien.
+Etwas mir zunächst Unverständliches geschah nun, — ich hatte mich doch geirrt, die Feinde waren noch in der Nähe, sie steckten über uns in den Bäumen, und graue, halb durchsichtige Gazestreifen schwebten herab, verdeckten uns vollends, und wehten mit unsauberer geschnittenen Rändern hin und her. Trotzdem konnte ich wahrnehmen, daß rechts von uns nach der großen Mauerlücke zu mit leichtem metallischem Knistern ein mit Mimikryfarbe überpinseltes weitmaschiges Drahtgitter emporklappte, das bis zu der Nordgrenze der Lichtung zu reichen schien.
 
 Fast in demselben Moment rutschte mir auch von oben jemand ins Genick, ein Knebel verhinderte den Schrei der Überraschung, der mir bereits auf der Zunge schwebte, und Harst erging es nicht besser.
 
@@ -38,7 +38,7 @@ Wieder bekamen wir nichts von den Leuten zu sehen, die hier so seltsame Dinge tr
 
 Aber diese an sich nebensächliche Schlußfolgerung ward sofort zurückgedrängt durch eine neue Beobachtung. Ich hatte den Kopf mehr nach hinten gelehnt, und so erst gewahrte ich, daß der dünne Gewebestreifen vor mir nicht lediglich dazu dienen sollte, mich vollends zu verbergen. Auf diesen halb durchsichtigen Stoff, der unten an einer Stange wie ein altmodischer Zugvorhang befestigt war, hatte man nicht nur die Konturen, sondern das sauber auf Fernwirkung berechnete Bild eines lebensgroßen Känguruhs gemalt. Da der Stoff im Winde sich bewegte, mußte das Bild bei der ungewissen Beleuchtung den Eindruck erwecken, als lebte das Tier.
 
-Drahtgitter, Vorhang, Bild, — — all das hätte wohl meine Gedanken vollkommen in Anspruch genommen, wenn nicht der ferne Lärm immer näher gerückt wäre. Es war ein taktmäßiges Stampfen, Brechen von Zweigen und Ästen, Poltern und Klopfen, — unentwirrbar den einzelnen Tönen nach. — — Sehr schnell rückte diese wilde Jagd heran, aus dem Dickicht brach als erstes das sogenannte Gespensterkänguruh hervor, rannte schräg über die Blöße, prallte gegen den hohen, weitmaschigen Draht, bog rechts ab und schoß dich an mir vorüber ins Freie. Ihm folgten zwei weitere Tiere, — denen ebenfalls nur die eine Durchlaufstelle blieb. Blitzartig flogen sie vorbei, der Lärm ihrer grotesken Sprünge erstarb hinten in der Heide, und mein von alledem in Bann gehaltenes, noch heftiger fieberndes Hirn ward bereits von abermals gänzlich Unerwartetem erfüllt, — — hinter mir eine Stimme, die keuchend, japsend, die Worte hervorstieß:
+Drahtgitter, Vorhang, Bild, — — all das hätte wohl meine Gedanken vollkommen in Anspruch genommen, wenn nicht der ferne Lärm immer näher gerückt wäre. Es war ein taktmäßiges Stampfen, Brechen von Zweigen und Ästen, Poltern und Klopfen, — unentwirrbar den einzelnen Tönen nach. — — Sehr schnell rückte diese wilde Jagd heran, aus dem Dickicht brach als erstes das sogenannte Gespensterkänguruh hervor, rannte schräg über die Blöße, prallte gegen den hohen, weitmaschigen Draht, bog rechts ab und schoß dicht an mir vorüber ins Freie. Ihm folgten zwei weitere Tiere, — denen ebenfalls nur die eine Durchlaufstelle blieb. Blitzartig flogen sie vorbei, der Lärm ihrer grotesken Sprünge erstarb hinten in der Heide, und mein von alledem in Bann gehaltenes, noch heftiger fieberndes Hirn ward bereits von abermals gänzlich Unerwartetem erfüllt, — — hinter mir eine Stimme, die keuchend, japsend, die Worte hervorstieß:
 
 »Erschreckt nicht …!! Mit dem Messer richte ich gegen die Stacheldrähte nichts aus …!«
 
@@ -88,7 +88,7 @@ Erleuchtete Fenster blinkten uns entgegen, der Schloßvogt, ein hagerer Mann mit
 
 Hamilton Greenham war sehr erregt, trug einen seidenen Schlafrock und schien schleunigst das Bett verlassen zu haben. Auch die Anzüge der drei anderen Personen verrieten das.
 
-»Was wünschen Sie, meine Herren, — — zu dieser Stunde?! Es ist halb ein Uhr morgens«, empfing uns Mylord mit einer so eindeutigen Feindseligkeit, daß nur Mac Borells amtlicher Eigenschaft die Situation rettete.
+»Was wünschen Sie, meine Herren, — — zu dieser Stunde?! Es ist halb ein Uhr morgens«, empfing uns Mylord mit einer so eindeutigen Feindseligkeit, daß nur Mac Borells amtliche Eigenschaft die Situation rettete.
 
 »Ich komme als Beamter von Scotland Yard, Mylord,« erklärte der Kaptain sehr dienstlich. »Sie kennen mich bereits … Hier mein Ausweis … Ich bitte, im Nebenzimmer das ganze Personal zusammenzurufen.«
 
@@ -102,7 +102,7 @@ Borell lehnte am Kamin. »Daß alle Dienstboten nebenan versammelt werden, alle,
 
 Der Butler Tom, sein voller Name lautete Tom Brisban, entfernte sich wieder mit recht bestürztem Gesicht.
 
-Harst hatte ohne Aufforderung in dem fünften leere Klubsessel Platz genommen. Der Lord warf ihm einen gereizten Blick zu, doch Harald meinte harmlos: »Verzeihen Sie, Mylord, ich bin müde. Man hat uns sehr brutal behandelt … Sehen Sie sich meine Handgelenke an.«
+Harst hatte ohne Aufforderung in dem fünften leeren Klubsessel Platz genommen. Der Lord warf ihm einen gereizten Blick zu, doch Harald meinte harmlos: »Verzeihen Sie, Mylord, ich bin müde. Man hat uns sehr brutal behandelt … Sehen Sie sich meine Handgelenke an.«
 
 Hamilton Greenham starrte wortlos auf die Rillen der Drähte und die geschwollene, zerschundene Haut. Mit sehr brüchiger Stimme bat er seine Tochter, ihm einen Whisky ohne Soda zu reichen und uns ebenfalls eine Erfrischung anzubieten.
 
@@ -114,7 +114,7 @@ Ich hatte das Gefühl, daß hier einer dem anderen nicht traute.
 
 Ich jedenfalls traute weder Lucy noch dem übereleganten Georg in dem lilaseidenen Schlafanzug, traute erst recht nicht Mac Borell, der seine Jockeyfigur lässig zur Schau stellte.
 
-Niemann sprach mehr. Der Lord stierte vor sich hin, und Mac zündete sich gleichmütig eine Zigarette an.
+Niemand sprach mehr. Der Lord stierte vor sich hin, und Mac zündete sich gleichmütig eine Zigarette an.
 
 Dann trat Tom Brisban, der Butler, ein und meldete Seiner Lordschaft, daß das Personal versammelt sei.
 
@@ -150,7 +150,7 @@ Lord Hamilton erklärte sofort: »Ich nicht … Ich lag im Bett und las. Ich hö
 
 »Wie lange lauschten Sie am Fenster, Mylord?«
 
-Hamilton Greenham zögerte. »Vielleicht fünf Minuten. Es wird oft im Park gewildert, Mr. Harsts.«
+Hamilton Greenham zögerte. »Vielleicht fünf Minuten. Es wird oft im Park gewildert, Mr. Harst.«
 
 »Allerdings!« nickte Harald anzüglich. »Gewildert! — Und die übrigen Herrschaften verschliefen die Schüsse?«
 
@@ -170,9 +170,9 @@ Der Lord blickte schnell zur Seite.
 
 »Weshalb?! — Wilddiebe pflegen doch nicht um diese Zeit die Schloßbewohner um einen Kamin zu versammeln?! — Bitte, Mylord, — weshalb diese Zusammenkunft hier?«
 
-Greenhams Stirn wurde kraus. Ein grimmer Blitz aus herrischen Augen traf Harald. »Mr. Harst, ob Sie berechtigt sind, hier den Inquisitor zu spielen, bezweifle ich. Ich lehne es ab, Ihnen fernerhin zu antworten. Kaptain Mac Borell, mit Ihnen ist es etwas anderes. Fragen Sie!«
+Greenhams Stirn wurde kraus. Ein grimmer Blitz aus herrischen Augen traf Harald. »Mr. Harst, ob Sie berechtigt sind, hier den Inquisitor zu spielen, bezweifle ich. Ich lehne es ab, Ihnen fernerhin zu antworten. Kaptain Mac Borell, mit Ihnen ist es etwas anderes. Fragen *Sie*!«
 
-Der berühmte Mac verneigte sich. »Harst frag für mich, Mylord!«
+Der berühmte Mac verneigte sich. »Harst fragt für mich, Mylord!«
 
 »Dann — — verweigere ich die Aussage,« brauste Greenham auf …
 
@@ -230,7 +230,7 @@ Mac und Harst tauschten einen schnellen Blick, den ich nicht recht zu deuten wu�
 
 Eine Weile herrschte peinvollstes Schweigen. Dann öffnete der Kaptain das Fenster, seine Pfeife schrillte, und sehr förmlich erklärte er Lucy und Georg für verhaftet … »… Wegen dringenden Verdachtes, gemeinsam einen Diebstahl und einen Mordversuch begangen zu haben. Aus Hinsicht auf Verdunklungsgefahr bleibt das Schloß von meinen Beamten besetzt.«
 
-Der Butler hatte sechs Herren in Zivil eingelassen
+Der Butler hatte sechs Herren in Zivil eingelassen.
 
 »Inspektor Channon, führen Sie die Verhafteten ab, nachdem diese ihren Anzug vervollständigt haben. Ich rate Ihnen, die beiden sehr scharf zu bewachen …« ordnete Mac äußerst dienstlich an.
 
@@ -258,9 +258,9 @@ Der Kaptain nahm Platz. »Schlafen?! Ich?! Lieber Harst, ich bin dafür bekannt,
 
 — Aber mit einem Schlage ließ Harald dann diese Maske fallen und fragte sehr gedämpft zu Mac Borell über den Tisch hin:
 
-»Mac, Ihre unzulänglichen Versuche, Lucy und Georg zu schützen, die Sie im Verdacht des Juwelendiebstahls und einer heimlichen Zusammenarbeit mir Feodor Orelli hatten, waren auf Ihr sehr reges persönliches Interesse für Lucy zurückzuführen. Ich will nicht von Liebe sprechen, aber zumindest von starker Zuneigung, und wo derartige Empfindungen mitspielen, wird man blind.«
+»Mac, Ihre unzulänglichen Versuche, Lucy und Georg zu schützen, die Sie im Verdacht des Juwelendiebstahls und einer heimlichen Zusammenarbeit mit Feodor Orelli hatten, waren auf Ihr sehr reges persönliches Interesse für Lucy zurückzuführen. Ich will nicht von Liebe sprechen, aber zumindest von starker Zuneigung, und wo derartige Empfindungen mitspielen, wird man blind.«
 
-»Allerdings. Ich war ein Narr!« — und der Kaptain lächelte etwas schmerzlich. »Freilich haben Sie sehr wenig dazu getan, mir rechtzeitig die Augen zu öffnen. Wer sind denn nun eigentlich die Schützen von der verflossenen Nacht mit den Dum—dum—Kugeln?! Daß die Läufe der beiden beschlagnahmten Waffen absichtlich verschmutzt sind, habe ich schon herausgefunden. Wer tat dies?«
+»Allerdings. Ich war ein Narr!« — und der Kaptain lächelte etwas schmerzlich. »Freilich haben Sie sehr wenig dazu getan, mir rechtzeitig die Augen zu öffnen. Wer sind denn nun eigentlich die Schützen von der verflossenen Nacht mit den Dum-dum-Kugeln?! Daß die Läufe der beiden beschlagnahmten Waffen absichtlich verschmutzt sind, habe ich schon herausgefunden. Wer tat dies?«
 
 Harald blickte durch die Fenster über die felsigen Buchtgestaden hin. »Gab es im Januar in London eine Grippeepidemie, Mac?«
 
@@ -274,7 +274,7 @@ Mac wurde rot vor Ärger. »Zum Teufel, Harst, reden Sie vernünftig!!«
 
 Borell lehnte sich plötzlich zurück.
 
-»Ah, mir geht ein Licht auf, Harst …! — Es waren also in der verflossenen Nacht vier Wilddiebe in dem Park, — je zweimal zwei!! — Und weshalb ließen Sie die Verhaftung zu?!«
+»Ah, mir geht ein Licht auf, Harst …! — Es waren also in der verflossenen Nacht *vier* Wilddiebe in dem Park, — je zweimal zwei!! — Und weshalb ließen Sie die Verhaftung zu?!«
 
 »Weil das zweite Paar Wilddiebe vor nicht zurückschreckt, und weil das neue Polizeigefängnis von Wingarden der sicherste Aufenthalt für das Brautpaar ist. Ich denke, wir haben genug zu tun, uns drei am Leben zu erhalten.«
 
@@ -308,13 +308,13 @@ Mac beeilte sich sehr, und als er wieder bei uns Platz genommen hatte, fragte er
 
 »Bestimmt nach Helgoland,« erklärte Harald. »In Helgoland muß sich eine Filiale der Hehlerbande befinden, die nebenbei auch zweifellos Schmuggel im Großen betreibt. Seit England gewisse Waren mit hohem Zoll belegt hat, lohnt der Schmuggel wieder.«
 
-Mac Borell hatte eine Bewegung der Überraschung nicht unterdrücken können. »Teufel noch mal, da haben Sie recht, Harst! Hehlerei und Schmuggel sind so verwandte ›Geschäftsarten‹, daß sie die gleiche Organisation und die gleichen Mittel verlangen. — Und die Pappmarken mit den Löchern am Rande? Sind das wirklich nur Erkennungszeichen? Die erste fand ich bei der Leiche des berüchtigten Toy Roß in dessen Hosenumschlag, die zweite erhielten Sie von Miß Beate Hartwich in Berlin. Einer der Engländer, die dem Arthur Schmelz zu den Börsengewinnen verhalfen, hatte sie … — — Hallo, was gibt‹s, Channon?!«
+Mac Borell hatte eine Bewegung der Überraschung nicht unterdrücken können. »Teufel noch mal, da haben Sie recht, Harst! Hehlerei und Schmuggel sind so verwandte ›Geschäftsarten‹, daß sie die gleiche Organisation und die gleichen Mittel verlangen. — Und die Pappmarken mit den Löchern am Rande? Sind das wirklich nur Erkennungszeichen? Die erste fand ich bei der Leiche des berüchtigten Toby Roß in dessen Hosenumschlag, die zweite erhielten Sie von Miß Beate Hartwich in Berlin. Einer der Engländer, die dem Arthur Schmelz zu den Börsengewinnen verhalfen, hatte sie … — — Hallo, was gibt‹s, Channon?!«
 
 Der lange Detektivinspektor stand neben unserem Tisch. »Kaptain, soeben Meldung aus London: In der verflossenen Nacht ist das Juweliergeschäft von Grieser &amp; Co in Park Lane ausgeplündert worden. Der Einbruch dürfte bereits um zehn Uhr abends stattgefunden haben … Es sind nur die wertvollsten Stücke geraubt worden.«
 
 Mac schaute Harald an. »Bei mir dämmert es immer mehr, Harst,« flüsterte er verbissen. »Es ist gut, Channon … Daß mir keiner vom Zirkus Orelli unbeobachtet bleibt!!«
 
-»Nicht eine dressierte Maus entkommt!« erklärte der Inspektor und stelzt davon.
+»Nicht eine dressierte Maus entkommt!« erklärte der Inspektor und stelzte davon.
 
  
 
@@ -332,13 +332,13 @@ Auch Harald rauchte, antwortete nicht sofort, sondern zog die Pappmarke hervor. 
 
 »Was für ein Schlüssel?! Chiffreschlüssel?!«
 
-»Nein, ein richtiger Schlüssel, Mac … Betrachten Sie das Ding genau, ganz genau. Versuchen Sie es einmal zu biegen. — Sehen Sie, es hat eine unsichtbare Einlage eines ganz leichten Metalls, es besteht aus drei Schichten: Pappe, Metall, Pappe. — Das Metall könnten Sie feststellen, wenn Sie mit der kleinen Klinge eines Taschenmessers in einem der Löcher kräftig bohren. Dann hören Sie das Kratzen. Und die Löcher?!«
+»Nein, ein richtiger Schlüssel, Mac … Betrachten Sie das Ding genau, ganz genau. Versuchen Sie es einmal zu biegen. — Sehen Sie, es hat eine unsichtbare Einlage eines ganz leichten Metalls, es besteht aus drei Schichten: Pappe, Metall, Pappe. — Das Metall könnten Sie feststellen, wenn Sie mit der kleinen Klinge eines Taschenmessers in einem der Löcher kräftig bohren. Dann *hören* Sie das Kratzen.«
 
-»… Diese Löcher, Mac, im ganzen acht, sind so angeordnet, daß, wenn man vier davon zum Oberrand aufmerksam betrachtet, zwischen je zweien ein größerer Abstand sich befindet, während bei der anstoßenden Kante die Löcher gleichmäßig verteilt sind. In diese Löcher, behaupte ich, passen dünne Zapfen eines besonderen Patentschlosses hinein, und derjenige, der diese Zapfen als ›Schloß‹ erkennt und dies Pappstück benutzt, wird in eine Ali Baba-Höhle gelangen — — oder dergleichen: Räuberhöhle, Hehlernest, Beutekammer, wie sie es nennen wollen. — Kapiert?!«
+»Und die Löcher?!«
 
-»Ja!«
+»… Diese Löcher, Mac, im ganzen acht, sind so angeordnet, daß, wenn man vier davon zum Oberrand aufmerksam betrachtet, zwischen je zweien ein größerer Abstand sich befindet, während bei der anstoßenden Kante die Löcher gleichmäßig verteilt sind. In diese Löcher, behaupte ich, passen dünne Zapfen eines besonderen Patentschlosses hinein, und derjenige, der diese Zapfen als ›Schloß‹ erkennt und dies Pappstück benutzt, wird in eine Ali Baba-Höhle gelangen — — oder dergleichen: Räuberhöhle, Hehlernest, Beutekammer, wie Sie es nennen wollen. — Kapiert?!«
 
-Mac schien begeistert. »Und wo befindet sich dieses besondere Patentschloß?«
+»Ja!« Mac schien begeistert. »Und wo befindet sich dieses besondere Patentschloß?«
 
 Harald erhob sich. »Draußen!« erwiderte er zweideutig. »Gehen wir zum Nordkap, Mac … Nur ein Verdauungsspaziergang …«
 
@@ -346,7 +346,7 @@ Am Hafen unten begrüßte uns der vergnügt grinsende alte Fischer Beef. »Na, d
 
 »Abends, Beef, abends …! Aber Mund halten! Diesmal könnten Sie zwanzig Pfund verdienen.«
 
-Wir schritten weiter. Harald blätterte in einem der von der Kurverwaltung herausgegebenen Prospekt.
+Wir schritten weiter. Harald blätterte in einem der von der Kurverwaltung herausgegebenen Prospekte.
 
 »Lieber Mac,« meinte er durchaus ernst, »ich habe schon immer betont, daß ein Detektiv ohne Phantasie stets ein kläglicher Paragraphenhengst bleiben wird, ein Theoretiker und Stümper. Lesen Sie mal hier und da ›Sehenswürdigkeiten Wingardens‹. Da steht zum Beispiel: ›Die kleinen Inseln sind fünf Meilen von der Küste entfernt und bergen eine interessante Erinnerung an den Weltkrieg. Dort liegt eingekeilt zwischen Klippen das Wrack des Kreuzers ›Lord Kitchener‹, das von der Regierung Denkmalschutz genießt. Der Kreuzer wurde am 18. Oktober 1915 von einem deutschen U-Boot torpediert und von dem Kommandanten mit größter Bravour zwischen die Klippen gesetzt. Das Heck hängt völlig im Wasser. Das Betreten des Wracks ist verboten. Es bietet jedoch einen recht denkwürdigen Anblick dar.‹ Nun …?«
 
@@ -374,13 +374,11 @@ Harst rief hastig: »Weg hier von der Bank! Dort hinter die Steine! Hinlegen, Ma
 
 Er zog dann ein Fernglas unter dem Ulster hervor. Auch der Kaptain hatte ein Glas dabei.
 
-»Achtung jetzt! Da ist auch der junge Orelli! Das Theater wird sofort beginnen! Geben Sie dann scharf acht, — die am vergangenen Abend in London erbeuteten Steine werden nun ›deponiert‹ werden. Ein Glück, daß Georg Greenham und Lucy und der Lord dem entdeckten Trick mit der Bauchfalte des Känguruhs so sorgsam verschwiegen haben, die Bande ist ahnungslos geblieben, — — sahen Sie, Mac, soeben massierte Herr Feodor zwei Tiere den Bauch, und jetzt — — dachte ich es mir doch!! — — scheint Orelli zwischen den Felsen im Wasser Muscheln suchen … Auch wir werden suchen, allerdings anderswo … — Sind Ihnen die Dinge klar, lieber Mac? Als der Lord mir von dem Juwelenbeutel im Känguruhbauch erzählte, fiel mir sofort die bekannte Geschichte des Dompteurs und Edelsteinenschmugglers Barnali ein, der in New York abgefaßt wurde. Das liegt ein Jahr zurück. Auch Barnali operierte mit Känguruhs. Die Bauchtasche eines Känguruhs fast eine gehörige Menge Edelsteine. —
+»Achtung jetzt! Da ist auch der junge Orelli! Das Theater wird sofort beginnen! Geben Sie dann scharf acht, — die am vergangenen Abend in London erbeuteten Steine werden nun ›deponiert‹ werden. Ein Glück, daß Georg Greenham und Lucy und der Lord dem entdeckten Trick mit der Bauchfalte des Känguruhs so sorgsam verschwiegen haben, die Bande ist ahnungslos geblieben, — — sahen Sie, Mac, soeben massierte Herr Feodor zwei Tieren den Bauch, und jetzt — — dachte ich es mir doch!! — — scheint Orelli zwischen den Felsen im Wasser Muscheln suchen … Auch wir werden suchen, allerdings anderswo … — Sind Ihnen die Dinge klar, lieber Mac? Als der Lord mir von dem Juwelenbeutel im Känguruhbauch erzählte, fiel mir sofort die bekannte Geschichte des Dompteurs und Edelsteinschmugglers Barnali ein, der in New York abgefaßt wurde. Das liegt ein Jahr zurück. Auch Barnali operierte mit Känguruhs. Die Bauchtasche eines Känguruhs fast eine gehörige Menge Edelsteine. — Aha, — Herr Feodor ist fertig … Dieses Vormittagsbad der Tiere ist Bluff, ist Mittel zum Zweck. Er treibt die Känguruhs wieder davon, genau wie er sie nach den Abendveranstaltungen für einige Zeit auf die gepachtete Weide dicht an der Parkmauer treibt, — das weiß ich von dem Farmer Beef, und das ist auch Bluff … Man sagt immer, die Wirklichkeit dichte nur ganz schlichte Kriminalfälle, — wer das behauptet, liest keine Auslandszeitungen. Die heutigen Großverbrecher haben mehr Phantasie zum Einnebeln ihrer Absichten, als der Polizei lieb ist.«
 
-Ach, — Herr Feodor ist fertig … Dieses Vormittagsbad der Tiere ist Bluff, ist Mittel zum Zweck. Er treibt die Känguruhs wieder davon, genau wie er sie nach den Abendveranstaltungen für einige Zeit auf die gepachtete Weide dicht an der Parkmauer treibt, — das weiß ich von dem Farmer Beef, und das ist auch Bluff … Man sagt immer, die Wirklichkeit dichte nur ganz schlichte Kriminalfälle, — wer das behauptet, liest keine Auslandszeitungen. Die heutigen Großverbrecher haben mehr Phantasie zum Einnebeln ihrer Absichten, als der Polizei lieb ist.«
+»Stimmt!!« Mac war Feuer und Flamme. Er drängte darauf, das Planschbecken sofort zu untersuchen.
 
-»Stimmt!!« Mac war Feuer und Flamme. Er drängte darauf, daß Planschbecken sofort zu untersuchen.
-
-Harald lehnte ab. »Mein Lieber, ich bin ja nur ein schlichter Privatmann mit etwas abenteuerlichen Neigungen, die jetzt wieder durch den Tod meiner Mutter eine starke Verschärfung zu Ungunsten der Rechtsbrecher erfahren haben. Nein, wir bleiben … Ich habe aufgepaßt, wir sind nicht verfolgt worden, die Bande fühlt sich sicher, übermorgen will der Zirkus nach dem eine Meile entfernten Küstenstädtchen Holky übersiedeln. — Seit Monaten treibt der Zirkus sich hier in den Strandorten umher. Aber diese Übersiedlung werden Sie leiten, Mac, — — nach London ins Gefängnis. — Geduld, mein Lieber … Es gibt noch mehr zu beobachten. Warten wir. Meine Vorbereitungen sind getroffen. Die Taube, die das Schmugglerschiffe in Helgoland zurückhalten sollte, ist erschossen worden … Das Schiff kommt in dieser Nacht. Bestellen Sie nachher von London die allerschnellste Polizeijacht, die schwer bewaffnet sein muß. — — Achtung, Mac …!! Sehen Sie die Fahnenstange auf der Tennishalle, die jetzt Zirkus ist? Ein Wimpel steigt hoch … Begreifen Sie? Ein Signal für I 4.«
+Harald lehnte ab. »Mein Lieber, ich bin ja nur ein schlichter Privatmann mit etwas abenteuerlichen Neigungen, die jetzt wieder durch den Tod meiner Mutter eine starke Verschärfung zu Ungunsten der Rechtsbrecher erfahren haben. Nein, wir bleiben … Ich habe aufgepaßt, wir sind nicht verfolgt worden, die Bande fühlt sich sicher, übermorgen will der Zirkus nach dem eine Meile entfernten Küstenstädtchen Holky übersiedeln. — Seit Monaten treibt der Zirkus sich hier in den Strandorten umher. Aber diese Übersiedlung werden *Sie* leiten, Mac, — — nach London ins Gefängnis. — Geduld, mein Lieber … Es gibt noch mehr zu beobachten. Warten wir. Meine Vorbereitungen sind getroffen. Die Taube, die das Schmugglerschiff in Helgoland zurückhalten sollte, ist erschossen worden … Das Schiff kommt in dieser Nacht. Bestellen Sie nachher von London die allerschnellste Polizeijacht, die schwer bewaffnet sein muß. — — Achtung, Mac …!! Sehen Sie die Fahnenstange auf der Tennishalle, die jetzt Zirkus ist? Ein Wimpel steigt hoch … Begreifen Sie? Ein Signal für I 4.«
 
 Mac lachte bissig. »Kann mir denken, was geschehen wird … Vielleicht erscheint die Mimikryjacht, die Sie beschoß… — Ja, natürlich bin ich davon unterrichtet … Wir sind auch auf dem Posten, Harst.«
 
@@ -390,7 +388,7 @@ Mac lachte bissig. »Kann mir denken, was geschehen wird … Vielleicht erschein
 
 »Über Helgoland nach Berlin zum Beispiel — die Brieftauben!!« nickte Harst und kroch zurück.
 
-Wir spielten wieder die müßigen Spaziergänger und kehrten auf Umwegen zum Hotel zurück. Unterwegs kam das Gespräch nochmals auf die ›Weide‹ des Känguruhs und auf den von dem Tennismatador Stuart Orpinkton gepachteten und an Orelli weiter verpachteten Geräteschuppen. Harald erklärte so nebenbei: »Orpinkton ist auch Tauben—züchter, — Liebhaberei … Orpinkton hat dort seinen Garderobenschrank stehen … — Großzügige Leute!! Ein Zirkus als Verbrecherbande ist ebenfalls nicht alltäglich.«
+Wir spielten wieder die müßigen Spaziergänger und kehrten auf Umwegen zum Hotel zurück. Unterwegs kam das Gespräch nochmals auf die ›Weide‹ des Känguruhs und auf den von dem Tennismatador Stuart Orpinkton gepachteten und an Orelli weiter verpachteten Geräteschuppen. Harald erklärte so nebenbei: »Orpinkton ist auch Taubenzüchter, — Liebhaberei … Orpinkton hat dort seinen Garderobenschrank stehen … — Großzügige Leute!! Ein Zirkus als Verbrecherbande ist ebenfalls nicht alltäglich.«
 
 Und wieder machte da Mac Borell in den Anlagen halt und flüsterte eindringlich: »Harst, — gut, Orpinkton, der Sekretär, ist einer der Schufte im Schloß. Wer ist der zweite?«
 
@@ -406,7 +404,7 @@ Des Kaptains Kopf flog hoch. »Gegen wen?!«
 
 »Na nu?! Das ist mir unverständlich, Harst … Georg und der Sekretär schienen befreundet.«
 
-»Schienen …!! Und doch haßt dieser Orpinkton den Erben des Lordtitels, und das ist Georg, wie die Sünde, — nein, wie die Ehrlichkeit, denn an Stuart Orpinkton ist alles morsch und faul. — Sie werden den Sekretär und den Butler abends neun Uhr in aller Stille verhaften, Mac. — Wir nehmen die Burschen dann mit auf Beefs Kutter. Abends wird es regnen, der Himmel bewölkt sich immer mehr. Und die bewaffnete Polizeijacht bestellen Sie für zehn Uhr ohne Lichter drei Seemeilen südwärts der Inseln … Ich habe seit langem kein richtiges Piratenstückchen mitgemacht, — — heute hoffe ich darauf!«
+»Schienen …!! Und doch haßt dieser Orpinkton den Erben des Lordtitels, und das ist Georg, wie die Sünde, — nein, wie die Ehrlichkeit, denn an Stuart Orpinkton ist alles morsch und faul. — Sie werden den Sekretär und den Butler abends neun Uhr in aller Stille verhaften, Mac. — Wir nehmen die Burschen dann mit auf Beefs Kutter. Abends wird es regnen, der Himmel bewölkt sich immer mehr. Und die bewaffnete Polizeijacht bestellen Sie für zehn Uhr *ohne* Lichter drei Seemeilen südwärts der Inseln … Ich habe seit langem kein richtiges Piratenstückchen mitgemacht, — — heute hoffe ich darauf!«
 
 Aber der unersättliche Mac war noch immer nicht zufrieden gestellt. »Harst, — noch eins. Wer waren die Engländer in Berlin, die den Brieftaubendiebstahl vorbereiteten und nachher …«
 
@@ -416,7 +414,7 @@ Mac schaute Harald verblüfft an. »Wieder Orpinkton und der Butler?!«
 
 »Wer sonst?! — Dieser Besuch in Berlin hat immerhin ein Gutes gehabt. Der Schwächling Arthur Schmelz, der sich so prompt einwickeln ließ, wird nun wohl durch Beate Hartwig gänzlich umgeknetet werden. Ein tüchtiges Mädel!!«
 
-— Als wir unsere Zimmer im ›Palast—Hotel‹ betraten, saß da ein alter Herr mit grauem Bart, Hornbrille, Säufernase und wollenen Handschuhen. Zwischen seinen Füßen stand ein schäbiger kleiner Koffer.
+— Als wir unsere Zimmer im Palast-Hotel betraten, saß da ein alter Herr mit grauem Bart, Hornbrille, Säufernase und wollenen Handschuhen. Zwischen seinen Füßen stand ein schäbiger kleiner Koffer.
 
 Harald schloß schnell die Tür.
 
@@ -456,13 +454,13 @@ Mr. Orpinkton, sehr elegant, sehr förmlich, nahm Platz.
 
 »Keineswegs …«, meinte Harald gleichgültig.
 
-Orpinkton tat erstaunt. »Hm, — darf ich einmal in Vertrauen mit Ihnen sprechen? Lady Lucy und Sir Georg haben bisher nicht einmal Haftbeschwerde eingelegt, und der Lord ist überzeugt, daß die beiden gestern nacht auf die Känguruhs oder besser auf Sie und Mr. Schraut schießen wollten.«
+Orpinkton tat erstaunt. »Hm, — darf ich einmal im Vertrauen mit Ihnen sprechen? Lady Lucy und Sir Georg haben bisher nicht einmal Haftbeschwerde eingelegt, und der Lord ist überzeugt, daß die beiden gestern nacht auf die Känguruhs oder besser auf Sie und Mr. Schraut schießen wollten.«
 
 »Die beiden schossen auch,« bestätigte Harst sehr ernst. »Die beiden werden in kurzem baumeln.«
 
 »Oh — — nicht doch!! Eines Diebstahles wegen?!«
 
-»Und Mordversuchs wegen! Die beiden sind reif, überreif.«
+»*Und* Mordversuchs wegen! Die beiden sind reif, überreif.«
 
 Orpinkton hüstelte. »Lady Lucy ist dabei bestimmt nur die Verführte, Mr. Harst. Ich wollte Sie bitten, Ihren Einfluß auf Kaptain Borell geltend zu machen, damit sie aus der Haft entlassen wird. Bedenken Sie, — eine Dame im Polizeigefängnis!! Alle Zeitungen sind davon voll.«
 
@@ -482,7 +480,7 @@ Harald hatte die Augen überall.
 
 »Wirklich, — — unechte Steine?!«
 
-»Natürlich. Dies festzustellen, fuhr ich nach dem Schloß. Meine Wachsamkeit hier auf diesem Privatweg gilt anderen Dingen, mein lieber Alter. Dort vor uns münde die Chaussee von London in diesen Privatweg, und Beate und ihr Verlobter stecken niemals in Wingarden, sondern hier irgendwo. — Hallo, — — was ist los?! Dort ragt ja ein morsches Dach über die Klippen, und hier am Wegrand, — — bittet — eine Doppelspur, eine Frau dabei!«
+»Natürlich. Dies festzustellen, fuhr ich nach dem Schloß. Meine Wachsamkeit hier auf diesem Privatweg gilt anderen Dingen, mein lieber Alter. Dort vor uns mündet die Chaussee von London in diesen Privatweg, und Beate und ihr Verlobter stecken niemals in Wingarden, sondern hier irgendwo. — Hallo, — — was ist los?! Dort ragt ja ein morsches Dach über die Klippen, und hier am Wegrand, — — bitte: — eine Doppelspur, eine Frau dabei!«
 
 Er blickte sich vorsichtig nach allen Seiten um, dann sprang er über den Graben, und gleich darauf standen wir vor einer massiven, versteckten Hütte, die so hoch gelegen war, daß man vom Dach die ganze Strandlinie überschauen konnte.
 
@@ -508,7 +506,7 @@ Mac machte große Augen.
 
 <h2>5. Kapitel</h2>
 
-<h3>Die Nacht von 23. zum 24. Februar.</h3>
+<h3>Die Nacht vom 23. zum 24. Februar.</h3>
 
 Um acht Uhr abends hielt ein Polizeiauto vor dem Ortsgefängnis, — ein ganz großer Überfallwagen.
 
@@ -530,11 +528,11 @@ Da erst grinste Brisban frech. »Schmelz?! Sucht ihn!«
 
 »Das werden wir, Brisban …«
 
-Und er legte vor die beiden Kumpane die Schlüsselmarken nieder. »Ihr beide glaubt, den Hals noch aus der Schlinge ziehen zu können. Dies Pappstück ist mein Schlüssel zu irgend einem von euch im Wrack des ›Lord Kitchener‹ eingerichteten Geheimraum, — Hehlerversteck, Schmugglerdepot … — Eure Brieftaube wurde abgeschossen, und die Warnung kam nicht an, also wird euer Schiff heute Nacht hier abgefaßt werden.«
+Und er legte vor die beiden Kumpane die Schlüsselmarken nieder. »Ihr beide glaubt, den Hals noch aus der Schlinge ziehen zu können. Dies Pappstück ist mein Schlüssel zu irgend einem von euch im Wrack des ›Lord Kitchener‹ eingerichteten Geheimraum, — Hehlerversteck, Schmugglerdepot … — Eure Brieftaube wurde abgeschossen, und die Warnung kam *nicht* an, also wird euer Schiff heute nacht hier abgefaßt werden.«
 
 Brisban leckte sich die Lippen. Dann brach es aus ihm heraus:
 
-»Mr. Harst,« — — — »Orpinkton beging die Morde,« erklärte er heiser »Tody Roß schoß er nieder, weil Tody für die Sachen zu viel verlangte, und …«
+»Mr. Harst,« — — »Orpinkton beging die Morde,« erklärte er heiser. »Toby Roß schoß er nieder, weil Toby für die Sachen zu viel verlangte, und …«
 
 Mr. Stuart Orpinkton brüllte dazwischen: »Alles Lüge! Alles!! Ich werde ein Geständnis ablegen, Kaptain Mac, ich biete mich als Kronzeuge an … Dann rette ich nach englischem Gesetz wenigstens das Leben.«
 
@@ -548,7 +546,7 @@ Lautlos geht es über nasse Treppen zum Heck, das tief im Wasser liegt …
 
 Nur zuweilen blitzt flüchtig eine Taschenlampe auf …
 
-Dann mach Brisban, unser Führer, in einem schmalen Gang halt, der hinten voller Wasser ist.
+Dann macht Brisban, unser Führer, in einem schmalen Gang halt, der hinten voller Wasser ist.
 
 An der Seite der Steilwände ragen acht kleine Zapfen aus einer der scheinbar fest vernieteten Platten heraus. — Wir wissen, die Bande hat einen Teil der Heckräume leergepumpt und sorgsam abgedichtet, — ein wunderbares Versteck, ein Versteck unter Wasser.
 
@@ -564,7 +562,7 @@ In einem Nebenraum sitzen Beate und der Schmelztiegel. Fred bringt sie schnell i
 
 Orpinkton-Relli ist tot, Brisban schwer verletzt.
 
-Wir überlassen ihn und das Brautpaar der Fürsorge Inspektor Channos und stechen wieder in See.
+Wir überlassen ihn und das Brautpaar der Fürsorge Inspektor Channons und stechen wieder in See.
 
 Es regnet …
 
@@ -576,7 +574,7 @@ Ein Kanonenschuß donnert …
 
 Noch einer …
 
-Der Schmuggler stoppt … Um Polizei kletterte an Deck, findet keinen Widerstand, und Kaptain Mac darf den größten Erfolg seiner amtlichen Laufbahn buchen. — —
+Der Schmuggler stoppt … Polizei kletterte an Deck, findet keinen Widerstand, und Kaptain Mac darf den größten Erfolg seiner amtlichen Laufbahn buchen. — —
 
 Wenden wir uns freundlicheren Bildern zu. —
 
@@ -588,17 +586,15 @@ Mylord führt das Gespräch, — über die unangenehmen Dinge fällt vorläufig 
 
 Zigarren und Zigaretten lösen sich in kleine Wölkchen auf und schweben zwischen Kübelpalmen. Mokka duftet … Aller Augen hängen an Harst.
 
-»Aufklärungen, Mylord?! Das würde sich doch erübrigen. Der Fall Känguruh ist abgetan, der Hauptschuldige ist tot, die anderen verhaftet. Nein, ich wollte hier nur noch auf einige rein psychologische Tatbestandsmerkmale hinweisen, die allerdings das Dunkel noch mehr oder völlig lichten.
-
-Brisbans Geständnis über den Zweck der Känguruhweide unweit der Parkmauer und über das sogenannte Gespensterkänguruh entspricht der Wahrheit, — nämlich soweit er selbst eingeweiht war. Er hat angegeben, daß Londoner Gauner sich von Wingarden mit ihren Beutestücken fernhalten und diese entweder den Bauchtasche der Beuteltiere oder einem Versteck auf der Weide anvertrauen sollte, während das Gespenstertier nur Neugierige abschrecken sollte. Dies trifft in der Hauptsache nicht ganz zu.«
+»Aufklärungen, Mylord?! Das würde sich doch erübrigen. Der Fall Känguruh ist abgetan, der Hauptschuldige ist tot, die anderen verhaftet. Nein, ich wollte hier nur noch auf einige rein psychologische Tatbestandsmerkmale hinweisen, die allerdings das Dunkel noch mehr oder völlig lichten. Brisbans Geständnis über den Zweck der Känguruhweide unweit der Parkmauer und über das sogenannte Gespensterkänguruh entspricht der Wahrheit, — nämlich soweit er selbst eingeweiht war. Er hat angegeben, daß Londoner Gauner sich von Wingarden mit ihren Beutestücken fernhalten und diese entweder den Bauchtaschen der Beuteltiere oder einem Versteck auf der Weide anvertrauen sollten, während das Gespenstertier nur Neugierige abschrecken sollte. Dies trifft in der Hauptsache nicht ganz zu.«
 
 Seine Augen begegneten denen Lady Lucys, und das junge Mädchen wurde merklich nervös.
 
-»Nein,« fuhr er noch bedächtiger fort, »Jacques Relli alias Orpinkton wollte Sie verderben, Sir Georg, weil er um jeden Preis Lady Lucy erringen wollte, denn er liebte sie auf seine Art bis zur leichtfertigen Tollheit. Diese Tollheit ließ ihn schwere Fehler begehen. — Ist er Ihnen gegenüber nicht etwas zudringlich geworden, Lady Lucy?«
+»Nein,« fuhr er noch bedächtiger fort, »Jacques Relli alias Orpinkton wollte *Sie* verderben, Sir Georg, weil er um jeden Preis Lady Lucy erringen wollte, denn er liebte sie auf seine Art bis zur leichtfertigen Tollheit. Diese Tollheit ließ ihn schwere Fehler begehen. — Ist er Ihnen gegenüber nicht etwas zudringlich geworden, Lady Lucy?«
 
 Sie errötete tief und nickte widerwillig.
 
-»… Ich kann mir denken, Lady Lucy, weshalb Sie sich dies gefallen ließen. Er wird Ihnen versteckt mit Enthüllungen über Sir Georgs Spielerleidenschaft gedroht haben. Ihr Vater war ja mit dieser Ihrer Verlobung nicht ganz einverstanden, und darauf baute er seine weiteren niederträchtigen Pläne auf. Sir Georg sollte als Dieb der Familienkleinodien hingestellt werden, und nur deshalb pachtete Rellis Vater die Weide … Jacques Relli stahl die Juwelen, verbarg sie in der Bauchtasche eines der Känguruhs und trieb das Tier vor Sir Georg Büchse. — Weshalb?! Der Schuß sollte Sie, Mylord, aufmerksam machen, Sie sollten Sir Georg mit dem Juwelensäckchen antreffen, — Sie sollten mißtrauisch werden. — Ein teuflischer Plan, der ebenso teuflisch weiter ausgesponnen wurde, wie wir wissen. Die Schmucksachen verschwanden abermals, Brisban fand sie in Sir Georgs Vase, — — aber … Verliebte vom Schlage Rellis überspannen den Bogen und begehen Fehler. Und so mußte denn auch dieses Ränkespiel aufgedeckt werden, weil es zu viel schwache Stellen hatte … Das Unsinnigste waren die Schüsse auf die gemalten Känguruhs …«
+»… Ich kann mir denken, Lady Lucy, weshalb Sie sich dies gefallen ließen. Er wird Ihnen versteckt mit Enthüllungen über Sir Georgs Spielerleidenschaft gedroht haben. Ihr Vater war ja mit dieser Ihrer Verlobung nicht ganz einverstanden, und darauf baute er seine weiteren niederträchtigen Pläne auf. Sir Georg sollte als Dieb der Familienkleinodien hingestellt werden, und nur deshalb pachtete Rellis Vater die Weide … Jacques Relli stahl die Juwelen, verbarg sie in der Bauchtasche eines der Känguruhs und trieb das Tier vor Sir Georgs Büchse. — Weshalb?! Der Schuß sollte Sie, Mylord, aufmerksam machen, Sie sollten Sir Georg mit dem Juwelensäckchen antreffen, — Sie sollten mißtrauisch werden. — Ein teuflischer Plan, der ebenso teuflisch weiter ausgesponnen wurde, wie wir wissen. Die Schmucksachen verschwanden abermals, Brisban fand sie in Sir Georgs Vase, — — aber … Verliebte vom Schlage Rellis überspannen den Bogen und begehen Fehler. Und so mußte denn auch dieses Ränkespiel aufgedeckt werden, weil es zu viel schwache Stellen hatte … Das Unsinnigste waren die Schüsse auf die gemalten Känguruhs …«
 
 Abermals blickte er Lucy und Georg nachdenklich an.
 
@@ -608,11 +604,14 @@ Abermals blickte er Lucy und Georg nachdenklich an.
 
 Drei Tage darauf waren wir daheim. Die gestohlenen Brieftauben, deren Verlust dem braven Herrn Hartwich so nahe gegangen war, wurden in der Berliner Hehlerfiliale der Känguruhbande aufgefunden, genau wie die Polizei auf Helgoland ein Schmugglernest größten Umfanges entdeckt hatte. Daß sowohl wir, wie unser Famulus Fred und auch Beate mit ihrem nunmehr kurierten Arthur Schmelz bei der ganzen Geschichte recht gut abschnitten, sei nur nebenbei erwähnt.
 
-Fred Steen hat Herrn Schmelz nie mehr wegwerfend als unbrauchbaren Schmelztiegel bezeichnet, und Beate, verehelichte Schmelz, wird aus ihrem Männe sicherlich noch einen ganzen Mann zurechtdoktern. Das Zeug dazu hat sie …
+Fred Steen hat Herrn Schmelz nie mehr wegwerfend als unbrauchbaren Schmelztiegel bezeichnet, und Beate, verehelichte Schmelz, wird aus ihrem Männe sicherlich noch einen *ganzen* Mann zurechtdoktern. Das Zeug dazu hat sie …
 
 Harald meinte letztens, bei all seiner Courage hätte er es nicht riskiert, Beate zu heiraten …
 
 »Pantoffelhelden, mein lieber Alter, sind nun einmal keine Helden …«
 
-Aber das können wir nicht so recht beurteilend, wir sind bei allzeit Junggesellen gewesen …
+Aber das können wir nicht so recht beurteilend, wir sind allzeit Junggesellen gewesen …
+
+<#import "*/harst.ftl" as harst>
+<@harst.naechsterband band="Pfandleiher Immertod."/>
 
