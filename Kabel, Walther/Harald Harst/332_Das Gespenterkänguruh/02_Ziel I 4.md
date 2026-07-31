@@ -60,7 +60,7 @@ Mac Borell lachte eigentümlich …
 
 »Hörtet ihr die Kugeleinschläge in eure Bäume, Harst?!«
 
-»Ich hörte sie … Es war ein gemeiner Streich, wirklich,« knurrte Harald und knetete seine geschwollenen Handgelenke. »Der alte Ben Akiba mit seinem berühmten Spruch ‚alles schon dagewesen’ behält trotzdem zur Hälfte recht. Schraut und mir ist es bereits zweimal begegnet, daß wir durch Hinterlist von Leuten auf ähnliche Weise abgeknallt werden sollten, die der Sachlage nach auf unserer Seite standen. — Ich danke Ihnen, lieber Mac … Sie müssen ja unglaublich gerannt sein, um noch zur rechten Zeit zu kommen.«
+»Ich hörte sie … Es war ein gemeiner Streich, wirklich,« knurrte Harald und knetete seine geschwollenen Handgelenke. »Der alte Ben Akiba mit seinem berühmten Spruch ›alles schon dagewesen‹ behält trotzdem zur Hälfte recht. Schraut und mir ist es bereits zweimal begegnet, daß wir durch Hinterlist von Leuten auf ähnliche Weise abgeknallt werden sollten, die der Sachlage nach auf unserer Seite standen. — Ich danke Ihnen, lieber Mac … Sie müssen ja unglaublich gerannt sein, um noch zur rechten Zeit zu kommen.«
 
 Borell trocknete sich Stirn und Gesicht von dem reichlich rinnendem Schweiß.
 
@@ -78,7 +78,7 @@ Doch Harst drückte nochmals Borells Hand. »Wie fanden Sie unsere Fährte, Mac?
 
 Er schritt um den Baum herum.
 
-Der Stoff seiner ‚Scheibe’ hatte in Brusthöhe zwei Kugellöcher, — genau so verhielt es sich bei meinem Vorhang.
+Der Stoff seiner ›Scheibe‹ hatte in Brusthöhe zwei Kugellöcher, — genau so verhielt es sich bei meinem Vorhang.
 
 »Gute Schützen!« nickte Harst. »Wir hätten einen leichten Tod gehabt … — Es waren Dum-dum-Geschosse, hier sind die Einschüsse in die Baumrinde! — — Kanaillen!!«
 
@@ -106,7 +106,7 @@ Harst hatte ohne Aufforderung in dem fünften leere Klubsessel Platz genommen. D
 
 Hamilton Greenham starrte wortlos auf die Rillen der Drähte und die geschwollene, zerschundene Haut. Mit sehr brüchiger Stimme bat er seine Tochter, ihm einen Whisky ohne Soda zu reichen und uns ebenfalls eine Erfrischung anzubieten.
 
-Die Atmosphäre hier in dem großen düsteren Raum mit dem knisternden Kaminfeuer war am besten mit ‚Katastrophenstimmung’ gekennzeichnet.
+Die Atmosphäre hier in dem großen düsteren Raum mit dem knisternden Kaminfeuer war am besten mit ›Katastrophenstimmung‹ gekennzeichnet.
 
 Finstere Feindseligkeit lagerte über uns allen.
 
@@ -308,7 +308,7 @@ Mac beeilte sich sehr, und als er wieder bei uns Platz genommen hatte, fragte er
 
 »Bestimmt nach Helgoland,« erklärte Harald. »In Helgoland muß sich eine Filiale der Hehlerbande befinden, die nebenbei auch zweifellos Schmuggel im Großen betreibt. Seit England gewisse Waren mit hohem Zoll belegt hat, lohnt der Schmuggel wieder.«
 
-Mac Borell hatte eine Bewegung der Überraschung nicht unterdrücken können. »Teufel noch mal, da haben Sie recht, Harst! Hehlerei und Schmuggel sind so verwandte ‚Geschäftsarten’, daß sie die gleiche Organisation und die gleichen Mittel verlangen. — Und die Pappmarken mit den Löchern am Rande? Sind das wirklich nur Erkennungszeichen? Die erste fand ich bei der Leiche des berüchtigten Toy Roß in dessen Hosenumschlag, die zweite erhielten Sie von Miß Beate Hartwich in Berlin. Einer der Engländer, die dem Arthur Schmelz zu den Börsengewinnen verhalfen, hatte sie … — — Hallo, was gibt’s, Channon?!«
+Mac Borell hatte eine Bewegung der Überraschung nicht unterdrücken können. »Teufel noch mal, da haben Sie recht, Harst! Hehlerei und Schmuggel sind so verwandte ›Geschäftsarten‹, daß sie die gleiche Organisation und die gleichen Mittel verlangen. — Und die Pappmarken mit den Löchern am Rande? Sind das wirklich nur Erkennungszeichen? Die erste fand ich bei der Leiche des berüchtigten Toy Roß in dessen Hosenumschlag, die zweite erhielten Sie von Miß Beate Hartwich in Berlin. Einer der Engländer, die dem Arthur Schmelz zu den Börsengewinnen verhalfen, hatte sie … — — Hallo, was gibt‹s, Channon?!«
 
 Der lange Detektivinspektor stand neben unserem Tisch. »Kaptain, soeben Meldung aus London: In der verflossenen Nacht ist das Juweliergeschäft von Grieser &amp; Co in Park Lane ausgeplündert worden. Der Einbruch dürfte bereits um zehn Uhr abends stattgefunden haben … Es sind nur die wertvollsten Stücke geraubt worden.«
 
@@ -334,7 +334,7 @@ Auch Harald rauchte, antwortete nicht sofort, sondern zog die Pappmarke hervor. 
 
 »Nein, ein richtiger Schlüssel, Mac … Betrachten Sie das Ding genau, ganz genau. Versuchen Sie es einmal zu biegen. — Sehen Sie, es hat eine unsichtbare Einlage eines ganz leichten Metalls, es besteht aus drei Schichten: Pappe, Metall, Pappe. — Das Metall könnten Sie feststellen, wenn Sie mit der kleinen Klinge eines Taschenmessers in einem der Löcher kräftig bohren. Dann hören Sie das Kratzen. Und die Löcher?!«
 
-»… Diese Löcher, Mac, im ganzen acht, sind so angeordnet, daß, wenn man vier davon zum Oberrand aufmerksam betrachtet, zwischen je zweien ein größerer Abstand sich befindet, während bei der anstoßenden Kante die Löcher gleichmäßig verteilt sind. In diese Löcher, behaupte ich, passen dünne Zapfen eines besonderen Patentschlosses hinein, und derjenige, der diese Zapfen als ‚Schloß’ erkennt und dies Pappstück benutzt, wird in eine Ali Baba-Höhle gelangen — — oder dergleichen: Räuberhöhle, Hehlernest, Beutekammer, wie sie es nennen wollen. — Kapiert?!«
+»… Diese Löcher, Mac, im ganzen acht, sind so angeordnet, daß, wenn man vier davon zum Oberrand aufmerksam betrachtet, zwischen je zweien ein größerer Abstand sich befindet, während bei der anstoßenden Kante die Löcher gleichmäßig verteilt sind. In diese Löcher, behaupte ich, passen dünne Zapfen eines besonderen Patentschlosses hinein, und derjenige, der diese Zapfen als ›Schloß‹ erkennt und dies Pappstück benutzt, wird in eine Ali Baba-Höhle gelangen — — oder dergleichen: Räuberhöhle, Hehlernest, Beutekammer, wie sie es nennen wollen. — Kapiert?!«
 
 »Ja!«
 
@@ -348,7 +348,7 @@ Am Hafen unten begrüßte uns der vergnügt grinsende alte Fischer Beef. »Na, d
 
 Wir schritten weiter. Harald blätterte in einem der von der Kurverwaltung herausgegebenen Prospekt.
 
-»Lieber Mac,« meinte er durchaus ernst, »ich habe schon immer betont, daß ein Detektiv ohne Phantasie stets ein kläglicher Paragraphenhengst bleiben wird, ein Theoretiker und Stümper. Lesen Sie mal hier und da ‚Sehenswürdigkeiten Wingardens’. Da steht zum Beispiel: ‚Die kleinen Inseln sind fünf Meilen von der Küste entfernt und bergen eine interessante Erinnerung an den Weltkrieg. Dort liegt eingekeilt zwischen Klippen das Wrack des Kreuzers ‚Lord Kitchener’, das von der Regierung Denkmalschutz genießt. Der Kreuzer wurde am 18. Oktober 1915 von einem deutschen U-Boot torpediert und von dem Kommandanten mit größter Bravour zwischen die Klippen gesetzt. Das Heck hängt völlig im Wasser. Das Betreten des Wracks ist verboten. Es bietet jedoch einen recht denkwürdigen Anblick dar.’ Nun …?«
+»Lieber Mac,« meinte er durchaus ernst, »ich habe schon immer betont, daß ein Detektiv ohne Phantasie stets ein kläglicher Paragraphenhengst bleiben wird, ein Theoretiker und Stümper. Lesen Sie mal hier und da ›Sehenswürdigkeiten Wingardens‹. Da steht zum Beispiel: ›Die kleinen Inseln sind fünf Meilen von der Küste entfernt und bergen eine interessante Erinnerung an den Weltkrieg. Dort liegt eingekeilt zwischen Klippen das Wrack des Kreuzers ›Lord Kitchener‹, das von der Regierung Denkmalschutz genießt. Der Kreuzer wurde am 18. Oktober 1915 von einem deutschen U-Boot torpediert und von dem Kommandanten mit größter Bravour zwischen die Klippen gesetzt. Das Heck hängt völlig im Wasser. Das Betreten des Wracks ist verboten. Es bietet jedoch einen recht denkwürdigen Anblick dar.‹ Nun …?«
 
 Mac Borell pfiff leise.
 
@@ -374,7 +374,7 @@ Harst rief hastig: »Weg hier von der Bank! Dort hinter die Steine! Hinlegen, Ma
 
 Er zog dann ein Fernglas unter dem Ulster hervor. Auch der Kaptain hatte ein Glas dabei.
 
-»Achtung jetzt! Da ist auch der junge Orelli! Das Theater wird sofort beginnen! Geben Sie dann scharf acht, — die am vergangenen Abend in London erbeuteten Steine werden nun ‚deponiert’ werden. Ein Glück, daß Georg Greenham und Lucy und der Lord dem entdeckten Trick mit der Bauchfalte des Känguruhs so sorgsam verschwiegen haben, die Bande ist ahnungslos geblieben, — — sahen Sie, Mac, soeben massierte Herr Feodor zwei Tiere den Bauch, und jetzt — — dachte ich es mir doch!! — — scheint Orelli zwischen den Felsen im Wasser Muscheln suchen … Auch wir werden suchen, allerdings anderswo … — Sind Ihnen die Dinge klar, lieber Mac? Als der Lord mir von dem Juwelenbeutel im Känguruhbauch erzählte, fiel mir sofort die bekannte Geschichte des Dompteurs und Edelsteinenschmugglers Barnali ein, der in New York abgefaßt wurde. Das liegt ein Jahr zurück. Auch Barnali operierte mit Känguruhs. Die Bauchtasche eines Känguruhs fast eine gehörige Menge Edelsteine. —
+»Achtung jetzt! Da ist auch der junge Orelli! Das Theater wird sofort beginnen! Geben Sie dann scharf acht, — die am vergangenen Abend in London erbeuteten Steine werden nun ›deponiert‹ werden. Ein Glück, daß Georg Greenham und Lucy und der Lord dem entdeckten Trick mit der Bauchfalte des Känguruhs so sorgsam verschwiegen haben, die Bande ist ahnungslos geblieben, — — sahen Sie, Mac, soeben massierte Herr Feodor zwei Tiere den Bauch, und jetzt — — dachte ich es mir doch!! — — scheint Orelli zwischen den Felsen im Wasser Muscheln suchen … Auch wir werden suchen, allerdings anderswo … — Sind Ihnen die Dinge klar, lieber Mac? Als der Lord mir von dem Juwelenbeutel im Känguruhbauch erzählte, fiel mir sofort die bekannte Geschichte des Dompteurs und Edelsteinenschmugglers Barnali ein, der in New York abgefaßt wurde. Das liegt ein Jahr zurück. Auch Barnali operierte mit Känguruhs. Die Bauchtasche eines Känguruhs fast eine gehörige Menge Edelsteine. —
 
 Ach, — Herr Feodor ist fertig … Dieses Vormittagsbad der Tiere ist Bluff, ist Mittel zum Zweck. Er treibt die Känguruhs wieder davon, genau wie er sie nach den Abendveranstaltungen für einige Zeit auf die gepachtete Weide dicht an der Parkmauer treibt, — das weiß ich von dem Farmer Beef, und das ist auch Bluff … Man sagt immer, die Wirklichkeit dichte nur ganz schlichte Kriminalfälle, — wer das behauptet, liest keine Auslandszeitungen. Die heutigen Großverbrecher haben mehr Phantasie zum Einnebeln ihrer Absichten, als der Polizei lieb ist.«
 
@@ -386,11 +386,11 @@ Mac lachte bissig. »Kann mir denken, was geschehen wird … Vielleicht erschein
 
 … Wir warteten … Wir fieberten den kommenden Dingen entgegen. Eine halbe Stunde verstrich, dann tauchte ein kleines Segelboot von den Inseln her auf, zwei Leute saßen darin. Landeten an dem Planschbecken und taten so, als ob sie die Bootsleine dort vertäuen wollten, wo der junge Orelli zwischen den Wellen Muscheln gesucht hatte. Nach zehn Minuten segelten sie wieder davon.
 
-»Wahrhaftig, — die Beute aus dem Einbruch bei Grieser &amp; Co. ist jetzt unterwegs nach dem Wrack des ‚Lord Kitchener’…«, meinte der Kaptain doch etwas verblüfft … »Sind das geriebene Halunken!! Haben die eine feine Organisation!!
+»Wahrhaftig, — die Beute aus dem Einbruch bei Grieser &amp; Co. ist jetzt unterwegs nach dem Wrack des ›Lord Kitchener‹…«, meinte der Kaptain doch etwas verblüfft … »Sind das geriebene Halunken!! Haben die eine feine Organisation!!
 
 »Über Helgoland nach Berlin zum Beispiel — die Brieftauben!!« nickte Harst und kroch zurück.
 
-Wir spielten wieder die müßigen Spaziergänger und kehrten auf Umwegen zum Hotel zurück. Unterwegs kam das Gespräch nochmals auf die ‚Weide’ des Känguruhs und auf den von dem Tennismatador Stuart Orpinkton gepachteten und an Orelli weiter verpachteten Geräteschuppen. Harald erklärte so nebenbei: »Orpinkton ist auch Tauben—züchter, — Liebhaberei … Orpinkton hat dort seinen Garderobenschrank stehen … — Großzügige Leute!! Ein Zirkus als Verbrecherbande ist ebenfalls nicht alltäglich.«
+Wir spielten wieder die müßigen Spaziergänger und kehrten auf Umwegen zum Hotel zurück. Unterwegs kam das Gespräch nochmals auf die ›Weide‹ des Känguruhs und auf den von dem Tennismatador Stuart Orpinkton gepachteten und an Orelli weiter verpachteten Geräteschuppen. Harald erklärte so nebenbei: »Orpinkton ist auch Tauben—züchter, — Liebhaberei … Orpinkton hat dort seinen Garderobenschrank stehen … — Großzügige Leute!! Ein Zirkus als Verbrecherbande ist ebenfalls nicht alltäglich.«
 
 Und wieder machte da Mac Borell in den Anlagen halt und flüsterte eindringlich: »Harst, — gut, Orpinkton, der Sekretär, ist einer der Schufte im Schloß. Wer ist der zweite?«
 
@@ -416,13 +416,13 @@ Mac schaute Harald verblüfft an. »Wieder Orpinkton und der Butler?!«
 
 »Wer sonst?! — Dieser Besuch in Berlin hat immerhin ein Gutes gehabt. Der Schwächling Arthur Schmelz, der sich so prompt einwickeln ließ, wird nun wohl durch Beate Hartwig gänzlich umgeknetet werden. Ein tüchtiges Mädel!!«
 
-— Als wir unsere Zimmer im ‚Palast—Hotel’ betraten, saß da ein alter Herr mit grauem Bart, Hornbrille, Säufernase und wollenen Handschuhen. Zwischen seinen Füßen stand ein schäbiger kleiner Koffer.
+— Als wir unsere Zimmer im ›Palast—Hotel‹ betraten, saß da ein alter Herr mit grauem Bart, Hornbrille, Säufernase und wollenen Handschuhen. Zwischen seinen Füßen stand ein schäbiger kleiner Koffer.
 
 Harald schloß schnell die Tür.
 
 »Fred, Sie?! — Was ist geschehen?!«
 
-— Es war Fred Steen, der in seinem Pechvogeldasein auch monatelang ‚gefilmt’ hatte, — — als ‚Volksmenge’ oder sonstwie in der Komparserie.
+— Es war Fred Steen, der in seinem Pechvogeldasein auch monatelang ›gefilmt‹ hatte, — — als ›Volksmenge‹ oder sonstwie in der Komparserie.
 
  
 
@@ -432,15 +432,15 @@ Harald schloß schnell die Tür.
 
 <h3>Die schneidige Beate.</h3>
 
-Steen sagte leise: »Das Flugzeug, das ich benutzen mußte, war teuer, Herr Harst. Aber der Abgang des verliebten Schmelztiegels und der inhaltsreichen Beate glaubte ich persönlich melden zu müssen. Das Brautpaar ist seit gestern früh unauffindbar. Ich habe festgestellt, daß Beate von der Sparkasse tausend Mark abgehoben hat und der Schmelztiegel genau so viel. Vater Hartwig und die Polizei sind ratlos. Ich nicht. Die beiden stecken in London, Herr Harst. Zweck der Übung: Sie suchen Schmelz’ Verführer! Sie spielen auch Detektiv. Schmelz muß doch über seine ‚Freunde’, die die graue Limousine gemietet hatten, etwas verschwiegen haben.«
+Steen sagte leise: »Das Flugzeug, das ich benutzen mußte, war teuer, Herr Harst. Aber der Abgang des verliebten Schmelztiegels und der inhaltsreichen Beate glaubte ich persönlich melden zu müssen. Das Brautpaar ist seit gestern früh unauffindbar. Ich habe festgestellt, daß Beate von der Sparkasse tausend Mark abgehoben hat und der Schmelztiegel genau so viel. Vater Hartwig und die Polizei sind ratlos. Ich nicht. Die beiden stecken in London, Herr Harst. Zweck der Übung: Sie suchen Schmelz‹ Verführer! Sie spielen auch Detektiv. Schmelz muß doch über seine ›Freunde‹, die die graue Limousine gemietet hatten, etwas verschwiegen haben.«
 
 Harald warf sich mißmutig in den nächsten Sessel …
 
 »Neue Verwicklungen!! — Fred, packen Sie aus. Was haben Sie noch ermittelt, Sie rühriges Knäblein?«
 
-‚Knäblein’ für diesen rotnasigen Mummelgreis war nicht schlecht gesagt.
+›Knäblein‹ für diesen rotnasigen Mummelgreis war nicht schlecht gesagt.
 
-Fred Steen lächelte bescheiden. »Ermittelt?! — Dies fand ich in des Schmelztiegels Zimmer, als ich Hartwig besuchte und ihm kondolierte. Man nennt so etwas ‚stehlen’, selbst wenn es nur zwei gänzlich zerknitterte Zirkusprogramme sind, in die offenbar etwas eingewickelt gewesen war, — — vielleicht Geld, — ich weiß es nicht. — Bitte … — Programm eines Zirkus Orelli, zur Zeit Wingarden gastierend, Tennishalle …«
+Fred Steen lächelte bescheiden. »Ermittelt?! — Dies fand ich in des Schmelztiegels Zimmer, als ich Hartwig besuchte und ihm kondolierte. Man nennt so etwas ›stehlen‹, selbst wenn es nur zwei gänzlich zerknitterte Zirkusprogramme sind, in die offenbar etwas eingewickelt gewesen war, — — vielleicht Geld, — ich weiß es nicht. — Bitte … — Programm eines Zirkus Orelli, zur Zeit Wingarden gastierend, Tennishalle …«
 
 Harald nahm eine Zigarette. »Wie leichtsinnig von Beate! Natürlich steckt sie dahinter. Das Mädel wird, fürchte ich, einen bösen Dämpfer erhalten haben, Beate ist zu forsch, zu sehr Draufgängernatur …«
 
@@ -518,7 +518,7 @@ Doch London war offenbar plötzlich sehr nahe an Wingarden herangerutscht, denn 
 
 Fischer Beefs Kutter lag bereit.
 
-Die Gesichter Mr. Orpinktons und Mr. Brisbans, des ‚treuen’ Butlers, erschienen im Licht der pendelnden Kajütenlampe sehr bleich, und auch die Handschellen erhöhten ihre Laune kaum.
+Die Gesichter Mr. Orpinktons und Mr. Brisbans, des ›treuen‹ Butlers, erschienen im Licht der pendelnden Kajütenlampe sehr bleich, und auch die Handschellen erhöhten ihre Laune kaum.
 
 Der Kutter segelte ohne Lichter davon. Wir saßen dem edlen Paare gegenüber, und Harsts erste peinliche Frage lautete: »Wer hat Toby Roß, dessen Leiche hier angetrieben wurde, weil die Eisenstücke samt der Leine von den Füßen abgeglitten waren, erschossen?«
 
@@ -530,7 +530,7 @@ Da erst grinste Brisban frech. »Schmelz?! Sucht ihn!«
 
 »Das werden wir, Brisban …«
 
-Und er legte vor die beiden Kumpane die Schlüsselmarken nieder. »Ihr beide glaubt, den Hals noch aus der Schlinge ziehen zu können. Dies Pappstück ist mein Schlüssel zu irgend einem von euch im Wrack des ‚Lord Kitchener’ eingerichteten Geheimraum, — Hehlerversteck, Schmugglerdepot … — Eure Brieftaube wurde abgeschossen, und die Warnung kam nicht an, also wird euer Schiff heute Nacht hier abgefaßt werden.«
+Und er legte vor die beiden Kumpane die Schlüsselmarken nieder. »Ihr beide glaubt, den Hals noch aus der Schlinge ziehen zu können. Dies Pappstück ist mein Schlüssel zu irgend einem von euch im Wrack des ›Lord Kitchener‹ eingerichteten Geheimraum, — Hehlerversteck, Schmugglerdepot … — Eure Brieftaube wurde abgeschossen, und die Warnung kam nicht an, also wird euer Schiff heute Nacht hier abgefaßt werden.«
 
 Brisban leckte sich die Lippen. Dann brach es aus ihm heraus:
 

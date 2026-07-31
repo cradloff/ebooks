@@ -6,13 +6,13 @@
 
 In einer trüben, regnerischen Februarnacht, als die feurige Röte der gewaltigen Feuersbrunst im Heulen des Sturmes die Flammenzungen turmhoch emporlodern ließ, saß ein Mann mit leicht angegrauten Schläfen neben dem Bett seiner sterbenden Mutter und hielt die langsam erkaltende Hand in der seinen und starrte wie gelähmt von fassungslosem Schmerz in die verfallenen Züge des gütigen Matronengesichts.
 
-Ich stand am Fußende des Bettes, unfähig, einen klaren Gedanken zu fassen, denn daß wir diese grauenvolle Überraschung hier in Berlin vorfinden würden, hatten wir auch nicht im entferntesten ahnen können, obwohl uns bereits beim Eintreffen in Bremen die Nachricht erreicht hatte, Harriet Prill, unsere unerbittliche Feindin, sei unterwegs von Marrakesch nach London abermals trotz strengster Bewachung vom Zerstörer ‚Trafalgar’ unweit von Dover entkommen.
+Ich stand am Fußende des Bettes, unfähig, einen klaren Gedanken zu fassen, denn daß wir diese grauenvolle Überraschung hier in Berlin vorfinden würden, hatten wir auch nicht im entferntesten ahnen können, obwohl uns bereits beim Eintreffen in Bremen die Nachricht erreicht hatte, Harriet Prill, unsere unerbittliche Feindin, sei unterwegs von Marrakesch nach London abermals trotz strengster Bewachung vom Zerstörer ›Trafalgar‹ unweit von Dover entkommen.
 
 Wir hatten den englischen Zerstörer, der so rechtzeitig bei der Entlarvung und Vernichtung der Todessekte eingegriffen hatte, bereits vor der Einfahrt in den Kanal verlassen und hatten die Reise mit einem deutschen Dampfer fortgesetzt.
 
 Auf dem Bahnhof in Berlin erwartete uns niemand, und schon dies hatte meinen Freund stark beunruhigt.
 
-Dann erfolgten die niederschmetternden Schläge Hieb auf Hieb! Das alte Harst’sche Familienhaus, bereits einmal fast zerstört, bildete eine einzige Lohe, und im nahen Krankenhaus fand Harald nur mehr eine Sterbende vor, die den zermürbenden Aufregungen der letzten Stunden nicht mehr gewachsen gewesen.
+Dann erfolgten die niederschmetternden Schläge Hieb auf Hieb! Das alte Harst‹sche Familienhaus, bereits einmal fast zerstört, bildete eine einzige Lohe, und im nahen Krankenhaus fand Harald nur mehr eine Sterbende vor, die den zermürbenden Aufregungen der letzten Stunden nicht mehr gewachsen gewesen.
 
 Ganz still erlosch dieses flackernde Lebensflämmchen, ein allerletzter bewußter Blick umfing den einzigen Sohn und streifte auch mein blasses Gesicht, — dann war alles vorüber.
 
@@ -22,17 +22,17 @@ Selbst unsere treue Köchin war der krankhaften wahnwitzigen Rachegier einer skr
 
 Harald erhob sich, drückte der Toten sanft die Augen zu und ließ seine Hand eine Weile auf der blassen, faltigen Stirn ruhen. Dann drehte er den Kopf nach mir hin, winkte mir und sagte ganz leise, als ich neben ihm stand:
 
-»Ich fürchte, mein Alter, die Gesetzesbrecher werden nunmehr einen anderen Harst kennen lernen … Wir müssen unser Dasein völlig umstellen … Harriet hat ganze Arbeit getan. Alles nahm sie mir, was mir lieb und wert gewesen, — alles, auch den größten Teil meines Vermögens, das mir gestattete, unsere kleinen Vorstöße gegen die bewußt verderbte Unterwelt zu finanzieren. In diesen Minuten, mein Alter, als ich meine Mutter verscheiden sah, vollzog sich in mir eine ähnliche Wandlung wie damals, als … meine Braut ermordet wurde. Du weißt: ‚Zwei Taschentücher’! Jedenfalls mögen die sich fortan hüten, die als Rechtsbrecher meinen Weg irgendwie kreuzen. In diesen letzten Stunden ist etwas in mir erstorben, das mich bisher in vielem zu nachsichtig vorgehen ließ. Dafür ist etwas neu erwacht, das mit frischer Kraft nach Vergeltung ruft. Diese schändliche Brutalität, für die man kaum eine passende Bezeichnung findet, — diese ungeheuerliche Bestialität völlig gewissenloser Menschen sollen ihre Sühne finden. Nur der Schwächling verzichtet auf eine Vergeltung …«
+»Ich fürchte, mein Alter, die Gesetzesbrecher werden nunmehr einen anderen Harst kennen lernen … Wir müssen unser Dasein völlig umstellen … Harriet hat ganze Arbeit getan. Alles nahm sie mir, was mir lieb und wert gewesen, — alles, auch den größten Teil meines Vermögens, das mir gestattete, unsere kleinen Vorstöße gegen die bewußt verderbte Unterwelt zu finanzieren. In diesen Minuten, mein Alter, als ich meine Mutter verscheiden sah, vollzog sich in mir eine ähnliche Wandlung wie damals, als … meine Braut ermordet wurde. Du weißt: ›Zwei Taschentücher‹! Jedenfalls mögen die sich fortan hüten, die als Rechtsbrecher meinen Weg irgendwie kreuzen. In diesen letzten Stunden ist etwas in mir erstorben, das mich bisher in vielem zu nachsichtig vorgehen ließ. Dafür ist etwas neu erwacht, das mit frischer Kraft nach Vergeltung ruft. Diese schändliche Brutalität, für die man kaum eine passende Bezeichnung findet, — diese ungeheuerliche Bestialität völlig gewissenloser Menschen sollen ihre Sühne finden. Nur der Schwächling verzichtet auf eine Vergeltung …«
 
 Er richtete sich straffer auf, und seine Züge waren hart und wie versteinert, und doch wie von innen durchglüht von dem hinreißenden Gedankenflug eines so überaus exakt arbeitenden Gehirns …
 
-»Und ich bin kein Schwächling, mein Alter …! — Gib mir deine Hand! Kampf fortan der bewußten Verderbtheit, Kampf bis aufs Messer! Wir beide sind nun allein übrig von alledem, was einst Harst’scher Familienbesitz hieß. Ich werde das Grundstück verschenken, — mag dort ein Heim für Unbemittelte errichtet werden, — wir beide suchen ein neues bescheidenes Heim, und alle die, die uns so gern um Rat und Hilfe angingen, werden uns dort zu finden wissen …«
+»Und ich bin kein Schwächling, mein Alter …! — Gib mir deine Hand! Kampf fortan der bewußten Verderbtheit, Kampf bis aufs Messer! Wir beide sind nun allein übrig von alledem, was einst Harst‹scher Familienbesitz hieß. Ich werde das Grundstück verschenken, — mag dort ein Heim für Unbemittelte errichtet werden, — wir beide suchen ein neues bescheidenes Heim, und alle die, die uns so gern um Rat und Hilfe angingen, werden uns dort zu finden wissen …«
 
 * * *
 
 Zwei Wochen später an einem bereits recht warmen Februarvormittag schritt ein älterer Herr straffen Ganges die stille Arnoldstraße in Berlin W. entlang und machte dann vor einem sehr schmalen, sehr alten dreistöckigen Hause halt, das als einziges auf dieser Straßenseite noch einen winzigen Garten besaß, der sich nach links um das zweistöckige Häuschen herumzog, während rechter Hand ein moderner Mietspalast den unscheinbaren Nachbar fast überschattete.
 
-Drei Steinstufen führten vom Bürgersteig zu der schweren Haustür empor, an der über dem Briefschlitz ein mittelgroßes Messingschild mit der schwarzen Schrift ‚Harald Harst’ — weiter nichts — befestigt war. Daneben befand sich der Druckknopf der Glocke und ein kleines rundes, dick verglastes Fenster.
+Drei Steinstufen führten vom Bürgersteig zu der schweren Haustür empor, an der über dem Briefschlitz ein mittelgroßes Messingschild mit der schwarzen Schrift ›Harald Harst‹ — weiter nichts — befestigt war. Daneben befand sich der Druckknopf der Glocke und ein kleines rundes, dick verglastes Fenster.
 
 Der Herr läutete, und nach einer Weile öffnete ihm ein sehr junger Mensch mit strohblondem Scheitel und freundlich zuvorkommendem Lächeln die Türen und führte ihn in das rechter Hand gelegene Zimmer, dessen schlichte Ausstattung etwas büromäßig wirkte.
 
@@ -60,7 +60,7 @@ Hartwichs bisherige Nervosität legte sich. Er setzte sich bequemer zurecht. »H
 
 Harald spielte mit dem Brieföffner. Er schwieg eine Weile …
 
-»Herr Hartwig, wann können wir das Zimmer Arthur Schmelz’ uns ansehen?«
+»Herr Hartwig, wann können wir das Zimmer Arthur Schmelz‹ uns ansehen?«
 
 »Sofort … Die Kriminalpolizei hat ihre Ermittlungen bereits abgeschlossen und hüllt sich in Schweigen, — wie Sie soeben! Trauen Sie Schmelz nicht?«
 
@@ -78,7 +78,7 @@ Der Oberinspektor verabschiedete sich dankbar, und als er gegangen, hielt mir Ha
 
 Mac Borell hatte telegraphiert: 
 
-> ‚Falls für einige Tage frei, bitte inkognito nach Wingarden kommen. Wohne ‚Palast-Hotel’. Sehr dunkler Fall in Arbeit. — Gruß Borell.’
+> ›Falls für einige Tage frei, bitte inkognito nach Wingarden kommen. Wohne ›Palast-Hotel‹. Sehr dunkler Fall in Arbeit. — Gruß Borell.‹
 
 Ich blickte Harald achselzuckend an.
 
@@ -88,11 +88,11 @@ Ich blickte Harald achselzuckend an.
 
 Sie lautete: 
 
-> ‚Bitte sofort Greenham-Castle bei Wingarden, Südostküste, sich einzufinden. Honorar spielt keine Rolle. Betrifft letzte Zeitungsmeldungen über Schadensersatzansprüche des Zirkus Orelli wegen Känguruh. — Lord Hamilton Greenham.’
+> ›Bitte sofort Greenham-Castle bei Wingarden, Südostküste, sich einzufinden. Honorar spielt keine Rolle. Betrifft letzte Zeitungsmeldungen über Schadensersatzansprüche des Zirkus Orelli wegen Känguruh. — Lord Hamilton Greenham.‹
 
 Abermals konnte ich Harst nur ziemlich verständnislos anblicken.
 
-Er schüttelte etwas ärgerlich den Kopf. »Wenn du nur auch die Auslandszeitungen genau lesen wolltest …!! Greenham hat dem in dem Badeort Wingarden gastierenden Zirkus Orelli ein dressiertes Känguruh, das ausgekniffen war, in seinem Park versehentlich erschossen. Ist es nicht etwas eigentümlich, daß Freund Borell von einem ‚dunklen Fall’ spricht und das zwanzig Minuten nach seiner Depesche die des Lord eintrifft mit dem verlockenden Honorarangebot?!«
+Er schüttelte etwas ärgerlich den Kopf. »Wenn du nur auch die Auslandszeitungen genau lesen wolltest …!! Greenham hat dem in dem Badeort Wingarden gastierenden Zirkus Orelli ein dressiertes Känguruh, das ausgekniffen war, in seinem Park versehentlich erschossen. Ist es nicht etwas eigentümlich, daß Freund Borell von einem ›dunklen Fall‹ spricht und das zwanzig Minuten nach seiner Depesche die des Lord eintrifft mit dem verlockenden Honorarangebot?!«
 
 »Du meinst …?!« fragte ich grüblerisch …
 
@@ -116,7 +116,7 @@ Es wurden gerade von einer Möbelfirma die neuen, sehr bescheidenen Einrichtungs
 
 Es war Zechlinski. Fred Steen erhielt die Belohnung von fünfhundert Mark und die Anstellung bei uns. Einen Menschen wie diesen Fred konnten wir brauchen.
 
-Daß Harald seinerseits so tat, als ob er Zechlinski nicht erkannt habe, blieb unser beider Geheimnis und war echt Harst’sche Freigebigkeit und Güte gegenüber Pechvögeln vom Schlage Freds.
+Daß Harald seinerseits so tat, als ob er Zechlinski nicht erkannt habe, blieb unser beider Geheimnis und war echt Harst‹sche Freigebigkeit und Güte gegenüber Pechvögeln vom Schlage Freds.
 
 Dieser Fred war also der dritte Bewohner von Arnoldstraße Nr. 21. Er wird dem Leser noch häufiger begegnen, und ich kann Ihnen vorläufig mit diesen knappen Angaben abtun.
 
@@ -198,7 +198,7 @@ Der Taxenchauffeur hatte uns die hilfreiche Limousine sehr genau beschrieben.
 
 — Ich kann nur sagen, daß dieses vielleicht neunzehnjährige, ehrliche, natürliche Mädel mir imponierte.
 
-Harald wurde jetzt sehr herzlich, versprach Beate, seinerseits alles zu tun, um das Rätsel um Arthur Schmelz’ Verschwinden zu lösen, und verabschiedete sie mit einem nachdrücklichen: »Kopf hoch, kleines Fräulein! Nun bin ich auch mit dem Herzen bei der Sache — Ihretwegen!«
+Harald wurde jetzt sehr herzlich, versprach Beate, seinerseits alles zu tun, um das Rätsel um Arthur Schmelz‹ Verschwinden zu lösen, und verabschiedete sie mit einem nachdrücklichen: »Kopf hoch, kleines Fräulein! Nun bin ich auch mit dem Herzen bei der Sache — Ihretwegen!«
 
 Als sie sich entfernt hatte, nahm er die merkwürdige Pappmarke und legte sie neben eine ältere Nummer des Internationalen Fahndungsblattes, in dem die Polizeiorgane der verschiedenen Staaten ihre weltwichtigen Veröffentlichungen einander bekannt geben.
 
@@ -210,7 +210,7 @@ Als Text war hinzugefügt:
 
 Harst tippte mit dem Finger auf das Bild.
 
-»Nun, mein Alter, — was hältst du davon? Borell ruft uns nach Wingarden, Seebad und Hafenort, und Lord Greenham wohnt unweit Wingarden und hat ein dressiertes Känguruh erschossen, das dem Zirkus Orelli entlaufen, aber der Lord ist bockbeinig und will nicht Ersatz zahlen und depeschiert an uns genau wie Borell, der sogar von einem sehr dunklen Fall spricht. Wenn du zu alledem noch den Diebstahl der Brieftauben, das verdächtige Verschwinden des Herrn Arthur Schmelz und diese Pappmarke und einiges andere hinzunimmst, hast du einen wunderbar verwickelten Fragenkomplex vor dir — kurz, ein richtiges Problem! Wir beide wurden von den Polypenarmen dieses Problems so lange nicht berührt, als eben nicht unser trefflicher Freund Steen uns weggeschnappt wurde. Man hatte ihn geschnappt, — weshalb wohl? — Nun, die Antwort ist einfach, man wollte die Depeschen haben, die er abschicken sollte. — Wer konnte daran interessiert sein, daß die Depeschen nicht abgingen? Ich behaupte, Lord Greenham! — Du wieder kannst fragen: Weshalb gerade er? — Weil ich an solche Zufälle nicht glaube, daß Greenhams Depesche ausgerechnet nur zwanzig Minuten nach Borells Telegramm eintritt. Mein Gedankengang wird dir klar sein! Borell depeschiert, Borell wird beobachtet, und daraufhin depeschiert der Lord und wirft den Köder von ‚Honorar spielt keine Rolle’ aus … — — So, nun schreibe ich nochmals die Antwortdepeschen, und dann bringst du sie zur Post, jedoch erst nachdem ich …« — und das Weitere war nur zu sehr geeignet, meinen ohnedies bereits erwachten Jagdeifer noch mehr anzufeuern …
+»Nun, mein Alter, — was hältst du davon? Borell ruft uns nach Wingarden, Seebad und Hafenort, und Lord Greenham wohnt unweit Wingarden und hat ein dressiertes Känguruh erschossen, das dem Zirkus Orelli entlaufen, aber der Lord ist bockbeinig und will nicht Ersatz zahlen und depeschiert an uns genau wie Borell, der sogar von einem sehr dunklen Fall spricht. Wenn du zu alledem noch den Diebstahl der Brieftauben, das verdächtige Verschwinden des Herrn Arthur Schmelz und diese Pappmarke und einiges andere hinzunimmst, hast du einen wunderbar verwickelten Fragenkomplex vor dir — kurz, ein richtiges Problem! Wir beide wurden von den Polypenarmen dieses Problems so lange nicht berührt, als eben nicht unser trefflicher Freund Steen uns weggeschnappt wurde. Man hatte ihn geschnappt, — weshalb wohl? — Nun, die Antwort ist einfach, man wollte die Depeschen haben, die er abschicken sollte. — Wer konnte daran interessiert sein, daß die Depeschen nicht abgingen? Ich behaupte, Lord Greenham! — Du wieder kannst fragen: Weshalb gerade er? — Weil ich an solche Zufälle nicht glaube, daß Greenhams Depesche ausgerechnet nur zwanzig Minuten nach Borells Telegramm eintritt. Mein Gedankengang wird dir klar sein! Borell depeschiert, Borell wird beobachtet, und daraufhin depeschiert der Lord und wirft den Köder von ›Honorar spielt keine Rolle‹ aus … — — So, nun schreibe ich nochmals die Antwortdepeschen, und dann bringst du sie zur Post, jedoch erst nachdem ich …« — und das Weitere war nur zu sehr geeignet, meinen ohnedies bereits erwachten Jagdeifer noch mehr anzufeuern …
 
  
 
@@ -238,7 +238,7 @@ Die Telegramme gingen ab, und ich kehrte heim. Als ich die Haustür aufschließe
 
 »Höchst dramatisch: Attentat mit Kleinauto — arme Straßenlaterne!! —,— verkleidete Helfer in grauer Limousine, die mich dann, als sie mich durchsucht hatten, einfach im Grunewald in eine Schonung warfen. Heimkehr etwas hinkend aber billig! Straßenbahn von der Villenkolonie Grunewald aus! — Ich merkte gleich, Herr Schraut, daß es bei alledem um die Depeschen ging …«
 
-»Harst hat die Papierkugel gefunden … Das haben Sie fein gemacht. Wer waren die ‚Helfer’? Engländer?«
+»Harst hat die Papierkugel gefunden … Das haben Sie fein gemacht. Wer waren die ›Helfer‹? Engländer?«
 
 »Bestimmt, und zwar bessere Leute der Sprache nach. Der eine meinte, die Sache sei ein Fehlschlag, und der andere erklärte, eine Kugel hätte schnellere Arbeit getan, wenn Harst von Wingarden ferngehalten werden solle — das war alles, was ich verstand. — Was ist mit Wingarden, Herr Schraut?«
 
@@ -246,7 +246,7 @@ Da unser Famulus unbedingt Anspruch darauf hatte, eingeweiht zu werden, entwicke
 
 Fred staunte. Er saß auf der Schreibtischecke und rauchte und scheuerte sich nachdenklich das Kinn.
 
-Eine Schönheit war Fred Steen keineswegs, aber er sah ganz patent aus. Wenn er die Augen zusammenkniff und Harst’sche Stirnfalten hervorzauberte, wirkte er wie ein Tennismatador, der einen Ball verpfuscht hat und sich grimmig ärgert.
+Eine Schönheit war Fred Steen keineswegs, aber er sah ganz patent aus. Wenn er die Augen zusammenkniff und Harst‹sche Stirnfalten hervorzauberte, wirkte er wie ein Tennismatador, der einen Ball verpfuscht hat und sich grimmig ärgert.
 
 »Glänzende Idee!«, lobte er nunmehr begeistert. »Wenn Herr Harst nur Schwein hat und ermittelt, wo der Radler bleibt … — Hallo, Telephon …!!«
 
@@ -266,7 +266,7 @@ Steen war als erster über den Holzzaun hinweg, Harald war als erster im Hause, 
 
 Harst setzte seine Suche nach Schmelz unverdrossen fort. Oben unter dem Dach im Schornstein hing Arthur Schmelz gefesselt und geknebelt und halb bewußtlos an zwei Stricken. Aber er lebte, und er konnte uns sehr bald angeben, was mit ihm geschehen war. —
 
-Vor drei Wochen hatte er zwei vornehmen Engländer kennen gelernt, die sich als Londoner Börsenmakler ausgaben und ihm gute Tipps für Börsengeschäfte gegeben hatten. Er war denn auch wirklich vom ‚Glück’ (?) begünstigt gewesen und hatte über zweitausend Mark in kurzem ‚verdient’, ohne eine Hand zu rühren, da die Engländer, die Smith und Frankheel hießen, für ihn alles erledigten. Schließlich war ihm doch aufgefallen, daß sie ihn über die Einrichtung der Brieftaubenversuchsanstalt aushorchten, und als Smith einmal eine sonderbare Pappmarke verlor, hatte er sie zu sich gesteckt. In der verflossenen Nacht wurde, während er schlief, im Bett überfallen, niedergeschlagen und war erst hier im Schornstein wieder erwacht. — —
+Vor drei Wochen hatte er zwei vornehmen Engländer kennen gelernt, die sich als Londoner Börsenmakler ausgaben und ihm gute Tipps für Börsengeschäfte gegeben hatten. Er war denn auch wirklich vom ›Glück‹ (?) begünstigt gewesen und hatte über zweitausend Mark in kurzem ›verdient‹, ohne eine Hand zu rühren, da die Engländer, die Smith und Frankheel hießen, für ihn alles erledigten. Schließlich war ihm doch aufgefallen, daß sie ihn über die Einrichtung der Brieftaubenversuchsanstalt aushorchten, und als Smith einmal eine sonderbare Pappmarke verlor, hatte er sie zu sich gesteckt. In der verflossenen Nacht wurde, während er schlief, im Bett überfallen, niedergeschlagen und war erst hier im Schornstein wieder erwacht. — —
 
 Mehr wußte er nicht, nur das eine noch, daß die Engländer den grauen Wagen samt Chauffeur von einer Verleihanstalt gemietet hatten.
 
@@ -278,7 +278,7 @@ Schmelz, ein gut gewachsener, hübscher Mensch mit weichlichen Zügen, verfärbt
 
 »Ja, erschossen. — Kennen Sie die Autoverleihanstalt?«
 
-»Gewiß, Firma ‚Autovertrieb GmbH’, Hauptstraße, Schöneberg.«
+»Gewiß, Firma ›Autovertrieb GmbH‹, Hauptstraße, Schöneberg.«
 
 »Genügt … — Ich habe leider keine Zeit, Ihnen hier lange Vorträge zu halten, das wird wohl Ihre Braut besorgen. Nehmen Sie diese Dinge jedoch als ernste Lehre hin und — — werden Sie Mann!!«
 
@@ -290,7 +290,7 @@ Dann machten wir uns reisefertig. »Fred«, sagte Harald zu dem langen Jüngling
 
 »Und dies mit Recht!« nickte Steen würdevoll.
 
-Gegen drei Uhr nachmittags verließ das fahrplanmäßige Flugzeug Berlin-Amsterdam-London den Flughafen Tempelhof, und abends zehn Uhr langten wir beide im ‚Palast—Hotel’ in Wingarden an.
+Gegen drei Uhr nachmittags verließ das fahrplanmäßige Flugzeug Berlin-Amsterdam-London den Flughafen Tempelhof, und abends zehn Uhr langten wir beide im ›Palast—Hotel‹ in Wingarden an.
 
 Kaptain Borell saß allein in der Veranda nach der See zu an einem Tischchen und las Zeitungen. Er erkannte uns nicht, und erst als Harald die Depesche erwähnte, leuchteten Borells Augen freudig auf.
 
@@ -414,13 +414,13 @@ Er glättete das Stückchen Seidenpapier. Die Aufschrift in zierlichen Buchstabe
 
  
 
-»Nun, mein Alter?! — Heute ist der 21. Februar, und das große A soll natürlich ‚anno’ (dieses Jahres) heißen. Firma H.&amp;S. sind wir beide. Ausschalten heißt beseitigen. — Was am 23ten, also übermorgen, abgehen soll, weiß ich nicht, was das Ziel I 4 heißt, erst recht nicht. Aber das wird sich schon noch herausstellen.«
+»Nun, mein Alter?! — Heute ist der 21. Februar, und das große A soll natürlich ›anno‹ (dieses Jahres) heißen. Firma H.&amp;S. sind wir beide. Ausschalten heißt beseitigen. — Was am 23ten, also übermorgen, abgehen soll, weiß ich nicht, was das Ziel I 4 heißt, erst recht nicht. Aber das wird sich schon noch herausstellen.«
 
 »Und welchen Text schriebst du nieder, Harald?«
 
 »Den gleichen, nur habe ich 23. in 24. verändert. Dort im Taubenschlag des Schuppens, den der Zirkus gemietet zu haben scheint, fand ich genügend Papierblättchen und auch Tinte und eine sehr spitze Feder.«
 
-Ich schaute ihn immer noch recht verständnislos an. Er erklärte daher ergänzend: »Durch die Änderung des Datums 23. in 24. habe ich einen Tag gewonnen, und bevor das ‚Unbekannte’ das ‚Ziel I 4’ erreicht — und dieses Ziel muß hier in der Nähe liegen — werden wir eingreifen.«
+Ich schaute ihn immer noch recht verständnislos an. Er erklärte daher ergänzend: »Durch die Änderung des Datums 23. in 24. habe ich einen Tag gewonnen, und bevor das ›Unbekannte‹ das ›Ziel I 4‹ erreicht — und dieses Ziel muß hier in der Nähe liegen — werden wir eingreifen.«
 
 »Das leuchtet mir ein. Und was gedenkst du nun zu tun?«
 
@@ -496,7 +496,7 @@ Das war es!!
 
 Insel Nr. 4!!
 
-Das war ‚das Ziel’, das auf der Brieftaubenpost vermerkt war.
+Das war ›das Ziel‹, das auf der Brieftaubenpost vermerkt war.
 
 In meinem Hirn wirbelten die Gedanken durcheinander, — — nicht lange, denn Harald rief plötzlich:
 
