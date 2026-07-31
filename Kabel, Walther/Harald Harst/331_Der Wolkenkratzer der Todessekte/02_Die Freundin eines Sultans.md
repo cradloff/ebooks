@@ -46,11 +46,11 @@ Unterschlupf gefunden hatte.
 Die Szenerie einer frühen Morgenstunde war folgende:
 Es standen da in einer höhlenartigen Schlucht zwei braune
 Zelte, vor denen magere Personen mit der Zubereitung des
-Frühstück beschäftigt waren, während im Hintergrunde zwölf
+Frühstücks beschäftigt waren, während im Hintergrunde zwölf
 Dromedare faul und stupide die Unterkiefer wiederkäuend hin
 und her schoben. Diese Tiere hatten wir vorsorglich bereits
 in Aden, der englischen Felsenfestung am Ausgang des Roten
-Meeres, an Bord genommen, und ganz unbemerkt das gefährliche
+Meeres, an Bord genommen, um ganz unbemerkt das gefährliche
 Gebiet des Sultanats Makaresch betreten zu können,
 — und dies war uns auch geglückt.
 
@@ -204,7 +204,7 @@ zumeist einzeln standen und daß zwischen ihnen sich die
 eigentlichen »Straßen« hinzogen, umsäumt von kläglichen
 Hütten und Lehmbuden, — — nur die klare morgendliche
 Wüstenluft brachte uns das Gemälde der »verbotenen« Stadt
-Marakesch so nahe …
+Makaresch so nahe …
 
 Harald beäugte jetzt den Meeresstrand und unsere nähere
 Umgebung. Die gelbgraue Wüste lag völlig verlassen da,
@@ -671,7 +671,7 @@ und Hirtenfeuer …
 Das Hinterland von Makaresch ist verhältnismäßig
 fruchtbar, diese Tiefebene enthält viele Brunnen, und die
 Felder sind sehr leicht zu bewässern. Primitive Schöpfräder,
-die von alten, blinden, ewige im Kreise schreitenden Dromedaren
+die von alten, blinden, ewig im Kreise schreitenden Dromedaren
 bedient werden, sowie lehmige Kanäle verteilen das
 kostbare Naß. Nähert man sich von Norden oder Westen
 der Stadt, bemerkt man nichts als fünf Obergeschosse von
@@ -699,7 +699,7 @@ Tauben, unzählige Hühner, die droben auf den Dachrändern
 der Lehmbaracken schliefen, — — und Hunde, faule
 fette Hunde, wie sie einst in Konstantinopel Straßenplage gewesen
 waren … Aber diese Bastarde hier, in allen Farben
-und Größen vertreten, hoben nicht einmal die Kopfe, als wir
+und Größen vertreten, hoben nicht einmal die Köpfe, als wir
 vorüberschritten, nur das sanfte Gurren der Tauben begleitete
 uns, und im übrigen waren die Gassen wie tot. Wir fanden
 uns leicht zurecht, denn der Palast des Fürsten, der auf einem
@@ -939,7 +939,7 @@ Freunden ankommen lassen, die dort soeben die letzten Stufen
 der Treppe emporkommen?!«
 
 Oberinspektor Goodwin und der fixe Peter Munk riefen
-dem braunen Betrachten eine sehr respektlose Bemerkung zu,
+dem braunen Betreßten eine sehr respektlose Bemerkung zu,
 und sogar Hilde Lockstätten erlaubte sich eine Äußerung, die
 dieser eigentümlichen Szene eine humoristische Note gab …
 »Peter«, sagte sie zu Freund Munk, »bitte bleibe gefälligst
@@ -975,7 +975,7 @@ Mädchen, das dicht neben ihm in einem weit weniger
 pompösen Elfenbeinsessel die graziösen Glieder hineingeschmiegt
 hatte und uns mit großer Neugier musterte.
 
-Sir Oxford bereitet recht ungeduldig diesen Austausch
+Sir Oxford bereitete recht ungeduldig diesem Austausch
 von Höflichkeitsphrasen ein jähes Ende. »Mr. Harst, bitte
 erklären Sie, was Sie zu erklären haben … Und denken Sie
 daran, daß hinter Ihnen Englands Kanonen darauf warten,
@@ -1036,7 +1036,7 @@ war entweder schlauer Bluff oder kaltblütigste Mordgier.
 So zum Beispiel der Befehl an Lockstätten, Sie zu ermorden.
 So zum Beispiel die brutale Auspeitschung Goodwins, der
 angeblich das Versteck der Juwelen verraten sollte, — Bluff,
-damit Schraut und ich nie auf den Gedanken kämen Sie selbst,
+damit Schraut und ich nie auf den Gedanken kämen, Sie selbst,
 Omar, könnten der Herr der Todessekte sein, — — und das
 sind Sie!! — — Bitte, unterlassen Sie jede geheuchelte Empörung.
 Ich werde Ihnen sofort beweisen, daß meine Beschuldigung

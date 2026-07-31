@@ -29,7 +29,7 @@ wie ihr mit der Unterweltskönigin dran seid.«
 
 Harst nickte und schaute dem sich entfernenden Strome
 der Reisenden nach. »Allerdings, das wissen wir, Bechert.
-Aber diese drei Leute des Flugzeuge dürften auch der klägliche
+Aber diese drei Leute des Flugzeugs dürften auch der klägliche
 Rest der Prill-Bande sein. Ich glaube nicht, daß Harriet
 nochmals in Berlin ihr Glück versuchen wird, die Pechsträhne,
 die sie hier …« — er schwieg plötzlich, trat etwas zur Seite
@@ -109,7 +109,7 @@ aus Schießübungen anstellten oder ob in dem
 feudalen Wagen andere Sauschützen saßen, weiß ich allerdings
 nicht.«
 
-Munk grinste und zeige dabei drei blinkende Goldzähne.
+Munk grinste und zeigte dabei drei blinkende Goldzähne.
 »Harstchen, die Sorte Kopfschmerzen kann ich Ihnen abnehmen.
 Das gehört zu meinem Beruf, der mir mehr behagt, als der
 ursprüngliche. Gott segne die Prüfungskommission, die mich
@@ -192,7 +192,7 @@ Galgen für Diebe, Verließe für Gauner und das Meer zum
 Ersäufen treuloser Frauen. Hier in der Spree ersäuft man
 nur Katzenbabys und mißliebige Hunde.«
 
-Baron Gambriski warf Munk einen Blick zu, der wie
+Baron Gambritzki warf Munk einen Blick zu, der wie
 ein eiskalter Wasserstrahl hätte wirken müssen, doch Peter
 Munk focht derlei durchaus nicht an, und Harald erwiderte
 auch bereits:
@@ -223,7 +223,7 @@ zum Abendbrot ins Speisezimmer.
 
 Wir hatten kaum zu essen begonnen, als es an der Vordertür
 dreimal läutete. Mathilde eilte in den Flur und kehrte
-mit einem zugeklebten Briefumschlag zurück, der keine Inschrift
+mit einem zugeklebten Briefumschlag zurück, der keine Anschrift
 trug und der durch die Briefspalte der Tür hineingeworfen
 worden war.
 
@@ -287,7 +287,7 @@ stürmten die Treppe hinan, im Laboratorium lag Harst auf
 dem hellen Fliesenboden, ein Fenster war eingedrückt und
 stand offen, und Weingläser und Umschlag waren verschwunden.
 
-Aber dieser im beängstigend regungslos daliegende Harst
+Aber dieser so beängstigend regungslos daliegende Harst
 blinzelte uns nur heimlich zu und flüsterte: »Schließt die Fensterladen
 … Ich hatte sie absichtlich offen gelassen … Ich
 ahnte dergleichen voraus.«
@@ -335,7 +335,7 @@ Harst wehte mit der Hand die Rauchwolken seiner Zigarette
 bei Seite. »*Der* Mann gehört nicht dazu … —
 Und nun verduften Sie, Munk.«
 
-Ich schwieg zu alledem, den ich begriff fast nichts davon.
+Ich schwieg zu alledem, denn ich begriff fast nichts davon.
 
 Daß Peter Munk mir als Spürnase weit überlegen,
 wußte ich längst. Munk hatte bereits so manchen Gauner
@@ -421,7 +421,7 @@ Oberinspektor von Scotland Yard, London.
 
 Auf dieses Geständnis des Sultans erwiderte Harald
 zunächst gar nichts. Wir saßen in Klubsesseln um einen kleinen
-Tisch herum, der in einer Ecke stand, und seine Hoheit hatte
+Tisch herum, der in einer Ecke stand, und Seine Hoheit hatte
 noch vorsichtshalber einen mehrteiligen Wandschirm vor die
 Ecke gerückt, in die wir beide uns nur vorsichtig umhertastend
 hineingeschlichen hatten.
@@ -454,7 +454,7 @@ Lichtstreifen hinweg, und eine vermummte Gestalt schlich auf
 das große Paradebett zu, von dem ich wenigstens den Kopfteil
 in meinem Blickfeld hatte. Der Eindringling beleuchtete
 behutsam das Bett, und zu meinem Erstaunen gewahrte ich
-darin eine Gestalt, deren Umrisse sich unser dem Zudeck scharf
+darin eine Gestalt, deren Umrisse sich unter dem Zudeck scharf
 abzeichneten.
 
 Die folgenden Vorgänge spielten sich dann so blitzartig
@@ -593,7 +593,7 @@ Anschluß und ein kleines Spielchen, — alles war da, was man
 wünschte, man mußte nur Geld haben. Damen in fabelhaft
 bescheidenen Abendtoiletten, Facon »Oben nichts, unten nichts«
 bewiesen ihre Trunkfestigkeit und Herzensgüte, die Stimmung
-war gedämpft-halbweltlerisch genau wies die Beleuchtung und
+war gedämpft-halbweltlerisch genau wie die Beleuchtung und
 Ausstattung der Räume, — unser Mann saß noch immer am
 Bartisch und schien äußerst vergnügt zu sein, lehnte jedoch
 alle Annäherungsversuche weiblicherseits höflich ab und machte
@@ -626,7 +626,7 @@ Profil und dem Einglas.
 Auch er blieb nicht mehr lange, er schlenderte in das
 Spielzimmer, wo recht beträchtliche Summen umgesetzt wurden,
 an einem Bakkarattisch entnahm er der soeben ihm zugesteckten
-Zigarettenschachtel unauffällig einen Hunderkmarkschein,
+Zigarettenschachtel unauffällig einen Hundertmarkschein,
 kaufte Spielmarken, gewann drei Einsätze und entfernte
 sich.
 
@@ -703,7 +703,7 @@ Die starke Tür war durch zwei Patentschlösser gesichert,
 Harst wurde sehr flink damit fertig. Linker Hand lief eine
 spärlich erleuchtete Wendeltreppe in die Höhe, — das Haus
 hatte einen turmartigen Aufbau, und als wir vor der Dachluke
-anlangten, vernahmen wir unten Stimmen, die in den
+anlangten, vernahmen wir unten Stimmen, die in dem
 engen Treppenschacht stark wiederhallten. Zwei Männer sprachen
 in einer uns fremden Mundart miteinander, — es war
 arabisch, aber irgend ein Dialekt, — die größte Gefahr lag
@@ -800,7 +800,7 @@ Still jetzt …!!«
 
 Wieder warteten wir …
 
-Arme Teufel?!, — was hieß das?! Was enthielte in die
+Arme Teufel?!, — was hieß das?! Was enthielten die
 Kisten?!
 
 Munk stöhnte leise: »Jetzt eine Flasche Kognak!! Ich
@@ -852,7 +852,7 @@ trotzdem erholte er sich sehr bald, Munk hatte in einem Winkel
 seine Kleider gefunden, wir halfen ihm beim Anziehen, und
 <@pagebreak/>
 seine zähe Natur überwand auch die leichten Ohnmachtsanfälle,
-die sich anfänglich noch einstellen. Dann folgte ein sehr
+die sich anfänglich noch einstellten. Dann folgte ein sehr
 heftiger Schweißausbruch infolge der gründlichen Massage, und
 Goodwin sprach die ersten Worte, die seltsamerweise lauteten:
 
@@ -874,7 +874,7 @@ auskommen. Kennen Sie den Inhalt dieser vier Kisten?«
 
 »Ja. Leider … Und ich kannte den Inhalt sogar, als
 er noch lebte. Es waren vier kühne, schlaue Burschen, und zwei
-davon mir eng befreundet, wenn auch bedeutend junger als
+davon mir eng befreundet, wenn auch bedeutend jünger als
 ich. Ich redete ihnen damals noch zu, den Auftrag zu übernehmen,
 und, als Sie nicht zurückkehrten, nahm ich den Abschied
 und gab mir selbst das Wort, ihren Tod unter allen
@@ -906,7 +906,7 @@ ich ohne alle Umschweife. »Wenn Ihre Landsleute, Herr
 Goodwin, etwa erst hier auf deutschem Boden ermordet wurden,
 dann …«
 
-Er winkte sehr energisch ab. »Keine Rede braven, bestimmt
+Er winkte sehr energisch ab. »Keine Rede davon, bestimmt
 nicht! Weshalb man die Toten irgendwie nach Europa
 transportiert hat, bleibt bei alledem das größte Rätsel.«
 
@@ -1117,7 +1117,7 @@ durch Schläge den Hahn ab, und der Wasserstrahl ward bedeutend
 dicker, überflutete die Dielen, das Gerümpel, — —
 draußen verstärkte sich der Lärm der emsig arbeitenden Feuerwehr,
 ein Glasdach splitterte noch ärger, die Qualmfäden aus
-den Dielenritzen wurden unerträglichen, auf Harsts Kommando
+den Dielenritzen wurden unerträglich, auf Harsts Kommando
 bauten wir eine Art Gerüst, auf dem wir oben Platz fanden,
 so daß uns der Qualm weniger belästigte, — — immer noch
 spritzte das Bleirohr, immer noch fauchten draußen hohe
@@ -1143,7 +1143,7 @@ Aber bestimmt verheimlichen, daß noch Menschen
 im Hause. Polizei soll Publikum zurückdrängen
 und schweigen. Harald Harst.«
 
-Er schrieb drei gleichlaufende Zettel, kletterte von unserem
+Er schrieb drei gleichlautende Zettel, kletterte von unserem
 Gerüst herab und holte drei flache Gipsmasken von berühmten
 Malern, die an den Wänden verschmutzt und staubig
 gehangen hatten. In jede der Gipsmasken drückte er einen
