@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">1e27b595-a4a1-424d-afe2-1d8d2cbe81c7</entry>
+<entry key="title">Das Gespenterkänguruh</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">332</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Das Gespensterkänguruh
+
+In einer trüben, regnerischen Februarnacht, als die feurige Röte der gewaltigen Feuersbrunst im Heulen des Sturmes die Flammenzungen turmhoch emporlodern ließ, saß ein Mann mit leicht angegrauten Schläfen neben dem Bett seiner sterbenden Mutter und hielt die langsam erkaltende Hand in der seinen und starrte wie gelähmt von fassungslosem Schmerz in die verfallenen Züge des gütigen Matronengesichts.
+
+Ich stand am Fußende des Bettes, unfähig, einen klaren Gedanken zu fassen, denn daß wir diese grauenvolle Überraschung hier in Berlin vorfinden würden, hatten wir auch nicht im entferntesten ahnen können, obwohl uns bereits beim Eintreffen in Bremen die Nachricht erreicht hatte, Harriet Prill, unsere unerbittliche Feindin, sei unterwegs von Marrakesch nach London abermals trotz strengster Bewachung vom Zerstörer ›Trafalgar‹ unweit von Dover entkommen.
+
+Ziel I 4
+
+Man schleifte mich davon wie ein Kalb zur Schlachtbank. Derartige Eindrücke vergißt man nicht so leicht. Man behandelte mich, als ob ich ein gefühlloses Stück Holz wäre, man richtete mich auf, riß mir die durch die Drahtschlinge zermarterten Hände nach hinten, — ich merkte, man fesselte mich an einen Baum, und plötzlich wurden auch die Augenbinde und der Knebel entfernt.
+
+Nacht … Mondlicht …
+
+Eine Lichtung, Bäume ringsum, links eine verfallene Parkwärterhütte, — — neben mir Harst, genauso wehrlos, genauso raffiniert an einen Baum gebunden … Und wie zum Hohn hatte man uns die Hüte weggenommen, hatte uns etwas anderes auf die Köpfe gestülpt: Tropenhelme …!
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (332) Das Gespenterkänguruh.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1932</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
