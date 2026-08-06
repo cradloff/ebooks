@@ -436,7 +436,7 @@ Der Mann, dessen bartloses, faltiges Gesicht jetzt lediglich fast freudige Über
 
 »Harst! Herr Harst! — Oh — — Sie sendet mir das Schicksal! Ich schließe sofort auf… Kommen Sie nur, meine Herren… Der Herr Professor mag läuten.«
 
-Ich hatte ebenfalls meine Taschenlampe eingeschaltet und las die Namenschilder am Pfeiler.
+Ich hatte ebenfalls meine Taschenlampe eingeschaltet und las die Namensschilder am Pfeiler.
 
 Doktor Imbork wohnte ganz oben im zweiten Stock.
 
@@ -469,7 +469,7 @@ Kaum war nun der Wandteppich entfernt worden, als Friedrich Buck leise aufschrie
 
 »Mein Gott, — — Schußlöcher!«
 
-Allerdings, das mußte selbst ein halbwüchsiger Bursche sehen, das waren vier Schußlöcher, und alle lagen dicht nebeneinander. Das Holz war gesplitter, da die Kugeln von der Seite eingedrungen waren.
+Allerdings, das mußte selbst ein halbwüchsiger Bursche sehen, das waren vier Schußlöcher, und alle lagen dicht nebeneinander. Das Holz war gesplittert, da die Kugeln von der Seite eingedrungen waren.
 
 Harald befestigte den Teppich sofort wieder, ging zum Lichtschalter, und das Zimmer versank in Finsternis. Nur Harsts Taschenlampe bildete zu unseren Füßen einen grellen Fleck.
 
@@ -520,7 +520,7 @@ Gleich darauf war das Zimmer leer, die Flurtür knarrte, fiel zu, und Harald hus
 <h2>7. Kapitel</h2>
 <h3>Harst duldet eine Entführung.</h3>
 
-Dieses alte, im pompejanischen Stil ausgeführte Haus hatte eine sehr breite Treppe und ein mit verblaßsten Malereien geschmücktes Treppenhaus. — Da der Professor sich von Friedrich Buck die Schlüssel nicht hatte geben lassen, war anzunehmen, daß er sowohl den Haustür- als auch den Gartenpfortenschlüssel besäße, — — falls er nicht mit Dietrichen Bescheid wußte, was ich ihm nach dem Vorausgegangenen sehr wohl zutraute.
+Dieses alte, im pompejanischen Stil ausgeführte Haus hatte eine sehr breite Treppe und ein mit verblaßten Malereien geschmücktes Treppenhaus. — Da der Professor sich von Friedrich Buck die Schlüssel nicht hatte geben lassen, war anzunehmen, daß er sowohl den Haustür- als auch den Gartenpfortenschlüssel besäße, — — falls er nicht mit Dietrichen Bescheid wußte, was ich ihm nach dem Vorausgegangenen sehr wohl zutraute.
 
 Harst beugte sich sehr weit zum Fenster hinaus. Steen hatte er mit kurzem Befehl hinaus in den Flur geschickt. Ich selbst drängte mich neben meinen Freund und konnte das Vorgartengitter undeutlich erkennen. Aber niemand verließ das Grundstück.
 
@@ -767,7 +767,7 @@ Ich hätte nur ehrlich erklären können: ›Ich gebe meine eigene Unzulänglich
 
 Jetzt hatten Fred und ich nichts mehr dagegen einzuwenden, wirklich zu Bett zu gehen. Wir sagten Harald gute Nacht, und da unsere Schlafzimmer oben eine Verbindungstür hatten, unterhielten wir uns noch eine Weile durch die geöffnete Tür, wobei Fred Steens nicht abzubiegendes Thema lautete: ›Wer ist nun eigentlich … der schwarze Gast?‹ — Daß Erich Lowski es <em>nicht</em> gewesen sein konnte, hatten wir Harald sehr wohl angemerkt. — Alles Raten half nichts. Wir hatten die Auswahl zwischen drei Personen: Helga Uhlberg, dem Professor Imbork oder Doktor Hans Imbork. Der Diener Friedrich Imborks hatte ja bestätigt, daß sein Herr seit Wochen viel unterwegs gewesen sei.
 
-Fred schnarchte schon, als ich noch immer mit überreizten Nerven im Bett mich hin und her warf. Draußen war es doch nun endlich hell geworden. Der neue Tag schien uns ein freundlicheres Gesicht zeigen zu wollen. Der Regen hatte nachgelassen, und durch die Fensterläden stahl sich ein dünner Sonnenstreifen herrein.
+Fred schnarchte schon, als ich noch immer mit überreizten Nerven im Bett mich hin und her warf. Draußen war es doch nun endlich hell geworden. Der neue Tag schien uns ein freundlicheres Gesicht zeigen zu wollen. Der Regen hatte nachgelassen, und durch die Fensterläden stahl sich ein dünner Sonnenstreifen herein.
 
 Auch ich schlummerte in das unlogische Reich wirrer Träume hinüber. Im Einschlafen glaubte ich die Haustür klappen zu hören…
 
