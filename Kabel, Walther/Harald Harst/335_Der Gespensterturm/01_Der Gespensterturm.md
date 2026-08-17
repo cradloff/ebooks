@@ -3,7 +3,8 @@
 <h2>1. Kapitel.</h2>
 
 <h3>Eine drohende Verhaftung.</h3>
-Landjäger Sturm, ein sehr großer, breitschultriger Mann mit gutmütig pfiffigem Gesicht, musterte die vor ihm stehende Landstreicherin mit einigem Erstaunen.
+
+Landjäger Sturm, ein sehr großer, breitschultriger Mann mit gutmütig-pfiffigem Gesicht, musterte die vor ihm stehende Landstreicherin mit einigem Erstaunen.
 
 Er hatte sich ihre Papiere geben lassen, und er fand darin das bestätigt, was die zerlumpte Frau ihm soeben mündlich erklärt hatte.
 
@@ -31,17 +32,15 @@ Während der Landjäger die nötigen Erklärungen abgab, raste Alice Römers Her
 
 Tegthoff gab sich mit dem Gehörten zufrieden, nahm Sturm etwas beiseite, flüsterte ihm einige Worte zu, wendete wieder und fuhr davon. Auch der Landjäger schritt nach Westen zu die Chaussee hinab, hinter ihm her winkte die Landstreicherin und verlor ihn bald aus den Augen. — —
 
-Im Haus Arnoldstraße 21, einem kleinen villenähnlichen Grundstück in Berlin W, schnurrte eine Viertelstunde darauf in dem büromäßig eingerichteten großen Vorderzimmer das Tischtelephon. An dem langen Schreibtisch saßen zwei Herren, die bei offenen Fenstern soeben die Morgenzeitungen genau durchgesehen hatten, was mit zu ihrem Beruf gehörte. Privatdetektive müssen über alle Tagesereignisse informiert sein
+Im Haus Arnoldstraße 21, einem kleinen villenähnlichen Grundstück in Berlin W, schnurrte eine Viertelstunde darauf in dem büromäßig eingerichteten großen Vorderzimmer das Tischtelephon. An dem langen Schreibtisch saßen zwei Herren, die bei offenen Fenstern soeben die Morgenzeitungen genau durchgesehen hatten, was mit zu ihrem Beruf gehörte. Privatdetektive müssen über alle Tagesereignisse informiert sein.
 
 Harst nahm den Hörer ab. Da der Apparat sehr laut ansprach, konnte ich, obwohl es ein Ferngespräch war, jedes Wort mithören.
 
-»… Hier Tegthoff… Morgen, lieber Harst… Ich spreche von dem kleinen Ostseebad Gusthafen aus. Hier in meinem Bezirk oder doch mit in dessen Umgebung gehen merkwürdige Dinge vor sich, aus denen ich nicht schlau werde. Seit einer Woche haben wir einen ungewöhnlich starken Zustrom von Landstreichern festgestellt, die alle insofern unantastbar, als ihre Papiere einwandfrei und ihr Geldvorrat genügend groß waren… Also keine ausgesprochenen Bettler, sondern alles halb und halb oder gänzlich gescheiterte Existenzen. Vor zehn Minuten, um neun Uhr, traf ich nun den Landjäger Sturm aus Gusthafen mit einer Vagabundin, die sich bei näherem Hinsehen als die Reporterin Alice Römer vom ›Berliner Echo‹ entpuppte… — Ich würde Sie mit dieser Geschichte nicht behelligt, wenn ich nicht persönlich eine zweite sehr merkwürdige Beobachtung gemacht hätte, die ich hier am Apparat nicht preisgeben kann. Hätten Sie Zeit und Lust, mich zu besuchen? Ich wittere hier etwas ganz Besonderes, aber diese Witterung und meine Fähigkeit als Kriminalist reichen nicht aus, auch nur einen bestimmten Argwohn äußern zu können. — Na, wie wäre es?!«
+»… Hier Tegthoff… Morgen, lieber Harst… Ich spreche von dem kleinen Ostseebad Gusthafen aus. Hier in meinem Bezirk oder doch mit in dessen Umgebung gehen merkwürdige Dinge vor sich, aus denen ich nicht schlau werde. Seit einer Woche haben wir einen ungewöhnlich starken Zustrom von Landstreichern festgestellt, die alle insofern unantastbar, als ihre Papiere einwandfrei und ihr Geldvorrat genügend groß waren… Also keine ausgesprochenen Bettler, sondern alles halb und halb oder gänzlich gescheiterte Existenzen. Vor zehn Minuten, um neun Uhr, traf ich nun den Landjäger Sturm aus Gusthafen mit einer Vagabundin, die sich bei näherem Hinsehen als die Reporterin Alice Römer vom ›Berliner Echo‹ entpuppte… — Ich würde Sie mit dieser Geschichte nicht behelligen, wenn ich nicht persönlich eine zweite sehr merkwürdige Beobachtung gemacht hätte, die ich hier am Apparat nicht preisgeben kann. Hätten Sie Zeit und Lust, mich zu besuchen? Ich wittere hier etwas ganz Besonderes, aber diese Witterung und meine Fähigkeit als Kriminalist reichen nicht aus, auch nur einen bestimmten Argwohn äußern zu können. — Na, wie wäre es?!«
 
 Meines Freundes Haralds schmales Gesicht hatte sich schon bei der Erwähnung des Namens ›Alice Römer‹ auffällig belebt. Er zog die Augenbrauen hoch, die bekannten drei Falten erschienen auf seiner Stirn, und er warf mir einen wirklich ellenlangen Blick zu.
 
-»Tegthoff,« sprach er trotzdem gelangweilt in die Muschel, »vielleicht ist dort bei euch ein Stromerkongreß angesetzt worden… So etwas gibt es heute. Auch die Vagabunden organisieren sich. Zufällig wollten nun Schraut und ich ohnedies jetzt vierzehn Tage Ferien machen. Wann wir kommen werden, können wir noch nicht genau sagen. —
-
-Wiedersehen also… Unser Famulus Fred Steen, unser Mädchen für Alles, meldet soeben einen Klienten an… Schluß!«
+»Tegthoff,« sprach er trotzdem gelangweilt in die Muschel, »vielleicht ist dort bei euch ein Stromerkongreß angesetzt worden… So etwas gibt es heute. Auch die Vagabunden organisieren sich. Zufällig wollten nun Schraut und ich ohnedies jetzt vierzehn Tage Ferien machen. Wann wir kommen werden, können wir noch nicht genau sagen. — Wiedersehen also… Unser Famulus Fred Steen, unser Mädchen für Alles, meldet soeben einen Klienten an… Schluß!«
 
 Er hängte ab.
 
@@ -57,7 +56,7 @@ Die Dame, die uns dann mit dem Gesicht nach dem Fenster hin gegenübersaß, war 
 
 Eleonore Güllich, verwitwete Geheimrätin, zweite Frau des vor einem halben Jahr verstorbenen schwerreichen einstigen Geheimen Legationsrates Ferdinand Güllich, konnte man mit wenigen Sätzen als Persönlichkeit skizzieren: Weltdame, gewandt, klug, höflich-frostig, und — — zweifellos mit einer Dauermaske vor dem noch immer blendend schönen Antlitz.
 
-Die Villa Güllich im Vorort Dahlem war berühmt, der Park durch seine Marmorstatuen noch berühmter, der Sohn Hektor Ferdinand Güllich — aus erster Ehe — dagegen etwas berüchtigt und ganz aus der Art geschlagen, — — er war Bildhauer gewesen, nebenher vielseitiger Sportler, jetzt — — war er tot. Vor zwei Tagen war er nachts im Park erschossen worden. Zwischen ihm und seiner Stiefmutter hatte einen erbitterter Erbschaftsprozeß jedes Band zerrissen gehabt, der Park und die Villa waren geteilt worden, Hektor hatte im ersten Stock mit besonderem Eingang gehaust, im Erdgeschoß wohnte Frau Eleonore.
+Die Villa Güllich im Vorort Dahlem war berühmt, der Park durch seine Marmorstatuen noch berühmter, der Sohn Hektor Ferdinand Güllich — aus erster Ehe — dagegen etwas berüchtigt und ganz aus der Art geschlagen, — — er war Bildhauer gewesen, nebenher vielseitiger Sportler, jetzt — — war er tot. Vor zwei Tagen war er nachts im Park erschossen worden. Zwischen ihm und seiner Stiefmutter hatte ein erbitterter Erbschaftsprozeß jedes Band zerrissen gehabt, der Park und die Villa waren geteilt worden, Hektor hatte im ersten Stock mit besonderem Eingang gehaust, im Erdgeschoß wohnte Frau Eleonore.
 
 Und diese Frau, die gleichsam bei uns Schutz gesucht hatte, da die näheren Umstände der Ermordung Hektors sie zumindest in den Verdacht der Urheberschaft des Verbrechens gebracht hatten, vergoß heute bei uns die ersten Tränen. Sie war seelisch vollkommen zermürbt, sie war derart verzweifelt, daß zunächst aus ihr kein Wort herauszubringen war.
 
@@ -81,15 +80,10 @@ Harst stellte sich schützend vor die unglückliche Frau hin…
 
 »Lassen Sie das, Herr Buth… Das hat noch Zeit. Ich werde Ihnen am Tatort die richtige, die wahrhaft richtige Mordwaffe zeigen. Fahren wir nach Dahlem hinaus. Sie werden, glaube ich, sehr bald anders denken. Nähere Erklärungen gebe ich nur im Park unter der alten Blutbuche ab.«
 
- 
-
- 
-
 <h2>2. Kapitel</h2>
 <h3>Die dicke Gummischnur.</h3>
-Kommissar Buth hatte keine Einwendungen erhoben. Zwei Autos rollten davon, und zehn Minuten später standen wir an demselben Platz, wo man sehr bald nach dem Schuß, der gehört worden war, den Ermordeten neben der weißen Gartenbank unter der Buche im gelben Zierkies tot aufgefunden hatte: Kopfschuß! 
 
-Die Tat war gegen ein Uhr morgens verübt worden, Spuren des Täters war nicht zu finden gewesen. Hektor Güllich hatte abends noch seine Freunde mit einer Ananasbowle bewirtet gehabt, und der Zierkies und die Rasenflächen hatten daher überall frische Fährten gezeigt.
+Kommissar Buth hatte keine Einwendungen erhoben. Zwei Autos rollten davon, und zehn Minuten später standen wir an demselben Platz, wo man sehr bald nach dem Schuß, der gehört worden war, den Ermordeten neben der weißen Gartenbank unter der Buche im gelben Zierkies tot aufgefunden hatte: Kopfschuß! — Die Tat war gegen ein Uhr morgens verübt worden, Spuren des Täters waren nicht zu finden gewesen. Hektor Güllich hatte abends noch seine Freunde mit einer Ananasbowle bewirtet gehabt, und der Zierkies und die Rasenflächen hatten daher überall frische Fährten gezeigt.
 
 Harst bat Frau Güllich, auf der Bank Platz zu nehmen.
 
@@ -101,11 +95,11 @@ Er wandte sich dann an Buth, einen kleinen untersetzten Herrn mit einem unangene
 
 »Daß ich hier noch etwas wichtiges finden könnte, glaubte ich nicht. Immerhin arbeite ich anders als die Behörden, Herr Buth, ich lasse mehr die Phantasie spielen, und da ich vorhin des Ermordeten Etage in Augenschein genommen hatte…«
 
-»Na — — und?!«
+»Na, — — und?!«
 
 Harst blieb durch diese herausfordernden Einwürfe ganz unberührt.
 
-»… und da ich in Hektors Atelier dies hier gefunden hatte — in einer Ecke hinter Gipsabfällen…« — er zog ein Stück Gummischnur hervor von jener Art, wie sie bei Flugzeugmodellen zum Antrieb des Propellers benutzt wird — »und da diese Stück dicke, vierkantige Gummischnur ganz neu war…«
+»… und da ich in Hektors Atelier dies hier gefunden hatte — in einer Ecke hinter Gipsabfällen…« — er zog ein Stück Gummischnur hervor von jener Art, wie sie bei Flugzeugmodellen zum Antrieb des Propellers benutzt wird — »und da dieses Stück dicke, vierkantige Gummischnur ganz neu war…«
 
 »Na ja — — und?!«
 
@@ -159,7 +153,7 @@ Ein Diener trat ein und servierte einige Erfrischungen. Frau Güllich trank hast
 
 »Meine Nerven streiken…« sagte sie tonlos und starrte wieder geistesabwesend vor sich hin.
 
-Der Diener hatte sich entfernt, Harald erhob sich und schlenderte über den weichen Teppich auf den großen Zierkamin aus dunklem Marmor zu. Das geheime Wandfach, das Buth heute früh hier entdeckt hatte, sollte dicht neben den Kamin liegen, wo die Wand noch mit Marmor getäfelt war.
+Der Diener hatte sich entfernt, Harald erhob sich und schlenderte über den weichen Teppich auf den großen Zierkamin aus dunklem Marmor zu. Das geheime Wandfach, das Buth heute früh hier entdeckt hatte, sollte dicht neben dem Kamin liegen, wo die Wand noch mit Marmor getäfelt war.
 
 Er blieb stehen und befühlte die Marmorplatten, deren Ecken durch Messingknöpfe zusammengehalten wurden. Einer dieser Knöpfe war seitlich etwas verschiebbar, ein zweiter desgleichen, und nur wenn man gleichzeitig beide Knöpfe zur Seite drückte, fiel die Deckplatte des Wandtresor herab, — ein vorzüglich angelegtes Versteck.
 
@@ -185,9 +179,7 @@ Sie stockte und blickte ängstlich umher, als fürchtete sie heimliche Lauscher.
 
 Harald stand vor dem Tisch, hatte die Hände leicht auf die Platte gestützt. Sein Gesicht verriet ungewöhnliche Überraschung, während es doch sonst jede Gemütsbewegung meisterhaft zu verbergen weiß.
 
-»Seltsam! Chinesen!! Gewiß, die drei fielen mir auf, obwohl sie mehr Mongolentyp<sup> </sup>haben… — 
-
-Und näheres wissen Sie nicht, gnädige Frau?«
+»Seltsam! Chinesen!! Gewiß, die drei fielen mir auf, obwohl sie mehr Mongolentyp haben… — Und näheres wissen Sie nicht, gnädige Frau?«
 
 Abermals flog aus den eigentümlichen Augen der Witwe ein angstvoller Blick ringsum.
 
@@ -199,12 +191,9 @@ Die Frau hauchte mehr, als daß sie zu flüstern wagte:
 
 Sie machte jetzt einen so erschöpften Eindruck, daß wir uns sehr bald rücksichtsvoll verabschiedeten.
 
- 
-
- 
-
 <h2>3. Kapitel</h2>
 <h3>Das Stromerlager bei Gusthafen.</h3>
+
 Als wir nach der Arnoldstraße zurückgekehrt waren, hatte unser Fred das Mittagessen bereits fertig, und bei Tisch wurde der Fall Güllich nochmals gründlich durchgesprochen.
 
 Fred Steen war nun trotz seiner Jugend ein Mensch, der geistige Rührigkeit mit ebenso viel Phantasie wie scharf logischem Verstand verband, neben anderen schätzenswerten Eigenschaften.
@@ -219,13 +208,13 @@ Er zählte sie an den Fingern her, und Fred Steens ohnedies schon recht länglic
 
 Er telephonierte dann und schrieb Tromissens Antworten sofort nieder, bedankte sich für die Auskunft und las uns von seinem Zettel folgendes vor:
 
-> > 1. Alice Römer, eine äußerst gewandte Reporterin, ist vor vier Wochen an Lungenentzündung im Alter von 25 Jahren in ihrer Wohnung Pariser Straße 12 verstorben.
+> 1\. Alice Römer, eine äußerst gewandte Reporterin, ist vor vier Wochen an Lungenentzündung im Alter von 25 Jahren in ihrer Wohnung Pariser Straße 12 verstorben.
 
-Schon hier warf Harst gleichgültig ein: »Das stand so ziemlich in allen Zeitungen… Aber ihr beide lest ja nur das grob Sensationelle.«
+> Schon hier warf Harst gleichgültig ein: »Das stand so ziemlich in allen Zeitungen… Aber ihr beide lest ja nur das grob Sensationelle.«
 
-> > 2.<sup> </sup>Unser Blatt hat niemanden mit dem Studium des modernen Vagabundenlebens beauftragt. 
+> 2\. Unser Blatt hat niemanden mit dem Studium des modernen Vagabundenlebens beauftragt. 
 
-> > 3. Alice Römer führte eine gemeinsamen Haushalt mit der Filmschauspielerin Vera Bertty. Ich selbst (Tormissen) habe die Bertty bei Hektor Güllich eingeführt. An dem letzten Bowlenabend nahm sie nicht teil, verkehrte auch nur selten bei Güllich, da ihr dessen Umgangskreis zu gemischt war. —
+> 3\. Alice Römer führte einen gemeinsamen Haushalt mit der Filmschauspielerin Vera Bertty. Ich selbst (Tromissen) habe die Bertty bei Hektor Güllich eingeführt. An dem letzten Bowlenabend nahm sie nicht teil, verkehrte auch nur selten bei Güllich, da ihr dessen Umgangskreis zu gemischt war. —
 
 Hiermit war Freds Niederschrift erschöpft.
 
@@ -303,12 +292,9 @@ Fred holte hörbar Luft. »Scheußlich!! Wer erschoß sie?«
 
 »Der da!!«
 
- 
-
- 
-
 <h2>4. Kapitel</h2>
 <h3>Im Schwedenturm.</h3>
+
 »Der da!!«
 
 Aus dem Gestrüpp tauchte eine wunderliche Figur auf.
@@ -327,9 +313,7 @@ Fred Steen nickte nur. »Wird gemacht. Auf mich ist Verlaß!« Und er schlüpfte
 
 Harald horchte eine Weile nach dem Wald hin. Es schrie irgend ein Käuzchen, das war alles…
 
-Er erhob sich halb, war mit drei Sätzen vor dem Gestrüpp und bog die Zweige auseinander. Der ursprüngliche Eingang des Schwedenturms war längst durch Seesand verweht. Vor vielen Jahren hatte einmal ein geschäftstüchtiger Gastwirt aus dem nahen Badeort Gusthafen in dem Turm eine hölzerne Wendeltreppe einbauen lassen, hatte auch das Dach erneuert und den Turm als Aussichtspunkt und Ausflugsziel mit Kaffeeausschank benutzen wollen. Kaum waren die notwendigsten Arbeiten fertig gewesen, als ein Blitz in den Turm einschlug und die Treppe größtenteils verbrannte. Drei Zimmerleute, die damals noch im Turm schliefen, waren vom Blitz getötet worden und wurden halb verkohlt aufgefunden. 
-
-Seitdem mied man den Turm. Die abergläubischer Fischer- und Bauernbevölkerung behauptete noch heute, es spuke in dem alten Gemäuer.
+Er erhob sich halb, war mit drei Sätzen vor dem Gestrüpp und bog die Zweige auseinander. Der ursprüngliche Eingang des Schwedenturms war längst durch Seesand verweht. Vor vielen Jahren hatte einmal ein geschäftstüchtiger Gastwirt aus dem nahen Badeort Gusthafen in dem Turm eine hölzerne Wendeltreppe einbauen lassen, hatte auch das Dach erneuert und den Turm als Aussichtspunkt und Ausflugsziel mit Kaffeeausschank benutzen wollen. Kaum waren die notwendigsten Arbeiten fertig gewesen, als ein Blitz in den Turm einschlug und die Treppe größtenteils verbrannte. Drei Zimmerleute, die damals noch im Turm schliefen, waren vom Blitz getötet worden und wurden halb verkohlt aufgefunden. Seitdem mied man den Turm. Die abergläubische Fischer- und Bauernbevölkerung behauptete noch heute, es spuke in dem alten Gemäuer.
 
 Hinter uns schlugen die Büsche zusammen, wir zwängten uns durch eine Mauerspalte, Haralds Taschenlampe blitzte auf und fuhr mit kaltem weißem Lichtkegel hin und her.
 
@@ -365,12 +349,9 @@ Das Licht erlosch wieder, und mein Freund rückte mehr zur Seite. Trotz der voll
 
 »Jetzt sind die drei Chinesen auf und davon… Landjäger Sturm hat entweder vorbeigeschossen, oder die Kerle haben Panzerwesten an, möglich ist bei diesen großzügigen Vorbereitungen alles.«
 
- 
-
- 
-
 <h2>5. Kapitel</h2>
 <h3>In Todesnot.</h3>
+
 Mein Nachbar und langjähriger Kriegskamerad gegen die Verbrecherwelt jeglicher Spielart zündete sich jetzt zu meinem Erstaunen in aller Seelenruhe eine Zigarette an.
 
 »Es wird noch einige Zeit vergehen,« meinte er mit größter Bestimmtheit. »Die drei Chinesen müssen doch erst melden, daß die Arbeit vollendet ist, und dann wird das Festspiel ›Stromerkongreß‹ seinen Fortgang nehmen. Außerdem, mein Alter, müßte sich eigentlich noch etwas ereignen. — Was wohl?!«
@@ -381,7 +362,7 @@ Ich schwieg also…
 
 Neben mir glimmte das Feuerfünkchen der Zigarette heller auf, ich bekam eine Rauchwolke zu schlucken, und Harst begann mit jener kühlen Sachlichkeit, die trotzdem die Knalleffekte wie Hammerschläge aufeinander folgen läßt:
 
-»Wir haben Zeit. Überschauen wir das Geschehene. Hektor Güllich wird nach ein Uhr tot aufgefunden, seine Stiefmutter, gleichzeitig seine verhaßte Erbschaftsprozeßgegnerin, kommt zu uns. — Wir sehen uns den Tatort an, ebenso Hektors Etage in der Villa, wir hören von seinem ausgedehnten, zweifelhaften Bekanntenkreis. Wir erhalten durch Frau Güllich seltsame Kunde von drei Chinesen, wir haben vorher der Dame drohende Verhaftung verhindert, wir haben ebenso vorher durch Freund Tegthoff noch merkwürdigere Dinge über den Zustrom von Vagabunden hierher — und von einer Reporterin vernommen, die bereits verstorben ist und auf deren Papieren jetzt ihre Freundin Vera Bertty ›reist‹… — Ich kenne die Bertty nur von Bildern her, meine Schlußfolgerung, daß sie die alte Landstreicherin sei, muß kühn erscheinen, die Köchin sagte mir, ihrer Herrin sein nach München zu einer Filmaufnahme gereist. Mein zweiter Anruf galt einem Lokal, in dem die Edelkomparserie verkehrt. Einer der Herren dort erklärte, Fräulein Bertty sei für keinen Münchner Film verpflichtet. Mithin sprechen fünfundsiebzig Prozent Wahrscheinlichkeit für meine Annahme. — Und nun unsere hiesigen Erlebnisse. Wir entdecken das Stromerlager, das ich übrigens hier in der Nähe vermutet hatte. Ich richtete unseren Marsch durch den Wald so ein, daß wir an den unzugänglichsten Stellen dieser Wildnis vorüberkamen. Was wir sahen, weißt du. Die Bertty war von den Stromern geschnappt worden. Wir suchen den Turm auf, wir werden Zeugen, wie die drei Chinesen, als solide Bürger gekleidet, in den Turm schlüpfen, wie dort drinnen drei Schüsse fallen, wie der Landjäger ins Freie taumelte und wie die Chinesen im Gespensterturm an den Mauern herumhämmern. —Nun sitzen wir beide hier und warten. Worauf? — Ich habe dir, mein Alter, schon xmal stets dasselbe gepredigt: Ein Detektiv ohne Phantasie ist für die Katz! Nur die Einbildungskraft, die das vorhandene Tatsachenmaterial in einen Phantasierahmen hineinzuzwängen weiß und diesem Rahmen wechselnde Formen gibt, falls die Tatsachen eben nicht hineinpassen, kann schließlich den einen Rahmen finden, der ungefähr der richtige sein könnte. Nimm einmal folgendes an: Hektor Güllich und die Bertty waren ein Liebespaar. Zumindest standen sie einander freundschaftlich sehr nahe, wenn sie dies auch in der Öffentlichkeit geheim hielten. Die Bertty mag nun genau wie ich gewußt haben, daß das moderne Vagabundentum in Berlin eine ›Hauptgeschäftsstelle‹ besitzt, die von jener Sorte von Intellektuellen geleitet wird, deren kokainverseuchte Kadaver und Hirne so ziemlich alles treiben, was man ›gesellschaftliches Außenseiterstreben‹ nennen könnte. Diese edlen Herren tagen in einer Bar im Westen Berlins, die sehr poetisch ›Maulwurf‹ heißt. Der Kriminalpolizei erscheinen diese Leutchen als harmlose Dekadente mit so und so viel Komplexen, obwohl die Gefährlichkeit dieser ›Hauptgeschäftsstelle‹ nicht unbedeutend sein dürfte. Der im ›Maulwurf‹ tagende Klub dieser führenden ›Geister‹ nennt sich — höre und staune! — … nennt sich ›Die Köpfe‹. — Du hast einen Kopf, ich habe einen, der Geheimrats Güllich hatte einen, so und so viele feudale Leute tragen ebenfalls Köpfe zwischen den Schultern. Es kommt nur darauf an, was drinnen ist, — entweder verkalkte Holzwolle — gesundes oder vergiftetes Hirn. — Kurz und gut, von diesen ›Köpfen‹ aus der Maulwurfbar verkehrten fast alle bei Hektor Güllich. Ich rief mittags auch noch den Redakteur Tromissen, einen nur leicht geistig angeknaxten, sonst anständigen Kerl an und horchte ihn aus. Tromissen nannte mir als den Oberkopf der ›Köpfe‹, ich möchte sagen als den Wasserkopf, einen gewissen Siegfried Berancy, einen gebürtigen Ungar, seines Zeichens ›freier Schriftsteller‹. Wovon der Bursche lebt, weiß niemand. Aber er lebt gut, ist stets tadellos angezogen, und Tromissen führte ihn vor Monaten bei Hektor ein, worauf — gib acht! — der Ungar auch die anderen ›Köpfe‹ bei Güllich einschmuggelte, bis schließlich die Herrenabende Hektors mehr fragwürdige als ehrbare Elemente aufwiesen. —Nach dieser Vorrede, mein Alter, kann ich mich kürzer fassen. Ich behaupte, daß in diesem Turm das echte Testament des Geheimrats versteckt liegt, daß Vera Bertty dies weiß, daß sie die Urkunde bergen will, daß sie ferner davon unterrichtet war, daß Siegfried Berancy durch seine Stromer das Testament hier suchen lassen will, daß also er selbst und die ›Köpfe‹ ein Interesse daran haben, das Testament in ihre Hände zu bekommen, nachdem sie selbst schon umsonst den Turm danach durchforscht haben. — Die augenblickliche Sachlage ist folgende, und hiermit komme ich auf die an dich gerichtete Frage zurück: Was müßte sich noch ereignen, oder, wie ich nun fürchte, schon ereignet haben? Bedenke, Landjäger Sturm ist zweifellos, nachdem ihm die Bertty hier im oder am Turm entschlüpft war, — er sollte sie ja beobachten! — verkleidet zurückgekehrt. Als die drei Chinesen eindringen, greifen sie ihn an, er schießt vorbei, sie schlagen ihn nieder und glauben, er hätte vorläufig genug. Aber seine Hühnennatur hilft ihm, er kommt zu sich, taumelt ins Freie … wir schicken Fred zu ihm. Vorhin schlüpfen die Chinesen aus dem Turm. Was werden sie tun? Den niedergeschlagenen Sturm verfolgen, der verschwunden ist!! Er darf ihnen nicht entkommen! Und deshalb, mein Alter, fürchte ich sowohl für Sturm wie für Fred weit ärgeres als für Vera Bertty, die hier sehr bald erscheinen wird, da sie aus dem Stromerlager entfliehen soll…«
+»Wir haben Zeit. Überschauen wir das Geschehene. Hektor Güllich wird nach ein Uhr tot aufgefunden, seine Stiefmutter, gleichzeitig seine verhaßte Erbschaftsprozeßgegnerin, kommt zu uns. — Wir sehen uns den Tatort an, ebenso Hektors Etage in der Villa, wir hören von seinem ausgedehnten, zweifelhaften Bekanntenkreis. Wir erhalten durch Frau Güllich seltsame Kunde von drei Chinesen, wir haben vorher der Dame drohende Verhaftung verhindert, wir haben ebenso vorher durch Freund Tegthoff noch merkwürdigere Dinge über den Zustrom von Vagabunden hierher — und von einer Reporterin vernommen, die bereits verstorben ist und auf deren Papieren jetzt ihre Freundin Vera Bertty ›reist‹… — Ich kenne die Bertty nur von Bildern her, meine Schlußfolgerung, daß sie die alte Landstreicherin sei, muß kühn erscheinen, die Köchin sagte mir, ihre Herrin sei nach München zu einer Filmaufnahme gereist. Mein zweiter Anruf galt einem Lokal, in dem die Edelkomparserie verkehrt. Einer der Herren dort erklärte, Fräulein Bertty sei für keinen Münchner Film verpflichtet. Mithin sprechen fünfundsiebzig Prozent Wahrscheinlichkeit für meine Annahme. — Und nun unsere hiesigen Erlebnisse. Wir entdecken das Stromerlager, das ich übrigens hier in der Nähe vermutet hatte. Ich richtete unseren Marsch durch den Wald so ein, daß wir an den unzugänglichsten Stellen dieser Wildnis vorüberkamen. Was wir sahen, weißt du. Die Bertty war von den Stromern geschnappt worden. Wir suchen den Turm auf, wir werden Zeugen, wie die drei Chinesen, als solide Bürger gekleidet, in den Turm schlüpfen, wie dort drinnen drei Schüsse fallen, wie der Landjäger ins Freie taumelte und wie die Chinesen im Gespensterturm an den Mauern herumhämmern. —Nun sitzen wir beide hier und warten. Worauf? — Ich habe dir, mein Alter, schon xmal stets dasselbe gepredigt: Ein Detektiv ohne Phantasie ist für die Katz! Nur die Einbildungskraft, die das vorhandene Tatsachenmaterial in einen Phantasierahmen hineinzuzwängen weiß und diesem Rahmen wechselnde Formen gibt, falls die Tatsachen eben nicht hineinpassen, kann schließlich den einen Rahmen finden, der ungefähr der richtige sein könnte. Nimm einmal folgendes an: Hektor Güllich und die Bertty waren ein Liebespaar. Zumindest standen sie einander freundschaftlich sehr nahe, wenn sie dies auch in der Öffentlichkeit geheim hielten. Die Bertty mag nun genau wie ich gewußt haben, daß das moderne Vagabundentum in Berlin eine ›Hauptgeschäftsstelle‹ besitzt, die von jener Sorte von Intellektuellen geleitet wird, deren kokainverseuchte Kadaver und Hirne so ziemlich alles treiben, was man ›gesellschaftliches Außenseiterstreben‹ nennen könnte. Diese edlen Herren tagen in einer Bar im Westen Berlins, die sehr poetisch ›Maulwurf‹ heißt. Der Kriminalpolizei erscheinen diese Leutchen als harmlose Dekadente mit so und so viel Komplexen, obwohl die Gefährlichkeit dieser ›Hauptgeschäftsstelle‹ nicht unbedeutend sein dürfte. Der im ›Maulwurf‹ tagende Klub dieser führenden ›Geister‹ nennt sich — höre und staune! — … nennt sich ›Die Köpfe‹. Du hast einen Kopf, ich habe einen, der Geheimrat Güllich hatte einen, so und so viele feudale Leute tragen ebenfalls Köpfe zwischen den Schultern. Es kommt nur darauf an, was drinnen ist, — entweder verkalkte Holzwolle — gesundes oder vergiftetes Hirn. — Kurz und gut, von diesen ›Köpfen‹ aus der Maulwurfbar verkehrten fast alle bei Hektor Güllich. Ich rief mittags auch noch den Redakteur Tromissen, einen nur leicht geistig angeknaxten, sonst anständigen Kerl an und horchte ihn aus. Tromissen nannte mir als den Oberkopf der ›Köpfe‹, ich möchte sagen als den Wasserkopf, einen gewissen Siegfried Berancy, einen gebürtigen Ungar, seines Zeichens ›freier Schriftsteller‹. Wovon der Bursche lebt, weiß niemand. Aber er lebt gut, ist stets tadellos angezogen, und Tromissen führte ihn vor Monaten bei Hektor ein, worauf — gib acht! — der Ungar auch die anderen ›Köpfe‹ bei Güllich einschmuggelte, bis schließlich die Herrenabende Hektors mehr fragwürdige als ehrbare Elemente aufwiesen. — Nach dieser Vorrede, mein Alter, kann ich mich kürzer fassen. Ich behaupte, daß in diesem Turm das echte Testament des Geheimrats versteckt liegt, daß Vera Bertty dies weiß, daß sie die Urkunde bergen will, daß sie ferner davon unterrichtet war, daß Siegfried Berancy durch seine Stromer das Testament hier suchen lassen will, daß also er selbst und die ›Köpfe‹ ein Interesse daran haben, das Testament in ihre Hände zu bekommen, nachdem sie selbst schon umsonst den Turm danach durchforscht haben. — Die augenblickliche Sachlage ist folgende, und hiermit komme ich auf die an dich gerichtete Frage zurück: Was müßte sich noch ereignen, oder, wie ich nun fürchte, schon ereignet haben? Bedenke, Landjäger Sturm ist zweifellos, nachdem ihm die Bertty hier im oder am Turm entschlüpft war, — er sollte sie ja beobachten! — verkleidet zurückgekehrt. Als die drei Chinesen eindringen, greifen sie ihn an, er schießt vorbei, sie schlagen ihn nieder und glauben, er hätte vorläufig genug. Aber seine Hühnennatur hilft ihm, er kommt zu sich, taumelt ins Freie … wir schicken Fred zu ihm. Vorhin schlüpfen die Chinesen aus dem Turm. Was werden sie tun? Den niedergeschlagenen Sturm verfolgen, der verschwunden ist!! Er darf ihnen nicht entkommen! Und deshalb, mein Alter, fürchte ich sowohl für Sturm wie für Fred weit ärgeres als für Vera Bertty, die hier sehr bald erscheinen wird, da sie aus dem Stromerlager entfliehen soll…«
 
 »Soll?! — Das ist mir nicht recht klar,« wagte ich kopfschüttelnd zu murmeln.
 
@@ -481,35 +462,18 @@ Antwort?
 
 Die konnte ich mir aus den Sternen heraussuchen.
 
- 
-
- 
-
 <h2>6. Kapitel</h2>
 <h3>Herrn Buths Alibi.</h3>
+
 Am nächsten Tag gegen sieben Uhr abends saßen in der Arnoldstraße, Berlin W, in einem bescheidenen villenartigen Häuschen während eines schweren Gewitters vier Männer um den Sofatisch des großen, büroartigen Vorderzimmers und hatten jeder eine Abendzeitung in den Händen. Der Raum war voller Zigarren- und Zigarettenrauch, und der gegen die Fenster prasselnde Hagel gab die lärmende Begleitmusik zu den kernigen Bemerkungen ab, die der jüngste der vier übertemperamentvoll in die allgemeine Lesewut wie künstliche Blitze hineinwarf.
 
 Das Abendblatt, das ich gerade erwischt hatte, schrieb über die Vorgänge bei Gusthafen folgendes:
 
-> > … Die übereifrige Polizei hat sich in jedem Fall mit der Aushebung dieses Vagabundenkongresses wieder einmal unsterblich blamiert. Es lag auch nicht der allergeringste Grund vor, diese bedauernswerten Ritter der Landstraße, die nun endlich über eine straffe Organisation verfügen, wie Verbrecher in ein Spritzenhaus einzusperren. Der Kriminalinspektor Tegthoff aus der Hafenstadt Braunemünde hätte seinen Schneid besser bei anderer Gelegenheit bewiesen. 
-
-> > Denn — was kam bei der ganzen Aktion heraus? —
-
-> > Nichts!! —
-
-> > Aus den beschlagnahmten Akten ging hervor, daß die ›Pennerschaften Brandenburg-Pommern‹ tatsächlich nur eine Tagung über ›Standesfragen‹ hatten abhalten wollen. Jeder der Verhafteten war aus der Bundeskasse genügend mit Zehrgeld versehen worden, und der erste Bundesvorstand, Schriftsteller Siegfried Berancy, der erst morgens nach den Festnahmen im Flugzeug dort eintraf, setzte es durch, daß die Leute sämtlich wieder freigelassen werden mußten. Er wird sich nebst den anderen Bundesleitern lediglich wegen Gründung eines polizeilich nicht angemeldeten Vereins zu verantworten haben. 
-
-> > Unter den Verhafteten befand sich übrigens nicht ein einziger, der irgendwie von der Polizei wegen noch nicht gesühnter Straftaten gesucht wurde. Wenn überhaupt etwas ›Geheimnisvolles‹ bei diesem Kongreß der Penner zu vermerken wäre, dann war das: Zwei der Stromer sind entkommen, sie trugen Fischertracht, aber man nimmt an, daß es sich lediglich um Delegierte anderer Pennerschaften gehandelt hat. —
-
-> > Der Überfall auf den Landjäger Sturm im sogenannten Gespensterturm bei Gusthafen steht zu diesen Dingen in keinerlei Beziehung, und die drei gutgekleideten Herren, die Sturm niederschlugen, dürften Badegäste aus der Nähe gewesen sein, die sich als ›Schatzgräber‹ versuchen wollten. Die Gerüchte, daß die Turmruine einen alten Kriegsschatz aus der Schwedenzeit berge, sind natürlich genau so unsinnig wie das Märchen von den drei ›spukenden‹, seiner Zeit im Turm tödlich verunglückten Zimmerleute.
+»… Die übereifrige Polizei hat sich in jedem Fall mit der Aushebung dieses Vagabundenkongresses wieder einmal unsterblich blamiert. Es lag auch nicht der allergeringste Grund vor, diese bedauernswerten Ritter der Landstraße, die nun endlich über eine straffe Organisation verfügen, wie Verbrecher in ein Spritzenhaus einzusperren. Der Kriminalinspektor Tegthoff aus der Hafenstadt Braunemünde hätte seinen Schneid besser bei anderer Gelegenheit bewiesen. Denn — was kam bei der ganzen Aktion heraus? — Nichts!! — Aus den beschlagnahmten Akten ging hervor, daß die ›Pennerschaften Brandenburg-Pommern‹ tatsächlich nur eine Tagung über ›Standesfragen‹ hatten abhalten wollen. Jeder der Verhafteten war aus der Bundeskasse genügend mit Zehrgeld versehen worden, und der erste Bundesvorstand, Schriftsteller Siegfried Berancy, der erst morgens nach den Festnahmen im Flugzeug dort eintraf, setzte es durch, daß die Leute sämtlich wieder freigelassen werden mußten. Er wird sich nebst den anderen Bundesleitern lediglich wegen Gründung eines polizeilich nicht angemeldeten Vereins zu verantworten haben. Unter den Verhafteten befand sich übrigens nicht ein einziger, der irgendwie von der Polizei wegen noch nicht gesühnter Straftaten gesucht wurde. Wenn überhaupt etwas ›Geheimnisvolles‹ bei diesem Kongreß der Penner zu vermerken wäre, dann war das: Zwei der Stromer sind entkommen, sie trugen Fischertracht, aber man nimmt an, daß es sich lediglich um Delegierte anderer Pennerschaften gehandelt hat. — Der Überfall auf den Landjäger Sturm im sogenannten Gespensterturm bei Gusthafen steht zu diesen Dingen in keinerlei Beziehung, und die drei gutgekleideten Herren, die Sturm niederschlugen, dürften Badegäste aus der Nähe gewesen sein, die sich als ›Schatzgräber‹ versuchen wollten. Die Gerüchte, daß die Turmruine einen alten Kriegsschatz aus der Schwedenzeit berge, sind natürlich genau so unsinnig wie das Märchen von den drei ›spukenden‹, seiner Zeit im Turm tödlich verunglückten Zimmerleuten.«
 
 So schrieb das Blatt, das ich gerade las.
 
-Jede Zeitung beleuchtete die Vorgänge natürlich anders, je nach ihrer politischen Einstellung. Die eine forderte schärferes Vorgehen gegen diesen ›Pennerbund‹, der eine Gefahr für den anständigen Bürger darstelle, — eine dritte Zeitung berichtete nur die nackten Tatsachen und brachte dicht unter dieser Notiz zwei andere, die sich mit der Tagung der Vertreter der Regimentsvereine und dem Kongreß deutscher Briefmarkensammler beschäftigten — — was etwas erheiternd, wenn nicht geschmacklos wirkte. 
-
-Unser Fred äußerte nur: »Netter Spießbürgerrummel!!« — 
-
-Worauf sich das bezog, war nicht klar ersichtlich.
+Jede Zeitung beleuchtete die Vorgänge natürlich anders, je nach ihrer politischen Einstellung. Die eine forderte schärferes Vorgehen gegen diesen ›Pennerbund‹, der eine Gefahr für den anständigen Bürger darstelle, — eine dritte Zeitung berichtete nur die nackten Tatsachen und brachte dicht unter dieser Notiz zwei andere, die sich mit der Tagung der Vertreter der Regimentsvereine und dem Kongreß deutscher Briefmarkensammler beschäftigten — — was etwas erheiternd, wenn nicht geschmacklos wirkte. Unser Fred äußerte nur: »Netter Spießbürgerrummel!«, — worauf sich das bezog, war nicht klar ersichtlich.
 
 Und doch hatten all diese Berichte eins gemeinsam: Weder ›drei Chinesen‹, noch Vera Bertty, noch wir drei, Harst, Fred Steen und ich waren irgendwie erwähnt worden. Die Regie Harsts hatte eben tadellos geklappt, auch in dem einen Punkt, daß er Fräulein Bertty überzeugt hatte, sie täte besser, vorerst unsichtbar zu bleiben. —
 
@@ -551,13 +515,9 @@ Herr Erwin Buth, der Mann mit dem Damoklesschwert des Disziplinarverfahrens übe
 
 »Das … das ließ sich nicht mehr feststellen…«
 
-»So?! — Bitte, hier ist der Kassenzettel… Ich tätigte den Einkauf,« erklärte er in ganz gespreizter Ausdrucksweise, »genau an 27. Juni nachmittags kurz vor sieben Uhr, also <em>nach</em> dem ersten Besuch des Parkes und der Wohnung Hektor Güllichs. 
+»So?! — Bitte, hier ist der Kassenzettel… Ich tätigte den Einkauf,« erklärte er in ganz gespreizter Ausdrucksweise, »genau an 27. Juni nachmittags kurz vor sieben Uhr, also <em>nach</em> dem ersten Besuch des Parkes und der Wohnung Hektor Güllichs. Damals — zwei Stunden vorher hing die Pistole bereits in der Baumkrone, wie ich beschwören kann. <em>Meine</em> Gummischnur diente nur Versuchen ähnlicher Art in meinem Garten draußen und hängt noch von diesen Versuchen her in der Krone der großen Kastanie. Mit diesem Belastungsmaterial gegen meine Person, das etwa auf unzulässige Machenschaften zu Gunsten Frau Güllichs hindeuten könnte, ist es also nichts. Aber ein Belastungsmaterial bleibt es, es fragt sich nur, gegen wen. — Fahren Sie in Ihrem … Verhör fort. Wahrscheinlich hat ein gut arbeitendes Spionagesystem noch mehr ›Material‹ entdeckt.«
 
-Damals — zwei Stunden vorher hing die Pistole bereits in der Baumkrone, wie ich beschwören kann. <em>Meine</em> Gummischnur diente nur Versuchen ähnlicher Art in meinem Garten draußen und hängt noch von diesen Versuchen her in der Krone der großen Kastanie. Mit diesem Belastungsmaterial gegen meine Person, das etwa auf unzulässige Machenschaften zu Gunsten Frau Güllichs hindeuten könnte, ist es also nichts. Aber ein Belastungsmaterial bleibt es, es fragt sich nur, gegen wen. — Fahren Sie in Ihrem … Verhör fort. Wahrscheinlich hat ein gut arbeitendes Spionagesystem noch mehr ›Material‹ entdeckt.«
-
-Armer Teufel von Buth! Er tat mir fast leid. Wie viele haben sich schon an dem Granitklotz Harst die falschen Zähne ausgebissen! — 
-
-Buths Schlangenblicke waren zu Dolchen geworden. Er keuchte vor Grimm, aber er kam gar nicht zu Wort, denn Harald fügte schon hinzu: »Ich weiß, was Sie jetzt fragen werden…: Wo waren Sie gestern von zwei Uhr nachmittags bis heute Vormittag elf Uhr? — Nicht wahr?!«
+Armer Teufel von Buth! Er tat mir fast leid. Wie viele haben sich schon an dem Granitklotz Harst die falschen Zähne ausgebissen! — Buths Schlangenblicke waren zu Dolchen geworden. Er keuchte vor Grimm, aber er kam gar nicht zu Wort, denn Harald fügte schon hinzu: »Ich weiß, was Sie jetzt fragen werden…: Wo waren Sie gestern von zwei Uhr nachmittags bis heute Vormittag elf Uhr? — Nicht wahr?!«
 
 Erwin Buth, der Beamte auf der ›Totenliste‹, der wohl das drohende Verhängnis durch besondere ›Leistungen‹ von sich noch abwenden wollte, rief heiser, — es klang nicht schön, wirklich nicht: »Ich möchte zuerst einmal wissen, wer der Herr Müller dort ist…« 
 
@@ -591,7 +551,7 @@ Buth schrak unter dem messerscharfen Ton dieser Frage erneut zusammen.
 
 »Be… Berancy?!« Dem armen Opfer dieser seltsamen Art von Streckfolter war der Unterkiefer herabgesunken. »Be… Berancy ist nicht mein Freund. Ich kenne ihn nur ganz oberflächlich durch die Herrenabende bei Hektor Güllich, — eine Zufallsbekanntschaft.«
 
-»Mag sein…. Also der erste Vorstand der Pennerschaften war nicht zur Stelle, Sie waren allein, — ich werde die Geheimrätin anrufen…«
+»Mag sein… Also der erste Vorstand der Pennerschaften war nicht zur Stelle, Sie waren allein, — ich werde die Geheimrätin anrufen…«
 
 Harald ging bereits zum Schreibtisch und hob den Hörer ab.
 
@@ -603,11 +563,10 @@ Da geschah etwas sehr Merkwürdiges: Harst sprach höflich entschuldigend in die
 
 Und er legte den Hörer auf die Gabel zurück, blickte den geisterbleichen Kriminalkommissar flüchtig an und meinte: »Sie wechseln sehr oft die Farbe, Herr Buth. — Wollen wir sofort aufbrechen… Fred, besorgen Sie zwei Autotaxen…«
 
- 
-
 <h2>7. Kapitel</h2>
 <h3>Der tödliche Anruf.</h3>
-Während der Fahrt — Buth saß ganz still neben Harst, der mit Hilfe seiner Taschenlampe Zeitung las — hatte ich Zeit genug, diese neuen Geschehnisse prüfend nochmals zu überschauen. Der Fall Güllich blieb völlig undurchsichtig. Nur eins war nun wohl geklärt: Auch Buth hatte genau wie Berancy seine unsauberen Finger irgendwie mit in diesem verworrenen Spiel, bei dem es bestimmt um das große Vermögen des verstorbenen Geheimrates, das mehrere Millionen betrug, ging. Der Gespensterturm bei Gusthafen mußte als Versteck des echten Testaments gedient haben. Vera Bertty hatte davon gewußt, sie hatte ermordet werden sollen, alles weitere blieb in Dunkel gehüllt.
+
+Während der Fahrt — Buth saß ganz still neben Harst, der mit Hilfe seiner Taschenlampe Zeitung las — hatte ich Zeit genug, diese neuen Geschehnisse prüfend nochmals zu überschauen. Der Fall Güllich blieb völlig undurchsichtig. Nur eins war nun wohl geklärt: Auch Buth hatte genau wie Berancy seine unsauberen Finger irgendwie mit in diesem verworrenen Spiel, bei dem es bestimmt um das große Vermögen des verstorbenen Geheimrates, das mehrere Millionen betrug, ging. Der Gespensterturm bei Gusthafen *mußte* als Versteck des echten Testaments gedient haben. Vera Bertty hatte davon gewußt, sie hatte ermordet werden sollen, alles weitere blieb in Dunkel gehüllt.
 
 Als die beiden Taxen vor der Villa hielten, entstieg der zweiten lediglich ›Herr Müller‹, mit wahrem Namen Fritz Tegthoff. Fred Steen schien unterwegs verloren gegangen zu sein.
 
@@ -615,7 +574,7 @@ Als die beiden Taxen vor der Villa hielten, entstieg der zweiten lediglich ›He
 
 »Ausgestiegen, auf meinen Befehl… Und dieser Befehl umfaßte noch andere Dinge, Herr Buth. Genau so, wie Sie Herrn Müller sehr gut mit richtigen Namen kennen, wissen Sie, daß wir daheim einen Gast beherbergen, dessen Leben schwer bedroht ist. Dieser <em>Gast</em> ist jetzt durch Steen dorthin gebracht worden, wo ihm nichts zustoßen kann.«
 
-Es grollte und blitzte noch immer. Der Regen fiel nur dünnen. Aber die Schweißbäche, die über Buths Gesicht rannen, redeten eine sehr eindeutige Sprache.
+Es grollte und blitzte noch immer. Der Regen fiel nur dünn. Aber die Schweißbäche, die über Buths fahles Gesicht rannen, redeten eine sehr eindeutige Sprache.
 
 Frau Eleonore Güllich empfing uns wieder in der Bibliothek, wo sie gelesen zu haben schien. Auf dem Tisch der Klubecke lag ein aufgeschlagenes Buch. Die noch immer schöne Frau sah krank und verfallen aus. Ihre Selbstsicherheit war wie weggetilgt, — nervös und fahrig bat sie uns, Platz zu nehmen und hörte kaum hin, als Harst ihr den netten, straffen Tegthoff mit richtigem Namen vorstellte.
 
@@ -651,7 +610,7 @@ Die Fenstervorhänge waren dicht geschlossen, es brannten hier in der Bibliothek
 
 »Ja… Das mußte ich wohl tun…«
 
-Das Haus war also leer — bis auf Sie… Der Pförtner wohnt ja an der Parkmauer im eigenen Häuschen, und Hunde sind nicht vorhanden.«
+»Das Haus war also leer — bis auf Sie… Der Pförtner wohnt ja an der Parkmauer im eigenen Häuschen, und Hunde sind nicht vorhanden.«
 
 »Das ist alles richtig…«
 
@@ -671,9 +630,9 @@ Das geisterbleiche Gesicht der Geheimrätin mit den dunklen Schatten um die Auge
 
 »Ja… Hier…!«
 
-Es war ein getipptes Schreiben ohne Ortsangabe und Unterschrift. und lautete:
+Es war ein getipptes Schreiben ohne Ortsangabe und Unterschrift. Es lautete:
 
-> > Wenn Sie die Wahrheit über den Tod Ihres Stiefsohnes erfahren wollen, bleiben Sie heute abend von acht bis neun in der Bibliothek in der Klubecke neben dem Fenster und halten Sie ein Telephon bereit. Ein Anschluß zum Stöpseln befindet sich ja neben dem Sofa. Gehorchen Sie unbedingt. Ihre Sicherheit ist gefährdet.
+> »Wenn Sie die Wahrheit über den Tod Ihres Stiefsohnes erfahren wollen, bleiben Sie heute abend von acht bis neun in der Bibliothek in der Klubecke neben dem Fenster und halten Sie ein Telephon bereit. Ein Anschluß zum Stöpseln befindet sich ja neben dem Sofa. Gehorchen Sie unbedingt. Ihre Sicherheit ist gefährdet.«
 
 Harald hatte dies laut vorgelesen.
 
@@ -697,7 +656,7 @@ Und sich wendend: »Haben Sie Mäuse in den Kellern, gnädige Frau?«
 
 »Schraut, sieh zu, ob du eine Falle mit lebenden Mäusen findest…«
 
-Aber es sollte nicht dazu kommen, daß ich in den Keller hinab mußte. Plötzlich kam hinter einen der Schränke eine große gelbe Katze mit kläglichem Miauen hervor.
+Aber es sollte nicht dazu kommen, daß ich in den Keller hinab mußte. Plötzlich kam hinter einem der Schränke eine große gelbe Katze mit kläglichem Miauen hervor.
 
 »Wem gehört sie?« fragte Harst schnell.
 
@@ -709,7 +668,7 @@ Er hatte die Katze ergriffen, schnitt ein Stück Vorhangschnur ab und bat Frau G
 
 Buth, den Tegthoff dauernd scharf überwachte, sank auf einen Stuhl neben der Tür. Frau Güllich stierte den Unglücklichen wie eine finstere Schreckgestalt an… Was eigentlich aus ihren Blicken herauszulesen war, blieb mir unklar.
 
-Es war jedenfalls eine so unglaublich mit Gewitterluft überladene Stimmung, die auf uns lastete, daß mir das plötzliche Schrillen des Telephons auf dem Ecktisch wir ein Signal zur Entspannung erschien.
+Es war jedenfalls eine so unglaublich mit Gewitterluft überladene Stimmung, die auf uns lastete, daß mir das plötzliche Schrillen des Telephons auf dem Ecktisch wie ein Signal zur Entspannung erschien.
 
 Der Apparat schnurrte dreimal…
 
@@ -725,7 +684,7 @@ Das Tier, das soeben noch aufrecht gesessen hatte, schwankte und fiel plötzlich
 
 »Tot!« sagte Harald ganz laut. »Und <em>der</em> Tod, Frau Güllich, war Ihnen zugedacht!!«
 
-Er riß dem halb ohnmächtigen Buth ins Nebenzimmer, winkte uns und schlug die Verbindungstür zu.
+Er riß den halb ohnmächtigen Buth ins Nebenzimmer, winkte uns und schlug die Verbindungstür zu.
 
 Wir standen in des Geheimrats Herrenzimmer… Harst führte die taumelnde Frau Güllich zu einem Sessel, während Tegthoff dem armseligen Wicht von ›Kollegen‹ Handschellen anlegte.
 
@@ -749,12 +708,9 @@ Harst erklärte dann nur noch: »Die Verbündeten Buths wagten es nicht, Frau G�
 
 »Ja. Lassen Sie sie verhaften, sie sind reif. Der Kampf um die Güllich-Millionen nähert sich dem Schlußakt…«
 
- 
-
- 
-
 <h2>8. Kapitel</h2>
 <h3>Eine unbegreifliche Flucht.</h3>
+
 Inzwischen war es elf Uhr geworden, das Gewitter hatte sich verzogen, und in derselben Bibliothek, die vorhin nur uns als engste Beteiligte beherbergt hatte, saßen nun auch zwei höhere Beamte und drei äußerlich sehr elegante Herren, die leider Handschellen trugen. Diese drei waren der ›Schriftsteller‹ Siegfried Berancy, ein Mann mit einem recht fesselnden Gesicht, ferner der Redakteur Alfred Stahl, ein ähnlicher Typ, und der Bildhauer Milo Milowitsch, ein düsterer, haßzerfressener Fanatiker, alles Stammgäste der berüchtigten ›Maulwurf-Bar‹. Nebenher hatte die Polizei noch ein Dutzend ähnlicher Helden geschnappt, auf die es jedoch weniger ankam.
 
 Die drei Verhafteten saßen mit höhnisch-frechen Gesichtern da, besonders Berancy spielte den Unschuldsengel mit all den kleinen Mätzchen, hinter denen doch nur stets die jämmerlichste Angst lauert. Die ›Herren‹ wußten nichts von Buths Verhaftung, nichts von der toten Katze. Die Bibliothek und die Klubecke sahen genau so aus wie vor Stunden, als wir sie betreten hatten. Harst hatte sie auf das Ledersofa platziert, und bevor irgend eine wichtige Äußerung fiel, trat er an den Tisch heran und griff nach dem Hörer, um ihn von der Gabel des Telephonapparates herabzunehmen.
@@ -845,33 +801,26 @@ Wir stehen still, Harst kriecht in das Gestrüpp, kehrt zurück…
 
 »Still!« ruft Fred und deutet nach oben…
 
-Zu sehen gibt es nichts, aber wir hören ein sanftes Schurren von Süden her, das dann jäh verstummt.
+Zu sehen gibt es nichts, aber wir hören ein sanftes Schnurren von Süden her, das dann jäh verstummt.
 
-»Hinein in den Turm!« kommandiert Harald. —
+»Hinein in den Turm!« kommandiert Harald. — Drinnen fragt er Vera Bertty, die sich musterhaft tapfer und ruhig zeigt: »Wo liegt das Testament? — Bitte, jetzt keine falsche Scham mehr! Daß Sie des Geheimrats außereheliche Tochter sind, war wirklich nicht schwer festzustellen. Ihre Beziehungen zu Hektor konnten zunächst falsch gedeutet werden, aber der Verlauf der Dinge wies schließlich doch auf die einzig mögliche Lösung hin.«
 
-Drinnen fragt er Vera Bertty, die sich musterhaft tapfer und ruhig zeigt: »Wo liegt das Testament? — Bitte, jetzt keine falsche Scham mehr! Daß Sie des Geheimrats außereheliche Tochter sind, war wirklich nicht schwer festzustellen. Ihre Beziehungen zu Hektor konnten zunächst falsch gedeutet werden, aber der Verlauf der Dinge wies schließlich doch auf die einzig mögliche Lösung hin.«
+Das junge Mädchen erwiderte nur äußerst bestimmt: »Hektor hatte das Testament oben im dritten Stock hinter einen gelockerten Mauerstein gelegt, und…«
 
-Das junge Dame erwiderte nur äußerst bestimmt: »Hektor hatte das Testament oben im dritten Stock hinter einen gelockerten Mauerstein gelegt, und…«
-
-»Still!«
+»Still!!«
 
 Wieder mahnte uns Fred zum Horchen…
 
- 
-
- 
-
 <h2>9. Kapitel</h2>
 <h3>Das eine Testament.</h3>
+
 Ganz gedämpft vernehmen wir aus den Lüften das ratternde Tacken einer Maschinenpistole oder eines Maschinengewehrs…
 
 Die schnell aufeinanderfolgenden Schüsse werden deutlicher…
 
 Verstummen…
 
-Dann ein hohles, eigentümliches Sausen, und urplötzlich auf den Resten des Turmdaches ein ohrenbetäubender Krach, ein Splitter von Holz, eine schwache Explosion, ein gellender Schrei, — und alles wird wieder still… Nur Holzsplitter und Mauerstücke poltern herab…
-
-Auch das hört auf.
+Dann ein hohles, eigentümliches Sausen, und urplötzlich auf den Resten des Turmdaches ein ohrenbetäubender Krach, ein Splittern von Holz, eine schwache Explosion, ein gellender Schrei, — und alles wird wieder still… Nur Holzsplitter und Mauerstücke poltern herab… Auch das hört auf.
 
 Wir starren uns in die schweißfeuchten Gesichter.
 
@@ -881,9 +830,9 @@ Der semmelblonde Jüngling, der schwer beladen ist mit einem umfangreichen Rucks
 
 Inzwischen haben wir längst mit Taschenlampen und Laternen das völlig eingedrückte Dach und die Reste eines Eindeckers, der gänzlich demoliert zwischen den Trümmern hängt, gründlich abgeleuchtet und längst auch das schwere Stöhnen vernommen, das aus dem Wrack des Rumpfes zu uns hinabdringt.
 
-Harst klettert an dem Tau empor, schwingt sich auf das Flugzeug hinüber, Fred Steen als fixester folgt ihm, uns sehr bald lassen sie behutsam an dem Tau den schlaffen Körper der todwunden Frau herab, von deren wahrem Wesen und von deren Teilnahme an den dunklen Vorgängen der letzten Tage wir noch immer nicht allzuviel wissen. Wir ahnen so manches, aber die inneren Zusammenhänge bleiben — unklar.
+Harst klettert an dem Tau empor, schwingt sich auf das Flugzeug hinüber, Fred Steen als fixester folgt ihm, und sehr bald lassen sie behutsam an dem Tau den schlaffen Körper der todwunden Frau herab, von deren wahrem Wesen und von deren Teilnahme an den dunklen Vorgängen der letzten Tage wir noch immer nicht allzuviel wissen. Wir ahnen so manches, aber die inneren Zusammenhänge bleiben unklar.
 
-Äußerst behutsam wird die Bewußtlose in das Endgeschoß des Gespensterturmes hinab getragen, dort sorgsam gebettet und rasch auf ernstere Verletzungen hin durch den sachkundigen Tegthoff untersucht.
+Äußerst behutsam wird die Bewußtlose in das Erdgeschoß des Gespensterturmes hinab getragen, dort sorgsam gebettet und rasch auf ernstere Verletzungen hin durch den sachkundigen Tegthoff untersucht.
 
 Der zuckt dann die Achseln…
 
@@ -895,7 +844,8 @@ Die Frau liegt leichenblaß da, und aus ihrem halb geöffneten Mund tritt blasig
 
 Vera Bertty kniet neben ihr, säubert das marmorbleiche Gesicht und schaut erst auf, als Harst, der inzwischen den bewußten Mauerstein gefunden hat, ihr einen dicken Umschlag unter die Augen hält:
 
-<p class="centered">Mein Testament</p>
+<p class="centered">»Mein Testament«.</p>
+
 So lautet die Aufschrift.
 
 Vera winkt hastig ab. »Nur jetzt nicht, — — es ist doch meines Vaters zweite Gattin, die hier für alles büßt!«
@@ -926,13 +876,13 @@ Der Kriminalrat wartet geduldig. Harst sitzt etwas zusammengesunken auf der Trep
 
 Betretenes Schweigen…
 
-Harst erhebt sich, tritt dich vor den gefesselten König der Vagabunden hin, greift in die Tasche…
+Harst erhebt sich, tritt dicht vor den gefesselten König der Vagabunden hin, greift in die Tasche…
 
 »Da — — löst Ihnen <em>das</em> die Zunge?! Das ist das echte Testament, das Ihre heimliche Geliebte Frau Güllich widerrechtlich aus dem Wandtresor in der Bibliothek herausnahm, von dem sie nichts erfahren sollte — <em>das</em> ist der Umschlag, den sie widerrechtlich aufschnitt, den Inhalt las und daraus ersah, daß ihr Mann sie als Ehebrecherin enterbt und seine beiden Kinder zu gleichen Teilen als Erben einsetzte: Hektor, seinen ehelichen Sohn, und Vera Bertty, das Kind einer freien Liebe, — <em>Sie</em> wußten dies, Berancy und Buth, und Sie beide … stahlen dieses echte Testament noch in derselben Nacht aus dem Tresor, nachdem Sie die arme törichte Frau, die für Sie, Berancy, eine blinde Leidenschaft empfand, dazu bestimmt hatten, die Urkunde nicht sofort zu vernichten. — Leugnen Sie, daß diese meine Schlußfolgerungen stimmen?«
 
 Keine Antwort…
 
-»Nun gut, — — sie stimmen! Sie müssen auch stimmen, denn die Ereignisse sprechen für ihre Richtigkeit! — Der geistige Urheber dieses ungeheuerlichen Schurkenstreiches sind zweifellos Sie, Berancy. Nur Sie konnten die drei Chinesen des Geheimrats, die diesem in hündischer Treue ergeben waren, so beeinflussen, daß sie Hektors Todfeinde wurden. Sie stellten ihnen Frau Güllich als das Opfer der Intrigen Hektors hin, und die törichten armen Teufel glauben Ihnen. — Ist es so? — Sie ziehen es vor, zu schweigen… Auch das ist eine Antwort. Sie verstanden es, Frau Güllich davon zu überzeugen, das echte Testament befände sich nun in Hektors Besitzt, <em>er</em> hätte es an sich gebracht, er wünsche jedoch nicht mit seiner Halbschwester Vera zu teilen, deshalb sei plötzlich das andere, gefälschte Testament aufgetaucht. Und die Ärmste, diese alternde, haltlose, und so verliebte Frau traute Ihnen! — Fürwahr, raffinierter ist noch nie ein Plan entworfen worden, ein Riesenvermögen zu ergaunern! — Was geschah weiter? — Ich will die Ereignisse nur ganz kurz streifen, dann…«
+»Nun gut, — — sie stimmen! Sie müssen auch stimmen, denn die Ereignisse sprechen für ihre Richtigkeit! — Der geistige Urheber dieses ungeheuerlichen Schurkenstreiches sind zweifellos Sie, Berancy. Nur Sie konnten die drei Chinesen des Geheimrats, die diesem in hündischer Treue ergeben waren, so beeinflussen, daß sie Hektors Todfeinde wurden. Sie stellten ihnen Frau Güllich als das Opfer der Intrigen Hektors hin, und die törichten armen Teufel glaubten Ihnen. — Ist es so? — Sie ziehen es vor, zu schweigen… Auch das ist eine Antwort. Sie verstanden es, Frau Güllich davon zu überzeugen, das echte Testament befände sich nun in Hektors Besitzt, <em>er</em> hätte es an sich gebracht, er wünsche jedoch nicht mit seiner Halbschwester Vera zu teilen, deshalb sei plötzlich das andere, gefälschte Testament aufgetaucht. Und die Ärmste, diese alternde, haltlose, und so verliebte Frau traute Ihnen! — Fürwahr, raffinierter ist noch nie ein Plan entworfen worden, ein Riesenvermögen zu ergaunern! — Was geschah weiter? — Ich will die Ereignisse nur ganz kurz streifen, dann…«
 
 Er bricht jäh ab…
 
@@ -944,19 +894,14 @@ Die Laternen schwenken herum. Frau Güllich sitzt aufrecht da, der Mantel ist vo
 
 Das letzte ist kaum mehr zu verstehen. — Frau Eleonore Güllich steht vor dem ewigen Richter…
 
- 
-
- 
-
 <h2>10. Kapitel</h2>
 <h3>Ein leerer Papierbogen.</h3>
+
 Harst breitete den Mantel wieder über die stille Gestalt. Als er sich aufrichtete und zu dem noch immer knienden Berancy hinblickte, schüttelte er sich vor Ekel…
 
 »Sie erschossen Hektor in jener Nacht, Sie elendes feiges Reptil… — Weshalb? Weil Hektor Sie unlängst durchschaut hatte, weil Vera seine Verbündete war, weil Vera entdeckte — sie hat es mir gebeichtet — wo das echte Testament, das Sie jederzeit als Druckmittel gegen Frau Güllich gebrauchen wollten, verborgen war: Hier im Turm! Vera fand es, brachte es Hektor, der das andere Testament nur gefälscht hatte, um Zeit zu gewinnen und um zu verhüten, daß irgendein Vermögenswert seiner Stiefmutter ausgehändigt würde — und dies erreichte er durch den Prozeß und die Nachlaßverwaltung…«
 
-Der ›König‹ der Vagabunden war aufgesprungen. Eine schier unfaßbare Verwandlung war mit ihm vorgegangen. In einer etwas sehr theatralischen Pose stand er da und lachte geringschätzig. 
-
-»Beweisen müssen Sie das alles, Harst!« rief er mit allzu falschem Pathos und mit einer unglaublichen Frechheit. »Nichts können Sie beweisen, nicht! Hektor mag sich selbst entleibt haben, — ich weiß es nicht, es ist mir auch gleichgültig. Auf Fräulein Berttys Zeugnis wird niemand etwas geben, und die Ärmste dort —« — er wies auf die tote Frau Güllich — »war Morphinistin, hielt sich nur noch durch Reizmittel aufrecht. Auch sie trieb ein falsches Spiel, <em>ihre</em> Werkzeuge waren die drei Chinesen, die die Polizei schon finden wird…«
+Der ›König‹ der Vagabunden war aufgesprungen. Eine schier unfaßbare Verwandlung war mit ihm vorgegangen. In einer etwas sehr theatralischen Pose stand er da und lachte geringschätzig. »Beweisen Sie das alles, Herr Harst!« rief er mit allzu falschem Pathos und mit einer unglaublichen Frechheit. »Nichts können Sie beweisen, nichts! Hektor mag sich selbst entleibt haben, — ich weiß es nicht, es ist mir auch gleichgültig. Auf Fräulein Berttys Zeugnis wird niemand etwas geben, und die Ärmste dort —« — er wies auf die tote Frau Güllich — »war Morphinistin, hielt sich nur noch durch Reizmittel aufrecht. Auch sie trieb ein falsches Spiel, <em>ihre</em> Werkzeuge waren die drei Chinesen, die die Polizei schon finden wird…«
 
 »Sie sind stumm für immer,« erklärte Harst ohne besondere Betonung. »In dieser Nacht erschossen worden — — als Verräter!«
 
@@ -964,19 +909,15 @@ Berancy rief hastig: »Von wem denn?! Von wem?« Und auch das war nur Komödie.
 
 Harst schaute ihn unverwandt an. »Sie leugnen also alles ab? Auch den Anschlag auf uns im Turm hier? Auch die Tatsache, daß Sie die Treppe droben vollends zerstört haben, um Schraut, Steen und mich zu beseitigen? Auch das, daß Frau Güllich auf Ihr Geheiß diesen Turm vor uns erwähnen mußte, damit wir hierher gelockt würden? Auch das, daß Sie den Stromerkongreß hierher beriefen, damit die Schuld an dem ›Unfall‹ im Turm irgendwie den Vagabunden zugeschoben werden würde! — Und schließlich auch die Anwesenheit zweier alter Fischer im Stromerlager? Frau Güllich und Buth waren diese ›Fischer‹, waren Ihre Abgesandten, derweil Sie in Berlin geblieben waren. Buth hatte für ein Alibi gesorgt: Er log mir vor, er habe Frau Güllichs Villa bewacht und Frau Güllich abgefaßt, als sie fliehen wollte. Und zu allerletzt: Leugnen Sie auch, daß Frau Güllich durch die Giftgasvorrichtung sterben sollte, die die Chinesen in dem bewußten Ecksofa anbringen mußten?«
 
-Wieder fand Berancy nur das geringschätzige Hohngelächter… 
+Wieder fand Berancy nur das geringschätzige Hohngelächter… »Beweise?! Wo sind sie?! Mit phantastischen Schlußfolgerungen kann man wohl ein Kartenhaus aufbauen, aber jeder Windstoß wirft um! Sie wissen nichts, gar nichts… Sie wissen nichts von der Erholungsreise…«
 
-»Beweise?! Wo sind sie?! Mit phantastischen Schlußfolgerungen kann man wohl ein Kartenhaus aufbauen, aber jeder Windstoß wird es umwerfen! —
-
-Sie wissen nichts, gar nichts… Sie wissen nichts von der Erholungsreise…«
-
-»… die Sie mit Frau Güllich bald nach des Geheimrats Tod unternahmen,« vollendeter Harald kalt. »Eine Seereise nach Madeira, und Berancy, <em>eine Trauung</em> an Bord des englischen Schiffes durch den Kapitän, eine vorgetäuschte Nottrauung, da Frau Güllich die schwer Kranke spielte. <em>Ihre</em> Frau, verwitwete Güllich, sollte Ihnen zu den Millionen verhelfen, sollte dann sterben… — <em>Sie </em>wären ihr einziger Erbe gewesen, denn von Vera Berttys engster Verwandtschaft mit dem Geheimrat ahnte niemand etwas… Nur das Testament enthüllte diese Verwandtschaft. Hier ist es… Hier steht in des Geheimrats Schrift auf dem Umschlag: Mein Testament! Ich holte es soeben droben hinter den Mauersteinen hervor.«
+»… Die Sie mit Frau Güllich bald nach des Geheimrats Tod unternahmen,« vollendete Harald kalt. »Eine Seereise nach Madeira, und Berancy, <em>eine Trauung</em> an Bord des englischen Schiffes durch den Kapitän, eine vorgetäuschte Nottrauung, da Frau Güllich die schwer Kranke spielte. <em>Ihre</em> Frau, verwitwete Güllich, sollte Ihnen zu den Millionen verhelfen, sollte dann sterben… — <em>Sie</em> wären ihr einziger Erbe gewesen, denn von Vera Berttys engster Verwandtschaft mit dem Geheimrat ahnte niemand etwas… Nur das Testament enthüllte diese Verwandtschaft. Hier ist es… Hier steht in des Geheimrats Schrift auf dem Umschlag: Mein Testament! Ich holte es soeben droben hinter den Mauersteinen hervor.«
 
 Berancy verzog höhnisch die Lippen. »Ich denke, Vera gab es Hektor, sagten Sie vorhin.«
 
 »Ich sagte: Sie <em>brachte</em> es ihm. Übergeben konnten Sie es ihm nicht mehr — denn er war tot. Zu schnell hatten Sie, Berancy, das Verschwinden der Urkunde bemerkt.«
 
-»So?! Allerhand Achtung!! Ihrer Phantasie macht nette Seitensprünge. Und — — wo ließ Vera das Testament? He, wo?!«
+»So?! Allerhand Achtung!! Ihre Phantasie macht nette Seitensprünge. Und — — wo ließ Vera das Testament? Wo?!«
 
 »Sie schaffte es schleunigst eben dorthin, wo es ursprünglich gelegen hatte, hier in den Turm…«
 
@@ -1004,19 +945,13 @@ Sehr, sehr langsam faßte er erneut in die Tasche und brachte einen Umschlag ohn
 
 Berancy taumelte zurück…
 
-Harst lachte kalt. »Sie sind ein Schurke von einem ganz ungewöhnlichen Ausmaß…! Der leere Bogen im echten Umschlag <em>war</em> beschrieben, als ich im hinter dem Stein hervorholte. Es schien das echte Testament zu sein… Schien nur so, Berancy! Sie sind auch ein guter Chemiker… Ihre Tinte würde in achtundvierzig Stunden verschwinden, fürchtete ich… Weshalb aber lag in dem Mauerloch ganz hinten ein Fläschchen, das mit Salzsäure gefüllt war und nur einen Wattepfröpfchen hatte?! Damit die verdunstende Säure die Schrift für immer tilgte…! —
+Harst lachte kalt. »Sie sind ein Schurke von einem ganz ungewöhnlichen Ausmaß…! Der leere Bogen im echten Umschlag <em>war</em> beschrieben, als ich ihn hinter dem Stein hervorholte. Es schien das echte Testament zu sein… Schien nur so, Berancy! Sie sind auch ein guter Chemiker… Ihre Tinte würde in achtundvierzig Stunden verschwinden, fürchtete ich… Weshalb aber lag in dem Mauerloch ganz hinten ein Fläschchen, das mit Salzsäure gefüllt war und nur einen Wattepfröpfchen hatte?! Damit die verdunstende Säure die Schrift für immer tilgte…! — Berancy, Sie sehen wieder sehr blaß aus… All Ihre Pläne sind gescheitert… Sie wollten mich ein leeres Papier finden lassen, doch ich … fand auch <em>Ihr</em> zweites Versteck, auch einen losen Mauerstein, aber mit fest eingedrückten Mörtelstücken in den Fugen — und dort lag <em>dieser</em> Umschlag, — — das echte Testament! Ich nahm es mit, — — den anderen Umschlag, der Vera betrügen sollte, ließ ich liegen.«
 
-Berancy, Sie sehen wieder sehr blaß aus… All Ihre Pläne sind gescheitert… Sie wollten mich ein leeres Papier finden lassen, doch ich … fand auch <em>Ihr</em> zweites Versteck, auch einen losen Mauerstein, aber mit fest eingedrückten Mörtelstücken in den Fugen — und dort lag <em>dieser</em> Umschlag, — — das echte Testament! Ich nahm es mit, — — den anderen Umschlag, der Vera betrügen sollte, ließ ich liegen.«
+Kurze Pause… Berancys Augen flackerten vor Angst.
 
-Kurzer Pause… 
+»Und dies ist mein schwerwiegendster Beweis gegen Sie, Berancy: In der Mordnacht, nachdem Sie Hektor erschossen hatten, bemerkten Sie Vera, die den Toten fand und sofort eilends nach Gusthafen fuhr… <em>Sie</em> folgten ihr… <em>Sie</em> beobachteten Sie… <em>Sie</em> sahen, wie sie das echte Testament in dasselbe Mauerversteck zurücktat, weil sie glaubte, dort würden Sie niemals suchen… Als Vera wieder davongefahren war, entwarfen Sie den neuen Plan, fertigten das Neue Testament mit der wieder verschwindenden Schrift an, tauschten echtes gegen unechtes aus und glauben sich so gesichert. Sollte Vera ihren Entschluß ändern, überlegten Sie sich, würde sie … leeres Papier mitnehmen, anderseits blieb das echte Testament als Zwangsmittel gegen Ihre Frau erhalten, — — ein raffiniertes Vorgehen, zu raffiniert, Berancy!! Sie haben sich dadurch selbst die Schlinge über den Kopf gestreift, denn daheim habe ich auf dem Umschlag ohne Aufschrift <em>Ihre</em> Fingerabdrücke sichtbar gemacht, — — bitte, schauen Sie her!! Fingerabdrücke lügen nicht! <em>Sie</em> sind der Mörder, der geistige Urheber dieser Jagd nach den Güllich-Millionen! — — Herr Kriminalrat, Ihnen übergebe ich diese Beweisstücke… Für mich ist der Fall damit erledigt…«
 
-Berancys Augen flackerten vor Angst.
-
-»Und dies ist mein schwerwiegendster Beweis gegen Sie, Berancy: In der Mordnacht, nachdem Sie Hektor erschossen hatten, bemerkten Sie Vera, die den Toten fand und sofort eilends nach Gusthafen fuhr… <em>Sie</em> folgten ihr… <em>Sie</em> beobachteten Sie… <em>Sie</em> sahen, wie sie das echte Testament in dasselbe Mauerversteck zurücktat, weil sie glaubte, dort würden Sie niemals suchen… 
-
-Als Vera wieder davongefahren war, entwarfen Sie den neuen Plan, fertigten das Neue Testament mit der wieder verschwindenden Schrift an, tauschten echtes gegen unechtes aus und glauben sich so gesichert. Sollte Vera ihren Entschluß ändern, überlegten Sie sich, würde sie … leeres Papier mitnehmen, anderseits blieb das echte Testament als Zwangsmittel gegen Ihre Frau erhalten, — — ein raffiniertes Vorgehen, zu raffiniert, Berancy!! Sie haben sich dadurch selbst die Schlinge über den Kopf gestreift, denn daheim habe ich auf dem Umschlag ohne Aufschrift <em>Ihre</em> Fingerabdrücke sichtbar gemacht, — — bitte, schauen Sie her!! Fingerabdrücke lügen nicht! <em>Sie</em> sind der Mörder, der geistiger Urheber dieser Jagd nach den Güllich-Millionen! — — Herr Kriminalrat, Ihnen übergebe ich diese Beweisstücke… Für mich ist der Fall damit erledigt…«
-
-Als wir ins Freie traten und Tegthoff dabei mit zartester Fürsorge Vera Bertty stützte, lag klares Mondlicht über der ganzen Gegend. Die See rauschte leise, ein paar verschlafenen Möven kreischten und der würzige Duft der Juninacht war rein und stark — und unberührt von der Schlechtigkeit der Welt um uns her… — —
+Als wir ins Freie traten und Tegthoff dabei mit zartester Fürsorge Vera Bertty stützte, lag klares Mondlicht über der ganzen Gegend. Die See rauschte leise, ein paar verschlafenen Möwen kreischten und der würzige Duft der Juninacht war rein und stark — und unberührt von der Schlechtigkeit der Welt um uns her… — —
 
 Vierzehn Tage darauf saß Vera Bertty, nunmehr einzige Erbin des Riesenvermögens, sehr ernst als Klientin uns gegenüber. Mit voller Offenheit erklärte sie ohne Umschweife: 
 
@@ -1030,5 +965,8 @@ Er öffnete die Tür zum Nebenraum, wir traten dort ein, und dann schob Harald d
 
 Er schlug die Tür zu.
 
-Wir gingen in den kleinen Vorgarten. Das Brautpaar erschien erst nach einer Stunde, und beide sahen sehr glücklich und — sehr erhitzt aus…
+Wir gingen in den kleinen Vorgarten. Das Brautpaar erschien erst nach einer Stunde, und beide sahen sehr glücklich und sehr erhitzt aus…
+
+<#import "*/harst.ftl" as harst>
+<@harst.naechsterband band="Der Lackschuh der Lady Farstal."/>
 
