@@ -3,7 +3,6 @@
 <h2>1. Kapitel.</h2>
 
 <h3>Wilddiebe und ein Lackschuh.</h3>
-
 Das uralte Schloß Reubnick, ein zwingburgartiger Bau
 mit Wällen und Gräben, mit einem riesigen Park und gewaltigen
 Ländereien, war zweifellos einer der schönsten Herrensitze
@@ -2338,7 +2337,8 @@ Erde bedeckt vor, und all das nehme ich auf meinen Eid.«
 — Was auf diese Sätze Harsts folgte, gehört mehr in
 eine rührselige Geschichte hinein.
 
-* * *
+<p class="centered"><strong><span style="font-family:Times
+New Roman,Times,serif"><span style="font-size:14px">*</span></span></strong></p>
 
 Ein Lackschuh, ein Lederstück und eine Schere liegen
 neben mir…: Andenken an einen Kriminalfall, der gewiß ganz
