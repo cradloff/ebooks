@@ -3,6 +3,7 @@
 <h2>1. Kapitel.</h2>
 
 <h3>Wilddiebe und ein Lackschuh.</h3>
+
 Das uralte Schloß Reubnick, ein zwingburgartiger Bau
 mit Wällen und Gräben, mit einem riesigen Park und gewaltigen
 Ländereien, war zweifellos einer der schönsten Herrensitze
@@ -82,7 +83,7 @@ seine aufgeplusterte Kopfhaltung auch waren, sein jetziges
 Benehmen dort oben in dem Stübchen warf auf ihn ein noch
 weit kennzeichnenderes Licht. Die Unterhaltung zwischen
 den beiden nahm sehr bald eine höchst gereizte Form an,
-sowohl das junge Mädchen als auch der weit älterer Herr
+sowohl das junge Mädchen als auch der weit ältere Herr
 bewiesen durch Gesten und Mienenspiel, daß sie erbitterte
 Gegner waren, und schließlich artete der Streit von Seiten
 des Mannes zu halben Tätlichkeiten aus. Er sprang auf, riß
@@ -175,7 +176,7 @@ bleibt nun abzuwarten, was das Mädchen tut. Daß sie dich
 beobachtet hat, als du den Schuh aufhobst, ist sicher. Du
 sagtest selbst, ihre Fenster seien dunkel gewesen. Sie wird
 nach ihrem Schuh und nach dem sich entfernenden Rindenkerg
-ausgeschaut haben, und… — Hallo, die Flurglocke, — — öffnet
+ausgeschaut haben, und… — Hallo, die Flurglocke, — — öffne
 bitte…«
 
 — Es war das Mädchen.
@@ -184,7 +185,7 @@ Doch nein: Kein Mädchen. Eine junge, sehr junge Witwe.
 
 Frei und offen nannte sie ihren Namen.
 
-»Ich bin Lady Helga Farstel, Witwe Lord Emmery Farstels…
+»Ich bin Lady Helga Farstal, Witwe Lord Emmery Farstals…
 Mir fiel vorhin ein Schuh aus dem Fenster, meine Herren
 — — <em>der</em> dort!«
 
@@ -194,7 +195,7 @@ Harst bat, sie möge doch Platz nehmen, er hätte einiges
 mit ihr zu besprechen.
 
 Das noch so kindlich reine hübsche Gesicht unseres
-späten Gastes wurde hochmütig — verschlossen.
+späten Gastes wurde hochmütig-verschlossen.
 
 »Herr Harst, ich wüßte wirklich nicht, was wir einander
 zu sagen hätten. Ich darf meinen Schuh wohl mitnehmen?«
@@ -397,11 +398,11 @@ setzte.
 
 Harst wartete noch fünf Minuten.
 
-So, mein Alter, jetzt werden wir suchen…«
+»So, mein Alter, jetzt werden *wir* suchen…«
 
 Haustürschlösser sind mehr Zierrat als Schutz. Jeder
 Dietrich öffnet sie. Etwas schwieriger war es droben vor
-Lady Farstals Mansardentür. Diese Schloß war ein Patentschloß
+Lady Farstals Mansardentür. Dieses Schloß war ein Patentschloß
 und hielt uns etwas länger auf.
 
 Wir leuchteten das kleine Zimmer mit den Taschenlampen
@@ -432,9 +433,7 @@ steckte.
 
 Hierauf widmete er dem Papierkorb seine Aufmerksamkeit,
 fischte zwei zusammengeknüllte Blätter blauen Durchschlagpapiers
-heraus, glättete sie etwas und sagte gleichmütig:
-
-»Wir können gehen…«
+heraus, glättete sie etwas und sagte gleichmütig: »Wir können gehen…«
 
 Das Einzige, was er noch mitnahm, war der zweite Lackschuh,
 der zu dem auf der Straße gefundenen paßte.
@@ -519,9 +518,7 @@ lieber Fred. — Wieviel Leute befanden sich in der Limousine?«
 es?«
 
 Harst weihte Fred ganz kurz in die bisherigen Vorfälle
-ein.
-
-»… Aus den in der Haube der Schreibmaschine vorgefundenen
+ein. »… Aus den in der Haube der Schreibmaschine vorgefundenen
 Papieren war leider nicht viel zu entnehmen,« sagte er zum
 Schluß mit einem bedauernden Achselzucken. »Obwohl Lady
 Farstal von jedem Brief, den sie dem Schuhmacher, beziehungsweise
@@ -532,7 +529,6 @@ so vorsichtig ausgedrückt, daß wir lediglich auf Vermutungen
 angewiesen sind, und diese gehen dahin, daß wahrscheinlich
 Lord Farstal im Schloß gefangen gehalten wird, also gar
 nicht tot ist.
-
 Eins ist gewiß: Die heimliche Korrespondenz, die die
 Lady mit dem Schäfer als dem treuen Hüter ihrer Kinderjahre
 führt, handelt stets von ›ihm‹, also einer nicht näher bezeichneten
@@ -577,7 +573,7 @@ Schuh einen getippten Brief für Knast hineingeklebt — unter
 die Einlegesohle — und den greisen Schäfer für heute abend
 zehn Uhr hier auf diesen selben Platz bestellt, wo sich
 Mylady einfinden würde — <em>oder</em> ein Abgesandter von
-ihr. Dieser Abgesandter werde ich sein. Das Paket ist heute
+ihr. Dieser Abgesandte werde ich sein. Das Paket ist heute
 früh abgegangen und wird Knast als Eilsendung noch heute
 zugestellt werden. Er sollte also kommen. Ihr beide werdet
 euch schon um neun hierher begeben und euch verstecken,
@@ -601,7 +597,6 @@ doch vorläufig sehr gewachsen, sehr — — zu sehr.
 
 Auf dem Rückweg zum Wirtshaus überprüfte ich das merkwürdige
 Problem nochmals gedanklich in allen Einzelheiten. —
-
 Wer war der Gefangene im Schloß? Wirklich Lord Farstal?!
 Oder vielleicht ein Liebhaber Lady Farstals, den der Herr
 Bodo von Rindenkerg aus irgend welchen Gründen haßte?
@@ -616,9 +611,7 @@ Plötzlich lächelte er. Es war ein bezaubernd belustigtes
 Lächeln, ein ganz wenig selbstbewußt, ein ganz wenig ironisch…
 
 Dann schaute er zur Seite und betrachtete mich nicht
-weiter. —
-
-Ich traf einen Dorfbuben. »Sage mal, wer ist der Herr
+weiter. — Ich traf einen Dorfbuben. »Sage mal, wer ist der Herr
 dort, mein Junge?«
 
 »Wo? Welcher? Ich sehe keinen…«
@@ -664,9 +657,7 @@ könnte.
 
 »Bei Vater Knast, Herr… Wollen Sie zu ihm?«
 
-»Ja… Mein linker Stiefel drückt…« —
-
-Eine faule Ausrede.
+»Ja… Mein linker Stiefel drückt…« — Eine war eine faule Ausrede.
 
 Wir waren bereits bis zum Seeufer gelangt. Hans Triebsch
 deutete auf eine flache, mit Kiefern und Gestrüpp bestandene
@@ -699,10 +690,10 @@ eine Äußerung, die mich aufhorchen ließ.
 »Herr, vieles wäre hier besser, wenn nicht damals,
 als der Lord sich erschoß, die dummen Redereien aufgekommen
 wären… Ein Teil des Dorfes glaubte an die Schuld der Lady,
-der andere nicht, — es wäre beinahe zu Mord und Todschlag
+der andere nicht, — es wäre beinahe zu Mord und Totschlag
 gekommen, und der alte gnädige Herr wurde dadurch so krank,
 daß er nun immer im Rollstuhl gefahren werden muß, und der
-Herr Bodo soll… — — na, ich will nicht zu viel aus—plaudern…«
+Herr Bodo soll… — — na, ich will nicht zu viel ausplaudern…«
 
 Ich hielt den Atem an. »Sage mal, Junge, wird denn
 noch einer der Schloßbewohner im Wagen gefahren?«
@@ -717,15 +708,10 @@ War es denn möglich?! Sollte der ›Gefangene‹ etwa Herr
 Anton von Rindenkerg sein?! Sperrte man ihn deshalb von
 aller Außenwelt ab, um den riesigen Besitz nach Möglichkeit
 für die Zwecke dieses ›Schützenvereins‹ ausschlachten zu
-können?! —
-
-Es mußte so sein… Es gab keine andere Lösung. —
-
+können?! — Es mußte so sein… Es gab keine andere Lösung. —
 Hans Triebsch plapperte weiter, aber was er sagte,
 hatte Hand und Fuß, der Junge besaß eine verblüffend scharfe
-Beobachtungsgabe.
-
-»… Herr, es schadet gar nichts, wenn diese dunklen
+Beobachtungsgabe. »… Herr, es schadet gar nichts, wenn diese dunklen
 Geschichten hier an die Öffentlichkeit kommen. In den Zeitungen
 soll es auch schon gestanden haben…«
 
@@ -787,7 +773,6 @@ sondern…«
 — das weiß ich längst. — Nun blicke gefälligst mal nach
 rechts… Das Haus da an der Parkmauer ist Lady Farstals Gefängnis…
 Es ist ebenso alt wie das Schloß, und der Eckturm… — —
-
 Hallo, — — bemerkst du das Gesicht hinter den Gittern
 des großen Turmfensters droben? Das — — war sie — Mylady!«
 
@@ -810,7 +795,7 @@ Stimme war unnatürlich rauh. »Die drei waren sehr bekannte
 »Schufte!« entfuhr es mir.
 
 Harald lachte hart. »Derlei Dinge geschehen alle Tage
-… vielleicht in nicht so grobschlächtige Art wie hier… —
+… vielleicht in nicht so grobschlächtiger Art wie hier… —
 — Still… Ganz still!« Er zischelte nur noch und schaute
 nach unten.
 
@@ -828,7 +813,7 @@ selbst noch halb im Dunkeln tappte.
 Er erwiderte nur: »Ich kenne ihn vom Sehen, nur das.
 Ich weiß, daß er genau wie sein Großvater Knast den Lindenbergs
 unendlich viel verdankt und vielleicht auch dankbar ist
-— über das gewöhnliche Maß hin—aus. — Nimm bitte nicht alles
+— über das gewöhnliche Maß hinaus. — Nimm bitte nicht alles
 so sehr für ernst, was ich zu diesem Problem äußere. — —
 Ah, dort taucht ten Leer wieder auf…! Gib acht, was geschieht…«
 
@@ -866,9 +851,7 @@ Dieser Ballon kann ebenfalls ein … Potemkin-Dorf gewesen
 sein… Ich bin an vielem irre geworden, was ich als erwiesen
 betrachtete. Eine derartige Nachrichtenübermittlung ist
 zu … gesucht, zu unsicher, zu überflüssig und kann leicht
-bluffen… —
-
-Also auf Wiedersehen…!«
+bluffen… — Also auf Wiedersehen…!«
 
 Ganz benommen kehrte ich zum Wirtshaus zurück, holte
 mein Angelzeug und warf an der Anlegebrücke meine Angeln
@@ -894,9 +877,7 @@ Ich rief ihr einen Gruß zu, aber es ging mir mit ihr genau
 wie mit den Leuten aus dem verwahrlosten Dorfteil, die meine
 Grüße nur mit finsteren Blicken erwidert hatten: Sie würdigte
 mich nicht, überhörte mein freundliches ›Guten Abend, Mutter…‹
-—
-
-Die Dorfbewohner waren gegen uns eingenommen, sie mißtrauten
+— Die Dorfbewohner waren gegen uns eingenommen, sie mißtrauten
 uns, ja sie zeigten schlecht verhehlte Feindseligkeit.
 
 Würde ich schon damals die Dinge besser überschaut
@@ -932,7 +913,7 @@ Neben mir lagen Harald und Fred, gleichfalls auf Strohsäcken,
 und an dem kleinen Tischchen, auf dem die Lampe brannte
 und die weißen Schimmelpilze der Mauern förmlich aufleuchten
 ließ, saßen Hilbert ten Leer und ein weißbärtiger Greis
-eins in ländlicher Tracht und beobachteten mich still.
+in ländlicher Tracht und beobachteten mich still.
 
 Auch Harst regte sich.
 
@@ -948,7 +929,7 @@ liebe ich.
 Harst hüstelte etwas. Die feuchtkalte Moderluft dieses
 Kellers reizte die Kehle.
 
-»Herr ten Leer, diese Zusammenkunft verargte ich Ihnen
+»Herr ten Leer, diese Zusammenkunft verarge ich Ihnen
 um so weniger, als ich sie hätte verhindern können,« meinte
 er genau so höflich. »Der plötzliche Stimmungsumschlag der
 Dorfbevölkerung mir gegenüber bewies mir, daß sie irgend
@@ -964,9 +945,7 @@ durch den Ballon Mitteilung über Bodo Rindenkergs gelehrte
 Besucher gemacht, die im Parkhaus eine gemeinsame Konsultation
 abhalten wollen?«
 
-Ten Leer stutzte merklich.
-
-»Konsultation?!«
+Ten Leer stutzte merklich. »Konsultation?!«
 
 »Ja. Es waren drei Psychiater…«
 
@@ -1024,9 +1003,7 @@ in der er sich für die glorreiche wertlose Athletik begeisterte.
 — Wo sind wir hier?«
 
 Ten Leers kluges, beherrschtes Gesicht hatte sich nachdenklich
-tiefer gesenkt.
-
-»In einem geheimen Raum der alten Burgmauer dicht über
+tiefer gesenkt. »In einem geheimen Raum der alten Burgmauer dicht über
 dem Burggraben,« erwiderte er zerstreut.
 
 Dann richtete er sich straffer auf.
@@ -1053,11 +1030,9 @@ Harald winkte kurz ab.
 »Sparen wir uns diese … Anzapfungen, Herr ten Leer!
 Handeln wir also nach der Parole: Getrennt marschieren,
 vereint schlagen!! Unser Gegner ist Bodo Rindenkerg samt
-seinem Schützenverein. —
-
-Wir dürfen uns nun wohl entfernen, es ist Mitternacht,
-und das Dorfwirtshaus dürfte trotz des heutigen Vereinsabends
-bereits geschlossen sein.«
+seinem Schützenverein. — Wir dürfen uns nun wohl entfernen,
+es ist Mitternacht, und das Dorfwirtshaus dürfte trotz des heutigen
+Vereinsabends bereits geschlossen sein.«
 
 Ten Leer schaute Harst wieder in seiner eigentümlich
 durchdringenden Art an.
@@ -1169,7 +1144,7 @@ steckt der Bursche noch innerhalb des Walles… Ein Glück,
 daß ich soeben bei der Heimkehr von der Feier im Dorfwirtshaus
 noch die veränderte Lage der Ruder im Boot bemerkte. Oh,
 man lernt das Sehen, wenn man… — Hallo, was war das da rechts
-an Wall, dort bei den wilden Rosenbüschen…?! Nimm deine
+am Wall, dort bei den wilden Rosenbüschen…?! Nimm deine
 Büchse, Stailing, und wenn… — — Teufel, ein Mann!! Stailing,
 schießen!! Brenn ihm eins auf den Pelz!! So schieß doch!!«
 
@@ -1245,7 +1220,6 @@ Harst! Man müsste die Polizei verständigen, der alte Mann
 wird ja wie ein Zuchthäusler behandelt!«
 
 Harald erwiderte nur: »Die Polizei verständigen?! —
-
 Mein lieber Fred, weder Knast noch ten Leer noch Bodo
 wünschen es, mit der Polizei in Berührung zu kommen. Diese
 nächtliche Szene gehört vielleicht zur Hälfte mit zu einem
@@ -1281,9 +1255,7 @@ Lärm der uniformierten Musikkapelle lauschten.
 <h2>7. Kapitel</h2>
 <h3>Das Inselparadies.</h3>
 
-Einschlafen?! —
-
-Ich wälzte mich im Bett hin und her. Ich suchte meine
+Einschlafen?! — Ich wälzte mich im Bett hin und her. Ich suchte meine
 aufgepeitschten Nerven zu beruhigen, ich suchte mir einzureden,
 daß der ganze Fall ›Lackschuh‹ im Grunde etwas sehr Alltägliches
 sei, daß derartige Tragödien schon so und so viele Romanschreiber
@@ -1336,7 +1308,6 @@ zur Anlegebrücke hinab, löste einen Kahn von der Kette,
 ruderte auf den See hinaus, umrundete Knasts Insel und legte
 dort an der Nordseite an, schlich durch die Büsche und Tannen
 und sahen nun Knasts Inselchen vor mir.
-
 Ich war überrascht, — eine Schäferhütte?! Nein, ein
 Haus im Alpenstil mit Steinfundament, mit buntbemalten Balkenwänden,
 blitzenden Fenstern inmitten eines prächtigen Gartens. Linker
@@ -1355,9 +1326,7 @@ Die Tür öffnete sich und Hilbert ten Leer erschien
 auf der Schwelle. Vom Südufer nahten sechs Personen, darunter
 zwei Landjäger.
 
-Ten Leer lehnte am Treppenpfosten.
-
-»Sie wünschen?!«
+Ten Leer lehnte am Treppenpfosten. »Sie wünschen?!«
 
 Die sechs waren verlegen, fühlten sich unbehaglich.
 Der eine sagte nun zögernd: »Herr Doktor ten Leer, ich bin…«
@@ -1446,7 +1415,7 @@ schien zwischen den beiden Männern aufzukeimen.
 
 Harald lächelte trotzdem ganz harmlos.
 
-»Mit einer Luftbüchse kann man Bolzen in ein Turmgemachs
+»Mit einer Luftbüchse kann man Bolzen in ein Turmgemach
 schießen,« sagte er leichthin. »Und zwar Bolzen mit einem
 Zettel in dem Wollbüschel unten… Für eine solche Nachricht
 an Lady Farstal ist die Abendstunde wohl am geeignetsten,
@@ -1476,11 +1445,9 @@ mit Lord Farstals Selbstmord? Wo erschoß er sich? Man sagt,
 es geschah in Gegenwart seiner Frau. Im Park irgendwo…?«
 
 »Ja, — auf dem Wallgraben,« erklärte ten Leer hastig.
-»Die Waffe fiel ins Wasser und wurde nie gefunden, Sie versank
-im sumpfigen Boden… —
-
-Interessieren Sie diese längst abgetanen Geschichten,
-Herr Harst?!«
+»Die Waffe fiel ins Wasser und wurde nie gefunden, sie versank
+im sumpfigen Boden… — Interessieren Sie diese längst abgetanen
+Geschichten, Herr Harst?!«
 
 »So etwas…«
 
@@ -1543,9 +1510,7 @@ ten Leer und mein kleiner Freund Hans Triebsch.
 Rindenkerg schaute ten Leer kaum an. Aber er hatte
 die Farbe gewechselt, er war nervös geworden, und als Hans
 Triebsch mir zwei Karten hinüberreichte, fuhr er gereizt
-auf:
-
-»Das hilft dem Herrn gar nichts! Wir nehmen ihn trotzdem
+auf: »Das hilft dem Herrn gar nichts! Wir nehmen ihn trotzdem
 mit. Selbst wenn sich gewisse Leute rechtzeitig einmischen,
 die besser ihre ärztliche Praxis versehen würden, anstatt
 hier…«
@@ -1592,7 +1557,6 @@ Harald hatte das Boot, mit dem man uns fortschaffte,
 kennzeichnen wollen. Und dieses Boot gehörte zum Schloß,
 zum Wassergraben, — also gab es einen versteckten Raum in
 der Ufermauer des Schloßgrabens! —
-
 Ein unschuldiger Trick war es gewesen…
 
 Trotzdem sollte dieser Trick noch besondere Folgen
@@ -1602,7 +1566,7 @@ haben.
 <h3>Herr Markwart fährt aus.</h3>
 
 Das Verdauungsschläfchen nach dem Mittagessen im schattigen
-Wirtsgartens dehnte sich bis gegen halb vier aus. Dann pilgerte
+Wirtsgarten dehnte sich bis gegen halb vier aus. Dann pilgerte
 ich, wieder mit Angelzeug versehen, die Dorfstraße hinab,
 kam über den plätschernden Reue-Bach, an dessen Rändern
 ein paar Frauen Wäschestücke ausspülten, und bog nachher
@@ -1623,9 +1587,7 @@ bin einer von den Lehrburschen, — — das heißt: Leer-Burschen,
 »Allerdings… — Also hat Herr ten Leer dir meinen richtigen
 Namen genannt?«
 
-»Ja, Herr Schraut…«
-
-Der Junge blieb neben mir…
+»Ja, Herr Schraut…« Der Junge blieb neben mir…
 
 Fünfzig Meter weiter trafen wir einen älteren, aber
 noch kräftigen Mann, der Tannenzapfen sammelte. Hans Triebsch
@@ -1722,7 +1684,6 @@ Er legte den Hörer auf die Gabel zurück.
 
 »Das war ein Gespräch mit dem Parkhaus… Sehr vorsichtig
 gehalten… Aber ich wittere Unrat… —
-
 Wir müssen hin, — dort bereitet sich etwas vor,« —
 wandte er sich an meinen pfiffigen Freund Hans, »wie sieht
 die Frau Markwart aus, — die aus dem Parkhaus, Herrn Bodos
@@ -1748,18 +1709,17 @@ sprach er mit der Polizei in Eberswalde der Wilddiebe wegen…
 Er würde vielleicht heute abend mehrere Beamte brauchen…
 Sein Ferngespräch mit Berlin hast du gelesen… Der letzte
 Anruf bei Frau Markwart, seiner Vertrauten, deren Mann auch
-dem famosem Schützenverein angehört, war wohl auf zwei Ursachen
-zurückzuführen. Ersten darauf, daß ten Leer so unvorsichtig
+dem famosen Schützenverein angehört, war wohl auf zwei Ursachen
+zurückzuführen. Erstens darauf, daß ten Leer so unvorsichtig
 oder so vorsichtig gewesen ist, meine Luftbüchse Bodo gegenüber
 zu erwähnen, und zweitens darauf, daß ein ganz bestimmter
 Schwindel unbedingt aufrecht erhalten werden soll. Die ganze
-famose ›Telepfonzelle‹ war nämlich genau so Bluff wie der
+famose ›Telefonzelle‹ war nämlich genau so Bluff wie der
 Ballon, wie der Überfall auf uns, wie unser Transport zum
 Rand des Wallgrabens, wo Herr Bodo rechtzeitig von uns belauscht
 werden sollte, und wie die gerichtliche Verfügung…«
 
 Ich war starr. Ich glaubte mich verhört zu haben.
-
 War denn ten Leer gar nicht Bodos Gegenspieler?!
 
 Harald fügte nur noch hinzu: »Selbstverständlich machen
@@ -1790,7 +1750,6 @@ sah direkt verkommen aus, — unsauber, schmierig, verwildert,
 Vorliebe für Spirituosen hin.
 
 Harst beobachtete scharf die Umgebung. —
-
 Das Tor war offen geblieben, der Wagen näherte sich…
 Da der Weg sehr schmal war und die Baumkronen sich darüber
 wölbten, lag er vollkommen im Schatten.
@@ -1816,8 +1775,8 @@ Markwart, riß ihn hoch, ließ ihn zurückfallen und hielt
 dem weiblichen Kutscher, der sich entsetzt umgedreht hatte,
 die Pistole vor die Stirn.
 
-»Umkehr!! Sofort!! — Schraut, klettere über das Tor!
-Hinein ins Haus, bevor der echte Markwart telephonieren
+»Umkehren!! Sofort!! — Schraut, klettere über das Tor!
+Hinein ins Haus, bevor der echte Markwart telefonieren
 kann!«
 
 Ich brauchte mich nicht anzustrengen.
@@ -1828,7 +1787,7 @@ Das Tor ging auf, und Hilbert ten Leer stand vor mir.
 Erregung. »Diese Banditen!! Ich hätte mich wirklich täuschen
 lassen… Lady Farstal war tadellos als Markwart herausstaffiert.«
 
-In der Diele des Parkhauses standen zwei von den ›Leer—Burschen‹
+In der Diele des Parkhauses standen zwei von den ›Leer-Burschen‹
 und hielten den schlotternden Säufer fest.
 
 Das Wägelchen fuhr an der Tür vor, wir trugen Lady
@@ -1842,14 +1801,14 @@ längst bemerkt haben, aber draußen am See, wo der Weg zum
 nächsten Dorf abbiegt, stecken seine Spione, und die müssen
 wir täuschen. Frau Markwart wird uns verraten müssen, wohin
 Helga Farstal geschafft werden sollte, und den Trunkenbold
-Markwart werden Sie zwingen, die Abfahrt des Wagens telephonisch
+Markwart werden Sie zwingen, die Abfahrt des Wagens telefonisch
 nach dem Schloß zu melden.«
 
 <h2>9. Kapitel</h2>
 <h3>Lady Farstals Umzug.</h3>
 
 Zum Rittergut Reubnick gehören drei Vorwerke. Eins
-davon hatte der jüngeren Rindenkerg aufgegeben. Die Gebäude
+davon hatte der jüngere Rindenkerg aufgegeben. Die Gebäude
 standen leer, waren baufällig, und nur im Verwalterhof wohnte
 noch ein Gutsförster, ein jüngerer Mann, der seinem Herrn
 blind ergeben und natürlich auch Mitglied des Schützenvereins
@@ -1896,15 +1855,14 @@ Pistolenmündung predigten eindringlichst von Buße und Friedfertigkeit.
 
 Oh — ich kann mir vorstellen, wie Harst dies unmißverständliche
 Kommando damals abgegeben hat! Er hat mir die Szene eingehend
-geschildert, und der betonte, daß er in einem bestimmten
+geschildert, und er betonte, daß er in einem bestimmten
 Augenblick für sein Leben keinen Pfifferling gegeben hätte.
 
 »Hände hoch!!«
 
 Erst waren die vier nur verdutzt, aber die messerscharfe
 Männerstimme hatte etwas unheimlich Zwingendes an sich.
-
-Und sie gehorchten…
+Sie gehorchten…
 
 Und gerade da erschien eine Person auf dem Schauplatz,
 mit der Harst nie gerechnet hatte.
@@ -1917,7 +1875,6 @@ Nun, der junge Graf Bellendorf hielt zwar seine Pirschbüchse
 im Anschlag, aber als diese Vogelscheuche von Markwart sich
 jetzt halb umdrehte und ihm zurief: »Hier Harst, Berlin…!
 Ich warne Sie!!« da näherte sich Bellendorf im Sturmschritt…
-
 »Herr, sind Sie wirklich Harst?! Was soll die Maskerade?!«
 
 Der kritische Augenblick war glücklich überwunden.
@@ -2024,21 +1981,21 @@ begriffen zu haben.
 
 Aber ob diese, meine Vermutung zutraf, blieb zweifelhaft…
 
-Mit geringem Appetit aß ich im Wirtsgarten einsamen
+Mit geringem Appetit aß ich im Wirtsgarten einsam
 mein sehr delikates ›Bauernfrühstück‹, und der Gedanke,
 wie die Sache eigentlich auslaufen würde, ließ mir keine
 Ruhe.
 
 Dann geschah etwas, was mich mit einem Schlage wieder
 auf eine schnelle, gründliche Lösung all der dunklen Widersprüche
-offen ließ.
+hoffen ließ.
 
 Ich hatte schon vorhin Harst beobachtet, der nun ganz
 offen seitwärts von den gedeckten Tischen sich einen Scheibenstand
 hergerichtet und eifrig die Luftbüchse erprobt hatte.
 
 Von ungefähr flog ein Bolzen in das schlaff herabhängende
-Tischtuch meines idyllischen Plätzchen.
+Tischtuch meines idyllischen Plätzchens.
 
 Harst lief herbei, entschuldigte sich, nahm den Bolzen
 mit, — — und ich behielt das Papierröllchen in der Hand,
@@ -2046,14 +2003,12 @@ das in dem Wollbüschel festgebunden gewesen.
 
 Fünf Minuten darauf las ich unten am Seesteg folgendes:
 
-> Daß Bodo und ten Leer Verbündete sind, aber alles
+»Daß Bodo und ten Leer Verbündete sind, aber alles
 nur Erdenkliche getan haben, uns dies nicht wissen zu lassen,
 mußt du eingesehen haben. Wir werden scharf bewacht. Sieh
 zu, daß du um halb neun vor dem Parktor in anderer Verkleidung
 dich einfinden kannst. Den Schloßkastellan, der neben dem
-Tor wohnt, habe ich bestochen. Er ist zuverlässig. —
-
-> H.
+Tor wohnt, habe ich bestochen. Er ist zuverlässig. — H.«
 
 <h2>10. Kapitel</h2>
 <h3>Der Mann im Rollstuhl.</h3>
@@ -2124,9 +2079,9 @@ uns im Dämmerlicht dalag, eine große Anzahl Dorfbewohner
 an, — der beste Beweis dafür, daß der Schloßherr seine gewohnte
 Ausfahrt unternehmen würde.
 
-Und da tauchte jenseits der Zugbrücke, wo ein zweiter
+Plötzlich tauchte jenseits der Zugbrücke, wo ein zweiter
 Torbogen sich befand, ein eigentümlicher Zug auf, — man
-hätte was sagen können eine feierliche Prozession.
+hätte fast sagen können eine feierliche Prozession.
 
 Voran schritten zwei Diener in langsamstem Schritt,
 sehr würdig, sehr selbstbewußt, dann folgte der von einem
@@ -2142,7 +2097,6 @@ einen grünen Augenschirm und eine graue Brille. Seine Beine
 bis zum Schoß waren in eine leichte Seidendecke gehüllt,
 seine Hände steckten in grauen Wildlederhandschuhen und
 waren im Schoß gefaltet.
-
 Als der Rollstuhl über die Bohlen der Zugbrücke ratterte,
 wandte er den Kopf und blickte den Wallgraben entlang, erwiderte
 den strammen Gruß des Parkwächters durch ein Kopfnicken
@@ -2191,8 +2145,7 @@ diesen in wilder Hast in das Gärtchen des Kastellans.
 
 Harst war bereits ins Freie getreten und nickte dem
 jüngeren Rindenkerg ernst zu.
-
-»Sehr verständigt, — erledigen wir die Sache ohne Zeugen…
+»Sehr verständig, — erledigen wir die Sache ohne Zeugen…
 Ihr Automat da ist vorzüglich… Aber — wo befindet sich Ihr
 Herr Vater?«
 
@@ -2208,9 +2161,7 @@ keinerlei Veranlassung vor, da ich imstande bin, die Hauptfrage
 zweifelsfrei zu lösen, die hier all dieses Unheil anstiftete
 — — die Frage: Mord oder Selbstmord? — Verhehlen Sie mir
 nichts, und dieser Tag wird für Reubnick eine bessere Zeit
-einleiten. —
-
-Wo ist Ihr Herr Vater?«
+einleiten. — Wo ist Ihr Herr Vater?«
 
 Bodo Rindenkerg kämpfte noch mit sich. Dann sagte er
 ehrlich: »Mein Vater, Herr Harst, hat nie an Helgas Schuldlosigkeit
@@ -2219,7 +2170,7 @@ sogar seine eigene Enkelin nicht schonen wollen. Sie wissen,
 daß mein Schwiegersohn Farstal sich angeblich oben auf dem
 Burgwall erschossen haben soll. In Wahrheit verübte er den
 Selbstmord in dem Geheimkeller im Wall, den Sie kennen.
-Helga war dabei, als die Tat geschah, Sie lief entsetzt
+Helga war dabei, als die Tat geschah, sie lief entsetzt
 davon, teilte mir das Unheil mit, und als wir Lord Farstal
 tot auffanden — fehlte die Waffe. Helga versicherte mir,
 sie habe die Pistole nicht entfernt, und da ich sofort erkannte,
@@ -2244,7 +2195,6 @@ unerschütterlicher Glauben an Lady Helgas Unschuld mögen
 die Ärmste seelisch aufrecht erhalten haben…«
 
 Bodo Rindenkerg nickte unmerklich.
-
 »Ja, — es war so… — Und ich selbst?! Ich war ein innerlich
 zerbrochener Mensch, ich hatte für nichts mehr Interesse,
 ich lebte dauernd in der Furcht, die Polizei könnte die
@@ -2273,7 +2223,7 @@ Rindenkerg etwas scheu.
 »Also doch! — Etwas anderes — nur als Bestätigung für
 mich: Sie entführten Ihr Kind aus Berlin, weil Sie glaubten,
 Lady Helga wolle meine Hilfe in Anspruch nehmen, da sie
-mir gegenüber sich eingemietet hatte? — Es ist so?!! — Und
+mir gegenüber sich eingemietet hatte? — Es ist so?! — Und
 Sie wünschten meine Einmischung nicht, weil Sie eben an
 Helgas Schuldlosigkeit insgeheim zweifelten und in der Angst
 lebten, Helga wolle auch mich täuschen und ich könnte die
@@ -2337,8 +2287,7 @@ Erde bedeckt vor, und all das nehme ich auf meinen Eid.«
 — Was auf diese Sätze Harsts folgte, gehört mehr in
 eine rührselige Geschichte hinein.
 
-<p class="centered"><strong><span style="font-family:Times
-New Roman,Times,serif"><span style="font-size:14px">*</span></span></strong></p>
+* * *
 
 Ein Lackschuh, ein Lederstück und eine Schere liegen
 neben mir…: Andenken an einen Kriminalfall, der gewiß ganz
@@ -2348,7 +2297,7 @@ Wir blieben damals noch acht Tage als Gäste auf Schloß
 Reubnick, wir machten noch das große Schützenfest mit, an
 dem das ganze Dorf teilnahm und dessen Folgen für manchen
 an Spirituosen nicht gewöhnten Bauernschädel einfach verheerend
-waren: Riesenkater — —Tage lang!
+waren: Riesenkater — — tagelang!
 
 Wir sahen noch die Armee von Maurern und Zimmerleuten
 anmarschieren, die das Potemkin-Dorf niederreißen und neue
@@ -2364,3 +2313,5 @@ Herrschaften in heißem Kampf herum…
 Aber das ist eine andere Geschichte … ohne Lackschuh,
 ohne Lady Helgas glückliches Lächeln…
 
+<#import "*/harst.ftl" as harst>
+<@harst.naechsterband band="Die Havelpiraten."/>
