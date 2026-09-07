@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">5a952db9-0006-4bf1-9c75-5119c3f24e2b</entry>
+<entry key="title">Der Lackschuh der Lady Farstal</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">336</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Der Lackschuh der Lady Farstal
+
+Das uralte Schloß Reubnick, ein zwingburgartiger Bau mit Wällen und Gräben, mit einem riesigen Park und gewaltigen Ländereien, war zweifellos einer der schönsten Herrensitze Norddeutschlands.
+
+Und doch sollte gerade Schloß Reubnick plötzlich aus seiner weltabgeschiedenen Stille und aus seiner trügerischen Vornehmheit in erschreckender Art vor das Forum der öffentlichen Meinung gezerrt werden — samt all seinen Bewohnern, samt all seinen Gutsbeamten, Arbeitern bis zum ebenso uralten Schäfer Hinrich Knast, dem Leibdoktor der ganzen Bevölkerung zehn Meilen im Umkreis.
+
+Diesen Kriminalfall in eine Form zu bringen, die lediglich die rein seelischen und kriminellen Einzelheiten hervorhebt, ist schon deshalb nicht so ganz einfach, weil der Beginn unserer Arbeit auf eine so eigentümliche Art einsetzte, daß es mir schwerfällt, dieses zeitliche Ineinandergreifen mehrere Vorgänge, die anfänglich nichts miteinander zu tun zu haben schienen, dem Leser schmackhaft zu machen.
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (336) Der Lackschuh der Lady Farstal.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1932</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
