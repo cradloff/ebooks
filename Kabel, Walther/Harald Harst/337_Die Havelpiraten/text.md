@@ -2,6 +2,7 @@
 
 <h2>1. Kapitel</h2>
 <h3>Die fünf und der Sechste.</h3>
+
 Als die elektrische Beleuchtung wieder aufflammte und
 der große Musiksalon des Herrn von Rapper in einer Fülle
 von Licht schwamm, klirrten die Saiten des geöffneten Bechsteinflügels
@@ -118,7 +119,6 @@ nichts übereilen!!«
 Um Gehrtyls klugen Mund zuckte es verdächtig.
 
 ›Seltsame Herrschaften,‹ dachte er. —
-
 Und dann erklärte er mit allem Nachdruck: »Ich habe
 hier wohl auch noch mitzureden. Sollte die Polizei Mord
 annehmen, so lastet der Verdacht genau so stark auf mir
@@ -157,9 +157,7 @@ lieber die Polizei als diesen Privatschnüffler dulden wollte…
 Mitten in die erregte Szene hinein platzte der Diener
 des Hausherrn. Er hatte stark an die Flurtür geklopft, Rapper
 eilte hinaus, fauchte den Mann grob an…
-
 »Was wollen Sie, James?« —
-
 Der englische Kammerdiener, eine Perle seines Faches,
 verneigte sich tadellos. »Zwei Herren bitten vorgelassen
 zu werden, Sir… Hier sind die Karten.«
@@ -229,6 +227,7 @@ auf dem Teppich.
 
 <h2>2. Kapitel</h2>
 <h3>Einer der fünf ist der Mörder.</h3>
+
 Hans von Rapper, seit kurzem Besitzer einer der elegantesten
 Villen auf der weit in die Havel hineinreichenden Halbinsel
 Schwanenwerder, bemühte sich mit geringem Erfolg, in sein
@@ -451,6 +450,7 @@ Geplänkel traf die Mordkommission ein.
 
 <h2>3. Kapitel</h2>
 <h3>Daisy Holbers Amulett.</h3>
+
 Im Gegensatz zu der pompösen Villa des durch allerlei
 Schiebungen an die Oberfläche des finanzpolitischen Lebens
 emporgespülten Herrn von Rapper war das Haus des Prinzen
@@ -740,6 +740,7 @@ Nachher fahren wir zum ›Standard-Klub‹…«
 
 <h2>4. Kapitel</h2>
 <h3>Die Piraten unter sich.</h3>
+
 Das Klubgebäude, im alten Tiergartenviertel Berlins
 gelegen, war früher unter dem Namen Radzcinsky-Palais berühmt
 gewesen. Gegen drei Uhr morgens hielt an einer Seitenpforte
@@ -756,9 +757,8 @@ zweifelhaften Ehrenmänner aufgenommen hatte.
 
 Harald klopfte in bestimmter Art gegen die Tür, Ring,
 den wir telephonisch verständigt hatten, öffnete sofort
-und flüsterte: »Es ist noch niemand da…« —
-
-Dann führte er uns über eine Seitentreppe in den zweiten
+und flüsterte: »Es ist noch niemand da…«, —
+dann führte er uns über eine Seitentreppe in den zweiten
 Stock, wo auch sechs Logierzimmer lagen. Er schloß uns in
 Nr. 1 ein, wünschte uns noch gutes Gelingen und entfernte
 sich.
@@ -859,9 +859,7 @@ Silberham hüstelte krächzend. »Gottlob, ich war nicht
 mit dabei!!«
 
 Schwamm lachte heiser. »Und doch stecken Sie mit drin,
-Silberham!!« —
-
-Das war offener Hohn.
+Silberham!!« — Das war offener Hohn.
 
 Rapper klopfte auf den Tisch. »Ruhe!! Nur jetzt keine
 persönlichen Anpöbeleien!! — Wir haben uns hier versammelt,
@@ -904,9 +902,7 @@ die Fäuste. — — »Sie haben gut lachen, Silberham! Aber wir
 vier — — nette Patsche, in der wir bis zum Hals stecken!
 Gehrtyls Verhaftung messe ich gar keine Bedeutung bei, ich
 kenne Penz. Auf einem von uns vieren bleibt der Verdacht
-liegen!«
-
-Er rauchte übernervös und schwitzte noch stärker.
+liegen!« Er rauchte übernervös und schwitzte noch stärker.
 
 Silberham ließ ein lautes »Ah — — Gehrtyl!!« hören.
 »Davon wußte ich ja noch gar nichts! Also Gehrtyl war auch
@@ -1030,7 +1026,6 @@ er halblaut mit sich selbst…
 »Du … du hast mich immer so … so als deinen Schuhputzer
 behandelt…! Pfui Deubel!! Eine feine Gesellschaft seid ihr!!
 Beim ersten Anzeichen von Gefahr platzt ihr auseinander!«
-
 Er lachte etwas blöde. Er war noch jung, der Jüngste
 von allen… »Hätte ich mich nur nie mit ihnen eingelassen…!!
 Aber das verfluchte Geld und … das feudale Leben … und das
@@ -1066,6 +1061,7 @@ Wenn Penz jovial wurde, bekamen alle Gauner eine Gänsehaut.
 
 <h2>5. Kapitel</h2>
 <h3>Die Vorgeschichte der Flußpiraten.</h3>
+
 »Also, mein lieber Harst,« begann Penz, an seiner Zigarre
 saugend… »Nun wollen wir mal auspacken. Ich bin euch gefolgt,
 das seht ihr. Meine Leute hatten mir gemeldet, daß Hubich
@@ -1081,10 +1077,8 @@ hegtet ihr Verdacht gegen Rapper. Das Kellerfenster war
 schlecht abgedichtet. Das Mädchen dort kann nur Daisy Holber
 sein.«
 
-Harald gab es auf, Dinge abzustreifen, die offenkundig
-waren.
-
-»Es ist die Sekretärin… Und Hubich und Kunkel waren
+Harald gab es auf, Dinge abzustreiten, die offenkundig
+waren. »Es ist die Sekretärin… Und Hubich und Kunkel waren
 allerdings einer Aufforderung zu einer Rücksprache mit uns
 in die Villa Wittgenstein gefolgt.«
 
@@ -1124,7 +1118,6 @@ ist ein heilloses Durcheinander, — vorläufig! — Ich möchte
 mit nichts mehr zurückhalten. Hören Sie also genau hin,
 ich will Ihnen die überaus interessante und widerspruchsvolle
 Vorgeschichte erzählen.
-
 Vor etwa einer Woche tauchten die ersten Zeitungsmeldungen
 über die ›Havelpiraten‹ auf. Motorboots- und Jachtbesitzer
 waren spät abends von einer flinken Jacht zumeist hier in
@@ -1132,7 +1125,6 @@ der Nähe auf dem Fluß angehalten und ausgeplündert worden.
 Zwei der Überfallenen erschossen sich und ließen Briefe
 zurück, in denen sie betonten, sie hätten durch die Piraten
 ihr ganzes Vermögen eingebüßt. —
-
 Dies fiel mir auf. Wer schleppt sein Vermögen stets
 mit sich herum?! <em>Das</em> war für mich der springende
 Punkt. Dann kamen Hubich und Kunkel zu uns, auch zwei der
@@ -1157,7 +1149,6 @@ den sicheren Beweis für die Arbeitsmethode der Bande, obwohl
 Hubich und Kunkel noch jetzt ableugnen, sich verabredungsgemäß
 mit so hohen Summen versehen oder auf dem Fluß ein Zusammentreffen
 mit Unbekannten verabredet gehabt zu haben.
-
 Die Piraten arbeiten also dergestalt, daß sie ihre
 Opfer <em>mit</em> Geld auf den Fluß bestellen. Dann überfallen
 sie sie und rauben sie aus. Es bleibt zu erörtern: Wodurch
@@ -1225,7 +1216,6 @@ zur Villa? Daisy Holber tat’s. Sie heißt gar nicht Daisy
 Holber, sondern Daisy Baring und ist James Barings … Frau.
 Über dieses Ehepaar wäre auch noch einiges zu sagen. Ich
 bin bei meinen Ermittlungen recht gründlich gewesen.
-
 James Baring war von jeher Kammerdiener, dann wurde
 er wegen schweren Diebstahls zu einem Jahr Zuchthaus verurteilt.
 Rapper brachte ihn aus London vor drei Monaten mit, und
@@ -1240,7 +1230,6 @@ und versenkte ihn vom Steg aus in See. — — So, nun machen
 Sie sich aus alledem einen Vers.«
 
 Penz paffte mächtige Wolken in die Luft.
-
 »Der Vers würde lauten: Die Piraten kennen wir, sie
 saßen vorhin dort im Vorstandszimmer und sagten sich gegenseitig
 sehr unangenehme Dinge. Rapper dürfte der Piratenkapitän
@@ -1248,7 +1237,6 @@ sein. Er kann Rail erschossen haben — kann. Motiv noch unbekannt.
 Rapper hat jedenfalls den Mord vorbereitet und hat auch
 Daisy durch James erschießen lassen wollen, weshalb gab
 er ihm sonst die Pirschbüchse mit.
-
 Motiv? Vorläufig unbekannt. Genau so unbekannt ist
 uns das Lockmittel geblieben, durch das die feinen Herrschaften
 ihrer Opfer auf das Glatteis, Pardon, auf den Fluß mit größeren
@@ -1296,6 +1284,7 @@ Problems entgegenführten.
 
 <h2>6. Kapitel</h2>
 <h3>James B. A. Ring.</h3>
+
 Wir fuhren wieder gen Schwanenwerder zur Villa des
 Prinzen zurück. Es hatte leicht zu regnen begonnen, es war
 auch nicht völlig dunkel. Die Chaussee zwischen den Vororten
@@ -1383,9 +1372,7 @@ und eine Viertelstunde darauf befanden wir uns in Wittgensteins
 Bibliothek. Unsere drei ›Stellvertreter‹ meldeten, daß inzwischen
 nichts von Wichtigkeit geschehen sei und daß die Kriminalbeamten
 vor fünf Minuten ihre Posten vor dem Haus verlassen hätten.
-—
-
-Penz hatte also sehr prompt gearbeitet.
+— Penz hatte also sehr prompt gearbeitet.
 
 James Baring saß müde und gleichgültig im Sessel und
 starrte vor sich hin. Erst als er ein großes Glas Portwein
@@ -1485,7 +1472,7 @@ seine Nase angesehen, mein Alter?«
 Spitze. Manche Leute behaupten, diese Rille deute auf Temperament
 hin. Und der alte Hausmeister Julius Ring hat dieselbe Nase.
 Außerdem heißt Baring mit Vornamen James, Barty, Arthur…—
-B arty A rthur Ring — Baring… Sehr einfach.«
+*B*arty *A*rthur Ring — Baring… Sehr einfach.«
 
 »Wie, der Hausmeister wäre sein Vater?«
 
@@ -1494,10 +1481,8 @@ gezeigt?!«
 
 — Als ich nachher in Morgengrauen schlafen ging, beschäftigte
 mich am allermeisten das Motorboot der Piraten, der Nautilus.
-—
-
-Penz hatte suchen lassen wollen, Harst hatte dazu erklärt,
-›Vollkommen zwecklos…! Das Boot finden Sie nicht.‹
+— Penz hatte suchen lassen wollen, Harst hatte dazu erklärt,
+»Vollkommen zwecklos…! Das Boot finden Sie nicht.«
 
 Weshalb sollte man ein Boot nicht finden?!
 
@@ -1505,6 +1490,7 @@ Weshalb sollte man ein Boot nicht finden?!
 
 <h2>7. Kapitel</h2>
 <h3>Der Prunkkamin.</h3>
+
 Mittags um zwölf Uhr ließ sich Herr von Rapper melden
 und begrüßte uns mit vorbildlich erheuchelter Herzlichkeit.
 »Mein verehrtester Herr Harst, ich komme mit einer großen
@@ -1512,7 +1498,6 @@ Bitte… Sie wissen wohl, daß meine Sekretärin verschwunden
 ist. Könnten Sie sich nicht so etwas der Sache annehmen?«
 
 Zu meiner Überraschung war Harald sofort dazu bereit.
-
 »Ich hätte mir ohnedies Ihre Villa gern einmal genauer
 angesehen. Gehen wir hinüber.«
 
@@ -1541,8 +1526,7 @@ bestimmt herbeizuführen?
 
 Harald wandte sich jetzt dem großen Prunkkamin zu,
 der in der Tragödie der verflossenen Nacht eine stumme,
-aber bedeutsame Nebenrolle gespielt hatte
-
+aber bedeutsame Nebenrolle gespielt hatte.
 »Herr von Rapper, diese Villa gehörte doch noch vor
 kurzem dem nunmehr zu Gefängnis mit Bewerbungsfrist verurteilten
 Großschieber Sabart, der sie sich kurz nach der Inflation
@@ -1553,9 +1537,7 @@ Größe. — Ist Ihnen das nie aufgefallen?«
 »Nein…« entgegnete Rapper etwas verständnislos…
 
 Harst beugte sich jetzt zum offenen Fenster hinaus.
-—
-
-Ich bitte die Skizze des Zimmers zu betrachten. Das
+— Ich bitte die Skizze des Zimmers zu betrachten. Das
 lange dreiflügelige Fenster links vom Kamin war gestern
 abend geschlossen gewesen.
 
@@ -1620,9 +1602,7 @@ folgen?«
 Harald blickte ihn scharf an. »Obwohl … ein Mord beabsichtigt
 war…«
 
-Rapper wurde blaß.
-
-»Von wem?! — Doch nicht von mir!«
+Rapper wurde blaß. »Von wem?! — Doch nicht von mir!«
 
 »<em>Die</em> Frage erörtern wir später… Schraut, gib
 mal die Pistole her… Ein englisches Modell…« Er ließ den
@@ -1637,7 +1617,6 @@ weit eher Fingerabdrücke unkenntlich machen.
 
 Schließlich schob er die Pistole in die Tasche. »Penz
 wird sich dafür interessieren — ich weniger. —
-
 So, nun wäre ich hier mit meiner Arbeit fertig, Herr
 von Rapper. Meine Entscheidung über die Frage ›Wo ist Ihre
 Sekretärin?‹ lautet: Nach England abgereist, — jedenfalls
@@ -1726,6 +1705,7 @@ Und um halb neun schrillte das Telephon in der Bibliothek…
 
 <h2>8. Kapitel</h2>
 <h3>Frau Barings Ehe.</h3>
+
 »Hier Wannsee 201…«
 
 »Hier Rapper… — Herr Harst, ich wollte Ihnen nur etwas
@@ -1801,13 +1781,11 @@ Frauengestalt fiel ins Wasser und rief nochmals um Hilfe.
 
 »Astrid Baring!« sagte Harald etwas erregt.
 
-»Astrid?! Wer ist denn das?!« —
-
-Fred Steen hatte es gerufen.
+»Astrid?! Wer ist denn das?!« — Fred Steen hatte es gerufen.
 
 »Das ist Daisy… Ihr habt die Londoner Auskünfte nicht
 gelesen… Daisy Astrid Helga Holber ist Frau Barings Mädchenname…
-Sehr einfach…«
+sehr einfach…«
 
 »Ja — die übliche Geheimniskrämerei!« meinte ich gereitzt.
 
@@ -1827,9 +1805,7 @@ schlug sie sofort die Augen auf…
 »Ah, — — Sie, Herr Harst…! Ich glaubte…«
 
 »Was glauben Sie?« fragte der zweite Mann in Uniform
-etwas rauh. —
-
-Es war Penz…
+etwas rauh. — Es war Penz…
 
 »Nichts!« erklärte Astrid Daisy Baring, vor Kälte zitternd.
 Sie wurde schnell in die kleinen Kajüte der Barkasse gebracht.
@@ -1850,7 +1826,6 @@ also der Mörder Rails?« Und er fügte jetzt ergänzend hinzu:
 »Unter Berücksichtigung der Feuerleiter und des Kamins und
 der Pistole… Letzte haben Sie leider sehr unsachgemäß behandelt,
 wir werden nur Ihre Fingerabdrücke finden.«
-
 Das klang sehr bissig.
 
 Harald hob den Blick. »Vielleicht liegt im Grunde überhaupt
@@ -1894,7 +1869,7 @@ Sie hielt den Blick gesenkt.
 
 »Sie ahnten und ahnen nicht, weshalb Ihr Gatte sich
 dem Trunk ergeben hatte. Als er verurteilt wurde, verschwieg
-er seine Ehe, um Sie zu schonen. Verheiratete erstklassige
+er seine Ehe, um Sie zu schonen. *Verheiratete* erstklassige
 Kammerdiener nimmt niemand gern. — Nun zu Rapper und den
 Ereignissen der Mordnacht, — nein, wir wollen Sie nicht
 Mordnacht nennen. Wodurch bewog Rapper Sie dazu, an dem
@@ -1952,6 +1927,7 @@ gab sich zufrieden.
 
 <h2>9. Kapitel</h2>
 <h3>Der Nautilus stirbt.</h3>
+
 In dem einzigen Logierzimmer Wittgensteins fand ich
 zu meiner Überraschung James Baring vor. Er trug Mantel,
 Hut, — neben ihm standen zwei Koffer.
@@ -1989,9 +1965,7 @@ Harald dechiffrierte sie sofort und las uns dann den
 Text vor:
 
 > Harst, Wannsee-Schwanenwerder, Berlin, Villa Wittgenstein.
-—
-
-> Freiherr Günther von Rail vor zwei Jahren hier
+— Freiherr Günther von Rail vor zwei Jahren hier
 in London bekannter Lebemann, Spieler und Klubbesucher.
 Verkehrte in den besten Kreisen, auch bei Lord Warding,
 einem alten Sonderling, bei dem James Baring Diener war.
@@ -1999,24 +1973,14 @@ Warding hatte eine Abneigung gegen Banken, hielt stets viel
 Bargeld im Haus. Eines Tages großer Raub bei ihm. Verdacht
 lenkte sich gegen Baring, da in seinem Zimmer Duplikate
 des Tresorschlüssels des Lords gefunden worden. Beute von
-120000 Pfund blieb verschwunden, Baring erhielt ein Jahr
-Zuchthaus. —
+120&nbsp;000 Pfund blieb verschwunden, Baring erhielt ein Jahr
+Zuchthaus. — Rail trat vor Gericht aufs wärmste für Angeklagten
+ein. — Gruß Oberinspektor Mattison, Scotland Yard
 
-> > Rail trat vor Gericht aufs wärmste für Angeklagten
-ein. —
-
-> Gruß Oberinspektor Mattison, Scotland Yard
-
-Penz machte Riesenaugen.
-
-»Das ist ja…« —
-
-Er verstummte … horchte…
-
+Penz machte Riesenaugen.  »Das ist ja…« — Er verstummte … horchte…
 »Hallo, fuhr da nicht soeben ein Auto davon?«
 
 »Irrtum!« sagte Harst kaltblütig. —
-
 Der Lautsprecher brüllte gerade Fortissimo.
 
 Penz blieb mißtrauisch. »Harst, haben Sie etwa Frau
@@ -2031,9 +1995,7 @@ gern. Ein glückliches Ehepaar ist mir mehr wert als diese
 geseuchten Ungetüme von Paragraphen…«
 
 Penz zog die buschigen Augenbrauen ganz tief herab.
-»Oh — bei mir dämmert’s, Harst… —
-
-Solch ein Schuft!!«
+»Oh — bei mir dämmert’s, Harst… — Solch ein Schuft!!«
 
 »Das war er in der Tat, Penz… — Jetzt wollen wir jedoch
 die nächsten Programmnummern folgen lassen: Wir sollen ersäuft
@@ -2051,7 +2013,7 @@ Hat der Barkassenführer genaue Anweisungen?«
 
 Penz bejahte, ohne das Glas von den Augen zu lassen.
 
-… Vom Turm der Feudalvilla zuckten grelle Funken durch
+Vom Turm der Feudalvilla zuckten grelle Funken durch
 den Nebel
 
 Jagdfieber!! Wie oft hatte ich’s schon kennengelernt!
@@ -2133,7 +2095,6 @@ Boot mit niedrigem Mittelturm auf…
 
 Dicht vor dem Turm waren die Stahlplatten des Decks
 zerbeult und gerissen. —
-
 Die Turmluke des winzigen U-Bootes flog empor, und
 der dicke Geheimrat Schwamm kreischte in Todesangst:
 
@@ -2162,9 +2123,7 @@ zu hören…
 Wir hatten uns schleunigst entfernt, trotzdem flogen
 uns noch Wrackstücke um die Ohren, und Fred Steen erhielt
 ein Stück Stahlblech gegen die Schwimmweste, die seine Brust
-umspannte…
-
-Er hat es sorgfältig aufbewahrt. Es ist kaum anzunehmen,
+umspannte… Er hat es sorgfältig aufbewahrt. Es ist kaum anzunehmen,
 daß je wieder Havelpiraten mit einem U-Boot von neun Meter
 Länge in den Berliner Gewässern ›arbeiten‹ werden. Derartige
 stählernen Andenken soll man heilig halten — wenn’s auch
@@ -2186,6 +2145,7 @@ Und das war Pech und Witz zugleich.
 
 <h2>10. Kapitel</h2>
 <h3>Schlußabrechnung.</h3>
+
 Die Herrschaften saßen in einer Reihe nebeneinander
 auf Holzstühlen. Wir in Klubsesseln — und wir trugen keine
 Handschellen.
@@ -2200,7 +2160,6 @@ feudalen Banditen beinahe ins Garn gegangen wäre: Doktor
 Alfons Gehrtyl!
 
 Penz schmunzelte…
-
 »So, nun sind wir bis auf Rank und das Ehepaar Baring
 vollzählig… Ich bitte Sie aber inständig, Harst, — machen
 Sie die Sache kurz. Fangen Sie nicht bei Jules Verne und
@@ -2261,7 +2220,6 @@ verschiedener Zufälle möglich. Die eine Gruppe der Verschworenen,
 Frau Benk, Schwamm und Rank, wußten nicht, daß Rapper ähnliches
 plante. Gerade als Rank das Licht ausschalten wollte, ging
 dies von selbst aus…
-
 Rank hielt den rechten Augenblick für gekommen, ebenso
 Schwamm, wie auch Rapper… Der Schuß scheuchte die drei auf
 ihre Plätze zurück. Da flammte das Licht wieder auf… Der
@@ -2303,7 +2261,7 @@ durchgegangen.«
 
 »Ja,« nickte Harald, »das kann stimmen.«
 
-Penz warf ihm einen eigentümlichen Blick zu: »Ich überkleisterte
+Penz warf ihm einen eigentümlichen Blick zu: »*Ich* überkleisterte
 hier brüchige Stellen, — <em>Sie</em> haben etwas Ähnliches
 getan. Sie haben zwar das Treiben dieser Havelpiraten erbarmungslos
 enthüllt und ebenso erbarmungslos — mit Recht! — die Handgranate
@@ -2374,3 +2332,6 @@ Wir schwiegen…
 
 Ein Engel der Nächstenliebe und Versöhnung schien durch
 das Zimmer zu schweben…
+
+<#import "*/harst.ftl" as harst>
+<@harst.naechsterband band="Das Geheimnis der Nilinsel."/>
