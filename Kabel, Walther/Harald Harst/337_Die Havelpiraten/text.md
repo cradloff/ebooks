@@ -311,7 +311,7 @@ das Licht erlosch, — recht genau…«
 Gehrtyl begann seine Erläuterungen. Harst zeichnete
 danach folgende Skizze:
 
-<img alt="Skizze des Raumes" src="337-Die%20Havelpriaten%20Skizze.jpg" style="height:300px; width:484px" />
+<img alt="Skizze des Raumes" src="337-Die Havelpriaten Skizze.jpg" style="height:300px; width:484px" />
 
 Die 0 mit den Zahlen bezeichnen die einzelnen Anwesenden.
 
