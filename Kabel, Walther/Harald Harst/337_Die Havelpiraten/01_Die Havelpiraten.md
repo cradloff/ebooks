@@ -111,7 +111,7 @@ ließ, als sie den als Pompadour weißgepuderten Kopf schüttelte.
 
 Etwas schwächer klang des Hausherrn Protest. »Ich fürchte,
 wir werden uns darüber schlüssig werden müssen, was zu geschehen
-hat. Natürlich darf nichts übereilt werden…«
+hat. Natürlich darf nichts übereilt werden …«
 
 Peter von Rank, sein lebendes Echo, murmelte nur: »Nein,
 nichts übereilen!!«
@@ -130,9 +130,9 @@ Bewegungen die Brille ab und sog die Luft schnüffelnd ein,
 so daß seine Nase noch schmaler erschien. »Gestatten Sie
 mal, Herr … äh … Herr Doktor, — Verdacht gegen uns vier?!
 Komisch!! Sie und der arme Rail waren die einzigen, die
-… äh … am Kamin standen, und…«
+… äh … am Kamin standen, und …«
 
-Unter Gehrtyls warnendem Blick begann er zu stottern…
+Unter Gehrtyls warnendem Blick begann er zu stottern …
 
 Der Chemiker blieb völlig unberührt durch die allgemeine,
 gegen ihn so jäh aufkeimende Feindseligkeit.
@@ -141,7 +141,7 @@ gegen ihn so jäh aufkeimende Feindseligkeit.
 »Unlängst lernte ich im ›Standard-Klub‹ den Privatdetektiv
 Harst kennen. Ich verlebte mit ihm und seinem Freund ein
 paar äußerst interessante Stunden. Wie wär’s, wenn wir erst
-einmal Herrn Harst hierher bitten würden…?«
+einmal Herrn Harst hierher bitten würden …?«
 
 Der Erfolg dieses Vorschlages war verblüffend. Man
 konnte jetzt nicht mehr von Protestrufen sprechen, nein,
@@ -152,15 +152,15 @@ für den, der diesen merkwürdigen Entrüstungssturm entfesselt
 hatte: Harst! —
 
 Es machte durchaus den Eindruck, als ob man dann schon
-lieber die Polizei als diesen Privatschnüffler dulden wollte…
+lieber die Polizei als diesen Privatschnüffler dulden wollte …
 
 Mitten in die erregte Szene hinein platzte der Diener
 des Hausherrn. Er hatte stark an die Flurtür geklopft, Rapper
-eilte hinaus, fauchte den Mann grob an…
+eilte hinaus, fauchte den Mann grob an …
 »Was wollen Sie, James?« —
 Der englische Kammerdiener, eine Perle seines Faches,
 verneigte sich tadellos. »Zwei Herren bitten vorgelassen
-zu werden, Sir… Hier sind die Karten.«
+zu werden, Sir … Hier sind die Karten.«
 
 Rapper griff mit unsicherer Hand nach dem silbernen
 Teller. Er hatte ungewöhnlich lange schmale Hände, deren
@@ -178,16 +178,16 @@ Dann suchte er Haltung zu bewahren.
 
 »Wo sind die Herren, James?«
 
-»Unten in der Diele…«
+»Unten in der Diele …«
 
-»Gut, führe Sie in mein Arbeitszimmer… Ich komme sofort.«
+»Gut, führe Sie in mein Arbeitszimmer … Ich komme sofort.«
 
 James verschwand die Marmortreppe hinab, und Rapper
 lüftete wieder die schweren Vorhänge, betrat den Musiksalon,
 schloß die Tür und ließ die Vorhänge fallen. Er blieb dicht
 vor Gehrtyl stehen, fixierte ihn herausfordernd und fragte
 mit vibrierender Stimme: »Haben Sie etwa gewagt, Harst und
-Schraut hierher zu bestellen, Herr…?!«
+Schraut hierher zu bestellen, Herr …?!«
 
 Der Doktor verstand ihn zunächst gar nicht.
 
@@ -207,20 +207,20 @@ zu werden — in seinen Ausdrücken.
 
 »Eine Affenschande, daß wir die Leute in den ›Standard-Klub‹
 aufgenommen haben, der weiß Gott mehr auf Exklusivität halten
-sollte…«
+sollte …«
 
-… »Guten Abend…!!«
+… »Guten Abend …!!«
 
 Alle Köpfe flogen herum. Zwischen den Portieren stand
 ein Herr im Frack, der genau so malitiös-überlegen hinzufügte:
 
-»Ich scheine ungelegen zu kommen… Aber Mordtaten mit
-so eigenartigen Nebenumständen sind meine Schwäche… — Wir
-kennen uns alle vom Klub her… Wir dürfen wohl nähertreten…«
+»Ich scheine ungelegen zu kommen … Aber Mordtaten mit
+so eigenartigen Nebenumständen sind meine Schwäche … — Wir
+kennen uns alle vom Klub her … Wir dürfen wohl nähertreten …«
 
 Niemand entgegnete ein Wort.
 
-Gehrtyl lächelte wieder unmerklich…
+Gehrtyl lächelte wieder unmerklich …
 
 Still und stumm als schwerste Anklage lag der Tote
 auf dem Teppich.
@@ -248,24 +248,24 @@ Luft genießen, — wir schlenderten drüben den Gartenweg entlang,
 hörten hier das Klavierspiel, sahen das Licht plötzlich
 erlöschen, vernahmen den Schuß und den dumpfen Fall des
 Körpers, sahen die Beleuchtung wieder aufflammen und hörten
-Ihre erregten Ausrufe… — Sie sehen, Herr von Rapper, unser
-Auftauchen hier ging ganz natürlich vor sich… Wenn Sie die
+Ihre erregten Ausrufe … — Sie sehen, Herr von Rapper, unser
+Auftauchen hier ging ganz natürlich vor sich … Wenn Sie die
 Erkerfenster dort geschlossen hätten, würden wir nichts
 gehört haben. Also ein … Schicksalsfehler oder ein Zufall,
 könnte man sagen.«
 
 Schwamm, der seine kleine stämmige Gestalt in einem
 Klubsessel versenkt hatte, meinte hastig: »Prinz Wittgenstein
-ist ja verreist… Und Sie wollen seine Gäste gewesen sein?!«
+ist ja verreist … Und Sie wollen seine Gäste gewesen sein?!«
 
 »Wir sind es noch,« erwiderte Harst trocken. »Wittgenstein
-hat uns sein bescheidenes Heim zur Verfügung gestellt… Schraut
-und ich sind Angler…«
+hat uns sein bescheidenes Heim zur Verfügung gestellt … Schraut
+und ich sind Angler …«
 
 Frau Benk lachte. »Angler?! Für gebildete Leute ein
 unmöglicher Sport!«
 
-»Mag sein, gnädige Frau… Aber Wissen und Bildung ist
+»Mag sein, gnädige Frau … Aber Wissen und Bildung ist
 zweierlei. Jemand kann auf manchen Gebieten sehr bewandert
 sein und sehr viel Bildung für sich in Anspruch nehmen,
 — er besitzt sie trotzdem nicht.«
@@ -283,14 +283,14 @@ Harst und ich standen noch immer unweit der Flurtür.
 »… Wir dürfen hier also nichts anrühren, Herr von Rapper,
 und ich werde mich auch nur insoweit einmischen, als ich
 der Polizei die Vorarbeiten erleichtern will. Bitte, telephonieren
-Sie…«
+Sie …«
 
 Rapper verließ zögernd die Musiksalon, nachdem er mit
 seinen drei intimen Bekannten einen langen Blick gewechselt
 und dann ein Achselzucken angedeutet hatte.
 
 Harst zog sein dünnes Notizbuch hervor. »Herr Doktor,
-einige Fragen… Dieser Raum hat zwei Türen. Waren sie verschlossen,
+einige Fragen … Dieser Raum hat zwei Türen. Waren sie verschlossen,
 als sie Beleuchtung für etwa eine Minute versagte.«
 
 Schwamm mischte sich bereits ein. »Verschlossen?! Weshalb
@@ -306,7 +306,7 @@ Hieb hatte gesessen.
 »Doktor, wollen Sie mir nun genau angeben,« richtete
 Harst von neuem das Wort an den sympathischen Chemiker,
 »wo die einzelnen Personen hier saßen oder standen, als
-das Licht erlosch, — recht genau…«
+das Licht erlosch, — recht genau …«
 
 Gehrtyl begann seine Erläuterungen. Harst zeichnete
 danach folgende Skizze:
@@ -349,21 +349,21 @@ daß die Herrschaften infolge des Schusses nicht von ihren
 Plätzen hochgeschnellt wären.
 
 Herr von Rapper kehrte sehr eilig und sehr aufgeregt
-zurück. »Ein Einbrecher…!« rief er heiser und stürmte zum
-Erkerfenster. »Ich sah ihn im Flur… Ich schickte James dem
-Burschen nach, aber der Kerl hatte ein Motorboot… Dort fährt
-er von meiner Anlegebrücke davon…«
+zurück. »Ein Einbrecher …!« rief er heiser und stürmte zum
+Erkerfenster. »Ich sah ihn im Flur … Ich schickte James dem
+Burschen nach, aber der Kerl hatte ein Motorboot … Dort fährt
+er von meiner Anlegebrücke davon …«
 
 Er drehte sich um und musterte Harald äußerst mißtrauisch.
 
 »Meine Villa scheint heute überlaufen zu werden,« versuchte
-er zu witzeln… »Ich finde all das sehr merkwürdig… — Weshalb
+er zu witzeln … »Ich finde all das sehr merkwürdig … — Weshalb
 sind Sie und Ihr Freund Schraut im Frack, Herr Harst, wenn
-Sie hier nur angeln wollen…?«
+Sie hier nur angeln wollen …?«
 
 »Oh, wir haben Gäste, Herr von Rapper. Einige Freunde
 des Prinzen. Außerdem gibt es Fische, die vielleicht Wert
-darauf legen, in großer Toilette geangelt zu werden… — Haben
+darauf legen, in großer Toilette geangelt zu werden … — Haben
 Sie die Polizei angerufen?«
 
 »Selbstverständlich!« Rapper verkniffene Augen trafen
@@ -382,11 +382,11 @@ war unser bester Freund.«
 
 Frau Benk lachte hysterisch. »Die Polizei wird wohl
 zu einem vernünftigeren Ergebnis kommen! Es war der Einbrecher,
-lieber Rapper… Natürlich war es der Einbrecher!«
+lieber Rapper … Natürlich war es der Einbrecher!«
 
 Peter von Rank, ein Mann von widerspruchsvollstem Benehmen,
 meckerte eiligst: »Einbrecher, — — selbstredend, gnädige
-Frau…!«
+Frau …!«
 
 Harst beobachtete still jeden einzelnen und machte
 Studien. Nur Gehrtyl ließ er aus, obwohl der Chemiker vielleicht
@@ -399,7 +399,7 @@ etwas Leben in die zumeist mit ihren eigenen Grübeleien
 beschäftigten Anwesenden.
 
 »James verfolgt den Einbrecher,« erklärte Rapper selbstbewußt.
-»Ich habe ihm meine Pirschbüchse mitgegeben…«
+»Ich habe ihm meine Pirschbüchse mitgegeben …«
 
 »Dann hat James wohl mit Zielfernrohr geschossen,«
 meinte Harst gleichmütig. »Der Flüchtling muß schon sehr
@@ -415,13 +415,13 @@ inhaltslose Reporterberichte!! Albern!!«
 Der feiste Herr streichelte wieder seinen Igelkopf
 und musterte Harst mit deutlicher Nichtachtung.
 
-»Das wird sich herausstellen, Herr Geheimrat…« blieb
+»Das wird sich herausstellen, Herr Geheimrat …« blieb
 Harst auf der neutralen Linie. »Genau so, wem die Waffe
-gehört…«
+gehört …«
 
 Gehrtyl hob etwas den Kopf.
 
-»Die Pistole ist mein Eigentum…«
+»Die Pistole ist mein Eigentum …«
 
 »Ah!! Also doch!!« rief Rapper mit zynischer Frechheit
 und zeigte wieder sein fades Lächeln.
@@ -429,8 +429,8 @@ und zeigte wieder sein fades Lächeln.
 Harst sagte nur: »Hatten Sie die Pistole heute bei
 sich, Herr Doktor?«
 
-»Nein. Ich erkenne sie aber… Ich habe persönlich meinen
-Namen in den Lauf geätzt… Der blanke Strich fiel mir sofort
+»Nein. Ich erkenne sie aber … Ich habe persönlich meinen
+Namen in den Lauf geätzt … Der blanke Strich fiel mir sofort
 auf.«
 
 »Und wie verwahrten Sie die Pistole daheim?«
@@ -439,10 +439,10 @@ auf.«
 erwiderte Gehrtyl schlicht. »Sie muß mir gestohlen worden
 sein. Heute früh besaß ich sie noch.«
 
-»Das kann jeder sagen…« murmelte der unleidliche Herr
+»Das kann jeder sagen …« murmelte der unleidliche Herr
 Gustav Schwamm.
 
-»Nur ein Lügner, Herr Geheimrat…« verbesserte Harst
+»Nur ein Lügner, Herr Geheimrat …« verbesserte Harst
 milde. »Und Doktor Gehrtyl ist bestimmt kein Lügner.«
 
 Bald nach diesem die einzelnen Personen genügend kennzeichnendem
@@ -500,9 +500,9 @@ Steen war an diese knappe Befehlsform in dringenden
 Fällen schon gewöhnt. »Das Einschleichen in die Villa Rapper
 war leicht,« erzählte er im Depeschenstil. »Keine Hunde,
 miserable Türschlösser und halb betrunkene Dienstboten.
-James säuft Kognak wie Wasser…«
+James säuft Kognak wie Wasser …«
 
-»Trinkt, nicht säuft…« korrigierte Harald.
+»Trinkt, nicht säuft …« korrigierte Harald.
 
 »Pardon!« bücklingte der grinsende Fred. »Ich war also
 von halb neun Uhr ab in der Villa. Wir wußten ja durch unsere
@@ -512,7 +512,7 @@ noch ungewissen Katastrophe rechnen.«
 
 Hubich und Kunkel machten dumme Gesichter.
 
-Oder noch dümmere…
+Oder noch dümmere …
 
 »Kürzer!« sagte Harst. »Wer machte sich am Hauptschalter
 der Lichtleitung zu schaffen?«
@@ -523,48 +523,48 @@ selbst.«
 Harald wandte sich an Kunkel. »Hier brannten die Lampen
 ohne Unterbrechung, nicht wahr?«
 
-»Jawohl…!« — Gottfried Kunkel sagte es wie in strammer
+»Jawohl …!« — Gottfried Kunkel sagte es wie in strammer
 Haltung vor einem Vorgesetzten. Er hatte bei den Franzern
 gedient.
 
-»Weiter, Fred…!«
+»Weiter, Fred …!«
 
 Steen haspelte mit fabelhafter Zungenfertigkeit sein
 Garn ab. »Als das Licht erlosch und der Schuß fiel, befand
 ich mich im oberen Korridor unweit der Flurtür des Musikzimmers.
 Dann bemerkte mich Herr von Rapper, ich floh zur Anlegebrücke,
 unser Mann im Motorboot war auf dem Posten, fuhr allein
-davon, ich kroch in die Büsche und…«
+davon, ich kroch in die Büsche und …«
 
 … Kunstpause …
 
 »… und jetzt kommt’s, Herr Harst, — Sie werden staunen!
 — und wurde Zeuge, wie James Baring, dieser Verbrecher,
-einen Mann niederschoß und die Leiche im Wasser versenkte…«
+einen Mann niederschoß und die Leiche im Wasser versenkte …«
 
 Die Herren Hubich und Kunkel schnellten aus ihren Sesseln
 erbleichend hoch. »Ein Mord?!« stießen sie im Duett hervor.
 
 »Ein zweiter Mord,« winkte Harst etwas zerstreut ab.
 »Sie beide, meine Herren, haben bisher nur Schmetterlinge,
-Käfer und Devisen gesammelt… Es gibt noch andere Dinge auf
-der Welt…«
+Käfer und Devisen gesammelt … Es gibt noch andere Dinge auf
+der Welt …«
 
 »Schrecklich!« stöhnte Hubich. »Zwei Morde!! Furchtbar!!«
 
 Harald beschattete sein schmales Gesicht mit der Hand.
 Er lächelte nachsichtig.
 
-»Weiter, Fred…!«
+»Weiter, Fred …!«
 
 »James hatte dem Erschossenen die Taschen mit Steinen
 gefüllt, bevor er den Körper von der Brücke ins Wasser gleiten
 ließ. Er entfernte sich dann, ich nahm einen Bootshaken,
 holte den Mann heraus und merkte, daß er noch lebte. Ich
 trug ihn schnell hier ins Haus, zog ihm die Oberkleider
-ab, und…«
+ab, und …«
 
-Fred wurde puterrot…
+Fred wurde puterrot …
 
 »… und … es war eine als Mann verkleidete Frau, vielmehr
 ein Mädchen, — die sehr hübsche englische Sekretärin Herrn
@@ -589,7 +589,7 @@ Besitzer eines Benzinkahns, saßen wie Salzsäulen da.
 
 »Im Keller?!« flüsterte der lange Kunkel entgeistert.
 
-»Ja… In des Prinzen Dunkelkammer auf einem Diwan,«
+»Ja … In des Prinzen Dunkelkammer auf einem Diwan,«
 ergänzte Fred strahlend.
 
 »Hat sie irgend etwas geäußert?« forschte Harst schnell.
@@ -601,8 +601,8 @@ unzufrieden den Kopf. »Meine ursprüngliche Theorie verliert
 ihr Fundament,« sagte er mehr zu sich selbst. »Komm, mein
 Alter, steigen wir in den Keller. — Sie beide, meine Herren,
 können nach Hause fahren,« wandte er sich an das etwas komische
-Freundespaar. »Daß Sie schweigen werden, weiß ich… Fred,
-geleitet die Herren hinaus. — Auf Wiedersehen…«
+Freundespaar. »Daß Sie schweigen werden, weiß ich … Fred,
+geleitet die Herren hinaus. — Auf Wiedersehen …«
 
 Er gab ihnen <em>nicht</em> die Hand.
 
@@ -619,23 +619,23 @@ auch für Erfrischungen gesorgt.
 »Wie fühlen Sie sich, Miß?« fragte Harst liebenswürdig
 und zog sich einen Stuhl an den Diwan.
 
-»Es geht…« hauchte sie verwirrt.
+»Es geht …« hauchte sie verwirrt.
 
 Harald betrachtete das hübsche Gesicht mit eigentümlicher
 Schärfe.
 
 »Sie sind dem Tode wie durch ein Wunder entgangen,
-Miß Holber… Einer unserer Freunde rettete Sie… Wollen Sie
+Miß Holber … Einer unserer Freunde rettete Sie … Wollen Sie
 meine Fragen rückhaltlos beantworten?«
 
 »Nein!«
 
 Mit einem Schlage war ihre Unsicherheit wie fortgezaubert.
 
-»So … so… — Sie wollen nicht… Wen möchten Sie eigentlich
+»So … so … — Sie wollen nicht … Wen möchten Sie eigentlich
 schonen, Miß? Ihren Bruder James, der Sie bei Rapper als
 ganz entfernte Verwandte einschmuggelte, oder den, der Sie
-veranlaßte, im Garten…« — er machte eine Pause — »im Garten
+veranlaßte, im Garten …« — er machte eine Pause — »im Garten
 den Lichtstrom zu unterbrechen?«
 
 Sie erblaßte plötzlich, — ich fürchtete schon, sie
@@ -655,14 +655,14 @@ ernste Sache, zumal wenn er mit anderen Verbrechen eng verknüpft
 ist, die man einer … Piratenbande zuschreibt.«
 
 Das Mädchen warf den Kopf etwas zurück. »Ich lebe ja,
-Herr Harst… James wußte nicht, auf wen er…«
+Herr Harst … James wußte nicht, auf wen er …«
 
 Sie brach jäh ab.
 
 »… auf wen er dem Schuß abgab, — das glaube ich Ihnen,«
 vollendeter Harald, jedes Wort abwägend. »Trotzdem ist jemand
 ermordet worden, Miß Holber, und Sie haben dabei bewußt
-oder unbewußt geholfen…«
+oder unbewußt geholfen …«
 
 Sie starrte meinen Freund an. »Das … ist … nicht …
 wahr,« stammelte sie.
@@ -671,7 +671,7 @@ wahr,« stammelte sie.
 getötet, als <em>Sie</em>, nur Sie die Hauptleitung auftragsgemäß
 für eine Minute unterbrachen. Die Kriminalpolizei befindet
 sich jetzt drüben in der Villa, und Kriminalrat Penz ist
-genau so felsenfest von…«
+genau so felsenfest von …«
 
 Ich sprang zu, — konnte die Sekretärin gerade noch
 auffangen.
@@ -687,10 +687,10 @@ sehr gelegen, Miß…« — er mochte seinen etwas rauhen Ton
 bereits wieder bedauern, — er legte dem jungen Mädchen ganz
 sanft die Hand auf die Schulter und fügte warmherzig hinzu:
 »Ich glaube, Sie haben eine große Tragödie zu verbergen,
-mein Kind… Seelische Konflikte sind die schlimmsten. Hoffen
+mein Kind … Seelische Konflikte sind die schlimmsten. Hoffen
 wir, daß sich alles auch für Sie in zufriedenstellender
-Weise entwickelt… — Fred Steen wir Ihnen bringen, was Sie
-noch brauchen… Auch Bücher… — Gute Nacht, Miß Holber.«
+Weise entwickelt … — Fred Steen wir Ihnen bringen, was Sie
+noch brauchen … Auch Bücher … — Gute Nacht, Miß Holber.«
 
 Die grauen Augen der Sekretärin, die einen ganz eigentümlichen
 vertieften Glanz hatten, schienen Harsts noch festhalten
@@ -699,24 +699,24 @@ zu wollen.
 »War es … Absicht?« fragte sie kaum verständlich.
 
 »Von <em>der</em> Seite war es nicht Absicht, sondern
-ein unseliger Zufall… Von der anderen Seite war es gemeinste
+ein unseliger Zufall … Von der anderen Seite war es gemeinste
 Ausnutzung des zufälligen Zusammentreffens verschiedener
 Umstände.«
 
 Aus dieser Antwort Harsts wurde ich nicht recht klug,
 aber Daisy schien ihn vollkommen verstanden zu haben. Sie
 faßte nach Haralds Hand und flüsterte halb weinend: »Ich
-danke Ihnen… Das Leben hätte keinen Wert mehr für mich gehabt,
+danke Ihnen … Das Leben hätte keinen Wert mehr für mich gehabt,
 wenn mein Verdacht irgendwie bestätigt worden wäre! Jetzt
-erst sehe ich vollkommen klar… Sie haben recht, Herr Harst,
+erst sehe ich vollkommen klar … Sie haben recht, Herr Harst,
 gemeinste Ausnutzung! Man zwang mich dazu, die Verkleidung,
-die Perücke, den falschen Bart und die Schminke zu benutzen…
+die Perücke, den falschen Bart und die Schminke zu benutzen …
 Es war ein schändliches Spiel. Trotzdem muß ich schweigen,
 — — ich muß!«
 
 »Des einen Jahres Zuchthaus wegen?!« entgegnete Harald
 mahnend. »Ich glaube, Sie haben bereits zu häufig und sehr
-zur Unzeit Ihre Lippen sehr fest geschlossen… — Gute Nacht,
+zur Unzeit Ihre Lippen sehr fest geschlossen … — Gute Nacht,
 Miß Holber.«
 
 Auf der Kellertreppe kam uns bereits Fred Steen entgegengeeilt.
@@ -735,7 +735,7 @@ Leiter der Mordkommission, dürfte mit dieser Festnahme lediglich
 einen anderen Schachzug vorbereiten. Penz glaubt nie im
 Leben an Gehrtyls Schuld. Also nur kalt Blut, lieber Fred.
 Kümmern Sie sich jetzt um Fräulein Holber und bringen Sie
-ihr alles, was sie zur Nacht nötig hat… Beeilen Sie sich…
+ihr alles, was sie zur Nacht nötig hat … Beeilen Sie sich …
 Nachher fahren wir zum ›Standard-Klub‹…«
 
 <h2>4. Kapitel</h2>
@@ -757,7 +757,7 @@ zweifelhaften Ehrenmänner aufgenommen hatte.
 
 Harald klopfte in bestimmter Art gegen die Tür, Ring,
 den wir telephonisch verständigt hatten, öffnete sofort
-und flüsterte: »Es ist noch niemand da…«, —
+und flüsterte: »Es ist noch niemand da …«, —
 dann führte er uns über eine Seitentreppe in den zweiten
 Stock, wo auch sechs Logierzimmer lagen. Er schloß uns in
 Nr. 1 ein, wünschte uns noch gutes Gelingen und entfernte
@@ -836,7 +836,7 @@ einer Gesellschaftsschicht, die wir seit Tagen ohne nennenswerten
 Erfolg hatten ›beschatten‹ lassen.
 
 Die Gesichter waren blaß, nervös, — jeder stürzte den
-Sekt wie Wasser hinab, — keiner sprach ein Wort… Jeder stierte
+Sekt wie Wasser hinab, — keiner sprach ein Wort … Jeder stierte
 vor sich hin.
 
 Eine unheimliche nächtliche Verschwörerbande!
@@ -863,10 +863,10 @@ Silberham!!« — Das war offener Hohn.
 
 Rapper klopfte auf den Tisch. »Ruhe!! Nur jetzt keine
 persönlichen Anpöbeleien!! — Wir haben uns hier versammelt,
-weil dies ein Ort ist, wo wir am sichersten sind…«
+weil dies ein Ort ist, wo wir am sichersten sind …«
 
 »Nette Sicherheit!!« sagte der Bankier ironisch. »Vielleicht
-geht auch hier das Licht aus, ein Schuß knallt, und…«
+geht auch hier das Licht aus, ein Schuß knallt, und …«
 
 »Wollen Sie wohl schweigen, Sie verdammter Narr!!«
 fauchte Rapper ihn an.
@@ -879,7 +879,7 @@ quälender Gedanken lagerte über den fünf Menschen.
 Rapper begann von neuem: »Das Verschwinden meiner Sekretärin
 beunruhigt mich am meisten, ebenso das Verhalten meines
 Dieners James. Der Mann war derart verstört, als Penz ihn
-vernahm, daß ich … ich… — na, James hat zweifellos ein schlechtes
+vernahm, daß ich … ich … — na, James hat zweifellos ein schlechtes
 Gewissen.«
 
 Geheimrat Schwamm, der für gewöhnlich wie vom Katheter
@@ -888,7 +888,7 @@ Ihre Pirschbüchse mitgegeben, Rapper, Penz hat auf dem Steg
 am vordersten Pfahl am Nagel eine Männerperücke gefunden
 und in Miß Holbers Zimmer Schminke, Bartwolle und Klebstoff.
 Vielleicht war der Einbrecher gar Miß Holber, und James
-hat sie niedergeknallt und in den See geworfen… Penz argwöhnt
+hat sie niedergeknallt und in den See geworfen … Penz argwöhnt
 dies wahrscheinlich auch.«
 
 Frau Benk trank das vierte Glas Sekt. »All das ist
@@ -907,7 +907,7 @@ liegen!« Er rauchte übernervös und schwitzte noch stärker.
 Silberham ließ ein lautes »Ah — — Gehrtyl!!« hören.
 »Davon wußte ich ja noch gar nichts! Also Gehrtyl war auch
 da.« Er blickte Frau Benk an. »Sie, verehrte gnädige Frau,
-wollten dem Chemiker doch seine neueste Erfindung abkaufen…«
+wollten dem Chemiker doch seine neueste Erfindung abkaufen …«
 
 In diesen Worten lag eine versteckte Verdächtigung.
 
@@ -915,10 +915,10 @@ In diesen Worten lag eine versteckte Verdächtigung.
 die Geheimrätin eifrig.
 
 »Wer weiß!« murmelte Schwamm allzu deutlich. »Wer weiß,
-liebe Herma…«
+liebe Herma …«
 
 Sie erhob sich jäh. »Schwamm, Sie … Sie … sind ein
-feiger Intrigant…! Ich…«
+feiger Intrigant …! Ich …«
 
 »Ruhe!« Rapper zischte es über den Tisch. »Seid ihr
 denn alle verrückt geworden?! Wißt ihr nicht, worum es geht?!
@@ -926,9 +926,9 @@ Sehnt ihr euch so nach dem Zuchthaus?!«
 
 Silberham meckerte frech. »Spaß — — Zuchthaus? Mein
 Flugzeug ist jede Minute startbereit, außerdem haben wir
-ja noch den Nautilus, — ist zwar etwas eng, der Kahn, aber…«
+ja noch den Nautilus, — ist zwar etwas eng, der Kahn, aber …«
 
-Rapper stand auf… »So kommen wir nicht weiter, — ich
+Rapper stand auf … »So kommen wir nicht weiter, — ich
 rede jetzt und verbitte mir jeder Zwischenbemerkung. — Es
 darf niemand von uns auch nur die geringste Vorbereitung
 zur Flucht treffen. Auf die Polizei pfeife ich. Aber diese
@@ -937,30 +937,30 @@ nicht aus den Klauen lassen. Ich bin überzeugt, Harst weiß
 mehr, als uns dienlich ist. Er und Schraut und dieser Bengel
 Fred Steen müssen verschwinden. Das können wir nur erreichen,
 indem wir die drei weglocken. Einer von uns muß also anscheinend
-zu flüchten suchen, und…«
+zu flüchten suchen, und …«
 
 »Natürlich Sie selbst, Rapper!« höhnte Schwamm. »Natürlich
-Sie…!! — Ach nein, mein Lieber, das gibt es nicht… Da denken
-Sie sich nur etwas Besseres aus. — Ich habe einen Gedanken…
-Morgen abend locken wir die Kerle auf den Fluß, und dann…
+Sie …!! — Ach nein, mein Lieber, das gibt es nicht … Da denken
+Sie sich nur etwas Besseres aus. — Ich habe einen Gedanken …
+Morgen abend locken wir die Kerle auf den Fluß, und dann …
 — — Schluß!!«
 
 Wieder meckerte Silberham dazwischen.
 
 »Locken?! Locken?! — Schwämmchen, das möchte ich sehen,
-wie Sie das anfangen wollen…«
+wie Sie das anfangen wollen …«
 
-»Durch Lichtsignale…!« sagte das Stachelschwein großartig.
+»Durch Lichtsignale …!« sagte das Stachelschwein großartig.
 
 »Hm — nicht schlecht!« nickte der Bankier. »Wenn nur
 die Strompolizei nicht wäre, die schwärmt jetzt auf der
-Havel umher wie … wie Wasserflöhe… Na, versuchen kann man’s
-ja… — — Und der Mörder?« fragte er grob. »Wer erschoß Rail?
+Havel umher wie … wie Wasserflöhe … Na, versuchen kann man’s
+ja … — — Und der Mörder?« fragte er grob. »Wer erschoß Rail?
 Wer hatte ein Interesse daran?«
 
 »Niemand!« stellte Rapper mit allem Nachdruck fest.
-»Niemand von uns vieren jedenfalls… Rail war mein bester
-Freund, und…«
+»Niemand von uns vieren jedenfalls … Rail war mein bester
+Freund, und …«
 
 Der unleidliche Bankier kicherte. »Rapper, — ein netter
 Detektivklub sind wir!! Freundschaft?! Was heißt Freundschaft?!
@@ -975,8 +975,8 @@ Dieser Silberham war mir beinahe sympathisch.
 Dann erhob sich die Geheimrätin Benk abermals.
 
 »Ihr werdet die Zwecklosigkeit dieser Unterredung nun
-wohl eingesehen haben…!« erklärte sie schrill. »Ich fahre
-nach Hause… Meine Nerven streiken… Tut was ihr wollt…«
+wohl eingesehen haben …!« erklärte sie schrill. »Ich fahre
+nach Hause … Meine Nerven streiken … Tut was ihr wollt …«
 
 Siegfried Silberham meinte harmlos: »Ob Sie jetzt wohl,
 wo Gehrtyl verhaftet ist, die Erfindung billiger bekommen,
@@ -990,8 +990,8 @@ Und sie verließ das Zimmer.
 
 Die Zurückbleibenden starrten ihr nach.
 
-Dann stand auch Schwamm auf. »Ich … ich muß ins Bett…
-Um neun Uhr kommt mein Masseur, um halb zehn die Maniküre…«
+Dann stand auch Schwamm auf. »Ich … ich muß ins Bett …
+Um neun Uhr kommt mein Masseur, um halb zehn die Maniküre …«
 
 Fünf Minuten später befanden sich nur noch Rapper und
 Rank im Vorstandszimmer.
@@ -1001,39 +1001,39 @@ und gähnte immer wieder.
 
 Dann blieb Rapper stehen.
 
-»Rank eine Frage…«
+»Rank eine Frage …«
 
-»Bitte…«
+»Bitte …«
 
 »Eine Frage auf Ehrenwort, Rank: Trauen Sie mir den
 Mord zu? Ja oder nein?«
 
-Rank hüstelte und zögerte…
+Rank hüstelte und zögerte …
 
 Dann sagte er verlegen: »Sie können doch nicht leugnen,
 Rapper, daß Sie die Daisy Holber in den Garten an den bestimmten
 Baum im Gebüsch geschickt haben und daß Sie ihr die Verkleidung
-beschafften… Wenn die Polizei merkt, wie der Lichtstrom unterbrochen
+beschafften … Wenn die Polizei merkt, wie der Lichtstrom unterbrochen
 wurde, und wenn Harst und Schraut, die doch zu der kritischen
-Zeit im Nebengarten waren, gesehen haben, wie Sie…«
+Zeit im Nebengarten waren, gesehen haben, wie Sie …«
 
 »… Sie sind ein Narr!! Gute Nacht!!« Rapper schmetterte
 die Tür ins Schloß.
 
-Peter von Rank grinste… In seiner Trunkenheit sprach
-er halblaut mit sich selbst…
+Peter von Rank grinste … In seiner Trunkenheit sprach
+er halblaut mit sich selbst …
 
 »Du … du hast mich immer so … so als deinen Schuhputzer
-behandelt…! Pfui Deubel!! Eine feine Gesellschaft seid ihr!!
+behandelt …! Pfui Deubel!! Eine feine Gesellschaft seid ihr!!
 Beim ersten Anzeichen von Gefahr platzt ihr auseinander!«
 Er lachte etwas blöde. Er war noch jung, der Jüngste
-von allen… »Hätte ich mich nur nie mit ihnen eingelassen…!!
+von allen … »Hätte ich mich nur nie mit ihnen eingelassen …!!
 Aber das verfluchte Geld und … das feudale Leben … und das
 Faulenzen, — — Schäm dich Peter Rank! Du bist ein jämmerlicher
 Bursche!«
 
 Dann trank er noch ein Glas Sekt und schritt unsicher
-zu Tür…
+zu Tür …
 
 Das Licht ließ er brennen. Ein Klubdiener kam, räumte
 die Sektkühler und Gläser weg, verschwand, knipste die Beleuchtung
@@ -1051,11 +1051,11 @@ behaglich schmunzelnd der stämmige Kriminalrat Penz.
 »Guten Morgen, ihr Schleicher!!«
 
 Er wickelte die Schnur seines Hörverstärkers zusammen.
-»Ja, ich habe auch gelauscht… War ganz interessant… Feine
+»Ja, ich habe auch gelauscht … War ganz interessant … Feine
 Familie!!«
 
-Er drückte uns die Hand. »Setzt euch…. Machen wir es
-uns gemütlich…«
+Er drückte uns die Hand. »Setzt euch … Machen wir es
+uns gemütlich …«
 
 Wenn Penz jovial wurde, bekamen alle Gauner eine Gänsehaut.
 
@@ -1063,7 +1063,7 @@ Wenn Penz jovial wurde, bekamen alle Gauner eine Gänsehaut.
 <h3>Die Vorgeschichte der Flußpiraten.</h3>
 
 »Also, mein lieber Harst,« begann Penz, an seiner Zigarre
-saugend… »Nun wollen wir mal auspacken. Ich bin euch gefolgt,
+saugend … »Nun wollen wir mal auspacken. Ich bin euch gefolgt,
 das seht ihr. Meine Leute hatten mir gemeldet, daß Hubich
 und Kunkel, diese Opfer der neuesten Auflage der Havelpiraten,
 die Villa Wittgenstein verlassen hatten. Außerdem — — eine
@@ -1072,13 +1072,13 @@ Frage: Wer steckt da unten im Keller?«
 Er lachte pfiffig. »Meine Leute hatten nämlich ganz
 bestimmte Anweisungen, nachdem ich durch die telephonische
 Meldung über den Mord erfahren hatte, daß ihr drei, Steen
-mit eingerechnet, dort eure Angelhaken auswerft… Mithin
+mit eingerechnet, dort eure Angelhaken auswerft … Mithin
 hegtet ihr Verdacht gegen Rapper. Das Kellerfenster war
 schlecht abgedichtet. Das Mädchen dort kann nur Daisy Holber
 sein.«
 
 Harald gab es auf, Dinge abzustreiten, die offenkundig
-waren. »Es ist die Sekretärin… Und Hubich und Kunkel waren
+waren. »Es ist die Sekretärin … Und Hubich und Kunkel waren
 allerdings einer Aufforderung zu einer Rücksprache mit uns
 in die Villa Wittgenstein gefolgt.«
 
@@ -1089,15 +1089,15 @@ Harst, ich besitze nicht Ihre Phantasie, aber ich folgere
 aus dem Perückenfund, aus dem Auftauchen des ›Einbrechers‹
 bei Rapper und aus dem Schuß, den Mr. James Baring im Garten
 abgab, doch wohl das Richtige. Ihr Fred war der Einbrecher,
-James erschoß die verkleidete Daisy und…« — es war erstaunlich,
+James erschoß die verkleidete Daisy und …« — es war erstaunlich,
 wie treffend Penz kombinierte. »Ja, — ich hätte diese Schlußfolgerungen
 vielleicht nicht so leicht aus dem Handgelenk schütteln
 können, wenn James Baring bei der Vernehmung des Personals
 nicht so verstört gewesen wäre, als das Fehlen der Sekretärin
 plötzlich festgestellt wurde. Niemand wußte etwas über ihren
 Verbleib. In ihrem Zimmer entdeckte ich dann so einiges,
-— — Schminke, Bartwolle, Klebstoff… — Und dann kam die Meldung,
-daß hier im Keller ein Mädchen eingesperrt worden sei… —
+— — Schminke, Bartwolle, Klebstoff … — Und dann kam die Meldung,
+daß hier im Keller ein Mädchen eingesperrt worden sei … —
 So, Harst, das sind Tatsachen. Ich frage daher: Was wird
 in der Feudalvilla Rapper gespielt? Weshalb erschoß man
 Herrn von Rail? Daß es der Chemiker Gehrtyl <em>nicht</em>
@@ -1182,12 +1182,12 @@ Heim.«
 »Inzwischen hatten wir auch den engen Freundeskreis
 des Herrn von Rapper, bei dem Silberham dauernd aus- und
 eingeht, aufs Korn genommen, was um so leichter war, als
-wir Mitglieder desselben Klubs sind…«
+wir Mitglieder desselben Klubs sind …«
 
 »Der ›Standard-Klub‹, — — ja, äußerst vornehm,« nickte
 Penz zweideutig.
 
-»<em>Äußerlich</em> vornehm… Dort lernten wir Gehrtyl
+»<em>Äußerlich</em> vornehm … Dort lernten wir Gehrtyl
 kennen. Der Doktor ist berühmt, seine Erfindungen bringen
 ihm viel Geld ein, — er erwähnte, er wolle nun ein chemisches
 Rezept, das Millionen werte sei, an eine deutsche Firma
@@ -1211,7 +1211,7 @@ das Signal dazu. Er saß vor der Ständerlampe, deren beide
 Birnen brannten. Er hob den Arm, schaltete die zwei aus
 — und dann erlosch die gesamte Beleuchtung in der Villa,
 der Schuß knallte, wir hörten auch den Körper Rails zu Boden
-schlagen… — Wer unterbrach für eine Minute den Hauptstrom
+schlagen … — Wer unterbrach für eine Minute den Hauptstrom
 zur Villa? Daisy Holber tat’s. Sie heißt gar nicht Daisy
 Holber, sondern Daisy Baring und ist James Barings … Frau.
 Über dieses Ehepaar wäre auch noch einiges zu sagen. Ich
@@ -1243,7 +1243,7 @@ ihrer Opfer auf das Glatteis, Pardon, auf den Fluß mit größeren
 Barsummen bestellten. — Alles in allem ist das kein Vers,
 sondern ein Knittelreim, eben ein ganz niederträchtiger
 Fall, der um so übler und schwieriger zu bearbeiten ist,
-als es sich um sogenannte feine Herrschaften handelt… Man
+als es sich um sogenannte feine Herrschaften handelt … Man
 kann sich da leicht die Finger verbrennen, und noch niemals
 habe ich daher Ihre Mitarbeit so warm begrüßt wie diesmal,
 lieber Harst.«
@@ -1255,11 +1255,11 @@ Kriminalrat eingelassen hatte und der unten an der Hoftür
 nur ganz bescheiden fragte: »Herr Harst, soll ich die Rabitzwand
 wieder ausflicken?«
 
-»Tun Sie es, lieber Ring… Wir danken Ihnen.«
+»Tun Sie es, lieber Ring … Wir danken Ihnen.«
 
 »Verzeihung, — haben Sie Wichtiges gehört?«
 
-»Ja… Herr von Rail ist erschossen worden…«
+»Ja … Herr von Rail ist erschossen worden …«
 
 Der alte Mann taumelte zurück.
 
@@ -1270,11 +1270,11 @@ Penz blickte auf und musterte ihn durchdringend. »Wie
 meinten Sie das, Ring?! Reden Sie!«
 
 Der bleiche Hausmeister flüsterte stockend: »Ich …
-ich halte Rail für … für sehr gefährlich, Herr Rat… Er wußte
-wohl alles … alles… — Das ist … sehr bitter, daß er … zu
-schnell starb…«
+ich halte Rail für … für sehr gefährlich, Herr Rat … Er wußte
+wohl alles … alles … — Das ist … sehr bitter, daß er … zu
+schnell starb …«
 
-Der Mann war uns ein Rätsel. Leider ein neues Rätsel…
+Der Mann war uns ein Rätsel. Leider ein neues Rätsel …
 —
 
 Hiermit beginnt nun ein neuer Abschnitt des Falles
@@ -1321,7 +1321,7 @@ und fuhr rechts an uns vorüber, blieb dabei einen Augenblick
 mit uns in einer Höhe und hob ein wenig die linke Hand zu
 einer eigentümlich ruckartigen Bewegung.
 
-Im selben Moment griff Harald zu… Irgend etwas Blankes
+Im selben Moment griff Harald zu … Irgend etwas Blankes
 — wie eine Glaskugel — fing er geschickt auf und schleuderte
 das Ding sofort zum anderen Fenster hinaus.
 
@@ -1334,26 +1334,26 @@ Bewußtlosen spielen!«
 
 Unser Famulus Fred war alles andere als begriffsstutzig.
 
-»Wird gemacht, Herr Harst…«
+»Wird gemacht, Herr Harst …«
 
 »Wo ist der Motorfahrer?«
 
-»Dreißig Meter vor uns…«
+»Dreißig Meter vor uns …«
 
-»Gut, es bleibt bei meinem Befehl…«
+»Gut, es bleibt bei meinem Befehl …«
 
-… Der Wagen hielt… Wir beide lagen im Inneren quer
-übereinander…
+… Der Wagen hielt … Wir beide lagen im Inneren quer
+übereinander …
 
-Mein Herz hämmerte… Wer konnte nur dieser Gasbombenwerfer
+Mein Herz hämmerte … Wer konnte nur dieser Gasbombenwerfer
 sein, der uns hier aufgelauert hatte? Etwa Rapper?!
 
 Da — das Motorrad knatterte, stoppte neben uns, und
 ein Mann mit einer Gasmaske riß die Tür auf.
 
-Das war aber auch alles…
+Das war aber auch alles …
 
-Eine Hand mit einer Pistole schnellte vor…
+Eine Hand mit einer Pistole schnellte vor …
 
 »Bleiben Sie stehen!« drohte Harst. »Fred, — aussteigen!
 Binden Sie den Kerl!«
@@ -1363,7 +1363,7 @@ wir den Diener Baring, obwohl er sich einen Schnurrbart
 vorgeklebt und tadellos zurechtgeschminkt hatte.
 
 Harst sagte nur: »Also doch! Sie suchen wohl Ihre Frau,
-James?! Steigen Sie ein… Steen wird Ihre Maschine hinten
+James?! Steigen Sie ein … Steen wird Ihre Maschine hinten
 befestigen.«
 
 James Baring war ein schlanker, gut aussehender Mensch
@@ -1379,7 +1379,7 @@ starrte vor sich hin. Erst als er ein großes Glas Portwein
 getrunken hatte, lebte er etwas auf.
 
 »Baring,« begann Harald sehr nachsichtig, »Sie wollten
-Ihre Frau befreien… Woher wußten Sie, daß sie hier im Keller
+Ihre Frau befreien … Woher wußten Sie, daß sie hier im Keller
 eingesperrt war?«
 
 »Ich hatte es mir zusammengereimt, Herr Harst.«
@@ -1387,12 +1387,12 @@ eingesperrt war?«
 »Und wie wollten Sie sie befreien?«
 
 »Ich … ich ahnte, daß ich auf Daisy geschossen
-hatte… Ich suchte heimlich mit dem Bootshaken nach ihr im
-Wasser… Mir wurde allmählich klar, daß nur Herr Steen der
+hatte … Ich suchte heimlich mit dem Bootshaken nach ihr im
+Wasser … Mir wurde allmählich klar, daß nur Herr Steen der
 Einbrecher gewesen sein konnte und Daisy sofort wieder herausgeholt
-hatte… Ich war verzweifelt, kopflos und … halb betrunken…«
+hatte … Ich war verzweifelt, kopflos und … halb betrunken …«
 
-»Leider, leider… Sie trinken zu viel, Baring… Deshalb
+»Leider, leider … Sie trinken zu viel, Baring … Deshalb
 haben Sie sich auch mit Ihrer Frau entzweit.«
 
 Unser Gegenüber nickte stumpf. »Ich muß trinken, Herr
@@ -1406,8 +1406,8 @@ Baring zuckte zusammen. »Ja — — meine Vergangenheit,
 Harst aus glasigen Augen an. »Wer … wer einmal unschuldig
 und nur durch infamste Schurkereien in die Räder der Gesetzesmühle
 geraten ist, der … sollte sich eine Kugel vor den Schädel
-knallen… Der ist ja doch innerlich zerbrochen, der wird
-den Zuchthausgeruch nicht mehr los…«
+knallen … Der ist ja doch innerlich zerbrochen, der wird
+den Zuchthausgeruch nicht mehr los …«
 
 Er bedeckte plötzlich das Gesicht mit den Händen, und
 sein Körper wand sich wie in Krämpfen.
@@ -1427,14 +1427,14 @@ ist vergeben und vergessen, und Ihrer Frau wird nichts geschehen.
 Sie schossen also so blindlings darauf los, weil … weil
 Sie betrunken waren?«
 
-»Ja … angetrunken… Es war entsetzlich… Ich handelte
+»Ja … angetrunken … Es war entsetzlich … Ich handelte
 wie … wie im Fieber, als ich den anscheinend Toten im Wasser
-versenkte…«
+versenkte …«
 
-»Das glaube ich Ihnen… — Sind Sie eigentlich gebürtiger
+»Das glaube ich Ihnen … — Sind Sie eigentlich gebürtiger
 Engländer?«
 
-Baring stutzte und zögerte. »Nein… Ich … ich kniff
+Baring stutzte und zögerte. »Nein … Ich … ich kniff
 mit elf Jahren von zu Hause aus und war zuerst Matrose,
 dann Steward, später Diener. Ich bin Deutscher von Geburt.«
 
@@ -1446,23 +1446,23 @@ ich möchte Sie nicht belügen.«
 
 »Das gefällt mir. — Jetzt sollen Sie noch Ihre Frau
 sprechen, aber nicht lange. — Fred, führen Sie Herrn Baring
-in den Keller. Auf Wiedersehen also…«
+in den Keller. Auf Wiedersehen also …«
 
 »Sie … Sie sind unendlich gütig,« stammelte James bewegt.
-»Wenn ich Ihnen noch irgendwie dienen dürfte, Herr Harst…
+»Wenn ich Ihnen noch irgendwie dienen dürfte, Herr Harst …
 Haben Sie etwas zu fragen?«
 
 »Ja. Kennen Sie den Nautilus?«
 
 »Nautilus? Nein!«
 
-»Sehr schade… Ich kenne ihn auch nicht. Ich glaube
+»Sehr schade … Ich kenne ihn auch nicht. Ich glaube
 aber, wer ihn kennt, ist verblüfft. — Also … auf Wiedersehen,
-Baring…«
+Baring …«
 
 Als Fred und der seltsame Diener die Bibliothek verlassen
 hatten, wandte sich Harald mir zu und meinte halblaut: »Baring
-ist keineswegs irgendwie Helfershelfer seines Herrn… Nein,
+ist keineswegs irgendwie Helfershelfer seines Herrn … Nein,
 mit den Flußpiraten hat er nichts zu tun. — Hast du dir
 seine Nase angesehen, mein Alter?«
 
@@ -1471,8 +1471,8 @@ seine Nase angesehen, mein Alter?«
 »Ja. Eine gut geformte Nase mit einer Rille auf der
 Spitze. Manche Leute behaupten, diese Rille deute auf Temperament
 hin. Und der alte Hausmeister Julius Ring hat dieselbe Nase.
-Außerdem heißt Baring mit Vornamen James, Barty, Arthur…—
-*B*arty *A*rthur Ring — Baring… Sehr einfach.«
+Außerdem heißt Baring mit Vornamen James, Barty, Arthur …—
+*B*arty *A*rthur Ring — Baring … Sehr einfach.«
 
 »Wie, der Hausmeister wäre sein Vater?«
 
@@ -1482,7 +1482,7 @@ gezeigt?!«
 — Als ich nachher in Morgengrauen schlafen ging, beschäftigte
 mich am allermeisten das Motorboot der Piraten, der Nautilus.
 — Penz hatte suchen lassen wollen, Harst hatte dazu erklärt,
-»Vollkommen zwecklos…! Das Boot finden Sie nicht.«
+»Vollkommen zwecklos …! Das Boot finden Sie nicht.«
 
 Weshalb sollte man ein Boot nicht finden?!
 
@@ -1494,7 +1494,7 @@ Weshalb sollte man ein Boot nicht finden?!
 Mittags um zwölf Uhr ließ sich Herr von Rapper melden
 und begrüßte uns mit vorbildlich erheuchelter Herzlichkeit.
 »Mein verehrtester Herr Harst, ich komme mit einer großen
-Bitte… Sie wissen wohl, daß meine Sekretärin verschwunden
+Bitte … Sie wissen wohl, daß meine Sekretärin verschwunden
 ist. Könnten Sie sich nicht so etwas der Sache annehmen?«
 
 Zu meiner Überraschung war Harald sofort dazu bereit.
@@ -1534,14 +1534,14 @@ bauen ließ. Ich kenne nun ja die meisten Räume, aber selbst
 unten im Speisesaal fand ich keinen Prunkkamin von dieser
 Größe. — Ist Ihnen das nie aufgefallen?«
 
-»Nein…« entgegnete Rapper etwas verständnislos…
+»Nein …« entgegnete Rapper etwas verständnislos …
 
 Harst beugte sich jetzt zum offenen Fenster hinaus.
 — Ich bitte die Skizze des Zimmers zu betrachten. Das
 lange dreiflügelige Fenster links vom Kamin war gestern
 abend geschlossen gewesen.
 
-»Bitte, Herr Rapper… Eine Feuerleiter läuft dort rechts
+»Bitte, Herr Rapper … Eine Feuerleiter läuft dort rechts
 vom Dach bis zur Erde hinab. Nur ein kühner Sprung kann
 jemanden von diesem Fenster und allen anderen nächstliegenden
 bis zu dieser Leiter bringen. Sie ist also höchst unpraktisch
@@ -1550,17 +1550,17 @@ angebracht.«
 »Da haben Sie recht, Herr Harst. Auch das ist mir bisher
 entgangen.«
 
-»Begreiflich…! Ihr Vorbesitzer wußte ja auch genau,
+»Begreiflich …! Ihr Vorbesitzer wußte ja auch genau,
 daß er allzeit mit einem Fuß im Zuchthaus stand. Solche
 Glücksritter und Volksschädlinge sichern sich stets eine
 Hintertür zum Entschlüpfen. Einen ähnlichen Fall erlebten
 wir noch unlängst. — Ich fürchte, Sie verstehen mich nicht
 ganz, Herr von Rapper. Dieser Kamin ist solch eine Hintertür.
 Ich will einmal versuchen, wie die Geschichte zu handhaben
-ist… Wahrscheinlich wird das Marmorfeld hier links neben
-der Feuerung beweglich sein… — Ah — — da haben wir’s… Sehr
+ist … Wahrscheinlich wird das Marmorfeld hier links neben
+der Feuerung beweglich sein … — Ah — — da haben wir’s … Sehr
 fein ausgeklügelt! Eine Drehung dieses Eckknopfes am Kaminsims
-genügt… Die Tür ist offen…«
+genügt … Die Tür ist offen …«
 
 Rapper starrte verblüfft in das schwarze Loch hinein.
 Dann leuchtete Harsts Taschenlampe auf, und die Öffnung,
@@ -1592,22 +1592,22 @@ Er ließ auch die Marmorplatte wieder zufallen und fügte
 achselzuckend hinzu: »Wie man sich doch täuschen kann! Ich
 hielt Sie für Rails Mörder. In der vergangenen Nacht stiegen
 mir dann die ersten Bedenken auf, jetzt weiß ich, daß Sie
-nicht als Täter in Frage kommen, obwohl…«
+nicht als Täter in Frage kommen, obwohl …«
 
-Er hüstelte…
+Er hüstelte …
 
 Rapper sagte schnell: »Bitte, was sollte auf das ›obwohl‹
 folgen?«
 
 Harald blickte ihn scharf an. »Obwohl … ein Mord beabsichtigt
-war…«
+war …«
 
 Rapper wurde blaß. »Von wem?! — Doch nicht von mir!«
 
-»<em>Die</em> Frage erörtern wir später… Schraut, gib
-mal die Pistole her… Ein englisches Modell…« Er ließ den
+»<em>Die</em> Frage erörtern wir später … Schraut, gib
+mal die Pistole her … Ein englisches Modell …« Er ließ den
 Patronenrahmen herausschnellen. »Eine Patrone im Lauf, acht
-im Rahmen… Gut geölte Waffe…«
+im Rahmen … Gut geölte Waffe …«
 
 Zu meinem Erstaunen nahm er jetzt gar keine Rücksicht
 mehr darauf, daß Fingerabdrücke vorhanden sein könnten.
@@ -1621,7 +1621,7 @@ So, nun wäre ich hier mit meiner Arbeit fertig, Herr
 von Rapper. Meine Entscheidung über die Frage ›Wo ist Ihre
 Sekretärin?‹ lautet: Nach England abgereist, — jedenfalls
 ist sie zur Zeit in einem kleinen photographischen Atelier
-tätig… Sie werden sicherlich von ihr hören.«
+tätig … Sie werden sicherlich von ihr hören.«
 
 Rapper schaute Harst mißtrauisch an. »Scherzen Sie?!«
 
@@ -1633,7 +1633,7 @@ hier nur meiner Ansicht Ausdruck. Wie wir zu dieser Ansicht
 gelangt sind, Herr von Rapper, ist Berufsgeheimnis. Daisy
 Holber lebt und entwickelt Platten.«
 
-Rappers Züge verrieten lediglich maßloses Nichtverstehen…
+Rappers Züge verrieten lediglich maßloses Nichtverstehen …
 Wie sollte er auch ahnen, daß das photographische Atelier
 unten im Keller bei Wittgenstein sich befand.
 
@@ -1645,12 +1645,12 @@ heimlichem vertraulichem Augenzwinkern hinaus.
 »Fragen Sie unseren Gast, ob wir zu einer Rücksprache willkommen
 sind.«
 
-»Sofort…«
+»Sofort …«
 
-Ja — — sofort kam Fred wieder nach oben gestürzt…
+Ja — — sofort kam Fred wieder nach oben gestürzt …
 
-»Herr Harst, sie ist weg… Die Dunkelkammer ist leer…
-Die Tür steht offen… Und das Patentschloß ist doch tadellos!«
+»Herr Harst, sie ist weg … Die Dunkelkammer ist leer …
+Die Tür steht offen … Und das Patentschloß ist doch tadellos!«
 
 Harst biß sich in die Unterlippe.
 
@@ -1663,10 +1663,10 @@ angelegt und einige der Frauensachen mitgenommen hatte.
 »Fred, wo steckten Sie, als wir bei Rapper waren?«
 fragte Harst den niedergeschmetterten Steen.
 
-»In der Küche… Ich bin hier doch auch Koch, und…«
+»In der Küche … Ich bin hier doch auch Koch, und …«
 
 »Schon gut. Ich möchte wetten, Baring hat seiner Frau
-heute nacht Dietriche hiergelassen… Wer weiß, was sie verabredet
+heute nacht Dietriche hiergelassen … Wer weiß, was sie verabredet
 haben. Das gefällt mir gar nicht, das kann uns alles verderben.«
 
 Da Daisy mindestens eine halbe Stunde Vorsprung hatte,
@@ -1681,7 +1681,7 @@ sagte er bei Tisch zu Steen und mir. »Nun können wir warten,
 bis wir die Herren Havelpiraten im Netz haben.«
 
 Fred, der von mir in die Vorgänge bei Rapper eingeweiht
-worden war, meinte pfiffig: »Lange wird das nicht mehr dauern…
+worden war, meinte pfiffig: »Lange wird das nicht mehr dauern …
 — Was halten Sie von der Feuerleiter, dem Kamin, den Geheimtüren,
 den Spuren und der Pistole, Herr Harst?«
 
@@ -1699,35 +1699,35 @@ Flußpiraten nicht ein Wort. —
 Was bedeutete die Pistole, aus der kein Schuß abgegeben
 worden war?!
 
-Dann kam die Dunkelheit…
+Dann kam die Dunkelheit …
 
-Und um halb neun schrillte das Telephon in der Bibliothek…
+Und um halb neun schrillte das Telephon in der Bibliothek …
 
 <h2>8. Kapitel</h2>
 <h3>Frau Barings Ehe.</h3>
 
-»Hier Wannsee 201…«
+»Hier Wannsee 201 …«
 
-»Hier Rapper… — Herr Harst, ich wollte Ihnen nur etwas
-mitteilen, das mir verdächtig vorkommt… Ich gebe zu, ich
+»Hier Rapper … — Herr Harst, ich wollte Ihnen nur etwas
+mitteilen, das mir verdächtig vorkommt … Ich gebe zu, ich
 bin sehr nervös, Kriminalrat Penz hat mich nachmittags eine
 Stunde verhört, und ich war etwas erstaunt, daß er
 mich offenbar noch immer verdächtigt, obwohl Sie ihm die
 Pistole schickten und betont haben, der Mörder könnte auch
-über die Feuerleiter eingedrungen sein… —Vorhin bemerkte
-ich auf dem Fluß Lichtsignale… Ich nahm ein Fernrohr, konnte
-jedoch nichts entdecken — kein Boot, nichts… Es war sehr
-sonderbar, in der Tat… Vielleicht passen Sie einmal auf,
-was dort vorgeht… Wittgenstein hat ja ein kleines Motorboot,
-und…«
+über die Feuerleiter eingedrungen sein … —Vorhin bemerkte
+ich auf dem Fluß Lichtsignale … Ich nahm ein Fernrohr, konnte
+jedoch nichts entdecken — kein Boot, nichts … Es war sehr
+sonderbar, in der Tat … Vielleicht passen Sie einmal auf,
+was dort vorgeht … Wittgenstein hat ja ein kleines Motorboot,
+und …«
 
-»Danke, gern… Ich glaube aber, Sie sehen bei Ihrer
-Nervosität Gespenster, Herr von Rapper… Was waren es denn
+»Danke, gern … Ich glaube aber, Sie sehen bei Ihrer
+Nervosität Gespenster, Herr von Rapper … Was waren es denn
 für Lichter?«
 
-»Grün und intensiv blau…«
+»Grün und intensiv blau …«
 
-»Nun, ich werde aufpassen… — Wiedersehen…«
+»Nun, ich werde aufpassen … — Wiedersehen …«
 
 Harald hängte ab.
 
@@ -1736,9 +1736,9 @@ Er lächelte Fred und mich vielsagend an.
 »Merkt ihr was!! Wir drei sollen unbedingt geschnappt
 werden! Der Nautilus wartet auf uns! Will uns ersäufen!
 Muß ein fixes Motorboot sein, dieser Nautilus. — Gut, beobachten
-wir… Zieht euch unter den Mäntel Korkwesten über… Bis jetzt
-ist der Fluß nebelfrei… Der Nebel kommt erst gegen acht
-Uhr… Vorwärts also.«
+wir … Zieht euch unter den Mäntel Korkwesten über … Bis jetzt
+ist der Fluß nebelfrei … Der Nebel kommt erst gegen acht
+Uhr … Vorwärts also.«
 
 Wir standen dann mit Ferngläsern ganz vorn auf Wittgensteins
 Bootsteg, hatten links den Wannsee mit seinen Ufervillen
@@ -1759,8 +1759,8 @@ Meter vor uns trieb. Es schien leer zu sein.
 
 »Harald, Achtung!!«
 
-»Ich sehe… — Fred, unser Motorboot bereithalten… Taue
-loswerfen, damit wir nur hineinzuspringen brauchen…«
+»Ich sehe … — Fred, unser Motorboot bereithalten … Taue
+loswerfen, damit wir nur hineinzuspringen brauchen …«
 
 »Wird gemacht, Käpten!«
 
@@ -1769,10 +1769,10 @@ zwei grüne und zwei blaue Lichter, jedoch keinerlei Fahrzeuge.
 
 »Harald, — was bedeutet das?!«
 
-»Nautilus!! — Schnell, — spring ab…!«
+»Nautilus!! — Schnell, — spring ab …!«
 
 Der Bootsmotor schnurrte, und wir sausten auf die Lichter
-zu…
+zu …
 
 Wir waren noch keine dreißig Meter von Steg ab, als
 über die stille Wasserfläche ein gellender Schrei sich fortpflanzte,
@@ -1783,13 +1783,13 @@ Frauengestalt fiel ins Wasser und rief nochmals um Hilfe.
 
 »Astrid?! Wer ist denn das?!« — Fred Steen hatte es gerufen.
 
-»Das ist Daisy… Ihr habt die Londoner Auskünfte nicht
-gelesen… Daisy Astrid Helga Holber ist Frau Barings Mädchenname…
-sehr einfach…«
+»Das ist Daisy … Ihr habt die Londoner Auskünfte nicht
+gelesen … Daisy Astrid Helga Holber ist Frau Barings Mädchenname …
+sehr einfach …«
 
-»Ja — die übliche Geheimniskrämerei!« meinte ich gereitzt.
+»Ja — die übliche Geheimniskrämerei!« meinte ich gereizt.
 
-»Ein zweites Boot!« brüllte Fred… »Eine Polizeibarkasse…
+»Ein zweites Boot!« brüllte Fred … »Eine Polizeibarkasse …
 Die Lichter sind weg!«
 
 Das Polizeiboot war schneller als wir, einer der Insassen
@@ -1798,14 +1798,14 @@ sprang jetzt über Bord und erfaßte die Frauengestalt.
 Ein zweiter Mann in Uniform beugte sich hinab und nahm
 ihm die reglosen Frau Baring ab.
 
-Astrid tat, als wäre sie ohne Bewußtsein… Wir waren
+Astrid tat, als wäre sie ohne Bewußtsein … Wir waren
 bereits heran, und als Harst die Verunglückte jetzt anrief,
-schlug sie sofort die Augen auf…
+schlug sie sofort die Augen auf …
 
-»Ah, — — Sie, Herr Harst…! Ich glaubte…«
+»Ah, — — Sie, Herr Harst …! Ich glaubte …«
 
 »Was glauben Sie?« fragte der zweite Mann in Uniform
-etwas rauh. — Es war Penz…
+etwas rauh. — Es war Penz …
 
 »Nichts!« erklärte Astrid Daisy Baring, vor Kälte zitternd.
 Sie wurde schnell in die kleinen Kajüte der Barkasse gebracht.
@@ -1824,7 +1824,7 @@ warteten, fragte Penz den mit halb geschlossenen Augen vor
 sich hin grübelnden Harst zum zweiten Mal: »Wer ist nun
 also der Mörder Rails?« Und er fügte jetzt ergänzend hinzu:
 »Unter Berücksichtigung der Feuerleiter und des Kamins und
-der Pistole… Letzte haben Sie leider sehr unsachgemäß behandelt,
+der Pistole … Letzte haben Sie leider sehr unsachgemäß behandelt,
 wir werden nur Ihre Fingerabdrücke finden.«
 Das klang sehr bissig.
 
@@ -1863,7 +1863,7 @@ unglücklich darüber, und Rapper verstand es, Ihr Vertrauen
 zu gewinnen. Er spielte den mitfühlenden Freund. Frauen
 sind gerade in dem Punkt sehr leichtgläubig. — War es so?«
 
-»Ja…«
+»Ja …«
 
 Sie hielt den Blick gesenkt.
 
@@ -1895,7 +1895,7 @@ Sie an Rappers moralischen Qualitäten zu zweifeln?«
 Garten auf die Einbrecherjagd geschickt hatte. Sie selbst,
 Herr Harst, zerstreuten mein Mißtrauen, James könnte gewußt
 haben, auf wen er feuerte. Gott sei Dank, — James steht
-rein da…«
+rein da …«
 
 »Und weshalb flohen Sie von hier und wagten sich vorhin
 wieder auf den Fluß?«
@@ -1911,17 +1911,17 @@ gegen ihn Verdacht geschöpft? Wahrscheinlich ja.«
 Harst genau so kurz und sachlich weiter.
 
 Astrid-Daisy schüttelte leicht den Kopf. »Das weiß
-ich nicht… Ich nehme an, daß ein Mann, der sich mir schwimmend
-genähert hatte, das Boot umkippte. Es ging alles so schnell…«
+ich nicht … Ich nehme an, daß ein Mann, der sich mir schwimmend
+genähert hatte, das Boot umkippte. Es ging alles so schnell …«
 
 »Ein Mann?!« — Harald lächelte ein wenig. »Der ›Mann‹
 hat einen sehr bekannten Namen. Man findet diesen Namen
-schon bei Jules Verne… Ich werde Ihnen nun ein Zimmer anweisen,
-Frau Baring… Schraut, begleitete uns. — Lieber Penz, entschuldigen
-Sie mich ein paar Minuten…«
+schon bei Jules Verne … Ich werde Ihnen nun ein Zimmer anweisen,
+Frau Baring … Schraut, begleitete uns. — Lieber Penz, entschuldigen
+Sie mich ein paar Minuten …«
 
 Penz knurrte wieder mißmutig, ohne einen Einwand zu
-erheben… Fred Steen erzählte ihm schleunigst eine gepfefferte
+erheben … Fred Steen erzählte ihm schleunigst eine gepfefferte
 Geschichte, die sehr harmlos begann, aber dann … und Penz
 gab sich zufrieden.
 
@@ -1937,27 +1937,27 @@ Harald drängte zum Aufbruch.
 
 »Baring, nehmen Sie Wittgensteins Auto und benutzen
 Sie beide dann ein Flugzeug. — Keinen Dank! Kein überflüssiges
-Wort mehr… Hier haben Sie ein Schreiben von meiner Hand,
+Wort mehr … Hier haben Sie ein Schreiben von meiner Hand,
 falls die rundum postierten Kriminalbeamten Sie anhalten
-sollten. Beeilen Sie sich… Und nachher fahren Sie wie ein
-Teufel. Sie wissen, warum…«
+sollten. Beeilen Sie sich … Und nachher fahren Sie wie ein
+Teufel. Sie wissen, warum …«
 
 Baring hatte Tränen in den Augen. »Herr Harst, ich
-werde Sie niemals…«
+werde Sie niemals …«
 
-»Glückliche Reise, — hoffentlich nicht auf Wiedersehen…!«
+»Glückliche Reise, — hoffentlich nicht auf Wiedersehen …!«
 
 Noch ein paar herzliche Händedrücke, und wir kehrten
 in die Bibliothek zurück, wo Harst sofort Wittgensteins
 Radioapparat anstellte. »Penz, ich brauche erheiternde Ablenkung
-durch Tanzmusik… Sie doch auch!«
+durch Tanzmusik … Sie doch auch!«
 
 »Scheußlich!! Aber — meinetwegen! — Was soll nun werden,
 Harst?«
 
-»Das Programm steht fest… Ich erwarte nur noch eine
-Chiffredepesche aus London, die etwas lang ausfallen dürfte…
-— Ah, — Fred, es läutet…«
+»Das Programm steht fest … Ich erwarte nur noch eine
+Chiffredepesche aus London, die etwas lang ausfallen dürfte …
+— Ah, — Fred, es läutet …«
 
 Es war die Depesche.
 
@@ -1977,7 +1977,7 @@ des Tresorschlüssels des Lords gefunden worden. Beute von
 Zuchthaus. — Rail trat vor Gericht aufs wärmste für Angeklagten
 ein. — Gruß Oberinspektor Mattison, Scotland Yard
 
-Penz machte Riesenaugen.  »Das ist ja…« — Er verstummte … horchte…
+Penz machte Riesenaugen.  »Das ist ja …« — Er verstummte … horchte …
 »Hallo, fuhr da nicht soeben ein Auto davon?«
 
 »Irrtum!« sagte Harst kaltblütig. —
@@ -1986,29 +1986,29 @@ Der Lautsprecher brüllte gerade Fortissimo.
 Penz blieb mißtrauisch. »Harst, haben Sie etwa Frau
 Baring weggeschickt?«
 
-»Nein. Nicht Frau Baring, sondern…« — er schaltete
+»Nein. Nicht Frau Baring, sondern …« — er schaltete
 den Radioempfänger ab — »sondern beide Barings, lieber Penz.
 — Bleiben Sie sitzen! Die Gesetzesmühle hat Baring bereits
 einmal unschuldig ins Zuchthaus geschickt, der Mann war
-ein Opfer der Ränke anderer… Ich trage diese Verantwortung
+ein Opfer der Ränke anderer … Ich trage diese Verantwortung
 gern. Ein glückliches Ehepaar ist mir mehr wert als diese
-gedruckten Ungetüme von Paragraphen…«
+gedruckten Ungetüme von Paragraphen …«
 
 Penz zog die buschigen Augenbrauen ganz tief herab.
-»Oh — bei mir dämmert’s, Harst… — Solch ein Schuft!!«
+»Oh — bei mir dämmert’s, Harst … — Solch ein Schuft!!«
 
-»Das war er in der Tat, Penz… — Jetzt wollen wir jedoch
+»Das war er in der Tat, Penz … — Jetzt wollen wir jedoch
 die nächsten Programmnummern folgen lassen: Wir sollen ersäuft
 werden!! Das klingt häßlich, ist aber wahr. Wenn Sie mitkommen
-wollen — bitte… Der Nebel ist dick wie Brei…«
+wollen — bitte … Der Nebel ist dick wie Brei …«
 
 Wittgensteins Motorboot lenkte auf den Fluß hinaus.
 Trotz des Nebels sahen wir vor uns wieder die strahlend
 hellen grünen und blauen Lichter, aber kein Fahrzeug.
 
-Harst deutete rückwärts…
+Harst deutete rückwärts …
 
-»Bitte, Rapper signalisiert… Der Tanz wird gleich losgehen…
+»Bitte, Rapper signalisiert … Der Tanz wird gleich losgehen …
 Hat der Barkassenführer genaue Anweisungen?«
 
 Penz bejahte, ohne das Glas von den Augen zu lassen.
@@ -2019,31 +2019,31 @@ den Nebel.
 Jagdfieber!! Wie oft hatte ich’s schon kennengelernt!
 Heute stellte es sich verstärkt ein.
 
-Langsam schlich unser Motorboot weiter…
+Langsam schlich unser Motorboot weiter …
 
-Die grünen und blauen Lichter erloschen…
+Die grünen und blauen Lichter erloschen …
 
-Wir näherten uns der westlichen Fahrrinne des Flusses…
+Wir näherten uns der westlichen Fahrrinne des Flusses …
 Eine große Boje schaukelte träge, — auf ihr saßen dicht
 bei dicht Möwen.
 
 »Signal!« rief Harald dem langen Fred zu.
 
-Die Sirene des Bootes heulte…
+Die Sirene des Bootes heulte …
 
-Die Töne gingen durch Mark und Bein…
+Die Töne gingen durch Mark und Bein …
 
-Harst hob etwas von Deck auf…
+Harst hob etwas von Deck auf …
 
-»Nehmen Sie ebenfalls eine Handgranate, Penz… Der Nautilus
+»Nehmen Sie ebenfalls eine Handgranate, Penz … Der Nautilus
 darf nicht zu nahe heran.«
 
-Wir warteten…
+Wir warteten …
 
 Jeder beobachtete nach einer Seite hin. Harst stand
 am Steuer.
 
-Penz fluchte leise…
+Penz fluchte leise …
 
 »Ich alter Esel hätte auch früher darauf kommen sollen,
 was mit dem Nautilus los ist. Lord Warding ließ ihn bauen
@@ -2059,14 +2059,14 @@ acht — — genau! Der Nebel ist gefährlich!«
 
 Fred Steen beugte sich weit über Bord.
 
-»Ich höre die Barkassen… Es sind zwei…«
+»Ich höre die Barkassen … Es sind zwei …«
 
 »Drei!« sagte Penz heiser und schmiß seine Zigarre
 über Bord.
 
-Wir stierten in die trübe Flut….
+Wir stierten in die trübe Flut …
 
-Wir fieberten…
+Wir fieberten …
 
 Penz fluchte wieder.
 
@@ -2075,14 +2075,14 @@ noch eins, man wird nervös! Wenn die Bande uns rammt, ersaufen
 wir! Dafür werden sie schon sorgen. Frau Baring hat Glück
 gehabt.«
 
-Ein Windstoß zerriß den Nebel…
+Ein Windstoß zerriß den Nebel …
 
 »Achtung!!« zischelte Fred. »Dort rechts — ein Schaumstreifen,
 — — er kommt näher — — wie ein Torpedo!«
 
-Harald zog seine Handgranate ab…
+Harald zog seine Handgranate ab …
 
-Dann schleuderte er sie kaltblütig dicht vor den Schaumstreifen…
+Dann schleuderte er sie kaltblütig dicht vor den Schaumstreifen …
 
 »Signal, Fred!!«
 
@@ -2091,14 +2091,14 @@ Die Sirene heulte eine neue Melodie.
 Die Handgranate fuhr ins Wasser, explodierte, — eine
 Fontäne sprang hoch, — drei Barkassen schossen herbei, und
 aus der Tiefe der Fahrrinne tauchte langsam ein spindelförmiges
-Boot mit niedrigem Mittelturm auf…
+Boot mit niedrigem Mittelturm auf …
 
 Dicht vor dem Turm waren die Stahlplatten des Decks
 zerbeult und gerissen. —
 Die Turmluke des winzigen U-Bootes flog empor, und
 der dicke Geheimrat Schwamm kreischte in Todesangst:
 
-»Wir ergeben uns… Das Boot ist leck… Wir ergeben uns!«
+»Wir ergeben uns … Das Boot ist leck … Wir ergeben uns!«
 
 Einer nach dem andern kam zum Vorschein: Schwamm, das
 Stachelschwein, — dann der fette Silberham, — gefolgt von
@@ -2107,23 +2107,23 @@ nur Nebenfiguren, die Monteure des Nautilus!
 
 Penz strahlte.
 
-»Meine Herrschaften, ich heiße Sie alle herzlich willkommen…
+»Meine Herrschaften, ich heiße Sie alle herzlich willkommen …
 Die Polizei wird sich Ihrer liebenswürdigst annehmen. Wir
-haben drei Barkassen zur Verfügung… Bitte, — in der Villa
-Wittgenstein erfolgt die Schlußabrechnung… Der Nautilus
-wird…«
+haben drei Barkassen zur Verfügung … Bitte, — in der Villa
+Wittgenstein erfolgt die Schlußabrechnung … Der Nautilus
+wird …«
 
 Schwamm rief dazwischen: »Der Nautilus wird in einer
-Minute in die Luft fliegen… Weg von diesem Platz!!«
+Minute in die Luft fliegen … Weg von diesem Platz!!«
 
 Der kleine Nautilus starb mitten auf der Havel durch
 Dynamit. Der Knall der gewaltigen Explosion war meilenweit
-zu hören…
+zu hören …
 
 Wir hatten uns schleunigst entfernt, trotzdem flogen
 uns noch Wrackstücke um die Ohren, und Fred Steen erhielt
 ein Stück Stahlblech gegen die Schwimmweste, die seine Brust
-umspannte… Er hat es sorgfältig aufbewahrt. Es ist kaum anzunehmen,
+umspannte … Er hat es sorgfältig aufbewahrt. Es ist kaum anzunehmen,
 daß je wieder Havelpiraten mit einem U-Boot von neun Meter
 Länge in den Berliner Gewässern ›arbeiten‹ werden. Derartige
 Stahlblechandenken soll man heilig halten, wenn’s auch
@@ -2153,22 +2153,22 @@ Handschellen.
 Da war Rapper, neben ihm Schwamm, die Pompadour-Geheimrätin,
 Silberham und die beiden Monteure.
 
-Alles Havelpiraten…
+Alles Havelpiraten …
 
 Und dann trat etwas atemlos der Mann ein, der diesen
 feudalen Banditen beinahe ins Garn gegangen wäre: Doktor
 Alfons Gehrtyl!
 
-Penz schmunzelte…
+Penz schmunzelte …
 »So, nun sind wir bis auf Rank und das Ehepaar Baring
-vollzählig… Ich bitte Sie aber inständig, Harst, — machen
+vollzählig … Ich bitte Sie aber inständig, Harst, — machen
 Sie die Sache kurz. Fangen Sie nicht bei Jules Verne und
 seinem Roman ›Zwanzigtausend Meilen unter dem Meer‹ an,
 in dem das Phantasieboot Nautilus die Hauptrolle spielt.
 Ersparen Sie sich auch alle psychologischen Mätzchen, —
 heute trägt ohnedies jeder Verbrecher sozusagen den §51
-in der Tasche, den juristischen Freifahrschein! — Also los…«
-und er zitierte: »Der Staatsanwalt hat das Wort…«
+in der Tasche, den juristischen Freifahrschein! — Also los …«
+und er zitierte: »Der Staatsanwalt hat das Wort …«
 
 Harald nahm eine frische Zigarette und betrachtete
 die Reihe der Sünder mit stillem Ernst.
@@ -2182,12 +2182,12 @@ ihren Opfern währungssichere Auslandspapiere. Zwei der Ärmsten
 erschossen sich, zwei kamen zu mir, — und die Dinge gerieten
 in Fluß… — Die eigentliche Piratenangelegenheit wäre hiermit
 abgetan. Dieser Kriminalfall hat jedoch noch gewisse Seitentriebe:
-Rails Tod und der Mordversuch gegen Frau Baring und uns…«
+Rails Tod und der Mordversuch gegen Frau Baring und uns …«
 
 Geheimrat Stachelschwein war einer Ohnmacht nahe. Fred
 reichte ihm einen Kognak.
 
-»… Außerdem ist auch noch Doktor Gehrtyl zu berücksichtigen…
+»… Außerdem ist auch noch Doktor Gehrtyl zu berücksichtigen …
 — Sie, meine Herrschaften, haben andere betrogen und haben
 sich untereinander belogen und betrogen. Herr Schwamm und
 Frau Benk wollten Gehrtyls neue Erfindung recht billig erwerben,
@@ -2204,11 +2204,11 @@ traf jedoch nur Herrn von Ranks Hand, der an der Tür gesessen,
 und der für Frau Benk etwas Ähnliches hatte ausführen sollte,
 da er an der Tür den Lichtschalter neben sich hatte. Rank
 prallte zur Seite und stieß dabei gegen einen Arm, der eine
-Pistole hielt… Die Waffe entlud sich… Rail stürzte tot zu
+Pistole hielt … Die Waffe entlud sich … Rail stürzte tot zu
 Boden. Ich betone: Diese Waffe gehört Herrn Gehrtyl und
-war ihm am selben Abend gestohlen worden…«
+war ihm am selben Abend gestohlen worden …«
 
-Gustav Schwamm rutschte bewußtlos zu Boden…
+Gustav Schwamm rutschte bewußtlos zu Boden …
 
 »Ja, — <em>der</em> hatte die Pistole, der, Herr Schwamm!«
 fuhr Harst schärferen Tones fort. »Der sollte schießen,
@@ -2219,23 +2219,23 @@ gegen Schwamms Arm, der Schuß ging los, die Kugel traf Rail.
 verschiedener Zufälle möglich. Die eine Gruppe der Verschworenen,
 Frau Benk, Schwamm und Rank, wußten nicht, daß Rapper ähnliches
 plante. Gerade als Rank das Licht ausschalten wollte, ging
-dies von selbst aus…
+dies von selbst aus …
 Rank hielt den rechten Augenblick für gekommen, ebenso
-Schwamm, wie auch Rapper… Der Schuß scheuchte die drei auf
-ihre Plätze zurück. Da flammte das Licht wieder auf… Der
-Getötete war Rail, nicht Gehrtyl… Nun ergriffen die vier
+Schwamm, wie auch Rapper … Der Schuß scheuchte die drei auf
+ihre Plätze zurück. Da flammte das Licht wieder auf … Der
+Getötete war Rail, nicht Gehrtyl … Nun ergriffen die vier
 gegen Gehrtyl Partei. Nachher im Vorstandszimmer des Klubs
 gerieten sie jedoch aneinander. Jämmerliche Feigheit trieb
-sie dazu, sich gegenseitig zu verdächtigen… Nur einer zog
+sie dazu, sich gegenseitig zu verdächtigen … Nur einer zog
 aus der Sachlage die einzig richtige Konsequenz: Peter von
 Rank! — Er, der noch ein Quäntchen Anstandsgefühl besaß,
 durchschaute wohl halb und halb das abscheuliche Spiel,
-und — er rächte sich… Vorhin schon wurde mir telephonisch
+und — er rächte sich … Vorhin schon wurde mir telephonisch
 gemeldet, daß Rank, ein bekannter Sportflieger, mit Ihrer
-Maschine, Herr Silberham, auf und davon ist… Unter Mitnahme
-der Kasse der Havelpiraten, fürchte ich…«
+Maschine, Herr Silberham, auf und davon ist … Unter Mitnahme
+der Kasse der Havelpiraten, fürchte ich …«
 
-»Schurke!« kreischte Frau Benk… »Das Geld lag in meinem
+»Schurke!« kreischte Frau Benk … »Das Geld lag in meinem
 Wandtresor!«
 
 »Ja, und der Tresor ist jetzt leer, Frau Benk. Aber
@@ -2246,7 +2246,7 @@ ein anständiger Mensch werden — — schon aus Dankbarkeit.«
 »Gegen wen?!« fragte Rapper mit verzerrtem Grinsen.
 
 »Die Frage steht hier nicht zur Debatte,« erklärte
-Harst eisig. »Herr Kriminalrat, lassen Sie die Leute abführen…
+Harst eisig. »Herr Kriminalrat, lassen Sie die Leute abführen …
 Das Nähere wird die gerichtliche Untersuchung ergeben.«
 
 Wir drei waren mit Penz allein. Es blieb eine Weile
@@ -2277,17 +2277,17 @@ Nur Rail, dem wahren Dieb!«
 
 »Allerdings, — das trifft wohl zu,« meinte Harald etwas
 verlegen. »Aber ich denke, wir lassen dieses Thema fallen
-und…«
+und …«
 
 »Sie sind ein merkwürdiger Mensch, lieber Harst. Sobald
-man Ihr gutes Herz erwähnt, lenken Sie ab… — Nein, diese
+man Ihr gutes Herz erwähnt, lenken Sie ab … — Nein, diese
 Dinge müssen jetzt hier unter uns geklärt werden. Wie war
 der wirkliche Vorgang?«
 
 Harald blickte auf seine Stiefelspitzen. »Quälgeist,
-Sie…!! All das sind doch nur Kombinationen, die…«
+Sie …!! All das sind doch nur Kombinationen, die …«
 
-»… die schon richtig sein werden… — Also?«
+»… die schon richtig sein werden … — Also?«
 
 Harst blieb bei seinem Entschluß, nur ›Vermutungen‹
 preiszugeben. »Ich nehme an, daß James wußte, daß seine
@@ -2298,40 +2298,40 @@ dies verkleidet tun würde.
 Hier nun sah er, der von Haß und Rache blinde Trinker,
 die günstige Gelegenheit, beide zu bestrafen. Nicht Rank
 brachte Schwamms Pistole zur Entladung, sondern James, als
-er, aus dem Kamin hervortretend, seinen Arm vorstreckte…«
+er, aus dem Kamin hervortretend, seinen Arm vorstreckte …«
 
-Penz rieb ein Zündholz an…
+Penz rieb ein Zündholz an …
 
 »Und Rapper? Sollte James seine Frau erschießen?«
 
-»Vielleicht…«
+»Vielleicht …«
 
 »Ach was — — vielleicht, er sollte!! Weshalb gab Rapper
 ihm sonst die Büchse mit?!«
 
-Harst rührte in seiner Teetasse… »Sind Sie nun fertig,
-Penz?! — Dann können Sie mal telephonieren, Fred… Rufen
+Harst rührte in seiner Teetasse … »Sind Sie nun fertig,
+Penz?! — Dann können Sie mal telephonieren, Fred … Rufen
 Sie den alten Ring im Klub an, und sagen Sie wörtlich: Es
 ist alles in bester Ordnung! — Der alte Mann wird sich freuen
 und sehr bald Deutschland verlassen und verreisen — — zu
-seinen Kindern, nach… — Doch nein, das will ich besser verschweigen…
-Sehen Sie, Penz, Ihre ausgeflickte Zigarre brennt tadellos…
+seinen Kindern, nach … — Doch nein, das will ich besser verschweigen …
+Sehen Sie, Penz, Ihre ausgeflickte Zigarre brennt tadellos …
 Man soll leicht beschädigte Dinge und Charaktere nicht einfach
-bei Seite werfen. Zuweilen lohnt es, sie zu kurieren … zuweilen…
+bei Seite werfen. Zuweilen lohnt es, sie zu kurieren … zuweilen …
 Aber auch dabei muß man sorgsam wählen. Was wirklich brüchig
-ist, heilt nicht mehr…«
+ist, heilt nicht mehr …«
 
-Penz murmelte etwas vor sich hin…
+Penz murmelte etwas vor sich hin …
 
 Unser Fred kam strahlenden Gesichtes zurück.
 
 »Der alte Ring hat am Telephon geweint, Herr Harst.
-Er ist überglücklich…«
+Er ist überglücklich …«
 
-Wir schwiegen…
+Wir schwiegen …
 
 Ein Engel der Nächstenliebe und Versöhnung schien durch
-das Zimmer zu schweben…
+das Zimmer zu schweben …
 
 <#import "*/harst.ftl" as harst>
 <@harst.naechsterband band="Das Geheimnis der Nilinsel."/>
