@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">2a575760-471b-4c0c-890f-e4a878e217bb</entry>
+<entry key="title">Die grüne Fliege</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">244</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Die grüne Fliege
+
+»Er ist blind,« sagte Harst vom Fenster her.
+
+Ich hatte gehört, daß das sanfte Geräusch eines nahenden Autos vor unserem Hause verstummt war, und trat neben den Freund.
+
+Ein alter vornehmer Herr kam da, geführt von einer blonden Dame, durch den Vorgarten.
+
+»Engländer,« meinte Harald. »Die Blonde ist seine Enkelin, Miß Sylvia Wellex, er selbst Lord Edgar Wellex, jetzt letzter Sproß der Wellex von Wellex-Surby-Castle. Der Ärmste hat seinen Sohn vor acht Tagen verloren. In drei illustrierten Zeitschriften fand ich Bilder des Schlosses und der Familie. Der Fall ist nicht alltäglich.«
+
+Die Tragödie derer von Wellex-Castle
+
+Die Märzsonne zeigte uns England in anderem Lichte.  Diese Sonne war warm und belebend, und der greise Lord Wellex hatte nicht ganz unrecht, als er uns am folgenden Nachmittag gegen zwei Uhr auf der Terrasse seines Ahnenschlosses erklärte, gerade die Märzsonne brüte jeden Schnupfen aus, und den hatten wir eigentlich nach dem nächtlichen Schlammbad gründlich verdient.
+
+»Nun müssen Sie mir aber auch alles im einzelnen erzählen, lieber Harst,« fügte Mylord hinzu und streichelte mit der welken schmalen Hand seinen weißen Bart, während er drüben durch den Einschnitt der Küstenberge auf das blaugrüne Meer hinauszublicken schien — — und doch nichts von den zarten Schönheiten dieses klaren sonnigen Tages sah, der Ärmste, der nun bereits fast fünfzig Jahre seine Blindheit mit der vornehmen Gelassenheit des wahren Edelmannes ertrug. »Aus Sylvias Andeutungen bin ich ja nicht recht klug geworden,« lächelte er still vor sich hin. »Überhaupt — meine Enkelin …!! Ich glaube, sie ist verliebt.  Nur Verliebte haben derartige Launen … Weshalb bleibt sie so hartnäckig im Bett, obwohl sie doch selbst zugibt, das ihr nichts fehlt?! Also — erzählen Sie, Harst … Ihr Abenteuer erscheint mir beinahe zu phantastisch …!«
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (244) Die grüne Fliege.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1929</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
