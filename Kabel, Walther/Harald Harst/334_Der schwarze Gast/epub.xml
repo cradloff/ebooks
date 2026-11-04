@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">6edde84a-d6a5-48f7-9e9a-8cf236eab7b6</entry>
+<entry key="title">Der schwarze Gast</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">334</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Der schwarze Gast
+
+Draußen stürmte und regnete es. In einem kleinen, villenartigen Haus der Arnoldstraße, Berlin W, war es daher in dem großen Erdgeschoßzimmer, das ein wenig büromäßig ausschaute, vor dem kaminartigen Ofen desto behaglicher. Die Feuerungstür stand offen, und die knallenden, flammenden Scheite warfen einen warmen, rosigen Schein auf die Gesichter der drei Männer, die hier eines ihrer so beliebten abendlichen Plauderstündchen abhielten.
+
+Unser Famulus Fred Steen hat für diese Stunden geruhsamen Meinungsaustausches einen anderen, dem parlamentarischen Leben entnommenen Ausdruck geprägt, der nicht ganz parlamentarisch ist, aber Fred ist sehr jung, semmelblond und hat eine böse Zunge wie eine alte Jungfer — zuweilen!
+
+Auf eine seiner ruppig-kecken Bemerkungen hin erwiderte Harst mit aller Nachsicht: »Lieber Fred, ein Kriminalfall alltäglichster Art kann durch die Charaktere der Beteiligten trotzdem ganz interessant werden. Wer nur immer die Sensation in den Tatsachen sucht und die seelischen Besonderheiten der Mitbetroffenen vergißt, stellt sich in eine Linie mit der Weltpresse, die schließlich auch nur aus jedem kriminellen Tatbestand das ganz Grobschlächtige heraussucht, wenn auch umwoben von dem üblichen Phrasenvorrat dieser Herren Schriftsteller, die ja sämtlich hierzu die nötige Routine besitzen.«
+
+Harst griff nach der Zeitung, öffnete sie und sprach weiter: »Als Beispiel, lieber Fred, möchte ich einen Artikel aus einem Berliner Mittagsblatt von heute vorführen, nicht anführen. Ich sage ›vorführen‹, weil darin eine gewisse Ironie liegt. Die Notiz in diesem halben Weltblatt, Halbweltblatt träfe auch zu, bedient sich der ganz dick gedruckten Überschrift ›Der schwarze Gast‹ auf der ersten Hauptseite, weil in Politik zur Zeit Flaute herrscht. Hätte der Schriftleiter etwa als Titel ›Der rätselhafte Hotelgast‹, gewählt, dann würde man ihm Phantasie- und Geschmacklosigkeit vorgeworfen haben, aber … ›Schwarzer Gast‹, das ist etwas Neues, etwas in seiner Bedeutung sehr Dehnbares, harmlose Gemüter wittern dahinter vielleicht doch ein Tröpfchen hoher Politik … und kaufen den Wisch. — Ich werde den Text vorlesen, denn sowohl Sie wie mein alter Schraut haben eine unbestreitbare Abneigung gegen Druckerschwärze, was bei unserem Beruf zu sehr bedenklichen Folgen führen kann. Also hört mal her …«
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (334) Der schwarze Gast.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1932</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+

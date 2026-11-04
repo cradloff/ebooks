@@ -346,7 +346,7 @@ Greenham-Castle ist ein uralter Bau mit zwei angeflickten modernen Flügeln und 
 
 Das Auto war zur Stelle, und schon nach einer Viertelstunde standen wir einem hochgewachsenen, vornehmen alten Herrn gegenüber, der uns dann mit seiner Tochter Lucy und seinem Neffen Georg bekannt machte. Wir saßen um den geheizten Kamin herum, ein Diener servierte Liköre und Zigarren und Zigaretten und verschwand.
 
-Dann erst begann Lord Hamilton über die ihn quälenden Dinge zu sprechen. »Herr Harst, es handelt sich ja nicht nur um das erschossene Känguruh, nein, die Hauptsache habe ich bisher verschwiegen. Als mir das Tier vor die Büchse kam, hielt ich es für einen wildernde Hund, der mich anspringen wollte. Bei der Untersuchung des Känguruhs sah ich dann, daß aus der Bauchtasche des Tieres ein Zipfel Leder herausragte. Ich zog, es war ein Beutel, und in dem Beutel befanden sich die wertvollsten unserer Familienkleinodien, die ich im Tresor verschlossen gehalten hatte, und deren Diebstahl mir bisher unbekannt war. Lucy und Georg rieten mir, die Dinge vorläufig zu verschweigen, und ich tat es auch, obwohl es meinen strengen Grundsätzen widersprach. Jetzt — gestern abend nämlich — sind die Juwelen erneut verschwunden, und ich entdeckte unweit des Schlosses frische Känguruhspuren. Ich hege eine ausgesprochene Abneigung gegen die Polizei und depeschierte daher an Sie. Lucy und Georg wollten anfänglich nichts davon wissen, aber ich beharrte bei meinem Entschluß.«
+Dann erst begann Lord Hamilton über die ihn quälenden Dinge zu sprechen. »Herr Harst, es handelt sich ja nicht nur um das erschossene Känguruh, nein, die Hauptsache habe ich bisher verschwiegen. Als mir das Tier vor die Büchse kam, hielt ich es für einen wildernden Hund, der mich anspringen wollte. Bei der Untersuchung des Känguruhs sah ich dann, daß aus der Bauchtasche des Tieres ein Zipfel Leder herausragte. Ich zog, es war ein Beutel, und in dem Beutel befanden sich die wertvollsten unserer Familienkleinodien, die ich im Tresor verschlossen gehalten hatte, und deren Diebstahl mir bisher unbekannt war. Lucy und Georg rieten mir, die Dinge vorläufig zu verschweigen, und ich tat es auch, obwohl es meinen strengen Grundsätzen widersprach. Jetzt — gestern abend nämlich — sind die Juwelen erneut verschwunden, und ich entdeckte unweit des Schlosses frische Känguruhspuren. Ich hege eine ausgesprochene Abneigung gegen die Polizei und depeschierte daher an Sie. Lucy und Georg wollten anfänglich nichts davon wissen, aber ich beharrte bei meinem Entschluß.«
 
 Das kalte, hochmütige, junge Gesicht seiner Tochter verzog sich spöttisch.
 
@@ -388,7 +388,7 @@ Als wir in einem entlaubten Gebüsch kauerten und die Tennishalle uns erst einma
 
 »Also doch!!« flüsterte Harald nur.
 
-Wir hatten genau gehört, daß in dem Schuppen ein gedämpftes Läutewerk anschlug, als sie Brieftaube in den Dachaufbau schlüpfte. Das Tierchen hatte dieses Läutewerk beim Passieren des Einschlupfes ausgelöst. — Genau so, das hatte uns Hartwig erzählt, wurde auch bei der Versuchsanstalt Spandau die Ankunft einer Taube gemeldet.
+Wir hatten genau gehört, daß in dem Schuppen ein gedämpftes Läutewerk anschlug, als die Brieftaube in den Dachaufbau schlüpfte. Das Tierchen hatte dieses Läutewerk beim Passieren des Einschlupfes ausgelöst. — Genau so, das hatte uns Hartwig erzählt, wurde auch bei der Versuchsanstalt Spandau die Ankunft einer Taube gemeldet.
 
 »Warte hier!«
 
