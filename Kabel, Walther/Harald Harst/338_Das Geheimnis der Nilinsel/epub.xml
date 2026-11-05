@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">73f5ac92-7784-41a8-a6bc-8085309a9b9d</entry>
+<entry key="title">Das Geheimnis der Nilinsel</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">338</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Das Geheimnis der Nilinsel
+
+Das große gedeckte Motorboot, das im Morgengrauen die Stadt Chartum verlassen hatte, glitt in flottem Tempo stromaufwärts, obwohl überall die berüchtigten treibenden Grasinseln die trübe Flut des uralten Flußvaters Nil mit verblaßten grünen Flecken punktierten.
+
+Harst, das Fernglas an den Augen, blickte nach der in Morgendunst gehüllten Stadt zurück, da wir alle Ursache hatten, mit heimlichen Verfolgern zu rechnen.
+
+Achselzuckend schob er das Glas in das Futteral zurück.
+
+»Anscheinend haben die Herrschaften unsere Fährte verloren, mein Alter… anscheinend. Doch ich traue ihnen nicht. Das Vorspiel war bisher zu merkwürdig.«
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (338) Das Geheimnis der Nilinsel.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1932</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
