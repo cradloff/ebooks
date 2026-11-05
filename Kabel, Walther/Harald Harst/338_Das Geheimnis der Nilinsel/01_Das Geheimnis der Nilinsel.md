@@ -17,7 +17,7 @@ hatten, mit heimlichen Verfolgern zu rechnen.
 Achselzuckend schob er das Glas in das Futteral zurück.
 
 »Anscheinend haben die Herrschaften unsere Fährte verloren,
-mein Alter… anscheinend. Doch ich traue ihnen nicht. Das
+mein Alter … anscheinend. Doch ich traue ihnen nicht. Das
 Vorspiel war bisher zu merkwürdig.«
 
 Er setzte sich neben mich unter das Sonnensegel am
@@ -42,7 +42,7 @@ geworden. Wir hatten bei der Polizei Verlustanzeige erstattet,
 aber der betreffende Beamte hatte uns von vornherein wenig
 Hoffnung gemacht.
 »Es verschwinden zu viele Ausländer hier,« hatte er
-gleichgültig erklärt. »Wir werden nachforschen…«
+gleichgültig erklärt. »Wir werden nachforschen …«
 
 Wir hatten selbst nachgeforscht und damit drei kostbare
 Tage vertrödelt. Der Jüngling Fred war nicht zu finden,
@@ -66,7 +66,7 @@ Pfund Sterling als Belohnung für den ausgesetzt, der über
 ihren verschollenen Gatten sichere Nachricht brächte.
 
 Wie gesagt, das Verschwinden des Lords lag etwa dreizehn
-Monate zurück, und selbst der ägyptischen Sudan ist heute
+Monate zurück, und selbst der ägyptische Sudan ist heute
 nicht mehr das, was er noch vor zwanzig Jahren war. Auch
 dort kann eine Jagdexpedition von zehn Leuten nicht mehr
 von Eingeborenen so einfach abgemurkst werden, ohne daß
@@ -121,13 +121,13 @@ Unser Fred!!
 es mir mit einiger Berechtigung.
 
 Wir landeten in einer winzigen, gekrümmt verlaufenden
-Buch des Inselchens. Hier lag ein Segelboot mit Außenbordmotor,
+Bucht des Inselchens. Hier lag ein Segelboot mit Außenbordmotor,
 und Fred rief von der Uferhöhe mit großartiger Handbewegung:
 
 »Meine Pirateninsel! Das Boot habe ich in Chartum gekapert!«
 
 Er kletterte herab, drückte uns strahlend die schweißfeuchten
-Pfoten und grinste geheimnisvoll…
+Pfoten und grinste geheimnisvoll …
 
 »Herr Harst, — einen hab’ ich!!«
 
@@ -135,14 +135,14 @@ Selbst Harald war verblüfft.
 
 »Einen der drei Gentlemen?«
 
-»Ja… Das heißt: Die drei hatten sich derweil sehr verwandelt…
+»Ja … Das heißt: Die drei hatten sich derweil sehr verwandelt …
 Sie werden ja sehen!«
 
 In demselben Augenblick verließ Miß Constanze ihre
 Vorschiffskabine und begrüßte uns mit einem wahrhaft strahlenden
 Lächeln.
 
-»Mr. Steen, ich habe alles gehört… Wo ist der Mann?
+»Mr. Steen, ich habe alles gehört … Wo ist der Mann?
 Er wird reden müssen!«
 
 Ihr Lächeln erstarb, und die ranke, schlanke Gestalt
@@ -153,16 +153,16 @@ bekam bitterböse Augen.
 
 In Freds gestohlenem alten, schäbigen Boot lag hinten
 unter dem Sonnensegel neben vier Benzinkannen ein zerlumpter
-Schwarzer mit echter Schillukfrisur…
+Schwarzer mit echter Schillukfrisur …
 
 »Bitte, Miß… Gestatten, daß ich vorstelle,« sagte Fred
-noch großartiger… »Mr. Mac Goddard von der Londoner Detektei
+noch großartiger … »Mr. Mac Goddard von der Londoner Detektei
 Smidtson und Komp. — — Wenigstens hat er einen auf diesen
 Namen lautenden Ausweis in seiner linken Sandale verborgen
-gehabt…«
+gehabt …«
 
-Harst sprang in das Boot und betrachtete den gefesselten
-sehr genau. »Stimmt, das ist einer der drei…«
+Harst sprang in das Boot und betrachtete den Gefesselten
+sehr genau. »Stimmt, das ist einer der drei …«
 
 Goddard machte Augen wie ein hungriger Tiger.
 
@@ -171,22 +171,22 @@ Goddard machte Augen wie ein hungriger Tiger.
 Fred lachte, nahm den Tropenhelm ab und enthüllte so
 eine faustgroßer Beule.
 
-»Herr Harst, die Geschichte war so… Ich schlenderte
+»Herr Harst, die Geschichte war so … Ich schlenderte
 durch das Eingeborenenviertel, kam an der langen Mauer eines
 Friedhofs vorüber, erhielt einen Hieb, erwachte zwischen
-alten Gräbern, war gebunden, und Mr. Goddard bewachten mich.
+alten Gräbern, war gebunden, und Mr. Goddard bewachte mich.
 Als ich ihn bat, mich mal so ein wenig — Pardon, Miß — abseits
-gehen zu lassen, war er blöde genug, mich für blöde zu halten…
+gehen zu lassen, war er blöde genug, mich für blöde zu halten …
 Ich versetzte ihm einen Kinnhaken, noch zwei ähnlich wirksame
 Hiebe, schleifte ihn zum nahen Fluß, klaute das Boot und
 gondelte davon. Ich wußte ja, daß ich Sie hier treffen mußte,
 Herr Harst, und ich hielt es für angebracht, Mr. Goddards
-Freunde darüber im Unklaren zu lassen, was aus mir geworden…
+Freunde darüber im Unklaren zu lassen, was aus mir geworden …
 — Das wäre alles!«
 
 Harst drückte Fred die Hand.
 
-»Sie haben das großartig gemacht, lieber Fred… Nun
+»Sie haben das großartig gemacht, lieber Fred … Nun
 wollen wir mal Mr. Goddard ins Gebet nehmen.«
 
 Mac Goddard wurde ans Ufer in den Baumschatten gebracht,
@@ -196,14 +196,14 @@ Constanze Bragerfield spielte eindeutig mit ihrer Pistole.
 
 »Goddard,« sagte sie kalt, »vergessen Sie nicht, daß
 die Nilkrokodile gerade hier sehr zahlreich — und hungrig
-sind… Wer hat Sie mit unserer Beobachtung beauftragt?«
+sind … Wer hat Sie mit unserer Beobachtung beauftragt?«
 
 Der tadellos verkleidete Goddard merkte wohl, wie wenig
 Aussicht er hatte, uns belügen oder entschlüpfen zu können.
 
-»Das weiß ich nicht, Miß… Wirklich nicht… Unser Chef
+»Das weiß ich nicht, Miß… Wirklich nicht … Unser Chef
 gab uns dreien vor acht Monaten den Befehl, Sie nicht aus
-den Augen zu lassen… Das ist die Wahrheit. Mr. Samuel Smidtson
+den Augen zu lassen … Das ist die Wahrheit. Mr. Samuel Smidtson
 weiht seine Angestellten nie völlig ein. Wir folgten Ihnen
 nach Berlin und dann bis Chartum. Dort erhielten wir eine
 Funkdepesche unserer Firma: ›Weiterreise der Betreffenden
@@ -237,24 +237,24 @@ Mit leisem Knacken schnellte der Sicherungsflügel ihrer
 Pistole zurück. Sie war für eine Engländerin sehr temperamentvoll.
 
 »Bitte, lassen Sie das!« warnte Harst kühl. »Mr. Smidtson
-dürfte durch derlei Mittel kaum willfährig werden…«
+dürfte durch derlei Mittel kaum willfährig werden …«
 
 Bisher hatte Pieter van Laarsen sich lediglich mit
 seiner Pfeife und der Whiskyflasche beschäftigt. Nun entquoll
-seinem grauroten Bartwald ein dumpfes Murren…
+seinem grauroten Bartwald ein dumpfes Murren …
 
-»Mr. Harst hat recht… Alles immer gemütlich. Nur keine
+»Mr. Harst hat recht … Alles immer gemütlich. Nur keine
 Aufregungen. Sollte Mr. Smidtson nochmals mit Lügen umgehen,
-hängen wir ihn dort an den Baumast… Und zwar mit den Füßen
+hängen wir ihn dort an den Baumast … Und zwar mit den Füßen
 dicht über das Wasser. Das hilft — bestimmt. Früher, als
 es hier noch keine Autos, Autobusse und ähnlichen Kram gab,
 haben wir das häufiger gemacht.«
 
 Laarsen hatte noch nie, seit wir ihn kannten, einen
-so langen Vortrag vom Stapel gelassen…
+so langen Vortrag vom Stapel gelassen …
 
 »Wie gesagt: Immer gemütlich!« schloß er seine fabelhafte
-Wortverschwendung… —
+Wortverschwendung … —
 
 Zehn Minuten darauf hing Ernest Smidtson tatsächlich
 an dem langen Ast, und unter ihm waren im Wasser der Bucht
@@ -281,7 +281,7 @@ zu uns gekommen.
 
 Harst rauchte Zigaretten und weihte den Holländer nun
 völlig ein. »Laarsen, ich darf wohl auf Ihre Verschwiegenheit
-rechnen…?! Lord Batty heiratete vor drei Jahren die Filmschauspielerin
+rechnen …?! Lord Batty heiratete vor drei Jahren die Filmschauspielerin
 May Mayking. Die Ehe war zuerst sehr glücklich, dann muß
 der Lord über Mays Vergangenheit recht anrüchige Dinge zugetragen
 bekommen haben, er trennte sich von ihr und ging nach Afrika,
@@ -296,7 +296,7 @@ lassen.«
 »Na — und weiter?!«
 
 »Ja, lieber Laarsen, wo es um eine Erbschaft von etwa
-zwei Millionen Pfund Sterling geht, wird so manches…«
+zwei Millionen Pfund Sterling geht, wird so manches …«
 
 »Donnerwetter!! Zwei Millionen!!«
 
@@ -310,9 +310,9 @@ Constanze auf die Spur zu hetzen, die als erste den großen
 Schwindel durchschaute, den Lady May Batty hier mit ihrem
 Übereifer, ihrer Trauer um den Verlust des Gatten und mit
 ihrem Nervenzusammenbruch — sie lebt in einem Sanatorium!
-— in Szene gesetzt hat…«
+— in Szene gesetzt hat …«
 
-»Pfui … Deubel…!« — Und Pieter Laarsen spritzte einen
+»Pfui … Deubel …!« — Und Pieter Laarsen spritzte einen
 Strahl Tabaksaft zwischen die Steine.
 
 Harst hatte sich selbst in eine gewisse Erregung hineingesprochen,
@@ -336,7 +336,7 @@ Ich betone, daß wir alle aufs ernstliche gefährdet sind
 und daß wir uns jeden Augenblick vielleicht gegen eine Übermacht
 verteidigen müssen. Ich stelle Ihnen daher anheim, sofort
 umzukehren, — wir haben jetzt ja das von Fred entführte
-Boot… Entscheiden Sie sich und … verraten Sie uns nicht!«
+Boot … Entscheiden Sie sich und … verraten Sie uns nicht!«
 
 Der o-beinige kleine Holländer sagte wegwerfend:
 
@@ -344,7 +344,7 @@ Der o-beinige kleine Holländer sagte wegwerfend:
 im allgemeinen für’s Gemütliche, aber … ich habe mindestens
 dreißig schwarze und braune Halunken in früheren Zeiten
 ohne Geschworenenspruch ins Jenseits befördert, ich war
-einst der beste Elefantenjägers drunten bei Faschoda und…
+einst der beste Elefantenjäger drunten bei Faschoda und …
 Hallo, — — was hat der Fred?!«
 
 Unser Famulus war emporgeschnellt, stierte vornübergebeugt
@@ -353,28 +353,28 @@ nach Luft. Offenbar wollte er irgend etwas rufen, schreien
 oder brüllen, — — aber das Entsetzen schnürte ihm die Kehle
 zusammen.
 
-Auch wir sprangen auf…
+Auch wir sprangen auf …
 
 Drüben an dem mächtigen Baum, der seinen halbverdorrten
 Ast über die kleine versteckte Bucht ausstreckte, hing Mr.
-Ernest Smidtson…
+Ernest Smidtson …
 
 Sein langgereckter Körper drehte sich träge um sich
 selbst, und in seiner Brust, genau in der Herzgegend, steckte
 ein gefiederter dünner Rohrpfeil.
 
 Unten schwammen Krokodile hin und her, schnappten schon
-nach seinen Füßen…
+nach seinen Füßen …
 
 Laarsen bückte sich, schleuderte Steine gegen die Bestien,
 — Harst rannte am Ufer entlang und rief uns zu:
 
 »Vorsicht! Beschützt Miß Constanze!«
 
-Wir griffen nach den Repetierbüchse…
+Wir griffen nach den Repetierbüchse …
 
 Ich stürzte durch die Büsche nach dem kleinen braunen
-Zelt…
+Zelt …
 
 Wenn auch Miß Bragerfield getötet wäre, — — unausdenkbar
 war’s! Wir hatten uns hier geradezu leichtfertig einem Sicherheitsgefühl
@@ -385,22 +385,22 @@ Ich stand vor dem Zelt.
 
 »Miß Bragerfield!!«
 
-Eine verschlafene Stimme meldete sich…
+Eine verschlafene Stimme meldete sich …
 
 Gott sei Dank, — sie lebte!
 
 »Was gibt’s, Mr. Schraut?!«
 
-»Oh — — nichts…«
+»Oh — — nichts …«
 
-Was sollte ich sagen…?
+Was sollte ich sagen …?
 
-»Ich glaubte, Sie hätten gerufen…«
+»Ich glaubte, Sie hätten gerufen …«
 
-»Ich?! Ich habe ganz fest geschlafen… Diese Hitze wirkt
-so lähmend…«
+»Ich?! Ich habe ganz fest geschlafen … Diese Hitze wirkt
+so lähmend …«
 
-»Dann entschuldigen Sie…« —
+»Dann entschuldigen Sie …« —
 Ich eilte zur Bucht hinab.
 
 Harst lag lang auf dem Ast und hißte gerade den Toten
@@ -416,7 +416,7 @@ war zweifellos ein wertvoller Verbündeter. —
 
 Ernest Smidtson hatte nicht einmal um Hilfe rufen oder
 einen Todesschrei ausstoßen können. Wir hatten ihn mit einem
-Knebel an den Ast gehängt. Als er nun in Gras vor uns lag,
+Knebel an den Ast gehängt. Als er nun im Grase vor uns lag,
 starrte Harst sehr lange und sehr finster in das fahle Gesicht
 des verkleideten Engländers, das jetzt bleigrau angelaufen
 erschien.
@@ -433,13 +433,13 @@ Fred Steen war sehr bleich.
 
 Auch ich sehnte mich nach einem Schluck Whisky.
 
-Man machte die Sache drehen und deuteln wie man wollte:
-Wir waren schuld an Smitsons jähem Ende!
+Man mochte die Sache drehen und deuteln wie man wollte:
+Wir waren schuld an Smidtsons jähem Ende!
 
 »Begraben wir ihn,« meinte Harst leise. »An dem Geschehenen
 läßt sich nichts mehr ändern. Wir hätten vorsichtiger sein
 müssen. Smidtson wußte zu viel, deshalb wurde er getötet.
-— Wer weiß, wann wir an die Reihe kommen…«
+— Wer weiß, wann wir an die Reihe kommen …«
 
 Fred holte zwei Handspaten. Der Engländer erhielt einen
 sauberen Hügel und ein einfaches Holzkreuz. Es war eine
@@ -448,7 +448,7 @@ Leuten, die sich selbst das Grab geschaufelt haben und jetzt
 nur noch auf das Erschießungskommando warten, das ihnen
 mit einer Salve in die Grube verhelfen will.
 
-Dann suchten Harst und ich am jenseitigen Buchufer
+Dann suchten Harst und ich am jenseitigen Buchtufer
 nach den Spuren des Bogenschützen. Die Insel war an dieser
 Stelle sehr felsig und steinig. — Der Schuß konnte nur oben
 von den Uferfelsen abgegeben worden sein, und wir fanden
@@ -480,24 +480,24 @@ bewahren Sie den Zigarrenrest auf?«
 »Weil dieser Zigarrenstummel niemals richtig aufgeraucht
 worden ist, lieber Laarsen. Man hat von einer schweren Brasil
 das größere Stück weggeschnitten und dann das übrigbleibende
-Ende absichtlich zerkaut und in Brand gesetzt… Da — riechen
+Ende absichtlich zerkaut und in Brand gesetzt … Da — riechen
 Sie!«
 
 Laarsen schnupperte. »Deubel, das stinkt nach Stearin!«
 
-»Ja… Das sollte uns bluffen, lieber Laarsen… Und die,
-die uns bluffen wollte, wird wohl Lady May gewesen sein…
+»Ja … Das sollte uns bluffen, lieber Laarsen … Und die,
+die uns bluffen wollte, wird wohl Lady May gewesen sein …
 Sie hat das Stück Zigarre an der Schnittfläche mit Stearin
 beträufelt, weil es brennen sollte, ohne daß sie richtig
 zu rauchen brauchte. So schwere Brasilzigarren verträgt
 keine Frau.«
 
-»Donnerwetter…!! Lady May Batty! Ich denke, die steckt
+»Donnerwetter …!! Lady May Batty! Ich denke, die steckt
 in einem Sanatorium?!«
 
-Harst lächelte. »Nein… Die steckt hier in der Nähe,
+Harst lächelte. »Nein … Die steckt hier in der Nähe,
 und im Sanatorium hält sich ihre Schwester auf, die ihr
-aufs Haar gleichen soll, Miß Mary Mayking, auch Filmschauspielerin…«
+aufs Haar gleichen soll, Miß Mary Mayking, auch Filmschauspielerin …«
 
 »Oh, — — woher wissen Sie das?«
 
@@ -505,7 +505,7 @@ aufs Haar gleichen soll, Miß Mary Mayking, auch Filmschauspielerin…«
 
 »Aha! Und die englische Geheimpolizei?!«
 
-»Ist ratlos, lieber Laarsen…«
+»Ist ratlos, lieber Laarsen …«
 
 »Wie immer!!«
 
@@ -517,7 +517,7 @@ Landesbewohner diesen Pfeil für ein einheimisches Erzeugnis?«
 bestimmt ein Pfeil der Baggara, die weiter südlich links
 vom Nil in der Wüste wohnen und Nachbarn der Schilluk sind.
 Die Baggara-Weiber stellen diese Pfeile her, ebenso die
-Bogen aus Horn oder Holz. Betrachten Sie mal die Fiederung…
+Bogen aus Horn oder Holz. Betrachten Sie mal die Fiederung …
 Das sind Flaumfedern von Aasgeiern, und die dünne Schnur,
 mit der die Federkiele an Schaftende umwunden sind, ist
 allerfeinste Schafwolle und gewachst. Ja, es ist ein Baggara-Pfeil,
@@ -586,15 +586,15 @@ einsames Grab, — — und dann weiter ins Ungewisse hinein!
 — Harst läßt das Glas sinken.
 »Hörst du etwas, mein Alter?«
 
-Dieser Art Fragestellung kenne ich. Ich forschte also
+Diese Art Fragestellung kenne ich. Ich forschte also
 mit angespannten Sinnen.
 
 Fred, der unsere Lagerstätten herrichtete, erklärte
-gleichgültig: »Das Postflugzeug nach Faschoda… Was liegt
+gleichgültig: »Das Postflugzeug nach Faschoda … Was liegt
 schon daran?!«
 
 »Eine sehr große Maschine,« meinte Harst. »Das sind
-mindestens drei Motoren…« Er betonte das ›drei‹ ganz eigentümlich.
+mindestens drei Motoren …« Er betonte das ›drei‹ ganz eigentümlich.
 
 Wir horchten wieder und traten unter dem Klappverdeck
 hervor nach der Mitte des Bootes zu.
@@ -606,7 +606,7 @@ sich nahend.
 Harst so nebenbei hin.
 
 Wir blickten nach oben. Wir hätten doch die Positionslampen
-erkennen müssen… Das Surren kam sehr schnell näher. Aber
+erkennen müssen … Das Surren kam sehr schnell näher. Aber
 wir bemerkten weder ein rotes noch ein grünes Licht.
 
 Ich nahm das Glas zu Hilfe. Da erst gewahrte ich den
@@ -614,22 +614,22 @@ Riesenvogel, der sich soeben aus einem Wolkenfetzen hervorschälte.
 
 »Ein Wasserflugzeug, Harald!!«
 
-»Ja, das habe ich gleich befürchtet…« Er warf abschätzende
+»Ja, das habe ich gleich befürchtet …« Er warf abschätzende
 Blicke nach den Ufern hinüber. »Laarsen, dort links ist
 wohl Schilf, — — volle Fahrt!! Die Gefahr nähert sich uns
 in anderer Form, als ich es glaubte. Fred, wecken Sie Miß
-Constanze. Sie soll sich schleunigst ankleiden, aber schleunigst…«
+Constanze. Sie soll sich schleunigst ankleiden, aber schleunigst …«
 
 Unser Boot wendete scharf und jagte auf das Ostufer
 zu. Es lief seine achtzehn Knoten, war neu, modern, und
-hinter uns her zogen ein hoher Schwalch und zwei Schaumstreifen…
+hinter uns her zogen ein hoher Schwalch und zwei Schaumstreifen …
 
 Ich ahnte nun, daß die große Maschine droben am Himmel,
 deren Motoren jetzt die stille Nachtluft mit ihrem Lärm
 vibrieren ließen, ein Riesenvogel war, der nun sofort auf
-uns herniederschießenden würde.
+uns herniederschießen würde.
 
-Urplötzlich stoppten die Propeller… Lautlos glitt das
+Urplötzlich stoppten die Propeller … Lautlos glitt das
 Wasserflugzeug herab, setzte tadellos in der Mitte des Flusses
 auf, und dann schnurrten und sausten die Propeller von neuem.
 Mit unheimlicher Geschwindigkeit pflügten die beiden Schwimmer
@@ -638,13 +638,13 @@ wir nicht! Ausgeschlossen!«
 
 Miß Constanze stand mit einem Mal neben uns.
 
-Sah, hörte…
+Sah, hörte …
 
 »Das gilt uns!« sagte sie dann heiser. »Aber so leichten
 Kaufes fängt man Constanze Bragerfield nicht!« Sie hatte
 ihre ziemlich schwere Repetierbüchse im linken Arm hängen,
 wie ein Blitz fuhr die Mündung hoch, sie zielte, drückte
-ab, — — Harst hatte ihr den Lauf hochgeschlagen…
+ab, — — Harst hatte ihr den Lauf hochgeschlagen …
 
 »Lassen Sie das, Miß… Ich denke, wir haben vorläufig
 an einem Toten genug! Außerdem ist der eine Schwimmer in
@@ -658,13 +658,13 @@ einer Lücke, vor uns eine schmale Rinne, hinter uns her
 kam der Riesenvogel mit seinen drei sausenden Schnäbeln,
 — köpfte die Schilfstengel, — — nur noch fünfzig Meter,
 dreißig, — — Pieter Laarsen war doch ein famoser Kerl, er
-wendete scharf, ein gestürzte Baum sperrte den Weg, nun
+wendete scharf, ein gestürzter Baum sperrte den Weg, nun
 waren wir in einem kleinen Becken, — Wald, Felsen umrahmte
-uns…
+uns …
 
-»An Land!« befahl Harst…
+»An Land!« befahl Harst …
 
-Unser Schlepptau hatte ich längst gekappt… Das kleinere
+Unser Schlepptau hatte ich längst gekappt … Das kleinere
 Boot war irgendwo ins Schilf gesaust.
 
 Baumzweige peitschten unsere Gesichter, und bald verbarg
@@ -681,8 +681,8 @@ sie meinen Arm umkrallte.
 »Ist’s Lady May Batty?« fragte ich besorgt.
 
 »Lady May?! Unsinn!!« fährt sie auf. »Lady May ist
-doch in einem Sanatorium, und…« — sie stolperte, die kurze
-Unterhaltung hat ein Ende.
+doch in einem Sanatorium, und …« — sie stolperte, die kurze
+Unterhaltung hatte ein Ende.
 
 — Diesen einen Punkt, daß Lady May nicht in England
 weilt und ihre Schwester Mary sie dort vor der Öffentlichkeit
@@ -691,30 +691,30 @@ gegeben und auch Laarsen zum Schweigen hierüber verpflichtet.
 
 Nochmals vernehmen wir die helle herrische Stimme.
 Dann umfängt uns der Tropenwald, dann drückt uns Harst auf
-ein paar Steine…
+ein paar Steine …
 
 »Keinen Laut!!«
 
 Er huscht davon, zurück zum Boot, er mußte irgend etwas
 vergessen haben. — Es war Leichtsinn von ihm, denn das Wasserflugzeug
 hatte bereits ein Beiboot ausgesetzt, dessen Ruderschläge
-und das Quieken der Dollen klar zu hören war…
+und das Quieken der Dollen klar zu hören war …
 
-Dann wurde alles still…
+Dann wurde alles still …
 
 Pieter Laarsen, den die großen Mücken peinigten, fluchte
-brummend…
+brummend …
 
-Fred Steen fluchte auch…
+Fred Steen fluchte auch …
 
-Minuten verstreichen. Kein Harst kehrte zurück… Die
-Unruhe trieb mich empor…
-»Ich muß hin… Wartet hier… Rührt euch nicht vom Fleck…«
+Minuten verstreichen. Kein Harst kehrte zurück … Die
+Unruhe trieb mich empor …
+»Ich muß hin … Wartet hier … Rührt euch nicht vom Fleck …«
 
 Ich schleiche davon mit vorgestreckten Händen, Schritt
 um Schritt, — ich sehe den hell glänzenden Schimmer der
 Flußbucht und den dahineinragenden Baumstamm, und als ich
-über diesen Stamm balanciere, mache ich plötzlich halt…
+über diesen Stamm balanciere, mache ich plötzlich halt …
 
 Er war trotz der Dunkelheit des tief herabhängenden
 Astwerks genau ein winziges Boot neben unserem Heck zu erkennen,
@@ -731,11 +731,11 @@ Antwort?!
 Genick um!!«
 
 Ich hatte von meinem Freund selten eine so grobe Antwort
-erhalten…
+erhalten …
 
 <h2>4. Kapitel</h2>
 
-<h3>Harst spricht…</h3>
+<h3>Harst spricht …</h3>
 
 Als wir die kleine Lichtung erreichten, wo wir das
 Gepäck aufgestapelt hatten, schaltete Harst für Sekunden
@@ -748,19 +748,19 @@ leichten Gummimantel über den Kopf gebreitet.
 die Leute des Raubvogels nicht vielleicht unser Motorboot
 mitnehmen?«
 
-Harst erwiderte scharf: »Das läßt sich nicht verhindern…
-Da — — hören Sie! Das Flugzeug nähert sich… Das gilt unserem
+Harst erwiderte scharf: »Das läßt sich nicht verhindern …
+Da — — hören Sie! Das Flugzeug nähert sich … Das gilt unserem
 Boot!«
 
 Wir vernahmen Propellergeräusche, Zurufe, Krachen und
-Splittern von Ästen… Allmählich entfernte sich der Lärm
+Splittern von Ästen … Allmählich entfernte sich der Lärm
 und erstarb.
 
 Pieter van Laarsen meinte kaltschnäuzig: »Miß, das
-Boot hat achthundert Pfund gekostet… Es war ausgemacht,
-daß Sie mir jeden Schaden ersetzen…«
+Boot hat achthundert Pfund gekostet … Es war ausgemacht,
+daß Sie mir jeden Schaden ersetzen …«
 
-»Das ist selbstverständlich…« Constanze sprach eigentümlich
+»Das ist selbstverständlich …« Constanze sprach eigentümlich
 abgehackt, als ob sie nach Luft ringe. »Nur eins verstehe
 ich nicht, Herr Harst: daß Sie das Boot ohne Gegenwehr rauben
 ließen! Weshalb sind wir denn so tadellos bewaffnet?!«
@@ -779,7 +779,7 @@ ich tat, als gehöre das Boot nicht zu uns, und da ich meinen
 Ausweis vorzeigen konnte, glaubte man mir. Ich erklärte,
 unser Fahrzeug läge nebenan in einer anderen Bucht. Es hilft
 also nichts, wir müssen nun mit dem kleineren Boot Freds
-vorlieb nehmen…«
+vorlieb nehmen …«
 
 »Nette Schweinerei!« knurrte Laarsen.
 
@@ -788,13 +788,13 @@ vorlieb nehmen…«
 Constanze schwieg.
 
 Harald rauchte und suchte die Mückenschleier aus dem
-einen Tropenkoffer hervor… »Allerdings Pech, lieber Fred.
-— Seit dem Tod Smidtsons habe ich einen scheußlich bitterren
-Geschmack auf der Zunge… Meine bösen Vorahnungen sind bestätigt
+einen Tropenkoffer hervor … »Allerdings Pech, lieber Fred.
+— Seit dem Tod Smidtsons habe ich einen scheußlich bitteren
+Geschmack auf der Zunge … Meine bösen Vorahnungen sind bestätigt
 worden. — Schraut, Fred, wir werden nun ein Baumfloß bauen
-und Freds alten Kahn im Schilf suchen… Kommt mit! Sie, Laarsen,
+und Freds alten Kahn im Schilf suchen … Kommt mit! Sie, Laarsen,
 passen hier gut auf, damit man uns nicht etwa das Gepäck
-oder gar unsere Miß entführt… Wir werden wohl längere Zeit
+oder gar unsere Miß entführt … Wir werden wohl längere Zeit
 wegbleiben.«
 
 — Wer die Niluferwälder dort unten im Sudan kennt,
@@ -812,17 +812,17 @@ Boot war nichts mehr zu sehen.
 Der Außenbordmotor sprang an, wir glitten in die Bucht
 hinein, und Fred, der zumeist unverwüstlich guter Laune
 war, erklärte strahlend, wir seien eigentlich noch mit einem
-sehr gelinde — blauen Auge davon gekommen.
+sehr gelinde-blauen Auge davongekommen.
 
 »Vorläufig!« dämpfte Harald unseres langen blonden
 Famulus’ Zuversicht. »Übrigens eine Frage, Fred, die jedoch
-ganz unter uns bleibt… Hatte sich Miß Constanze von dem
+ganz unter uns bleibt … Hatte sich Miß Constanze von dem
 Lagerplatz entfernt, als Schraut mir nachgeschlichen war?«
 
 »Entfernt?! Hm, — jeder muß mal etwas abseits gehen,
-Herr Harst, und eine Dame in Gesellschaft von vier Männern…«
+Herr Harst, und eine Dame in Gesellschaft von vier Männern …«
 
-»Also hatte sie sich entfernt… — Es ist im Grunde ja
+»Also hatte sie sich entfernt … — Es ist im Grunde ja
 auch belanglos. Sie ist nur zu temperamentvoll und mit der
 Büchse zu flink bei der Hand.«
 
@@ -856,11 +856,11 @@ als Vorbeugung gegen die Malaria.
 Es wurde heller und heller. Einsame Dörfer lagen an
 den Ufern, eingeborene Fischer blickten unserer Arche Noah
 erstaunt nach, ein Frachtdampfer erzeugte so hohe Wellen,
-daß wir schleunigst ausgekniffen.
+daß wir schleunigst auskniffen.
 
 Harst war still und nachdenklich. Unser Gespräch drehte
 sich um Dinge, die mir gleichgültig waren. Schließlich hielt
-ich diese infame Versteckspielerei nicht länger aus…
+ich diese infame Versteckspielerei nicht länger aus …
 
 »Harald, was hast du in Wahrheit mit Lady May Batty
 besprochen?« fragte ich geradezu.
@@ -880,16 +880,16 @@ deinen alten Fehler. Nimm einmal an, dir stieße etwas zu,
 dann wäre ich völlig unklar über deine widerspruchsvolle
 Taktik.«
 
-»Da hast du recht, mein Alter…« Mit einem sorgenvollen
+»Da hast du recht, mein Alter …« Mit einem sorgenvollen
 Lächeln drückte er mir fest die Hand. »Wenn ich bisher geschwiegen
 habe, so hatte das nur den einen Grund: du solltest harmlos
 bleiben und Constanze nicht merken lassen, daß wir sie längst
-durchschaut haben. Diese Dame ist mehr als gefährlich…«
+durchschaut haben. Diese Dame ist mehr als gefährlich …«
 
 Er dämpfte seine Stimme fast zu stark. Das Knattern
 des Motors übertönte ohnehin jedes Wort.
 
-»*Ich* habe diesem Weib nie getraut… Ich will dir einige
+»*Ich* habe diesem Weib nie getraut … Ich will dir einige
 Tatsachen ins Gedächtnis zurückrufen, die du nie richtig
 bewertet hast. Sie kam zu uns nach Berlin, sie *schien* sehr
 selbstlos im Interesse ihres Vetters dessen Verbleib aufklären
@@ -930,11 +930,11 @@ und vor anderthalb Jahren — gib acht! — besaß Constanze
 noch ein Bankguthaben von etwa dreißigtausend Pfund Sterling,
 das inzwischen fast restlos verbraucht ist. Wofür? Du ahnst
 es wohl schon: Für die Detektei Smidtson, London, die sich
-nicht des allerbesten Rufes erfreut…«
+nicht des allerbesten Rufes erfreut …«
 
 Ich vermochte keine Silbe hervorzubringen, ich war
-von diesen Eröffnungen wie erschlagen. Hatte ich ja einen
-geringen Verdacht gegen Constanze gehabt, aber dies alles,
+von diesen Eröffnungen wie erschlagen, ich hatte ja einen
+geringen Verdacht gegen Constanze gehegt, aber dies alles,
 was Harald soeben aufgezählt hatte, enthüllte einen so abstoßenden
 Charakter, daß mir der Ekel hochquoll.
 
@@ -943,7 +943,7 @@ um einen Mann geht, werden Weiber zu Tigern! Liebe wird
 zu Haß, und aus diesem Haß wachsen einer enttäuschten Frau
 gleichfalls Flügel verbrecherischen Genies. Constanze war
 einst ein harmloses verliebtes Mädel, — heute ist sie eine
-… Mörderin, denn sie hat Smidtson, ihren Beauftragten, erschossen…«
+… Mörderin, denn sie hat Smidtson, ihren Beauftragten, erschossen …«
 
 »Unmöglich, Harald!«
 
@@ -951,14 +951,14 @@ einst ein harmloses verliebtes Mädel, — heute ist sie eine
 Beweise. Auf dem Inselchen, wo Smidtson den Tod fand, —
 und nie werde ich’s mir vergeben, ihn dieser Gefahr ausgesetzt
 zu haben, denn ich kannte ja die Zusammenhänge — … auf dem
-Inselchen konnte Constanze ihr Zelt unbemerkt verlassen…
+Inselchen konnte Constanze ihr Zelt unbemerkt verlassen …
 Der Zigarrenstummel stammt aus ihrem Koffer, ihre Nerven
-sind zum Teufel, sie raucht heimlich so schwerer Zigarren,
-und…«
+sind zum Teufel, sie raucht heimlich so schwere Zigarren,
+und …«
 
 »… Aber der Pfeil und der Bogen?!«
 
-»Warte ab… Der Pfeil ist am wichtigsten. Davon später.
+»Warte ab … Der Pfeil ist am wichtigsten. Davon später.
 Constanze wird noch mehrere Baggara-Pfeile in ihrem Koffer
 haben, und der Bogen? — Mein lieber Alter, sie schleppt
 sich mit einer Kamera und mit einem vernickelten Stativ
@@ -971,10 +971,10 @@ Er nickte ernst. »Weshalb erschoß sie Smidtson? Weshalb
 erschien sie bei uns, weshalb kamen Smidtson und seine beiden
 Begleiter hinter uns her nach Ägypten? — Die Dinge liegen
 für mich vollkommen klar. Ich möchte vorläufig nicht darüber
-sprechen, denn Constanze beobachtet uns zweifellos… Sie
+sprechen, denn Constanze beobachtet uns zweifellos … Sie
 hat Verdacht geschöpft, sie war uns nachts im Wald nachgeschlichen,
-deshalb log ich… In Wirklichkeit habe ich Lady May, denn
-sie saß in der Nußschale, versprochen, ihr zu helfen… Constanze
+deshalb log ich … In Wirklichkeit habe ich Lady May, denn
+sie saß in der Nußschale, versprochen, ihr zu helfen … Constanze
 hat Lord Batty verschwinden lassen, darüber besteht kein
 Zweifel mehr. Wir werden äußerst geschickt operieren müssen,
 mein Alter, wenn wir ihn finden wollen. Er lebt, er wird
@@ -985,15 +985,15 @@ oder *die* Pfeile?!«
 
 Er griff nach einer Zigarette, lachte plötzlich sehr
 herzlich und deutete auf einen Kahn, in dem fünf splitternackte
-Negerrangen saßen und mit Speeren Fische stachen…
+Negerrangen saßen und mit Speeren Fische stachen …
 
 Mein Lächeln war wohl etwas sehr verzerrt. —
 Mittags landeten wir abermals an einer kleinen Insel,
 um die Tageshitze vorüber zu lassen.
 
-Constanze war unverändert…
+Constanze war unverändert …
 
-Scheinbar…
+Scheinbar …
 
 <h2>5. Kapitel</h2>
 
@@ -1055,7 +1055,7 @@ Was war geschehen?!
 … Erstaunlich, wie schnell sie sich nach dem starken
 Schreck, der auch ihre Hände zittern ließ, wieder faßte.
 Sie nahm einen Teelöffel und fischte aus der Büchse einen
-Zettel hervor…
+Zettel hervor …
 
 Ihre Wangen bekamen wieder Farbe.
 
@@ -1069,7 +1069,7 @@ giftiger Arzneien benutzen, — da bitte, ein schwarz umrandeter
 weißer Totenkopf.«
 
 Harst richtete sich sofort auf. »Allerdings merkwürdig!
-Geben Sie die Büchse und den Zettel doch einmal her…«
+Geben Sie die Büchse und den Zettel doch einmal her …«
 
 Es war eine frisch geöffnete Büchse, und Harald hatte
 vorhin das Öffnen selbst besorgt.
@@ -1077,7 +1077,7 @@ vorhin das Öffnen selbst besorgt.
 »Das begreife ich nicht, Miß… Als ich soeben oder doch
 vor kaum fünf Minuten den Büchsendeckel lockerte, war der
 Zettel noch nicht da, — das heißt, beschwören kann ich das
-nicht…«
+nicht …«
 
 Er nahm etwas von dem gemahlenen Kaffee zwischen die
 Fingerspitzen wie eine Prise und schmeckte daran, spie sofort
@@ -1086,12 +1086,12 @@ diskret aus und spülte den Mund mit Whisky nach.
 »Das verstehe ein anderer, Miß…! Der Kaffee ist vergiftet,
 und zwar ist gemahlene Schierlingswurzel hinzugefügt worden,
 die leider hier sehr häufig vorkommt. Man schmeckt es kaum,
-aber man sieht es… Der Kaffee schimmert eigentümlich hell.«
+aber man sieht es … Der Kaffee schimmert eigentümlich hell.«
 
 Constanze hüstelte. Ein sonderbarer Blick traf Harst.
 
 »Wer hat das getan?« fragte sie schroff. »Es kann noch
-nur einer von uns gewesen sein…«
+nur einer von uns gewesen sein …«
 
 »Getan?!« Harst sprach das Wort sehr gedehnt. »Sie
 vergessen, daß es sich um zwei ganz verschiedene Vorgänge
@@ -1107,8 +1107,8 @@ sie grübelnd.
 
 Harald stand plötzlich auf den Füßen.
 
-»Laarsen, Sie waren vorhin eine halbe Stunde dort in
-Gestrüpp…!«
+»Laarsen, Sie waren vorhin eine halbe Stunde dort im
+Gestrüpp …!«
 
 Der alte Holländer knurrte wütend. »He, wollen Sie
 mich etwa verdächtigen?!«
@@ -1132,7 +1132,7 @@ Der Alte knetete verlegen seine mächtigen Hände.
 »Schraut, — binde ihn!«
 
 Laarsen bekam es plötzlich mit der Angst. »Herr Harst,
-ich … ich wollte ja nur…«
+ich … ich wollte ja nur …«
 
 »… Halten Sie den Mund!! Gestorben wären wir nicht,
 aber tagelang krank gewesen, wenn wir *die* Sorte Kaffee getrunken
@@ -1140,16 +1140,16 @@ hätten! Ich habe Ihnen nie so recht getraut, es war ja auch
 zu auffällig, daß uns das Wasserflugzeuge nachts auf dem
 Strom als das gesuchte Boot erkannte. Damals haben *Sie* aus
 Ihrer Pfeife wahren Raketenregen herausgeblasen!! Sie stecken
-mit Lady Batty unter einer Decke…! Miß Bragerfield, ich
+mit Lady Batty unter einer Decke …! Miß Bragerfield, ich
 wollte Ihnen diese unangenehme Neuigkeit, daß Lady May hier
-in der Nähe weilt, gern ersparen… Aber die Umstände zwingen
+in der Nähe weilt, gern ersparen … Aber die Umstände zwingen
 mich nun zu voller Offenheit. Lady Batty ist hier und belauert
 uns, und Laarsen hat sich schon in Chartum bestechen lassen
 und spielt den Verräter. Damit ist’s nun aus, Laarsen! Ich
 selbst habe den Totenkopf in die Büchse getan, um Sie zu
 entlarven. Ich wünschte nur, es käme recht bald ein Polizeiboot
 vorüber, daß Sie mitnehmen könnte. Wir werden fortan beim
-Speisengenuß sehr vorsichtig sein und…«
+Speisengenuß sehr vorsichtig sein und …«
 
 »Hallo!!« kam’s von Schilfgürtel des Inselchens herüber,
 und eins der großen Polizeiboote schoß mit knatterndem Motor
@@ -1164,16 +1164,16 @@ Constanze blickte uns abwechselnd scheu fragend an.
 »Ich bin noch vollkommen verwirrt,« bemerkte sie zerstreut
 und nachdenklich. »Lady May hier in Ägypten?! Allerdings,
 schon in London gingen Gerüchte um, daß sie gar nicht persönlich
-in dem Sanatorium weile, sondern…«
+in dem Sanatorium weile, sondern …«
 
 »Lassen wir das, Miß,« unterbrach Harald sie scheinbar
 mitfühlend. »Regen Sie sich über diese Dinge nicht weiter
 auf, sondern versorgen Sie uns besser mit einer Tasse harmlosen
-Kaffees. Ich will eine zweite Büchse öffnen… Die Schierling-Büchse
+Kaffees. Ich will eine zweite Büchse öffnen … Die Schierling-Büchse
 hat das Polizeiboot mitgenommen, und Laarsen, der so sehr
 für Gemütlichkeit schwärmte, dürfte nun verschiedene Jahre
-recht gemütlich in einer Zelle sitzen… — So, — dieser Kaffee
-ist einwandfrei…«
+recht gemütlich in einer Zelle sitzen … — So, — dieser Kaffee
+ist einwandfrei …«
 
 Wir hielten dann eine sehr behagliche Kaffeestunde
 ab, Constanze taute immer mehr auf, und so langsam wurde
@@ -1192,7 +1192,7 @@ nicht so prompt erscheinen können.
 Constanze Bragerfield schien von alledem nicht zu ahnen.
 Sie war vergnügt, redselig und betonte wiederholt, daß sie
 mit Haralds Hilfe Lord Batty schon finden würde. Dann zog
-sie sich in ihre Zell im Vorderteil des Bootes zurück, Harst
+sie sich in ihr Zelt im Vorderteil des Bootes zurück, Harst
 löste den langen Fred als Wache ab, und Fred und ich machten
 ein Dauerschläfchen.
 
@@ -1224,7 +1224,7 @@ und unser Kahn flog beängstigend schnell durch die aufgerührten
 trüben Fluten. Bis gegen elf Uhr geschah nichts Besonderes.
 Dann erst, — wir hatten gerade ein größeres Eingeborenendorf
 bewundern können, wo man offenbar ein Fest mit unzähligen
-Freudenfeuern und am Spieß gebratenen Hameln feierte — ereigneten
+Freudenfeuern und am Spieß gebratenen Hammeln feierte — ereigneten
 sich so unvorhersehbare Dinge, daß offenbar auch Harsts
 sorgsam ausgeklügeltes Programm völlig über den Haufen geworfen
 wurde.
@@ -1254,15 +1254,15 @@ und fertigen Webstoffen, — auf der anderen Seite Ausplünderung
 der braunen Bewohner, Verlust ihrer oft uralten goldenen
 Geräte und jener gehämmerten Goldbarren, die die Baggara
 aus ebenso uralten geheimen Fundstellen der nahen Wüste
-gewinnen.—
+gewinnen. —
 
-Der Feuerschein hinter uns verblaßte…
+Der Feuerschein hinter uns verblaßte …
 
 Ein unförmig aufgedunsener riesiger Tierkörper, bestialischen
 Gestank verbreitend, — ein ertrunkenes Rind, strich samt
 seinem Begräbnisgefolge von etwa dreißig Krokodilen dicht
 an uns vorüber, eingebettet in eine kleine Grasinsel, —
-ein doppelt widerwärtiger Anblick im Mondlicht… Jedoch kein
+ein doppelt widerwärtiger Anblick im Mondlicht … Jedoch kein
 seltenes Bild.
 
 Fred Steen, dem man eine schnelle, scharfe Beobachtungsgabe
@@ -1271,7 +1271,7 @@ als erster die eine Bahn des Zeltes vorn im Wind flattern.
 
 »Herr Harst, — — das Zelt!«
 
-Er brüllte es vielleicht lauter als nötig… Aber gerade
+Er brüllte es vielleicht lauter als nötig … Aber gerade
 er, der so sorgsam unsere zweifelhafte Miß allzeit als stiller
 Verehrer umschwänzelt hatte, fürchtete überflüssigerweise
 für deren Wohlergehen beständig das Ärgste.
@@ -1300,7 +1300,7 @@ Dann füllte sich das Segel, wir jagten mit der Strömung
 zurück, und da die Fahrrinne hier am Westufer entlangführte,
 hatten wir das Dorf in kurzem wieder vor uns.
 
-»Stoppen…!!«
+»Stoppen …!!«
 
 Der Motor verstummte, das Segel klatschte, und das
 Boot schaukelte träge weiter.
@@ -1336,8 +1336,8 @@ ertönte, daß sogar einige der faulen Wasservögel krächzend
 davonstrichen.
 
 »Zurück ins offene Wasser!« befahl Harald überstürzt.
-»Es war ein Mann… Auf eine Weiberstimme hätte ich nicht
-geachtet, das wäre doch nur Hinterlist gewesen…«
+»Es war ein Mann … Auf eine Weiberstimme hätte ich nicht
+geachtet, das wäre doch nur Hinterlist gewesen …«
 
 Fred stieß kraftvoll ab, der Motor knatterte los, der
 Wind faßte das Segel, und wir hatten das abenteuerliche
@@ -1351,13 +1351,13 @@ Obwohl der ganz in Weiß gekleideter Mann einen langen
 Fischspeer in der linken Schulter stecken hatte, rannte
 er mit verblüffender Schnelligkeit der Landungsbrücke zu
 und fand noch Zeit, immerfort blitzschnelle Haken zu schlagen,
-um weiteren Speerwürfen zu entgehen… Sein Tropenhelm war
+um weiteren Speerwürfen zu entgehen … Sein Tropenhelm war
 ihm ins Genick gerutscht, die Hände fingerten an dem Ledergurt
 herum, — dann machte er urplötzlich halt, seine Arme flogen
 empor, Schüsse knallten, und der Schwarm der Verfolger spritzte
 auseinander.
 
-Nicht alle…
+Nicht alle …
 
 Drei Kerle knickten zusammen, und der Weiße setzt seine
 Flucht fort.
@@ -1373,7 +1373,7 @@ von Blut, die drei Spitzen des Fischspeers waren ihm tief
 ins Fleisch gedrungen und saßen infolge der Widerhaken so
 fest, daß Harst sie herausschneiden mußte.
 
-Fred und ich hatten alle Hände voll zu tun, wie Verfolger
+Fred und ich hatten alle Hände voll zu tun, die Verfolger
 abzuwehren. Die Baggara selbst, schon an ihrer Frisur kenntlich,
 beteiligten sich nicht bei dieser Hetzjagd, da waren aber
 so etwa ein Dutzend anderer Burschen, fellachische Händler
@@ -1391,7 +1391,7 @@ ein Trupp Dromedarreiter in die Wüste preschte.
 
 <h3>Der Flüchtling und das neue Boot.</h3>
 
-»Fred, die Jodoformwatte…!«
+»Fred, die Jodoformwatte …!«
 
 Harst hatte die Wunde gründlich ausgewaschen und legte
 dem Fremden nun einen Verband an.
@@ -1406,7 +1406,7 @@ Constanzes, den reichen Mr. Lionel Gould vor uns hatten.
 Harald ermahnte uns jedoch nachdrücklichst, diese Vermutung
 genau so zu verschweigen wie unsere bisherigen Abenteuer.
 Inzwischen hatte ich auch Fred kräftig ins Gebet genommen.
-Der lange Jüngling feixte geradezu herausfordern, als ich
+Der lange Jüngling feixte geradezu herausfordernd, als ich
 ihm vorhielt, daß er doch offenbar Miß Bragerfield ebenfalls
 nicht mehr recht getraut hätte.
 »Glauben Sie, ich bin blind, Herr Schraut?! Die Kaffeegeschichte
@@ -1425,19 +1425,19 @@ haben. Auf das Polizeiboot können wir uns nicht verlassen,
 obwohl dort zumindest ein heller Kopf an Bord ist: der alte
 Laarsen!«
 
-Scherze…! — Allerdings! Der erste Scherz war eine wunderbare
+Scherze …! — Allerdings! Der erste Scherz war eine wunderbare
 Rakete, die unweit des Dorfes hinter uns ihre grünen und
 roten Kugeln in die Luft streute.
 
 »Aha — — Signal!!« meinte Harald. »Der Tanz wird gleich
 losgehen, aber wir werden den Schuften eine Nase drehen.
-Fred, ich übernehme das Steuer… Platz gemacht… Haltet das
-Gepäck zum Ausbooten bereit…«
+Fred, ich übernehme das Steuer … Platz gemacht … Haltet das
+Gepäck zum Ausbooten bereit …«
 
 Vor uns tauchte eine lange schmale Sandbarre auf, deren
-Ufer mit den unmöglichsten Dingen garniert war: angetriebenen
+Ufer mit den unmöglichsten Dingen garniert war: angetriebene
 Bäume, Grashaufen, faulende Kadaver, Krokodile, angeschwemmte
-Hüttendächer, dazu noch das uralter Wrack eines hölzernen
+Hüttendächer, dazu noch das uralte Wrack eines hölzernen
 Dampfers, vielleicht eines der ersten, der hier im Sudan
 erbaut worden war.
 
@@ -1449,13 +1449,13 @@ Der Kiel schrammte über Sand, die Barre öffnete sich
 plötzlich, und in dieser schmalen Rinne lag ganz vorn in
 der kräftigen Strömung ein träge hin und her schaukelndes
 Boot, — nein, kein Boot, ein Bretterkahn wie unsere ›Luxusjacht‹,
-nur größer und halb mit Sand gefüllt…
+nur größer und halb mit Sand gefüllt …
 
-»Schnell — — das Gepäck hinüber… Wir sind hier gegen
-Sicht gedeckt…« — Wir stoppten, im Nu war auch der Kranke
-geborgen, dann fuhr Harst allein weiter…
+»Schnell — — das Gepäck hinüber … Wir sind hier gegen
+Sicht gedeckt …« — Wir stoppten, im Nu war auch der Kranke
+geborgen, dann fuhr Harst allein weiter …
 
-»Ich bin in einer Stunde wieder da,« rief er nur…
+»Ich bin in einer Stunde wieder da,« rief er nur …
 
 »Nette Bescherung!« meinte der unverwüstliche Fred
 lachend. »Herr Schraut, daß ich mal auf dem Nil umhergondeln
@@ -1465,8 +1465,8 @@ Fred Steen war kein Träumer, sondern ein sehr praktisch
 veranlagter Mensch. Er nahm einen unserer beiden kurzen
 Spaten und begann den Sand aus dem Bootswrack herauszuschaufeln.
 »Der Kahn ist vielleicht noch brauchbar, Herr Schraut. So
-sehr lange kann er hier noch nicht liegen… Das ist alles
-Flugsand…«
+sehr lange kann er hier noch nicht liegen … Das ist alles
+Flugsand …«
 
 Neben uns gurgelte und schäumte die Strömung in den
 Kanal der Barre hinein. Links von uns lag das Dampferwrack,
@@ -1498,7 +1498,7 @@ Hinter den Inseln da vorn waren zwei kleine blitzschnelle
 Motorboote hervorgeschossen. Das eine hielt auf Harsts Boot
 zu, das andere versperrte ihm den Rückweg.
 
-Das, was nun folgte, geschah in Sekunden…
+Das, was nun folgte, geschah in Sekunden …
 
 Das eine Boot rammte unseren Kahn, prallte zurück,
 wendete und gab drei Hupensignale, worauf beide Angreifer
@@ -1517,9 +1517,9 @@ vor Wasser troff und wenig dekorativ mit nassen Gräsern
 wie ein Meergreis geschmückt war, deren Stimmung jedoch
 all meine Ängste verscheuchte.
 
-»Das sind mir nette Idioten!« sagte Harald halblaut…
+»Das sind mir nette Idioten!« sagte Harald halblaut …
 »Die bilden sich nun ein, wir wären Krokodilfutter geworden!
-Irrtum!! — Brav so, Fred… Ich helfe… Vielleicht ist der
+Irrtum!! — Brav so, Fred … Ich helfe … Vielleicht ist der
 Kahn noch brauchbar.«
 
 Er hatte drei eingedrückte Planken, aber in einer Stunde
@@ -1537,7 +1537,7 @@ und vereinzelte baumbestandene Inselchen wie dunkle Flecke
 An anderen Stellen waren die schlanken Wasserstauden durch
 treibende Baumstämme in breiter Fläche niedergedrückt, schon
 versandet und bildeten stinkende Barren, — anderswo wieder
-zeigten sich die schon vorhin beschriebenen Krokodilenester,
+zeigten sich die schon vorhin beschriebenen Krokodilnester,
 jedenfalls dehnte sich hier eine wohl meilenweite Wasserwildnis
 und Flußniederung von so großartiger Abwechslung aus, daß
 der Vermerk auf einer von Haralds neuesten Karten ›unpassierbare
@@ -1550,7 +1550,7 @@ spürbar. Wir benutzten Baumäste als Stoßstangen, zuweilen
 mußten wir auch das plumpe Ungetüm von Kahn leerschöpfen.
 Wir kamen sehr langsam vorwärts, ein niederträchtiger Baumstamm
 riß das eine mühsam abgedichtete Leck von neuem auf, und
-wir mußten froh sein, daß ein Inselchen im nächster Nähe
+wir mußten froh sein, daß ein Inselchen in nächster Nähe
 war, sonst hätten wir den Kahn samt Gepäck preisgeben müssen.
 
 Wir landeten zwischen dichten Büschen, schleppten die
@@ -1561,18 +1561,18 @@ und selbst die etwas gefährliche Nachbarschaft zweier Riesenkrokodile,
 die im hohen Gras ihr Nickerchen machten, konnte uns nur
 zu einigen Steinwürfen veranlassen, — doch die nach Moschus
 stinkenden Bestien nahmen keine Notiz davon. Rauchen mußten
-wir… Ganze Mückenschwärme tanzten in der Luft wie seltsam
-matt flimmernde, unförmige Gespenster… Fred Steen wollte
+wir … Ganze Mückenschwärme tanzten in der Luft wie seltsam
+matt flimmernde, unförmige Gespenster … Fred Steen wollte
 in einem Erdloch ein recht stark qualmendes Feuer anzünden,
 — er prallte zurück, schlug mit dem Spaten zu und schleuderte
-die armdicke schwarze Schlange ins Wasser…
+die armdicke schwarze Schlange ins Wasser …
 
 »Pfui Deubel, — der Schreck!« sagte er atemlos.
 
 Da gerade meldete sich der vierte, der bisher so schweigsame
 Mann.
-»Wer sind Sie, Gentlemen? Ich danke Ihnen… Ich fühle
-mich jetzt besser…«
+»Wer sind Sie, Gentlemen? Ich danke Ihnen … Ich fühle
+mich jetzt besser …«
 
 <h2>8. Kapitel</h2>
 
@@ -1585,7 +1585,7 @@ Mückenschleier ein und setzte sich neben den jungen Engländer.
 »Mr. Gould,« sagte er harmlos, »es ist hier sehr dunkel
 zwischen dem Buschwerk, sonst würden Sie uns wohl wiedererkennen.
 Sie wissen doch: Ernest Smidtson von der Detektei Smidtson
-nebst Kollegen. Ihrer Braut ist ebenfalls in der Nähe.«
+nebst Kollegen. Ihre Braut ist ebenfalls in der Nähe.«
 
 Ein anderer als Harst hätte vielleicht nicht so prompt
 das einzig richtige Mittel angewandt, die Situation zu klären.
@@ -1599,13 +1599,13 @@ auf das klare Geleis reiner Detektivarbeit.
 
 Die Wirkung dieser Anzapfung durch diese wahrheitswidrigen
 Sätze blieb nicht aus. Gould richtete sich mit einem Ruck
-empor und rief heiser: »Das kann nicht stimmen… Wenn Sie
+empor und rief heiser: »Das kann nicht stimmen … Wenn Sie
 Smidtson wären, hätten Sie mich nie gerettet. — — Wer sind
 Sie, Sir?«
 
 »Oh, — das wollte ich ja nur wissen, Mr. Gould. Sie
 halten also nicht viel von Smidtson?! Das tröstet mich immer
-mehr. Smidtson ist nämlich tot, und…«
+mehr. Smidtson ist nämlich tot, und …«
 
 »Um den ist’s wirklich nicht schade!« Gould setzte
 sich vollends aufrecht. »Wie wenig dieser Smidtson und seine
@@ -1616,14 +1616,14 @@ ich erst in dieser Nacht gemerkt. — Aber, — wer sind Sie,
 Sir? Sie haben sich meiner in so selbstloser Weise und doch
 auch offenbar so geheimnisvoll angenommen, daß…«
 
-»Bitte, legen Sie sich wieder nieder, Mr. Gould… Ihre
+»Bitte, legen Sie sich wieder nieder, Mr. Gould … Ihre
 Wunden im Nacken sind ziemlich böse, und wenn Sie in diesem
 Klima Wundfieber bekommen, werden Sie uns mehr Mühe bereiten,
-als wir augenblicklich für Sie verwenden können… — So, das
-ist verständig von Ihnen… — Kennen Sie Berlin, kennen Sie
+als wir augenblicklich für Sie verwenden können … — So, das
+ist verständig von Ihnen … — Kennen Sie Berlin, kennen Sie
 die Arnoldstraße in Berlin W? — Nein?! Dann hat Ihre Braut
-Ihnen also von uns nichts erzählt… Mein Name ist Harst…
-— Ja, Mr. Gould, Harald Harst… Und wir drei suchen im Auftrag
+Ihnen also von uns nichts erzählt … Mein Name ist Harst …
+— Ja, Mr. Gould, Harald Harst … Und wir drei suchen im Auftrag
 Miß Bragerfields deren Vetter Lord Batty.«
 
 Lionel Gould sagte nichts. Er atmete nur hastiger.
@@ -1636,21 +1636,21 @@ zu einem Entschluß gelangt zu sein.
 hätte keinen Zweck, Ihnen die Wahrheit vorzuenthalten, mag
 dies für mich als Mann auch noch so demütigend sein. Gerade
 die Tatsache, daß Constanze mich hierher schickte, um ungestört
-auch Sie… belügen zu können, hat mir nun die Augen geöffnet…«
+auch Sie … belügen zu können, hat mir nun die Augen geöffnet …«
 
-»Mir auch, Mr. Gould… Und da Ihnen das Sprechen schwer
+»Mir auch, Mr. Gould … Und da Ihnen das Sprechen schwer
 wird, kann ich Ihnen ebenso gut die letzten Ereignisse schildern.
-Ich sehe nun völlig klar vor mir, was geplant war… Ich lasse
+Ich sehe nun völlig klar vor mir, was geplant war … Ich lasse
 alles überflüssige weg, darf dabei aber auch Ihre Gefühle
-nicht schonen…«
+nicht schonen …«
 
 »Das ist nicht mehr nötig,« meinte Gould sehr harten
 Tones. »Reden Sie! Es mag Ihnen Ihre Aufgabe erleichtern,
 Mr. Harst: Auch ich mißtraute Constanze bereits in London.
-— Also bitte…«
+— Also bitte …«
 
 Harald schilderte in aller Kürze den Verlauf der bisherigen
-Ereignisse…
+Ereignisse …
 »Das üble Theater, das Constanze uns von Anbeginn vorzumachen
 beliebte, stützte sich mit darauf, daß die Firma Smidtson
 anfänglich von Lady May Batty mit Nachforschungen beauftragt
@@ -1660,13 +1660,13 @@ Mithin glaubte Constanze, den Anschein erwecken zu können,
 als ob Smidtson und seine beiden Begleiter zur Gegenpartei
 gehörten. Um dies noch glaubwürdiger hinzustellen, wurde
 Fred Steen in Chartum von den dreien abgeschnappt, — natürlich
-sollte er ihnen wie von ungefähr wieder entfliehen… Aber
+sollte er ihnen wie von ungefähr wieder entfliehen … Aber
 Steen verdarb ihnen den Spaß, schleppte Smidtson zum Ufer,
 fuhr mit ihm davon und wartete auf uns auf dem Nilinselchen,
 wo Constanze dann den Baggara-Pfeil benutzte und Smidtson
 so sein Grab fand. Smidtsons Begleiter begaben sich schleunigst
-nach dem Baggara-Dorf, um Sie, Mr. Gould, von dort vor zu
-holen, weil Gefahr bestand, Sie könnten mit uns zusammentreffen.
+nach dem Baggara-Dorf, um Sie, Mr. Gould, von dort fortzuholen,
+weil Gefahr bestand, Sie könnten mit uns zusammentreffen.
 Das Programm Constanzes war eben arg in Unordnung geraten.
 Vielleicht sollten Sie auch getötet werden, — ich möchte,
 so häßlich es ist, dieses Letztere annehmen. Wahrscheinlich
@@ -1689,25 +1689,25 @@ was gegen sie spräche. Sie sind wirklich Händler und klappern
 mit ihren Motorbooten die Ufersiedlungen ab.«
 Goulds bissige Ironie wurde noch schärfer.
 »Sie sind Händler geblieben bis zu dem Augenblick,
-als ich entfloh… Da stieß mir der eine den Fischspeer in
-die Schulter, und die andern…«
+als ich entfloh … Da stieß mir der eine den Fischspeer in
+die Schulter, und die andern …«
 
 »Regen Sie sich nicht auf,« begütigte Harald. »Noch
-eine Frage…. Aus welchem Grund war das Dorf so festlich
+eine Frage … Aus welchem Grund war das Dorf so festlich
 beleuchtet?«
 
 »Die Händler hatten Schnaps und ein Dutzend Hammel
-gespendet…«
+gespendet …«
 
 »Auf Constanzes Befehl also, damit sie das Dorf bemerkte
 und wußte, wo sie schwimmend an Land flüchten konnte. Mithin
 hat sie mit Smidtsons Begleitern immer noch irgendwie in
-Verkehr gestanden… Wie aber?!«
+Verkehr gestanden … Wie aber?!«
 
 Er dachte eine Weile nach.
 
 »… Es kann nur so gewesen sein, daß sie heimlich Flaschenposten
-ins Wasser warf… Diese Flaschen müssen Fähnchen gehabt haben,
+ins Wasser warf … Diese Flaschen müssen Fähnchen gehabt haben,
 und ein scheinbar harmloses Fischerboot oder dergleichen
 angelte die Nachrichten heraus.«
 
@@ -1724,14 +1724,14 @@ schwimmend uns zu retten suchten, sondern daß wir sie geblufft
 haben. Ich möchte Miß Bragerfields Sorgen nicht haben, Mr.
 Gould. Das Messer sitzt ihr an der Kehle. Lady May Batty
 ist mit dem Wasserflugzeug in der Nähe, Polizeipinassen
-desgleichen… Trotzdem befinden auch wir uns in einer üblen
+desgleichen … Trotzdem befinden auch wir uns in einer üblen
 Zwickmühle, denn es steht zu befürchten, daß Constanze den
-Lord inzwischen anderswohin schafft… Das darf nicht sein.
+Lord inzwischen anderswohin schafft … Das darf nicht sein.
 Lord Batty weilt als Gefangener bestimmt hier in der Nähe.
-Wir müssen handeln! Fred, Sie bleiben hier bei Mr. Gould…
-Schraut, flicken wir den Kahn wieder aus… Wir haben bis
+Wir müssen handeln! Fred, Sie bleiben hier bei Mr. Gould …
+Schraut, flicken wir den Kahn wieder aus … Wir haben bis
 Tagesanbruch noch drei Stunden Zeit. Ist Batty bis dahin
-nicht frei, sehen wir wieder ihn noch Constanze wieder!«
+nicht frei, sehen wir weder ihn noch Constanze wieder!«
 
 <h2>9. Kapitel</h2>
 
@@ -1774,30 +1774,30 @@ die beiden großen Krokodile, die ich mit Mühe gezähmt habe.«
 Seine Sprache war rauh und seltsam farblos, und als
 Harst sich zu ihm niederbeugte und eindringlich fragte:
 »Sie sind doch Engländer?« erwiderte er mit demselben gequälten
-Auflachen: »Ich … bin … gar nichts, Mister… Ich bin der
+Auflachen: »Ich … bin … gar nichts, Mister … Ich bin der
 … Herr dieser Sümpfe, und das ist … nichts, — — wie ich
-selbst ein Nichts bin…«
+selbst ein Nichts bin …«
 
 Gould hatte sich wieder aufgerichtet und starrte den
 Zerlumpten merkwürdig forschend an.
 
 »Gott im Himmel,« entfuhr es ihm dann. »Chester, wie
-kommen Sie hierher?! Sie sind Chester Bragerfield, und…«
+kommen Sie hierher?! Sie sind Chester Bragerfield, und …«
 
 Der Fremde war herumgeschnellt. Die Augen quollen ihm
 aus den Höhlen, und sein krankes aschgraues Gesicht entfärbte
 sich noch mehr.
 
-Soeben war der Mond wieder hinter den Wolken hervorgetreten…
+Soeben war der Mond wieder hinter den Wolken hervorgetreten …
 Fahles Licht beleuchtete die Kuppe der winzigen Nilinsel,
 auf der wir vielleicht noch erschütterndere Dinge erlebten
 als auf jenem Unglückseiland, wo ein junges Weib ohne jeden
 moralischen Halt kaltblütig einen Mord begangen und zweifellos
-auch weiter — Giftattentate geplant hatte.
+auch weitere Giftattentate geplant hatte.
 
 »Ich … bin nicht Chester Bragerfield,« zischte der
-Fremde den anderen in jäher Wut ins Gesicht. »Ich bin niemand…
-Lassen Sie mich laufen… Ich habe Ihnen nichts getan…«
+Fremde den anderen in jäher Wut ins Gesicht. »Ich bin niemand …
+Lassen Sie mich laufen … Ich habe Ihnen nichts getan …«
 
 »Bestehlen wollten Sie uns,« meinte Harst sehr milde.
 »Sie sind Bragerfield! Mr. Gould dürfte Sie sehr gut kennen,
@@ -1820,34 +1820,34 @@ die ihm von einem endgültigen Geständnis zurückgehalten
 haben, desto zusammenhängender und offener wurden seine
 Worte.
 
-»… Dieses Weib hat alle betrogen … alle… Mich hat sie
-in die Nilsümpfe gelockt… Ein Jahr habe ich hier gehaust
+»… Dieses Weib hat alle betrogen … alle … Mich hat sie
+in die Nilsümpfe gelockt … Ein Jahr habe ich hier gehaust
 wie ein Sträfling, bewacht von Halunken — auf ihren Befehl!
 Und dann kam sie und schrie mir die Wahrheit ins Gesicht
-… wie eine Megäre… ›Verrate mich
+… wie eine Megäre … ›Verrate mich
 doch, flieh doch!! Ziehe den Namen Bragerfield in den Schmutz!
-Lord Batty werdet ihr nie finden, nie! Ich halte ihm verborgen,
-— suche ihn meinetwegen! Flieh und laß mich verhaften… Dann
+Lord Batty werdet ihr nie finden, nie! Ich halte ihn verborgen,
+— suche ihn meinetwegen! Flieh und laß mich verhaften … Dann
 stirbt Cecil Batty!‹… Fortan war ich frei, lebte wie ein
-Tier in den Sümpfen unter den Tieren… Und suchte — suchte
+Tier in den Sümpfen unter den Tieren … Und suchte — suchte
 — — nach meinem unglücklichen Vetter. Dieses Inselchen ist
-mein Heim geworben, Krokodile meine Gefährten…«
+mein Heim geworden, Krokodile meine Gefährten …«
 
-Er sprang auf die Füße… Er glich mit seinem tränenfeuchten
-Gesicht einem armen Narren… Ein einzelner größerer Baum
+Er sprang auf die Füße … Er glich mit seinem tränenfeuchten
+Gesicht einem armen Narren … Ein einzelner größerer Baum
 wuchs da hart am Nordrand der Kuppe mit dichtestem armdicken
 Geflecht von Luftwurzeln. Chester Bragerfield deutete auf
-diesen Baum. »Dort unten hause ich…! Dort — — in der Erde,
+diesen Baum. »Dort unten hause ich …! Dort — — in der Erde,
 in einem Loch, ein Gespött für die von Constanze in Kairo
 erkauften Schurken, die hier schachern und irgendwo den
 armen Cecil bewachen, sich dauernd dabei ablösen. Den Schuften
-ist nicht auf die Spur zu kommen, Sie sind so schlau, —
+ist nicht auf die Spur zu kommen, sie sind zu schlau, —
 was habe ich alles aufgeboten, Cecils Kerker zu finden!
 Mir ist jetzt alles, alles gleichgültig, mag werden, was
-da will, Ihr Anblick, Gould, hat alle Schranken niedergerissen!
+da will. Ihr Anblick, Gould, hat alle Schranken niedergerissen!
 Ich weiß, daß Constanze Sie als Verlobten eingefangen hat,
 ihre Geldmittel waren erschöpft, ihr niederträchtiger Kampf
-gegen May Batty, ihre verhaßte Rivalin, kostete Unsummen…
+gegen May Batty, ihre verhaßte Rivalin, kostete Unsummen …
 In London bestach sie Leute, die Lady Mays guten Ruf untergraben
 sollten, hier mußte sie ihre schändliche Leibgarde bezahlen,
 und Sie waren verliebt, reich, mein alter Gould! Wenn ich
@@ -1855,14 +1855,14 @@ Sie nur rechtzeitig hätte warnen können! — Gould, Gould,
 — — wissen Sie, wie wir uns zum letzten Mal im Klub in London
 sprachen … beide im Frack, — — heute — — ich … ein zerlumpter
 Strolch, ein Feigling letzten Endes, der den Namen Bragerfield
-schonen wollte…«
+schonen wollte …«
 
 Seine hemmungslose Redeflut hatte ihn völlig erschöpft.
 Er brach abermals zusammen, Fred war mit der Whiskyflasche
 schnell bei der Hand, und Bragerfield trank wie ein Verschmachtender.
 
 Jetzt erst — man beachte meinen Hinweis auf Harsts
-letzten Satz — kam Harald dazu, das Wichtigste hinzuzufügen…
+letzten Satz — kam Harald dazu, das Wichtigste hinzuzufügen …
 
 »… Wenn wir nicht schnell handeln, werden wir Lord
 Batty und Constanze vielleicht nie wiedersehen. Ihr bleibt
@@ -1873,12 +1873,12 @@ seine Gattin sei die Urheberin dieses ruchlosen Streiches.
 Zu dieser Überzeugung war er wohl um so leichter zu bringen,
 da Constanzes Intrigen in London ihn bereits von seiner
 Frau getrennt und als Verzweifelten, Enttäuschten in die
-Wildnis Afrikas gescheucht hatten… — Ja, sie wird ein Letztes
+Wildnis Afrikas gescheucht hatten … — Ja, sie wird ein Letztes
 versuchen, und da ihr dies nicht glücken kann, wenn Sie
 am Leben bleiben, Mr. Bragerfield, dürften Constanzes Schergen
 hier sehr bald erscheinen, um Sie … abzutun! — Schnell,
-verbergen wir das Gepäck und den Kahn… Verbergen wir uns
-selbst… — Anpacken alle Mann, es eilt!! Meine Rechnung muß
+verbergen wir das Gepäck und den Kahn … Verbergen wir uns
+selbst … — Anpacken alle Mann, es eilt!! Meine Rechnung muß
 stimmen!«
 
 … Fünf Minuten darauf lag das Inselchen scheinbar still
@@ -1888,21 +1888,21 @@ befand sich bei uns, und wenn je ein Mann ehrlicheren Anlaß
 hatte, die Schergen seiner Schwester wie die Sünde zu hassen,
 so war er es.
 
-Wieder fünf Minuten…
+Wieder fünf Minuten …
 
 Dann leise Ruderschläge, wispernde Stimmen, — und mit
 einem Mal huschten drei Kerle im schmierigen Beduinenmänteln
-katzengleich auf den einsamen Baum zu…
+katzengleich auf den einsamen Baum zu …
 
 Bevor sie ihn noch erreicht hatten, erhoben sich hinter
-ihnen drei andere Gestalten…
+ihnen drei andere Gestalten …
 
 Der Bursche, dem ich den Pistolenkolben gegen den Schädel
 schmetterte, hatte es noch besser angetroffen als Bragerfields
 Opfer. Fred und ich hatten alle Mühe, Bragerfields Hände
 von dem Hals seines Gegners zu lösen.
 
-Nicht ein Schrei war erklungen — nichts…
+Nicht ein Schrei war erklungen — nichts …
 
 Aber Harst nahm dann ›seinen‹ Mann so nachdrücklich
 ins Gebet, daß der Bursche zähneklappernd uns auch das Wertvollste
@@ -1916,7 +1916,7 @@ Mitten in einem versumpften ungeheuren Schilffeld,
 das ein geschlossenes Ganzes zu bilden schien, ragten mehrere
 Baumkronen dicht beieinander hervor und ließen auf das Vorhandensein
 einer flachen Insel festeren Bodens schließen. In dieses
-endlose, uralter Schilffeld einzudringen, das sich am Ostufer
+endlose, uralte Schilffeld einzudringen, das sich am Ostufer
 keine fünfhundert Meter von Bragerfields Insel in die gänzlich
 unpassierbaren Sümpfe verlor, war unmöglich. Bis zu den
 Baumkronen hin hätte es tagelanger Arbeit bedurft, auch
@@ -1934,7 +1934,7 @@ bemerkt.
 Das Haus, außen völlig mit Kletterpflanzen umwuchert,
 hatte erblindete kleine Fenster, eine sehr feste Tür mit
 mehreren Schlössern und auf dem flachen Dach einen kurzen,
-viereckigen Schornstein, dessen vermauert Öffnung durch
+viereckigen Schornstein, dessen vermauerte Öffnung durch
 sechs gebogene Eisenröhren durchbrochen wurde, die bis in
 die Baumkronen reichten, — zur gründlicheren Verteilung
 des Herdqualmes. Dieser offene Herd stand in dem größten
@@ -1973,8 +1973,8 @@ sie verkehrte noch immer in seinem Haus, war mit May befreundet
 und spielte ihm gegenüber die Gleichgültige.
 
 Constanze siegte: Lord Batty trennte sich von seiner
-Gattin, reiste bei Nacht und Nebel ab unter einziger Zurücklassung
-von ein paar harter vorwurfsvoller Zeilen.
+Gattin, reiste bei Nacht und Nebel ab und schrieb ihr
+nur ein paar harte vorwurfsvolle Zeilen.
 
 Dann ereilte ihn hier im Sudan das schlimmste Geschick:
 Constanze hatte vorgesorgt, — er wurde eingekerkert und
@@ -1987,8 +1987,8 @@ jeglicher Erinnerung an ein Weib, das ihn seelisch zerbrochen
 hatte und das er nur noch verachtete.
 
 So hatte er sich denn in dieses ihm auferlegte Schicksal
-ergeben, war ein sehr gefügig Gefangener und schrieb an
-einem Werk über seinen Zug quer durch Afrika.
+ergeben, war ein sehr gefügiger Gefangener und schrieb an
+einem Werke über seinen Zug quer durch Afrika.
 
 Seine Wächter sprachen niemals mit ihm ein Wort.
 
@@ -2015,7 +2015,7 @@ Er starrte sie wie einen Geist an.
 Nur mit Mühe unterdrückte er den Schrei, der sich seiner
 wild atmenden Brust entringen wollte.
 
-Sie winkte ihm zu…
+Sie winkte ihm zu …
 
 In ihrem Lächeln lag ebensoviel zärtliche Hingabe wie
 Triumph und Freude.
@@ -2030,7 +2030,7 @@ wohl damit gerechnet, daß sie suchen würde, denn er kannte
 ja ihre eiserne Energie und heimliche Zuneigung zu ihm.
 Nun war ihr das Unmögliche doch gelungen.
 
-Er zitterte… Aber er blieb gefaßt, sein Verstand blieb
+Er zitterte … Aber er blieb gefaßt, sein Verstand blieb
 kühl, — er durfte nicht durch einen Fehler von seiner Seite
 Constanzes Erfolg gefährden.
 
@@ -2042,28 +2042,28 @@ belegt.
 Erst im Flur hauchte Constanze ihm ins Ohr, indem sie
 ihm einen Pistolengurt reichte:
 
-»Entwaffne die drei Wächter… Schieße sie nieder, wenn
-es nicht anders geht…!«
+»Entwaffne die drei Wächter … Schieße sie nieder, wenn
+es nicht anders geht …!«
 
-Sie preßte seinen Arm und schmiegte sich an ihn…
+Sie preßte seinen Arm und schmiegte sich an ihn …
 
 »Cecil, gehorche mir blindlings, oder wir sind verloren!«
 
 Er nickte strahlend vor aufflammender Hoffnung.
 
-Er hatte eine Waffe… Er fühlte sich bereits Sieger.
+Er hatte eine Waffe … Er fühlte sich bereits Sieger.
 
 Er haßte seine Wächter.
 
 Diese farbigen Halunken hatten ihn stets mit schweigendem
 Mißachtung behandelt. Nach den ersten beiden Fluchtversuchen
 hatten sie ihn halbtot geprügelt. Und er war ein englischer
-Lord…
+Lord …
 
 Er schlich noch vorsichtiger auf den Vorhang der Verbindungstür
 zum Nebenraum zu. Er handelte trotzdem sehr übereilt, als
 er, ohne das Licht in seinem Zimmer auszulöschen, diesen
-Vorhang lüftete…
+Vorhang lüftete …
 
 Der eine seiner Wächter lag faul auf einem Ruhebett,
 — es war ein alter pockennarbiger Araber, der in Kairo längst
@@ -2074,15 +2074,15 @@ aber kauerte vor einem kleinen türkischen Tischchen, einen
 Revolver in der Hand, drehte nun blitzschnell den Kopf und
 starrtet Batty drohend an.
 
-Der Lord wußte, daß es sich hier um Sekunden handelte…
+Der Lord wußte, daß es sich hier um Sekunden handelte …
 
 Der Kerl mit dem Revolver sah Battys Pistole, und …
 fast gleichzeitig krachten zwei Schüsse, die eine Kugel
-fuhr dem Lord durch den Ärmel…
+fuhr dem Lord durch den Ärmel …
 
 Der eine Kerl war hinüber: Kopfschuß.
 
-Der Lord wollte die beiden andern schonen…
+Der Lord wollte die beiden andern schonen …
 
 »Hände hoch!!«
 
@@ -2102,7 +2102,7 @@ Constanze hatte wie in einem wahnwitzigen Rausch gehandelt.
 Sie hatte zum ersten Mal wirkliche Furcht vor den Folgen
 ihrer Schändlichkeiten kennen gelernt, als Lionel Gould
 im Baggara-Dorf den Speeren entgangen war und in dem Boot
-Harsts Schutz gefunden hatte…
+Harsts Schutz gefunden hatte …
 Diese Furcht hatte sich zu eisigem Entsetzen gesteigert,
 als dann auch der Überfall auf dieses Boot mißlungen war:
 es war leer gewesen, sie genarrt worden!
@@ -2112,21 +2112,21 @@ etwas in ihrem Körper, in ihrem Hirn, in ihrer Seele war
 vollkommen aus dem Gleichgewicht geraten, — quälenste Kopfschmerzen
 peinigten sie, — trotzdem vermochte sie immer noch die geistige
 Spannkraft aufzubringen, die Sachlage zu überschauen und
-neue Entschlüsse zu fassen… Sie hatte getötet, — — doch
+neue Entschlüsse zu fassen … Sie hatte getötet, — — doch
 das war ihr kaum bewußt — sie zog jetzt den Lord mit sich
 ins Freie, obwohl Batty unwillkürlich vor ihr zurückschauerte.
 
-»Wir müssen fliehen… Deine Frau ist in der Nähe,« zischte
-sie mit zuckenden Lippen… »Wir müssen in die Wildnis gen
+»Wir müssen fliehen … Deine Frau ist in der Nähe,« zischte
+sie mit zuckenden Lippen … »Wir müssen in die Wildnis gen
 Osten, — — da ist das Boot, — — schnell … hinein, — was
-zögerst du, Cecil… Unserer beider Leben hängt von Sekunden
-ab…«
+zögerst du, Cecil … Unserer beider Leben hängt von Sekunden
+ab …«
 
 Der Lord gehorchte. Plötzlich fielen ihm seine Aufzeichnungen
 ein, seine Notizen, seine Ausarbeitung über den abenteuerlichen
 Zug durch Afrika.
 
-»Warte, — ich hole nur meine Schreibmappe, Constanze…«
+»Warte, — ich hole nur meine Schreibmappe, Constanze …«
 
 Sie wollte ihn zurückhalten, aber er riß sich abrupt
 los, er hing an seinem begonnenen Werk, das ihm die fürchterliche
@@ -2145,63 +2145,63 @@ Lord Batty wollte nach seiner Pistole greifen.
 
 »Lassen Sie das bitte,« sagte der Fremde höflich.
 
-»Mein Name ist Harst…«
+»Mein Name ist Harst …«
 
 Batty stutzte.
 
 »Harald Harst?«
 
-»Ja… — Setzen Sie sich, Mylord… Meine Freunde draußen
+»Ja … — Setzen Sie sich, Mylord … Meine Freunde draußen
 sorgen derweil schon für Miß Constanze. Wir sind hier leider
 um Sekunden zu spät gekommen. Allerdings macht es nicht
 viel aus, ob sie oder der Henker in Chartum die drei Burschen
 dort in die Hölle schickte. Jedenfalls sind Sie frei, Mylord.
 Setzen Sie sich, — ich habe mit Ihnen einiges zu besprechen.«
 
-Draußen ertönte plötzlich ein schrilles, tolles Weiberlachen…
+Draußen ertönte plötzlich ein schrilles, tolles Weiberlachen …
 
-Batty horchte…
+Batty horchte …
 
 »Was war das, Mr. Harst?« flüsterte er scheu.
 
-»Nervenkrise, Mylord… Miß Constanze wird bewußt, daß
+»Nervenkrise, Mylord … Miß Constanze wird bewußt, daß
 sie verloren hat.«
 
 »Wie meinen Sie das?!«
 
-»Hier — nehmen Sie erst einmal eine Zigarette… Rauchen
+»Hier — nehmen Sie erst einmal eine Zigarette … Rauchen
 Sie! Sie werden die dämpfende Wirkung des Nikotin nötig
-haben…«
+haben …«
 
 Batty sank matt in einen der Stühle.
-»Jetzt … streiken meine Nerven… Es war zu viel, es
-… kam zu plötzlich… — Oh, die Zigarette tut mir gut… — Haben
+»Jetzt … streiken meine Nerven … Es war zu viel, es
+… kam zu plötzlich … — Oh, die Zigarette tut mir gut … — Haben
 Sie Constanze bei meiner Befreiung geholfen?«
 
-»Ja und nein… — Wie man’s auslegen will.«
+»Ja und nein … — Wie man’s auslegen will.«
 
-»Sie sprechen in Rätseln…!«
+»Sie sprechen in Rätseln …!«
 
-»Nein, ich muß Sie nur allmählich vorbereiten, Mylord…«
+»Nein, ich muß Sie nur allmählich vorbereiten, Mylord …«
 
 »Worauf denn?!«
 
-»Auf gewisse Irrtümer Ihrerseits… Ich kann mit der
+»Auf gewisse Irrtümer Ihrerseits … Ich kann mit der
 Wahrheit nicht auf einen Schlag hervortreten, sonst erginge
-es Ihnen ähnlich wie Constanze… — Da, sie lacht schon wieder…
-Und so lachen nur Geistesgestörte…«
+es Ihnen ähnlich wie Constanze … — Da, sie lacht schon wieder …
+Und so lachen nur Geistesgestörte …«
 
 Batty beugte sich vor. Sein blasses Gesicht war blank
 vor Schweiß.
 
-»Sie … Sie quälen mich…«
+»Sie … Sie quälen mich …«
 
-»Nein, ich bin nur vorsichtig… Ich wünsche nicht, daß
+»Nein, ich bin nur vorsichtig … Ich wünsche nicht, daß
 das Geheimnis dieser Nilinsel, das nun gelüftet ist, seine
 Schatten auch in die Zukunft wirft. — Mylord, hören Sie
-mir geduldig zu… Ich muß etwas weiter ausholen. Eines Tages,
+mir geduldig zu … Ich muß etwas weiter ausholen. Eines Tages,
 es sind etwa drei Monate her, erschien bei mir in Berlin
-Miß Constanze…«
+Miß Constanze …«
 
 — Er berichtete sehr behutsam, wie der erste Verdacht
 in ihm aufgestiegen war.
@@ -2214,62 +2214,62 @@ Harst machte seine Sache vortrefflich.
 
 Die Gefahr, daß das Nervensystem Lord Battys bei einer
 allzu plötzlichen Preisgabe der vollen Wahrheit ernsthaft
-schaden nehmen könnte, wurde von Harst geschickt vermieden.
+Schaden nehmen könnte, wurde von Harst geschickt vermieden.
 
 Batty saß mit gesenktem Kopf da und regte sich nicht.
 
-»Ihre Gattin ist schuldlos, Mylord… Das haben Sie wohl
-selbst erkannt… — Als der Wächter drüben auf dem anderen
+»Ihre Gattin ist schuldlos, Mylord … Das haben Sie wohl
+selbst erkannt … — Als der Wächter drüben auf dem anderen
 Inselchen, wo Chester Bragerfield hauste, mir verraten hatte,
 wo Sie gefangen gehalten wurden und sich als Führer anbot,
-landeten wir hier kurz nach Constanze, die…«
+landeten wir hier kurz nach Constanze, die …«
 
-Er zögerte…
+Er zögerte …
 
 »… die auch die drei abgelösten Wächter erschoß — mit
-Pfeilen… Auch das konnten wir nicht verhindern. Mir mußte
+Pfeilen … Auch das konnten wir nicht verhindern. Mir mußte
 in der Hauptsache daran gelegen sein, Ihre —« er zögerte
 »— Gesundheit zu schonen. Durch jenes eingedrückte Fenster
-sind wir hier eingedrungen…«
+sind wir hier eingedrungen …«
 
-Er hob den Kopf und horchte… Auch ich vernahm das Geräusch
-von Flugzeugmotoren…
+Er hob den Kopf und horchte … Auch ich vernahm das Geräusch
+von Flugzeugmotoren …
 
 »… Daß Sie hier irgendwo im Gebiet der Baggara verborgen
 gehalten wurden, Mylord, verriet mir der Pfeil, mit dem
 Smidtson erschossen wurde. Ich habe in Constanzes Koffer
 noch acht solcher Pfeile gefunden. Außerdem habe ich aber
 auch Glück gehabt, glückliches Zusammentreffen von Umständen
-erleichterte mir die Arbeit…«
+erleichterte mir die Arbeit …«
 
 Batty winkte müde ab. »Verkleinern Sie doch Ihre Verdienste
-nicht, Mr. Harst… — — Ob … ob meine Frau mir verzeihen wird?«
+nicht, Mr. Harst … — — Ob … ob meine Frau mir verzeihen wird?«
 
-… Das Propellergeräusch war verstummt…
+… Das Propellergeräusch war verstummt …
 
 »Das weiß ich nicht,« und ein herzliches Lächeln spielte
-um seinen Mund. »Fragen Sie sie selbst… Ich glaube jedoch,
-Sie werden nicht lange zu bitten brauchen…«
+um seinen Mund. »Fragen Sie sie selbst … Ich glaube jedoch,
+Sie werden nicht lange zu bitten brauchen …«
 
 Batty sprang auf.
 
 »Ist May hier auf der Insel?«
 
-»Rauchen Sie noch eine Zigarette… Dann ist Sie hier…
-— Setzen Sie sich! Mylord, beherrschen Sie sich…!«
+»Rauchen Sie noch eine Zigarette … Dann ist sie hier …
+— Setzen Sie sich! Mylord, beherrschen Sie sich …!«
 
-Aber Cecil Batty rannte schon ins Freie…
+Aber Cecil Batty rannte schon ins Freie …
 
 — — Der Morgen war da.
 
 Auf der Nilinsel standen eng umschlungen eine Frau
 und ein Mann, und die ersten Sonnenstrahlen glitzerten in
-den Freudentränen, die Lady May weinte… —
+den Freudentränen, die Lady May weinte … —
 
 Soll ich noch viel hinzufügen?
 
 Constanze Bragerfield lebt in einem Sanatorium unweit
-Kairos als … ›unheilbar‹… Ihr umnachteter Geist hat die
+Kairos als … ›unheilbar‹ … Ihr umnachteter Geist hat die
 Vergangenheit getilgt.
 
 Pieter van Laarsen, der’s so sehr mit der Gemütlichkeit
@@ -2280,14 +2280,14 @@ Und wir?!
 
 … Chartum ist in vielem eine sehr merkwürdige Stadt.
 Man kann sich dort genau so gut wie in Paris in allerlei
-Amüsierstätten die Nacht um die Ohren schlagen… Freilich
-trifft man dabei zuweilen auch gewisse Schlangen…
+Amüsierstätten die Nacht um die Ohren schlagen … Freilich
+trifft man dabei zuweilen auch gewisse Schlangen …
 
 Aber das ist wieder eine andere Geschichte, und nach
-meinen Notizen ist sie noch spannender als die ›Nilinsel‹…
+meinen Notizen ist sie noch spannender als die ›Nilinsel‹ …
 —
 
-Hiermit gute Nacht… Auch ein Mann wie ich hat Anspruch
+Hiermit gute Nacht … Auch ein Mann wie ich hat Anspruch
 auf Schlaf, obwohl meine Finger geradezu fiebern nach der<strong>
 Weißen Schlange</strong>, dem nächsten Band.
 
