@@ -188,7 +188,7 @@ belästigt worden,« sagte sie schroff. »Die haben Tage
 gebraucht, um nur festzustellen, daß mein armer Vater
 deshalb so eilig von der Terrasse ins Haus lief, weil er
 die kleine Wunde sofort gründlich säubern wollte. Als
-der Diener ihn in seinem Schlafzimmer fand, hatten er
+der Diener ihn in seinem Schlafzimmer fand, hatte er
 noch ein Fläschchen Jodtinktur in der Hand, und am
 Boden lag ein Messerchen, mit dem er die Wunde erweitert
 hatte. Es war entsetzlich. Es kam alles so völlig
@@ -284,7 +284,7 @@ Wellex hat vorgestern in London von der Bank dreitausend
 Pfund abgehoben und diese dem ägyptischen Arzte Doktor
 Mumir Safta übergeben, der sie in London weiter fortbildet
 und dessen Villa am Flusse nur Gäste mit Skarabäus-Ringen
-sieht. Ihr schätze, Harst, das ist verfänglich…«
+sieht. Ich schätze, Harst, das ist verfänglich…«
 
 Harald hatte vorhin die grüne Fliege auf ein Blatt
 Papier gelegt und holte nun sein großes Mikroskop aus
@@ -310,7 +310,7 @@ ziemlich reif für den Strang, — wir wollen nur den
 Namen Wellex schonen, denn Miß Sylvia Wellex als
 Helfershelferin dieser Ägypter ist eine Ungeheuerlichkeit!
 — Gehen Sie nicht nach Surby-Castle, Harst. Einmal ist es
-Überflüssig, und zweitens wird man Sie bestimmt abtun,
+überflüssig, und zweitens wird man Sie bestimmt abtun,
 und das wäre schade.«
 
 <@pagebreak/>
@@ -505,7 +505,7 @@ es sei denn, daß Sie mich eines besseren belehren, Harst,
 was ich nicht glaube.«
 
 »Acht Tage … Etwas wenig für eine so umfangreiche
-Sache. Schraut und ich werden uns höllisch, beeilen
+Sache. Schraut und ich werden uns höllisch beeilen
 müssen.«
 
 Howell schien dieser Ton nicht recht zu behagen. Er
@@ -658,7 +658,7 @@ Mann bedeutet, ein Wesen wie Sylvia anbeten zu dürfen.
 Sie kennen sie nicht, oder doch nur ganz oberflächlich. Ich
 bin in diesen vier Jahren, seit die unheimliche Fliege
 spukt, immer wieder mit ihr zusammengetroffen, sie hat
-nicht bezaubert, sie hat mir das Leben von einer neuen Seite
+mich bezaubert, sie hat mir das Leben von einer neuen Seite
 gezeigt, und — — nun muß dieser elende Mumir uns
 trennen!!«
 
@@ -686,7 +686,7 @@ Fliege, — — er warf, Harst! Ich sah die schnelle Bewegung
 der rechten Hand, und für mich besteht nun keinerlei
 Zweifel mehr, daß lediglich die Armkraft und die
 Geschicklichkeit eines farbigen Teufels hinter diesen Morden und
-Mordversuchen steckt … — — Weshalb lächeln Sie??!«
+Mordversuchen steckt … — — Weshalb lächeln Sie?!«
 
 Harald erhob sich und fischte die grüne Fliege aus dem
 Lysolwasser heraus. »Hier, Howell, haben wir das Geschoß …
@@ -823,7 +823,7 @@ mögen: Bock zum Gärtner!
 
 Ich schaute ihm nach und als er mir noch zuwinkte
 und dann entschwand, drehte ich mich nach Harald um und
-sagte: »Wenn der kein Doppelspiel treibt, will mich nicht Max
+sagte: »Wenn der kein Doppelspiel treibt, will ich nicht Max
 Schraut heißen!!« Ich hätte dies vielleicht in andere Worte
 gekleidet, aber vor Staunen setzte mein Hirn sozusagen aus
 und beschränkte sich auf die abgedroschene Redensart. Dieses
@@ -894,7 +894,7 @@ nach auswärts an den Vorhängen befestigt. — Harst rief
 mir zu: »Ich habe doch tadellos getroffen!! Mitten ins
 Zentrum!«
 
-War er Zentrum nannte, war eine schwarzumrandete
+Was er Zentrum nannte, war eine schwarzumrandete
 Anzeige eines Weißwarengeschäfts, und der Rüssel steckte
 genau in dem Grundstrich des Buchstabens »u«, der zum
 Worte »Gummiband« gehörte. — Das Ganze sah etwa so
@@ -907,9 +907,9 @@ Weise):
 <div class="img"><img alt="Zeitungsausschnitt mit schwarzem Rahmen und dem Text: 'Prima Gummiband in allen Breiten billigst!' Unter dem 'u' von Gummiband ein kleiner Strich mit der Bezeichnung 'Rüssel'" src="PrimaGummiband.png" style="width: 100%; height: auto;"/></div>
 
 Eine Erklärung hierzu erübrigt sich. Man erkennt den
-Rüssel, den runden Kopf mit den beiden Augen, den runden,
+Rüssel, den runden Kopf mit den beiden Augen, den runden
 Rumpf, den Hinterleib und die vier Beinpaare, von denen
-das zweite Paar außergewöhnlich) lang war und fast an die
+das zweite Paar außergewöhnlich lang war und fast an die
 stark ausgebildeten Sprungbeine einer Heuschrecke erinnerten.
 
 Harald war neben mich getreten, faßte vorsichtig zu und
@@ -1225,7 +1225,7 @@ Gebäude offenbar,« meinte er sachverständig. »Heutzutage
 liebt man keinerlei Romantik im Baustil, man errichtet Steinkästen
 mit glatten Fronten und nennt das moderne Sachlichkeit.
 Die Innenarchitektur schwelgt gleichfalls in öder Eintönigkeit.
-Wie schon ist doch dort oben die umlaufende
+Wie schön ist doch dort oben die umlaufende
 Galerie und dann die breite geschnitzte Treppe hinten, wie
 gemütlich das dunkle Gebälk und das künstlerische Geländer
 der Galerie. Ich muß Ähnliches schon einmal irgendwo gesehen
@@ -1279,7 +1279,7 @@ weiter bearbeiten wollen. Das ist alles, Mr. Harst.«
 gelangweilt den Fliesenboden der Halle, der größtenteils
 mit kostbaren Teppichen belegt war. »Wenn Sie Howell
 mit dreißigtausend Pfund zu ködern versuchten, — wieviel
-sind dann Schraut und ich wert?!« Er schaute aus und
+sind dann Schraut und ich wert?!« Er schaute auf und
 Mumir Safta gerade in die Augen. »Sie sind mir einfach
 unverständlich, Doktor Safta … Wie denken Sie sich wohl
 den Ausgang dieser Sache, die nun Ihrerseits total verfahren

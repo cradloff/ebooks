@@ -25,7 +25,7 @@ ertrug. »Aus Sylvias Andeutungen bin ich ja nicht
 recht klug geworden,« lächelte er still vor sich hin. »Überhaupt
 — meine Enkelin …!! Ich glaube, sie ist verliebt.
 Nur Verliebte haben derartige Launen … Weshalb bleibt
-sie so hartnäckig im Bett, obwohl sie doch selbst zugibt, das
+sie so hartnäckig im Bett, obwohl sie doch selbst zugibt, daß
 ihr nichts fehlt?! Also — erzählen Sie, Harst … Ihr Abenteuer
 erscheint mir beinahe zu phantastisch …!«
 
@@ -242,7 +242,7 @@ hastig, und ganz leise erklärte er dann:
 
 »Und was vermuten Sie, Mylord?«
 
-»Wahrscheinlich, dasselbe wie Sie, lieber Harst … Sylvia
+»Wahrscheinlich dasselbe wie Sie, lieber Harst … Sylvia
 ist im Bunde mit diesen Mördern, Sylvia ist dem Ägypter
 mit Leib und Seele verfallen und ihr Verlöbnis mit Howell
 hatte nur den Zweck, ihn auszuhorchen und Safta so zu
@@ -372,7 +372,7 @@ erschienen grünlich-braune Schatten …
 versagt …«
 
 Ich lief zum Anrichtetisch … Ich füllte ein Weinglas
-… Er trank! … er hatte dicke Schweißperlen auf
+… Er trank … er hatte dicke Schweißperlen auf
 der Stirn … Er atmete keuchend mit weit offenem
 Munde … Ich stützte ihm den Kopf. Er glich einem
 Sterbenden. Nochmals ließ ich ihn trinken … Ich fand
@@ -475,7 +475,7 @@ Innern des Gartensaales durch die offenen Türen die Fliege
 abschießen konnte. Reden Sie nicht immer von Schleudern
 und Werfen, Willcox! Daran glauben Sie ja selbst nicht.
 Wir sind uns nicht fremd … Sie waren damals, als wir
-die drei Chinesen, in Ham festnahmen, ebenso jung wie ich,
+die drei Chinesen in Ham festnahmen, ebenso jung wie ich,
 aber auch ebenso gescheit. Also — weg mit der lächerlichen
 Wurftheorie! Hat der Gärtner denn gesehen, daß Miß
 Sylvia irgendein Instrument mit hatte, die Fliege abzuschießen?«
@@ -491,7 +491,7 @@ davon … Das kann ich beschwören.«
 
 Harald nickte. »Etwas anderes konnten Sie auch gar
 <@pagebreak/>
-nicht beobachtet, Simpson. Das stimmt schon. Die grüne
+nicht beobachten, Simpson. Das stimmt schon. Die grüne
 Fliege surrt nicht so, daß ungeübte Augen die treibende
 Kraft erkennen. Und dann, wie gesagt: Es waren bis zum
 Gartensaal von meinem Platze aus nur fünf Meter etwa,
@@ -624,7 +624,7 @@ preßte die Fäuste gegen die Schläfen. »Gott im Himmel, —
 du bist von Sinnen, Kind …!! Bedenke, was du redest!!
 <@pagebreak/>
 Das darf nicht sein — — das nicht!! Eine Wellex im
-Gefängnis — — vor Gericht, — — niemals!! Eher — dem
+Gefängnis — — vor Gericht, — — niemals!! Eher — den
 Tod!!«
 
 Er ließ die Hände sinken. Sein schmerzzerwühltes Gesicht
@@ -632,7 +632,7 @@ wurde wieder hart.
 
 »Meine Herren, lassen Sie mich mit meiner Enkelin
 allein!« sagte er mit einer Geste, die keinen Widerspruch
-duldete. »Und Sie, Mr. Harst, geben mir bitte das Büchsen,
+duldete. »Und Sie, Mr. Harst, geben mir bitte das Büchschen
 heraus … Ich werde es den Herren von Scotland Yard
 aushändigen.«
 
@@ -690,7 +690,7 @@ soll Sylvia Wellex in Scotland Yard einliefern. Sie werden
 meine Wünsche respektieren, Mr. Harst … Auf Wiedersehen
 später …«
 
-Er verschwand im Gartensaal. Wir sahen, das Willcox
+Er verschwand im Gartensaal. Wir sahen, daß Willcox
 dort mitten unter dem Kronleuchter stand und den Lord
 ohne sich zu melden an sich vorbeiließ. Dann kam Willcox
 zu uns auf die Terrasse und trat auf Sylvia zu, deren
@@ -841,14 +841,14 @@ und dann ist alles geklärt … Es ist die einzig mögliche
 Lösung, wie er nun eingesehen hat … Daß das Büchschen
 leer war, zwang ihn zu diesem Entschluß. Willcox wird
 gerade nur noch zur Zeit kommen, den Tod feststellen zu
-Lassen … Und so soll es sein …«
+lassen … Und so soll es sein …«
 
 Sie schaute ihn aus feuchten Augen an.
 
 <@pagebreak/>
 »Und … und die Welt, Mr. Harst?!«
 
-»Das Urteil der Welt und milde ausfallen … Ein
+»Das Urteil der Welt wird milde ausfallen … Ein
 armer Wahnsinniger, — — wer wird mit ihm streng ins
 Gericht gehen?!«
 
@@ -1018,7 +1018,7 @@ beantworten, was Mr. Harst wünscht.«
 Harald wünschte: »Wissen Sie, ob Mylord bei Doktor
 Safta in Behandlung war?«
 
-»Gewiß, aber das ist schon Jahre leer, das war ganz
+»Gewiß, aber das ist schon Jahre her, das war ganz
 in der ersten Zeit, als Mr. Mumir Safta hier gemietet
 hatte …«
 
@@ -1044,7 +1044,7 @@ gewahrten, die neben dem Bassin eines Springbrunnens
 standen. Sie kehrten uns den Rücken zu. Es waren Lord
 Wellex und … Mumir Safta.
 
-<h2>3. Kapitel.</h2>
+<h2>5. Kapitel.</h2>
 
 <h3>Tabakpfeife, Schnürsenkel und Auge.</h3>
 
