@@ -204,7 +204,7 @@ war sehr unnötig, Fräulein Neugold …«
 
 »Machen Sie sich mit Ihrem Doktortitel nicht noch lächerlicher!
 Hier geht’s um Menschenleben, nicht um gedrechselte Phrasen
-…! Setzen sie sich dort in die Ecke und bedecken Sie sich
+…! Setzen Sie sich dort in die Ecke und bedecken Sie sich
 mit einer Bastmatte, Sie sind uns gründlich im Wege.«
 
 Das schlanke Mädel, das alles in allem, von ihrem Doktortitel
@@ -336,7 +336,7 @@ hatte Harsts Absichten und Wünsche so halb und halb erraten.
 Er drückte ihr denn auch zum ersten Male herzlich die Hand
 und meinte, er wolle den Fremden auf jeden Fall irgendwo
 verbergen, am besten in der Nähe der Pension Tompson, vielleicht
-auf einem der nicht mehr benutztem Wohnboote auf dem Nil.
+auf einem der nicht mehr benutzten Wohnboote auf dem Nil.
 
 »Ich werde alles ordnen«, erklärte Beatrix sehr selbstsicher
 und entfernte sich.
@@ -1522,7 +1522,7 @@ Die Walküre beleckte sich die tadellos getuschten Lippen,
 und ihr schwammiges Gesicht zerfloß vor Unterwürfigkeit.
 »Das ist natürlich etwas anderes, Mr. Harst … Wendnor schickte
 einen Zettel, daß ihm sein Gepäck nach Kairo nachgesandt
-werben sollte.«
+werden sollte.«
 
 »Ist das schon geschehen?«
 
@@ -2316,7 +2316,7 @@ Drei Männer springen zu, Allan fühlt die Handschellen,
 und ein Blick unsäglichen Hasses trifft Harst.
 
 Im Garten erscheinen wie hingezaubert bewaffnete Beamte,
-und mit einem hochmütigem Lächeln sinkt Blanche Tott wieder
+und mit einem hochmütigen Lächeln sinkt Blanche Tott wieder
 in ihren Sessel zurück.
 
 Major Ali Mansur spricht die kalte Formel, die hier
