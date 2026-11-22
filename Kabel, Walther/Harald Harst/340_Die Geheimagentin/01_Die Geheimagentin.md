@@ -64,7 +64,7 @@ hatte es dem Drehorgelspieler zugerufen, und die Aufmerksamkeit
 wandte sich ihm zu.
 
 Zu aller Erstaunen wiederholte sich nun genau dasselbe
-Schauspiel. Der sonnengebräunte blasierten junge Herr kaufte
+Schauspiel. Der sonnengebräunte blasierte junge Herr kaufte
 den Affen für dreißig Pfund.
 
 Als ob der Krüppel, der einen Buckel und ein Holzbein
@@ -97,7 +97,7 @@ einem Stapel Fässer eine Radlerin auftauchte, die eiligst
 dem Armenier folgte.
 
 Er warf seine Zigarette weg, nahm eine neue aus seinem
-Etui und verbraucht vier Zündhölzer zum Inbrandsetzen.
+Etui und verbrauchte vier Zündhölzer zum Inbrandsetzen.
 
 Einige Arbeiter, die neben zwei Lastautos im Schatten
 gesessen hatten, wurden jetzt plötzlich lebendig, und die
@@ -106,7 +106,7 @@ Wagen ruckten an.
 Der junge Ägypter hatte sich die Gesichtszüge der Radlerin
 genau eingeprägt. Es war eine Europäerin gewesen mit blondem
 Haar und schlanker Figur, nicht mehr ganz jung. Er wunderte
-sich, hier bei dieser Gelegenheit auf ein im gänzlich fremdes
+sich, hier bei dieser Gelegenheit auf ein ihm gänzlich fremdes
 Gesicht zu stoßen, denn er mußte es am besten wissen, daß
 die Blonde nicht zu den berüchtigten ›6‹ gehörte, die ihm
 so viel Unruhe brachten. In Gedanken freilich sagte er sich,
@@ -161,19 +161,19 @@ halb Speisezimmer.
 
 Der Mann, der nun ganz normal beide Beine benutzte,
 zündete sich zunächst einmal eine Zigarette an und setzte
-sich dann an den Schreibtisch, der ein sehr geschickt verborgene
+sich dann an den Schreibtisch, der eine sehr geschickt verborgene
 Geheimtür hatte. Er entnahm dem geöffneten Fach ein dünnes
 Heft, dessen Seiten mit Schreibmaschine beschrieben waren,
 und las nochmals die wichtigsten Stellen des Rundschreibens
 des unlängst insgeheim gegründeten Bundes der Polizeichefs
 der Geheimen politischen Polizei der Großstaaten.
 
-> »Ansicht Lord Hastings, London. — Die Gerüchte
+> »Bericht Lord Hastings, London. — Die Gerüchte
 von einer Geheimorganisation von sechs der reichsten Asiatischen
 zur Zerstörung der abendländischen Kultur und Ausdehnung
 der Herrschaft Asiens über ganz Europa sind auch zu mir
 gedrungen. Zweifellos hat diese Organisation die große Arbeitslosigkeit
-in Australien — als Schlag gegen das englische Mutterland
+in Australien als Schlag gegen das englische Mutterland
 hervorgerufen. Wir sind auf Unteragenten eines unbekannten
 Syndikats gestoßen, das mit ungeheuren Geldmitteln arbeitet.
 Nie gelang es uns, Hauptagenten festzunehmen, die etwas
@@ -188,7 +188,7 @@ an den Kanalschleusen sowie das Auftauchen von Agenten in
 Tunis, die gleichzeitige Rebellion mehrerer Nomadenstämme
 und die Meuterei unter der Fremdenlegion sind bedenkliche
 Sturmvorzeichen. Ich halte ein Zusammengehen mit der ägyptischen
-Regierung nicht nur für vorteilhaft sondern unbedingt nötig.«
+Regierung nicht nur für vorteilhaft, sondern unbedingt nötig.«
 
 … Der Mann, der dies soeben überflogen hatte, lehnte
 sich im Schreibsessel zurück, überlegte und schrieb dann
@@ -225,14 +225,14 @@ namens von Rotten gehöre, jedoch nur Inder und Japaner als
 Besatzung an Bord habe.
 
 > Die vorsichtige Beobachtung von Rottens, der äußerlich
-einem Armenier gleich, ergab ebenfalls einige Verdachtsmomente,
+einem Armenier gleicht, ergab ebenfalls einige Verdachtsmomente,
 da Herr von Rotten es vermied, die ägyptische Hauptstadt
-selbst zu besuchen und nur zuweilen auf den Hotelterrasse
-des Hotel ›Giseh‹ in Bulak anzureffen war.
+selbst zu besuchen und nur zuweilen auf der Hotelterrasse
+des Hotel ›Giseh‹ in Bulak anzutreffen war.
 
 > Heute am 22. September nachmittags zwischen fünf
 und sechs Uhr habe ich Schraut und Steen mit Hilfe der Drehorgel
-gewisse Winke erteil, wie sie sich fernerhin verhalten sollen.
+gewisse Winke erteilt, wie sie sich fernerhin verhalten sollen.
 Ihre in die Banknoten eingewickelten Berichte besagen nicht
 viel. Schraut und Steen wohnen unter anderen Namen in verschiedenen
 Hotels in Kairo.
@@ -242,7 +242,7 @@ Hotels in Kairo.
 haben, lediglich ein Argwohn gegen Herrn von Rotten, den
 Inhaber eines der größten Bankinstitute Berlins, erscheint
 am Platz, zumal die Mutter von Rottens eine Inderin aus
-dem Radschputen-Staaten gewesen ist. —
+den Radschputen-Staaten gewesen ist. —
 
 > An der Existenz der Geheimorganisation der ›Sechs‹
 zweifle ich nicht, ebensowenig daran, daß das Attentat auf
@@ -309,7 +309,7 @@ gröbere Blöße gegeben hätte, indem er Fred zu verfolgen
 suchte.
 
 »… Lieber Mansur, — eine oder besser zwei Fährten haben
-wir nun. Ich schlage Folgendes vor …«
+wir nun. Ich schlage folgendes vor …«
 
 Der Chef der Sonderabteilung stimmte allem zu, und
 gleich darauf verließen wir die Tarnbehausung, schlichen
@@ -322,7 +322,7 @@ ich begleitete Fred dann zunächst zu seinem Hotel, wo …
 
 Aber das muß ich eingehender schildern.
 
-Das Hotel — den Namen will ich besser verschwiegen
+Das Hotel — den Namen will ich besser verschweigen
 — war ein ganz neuer moderner Bau, der sich architektonisch
 in die Umgebung gut einpaßte. Wir benutzten den Fahrstuhl,
 und oben im dritten, etwas bescheideneren Stockwerk angelangt
@@ -386,7 +386,7 @@ als eine ›Sechs‹ zu deuten.
 
 Inzwischen hatte Fred die etwas verdröhnten Herrschaften
 auf das Bett gelegt. Sie waren wieder leidlich bei Sinnen.
-Daß sie mir auf Fragen nicht antworten würden, wuße ich,
+Daß sie mir auf Fragen nicht antworten würden, wußte ich,
 trotzdem tat ich so, als hielte ich sie für einfache Banditen.
 Daß ich die Monokel mir betrachtet hatte, konnten sie nicht
 beobachtet haben.
@@ -496,7 +496,7 @@ wanderten in den Tresor der Zigarettenfabrik.
 Beim Abendessen warf Harst eine sehr treffende Bemerkung
 in die spärliche Unterhaltung: »Wir sitzen hier wie die
 Füchse im vielleicht belagerten Bau. Anni Sander kann auch
-ein Monokel mit eingeschliffener<sup> </sup>›6‹ aus sechs
+ein Monokel mit eingeschliffener ›6‹ aus sechs
 Strichen haben … Vorsicht ist geboten.«
 
 Oberst Mansur nickte tiefsinnig. Die einzig vergnügten
@@ -584,7 +584,7 @@ wenigen Stellen kleine Gehöfte mit armseligen Feldern lagen.
 Harst, wie wir alle zweckmäßig als Eingeborene verkleidet,
 ritt mit einem ortskundigen Beamten voraus.
 
-Die Nacht war hell und sternenklaren, windstill und
+Die Nacht war hell und sternenklar, windstill und
 sehr heiß. Das Klappern der Dromedarhufe klang wie das rhythmische
 Gerassel von Kastagnetten. Auf den Felsen neben dem Weg
 hockten Aasgeier und vereinzelte Raubvögel. Wir begegneten
@@ -640,7 +640,7 @@ Mokattam zustreckte, gleichzeitig auch dicht an dem sogenannten
 Der ortskundige Beamte machte jetzt halt und erklärte,
 daß etwa eine halbe Meile vor uns in einem der fruchtbaren
 Täler das uralte Schloß des Mohammed Jussuf-Bey liege, der
-seinen Besitz schon vor längerer Zeit an einem einsiedlerischen
+seinen Besitz schon vor längerer Zeit an einen einsiedlerischen
 englischen Effendi verkauft habe, einen Lord Fitzmoor. Da
 der Tag bereits anbreche, betonte er, würde unsere Karawane
 von dem burgähnlichen Schloß des inzwischen verstorbenen
@@ -658,7 +658,7 @@ Seitental zurückzulassen und nur zu fünfen auf Umwegen weiterzureiten.
 Minz war äußerst mißvergnügt, daß er die verfolgte Fährte
 aufgeben mußte, und daß Harst ihn sogar an die Leine nahm.
 
-Es wurde jetzt sehr schnell hell geworden. Unser Führer
+Es war jetzt sehr schnell hell geworden. Unser Führer
 ritt voran, und nach etwa vierzig Minuten befanden wir uns
 in einer engen Schlucht, wo wir abstiegen, den Dromedaren
 Futter und Wasser gaben. Dann kletterten wir die Südostseite
@@ -729,7 +729,7 @@ Was nun Mansur?«
 Der Chef der G.P.P. erwiderte sofort: »Wir bleiben
 hier … Ali« — das war der Führer — »holt aus Kairo hundert
 Mann berittene Polizei herbei, und dann durchsuchen wir
-der Schloß. In fünf Stunden können die Beamten zur Stelle
+das Schloß. In fünf Stunden können die Beamten zur Stelle
 sein.«
 
 Harst lächelte etwas. »Versprechen Sie sich davon wirklich
@@ -775,7 +775,7 @@ der uns galt:
 
 Innerhalb der Felsgruppe befand sich ein geräumiges
 Versteck, das von außen und oben durch zahlreiche offene
-Stellen genügen Licht erhielt.
+Stellen genügend Licht erhielt.
 
 Daß wir ausgerechnet hier die Geheimagentin kennen
 lernen sollten, hatten wir auch nicht vermutet.
@@ -810,7 +810,7 @@ daß an ihrem linken Schuh ein Stückchen Gummiabsatz fehlte.
 Wir warteten nun voller Spannung darauf, daß sie den
 Schleier ihrer Persönlichkeit lüften würde. Sie mußte ja
 unbedingt weit mehr über die unheimlichen ›Sechs‹ wissen
-als sämtlicher Polizeipräsidien der Großstaaten zusammengenommen.
+als sämtliche Polizeipräsidien der Großstaaten zusammengenommen.
 Diese Mächte, Japan und Rußland mit einbegriffen, hatten
 alle mehr oder weniger den völlig unsichtbaren Druck dieser
 ›Sechs‹ gespürt, und es hatte lange gedauert, bis die Kabinette
@@ -845,7 +845,7 @@ schrittweise an die unübersteigbare Mauer, hinter der die
 wahren sechs Drahtzieher sitzen. Agenten der ›Sechs‹ kenne
 ich in Menge, — nie führte mich einer von ihnen auf die
 richtige Fährte. Ich ließ danach in der Weltpresse Artikel
-erscheinen, die sich mit diesem Problemen beschäftigten,
+erscheinen, die sich mit diesen Problemen beschäftigten,
 — und ich erreichte mein Ziel: Die Großmächte wurden aufmerksam
 — und wachsam! Dann trat mein Auftraggeber an mich heran,
 ohne zu ahnen, daß gerade ich jene Artikel in die Presse
@@ -921,7 +921,7 @@ Sie vermochte nur zu flüstern.
 
 Sie zog sehr flink den rechten Schuh aus, öffnete den
 breiten, derben Lederabsatz, der eine kleine Höhlung hatte,
-und holte ein Röllchen Papier hervor, einen Zeitungsausschnitte.
+und holte ein Röllchen Papier hervor, einen Zeitungsausschnitt.
 
 »Diese Anzeige fand ich vor einem halben Jahr in einer
 Berliner Zeitung …« erläuterte sie kurz.
@@ -948,7 +948,7 @@ Wir schauten durch die Fensteröffnungen …
 <h3>Die Signale mit dem Vorhang.</h3>
 
 Nördlich von Bulak, jenseits der großen Eisenbahnbrücke
-über den Nil, und somit nicht allzufern jener historischer
+über den Nil, und somit nicht allzufern jener historischen
 Stätte, wo Napoleon den Engländern die sogenannte Schlacht
 bei den Pyramiden lieferte, befindet sich auch in einigen
 halb verschlammten Seitenkanälen des ehrwürdigen Stromes
@@ -1009,7 +1009,7 @@ ich später einflechten.
 Uns kam es darauf an, die Vorgänge auf der Jacht aus
 nächster Nähe und dauernd zu beobachten. Harald hoffte,
 die berüchtigten sechs unbekannten Führer der Geheimorganisation,
-die in dem alten Kastell, das wahrscheinlich mehrere geheimen
+die in dem alten Kastell, das wahrscheinlich mehrere geheime
 Ausgänge besaß, niemals zu fassen gewesen wären, bei ihrer
 Rückkehr zum ›Südstern‹ abfangen zu können. Außerdem hatte
 Mansur noch weitere Vorkehrungen getroffen, die elegante
@@ -1022,10 +1022,10 @@ daß das Abendessen fertig sei.
 »Fred« sagte Harst zu dem imitierten Schwarzen, »du
 bleibst jetzt hier an Deck und …«
 
-Er verstummt jäh …
+Er verstummte jäh …
 
 Auf dem ›Südstern‹, auf dessen Deck sich einige Matrosen
-faul herumrekelten waren die Fenster des Hecksalons hell
+faul herumrekelten, waren die Fenster des Hecksalons hell
 geworden. Die Vorhänge wurden sofort geschlossen, und nur
 der eine schien nicht ganz in Ordnung zu sein. Er wurde
 immer wieder hin und her gezogen, und deutlich erkannten
@@ -1033,7 +1033,7 @@ wir hinter dem Fenster die Gestalt einer Frau, die sich
 gebückt hatte und deren Gesicht auch mir auffiel. Es war
 ein sehr pikantes, reifes Frauenantlitz, und wenn überhaupt
 noch ein Zweifel möglich gewesen, wer diese Dame sein könnte,
-so überhoben uns das hin und her pendelnde Monokel an weißer
+so überhob uns das hin und her pendelnde Monokel an weißer
 Schnur aller Zweifel.
 
 Jetzt blieben die Vorhänge geschlossen.
@@ -1051,7 +1051,7 @@ dem Heckaufbau stand ein alter Araber und rauchte Pfeife.
 
 »Signale waren das!« fügte Harst hinzu.
 
-»Der Fenstervorhang?!« warf der ›schwarze‘ Fred ein …
+»Der Fenstervorhang?!« warf der ›schwarze‹ Fred ein …
 
 »Ja … Und da wir uns zwischen den arabischen Zweimaster
 und die Jacht gelegt haben und der alte Kerl dort oben die
@@ -1137,7 +1137,7 @@ doch entziffern können.
 Oberst Mansur las, und seine Züge wurden immer starrer.
 Genau so wie es Fred und mir erging.
 
-> <em>Zettel</em> Nr 1. — Gruppe vier hat die drei
+> <em>Zettel Nr. 1.</em> — Gruppe vier hat die drei
 Deutschen, sowie Oberst Mansur, die am alten Friedhof in
 der Okbara-Gasse zum Schein die Zigarettenfabrik ›Rumeli‹
 eröffnet haben, noch in dieser Nacht ohne jene Rücksicht
@@ -1145,7 +1145,7 @@ zu beseitigen. Gruppe zwei und drei übernehmen dann morgen
 Nacht den Abtransport aus S. — Gruppe eins bleibt mit unserer
 Agentin der 5. Gruppe Anni Sander nach wie vor in Verbindung.
 
-> <em>Zettel</em> Nr. 2. (Antwort von Schmutzkahn ›Aleppo‹)
+> <em>Zettel Nr. 2.</em> (Antwort von Schmutzkahn ›Aleppo‹)
 Depeschen aus Berlin, Paris und London eingetroffen. Sturz des Dollars
 vorbereitet. Ford-Aktien sinken bereits, ebenso Standard-Oil,
 weitere Brände auf Petroleumsfeldern vorbereitet. — Befehle
@@ -1180,7 +1180,7 @@ und entziffert, — hier von uns.«
 Er verstummte ein paar Sekunden, rieb ein Zündholz
 an und verbrannte den Zettel samt seinen Lösungsversuchen
 über einer Aschenschale. Sein Gesicht hatte dabei einen
-etwas müden, abgespannt und fast verzagten Ausdruck angenommen.
+etwas müden, abgespannten und fast verzagten Ausdruck angenommen.
 Mansur fragte daher hastig:
 
 »Harst, was haben Sie?! Ihr Gesicht deutet …«
@@ -1211,7 +1211,7 @@ zur Brigg geschwommen kam. Sie möchte Effendi Harst sprechen.«
 
 — Es war die Fürstin Andante Pigmatelli, gebürtige
 Österreicherin, aber von Mutterseite her Singhalesin, also
-halb Inderin.«
+halb Inderin.
 
 <h2>6. Kapitel</h2>
 
@@ -1295,7 +1295,7 @@ streiken, denn ich bin in den letzten anderthalb Jahren
 durch eine furchtbare Schule gegangen. Ich … verfluche jetzt
 den Tag, an dem sich die ›Sieben‹ an mich heranmachte …«
 
-»Sieben?« warf Harst erstaunlich ein. »Also steht über
+»Sieben?« warf Harst erstaunt ein. »Also steht über
 den sechs mit den weißen Schnüren noch ein siebenter …«
 
 »Ja — der große Unbekannte …! Ein Genie, ein Teufel
@@ -1333,7 +1333,7 @@ Ehebund, indem er mich sofort unter der Verpflichtung strengster
 Verschwiegenheit in die sogenannte Gruppe der sechs Erwählten
 aufnahm, — ich erhielt das Monokel mit der weißen Schnur,
 und bei Hamilton, meinem Gatten, bemerkte ich nachher nur
-die blaue Schnur mit den fünf weißen Strähnen: Ich war meinen
+die blaue Schnur mit den fünf weißen Strähnen: Ich war meinem
 Gatten also übergeordnet, und damit begann der innere Zerfall
 unserer Ehe. Lassen Sie mich über das schweigen, was ich
 seit dem seelisch gelitten habe. Nur anfangs lebte ich wie
@@ -1426,7 +1426,7 @@ Maate, ein Schwarzer Boy, Herr von Rotten und an einem dritten
 Tischchen eine alte, weißhaarige Dame, offenbar Engländerin.
 
 Die beiden bärtigen, rotnasigen Schiffsoffiziere und
-ihr Schiffsjunge passten in diese elegante Umgebung hier
+ihr Schiffsjunge paßten in diese elegante Umgebung hier
 nicht recht hinein und … sie knobelten!! Wahrhaftig, sie
 hatten einen Knobelbecher, drei Würfel und spielten wohl
 die Zeche aus. —
@@ -1475,7 +1475,7 @@ aussah, ließ die Würfel liegen und streckte den Arm hoch
 Wer genau hinsah, bemerkte vielleicht, daß es in dem Becher
 grün aufglühte. Harsts Arm sank herab, und auf der Straße
 setzten sich ein paar Radler, zumeist arme Fellachen der
-Kleidung nach, in mäßiges Tempo … Vorneweg fuhr der kleiner
+Kleidung nach, in mäßiges Tempo … Vorneweg fuhr der kleine
 Lieferwagen einer Konditorei mit grellem Reklameanstrich.
 
 All das war vollkommen unauffällig.
@@ -1522,10 +1522,10 @@ Wir standen im Halbdunkel, und Fred ergänzte genauso
 überzeugt: »Die Schufte wollen den Angriff auf die Zigarettenfabrik
 verfolgen!«
 
-Harst lachte leise auf. Es lang etwas ironisch, und
+Harst lachte leise auf. Es klang etwas ironisch, und
 Mansur spürte wohl Haralds Zweifel:
 
-»Sind Sie andere Ansicht?«
+»Sind Sie anderer Ansicht?«
 
 »Ja, — überlegen Sie einmal, Mansur, ist nicht dieses
 helle Fenster mit den schwarz sich abzeichnenden Schatten
@@ -1539,7 +1539,7 @@ erfolgen, nichts wird geschehen, wenigstens nichts, was
 wir vorausahnen könnten … Rotten hat uns erkannt, Rotten
 lockte uns hierher, wir sollten dieses Fenster sehen …! Was
 er damit bezweckte, ist schwer zu ergründen … — Doch, geben
-Sie nun das Signal, daß das Haus da drüben, daß von Ihren
+Sie nun das Signal, daß das Haus da drüben, das von Ihren
 Leuten eingekreist ist, durchsucht wird — — schleunigst!
 Fred bleibt hier, wir machen die Razzia mit … Wir sind ja
 doch längst durchschaut worden.«
@@ -1556,7 +1556,7 @@ niemand im Haus.«
 Die blinden Greise Kairos, Opfer einer früheren Zeit,
 die gegen die verheerende berüchtigte ägyptische Augenkrankheit
 nichts tat, sind jammervolle Gestalten. Starr und stumm
-ließen sie alles über sich ergehen, antworten leise und
+ließen sie alles über sich ergehen, antworteten leise und
 verängstigt, wußten nichts von Fremden, die das Haus mitbenutzen …
 Nein, niemand sei außer ihnen hier gewesen, und das kleine
 Zimmer oben mit dem vorhin erleuchteten Fenster würde nie
@@ -1714,7 +1714,7 @@ bemerken.
 
 Ferner erzählten Sie, daß der Siebente stets in anderer
 Maske erschienen sei, wenn er sich einmal zeigte. Sie sahen
-ihn nur viermal — — immer im Halbdunkel, so auch, jetzt
+ihn nur viermal — — immer im Halbdunkel, so auch jetzt
 zuletzt im Jussuf-Schloß, wo die Wegschaffung des Goldes
 der Sakkara-Felshöhlen, die von Professor Kendi entdeckt
 waren, beraten und beschlossen wurde. Kendi selbst und seine
@@ -1723,7 +1723,7 @@ und verschleppt worden, und das Geheimnis der neuen Höhlengänge
 kam nie an die Öffentlichkeit. Sie betonten, Fürstin, daß
 der ›Siebente‹, der mit der blauen Schnur, von allen Sprachen
 das Deutsche am fließendsten beherrschte und — — stets Handschuhe
-trug oder doch, seiner Maske entsprechen, so schmutzige
+trug oder doch, seiner Maske entsprechend, so schmutzige
 Hände hatte, daß seine Handform unter der Schmutzkruste
 verschwand. Diese Vorsichtsmaßregeln waren auch verständlich,
 da Rotten tatsächlich recht auffallende Hände besitzt, die
@@ -1736,7 +1736,7 @@ Aufmerksamkeit auf der Hotelterrasse gewidmet hat. Ihre
 Besonderheit besteht in der unnatürlichen Farblosigkeit
 der Haut, die nur nach dem Handgelenk zu von scharf abgegrenzten
 bräunlichen Flecken unterbrochen wird. Kurz, Rotten leidet
-an der Hautfleckenkrankheit, daß heißt, der Haut fehlt zum
+an der Hautfleckenkrankheit, das heißt, der Haut fehlt zum
 Teil das Pigment, das bewirken würde, Sonnenbräune aufzunehmen.
 Ein Mann mit derart kennzeichnenden Händen muß sie verbergen.
 
@@ -1804,7 +1804,7 @@ Sinn ihrer arglosen Schäflein spekulieren und Mondscheinzauber,
 Lagerleben in Luxuszelten und — Hauptsache! — die ›Pyramiden
 bei Nacht‹ dabei in Rechnung setzen. Daß auch wir droben
 auf dem Deck des Autobus alle Requisiten mit uns führen,
-hat la leider eine weit ernsteren Zweck …« —
+hat ja leider einen weit ernsteren Zweck …« —
 
 Was er noch sprach, war nichts als genaue Verhaltensmaßregeln,
 damit niemand von uns sich irgendwie verriet. —
@@ -1838,7 +1838,7 @@ getrennte Gruppen von Zelten vor, — die Herren Unternehmer
 dieser ›Mondscheinnächte‹ führten einen scharfen Konkurrenzkampf
 gegeneinander. Vorsichtshalber hielten wir uns stark abseits,
 denn die Zusammensetzung unserer Autobuskarawane vertrug
-kein zu eingehende Prüfung der Teilnehmer. Die sechs Diener
+keine zu eingehende Prüfung der Teilnehmer. Die sechs Diener
 und Köche einschließlich des Schofförs verjagten zunächst
 die unglaublich zudringliche Bande von Eseltreibern und
 Hausierern, wobei es — echt Orient! — zu wüstem Gebrüll,
@@ -1906,7 +1906,7 @@ Die Felsenhöhlen von Sakkara, deren erste Eingänge
 sind zumeist Begräbnisstätten, sollen früher zahlreiche
 Mumien enthalten haben, bieten heute jedoch, da große Teile
 der Einsturzgefahr wegen gesperrt sind, nichts Besonderes
-mehr, es sei denn, daß ein Ägyptologen voller Begeisterung
+mehr, es sei denn, daß ein Ägyptologe voller Begeisterung
 die mit Hieroglyphen-Inschriften rundum geschmückten Wände
 als Quelle reiner Begeisterung ansieht.
 
@@ -1962,7 +1962,7 @@ und davon, und leider hat der Andenkenverkäufer diesmal
 nicht aufgepaßt.«
 
 Das Verschwinden des ›Blinden‹ war das zweite Auffällige,
-das dritte gestaltete sich noch merkwürdiger. Das eine Zeit
+das dritte gestaltete sich noch merkwürdiger. Das eine Zelt
 der Karawane fing Feuer und brannte mit sehr hoher Flamme
 vollkommen nieder.
 
@@ -1975,7 +1975,7 @@ Fürstin schwimmend zur Brigg entkam …«
 Die Fürstin Pigmatelli hatte uns bereits mitgeteilt,
 daß sie so vorsichtig gewesen, zunächst zum Ufer zu schwimmen,
 und daß Rotten sehr wahrscheinlich hoffte, sie sei, durch
-die Vergiftung zu sehr entkräftet, versunken und uns Leben
+die Vergiftung zu sehr entkräftet, versunken und ums Leben
 gekommen. Andererseits hatte sie aber auch betont, daß sie
 nicht wüßte, wo das Gold lagerte, das Rotten zu rauben gedachte.
 Der große Siebente hatte selbst vor den ›Erwählten Sechs‹
@@ -1992,10 +1992,10 @@ sofort wieder zurückzukehren.
 
 Noch bevor die Sternenhelle eingetreten war, hatten
 wir beide, beladen mit je einem strampelnden Paket, die
-Felswand und die Torbögen der Höhen zumeist kriechend erreicht.
+Felswand und die Torbögen der Höhlen zumeist kriechend erreicht.
 Harald hatte weder auf den Terrier Minz noch auf Jumbo verzichten
 wollen, denn Tiernasen und deren Augen sind nun einmal weit
-zuverlässiger als menschliche Sinnesorgane. Das bisher keiner
+zuverlässiger als menschliche Sinnesorgane. Daß bisher keiner
 der Karawanenleute in die Höhlen hineingeschlichen war,
 während wir vorsichtig näher rückten, bewies uns jetzt das
 vereinbarte Signal vom Zelt her, bevor wir in die Finsternis
@@ -2053,7 +2053,7 @@ eine ihrer Gehilfinnen. Ein schlaues Mädel, das unfehlbar
 richtig kombiniert. Der Seidenfaden ist für uns bestimmt
 und für sie eine Art Rückversicherung. — Weiter nun … Wir
 können uns hier nicht aufhalten, die Sache wird ernst, meine
-Annahme, das Rotten hier noch einen zweiten Ausgang entdeckt
+Annahme, daß Rotten hier noch einen zweiten Ausgang entdeckt
 hat, dürfte zutreffen, und dieser Ausgang muß in der Nähe
 des Teiches von Abusir liegen, wo die Karawane lagert …«
 
@@ -2069,7 +2069,7 @@ Die angenehm kühle Luft in diesen Grotten erfrischte
 uns. Der übermäßige Jagdeifer, um nicht Jagdfieber zu sagen,
 wurde so etwas gedämpft. Minz schnüffelte begierig, Harst
 leuchtete den Steinboden ab, und auf dem grauen Fels schimmerte
-ein kleiner blanker Fleck. Es war die Kappe einer Schnurschuhöse,
+ein kleiner blanker Fleck. Es war die Kappe einer Schnürschuhöse,
 die bereits den Farbüberzug verloren hatte.
 
 »Von einem Männerschuh,« meinte Harald leise. »Jetzt
@@ -2192,7 +2192,7 @@ Es war unmöglich …
 
 Dann erlahmten Annis Kräfte, Rotten packte sie, wollte
 sie in die Tiefe schleudern … Ein flinker Schatten huschte
-von oben her die Treppe hinab, einen Mann mit verwildertem
+von oben her die Treppe hinab, ein Mann mit verwildertem
 Bart, schlank, groß, totenbleich.
 
 Rotten sah ihn, sah die Waffe des anderen, ließ das
@@ -2226,7 +2226,7 @@ an der Felswand.
 
 Rotten grinste teuflisch.
 
-»Ihre Frau?! Nun ja, — — Ihrer Frau lebt, aber Sie
+»Ihre Frau?! Nun ja, — — Ihre Frau lebt, aber Sie
 werden sie kaum wiedersehen … Das heißt: Ihre Frau ist der
 ›Sechs‹ treu und weiß längst, daß Sie hier gefangen gehalten
 wurden …«
@@ -2336,7 +2336,7 @@ und Aufzeichnungen über seine Pläne. Im Jussuf-Schloß wurde
 Lord Fitzmoore verhaftet, auch nur einer der Genarrten des
 großen Schwindlers, der sich den Trick ersonnen hatte, angeblich
 Asien zum Kulturzentrum einer neuen Weltepoche zu machen.
-Unzählige waren seine Phrasen erlegen, Unzählige hatten
+Unzählige waren seinen Phrasen erlegen, Unzählige hatten
 insgeheim von hohen Ehren und Würden geträumt, die nachher
 zu vergeben wären, wenn Asiens uralte Kultur und Millionenheere
 gesiegt hätten …
@@ -2344,7 +2344,7 @@ gesiegt hätten …
 Rotten war nichts als ein Spekulant auf die Dummheit
 seiner Mitmenschen gewesen. Wie sich herausstellte, besaß
 er zwar selbst ein Millionenvermögen, als er die ›6‹ gründete.
-Doch dies genügte ihm nicht, Ehrgeiz kamen hinzu, sein Name
+Doch dies genügte ihm nicht, Ehrgeiz kam hinzu, sein Name
 sollte die Welt zittern machen … Zunächst aber beschränkte
 er sich darauf, sein eigenes Bankkonto zu vervielfachen.
 Geld war sein oberster Götze, und die, die er für seine
