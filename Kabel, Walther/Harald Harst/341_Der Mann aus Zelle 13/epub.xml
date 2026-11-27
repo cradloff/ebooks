@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<entry key="UUID">7f7f149b-54d2-42af-9967-2dde672777bd</entry>
+<entry key="title">Der Mann aus Zelle 13</entry>
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<entry key="group-position">341</entry>
+<entry key="language">de</entry>
+<entry key="description">
+Der Mann aus Zelle 13
+
+Im April hatte die Verhandlung gegen Karl Marx wegen schweren Einbruchs, Widerstandes und unbefugten Waffenbesitzes in einer westdeutschen Industriestadt ohne größere Anteilnahme der Presse stattgefunden. Das Urteil gegen den Angeklagten lautete auf ein Jahr Zuchthaus, da Karl Marx sich die Sympathien der Richter durch sein hartnäckiges Schweigen gründlich verscherzt hatte. Man kannte nicht einmal seinen wahren Namen, man wußte nichts über seine Vorstrafen, man stand in vielem vor einem Rätsel, was den ganzen Fall anbetraf, Marx hatte zweifellos Mithelfer gehabt, wie die Spuren in dem Fabrikkontor bewiesen, — — er schwieg, er nahm das Urteil mit einer ironisch-höflichen Verbeugung hin und bat nur, seine Strafe recht bald antreten zu dürfen.
+
+Das Zuchthaus Eisenstädt, wohin er dann überführt wurde, war eine ältere Anstalt, und Marx erhielt die Zelle 13 des ersten Stockwerkes im Block B, dem allerältesten Teil des Gebäudekomplexes. Er war ein sehr ruhiger, sehr genügsamer Sträfling, und die Anstaltsbeamten, die den Fall Marx genau kannten, gelangten schnell zu der Überzeugung, es hier mit einem ganz gefährlichen und noch viel schlaueren internationalen Gauner zu tun zu haben, zumal auch hier für ihn anonyme Geldsendungen einliefen, die ihm die Haft nach Möglichkeit erleichtern sollten, was freilich nicht angängig war.
+
+Trotzdem blieb der Fall ›Karl Marx‹, den wir mit größtem Interesse verfolgt hatten, für die Öffentlichkeit alltäglich.  Harst war damals in Nordschweden bei einem Bekannten, und er erwähnte in seinen knappen Kartengrüßen die Angelegenheit niemals. Nur unser vielseitiger Famulus Fred Steen und ich besprachen häufig die für uns doch recht mysteriöse Angelegenheit, und Fred, ein langer semmelblonder Jüngling mit frecher Wippnase und zuweilen noch frecherem Mundwerk, erklärte wiederholt:
+
+»Eine glatte Verrücktheit!«
+
+So ganz unrecht hatte er nicht. —
+</entry>
+<entry key="author">Walther Kabel</entry>
+<entry key="authorFileAs">Kabel, Walther</entry>
+<entry key="filename">Kabel, Walther - (341) Der Mann aus Zelle 13.epub</entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<entry key="rights">Public Domain</entry>
+<entry key="pubDate">1932</entry>
+<entry key="toc">true</entry>
+<entry key="toc-entries">h1, h3</entry>
+<entry key="freemarker">true</entry>
+</properties>
+
